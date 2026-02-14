@@ -1,0 +1,31 @@
+# Obsidian Vault Ignores
+# Notes & Data
+*.md
+memory/
+00-Inbox/
+11-Templates/
+22-Dashboards/
+33-PhD/
+44-Clinic/
+66-Literature/
+77-Archive/
+88-Mocs/
+99-Personal/
+# Obsidian
+.obsidian/
+# Temp/Logs
+.DS_Store
+Thumbs.db
+Untitled.*
+# Env/Secrets
+.env
+moltbook-api-key.yaml
+# Builds/Indexes
+*-Index.*
+# Memory/Logs
+memory/*.log
+memory/*.json
+memory/*.txt
+# Staging
+staging/
+_SECRET_REVIEW/
