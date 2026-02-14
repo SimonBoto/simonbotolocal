@@ -1,5 +1,15 @@
 # TOOLS.md - Local Notes
 
+## Obsidian/Zettelkasten
+- **CLI**: obsidian-cli v0.2.3 (`search/move/create --template`).
+- **Scripts**: `./scripts/promote-inbox.sh` (Inbox → Zettels), `vault-backup.sh` (git zip).
+- **Vault**: PARA+Zettel (Literature/PhD/Clinic); Daily/ home; Template_Zettel.md IDs/chains.
+- **Dashboards**: Home.md (Dataview queries); MOCs/Vault-Index.md.
+
+## What Goes Here
+Things like:
+
+
 Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
 
 ## What Goes Here
