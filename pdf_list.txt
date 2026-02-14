@@ -1,8 +1,0 @@
-./00-Inbox/01-Capture/Books/ΔΕ 1. ΕΙΣΑΓΩΓΗ ΣΤΑ OMICS.pdf
-./00-Inbox/01-Capture/Books/ΔΕ 1. ΣΤΟΧΕΥΜΕΝΗ ΚΑΙ ΜΗ ΣΤΟΧΕΥΜΕΝΗ ΜΕΤΑΒΟΛΟΜΙΚΗ.pdf
-./00-Inbox/01-Capture/Books/ΔΕ 2. ΚΑΤΗΓΟΡΙΕΣ ΜΕΤΑΒΟΛΙΤΩΝ ΜΕ ΚΛΙΝΙΚΟ ΕΝΔΙΑΦΕΡΟΝ.pdf
-./00-Inbox/01-Capture/Books/ΔΕ 2. ΤΙ ΕΙΝΑΙ ΟΙ ΜΕΤΑΒΟΛΙΤΕΣ-ΣΤΟΙΧΕΙΩΔΕΙΣ ΓΝΩΣΕΙΣ ΒΙΟΧΗΜΕΙΑΣ.pdf
-./00-Inbox/01-Capture/Books/ΔΕ 3. ΜΕΤΑΒΟΛΙΤΕΣ ΚΑΙ ΦΑΙΝΟΤΥΠΟΣ - ΤΑ ΠΛΕΟΝΕΚΤΗΜΑΤΑ ΤΗΣ ΜΕΤΑΒΟΛΟΜΙΚΗΣ ΣΤΗΝ ΚΛΙΝΙΚΗ ΠΡΑΞΗ.pdf
-./00-Inbox/01-Capture/Books/ΔΕ 4. ΕΞΑΤΟΜΙΚΕΥΣΗ ΤΗΣ ΘΕΡΑΠΕΙΑΣ – ΦΑΡΜΑΚΟΜΕΤΑΒΟΛΟΜΙΚΗ.pdf
-./00-Inbox/01-Capture/Books/ΔΕ 4. ΜΕΤΑΒΟΛΙΚΕΣ ΔΙΑΤΑΡΑΧΕΣ ΚΑΙ ΔΙΑΓΝΩΣΗ ΜΕΣΩ ΤΗΣ ΜΕΤΑΒΟΛΟΜΙΚΗΣ.pdf
-./00-Inbox/01-Capture/Glutamine enhances gut glutathione production.pdf
