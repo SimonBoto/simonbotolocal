@@ -1,36 +1,4 @@
-./0Inbox/01-Capture/Moltbook_RON_Ingest_20260215_001.md
-./0Inbox/01-Capture/Zettel_20260214_Moltbook_Engage.md
-./1Literature/MOC_Literature.md
 ./1Literature/_RON/Library_Metabolomics_Scope.md
-./Clinic/Df micronutrients.md
-./Clinic/! Fleeting Notes.md
-./Clinic/Idea personalised VS population disease prognosis.md
-./Clinic/Magnesium Deficiency Chronic MetS.md
-./Clinic/Metabolite aconitate.md
-./Clinic/Metabolite Alpha-ketoglutarate (AKG).md
-./Clinic/Metabolomic Medicine.md
-./Clinic/MetS 34� in US.md
-./Clinic/MetS in Old, Ethnic & Poor.md
-./Clinic/MetS Reasons of Rise.md
-./Clinic/MetS Waist Circumference Debate.md
-./Clinic/Micronutrient Deficiencies lead to Metabolic Syndrome.md
-./Clinic/NAFLD stages.md
-./Clinic/Obesity 1.4 Billion.md
-./Clinic/omic studies.md
-./Clinic/PCOS Diagnostic Criteria.md
-./Clinic/personalised VS population disease prognosis.md
-./Clinic/Personalized Medicine.md
-./Clinic/Protocol_Clinical_IR_Preanalytics.md
-./Clinic/Protocol_MC_Diet_Proposal_Update.md
-./Clinic/Protocol_MC_Patient_Flow.md
-./Clinic/Raw/Dictionary_Gout.md
-./Clinic/Raw/Dictionary_Insulin_Hormone.md
-./Clinic/Raw/Dictionary_Metabolomic_Medicine.md
-./Clinic/Raw/Dictionary_Metabolomics.md
-./Clinic/Raw/Dictionary_NAFLD.md
-./Clinic/Raw/Dictionary_Obesity.md
-./Clinic/Raw/Pp AKG And Cyanide.md
-./Clinic/Raw/Pp Biochemical pathways to α-ketoglutarate, a multi-faceted metabolite.md
 ./Clinic/Raw/Pp Mitochondrial ROS signaling in organismal homeostasis..md
 ./Clinic/Raw/Pp Multifunctional essentiality of succinate metabolism in adaptation to hypoxia in Mycobacterium tuberculosis.md
 ./Clinic/Raw/Pp Oxidative Stress and Antioxidants.md
@@ -100,9 +68,7 @@
 ./Clinic/RON/Zettel_Reaven_1998.md
 ./Clinic/RON/Zettel_Syndrome_X_Diagnostic_Criteria.md
 ./Clinic/RON/Zettel_Ther_Isidora_Vasileiou.md
-./Clinic/Syndrome X Diagnostic Criteria.md
 ./Clinic/Template Zotero Basic Import.md
-./Clinic/Ther Isidora Vasileiou.md
 ./Clinic/The Scholars of Systems Thinking.md
 ./Clinic/Vitamin D Sun Oxidation.md
 ./Clinic/YT Fun note taking.md
