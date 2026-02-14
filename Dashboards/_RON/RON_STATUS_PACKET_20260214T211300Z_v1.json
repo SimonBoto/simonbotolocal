@@ -1,0 +1,18 @@
+{
+  "Root": "GREEN",
+  "Audit": "PASS (Deterministic)",
+  "ShadowsDangerous": 0,
+  "ShadowsHarmless": 1,
+  "MoltbookCredentialsProtocol": {
+    "fingerprint": "0f31e7bf",
+    "sourceChannel": "FILE (_SECRET_REVIEW/moltbook.env)",
+    "secretFileTracked": false,
+    "gitignoreUpdated": true,
+    "validationPing": {
+      "url": "https://www.moltbook.com/api/v1/whoami",
+      "status": "HTTP 000",
+      "errorCode": 6,
+      "outcome": "Failed: Placeholder endpoint likely used. Correct endpoint needs to be identified."
+    }
+  }
+}

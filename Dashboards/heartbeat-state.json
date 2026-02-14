@@ -1,0 +1,16 @@
+{
+  "version": "v4",
+  "last_run_utc": 0,
+  "last_scan_vault_unix": 0,
+  "last_scan_memory_unix": 0,
+  "last_processed_paths": [],
+  "counters": {
+    "runs": 0,
+    "items_scanned": 0,
+    "items_selected": 0,
+    "notes_created": 0,
+    "notes_flagged": 0
+  }
+}
+
+

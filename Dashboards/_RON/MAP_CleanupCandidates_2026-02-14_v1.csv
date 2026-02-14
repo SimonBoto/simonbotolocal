@@ -1,0 +1,13 @@
+action,source_path,target_path,reason,risk,size_bytes,sha256  
+delete_candidate,./00-Inbox/01-Capture/Smash(1)/training for the analysis/~$\316\225\316\236\316\227\316\223\316\227\316\243\316\227 \316\221\316\240\316\237\316\244\316\225\316\233\316\225\316\243\316\234\316\221\316\244\316\251\316\235.docx,,Office temp,low,162,  
+delete_candidate,./00-Inbox/01-Capture/Books/Other/training for the analysis/~$\316\225\316\236\316\227\316\223\316\227\316\243\316\227 \316\221\316\240\316\237\316\244\316\225\316\233\316\225\316\243\316\234\316\221\316\244\316\251\316\235.docx,,Office temp,low,162,  
+delete_candidate,./00-Inbox/01-Capture/Smash(1)/\316\222\316\231\316\222\316\233\316\231\316\237\316\223\316\241\316\221\316\246\316\231\316\221/Thumbs.db,,OS cruft,low,26624,  
+delete_candidate,./00-Inbox/01-Capture/Books/Other/\316\222\316\231\316\222\316\233\316\231\316\237\316\223\316\241\316\221\316\246\316\231\316\221/Thumbs.db,,OS cruft,low,26624,  
+quarantine_candidate,./moltbook-log.txt,77-Archive/_QUARANTINE/moltbook-log.txt,log,low,621,  
+quarantine_candidate,./vault_inventory.txt,77-Archive/_QUARANTINE/vault_inventory.txt,temp inventory,low,518K,  
+quarantine_candidate,./Untitled.base,77-Archive/_QUARANTINE/Untitled.base,artifact,low,39,  
+quarantine_candidate,./FullBootstrapExecutionPlan.md.status,77-Archive/_QUARANTINE/FullBootstrapExecutionPlan.md.status,status,low,43,  
+... (144 .bak_link similar),77-Archive/_QUARANTINE/,Obsidian backups,med,~500B ea,  
+move_folder_candidate,Books/,77-Archive/_REVIEW_UNUSED_FOLDERS/Books/,unused junk,med,var,  
+move_folder_candidate,git-cleanup-backups/,77-Archive/_REVIEW_UNUSED_FOLDERS/git-cleanup-backups/,backups,low,var,  
+move_folder_candidate,staging/,77-Archive/_REVIEW_UNUSED_FOLDERS/staging/,temp,low,var,

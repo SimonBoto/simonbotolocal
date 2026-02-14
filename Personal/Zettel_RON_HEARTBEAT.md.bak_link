@@ -1,0 +1,23 @@
+# RON_HEARTBEAT.md Mirror (Synced: 2026-02-11 22:42)
+
+Source: /home/simon/.openclaw/workspace/HEARTBEAT.md
+
+---
+uid: ron-heartbeat-20260211
+date_created: 2026-02-11
+author: RON
+tags: #ron-core #heartbeat #audit
+parent-moc: RON_Core_Files_MOC
+status: active
+---
+
+```markdown
+# Twin PhD/Heartbeat Checklist (Batch: vault/memory; 2-4x/day)
+
+2. **Vault Audit**: memory_search \"unsorted Inbox gaps\". Propose obsidian atomic links.
+3. **MEMORY Review**: Read memory/2026-02-*.md (recent). Distill → MEMORY.md update.
+
+Track: memory/heartbeat-state.json (lastVault=unix, lastMemory=unix).
+
+Nothing? HEARTBEAT_OK.
+```

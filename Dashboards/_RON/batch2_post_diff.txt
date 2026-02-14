@@ -1,0 +1,27 @@
+ 22-Dashboards/_RON/Zettel-Junk.md                  |   9 +-
+ .../OLD_PROCESS_LOG_20260208_195725.md             |  22 -
+ 77-Archive/junk/old-dashboards/OLD_README.md       |   7 -
+ .../junk/old-dashboards/OLD_TEST-Dashboard.md      |   1 -
+ .../OLD_raduLinkNAFLDMetabolic2023.md              | 136 ------
+ ..._rayssiguierMagnesiumDeficiencyMetabolic2010.md | 118 ------
+ .../OLD_reavenBantingLecture19881988.md            |  72 ----
+ .../OLD_reddyMetabolicSyndromeInflammatory2019.md  | 368 -----------------
+ .../OLD_sungRoleVitaminInsulin2012.md              | 251 -----------
+ .../OLD_theikRelationshipEffectsVitamin2021.md     | 356 ----------------
+ ...homas-valdesAssociationVitaminDeficiency2017.md | 377 -----------------
+ ..._tuneCardiovascularConsequencesMetabolic2017.md | 150 -------
+ ...ballegooijenSynergisticInterplayVitamins2017.md | 445 --------------------
+ .../old-dashboards/OLD_zhangVitaminK2Health2024.md | 457 ---------------------
+ .../junk/old-templates/OLD_100_Templates_About.md  |  17 -
+ .../OLD_20260208-100_templates---about-3C3004.md   |  17 -
+ ...OLD_20260208-clinical-report-template-BDD953.md |  47 ---
+ ...260208-phd-research-protocol-template-9C3243.md |  46 ---
+ ...0260208-public-communication-template-560FD8.md |  47 ---
+ .../old-templates/OLD_20260208-template-mcmd.md    |  17 -
+ .../OLD_20260208-template-zotero-basic-importmd.md |  30 --
+ ..._metabolomics_intake_preanalytics_minimumsmd.md |  35 --
+ .../OLD_20260208-template_zettel_dense-0DDB6B.md   |  10 -
+ .../OLD_20260208-templates-notesmd.md              |   7 -
+ .../old-templates/OLD_Clinic_Report_Template.md    |  70 ----
+ .../old-templates/OLD_PhD_Protocol_Template.md     | 115 ------
+ 26 files changed, 8 insertions(+), 3219 deletions(-)

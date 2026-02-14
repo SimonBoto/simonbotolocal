@@ -1,0 +1,2 @@
+Default vault name:  TheOptimizedBrain
+Default vault path:  /home/simon/openclaw/RonVault/Obsidian/TheOptimizedBrain

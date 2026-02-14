@@ -1,0 +1,2 @@
+old_path,new_path
+$(sed 's/^/77-Archive\/junk\//' 22-Dashboards/_RON/batch3_files_final.txt | sed 's|$|,22-Dashboards/_RON/Zettel-Junk.md|g')
