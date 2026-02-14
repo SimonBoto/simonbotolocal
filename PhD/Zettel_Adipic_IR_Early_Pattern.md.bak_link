@@ -1,0 +1,19 @@
+---
+uid: 20260212074601
+tags: [insulin-resistance, phd-biomarker]
+parent-moc: [[88-Mocs/PhD_IR_MOC]]
+aliases: [Adipic Early IR]
+references: [RCT Zotero123]
+---
+
+# Adipic Acid Early IR Biomarker Pattern
+
+Adipic >5μmol/L in OA/GC-MS signals early insulin resistance.
+
+**Evidence:** RCT Zotero123 (priority 18/20: IR biomarker + RCT).
+
+**Confounders:** Fasting status.
+
+**Source:** [[00-Inbox/02-Triage/Raw_01_processed]]
+
+Links: [[Suberic_IR_Biomarker]] | [[88-Mocs/Biomarkers_MOC]]

@@ -1,0 +1,12 @@
+---\ntype: dictionary\nstatus: permanent\naliases: ["Metabolomics"]\n---\n
+The use of [[Metabolites]] measurement as an assessment tool or [[diagnostic tools]]. Finds application in various research fields and especially in [[Personalized Medicine]]. 
+
+
+## connection 
+[[Df Metabolomic Medicine]] 
+[[Df Metabolites]]
+
+
+Subtypes
+[[targeted metabolomics]]
+[[untargeted metabolomics]]

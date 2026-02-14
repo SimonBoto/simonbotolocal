@@ -1,0 +1,17 @@
+---
+uid: 20260212081415
+tags: [insulin-resistance, phd-biomarker, oa-pattern, gc-ms]
+parent-moc: [[88-Mocs/PhD_IR_MOC]]
+aliases: []
+references: [StudyX Zotero]
+---
+
+# Adipic Acid Cutoffs for IR
+
+**1-concept:** Normal plasma adipic <2 μmol/L; IR >5 μmol/L.
+
+**Evidence:** StudyX [[Zotero]].
+
+**Confounders:** Fasting status.
+
+Links: [[88-Mocs/Biomarkers_MOC]] [[88-Mocs/PhD_IR_MOC]] [[88-Mocs/Inbox_Sprint_MOC]]
