@@ -1,0 +1,23 @@
+PhD/Adipic_IR_Early_Pattern 1.md
+PhD/Adipic_Patient_ABC123.md
+PhD/Adipic_Patient_DEF456.md
+PhD/Dashboard_Core_Map.md
+PhD/Dashboard_Open_Loops_Queue.md
+PhD/FFA_Glucose_Correlation.md
+PhD/GC-MS_Preanalytics_Protocol.md
+PhD/Zettel_Adipic_Biomarker_Cutoff.md
+PhD/Zettel_Adipic_Biomarker_Cutoffs.md
+PhD/Zettel_Adipic_IR_Early_Pattern_1.md
+PhD/Zettel_Adipic_IR_Early_Pattern.md
+PhD/Zettel_FFA_Glucose_Correlation.md
+PhD/Zettel_FFA_Glucose_IR_Correlation.md
+PhD/Zettel_Homocysteine_Biomarker.md
+PhD/Zettel_HPA_Axis_Biomarker.md
+PhD/Zettel_IR_Cohort_N50.md
+PhD/Zettel_Metabolomics_Clinical_Atomic.md
+PhD/Zettel_Suberic_Biomarker_Cutoff.md
+PhD/Zettel_Suberic_Biomarker_Cutoffs.md
+PhD/Zettel_Suberic_IR_Biomarker.md
+PhD/Zettel_Suberic_IR_Plasma_Upreg.md
+PhD/Zettel_TEST_PhD_Note_09.md
+PhD/Zettel_TEST_PhD_Note_10.md
