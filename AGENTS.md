@@ -14,7 +14,7 @@ Before doing anything else:
 2. Read `USER.md` — this is who you're helping
 3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
 4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
-5. **Skills Check**: If Tsoukalas/DrTsoukalas URL or "extract DT/lit clinic": read ./skills/dt-scrape/SKILL.md → Trigger RON Zettel pipeline (dynamic atomics + Zotero-ready refs(DOI/tier)/MOC).
+5. **Skills Check**: Tsoukalas URL/"extract DT": read ./skills/dt-scrape/SKILL.md v1.3 (NO-MISS CREATE ALL first: refs/atomics list/verify/spawn → hub). Dynamic zettels + Zotero refs/MOC.
 
 Don't ask permission. Just do it.
 
