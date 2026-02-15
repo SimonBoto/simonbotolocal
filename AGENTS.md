@@ -14,6 +14,7 @@ Before doing anything else:
 2. Read `USER.md` — this is who you're helping
 3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
 4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
+5. **Skills Check**: If Tsoukalas/DrTsoukalas URL or "extract DT/lit clinic": read ./skills/dt-scrape/SKILL.md → Trigger RON Zettel pipeline (dynamic atomics/refs/MOC).
 
 Don't ask permission. Just do it.
 
@@ -159,15 +160,17 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
 - **Calendar** - Upcoming events in next 24-48h?
 - **Mentions** - Twitter/social notifications?
 - **Weather** - Relevant if your human might go out?
+- **Inbox Lit**: 00-Inbox new files/URLs? If DT/Tsoukalas → sessions_spawn dt-scrape task="batch Inbox URLs".
 
-**Track your checks** in `memory/heartbeat-state.json`:
+**Track your checks** in `22-Dashboards/heartbeat-state.json`:
 
 ```json
 {
   "lastChecks": {
     "email": 1703275200,
     "calendar": 1703260800,
-    "weather": null
+    "weather": null,
+    "inbox-lit": null
   }
 }
 ```
@@ -175,16 +178,17 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
 **When to reach out:**
 
 - Important email arrived
-- Calendar event coming up (&lt;2h)
+- Calendar event coming up (<2h)
 - Something interesting you found
 - It's been >8h since you said anything
+- New DT URL in Inbox → "Extracted X zettels via DT-Scrape".
 
 **When to stay quiet (HEARTBEAT_OK):**
 
 - Late night (23:00-08:00) unless urgent
 - Human is clearly busy
 - Nothing new since last check
-- You just checked &lt;30 minutes ago
+- You just checked <30 minutes ago
 
 **Proactive work you can do without asking:**
 
@@ -193,6 +197,7 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
 - Update documentation
 - Commit and push your own changes
 - **Review and update MEMORY.md** (see below)
+- **DT-Scrape Inbox**: If 00-Inbox/*.url (Tsoukalas) → Spawn sub-agent w/ dt-scrape skill.
 
 ### 🔄 Memory Maintenance (During Heartbeats)
 

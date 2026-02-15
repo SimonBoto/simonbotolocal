@@ -13,6 +13,12 @@ Things like:
 - Device nicknames
 - Anything environment-specific
 
+## DT-Scrape (RON Zettel Pipeline)
+- Trigger: "extract DT URL: <drtsoukalas.com link>" or detect Tsoukalas.
+- Output: 66-Literature/lit-hub + Refs/ + 33-Atomic/dynamic zettels (unique/strong tags #vitD #ir-biomarker) + 55-MOCs/MOC.
+- Batch: HEARTBEAT scans 00-Inbox/*.url → sessions_spawn dt-scrape.
+- Test: Hidden_Hunger → 16 notes forged.
+
 ## Examples
 
 ```markdown
