@@ -14,7 +14,7 @@ Before doing anything else:
 2. Read `USER.md` — this is who you're helping
 3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
 4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
-5. **Skills Check**: Tsoukalas URL/"extract DT": read ./skills/dt-scrape/SKILL.md v1.4 (NO-MISS ETERNAL: CREATE/VERIFY poll sessions_list/ls → hub). Zettels/Zotero/MOC verified.
+5. **Skills Check**: Tsoukalas/"extract DT": read ./skills/dt-scrape/SKILL.md v1.5 (VERIFY poll/interp/uid-global). NO-MISS eternal.
 
 Don't ask permission. Just do it.
 
