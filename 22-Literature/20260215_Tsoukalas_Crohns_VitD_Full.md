@@ -24,22 +24,43 @@ cited_refs: [Ref1_Ng_IBD, Ref2_Molodecky_IBD, Ref3_Fletcher_IBD, Ref4_Mouli_IBD,
 
 ## Key Mechanisms & Evidence
 ### VitD & Crohn's/IBD
-VitD def common in Crohn's → immune dysregulation/inflam [[Ref1_Ng_IBD],[Ref2_Molodecky_IBD]].
+VitD def in **80% Crohn's pts** → exacerbates flares/inflam/gut barrier/bone/muscle [[Ref1_Ng_IBD],[Ref2_Molodecky_IBD]].
 
-**Immune/Gut**:
-- ↓ Pro-inflam cytokines; VDR anti-microbial/microbiome role [[Ref3_Fletcher_IBD],[Ref12_Ooi_VDRGut]].
-- Bone/muscle health; def ↑ complications [[Ref6_LopezMunoz_IBD]].
+**Immune Modulation**:
+- ↓ Pro-inflam (TNF/IL-6) via VDR; ↑ anti-microbial peptides [[Ref7_Vojinovic_VDR],[Ref8_Golpour_VDR]].
+- T-cell signaling control [[Ref9_vonEssen_TCell]].
 
-### Clinical
-- Global IBD rise; VitD therapy ↓ activity [[Ref4_Mouli_IBD],[Ref5_Hlavaty_IBD]].
+**Gut/Microbiome**:
+- VDR promotes healthy metabolites/microbiome; ↓ colitis [[Ref12_Ooi_VDRGut],[Ref13_Chatterjee_VDRMicrobiome]].
+
+### Clinical Outcomes
+- Global IBD rise; VitD def ↑ markers/activity; therapy ↓ flares [[Ref4_Mouli_IBD],[Ref5_Hlavaty_IBD],[Ref6_LopezMunoz_IBD]].
 
 ## Protocols & Recommendations
-**VitD Supp**: Personalized high-dose; Metabolomics® monitor.
+**High-Dose VitD**:
+- **Dose**: Personalized 5,000 IU/day → target 50 ng/mL (monitor 3-5mo).
+- **Monitor**: Metabolomic Analysis® (organic/fatty acids).
+- **Safety**: Calcemia/oxalate watch; gut microbiome tie-in.
 
-**Why Usable**: [[66-Nutrition/Gut]] | [[44-Clinic/RON/LEDGER]] (VitD inputs → flares ↓).
+**Natural Sources** (Table):
+| Food/Source | VitD Boost |
+|-------------|------------|
+| Fatty fish | High |
+| Eggs/sun | Moderate |
+| Mushrooms | Fill gaps |
+
+## Metabolomic Analysis® for Crohn's
+Tsoukalas protocol: Predicts IBD via:
+- **Organic Acids**: VitD/C/mg/ω-3 status.
+- **Fatty Acids**: ω-3/ω-6 ratio → inflam pred [[Ref17_Sarandi_MetabProf]].
+- **Why Usable**: [[33-PhD/Biomarkers]] | [[Tsoukalas-Metabolomics.canvas]].
+
+**Why Usable**: [[66-Nutrition/Gut]] | [[44-Clinic/RON/LEDGER]] (VitD inputs → flares/CRP ↓).
 
 ## Key Quotes
-> "VitD def in 80% Crohn's pts exacerbates disease." (Intro)
+> "Vitamin D deficiency exacerbates the disease in Crohn's patients." (Intro)
+> "VDR emerges as key player in gut flora." (Rochester study)
+> "Metabolomics predicts IBD via organic/fatty acids." (Tsoukalas)
 
 ## Full Bibliography (Zotero-Ready)
 | # | Title | Authors | Journal/Year | DOI/PMID/PMC/URL | Note Link |
@@ -72,6 +93,11 @@ VitD def common in Crohn's → immune dysregulation/inflam [[Ref1_Ng_IBD],[Ref2_
 ## Atomic Notes Extracted (Strong Claims)
 | Note | Path | Key Claim |
 |------|------|-----------|
-*(Step2 pending)*
+| [[66-Nutrition/Gut/20260215_VitD_Def_Crohns_Prevalence]] | Gut | 80% Crohn's VitD def → flares. |
+| [[66-Nutrition/Autoimmune/20260215_VDR_Immune_IBD]] | Autoimmune | VDR ↓ TNF/IL-6. |
+| [[66-Nutrition/Gut/20260215_VitD_Gut_Microbiome_Crohns]] | Gut | VDR microbiome protection. |
+| [[66-Nutrition/Vitamins/20260215_VitD_Bone_Muscle_IBD]] | Vitamins | Bone/muscle complications. |
+| [[44-Clinic/RON/20260215_Protocol_VitD_Crohns]] | RON | High-dose protocol. |
+| [[33-PhD/Biomarkers/20260215_Metabolomics_IBD_Prediction]] | PhD/Biomarkers | Acids predict risk.
 
 **Next**: Extract atomics → [[00-Inbox]] | RON ledger.
