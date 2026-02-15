@@ -1,0 +1,77 @@
+Starting dup check batch1 on Sun Feb 15 12:01:01 PM EET 2026
+=== Checking ./Archive/Raw/Zettel_Personalised_Vs_Population_Prognosis_20260215_106.md : 'personalised vs population prognosis' ===
+DUP or ERROR: ./Archive/Raw/Zettel_Personalised_Vs_Population_Prognosis_20260215_106.md
+Output: 2026/02/15 12:01:02 Cannot find note in vault
+error
+=== Checking ./Archive/Raw/Dictionary_Insulin_Hormone_20260215_028.md : 'insulin hormone' ===
+DUP or ERROR: ./Archive/Raw/Dictionary_Insulin_Hormone_20260215_028.md
+Output: 2026/02/15 12:01:02 Cannot find note in vault
+error
+=== Checking ./Archive/Raw/Pp_Biochemical_Pathways_AKG_20260215_034.md : 'biochemical pathways akg' ===
+UNIQUE: ./Archive/Raw/Pp_Biochemical_Pathways_AKG_20260215_034.md
+=== Checking ./Archive/Raw/Zettel_MC_Intro_Update_20260215_087.md : 'mc intro update' ===
+DUP or ERROR: ./Archive/Raw/Zettel_MC_Intro_Update_20260215_087.md
+Output: 2026/02/15 12:01:02 Cannot find note in vault
+error
+=== Checking ./Archive/Raw/Pp_Mitochondrial_ROS_signaling_in_organismal_homeostasis_20260215_002.md : 'mitochondrial ros signaling in organismal homeostasis' ===
+DUP or ERROR: ./Archive/Raw/Pp_Mitochondrial_ROS_signaling_in_organismal_homeostasis_20260215_002.md
+Output: 2026/02/15 12:01:02 Cannot find note in vault
+error
+=== Checking ./Archive/Raw/Zettel_Heart_Metabolic_Omnivore_20260215_082.md : 'heart metabolic omnivore' ===
+DUP or ERROR: ./Archive/Raw/Zettel_Heart_Metabolic_Omnivore_20260215_082.md
+Output: 2026/02/15 12:01:02 Cannot find note in vault
+error
+=== Checking ./Archive/Raw/Zettel_Micronutrient_Deficiencies_MetS_20260215_100.md : 'micronutrient deficiencies mets' ===
+DUP or ERROR: ./Archive/Raw/Zettel_Micronutrient_Deficiencies_MetS_20260215_100.md
+Output: 2026/02/15 12:01:02 Cannot find note in vault
+error
+=== Checking ./Archive/Raw/Zettel_Gout_Obesity_Hippocrates_20260215_081.md : 'gout obesity hippocrates' ===
+DUP or ERROR: ./Archive/Raw/Zettel_Gout_Obesity_Hippocrates_20260215_081.md
+Output: 2026/02/15 12:01:02 Cannot find note in vault
+error
+=== Checking ./Archive/Raw/Zettel_New_20260215_102.md : 'new' ===
+DUP or ERROR: ./Archive/Raw/Zettel_New_20260215_102.md
+Output: 2026/02/15 12:01:02 Cannot find note in vault
+error
+=== Checking ./Archive/Raw/Zettel_Obesity_Prevalence_1_4B_20260215_103.md : 'obesity prevalence 1 4b' ===
+UNIQUE: ./Archive/Raw/Zettel_Obesity_Prevalence_1_4B_20260215_103.md
+=== Checking ./Archive/Raw/Zettel_Homocysteine_20260215_083.md : 'homocysteine' ===
+DUP or ERROR: ./Archive/Raw/Zettel_Homocysteine_20260215_083.md
+Output: 2026/02/15 12:01:02 Cannot find note in vault
+error
+=== Checking ./Archive/Raw/Dictionary_NAFLD_20260215_031.md : 'nafld' ===
+DUP or ERROR: ./Archive/Raw/Dictionary_NAFLD_20260215_031.md
+Output: 2026/02/15 12:01:02 Cannot find note in vault
+error
+=== Checking ./Archive/Raw/Zettel_Personalized_Medicine_20260215_107.md : 'personalized medicine' ===
+DUP or ERROR: ./Archive/Raw/Zettel_Personalized_Medicine_20260215_107.md
+Output: 2026/02/15 12:01:02 Cannot find note in vault
+error
+=== Checking ./Archive/Raw/Zettel_Clinical_Report_DEF456_20260215_078.md : 'clinical report def456' ===
+DUP or ERROR: ./Archive/Raw/Zettel_Clinical_Report_DEF456_20260215_078.md
+Output: Opening note: [phd__clinical_report_def456]_20260215_058.md
+=== Checking ./Archive/Raw/Pp_Multifunctional_essentiality_of_succinate_metabolism_in_adaptation_to_hypoxia_in_Mycobacterium_tuberculosis_20260215_003.md : 'multifunctional essentiality of succinate metabolism in adaptation to hypoxia in mycobacterium tuberculosis' ===
+DUP or ERROR: ./Archive/Raw/Pp_Multifunctional_essentiality_of_succinate_metabolism_in_adaptation_to_hypoxia_in_Mycobacterium_tuberculosis_20260215_003.md
+Output: 2026/02/15 12:01:03 Cannot find note in vault
+error
+=== Checking ./Archive/Raw/Zettel_MetS_Rise_Reasons_20260215_096.md : 'mets rise reasons' ===
+DUP or ERROR: ./Archive/Raw/Zettel_MetS_Rise_Reasons_20260215_096.md
+Output: 2026/02/15 12:01:03 Cannot find note in vault
+error
+=== Checking ./Archive/Raw/Dictionary_Metabolomic_Medicine_20260215_029.md : 'metabolomic medicine' ===
+DUP or ERROR: ./Archive/Raw/Dictionary_Metabolomic_Medicine_20260215_029.md
+Output: 2026/02/15 12:01:03 Cannot find note in vault
+error
+=== Checking ./Archive/Raw/Zettel_Insulin_Resistance_Cardiovascular_Connection_20260215_084.md : 'insulin resistance cardiovascular connection' ===
+DUP or ERROR: ./Archive/Raw/Zettel_Insulin_Resistance_Cardiovascular_Connection_20260215_084.md
+Output: 2026/02/15 12:01:03 Cannot find note in vault
+error
+=== Checking ./Archive/Raw/Zettel_NAFLD_Stages_20260215_101.md : 'nafld stages' ===
+DUP or ERROR: ./Archive/Raw/Zettel_NAFLD_Stages_20260215_101.md
+Output: 2026/02/15 12:01:03 Cannot find note in vault
+error
+=== Checking ./Archive/Raw/Zettel_Metals_20260215_094.md : 'metals' ===
+DUP or ERROR: ./Archive/Raw/Zettel_Metals_20260215_094.md
+Output: 2026/02/15 12:01:03 Cannot find note in vault
+error
+Batch1 complete (Sun Feb 15 12:01:03 PM EET 2026): Unique: 2, Dups: 18, Skipped: 0

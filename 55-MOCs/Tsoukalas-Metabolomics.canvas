@@ -1,0 +1,11 @@
+{
+  \"nodes\": [
+    {\"id\":\"lit\",\"x\":0,\"y\":0,\"width\":200,\"height\":100,\"type\":\"text\",\"text\":\"[[22-Literature/20260215_Tsoukalas_Hashimoto_VitD_Full]]\"},
+    {\"id\":\"refs\",\"x\":250,\"y\":0,\"width\":200,\"height\":100,\"type\":\"text\",\"text\":\"Refs Chain [[Ref10_TsoukalasFattyAcids]] etc.\"},
+    {\"id\":\"atomics\",\"x\":0,\"y\":150,\"width\":200,\"height\":100,\"type\":\"text\",\"text\":\"Atomics [[Protocol_HighDose_VitD_Hashimoto]]\"}
+  ],
+  \"edges\": [
+    {\"id\":\"lit-refs\",\"fromNode\":\"lit\",\"fromSide\":\"right\",\"toNode\":\"refs\",\"toSide\":\"left\"},
+    {\"id\":\"lit-atomics\",\"fromNode\":\"lit\",\"fromSide\":\"bottom\",\"toNode\":\"atomics\",\"toSide\":\"top\"}
+  ]
+}

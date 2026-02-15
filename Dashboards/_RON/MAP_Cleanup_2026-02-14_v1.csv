@@ -1,4 +1,0 @@
-old_path,new_path,old_name,new_name,reason,risk
-./BootstrapExecutionPlan.md,./_RON_CLEAN/Zettel_BootstrapExecutionPlan.md,BootstrapExecutionPlan.md,Zettel_BootstrapExecutionPlan.md,root prefix B1,low
-./FullBootstrapExecutionPlan.md,./_RON_CLEAN/Zettel_FullBootstrapExecutionPlan.md,FullBootstrapExecutionPlan.md,Zettel_FullBootstrapExecutionPlan.md,root prefix B1,low
-./PostBootstrapExecutionPlan.md,./_RON_CLEAN/Zettel_PostBootstrapExecutionPlan.md,PostBootstrapExecutionPlan.md,Zettel_PostBootstrapExecutionPlan.md,root prefix B1,low

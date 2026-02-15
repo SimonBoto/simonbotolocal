@@ -1,7 +1,0 @@
-{
-  "last_run_utc": "2026-02-14T08:23:00Z",
-  "runs": 3,
-  "last_secret_scan_utc": "2026-02-14T08:23:00Z",
-  "last_root_inventory_utc": "2026-02-14T08:23:00Z",
-  "notes": "Canonical heartbeat state for audits; no secrets. Stabilize applied."
-}
