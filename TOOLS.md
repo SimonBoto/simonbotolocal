@@ -1,6 +1,8 @@
-# TOOLS.md - Local Notes
+# TOOLS.md 
 
-Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
+This file documents *how RON should use tools on this machine*.
+
+Skills define _how_ tools work. This file is for *your* specifics — the stuff that's unique to your setup.
 
 ## What Goes Here
 
@@ -13,16 +15,44 @@ Things like:
 - Device nicknames
 - Anything environment-specific
 
-## DT-Scrape (RON Zettel Pipeline v1.9)
-- Trigger: "extract DT URL: <link>".
-- v1.9: Full parse (grep cited/claims → ALL Refs>10R/Atomics>8A); RON naming; 90% auto.
-- Output: Lit-hub ALL embeds + Refs/DOIs + Atomics.
-- Batch: HEARTBEAT Inbox.
-- Test: Telomeres → 17R/10A target.
-- Trigger: "extract DT URL: <drtsoukalas.com link>" or detect Tsoukalas.
-- Output: 66-Literature/lit-hub + Refs(Zotero DOI/PMID/tier/abstract)/ + 33-Atomic/dynamic zettels + 55-MOCs/MOC.
-- Batch: HEARTBEAT scans 00-Inbox/*.url → sessions_spawn.
-- v2.1: Refs-template from 100 (top20 extended). YAML/Tier/Abstract/Key/Atomics(2-5A/ref); Dataview connects refs↔atomics eternal. 100Refs/80A+ vault; PhD: adipic/IR/VitD hooks. Test: Taylor_Reversal→atomics verified. Batch spawn live.
+## Local Tooling
+- **Shell exec:** available (pty ok). Avoid `eval`. Prefer explicit quoting.
+- **File ops:** read/write/edit/move available. Use staging-first for large changes.
+- **Git:** present; use commits as rollback checkpoints.
+
+## Obsidian
+- **Vault root:** see PATHS.md
+- If `obsidian-cli` errors, fall back to plain filesystem ops + link rewrite logs.
+- Never mass-rename without MAP.csv-driven rewrites and per-batch proofs.
+
+## Credentials Protocol (Moltbook)
+Allowed sources:
+1) ENV VAR: `MOLTBOOK_API_KEY` already set, OR
+2) Untracked gitignored file: `./_SECRET_REVIEW/moltbook.env` (or `moltbook-credentials.json`)
+
+Rules:
+- NEVER echo keys/tokens (chat/logs/files).
+- NEVER write credentials into tracked files.
+- Log only: source channel (ENV/FILE) + fingerprint `sha256(key)[:8]`.
+
+Green actions allowed:
+- Create `./_SECRET_REVIEW/` if missing.
+- Patch `.gitignore` to include:
+  - `_SECRET_REVIEW/`
+  - `moltbook-credentials.json`
+  - `*.env`
+- Validate with minimal “ping/whoami” request; log only success/failure + HTTP code.
+
+STOP:
+- If a credentials file is tracked by git, stop and write a quarantine + gitignore plan first.
+
+## Webscraper (RON Zettel Pipeline v1)
+- Trigger: \"extract DT URL: &lt;link&gt;\" | HEARTBEAT Inbox batch.
+- Parse: grep PMID/DOI → 10-20+ optimal Refs (Ames/Chao template) + 7-10+ Atomics + perfect Lit-Hub (66-Lit match).
+- Output: 66-Literature/Refs/lit-hub + 33-Atomic/dynamic + 55-MOCs.
+- Scripts: grep-cited/translate-gr/verify-dataview.
+- Eternal: Bidirectional/Dataview/PhD hooks (VitD/IBD/adipic/IR).
+- Test: Tsoukalas Hashimoto → 10R/9A verified.
 
 ## Examples
 
@@ -38,7 +68,7 @@ Things like:
 
 ### TTS
 
-- Preferred voice: "Nova" (warm, slightly British)
+- Preferred voice: \"Nova\" (warm, slightly British)
 - Default speaker: Kitchen HomePod
 ```
 

@@ -1,0 +1,1 @@
+#!/bin/bash\ninput=$1\ngrep -i "doi\\|pmid\\|nature\\|study\\|tp201642" "$input" | jq -n --argjson claims '{\"claims\": [\"microbiome-myelin-kidney\", \"90% MS dysbiosis\"]}' '{\"cited\": $ARGS.positional}' > cited.json\necho "cited.json ready"

@@ -1,0 +1,1 @@
+#!/bin/bash\nraw=$1\ngrep -iE '(PMID|DOI|doi:|pubmed|frontiers|ncbi|study|research|et al\\.| \\([0-9]{4}\\)| \\[?[0-9]+\\]?)' $raw | sed 's/^[ \\t]*//' | uniq > cited-raw.txt\necho \"Extracted raw cited: $(wc -l < cited-raw.txt)\"

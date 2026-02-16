@@ -1,0 +1,1 @@
+#!/bin/bash\nfile=$1\ngrep -i 'drtsoukalas' $file && echo \"GR detected → translate\" && exec curl -s 'https://api.mtranslate.net/v1/translate?key=DEMO&from=el&to=en' --data-urlencode text@$file | jq -r '.translatedText' > $file.en.md || cp $file raw.md

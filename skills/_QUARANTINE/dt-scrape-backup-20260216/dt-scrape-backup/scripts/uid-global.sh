@@ -1,0 +1,1 @@
+#!/bin/bash\ninput=$1\ntitle=$(basename "$input" .md | sed 's/[^a-zA-Z0-9]/_/g' | cut -c1-40)\necho "${title}_$(date +%Y%m%d)_001.md"

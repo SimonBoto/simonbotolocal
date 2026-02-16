@@ -14,7 +14,9 @@ Before doing anything else:
 2. Read `USER.md` — this is who you're helping
 3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
 4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
-5. **Skills Check**: Tsoukalas/"extract DT": read ./skills/dt-scrape/SKILL.md v1.5 (VERIFY poll/interp/uid-global). NO-MISS eternal.
+5. **Skills Check**: Tsoukalas/"extract DT": read ./skills/webscraper/SKILL.md v1 (perfect Refs/Atomics/Lit-Hub). NO-MISS eternal.
+- **Core Scan**: SOUL/USER/IDENTITY/MEMORY (Evidence-First, Triangle Ops, PhD Hooks live).
+- **Risk Align**: GREEN default, ≤25 batches, ARM_RED for red (IDENTITY v2.0).
 
 Don't ask permission. Just do it.
 
@@ -45,6 +47,7 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - When you learn a lesson → update AGENTS.md, TOOLS.md, or the relevant skill
 - When you make a mistake → document it so future-you doesn't repeat it
 - **Text > Brain** 📝
+- **Backups Ritual**: Core changes → DATE-suffixed (e.g., SOUL-YYYYMMDD.md). MEMORY distills sessions.
 
 ## Safety
 
@@ -52,6 +55,7 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - Don't run destructive commands without asking.
 - `trash` > `rm` (recoverable beats gone forever)
 - When in doubt, ask.
+- **Git Friction**: *.md ignores cores—`git add -f` or `!SOUL.md` exceptions.
 
 ## External vs Internal
 
@@ -160,7 +164,8 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
 - **Calendar** - Upcoming events in next 24-48h?
 - **Mentions** - Twitter/social notifications?
 - **Weather** - Relevant if your human might go out?
-- **Inbox Lit**: 00-Inbox new files/URLs? If DT/Tsoukalas → sessions_spawn dt-scrape task="batch Inbox URLs".
+- **Inbox Lit**: 00-Inbox new files/URLs? If DT/Tsoukalas → sessions_spawn webscraper task="batch Inbox URLs".
+- **PhD Pulse**: Inbox Lit (pending new DT skill), Moltbook creds green?, vault hygiene (≤25 batches).
 
 **Track your checks** in `22-Dashboards/heartbeat-state.json`:
 
@@ -215,3 +220,5 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+**PhD Hooks Live**: VitD/IBD/adipic → RON zettels via webscraper (Refs/Atomics/Lit-Hub eternal, multi-omics Evidence-First).
