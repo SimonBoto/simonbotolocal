@@ -1,0 +1,1 @@
+# VitD Microbiome Tolerance Breach Autoimmunity\n\n**Claim**: VitD/gut microbiome systemic autoimmunity.\n\n**Evidence**: [[66-Literature/Refs/Refs_Yamamoto_VitD_Microbiome_Autoimmunity_20260216_040]].\n\n**Strength**: High.\n\n**Hooks**: PhD VitD IBD/MS.\n\n**From**: [[66-Literature/RA_Osteoarthritis_Tsoukalas_20260216_002]].

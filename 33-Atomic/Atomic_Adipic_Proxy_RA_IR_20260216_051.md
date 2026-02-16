@@ -1,0 +1,1 @@
+# Adipic Proxy RA IR Inflam\n\n**Claim**: Fatty/org acids GC-MS RA IR/inflam biomarker proxy adipic.\n\n**Evidence**: [[66-Literature/Refs/Refs_Tsoukalas_Fatty_Autoimmune_20260216_037]].\n\n**Strength**: High.\n\n**Hooks**: PhD adipic/IR.\n\n**From**: [[66-Literature/RA_Osteoarthritis_Tsoukalas_20260216_002]].

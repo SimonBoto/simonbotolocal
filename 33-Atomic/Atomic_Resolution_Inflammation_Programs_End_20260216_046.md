@@ -1,0 +1,1 @@
+# Inflam Resolution Programs End\n\n**Claim**: Resolution beginning programs inflam end.\n\n**Evidence**: [[66-Literature/Refs/Refs_Serhan_Resolution_Inflammation_20260216_034]].\n\n**Strength**: High.\n\n**Hooks**: PUFA/VitD Rx.\n\n**From**: [[66-Literature/RA_Osteoarthritis_Tsoukalas_20260216_002]].
