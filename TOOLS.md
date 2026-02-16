@@ -13,16 +13,16 @@ Things like:
 - Device nicknames
 - Anything environment-specific
 
-## DT-Scrape (RON Zettel Pipeline v1.8)
-- Trigger: "extract DT URL: <link>" / Inbox batch.
-- v1.8: Auto-scripts (GR-EN/DOI/git); 80% hands-off.
-- Output: Lit-hub rich eternal + Refs/Zotero + Atomics/MOC.
-- Batch: HEARTBEAT 00-Inbox/*.url → sessions_spawn v1.8.
-- Test: Autoimmune_Gut → 11 notes verified.
+## DT-Scrape (RON Zettel Pipeline v1.9)
+- Trigger: "extract DT URL: <link>".
+- v1.9: Full parse (grep cited/claims → ALL Refs>10R/Atomics>8A); RON naming; 90% auto.
+- Output: Lit-hub ALL embeds + Refs/DOIs + Atomics.
+- Batch: HEARTBEAT Inbox.
+- Test: Telomeres → 17R/10A target.
 - Trigger: "extract DT URL: <drtsoukalas.com link>" or detect Tsoukalas.
 - Output: 66-Literature/lit-hub + Refs(Zotero DOI/PMID/tier/abstract)/ + 33-Atomic/dynamic zettels + 55-MOCs/MOC.
 - Batch: HEARTBEAT scans 00-Inbox/*.url → sessions_spawn.
-- Test: SafeVit → 20 notes (rich refs).
+- v2.1: Refs-template from 100 (top20 extended). YAML/Tier/Abstract/Key/Atomics(2-5A/ref); Dataview connects refs↔atomics eternal. 100Refs/80A+ vault; PhD: adipic/IR/VitD hooks. Test: Taylor_Reversal→atomics verified. Batch spawn live.
 
 ## Examples
 
