@@ -13,7 +13,12 @@ Things like:
 - Device nicknames
 - Anything environment-specific
 
-## DT-Scrape (RON Zettel Pipeline v1.2)
+## DT-Scrape (RON Zettel Pipeline v1.8)
+- Trigger: "extract DT URL: <link>" / Inbox batch.
+- v1.8: Auto-scripts (GR-EN/DOI/git); 80% hands-off.
+- Output: Lit-hub rich eternal + Refs/Zotero + Atomics/MOC.
+- Batch: HEARTBEAT 00-Inbox/*.url → sessions_spawn v1.8.
+- Test: Autoimmune_Gut → 11 notes verified.
 - Trigger: "extract DT URL: <drtsoukalas.com link>" or detect Tsoukalas.
 - Output: 66-Literature/lit-hub + Refs(Zotero DOI/PMID/tier/abstract)/ + 33-Atomic/dynamic zettels + 55-MOCs/MOC.
 - Batch: HEARTBEAT scans 00-Inbox/*.url → sessions_spawn.
