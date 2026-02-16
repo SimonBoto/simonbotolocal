@@ -1,0 +1,1 @@
+# PUFA/Polyphenols Intricate Inflam RA/OA\n\n**Claim**: PUFA/polyphenols effects on inflam pathways.\n\n**Evidence**: [[66-Literature/Refs/Refs_Margină_PUFA_Polyphenols_20260216_038]] Tsoukalas.\n\n**Strength**: High.\n\n**Hooks**: Omega/VitD.\n\n**From**: [[66-Literature/RA_Osteoarthritis_Tsoukalas_20260216_002]].

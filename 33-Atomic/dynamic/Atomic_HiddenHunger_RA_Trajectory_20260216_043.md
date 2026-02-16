@@ -1,0 +1,1 @@
+# Hidden Hunger RA Trajectory\n\n**Claim**: Micronut defs (hidden hunger) ↑ RA severity/pathogenesis.\n\n**Evidence**: [[66-Literature/RA_Osteoarthritis_Tsoukalas_20260216_002]] [[Refs_Margină_ChronicInflam_Diet_20260216_035]].\n\n**Strength**: High.\n\n**Hooks**: VitD/Zn PhD.\n\n**From**: [[66-Literature/RA_Osteoarthritis_Tsoukalas_20260216_002]].
