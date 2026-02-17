@@ -1,1 +1,0 @@
-# IR Pathways RA Modifiable\n\n**Claim**: IR assoc RA activity; metabolic reprogramming Rx.\n\n**Evidence**: [[66-Literature/Refs/Refs_Gallagher_IR_RA_20260216_036]].\n\n**Strength**: High.\n\n**Hooks**: Adipic/IR PhD.\n\n**From**: [[66-Literature/RA_Osteoarthritis_Tsoukalas_20260216_002]].

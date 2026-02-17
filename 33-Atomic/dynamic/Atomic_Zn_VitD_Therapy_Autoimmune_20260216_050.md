@@ -1,1 +1,0 @@
-# Zn/VitD Therapy Autoimmune\n\n**Claim**: Zn/VitD therapeutic benefits autoimmune diseases.\n\n**Evidence**: [[66-Literature/Refs/Refs_Wessels_Zn_VitD_Autoimmune_20260216_041]].\n\n**Strength**: High.\n\n**Hooks**: PhD VitD/IBD.\n\n**From**: [[66-Literature/RA_Osteoarthritis_Tsoukalas_20260216_002]].

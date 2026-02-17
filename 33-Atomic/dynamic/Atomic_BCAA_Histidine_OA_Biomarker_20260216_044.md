@@ -1,1 +1,0 @@
-# BCAA/Histidine Serum OA Biomarker\n\n**Claim**: BCAA/histidine ratio novel knee OA metab biomarker.\n\n**Evidence**: [[66-Literature/Refs/Refs_Zhai_BCAA_Histidine_OA_20260216_030]].\n\n**Strength**: Medium (2010).\n\n**Hooks**: GC-MS PhD.\n\n**From**: [[66-Literature/RA_Osteoarthritis_Tsoukalas_20260216_002]].

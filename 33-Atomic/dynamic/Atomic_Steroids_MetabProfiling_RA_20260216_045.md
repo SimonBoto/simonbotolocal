@@ -1,1 +1,0 @@
-# Steroids Novel RA Metab Profiling\n\n**Claim**: Metabolic profiling IDs steroids linked RA.\n\n**Evidence**: [[66-Literature/Refs/Refs_Yousri_Steroids_RA_20260216_033]].\n\n**Strength**: Medium.\n\n**Hooks**: Adipic proxy.\n\n**From**: [[66-Literature/RA_Osteoarthritis_Tsoukalas_20260216_002]].
