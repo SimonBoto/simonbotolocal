@@ -37,4 +37,4 @@ This file is curated. Daily logs live in `memory/YYYY-MM-DD.md`.
 - **Git Friction**: *.md gitignore blocks cores—force-add or !exceptions.
 - **PhD Hooks Live**: VitD/IBD/adipic biomarkers → RON zettels (Refs/Atomics/MOCs/Dataview eternal).
 
-*(Updated 2026-02-17: PATHS.md canonized (vault roots/pipeline map). Webscraper remnants purged. Git eternal.)*
+*(Updated 2026-02-17: PATHS.md canonized + git cores eternal (63→64 commits, SimonBoto/simonbotolocal synced). Webscraper purge/hygiene. Inbox templates (075/076) v1 primed. Daily log created.)*
