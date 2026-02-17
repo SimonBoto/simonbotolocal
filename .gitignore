@@ -1,6 +1,14 @@
 # Obsidian Vault Ignores
 # Notes & Data
 *.md
+!SOUL.md
+!IDENTITY.md
+!USER.md
+!AGENTS.md
+!MEMORY.md
+!TOOLS.md
+!HEARTBEAT.md
+!PATHS.md
 memory/
 00-Inbox/
 11-Templates/
