@@ -11,7 +11,7 @@ status: ref
 tier: 3
 summary: Thyroid hormones regulate mitochondrial biogenesis, uncoupling, and ROS production; hypo states impair ATP output.
 confidence: medium
-parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Hashimoto_Thyroiditis_Tsoukalas_20260215_008]]
+parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Hashimoto_Thyroiditis__20260215_008]]
 ---
 
 # Refs_Harper_ThyroidMito_074 (Harper 2008 | PMID:18279015 | Tier:3)

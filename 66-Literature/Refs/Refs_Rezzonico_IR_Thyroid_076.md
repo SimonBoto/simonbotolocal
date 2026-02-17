@@ -11,7 +11,7 @@ status: ref
 tier: 2
 summary: Positions thyroid dysfunction as part of metabolic syndrome driven by insulin resistance.
 confidence: high
-parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Hashimoto_Thyroiditis_Tsoukalas_20260215_008]]
+parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Hashimoto_Thyroiditis__20260215_008]]
 ---
 
 # Refs_Rezzonico_IR_Thyroid_076 (Rezzonico 2008 | PMID:18346005 | Tier:2)

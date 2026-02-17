@@ -1,7 +1,7 @@
 ---
 uid: 20260215160013
 title: Metabolomics Oncology
-authors: Unknown (Tsoukalas PDF)
+authors: Unknown ( PDF)
 year: 
 doi: 
 pmid: 

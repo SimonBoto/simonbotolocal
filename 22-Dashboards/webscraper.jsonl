@@ -1,0 +1,2 @@
+[]
+{\"date\":\"$(date +%Y-%m-%dT%H:%M:%S%z)\", \"status\":\"cores-wired\", \"skill\":\"webscraper-v1\"}

@@ -11,7 +11,7 @@ pages:
 abstract: |
   Analysis shows grass-fed beef tallow has significantly lower total PUFA (1.9% vs 3.45%), 66% less omega-6, 4x more omega-3, and omega-6/omega-3 ratio of 1.4 vs 16+. Grass-fed better aligns with ancestral diets low in PUFA.
 tier: 3 (1=high impact, 5=low)
-relevance: High relevance to grass-fed fats superiority in omega-3 content; counters grain-fed inflammation risks in Tsoukalas context.
+relevance: High relevance to grass-fed fats superiority in omega-3 content; counters grain-fed inflammation risks in  context.
 tags: [grass-fed, omega3, omega6, beef, ancestral-diet]
 status: zotero-ready
 ---

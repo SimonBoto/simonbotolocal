@@ -1,6 +1,6 @@
 ---
 aliases: [Trends Premature NCD Mortality]
-tags: [TsoukalasRef, NCD, Lancet2020]
+tags: [Ref, NCD, Lancet2020]
 uid: 20260216-057
 ---
 
@@ -12,4 +12,4 @@ uid: 20260216-057
 
 Summary/Abstract: [1990-2017 global NCD trends; autoimm relevance].
 
-Linked from: [[Autoimmune_GutSystem_Tsoukalas_20260215_009]]
+Linked from: [[Autoimmune_GutSystem__20260215_009]]

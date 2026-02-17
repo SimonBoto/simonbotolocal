@@ -5,7 +5,7 @@ parent-moc: [[55-MOCs/Autoimmune]]
 aliases: [VDR-Immune-IBD]
 status: atomic
 confidence: high
-source: [[22-Literature/Tsoukalas/Crohns/20260215_Tsoukalas_Crohns_VitD_Full]]
+source: [[22-Literature//Crohns/20260215__Crohns_VitD_Full]]
 ---
 # VDR Immune Modulation in IBD
 

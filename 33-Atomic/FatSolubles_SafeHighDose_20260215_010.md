@@ -5,7 +5,7 @@ parent-moc: [[55-MOCs/Literature]] | [[22-Dashboards/PhD_IR_MOC]] | [[55-MOCs/MO
 aliases: [FatSolubles_NoToxicity]
 status: atomic
 confidence: high
-source: [[66-Literature/Safe_Vitamin_Intake_Tsoukalas_20260215_002]]
+source: [[66-Literature/Safe_Vitamin_Intake__20260215_002]]
 ---
 # FatSolubles_SafeHighDose_20260215_010
 
@@ -13,7 +13,7 @@ source: [[66-Literature/Safe_Vitamin_Intake_Tsoukalas_20260215_002]]
 
 **Context/Chain**: [[33-Atomic/NoSuppToxicity_Deaths_20260215_012]] | [[Refs_CRN_VitSafety_011]] | [[PhD_IR_MOC]].
 
-**Sources/Data**: Tsoukalas clinic + CRN.
+**Sources/Data**:  clinic + CRN.
 
 **RON Ledger**: Input=Fat-sol myths; Output=High-dose protocol.
 **Questions/Next**: VitD+K synergy adipic IR?

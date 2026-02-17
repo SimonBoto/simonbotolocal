@@ -11,7 +11,7 @@ url: https://pubmed.ncbi.nlm.nih.gov/33157256/
 tags: [ref, myelin-microbiota, PFC]
 aliases: [Moon_MyelinGutBrain]
 status: ref
-parent-moc: [[55-MOCs/Literature]] | [[Gut_Bacteria_Myelination_Tsoukalas_20260216223400]]
+parent-moc: [[55-MOCs/Literature]] | [[Gut_Bacteria_Myelination__20260216223400]]
 confidence: high
 ---
 # Refs_Moon_MyelinMicrobiotaGutBrain_20260216223411 (Moon 2020 | PMID:33157256 | Tier:2)

@@ -10,7 +10,7 @@ status: ref
 tier: 3
 summary: Clinical overview of Hashimoto thyroiditis including epidemiology, pathophysiology, diagnosis, and management. Emphasizes autoimmune destruction of thyroid by TPO and Tg antibodies.
 confidence: medium
-parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Hashimoto_Thyroiditis_Tsoukalas_20260215_008]]
+parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Hashimoto_Thyroiditis__20260215_008]]
 ---
 
 # Refs_Lee_Hashimoto_Medscape_071 (Lee 2020 | Medscape | Tier:3)

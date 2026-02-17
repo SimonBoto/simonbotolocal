@@ -1,6 +1,6 @@
 ---
 aliases: [Telomeres Lifestyle Cancer Aging]
-tags: [TsoukalasRef, telomeres, lifestyle, cancer, CurrOpinClinNutr2011]
+tags: [Ref, telomeres, lifestyle, cancer, CurrOpinClinNutr2011]
 uid: 20260216-011
 ---
 
@@ -12,4 +12,4 @@ uid: 20260216-011
 
 Abstract: Lifestyle factors (oxid stress, diet) affect telomere length/lifespan.
 
-Linked from: [[Telomeres_ChronicDiseases_BioAge_Tsoukalas_20260216_010]]
+Linked from: [[Telomeres_ChronicDiseases_BioAge__20260216_010]]

@@ -24,6 +24,6 @@ Cancer, GI (IBD), metabolic syndrome, asthma, etc.
 Industrial formulations: snacks, soft drinks, noodles, ready-meals. High additives, low whole foods.
 
 ## Greek Summary
-See [[Processed/Inbox/2026-02-15-UPF-Tsoukalas-Greek.md]] – Dr Tsoukalas highlights 50% death risk, policy urgency.
+See [[Processed/Inbox/2026-02-15-UPF--Greek.md]] – Dr  highlights 50% death risk, policy urgency.
 
 *Atomic note created 2026-02-15 via OpenClaw.*

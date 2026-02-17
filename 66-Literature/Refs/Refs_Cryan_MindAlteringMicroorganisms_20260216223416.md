@@ -11,7 +11,7 @@ url: https://pubmed.ncbi.nlm.nih.gov/22968153/
 tags: [ref, gut-brain]
 aliases: [Cryan_MindAltering]
 status: ref
-parent-moc: [[55-MOCs/Literature]] | [[Gut_Bacteria_Myelination_Tsoukalas_20260216223400]]
+parent-moc: [[55-MOCs/Literature]] | [[Gut_Bacteria_Myelination__20260216223400]]
 confidence: high
 ---
 # Refs_Cryan_MindAlteringMicroorganisms_20260216223416 (Cryan 2012 | DOI:10.1038/nrn3346 | Tier:1)

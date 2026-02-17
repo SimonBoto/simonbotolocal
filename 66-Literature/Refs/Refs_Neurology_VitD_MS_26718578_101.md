@@ -6,7 +6,7 @@ doi: PMID:26718578
 year: 2016
 tier: 2
 status: ref-full
-parent-hub: [[66-Literature/MS_MultipleSclerosis_Tsoukalas_20260216_011]]
+parent-hub: [[66-Literature/MS_MultipleSclerosis__20260216_011]]
 phd-relevance: VitD_def_MS_CVD_proxy,IR_inflam
 confidence: high
 extracted_atomics: [[33-Atomic/VitD_MS_BBB_Breach_20260216_016], [[33-Atomic/VitD_Childhood_MS_Risk_20260216_019], [[33-Atomic/Safe_MegaDose_VitD_MS_20260216_027]]
@@ -22,7 +22,7 @@ extracted_atomics: [[33-Atomic/VitD_MS_BBB_Breach_20260216_016], [[33-Atomic/Vit
 
 **PhD Hooks**: VitD resistance → BBB breach (adipic/IR proxy GC-MS).
 
-**Source**: Neurology (Tsoukalas cited).
+**Source**: Neurology ( cited).
 
 **Key Quote**: "VitD <20ng/ml ↑ MS risk 50%; mega-dose safe."
 

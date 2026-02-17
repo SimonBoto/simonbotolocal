@@ -1,0 +1,7 @@
+{
+  "phd_focus": "VitD/IBD/adipic/miR-21/155/butyrate, Hashimoto's fatty acids (METHAP trial)",
+  "prefs": "≤25 batches, staging-first/GREEN only, evidence-first, no git memory dep, English Obsidian outputs, no fluff",
+  "vault_root": "/home/simon/openclaw/RonVault/Obsidian/TheOptimizedBrain",
+  "triangle": {"hub": "Dr_Simon_Xenidis", "ron": "auditor/scribe", "vertex3": "TBD"},
+  "memory_protocol": "Files+JSON: daily memory/YYYY-MM-DD.md → MEMORY.md curation → ron-profile.json injection"
+}

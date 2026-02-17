@@ -52,7 +52,7 @@ STOP:
 - Output: 66-Literature/Refs/lit-hub + 33-Atomic/dynamic + 55-MOCs.
 - Scripts: grep-cited/translate-gr/verify-dataview.
 - Eternal: Bidirectional/Dataview/PhD hooks (VitD/IBD/adipic/IR).
-- Test: Tsoukalas Hashimoto → 10R/9A verified.
+- Test:  Hashimoto → 10R/9A verified.
 
 ## Examples
 

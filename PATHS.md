@@ -17,12 +17,12 @@
 ## Pipeline Folders (Numbered Eternal Flow)
 | Folder | Rel Path | Contents Snapshot (2026-02-17 09:15) | PhD Hooks/Status |
 |--------|----------|--------------------------------------|------------------|
-| Inbox | `./00-Inbox/` | 2x MD: Lit_Extraction_Clinic_Sites_20260215_075.md, Process_Clinic_Lit_Step1_Template_20260215_076.md | Tsoukalos URLs → webscraper v1 batch |
+| Inbox | `./00-Inbox/` | 2x MD: Lit_Extraction_Clinic_Sites_20260215_075.md, Process_Clinic_Lit_Step1_Template_20260215_076.md |  URLs → webscraper v1 batch |
 | Templates | `./11-Templates/` | (Light/empty?) | Zettel/Ref/Atomic molds |
 | Dashboards | `./22-Dashboards/` | heartbeat-state.json pending | Kanban/overviews |
 | Atomic | `./33-Atomic/dynamic/` | 10x **D** RA/IR/VitD atomics (02-16 git) | Extracted facts (≤25 batches) |
 | MOCs | `./55-MOCs/` | Light (post-Lit) | Maps/integration |
-| Literature | `./66-Literature/` | 10x Tsoukalos (Hashimoto/VitD/RA_OA/Metab_Syndrome) + /Refs/ | Refs/Atomics/Lit-Hub eternal |
+| Literature | `./66-Literature/` | 10x  (Hashimoto/VitD/RA_OA/Metab_Syndrome) + /Refs/ | Refs/Atomics/Lit-Hub eternal |
 | Archive | `./77-Archive/` | Light | Done |
 | Processed | `./88-Processed/` | Light | Final |
 

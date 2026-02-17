@@ -5,7 +5,7 @@ parent-moc: [[55-MOCs/Nutrition/Inflammation]]
 aliases: [VitD-CRP-Causal]
 status: atomic
 confidence: high
-source: [[22-Literature/20260215_Tsoukalas_Hashimoto_VitD_Full]]
+source: [[22-Literature/20260215__Hashimoto_VitD_Full]]
 ---
 # VitD Deficiency Causally ↑ CRP/Inflammation (Bidirectional MR)
 

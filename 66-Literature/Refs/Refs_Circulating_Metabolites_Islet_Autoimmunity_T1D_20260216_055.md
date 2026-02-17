@@ -1,6 +1,6 @@
 ---
 aliases: [Circulating Metabolites Islet Autoimmunity T1D]
-tags: [TsoukalasRef, diabetes, autoimmunity, Diabetologia2019]
+tags: [Ref, diabetes, autoimmunity, Diabetologia2019]
 uid: 20260216-055
 ---
 
@@ -12,4 +12,4 @@ uid: 20260216-055
 
 Summary/Abstract: [VERIFY]
 
-Linked from: Autoimmune_GutSystem_Tsoukalas
+Linked from: Autoimmune_GutSystem_

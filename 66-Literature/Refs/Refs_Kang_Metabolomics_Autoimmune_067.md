@@ -7,7 +7,7 @@ doi: TBD
 pmid: TBD
 tier: 3
 abstract: Application of metabolomics profiling in autoimmune diseases like RA, SLE.
-relevance: Metabolomics biomarkers for stress-autoimmune links, as in Tsoukalas context.
+relevance: Metabolomics biomarkers for stress-autoimmune links, as in  context.
 status: partial
 parent-moc: [[55-MOCs/Literature]]
 aliases: [Kang_Metabolomics_Autoimmune]

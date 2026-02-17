@@ -1,6 +1,6 @@
 ---
 aliases: [Metabolic Pressure Self-Tolerance Breach]
-tags: [TsoukalasRef, autoimmunity, metabolism, NatureImmunology2017]
+tags: [Ref, autoimmunity, metabolism, NatureImmunology2017]
 uid: 20260216-056
 ---
 
@@ -12,4 +12,4 @@ uid: 20260216-056
 
 Abstract: Metabolic alterations (obesity, mTOR) pressure Tregs → self-tolerance loss.
 
-Linked from: [[Autoimmune_GutSystem_Tsoukalas_20260215_009]]
+Linked from: [[Autoimmune_GutSystem__20260215_009]]

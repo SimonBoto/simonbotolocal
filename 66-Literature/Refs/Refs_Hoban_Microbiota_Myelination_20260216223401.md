@@ -12,7 +12,7 @@ url: https://www.nature.com/articles/tp201642
 tags: [ref, microbiome, myelination, MS, #phd-biomarker]
 aliases: [Hoban_PFC_Microbiota]
 status: ref
-parent-moc: [[55-MOCs/Literature]] | [[Gut_Bacteria_Myelination_Tsoukalas_20260216223400]]
+parent-moc: [[55-MOCs/Literature]] | [[Gut_Bacteria_Myelination__20260216223400]]
 confidence: high
 ---
 # Refs_Hoban_Microbiota_Myelination_20260216223401 (Hoban 2016 | PMID:27045844 | Tier:2)
@@ -21,7 +21,7 @@ confidence: high
 
 **Abstract**: GF transcriptome myelin pathway enriched (Mbp/Plp/Myrf); neuronal activity up → plasticity. Regional PFC specific.
 
-**Relevance**: Dysbiosis MS risk (Tsoukalas 90%).
+**Relevance**: Dysbiosis MS risk ( 90%).
 
 **Source**: Transl Psychiatry.
 

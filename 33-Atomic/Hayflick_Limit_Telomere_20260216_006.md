@@ -1,6 +1,6 @@
 ---
 aliases: [Hayflick Limit]
-tags: [Tsoukalas, telomere, Hayflick, aging]
+tags: [, telomere, Hayflick, aging]
 uid: 20260216-006
 ---
 
@@ -8,4 +8,4 @@ uid: 20260216-006
 
 **1965: Diploid cells cease ~50 pops; telomere erosion defines.**
 
-Linked from: [[Telomeres_ChronicDiseases_BioAge_Tsoukalas_20260216_010]]
+Linked from: [[Telomeres_ChronicDiseases_BioAge__20260216_010]]

@@ -11,7 +11,7 @@ status: ref
 tier: 2
 summary: Reviews how circadian rhythms regulate thyroid hormone synthesis, secretion, and peripheral action; disruptions link to metabolic and autoimmune thyroid disease.
 confidence: high
-parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Hashimoto_Thyroiditis_Tsoukalas_20260215_008]]
+parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Hashimoto_Thyroiditis__20260215_008]]
 ---
 
 # Refs_Ikegami_Circadian_Thyroid_072 (Ikegami 2019 | PMID:31406343 | Tier:2)

@@ -1,8 +1,8 @@
 ---
-title: Mitochondria: The Organism's Energy Production Factories (Dr Tsoukalas)
-aliases: [Mitochondria-Energy, Tsoukalas-Mitochondria]
-tags: [mitochondria, energy, nutrition, tsoukalas]
-related: [[End-of-Inflammation-Tsoukalas]], [[Body-Genetically-Designed-Healthy-Tsoukalas]], [[Mitochondrial-Dysfunction-NCDs-Endocrine-2020]]
+title: Mitochondria: The Organism's Energy Production Factories (Dr )
+aliases: [Mitochondria-Energy, -Mitochondria]
+tags: [mitochondria, energy, nutrition, ]
+related: [[End-of-Inflammation-]], [[Body-Genetically-Designed-Healthy-]], [[Mitochondrial-Dysfunction-NCDs-Endocrine-2020]]
 source-greek: [[Processed/Inbox/2026-02-15-Mitochondria-Energy-Greek-Summary.md]]
 ---
 
@@ -24,8 +24,8 @@ source-greek: [[Processed/Inbox/2026-02-15-Mitochondria-Energy-Greek-Summary.md]
 7. Macros balance.
 8. Stress management.
 
-**Tsoukalas:** Metabolomics fixes 90%.
+**:** Metabolomics fixes 90%.
 
-Cited: [[TCA-Cycle-Metabolites-Nature-2020]], [[Urinary-Organic-Acids-ADs-Tsoukalas-2020]].
+Cited: [[TCA-Cycle-Metabolites-Nature-2020]], [[Urinary-Organic-Acids-ADs--2020]].
 
 *Atomic 2026-02-15.*

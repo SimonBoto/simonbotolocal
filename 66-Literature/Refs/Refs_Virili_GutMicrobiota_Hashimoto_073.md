@@ -11,7 +11,7 @@ status: ref
 tier: 2
 summary: Gut dysbiosis contributes to Hashimoto's via molecular mimicry, leaky gut, and altered Treg/Th17 balance.
 confidence: high
-parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Hashimoto_Thyroiditis_Tsoukalas_20260215_008]]
+parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Hashimoto_Thyroiditis__20260215_008]]
 ---
 
 # Refs_Virili_GutMicrobiota_Hashimoto_073 (Virili 2018 | PMID:30294759 | Tier:2)

@@ -11,7 +11,7 @@ status: ref
 tier: 2
 summary: Reviews selenium, iodine, VitD, iron roles in Hashimoto etiology and prevention.
 confidence: high
-parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Hashimoto_Thyroiditis_Tsoukalas_20260215_008]]
+parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Hashimoto_Thyroiditis__20260215_008]]
 ---
 
 # Refs_Hu_MultiNutr_Hashimoto_080 (Hu 2017 | PMID:28290237 | Tier:2)

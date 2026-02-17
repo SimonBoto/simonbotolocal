@@ -5,7 +5,7 @@ parent-moc: [[55-MOCs/Nutrition/Gut]]
 aliases: [VitD-Gut-Micro-Crohns]
 status: atomic
 confidence: high
-source: [[22-Literature/Tsoukalas/Crohns/20260215_Tsoukalas_Crohns_VitD_Full]]
+source: [[22-Literature//Crohns/20260215__Crohns_VitD_Full]]
 ---
 # VitD/VDR Gut Microbiome & Barrier in Crohn's
 

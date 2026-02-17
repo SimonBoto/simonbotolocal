@@ -5,7 +5,7 @@ parent-moc: [[55-MOCs/Clinic/RON]]
 aliases: [VitD-Protocol-Crohns]
 status: atomic
 confidence: high
-source: [[22-Literature/Tsoukalas/Crohns/20260215_Tsoukalas_Crohns_VitD_Full]]
+source: [[22-Literature//Crohns/20260215__Crohns_VitD_Full]]
 ---
 # VitD Protocol for Crohn's
 
@@ -13,7 +13,7 @@ source: [[22-Literature/Tsoukalas/Crohns/20260215_Tsoukalas_Crohns_VitD_Full]]
 
 **Context/Chain**: Immune/gut [[VDR_Immune_IBD_20260215]] | bone [[VitD_Bone_Muscle_IBD_20260215]].
 
-**Sources/Data**: [[Ref5_Hlavaty_VitDIBD]] | Tsoukalas recs.
+**Sources/Data**: [[Ref5_Hlavaty_VitDIBD]] |  recs.
 
 **RON Ledger**: Inputs=IU/day; Outputs=25(OH)D, flares, microbiome.
 

@@ -11,7 +11,7 @@ url: https://pubmed.ncbi.nlm.nih.gov/22031325/
 tags: [ref, microbiota-EAE]
 aliases: [Berer_CommensalMyelin]
 status: ref
-parent-moc: [[55-MOCs/Literature]] | [[Gut_Bacteria_Myelination_Tsoukalas_20260216223400]]
+parent-moc: [[55-MOCs/Literature]] | [[Gut_Bacteria_Myelination__20260216223400]]
 confidence: high
 ---
 # Refs_Berer_CommensalMyelin_20260216223415 (Berer 2011 | DOI:10.1038/nature10554 | Tier:1)

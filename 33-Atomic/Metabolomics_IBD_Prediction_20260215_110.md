@@ -5,7 +5,7 @@ parent-moc: [[55-MOCs/PhD/Biomarkers]]
 aliases: [Metabolomics-IBD-Pred]
 status: atomic
 confidence: high
-source: [[22-Literature/Tsoukalas/Crohns/20260215_Tsoukalas_Crohns_VitD_Full]]
+source: [[22-Literature//Crohns/20260215__Crohns_VitD_Full]]
 ---
 # Metabolomics Predicts IBD/Crohns Risk
 
@@ -13,7 +13,7 @@ source: [[22-Literature/Tsoukalas/Crohns/20260215_Tsoukalas_Crohns_VitD_Full]]
 
 **Context/Chain**: Gut micro [[VitD_Gut_Microbiome_Crohns_20260215]].
 
-**Sources/Data**: Tsoukalas [[Ref17_Sarandi_MetabProf]].
+**Sources/Data**:  [[Ref17_Sarandi_MetabProf]].
 
 **RON Ledger**: Pre-dx biomarkers.
 

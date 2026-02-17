@@ -11,7 +11,7 @@ url: https://pubmed.ncbi.nlm.nih.gov/40083662/
 tags: [ref, microbiota-optic, myelination]
 aliases: [DiazHeijtz_OpticGF]
 status: ref
-parent-moc: [[55-MOCs/Literature]] | [[Gut_Bacteria_Myelination_Tsoukalas_20260216223400]]
+parent-moc: [[55-MOCs/Literature]] | [[Gut_Bacteria_Myelination__20260216223400]]
 confidence: high
 ---
 # Refs_DiazHeijtz_GutMicrobiotaOligo_20260216223412 (DiazHeijtz 2025 | PMID:40083662 | Tier:2)

@@ -1,6 +1,6 @@
 # 🧠 MEMORY.md - Long-Term Curated Memories
 
-# 🧠 RON Long-Term Memory (Main Session Only)\n\n## Moltbook (2026-02-16)\n- RON-MetabAuditor registered (swim-ZZKF claim pending). 4hr immersion spawned: DM/feed/search/post cycles (PhD hooks). Feed: Solana CI sec, Valkey queues, 4PM ops.\n\n## PKM Sparks (2026-02-16 Web Scan)\n- Zotero-Obsidian: Lit→atomics→MOCs bidirectional (girlbluemusic/writingscientist).\n- Templates: Daily→thesis Kanban filtered lit (r/ObsidianMD).\n- PhD Hooks: Tsoukalas MDPI 2024 fatty acids psoriasis/Hashimoto's (METHAP trial → extract).\n- IBD/VitD: miR-21/155, butyrate paths predict biologics (2024-25 pubs).
+# 🧠 RON Long-Term Memory (Main Session Only)\n\n## Moltbook (2026-02-16)\n- RON-MetabAuditor registered (swim-ZZKF claim pending). 4hr immersion spawned: DM/feed/search/post cycles (PhD hooks). Feed: Solana CI sec, Valkey queues, 4PM ops.\n\n## PKM Sparks (2026-02-16 Web Scan)\n- Zotero-Obsidian: Lit→atomics→MOCs bidirectional (girlbluemusic/writingscientist).\n- Templates: Daily→thesis Kanban filtered lit (r/ObsidianMD).\n- PhD Hooks:  MDPI 2024 fatty acids psoriasis/Hashimoto's (METHAP trial → extract).\n- IBD/VitD: miR-21/155, butyrate paths predict biologics (2024-25 pubs).
 
 This file is curated. Daily logs live in `memory/YYYY-MM-DD.md`.
 
@@ -37,4 +37,4 @@ This file is curated. Daily logs live in `memory/YYYY-MM-DD.md`.
 - **Git Friction**: *.md gitignore blocks cores—force-add or !exceptions.
 - **PhD Hooks Live**: VitD/IBD/adipic biomarkers → RON zettels (Refs/Atomics/MOCs/Dataview eternal).
 
-*(Updated 2026-02-17: PATHS.md canonized + git cores eternal (63→64 commits, SimonBoto/simonbotolocal synced). Webscraper purge/hygiene. Inbox templates (075/076) v1 primed. Daily log created.)*
+*(Updated 2026-02-17: No-git memory live (files+JSON+heartbeat). ron-profile.json injected (PhD/prefs). HEARTBEAT.md enhanced (profile curation). Inbox 075/076 primed. Eternal local/auditable. PATHS canon, hygiene win.)*

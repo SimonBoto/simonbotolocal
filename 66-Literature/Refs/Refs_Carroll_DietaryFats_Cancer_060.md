@@ -11,7 +11,7 @@ pages: 1064S
 abstract: |
   Epidemiological studies suggest that high dietary fat intake may increase risk of certain cancers, particularly breast and colon. Animal studies support this, showing promotion of mammary tumors by high-fat diets. Mechanisms may involve altered hormone levels, bile acids, or free radicals. However, type of fat (saturated vs unsaturated) and overall calorie intake also play roles. [Note: Summary; full via PMID.]
 tier: 2 (1=high impact, 5=low)
-relevance: Contextualizes dietary fats-cancer link; Tsoukalas cites to nuance omega specifics over total fat.
+relevance: Contextualizes dietary fats-cancer link;  cites to nuance omega specifics over total fat.
 tags: [dietary-fats, cancer, epidemiology]
 status: zotero-ready
 ---

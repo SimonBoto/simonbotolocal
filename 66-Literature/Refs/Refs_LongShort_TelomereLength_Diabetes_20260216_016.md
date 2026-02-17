@@ -1,6 +1,6 @@
 ---
 aliases: [Telomere Length Diabetes]
-tags: [TsoukalasRef, telomere, diabetes, JAMA2014]
+tags: [Ref, telomere, diabetes, JAMA2014]
 uid: 20260216-016
 ---
 
@@ -10,4 +10,4 @@ uid: 20260216-016
 
 **Tier**: B (Commentary; T2D-telomere).
 
-Linked from: [[Telomeres_ChronicDiseases_BioAge_Tsoukalas_20260216_010]]
+Linked from: [[Telomeres_ChronicDiseases_BioAge__20260216_010]]

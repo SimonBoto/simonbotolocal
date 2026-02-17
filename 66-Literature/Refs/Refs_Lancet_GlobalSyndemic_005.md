@@ -27,4 +27,4 @@ confidence: high
 
 **Source**: Global syndemic framework (obesity + undernutrition).
 
-Links: [[66-Literature/Hidden_Hunger_Infections_Tsoukalas_20260215_001]]
+Links: [[66-Literature/Hidden_Hunger_Infections__20260215_001]]

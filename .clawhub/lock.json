@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "elite-longterm-memory": {
+      "version": "1.2.3",
+      "installedAt": 1771276575813
+    },
+    "memory-hygiene": {
+      "version": "1.0.0",
+      "installedAt": 1771276704514
+    },
+    "git-notes-memory": {
+      "version": "1.0.0",
+      "installedAt": 1771276707140
+    },
+    "lancedb-memory": {
+      "version": "1.0.0",
+      "installedAt": 1771276710059
+    }
+  }
+}

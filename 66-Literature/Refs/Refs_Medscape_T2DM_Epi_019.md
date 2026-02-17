@@ -22,10 +22,10 @@ confidence: medium
 
 **Abstract**: T2D epidemiology highlights global rise, risk factors like obesity/IR.
 
-**Relevance**: Essential for T2D prevalence context in Tsoukalas pathogenesis.
+**Relevance**: Essential for T2D prevalence context in  pathogenesis.
 
 **Source**: Medscape clinical overview.
 
 **Key**: T2D epidemic driven by modern lifestyle.
 
-Links: [[66-Literature/Diabetes_Type2_Pathogenesis_Tsoukalas_20260215_003]]
+Links: [[66-Literature/Diabetes_Type2_Pathogenesis__20260215_003]]

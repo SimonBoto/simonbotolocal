@@ -7,7 +7,7 @@ doi:
 pmid: 
 tier: 3 (gov report)
 abstract: Estimates of diabetes and prediabetes prevalence in US adults. 30.3 million (9.4%) diagnosed, 7.2 million undiagnosed. Trends showing rising prevalence.
-relevance: High; US trends underscore T2D epidemic, aligning with global data in Tsoukalas.
+relevance: High; US trends underscore T2D epidemic, aligning with global data in .
 url: https://www.cdc.gov/diabetes/pdfs/data/statistics/2017/2017-statistic-report.pdf
 tags: [ref, diabetes, trends, epi]
 aliases: [CDC_Diabetes_Trends_2017]
@@ -28,4 +28,4 @@ confidence: high
 
 **Key**: T2D epidemic confirmed by national data.
 
-Links: [[66-Literature/Diabetes_Type2_Pathogenesis_Tsoukalas_20260215_003]]
+Links: [[66-Literature/Diabetes_Type2_Pathogenesis__20260215_003]]

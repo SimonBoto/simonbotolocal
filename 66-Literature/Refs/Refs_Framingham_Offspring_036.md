@@ -7,11 +7,11 @@ journal: Am J Cardiol
 pmid: 2203248
 abstract: Framingham data: Increased LDL and decreased HDL associated with CAD risk independently of other factors. Low HDL risky even at low total cholesterol.
 tier: high
-relevance: Classic Framingham Offspring-linked analysis showing HDL protective thresholds (<45-50 mg/dL risk), key to Tsoukalas' claims.
+relevance: Classic Framingham Offspring-linked analysis showing HDL protective thresholds (<45-50 mg/dL risk), key to ' claims.
 tags: [#framingham, #hdl, #ldl, #cad, lit-full]
 aliases: []
 status: zotero-ready
-parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Cholesterol_Quality_Myth_Tsoukalas_20260215_004]]
-cited_by: [[66-Literature/Cholesterol_Quality_Myth_Tsoukalas_20260215_004]]
+parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Cholesterol_Quality_Myth__20260215_004]]
+cited_by: [[66-Literature/Cholesterol_Quality_Myth__20260215_004]]
 links: [https://pubmed.ncbi.nlm.nih.gov/2203248/]
 ---

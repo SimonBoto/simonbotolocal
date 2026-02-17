@@ -10,7 +10,7 @@ url: https://pubmed.ncbi.nlm.nih.gov/25070675/
 tags: [ref, microbiome-demyel]
 aliases: [Joscelyn_Demyel]
 status: ref
-parent-moc: [[55-MOCs/Literature]] | [[Gut_Bacteria_Myelination_Tsoukalas_20260216223400]]
+parent-moc: [[55-MOCs/Literature]] | [[Gut_Bacteria_Myelination__20260216223400]]
 confidence: high
 ---
 # Refs_Joscelyn_MicrobiomeDemyelination_20260216223414 (Joscelyn 2014 | Tier:2)

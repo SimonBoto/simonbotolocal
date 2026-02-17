@@ -6,7 +6,7 @@ doi: 10.3389/fneur.2022.796933
 year: 2022
 tier: 1
 status: ref-full
-parent-hub: [[66-Literature/MS_MultipleSclerosis_Tsoukalas_20260216_011]]
+parent-hub: [[66-Literature/MS_MultipleSclerosis__20260216_011]]
 phd-relevance: VitD_MS_immunoreg_neuroprotect
 confidence: high
 extracted_atomics: [[33-Atomic/VitD_MS_BBB_Breach_20260216_016], [[33-Atomic/Th17_IL17_VitD_Mod_20260216_018], [[33-Atomic/VitD_Childhood_MS_Risk_20260216_019]]

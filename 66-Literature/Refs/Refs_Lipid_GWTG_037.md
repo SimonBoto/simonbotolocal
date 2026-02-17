@@ -12,7 +12,7 @@ relevance: GWTG data shows lipid profiles in real-world CAD, questioning blanket
 tags: [#lipid, #gwtg, #cad, lit-full]
 aliases: []
 status: zotero-ready
-parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Cholesterol_Quality_Myth_Tsoukalas_20260215_004]]
-cited_by: [[66-Literature/Cholesterol_Quality_Myth_Tsoukalas_20260215_004]]
+parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Cholesterol_Quality_Myth__20260215_004]]
+cited_by: [[66-Literature/Cholesterol_Quality_Myth__20260215_004]]
 links: [https://pubmed.ncbi.nlm.nih.gov/19081406/]
 ---

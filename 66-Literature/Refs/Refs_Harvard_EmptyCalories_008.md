@@ -24,4 +24,4 @@ confidence: high
 
 **Key**: Empty calories lack micronuts → chronic disease.
 
-Links: [[66-Literature/Safe_Vitamin_Intake_Tsoukalas_20260215_002]]
+Links: [[66-Literature/Safe_Vitamin_Intake__20260215_002]]

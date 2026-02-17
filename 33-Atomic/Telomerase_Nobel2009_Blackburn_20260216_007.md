@@ -1,6 +1,6 @@
 ---
 aliases: [Telomerase Nobel]
-tags: [Tsoukalas, telomerase, Nobel2009]
+tags: [, telomerase, Nobel2009]
 uid: 20260216-007
 ---
 
@@ -8,4 +8,4 @@ uid: 20260216-007
 
 **Discovery → therapy potential; lengthens vs cancer/aging.**
 
-Linked from: [[Telomeres_ChronicDiseases_BioAge_Tsoukalas_20260216_010]]
+Linked from: [[Telomeres_ChronicDiseases_BioAge__20260216_010]]

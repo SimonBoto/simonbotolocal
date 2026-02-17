@@ -1,10 +1,10 @@
 ---
 uid: 20260215155010
 title: Cholesterol HDL/LDL Good/Bad Myth Outdated
-authors: Tsoukalas (~2018)
+authors:  (~2018)
 tags: [cholesterol, hdl-myth, ldl-myth, cvd-risk, inflammation-causal, framingham, ajh, vitd, p450, ir-biomarker, phd-biomarker, gc-ms, metabolomics, uvb, particle-size]
 aliases: [HDL_LDL_Myth]
-parent: [[66-Literature/Cholesterol_Quality_Myth_Tsoukalas_20260215_004]] | [[55-MOCs/MOC_DT_Cholesterol_Quality_20260215_004]] | [[22-Dashboards/PhD_IR_MOC]]
+parent: [[66-Literature/Cholesterol_Quality_Myth__20260215_004]] | [[55-MOCs/MOC_DT_Cholesterol_Quality_20260215_004]] | [[22-Dashboards/PhD_IR_MOC]]
 confidence: high
 ---
 
@@ -12,7 +12,7 @@ confidence: high
 
 **Claim**: Traditional HDL "good"/LDL "bad" labels are outdated myths; CVD risk driven by particle quality/size &amp; inflammation, not totals.
 
-**Evidence**: Tsoukalas (Metabolomic Medicine): Framingham/AJH data—focus particle analysis over simplistic HDL/LDL dichotomy. Inflammation causal.
+**Evidence**:  (Metabolomic Medicine): Framingham/AJH data—focus particle analysis over simplistic HDL/LDL dichotomy. Inflammation causal.
 
 **Chains**:
 - Particle risk: [[33-Atomic/SmallDense_LDL_Risk_20260215_028]] &lt;- [[33-Atomic/Large_Buoyant_LDL_Safe_20260215_032]]

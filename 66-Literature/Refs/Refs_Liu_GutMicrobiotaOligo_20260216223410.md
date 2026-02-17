@@ -11,7 +11,7 @@ url: https://www.sciencedirect.com/science/article/pii/S0024320524005423
 tags: [ref, microbiota-oligo, demyelination, MS]
 aliases: [Liu_GutOligoAxis]
 status: ref
-parent-moc: [[55-MOCs/Literature]] | [[Gut_Bacteria_Myelination_Tsoukalas_20260216223400]]
+parent-moc: [[55-MOCs/Literature]] | [[Gut_Bacteria_Myelination__20260216223400]]
 confidence: high
 ---
 # Refs_Liu_GutMicrobiotaOligo_20260216223410 (Liu 2024 | DOI:10.1016/j.lfs.2024.123248 | Tier:2)

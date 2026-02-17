@@ -5,7 +5,7 @@ parent-moc: [[55-MOCs/Literature]] | [[22-Dashboards/PhD_IR_MOC]] | [[55-MOCs/MO
 aliases: [EmptyCal_Epidemic]
 status: atomic
 confidence: high
-source: [[66-Literature/Safe_Vitamin_Intake_Tsoukalas_20260215_002]]
+source: [[66-Literature/Safe_Vitamin_Intake__20260215_002]]
 ---
 # EmptyCalories_Epidemic_20260215_015
 
@@ -13,7 +13,7 @@ source: [[66-Literature/Safe_Vitamin_Intake_Tsoukalas_20260215_002]]
 
 **Context/Chain**: [[33-Atomic/Metabolomics_PersonalDosing_20260215_014]] | [[Refs_Harvard_EmptyCalories_008]] | [[PhD_IR_MOC]].
 
-**Sources/Data**: Tsoukalas + Harvard.
+**Sources/Data**:  + Harvard.
 
 **RON Ledger**: Input=Cal paradox; Output=Micronut Rx.
 **Questions/Next**: Adipic elevation in empty-cal IR?

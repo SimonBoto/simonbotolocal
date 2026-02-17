@@ -1,6 +1,6 @@
 ---
 aliases: [Telomere Dysfunction Autoimmunity Aging]
-tags: [TsoukalasRef, telomere, autoimmunity, AgingDisease2011]
+tags: [Ref, telomere, autoimmunity, AgingDisease2011]
 uid: 20260216-015
 ---
 
@@ -10,4 +10,4 @@ uid: 20260216-015
 
 **Tier**: B (Review; telomere-autoimm-aging link).
 
-Linked from: [[Telomeres_ChronicDiseases_BioAge_Tsoukalas_20260216_010]]
+Linked from: [[Telomeres_ChronicDiseases_BioAge__20260216_010]]

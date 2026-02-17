@@ -1,10 +1,10 @@
 ---
 uid: 20260215155100
 title: Large Buoyant LDL Particles Protective Against CVD
-authors: Tsoukalas (~2018)
+authors:  (~2018)
 tags: [ldl, large-buoyant, pattern-a, cvd-protective, cholesterol, metabolomics, ir-biomarker, phd-biomarker, gc-ms, adipic, vitd, inflammation, framingham, p450]
 aliases: [Safe_LDL]
-parent: [[66-Literature/Cholesterol_Quality_Myth_Tsoukalas_20260215_004]] | [[55-MOCs/MOC_DT_Cholesterol_Quality_20260215_004]] | [[22-Dashboards/PhD_IR_MOC]]
+parent: [[66-Literature/Cholesterol_Quality_Myth__20260215_004]] | [[55-MOCs/MOC_DT_Cholesterol_Quality_20260215_004]] | [[22-Dashboards/PhD_IR_MOC]]
 confidence: high
 ---
 
@@ -12,7 +12,7 @@ confidence: high
 
 **Claim**: Large, buoyant LDL (Pattern A) anti-atherogenic/protective; opposite of small dense.
 
-**Evidence**: Tsoukalas: NMR/GC-MS shows large LDL neutral/safe; Framingham low density risk only small particles.
+**Evidence**: : NMR/GC-MS shows large LDL neutral/safe; Framingham low density risk only small particles.
 
 **Chains**:
 - Risk opposite: [[33-Atomic/SmallDense_LDL_Risk_20260215_028]]

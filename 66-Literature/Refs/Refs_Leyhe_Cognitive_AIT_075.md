@@ -11,7 +11,7 @@ status: ref
 tier: 2
 summary: Autoimmune thyroiditis associates with cognitive impairment and mood disorders independent of thyroid function.
 confidence: high
-parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Hashimoto_Thyroiditis_Tsoukalas_20260215_008]]
+parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Hashimoto_Thyroiditis__20260215_008]]
 ---
 
 # Refs_Leyhe_Cognitive_AIT_075 (Leyhe 2014 | PMID:24685840 | Tier:2)

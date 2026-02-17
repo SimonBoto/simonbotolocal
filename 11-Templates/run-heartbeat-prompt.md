@@ -1,0 +1,2 @@
+#atomic
+RUN HEARTBEAT (Vault-safe) Before doing anything: 1) Run `obsidian-cli print-default` and confirm Default vault name is TheOptimizedBrain. 2) Perform ALL vault reads/writes/moves using obsidian-cli only. 3) Do NOT use raw write/edit tools for vault-relative paths (those go to .openclaw/workspace). Then execute HEARTBEAT.md exactly and write outputs to: - 22-Dashboards/_RON/AUDIT_Heartbeat_

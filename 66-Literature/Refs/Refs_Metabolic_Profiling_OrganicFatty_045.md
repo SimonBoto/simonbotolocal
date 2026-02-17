@@ -1,7 +1,7 @@
 ---
 uid: 20260215160003
 title: Metabolic profiling of organic and fatty acids in chronic and autoimmune diseases
-authors: Sarandi E, Tsoukalas D et al.
+authors: Sarandi E,  D et al.
 year: 2020
 doi: 10.1016/j.acc.2020.04.004
 pmid: 
@@ -11,12 +11,12 @@ pages:
 abstract: |
   Metabolic profiling of organic/fatty acids in chronic/autoimmune diseases.
 tier: 2
-relevance: High - Direct Tsoukalas/Sarandi on metabolomics biomarkers.
+relevance: High - Direct /Sarandi on metabolomics biomarkers.
 tags: [metabolomics, organic-acids, fatty-acids, autoimmune]
 status: zotero-ready
 ---
 
-# Refs_Metabolic_Profiling_OrganicFatty_045 (Sarandi & Tsoukalas, 2020)
+# Refs_Metabolic_Profiling_OrganicFatty_045 (Sarandi & , 2020)
 
 **Source**: Advances in Clinical Chemistry.
 

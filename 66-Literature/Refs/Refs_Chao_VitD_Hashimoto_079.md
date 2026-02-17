@@ -11,7 +11,7 @@ status: ref
 tier: 2
 summary: Low VitD associates with higher TSH and lower FT4/FT3 in Hashimoto patients.
 confidence: high
-parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Hashimoto_Thyroiditis_Tsoukalas_20260215_008]]
+parent-moc: [[55-MOCs/Literature]] | [[66-Literature/Hashimoto_Thyroiditis__20260215_008]]
 ---
 
 # Refs_Chao_VitD_Hashimoto_079 (Chao 2020 | PMID:32117049 | Tier:2)

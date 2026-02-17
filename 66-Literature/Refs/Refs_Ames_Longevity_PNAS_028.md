@@ -30,4 +30,4 @@ confidence: high
 
 **Key**: Beyond RDA for longevity.
 
-Links: [[66-Literature/Diabetes_Type2_Pathogenesis_Tsoukalas_20260215_003]]
+Links: [[66-Literature/Diabetes_Type2_Pathogenesis__20260215_003]]

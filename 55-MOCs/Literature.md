@@ -1,0 +1,18 @@
+---
+uid: 20260215144800
+tags: [#moc #literature]
+status: atomic
+parent-moc: [[55-MOCs/Vault_Index_20260215_059]]
+confidence: high
+---
+
+# MOC_Literature
+
+**Lit Full**: `LIST FROM "66-Literature" WHERE status = "lit-full"`
+
+**Refs Subfolder**: `LIST FROM "66-Literature/Refs"`
+
+**Key Topics**:
+- [[PhD-Biomarkers]] | [[Metabolomics]] | [[Clinical-Protocols]] | [[Nutrition-Risks]]
+
+**Next**: Dataview queries + atomic links.

@@ -1,6 +1,6 @@
 ---
 aliases: [Telomere Replicative Capacity]
-tags: [TsoukalasRef, telomere, fibroblasts, PNAS1992]
+tags: [Ref, telomere, fibroblasts, PNAS1992]
 uid: 20260216-013
 ---
 
@@ -10,4 +10,4 @@ uid: 20260216-013
 
 **Tier**: A (Original; telomere → cell divisions).
 
-Linked from: [[Telomeres_ChronicDiseases_BioAge_Tsoukalas_20260216_010]]
+Linked from: [[Telomeres_ChronicDiseases_BioAge__20260216_010]]

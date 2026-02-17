@@ -1,11 +1,11 @@
 ---
 uid: 20260215_109
 tags: [#atomic #metabolomics #biomarker #autoimmune #phd]
-parent-moc: [[55-MOCs/PhD/Biomarkers]] | [[55-MOCs/Tsoukalas-Metabolomics]]
+parent-moc: [[55-MOCs/PhD/Biomarkers]] | [[55-MOCs/-Metabolomics]]
 aliases: [Metabolomics-Autoimmune-Pred]
 status: atomic
 confidence: high
-source: [[22-Literature/20260215_Tsoukalas_Hashimoto_VitD_Full]]
+source: [[22-Literature/20260215__Hashimoto_VitD_Full]]
 ---
 # Metabolomics Predicts Autoimmune/Hashimoto Risk
 
@@ -13,6 +13,6 @@ source: [[22-Literature/20260215_Tsoukalas_Hashimoto_VitD_Full]]
 
 **Context/Chain**: Ties VitD monitoring [[Protocol_HighDose_VitD_Hashimoto_20260215]].
 
-**Sources/Data**: Tsoukalas [[Ref9_SarandiMetabProf]] | [[Ref10_TsoukalasFattyAcids]] | [[Ref11_TsoukalasUrinary]].
+**Sources/Data**:  [[Ref9_SarandiMetabProf]] | [[Ref10_FattyAcids]] | [[Ref11_Urinary]].
 
 **Questions/Next**: Integrate PhD biomarkers → [[RON]].

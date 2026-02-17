@@ -7,7 +7,7 @@ doi: 10.1080/19490976.2015.1024918
 pmid: 25901889
 tier: 2 (review)
 abstract: Gut dysbiosis linked to T2D via inflammation, SCFA production, permeability.
-relevance: High; microbiome as T2D driver per Tsoukalas.
+relevance: High; microbiome as T2D driver per .
 url: https://pubmed.ncbi.nlm.nih.gov/25901889/
 tags: [ref, microbiome, t2d, upadhyaya]
 aliases: [Upadhyaya_Microbiome_T2D]
@@ -30,4 +30,4 @@ confidence: high
 
 **Key**: Microbiome central to T2D.
 
-Links: [[66-Literature/Diabetes_Type2_Pathogenesis_Tsoukalas_20260215_003]]
+Links: [[66-Literature/Diabetes_Type2_Pathogenesis__20260215_003]]

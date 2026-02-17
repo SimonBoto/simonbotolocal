@@ -5,7 +5,7 @@ parent-moc: [[55-MOCs/Literature]] | [[22-Dashboards/PhD_IR_MOC]] | [[55-MOCs/MO
 aliases: [ZeroSuppDeaths]
 status: atomic
 confidence: high
-source: [[66-Literature/Safe_Vitamin_Intake_Tsoukalas_20260215_002]]
+source: [[66-Literature/Safe_Vitamin_Intake__20260215_002]]
 ---
 # NoSuppToxicity_Deaths_20260215_012
 

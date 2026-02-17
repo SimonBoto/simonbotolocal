@@ -6,7 +6,7 @@ doi: PMC5990512
 year: 2017
 tier: 1
 status: ref-full
-parent-hub: [[66-Literature/MS_MultipleSclerosis_Tsoukalas_20260216_011]]
+parent-hub: [[66-Literature/MS_MultipleSclerosis__20260216_011]]
 phd-relevance: serum_VitD_MS_activity
 confidence: high
 extracted_atomics: [[33-Atomic/VitD_Intake_MS_Incidence_20260216_021], [[33-Atomic/Meta_VitD_Def_MS_Risk_20260216_022]]

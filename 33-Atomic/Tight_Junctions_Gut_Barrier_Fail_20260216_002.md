@@ -1,6 +1,6 @@
 ---
 aliases: [Tight Junctions Gut Barrier]
-tags: [Tsoukalas, gut, barrier, autoimmunity]
+tags: [, gut, barrier, autoimmunity]
 uid: 20260216-002
 ---
 
@@ -8,4 +8,4 @@ uid: 20260216-002
 
 **Chron/Hashimoto: Dysbiosis erodes barrier (tight junctions); 90% permeability issues.**
 
-Linked from: [[Autoimmune_GutSystem_Tsoukalas_20260215_009]]
+Linked from: [[Autoimmune_GutSystem__20260215_009]]

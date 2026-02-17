@@ -1,6 +1,6 @@
 ---
 aliases: [Soda Telomere Aging]
-tags: [Tsoukalas, soda, telomere, UCSF]
+tags: [, soda, telomere, UCSF]
 uid: 20260216-008
 ---
 
@@ -8,4 +8,4 @@ uid: 20260216-008
 
 **Daily soda → 4.6 yrs bio age ↑.**
 
-Linked from: [[Telomeres_ChronicDiseases_BioAge_Tsoukalas_20260216_010]]
+Linked from: [[Telomeres_ChronicDiseases_BioAge__20260216_010]]

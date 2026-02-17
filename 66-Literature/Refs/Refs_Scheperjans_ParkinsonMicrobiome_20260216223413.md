@@ -11,7 +11,7 @@ url: https://pubmed.ncbi.nlm.nih.gov/25476529/
 tags: [ref, microbiome-PD]
 aliases: [Scheperjans_PD]
 status: ref
-parent-moc: [[55-MOCs/Literature]] | [[Gut_Bacteria_Myelination_Tsoukalas_20260216223400]]
+parent-moc: [[55-MOCs/Literature]] | [[Gut_Bacteria_Myelination__20260216223400]]
 confidence: high
 ---
 # Refs_Scheperjans_ParkinsonMicrobiome_20260216223413 (Scheperjans 2015 | DOI:10.1002/mds.26069 | Tier:2)

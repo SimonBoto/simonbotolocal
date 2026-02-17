@@ -11,5 +11,5 @@ status: ref
 tier: 2
 summary: BCAA/histidine serum ratio novel knee OA biomarker.
 confidence: high
-parent-hub: [[66-Literature/RA_Osteoarthritis_Tsoukalas_20260216_002]]
+parent-hub: [[66-Literature/RA_Osteoarthritis__20260216_002]]
 ---

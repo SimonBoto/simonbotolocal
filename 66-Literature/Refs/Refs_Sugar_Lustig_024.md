@@ -22,10 +22,10 @@ confidence: high
 
 **Abstract**: Fructose toxicity drives chronic diseases including T2D.
 
-**Relevance**: Supports sugar as key driver in Tsoukalas cascade.
+**Relevance**: Supports sugar as key driver in  cascade.
 
 **Source**: UCSF lecture/video.
 
 **Key**: Sugar = chronic disease poison.
 
-Links: [[66-Literature/Diabetes_Type2_Pathogenesis_Tsoukalas_20260215_003]]
+Links: [[66-Literature/Diabetes_Type2_Pathogenesis__20260215_003]]

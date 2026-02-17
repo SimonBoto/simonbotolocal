@@ -11,7 +11,7 @@ pages: 885-97
 abstract: |
   n-3 polyunsaturated fatty acids (PUFAs) are immunomodulators. A large number of animal and human studies indicate that n-3 PUFAs inhibit inflammatory processes. Animal studies indicate that n-3 PUFAs can have protective effects in inflammatory bowel disease. Clinical studies in patients with inflammatory bowel disease indicate that n-3 PUFAs can have some beneficial effects. [Note: Full abstract inferred from title/context; confirm via PMID.]
 tier: 2 (1=high impact, 5=low)
-relevance: High relevance to omega-3 anti-inflammatory effects in IBD; supports Tsoukalas claims on PUFA balance in chronic inflammation.
+relevance: High relevance to omega-3 anti-inflammatory effects in IBD; supports  claims on PUFA balance in chronic inflammation.
 tags: [PUFA, omega3, IBD, inflammation, chronic-disease]
 status: zotero-ready
 ---

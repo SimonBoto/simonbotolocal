@@ -29,4 +29,4 @@ confidence: high
 
 **Key**: Hidden hunger + overnutrition → Chronic disease epidemic; policy shift needed.
 
-Links: [[66-Literature/Hidden_Hunger_Infections_Tsoukalas_20260215_001]]
+Links: [[66-Literature/Hidden_Hunger_Infections__20260215_001]]

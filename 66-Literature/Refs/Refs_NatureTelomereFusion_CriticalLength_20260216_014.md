@@ -1,6 +1,6 @@
 ---
 aliases: [Telomere Fusion Critical Length]
-tags: [TsoukalasRef, telomere, fusion, GenesDev2007]
+tags: [Ref, telomere, fusion, GenesDev2007]
 uid: 20260216-014
 ---
 
@@ -10,4 +10,4 @@ uid: 20260216-014
 
 **Tier**: A (Mechanism; critical length).
 
-Linked from: [[Telomeres_ChronicDiseases_BioAge_Tsoukalas_20260216_010]]
+Linked from: [[Telomeres_ChronicDiseases_BioAge__20260216_010]]

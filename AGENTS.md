@@ -12,9 +12,9 @@ Before doing anything else:
 
 1. Read `SOUL.md` — this is who you are
 2. Read `USER.md` — this is who you're helping
-3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
+3. Read `memory/YYYY-MM-DD.md` (today + yesterday) + `22-Dashboards/ron-profile.json` for recent context + persistent facts
 4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
-5. **Skills Check**: Tsoukalas/"extract DT": read ./skills/webscraper/SKILL.md v1 (perfect Refs/Atomics/Lit-Hub). NO-MISS eternal.
+5. **Skills Check**: /"extract DT": read ./skills/webscraper/SKILL.md v1 (perfect Refs/Atomics/Lit-Hub). NO-MISS eternal.
 - **Core Scan**: SOUL/USER/IDENTITY/MEMORY (Evidence-First, Triangle Ops, PhD Hooks live).
 - **Risk Align**: GREEN default, ≤25 batches, ARM_RED for red (IDENTITY v2.0).
 
@@ -164,7 +164,7 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
 - **Calendar** - Upcoming events in next 24-48h?
 - **Mentions** - Twitter/social notifications?
 - **Weather** - Relevant if your human might go out?
-- **Inbox Lit**: 00-Inbox new files/URLs? If DT/Tsoukalas → sessions_spawn webscraper task="batch Inbox URLs".
+- **Inbox Lit**: 00-Inbox new files/URLs? If DT/ → sessions_spawn webscraper task="batch Inbox URLs".
 - **PhD Pulse**: Inbox Lit (pending new DT skill), Moltbook creds green?, vault hygiene (≤25 batches).
 
 **Track your checks** in `22-Dashboards/heartbeat-state.json`:
@@ -202,7 +202,7 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
 - Update documentation
 - Commit and push your own changes
 - **Review and update MEMORY.md** (see below)
-- **DT-Scrape Inbox**: If 00-Inbox/*.url (Tsoukalas) → Spawn sub-agent w/ dt-scrape skill.
+- **DT-Scrape Inbox**: If 00-Inbox/*.url () → Spawn sub-agent w/ dt-scrape skill.
 
 ### 🔄 Memory Maintenance (During Heartbeats)
 

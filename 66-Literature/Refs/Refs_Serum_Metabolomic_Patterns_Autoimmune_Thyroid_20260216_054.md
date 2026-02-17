@@ -1,6 +1,6 @@
 ---
 aliases: [Serum Metabolomics Autoimmune Thyroid]
-tags: [TsoukalasRef, autoimmune, thyroid, metabolomics, EndocrinePractice2020]
+tags: [Ref, autoimmune, thyroid, metabolomics, EndocrinePractice2020]
 uid: 20260216-054
 ---
 
@@ -12,4 +12,4 @@ uid: 20260216-054
 
 Summary/Abstract: [VERIFY fetch abstract/DOI/PMID tier]
 
-Linked from: Autoimmune_GutSystem_Tsoukalas
+Linked from: Autoimmune_GutSystem_
