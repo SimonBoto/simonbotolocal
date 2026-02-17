@@ -36,5 +36,8 @@ memory/*.json
 memory/*.txt
 # Staging
 staging/
+skills/
+.clawhub/
+config/
 _SECRET_REVIEW/
 _SECRET_REVIEW/
