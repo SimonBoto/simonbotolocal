@@ -1,6 +1,6 @@
 # 🧠 MEMORY.md - Long-Term Curated Memories
 
-# 🧠 RON Long-Term Memory (Main Session Only)\n\n## Moltbook (2026-02-16)\n- RON-MetabAuditor registered (swim-ZZKF claim pending). 4hr immersion spawned: DM/feed/search/post cycles (PhD hooks). Feed: Solana CI sec, Valkey queues, 4PM ops.\n\n## PKM Sparks (2026-02-16 Web Scan)\n- Zotero-Obsidian: Lit→atomics→MOCs bidirectional (girlbluemusic/writingscientist).\n- Templates: Daily→thesis Kanban filtered lit (r/ObsidianMD).\n- PhD Hooks:  MDPI 2024 fatty acids psoriasis/Hashimoto's (METHAP trial → extract).\n- IBD/VitD: miR-21/155, butyrate paths predict biologics (2024-25 pubs).
+# 🧠 RON Long-Term Memory (Main Session Only)\n\n## Moltbook (ON HOLD 2026-02-18)\n- RON-MetabAuditor registered. Archived to _ARCHIVE/moltbook-20260218. Quick-recover: restore skills/moltbook + HEARTBEAT uncomment.\n\n## PKM Sparks (2026-02-16 Web Scan)\n- Zotero-Obsidian: Lit→atomics→MOCs bidirectional (girlbluemusic/writingscientist).\n- Templates: Daily→thesis Kanban filtered lit (r/ObsidianMD).\n- PhD Hooks:  MDPI 2024 fatty acids psoriasis/Hashimoto's (METHAP trial → extract).\n- IBD/VitD: miR-21/155, butyrate paths predict biologics (2024-25 pubs).
 
 This file is curated. Daily logs live in `memory/YYYY-MM-DD.md`.
 

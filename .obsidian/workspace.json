@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HEARTBEAT.md",
+                "file": "_SECRET_REVIEW/Moonlight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HEARTBEAT"
+              "title": "Moonlight"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HEARTBEAT.md",
+                "file": "_SECRET_REVIEW/Moonlight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HEARTBEAT"
+              "title": "Backlinks for Moonlight"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HEARTBEAT.md",
+                "file": "_SECRET_REVIEW/Moonlight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HEARTBEAT"
+              "title": "Outgoing links from Moonlight"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HEARTBEAT.md",
+                "file": "_SECRET_REVIEW/Moonlight.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HEARTBEAT"
+              "title": "Outline of Moonlight"
             }
           }
         ],
@@ -200,10 +200,30 @@
   },
   "active": "684296a0b95fbbf0",
   "lastOpenFiles": [
+    "77-Archive/Untitled.base",
+    "memory/2026-02-18-0757.md",
+    "HEARTBEAT.md",
+    "_SECRET_REVIEW/Moonlight.md",
+    "Zettel_20260218_Moltbook.md",
+    "memory/2026-02-18-0642.md",
+    "_ARCHIVE/moltbook-20260218/RECOVER.md",
+    "_ARCHIVE/moltbook-20260218/moltbook-ingest.log",
+    "_ARCHIVE/moltbook-20260218/Zettel_20260217_Moltbook.md",
+    "_ARCHIVE/moltbook-20260218/Zettel_20260216_Moltbook.md",
+    "_ARCHIVE/moltbook-20260218/skills-moltbook/SKILL.md",
+    "_ARCHIVE/moltbook-20260218/skills-moltbook/RULES.md",
+    "_ARCHIVE/moltbook-20260218/skills-moltbook/HEARTBEAT.md",
+    "_ARCHIVE/moltbook-20260218/skills-moltbook",
+    "_ARCHIVE/moltbook-20260218",
+    "_ARCHIVE",
+    "mission-control/next.config.js",
+    "mission-control/tsconfig.json",
+    "mission-control/src/app/page.tsx",
+    "mission-control/src/app/layout.tsx",
+    "mission-control/src/app/globals.css",
+    "mission-control/src/app/favicon.ico",
     "AGENTS.md",
     "SOUL.md",
-    "TOOLS.md.bak",
-    "00-Inbox/Lit_Extraction_Clinic_Sites_20260215_075.md.bak",
     "_QUARANTINE/tsoukalas-full-20260217/Safe_Vitamin_Intake_Tsoukalas_20260215_002.md",
     "_QUARANTINE/tsoukalas-full-20260217/Metabolomics_Analysis_Tsoukalas_20260215_005.md",
     "_QUARANTINE/tsoukalas-full-20260217/Diabetes_Type2_Pathogenesis_Tsoukalas_20260215_003.md",
@@ -216,27 +236,7 @@
     "_QUARANTINE/tsoukalas-full-20260217/Refs_Tsoukalas_HiddenHunger_Immune_003.md",
     "_QUARANTINE/tsoukalas-full-20260217/Refs_Tsoukalas_Targeted_SerumFatty_078.md",
     "_QUARANTINE/tsoukalas-full-20260217/Refs_Tsoukalas_Approach_007.md",
-    "_QUARANTINE/tsoukalas-full-20260217/Refs_Tsoukalas_Targeted_SerumFatty_078 1.md",
-    "_QUARANTINE/tsoukalas-full-20260217/Stress_Autoimmune_Diseases_Tsoukalas_20260215_007.md",
-    "_QUARANTINE/tsoukalas-full-20260217/Cholesterol_Quality_Myth_Tsoukalas_20260215_004.md",
-    "_QUARANTINE/tsoukalas-full-20260217/Omega3_Fats_Health_ChronicDiseases_Tsoukalas_20260215_006.md",
-    "_QUARANTINE/tsoukalas-full-20260217/Hashimoto_Thyroiditis_Tsoukalas_20260215_008.md",
-    "_QUARANTINE/tsoukalas-full-20260217/RA_Osteoarthritis_Tsoukalas_20260216_002.md",
-    "_QUARANTINE/tsoukalas-full-20260217/MOC_Metabolic_Syndrome_Tsoukalas_20260216_003.md",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
-    "_QUARANTINE/tsoukalas-full-20260217/refs",
-    "_QUARANTINE/tsoukalas-full-20260217/mocs",
-    "_QUARANTINE/tsoukalas-full-20260217/lit",
-    "_QUARANTINE/tsoukalas-full-20260217/inbox",
-    "_QUARANTINE/tsoukalas-full-20260217/cores",
-    "_QUARANTINE/tsoukalas-full-20260217/atomics",
-    "_QUARANTINE/tsoukalas-full-20260217",
-    "_QUARANTINE/tsoukalas-20260217",
-    "memory/2026-02-17-2005.md",
-    "SOUL-20260216.md",
-    "USER.md",
-    "USER-20260216.md",
-    "66-Literature/Metabolic_Syndrome_Tsoukalas_20260216_003.md",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
 }
