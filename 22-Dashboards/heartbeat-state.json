@@ -1,1 +1,14 @@
-{"lastChecks": {"memory": 1771382828, "inbox": 1771382828, "atomic": 1771382828, "profile": 1771382828, "moltbook": 1771382828}}
+{
+  "lastChecks": {
+    "memory": 1740004620,
+    "inbox": 1740004620,
+    "atomic": 1740004620,
+    "profile": 1740004620,
+    "moltbook": 1771382828,
+    "workflow_dashboard": 1740004620
+  },
+  "status": "ACTIVE",
+  "ron_model": "moonshot/kimi-k2.5",
+  "context_usage": "22k/200k",
+  "next_actions": ["unify_webscraper_configs", "integrate_localhost3000"]
+}
