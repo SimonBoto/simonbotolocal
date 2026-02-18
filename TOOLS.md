@@ -46,6 +46,26 @@ Green actions allowed:
 STOP:
 - If a credentials file is tracked by git, stop and write a quarantine + gitignore plan first.
 
+## Model Tiers (Cost Optimization)
+
+**Brain (Main Session):** `moonshot/kimi-k2.5` — Complex reasoning, PhD synthesis, nuanced audits
+**Muscle (Sub-agents):** `openrouter/x-ai/grok-4.1-fast` — Routine tasks, file ops, batch processing
+
+**When to spawn muscle:**
+| Task | Model |
+|------|-------|
+| File listing, git status, moves | Muscle |
+| Simple web fetches (pre-filter) | Muscle |
+| Inbox/heartbeat scans | Muscle |
+| Batch URL checks (DT pipeline) | Muscle |
+| PhD lit synthesis, complex analysis | Brain |
+| Multi-hop reasoning, audits | Brain |
+
+**Quick Spawn Alias:**
+```
+sessions_spawn task="<task>" model=openrouter/x-ai/grok-4.1-fast runTimeoutSeconds=60
+```
+
 ## Webscraper (RON Zettel Pipeline v1)
 - Trigger: \"extract DT URL: &lt;link&gt;\" | HEARTBEAT Inbox batch.
 - Parse: grep PMID/DOI → 10-20+ optimal Refs (Ames/Chao template) + 7-10+ Atomics + perfect Lit-Hub (66-Lit match).
