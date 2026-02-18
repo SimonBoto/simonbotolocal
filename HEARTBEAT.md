@@ -1,15 +1,58 @@
-Read AGENTS.md heartbeat rules. Batch checks — SPAWN MUSCLE FOR ROUTINE TASKS:
+# HEARTBEAT.md — Proactive Checks
 
 **Tier Rule:** Brain=Kimi (PhD/complex), Muscle=Grok-4.1-Fast (routine ops)
 
-1. **Spawn muscle for:** `ls -la 00-Inbox/`, `git status --short`, simple file counts
-   → `sessions_spawn task="Check inbox and git status" model=openrouter/x-ai/grok-4.1-fast`
-2. memory/ today/yesterday: Review → Update MEMORY.md if insights.
-3. Profile: `cat 22-Dashboards/ron-profile.json` → context; `python3 skills/git-notes-memory/memory.py -p . recall -t profile || true` → merge if exists; update from MEMORY.md.
-4. MOLTBOOK: ON HOLD (archived _ARCHIVE/moltbook-20260218).
-5. Time: If 09:00-18:00 EET and quiet >4h, nudge PhD progress.
-6. Track in 22-Dashboards/heartbeat-state.json (lastChecks: memory/inbox/atomic/profile/moltbook).
+## Checklist (In Order)
 
-Quiet times: 23:00-08:00 → HEARTBEAT_OK.
+1. **Dashboard Status** → `curl http://localhost:3333/api/status | jq '.'`
+   - Verify RON active, memory stats, pipeline counts
+   - Check proactive mode toggle state
 
-If action needed, alert. Else: HEARTBEAT_OK.
+2. **Inbox Scan** → `ls -la 00-Inbox/`
+   - New .url files? → Note for webscraper batch
+   - New .md files? → Triage
+
+3. **Memory Sync** → Dashboard "Sync Memory" or `git notes list | wc -l`
+   - Verify recent memories persisted
+   - Critical/High/Normal counts match dashboard
+
+4. **Git Status** → `git status --short`
+   - Uncommitted changes? → Auto-commit if GREEN
+   - Behind origin? → Push
+
+5. **Proactive Opportunities** (if mode=ON)
+   - Inbox >3 days old? → Suggest scrape
+   - Quiet >4h during work hours (09:00-18:00 EET)? → Nudge PhD progress
+   - Memory >50 entries? → Suggest hygiene review
+
+## Actions
+
+| Task | Model | Command |
+|------|-------|---------|
+| Simple file ops | Muscle | `sessions_spawn task="..." model=openrouter/x-ai/grok-4.1-fast` |
+| Dashboard refresh | Brain | Direct API call |
+| Memory sync | Brain | `python3 skills/git-notes-memory/memory.py -p . sync --start` |
+
+## Quiet Times
+
+**23:00-08:00 EET** → HEARTBEAT_OK unless urgent
+
+## Tracking
+
+Log checks in `22-Dashboards/heartbeat-state.json`:
+```json
+{
+  "lastChecks": {
+    "dashboard": 1740009600,
+    "inbox": 1740009600,
+    "memory": 1740009600,
+    "git": 1740009600
+  }
+}
+```
+
+## Response Rules
+
+- **Action needed:** Alert with specific recommendation
+- **All clear:** HEARTBEAT_OK
+- **Proactive mode ON:** Include suggestions even if no immediate action

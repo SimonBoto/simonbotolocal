@@ -46,7 +46,40 @@ Green actions allowed:
 STOP:
 - If a credentials file is tracked by git, stop and write a quarantine + gitignore plan first.
 
-## Model Tiers (Cost Optimization)
+## MCP (mcporter)
+
+Tool calling via Model Context Protocol.
+
+**Installed:** `/home/simon/.npm-global/bin/mcporter`
+
+**Quick commands:**
+```bash
+# List configured servers
+mcporter list
+
+# Call a tool
+mcporter call <server.tool> key=value
+
+# Examples:
+mcporter call linear.list_issues team=ENG limit:5
+mcporter call github.create_issue repo=myrepo title="Bug fix"
+```
+
+**Config:** `./config/mcporter.json`
+
+**Status:** 🟢 Active (1 server: moltbook archived)
+
+## Dashboard
+
+Local status interface: http://localhost:3333
+
+**APIs:**
+- `GET /api/status` — RON state, pipeline counts
+- `GET /api/memory` — Memory stats (C/H/N counts)
+- `POST /api/proactive` — Toggle proactive mode
+- `POST /api/sync` — Trigger memory sync
+
+**Use for:** Quick status checks, memory visualization, proactive toggle.
 
 **Brain (Main Session):** `moonshot/kimi-k2.5` — Complex reasoning, PhD synthesis, nuanced audits
 **Muscle (Sub-agents):** `openrouter/x-ai/grok-4.1-fast` — Routine tasks, file ops, batch processing
