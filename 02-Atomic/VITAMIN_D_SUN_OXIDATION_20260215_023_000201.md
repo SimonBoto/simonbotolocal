@@ -1,0 +1,3 @@
+It is often called the "sunshine vitamin", because it is synthesised in the skin trough exposure to ultraviolet B (UVB) radiation from the sun. After UVB photons penetrate the skin they oxidise 7-dehydrocholesterol to previtamin D3, which then isomerizes to vitamin D3 (cholecalciferol). 
+
+Holick MF. Vitamin D deficiency. New England Journal of Medicine. 2007;357(3):266-281. doi: 10.1056/NEJMra070553
