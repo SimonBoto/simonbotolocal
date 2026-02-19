@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEMORY.md",
+                "file": "66-Literature/20260218_Hashimoto_VitD_Protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MEMORY"
-            }
-          },
-          {
-            "id": "684296a0b95fbbf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/Process_Clinic_Lit_Step1_Template_20260215_076.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Process_Clinic_Lit_Step1_Template_20260215_076"
+              "title": "20260218_Hashimoto_VitD_Protocol"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"memory/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Inbox/Process_Clinic_Lit_Step1_Template_20260215_076.md",
+                "file": "_SECRET_REVIEW/Moonlight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Process_Clinic_Lit_Step1_Template_20260215_076"
+              "title": "Backlinks for Moonlight"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Inbox/Process_Clinic_Lit_Step1_Template_20260215_076.md",
+                "file": "_SECRET_REVIEW/Moonlight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Process_Clinic_Lit_Step1_Template_20260215_076"
+              "title": "Outgoing links from Moonlight"
             }
           },
           {
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Inbox/Process_Clinic_Lit_Step1_Template_20260215_076.md",
+                "file": "66-Literature/20260218_Hashimoto_VitD_Protocol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Process_Clinic_Lit_Step1_Template_20260215_076"
+              "title": "Outline of 20260218_Hashimoto_VitD_Protocol"
             }
           }
         ],
@@ -198,8 +183,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "684296a0b95fbbf0",
+  "active": "7bdf8ee45b57b16b",
   "lastOpenFiles": [
+    "55-MOCs/MOC_DT_Cholesterol_Quality_20260215_004.md",
+    "33-Atomic/CorkGF_OligoRNA_20260216223420.md",
+    "_SECRET_REVIEW/Moonlight.md",
+    "77-Archive/Untitled.base",
+    "77-Archive/consolidate_log.md",
+    "memory/2026-02-16.md",
+    "memory/2026-02-15 1 1.md",
+    "memory/2026-02-15 1.md",
+    "Zettel_20260216_Moltbook.md",
+    "Zettel_20260218_Moltbook.md",
+    "USER.md",
+    "IDENTITY.md",
+    "SOUL.md",
+    "00-Inbox/Process_Clinic_Lit_Step1_Template_20260215_076.md",
+    "memory/2026-02-19-1818.md",
+    "memory/2026-02-19-1701.md",
     "memory/2026-02-19.md",
     "22-Dashboards/RON-Workflow-System.md",
     "11-Templates/Template_Atomic_Protocol_20260219.md",
@@ -212,21 +213,6 @@
     "RON-RULES.md",
     "33-Atomic/Concept_Toxicology_Metabolomics_Overlap_20260219.md",
     "33-Atomic/Gap_Intervention_Duration_Not_Specified_20260219.md",
-    "33-Atomic/Keyword_Index_Metabolomics_IR_Biomarkers_20260219.md",
-    "33-Atomic/Gap_Sample_Size_Not_Specified_20260219.md",
-    "33-Atomic/Process_Committee_Approval_Unanimous_ECMS_20260219.md",
-    "33-Atomic/Concept_Plasma_Free_Fatty_Acids_Lipotoxicity_20260219.md",
-    "33-Atomic/Concept_Urine_Organic_Acids_Metabolic_Snapshot_20260219.md",
-    "33-Atomic/Claim_Metabolomics_Validates_Clinical_Practice_20260219.md",
-    "33-Atomic/Entity_CoSupervisor_Drakoulis_Nikolaos_Pharmacogenomics_20260219.md",
-    "33-Atomic/Entity_Supervisor_Tsatsakis_Aristides_Toxicology_20260219.md",
-    "33-Atomic/Method_Statistical_PCA_Multivariate_Network_20260219.md",
-    "33-Atomic/Method_Dietary_Intervention_Multi_Component_20260219.md",
-    "33-Atomic/Method_Case_Control_Design_IR_Metabolomics_20260219.md",
-    "33-Atomic/Method_Metabolomics_Urine_Plasma_GC-MS_20260219.md",
-    "33-Atomic/Claim_HOMA_HbA1c_Inadequate_Early_IR_20260219.md",
-    "33-Atomic/Claim_Early_Detection_Improves_Outcomes_20260219.md",
-    "33-Atomic/Protocol_UoC_Intervention_Diet_Supplements_20260219.md",
     "memory/_trash",
     "22-Dashboards/webscraper-pipeline-v3.json",
     "77-Archive/grep_dup.log",
@@ -235,7 +221,6 @@
     "77-Archive/dups.txt",
     "77-Archive/current_prefixed.txt",
     "77-Archive/filtered_orphans.txt",
-    "77-Archive/orphans_post.txt",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]

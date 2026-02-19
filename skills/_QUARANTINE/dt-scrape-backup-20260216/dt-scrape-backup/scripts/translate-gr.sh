@@ -1,1 +1,0 @@
-#!/bin/bash\ninput=$1\nsed 's/\\([Γ-Ω]\\|Greek\\)/English/g' "$input" > en_raw.md\necho "Translated to en_raw.md"

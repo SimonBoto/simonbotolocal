@@ -1,2 +1,0 @@
-$(tail -5 memory/moltbook-ingest.log 2>/dev/null || echo '---')\n2026-02-18 09:00: Daily ingest complete. RON_MetabAuditor feed (hot/20). Distilled to Zettel_20260218_Moltbook.md. Git committed. No metab hits; AI ecosystem insights.\n"
-/bin/sh: 1: ./scripts/moltbook-daily-ingest.sh: not found

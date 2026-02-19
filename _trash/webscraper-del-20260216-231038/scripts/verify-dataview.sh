@@ -1,1 +1,0 @@
-#!/bin/bash\nhub=$1\nobsidian-cli dataview \"LIST FROM \\\"66-Literature\\\" WHERE parent-hub = '$hub'\" > refs-count.txt\necho \"Refs populated: $(wc -l refs-count.txt)\"
