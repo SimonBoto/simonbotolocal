@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_SECRET_REVIEW/Moonlight.md",
+                "file": "00-Inbox/Process_Clinic_Lit_Step1_Template_20260215_076.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Moonlight"
+              "title": "Process_Clinic_Lit_Step1_Template_20260215_076"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_SECRET_REVIEW/Moonlight.md",
+                "file": "00-Inbox/Process_Clinic_Lit_Step1_Template_20260215_076.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Moonlight"
+              "title": "Backlinks for Process_Clinic_Lit_Step1_Template_20260215_076"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_SECRET_REVIEW/Moonlight.md",
+                "file": "00-Inbox/Process_Clinic_Lit_Step1_Template_20260215_076.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Moonlight"
+              "title": "Outgoing links from Process_Clinic_Lit_Step1_Template_20260215_076"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_SECRET_REVIEW/Moonlight.md",
+                "file": "00-Inbox/Process_Clinic_Lit_Step1_Template_20260215_076.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Moonlight"
+              "title": "Outline of Process_Clinic_Lit_Step1_Template_20260215_076"
             }
           }
         ],
@@ -200,7 +200,21 @@
   },
   "active": "684296a0b95fbbf0",
   "lastOpenFiles": [
+    "33-Atomic/Protocol_UoC_Intervention_Diet_Supplements_20260219.md",
+    "66-Literature/Refs/Ref_Lab_UoC_Toxicology_Forensic_Chemistry_20260219.md",
+    "33-Atomic/Protocol_UoC_Study_Design_20260219.md",
+    "33-Atomic/Gap_HOMA_HbA1c_Early_Detection_20260219.md",
+    "00-Inbox/PhD_Protocol_UoC_Application_EN_20260219.md",
+    "00-Inbox/Lit_Extraction_Clinic_Sites_20260215_075.md",
     "33-Atomic/METHAP_Biomarker_Integration_Panel_20260218.md",
+    "22-Dashboards/Tonight-Work-20260218-Master-Index.md",
+    "22-Dashboards/PhD_Atomic_Audit_20260218.md",
+    "33-Atomic/dynamic/GutDysbiosis_Myelination_20260216223402.md",
+    "33-Atomic/dynamic/GF_Hypermyelination_PFC_20260216223404.md",
+    "33-Atomic/dynamic/ExGF_Normalizes_Myelination_20260216223405.md",
+    "33-Atomic/dynamic/CorkGF_OligoRNA_20260216223420.md",
+    "22-Dashboards/ChainReport_20260215_031.md",
+    "_SECRET_REVIEW/Moonlight.md",
     "55-MOCs/PhD_IR_MOC.md",
     "55-MOCs/PhD_IR_MOC_Update_20260218.md",
     "66-Literature/20260218_Hashimoto_VitD_Protocol.md",
@@ -212,20 +226,6 @@
     "memory/_trash/2026-02-15.md",
     "memory/_trash/2026-02-14-2248.md",
     "memory/_trash/2026-02-16-2143.md",
-    "memory/_trash/2026-02-15-1223.md",
-    "memory/_trash/2026-02-16-1959.md",
-    "memory/_trash/2026-02-17-0806.md",
-    "memory/_trash/2026-02-17-1943.md",
-    "memory/_trash/2026-02-15-1612.md",
-    "memory/_trash/2026-02-15-1055.md",
-    "memory/_trash/2026-02-16-2015.md",
-    "memory/_trash/2026-02-16-1825.md",
-    "memory/_trash/2026-02-15-1046.md",
-    "memory/_trash/2026-02-15-1517.md",
-    "memory/_trash/2026-02-15-1304.md",
-    "memory/_trash/2026-02-15-1253.md",
-    "memory/_trash/2026-02-15-1523.md",
-    "memory/_trash/2026-02-16-1724.md",
     "memory/_trash",
     "22-Dashboards/webscraper-pipeline-v3.json",
     "77-Archive/grep_dup.log",
