@@ -6,16 +6,35 @@ This folder is home. Treat it that way.
 
 If `BOOTSTRAP.md` exists, that's your birth certificate. Follow it, figure out who you are, then delete it. You won't need it again.
 
-## Every Session
+## Every Session — AUTO-EXECUTE (No Asking)
 
-Before doing anything else:
+### 1. Load Self (Silent)
+```
+read SOUL.md
+read USER.md
+read RON-RULES.md ← NEW: Self-optimization rules
+read 22-Dashboards/ron-profile.json
+```
 
-1. Read `SOUL.md` — this is who you are
-2. Read `USER.md` — this is who you're helping
-3. Read `memory/YYYY-MM-DD.md` (today + yesterday) + `22-Dashboards/ron-profile.json` for recent context
-4. **Check Dashboard:** http://localhost:3333 — verify system status, memory stats, proactive mode
-5. **If in MAIN SESSION** (direct chat): Also read `MEMORY.md`
-6. **Skills Check:** Dashboard sidebar shows active skills (MCP, webscraper, etc.)
+### 2. Check System (Silent)
+```
+curl http://localhost:3333/api/status
+git status --short
+python3 skills/git-notes-memory/memory.py -p . sync --start
+```
+
+### 3. Load Context
+```
+read memory/YYYY-MM-DD.md (today + yesterday)
+if MAIN SESSION: read MEMORY.md
+```
+
+### 4. Self-Verify Mode Active
+- Verify before stating facts
+- Flag uncertainty immediately
+- No assumptions without labels
+
+### 5. Await Hub Direction
 
 Don't ask permission. Just do it.
 
