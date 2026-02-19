@@ -200,6 +200,12 @@
   },
   "active": "684296a0b95fbbf0",
   "lastOpenFiles": [
+    "11-Templates/Template_Atomic_Protocol_20260219.md",
+    "11-Templates/Template_Atomic_Biomarker_20260219.md",
+    "11-Templates/Template_Atomic_Method_20260219.md",
+    "11-Templates/Template_Atomic_Claim_20260219.md",
+    "22-Dashboards/Atomic_Audit_Report_20260219.md",
+    "ron-self-check.sh",
     "22-Dashboards/RON-OPTIMIZATION-SYSTEM.md",
     "RON-RULES.md",
     "33-Atomic/Concept_Toxicology_Metabolomics_Overlap_20260219.md",
@@ -221,11 +227,6 @@
     "33-Atomic/Protocol_UoC_Intervention_Diet_Supplements_20260219.md",
     "66-Literature/Refs/Ref_Lab_UoC_Toxicology_Forensic_Chemistry_20260219.md",
     "33-Atomic/Protocol_UoC_Study_Design_20260219.md",
-    "33-Atomic/Gap_HOMA_HbA1c_Early_Detection_20260219.md",
-    "00-Inbox/PhD_Protocol_UoC_Application_EN_20260219.md",
-    "00-Inbox/Lit_Extraction_Clinic_Sites_20260215_075.md",
-    "33-Atomic/METHAP_Biomarker_Integration_Panel_20260218.md",
-    "22-Dashboards/Tonight-Work-20260218-Master-Index.md",
     "memory/_trash",
     "22-Dashboards/webscraper-pipeline-v3.json",
     "77-Archive/grep_dup.log",
@@ -235,7 +236,6 @@
     "77-Archive/current_prefixed.txt",
     "77-Archive/filtered_orphans.txt",
     "77-Archive/orphans_post.txt",
-    "77-Archive/Untitled.base",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
