@@ -68,11 +68,17 @@ Example:
 
 ---
 
-### 5. Potential Solutions (How to Address)
+### 5. Potential Solutions (REQUIRED)
+**How to address this gap:**
+
 | Approach | Feasibility | Timeline |
 |----------|-------------|----------|
 | {{Solution 1}} | {{High/Med/Low}} | {{Short/Long}} |
 | {{Solution 2}} | {{High/Med/Low}} | {{Short/Long}} |
+| {{Solution 3}} | {{High/Med/Low}} | {{Short/Long}} |
+
+**Minimum:** 1 solution  
+**Ideal:** 2-3 solutions
 
 ---
 
@@ -85,15 +91,21 @@ Example:
 
 ---
 
-### 7. Priority Assessment
-| Criterion | Score (1-5) | Rationale |
-|-----------|-------------|-----------|
-| **Impact** | {{Score}} | {{Why}} |
-| **Feasibility** | {{Score}} | {{Why}} |
-| **Novelty** | {{Score}} | {{Why}} |
-| **Alignment** | {{Score}} | {{Why}} |
+### 7. Priority Assessment (0–20 Scale)
+**Rate each criterion 0–5, total determines priority:**
 
-**Total:** {{Sum}}/20 → {{Priority: Critical/High/Med/Low}}
+| Criterion | Score (0–5) | Rationale |
+|-----------|-------------|-----------|
+| **Impact** | {{0–5}} | {{Why this matters}} |
+| **Feasibility** | {{0–5}} | {{Can we actually do this?}} |
+| **Novelty** | {{0–5}} | {{How new is this?}} |
+| **Alignment** | {{0–5}} | {{Fits our PhD/METHAP?}} |
+
+**Total:** {{Sum}}/20 → **{{Priority}}**
+- **18–20:** Critical (address immediately)
+- **14–17:** High (this sprint)
+- **10–13:** Medium (next sprint)
+- **0–9:** Low (backlog)
 
 ---
 
