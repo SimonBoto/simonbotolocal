@@ -1,7 +1,10 @@
 ---
 aliases: [Template-Gap, Research-Gap]
 tags: [template, gap, limitation, future-work, zettelkasten]
-version: 2.0
+version: 2.0-final
+status: approved
+approved-by: Simos
+approved-date: 2026-02-20
 ---
 
 # Template: Gap Note v2.0

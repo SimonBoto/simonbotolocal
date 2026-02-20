@@ -172,8 +172,15 @@ PRIORITY: [P1]
 ## 🎯 Review Queue
 
 ### Pending (Awaiting Simos)
-- [ ] Template_Gap_20260220.md — Check priority scoring section
-- [ ] Daily_OPS_Template.md — Add morning routine checklist
+- [ ] None — all caught up! 🎉
+
+### Recently Approved ✅
+- [x] **Template_Gap_20260220.md** — Approved 2026-02-20 20:14
+  - Priority scoring 0-20 ✓
+  - Required solutions table ✓
+- [x] **Daily_OPS_Template.md** — Approved 2026-02-20 20:14
+  - Simos's daily checklist ✓
+  - Collaboration rhythm ✓
 
 ### In Progress (RON Working)
 - [x] ~~RON_Tools_Dashboard.md~~ — Zotero troubleshooting steps
