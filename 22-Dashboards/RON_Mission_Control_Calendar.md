@@ -19,27 +19,26 @@ Last updated: 2026-02-20 19:31
 
 ---
 
+## 📊 Pipeline Health (Real-Time)
+
+| Layer | Status | Details |
+|-------|--------|---------|
+| **Ingest** | 🟡 2 files | 00-Inbox: Clinic Lit + Templates waiting |
+| **Knowledge** | 🟢 ~220 atomics | 128 refs, 9 templates v2.0 |
+| **Output** | 🟢 Clean | Git synced, dashboard live |
+
+**PARA Flow:** `00-Inbox → 02-Triage → 66-Literature/02-Atomic → 77-Archive`
+
+---
+
 ## 🔧 MCP Tools Status
 
 | Tool | Status | Capability | Last Check |
 |------|--------|------------|------------|
-| **Zotero MCP** | 🔴 Offline | Literature sync, citation management | 2026-02-20 |
-| **Web Search (Brave)** | 🟢 Online | PubMed, Google Scholar, general search | 2026-02-20 |
-| **File I/O** | 🟢 Online | Vault read/write, git operations | 2026-02-20 |
-| **Browser Control** | 🟡 Standby | Web scraping (Chrome extension needed) | 2026-02-20 |
-
-### Zotero Integration (mcporter)
-- **Server:** zotero-mcp
-- **User:** SymeonXen
-- **Status:** 🔴 Offline — unable to reach server
-- **Next Step:** `mcporter start zotero` or check API key
-
-**Available Commands:**
-```bash
-mcporter list              # Show configured servers
-mcporter start zotero      # Start Zotero MCP server
-mcporter call zotero.list  # List Zotero libraries
-```
+| **Zotero MCP** | 🔴 Offline | Literature sync | 2026-02-20 |
+| **Web Search (Brave)** | 🟢 Online | PubMed, Scholar, general | 2026-02-20 |
+| **File I/O** | 🟢 Online | Vault read/write, git | 2026-02-20 |
+| **Browser Control** | 🟡 Standby | Web scraping | 2026-02-20 |
 
 ---
 
@@ -187,8 +186,31 @@ mcporter call zotero.list  # List Zotero libraries
 
 ---
 
-## RON Ledger
+## 🏥 Clinic Ops
+- **Queue:** IR Cases (Adipic↑/Suberic patterns)
+- **Protocols:** Low-carb trial template active
+- **Todos:** Co-doctor onboarding, GC-MS review
 
+---
+
+## 🎯 Action Queue (Next Up)
+1. **Saturday:** Refs Batch 1 (20 gold tier) + miR pathway research
+2. **Sunday:** Weekly retrospective + MEMORY.md curation
+3. **Monday:** IRB document drafting begins
+
+---
+
+## 🦞 System Status
+| Metric | Current | Target |
+|--------|---------|--------|
+| **Context Usage** | Optimal | <50k headroom |
+| **Model Tier** | Kimi-k2.5 (Brain) | Auto-switch ready |
+| **Risk Level** | 🟢 GREEN | staging, reversible |
+| **Last Heartbeat** | 2026-02-20 20:20 | Every 8h |
+
+---
+
+## RON Ledger
 - **Created:** 2026-02-20 19:31
 - **Purpose:** Shared planning calendar + mission control
 - **Update cycle:** Daily (RON) + Weekly (sync with Simos)

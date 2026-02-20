@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Atomic/ASTHMA_NUTRITION_LINKS_20260215_094_000017.md",
+                "file": "11-Templates/TEMPLATE_INDEX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASTHMA_NUTRITION_LINKS_20260215_094_000017"
+              "title": "TEMPLATE_INDEX"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/ASTHMA_NUTRITION_LINKS_20260215_094_000017.md",
+                "file": "11-Templates/TEMPLATE_INDEX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ASTHMA_NUTRITION_LINKS_20260215_094_000017"
+              "title": "Outline of TEMPLATE_INDEX"
             }
           }
         ],
@@ -185,42 +185,42 @@
   },
   "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
-    "22-Dashboards/RON_Review_System.md",
-    "22-Dashboards/RON_Tools_Dashboard.md",
-    "22-Dashboards/Daily_OPS_Template.md",
-    "22-Dashboards/RON_Mission_Control_Calendar.md",
-    "11-Templates/TEMPLATE_INDEX.md",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/PROMPT.MD",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/Atomic_Audit_Report_20260219.md",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/PhD_Atomic_Audit_20260218.md",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/Dashboard_Optimal_Workflow.md",
+    "22-Dashboards/Dashboard_Home.md",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/webscraper.jsonl",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/webscraper-pipeline-v3.json",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/ron-profile.json",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/heartbeat-state.json",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/dt-v2.1.1-ms-final.json",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/dt-v2.1-athro-test.json",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/dt-v2.0.json",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/dt-scrape-v1.8.json",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/dt-refs-v2.1.json",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/Tonight-Work-20260218-Master-Index.md",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/RON-OPTIMIZATION-SYSTEM.md",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/LinkReport_20260215_039.md",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/Home_20260215_038.md",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/Dashboard_PhD_Progress_Kanban_20260215_037.md",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/Dashboard_Inbox_20260215_036.md",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/Dashboard_Daily_Note_Template_20260215_077.md",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/Dashboard_Daily_Note_20260215_034.md",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/2026_02_14_20260215_032.md",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/Dashboard_Clinic_20260215_033.md",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards/ChainReport_20260215_031.md",
+    "77-Archive/Dashboards-2026-02-20/22-Dashboards",
+    "77-Archive/Dashboards-2026-02-20/03-Structure/Dashboard_Recent.md",
+    "77-Archive/Dashboards-2026-02-20/03-Structure/Dashboard_Queue.md",
+    "77-Archive/Dashboards-2026-02-20/03-Structure/Dashboard_Orphans.md",
+    "77-Archive/Dashboards-2026-02-20/03-Structure/Dashboard_Evidence.md",
     "11-Templates/Template_Index_20260220.md",
-    "11-Templates/Template_Entity_20260220.md",
-    "11-Templates/Template_Concept_20260220.md",
-    "11-Templates/Template_Gap_20260220.md",
+    "11-Templates/zettelkasten-factory-flow.md",
     "11-Templates/Template_Reference_20260220.md",
-    "77-Archive/Templates/yt-fun-note-taking-morgan-eu.md",
-    "77-Archive/Templates/run-heartbeat-prompt.md",
-    "77-Archive/Templates/Template_MOC_20260215_114.md",
-    "77-Archive/Templates/Template_Lit_Note_20260215_113.md",
-    "77-Archive/Templates/Template_Heartbeat_Prompt_20260215_112.md",
-    "77-Archive/Templates/Template_Clinical_Report_20260215_111.md",
-    "77-Archive/Templates/Template_Atomic_ClinicLit_20260215.md",
-    "77-Archive/Templates/Template_Zettel_20260215_117.md",
-    "77-Archive/Templates/Template_PhD_Note_20260215_120.md",
-    "77-Archive/Templates/Template_PhD_Note_20260215_116.md",
-    "77-Archive/Templates/Template_Naming_20260215_115.md",
-    "77-Archive/Templates/Template_Biomarker_20260215_110.md",
-    "77-Archive/Templates/atomic-note-template.md",
-    "77-Archive/Templates",
-    "02-Atomic/AMES_TRIAGE_MICRONUT_T2D_20260215_022_000015.md",
-    "02-Atomic/ATOMIC_HIDDENHUNGER_METS_DRIVER_20260216_070_000023.md",
-    "02-Atomic/ATOMIC_HIDDENHUNGER_RA_TRAJECTORY_20260216_043_000024.md",
-    "99-System/_scripts/uid-next.sh",
-    "99-System/_scripts/batch-rename.sh",
-    "99-System/_scripts",
-    "99-System/_logs",
-    "99-System/Templates",
-    "99-System",
-    "04-Reference/Zotero",
-    "04-Reference/Papers",
-    "04-Reference/Books",
+    "11-Templates/TEMPLATE_INDEX.md",
+    "11-Templates/Template_ClinicLit_FullExtraction_20260215.md",
+    "11-Templates/Template_Concept_20260220.md",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
