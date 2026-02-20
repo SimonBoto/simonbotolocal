@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "66-Literature/20260218_Hashimoto_VitD_Protocol.md",
+                "file": "02-Atomic/ASTHMA_NUTRITION_LINKS_20260215_094_000017.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260218_Hashimoto_VitD_Protocol"
+              "title": "ASTHMA_NUTRITION_LINKS_20260215_094_000017"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "66-Literature/20260218_Hashimoto_VitD_Protocol.md",
+                "file": "02-Atomic/ASTHMA_NUTRITION_LINKS_20260215_094_000017.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260218_Hashimoto_VitD_Protocol"
+              "title": "Outline of ASTHMA_NUTRITION_LINKS_20260215_094_000017"
             }
           }
         ],
@@ -185,32 +185,33 @@
   },
   "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
-    "02-Atomic/YT_FUN_NOTE_TAKING_20260215_024_000220.md",
-    "02-Atomic/VITD_STRESS_AUTOIMMUNE_20260215_053_000219.md",
-    "02-Atomic/VITD_SELENIUM_DEF_20260215_060_000218.md",
-    "02-Atomic/VITD_RESISTANCE_HYPOTHESIS_20260215_026_000217.md",
-    "02-Atomic/VITD_MS_BBB_BREACH_20260216_016_000216.md",
-    "02-Atomic/VITD_MICRONUT_T2D_GAP_20260215_025_000215.md",
-    "02-Atomic/VITD_MEGADOSE_SAFE_20260215_011_000214.md",
-    "02-Atomic/VITD_IMMUNE_MODULATION_AUTOIMMUNE_20260215_112_000213.md",
-    "02-Atomic/VITD_GUT_MICROBIOME_CROHNS_20260215_028_000212.md",
-    "02-Atomic/VITD_DEF_HASHIMOTO_PREVALENCE_20260215_087_000211.md",
-    "02-Atomic/VITD_DEF_CROHNS_PREVALENCE_20260215_029_000210.md",
-    "02-Atomic/VITD_CRP_CAUSAL_LINK_20260215_086_000209.md",
-    "02-Atomic/VITD_COVID_SUSCEPTIBILITY_20260215_005_000208.md",
-    "02-Atomic/VITD_CHOLESTEROL_REGULATION_20260215_030_000207.md",
-    "02-Atomic/VITD_BONE_MUSCLE_IBD_20260215_088_000206.md",
-    "02-Atomic/VITAMIN_K2_T2D_RISK_BEULENS_2010_20260215_036_000205.md",
-    "02-Atomic/VITAMIN_K2_MK7_20260215_098_000204.md",
-    "02-Atomic/VITAMIN_D_SYNTHESIS_20260215_034_000203.md",
-    "02-Atomic/VITAMIN_D_SUN_OXIDATION_HOLICK_2007_20260215_006_000202.md",
-    "02-Atomic/VITAMIN_D_SUN_OXIDATION_20260215_023_000201.md",
-    "02-Atomic/VITAMIN_D_RAPID_INCREASE_IMMUNITY_20260215_101_000200.md",
-    "02-Atomic/VITAMIN_D_DEFICIENCY_SYMPTOMS_20260215_010_000199.md",
-    "02-Atomic/VITAMIN_D3_CHOLECALCIFEROL_DUP_20260215_092_000198.md",
-    "02-Atomic/VITAMIN_D3_CHOLECALCIFEROL_20260215_032_000197.md",
-    "02-Atomic/VITAMIN_B12_COBALAMIN_20260215_031_000196.md",
-    "02-Atomic/VDR_IMMUNE_IBD_20260215_099_000195.md",
+    "22-Dashboards/Daily_OPS_Template.md",
+    "22-Dashboards/RON_Mission_Control_Calendar.md",
+    "11-Templates/TEMPLATE_INDEX.md",
+    "11-Templates/Template_Index_20260220.md",
+    "11-Templates/Template_Entity_20260220.md",
+    "11-Templates/Template_Concept_20260220.md",
+    "11-Templates/Template_Gap_20260220.md",
+    "11-Templates/Template_Reference_20260220.md",
+    "77-Archive/Templates/yt-fun-note-taking-morgan-eu.md",
+    "77-Archive/Templates/run-heartbeat-prompt.md",
+    "77-Archive/Templates/Template_MOC_20260215_114.md",
+    "77-Archive/Templates/Template_Lit_Note_20260215_113.md",
+    "77-Archive/Templates/Template_Heartbeat_Prompt_20260215_112.md",
+    "77-Archive/Templates/Template_Clinical_Report_20260215_111.md",
+    "77-Archive/Templates/Template_Atomic_ClinicLit_20260215.md",
+    "77-Archive/Templates/Template_Zettel_20260215_117.md",
+    "77-Archive/Templates/Template_PhD_Note_20260215_120.md",
+    "77-Archive/Templates/Template_PhD_Note_20260215_116.md",
+    "77-Archive/Templates/Template_Naming_20260215_115.md",
+    "77-Archive/Templates/Template_Biomarker_20260215_110.md",
+    "77-Archive/Templates/atomic-note-template.md",
+    "77-Archive/Templates",
+    "02-Atomic/AMES_TRIAGE_MICRONUT_T2D_20260215_022_000015.md",
+    "02-Atomic/ATOMIC_HIDDENHUNGER_METS_DRIVER_20260216_070_000023.md",
+    "02-Atomic/ATOMIC_HIDDENHUNGER_RA_TRAJECTORY_20260216_043_000024.md",
+    "02-Atomic/ATOMIC_BCAA_HISTIDINE_OA_BIOMARKER_20260216_044_000020.md",
+    "02-Atomic/ANTIOXIDANTS_VITD_TELOMEREPROTECT_20260216_005_000016.md",
     "99-System/_scripts/uid-next.sh",
     "99-System/_scripts/batch-rename.sh",
     "99-System/_scripts",
@@ -220,7 +221,6 @@
     "04-Reference/Zotero",
     "04-Reference/Papers",
     "04-Reference/Books",
-    "04-Reference",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
