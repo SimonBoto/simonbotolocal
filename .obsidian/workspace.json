@@ -13,13 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11-Templates/TEMPLATE_INDEX.md",
+                "file": "02-Atomic/ADIPIC_HASHIMOTO_BIOMARKER_20260215_066_000006.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TEMPLATE_INDEX"
-            }
+              "title": "ADIPIC_HASHIMOTO_BIOMARKER_20260215_066_000006"
+            },
+            "group": "130b45c623ef47ee"
+          }
+        ]
+      },
+      {
+        "id": "9422d8229c1203d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebc72886ec9300e0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "02-Atomic/ADIPIC_HASHIMOTO_BIOMARKER_20260215_066_000006.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2962962962962963,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of ADIPIC_HASHIMOTO_BIOMARKER_20260215_066_000006"
+            },
+            "group": "130b45c623ef47ee"
           }
         ]
       }
@@ -156,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11-Templates/TEMPLATE_INDEX.md",
+                "file": "02-Atomic/ADIPIC_HASHIMOTO_BIOMARKER_20260215_066_000006.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TEMPLATE_INDEX"
+              "title": "Outline of ADIPIC_HASHIMOTO_BIOMARKER_20260215_066_000006"
             }
           }
         ],
@@ -183,8 +228,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "7bdf8ee45b57b16b",
   "lastOpenFiles": [
+    "02-Atomic/ADIPIC_CHOLESTEROL_IR_20260215_035_000005.md",
+    "02-Atomic/ADIPIC_ACID_IR_CUTOFFS_20260215_027_000004.md",
+    "02-Atomic/ABDOMINAL_OBESITY_METS_20260215_082_000003.md",
+    "02-Atomic/20260215_VITD_NATURAL_SOURCES_000002.md",
+    "02-Atomic/174_METABOLITES_TEST_20260215_038_000001.md",
+    "11-Templates/TEMPLATE_INDEX.md",
     "00-MISSION.md",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/PROMPT.MD",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/Atomic_Audit_Report_20260219.md",
@@ -215,12 +266,6 @@
     "77-Archive/Dashboards-2026-02-20/03-Structure/Dashboard_Recent.md",
     "77-Archive/Dashboards-2026-02-20/03-Structure/Dashboard_Queue.md",
     "77-Archive/Dashboards-2026-02-20/03-Structure/Dashboard_Orphans.md",
-    "77-Archive/Dashboards-2026-02-20/03-Structure/Dashboard_Evidence.md",
-    "11-Templates/Template_Index_20260220.md",
-    "11-Templates/zettelkasten-factory-flow.md",
-    "11-Templates/Template_Reference_20260220.md",
-    "11-Templates/TEMPLATE_INDEX.md",
-    "11-Templates/Template_ClinicLit_FullExtraction_20260215.md",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
