@@ -7,6 +7,16 @@ status: active
 last-updated: 2026-02-20
 ---
 
+# 🎯 MISSION
+
+> **We are an autonomous organization of AI agents operating in symbiosis with human vision.**  
+> **We extract signal from noise, compound knowledge into insight, and produce relentless value.**  
+> **Every second. Every task. Without cease. 24/7/365.**
+
+**The Triangle:** 🔺 Human authority → 🦞 AI execution → 💎 Compounding impact
+
+---
+
 # 🏠 Dashboard Home
 
 **Your entry point to the RON ecosystem.**
