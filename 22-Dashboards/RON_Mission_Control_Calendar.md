@@ -19,6 +19,30 @@ Last updated: 2026-02-20 19:31
 
 ---
 
+## 🔧 MCP Tools Status
+
+| Tool | Status | Capability | Last Check |
+|------|--------|------------|------------|
+| **Zotero MCP** | 🔴 Offline | Literature sync, citation management | 2026-02-20 |
+| **Web Search (Brave)** | 🟢 Online | PubMed, Google Scholar, general search | 2026-02-20 |
+| **File I/O** | 🟢 Online | Vault read/write, git operations | 2026-02-20 |
+| **Browser Control** | 🟡 Standby | Web scraping (Chrome extension needed) | 2026-02-20 |
+
+### Zotero Integration (mcporter)
+- **Server:** zotero-mcp
+- **User:** SymeonXen
+- **Status:** 🔴 Offline — unable to reach server
+- **Next Step:** `mcporter start zotero` or check API key
+
+**Available Commands:**
+```bash
+mcporter list              # Show configured servers
+mcporter start zotero      # Start Zotero MCP server
+mcporter call zotero.list  # List Zotero libraries
+```
+
+---
+
 ## 📅 Current Sprint: February 20–28, 2026
 
 ### Sprint Goals
@@ -138,6 +162,7 @@ Last updated: 2026-02-20 19:31
 
 | Resource | Link |
 |----------|------|
+| **🆕 Tools Dashboard** | [[22-Dashboards/RON_Tools_Dashboard]] |
 | **PhD Kanban** | [[22-Dashboards/PhD_Kanban]] |
 | **Atomic Audit** | [[22-Dashboards/PhD_Atomic_Audit_20260218]] |
 | **Template Index** | [[11-Templates/TEMPLATE_INDEX]] |
