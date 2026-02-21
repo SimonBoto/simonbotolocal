@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-MISSION.md",
+                "file": "11-Templates/Template_Protocol_v2.0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00-MISSION"
+              "title": "Template_Protocol_v2.0"
             }
           }
         ],
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-MISSION.md",
+                "file": "11-Templates/Template_Protocol_v2.0.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00-MISSION"
+              "title": "Outline of Template_Protocol_v2.0"
             }
           },
           {
@@ -224,6 +224,25 @@
   },
   "active": "ef1fc25c3dd363e7",
   "lastOpenFiles": [
+    "11-Templates/TEMPLATE_INDEX.md",
+    "11-Templates/TEMPLATE_GUIDE.md",
+    "11-Templates/Template_Protocol_v2.0.md",
+    "11-Templates/zettelkasten-factory-flow.md",
+    "11-Templates/Template_QuickCapture_v2.0.md",
+    "11-Templates/Template_DailyNote_v2.0.md",
+    "00-MISSION.md",
+    "11-Templates/Template_ClinicExtraction_v2.0.md",
+    "11-Templates/Template_ZoteroImport_v2.0.md",
+    "11-Templates/Template_Reference_v2.0.md",
+    "11-Templates/Template_Index_v2.0.md",
+    "11-Templates/Template_Gap_v2.0.md",
+    "11-Templates/Template_Entity_v2.0.md",
+    "11-Templates/Template_Concept_v2.0.md",
+    "11-Templates/Template_Method_v2.0.md",
+    "11-Templates/Template_Claim_v2.0.md",
+    "11-Templates/Template_Biomarker_v2.0.md",
+    "01-Projects/PhD/Rule_RON_Operating_Contract_v2_20260215_109.md",
+    "77-Archive/NAMING_BASE_RON_v4.md",
     "11-Templates/ron-master-template.md",
     "00-Inbox/20260218_Hashimoto_VitD_Protocol.md",
     "03-Structure/Navigation/Start_Here.md",
@@ -232,30 +251,11 @@
     "03-Structure/Ontology",
     "03-Structure/Navigation/Daily_Triage.md",
     "03-Structure/Indexes/A-Z_Index.md",
-    "66-Literature/Zotero/sarandiClinicalTrialIdentification2021.md",
     "03-Structure/Navigation",
     "00-Inbox",
-    "11-Templates/Process_Clinic_Lit_Step1_Template_20260215_076.md",
-    "11-Templates/Lit_Extraction_Clinic_Sites_20260215_075.md",
-    "01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219.md",
     "01-Projects/PhD",
     "01-Projects",
-    "11-Templates/zotero-import-template.md",
     "TheOptimizedBrain",
-    "00-Capture/_incoming/Gateway Solution Example.md",
-    "22-Dashboards/Dashboard_Home.md",
-    "22-Dashboards/Daily_OPS_Template.md",
-    "02-Atomic/ADIPIC_HASHIMOTO_BIOMARKER_20260215_066_000006.md",
-    "22-Dashboards/TOMORROWS_BATTLE_PLAN.md",
-    "22-Dashboards/MIDNIGHT_PROTOCOL_AUTHORIZATION.md",
-    "22-Dashboards/MORNING_REVIEW.md",
-    "02-Atomic/ADIPIC_CHOLESTEROL_IR_20260215_035_000005.md",
-    "02-Atomic/ADIPIC_ACID_IR_CUTOFFS_20260215_027_000004.md",
-    "02-Atomic/ABDOMINAL_OBESITY_METS_20260215_082_000003.md",
-    "02-Atomic/20260215_VITD_NATURAL_SOURCES_000002.md",
-    "02-Atomic/174_METABOLITES_TEST_20260215_038_000001.md",
-    "11-Templates/TEMPLATE_INDEX.md",
-    "00-MISSION.md",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/webscraper.jsonl",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/webscraper-pipeline-v3.json",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/ron-profile.json",
