@@ -58,7 +58,8 @@ aliases: [Vault_Index, Master_Index, Start, Home]
 
 - [[03-Structure/Navigation/Daily_Triage]] — Daily operations
 - [[03-Structure/Indexes/A-Z_Index]] — Alphabetical lookup
-- [[03-Structure/Ontology/]] — Concept hierarchies *(building)*
+- [[03-Structure/Ontology/Biomarkers_Taxonomy]] — Biomarker classification
+- [[03-Structure/Ontology/IR_Mechanisms_Map]] — Causal pathways
 
 ### 2. MOCs (Topic Hubs)
 **What you know, by topic.**
