@@ -80,6 +80,7 @@ Last updated: 2026-02-20
 - [[00-Inbox]] — Drop new sources here
 - [[02-Atomic]] — Main atomic notes
 - [[66-Literature/Refs]] — Reference notes
+- [[55-MOCs/MOC_INDEX]] — 🗺️ **Master MOC Index** ⭐
 - [[55-MOCs/PhD_IR_MOC]] — PhD navigation hub
 
 **External:**

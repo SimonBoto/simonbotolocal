@@ -64,12 +64,12 @@ aliases: [Vault_Index, Master_Index, Start, Home]
 ### 2. MOCs (Topic Hubs)
 **What you know, by topic.**
 
+- [[55-MOCs/MOC_INDEX]] — 🗺️ **MASTER INDEX of all MOCs** ⭐ START HERE
 - [[PhD_IR_MOC]] — Insulin resistance research
 - [[Metabolic-Syndrome]] — MetS hub
 - [[Metabolomics]] — Methods & protocols
 - [[MOC_DT_Hashimoto_Thyroiditis_20260215_008]] — Autoimmunity
-- [[Literature]] — Literature navigation
-- [[55-MOCs/]] — All 15 MOCs
+- [[55-MOCs/]] — All 20 MOCs
 
 ### 3. Content (Knowledge Base)
 **Your actual research notes.**
