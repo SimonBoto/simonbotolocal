@@ -112,7 +112,7 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 - [[22-Dashboards/RON_Mission_Control_Calendar]] — Mission control
 
 ### DASHBOARDS
-- [[Dashboard_Core_Map_20260215_069_000054]] — Core map
+- [[DASHBOARD_CORE_MAP_20260215_069_000054]] — Core map
 - [[Dashboard_Home]] — Home dashboard
 - [[RON_Tools_Dashboard]] — Tools dashboard
 - [[22-Dashboards/RON_Review_System]] — Review system
@@ -333,7 +333,7 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 - [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]] — Main protocol
 - [[PhD_IR_MOC]] — IR research MOC
 - [[PhD-Biomarkers]] — Biomarkers MOC
-- [[PhD_KANBAN_PROGRESS_DASHBOARD_20260215_105_000157]] — Progress dashboard
+- [[PHD_KANBAN_PROGRESS_DASHBOARD_20260215_105_000157]] — Progress dashboard
 
 ### PROCESS
 - [[PROCESS_COMMITTEE_APPROVAL_UNANIMOUS_ECMS_20260219_000161]] — Committee approval

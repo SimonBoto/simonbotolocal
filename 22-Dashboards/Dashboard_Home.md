@@ -25,12 +25,21 @@ Last updated: 2026-02-20
 
 ---
 
-## 🚀 Start Here
+## 🚀 Start Here — GO TO MISSION CONTROL
+
+**[[22-Dashboards/MISSION_CONTROL]]** ← 🎯 **YOUR COMMAND CENTER**
+
+*Live status, today's plan, RON's work, one-click actions.*
+
+---
+
+### Specialized Dashboards
 
 | Dashboard | Purpose | When to Use |
 |-----------|---------|-------------|
+| **[[MISSION_CONTROL]]** | **Master dashboard — ALWAYS START HERE** | Every session |
 | **[[MORNING_REVIEW]]** | Review overnight work | After midnight sessions |
-| **[[RON_Mission_Control_Calendar]]** | Sprint planning, calendar, milestones | Daily — check today's focus |
+| **[[RON_Mission_Control_Calendar]]** | Sprint planning, calendar | Weekly planning |
 | **[[RON_Review_System]]** | Review changes, give feedback | After RON makes changes |
 | **[[RON_Tools_Dashboard]]** | MCP status, capabilities | When tools acting up |
 | **[[Daily_OPS_Template]]** | Daily checklist & collaboration | Each morning |

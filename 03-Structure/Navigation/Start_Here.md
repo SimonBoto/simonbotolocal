@@ -81,8 +81,9 @@ aliases: [Vault_Index, Master_Index, Start, Home]
 ### 4. Operations (Tools)
 **How you create and manage.**
 
-- [[11-Templates/]] — Note templates
-- [[22-Dashboards/]] — Operational dashboards
+- [[22-Dashboards/MISSION_CONTROL]] — **Master command center** ⭐
+- [[11-Templates/]] — Note templates (13 v2.0)
+- [[22-Dashboards/]] — All operational dashboards
 - [[RON_Tools_Dashboard]] — AI assistant tools
 
 ---
