@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Structure/Navigation/Start_Here.md",
+                "file": "00-MISSION.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start_Here"
+              "title": "00-MISSION"
             }
           }
         ],
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Structure/Navigation/Start_Here.md",
+                "file": "00-MISSION.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Start_Here"
+              "title": "Outline of 00-MISSION"
             }
           },
           {
@@ -222,15 +222,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "ef1fc25c3dd363e7",
   "lastOpenFiles": [
+    "11-Templates/ron-master-template.md",
+    "00-Inbox/20260218_Hashimoto_VitD_Protocol.md",
+    "03-Structure/Navigation/Start_Here.md",
     "03-Structure/Ontology/IR_Mechanisms_Map.md",
     "03-Structure/Ontology/Biomarkers_Taxonomy.md",
     "03-Structure/Ontology",
     "03-Structure/Navigation/Daily_Triage.md",
     "03-Structure/Indexes/A-Z_Index.md",
     "66-Literature/Zotero/sarandiClinicalTrialIdentification2021.md",
-    "03-Structure/Navigation/Start_Here.md",
     "03-Structure/Navigation",
     "00-Inbox",
     "11-Templates/Process_Clinic_Lit_Step1_Template_20260215_076.md",
@@ -238,7 +240,7 @@
     "01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219.md",
     "01-Projects/PhD",
     "01-Projects",
-    "99-System/Templates/zotero-import-template.md",
+    "11-Templates/zotero-import-template.md",
     "TheOptimizedBrain",
     "00-Capture/_incoming/Gateway Solution Example.md",
     "22-Dashboards/Dashboard_Home.md",
@@ -254,8 +256,6 @@
     "02-Atomic/174_METABOLITES_TEST_20260215_038_000001.md",
     "11-Templates/TEMPLATE_INDEX.md",
     "00-MISSION.md",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/PROMPT.MD",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/Atomic_Audit_Report_20260219.md",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/webscraper.jsonl",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/webscraper-pipeline-v3.json",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/ron-profile.json",
