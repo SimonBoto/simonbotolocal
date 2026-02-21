@@ -37,14 +37,14 @@ tags: [moc, phd, methap, hashimoto, vitD, insulin-resistance, biomarkers, uoc, c
 ## Literature Base
 - [[Ref_Adipic_Acid_InsulinResistance_20260218]]
 - [[20260218_Hashimoto_VitD_Protocol]]
-- [[Lit_Extraction_Clinic_Sites_20260215_075]]
+- [[11-Templates/Lit_Extraction_Clinic_Sites_20260215_075]]
 - [[PhD_Protocol_UoC_Application_EN_20260219]] — UoC PhD protocol
 - [[Ref_Lab_UoC_Toxicology_Forensic_Chemistry_20260219]] — Laboratory capabilities
 
 ---
 
 ## Protocols
-- [[Process_Clinic_Lit_Step1_Template_20260215_076]]
+- [[11-Templates/Process_Clinic_Lit_Step1_Template_20260215_076]]
 - [[Protocol_UoC_Study_Design_20260219]] — UoC study design
 - [[Protocol_UoC_Intervention_Diet_Supplements_20260219]] — Diet/supplement protocol
 

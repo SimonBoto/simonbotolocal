@@ -1,7 +1,7 @@
 ---
 aliases: [Atomic_Gap_HOMA_HbA1c_Early_Detection]
 tags: [atomic, gap-analysis, insulin-resistance, diagnosis, homa-ir, hba1c, limitations]
-source: [[PhD_Protocol_UoC_Application_EN_20260219]]
+source: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]]
 status: atomic
 confidence: high
 ---
@@ -52,7 +52,7 @@ If validated, metabolomic screening could:
 ## Related
 - [[Adipic_Mechanism_BetaOxidation_Expanded_20260218]] — Specific biomarker mechanism
 - [[METHAP_Biomarker_Integration_Panel_20260218]] — Panel design
-- [[PhD_Protocol_UoC_Application_EN_20260219]] — Source protocol
+- [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]] — Source protocol
 
 ## Questions
 - What is the earliest metabolic change in IR development?

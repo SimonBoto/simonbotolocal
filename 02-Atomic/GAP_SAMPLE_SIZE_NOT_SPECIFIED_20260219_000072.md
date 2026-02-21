@@ -1,7 +1,7 @@
 ---
 aliases: [Gap_Sample_Size_Not_Specified]
 tags: [atomic, gap, sample-size, power-calculation, study-design, limitation, phd, uoc]
-source: [[PhD_Protocol_UoC_Application_EN_20260219, Study Design]]
+source: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219, Study Design]]
 confidence: high
 ---
 

@@ -1,7 +1,7 @@
 ---
 aliases: [Entity_CoSupervisor_Drakoulis_Nikolaos_Pharmacogenomics]
 tags: [entity, co-supervisor, pharmacogenomics, personalized-medicine, multi-omics, ekpa, phd]
-source: [[PhD_Protocol_UoC_Application_EN_20260219, Committee]]
+source: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219, Committee]]
 confidence: high
 ---
 
@@ -34,7 +34,7 @@ confidence: high
 EKPA affiliation provides access to broader academic network and potential clinical collaborations in Athens.
 
 **Related:**
-- [[PhD_Protocol_UoC_Application_EN_20260219]]
+- [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]]
 - [[Method_Dietary_Intervention_Multi_Component_20260219]]
 
 *Co-supervisor profile | 2026-02-19*

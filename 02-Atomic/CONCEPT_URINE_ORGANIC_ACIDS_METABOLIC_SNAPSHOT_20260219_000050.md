@@ -1,7 +1,7 @@
 ---
 aliases: [Concept_Urine_Organic_Acids_Metabolic_Snapshot]
 tags: [atomic, concept, urine-organic-acids, metabolic-snapshot, mitochondria, biomarker, phd]
-source: [[PhD_Protocol_UoC_Application_EN_20260219, Abstract & Keywords]]
+source: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219, Abstract & Keywords]]
 confidence: high
 ---
 

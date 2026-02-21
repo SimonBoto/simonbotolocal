@@ -1,7 +1,7 @@
 ---
 aliases: [Method_Case_Control_Design_IR_Metabolomics]
 tags: [atomic, method, case-control, study-design, insulin-resistance, metabolomics, phd]
-source: [[PhD_Protocol_UoC_Application_EN_20260219, Study Design]]
+source: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219, Study Design]]
 confidence: high
 ---
 

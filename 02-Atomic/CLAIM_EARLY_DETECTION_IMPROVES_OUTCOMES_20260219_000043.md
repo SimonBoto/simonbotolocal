@@ -1,7 +1,7 @@
 ---
 aliases: [Claim_Early_Detection_Improves_Outcomes]
 tags: [atomic, claim, early-detection, insulin-resistance, prevention, phd, uoc]
-source: [[PhD_Protocol_UoC_Application_EN_20260219, Abstract]]
+source: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219, Abstract]]
 confidence: high
 ---
 

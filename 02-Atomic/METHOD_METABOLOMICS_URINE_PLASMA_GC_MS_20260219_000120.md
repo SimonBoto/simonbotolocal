@@ -1,7 +1,7 @@
 ---
 aliases: [Method_Metabolomics_Urine_Plasma_GC-MS]
 tags: [atomic, method, metabolomics, gc-ms, urine-organic-acids, plasma-free-fatty-acids, phd]
-source: [[PhD_Protocol_UoC_Application_EN_20260219, Abstract & Methods]]
+source: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219, Abstract & Methods]]
 confidence: high
 ---
 

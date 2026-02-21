@@ -1,7 +1,7 @@
 ---
 aliases: [Process_Committee_Approval_Unanimous_ECMS]
 tags: [atomic, process, committee-approval, ecmc, ethics, university-of-crete, phd]
-source: [[PhD_Protocol_UoC_Application_EN_20260219, Approval Section]]
+source: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219, Approval Section]]
 confidence: high
 ---
 

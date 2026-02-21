@@ -1,7 +1,7 @@
 ---
 aliases: [Concept_Plasma_Free_Fatty_Acids_Lipotoxicity]
 tags: [atomic, concept, plasma-free-fatty-acids, lipotoxicity, insulin-resistance, biomarker, phd]
-source: [[PhD_Protocol_UoC_Application_EN_20260219, Abstract & Keywords]]
+source: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219, Abstract & Keywords]]
 confidence: high
 ---
 

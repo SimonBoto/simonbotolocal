@@ -1,7 +1,7 @@
 ---
 aliases: [Entity_Supervisor_Tsatsakis_Aristides_Toxicology]
 tags: [entity, supervisor, uoc, toxicology, metabolomics, expertise, phd]
-source: [[PhD_Protocol_UoC_Application_EN_20260219, Committee]]
+source: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219, Committee]]
 confidence: high
 ---
 
@@ -37,6 +37,6 @@ Parallel expertise in metabolomics could enable cross-project methodology sharin
 
 **Related:**
 - [[Ref_Lab_UoC_Toxicology_Forensic_Chemistry_20260219]]
-- [[PhD_Protocol_UoC_Application_EN_20260219]]
+- [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]]
 
 *Supervisor profile extracted | 2026-02-19*

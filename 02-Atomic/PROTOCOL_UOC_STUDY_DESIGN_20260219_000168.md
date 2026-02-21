@@ -1,7 +1,7 @@
 ---
 aliases: [Protocol_UoC_Study_Design]
 tags: [protocol, study-design, uoc, metabolomics, case-control, gc-ms]
-source: [[PhD_Protocol_UoC_Application_EN_20260219]]
+source: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]]
 status: protocol
 confidence: high
 ---
@@ -96,7 +96,7 @@ confidence: high
 - [ ] Follow-up timepoints?
 
 ## Links
-- [[PhD_Protocol_UoC_Application_EN_20260219]] — Full protocol
+- [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]] — Full protocol
 - [[PhD_IR_MOC]] — METHAP hub (related project)
 - [[Gap_HOMA_HbA1c_Early_Detection_20260219]] — Rationale
 

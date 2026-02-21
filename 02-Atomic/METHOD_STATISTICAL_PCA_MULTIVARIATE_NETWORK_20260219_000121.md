@@ -1,7 +1,7 @@
 ---
 aliases: [Method_Statistical_PCA_Multivariate_Network]
 tags: [atomic, method, statistics, pca, multivariate-analysis, network-analysis, metabolomics, data-science, phd]
-source: [[PhD_Protocol_UoC_Application_EN_20260219, Methods]]
+source: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219, Methods]]
 confidence: high
 ---
 

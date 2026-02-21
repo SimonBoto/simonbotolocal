@@ -13,16 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "22-Dashboards/Dashboard_Home.md",
+                "file": "00-Capture/_incoming/Gateway Solution Example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard_Home"
+              "title": "Gateway Solution Example"
             },
             "group": "130b45c623ef47ee"
+          },
+          {
+            "id": "ef1fc25c3dd363e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-Reference/Zotero/sarandiClinicalTrialIdentification2021.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "sarandiClinicalTrialIdentification2021"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9422d8229c1203d1",
@@ -34,7 +59,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "22-Dashboards/Dashboard_Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,7 +86,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Dashboard_Home"
+              "title": "Graph view"
             },
             "group": "130b45c623ef47ee"
           }
@@ -201,13 +225,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "22-Dashboards/Dashboard_Home.md",
+                "file": "04-Reference/Zotero/sarandiClinicalTrialIdentification2021.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard_Home"
+              "title": "Outline of sarandiClinicalTrialIdentification2021"
+            }
+          },
+          {
+            "id": "8ef1deb3e20b8dc9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -225,11 +259,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7bdf8ee45b57b16b",
+  "active": "ef1fc25c3dd363e7",
   "lastOpenFiles": [
+    "00-Inbox",
+    "11-Templates/Process_Clinic_Lit_Step1_Template_20260215_076.md",
+    "11-Templates/Lit_Extraction_Clinic_Sites_20260215_075.md",
+    "01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219.md",
+    "01-Projects/PhD",
+    "01-Projects",
+    "04-Reference/Zotero/sarandiClinicalTrialIdentification2021.md",
+    "99-System/Templates/zotero-import-template.md",
+    "TheOptimizedBrain",
+    "00-Capture/_incoming/Gateway Solution Example.md",
+    "22-Dashboards/Dashboard_Home.md",
     "22-Dashboards/Daily_OPS_Template.md",
     "02-Atomic/ADIPIC_HASHIMOTO_BIOMARKER_20260215_066_000006.md",
     "22-Dashboards/TOMORROWS_BATTLE_PLAN.md",
@@ -246,7 +294,6 @@
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/Atomic_Audit_Report_20260219.md",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/PhD_Atomic_Audit_20260218.md",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/Dashboard_Optimal_Workflow.md",
-    "22-Dashboards/Dashboard_Home.md",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/webscraper.jsonl",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/webscraper-pipeline-v3.json",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/ron-profile.json",
@@ -254,18 +301,8 @@
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/dt-v2.1.1-ms-final.json",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/dt-v2.1-athro-test.json",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/dt-v2.0.json",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/dt-scrape-v1.8.json",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/dt-refs-v2.1.json",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/Tonight-Work-20260218-Master-Index.md",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/RON-OPTIMIZATION-SYSTEM.md",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/LinkReport_20260215_039.md",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/Home_20260215_038.md",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/Dashboard_PhD_Progress_Kanban_20260215_037.md",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/Dashboard_Inbox_20260215_036.md",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/Dashboard_Daily_Note_Template_20260215_077.md",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/Dashboard_Daily_Note_20260215_034.md",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/2026_02_14_20260215_032.md",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]

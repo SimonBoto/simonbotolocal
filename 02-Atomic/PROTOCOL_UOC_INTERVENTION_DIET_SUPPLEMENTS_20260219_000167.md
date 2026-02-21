@@ -1,7 +1,7 @@
 ---
 aliases: [Protocol_UoC_Intervention_Diet_Supplements]
 tags: [protocol, intervention, omega-3, vitamin-d, magnesium, mediterranean-diet, supplementation]
-source: [[PhD_Protocol_UoC_Application_EN_20260219]]
+source: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]]
 status: protocol
 confidence: high
 ---
@@ -103,7 +103,7 @@ Secondary objective: Assess impact of dietary interventions on insulin resistanc
 *Note: Actual group structure not specified in protocol; this is suggested design*
 
 ## Links
-- [[PhD_Protocol_UoC_Application_EN_20260219]] — Source
+- [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]] — Source
 - [[20260218_Hashimoto_VitD_Protocol]] — High-dose VitD precedent
 - [[Protocol_UoC_Study_Design_20260219]] — Overall study design
 - [[METHAP_Biomarker_Integration_Panel_20260218]] — Parallel biomarker tracking

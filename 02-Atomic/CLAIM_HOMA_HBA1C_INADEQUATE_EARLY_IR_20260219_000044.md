@@ -1,7 +1,7 @@
 ---
 aliases: [Claim_HOMA_HbA1c_Inadequate_Early_IR]
 tags: [atomic, claim, homa-ir, hba1c, inadequacy, early-detection, diagnostic-limitation, phd]
-source: [[PhD_Protocol_UoC_Application_EN_20260219, Abstract]]
+source: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219, Abstract]]
 confidence: high
 ---
 

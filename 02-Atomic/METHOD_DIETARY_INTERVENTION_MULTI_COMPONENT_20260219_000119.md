@@ -1,7 +1,7 @@
 ---
 aliases: [Method_Dietary_Intervention_Multi_Component]
 tags: [atomic, method, intervention, mediterranean-diet, omega-3, vitamin-d, magnesium, supplementation, phd]
-source: [[PhD_Protocol_UoC_Application_EN_20260219, Intervention]]
+source: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219, Intervention]]
 confidence: high
 ---
 

@@ -1,7 +1,7 @@
 ---
 aliases: [Keyword_Index_Metabolomics_IR_Biomarkers]
 tags: [atomic, index, keywords, metabolomics, insulin-resistance, biomarkers, research-terms, phd]
-source: [[PhD_Protocol_UoC_Application_EN_20260219, Keywords]]
+source: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219, Keywords]]
 confidence: high
 ---
 

@@ -1,7 +1,7 @@
 ---
 aliases: [Claim_Metabolomics_Validates_Clinical_Practice]
 tags: [atomic, claim, metabolomics, clinical-practice, validation, translation, phd]
-source: [[PhD_Protocol_UoC_Application_EN_20260219, Expected Outcomes]]
+source: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219, Expected Outcomes]]
 confidence: high
 ---
 
