@@ -11,10 +11,14 @@
             "id": "7bdf8ee45b57b16b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "22-Dashboards/Dashboard_Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard_Home"
             },
             "group": "130b45c623ef47ee"
           }
@@ -30,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Atomic/ADIPIC_HASHIMOTO_BIOMARKER_20260215_066_000006.md",
+                "file": "22-Dashboards/Dashboard_Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -58,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ADIPIC_HASHIMOTO_BIOMARKER_20260215_066_000006"
+              "title": "Graph of Dashboard_Home"
             },
             "group": "130b45c623ef47ee"
           }
@@ -197,12 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "22-Dashboards/Dashboard_Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Dashboard_Home"
             }
           }
         ],
@@ -225,6 +230,7 @@
   },
   "active": "7bdf8ee45b57b16b",
   "lastOpenFiles": [
+    "22-Dashboards/Daily_OPS_Template.md",
     "02-Atomic/ADIPIC_HASHIMOTO_BIOMARKER_20260215_066_000006.md",
     "22-Dashboards/TOMORROWS_BATTLE_PLAN.md",
     "22-Dashboards/MIDNIGHT_PROTOCOL_AUTHORIZATION.md",
@@ -259,7 +265,6 @@
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/Dashboard_Daily_Note_Template_20260215_077.md",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/Dashboard_Daily_Note_20260215_034.md",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/2026_02_14_20260215_032.md",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/Dashboard_Clinic_20260215_033.md",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
