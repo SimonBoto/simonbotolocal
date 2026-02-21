@@ -11,14 +11,10 @@
             "id": "7bdf8ee45b57b16b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Atomic/ADIPIC_HASHIMOTO_BIOMARKER_20260215_066_000006.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ADIPIC_HASHIMOTO_BIOMARKER_20260215_066_000006"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             },
             "group": "130b45c623ef47ee"
           }
@@ -201,13 +197,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Atomic/ADIPIC_HASHIMOTO_BIOMARKER_20260215_066_000006.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ADIPIC_HASHIMOTO_BIOMARKER_20260215_066_000006"
+              "title": "Outline"
             }
           }
         ],
@@ -228,8 +223,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "7bdf8ee45b57b16b",
   "lastOpenFiles": [
+    "02-Atomic/ADIPIC_HASHIMOTO_BIOMARKER_20260215_066_000006.md",
+    "22-Dashboards/TOMORROWS_BATTLE_PLAN.md",
     "22-Dashboards/MIDNIGHT_PROTOCOL_AUTHORIZATION.md",
     "22-Dashboards/MORNING_REVIEW.md",
     "02-Atomic/ADIPIC_CHOLESTEROL_IR_20260215_035_000005.md",
@@ -263,9 +260,7 @@
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/Dashboard_Daily_Note_20260215_034.md",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/2026_02_14_20260215_032.md",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/Dashboard_Clinic_20260215_033.md",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/ChainReport_20260215_031.md",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards",
-    "77-Archive/Dashboards-2026-02-20/03-Structure/Dashboard_Recent.md",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
