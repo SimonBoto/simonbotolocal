@@ -15,7 +15,7 @@ update-frequency: every-session
 
 > **Single source of truth. Always current. Always actionable.**
 
-**Last Updated:** {{date:YYYY-MM-DD HH:mm}}  
+**Last Updated:** 2026-02-21 17:04 EET  
 **Current Session:** Active with RON  
 **System Status:** 🟢 All Systems Nominal
 
@@ -25,15 +25,15 @@ update-frequency: every-session
 
 | Component | Status | Detail | Action |
 |-----------|--------|--------|--------|
-| **Gateway** | 🟢 | Paired (2), stable 4h+ | None |
+| **Gateway** | 🟢 | Paired (2), stable 6h+ | None |
 | **Obsidian Sync** | 🟢 | iPhone ↔ Desktop | None |
 | **Vault Health** | 🟢 | 220 atomics, 128 refs | None |
 | **Inbox** | 🟢 | Empty, ready | Add sources |
-| **Git** | 🟢 | 6 commits today | Push to remote? |
+| **Git** | 🟢 | **7 commits today** | Push to remote? |
 | **RON** | 🟢 | Full capabilities | Ready for tasks |
 
-**Session Started:** {{date:YYYY-MM-DD}} 09:00  
-**Token Usage:** {{session.tokens}} / 256k  
+**Session Started:** 2026-02-21 09:00  
+**Token Usage:** 165k / 256k (64%)  
 **Model:** Kimi-k2.5 (Brain tier)
 
 ---
@@ -91,6 +91,7 @@ update-frequency: every-session
 - [ ] Template reorganization (13 templates v2.0)
 - [ ] Vault folder structure (clean hierarchy)
 - [ ] Biomarkers Taxonomy & IR Mechanisms Map
+- [ ] MISSION_CONTROL dashboard (this note) — Heartbeat active!
 
 **Say:** "Approve all" or "Review X" in Telegram
 
@@ -111,7 +112,7 @@ update-frequency: every-session
 
 ### System Health
 - **Inbox:** 0 (clean)
-- **Git:** 6 commits ahead
+- **Git:** **7 commits ahead** (updated)
 - **Sync:** Active
 - **Backups:** 507MB tar.gz
 
@@ -207,6 +208,10 @@ This dashboard auto-updates from:
 | 15:30 | 03-Structure layer built | Feature |
 | 16:00 | 04-Reference merged | Cleanup |
 | 16:30 | Templates standardized (13) | Feature |
+| 16:45 | 03-Structure Ontology layer complete | Feature |
+| 16:50 | 04-Reference merged into 66-Literature | Cleanup |
+| 17:00 | MISSION_CONTROL dashboard created | Feature |
+| **17:04** | **Dashboard heartbeat active** | **System** |
 | 16:45 | Mission Control dashboard created | Feature |
 | **NOW** | **Review pending** | **Action needed** |
 

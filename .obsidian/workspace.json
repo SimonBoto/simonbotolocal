@@ -11,10 +11,24 @@
             "id": "7bdf8ee45b57b16b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "11-Templates/Template_ClinicExtraction_v2.0.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Template_ClinicExtraction_v2.0"
             }
           }
         ]
@@ -152,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "77-Archive/NAMING_BASE_RON_v4.md",
+                "file": "11-Templates/Template_ClinicExtraction_v2.0.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NAMING_BASE_RON_v4"
+              "title": "Outline of Template_ClinicExtraction_v2.0"
             }
           },
           {
@@ -193,9 +207,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "7bdf8ee45b57b16b",
   "lastOpenFiles": [
+    "11-Templates/Template_ClinicLit_FullExtraction_20260215.md",
+    "11-Templates/Template_ClinicExtraction_v2.0.md",
+    "11-Templates/Template_Claim_v2.0.md",
+    "11-Templates/Template_Biomarker_v2.0.md",
     "22-Dashboards/MISSION_CONTROL.md",
+    "77-Archive/NAMING_BASE_RON_v4.md",
     "77-Archive/Dashboards-2026-02-20/03-Structure/Dashboard_Queue.md",
     "77-Archive/Dashboards-2026-02-20/03-Structure/Dashboard_Evidence.md",
     "00-Inbox/174_METABOLITES_TEST_20260215_038_000001.md",
@@ -206,7 +225,6 @@
     "11-Templates/Template_QuickCapture_v2.0.md",
     "11-Templates/Template_DailyNote_v2.0.md",
     "00-MISSION.md",
-    "11-Templates/Template_ClinicExtraction_v2.0.md",
     "11-Templates/Template_ZoteroImport_v2.0.md",
     "11-Templates/Template_Reference_v2.0.md",
     "11-Templates/Template_Index_v2.0.md",
@@ -214,13 +232,9 @@
     "11-Templates/Template_Entity_v2.0.md",
     "11-Templates/Template_Concept_v2.0.md",
     "11-Templates/Template_Method_v2.0.md",
-    "11-Templates/Template_Claim_v2.0.md",
-    "11-Templates/Template_Biomarker_v2.0.md",
     "01-Projects/PhD/Rule_RON_Operating_Contract_v2_20260215_109.md",
-    "77-Archive/NAMING_BASE_RON_v4.md",
     "11-Templates/ron-master-template.md",
     "00-Inbox/20260218_Hashimoto_VitD_Protocol.md",
-    "03-Structure/Navigation/Start_Here.md",
     "03-Structure/Ontology",
     "03-Structure/Navigation",
     "00-Inbox",
