@@ -265,8 +265,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ef1fc25c3dd363e7",
+  "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "03-Structure/Navigation/Daily_Triage.md",
+    "03-Structure/Indexes/A-Z_Index.md",
+    "03-Structure/Navigation/Start_Here.md",
+    "03-Structure/Navigation",
     "00-Inbox",
     "11-Templates/Process_Clinic_Lit_Step1_Template_20260215_076.md",
     "11-Templates/Lit_Extraction_Clinic_Sites_20260215_075.md",
@@ -299,10 +303,6 @@
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/ron-profile.json",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/heartbeat-state.json",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/dt-v2.1.1-ms-final.json",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/dt-v2.1-athro-test.json",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/dt-v2.0.json",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/Tonight-Work-20260218-Master-Index.md",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/RON-OPTIMIZATION-SYSTEM.md",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
