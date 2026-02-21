@@ -130,6 +130,17 @@ Router
 | **Status** | 🟢 **READY** |
 | **Ollama Cmd** | `ollama run llama3.2:3b` |
 
+#### Reflex-GLM: GLM-4.7 (Cloud)
+| Attribute | Value |
+|-----------|-------|
+| **Model** | glm-4.7:cloud |
+| **Size** | Cloud-hosted |
+| **RAM Required** | 0 (API call) |
+| **Strength** | Chinese/English bilingual, reasoning |
+| **Status** | 🟢 **AVAILABLE** |
+| **Use Case** | Alternative to Muscle for specific tasks |
+| **Note** | Cloud-based, not truly local — treat as Muscle-C backup |
+
 **Reflex Deployment Strategy:**
 - **Default for:** Drafts, outlines, PHI-sensitive work
 - **Advantage:** Zero cost, maximum privacy

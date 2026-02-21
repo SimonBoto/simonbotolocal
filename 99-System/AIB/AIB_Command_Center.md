@@ -36,7 +36,8 @@ confidence: high
 | **Muscle-A (OpenRouter)** | 🟡 Standby | Key secured, untested | Empty |
 | **Muscle-B (Groq)** | 🟡 Standby | Key secured, untested | Empty |
 | **Muscle-C (Together)** | ⚪ Offline | Awaiting API key | N/A |
-| **Reflex (Llama 3.2 3B)** | 🟢 **READY** | Ollama loaded | Empty |
+| **Reflex-Llama (3.2 3B)** | 🟢 **READY** | Ollama loaded | Empty |
+| **Reflex-GLM (4.7 Cloud)** | 🟢 Available | Cloud API ready | Empty |
 | **Legs (Cron)** | 🟢 Active | Autoheal running | 2 jobs |
 
 ### System Health
