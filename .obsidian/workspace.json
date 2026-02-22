@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-System/Triangle/ABOUT_US_PLAN.md",
+                "file": "22-Dashboards/02-HANDOFF.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ABOUT_US_PLAN"
+              "title": "02-HANDOFF"
             }
           }
         ]
@@ -209,6 +209,11 @@
   },
   "active": "7bdf8ee45b57b16b",
   "lastOpenFiles": [
+    "99-System/Triangle/05-WORKFLOWS.md",
+    "22-Dashboards/01-QUEUE.md",
+    "22-Dashboards/00-COMMAND.md",
+    "22-Dashboards/02-HANDOFF.md",
+    "99-System/Triangle/ABOUT_US_PLAN.md",
     "77-Archive/99-System-Deprecated/Daily_OPS_Template.md",
     "22-Dashboards/DAILY_OPS.md",
     "77-Archive/99-System-Deprecated/RON_Emergency_Recovery.md",
@@ -222,23 +227,18 @@
     "77-Archive/99-System-Deprecated/AIB",
     "77-Archive/99-System-Deprecated",
     "threekeys.md",
-    "99-System/Triangle/ABOUT_US_PLAN.md",
     "99-System/Triangle/02-AI-BOSS.md",
     "99-System/Triangle/01-CEO.md",
     "99-System/Triangle/04-PROJECTS.md",
     "99-System/Triangle/03-AGENTS.md",
     "99-System/Triangle/00-INDEX.md",
     "99-System/Triangle",
-    "22-Dashboards/00-COMMAND.md",
-    "22-Dashboards/01-QUEUE.md",
     "22-Dashboards/03-LOG.md",
     "22-Dashboards/04-SYSTEM.md",
     "22-Dashboards/START_HERE.md",
     "99-System/RON_Emergency_Recovery.md",
-    "22-Dashboards/02-HANDOFF.md",
     "99-System/_logs/MIGRATION_COMPLETE_20260220.md",
     "99-System/WORKFLOW_OPTIMIZATION_CHART.md",
-    "99-System/AIB/AGENT_CONFIGURATION.md",
     "99-System/BotCompany",
     "99-System/AIB",
     "03-Structure/Ontology",
