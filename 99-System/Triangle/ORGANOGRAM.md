@@ -405,6 +405,104 @@ START: Spawned when quality matters
 
 ---
 
+## 🚨 OPERATIONAL PROTOCOLS
+
+### Failure Escalation
+
+| Failure Type | First Response | Second Response | Escalation |
+|--------------|----------------|-----------------|------------|
+| **Rate Limit** | Wait 60s, retry | Switch to alt agent | RON → PAID |
+| **Timeout** | Retry 1x | Log failure, mark blocked | RON investigates |
+| **Bad Output** | Regenerate 1x | Mark needs-review | CEO review |
+| **All Agents Fail** | Log incident | RON attempts manual | CEO discussion |
+
+**Escalation Chain:**
+```
+GROQ/FREE/PAID fails
+    ↓
+RON retry or manual
+    ↓
+If impossible → Log to 03-LOG.md + 02-HANDOFF.md
+    ↓
+If critical → Telegram urgent to CEO
+    ↓
+If blocking P0 → Immediate attention required
+```
+
+### Conflict Resolution
+
+**Scenario:** CEO Priority vs Reality Blocker
+
+**Protocol:**
+1. CEO: "P0: Do X immediately"
+2. RON: "X blocked by Y. Options:
+   - A) Do Z first (2h), then X
+   - B) Skip Y, attempt X with risk warning
+   - C) Discuss alternative approach"
+3. CEO chooses A/B/C or proposes D
+4. RON executes chosen path
+5. If CEO insists on impossible → Escalate to discussion
+
+### HANDOFF Timing Rules
+
+**Write to HANDOFF immediately when:**
+- ✅ Task completes (success or failure)
+- ✅ Task blocked (need your input)
+- ✅ Multiple sub-tasks done (batch report)
+- ✅ End of session (always)
+
+**Batch reports every 30 minutes if:**
+- Multiple small tasks completing
+- No single task worth separate handoff
+- You prefer digest over stream
+
+**Never delay HANDOFF for:**
+- URGENT items
+- P0 blockers
+- Failures requiring decision
+
+### Emergency Brake
+
+**CEO Can Halt Anytime With:**
+- "STOP"
+- "HALT"
+- "🛑" (emoji)
+- "Emergency stop"
+
+**RON Response (< 5 seconds):**
+1. Stop current operation (safely)
+2. Cancel pending agent spawns
+3. Write to HANDOFF: "HALTED per CEO at [time]"
+4. Summarize current state
+5. Await explicit "GO" to resume
+
+**Resume Requires:**
+- Explicit "GO" or "RESUME"
+- New COMMAND if direction changed
+- Never auto-resume after HALT
+
+### Learning Loop
+
+**Weekly (RON proposes):**
+- Review 03-LOG.md for patterns
+- Count: "Asked permission for X 5 times"
+- Propose: "Move X to pre-authorized?"
+- Update authority matrix if approved
+
+**Monthly (CEO reviews):**
+- Autonomy level appropriate?
+- Too many/few interruptions?
+- GREEN/YELLOW/RED balance right?
+- Update ORGANOGRAM if needed
+
+**Quarterly:**
+- Full system review
+- Agent roster evaluation
+- Tool upgrades considered
+- Strategic goals adjustment
+
+---
+
 ## 🎭 CULTURE & OPERATING PRINCIPLES
 
 1. **Text > Brain:** If it's worth remembering, write it to a file
