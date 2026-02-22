@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESSION_HANDOFF_v4.0_MIGRATION.md",
+                "file": "SYSTEM_README_v3.0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SESSION_HANDOFF_v4.0_MIGRATION"
+              "title": "SYSTEM_README_v3.0"
             }
           }
         ]
@@ -209,6 +209,24 @@
   },
   "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "77-Archive/Transient/BACKUP_CONFIRMATION_20260222.md",
+    "99-System/Philosophy/ZETTELKASTEN_PHILOSOPHY.md",
+    "99-System/Architecture/V4.0_TEMPLATE_REQUIREMENTS.md",
+    "99-System/Architecture/VAULT_OPTIMIZATION_PROPOSAL.md",
+    "99-System/Architecture/ZETTEL_NAMING_HIERARCHY_REDUX.md",
+    "99-System/Architecture/ZETTELKASTEN_TECHREF_PROPOSAL.md",
+    "99-System/Architecture/ZETTEL_ARCHITECTURE_DESIGN.md",
+    "99-System/Migration/VAULT_REORGANIZATION_PLAN_v4.0.md",
+    "99-System/Migration/V4.0_MIGRATION_SUMMARY.md",
+    "99-System/Migration/CONTINUITY_PLAN.md",
+    "99-System/Migration/SESSION_HANDOFF_v4.0_MIGRATION.md",
+    "99-System/Migration/PHASE2_EXECUTION_RUNBOOK.md",
+    "99-System/Migration/PHASE1_EXECUTION_RUNBOOK.md",
+    "77-Archive/Transient",
+    "99-System/Philosophy",
+    "99-System/Architecture",
+    "99-System/Migration",
+    "99-System/ROOT_ORGANIZATION_PLAN.md",
     "99-System/COST_TRACKING.md",
     "99-System/99-GLOSSARY.md",
     "77-Archive/99-System/ABOUT_US_PLAN.md",
@@ -222,29 +240,11 @@
     "99-System/Triangle/02-AI-BOSS.md",
     "99-System/Triangle/01-CEO.md",
     "99-System/Triangle/03-AGENTS.md",
-    "99-System/Triangle/SESSION_HANDOFF.md",
-    "99-System/Triangle/ORGANOGRAM.md",
-    "BACKUP_CONFIRMATION_20260222.md",
-    "V4.0_MIGRATION_SUMMARY.md",
-    "PHASE2_EXECUTION_RUNBOOK.md",
-    "66-Literature/66b-LitNotes/Lit_GutierrezRodelo_IR_Mechanisms_2017.md",
-    "PHASE1_EXECUTION_RUNBOOK.md",
-    "V4.0_TEMPLATE_REQUIREMENTS.md",
-    "VAULT_REORGANIZATION_PLAN_v4.0.md",
-    "66-Literature/66c-TechRefs/Insulin_Signaling_TechRef_[T-001-0001].md",
-    "55-MOCs/MOC-001.md",
-    "04-Zettels/Cbl_CAP_Lipid_Raft_Pathway_[Z-001-0017].md",
-    "04-Zettels/MAPK_Mitogenic_Pathway_[Z-001-0016].md",
-    "04-Zettels/Mitochondrial_Dysfunction_IR_[Z-001-0015].md",
     "66-Literature/66c-TechRefs",
     "66-Literature/66a-StaticRefs",
     "77-Archive/Legacy_20260222/Refs-Legacy",
     "77-Archive/Legacy_20260222/02-Atomic-Legacy",
     "77-Archive/Legacy_20260222",
-    "66-Literature/66b-LitNotes",
-    "04-Zettels",
-    "77-Archive/PHI_Quarantine_20260222",
-    "77-Archive/99-System-Deprecated/BotCompany",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]

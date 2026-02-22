@@ -212,7 +212,7 @@ Contents:
 
 - `99-System/UID_SYSTEM_v2.0.md` — UID rules & domain registry
 - `11-Templates/Template_Zettel_v2.0.md` — Zettel template
-- `ZETTELKASTEN_PHILOSOPHY.md` — Philosophical foundations
+- `99-System/Philosophy/ZETTELKASTEN_PHILOSOPHY.md` — Philosophical foundations
 - `ZETTEL_ARCHITECTURE_DESIGN.md` — Detailed architecture
 
 ---
