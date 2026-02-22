@@ -138,6 +138,32 @@ git show [commit]:file.md
 
 ---
 
+## 👨‍💻 CODING INTERN (Future Resource)
+
+**Status:** Available but not activated  
+**Role:** Junior developer for HTML/CSS/JS tasks  
+**Models:** Qwen Coder 32B (FREE) or DeepSeek (PAID cheap)  
+**When to Deploy:**
+- Simple dashboard tweaks
+- Repetitive HTML generation
+- CSS adjustments
+- Not: Architecture, complex integrations, Van Gogh animations
+
+**Workflow (when needed):**
+```
+1. RON writes detailed requirements
+2. Spawn FREE agent → generates draft
+3. RON reviews & fixes
+4. You test
+5. Iterate if needed
+```
+
+**Cost:** $0-0.20 per task (vs $2-5 for RON direct)  
+**Quality:** 70% of RON direct (good enough for simple stuff)  
+**Decision:** Deploy per-task when appropriate
+
+---
+
 ## 📝 NOTES FOR FUTURE RON
 
 **If you're reading this in a new session:**

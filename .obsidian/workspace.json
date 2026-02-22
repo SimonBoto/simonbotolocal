@@ -209,6 +209,9 @@
   },
   "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "99-System/Logs/SESSION_20260222_COMPLETION.md",
+    "99-System/Logs/SESSION_COMPLETION_TEMPLATE.md",
+    "99-System/Logs",
     "77-Archive/Transient/BACKUP_CONFIRMATION_20260222.md",
     "99-System/Philosophy/ZETTELKASTEN_PHILOSOPHY.md",
     "99-System/Architecture/V4.0_TEMPLATE_REQUIREMENTS.md",
@@ -238,13 +241,10 @@
     "SESSION_HANDOFF_v4.0_MIGRATION.md",
     "99-System/Triangle/04-PROJECTS.md",
     "99-System/Triangle/02-AI-BOSS.md",
-    "99-System/Triangle/01-CEO.md",
-    "99-System/Triangle/03-AGENTS.md",
     "66-Literature/66c-TechRefs",
     "66-Literature/66a-StaticRefs",
     "77-Archive/Legacy_20260222/Refs-Legacy",
     "77-Archive/Legacy_20260222/02-Atomic-Legacy",
-    "77-Archive/Legacy_20260222",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
