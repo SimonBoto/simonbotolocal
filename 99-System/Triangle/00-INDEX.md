@@ -23,6 +23,7 @@
 
 - **[[04-PROJECTS\|Active Projects]]** — Current sprint, P0/P1/P2
 - **[[05-WORKFLOWS\|Workflows]]** — How we work, handoffs, approvals
+- **[[SESSION_HANDOFF\|Session Handoff]]** — Continuity record, current state
 - **[[22-Dashboards/MISSION_CONTROL\|Mission Control]]** — Daily operations dashboard
 - **[[99-GLOSSARY\|Glossary]]** — Terms, aliases, shortcuts
 - **⚒️ Triangle Forge** — http://localhost:4444/forge.html (Workflow chart, sprint board, metrics)
