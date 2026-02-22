@@ -3,60 +3,69 @@ uid: 20260222124600
 type: moc
 title: MOC — Metabolic Syndrome
 aliases: [MOC_MetS, Metabolic_Syndrome]
-tags: [moc, metabolic-syndrome, nutrition, insulin-resistance]
+tags: [moc, metabolic-syndrome, stub, future]
 parent-moc: [[MOC-INDEX]]
-status: active
+status: stub
 created: 2026-02-15
 last-updated: 2026-02-22
 ---
 
 # MOC: Metabolic Syndrome
 
-> MetS hub: prevalence, diagnostic criteria, causes, biomarkers, and nutritional interventions.
+> 🏗️ STUB — Future hub for MetS: prevalence, criteria, causes, nutrition
 
 ---
 
-## 🎯 Entry Points
+## 🎯 Current Status
 
-- [[Syndrome_X_Diagnostic_Criteria_20260215_025]] — Diagnostic criteria
-- [[MetS_Prevalence_US_20260215_010]] — Current prevalence data
+🟡 **STUB — No MetS-specific zettels yet**
 
----
-
-## 📊 Core Content
-
-### Epidemiology
-- [[MetS_Rise_Reasons_20260215_012]] — Why MetS is increasing
-- [[MetS_In_Old_Ethnic_Poor_20260215_011]] — Demographics
-
-### Diagnostic Components
-- [[MetS_Waist_Circumference_Debate_20260215_013]] — Central obesity criteria
-- [[Insulin_Hormone_20260215_108]] — Insulin's role
-
-### Associated Conditions
-- [[NAFLD_Stages_20260215_015]] — Non-alcoholic fatty liver disease
-- [[Obesity_MetS_20260215_035]] — Obesity connection
-
-### Nutritional Factors
-- [[Magnesium_Deficiency_Chronic_MetS_20260215_006]] — Magnesium role
-- [[Micronutrient_Deficiencies_MetS_20260215_014]] — Other micronutrients
+Related content exists in:
+- [[MOC-Insulin-Signaling]] — Mechanistic basis
+- [[MOC-Nutrition]] — Dietary factors
 
 ---
 
-## 🔗 Related MOCs
+## 📊 Planned Structure (When Built)
+
+### Epidemiology (Future)
+- Prevalence data
+- Demographics (age, ethnicity, SES)
+- Rise reasons
+
+### Diagnostic Criteria (Future)
+- ATP III/NCEP criteria
+- IDF criteria
+- Waist circumference debate
+
+### Associated Conditions (Future)
+- NAFLD stages
+- Obesity connection
+- Cardiovascular risk
+
+### Nutritional Factors (Future)
+- Magnesium deficiency
+- Micronutrient patterns
+
+---
+
+## 🔗 Related (Now)
 
 | MOC | Connection |
 |-----|------------|
-| [[MOC-Biomarkers]] | MetS biomarkers panel |
+| [[MOC-Insulin-Signaling]] | Mechanistic foundation |
 | [[MOC-Nutrition]] | Dietary interventions |
+| [[MOC-Biomarkers]] | MetS biomarkers panel |
 
 ---
 
-## 📈 Progress
+## 📈 To Build This MOC
 
-- [ ] Expand zettels on therapeutic nutrition
-- [ ] Add exercise protocols
+- [ ] Extract MetS prevalence literature
+- [ ] Create diagnostic criteria zettel
+- [ ] Add nutrition intervention zettels
+- [ ] Link waist circumference debate
 
 ---
 
-*Last updated: 2026-02-22 | Status: Active*
+*🏗️ This is a stub — content will be added from literature extraction*

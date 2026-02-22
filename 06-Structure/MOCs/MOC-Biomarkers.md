@@ -3,55 +3,60 @@ uid: 20260211225302
 type: moc
 title: MOC — PhD Biomarkers
 aliases: [MOC_Biomarkers, Biomarkers_MOC]
-tags: [moc, phd-biomarker, oa-pattern, insulin-resistance]
+tags: [moc, phd-biomarker, stub, future]
 parent-moc: [[MOC-INDEX]]
-status: active
+status: stub
 created: 2026-02-11
 last-updated: 2026-02-22
 ---
 
 # MOC: PhD Biomarkers
 
-> PhD Biomarkers Hub — urine/plasma OA/FFA GC-MS, IR validation: Adipic/Suberic ✅ validated.
+> 🏗️ STUB — Future hub for urine/plasma OA/FFA biomarkers
 
 ---
 
-## 🎯 Entry Points
+## 🎯 Current Status
 
-- [[Zettel_Adipic_Biomarker_Cutoffs]] — Adipic acid cutoffs (>5μmol/L)
-- [[Zettel_Suberic_Biomarker_Cutoffs]] — Suberic acid cutoffs (>10μmol/L)
+🟡 **STUB — No dedicated biomarker zettels yet**
 
----
-
-## 📊 Core Biomarkers
-
-### Organic Acids
-- [[Zettel_Adipic_IR_Early_Pattern_1]] — Early IR pattern
-- [[Zettel_Suberic_IR_Biomarker]] — Suberic as IR marker
-
-### Fatty Acids
-- [[FFA_Pattern_IR]] — FFA patterns in IR
-
-### Other Markers
-- [[Zettel_Homocysteine_Biomarker]] — Homocysteine
-- [[Zettel_HPA_Axis_Biomarker]] — HPA axis markers
+Current biomarker content lives in:
+- [[MOC-Insulin-Signaling]] — 17 zettels (adipic acid, metabolic pathways)
 
 ---
 
-## 🔗 Related MOCs
+## 📊 Planned Structure (When Built)
 
-| MOC | Connection |
-|-----|------------|
-| [[MOC-Insulin-Signaling]] | Mechanistic basis |
-| [[MOC-Metabolomics]] | Analytical methods |
+### Organic Acids (Future)
+- Adipic acid cutoffs
+- Suberic acid patterns
+- Early IR detection markers
+
+### Fatty Acids (Future)
+- FFA patterns in IR
+- Omega-3/6 ratios
+
+### Other Markers (Future)
+- Homocysteine
+- HPA axis markers
 
 ---
 
-## 📈 Progress
+## 🔗 Related (Now)
 
-- [ ] Validate cutoffs in clinical cohort
-- [ ] Add more OA markers
+| MOC | Current Connection |
+|-----|-------------------|
+| [[MOC-Insulin-Signaling]] | 17 existing metabolic zettels |
 
 ---
 
-*Last updated: 2026-02-22 | Status: Active*
+## 📈 To Build This MOC
+
+- [ ] Extract 10 GOLD biomarker references
+- [ ] Create adipic acid protocol zettel
+- [ ] Add suberic acid validation data
+- [ ] Link metabolomics methods
+
+---
+
+*🏗️ This is a stub — content will be added as PhD progresses*

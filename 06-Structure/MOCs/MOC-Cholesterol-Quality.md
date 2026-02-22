@@ -1,29 +1,64 @@
-<!-- NEW_NAME: MOC-Cholesterol-Quality-20260215-004.md -->
 ---
 uid: 20260215134900
-tags: [moc dt-clinic cholesterol hdl-ldl phd-biomarker]
-parent-moc: [[05-Structure/05b-MOCs/Literature]] | [[22-Dashboards/PhD_IR_MOC]]
-aliases: [MOC_DT_Cholesterol_Quality]
-status: atomic
-confidence: high
-source: [[77-Archive/Legacy_20260222/Refs-Legacy/Cholesterol_Quality_Myth__20260215_004]]
+type: moc
+title: MOC — Cholesterol Quality
+aliases: [MOC_Cholesterol_Quality, Cholesterol_MOC]
+tags: [moc, dt-clinic, cholesterol, hdl-ldl, phd-biomarker, archived]
+parent-moc: [[MOC-INDEX]]
+status: archived-content
+created: 2026-02-15
+last-updated: 2026-02-22
 ---
 
-# MOC_DT_Cholesterol_Quality_20260215_004
+# MOC: Cholesterol Quality
 
-**Overview**: DT clinic zettel cluster: 10 refs + 9 atomics (cholesterol myths/VitD/IR/adipic particles).
+> 📦 ARCHIVED CONTENT — DT clinic zettel cluster from 2026-02-15
 
-**Lit-Full**: [[77-Archive/Legacy_20260222/Refs-Legacy/Cholesterol_Quality_Myth__20260215_004]]
+---
 
-**References**: [[Refs_Inflammation_NCBI_033]] | [[Refs_Framingham_Offspring_036]] | [[Refs_VitD_Cholesterol_030]] | ... (10 Zotero-ready)
+## 🎯 Status
 
-**Atomics (Dynamic Zettels)**:
-- Myths: [[Cholesterol_HDL_LDL_Myth_027]] | [[SmallDense_LDL_Risk_028]]
-- Data: [[HDL_Protective_Thresholds_029]] | [[Large_Buoyant_LDL_Safe_032]]
-- VitD: [[VitD_Cholesterol_Regulation_030]] | [[P450_Cholesterol_Metab_033]]
-- Protocols: [[Particle_Quality_Test_034]] | [[Adipic_Cholesterol_IR_035]]
+📦 **Content exists in 77-Archive/Legacy_20260222/**
 
-**Dataview**: `LIST FROM "33-Atomic" WHERE contains(tags, "dt-clinic") AND contains(file.name, "Cholesterol")`
+This MOC references pre-v4.0 content. To integrate into v4.1:
+- Extract key zettels to 03-Zettels/Conscious/
+- Update links to new structure
 
-**Next MOCs**: [[MOC_VitD_Cholesterol]] | [[MOC_Adipic_Lipid_IR]].
-**RON**: Pipeline: 9 strong zettels → PhD graph.
+---
+
+## 📊 Archived Content (77-Archive/)
+
+### Source Reference
+- **Lit-Full**: [[77-Archive/Legacy_20260222/Refs-Legacy/Cholesterol_Quality_Myth__20260215_004]]
+- **10 refs + 9 atomics**
+
+### Topics Covered
+- Cholesterol myths (HDL/LDL)
+- Small dense LDL risk
+- HDL protective thresholds
+- Vitamin D regulation
+- P450 metabolism
+- Particle quality testing
+
+---
+
+## 🔗 Related
+
+| Topic | Archive Location |
+|-------|------------------|
+| Inflammation | 77-Archive/Legacy_20260222/ |
+| Framingham data | Legacy archive |
+| VitD-Cholesterol | Legacy archive |
+
+---
+
+## 📈 To Migrate to v4.1
+
+- [ ] Review 9 archived atomics
+- [ ] Extract to 03-Zettels/Conscious/
+- [ ] Create new zettel links
+- [ ] Update this MOC with live links
+
+---
+
+*📦 Content exists but requires migration from legacy archive*
