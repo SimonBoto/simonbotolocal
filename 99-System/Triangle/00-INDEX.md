@@ -15,6 +15,7 @@
 | **CEO** | [[01-CEO\|Dr. Simos Xenidis]] | Authority, vision, final decisions |
 | **AI Boss** | [[02-AI-BOSS\|RON 🦞]] | Execution, delegation, operations |
 | **Workforce** | [[03-AGENTS\|Agent Fleet]] | Specialized muscle agents |
+| **Structure** | [[ORGANOGRAM\|Organogram & Architecture]] | Complete company blueprint |
 
 ---
 
