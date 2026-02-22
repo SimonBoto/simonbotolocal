@@ -26,10 +26,10 @@ TheOptimizedBrain/
 │
 ├── 01-Projects/                 ← Writing projects (ephemeral)
 │
-├── 04-Zettels/                  ← ATOMIC KNOWLEDGE (permanent)
+├── 03-Zettels/03a-Conscious/                  ← ATOMIC KNOWLEDGE (permanent)
 │   └── Insulin_Receptor_[Z-001-0001].md
 │
-├── 55-MOCs/                     ← NAVIGATION HUBS
+├── 05-Structure/05b-MOCs/                     ← NAVIGATION HUBS
 │   └── MOC-001.md (Insulin Signaling)
 │
 ├── 66-Literature/
@@ -38,7 +38,7 @@ TheOptimizedBrain/
 │   └── 66c-TechRefs/            ← LIVING REFERENCES (evolving)
 │       └── Insulin_Signaling_TechRef_[T-001-0001].md
 │
-├── 11-Templates/                ← All templates
+├── 05-Structure/05a-Templates/                ← All templates
 │
 ├── 77-Archive/                  ← Legacy & deprecated
 │   └── Legacy_20260222/
@@ -53,7 +53,7 @@ TheOptimizedBrain/
 
 ## The Three Layers
 
-### Layer 1: Zettels (04-Zettels/)
+### Layer 1: Zettels (03-Zettels/03a-Conscious/)
 
 **What:** Atomic units of knowledge  
 **Size:** 50-200 words  
@@ -89,7 +89,7 @@ The insulin receptor is a tetrameric tyrosine kinase...
 
 ---
 
-### Layer 2: TechRefs (66-Literature/66c-TechRefs/)
+### Layer 2: TechRefs (04-Synthesis/)
 
 **What:** Living technical references  
 **Size:** 500-1500 words  
@@ -107,7 +107,7 @@ The insulin receptor is a tetrameric tyrosine kinase...
 
 ---
 
-### Layer 3: MOCs (55-MOCs/)
+### Layer 3: MOCs (05-Structure/05b-MOCs/)
 
 **What:** Maps of content — navigation hubs  
 **Naming:** `MOC-{DDD}.md`
@@ -131,20 +131,20 @@ Source (PubMed)
     ↓
 66b-LitNotes/ (process & extract)
     ↓
-04-Zettels/ (atomic zettels created)
+03-Zettels/03a-Conscious/ (atomic zettels created)
     ↓
 66c-TechRefs/ (synthesis updated)
     ↓
-55-MOCs/ (navigation updated)
+05-Structure/05b-MOCs/ (navigation updated)
 ```
 
 ### Daily Operation
 
 1. **Capture** → 00-Inbox/ (fleeting)
 2. **Process** → 66b-LitNotes/ (literature note)
-3. **Extract** → 04-Zettels/ (zettels)
+3. **Extract** → 03-Zettels/03a-Conscious/ (zettels)
 4. **Synthesize** → 66c-TechRefs/ (living reference)
-5. **Navigate** → 55-MOCs/ (find & connect)
+5. **Navigate** → 05-Structure/05b-MOCs/ (find & connect)
 
 ---
 
@@ -211,7 +211,7 @@ Contents:
 ## Key Documents
 
 - `99-System/UID_SYSTEM_v2.0.md` — UID rules & domain registry
-- `11-Templates/Template_Zettel_v2.0.md` — Zettel template
+- `05-Structure/05a-Templates/Template_Zettel_v2.0.md` — Zettel template
 - `99-System/Philosophy/ZETTELKASTEN_PHILOSOPHY.md` — Philosophical foundations
 - `ZETTEL_ARCHITECTURE_DESIGN.md` — Detailed architecture
 

@@ -4,7 +4,7 @@ type: moc
 title: MOC — Insulin Signaling
 aliases: [MOC_Insulin, MOC_INSR, MOC_Insulin_Signaling]
 tags: [moc, insulin, signaling, metabolism, phd]
-parent-moc: [[55-MOCs/PhD_IR_MOC]]
+parent-moc: [[05-Structure/05b-MOCs/PhD_IR_MOC]]
 created: 2026-02-22
 ---
 
@@ -54,7 +54,7 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 - [[Z_Mitochondrial_Dysfunction_IR_015]] — Energy stress → IR (not yet created)
 
 **Clinical Connections:**
-- [[55-MOCs/Insulin_Resistance]] — Disease-level MOC
+- [[05-Structure/05b-MOCs/Insulin_Resistance]] — Disease-level MOC
 - [[BIOMARKER_Adipic_IR_Cutoffs_20260215_004]] — Metabolomic proxy
 
 ---

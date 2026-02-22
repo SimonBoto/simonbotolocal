@@ -1,18 +1,18 @@
 ---
 uid: 20260215142000
 tags: [#moc #dt-clinic #hashimoto #thyroid #phd-biomarker]
-parent-moc: [[55-MOCs/Literature]] | [[22-Dashboards/PhD_IR_MOC]]
+parent-moc: [[05-Structure/05b-MOCs/Literature]] | [[22-Dashboards/PhD_IR_MOC]]
 aliases: [MOC_DT_Hashimoto]
 status: atomic
 confidence: high
-source: [[66-Literature/Hashimoto_Thyroiditis__20260215_008]]
+source: [[77-Archive/Legacy_20260222/Refs-Legacy/Hashimoto_Thyroiditis__20260215_008]]
 ---
 
 # MOC_DT_Hashimoto_Thyroiditis_20260215_008
 
 **Overview**: DT clinic zettel cluster: 10 refs + 9 atomics (Hashimoto stress/VitD/selenium/IR/adipic PhD).
 
-**Lit-Full**: [[66-Literature/Hashimoto_Thyroiditis__20260215_008]]
+**Lit-Full**: [[77-Archive/Legacy_20260222/Refs-Legacy/Hashimoto_Thyroiditis__20260215_008]]
 
 **References**: {{VERIFY SPAWN}}
 

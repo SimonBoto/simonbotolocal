@@ -24,7 +24,7 @@ SORT file.ctime DESC
 
 ## Literature
 ```dataview
-LIST FROM "66-Literature/Atomic_Lit" AND "44-Clinic"
+LIST FROM "77-Archive/Legacy_20260222/Refs-Legacy/Atomic_Lit" AND "44-Clinic"
 WHERE contains(parent-moc, this.file.path)
 ```
 

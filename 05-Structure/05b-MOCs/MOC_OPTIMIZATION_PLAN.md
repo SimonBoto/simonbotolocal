@@ -36,8 +36,8 @@
 
 #### 🔴 Issue 2: Broken Template Links
 Multiple MOCs reference moved templates:
-- `[[11-Templates/Template_ClinicExtraction_v2.0]]` → Should be `[[11-Templates/Template_ClinicExtraction_v2.0]]`
-- `[[11-Templates/Template_ClinicExtraction_v2.0]]` → Deleted (merged)
+- `[[05-Structure/05a-Templates/Template_ClinicExtraction_v2.0]]` → Should be `[[05-Structure/05a-Templates/Template_ClinicExtraction_v2.0]]`
+- `[[05-Structure/05a-Templates/Template_ClinicExtraction_v2.0]]` → Deleted (merged)
 
 #### 🟡 Issue 3: Inconsistent Naming
 - Some use `MOC_DT_` prefix (7 files)
@@ -126,7 +126,7 @@ title: {{Full Title}}
 aliases: [{{Short}}, {{Acronym}}]
 tags: [moc, {{topic}}, {{domain}}]
 status: {{active | archived | draft}}
-parent-moc: [[55-MOCs/{{Parent}}]]
+parent-moc: [[05-Structure/05b-MOCs/{{Parent}}]]
 last-reviewed: YYYY-MM-DD
 next-review: YYYY-MM-DD
 ---
@@ -175,7 +175,7 @@ LIST FROM "02-Atomic" WHERE contains(file.name, "{{keyword}}")
 - Display statistics
 
 #### 3.2 Create MOC Index
-**New file:** `55-MOCs/MOC_INDEX.md`
+**New file:** `05-Structure/05b-MOCs/MOC_INDEX.md`
 - Master list of all MOCs
 - Classification by domain
 - Status overview
@@ -237,15 +237,15 @@ Under MetabolicSyndrome:
 ### Quick Fix (15 min)
 ```bash
 # 1. Delete empty .md file
-rm 55-MOCs/.md
+rm 05-Structure/05b-MOCs/.md
 
 # 2. Merge PhD MOCs
-cat 55-MOCs/PhD_IR_MOC_Update_20260218.md >> 55-MOCs/PhD_IR_MOC.md
-rm 55-MOCs/PhD_IR_MOC_Update_20260218.md
+cat 05-Structure/05b-MOCs/PhD_IR_MOC_Update_20260218.md >> 05-Structure/05b-MOCs/PhD_IR_MOC.md
+rm 05-Structure/05b-MOCs/PhD_IR_MOC_Update_20260218.md
 
 # 3. Fix template links
-sed -i 's|Lit_Extraction_Clinic_Sites_20260215_075|Template_ClinicExtraction_v2.0|g' 55-MOCs/*.md
-sed -i 's|Process_Clinic_Lit_Step1_Template_20260215_076|Template_ClinicExtraction_v2.0|g' 55-MOCs/*.md
+sed -i 's|Lit_Extraction_Clinic_Sites_20260215_075|Template_ClinicExtraction_v2.0|g' 05-Structure/05b-MOCs/*.md
+sed -i 's|Process_Clinic_Lit_Step1_Template_20260215_076|Template_ClinicExtraction_v2.0|g' 05-Structure/05b-MOCs/*.md
 
 # 4. Git commit
 git add -A && git commit -m "MOC cleanup: merge duplicates, fix links, delete empty"

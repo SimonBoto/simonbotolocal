@@ -103,7 +103,7 @@ mv PhD_IR_MOC.md MOC_PhD_IR.md  # Or keep as-is
 
 ```bash
 # Find and replace in entire vault
-find 02-Atomic 55-MOCs 22-Dashboards 03-Structure -name "*.md" -exec sed -i \
+find 77-Archive/Legacy_20260222/02-Atomic-Legacy 55-MOCs 22-Dashboards 03-Structure -name "*.md" -exec sed -i \
   -e 's/MOC_DT_Hashimoto_Thyroiditis_20260215_008/MOC_Hashimoto/g' \
   -e 's/MOC_DT_SafeVit_20260215_002/MOC_VitaminD/g' \
   -e 's/MOC_DT_Diabetes_T2D_20260215_003/MOC_DiabetesT2D/g' \

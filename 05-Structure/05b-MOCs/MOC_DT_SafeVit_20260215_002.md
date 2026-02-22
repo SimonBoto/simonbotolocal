@@ -1,18 +1,18 @@
 ---
 uid: 20260215133400
 tags: [#moc #dt-clinic #vitamins #safe-intake #phd-biomarker]
-parent-moc: [[55-MOCs/Literature]] | [[22-Dashboards/PhD_IR_MOC]]
+parent-moc: [[05-Structure/05b-MOCs/Literature]] | [[22-Dashboards/PhD_IR_MOC]]
 aliases: [MOC_DT_SafeVit_]
 status: atomic
 confidence: high
-source: [[66-Literature/Safe_Vitamin_Intake__20260215_002]]
+source: [[77-Archive/Legacy_20260222/Refs-Legacy/Safe_Vitamin_Intake__20260215_002]]
 ---
 
 # MOC_DT_SafeVit_20260215_002
 
 **Overview**: DT clinic zettel cluster: 10 refs + 8 atomics (VitD dosing/IR/P450/adipic hooks).
 
-**Lit-Full**: [[66-Literature/Safe_Vitamin_Intake__20260215_002]]
+**Lit-Full**: [[77-Archive/Legacy_20260222/Refs-Legacy/Safe_Vitamin_Intake__20260215_002]]
 
 **References**: [[Refs_Harvard_EmptyCalories_008]] | [[Refs_Leitch_RDA_1942_009]] | [[Refs_NewRDAs_History_010]] | [[Refs_CRN_VitSafety_011]] | [[Refs_Wiley_Journal_012]] | [[Refs_Wiki_VitPoison_013]] | [[Refs_CRN_SuppsSafe_014]] | [[Refs_HSPH_Vitamins_015]] | [[Refs_JAMA_AdverseRx_016]] | [[Refs_PoisonControl_2018_017]]
 

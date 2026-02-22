@@ -1,18 +1,18 @@
 ---
 uid: 20260215135600
 tags: [#moc #dt-clinic #metabolomics #biomarkers #phd-biomarker]
-parent-moc: [[55-MOCs/Literature]] | [[22-Dashboards/PhD_IR_MOC]]
+parent-moc: [[05-Structure/05b-MOCs/Literature]] | [[22-Dashboards/PhD_IR_MOC]]
 aliases: [MOC_DT_Metabolomics_Analysis]
 status: atomic
 confidence: high
-source: [[66-Literature/Metabolomics_Analysis__20260215_005]]
+source: [[77-Archive/Legacy_20260222/Refs-Legacy/Metabolomics_Analysis__20260215_005]]
 ---
 
 # MOC_DT_Metabolomics_Analysis_20260215_005
 
 **Overview**: DT clinic zettel cluster: 13 refs + 8 atomics (metabolomics 174 markers/adipic/IR/GC-MS PhD hooks). VERIFY post-spawn.
 
-**Lit-Full**: [[66-Literature/Metabolomics_Analysis__20260215_005]]
+**Lit-Full**: [[77-Archive/Legacy_20260222/Refs-Legacy/Metabolomics_Analysis__20260215_005]]
 
 **References**: {{VERIFY SPAWN}}
 
