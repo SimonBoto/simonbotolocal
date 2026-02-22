@@ -21,12 +21,20 @@
 
 ## 📊 Operations
 
-- **[[04-PROJECTS\|Active Projects]]** — Current sprint, P0/P1/P2
-- **[[05-WORKFLOWS\|Workflows]]** — How we work, handoffs, approvals
-- **[[SESSION_HANDOFF\|Session Handoff]]** — Continuity record, current state
-- **[[22-Dashboards/MISSION_CONTROL\|Mission Control]]** — Daily operations dashboard
-- **[[99-GLOSSARY\|Glossary]]** — Terms, aliases, shortcuts
-- **⚒️ Triangle Forge** — http://localhost:4444/forge.html (Workflow chart, sprint board, metrics)
+| Resource | Location | Purpose |
+|----------|----------|---------|
+| **[[04-PROJECTS\|Active Projects]]** | 99-System/Triangle/ | Current sprint, P0/P1/P2 |
+| **[[05-WORKFLOWS\|Workflows]]** | 99-System/Triangle/ | How we work, handoffs, approvals |
+| **[[SESSION_HANDOFF\|Session Handoff]]** | 99-System/Triangle/ | Continuity record, current state |
+| **[[99-GLOSSARY\|Glossary]]** | 99-System/ | Terms, aliases, shortcuts |
+| **[[COST_TRACKING\|Cost Tracking]]** | 99-System/ | Budget, spending, optimization |
+| **[[DISASTER_RECOVERY\|Disaster Recovery]]** | 99-System/ | Emergency procedures |
+| **[[UID_SYSTEM_v2.0\|UID System]]** | 99-System/ | Naming conventions |
+| **[[22-Dashboards/MISSION_CONTROL\|Mission Control]]** | 22-Dashboards/ | Daily operations dashboard |
+
+**Dashboard:** http://localhost:4444  
+**Forge:** http://localhost:4444/forge.html  
+**Organogram:** http://localhost:4444/org.html
 
 ---
 
@@ -34,11 +42,28 @@
 
 **Sprint:** Feb 20–28, 2026  
 **Active Agents:** 4 (RON, GROQ, FREE, PAID)  
-**Dashboard:** http://localhost:4444  
-**Vault:** TheOptimizedBrain  
+**Today's Cost:** ~$0.15 / $2.00 cap  
+**Git Status:** Clean, 66 commits ahead  
 
-**Last Updated:** 2026-02-22  
+**Last Updated:** 2026-02-22 18:52  
 **Next Review:** As needed
+
+---
+
+## 📂 99-System Structure
+
+**Active (Minimal):**
+```
+99-System/
+├── Triangle/              ← Company HQ (8 files)
+├── _logs/                 ← Migration history
+├── 99-GLOSSARY.md         ← Terms & aliases
+├── COST_TRACKING.md       ← Budget monitor
+├── DISASTER_RECOVERY.md   ← Emergency procedures
+└── UID_SYSTEM_v2.0.md     ← Naming conventions
+```
+
+**Archived:** `77-Archive/99-System/` (superseded docs)
 
 ---
 

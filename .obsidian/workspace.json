@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-System/Triangle/ORGANOGRAM.md",
+                "file": "SESSION_HANDOFF_v4.0_MIGRATION.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ORGANOGRAM"
+              "title": "SESSION_HANDOFF_v4.0_MIGRATION"
             }
           }
         ]
@@ -209,7 +209,21 @@
   },
   "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "99-System/COST_TRACKING.md",
+    "99-System/99-GLOSSARY.md",
+    "77-Archive/99-System/ABOUT_US_PLAN.md",
+    "77-Archive/99-System/WORKFLOW_OPTIMIZATION_CHART.md",
+    "77-Archive/99-System/WORKFLOW_ARCHITECTURE_v3.0.md",
+    "77-Archive/99-System",
+    "SYSTEM_README_v3.0.md",
+    "CONTINUITY_PLAN.md",
+    "SESSION_HANDOFF_v4.0_MIGRATION.md",
+    "99-System/Triangle/04-PROJECTS.md",
+    "99-System/Triangle/02-AI-BOSS.md",
+    "99-System/Triangle/01-CEO.md",
+    "99-System/Triangle/03-AGENTS.md",
     "99-System/Triangle/SESSION_HANDOFF.md",
+    "99-System/Triangle/ORGANOGRAM.md",
     "BACKUP_CONFIRMATION_20260222.md",
     "V4.0_MIGRATION_SUMMARY.md",
     "PHASE2_EXECUTION_RUNBOOK.md",
@@ -219,22 +233,9 @@
     "VAULT_REORGANIZATION_PLAN_v4.0.md",
     "66-Literature/66c-TechRefs/Insulin_Signaling_TechRef_[T-001-0001].md",
     "55-MOCs/MOC-001.md",
-    "SYSTEM_README_v3.0.md",
     "04-Zettels/Cbl_CAP_Lipid_Raft_Pathway_[Z-001-0017].md",
     "04-Zettels/MAPK_Mitogenic_Pathway_[Z-001-0016].md",
     "04-Zettels/Mitochondrial_Dysfunction_IR_[Z-001-0015].md",
-    "04-Zettels/ER_Stress_Induced_IR_[Z-001-0014].md",
-    "04-Zettels/Lipotoxicity_Ceramide_Induced_IR_[Z-001-0013].md",
-    "04-Zettels/GSK3_Inhibition_Glycogen_Synthesis_[Z-001-0012].md",
-    "04-Zettels/GLUT4_Vesicle_Translocation_[Z-001-0011].md",
-    "04-Zettels/Akt_Substrate_Phosphorylation_[Z-001-0010].md",
-    "04-Zettels/Akt_Recruitment_by_PIP3_[Z-001-0009].md",
-    "04-Zettels/IRS_Serine_Phosphorylation_Causes_IR_[Z-001-0008].md",
-    "04-Zettels/PI3K_Activation_Mechanism_[Z-001-0007].md",
-    "04-Zettels/IRS1_vs_IRS2_Tissue_Distribution_[Z-001-0006].md",
-    "04-Zettels/IRS_Protein_Recruitment_[Z-001-0005].md",
-    "04-Zettels/INSR_Mutations_Donohue_Syndrome_[Z-001-0004].md",
-    "04-Zettels/INSR_Autophosphorylation_Mechanism_[Z-001-0003].md",
     "66-Literature/66c-TechRefs",
     "66-Literature/66a-StaticRefs",
     "77-Archive/Legacy_20260222/Refs-Legacy",
@@ -244,7 +245,6 @@
     "04-Zettels",
     "77-Archive/PHI_Quarantine_20260222",
     "77-Archive/99-System-Deprecated/BotCompany",
-    "77-Archive/99-System-Deprecated/AIB",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
