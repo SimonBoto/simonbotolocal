@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-System/_logs/MIGRATION_COMPLETE_20260220.md",
+                "file": "99-System/Triangle/ABOUT_US_PLAN.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MIGRATION_COMPLETE_20260220"
+              "title": "ABOUT_US_PLAN"
             }
           }
         ]
@@ -207,36 +207,37 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "7bdf8ee45b57b16b",
   "lastOpenFiles": [
+    "threekeys.md",
+    "99-System/Triangle/ABOUT_US_PLAN.md",
+    "99-System/Triangle/02-AI-BOSS.md",
+    "99-System/Triangle/01-CEO.md",
+    "99-System/Triangle/04-PROJECTS.md",
+    "99-System/Triangle/03-AGENTS.md",
+    "99-System/Triangle/00-INDEX.md",
+    "99-System/Triangle",
+    "22-Dashboards/00-COMMAND.md",
+    "22-Dashboards/01-QUEUE.md",
+    "22-Dashboards/03-LOG.md",
+    "22-Dashboards/04-SYSTEM.md",
+    "22-Dashboards/START_HERE.md",
+    "99-System/RON_Emergency_Recovery.md",
+    "22-Dashboards/02-HANDOFF.md",
+    "99-System/_logs/MIGRATION_COMPLETE_20260220.md",
     "99-System/WORKFLOW_OPTIMIZATION_CHART.md",
     "99-System/AIB/AGENT_CONFIGURATION.md",
-    "22-Dashboards/START_HERE.md",
     "99-System/WORKFLOW_ARCHITECTURE_v3.0.md",
-    "99-System/RON_Emergency_Recovery.md",
     "99-System/DISASTER_RECOVERY.md",
     "99-System/AIB/Dashboard_Development_Plan.md",
-    "threekeys.md",
     "99-System/AIB/Website_Strategy_Assessment.md",
     "99-System/AIB/AIB_Command_Center.md",
     "99-System/BotCompany/BotCompany_Roster.md",
     "99-System/BotCompany",
     "99-System/AIB/AIB_Charter.md",
     "99-System/AIB",
-    "99-System/_logs/MIGRATION_COMPLETE_20260220.md",
     "00-MISSION.md",
     "99-System/_logs/rename-log.md",
-    "03-Structure/Ontology/IR_Mechanisms_Map.md",
-    "03-Structure/Ontology/Biomarkers_Taxonomy.md",
-    "03-Structure/Navigation/Start_Here.md",
-    "03-Structure/Navigation/Daily_Triage.md",
-    "01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219.md",
-    "01-Projects/PhD/Rule_RON_Operating_Contract_v2_20260215_109.md",
-    "02-Atomic/174_METABOLITES_TEST_20260215_038_000001.md",
-    "55-MOCs/MOC_INDEX.md",
-    "55-MOCs/MOC_NAMING_CLEANUP_PLAN.md",
-    "55-MOCs/MOC_OPTIMIZATION_PLAN.md",
-    "11-Templates/Template_ZoteroImport_v2.0.md",
     "03-Structure/Ontology",
     "03-Structure/Navigation",
     "00-Inbox",
@@ -244,7 +245,6 @@
     "01-Projects",
     "TheOptimizedBrain",
     "77-Archive/Dashboards-2026-02-20/22-Dashboards/webscraper.jsonl",
-    "77-Archive/Dashboards-2026-02-20/22-Dashboards/webscraper-pipeline-v3.json",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
