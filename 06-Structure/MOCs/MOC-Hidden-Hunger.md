@@ -1,7 +1,7 @@
 <!-- NEW_NAME: MOC-Hidden-Hunger-20260215-009.md -->
 ---
 uid: 20260215132000
-tags: [#moc #hidden-hunger #micronutrients #covid #phd-biomarker]
+tags: [moc #hidden-hunger #micronutrients #covid phd-biomarker]
 parent-moc: [[05-Structure/05b-MOCs/Literature]] | [[22-Dashboards/PhD_IR_MOC]]
 aliases: [MOC_HiddenHunger_]
 status: atomic

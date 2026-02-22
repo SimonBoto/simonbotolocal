@@ -1,7 +1,7 @@
 <!-- NEW_NAME: MOC-Diabetes-T2D-20260215-003.md -->
 ---
 uid: 20260215134100
-tags: [#moc #dt-clinic #diabetes-t2d #insulin-resistance #phd-biomarker]
+tags: [moc dt-clinic diabetes-t2d insulin-resistance phd-biomarker]
 parent-moc: [[05-Structure/05b-MOCs/Literature]] | [[22-Dashboards/PhD_IR_MOC]]
 aliases: [MOC_DT_T2D_Pathogenesis]
 status: atomic
@@ -23,7 +23,7 @@ source: [[77-Archive/Legacy_20260222/Refs-Legacy/Diabetes_Type2_Pathogenesis__20
 - Biomarkers: [[Metabolomics_T2D_023]] | [[Adipic_T2D_IR_026]]
 - Risks: [[Microbiome_Dysbiosis_020]] | [[Stress_Cortisol_021]]
 
-**Dataview**: `LIST FROM "33-Atomic" WHERE contains(tags, "#dt-clinic") AND contains(file.name, "Diabetes")`
+**Dataview**: `LIST FROM "33-Atomic" WHERE contains(tags, "dt-clinic") AND contains(file.name, "Diabetes")`
 
 **Next MOCs**: [[MOC_IR_T2D]] | [[MOC_Adipic_Diabetes]].
 **RON**: Pipeline: 10 strong zettels → PhD T2D graph.

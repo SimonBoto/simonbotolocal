@@ -1,7 +1,7 @@
 <!-- NEW_NAME: MOC-Cholesterol-Quality-20260215-004.md -->
 ---
 uid: 20260215134900
-tags: [#moc #dt-clinic #cholesterol #hdl-ldl #phd-biomarker]
+tags: [moc dt-clinic cholesterol hdl-ldl phd-biomarker]
 parent-moc: [[05-Structure/05b-MOCs/Literature]] | [[22-Dashboards/PhD_IR_MOC]]
 aliases: [MOC_DT_Cholesterol_Quality]
 status: atomic
@@ -23,7 +23,7 @@ source: [[77-Archive/Legacy_20260222/Refs-Legacy/Cholesterol_Quality_Myth__20260
 - VitD: [[VitD_Cholesterol_Regulation_030]] | [[P450_Cholesterol_Metab_033]]
 - Protocols: [[Particle_Quality_Test_034]] | [[Adipic_Cholesterol_IR_035]]
 
-**Dataview**: `LIST FROM "33-Atomic" WHERE contains(tags, "#dt-clinic") AND contains(file.name, "Cholesterol")`
+**Dataview**: `LIST FROM "33-Atomic" WHERE contains(tags, "dt-clinic") AND contains(file.name, "Cholesterol")`
 
 **Next MOCs**: [[MOC_VitD_Cholesterol]] | [[MOC_Adipic_Lipid_IR]].
 **RON**: Pipeline: 9 strong zettels → PhD graph.

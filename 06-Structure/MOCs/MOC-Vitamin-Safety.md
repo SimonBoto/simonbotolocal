@@ -1,7 +1,7 @@
 <!-- NEW_NAME: MOC-SafeVit-20260215-002.md -->
 ---
 uid: 20260215133400
-tags: [#moc #dt-clinic #vitamins #safe-intake #phd-biomarker]
+tags: [moc dt-clinic #vitamins #safe-intake phd-biomarker]
 parent-moc: [[05-Structure/05b-MOCs/Literature]] | [[22-Dashboards/PhD_IR_MOC]]
 aliases: [MOC_DT_SafeVit_]
 status: atomic
@@ -23,7 +23,7 @@ source: [[77-Archive/Legacy_20260222/Refs-Legacy/Safe_Vitamin_Intake__20260215_0
 - VitD: [[VitD_MegaDose_Safe_20260215_011]] | [[P450_VitD_Metabolism_20260215_013]]
 - Protocols: [[Metabolomics_PersonalDosing_20260215_014]] | [[EmptyCalories_Epidemic_20260215_015]]
 
-**Dataview**: `LIST FROM "33-Atomic" WHERE contains(tags, "#dt-clinic") AND contains(file.name, "SafeVit")`
+**Dataview**: `LIST FROM "33-Atomic" WHERE contains(tags, "dt-clinic") AND contains(file.name, "SafeVit")`
 
 **Next MOCs**: [[MOC_VitD_IR]] | [[MOC_Adipic_HiddenHunger]].
 **RON**: Pipeline: 8 strong unique zettels → PhD graph.

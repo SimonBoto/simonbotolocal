@@ -21,8 +21,7 @@ Overarching map for 66-Nutrition subs (Vitamins, Gut, etc.) + studies.
 - [[Vitamin_K2_T2D_Risk_Beulens_2010_20260215_036]]
 - [[Targeted_Metabolomic_Fatty_Acids_ADs_2019_20260215_079]]
 - [[Micronutrient_Def_COVID_2020_20260215_089]]
-- [[Vitamin_D_Sun_Oxidation_20260215_023]]
-
+- [[Vitamin_D_Sun_Oxi[[MOC-Metabolic-Syndrome]]
 ## Related
 - [[Metabolic-Syndrome]]
 

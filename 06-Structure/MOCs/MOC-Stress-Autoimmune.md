@@ -1,7 +1,7 @@
 <!-- NEW_NAME: MOC-Stress-Autoimmune-20260215-007.md -->
 ---
 uid: 20260215141300
-tags: [#moc #dt-clinic #stress #autoimmune #phd-biomarker]
+tags: [moc dt-clinic #stress #autoimmune phd-biomarker]
 parent-moc: [[05-Structure/05b-MOCs/Literature]] | [[22-Dashboards/PhD_IR_MOC]]
 aliases: [MOC_DT_Stress_Autoimmune]
 status: atomic
@@ -19,7 +19,7 @@ source: [[77-Archive/Legacy_20260222/Refs-Legacy/Stress_Autoimmune_Diseases__202
 
 **Atomics**: {{VERIFY SPAWN}}
 
-**Dataview**: `LIST FROM "33-Atomic" WHERE contains(tags, "#dt-clinic") AND contains(file.name, "Stress")`
+**Dataview**: `LIST FROM "33-Atomic" WHERE contains(tags, "dt-clinic") AND contains(file.name, "Stress")`
 
 **Next MOCs**: [[MOC_Stress_IR]] | [[MOC_Adipic_Autoimmune]].
 **RON**: Pipeline verified.

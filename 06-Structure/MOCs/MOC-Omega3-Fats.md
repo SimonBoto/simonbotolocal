@@ -1,7 +1,7 @@
 <!-- NEW_NAME: MOC-Omega3-Fats-20260215-006.md -->
 ---
 uid: 20260215140700
-tags: [#moc #dt-clinic #omega3 #fats #phd-biomarker]
+tags: [moc dt-clinic #omega3 #fats phd-biomarker]
 parent-moc: [[05-Structure/05b-MOCs/Literature]] | [[22-Dashboards/PhD_IR_MOC]]
 aliases: [MOC_DT_Omega3_Fats]
 status: atomic
@@ -19,7 +19,7 @@ source: [[77-Archive/Legacy_20260222/Refs-Legacy/Omega3_Fats_Health_ChronicDisea
 
 **Atomics**: {{VERIFY SPAWN}}
 
-**Dataview**: `LIST FROM "33-Atomic" WHERE contains(tags, "#dt-clinic") AND contains(file.name, "Omega")`
+**Dataview**: `LIST FROM "33-Atomic" WHERE contains(tags, "dt-clinic") AND contains(file.name, "Omega")`
 
 **Next MOCs**: [[MOC_Omega_IR]] | [[MOC_Adipic_Fats]].
 **RON**: Pipeline verified.

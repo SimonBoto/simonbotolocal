@@ -1,7 +1,7 @@
 <!-- NEW_NAME: MOC-Literature-Management.md -->
 ---
 uid: 20260215144800
-tags: [#moc #literature]
+tags: [moc literature]
 status: atomic
 parent-moc: [[05-Structure/05b-MOCs/Vault_Index_20260215_059]]
 confidence: high
@@ -13,7 +13,6 @@ confidence: high
 
 **Refs Subfolder**: `LIST FROM "77-Archive/Legacy_20260222/Refs-Legacy/Refs"`
 
-**Key Topics**:
-- [[PhD-Biomarkers]] | [[Metabolomics]] | [[Clinical-Protocols]] | [[Nutrition-Risks]]
+**Key Topi[[MOC-Clinical-Protocols]]rs]] | [[MOC-Metabolomics]] | [[Clinical-Protocols]] | [[MOC-Nutrition-Risks]]
 
 **Next**: Dataview queries + atomic links.

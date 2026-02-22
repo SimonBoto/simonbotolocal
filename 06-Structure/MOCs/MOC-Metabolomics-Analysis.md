@@ -1,7 +1,7 @@
 <!-- NEW_NAME: MOC-Metabolomics-Analysis-20260215-005.md -->
 ---
 uid: 20260215135600
-tags: [#moc #dt-clinic #metabolomics #biomarkers #phd-biomarker]
+tags: [moc dt-clinic #metabolomics #biomarkers phd-biomarker]
 parent-moc: [[05-Structure/05b-MOCs/Literature]] | [[22-Dashboards/PhD_IR_MOC]]
 aliases: [MOC_DT_Metabolomics_Analysis]
 status: atomic
@@ -19,7 +19,7 @@ source: [[77-Archive/Legacy_20260222/Refs-Legacy/Metabolomics_Analysis__20260215
 
 **Atomics (Dynamic Zettels)**: {{VERIFY SPAWN}}
 
-**Dataview**: `LIST FROM "33-Atomic" WHERE contains(tags, "#dt-clinic") AND contains(file.name, "Metabolomics")`
+**Dataview**: `LIST FROM "33-Atomic" WHERE contains(tags, "dt-clinic") AND contains(file.name, "Metabolomics")`
 
 **Next MOCs**: [[MOC_Metabolomics_IR]] | [[MOC_Adipic_Metab]].
 **RON**: Pipeline: 8 strong zettels → PhD graph. VERIFY before hub.

@@ -2,7 +2,7 @@
 #atomic
 ---
 uid: 20260214141600
-tags: [#moc #protocol #metabolomics #phd #clinic]
+tags: [moc #protocol #metabolomics #phd clinic]
 status: active
 parent-moc: [[88-Mocs/Zettel_Biomarkers_MOC]]
 aliases: [Metabolomics_Protocols_MOC]
@@ -14,7 +14,7 @@ aliases: [Metabolomics_Protocols_MOC]
 
 ## Key Protocols
 - [[44-Clinic/Protocol_Clinical_IR_Preanalytics]] #plasma OA/FFA, fasting standards
-- [[44-Clinic/Protocol_MC_Patient_Flow]] #clinic workflow
+- [[44-Clinic/Protocol_MC_Patient_Flow]] clinic workflow
 - [[44-Clinic/Protocol_MC_Diet_Proposal_Update]] #intervention
 
 ## Dictionary & References

@@ -2,7 +2,7 @@
 #atomic
 ---
 uid: 20260211225303
-tags: [#moc #inbox #sprint]
+tags: [moc #inbox #sprint]
 status: active
 ---
 # Inbox_Sprint_MOC

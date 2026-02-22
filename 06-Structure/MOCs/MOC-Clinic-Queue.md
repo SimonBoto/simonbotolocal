@@ -2,11 +2,11 @@
 #atomic
 ---
 uid: 20260211220500
-tags: [#moc #clinic]
+tags: [moc clinic]
 ---
 ---
 uid: 20260211222402
-tags: [#moc #clinic #insulin-resistance]
+tags: [moc clinic insulin-resistance]
 status: active
 aliases: [Clinic_Hub]
 parent-moc: [[Dashboard_Home]]
@@ -19,7 +19,7 @@ parent-moc: [[Dashboard_Home]]
 ## Atomic Notes
 ```dataview
 LIST FROM "44-Clinic/Atomic"
-WHERE contains(tags, "#clinic") OR contains(tags, "#oa-pattern")
+WHERE contains(tags, "clinic") OR contains(tags, "oa-pattern")
 SORT file.ctime DESC
 ```
 
