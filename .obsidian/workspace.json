@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "66-Literature/66b-LitNotes/Lit_GutierrezRodelo_IR_Mechanisms_2017.md",
+                "file": "99-System/Triangle/ORGANOGRAM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lit_GutierrezRodelo_IR_Mechanisms_2017"
+              "title": "ORGANOGRAM"
             }
           }
         ]
@@ -207,8 +207,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "7bdf8ee45b57b16b",
   "lastOpenFiles": [
+    "66-Literature/66b-LitNotes/Lit_GutierrezRodelo_IR_Mechanisms_2017.md",
+    "PHASE1_EXECUTION_RUNBOOK.md",
+    "V4.0_TEMPLATE_REQUIREMENTS.md",
+    "VAULT_REORGANIZATION_PLAN_v4.0.md",
     "66-Literature/66c-TechRefs/Insulin_Signaling_TechRef_[T-001-0001].md",
     "55-MOCs/MOC-001.md",
     "SYSTEM_README_v3.0.md",
@@ -233,10 +237,6 @@
     "99-System/UID_SYSTEM_v2.0.md",
     "66-Literature/66c-TechRefs",
     "66-Literature/66a-StaticRefs",
-    "77-Archive/Legacy_20260222/Refs-Legacy/ref-template.md",
-    "77-Archive/Legacy_20260222/Refs-Legacy/Refs_Zhai_BCAA_Histidine_OA_20260216_030.md",
-    "77-Archive/Legacy_20260222/Refs-Legacy/Refs_Yousri_Steroids_RA_20260216_033.md",
-    "77-Archive/Legacy_20260222/Refs-Legacy/Refs_Yang_DietaryNutrients_Gut_20260216_060.md",
     "77-Archive/Legacy_20260222/Refs-Legacy",
     "77-Archive/Legacy_20260222/02-Atomic-Legacy",
     "77-Archive/Legacy_20260222",
