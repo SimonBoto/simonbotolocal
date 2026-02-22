@@ -54,6 +54,6 @@ Use these keywords for consistent atomic tagging:
 
 **Related:**
 - All UoC PhD atomics
-- [[PhD_IR_MOC]]
+- [[MOC-PhD-Insulin-Resistance]]
 
 *Keyword index for searchability | 2026-02-19*

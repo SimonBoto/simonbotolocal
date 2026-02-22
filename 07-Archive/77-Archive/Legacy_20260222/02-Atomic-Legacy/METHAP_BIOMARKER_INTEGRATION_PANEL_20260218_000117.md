@@ -76,6 +76,6 @@ Hashimoto's Pathophysiology
 ## Related
 - [[Adipic_Mechanism_BetaOxidation_Expanded_20260218]]
 - [[20260218_Hashimoto_VitD_Protocol]]
-- [[PhD_IR_MOC]]
+- [[MOC-PhD-Insulin-Resistance]]
 
 *Integration atomic | Created 2026-02-18*

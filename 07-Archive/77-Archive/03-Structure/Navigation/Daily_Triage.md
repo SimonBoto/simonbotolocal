@@ -84,7 +84,7 @@ parent-moc: [[03-Structure/Navigation/Start_Here]]
 ## 🔗 Quick Links
 
 ### Research
-- [[PhD_IR_MOC]] — Main research hub
+- [[MOC-PhD-Insulin-Resistance]] — Main research hub
 - [[55-MOCs/]] — All topic MOCs
 - [[66-Literature/Refs/]] — Reference library
 - [[A-Z_Index]] — Find anything

@@ -24,4 +24,4 @@ claim: "HPA axis dysregulation → chronic cortisol elev → IR via FFA mobiliza
 claim_hash: "hpa-ir-ffa-20260213"
 parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]]
 ---
-Mechanism: Stress → ACTH/CRH → cortisol → lipolysis FFA↑ → skeletal IR. GC-MS cortisol metab. [[Biomarkers_MOC]].
+Mechanism: Stress → ACTH/CRH → cortisol → lipolysis FFA↑ → skeletal IR. GC-MS cortisol metab. [[MOC-Biomarkers]].

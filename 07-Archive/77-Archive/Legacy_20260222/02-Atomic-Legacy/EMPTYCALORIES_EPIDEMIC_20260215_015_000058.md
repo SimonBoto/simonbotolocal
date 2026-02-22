@@ -11,7 +11,7 @@ source: [[66-Literature/Safe_Vitamin_Intake__20260215_002]]
 
 **Core Idea**: Empty calories epidemic causes micronutrient deficiencies despite overnutrition, fueling IR/chronic disease (Harvard).
 
-**Context/Chain**: [[33-Atomic/Metabolomics_PersonalDosing_20260215_014]] | [[Refs_Harvard_EmptyCalories_008]] | [[PhD_IR_MOC]].
+**Context/Chain**: [[33-Atomic/Metabolomics_PersonalDosing_20260215_014]] | [[Refs_Harvard_EmptyCalories_008]] | [[MOC-PhD-Insulin-Resistance]].
 
 **Sources/Data**:  + Harvard.
 

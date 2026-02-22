@@ -11,7 +11,7 @@ source: [[66-Literature/Safe_Vitamin_Intake__20260215_002]]
 
 **Core Idea**: Zero reported deaths from vitamin supplements (CRN/Poison Control 2018); safer than drugs (JAMA ADRs).
 
-**Context/Chain**: [[33-Atomic/FatSolubles_SafeHighDose_20260215_010]] | [[Refs_PoisonControl_2018_017]] | [[PhD_IR_MOC]].
+**Context/Chain**: [[33-Atomic/FatSolubles_SafeHighDose_20260215_010]] | [[Refs_PoisonControl_2018_017]] | [[MOC-PhD-Insulin-Resistance]].
 
 **Sources/Data**: JAMA/CRN/Poison reports.
 

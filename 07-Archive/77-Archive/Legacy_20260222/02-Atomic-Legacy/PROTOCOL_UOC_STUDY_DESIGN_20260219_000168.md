@@ -97,7 +97,7 @@ confidence: high
 
 ## Links
 - [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]] — Full protocol
-- [[PhD_IR_MOC]] — METHAP hub (related project)
+- [[MOC-PhD-Insulin-Resistance]] — METHAP hub (related project)
 - [[Gap_HOMA_HbA1c_Early_Detection_20260219]] — Rationale
 
 *Protocol atomic extracted from UoC application | 2026-02-19*

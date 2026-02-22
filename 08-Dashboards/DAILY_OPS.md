@@ -42,7 +42,7 @@
 | **Bot Company / AIB** | [[99-System/AIB/\|AIB HQ]] | Building | Create agent profiles |
 | **Workflow System v3.0** | [[WORKFLOW_ARCHITECTURE_v3.0\|Architecture]] | Planning | Implement 1-5 notes |
 | **Company Pages** | Shaboard :4444 | In Progress | Manual sync |
-| **Template System v2.0** | [[05-Structure/05a-Templates/\|Templates]] | ✅ Done | Use in production |
+| **Template System v2.0** | [[06-Structure/Templates/\|Templates]] | ✅ Done | Use in production |
 
 ---
 

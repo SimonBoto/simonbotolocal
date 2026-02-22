@@ -26,12 +26,12 @@ aliases: [Vault_Index, Master_Index, Start, Home]
 
 ### "I'm working on my PhD"
 → [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]] — Core protocol
-→ [[PhD_IR_MOC]] — Research navigation hub
+→ [[MOC-PhD-Insulin-Resistance]] — Research navigation hub
 
 ### "I want to explore a topic"
 → [[55-MOCs/]] — All topic MOCs (15 navigation hubs)
-→ [[Metabolic-Syndrome]] — MetS deep dive
-→ [[MOC_DT_Hashimoto_Thyroiditis_20260215_008]] — Autoimmunity
+→ [[MOC-Metabolic-Syndrome]] — MetS deep dive
+→ [[MOC-Hashimoto-Thyroiditis]] — Autoimmunity
 
 ### "I have new sources to process"
 → [[00-Inbox]] — Drop new papers here
@@ -65,10 +65,10 @@ aliases: [Vault_Index, Master_Index, Start, Home]
 **What you know, by topic.**
 
 - [[55-MOCs/MOC_INDEX]] — 🗺️ **MASTER INDEX of all MOCs** ⭐ START HERE
-- [[PhD_IR_MOC]] — Insulin resistance research
-- [[Metabolic-Syndrome]] — MetS hub
-- [[Metabolomics]] — Methods & protocols
-- [[MOC_DT_Hashimoto_Thyroiditis_20260215_008]] — Autoimmunity
+- [[MOC-PhD-Insulin-Resistance]] — Insulin resistance research
+- [[MOC-Metabolic-Syndrome]] — MetS hub
+- [[MOC-Metabolomics]] — Methods & protocols
+- [[MOC-Hashimoto-Thyroiditis]] — Autoimmunity
 - [[55-MOCs/]] — All 20 MOCs
 
 ### 3. Content (Knowledge Base)

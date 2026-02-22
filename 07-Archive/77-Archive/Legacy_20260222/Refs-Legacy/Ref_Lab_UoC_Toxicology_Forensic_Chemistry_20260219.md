@@ -64,7 +64,7 @@ Validates feasibility of proposed research.
 ## Links
 - [[PhD_Protocol_UoC_Application_EN_20260219]] — PhD application using this lab
 - [[Adipic_Mechanism_BetaOxidation_Expanded_20260218]] — Could validate adipic methods
-- [[PhD_IR_MOC]] — Parallel project hub
+- [[MOC-PhD-Insulin-Resistance]] — Parallel project hub
 
 ## Website
 https://www.uoc.gr (University main)  

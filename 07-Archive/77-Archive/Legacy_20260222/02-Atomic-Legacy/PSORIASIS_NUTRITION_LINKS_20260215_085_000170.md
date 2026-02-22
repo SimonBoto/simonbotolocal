@@ -8,4 +8,4 @@ confidence: high
 
 Autoimmune skin, metabolic links.
 
-Related: [[Autoimmunity_20260215_093]], [[Metabolic-Syndrome]]
+Related: [[Autoimmunity_20260215_093]], [[MOC-Metabolic-Syndrome]]

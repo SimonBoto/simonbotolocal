@@ -38,14 +38,14 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 ### AUTOIMMUNITY
 - [[AUTOIMMUNITY_20260215_093_000038]] — General concepts
 - [[POLY_AUTOIMMUNITY_20260215_081_000158]] — Polyautoimmunity
-- [[MOC_DT_Stress_Autoimmune_20260215_007]] — Stress-autoimmune MOC
+- [[MOC-Stress-Autoimmune]] — Stress-autoimmune MOC
 
 ---
 
 ## B
 
 ### BIOMARKERS
-- [[biomarkers-moc]] — Master biomarkers MOC
+- [[MOC-Biomarkers]] — Master biomarkers MOC
 - [[METHAP_BIOMARKER_INTEGRATION_PANEL_20260218_000117]] — METHAP panel
 
 ### BLOOD BRAIN BARRIER (BBB)
@@ -64,7 +64,7 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 - [[HDL_PROTECTIVE_THRESHOLDS_20260215_029_000084]] — HDL thresholds
 - [[LARGE_BUOYANT_LDL_SAFE_20260215_032_000099]] — LDL particle size
 - [[SMALLDENSE_LDL_RISK_20260215_028_000175]] — sdLDL risk
-- [[MOC_DT_Cholesterol_Quality_20260215_004]] — Cholesterol quality MOC
+- [[MOC-Cholesterol-Quality]] — Cholesterol quality MOC
 
 ### CLAIMS (Falsifiable)
 - [[CLAIM_EARLY_DETECTION_IMPROVES_OUTCOMES_20260219_000043]] — Early detection
@@ -72,7 +72,7 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 - [[CLAIM_HOMA_HBA1C_INADEQUATE_EARLY_IR_20260219_000044]] — HOMA/HbA1c critique
 
 ### CLINICAL PROTOCOLS
-- [[Clinical-Protocols]] — Master clinical protocols MOC
+- [[MOC-Clinical-Protocols]] — Master clinical protocols MOC
 - [[PROTOCOL_CLINICAL_IR_PREANALYTICS_20260215_021_000162]] — IR preanalytics
 - [[PROTOCOL_HIGHDOSE_VITD_HASHIMOTO_20260215_111_000163]] — Hashimoto VitD protocol
 - [[PROTOCOL_MAGNESIUM_DEFICIENCY_20260215_017_000164]] — Magnesium protocol
@@ -181,7 +181,7 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 ## H
 
 ### HASHIMOTO'S THYROIDITIS
-- [[MOC_DT_Hashimoto_Thyroiditis_20260215_008]] — Master MOC
+- [[MOC-Hashimoto-Thyroiditis]] — Master MOC
 - [[VITD_DEF_HASHIMOTO_PREVALENCE_20260215_087_000211]] — VitD prevalence
 - [[ADIPIC_HASHIMOTO_BIOMARKER_20260215_066_000006]] — Adipic marker
 - [[HASHIMOTO_STRESS_CORTISOL_20260215_055_000082]] — Stress link
@@ -195,7 +195,7 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 - [[HIDDEN_HUNGER_COVID_SEVERITY_20260215_002_000085]] — COVID severity
 - [[HIDDENHUNGER_T2D_DRIVER_20260215_018_000087]] — T2D driver
 - [[ATOMIC_HIDDENHUNGER_METS_DRIVER_20260216_070_000023]] — MetS driver
-- [[MOC_Hidden_Hunger_20260215_009]] — Master MOC
+- [[MOC-Hidden-Hunger]] — Master MOC
 
 ### HPA AXIS
 - [[HPA_AXIS_STRESS_BIOMARKER_20260215_009_000090]] — HPA biomarker
@@ -233,7 +233,7 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 ## L
 
 ### LITERATURE
-- [[Literature]] — Literature MOC
+- [[MOC-Literature-Management]] — Literature MOC
 - [[66-Literature/Refs/]] — All reference notes
 
 ### LOW CARB
@@ -249,12 +249,12 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 - [[MAGNESIUM_DEFICIENCY_CLINICAL_MEANING_20260215_033_000103]] — Clinical meaning
 
 ### METABOLOMICS
-- [[Metabolomics]] — Master MOC
+- [[MOC-Metabolomics]] — Master MOC
 - [[METABOLOMIC_MEDICINE_20260215_009_000107]] — Metabolomic medicine
 - [[METABOLOMICS_T2D_DIAGNOSIS_20260215_023_000116]] — T2D diagnosis
 - [[METABOLOMICS_HASHIMOTO_RX_20260215_062_000110]] — Hashimoto treatment
 - [[METABOLOMICS_IBD_PREDICTION_20260215_110_000112]] — IBD prediction
-- [[metabolomics-protocols-moc]] — Protocols MOC
+- [[MOC-Metabolomics-Protocols]] — Protocols MOC
 
 ### METHODS
 - [[METHOD_CASE_CONTROL_DESIGN_IR_METABOLOMICS_20260219_000118]] — Case-control design
@@ -291,8 +291,8 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 - [[NAFLD_STAGES_20260215_015_000140]] — Staging
 
 ### NUTRITION
-- [[Nutrition]] — Master nutrition MOC
-- [[Nutrition-Risks]] — Nutrition risks MOC
+- [[MOC-Nutrition]] — Master nutrition MOC
+- [[MOC-Nutrition-Risks]] — Nutrition risks MOC
 - [[PERSONALIZED_NUTRITION_PREVENT_20260215_008_000155]] — Personalized nutrition
 
 ---
@@ -308,7 +308,7 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 - [[OMEGA3_ANTIINFLAM_20260215_047_000144]] — Anti-inflammatory
 - [[OMEGA3_OMEGA6_RATIO_20260215_044_000145]] — Ratio importance
 - [[EXCESSOMEGA6_INFLAM_20260215_046_000062]] — Excess O6
-- [[MOC_DT_Omega3_Fats_20260215_006]] — Omega-3 MOC
+- [[MOC-Omega3-Fats]] — Omega-3 MOC
 
 ### ONTOLOGY
 - [[03-Structure/Ontology/]] — Concept hierarchies (building)
@@ -331,8 +331,8 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 
 ### PHD (Your Research)
 - [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]] — Main protocol
-- [[PhD_IR_MOC]] — IR research MOC
-- [[PhD-Biomarkers]] — Biomarkers MOC
+- [[MOC-PhD-Insulin-Resistance]] — IR research MOC
+- [[MOC-PhD-Biomarkers]] — Biomarkers MOC
 - [[PHD_KANBAN_PROGRESS_DASHBOARD_20260215_105_000157]] — Progress dashboard
 
 ### PROCESS
@@ -379,7 +379,7 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 ### STRESS
 - [[SELYE_GAS_AUTOIMMUNE_20260215_051_000174]] — Selye GAS
 - [[STRESS_CORTISOL_T2D_RISK_20260215_021_000177]] — Cortisol-T2D
-- [[MOC_DT_Stress_Autoimmune_20260215_007]] — Stress MOC
+- [[MOC-Stress-Autoimmune]] — Stress MOC
 
 ### SYSTEMS THINKING
 - [[THE_SCHOLARS_OF_SYSTEMS_THINKING_20260215_022_000186]] — Systems scholars
@@ -389,7 +389,7 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 ## T
 
 ### T2D (Type 2 Diabetes)
-- [[MOC_DT_Diabetes_T2D_20260215_003]] — Master T2D MOC
+- [[MOC-Diabetes-T2D]] — Master T2D MOC
 - [[T2D_EPIDEMIC_IR_CENTRAL_20260215_017_000179]] — IR centrality
 - [[VITD_MICRONUT_T2D_GAP_20260215_025_000215]] — Research gaps
 
@@ -450,7 +450,7 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 - [[COBALAMIN_VITAMIN_B12_20260215_078_000046]] — Cobalamin
 
 ### VITAMIN D
-- [[MOC_DT_SafeVit_20260215_002]] — Master VitD MOC
+- [[MOC-Vitamin-Safety]] — Master VitD MOC
 - [[VITAMIN_D3_CHOLECALCIFEROL_20260215_032_000197]] — D3 form
 - [[VITAMIN_D_SYNTHESIS_20260215_034_000203]] — Synthesis
 - [[VITAMIN_D_SUN_OXIDATION_20260215_023_000201]] — Sun oxidation

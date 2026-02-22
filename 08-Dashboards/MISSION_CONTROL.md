@@ -82,7 +82,7 @@ update-frequency: every-session
 | Time | Action | Status | Your Review |
 |------|--------|--------|-------------|
 | 16:30 | Template standardization complete | ✅ Done | □ Reviewed |
-| 16:00 | 04-Reference merged into 66-Literature | ✅ Done | □ Reviewed |
+| 16:00 | 04-Reference merged into 02-Literature | ✅ Done | □ Reviewed |
 | 15:30 | 03-Structure layer complete (Ontology) | ✅ Done | □ Reviewed |
 | 14:00 | Obsidian Sync connected | ✅ Done | □ Reviewed |
 | 13:20 | Gateway stabilized (nuclear reset) | ✅ Done | □ Reviewed |
@@ -123,7 +123,7 @@ update-frequency: every-session
 ### I Need To...
 
 **Create:**
-- [New daily note →](obsidian://open?vault=TheOptimizedBrain&file=11-Templates/Template_DailyNote_v2.0)
+- [New daily note →](obsidian://open?vault=TheOptimizedBrain&file=06-Structure/Templates/Template_DailyNote_v2.0)
 - [Quick capture →](obsidian://open?vault=TheOptimizedBrain&file=00-Inbox)
 
 **Review:**
@@ -134,7 +134,7 @@ update-frequency: every-session
 **Execute:**
 - [Daily Triage →](obsidian://open?vault=TheOptimizedBrain&file=03-Structure/Navigation/Daily_Triage)
 - [Templates →](obsidian://open?vault=TheOptimizedBrain&file=11-Templates)
-- [MOCs →](obsidian://open?vault=TheOptimizedBrain&file=55-MOCs)
+- [MOCs →](obsidian://open?vault=TheOptimizedBrain&file=06-Structure/MOCs)
 
 ### RON Commands (Telegram)
 
@@ -160,8 +160,8 @@ update-frequency: every-session
 
 **Files:**
 - [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]] — Core
-- [[PhD_IR_MOC]] — Navigation
-- [[55-MOCs/PhD-Biomarkers]] — Biomarkers sub-MOC
+- [[MOC-PhD-Insulin-Resistance]] — Navigation
+- [[06-Structure/MOCs/PhD-Biomarkers]] — Biomarkers sub-MOC
 
 ### IRB Protocol (P0)
 **Status:** Section 1 pending  
@@ -209,7 +209,7 @@ This dashboard auto-updates from:
 | 16:00 | 04-Reference merged | Cleanup |
 | 16:30 | Templates standardized (13) | Feature |
 | 16:45 | 03-Structure Ontology layer complete | Feature |
-| 16:50 | 04-Reference merged into 66-Literature | Cleanup |
+| 16:50 | 04-Reference merged into 02-Literature | Cleanup |
 | 17:00 | MISSION_CONTROL dashboard created | Feature |
 | **17:04** | **Dashboard heartbeat active** | **System** |
 | 16:45 | Mission Control dashboard created | Feature |
@@ -278,7 +278,7 @@ This dashboard auto-updates from:
 - [ ] Backup verified
 
 **Sprint (Feb 20–28):**
-- [ ] 10 GOLD refs → 66-Literature
+- [ ] 10 GOLD refs → 02-Literature
 - [ ] IRB section 1 drafted
 - [ ] miR-21 notes extracted
 

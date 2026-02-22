@@ -12,7 +12,7 @@ source: [[66-Literature/Fat_LDL_Size_20260215_006]]
 
 **Core Idea**: High fat quality (SFA/MUFA > omega-6 PUFA) promotes large buoyant LDL particles, reducing CVD risk vs small dense LDL from imbalanced PUFA.
 
-**Context/Chain**: [[Omega3_AntiInflam_20260215_047]] | [[Omega3_Omega6_Ratio_20260215_044]] | [[PhD_IR_MOC]].
+**Context/Chain**: [[Omega3_AntiInflam_20260215_047]] | [[Omega3_Omega6_Ratio_20260215_044]] | [[MOC-PhD-Insulin-Resistance]].
 
 **Sources/Data**: [[PMC8348839]]; SFA spares small LDL vs PUFA.
 

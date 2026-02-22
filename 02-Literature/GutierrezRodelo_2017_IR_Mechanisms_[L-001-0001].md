@@ -10,7 +10,7 @@ pmcid: PMC5587177
 tier: 1 (Review)
 relevance: High — Core mechanisms of IR
 status: processed
-parent-moc: [[55-MOCs/Insulin_Resistance]]
+parent-moc: [[06-Structure/MOCs/MOC-Insulin-Signaling]]
 ---
 
 # Lit: Gutiérrez-Rodelo 2017 — Molecular Mechanisms of IR

@@ -389,10 +389,10 @@ HPA AXIS DYSREGULATION
 
 ## 🔗 Related Navigation
 
-- [[PhD_IR_MOC]] — Main research hub
+- [[MOC-PhD-Insulin-Resistance]] — Main research hub
 - [[Biomarkers_Taxonomy]] — Biomarker classification
-- [[MOC_DT_Diabetes_T2D_20260215_003]] — T2D MOC
-- [[Metabolic-Syndrome]] — MetS hub
+- [[MOC-Diabetes-T2D]] — T2D MOC
+- [[MOC-Metabolic-Syndrome]] — MetS hub
 - [[55-MOCs/]] — All topic MOCs
 
 ---

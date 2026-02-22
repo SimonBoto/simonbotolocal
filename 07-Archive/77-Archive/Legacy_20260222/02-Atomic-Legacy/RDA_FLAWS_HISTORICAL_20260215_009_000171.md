@@ -11,7 +11,7 @@ source: [[66-Literature/Safe_Vitamin_Intake__20260215_002]]
 
 **Core Idea**: RDA standards evolved as flawed population averages (Leitch 1942), ignoring individual metabolomics needs for VitD/IR biomarkers.
 
-**Context/Chain**: [[33-Atomic/Metabolomics_PersonalDosing_20260215_014]] | [[Refs_Leitch_RDA_1942_009]] | [[PhD_IR_MOC]].
+**Context/Chain**: [[33-Atomic/Metabolomics_PersonalDosing_20260215_014]] | [[Refs_Leitch_RDA_1942_009]] | [[MOC-PhD-Insulin-Resistance]].
 
 **Sources/Data**:  + RDA history refs.
 

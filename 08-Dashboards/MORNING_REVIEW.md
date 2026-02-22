@@ -49,7 +49,7 @@
 | 3 | Refs_021 to Refs_030 | 🟡 Pending | [ ] Review batch |
 
 **SILVER Total:** 30 refs upgraded  
-**Location:** `66-Literature/Refs/` (v2.0 YAML)
+**Location:** `02-Literature/` (v2.0 YAML)
 
 ---
 
@@ -106,7 +106,7 @@ Quality check: Spot-check only
 
 **Review in Obsidian:**
 - [[02-Atomic]] — New atomics (sorted by recent)
-- [[66-Literature/Refs]] — Upgraded refs
+- [[02-Literature]] — Upgraded refs
 - [[Git Log]] — `git log --since="00:00" --oneline`
 
 **Review in Terminal:**

@@ -132,7 +132,7 @@ parent-moc: [[03-Structure/Navigation/Start_Here]]
 
 **Autoantibodies**
 - **Anti-TPO** (Hashimoto's)
-  - [[MOC_DT_Hashimoto_Thyroiditis_20260215_008]]
+  - [[MOC-Hashimoto-Thyroiditis]]
   
 - **Anti-CCP** (RA)
   - [[Refs_Firestein_RA_Immunopath_066]]
@@ -310,9 +310,9 @@ parent-moc: [[03-Structure/Navigation/Start_Here]]
 
 ## 🔍 Related Navigation
 
-- [[PhD-Biomarkers]] — Research-specific biomarker MOC
+- [[MOC-PhD-Biomarkers]] — Research-specific biomarker MOC
 - [[METHAP_BIOMARKER_INTEGRATION_PANEL_20260218_000117]] — Clinical trial panel
-- [[biomarkers-moc]] — General biomarkers MOC
+- [[MOC-Biomarkers]] — General biomarkers MOC
 - [[A-Z_Index]] — Find specific biomarkers
 - [[55-MOCs/]] — All topic MOCs
 

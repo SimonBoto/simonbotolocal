@@ -150,7 +150,7 @@ git diff HEAD~1 -- '*.md' | head -100
 ### Bulk Operations
 Want me to process multiple files with same instruction?
 ```
-BULK: All files in 66-Literature/Refs/
+BULK: All files in 02-Literature/
 ACTION: ++Add `extraction-date: 2026-02-20` to YAML++
 PRIORITY: [P1]
 ```
@@ -208,8 +208,8 @@ Fix the template
 
 **✅ Structured Feedback:**
 ```
-[BULK] All 66-Literature/Refs/ files
-++parent-moc: [[55-MOCs/Literature]]++ (if missing)
+[BULK] All 02-Literature/ files
+++parent-moc: [[06-Structure/MOCs/MOC-Literature-Management]]++ (if missing)
 [P1] — Do in batches of 25
 ```
 

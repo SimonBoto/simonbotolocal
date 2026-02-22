@@ -11,7 +11,7 @@ source: [[66-Literature/Safe_Vitamin_Intake__20260215_002]]
 
 **Core Idea**: Fat-soluble vitamins (A/D/E/K/Q10/CoQ10) safe at high doses with fats; no reported toxicity deaths (CRN data).
 
-**Context/Chain**: [[33-Atomic/NoSuppToxicity_Deaths_20260215_012]] | [[Refs_CRN_VitSafety_011]] | [[PhD_IR_MOC]].
+**Context/Chain**: [[33-Atomic/NoSuppToxicity_Deaths_20260215_012]] | [[Refs_CRN_VitSafety_011]] | [[MOC-PhD-Insulin-Resistance]].
 
 **Sources/Data**:  clinic + CRN.
 

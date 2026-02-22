@@ -69,7 +69,7 @@ Last updated: 2026-02-20
 - **Tools Dashboard** — MCP status, web search, file I/O
 
 ### Workflows & Templates
-- **[[11-Templates/TEMPLATE_INDEX]]** — Which template when
+- **[[06-Structure/Templates/TEMPLATE_INDEX]]** — Which template when
 - **[[RON-Workflow-System]]** — Detailed extraction workflows
 
 ---
@@ -79,9 +79,9 @@ Last updated: 2026-02-20
 **Vault:**
 - [[00-Inbox]] — Drop new sources here
 - [[02-Atomic]] — Main atomic notes
-- [[66-Literature/Refs]] — Reference notes
-- [[55-MOCs/MOC_INDEX]] — 🗺️ **Master MOC Index** ⭐
-- [[55-MOCs/PhD_IR_MOC]] — PhD navigation hub
+- [[07-Archive/77-Archive/Refs-Legacy]] — Reference notes
+- [[06-Structure/MOCs/MOC-INDEX]] — 🗺️ **Master MOC Index** ⭐
+- [[06-Structure/MOCs/MOC-PhD-Insulin-Resistance]] — PhD navigation hub
 
 **External:**
 - Dashboard: http://localhost:4444

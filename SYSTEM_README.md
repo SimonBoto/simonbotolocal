@@ -1,7 +1,8 @@
-# TheOptimizedBrain — System Architecture v3.0
+# TheOptimizedBrain — System Architecture v4.1
 
 **Date:** 2026-02-22  
-**Status:** ACTIVE — Clean slate reset complete
+**Status:** ACTIVE — v4.1 migration complete  
+**Philosophy:** Zettelkasten with conscious/subconscious workflow
 
 ---
 
@@ -9,114 +10,135 @@
 
 > "A Zettelkasten is not a filing system. It is a communication partner capable of surprising you with ideas you forgot you had." — Niklas Luhmann
 
-This vault implements a **three-layer knowledge architecture**:
+This vault implements a **living knowledge architecture**:
 
-1. **Zettels** — Atomic knowledge units (50-200 words)
-2. **TechRefs** — Living technical references (evolving synthesis)
-3. **MOCs** — Maps of content (navigation hubs)
+1. **Zettels** — Atomic units (50-200 words) with quality gradient (conscious → subconscious)
+2. **Synthesis** — Evolving documents aggregating zettels
+3. **MOCs** — Maps of content for navigation
 
 ---
 
-## Folder Structure
+## v4.1 Folder Structure (Current)
 
 ```
 TheOptimizedBrain/
 │
-├── 00-Inbox/                    ← Fleeting notes (process & delete)
+├── 00-Inbox/                    ← Capture & fleeting notes
+│   ├── Fleeting/               ← Quick captures (process 24-48h)
+│   └── Future/                 ← Scheduled/deferred
 │
-├── 01-Projects/                 ← Writing projects (ephemeral)
+├── 01-References/               ← Source management
+│   ├── Hub/                    ← Bibliographic cards
+│   ├── Zotero/                 ← Zotero sync
+│   ├── Other/                  ← Non-academic sources
+│   └── Assets/                 ← PDFs, images, data files
+│       ├── PDFs/
+│       ├── Images/
+│       └── Data/
 │
-├── 03-Zettels/03a-Conscious/                  ← ATOMIC KNOWLEDGE (permanent)
-│   └── Insulin_Receptor_[Z-001-0001].md
+├── 02-Literature/               ← Literature notes (was 66b-LitNotes)
+│   └── GutierrezRodelo_2017_[L-001-0001].md
 │
-├── 05-Structure/05b-MOCs/                     ← NAVIGATION HUBS
-│   └── MOC-001.md (Insulin Signaling)
+├── 03-Zettels/                  ← THE CORE — Atomic knowledge
+│   ├── Conscious/              ← Working zettels (reviewable)
+│   │   └── Insulin_Receptor_[Z-001-0001].md (17 total)
+│   └── Subconscious/           ← Permanent zettels (never modify)
 │
-├── 66-Literature/
-│   ├── 66a-StaticRefs/          ← Bibliographic cards (static)
-│   ├── 66b-LitNotes/            ← Source processing (extract & archive)
-│   └── 66c-TechRefs/            ← LIVING REFERENCES (evolving)
-│       └── Insulin_Signaling_TechRef_[T-001-0001].md
+├── 04-Synthesis/                ← Living documents
+│   └── Insulin_Signaling_[S-001-0001].md
 │
-├── 05-Structure/05a-Templates/                ← All templates
+├── 05-Projects/                 ← Active work (top priority)
+│   ├── AppProduction/          ← Triangle company
+│   └── PhD/                    ← METHAP study
 │
-├── 77-Archive/                  ← Legacy & deprecated
-│   └── Legacy_20260222/
-│       ├── 02-Atomic-Legacy/    ← Old atomics (archived)
-│       └── Refs-Legacy/         ← Old refs (archived)
+├── 06-Structure/                ← Navigation & organization
+│   ├── Indexes/                ← Master indexes
+│   ├── MOCs/                   ← 20 Maps of Content
+│   │   ├── MOC-Clinical-Protocols.md ✅ (real content)
+│   │   ├── MOC-Biomarkers.md 🏗️ (stub)
+│   │   └── ... (18 more)
+│   └── Templates/              ← 18 templates
+│       └── Template_MOC_v1.0.md
 │
-└── 99-System/                   ← Documentation
-    └── UID_SYSTEM_v2.0.md       ← UID rules & domain codes
+├── 07-Archive/                  ← Legacy & deprecated
+│   └── 77-Archive/
+│       ├── 02-Atomic-Legacy/   ← 221 pre-v4.0 files
+│       ├── Refs-Legacy/        ← 128 old references
+│       ├── PHI_Quarantine/     ← Secure patient data
+│       ├── Books/
+│       └── Zotero/
+│
+├── 08-Dashboards/               ← Operations & tracking
+│   ├── 00-COMMAND.md
+│   ├── 01-QUEUE.md
+│   ├── 02-HANDOFF.md
+│   ├── 03-LOG.md
+│   └── MISSION_CONTROL.md
+│
+├── 09-System/                   ← Documentation
+│   ├── Architecture/
+│   ├── Logs/                   ← Session logs, migration docs
+│   ├── Migration/              ← v4.0/4.1 runbooks
+│   ├── Philosophy/             ← Zettelkasten theory
+│   └── Triangle/               ← Company docs
+│
+└── 10-Daily/                    ← Date-stamped logs
+    └── 2026/
+        └── 2026-02-22.md
 ```
 
 ---
 
 ## The Three Layers
 
-### Layer 1: Zettels (03-Zettels/03a-Conscious/)
+### Layer 1: Zettels (03-Zettels/)
 
 **What:** Atomic units of knowledge  
 **Size:** 50-200 words  
-**Lifespan:** Permanent  
+**Lifespan:** Permanent
+
+**Two states:**
+- **Conscious/** — Working, reviewable, may have errors
+- **Subconscious/** — Permanent, "ground truth," never modify
+
 **Naming:** `Descriptive_Title_[Z-{DDD}-{SSSS}].md`
 
-**Rules:**
-- One idea per zettel
-- 2-5 links to other zettels (optimal: 3)
-- Must have `parent-moc:` in YAML
-- Written "as if for print"
-
-**Example:**
-```markdown
+**YAML Standard:**
+```yaml
 ---
 uid: Z-001-0001
 type: zettel
 title: Insulin Receptor Structure
 aliases: [Z-001-0001]
 domain: 001
-tags: [zettel, insulin, receptor]
-parent-moc: [[MOC-001]]
+tags: [zettel, insulin, receptor, conscious]
+parent-moc: [[MOC-Insulin-Signaling]]
+status: conscious  # or subconscious
 ---
-
-# Insulin Receptor Structure
-
-The insulin receptor is a tetrameric tyrosine kinase...
-
-## Links
-- [[IRS_Protein_Recruitment_[Z-001-0005]]]
-- [[INSR_Autophosphorylation_[Z-001-0003]]]
 ```
 
----
+### Layer 2: Synthesis (04-Synthesis/)
 
-### Layer 2: TechRefs (04-Synthesis/)
-
-**What:** Living technical references  
+**What:** Living documents aggregating zettels  
 **Size:** 500-1500 words  
-**Lifespan:** Evolving (updated as research progresses)  
-**Naming:** `{Topic}_TechRef_[T-{DDD}-{SSSS}].md`
+**Lifespan:** Evolving
+
+**Naming:** `Topic_[S-{DDD}-{SSSS}].md`
 
 **Purpose:**
-- Start as Zotero skeleton
-- Grow with literature notes from multiple sources
-- Catalog extracted zettels
-- Track "source evolution" (how understanding changed)
+- Aggregate zettels by topic
+- Track source evolution
 - Link to clinical applications
 
-**Example:** See `Insulin_Signaling_TechRef_[T-001-0001].md`
-
----
-
-### Layer 3: MOCs (05-Structure/05b-MOCs/)
+### Layer 3: MOCs (06-Structure/MOCs/)
 
 **What:** Maps of content — navigation hubs  
-**Naming:** `MOC-{DDD}.md`
+**Naming:** `MOC-Topic.md`
 
-**Purpose:**
-- Entry points for domains
-- Catalog zettels in the domain
-- Show relationships
-- Link to TechRefs
+**Three types:**
+- ✅ **Real** — Has actual content (MOC-Clinical-Protocols)
+- 🏗️ **Stub** — Planned, empty now (MOC-Biomarkers)
+- 📦 **Archived** — Legacy content to migrate
 
 ---
 
@@ -125,42 +147,42 @@ The insulin receptor is a tetrameric tyrosine kinase...
 ### New Source → Zettel
 
 ```
-Source (PubMed)
+Source (PubMed/Telegram)
     ↓
-66a-StaticRefs/ (bibliographic hub)
+00-Inbox/Fleeting/ (capture)
     ↓
-66b-LitNotes/ (process & extract)
+01-References/Hub/ (bibliographic)
     ↓
-03-Zettels/03a-Conscious/ (atomic zettels created)
+02-Literature/ (process & extract)
     ↓
-66c-TechRefs/ (synthesis updated)
+03-Zettels/Conscious/ (atomic zettel, status: conscious)
     ↓
-05-Structure/05b-MOCs/ (navigation updated)
+[30 days + review]
+    ↓
+03-Zettels/Subconscious/ (promoted, status: subconscious)
+    ↓
+04-Synthesis/ (aggregated knowledge)
+    ↓
+06-Structure/MOCs/ (navigation)
 ```
-
-### Daily Operation
-
-1. **Capture** → 00-Inbox/ (fleeting)
-2. **Process** → 66b-LitNotes/ (literature note)
-3. **Extract** → 03-Zettels/03a-Conscious/ (zettels)
-4. **Synthesize** → 66c-TechRefs/ (living reference)
-5. **Navigate** → 05-Structure/05b-MOCs/ (find & connect)
 
 ---
 
-## UID System
+## UID System v2.0
 
 **Format:** `{T}-{DDD}-{SSSS}`
 
 | Component | Meaning | Example |
 |-----------|---------|---------|
-| T | Type | Z=Zettel, T=TechRef, L=LitNote |
-| DDD | Domain | 001=Insulin, 101=Adipic Acid |
-| SSSS | Sequence | 0001, 0002, ... |
+| **T** | Type | Z=Zettel, S=Synthesis, L=LitNote, R=Reference |
+| **DDD** | Domain | 001=Insulin, 101=Adipic Acid |
+| **SSSS** | Sequence | 0001, 0002, ... |
+
+**Domains defined:**
+- 001: Insulin Signaling
+- 01-10: Folder structure (00=Inbox, 01=References, etc.)
 
 **Full UID:** `Z-001-0001` = Zettel, Domain 001 (Insulin), #1
-
-**Domains:** See `99-System/UID_SYSTEM_v2.0.md`
 
 ---
 
@@ -169,52 +191,70 @@ Source (PubMed)
 | Type | Pattern | Example |
 |------|---------|---------|
 | Zettel | `{Title}_[Z-{DDD}-{SSSS}].md` | `Insulin_Receptor_[Z-001-0001].md` |
-| TechRef | `{Topic}_TechRef_[T-{DDD}-{SSSS}].md` | `Insulin_Signaling_TechRef_[T-001-0001].md` |
-| LitNote | `{Author}{Year}_{Topic}_[L-{DDD}-{SSSS}].md` | `GutierrezRodelo2017_IR_[L-001-0001].md` |
-| MOC | `MOC-{DDD}.md` | `MOC-001.md` |
+| Synthesis | `{Topic}_[S-{DDD}-{SSSS}].md` | `Insulin_Signaling_[S-001-0001].md` |
+| LitNote | `{Author}_{Year}_{Topic}_[L-{DDD}-{SSSS}].md` | `GutierrezRodelo_2017_IR_[L-001-0001].md` |
+| MOC | `MOC-{Topic}.md` | `MOC-Clinical-Protocols.md` |
 
 ---
 
-## Legacy Archive
+## Migration History
 
-**Previous system archived:** `77-Archive/Legacy_20260222/`
+### v3.0 → v4.0 (2026-02-22)
+- 61 files migrated
+- Sequential 00-09 structure
+- Conscious/subconscious workflow
 
-Contents:
-- `02-Atomic-Legacy/` — 221 old atomics (composite notes)
-- `Refs-Legacy/` — 128 old references
+### v4.0 → v4.1 (User-refined)
+- Simplified subfolder names (removed 01a/01b/01c prefixes)
+- Swapped 05-Projects and 06-Structure
+- Added 00-Inbox/Fleeting/Future
+- Renumbered dashboards to 08-
 
-**Nothing is lost.** Git preserves all history. But we start fresh with intention.
+**Legacy archived:** `07-Archive/77-Archive/`
 
 ---
 
 ## Current State (2026-02-22)
 
-| Component | Count | Status |
-|-----------|-------|--------|
-| Zettels | 17 | ✅ Active (insulin cascade) |
-| TechRefs | 0 | 🟡 Ready to create |
-| LitNotes | 1 | ✅ Active |
-| MOCs | 1 | ✅ Active |
-| Domains | 1 | 001 (Insulin) defined |
-
----
-
-## Next Steps
-
-1. Create first TechRef (`Insulin_Signaling_TechRef_[T-001-0001].md`)
-2. Define more domain codes (Adipic=101, VitD=110, etc.)
-3. Extract zettels from next paper
-4. Build out MOC-001 with all 17 zettels
+| Component | Count | Location | Status |
+|-----------|-------|----------|--------|
+| **Zettels** | 17 | 03-Zettels/Conscious/ | ✅ Active |
+| **MOCs** | 20 | 06-Structure/MOCs/ | ✅ 1 real, 19 stubs/archived |
+| **Synthesis** | 1 | 04-Synthesis/ | ✅ Active |
+| **LitNotes** | 1 | 02-Literature/ | ✅ Active |
+| **Templates** | 18 | 06-Structure/Templates/ | ✅ Ready |
+| **Projects** | 2 | 05-Projects/ | ✅ Active |
 
 ---
 
 ## Key Documents
 
-- `99-System/UID_SYSTEM_v2.0.md` — UID rules & domain registry
-- `05-Structure/05a-Templates/Template_Zettel_v2.0.md` — Zettel template
-- `99-System/Philosophy/ZETTELKASTEN_PHILOSOPHY.md` — Philosophical foundations
-- `ZETTEL_ARCHITECTURE_DESIGN.md` — Detailed architecture
+| Document | Location | Purpose |
+|----------|----------|---------|
+| UID rules | `09-System/UID_SYSTEM_v2.0.md` | Domain codes |
+| MOC template | `06-Structure/Templates/Template_MOC_v1.0.md` | Standard structure |
+| Philosophy | `09-System/Philosophy/ZETTELKASTEN_PHILOSOPHY.md` | Theory |
+| Assessment | `09-System/CEO_STRATEGIC_ASSESSMENT_20260222.md` | Strategic plan |
 
 ---
 
-*System v3.0 — Clean slate, intentional architecture*
+## Next Steps (Production Sprint)
+
+1. **Week 1:** Daily zettel creation (insulin → adipic acid)
+2. **Week 2:** 10 GOLD refs extraction (Triangle P0)
+3. **Week 3:** IRB Section 1 draft (PhD P0)
+4. **Week 4:** First subconscious promotion review
+
+---
+
+## Contact
+
+**CEO:** Simos  
+**AI-BOSS:** RON  
+**Workforce:** Triangle Agent Fleet  
+**Dashboard:** localhost:4444  
+**Vault:** Obsidian + Git
+
+---
+
+*System v4.1 — User-refined, production-ready, mission-aligned*
