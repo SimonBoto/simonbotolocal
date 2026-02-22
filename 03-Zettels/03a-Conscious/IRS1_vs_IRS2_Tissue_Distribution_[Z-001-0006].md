@@ -1,6 +1,7 @@
 ---
 uid: 202602221006
-type: zettel-cont
+type: zettel
+status: conscious
 title: IRS-1 vs IRS-2 Tissue Distribution
 aliases: [Z_IRS1_IRS2_Comparison]
 tags: [zettel, insulin, IRS, tissue, comparison, distribution]

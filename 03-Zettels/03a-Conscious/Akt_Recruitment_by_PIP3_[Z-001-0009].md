@@ -1,6 +1,7 @@
 ---
 uid: 202602221009
-type: zettel-mech
+type: zettel
+status: conscious
 title: Akt Recruitment by PIP3
 aliases: [Z_Akt_Recruitment, Z_PIP3_Akt]
 tags: [zettel, mechanism, Akt, PIP3, membrane, recruitment]

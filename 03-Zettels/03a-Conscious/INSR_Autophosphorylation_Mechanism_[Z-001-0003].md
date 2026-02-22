@@ -1,6 +1,7 @@
 ---
 uid: 202602221003
-type: zettel-mech
+type: zettel
+status: conscious
 title: INSR Autophosphorylation Mechanism
 aliases: [Z_INSR_Autophosphorylation, Z_INSR_Activation]
 tags: [zettel, mechanism, insulin, phosphorylation, activation, kinase]

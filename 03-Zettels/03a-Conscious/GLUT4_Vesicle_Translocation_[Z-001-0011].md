@@ -1,6 +1,7 @@
 ---
 uid: 202602221011
-type: zettel-mech
+type: zettel
+status: conscious
 title: GLUT4 Vesicle Translocation
 aliases: [Z_GLUT4, Z_GLUT4_Translocation]
 tags: [zettel, mechanism, GLUT4, glucose, transport, vesicle]

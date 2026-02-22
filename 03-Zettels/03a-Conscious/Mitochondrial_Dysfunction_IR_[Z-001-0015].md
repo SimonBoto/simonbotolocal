@@ -1,6 +1,7 @@
 ---
 uid: 202602221015
-type: zettel-mech
+type: zettel
+status: conscious
 title: Mitochondrial Dysfunction and Insulin Resistance
 aliases: [Z_Mitochondrial_Dysfunction, Z_Mito_IR]
 tags: [zettel, mechanism, mitochondria, dysfunction, oxidative, IR]

@@ -1,6 +1,7 @@
 ---
 uid: 202602221002
 type: zettel
+status: conscious
 title: Insulin Hormone Structure
 aliases: [Z_Insulin, Z_Insulin_Peptide]
 tags: [zettel, insulin, hormone, peptide, structure]

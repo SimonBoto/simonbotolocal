@@ -1,6 +1,7 @@
 ---
 uid: 202602221004
 type: zettel
+status: conscious
 title: INSR Mutations and Donohue Syndrome
 aliases: [Z_INSR_Mutations, Z_Donohue_Syndrome]
 tags: [zettel, insulin, receptor, mutation, disease, leprechaunism]

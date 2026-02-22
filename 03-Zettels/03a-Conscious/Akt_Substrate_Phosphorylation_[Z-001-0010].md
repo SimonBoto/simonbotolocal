@@ -1,6 +1,7 @@
 ---
 uid: 202602221010
-type: zettel-mech
+type: zettel
+status: conscious
 title: Akt Substrate Phosphorylation
 aliases: [Z_Akt_Substrates, Z_Akt_Phosphorylation]
 tags: [zettel, mechanism, Akt, substrate, phosphorylation, effector]

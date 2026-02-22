@@ -1,6 +1,7 @@
 ---
 uid: 202602221007
-type: zettel-mech
+type: zettel
+status: conscious
 title: PI3K Activation Mechanism
 aliases: [Z_PI3K, Z_PI3K_Activation]
 tags: [zettel, mechanism, PI3K, lipid, kinase, PIP3]

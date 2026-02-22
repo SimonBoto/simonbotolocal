@@ -1,6 +1,7 @@
 ---
 uid: 202602221001
 type: zettel
+status: conscious
 title: Insulin Receptor Structure
 aliases: [Z_INSR, Z_Insulin_Receptor]
 tags: [zettel, insulin, receptor, structure, membrane, tyrosine-kinase]

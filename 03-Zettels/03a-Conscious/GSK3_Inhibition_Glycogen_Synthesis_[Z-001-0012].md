@@ -1,6 +1,7 @@
 ---
 uid: 202602221012
-type: zettel-mech
+type: zettel
+status: conscious
 title: GSK3 Inhibition and Glycogen Synthesis
 aliases: [Z_GSK3, Z_Glycogen_Synthesis]
 tags: [zettel, mechanism, GSK3, glycogen, liver, insulin]

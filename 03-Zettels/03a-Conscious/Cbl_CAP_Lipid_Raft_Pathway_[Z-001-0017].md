@@ -1,6 +1,7 @@
 ---
 uid: 202602221017
-type: zettel-mech
+type: zettel
+status: conscious
 title: Cbl-CAP Pathway and Lipid Raft Signaling
 aliases: [Z_Cbl_CAP, Z_Lipid_Raft, Z_Alternative_Pathway]
 tags: [zettel, mechanism, Cbl, CAP, caveolin, alternative]

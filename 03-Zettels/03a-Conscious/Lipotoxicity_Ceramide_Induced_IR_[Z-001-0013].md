@@ -1,6 +1,7 @@
 ---
 uid: 202602221013
-type: zettel-mech
+type: zettel
+status: conscious
 title: Lipotoxicity and Ceramide-Induced IR
 aliases: [Z_Lipotoxicity, Z_Ceramide_IR]
 tags: [zettel, mechanism, lipotoxicity, ceramide, fatty-acids, IR]

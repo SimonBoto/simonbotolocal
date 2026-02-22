@@ -1,6 +1,7 @@
 ---
 uid: 202602221016
-type: zettel-mech
+type: zettel
+status: conscious
 title: MAPK Pathway for Mitogenic Signaling
 aliases: [Z_MAPK, Z_Ras_MAPK, Z_Mitogenic_Pathway]
 tags: [zettel, mechanism, MAPK, Ras, mitogenic, growth]

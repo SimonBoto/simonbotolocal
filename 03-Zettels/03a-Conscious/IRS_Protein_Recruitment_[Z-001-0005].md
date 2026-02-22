@@ -1,6 +1,7 @@
 ---
 uid: 202602221005
 type: zettel
+status: conscious
 title: IRS Protein Recruitment
 aliases: [Z_IRS, Z_IRS_Recruitment]
 tags: [zettel, insulin, IRS, adapter, PI3K, signaling]

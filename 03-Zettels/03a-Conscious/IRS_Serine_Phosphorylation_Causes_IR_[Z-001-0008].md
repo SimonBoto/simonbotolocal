@@ -1,6 +1,7 @@
 ---
 uid: 202602221008
-type: zettel-claim
+type: zettel
+status: conscious
 title: IRS Serine Phosphorylation Causes Insulin Resistance
 aliases: [Z_CLAIM_IRS_SerinePhos_IR]
 tags: [zettel, claim, insulin-resistance, mechanism, serine, inflammation]

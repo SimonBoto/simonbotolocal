@@ -1,6 +1,7 @@
 ---
 uid: 202602221014
-type: zettel-mech
+type: zettel
+status: conscious
 title: ER Stress and Insulin Resistance
 aliases: [Z_ER_Stress, Z_UPR_IR]
 tags: [zettel, mechanism, ER-stress, UPR, inflammation, IR]

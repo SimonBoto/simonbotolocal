@@ -1,6 +1,6 @@
 ---
 uid: T-001-0001
-type: tech-ref
+type: synthesis
 title: Insulin Signaling — Technical Reference
 domain: 001
 domain-name: Insulin_Signaling
