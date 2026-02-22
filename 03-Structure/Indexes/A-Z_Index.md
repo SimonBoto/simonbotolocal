@@ -270,7 +270,7 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 - [[Refs_Virili_GutMicrobiota_Hashimoto_073]] — Hashimoto reference
 
 ### MIGRATION
-- [[99-System/_logs/MIGRATION_COMPLETE_20260220]] — v2.0 migration log
+- [[MIGRATION_COMPLETE_20260220]] — v2.0 migration log
 
 ### MISSION
 - [[00-MISSION]] — North Star mission statement

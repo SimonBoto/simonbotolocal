@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SYSTEM_README_v3.0.md",
+                "file": "99-System/Logs/MIGRATION_COMPLETE_20260220.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SYSTEM_README_v3.0"
+              "title": "MIGRATION_COMPLETE_20260220"
             }
           }
         ]
@@ -209,9 +209,24 @@
   },
   "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "01-Projects/AppProduction/01-Skills/memory-continuity/README.md",
+    "01-Projects/AppProduction/00-ROADMAP.md",
+    "SYSTEM_README_v3.0.md",
+    "01-Projects/AppProduction/00-INDEX.md",
+    "01-Projects/AppProduction/03-Resources/templates",
+    "01-Projects/AppProduction/03-Resources/libraries",
+    "01-Projects/AppProduction/03-Resources/docs",
+    "01-Projects/AppProduction/01-Skills/memory-continuity",
+    "01-Projects/AppProduction/01-Skills/inbox-watcher",
+    "01-Projects/AppProduction/01-Skills/dashboard-sync",
+    "01-Projects/AppProduction/01-Skills/cost-tracker",
+    "01-Projects/AppProduction/01-Skills/auto-git",
+    "01-Projects/AppProduction/99-Archive",
+    "01-Projects/AppProduction/03-Resources",
+    "SESSION_HANDOFF_v4.0_MIGRATION.md",
+    "99-System/Logs/DASHBOARD_MIGRATION_ANALYSIS.md",
     "99-System/Logs/SESSION_20260222_COMPLETION.md",
     "99-System/Logs/SESSION_COMPLETION_TEMPLATE.md",
-    "99-System/Logs",
     "77-Archive/Transient/BACKUP_CONFIRMATION_20260222.md",
     "99-System/Philosophy/ZETTELKASTEN_PHILOSOPHY.md",
     "99-System/Architecture/V4.0_TEMPLATE_REQUIREMENTS.md",
@@ -225,26 +240,11 @@
     "99-System/Migration/SESSION_HANDOFF_v4.0_MIGRATION.md",
     "99-System/Migration/PHASE2_EXECUTION_RUNBOOK.md",
     "99-System/Migration/PHASE1_EXECUTION_RUNBOOK.md",
-    "77-Archive/Transient",
-    "99-System/Philosophy",
-    "99-System/Architecture",
-    "99-System/Migration",
     "99-System/ROOT_ORGANIZATION_PLAN.md",
     "99-System/COST_TRACKING.md",
     "99-System/99-GLOSSARY.md",
     "77-Archive/99-System/ABOUT_US_PLAN.md",
     "77-Archive/99-System/WORKFLOW_OPTIMIZATION_CHART.md",
-    "77-Archive/99-System/WORKFLOW_ARCHITECTURE_v3.0.md",
-    "77-Archive/99-System",
-    "SYSTEM_README_v3.0.md",
-    "CONTINUITY_PLAN.md",
-    "SESSION_HANDOFF_v4.0_MIGRATION.md",
-    "99-System/Triangle/04-PROJECTS.md",
-    "99-System/Triangle/02-AI-BOSS.md",
-    "66-Literature/66c-TechRefs",
-    "66-Literature/66a-StaticRefs",
-    "77-Archive/Legacy_20260222/Refs-Legacy",
-    "77-Archive/Legacy_20260222/02-Atomic-Legacy",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
