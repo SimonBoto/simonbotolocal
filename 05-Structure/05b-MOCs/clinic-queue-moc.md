@@ -8,7 +8,7 @@ uid: 20260211222402
 tags: [#moc #clinic #insulin-resistance]
 status: active
 aliases: [Clinic_Hub]
-parent-moc: [[22-Dashboards/DASHBOARD_Home]]
+parent-moc: [[Dashboard_Home]]
 ---
 
 # Clinic_Queue_MOC

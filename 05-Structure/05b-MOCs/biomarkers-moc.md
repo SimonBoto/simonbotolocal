@@ -3,7 +3,7 @@
 uid: 20260211225302
 tags: [#moc #phd-biomarker #oa-pattern]
 status: active
-parent-moc: [[22-Dashboards/DASHBOARD_Home]]
+parent-moc: [[Dashboard_Home]]
 aliases: [BIOMARKERS_MOC]
 ---
 
@@ -34,4 +34,4 @@ SORT file.ctime DESC
 ## Related Protocols
 - [[44-Clinic/Protocol_Clinical_IR_Preanalytics]] #gc-ms
 
-Graph View: #phd-biomarker #gc-ms | [[22-Dashboards/Zettel_KANBAN_PhD_Progress]] | [[22-Dashboards/DASHBOARD_Home]]
+Graph View: #phd-biomarker #gc-ms | [[22-Dashboards/Zettel_KANBAN_PhD_Progress]] | [[Dashboard_Home]]

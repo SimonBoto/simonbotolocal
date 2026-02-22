@@ -17,4 +17,4 @@ LIST FROM \"00-Inbox/01-Capture\"
 
 Sub-MOCs: [[22-Dashboards/Daily_Note]] 
 
-Graph: #sprint | [[22-Dashboards/DASHBOARD_Home]]
+Graph: #sprint | [[Dashboard_Home]]

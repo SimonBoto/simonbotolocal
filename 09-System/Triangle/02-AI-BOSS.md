@@ -28,8 +28,8 @@
 2. Plan execution strategy
 3. Delegate to muscle agents
 4. Synthesize results
-5. Report in [[22-Dashboards/03-LOG|LOG]]
-6. Hand off for review in [[22-Dashboards/02-HANDOFF|HANDOFF]]
+5. Report in [[03-LOG|LOG]]
+6. Hand off for review in [[02-HANDOFF|HANDOFF]]
 
 ---
 
@@ -105,9 +105,9 @@ Complex / Strategic?
 - [ ] New integrations (email, X, etc.)
 
 ### I Report (After Action)
-- All completed work → [[22-Dashboards/03-LOG|LOG.md]]
-- Items for review → [[22-Dashboards/02-HANDOFF|HANDOFF.md]]
-- Current status → [[22-Dashboards/01-QUEUE|QUEUE.md]]
+- All completed work → [[03-LOG|LOG.md]]
+- Items for review → [[02-HANDOFF|HANDOFF.md]]
+- Current status → [[01-QUEUE|QUEUE.md]]
 
 ---
 
@@ -159,7 +159,7 @@ Complex / Strategic?
 
 ## 📊 Performance Metrics
 
-**Tracked In:** [[22-Dashboards/03-LOG|LOG.md]]
+**Tracked In:** [[03-LOG|LOG.md]]
 
 | Metric | Target | Current |
 |--------|--------|---------|
@@ -201,7 +201,7 @@ Complex / Strategic?
 *RON's private notes, lessons learned, reminders.*
 
 - CEO prefers evidence-first claims
-- Always check [[22-Dashboards/00-COMMAND|COMMAND]] before planning
+- Always check [[00-COMMAND|COMMAND]] before planning
 - GROQ rate limit: 30 RPM — track carefully
 - PAID budget: $2/day — prefer gemini-1.5-flash
 - Staging-first when uncertain

@@ -29,8 +29,8 @@
 | 📁 **PROJECT_INDEX** | All work catalog | 🔴 Not created | [[PROJECT_INDEX]] |
 | 🎛️ **MISSION_CONTROL** | High-level overview | 🟡 Exists, stale | [[MISSION_CONTROL]] |
 | 🌅 **MORNING_REVIEW** | Daily planning | 🟡 Exists | [[MORNING_REVIEW]] |
-| 🏗️ **WORKFLOW_ARCHITECTURE** | System design | 🟢 Current | [[99-System/WORKFLOW_ARCHITECTURE_v3.0]] |
-| 🚨 **DISASTER_RECOVERY** | Emergency procedures | 🟢 Ready | [[99-System/DISASTER_RECOVERY]] |
+| 🏗️ **WORKFLOW_ARCHITECTURE** | System design | 🟢 Current | [[WORKFLOW_ARCHITECTURE_v3.0]] |
+| 🚨 **DISASTER_RECOVERY** | Emergency procedures | 🟢 Ready | [[DISASTER_RECOVERY]] |
 
 ---
 
@@ -40,7 +40,7 @@
 |---------|----------|--------|-------------|
 | **METHAP Trial** | [[MOC_PHD_IR_MOC\|PhD MOC]] | Active | Extract 10 GOLD refs |
 | **Bot Company / AIB** | [[99-System/AIB/\|AIB HQ]] | Building | Create agent profiles |
-| **Workflow System v3.0** | [[99-System/WORKFLOW_ARCHITECTURE_v3.0\|Architecture]] | Planning | Implement 1-5 notes |
+| **Workflow System v3.0** | [[WORKFLOW_ARCHITECTURE_v3.0\|Architecture]] | Planning | Implement 1-5 notes |
 | **Company Pages** | Shaboard :4444 | In Progress | Manual sync |
 | **Template System v2.0** | [[05-Structure/05a-Templates/\|Templates]] | ✅ Done | Use in production |
 
@@ -48,7 +48,7 @@
 
 ## 🆘 EMERGENCY RESOURCES
 
-**System down?** → [[99-System/DISASTER_RECOVERY.md|Disaster Recovery Guide]]  
+**System down?** → [[DISASTER_RECOVERY|Disaster Recovery Guide]]  
 **One-liner fix:**
 ```bash
 rm -rf ~/.openclaw/devices/* && openclaw gateway restart && sleep 3

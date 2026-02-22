@@ -107,15 +107,15 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 ## D
 
 ### DAILY OPERATIONS
-- [[03-Structure/Navigation/Daily_Triage]] — Daily triage page
-- [[22-Dashboards/Dashboard_Home]] — Main dashboard
-- [[22-Dashboards/RON_Mission_Control_Calendar]] — Mission control
+- [[Daily_Triage]] — Daily triage page
+- [[Dashboard_Home]] — Main dashboard
+- [[RON_Mission_Control_Calendar]] — Mission control
 
 ### DASHBOARDS
 - [[DASHBOARD_CORE_MAP_20260215_069_000054]] — Core map
 - [[Dashboard_Home]] — Home dashboard
 - [[RON_Tools_Dashboard]] — Tools dashboard
-- [[22-Dashboards/RON_Review_System]] — Review system
+- [[RON_Review_System]] — Review system
 
 ### DICTIONARY
 - [[DICTIONARY_MAP_20260215_007_000055]] — Terminology map
@@ -214,7 +214,7 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 - [[CROHNS_VS_ULCERATIVE_COLITIS_20260215_084_000053]] — CD vs UC
 
 ### INDEXES
-- [[03-Structure/Indexes/A-Z_Index]] — This index
+- [[A-Z_Index]] — This index
 - [[KEYWORD_INDEX_METABOLOMICS_IR_BIOMARKERS_20260219_000098]] — Keyword index
 
 ### INFLAMMATION
@@ -274,7 +274,7 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 
 ### MISSION
 - [[00-MISSION]] — North Star mission statement
-- [[22-Dashboards/MIDNIGHT_PROTOCOL_AUTHORIZATION]] — Midnight protocol
+- [[MIDNIGHT_PROTOCOL_AUTHORIZATION]] — Midnight protocol
 
 ### MITOCHONDRIA
 - [[MITOCHONDRIA_ENERGY_FACTORIES_20260215_030_000134]] — Energy metabolism
@@ -361,10 +361,10 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 - [[ATOMIC_RESOLUTION_INFLAMMATION_PROGRAMS_END_20260216_046_000032]] — Resolution programs
 
 ### RON (Me!)
-- [[22-Dashboards/RON_Tools_Dashboard]] — Tools dashboard
-- [[22-Dashboards/RON_Review_System]] — Review system
-- [[22-Dashboards/RON_Mission_Control_Calendar]] — Mission control
-- [[22-Dashboards/RON-Workflow-System]] — Workflow system
+- [[RON_Tools_Dashboard]] — Tools dashboard
+- [[RON_Review_System]] — Review system
+- [[RON_Mission_Control_Calendar]] — Mission control
+- [[RON-Workflow-System]] — Workflow system
 
 ---
 
@@ -416,13 +416,13 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 - [[TOLERANCE_LOSS_CORTISOL_20260215_061_000190]] — Cortisol breach
 
 ### TOMORROW
-- [[22-Dashboards/TOMORROWS_BATTLE_PLAN]] — Daily planning
+- [[TOMORROWS_BATTLE_PLAN]] — Daily planning
 
 ### TOXICOLOGY
 - [[CONCEPT_TOXICOLOGY_METABOLOMICS_OVERLAP_20260219_000049]] — Overlap
 
 ### TRIAGE
-- [[03-Structure/Navigation/Daily_Triage]] — Daily triage
+- [[Daily_Triage]] — Daily triage
 
 ---
 
@@ -440,7 +440,7 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 ## V
 
 ### VAULT
-- [[03-Structure/Navigation/Start_Here]] — Entry point
+- [[Start_Here]] — Entry point
 
 ### VDR (Vitamin D Receptor)
 - [[VDR_IMMUNE_IBD_20260215_099_000195]] — IBD immunity
@@ -501,8 +501,8 @@ Alphabetical index of all key concepts, notes, and entities in The Optimized Bra
 
 - **By Type:** [[02-Atomic/]] | [[66-Literature/Refs/]] | [[55-MOCs/]]
 - **By Project:** [[01-Projects/PhD/]]
-- **Daily Use:** [[03-Structure/Navigation/Daily_Triage]]
-- **Start Here:** [[03-Structure/Navigation/Start_Here]]
+- **Daily Use:** [[Daily_Triage]]
+- **Start Here:** [[Start_Here]]
 
 ---
 

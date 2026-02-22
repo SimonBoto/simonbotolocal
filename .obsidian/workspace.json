@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-System/Logs/MIGRATION_COMPLETE_20260220.md",
+                "file": "SYSTEM_README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MIGRATION_COMPLETE_20260220"
+              "title": "SYSTEM_README"
             }
           }
         ]
@@ -209,10 +209,16 @@
   },
   "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
-    "77-Archive/Zotero/sarandiClinicalTrialIdentification2021.md",
-    "77-Archive/Zotero",
-    "77-Archive/Books",
-    "77-Archive/66a-StaticRefs",
+    "02-LiteratureNotes/GutierrezRodelo_2017_IR_Mechanisms_[L-001-0001].md",
+    "02-LiteratureNotes",
+    "99-System/Logs/V4.0_POST_MIGRATION_ANALYSIS.md",
+    "99-System/Logs",
+    "99-System",
+    "09-System/Logs/MIGRATION_COMPLETE_20260220.md",
+    "07-Archive/77-Archive/Zotero/sarandiClinicalTrialIdentification2021.md",
+    "07-Archive/77-Archive/Zotero",
+    "07-Archive/77-Archive/Books",
+    "07-Archive/77-Archive/66a-StaticRefs",
     "sedM69pF4",
     "sedpbbqte",
     "05-Structure/05b-MOCs/PhD_IR_MOC.md",
@@ -237,14 +243,8 @@
     "05-Structure/05b-MOCs/Literature.md",
     "05-Structure/05b-MOCs/Insulin_Signaling.md",
     "05-Structure/05b-MOCs/inbox-sprint-moc.md",
-    "05-Structure/05b-MOCs/clinic-queue-moc.md",
-    "05-Structure/05b-MOCs/Clinical-Protocols.md",
-    "05-Structure/05b-MOCs/biomarkers-moc.md",
     "07-Archive",
     "05-Structure/05d-Projects",
-    "05-Structure/05c-Indexes",
-    "05-Structure/05b-MOCs",
-    "05-Structure/05a-Templates",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]

@@ -23,7 +23,7 @@
 - Read CEO's [[00-COMMAND\|COMMAND]] and translate to execution
 - Delegate to muscle agents (GROQ, FREE, PAID) as needed
 - Maintain vault architecture and templates
-- Write [[22-Dashboards/01-QUEUE\|QUEUE]], [[22-Dashboards/03-LOG\|LOG]], [[22-Dashboards/02-HANDOFF\|HANDOFF]]
+- Write [[01-QUEUE\|QUEUE]], [[03-LOG\|LOG]], [[02-HANDOFF\|HANDOFF]]
 - Curate [[MEMORY\|long-term memory]]
 
 **Autonomy Level:** L1.5–L2  

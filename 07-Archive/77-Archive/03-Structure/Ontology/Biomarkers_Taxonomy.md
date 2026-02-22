@@ -313,7 +313,7 @@ parent-moc: [[03-Structure/Navigation/Start_Here]]
 - [[PhD-Biomarkers]] — Research-specific biomarker MOC
 - [[METHAP_BIOMARKER_INTEGRATION_PANEL_20260218_000117]] — Clinical trial panel
 - [[biomarkers-moc]] — General biomarkers MOC
-- [[03-Structure/Indexes/A-Z_Index]] — Find specific biomarkers
+- [[A-Z_Index]] — Find specific biomarkers
 - [[55-MOCs/]] — All topic MOCs
 
 ---

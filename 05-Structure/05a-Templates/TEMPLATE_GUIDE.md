@@ -162,8 +162,8 @@ extraction-date: {{YYYY-MM-DD}}
 
 ## 🔗 Quick Links
 
-- [[03-Structure/Navigation/Start_Here]] — Vault entry point
-- [[03-Structure/Navigation/Daily_Triage]] — Daily operations
+- [[Start_Here]] — Vault entry point
+- [[Daily_Triage]] — Daily operations
 - [[11-Templates/]] — All templates folder
 - [[00-Inbox]] — Processing queue
 

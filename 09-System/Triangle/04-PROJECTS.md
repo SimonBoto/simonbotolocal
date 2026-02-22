@@ -24,7 +24,7 @@
   - Atomic notes spawned where needed
   - Committed to git
 - **Blockers:** None
-- **Dashboard:** [[22-Dashboards/01-QUEUE\|Queue]]
+- **Dashboard:** [[01-QUEUE\|Queue]]
 
 ### 2. IRB Protocol Section 1
 - **Lead:** RON
@@ -107,4 +107,4 @@
 ---
 
 *Last Updated: 2026-02-22*  
-*Next Review: Daily in [[22-Dashboards/01-QUEUE\|QUEUE]]*
+*Next Review: Daily in [[01-QUEUE\|QUEUE]]*

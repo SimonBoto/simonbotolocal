@@ -62,7 +62,7 @@ parent-moc: [[03-Structure/Navigation/Start_Here]]
 ### 1. Morning Sweep (5 min)
 - [ ] Check [[00-Inbox]] — Any new sources?
 - [ ] Check Telegram — Any messages from RON?
-- [ ] Check [[22-Dashboards/MORNING_REVIEW]] — Yesterday's work
+- [ ] Check [[MORNING_REVIEW]] — Yesterday's work
 
 ### 2. Triage (10 min)
 - [ ] Review P0 list — Still valid?
@@ -77,7 +77,7 @@ parent-moc: [[03-Structure/Navigation/Start_Here]]
 ### 4. Review (5 min)
 - [ ] What got done?
 - [ ] What blocked?
-- [ ] Update [[22-Dashboards/TOMORROWS_BATTLE_PLAN]]
+- [ ] Update [[TOMORROWS_BATTLE_PLAN]]
 
 ---
 
@@ -87,12 +87,12 @@ parent-moc: [[03-Structure/Navigation/Start_Here]]
 - [[PhD_IR_MOC]] — Main research hub
 - [[55-MOCs/]] — All topic MOCs
 - [[66-Literature/Refs/]] — Reference library
-- [[03-Structure/Indexes/A-Z_Index]] — Find anything
+- [[A-Z_Index]] — Find anything
 
 ### Operations
-- [[22-Dashboards/RON_Tools_Dashboard]] — AI tools status
-- [[22-Dashboards/RON_Mission_Control_Calendar]] — Schedule
-- [[22-Dashboards/Dashboard_Home]] — Main dashboard
+- [[RON_Tools_Dashboard]] — AI tools status
+- [[RON_Mission_Control_Calendar]] — Schedule
+- [[Dashboard_Home]] — Main dashboard
 
 ### Creation
 - [[11-Templates/]] — All templates

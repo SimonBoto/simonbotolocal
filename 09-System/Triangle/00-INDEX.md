@@ -30,7 +30,7 @@
 | **[[COST_TRACKING\|Cost Tracking]]** | 99-System/ | Budget, spending, optimization |
 | **[[DISASTER_RECOVERY\|Disaster Recovery]]** | 99-System/ | Emergency procedures |
 | **[[UID_SYSTEM_v2.0\|UID System]]** | 99-System/ | Naming conventions |
-| **[[22-Dashboards/MISSION_CONTROL\|Mission Control]]** | 22-Dashboards/ | Daily operations dashboard |
+| **[[MISSION_CONTROL\|Mission Control]]** | 22-Dashboards/ | Daily operations dashboard |
 
 **Dashboard:** http://localhost:4444  
 **Forge:** http://localhost:4444/forge.html  

@@ -19,10 +19,10 @@ aliases: [Vault_Index, Master_Index, Start, Home]
 ## 🚀 Quick Start — Choose Your Path
 
 ### "I want to start my day"
-→ [[03-Structure/Navigation/Daily_Triage]] — Morning command center
+→ [[Daily_Triage]] — Morning command center
 
 ### "I need to find something"
-→ [[03-Structure/Indexes/A-Z_Index]] — Alphabetical master index
+→ [[A-Z_Index]] — Alphabetical master index
 
 ### "I'm working on my PhD"
 → [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]] — Core protocol
@@ -56,10 +56,10 @@ aliases: [Vault_Index, Master_Index, Start, Home]
 ### 1. Structure (System Maps)
 **How the vault is organized.**
 
-- [[03-Structure/Navigation/Daily_Triage]] — Daily operations
-- [[03-Structure/Indexes/A-Z_Index]] — Alphabetical lookup
-- [[03-Structure/Ontology/Biomarkers_Taxonomy]] — Biomarker classification
-- [[03-Structure/Ontology/IR_Mechanisms_Map]] — Causal pathways
+- [[Daily_Triage]] — Daily operations
+- [[A-Z_Index]] — Alphabetical lookup
+- [[Biomarkers_Taxonomy]] — Biomarker classification
+- [[IR_Mechanisms_Map]] — Causal pathways
 
 ### 2. MOCs (Topic Hubs)
 **What you know, by topic.**
@@ -81,7 +81,7 @@ aliases: [Vault_Index, Master_Index, Start, Home]
 ### 4. Operations (Tools)
 **How you create and manage.**
 
-- [[22-Dashboards/MISSION_CONTROL]] — **Master command center** ⭐
+- [[MISSION_CONTROL]] — **Master command center** ⭐
 - [[11-Templates/]] — Note templates (13 v2.0)
 - [[22-Dashboards/]] — All operational dashboards
 - [[RON_Tools_Dashboard]] — AI assistant tools
@@ -121,7 +121,7 @@ aliases: [Vault_Index, Master_Index, Start, Home]
 → Message RON on Telegram: *"Extract inbox"*
 
 ### "Something is broken"
-→ Check [[03-Structure/Navigation/Daily_Triage]] — System Status  
+→ Check [[Daily_Triage]] — System Status  
 → Or message RON: *"Status check"*
 
 ---

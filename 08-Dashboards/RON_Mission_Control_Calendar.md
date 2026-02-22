@@ -161,7 +161,7 @@ Last updated: 2026-02-20 19:31
 
 | Resource | Link |
 |----------|------|
-| **🆕 Tools Dashboard** | [[22-Dashboards/RON_Tools_Dashboard]] |
+| **🆕 Tools Dashboard** | [[RON_Tools_Dashboard]] |
 | **PhD Kanban** | [[22-Dashboards/PhD_Kanban]] |
 | **Atomic Audit** | [[22-Dashboards/PhD_Atomic_Audit_20260218]] |
 | **Template Index** | [[11-Templates/TEMPLATE_INDEX]] |

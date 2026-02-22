@@ -27,7 +27,7 @@ Last updated: 2026-02-20
 
 ## 🚀 Start Here — GO TO MISSION CONTROL
 
-**[[22-Dashboards/MISSION_CONTROL]]** ← 🎯 **YOUR COMMAND CENTER**
+**[[MISSION_CONTROL]]** ← 🎯 **YOUR COMMAND CENTER**
 
 *Live status, today's plan, RON's work, one-click actions.*
 
