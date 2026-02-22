@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Structure/MOCs/MOC-Biomarkers.md",
+                "file": "06-Structure/MOCs/MOC-Cholesterol-Quality.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC-Biomarkers"
+              "title": "MOC-Cholesterol-Quality"
             }
           }
         ]
@@ -209,6 +209,7 @@
   },
   "active": "7bdf8ee45b57b16b",
   "lastOpenFiles": [
+    "06-Structure/MOCs/MOC-Biomarkers.md",
     "SYSTEM_README-SUMMARY.md",
     "09-System/USER_GUIDE_v4.1.md",
     "09-System/OPERATIONAL_ANALYSIS_COMPLETE.md",
@@ -223,7 +224,6 @@
     "06-Structure/MOCs/MOC-Omega3-Fats.md",
     "06-Structure/MOCs/MOC-Stress-Autoimmune.md",
     "06-Structure/MOCs/MOC-Vitamin-Safety.md",
-    "06-Structure/MOCs/MOC-Biomarkers.md",
     "06-Structure/MOCs/MOC-INDEX.md",
     "06-Structure/MOCs/MOC-Inbox-Sprint.md",
     "06-Structure/MOCs/MOC-Hidden-Hunger.md",
