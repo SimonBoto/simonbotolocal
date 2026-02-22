@@ -71,36 +71,45 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 
 ## 📊 All Zettels in This MOC
 
-### Created (4)
-- [[Z_INSR_STRUCTURE_001]]
-- [[Z_MECH_INSR_AUTOPHOS_003]]
-- [[Z_IRS_RECRUITMENT_005]]
-- [[Z_CLAIM_IRS_SERINEPHOS_IR_008]]
+### Created (17)
+**Core Signaling:**
+- [[Z_INSULIN_HORMONE_STRUCTURE_002]] — Ligand
+- [[Z_INSR_STRUCTURE_001]] — Receptor
+- [[Z_MECH_INSR_AUTOPHOS_003]] — Activation
+- [[Z_INSR_MUTATIONS_DONOHUE_004]] — Disease mutations
 
-### Pending (13)
-- Z_Insulin_Hormone_Structure_002
-- Z_INSR_Mutations_Donohue_004
-- Z_IRS1_vs_IRS2_Tissue_Distribution_006
-- Z_PI3K_Activation_007
-- Z_PIP3_Recruitment_Akt_008
-- Z_Akt_Activation_009
-- Z_Akt_Substrates_AS160_TBC1D4_010
-- Z_GLUT4_Translocation_011
-- Z_GSK3_Inhibition_Glycogen_012
-- Z_Lipotoxicity_Ceramide_IR_013
-- Z_ER_Stress_IR_014
-- Z_Mitochondrial_Dysfunction_IR_015
-- Z_MAPK_Pathway_GRB2_SOS_016
-- Z_Cbl_CAP_Caveolin_017
+**Adapter & Kinase:**
+- [[Z_IRS_RECRUITMENT_005]] — IRS proteins
+- [[Z_IRS1_VS_IRS2_TISSUE_006]] — Isoform comparison
+- [[Z_MECH_PI3K_ACTIVATION_007]] — Lipid kinase
+- [[Z_AKT_RECRUITMENT_PIP3_009]] — Akt recruitment
+- [[Z_AKT_SUBSTRATE_PHOS_010]] — Substrate phosphorylation
+
+**Effector Mechanisms:**
+- [[Z_GLUT4_TRANSLOCATION_011]] — Glucose uptake
+- [[Z_GSK3_INHIBITION_GLYCOGEN_012]] — Glycogen synthesis
+
+**Alternative Pathways:**
+- [[Z_MAPK_PATHWAY_016]] — Mitogenic signaling
+- [[Z_CBL_CAP_PATHWAY_017]] — Lipid raft pathway
+
+**Insulin Resistance Mechanisms:**
+- [[Z_CLAIM_IRS_SERINEPHOS_IR_008]] — Serine phosphorylation
+- [[Z_LIPOTOXICITY_CERAMIDE_IR_013]] — Lipotoxicity
+- [[Z_ER_STRESS_IR_014]] — ER stress
+- [[Z_MITOCHONDRIAL_DYSFUNCTION_IR_015]] — Mitochondrial dysfunction
+
+### Pending (0)
+✅ Complete
 
 ---
 
 ## 📚 Source References
 
-- [[Ref_GutierrezRodelo_IR_Mechanisms_2017]] — Molecular mechanisms review
+- [[Lit_GutierrezRodelo_IR_Mechanisms_2017]] — Primary literature note (9 zettels extracted)
 - [[Ref_Nature_IR_Mechanisms_2022]] — Signaling pathways review
-- [[Ref_Cell_IR_Mechanisms_2012]] — Insulin resistance mechanisms
+- [[Ref_Cell_IR_Mechanisms_2012]] — Insulin resistance mechanisms (Samuel & Shulman)
 
 ---
 
-*Last updated: 2026-02-22 | 4 zettels created, 13 pending*
+*Last updated: 2026-02-22 | 17 zettels created | Complete cascade documented*
