@@ -109,7 +109,7 @@ SORT file.name ASC
 
 ### "I need to process literature"
 → Start: [[Literature]]  
-→ Then: [[inbox-sprint-moc]], [[05-Structure/05a-Templates/Template_ClinicExtraction_v2.0]]
+→ Then: [[inbox-sprint-moc]], [[Template_ClinicExtraction_v2.0]]
 
 ---
 

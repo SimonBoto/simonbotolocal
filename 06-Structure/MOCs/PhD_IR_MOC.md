@@ -62,14 +62,14 @@ next-review: 2026-03-21
 ## Literature Base
 - [[Ref_Adipic_Acid_InsulinResistance_20260218]]
 - [[20260218_Hashimoto_VitD_Protocol]]
-- [[05-Structure/05a-Templates/Template_ClinicExtraction_v2.0]]
+- [[Template_ClinicExtraction_v2.0]]
 - [[PhD_Protocol_UoC_Application_EN_20260219]] — UoC PhD protocol
 - [[Ref_Lab_UoC_Toxicology_Forensic_Chemistry_20260219]] — Laboratory capabilities
 
 ---
 
 ## Protocols
-- [[05-Structure/05a-Templates/Template_ClinicExtraction_v2.0]]
+- [[Template_ClinicExtraction_v2.0]]
 - [[Protocol_UoC_Study_Design_20260219]] — UoC study design
 - [[Protocol_UoC_Intervention_Diet_Supplements_20260219]] — Diet/supplement protocol
 

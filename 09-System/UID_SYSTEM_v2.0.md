@@ -42,12 +42,12 @@ L-001-0001  ← LitNote, Domain 001 (Insulin), #1
 
 | Prefix | Type | Folder | Use For |
 |--------|------|--------|---------|
-| **Z** | Zettel | 04-Zettels/ | Atomic knowledge units |
-| **T** | TechRef | 66-Literature/66c-TechRefs/ | Living technical references |
-| **L** | LitNote | 66-Literature/66b-LitNotes/ | Source processing notes |
-| **R** | StaticRef | 66-Literature/66a-StaticRefs/ | Bibliographic cards |
-| **C** | Claim | 04-Zettels/ (zettel-claim) | Falsifiable statements |
-| **Q** | Question | 04-Zettels/ (zettel-q) | Research questions |
+| **Z** | Zettel | 03-Zettels/ | Atomic knowledge units |
+| **T** | TechRef | 04-Synthesis/ | Living technical references |
+| **L** | LitNote | 02-Literature/ | Source processing notes |
+| **R** | StaticRef | 01-References/Hub/ | Bibliographic cards |
+| **C** | Claim | 03-Zettels/ (zettel-claim) | Falsifiable statements |
+| **Q** | Question | 03-Zettels/ (zettel-q) | Research questions |
 
 ---
 
@@ -173,7 +173,7 @@ What knowledge area?
 ### Step 3: Get Next Sequence
 Check existing files in domain, increment:
 ```
-ls 04-Zettels/Z-001-* | sort | tail -1
+ls 03-Zettels/Z-001-* | sort | tail -1
 → Z-001-0016.md
 → Next: Z-001-0017.md
 ```
