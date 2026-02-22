@@ -1,3 +1,4 @@
+<!-- NEW_NAME: MOC-NAMING-Cleanup-Plan.md -->
 # 🗺️ MOC NAMING STANDARDIZATION — CLEAN SLATE PLAN
 
 **Problem:** Current MOC names are inconsistent, confusing, and hard to use  

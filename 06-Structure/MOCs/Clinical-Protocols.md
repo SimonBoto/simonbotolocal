@@ -1,3 +1,4 @@
+<!-- NEW_NAME: MOC-Clinical-Protocols.md -->
 ---
 tags: [moc, clinical, protocols]
 ---

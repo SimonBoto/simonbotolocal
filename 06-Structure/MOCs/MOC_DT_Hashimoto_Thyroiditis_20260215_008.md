@@ -1,3 +1,4 @@
+<!-- NEW_NAME: MOC-Hashimoto-Thyroiditis-20260215-008.md -->
 ---
 uid: 20260215142000
 tags: [#moc #dt-clinic #hashimoto #thyroid #phd-biomarker]

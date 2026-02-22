@@ -1,3 +1,4 @@
+<!-- NEW_NAME: MOC-Literature-Management.md -->
 ---
 uid: 20260215144800
 tags: [#moc #literature]

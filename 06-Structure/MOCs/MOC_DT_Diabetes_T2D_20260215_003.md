@@ -1,3 +1,4 @@
+<!-- NEW_NAME: MOC-Diabetes-T2D-20260215-003.md -->
 ---
 uid: 20260215134100
 tags: [#moc #dt-clinic #diabetes-t2d #insulin-resistance #phd-biomarker]

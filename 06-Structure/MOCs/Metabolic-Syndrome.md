@@ -1,3 +1,4 @@
+<!-- NEW_NAME: MOC-Metabolic-Syndrome.md -->
 ---
 tags: [moc, metabolic-syndrome, nutrition]
 ---
