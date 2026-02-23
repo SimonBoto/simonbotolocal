@@ -11,10 +11,24 @@
             "id": "7bdf8ee45b57b16b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "threekeys.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "threekeys"
             }
           }
         ]
@@ -193,7 +207,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "7bdf8ee45b57b16b",
   "lastOpenFiles": [
     "07-Archive/77-Archive/99-Cleanup-Queue/orphans_post.txt",
     "07-Archive/77-Archive/99-Cleanup-Queue/grep_dup.log",
