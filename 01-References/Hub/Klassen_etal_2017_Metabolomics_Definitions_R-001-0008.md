@@ -1,0 +1,54 @@
+---
+uid: R-001-0008
+type: reference
+title: "Metabolomics: Definitions and Significance in Systems Biology"
+authors: "Klassen A, Fiehn O, TK"
+year: "2017"
+doi: "10.1007/978-3-319-62875-1_1"
+pmid: "28889205"
+pmcid: ""
+journal: "Advances in Experimental Medicine and Biology"
+tier: 2
+status: ref
+confidence: high
+aliases: [R-001-0008, Klassen_2017_Metabolomics_Definitions]
+tags: [ref, metabolomics, definitions, systems-biology, textbook-chapter]
+parent-moc: [[MOC-References]]
+source-type: book-chapter
+extraction-date: 2026-02-23
+---
+
+# Ref: Klassen et al. (2017) — Metabolomics Definitions in Systems Biology
+
+## TL;DR
+Comprehensive definitional chapter establishing metabolomics within systems biology context, clarifying terminology and scope for researchers entering the field.
+
+## Citation
+Klassen, A. et al. (2017) 'Metabolomics: Definitions and Significance in Systems Biology', Advances in Experimental Medicine and Biology, pp. 3–17. doi: 10.1007/978-3-319-62875-1_1
+
+## Key Findings
+
+| Finding | Evidence | Relevance to METHAP |
+|---------|----------|---------------------|
+| Metabolite definition standardized | <1000 Da, small molecules | Clear scope: OA, TFA within definition |
+| Targeted vs untargeted distinction | Methodology implications | METHAP: targeted (specific metabolites) |
+| Systems context essential | Not reductionist | Integration with clinical data |
+| Analytical platforms compared | NMR vs MS strengths/limitations | GC-MS for OA, LC-MS for TFA justified |
+
+## Relevance to PhD
+
+**METHAP Methods:**
+- **Definitions:** Clear metabolite scope for protocol
+- **Methodology:** GC-MS (urine OA) + LC-MS (plasma TFA) rationale
+- **Standards:** Metabolite identification and quantification standards
+
+## Links to Atomics
+- [[Omics_Cascade_Genotype_Phenotype_Z-001-0002]] — Metabolomics position
+- All metabolomics zettels — definitional foundation
+
+## Our Use
+**Methods chapter:** Authoritative definitions and methodology citations
+
+---
+
+*Tier 2 Reference | Advances in Experimental Medicine and Biology | Definitional foundation*

@@ -67,14 +67,21 @@ version: 1.0
 ## 📊 Synthesis
 
 ### Course Synthesis Document
-**Status:** 🏗️ Not yet created  
-**Target:** [[Omics_Training_Core_Insights_S-001-0001]] — Living document aggregating all course zettels
+**Status:** ✅ Created — [[Omics_Training_Core_Insights_S-001-0001]]  
+**Scope:** Aggregates 9 zettels into METHAP trial design framework  
+**Key Outputs:**
+- Omics hierarchy positioning metabolomics
+- 80% environmental factor justification
+- Biomarker framework for IR research
+- Direct IRB Section 1 structure
 
-### Key Insights So Far
+### Key Insights (From Synthesis)
 1. **Systems biology** integrates all omics levels (not just metabolomics)
 2. **Metabolomics** is closest to phenotype (captures environment)
 3. **80% environmental** disease burden → metabolomics essential
 4. **Precision medicine** requires biomarker integration
+5. **Adipic acid** serves as predictive, prognostic, pharmacodynamic marker
+6. **Gut-microbiome-VD axis** emerging as key interaction
 
 ---
 

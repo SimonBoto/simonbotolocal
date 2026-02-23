@@ -23,11 +23,12 @@ extraction-date: 2026-02-23
 - ✅ **NKUA Metabolomics Course — DE1 Part 1 FULLY COMPLETE**
   - LitNote: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
   - MOC: [[MOC-Metabolomics-Training]]
-  - **9 zettels created** (Z-001-0001 through Z-001-0009)
-  - **5 reference hubs** (R-001-0001 through R-001-0005)
+  - **9 zettels** (Z-001-0001 through Z-001-0009)
+  - **10 reference hubs** (R-001-0001 through R-001-0010)
+  - **1 synthesis** ([[Omics_Training_Core_Insights_S-001-0001]])
   - PDF asset organized
   - All templates applied (v2.0)
-  - Status: COMPLETE — Awaiting next course part or approval
+  - Status: ✅ **COMPLETE** — Ready for DE2 or review
 
 - ✅ **Vault Optimization Complete** (ARM_RED executed)
   - 15 folder indexes created

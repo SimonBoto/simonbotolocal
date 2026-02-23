@@ -153,24 +153,25 @@ extraction-date: 2026-02-23
 | Clish (2015) Mol Case Studies | Metabolomics for precision medicine | [[Clish_2015_Metabolomics_Precision_Medicine_R-001-0004]] |
 | Kohler et al. (2017) Eur J Pharm Sci | Integrating biomarkers & pharmacology | [[Kohler_etal_2017_Integrating_Metabolomics_Pharmacology_R-001-0005]] |
 
-### To Be Created (Remaining Bibliography)
-- [ ] Beebe K et al. (2017) - Computational and Structural Biotechnology Journal
-- [ ] Chen R & Snyder M (2012) - Current Opinion in Pharmacology
-- [ ] Klassen A et al. (2017) - Advances in Experimental Medicine and Biology
-- [ ] Marchand CR et al. (2018) - Metabolites
-- [ ] Θεοδωρίδης Γ. (2015) - Greek textbook (Systems Biology & Omics)
+### Created (All Bibliography Complete)
+- [x] Beebe K et al. (2017) — [[Beebe_etal_2017_Metabolic_Individuality_R-001-0006]]
+- [x] Chen R & Snyder M (2012) — [[Chen_Snyder_2012_Systems_Biology_PM_R-001-0007]]
+- [x] Klassen A et al. (2017) — [[Klassen_etal_2017_Metabolomics_Definitions_R-001-0008]]
+- [x] Marchand CR et al. (2018) — [[Marchand_etal_2018_Biomarker_Framework_R-001-0009]]
+- [x] Θεοδωρίδης Γ. (2015) — [[Theodoridis_etal_2015_Systems_Biology_Greek_R-001-0010]]
 
 ---
 
-## Next Actions
-- [x] Extract Subsection 1 (Systems Biology & Metabolomics) - COMPLETE (3 zettels)
-- [x] Extract Subsection 2 (Other Omics Sciences) - COMPLETE (6 zettels)
-- [x] Identify and create reference hubs for cited works - 5 hubs created
-- [ ] Create remaining reference hubs (5 more from bibliography)
-- [ ] Create synthesis document connecting to IR/VitD zettels
-- [x] Link to MOC-Metabolomics-Training - DONE
-- [ ] Review all 9 zettels for quality and cross-linking
-- [ ] Connect relevant zettels to existing IR/VitD knowledge graph
+## Next Actions — ALL COMPLETE
+- [x] Extract Subsection 1 (Systems Biology & Metabolomics) — 3 zettels
+- [x] Extract Subsection 2 (Other Omics Sciences) — 6 zettels
+- [x] Create all 10 reference hubs (5 initial + 5 remaining)
+- [x] Create synthesis document — [[Omics_Training_Core_Insights_S-001-0001]]
+- [x] Link to MOC-Metabolomics-Training
+- [x] Cross-link zettels to IR/VitD knowledge graph (in synthesis)
+
+**DE1 PART 1: FULLY COMPLETE** ✅
+- 9 zettels | 10 reference hubs | 1 LitNote | 1 MOC | 1 Synthesis
 
 ---
 
