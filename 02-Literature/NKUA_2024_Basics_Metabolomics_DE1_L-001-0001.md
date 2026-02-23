@@ -1,7 +1,7 @@
 ---
 uid: L-001-0001
 type: lit-note
-title: "NKUA 2024 — Βασικές Αρχές Μεταβολομικής, ΔΕ1: Εισαγωγή στα Omics"
+title: "NKUA 2024 - Βασικές Αρχές Μεταβολομικής, ΔΕ1: Εισαγωγή στα Omics"
 authors: "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών"
 year: "2024"
 journal: "Πρόγραμμα Συμπληρωματικής Εκπαίδευσης"
@@ -9,16 +9,16 @@ doi: ""
 pmid: ""
 pmcid: ""
 tier: 2
-relevance: "High — Core training material covering systems biology → metabolomics cascade with direct application to METHAP trial design"
+relevance: "High - Core training material covering systems biology → metabolomics cascade with direct application to METHAP trial design"
 status: complete
 parent-moc: [[MOC-Metabolomics-Training]]
 extraction-date: 2026-02-23
 ---
 
-# Lit: NKUA 2024 — Εισαγωγή στα Omics (Part 1)
+# Lit: NKUA 2024 - Εισαγωγή στα Omics (Part 1)
 
 ## Source
-- **Full citation:** ΕΘΝΙΚΟ ΚΑΙ ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ. Πρόγραμμα Συμπληρωματικής Εκπαίδευσης 3174 — ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΜΕΤΑΒΟΛΟΜΙΚΗΣ. Διδακτική Ενότητα 1: Εισαγωγή στα Omics.
+- **Full citation:** ΕΘΝΙΚΟ ΚΑΙ ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ. Πρόγραμμα Συμπληρωματικής Εκπαίδευσης 3174 - ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΜΕΤΑΒΟΛΟΜΙΚΗΣ. Διδακτική Ενότητα 1: Εισαγωγή στα Omics.
 - **PDF Asset:** [[01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 1. ΕΙΣΑΓΩΓΗ ΣΤΑ OMICS.pdf]]
 - **Course:** 3174 - Βασικές Αρχές Μεταβολομικής
 - **Language:** Greek
@@ -76,7 +76,7 @@ extraction-date: 2026-02-23
 ### 3. Environmental Factors Drive 80% of Chronic/Autoimmune Disease
 > "Όλοι οι προαναφερθέντες παράγοντες συνδέονται με την εκδήλωση των χρόνιων και αυτοάνοσων νοσημάτων σε ποσοστό 80%, που είναι και το αντικείμενο της σειράς μαθημάτων."
 
-**Key insight:** 80% of chronic and autoimmune diseases linked to environmental factors — only 20% purely genetic.
+**Key insight:** 80% of chronic and autoimmune diseases linked to environmental factors - only 20% purely genetic.
 
 **Relevance to METHAP:** This validates the metabolomics approach for:
 - Early disease prediction
@@ -99,7 +99,7 @@ extraction-date: 2026-02-23
 
 ## Key Figures Referenced
 - **Σχήμα 1:** Omics cascade visualization (Genomics → Transcriptomics → Proteomics → Metabolomics)
-- Not extracted yet — needs diagram
+- Not extracted yet - needs diagram
 
 ---
 
@@ -122,9 +122,19 @@ extraction-date: 2026-02-23
 ---
 
 ## Zettels Created from This Source
-1. [[Systems_Biology_Integrative_Framework_Z-001-0001]] — Core definition
-2. [[Omics_Cascade_Genotype_Phenotype_Z-001-0002]] — Flow hierarchy
-3. [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003]] — Key statistic
+
+### Subsection 1 (Systems Biology & Metabolomics)
+1. [[Systems_Biology_Integrative_Framework_Z-001-0001]] - Core definition
+2. [[Omics_Cascade_Genotype_Phenotype_Z-001-0002]] - Flow hierarchy
+3. [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003]] - Key statistic
+
+### Subsection 2 (Other Omics Sciences)
+4. [[Genomics_Structure_Function_Genome_Z-001-0004]] - Genome structure/function
+5. [[Epigenomics_Gene_Regulation_Z-001-0005]] - Gene regulation mechanisms
+6. [[Transcriptomics_Transcriptome_Bridge_Z-001-0006]] - RNA as proteome precursor
+7. [[Proteomics_Protein_Structure_Function_Z-001-0007]] - Protein analysis
+8. [[Microbiomics_Gut_Metabolic_Organ_Z-001-0008]] - Gut microbiome metabolism
+9. [[Biomarkers_Precision_Medicine_Z-001-0009]] - Biomarker types & applications
 
 ---
 
@@ -144,25 +154,27 @@ extraction-date: 2026-02-23
 | Kohler et al. (2017) Eur J Pharm Sci | Integrating biomarkers & pharmacology | [[Kohler_etal_2017_Integrating_Metabolomics_Pharmacology_R-001-0005]] |
 
 ### To Be Created (Remaining Bibliography)
-- [ ] Beebe K et al. (2017) — Computational and Structural Biotechnology Journal
-- [ ] Chen R & Snyder M (2012) — Current Opinion in Pharmacology
-- [ ] Klassen A et al. (2017) — Advances in Experimental Medicine and Biology
-- [ ] Marchand CR et al. (2018) — Metabolites
-- [ ] Θεοδωρίδης Γ. (2015) — Greek textbook (Systems Biology & Omics)
+- [ ] Beebe K et al. (2017) - Computational and Structural Biotechnology Journal
+- [ ] Chen R & Snyder M (2012) - Current Opinion in Pharmacology
+- [ ] Klassen A et al. (2017) - Advances in Experimental Medicine and Biology
+- [ ] Marchand CR et al. (2018) - Metabolites
+- [ ] Θεοδωρίδης Γ. (2015) - Greek textbook (Systems Biology & Omics)
 
 ---
 
 ## Next Actions
-- [x] Extract Subsection 1 (Systems Biology & Metabolomics) — COMPLETE
-- [x] Identify and create reference hubs for cited works — 5 hubs created
-- [ ] Extract Subsection 2 (Other Omics Sciences) — Genomics, Transcriptomics, Proteomics, Epigenomics, Microbiomics
+- [x] Extract Subsection 1 (Systems Biology & Metabolomics) - COMPLETE (3 zettels)
+- [x] Extract Subsection 2 (Other Omics Sciences) - COMPLETE (6 zettels)
+- [x] Identify and create reference hubs for cited works - 5 hubs created
 - [ ] Create remaining reference hubs (5 more from bibliography)
 - [ ] Create synthesis document connecting to IR/VitD zettels
-- [x] Link to MOC-Metabolomics-Training — DONE
+- [x] Link to MOC-Metabolomics-Training - DONE
+- [ ] Review all 9 zettels for quality and cross-linking
+- [ ] Connect relevant zettels to existing IR/VitD knowledge graph
 
 ---
 
-*Literature note processed: 2026-02-23*  
-*Zettels extracted: 3*  
-*Reference hubs created: 5*  
+*Literature note processed: 2026-02-23*
+*Zettels extracted: 9 (Subsection 1: 3, Subsection 2: 6)*
+*Reference hubs created: 5*
 *Status: complete*

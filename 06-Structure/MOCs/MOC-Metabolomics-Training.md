@@ -17,7 +17,7 @@ version: 1.0
 
 | Part | Title | Status | LitNote |
 |------|-------|--------|---------|
-| ΔΕ 1 | Εισαγωγή στα Omics | 🟡 Processing | [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] |
+| ΔΕ 1 | Εισαγωγή στα Omics | ✅ Complete (9 zettels) | [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] |
 | ΔΕ 2 | *(Pending)* | ⚪ Not started | — |
 | ΔΕ 3 | *(Pending)* | ⚪ Not started | — |
 | ΔΕ 4 | *(Pending)* | ⚪ Not started | — |
@@ -35,14 +35,17 @@ version: 1.0
 | Z-001-0002 | [[Omics_Cascade_Genotype_Phenotype_Z-001-0002]] | ✅ Created | Genotype → Phenotype flow |
 | Z-001-0003 | [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003]] | ✅ Created | 80% environmental disease |
 
-### Next Zettels (From ΔΕ 1 Subsection 2)
-- [ ] Genomics — Technology & Applications
-- [ ] Transcriptomics — Technology & Applications
-- [ ] Proteomics — Technology & Applications
-- [ ] Metabolomics — Methods & Clinical Applications
-- [ ] Epigenomics — Overview
-- [ ] Pharmacogenomics — Drug Response
-- [ ] Microbiomics — Gut-Metabolome Axis
+### Subsection 2: Omics Technologies (All Created)
+| UID | Zettel | Status | Key Concept |
+|-----|--------|--------|-------------|
+| Z-001-0004 | [[Genomics_Structure_Function_Genome_Z-001-0004]] | ✅ Created | Genome structure, GWAS, pharmacogenomics |
+| Z-001-0005 | [[Epigenomics_Gene_Regulation_Z-001-0005]] | ✅ Created | DNA methylation, histone acetylation |
+| Z-001-0006 | [[Transcriptomics_Transcriptome_Bridge_Z-001-0006]] | ✅ Created | mRNA, gene expression |
+| Z-001-0007 | [[Proteomics_Protein_Structure_Function_Z-001-0007]] | ✅ Created | Proteins, enzymes, drug targets |
+| Z-001-0008 | [[Microbiomics_Gut_Metabolic_Organ_Z-001-0008]] | ✅ Created | Gut microbiome, dysbiosis, butyrate |
+| Z-001-0009 | [[Biomarkers_Precision_Medicine_Z-001-0009]] | ✅ Created | Biomarker types, precision medicine |
+
+**Total DE1 Part 1: 9 zettels** ✅
 
 ---
 

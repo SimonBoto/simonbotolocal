@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-References/01-References.md",
+                "file": "02-Literature/NKUA_2024_Basics_Metabolomics_DE1_L-001-0001.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01-References"
+              "title": "NKUA_2024_Basics_Metabolomics_DE1_L-001-0001"
             }
           }
         ]
@@ -209,15 +209,22 @@
   },
   "active": "7bdf8ee45b57b16b",
   "lastOpenFiles": [
-    "00-Inbox/ΔΕ 3. ΜΕΤΑΒΟΛΙΤΕΣ ΚΑΙ ΦΑΙΝΟΤΥΠΟΣ - ΤΑ ΠΛΕΟΝΕΚΤΗΜΑΤΑ ΤΗΣ ΜΕΤΑΒΟΛΟΜΙΚΗΣ ΣΤΗΝ ΚΛΙΝΙΚΗ ΠΡΑΞΗ.pdf",
-    "00-Inbox/ΔΕ 2. ΤΙ ΕΙΝΑΙ ΟΙ ΜΕΤΑΒΟΛΙΤΕΣ-ΣΤΟΙΧΕΙΩΔΕΙΣ ΓΝΩΣΕΙΣ ΒΙΟΧΗΜΕΙΑΣ.pdf",
-    "01-References/Hub/Kohler_etal_2017_Integrating_Metabolomics_Pharmacology_R-001-0005.md",
-    "01-References/Hub/Clish_2015_Metabolomics_Precision_Medicine_R-001-0004.md",
-    "01-References/Hub/Nicholson_2006_Global_Systems_Biology_R-001-0003.md",
     "01-References/Hub/Clayton_etal_2006_Pharmaco_Metabonomics_R-001-0002.md",
+    "01-References/Hub/Clish_2015_Metabolomics_Precision_Medicine_R-001-0004.md",
+    "01-References/Hub/Kohler_etal_2017_Integrating_Metabolomics_Pharmacology_R-001-0005.md",
+    "01-References/Hub/Nicholson_2006_Global_Systems_Biology_R-001-0003.md",
     "01-References/Hub/Patti_Yanes_Siuzdak_2012_Metabolomics_Apogee_R-001-0001.md",
-    "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 1. ΕΙΣΑΓΩΓΗ ΣΤΑ OMICS.pdf",
     "02-Literature/NKUA_2024_Basics_Metabolomics_DE1_L-001-0001.md",
+    "03-Zettels/Conscious/Biomarkers_Precision_Medicine_Z-001-0009.md",
+    "03-Zettels/Conscious/Microbiomics_Gut_Metabolic_Organ_Z-001-0008.md",
+    "03-Zettels/Conscious/Proteomics_Protein_Structure_Function_Z-001-0007.md",
+    "03-Zettels/Conscious/Transcriptomics_Transcriptome_Bridge_Z-001-0006.md",
+    "03-Zettels/Conscious/Epigenomics_Gene_Regulation_Z-001-0005.md",
+    "03-Zettels/Conscious/Genomics_Structure_Function_Genome_Z-001-0004.md",
+    "00-Inbox/ΔΕ 2. ΤΙ ΕΙΝΑΙ ΟΙ ΜΕΤΑΒΟΛΙΤΕΣ-ΣΤΟΙΧΕΙΩΔΕΙΣ ΓΝΩΣΕΙΣ ΒΙΟΧΗΜΕΙΑΣ.pdf",
+    "01-References/01-References.md",
+    "00-Inbox/ΔΕ 3. ΜΕΤΑΒΟΛΙΤΕΣ ΚΑΙ ΦΑΙΝΟΤΥΠΟΣ - ΤΑ ΠΛΕΟΝΕΚΤΗΜΑΤΑ ΤΗΣ ΜΕΤΑΒΟΛΟΜΙΚΗΣ ΣΤΗΝ ΚΛΙΝΙΚΗ ΠΡΑΞΗ.pdf",
+    "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 1. ΕΙΣΑΓΩΓΗ ΣΤΑ OMICS.pdf",
     "03-Zettels/Conscious/Insulin_Hormone_Structure_[Z-001-0002].md",
     "03-Zettels/Conscious/Systems_Biology_Definition_[Z-101-0001].md",
     "03-Zettels/Conscious/Insulin_Receptor_Structure_[Z-001-0001].md",
@@ -234,17 +241,10 @@
     "00-Inbox/ΔΕ 1. ΕΙΣΑΓΩΓΗ ΣΤΑ OMICS.pdf",
     "SAFETY.md",
     "08-Dashboards/sedvBJkGv",
-    "09-System/Architecture/OPTIMAL_LINKING_PLAN.md",
-    "06-Structure/Templates/06-Structure-Templates.md",
-    "06-Structure/MOCs/06-Structure-MOCs.md",
-    "05-Projects/Triangle/05-Projects-Triangle.md",
-    "03-Zettels/Subconscious/03-Zettels-Subconscious.md",
-    "03-Zettels/Conscious/03-Zettels-Conscious.md",
     "Untitled.base",
     "07-Archive/Logs/pre-migration-scan.sh",
     "07-Archive/Logs/fix-moc-links.sh",
     "07-Archive/Logs/fix-dashboard-links.sh",
-    "07-Archive/Logs/MIGRATION_LOCK_20260222-2049.txt",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]

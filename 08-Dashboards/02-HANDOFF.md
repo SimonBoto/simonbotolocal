@@ -38,34 +38,26 @@ extraction-date: 2026-02-23
 
 ---
 
-### 2. NKUA Course Part 1 Extraction — ✅ COMPLETE
+### 2. NKUA Course DE1 Part 1 — ✅ FULLY COMPLETE
 **Type:** Literature extraction pipeline (v4.1 workflow demonstration)  
-**Created:** 2026-02-23 21:15-21:30  
-**Scope:** Full v4.1 template application + reference extraction
+**Created:** 2026-02-23 21:15-21:40  
+**Scope:** Complete extraction of 2 subsections + references
 
 **Files Created:**
-| File | Location | UID | Template |
-|------|----------|-----|----------|
-| Literature Note | `02-Literature/` | L-001-0001 | LitNote_v1.0 |
-| Zettel 1 | `03-Zettels/Conscious/` | Z-001-0001 | Zettel_v2.0 |
-| Zettel 2 | `03-Zettels/Conscious/` | Z-001-0002 | Zettel_v2.0 |
-| Zettel 3 | `03-Zettels/Conscious/` | Z-001-0003 | Zettel_v2.0 |
-| MOC | `06-Structure/MOCs/` | — | MOC_v1.0 |
-| Reference Hub 1 | `01-References/Hub/` | R-001-0001 | Reference_v2.0 |
-| Reference Hub 2 | `01-References/Hub/` | R-001-0002 | Reference_v2.0 |
-| Reference Hub 3 | `01-References/Hub/` | R-001-0003 | Reference_v2.0 |
-| Reference Hub 4 | `01-References/Hub/` | R-001-0004 | Reference_v2.0 |
-| Reference Hub 5 | `01-References/Hub/` | R-001-0005 | Reference_v2.0 |
-| PDF Asset | `01-References/Assets/` | — | — |
+| Category | Count | Location | Details |
+|----------|-------|----------|---------|
+| Literature Note | 1 | `02-Literature/` | L-001-0001 (complete) |
+| Zettels | 9 | `03-Zettels/Conscious/` | Z-001-0001 through Z-001-0009 |
+| Reference Hubs | 5 | `01-References/Hub/` | R-001-0001 through R-001-0005 |
+| MOC | 1 | `06-Structure/MOCs/` | Navigation hub |
+| PDF Asset | 1 | `01-References/Assets/` | Course material |
 
-**Key References Extracted (10 total, 5 hubs created):**
-- Patti et al. (2012) Nature Reviews — Metabolomics as apogee of omics
-- Clayton et al. (2006) Nature — Pharmaco-metabonomics
-- Nicholson (2006) Mol Syst Biol — Systems biology framework
-- Clish (2015) — Clinical translation
-- Kohler et al. (2017) — Biomarker-pharmacology integration
+**Subsection 1 (3 zettels):** Systems Biology, Omics Cascade, Environmental Factors  
+**Subsection 2 (6 zettels):** Genomics, Epigenomics, Transcriptomics, Proteomics, Microbiomics, Biomarkers
 
-**Status:** ✅ COMPLETE — Ready for Part 2 or approval
+**Key References:** Patti et al. (Nature Reviews), Clayton et al. (Nature), Nicholson (Mol Syst Biol), Clish (Mol Case Studies), Kohler et al. (Eur J Pharm Sci)
+
+**Status:** ✅ COMPLETE — Workflow validated, ready to scale
 
 ---
 
