@@ -77,7 +77,7 @@ next-review: 2026-03-21
 
 ```dataview
 TABLE status, file.size AS "Size", last-reviewed AS "Last Review"
-FROM "55-MOCs"
+FROM "06-Structure/MOCs"
 WHERE type = "moc"
 SORT file.name ASC
 ```
@@ -93,8 +93,8 @@ SORT file.name ASC
 ## 🎯 By Research Goal
 
 ### "I'm working on my PhD"
-→ Start: [[MOC-PhD-Insulin-Resistance]]  
-→ Then: [[MOC-PhD-Biomarkers]], [[MOC-Hashimoto-Thyroiditis]]
+→ Start: [[MOC-Insulin-Signaling]]  
+→ Then: [[MOC-Biomarkers]], [[MOC-Hashimoto-Thyroiditis]]
 
 ### "I need clinical protocols"
 → Start: [[MOC-Clinical-Protocols]]  
@@ -123,14 +123,14 @@ SORT file.name ASC
 [[MOC-Nutrition]] → [[biomarkers-moc]] via micronutrient status
 
 ### PhD Research ↔ Clinical
-[[MOC-PhD-Insulin-Resistance]] → [[MOC-Clinical-Protocols]] via METHAP trial protocols
+[[MOC-Insulin-Signaling]] → [[MOC-Clinical-Protocols]] via METHAP trial protocols
 
 ---
 
 ## 🚀 MOC Development Status
 
 ### 🟢 Complete (High Quality)
-- [[MOC-PhD-Insulin-Resistance]] — Fully structured, active research
+- [[MOC-Insulin-Signaling]] — Fully structured, active research
 - [[MOC-Vitamin-Safety]] — Deep-dive with Dataview
 - [[MOC-Hashimoto-Thyroiditis]] — Comprehensive
 
@@ -178,7 +178,7 @@ SORT file.name ASC
 
 | Date | Change | MOC |
 |------|--------|-----|
-| 2026-02-21 | Merged update into main | [[MOC-PhD-Insulin-Resistance]] |
+| 2026-02-21 | Merged update into main | [[MOC-Insulin-Signaling]] |
 | 2026-02-21 | Deleted empty .md file | N/A |
 | 2026-02-21 | Fixed template links | All MOCs |
 | 2026-02-21 | Created this index | MOC_INDEX |
