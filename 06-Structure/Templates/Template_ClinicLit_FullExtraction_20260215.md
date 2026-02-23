@@ -7,7 +7,7 @@ url: {{SOURCE URL}}
 tags: [lit, clinic-source, {{KEYTOPICS e.g., thyroid, autoimmune, vitD}}]
 aliases: [{{SHORT_ALIASES}}]
 status: lit-full
-parent-moc: [[55-MOCs/Literature]] | [[55-MOCs/{{TOPIC1}}]] | [[55-MOCs/{{TOPIC2}}]]
+parent-moc: [[06-Structure/MOCs/MOC-Literature-Management]] | [[06-Structure/MOCs/MOC-{{TOPIC1}}]] | [[06-Structure/MOCs/MOC-{{TOPIC2}}]]
 confidence: high
 cited_refs: [{{REF1}}, {{REF2}}, ...]
 ---

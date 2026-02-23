@@ -4,7 +4,7 @@ type: daily-note
 title: Daily Note — {{date:YYYY-MM-DD dddd}}
 date: {{date:YYYY-MM-DD}}
 tags: [daily, journal, routine, {{date:YYYY-MM}}]
-parent-moc: [[03-Structure/Navigation/Daily_Triage]]
+parent-moc: [[08-Dashboards/DAILY_OPS]]
 ---
 
 # {{date:YYYY-MM-DD dddd}}

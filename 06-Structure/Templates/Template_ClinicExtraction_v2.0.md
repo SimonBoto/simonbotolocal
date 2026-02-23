@@ -4,8 +4,7 @@ tags: [#process #lit #extraction #clinic #ron]
 aliases: [Lit-Extraction-Clinic, Process_Clinic_Lit_Notes]
 confidence: high
 status: seed
-parent-moc: [[55-MOCs/Lit-Extraction]]
-confidence: high
+parent-moc: [[06-Structure/MOCs/MOC-Literature-Management]]
 ---
 
 # Lit Extraction Process: Clinic Sites (Optimized)

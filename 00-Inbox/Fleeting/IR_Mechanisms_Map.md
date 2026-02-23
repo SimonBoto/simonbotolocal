@@ -5,7 +5,7 @@ structure-type: causal-map
 title: IR Mechanisms Map — From Trigger to Disease
 tags: [ontology, mechanisms, insulin-resistance, pathways, causality]
 status: permanent
-parent-moc: [[03-Structure/Navigation/Start_Here]]
+parent-moc: [[06-Structure/MOCs/MOC-Insulin-Signaling]]
 ---
 
 # 🔗 IR Mechanisms Map

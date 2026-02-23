@@ -30,7 +30,7 @@ status: active
 - ⚠️ **"Fix These"** — Use markup: `++add++` `--remove--` `~~replace~~`
 
 ### Step 3: Integration (10 min)
-- Link new atomics to `06-Structure/MOCs/MOC-PhD-Insulin-Resistance`
+- Link new atomics to `06-Structure/MOCs/MOC-Insulin-Signaling`
 - Update Mission Control progress
 - Git commit: "Morning integration: X atomics linked"
 

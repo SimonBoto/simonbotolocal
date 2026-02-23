@@ -128,12 +128,12 @@ update-frequency: every-session
 
 **Review:**
 - [Inbox →](obsidian://open?vault=TheOptimizedBrain&file=00-Inbox)
-- [PhD Protocol →](obsidian://open?vault=TheOptimizedBrain&file=01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219)
-- [A-Z Index →](obsidian://open?vault=TheOptimizedBrain&file=03-Structure/Indexes/A-Z_Index)
+- [PhD Protocol →](obsidian://open?vault=TheOptimizedBrain&file=05-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219)
+- [MOC Index →](obsidian://open?vault=TheOptimizedBrain&file=06-Structure/MOCs/MOC-INDEX)
 
 **Execute:**
-- [Daily Triage →](obsidian://open?vault=TheOptimizedBrain&file=03-Structure/Navigation/Daily_Triage)
-- [Templates →](obsidian://open?vault=TheOptimizedBrain&file=11-Templates)
+- [Dashboards →](obsidian://open?vault=TheOptimizedBrain&file=08-Dashboards)
+- [Templates →](obsidian://open?vault=TheOptimizedBrain&file=06-Structure/Templates)
 - [MOCs →](obsidian://open?vault=TheOptimizedBrain&file=06-Structure/MOCs)
 
 ### RON Commands (Telegram)
@@ -159,8 +159,8 @@ update-frequency: every-session
 **Blockers:** None
 
 **Files:**
-- [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]] — Core
-- [[MOC-PhD-Insulin-Resistance]] — Navigation
+- [[05-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]] — Core
+- [[MOC-Insulin-Signaling]] — Navigation
 - [[06-Structure/MOCs/PhD-Biomarkers]] — Biomarkers sub-MOC
 
 ### IRB Protocol (P0)
@@ -169,7 +169,7 @@ update-frequency: every-session
 **Blockers:** None
 
 **Files:**
-- [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]] — Draft
+- [[05-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]] — Draft
 
 ### Template System (DONE ✅)
 **Status:** Complete  

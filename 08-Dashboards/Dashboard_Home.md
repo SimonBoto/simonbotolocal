@@ -79,9 +79,9 @@ Last updated: 2026-02-20
 **Vault:**
 - [[00-Inbox]] — Drop new sources here
 - [[02-Atomic]] — Main atomic notes
-- [[07-Archive/77-Archive/Refs-Legacy]] — Reference notes
+- [[01-References/Hub]] — Reference notes
 - [[06-Structure/MOCs/MOC-INDEX]] — 🗺️ **Master MOC Index** ⭐
-- [[06-Structure/MOCs/MOC-PhD-Insulin-Resistance]] — PhD navigation hub
+- [[06-Structure/MOCs/MOC-Insulin-Signaling]] — PhD navigation hub
 
 **External:**
 - Dashboard: http://localhost:4444

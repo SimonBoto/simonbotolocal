@@ -27,7 +27,7 @@ Last updated: 2026-02-20 19:31
 | **Knowledge** | 🟢 ~220 atomics | 128 refs, 9 templates v2.0 |
 | **Output** | 🟢 Clean | Git synced, dashboard live |
 
-**PARA Flow:** `00-Inbox → 02-Triage → 66-Literature/02-Atomic → 77-Archive`
+**PARA Flow:** `00-Inbox → 02-Triage → 03-Zettels/Conscious → 07-Archive`
 
 ---
 

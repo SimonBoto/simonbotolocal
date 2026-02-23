@@ -13,7 +13,7 @@
 | Document | Status | Key Insights |
 |----------|--------|--------------|
 | ZETTELKASTEN_PHILOSOPHY.md | ✅ Read | Luhmann's 90K cards, dual slip-box, 4 note types |
-| VAULT_OPTIMIZATION_PROPOSAL.md | ✅ Read | 04-Zettels/ strict atomicity, TechRefs |
+| VAULT_OPTIMIZATION_PROPOSAL.md | ✅ Read | 03-Zettels/ strict atomicity, Synthesis |
 | VAULT_REORGANIZATION_PLAN_v4.0.md | ✅ Read | 00-09 structure, conscious/subconscious flow |
 | PHASE1/2_EXECUTION_RUNBOOK.md | ✅ Created | Step-by-step migration guides |
 | Root organization | ✅ Executed | 16 files → 3 files in root |
@@ -196,18 +196,18 @@ Location options:
 **Evidence found:**
 ```html
 <!-- From dashboard/index.html -->
-<a href="obsidian://open?vault=TheOptimizedBrain&file=66-Literature/Refs">📚 References</a>
+<a href="obsidian://open?vault=TheOptimizedBrain&file=01-References/Hub">📚 References</a>
 ```
 
 **This link will BREAK after v4.0 migration because:**
-- `66-Literature/Refs/` → Moved to `77-Archive/Refs-Legacy/` (archived)
+- `01-References/Hub/` ← Current location for references
 - New references: `01-References/01a-Hub/`
 
 ### All Dashboard Files with Vault References
 
 | File | Vault References Found | Impact |
 |------|------------------------|--------|
-| `dashboard/index.html` | `66-Literature/Refs` | 🔴 BREAKS |
+| `dashboard/index.html` | `01-References/Hub` | 🔴 BREAKS |
 | `dashboard/about.html` | Unknown | 🟡 Check |
 | `dashboard/org.html` | Unknown | 🟡 Check |
 | `dashboard/forge.html` | Unknown | 🟡 Check |
@@ -219,7 +219,7 @@ Location options:
 1. **Update obsidian:// links:**
    ```html
    <!-- OLD -->
-   obsidian://open?vault=TheOptimizedBrain&file=66-Literature/Refs
+   obsidian://open?vault=TheOptimizedBrain&file=01-References/Hub
    
    <!-- NEW -->
    obsidian://open?vault=TheOptimizedBrain&file=01-References/01a-Hub
@@ -256,7 +256,7 @@ Location options:
 - `22-Dashboards/04-SYSTEM.md`
 
 **Check for:**
-- Hardcoded paths to `04-Zettels/`, `55-MOCs/`, `66-Literature/`
+- Hardcoded paths to `03-Zettels/`, `06-Structure/MOCs/`, `01-References/`
 - Links that would break post-migration
 
 ### Core Files to Update Post-Migration

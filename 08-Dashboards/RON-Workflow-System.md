@@ -108,7 +108,7 @@ Hub: "Create deep atomic on adipic mechanism"
 - Link to ≥2 existing atomics (incoming)
 - Link to ≥2 related atomics (outgoing)
 - Update parent MOC
-- Add to [[MOC-PhD-Insulin-Resistance]] if relevant
+- Add to [[MOC-Insulin-Signaling]] if relevant
 
 #### 5. Refinement (Brain)
 - Word count check: 300-800 words

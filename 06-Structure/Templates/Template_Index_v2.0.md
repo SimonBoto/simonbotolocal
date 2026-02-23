@@ -8,7 +8,7 @@ version: 2.1
 
 **Purpose:** Navigation hub, dashboard, or table of contents  
 **Target Length:** 300-600 words (plus Dataview queries)  
-**Output Location:** `08-Dashboards/` (for dashboards) or `06-Structure/MOCs/` (for MOCs)  
+**Output Location:** `08-Dashboards/` (for dashboards) or `06-Structure/MOCs/` (for MOCs) or `05-Projects/` (for project indexes)  
 **Status:** active → archived
 
 ---

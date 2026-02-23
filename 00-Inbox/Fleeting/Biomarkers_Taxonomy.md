@@ -5,7 +5,7 @@ structure-type: taxonomy
 title: Biomarkers Taxonomy — Classification & Hierarchy
 tags: [ontology, taxonomy, biomarkers, classification, structure]
 status: permanent
-parent-moc: [[03-Structure/Navigation/Start_Here]]
+parent-moc: [[06-Structure/MOCs/MOC-Biomarkers]]
 ---
 
 # 🧬 Biomarkers Taxonomy
