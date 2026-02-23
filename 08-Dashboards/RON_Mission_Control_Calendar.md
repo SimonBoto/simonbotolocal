@@ -4,7 +4,7 @@ type: index
 title: RON Mission Control Calendar
 aliases: [Mission_Control, RON_Calendar, Sprint_Planning]
 tags: [dashboard, calendar, mission-control, planning, phd]
-parent-moc: [[22-Dashboards/Dashboard_Home]]
+parent-moc: [[08-Dashboards/Dashboard_Home]]
 status: active
 confidence: high
 update-frequency: daily
@@ -162,10 +162,10 @@ Last updated: 2026-02-20 19:31
 | Resource | Link |
 |----------|------|
 | **🆕 Tools Dashboard** | [[RON_Tools_Dashboard]] |
-| **PhD Kanban** | [[22-Dashboards/PhD_Kanban]] |
-| **Atomic Audit** | [[22-Dashboards/PhD_Atomic_Audit_20260218]] |
+| **PhD Kanban** | [[08-Dashboards/PhD_Kanban]] |
+| **Atomic Audit** | [[08-Dashboards/PhD_Atomic_Audit_20260218]] |
 | **Template Index** | [[06-Structure/Templates/TEMPLATE_INDEX]] |
-| **Daily Notes** | [[22-Dashboards/Dashboard_Daily_Note]] |
+| **Daily Notes** | [[08-Dashboards/Dashboard_Daily_Note]] |
 | **MOC Hub** | [[55-MOCs/PhD_IR_MOC]] |
 
 ---

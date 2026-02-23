@@ -4,7 +4,7 @@ type: index
 title: RON Tools & MCP Dashboard
 aliases: [Tools_Dashboard, MCP_Status, Tool_Control]
 tags: [dashboard, tools, mcp, mcporter, status]
-parent-moc: [[22-Dashboards/RON_Mission_Control_Calendar]]
+parent-moc: [[08-Dashboards/RON_Mission_Control_Calendar]]
 status: active
 update-frequency: daily
 last-updated: 2026-02-20

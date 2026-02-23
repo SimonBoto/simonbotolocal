@@ -14,11 +14,11 @@
 |-----------|--------|----------|-------|
 | **4-Agent Fleet** | ✅ Active | `~/.openclaw/agents/` | RON, GROQ, FREE, PAID configured |
 | **API Keys** | ✅ Restored | `auth-profiles.json` | moonshot, groq, openrouter (free+paid) |
-| **Organogram** | ✅ Complete | `99-System/Triangle/ORGANOGRAM.md` | Full company blueprint |
-| **1-5 System** | ✅ Operational | `22-Dashboards/` | COMMAND, QUEUE, HANDOFF, LOG, SYSTEM |
-| **Intake System** | ✅ Ready | `22-Dashboards/00-INTAKE.md` | Unified input queue |
+| **Organogram** | ✅ Complete | `05-Projects/Triangle/ORGANOGRAM.md` | Full company blueprint |
+| **1-5 System** | ✅ Operational | `08-Dashboards/` | COMMAND, QUEUE, HANDOFF, LOG, SYSTEM |
+| **Intake System** | ✅ Ready | `08-Dashboards/00-INTAKE.md` | Unified input queue |
 | **Dashboards** | ✅ Live | `localhost:4444` | 4 pages: Mission Control, About, Organogram, Forge |
-| **Vault Cleanup** | ✅ Done | `77-Archive/` | Deprecated AIB, BotCompany archived |
+| **Vault Cleanup** | ✅ Done | `07-Archive/` | Deprecated AIB, BotCompany archived |
 | **Git** | ✅ Clean | `main` branch | All changes committed |
 
 ### Dashboard Pages (localhost:4444)

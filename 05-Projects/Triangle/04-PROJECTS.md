@@ -17,14 +17,14 @@
 ### 1. 10 GOLD References Extraction
 - **Lead:** RON → GROQ (parallel batches)
 - **Status:** 🟡 Planning
-- **Deliverable:** 10 high-quality reference notes in `66-Literature/Refs/`
+- **Deliverable:** 10 high-quality reference notes in `01-References/Hub/`
 - **Definition of Done:**
   - All 10 extracted using Template_Reference_v2.0
   - YAML frontmatter complete
   - Atomic notes spawned where needed
   - Committed to git
 - **Blockers:** None
-- **Dashboard:** [[01-QUEUE\|Queue]]
+- **Dashboard:** [[08-Dashboards/01-QUEUE\|Queue]]
 
 ### 2. IRB Protocol Section 1
 - **Lead:** RON
@@ -32,7 +32,7 @@
 - **Deliverable:** Completed Section 1 of PhD protocol
 - **Due:** Mar 1 (committee deadline)
 - **Blockers:** Waiting on cohort finalization
-- **File:** [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219\|Protocol]]
+- **File:** [[05-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219\|Protocol]]
 
 ---
 
@@ -69,8 +69,8 @@
 
 | Date | Project | Lead | Impact |
 |------|---------|------|--------|
-| Feb 20 | Template System v2.0 | RON | 9 active templates, 13 archived |
-| Feb 20 | 220 Atomics Migration | RON | Deleted 33-Atomic duplicates |
+| Feb 20 | Template System v2.0 | RON | 20 templates, ready to use |
+| Feb 22 | 220 Atomics Migration | RON | Migrated to v4.1 structure |
 | Feb 22 | 4-Agent Fleet | RON | RON + GROQ + FREE + PAID configured |
 | Feb 22 | API Key Recovery | RON | All providers restored |
 | Feb 22 | Triangle Company Structure | RON | This file, 99-System/Triangle/ |

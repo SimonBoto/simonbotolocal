@@ -4,7 +4,7 @@ type: index
 title: RON Review & Feedback System
 aliases: [Review_System, Feedback_Loop, Change_Review]
 tags: [system, review, feedback, quality-control, dashboard]
-parent-moc: [[22-Dashboards/RON_Mission_Control_Calendar]]
+parent-moc: [[08-Dashboards/RON_Mission_Control_Calendar]]
 status: active
 update-frequency: real-time
 last-updated: 2026-02-20

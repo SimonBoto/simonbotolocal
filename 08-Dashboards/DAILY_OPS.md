@@ -8,7 +8,7 @@
 
 ## 🎯 TODAY'S OBJECTIVES (From COMMAND.md)
 
-*No active COMMAND.md yet — create in 22-Dashboards/00-COMMAND.md*
+*No active COMMAND.md yet — create in 08-Dashboards/00-COMMAND.md*
 
 - [ ] Create 1-5 control notes system
 - [ ] Document existing work in PROJECT_INDEX
@@ -86,4 +86,4 @@ rm -rf ~/.openclaw/devices/* && openclaw gateway restart && sleep 3
 ---
 
 *This page auto-updates on heartbeat checks*  
-*Manual refresh: Check 22-Dashboards/ for latest*
+*Manual refresh: Check 08-Dashboards/ for latest*

@@ -25,7 +25,7 @@ Build OpenClaw skills and internal apps that:
 ## 📁 Department Structure
 
 ```
-01-Projects/AppProduction/
+05-Projects/AppProduction/
 ├── 00-INDEX.md                 ← You are here
 ├── 00-ROADMAP.md               ← Quarterly planning
 │

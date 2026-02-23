@@ -59,9 +59,9 @@
 
 **Files Updated:**
 - `99-System/DISASTER_RECOVERY.md` — Refined emergency procedures
-- `22-Dashboards/00-COMMAND.md` — P0/P1/P2 template
-- `22-Dashboards/01-QUEUE.md` — Status tracking template
-- `22-Dashboards/02-HANDOFF.md` — Approval workflow template
+- `08-Dashboards/00-COMMAND.md` — P0/P1/P2 template
+- `08-Dashboards/01-QUEUE.md` — Status tracking template
+- `08-Dashboards/02-HANDOFF.md` — Approval workflow template
 
 ---
 
@@ -114,8 +114,8 @@
 **When you start next session:**
 
 1. Read `99-System/Triangle/SESSION_HANDOFF.md`
-2. Check `22-Dashboards/00-COMMAND.md` for objectives
-3. Check `22-Dashboards/01-QUEUE.md` for current status
+2. Check `08-Dashboards/00-COMMAND.md` for objectives
+3. Check `08-Dashboards/01-QUEUE.md` for current status
 4. Open http://localhost:4444 (Mission Control)
 5. Execute or await instructions
 

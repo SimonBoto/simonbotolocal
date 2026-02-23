@@ -31,7 +31,7 @@
 **Phase 2 (03:00–06:00):** 30 SILVER refs  
 **Phase 3 (06:00–08:30):** 88 BRONZE refs  
 **Completion:** ~08:30 Saturday  
-**Review:** Saturday morning at `22-Dashboards/MORNING_REVIEW.md`
+**Review:** Saturday morning at `08-Dashboards/MORNING_REVIEW.md`
 
 ## ✅ AUTONOMY CLEARANCE
 
@@ -58,7 +58,7 @@
 ## 📋 REVIEW INSTRUCTIONS (For Simos)
 
 **Saturday morning:**
-1. Open `22-Dashboards/MORNING_REVIEW.md`
+1. Open `08-Dashboards/MORNING_REVIEW.md`
 2. Review GOLD tier (spot-check 3 refs)
 3. Batch approve SILVER tier
 4. Bulk approve BRONZE tier

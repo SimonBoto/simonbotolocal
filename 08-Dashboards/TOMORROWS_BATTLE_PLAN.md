@@ -3,7 +3,7 @@ uid: 20260220224300
 type: index
 title: TOMORROW'S BATTLE PLAN — Post-Midnight Audit & Roadmap
 tags: [plan, roadmap, audit, priorities, saturday]
-parent-moc: [[22-Dashboards/MORNING_REVIEW]]
+parent-moc: [[08-Dashboards/MORNING_REVIEW]]
 status: active
 ---
 
@@ -15,7 +15,7 @@ status: active
 ## 📊 PART 1: REVIEW TONIGHT'S WORK
 
 ### Step 1: Check Results (5 min)
-1. Open `22-Dashboards/MORNING_REVIEW.md`
+1. Open `08-Dashboards/MORNING_REVIEW.md`
 2. Verify 128 refs processed:
    - 🥇 10 GOLD refs → ~30-40 atomics
    - 🥈 30 SILVER refs → upgraded
@@ -199,13 +199,13 @@ status: active
 
 **If something breaks:**
 - Message me (RON) in Telegram (once fixed)
-- Or open `22-Dashboards/Dashboard_Home.md`
+- Or open `08-Dashboards/Dashboard_Home.md`
 - Or go to `http://localhost:4444`
 
 **Critical files:**
 - `00-MISSION.md` — Why we exist
-- `22-Dashboards/MORNING_REVIEW.md` — Tonight's results
-- `22-Dashboards/MIDNIGHT_PROTOCOL_AUTHORIZATION.md` — What was executed
+- `08-Dashboards/MORNING_REVIEW.md` — Tonight's results
+- `08-Dashboards/MIDNIGHT_PROTOCOL_AUTHORIZATION.md` — What was executed
 
 ---
 

@@ -23,14 +23,14 @@
 
 | Resource | Location | Purpose |
 |----------|----------|---------|
-| **[[04-PROJECTS\|Active Projects]]** | 99-System/Triangle/ | Current sprint, P0/P1/P2 |
-| **[[05-WORKFLOWS\|Workflows]]** | 99-System/Triangle/ | How we work, handoffs, approvals |
-| **[[SESSION_HANDOFF\|Session Handoff]]** | 99-System/Triangle/ | Continuity record, current state |
-| **[[99-GLOSSARY\|Glossary]]** | 99-System/ | Terms, aliases, shortcuts |
-| **[[COST_TRACKING\|Cost Tracking]]** | 99-System/ | Budget, spending, optimization |
-| **[[DISASTER_RECOVERY\|Disaster Recovery]]** | 99-System/ | Emergency procedures |
-| **[[UID_SYSTEM_v2.0\|UID System]]** | 99-System/ | Naming conventions |
-| **[[MISSION_CONTROL\|Mission Control]]** | 22-Dashboards/ | Daily operations dashboard |
+| **[[05-Projects/Triangle/04-PROJECTS\|Active Projects]]** | 05-Projects/Triangle/ | Current sprint, P0/P1/P2 |
+| **[[05-Projects/Triangle/05-WORKFLOWS\|Workflows]]** | 05-Projects/Triangle/ | How we work, handoffs, approvals |
+| **[[05-Projects/Triangle/SESSION_HANDOFF\|Session Handoff]]** | 05-Projects/Triangle/ | Continuity record, current state |
+| **[[09-System/99-GLOSSARY\|Glossary]]** | 09-System/ | Terms, aliases, shortcuts |
+| **[[09-System/COST_TRACKING\|Cost Tracking]]** | 09-System/ | Budget, spending, optimization |
+| **[[09-System/DISASTER_RECOVERY\|Disaster Recovery]]** | 09-System/ | Emergency procedures |
+| **[[09-System/UID_SYSTEM_v2.0\|UID System]]** | 09-System/ | Naming conventions |
+| **[[08-Dashboards/MISSION_CONTROL\|Mission Control]]** | 08-Dashboards/ | Daily operations dashboard |
 
 **Dashboard:** http://localhost:4444  
 **Forge:** http://localhost:4444/forge.html  
@@ -54,16 +54,17 @@
 
 **Active (Minimal):**
 ```
-99-System/
-├── Triangle/              ← Company HQ (8 files)
-├── _logs/                 ← Migration history
+09-System/
+├── Architecture/          ← Design docs (2 files)
 ├── 99-GLOSSARY.md         ← Terms & aliases
-├── COST_TRACKING.md       ← Budget monitor
+├── UID_SYSTEM_v2.0.md     ← Naming conventions
+├── USER_GUIDE_v4.1.md     ← How-to
 ├── DISASTER_RECOVERY.md   ← Emergency procedures
-└── UID_SYSTEM_v2.0.md     ← Naming conventions
+└── VAULT_STRUCTURE_v4.1.md ← Structure reference
 ```
 
-**Archived:** `77-Archive/99-System/` (superseded docs)
+**Company:** `05-Projects/Triangle/` (8 files)  
+**Archived:** `07-Archive/` (legacy storage)
 
 ---
 

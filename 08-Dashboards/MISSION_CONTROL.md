@@ -5,7 +5,7 @@ structure-type: mission-control
 title: 🦞 MISSION CONTROL — Master Dashboard
 tags: [dashboard, mission-control, master, hub, live, status]
 status: active
-parent-moc: [[22-Dashboards/Dashboard_Home]]
+parent-moc: [[08-Dashboards/Dashboard_Home]]
 aliases: [Control_Center, Master_Dashboard, Command_Central, Vault_Status]
 last-updated: {{date:YYYY-MM-DD HH:mm}}
 update-frequency: every-session

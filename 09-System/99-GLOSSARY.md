@@ -50,14 +50,14 @@
 
 | Alias | Full Path | Purpose |
 |-------|-----------|---------|
-| **COMMAND** | `22-Dashboards/00-COMMAND.md` | CEO objectives |
-| **QUEUE** | `22-Dashboards/01-QUEUE.md` | Current status |
-| **HANDOFF** | `22-Dashboards/02-HANDOFF.md` | Pending review |
-| **LOG** | `22-Dashboards/03-LOG.md` | Session record |
-| **SYSTEM** | `22-Dashboards/04-SYSTEM.md` | Tool status |
-| **INTAKE** | `22-Dashboards/00-INTAKE.md` | Unified input queue |
-| **ORGANOGRAM** | `99-System/Triangle/ORGANOGRAM.md` | Company blueprint |
-| **HANDOFF** | `99-System/Triangle/SESSION_HANDOFF.md` | Continuity record |
+| **COMMAND** | `08-Dashboards/00-COMMAND.md` | CEO objectives |
+| **QUEUE** | `08-Dashboards/01-QUEUE.md` | Current status |
+| **HANDOFF** | `08-Dashboards/02-HANDOFF.md` | Pending review |
+| **LOG** | `08-Dashboards/03-LOG.md` | Session record |
+| **SYSTEM** | `08-Dashboards/04-SYSTEM.md` | Tool status |
+| **INTAKE** | `08-Dashboards/00-INTAKE.md` | Unified input queue |
+| **ORGANOGRAM** | `05-Projects/Triangle/ORGANOGRAM.md` | Company blueprint |
+| **HANDOFF** | `05-Projects/Triangle/SESSION_HANDOFF.md` | Continuity record |
 
 ---
 
@@ -92,10 +92,10 @@ openclaw agent --agent paid --message "Critical review"
 | Shortcut | Full Path | Purpose |
 |----------|-----------|---------|
 | **Vault** | `~/Workspaces/TheOptimizedBrain/` | Main knowledge base |
-| **Triangle** | `99-System/Triangle/` | Company HQ |
+| **Triangle** | `05-Projects/Triangle/` | Company HQ |
 | **Inbox** | `00-Inbox/` | New sources drop |
-| **Atomics** | `02-Atomic/` | Processed notes |
-| **Refs** | `66-Literature/Refs/` | Reference library |
+| **Zettels** | `03-Zettels/Conscious/` | Atomic notes |
+| **Refs** | `01-References/Hub/` | Reference library |
 | **Dashboard** | `~/.openclaw/workspace/dashboard/` | HTML files |
 
 ---
