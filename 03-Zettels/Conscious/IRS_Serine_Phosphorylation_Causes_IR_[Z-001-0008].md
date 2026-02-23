@@ -1,16 +1,19 @@
 ---
-uid: 202602221008
-type: zettel
+uid: Z-001-0008
+type: zettel-claim
 status: conscious
 title: IRS Serine Phosphorylation Causes Insulin Resistance
-aliases: [Z_CLAIM_IRS_SerinePhos_IR]
+aliases: [Z-001-0008, IRS_Serine_Phosphorylation_IR, SerinePhos_IR]
+domain: 001
+domain-name: Insulin-Signaling
 tags: [zettel, claim, insulin-resistance, mechanism, serine, inflammation]
 parent-moc: [[MOC-Metabolic-Syndrome]]
 source: [[Ref_Cell_IR_Mechanisms_2012]]
 confidence: high
+created: 2026-02-22
 ---
 
-# Z_CLAIM: Serine Phosphorylation → IR
+# IRS Serine Phosphorylation Causes Insulin Resistance
 
 **Claim:** Excessive serine phosphorylation of IRS proteins (particularly IRS-1 at Ser-307/312) is a primary molecular mechanism of insulin resistance.
 
@@ -30,12 +33,8 @@ confidence: high
 
 ## Links
 
-- **Mechanism:** [[Z_IRS_RECRUITMENT_005]] — Normal function
-- **Cause:** [[Z_JNK_Activation_Inflammation_009]] — Upstream activator
-- **Consequence:** [[Z_Akt_Impaired_Glucose_Uptake_010]] — Downstream effect
+- **Mechanism:** [[IRS_Protein_Recruitment_[Z-001-0005]]] — Normal function
 
 ## Context
 
 **Also in:** [[MOC-Metabolic-Syndrome]]
-
-**Challenges:** [[Z_Q_IRS_Serine_Kinase_Specificity_011]] — Which kinase when?

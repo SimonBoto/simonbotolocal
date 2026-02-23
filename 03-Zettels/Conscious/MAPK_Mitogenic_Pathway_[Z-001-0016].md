@@ -1,16 +1,19 @@
 ---
-uid: 202602221016
-type: zettel
+uid: Z-001-0016
+type: zettel-mech
 status: conscious
 title: MAPK Pathway for Mitogenic Signaling
-aliases: [Z_MAPK, Z_Ras_MAPK, Z_Mitogenic_Pathway]
+aliases: [Z-001-0016, MAPK, Ras_MAPK, Mitogenic_Pathway]
+domain: 001
+domain-name: Insulin-Signaling
 tags: [zettel, mechanism, MAPK, Ras, mitogenic, growth]
 parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: high
+created: 2026-02-22
 ---
 
-# Z_MECH: MAPK Pathway for Mitogenic Signaling
+# MAPK Pathway for Mitogenic Signaling
 
 Insulin activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
 
@@ -35,9 +38,8 @@ Insulin activates the Ras/MAPK pathway for mitogenic (growth) responses, distinc
 
 ## Links
 
-- **Upstream:** [[Z_INSR_STRUCTURE_001]] — Receptor source
-- **Parallel:** [[Z_MECH_PI3K_ACTIVATION_007]] — Metabolic pathway
-- **Disease:** [[Z_INSULIN_Mitogenic_Cancer_035]] — Growth dysregulation (not yet created)
+- **Upstream:** [[Insulin_Receptor_Structure_[Z-001-0001]]] — Receptor source
+- **Parallel:** [[PI3K_Activation_Mechanism_[Z-001-0007]]] — Metabolic pathway
 
 ## Context
 

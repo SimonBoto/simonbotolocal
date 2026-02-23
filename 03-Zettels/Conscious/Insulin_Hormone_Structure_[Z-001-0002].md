@@ -1,16 +1,19 @@
 ---
-uid: 202602221002
-type: zettel
+uid: Z-001-0002
+type: zettel-mech
 status: conscious
 title: Insulin Hormone Structure
-aliases: [Z_Insulin, Z_Insulin_Peptide]
+aliases: [Z-001-0002, Insulin, Insulin_Peptide]
+domain: 001
+domain-name: Insulin-Signaling
 tags: [zettel, insulin, hormone, peptide, structure]
 parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: high
+created: 2026-02-22
 ---
 
-# Z: Insulin Hormone Structure
+# Insulin Hormone Structure
 
 Insulin is a 51-amino acid peptide hormone secreted by pancreatic β-cells in response to elevated blood glucose.
 
@@ -29,12 +32,8 @@ Insulin is a 51-amino acid peptide hormone secreted by pancreatic β-cells in re
 
 ## Links
 
-- **Downstream:** [[Z_INSR_STRUCTURE_001]] — Receptor binding
-- **Disease:** [[Z_Proinsulin_Misfolding_MODY_019]] — Mutations (not yet created)
-- **Therapeutic:** [[Z_Insulin_Analogs_PK_020]] — Modified insulins (not yet created)
+- **Downstream:** [[Insulin_Receptor_Structure_[Z-001-0001]]] — Receptor binding
 
 ## Context
 
 **Also in:** [[MOC-Insulin-Signaling]]
-
-**Supports:** [[BIOMARKER_Insulin_CPeptide_Assays_021]] (not yet created)

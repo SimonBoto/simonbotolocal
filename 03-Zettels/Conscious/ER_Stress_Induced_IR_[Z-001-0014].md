@@ -1,16 +1,19 @@
 ---
-uid: 202602221014
-type: zettel
+uid: Z-001-0014
+type: zettel-mech
 status: conscious
 title: ER Stress and Insulin Resistance
-aliases: [Z_ER_Stress, Z_UPR_IR]
+aliases: [Z-001-0014, ER_Stress, UPR_IR]
+domain: 001
+domain-name: Insulin-Signaling
 tags: [zettel, mechanism, ER-stress, UPR, inflammation, IR]
 parent-moc: [[MOC-Metabolic-Syndrome]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: high
+created: 2026-02-22
 ---
 
-# Z_MECH: ER Stress → Insulin Resistance
+# ER Stress and Insulin Resistance
 
 Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR), which induces insulin resistance through JNK activation.
 
@@ -34,9 +37,8 @@ Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR),
 
 ## Links
 
-- **Mechanism:** [[Z_CLAIM_IRS_SERINEPHOS_IR_008]] — JNK → IRS serine-P
-- **Parallel:** [[Z_LIPOTOXICITY_CERAMIDE_IR_013]] — Nutrient excess mechanism
-- **Therapeutic:** [[Z_Chemical_Chaperones_IR_033]] — ER stress reducers (not yet created)
+- **Mechanism:** [[IRS_Serine_Phosphorylation_Causes_IR_[Z-001-0008]]] — JNK → IRS serine-P
+- **Parallel:** [[Lipotoxicity_Ceramide_Induced_IR_[Z-001-0013]]] — Nutrient excess mechanism
 
 ## Context
 

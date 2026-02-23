@@ -1,16 +1,19 @@
 ---
-uid: 202602221001
-type: zettel
+uid: Z-001-0001
+type: zettel-mech
 status: conscious
 title: Insulin Receptor Structure
-aliases: [Z_INSR, Z_Insulin_Receptor]
+aliases: [Z-001-0001, INSR, Insulin_Receptor]
+domain: 001
+domain-name: Insulin-Signaling
 tags: [zettel, insulin, receptor, structure, membrane, tyrosine-kinase]
 parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: high
+created: 2026-02-22
 ---
 
-# Z: Insulin Receptor Structure
+# Insulin Receptor Structure
 
 The insulin receptor (INSR) is a tetrameric receptor tyrosine kinase expressed on plasma membranes of metabolically active tissues (muscle, adipose, liver).
 
@@ -26,12 +29,12 @@ The insulin receptor (INSR) is a tetrameric receptor tyrosine kinase expressed o
 
 ## Links
 
-- **Upstream:** [[Z_Insulin_Hormone_Structure_002]] — The ligand
-- **Mechanism:** [[Z_INSR_Autophosphorylation_003]] — Activation cascade  
-- **Disease:** [[Z_INSR_Mutations_Donohue_004]] — When structure fails
+- **Upstream:** [[Insulin_Hormone_Structure_[Z-001-0002]]] — The ligand
+- **Mechanism:** [[INSR_Autophosphorylation_Mechanism_[Z-001-0003]]] — Activation cascade  
+- **Disease:** [[INSR_Mutations_Donohue_Syndrome_[Z-001-0004]]] — When structure fails
 
 ## Context
 
 **Also in:** [[MOC-Insulin-Signaling]]
 
-**Supports:** [[ATOMIC_Metabolism_IR_Pathways_20260219_001]]
+**Supports:** Synthesis documents on IR pathways

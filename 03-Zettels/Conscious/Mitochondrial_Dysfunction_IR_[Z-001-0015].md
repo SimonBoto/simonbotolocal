@@ -1,16 +1,19 @@
 ---
-uid: 202602221015
-type: zettel
+uid: Z-001-0015
+type: zettel-mech
 status: conscious
 title: Mitochondrial Dysfunction and Insulin Resistance
-aliases: [Z_Mitochondrial_Dysfunction, Z_Mito_IR]
+aliases: [Z-001-0015, Mitochondrial_Dysfunction, Mito_IR]
+domain: 001
+domain-name: Insulin-Signaling
 tags: [zettel, mechanism, mitochondria, dysfunction, oxidative, IR]
 parent-moc: [[MOC-Metabolic-Syndrome]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: medium
+created: 2026-02-22
 ---
 
-# Z_MECH: Mitochondrial Dysfunction → IR
+# Mitochondrial Dysfunction and Insulin Resistance
 
 Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid intermediates, contributing to insulin resistance.
 
@@ -37,9 +40,8 @@ Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid inte
 
 ## Links
 
-- **Mechanism:** [[Z_LIPOTOXICITY_CERAMIDE_IR_013]] — Lipid intermediate accumulation
-- **Parallel:** [[Z_ER_STRESS_IR_014]] — Cellular stress convergence
-- **Therapeutic:** [[Z_Exercise_Mitochondrial_Biogenesis_034]] — Intervention (not yet created)
+- **Mechanism:** [[Lipotoxicity_Ceramide_Induced_IR_[Z-001-0013]]] — Lipid intermediate accumulation
+- **Parallel:** [[ER_Stress_Induced_IR_[Z-001-0014]]] — Cellular stress convergence
 
 ## Context
 

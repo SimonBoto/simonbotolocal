@@ -1,16 +1,19 @@
 ---
-uid: 202602221003
-type: zettel
+uid: Z-001-0003
+type: zettel-mech
 status: conscious
 title: INSR Autophosphorylation Mechanism
-aliases: [Z_INSR_Autophosphorylation, Z_INSR_Activation]
+aliases: [Z-001-0003, INSR_Autophosphorylation, INSR_Activation]
+domain: 001
+domain-name: Insulin-Signaling
 tags: [zettel, mechanism, insulin, phosphorylation, activation, kinase]
 parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_GutierrezRodelo_IR_Mechanisms_2017]]
 confidence: high
+created: 2026-02-22
 ---
 
-# Z_MECH: INSR Autophosphorylation
+# INSR Autophosphorylation Mechanism
 
 Insulin binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
 
@@ -25,9 +28,8 @@ Insulin binding triggers a conformational change that activates the β subunit t
 
 ## Links
 
-- **Prerequisite:** [[Z_INSR_STRUCTURE_001]] — Receptor architecture
-- **Downstream:** [[Z_IRS_Recruitment_005]] — Adapter binding
-- **Contrast:** [[Z_INSR_Resistance_SerinePhos_006]] — When activation fails
+- **Prerequisite:** [[Insulin_Receptor_Structure_[Z-001-0001]]] — Receptor architecture
+- **Downstream:** [[IRS_Protein_Recruitment_[Z-001-0005]]] — Adapter binding
 
 ## Context
 

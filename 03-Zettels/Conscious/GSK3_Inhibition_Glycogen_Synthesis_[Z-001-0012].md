@@ -1,16 +1,19 @@
 ---
-uid: 202602221012
-type: zettel
+uid: Z-001-0012
+type: zettel-mech
 status: conscious
 title: GSK3 Inhibition and Glycogen Synthesis
-aliases: [Z_GSK3, Z_Glycogen_Synthesis]
+aliases: [Z-001-0012, GSK3, Glycogen_Synthesis]
+domain: 001
+domain-name: Insulin-Signaling
 tags: [zettel, mechanism, GSK3, glycogen, liver, insulin]
 parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: high
+created: 2026-02-22
 ---
 
-# Z_MECH: GSK3 Inhibition → Glycogen Synthesis
+# GSK3 Inhibition and Glycogen Synthesis
 
 Insulin promotes hepatic glycogen synthesis by inhibiting GSK3, relieving its suppression of glycogen synthase.
 
@@ -33,9 +36,7 @@ Insulin promotes hepatic glycogen synthesis by inhibiting GSK3, relieving its su
 
 ## Links
 
-- **Upstream:** [[Z_AKT_SUBSTRATE_PHOS_010]] — Akt activation
-- **Opposing:** [[Z_GLUCAGON_GSK3_ACTIVATION_029]] — Counter-regulation (not yet created)
-- **Disease:** [[Z_CLAIM_GSK3_Hyperactivity_Diabetes_030]] — Hepatic IR mechanism (not yet created)
+- **Upstream:** [[Akt_Substrate_Phosphorylation_[Z-001-0010]]] — Akt activation
 
 ## Context
 

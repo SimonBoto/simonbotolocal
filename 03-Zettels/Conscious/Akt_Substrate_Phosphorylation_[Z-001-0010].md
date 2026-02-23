@@ -1,16 +1,19 @@
 ---
-uid: 202602221010
-type: zettel
+uid: Z-001-0010
+type: zettel-mech
 status: conscious
 title: Akt Substrate Phosphorylation
-aliases: [Z_Akt_Substrates, Z_Akt_Phosphorylation]
+aliases: [Z-001-0010, Akt_Substrates, Akt_Phosphorylation]
+domain: 001
+domain-name: Insulin-Signaling
 tags: [zettel, mechanism, Akt, substrate, phosphorylation, effector]
 parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Cell_IR_Mechanisms_2012]]
 confidence: high
+created: 2026-02-22
 ---
 
-# Z_MECH: Akt Substrate Phosphorylation
+# Akt Substrate Phosphorylation
 
 Fully activated Akt phosphorylates multiple substrates to execute insulin's metabolic effects.
 
@@ -32,9 +35,9 @@ Fully activated Akt phosphorylates multiple substrates to execute insulin's meta
 
 ## Links
 
-- **Upstream:** [[Z_AKT_RECRUITMENT_PIP3_009]] — Akt activation
-- **Downstream:** [[Z_GLUT4_TRANSLOCATION_011]] — AS160 mechanism
-- **Pathway:** [[Z_GSK3_INHIBITION_GLYCOGEN_012]] — Glycogen synthesis
+- **Upstream:** [[Akt_Recruitment_by_PIP3_[Z-001-0009]]] — Akt activation
+- **Downstream:** [[GLUT4_Vesicle_Translocation_[Z-001-0011]]] — AS160 mechanism
+- **Pathway:** [[GSK3_Inhibition_Glycogen_Synthesis_[Z-001-0012]]] — Glycogen synthesis
 
 ## Context
 

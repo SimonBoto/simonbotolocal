@@ -1,16 +1,19 @@
 ---
-uid: 202602221006
-type: zettel
+uid: Z-001-0006
+type: zettel-cont
 status: conscious
 title: IRS-1 vs IRS-2 Tissue Distribution
-aliases: [Z_IRS1_IRS2_Comparison]
+aliases: [Z-001-0006, IRS1_IRS2_Comparison]
+domain: 001
+domain-name: Insulin-Signaling
 tags: [zettel, insulin, IRS, tissue, comparison, distribution]
 parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: high
+created: 2026-02-22
 ---
 
-# Z_CONT: IRS-1 vs IRS-2
+# IRS-1 vs IRS-2 Tissue Distribution
 
 IRS-1 and IRS-2 are the primary insulin receptor substrates with distinct tissue distributions and metabolic functions.
 
@@ -31,9 +34,7 @@ IRS-1 and IRS-2 are the primary insulin receptor substrates with distinct tissue
 
 ## Links
 
-- **Upstream:** [[Z_IRS_RECRUITMENT_005]] — Shared mechanism
-- **Disease:** [[Z_IRS2_Haploinsufficiency_023]] — Type 2 diabetes risk (not yet created)
-- **Signaling:** [[Z_FOXO1_Regulation_Gluconeogenesis_024]] — IRS-2 specific (not yet created)
+- **Upstream:** [[IRS_Protein_Recruitment_[Z-001-0005]]] — Shared mechanism
 
 ## Context
 

@@ -1,16 +1,19 @@
 ---
-uid: 202602221007
-type: zettel
+uid: Z-001-0007
+type: zettel-mech
 status: conscious
 title: PI3K Activation Mechanism
-aliases: [Z_PI3K, Z_PI3K_Activation]
+aliases: [Z-001-0007, PI3K, PI3K_Activation]
+domain: 001
+domain-name: Insulin-Signaling
 tags: [zettel, mechanism, PI3K, lipid, kinase, PIP3]
 parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_GutierrezRodelo_IR_Mechanisms_2017]]
 confidence: high
+created: 2026-02-22
 ---
 
-# Z_MECH: PI3K Activation
+# PI3K Activation Mechanism
 
 Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the second messenger PIP3.
 
@@ -30,9 +33,8 @@ Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the sec
 
 ## Links
 
-- **Upstream:** [[Z_IRS_RECRUITMENT_005]] — Adapter docking
-- **Downstream:** [[Z_Akt_Recruitment_PIP3_009]] — Second messenger function
-- **Disease:** [[Z_CLAIM_PI3K_Inhibition_IR_025]] — Drug-induced IR (not yet created)
+- **Upstream:** [[IRS_Protein_Recruitment_[Z-001-0005]]] — Adapter docking
+- **Downstream:** [[Akt_Recruitment_by_PIP3_[Z-001-0009]]] — Second messenger function
 
 ## Context
 

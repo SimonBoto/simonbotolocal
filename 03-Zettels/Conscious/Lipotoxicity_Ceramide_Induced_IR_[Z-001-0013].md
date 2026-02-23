@@ -1,16 +1,19 @@
 ---
-uid: 202602221013
-type: zettel
+uid: Z-001-0013
+type: zettel-mech
 status: conscious
 title: Lipotoxicity and Ceramide-Induced IR
-aliases: [Z_Lipotoxicity, Z_Ceramide_IR]
+aliases: [Z-001-0013, Lipotoxicity, Ceramide_IR]
+domain: 001
+domain-name: Insulin-Signaling
 tags: [zettel, mechanism, lipotoxicity, ceramide, fatty-acids, IR]
 parent-moc: [[MOC-Metabolic-Syndrome]]
 source: [[Ref_Cell_IR_Mechanisms_2012]]
 confidence: high
+created: 2026-02-22
 ---
 
-# Z_MECH: Lipotoxicity → Ceramide → IR
+# Lipotoxicity and Ceramide-Induced IR
 
 Excess free fatty acids cause insulin resistance through ceramide generation, disrupting insulin signaling at multiple nodes.
 
@@ -33,9 +36,7 @@ Excess free fatty acids cause insulin resistance through ceramide generation, di
 
 ## Links
 
-- **Upstream:** [[Z_CLAIM_FFA_Inflammation_JNK_031]] — FFA entry point (not yet created)
-- **Parallel:** [[Z_CLAIM_IRS_SERINEPHOS_IR_008]] — Serine phosphorylation mechanism
-- **Consequence:** [[Z_AKT_IMPAIRED_GLUCOSE_UPTAKE_032]] — Downstream effect (not yet created)
+- **Parallel:** [[IRS_Serine_Phosphorylation_Causes_IR_[Z-001-0008]]] — Serine phosphorylation mechanism
 
 ## Context
 

@@ -1,16 +1,19 @@
 ---
-uid: 202602221017
-type: zettel
+uid: Z-001-0017
+type: zettel-mech
 status: conscious
 title: Cbl-CAP Pathway and Lipid Raft Signaling
-aliases: [Z_Cbl_CAP, Z_Lipid_Raft, Z_Alternative_Pathway]
+aliases: [Z-001-0017, Cbl_CAP, Lipid_Raft, Alternative_Pathway]
+domain: 001
+domain-name: Insulin-Signaling
 tags: [zettel, mechanism, Cbl, CAP, caveolin, alternative]
 parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: medium
+created: 2026-02-22
 ---
 
-# Z_MECH: Cbl-CAP Lipid Raft Pathway
+# Cbl-CAP Pathway and Lipid Raft Signaling
 
 An alternative insulin signaling pathway involves Cbl-CAP complex and lipid raft localization, independent of IRS-PI3K.
 
@@ -35,9 +38,8 @@ An alternative insulin signaling pathway involves Cbl-CAP complex and lipid raft
 
 ## Links
 
-- **Upstream:** [[Z_INSR_STRUCTURE_001]] — Receptor activation
-- **Parallel:** [[Z_GLUT4_TRANSLOCATION_011]] — Canonical GLUT4 mechanism
-- **Structure:** [[Z_Caveolin_Lipid_Rafts_036]] — Membrane microdomains (not yet created)
+- **Upstream:** [[Insulin_Receptor_Structure_[Z-001-0001]]] — Receptor activation
+- **Parallel:** [[GLUT4_Vesicle_Translocation_[Z-001-0011]]] — Canonical GLUT4 mechanism
 
 ## Context
 

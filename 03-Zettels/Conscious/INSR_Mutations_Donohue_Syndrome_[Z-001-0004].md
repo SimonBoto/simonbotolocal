@@ -1,16 +1,19 @@
 ---
-uid: 202602221004
-type: zettel
+uid: Z-001-0004
+type: zettel-mech
 status: conscious
 title: INSR Mutations and Donohue Syndrome
-aliases: [Z_INSR_Mutations, Z_Donohue_Syndrome]
+aliases: [Z-001-0004, INSR_Mutations, Donohue_Syndrome]
+domain: 001
+domain-name: Insulin-Signaling
 tags: [zettel, insulin, receptor, mutation, disease, leprechaunism]
 parent-moc: [[MOC-Metabolic-Syndrome]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: high
+created: 2026-02-22
 ---
 
-# Z: INSR Mutations Cause Severe IR
+# INSR Mutations Cause Severe IR
 
 Mutations in the insulin receptor gene cause extreme insulin resistance syndromes, revealing the critical role of INSR in metabolism.
 
@@ -32,9 +35,8 @@ Mutations in the insulin receptor gene cause extreme insulin resistance syndrome
 
 ## Links
 
-- **Mechanism:** [[Z_MECH_INSR_AUTOPHOS_003]] — What's broken
-- **Contrast:** [[Z_INSR_STRUCTURE_001]] — Normal function
-- **Therapeutic:** [[Z_IGF1_Therapy_Donohue_022]] — Experimental rescue (not yet created)
+- **Mechanism:** [[INSR_Autophosphorylation_Mechanism_[Z-001-0003]]] — What's broken
+- **Contrast:** [[Insulin_Receptor_Structure_[Z-001-0001]]] — Normal function
 
 ## Context
 

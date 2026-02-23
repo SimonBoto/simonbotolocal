@@ -1,16 +1,19 @@
 ---
-uid: 202602221011
-type: zettel
+uid: Z-001-0011
+type: zettel-mech
 status: conscious
 title: GLUT4 Vesicle Translocation
-aliases: [Z_GLUT4, Z_GLUT4_Translocation]
+aliases: [Z-001-0011, GLUT4, GLUT4_Translocation]
+domain: 001
+domain-name: Insulin-Signaling
 tags: [zettel, mechanism, GLUT4, glucose, transport, vesicle]
 parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Cell_IR_Mechanisms_2012]]
 confidence: high
+created: 2026-02-22
 ---
 
-# Z_MECH: GLUT4 Translocation
+# GLUT4 Vesicle Translocation
 
 Insulin stimulates glucose uptake by triggering GLUT4 vesicle translocation to the plasma membrane in muscle and adipose tissue.
 
@@ -32,9 +35,7 @@ Insulin stimulates glucose uptake by triggering GLUT4 vesicle translocation to t
 
 ## Links
 
-- **Upstream:** [[Z_AKT_SUBSTRATE_PHOS_010]] — AS160 phosphorylation
-- **Function:** [[Z_GLUCOSE_TRANSPORT_KINETICS_027]] — Transport mechanics (not yet created)
-- **Disease:** [[Z_CLAIM_GLUT4_Reduction_T2D_028]] — Diabetes mechanism (not yet created)
+- **Upstream:** [[Akt_Substrate_Phosphorylation_[Z-001-0010]]] — AS160 phosphorylation
 
 ## Context
 

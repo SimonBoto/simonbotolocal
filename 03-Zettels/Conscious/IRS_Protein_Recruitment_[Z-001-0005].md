@@ -1,16 +1,19 @@
 ---
-uid: 202602221005
-type: zettel
+uid: Z-001-0005
+type: zettel-mech
 status: conscious
 title: IRS Protein Recruitment
-aliases: [Z_IRS, Z_IRS_Recruitment]
+aliases: [Z-001-0005, IRS, IRS_Recruitment]
+domain: 001
+domain-name: Insulin-Signaling
 tags: [zettel, insulin, IRS, adapter, PI3K, signaling]
 parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: high
+created: 2026-02-22
 ---
 
-# Z: IRS Recruitment to Activated INSR
+# IRS Recruitment to Activated INSR
 
 IRS proteins (Insulin Receptor Substrates) are cytosolic adapter proteins that bridge activated INSR to downstream PI3K signaling.
 
@@ -27,12 +30,10 @@ IRS proteins (Insulin Receptor Substrates) are cytosolic adapter proteins that b
 
 ## Links
 
-- **Upstream:** [[Z_MECH_INSR_AUTOPHOS_003]] — INSR activation
-- **Downstream:** [[Z_PI3K_Activation_007]] — Lipid kinase activation
-- **Disease:** [[Z_CLAIM_IRS_SerinePhos_IR_008]] — When recruitment fails
+- **Upstream:** [[INSR_Autophosphorylation_Mechanism_[Z-001-0003]]] — INSR activation
+- **Downstream:** [[PI3K_Activation_Mechanism_[Z-001-0007]]] — Lipid kinase activation
+- **Disease:** [[IRS_Serine_Phosphorylation_Causes_IR_[Z-001-0008]]] — When recruitment fails
 
 ## Context
 
 **Also in:** [[MOC-Insulin-Signaling]]
-
-**Supports:** [[BIOMARKER_Adipic_IR_Cutoffs_20260215_004]]
