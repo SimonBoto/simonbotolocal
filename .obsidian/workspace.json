@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Structure/MOCs/MOC-Cholesterol-Quality.md",
+                "file": "10-Daily/2026/2026-02-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC-Cholesterol-Quality"
+              "title": "2026-02-23"
             }
           }
         ]
@@ -209,12 +209,13 @@
   },
   "active": "7bdf8ee45b57b16b",
   "lastOpenFiles": [
+    "06-Structure/MOCs/MOC-Cholesterol-Quality.md",
+    "10-Daily/2026/2026-02-23.md",
     "06-Structure/MOCs/MOC-Biomarkers.md",
     "SYSTEM_README-SUMMARY.md",
     "09-System/USER_GUIDE_v4.1.md",
     "09-System/OPERATIONAL_ANALYSIS_COMPLETE.md",
     "09-System/MOC_ASSESSMENT_WHATS_WRONG.md",
-    "06-Structure/MOCs/MOC-Cholesterol-Quality.md",
     "06-Structure/MOCs/MOC-Clinic-Queue.md",
     "06-Structure/MOCs/MOC-Clinical-Protocols.md",
     "06-Structure/MOCs/MOC-Diabetes-T2D.md",
@@ -234,7 +235,6 @@
     "06-Structure/MOCs/MOC-001.md",
     "06-Structure/MOCs/MOC_OPTIMIZATION_PLAN.md",
     "06-Structure/MOCs/MOC_NAMING_CLEANUP_PLAN.md",
-    "06-Structure/MOCs/MOC-Metabolomics-Analysis.md",
     "10-Daily/2026",
     "10-Daily",
     "01-References/Assets/PDFs",
