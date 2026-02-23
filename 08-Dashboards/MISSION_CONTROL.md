@@ -88,10 +88,10 @@ update-frequency: every-session
 | 13:20 | Gateway stabilized (nuclear reset) | ✅ Done | □ Reviewed |
 
 **Pending Your Approval:**
-- [ ] Template reorganization (13 templates v2.0)
-- [ ] Vault folder structure (clean hierarchy)
-- [ ] Biomarkers Taxonomy & IR Mechanisms Map
-- [ ] MISSION_CONTROL dashboard (this note) — Heartbeat active!
+- [x] Template reorganization (21 templates v2.0) — ✅ Complete
+- [x] Vault folder structure (v4.1) — ✅ Complete
+- [ ] Biomarkers Taxonomy & IR Mechanisms Map — In 00-Inbox/Fleeting
+- [x] MISSION_CONTROL dashboard — ✅ Active
 
 **Say:** "Approve all" or "Review X" in Telegram
 
@@ -100,10 +100,10 @@ update-frequency: every-session
 ## 📊 VITALS — The Numbers
 
 ### Knowledge Base
-- **220** Atomic notes
-- **128** Reference notes  
-- **15** MOCs
-- **13** Templates v2.0
+- **17** Zettels (atomic notes)
+- **1** Reference note
+- **20** MOCs
+- **21** Templates v2.0
 
 ### Current Sprint (Feb 20–28)
 - **3** P0 tasks
@@ -161,7 +161,7 @@ update-frequency: every-session
 **Files:**
 - [[05-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]] — Core
 - [[MOC-Insulin-Signaling]] — Navigation
-- [[06-Structure/MOCs/PhD-Biomarkers]] — Biomarkers sub-MOC
+- [[MOC-Biomarkers]] — Biomarkers MOC
 
 ### IRB Protocol (P0)
 **Status:** Section 1 pending  
