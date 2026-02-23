@@ -1,34 +1,33 @@
 ---
-aliases: [Template-Gap, Research-Gap]
-tags: [template, gap, limitation, future-work, zettelkasten]
-version: 2.0-final
-status: approved
-approved-by: Simos
-approved-date: 2026-02-20
+aliases: [Template-Zettel-Gap]
+tags: [template, zettel, gap, zettelkasten, v4.1]
+version: 2.1
 ---
 
-# Template: Gap Note v2.0
+# Template: Gap Zettel v2.1
 
-**Purpose:** Document research gaps, limitations, and unanswered questions
-**Target Length:** 200-400 words
-**Location:** `02-Atomic/` (when extracted from refs) or `33-Atomic/` (staging)
-**Filename:** `GAP_TOPIC_DETAIL_YYYYMMDD_XXX_000000.md`
+**Purpose:** Document research gaps, limitations, and unanswered questions  
+**Target Length:** 200-400 words  
+**Output Location:** `03-Zettels/Conscious/`  
+**Status:** conscious → subconscious (after 30 days + review)
 
 ---
 
-## YAML Frontmatter
+## YAML Frontmatter (v4.1)
 
 ```yaml
 ---
-uid: {{YYYYMMDD}}{{HHMMSS}}
-type: gap
+uid: Z-{{DDD}}-{{SSSS}}
+type: zettel-gap
 title: {{Gap Description}}
-aliases: [Gap_{{ShortSlug}}]
-tags: [gap, {{TOPIC}}, {{METHOD}}, limitation, phd]
-parent-moc: [[55-MOCs/PhD_IR_MOC]] | [[55-MOCs/{{TOPIC_MOC}}]]
-status: gap  # gap → identified → addressed → resolved
+aliases: [Z-{{DDD}}-{{SSSS}}, {{ShortSlug}}]
+domain: {{DDD}}
+domain-name: {{DomainName}}
+tags: [zettel, gap, {{topic}}, {{aspect}}, conscious]
+parent-moc: [[MOC-{{DDD}}]]
+source: [[{{LitNote_Source}}]]
 confidence: high  # high | medium | low
-source: [[{{Ref_Origin}}]]
+created: {{YYYY-MM-DD}}
 extraction-date: {{YYYY-MM-DD}}
 ---
 ```

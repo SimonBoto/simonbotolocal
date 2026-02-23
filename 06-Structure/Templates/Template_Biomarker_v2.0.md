@@ -1,32 +1,34 @@
 ---
-aliases: [Template-Atomic-Biomarker, Zettel-Biomarker]
-tags: [template, atomic, biomarker, clinical-lab, zettelkasten]
-version: 2.0
+aliases: [Template-Zettel-Biomarker]
+tags: [template, zettel, biomarker, zettelkasten, v4.1]
+version: 2.1
 ---
 
-# Template: Biomarker Atomic
+# Template: Biomarker Zettel v2.1
 
-**Purpose:** Comprehensive biomarker profile for clinical or research use
-**Target Length:** 400-700 words
-**Status Progression:** seed → atomic → mature
+**Purpose:** Comprehensive biomarker profile for clinical or research use  
+**Target Length:** 400-700 words  
+**Output Location:** `03-Zettels/Conscious/`  
+**Status:** conscious → subconscious (after 30 days + review)
 
 ---
 
-## YAML Frontmatter
+## YAML Frontmatter (v4.1)
 
 ```yaml
 ---
-uid: {{YYYYMMDD}}{{HHMMSS}}
-aliases: [Biomarker_Name_Specimen_Descriptor]
-tags: [atomic, biomarker, {urine/blood/tissue}, {metabolite/protein/gene}, phd]
-parent-moc: [[55-MOCs/Biomarkers]] | [[55-MOCs/PhD_IR_MOC]]
-status: seed
-confidence: medium  # biomarkers need validation
-discovered: {{YYYY-MM-DD}}
-validated: {{YYYY-MM-DD}}  # when clinically validated
-cutoff: {value} {units}
-source: [[Ref_Discovery_Paper]]
+uid: Z-{{DDD}}-{{SSSS}}
+type: zettel-biomarker
+title: {{Biomarker Name}}
+aliases: [Z-{{DDD}}-{{SSSS}}, {{ShortName}}]
+domain: {{DDD}}
+domain-name: {{DomainName}}
+tags: [zettel, biomarker, {{specimen}}, {{class}}, conscious]
+parent-moc: [[MOC-{{DDD}}]]
+source: [[{{LitNote_Source}}]]
+confidence: medium  # high | medium | low
 created: {{YYYY-MM-DD}}
+extraction-date: {{YYYY-MM-DD}}
 ---
 ```
 

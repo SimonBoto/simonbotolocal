@@ -1,30 +1,34 @@
 ---
-aliases: [Template-Atomic-Claim, Zettel-Claim]
-tags: [template, atomic, claim, zettelkasten]
-version: 2.0
+aliases: [Template-Zettel-Claim]
+tags: [template, zettel, claim, zettelkasten, v4.1]
+version: 2.1
 ---
 
-# Template: Claim Atomic
+# Template: Claim Zettel v2.1
 
-**Purpose:** Single, falsifiable claim with evidence and implications
-**Target Length:** 300-600 words
-**Status Progression:** seed → atomic → mature
+**Purpose:** Single, falsifiable claim with evidence and implications  
+**Target Length:** 300-600 words  
+**Output Location:** `03-Zettels/Conscious/`  
+**Status:** conscious → subconscious (after 30 days + review)
 
 ---
 
-## YAML Frontmatter
+## YAML Frontmatter (v4.1)
 
 ```yaml
 ---
-uid: {{YYYYMMDD}}{{HHMMSS}}
-aliases: [Claim_ShortSlug_Descriptor]
-tags: [atomic, claim, {topic}, {mechanism/biomarker/clinical}, phd]
-parent-moc: [[55-MOCs/{Relevant_MOC}]]
-status: seed  # seed → atomic → mature
+uid: Z-{{DDD}}-{{SSSS}}
+type: zettel-claim
+title: {{Claim Statement}}
+aliases: [Z-{{DDD}}-{{SSSS}}, {{ShortSlug}}]
+domain: {{DDD}}
+domain-name: {{DomainName}}
+tags: [zettel, claim, {{topic}}, {{aspect}}, conscious]
+parent-moc: [[MOC-{{DDD}}]]
+source: [[{{LitNote_Source}}]]
 confidence: high  # high | medium | low
-source: [[Ref_Author_Year]] | [[Source_Document]]
 created: {{YYYY-MM-DD}}
-reviewed: {{YYYY-MM-DD}}
+extraction-date: {{YYYY-MM-DD}}
 ---
 ```
 

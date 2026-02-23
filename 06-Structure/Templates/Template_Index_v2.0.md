@@ -1,29 +1,29 @@
 ---
-aliases: [Template-Index, Dashboard, MOC-Hub]
-tags: [template, index, dashboard, navigation, map-of-content]
-version: 2.0
+aliases: [Template-Index, Dashboard-Template]
+tags: [template, index, dashboard, navigation, v4.1]
+version: 2.1
 ---
 
-# Template: Index Note v2.0
+# Template: Index / Dashboard v2.1
 
-**Purpose:** Navigation hub, dashboard, or table of contents
-**Target Length:** 300-600 words (plus Dataview queries)
-**Location:** `22-Dashboards/` or `55-MOCs/`
-**Filename:** `INDEX_TOPIC_YYYYMMDD_XXX_000000.md` or `MOC_TOPIC_YYYYMMDD_XXX_000000.md`
+**Purpose:** Navigation hub, dashboard, or table of contents  
+**Target Length:** 300-600 words (plus Dataview queries)  
+**Output Location:** `08-Dashboards/` (for dashboards) or `06-Structure/MOCs/` (for MOCs)  
+**Status:** active → archived
 
 ---
 
-## YAML Frontmatter
+## YAML Frontmatter (v4.1)
 
 ```yaml
 ---
-uid: {{YYYYMMDD}}{{HHMMSS}}
+uid: {{YYYYMMDD}}{{HHMM}}
 type: index
 title: {{Index Title}}
-aliases: [{{Short_Name}}, {{Abbreviation}}]
-tags: [index, {{TYPE}}, {{DOMAIN}}, navigation]
-parent-moc: [[{{Parent_Index}}]]  # If nested
-status: index  # index → active → archived
+aliases: [{{ShortName}}]
+tags: [index, {{type}}, {{domain}}, navigation]
+parent-moc: [[{{ParentMOC}}]]
+status: active  # active → archived
 confidence: high
 update-frequency: {{daily | weekly | monthly}}
 last-updated: {{YYYY-MM-DD}}

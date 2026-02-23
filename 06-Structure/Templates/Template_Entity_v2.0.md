@@ -1,33 +1,34 @@
 ---
-aliases: [Template-Entity, People-Places-Institutions]
-tags: [template, entity, person, lab, institution, zettelkasten]
-version: 2.0
+aliases: [Template-Zettel-Entity]
+tags: [template, zettel, entity, zettelkasten, v4.1]
+version: 2.1
 ---
 
-# Template: Entity Note v2.0
+# Template: Entity Zettel v2.1
 
-**Purpose:** Document people, labs, institutions, and organizations
-**Target Length:** 200-500 words
-**Location:** `02-Atomic/`
-**Filename:** `ENTITY_TYPE_NAME_ROLE_YYYYMMDD_XXX_000000.md`
+**Purpose:** Document people, labs, institutions, and organizations  
+**Target Length:** 200-500 words  
+**Output Location:** `03-Zettels/Conscious/`  
+**Status:** conscious → subconscious (after 30 days + review)
 
 ---
 
-## YAML Frontmatter
+## YAML Frontmatter (v4.1)
 
 ```yaml
 ---
-uid: {{YYYYMMDD}}{{HHMMSS}}
-type: entity
+uid: Z-{{DDD}}-{{SSSS}}
+type: zettel-entity
+title: {{Entity Name}}
+aliases: [Z-{{DDD}}-{{SSSS}}, {{ShortName}}]
+domain: {{DDD}}
+domain-name: {{DomainName}}
+tags: [zettel, entity, {{entity-type}}, {{field}}, conscious]
+parent-moc: [[MOC-{{DDD}}]]
+source: [[{{LitNote_Source}}]]
 entity-type: {{person | lab | institution | company | journal}}
-name: {{Full Name}}
-aliases: [{{Short_Name}}, {{Abbreviation}}]
-tags: [entity, {{TYPE}}, {{FIELD}}, phd]
-parent-moc: [[55-MOCs/People]] | [[55-MOCs/Institutions]]
-status: entity  # entity → active → archived
 confidence: high
-location: {{City, Country}}
-website: {{URL}}
+created: {{YYYY-MM-DD}}
 extraction-date: {{YYYY-MM-DD}}
 ---
 ```

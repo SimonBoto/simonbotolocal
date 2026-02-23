@@ -1,37 +1,37 @@
 ---
-aliases: [Template-Reference, Ref-Note]
-tags: [template, reference, literature, citation, zettelkasten]
-version: 2.0
+aliases: [Template-Reference, Bibliographic-Record]
+tags: [template, reference, literature, citation, v4.1]
+version: 2.1
 ---
 
-# Template: Reference Note v2.0
+# Template: Reference Note v2.1
 
-**Purpose:** Complete bibliographic record with extraction-ready content
-**Target Length:** 300-600 words
-**Location:** `66-Literature/Refs/`
-**Filename:** `Ref_Author_Year_TitleKeyword_YYYYMMDD_XXX_000000.md`
+**Purpose:** Complete bibliographic record with extraction-ready content  
+**Target Length:** 300-600 words  
+**Output Location:** `01-References/Hub/`  
+**Filename:** `Ref_Author_Year_TitleKeyword_[R-{{DDD}}-{{SSSS}}].md`
 
 ---
 
-## YAML Frontmatter
+## YAML Frontmatter (v4.1)
 
 ```yaml
 ---
-uid: {{YYYYMMDD}}{{HHMMSS}}
+uid: R-{{DDD}}-{{SSSS}}
 type: reference
-title: {{FULL_TITLE}}
-authors: {{AUTHORS}}
+title: {{Full Title}}
+authors: {{Authors}}
 year: {{YYYY}}
 doi: {{DOI}}
 pmid: {{PMID}}
 pmcid: {{PMCID}}
-journal: {{JOURNAL}}
+journal: {{Journal}}
 tier: {{1|2|3}}  # 1=RCT/Mechanistic, 2=Review/Observational, 3=Opinion/News
 status: ref  # ref → extracted → linked
 confidence: high  # high | medium | low
-aliases: [{{Author}}_{{Year}}_{{Keyword}}]
-tags: [ref, {{TOPIC}}, {{METHOD}}, phd]
-parent-moc: [[55-MOCs/Literature]] | [[55-MOCs/{{TOPIC_MOC}}]]
+aliases: [R-{{DDD}}-{{SSSS}}, {{Author}}_{{Year}}]
+tags: [ref, {{topic}}, {{method}}]
+parent-moc: [[MOC-References]]
 source-type: {{paper | review | book | web | clinic}}
 extraction-date: {{YYYY-MM-DD}}
 ---

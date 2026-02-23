@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-Daily/2026/2026-02-23.md",
+                "file": "03-Zettels/Conscious/Akt_Substrate_Phosphorylation_[Z-001-0010].md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-23"
+              "title": "Akt_Substrate_Phosphorylation_[Z-001-0010]"
             }
           }
         ]
@@ -207,10 +207,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7bdf8ee45b57b16b",
+  "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
-    "06-Structure/MOCs/MOC-Cholesterol-Quality.md",
+    "03-Zettels/Conscious/Akt_Recruitment_by_PIP3_[Z-001-0009].md",
+    "02-Literature/GutierrezRodelo_2017_IR_Mechanisms_[L-001-0001].md",
     "10-Daily/2026/2026-02-23.md",
+    "06-Structure/MOCs/MOC-Cholesterol-Quality.md",
     "06-Structure/MOCs/MOC-Biomarkers.md",
     "SYSTEM_README-SUMMARY.md",
     "09-System/USER_GUIDE_v4.1.md",
@@ -233,8 +235,6 @@
     "06-Structure/MOCs/MOC-PhD-Insulin-Resistance.md",
     "06-Structure/MOCs/MOC-PhD-Biomarkers.md",
     "06-Structure/MOCs/MOC-001.md",
-    "06-Structure/MOCs/MOC_OPTIMIZATION_PLAN.md",
-    "06-Structure/MOCs/MOC_NAMING_CLEANUP_PLAN.md",
     "10-Daily/2026",
     "10-Daily",
     "01-References/Assets/PDFs",

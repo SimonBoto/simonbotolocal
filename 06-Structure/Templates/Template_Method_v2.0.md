@@ -1,31 +1,34 @@
 ---
-aliases: [Template-Atomic-Method, Zettel-Method]
-tags: [template, atomic, method, protocol, zettelkasten]
-version: 2.0
+aliases: [Template-Zettel-Method]
+tags: [template, zettel, method, zettelkasten, v4.1]
+version: 2.1
 ---
 
-# Template: Method Atomic
+# Template: Method Zettel v2.1
 
-**Purpose:** Reproducible protocol or analytical procedure
-**Target Length:** 400-800 words
-**Status Progression:** seed → atomic → mature
+**Purpose:** Reproducible protocol or analytical procedure  
+**Target Length:** 400-800 words  
+**Output Location:** `03-Zettels/Conscious/`  
+**Status:** conscious → subconscious (after 30 days + review)
 
 ---
 
-## YAML Frontmatter
+## YAML Frontmatter (v4.1)
 
 ```yaml
 ---
-uid: {{YYYYMMDD}}{{HHMMSS}}
-aliases: [Method_ShortName_Descriptor]
-tags: [atomic, method, {lab/field/computational}, {gc-ms/stats/clinical}, phd]
-parent-moc: [[55-MOCs/Methods]] | [[55-MOCs/Protocols]]
-status: seed
+uid: Z-{{DDD}}-{{SSSS}}
+type: zettel-method
+title: {{Method Name}}
+aliases: [Z-{{DDD}}-{{SSSS}}, {{ShortName}}]
+domain: {{DDD}}
+domain-name: {{DomainName}}
+tags: [zettel, method, {{type}}, {{platform}}, conscious]
+parent-moc: [[MOC-{{DDD}}]]
+source: [[{{LitNote_Source}}]]
 confidence: high
-equipment: [[Equipment_Item]] | [[Software_Tool]]
-source: [[Ref_Protocol_Paper]] | [[SOP_Document]]
 created: {{YYYY-MM-DD}}
-validated: {{YYYY-MM-DD}}  # when tested/verified
+extraction-date: {{YYYY-MM-DD}}
 ---
 ```
 

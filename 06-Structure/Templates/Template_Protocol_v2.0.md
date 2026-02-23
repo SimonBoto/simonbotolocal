@@ -1,31 +1,34 @@
 ---
-aliases: [Template-Atomic-Protocol, Zettel-Protocol]
-tags: [template, atomic, protocol, clinical-trial, study-design, zettelkasten]
-version: 2.0
+aliases: [Template-Zettel-Protocol]
+tags: [template, zettel, protocol, zettelkasten, v4.1]
+version: 2.1
 ---
 
-# Template: Protocol Atomic
+# Template: Protocol Zettel v2.1
 
-**Purpose:** Study protocol, clinical trial design, or SOP
-**Target Length:** 500-1000 words
-**Status Progression:** draft → active → completed → published
+**Purpose:** Study protocol, clinical trial design, or SOP  
+**Target Length:** 500-1000 words  
+**Output Location:** `03-Zettels/Conscious/`  
+**Status:** conscious → subconscious (after 30 days + review)
 
 ---
 
-## YAML Frontmatter
+## YAML Frontmatter (v4.1)
 
 ```yaml
 ---
-uid: {{YYYYMMDD}}{{HHMMSS}}
-aliases: [Protocol_StudyName_DesignType]
-tags: [atomic, protocol, {clinical-trial/observational/intervention}, {phase}, phd]
-parent-moc: [[55-MOCs/Protocols]] | [[55-MOCs/PhD_IR_MOC]]
-status: draft  # draft → active → completed → published
+uid: Z-{{DDD}}-{{SSSS}}
+type: zettel-protocol
+title: {{Protocol Name}}
+aliases: [Z-{{DDD}}-{{SSSS}}, {{ShortName}}]
+domain: {{DDD}}
+domain-name: {{DomainName}}
+tags: [zettel, protocol, {{design-type}}, {{phase}}, conscious]
+parent-moc: [[MOC-{{DDD}}]]
+source: [[{{LitNote_Source}}]]
 confidence: high
-irb-approved: {{YYYY-MM-DD}}  # or pending
-registration: ClinicalTrials.gov #NCTXXXXXXXX
-source: [[Grant_Proposal]] | [[Protocol_Document]]
 created: {{YYYY-MM-DD}}
+extraction-date: {{YYYY-MM-DD}}
 ---
 ```
 

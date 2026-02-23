@@ -1,31 +1,33 @@
 ---
-aliases: [Template-Concept, Theoretical-Framework]
-tags: [template, concept, theory, framework, mechanism, zettelkasten]
-version: 2.0
+aliases: [Template-Zettel-Concept]
+tags: [template, zettel, concept, zettelkasten, v4.1]
+version: 2.1
 ---
 
-# Template: Concept Note v2.0
+# Template: Concept Zettel v2.1
 
-**Purpose:** Define and explain theoretical concepts, frameworks, and mechanisms
-**Target Length:** 400-800 words
-**Location:** `02-Atomic/`
-**Filename:** `CONCEPT_TOPIC_DETAIL_YYYYMMDD_XXX_000000.md`
+**Purpose:** Define and explain theoretical concepts, frameworks, and mechanisms  
+**Target Length:** 400-800 words  
+**Output Location:** `03-Zettels/Conscious/`  
+**Status:** conscious → subconscious (after 30 days + review)
 
 ---
 
-## YAML Frontmatter
+## YAML Frontmatter (v4.1)
 
 ```yaml
 ---
-uid: {{YYYYMMDD}}{{HHMMSS}}
-type: concept
+uid: Z-{{DDD}}-{{SSSS}}
+type: zettel-concept
 title: {{Concept Name}}
-aliases: [{{Concept_Name}}, {{Abbreviation}}]
-tags: [concept, {{DOMAIN}}, {{MECHANISM}}, phd]
-parent-moc: [[55-MOCs/Mechanisms]] | [[55-MOCs/{{TOPIC_MOC}}]]
-status: concept  # concept → validated → integrated
+aliases: [Z-{{DDD}}-{{SSSS}}, {{ConceptName}}, {{Abbreviation}}]
+domain: {{DDD}}
+domain-name: {{DomainName}}
+tags: [zettel, concept, {{domain}}, {{mechanism}}, conscious]
+parent-moc: [[MOC-{{DDD}}]]
+source: [[{{LitNote_Source}}]]
 confidence: high  # high | medium | low
-source: [[{{Ref_Origin}}]] | [[{{Book_Source}}]]
+created: {{YYYY-MM-DD}}
 extraction-date: {{YYYY-MM-DD}}
 ---
 ```
