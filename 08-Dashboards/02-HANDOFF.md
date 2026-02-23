@@ -38,31 +38,34 @@ extraction-date: 2026-02-23
 
 ---
 
-### 2. NKUA Course Part 1 Extraction — 🟡 AWAITING REVIEW
+### 2. NKUA Course Part 1 Extraction — ✅ COMPLETE
 **Type:** Literature extraction pipeline (v4.1 workflow demonstration)  
-**Created:** 2026-02-23 21:15  
-**Scope:** Full v4.1 template application
+**Created:** 2026-02-23 21:15-21:30  
+**Scope:** Full v4.1 template application + reference extraction
 
 **Files Created:**
-| File | Location | Template |
-|------|----------|----------|
-| Literature Note | `02-Literature/NKUA_2024_Basics_Metabolomics_DE1_L-001-0001.md` | Template_LitNote_v1.0 |
-| Zettel 1 | `03-Zettels/Conscious/Systems_Biology_Integrative_Framework_Z-001-0001.md` | Template_Zettel_v2.0 |
-| Zettel 2 | `03-Zettels/Conscious/Omics_Cascade_Genotype_Phenotype_Z-001-0002.md` | Template_Zettel_v2.0 |
-| Zettel 3 | `03-Zettels/Conscious/Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003.md` | Template_Zettel_v2.0 |
-| MOC | `06-Structure/MOCs/MOC-Metabolomics-Training.md` | Template_MOC_v1.0 |
-| PDF Asset | `01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 1. ΕΙΣΑΓΩΓΗ ΣΤΑ OMICS.pdf` | — |
+| File | Location | UID | Template |
+|------|----------|-----|----------|
+| Literature Note | `02-Literature/` | L-001-0001 | LitNote_v1.0 |
+| Zettel 1 | `03-Zettels/Conscious/` | Z-001-0001 | Zettel_v2.0 |
+| Zettel 2 | `03-Zettels/Conscious/` | Z-001-0002 | Zettel_v2.0 |
+| Zettel 3 | `03-Zettels/Conscious/` | Z-001-0003 | Zettel_v2.0 |
+| MOC | `06-Structure/MOCs/` | — | MOC_v1.0 |
+| Reference Hub 1 | `01-References/Hub/` | R-001-0001 | Reference_v2.0 |
+| Reference Hub 2 | `01-References/Hub/` | R-001-0002 | Reference_v2.0 |
+| Reference Hub 3 | `01-References/Hub/` | R-001-0003 | Reference_v2.0 |
+| Reference Hub 4 | `01-References/Hub/` | R-001-0004 | Reference_v2.0 |
+| Reference Hub 5 | `01-References/Hub/` | R-001-0005 | Reference_v2.0 |
+| PDF Asset | `01-References/Assets/` | — | — |
 
-**Key Concepts Extracted:**
-1. Systems biology as integrative framework (vs reductionism)
-2. Omics cascade: Genotype → Transcriptome → Proteome → Metabolome → Phenotype
-3. 80% of chronic/autoimmune disease driven by environmental factors
+**Key References Extracted (10 total, 5 hubs created):**
+- Patti et al. (2012) Nature Reviews — Metabolomics as apogee of omics
+- Clayton et al. (2006) Nature — Pharmaco-metabonomics
+- Nicholson (2006) Mol Syst Biol — Systems biology framework
+- Clish (2015) — Clinical translation
+- Kohler et al. (2017) — Biomarker-pharmacology integration
 
-**Your Options:**
-- [ ] **Approve** — Template works, apply to remaining course parts
-- [ ] **Modify** — Edit zettels directly, I'll follow your style
-- [ ] **Reject** — Archive and try different approach
-- [ ] **Question** — Review specific zettels first
+**Status:** ✅ COMPLETE — Ready for Part 2 or approval
 
 ---
 

@@ -75,13 +75,23 @@ version: 1.0
 
 ---
 
-## 📖 Reference Hubs (To Be Created)
+## 📖 Reference Hubs
 
-From course citations:
-- [ ] Systems biology foundational text
-- [ ] Metabolomics methods review
-- [ ] Precision medicine framework paper
-- [ ] Environmental epigenetics review
+### Created (Tier 1)
+- [[Patti_Yanes_Siuzdak_2012_Metabolomics_Apogee_R-001-0001]] — Nature Reviews: Metabolomics as apogee of omics
+- [[Clayton_etal_2006_Pharmaco_Metabonomics_R-001-0002]] — Nature: Pharmaco-metabonomic phenotyping
+- [[Nicholson_2006_Global_Systems_Biology_R-001-0003]] — Mol Syst Biol: Systems biology & personalized medicine
+
+### Created (Tier 2)
+- [[Clish_2015_Metabolomics_Precision_Medicine_R-001-0004]] — Clinical translation focus
+- [[Kohler_etal_2017_Integrating_Metabolomics_Pharmacology_R-001-0005]] — Biomarker-pharmacology integration
+
+### Pending (From Bibliography)
+- [ ] Beebe K et al. (2017) — Computational metabolomics
+- [ ] Chen R & Snyder M (2012) — Systems biology overview
+- [ ] Klassen A et al. (2017) — Metabolomics definitions
+- [ ] Marchand CR et al. (2018) — Biomarker framework
+- [ ] Θεοδωρίδης Γ. (2015) — Greek systems biology textbook
 
 ---
 

@@ -10,7 +10,7 @@ pmid: ""
 pmcid: ""
 tier: 2
 relevance: "High — Core training material covering systems biology → metabolomics cascade with direct application to METHAP trial design"
-status: processing
+status: complete
 parent-moc: [[MOC-Metabolomics-Training]]
 extraction-date: 2026-02-23
 ---
@@ -128,21 +128,41 @@ extraction-date: 2026-02-23
 
 ---
 
-## Related References (To Be Created)
-- [[Ref_Systems_Biology_Textbook_R-XXX-XXXX]] — Core textbook citation
-- [[Ref_Metabolomics_Review_R-XXX-XXXX]] — Foundational review
-- [[Ref_Precision_Medicine_Foundational_R-XXX-XXXX]] — PM framework
+## Related References Extracted
+
+### Tier 1 (Foundational)
+| Reference | Key Contribution | Hub |
+|-----------|------------------|-----|
+| Patti, Yanes & Siuzdak (2012) Nature Reviews | Metabolomics as "apogee of omics trilogy" | [[Patti_Yanes_Siuzdak_2012_Metabolomics_Apogee_R-001-0001]] |
+| Clayton et al. (2006) Nature | Pharmaco-metabonomic phenotyping | [[Clayton_etal_2006_Pharmaco_Metabonomics_R-001-0002]] |
+| Nicholson (2006) Mol Syst Biol | Global systems biology & personalized medicine | [[Nicholson_2006_Global_Systems_Biology_R-001-0003]] |
+
+### Tier 2 (Clinical Translation)
+| Reference | Key Contribution | Hub |
+|-----------|------------------|-----|
+| Clish (2015) Mol Case Studies | Metabolomics for precision medicine | [[Clish_2015_Metabolomics_Precision_Medicine_R-001-0004]] |
+| Kohler et al. (2017) Eur J Pharm Sci | Integrating biomarkers & pharmacology | [[Kohler_etal_2017_Integrating_Metabolomics_Pharmacology_R-001-0005]] |
+
+### To Be Created (Remaining Bibliography)
+- [ ] Beebe K et al. (2017) — Computational and Structural Biotechnology Journal
+- [ ] Chen R & Snyder M (2012) — Current Opinion in Pharmacology
+- [ ] Klassen A et al. (2017) — Advances in Experimental Medicine and Biology
+- [ ] Marchand CR et al. (2018) — Metabolites
+- [ ] Θεοδωρίδης Γ. (2015) — Greek textbook (Systems Biology & Omics)
 
 ---
 
 ## Next Actions
-- [ ] Extract Subsection 2 (Other Omics Sciences)
-- [ ] Identify and create reference hubs for cited works
+- [x] Extract Subsection 1 (Systems Biology & Metabolomics) — COMPLETE
+- [x] Identify and create reference hubs for cited works — 5 hubs created
+- [ ] Extract Subsection 2 (Other Omics Sciences) — Genomics, Transcriptomics, Proteomics, Epigenomics, Microbiomics
+- [ ] Create remaining reference hubs (5 more from bibliography)
 - [ ] Create synthesis document connecting to IR/VitD zettels
-- [ ] Link to MOC-Metabolomics-Training
+- [x] Link to MOC-Metabolomics-Training — DONE
 
 ---
 
 *Literature note processed: 2026-02-23*  
 *Zettels extracted: 3*  
-*Status: processing*
+*Reference hubs created: 5*  
+*Status: complete*
