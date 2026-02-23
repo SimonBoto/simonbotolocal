@@ -123,7 +123,37 @@ grep -nE "\[\[[^\]]+\[|\[\[[^\]]+\][^\]]*\]\]" /path/to/file.md
 
 ## POST-EXTRACTION (Before Git Commit)
 
-### ☐ Step 7: Cross-Reference Check
+### ☐ Step 7: Bibliography Transcription (MANDATORY)
+
+**Every LitNote MUST include transcribed bibliography.**
+
+**Process:**
+```bash
+# Extract bibliography from PDF
+pdftotext "/path/to/pdf.pdf" - | grep -A 3 -E "^[A-Z][a-z]+.*\([0-9]{4}\)"
+```
+
+**Transcription checklist:**
+- [ ] All references extracted (not just cited ones)
+- [ ] DOI/PMID captured for each
+- [ ] Formatted as table: # | Reference | DOI/PMID | Status | Hub
+- [ ] Reference hubs created for Tier 1 citations
+- [ ] Pending hubs tracked in "Next Actions"
+
+**Why mandatory:**
+- DE3: Bibliography initially skipped → incomplete audit trail
+- DE3: Lost time identifying key papers later
+- DE3: Couldn't assess full source context
+
+**Tier 1 criteria for hub creation:**
+- Supports METHAP core claims
+- Provides primary evidence for key statistics
+- Establishes precedent for biomarker approach
+- Contains actionable methodology
+
+---
+
+### ☐ Step 8: Cross-Reference Check
 
 **Verify all internal links resolve:**
 ```bash
@@ -139,7 +169,7 @@ grep -oE "\[\[[^\]]+\]\]" /path/to/new/files | sort | uniq
 
 ---
 
-### ☐ Step 8: UID Uniqueness Verification
+### ☐ Step 10: UID Uniqueness Verification
 
 **Before commit, verify:**
 ```bash
@@ -151,7 +181,7 @@ grep -r "^uid: " /home/simon/Workspaces/TheOptimizedBrain/02-Literature/ /home/s
 
 ---
 
-### ☐ Step 9: MOC Update
+### ☐ Step 11: MOC Update
 
 **After creating zettels:**
 - [ ] Add to relevant MOC(s)
@@ -160,7 +190,7 @@ grep -r "^uid: " /home/simon/Workspaces/TheOptimizedBrain/02-Literature/ /home/s
 
 ---
 
-### ☐ Step 10: Git Commit Checklist
+### ☐ Step 12: Git Commit Checklist
 
 **Commit message must include:**
 - [ ] Unit/source identifier (e.g., "DE3", "PMID12345")
@@ -255,9 +285,14 @@ Track per extraction session:
 | Malformed links | 0 | 1 ❌ | ___ |
 | Missing MOC updates | 0 | 0 ✅ | ___ |
 | Unverified claims | <3 | 3 ⚠️ | ___ |
+| **Bibliography transcribed** | **✅** | **❌→✅** | ___ |
+| **Reference hubs created** | **≥3 Tier 1** | **3** | ___ |
+
+**DE3 Learning:** Bibliography initially skipped → added post-hoc. Now MANDATORY Step 7.
 
 ---
 
 *Created: 2026-02-23*  
+*Updated: 2026-02-23 (added bibliography transcription mandate)*  
 *Purpose: Prevent DE3-class errors*  
 *Review: Before every extraction*

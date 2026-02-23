@@ -1,0 +1,77 @@
+---
+uid: R-001-0013
+type: reference
+title: "Hannibal et al. (2016) — Biomarkers and Algorithms for Vitamin B12 Deficiency"
+authors: "Hannibal L, Lysne V, Bjørke-Monsen AL, Behringer S, Grünert SC, Spiekerkoetter U, Jacobsen DW, Blom HJ"
+year: "2016"
+journal: "Frontiers in Molecular Biosciences"
+volume: "3"
+pages: "27"
+doi: "10.3389/fmolb.2016.00027"
+pmid: "27446930"
+pmcid: "PMC4930625"
+tier: 1
+relevance: "Cofactor→metabolite biomarker model (B12→methylmalonic acid) — parallel logic to VitD→adipic acid"
+status: pending
+aliases: [R-001-0013, Hannibal_2016, B12_Biomarkers, Cofactor_Model]
+domain: 001
+tags: [reference, b12, biomarkers, cofactor, metabolites, tier-1]
+parent-moc: [[MOC-Metabolomics-Training]]
+extraction-date: 2026-02-23
+---
+
+# Hannibal et al. (2016) — Biomarkers for Vitamin B12 Deficiency
+
+## Citation
+Hannibal L, Lysne V, Bjørke-Monsen AL, Behringer S, Grünert SC, Spiekerkoetter U, Jacobsen DW, Blom HJ. Biomarkers and Algorithms for the Diagnosis of Vitamin B12 Deficiency. Front Mol Biosci. 2016;3:27. doi:10.3389/fmolb.2016.00027
+
+## Source Context
+**Cited in:** NKUA DE2 & DE3  
+**Context:** Model for cofactor deficiency → metabolite biomarker relationship
+
+## Relevance to METHAP Trial
+
+### The B12→Methylmalonic Acid Model
+**Mechanism:**
+```
+B12 deficiency → methylmalonyl-CoA mutase impairment
+              → methylmalonic acid accumulation
+              → diagnostic biomarker
+```
+
+**Parallel for METHAP:**
+```
+VitD deficiency/inefficiency → mitochondrial dysfunction (complex I/II)
+                            → adipic acid accumulation
+                            → early IR biomarker
+```
+
+### Why This Matters
+This paper establishes the **paradigm**: cofactor status assessed via functional metabolite markers, not just serum levels.
+
+### Key Questions
+- [ ] Which B12 biomarkers performed best?
+- [ ] Algorithms combining multiple markers?
+- [ ] Functional vs. static assessment comparison?
+- [ ] Sensitivity/specificity for deficiency detection?
+
+## Research Tasks
+
+### Immediate
+- [ ] Access full text (open access)
+- [ ] Extract biomarker algorithm details
+- [ ] Compare to proposed adipic acid approach
+
+### For METHAP
+- [ ] Cite as precedent for functional biomarker approach
+- [ ] Adapt algorithm logic for VitD→adipic acid relationship
+- [ ] Support urine metabolite superiority over serum 25(OH)D alone
+
+## Connections
+- [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]] — DE2 source
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011]] — Zettel using this model
+- [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021]] — VitD parallel
+
+---
+*Status: Reference hub created — open access, ready for full review*  
+*Priority: HIGH — Foundational model for METHAP biomarker logic*

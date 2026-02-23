@@ -91,9 +91,24 @@ grep -oE "\[\[[^\]]+\]\]" filename.md | sort | uniq
 - [ ] UIDs assigned correctly (no duplicates)
 - [ ] YAML matches template exactly
 - [ ] All links validated (no malformed)
+- [ ] **Bibliography transcribed (MANDATORY)**
+- [ ] Reference hubs created for Tier 1 citations
 - [ ] MOC updated with new entries
 - [ ] `status: complete` on LitNotes
 - [ ] Git commit with descriptive message
+
+---
+
+## ⚡ Common Mistakes (DE3 Post-Mortem)
+
+| Error | Prevention |
+|-------|------------|
+| Duplicate UID | Always check Step 1 |
+| `type: litnote` (no hyphen) | Copy template exactly |
+| Missing authors/year/journal | Don't skip fields — use "" if unknown |
+| Malformed `[[link_[id]]]` | Search/replace `[` and `]` in filenames before linking |
+| Status: processing left | Change to `complete` before commit |
+| **Bibliography skipped** | **MANDATORY — extract all references, create hubs for Tier 1** |
 
 ---
 
@@ -103,4 +118,5 @@ grep -oE "\[\[[^\]]+\]\]" filename.md | sort | uniq
 ---
 
 *Pre-flight prevents crash-landing*  
-*Created: 2026-02-23*
+*Created: 2026-02-23*  
+*Updated: 2026-02-23 (bibliography mandatory)*
