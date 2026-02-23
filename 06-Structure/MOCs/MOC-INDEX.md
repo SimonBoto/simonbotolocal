@@ -24,8 +24,8 @@ next-review: 2026-03-21
 ### 🔬 Research & PhD
 | MOC | Description | Notes | Status |
 |-----|-------------|-------|--------|
-| **[[MOC-PhD-Insulin-Resistance]]** | Main PhD research hub — IR metabolomics, METHAP trial | 130+ atomics | 🟢 Active |
-| **[[MOC-PhD-Biomarkers]]** | Biomarker-specific research | Core panel | 🟢 Active |
+| **[[MOC-Insulin-Signaling]]** | Main PhD research hub — IR mechanisms | 17 atomics | 🟢 Active |
+| **[[MOC-Biomarkers]]** | Biomarker classification | Early detection panel | 🟢 Active |
 
 ### 🏥 Clinical Practice
 | MOC | Description | Focus | Status |
@@ -62,8 +62,8 @@ next-review: 2026-03-21
 |-----|-------------|--------------|
 | **[[MOC-Metabolomics]]** | Metabolomics methods | GC-MS, biomarkers |
 | **[[MOC-Metabolomics-Protocols]]** | Protocol-specific MOC | Pre-analytics, QC |
-| **[[MOC-Metabolomics-Analysis]]** | Data analysis d[[MOC-Biomarkers]]ltivariate |
-| **[[biomarkers-moc]]** | Biomarker classification | Early vs late markers |
+| **[[MOC-Metabolomics-Analysis]]** | Data analysis methods | Multivariate, PCA |
+| **[[MOC-Biomarkers]]** | Biomarker classification | Early vs late markers |
 
 #### Operations
 | MOC | Description | Purpose |

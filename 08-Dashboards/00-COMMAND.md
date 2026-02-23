@@ -1,45 +1,44 @@
 ---
-uid: 20260222123200
+uid: 20260223140000
 type: index
 title: "00-COMMAND — Current Objectives"
 aliases: [COMMAND, Objectives, Priorities]
 tags: [command, dashboard, priorities]
-parent-moc: [[22-Dashboards/START_HERE]]
+parent-moc: [[08-Dashboards/Dashboard_Home]]
 status: active
 confidence: high
-extraction-date: 2026-02-22
+extraction-date: 2026-02-23
 ---
 
 # 🎯 COMMAND — Current Objectives
 
 > **Your strategic direction for RON**  
-> **Last Updated:** 2026-02-22 12:32  
+> **Last Updated:** 2026-02-23 14:00  
 > **Update Frequency:** When priorities change
 
 ---
 
-## 🚨 P0 — DO FIRST (This Session)
+## 🚨 P0 — DO FIRST (Critical Path)
 
-- [ ] Complete 1-5 control notes setup
-- [ ] Test agent spawn (MUSE, FORGE)
-- [ ] Verify workflow architecture in START_HERE
-
-
----
-
-## 📋 P1 — DO NEXT (Today)
-
-- [ ] Process any inbox items
-- [ ] Create PROJECT_INDEX for heartbeat tracking
-- [ ] Document existing work catalog
+- [ ] **Process inbox synthesis candidates** — Convert IR_Mechanisms_Map + Biomarkers_Taxonomy to v4.1
+- [ ] **Draft IRB Section 1** — Literature review for METHAP trial
+- [ ] **Extract 10 GOLD references** — PhD milestone
 
 ---
 
-## 🔮 P2 — BACKLOG (This Week)
+## 📋 P1 — DO NEXT (This Week)
 
+- [ ] Fix MOC-INDEX — Remove non-existent PhD MOC references
+- [ ] Create 05-Projects/PhD/PhD-INDEX.md — Project hub
+- [ ] Establish references workflow — Populate 01-References/Hub/
+
+---
+
+## 🔮 P2 — BACKLOG (Ongoing)
+
+- [ ] Daily zettel creation (3/day target)
 - [ ] Set up Gmail integration (deferred)
-- [ ] Create agent profiles (Van Gogh visuals — non-structural)
-- [ ] Shaboard sync optimization
+- [ ] Zotero MCP integration (deferred)
 
 ---
 
