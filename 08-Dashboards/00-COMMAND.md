@@ -13,13 +13,14 @@ extraction-date: 2026-02-23
 # 🎯 COMMAND — Current Objectives
 
 > **Your strategic direction for RON**  
-> **Last Updated:** 2026-02-23 14:00  
+> **Last Updated:** 2026-02-23 21:15  
 > **Update Frequency:** When priorities change
 
 ---
 
 ## 🚨 P0 — DO FIRST (Critical Path)
 
+- [x] **Extract NKUA Course Part 1** — DE1: Εισαγωγή στα Omics (3 zettels created, MOC established) ✅
 - [ ] **Process inbox synthesis candidates** — Convert IR_Mechanisms_Map + Biomarkers_Taxonomy to v4.1
 - [ ] **Draft IRB Section 1** — Literature review for METHAP trial
 - [ ] **Extract 10 GOLD references** — PhD milestone

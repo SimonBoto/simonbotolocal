@@ -20,6 +20,14 @@ extraction-date: 2026-02-23
 
 ## 🔨 CURRENTLY PROCESSING
 
+- ✅ **NKUA Metabolomics Course — Part 1 Extraction COMPLETE**
+  - LitNote: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
+  - MOC: [[MOC-Metabolomics-Training]]
+  - 3 zettels created (Z-001-0001, Z-001-0002, Z-001-0003)
+  - PDF moved to 01-References/Assets/
+  - Templates applied (v2.0)
+  - Next: Extract references, process Subsection 2
+
 - ✅ **Vault Optimization Complete** (ARM_RED executed)
   - 15 folder indexes created
   - 34 broken links fixed

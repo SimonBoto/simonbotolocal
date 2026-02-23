@@ -38,7 +38,35 @@ extraction-date: 2026-02-23
 
 ---
 
-### 2. Inbox Synthesis Candidates — 🟡 READY FOR PROCESSING
+### 2. NKUA Course Part 1 Extraction — 🟡 AWAITING REVIEW
+**Type:** Literature extraction pipeline (v4.1 workflow demonstration)  
+**Created:** 2026-02-23 21:15  
+**Scope:** Full v4.1 template application
+
+**Files Created:**
+| File | Location | Template |
+|------|----------|----------|
+| Literature Note | `02-Literature/NKUA_2024_Basics_Metabolomics_DE1_L-001-0001.md` | Template_LitNote_v1.0 |
+| Zettel 1 | `03-Zettels/Conscious/Systems_Biology_Integrative_Framework_Z-001-0001.md` | Template_Zettel_v2.0 |
+| Zettel 2 | `03-Zettels/Conscious/Omics_Cascade_Genotype_Phenotype_Z-001-0002.md` | Template_Zettel_v2.0 |
+| Zettel 3 | `03-Zettels/Conscious/Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003.md` | Template_Zettel_v2.0 |
+| MOC | `06-Structure/MOCs/MOC-Metabolomics-Training.md` | Template_MOC_v1.0 |
+| PDF Asset | `01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 1. ΕΙΣΑΓΩΓΗ ΣΤΑ OMICS.pdf` | — |
+
+**Key Concepts Extracted:**
+1. Systems biology as integrative framework (vs reductionism)
+2. Omics cascade: Genotype → Transcriptome → Proteome → Metabolome → Phenotype
+3. 80% of chronic/autoimmune disease driven by environmental factors
+
+**Your Options:**
+- [ ] **Approve** — Template works, apply to remaining course parts
+- [ ] **Modify** — Edit zettels directly, I'll follow your style
+- [ ] **Reject** — Archive and try different approach
+- [ ] **Question** — Review specific zettels first
+
+---
+
+### 3. Inbox Synthesis Candidates — 🟡 READY FOR PROCESSING
 **Type:** Content processing  
 **Location:** `00-Inbox/Fleeting/`
 
