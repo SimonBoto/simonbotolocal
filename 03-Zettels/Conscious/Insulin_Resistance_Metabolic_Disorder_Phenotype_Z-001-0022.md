@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, insulin-resistance, metabolic-disorder, phenotype, metabolomics, chronic-disease, conscious]
 parent-moc: [[MOC-Metabolomics-Training]]
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002]]
+source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
 status: conscious
 ---
 
@@ -138,7 +138,7 @@ The METHAP trial design:
 - Adipic acid as predictive vs. diagnostic marker
 
 ## See Also
-- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002]] — Source (Section 1.3)
+- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 1.3)
 - [[Carnitine_Fatty_Acid_Transport_Z-001-0013]] — Lipid metabolism
 - [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0014]] — Alternative fuel
 

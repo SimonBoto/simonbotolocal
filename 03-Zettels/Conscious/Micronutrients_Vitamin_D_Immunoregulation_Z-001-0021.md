@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, micronutrients, vitamin-d, immunomodulation, autoimmunity, inflammation, conscious]
 parent-moc: [[MOC-Metabolomics-Training]]
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002]]
+source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
 status: conscious
 ---
 
@@ -129,7 +129,7 @@ The course's inclusion of VitD in immunoregulatory micronutrients supports:
 - VitD metabolite changes post-supplementation timeline?
 
 ## See Also
-- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002]] — Source (Section 1.1, Figure 2)
+- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 1.1, Figure 2)
 - [[Microbiomics_Gut_Metabolic_Organ_Z-001-0008]] — Probiotic connection
 - [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020]] — VitE/EGCG antioxidant link
 

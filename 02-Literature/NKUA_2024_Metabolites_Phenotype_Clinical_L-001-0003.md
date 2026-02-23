@@ -1,13 +1,21 @@
 ---
-uid: L-001-0002
-type: litnote
+uid: L-001-0003
+type: lit-note
 title: "NKUA 2024 — Metabolites and Phenotype: Metabolomics Advantages in Clinical Practice"
-aliases: [L-001-0002, NKUA_DE3, Metabolomics_Clinical_Advantages]
+authors: "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών"
+year: "2024"
+journal: "Πρόγραμμα Συμπληρωματικής Εκπαίδευσης"
+doi: ""
+pmid: ""
+pmcid: ""
+tier: 2
+relevance: "High — Clinical phenotype mapping with direct METHAP trial applications (oxidative stress biomarkers, micronutrient assessment, IR phenotyping)"
+status: complete
+aliases: [L-001-0003, NKUA_DE3, Metabolomics_Clinical_Advantages]
 domain: 001
-tags: [litnote, metabolomics, phenotype, clinical-practice, micronutrients, insulin-resistance, oxidative-stress, biomarkers, nkua-course]
+tags: [lit-note, metabolomics, phenotype, clinical-practice, micronutrients, insulin-resistance, oxidative-stress, biomarkers, nkua-course]
 parent-moc: [[MOC-Metabolomics-Training]]
 extraction-date: 2026-02-23
-status: complete
 ---
 
 # NKUA 2024 — ΔΕ 3: Metabolites and Phenotype

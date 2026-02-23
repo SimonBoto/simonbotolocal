@@ -19,7 +19,7 @@ version: 1.0
 |------|-------|--------|---------|
 | ΔΕ 1 | Εισαγωγή στα Omics | ✅ Complete (9 zettels) | [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] |
 | ΔΕ 2 | Τι είναι οι μεταβολίτες | ✅ Complete (5 zettels) | — |
-| ΔΕ 3 | Μεταβολίτες και Φαινότυπος | ✅ Complete (6 zettels) | [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002]] |
+| ΔΕ 3 | Μεταβολίτες και Φαινότυπος | ✅ Complete (6 zettels) | [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] |
 | ΔΕ 4 | *(Pending)* | ⚪ Not started | — |
 | ΔΕ 5-8 | *(Pending)* | ⚪ Not started | — |
 

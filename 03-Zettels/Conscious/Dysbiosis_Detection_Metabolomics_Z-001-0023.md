@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, dysbiosis, microbiome, gut-health, metabolomics, scfa, autoimmunity, conscious]
 parent-moc: [[MOC-Metabolomics-Training]]
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002]]
+source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
 status: conscious
 ---
 
@@ -149,7 +149,7 @@ Emerging evidence suggests:
 - Longitudinal microbiome changes with IR progression
 
 ## See Also
-- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002]] — Source (Section 1.2)
+- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 1.2)
 - [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021]] — Probiotic micronutrient link
 - [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020]] — LPS-induced OS
 

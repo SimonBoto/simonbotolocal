@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, phenotype, metabolomics, systems-biology, clinical-practice, conscious]
 parent-moc: [[MOC-Metabolomics-Training]]
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002]]
+source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
 status: conscious
 ---
 
@@ -71,7 +71,7 @@ Unlike genomics (static) or transcriptomics (intermediate), metabolomics capture
 
 ## See Also
 - [[MOC-Metabolomics-Training]] — Course navigation
-- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002]] — Source literature note
+- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source literature note
 - [[Omics_Training_Core_Insights_S-001-0001]] — DE1 synthesis
 
 ---

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, predictive-biomarkers, t1d, early-detection, metabolomics, clinical-practice, conscious]
 parent-moc: [[MOC-Metabolomics-Training]]
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002]]
+source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
 status: conscious
 ---
 
@@ -98,7 +98,7 @@ Just as T1D metabolites predict disease, **adipic acid may predict insulin resis
 4. Applicability to T2D/IR prediction?
 
 ## See Also
-- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002]] — Source (Section 2.2)
+- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 2.2)
 - [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0010]] — Individual variation
 - [[Adipic_Acid_Mitochondrial_Marker]] — Target biomarker [stub]
 

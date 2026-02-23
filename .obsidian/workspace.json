@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Literature/NKUA_2024_Basics_Metabolomics_DE1_L-001-0001.md",
+                "file": "02-Literature/NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NKUA_2024_Basics_Metabolomics_DE1_L-001-0001"
+              "title": "NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002"
             }
           }
         ]
@@ -209,13 +209,16 @@
   },
   "active": "7bdf8ee45b57b16b",
   "lastOpenFiles": [
+    "02-Literature/NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002.md",
+    "02-Literature/NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003.md",
+    "02-Literature/NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002.md",
+    "02-Literature/NKUA_2024_Basics_Metabolomics_DE1_L-001-0001.md",
     "03-Zettels/Conscious/Dysbiosis_Detection_Metabolomics_Z-001-0023.md",
     "03-Zettels/Conscious/Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md",
     "03-Zettels/Conscious/Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021.md",
     "03-Zettels/Conscious/Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md",
     "03-Zettels/Conscious/Predictive_Metabolites_T1D_Example_Z-001-0019.md",
     "03-Zettels/Conscious/Phenotype_Mapping_Metabolomics_Z-001-0018.md",
-    "02-Literature/NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002.md",
     "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ_3_Metabolites_Phenotype_Clinical_Advantages.pdf",
     "00-Inbox/ΔΕ 3. ΜΕΤΑΒΟΛΙΤΕΣ ΚΑΙ ΦΑΙΝΟΤΥΠΟΣ - ΤΑ ΠΛΕΟΝΕΚΤΗΜΑΤΑ ΤΗΣ ΜΕΤΑΒΟΛΟΜΙΚΗΣ ΣΤΗΝ ΚΛΙΝΙΚΗ ΠΡΑΞΗ.pdf",
     "03-Zettels/Conscious/Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0014.md",
@@ -223,7 +226,6 @@
     "03-Zettels/Conscious/Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012.md",
     "03-Zettels/Conscious/Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011.md",
     "03-Zettels/Conscious/Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0010.md",
-    "02-Literature/NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002.md",
     "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 2. ΤΙ ΕΙΝΑΙ ΟΙ ΜΕΤΑΒΟΛΙΤΕΣ-ΣΤΟΙΧΕΙΩΔΕΙΣ ΓΝΩΣΕΙΣ ΒΙΟΧΗΜΕΙΑΣ.pdf",
     "04-Synthesis/Omics_Training_Core_Insights_S-001-0001.md",
     "01-References/Hub/Theodoridis_etal_2015_Systems_Biology_Greek_R-001-0010.md",
@@ -236,8 +238,6 @@
     "01-References/Hub/Kohler_etal_2017_Integrating_Metabolomics_Pharmacology_R-001-0005.md",
     "01-References/Hub/Nicholson_2006_Global_Systems_Biology_R-001-0003.md",
     "01-References/Hub/Patti_Yanes_Siuzdak_2012_Metabolomics_Apogee_R-001-0001.md",
-    "02-Literature/NKUA_2024_Basics_Metabolomics_DE1_L-001-0001.md",
-    "03-Zettels/Conscious/Biomarkers_Precision_Medicine_Z-001-0009.md",
     "00-Inbox/ΔΕ 2. ΤΙ ΕΙΝΑΙ ΟΙ ΜΕΤΑΒΟΛΙΤΕΣ-ΣΤΟΙΧΕΙΩΔΕΙΣ ΓΝΩΣΕΙΣ ΒΙΟΧΗΜΕΙΑΣ.pdf",
     "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 1. ΕΙΣΑΓΩΓΗ ΣΤΑ OMICS.pdf",
     "01-References/Assets/PDFs/NKUA_Metabolomics_Course",

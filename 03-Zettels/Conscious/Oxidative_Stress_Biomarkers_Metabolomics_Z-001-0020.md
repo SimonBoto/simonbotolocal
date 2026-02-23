@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, oxidative-stress, biomarkers, metabolomics, metabolic-syndrome, inflammation, conscious]
 parent-moc: [[MOC-Metabolomics-Training]]
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002]]
+source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
 status: conscious
 ---
 
@@ -101,7 +101,7 @@ Adipic acid elevation may indicate:
 - [[MOC-Vitamin-D-Mechanisms]] — VitD antioxidant effects
 
 ### Cross-Domain
-- [[Lipotoxicity_Ceramide_Induced_IR_[Z-001-0013]]] — Lipid-induced OS
+- [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013]] — Lipid-induced OS
 - [[Mitochondrial_Dysfunction_IR_[Z-001-0015]]] — Mitochondrial ROS source
 
 ## Research Gaps
@@ -130,7 +130,7 @@ Adipic acid elevation may indicate:
 | Multiple elevations | Systemic OS | Comprehensive antioxidant protocol |
 
 ## See Also
-- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002]] — Source (Section 2.4)
+- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 2.4)
 - [[MOC-Metabolomics-Training]] — Course navigation
 - [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011]] — Parallel cofactor model
 
