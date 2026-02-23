@@ -5,7 +5,7 @@ status: conscious
 title: Insulin Receptor Structure
 aliases: [Z_INSR, Z_Insulin_Receptor]
 tags: [zettel, insulin, receptor, structure, membrane, tyrosine-kinase]
-parent-moc: [[55-MOCs/Insulin_Signaling]]
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: high
 ---
@@ -32,6 +32,6 @@ The insulin receptor (INSR) is a tetrameric receptor tyrosine kinase expressed o
 
 ## Context
 
-**Also in:** [[55-MOCs/Receptor_Tyrosine_Kinases]]
+**Also in:** [[MOC-Insulin-Signaling]]
 
 **Supports:** [[ATOMIC_Metabolism_IR_Pathways_20260219_001]]

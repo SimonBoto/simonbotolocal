@@ -5,7 +5,7 @@ status: conscious
 title: GSK3 Inhibition and Glycogen Synthesis
 aliases: [Z_GSK3, Z_Glycogen_Synthesis]
 tags: [zettel, mechanism, GSK3, glycogen, liver, insulin]
-parent-moc: [[55-MOCs/Insulin_Signaling]]
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: high
 ---
@@ -39,6 +39,6 @@ Insulin promotes hepatic glycogen synthesis by inhibiting GSK3, relieving its su
 
 ## Context
 
-**Also in:** [[55-MOCs/Glycogen_Metabolism]]
+**Also in:** [[MOC-Insulin-Signaling]]
 
 **Tissue:** Primary mechanism in liver; muscle uses different regulation

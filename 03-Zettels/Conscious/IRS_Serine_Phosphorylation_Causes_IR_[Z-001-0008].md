@@ -5,7 +5,7 @@ status: conscious
 title: IRS Serine Phosphorylation Causes Insulin Resistance
 aliases: [Z_CLAIM_IRS_SerinePhos_IR]
 tags: [zettel, claim, insulin-resistance, mechanism, serine, inflammation]
-parent-moc: [[55-MOCs/Insulin_Resistance]]
+parent-moc: [[MOC-Metabolic-Syndrome]]
 source: [[Ref_Cell_IR_Mechanisms_2012]]
 confidence: high
 ---
@@ -36,6 +36,6 @@ confidence: high
 
 ## Context
 
-**Also in:** [[55-MOCs/Inflammation_Metabolism]]
+**Also in:** [[MOC-Metabolic-Syndrome]]
 
 **Challenges:** [[Z_Q_IRS_Serine_Kinase_Specificity_011]] — Which kinase when?

@@ -5,7 +5,7 @@ status: conscious
 title: GLUT4 Vesicle Translocation
 aliases: [Z_GLUT4, Z_GLUT4_Translocation]
 tags: [zettel, mechanism, GLUT4, glucose, transport, vesicle]
-parent-moc: [[55-MOCs/Insulin_Signaling]]
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Cell_IR_Mechanisms_2012]]
 confidence: high
 ---
@@ -38,6 +38,6 @@ Insulin stimulates glucose uptake by triggering GLUT4 vesicle translocation to t
 
 ## Context
 
-**Also in:** [[55-MOCs/Glucose_Transport]]
+**Also in:** [[MOC-Insulin-Signaling]]
 
 **Rate-limiting step:** GLUT4 translocation is the bottleneck for glucose uptake

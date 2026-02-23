@@ -5,7 +5,7 @@ status: conscious
 title: Lipotoxicity and Ceramide-Induced IR
 aliases: [Z_Lipotoxicity, Z_Ceramide_IR]
 tags: [zettel, mechanism, lipotoxicity, ceramide, fatty-acids, IR]
-parent-moc: [[55-MOCs/Insulin_Resistance]]
+parent-moc: [[MOC-Metabolic-Syndrome]]
 source: [[Ref_Cell_IR_Mechanisms_2012]]
 confidence: high
 ---
@@ -39,6 +39,6 @@ Excess free fatty acids cause insulin resistance through ceramide generation, di
 
 ## Context
 
-**Also in:** [[55-MOCs/Lipid_Metabolism]]
+**Also in:** [[MOC-Metabolic-Syndrome]]
 
 **Therapeutic:** Ceramide synthesis inhibitors (myriocin) improve IR in models

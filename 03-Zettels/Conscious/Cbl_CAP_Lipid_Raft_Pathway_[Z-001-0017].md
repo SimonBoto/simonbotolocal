@@ -5,7 +5,7 @@ status: conscious
 title: Cbl-CAP Pathway and Lipid Raft Signaling
 aliases: [Z_Cbl_CAP, Z_Lipid_Raft, Z_Alternative_Pathway]
 tags: [zettel, mechanism, Cbl, CAP, caveolin, alternative]
-parent-moc: [[55-MOCs/Insulin_Signaling]]
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: medium
 ---
@@ -41,6 +41,6 @@ An alternative insulin signaling pathway involves Cbl-CAP complex and lipid raft
 
 ## Context
 
-**Also in:** [[55-MOCs/Membrane_Microdomains]]
+**Also in:** [[MOC-Insulin-Signaling]]
 
 **Status:** Alternative pathway; quantitative contribution debated

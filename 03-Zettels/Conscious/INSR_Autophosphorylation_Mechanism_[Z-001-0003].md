@@ -5,7 +5,7 @@ status: conscious
 title: INSR Autophosphorylation Mechanism
 aliases: [Z_INSR_Autophosphorylation, Z_INSR_Activation]
 tags: [zettel, mechanism, insulin, phosphorylation, activation, kinase]
-parent-moc: [[55-MOCs/Insulin_Signaling]]
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_GutierrezRodelo_IR_Mechanisms_2017]]
 confidence: high
 ---
@@ -31,6 +31,6 @@ Insulin binding triggers a conformational change that activates the β subunit t
 
 ## Context
 
-**Also in:** [[55-MOCs/Protein_Phosphorylation]]
+**Also in:** [[MOC-Insulin-Signaling]]
 
 **Mechanism source:** PMC3083885 | Gutiérrez-Rodelo et al., 2017

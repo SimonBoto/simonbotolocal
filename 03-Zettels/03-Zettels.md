@@ -1,0 +1,94 @@
+---
+uid: IDX-03
+folder: 03-Zettels
+type: index
+title: "03-Zettels — Atomic Knowledge"
+aliases: [Zettels, Atomic Notes, Knowledge Core]
+tags: [index, zettels, atomic, knowledge, core, navigation, folder]
+parent-index: [[00-MISSION]]
+child-folders: [[03-Zettels-Conscious]], [[03-Zettels-Subconscious]]
+status: active
+---
+
+# 🧠 03-Zettels — Atomic Knowledge
+
+**Purpose:** The core of the Zettelkasten. Atomic notes (one idea each) with quality gradient (conscious → subconscious).
+
+> *"A Zettelkasten is not a filing system. It is a communication partner capable of surprising you with ideas you forgot you had."* — Niklas Luhmann
+
+---
+
+## 📁 Subfolders
+
+| Folder | Purpose | Status |
+|--------|---------|--------|
+| **[[03-Zettels-Conscious\|Conscious/]]** | Working zettels, under review | 🏗️ Reviewable, may evolve |
+| **[[03-Zettels-Subconscious\|Subconscious/]]** | Permanent zettels | 🔒 Never modify — "ground truth" |
+
+---
+
+## 🔄 The Conscious → Subconscious Workflow
+
+```
+New Zettel Created
+    ↓
+03-Zettels/Conscious/ (status: conscious)
+    ↓
+[30 days + review]
+    ↓
+Promotion Criteria Met?
+    ├─→ YES → Move to Subconscious/ (status: subconscious)
+    └─→ NO  → Keep in Conscious/, review again
+```
+
+### Promotion Criteria
+- [ ] 30+ days old
+- [ ] No factual doubts
+- [ ] Well-linked (3+ connections)
+- [ ] Source verified
+- [ ] Reviewed and approved
+
+---
+
+## 📊 Current Status
+
+| Folder | Count | Oldest | Status |
+|--------|-------|--------|--------|
+| Conscious | {{query: list from "03-Zettels/Conscious"}} | (check dates) | 🟢/🟡/🔴 |
+| Subconscious | {{query: list from "03-Zettels/Subconscious"}} | — | 🟢/🟡/🔴 |
+
+---
+
+## 📝 Zettel Specs
+
+**Atomic:** One idea per zettel (50-200 words)
+**Linked:** 2-5 links to other zettels
+**Dated:** Creation date in YAML
+**Sourced:** Link to source (Hub or LitNote)
+**Templated:** Use `[[06-Structure/Templates/Template_Zettel_v2.0]]`
+
+### Naming
+```
+Title_[Z-{DDD}-{SSSS}].md
+```
+
+**Examples:**
+- `Insulin_Receptor_Structure_[Z-001-0001].md`
+- `IRS1_Phosphorylation_Mechanism_[Z-001-0005].md`
+
+---
+
+## 🔗 Navigation
+
+← **Back to [[02-Literature]]** — Source Processing  
+→ **Next: [[04-Synthesis]]** — Living Documents  
+↑ **Parent: [[00-MISSION]]**
+
+**Siblings:**
+[[00-Inbox]] | [[01-References]] | [[02-Literature]] | [[04-Synthesis]] | [[05-Projects]] | [[06-Structure]] | [[08-Dashboards]] | [[09-System]]
+
+**MOCs:** [[MOC-INDEX]] — All knowledge maps
+
+---
+
+*This is the brain. Everything else serves the zettels.*

@@ -5,7 +5,7 @@ status: conscious
 title: IRS-1 vs IRS-2 Tissue Distribution
 aliases: [Z_IRS1_IRS2_Comparison]
 tags: [zettel, insulin, IRS, tissue, comparison, distribution]
-parent-moc: [[55-MOCs/Insulin_Signaling]]
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: high
 ---
@@ -37,6 +37,6 @@ IRS-1 and IRS-2 are the primary insulin receptor substrates with distinct tissue
 
 ## Context
 
-**Also in:** [[55-MOCs/Tissue_Specific_Metabolism]]
+**Also in:** [[MOC-Insulin-Signaling]]
 
 **Therapeutic insight:** Tissue-selective IRS activation could treat metabolic disease

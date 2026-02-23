@@ -5,7 +5,7 @@ status: conscious
 title: INSR Mutations and Donohue Syndrome
 aliases: [Z_INSR_Mutations, Z_Donohue_Syndrome]
 tags: [zettel, insulin, receptor, mutation, disease, leprechaunism]
-parent-moc: [[55-MOCs/Insulin_Resistance]]
+parent-moc: [[MOC-Metabolic-Syndrome]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: high
 ---
@@ -38,6 +38,6 @@ Mutations in the insulin receptor gene cause extreme insulin resistance syndrome
 
 ## Context
 
-**Also in:** [[55-MOCs/Monogenic_Diabetes]]
+**Also in:** [[MOC-Diabetes-T2D]]
 
 **Severity:** Most severe insulin resistance phenotype known

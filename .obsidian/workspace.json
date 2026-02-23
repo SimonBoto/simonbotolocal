@@ -11,24 +11,10 @@
             "id": "7bdf8ee45b57b16b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "threekeys.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "threekeys"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -207,8 +193,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "7bdf8ee45b57b16b",
   "lastOpenFiles": [
+    "06-Structure/Templates/06-Structure-Templates.md",
+    "06-Structure/MOCs/06-Structure-MOCs.md",
+    "05-Projects/Triangle/05-Projects-Triangle.md",
+    "03-Zettels/Subconscious/03-Zettels-Subconscious.md",
+    "03-Zettels/Conscious/03-Zettels-Conscious.md",
+    "00-Inbox/Fleeting/00-Inbox-Fleeting.md",
+    "09-System/09-System.md",
+    "08-Dashboards/08-Dashboards.md",
+    "06-Structure/06-Structure.md",
+    "05-Projects/05-Projects.md",
+    "04-Synthesis/04-Synthesis.md",
+    "03-Zettels/03-Zettels.md",
+    "02-Literature/02-Literature.md",
+    "01-References/01-References.md",
+    "00-Inbox/00-Inbox.md",
+    "Untitled.base",
+    "threekeys.md",
     "07-Archive/Logs/pre-migration-scan.sh",
     "07-Archive/Logs/fix-moc-links.sh",
     "07-Archive/Logs/fix-dashboard-links.sh",
@@ -224,27 +227,10 @@
     "07-Archive/Logs/DASHBOARD_MIGRATION_ANALYSIS.md",
     "07-Archive/Logs",
     "05-Projects/Triangle/SESSION_HANDOFF.md",
-    "05-Projects/Triangle/ORGANOGRAM.md",
-    "05-Projects/Triangle/05-WORKFLOWS.md",
-    "05-Projects/Triangle/04-PROJECTS.md",
-    "05-Projects/Triangle/03-AGENTS.md",
-    "05-Projects/Triangle/02-AI-BOSS.md",
-    "05-Projects/Triangle/01-CEO.md",
-    "05-Projects/Triangle/00-INDEX.md",
     "05-Projects/Triangle",
     "07-Archive/77-Archive/99-Cleanup-Queue/orphans_post.txt",
     "07-Archive/77-Archive/99-Cleanup-Queue/grep_dup.log",
     "07-Archive/77-Archive/99-Cleanup-Queue/filtered_orphans.txt",
-    "07-Archive/77-Archive/99-Cleanup-Queue/dups_batch1.txt",
-    "07-Archive/77-Archive/99-Cleanup-Queue/dups.txt",
-    "07-Archive/77-Archive/99-Cleanup-Queue/BACKUP_CONFIRMATION_20260222.md",
-    "01-References/Hub/Ref_Adipic_Acid_InsulinResistance_20260218.md",
-    "00-Inbox/Fleeting/Biomarkers_Taxonomy.md",
-    "00-Inbox/Fleeting/IR_Mechanisms_Map.md",
-    "06-Structure/Templates/Template_Zettel_v1.0.md",
-    "06-Structure/Templates/Template_Session_Completion.md",
-    "06-Structure/Templates/Template_Zettel_v2.0.md",
-    "04-Synthesis/Insulin_Signaling_Synthesis_[S-001-0001].md",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]

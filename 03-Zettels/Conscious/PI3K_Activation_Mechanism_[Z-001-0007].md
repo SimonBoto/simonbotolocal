@@ -5,7 +5,7 @@ status: conscious
 title: PI3K Activation Mechanism
 aliases: [Z_PI3K, Z_PI3K_Activation]
 tags: [zettel, mechanism, PI3K, lipid, kinase, PIP3]
-parent-moc: [[55-MOCs/Insulin_Signaling]]
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_GutierrezRodelo_IR_Mechanisms_2017]]
 confidence: high
 ---
@@ -36,6 +36,6 @@ Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the sec
 
 ## Context
 
-**Also in:** [[55-MOCs/Lipid_Signaling]]
+**Also in:** [[MOC-Insulin-Signaling]]
 
 **Isoforms:** p110α dominant in metabolism; p110β compensates when α lost

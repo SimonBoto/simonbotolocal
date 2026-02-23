@@ -5,7 +5,7 @@ status: conscious
 title: IRS Protein Recruitment
 aliases: [Z_IRS, Z_IRS_Recruitment]
 tags: [zettel, insulin, IRS, adapter, PI3K, signaling]
-parent-moc: [[55-MOCs/Insulin_Signaling]]
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: high
 ---
@@ -33,6 +33,6 @@ IRS proteins (Insulin Receptor Substrates) are cytosolic adapter proteins that b
 
 ## Context
 
-**Also in:** [[55-MOCs/Adapter_Proteins]]
+**Also in:** [[MOC-Insulin-Signaling]]
 
 **Supports:** [[BIOMARKER_Adipic_IR_Cutoffs_20260215_004]]

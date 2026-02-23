@@ -5,7 +5,7 @@ status: conscious
 title: ER Stress and Insulin Resistance
 aliases: [Z_ER_Stress, Z_UPR_IR]
 tags: [zettel, mechanism, ER-stress, UPR, inflammation, IR]
-parent-moc: [[55-MOCs/Insulin_Resistance]]
+parent-moc: [[MOC-Metabolic-Syndrome]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: high
 ---
@@ -40,6 +40,6 @@ Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR),
 
 ## Context
 
-**Also in:** [[55-MOCs/Cellular_Stress]]
+**Also in:** [[MOC-Metabolic-Syndrome]]
 
 **Link to obesity:** Adipose and liver ER stress correlates with IR in obesity

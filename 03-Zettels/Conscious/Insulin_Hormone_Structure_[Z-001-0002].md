@@ -5,7 +5,7 @@ status: conscious
 title: Insulin Hormone Structure
 aliases: [Z_Insulin, Z_Insulin_Peptide]
 tags: [zettel, insulin, hormone, peptide, structure]
-parent-moc: [[55-MOCs/Insulin_Signaling]]
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: high
 ---
@@ -35,6 +35,6 @@ Insulin is a 51-amino acid peptide hormone secreted by pancreatic β-cells in re
 
 ## Context
 
-**Also in:** [[55-MOCs/Endocrine_Hormones]]
+**Also in:** [[MOC-Insulin-Signaling]]
 
 **Supports:** [[BIOMARKER_Insulin_CPeptide_Assays_021]] (not yet created)

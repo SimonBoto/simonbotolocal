@@ -5,7 +5,7 @@ status: conscious
 title: Akt Substrate Phosphorylation
 aliases: [Z_Akt_Substrates, Z_Akt_Phosphorylation]
 tags: [zettel, mechanism, Akt, substrate, phosphorylation, effector]
-parent-moc: [[55-MOCs/Insulin_Signaling]]
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Cell_IR_Mechanisms_2012]]
 confidence: high
 ---
@@ -38,6 +38,6 @@ Fully activated Akt phosphorylates multiple substrates to execute insulin's meta
 
 ## Context
 
-**Also in:** [[55-MOCs/Kinase_Substrates]]
+**Also in:** [[MOC-Insulin-Signaling]]
 
 **Also activates:** Protein synthesis, lipogenesis, cell survival

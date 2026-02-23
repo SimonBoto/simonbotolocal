@@ -5,7 +5,7 @@ status: conscious
 title: Mitochondrial Dysfunction and Insulin Resistance
 aliases: [Z_Mitochondrial_Dysfunction, Z_Mito_IR]
 tags: [zettel, mechanism, mitochondria, dysfunction, oxidative, IR]
-parent-moc: [[55-MOCs/Insulin_Resistance]]
+parent-moc: [[MOC-Metabolic-Syndrome]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: medium
 ---
@@ -43,6 +43,6 @@ Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid inte
 
 ## Context
 
-**Also in:** [[55-MOCs/Mitochondrial_Function]]
+**Also in:** [[MOC-Metabolic-Syndrome]]
 
 **Metabolomics connection:** Elevated acylcarnitines mark incomplete oxidation

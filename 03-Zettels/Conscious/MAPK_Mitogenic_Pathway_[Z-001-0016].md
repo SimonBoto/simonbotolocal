@@ -5,7 +5,7 @@ status: conscious
 title: MAPK Pathway for Mitogenic Signaling
 aliases: [Z_MAPK, Z_Ras_MAPK, Z_Mitogenic_Pathway]
 tags: [zettel, mechanism, MAPK, Ras, mitogenic, growth]
-parent-moc: [[55-MOCs/Insulin_Signaling]]
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[Ref_Nature_IR_Mechanisms_2022]]
 confidence: high
 ---
@@ -41,6 +41,6 @@ Insulin activates the Ras/MAPK pathway for mitogenic (growth) responses, distinc
 
 ## Context
 
-**Also in:** [[55-MOCs/Mitogenic_Signaling]]
+**Also in:** [[MOC-Insulin-Signaling]]
 
 **Note:** MAPK pathway does not directly mediate glucose transport
