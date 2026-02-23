@@ -18,9 +18,10 @@ version: 1.0
 | Part | Title | Status | LitNote |
 |------|-------|--------|---------|
 | ΔΕ 1 | Εισαγωγή στα Omics | ✅ Complete (9 zettels) | [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] |
-| ΔΕ 2 | *(Pending)* | ⚪ Not started | — |
-| ΔΕ 3 | *(Pending)* | ⚪ Not started | — |
+| ΔΕ 2 | Τι είναι οι μεταβολίτες | ✅ Complete (5 zettels) | — |
+| ΔΕ 3 | Μεταβολίτες και Φαινότυπος | ✅ Complete (6 zettels) | [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002]] |
 | ΔΕ 4 | *(Pending)* | ⚪ Not started | — |
+| ΔΕ 5-8 | *(Pending)* | ⚪ Not started | — |
 
 **Asset Location:** [[01-References/Assets/PDFs/NKUA_Metabolomics_Course/]]
 
@@ -46,6 +47,31 @@ version: 1.0
 | Z-001-0009 | [[Biomarkers_Precision_Medicine_Z-001-0009]] | ✅ Created | Biomarker types, precision medicine |
 
 **Total DE1 Part 1: 9 zettels** ✅
+
+### DE2 Tier 1: Metabolites & Metabolic Pathways (New)
+| UID | Zettel | Status | Key Concept |
+|-----|--------|--------|-------------|
+| Z-001-0010 | [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0010]] | ✅ Created | Individual metabolic phenotypes |
+| Z-001-0011 | [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011]] | ✅ Created | B12→methylmalonic model (VD→adipic parallel) |
+| Z-001-0012 | [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012]] | ✅ Created | Malate, succinate as IR markers |
+| Z-001-0013 | [[Carnitine_Fatty_Acid_Transport_Z-001-0013]] | ✅ Created | Fatty acid transport (plasma TFA link) |
+| Z-001-0014 | [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0014]] | ✅ Created | Alternative fuel in IR/diabetes |
+
+**Total DE2: 5 Tier 1 zettels** ✅
+
+### DE3 Tier 1: Phenotype & Clinical Applications (New)
+| UID | Zettel | Status | Key Concept |
+|-----|--------|--------|-------------|
+| Z-001-0018 | [[Phenotype_Mapping_Metabolomics_Z-001-0018]] | ✅ Created | Metabolomics as phenotype decoder |
+| Z-001-0019 | [[Predictive_Metabolites_T1D_Example_Z-001-0019]] | ✅ Created | Early disease prediction proof-of-concept |
+| Z-001-0020 | [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020]] | ✅ Created | 5 OS markers (8-OHdG, 2-HBA, etc.) |
+| Z-001-0021 | [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021]] | ✅ Created | VitD as immune-modulatory micronutrient |
+| Z-001-0022 | [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022]] | ✅ Created | IR as core metabolic phenotype |
+| Z-001-0023 | [[Dysbiosis_Detection_Metabolomics_Z-001-0023]] | ✅ Created | Gut microbiome metabolite markers |
+
+**Total DE3: 6 Tier 1 zettels** ✅
+
+**Course Total: 20 zettels**
 
 ---
 
@@ -137,5 +163,5 @@ version: 1.0
 ---
 
 *Last updated: 2026-02-23*  
-*Status: Active — Processing Part 1*  
-*Next review: After ΔΕ 2 extraction*
+*Status: Active — DE3 Complete, awaiting DE4-8*  
+*Next review: After ΔΕ 4 extraction*

@@ -20,15 +20,18 @@ extraction-date: 2026-02-23
 
 ## 🔨 CURRENTLY PROCESSING
 
-- ✅ **NKUA Metabolomics Course — DE1 Part 1 FULLY COMPLETE**
-  - LitNote: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
-  - MOC: [[MOC-Metabolomics-Training]]
-  - **9 zettels** (Z-001-0001 through Z-001-0009)
-  - **10 reference hubs** (R-001-0001 through R-001-0010)
-  - **1 synthesis** ([[Omics_Training_Core_Insights_S-001-0001]])
-  - PDF asset organized
-  - All templates applied (v2.0)
-  - Status: ✅ **COMPLETE** — Ready for DE2 or review
+- ✅ **NKUA Metabolomics Course — DE1 & DE2 COMPLETE**
+  - **DE1:** LitNote + 9 zettels + 10 reference hubs + synthesis
+  - **DE2:** LitNote + 5 Tier 1 zettels (cofactor logic, carnitine, ketones)
+  - **Total:** 2 LitNotes, 14 zettels, 10 reference hubs, 1 synthesis
+  - Status: ✅ **COMPLETE** — Tier 1 extraction validated
+
+### DE2 Critical Insights
+| Zettel | PhD Relevance |
+|--------|---------------|
+| Z-001-0011 | **Cofactor→biomarker logic** — B12 model explains adipic acid mechanism |
+| Z-001-0013 | **Carnitine** — Direct link to your plasma TFA research |
+| Z-001-0012 | **Krebs metabolites** — Malate as IR marker (from course text) |
 
 - ✅ **Vault Optimization Complete** (ARM_RED executed)
   - 15 folder indexes created
