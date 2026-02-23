@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Literature/NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002.md",
+                "file": "02-Literature/NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002"
+              "title": "NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003"
             }
           }
         ]
@@ -209,11 +209,11 @@
   },
   "active": "7bdf8ee45b57b16b",
   "lastOpenFiles": [
+    "02-Literature/NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002.md",
+    "02-Literature/NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003.md",
     "09-System/Pre_Flight_Card_v1.0.md",
     "09-System/Extraction_Checklist_v1.0.md",
     "02-Literature/NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002.md",
-    "02-Literature/NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003.md",
-    "02-Literature/NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002.md",
     "02-Literature/NKUA_2024_Basics_Metabolomics_DE1_L-001-0001.md",
     "03-Zettels/Conscious/Dysbiosis_Detection_Metabolomics_Z-001-0023.md",
     "03-Zettels/Conscious/Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md",
