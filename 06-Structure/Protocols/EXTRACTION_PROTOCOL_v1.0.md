@@ -1,16 +1,18 @@
 ---
 uid: PROTOCOL-001-0001
 type: protocol
-title: Extraction Protocol Checklist v1.0
+title: Extraction Protocol Checklist v1.1
 domain: 001
 domain-name: Protocols
 tags: [protocol, extraction, quality, checklist, zettelkasten]
 parent-moc: [[MOC-Protocols]]
 status: active
 created: 2026-02-24
+updated: 2026-02-24
+changes: "v1.1 — Added Done Criteria, reduced batch size (3), mandatory pause protocol"
 ---
 
-# EXTRACTION PROTOCOL CHECKLIST v1.0
+# EXTRACTION PROTOCOL CHECKLIST v1.1
 
 Quick reference for reviewing RON's extraction work.
 Full protocol: `~/.openclaw/skills/vault-extraction/SKILL.md`
@@ -44,31 +46,56 @@ Full protocol: `~/.openclaw/skills/vault-extraction/SKILL.md`
 
 ## PHASE 3: CREATE
 - [ ] Cached templates (read once)
-- [ ] Max 5 items this batch
+- [ ] **Max 3 items this batch** (reduced from 5 — prevents fatigue errors)
 - [ ] Pre-write: No `{{` placeholders
 - [ ] Each file: Written
 - [ ] Each file: Verified exists
 - [ ] Each file: Verified readable
 - [ ] Each file: Verified YAML valid
 - [ ] Each file: Verified UID matches filename
+- [ ] **Self-audit after EACH item** (catch drift early)
 - [ ] Logged: ✓ or ✗ per item
 
-## PHASE 4: VERIFY
+## PHASE 4: VERIFY — MANDATORY DONE CRITERIA
+
+**Before claiming "complete," I MUST verify and report:**
+
+| Check | How I Verify | Report Format |
+|-------|--------------|---------------|
+| **Citations present?** | Three-pass scan (formal ref list, inline cites, legacy format) | "✅ N citations verified" |
+| **UIDs sequential?** | List all UIDs created, confirm no gaps | "UIDs: Z-001-0011 through Z-001-0017" |
+| **Placeholders replaced?** | Search for `{{`, `TODO`, `FIX` | "✅ 0 placeholders remaining" |
+| **Links work?** | Spot-check 3-5 internal links | "✅ Links verified" |
+
+**If any check fails → status is "draft," NOT "complete"**
+
 - [ ] Full ls of claimed files
 - [ ] Full read of all created files (not spot-check)
 - [ ] Verified YAML frontmatter
 - [ ] Verified parent-moc link
 - [ ] Verified source link
+- [ ] **Done Criteria checklist completed (see table above)**
 - [ ] Gap analysis: Created/Failed/Remaining
 - [ ] Created VERIFICATION_REPORT
+- [ ] **MANDATORY PAUSE: Report verification results BEFORE claiming done**
 - [ ] **YOU REVIEWED**
 
-## PHASE 5: UPDATE
-- [ ] Status = "complete" ONLY if 100% verified
+## PHASE 5: UPDATE — STATUS RULES
+
+| Status | When to Use | NEVER When |
+|--------|-------------|------------|
+| **complete** | All Done Criteria ✅, 100% verified, you reviewed | Any check failed, placeholders exist, UID gaps |
+| **draft** | Created but verification incomplete | — |
+| **processing** | Batched work, more to do | — |
+
+**Rule: I cannot say "complete" without explicit verification report.**
+
+- [ ] Status = "complete" ONLY if 100% verified AND Done Criteria met
+- [ ] Status = "draft" if verification incomplete
 - [ ] Status = "processing" if any failed/batched
 - [ ] Zettels Created section with links
 - [ ] Reference Hubs Created section with links
-- [ ] Verification Status section
+- [ ] **Verification Report section (mandatory)**
 - [ ] Next Actions section (specific)
 - [ ] QUEUE.md updated
 - [ ] Git committed (or error logged)
@@ -79,6 +106,7 @@ Full protocol: `~/.openclaw/skills/vault-extraction/SKILL.md`
 
 | Issue | Action |
 |-------|--------|
+| **Status "complete" but Done Criteria not met** | **VIOLATION — Roll back status** |
 | Status "complete" but <100% verified | DEMAND correction |
 | Zettel links don't open | Files don't exist |
 | Reference hub missing DOI | Incomplete extraction |
@@ -86,6 +114,8 @@ Full protocol: `~/.openclaw/skills/vault-extraction/SKILL.md`
 | Greek in new filenames | Violated naming rules |
 | `{{placeholder}}` in content | Incomplete template fill |
 | UID gaps in sequence | Ask why |
+| Missing verification report | Demand Done Criteria checklist |
+| Batch >3 items without approval | Scope creep |
 
 ---
 
@@ -106,10 +136,11 @@ Unclear? Default: 001
 
 ## BATCH HANDLING
 
-If >5 zettels or >10 refs:
-- Batch 1: 5 zettels + refs
-- Status: "processing"
+If >3 zettels or >10 refs:
+- Batch 1: 3 zettels + refs (reduced from 5)
+- Status: "processing" (not "complete")
 - Section: "Remaining for Batch 2: [list]"
+- Self-audit after each item
 - Schedule next session
 
 ---
@@ -126,6 +157,7 @@ git diff --stat HEAD~1
 
 ---
 
-*Protocol: SKILL/vault-extraction v1.0*
+*Protocol: SKILL/vault-extraction v1.1*
 *Created: 2026-02-24*
+*Updated: 2026-02-24*
 *For: NKUA 3174/3175 + future extractions*
