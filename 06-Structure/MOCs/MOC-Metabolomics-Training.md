@@ -18,10 +18,10 @@ version: 1.0
 | Part | Title | Status | LitNote |
 |------|-------|--------|---------|
 | ΔΕ 1 | Εισαγωγή στα Omics | ✅ Complete (9 zettels) | [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] |
-| ΔΕ 2 | Τι είναι οι μεταβολίτες | ✅ Complete (5 zettels) | — |
+| ΔΕ 2 | Τι είναι οι μεταβολίτες | ✅ Complete (5 zettels) | [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]] |
 | ΔΕ 3 | Μεταβολίτες και Φαινότυπος | ✅ Complete (6 zettels) | [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] |
-| ΔΕ 4 | *(Pending)* | ⚪ Not started | — |
-| ΔΕ 5-8 | *(Pending)* | ⚪ Not started | — |
+| ΔΕ 4 | Μεταβολικές Διαταραχές και Διάγνωση | ✅ Complete (5 zettels) | [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] |
+| ΔΕ 5-8 | *(Pending)* | ⏳ Not started | — |
 
 **Asset Location:** [[01-References/Assets/PDFs/NKUA_Metabolomics_Course/]]
 
@@ -71,7 +71,18 @@ version: 1.0
 
 **Total DE3: 6 Tier 1 zettels** ✅
 
-**Course Total: 20 zettels**
+### DE4 Tier 1: Metabolic Disorders & Diagnosis (New)
+| UID | Zettel | Status | Key Concept |
+|-----|--------|--------|-------------|
+| Z-001-0024 | [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024]] | ✅ Created | 49 IMDs via newborn screening (adipic acid precedent) |
+| Z-001-0025 | [[Protein_Metabolism_Disorders_Oxalate_Pathway_Z-001-0025]] | ✅ Created | Oxalate pathway (urine OA methodology) |
+| Z-001-0026 | [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026]] | ✅ Created | Glucose/lactate IR markers (Savage 2005) |
+| Z-001-0027 | [[Lipid_Metabolism_Fatty_Acid_IR_Markers_Z-001-0027]] | ✅ Created | Omega-3/6, desaturases in IR |
+| Z-001-0028 | [[Metabolic_Acidosis_Biomarkers_Patterns_Z-001-0028]] | ✅ Created | Organic acid patterns (diagnostic algorithm) |
+
+**Total DE4: 5 Tier 1 zettels** ✅
+
+**Course Total: 25 zettels**
 
 ---
 
@@ -152,16 +163,21 @@ version: 1.0
 
 ## 📝 RON Ledger
 
-- **Source:** NKUA Training Course Part 1
+| Unit | Date | Zettels | Ref Hubs | Time |
+|------|------|---------|----------|------|
+| DE1 | 2026-02-23 | 9 | 10 | ~60 min |
+| DE2 | 2026-02-23 | 5 | 1 (HMDB) | ~30 min |
+| DE3 | 2026-02-23 | 6 | 17 | ~60 min |
+| DE4 | 2026-02-23 | 5 | 10 | ~45 min |
+| **Total** | — | **25** | **38** | **~3.75 hrs** |
+
 - **Input format:** PDF (Greek)
-- **Extraction method:** Literature note → 3 zettels
-- **Time invested:** ~45 min
-- **Zettels created:** 3
-- **Quality:** High (core foundational concepts)
-- **Next action:** Extract subsection 2, identify references
+- **Extraction method:** Literature note → Tier 1 zettels
+- **Quality:** DE1 standard (100% bibliography, all hubs, cross-connections)
+- **Synthesis:** [[Omics_Training_Core_Insights_S-001-0001]]
 
 ---
 
 *Last updated: 2026-02-23*  
-*Status: Active — DE3 Complete, awaiting DE4-8*  
-*Next review: After ΔΕ 4 extraction*
+*Status: Active — DE1-DE4 Complete (25 zettels), awaiting DE5-8*  
+*Next review: After ΔΕ 5-8 extraction*

@@ -1,0 +1,57 @@
+---
+uid: R-001-0033
+type: reference
+title: "Patterson et al. (2012) — Health Implications of High Dietary Omega-6 PUFA"
+authors: "Patterson E, Wall R, Fitzgerald G, Ross R, Stanton C"
+year: "2012"
+journal: "Journal of Nutrition and Metabolism"
+pages: "Article ID 539426"
+doi: "10.1155/2012/539426"
+pmid: "22523647"
+pmcid: "PMC3326645"
+tier: 2
+relevance: "Omega-6: Omega-3 ratio significance — pro-inflammatory mechanisms linking to IR; dietary intervention rationale"
+status: pending
+aliases: [R-001-0033, Patterson_2012, Omega6_Health]
+domain: 001
+tags: [reference, omega-6, omega-3, inflammation, diet, ratio]
+parent-moc: [[MOC-Metabolomics-Training]]
+extraction-date: 2026-02-23
+---
+
+# Patterson et al. (2012) — Omega-6 Health Implications
+
+## Citation
+Patterson E, Wall R, Fitzgerald G, Ross R, Stanton C. Health implications of high dietary omega-6 polyunsaturated fatty acids. J Nutr Metab. 2012;2012:539426.
+
+## Source Context
+**Cited in:** NKUA DE4, Section 2.3 (lipid metabolism)  
+**Context:** Omega-6:3 ratio and chronic disease
+
+## Relevance to METHAP Trial
+
+### Ratio-CVD-IR Connection
+| Ratio | Health Implication |
+|-------|-------------------|
+| 1:1 to 2:1 | Evolutionary baseline |
+| 4:1 | Recommended optimal |
+| 10-20:1 | Modern Western diet (pro-inflammatory) |
+| >20:1 | High chronic disease risk |
+
+### METHAP Applications
+- **Baseline assessment:** Omega-6:3 ratio as IR risk factor
+- **Intervention target:** Dietary modification alongside VitD
+- **Outcome measure:** Ratio improvement post-intervention
+
+## Research Tasks
+- [ ] Extract ratio calculation methodology
+- [ ] Assess Mediterranean vs. Western diet ratios
+- [ ] Correlate with adipic acid levels
+
+## Connections
+- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] — Source citing
+- [[Lipid_Metabolism_Fatty_Acid_IR_Markers_Z-001-0027]] — Zettel
+
+---
+*Status: Reference hub created — open access*  
+*Priority: MEDIUM — Dietary intervention context*

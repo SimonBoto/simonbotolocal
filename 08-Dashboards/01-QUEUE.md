@@ -20,6 +20,12 @@ extraction-date: 2026-02-23
 
 ## 🔨 CURRENTLY PROCESSING
 
+- ✅ **Inbox Synthesis Candidates — EXTRACTION COMPLETE (2026-02-24)**
+  - **IR_Mechanisms_Map:** 11 zettels + 1 reference hub (Reaven 1988) + LitNote
+  - **Biomarkers_Taxonomy:** 6 zettels + LitNote
+  - **Total:** 17 zettels, 1 reference hub, 2 LitNotes
+  - **Key zettels:** Lipotoxicity, Mitochondrial dysfunction, Inflammatory signaling, Gut mechanisms, ER stress, 3 clinical stages, 3 vicious cycles, Biomarker framework, Adipic acid, BCAAs, HOMA-IR critique, Fasting insulin, METHAP panel
+
 - ✅ **NKUA Metabolomics Course — DE1 & DE2 COMPLETE**
   - **DE1:** LitNote + 9 zettels + 10 reference hubs + synthesis
   - **DE2:** LitNote + 5 Tier 1 zettels (cofactor logic, carnitine, ketones)
@@ -44,7 +50,7 @@ extraction-date: 2026-02-23
 
 ## 📌 NEXT UP (Auto-pulled from COMMAND P0)
 
-1. Process inbox synthesis candidates (IR_Mechanisms_Map, Biomarkers_Taxonomy)
+1. ~~Process inbox synthesis candidates~~ — ✅ COMPLETE
 2. Draft IRB Section 1 — Literature review
 3. Extract 10 GOLD references
 
@@ -60,8 +66,9 @@ extraction-date: 2026-02-23
 
 ---
 
-## ✅ COMPLETED TODAY (2026-02-23)
+## ✅ COMPLETED TODAY (2026-02-24)
 
+- [x] **Inbox synthesis extraction** — 17 zettels, 1 ref hub, 2 LitNotes from IR_Mechanisms_Map + Biomarkers_Taxonomy
 - [x] 09-System aggressive cleanup (18 files deleted)
 - [x] Archive full cleanup (363 files deleted)
 - [x] Created 15 folder index notes (graph visibility)

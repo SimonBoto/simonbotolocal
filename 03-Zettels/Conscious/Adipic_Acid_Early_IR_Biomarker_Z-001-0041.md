@@ -1,0 +1,54 @@
+---
+uid: Z-001-0041
+type: zettel
+title: Adipic Acid as Early IR Biomarker
+aliases: [Z-001-0041, Adipic-Acid-Biomarker]
+domain: 001
+domain-name: Insulin Signaling
+tags: [zettel, adipic-acid, biomarker, early-detection, beta-oxidation, organic-acids]
+parent-moc: [[MOC-Biomarkers]]
+source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]]
+confidence: high
+created: 2026-02-24
+---
+
+# Adipic Acid as Early IR Biomarker
+
+Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impaired beta-oxidation of fatty acids. Elevated levels signal mitochondrial dysfunction and lipotoxicity before glucose abnormalities appear.
+
+**Mechanism:** When beta-oxidation is impaired (due to carnitine deficiency, cofactor insufficiency, or mitochondrial overload), fatty acids undergo omega-oxidation in peroxisomes instead, producing dicarboxylic acids including adipic acid.
+
+**Clinical utility:**
+- **Early detection:** Elevated in Stage 1 (compensatory IR) when glucose is still normal
+- **Intervention-responsive:** Levels normalize with L-carnitine, B2 (riboflavin), and cofactor support
+- **Specificity:** Indicates beta-oxidation impairment specifically
+
+**Intervention targets:**
+- L-carnitine (transports fatty acids into mitochondria)
+- Riboflavin/B2 (FAD cofactor for acyl-CoA dehydrogenases)
+- General mitochondrial support
+
+## Key Details
+
+| Property | Value |
+|----------|-------|
+| Sample | Urine (organic acids panel) |
+| Timing | Early (pre-disease) |
+| Actionability | High (responds to intervention) |
+| Biology | Metabolic (mitochondrial) |
+
+## Links
+
+- **Upstream:** [[Z-001-0030]] — Mitochondrial dysfunction produces this
+- **Parallel:** [[Z-001-0042]] — BCAAs as complementary marker
+- **Downstream:** [[Z-001-0045]] — Included in METHAP panel
+
+## Context
+
+**Also relevant to:** [[MOC-Organic-Acids]], [[MOC-Early-Detection]]
+
+**Emerges from:** Biomarkers Taxonomy synthesis document
+
+---
+
+*UID: Z-001-0041 | Domain: 001 | Created: 2026-02-24*

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "150c4d8cdb881f6b",
+        "id": "ef7b01b28dc6f3be",
         "type": "tabs",
         "children": [
           {
-            "id": "7bdf8ee45b57b16b",
+            "id": "283ded3bad289130",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Literature/NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003.md",
+                "file": "02-Literature/NKUA_2024_Basics_Metabolomics_DE1_L-001-0001.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,8 +28,53 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003"
-            }
+              "title": "NKUA_2024_Basics_Metabolomics_DE1_L-001-0001"
+            },
+            "group": "6e6de82c4f28b0e1"
+          }
+        ]
+      },
+      {
+        "id": "a5dac6c18666cee6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b436fa3810db2ca5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "02-Literature/NKUA_2024_Basics_Metabolomics_DE1_L-001-0001.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 8,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of NKUA_2024_Basics_Metabolomics_DE1_L-001-0001"
+            },
+            "group": "6e6de82c4f28b0e1"
           }
         ]
       }
@@ -207,44 +252,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7bdf8ee45b57b16b",
+  "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
-    "01-References/Hub/Wu_etal_2019_Nutrition_Immunity_R-001-0027.md",
-    "01-References/Hub/Tsoukalas_Sarandi_2020_Micronutrient_COVID_R-001-0026.md",
-    "01-References/Hub/Tsoukalas_etal_2021_Metabolic_Health_Snapshot_R-001-0025.md",
-    "01-References/Hub/Calina_Tsatsakis_2019_COPD_Metabolomics_R-001-0024.md",
-    "01-References/Hub/Tsoukalas_etal_2021_Metabolomics_Clinical_R-001-0023.md",
-    "01-References/Hub/Tsoukalas_etal_2021_NCDs_Precision_R-001-0022.md",
-    "01-References/Hub/Sarigiannis_etal_2021_Exposome_R-001-0021.md",
-    "01-References/Hub/Roep_etal_2021_T1D_Beta_Cell_R-001-0020.md",
-    "01-References/Hub/Qu_etal_2018_CoQ10_Statin_Myopathy_R-001-0019.md",
-    "01-References/Hub/Oresic_2012_T1D_Metabolomics_R-001-0018.md",
-    "01-References/Hub/Kang_etal_2015_Metabolomics_Autoimmune_R-001-0017.md",
-    "01-References/Hub/Holler_etal_2018_Micronutrient_Assessment_R-001-0016.md",
-    "01-References/Hub/DeRosa_etal_2017_Metabolic_Pressure_Immunity_R-001-0015.md",
-    "01-References/Hub/Calder_2020_Nutrition_Immunity_COVID_R-001-0014.md",
-    "01-References/Hub/Hannibal_etal_2016_B12_Biomarkers_R-001-0013.md",
-    "01-References/Hub/Lamichhane_etal_2019_T1D_Metabolites_Prediction_R-001-0012.md",
-    "01-References/Hub/Branca_etal_2019_Food_System_NCD_R-001-0011.md",
-    "02-Literature/NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002.md",
-    "02-Literature/NKUA_2024_Basics_Metabolomics_DE1_L-001-0001.md",
-    "02-Literature/NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003.md",
-    "09-System/Pre_Flight_Card_v1.0.md",
-    "09-System/Extraction_Checklist_v1.0.md",
-    "02-Literature/NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0002.md",
-    "03-Zettels/Conscious/Dysbiosis_Detection_Metabolomics_Z-001-0023.md",
-    "03-Zettels/Conscious/Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md",
-    "03-Zettels/Conscious/Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021.md",
-    "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ_3_Metabolites_Phenotype_Clinical_Advantages.pdf",
-    "00-Inbox/ΔΕ 3. ΜΕΤΑΒΟΛΙΤΕΣ ΚΑΙ ΦΑΙΝΟΤΥΠΟΣ - ΤΑ ΠΛΕΟΝΕΚΤΗΜΑΤΑ ΤΗΣ ΜΕΤΑΒΟΛΟΜΙΚΗΣ ΣΤΗΝ ΚΛΙΝΙΚΗ ΠΡΑΞΗ.pdf",
-    "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 2. ΤΙ ΕΙΝΑΙ ΟΙ ΜΕΤΑΒΟΛΙΤΕΣ-ΣΤΟΙΧΕΙΩΔΕΙΣ ΓΝΩΣΕΙΣ ΒΙΟΧΗΜΕΙΑΣ.pdf",
-    "00-Inbox/ΔΕ 2. ΤΙ ΕΙΝΑΙ ΟΙ ΜΕΤΑΒΟΛΙΤΕΣ-ΣΤΟΙΧΕΙΩΔΕΙΣ ΓΝΩΣΕΙΣ ΒΙΟΧΗΜΕΙΑΣ.pdf",
-    "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 1. ΕΙΣΑΓΩΓΗ ΣΤΑ OMICS.pdf",
-    "01-References/Assets/PDFs/NKUA_Metabolomics_Course",
     "00-Inbox/ΔΕ 1. ΕΙΣΑΓΩΓΗ ΣΤΑ OMICS.pdf",
-    "08-Dashboards/sedvBJkGv",
-    "Untitled.base",
-    "07-Archive/Logs/pre-migration-scan.sh",
+    "00-Inbox/ΔΕ 1. ΣΤΟΧΕΥΜΕΝΗ ΚΑΙ ΜΗ ΣΤΟΧΕΥΜΕΝΗ ΜΕΤΑΒΟΛΟΜΙΚΗ.pdf",
+    "06-Structure/Protocols/EXTRACTION_PROTOCOL_v1.0.md",
+    "06-Structure/Protocols",
+    "02-Literature/NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001.md",
+    "03-Zettels/Conscious/Precision_Medicine_Response_Rate_Problem_Z-101-0007.md",
+    "03-Zettels/Conscious/DMF_Nrf2_Antioxidant_Pathway_Z-101-0006.md",
+    "03-Zettels/Conscious/Methotrexate_Low_Dose_Mechanism_Adenosine_Z-101-0005.md",
+    "03-Zettels/Conscious/Immunometabolism_Warburg_Inflammation_Z-101-0004.md",
+    "03-Zettels/Conscious/Rapamycin_mTOR_Immune_Tolerance_Z-101-0003.md",
+    "03-Zettels/Conscious/Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002.md",
+    "03-Zettels/Conscious/Pharmacometabolomics_Framework_Metabotypes_Z-101-0001.md",
+    "02-Literature/NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003.md",
+    "01-References/Hub/Gallagher_LeRoith_2015_Inflammation_IR_RA_R-001-0039.md",
+    "01-References/Hub/Savage_etal_2007_IR_Cellular_Mechanisms_R-001-0038.md",
+    "02-Literature/GutierrezRodelo_2017_IR_Mechanisms_[L-001-0001].md",
+    "02-Literature/LitNote_Biomarkers_Taxonomy_L-001-0006.md",
+    "00-Inbox/Fleeting/Processed/Biomarkers_Taxonomy.md",
+    "00-Inbox/Fleeting/Processed/IR_Mechanisms_Map.md",
+    "00-Inbox/Fleeting/Processed",
+    "02-Literature/LitNote_IR_Mechanisms_Map_L-001-0005.md",
+    "01-References/Hub/Reaven_1988_Banting_Lecture_Syndrome_X_R-001-0037.md",
+    "03-Zettels/Conscious/METHAP_Biomarker_Panel_Z-001-0045.md",
+    "03-Zettels/Conscious/Fasting_Insulin_Superior_Early_Detection_Z-001-0044.md",
+    "03-Zettels/Conscious/HOMA_IR_Late_Marker_Z-001-0043.md",
+    "03-Zettels/Conscious/BCAAs_IR_Risk_Z-001-0042.md",
+    "03-Zettels/Conscious/Adipic_Acid_Early_IR_Biomarker_Z-001-0041.md",
+    "03-Zettels/Conscious/Biomarker_Classification_Framework_Z-001-0040.md",
+    "03-Zettels/Conscious/Vicious_Cycle_Stress_IR_Z-001-0039.md",
+    "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 4. ΕΞΑΤΟΜΙΚΕΥΣΗ ΤΗΣ ΘΕΡΑΠΕΙΑΣ – ΦΑΡΜΑΚΟΜΕΤΑΒΟΛΟΜΙΚΗ.pdf",
+    "00-Inbox/ΔΕ 4. ΕΞΑΤΟΜΙΚΕΥΣΗ ΤΗΣ ΘΕΡΑΠΕΙΑΣ – ΦΑΡΜΑΚΟΜΕΤΑΒΟΛΟΜΙΚΗ.pdf",
+    "00-Inbox/ΔΕ 1. ΑΙΤΙΟΠΑΘΟΓΕΝΕΤΙΚΟΙ ΜΗΧΑΝΙΣΜΟΙ ΑΥΤΟΑΝΟΣΩΝ ΚΑΙ ΧΡΟΝΙΩΝ ΝΟΣΗΜΑΤΩΝ .pdf",
+    "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 1. ΑΙΤΙΟΠΑΘΟΓΕΝΕΤΙΚΟΙ ΜΗΧΑΝΙΣΜΟΙ ΑΥΤΟΑΝΟΣΩΝ ΚΑΙ ΧΡΟΝΙΩΝ ΝΟΣΗΜΑΤΩΝ .pdf",
+    "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ_4_Metabolic_Disorders_Diagnosis_Metabolomics.pdf",
+    "00-Inbox/ΔΕ 4. ΜΕΤΑΒΟΛΙΚΕΣ ΔΙΑΤΑΡΑΧΕΣ ΚΑΙ ΔΙΑΓΝΩΣΗ ΜΕΣΩ ΤΗΣ ΜΕΤΑΒΟΛΟΜΙΚΗΣ.pdf",
+    "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ_3_Metabolites_Phenotype_Clinical_Advantages.pdf",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]

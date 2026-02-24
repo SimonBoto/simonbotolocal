@@ -1,0 +1,55 @@
+---
+uid: Z-001-0042
+type: zettel
+title: BCAAs and Insulin Resistance Risk
+aliases: [Z-001-0042, BCAAs-IR-Risk]
+domain: 001
+domain-name: Insulin Signaling
+tags: [zettel, BCAAs, amino-acids, mTOR, insulin-resistance, metabolomics]
+parent-moc: [[MOC-Biomarkers]]
+source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]]
+confidence: high
+created: 2026-02-24
+---
+
+# BCAAs and Insulin Resistance Risk
+
+Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin resistance and predict T2D risk. Elevated BCAAs indicate altered amino acid metabolism and increased mTOR signaling.
+
+**Mechanism:** BCAAs activate mTORC1, which promotes insulin resistance through S6K1-mediated IRS-1 serine phosphorylation. Additionally, BCAA catabolism is impaired in IR, leading to accumulation.
+
+**Clinical significance:**
+- **Early marker:** Elevated before glucose abnormalities
+- **Risk predictor:** High BCAA levels predict future T2D development
+- **Metabolic signature:** Part of the "metabolomic signature" of IR
+
+**Sources of elevation:**
+- High protein intake (especially animal protein)
+- Impaired BCAA catabolism (mitochondrial dysfunction)
+- Gut microbiome alterations
+
+**Note:** BCAAs are context-dependent — beneficial for muscle protein synthesis in insulin-sensitive individuals, problematic in IR state.
+
+## Key Details
+
+| BCAA | Primary Effect |
+|------|----------------|
+| Leucine | Strongest mTOR activation |
+| Isoleucine | Glucose uptake modulation |
+| Valine | Less studied, correlates with IR |
+
+## Links
+
+- **Upstream:** [[Z-001-0030]] — Mitochondrial dysfunction impairs BCAA catabolism
+- **Parallel:** [[Z-001-0041]] — Adipic acid as complementary marker
+- **Downstream:** [[Z-001-0045]] — Included in METHAP panel
+
+## Context
+
+**Also relevant to:** [[MOC-Amino-Acids]], [[MOC-mTOR]]
+
+**Emerges from:** Biomarkers Taxonomy synthesis document
+
+---
+
+*UID: Z-001-0042 | Domain: 001 | Created: 2026-02-24*

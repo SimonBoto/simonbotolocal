@@ -1,0 +1,60 @@
+---
+uid: Z-101-0003
+type: zettel-mech
+title: Rapamycin mTOR Inhibition and Immune Tolerance
+aliases: [Z-101-0003, Rapamycin-mTOR, Immune-Tolerance]
+domain: 101
+domain-name: Pharmacometabolomics
+tags: [zettel, rapamycin, mTOR, immune-tolerance, autoimmunity, SLE]
+parent-moc: [[MOC-Pharmacometabolomics]]
+source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]]
+confidence: high
+created: 2026-02-24
+---
+
+# Rapamycin mTOR Inhibition and Immune Tolerance
+
+Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central regulator of cellular metabolism and immune cell activation. mTOR hyperactivation precedes SLE onset and correlates with comorbidity presence — making it a therapeutic target for restoring immune homeostasis.
+
+**Mechanism in T-cells:**
+- mTOR inhibition → ↓ IL-2 and IFN-γ production (pro-inflammatory cytokines)
+- Promotes regulatory T-cell differentiation and function
+- Blocks effector T-cell proliferation
+
+**Macrophage effects:**
+- Blocks M2 macrophage differentiation
+- Does NOT block M1 pro-inflammatory polarization
+- Metabolic reprogramming toward tolerance
+
+**Clinical outcomes:**
+- Improves clinical picture in active SLE
+- Restores cellular homeostasis
+- mTOR activation predictive of disease flare
+
+**METHAP Connection:** mTOR is a central hub linking metabolism and immunity — Vitamin D also modulates mTOR signaling, suggesting metabolic-immunologic crosstalk as a therapeutic target.
+
+## Key Details
+
+| Pathway | Effect of Rapamycin |
+|---------|---------------------|
+| mTORC1 | Inhibited |
+| IL-2 production | Decreased |
+| IFN-γ production | Decreased |
+| T-reg function | Enhanced |
+| M2 differentiation | Blocked |
+
+## Links
+
+- **Upstream:** [[Z-101-0002]] — Metformin also modulates mTOR
+- **Parallel:** [[Z-001-0031]] — Inflammatory cytokine pathways
+- **Downstream:** [[MOC-SLE]], [[MOC-Immune-Tolerance]]
+
+## Context
+
+**Also relevant to:** [[MOC-mTOR]], [[MOC-Autoimmunity]]
+
+**Emerges from:** NKUA Course 3175, DE4
+
+---
+
+*UID: Z-101-0003 | Domain: 101 | Created: 2026-02-24*

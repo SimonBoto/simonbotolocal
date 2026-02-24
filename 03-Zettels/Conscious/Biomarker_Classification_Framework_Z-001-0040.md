@@ -1,0 +1,49 @@
+---
+uid: Z-001-0040
+type: zettel
+title: Biomarker Classification Framework
+aliases: [Z-001-0040, Biomarker-Framework, Biomarker-Taxonomy]
+domain: 001
+domain-name: Insulin Signaling
+tags: [zettel, biomarkers, classification, taxonomy, framework]
+parent-moc: [[MOC-Biomarkers]]
+source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]]
+confidence: high
+created: 2026-02-24
+---
+
+# Biomarker Classification Framework
+
+Biomarkers can be classified across five dimensions to evaluate clinical utility and appropriate application. Not all biomarkers are equal — early vs late, specific vs general, and actionable vs observational distinctions matter for clinical decision-making.
+
+**Five Classification Dimensions:**
+
+| Dimension | Categories | Question Answered |
+|-----------|------------|-------------------|
+| **Timing** | Early / Intermediate / Late | When in disease course? |
+| **Specificity** | Specific / Panel / Syndrome | How diagnostic? |
+| **Actionability** | Intervention-responsive / Monitoring only | Can we change it? |
+| **Biology** | Metabolic / Inflammatory / Genetic / Microbial | What system? |
+| **Sample** | Urine / Plasma / Tissue / Stool | How measured? |
+
+**Clinical utility depends on intersection:** Early + actionable + specific = highest value for prevention. Late + monitoring only = limited intervention window.
+
+## Key Details
+
+**Early biomarkers** (e.g., adipic acid) detect dysfunction before disease manifests — optimal for prevention. **Late biomarkers** (e.g., HbA1c) confirm established disease — useful for monitoring, limited for prevention.
+
+## Links
+
+- **Upstream:** [[MOC-Biomarkers]] — Overview
+- **Parallel:** [[Z-001-0041]] — Adipic acid as example
+- **Downstream:** [[Z-001-0045]] — METHAP panel applies this framework
+
+## Context
+
+**Also relevant to:** [[MOC-Clinical-Protocols]], [[MOC-Early-Detection]]
+
+**Emerges from:** Biomarkers Taxonomy synthesis document
+
+---
+
+*UID: Z-001-0040 | Domain: 001 | Created: 2026-02-24*

@@ -1,0 +1,63 @@
+---
+uid: R-001-0035
+type: reference
+title: "Savage et al. (2005) — Mechanisms of Insulin Resistance in Humans"
+authors: "Savage DB, Petersen KF, Shulman GI"
+year: "2005"
+journal: "Hypertension"
+volume: "45"
+pages: "828-833"
+doi: "10.1161/01.HYP.0000163475.04421.e4"
+pmid: "15753209"
+pmcid: ""
+tier: 1
+relevance: "CRITICAL — Foundational IR mechanisms paper; lipid-induced IR, inflammation, mitochondrial dysfunction; cited in NKUA curriculum"
+status: pending
+aliases: [R-001-0035, Savage_2005, IR_Mechanisms_Foundational]
+domain: 001
+tags: [reference, insulin-resistance, mechanisms, lipotoxicity, inflammation, mitochondria, tier-1]
+parent-moc: [[MOC-Metabolomics-Training]]
+extraction-date: 2026-02-23
+---
+
+# Savage et al. (2005) — IR Mechanisms (Foundational)
+
+## Citation
+Savage DB, Petersen KF, Shulman GI. Mechanisms of insulin resistance in humans and possible links with inflammation. Hypertension. 2005;45:828-833.
+
+## Source Context
+**Cited in:** NKUA DE4, Section 2.2 (carbohydrate metabolism, IR)  
+**Context:** Core mechanisms of insulin resistance
+
+## Relevance to METHAP Trial
+
+### CRITICAL Priority (Tier 1)
+**Foundational paper for IR mechanisms — essential for METHAP rationale**
+
+### Mechanisms Covered
+1. **Lipid-induced IR** — Intracellular lipid accumulation
+2. **Inflammatory cytokines** — TNF-α, IL-6 interference
+3. **Mitochondrial dysfunction** — Reduced oxidative capacity
+4. **Oxidative stress** — ROS-mediated signaling impairment
+
+### METHAP Applications
+- **IRB Section 1:** Mechanistic rationale foundation
+- **Mechanism:** VitD targets inflammation + oxidative stress
+- **Biomarkers:** Match mechanisms to metabolite markers
+
+## Research Tasks
+- [ ] **Priority read** — extract all 4 mechanisms
+- [ ] Map to METHAP biomarkers:
+  - Lipid-induced IR → acylcarnitines
+  - Inflammation → kynurenine pathway
+  - Mitochondrial dysfunction → adipic acid
+  - Oxidative stress → 2-HBA, pyroglutamate
+
+## Connections
+- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] — Source citing
+- [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026]] — Zettel
+- [[MOC-Insulin-Signaling]] — Mechanism hub
+
+---
+*Status: Reference hub created — foundational reference*  
+*Priority: CRITICAL — Core IR mechanism paper*
