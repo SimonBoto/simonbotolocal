@@ -1,0 +1,158 @@
+---
+uid: Z-001-0048
+type: zettel
+title: TyG Index Triglyceride Glucose Index for IR Assessment
+aliases: [Z-001-0048, TyG, TyG Index, Triglyceride Glucose Index]
+domain: 001
+tags: [zettel, biomarker, ir-core, calculation-formula, phd-methap]
+parent-moc: [[MOC-Insulin-Signaling]]
+biomarker-type: insulin-resistance-index
+formula: ln(Fasting TG [mg/dL] × Fasting Glucose [mg/dL] / 2)
+target-range: <4.5
+status: conscious
+connections:
+  - Z-001-0046
+  - Z-001-0049
+  - Z-001-0050
+  - Z-006-0001
+---
+
+# TyG Index — Triglyceride-Glucose Index for IR Assessment
+
+The **TyG Index** is a simple, inexpensive surrogate marker for insulin resistance using only fasting triglycerides and fasting glucose. It correlates strongly with euglycemic clamp studies and may predict IR earlier than HOMA-IR.
+
+---
+
+## 📐 Formula
+
+$$
+\text{TyG} = \ln\left(\frac{\text{Fasting TG (mg/dL)} \times \text{Fasting Glucose (mg/dL)}}{2}\right)
+$$
+
+**Natural logarithm (ln)** — not log base 10.
+
+**SI Units (mmol/L):**
+$$
+\text{TyG} = \ln(\text{TG [mmol/L]} \times \text{Glucose [mmol/L]})
+$$
+
+---
+
+## 🎯 Interpretation Thresholds
+
+| TyG Index | Status | Clinical Meaning |
+|-----------|--------|------------------|
+| **<4.5** | ✅ Optimal | Normal insulin sensitivity |
+| **4.5-4.9** | ⚠️ Borderline | Early insulin resistance |
+| **5.0-5.9** | 🔶 Elevated | Insulin resistance present |
+| **≥6.0** | 🔴 High | High risk for metabolic syndrome, T2DM |
+
+**Note:** Cutoffs vary by population. Asian populations may have lower thresholds.
+
+---
+
+## 🔗 Connected Biomarkers
+
+**IR Core Panel:**
+- [[Z-001-0046]] — HOMA-IR (traditional measure)
+- [[Z-001-0047]] — HOMA-β (β-cell function)
+- [[Z-001-0049]] — TG/HDL ratio (lipid-based IR marker)
+
+**Metabolic Syndrome:**
+- [[Z-001-0050]] — Metabolic syndrome criteria
+- [[Z-006-0001]] — Triglycerides (TyG numerator)
+
+**Mechanism Context:**
+- [[Z-001-0018]] — Lipotoxicity (elevated TG → IR)
+- [[Z-001-0016]] — Mitochondrial dysfunction (impaired lipid oxidation)
+
+---
+
+## 🩺 Clinical Application
+
+### When to Use TyG vs HOMA-IR
+
+| Scenario | Preferred | Why |
+|----------|-----------|-----|
+| No insulin assay available | TyG | Uses standard lipid panel |
+| Early IR detection | TyG | May rise before HOMA-IR |
+| β-cell failure suspected | HOMA-IR | TyG doesn't capture insulin secretion |
+| Research/PhD | Both | Complementary information |
+
+### METHAP Trial Role
+**Secondary outcome:** TyG Index change
+
+**Advantage:**
+- No insulin assay cost
+- Available in retrospective data (TG + glucose always measured)
+
+**Limitation:**
+- Doesn't distinguish hepatic vs peripheral IR
+- Doesn't capture β-cell dysfunction
+
+---
+
+## 📊 Calculation Examples
+
+| Patient | TG (mg/dL) | Glucose (mg/dL) | TyG Calculation | TyG Value | Status |
+|---------|------------|-----------------|-----------------|-----------|--------|
+| A | 75 | 85 | ln(75×85/2) | ln(3187.5) | **4.06** ✅ |
+| B | 120 | 95 | ln(120×95/2) | ln(5700) | **4.74** ⚠️ |
+| C | 180 | 110 | ln(180×110/2) | ln(9900) | **5.00** 🔶 |
+| D | 250 | 130 | ln(250×130/2) | ln(16250) | **5.69** 🔴 |
+
+---
+
+## 🔬 Validation Studies
+
+**Original publication:** Simental-Mendía et al., *Eur J Endocrinol* 2008
+**Correlation with clamp:** r = 0.78 (similar to HOMA-IR)
+**Predictive value:** Better than HOMA-IR for incident T2DM in some studies
+
+**Key finding:** TyG identifies IR in normoglycemic individuals before glucose rises.
+
+---
+
+## 🔄 Relationship with Lipid Profile
+
+**Why triglycerides?**
+- Elevated TG = hepatic steatosis marker
+- TG reflects VLDL production = insulin-driven process
+- High TG + high glucose = dual metabolic stress
+
+**Pattern B predictor:**
+TyG >4.9 strongly predicts small dense LDL (Pattern B)
+
+---
+
+## 💡 Clinical Pearls
+
+> "TyG is my early warning system. I see patients with 'normal' HOMA-IR but TyG 5.2. Six months later, their HOMA-IR catches up. TyG sees the metabolic train wreck coming."
+
+> "In resource-limited settings, TyG is a gift. No insulin assay needed. Just TG and glucose from any standard panel."
+
+---
+
+## 📊 Comparison: TyG vs HOMA-IR
+
+| Feature | TyG Index | HOMA-IR |
+|---------|-----------|---------|
+| Requirements | TG, Glucose | Insulin, Glucose |
+| Cost | Standard panel | +Insulin assay |
+| Early detection | ⭐⭐⭐ Better | ⭐⭐ Good |
+| β-cell info | ❌ None | ✅ HOMA-β companion |
+| Validation | Good | Extensive |
+| Best use | Screening, monitoring | Comprehensive assessment |
+
+---
+
+## Data Export (METHAP)
+
+```csv
+patient_id,visit,fasting_tg_mg_dl,fasting_glucose_mg_dl,tyg_index,tyg_status
+```
+
+---
+
+*Source: [[Ref_SimentalMendia_TyG_2008]], [[Ref_Vasques_TyG_Review_2020]]*
+*Created: 2026-02-26 | Domain: 001 | Status: Conscious*
