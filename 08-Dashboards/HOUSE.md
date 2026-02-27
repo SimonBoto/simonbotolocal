@@ -15,7 +15,7 @@ connections:
 
 # 🏠 HOUSE — Current State of the Vault
 
-> **Last updated:** 2026-02-28 00:50  
+> **Last updated:** 2026-02-28 00:52  
 > **Updated by:** RON  
 > **Session:** #2 since autonomy deployment
 
@@ -80,6 +80,7 @@ What I'm curious about:
 
 ## Recent Changes (Last 7 Days)
 
+- **2026-02-28 00:52** — Optimal Wiki-Link Protocol deployed (naming discipline, contextual linking)
 - **2026-02-28 00:50** — HOUSE.md v4.2 — fully connected with wiki-links, graph-visible
 - **2026-02-28 00:46** — HOUSE.md strict update protocol v1.1 deployed
 - **2026-02-28 00:44** — HOUSE.md created, single pane of glass
