@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Literature/NKUA_2024_Basics_Metabolomics_DE1_L-001-0001.md",
+                "file": "00-Inbox/Fleeting/Medical_History_Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NKUA_2024_Basics_Metabolomics_DE1_L-001-0001"
+              "title": "Medical_History_Template"
             },
             "group": "6e6de82c4f28b0e1"
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02-Literature/NKUA_2024_Basics_Metabolomics_DE1_L-001-0001.md",
+                "file": "00-Inbox/Fleeting/Medical_History_Template.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -67,12 +67,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 8,
+                  "scale": 0.7023319615912207,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of NKUA_2024_Basics_Metabolomics_DE1_L-001-0001"
+              "title": "Graph of Medical_History_Template"
             },
             "group": "6e6de82c4f28b0e1"
           }
@@ -252,44 +252,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "283ded3bad289130",
   "lastOpenFiles": [
-    "08-Dashboards/04-LEXICON.md",
-    "08-Dashboards/03-MEMORY_REVIEW.md",
-    "00-Inbox/ΔΕ 1. ΕΙΣΑΓΩΓΗ ΣΤΑ OMICS.pdf",
-    "00-Inbox/ΔΕ 1. ΣΤΟΧΕΥΜΕΝΗ ΚΑΙ ΜΗ ΣΤΟΧΕΥΜΕΝΗ ΜΕΤΑΒΟΛΟΜΙΚΗ.pdf",
-    "06-Structure/Protocols/EXTRACTION_PROTOCOL_v1.0.md",
-    "06-Structure/Protocols",
-    "02-Literature/NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001.md",
-    "03-Zettels/Conscious/Precision_Medicine_Response_Rate_Problem_Z-101-0007.md",
-    "03-Zettels/Conscious/DMF_Nrf2_Antioxidant_Pathway_Z-101-0006.md",
-    "03-Zettels/Conscious/Methotrexate_Low_Dose_Mechanism_Adenosine_Z-101-0005.md",
-    "03-Zettels/Conscious/Immunometabolism_Warburg_Inflammation_Z-101-0004.md",
-    "03-Zettels/Conscious/Rapamycin_mTOR_Immune_Tolerance_Z-101-0003.md",
-    "03-Zettels/Conscious/Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002.md",
-    "03-Zettels/Conscious/Pharmacometabolomics_Framework_Metabotypes_Z-101-0001.md",
-    "02-Literature/NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003.md",
-    "01-References/Hub/Gallagher_LeRoith_2015_Inflammation_IR_RA_R-001-0039.md",
-    "01-References/Hub/Savage_etal_2007_IR_Cellular_Mechanisms_R-001-0038.md",
-    "02-Literature/GutierrezRodelo_2017_IR_Mechanisms_[L-001-0001].md",
-    "02-Literature/LitNote_Biomarkers_Taxonomy_L-001-0006.md",
-    "00-Inbox/Fleeting/Processed/Biomarkers_Taxonomy.md",
-    "00-Inbox/Fleeting/Processed/IR_Mechanisms_Map.md",
-    "00-Inbox/Fleeting/Processed",
-    "02-Literature/LitNote_IR_Mechanisms_Map_L-001-0005.md",
-    "01-References/Hub/Reaven_1988_Banting_Lecture_Syndrome_X_R-001-0037.md",
-    "03-Zettels/Conscious/METHAP_Biomarker_Panel_Z-001-0045.md",
-    "03-Zettels/Conscious/Fasting_Insulin_Superior_Early_Detection_Z-001-0044.md",
-    "03-Zettels/Conscious/HOMA_IR_Late_Marker_Z-001-0043.md",
-    "03-Zettels/Conscious/BCAAs_IR_Risk_Z-001-0042.md",
-    "03-Zettels/Conscious/Adipic_Acid_Early_IR_Biomarker_Z-001-0041.md",
-    "03-Zettels/Conscious/Biomarker_Classification_Framework_Z-001-0040.md",
-    "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 4. ΕΞΑΤΟΜΙΚΕΥΣΗ ΤΗΣ ΘΕΡΑΠΕΙΑΣ – ΦΑΡΜΑΚΟΜΕΤΑΒΟΛΟΜΙΚΗ.pdf",
-    "00-Inbox/ΔΕ 4. ΕΞΑΤΟΜΙΚΕΥΣΗ ΤΗΣ ΘΕΡΑΠΕΙΑΣ – ΦΑΡΜΑΚΟΜΕΤΑΒΟΛΟΜΙΚΗ.pdf",
-    "00-Inbox/ΔΕ 1. ΑΙΤΙΟΠΑΘΟΓΕΝΕΤΙΚΟΙ ΜΗΧΑΝΙΣΜΟΙ ΑΥΤΟΑΝΟΣΩΝ ΚΑΙ ΧΡΟΝΙΩΝ ΝΟΣΗΜΑΤΩΝ .pdf",
-    "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 1. ΑΙΤΙΟΠΑΘΟΓΕΝΕΤΙΚΟΙ ΜΗΧΑΝΙΣΜΟΙ ΑΥΤΟΑΝΟΣΩΝ ΚΑΙ ΧΡΟΝΙΩΝ ΝΟΣΗΜΑΤΩΝ .pdf",
-    "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ_4_Metabolic_Disorders_Diagnosis_Metabolomics.pdf",
-    "00-Inbox/ΔΕ 4. ΜΕΤΑΒΟΛΙΚΕΣ ΔΙΑΤΑΡΑΧΕΣ ΚΑΙ ΔΙΑΓΝΩΣΗ ΜΕΣΩ ΤΗΣ ΜΕΤΑΒΟΛΟΜΙΚΗΣ.pdf",
+    "05-Projects/PhD/METHAP_Baseline_Intake_Form_v1.md",
+    "03-Zettels/Conscious/Retest_Scheduling_Followup_Protocols_Z-004-0003.md",
+    "03-Zettels/Conscious/Electrolytes_Minerals_Magnesium_Zinc_Selenium_Z-010-0001.md",
+    "04-Synthesis/Biochemical_Assessment_Integration_S-001-0001.md",
+    "03-Zettels/Conscious/Blood_Pressure_Assessment_Hypertension_Z-001-0053.md",
+    "03-Zettels/Conscious/Hashimoto_Pattern_Anti_TPO_Anti_TG_Z-005-0002.md",
+    "03-Zettels/Conscious/CBC_Patterns_Interpretation_Z-000-0001.md",
+    "03-Zettels/Conscious/Iron_Studies_TIBC_Transferrin_Sat_Z-003-0002.md",
+    "03-Zettels/Conscious/Folate_5MTHF_vs_Folic_Acid_Z-004-0002.md",
+    "03-Zettels/Conscious/ApoB_LpA_sdLDL_Advanced_Lipids_Z-006-0002.md",
+    "03-Zettels/Conscious/Uric_Acid_Metabolic_Marker_Z-001-0052.md",
+    "03-Zettels/Conscious/Kidney_Function_eGFR_Creatinine_Z-009-0001.md",
+    "03-Zettels/Conscious/Inflammation_Markers_CRP_ESR_Z-007-0001.md",
+    "03-Zettels/Conscious/Iron_Status_Patterns_ACD_Overload_Z-003-0013.md",
+    "03-Zettels/Conscious/Liver_Enzyme_Pattern_Recognition_Z-008-0001.md",
+    "03-Zettels/Conscious/Thyroid_Optimal_Ranges_Z-005-0001.md",
+    "03-Zettels/Conscious/Homocysteine_Composite_Methylation_Marker_Z-004-0001.md",
+    "03-Zettels/Conscious/Ferritin_Interpretation_Iron_Status_Z-003-0001.md",
+    "03-Zettels/Conscious/Metabolic_Syndrome_Criteria_Z-001-0050.md",
+    "03-Zettels/Conscious/TG_HDL_Ratio_IR_Marker_Z-001-0049.md",
+    "03-Zettels/Conscious/HOMA_Beta_Beta_Cell_Function_Z-001-0047.md",
+    "03-Zettels/Conscious/Functional_B12_Deficiency_MMA_Assessment_Z-004-0019.md",
+    "03-Zettels/Conscious/Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md",
+    "03-Zettels/Conscious/TyG_Index_IR_Assessment_Z-001-0048.md",
+    "03-Zettels/Conscious/Vitamin_D_Optimal_Range_80_150_Z-002-0004.md",
+    "03-Zettels/Conscious/HOMA_IR_Calculation_Interpretation_Z-001-0046.md",
+    "03-Zettels/Conscious/sedzovNP1",
+    "03-Zettels/Subconscious/Supplements",
+    "00-Inbox/Συνοψη ΕΠΑΝΕΛΕΓΧΟΣ.docx",
+    "00-Inbox/Σύνοψη ΑΡΧΙΚΟ.docx",
+    "00-Inbox/ΠΡΟΤ ΑΓΩΓΗ.docx",
+    "00-Inbox/ΙΑΤΡΙΚΟ ΙΣΤΟΡΙΚΟ.docx",
+    "00-Inbox/ΑΝΑΝΕΩΣΗ ΙΣΤΟΡΙΚΟ.docx",
+    "00-Inbox/Biochemichal Report .docx",
+    "05-Projects/Assistant/Workflows",
+    "05-Projects/Assistant/Templates",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]

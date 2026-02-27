@@ -60,6 +60,28 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 
 ---
 
+## 🔬 Biomarker Assessment
+
+**Core IR Metrics:**
+- [[Z-001-0046]] — **HOMA-IR calculation** (<2.0 target)
+- [[Z-001-0047]] — HOMA-β (β-cell function)
+- [[Z-001-0048]] — TyG Index (triglyceride-glucose index)
+- [[Z-001-0049]] — TG/HDL ratio (<2.0 target)
+- [[Z-001-0050]] — Metabolic syndrome criteria (3 of 5)
+
+**Supporting Biomarkers:**
+- [[MOC-Vitamin-D-Metabolism]] — Vitamin D (target 80-150 ng/mL)
+- [[MOC-Methylation-One-Carbon]] — Homocysteine (<10 μmol/L)
+- [[MOC-Iron-Metabolism]] — Ferritin (30-150 ng/mL, context-dependent)
+
+**PhD-METHAP Panel:**
+- Fasting glucose, fasting insulin → HOMA-IR
+- HbA1c → Long-term glycemic control
+- Adipic acid → Early IR marker
+- BCAA panel → mTOR/insulin signaling
+
+---
+
 ## 🔗 Alternative Signaling Pathways
 
 **Mitogenic (Growth) Pathway:**
