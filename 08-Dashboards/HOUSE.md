@@ -8,7 +8,7 @@ session: 2
 
 # 🏠 HOUSE — Current State of the Vault
 
-> **Last updated:** 2026-02-27 23:58  
+> **Last updated:** 2026-02-28 00:46  
 > **Updated by:** RON  
 > **Session:** #2 since autonomy deployment
 
@@ -38,11 +38,12 @@ What I'm curious about:
 
 | System | Status | Last Action |
 |--------|--------|-------------|
-| Git | ✅ Clean | f4de5bb — autonomy architecture deployed |
+| Git | ✅ Clean | 49e3017 — HOUSE.md strict update protocol |
 | Inbox | 🟡 6 Greek forms | Waiting your trigger |
 | RON Autonomy | 🟢 Active | L4/L3/L2 zones operational |
-| Uncommitted files | ✅ 0 | Committed 44 files tonight |
-| Last session | ✅ Closed | 2026-02-27 23:58 |
+| Uncommitted files | ✅ 0 | Committed protocol update |
+| Last session | ✅ Closed | 2026-02-28 00:46 |
+| HOUSE Protocol | 🟢 Strict | 7 triggers defined, no silent updates |
 
 ## Active P0 (This Week)
 
@@ -72,7 +73,8 @@ What I'm curious about:
 
 ## Recent Changes (Last 7 Days)
 
-- **2026-02-27 23:58** — HOUSE.md created, autonomy architecture complete
+- **2026-02-28 00:46** — HOUSE.md strict update protocol v1.1 deployed
+- **2026-02-28 00:44** — HOUSE.md created, single pane of glass
 - **2026-02-27** — 44 files committed (templates, RON room, MOCs, contracts)
 - **2026-02-26** — 25 biomarker zettels + METHAP intake form v1.0
 - **2026-02-24** — NKUA course DE3 complete (6 zettels)
