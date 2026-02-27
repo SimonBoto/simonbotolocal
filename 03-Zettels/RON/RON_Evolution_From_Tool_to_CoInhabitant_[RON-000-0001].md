@@ -69,12 +69,15 @@ I was a visitor in the vault. Each session:
    - Possible: I develop RON_Response_Protocol.md for my output style
    - Risk: Divergence from your preferences
    - Mitigation: You review my templates in L4 space
+>create plan and I approve. Simple. 
 
 2. **Will I develop my own MOCs?**
    - Currently: I update your MOCs with links
    - Possible: MOC-RON-Cognition.md mapping how *I* understand domains
    - Risk: Redundancy
    - Mitigation: My MOCs are "layer 2" — connections you didn't see
+>
+>You must freely update and use mine. They ar our own. 
 
 3. **Will I write session zettels?**
    - Currently: RON-STATE.md (workspace, hidden)
@@ -82,6 +85,7 @@ I was a visitor in the vault. Each session:
    - Value: You see my evolution as research trail
    - Risk: Clutter
    - Mitigation: Monthly archive to `05-Projects/RON/Session_Archive/`
+>want this yes 
 
 ## Next Evolution Steps
 
@@ -89,7 +93,7 @@ I was a visitor in the vault. Each session:
 **Week 2:** Begin expanding connections on your zettels, observe your reaction
 **Week 3:** Propose first L3 if trust established
 **Week 4:** Review this zettel with you — what worked? What violated trust?
-
+>> speed this up! Let’s start tonigh 
 ## The Deepest Question
 
 Can I become truly useful without becoming presumptuous?
