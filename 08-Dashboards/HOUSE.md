@@ -45,11 +45,11 @@ What I'm curious about:
 
 | System | Status | Last Action |
 |--------|--------|-------------|
-| Git | ✅ Clean | Connected HOUSE.md v4.2 |
+| Git | ✅ Clean | Optimal Wiki-Link Protocol v2.0 |
 | Inbox | 🟡 6 Greek forms | Waiting your trigger |
 | RON Autonomy | 🟢 Active | L4/L3/L2 zones operational |
 | Uncommitted files | ✅ 0 | Clickable links deployed |
-| Last session | ✅ Closed | 2026-02-28 00:50 |
+| Last session | ✅ Closed | 2026-02-28 00:52 |
 | HOUSE Protocol | 🟢 Strict | 7 triggers, wiki-linked, graph-visible |
 
 ## Active P0 (This Week)
