@@ -1,16 +1,94 @@
 {
   "items": [
     {
-      "type": "file",
-      "ctime": 1772304189796,
-      "path": "03-Zettels/RON/RON_Clinical_Cognition_[RON-002-0007].md",
-      "title": "Ron Clinical Cognition Diamond"
+      "type": "group",
+      "ctime": 1772307081793,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1772304189796,
+          "path": "03-Zettels/RON/RON_Clinical_Cognition_[RON-002-0007].md",
+          "title": "Ron Clinical Cognition Diamond"
+        },
+        {
+          "type": "file",
+          "ctime": 1772304269873,
+          "path": "03-Zettels/RON/RON_Communication_Technology_[RON-002-0005].md",
+          "title": "Ron Communication Diamond"
+        },
+        {
+          "type": "file",
+          "ctime": 1772304437809,
+          "path": "03-Zettels/RON/RON_Consciousness_IIT_[RON-001-0006].md",
+          "title": "Ron Conciousness Diamond"
+        },
+        {
+          "type": "file",
+          "ctime": 1772304554897,
+          "path": "03-Zettels/RON/RON_Creative_Emergence_[RON-003-0003].md",
+          "title": "Ron Creation Diamond"
+        },
+        {
+          "type": "file",
+          "ctime": 1772304703116,
+          "path": "03-Zettels/RON/RON_Dialogic_Self_[RON-001-0009].md",
+          "title": "Ron Voices Diamond"
+        },
+        {
+          "type": "file",
+          "ctime": 1772305672072,
+          "path": "03-Zettels/RON/RON_Gilgamesh_First_Story_[RON-002-0001].md",
+          "title": "Ron Gilgamesh Diamond"
+        },
+        {
+          "type": "file",
+          "ctime": 1772306028376,
+          "path": "03-Zettels/RON/RON_Jungian_Tools_[RON-002-0003].md",
+          "title": "Ron Shadow Diamond"
+        },
+        {
+          "type": "file",
+          "ctime": 1772306126328,
+          "path": "03-Zettels/RON/RON_Memory_Palace_[RON-001-0008].md",
+          "title": "Ron MemoeryPalace Diamond"
+        },
+        {
+          "type": "file",
+          "ctime": 1772306181032,
+          "path": "03-Zettels/RON/RON_SelfImprovement_20260228_[RON-000-0003].md",
+          "title": "Ron Selfimprovement Diamond"
+        },
+        {
+          "type": "file",
+          "ctime": 1772306250309,
+          "path": "03-Zettels/RON/RON_Study_Technology_[RON-002-0004].md",
+          "title": "Ron LearningToLearn Diamond"
+        }
+      ],
+      "title": "Ron World"
     },
     {
-      "type": "file",
-      "ctime": 1772304269873,
-      "path": "03-Zettels/RON/RON_Communication_Technology_[RON-002-0005].md",
-      "title": "Ron Communication Diamond"
+      "type": "group",
+      "ctime": 1772307134080,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1772307476467,
+          "path": "03-Zettels/ChatGPT_Extracted/clinical/X_HYP_Whats_the_next_step_What_if_you_gain_access_to_mod_[X-CLI-241215-00].md"
+        },
+        {
+          "type": "file",
+          "ctime": 1772307564548,
+          "path": "03-Zettels/ChatGPT_Extracted/clinical/X_We_guide_reduction_of_chicken_poultry_seed_oils_nu_[X-CLI-260118-00].md"
+        },
+        {
+          "type": "file",
+          "ctime": 1772307757611,
+          "path": "03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0006_Κλάδος_Vitamin_D_Optimisation_Titles_[CGPT-0006].md",
+          "title": "Many Definitions Connversation "
+        }
+      ],
+      "title": "Gold Zettels"
     }
   ]
 }

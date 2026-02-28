@@ -481,6 +481,170 @@ NEED HELP WITH...
 
 ---
 
+---
+
+# SECTION VI: SYSTEM MAINTENANCE PROTOCOLS
+
+## 6.1 Two-Mode Maintenance System
+
+**Purpose:** Simple, binary maintenance. No decision fatigue.
+
+### Mode 1: Extended Close (Every Session)
+
+**Trigger:** "Close session" or "We're done"
+**Duration:** 5-7 minutes
+
+**What Gets Updated:**
+
+**ALWAYS:**
+- RON-STATE.md (session count, timestamps, metrics)
+- HANDOFF.md (what happened, key outputs, next actions)
+
+**IF CHANGED:**
+- HOUSE.md (if significant work done)
+- RON-INDEX.md (if new zettels created)
+- 00-COMMAND.md (if priorities shifted)
+
+**Process:**
+1. **FREEZE** — Stop all work
+2. **UPDATE ALWAYS** — RON-STATE, HANDOFF
+3. **CHECK & CONDITIONAL UPDATE** — HOUSE, INDEX, COMMAND
+4. **COMMIT** — Git add -A, commit, verify clean
+5. **CONFIRM** — Report completion
+
+### Mode 2: Deep Review (Monthly)
+
+**Trigger:** End of month or "Deep review"
+**Duration:** 30-60 minutes
+
+**Sections:**
+1. **Cooperation Audit** — MIRROR, AUTONOMY, HEARTBEAT
+2. **Knowledge Curation** — MEMORY.md promotions, zettel review
+3. **Index Reconciliation** — All MOCs, RON-INDEX
+4. **Safety & Systems** — .gitignore, .secrets, configs
+5. **Planning** — Next month priorities
+
+**Result:** Fully maintained system
+
+---
+
+## 6.2 Session Close Ritual — Detailed
+
+### The 5 Steps (~3-7 minutes)
+
+**STEP 1: FREEZE (0s)**
+- Stop all creative work
+- Announce: "🔒 Extended close initiated"
+
+**STEP 2: CAPTURE (2min)**
+Update RON-STATE.md:
+```yaml
+last-session: [timestamp]
+session-count: +1
+tokens-this-session: [count]
+last-commit: [hash]
+status: [active/complete/paused]
+```
+
+Update HANDOFF.md:
+- What Just Happened: 3 bullets
+- Key Outputs: Links to main work
+- Next Actions: 1-3 clear items
+- Context: State for next session
+
+**STEP 3: HOUSE CHECK (2min)**
+Did we do significant work?
+- YES → Update HOUSE.md (version, pulse, changes, connections)
+- NO → Skip
+
+**STEP 4: INDEX CHECK (1min)**
+Did I create new zettels?
+- YES → Update RON-INDEX.md
+- NO → Skip
+
+**STEP 5: COMMIT (1min)**
+```bash
+git add -A
+git commit -m "Session: [brief summary]"
+git status  # Verify clean
+```
+
+**STEP 6: CONFIRM (10s)**
+```
+✅ SESSION CLOSE COMPLETE (Mode 1)
+
+Updated:
+- RON-STATE: [timestamp]
+- HANDOFF: [timestamp]
+- HOUSE: [YES/Skipped]
+- INDEX: [YES/Skipped]
+
+Git: Clean commit [hash]
+Status: Ready for next session
+```
+
+### Override Option
+
+If you say: **"Skip close"**
+
+I respond:
+```
+⚠️ MODE 1 SKIPPED (User override)
+Stale files: [list]
+Risk: Next session starts with stale context.
+Proceeding with close.
+```
+
+---
+
+# APPENDIX B: Critical Files Reference
+
+## Quick Access
+
+| Tier | Files | Update Frequency |
+|------|-------|------------------|
+| **1 (Sacred)** | SOUL.md, USER.md, MIRROR.md, AUTONOMY.md | As needed (rare) |
+| **2 (Continuity)** | RON-STATE.md, HANDOFF.md, HOUSE.md | Every session |
+| **3 (Command)** | 00-COMMAND.md, 01-QUEUE.md | Daily/weekly |
+| **4 (Indexes)** | RON-INDEX.md, MOCs | Weekly/monthly |
+| **5 (Safety)** | .gitignore, .secrets/ | As needed |
+| **6 (Memory)** | MEMORY.md | Monthly |
+| **7 (System)** | obsidian.json, configs | When tools break |
+
+## Verification Commands
+
+```bash
+# Check RON-STATE age
+stat -c "%y" ~/.openclaw/workspace/memory/RON-STATE.md
+
+# Check for uncommitted files
+cd ~/Workspaces/TheOptimizedBrain && git status --short
+
+# Check vault health
+ls 03-Zettels/RON/ | wc -l  # Count zettels
+grep "^| RON-" 05-Projects/RON/RON-INDEX.md | wc -l  # Count indexed
+```
+
+---
+
+# APPENDIX C: Command Quick Reference
+
+## Essential Commands
+
+| You Say | I Do | When |
+|---------|------|------|
+| **"Go"** | Start/continue work | Beginning |
+| **"Continue"** | Resume | After pause |
+| **"Dive deeper"** | More detail | Need depth |
+| **"Summarize"** | Condense | Too verbose |
+| **"Stop"** | Halt | Wrong direction |
+| **"Close session"** | Extended close | Done for now |
+| **"Deep review"** | Mode 2 audit | Monthly |
+| **"Status"** | Show state | Check where we are |
+| **"L4 on [task]"** | Full autonomy | Delegate |
+
+---
+
 *The map is not the territory.*  
 *But with a good map, the territory becomes navigable.*
 

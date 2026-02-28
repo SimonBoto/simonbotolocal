@@ -119,8 +119,7 @@ status: active
 | RON-PLAY-001 | Partnership Playbook — Collaboration Guide | 2026-02-28 | **EXTRACTED** ✅ |
 | **---** | **SYSTEM DOCUMENTATION** | **---** | **---** |
 | RON-SYS-001 | Critical Files Inventory | 2026-02-28 | System ✅ |
-| RON-SYS-002 | Session Close Ritual (Two-Mode) | 2026-02-28 | System ✅ |
-| RON-SYS-003 | **RON Operating Manual** — Complete Reference | 2026-02-28 | **MASTER REFERENCE** ✅ |
+| RON-SYS-003 | **RON Operating Manual** — Complete Reference (includes Two-Mode + Close Ritual) | 2026-02-28 | **MASTER REFERENCE** ✅ |
 
 ---
 
