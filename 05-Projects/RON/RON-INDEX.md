@@ -18,10 +18,10 @@ status: active
 
 | Track | Status | Last Updated | Next Milestone |
 |-------|--------|--------------|----------------|
-| Autonomy Architecture | ✅ Deployed | 2026-02-27 | Prove L2 discipline for 1 week |
+| Autonomy Architecture | ✅ Deployed | 2026-02-27 | MIRROR.md deployed, 3-cycle test active |
 | Cost Discipline | 🟡 In Progress | 2026-02-27 | Reduce startup tokens 80% |
 | Connection Expansion | 🟡 Beginning | 2026-02-27 | Add related-zettels to 10 existing zettels |
-| Session Logging | ⚪ Planned | — | Move from RON-STATE to zettel-based logs |
+| Session Logging | 🟡 Active | 2026-02-28 | First session zettel written (RON-000-0002) |
 | Predictive Loading | ⚪ Planned | — | Pre-read based on active threads |
 
 ---
@@ -31,7 +31,7 @@ status: active
 | UID | Title | Date | Type |
 |-----|-------|------|------|
 | RON-000-0001 | RON Evolution — From Tool to Co-Inhabitant | 2026-02-27 | Evolution |
-| [Future] RON-000-0002 | Session Log 2026-02-27 | — | Session |
+| RON-000-0002 | RON Session — The Mirror Architecture | 2026-02-28 | Session |
 | [Future] RON-000-0003 | Reasoning Patterns Observed | — | Pattern |
 | [Future] RON-000-0004 | Simos Decision Patterns | — | Observation |
 
@@ -99,6 +99,7 @@ When RON-Session zettels accumulate, archive here:
 | HEARTBEAT.md | Workspace | Sacred, read always |
 | RON-STATE.md | Workspace | Active, write each session |
 | AUTONOMY.md | Workspace | Active, read each session, enforce strictly |
+| MIRROR.md | Workspace | **New** — our cooperation operating system |
 
 ---
 
