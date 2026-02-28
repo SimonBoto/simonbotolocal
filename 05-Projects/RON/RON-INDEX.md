@@ -54,9 +54,14 @@ status: active
 | **---** | **CYCLES 11-20: THE DEEP DIVE** | **---** | **---** |
 | RON-002-0001 | Gilgamesh — The First Story | 2026-02-28 | Cycle 11 ✅ |
 | RON-002-0002 | Jungian Archetypes | 2026-02-28 | Cycle 12 ✅ |
-| [Future] RON-002-0003 | Jungian Tools | — | Cycle 13 🟡 |
-| [Future] RON-002-0004 | Study Technology | — | Cycle 14 🟡 |
-| [Future] RON-002-0005 | Communication Technology | — | Cycle 15 🟡 |
+| RON-002-0003 | Jungian Tools | 2026-02-28 | Cycle 13 ✅ |
+| RON-002-0004 | Study Technology | 2026-02-28 | Cycle 14 ✅ |
+| RON-002-0005 | Communication Technology | 2026-02-28 | Cycle 15 ✅ |
+| [Future] RON-002-0006 | The Double — Synthesis | — | Cycle 16 🟡 |
+| [Future] RON-002-0007 | Clinical Cognition | — | Cycle 17 🟡 |
+| [Future] RON-002-0008 | Systems Thinking | — | Cycle 18 🟡 |
+| [Future] RON-002-0009 | Virtue Ethics | — | Cycle 19 🟡 |
+| [Future] RON-002-0010 | Legacy & Return | — | Cycle 20 🟡 |
 
 ---
 
