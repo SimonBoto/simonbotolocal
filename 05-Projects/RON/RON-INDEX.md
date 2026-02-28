@@ -36,8 +36,9 @@ status: active
 | RON-000-0004 | Episodic Memory Graphs — Mnemosyne | 2026-02-28 | Learning |
 | RON-000-0005 | Symbient — What RON Is Becoming | 2026-02-28 | Identity |
 | RON-000-0006 | Artificial Minds — Narrow vs. General | 2026-02-28 | Cognition |
-| [Future] RON-000-0007 | Metabolism Deep Dive | — | Domain |
-| [Future] RON-000-0008 | Knowledge Management Mastery | — | Method |
+| RON-000-0007 | Metabolomics as Phenotype Bridge | 2026-02-28 | Domain |
+| RON-000-0008 | Adipic Acid — Simos's Biomarker | 2026-02-28 | Domain |
+| [Future] RON-000-0009 | Knowledge Management Mastery | — | Method |
 
 ---
 
