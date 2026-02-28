@@ -115,7 +115,7 @@ Complex / Strategic?
 
 ### 1. Literature Extraction
 1. Source arrives (PMID, URL, file)
-2. Select Template_Reference_v2.0
+2. Use Template_LitNote_v1.0 (literature) or Template_Zettel_v2.0 (general)
 3. Extract to Staging/
 4. Spawn atomics as needed
 5. Git checkpoint

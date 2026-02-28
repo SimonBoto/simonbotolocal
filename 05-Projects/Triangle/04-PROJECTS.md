@@ -19,7 +19,7 @@
 - **Status:** 🟡 Planning
 - **Deliverable:** 10 high-quality reference notes in `01-References/Hub/`
 - **Definition of Done:**
-  - All 10 extracted using Template_Reference_v2.0
+  - All 10 extracted using Template_LitNote_v1.0
   - YAML frontmatter complete
   - Atomic notes spawned where needed
   - Committed to git

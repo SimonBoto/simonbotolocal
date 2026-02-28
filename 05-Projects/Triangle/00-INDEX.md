@@ -52,15 +52,19 @@
 
 ## 📂 99-System Structure
 
-**Active (Minimal):**
+**Active (Lean — 9 files):**
 ```
 09-System/
-├── Architecture/          ← Design docs (2 files)
+├── 09-System.md           ← System index
+├── Architecture/          ← OPTIMAL_LINKING_PLAN
 ├── 99-GLOSSARY.md         ← Terms & aliases
 ├── UID_SYSTEM_v2.0.md     ← Naming conventions
-├── USER_GUIDE_v4.1.md     ← How-to
 ├── DISASTER_RECOVERY.md   ← Emergency procedures
-└── VAULT_STRUCTURE_v4.1.md ← Structure reference
+├── RON_Operating_Manual   ← Complete RON reference ⭐
+├── Command_Reference.md   ← Voice commands
+├── Critical_Files_Inventory ← Maintenance checklist
+├── Extraction_Checklist   ← Quality control
+└── Pre_Flight_Card        ← Quick extraction check
 ```
 
 **Company:** `05-Projects/Triangle/` (8 files)  

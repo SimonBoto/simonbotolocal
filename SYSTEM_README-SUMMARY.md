@@ -2,7 +2,7 @@
 ## One-Page Quick Reference
 
 **Full docs:** See SYSTEM_README.md (7KB)  
-**User guide:** See 09-System/USER_GUIDE_v4.1.md
+**RON Operating Manual:** See 09-System/RON_Operating_Manual_[RON-SYS-003].md
 
 ---
 
@@ -95,7 +95,7 @@ Navigate → 06-Structure/MOCs/
 
 - **Quick ref:** This file
 - **Full docs:** SYSTEM_README.md
-- **User guide:** 09-System/USER_GUIDE_v4.1.md
+- **RON Operating Manual:** 09-System/RON_Operating_Manual_[RON-SYS-003].md
 - **Support:** Ask RON
 
 ---
