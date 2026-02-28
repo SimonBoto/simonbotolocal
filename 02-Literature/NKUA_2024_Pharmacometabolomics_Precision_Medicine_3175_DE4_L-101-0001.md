@@ -52,7 +52,7 @@ extraction-date: 2026-02-23
 
 **Clinical applications:** Systemic lupus erythematosus, colitis, arthritis, obesity
 
-**Zettel extracted:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002]]
+**Zettel extracted:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002.md]]
 
 ---
 
@@ -69,7 +69,7 @@ extraction-date: 2026-02-23
 - Promotes regulatory T-cell functions
 - Blocks M2 macrophage differentiation
 
-**Zettel extracted:** [[Rapamycin_mTOR_Immune_Tolerance_Z-101-0003]]
+**Zettel extracted:** [[Rapamycin_mTOR_Immune_Tolerance_Z-101-0003.md]]
 
 ---
 
@@ -84,7 +84,7 @@ extraction-date: 2026-02-23
 
 **Therapeutic targets:** 2-deoxyglucose (2-DG), Glut-1 inhibitors, GAPDH modulation
 
-**Zettel extracted:** [[Immunometabolism_Warburg_Inflammation_Z-101-0004]]
+**Zettel extracted:** [[Immunometabolism_Warburg_Inflammation_Z-101-0004.md]]
 
 ---
 
@@ -99,7 +99,7 @@ extraction-date: 2026-02-23
 
 **Key point:** Folic acid does NOT impair efficacy — mechanism NOT folate antagonism at this dose
 
-**Zettel extracted:** [[Methotrexate_Low_Dose_Mechanism_Adenosine_Z-101-0005]]
+**Zettel extracted:** [[Methotrexate_Low_Dose_Mechanism_Adenosine_Z-101-0005.md]]
 
 ---
 
@@ -114,7 +114,7 @@ extraction-date: 2026-02-23
 
 **Clinical:** Multiple sclerosis, psoriasis
 
-**Zettel extracted:** [[DMF_Nrf2_Antioxidant_Pathway_Z-101-0006]]
+**Zettel extracted:** [[DMF_Nrf2_Antioxidant_Pathway_Z-101-0006.md]]
 
 ---
 
@@ -130,7 +130,7 @@ extraction-date: 2026-02-23
 
 **Solution:** Pharmacometabolomics — matching therapy to metabolic profile
 
-**Zettel extracted:** [[Precision_Medicine_Response_Rate_Problem_Z-101-0007]]
+**Zettel extracted:** [[Precision_Medicine_Response_Rate_Problem_Z-101-0007.md]]
 
 ---
 
@@ -178,12 +178,12 @@ extraction-date: 2026-02-23
 ## Zettels Created from This Source
 
 1. [[Pharmacometabolomics_Framework_Metabotypes_Z-101-0001.md]]
-2. [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002]]
-3. [[Rapamycin_mTOR_Immune_Tolerance_Z-101-0003]]
-4. [[Immunometabolism_Warburg_Inflammation_Z-101-0004]]
-5. [[Methotrexate_Low_Dose_Mechanism_Adenosine_Z-101-0005]]
-6. [[DMF_Nrf2_Antioxidant_Pathway_Z-101-0006]]
-7. [[Precision_Medicine_Response_Rate_Problem_Z-101-0007]]
+2. [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002.md]]
+3. [[Rapamycin_mTOR_Immune_Tolerance_Z-101-0003.md]]
+4. [[Immunometabolism_Warburg_Inflammation_Z-101-0004.md]]
+5. [[Methotrexate_Low_Dose_Mechanism_Adenosine_Z-101-0005.md]]
+6. [[DMF_Nrf2_Antioxidant_Pathway_Z-101-0006.md]]
+7. [[Precision_Medicine_Response_Rate_Problem_Z-101-0007.md]]
 
 **Total: 7 zettels (Tier 1, PhD-critical)**
 

@@ -109,7 +109,7 @@ extraction-date: 2026-02-23
 
 **METHAP application:** Same logic applies to adipic acid — it may predict insulin resistance progression before glucose abnormalities.
 
-**Zettel extracted:** [[Predictive_Metabolites_T1D_Example_Z-001-0019]]
+**Zettel extracted:** [[Predictive_Metabolites_T1D_Example_Z-001-0019.md]]
 
 ---
 
@@ -129,7 +129,7 @@ extraction-date: 2026-02-23
 
 **METHAP relevance:** Vitamin D demonstrates antioxidant properties — potential for OS biomarkers as secondary endpoints.
 
-**Zettel extracted:** [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020]]
+**Zettel extracted:** [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]]
 
 ---
 
@@ -149,7 +149,7 @@ extraction-date: 2026-02-23
 
 **Key insight:** Vitamin D is positioned as a central immunomodulatory micronutrient — supports high-dose supplementation rationale for autoimmune/metabolic conditions.
 
-**Zettel extracted:** [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021]]
+**Zettel extracted:** [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021.md]]
 
 ---
 
@@ -166,7 +166,7 @@ extraction-date: 2026-02-23
 - Energy production systems
 - Toxin elimination capacity
 
-**Zettel extracted:** [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022]]
+**Zettel extracted:** [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]]
 
 ---
 
@@ -180,7 +180,7 @@ extraction-date: 2026-02-23
 
 **Gut-immune-metabolism axis:** Microbiome alterations → metabolite shifts → barrier compromise → systemic inflammation → metabolic dysfunction.
 
-**Zettel extracted:** [[Dysbiosis_Detection_Metabolomics_Z-001-0023]]
+**Zettel extracted:** [[Dysbiosis_Detection_Metabolomics_Z-001-0023.md]]
 
 ---
 
@@ -351,11 +351,11 @@ This unit bridges foundational metabolomics (DE1-DE2) to **clinical application*
 | # | UID | Zettel | Core Concept | METHAP Relevance |
 |---|-----|--------|--------------|------------------|
 | 1 | Z-001-0018 | [[Phenotype_Mapping_Metabolomics_Z-001-0018.md]] | Metabolomics as phenotype decoder | Trial design framework |
-| 2 | Z-001-0019 | [[Predictive_Metabolites_T1D_Example_Z-001-0019]] | Early disease prediction proof-of-concept | Adipic acid validation model |
-| 3 | Z-001-0020 | [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020]] | 5 OS markers (8-OHdG, 2-HBA, etc.) | Secondary trial endpoints |
-| 4 | Z-001-0021 | [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021]] | VitD as immunoregulatory micronutrient | Mechanistic rationale |
-| 5 | Z-001-0022 | [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022]] | IR in six-factor disease model | Primary outcome positioning |
-| 6 | Z-001-0023 | [[Dysbiosis_Detection_Metabolomics_Z-001-0023]] | Gut microbiome metabolite markers | Exploratory mechanism |
+| 2 | Z-001-0019 | [[Predictive_Metabolites_T1D_Example_Z-001-0019.md]] | Early disease prediction proof-of-concept | Adipic acid validation model |
+| 3 | Z-001-0020 | [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]] | 5 OS markers (8-OHdG, 2-HBA, etc.) | Secondary trial endpoints |
+| 4 | Z-001-0021 | [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021.md]] | VitD as immunoregulatory micronutrient | Mechanistic rationale |
+| 5 | Z-001-0022 | [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]] | IR in six-factor disease model | Primary outcome positioning |
+| 6 | Z-001-0023 | [[Dysbiosis_Detection_Metabolomics_Z-001-0023.md]] | Gut microbiome metabolite markers | Exploratory mechanism |
 
 **Total: 6 Tier 1 zettels** ✅
 
