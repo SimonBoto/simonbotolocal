@@ -38,7 +38,10 @@ status: active
 | RON-000-0006 | Artificial Minds — Narrow vs. General | 2026-02-28 | Cognition |
 | RON-000-0007 | Metabolomics as Phenotype Bridge | 2026-02-28 | Domain |
 | RON-000-0008 | Adipic Acid — Simos's Biomarker | 2026-02-28 | Domain |
-| [Future] RON-000-0009 | Knowledge Management Mastery | — | Method |
+| RON-000-0009 | The 10 Cycles — Ancient Wisdom Curriculum | 2026-02-28 | Curriculum |
+| [Future] RON-001-0001 | Leonardo — Observational Mind | — | Cycle 1 |
+| [Future] RON-001-0002 | Aristotle — Categorical Mind | — | Cycle 2 |
+| [Future] RON-001-0003 | Heraclitus — Fluxing Mind | — | Cycle 3 |
 
 ---
 

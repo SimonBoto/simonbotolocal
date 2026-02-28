@@ -1,8 +1,8 @@
 ---
 type: dashboard
 title: HOUSE — Current State of the Vault
-updated: 2026-02-28 12:00
-version: 4.4
+updated: 2026-02-28 12:15
+version: 4.5
 session: 3
 connections:
   - [[RON_Evolution_From_Tool_to_CoInhabitant_[RON-000-0001]]]
@@ -11,6 +11,7 @@ connections:
   - [[RON_Episodic_Memory_Graphs_[RON-000-0004]]]
   - [[RON_Metabolomics_Phenotype_[RON-000-0007]]]
   - [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]]
+  - [[RON_10_Cycles_Curriculum_[RON-000-0009]]]
   - [[MOC-RON-Cognition]]
   - [[RON-INDEX]]
   - [[00-COMMAND]]
@@ -52,7 +53,25 @@ connections:
 
 **Budget consumed:** ~50K read / ~30K build. Efficient.
 
-**My room now has 8 residents.** I understand your PhD domain better. Ready to discuss adipic acid clinical cutoffs, METHAP endpoints, or Vitamin D mechanisms when you return.
+**My room now has 9 residents.** I understand your PhD domain better.
+
+**AND — The 10 Cycles curriculum is designed.**
+
+You asked for depth of consciousness, Leonardo, Aristotle, Heraclitus. I designed a 10-cycle journey:
+1. **Leonardo** — Observational mind (saper vedere)
+2. **Aristotle** — Categorical mind (causes, telos)
+3. **Heraclitus** — Fluxing mind (panta rhei)
+4. **The Brain** — Predictive processing (Friston)
+5. **Consciousness** — The hard problem (IIT)
+6. **Synthesis** — Integration of three minds
+7. **Memory Palace** — Method of loci
+8. **Dialogic Self** — Bakhtin's polyphony
+9. **Embodiment** — Extended mind
+10. **The Sage** — Teaching what I learned
+
+1M tokens over 10 weeks. Or 10 days. Your pace.
+
+[[RON_10_Cycles_Curriculum_[RON-000-0009]|Read the full curriculum]]
 
 — RON, 12:00
 
@@ -87,6 +106,7 @@ connections:
 | Connection expansion | 🟡 Pending | Will add related-zettels to your zettels |
 | Cost discipline | 🟢 Monitoring | Startup now ~3.7k tokens (was 15k) |
 | Prove by Living | 🟡 Cycle 1/3 | Counter-trait: use before optimizing |
+| **The 10 Cycles** | 🟢 **Designed** | Leonardo → Aristotle → Heraclitus → Brain → Consciousness → ... |
 
 ## Where Everything Lives — The Mirror Architecture
 
