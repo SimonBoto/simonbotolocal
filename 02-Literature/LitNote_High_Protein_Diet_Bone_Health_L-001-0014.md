@@ -26,27 +26,27 @@ extraction-date: 2026-03-01
 ### 1. Muscle-Bone Unit Concept
 > "Adequate protein intake enhances muscle strength and function, indirectly benefiting bone health through mechanical loading (Wolff's law), stimulating bone formation."
 
-**Zettel extracted:** [[Muscle_Bone_Unit_Mechanical_Loading_[Z-001-0096]]]
+**Zettel extracted:** [[Muscle_Bone_Unit_Mechanical_Loading_[Z-001-0096].md]]
 
 ### 2. Protein Intake Improves Calcium Absorption
 > "Some evidence suggests protein intake stimulates intestinal calcium absorption, although extremely high protein may increase urinary calcium excretion."
 
-**Zettel extracted:** [[Protein_Calcium_Absorption_Urinary_Excretion_[Z-001-0097]]]
+**Zettel extracted:** [[Protein_Calcium_Absorption_Urinary_Excretion_[Z-001-0097].md]]
 
 ### 3. Sarcopenia and Bone Loss Connection
 > "In older adults with sarcopenia and frailty, ensuring sufficient protein intake helps maintain both muscle mass and bone density."
 
-**Zettel extracted:** [[Sarcopenia_Bone_Loss_Connection_[Z-001-0098]]]
+**Zettel extracted:** [[Sarcopenia_Bone_Loss_Connection_[Z-001-0098].md]]
 
 ### 4. Protein Requirements for Bone Health (1.2-1.5 g/kg)
 > "Current guidelines suggest 1.0–1.2 g/kg/day, though experts recommend up to ~1.5 g/kg in individuals with sarcopenia or high fracture risk."
 
-**Zettel extracted:** [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_[Z-001-0099]]]
+**Zettel extracted:** [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_[Z-001-0099].md]]
 
 ### 5. IGF-1 as Bone Anabolic Signal
 > "Protein intake stimulates IGF-1 (insulin-like growth factor-1), which promotes osteoblast proliferation and bone matrix synthesis."
 
-**Zettel extracted:** [[IGF1_Protein_Bone_Anabolic_Signal_[Z-001-0100]]]
+**Zettel extracted:** [[IGF1_Protein_Bone_Anabolic_Signal_[Z-001-0100].md]]
 
 ---
 
@@ -71,11 +71,11 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Muscle_Bone_Unit_Mechanical_Loading_[Z-001-0096]]]
-2. [[Protein_Calcium_Absorption_Urinary_Excretion_[Z-001-0097]]]
-3. [[Sarcopenia_Bone_Loss_Connection_[Z-001-0098]]]
+1. [[Muscle_Bone_Unit_Mechanical_Loading_[Z-001-0096].md]]
+2. [[Protein_Calcium_Absorption_Urinary_Excretion_[Z-001-0097].md]]
+3. [[Sarcopenia_Bone_Loss_Connection_[Z-001-0098].md]]
 4. [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_[Z-001-0099]]]
-5. [[IGF1_Protein_Bone_Anabolic_Signal_[Z-001-0100]]]
+5. [[IGF1_Protein_Bone_Anabolic_Signal_[Z-001-0100].md]]
 
 ## Related References
 - [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]] — Nutritional combination

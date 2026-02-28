@@ -26,22 +26,22 @@ extraction-date: 2026-03-01
 ### 1. Osteopenia Definition (T-score -1.0 to -2.5)
 > "Osteopenia is defined by a T-score between −1.0 and −2.5 on dual-energy X-ray absorptiometry (DXA)."
 
-**Zettel extracted:** [[Osteopenia_T_score_Definition_Minus_1_to_2.5_[Z-001-0076]]]
+**Zettel extracted:** [[Osteopenia_T_score_Definition_Minus_1_to_2.5_[Z-001-0076].md]]
 
 ### 2. Osteoporosis Definition (T-score ≤ -2.5)
 > "Osteoporosis is diagnosed when the T-score is ≤ −2.5. The microarchitectural deterioration of bone, in addition to the loss of bone mass, contributes significantly to fracture risk."
 
-**Zettel extracted:** [[Osteoporosis_T_score_Definition_Minus_2.5_[Z-001-0077]]]
+**Zettel extracted:** [[Osteoporosis_T_score_Definition_Minus_2.5_[Z-001-0077].md]]
 
 ### 3. Fragility Fracture Clinical Significance
 > "Fragility fractures—especially of the hip and vertebra—are associated with significant morbidity, mortality, and reduced functional independence."
 
-**Zettel extracted:** [[Fragility_Fractures_Morbidity_Mortality_[Z-001-0078]]]
+**Zettel extracted:** [[Fragility_Fractures_Morbidity_Mortality_[Z-001-0078].md]]
 
 ### 4. FRAX Risk Assessment Tool
 > "Clinical risk factors (age, prior fracture, smoking, family history, hormone status) and tools such as FRAX® guide decisions regarding treatment thresholds."
 
-**Zettel extracted:** [[FRAX_Fracture_Risk_Assessment_Tool_[Z-001-0079]]]
+**Zettel extracted:** [[FRAX_Fracture_Risk_Assessment_Tool_[Z-001-0079].md]]
 
 ---
 
@@ -66,10 +66,10 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Osteopenia_T_score_Definition_Minus_1_to_2.5_[Z-001-0076]]]
-2. [[Osteoporosis_T_score_Definition_Minus_2.5_[Z-001-0077]]]
-3. [[Fragility_Fractures_Morbidity_Mortality_[Z-001-0078]]]
-4. [[FRAX_Fracture_Risk_Assessment_Tool_[Z-001-0079]]]
+1. [[Osteopenia_T_score_Definition_Minus_1_to_2.5_[Z-001-0076].md]]
+2. [[Osteoporosis_T_score_Definition_Minus_2.5_[Z-001-0077].md]]
+3. [[Fragility_Fractures_Morbidity_Mortality_[Z-001-0078].md]]
+4. [[FRAX_Fracture_Risk_Assessment_Tool_[Z-001-0079].md]]
 
 ## Related References
 - [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]] — Cellular basis

@@ -26,27 +26,27 @@ extraction-date: 2026-03-01
 ### 1. Osteoclasts — Bone Resorbing Cells
 > "Osteoclasts are multinucleated cells originating from the monocyte-macrophage lineage. They resorb bone by creating an acidic microenvironment that dissolves the mineral matrix."
 
-**Zettel extracted:** [[Osteoclasts_Bone_Resorbing_Cells_[Z-001-0080]]]
+**Zettel extracted:** [[Osteoclasts_Bone_Resorbing_Cells_[Z-001-0080].md]]
 
 ### 2. Osteoblasts — Bone Forming Cells
 > "Osteoblasts are derived from mesenchymal stem cells, these cells synthesize new bone matrix (osteoid) and initiate its mineralization."
 
-**Zettel extracted:** [[Osteoblasts_Bone_Forming_Cells_[Z-001-0081]]]
+**Zettel extracted:** [[Osteoblasts_Bone_Forming_Cells_[Z-001-0081].md]]
 
 ### 3. RANK/RANKL/OPG Signaling System
 > "Osteoclast differentiation and activity are primarily regulated by the RANK/RANKL/OPG system. Osteoblasts secrete osteoprotegerin (OPG), which binds RANKL and reduces osteoclast formation."
 
-**Zettel extracted:** [[RANK_RANKL_OPG_Osteoclast_Regulation_[Z-001-0082]]]
+**Zettel extracted:** [[RANK_RANKL_OPG_Osteoclast_Regulation_[Z-001-0082].md]]
 
 ### 4. Bone Remodeling Cycle (5 Phases)
 > "Bone remodeling is a tightly regulated, cyclical process: Activation → Resorption → Reversal → Formation → Resting."
 
-**Zettel extracted:** [[Bone_Remodeling_Cycle_Five_Phases_[Z-001-0083]]]
+**Zettel extracted:** [[Bone_Remodeling_Cycle_Five_Phases_[Z-001-0083].md]]
 
 ### 5. Net Bone Loss Mechanism
 > "When resorption outpaces formation (or when formation is inadequate to match normal resorption), net bone loss occurs, manifesting as osteopenia or osteoporosis."
 
-**Zettel extracted:** [[Net_Bone_Loss_Resorption_Exceeds_Formation_[Z-001-0084]]]
+**Zettel extracted:** [[Net_Bone_Loss_Resorption_Exceeds_Formation_[Z-001-0084].md]]
 
 ---
 
@@ -72,11 +72,11 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Osteoclasts_Bone_Resorbing_Cells_[Z-001-0080]]]
-2. [[Osteoblasts_Bone_Forming_Cells_[Z-001-0081]]]
-3. [[RANK_RANKL_OPG_Osteoclast_Regulation_[Z-001-0082]]]
-4. [[Bone_Remodeling_Cycle_Five_Phases_[Z-001-0083]]]
-5. [[Net_Bone_Loss_Resorption_Exceeds_Formation_[Z-001-0084]]]
+1. [[Osteoclasts_Bone_Resorbing_Cells_[Z-001-0080].md]]
+2. [[Osteoblasts_Bone_Forming_Cells_[Z-001-0081].md]]
+3. [[RANK_RANKL_OPG_Osteoclast_Regulation_[Z-001-0082].md]]
+4. [[Bone_Remodeling_Cycle_Five_Phases_[Z-001-0083].md]]
+5. [[Net_Bone_Loss_Resorption_Exceeds_Formation_[Z-001-0084].md]]
 
 ## Related References
 - [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]] — Clinical context
