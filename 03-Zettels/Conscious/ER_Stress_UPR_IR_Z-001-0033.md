@@ -33,9 +33,9 @@ Metabolic overload creates endoplasmic reticulum stress when protein synthesis d
 
 ## Links
 
-- **Upstream:** [[Z-001-0029]] — Lipotoxicity induces ER stress
-- **Parallel:** [[Z-001-0031]] — Shared JNK activation pathway
-- **Downstream:** [[Z-001-0034]] — Compensatory hyperinsulinemia
+- **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029]] — Lipotoxicity induces ER stress
+- **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031]] — Shared JNK activation pathway
+- **Downstream:** [[Compensatory_IR_Stage_Z-001-0034]] — Compensatory hyperinsulinemia
 
 ## Context
 

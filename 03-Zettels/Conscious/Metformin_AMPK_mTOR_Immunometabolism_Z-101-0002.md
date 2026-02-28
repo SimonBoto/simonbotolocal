@@ -40,9 +40,9 @@ Metformin inhibits mitochondrial Complex I, reducing ATP production and activati
 
 ## Links
 
-- **Upstream:** [[Z-001-0031]] — Inflammatory signaling pathways
-- **Parallel:** [[Z-101-0003]] — Rapamycin also targets mTOR
-- **Downstream:** [[Z-001-0045]] — Shared pathways in METHAP panel
+- **Upstream:** [[Inflammatory_Signaling_IR_Z-001-0031]] — Inflammatory signaling pathways
+- **Parallel:** [[Rapamycin_mTOR_Immune_Tolerance_Z-101-0003]] — Rapamycin also targets mTOR
+- **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045]] — Shared pathways in METHAP panel
 
 ## Context
 

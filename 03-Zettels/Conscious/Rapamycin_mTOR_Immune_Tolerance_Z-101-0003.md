@@ -45,8 +45,8 @@ Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central reg
 
 ## Links
 
-- **Upstream:** [[Z-101-0002]] — Metformin also modulates mTOR
-- **Parallel:** [[Z-001-0031]] — Inflammatory cytokine pathways
+- **Upstream:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002]] — Metformin also modulates mTOR
+- **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031]] — Inflammatory cytokine pathways
 - **Downstream:** [[MOC-SLE]], [[MOC-Immune-Tolerance]]
 
 ## Context

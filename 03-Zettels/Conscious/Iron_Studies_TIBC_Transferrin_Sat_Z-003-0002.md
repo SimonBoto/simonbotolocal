@@ -59,8 +59,8 @@ $$
 ## 🔗 Connected Systems
 
 **Iron Status:**
-- [[Z-003-0001]] — Ferritin (stores, but confounded by inflammation)
-- [[Z-003-0013]] — Iron patterns (deficiency vs ACD vs overload)
+- [[Ferritin_Interpretation_Iron_Status_Z-003-0001]] — Ferritin (stores, but confounded by inflammation)
+- [[Iron_Status_Patterns_ACD_Overload_Z-003-0013]] — Iron patterns (deficiency vs ACD vs overload)
 - TIBC + transferrin sat clarify ferritin interpretation
 
 **Methylation:**

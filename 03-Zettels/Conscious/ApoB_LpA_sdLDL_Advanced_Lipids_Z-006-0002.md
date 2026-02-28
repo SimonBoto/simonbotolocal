@@ -55,18 +55,18 @@ connections:
 | **20-30** | 🟡 Intermediate | Moderate |
 | **>30** | 🔴 Pattern B | High |
 
-**Link to IR:** [[Z-006-0001]] — TG/HDL >3.0 strongly predicts elevated sdLDL
+**Link to IR:** [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001]] — TG/HDL >3.0 strongly predicts elevated sdLDL
 
 ---
 
 ## 🔗 Connected Systems
 
 **Lipid Patterns:**
-- [[Z-006-0001]] — Lipid Pattern A/B (sdLDL defines Pattern B)
-- [[Z-001-0049]] — TG/HDL ratio (correlates with sdLDL)
+- [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001]] — Lipid Pattern A/B (sdLDL defines Pattern B)
+- [[TG_HDL_Ratio_IR_Marker_Z-001-0049]] — TG/HDL ratio (correlates with sdLDL)
 
 **Insulin Resistance:**
-- [[Z-001-0050]] — Metabolic syndrome (drives Pattern B, ↑sdLDL)
+- [[Metabolic_Syndrome_Criteria_Z-001-0050]] — Metabolic syndrome (drives Pattern B, ↑sdLDL)
 - IR → hepatic overproduction of VLDL → CETP-mediated TG exchange → sdLDL
 
 ---

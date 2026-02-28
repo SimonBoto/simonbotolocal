@@ -62,15 +62,15 @@ The **CBC** provides baseline hematologic status. Beyond anemia detection, patte
 ## 🔗 Connected Systems
 
 **Iron Status:**
-- [[Z-003-0001]] — Ferritin (low Hct + low ferritin = iron deficiency)
-- [[Z-003-0013]] — Iron patterns (anemia of chronic disease)
+- [[Ferritin_Interpretation_Iron_Status_Z-003-0001]] — Ferritin (low Hct + low ferritin = iron deficiency)
+- [[Iron_Status_Patterns_ACD_Overload_Z-003-0013]] — Iron patterns (anemia of chronic disease)
 
 **Inflammation:**
-- [[Z-007-0001]] — CRP/ESR (WBC and platelets rise with inflammation)
+- [[Inflammation_Markers_CRP_ESR_Z-007-0001]] — CRP/ESR (WBC and platelets rise with inflammation)
 - Platelets as acute phase reactant
 
 **Methylation:**
-- [[Z-004-0019]] — Functional B12 deficiency (macrocytic anemia)
+- [[Functional_B12_Deficiency_MMA_Assessment_Z-004-0019]] — Functional B12 deficiency (macrocytic anemia)
 - MCV >100 fL suggests B12/folate deficiency
 
 ---
@@ -103,7 +103,7 @@ The **CBC** provides baseline hematologic status. Beyond anemia detection, patte
 | Platelets 400-500 × 10³/μL | Reactive thrombocytosis |
 | Normocytic anemia | Anemia of chronic disease |
 
-**Link:** [[Z-007-0001]] — CRP elevation confirms inflammation
+**Link:** [[Inflammation_Markers_CRP_ESR_Z-007-0001]] — CRP elevation confirms inflammation
 
 ---
 

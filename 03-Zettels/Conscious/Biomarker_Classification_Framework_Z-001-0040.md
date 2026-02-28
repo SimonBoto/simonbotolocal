@@ -35,8 +35,8 @@ Biomarkers can be classified across five dimensions to evaluate clinical utility
 ## Links
 
 - **Upstream:** [[MOC-Biomarkers]] — Overview
-- **Parallel:** [[Z-001-0041]] — Adipic acid as example
-- **Downstream:** [[Z-001-0045]] — METHAP panel applies this framework
+- **Parallel:** [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]] — Adipic acid as example
+- **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045]] — METHAP panel applies this framework
 
 ## Context
 

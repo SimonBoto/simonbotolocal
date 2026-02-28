@@ -39,7 +39,7 @@ The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates mul
 
 ## Links
 
-- **Upstream:** [[Z-001-0040]] — Classification framework
+- **Upstream:** [[Biomarker_Classification_Framework_Z-001-0040]] — Classification framework
 - **Parallel:** [[MOC-PhD-Protocol]] — Trial design context
 - **Downstream:** [[MOC-Clinical-Implementation]] — Practical application
 

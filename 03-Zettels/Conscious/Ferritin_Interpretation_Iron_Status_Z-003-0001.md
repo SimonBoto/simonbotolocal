@@ -43,16 +43,16 @@ connections:
 ## 🔗 Connected Systems
 
 **Iron Metabolism:**
-- [[Z-003-0013]] — Iron status patterns (deficiency vs anemia of chronic disease)
-- [[Z-003-0002]] — Transferrin/TIBC (transport capacity)
+- [[Iron_Status_Patterns_ACD_Overload_Z-003-0013]] — Iron status patterns (deficiency vs anemia of chronic disease)
+- [[Iron_Studies_TIBC_Transferrin_Sat_Z-003-0002]] — Transferrin/TIBC (transport capacity)
 - [[Z-003-0003]] — Transferrin saturation (functional availability)
 
 **Methylation:**
 - [[Z-004-0011]] — Iron required for methionine synthase
-- [[Z-004-0001]] — Homocysteine (elevated when iron low)
+- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001]] — Homocysteine (elevated when iron low)
 
 **Inflammation:**
-- [[Z-007-0001]] — CRP (inflammation elevates ferritin)
+- [[Inflammation_Markers_CRP_ESR_Z-007-0001]] — CRP (inflammation elevates ferritin)
 
 ---
 

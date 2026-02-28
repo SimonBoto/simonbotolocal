@@ -42,7 +42,7 @@ connections:
 ## 🔗 Connected Systems
 
 **Metabolic Syndrome:**
-- [[Z-001-0050]] — Metabolic syndrome criteria (BP is 1 of 5)
+- [[Metabolic_Syndrome_Criteria_Z-001-0050]] — Metabolic syndrome criteria (BP is 1 of 5)
 - Hypertension clusters with IR, dyslipidemia, central obesity
 
 **Insulin Resistance Mechanisms:**
@@ -51,11 +51,11 @@ connections:
 - IR → endothelial dysfunction → vascular stiffness
 
 **Uric Acid:**
-- [[Z-001-0052]] — Uric acid (elevated uric acid causes endothelial dysfunction)
+- [[Uric_Acid_Metabolic_Marker_Z-001-0052]] — Uric acid (elevated uric acid causes endothelial dysfunction)
 - Hyperuricemia → HTN independent of metabolic syndrome
 
 **Kidney:**
-- [[Z-009-0001]] — eGFR (hypertension damages kidneys; kidney disease causes HTN)
+- [[Kidney_Function_eGFR_Creatinine_Z-009-0001]] — eGFR (hypertension damages kidneys; kidney disease causes HTN)
 
 ---
 

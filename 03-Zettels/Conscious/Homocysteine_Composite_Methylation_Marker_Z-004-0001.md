@@ -40,14 +40,14 @@ connections:
 ## 🔗 Connected Systems
 
 **Methylation Cycle:**
-- [[Z-004-0019]] — Functional B12 deficiency (MMA + homocysteine together)
+- [[Functional_B12_Deficiency_MMA_Assessment_Z-004-0019]] — Functional B12 deficiency (MMA + homocysteine together)
 - [[Z-004-0005]] — MTHFR variants (impair folate cycle)
 - [[Z-004-0006]] — MTR/MTRR (B12-dependent remethylation)
 
 **Cofactor Dependencies:**
 - [[Z-003-0010]] — Iron required for methionine synthase
 - [[Z-003-0011]] — Iron deficiency → elevated homocysteine
-- [[Z-002-0004]] — Vitamin D supports methylation via calcium signaling
+- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004]] — Vitamin D supports methylation via calcium signaling
 
 **Clinical Outcomes:**
 - Elevated homocysteine → endothelial dysfunction

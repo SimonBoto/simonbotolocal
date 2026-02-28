@@ -46,16 +46,16 @@ connections:
 ## 🔗 Connected Systems
 
 **Thyroid Function:**
-- [[Z-005-0001]] — Thyroid optimal ranges (antibodies may precede TSH elevation)
+- [[Thyroid_Optimal_Ranges_Z-005-0001]] — Thyroid optimal ranges (antibodies may precede TSH elevation)
 - Hashimoto's progression: Antibodies ↑ → TSH ↑ → fT4 ↓
 
 **Inflammation:**
-- [[Z-007-0001]] — CRP/ESR (autoimmunity is inflammatory)
-- [[Z-001-0019]] — Inflammatory signaling (thyroiditis = organ-specific inflammation)
+- [[Inflammation_Markers_CRP_ESR_Z-007-0001]] — CRP/ESR (autoimmunity is inflammatory)
+- [[Predictive_Metabolites_T1D_Example_Z-001-0019]] — Inflammatory signaling (thyroiditis = organ-specific inflammation)
 
 **Metabolic Impact:**
 - Hashimoto's → hypothyroidism → insulin resistance
-- [[Z-001-0046]] — HOMA-IR (often elevated in hypothyroidism)
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046]] — HOMA-IR (often elevated in hypothyroidism)
 
 ---
 

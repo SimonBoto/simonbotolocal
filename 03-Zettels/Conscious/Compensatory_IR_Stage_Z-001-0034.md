@@ -37,9 +37,9 @@ The disconnect between normal glucose and elevated insulin is the diagnostic clu
 
 ## Links
 
-- **Upstream:** [[Z-001-0029]], [[Z-001-0030]], [[Z-001-0031]] — All mechanisms converge here
-- **Parallel:** [[Z-001-0044]] — Fasting insulin detects this stage
-- **Downstream:** [[Z-001-0035]] — Progresses to beta-cell exhaustion
+- **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029]], [[Mitochondrial_Dysfunction_IR_Z-001-0030]], [[Inflammatory_Signaling_IR_Z-001-0031]] — All mechanisms converge here
+- **Parallel:** [[Fasting_Insulin_Superior_Early_Detection_Z-001-0044]] — Fasting insulin detects this stage
+- **Downstream:** [[Beta_Cell_Exhaustion_Stage_Z-001-0035]] — Progresses to beta-cell exhaustion
 
 ## Context
 

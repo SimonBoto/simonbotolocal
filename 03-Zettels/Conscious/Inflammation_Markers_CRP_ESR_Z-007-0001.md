@@ -48,13 +48,13 @@ connections:
 ## 🔗 Connected Systems
 
 **Iron Metabolism:**
-- [[Z-003-0001]] — Ferritin (elevated by inflammation)
-- [[Z-003-0013]] — Anemia of chronic disease (CRP drives hepcidin)
+- [[Ferritin_Interpretation_Iron_Status_Z-003-0001]] — Ferritin (elevated by inflammation)
+- [[Iron_Status_Patterns_ACD_Overload_Z-003-0013]] — Anemia of chronic disease (CRP drives hepcidin)
 - High CRP → functional iron deficiency
 
 **Insulin Resistance:**
-- [[Z-001-0019]] — Inflammatory signaling (cytokines cause IR)
-- [[Z-001-0050]] — Metabolic syndrome (chronic low-grade inflammation)
+- [[Predictive_Metabolites_T1D_Example_Z-001-0019]] — Inflammatory signaling (cytokines cause IR)
+- [[Metabolic_Syndrome_Criteria_Z-001-0050]] — Metabolic syndrome (chronic low-grade inflammation)
 - Elevated CRP predicts T2DM development
 
 **Methylation:**
@@ -85,7 +85,7 @@ connections:
 | ESR | 15-30 mm/hr | Mild elevation |
 | Pattern | | Visceral adiposity cytokine release |
 
-**Link:** [[Z-001-0050]] — Metabolic syndrome criteria (inflammation component)
+**Link:** [[Metabolic_Syndrome_Criteria_Z-001-0050]] — Metabolic syndrome criteria (inflammation component)
 
 ### Infection vs Autoimmune vs Metabolic
 | Condition | CRP | ESR | Pattern |

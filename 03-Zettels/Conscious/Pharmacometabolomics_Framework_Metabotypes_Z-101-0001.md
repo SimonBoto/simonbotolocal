@@ -36,9 +36,9 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 
 ## Links
 
-- **Upstream:** [[Z-001-0040]] — Biomarker classification framework
-- **Parallel:** [[Z-101-0007]] — Response rate problem drives need
-- **Downstream:** [[Z-001-0045]] — METHAP panel applies this
+- **Upstream:** [[Biomarker_Classification_Framework_Z-001-0040]] — Biomarker classification framework
+- **Parallel:** [[Precision_Medicine_Response_Rate_Problem_Z-101-0007]] — Response rate problem drives need
+- **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045]] — METHAP panel applies this
 
 ## Context
 

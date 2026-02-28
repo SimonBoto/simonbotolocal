@@ -44,8 +44,8 @@ HPA Axis Dysregulation
 
 ## Links
 
-- **Upstream:** [[Z-001-0034]] — Metabolic stress feeds back
-- **Parallel:** [[Z-001-0037]], [[Z-001-0038]] — Other vicious cycles
+- **Upstream:** [[Compensatory_IR_Stage_Z-001-0034]] — Metabolic stress feeds back
+- **Parallel:** [[Vicious_Cycle_IR_Obesity_Z-001-0037]], [[Vicious_Cycle_Inflammation_IR_Z-001-0038]] — Other vicious cycles
 - **Downstream:** [[MOC-Stress-Management]] — Interventions
 
 ## Context

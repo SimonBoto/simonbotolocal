@@ -55,7 +55,7 @@ extraction-date: 2026-02-23
 
 **Clinical application:** Diabetes as polyfactorial disease requiring combined analysis of genes, enzymes, lifestyle factors.
 
-**Zettel extracted:** [[Z-001-0001]]
+**Zettel extracted:** [[Insulin_Receptor_Structure_[Z-001-0001]]]
 
 ---
 
@@ -69,7 +69,7 @@ extraction-date: 2026-02-23
 - Environmental factors (diet, smoking, alcohol, exercise, toxins, drugs, stress)
 - Real-time physiological state
 
-**Zettel extracted:** [[Z-001-0002]]
+**Zettel extracted:** [[Insulin_Hormone_Structure_[Z-001-0002]]]
 
 ---
 
@@ -84,7 +84,7 @@ extraction-date: 2026-02-23
 - Therapeutic intervention targeting
 - Vitamin D as environmental modulator
 
-**Zettel extracted:** [[Z-001-0003]]
+**Zettel extracted:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003]]
 
 ---
 

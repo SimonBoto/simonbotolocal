@@ -33,9 +33,9 @@ Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capa
 
 ## Links
 
-- **Upstream:** [[Z-001-0001]] — Excess nutrient intake triggers pathway
-- **Parallel:** [[Z-001-0030]] — Mitochondrial dysfunction co-occurs
-- **Downstream:** [[Z-001-0034]] — Compensatory hyperinsulinemia results
+- **Upstream:** [[Insulin_Receptor_Structure_[Z-001-0001]]] — Excess nutrient intake triggers pathway
+- **Parallel:** [[Mitochondrial_Dysfunction_IR_Z-001-0030]] — Mitochondrial dysfunction co-occurs
+- **Downstream:** [[Compensatory_IR_Stage_Z-001-0034]] — Compensatory hyperinsulinemia results
 
 ## Context
 

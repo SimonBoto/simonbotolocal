@@ -28,27 +28,27 @@ extraction-date: 2026-02-24
 > "Insulin resistance is not a disease. It's an adaptive response gone chronic."
 
 **Zettels extracted:**
-- [[Z-001-0029]] — Lipotoxicity Pathway
-- [[Z-001-0030]] — Mitochondrial Dysfunction
-- [[Z-001-0031]] — Inflammatory Signaling
-- [[Z-001-0032]] — Gut-Derived Mechanisms
-- [[Z-001-0033]] — ER Stress and UPR
+- [[Lipotoxicity_Pathway_IR_Z-001-0029]] — Lipotoxicity Pathway
+- [[Mitochondrial_Dysfunction_IR_Z-001-0030]] — Mitochondrial Dysfunction
+- [[Inflammatory_Signaling_IR_Z-001-0031]] — Inflammatory Signaling
+- [[Gut_Derived_Mechanisms_IR_Z-001-0032]] — Gut-Derived Mechanisms
+- [[ER_Stress_UPR_IR_Z-001-0033]] — ER Stress and UPR
 
 ### 2. Three Clinical Stages
 > "The question: What converts acute → chronic?"
 
 **Zettels extracted:**
-- [[Z-001-0034]] — Compensatory IR (Stage 1)
-- [[Z-001-0035]] — Beta-Cell Exhaustion (Stage 2)
-- [[Z-001-0036]] — Overt Diabetes (Stage 3)
+- [[Compensatory_IR_Stage_Z-001-0034]] — Compensatory IR (Stage 1)
+- [[Beta_Cell_Exhaustion_Stage_Z-001-0035]] — Beta-Cell Exhaustion (Stage 2)
+- [[Overt_Diabetes_Stage_Z-001-0036]] — Overt Diabetes (Stage 3)
 
 ### 3. Three Vicious Cycles
 > "Acute IR: Protective. Chronic IR: Pathological."
 
 **Zettels extracted:**
-- [[Z-001-0037]] — IR → Obesity → IR
-- [[Z-001-0038]] — Inflammation → IR → Inflammation
-- [[Z-001-0039]] — Stress → Cortisol → IR → Stress
+- [[Vicious_Cycle_IR_Obesity_Z-001-0037]] — IR → Obesity → IR
+- [[Vicious_Cycle_Inflammation_IR_Z-001-0038]] — Inflammation → IR → Inflammation
+- [[Vicious_Cycle_Stress_IR_Z-001-0039]] — Stress → Cortisol → IR → Stress
 
 ---
 
@@ -84,17 +84,17 @@ extraction-date: 2026-02-24
 
 ## Zettels Created from This Source
 
-1. [[Z-001-0029]] — Lipotoxicity Pathway in IR
-2. [[Z-001-0030]] — Mitochondrial Dysfunction in IR
-3. [[Z-001-0031]] — Inflammatory Signaling in IR
-4. [[Z-001-0032]] — Gut-Derived Mechanisms in IR
-5. [[Z-001-0033]] — ER Stress and UPR in IR
-6. [[Z-001-0034]] — Compensatory IR Stage
-7. [[Z-001-0035]] — Beta-Cell Exhaustion Stage
-8. [[Z-001-0036]] — Overt Diabetes Stage
-9. [[Z-001-0037]] — Vicious Cycle: IR → Obesity → IR
-10. [[Z-001-0038]] — Vicious Cycle: Inflammation → IR
-11. [[Z-001-0039]] — Vicious Cycle: Stress → IR
+1. [[Lipotoxicity_Pathway_IR_Z-001-0029]] — Lipotoxicity Pathway in IR
+2. [[Mitochondrial_Dysfunction_IR_Z-001-0030]] — Mitochondrial Dysfunction in IR
+3. [[Inflammatory_Signaling_IR_Z-001-0031]] — Inflammatory Signaling in IR
+4. [[Gut_Derived_Mechanisms_IR_Z-001-0032]] — Gut-Derived Mechanisms in IR
+5. [[ER_Stress_UPR_IR_Z-001-0033]] — ER Stress and UPR in IR
+6. [[Compensatory_IR_Stage_Z-001-0034]] — Compensatory IR Stage
+7. [[Beta_Cell_Exhaustion_Stage_Z-001-0035]] — Beta-Cell Exhaustion Stage
+8. [[Overt_Diabetes_Stage_Z-001-0036]] — Overt Diabetes Stage
+9. [[Vicious_Cycle_IR_Obesity_Z-001-0037]] — Vicious Cycle: IR → Obesity → IR
+10. [[Vicious_Cycle_Inflammation_IR_Z-001-0038]] — Vicious Cycle: Inflammation → IR
+11. [[Vicious_Cycle_Stress_IR_Z-001-0039]] — Vicious Cycle: Stress → IR
 
 **Total: 11 zettels**
 
@@ -102,7 +102,7 @@ extraction-date: 2026-02-24
 
 ## Related References
 - [[R-001-0037]] — Reaven 1988 Banting Lecture — Historical foundation
-- [[Z-001-0045]] — METHAP Panel — Applies this framework
+- [[METHAP_Biomarker_Panel_Z-001-0045]] — METHAP Panel — Applies this framework
 
 ---
 

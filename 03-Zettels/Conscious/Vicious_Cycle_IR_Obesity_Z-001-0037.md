@@ -40,8 +40,8 @@ Worsening IR
 
 ## Links
 
-- **Upstream:** [[Z-001-0034]] — Compensatory hyperinsulinemia drives this
-- **Parallel:** [[Z-001-0038]], [[Z-001-0039]] — Other vicious cycles
+- **Upstream:** [[Compensatory_IR_Stage_Z-001-0034]] — Compensatory hyperinsulinemia drives this
+- **Parallel:** [[Vicious_Cycle_Inflammation_IR_Z-001-0038]], [[Vicious_Cycle_Stress_IR_Z-001-0039]] — Other vicious cycles
 - **Downstream:** [[MOC-Weight-Loss-Resistance]] — Why diets fail
 
 ## Context

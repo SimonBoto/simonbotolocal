@@ -32,8 +32,8 @@ HOMA-IR (Homeostatic Model Assessment for Insulin Resistance) requires elevated 
 
 ## Links
 
-- **Upstream:** [[Z-001-0034]] — HOMA-IR misses this stage
-- **Parallel:** [[Z-001-0044]] — Fasting insulin detects earlier
+- **Upstream:** [[Compensatory_IR_Stage_Z-001-0034]] — HOMA-IR misses this stage
+- **Parallel:** [[Fasting_Insulin_Superior_Early_Detection_Z-001-0044]] — Fasting insulin detects earlier
 - **Downstream:** [[MOC-Early-Detection]] — Better alternatives
 
 ## Context

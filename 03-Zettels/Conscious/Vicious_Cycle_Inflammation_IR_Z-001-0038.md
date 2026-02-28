@@ -40,8 +40,8 @@ More Inflammation
 
 ## Links
 
-- **Upstream:** [[Z-001-0031]] — Inflammatory signaling mechanism
-- **Parallel:** [[Z-001-0037]], [[Z-001-0039]] — Other vicious cycles
+- **Upstream:** [[Inflammatory_Signaling_IR_Z-001-0031]] — Inflammatory signaling mechanism
+- **Parallel:** [[Vicious_Cycle_IR_Obesity_Z-001-0037]], [[Vicious_Cycle_Stress_IR_Z-001-0039]] — Other vicious cycles
 - **Downstream:** [[MOC-Anti-Inflammatory]] — Interventions
 
 ## Context

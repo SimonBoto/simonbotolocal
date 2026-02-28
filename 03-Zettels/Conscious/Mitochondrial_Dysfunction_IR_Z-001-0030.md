@@ -31,9 +31,9 @@ Mitochondrial overload from chronic nutrient excess creates oxidative stress whe
 
 ## Links
 
-- **Upstream:** [[Z-001-0029]] — Lipotoxicity creates mitochondrial load
-- **Parallel:** [[Z-001-0031]] — Inflammation amplifies oxidative stress
-- **Downstream:** [[Z-001-0034]] — Compensatory IR develops
+- **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029]] — Lipotoxicity creates mitochondrial load
+- **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031]] — Inflammation amplifies oxidative stress
+- **Downstream:** [[Compensatory_IR_Stage_Z-001-0034]] — Compensatory IR develops
 
 ## Context
 

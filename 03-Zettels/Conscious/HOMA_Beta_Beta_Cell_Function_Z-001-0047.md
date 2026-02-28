@@ -53,17 +53,17 @@ $$
 ## 🔗 Connected Concepts
 
 **IR Assessment Pair:**
-- [[Z-001-0046]] — HOMA-IR (always interpret together)
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046]] — HOMA-IR (always interpret together)
 - Pattern: High HOMA-IR + High HOMA-β = Compensated IR
 - Pattern: High HOMA-IR + Low HOMA-β = Decompensated/failing β-cells
 
 **Mechanisms:**
-- [[Z-001-0016]] — Mitochondrial dysfunction (β-cell energy failure)
-- [[Z-001-0018]] — Lipotoxicity (chronic IR damages β-cells)
-- [[Z-001-0019]] — Inflammatory signaling (cytokine-mediated β-cell apoptosis)
+- [[MAPK_Mitogenic_Pathway_[Z-001-0016]]] — Mitochondrial dysfunction (β-cell energy failure)
+- [[Phenotype_Mapping_Metabolomics_Z-001-0018]] — Lipotoxicity (chronic IR damages β-cells)
+- [[Predictive_Metabolites_T1D_Example_Z-001-0019]] — Inflammatory signaling (cytokine-mediated β-cell apoptosis)
 
 **Clinical Context:**
-- [[Z-001-0050]] — Metabolic syndrome (progressive β-cell stress)
+- [[Metabolic_Syndrome_Criteria_Z-001-0050]] — Metabolic syndrome (progressive β-cell stress)
 
 ---
 

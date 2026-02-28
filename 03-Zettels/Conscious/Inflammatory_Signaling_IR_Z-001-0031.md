@@ -33,9 +33,9 @@ Chronic low-grade inflammation activates innate immunity through TLR4 (activated
 
 ## Links
 
-- **Upstream:** [[Z-001-0029]] — Adipose inflammation produces cytokines
-- **Parallel:** [[Z-001-0030]] — Oxidative stress activates same pathways
-- **Downstream:** [[Z-001-0038]] — Vicious cycle: inflammation ↔ IR
+- **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029]] — Adipose inflammation produces cytokines
+- **Parallel:** [[Mitochondrial_Dysfunction_IR_Z-001-0030]] — Oxidative stress activates same pathways
+- **Downstream:** [[Vicious_Cycle_Inflammation_IR_Z-001-0038]] — Vicious cycle: inflammation ↔ IR
 
 ## Context
 

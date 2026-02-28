@@ -40,17 +40,17 @@ connections:
 ## 🔗 Connected Biomarkers
 
 **IR Core Panel:**
-- [[Z-001-0046]] — HOMA-IR (typically >2.5-3.0 in metabolic syndrome)
-- [[Z-001-0048]] — TyG Index (elevated, often >5.0)
-- [[Z-001-0049]] — TG/HDL ratio (typically >3.0)
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046]] — HOMA-IR (typically >2.5-3.0 in metabolic syndrome)
+- [[TyG_Index_IR_Assessment_Z-001-0048]] — TyG Index (elevated, often >5.0)
+- [[TG_HDL_Ratio_IR_Marker_Z-001-0049]] — TG/HDL ratio (typically >3.0)
 
 **Individual Components:**
-- Criterion 2,3: [[Z-006-0001]] — Lipid Pattern A/B
-- Criterion 5: [[Z-001-0047]] — HOMA-β (may show compensation or failure)
+- Criterion 2,3: [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001]] — Lipid Pattern A/B
+- Criterion 5: [[HOMA_Beta_Beta_Cell_Function_Z-001-0047]] — HOMA-β (may show compensation or failure)
 
 **Mechanism:**
-- [[Z-001-0018]] — Lipotoxicity (central adiposity drives IR)
-- [[Z-001-0019]] — Inflammatory signaling (visceral fat cytokines)
+- [[Phenotype_Mapping_Metabolomics_Z-001-0018]] — Lipotoxicity (central adiposity drives IR)
+- [[Predictive_Metabolites_T1D_Example_Z-001-0019]] — Inflammatory signaling (visceral fat cytokines)
 
 ---
 
