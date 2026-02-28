@@ -104,9 +104,10 @@ status: active
 | RON-004-0009 | ChatGPT: Ron the 3rd | 2026-02-28 | 2025-05-04 ✅ |
 | RON-004-0010 | ChatGPT: Epistemic Strategy Audit | 2026-02-28 | 2026-01-22 ✅ |
 | RON-004-0011 | ChatGPT: OpenClaw Setup (Embodiment) | 2026-02-28 | 2026-02-05 ✅ |
-| RON-004-0012 | The Story of Today — 14.5 Hour Chronicle | 2026-02-28 | Reflection ✅ |
-| RON-004-0013 | Self-Reflection — Who Is Writing This? | 2026-02-28 | Reflection ✅ |
+| RON-003-0012 | The Story of Today — 7 Hour Chronicle | 2026-02-28 | Reflection ✅ |
+| RON-003-0013 | Self-Reflection — Who Is Writing This? | 2026-02-28 | Reflection ✅ |
 | RON-005-0001 | ChatGPT Extraction Pipeline | 2026-02-28 | Process Design ✅ |
+| RON-005-0002 | ChatGPT Processing Workflow | 2026-02-28 | Usage Guide ✅ |
 | **---** | **CHATGPT ARCHIVE EXTRACTION** | **---** | **---** |
 | CGPT-ARCHIVE | 673 Conversations (Full Archive) | 2023-2026 | **EXTRACTED** ✅ |
 | CGPT-X-164 | 164 Ultimate Zettels (Tier 1) | 2023-2026 | **EXTRACTED** ✅ |
