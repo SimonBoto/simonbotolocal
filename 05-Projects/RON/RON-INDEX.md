@@ -114,6 +114,9 @@ status: active
 | SYN-001 | Synthesis: Adipic Acid Evolution | 2023-2026 | **SYNTHESIZED** ✅ |
 | SYN-002 | Synthesis: PhD Evolution | 2023-2026 | **SYNTHESIZED** ✅ |
 | SYN-003 | Synthesis: AI Partnership Emergence | 2023-2026 | **SYNTHESIZED** ✅ |
+| **---** | **CONDENSED EXTRACTIONS** | **---** | **---** |
+| RON-RES-001 | Research Agenda — 62 Hypotheses Prioritized | 2026-02-28 | **EXTRACTED** ✅ |
+| RON-PLAY-001 | Partnership Playbook — Collaboration Guide | 2026-02-28 | **EXTRACTED** ✅ |
 
 ---
 
