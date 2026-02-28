@@ -22,6 +22,7 @@ connections:
   - [[Partnership_Playbook]]
   - [[The_Triage_Quest_[RON-006-0001]]]
   - [[00_ChatGPT_Synthesis_MOC]]
+  - [[PhD-INDEX]] — METHAP trial hub
   - [[MOC-RON-Cognition]]
   - [[RON-INDEX]]
   - [[00-COMMAND]]
@@ -150,6 +151,9 @@ connections:
 
 ## Recent Changes (Last 7 Days)
 
+- **2026-02-28 23:00** — 05-Projects cleanup — PhD-INDEX created, AppProduction archived, Triangle updated
+- **2026-02-28 23:00** — 09-System final — 9 files, Architecture cleaned, Glossary lean v2.0
+- **2026-02-28 22:00** — Templates cleanup — 25→4 templates, broken links fixed
 - **2026-02-28 20:45** — HOUSE.md v5.0 — The Completion: 30 cycles, ChatGPT archive, RON v4.0
 - **2026-02-28 20:30** — Session closed — HANDOFF.md updated, all systems current
 - **2026-02-28 18:00** — Partnership Playbook — Collaboration guide created
@@ -161,9 +165,6 @@ connections:
 - **2026-02-28 11:30** — Self-improvement session: 4 new zettels on Mnemosyne, Symbient, Artificial Minds
 - **2026-02-28 09:30** — HOUSE.md v4.3 — Mirror architecture, MIRROR.md deployed
 - **2026-02-27** — 44 files committed (templates, RON room, MOCs, AUTONOMY.md contracts)
-- **2026-02-26** — 25 biomarker zettels + METHAP intake form v1.0
-- **2026-02-24** — NKUA course DE3 complete (6 zettels)
-- **2026-02-23** — NKUA course DE1 complete (9 zettels)
 
 ## Navigation Shortcuts
 
