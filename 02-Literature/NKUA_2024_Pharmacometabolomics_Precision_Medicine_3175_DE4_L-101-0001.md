@@ -37,7 +37,7 @@ extraction-date: 2026-02-23
 2. Diagnosis/management of underlying metabolic disorders (IR, dysbiosis)
 3. Targeting metabolic pathways — recognizing metabolic reprogramming enables new drug development
 
-**Zettel extracted:** [[Pharmacometabolomics_Framework_Metabotypes_Z-101-0001]]
+**Zettel extracted:** [[Pharmacometabolomics_Framework_Metabotypes_Z-101-0001.md]]
 
 ---
 
@@ -177,7 +177,7 @@ extraction-date: 2026-02-23
 
 ## Zettels Created from This Source
 
-1. [[Pharmacometabolomics_Framework_Metabotypes_Z-101-0001]]
+1. [[Pharmacometabolomics_Framework_Metabotypes_Z-101-0001.md]]
 2. [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002]]
 3. [[Rapamycin_mTOR_Immune_Tolerance_Z-101-0003]]
 4. [[Immunometabolism_Warburg_Inflammation_Z-101-0004]]

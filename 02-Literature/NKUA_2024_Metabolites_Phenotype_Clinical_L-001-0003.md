@@ -81,7 +81,7 @@ extraction-date: 2026-02-23
 - Environmental exposure (toxins)
 - Nutritional status (functional deficiencies)
 
-**Zettel extracted:** [[Phenotype_Mapping_Metabolomics_Z-001-0018]]
+**Zettel extracted:** [[Phenotype_Mapping_Metabolomics_Z-001-0018.md]]
 
 ---
 
@@ -95,7 +95,7 @@ extraction-date: 2026-02-23
 
 **Reinforces DE1:** Same 80% statistic — demonstrates curriculum consistency.
 
-**Zettel extracted:** Integrated into [[Phenotype_Mapping_Metabolomics_Z-001-0018]] (not duplicated from Z-001-0003)
+**Zettel extracted:** Integrated into [[Phenotype_Mapping_Metabolomics_Z-001-0018.md]] (not duplicated from Z-001-0003)
 
 ---
 
@@ -350,7 +350,7 @@ This unit bridges foundational metabolomics (DE1-DE2) to **clinical application*
 
 | # | UID | Zettel | Core Concept | METHAP Relevance |
 |---|-----|--------|--------------|------------------|
-| 1 | Z-001-0018 | [[Phenotype_Mapping_Metabolomics_Z-001-0018]] | Metabolomics as phenotype decoder | Trial design framework |
+| 1 | Z-001-0018 | [[Phenotype_Mapping_Metabolomics_Z-001-0018.md]] | Metabolomics as phenotype decoder | Trial design framework |
 | 2 | Z-001-0019 | [[Predictive_Metabolites_T1D_Example_Z-001-0019]] | Early disease prediction proof-of-concept | Adipic acid validation model |
 | 3 | Z-001-0020 | [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020]] | 5 OS markers (8-OHdG, 2-HBA, etc.) | Secondary trial endpoints |
 | 4 | Z-001-0021 | [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021]] | VitD as immunoregulatory micronutrient | Mechanistic rationale |

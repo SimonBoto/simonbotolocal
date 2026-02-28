@@ -55,7 +55,7 @@ extraction-date: 2026-02-23
 
 **Clinical application:** Diabetes as polyfactorial disease requiring combined analysis of genes, enzymes, lifestyle factors.
 
-**Zettel extracted:** [[Insulin_Receptor_Structure_[Z-001-0001]]]
+**Zettel extracted:** [[Insulin_Receptor_Structure_[Z-001-0001].md]]
 
 ---
 
@@ -69,7 +69,7 @@ extraction-date: 2026-02-23
 - Environmental factors (diet, smoking, alcohol, exercise, toxins, drugs, stress)
 - Real-time physiological state
 
-**Zettel extracted:** [[Insulin_Hormone_Structure_[Z-001-0002]]]
+**Zettel extracted:** [[Insulin_Hormone_Structure_[Z-001-0002].md]]
 
 ---
 
@@ -84,7 +84,7 @@ extraction-date: 2026-02-23
 - Therapeutic intervention targeting
 - Vitamin D as environmental modulator
 
-**Zettel extracted:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003]]
+**Zettel extracted:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003.md]]
 
 ---
 
@@ -124,17 +124,17 @@ extraction-date: 2026-02-23
 ## Zettels Created from This Source
 
 ### Subsection 1 (Systems Biology & Metabolomics)
-1. [[Systems_Biology_Integrative_Framework_Z-001-0001]] - Core definition
-2. [[Omics_Cascade_Genotype_Phenotype_Z-001-0002]] - Flow hierarchy
-3. [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003]] - Key statistic
+1. [[Systems_Biology_Integrative_Framework_Z-001-0001.md]] - Core definition
+2. [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] - Flow hierarchy
+3. [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003.md]] - Key statistic
 
 ### Subsection 2 (Other Omics Sciences)
-4. [[Genomics_Structure_Function_Genome_Z-001-0004]] - Genome structure/function
-5. [[Epigenomics_Gene_Regulation_Z-001-0005]] - Gene regulation mechanisms
-6. [[Transcriptomics_Transcriptome_Bridge_Z-001-0006]] - RNA as proteome precursor
-7. [[Proteomics_Protein_Structure_Function_Z-001-0007]] - Protein analysis
-8. [[Microbiomics_Gut_Metabolic_Organ_Z-001-0008]] - Gut microbiome metabolism
-9. [[Biomarkers_Precision_Medicine_Z-001-0009]] - Biomarker types & applications
+4. [[Genomics_Structure_Function_Genome_Z-001-0004.md]] - Genome structure/function
+5. [[Epigenomics_Gene_Regulation_Z-001-0005.md]] - Gene regulation mechanisms
+6. [[Transcriptomics_Transcriptome_Bridge_Z-001-0006.md]] - RNA as proteome precursor
+7. [[Proteomics_Protein_Structure_Function_Z-001-0007.md]] - Protein analysis
+8. [[Microbiomics_Gut_Metabolic_Organ_Z-001-0008.md]] - Gut microbiome metabolism
+9. [[Biomarkers_Precision_Medicine_Z-001-0009.md]] - Biomarker types & applications
 
 ---
 

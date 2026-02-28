@@ -70,7 +70,7 @@ extraction-date: 2026-02-23
 
 **METHAP Parallel:** If metabolomics diagnoses 49 IMDs in newborns, it can diagnose IR in adults — same principle, different metabolites.
 
-**Zettel extracted:** [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024]]
+**Zettel extracted:** [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024.md]]
 
 ---
 
@@ -80,7 +80,7 @@ extraction-date: 2026-02-23
 
 **METHAP Relevance:** Demonstrates specific metabolite pathway analysis; oxalate is urine organic acid — same class as adipic acid.
 
-**Zettel extracted:** [[Protein_Metabolism_Disorders_Oxalate_Pathway_Z-001-0025]]
+**Zettel extracted:** [[Protein_Metabolism_Disorders_Oxalate_Pathway_Z-001-0025.md]]
 
 ---
 
@@ -94,7 +94,7 @@ extraction-date: 2026-02-23
 
 **Direct METHAP Relevance:** IR biomarkers from glucose metabolism; lactate as metabolic stress marker.
 
-**Zettel extracted:** [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026]]
+**Zettel extracted:** [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026.md]]
 
 ---
 
@@ -108,7 +108,7 @@ extraction-date: 2026-02-23
 
 **METHAP Relevance:** Fatty acid metabolites as IR markers; inflammatory lipid mediators; Tsoukalas 2019/2021 fatty acid metabolites paper cited.
 
-**Zettel extracted:** [[Lipid_Metabolism_Fatty_Acid_IR_Markers_Z-001-0027]]
+**Zettel extracted:** [[Lipid_Metabolism_Fatty_Acid_IR_Markers_Z-001-0027.md]]
 
 ---
 
@@ -118,7 +118,7 @@ extraction-date: 2026-02-23
 
 **METHAP Relevance:** Metabolic acidosis as IR-associated condition; urine organic acid patterns.
 
-**Zettel extracted:** [[Metabolic_Acidosis_Biomarkers_Patterns_Z-001-0028]]
+**Zettel extracted:** [[Metabolic_Acidosis_Biomarkers_Patterns_Z-001-0028.md]]
 
 ---
 
@@ -234,11 +234,11 @@ If metabolomics can diagnose PKU in 1-day-old infants, it can diagnose IR in adu
 
 | # | UID | Zettel | Core Concept | METHAP Relevance |
 |---|-----|--------|--------------|------------------|
-| 1 | Z-001-0024 | [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024]] | 49 IMDs via metabolomics | Adult IR screening precedent |
-| 2 | Z-001-0025 | [[Protein_Metabolism_Disorders_Oxalate_Pathway_Z-001-0025]] | Oxalate pathway analysis | Urine OA methodology |
-| 3 | Z-001-0026 | [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026]] | Glucose/lactate markers | Primary IR endpoints |
-| 4 | Z-001-0027 | [[Lipid_Metabolism_Fatty_Acid_IR_Markers_Z-001-0027]] | Omega-3/6, desaturases | Inflammatory mechanism |
-| 5 | Z-001-0028 | [[Metabolic_Acidosis_Biomarkers_Patterns_Z-001-0028]] | Organic acid patterns | Diagnostic algorithm |
+| 1 | Z-001-0024 | [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024.md]] | 49 IMDs via metabolomics | Adult IR screening precedent |
+| 2 | Z-001-0025 | [[Protein_Metabolism_Disorders_Oxalate_Pathway_Z-001-0025.md]] | Oxalate pathway analysis | Urine OA methodology |
+| 3 | Z-001-0026 | [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026.md]] | Glucose/lactate markers | Primary IR endpoints |
+| 4 | Z-001-0027 | [[Lipid_Metabolism_Fatty_Acid_IR_Markers_Z-001-0027.md]] | Omega-3/6, desaturases | Inflammatory mechanism |
+| 5 | Z-001-0028 | [[Metabolic_Acidosis_Biomarkers_Patterns_Z-001-0028.md]] | Organic acid patterns | Diagnostic algorithm |
 
 **Total: 5 Tier 1 zettels** ✅
 

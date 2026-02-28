@@ -17,7 +17,7 @@ extraction-date: 2026-03-01
 ## Source
 - **Type:** ChatGPT conversation archive
 - **Date:** September 26, 2024
-- **Original:** [[CGPT_0284_Vitamin_D_Toxicity_Misconception_[CGPT-0284]]]
+- **Original:** [CGPT_0284_Vitamin_D_Toxicity_Misconception_[CGPT-0284]]
 - **Scope:** Historical analysis of how vitamin D toxicity fears emerged, persisted, and were eventually corrected by genetic understanding
 
 ---

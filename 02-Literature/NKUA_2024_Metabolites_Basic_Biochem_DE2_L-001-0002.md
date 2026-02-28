@@ -50,7 +50,7 @@ extraction-date: 2026-02-23
 
 **METHAP Application:** Individual metabolite profiles (metabotypes) predict VD response better than population averages.
 
-**Zettel extracted:** [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0010]]
+**Zettel extracted:** [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0010.md]]
 
 ---
 
@@ -63,7 +63,7 @@ extraction-date: 2026-02-23
 - B12 deficiency → methylmalonic acid ↑ (diagnostic biomarker)
 - VD deficiency/inefficiency → adipic acid ↑ (your IR biomarker)
 
-**Zettel extracted:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011]]
+**Zettel extracted:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011.md]]
 
 ---
 
@@ -82,7 +82,7 @@ extraction-date: 2026-02-23
 | Succinic acid | High | CoQ10/B2 deficiency, fatigue, cardiac issues |
 | **Malate** | **High** | **Type 2 diabetes, insulin resistance** |
 
-**Zettel extracted:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012]]
+**Zettel extracted:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012.md]]
 
 ---
 
@@ -98,7 +98,7 @@ extraction-date: 2026-02-23
 
 **METHAP Connection:** Your plasma TFA (trans fatty acids) analysis may reflect carnitine-dependent fatty acid metabolism status.
 
-**Zettel extracted:** [[Carnitine_Fatty_Acid_Transport_Z-001-0013]]
+**Zettel extracted:** [[Carnitine_Fatty_Acid_Transport_Z-001-0013.md]]
 
 ---
 
@@ -112,7 +112,7 @@ extraction-date: 2026-02-23
 - Alternative fuel source when glucose unavailable
 - Elevated in uncontrolled diabetes (ketoacidosis risk)
 
-**Zettel extracted:** [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0014]]
+**Zettel extracted:** [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0014.md]]
 
 ---
 
@@ -145,11 +145,11 @@ extraction-date: 2026-02-23
 ## Zettels Created from This Source
 
 ### Tier 1 (PhD-Critical)
-1. [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0010]] — Individual metabolic phenotypes
-2. [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011]] — B12→methylmalonic acid model
-3. [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012]] — Malate, succinate as IR markers
-4. [[Carnitine_Fatty_Acid_Transport_Z-001-0013]] — Fatty acid metabolism
-5. [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0014]] — Ketogenesis in diabetes
+1. [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0010.md]] — Individual metabolic phenotypes
+2. [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011.md]] — B12→methylmalonic acid model
+3. [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012.md]] — Malate, succinate as IR markers
+4. [[Carnitine_Fatty_Acid_Transport_Z-001-0013.md]] — Fatty acid metabolism
+5. [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0014.md]] — Ketogenesis in diabetes
 
 ---
 
@@ -189,9 +189,9 @@ extraction-date: 2026-02-23
 |------------|---------------------|------------------|
 | Z-001-0010 | — | Link to [[MOC-Insulin-Signaling]] |
 | Z-001-0011 | — | Link to Adipic Acid zettels (when created) |
-| Z-001-0012 | — | Link to [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026]] (DE4) |
-| Z-001-0013 | — | Link to [[Lipid_Metabolism_Fatty_Acid_IR_Markers_Z-001-0027]] (DE4) |
-| Z-001-0014 | — | Link to [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0014]] cross-ref |
+| Z-001-0012 | — | Link to [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026.md]] (DE4) |
+| Z-001-0013 | — | Link to [[Lipid_Metabolism_Fatty_Acid_IR_Markers_Z-001-0027.md]] (DE4) |
+| Z-001-0014 | — | Link to [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0014.md]] cross-ref |
 
 ---
 

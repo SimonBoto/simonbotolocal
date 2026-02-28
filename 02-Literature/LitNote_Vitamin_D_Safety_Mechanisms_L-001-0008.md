@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Vitamin D Safety Mechanisms — Endogenous Production, Mg, and K2
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0284_Vitamin_D_Toxicity_Misconception_[CGPT-0284]]] (lines 16-21)
+- **ChatGPT conversation:** [[03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0284_Vitamin_D_Toxicity_Misconception_[CGPT-0284]|CGPT_0284_Vitamin_D_Toxicity_Misconception_[CGPT-0284]]] (lines 16-21)
 - **Holick (2007, 2008):** Vitamin D deficiency synthesis and production capacity
 - **Uwitonze & Razzaque (2018):** Magnesium in vitamin D activation
 - **Schwalfenberg (2017):** Vitamin K2 in calcium regulation
