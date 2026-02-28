@@ -51,6 +51,16 @@ extraction-date: 2026-03-01
 
 **Zettels extracted:** [[UL_Conservative_vs_Research_Reality_[Z-001-0071]]]
 
+### 6. Research Gap at 8,000 IU for Infants
+> No published studies have specifically tested 8,000 IU daily in 1-year-olds, despite corrected RDA calculations suggesting this dose is needed for 97.5% population coverage. Gap exists between statistical requirements and evidence base.
+
+**Zettels extracted:** [[Research_Gap_in_Infant_8000_IU_Vitamin_D_Safety_Studies_[Z-001-0072]]]
+
+### 7. Monitoring Protocols from Clinical Research
+> Clinical studies (Gallo, Saadi, Gordon, Stoss therapy) demonstrate safety with systematic monitoring: serum 25(OH)D, calcium, phosphate, creatinine/eGFR, urinary calcium/creatinine ratio at defined intervals.
+
+**Zettels extracted:** [[High_Dose_Vitamin_D_Monitoring_Protocol_[Z-001-0075]]]
+
 ---
 
 ## Key Figures & Data
@@ -96,5 +106,5 @@ extraction-date: 2026-03-01
 ---
 
 *Literature note processed: 2026-03-01*  
-*Zettels extracted: 5*  
+*Zettels extracted: 7*  
 *Status: extracted*
