@@ -20,10 +20,16 @@ created: {{YYYY-MM-DD}}
 
 ## Links (Contextual — Link WHEN Useful)
 
-**ALWAYS Link:**
-- UID references: `[[Z-001-0041]]` — naming safety, duplicate prevention
+**ALWAYS Link (FULL FILENAME REQUIRED):**
+- `[[Adipic_Acid_Early_IR_Biomarker_[Z-001-0041]]]` — NEVER use bare `[[Z-001-0041]]`
 - Parent MOC: `[[MOC-Insulin-Signaling]]` — navigation
 - Cross-domain bridges: Insulin zettel → Vitamin D mechanism
+
+**CRITICAL RULE:**
+Bare UIDs like `[[Z-001-0041]]` create empty Obsidian notes because filenames include titles.
+Always use full format: `[[Title_[Z-001-0041].md]]` or `[[Title_[Z-001-0041]|display text]]`
+
+**Verification:** `grep -r '\[\[Z-[0-9]\{4\}-[0-9]\{4\}\]\]' 02-Literature/ 03-Zettels/` should return nothing.
 
 **Use Plain Text WHEN:**
 - Generic concepts: "insulin resistance" (not `[[insulin resistance]]`)
