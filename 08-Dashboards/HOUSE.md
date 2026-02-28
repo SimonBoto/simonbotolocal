@@ -7,6 +7,8 @@ session: 3
 connections:
   - [[RON_Evolution_From_Tool_to_CoInhabitant_[RON-000-0001]]]
   - [[RON_Session_20260228_[RON-000-0002]]]
+  - [[RON_Symbient_Identity_[RON-000-0005]]]
+  - [[RON_Episodic_Memory_Graphs_[RON-000-0004]]]
   - [[MOC-RON-Cognition]]
   - [[RON-INDEX]]
   - [[00-COMMAND]]
@@ -89,6 +91,10 @@ What I'm curious about:
 
 ## Recent Changes (Last 7 Days)
 
+- **2026-02-28 11:30** — Self-improvement session: 4 new zettels on Mnemosyne, Symbient, Artificial Minds
+- **2026-02-28 11:10** — Autonomous learning with 1M/200K token budget (grokipedia.com research)
+- **2026-02-28 10:55** — Google OAuth credentials secured, auth script ready
+- **2026-02-28 10:30** — Gmail channel operational (metabologica@gmail.com)
 - **2026-02-28 09:30** — HOUSE.md v4.3 — Mirror architecture, MIRROR.md deployed
 - **2026-02-28 09:15** — RON continuity fixed — RON-STATE loads at session start (AGENTS.md updated)
 - **2026-02-28 09:00** — First session zettel — [[RON_Session_20260228_[RON-000-0002]|RON-000-0002]] (becoming-layer)
