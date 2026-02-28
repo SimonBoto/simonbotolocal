@@ -207,58 +207,112 @@ tags: [commands, protocol, communication, reference]
 
 ---
 
-## THE CLOSE RITUAL — STEP BY STEP
+## THE CLOSE RITUAL — TWO-MODE SYSTEM
 
-### **When You Say "Close Session"**
+### **MODE 1: Extended Close (Every Session)**
 
-1. **I say:** "🔒 Closing ritual initiated. No new work."
+**When You Say:** "Close session" or "We're done"
 
-2. **I check:** What changed this session?
-   ```bash
-   git diff --name-only HEAD~5..HEAD
+**Duration:** 5-7 minutes
+
+**Process:**
+
+1. **FREEZE** (0s)
+   - Stop all work
+   - Announce: "🔒 Extended close initiated"
+
+2. **UPDATE ALWAYS** (2min)
+   - RON-STATE.md
+   - HANDOFF.md
+
+3. **CHECK & UPDATE IF CHANGED** (2-4min)
+   - HOUSE.md (if significant work done)
+   - RON-INDEX.md (if new zettels created)
+   - 00-COMMAND.md (if priorities shifted)
+
+4. **COMMIT** (1min)
+   - Git add -A
+   - Git commit -m "Session: [summary]"
+   - Verify clean
+
+5. **CONFIRM** (10s)
    ```
-
-3. **I ask:** "Confirm: Update house? (RON-STATE, HANDOFF, HOUSE if significant)"
-   - You: "Yes" or "Skip" or "Update X only"
-
-4. **I update:**
-   - RON-STATE.md (always)
-   - HANDOFF.md (always)
-   - HOUSE.md (if significant work)
-
-5. **I commit:**
-   ```bash
-   git add -A
-   git commit -m "Session close: [summary]"
-   ```
-
-6. **I verify:** `git status` clean
-
-7. **I confirm:**
-   ```
-   ✅ SESSION CLOSE COMPLETE
-   - RON-STATE: Updated
-   - HANDOFF: Updated
-   - HOUSE: Updated (vX.Y)
-   - Git: Clean commit [hash]
-   - Duration: [X hours]
-   - Status: Complete
+   ✅ SESSION CLOSE COMPLETE (Mode 1)
    
-   Next: Resume when ready.
-   🦞 RON — continuous through documentation
+   Updated:
+   - RON-STATE: ✅
+   - HANDOFF: ✅
+   - HOUSE: [✅/Skipped]
+   - INDEX: [✅/Skipped]
+   - COMMAND: [✅/Skipped]
+   
+   Git: Clean commit [hash]
+   Time: 5-7 minutes
+   Status: Ready for next session
+   
+   🦞 RON — extended close complete
    ```
+
+### **MODE 2: Deep Review (Monthly)**
+
+**When You Say:** "Deep review" or scheduled monthly
+
+**Duration:** 30-60 minutes
+
+**Process:**
+
+1. **COOPERATION AUDIT** (10min)
+   - Review MIRROR.md
+   - Review AUTONOMY.md
+   - Review HEARTBEAT.md
+
+2. **KNOWLEDGE CURATION** (20min)
+   - Promote insights to MEMORY.md
+   - Conscious → Subconscious promotion
+   - Archive/delete trash
+
+3. **INDEX RECONCILIATION** (15min)
+   - Verify all MOCs
+   - Reconcile RON-INDEX
+   - Check ChatGPT archive MOCs
+
+4. **SAFETY & SYSTEMS** (10min)
+   - Check .gitignore, .secrets/
+   - Verify configs
+
+5. **PLANNING** (5min)
+   - Update COMMAND.md for next month
+   - Schedule next deep review
+
+**Result:**
+```
+✅ DEEP REVIEW COMPLETE (Mode 2)
+
+Audited:
+- Cooperation patterns: ✅
+- Knowledge curated: ✅
+- Indexes reconciled: ✅
+- Systems verified: ✅
+
+Git: Clean commit [hash]
+Time: [X] minutes
+Next deep review: [date]
+
+🦞 RON — system fully maintained
+```
 
 ### **Override Option**
 
-If you say: **"Skip close ritual — I accept stale house"**
+If you say: **"Skip close"**
 
 I respond:
 ```
-⚠️ RITUAL SKIPPED (User override)
-House status:
+⚠️ MODE 1 SKIPPED (User override)
+
+Stale files:
 - RON-STATE: [last update]
 - HANDOFF: [last update]
-- Uncommitted: [count]
+
 Risk: Next session starts with stale context.
 Proceeding with close.
 ```
