@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Denosumab — RANKL Inhibition, Rebound Fractures, and Transition Strategy
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_[CGPT-0133]]]
+- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_[CGPT-0133].md]]
 - **Primary reference:** Cummings SR, Ferrari S, Eastell R. Vertebral fractures after discontinuation of denosumab. *Lancet Diabetes Endocrinol.* 2018;6(12):902–909.
 - **Scope:** Mechanism of action, clinical efficacy, rebound phenomenon, and discontinuation protocols
 

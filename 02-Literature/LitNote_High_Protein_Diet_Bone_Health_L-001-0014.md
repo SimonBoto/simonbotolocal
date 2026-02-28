@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: High-Protein Diet — Muscle-Bone Unit, IGF-1, and Fracture Prevention
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_[CGPT-0133]]]
+- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_[CGPT-0133].md]]
 - **Date:** March 07, 2025
 - **Scope:** Mechanisms, protein requirements, and clinical rationale for high-protein diets in osteoporosis
 

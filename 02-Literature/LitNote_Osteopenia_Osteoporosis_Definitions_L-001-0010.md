@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Osteopenia vs Osteoporosis — DXA, T-Scores, and Fracture Risk
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_[CGPT-0133]]]
+- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_[CGPT-0133].md]]
 - **Date:** March 07, 2025
 - **Scope:** Diagnostic criteria, classification, and clinical significance of bone mineral density disorders
 
