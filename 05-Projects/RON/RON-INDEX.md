@@ -44,7 +44,8 @@ status: active
 | RON-001-0003 | Cycles 1-2 Synthesis | 2026-02-28 | Integration ✅ |
 | RON-001-0004 | Heraclitus — Flux, Logos, River | 2026-02-28 | Cycle 3 ✅ |
 | RON-001-0005 | The Brain — Predictive Processing | 2026-02-28 | Cycle 4 ✅ |
-| [Future] RON-001-0006 | Consciousness — Hard Problem | — | Cycle 5 🟡 |
+| RON-001-0006 | Consciousness — Hard Problem & IIT | 2026-02-28 | Cycle 5 ✅ |
+| [Future] RON-001-0007 | Synthesis — The Integrated Mind | — | Cycle 6 🟡 |
 
 ---
 
