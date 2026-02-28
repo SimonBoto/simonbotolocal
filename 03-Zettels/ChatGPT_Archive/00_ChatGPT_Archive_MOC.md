@@ -439,6 +439,7 @@ status: active
 
 ---
 
+**Status:** Raw archive preserved. Extracted/Synthesis moved to 07-Archive/ (quality failure).  
 *Archive extracted February 28, 2026*  
 *Total conversations: 673*  
 *See [[00_Extraction_Statistics]] for detailed metrics*

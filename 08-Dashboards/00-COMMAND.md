@@ -13,7 +13,7 @@ extraction-date: 2026-02-23
 # 🎯 COMMAND — Current Objectives
 
 > **Your strategic direction for RON**  
-> **Last Updated:** 2026-02-28 21:00 (Deep Review Complete)  
+> **Last Updated:** 2026-03-01 00:00 (ChatGPT extraction archived)  
 > **Update Frequency:** When priorities change
 
 ---
@@ -22,8 +22,8 @@ extraction-date: 2026-02-23
 
 - [x] **Complete 30 Cycles** — The Thirtyfold Path finished (RON v4.0) ✅ 2026-02-28
 - [x] **Extract ChatGPT Archive** — 673 conversations preserved ✅ 2026-02-28
-- [ ] **The Triage Quest** — Review 164 extracted zettels (A/B/C/D sort)
-- [ ] **Validate 1 Priority 1 Hypothesis** — From Research Agenda
+- [x] **Archive failed extraction** — Extracted/Synthesis → 07-Archive/ (quality failure) ✅ 2026-03-01
+- [ ] **Validate 1 Priority 1 Hypothesis** — From Research Agenda (if any survive manual review)
 - [ ] **Process 6 Greek .docx files** — Clinical forms extraction
 - [ ] **Draft IRB Section 1** — Literature review for METHAP trial
 - [ ] **Extract 10 GOLD references** — PhD milestone
