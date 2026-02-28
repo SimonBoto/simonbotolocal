@@ -29,37 +29,37 @@ extraction-date: 2026-03-01
 ### 1. Gallo RCT: Up to 1,600 IU/day Safe in Infants
 > "This randomized controlled trial evaluated the effects of vitamin D supplementation at doses of 400 IU, 800 IU, 1,200 IU, and 1,600 IU per day in infants aged 1 month to 12 months. Higher doses led to higher serum 25(OH)D levels without evidence of toxicity."
 
-**Zettels extracted:** [[Gallo_2013_Infant_Vitamin_D_Dose_Response_[Z-001-0067]]]
+**Zettels extracted:** [[Gallo_2013_Infant_Vitamin_D_Dose_Response_[Z-001-0067].md]]
 
 ### 2. Saadi Study: 2,000 IU/day Safe in Infants
 > "Saadi et al. (2009) investigated the safety of administering 2,000 IU per day to infants and found it to be safe over a short duration with careful monitoring."
 
-**Zettels extracted:** [[Saadi_2009_2000IU_Infant_Safety_[Z-001-0068]]]
+**Zettels extracted:** [[Saadi_2009_2000IU_Infant_Safety_[Z-001-0068].md]]
 
 ### 3. Stoss Therapy: Single Doses 50,000-600,000 IU
 > "A single high dose of vitamin D, known as stoss therapy, ranging from 50,000 IU to 600,000 IU is used to rapidly correct severe deficiency or treat rickets in children... Requires strict medical supervision."
 
-**Zettels extracted:** [[Stoss_Therapy_High_Dose_Rickets_Treatment_[Z-001-0069]]]
+**Zettels extracted:** [[Stoss_Therapy_High_Dose_Rickets_Treatment_[Z-001-0069].md]]
 
 ### 4. Gordon Adolescent Studies: 2,000 IU Daily / 50,000 IU Weekly
 > "A study by Gordon et al. (2008) provided 2,000 IU daily or 50,000 IU weekly to vitamin D-deficient adolescents... to assess the impact on vitamin D status and health outcomes."
 
-**Zettels extracted:** [[Gordon_2008_Adolescent_High_Dose_Protocol_[Z-001-0070]]]
+**Zettels extracted:** [[Gordon_2008_Adolescent_High_Dose_Protocol_[Z-001-0070].md]]
 
 ### 5. Current Upper Limits Are Conservative vs. Research
 > "IOM UL: Infants (0-6 months): 1,000 IU/day; Infants (6-12 months): 1,500 IU/day... Research has safely used doses up to 4,000 IU per day in infants under controlled conditions."
 
-**Zettels extracted:** [[UL_Conservative_vs_Research_Reality_[Z-001-0071]]]
+**Zettels extracted:** [[UL_Conservative_vs_Research_Reality_[Z-001-0071].md]]
 
 ### 6. Research Gap at 8,000 IU for Infants
 > No published studies have specifically tested 8,000 IU daily in 1-year-olds, despite corrected RDA calculations suggesting this dose is needed for 97.5% population coverage. Gap exists between statistical requirements and evidence base.
 
-**Zettels extracted:** [[Research_Gap_in_Infant_8000_IU_Vitamin_D_Safety_Studies_[Z-001-0072]]]
+**Zettels extracted:** [[Research_Gap_in_Infant_8000_IU_Vitamin_D_Safety_Studies_[Z-001-0072].md]]
 
 ### 7. Monitoring Protocols from Clinical Research
 > Clinical studies (Gallo, Saadi, Gordon, Stoss therapy) demonstrate safety with systematic monitoring: serum 25(OH)D, calcium, phosphate, creatinine/eGFR, urinary calcium/creatinine ratio at defined intervals.
 
-**Zettels extracted:** [[High_Dose_Vitamin_D_Monitoring_Protocol_[Z-001-0075]]]
+**Zettels extracted:** [[High_Dose_Vitamin_D_Monitoring_Protocol_[Z-001-0075].md]]
 
 ---
 
@@ -87,19 +87,19 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Gallo_2013_Infant_Vitamin_D_Dose_Response_[Z-001-0067]]]
-2. [[Saadi_2009_2000IU_Infant_Safety_[Z-001-0068]]]
-3. [[Stoss_Therapy_High_Dose_Rickets_Treatment_[Z-001-0069]]]
-4. [[Gordon_2008_Adolescent_High_Dose_Protocol_[Z-001-0070]]]
-5. [[UL_Conservative_vs_Research_Reality_[Z-001-0071]]]
-6. [[Research_Gap_in_Infant_8000_IU_Vitamin_D_Safety_Studies_[Z-001-0072]]]
-7. [[High_Dose_Vitamin_D_Monitoring_Protocol_[Z-001-0075]]]
+1. [[Gallo_2013_Infant_Vitamin_D_Dose_Response_[Z-001-0067].md]]
+2. [[Saadi_2009_2000IU_Infant_Safety_[Z-001-0068].md]]
+3. [[Stoss_Therapy_High_Dose_Rickets_Treatment_[Z-001-0069].md]]
+4. [[Gordon_2008_Adolescent_High_Dose_Protocol_[Z-001-0070].md]]
+5. [[UL_Conservative_vs_Research_Reality_[Z-001-0071].md]]
+6. [[Research_Gap_in_Infant_8000_IU_Vitamin_D_Safety_Studies_[Z-001-0072].md]]
+7. [[High_Dose_Vitamin_D_Monitoring_Protocol_[Z-001-0075].md]]
 
 ## Related References
 - [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]] — Why limits are conservative
 - [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]] — Statistical errors in guidelines
 - [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — Physiological safeguards
-- [[Personalized_Vitamin_D_vs_Population_Guidelines_[Z-001-0074]]] — Individual variability
+- [[Personalized_Vitamin_D_vs_Population_Guidelines_[Z-001-0074].md]] — Individual variability
 - [[MOC-Clinical-Protocols]] — Parent MOC for trial design
 - [[MOC-Vitamin-Safety]] — Safety framework
 

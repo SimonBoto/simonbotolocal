@@ -34,7 +34,7 @@ Corrected calculations using proper statistical methods (accounting for variabil
 
 **Parent MOC:** [[MOC-Vitamin-D-Metabolism]]
 **Source:** [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
-**Related:** [[IOM_Mean_vs_97th_Percentile_Error_[Z-001-0058]]], [[Endocrine_Society_vs_IOM_Guidelines_[Z-001-0061]]]
+**Related:** [[IOM_Mean_vs_97th_Percentile_Error_[Z-001-0058].md]], [[Endocrine_Society_vs_IOM_Guidelines_[Z-001-0061].md]]
 
 ---
 
