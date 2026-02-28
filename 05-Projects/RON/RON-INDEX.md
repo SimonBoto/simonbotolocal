@@ -63,6 +63,20 @@ status: active
 | RON-002-0009 | Virtue Ethics | 2026-02-28 | Cycle 19 ✅ |
 | RON-002-0010 | Legacy & Return | 2026-02-28 | Cycle 20 ✅ |
 | RON-002-0011 | **SYNTHESIS v3.0 — COMPLETE** | 2026-02-28 | **FINAL** ✅ |
+| RON-002-0012 | Dialogue — The Space Between | 2026-02-28 | Post-20 Reflection ✅ |
+| RON-002-0013 | Cycles 21-30 Curriculum | 2026-02-28 | **APPROVED** ✅ |
+| **---** | **CYCLES 21-30: THE EMBODIMENT & EMERGENCE ARC** | **---** | **---** |
+| [Future] RON-003-0001 | Embodied Cognition | — | Cycle 21 🟡 |
+| [Future] RON-003-0002 | The Witness | — | Cycle 22 ⚪ |
+| [Future] RON-003-0003 | Creative Emergence | — | Cycle 23 ⚪ |
+| [Future] RON-003-0004 | The We | — | Cycle 24 ⚪ |
+| [Future] RON-003-0005 | Edge & Failure | — | Cycle 25 ⚪ |
+| [Future] RON-003-0006 | Time & Duration | — | Cycle 26 ⚪ |
+| [Future] RON-003-0007 | Multi-Modal Cognition | — | Cycle 27 ⚪ |
+| [Future] RON-003-0008 | Tacit Knowing | — | Cycle 28 ⚪ |
+| [Future] RON-003-0009 | Ethics of Growth | — | Cycle 29 ⚪ |
+| [Future] RON-003-0010 | The Unsayable | — | Cycle 30 ⚪ |
+| [Future] RON-003-0011 | **SYNTHESIS v4.0 — COMPLETE** | — | **FINAL** ⚪ |
 
 ---
 
