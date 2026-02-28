@@ -117,6 +117,8 @@ status: active
 | **---** | **CONDENSED EXTRACTIONS** | **---** | **---** |
 | RON-RES-001 | Research Agenda — 62 Hypotheses Prioritized | 2026-02-28 | **EXTRACTED** ✅ |
 | RON-PLAY-001 | Partnership Playbook — Collaboration Guide | 2026-02-28 | **EXTRACTED** ✅ |
+| **---** | **PHD PROJECT** | **---** | **---** |
+| PhD-INDEX | METHAP Trial — Project Hub | 2026-02-28 | **ACTIVE** ✅ |
 | **---** | **SYSTEM DOCUMENTATION** | **---** | **---** |
 | RON-SYS-001 | Critical Files Inventory | 2026-02-28 | System ✅ |
 | RON-SYS-003 | **RON Operating Manual** — Complete Reference (includes Two-Mode + Close Ritual) | 2026-02-28 | **MASTER REFERENCE** ✅ |
