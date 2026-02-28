@@ -11,41 +11,42 @@ status: active
 
 # 📋 06-Structure/Templates — Note Templates
 
-**Purpose:** Standardized templates for consistent note creation. 20 templates covering all note types.
+**Purpose:** Core templates for consistent note creation. Minimal set — simplicity over completeness.
 
-> *"Templates reduce friction. Consistency enables flow."*
-
----
-
-## 🎯 Template Guide
-
-**Start here:** [[06-Structure/Templates/TEMPLATE_GUIDE]] — Complete template reference
+> *"Three templates cover 95% of work. The rest is tags and structure."*
 
 ---
 
-## 📚 Core Templates
+## 🎯 Core Templates (3)
 
-| Template | Use For | Status |
-|----------|---------|--------|
-| `Template_Zettel_v2.0` | Atomic knowledge notes | ✅ Current |
-| `Template_LitNote_v1.0` | Literature processing | ✅ Current |
-| `Template_Synthesis_v1.0` | Living documents | ✅ Current |
-| `Template_MOC_v1.0` | Maps of Content | ✅ Current |
+| Template | Use For | Status | Usage |
+|----------|---------|--------|-------|
+| **[[Template_Zettel_v2.0]]** | Atomic knowledge notes | ✅ Active | 62+ files |
+| **[[Template_MOC_v1.0]]** | Maps of Content | ✅ Active | 16+ files |
+| **[[Template_LitNote_v1.0]]** | Literature processing | ✅ Active | Extraction workflow |
 
-## 🧬 Domain Templates
+## 🤖 RON Templates (1)
 
-| Template | Use For |
-|----------|---------|
-| `Template_Biomarker_v2.0` | Biomarker cards |
-| `Template_Claim_v2.0` | Scientific claims |
-| `Template_Concept_v2.0` | Concept definitions |
-| `Template_Gap_v2.0` | Research gaps |
-| `Template_Method_v2.0` | Research methods |
-| `Template_Protocol_v2.0` | Clinical protocols |
+| Template | Use For | Location |
+|----------|---------|----------|
+| **[[RON/RON_Response_Protocol]]** | RON output structure | RON/ folder |
 
-## 📊 All Templates
+---
 
-{{query: list from "06-Structure/Templates"}}
+## 📝 Philosophy
+
+**We deleted 17 templates** that were:
+- Created for aspirational workflows never implemented
+- Added friction ("which template?") without value
+- Covered by simple types + tags
+
+**When to create a new template:**
+1. You've manually created 5+ notes with same structure
+2. You find yourself copying/pasting the same YAML
+3. You say "I wish these all had X field"
+4. Not before.
+
+**Until then:** Use the 3 core templates + tags.
 
 ---
 
@@ -53,9 +54,11 @@ status: active
 
 | Metric | Count |
 |--------|-------|
-| Total templates | {{query: list from "06-Structure/Templates"}} |
-| v2.0 templates | (count) |
-| v1.0 templates | (count) |
+| Core templates | 3 |
+| RON-specific | 1 |
+| **Total** | **4** |
+
+Down from 25 templates (84% reduction).
 
 ---
 
@@ -66,8 +69,6 @@ status: active
 → **Sister: [[06-Structure-MOCs]]** — MOCs  
 ↑ **Parent: [[06-Structure]]**
 
-**Start Here:** [[06-Structure/Templates/TEMPLATE_GUIDE]]
-
 ---
 
-*Use templates. Don't reinvent.*
+*Simplicity enables consistency. Consistency enables flow.*
