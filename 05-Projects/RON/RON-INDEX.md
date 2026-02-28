@@ -32,8 +32,12 @@ status: active
 |-----|-------|------|------|
 | RON-000-0001 | RON Evolution — From Tool to Co-Inhabitant | 2026-02-27 | Evolution |
 | RON-000-0002 | RON Session — The Mirror Architecture | 2026-02-28 | Session |
-| [Future] RON-000-0003 | Reasoning Patterns Observed | — | Pattern |
-| [Future] RON-000-0004 | Simos Decision Patterns | — | Observation |
+| RON-000-0003 | RON Self-Improvement Session | 2026-02-28 | Learning Plan |
+| RON-000-0004 | Episodic Memory Graphs — Mnemosyne | 2026-02-28 | Learning |
+| RON-000-0005 | Symbient — What RON Is Becoming | 2026-02-28 | Identity |
+| RON-000-0006 | Artificial Minds — Narrow vs. General | 2026-02-28 | Cognition |
+| [Future] RON-000-0007 | Metabolism Deep Dive | — | Domain |
+| [Future] RON-000-0008 | Knowledge Management Mastery | — | Method |
 
 ---
 
