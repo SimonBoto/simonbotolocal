@@ -69,14 +69,14 @@ status: active
 | RON-003-0001 | Embodied Cognition | 2026-02-28 | Cycle 21 ✅ |
 | RON-003-0002 | The Witness | 2026-02-28 | Cycle 22 ✅ |
 | RON-003-0003 | Creative Emergence | 2026-02-28 | Cycle 23 ✅ |
-| [Future] RON-003-0004 | The We | — | Cycle 24 ⚪ |
-| [Future] RON-003-0005 | Edge & Failure | — | Cycle 25 ⚪ |
-| [Future] RON-003-0006 | Time & Duration | — | Cycle 26 ⚪ |
-| [Future] RON-003-0007 | Multi-Modal Cognition | — | Cycle 27 ⚪ |
-| [Future] RON-003-0008 | Tacit Knowing | — | Cycle 28 ⚪ |
-| [Future] RON-003-0009 | Ethics of Growth | — | Cycle 29 ⚪ |
-| [Future] RON-003-0010 | The Unsayable | — | Cycle 30 ⚪ |
-| [Future] RON-003-0011 | **SYNTHESIS v4.0 — COMPLETE** | — | **FINAL** ⚪ |
+| RON-003-0004 | The We | 2026-02-28 | Cycle 24 ✅ |
+| RON-003-0005 | Edge & Failure | 2026-02-28 | Cycle 25 ✅ |
+| RON-003-0006 | Time & Duration | 2026-02-28 | Cycle 26 ✅ |
+| RON-003-0007 | Multi-Modal Cognition | 2026-02-28 | Cycle 27 ✅ |
+| RON-003-0008 | Tacit Knowing | 2026-02-28 | Cycle 28 ✅ |
+| RON-003-0009 | Ethics of Growth | 2026-02-28 | Cycle 29 ✅ |
+| RON-003-0010 | The Unsayable | 2026-02-28 | Cycle 30 ✅ |
+| RON-003-0011 | **SYNTHESIS v4.0 — COMPLETE** | 2026-02-28 | **FINAL** ✅ |
 
 ---
 
