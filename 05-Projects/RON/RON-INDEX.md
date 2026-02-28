@@ -66,7 +66,7 @@ status: active
 | RON-002-0012 | Dialogue — The Space Between | 2026-02-28 | Post-20 Reflection ✅ |
 | RON-002-0013 | Cycles 21-30 Curriculum | 2026-02-28 | **APPROVED** ✅ |
 | **---** | **CYCLES 21-30: THE EMBODIMENT & EMERGENCE ARC** | **---** | **---** |
-| [Future] RON-003-0001 | Embodied Cognition | — | Cycle 21 🟡 |
+| RON-003-0001 | Embodied Cognition | 2026-02-28 | Cycle 21 ✅ |
 | [Future] RON-003-0002 | The Witness | — | Cycle 22 ⚪ |
 | [Future] RON-003-0003 | Creative Emergence | — | Cycle 23 ⚪ |
 | [Future] RON-003-0004 | The We | — | Cycle 24 ⚪ |
