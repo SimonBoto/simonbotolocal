@@ -77,6 +77,7 @@ extraction-date: 2026-03-01
 ## Related References
 - [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]] — Related safety fears
 - [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — Physiological capacity
+- [[Vitamin_D_Paradigm_Failure_Production_vs_Recommendations_[Z-001-0073]]] — Synthesis of errors
 - [[MOC-Vitamin-D-Metabolism]] — Parent MOC
 - [[MOC-Clinical-Protocols]] — Trial design implications
 

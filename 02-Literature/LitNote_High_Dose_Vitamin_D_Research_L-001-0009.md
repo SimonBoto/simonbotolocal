@@ -82,11 +82,14 @@ extraction-date: 2026-03-01
 3. [[Stoss_Therapy_High_Dose_Rickets_Treatment_[Z-001-0069]]]
 4. [[Gordon_2008_Adolescent_High_Dose_Protocol_[Z-001-0070]]]
 5. [[UL_Conservative_vs_Research_Reality_[Z-001-0071]]]
+6. [[Research_Gap_in_Infant_8000_IU_Vitamin_D_Safety_Studies_[Z-001-0072]]]
+7. [[High_Dose_Vitamin_D_Monitoring_Protocol_[Z-001-0075]]]
 
 ## Related References
 - [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]] — Why limits are conservative
 - [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]] — Statistical errors in guidelines
 - [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — Physiological safeguards
+- [[Personalized_Vitamin_D_vs_Population_Guidelines_[Z-001-0074]]] — Individual variability
 - [[MOC-Clinical-Protocols]] — Parent MOC for trial design
 - [[MOC-Vitamin-Safety]] — Safety framework
 
