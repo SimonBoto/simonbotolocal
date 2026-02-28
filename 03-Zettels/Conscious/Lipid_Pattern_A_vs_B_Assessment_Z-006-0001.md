@@ -80,16 +80,16 @@ $$
 ## 🔗 Connected Biomarkers
 
 **Insulin Resistance:**
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046]] — HOMA-IR (Pattern B strongly associated with IR)
-- [[TG_HDL_Ratio_IR_Marker_Z-001-0049]] — TG/HDL ratio (Pattern B predictor)
-- [[TyG_Index_IR_Assessment_Z-001-0048]] — TyG Index (elevated in Pattern B)
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (Pattern B strongly associated with IR)
+- [[TG_HDL_Ratio_IR_Marker_Z-001-0049.md]] — TG/HDL ratio (Pattern B predictor)
+- [[TyG_Index_IR_Assessment_Z-001-0048.md]] — TyG Index (elevated in Pattern B)
 
 **Lipid Components:**
-- [[ApoB_LpA_sdLDL_Advanced_Lipids_Z-006-0002]] — ApoB (Pattern B has more particles per mg/dL)
+- [[ApoB_LpA_sdLDL_Advanced_Lipids_Z-006-0002.md]] — ApoB (Pattern B has more particles per mg/dL)
 - [[Z-006-0003]] — Small dense LDL (sdLDL)
 
 **Mechanism:**
-- [[Phenotype_Mapping_Metabolomics_Z-001-0018]] — Lipotoxicity (IR → hepatic overproduction of VLDL → Pattern B)
+- [[Phenotype_Mapping_Metabolomics_Z-001-0018.md]] — Lipotoxicity (IR → hepatic overproduction of VLDL → Pattern B)
 - [[MAPK_Mitogenic_Pathway_[Z-001-0016]]] — Mitochondrial dysfunction (impaired lipid oxidation)
 
 ---

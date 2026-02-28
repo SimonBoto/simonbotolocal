@@ -77,12 +77,12 @@ Genetic mutation → Enzyme deficiency
 ## Connections
 
 ### Upstream
-- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011]] — B12→methylmalonic diagnostic model
-- [[Phenotype_Mapping_Metabolomics_Z-001-0018]] — Phenotype measurement framework
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011.md]] — B12→methylmalonic diagnostic model
+- [[Phenotype_Mapping_Metabolomics_Z-001-0018.md]] — Phenotype measurement framework
 
 ### Downstream
-- [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026]] — Specific IR metabolites
-- [[Metabolic_Acidosis_Biomarkers_Patterns_Z-001-0028]] — Pattern recognition
+- [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026.md]] — Specific IR metabolites
+- [[Metabolic_Acidosis_Biomarkers_Patterns_Z-001-0028.md]] — Pattern recognition
 
 ### Cross-Domain
 - [[MOC-PhD-METHAP-Trial]] — Trial design validation

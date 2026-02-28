@@ -67,15 +67,15 @@ Both oxalate and adipic acid use **identical analytical methodology** — the ur
 ## Connections
 
 ### Upstream
-- [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024]] — IMD diagnostic framework
-- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012]] — Mitochondrial dysfunction markers
+- [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024.md]] — IMD diagnostic framework
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012.md]] — Mitochondrial dysfunction markers
 
 ### Downstream
-- [[Metabolic_Acidosis_Biomarkers_Patterns_Z-001-0028]] — Organic acid pattern recognition
+- [[Metabolic_Acidosis_Biomarkers_Patterns_Z-001-0028.md]] — Organic acid pattern recognition
 - [[MOC-PhD-METHAP-Trial]] — Urine OA methodology
 
 ### Cross-Domain
-- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011]] — Functional biomarker logic
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011.md]] — Functional biomarker logic
 
 ## Clinical Application
 

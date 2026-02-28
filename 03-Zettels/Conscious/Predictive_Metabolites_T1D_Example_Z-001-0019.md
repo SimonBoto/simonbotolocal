@@ -70,11 +70,11 @@ Just as T1D metabolites predict disease, **adipic acid may predict insulin resis
 ## Connections
 
 ### Upstream
-- [[Phenotype_Mapping_Metabolomics_Z-001-0018]] — Phenotype measurement foundation
-- [[Biomarkers_Precision_Medicine_Z-001-0009]] — Biomarker classification
+- [[Phenotype_Mapping_Metabolomics_Z-001-0018.md]] — Phenotype measurement foundation
+- [[Biomarkers_Precision_Medicine_Z-001-0009.md]] — Biomarker classification
 
 ### Downstream
-- [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022]] — IR prediction target
+- [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]] — IR prediction target
 - [[MOC-PhD-METHAP-Trial]] — Trial design integration
 
 ### Cross-Domain
@@ -99,7 +99,7 @@ Just as T1D metabolites predict disease, **adipic acid may predict insulin resis
 
 ## See Also
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 2.2)
-- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0010]] — Individual variation
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0010.md]] — Individual variation
 - [[Adipic_Acid_Mitochondrial_Marker]] — Target biomarker [stub]
 
 ---

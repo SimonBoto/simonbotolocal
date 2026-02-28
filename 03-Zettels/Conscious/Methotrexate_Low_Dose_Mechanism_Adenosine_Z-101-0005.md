@@ -44,8 +44,8 @@ Low-dose methotrexate (1/100th of cancer dose) treats autoimmunity through a mec
 
 ## Links
 
-- **Upstream:** [[Immunometabolism_Warburg_Inflammation_Z-101-0004]] — M2 macrophage differentiation
-- **Parallel:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002]] — Also activates AMPK
+- **Upstream:** [[Immunometabolism_Warburg_Inflammation_Z-101-0004.md]] — M2 macrophage differentiation
+- **Parallel:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002.md]] — Also activates AMPK
 - **Downstream:** [[MOC-Methotrexate]], [[MOC-RA]]
 
 ## Context

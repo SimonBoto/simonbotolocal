@@ -82,12 +82,12 @@ status: conscious
 ## Connections
 
 ### Upstream
-- [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024]] — Diagnostic precedent
+- [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024.md]] — Diagnostic precedent
 - [[Savage_etal_2005_IR_Mechanisms_R-001-0035]] — IR mechanism source
 
 ### Downstream
-- [[Metabolic_Acidosis_Biomarkers_Patterns_Z-001-0028]] — Organic acid integration
-- [[Lipid_Metabolism_Fatty_Acid_IR_Markers_Z-001-0027]] — Lipid-induced IR
+- [[Metabolic_Acidosis_Biomarkers_Patterns_Z-001-0028.md]] — Organic acid integration
+- [[Lipid_Metabolism_Fatty_Acid_IR_Markers_Z-001-0027.md]] — Lipid-induced IR
 
 ### Cross-Domain
 - [[MOC-PhD-METHAP-Trial]] — Trial endpoints

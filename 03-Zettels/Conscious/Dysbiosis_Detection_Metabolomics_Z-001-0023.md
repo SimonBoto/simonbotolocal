@@ -114,11 +114,11 @@ Emerging evidence suggests:
 ## Connections
 
 ### Upstream
-- [[Microbiomics_Gut_Metabolic_Organ_Z-001-0008]] — DE1 microbiome foundation
-- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003]] — Environmental factor
+- [[Microbiomics_Gut_Metabolic_Organ_Z-001-0008.md]] — DE1 microbiome foundation
+- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003.md]] — Environmental factor
 
 ### Downstream
-- [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022]] — Dysbiosis-IR link
+- [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]] — Dysbiosis-IR link
 - [[MOC-Vitamin-D-Mechanisms]] — VitD-gut axis
 
 ### Cross-Domain
@@ -150,8 +150,8 @@ Emerging evidence suggests:
 
 ## See Also
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 1.2)
-- [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021]] — Probiotic micronutrient link
-- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020]] — LPS-induced OS
+- [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021.md]] — Probiotic micronutrient link
+- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]] — LPS-induced OS
 
 ---
 *Confidence: High* — Established gut-metabolism connection  

@@ -40,9 +40,9 @@ Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin
 
 ## Links
 
-- **Upstream:** [[Mitochondrial_Dysfunction_IR_Z-001-0030]] — Mitochondrial dysfunction impairs BCAA catabolism
-- **Parallel:** [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]] — Adipic acid as complementary marker
-- **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045]] — Included in METHAP panel
+- **Upstream:** [[Mitochondrial_Dysfunction_IR_Z-001-0030.md]] — Mitochondrial dysfunction impairs BCAA catabolism
+- **Parallel:** [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041.md]] — Adipic acid as complementary marker
+- **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045.md]] — Included in METHAP panel
 
 ## Context
 

@@ -63,7 +63,7 @@ Without B12:
 ## 🔗 Connected Systems
 
 **Methylation Cycle:**
-- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001]] — Homocysteine (composite methylation status)
+- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md]] — Homocysteine (composite methylation status)
 - [[Z-004-0005]] — MTHFR (folate cycle, homocysteine alternative pathway)
 
 **Iron Interdependence:**

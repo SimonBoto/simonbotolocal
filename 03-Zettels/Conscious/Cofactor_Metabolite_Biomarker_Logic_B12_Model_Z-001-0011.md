@@ -100,8 +100,8 @@ Methylmalonyl-CoA ──[enzyme WITHOUT B12]──→ ✗ (blocked)
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0010]] — Individual variation in cofactor needs
-- **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012]] — Enzyme dysfunction markers
+- **Upstream/Prerequisite:** [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0010.md]] — Individual variation in cofactor needs
+- **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012.md]] — Enzyme dysfunction markers
 - **Downstream/Consequence:** [[MOC-Vitamin-D-Mechanisms]] — VD as potential cofactor
 
 ## Context

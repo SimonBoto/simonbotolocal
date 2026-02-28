@@ -39,9 +39,9 @@ Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impai
 
 ## Links
 
-- **Upstream:** [[Mitochondrial_Dysfunction_IR_Z-001-0030]] — Mitochondrial dysfunction produces this
-- **Parallel:** [[BCAAs_IR_Risk_Z-001-0042]] — BCAAs as complementary marker
-- **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045]] — Included in METHAP panel
+- **Upstream:** [[Mitochondrial_Dysfunction_IR_Z-001-0030.md]] — Mitochondrial dysfunction produces this
+- **Parallel:** [[BCAAs_IR_Risk_Z-001-0042.md]] — BCAAs as complementary marker
+- **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045.md]] — Included in METHAP panel
 
 ## Context
 

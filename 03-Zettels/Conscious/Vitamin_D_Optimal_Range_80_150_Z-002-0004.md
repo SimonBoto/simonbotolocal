@@ -49,11 +49,11 @@ connections:
 ## 🔗 Connected Systems
 
 **Insulin Resistance:**
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046]] — HOMA-IR (VitD supplementation improves insulin sensitivity)
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (VitD supplementation improves insulin sensitivity)
 - [[Z-002-0009]] — VDR → improved insulin receptor expression
 
 **Methylation:**
-- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001]] — Homocysteine (VitD supports methylation via calcium signaling)
+- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md]] — Homocysteine (VitD supports methylation via calcium signaling)
 
 **Protocol Components:**
 - [[Z-002-0006]] — Dosing tiers by starting level

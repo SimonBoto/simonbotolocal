@@ -45,13 +45,13 @@ Unlike genomics (static) or transcriptomics (intermediate), metabolomics capture
 ## Connections
 
 ### Upstream
-- [[Omics_Cascade_Genotype_Phenotype_Z-001-0002]] — Metabolomics as final phenotype layer
-- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003]] — Environmental driver measurement
-- [[Systems_Biology_Integrative_Framework_Z-001-0001]] — Multi-parameter integration
+- [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Metabolomics as final phenotype layer
+- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003.md]] — Environmental driver measurement
+- [[Systems_Biology_Integrative_Framework_Z-001-0001.md]] — Multi-parameter integration
 
 ### Downstream
-- [[Predictive_Metabolites_T1D_Example_Z-001-0019]] — Phenotype prediction before symptoms
-- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020]] — Specific phenotype markers
+- [[Predictive_Metabolites_T1D_Example_Z-001-0019.md]] — Phenotype prediction before symptoms
+- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]] — Specific phenotype markers
 - [[MOC-Vitamin-D-Mechanisms]] — Specific micronutrient phenotype
 
 ### Parallel

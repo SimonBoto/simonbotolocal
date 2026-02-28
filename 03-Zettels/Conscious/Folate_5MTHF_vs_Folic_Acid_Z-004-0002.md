@@ -55,9 +55,9 @@ connections:
 ## 🔗 Connected Systems
 
 **Methylation:**
-- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001]] — Homocysteine (5-MTHF is substrate for remethylation)
+- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md]] — Homocysteine (5-MTHF is substrate for remethylation)
 - [[Z-004-0005]] — MTHFR variants (impair conversion of folic acid)
-- [[Functional_B12_Deficiency_MMA_Assessment_Z-004-0019]] — Functional B12 deficiency (B12 + 5-MTHF work together)
+- [[Functional_B12_Deficiency_MMA_Assessment_Z-004-0019.md]] — Functional B12 deficiency (B12 + 5-MTHF work together)
 
 **Genetics:**
 - **MTHFR C677T:** 40-50% population, ↓ enzyme activity 30-70%

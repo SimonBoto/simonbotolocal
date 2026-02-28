@@ -38,9 +38,9 @@ Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1
 
 ## Links
 
-- **Upstream:** [[Inflammatory_Signaling_IR_Z-001-0031]] — Inflammatory signaling mechanisms
-- **Parallel:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002]] — Metformin modulates metabolism
-- **Downstream:** [[Vicious_Cycle_Inflammation_IR_Z-001-0038]] — Inflammation → IR vicious cycle
+- **Upstream:** [[Inflammatory_Signaling_IR_Z-001-0031.md]] — Inflammatory signaling mechanisms
+- **Parallel:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002.md]] — Metformin modulates metabolism
+- **Downstream:** [[Vicious_Cycle_Inflammation_IR_Z-001-0038.md]] — Inflammation → IR vicious cycle
 
 ## Context
 

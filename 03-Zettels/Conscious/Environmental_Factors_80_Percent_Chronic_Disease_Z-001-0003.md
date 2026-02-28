@@ -64,7 +64,7 @@ If 80% of disease risk comes from **environmental modulation of phenotype**, the
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002]] — Why metabolites capture environment
+- **Upstream/Prerequisite:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Why metabolites capture environment
 - **Parallel/Related:** [[Epigenetics_Environmental_Impact_Z-XXX-XXXX]] — Mechanism of environmental influence
 - **Downstream/Consequence:** [[Vitamin_D_Environmental_Modulator_Z-XXX-XXXX]] — VD as modifiable factor
 

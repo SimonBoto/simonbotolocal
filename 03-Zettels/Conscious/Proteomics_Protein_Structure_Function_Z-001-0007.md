@@ -82,9 +82,9 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Transcriptomics_Transcriptome_Bridge_Z-001-0006]] — Produces proteins
-- **Parallel/Related:** [[Genomics_Structure_Function_Genome_Z-001-0004]] — Genes code for proteins
-- **Downstream/Consequence:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002]] — Metabolome is next
+- **Upstream/Prerequisite:** [[Transcriptomics_Transcriptome_Bridge_Z-001-0006.md]] — Produces proteins
+- **Parallel/Related:** [[Genomics_Structure_Function_Genome_Z-001-0004.md]] — Genes code for proteins
+- **Downstream/Consequence:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Metabolome is next
 
 ## Context
 

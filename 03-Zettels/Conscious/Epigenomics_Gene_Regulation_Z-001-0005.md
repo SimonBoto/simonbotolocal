@@ -65,9 +65,9 @@ Epigenetic modifications respond to:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Genomics_Structure_Function_Genome_Z-001-0004]] — DNA as substrate
-- **Parallel/Related:** [[Transcriptomics_mRNA_Expression_Z-001-0006]] — Output of epigenetic regulation
-- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003]] — Mechanism of environmental impact
+- **Upstream/Prerequisite:** [[Genomics_Structure_Function_Genome_Z-001-0004.md]] — DNA as substrate
+- **Parallel/Related:** [[Transcriptomics_mRNA_Expression_Z-001-0006.md]] — Output of epigenetic regulation
+- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003.md]] — Mechanism of environmental impact
 
 ## Context
 

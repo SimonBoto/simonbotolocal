@@ -93,15 +93,15 @@ Adipic acid elevation may indicate:
 ## Connections
 
 ### Upstream
-- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0010]] — Individual OS variation
-- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012]] — Mitochondrial-OS link
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0010.md]] — Individual OS variation
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012.md]] — Mitochondrial-OS link
 
 ### Downstream
-- [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022]] — OS-IR mechanism
+- [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]] — OS-IR mechanism
 - [[MOC-Vitamin-D-Mechanisms]] — VitD antioxidant effects
 
 ### Cross-Domain
-- [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013]] — Lipid-induced OS
+- [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013.md]] — Lipid-induced OS
 - [[Mitochondrial_Dysfunction_IR_[Z-001-0015]]] — Mitochondrial ROS source
 
 ## Research Gaps
@@ -132,7 +132,7 @@ Adipic acid elevation may indicate:
 ## See Also
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 2.4)
 - [[MOC-Metabolomics-Training]] — Course navigation
-- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011]] — Parallel cofactor model
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011.md]] — Parallel cofactor model
 
 ---
 *Confidence: High* — Well-established biomarkers, clinical utility validated  

@@ -70,9 +70,9 @@ Study of how DNA/RNA variations affect drug response:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002]] — Genomics position in hierarchy
-- **Parallel/Related:** [[Transcriptomics_mRNA_Expression_Z-001-0005]] — Next step in cascade
-- **Downstream/Consequence:** [[Metabolomics_Phenotype_Proxy_Z-001-0002]] — Why metabolomics is needed
+- **Upstream/Prerequisite:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Genomics position in hierarchy
+- **Parallel/Related:** [[Transcriptomics_mRNA_Expression_Z-001-0005.md]] — Next step in cascade
+- **Downstream/Consequence:** [[Metabolomics_Phenotype_Proxy_Z-001-0002.md]] — Why metabolomics is needed
 
 ## Context
 

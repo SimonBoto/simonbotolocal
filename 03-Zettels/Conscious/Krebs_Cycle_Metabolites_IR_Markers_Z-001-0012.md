@@ -105,8 +105,8 @@ Both adipic acid and malate relate to **fatty acid metabolism dysregulation**:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011]] — Same diagnostic logic
-- **Parallel/Related:** [[Carnitine_Fatty_Acid_Transport_Z-001-0013]] — Fatty acid metabolism pathway
+- **Upstream/Prerequisite:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011.md]] — Same diagnostic logic
+- **Parallel/Related:** [[Carnitine_Fatty_Acid_Transport_Z-001-0013.md]] — Fatty acid metabolism pathway
 - **Downstream/Consequence:** [[Biomarkers_Taxonomy]] — Classification of these markers
 
 ## Context

@@ -143,9 +143,9 @@ Deficient: Fatty acid → Incomplete oxidation → Adipic acid (excreted)
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012]] — β-oxidation produces acetyl-CoA for Krebs cycle
-- **Parallel/Related:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011]] — VD may be cofactor for carnitine metabolism
-- **Downstream/Consequence:** [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0014]] — When fatty acids can't enter mitochondria (carnitine deficiency), alternative metabolism occurs
+- **Upstream/Prerequisite:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012.md]] — β-oxidation produces acetyl-CoA for Krebs cycle
+- **Parallel/Related:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011.md]] — VD may be cofactor for carnitine metabolism
+- **Downstream/Consequence:** [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0014.md]] — When fatty acids can't enter mitochondria (carnitine deficiency), alternative metabolism occurs
 
 ## Context
 

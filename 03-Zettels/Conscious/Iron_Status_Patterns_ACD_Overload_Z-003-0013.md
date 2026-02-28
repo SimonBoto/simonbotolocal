@@ -71,11 +71,11 @@ Iron status cannot be assessed by ferritin alone. **Three distinct patterns** re
 ## 🔗 Connected Systems
 
 **Ferritin Interpretation:**
-- [[Ferritin_Interpretation_Iron_Status_Z-003-0001]] — Ferritin as dual marker (iron + inflammation)
-- [[Iron_Studies_TIBC_Transferrin_Sat_Z-003-0002]] — Transferrin/TIBC dynamics
+- [[Ferritin_Interpretation_Iron_Status_Z-003-0001.md]] — Ferritin as dual marker (iron + inflammation)
+- [[Iron_Studies_TIBC_Transferrin_Sat_Z-003-0002.md]] — Transferrin/TIBC dynamics
 
 **Inflammation:**
-- [[Inflammation_Markers_CRP_ESR_Z-007-0001]] — CRP, hepcidin regulation
+- [[Inflammation_Markers_CRP_ESR_Z-007-0001.md]] — CRP, hepcidin regulation
 - [[Z-003-0014]] — Hepcidin in detail
 
 **Methylation:**

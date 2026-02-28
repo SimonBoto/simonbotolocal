@@ -39,8 +39,8 @@ Fasting insulin alone is superior to HOMA-IR for detecting early insulin resista
 
 ## Links
 
-- **Upstream:** [[Compensatory_IR_Stage_Z-001-0034]] — Detects this compensatory stage
-- **Parallel:** [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]] — Adipic acid detects even earlier
+- **Upstream:** [[Compensatory_IR_Stage_Z-001-0034.md]] — Detects this compensatory stage
+- **Parallel:** [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041.md]] — Adipic acid detects even earlier
 - **Downstream:** [[MOC-Early-Detection]] — Implementation
 
 ## Context

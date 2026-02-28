@@ -74,9 +74,9 @@ The transcriptome is the **immediate precursor** of the proteome:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Epigenomics_Gene_Regulation_Z-001-0005]] — Regulates transcription
-- **Parallel/Related:** [[Genomics_Structure_Function_Genome_Z-001-0004]] — Source of transcripts
-- **Downstream/Consequence:** [[Proteomics_Protein_Function_Z-001-0007]] — What RNA produces
+- **Upstream/Prerequisite:** [[Epigenomics_Gene_Regulation_Z-001-0005.md]] — Regulates transcription
+- **Parallel/Related:** [[Genomics_Structure_Function_Genome_Z-001-0004.md]] — Source of transcripts
+- **Downstream/Consequence:** [[Proteomics_Protein_Function_Z-001-0007.md]] — What RNA produces
 
 ## Context
 

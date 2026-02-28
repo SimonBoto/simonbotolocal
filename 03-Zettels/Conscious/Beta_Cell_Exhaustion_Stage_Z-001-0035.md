@@ -36,9 +36,9 @@ Chronic hyperinsulinemia leads to beta-cell burnout through amylin deposition, o
 
 ## Links
 
-- **Upstream:** [[Compensatory_IR_Stage_Z-001-0034]] — Compensatory stage precedes this
-- **Parallel:** [[HOMA_IR_Late_Marker_Z-001-0043]] — HOMA-IR becomes unreliable here
-- **Downstream:** [[Overt_Diabetes_Stage_Z-001-0036]] — Progresses to overt diabetes
+- **Upstream:** [[Compensatory_IR_Stage_Z-001-0034.md]] — Compensatory stage precedes this
+- **Parallel:** [[HOMA_IR_Late_Marker_Z-001-0043.md]] — HOMA-IR becomes unreliable here
+- **Downstream:** [[Overt_Diabetes_Stage_Z-001-0036.md]] — Progresses to overt diabetes
 
 ## Context
 

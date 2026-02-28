@@ -47,7 +47,7 @@ The METHAP trial applies systems biology principles by:
 
 - **Upstream/Prerequisite:** [[Reductionist_Biology_Limitations_Z-XXX-XXXX]] — Why reductionism fails for chronic disease
 - **Parallel/Related:** [[Multiomics_Integration_Z-XXX-XXXX]] — Technical approaches to integration
-- **Downstream/Consequence:** [[Metabolomics_Phenotype_Proximity_Z-001-0002]] — Metabolites as closest to phenotype
+- **Downstream/Consequence:** [[Metabolomics_Phenotype_Proximity_Z-001-0002.md]] — Metabolites as closest to phenotype
 
 ## Context
 

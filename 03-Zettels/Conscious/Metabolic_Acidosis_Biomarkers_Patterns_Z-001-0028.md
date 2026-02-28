@@ -89,12 +89,12 @@ Pattern + clinical context → Diagnosis
 ## Connections
 
 ### Upstream
-- [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024]] — UOA diagnostic precedent
-- [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026]] — Lactate mechanism
-- [[Protein_Metabolism_Disorders_Oxalate_Pathway_Z-001-0025]] — Organic acid accumulation
+- [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024.md]] — UOA diagnostic precedent
+- [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026.md]] — Lactate mechanism
+- [[Protein_Metabolism_Disorders_Oxalate_Pathway_Z-001-0025.md]] — Organic acid accumulation
 
 ### Downstream
-- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020]] — 2-HBA, pyroglutamate
+- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]] — 2-HBA, pyroglutamate
 - [[MOC-PhD-METHAP-Trial]] — UOA panel as outcome measure
 
 ### Cross-Domain

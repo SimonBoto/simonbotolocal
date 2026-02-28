@@ -33,9 +33,9 @@ Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muc
 
 ## Links
 
-- **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029]] — Diet changes drive dysbiosis
-- **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031]] — LPS activates inflammatory signaling
-- **Downstream:** [[Compensatory_IR_Stage_Z-001-0034]] — Systemic IR develops
+- **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md]] — Diet changes drive dysbiosis
+- **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md]] — LPS activates inflammatory signaling
+- **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md]] — Systemic IR develops
 
 ## Context
 

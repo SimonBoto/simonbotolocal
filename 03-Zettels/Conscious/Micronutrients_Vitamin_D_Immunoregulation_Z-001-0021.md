@@ -93,12 +93,12 @@ The course's inclusion of VitD in immunoregulatory micronutrients supports:
 ## Connections
 
 ### Upstream
-- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011]] — Parallel cofactor model
-- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003]] — Environmental factor (nutrition)
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011.md]] — Parallel cofactor model
+- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003.md]] — Environmental factor (nutrition)
 
 ### Downstream
 - [[MOC-Vitamin-D-Mechanisms]] — Detailed VitD mechanism hub
-- [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022]] — IR-VitD connection
+- [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]] — IR-VitD connection
 
 ### Cross-Domain
 - [[MOC-PhD-METHAP-Trial]] — Trial design
@@ -130,8 +130,8 @@ The course's inclusion of VitD in immunoregulatory micronutrients supports:
 
 ## See Also
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 1.1, Figure 2)
-- [[Microbiomics_Gut_Metabolic_Organ_Z-001-0008]] — Probiotic connection
-- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020]] — VitE/EGCG antioxidant link
+- [[Microbiomics_Gut_Metabolic_Organ_Z-001-0008.md]] — Probiotic connection
+- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]] — VitE/EGCG antioxidant link
 
 ---
 *Confidence: High* — Well-established immunomodulatory role  

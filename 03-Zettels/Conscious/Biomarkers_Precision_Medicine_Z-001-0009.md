@@ -108,8 +108,8 @@ Systems biology produces **massive datasets:**
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Microbiomics_Gut_Metabolic_Organ_Z-001-0008]] — Microbial biomarkers (SCFAs)
-- **Parallel/Related:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002]] — Multi-omics integration
+- **Upstream/Prerequisite:** [[Microbiomics_Gut_Metabolic_Organ_Z-001-0008.md]] — Microbial biomarkers (SCFAs)
+- **Parallel/Related:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Multi-omics integration
 - **Downstream/Consequence:** [[MOC-PhD-METHAP-Trial]] — Trial design application
 
 ## Context

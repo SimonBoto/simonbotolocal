@@ -43,8 +43,8 @@ Approved therapies for chronic diseases show only 30-60% effectiveness, with sig
 
 ## Links
 
-- **Upstream:** [[Pharmacometabolomics_Framework_Metabotypes_Z-101-0001]] — Pharmacometabolomics provides solution
-- **Parallel:** [[METHAP_Biomarker_Panel_Z-001-0045]] — METHAP panel enables stratification
+- **Upstream:** [[Pharmacometabolomics_Framework_Metabotypes_Z-101-0001.md]] — Pharmacometabolomics provides solution
+- **Parallel:** [[METHAP_Biomarker_Panel_Z-001-0045.md]] — METHAP panel enables stratification
 - **Downstream:** [[MOC-Personalized-Medicine]], [[MOC-Responder-Stratification]]
 
 ## Context

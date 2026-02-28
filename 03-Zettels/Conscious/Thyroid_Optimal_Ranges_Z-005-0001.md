@@ -36,15 +36,15 @@ Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfun
 ## 🔗 Connected Systems
 
 **Insulin Resistance:**
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046]] — HOMA-IR (hypothyroidism worsens IR via ↓GLUT4, ↓mitochondrial function)
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (hypothyroidism worsens IR via ↓GLUT4, ↓mitochondrial function)
 - Hypothyroid → weight gain, dyslipidemia, glucose intolerance
 
 **Vitamin D:**
-- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004]] — VitD optimal range (VDR and TR share nuclear receptor mechanisms)
+- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md]] — VitD optimal range (VDR and TR share nuclear receptor mechanisms)
 - Both affect metabolic rate, immune function
 
 **Methylation:**
-- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001]] — Homocysteine (thyroid affects methylation via B12/folate absorption)
+- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md]] — Homocysteine (thyroid affects methylation via B12/folate absorption)
 - Hypothyroid → elevated homocysteine
 
 ---

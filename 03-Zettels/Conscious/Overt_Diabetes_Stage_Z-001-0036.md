@@ -40,8 +40,8 @@ Beta-cell mass becomes insufficient to maintain glycemic control, resulting in a
 
 ## Links
 
-- **Upstream:** [[Beta_Cell_Exhaustion_Stage_Z-001-0035]] — Beta-cell exhaustion precedes this
-- **Parallel:** [[HOMA_IR_Late_Marker_Z-001-0043]] — HbA1c finally becomes abnormal (late marker)
+- **Upstream:** [[Beta_Cell_Exhaustion_Stage_Z-001-0035.md]] — Beta-cell exhaustion precedes this
+- **Parallel:** [[HOMA_IR_Late_Marker_Z-001-0043.md]] — HbA1c finally becomes abnormal (late marker)
 - **Downstream:** [[MOC-T2D-Complications]] — Complications management
 
 ## Context

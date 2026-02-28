@@ -89,9 +89,9 @@ The microbiome maintains homeostasis through:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Proteomics_Protein_Structure_Function_Z-001-0007]] — Bacterial proteins are targets
-- **Parallel/Related:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002]] — Environmental factor (diet) shapes microbiome
-- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003]] — Mechanism of environmental disease drivers
+- **Upstream/Prerequisite:** [[Proteomics_Protein_Structure_Function_Z-001-0007.md]] — Bacterial proteins are targets
+- **Parallel/Related:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Environmental factor (diet) shapes microbiome
+- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003.md]] — Mechanism of environmental disease drivers
 
 ## Context
 

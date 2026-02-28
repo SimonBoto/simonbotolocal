@@ -103,11 +103,11 @@ High-dose VitD → improved omega-6:3 balance (via inflammation reduction) → i
 ## Connections
 
 ### Upstream
-- [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026]] — Lipid-induced IR mechanism
+- [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026.md]] — Lipid-induced IR mechanism
 - [[Savage_etal_2005_IR_Mechanisms_R-001-0035]] — IR inflammation link
 
 ### Downstream
-- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020]] — Fatty acid oxidation markers
+- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]] — Fatty acid oxidation markers
 - [[MOC-Vitamin-D-Mechanisms]] — VitD anti-inflammatory effects
 
 ### Cross-Domain

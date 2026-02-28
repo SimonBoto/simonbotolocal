@@ -48,8 +48,8 @@ Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antiox
 
 ## Links
 
-- **Upstream:** [[Mitochondrial_Dysfunction_IR_Z-001-0030]] — Mitochondrial dysfunction and oxidative stress
-- **Parallel:** [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020]] — Oxidative stress biomarkers
+- **Upstream:** [[Mitochondrial_Dysfunction_IR_Z-001-0030.md]] — Mitochondrial dysfunction and oxidative stress
+- **Parallel:** [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]] — Oxidative stress biomarkers
 - **Downstream:** [[MOC-Nrf2]], [[MOC-MS]]
 
 ## Context

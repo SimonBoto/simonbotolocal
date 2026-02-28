@@ -63,8 +63,8 @@ connections:
 - Wound healing
 
 ### Clinical Relevance
-- [[Thyroid_Optimal_Ranges_Z-005-0001]] — Thyroid function (zinc required for T3 receptor)
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046]] — Insulin resistance (zinc in β-cell insulin granules)
+- [[Thyroid_Optimal_Ranges_Z-005-0001.md]] — Thyroid function (zinc required for T3 receptor)
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — Insulin resistance (zinc in β-cell insulin granules)
 
 ### Supplementation
 - **Zinc picolinate or bisglycinate:** 15-30 mg elemental zinc
@@ -88,8 +88,8 @@ connections:
 - Immune function
 
 ### Clinical Relevance
-- [[Thyroid_Optimal_Ranges_Z-005-0001]] — Thyroid function (selenium required for T3 production)
-- [[Hashimoto_Pattern_Anti_TPO_Anti_TG_Z-005-0002]] — Hashimoto's (200 mcg Se may reduce Anti-TPO)
+- [[Thyroid_Optimal_Ranges_Z-005-0001.md]] — Thyroid function (selenium required for T3 production)
+- [[Hashimoto_Pattern_Anti_TPO_Anti_TG_Z-005-0002.md]] — Hashimoto's (200 mcg Se may reduce Anti-TPO)
 
 ### Supplementation
 | Population | Dose |
@@ -105,15 +105,15 @@ connections:
 ## 🔗 Connected Systems
 
 **Thyroid:**
-- [[Thyroid_Optimal_Ranges_Z-005-0001]] — T4→T3 conversion requires selenium and zinc
+- [[Thyroid_Optimal_Ranges_Z-005-0001.md]] — T4→T3 conversion requires selenium and zinc
 - Deficiency → impaired thyroid function despite adequate hormone
 
 **Vitamin D:**
-- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004]] — VitD activation requires magnesium
+- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md]] — VitD activation requires magnesium
 - Low Mg → low 25-OH D despite supplementation
 
 **Methylation:**
-- [[Folate_5MTHF_vs_Folic_Acid_Z-004-0002]] — 5-MTHF synthesis requires zinc
+- [[Folate_5MTHF_vs_Folic_Acid_Z-004-0002.md]] — 5-MTHF synthesis requires zinc
 - Methionine synthase requires magnesium
 
 ---

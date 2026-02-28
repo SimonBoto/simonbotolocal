@@ -49,16 +49,16 @@ $$
 ## 🔗 Connected Biomarkers
 
 **IR Core Panel:**
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046]] — HOMA-IR (correlates r=0.6-0.7 with TG/HDL)
-- [[TyG_Index_IR_Assessment_Z-001-0048]] — TyG Index (similar lipid-glucose approach)
-- [[HOMA_Beta_Beta_Cell_Function_Z-001-0047]] — HOMA-β (high TG/HDL + high HOMA-β = compensated IR)
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (correlates r=0.6-0.7 with TG/HDL)
+- [[TyG_Index_IR_Assessment_Z-001-0048.md]] — TyG Index (similar lipid-glucose approach)
+- [[HOMA_Beta_Beta_Cell_Function_Z-001-0047.md]] — HOMA-β (high TG/HDL + high HOMA-β = compensated IR)
 
 **Lipid Patterns:**
-- [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001]] — Lipid Pattern A/B (TG/HDL >3.0 strongly predicts Pattern B)
-- [[ApoB_LpA_sdLDL_Advanced_Lipids_Z-006-0002]] — ApoB (TG/HDL correlates with small dense LDL particle count)
+- [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md]] — Lipid Pattern A/B (TG/HDL >3.0 strongly predicts Pattern B)
+- [[ApoB_LpA_sdLDL_Advanced_Lipids_Z-006-0002.md]] — ApoB (TG/HDL correlates with small dense LDL particle count)
 
 **Mechanism:**
-- [[Phenotype_Mapping_Metabolomics_Z-001-0018]] — Lipotoxicity (elevated TG = hepatic steatosis = IR marker)
+- [[Phenotype_Mapping_Metabolomics_Z-001-0018.md]] — Lipotoxicity (elevated TG = hepatic steatosis = IR marker)
 
 ---
 
