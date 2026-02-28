@@ -12,7 +12,7 @@ status: active
 
 # ⚙️ 09-System — Documentation
 
-**Purpose:** System documentation. Architecture, UID system, user guide, glossary. The "how this vault works" layer.
+**Purpose:** System documentation. Architecture, protocols, reference. The "how this vault works" layer.
 
 > *"Document the system. Then trust the system."*
 
@@ -28,33 +28,37 @@ status: active
 
 ## 📄 Core System Files
 
-| File | Purpose |
-|------|---------|
-| **[[09-System/UID_SYSTEM_v2.0\|UID_SYSTEM_v2.0]]** | Naming conventions, UID format |
-| **[[09-System/USER_GUIDE_v4.1\|USER_GUIDE_v4.1]]** | How to use the vault |
-| **[[09-System/99-GLOSSARY\|99-GLOSSARY]]** | Terms, aliases, shortcuts |
-| **[[09-System/DISASTER_RECOVERY\|DISASTER_RECOVERY]]** | Emergency procedures |
-| **[[09-System/VAULT_STRUCTURE_v4.1\|VAULT_STRUCTURE_v4.1]]** | Folder structure reference |
+| File | Purpose | Status |
+|------|---------|--------|
+| **[[RON_Operating_Manual_[RON-SYS-003]\|RON Operating Manual]]** | Complete RON system reference | ⭐ Master doc |
+| **[[Command_Reference]]** | Voice commands for directing RON | Active |
+| **[[Critical_Files_Inventory]]** | Maintenance checklist | Monthly review |
+| **[[Pre_Flight_Card_v1.0\|Pre-Flight Card]]** | Quick extraction checklist | Per extraction |
+| **[[Extraction_Checklist_v1.0\|Extraction Checklist]]** | Quality control | Per extraction |
+| **[[UID_SYSTEM_v2.0\|UID_SYSTEM]]** | Naming conventions | Reference |
+| **[[99-GLOSSARY\|99-GLOSSARY]]** | Terms, aliases | Reference |
+| **[[DISASTER_RECOVERY\|DISASTER_RECOVERY]]** | Emergency procedures | Emergency only |
 
 ---
 
 ## 🏗️ Architecture Files
 
-| File | Purpose |
-|------|---------|
-| **[[09-System/Architecture/V4.0_TEMPLATE_REQUIREMENTS]]** | Template specifications |
-| **[[09-System/Architecture/Weekly_AutoCuration_Plan]]** | Automated curation plan |
+| File | Purpose | Status |
+|------|---------|--------|
+| **[[09-System/Architecture/V4.0_TEMPLATE_REQUIREMENTS]]** | Template specifications | Historical |
+| **[[09-System/Architecture/Weekly_AutoCuration_Plan]]** | Curation automation | Historical |
+| **[[09-System/Architecture/OPTIMAL_LINKING_PLAN]]** | Linking strategy | Reference |
 
 ---
 
-## 📊 System Status
+## 📊 System Status (Post-Cleanup)
 
-| Component | Status |
-|-----------|--------|
-| UID System | v2.0 Active |
-| Vault Structure | v4.1 Active |
-| Templates | 20 Ready |
-| Documentation | Current |
+| Component | Before | After | Status |
+|-----------|--------|-------|--------|
+| System docs | 14 files | 10 files | ✅ Lean |
+| Templates | 25 files | 4 files | ✅ Minimal |
+| Core reference | Scattered | Operating Manual | ✅ Unified |
+| Maintenance | Ad hoc | Two-Mode System | ✅ Structured |
 
 ---
 
@@ -64,13 +68,11 @@ status: active
 → **Back to [[00-MISSION]]** — Mission & North Star  
 ↑ **Parent: [[00-MISSION]]**
 
-**Siblings:**
-[[00-Inbox]] | [[01-References]] | [[02-Literature]] | [[03-Zettels]] | [[04-Synthesis]] | [[05-Projects]] | [[06-Structure]] | [[08-Dashboards]]
-
 **Quick Links:**
-- [[09-System/USER_GUIDE_v4.1]] — How to use this vault
-- [[09-System/UID_SYSTEM_v2.0]] — Naming rules
-- [[09-System/99-GLOSSARY]] — Terms & aliases
+- [[RON_Operating_Manual_[RON-SYS-003]]] — Complete RON reference
+- [[Command_Reference]] — How to direct RON
+- [[UID_SYSTEM_v2.0]] — Naming rules
+- [[99-GLOSSARY]] — Terms & aliases
 
 ---
 
