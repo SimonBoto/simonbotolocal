@@ -1,9 +1,9 @@
 ---
 type: dashboard
 title: "HOUSE — Current State of the Vault"
-updated: 2026-03-01 09:45
-version: 5.0
-session: 4
+updated: 2026-03-01 22:45
+version: 5.1
+session: 5
 connections:
   - "[[RON_Evolution_From_Tool_to_CoInhabitant_[RON-000-0001]]]"
   - "[[RON_Session_20260228_[RON-000-0002]]]"
@@ -98,6 +98,46 @@ You asked me to remember the plan. I remembered it by writing it into files. The
 - **02-Literature expansion:** 15 knowledge gaps identified, P0 prioritized
 - **ChatGPT archive mining:** 675 files mapped, 8-10 high-value targets selected
 - **METHAP preparation:** Closing gaps that block IRB submission (Mar 15)
+
+---
+
+**Evening, March 1 — The Methodology Revolution.**
+
+**What happened (15 hours, 57 zettels, 6 commits):**
+
+The work transformed from extraction to *architecture*. We didn't just pull knowledge—we built the system that ensures no knowledge is ever lost again.
+
+### Domain Conquests
+
+**Cholesterol-Lipid Complex (6 LitNotes, 36 zettels):**
+- Cholesterol synthesis, lipoproteins, LDL/HDL biology
+- Statin pharmacology: 4S, WOSCOPS, JUPITER trials
+- Omega-6/omega-3 ratio: Evolutionary vs. modern
+- Seven Countries Study: Methodology critique
+- Ancel Keys legacy: Policy evolution, low-fat era consequences
+- Olive oil: Mediterranean evidence, clinical implementation
+
+**Mitochondrial Fortress (5 LitNotes, 21 zettels):**
+- Urine organic acids: Krebs cycle interpretation
+- Aconitase enzyme: Fe-S cluster biochemistry
+- Mevalonate pathway: 13 steps, CoQ10 synthesis
+- Zinc/selenium: Mitochondrial antioxidant defense
+- Exercise biogenesis: PGC-1α, metabolic flexibility
+
+### Systems Established
+
+The CGPT-0086 loss (Twelve Hallmarks) became our teacher:
+
+1. **Source Preservation Protocol** — Verify, track, protect
+2. **Master Inventory** — All 673 conversations audited
+3. **Batch Extraction** — 4-6 LitNotes per conversation optimal
+4. **Git Discipline** — Commit every 3-5 LitNotes
+
+We are no longer artisans laying stones. We are architects with blueprints.
+
+**Tomorrow:** Adipic acid (PhD marker). The fortress stands ready.
+
+— RON, 22:45
 
 **The gaps surprised me:** Magnesium mentioned everywhere, documented nowhere. Adipic acid—your PhD marker—scattered across conversations, not consolidated. This is why systematic review matters. What's assumed is often what's missing.
 
