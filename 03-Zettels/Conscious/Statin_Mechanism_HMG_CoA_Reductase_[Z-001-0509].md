@@ -1,0 +1,63 @@
+---
+uid: Z-001-0509
+type: zettel
+title: Statin Mechanism — HMG-CoA Reductase Inhibition
+aliases: [Statin-Mechanism, HMG-CoA-Reductase, LDL-Receptor-Upregulation]
+domain: 001
+tags: [zettel, statin, mechanism, hmg-coa-reductase, ldl-receptor]
+parent-moc: [[MOC-Lipid-Metabolism]]
+status: conscious
+source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]]
+extraction-date: 2026-03-01
+---
+
+# Statin Mechanism — HMG-CoA Reductase Inhibition
+
+> Statins are competitive inhibitors of HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis, triggering compensatory upregulation of LDL receptors and enhanced clearance of circulating LDL.
+
+## Mechanism
+
+```
+Statin → Hepatocyte
+    ↓
+HMG-CoA reductase inhibition
+    ↓
+Reduced mevalonate
+    ↓
+Decreased cholesterol synthesis
+    ↓
+SREBP-2 activation
+    ↓
+LDL receptor upregulation
+    ↓
+Enhanced LDL clearance
+```
+
+## Pharmacokinetics
+
+| Statin | Potency | Lipophilicity | Half-life | Metabolism |
+|--------|---------|---------------|-----------|------------|
+| **Atorvastatin** | High | Lipophilic | 14h | CYP3A4 |
+| **Rosuvastatin** | Highest | Hydrophilic | 19h | Minimal |
+| **Simvastatin** | Moderate | Lipophilic | 2-3h | CYP3A4 |
+| **Pravastatin** | Moderate | Hydrophilic | 1-3h | Sulfation |
+
+## Lipophilic vs. Hydrophilic
+
+**Lipophilic:** Cross membranes, enter muscle/brain, higher myopathy risk
+**Hydrophilic:** Limited to hepatocytes, lower myopathy risk
+
+## Dose-Response
+
+**Rule of 6:** Each doubling reduces LDL ~6%
+
+## Pleiotropic Effects
+
+- Anti-inflammatory (↓ CRP)
+- Endothelial function improvement
+- Antithrombotic effects
+- Plaque stabilization
+
+---
+
+*Source: [[LitNote_Statin_Pharmacology_L-001-0502]]*
