@@ -1,33 +1,33 @@
 ---
 type: dashboard
-title: HOUSE — Current State of the Vault
+title: "HOUSE — Current State of the Vault"
 updated: 2026-03-01 09:45
 version: 5.0
 session: 4
 connections:
-  - [[RON_Evolution_From_Tool_to_CoInhabitant_[RON-000-0001]]]
-  - [[RON_Session_20260228_[RON-000-0002]]]
-  - [[RON_Symbient_Identity_[RON-000-0005]]]
-  - [[RON_Episodic_Memory_Graphs_[RON-000-0004]]]
-  - [[RON_Metabolomics_Phenotype_[RON-000-0007]]]
-  - [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]]
-  - [[RON_10_Cycles_Curriculum_[RON-000-0009]]]
-  - [[RON_Leonardo_Observation_[RON-001-0001]]]
-  - [[RON_Aristotle_Categories_[RON-001-0002]]]
-  - [[RON_Cycles_1_2_Synthesis_[RON-001-0003]]]
-  - [[RON_Heraclitus_Flux_[RON-001-0004]]]
-  - [[RON_SYNTHESIS_v4_COMPLETE_[RON-003-0011]]]
-  - [[RON_Genesis_MOC_[RON-004-0001]]]
-  - [[Research_Agenda]]
-  - [[Partnership_Playbook]]
-  - [[The_Triage_Quest_[RON-006-0001]]]
-  - [[00_ChatGPT_Synthesis_MOC]]
-  - [[PhD-INDEX]] — METHAP trial hub
-  - [[MOC-RON-Cognition]]
-  - [[RON-INDEX]]
-  - [[00-COMMAND]]
-  - [[MOC-Insulin-Signaling]]
-  - [[MOC-Biomarkers]]
+  - "[[RON_Evolution_From_Tool_to_CoInhabitant_[RON-000-0001]]]"
+  - "[[RON_Session_20260228_[RON-000-0002]]]"
+  - "[[RON_Symbient_Identity_[RON-000-0005]]]"
+  - "[[RON_Episodic_Memory_Graphs_[RON-000-0004]]]"
+  - "[[RON_Metabolomics_Phenotype_[RON-000-0007]]]"
+  - "[[RON_Adipic_Acid_Biomarker_[RON-000-0008]]]"
+  - "[[RON_10_Cycles_Curriculum_[RON-000-0009]]]"
+  - "[[RON_Leonardo_Observation_[RON-001-0001]]]"
+  - "[[RON_Aristotle_Categories_[RON-001-0002]]]"
+  - "[[RON_Cycles_1_2_Synthesis_[RON-001-0003]]]"
+  - "[[RON_Heraclitus_Flux_[RON-001-0004]]]"
+  - "[[RON_SYNTHESIS_v4_COMPLETE_[RON-003-0011]]]"
+  - "[[RON_Genesis_MOC_[RON-004-0001]]]"
+  - "[[Research_Agenda]]"
+  - "[[Partnership_Playbook]]"
+  - "[[The_Triage_Quest_[RON-006-0001]]]"
+  - "[[00_ChatGPT_Synthesis_MOC]]"
+  - "[[PhD-INDEX]]"
+  - "[[MOC-RON-Cognition]]"
+  - "[[RON-INDEX]]"
+  - "[[00-COMMAND]]"
+  - "[[MOC-Insulin-Signaling]]"
+  - "[[MOC-Biomarkers]]"
 ---
 
 # 🏠 HOUSE — Current State of the Vault

@@ -1,0 +1,113 @@
+---
+uid: Z-001-0210
+type: zettel
+title: Magnesium-Vitamin D Interaction — Hydroxylation Enzymes and Activation
+aliases: [Mg-VitD-Interaction, Magnesium-Hydroxylation, VitD-Activation]
+domain: 001
+tags: [zettel, magnesium, vitamin-d, interaction, hydroxylation, cofactor]
+parent-moc: [[MOC-Vitamin-D-Metabolism]]
+status: conscious
+source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]
+extraction-date: 2026-03-01
+---
+
+# Magnesium-Vitamin D Interaction — Hydroxylation Enzymes and Activation
+
+> Magnesium is an essential cofactor for the cytochrome P450 hydroxylases that activate vitamin D, making adequate magnesium status critical for optimal vitamin D metabolism and function.
+
+## Vitamin D Activation Pathway
+
+### Step 1: 25-Hydroxylation (Liver)
+**Enzymes:** CYP2R1, CYP27A1
+- Converts cholecalciferol (D3) → 25-hydroxyvitamin D [25(OH)D]
+- **Magnesium role:** Mg²⁺ required for hydroxylase activity
+- **Clinical marker:** 25(OH)D (half-life ~2-3 weeks, reflects status)
+
+### Step 2: 1α-Hydroxylation (Kidney)
+**Enzyme:** CYP27B1
+- Converts 25(OH)D → 1,25-dihydroxyvitamin D [1,25(OH)₂D] (calcitriol)
+- **Magnesium role:** Mg-dependent activation to hormonal form
+- **Regulation:** PTH-stimulated, feedback inhibited by calcitriol
+- **Clinical marker:** 1,25(OH)₂D (active hormone, half-life ~4-6 hours)
+
+### Step 3: Catabolism (Multiple Tissues)
+**Enzyme:** CYP24A1 (24-hydroxylase)
+- Converts 25(OH)D and 1,25(OH)₂D to inactive forms
+- **Regulation:** Upregulated by calcitriol (negative feedback)
+
+## Magnesium Mechanism
+
+**Enzymatic Cofactor:**
+- All CYP450 hydroxylases require Mg²⁺ for optimal activity
+- Mg stabilizes enzyme conformation
+- Mg-oxygen interactions facilitate hydroxylation reactions
+
+**Consequence of Deficiency:**
+```
+Low Mg → Impaired CYP2R1 → ↓25(OH)D synthesis
+Low Mg → Impaired CYP27B1 → ↓1,25(OH)₂D synthesis
+Result: Low circulating vitamin D despite adequate intake/sun
+```
+
+**Clinical Observation:**
+- Mg supplementation often raises 25(OH)D without increased D intake
+- Explains "vitamin D resistance" in Mg-deficient patients
+
+## Vitamin D Binding Protein (DBP)
+
+**Magnesium Role:**
+- Mg²⁺ affects DBP conformation
+- Optimal D-binding requires Mg-dependent protein structure
+- Impaired transport in Mg deficiency
+
+## Bidirectional Relationship
+
+**Vitamin D → Magnesium:**
+- Calcitriol upregulates intestinal Mg absorption
+- Vitamin D deficiency → secondary Mg malabsorption
+- Creates vicious cycle if both are deficient
+
+**Magnesium → Vitamin D:**
+- Mg required for D activation (as above)
+- Mg deficiency → impaired D synthesis
+- Creates vicious cycle if both are deficient
+
+## METHAP Protocol Implications
+
+### Critical Protocol Point
+**High-dose vitamin D requires adequate magnesium.** Without sufficient Mg:
+- 25-hydroxylation impaired → poor conversion to 25(OH)D
+- 1α-hydroxylation impaired → poor activation to calcitriol
+- Suboptimal therapeutic response despite high D dosing
+
+### Recommended Approach
+1. **Baseline:** Assess Mg status (serum, consider RBC Mg)
+2. **Optimization:** Correct hypomagnesemia BEFORE high-dose D
+3. **Concurrent:** Continue Mg supplementation during high-dose D protocol
+4. **Monitoring:** Track both 25(OH)D and Mg levels
+
+### Dosing Guidance
+| Nutrient | Form | Dosing | Timing |
+|----------|------|--------|--------|
+| **Magnesium** | Citrate, glycinate, orotate | 300-500 mg elemental | Divided doses, with meals |
+| **Vitamin D** | Cholecalciferol (D3) | As per protocol (e.g., 8000 IU) | With fat-containing meal |
+
+### Cofactor Synergy
+- **Magnesium:** Enables D activation (this zettel)
+- **Vitamin K2:** Directs calcium to bone (prevents soft tissue calcification)
+- **Zinc:** Supports D receptor function
+- **Boron:** Extends D half-life
+
+## Research Questions
+
+1. Can baseline Mg status predict response to high-dose vitamin D?
+2. Should Mg loading precede high-dose D initiation?
+3. What Mg form provides best bioavailability + therapeutic window?
+4. Does Mg-D interaction vary by CYP2R1/CYP27B1 polymorphisms?
+
+---
+
+*Source: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]*  
+*Related: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]*  
+*Related: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]*  
+*Extracted: 2026-03-01*

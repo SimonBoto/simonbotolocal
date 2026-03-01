@@ -1,0 +1,70 @@
+---
+uid: Z-001-0443
+type: zettel
+title: B12 METHAP Protocol Integration
+aliases: [B12-METHAP, Protocol, Integration, Synergy]
+domain: 001
+tags: [zettel, b12, methap, protocol, integration]
+parent-moc: [[MOC-One-Carbon-Metabolism]]
+status: conscious
+source-litnote: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
+extraction-date: 2026-03-01
+---
+
+# B12 METHAP Protocol Integration
+
+> B12 adequacy supports the high metabolic demands of METHAP's nutrient therapy, ensuring efficient amino acid oxidation, energy production, and methylation capacity for optimal protocol outcomes.
+
+## METHAP Context
+
+### High Metabolic Turnover
+- High-dose nutrients increase metabolism
+- Amino acid processing demands
+- Cell proliferation (DNA synthesis)
+
+### B12 Roles in METHAP
+
+**Energy Metabolism:**
+- Amino acid oxidation (Ile, Met, Thr, Val)
+- Mitochondrial ATP production
+- Supports high metabolic rate
+
+**Methylation Support:**
+- Methionine regeneration
+- SAM synthesis
+- DNA/histone methylation
+- Epigenetic regulation
+
+**Cellular Proliferation:**
+- DNA synthesis (with folate)
+- Cell growth and repair
+- Tissue maintenance
+
+## Synergy
+
+**B12 Enables:**
+- D/K2/Mg to function optimally
+- Methylation pathway capacity
+- Energy for cellular processes
+- Antioxidant production (glutathione)
+
+**Integration:**
+- Part of comprehensive nutrient protocol
+- Supports all other nutrients
+- Essential cofactor
+
+## Monitoring
+
+**Consider:**
+- MMA at baseline
+- B12 supplementation standard
+- Ensure adequacy throughout
+- Reassess if symptoms arise
+
+## Conclusion
+
+B12 is foundational for METHAP success, supporting energy, methylation, and cellular function necessary for high-dose nutrient therapy benefits.
+
+---
+
+*Source: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]]*

@@ -1,0 +1,52 @@
+---
+uid: Z-001-0449
+type: zettel
+title: Integrated B12 Assessment — Complete Picture
+aliases: [Integrated-Assessment, Complete-Picture, Panel]
+domain: 001
+tags: [zettel, integrated, assessment, b12, panel]
+parent-moc: [[MOC-One-Carbon-Metabolism]]
+status: conscious
+source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]]
+extraction-date: 2026-03-01
+---
+
+# Integrated B12 Assessment — Complete Picture
+
+> Comprehensive B12 assessment requires serum B12, MMA, homocysteine, and RBC folate together to provide complete functional status and guide clinical decisions.
+
+## Recommended Panel
+
+1. **Serum B12** — Baseline screening
+2. **MMA** — Functional status
+3. **Homocysteine** — Methylation capacity
+4. **RBC Folate** — Tissue folate
+5. **CBC** — Anemia assessment
+
+## Interpretation Matrix
+
+| B12 | MMA | Homocysteine | Interpretation |
+|-----|-----|--------------|----------------|
+| Low | High | High | B12 deficiency |
+| Normal | High | High | Functional deficiency |
+| Normal | Normal | High | Folate deficiency likely |
+| Low | Normal | Normal | False low, recheck |
+
+## METHAP Monitoring
+
+**Baseline:**
+- Full panel
+- Ensure optimal status
+
+**Follow-up:**
+- B12, homocysteine, MMA
+- Every 3-6 months
+
+**Goal:**
+- Optimal ranges
+- Prevent deficiency
+- Maximize protocol benefits
+
+---
+
+*Source: [[LitNote_B12_Clinical_Assessment_L-001-0408]]*

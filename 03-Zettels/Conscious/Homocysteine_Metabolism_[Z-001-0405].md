@@ -1,0 +1,116 @@
+---
+uid: Z-001-0405
+type: zettel
+title: Homocysteine Metabolism Pathways
+aliases: [Homocysteine, Remethylation, Transsulfuration, B6]
+domain: 001
+tags: [zettel, homocysteine, methionine, cysteine, b6]
+parent-moc: [[MOC-One-Carbon-Metabolism]]
+status: conscious
+source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]
+extraction-date: 2026-03-01
+---
+
+# Homocysteine Metabolism Pathways
+
+> Homocysteine sits at a critical metabolic crossroads between remethylation to methionine (B12/folate-dependent) and transsulfuration to cysteine (B6-dependent), with elevated levels serving as a cardiovascular risk factor.
+
+## Pathway 1: Remethylation
+
+### Methionine Synthase Route (Primary)
+**Reaction:**
+```
+Homocysteine + 5-MTHF → Methionine + THF
+```
+
+**Cofactors:**
+- Vitamin B12 (methylcobalamin)
+- Folate (5-MTHF)
+
+**Location:** Most tissues
+
+**Significance:**
+- Regenerates methionine
+- Produces SAM (universal methyl donor)
+- Prevents homocysteine accumulation
+
+### Betaine Route (Alternative)
+**Reaction:**
+```
+Homocysteine + Betaine → Methionine + Dimethylglycine
+```
+
+**Enzyme:** Betaine-homocysteine methyltransferase (BHMT)
+
+**Location:** Liver, kidney
+
+**Significance:**
+- Bypasses folate/B12 requirement
+- Upregulated in B12 deficiency
+- Dietary betaine (trimethylglycine) can support
+
+## Pathway 2: Transsulfuration
+
+### Step 1: Cystathionine Formation
+**Reaction:**
+```
+Homocysteine + Serine → Cystathionine
+```
+
+**Enzyme:** Cystathionine β-synthase (CBS)
+
+**Cofactor:** Vitamin B6 (pyridoxal phosphate)
+
+### Step 2: Cysteine Formation
+**Reaction:**
+```
+Cystathionine → Cysteine + α-ketobutyrate
+```
+
+**Enzyme:** Cystathionine γ-lyase
+
+**Cofactor:** Vitamin B6
+
+**Significance:**
+- Produces cysteine (glutathione precursor)
+- Irreversible pathway
+- Disposes excess homocysteine
+
+## Regulation
+
+**High Methionine:**
+- SAM accumulates
+- Activates CBS (transsulfuration)
+- Inhibits methionine synthase
+- Net: Homocysteine → Cysteine
+
+**Low Methionine:**
+- Low SAM
+- CBS inhibited
+- Remethylation favored
+- Net: Homocysteine → Methionine
+
+## Clinical — Elevated Homocysteine
+
+**Causes:**
+- B12 deficiency
+- Folate deficiency
+- B6 deficiency
+- MTHFR polymorphisms
+- Renal failure
+- Hypothyroidism
+
+**Cardiovascular Risk:**
+- Endothelial dysfunction
+- Oxidative stress
+- Thrombosis promotion
+- Independent risk factor
+
+**Treatment:**
+- B-complex supplementation
+- Variable response
+- Genetic testing (MTHFR)
+
+---
+
+*Source: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]*

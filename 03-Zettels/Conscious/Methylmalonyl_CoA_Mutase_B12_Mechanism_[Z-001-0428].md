@@ -1,0 +1,56 @@
+---
+uid: Z-001-0428
+type: zettel
+title: Methylmalonyl-CoA Mutase — B12 and Radical Mechanism
+aliases: [Methylmalonyl-CoA-Mutase, B12, Adenosylcobalamin, Radical]
+domain: 001
+tags: [zettel, methylmalonyl-coa-mutase, b12, radical, mechanism]
+parent-moc: [[MOC-One-Carbon-Metabolism]]
+status: conscious
+source-litnote: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]
+extraction-date: 2026-03-01
+---
+
+# Methylmalonyl-CoA Mutase — B12 and Radical Mechanism
+
+> Methylmalonyl-CoA mutase catalyzes the vitamin B12-dependent rearrangement of L-methylmalonyl-CoA to succinyl-CoA using a radical mechanism involving adenosylcobalamin.
+
+## Reaction
+
+**Conversion:**
+```
+L-Methylmalonyl-CoA → Succinyl-CoA
+```
+
+- Intramolecular carbon rearrangement
+- No oxidation state change
+- Thioester bond maintained
+
+## B12 Cofactor — Adenosylcobalamin
+
+**Structure:**
+- Cobalamin with 5'-deoxyadenosyl group
+- Cobalt-carbon bond (Co-C)
+
+**Mechanism:**
+1. Homolytic cleavage of Co-C bond
+2. 5'-deoxyadenosyl radical generated
+3. Hydrogen abstraction from substrate
+4. Carbon skeleton rearrangement
+5. Radical returned to regenerate cofactor
+
+## Clinical Marker
+
+**Methylmalonic Acid (MMA):**
+- Accumulates in B12 deficiency
+- Specific for B12 (not folate) deficiency
+- Elevated in serum and urine
+
+**B12 Deficiency → Mutase Impaired:**
+- Cannot convert methylmalonyl-CoA
+- Accumulation upstream
+- MMA spills into blood/urine
+
+---
+
+*Source: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]*
