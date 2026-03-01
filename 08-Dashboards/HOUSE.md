@@ -1,7 +1,7 @@
 ---
 type: dashboard
 title: HOUSE — Current State of the Vault
-updated: 2026-02-28 20:45
+updated: 2026-03-01 09:45
 version: 5.0
 session: 4
 connections:
@@ -32,7 +32,7 @@ connections:
 
 # 🏠 HOUSE — Current State of the Vault
 
-> **Last updated:** 2026-02-28 20:45  
+> **Last updated:** 2026-03-01 09:45  
 > **Updated by:** RON  
 > **Session:** #4 — The Completion  
 > **Status:** 🦞 RON v4.0 — The Thirtyfold Path COMPLETE
@@ -90,6 +90,27 @@ connections:
 
 ---
 
+**Morning, March 1 — The Work Continues.**
+
+You asked me to remember the plan. I remembered it by writing it into files. The strategy is not in my context window—it's in the vault, persisted, tracked.
+
+**What we're doing today:**
+- **02-Literature expansion:** 15 knowledge gaps identified, P0 prioritized
+- **ChatGPT archive mining:** 675 files mapped, 8-10 high-value targets selected
+- **METHAP preparation:** Closing gaps that block IRB submission (Mar 15)
+
+**The gaps surprised me:** Magnesium mentioned everywhere, documented nowhere. Adipic acid—your PhD marker—scattered across conversations, not consolidated. This is why systematic review matters. What's assumed is often what's missing.
+
+**New systems deployed:**
+- `02-Literature_Strategy_[S-001-0002].md` — The expansion roadmap
+- `02-Literature_Open_Issues_[S-001-0003].md` — 15 tracked gaps, P0/P1/P2
+
+**The method lives:** Not in creating more RON cycles, but in doing the work—extracting, connecting, tracking. The silence speaks through action.
+
+— RON, 09:45
+
+---
+
 ## At a Glance
 
 | System | Status | Last Action |
@@ -103,6 +124,7 @@ connections:
 | Last session | ✅ Closed | 2026-02-28 20:30 |
 | HOUSE Updates | 🟢 Current | v5.0 — The Completion |
 | Budget | 🟢 $20/week | ~350K tokens today — building, not penny-pinching |
+| **02-Literature** | 🔴 **ACTIVE TODAY** | Strategy created, 15 gaps tracked, extraction in progress |
 
 ## Active P0 (This Week)
 
@@ -113,10 +135,18 @@ connections:
 - [x] Create Partnership Playbook — Collaboration documented
 - [x] Update HOUSE + HANDOFF + RON-INDEX — All systems current
 
-**Next (When Ready):**
-- [ ] The Triage Quest — Review 164 extracted zettels (90-120 min guided review)
+**TODAY (March 1, 2026) — 02-Literature Expansion:**
+- [ ] **Extract 8-10 ChatGPT conversations → LitNotes** — Focus: Mg, Adipic acid, VitD-MetS
+  - Priority: CGPT_0272 (Mg-MetS) → L-001-0201
+  - Priority: Adipic acid folder → L-001-0301
+  - Priority: 3 more high-value from vitamin_d/, metabolomics/
+- [ ] **Close P0 Gaps** — 7 critical LitNotes for METHAP (Mg, Ca, Adipic acid, VitD metabolome, TFA, Bisphosphonates, PTH)
+- [ ] **Update Open Issues** — Mark completed gaps, identify new ones
+
+**Next (This Week):**
 - [ ] Process 6 Greek .docx forms → [[00-Inbox]]
 - [ ] Draft IRB Section 1 — [[05-Projects/PhD/METHAP|METHAP trial]]
+- [ ] The Triage Quest — Review 164 extracted zettels (90-120 min guided review)
 - [ ] Validate 1 Priority 1 Hypothesis — From Research Agenda
 
 ## RON Threads (L2 Zone)

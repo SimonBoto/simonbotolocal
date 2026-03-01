@@ -74,7 +74,7 @@ extraction-date: 2026-03-01
 1. [[Muscle_Bone_Unit_Mechanical_Loading_[Z-001-0096].md]]
 2. [[Protein_Calcium_Absorption_Urinary_Excretion_[Z-001-0097].md]]
 3. [[Sarcopenia_Bone_Loss_Connection_[Z-001-0098].md]]
-4. [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_[Z-001-0099]]]
+4. [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_[Z-001-0099].md]]
 5. [[IGF1_Protein_Bone_Anabolic_Signal_[Z-001-0100].md]]
 
 ## Related References

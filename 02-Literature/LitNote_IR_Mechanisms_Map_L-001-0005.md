@@ -101,7 +101,7 @@ extraction-date: 2026-02-24
 ---
 
 ## Related References
-- [[R-001-0037]] — Reaven 1988 Banting Lecture — Historical foundation
+- [[R-001-0037]] — Reaven 1988 Banting Lecture — Historical  [[Reaven_1988_Reference_Hub]] 
 - [[METHAP_Biomarker_Panel_Z-001-0045.md]] — METHAP Panel — Applies this framework
 
 ---
