@@ -2,11 +2,13 @@
 uid: Z-001-0528
 type: zettel
 title: Validation Requirements for Biomarker Translation
+aliases: [Z-001-0528, Biomarker Validation Pipeline, Clinical Translation Standards]
 domain: 001
+domain-name: Research Methods
 tags: [zettel, biomarkers, validation, clinical-translation, study-design, replication, research-standards]
-parent-moc: [[MOC-Clinical-Biostatistics]]
-source-litnote: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
-status: conscious
+parent-moc: [[MOC-Research-Methods]]
+source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
+confidence: high
 created: 2026-03-03
 ---
 
@@ -200,11 +202,11 @@ Studies show **<50% replication rate** for omics biomarkers:
 
 ## Related Zettels
 
-- [[Z-001-0526]] — Exploratory vs Confirmatory Research Standards
-- [[Z-001-0525]] — FDR 0.1 vs 0.05 Selection Framework
-- [[Z-001-0522]] — Underpowered Study Consequences
-- [[Z-001-0523]] — PhD Sample Size Strategies
-- [[L-001-0515]] — False Discovery Rate and Multiple Testing Correction
+- [[Exploratory_vs_Confirmatory_Research_Standards_[Z-001-0526]]] — Exploratory vs Confirmatory Research Standards
+- [[FDR_Threshold_Selection_[Z-001-0525]]] — FDR 0.1 vs 0.05 Selection Framework
+- [[Underpowered_Study_Consequences_[Z-001-0522]]] — Underpowered Study Consequences
+- [[Sample_Size_Strategies_PhD_[Z-001-0523]]] — PhD Sample Size Strategies
+- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — False Discovery Rate and Multiple Testing Correction
 
 ---
 

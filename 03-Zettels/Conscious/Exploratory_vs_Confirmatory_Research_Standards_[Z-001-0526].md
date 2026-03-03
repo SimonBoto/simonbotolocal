@@ -2,11 +2,13 @@
 uid: Z-001-0526
 type: zettel
 title: Exploratory vs Confirmatory Research Standards
+aliases: [Z-001-0526, Research Phase Standards, Biomarker Study Classification]
 domain: 001
+domain-name: Research Methods
 tags: [zettel, study-design, exploratory-research, confirmatory-research, biomarkers, validation, research-integrity]
-parent-moc: [[MOC-Clinical-Biostatistics]]
-source-litnote: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
-status: conscious
+parent-moc: [[MOC-Research-Methods]]
+source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
+confidence: high
 created: 2026-03-03
 ---
 
@@ -175,11 +177,11 @@ Without explicit "exploratory" framing, readers may interpret findings as more r
 
 ## Related Zettels
 
-- [[Z-001-0525]] — FDR 0.1 vs 0.05 Selection Framework
-- [[Z-001-0528]] — Validation Requirements for Biomarker Translation
-- [[Z-001-0522]] — Underpowered Study Consequences
-- [[Z-001-0523]] — PhD Sample Size Strategies
-- [[L-001-0515]] — False Discovery Rate and Multiple Testing Correction
+- [[FDR_Threshold_Selection_[Z-001-0525]]] — FDR 0.1 vs 0.05 Selection Framework
+- [[Biomarker_Validation_Requirements_[Z-001-0528]]] — Validation Requirements for Biomarker Translation
+- [[Underpowered_Study_Consequences_[Z-001-0522]]] — Underpowered Study Consequences
+- [[Sample_Size_Strategies_PhD_[Z-001-0523]]] — PhD Sample Size Strategies
+- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — False Discovery Rate and Multiple Testing Correction
 
 ---
 

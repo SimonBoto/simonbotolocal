@@ -1,12 +1,21 @@
 ---
 uid: L-001-0515
-type: litnote
+type: lit-note
 title: False Discovery Rate and Multiple Testing Correction in Metabolomics Studies
+authors: ChatGPT Analysis
+year: 2024
+journal: ChatGPT Archive
+doi: N/A
+pmid: N/A
+pmcid: N/A
+tier: 3
+relevance: High — Core statistical methodology for PhD metabolomics work
 aliases: [L-001-0515, FDR Correction, Benjamini-Hochberg Procedure, Multiple Testing, Type I Error Control]
 domain: 001
 tags: [litnote, fdr, multiple-testing, benjamini-hochberg, type-1-error, metabolomics, statistics, exploratory-research, confirmatory-research]
 source: "[[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328]]]"
-status: conscious
+status: extracted
+parent-moc: [[MOC-Research-Methods]]
 extraction-date: 2026-03-03
 ---
 
@@ -185,12 +194,12 @@ Every metabolomics study should report:
 
 ## 8. Related Zettels
 
-- [[Z-001-0524]] — Benjamini-Hochberg Procedure Mechanics
-- [[Z-001-0525]] — FDR 0.1 vs 0.05 Selection Framework
-- [[Z-001-0526]] — Exploratory vs Confirmatory Research Standards
-- [[Z-001-0527]] — Multiple Testing Burden in High-Dimensional Data
-- [[Z-001-0528]] — Validation Requirements for Biomarker Translation
-- [[L-001-0514]] — Power Analysis and Sample Size Requirements
+- [[Benjamini_Hochberg_Procedure_[Z-001-0524]]] — Benjamini-Hochberg Procedure Mechanics
+- [[FDR_Threshold_Selection_[Z-001-0525]]] — FDR 0.1 vs 0.05 Selection Framework
+- [[Exploratory_vs_Confirmatory_Research_Standards_[Z-001-0526]]] — Exploratory vs Confirmatory Research Standards
+- [[Multiple_Testing_Burden_High_Dimensional_Data_[Z-001-0527]]] — Multiple Testing Burden in High-Dimensional Data
+- [[Biomarker_Validation_Requirements_[Z-001-0528]]] — Validation Requirements for Biomarker Translation
+- [[LitNote_Power_Analysis_Metabolomics_L-001-0514]] — Power Analysis and Sample Size Requirements
 
 ---
 

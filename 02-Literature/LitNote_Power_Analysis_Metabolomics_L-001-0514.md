@@ -1,12 +1,21 @@
 ---
 uid: L-001-0514
-type: litnote
+type: lit-note
 title: Power Analysis and Sample Size Requirements in Metabolomics Studies
+authors: ChatGPT Analysis
+year: 2024
+journal: ChatGPT Archive
+doi: N/A
+pmid: N/A
+pmcid: N/A
+tier: 3
+relevance: High — Essential for PhD trial design and METHAP methodology
 aliases: [L-001-0514, Metabolomics Power Analysis, Sample Size Calculation, High-Dimensional Data]
 domain: 001
 tags: [litnote, power-analysis, sample-size, metabolomics, statistics, study-design, effect-size, type-1-error, type-2-error]
 source: "[[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328]]]"
-status: conscious
+status: extracted
+parent-moc: [[MOC-Research-Methods]]
 extraction-date: 2026-03-02
 ---
 
@@ -274,4 +283,4 @@ Confirm findings
 ---
 
 *Last reviewed: 2026-03-02*  
-*Status: conscious — review in 30 days*
+*Status: extracted — review in 30 days*

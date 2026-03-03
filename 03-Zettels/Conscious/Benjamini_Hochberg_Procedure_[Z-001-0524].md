@@ -2,11 +2,13 @@
 uid: Z-001-0524
 type: zettel
 title: Benjamini-Hochberg Procedure Mechanics
+aliases: [Z-001-0524, BH Procedure, FDR Control Method]
 domain: 001
+domain-name: Research Methods
 tags: [zettel, statistics, fdr, benjamini-hochberg, multiple-testing, p-value, method]
-parent-moc: [[MOC-Clinical-Biostatistics]]
-source-litnote: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
-status: conscious
+parent-moc: [[MOC-Research-Methods]]
+source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
+confidence: high
 created: 2026-03-03
 ---
 
@@ -121,10 +123,10 @@ rejected, corrected, _, _ = multipletests(p_values, alpha=0.1, method='fdr_bh')
 
 ## Related Zettels
 
-- [[Z-001-0525]] — FDR 0.1 vs 0.05 Selection Framework
-- [[Z-001-0527]] — Multiple Testing Burden in High-Dimensional Data
-- [[Z-001-0521]] — Power Analysis Formula
-- [[L-001-0515]] — False Discovery Rate and Multiple Testing Correction
+- [[FDR_Threshold_Selection_[Z-001-0525]]] — FDR 0.1 vs 0.05 Selection Framework
+- [[Multiple_Testing_Burden_High_Dimensional_Data_[Z-001-0527]]] — Multiple Testing Burden in High-Dimensional Data
+- [[Power_Analysis_Formula_Metabolomics_[Z-001-0521]]] — Power Analysis Formula
+- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — False Discovery Rate and Multiple Testing Correction
 
 ---
 
