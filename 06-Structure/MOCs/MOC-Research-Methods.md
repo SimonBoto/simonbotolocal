@@ -32,6 +32,18 @@ Statistical methodology, study design, and clinical research standards for metab
 
 ---
 
+## 🔍 Exploratory vs Confirmatory Research
+
+### Phase Definitions
+- [[Exploratory_vs_Confirmatory_Definitions_[Z-001-0558].md]] — Distinction and standards
+- [[Exploratory_Excuse_Pitfall_Case_Study_[Z-001-0559].md]] — Misclassification example
+
+### Validation Framework
+- [[Biomarker_Validation_Pipeline_Requirements_[Z-001-0560].md]] — Five-stage pipeline
+- [[Effect_Size_Practical_Significance_Omics_[Z-001-0561].md]] — Effect size requirements
+
+---
+
 ## 📊 Biomarker Development
 
 ### Discovery Phase
