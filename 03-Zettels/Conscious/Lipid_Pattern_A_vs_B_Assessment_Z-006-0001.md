@@ -86,7 +86,7 @@ $$
 
 **Lipid Components:**
 - [[ApoB_LpA_sdLDL_Advanced_Lipids_Z-006-0002.md]] — ApoB (Pattern B has more particles per mg/dL)
-- [[Z-006-0003]] — Small dense LDL (sdLDL)
+- Z-006-0003 (Small dense LDL — sdLDL) — *link pending*
 
 **Mechanism:**
 - [[Phenotype_Mapping_Metabolomics_Z-001-0018.md]] — Lipotoxicity (IR → hepatic overproduction of VLDL → Pattern B)

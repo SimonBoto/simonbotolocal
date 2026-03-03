@@ -56,7 +56,7 @@ connections:
 
 **Methylation:**
 - [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md]] — Homocysteine (5-MTHF is substrate for remethylation)
-- [[Z-004-0005]] — MTHFR variants (impair conversion of folic acid)
+- Z-004-0005 (MTHFR variants — impair conversion of folic acid) — *link pending*
 - [[Functional_B12_Deficiency_MMA_Assessment_Z-004-0019.md]] — Functional B12 deficiency (B12 + 5-MTHF work together)
 
 **Genetics:**

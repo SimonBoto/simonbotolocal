@@ -50,14 +50,14 @@ connections:
 
 **Insulin Resistance:**
 - [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (VitD supplementation improves insulin sensitivity)
-- [[Z-002-0009]] — VDR → improved insulin receptor expression
+- Z-002-0009 (VDR → improved insulin receptor expression) — *link pending*
 
 **Methylation:**
 - [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md]] — Homocysteine (VitD supports methylation via calcium signaling)
 
 **Protocol Components:**
-- [[Z-002-0006]] — Dosing tiers by starting level
-- [[Z-002-0007]] — Vitamin K2 synergy (prevents hypercalcemia)
+- Z-002-0006 (Dosing tiers by starting level) — *link pending*
+- Z-002-0007 (Vitamin K2 synergy — prevents hypercalcemia) — *link pending*
 
 ---
 

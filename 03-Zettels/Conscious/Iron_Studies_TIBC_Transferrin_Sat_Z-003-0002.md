@@ -64,7 +64,7 @@ $$
 - TIBC + transferrin sat clarify ferritin interpretation
 
 **Methylation:**
-- [[Z-004-0011]] — Iron required for methionine synthase
+- Z-004-0011 (Iron required for methionine synthase) — *link pending*
 - Transferrin sat <20% → impaired methylation → elevated homocysteine
 
 ---

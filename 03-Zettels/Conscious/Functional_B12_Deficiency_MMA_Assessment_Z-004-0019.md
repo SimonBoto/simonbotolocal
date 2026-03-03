@@ -64,15 +64,15 @@ Without B12:
 
 **Methylation Cycle:**
 - [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md]] — Homocysteine (composite methylation status)
-- [[Z-004-0005]] — MTHFR (folate cycle, homocysteine alternative pathway)
+- Z-004-0005 (MTHFR — folate cycle, homocysteine alternative pathway) — *link pending*
 
 **Iron Interdependence:**
-- [[Z-003-0010]] — Iron required for methionine synthase
-- [[Z-003-0011]] — Iron deficiency → elevated homocysteine
+- Z-003-0010 (Iron required for methionine synthase) — *link pending*
+- Z-003-0011 (Iron deficiency → elevated homocysteine) — *link pending*
 
 **Clinical Context:**
-- [[Z-004-0012]] — Serum B12 vs functional status comparison
-- [[Z-004-0020]] — B12 supplementation protocols
+- Z-004-0012 (Serum B12 vs functional status comparison) — *link pending*
+- Z-004-0020 (B12 supplementation protocols) — *link pending*
 
 ---
 

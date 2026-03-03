@@ -76,10 +76,10 @@ Iron status cannot be assessed by ferritin alone. **Three distinct patterns** re
 
 **Inflammation:**
 - [[Inflammation_Markers_CRP_ESR_Z-007-0001.md]] — CRP, hepcidin regulation
-- [[Z-003-0014]] — Hepcidin in detail
+- Z-003-0014 (Hepcidin in detail) — *link pending*
 
 **Methylation:**
-- [[Z-004-0011]] — Iron required for methionine synthase
+- Z-004-0011 (Iron required for methionine synthase) — *link pending*
 - Iron deficiency → elevated homocysteine
 
 ---
