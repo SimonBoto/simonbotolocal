@@ -1,12 +1,21 @@
 ---
 uid: L-101-0003
-type: litnote
+type: lit-note
 title: Dicarboxylic Acids as Clinical Metabolic Markers
+authors: ChatGPT Analysis
+year: 2023
+journal: ChatGPT Archive
+doi: N/A
+pmid: N/A
+pmcid: N/A
+tier: 3
+relevance: High — Clinical diagnostic markers for METHAP protocol
 aliases: [L-101-0003, Dicarboxylic Aciduria, Urine Organic Acid Markers]
 domain: 101
 tags: [litnote, dicarboxylic-aciduria, urine-organic-acid, fatty-acid-oxidation-disorder, clinical-metabolomics, diagnostic-marker]
 source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]]"
-status: conscious
+status: extracted
+parent-moc: [[MOC-Pharmacometabolomics]]
 extraction-date: 2026-03-02
 ---
 
@@ -18,9 +27,10 @@ extraction-date: 2026-03-02
 
 ---
 
-## 1. Dicarboxylic Aciduria: Definition and Significance
+## Core Concepts Extracted
 
-**Dicarboxylic aciduria** is the abnormal excretion of dicarboxylic acids (adipate, suberate, sebacate) in urine, indicating impaired mitochondrial β-oxidation and compensatory ω-oxidation activity.
+### 1. Dicarboxylic Aciduria: Definition and Significance
+> "Dicarboxylic aciduria is the abnormal excretion of dicarboxylic acids (adipate, suberate, sebacate) in urine, indicating impaired mitochondrial β-oxidation and compensatory ω-oxidation activity."
 
 **Clinical Significance:**
 - Marker of fatty acid oxidation disorders (FAODs)
@@ -28,11 +38,10 @@ extraction-date: 2026-03-02
 - Early warning sign in insulin resistance progression
 - Distinguishable from other organic acidemias
 
----
+**Zettels extracted:** [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_[Z-101-0013].md]]
 
-## 2. Complete Dicarboxylic Acid Inventory
-
-### Aliphatic Series (Biologically Relevant)
+### 2. Complete Dicarboxylic Acid Inventory
+> "The pattern of dicarboxylic acid elevation reveals the severity and type of fatty acid oxidation impairment."
 
 | Acid | Carbons | Formula | Primary Source | Clinical Relevance |
 |------|---------|---------|----------------|-------------------|
@@ -46,11 +55,10 @@ extraction-date: 2026-03-02
 | **Azelaic** | C9 | HOOC-(CH₂)₇-COOH | Minor ω-oxidation product | Uncommon elevation |
 | **Sebacic** | C10 | HOOC-(CH₂)₈-COOH | ω-oxidation (C10-C16 FAs) | Tertiary marker |
 
----
+**Zettels extracted:** [[Dicarboxylic_Acid_Hierarchy_IR_Markers_[Z-101-0011].md]]
 
-## 3. Differential Diagnosis of Dicarboxylic Aciduria
-
-### Primary vs Secondary Causes
+### 3. Differential Diagnosis of Dicarboxylic Aciduria
+> "Primary genetic causes (FAODs) must be distinguished from secondary acquired causes (carnitine deficiency, insulin resistance, medications)."
 
 **Primary (Genetic) — Fatty Acid Oxidation Disorders:**
 - Medium-chain acyl-CoA dehydrogenase deficiency (MCADD) — most common
@@ -70,11 +78,10 @@ extraction-date: 2026-03-02
 - Severe liver disease
 - Pregnancy (physiological stress)
 
----
+**Zettels extracted:** [[Fatty_Acid_Oxidation_Disorder_Differential_[Z-101-0014].md]]
 
-## 4. Laboratory Interpretation Guide
-
-### Urine Organic Acid Analysis
+### 4. Laboratory Interpretation Guide
+> "Urine organic acid analysis uses GC-MS or LC-MS/MS to quantify dicarboxylic acids, with pattern recognition distinguishing mild, moderate, and severe metabolic stress."
 
 **Sample Requirements:**
 - Random urine (first morning preferred)
@@ -87,7 +94,7 @@ extraction-date: 2026-03-02
 - LC-MS/MS — increasingly common
 - Reported as mmol/mol creatinine or μg/mg creatinine
 
-### Pattern Recognition
+**Pattern Recognition:**
 
 **Mild Dicarboxylic Aciduria:**
 - Adipate: 2-5× upper limit of normal
@@ -107,11 +114,10 @@ extraction-date: 2026-03-02
 - Sebacate: Elevated
 - **Interpretation:** Severe FAOD or metabolic crisis
 
----
+**Zettels extracted:** [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_[Z-101-0016].md]]
 
-## 5. Distinguishing Features
-
-### Dicarboxylic Aciduria vs Ketone Bodies
+### 5. Distinguishing Dicarboxylic Aciduria from Ketone Bodies
+> "Dicarboxylic aciduria occurs in fed states with impaired β-oxidation, while ketonuria occurs in fasting states with accelerated β-oxidation — opposite metabolic contexts requiring different clinical interpretation."
 
 | Feature | Dicarboxylic Aciduria | Ketosis/Ketonuria |
 |---------|----------------------|-------------------|
@@ -121,91 +127,51 @@ extraction-date: 2026-03-02
 | **Clinical context** | Fed state possible | Fasting/starvation |
 | **Metabolic state** | β-oxidation impaired | β-oxidation accelerated |
 
-### Dicarboxylic Aciduria vs Other Organic Acidemias
-
-**Methylmalonic Aciduria:**
-- Elevated methylmalonate (C4 dicarboxylic but structurally different)
-- Propionate pathway defect
-- Normal adipate/suberate/sebacate pattern
-
-**Propionic Acidemia:**
-- Elevated propionate, methylcitrate, tiglylglycine
-- No dicarboxylic acid elevation
-
-**Glutaric Aciduria Type I:**
-- Elevated glutarate (C5), not other dicarboxylics
-- Lysine/tryptophan metabolism defect
+**Zettels extracted:** [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_[Z-101-0015].md]]
 
 ---
 
-## 6. METHAP Clinical Application
-
-### Screening Protocol
-
-**Indications for Dicarboxylic Acid Testing:**
-1. Unexplained hypoglycemia
-2. Metabolic syndrome workup
-3. Insulin resistance with normal glucose
-4. Muscle weakness/cramps with exercise
-5. Cardiomyopathy of unknown etiology
-6. Family history of FAOD
-7. Infant with lethargy, hypoglycemia, hepatomegaly
-
-### Interpretation Workflow
-
-```
-Urine Organic Acid Panel
-        ↓
-Dicarboxylic acids elevated?
-        ↓
-    YES —→ Pattern analysis
-        ↓
-Adipate > suberate > sebacate?
-        ↓
-    YES —→ Consistent with ω-oxidation
-        ↓
-Ketones present?
-        ↓
-   NO —→ FAOD or mitochondrial dysfunction likely
-  YES —→ Metabolic crisis or combined defect
-        ↓
-Carnitine profile —→ Free carnitine, acylcarnitine ratio
-        ↓
-Acylcarnitine profile —→ Specific FAOD identification
-        ↓
-Genetic testing —→ Confirm diagnosis
-```
-
-### Therapeutic Monitoring
-
-**Carnitine Supplementation Response:**
-- Baseline: Elevated dicarboxylic acids, low free carnitine
-- Post-treatment: Dicarboxylic acids normalize, free carnitine rises
-- Timeline: Days to weeks for normalization
-
-**Dietary Intervention Response:**
-- Frequent feeding (prevents catabolism)
-- Medium-chain triglyceride (MCT) oil supplementation
-- Reduced long-chain fat intake (in severe FAODs)
+## Key Figures & Data
+- **Aliphatic series:** C2-C10 dicarboxylic acids with distinct clinical significance
+- **Pattern severity:** Mild (2-5×), Moderate (5-20×), Severe (>20×) adipate elevation
+- **Primary vs secondary:** Genetic FAODs vs acquired carnitine deficiency/IR
+- **Fed vs fasting:** Dicarboxylic aciduria (fed) vs ketonuria (fasting)
 
 ---
 
-## Zettels Created
+## My Notes
 
-1. [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_[Z-101-0013]]]
-2. [[Fatty_Acid_Oxidation_Disorder_Differential_[Z-101-0014]]]
-3. [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_[Z-101-0015]]]
-4. [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_[Z-101-0016]]]
+**Synthesis:** Dicarboxylic acid analysis provides a window into mitochondrial fatty acid oxidation capacity. The pattern (adipate > suberate > sebacate) and magnitude distinguish subclinical metabolic stress from severe genetic disorders. Critical for METHAP: adults with insulin resistance show mild-moderate dicarboxylic aciduria in fed states, distinguishing them from ketotic states and from severe FAODs seen in pediatrics.
+
+**Connection to METHAP/PhD:**
+- **Screening tool:** Urine organic acid panel for IR detection
+- **Differential:** Rule out primary FAODs in adults
+- **Monitoring:** Track response to carnitine/interventions
+- **Pattern recognition:** Adipate dominance = IR signature
+
+**Questions:**
+- What is the cutoff for "abnormal" in our target adult population?
+- How sensitive is adipate for detecting pre-diabetes?
+- Should we include acylcarnitine profiling alongside?
 
 ---
 
-## References
-
-- Source: ChatGPT CGPT-0586 conversation (August 30, 2023)
-- Related: [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]]
-- Domain: [[MOC-Pharmacometabolomics]]
+## Zettels Created from This Source
+1. [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_[Z-101-0013].md]] — Laboratory analysis
+2. [[Fatty_Acid_Oxidation_Disorder_Differential_[Z-101-0014].md]] — Primary vs secondary causes
+3. [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_[Z-101-0015].md]] — Clinical differentiation
+4. [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_[Z-101-0016].md]] — Diagnostic workflow
 
 ---
 
-*Last reviewed: 2026-03-02*  
-*Status: conscious — review in 30 days*
+## Related References
+- [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]] — Mechanistic basis
+- [[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]] — Cofactor connections
+- [[MOC-Pharmacometabolomics]] — Parent MOC
+- [[MOC-Clinical-Protocols]] — Diagnostic implementation
+
+---
+
+*Literature note processed: 2026-03-02*  
+*Zettels extracted: 4*  
+*Status: extracted*

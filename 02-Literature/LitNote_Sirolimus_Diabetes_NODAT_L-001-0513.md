@@ -1,12 +1,21 @@
 ---
 uid: L-001-0513
-type: litnote
+type: lit-note
 title: Sirolimus-Induced Diabetes and Insulin Resistance Mechanisms
+authors: ChatGPT Analysis
+year: 2025
+journal: ChatGPT Archive
+doi: N/A
+pmid: N/A
+pmcid: N/A
+tier: 3
+relevance: High — Drug-induced diabetes mechanisms relevant to transplant patients
 aliases: [L-001-0513, Rapamycin Diabetes, NODAT, mTOR Insulin Signaling]
 domain: 001
 tags: [litnote, sirolimus, rapamycin, diabetes, insulin-resistance, nodat, mtorc1, mtorc2, beta-cell, glut4]
 source: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_[CGPT-0189]]]"
-status: conscious
+status: extracted
+parent-moc: [[MOC-mTOR-Signaling]]
 extraction-date: 2026-03-02
 ---
 
@@ -15,24 +24,14 @@ extraction-date: 2026-03-02
 > **Source:** ChatGPT CGPT-0189 (January 13, 2025)  
 > **Clinical Syndrome:** New-Onset Diabetes After Transplantation (NODAT)  
 > **Drug:** Sirolimus (Rapamycin)  
-> **Risk:** Significant — dose-dependent
+> **Risk:** Significant — dose-dependent (10-30% vs. 5-10% with other immunosuppressants)
 
 ---
 
-## 1. Overview: Sirolimus and Glucose Metabolism
+## Core Concepts Extracted
 
-Sirolimus is strongly associated with:
-- **New-onset diabetes mellitus (NODAT)** in transplant patients
-- **Glucose intolerance** and insulin resistance
-- **β-cell dysfunction** and reduced insulin secretion
-
-**Prevalence:** 10-30% of sirolimus-treated transplant patients develop diabetes (vs. 5-10% with other immunosuppressants)
-
----
-
-## 2. Mechanism 1: Impaired Insulin Signaling (mTORC1 Effects)
-
-### GLUT4 Translocation Defect
+### 1. GLUT4 Translocation Defect and Peripheral Insulin Resistance
+> "Sirolimus inhibits mTORC1, disrupting the insulin signaling pathway downstream of Akt and impairing GLUT4 vesicle trafficking to the cell membrane, causing peripheral insulin resistance."
 
 **Normal Insulin Signaling:**
 ```
@@ -54,18 +53,17 @@ Insulin → Insulin Receptor → IRS-1/2 → PI3K → Akt → mTORC1
 - Adipose tissue
 - Cardiac muscle
 
----
+**Zettels extracted:** [[Sirolimus_GLUT4_Insulin_Resistance_[Z-001-0516].md]]
 
-## 3. Mechanism 2: β-Cell Dysfunction (Mitochondrial Toxicity)
-
-### Pancreatic β-Cell Vulnerability
+### 2. β-Cell Dysfunction from Mitochondrial Toxicity
+> "Pancreatic β-cells are particularly sensitive to sirolimus due to high metabolic demand; mitochondrial dysfunction impairs glucose-stimulated insulin secretion and causes β-cell loss."
 
 **Why β-cells are particularly sensitive:**
 1. High metabolic demand (ATP required for insulin secretion)
 2. Coupled glucose sensing: Glucose → ATP → K⁺ channel closure → Ca²⁺ influx → insulin release
 3. Mitochondria must rapidly increase ATP production after glucose stimulation
 
-### Sirolimus Effects on β-Cells
+**Sirolimus Effects on β-Cells:**
 
 **Mitochondrial Dysfunction:**
 - Reduced ETC efficiency → lower ATP production
@@ -80,11 +78,12 @@ Insulin → Insulin Receptor → IRS-1/2 → PI3K → Akt → mTORC1
 - Animal models: reduced β-cell mass, impaired insulin secretion
 - Human studies: decreased first-phase insulin response
 
----
+**Zettels extracted:** [[Sirolimus_Beta_Cell_Dysfunction_NODAT_[Z-001-0517].md]]
 
-## 4. Mechanism 3: mTORC2 Inhibition (High-Dose/Chronic)
+### 3. mTORC2 Inhibition and Amplified Insulin Resistance
+> "Chronic or high-dose sirolimus inhibits mTORC2, reducing Akt phosphorylation at Ser473 and amplifying insulin resistance beyond mTORC1 effects."
 
-### mTORC2 Function in Insulin Sensing
+**mTORC2 Function in Insulin Sensing:**
 
 **mTORC2 Composition:**
 - mTOR + Rictor + mSin1 + Protor
@@ -104,11 +103,12 @@ Insulin → Insulin Receptor → IRS-1/2 → PI3K → Akt → mTORC1
 - Reduced Akt phosphorylation/activation
 - **Amplified insulin resistance** beyond mTORC1 effects
 
----
+**Zettels extracted:** [[mTORC2_Akt_Insulin_Signaling_[Z-001-0518].md]]
 
-## 5. Mechanism 4: Adipose Tissue and Lipotoxicity
+### 4. Adipose Tissue Dysfunction and Lipotoxicity
+> "Sirolimus suppresses adipogenesis, reduces adiponectin, and increases lipolysis, creating elevated free fatty acids that cause insulin resistance in muscle and liver."
 
-### Adipocyte Dysfunction
+**Adipocyte Dysfunction:**
 
 **Adipogenesis Suppression:**
 - mTORC1 required for adipocyte differentiation
@@ -125,8 +125,7 @@ Insulin → Insulin Receptor → IRS-1/2 → PI3K → Akt → mTORC1
 - FFAs cause insulin resistance in muscle/liver (lipotoxicity)
 - FFA → ceramide synthesis → impaired insulin signaling
 
-### Lipotoxicity Cascade
-
+**Lipotoxicity Cascade:**
 ```
 Sirolimus → Impaired adipogenesis + Increased lipolysis
                     ↓
@@ -141,117 +140,52 @@ dysfunction)    activation)
             Systemic hyperglycemia
 ```
 
----
-
-## 6. Clinical Evidence Summary
-
-### Transplant Studies (NODAT)
-
-| Study Type | Finding |
-|------------|---------|
-| Registry data | 15-30% NODAT with sirolimus vs. 5-10% with CNIs |
-| Randomized trials | Higher HbA1c, fasting glucose with sirolimus |
-| Dose-dependency | Clear dose-response relationship |
-| Reversibility | Partial improvement with dose reduction/switch |
-
-### Risk Factors for NODAT
-
-- **Obesity** (BMI >30)
-- **Family history** of diabetes
-- **Hispanic/African American** ethnicity
-- **Hepatitis C** infection
-- **Corticosteroid** use (synergistic)
-- **Older age**
-
-### Biomarker Changes
-
-| Marker | Change | Interpretation |
-|--------|--------|----------------|
-| Fasting glucose | ↑ 15-30 mg/dL | Hepatic glucose output |
-| HbA1c | ↑ 0.5-1.0% | Chronic hyperglycemia |
-| Fasting insulin | ↑ or → | Insulin resistance |
-| HOMA-IR | ↑ | Quantified IR |
-| OGTT | Impaired | Post-prandial glucose |
+**Zettels extracted:** [[Sirolimus_Lipotoxicity_Adiponectin_[Z-001-0519].md]]
 
 ---
 
-## 7. Management Strategies
-
-### Prevention (High-Risk Patients)
-
-1. **Lifestyle optimization** before starting sirolimus
-   - Weight loss if overweight
-   - Exercise program
-   - Carbohydrate awareness
-
-2. **Metformin prophylaxis** (consider)
-   - Evidence in NODAT prevention mixed
-   - Generally safe, may help
-
-3. **Lowest effective sirolimus dose**
-   - Therapeutic drug monitoring
-   - Target trough: 5-10 ng/mL (varies by indication)
-
-### Treatment (Established Hyperglycemia)
-
-| Approach | Strategy |
-|----------|----------|
-| **Dose reduction** | First-line if possible |
-| **Switch immunosuppressant** | Consider belatacept, mycophenolate |
-| **Metformin** | First-line drug (if eGFR >30) |
-| **SGLT2 inhibitors** | Empagliflozin, canagliflozin (cardiorenal benefit) |
-| **GLP-1 agonists** | Semaglutide, liraglutide (weight loss + glycemic) |
-| **Insulin** | If oral agents insufficient |
-
-**Avoid:** Sulfonylureas (risk of hypoglycemia, weight gain)
+## Key Figures & Data
+- **NODAT prevalence:** 10-30% sirolimus vs. 5-10% other immunosuppressants
+- **Risk factors:** Obesity, family history, ethnicity, HCV, steroids
+- **Mechanisms:** GLUT4 defect, β-cell dysfunction, mTORC2 inhibition, lipotoxicity
+- **Management:** Dose reduction, metformin, SGLT2 inhibitors, GLP-1 agonists
 
 ---
 
-## 8. METHAP Implications
+## My Notes
 
-### Key Insight
-Sirolimus exemplifies the **double-edged sword** of mTOR modulation:
-- **Benefit:** Immunosuppression, potential longevity
-- **Risk:** Metabolic dysfunction, diabetes, mitochondrial toxicity
+**Synthesis:** Sirolimus induces diabetes through four convergent pathways: peripheral insulin resistance (GLUT4 defect), β-cell dysfunction (mitochondrial toxicity), mTORC2-mediated amplified insulin resistance, and adipose tissue dysfunction with lipotoxicity. The risk is dose-dependent and amplified by traditional diabetes risk factors. Management requires balancing immunosuppression efficacy with metabolic control — often necessitating dose reduction or switching to alternative agents.
 
-### Clinical Monitoring Protocol
+**Connection to METHAP/PhD:**
+- **Transplant context:** Many patients on sirolimus develop metabolic syndrome
+- **Contrast to METHAP:** Sirolimus damages mitochondria; METHAP aims to support them
+- **Monitoring protocol:** Glucose, HbA1c every 3-6 months on sirolimus
+- **Intervention:** Metformin, SGLT2 inhibitors, or drug switch if NODAT develops
 
-**Baseline (before sirolimus):**
-- Fasting glucose, HbA1c
-- Lipid panel
-- Weight/BMI
-- Blood pressure
-
-**Follow-up (every 3 months first year, then 6 months):**
-- Fasting glucose or HbA1c
-- Lipids
-- Weight
-- Assess for fatigue, muscle weakness
-
-**If glucose >126 mg/dL (fasting) or HbA1c >6.5%:**
-- Confirm with repeat testing
-- Initiate diabetes management
-- Consider sirolimus dose adjustment
+**Questions:**
+- Does sirolimus-induced mitochondrial dysfunction elevate adipate levels?
+- Can METHAP principles (carnitine, CoQ10) mitigate sirolimus metabolic toxicity?
+- Should we exclude transplant patients on sirolimus from METHAP trial?
 
 ---
 
-## Zettels Created
-
-1. [[Sirolimus_GLUT4_Insulin_Resistance_[Z-001-0516]]]
-2. [[Sirolimus_Beta_Cell_Dysfunction_NODAT_[Z-001-0517]]]
-3. [[mTORC2_Akt_Insulin_Signaling_[Z-001-0518]]]
-4. [[Sirolimus_Lipotoxicity_Adiponectin_[Z-001-0519]]]
-5. [[NODAT_Risk_Factors_Management_[Z-001-0520]]]
-
----
-
-## References
-
-- Source: ChatGPT CGPT-0189 (January 13, 2025)
-- Related: [[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]]
-- Domain: [[MOC-mTOR-Signaling]], [[MOC-Insulin-Resistance]], [[MOC-Clinical-Protocols]]
+## Zettels Created from This Source
+1. [[Sirolimus_GLUT4_Insulin_Resistance_[Z-001-0516].md]] — Peripheral insulin resistance mechanism
+2. [[Sirolimus_Beta_Cell_Dysfunction_NODAT_[Z-001-0517].md]] — β-cell toxicity
+3. [[mTORC2_Akt_Insulin_Signaling_[Z-001-0518].md]] — mTORC2-mediated resistance
+4. [[Sirolimus_Lipotoxicity_Adiponectin_[Z-001-0519].md]] — Adipose tissue dysfunction
+5. [[NODAT_Risk_Factors_Management_[Z-001-0520].md]] — Clinical management strategies
 
 ---
 
-*Last reviewed: 2026-03-02*  
-*Status: conscious — review in 30 days*
+## Related References
+- [[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]] — Mitochondrial mechanisms
+- [[MOC-mTOR-Signaling]] — Parent MOC
+- [[MOC-Insulin-Resistance]] — Metabolic context
+- [[MOC-Clinical-Protocols]] — Patient management
+
+---
+
+*Literature note processed: 2026-03-02*  
+*Zettels extracted: 5*  
+*Status: extracted*

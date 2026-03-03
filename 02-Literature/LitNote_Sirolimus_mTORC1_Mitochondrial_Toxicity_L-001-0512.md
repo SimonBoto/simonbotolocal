@@ -1,12 +1,21 @@
 ---
 uid: L-001-0512
-type: litnote
+type: lit-note
 title: Sirolimus mTORC1 Inhibition and Mitochondrial Toxicity Mechanisms
+authors: ChatGPT Analysis
+year: 2025
+journal: ChatGPT Archive
+doi: N/A
+pmid: N/A
+pmcid: N/A
+tier: 3
+relevance: High — Drug toxicity mechanisms relevant to metabolic interventions
 aliases: [L-001-0512, Rapamycin Mitochondrial Toxicity, mTORC1 Mitochondrial Dysfunction]
 domain: 001
 tags: [litnote, sirolimus, rapamycin, mtor, mtorc1, mitochondria, mitochondrial-toxicity, pgc-1a, oxphos, ros]
 source: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_[CGPT-0189]]]"
-status: conscious
+status: extracted
+parent-moc: [[MOC-mTOR-Signaling]]
 extraction-date: 2026-03-02
 ---
 
@@ -19,15 +28,10 @@ extraction-date: 2026-03-02
 
 ---
 
-## 1. Mechanism Overview
+## Core Concepts Extracted
 
-Sirolimus (rapamycin) inhibits **mTORC1** (mechanistic target of rapamycin complex 1), a master regulator integrating nutrient sensing, growth signals, and mitochondrial function. While therapeutic for immunosuppression and potentially longevity, chronic mTORC1 inhibition impairs mitochondrial biology.
-
----
-
-## 2. Five Mechanisms of Mitochondrial Toxicity
-
-### 2.1 Impaired Mitochondrial Biogenesis (PGC-1α Suppression)
+### 1. mTORC1-Mediated Mitochondrial Biogenesis Suppression
+> "mTORC1 activates PGC-1α, the master regulator of mitochondrial biogenesis; chronic sirolimus inhibition reduces mitochondrial DNA replication and protein synthesis, decreasing mitochondrial mass."
 
 **Normal Function:**
 - mTORC1 → activates **PGC-1α** (peroxisome proliferator-activated receptor gamma coactivator-1α)
@@ -46,9 +50,10 @@ Sirolimus (rapamycin) inhibits **mTORC1** (mechanistic target of rapamycin compl
 - Skeletal muscle (contraction)
 - Pancreatic β-cells (insulin secretion)
 
----
+**Zettels extracted:** [[Sirolimus_mTORC1_PGC1a_Mitochondrial_Biogenesis_[Z-001-0512].md]]
 
-### 2.2 Suppression of Oxidative Phosphorylation (OXPHOS)
+### 2. Oxidative Phosphorylation Impairment
+> "mTORC1 promotes translation of electron transport chain components; sirolimus reduces ETC protein expression, decreasing ATP synthesis and causing metabolic stress."
 
 **Normal Function:**
 - mTORC1 promotes translation of ETC (electron transport chain) components
@@ -66,9 +71,10 @@ Sirolimus (rapamycin) inhibits **mTORC1** (mechanistic target of rapamycin compl
 - Cardiac dysfunction
 - Impaired insulin secretion (β-cells)
 
----
+**Zettels extracted:** [[Sirolimus_ETC_Impairment_ROS_Generation_[Z-001-0513].md]]
 
-### 2.3 Reactive Oxygen Species (ROS) Generation
+### 3. Reactive Oxygen Species Generation
+> "ETC impairment from sirolimus causes electron leakage and superoxide generation, leading to oxidative damage of mitochondrial membranes, proteins, and mtDNA."
 
 **Mechanism:**
 - ETC impairment → electron leakage from Complex I and III
@@ -86,9 +92,10 @@ Sirolimus (rapamycin) inhibits **mTORC1** (mechanistic target of rapamycin compl
 - Depolarization → cytochrome c release
 - Cytochrome c → caspase activation → apoptosis
 
----
+**Zettels extracted:** [[Sirolimus_ETC_Impairment_ROS_Generation_[Z-001-0513].md]]
 
-### 2.4 Autophagy/Mitophagy Dysregulation
+### 4. Autophagy/Mitophagy Dysregulation
+> "Acute sirolimus activates autophagy (beneficial quality control), but chronic inhibition causes excessive mitophagy without matching biogenesis, resulting in net mitochondrial depletion."
 
 **Acute vs Chronic Effects:**
 
@@ -109,9 +116,10 @@ Sirolimus (rapamycin) inhibits **mTORC1** (mechanistic target of rapamycin compl
 
 Sirolimus disrupts this balance by suppressing biogenesis while promoting clearance.
 
----
+**Zettels extracted:** [[Sirolimus_Mitophagy_Dysregulation_[Z-001-0514].md]]
 
-### 2.5 Calcium Dysregulation
+### 5. Calcium Dysregulation and mPTP
+> "Sirolimus impairs mitochondrial calcium buffering, leading to cytosolic Ca²⁺ overload, mitochondrial calcium accumulation, and mPTP opening with cell death."
 
 **Normal Mitochondrial Calcium Handling:**
 - Mitochondria buffer cytosolic Ca²⁺ via MCU (mitochondrial calcium uniporter)
@@ -129,83 +137,51 @@ Sirolimus disrupts this balance by suppressing biogenesis while promoting cleara
 - Release of pro-apoptotic factors
 - Cell death (apoptosis or necrosis)
 
----
-
-## 3. Evidence Summary
-
-### In Vitro Studies
-- Cardiomyocytes: reduced respiration, ATP depletion
-- Neurons: mitochondrial dysfunction, synaptic impairment
-- Skeletal muscle: decreased oxidative capacity
-
-### In Vivo Animal Models
-- Chronic sirolimus: mitochondrial damage, metabolic stress
-- Cardiotoxicity in rodent models
-- Sarcopenia (muscle wasting)
-
-### Clinical Observations
-- Fatigue (common side effect)
-- Muscle weakness
-- Impaired glucose tolerance
-- New-onset diabetes (NODAT)
+**Zettels extracted:** [[mTORC1_Calcium_Homeostasis_mPTP_[Z-001-0515].md]]
 
 ---
 
-## 4. Paradoxical Protective Effects (Context-Dependent)
-
-### Cancer Therapy
-- Cancer cells rely on mitochondrial metabolism
-- Sirolimus-induced mitochondrial dysfunction → cancer cell death
-- Therapeutic window: tumor cells more susceptible than normal cells
-
-### Lifespan Extension
-- Intermittent low-dose rapamycin extends lifespan in model organisms
-- Mechanism: hormesis — mild mitochondrial stress triggers adaptation
-- Autophagy-mediated removal of damaged mitochondria (quality control)
-
-**Key Variables:**
-- **Dose:** Toxic at high/chronic, beneficial at low/intermittent
-- **Duration:** Chronic = depletion, intermittent = quality control
-- **Cell type:** Varying sensitivity based on metabolic demand
+## Key Figures & Data
+- **Five mechanisms:** Biogenesis suppression, OXPHOS impairment, ROS generation, mitophagy dysregulation, calcium dysregulation
+- **Tissue vulnerability:** Cardiomyocytes, neurons, skeletal muscle, β-cells
+- **Dose-response:** Toxic at high/chronic, potentially beneficial at low/intermittent
+- **Paradox:** Mitochondrial dysfunction harmful in most contexts but selectively toxic to cancer cells
 
 ---
 
-## 5. METHAP Clinical Relevance
+## My Notes
 
-### Transplant Patients (High Risk)
-- Monitor: fasting glucose, HbA1c, lipid panel
-- Consider: metformin for glucose control
-- Watch for: fatigue, muscle weakness, cardiac symptoms
+**Synthesis:** Sirolimus causes mitochondrial toxicity through five convergent mechanisms: reduced biogenesis (PGC-1α suppression), OXPHOS impairment, ROS generation, excessive mitophagy without biogenesis replacement, and calcium dysregulation. The dose and duration determine whether effects are harmful (chronic high-dose) or potentially beneficial (intermittent low-dose via hormesis). High-energy tissues (cardiac, neuronal, muscle) are most vulnerable.
 
-### Longevity/Research Use (Emerging)
-- Intermittent dosing strategies (dose-sparing)
-- Combine with: mitochondrial support (CoQ10, PQQ, exercise)
-- Monitor: metabolic markers, functional capacity
+**Connection to METHAP/PhD:**
+- **Contraindication:** Sirolimus should be avoided in mitochondrial dysfunction patients
+- **Monitoring:** Transplant patients on sirolimus need metabolic surveillance
+- **Drug interaction awareness:** mTOR pathway drugs affect metabolism
+- **Research contrast:** METHAP aims to support mitochondria; sirolimus suppresses mTOR (different mechanism)
 
-### Mitochondrial Support Strategies
-- **CoQ10:** ETC electron acceptor
-- **PQQ:** Mitochondrial biogenesis stimulant
-- **Exercise:** PGC-1α activation (AMPK pathway)
-- **L-carnitine:** Fatty acid transport support
+**Questions:**
+- Can mitochondrial support (CoQ10, PQQ) mitigate sirolimus toxicity?
+- Are there biomarkers predictive of sirolimus mitochondrial toxicity?
+- How does sirolimus affect adipate levels (our IR marker)?
 
 ---
 
-## Zettels Created
-
-1. [[Sirolimus_mTORC1_PGC1a_Mitochondrial_Biogenesis_[Z-001-0512]]]
-2. [[Sirolimus_ETC_Impairment_ROS_Generation_[Z-001-0513]]]
-3. [[Sirolimus_Mitophagy_Dysregulation_[Z-001-0514]]]
-4. [[mTORC1_Calcium_Homeostasis_mPTP_[Z-001-0515]]]
-
----
-
-## References
-
-- Source: ChatGPT CGPT-0189 (January 13, 2025)
-- Related: [[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]]
-- Domain: [[MOC-mTOR-Signaling]], [[MOC-Mitochondrial-Function]]
+## Zettels Created from This Source
+1. [[Sirolimus_mTORC1_PGC1a_Mitochondrial_Biogenesis_[Z-001-0512].md]] — Biogenesis suppression mechanism
+2. [[Sirolimus_ETC_Impairment_ROS_Generation_[Z-001-0513].md]] — OXPHOS and oxidative stress
+3. [[Sirolimus_Mitophagy_Dysregulation_[Z-001-0514].md]] — Autophagy imbalance
+4. [[mTORC1_Calcium_Homeostasis_mPTP_[Z-001-0515].md]] — Calcium dysregulation and cell death
 
 ---
 
-*Last reviewed: 2026-03-02*  
-*Status: conscious — review in 30 days*
+## Related References
+- [[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]] — Metabolic side effects
+- [[MOC-mTOR-Signaling]] — Parent MOC
+- [[MOC-Mitochondrial-Function]] — Toxicity mechanisms
+- [[MOC-Clinical-Protocols]] — Patient monitoring
+
+---
+
+*Literature note processed: 2026-03-02*  
+*Zettels extracted: 4*  
+*Status: extracted*
