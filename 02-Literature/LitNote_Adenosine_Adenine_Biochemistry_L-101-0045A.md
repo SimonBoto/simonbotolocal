@@ -133,11 +133,13 @@ Hydrogen cyanide (HCN) polymerization → Adenine
 
 ## Zettels Extracted
 
-- [[Z-101-XXXX]] Adenosine Triphosphate (ATP) as Universal Energy Currency
-- [[Z-101-XXXX]] Adenosine Receptors and Sleep Regulation
-- [[Z-101-XXXX]] Purine vs Pyrimidine Structure and Chemistry
-- [[Z-101-XXXX]] HCN Polymerization and Prebiotic Adenine Synthesis
-- [[Z-101-XXXX]] RNA World Hypothesis and Early Evolution
+- [[Z-101-0451]] ATP as Universal Energy Currency
+- [[Z-101-0452]] Adenosine Receptors and Sleep Regulation
+- [[Z-101-0453]] Purine vs Pyrimidine Structure and Chemistry
+- [[Z-101-0454]] HCN Polymerization to Adenine Mechanism
+- [[Z-101-0455]] Meteoritic Nucleobases and Panspermia
+- [[Z-101-0456]] RNA World Hypothesis and Early Evolution
+- [[Z-101-0462]] Amino Acids vs Nucleobases: Molecular Building Blocks
 
 ---
 

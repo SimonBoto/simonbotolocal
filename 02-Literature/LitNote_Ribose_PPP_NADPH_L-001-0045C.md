@@ -166,11 +166,12 @@ F6P + G3P (PPP non-oxidative) → re-enter glycolysis
 
 ## Zettels Extracted
 
-- [[Z-001-XXXX]] Pentose Phosphate Pathway Oxidative Phase
-- [[Z-001-XXXX]] NADPH Functions in Anabolism and Antioxidant Defense
-- [[Z-001-XXXX]] Ribose Structure and RNA Backbone Role
-- [[Z-001-XXXX]] Triose Metabolism: G3P and DHAP Integration
-- [[Z-001-XXXX]] G6PD Deficiency and Evolutionary Trade-offs
+- [[Z-001-0457]] Pentose Phosphate Pathway Oxidative Phase
+- [[Z-001-0458]] Ribose Structure and RNA Backbone Role
+- [[Z-001-0459]] Triose Metabolism: G3P and DHAP Integration
+- [[Z-001-0460]] NADPH Functions in Anabolism and Antioxidant Defense
+- [[Z-001-0461]] G6PD Deficiency and Evolutionary Trade-offs
+- [[Z-001-0465]] Nucleobase Phosphorylation and Nucleotide Formation
 
 ---
 
