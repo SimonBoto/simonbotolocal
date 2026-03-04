@@ -1,0 +1,82 @@
+---
+uid: Z-001-0485
+type: zettel
+title: BHB HDAC Inhibition and Epigenetic Effects
+aliases: [Z-001-0485, bhb, hdac, epigenetics, histone-acetylation]
+domain: 001
+tags: [zettel, bhb, hdac, epigenetics, histone, gene-expression, signaling]
+parent-moc: [[MOC-Ketogenesis]]
+status: conscious
+created: 2026-03-04
+source: [[L-001-0045G]]
+---
+
+# BHB HDAC Inhibition and Epigenetic Effects
+
+## Beyond Energy: Signaling Molecule
+BHB is not just fuel — it acts as a **histone deacetylase (HDAC) inhibitor**.
+
+## Mechanism
+```
+BHB enters nucleus → Inhibits HDACs (Class I and IIa)
+     ↓
+Increased histone acetylation
+     ↓
+Chromatin relaxation → Gene expression changes
+```
+
+## HDAC Inhibition Effects
+
+### Oxidative Stress Resistance
+**Upregulated genes:**
+- **FOXO3A:** Transcription factor for stress resistance
+- **MT2:** Metallothionein (metal detoxification)
+- **Antioxidant enzymes:** Catalase, SOD2
+
+**Result:** Enhanced oxidative stress tolerance
+
+### Metabolic Efficiency
+**Upregulated genes:**
+- **Mitochondrial biogenesis factors**
+- **Fatty acid oxidation enzymes**
+- **Ketone body utilization enzymes**
+
+**Result:** Improved metabolic flexibility
+
+## Comparison to Other HDAC Inhibitors
+| Compound | Source | Clinical Use |
+|----------|--------|--------------|
+| **BHB** | Endogenous (ketosis) | Nutritional/therapeutic ketosis |
+| **Butyrate** | Gut microbiome | Colon health, anti-inflammatory |
+| **Vorinostat** | Synthetic | Cancer treatment |
+| **Valproic acid** | Synthetic | Epilepsy, bipolar |
+
+**BHB advantage:** Endogenous, physiological, fewer side effects
+
+## Dose-Response
+- **Physiological ketosis:** 1-3 mM BHB
+- **Effects seen at:** ~1 mM and above
+- **Duration:** Sustained ketosis needed for epigenetic changes
+
+## Clinical Implications
+
+### Metabolic Diseases
+- **Type 2 diabetes:** HDAC inhibition improves insulin sensitivity
+- **Obesity:** Enhanced metabolic gene expression
+- **NAFLD:** Improved mitochondrial function
+
+### Neurodegeneration
+- **Alzheimer's:** HDAC inhibition may improve memory
+- **Parkinson's:** Enhanced mitochondrial quality control
+
+### Aging
+- **Longevity pathways:** Similar to caloric restriction
+- **Autophagy:** HDAC inhibition promotes cellular cleanup
+
+## Related
+- [[Z-001-0484]] BHB Energy Substrate
+- [[Z-001-0486]] BHB NLRP3 Inhibition
+- [[MOC-Epigenetics]] (if exists)
+
+---
+*Source: CGPT-0445 extraction | Created: 2026-03-04*

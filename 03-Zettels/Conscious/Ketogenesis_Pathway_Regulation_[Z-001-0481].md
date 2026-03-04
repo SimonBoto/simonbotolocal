@@ -1,0 +1,57 @@
+---
+uid: Z-001-0481
+type: zettel
+title: Ketogenesis Pathway and Regulation
+aliases: [Z-001-0481, ketogenesis, hmg-coa, liver, ketones]
+domain: 001
+tags: [zettel, ketogenesis, bhb, hmg-coa, liver, fasting]
+parent-moc: [[MOC-Ketogenesis]]
+status: conscious
+created: 2026-03-04
+source: [[L-001-0045G]]
+---
+
+# Ketogenesis Pathway and Regulation
+
+## Trigger Conditions
+- **Low carbohydrate:** Fasting, ketogenic diet
+- **Low insulin:** Permits lipolysis
+- **High fatty acid oxidation:** Excess acetyl-CoA
+
+## Hepatic Synthesis (Liver Mitochondria)
+
+```
+Fatty acids → Acetyl-CoA (β-oxidation)
+     ↓
+2 Acetyl-CoA → Acetoacetyl-CoA (thiolase)
+     ↓
++ Acetyl-CoA → HMG-CoA (HMG-CoA synthase)
+     ↓
+HMG-CoA → Acetoacetate (HMG-CoA lyase)
+     ↓
+Acetoacetate → BHB (β-OHBDH)
+```
+
+## Key Enzymes
+
+| Enzyme | Reaction | Regulation |
+|--------|----------|------------|
+| **Carnitine palmitoyltransferase I** | FA entry to mitochondria | Inhibited by malonyl-CoA |
+| **HMG-CoA synthase** | Forms HMG-CoA | Rate-limiting, induced by fasting |
+| **HMG-CoA lyase** | Cleaves to acetoacetate | Constitutive |
+| **β-OHBDH** | AcAc ↔ BHB | NADH/NAD⁺ ratio drives direction |
+
+## Hormonal Regulation
+| Hormone | Effect | Mechanism |
+|---------|--------|-----------|
+| **Insulin** | ↓ Ketogenesis | Inhibits lipolysis, HMG-CoA synthase |
+| **Glucagon** | ↑ Ketogenesis | Activates lipolysis, induces enzymes |
+| **Cortisol** | ↑ Ketogenesis | Permissive effect on lipolysis |
+
+## Related
+- [[Z-001-0482]] The Three Ketone Bodies
+- [[Z-001-0483]] BHB is a Hydroxy Acid
+- [[Z-001-0487]] Physiological vs Pathological Ketosis
+
+---
+*Source: CGPT-0445 extraction | Created: 2026-03-04*
