@@ -1,0 +1,69 @@
+---
+uid: Z-001-0477
+type: zettel
+title: Pyruvate Central Metabolic Role
+aliases: [Z-001-0477, pyruvate, central-metabolism, pdh, krebs]
+domain: 001
+tags: [zettel, pyruvate, metabolism, pdh, acetyl-coa, crossroads]
+parent-moc: [[MOC-Glycolysis-PPP]]
+status: conscious
+created: 2026-03-04
+source: [[L-001-0045F]]
+---
+
+# Pyruvate: Central Metabolic Role
+
+## The Simplest α-Keto Acid
+**Structure:** CH₃-CO-COOH (3 carbons)
+
+## Glycolytic Endpoint
+Glucose catabolism produces 2 pyruvate molecules.
+
+## Metabolic Crossroads
+Pyruvate connects multiple pathways:
+
+### 1. Pyruvate Dehydrogenase (Aerobic)
+```
+Pyruvate → Acetyl-CoA → Krebs cycle
+```
+**Enzyme:** Pyruvate dehydrogenase complex (PDH)
+**Location:** Mitochondrial matrix
+**Cofactors (5 required):**
+- Thiamine pyrophosphate (B1)
+- Lipoamide
+- FAD (B2)
+- NAD⁺ (B3)
+- CoA (B5)
+
+### 2. Lactate Dehydrogenase (Anaerobic)
+```
+Pyruvate + NADH + H⁺ → Lactate + NAD⁺
+```
+**Purpose:** Regenerate NAD⁺ for continued glycolysis
+
+### 3. Pyruvate Carboxylase (Gluconeogenic)
+```
+Pyruvate + CO₂ + ATP → Oxaloacetate
+```
+**Cofactor:** Biotin (B7)
+**Purpose:** Gluconeogenesis, anaplerosis
+
+### 4. Alanine Transaminase
+```
+Pyruvate + Glutamate → Alanine + α-ketoglutarate
+```
+**Purpose:** Amino acid synthesis/degradation
+
+## Clinical Deficiency
+**PDH deficiency:**
+- Lactic acidosis
+- Neurological impairment
+- Treatment: Ketogenic diet (bypasses PDH)
+
+## Related
+- [[Z-001-0469]] Pyruvate Metabolic Crossroads
+- [[Z-001-0467]] Glycolysis Steps
+- [[Z-001-0479]] Vitamin Dependence
+
+---
+*Source: CGPT-0445 extraction | Created: 2026-03-04*

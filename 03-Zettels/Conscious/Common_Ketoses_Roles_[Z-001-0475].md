@@ -1,0 +1,69 @@
+---
+uid: Z-001-0475
+type: zettel
+title: Common Ketoses and Their Roles
+aliases: [Z-001-0475, ketoses, fructose, ribulose, xylulose, sorbose]
+domain: 001
+tags: [zettel, ketoses, fructose, ribulose, xylulose, sorbose]
+parent-moc: [[MOC-Glycolysis-PPP]]
+status: conscious
+created: 2026-03-04
+source: [[L-001-0045E]]
+---
+
+# Common Ketoses and Their Roles
+
+## Ketohexoses (6-Carbon)
+
+### Fructose
+- **Role:** Fruit sugar, sweetener, lipogenic substrate
+- **Source:** Fruits, honey, HFCS
+- **Clinical:** Metabolic syndrome link
+- **Sweetness:** 1.7× sweeter than glucose
+
+### Psicose (Allulose)
+- **Role:** Rare sugar, low-calorie sweetener
+- **Source:** Small amounts in wheat, figs
+- **Benefit:** ~70% sweetness, minimal calories, low glycemic
+
+### Sorbose
+- **Role:** Vitamin C (ascorbic acid) precursor
+- **Source:** Industrial production
+- **Use:** Vitamin C synthesis
+
+### Tagatose
+- **Role:** Low glycemic sweetener
+- **Source:** Dairy products
+- **Benefit:** ~90% sweetness, low calorie
+
+## Ketopentoses (5-Carbon)
+
+### Ribulose
+- **Role:** Calvin cycle intermediate (photosynthesis)
+- **Source:** Plants (photosynthesis)
+- **Function:** CO₂ fixation
+
+### Xylulose
+- **Role:** PPP intermediate
+- **Source:** PPP non-oxidative phase
+- **Function:** Pentose interconversion
+
+## Summary Table
+| Ketose | Carbons | Primary Role |
+|--------|---------|--------------|
+| Fructose | 6 | Sweetener, lipogenesis |
+| Psicose | 6 | Low-calorie sweetener |
+| Sorbose | 6 | Vitamin C synthesis |
+| Tagatose | 6 | Low-glycemic sweetener |
+| Ribulose | 5 | Photosynthesis |
+| Xylulose | 5 | PPP |
+
+## Ketose vs Aldose Sweetness
+Ketoses (especially fructose) are generally **sweeter** than aldoses due to structural differences in receptor binding.
+
+## Related
+- [[Z-001-0471]] Aldose vs Ketose Chemistry
+- [[Z-001-0474]] Common Aldoses (contrast)
+
+---
+*Source: CGPT-0445 extraction | Created: 2026-03-04*
