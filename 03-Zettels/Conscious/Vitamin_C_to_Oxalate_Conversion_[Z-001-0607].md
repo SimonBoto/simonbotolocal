@@ -1,0 +1,59 @@
+---
+uid: Z-001-0607
+type: zettel
+title: Vitamin C to Oxalate Conversion
+aliases: [Z-001-0607, ascorbate-oxalate, vitamin-c-oxalate]
+domain: 001
+tags: [zettel, vitamin-c, ascorbate, oxalate, metabolism]
+parent-moc: [[MOC-Vitamin-D-Metabolism]]
+source: [[L-001-0060A]]
+confidence: high
+created: 2026-03-04
+---
+
+# Vitamin C to Oxalate Conversion
+
+## Metabolic Pathway
+
+**Ascorbic acid (vitamin C) can convert to oxalate:**
+```
+Ascorbate → Dehydroascorbate → Oxalate + Threonate
+```
+
+## Quantitative Significance
+
+**Variable contribution to oxalate pool:**
+- Normal intake (100-200 mg/day): Minimal contribution
+- High intake (>1000 mg/day): Significant increase in urinary oxalate
+- Studies show 1-2% of ascorbate converts to oxalate
+
+## High-Dose Vitamin C and Kidney Stones
+
+**Evidence:**
+- Doses >1000 mg/day may increase stone risk
+- Effect size modest but measurable
+- Individual variation high
+
+**Mechanism:**
+- Increased oxalate substrate
+- Urinary oxalate excretion rises
+- May tip supersaturation in susceptible individuals
+
+## Clinical Recommendations
+
+**For kidney stone formers:**
+- Limit vitamin C to <1000 mg/day
+- Avoid high-dose supplementation
+- Get vitamin C from food sources (lower doses, buffered)
+
+**General population:**
+- RDA: 75-90 mg/day (easily met by diet)
+- No need for high-dose supplementation
+- Megadosing (>2000 mg) not recommended
+
+## Related
+- [[Glycine_Metabolism_to_Oxalate_[Z-001-0605].md]] — Other major source
+- [[Hydroxyproline_Collagen_Oxalate_Production_[Z-001-0606].md]] — Collagen source
+
+---
+*Source: CGPT-0413 | Created: 2026-03-04*
