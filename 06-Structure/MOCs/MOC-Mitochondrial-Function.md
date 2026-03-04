@@ -1,0 +1,42 @@
+---
+uid: MOC-MITO-001
+type: moc
+title: MOC — Mitochondrial Function
+aliases: [MOC-Mitochondrial-Function, mitochondria, oxidative-phosphorylation]
+tags: [moc, mitochondria, krebs-cycle, etc, oxidative-phosphorylation]
+status: active
+created: 2026-03-04
+---
+
+# MOC — Mitochondrial Function
+
+> Mitochondrial metabolism, oxidative phosphorylation, and energy production
+
+---
+
+## Pyruvate Entry
+- [[Z-001-0469]] Pyruvate Metabolic Crossroads
+- [[Z-001-0477]] Pyruvate Central Role
+- Pyruvate Dehydrogenase Complex (PDH)
+- Acetyl-CoA entry to Krebs cycle
+
+## Krebs Cycle (To be expanded)
+- Citrate synthase
+- Isocitrate dehydrogenase
+- α-ketoglutarate dehydrogenase
+- Succinyl-CoA synthetase
+- Succinate dehydrogenase
+- Malate dehydrogenase
+
+## Electron Transport Chain (To be expanded)
+- Complex I-IV
+- ATP synthase
+- Proton gradient
+
+## Related
+- [[MOC-Glycolysis-PPP]] (pyruvate source)
+- [[MOC-Krebs-Cycle]]
+- [[MOC-Oxidative-Stress]]
+
+---
+*Created: 2026-03-04 | Status: Active (growing)*
