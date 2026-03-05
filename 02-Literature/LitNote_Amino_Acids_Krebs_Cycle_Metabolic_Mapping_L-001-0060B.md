@@ -5,7 +5,7 @@ title: "Amino Acids to Krebs Cycle: Complete Metabolic Mapping"
 authors: ChatGPT CGPT-0413
 year: 2024
 relevance: High — Core biochemistry for PhD, amino acid catabolism, energy metabolism
-status: extracting
+status: complete
 parent-moc: [[MOC-Amino-Acid-Metabolism]]
 extraction-date: 2026-03-04
 ---
@@ -122,15 +122,17 @@ Threonine → propionyl-CoA → methylmalonyl-CoA → succinyl-CoA
 
 ---
 
-## Zettels Created from This Source
+## Zettels Created from This Source ✅ COMPLETE
 
-1. [[Amino_Acids_Krebs_Cycle_Complete_Table_[Z-001-0608].md]]
-2. [[Alpha_Ketoglutarate_Glutamate_Hub_[Z-001-0609].md]]
-3. [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_[Z-001-0610].md]]
-4. [[Threonine_Dual_Metabolism_Glucogenic_Ketogenic_[Z-001-0611].md]]
-5. [[Glucogenic_Ketogenic_Amino_Acid_Classification_[Z-001-0612].md]]
-6. [[Anaplerotic_Reactions_Krebs_Cycle_[Z-001-0613].md]]
-7. [[Malate_Aspartate_Connection_[Z-001-0614].md]]
+1. [[Amino_Acids_Krebs_Cycle_Complete_Table_[Z-001-0608]]] — Master metabolic mapping table
+2. [[Alpha_Ketoglutarate_Glutamate_Hub_[Z-001-0609]]] — Four amino acid convergence point
+3. [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_[Z-001-0610]]] — B12-dependent pathway
+4. [[Threonine_Dual_Metabolism_Glucogenic_Ketogenic_[Z-001-0611]]] — Both metabolic fates
+5. [[Glucogenic_Ketogenic_Amino_Acid_Classification_[Z-001-0612]]] — Complete classification
+6. [[Anaplerotic_Reactions_Krebs_Cycle_[Z-001-0613]]] — Filling the cycle
+7. [[Malate_Aspartate_Connection_[Z-001-0614]]] — Shuttle mechanism
+
+**Extraction completed:** 2026-03-05
 
 ---
 
