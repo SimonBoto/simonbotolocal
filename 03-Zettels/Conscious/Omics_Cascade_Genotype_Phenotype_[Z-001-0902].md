@@ -1,8 +1,8 @@
 ---
-uid: Z-001-0002
+uid: Z-001-0902
 type: zettel
 title: "Omics Cascade: Genotype to Phenotype Flow"
-aliases: [Z-001-0002, Omics_Cascade, Genotype_Phenotype_Flow]
+aliases: [Z-001-0902, Z-001-0002-deprecated, Omics_Cascade, Genotype_Phenotype_Flow]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, omics, genotype, phenotype, metabolomics, hierarchy, conscious]
@@ -10,6 +10,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
+updated: 2026-03-05
 ---
 
 # Omics Cascade: Genotype to Phenotype Flow
@@ -59,9 +60,9 @@ Metabolites reflect the **integration** of:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Systems_Biology_Integrative_Framework_Z-001-0001.md]] — Theoretical foundation
+- **Upstream/Prerequisite:** [[Systems_Biology_Integrative_Framework_[Z-001-0901]]] — Theoretical foundation
 - **Parallel/Related:** [[Central_Dogma_Molecular_Biology_Z-XXX-XXXX]] — Classic genetics view
-- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003.md]] — Why environment matters more than genes
+- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_[Z-001-0903]]] — Why environment matters more than genes
 
 ## Context
 
@@ -72,4 +73,4 @@ Metabolites reflect the **integration** of:
 
 ---
 
-*UID: Z-001-0002 | Domain: 001 | Created: 2026-02-23*
+*UID: Z-001-0902 (reassigned from Z-001-0002) | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*

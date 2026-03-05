@@ -1,8 +1,8 @@
 ---
-uid: Z-001-0001
+uid: Z-001-0901
 type: zettel
 title: "Systems Biology as Integrative Framework"
-aliases: [Z-001-0001, Systems_Biology_Integrative]
+aliases: [Z-001-0901, Z-001-0001-deprecated, Systems_Biology_Integrative]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, systems-biology, metabolomics, integration, conscious]
@@ -10,6 +10,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
+updated: 2026-03-05
 ---
 
 # Systems Biology as Integrative Framework
@@ -47,7 +48,7 @@ The METHAP trial applies systems biology principles by:
 
 - **Upstream/Prerequisite:** [[Reductionist_Biology_Limitations_Z-XXX-XXXX]] — Why reductionism fails for chronic disease
 - **Parallel/Related:** [[Multiomics_Integration_Z-XXX-XXXX]] — Technical approaches to integration
-- **Downstream/Consequence:** [[Metabolomics_Phenotype_Proximity_Z-001-0002.md]] — Metabolites as closest to phenotype
+- **Downstream/Consequence:** [[Omics_Cascade_Genotype_Phenotype_[Z-001-0902]]] — Metabolites as closest to phenotype
 
 ## Context
 
@@ -58,4 +59,4 @@ The METHAP trial applies systems biology principles by:
 
 ---
 
-*UID: Z-001-0001 | Domain: 001 | Created: 2026-02-23*
+*UID: Z-001-0901 (reassigned from Z-001-0001) | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
