@@ -1,8 +1,8 @@
 ---
-uid: Z-001-0003
+uid: Z-001-0903
 type: zettel
 title: "Environmental Factors Drive 80% of Chronic/Autoimmune Disease"
-aliases: [Z-001-0003, Environmental_Factors_80_Percent, Chronic_Disease_Environment]
+aliases: [Z-001-0903, Z-001-0003-deprecated, Environmental_Factors_80_Percent, Chronic_Disease_Environment]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, environmental-factors, chronic-disease, autoimmune, 80-percent-statistic, epigenetics, conscious]
@@ -10,6 +10,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
+updated: 2026-03-05
 ---
 
 # Environmental Factors Drive 80% of Chronic/Autoimmune Disease
@@ -77,4 +78,4 @@ If 80% of disease risk comes from **environmental modulation of phenotype**, the
 
 ---
 
-*UID: Z-001-0003 | Domain: 001 | Created: 2026-02-23*
+*UID: Z-001-0903 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*

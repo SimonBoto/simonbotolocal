@@ -1,8 +1,8 @@
 ---
-uid: Z-001-0006
+uid: Z-001-0906
 type: zettel
 title: "Transcriptomics — The Transcriptome as Bridge to Proteome"
-aliases: [Z-001-0006, Transcriptomics, mRNA, Transcriptome]
+aliases: [Z-001-0906, Z-001-0006-deprecated, Transcriptomics, mRNA, Transcriptome]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, transcriptomics, mRNA, gene-expression, RNA, conscious]
@@ -10,6 +10,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
+updated: 2026-03-05
 ---
 
 # Transcriptomics — The Transcriptome as Bridge to Proteome
@@ -74,8 +75,8 @@ The transcriptome is the **immediate precursor** of the proteome:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Epigenomics_Gene_Regulation_Z-001-0005.md]] — Regulates transcription
-- **Parallel/Related:** [[Genomics_Structure_Function_Genome_Z-001-0004.md]] — Source of transcripts
+- **Upstream/Prerequisite:** [[Epigenomics_Gene_Regulation_[Z-001-0905].md]] — Regulates transcription
+- **Parallel/Related:** [[Genomics_Structure_Function_Genome_[Z-001-0904].md]] — Source of transcripts
 - **Downstream/Consequence:** [[Proteomics_Protein_Function_Z-001-0007.md]] — What RNA produces
 
 ## Context
@@ -86,4 +87,4 @@ The transcriptome is the **immediate precursor** of the proteome:
 
 ---
 
-*UID: Z-001-0006 | Domain: 001 | Created: 2026-02-23*
+*UID: Z-001-0906 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*

@@ -1,8 +1,8 @@
 ---
-uid: Z-001-0011
+uid: Z-001-0911
 type: zettel
 title: "Cofactor → Metabolite Biomarker Logic — The B12 Model"
-aliases: [Z-001-0011, Cofactor_Biomarker_Logic, B12_Methylmalonic_Model, Enzyme_Cofactor_Biomarker]
+aliases: [Z-001-0911, Z-001-0011-deprecated, Cofactor_Biomarker_Logic, B12_Methylmalonic_Model, Enzyme_Cofactor_Biomarker]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, cofactors, coenzymes, biomarkers, B12, methylmalonic-acid, enzyme-function, vitamin-D, conscious]
@@ -10,6 +10,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 confidence: high
 created: 2026-02-23
+updated: 2026-03-05
 ---
 
 # Cofactor → Metabolite Biomarker Logic — The B12 Model
@@ -100,8 +101,8 @@ Methylmalonyl-CoA ──[enzyme WITHOUT B12]──→ ✗ (blocked)
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0010.md]] — Individual variation in cofactor needs
-- **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012.md]] — Enzyme dysfunction markers
+- **Upstream/Prerequisite:** [[Metabotypes_Individual_Metabolic_Phenotypes_[Z-001-0910].md]] — Individual variation in cofactor needs
+- **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_[Z-001-0912].md]] — Enzyme dysfunction markers
 - **Downstream/Consequence:** [[MOC-Vitamin-D-Mechanisms]] — VD as potential cofactor
 
 ## Context
@@ -112,5 +113,5 @@ Methylmalonyl-CoA ──[enzyme WITHOUT B12]──→ ✗ (blocked)
 
 ---
 
-*UID: Z-001-0011 | Domain: 001 | Created: 2026-02-23*  
+*UID: Z-001-0911 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*  
 *Critical insight: B12 model provides mechanistic template for adipic acid as VD-responsive biomarker*

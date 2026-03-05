@@ -114,8 +114,8 @@ Emerging evidence suggests:
 ## Connections
 
 ### Upstream
-- [[Microbiomics_Gut_Metabolic_Organ_Z-001-0008.md]] — DE1 microbiome foundation
-- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003.md]] — Environmental factor
+- [[Microbiomics_Gut_Metabolic_Organ_[Z-001-0908].md]] — DE1 microbiome foundation
+- [[Environmental_Factors_80_Percent_Chronic_Disease_[Z-001-0903].md]] — Environmental factor
 
 ### Downstream
 - [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]] — Dysbiosis-IR link

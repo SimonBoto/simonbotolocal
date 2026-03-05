@@ -54,7 +54,7 @@ Glutamate + NAD⁺ + H₂O → α-ketoglutarate + NH₄⁺ + NADH
 - **Deficiency:** Impaired metabolism of all four amino acids
 
 ## Related
-- [[Z-001-0501]] Glutamate Central Amino Acid Hub
+- [[Z-001-0915]] Glutamate Central Amino Acid Hub
 - [[Z-001-0499]] Glucogenic vs Ketogenic Classification
 
 ---

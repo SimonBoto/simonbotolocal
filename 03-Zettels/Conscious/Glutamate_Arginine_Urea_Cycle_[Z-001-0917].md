@@ -1,13 +1,14 @@
 ---
-uid: Z-001-0503
+uid: Z-001-0917
 type: zettel
 title: Glutamate-Arginine-Urea Cycle Connection
-aliases: [Z-001-0503, glutamate, arginine, urea-cycle, nitrogen-disposal]
+aliases: [Z-001-0917, Z-001-0503-deprecated, glutamate, arginine, urea-cycle, nitrogen-disposal]
 domain: 001
 tags: [zettel, glutamate, arginine, urea-cycle, ornithine, citrulline, nags]
 parent-moc: [[MOC-Urea-Cycle]]
 status: conscious
 created: 2026-03-04
+updated: 2026-03-05
 source: [[L-001-0046B]]
 ---
 
@@ -89,8 +90,8 @@ Arginine + H₂O → Urea + Ornithine
 
 ## Related
 - [[Z-001-0493]] Amino Acids to Oxaloacetate (aspartate connection)
-- [[Z-001-0501]] Glutamate Central Hub
-- [[Z-001-0502]] Glutamine-Glutamate-Ammonia Cycle
+- [[Z-001-0915]] Glutamate Central Hub
+- [[Z-001-0916]] Glutamine-Glutamate-Ammonia Cycle
 - [[MOC-Urea-Cycle]]
 
 ---

@@ -1,8 +1,8 @@
 ---
-uid: Z-001-0013
+uid: Z-001-0913
 type: zettel
 title: "Carnitine — Fatty Acid Transport into Mitochondria"
-aliases: [Z-001-0013, Carnitine, Fatty_Acid_Transport, Carnitine_Shuttle, Beta_Oxidation]
+aliases: [Z-001-0913, Z-001-0013-deprecated, Carnitine, Fatty_Acid_Transport, Carnitine_Shuttle, Beta_Oxidation]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, carnitine, fatty-acids, mitochondria, beta-oxidation, plasma-TFA, transport, conscious]
@@ -10,6 +10,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 confidence: high
 created: 2026-02-23
+updated: 2026-03-05
 ---
 
 # Carnitine — Fatty Acid Transport into Mitochondria
@@ -143,9 +144,9 @@ Deficient: Fatty acid → Incomplete oxidation → Adipic acid (excreted)
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012.md]] — β-oxidation produces acetyl-CoA for Krebs cycle
-- **Parallel/Related:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011.md]] — VD may be cofactor for carnitine metabolism
-- **Downstream/Consequence:** [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0014.md]] — When fatty acids can't enter mitochondria (carnitine deficiency), alternative metabolism occurs
+- **Upstream/Prerequisite:** [[Krebs_Cycle_Metabolites_IR_Markers_[Z-001-0912].md]] — β-oxidation produces acetyl-CoA for Krebs cycle
+- **Parallel/Related:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_[Z-001-0911].md]] — VD may be cofactor for carnitine metabolism
+- **Downstream/Consequence:** [[Ketone_Bodies_IR_Diabetes_Metabolism_[Z-001-0914].md]] — When fatty acids can't enter mitochondria (carnitine deficiency), alternative metabolism occurs
 
 ## Context
 
@@ -155,5 +156,5 @@ Deficient: Fatty acid → Incomplete oxidation → Adipic acid (excreted)
 
 ---
 
-*UID: Z-001-0013 | Domain: 001 | Created: 2026-02-23*  
+*UID: Z-001-0913 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*  
 *Critical insight: Carnitine is the gatekeeper of fatty acid oxidation — connects directly to your plasma TFA research*

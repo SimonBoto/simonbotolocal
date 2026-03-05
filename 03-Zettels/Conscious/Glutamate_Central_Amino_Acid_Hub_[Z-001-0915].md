@@ -1,13 +1,14 @@
 ---
-uid: Z-001-0501
+uid: Z-001-0915
 type: zettel
 title: Glutamate: The Central Amino Acid Hub
-aliases: [Z-001-0501, glutamate, hub, central, amino-acid-metabolism]
+aliases: [Z-001-0915, Z-001-0501-deprecated, glutamate, hub, central, amino-acid-metabolism]
 domain: 001
 tags: [zettel, glutamate, hub, transamination, alpha-ketoglutarate, gdh]
 parent-moc: [[MOC-Amino-Acid-Metabolism]]
 status: conscious
 created: 2026-03-04
+updated: 2026-03-05
 source: [[L-001-0046B]]
 ---
 
@@ -83,8 +84,8 @@ All converge on glutamate:
 
 ## Related
 - [[Z-001-0494]] Amino Acids to α-Ketoglutarate
-- [[Z-001-0502]] Glutamine-Glutamate-Ammonia Cycle
-- [[Z-001-0503]] Glutamate-Arginine-Urea Cycle
+- [[Z-001-0916]] Glutamine-Glutamate-Ammonia Cycle
+- [[Z-001-0917]] Glutamate-Arginine-Urea Cycle
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

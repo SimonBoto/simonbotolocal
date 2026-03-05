@@ -75,7 +75,7 @@ Serine + Tetrahydrofolate (THF) ↔ Glycine + 5,10-methylene-THF
 
 ## Related
 - [[Z-001-0479]] Vitamin Dependence
-- [[Z-001-0502]] Glutamine-Glutamate-Ammonia Cycle
+- [[Z-001-0916]] Glutamine-Glutamate-Ammonia Cycle
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

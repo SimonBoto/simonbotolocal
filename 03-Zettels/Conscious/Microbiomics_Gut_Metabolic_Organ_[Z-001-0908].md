@@ -1,8 +1,8 @@
 ---
-uid: Z-001-0008
+uid: Z-001-0908
 type: zettel
 title: "Microbiomics — Gut Microbiome as Metabolic Organ"
-aliases: [Z-001-0008, Microbiomics, Microbiome, Gut_Bacteria, Dysbiosis]
+aliases: [Z-001-0908, Z-001-0008-deprecated, Microbiomics, Microbiome, Gut_Bacteria, Dysbiosis]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, microbiomics, microbiome, gut-bacteria, dysbiosis, metabolites, butyrate, conscious]
@@ -10,6 +10,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
+updated: 2026-03-05
 ---
 
 # Microbiomics — Gut Microbiome as Metabolic Organ
@@ -89,9 +90,9 @@ The microbiome maintains homeostasis through:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Proteomics_Protein_Structure_Function_Z-001-0007.md]] — Bacterial proteins are targets
+- **Upstream/Prerequisite:** [[Proteomics_Protein_Structure_Function_[Z-001-0907].md]] — Bacterial proteins are targets
 - **Parallel/Related:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Environmental factor (diet) shapes microbiome
-- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003.md]] — Mechanism of environmental disease drivers
+- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_[Z-001-0903].md]] — Mechanism of environmental disease drivers
 
 ## Context
 
@@ -101,4 +102,4 @@ The microbiome maintains homeostasis through:
 
 ---
 
-*UID: Z-001-0008 | Domain: 001 | Created: 2026-02-23*
+*UID: Z-001-0908 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*

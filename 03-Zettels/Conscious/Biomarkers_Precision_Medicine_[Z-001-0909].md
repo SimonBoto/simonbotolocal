@@ -1,8 +1,8 @@
 ---
-uid: Z-001-0009
+uid: Z-001-0909
 type: zettel
 title: "Biomarkers in Precision Medicine — Predictive, Prognostic, and Pharmacodynamic"
-aliases: [Z-001-0009, Biomarkers, Precision_Medicine, Biomarker_Types, Patient_Stratification]
+aliases: [Z-001-0909, Z-001-0009-deprecated, Biomarkers, Precision_Medicine, Biomarker_Types, Patient_Stratification]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, biomarkers, precision-medicine, predictive, prognostic, pharmacodynamic, clinical-translation, conscious]
@@ -10,6 +10,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
+updated: 2026-03-05
 ---
 
 # Biomarkers in Precision Medicine — Predictive, Prognostic, and Pharmacodynamic
@@ -108,7 +109,7 @@ Systems biology produces **massive datasets:**
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Microbiomics_Gut_Metabolic_Organ_Z-001-0008.md]] — Microbial biomarkers (SCFAs)
+- **Upstream/Prerequisite:** [[Microbiomics_Gut_Metabolic_Organ_[Z-001-0908].md]] — Microbial biomarkers (SCFAs)
 - **Parallel/Related:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Multi-omics integration
 - **Downstream/Consequence:** [[MOC-PhD-METHAP-Trial]] — Trial design application
 
@@ -120,4 +121,4 @@ Systems biology produces **massive datasets:**
 
 ---
 
-*UID: Z-001-0009 | Domain: 001 | Created: 2026-02-23*
+*UID: Z-001-0909 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*

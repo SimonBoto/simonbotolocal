@@ -1,13 +1,14 @@
 ---
-uid: Z-001-0504
+uid: Z-001-0918
 type: zettel
 title: Aspartate: Simple Structure, Central Role
-aliases: [Z-001-0504, aspartate, simple, evolution, urea-cycle, krebs]
+aliases: [Z-001-0918, Z-001-0504-deprecated, aspartate, simple, evolution, urea-cycle, krebs]
 domain: 001
 tags: [zettel, aspartate, simple-structure, evolution, urea-cycle, krebs, oxaloacetate]
 parent-moc: [[MOC-Amino-Acid-Metabolism]]
 status: conscious
 created: 2026-03-04
+updated: 2026-03-05
 source: [[L-001-0046B]]
 ---
 
@@ -93,7 +94,7 @@ Citrulline + Aspartate → Argininosuccinate
 ## Related
 - [[Z-001-0493]] Amino Acids to Oxaloacetate
 - [[Z-001-0488]] Oxaloacetate Dual Role
-- [[Z-001-0503]] Glutamate-Arginine-Urea Cycle (aspartate role)
+- [[Z-001-0917]] Glutamate-Arginine-Urea Cycle (aspartate role)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

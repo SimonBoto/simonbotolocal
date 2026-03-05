@@ -1,8 +1,8 @@
 ---
-uid: Z-001-0004
+uid: Z-001-0904
 type: zettel
 title: "Genomics — Structure and Function of the Genome"
-aliases: [Z-001-0004, Genomics_Definition, Human_Genome]
+aliases: [Z-001-0904, Z-001-0004-deprecated, Genomics_Definition, Human_Genome]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, genomics, genome, DNA, pharmacogenomics, GWAS, conscious]
@@ -10,6 +10,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
+updated: 2026-03-05
 ---
 
 # Genomics — Structure and Function of the Genome
@@ -82,4 +83,4 @@ Study of how DNA/RNA variations affect drug response:
 
 ---
 
-*UID: Z-001-0004 | Domain: 001 | Created: 2026-02-23*
+*UID: Z-001-0904 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*

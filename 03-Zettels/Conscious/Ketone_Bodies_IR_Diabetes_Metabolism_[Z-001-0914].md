@@ -1,8 +1,8 @@
 ---
-uid: Z-001-0014
+uid: Z-001-0914
 type: zettel
 title: "Ketone Bodies — Alternative Fuel in Insulin Resistance and Diabetes"
-aliases: [Z-001-0014, Ketone_Bodies, Ketogenesis, Acetoacetate, Beta_Hydroxybutyrate, Diabetes_Metabolism]
+aliases: [Z-001-0914, Z-001-0014-deprecated, Ketone_Bodies, Ketogenesis, Acetoacetate, Beta_Hydroxybutyrate, Diabetes_Metabolism]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, ketones, ketogenesis, insulin-resistance, diabetes, fatty-acid-oxidation, alternative-fuel, conscious]
@@ -10,6 +10,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 confidence: high
 created: 2026-02-23
+updated: 2026-03-05
 ---
 
 # Ketone Bodies — Alternative Fuel in Insulin Resistance and Diabetes
@@ -158,8 +159,8 @@ VD intervention target:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Carnitine_Fatty_Acid_Transport_Z-001-0013.md]] — Ketones produced when fatty acids enter mitochondria but Krebs saturated
-- **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012.md]] — Alternative fate for acetyl-CoA
+- **Upstream/Prerequisite:** [[Carnitine_Fatty_Acid_Transport_[Z-001-0913].md]] — Ketones produced when fatty acids enter mitochondria but Krebs saturated
+- **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_[Z-001-0912].md]] — Alternative fate for acetyl-CoA
 - **Downstream/Consequence:** [[MOC-PhD-METHAP-Trial]] — Potential biomarker for metabolic flexibility
 
 ## Context
@@ -170,5 +171,5 @@ VD intervention target:
 
 ---
 
-*UID: Z-001-0014 | Domain: 001 | Created: 2026-02-23*  
+*UID: Z-001-0914 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*  
 *Key insight: Ketones represent alternative fuel pathway when glucose unavailable — relevant to IR metabolic inflexibility*

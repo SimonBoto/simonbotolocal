@@ -96,7 +96,7 @@ The METHAP trial design:
 
 ### Upstream
 - [[Phenotype_Mapping_Metabolomics_Z-001-0018.md]] — Phenotype framework
-- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0012.md]] — Mitochondrial IR markers
+- [[Krebs_Cycle_Metabolites_IR_Markers_[Z-001-0912].md]] — Mitochondrial IR markers
 - [[Lipotoxicity_Ceramide_Induced_IR_[Z-001-0013]]] — Lipid-induced IR |
 
 ### Downstream
@@ -105,7 +105,7 @@ The METHAP trial design:
 
 ### Cross-Domain
 - [[IR_Mechanisms_Map]] — Comprehensive IR systems view
-- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003.md]] — Environmental drivers
+- [[Environmental_Factors_80_Percent_Chronic_Disease_[Z-001-0903].md]] — Environmental drivers
 - [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021.md]] — VitD-IR link
 
 ## Clinical Phenotyping Strategy
@@ -139,8 +139,8 @@ The METHAP trial design:
 
 ## See Also
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 1.3)
-- [[Carnitine_Fatty_Acid_Transport_Z-001-0013.md]] — Lipid metabolism
-- [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0014.md]] — Alternative fuel
+- [[Carnitine_Fatty_Acid_Transport_[Z-001-0913].md]] — Lipid metabolism
+- [[Ketone_Bodies_IR_Diabetes_Metabolism_[Z-001-0914].md]] — Alternative fuel
 
 ---
 *Confidence: High* — Well-established metabolic disorder  

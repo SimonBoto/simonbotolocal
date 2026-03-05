@@ -1,13 +1,14 @@
 ---
-uid: Z-001-0502
+uid: Z-001-0916
 type: zettel
 title: Glutamine-Glutamate-Ammonia Cycle
-aliases: [Z-001-0502, glutamine, glutamate, ammonia, cycle, nitrogen-transport]
+aliases: [Z-001-0916, Z-001-0502-deprecated, glutamine, glutamate, ammonia, cycle, nitrogen-transport]
 domain: 001
 tags: [zettel, glutamine, glutamate, ammonia, nitrogen-transport, detoxification]
 parent-moc: [[MOC-Nitrogen-Metabolism]]
 status: conscious
 created: 2026-03-04
+updated: 2026-03-05
 source: [[L-001-0046B]]
 ---
 
@@ -74,8 +75,8 @@ Glutamate + NH₄⁺ + ATP → Glutamine + ADP + Pi
 - Causes: Liver failure, urea cycle defects, organic acidemias
 
 ## Related
-- [[Z-001-0501]] Glutamate Central Hub
-- [[Z-001-0503]] Glutamate-Arginine-Urea Cycle
+- [[Z-001-0915]] Glutamate Central Hub
+- [[Z-001-0917]] Glutamate-Arginine-Urea Cycle
 - [[MOC-Urea-Cycle]]
 - [[MOC-Nitrogen-Metabolism]]
 

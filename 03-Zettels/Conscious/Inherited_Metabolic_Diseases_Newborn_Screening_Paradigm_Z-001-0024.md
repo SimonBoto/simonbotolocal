@@ -77,7 +77,7 @@ Genetic mutation → Enzyme deficiency
 ## Connections
 
 ### Upstream
-- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011.md]] — B12→methylmalonic diagnostic model
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_[Z-001-0911].md]] — B12→methylmalonic diagnostic model
 - [[Phenotype_Mapping_Metabolomics_Z-001-0018.md]] — Phenotype measurement framework
 
 ### Downstream

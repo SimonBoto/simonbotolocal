@@ -1,8 +1,8 @@
 ---
-uid: Z-001-0007
+uid: Z-001-0907
 type: zettel
 title: "Proteomics — Protein Structure, Function, and Drug Targets"
-aliases: [Z-001-0007, Proteomics, Proteins, Enzymes, Drug_Targets]
+aliases: [Z-001-0907, Z-001-0007-deprecated, Proteomics, Proteins, Enzymes, Drug_Targets]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, proteomics, proteins, enzymes, drug-targets, LC-MS, NMR, conscious]
@@ -10,6 +10,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
+updated: 2026-03-05
 ---
 
 # Proteomics — Protein Structure, Function, and Drug Targets
@@ -82,8 +83,8 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Transcriptomics_Transcriptome_Bridge_Z-001-0006.md]] — Produces proteins
-- **Parallel/Related:** [[Genomics_Structure_Function_Genome_Z-001-0004.md]] — Genes code for proteins
+- **Upstream/Prerequisite:** [[Transcriptomics_Transcriptome_Bridge_[Z-001-0906].md]] — Produces proteins
+- **Parallel/Related:** [[Genomics_Structure_Function_Genome_[Z-001-0904].md]] — Genes code for proteins
 - **Downstream/Consequence:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Metabolome is next
 
 ## Context
@@ -94,4 +95,4 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 
 ---
 
-*UID: Z-001-0007 | Domain: 001 | Created: 2026-02-23*
+*UID: Z-001-0907 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*

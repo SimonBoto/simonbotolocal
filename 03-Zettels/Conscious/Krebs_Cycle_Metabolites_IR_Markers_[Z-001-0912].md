@@ -1,8 +1,8 @@
 ---
-uid: Z-001-0012
+uid: Z-001-0912
 type: zettel
 title: "Krebs Cycle Metabolites as Insulin Resistance Markers"
-aliases: [Z-001-0012, Krebs_Cycle_Metabolites, Organic_Acids_IR, Malate_Insulin_Resistance, Succinate_Biomarker]
+aliases: [Z-001-0912, Z-001-0012-deprecated, Krebs_Cycle_Metabolites, Organic_Acids_IR, Malate_Insulin_Resistance, Succinate_Biomarker]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, krebs-cycle, organic-acids, insulin-resistance, malate, succinate, biomarkers, diabetes, conscious]
@@ -10,6 +10,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 confidence: high
 created: 2026-02-23
+updated: 2026-03-05
 ---
 
 # Krebs Cycle Metabolites as Insulin Resistance Markers
@@ -105,8 +106,8 @@ Both adipic acid and malate relate to **fatty acid metabolism dysregulation**:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011.md]] — Same diagnostic logic
-- **Parallel/Related:** [[Carnitine_Fatty_Acid_Transport_Z-001-0013.md]] — Fatty acid metabolism pathway
+- **Upstream/Prerequisite:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_[Z-001-0911].md]] — Same diagnostic logic
+- **Parallel/Related:** [[Carnitine_Fatty_Acid_Transport_[Z-001-0913].md]] — Fatty acid metabolism pathway
 - **Downstream/Consequence:** [[Biomarkers_Taxonomy]] — Classification of these markers
 
 ## Context
@@ -117,5 +118,5 @@ Both adipic acid and malate relate to **fatty acid metabolism dysregulation**:
 
 ---
 
-*UID: Z-001-0012 | Domain: 001 | Created: 2026-02-23*  
+*UID: Z-001-0912 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*  
 *Critical insight: Malate elevation directly linked to insulin resistance in course material*

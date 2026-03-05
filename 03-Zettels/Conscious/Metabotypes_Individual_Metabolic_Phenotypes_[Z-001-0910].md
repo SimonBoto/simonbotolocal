@@ -1,8 +1,8 @@
 ---
-uid: Z-001-0010
+uid: Z-001-0910
 type: zettel
 title: "Metabotypes — Individual Metabolic Phenotypes"
-aliases: [Z-001-0010, Metabotypes, Metabolic_Phenotypes, Individual_Metabolome]
+aliases: [Z-001-0910, Z-001-0010-deprecated, Metabotypes, Metabolic_Phenotypes, Individual_Metabolome]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, metabotypes, metabolome, individual-variation, precision-medicine, phenotype, conscious]
@@ -10,6 +10,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 confidence: high
 created: 2026-02-23
+updated: 2026-03-05
 ---
 
 # Metabotypes — Individual Metabolic Phenotypes
@@ -85,9 +86,9 @@ This vast chemical diversity underscores why "one size fits all" approaches fail
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003.md]] — Environment shapes metabotype
-- **Parallel/Related:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0011.md]] — Metabotype reflects cofactor status
-- **Downstream/Consequence:** [[Biomarkers_Precision_Medicine_Z-001-0009.md]] — Metabotype-based biomarker selection
+- **Upstream/Prerequisite:** [[Environmental_Factors_80_Percent_Chronic_Disease_[Z-001-0903].md]] — Environment shapes metabotype
+- **Parallel/Related:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_[Z-001-0911].md]] — Metabotype reflects cofactor status
+- **Downstream/Consequence:** [[Biomarkers_Precision_Medicine_[Z-001-0909].md]] — Metabotype-based biomarker selection
 
 ## Context
 
@@ -97,4 +98,4 @@ This vast chemical diversity underscores why "one size fits all" approaches fail
 
 ---
 
-*UID: Z-001-0010 | Domain: 001 | Created: 2026-02-23*
+*UID: Z-001-0910 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*

@@ -59,7 +59,7 @@ Aspartate → Oxaloacetate **replenishes Krebs cycle**
 - Neurological symptoms (neurotransmitter synthesis affected)
 
 ## Related
-- [[Z-001-0504]] Aspartate Simple Structure Central Role
+- [[Z-001-0918]] Aspartate Simple Structure Central Role
 - [[Z-001-0488]] Oxaloacetate Dual Role
 - [[MOC-Urea-Cycle]]
 

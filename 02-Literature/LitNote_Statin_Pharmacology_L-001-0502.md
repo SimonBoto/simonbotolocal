@@ -280,7 +280,7 @@ Reduced circulating LDL-C
 - **Lifestyle intensification:** Diet, exercise, weight loss
 - **Accept residual risk:** If all options exhausted
 
-**Zettels extracted:** [[Statin_Intolerance_Myopathy_Management_[Z-001-0512].md]]
+**Zettels extracted:** [[Statin_Intolerance_Myopathy_Management_[Z-001-0919].md]]
 
 ### 5. Statin Response Variability — Pharmacogenomics
 > "Statin response varies substantially between individuals due to genetic polymorphisms affecting pharmacokinetics and pharmacodynamics, enabling precision dosing strategies."
@@ -319,7 +319,7 @@ Reduced circulating LDL-C
 - **Precision dosing:** SLCO1B1 for simvastatin
 - **Therapy selection:** Rosuvastatin less affected by SLCO1B1
 
-**Zettels extracted:** [[Statin_Pharmacogenomics_SLCO1B1_[Z-001-0513].md]]
+**Zettels extracted:** [[Statin_Pharmacogenomics_SLCO1B1_[Z-001-0920].md]]
 
 ### 6. Non-Statin Lipid-Lowering Options
 > "For patients who cannot tolerate statins or require additional LDL reduction, several non-statin agents provide complementary or alternative pathways to achieve lipid goals."
@@ -461,8 +461,8 @@ Reduced circulating LDL-C
 1. [[Statin_Mechanism_HMG_CoA_Reductase_[Z-001-0509].md]]
 2. [[Statin_Major_Clinical_Trials_[Z-001-0510].md]]
 3. [[Framingham_Reassessment_Cholesterol_Hypothesis_[Z-001-0511].md]]
-4. [[Statin_Intolerance_Myopathy_Management_[Z-001-0512].md]]
-5. [[Statin_Pharmacogenomics_SLCO1B1_[Z-001-0513].md]]
+4. [[Statin_Intolerance_Myopathy_Management_[Z-001-0919].md]]
+5. [[Statin_Pharmacogenomics_SLCO1B1_[Z-001-0920].md]]
 6. [[Non_Statin_Lipid_Lowering_Options_[Z-001-0514].md]]
 7. [[Statin_Clinical_Decision_Making_[Z-001-0515].md]]
 

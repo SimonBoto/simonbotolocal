@@ -46,7 +46,7 @@ Unlike genomics (static) or transcriptomics (intermediate), metabolomics capture
 
 ### Upstream
 - [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Metabolomics as final phenotype layer
-- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003.md]] — Environmental driver measurement
+- [[Environmental_Factors_80_Percent_Chronic_Disease_[Z-001-0903].md]] — Environmental driver measurement
 - [[Systems_Biology_Integrative_Framework_[Z-001-0901]]] — Multi-parameter integration
 
 ### Downstream

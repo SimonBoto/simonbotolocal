@@ -1,8 +1,8 @@
 ---
-uid: Z-001-0005
+uid: Z-001-0905
 type: zettel
 title: "Epigenomics — Gene Regulation Without DNA Sequence Change"
-aliases: [Z-001-0005, Epigenomics, DNA_Methylation, Histone_Acetylation]
+aliases: [Z-001-0905, Z-001-0005-deprecated, Epigenomics, DNA_Methylation, Histone_Acetylation]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, epigenomics, gene-regulation, DNA-methylation, histone-acetylation, environment, conscious]
@@ -10,6 +10,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
+updated: 2026-03-05
 ---
 
 # Epigenomics — Gene Regulation Without DNA Sequence Change
@@ -65,9 +66,9 @@ Epigenetic modifications respond to:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Genomics_Structure_Function_Genome_Z-001-0004.md]] — DNA as substrate
+- **Upstream/Prerequisite:** [[Genomics_Structure_Function_Genome_[Z-001-0904].md]] — DNA as substrate
 - **Parallel/Related:** [[Transcriptomics_mRNA_Expression_Z-001-0006.md]] — Output of epigenetic regulation
-- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003.md]] — Mechanism of environmental impact
+- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_[Z-001-0903].md]] — Mechanism of environmental impact
 
 ## Context
 
@@ -77,4 +78,4 @@ Epigenetic modifications respond to:
 
 ---
 
-*UID: Z-001-0005 | Domain: 001 | Created: 2026-02-23*
+*UID: Z-001-0905 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
