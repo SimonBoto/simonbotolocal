@@ -1,14 +1,15 @@
 ---
-uid: Z-001-0523
+uid: Z-001-0930
 type: zettel
 title: Sample Size Strategies for PhD Metabolomics Studies
-aliases: [Z-001-0523, PhD Sample Size, Feasible Power, Strategic Design]
+aliases: [Z-001-0930, Z-001-0523-deprecated, PhD Sample Size, Feasible Power, Strategic Design]
 domain: 001
 tags: [zettel, phd, sample-size, study-design, targeted-metabolomics, validation, pilot-study]
 parent-moc: [[MOC-Research-Methods]]
 status: conscious
 source: "[[LitNote_Power_Analysis_Metabolomics_L-001-0514]]"
 extraction-date: 2026-03-02
+updated: 2026-03-05
 ---
 
 # Sample Size Strategies for PhD Metabolomics Studies
@@ -206,4 +207,4 @@ Severe T2DM (HbA1c>9) vs. healthy: Effect size f=0.35, need n=100/group
 
 ---
 
-*See also: [[Power_Analysis_Formula_Metabolomics_[Z-001-0521]]]*
+*See also: [[Power_Analysis_Formula_Metabolomics_[Z-001-0928]]]*

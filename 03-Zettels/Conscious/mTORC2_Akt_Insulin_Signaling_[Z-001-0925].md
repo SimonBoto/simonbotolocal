@@ -1,14 +1,15 @@
 ---
-uid: Z-001-0518
+uid: Z-001-0925
 type: zettel
 title: Chronic Sirolimus Inhibits mTORC2 Disrupting Akt Insulin Signaling
-aliases: [Z-001-0518, mTORC2 Inhibition, Akt Phosphorylation, Chronic Rapamycin]
+aliases: [Z-001-0925, Z-001-0518-deprecated, mTORC2 Inhibition, Akt Phosphorylation, Chronic Rapamycin]
 domain: 001
 tags: [zettel, mtorc2, sirolimus, rapamycin, akt, insulin-signaling, chronic-dosing]
 parent-moc: [[MOC-Insulin-Resistance]]
 status: conscious
 source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]]"
 extraction-date: 2026-03-02
+updated: 2026-03-05
 ---
 
 # Chronic Sirolimus Inhibits mTORC2 Disrupting Akt Insulin Signaling
@@ -126,4 +127,4 @@ extraction-date: 2026-03-02
 
 ---
 
-*See also: [[Sirolimus_Beta_Cell_Dysfunction_NODAT_[Z-001-0517]]]*
+*See also: [[Sirolimus_Beta_Cell_Dysfunction_NODAT_[Z-001-0924]]]*

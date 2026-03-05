@@ -1,14 +1,15 @@
 ---
-uid: Z-001-0515
+uid: Z-001-0922
 type: zettel
 title: mTORC1 Inhibition Disrupts Calcium Homeostasis and mPTP Opening
-aliases: [Z-001-0515, Sirolimus Calcium, mPTP Opening, Mitochondrial Permeability Transition]
+aliases: [Z-001-0922, Z-001-0515-deprecated, Sirolimus Calcium, mPTP Opening, Mitochondrial Permeability Transition]
 domain: 001
 tags: [zettel, sirolimus, rapamycin, mtorc1, calcium, mptp, mitochondrial-permeability, cell-death]
 parent-moc: [[MOC-mTOR-Signaling]]
 status: conscious
 source: "[[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]]"
 extraction-date: 2026-03-02
+updated: 2026-03-05
 ---
 
 # mTORC1 Inhibition Disrupts Calcium Homeostasis and mPTP Opening
@@ -125,4 +126,4 @@ Sirolimus → Mitochondrial dysfunction
 
 ---
 
-*See also: [[Sirolimus_Mitophagy_Dysregulation_[Z-001-0514]]]*
+*See also: [[Sirolimus_Mitophagy_Dysregulation_[Z-001-0921]]]*

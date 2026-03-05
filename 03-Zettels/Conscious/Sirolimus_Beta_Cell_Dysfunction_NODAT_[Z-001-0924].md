@@ -1,14 +1,15 @@
 ---
-uid: Z-001-0517
+uid: Z-001-0924
 type: zettel
 title: Sirolimus Induces Pancreatic Beta-Cell Dysfunction and NODAT
-aliases: [Z-001-0517, Sirolimus Beta Cell, NODAT Mechanism, Pancreatic Dysfunction]
+aliases: [Z-001-0924, Z-001-0517-deprecated, Sirolimus Beta Cell, NODAT Mechanism, Pancreatic Dysfunction]
 domain: 001
 tags: [zettel, sirolimus, rapamycin, beta-cell, insulin-secretion, nodat, mitochondrial-toxicity]
 parent-moc: [[MOC-Insulin-Resistance]]
 status: conscious
 source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]]"
 extraction-date: 2026-03-02
+updated: 2026-03-05
 ---
 
 # Sirolimus Induces Pancreatic Beta-Cell Dysfunction and NODAT
@@ -138,4 +139,4 @@ Glucose enters → Glycolysis → Pyruvate → Mitochondria
 
 ---
 
-*See also: [[Sirolimus_GLUT4_Insulin_Resistance_[Z-001-0516]]]*
+*See also: [[Sirolimus_GLUT4_Insulin_Resistance_[Z-001-0923]]]*

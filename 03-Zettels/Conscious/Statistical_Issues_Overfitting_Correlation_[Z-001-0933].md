@@ -1,14 +1,15 @@
 ---
-uid: Z-001-0526
+uid: Z-001-0933
 type: zettel
 title: Statistical Issues — Overfitting and Correlation Inflation
-aliases: [Overfitting, Correlation-Inflation, Statistical-Issues]
+aliases: [Z-001-0933, Z-001-0526-deprecated, Overfitting, Correlation-Inflation, Statistical-Issues]
 domain: 001
 tags: [zettel, overfitting, correlation, statistical-issues]
 parent-moc: [[MOC-Research-Methodology]]
 status: conscious
 source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]]
 extraction-date: 2026-03-01
+updated: 2026-03-05
 ---
 
 # Statistical Issues — Overfitting and Correlation Inflation

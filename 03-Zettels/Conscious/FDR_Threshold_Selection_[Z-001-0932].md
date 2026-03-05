@@ -1,8 +1,8 @@
 ---
-uid: Z-001-0525
+uid: Z-001-0932
 type: zettel
 title: FDR 0.1 vs 0.05 Selection Framework
-aliases: [Z-001-0525, FDR Threshold Selection, Statistical Significance Threshold]
+aliases: [Z-001-0932, Z-001-0525-deprecated, FDR Threshold Selection, Statistical Significance Threshold]
 domain: 001
 domain-name: Research Methods
 tags: [zettel, statistics, fdr, study-design, exploratory, confirmatory, decision-framework]
@@ -10,6 +10,7 @@ parent-moc: [[MOC-Research-Methods]]
 source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
 confidence: high
 created: 2026-03-03
+updated: 2026-03-05
 ---
 
 # FDR 0.1 vs 0.05 Selection Framework
@@ -136,10 +137,10 @@ The choice between FDR thresholds reflects a **fundamental trade-off** between s
 
 ## Related Zettels
 
-- [[Benjamini_Hochberg_Procedure_[Z-001-0524]]] — Benjamini-Hochberg Procedure Mechanics
+- [[Benjamini_Hochberg_Procedure_[Z-001-0931]]] — Benjamini-Hochberg Procedure Mechanics
 - [[Exploratory_vs_Confirmatory_Research_Standards_[Z-001-0526]]] — Exploratory vs Confirmatory Research Standards
 - [[Biomarker_Validation_Requirements_[Z-001-0528]]] — Validation Requirements for Biomarker Translation
-- [[Underpowered_Study_Consequences_[Z-001-0522]]] — Underpowered Study Consequences
+- [[Underpowered_Study_Consequences_[Z-001-0929]]] — Underpowered Study Consequences
 - [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — False Discovery Rate and Multiple Testing Correction
 
 ---
@@ -150,4 +151,4 @@ The choice between FDR thresholds reflects a **fundamental trade-off** between s
 
 ---
 
-*Created: 2026-03-03 | Status: Conscious | Domain: 001*
+*Created: 2026-03-03 | Updated: 2026-03-05 | Status: Conscious | Domain: 001*

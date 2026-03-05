@@ -153,7 +153,7 @@ extraction-date: 2026-03-01
 - Career paths established
 - Paradigm resistance
 
-**Zettels extracted:** [[Diet_Heart_Hypothesis_Policy_Evolution_[Z-001-0528].md]]
+**Zettels extracted:** [[Diet_Heart_Hypothesis_Policy_Evolution_[Z-001-0935].md]]
 
 ### 3. Scientific Revolutions — The Shift Away from Fat Phobia
 > "Starting in the 2000s, accumulating evidence challenged the diet-heart hypothesis, leading to gradual rehabilitation of dietary fat and recognition that carbohydrate quality matters more than fat quantity."
@@ -423,7 +423,7 @@ extraction-date: 2026-03-01
 
 ## Zettels Created from This Source
 1. [[Ancel_Keys_Scientific_Legacy_[Z-001-0527].md]]
-2. [[Diet_Heart_Hypothesis_Policy_Evolution_[Z-001-0528].md]]
+2. [[Diet_Heart_Hypothesis_Policy_Evolution_[Z-001-0935].md]]
 3. [[Scientific_Revolution_Fat_Rehabilitation_[Z-001-0529].md]]
 4. [[Low_Fat_Era_Consequences_[Z-001-0530].md]]
 5. [[Evidence_Based_Medicine_Lessons_[Z-001-0531].md]]

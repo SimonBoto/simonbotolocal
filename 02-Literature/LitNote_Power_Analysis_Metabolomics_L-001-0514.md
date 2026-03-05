@@ -268,9 +268,9 @@ Confirm findings
 
 ## Zettels Created
 
-1. [[Power_Analysis_Formula_Metabolomics_[Z-001-0521]]]
-2. [[Underpowered_Study_Consequences_[Z-001-0522]]]
-3. [[Sample_Size_Strategies_PhD_[Z-001-0523]]]
+1. [[Power_Analysis_Formula_Metabolomics_[Z-001-0928]]]
+2. [[Underpowered_Study_Consequences_[Z-001-0929]]]
+3. [[Sample_Size_Strategies_PhD_[Z-001-0930]]]
 
 ---
 

@@ -1,14 +1,15 @@
 ---
-uid: Z-001-0520
+uid: Z-001-0927
 type: zettel
 title: NODAT Risk Factors Clinical Monitoring and Management
-aliases: [Z-001-0520, NODAT Management, Sirolimus Diabetes Prevention]
+aliases: [Z-001-0927, Z-001-0520-deprecated, NODAT Management, Sirolimus Diabetes Prevention]
 domain: 001
 tags: [zettel, nodat, sirolimus, diabetes, management, monitoring, prevention, transplant]
 parent-moc: [[MOC-Clinical-Protocols]]
 status: conscious
 source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]]"
 extraction-date: 2026-03-02
+updated: 2026-03-05
 ---
 
 # NODAT Risk Factors Clinical Monitoring and Management
@@ -159,4 +160,4 @@ extraction-date: 2026-03-02
 
 ---
 
-*See also: [[Sirolimus_Lipotoxicity_Adiponectin_[Z-001-0519]]]*
+*See also: [[Sirolimus_Lipotoxicity_Adiponectin_[Z-001-0926]]]*

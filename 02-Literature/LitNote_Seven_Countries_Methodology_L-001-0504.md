@@ -213,7 +213,7 @@ extraction-date: 2026-03-01
 - Transparent reporting of all data
 - **Seven Countries would not meet modern standards**
 
-**Zettels extracted:** [[Selection_Bias_Cherry_Picking_Countries_[Z-001-0524].md]]
+**Zettels extracted:** [[Selection_Bias_Cherry_Picking_Countries_[Z-001-0931].md]]
 
 ### 4. Confounding Variables — Uncontrolled Factors
 > "The study inadequately controlled for multiple confounding factors that likely explained observed associations better than saturated fat intake alone."
@@ -373,7 +373,7 @@ Ratio likely captures **Mediterranean dietary pattern** — not mechanistic effe
 - Non-significant results downplayed
 - Contradictory data (France) excluded
 
-**Zettels extracted:** [[Statistical_Issues_Overfitting_Correlation_[Z-001-0526].md]]
+**Zettels extracted:** [[Statistical_Issues_Overfitting_Correlation_[Z-001-0933].md]]
 
 ---
 
@@ -404,9 +404,9 @@ Ratio likely captures **Mediterranean dietary pattern** — not mechanistic effe
 ## Zettels Created from This Source
 1. [[Seven_Countries_Study_Design_Structure_[Z-001-0522].md]]
 2. [[Ecological_Fallacy_Nutrition_Research_[Z-001-0523].md]]
-3. [[Selection_Bias_Cherry_Picking_Countries_[Z-001-0524].md]]
+3. [[Selection_Bias_Cherry_Picking_Countries_[Z-001-0931].md]]
 4. [[Confounding_Variables_Diet_Studies_[Z-001-0525].md]]
-5. [[Statistical_Issues_Overfitting_Correlation_[Z-001-0526].md]]
+5. [[Statistical_Issues_Overfitting_Correlation_[Z-001-0933].md]]
 
 ---
 

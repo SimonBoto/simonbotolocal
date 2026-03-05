@@ -128,8 +128,8 @@ Every publication must state:
 - [[Exploratory_Excuse_Pitfall_Case_Study_[Z-001-0559]]] — Misclassification example
 - [[Biomarker_Validation_Pipeline_Requirements_[Z-001-0560]]] — Validation stages
 - [[Effect_Size_Practical_Significance_Omics_[Z-001-0561]]] — Effect size importance
-- [[FDR_Threshold_Selection_[Z-001-0525]]] — FDR 0.1 vs 0.05 framework
-- [[Sample_Size_Strategies_PhD_[Z-001-0523]]] — Power considerations
+- [[FDR_Threshold_Selection_[Z-001-0932]]] — FDR 0.1 vs 0.05 framework
+- [[Sample_Size_Strategies_PhD_[Z-001-0930]]] — Power considerations
 
 ---
 

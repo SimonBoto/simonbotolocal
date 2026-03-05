@@ -53,7 +53,7 @@ Insulin → Insulin Receptor → IRS-1/2 → PI3K → Akt → mTORC1
 - Adipose tissue
 - Cardiac muscle
 
-**Zettels extracted:** [[Sirolimus_GLUT4_Insulin_Resistance_[Z-001-0516].md]]
+**Zettels extracted:** [[Sirolimus_GLUT4_Insulin_Resistance_[Z-001-0923].md]]
 
 ### 2. β-Cell Dysfunction from Mitochondrial Toxicity
 > "Pancreatic β-cells are particularly sensitive to sirolimus due to high metabolic demand; mitochondrial dysfunction impairs glucose-stimulated insulin secretion and causes β-cell loss."
@@ -78,7 +78,7 @@ Insulin → Insulin Receptor → IRS-1/2 → PI3K → Akt → mTORC1
 - Animal models: reduced β-cell mass, impaired insulin secretion
 - Human studies: decreased first-phase insulin response
 
-**Zettels extracted:** [[Sirolimus_Beta_Cell_Dysfunction_NODAT_[Z-001-0517].md]]
+**Zettels extracted:** [[Sirolimus_Beta_Cell_Dysfunction_NODAT_[Z-001-0924].md]]
 
 ### 3. mTORC2 Inhibition and Amplified Insulin Resistance
 > "Chronic or high-dose sirolimus inhibits mTORC2, reducing Akt phosphorylation at Ser473 and amplifying insulin resistance beyond mTORC1 effects."
@@ -103,7 +103,7 @@ Insulin → Insulin Receptor → IRS-1/2 → PI3K → Akt → mTORC1
 - Reduced Akt phosphorylation/activation
 - **Amplified insulin resistance** beyond mTORC1 effects
 
-**Zettels extracted:** [[mTORC2_Akt_Insulin_Signaling_[Z-001-0518].md]]
+**Zettels extracted:** [[mTORC2_Akt_Insulin_Signaling_[Z-001-0925].md]]
 
 ### 4. Adipose Tissue Dysfunction and Lipotoxicity
 > "Sirolimus suppresses adipogenesis, reduces adiponectin, and increases lipolysis, creating elevated free fatty acids that cause insulin resistance in muscle and liver."
@@ -140,7 +140,7 @@ dysfunction)    activation)
             Systemic hyperglycemia
 ```
 
-**Zettels extracted:** [[Sirolimus_Lipotoxicity_Adiponectin_[Z-001-0519].md]]
+**Zettels extracted:** [[Sirolimus_Lipotoxicity_Adiponectin_[Z-001-0926].md]]
 
 ---
 
@@ -170,11 +170,11 @@ dysfunction)    activation)
 ---
 
 ## Zettels Created from This Source
-1. [[Sirolimus_GLUT4_Insulin_Resistance_[Z-001-0516].md]] — Peripheral insulin resistance mechanism
-2. [[Sirolimus_Beta_Cell_Dysfunction_NODAT_[Z-001-0517].md]] — β-cell toxicity
-3. [[mTORC2_Akt_Insulin_Signaling_[Z-001-0518].md]] — mTORC2-mediated resistance
-4. [[Sirolimus_Lipotoxicity_Adiponectin_[Z-001-0519].md]] — Adipose tissue dysfunction
-5. [[NODAT_Risk_Factors_Management_[Z-001-0520].md]] — Clinical management strategies
+1. [[Sirolimus_GLUT4_Insulin_Resistance_[Z-001-0923].md]] — Peripheral insulin resistance mechanism
+2. [[Sirolimus_Beta_Cell_Dysfunction_NODAT_[Z-001-0924].md]] — β-cell toxicity
+3. [[mTORC2_Akt_Insulin_Signaling_[Z-001-0925].md]] — mTORC2-mediated resistance
+4. [[Sirolimus_Lipotoxicity_Adiponectin_[Z-001-0926].md]] — Adipose tissue dysfunction
+5. [[NODAT_Risk_Factors_Management_[Z-001-0927].md]] — Clinical management strategies
 
 ---
 

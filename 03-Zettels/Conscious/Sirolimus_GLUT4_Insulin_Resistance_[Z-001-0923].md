@@ -1,14 +1,15 @@
 ---
-uid: Z-001-0516
+uid: Z-001-0923
 type: zettel
 title: Sirolimus Impairs GLUT4 Translocation Causing Peripheral Insulin Resistance
-aliases: [Z-001-0516, Sirolimus GLUT4, Insulin Resistance mTORC1]
+aliases: [Z-001-0923, Z-001-0516-deprecated, Sirolimus GLUT4, Insulin Resistance mTORC1]
 domain: 001
 tags: [zettel, sirolimus, rapamycin, glut4, insulin-resistance, glucose-uptake, muscle, adipose]
 parent-moc: [[MOC-Insulin-Resistance]]
 status: conscious
 source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]]"
 extraction-date: 2026-03-02
+updated: 2026-03-05
 ---
 
 # Sirolimus Impairs GLUT4 Translocation Causing Peripheral Insulin Resistance
@@ -125,4 +126,4 @@ Insulin → Insulin Receptor (autophosphorylation)
 
 ---
 
-*See also: [[Sirolimus_Beta_Cell_Dysfunction_NODAT_[Z-001-0517]]]*
+*See also: [[Sirolimus_Beta_Cell_Dysfunction_NODAT_[Z-001-0924]]]*

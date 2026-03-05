@@ -1,8 +1,8 @@
 ---
-uid: Z-001-0527
+uid: Z-001-0934
 type: zettel
 title: Multiple Testing Burden in High-Dimensional Data
-aliases: [Z-001-0527, Multiple Comparisons Problem, High-Dimensional Statistics]
+aliases: [Z-001-0934, Z-001-0527-deprecated, Multiple Comparisons Problem, High-Dimensional Statistics]
 domain: 001
 domain-name: Research Methods
 tags: [zettel, statistics, multiple-testing, high-dimensional-data, omics, metabolomics, type-1-error, false-positives]
@@ -10,6 +10,7 @@ parent-moc: [[MOC-Research-Methods]]
 source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
 confidence: high
 created: 2026-03-03
+updated: 2026-03-05
 ---
 
 # Multiple Testing Burden in High-Dimensional Data
@@ -151,10 +152,10 @@ Many "discoveries" in omics fail to replicate because:
 
 ## Related Zettels
 
-- [[Benjamini_Hochberg_Procedure_[Z-001-0524]]] — Benjamini-Hochberg Procedure Mechanics
-- [[FDR_Threshold_Selection_[Z-001-0525]]] — FDR 0.1 vs 0.05 Selection Framework
-- [[Power_Analysis_Formula_Metabolomics_[Z-001-0521]]] — Power Analysis Formula
-- [[Underpowered_Study_Consequences_[Z-001-0522]]] — Underpowered Study Consequences
+- [[Benjamini_Hochberg_Procedure_[Z-001-0931]]] — Benjamini-Hochberg Procedure Mechanics
+- [[FDR_Threshold_Selection_[Z-001-0932]]] — FDR 0.1 vs 0.05 Selection Framework
+- [[Power_Analysis_Formula_Metabolomics_[Z-001-0928]]] — Power Analysis Formula
+- [[Underpowered_Study_Consequences_[Z-001-0929]]] — Underpowered Study Consequences
 - [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — False Discovery Rate and Multiple Testing Correction
 
 ---
@@ -165,4 +166,4 @@ Many "discoveries" in omics fail to replicate because:
 
 ---
 
-*Created: 2026-03-03 | Status: Conscious | Domain: 001*
+*Created: 2026-03-03 | Updated: 2026-03-05 | Status: Conscious | Domain: 001*

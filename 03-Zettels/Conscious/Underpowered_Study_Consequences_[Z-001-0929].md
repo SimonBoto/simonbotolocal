@@ -1,14 +1,15 @@
 ---
-uid: Z-001-0522
+uid: Z-001-0929
 type: zettel
 title: Consequences of Underpowered Studies in Omics Research
-aliases: [Z-001-0522, Underpowered Studies, Type I Error, False Positives, Winners Curse]
+aliases: [Z-001-0929, Z-001-0522-deprecated, Underpowered Studies, Type I Error, False Positives, Winners Curse]
 domain: 001
 tags: [zettel, underpowered, false-positives, type-1-error, effect-size-inflation, replication-crisis]
 parent-moc: [[MOC-Research-Methods]]
 status: conscious
 source: "[[LitNote_Power_Analysis_Metabolomics_L-001-0514]]"
 extraction-date: 2026-03-02
+updated: 2026-03-05
 ---
 
 # Consequences of Underpowered Studies in Omics Research
@@ -209,4 +210,4 @@ Observed d = 0.25 (closer to truth)
 
 ---
 
-*See also: [[Power_Analysis_Formula_Metabolomics_[Z-001-0521]]]*
+*See also: [[Power_Analysis_Formula_Metabolomics_[Z-001-0928]]]*

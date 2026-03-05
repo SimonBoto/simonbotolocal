@@ -124,8 +124,8 @@ Before claiming "biomarker identified":
 
 - [[Exploratory_vs_Confirmatory_Definitions_[Z-001-0558]]] — Proper classification
 - [[Biomarker_Validation_Pipeline_Requirements_[Z-001-0560]]] — Validation stages
-- [[Underpowered_Study_Consequences_[Z-001-0522]]] — Power implications
-- [[Statistical_Issues_Overfitting_Correlation_[Z-001-0526]]] — Statistical risks
+- [[Underpowered_Study_Consequences_[Z-001-0929]]] — Power implications
+- [[Statistical_Issues_Overfitting_Correlation_[Z-001-0933]]] — Statistical risks
 
 ---
 

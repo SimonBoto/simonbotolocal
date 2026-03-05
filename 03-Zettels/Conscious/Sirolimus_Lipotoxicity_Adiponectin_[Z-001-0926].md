@@ -1,14 +1,15 @@
 ---
-uid: Z-001-0519
+uid: Z-001-0926
 type: zettel
 title: Sirolimus Alters Adipose Tissue Causing Lipotoxicity and Insulin Resistance
-aliases: [Z-001-0519, Sirolimus Adipose, Lipotoxicity, Adiponectin Suppression]
+aliases: [Z-001-0926, Z-001-0519-deprecated, Sirolimus Adipose, Lipotoxicity, Adiponectin Suppression]
 domain: 001
 tags: [zettel, sirolimus, rapamycin, adipose, adiponectin, lipotoxicity, ffa, insulin-resistance]
 parent-moc: [[MOC-Insulin-Resistance]]
 status: conscious
 source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]]"
 extraction-date: 2026-03-02
+updated: 2026-03-05
 ---
 
 # Sirolimus Alters Adipose Tissue Causing Lipotoxicity and Insulin Resistance
@@ -162,4 +163,4 @@ Hepatic IR      Muscle IR       β-cell dysfunction
 
 ---
 
-*See also: [[mTORC2_Akt_Insulin_Signaling_[Z-001-0518]]]*
+*See also: [[mTORC2_Akt_Insulin_Signaling_[Z-001-0925]]]*

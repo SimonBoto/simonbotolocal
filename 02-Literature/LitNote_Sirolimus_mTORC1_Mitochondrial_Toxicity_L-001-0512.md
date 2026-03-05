@@ -116,7 +116,7 @@ extraction-date: 2026-03-02
 
 Sirolimus disrupts this balance by suppressing biogenesis while promoting clearance.
 
-**Zettels extracted:** [[Sirolimus_Mitophagy_Dysregulation_[Z-001-0514].md]]
+**Zettels extracted:** [[Sirolimus_Mitophagy_Dysregulation_[Z-001-0921].md]]
 
 ### 5. Calcium Dysregulation and mPTP
 > "Sirolimus impairs mitochondrial calcium buffering, leading to cytosolic Ca²⁺ overload, mitochondrial calcium accumulation, and mPTP opening with cell death."
@@ -137,7 +137,7 @@ Sirolimus disrupts this balance by suppressing biogenesis while promoting cleara
 - Release of pro-apoptotic factors
 - Cell death (apoptosis or necrosis)
 
-**Zettels extracted:** [[mTORC1_Calcium_Homeostasis_mPTP_[Z-001-0515].md]]
+**Zettels extracted:** [[mTORC1_Calcium_Homeostasis_mPTP_[Z-001-0922].md]]
 
 ---
 
@@ -169,8 +169,8 @@ Sirolimus disrupts this balance by suppressing biogenesis while promoting cleara
 ## Zettels Created from This Source
 1. [[Sirolimus_mTORC1_PGC1a_Mitochondrial_Biogenesis_[Z-001-0512].md]] — Biogenesis suppression mechanism
 2. [[Sirolimus_ETC_Impairment_ROS_Generation_[Z-001-0513].md]] — OXPHOS and oxidative stress
-3. [[Sirolimus_Mitophagy_Dysregulation_[Z-001-0514].md]] — Autophagy imbalance
-4. [[mTORC1_Calcium_Homeostasis_mPTP_[Z-001-0515].md]] — Calcium dysregulation and cell death
+3. [[Sirolimus_Mitophagy_Dysregulation_[Z-001-0921].md]] — Autophagy imbalance
+4. [[mTORC1_Calcium_Homeostasis_mPTP_[Z-001-0922].md]] — Calcium dysregulation and cell death
 
 ---
 

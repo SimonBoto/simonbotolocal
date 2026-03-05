@@ -1,14 +1,15 @@
 ---
-uid: Z-001-0521
+uid: Z-001-0928
 type: zettel
 title: Power Analysis Formula and Sample Size Calculation for Metabolomics
-aliases: [Z-001-0521, Sample Size Formula, Cohen's f, ANOVA Power]
+aliases: [Z-001-0928, Z-001-0521-deprecated, Sample Size Formula, Cohen's f, ANOVA Power]
 domain: 001
 tags: [zettel, power-analysis, sample-size, cohens-f, anova, formula, statistics]
 parent-moc: [[MOC-Research-Methods]]
 status: conscious
 source: "[[LitNote_Power_Analysis_Metabolomics_L-001-0514]]"
 extraction-date: 2026-03-02
+updated: 2026-03-05
 ---
 
 # Power Analysis Formula and Sample Size Calculation for Metabolomics
@@ -132,4 +133,4 @@ n = 66 per group
 
 ---
 
-*See also: [[Underpowered_Study_Consequences_[Z-001-0522]]]*
+*See also: [[Underpowered_Study_Consequences_[Z-001-0929]]]*

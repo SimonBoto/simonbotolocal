@@ -160,8 +160,8 @@ Metabolite: [Name]
 
 - [[Exploratory_vs_Confirmatory_Definitions_[Z-001-0558]]] — Study design phases
 - [[Exploratory_Excuse_Pitfall_Case_Study_[Z-001-0559]]] — Reporting failures
-- [[Power_Analysis_Formula_Metabolomics_[Z-001-0521]]] — Sample size and power
-- [[Sample_Size_Strategies_PhD_[Z-001-0523]]] — Effect size in power calculations
+- [[Power_Analysis_Formula_Metabolomics_[Z-001-0928]]] — Sample size and power
+- [[Sample_Size_Strategies_PhD_[Z-001-0930]]] — Effect size in power calculations
 
 ---
 

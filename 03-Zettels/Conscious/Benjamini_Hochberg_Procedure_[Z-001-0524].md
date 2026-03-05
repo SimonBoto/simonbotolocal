@@ -123,9 +123,9 @@ rejected, corrected, _, _ = multipletests(p_values, alpha=0.1, method='fdr_bh')
 
 ## Related Zettels
 
-- [[FDR_Threshold_Selection_[Z-001-0525]]] — FDR 0.1 vs 0.05 Selection Framework
-- [[Multiple_Testing_Burden_High_Dimensional_Data_[Z-001-0527]]] — Multiple Testing Burden in High-Dimensional Data
-- [[Power_Analysis_Formula_Metabolomics_[Z-001-0521]]] — Power Analysis Formula
+- [[FDR_Threshold_Selection_[Z-001-0932]]] — FDR 0.1 vs 0.05 Selection Framework
+- [[Multiple_Testing_Burden_High_Dimensional_Data_[Z-001-0934]]] — Multiple Testing Burden in High-Dimensional Data
+- [[Power_Analysis_Formula_Metabolomics_[Z-001-0928]]] — Power Analysis Formula
 - [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — False Discovery Rate and Multiple Testing Correction
 
 ---
