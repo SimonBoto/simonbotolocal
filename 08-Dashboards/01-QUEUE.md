@@ -1,5 +1,5 @@
 ---
-uid: 20260301223000
+uid: 20260305203000
 type: index
 title: "01-QUEUE — RON Status Board"
 aliases: [QUEUE, Status, Now]
@@ -7,7 +7,7 @@ tags: [queue, dashboard, status]
 parent-moc: [[08-Dashboards/Dashboard_Home]]
 status: active
 confidence: high
-extraction-date: 2026-03-01
+extraction-date: 2026-03-05
 ---
 
 # 📋 QUEUE — RON Status Board
@@ -18,7 +18,16 @@ extraction-date: 2026-03-01
 
 ---
 
-## 🔨 CURRENTLY PROCESSING (TODAY COMPLETE)
+## 🔨 CURRENTLY PROCESSING
+
+### ✅ March 5, 2026 — Vault Remediation & ZETTEL-FORGE Deployment
+
+**Complete:**
+- 35 UID duplicates fixed (Z-001-0901→0935)
+- 59 legacy naming files renamed
+- 22 LitNote corrections (status/type)
+- ZETTEL-FORGE v1.0 deployed (UID registry, validation gates, git hooks)
+- Vault: Pristine (0 issues)
 
 ### ✅ March 1, 2026 — Mitochondrial Fortress Expansion
 
@@ -47,7 +56,19 @@ extraction-date: 2026-03-01
 
 ## 📦 NEXT QUEUED
 
-### 🎯 P0 — Adipic Acid (Tomorrow)
+### 🎯 P0 — Adipic Acid Extraction (March 6)
+**Status:** Ready to start
+**Tool:** ZETTEL-FORGE v1.0
+**Estimated:** 2-3 LitNotes, 10-15 zettels
+**METHAP:** Critical PhD marker for IRB
+
+### 🎯 P0 — 10 GOLD References (March 6-7)
+**Status:** Pending Adipic completion
+**Goal:** IRB literature review section
+
+### 🎯 P0 — IRB Section 1 Draft (March 7-8)
+**Status:** Pending GOLD completion
+**Dependencies:** Adipic + GOLD extractions
 **Context:** Primary PhD research marker
 **Source:** Archive search required
 **Estimated:** 2-3 LitNotes, 10-15 zettels
