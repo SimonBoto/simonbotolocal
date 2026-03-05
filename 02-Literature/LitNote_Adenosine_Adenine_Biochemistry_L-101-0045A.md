@@ -1,13 +1,13 @@
 ---
 uid: L-101-0045A
-type: litnote
+type: lit-note
 title: "Adenosine & Adenine Biochemistry: Energy, Signal, and Disease"
 aliases: [L-101-0045A, CGPT-0445-Batch1]
 domain: 101
 tags: [litnote, nucleotides, adenosine, adenine, atp, metabolism, scid, pharmacometabolomics]
 source: "[[CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]"
 extraction-date: 2026-03-04
-status: conscious
+status: extracted
 parent-moc: [[MOC-Nucleotide-Metabolism]]
 ---
 

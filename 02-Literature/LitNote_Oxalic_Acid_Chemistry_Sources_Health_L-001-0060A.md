@@ -5,7 +5,7 @@ title: "Oxalic Acid: Chemistry, Dietary Sources, and Health Implications"
 authors: ChatGPT CGPT-0413
 year: 2024
 relevance: High — PhD marker, oxalate biochemistry, kidney stone pathophysiology
-status: extracting
+status: complete
 parent-moc: [[MOC-Adipic-Acid-Metabolism]]
 extraction-date: 2026-03-04
 ---

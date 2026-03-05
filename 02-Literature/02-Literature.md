@@ -74,7 +74,7 @@ See: `[[06-Structure/Templates/Template_LitNote_v1.0]]`
 ```markdown
 ---
 uid: L-{DDD}-{SSSS}
-type: litnote
+type: index
 source: [[Hub_Card_Author_Year]]
 authors: [Author, A.]
 year: 2024

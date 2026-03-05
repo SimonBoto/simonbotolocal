@@ -6,7 +6,7 @@ authors: ChatGPT CGPT-0413
 year: 2024
 journal: ChatGPT Archive
 relevance: High — PhD marker for adipic acid metabolism, oxalate biochemistry
-status: extracting
+status: complete
 parent-moc: [[MOC-Adipic-Acid-Metabolism]]
 extraction-date: 2026-03-04
 ---
