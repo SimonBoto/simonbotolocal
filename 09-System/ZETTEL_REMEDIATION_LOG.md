@@ -47,11 +47,34 @@ To be cataloged...
 
 ## EXECUTION LOG
 
-### Batch 1: UID Reassignment (Z-001-0001 to Z-001-0005)
-- [ ] Rename file
-- [ ] Update YAML uid field
-- [ ] Update YAML aliases
-- [ ] Update filename reference in body
-- [ ] Find and update any linking zettels
-- [ ] Commit
+### PHASE 1: UID Reassignment — ✅ COMPLETE
+**Commits:** `73acc51`, `ac8bee6`
+**Scope:** All 20 duplicate UIDs resolved
+- Z-001-0001 → Z-001-0901 (Systems Biology)
+- Z-001-0002 → Z-001-0902 (Omics Cascade)
+- Z-001-0003 → Z-001-0903 through Z-001-0014 → Z-001-0914
+- Z-001-0501 → Z-001-0915 through Z-001-0504 → Z-001-0918
+- Z-001-0512 → Z-001-0919, Z-001-0513 → Z-001-0920
+
+**Actions per file:**
+- ✅ Updated YAML uid field
+- ✅ Added deprecated alias
+- ✅ Renamed to bracket format `[Z-XXX-XXXX]`
+- ✅ Updated all inbound links
+- ✅ Added `updated: 2026-03-05`
+
+### PHASE 2: LitNote Fixes — ✅ COMPLETE
+**Commit:** `b61a0c6`
+
+**Status Corrections (12):**
+- `extracting` → `complete`: L-001-0060, L-001-0060A
+- `conscious` → `extracted`: 10 LitNotes (L-101-0045A, L-001-0046B, L-001-0046A, L-001-0045E, L-001-0045F, L-001-0045G, L-001-0045H, L-101-0045B, L-001-0045C, L-001-0045D)
+
+**Type Corrections (10):**
+- `litnote` → `lit-note`: All 10 above + 02-Literature.md → `index`
+
+**Verification:**
+- 0 remaining `status: conscious` in LitNotes
+- 0 remaining `status: extracting` in LitNotes
+- 0 remaining `type: litnote` in LitNotes
 
