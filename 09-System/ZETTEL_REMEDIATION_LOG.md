@@ -78,3 +78,17 @@ To be cataloged...
 - 0 remaining `status: extracting` in LitNotes
 - 0 remaining `type: litnote` in LitNotes
 
+### PHASE 3: Legacy Naming Cleanup — ✅ COMPLETE
+**Commit:** `[pending]`
+
+**Scope:** 59 files renamed from `_Z-XXX-XXXX.md` to `_[Z-XXX-XXXX].md`
+
+**Pattern:**
+- Before: `Topic_Z-001-0001.md`
+- After: `Topic_[Z-001-0001].md`
+
+**Verification:**
+- 0 legacy `_Z-` files remaining in Conscious/
+- 422 files with proper `[Z-]` format
+- 1 index file (03-Zettels-Conscious.md)
+
