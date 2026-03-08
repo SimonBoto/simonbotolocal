@@ -1,0 +1,75 @@
+---
+uid: L-001-0613
+type: lit-note
+title: TP53 Multiple Myeloma Prognosis and Therapy
+authors: ChatGPT Analysis (CGPT-0264)
+year: 2024
+journal: ChatGPT Archive
+doi: N/A
+pmid: N/A
+pmcid: N/A
+tier: 3
+relevance: High — TP53 abnormalities, del(17p), p53 dysfunction, MDM2 inhibitors, therapeutic strategies
+status: extracted
+parent-moc: [[MOC-Hematology-Oncology]]
+extraction-date: 2026-03-08
+---
+
+# Lit: ChatGPT 2024 — TP53 Multiple Myeloma Prognosis and Therapy
+
+## Source
+- **ChatGPT conversation:** [[CGPT_0264_Warburg_Effect_and_Cancer_[CGPT-0264].md]]
+- **Date:** October 27, 2024
+
+## Core Concepts Extracted
+
+### 1. TP53 Abnormalities in Multiple Myeloma
+> "Deletion of 17p (del(17p)) containing TP53 occurs in 5-10% of newly diagnosed MM and up to 50% of relapsed cases—associated with poor prognosis."
+
+**Zettel extracted:** [[TP53_Abnormalities_Multiple_Myeloma_del17p_[Z-001-1135].md]]
+
+### 2. Functional Consequences
+> "Loss of p53 function leads to genomic instability, proliferation, apoptosis resistance, and therapeutic resistance."
+
+**Zettel extracted:** [[p53_Function_Loss_Cancer_Consequences_[Z-001-1136].md]]
+
+### 3. Therapeutic Strategies
+> "Novel approaches targeting MDM2, proteasome inhibitors, and immunotherapy may overcome p53 deficiency."
+
+**Zettel extracted:** [[Targeting_p53_Dysfunction_MDM2_Inhibitors_[Z-001-1137].md]]
+
+## TP53 Significance in MM
+
+| Feature | Frequency | Impact |
+|---------|-----------|--------|
+| **del(17p)** | 5-10% (newly diagnosed) | High risk |
+| **TP53 mutations** | Often concurrent with del(17p) | Worse prognosis |
+| **Relapsed disease** | Up to 50% | Acquired resistance |
+
+## Therapeutic Challenges
+
+| Challenge | Reason |
+|-----------|--------|
+| **Resistant to IMiDs** | p53-independent mechanisms |
+| **Poor ASCT outcome** | High relapse rate |
+| **Rapid progression** | Genomic instability |
+
+## My Notes
+
+**Synthesis:** TP53 abnormalities represent the highest risk category in multiple myeloma—requiring intensified treatment approaches and novel therapeutic strategies targeting the p53 pathway or bypassing its loss.
+
+## Zettels Created from This Source
+1. [[TP53_Abnormalities_Multiple_Myeloma_del17p_[Z-001-1135].md]]
+2. [[p53_Function_Loss_Cancer_Consequences_[Z-001-1136].md]]
+3. [[Targeting_p53_Dysfunction_MDM2_Inhibitors_[Z-001-1137].md]]
+
+## Related References
+- [[MOC-Hematology-Oncology]]
+- [[Multiple_Myeloma_Staging_ISS_R-ISS_[Z-001-1133].md]]
+- [[Multiple_Myeloma_Treatment_Modern_Approach_[Z-001-1134].md]]
+
+---
+
+*Literature note processed: 2026-03-08*
+*Zettels extracted: 3*
+*Status: extracted*
