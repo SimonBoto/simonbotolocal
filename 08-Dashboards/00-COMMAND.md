@@ -1,101 +1,74 @@
----
-uid: 20260307213000
-type: index
-title: "00-COMMAND — Current Objectives"
-aliases: [COMMAND, Objectives, Priorities]
-tags: [command, dashboard, priorities]
-parent-moc: [[08-Dashboards/Dashboard_Home]]
-status: active
-confidence: high
-extraction-date: 2026-03-07
----
+# 00-COMMAND — Priority Command Center
 
-# 🎯 COMMAND — Current Objectives
-
-> **Your strategic direction for RON**  
-> **Last Updated:** 2026-03-07 21:30 (March 7 Session Complete)
-> **Update Frequency:** When priorities change
+**Last Updated:** 2026-03-08 (Sunday Record Extraction Day)
 
 ---
 
-## 🚨 P0 — DO FIRST (Critical Path)
+## 🎯 CURRENT P0 (Next Action)
 
-- [x] **Complete 30 Cycles** — The Thirtyfold Path finished ✅ 2026-02-28
-- [x] **Extract ChatGPT Archive** — 673 conversations preserved ✅ 2026-02-28
-- [x] **Archive failed extraction** — Extracted/Synthesis → 07-Archive/ ✅ 2026-03-01
-- [x] **Cholesterol-Lipid Domain** — 6 LitNotes, 36 zettels ✅ 2026-03-01
-- [x] **Mitochondrial Domain** — 5 LitNotes, 21 zettels ✅ 2026-03-01
-- [x] **MASSIVE EXTRACTION MARATHON** — 100 files, 8 domains ✅ 2026-03-07
-  - [x] Seed Oils (6 LitNotes, 27 zettels)
-  - [x] Protein & CKD (3 LitNotes, 10 zettels)
-  - [x] Endocrinology (3 LitNotes, 9 zettels)
-  - [x] Enzyme Pharmacology (2 LitNotes, 4 zettels)
-  - [x] Gastroenterology (1 LitNote, 7 zettels)
-  - [x] Research Methods/Ethics (2 LitNotes, 13 zettels)
-  - [x] Clinical Laboratory (1 LitNote, 1 zettel)
-- [ ] **Adipic Acid Extraction** — PhD marker 🎯 NEXT SESSION
-- [ ] **Extract 10 GOLD references** — PhD milestone (IRB prep)
-- [ ] **Draft IRB Section 1** — Literature review for METHAP trial
+### P0-A: METHAP PhD Materials Review
+**Context:** 5 LitNotes + 19 zettels extracted today for PhD methodology  
+**Action:** Review L-001-0615 through L-001-0619; align with actual protocol  
+**ETA:** 30 minutes  
+**Blocked by:** None
+
+### P0-B: Inbox Processing (10 Sources)
+**Context:** CGPT-0133, CGPT-0284, and 8 others pending  
+**Action:** Quick-scan for priority; queue for extraction  
+**ETA:** 20 minutes  
+**Blocked by:** None
 
 ---
 
-## 📋 P1 — DO NEXT (This Week/Month)
+## 📋 ACTIVE QUEUE
 
-- [ ] CGPT-0598 (Pilocytic Astrocytoma) — Neuro-oncology, 346 lines
-- [ ] CGPT-0039 (Necrotic Arachnidism) — Toxicology, 299 lines
-- [ ] CGPT-0188 (Hypercalcemia) — Endocrinology, 103 lines
-- [ ] CGPT-0189 (Sirolimus mTOR) — Mechanistic depth available
-- [ ] TFA (Trans Fatty Acids) — P0 gap remaining
-- [ ] Bisphosphonates — P0 gap, bone health
-- [ ] Create MOC-Mitochondrial-Function.md — Connect 21 zettels
-- [ ] Create MOC-Gastroenterology.md — Connect 7 zettels
-- [ ] Establish references workflow — Populate 01-References/Hub/
-- [ ] Monthly MEMORY.md review — Promote enduring insights
+### P1: Adipic Acid Extraction (PhD/IRB Critical)
+**Status:** Deferred for conversation extractions — STILL CRITICAL  
+**Context:** Domain 101, core to PhD research  
+**Next Action:** Schedule focused session  
+**Deadline:** Before IRB submission
 
----
+### P2: Zettel Curation (30-Day Review)
+**Status:** ~50 new zettels from this week eligible for review  
+**Context:** Conscious → Subconscious promotion candidates  
+**Next Action:** Sunday curation pulse (automated reminder)
 
-## 🔮 P2 — BACKLOG (Ongoing)
-
-- [ ] Daily zettel creation (3/day target)
-- [ ] Set up Gmail integration (deferred)
-- [ ] Zotero MCP integration (deferred)
-- [ ] ~70 remaining ChatGPT clinical sources
+### P3: Git Maintenance
+**Status:** Repository healthy  
+**Context:** 15 commits today, all clean  
+**Next Action:** Weekly checkpoint Sunday nights
 
 ---
 
-## 🎯 STANDING ORDERS
+## ✅ TODAY'S WINS (2026-03-08)
 
-1. **Source Preservation Protocol** — Verify before extraction
-2. **Master Inventory** — Track all conversations with completion %
-3. **Batch Extraction** — 4-6 LitNotes per conversation optimal
-4. **Git Discipline** — Commit every 3-5 LitNotes
-5. **LitNote First** — Structure guides atomic zettel extraction
-6. **Cross-Reference** — Link to existing zettels for continuity
-
----
-
-## 📊 MARCH 7 ACHIEVEMENT
-
-**MASSIVE EXTRACTION MARATHON:**
-- **14 clinical sources processed**
-- **21 LitNotes created**
-- **80 zettels extracted**
-- **100 total files committed**
-- **~37,000+ lines added**
-- **8 clinical domains covered**
-
-### Domains Established
-✅ **Metabolic Medicine** — Omega-6, 5 Pillars, metabolic flexibility
-✅ **Nephrology** — Protein/CKD, MDRD, albumin interpretation
-✅ **Endocrinology** — Male hormones, ALP, Paget's, thyroid
-✅ **Enzyme Pharmacology** — MAO, DAO, receptor tyrosine kinases
-✅ **Gastroenterology** — IBD, EUS, cirrhosis, celiac, pancreatitis, GI bleeding, CRC
-✅ **Research Methods** — Meta-analysis, systematic reviews, peer review
-✅ **Research Ethics** — Historical frameworks, vulnerable populations
-✅ **Clinical Laboratory** — Biomarkers panel
-
-**Total Fortress:** ~72 LitNotes, ~400 zettels (est.)
+| Conversation | LitNotes | Zettels | Status |
+|--------------|----------|---------|--------|
+| CGPT-0022 Metabolomics Training | 12 | 53 | ✅ COMPLETE |
+| CGPT-0445 Advanced Biochemistry | 8 | 36 | ✅ COMPLETE |
+| CGPT-0264 Warburg/Cancer | 7 | 24 | ✅ COMPLETE |
+| CGPT-0475 METHAP PhD | 5 | 19 | ✅ COMPLETE |
+| **TOTAL** | **32** | **132** | **RECORD DAY** |
 
 ---
 
-*Next: Recovery, curation, or continued extraction. Simos decides.*
+## 🗓️ WEEK AHEAD
+
+| Day | Focus |
+|-----|-------|
+| **Monday** | METHAP protocol alignment, clinic integration |
+| **Tuesday** | Inbox processing, Adipic Acid scheduling |
+| **Wednesday** | Patient cases, zettel review |
+| **Thursday** | Deep work: Adipic Acid extraction |
+| **Friday** | Wrap-up, weekend curation prep |
+
+---
+
+## 🚧 BLOCKERS
+
+None currently.
+
+---
+
+*Command Center for TheOptimizedBrain v4.1*  
+*RON Operating Protocol L2.5*
