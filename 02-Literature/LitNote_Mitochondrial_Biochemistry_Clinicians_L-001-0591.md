@@ -1,0 +1,107 @@
+---
+uid: L-001-0591
+type: lit-note
+title: Mitochondrial Biochemistry for Clinicians
+authors: ChatGPT Analysis (CGPT-0022)
+year: 2025
+journal: ChatGPT Archive
+doi: N/A
+pmid: N/A
+pmcid: N/A
+tier: 3
+relevance: High — Comprehensive mitochondrial mechanisms, Krebs cycle, OXPHOS, cofactors, OAT interpretation
+status: extracted
+parent-moc: [[MOC-Mitochondrial-Function]]
+extraction-date: 2026-03-08
+---
+
+# Lit: ChatGPT 2025 — Mitochondrial Biochemistry for Clinicians
+
+## Source
+- **ChatGPT conversation:** [[CGPT_0022_Metabolomics_training_role_[CGPT-0022].md]]
+- **Date:** December 08, 2025
+- **Context:** Medical biochemistry training for metabolomics clinicians
+
+## Core Concepts Extracted
+
+### 1. Krebs Cycle Architecture
+> "Central mitochondrial pathway oxidizing acetyl-CoA to CO₂ while producing NADH, FADH₂, GTP, and biosynthetic intermediates."
+
+**Zettel extracted:** [[Krebs_Cycle_Clinical_Biochemistry_[Z-001-1048].md]]
+
+### 2. TCA Intermediates and Enzymes
+> "Citrate, isocitrate, α-ketoglutarate, succinate, fumarate, malate, oxaloacetate—each with clinical significance."
+
+**Zettel extracted:** [[TCA_Intermediates_Clinical_Significance_[Z-001-1049].md]]
+
+### 3. Oxidative Phosphorylation System
+> "Electron transport Complexes I-IV + ATP synthase; requires NADH, FADH₂, oxygen, membrane potential."
+
+**Zettel extracted:** [[Oxidative_Phosphorylation_Clinical_Mechanisms_[Z-001-1050].md]]
+
+### 4. Redox Balance and Cofactors
+> "NAD+/NADH and FAD/FADH₂ as electron carriers; B-vitamin derived, rate-limiting for metabolism."
+
+**Zettel extracted:** [[Redox_Cofactors_NAD_FAD_Biochemistry_[Z-001-1051].md]]
+
+### 5. Cofactor Deficiency Signatures
+> "OAT patterns revealing B-vitamin and mineral deficiencies: pyruvate→B1, methylmalonate→B12, FIGLU→folate."
+
+**Zettel extracted:** [[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052].md]]
+
+### 6. Aconitase and Oxidative Stress
+> "Iron-sulfur enzyme sensitive to oxidative stress; marker of mitochondrial damage."
+
+**Zettel extracted:** [[Aconitase_Oxidative_Stress_Sensitivity_[Z-001-1053].md]]
+
+## Clinical Integration Points
+
+| OAT Marker | Cofactor Needed | Deficiency Signature |
+|------------|-----------------|---------------------|
+| Elevated pyruvate | B1 (TPP) | Energy metabolism block |
+| Elevated methylmalonate | B12 (adenosylcobalamin) | Odd-chain fatty acid oxidation |
+| Elevated FIGLU | Folate (THF) | One-carbon metabolism |
+| Elevated lactate/pyruvate | B1, B3, Mg²⁺ | Redox imbalance |
+
+## Pyruvate Dehydrogenase Complexity
+This single enzyme requires:
+- TPP (B1)
+- FAD (B2)
+- NAD⁺ (B3)
+- CoA (B5)
+- Mg²⁺
+- Lipoic acid
+
+**Clinical implication:** Deficiency in any cofactor → blocked pyruvate entry → lactic acidosis.
+
+## My Notes
+
+**Synthesis:** Mitochondrial biochemistry is cofactor-dependent; OAT interpretation requires understanding which enzyme needs which vitamin/mineral.
+
+**Connection to METHAP/PhD:** Redox balance and mitochondrial function are core to insulin resistance mechanisms.
+
+## Zettels Created from This Source
+1. [[Krebs_Cycle_Clinical_Biochemistry_[Z-001-1048].md]] — TCA cycle overview
+2. [[TCA_Intermediates_Clinical_Significance_[Z-001-1049].md]] — Individual intermediates
+3. [[Oxidative_Phosphorylation_Clinical_Mechanisms_[Z-001-1050].md]] — ETC and ATP synthase
+4. [[Redox_Cofactors_NAD_FAD_Biochemistry_[Z-001-1051].md]] — NAD+/NADH, FAD/FADH₂
+5. [[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052].md]] — Clinical interpretation
+6. [[Aconitase_Oxidative_Stress_Sensitivity_[Z-001-1053].md]] — Oxidative stress marker
+
+## Related References
+- [[MOC-Mitochondrial-Function]] — Parent domain
+- [[MOC-Krebs-Cycle]] — Pathway specific
+- [[Mitochondrial_Energy_Terminology_[Z-001-1043].md]] — Vocabulary foundation
+
+---
+
+*Literature note processed: 2026-03-08*
+*Zettels extracted: 6*
+*Status: extracted*
+
+---
+
+## Post-Extraction Verification Checklist
+- [x] All zettel links use FULL format
+- [x] No bare UIDs
+- [x] Concept count matches list
