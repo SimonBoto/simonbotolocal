@@ -1,0 +1,80 @@
+---
+uid: L-001-0637
+type: litnote
+title: LitNote — Therapeutic Fasting and Fermentation (CGPT-0199)
+authors: ChatGPT Analysis (CGPT-0199)
+year: 2025
+journal: ChatGPT Archive
+tier: 2
+relevance: High — Kefir fermentation, therapeutic fasting protocols, gut reset strategies
+status: extracted
+parent-moc: [[MOC-Gut-Health]]
+extraction-date: 2026-03-09
+---
+
+# Therapeutic Fasting and Fermentation
+
+## Source
+- **ChatGPT conversation:** [[CGPT_0199_Dysbiosis_Treatment_Side_Effects_[CGPT-0199].md]]
+- **Date:** January 4, 2025
+- **Messages:** 13-50 (kefir, fasting protocols)
+
+## Core Concepts
+
+### 1. Kefir Grain Reactivation
+**Procedure:**
+1. Rinse dormant grains
+2. Small milk volume (1:5 ratio grain:milk)
+3. Short fermentation (12-24h initially)
+4. Gradual increase to full strength
+5. Temperature: 20-24°C
+
+**Signs of Health:**
+- Milk thickens in 12-24h
+- Tangy pleasant smell
+- No excessive whey separation
+- Firm, plump grains
+
+### 2. Kefir-Broth-Coffee Fast (72-hour)
+**Components:**
+| Component | Function |
+|-----------|----------|
+| **Kefir** | Probiotics, SCFAs, gut reseeding |
+| **Bone broth** | Collagen, gelatin, electrolytes |
+| **Coffee** | Prokinetic, bile stimulation, ketosis |
+
+**Benefits:**
+- Microbiome reset
+- Gut lining regeneration
+- Metabolic reset (ketosis)
+- Detoxification support
+- Anti-inflammatory
+
+**Considerations:**
+- Not a true water fast (contains calories)
+- Monitor caffeine tolerance
+- Hydration critical
+- Break fast gradually
+
+### 3. Probiotic Strategy
+**Kefir Species:**
+- Lactobacillus
+- Bifidobacterium
+- Saccharomyces boulardii (yeast)
+
+**Post-Antimicrobial:**
+- Timing: After or during antimicrobial phase
+- Form: Fermented foods preferred over supplements
+- Diversity: Rotate fermented foods
+
+## Zettels Created
+1. [[Kefir_Grain_Reactivation_Protocol_[Z-001-1227].md]]
+2. [[Kefir_Broth_Coffee_Fast_Protocol_[Z-001-1228].md]]
+3. [[Fermented_Foods_Probiotic_Strategy_[Z-001-1229].md]]
+
+## Related
+- [[MOC-Gut-Health]]
+- [[MOC-Fasting-Protocols]]
+
+---
+*Extracted: 2026-03-09*
