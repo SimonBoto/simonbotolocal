@@ -27,19 +27,28 @@ created: 2026-03-30
 
 ## 2. REFERENCE RANGES (Simos Clinical Targets)
 
-### Ferritin - CRITICAL MARKER
-| Range | Standard | Simos Optimal | Clinical Significance |
-|-------|----------|---------------|----------------------|
-| **Deficiency** | <15 ng/mL | **<30** | Iron deficiency anemia |
-| **Low** | 15-30 | 30-50 | Depleted stores, functional deficiency |
-| **Optimal** | 30-300 | **50-100** | Ideal iron status |
-| **High-normal** | 300-500 | 100-200 | Monitor trend |
-| **Elevated** | >500 | **>200** | Inflammation, iron overload |
+### Ferritin - CRITICAL MARKER (Sex-Specific)
 
-**Simos Critical Rule:**
-- **Ferritin <30 = Iron deficiency (regardless of other markers)**
-- **Ferritin >200 = Check for inflammation or iron overload**
-- **Optimal: 50-100 ng/mL**
+**WOMEN:**
+| Range | Value | Clinical Significance |
+|-------|-------|----------------------|
+| **Deficiency** | **<30 ng/mL** | Iron deficiency (lowest cutoff) |
+| **Low** | 30-50 | Suboptimal |
+| **Optimal** | **~70** | Ideal for women |
+| **Elevated** | **>120** | **Hides methylation difficulty** — check 5-methylfolate, methylmalonic, homocysteine |
+
+**MEN:**
+| Range | Value | Clinical Significance |
+|-------|-------|----------------------|
+| **Deficiency** | **<30 ng/mL** | Iron deficiency |
+| **Optimal** | 50-100 | Ideal range |
+| **Watchful** | **>300** | **Problematic — monitor closely** |
+| **Overload** | >1000 | Hemochromatosis risk |
+
+**Simos Critical Rules:**
+- **Ferritin <30 = Iron deficiency (both sexes, regardless of other markers)**
+- **Women: Optimal ~70; >120 check methylation axis (5-methylfolate, methylmalonic, homocysteine)**
+- **Men: >300 = watchful, investigate cause**
 
 ### Serum Iron
 | Range | Value | Notes |
@@ -64,6 +73,8 @@ created: 2026-03-30
 | >60% | Very high | Hemochromatosis likely |
 
 **Simos Rule:** TSAT <20% = iron deficiency; >50% = overload risk
+
+**Women-Specific Note:** Ferritin >120 may indicate impaired iron utilization despite adequate stores — always check methylation status (5-methylfolate, methylmalonic acid, homocysteine)
 
 ### Soluble Transferrin Receptor (sTfR)
 | Range | Value | Notes |
