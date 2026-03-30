@@ -128,6 +128,15 @@ Linoleic Acid (LA) → Δ6-desaturase → GLA → Δ6-elongase → DGLA → Δ5-
 
 **Simos Target: DGLA <80 (INSULIN INDEX)**
 
+**Enzyme Details (Updated Understanding):**
+| Step | Enzyme | Gene | Cofactors | Regulation |
+|------|--------|------|-----------|------------|
+| LA → GLA | Δ6-desaturase | FADS2 | Zinc, B6, Mg | Rate-limiting, shared with omega-3 |
+| GLA → DGLA | Elongase | ELOVL5 | — | — |
+| DGLA → AA | Δ5-desaturase | FADS1 | Zinc, B6, Mg | **Inhibited by insulin** |
+
+**Key Insight:** Both Δ6 and Δ5 desaturases (FADS2 and FADS1) require zinc and vitamin B6. Deficiency of either cofactor impairs the entire pathway, compounding insulin resistance effects.
+
 #### Arachidonic Acid (AA) - μg/mL
 | Range | Interpretation | Index |
 |-------|----------------|-------|
@@ -559,7 +568,81 @@ CORTISOL UPREGULATES SCD1 → More Palmitoleic
 
 ---
 
-## 5. RELATED
+## 5. MITOCHONDRIAL FATTY ACID OXIDATION (Updated Understanding)
+
+**The Complete Pathway: From Blood to Mitochondria**
+
+### Step 1: Activation (Cytoplasm)
+```
+Fatty Acid + CoA + ATP → Fatty Acyl-CoA + AMP + PPi
+```
+- **Enzyme:** Acyl-CoA synthetase
+- **Location:** Cytoplasm
+- **Energy cost:** 2 ATP equivalents
+
+### Step 2: Carnitine Shuttle (Mitochondrial Transport)
+```
+Fatty Acyl-CoA + Carnitine → Acylcarnitine + CoA (CPT-I)
+Acylcarnitine enters matrix via CACT (translocase)
+Acylcarnitine + CoA → Fatty Acyl-CoA + Carnitine (CPT-II)
+```
+
+**Key Enzymes:**
+| Enzyme | Location | Function | Regulation |
+|--------|----------|----------|------------|
+| **CPT-I** | Outer mitochondrial membrane | Rate-limiting step | **Inhibited by malonyl-CoA** |
+| **CACT** | Inner membrane | Translocase | Exchange acylcarnitine/carnitine |
+| **CPT-II** | Matrix side | Releases fatty acid | Constitutive |
+
+**Critical Regulation:**
+- **Fed state (high insulin):** High malonyl-CoA → **CPT-I inhibited** → Fatty acids CANNOT enter mitochondria → Stored as triglycerides
+- **Fasting state (low insulin):** Low malonyl-CoA → **CPT-I active** → Fatty acids enter mitochondria → β-oxidation
+
+### Step 3: β-Oxidation (Mitochondrial Matrix)
+```
+Each cycle removes 2 carbons as acetyl-CoA:
+1. FAD-dependent oxidation → FADH₂
+2. Hydration
+3. NAD⁺-dependent oxidation → NADH
+4. Thiolysis → Acetyl-CoA + shortened fatty acid
+```
+
+**Energy Yield:**
+- Each acetyl-CoA → Krebs cycle → ~10 ATP
+- Each FADH₂ → ETC → ~1.5 ATP
+- Each NADH → ETC → ~2.5 ATP
+- **Palmitate (16:0) → 8 acetyl-CoA → ~106 ATP**
+
+### Clinical Correlation: Adipic Acid
+**Why Elevated Adipic Acid = Impaired β-Oxidation:**
+
+| Scenario | Mechanism | Result |
+|----------|-----------|--------|
+| **Insulin resistance** | High insulin → High malonyl-CoA → CPT-I inhibited | Fatty acids can't enter mitochondria |
+| **Carnitine deficiency** | Can't transport fatty acids into matrix | β-oxidation blocked |
+| **Mitochondrial dysfunction** | Impaired β-oxidation enzymes | Incomplete oxidation |
+
+**ω-Oxidation (Alternative Pathway):**
+- When β-oxidation blocked, fatty acids undergo ω-oxidation in peroxisomes
+- Produces dicarboxylic acids (adipic, suberic, sebacic)
+- **Elevated adipic acid = β-oxidation impairment = mitochondrial dysfunction**
+
+### Carnitine Deficiency Patterns
+| Cause | Effect | Solution |
+|-------|--------|----------|
+| **Vegan diet** | Low carnitine intake | L-carnitine supplement |
+| **Aging** | Reduced synthesis | Acetyl-L-carnitine |
+| **Insulin resistance** | Competitive inhibition | Fix IR first |
+| **Mitochondrial disease** | Transport failure | Supportive care |
+
+**Supplementation:**
+- **L-Carnitine:** 1-3g daily for fatty acid transport
+- **Acetyl-L-Carnitine:** 500-1000mg for brain/mitochondrial support
+- **Propionyl-L-Carnitine:** For cardiovascular
+
+---
+
+## 6. RELATED
 
 - [[Omega_Fatty_Acids_Framework_[S-001-0005]]]: Dietary intervention
 - [[IR_Playbook_Clinical_Decision_Tool_[S-001-0001]]]: Insulin resistance
