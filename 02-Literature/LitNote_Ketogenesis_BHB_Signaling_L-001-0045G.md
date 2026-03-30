@@ -186,13 +186,13 @@ Acetyl-CoA → Krebs cycle → ATP
 
 ## Zettels Extracted
 
-- [[Z-001-0481]] Ketogenesis Pathway and Regulation
-- [[Z-001-0482]] The Three Ketone Bodies
-- [[Z-001-0483]] BHB is a Hydroxy Acid Not a Ketone
-- [[Z-001-0484]] BHB as Energy Substrate for Brain and Heart
-- [[Z-001-0485]] BHB HDAC Inhibition and Epigenetic Effects
-- [[Z-001-0486]] BHB NLRP3 Inflammasome Inhibition
-- [[Z-001-0487]] Physiological vs Pathological Ketosis
+- [[Ketogenesis_Pathway_Regulation_[Z-001-0481]]] Ketogenesis Pathway and Regulation
+- [[Three_Ketone_Bodies_[Z-001-0482]]] The Three Ketone Bodies
+- [[BHB_Hydroxy_Acid_Not_Ketone_[Z-001-0483]]] BHB is a Hydroxy Acid Not a Ketone
+- [[BHB_Energy_Substrate_Brain_Heart_[Z-001-0484]]] BHB as Energy Substrate for Brain and Heart
+- [[BHB_HDAC_Inhibition_Epigenetics_[Z-001-0485]]] BHB HDAC Inhibition and Epigenetic Effects
+- [[BHB_NLRP3_Inflammasome_Inhibition_[Z-001-0486]]] BHB NLRP3 Inflammasome Inhibition
+- [[Physiological_vs_Pathological_Ketosis_[Z-001-0487]]] Physiological vs Pathological Ketosis
 
 ---
 

@@ -58,8 +58,8 @@ NOT all carboxylic acids are keto acids
 - **Carboxylic acids:** Often end products or substrates
 
 ## Related
-- [[Z-001-0477]] Pyruvate Central Role
-- [[Z-001-0478]] Propionate Metabolism
+- [[Pyruvate_Central_Metabolic_Role_[Z-001-0477]]] Pyruvate Central Role
+- [[Propionate_Metabolism_Gluconeogenesis_[Z-001-0478]]] Propionate Metabolism
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

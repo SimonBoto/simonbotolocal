@@ -122,6 +122,6 @@ This framework applies universally, though adaptations may be needed for local h
 
 ## Post-Extraction Verification Checklist
 - [x] All zettel links use FULL format: `[[Title_[Z-002-0601].md]]`
-- [x] No bare UIDs: `[[Z-002-0601]]` → will create empty notes
+- [x] No bare UIDs: `[[Social_Clinical_Value_Ethical_Research_[Z-002-0601]]]` → will create empty notes
 - [x] Verify with: `grep -r '\[\[Z-[0-9]\{4\}-[0-9]\{4\}\]\]' this_file.md` (should return nothing)
 - [x] Concept count matches "Zettels Created from This Source" list

@@ -147,11 +147,11 @@ parent-moc: [[MOC-Origins-of-Life]]
 
 ## Zettels Extracted
 
-- [[Z-101-0454]] HCN Polymerization to Adenine Mechanism
-- [[Z-101-0455]] Meteoritic Nucleobases and Panspermia
-- [[Z-101-0456]] RNA World Hypothesis and Early Evolution
-- [[Z-101-0463]] Formamide Chemistry: Alternative Prebiotic Pathway
-- [[Z-101-0464]] Timeline Prebiotic Chemistry to LUCA
+- [[HCN_Polymerization_Adenine_Mechanism_[Z-101-0454]]] HCN Polymerization to Adenine Mechanism
+- [[Meteoritic_Nucleobases_Panspermia_[Z-101-0455]]] Meteoritic Nucleobases and Panspermia
+- [[RNA_World_Hypothesis_Evolution_[Z-101-0456]]] RNA World Hypothesis and Early Evolution
+- [[Formamide_Chemistry_Prebiotic_Pathway_[Z-101-0463]]] Formamide Chemistry: Alternative Prebiotic Pathway
+- [[Timeline_Prebiotic_Chemistry_to_LUCA_[Z-101-0464]]] Timeline Prebiotic Chemistry to LUCA
 
 ---
 

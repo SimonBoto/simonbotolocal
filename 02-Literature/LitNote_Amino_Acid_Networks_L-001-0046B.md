@@ -174,11 +174,11 @@ Methylglutaconyl-CoA → HMG-CoA → Acetoacetate + Acetyl-CoA
 
 ## Zettels Extracted
 
-- [[Z-001-0500]] α-Keto Acids as Metabolic Intermediates
-- [[Z-001-0915]] Glutamate: The Central Amino Acid Hub
-- [[Z-001-0916]] Glutamine-Glutamate-Ammonia Cycle
-- [[Z-001-0917]] Glutamate-Arginine-Urea Cycle Connection
-- [[Z-001-0918]] Aspartate: Simple Structure, Central Role
+- [[Alpha_Keto_Acids_Metabolic_Intermediates_[Z-001-0500]]] α-Keto Acids as Metabolic Intermediates
+- [[Glutamate_Central_Amino_Acid_Hub_[Z-001-0915]]] Glutamate: The Central Amino Acid Hub
+- [[Glutamine_Glutamate_Ammonia_Cycle_[Z-001-0916]]] Glutamine-Glutamate-Ammonia Cycle
+- [[Glutamate_Arginine_Urea_Cycle_[Z-001-0917]]] Glutamate-Arginine-Urea Cycle Connection
+- [[Aspartate_Simple_Structure_Central_Role_[Z-001-0918]]] Aspartate: Simple Structure, Central Role
 
 ---
 

@@ -66,8 +66,8 @@ Fructose consumption linked to:
 - Dyslipidemia
 
 ## Related
-- [[Z-001-0472]] Glucose Metabolism (contrast)
-- [[Z-001-0468]] Fructose as Glycolytic Intermediate (different!)
+- [[Glucose_Metabolism_Overview_[Z-001-0472]]] Glucose Metabolism (contrast)
+- [[Fructose_Glycolytic_Intermediate_[Z-001-0468]]] Fructose as Glycolytic Intermediate (different!)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

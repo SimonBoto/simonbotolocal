@@ -69,8 +69,8 @@ Acetyl-CoA → Krebs cycle → ATP
 ```
 
 ## Related
-- [[Z-001-0485]] BHB HDAC Inhibition (signaling beyond energy)
-- [[Z-001-0486]] BHB NLRP3 Inhibition
+- [[BHB_HDAC_Inhibition_Epigenetics_[Z-001-0485]]] BHB HDAC Inhibition (signaling beyond energy)
+- [[BHB_NLRP3_Inflammasome_Inhibition_[Z-001-0486]]] BHB NLRP3 Inhibition
 - [[MOC-Ketogenesis]]
 
 ---

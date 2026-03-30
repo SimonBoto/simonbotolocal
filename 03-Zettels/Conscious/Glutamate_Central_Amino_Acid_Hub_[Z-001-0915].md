@@ -83,9 +83,9 @@ All converge on glutamate:
 - Neurotransmitter function
 
 ## Related
-- [[Z-001-0494]] Amino Acids to α-Ketoglutarate
-- [[Z-001-0916]] Glutamine-Glutamate-Ammonia Cycle
-- [[Z-001-0917]] Glutamate-Arginine-Urea Cycle
+- [[Amino_Acids_Alpha_Ketoglutarate_Hub_[Z-001-0494]]] Amino Acids to α-Ketoglutarate
+- [[Glutamine_Glutamate_Ammonia_Cycle_[Z-001-0916]]] Glutamine-Glutamate-Ammonia Cycle
+- [[Glutamate_Arginine_Urea_Cycle_[Z-001-0917]]] Glutamate-Arginine-Urea Cycle
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

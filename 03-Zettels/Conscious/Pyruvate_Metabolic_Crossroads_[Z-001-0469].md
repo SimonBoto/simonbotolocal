@@ -71,8 +71,8 @@ Pyruvate connects:
 - Treat with ketogenic diet (bypasses PDH)
 
 ## Related
-- [[Z-001-0477]] Pyruvate Central Role (detailed)
-- [[Z-001-0467]] Glycolysis Steps
+- [[Pyruvate_Central_Metabolic_Role_[Z-001-0477]]] Pyruvate Central Role (detailed)
+- [[Glycolysis_Steps_Regulation_[Z-001-0467]]] Glycolysis Steps
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

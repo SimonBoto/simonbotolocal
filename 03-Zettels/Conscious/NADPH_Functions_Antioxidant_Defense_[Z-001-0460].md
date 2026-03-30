@@ -62,7 +62,7 @@ NADPH + 2O₂ → 2O₂⁻ + NADP⁺ + H⁺
 | Metabolic state | Catabolism | Anabolism |
 
 ## Related
-- [[Z-001-0457]] PPP Oxidative Phase (major NADPH source)
+- [[PPP_Oxidative_Phase_[Z-001-0457]]] PPP Oxidative Phase (major NADPH source)
 - [[MOC-Antioxidant-Defense]]
 
 ---

@@ -70,9 +70,9 @@ Valine/Isoleucine/Leucine → Branched-chain α-keto acid
 - Non-responsive: Requires dietary restriction of propionate precursors
 
 ## Related
-- [[Z-001-0478]] Propionate Metabolism (detailed pathway)
-- [[Z-001-0479]] Vitamin Dependence
-- [[Z-001-0498]] Ketogenic Amino Acids
+- [[Propionate_Metabolism_Gluconeogenesis_[Z-001-0478]]] Propionate Metabolism (detailed pathway)
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_[Z-001-0479]]] Vitamin Dependence
+- [[Ketogenic_Amino_Acids_Leucine_Lysine_[Z-001-0498]]] Ketogenic Amino Acids
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

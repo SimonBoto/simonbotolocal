@@ -77,8 +77,8 @@ Key enzymes ~30-50% identical across domains:
   - Frozen environments
 
 ## Related
-- [[Z-101-0464]] Timeline Prebiotic to LUCA
-- [[Z-001-0466]] Triose Structure
+- [[Timeline_Prebiotic_Chemistry_to_LUCA_[Z-101-0464]]] Timeline Prebiotic to LUCA
+- [[Triose_Structure_Glyceraldehyde_DHAP_[Z-001-0466]]] Triose Structure
 - [[MOC-Evolutionary-Biochemistry]]
 
 ---

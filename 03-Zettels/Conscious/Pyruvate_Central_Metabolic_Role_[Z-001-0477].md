@@ -61,9 +61,9 @@ Pyruvate + Glutamate → Alanine + α-ketoglutarate
 - Treatment: Ketogenic diet (bypasses PDH)
 
 ## Related
-- [[Z-001-0469]] Pyruvate Metabolic Crossroads
-- [[Z-001-0467]] Glycolysis Steps
-- [[Z-001-0479]] Vitamin Dependence
+- [[Pyruvate_Metabolic_Crossroads_[Z-001-0469]]] Pyruvate Metabolic Crossroads
+- [[Glycolysis_Steps_Regulation_[Z-001-0467]]] Glycolysis Steps
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_[Z-001-0479]]] Vitamin Dependence
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

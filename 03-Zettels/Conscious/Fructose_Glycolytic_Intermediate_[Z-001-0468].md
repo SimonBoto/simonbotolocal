@@ -50,8 +50,8 @@ Glucose-6-phosphate → Fructose-6-phosphate (phosphoglucose isomerase)
 - Fructose intermediate is structural requirement for cleavage
 
 ## Related
-- [[Z-001-0473]] Fructose Metabolism (dietary)
-- [[Z-001-0467]] Glycolysis Steps
+- [[Fructose_Metabolism_Lipogenesis_[Z-001-0473]]] Fructose Metabolism (dietary)
+- [[Glycolysis_Steps_Regulation_[Z-001-0467]]] Glycolysis Steps
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

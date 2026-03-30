@@ -51,8 +51,8 @@ G3P connects:
 **G3P as branch point:** Metabolic flexibility allows cells to switch between energy production and biosynthesis based on needs.
 
 ## Related
-- [[Z-001-0460]] Glycolysis Steps and Regulation
-- [[Z-001-0457]] PPP Integration
+- [[NADPH_Functions_Antioxidant_Defense_[Z-001-0460]]] Glycolysis Steps and Regulation
+- [[PPP_Oxidative_Phase_[Z-001-0457]]] PPP Integration
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

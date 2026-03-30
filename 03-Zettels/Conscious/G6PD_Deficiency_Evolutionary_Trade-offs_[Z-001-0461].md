@@ -60,8 +60,8 @@ source: [[L-001-0045C]]
 - Genetic testing for variants
 
 ## Related
-- [[Z-001-0457]] PPP Oxidative Phase (defective enzyme)
-- [[Z-001-0460]] NADPH Functions (what's compromised)
+- [[PPP_Oxidative_Phase_[Z-001-0457]]] PPP Oxidative Phase (defective enzyme)
+- [[NADPH_Functions_Antioxidant_Defense_[Z-001-0460]]] NADPH Functions (what's compromised)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

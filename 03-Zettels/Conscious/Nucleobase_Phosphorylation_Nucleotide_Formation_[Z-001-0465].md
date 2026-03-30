@@ -111,9 +111,9 @@ Builds nucleotides from simple precursors (amino acids, CO₂, formate)
 - Alternative activating agents (imidazolides)
 
 ## Related
-- [[Z-101-0451]] ATP as Universal Energy Currency
-- [[Z-001-0458]] Ribose Structure (sugar component)
-- [[Z-101-0462]] Amino Acids vs Nucleobases (both phosphorylated)
+- [[ATP_Universal_Energy_Currency_[Z-101-0451]]] ATP as Universal Energy Currency
+- [[Ribose_Structure_RNA_Backbone_[Z-001-0458]]] Ribose Structure (sugar component)
+- [[Amino_Acids_vs_Nucleobases_[Z-101-0462]]] Amino Acids vs Nucleobases (both phosphorylated)
 - [[MOC-Nucleotide-Metabolism]]
 
 ---

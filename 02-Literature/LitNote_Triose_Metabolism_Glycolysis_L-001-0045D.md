@@ -144,11 +144,11 @@ Cells can switch between:
 
 ## Zettels Extracted
 
-- [[Z-001-0466]] Triose Structure: Glyceraldehyde and DHAP
-- [[Z-001-0467]] Glycolysis Steps and Regulation
-- [[Z-001-0468]] Fructose as Glycolytic Intermediate
-- [[Z-001-0469]] Pyruvate: Metabolic Crossroads
-- [[Z-001-0470]] Evolutionary Ancient Glycolysis
+- [[Triose_Structure_Glyceraldehyde_DHAP_[Z-001-0466]]] Triose Structure: Glyceraldehyde and DHAP
+- [[Glycolysis_Steps_Regulation_[Z-001-0467]]] Glycolysis Steps and Regulation
+- [[Fructose_Glycolytic_Intermediate_[Z-001-0468]]] Fructose as Glycolytic Intermediate
+- [[Pyruvate_Metabolic_Crossroads_[Z-001-0469]]] Pyruvate: Metabolic Crossroads
+- [[Evolutionary_Ancient_Glycolysis_[Z-001-0470]]] Evolutionary Ancient Glycolysis
 
 ---
 

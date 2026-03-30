@@ -111,8 +111,8 @@ PEPCK transcription ↓
 - PEPCK control is critical
 
 ## Related
-- [[Z-001-0489]] Gluconeogenesis from OAA
-- [[Z-001-0490]] Mitochondrial Shuttles
+- [[Gluconeogenesis_from_Oxaloacetate_[Z-001-0489]]] Gluconeogenesis from OAA
+- [[Mitochondrial_Shuttles_Malate_Aspartate_[Z-001-0490]]] Mitochondrial Shuttles
 - [[MOC-Gluconeogenesis]]
 
 ---

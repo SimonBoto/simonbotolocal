@@ -158,11 +158,11 @@ Fructose → Fructose-1-P → DHAP + Glyceraldehyde
 
 ## Zettels Extracted
 
-- [[Z-001-0471]] Aldose vs Ketose Chemistry
-- [[Z-001-0472]] Glucose Metabolism Overview
-- [[Z-001-0473]] Fructose Metabolism and Lipogenesis
-- [[Z-001-0474]] Common Aldoses and Their Roles
-- [[Z-001-0475]] Common Ketoses and Their Roles
+- [[Aldose_vs_Ketose_Chemistry_[Z-001-0471]]] Aldose vs Ketose Chemistry
+- [[Glucose_Metabolism_Overview_[Z-001-0472]]] Glucose Metabolism Overview
+- [[Fructose_Metabolism_Lipogenesis_[Z-001-0473]]] Fructose Metabolism and Lipogenesis
+- [[Common_Aldoses_Roles_[Z-001-0474]]] Common Aldoses and Their Roles
+- [[Common_Ketoses_Roles_[Z-001-0475]]] Common Ketoses and Their Roles
 
 ---
 

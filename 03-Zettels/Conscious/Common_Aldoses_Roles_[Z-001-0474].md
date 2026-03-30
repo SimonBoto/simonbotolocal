@@ -66,8 +66,8 @@ source: [[L-001-0045E]]
 | Glyceraldehyde | 3 | Glycolysis |
 
 ## Related
-- [[Z-001-0471]] Aldose vs Ketose Chemistry
-- [[Z-001-0475]] Common Ketoses (contrast)
+- [[Aldose_vs_Ketose_Chemistry_[Z-001-0471]]] Aldose vs Ketose Chemistry
+- [[Common_Ketoses_Roles_[Z-001-0475]]] Common Ketoses (contrast)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

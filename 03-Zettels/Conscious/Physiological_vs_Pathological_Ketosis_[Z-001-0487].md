@@ -93,8 +93,8 @@ source: [[L-001-0045G]]
 - **Emergency**
 
 ## Related
-- [[Z-001-0481]] Ketogenesis Pathway
-- [[Z-001-0482]] Three Ketone Bodies
+- [[Ketogenesis_Pathway_Regulation_[Z-001-0481]]] Ketogenesis Pathway
+- [[Three_Ketone_Bodies_[Z-001-0482]]] Three Ketone Bodies
 - [[MOC-Diabetes-T1D]]
 
 ---

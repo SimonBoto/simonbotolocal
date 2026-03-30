@@ -57,8 +57,8 @@ Glucose + 2 NAD⁺ + 2 ADP + 2 Pi → 2 Pyruvate + 2 NADH + 2 ATP + 2 H⁺ + 2 H
 - Activated by: F1,6BP (feed-forward)
 
 ## Related
-- [[Z-001-0469]] Pyruvate Metabolism
-- [[Z-001-0470]] Evolutionary Ancient Glycolysis
+- [[Pyruvate_Metabolic_Crossroads_[Z-001-0469]]] Pyruvate Metabolism
+- [[Evolutionary_Ancient_Glycolysis_[Z-001-0470]]] Evolutionary Ancient Glycolysis
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

@@ -180,11 +180,11 @@ Pyruvate → Oxaloacetate → Glucose
 
 ## Zettels Extracted
 
-- [[Z-001-0476]] Keto Acids vs Carboxylic Acids
-- [[Z-001-0477]] Pyruvate: Central Metabolic Role
-- [[Z-001-0478]] Propionate Metabolism and Gluconeogenesis
-- [[Z-001-0479]] Vitamin Dependence in Organic Acid Metabolism
-- [[Z-001-0480]] Aldehyde vs Ketone Chemistry
+- [[Keto_Acids_vs_Carboxylic_Acids_[Z-001-0476]]] Keto Acids vs Carboxylic Acids
+- [[Pyruvate_Central_Metabolic_Role_[Z-001-0477]]] Pyruvate: Central Metabolic Role
+- [[Propionate_Metabolism_Gluconeogenesis_[Z-001-0478]]] Propionate Metabolism and Gluconeogenesis
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_[Z-001-0479]]] Vitamin Dependence in Organic Acid Metabolism
+- [[Aldehyde_vs_Ketone_Chemistry_[Z-001-0480]]] Aldehyde vs Ketone Chemistry
 
 ---
 

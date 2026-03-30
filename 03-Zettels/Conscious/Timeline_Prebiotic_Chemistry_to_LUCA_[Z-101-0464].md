@@ -110,9 +110,9 @@ source: [[L-101-0045B]]
 - Interstellar molecule detections
 
 ## Related
-- [[Z-101-0454]] HCN Polymerization
-- [[Z-101-0456]] RNA World Hypothesis
-- [[Z-101-0463]] Formamide Chemistry
+- [[HCN_Polymerization_Adenine_Mechanism_[Z-101-0454]]] HCN Polymerization
+- [[RNA_World_Hypothesis_Evolution_[Z-101-0456]]] RNA World Hypothesis
+- [[Formamide_Chemistry_Prebiotic_Pathway_[Z-101-0463]]] Formamide Chemistry
 - [[MOC-Origins-of-Life]]
 
 ---

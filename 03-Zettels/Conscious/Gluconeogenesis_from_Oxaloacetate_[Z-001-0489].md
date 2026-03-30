@@ -91,9 +91,9 @@ Pyruvate → OAA → PEP → ... → Glucose
 - **Cannot convert OAA to PEP:** Gluconeogenesis blocked
 
 ## Related
-- [[Z-001-0488]] Oxaloacetate Dual Role
-- [[Z-001-0490]] Mitochondrial Shuttles
-- [[Z-001-0491]] PEPCK Regulation
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_[Z-001-0488]]] Oxaloacetate Dual Role
+- [[Mitochondrial_Shuttles_Malate_Aspartate_[Z-001-0490]]] Mitochondrial Shuttles
+- [[PEPCK_Gluconeogenic_Regulation_[Z-001-0491]]] PEPCK Regulation
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

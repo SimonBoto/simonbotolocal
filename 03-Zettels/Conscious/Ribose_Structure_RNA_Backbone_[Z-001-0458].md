@@ -48,9 +48,9 @@ All contain ribose:
 Primarily via **Pentose Phosphate Pathway** (not directly from glucose).
 
 ## Related
-- [[Z-001-0457]] PPP Oxidative Phase (ribose source)
-- [[Z-101-0451]] ATP Structure (contains ribose)
-- [[Z-101-0456]] RNA World Hypothesis
+- [[PPP_Oxidative_Phase_[Z-001-0457]]] PPP Oxidative Phase (ribose source)
+- [[ATP_Universal_Energy_Currency_[Z-101-0451]]] ATP Structure (contains ribose)
+- [[RNA_World_Hypothesis_Evolution_[Z-101-0456]]] RNA World Hypothesis
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

@@ -72,8 +72,8 @@ Both reduce to alcohols:
 - **Ketone groups:** More stable, preferred for energy storage (fructose)
 
 ## Related
-- [[Z-001-0471]] Aldose vs Ketose Chemistry
-- [[Z-001-0476]] Keto Acids vs Carboxylic Acids
+- [[Aldose_vs_Ketose_Chemistry_[Z-001-0471]]] Aldose vs Ketose Chemistry
+- [[Keto_Acids_vs_Carboxylic_Acids_[Z-001-0476]]] Keto Acids vs Carboxylic Acids
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

@@ -59,9 +59,9 @@ source: [[L-001-0045F]]
 | Key vitamins | B1, B2, B3, B5 | B7, B12 |
 
 ## Related
-- [[Z-001-0476]] Keto Acids vs Carboxylic Acids
-- [[Z-001-0479]] Vitamin Dependence
-- [[Z-001-0469]] Pyruvate Crossroads
+- [[Keto_Acids_vs_Carboxylic_Acids_[Z-001-0476]]] Keto Acids vs Carboxylic Acids
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_[Z-001-0479]]] Vitamin Dependence
+- [[Pyruvate_Metabolic_Crossroads_[Z-001-0469]]] Pyruvate Crossroads
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

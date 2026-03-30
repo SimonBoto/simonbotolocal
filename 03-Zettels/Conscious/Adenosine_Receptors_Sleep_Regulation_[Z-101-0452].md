@@ -36,7 +36,7 @@ Adenosine clearance during sleep → reduced inhibition → wakefulness returns.
 **Adenosine IV:** Used for supraventricular tachycardia (slows AV nodal conduction).
 
 ## Related
-- [[Z-101-0451]] ATP Structure (adenosine backbone)
+- [[ATP_Universal_Energy_Currency_[Z-101-0451]]] ATP Structure (adenosine backbone)
 - [[MOC-Sleep-and-Circadian]]
 
 ---

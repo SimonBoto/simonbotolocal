@@ -90,8 +90,8 @@ Formamide chemistry provides a **robust alternative** to HCN polymerization:
 Multiple pathways (HCN, formamide, meteoritic delivery) increase probability of nucleobase formation on early Earth.
 
 ## Related
-- [[Z-101-0454]] HCN Polymerization (alternative pathway)
-- [[Z-101-0455]] Meteoritic Nucleobases (delivery mechanism)
+- [[HCN_Polymerization_Adenine_Mechanism_[Z-101-0454]]] HCN Polymerization (alternative pathway)
+- [[Meteoritic_Nucleobases_Panspermia_[Z-101-0455]]] Meteoritic Nucleobases (delivery mechanism)
 - [[MOC-Origins-of-Life]]
 
 ---

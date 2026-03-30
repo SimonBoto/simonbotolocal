@@ -92,9 +92,9 @@ Citrulline + Aspartate → Argininosuccinate
 - Ancient and conserved
 
 ## Related
-- [[Z-001-0493]] Amino Acids to Oxaloacetate
-- [[Z-001-0488]] Oxaloacetate Dual Role
-- [[Z-001-0917]] Glutamate-Arginine-Urea Cycle (aspartate role)
+- [[Amino_Acids_Oxaloacetate_Aspartate_[Z-001-0493]]] Amino Acids to Oxaloacetate
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_[Z-001-0488]]] Oxaloacetate Dual Role
+- [[Glutamate_Arginine_Urea_Cycle_[Z-001-0917]]] Glutamate-Arginine-Urea Cycle (aspartate role)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

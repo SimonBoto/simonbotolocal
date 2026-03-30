@@ -75,8 +75,8 @@ Glutamate + NH₄⁺ + ATP → Glutamine + ADP + Pi
 - Causes: Liver failure, urea cycle defects, organic acidemias
 
 ## Related
-- [[Z-001-0915]] Glutamate Central Hub
-- [[Z-001-0917]] Glutamate-Arginine-Urea Cycle
+- [[Glutamate_Central_Amino_Acid_Hub_[Z-001-0915]]] Glutamate Central Hub
+- [[Glutamate_Arginine_Urea_Cycle_[Z-001-0917]]] Glutamate-Arginine-Urea Cycle
 - [[MOC-Urea-Cycle]]
 - [[MOC-Nitrogen-Metabolism]]
 

@@ -49,9 +49,9 @@ Early life relied on **RNA as both genetic material AND catalyst** (ribozymes), 
 - DNA/protein takeover: Gradual transition
 
 ## Related
-- [[Z-101-0454]] HCN Polymerization (adenine source)
-- [[Z-101-0455]] Meteoritic Nucleobases
-- [[Z-001-0458]] Ribose Biosynthesis (RNA backbone)
+- [[HCN_Polymerization_Adenine_Mechanism_[Z-101-0454]]] HCN Polymerization (adenine source)
+- [[Meteoritic_Nucleobases_Panspermia_[Z-101-0455]]] Meteoritic Nucleobases
+- [[Ribose_Structure_RNA_Backbone_[Z-001-0458]]] Ribose Biosynthesis (RNA backbone)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

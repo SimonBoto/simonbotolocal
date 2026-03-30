@@ -49,9 +49,9 @@ Acetoacetate → BHB (β-OHBDH)
 | **Cortisol** | ↑ Ketogenesis | Permissive effect on lipolysis |
 
 ## Related
-- [[Z-001-0482]] The Three Ketone Bodies
-- [[Z-001-0483]] BHB is a Hydroxy Acid
-- [[Z-001-0487]] Physiological vs Pathological Ketosis
+- [[Three_Ketone_Bodies_[Z-001-0482]]] The Three Ketone Bodies
+- [[BHB_Hydroxy_Acid_Not_Ketone_[Z-001-0483]]] BHB is a Hydroxy Acid
+- [[Physiological_vs_Pathological_Ketosis_[Z-001-0487]]] Physiological vs Pathological Ketosis
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

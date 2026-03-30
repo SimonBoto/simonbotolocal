@@ -92,5 +92,5 @@ extraction-date: 2026-03-08
 
 ## Post-Extraction Verification Checklist
 - [x] All zettel links use FULL format: `[[Title_[Z-001-0001].md]]`
-- [x] No bare UIDs: `[[Z-001-0001]]`
+- [x] No bare UIDs: `[[Insulin_Receptor_Structure_[Z-001-0001]]]`
 - [x] Concept count matches "Zettels Created from This Source" list

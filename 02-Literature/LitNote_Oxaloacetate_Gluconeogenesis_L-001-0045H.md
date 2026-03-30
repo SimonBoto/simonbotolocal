@@ -166,11 +166,11 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 
 ## Zettels Extracted
 
-- [[Z-001-0488]] Oxaloacetate Dual Role: Krebs and Gluconeogenesis
-- [[Z-001-0489]] Gluconeogenesis from Oxaloacetate
-- [[Z-001-0490]] Mitochondrial Shuttles: Malate and Aspartate
-- [[Z-001-0491]] PEPCK and Gluconeogenic Regulation
-- [[Z-001-0492]] Anaplerosis: Replenishing Krebs Cycle
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_[Z-001-0488]]] Oxaloacetate Dual Role: Krebs and Gluconeogenesis
+- [[Gluconeogenesis_from_Oxaloacetate_[Z-001-0489]]] Gluconeogenesis from Oxaloacetate
+- [[Mitochondrial_Shuttles_Malate_Aspartate_[Z-001-0490]]] Mitochondrial Shuttles: Malate and Aspartate
+- [[PEPCK_Gluconeogenic_Regulation_[Z-001-0491]]] PEPCK and Gluconeogenic Regulation
+- [[Anaplerosis_Replenishing_Krebs_Cycle_[Z-001-0492]]] Anaplerosis: Replenishing Krebs Cycle
 
 ---
 

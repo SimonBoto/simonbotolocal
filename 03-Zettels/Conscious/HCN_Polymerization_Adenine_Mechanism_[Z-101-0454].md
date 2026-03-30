@@ -45,8 +45,8 @@ source: [[L-101-0045B]]
 - Eutectic freezing in ice
 
 ## Related
-- [[Z-101-0455]] Meteoritic Nucleobases and Panspermia
-- [[Z-101-0453]] Purine Structure (product)
+- [[Meteoritic_Nucleobases_Panspermia_[Z-101-0455]]] Meteoritic Nucleobases and Panspermia
+- [[Purine_vs_Pyrimidine_Structure_[Z-101-0453]]] Purine Structure (product)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

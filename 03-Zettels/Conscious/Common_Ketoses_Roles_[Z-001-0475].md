@@ -62,8 +62,8 @@ source: [[L-001-0045E]]
 Ketoses (especially fructose) are generally **sweeter** than aldoses due to structural differences in receptor binding.
 
 ## Related
-- [[Z-001-0471]] Aldose vs Ketose Chemistry
-- [[Z-001-0474]] Common Aldoses (contrast)
+- [[Aldose_vs_Ketose_Chemistry_[Z-001-0471]]] Aldose vs Ketose Chemistry
+- [[Common_Aldoses_Roles_[Z-001-0474]]] Common Aldoses (contrast)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
