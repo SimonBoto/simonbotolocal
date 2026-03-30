@@ -30,11 +30,19 @@ created: 2026-03-30
 |-------|----------|---------------|----------------------|
 | **Thrombocytopenia** | <150,000 | <150,000 | Bleeding risk |
 | **Low-normal** | 150-200k | 150-200k | Monitor |
-| **Optimal** | 200-400k | **200-350k** | Ideal hemostasis |
-| **High-normal** | 400-450k | 350-400k | Watch trend |
+| **Optimal** | 200-400k | **200-350k** | **Ideal hemostasis** |
+| **Elevated** | 400-450k | **>350k** | **Inflammation or iron loss** |
 | **Thrombocytosis** | >450,000 | >400,000 | Hypercoagulable risk |
 
-**Simos Note:** Platelets >400k = increased cardiovascular risk
+**Simos Rules:**
+- **Optimal PLT: 200-350k**
+- **>350k:** Check for inflammation (CRP) or iron deficiency (ferritin)
+- **<200k:** Connected to worse health outcomes, investigate cause
+
+**Simos Clinical Interpretation:**
+- **PLT 200-350k:** Optimal range
+- **PLT >350k:** Indicates inflammation (check CRP) or iron deficiency/loss (check ferritin, transferrin)
+- **PLT <200k:** Associated with worse health outcomes, requires investigation
 
 ### PDW (Platelet Distribution Width)
 | Range | Interpretation |
