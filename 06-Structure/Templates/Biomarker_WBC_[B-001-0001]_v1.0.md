@@ -40,7 +40,9 @@ created: 2026-03-30
 | Elderly | 3.5-10.5 |
 | Pregnancy | 5.5-15.0 |
 
-**Optimal:** 5.0-8.0 (lowest mortality risk)
+**Optimal:** 4.5-8.0 (Simos clinical target)
+- **Always check:** Ratios AND absolute numbers
+- **Never rely on total WBC alone**
 
 ## 3. CLINICAL INTERPRETATION
 
@@ -58,14 +60,34 @@ created: 2026-03-30
 | Moderate | 2.5-3.5 | Drugs, B12 deficiency |
 | Severe | <2.5 | Chemotherapy, aplastic anemia |
 
-## 4. PATTERNS
+## 4. DIFFERENTIAL CLINICAL MEANING
 
-| Pattern | Indicates |
-|---------|-----------|
-| ↑ Neutrophils + left shift | Bacterial infection |
-| ↑ Lymphocytes + atypical | Viral (EBV) |
-| ↑ Eosinophils | Allergy, parasites |
-| Pancytopenia (all low) | Marrow failure |
+| Cell Type | Elevation Indicates | Clinical Notes |
+|-----------|---------------------|----------------|
+| **Neutrophils** | Acute bacterial infection, inflammation | Left shift = immature forms |
+| **Lymphocytes** | Viral infection, chronic inflammation | **Low lymphocytes = clinical concern** |
+| **Monocytes** | Chronic inflammation, parasites | Check for chronic infection |
+| **Eosinophils** | **Allergies**, parasites, drug reactions | >500 = significant |
+| **Basophils** | Allergic reactions, CML | Rarely elevated |
+
+## 5. LOW WBC WORKUP (Simos Protocol)
+
+**When WBC <4,500, check:**
+
+| Test | Rationale |
+|------|-----------|
+| **Methylmalonic acid** | B12 deficiency (functional) |
+| **5-Methylfolate** | Folate status (functional) |
+| **Vitamin D** | Immune modulation |
+| **Mitochondrial markers** (OAT) | Energy failure |
+| **MCV** | B12/folate deficiency indicator |
+| **Ferritin** | Iron status, inflammation |
+| **Homocysteine** | B12/folate/methylation status |
+
+**Pattern recognition for low WBC:**
+- Low B12/folate → macrocytic (high MCV)
+- Low iron → microcytic (low MCV)
+- Mitochondrial dysfunction → normal MCV, OAT abnormalities
 
 ## 5. NUTRITIONAL CONNECTIONS
 
