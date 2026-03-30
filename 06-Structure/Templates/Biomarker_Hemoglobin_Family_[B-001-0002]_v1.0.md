@@ -28,25 +28,45 @@ created: 2026-03-30
 
 ## 2. REFERENCE RANGES (Simos Clinical Targets)
 
-### Hemoglobin (Hb)
-| Population | Standard Range | Simos Optimal |
-|------------|----------------|---------------|
-| Adult Male | 13.5-17.5 g/dL | 14.0-16.0 |
-| Adult Female | 12.0-16.0 g/dL | 13.0-15.0 |
-| Pregnancy | >11.0 g/dL | >12.0 |
+### Hemoglobin (Hb) - Simos Clinical Targets
+| Population | Minimum Acceptable | Simos Optimal | Notes |
+|------------|-------------------|---------------|-------|
+| Adult Male | >12.0 g/dL | **>13.0** | Ideally 14-16 |
+| Adult Female | >12.0 g/dL | **>13.0** | Ideally 13-15 |
+| Pregnancy | >11.0 g/dL | **>12.0** | Higher target for fetal oxygenation |
 
-### Hematocrit (Hct)
-| Population | Standard Range | Simos Optimal |
-|------------|----------------|---------------|
-| Adult Male | 38.3-48.6% | 40-48% |
-| Adult Female | 35.5-44.9% | 38-45% |
+**Simos Rule: Hb should ALWAYS be >12, ideally >13**
 
-### MCV (Mean Corpuscular Volume)
+### Hematocrit (Hct) - Simos Clinical Targets
+| Population | Standard Range | Simos Optimal | Hct:Hb Ratio |
+|------------|----------------|---------------|--------------|
+| Adult Male | 38.3-48.6% | 40-48% | Should be ~3× Hb |
+| Adult Female | 35.5-44.9% | 38-45% | Should be ~3× Hb |
+
+**Simos Rule: Hct should be approximately 3× Hb**
+- Example: Hb 14 → Hct should be ~42%
+- **If Hct <3× Hb:** Check hydration status
+
+**Dehydration Workup (when Hct:Hb ratio elevated):**
+| Marker | Elevated In Dehydration | Notes |
+|--------|------------------------|-------|
+| **Urea (BUN)** | ↑ | Prerenal azotemia |
+| **Uric acid** | ↑ | Concentrated |
+| **Creatinine** | ↑ (mild) | Less than urea rise |
+| **BUN:Creatinine ratio** | **>20:1** | Classic for prerenal |
+| **Electrolytes** | ↑ sodium, chloride | Hemoconcentration |
+
+**Clinical:** Low Hct relative to Hb = hemodilution OR check for hydration
+
+### MCV (Mean Corpuscular Volume) - Simos Targets
 | Range | Interpretation | Clinical Significance |
 |-------|----------------|----------------------|
 | <80 fL | Microcytic | Iron deficiency, thalassemia |
-| 80-100 fL | Normocytic | Normal, early deficiency, chronic disease |
-| >100 fL | Macrocytic | B12/folate deficiency, liver disease, hypothyroid |
+| 80-90 fL | **Optimal** | Ideal RBC size |
+| 90-95 fL | Upper normal | Monitor trend |
+| **>95 fL** | **Macrocytic** | **B12/folate deficiency, liver, thyroid** |
+
+**Simos Rule: MCV should be <95, ideally <90**
 
 **Simos Note:** Always interpret MCV with RDW
 
@@ -54,14 +74,19 @@ created: 2026-03-30
 - **MCH:** 27-33 pg (correlates with MCV)
 - **MCHC:** 32-36 g/dL (hypochromic <32)
 
-### RDW (Red Cell Distribution Width)
+### RDW (Red Cell Distribution Width) - Simos Target
 | Range | Interpretation |
 |-------|----------------|
-| <14% | Normal |
+| <14% | **Within range (optimal)** |
 | 14-16% | Mild anisocytosis |
 | >16% | Significant anisocytosis |
 
-**Clinical:** High RDW = mixed population (early deficiency, response to treatment)
+**Simos Rule: RDW should be within normal range (<14%)**
+
+**Clinical Meaning:**
+- **High RDW** = Mixed RBC population = Early deficiency OR response to treatment
+- **Normal RDW** = Uniform RBC size = Chronic deficiency OR thalassemia
+- **Always interpret with MCV**
 
 ## 3. PATTERN RECOGNITION (Simos Diagnostic Algorithm)
 
