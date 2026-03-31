@@ -35,10 +35,11 @@ source-litnote: Synthesized from clinical practice
 ### Biological Mechanism
 
 **Non-enzymatic glycation:**
-- Glucose in bloodstream binds to hemoglobin
+- [[Z-005-0001|Glucose]] in bloodstream binds to [[Z-001-1001|hemoglobin]]
 - Occurs throughout RBC lifespan (120 days)
 - Irreversible reaction
-- Proportional to average glucose concentration
+- Proportional to average [[Z-005-0001|glucose]] concentration
+- Reflects integrated [[Z-005-0002|insulin]] exposure over time
 
 **Formula:**
 ```
@@ -55,7 +56,7 @@ HbA1c ≈ (Average glucose + 46.7) ÷ 28.7
 |--------|--------|-----------|
 | **RBC lifespan** | Alters result | Short lifespan = lower HbA1c; long lifespan = higher |
 | **Hemoglobin variants** | Interferes | HbF, HbS affect measurement |
-| **Anemia** | Alters result | Iron deficiency may elevate HbA1c |
+| **Anemia** | Alters result | [[Z-003-0001|Iron deficiency]] may elevate HbA1c |
 | **Pregnancy** | Lower | Increased RBC turnover |
 
 source-litnote: Synthesized from clinical practice

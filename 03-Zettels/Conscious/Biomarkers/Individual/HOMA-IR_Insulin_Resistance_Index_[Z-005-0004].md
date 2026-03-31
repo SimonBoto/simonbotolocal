@@ -31,7 +31,7 @@ source-litnote: Synthesized from clinical practice
 
 **Mathematical model:**
 ```
-HOMA-IR = (Fasting Glucose × Fasting Insulin) / 405
+HOMA-IR = (Fasting [[Z-005-0001|Glucose]] × Fasting [[Z-005-0002|Insulin]]) / 405
 ```
 
 *(Glucose in mg/dL, Insulin in μU/mL)*
@@ -45,10 +45,10 @@ HOMA-IR = (Fasting Glucose × Fasting Insulin) / 405
 | Method | Description | Utility |
 |--------|-------------|---------|
 | **HOMA-IR** | Calculated from fasting values | Simple, widely used |
-| **QUICKI** | 1 / (log insulin + log glucose) | Alternative calculation |
+| **QUICKI** | 1 / (log [[Z-005-0002|insulin]] + log [[Z-005-0001|glucose]]) | Alternative calculation |
 | **OGTT** | 2-hour glucose challenge | More accurate |
 | **Hyperinsulinemic-euglycemic clamp** | IV insulin/glucose | Gold standard, invasive |
-| **HbA1c** | Long-term glucose | Different information |
+| **[[Z-005-0003|HbA1c]]** | Long-term glucose | Different information |
 
 source-litnote: Synthesized from clinical practice
 ---
