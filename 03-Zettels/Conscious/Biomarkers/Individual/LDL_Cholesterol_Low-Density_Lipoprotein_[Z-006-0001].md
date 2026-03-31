@@ -36,7 +36,7 @@ source-litnote: Synthesized from clinical practice
 **Primary cholesterol transporter to tissues:**
 - Delivers cholesterol to cells for:
   - Membrane synthesis
-  - [[Testosterone_Total_Androgen_Status_[Z-011-0001]|Steroid hormone]] production
+  - [[Testosterone_Primary_Male_Androgen_[Z-011-0001]|Steroid hormone]] production
   - Bile acid synthesis
 
 **LDL particle structure:**
