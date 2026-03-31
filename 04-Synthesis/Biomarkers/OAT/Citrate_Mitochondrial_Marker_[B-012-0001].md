@@ -42,6 +42,74 @@ This is how excess calories become fat — citrate is the metabolic traffic cop.
 
 ## Clinical Interpretation
 
+### Citrate as Metabolic Flexibility Indicator
+
+Citrate is not just a Krebs entry marker — it reveals **metabolic flexibility** and **nutrient sufficiency**.
+
+#### Pattern 1: Catabolic State
+**Finding:** Low citrate + high lactate + no insulin resistance
+
+**Interpretation:** 
+- Increased anaerobic metabolism
+- Nutrient deficiency (protein/amino acids insufficient)
+- Body relying on glycolysis rather than full Krebs oxidation
+
+**Mechanism:** 
+- Amino acids are the primary anaplerotic fuel for the Krebs cycle
+- When protein/amino acid intake is inadequate, citrate synthesis drops
+- This impairs metabolic flexibility — the body cannot utilize all nutrient sources efficiently
+
+**Action:** 
+- Increase protein/amino acid intake
+- Address insulin sensitivity to restore beta-oxidation
+- Ensure all nutrients (carbs, fats, protein) can be utilized
+
+---
+
+#### Pattern 2: Impaired Krebs Entry (Insulin Resistance Pattern)
+**Finding:** Low citrate + normal lactate + high pyruvate
+
+**Interpretation:**
+- Pyruvate → acetyl-CoA block
+- Fat accumulation
+- Insulin resistance pattern
+
+**Mechanism:**
+- Pyruvate should normally enter mitochondria as acetyl-CoA and condense with oxaloacetate to form citrate
+- In insulin resistance, pyruvate dehydrogenase is impaired
+- Pyruvate accumulates, citrate remains low, fat storage is prioritized
+
+**Action:**
+- Address insulin resistance (diet, exercise, sleep)
+- Support pyruvate dehydrogenase (thiamine, lipoic acid)
+
+---
+
+#### Pattern 3: CRITICAL Aconitase Block [STOP POINT]
+**Finding:** Low citrate + very high aconitate
+
+**Interpretation:**
+- **MAJOR BLOCK** — aconitase severely impaired
+- Downstream metabolites **CANNOT be reliably interpreted**
+
+**Critical Rule:**
+When citrate is low and aconitate is very high, **do not analyze** isocitrate, α-ketoglutarate, succinate, fumarate, or malate. The block masks everything downstream.
+
+**Mechanism:**
+- Aconitase (Fe-S cluster enzyme) is damaged by oxidative stress
+- Citrate cannot convert to isocitrate
+- Citrate remains low (substrate-starved) while aconitate accumulates
+
+**Priority Actions:**
+1. **Antioxidants:** Glutathione, NAC, vitamin C, vitamin E
+2. **Glutamine:** Primary fuel for aconitase recovery
+3. **Iron:** Only if ferritin low (Fe-S cluster requirement)
+4. **Address oxidative stress source:** Inflammation, toxins, infection
+
+**Retest:** Only after 6-8 weeks of intervention
+
+---
+
 ### HIGH Citrate — What It Means
 
 #### Pattern 1: Mitochondrial Block (Most Common)
