@@ -35,11 +35,11 @@ source-litnote: Synthesized from clinical practice
 ### Biological Mechanism
 
 **Non-enzymatic glycation:**
-- [[Z-005-0001|Glucose]] in bloodstream binds to [[Z-001-1001|hemoglobin]]
+- [[Glucose_Blood_Sugar_Energy_[Z-005-0001]|Glucose]] in bloodstream binds to [[Hemoglobin_Oxygen_Transport_Protein_[Z-001-1001]|hemoglobin]]
 - Occurs throughout RBC lifespan (120 days)
 - Irreversible reaction
-- Proportional to average [[Z-005-0001|glucose]] concentration
-- Reflects integrated [[Z-005-0002|insulin]] exposure over time
+- Proportional to average [[Glucose_Blood_Sugar_Energy_[Z-005-0001]|glucose]] concentration
+- Reflects integrated [[Insulin_Pancreatic_Beta-Cell_Response_[Z-005-0002]|insulin]] exposure over time
 
 **Formula:**
 ```
