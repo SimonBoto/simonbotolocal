@@ -38,8 +38,9 @@ source-litnote: Synthesized from clinical practice
 - Muscle energy (anaerobic and aerobic)
 
 **Regulation:**
-- **High glucose** → Insulin release → glucose uptake
+- **High glucose** → [[Insulin_Pancreatic_Beta-Cell_Response_[Z-005-0002].md|insulin release]] → glucose uptake
 - **Low glucose** → Glucagon release → glycogenolysis, gluconeogenesis
+- Dysregulated glucose drives [[HbA1c_Glycemic_Control_RBC_Memory_[Z-005-0003].md|HbA1c elevation]] through chronic hyperglycemia
 
 ### Normal Kinetics
 
