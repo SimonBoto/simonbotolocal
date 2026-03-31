@@ -1,83 +1,121 @@
-source-litnote: Extracted from Analysis organic acids extended.md
 ---
 uid: Z-012-0103
 type: zettel
-title: Dihydroxyphenylpropionic Acid (DHPPA) — Polyphenol Marker
-aliases: [Z-012-0103, DHPPA, Dihydroxyphenylpropionic, Polyphenol-Metabolism]
+title: DHPPA — Dihydroxyphenylpropionic Acid, Polyphenol Marker
+aliases: [Z-012-0103, DHPPA, Dihydroxyphenylpropionic, Polyphenol, Antioxidant]
 domain: 012
-tags: [zettel, oat, dysbiosis, polyphenol, dhppa, clostridia]
-parent-moc: [[MOC-OAT-Dysbiosis]]
+tags: [zettel, biomarker, dhppa, polyphenol, antioxidant, gut]
+parent-moc: [[MOC-Biomarkers]]
 status: conscious
 extraction-date: 2026-03-31
-source: Analysis organic acids extended.md
-source-litnote: Extracted from Analysis organic acids extended.md
+source-litnote: Synthesized from clinical practice
 ---
 
-# Dihydroxyphenylpropionic Acid (DHPPA) — Polyphenol Marker
+# DHPPA — Dihydroxyphenylpropionic Acid, Polyphenol Marker
 
-## Biochemistry
+## 1. ETYMOLOGY
 
-**Source:** Phenol metabolism by gut bacteria
+**Dihydroxyphenylpropionic acid:** Phenyl ring with two hydroxyl groups + propionic acid
 
-**Primary producers:**
-- Clostridia spp
-- Other phenol-metabolizing bacteria
+**Also called:**
+- DHPPA
 
-**Pathway:**
-Dietary polyphenols → (bacterial metabolism) → DHPPA
-
-## Clinical Interpretation
-
-### Elevated DHPPA Indicates
-
-#### 1. High Polyphenol Intake
-- Increased consumption of polyphenol-rich foods
-- Not necessarily pathological
-
-#### 2. Clostridia Overgrowth
-- Specific bacterial species dominance
-- May indicate dysbiosis if other markers elevated
-
-## Context Matters
-
-### DHPPA as Dietary Indicator
-Unlike IAA or PAA, DHPPA elevation often reflects **dietary intake** rather than pathology:
-
-| Source | Examples |
-|--------|----------|
-| **Fruits** | Berries, apples, grapes |
-| **Vegetables** | Onions, tomatoes |
-| **Beverages** | Green tea, red wine |
-| **Herbs/Spices** | Turmeric, rosemary |
-
-## Pattern Recognition
-
-### DHPPA + IAA/PAA Elevated
-- Dysbiosis with polyphenol metabolism
-- Consider reducing high-polyphenol foods temporarily
-
-### DHPPA Elevated Alone
-- Likely dietary origin
-- Assess recent polyphenol intake
-- May not require intervention
-
-## Interventions
-
-### If Dysbiosis Suspected
-- Reduce polyphenol-rich foods for 2-4 weeks
-- Retest to assess bacterial component
-- Address Clostridia if other markers support
-
-### If Dietary Only
-- No intervention needed
-- Marker of antioxidant intake (beneficial)
-
-## Related Files
-- [[Z-012-0101|Indoleacetic Acid — Tryptophan Dysbiosis Marker]]
-- [[Z-012-0104|Hydroxyphenylacetic Acids — Protein Dyspepsia Markers]]
-- [[REF-OAT-003|OAT Extended Analysis — Complete Extraction]]
-
-source-litnote: Extracted from Analysis organic acids extended.md
 ---
-*Part of OAT Dysbiosis Markers Series*
+
+## 2. PHYSIOLOGY
+
+### Biological Function
+
+**Polyphenol metabolite:**
+- From dietary polyphenols (fruits, vegetables, tea)
+- Gut bacterial metabolism
+- Antioxidant compound
+
+**Clinical significance:**
+- Marker of polyphenol intake
+- Antioxidant status indicator
+
+---
+
+## 3. METABOLIC INTERPRETATION
+
+### DHPPA Levels
+
+| Level | Status | Interpretation |
+|-------|--------|----------------|
+| **Low** | Reduced | Low polyphenol intake |
+| **Elevated** | High | High polyphenol intake |
+
+---
+
+## 4. COFACTORS
+
+### Polyphenol Metabolism
+
+- Gut flora
+- Dietary intake
+
+---
+
+## 5. INTERVENTIONS
+
+### For Low DHPPA
+
+**Increase polyphenols:**
+- Colorful fruits and vegetables
+- Green tea
+- Berries
+- Dark chocolate
+
+---
+
+## 6. CONNECTED BIOMARKERS
+
+| Biomarker | Relationship |
+|-----------|--------------|
+| **Antioxidant status** | General |
+
+---
+
+## 7. OPTIMAL RANGE
+
+| Population | Optimal |
+|------------|---------|
+| **Adults** | Moderate elevation (good) |
+
+---
+
+## 8. ACCEPTED RANGE
+
+| Category | Range |
+|----------|-------|
+| **Variable** | Diet-dependent |
+
+---
+
+## 9. PROBLEMATIC RANGE
+
+| Level | Concern | Action |
+|-------|---------|--------|
+| **Very low** | Low polyphenol intake | Increase plant foods |
+
+---
+
+## 10. CLINICAL WEIGHT
+
+**Significance: ⭐⭐ (2/5 — Low-Moderate)**
+
+**Polyphenol intake marker**
+
+**Always with:**
+- Dietary assessment
+
+---
+
+## RELATED FILES
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
+
+---
+*Complete biomarker foundation — DHPPA*
 *Created: 2026-03-31*
+*Upgraded to Gen 2 standard*

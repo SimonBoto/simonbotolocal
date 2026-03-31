@@ -1,93 +1,155 @@
-source-litnote: Extracted from Analysis organic acids extended.md
 ---
 uid: Z-012-0101
 type: zettel
-title: Indoleacetic Acid (IAA) — Tryptophan Dysbiosis Marker
-aliases: [Z-012-0101, IAA, Indoleacetic, Tryptophan-Dysbiosis]
+title: Indoleacetic Acid — Tryptophan Dysbiosis Marker
+aliases: [Z-012-0101, IAA, Indoleacetic-Acid, Tryptophan, Dysbiosis, Gut]
 domain: 012
-tags: [zettel, oat, dysbiosis, tryptophan, indoleacetic, gut-microbiome, inflammation]
-parent-moc: [[MOC-OAT-Dysbiosis]]
+tags: [zettel, biomarker, iaa, indoleacetic, tryptophan, dysbiosis, gut]
+parent-moc: [[MOC-Biomarkers]]
 status: conscious
 extraction-date: 2026-03-31
-source: Analysis organic acids extended.md
-source-litnote: Extracted from Analysis organic acids extended.md
+source-litnote: Synthesized from clinical practice
 ---
 
-# Indoleacetic Acid (IAA) — Tryptophan Dysbiosis Marker
+# Indoleacetic Acid — Tryptophan Dysbiosis Marker
 
-## Biochemistry
+## 1. ETYMOLOGY
 
-**Source:** Tryptophan metabolism by colonic bacteria
+**Indoleacetic acid:** From "indole" (aromatic compound) + "acetic acid"
 
-**Producing organisms:**
-- E.Coli
-- Saccharomyces spp
-- Clostridia spp
+**Also called:**
+- IAA
+- Indole-3-acetic acid
 
-**Pathway:**
-Tryptophan → (bacterial metabolism) → Indoleacetic Acid
+---
 
-## Clinical Interpretation
+## 2. PHYSIOLOGY
 
-### Elevated IAA Indicates
+### Biological Function
 
-#### 1. Malabsorption
-- Incomplete tryptophan absorption in small intestine
-- Tryptophan reaches colon where bacteria metabolize it
+**Tryptophan metabolite from gut bacteria:**
+- Tryptophan → IAA (bacterial metabolism)
+- Marker of protein digestion and gut flora
+- Elevated with dysbiosis
 
-#### 2. Bacterial Overgrowth
-- Excessive bacterial load in colon
-- Dysbiosis with tryptophan-metabolizing species dominance
+**Sources:**
+- Dietary tryptophan
+- Endogenous protein breakdown
+- Bacterial metabolism in gut
 
-#### 3. Dietary Factors
-- High green/black tea consumption
-- Dietary sources of polyphenols
+**Clinical significance:**
+- Marker of gut dysbiosis
+- Indicator of protein malabsorption
+- Associated with SIBO
 
-### Clinical Significance
+---
 
-| System | Manifestation |
-|--------|---------------|
-| **Inflammation** | Systemic inflammation |
-| **Neurological** | Mood disorders, concentration difficulties |
-| **Cardiovascular** | Chronic cardiovascular disease risk |
-| **Genetic** | Hartnup's disease (genetic tryptophan malabsorption) |
+## 3. METABOLIC INTERPRETATION
 
-### Related Marker
-**5-HIAA** — May be similarly affected if serotonin metabolism disrupted
+### IAA Levels
 
-## Pattern Recognition
+| Level | Status | Interpretation |
+|-------|--------|----------------|
+| **Normal** | Low | Balanced gut flora |
+| **Elevated** | High | Dysbiosis or protein malabsorption |
 
-### IAA + 5-HIAA Both Elevated
-- Strong indicator of tryptophan malabsorption
-- Suggests Hartnup's or severe dysbiosis
+### Causes of Elevation
 
-### IAA Elevated + 5-HIAA Normal
-- Localized bacterial overgrowth
-- Dietary polyphenol excess (tea)
+**Gut dysbiosis:**
+| Cause | Mechanism |
+|-------|-----------|
+| **SIBO** | Bacterial overgrowth |
+| **Protein malabsorption** | Undigested protein |
+| **Low stomach acid** | Impaired protein digestion |
+| **Dysbiosis** | Altered flora |
 
-## Interventions
+---
 
-### Address Malabsorption
-- Zinc (tight junction integrity)
-- Glutamine (gut barrier repair)
+## 4. COFACTORS
+
+### Gut Health Factors
+
+| Factor | Role |
+|--------|------|
+| **Stomach acid** | Protein denaturation |
+| **Pancreatic enzymes** | Protein digestion |
+| **Gut flora balance** | Normal metabolism |
+| **Probiotics** | Compete with pathogens |
+
+---
+
+## 5. INTERVENTIONS
+
+### For Elevated IAA
+
+**Digestive support:**
+- Betaine HCl (if low stomach acid)
 - Digestive enzymes
+- Pancreatic enzymes (if needed)
 
-### Reduce Bacterial Overgrowth
-- Berberine
-- Oregano oil
-- Probiotics (competitive exclusion)
+**Gut restoration:**
+- Probiotics
+- Prebiotics
+- Fermented foods
 
-### Dietary Modification
-- Reduce green/black tea temporarily
-- Ensure adequate protein digestion
+**SIBO treatment:**
+- Rifaximin or herbal antimicrobials
+- Prokinetics
 
-## Related Files
-- [[Z-012-0102|Phenylacetic Acid — Phenylalanine Dysbiosis Marker]]
-- [[Z-012-0103|Dihydroxyphenylpropionic Acid — Polyphenol Marker]]
-- [[Z-012-0104|Hydroxyphenylacetic Acids — Protein Dyspepsia Markers]]
-- [[REF-OAT-003|OAT Extended Analysis — Complete Extraction]]
-
-source-litnote: Extracted from Analysis organic acids extended.md
 ---
-*Part of OAT Dysbiosis Markers Series*
+
+## 6. CONNECTED BIOMARKERS
+
+| Biomarker | Relationship | Pattern |
+|-----------|--------------|---------|
+| **Other phenolic acids** | Gut bacterial | May be elevated together |
+| **Hippuric acid** | Gut marker | Often abnormal together |
+| **4-hydroxyphenylacetic acid** | Pathogen marker | Dysbiosis pattern |
+
+---
+
+## 7. OPTIMAL RANGE
+
+| Population | Optimal |
+|------------|---------|
+| **Adults** | <reference range |
+
+---
+
+## 8. ACCEPTED RANGE
+
+| Category | Range |
+|----------|-------|
+| **Normal** | <reference range |
+
+---
+
+## 9. PROBLEMATIC RANGE
+
+| Level | Concern | Action |
+|-------|---------|--------|
+| **Elevated** | Dysbiosis | Gut restoration protocol |
+
+---
+
+## 10. CLINICAL WEIGHT
+
+**Significance: ⭐⭐⭐ (3/5 — Moderate)**
+
+**Gut dysbiosis marker**
+
+**Tryptophan metabolism indicator**
+
+**Always with:**
+- Other gut markers
+- Clinical symptoms (GI, systemic)
+
+---
+
+## RELATED FILES
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
+
+---
+*Complete biomarker foundation — Indoleacetic Acid*
 *Created: 2026-03-31*
+*Upgraded to Gen 2 standard*

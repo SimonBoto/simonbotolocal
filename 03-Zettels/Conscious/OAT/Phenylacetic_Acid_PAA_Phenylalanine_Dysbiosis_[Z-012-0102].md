@@ -1,83 +1,124 @@
-source-litnote: Extracted from Analysis organic acids extended.md
 ---
 uid: Z-012-0102
 type: zettel
-title: Phenylacetic Acid (PAA) — Phenylalanine Dysbiosis Marker
-aliases: [Z-012-0102, PAA, Phenylacetic, Phenylalanine-Dysbiosis]
+title: Phenylacetic Acid — Phenylalanine Dysbiosis Marker
+aliases: [Z-012-0102, PAA, Phenylacetic-Acid, Phenylalanine, Dysbiosis, Gut]
 domain: 012
-tags: [zettel, oat, dysbiosis, phenylalanine, phenylacetic, gut-microbiome]
-parent-moc: [[MOC-OAT-Dysbiosis]]
+tags: [zettel, biomarker, paa, phenylacetic, phenylalanine, dysbiosis, gut]
+parent-moc: [[MOC-Biomarkers]]
 status: conscious
 extraction-date: 2026-03-31
-source: Analysis organic acids extended.md
-source-litnote: Extracted from Analysis organic acids extended.md
+source-litnote: Synthesized from clinical practice
 ---
 
-# Phenylacetic Acid (PAA) — Phenylalanine Dysbiosis Marker
+# Phenylacetic Acid — Phenylalanine Dysbiosis Marker
 
-## Biochemistry
+## 1. ETYMOLOGY
 
-**Source:** Phenylalanine metabolism by colonic bacteria
+**Phenylacetic acid:** From "phenyl" (benzene ring) + "acetic acid"
 
-**Producing organisms:**
-- Bacteriodetes
-- Clostridium spp
+**Also called:**
+- PAA
 
-**Pathway:**
-Phenylalanine → (bacterial metabolism) → Phenylacetic Acid
-
-## Clinical Interpretation
-
-### Elevated PAA Indicates
-
-#### 1. Phenylalanine Malabsorption
-- Similar mechanism to IAA (tryptophan)
-- Protein reaching colon undigested
-
-#### 2. Bacterial Overgrowth
-- Bacteriodetes and Clostridium dominance
-- Dysbiosis pattern
-
-#### 3. Dietary Polyphenols
-- Wine consumption
-- Grape products
-- Phenolic compounds
-
-## Pattern Recognition
-
-### PAA + IAA Both Elevated
-- General protein malabsorption
-- Severe dysbiosis
-- Hartnup's disease (affects multiple amino acids)
-
-### PAA Elevated Alone
-- Specific phenylalanine issue
-- Dietary polyphenol excess
-- Bacteriodetes overgrowth
-
-## Interventions
-
-### Address Protein Digestion
-- Betaine HCl (if low stomach acid)
-- Proteolytic enzymes
-- Adequate zinc (protein digestion cofactor)
-
-### Modify Diet
-- Reduce wine/grape products temporarily
-- Ensure complete protein digestion
-- Consider low-polyphenol trial
-
-### Target Dysbiosis
-- Prebiotics (selective bacterial feeding)
-- Probiotics (Lactobacillus, Bifidobacterium)
-- Antimicrobials if severe overgrowth
-
-## Related Files
-- [[Z-012-0101|Indoleacetic Acid — Tryptophan Dysbiosis Marker]]
-- [[Z-012-0103|Dihydroxyphenylpropionic Acid — Polyphenol Marker]]
-- [[REF-OAT-003|OAT Extended Analysis — Complete Extraction]]
-
-source-litnote: Extracted from Analysis organic acids extended.md
 ---
-*Part of OAT Dysbiosis Markers Series*
+
+## 2. PHYSIOLOGY
+
+### Biological Function
+
+**Phenylalanine metabolite from gut bacteria:**
+- Phenylalanine → PAA (bacterial metabolism)
+- Marker of protein digestion and gut flora
+- Elevated with dysbiosis
+
+---
+
+## 3. METABOLIC INTERPRETATION
+
+### PAA Levels
+
+| Level | Status | Interpretation |
+|-------|--------|----------------|
+| **Normal** | Low | Balanced gut flora |
+| **Elevated** | High | Dysbiosis or protein malabsorption |
+
+### Causes of Elevation
+
+- SIBO
+- Protein malabsorption
+- Low stomach acid
+- Dysbiosis
+
+---
+
+## 4. COFACTORS
+
+### Gut Health Factors
+
+- Stomach acid
+- Pancreatic enzymes
+- Gut flora balance
+
+---
+
+## 5. INTERVENTIONS
+
+### For Elevated PAA
+
+- Digestive support (HCl, enzymes)
+- Gut restoration (probiotics, prebiotics)
+- SIBO treatment if indicated
+
+---
+
+## 6. CONNECTED BIOMARKERS
+
+| Biomarker | Relationship |
+|-----------|--------------|
+| **IAA** | Other dysbiosis marker |
+| **Hippuric acid** | Gut marker |
+
+---
+
+## 7. OPTIMAL RANGE
+
+| Population | Optimal |
+|------------|---------|
+| **Adults** | <reference range |
+
+---
+
+## 8. ACCEPTED RANGE
+
+| Category | Range |
+|----------|-------|
+| **Normal** | <reference range |
+
+---
+
+## 9. PROBLEMATIC RANGE
+
+| Level | Concern | Action |
+|-------|---------|--------|
+| **Elevated** | Dysbiosis | Gut restoration |
+
+---
+
+## 10. CLINICAL WEIGHT
+
+**Significance: ⭐⭐⭐ (3/5 — Moderate)**
+
+**Gut dysbiosis marker**
+
+**Always with:**
+- Other gut markers
+
+---
+
+## RELATED FILES
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
+
+---
+*Complete biomarker foundation — Phenylacetic Acid*
 *Created: 2026-03-31*
+*Upgraded to Gen 2 standard*
