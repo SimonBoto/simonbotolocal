@@ -1,140 +1,148 @@
-source-litnote: Extracted from Free fatty acids analysis extended.md
 ---
 uid: Z-006-0102
 type: zettel
-title: Eicosapentaenoic Acid (EPA) — Anti-Inflammatory Omega-3
-aliases: [Z-006-0102, EPA, Eicosapentaenoic, Omega-3-Active]
+title: EPA — Eicosapentaenoic Acid, Anti-Inflammatory Omega-3
+aliases: [Z-006-0102, EPA, Eicosapentaenoic, Omega-3, Anti-Inflammatory]
 domain: 006
-tags: [zettel, fatty-acid, omega-3, epa, anti-inflammatory, cardiovascular]
-parent-moc: [[MOC-Fatty-Acids]]
+tags: [zettel, biomarker, epa, omega-3, anti-inflammatory, cardiovascular]
+parent-moc: [[MOC-Biomarkers]]
 status: conscious
 extraction-date: 2026-03-31
-source: REF-FFA-001
-source-litnote: Extracted from Free fatty acids analysis extended.md
+source-litnote: Synthesized from clinical practice
 ---
 
-# Eicosapentaenoic Acid (EPA) — Anti-Inflammatory Omega-3
+# EPA — Eicosapentaenoic Acid, Anti-Inflammatory Omega-3
 
-## Biochemistry
+## 1. ETYMOLOGY
 
-**Structure:** C20:5 ω3
-- 20 carbon skeleton
-- 5 double bonds
-- First double bond at carbon 3
+**Eicosapentaenoic acid:** 20 carbons, 5 double bonds
 
-**Formation:**
-- Dietary intake (primary)
-- Minimal conversion from ALA (<5%)
+**Also called:**
+- EPA
+- C20:5 n-3
 
-## Sources
+---
 
-| Source | EPA Content |
-|--------|-------------|
-| **Salmon** | High |
-| **Mackerel** | Very high |
-| **Sardines** | High |
-| **Anchovies** | Very high |
-| **Cod liver** | Moderate |
-| **Fish oil supplements** | Concentrated |
+## 2. PHYSIOLOGY
 
-## Eicosanoid Production
+### Biological Function
 
-**Anti-inflammatory cascade:**
-EPA → (COX) → **Prostaglandin E3 (PGE3)**
-- Inhibits platelet aggregation
-- Vasodilation
-- Anti-inflammatory
-
-EPA → (LOX) → **Leukotriene-5**
-- Weak inflammatory mediator
-- Competitively inhibits pro-inflammatory leukotrienes
-
-**Also produces:**
-- Thromboxane 3 (weak platelet aggregator)
-- Resolvins (inflammation resolution)
-- Protectins (neuroprotection)
-
-## Clinical Effects
-
-### Cardiovascular
-| Effect | Mechanism |
-|--------|-----------|
-| Reduces triglycerides | ↓ VLDL production |
-| Stabilizes plaque | ↓ Inflammation |
-| Prevents progression | ↓ Macrophage infiltration |
-| Vasodilation | ↑ Nitric oxide |
-| Anti-arrhythmic | Membrane stabilization |
-
-### Inflammatory Conditions
-- Rheumatoid arthritis (symptom reduction)
-- Inflammatory bowel disease
-- Psoriasis
-- Asthma
-
-### Mental Health
-- Depression (adjunctive treatment)
-- Bipolar disorder
-- ADHD
-
-## Optimal Levels
-
-### Plasma/Tissue
-- **Desirable:** >4% of total fatty acids
-- **Optimal:** 8-12%
-
-### Supplementation
-| Purpose | Dose |
-|---------|------|
-| General health | 1-2g/day |
-| Cardiovascular | 2-4g/day |
-| High triglycerides | 3-4g/day |
-| Inflammatory conditions | 2-3g/day |
-
-## Interactions
-
-### Synergistic
-- **Vitamin E** — antioxidant protection
-- **CoQ10** — cardiovascular synergy
-- **Curcumin** — anti-inflammatory
-
-### Competitive
-- **Arachidonic acid (AA)** — competes for COX/LOX enzymes
-- High ω6 intake — reduces EPA incorporation
-
-## Clinical Patterns
-
-### Low EPA + High AA
-- Pro-inflammatory state
-- Priority: Increase EPA, reduce ω6
-
-### High EPA + Adequate DHA
-- Optimal anti-inflammatory status
+**Long-chain omega-3:**
+- Anti-inflammatory eicosanoid precursor
+- Competes with AA
 - Cardiovascular protection
 
-### EPA Elevation (Supplementation)
-- No adverse effects at therapeutic doses
-- May increase bleeding time slightly (rarely clinically significant)
-- Stop before surgery (standard precaution)
+**Effects:**
+| System | Benefit |
+|--------|---------|
+| **Cardiovascular** | Anti-arrhythmic, triglyceride reduction |
+| **Inflammation** | Reduces pro-inflammatory eicosanoids |
+| **Mood** | Antidepressant effects |
 
-## Testing
-
-### Omega-3 Index
-- % EPA + DHA in red blood cell membranes
-- **Target:** >8%
-- **Optimal:** 8-12%
-
-### Fatty Acid Panel
-- EPA:AA ratio
-- ω6:ω3 ratio
-- Individual fatty acid levels
-
-## Related Files
-- [[Z-006-0101|Alpha-Linolenic Acid (ALA) — Essential Omega-3]]
-- [[Z-006-0103|Docosahexaenoic Acid (DHA) — Omega-3]]
-- [[Z-006-0204|Arachidonic Acid (AA) — Pro-Inflammatory Omega-6]]
-- [[REF-FFA-001|Free Fatty Acids Complete Analysis]]
-
-source-litnote: Extracted from Free fatty acids analysis extended.md
 ---
-*Part of Fatty Acids Series*
+
+## 3. METABOLIC INTERPRETATION
+
+### EPA Levels
+
+| Level (% of total fatty acids) | Status | Interpretation |
+|--------------------------------|--------|----------------|
+| **2-4%** | Optimal | Cardioprotective |
+| **<1%** | Low | Insufficient intake |
+| **>5%** | High | High supplementation |
+
+### Clinical Significance
+
+**Low EPA associated with:**
+- Cardiovascular risk
+- Inflammation
+- Depression
+
+**AA:EPA ratio critical:**
+- Optimal: <3:1
+- High: >6:1 (inflammatory)
+
+---
+
+## 4. COFACTORS
+
+### EPA Sources
+
+- Fatty fish
+- Fish oil
+- Algae oil
+- Poor conversion from ALA
+
+---
+
+## 5. INTERVENTIONS
+
+### For Low EPA
+
+**Direct sources:**
+- Fatty fish 2-3x/week
+- Fish oil: 2-4g EPA/day
+- Algae oil (vegan)
+
+**Target AA:EPA ratio <3:1**
+
+---
+
+## 6. CONNECTED BIOMARKERS
+
+| Biomarker | Relationship | Pattern |
+|-----------|--------------|---------|
+| **AA** | Competitor | AA:EPA ratio critical |
+| **DHA** | Partner omega-3 | Usually supplemented together |
+| **CRP** | Inflammation | Reduced by EPA |
+
+---
+
+## 7. OPTIMAL RANGE
+
+| Population | Optimal |
+|------------|---------|
+| **Adults** | 2-4% of total fatty acids |
+
+---
+
+## 8. ACCEPTED RANGE
+
+| Category | Range |
+|----------|-------|
+| **Normal** | 1-5% |
+
+---
+
+## 9. PROBLEMATIC RANGE
+
+| Level | Concern | Action |
+|-------|---------|--------|
+| **<1%** | Low | Increase EPA |
+| **AA:EPA >6:1** | Inflammatory | Aggressive EPA |
+
+---
+
+## 10. CLINICAL WEIGHT
+
+**Significance: ⭐⭐⭐⭐⭐ (5/5 — Critical)**
+
+**Primary anti-inflammatory omega-3**
+
+**AA:EPA ratio essential**
+
+**Always with:**
+- AA level
+- AA:EPA ratio
+
+---
+
+## RELATED FILES
+- [[Free_Fatty_Acids_Complete_[REF-FFA-001].md|Fatty Acids Reference]]
+- [[Z-006-0204|AA — Arachidonic Acid]]
+- [[Z-006-0402|AA:EPA Ratio]]
+
+---
+*Complete biomarker foundation — EPA*
 *Created: 2026-03-31*
+*Upgraded to Gen 2 standard*

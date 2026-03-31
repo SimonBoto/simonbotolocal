@@ -1,146 +1,118 @@
-source-litnote: Extracted from Free fatty acids analysis extended.md
 ---
 uid: Z-006-0202
 type: zettel
-title: Gamma-Linolenic Acid (GLA) — Anti-Inflammatory Omega-6
-aliases: [Z-006-0202, GLA, Gamma-Linolenic, Borage-Oil, Evening-Primrose]
+title: GLA — Gamma-Linolenic Acid, Anti-Inflammatory Omega-6
+aliases: [Z-006-0202, GLA, Gamma-Linolenic, Omega-6, Anti-Inflammatory]
 domain: 006
-tags: [zettel, fatty-acid, omega-6, gla, anti-inflammatory, skin-health]
-parent-moc: [[MOC-Fatty-Acids]]
+tags: [zettel, biomarker, gla, omega-6, anti-inflammatory]
+parent-moc: [[MOC-Biomarkers]]
 status: conscious
 extraction-date: 2026-03-31
-source: REF-FFA-001
-source-litnote: Extracted from Free fatty acids analysis extended.md
+source-litnote: Synthesized from clinical practice
 ---
 
-# Gamma-Linolenic Acid (GLA) — Anti-Inflammatory Omega-6
+# GLA — Gamma-Linolenic Acid, Anti-Inflammatory Omega-6
 
-## Biochemistry
+## 1. ETYMOLOGY
 
-**Structure:** C18:3 ω6
-- 18 carbon skeleton
-- 3 double bonds
-- First double bond at carbon 6
+**Gamma-linolenic acid:** Delta-6 desaturation product of LA
 
-**Formation:**
-LA → (Δ6-desaturase) → **GLA**
+**Also called:**
+- GLA
+- C18:3 n-6
 
-**Critical enzyme:** Δ6-desaturase
-- Requires: **Zinc, Cobalt**
-- Inhibited by: Smoking, stress, alcohol, systemic inflammation
-
-## Sources
-
-| Source | GLA Content |
-|--------|-------------|
-| **Borage oil** | Highest (20-25%) |
-| **Evening primrose oil** | High (8-10%) |
-| **Black currant seed oil** | Moderate (15-18%) |
-| **Animal organs** | Low |
-
-## The GLA Advantage
-
-### Rapid Conversion to DGLA
-GLA → (elongase) → **DGLA** → **PGE1** (anti-inflammatory)
-
-**Bypasses rate-limiting Δ6-desaturase step**
-
-### Clinical Applications
-
-| Condition | Evidence |
-|-----------|----------|
-| **Rheumatoid arthritis** | Symptom reduction |
-| **Atopic dermatitis** | Skin barrier improvement |
-| **Diabetic neuropathy** | Nerve function support |
-| **Premenstrual syndrome** | Symptom relief |
-| **Eczema** | Anti-inflammatory |
-
-## Mechanisms
-
-### Anti-Inflammatory Actions
-1. **PGE1 production:**
-   - Inhibits platelet aggregation
-   - Vasodilation
-   - Immune regulation
-
-2. **Inhibits AA production:**
-   - Blocks pro-inflammatory pathway
-   - Competitive inhibition
-
-3. **Skin health:**
-   - Improves barrier function
-   - Reduces transepidermal water loss
-   - Anti-inflammatory
-
-## When GLA is Indicated
-
-### Impaired Δ6-Desaturase
-| Condition | Why |
-|-----------|-----|
-| **Aging** | Enzyme activity declines |
-| **Diabetes** | Metabolic dysfunction |
-| **Alcoholism** | Enzyme inhibition |
-| **Atopic dermatitis** | Genetic impairment |
-| **Rheumatoid arthritis** | Inflammation suppresses enzyme |
-| **Stress** | Cortisol inhibition |
-| **Smoking** | Enzyme damage |
-
-### Skin Conditions
-- Eczema
-- Psoriasis
-- Dry skin
-- Poor wound healing
-
-## Supplementation
-
-### Forms
-| Form | GLA Content | Notes |
-|------|-------------|-------|
-| **Borage oil** | 20-25% | Most concentrated |
-| **Evening primrose** | 8-10% | Traditional choice |
-| **Black currant** | 15-18% | Also contains ALA |
-
-### Dosing
-- **General:** 300-500mg GLA/day
-- **Therapeutic:** 500-1000mg GLA/day
-- **Skin conditions:** Higher doses may be needed
-
-### Duration
-- **Minimum:** 8-12 weeks for skin effects
-- **Arthritis:** 3-6 months for full benefit
-
-## Cautions
-
-### Conversion to AA
-**GLA → DGLA → (can become) → AA**
-
-**Prevention:**
-- Ensure adequate EPA (blocks Δ5-desaturase)
-- Monitor AA:DGLA ratio
-- Most people: GLA increases DGLA without excessive AA
-
-### Seizure Disorders
-- Rare reports of increased seizures
-- Use caution in epilepsy
-- Monitor if used
-
-## Synergistic Nutrients
-
-| Nutrient | Role |
-|----------|------|
-| **Zinc** | Δ6-desaturase cofactor |
-| **Magnesium** | Enzyme function |
-| **Vitamin C** | Antioxidant protection |
-| **Vitamin E** | Prevents oxidation |
-| **EPA** | Blocks AA formation from DGLA |
-
-## Related Files
-- [[Z-006-0201|Linoleic Acid (LA) — Essential Omega-6]]
-- [[Z-006-0203|Dihomo-gamma-linoleic Acid (DGLA) — Anti-Inflammatory]]
-- [[Z-006-0102|Eicosapentaenoic Acid (EPA) — Omega-3]]
-- [[REF-FFA-001|Free Fatty Acids Complete Analysis]]
-
-source-litnote: Extracted from Free fatty acids analysis extended.md
 ---
-*Part of Fatty Acids Series*
+
+## 2. PHYSIOLOGY
+
+### Biological Function
+
+**Omega-6 fatty acid:**
+- Produced from LA (delta-6-desaturase)
+- Precursor to DGLA (anti-inflammatory)
+- Anti-inflammatory omega-6
+
+---
+
+## 3. METABOLIC INTERPRETATION
+
+### GLA Levels
+
+| Level (% of total fatty acids) | Status |
+|--------------------------------|--------|
+| **0.1-0.5%** | Normal |
+| **<0.1%** | Low |
+
+---
+
+## 4. COFACTORS
+
+### GLA Production
+
+- LA precursor
+- Delta-6-desaturase (B6, zinc, magnesium)
+
+---
+
+## 5. INTERVENTIONS
+
+### For Low GLA
+
+**Direct sources:**
+- Evening primrose oil
+- Borage oil
+- Black currant seed oil
+
+---
+
+## 6. CONNECTED BIOMARKERS
+
+| Biomarker | Relationship |
+|-----------|--------------|
+| **LA** | Precursor |
+| **DGLA** | Product |
+
+---
+
+## 7. OPTIMAL RANGE
+
+| Population | Optimal |
+|------------|---------|
+| **Adults** | 0.1-0.5% |
+
+---
+
+## 8. ACCEPTED RANGE
+
+| Category | Range |
+|----------|-------|
+| **Normal** | 0.05-1% |
+
+---
+
+## 9. PROBLEMATIC RANGE
+
+| Level | Concern | Action |
+|-------|---------|--------|
+| **<0.05%** | Low | GLA supplementation |
+
+---
+
+## 10. CLINICAL WEIGHT
+
+**Significance: ⭐⭐⭐ (3/5 — Moderate)**
+
+**Anti-inflammatory omega-6**
+
+**Always with:**
+- LA, DGLA
+
+---
+
+## RELATED FILES
+- [[Free_Fatty_Acids_Complete_[REF-FFA-001].md|Fatty Acids Reference]]
+
+---
+*Complete biomarker foundation — GLA*
 *Created: 2026-03-31*
+*Upgraded to Gen 2 standard*

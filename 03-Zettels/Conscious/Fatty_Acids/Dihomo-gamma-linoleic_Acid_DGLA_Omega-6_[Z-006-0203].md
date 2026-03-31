@@ -1,158 +1,120 @@
-source-litnote: Extracted from Free fatty acids analysis extended.md
 ---
 uid: Z-006-0203
 type: zettel
-title: Dihomo-gamma-linoleic Acid (DGLA) — PGE1 Precursor
-aliases: [Z-006-0203, DGLA, Dihomo-gamma-linoleic, PGE1-Precursor]
+title: DGLA — Dihomo-gamma-linolenic Acid, Anti-Inflammatory Omega-6
+aliases: [Z-006-0203, DGLA, Dihomo-gamma-linolenic, Omega-6, Anti-Inflammatory]
 domain: 006
-tags: [zettel, fatty-acid, omega-6, dgla, anti-inflammatory, pge1]
-parent-moc: [[MOC-Fatty-Acids]]
+tags: [zettel, biomarker, dgla, omega-6, anti-inflammatory]
+parent-moc: [[MOC-Biomarkers]]
 status: conscious
 extraction-date: 2026-03-31
-source: REF-FFA-001
-source-litnote: Extracted from Free fatty acids analysis extended.md
+source-litnote: Synthesized from clinical practice
 ---
 
-# Dihomo-gamma-linoleic Acid (DGLA) — PGE1 Precursor
+# DGLA — Dihomo-gamma-linolenic Acid, Anti-Inflammatory Omega-6
 
-## Biochemistry
+## 1. ETYMOLOGY
 
-**Structure:** C20:3 ω6
-- 20 carbon skeleton
-- 3 double bonds
+**Dihomo-gamma-linolenic acid:** Extended gamma-linolenic acid
 
-**Formation:**
-LA → (Δ6-desaturase) → GLA → (**elongase**) → **DGLA**
+**Also called:**
+- DGLA
+- C20:3 n-6
 
-**Critical enzyme:** Elongase
-- Adds 2 carbon atoms
-- Requires: Zinc, Magnesium
+---
 
-## The DGLA Advantage
+## 2. PHYSIOLOGY
 
-### Direct PGE1 Production
-DGLA → (COX) → **Prostaglandin E1 (PGE1)**
+### Biological Function
 
-**PGE1 Actions:**
-| Effect | Clinical Significance |
-|--------|----------------------|
-| Inhibits platelet aggregation | Cardiovascular protection |
-| Promotes vasodilation | Blood pressure regulation |
-| Inhibits cholesterol synthesis | Lipid metabolism |
-| Regulates immune response | Autoimmune modulation |
-| Reduces arterial hypertension | Cardiovascular health |
-| Inhibits AA production | Anti-inflammatory |
-| **Inhibits cancer growth** | Anti-malignancy |
+**Omega-6 fatty acid:**
+- Produced from GLA
+- Precursor to anti-inflammatory eicosanoids
+- Competes with AA
 
-## Clinical Significance
+**Anti-inflammatory effects:**
+- Series-1 prostaglandins (anti-inflammatory)
+- Competes with AA for enzymes
 
-### Difficult Conversion Associated With
-| Condition | Mechanism |
-|-----------|-----------|
-| **Aging** | Enzyme decline |
-| **Diabetes** | Metabolic dysfunction |
-| **Alcoholism** | Enzyme inhibition |
-| **Atopic dermatitis** | Genetic impairment |
-| **Rheumatoid arthritis** | Inflammation |
-| **Cancer** | Competitive pathways |
-| **Cardiovascular disease** | Endothelial dysfunction |
+---
 
-### DGLA as Anti-Cancer
-- **Inhibits growth and differentiation of malignancies**
-- Mechanism: PGE1 effects on cell signaling
-- Research area: Cancer prevention
+## 3. METABOLIC INTERPRETATION
 
-## Testing
+### DGLA Levels
 
-### Plasma DGLA Levels
-- **Low DGLA:** <0.5% of total fatty acids
-- **Optimal:** 1-2% of total fatty acids
+| Level (% of total fatty acids) | Status |
+|--------------------------------|--------|
+| **1-3%** | Normal |
+| **<1%** | Low |
 
-### DGLA:AA Ratio
-| Ratio | Interpretation |
-|-------|---------------|
-| **High DGLA, Low AA** | Anti-inflammatory balance |
-| **Low DGLA, High AA** | Pro-inflammatory state |
-| **Both elevated** | Active conversion to AA |
+---
 
-## Supplementation
+## 4. COFACTORS
 
-### Direct DGLA Sources
-- Rare (mostly research)
-- Usually supplemented as **GLA** (precursor)
+### DGLA Production
 
-### Indirect Support
-| Approach | Effect |
-|----------|--------|
-| **GLA supplements** | DGLA precursor |
-| **Zinc** | Elongase cofactor |
-| **Magnesium** | Enzyme function |
-| **Reduce stress** | Less enzyme inhibition |
-| **No alcohol** | Better conversion |
+- GLA precursor
+- Delta-5-desaturase enzyme
 
-## Clinical Patterns
+---
 
-### Elevated DGLA
-**Causes:**
-- DGLA/GLA supplements
-- Good conversion efficiency
-
-**Associations:**
-- Central obesity
-- Insulin increase
-- **Must assess with AA ratio**
-
-### Reduced DGLA
-**Causes:**
-- Diabetes
-- Alcoholism
-- Atopic dermatitis
-- Cardiovascular disease
-- Aging
-
-**Consequences:**
-- Reduced PGE1
-- Less anti-inflammatory protection
-- Impaired immune regulation
-
-## The DGLA-AA Balance
-
-### Critical Clinical Decision
-DGLA can convert to **AA** (pro-inflammatory) via Δ5-desaturase
-
-**Prevention strategies:**
-1. **EPA supplementation** — blocks Δ5-desaturase
-2. **Monitor ratio** — DGLA:AA >1 is protective
-3. **Context matters** — overall ω6:ω3 ratio
-
-### Optimal Scenario
-- High DGLA
-- Moderate AA
-- Adequate EPA
-- Result: Anti-inflammatory balance
-
-## Interventions
+## 5. INTERVENTIONS
 
 ### For Low DGLA
-1. **GLA supplements** — 300-500mg/day
-2. **Zinc** — 15-30mg/day
-3. **Magnesium** — 400-600mg/day
-4. **Stress reduction** — preserves enzyme function
-5. **Avoid alcohol** — enzyme inhibitor
 
-### For High DGLA + High AA
-1. **EPA** — 2-3g/day (blocks AA formation)
-2. **Reduce ω6 intake** — less substrate
-3. **Increase ω3** — competitive inhibition
+- GLA supplementation (evening primrose, borage)
+- Direct DGLA (rare)
 
-## Related Files
-- [[Z-006-0201|Linoleic Acid (LA) — Essential Omega-6]]
-- [[Z-006-0202|Gamma-Linolenic Acid (GLA) — Anti-Inflammatory Omega-6]]
-- [[Z-006-0204|Arachidonic Acid (AA) — Pro-Inflammatory Omega-6]]
-- [[Z-006-0102|Eicosapentaenoic Acid (EPA) — Omega-3]]
-- [[REF-FFA-001|Free Fatty Acids Complete Analysis]]
-
-source-litnote: Extracted from Free fatty acids analysis extended.md
 ---
-*Part of Fatty Acids Series*
+
+## 6. CONNECTED BIOMARKERS
+
+| Biomarker | Relationship |
+|-----------|--------------|
+| **GLA** | Precursor |
+| **AA** | Competes |
+
+---
+
+## 7. OPTIMAL RANGE
+
+| Population | Optimal |
+|------------|---------|
+| **Adults** | 1-3% |
+
+---
+
+## 8. ACCEPTED RANGE
+
+| Category | Range |
+|----------|-------|
+| **Normal** | 0.5-4% |
+
+---
+
+## 9. PROBLEMATIC RANGE
+
+| Level | Concern | Action |
+|-------|---------|--------|
+| **<0.5%** | Low | GLA supplementation |
+
+---
+
+## 10. CLINICAL WEIGHT
+
+**Significance: ⭐⭐⭐ (3/5 — Moderate)**
+
+**Anti-inflammatory omega-6**
+
+**Always with:**
+- GLA, AA
+
+---
+
+## RELATED FILES
+- [[Free_Fatty_Acids_Complete_[REF-FFA-001].md|Fatty Acids Reference]]
+
+---
+*Complete biomarker foundation — DGLA*
 *Created: 2026-03-31*
+*Upgraded to Gen 2 standard*

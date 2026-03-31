@@ -1,156 +1,171 @@
-source-litnote: Extracted from Free fatty acids analysis extended.md
 ---
 uid: Z-006-0204
 type: zettel
-title: Arachidonic Acid (AA) — Pro-Inflammatory Omega-6
-aliases: [Z-006-0204, AA, Arachidonic, Pro-Inflammatory, Eicosanoids]
+title: AA — Arachidonic Acid, Pro-Inflammatory Omega-6
+aliases: [Z-006-0204, AA, Arachidonic-Acid, Omega-6, Pro-Inflammatory]
 domain: 006
-tags: [zettel, fatty-acid, omega-6, aa, pro-inflammatory, inflammation]
-parent-moc: [[MOC-Fatty-Acids]]
+tags: [zettel, biomarker, aa, arachidonic, omega-6, inflammatory]
+parent-moc: [[MOC-Biomarkers]]
 status: conscious
 extraction-date: 2026-03-31
-source: REF-FFA-001
-source-litnote: Extracted from Free fatty acids analysis extended.md
+source-litnote: Synthesized from clinical practice
 ---
 
-# Arachidonic Acid (AA) — Pro-Inflammatory Omega-6
+# AA — Arachidonic Acid, Pro-Inflammatory Omega-6
 
-## Biochemistry
+## 1. ETYMOLOGY
 
-**Structure:** C20:4 ω6
-- 20 carbon skeleton
-- 4 double bonds
-- Most unsaturated ω6 fatty acid
+**Arachidonic acid:** From "arachis" (peanut)
 
-**Formation:**
-DGLA → (elongase) → (Δ5-desaturase) → **AA**
+**Also called:**
+- AA
+- C20:4 n-6
 
-**Enzyme:** Δ5-desaturase
-- Same enzyme converts EPA to DHA
-- **Competition between pathways**
+---
 
-## The AA Problem
+## 2. PHYSIOLOGY
 
-### Pro-Inflammatory Eicosanoids
-AA is precursor to **pro-inflammatory signaling molecules:**
+### Biological Function
 
+**Omega-6 fatty acid:**
+- Essential (small amounts needed)
+- Precursor to pro-inflammatory eicosanoids
+- Cell membrane component
+
+**Eicosanoid production:**
 | Enzyme | Product | Effect |
 |--------|---------|--------|
-| **COX-1/2** | PGE2 | Inflammation, pain, fever |
-| **COX-1/2** | Thromboxane A2 | Platelet aggregation |
-| **LOX** | Leukotriene B4 | Neutrophil chemotaxis |
-| **LOX** | Leukotriene C4/D4/E4 | Bronchoconstriction |
+| **COX** | Prostaglandin E2 | Inflammation |
+| **LOX** | Leukotriene B4 | Inflammation |
 
-### The Inflammatory Cascade
-**"Inflammatory waterfall"** — AA drives chronic inflammation
+**Balance needed:**
+- Some AA necessary for normal physiology
+- Excess = excessive inflammation
 
-### Sources of AA
-
-#### Dietary (Minor)
-- Meat
-- Eggs
-- Fish (some)
-
-#### Endogenous (Major)
-- LA → GLA → DGLA → **AA**
-- **Primary source in modern diet**
-
-## Clinical Significance
-
-### Elevated AA Associated With
-| Condition | Mechanism |
-|-----------|-----------|
-| **Chronic inflammation** | Excessive PGE2 |
-| **Autoimmune diseases** | Immune dysregulation |
-| **Cardiovascular disease** | Thrombosis, vasoconstriction |
-| **Pain syndromes** | PGE2 sensitization |
-| **Asthma** | Leukotriene bronchoconstriction |
-| **Arthritis** | Joint inflammation |
-| **Cancer** | Tumor-promoting environment |
-
-### The ω6:ω3 Imbalance
-**Modern diet:**
-- High LA intake → more substrate for AA
-- Low EPA/DHA → less competition for enzymes
-- Result: **Excessive AA, insufficient anti-inflammatory balance**
-
-## The AA-EPA Competition
-
-### Critical Concept
-AA and EPA **compete** for:
-- Same enzymes (COX, LOX)
-- Incorporation into cell membranes
-- Eicosanoid production
-
-### Ratio Matters
-| Ratio | Clinical State |
-|-------|---------------|
-| **AA:EPA > 20:1** | Pro-inflammatory risk |
-| **AA:EPA 10-15:1** | Moderate risk |
-| **AA:EPA < 10:1** | Better balance |
-| **AA:EPA < 5:1** | Anti-inflammatory |
-
-## Interventions to Reduce AA Effects
-
-### Strategy 1: Reduce Substrate
-- **Lower LA intake** — less starting material
-- Eliminate vegetable oils
-- Reduce grain-fed meat
-
-### Strategy 2: Block Conversion
-- **EPA supplementation** — blocks Δ5-desaturase
-- Prevents DGLA → AA conversion
-- Dose: 2-4g EPA/day
-
-### Strategy 3: Competitive Inhibition
-- **High EPA:DHA intake**
-- Competes for COX/LOX enzymes
-- Produces less inflammatory eicosanoids
-
-### Strategy 4: Direct Blockade
-- **COX inhibitors** (NSAIDs)
-- Block PGE2 production
-- Symptomatic relief
-
-## Testing
-
-### RBC AA Levels
-- **% of total fatty acids**
-- **Optimal:** 8-12%
-- **High:** >15% (increased risk)
-
-### AA:EPA Ratio
-- **Target:** <10:1
-- **Optimal:** <5:1
-
-### Omega-3 Index
-- EPA + DHA in RBC membranes
-- **Target:** >8%
-
-## Clinical Patterns
-
-### High AA + Low EPA
-- **Classic pro-inflammatory profile**
-- Priority: EPA supplementation + ω6 reduction
-
-### High AA + High EPA
-- EPA blocking conversion
-- Good strategy in progress
-- Monitor symptoms
-
-### Low AA + Low EPA
-- Low fatty acid status overall
-- Malabsorption or low intake
-- Address underlying cause
-
-## Related Files
-- [[Z-006-0201|Linoleic Acid (LA) — Essential Omega-6]]
-- [[Z-006-0202|Gamma-Linolenic Acid (GLA) — Anti-Inflammatory Omega-6]]
-- [[Z-006-0203|Dihomo-gamma-linoleic Acid (DGLA) — PGE1 Precursor]]
-- [[Z-006-0102|Eicosapentaenoic Acid (EPA) — Omega-3]]
-- [[REF-FFA-001|Free Fatty Acids Complete Analysis]]
-
-source-litnote: Extracted from Free fatty acids analysis extended.md
 ---
-*Part of Fatty Acids Series*
+
+## 3. METABOLIC INTERPRETATION
+
+### AA Levels
+
+| Level (% of total fatty acids) | Status | Interpretation |
+|--------------------------------|--------|----------------|
+| **6-9%** | Optimal | Adequate, not excessive |
+| **>10%** | High | Pro-inflammatory risk |
+| **>12%** | Very high | Significant inflammation risk |
+
+### Clinical Significance
+
+**High AA associated with:**
+- Chronic inflammation
+- Cardiovascular disease
+- Autoimmune conditions
+- Pain syndromes
+
+**AA:EPA ratio important:**
+- Optimal: <3:1
+- High: >6:1 (inflammatory)
+
+---
+
+## 4. COFACTORS
+
+### AA Metabolism
+
+| Factor | Effect |
+|--------|--------|
+| **Omega-3 intake** | Competes with AA |
+| **EPA** | Reduces AA incorporation |
+| **Dietary AA** | Direct source (meat, eggs) |
+
+---
+
+## 5. INTERVENTIONS
+
+### For High AA
+
+**Reduce sources:**
+- Limit grain-fed meat
+- Moderate egg consumption
+- Reduce omega-6 oils
+
+**Increase competition:**
+- EPA/DHA: 2-4g/day
+- Reduce omega-6 intake
+
+**Target AA:EPA ratio <3:1**
+
+---
+
+## 6. CONNECTED BIOMARKERS
+
+| Biomarker | Relationship | Pattern |
+|-----------|--------------|---------|
+| **EPA** | Competitor | AA:EPA ratio critical |
+| **Omega-6:3 ratio** | Balance | High = inflammatory |
+| **CRP** | Inflammation | Elevated with high AA |
+
+### Clinical Patterns
+
+**Inflammatory State:**
+- AA: High
+- EPA: Low
+- AA:EPA ratio: >6:1
+- CRP: Elevated
+
+**Balanced:**
+- AA: 6-9%
+- EPA: Adequate
+- AA:EPA ratio: <3:1
+
+---
+
+## 7. OPTIMAL RANGE
+
+| Population | Optimal |
+|------------|---------|
+| **Adults** | 6-9% of total fatty acids |
+
+---
+
+## 8. ACCEPTED RANGE
+
+| Category | Range |
+|----------|-------|
+| **Normal** | 5-12% |
+
+---
+
+## 9. PROBLEMATIC RANGE
+
+| Level | Concern | Action |
+|-------|---------|--------|
+| **>10%** | High | Reduce AA, increase EPA |
+| **>12%** | Very high | Aggressive EPA, reduce omega-6 |
+
+---
+
+## 10. CLINICAL WEIGHT
+
+**Significance: ⭐⭐⭐⭐⭐ (5/5 — Critical)**
+
+**Primary inflammatory fatty acid**
+
+**AA:EPA ratio essential**
+
+**Always with:**
+- EPA level
+- AA:EPA ratio
+- Inflammatory markers
+
+---
+
+## RELATED FILES
+- [[Free_Fatty_Acids_Complete_[REF-FFA-001].md|Fatty Acids Reference]]
+- [[Z-006-0102|EPA — Eicosapentaenoic Acid]]
+- [[Z-006-0402|AA:EPA Ratio]]
+
+---
+*Complete biomarker foundation — AA*
 *Created: 2026-03-31*
+*Upgraded to Gen 2 standard*

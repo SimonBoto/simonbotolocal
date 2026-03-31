@@ -1,115 +1,180 @@
-source-litnote: Extracted from Free fatty acids analysis extended.md
 ---
 uid: Z-006-0101
 type: zettel
-title: Alpha-Linolenic Acid (ALA) — Essential Omega-3
-aliases: [Z-006-0101, ALA, Alpha-Linolenic, Omega-3-Essential]
+title: ALA — Alpha-Linolenic Acid, Plant Omega-3
+aliases: [Z-006-0101, ALA, Alpha-Linolenic, Omega-3, Plant-Based]
 domain: 006
-tags: [zettel, fatty-acid, omega-3, ala, essential, plant-based]
-parent-moc: [[MOC-Fatty-Acids]]
+tags: [zettel, biomarker, ala, omega-3, plant, essential]
+parent-moc: [[MOC-Biomarkers]]
 status: conscious
 extraction-date: 2026-03-31
-source: REF-FFA-001
-source-litnote: Extracted from Free fatty acids analysis extended.md
+source-litnote: Synthesized from clinical practice
 ---
 
-# Alpha-Linolenic Acid (ALA) — Essential Omega-3
+# ALA — Alpha-Linolenic Acid, Plant Omega-3
 
-## Biochemistry
+## 1. ETYMOLOGY
 
-**Structure:** C18:3 ω3
-- 18 carbon skeleton
-- 3 double bonds
-- First double bond at carbon 3 (methyl end)
+**Alpha-linolenic acid:** From "linolenic" (flax/linseed oil)
 
-**Classification:** Essential fatty acid (cannot be synthesized)
+**Also called:**
+- ALA
+- C18:3 n-3
 
-## Sources
+---
 
-| Source | Form |
-|--------|------|
-| Flaxseed | Whole, ground, oil |
-| Walnuts | Whole, oil |
-| Chia seeds | Whole |
-| Green leafy vegetables | Fresh |
-| Soybean oil | Oil |
-| Canola oil | Oil |
+## 2. PHYSIOLOGY
 
-## Metabolism
+### Biological Function
+
+**Essential omega-3 fatty acid:**
+- Must be obtained from diet
+- Precursor to EPA and DHA (poor conversion)
+- Plant-based omega-3
 
 **Conversion pathway:**
-ALA → (Δ6-desaturase) → Stearidonic acid → (elongase) → EPA → DHA
+```
+ALA → EPA → DHA (very limited in humans)
+```
 
-**Critical limitation:**
-- **Conversion rate: <5-10%**
-- Most ALA used for **energy production**, not EPA/DHA synthesis
-- Delta-6-desaturase is rate-limiting
+**Conversion rate:** <5% to EPA, <0.5% to DHA
 
-## Clinical Reality
-
-### The ALA Trap
-Many people believe eating flaxseed provides EPA/DHA benefits.
-
-**Truth:**
-- ALA ≠ EPA/DHA directly
-- Conversion is inefficient
-- Direct EPA/DHA intake preferred
-
-### Who Benefits from ALA
-- Vegetarians/vegans (no fish options)
-- Those adding to existing EPA/DHA intake
-- Energy production needs
-
-## Cofactors for Conversion
-| Cofactor | Role |
-|----------|------|
-| Zinc | Δ6-desaturase function |
-| B3 (Niacin) | Desaturase activity |
-| Magnesium | Enzyme cofactor |
-| Vitamin C | Antioxidant protection |
-
-## Inhibitors of Conversion
-- Alcohol
-- Cortisol
-- Trans fats
-- High ω6 intake (competition)
-
-## Clinical Significance
-
-### Adequate ALA Intake
-- Skin health
-- Cardiovascular support
-- Anti-inflammatory base
-
-### ALA Deficiency
-Rare in developed countries (vegetable oils ubiquitous)
-
-### Excessive ALA
-- May suppress immune function
-- Balance with EPA/DHA
-
-## Recommendations
-
-### For Non-Vegetarians
-- **Primary:** EPA/DHA from fish (2-3x/week)
-- **Secondary:** ALA from flax/walnuts as addition
-
-### For Vegetarians/Vegans
-- Maximize ALA intake
-- Consider algae-derived DHA
-- Ensure cofactor adequacy
-
-### Daily Intake
-- 1-2 tablespoons ground flaxseed
-- OR 1 tablespoon flaxseed oil
-- OR handful walnuts
-
-## Related Files
-- [[Z-006-0102|Eicosapentaenoic Acid (EPA) — Omega-3]]
-- [[Z-006-0103|Docosahexaenoic Acid (DHA) — Omega-3]]
-- [[REF-FFA-001|Free Fatty Acids Complete Analysis]]
-
-source-litnote: Extracted from Free fatty acids analysis extended.md
 ---
-*Part of Fatty Acids Series*
+
+## 3. METABOLIC INTERPRETATION
+
+### ALA Levels
+
+| Level (% of total fatty acids) | Status | Interpretation |
+|--------------------------------|--------|----------------|
+| **0.5-1.0%** | Normal | Adequate intake |
+| **<0.5%** | Low | Insufficient plant omega-3 |
+| **>1.5%** | High | High intake, poor conversion |
+
+### Clinical Significance
+
+**Low ALA:**
+- Low plant food intake
+- May indicate low omega-3 status
+
+**High ALA with low EPA/DHA:**
+- Poor delta-6-desaturase activity
+- High omega-6 competition
+- Genetic factors
+
+---
+
+## 4. COFACTORS
+
+### ALA Conversion Requirements
+
+| Nutrient | Role | Deficiency Effect |
+|----------|------|-------------------|
+| **B6** | Desaturase cofactor | Impaired conversion |
+| **Zinc** | Enzyme cofactor | Impaired conversion |
+| **Magnesium** | Enzyme cofactor | Impaired conversion |
+| **Low omega-6** | Less competition | Better conversion |
+
+### Conversion Inhibitors
+
+- High omega-6 intake
+- Trans fats
+- Alcohol
+- Aging
+- Smoking
+
+---
+
+## 5. INTERVENTIONS
+
+### For Low ALA
+
+**Increase sources:**
+- Flaxseeds/flax oil
+- Chia seeds
+- Walnuts
+- Hemp seeds
+
+### For Poor Conversion
+
+**Direct EPA/DHA:**
+- Fish oil (better than relying on ALA)
+- Algae oil (vegan)
+
+**Support conversion:**
+- B6, zinc, magnesium
+- Reduce omega-6
+
+---
+
+## 6. CONNECTED BIOMARKERS
+
+| Biomarker | Relationship | Pattern |
+|-----------|--------------|---------|
+| **EPA** | Product | Low conversion if ALA high, EPA low |
+| **DHA** | Product | Very low conversion |
+| **Omega-6:3 ratio** | Balance | High ratio impairs conversion |
+
+### Clinical Patterns
+
+**Poor Converter:**
+- ALA: Normal/high
+- EPA: Low
+- DHA: Low
+- **Genetic or dietary factor**
+
+**Vegan without supplementation:**
+- ALA: Adequate
+- EPA/DHA: Often low
+- **Consider algae oil**
+
+---
+
+## 7. OPTIMAL RANGE
+
+| Population | Optimal |
+|------------|---------|
+| **Adults** | 0.5-1.0% of total fatty acids |
+
+---
+
+## 8. ACCEPTED RANGE
+
+| Category | Range |
+|----------|-------|
+| **Normal** | 0.3-1.5% |
+
+---
+
+## 9. PROBLEMATIC RANGE
+
+| Level | Concern | Action |
+|-------|---------|--------|
+| **<0.3%** | Low | Increase ALA sources |
+| **>2.0%** | High with low EPA/DHA | Poor conversion, use direct EPA/DHA |
+
+---
+
+## 10. CLINICAL WEIGHT
+
+**Significance: ⭐⭐⭐ (3/5 — Moderate)**
+
+**Essential but poor conversion**
+
+**Marker of plant food intake**
+
+**Always with:**
+- EPA, DHA levels
+- Omega-6:3 ratio
+
+---
+
+## RELATED FILES
+- [[Free_Fatty_Acids_Complete_[REF-FFA-001].md|Fatty Acids Reference]]
+- [[Z-006-0102|EPA — Eicosapentaenoic Acid]]
+- [[Z-006-0103|DHA — Docosahexaenoic Acid]]
+
+---
+*Complete biomarker foundation — ALA*
 *Created: 2026-03-31*
+*Upgraded to Gen 2 standard*
