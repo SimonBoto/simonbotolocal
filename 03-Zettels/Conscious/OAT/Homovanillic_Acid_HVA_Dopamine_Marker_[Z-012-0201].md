@@ -1,128 +1,205 @@
-source-litnote: Extracted from Analysis organic acids extended.md
 ---
 uid: Z-012-0201
 type: zettel
-title: Homovanillic Acid (HVA) — Dopamine Metabolism Marker
-aliases: [Z-012-0201, HVA, Homovanillic, Dopamine, Reward-System]
+title: HVA — Homovanillic Acid, Dopamine Metabolite
+aliases: [Z-012-0201, HVA, Homovanillic-Acid, Dopamine, Neurotransmitter]
 domain: 012
-tags: [zettel, oat, neurotransmitter, dopamine, hva, reward, motivation]
-parent-moc: [[MOC-OAT-Neurotransmitters]]
+tags: [zettel, biomarker, hva, dopamine, neurotransmitter, oat]
+parent-moc: [[MOC-Biomarkers]]
 status: conscious
 extraction-date: 2026-03-31
-source: Analysis organic acids extended.md
-source-litnote: Extracted from Analysis organic acids extended.md
+source-litnote: Synthesized from clinical practice
 ---
 
-# Homovanillic Acid (HVA) — Dopamine Metabolism Marker
+# HVA — Homovanillic Acid, Dopamine Metabolite
 
-## Biochemistry
+## 1. ETYMOLOGY
 
-**Source:** Dopamine metabolism
+**Homovanillic acid:** From "homo-" (same) + "vanillic" (vanillin-related)
+
+**Vanillic:** From vanilla (flavor compound)
+
+**Also called:**
+- HVA
+- 4-Hydroxy-3-methoxyphenylacetic acid
+
+---
+
+## 2. PHYSIOLOGY
+
+### Biological Function
+
+**Primary dopamine metabolite:**
+- Dopamine → HVA (via MAO and COMT)
+- ~50% from CNS, 50% from peripheral
+- Urinary marker of dopamine turnover
+
+**Dopamine functions:**
+| System | Function |
+|--------|----------|
+| **Brain** | Motivation, reward, motor control |
+| **Sympathetic NS** | Vasoconstriction, heart rate |
+| **Kidney** | Sodium regulation |
+| **GI tract** | Motility |
 
 **Production pathway:**
-Phenylalanine → Tyrosine → L-DOPA → Dopamine → HVA
+```
+Tyrosine → L-DOPA → Dopamine → (MAO/COMT) → HVA
+```
 
-**Cofactors required:**
-- Iron
-- Tetrahydrobiopterin (BH4)
-- B6 (dopamine synthesis)
-- Copper + Vitamin C (dopamine β-hydroxylase → norepinephrine)
-- MAO (B2) + COMT (Mg, B6, SAM) → HVA formation
+---
 
-**Origin:**
-- Primarily peripheral (intestinal production)
-- Some CNS contribution
+## 3. METABOLIC INTERPRETATION
 
-## Optimal Range
+### HVA Levels
 
-| Marker | Optimal | Unit |
-|--------|---------|------|
-| **HVA** | 1.2 – 3.6 | mmol/mol Crea |
+| Level | Status | Interpretation |
+|-------|--------|----------------|
+| **Low** | Reduced | Low dopamine turnover |
+| **Normal** | Balanced | Normal dopamine |
+| **High** | Elevated | High dopamine turnover |
 
-## Clinical Interpretation
+### Causes of Abnormal Levels
 
-### Functions of Dopamine
-- **Reward and pleasure** — motivation, goal-directed behavior
-- **Sympathetic nervous system** — alertness, readiness for action
-- **Motor control** — coordination, movement initiation
+**Low HVA:**
+| Cause | Mechanism |
+|-------|-----------|
+| **Dopamine deficiency** | Parkinson's, depression |
+| **MAO inhibitors** | Block breakdown (paradoxically low HVA) |
+| **Copper deficiency** | Dopamine beta-hydroxylase cofactor |
+| **Iron deficiency** | Tyrosine hydroxylase cofactor |
 
-### Elevated HVA Indicates
+**High HVA:**
+| Cause | Mechanism |
+|-------|-----------|
+| **Stress** | Sympathetic activation |
+| **Pheochromocytoma** | Catecholamine-secreting tumor |
+| **Neuroblastoma** | Pediatric tumor marker |
+| **Dopamine excess** | Mania, stimulant use |
 
-#### 1. Block in Norepinephrine Synthesis
-- Dopamine not converting to norepinephrine
-- Cofactor deficiency (copper, vitamin C)
+---
 
-#### 2. Dietary Factors
-- Quercetin
-- Tomatoes
-- Onions
-- Tea
+## 4. COFACTORS
 
-#### 3. Pathological
-- Neuroblastoma (rare)
+### Dopamine Synthesis Requirements
 
-### Decreased HVA Indicates
+| Nutrient | Role | Deficiency Effect |
+|----------|------|-------------------|
+| **Tyrosine** | Precursor | Reduced dopamine |
+| **Iron** | Tyrosine hydroxylase cofactor | Reduced synthesis |
+| **Copper** | Dopamine beta-hydroxylase | Reduced conversion |
+| **B6** | AADC enzyme cofactor | Reduced conversion |
+| **Magnesium** | Receptor function | Altered signaling |
+| **Zinc** | Receptor function | Altered signaling |
 
-#### 1. Antidepressant Use
-- Medication effect
+---
 
-#### 2. Amino Acid Deficiency
-- Phenylalanine/tyrosine insufficiency
-- Protein malabsorption
-
-#### 3. Methylation Disorder
-- SAM deficiency
-- COMT dysfunction
-
-## Clinical Significance
-
-### HVA Related Conditions
-| System | Manifestation |
-|--------|---------------|
-| **Mood** | Depression, anhedonia, lack of motivation |
-| **Stress response** | PTSD, anxiety disorders |
-| **Cognitive** | ADHD, executive dysfunction |
-| **Motor** | Parkinson's risk, movement disorders |
-
-## Pattern Recognition
-
-### HVA:5-HIAA Ratio
-| Pattern | Interpretation |
-|---------|---------------|
-| **HVA > 5-HIAA (slightly)** | Normal sympathetic dominance |
-| **HVA = 5-HIAA** | Ratio disturbed — check mental work |
-| **HVA < 5-HIAA** | Serotonin dominance — introspection, sleep issues |
-| **Both elevated** | High mental activity, stress |
-
-### HVA + VMA Both Elevated
-- General catecholamine excess
-- Stress response active
-- Consider adrenal support
-
-## Interventions
+## 5. INTERVENTIONS
 
 ### For Low HVA
-- **Phenylalanine/tyrosine** — precursors
-- **B6, B2, magnesium** — cofactors
-- **Iron** — if deficient
-- **SAMe** — methylation support
+
+**Dopamine support:**
+- L-tyrosine: 500-2000 mg/day
+- Mucuna pruriens (L-DOPA source)
+- Iron: if deficient
+- Copper: if deficient
+- B6: 50-100 mg/day
+
+**Lifestyle:**
+- Exercise (increases dopamine)
+- Sunlight exposure
+- Goal-directed activities
 
 ### For High HVA
-- **Address block** — copper, vitamin C if norepinephrine conversion impaired
-- **Reduce dietary quercetin** temporarily
-- **Stress management** — if stress-driven
 
-### Lifestyle
-- **Outdoor activity** — natural dopamine support
-- **Exercise** — increases dopamine
-- **Reduce screen time** — excessive mental work depletes dopamine
+**Address cause:**
+- Stress reduction
+- Evaluate for pheochromocytoma (if very high)
+- Reduce stimulants
 
-## Related Files
-- [[Z-012-0202|Vanillylmandelic Acid — Adrenaline Marker]]
-- [[Z-012-0203|5-HIAA — Serotonin Metabolism Marker]]
-- [[REF-OAT-003|OAT Extended Analysis — Complete Extraction]]
-
-source-litnote: Extracted from Analysis organic acids extended.md
 ---
-*Part of OAT Neurotransmitter Series*
+
+## 6. CONNECTED BIOMARKERS
+
+| Biomarker | Relationship | Pattern |
+|-----------|--------------|---------|
+| **VMA** | Norepinephrine metabolite | Both elevated in catecholamine excess |
+| **5-HIAA** | Serotonin metabolite | HVA:5-HIAA ratio important |
+| **Dopamine** | Parent neurotransmitter | Direct correlation |
+| **Normetanephrine** | Metanephrine metabolite | Pheochromocytoma marker |
+
+### Clinical Patterns
+
+**Parkinson's Disease:**
+- HVA: Low
+- Dopamine: Low
+- **Degenerative dopamine loss**
+
+**Depression (Atypical):**
+- HVA: Low
+- 5-HIAA: Variable
+- **Low dopamine state**
+
+**Pheochromocytoma:**
+- HVA: Very high
+- VMA: Very high
+- Metanephrines: Very high
+- **Catecholamine-secreting tumor**
+
+**HVA:5-HIAA Ratio:**
+- Normal: ~2:1
+- High ratio: Dopamine dominance
+- Low ratio: Serotonin dominance
+
+---
+
+## 7. OPTIMAL RANGE
+
+| Population | Optimal |
+|------------|---------|
+| **Adults** | Middle of reference range |
+
+---
+
+## 8. ACCEPTED RANGE
+
+| Type | Range |
+|------|-------|
+| **Urine (24h)** | 1.5-4.5 mg/24h |
+
+---
+
+## 9. PROBLEMATIC RANGE
+
+| Level | Concern | Action |
+|-------|---------|--------|
+| **Very low** | Low dopamine | Dopamine support |
+| **>10 mg/24h** | High | Evaluate for pheochromocytoma |
+| **>20 mg/24h** | Very high | Strong tumor suspicion |
+
+---
+
+## 10. CLINICAL WEIGHT
+
+**Significance: ⭐⭐⭐⭐⭐ (5/5 — Critical)**
+
+**Primary dopamine metabolite**
+
+**Key neurotransmitter marker**
+
+**Always with:**
+- VMA (norepinephrine metabolite)
+- 5-HIAA (serotonin metabolite)
+- Clinical symptoms
+
+---
+
+## RELATED FILES
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
+- [[Z-012-0202|VMA — Vanillylmandelic Acid]]
+- [[Z-012-0204|5-HIAA — Serotonin Metabolite]]
+
+---
+*Complete biomarker foundation — HVA*
 *Created: 2026-03-31*
+*Upgraded to Gen 2 standard*

@@ -1,159 +1,193 @@
-source-litnote: Extracted from Analysis organic acids extended.md
 ---
 uid: Z-012-0203
 type: zettel
-title: 5-Hydroxyindoleacetic Acid (5-HIAA) — Serotonin Metabolism Marker
+title: 5-HIAA — 5-Hydroxyindoleacetic Acid, Serotonin Metabolite
 aliases: [Z-012-0203, 5-HIAA, Serotonin, 5-Hydroxyindoleacetic, Parasympathetic]
 domain: 012
-tags: [zettel, oat, neurotransmitter, serotonin, 5-hiaa, sleep, digestion, mood]
-parent-moc: [[MOC-OAT-Neurotransmitters]]
+tags: [zettel, biomarker, 5-hiaa, serotonin, neurotransmitter, oat]
+parent-moc: [[MOC-Biomarkers]]
 status: conscious
 extraction-date: 2026-03-31
-source: Analysis organic acids extended.md
-source-litnote: Extracted from Analysis organic acids extended.md
+source-litnote: Synthesized from clinical practice
 ---
 
-# 5-Hydroxyindoleacetic Acid (5-HIAA) — Serotonin Metabolism Marker
+# 5-HIAA — 5-Hydroxyindoleacetic Acid, Serotonin Metabolite
 
-## Biochemistry
+## 1. ETYMOLOGY
 
-**Source:** Serotonin (5-HT) catabolism via MAO
+**5-Hydroxyindoleacetic acid:** Indole compound with hydroxy and acetic acid groups
+
+**Also called:**
+- 5-HIAA
+- Serotonin metabolite
+
+---
+
+## 2. PHYSIOLOGY
+
+### Biological Function
+
+**Primary serotonin metabolite:**
+- Serotonin → 5-HIAA (via MAO-A)
+- ~90% from GI tract (enterochromaffin cells)
+- ~10% from CNS
+- Urinary marker of serotonin turnover
+
+**Serotonin functions:**
+| System | Function |
+|--------|----------|
+| **GI tract** | Motility, secretion (90% of body's serotonin) |
+| **Brain** | Mood, sleep, appetite |
+| **Cardiovascular** | Platelet function |
 
 **Production pathway:**
-Tryptophan → 5-HTP → Serotonin → (MAO) → 5-HIAA
+```
+Tryptophan → 5-HTP → Serotonin → (MAO-A) → 5-HIAA
+```
 
-**Origin:**
-- **Primarily extra-CNS** (90%+)
-  - Enterochromaffin cells (GI tract)
-  - Liver
-- Minor CNS contribution
+---
 
-**Note:** Urinary 5-HIAA mainly reflects peripheral serotonin, not brain serotonin
+## 3. METABOLIC INTERPRETATION
 
-## Optimal Range
+### 5-HIAA Levels
 
-| Marker | Optimal | Unit |
-|--------|---------|------|
-| **5-HIAA** | 1.0 – 4.0 | mmol/mol Crea |
+| Level | Status | Interpretation |
+|-------|--------|----------------|
+| **Low** | Reduced | Low serotonin turnover |
+| **Normal** | Balanced | Normal serotonin |
+| **High** | Elevated | High serotonin turnover |
 
-## Clinical Interpretation
+### Causes of Abnormal Levels
 
-### Functions of Serotonin
-- **Thinking and cognition** — processing, memory
-- **Introspection** — self-reflection, internal focus
-- **Parasympathetic nervous system** — rest, digestion, sleep
-- **GI motility** — gut function
-- **Mood regulation** — emotional stability
+**Low 5-HIAA:**
+| Cause | Mechanism |
+|-------|-----------|
+| **Tryptophan deficiency** | Precursor shortage |
+| **Malabsorption** | Poor nutrient absorption |
+| **Depression** | Reduced serotonin |
+| **MAO inhibitors** | Block breakdown |
 
-### Elevated 5-HIAA Indicates
+**High 5-HIAA:**
+| Cause | Mechanism |
+|-------|-----------|
+| **Carcinoid syndrome** | Serotonin-secreting tumor |
+| **Serotonin-rich foods** | Bananas, walnuts, avocados |
+| **5-HTP supplementation** | Precursor loading |
 
-#### 1. Microbiome Disturbance
-- Bacterial overgrowth producing serotonin
-- Intestinal inflammation increasing enterochromaffin cells
+---
 
-#### 2. Dietary Factors
-- High tryptophan foods:
-  - Bananas
-  - Kiwi
-  - Pineapple
-  - Nuts
-  - Tomatoes
+## 4. COFACTORS
 
-#### 3. Medications
-- Aspirin
-- Paracetamol (acetaminophen)
+### Serotonin Synthesis Requirements
 
-#### 4. Pathological
-- Carcinoid tumors (GI, lung)
-  - Rare but serious
-  - Consider if very high + flushing symptoms
+| Nutrient | Role | Deficiency Effect |
+|----------|------|-------------------|
+| **Tryptophan** | Precursor | Reduced serotonin |
+| **Iron** | Tryptophan hydroxylase | Reduced synthesis |
+| **B6** | AADC enzyme | Reduced conversion |
+| **Magnesium** | Receptor function | Altered signaling |
+| **Zinc** | Receptor function | Altered signaling |
 
-### Decreased 5-HIAA Indicates
+---
 
-#### 1. Tryptophan Issues
-- Malabsorption
-- Reduced dietary intake
-- Competing pathways (kynurenine)
-
-#### 2. Medications
-- MAO inhibitors
-
-#### 3. Metabolic Conditions
-- Metabolic syndrome
-- IBS
-- Migraine
-
-#### 4. Mood Disorders
-- Depression
-- Anxiety
-
-## The HVA:5-HIAA Ratio
-
-This ratio reflects **sympathetic vs. parasympathetic balance**:
-
-| Pattern | Ratio | Interpretation |
-|---------|-------|----------------|
-| **Normal** | HVA slightly > 5-HIAA | Healthy sympathetic dominance |
-| **Disturbed** | HVA = 5-HIAA or reversed | Imbalance — check lifestyle |
-| **Serotonin dominant** | 5-HIAA > HVA | Introspection, sleep issues, GI focus |
-| **Both high** | Both elevated | High mental activity, stress |
-
-### Clinical Correlation
-
-**Ratio disturbed + symptoms:**
-- Excessive mental work (computer, reading)
-- Indoor lifestyle
-- Need outdoor activity + B-vitamins
-
-## Pattern Recognition
-
-### 5-HIAA + IAA Both Elevated
-- Tryptophan metabolism disruption
-- Consider Hartnup's disease
-- Severe dysbiosis
-
-### 5-HIAA Elevated + HVA Normal/Low
-- Serotonin excess relative to dopamine
-- May present as:
-  - Excessive introspection
-  - Sleepiness
-  - GI dominance over action
-
-### 5-HIAA Low + HVA Normal/High
-- Dopamine dominance
-- May present as:
-  - Hyperactivity
-  - Impulsivity
-  - Difficulty resting
-
-## Interventions
+## 5. INTERVENTIONS
 
 ### For Low 5-HIAA
-- **Tryptophan or 5-HTP** — precursors
-- **B6** — cofactor for conversion
-- **Magnesium** — supports serotonin function
-- **Sunlight** — natural serotonin boost
-- **Exercise** — increases tryptophan availability
+
+**Serotonin support:**
+- Tryptophan: 500-2000 mg/day
+- 5-HTP: 50-200 mg/day
+- B6: 50-100 mg/day
+- Magnesium: 400-600 mg/day
+
+**Dietary:**
+- Turkey, chicken, eggs
+- Dairy
+- Nuts, seeds
 
 ### For High 5-HIAA
-- **Address dysbiosis** — if bacterial source
-- **Reduce high-tryptophan foods** temporarily
-- **Check medications** — aspirin, paracetamol
-- **Rule out carcinoid** — if very high + symptoms
 
-### Lifestyle for Balance
-- **Outdoor activity** — balances HVA:5-HIAA
-- **Exercise** — supports both neurotransmitters
-- **Sleep hygiene** — critical for serotonin
-- **Limit screen time** — excessive mental work disturbs ratio
+**If carcinoid suspected:**
+- Medical evaluation
+- Chromogranin A testing
+- Imaging
 
-## Related Files
-- [[Z-012-0201|Homovanillic Acid — Dopamine Metabolism Marker]]
-- [[Z-012-0202|Vanillylmandelic Acid — Adrenaline Marker]]
-- [[Z-012-0101|Indoleacetic Acid — Tryptophan Dysbiosis Marker]]
-- [[REF-OAT-003|OAT Extended Analysis — Complete Extraction]]
-
-source-litnote: Extracted from Analysis organic acids extended.md
 ---
-*Part of OAT Neurotransmitter Series*
+
+## 6. CONNECTED BIOMARKERS
+
+| Biomarker | Relationship | Pattern |
+|-----------|--------------|---------|
+| **HVA** | Dopamine metabolite | HVA:5-HIAA ratio |
+| **Tryptophan** | Precursor | May be low |
+| **Chromogranin A** | Neuroendocrine marker | Elevated in carcinoid |
+
+### Clinical Patterns
+
+**Depression:**
+- 5-HIAA: Often low
+- HVA: May be low
+- **Low monoamine metabolites**
+
+**Carcinoid Syndrome:**
+- 5-HIAA: Very high
+- Flushing, diarrhea, wheezing
+- **Serotonin-secreting tumor**
+
+**HVA:5-HIAA Ratio:**
+- Normal: ~2:1
+- High ratio: Dopamine dominance
+- Low ratio: Serotonin dominance
+
+---
+
+## 7. OPTIMAL RANGE
+
+| Population | Optimal |
+|------------|---------|
+| **Adults** | 2-8 mg/24h |
+
+---
+
+## 8. ACCEPTED RANGE
+
+| Type | Range |
+|------|-------|
+| **Urine (24h)** | 2-8 mg/24h |
+
+---
+
+## 9. PROBLEMATIC RANGE
+
+| Level | Concern | Action |
+|-------|---------|--------|
+| **Very low** | Low serotonin | Serotonin support |
+| **>15 mg/24h** | High | Evaluate for carcinoid |
+| **>25 mg/24h** | Very high | Strong carcinoid suspicion |
+
+---
+
+## 10. CLINICAL WEIGHT
+
+**Significance: ⭐⭐⭐⭐⭐ (5/5 — Critical)**
+
+**Primary serotonin metabolite**
+
+**Carcinoid tumor marker**
+
+**Always with:**
+- HVA (dopamine metabolite)
+- Tryptophan status
+- Clinical symptoms
+
+---
+
+## RELATED FILES
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
+- [[Z-012-0201|HVA — Homovanillic Acid]]
+- [[Z-012-0204|5-HIAA — Serotonin Metabolite (duplicate)]]
+
+---
+*Complete biomarker foundation — 5-HIAA*
 *Created: 2026-03-31*
+*Upgraded to Gen 2 standard*
