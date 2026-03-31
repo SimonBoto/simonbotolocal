@@ -37,13 +37,13 @@ source-litnote: Synthesized from clinical practice
 **Key characteristics:**
 | Feature | Description |
 |---------|-------------|
-| **Structure** | LDL particle + apo(a) |
+| **Structure** | [[LDL_Cholesterol_Low-Density_Lipoprotein_[Z-006-0001]|LDL]] particle + apo(a) |
 | **Apo(a)** | Kringle domains (like plasminogen) |
 | **Size variation** | Genetically determined (isoforms) |
 | **Levels** | 80-90% genetically determined |
 
 **Pathogenic mechanisms:**
-- Atherogenic (like LDL)
+- Atherogenic (like [[LDL_Cholesterol_Low-Density_Lipoprotein_[Z-006-0001]|LDL]])
 - Pro-thrombotic (interferes with fibrinolysis)
 - Pro-inflammatory
 

@@ -48,8 +48,8 @@ source-litnote: Synthesized from clinical practice
 | **Chylomicrons** | ApoB-48 | Low (rapidly cleared) |
 | **VLDL** | ApoB-100 | Moderate |
 | **IDL** | ApoB-100 | High |
-| **LDL** | ApoB-100 | High |
-| **Lp(a)** | ApoB-100 | Very high |
+| **[[LDL_Cholesterol_Low-Density_Lipoprotein_[Z-006-0001]|LDL]]** | ApoB-100 | High |
+| **[[Lp-a_Lipoprotein-a_Genetic_CV_Risk_[Z-006-0006]|Lp(a)]]** | ApoB-100 | Very high |
 
 source-litnote: Synthesized from clinical practice
 ---
