@@ -33,7 +33,7 @@ source-litnote: Synthesized from clinical practice
 
 **Reverse cholesterol transport:**
 - Removes cholesterol from peripheral tissues
-- Transports to liver for excretion (bile)
+- Transports to [[ALT_Alanine_Aminotransferase_[Z-009-0001]|liver]] for excretion (bile)
 - Anti-atherogenic effect
 
 **Additional protective functions:**
@@ -45,7 +45,7 @@ source-litnote: Synthesized from clinical practice
 ### HDL Particle Structure
 
 - **Small, dense particles**
-- **ApoA-I** primary protein (2 per particle)
+- **[[ApoB_Apolipoprotein_B_Atherogenic_Particles_[Z-006-0005]|ApoA-I]]** primary protein (2 per particle)
 - Rich in phospholipids
 - Cholesterol content variable
 

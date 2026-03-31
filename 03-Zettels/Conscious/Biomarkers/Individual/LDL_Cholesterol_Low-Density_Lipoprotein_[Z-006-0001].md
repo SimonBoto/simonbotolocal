@@ -36,13 +36,13 @@ source-litnote: Synthesized from clinical practice
 **Primary cholesterol transporter to tissues:**
 - Delivers cholesterol to cells for:
   - Membrane synthesis
-  - Steroid hormone production
+  - [[Testosterone_Total_Androgen_Status_[Z-011-0001]|Steroid hormone]] production
   - Bile acid synthesis
 
 **LDL particle structure:**
 - Core: Cholesterol esters, triglycerides
 - Surface: Phospholipids, free cholesterol
-- Protein: ApoB-100 (one per particle)
+- Protein: [[ApoB_Apolipoprotein_B_Atherogenic_Particles_[Z-006-0005]|ApoB-100]] (one per particle)
 
 ### LDL Receptor Pathway
 

@@ -33,8 +33,8 @@ source-litnote: Synthesized from clinical practice
 | Function | Description |
 |----------|-------------|
 | **Cell membranes** | Structural component, fluidity |
-| **Steroid hormones** | Precursor (cortisol, aldosterone, sex hormones) |
-| **Vitamin D** | Synthesis from 7-dehydrocholesterol |
+| **Steroid hormones** | Precursor ([[Cortisol_Adrenal_Stress_Hormone_[Z-011-0005]|cortisol]], aldosterone, [[Testosterone_Total_Androgen_Status_[Z-011-0001]|sex hormones]]) |
+| **[[Vitamin_D_25-OH_Calcidiol_Status_[Z-007-0001]|Vitamin D]]** | Synthesis from 7-dehydrocholesterol |
 | **Bile acids** | Synthesis in liver |
 | **Myelin** | Nerve insulation |
 

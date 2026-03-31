@@ -34,7 +34,7 @@ source-litnote: Synthesized from clinical practice
 
 **Formula:**
 ```
-Transferrin Saturation = (Serum Iron ÷ TIBC) × 100
+Transferrin Saturation = ([[Serum_Iron_Circulating_Availability_[Z-003-0004]|Serum Iron]] ÷ [[TIBC_Total_Iron_Binding_Capacity_[Z-003-0002]|TIBC]]) × 100
 ```
 
 Or:

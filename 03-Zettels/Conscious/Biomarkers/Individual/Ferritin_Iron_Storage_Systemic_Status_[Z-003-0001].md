@@ -38,7 +38,7 @@ source-litnote: Synthesized from clinical practice
 - Stores iron in soluble, non-toxic form
 - Prevents iron-catalyzed free radical formation
 - Releases iron on demand for:
-  - Hemoglobin synthesis
+  - [[Hemoglobin_Oxygen_Transport_Protein_[Z-001-1001]|Hemoglobin]] synthesis
   - Myoglobin production
   - Mitochondrial enzymes (ETC complexes)
   - DNA synthesis (ribonucleotide reductase)
@@ -52,7 +52,7 @@ source-litnote: Synthesized from clinical practice
 ### Cellular Dynamics
 
 **Iron Entry:**
-Fe²⁺ → (ferroportin export) → Fe³⁺ (ceruloplasmin oxidation) → binds transferrin → cellular uptake via TfR1 → endosome acidification → Fe²⁺ release (STEAP3) → ferritin storage
+Fe²⁺ → (ferroportin export) → Fe³⁺ ([[Copper_Essential_Mineral_Iron_[Z-007-0007]|ceruloplasmin]] oxidation) → binds [[TIBC_Total_Iron_Binding_Capacity_[Z-003-0002]|transferrin]] → cellular uptake via TfR1 → endosome acidification → Fe²⁺ release (STEAP3) → ferritin storage
 
 **Iron Release:**
 Ferritin → lysosomal degradation (ferritinophagy) → Fe²⁺ release via NCOA4 → cellular use or export via ferroportin

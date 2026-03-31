@@ -38,11 +38,11 @@ source-litnote: Synthesized from clinical practice
 - Transports iron from:
   - Intestine (absorption) to tissues
   - Macrophages (recycling) to erythroid precursors
-  - Liver stores to sites of use
+  - [[Ferritin_Iron_Storage_Systemic_Status_[Z-003-0001]|Liver stores]] to sites of use
 
 **Transferrin Characteristics:**
 - Molecular weight: 80 kDa
-- Synthesized primarily in liver
+- Synthesized primarily in [[ALT_Alanine_Aminotransferase_[Z-009-0001]|liver]]
 - Two iron-binding sites per molecule
 - Binds Fe³⁺ with high affinity (pH-dependent release)
 

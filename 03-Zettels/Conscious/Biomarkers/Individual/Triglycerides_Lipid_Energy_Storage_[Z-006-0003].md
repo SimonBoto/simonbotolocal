@@ -40,7 +40,7 @@ source-litnote: Synthesized from clinical practice
 **Metabolic roles:**
 - Energy reserve
 - Insulation/protection
-- Fat-soluble vitamin transport
+- [[Vitamin_A_Retinol_Vision_Immune_[Z-007-0005]|Fat-soluble vitamin]] transport
 
 ### Normal Metabolism
 
