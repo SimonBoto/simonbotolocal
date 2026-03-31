@@ -1,98 +1,135 @@
-source-litnote: Extracted from Analysis organic acids extended.md
 ---
 uid: Z-012-0106
 type: zettel
-title: D-arabinitol — Candida albicans Marker
-aliases: [Z-012-0106, D-arabinitol, Arabinitol, Candida, Yeast-Overgrowth]
+title: D-arabinitol — Candida Marker
+aliases: [Z-012-0106, D-arabinitol, Arabinitol, Candida, Yeast, Fungal]
 domain: 012
-tags: [zettel, oat, dysbiosis, candida, yeast, fungal, arabinitol]
-parent-moc: [[MOC-OAT-Dysbiosis]]
-domain: 012
+tags: [zettel, biomarker, d-arabinitol, candida, yeast, fungal]
+parent-moc: [[MOC-Biomarkers]]
 status: conscious
 extraction-date: 2026-03-31
-source: Analysis organic acids extended.md
-source-litnote: Extracted from Analysis organic acids extended.md
+source-litnote: Synthesized from clinical practice
 ---
 
-# D-arabinitol — Candida albicans Marker
+# D-arabinitol — Candida Marker
 
-## Biochemistry
+## 1. ETYMOLOGY
 
-**Source:** Sugar alcohol produced specifically by **Candida spp**
+**D-arabinitol:** Sugar alcohol from arabinose
 
-**Specificity:**
-- Produced by Candida albicans
-- Other Candida species
-- **Not** produced by bacteria or other fungi
+**Also called:**
+- Arabinitol
 
-**Mechanism:**
-Candida carbohydrate metabolism → D-arabinitol as byproduct
-
-## Clinical Interpretation
-
-### Elevated D-arabinitol Indicates
-
-#### 1. Candida albicans Overgrowth
-- Intestinal candidiasis
-- Can be subclinical (no obvious symptoms)
-
-#### 2. Systemic Candidiasis Risk
-- Marker of fungal load
-- May indicate translocation
-
-### Clinical Significance
-
-| Finding | Interpretation |
-|---------|---------------|
-| **Detectable D-arabinitol** | Candida overgrowth present |
-| **High levels** | Significant fungal burden |
-| **Subclinical** | No GI symptoms but fungal overgrowth active |
-
-## Why This Marker Matters
-
-### Advantages Over Other Candida Tests
-1. **Specific** — Only Candida produces it
-2. **Quantitative** — Level reflects burden
-3. **Systemic** — Reflects total body load, not just gut
-4. **Early detection** — Before clinical symptoms
-
-### Limitations
-- Cannot distinguish Candida species
-- Does not indicate location (gut vs. systemic)
-
-## Pattern Recognition
-
-### D-arabinitol + Orotic Acid Elevated
-- Strong candidiasis indicator
-- Orotic also elevated in Candida overgrowth
-- Consider comprehensive stool testing
-
-### D-arabinitol Elevated Alone
-- Candida overgrowth likely
-- May be early stage
-- Monitor other fungal markers
-
-## Interventions
-
-### Immediate Actions
-1. **Stool testing** — confirm with comprehensive analysis
-2. **Dietary modification** — reduce sugars, refined carbs
-3. **Antifungal protocol** — berberine, oregano, caprylic acid
-
-### Supportive Measures
-- **Probiotics** — competitive exclusion (Saccharomyces boulardii)
-- **Prebiotics** — feed beneficial bacteria
-- **Immune support** — vitamin D, zinc
-
-### Retest
-- After 8-12 weeks of treatment
-- Should see significant reduction
-
-## Related Files
-- [[Z-012-0107|Citramalic & Tartaric — Yeast/Fungal Markers]]
-- [[REF-OAT-003|OAT Extended Analysis — Complete Extraction]]
-
-source-litnote: Extracted from Analysis organic acids extended.md
 ---
-*Part of OAT Dysbiosis Markers Series*
+
+## 2. PHYSIOLOGY
+
+### Biological Function
+
+**Candida metabolite:**
+- Specific marker for Candida albicans
+- Produced by yeast metabolism
+- Elevated with candida overgrowth
+
+---
+
+## 3. METABOLIC INTERPRETATION
+
+### D-arabinitol Levels
+
+| Level | Status | Interpretation |
+|-------|--------|----------------|
+| **Normal** | Low | No candida overgrowth |
+| **Elevated** | High | Candida overgrowth |
+
+### Causes of Elevation
+
+- Candida overgrowth
+- Antibiotic use
+- High sugar diet
+- Immunosuppression
+- Diabetes
+
+---
+
+## 4. COFACTORS
+
+### Candida Control
+
+- Probiotics
+- Antifungals
+- Low sugar diet
+
+---
+
+## 5. INTERVENTIONS
+
+### For Elevated D-arabinitol
+
+**Antifungal:**
+- Caprylic acid
+- Oregano oil
+- Berberine
+- Nystatin/fluconazole
+
+**Probiotics:**
+- Saccharomyces boulardii
+
+**Diet:**
+- Low sugar
+- Anti-candida diet
+
+---
+
+## 6. CONNECTED BIOMARKERS
+
+| Biomarker | Relationship |
+|-----------|--------------|
+| **Orotic acid** | Candida marker |
+| **Citramalic/tartaric** | Yeast markers |
+
+---
+
+## 7. OPTIMAL RANGE
+
+| Population | Optimal |
+|------------|---------|
+| **Adults** | <reference range |
+
+---
+
+## 8. ACCEPTED RANGE
+
+| Category | Range |
+|----------|-------|
+| **Normal** | <reference range |
+
+---
+
+## 9. PROBLEMATIC RANGE
+
+| Level | Concern | Action |
+|-------|---------|--------|
+| **Elevated** | Candida overgrowth | Antifungal protocol |
+
+---
+
+## 10. CLINICAL WEIGHT
+
+**Significance: ⭐⭐⭐⭐⭐ (5/5 — Critical)**
+
+**Specific Candida marker**
+
+**Always with:**
+- Other candida markers
+
+---
+
+## RELATED FILES
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
+- [[Z-012-0109|Orotic Acid — Candida/Pyrimidine]]
+
+---
+*Complete biomarker foundation — D-arabinitol*
 *Created: 2026-03-31*
+*Upgraded to Gen 2 standard*

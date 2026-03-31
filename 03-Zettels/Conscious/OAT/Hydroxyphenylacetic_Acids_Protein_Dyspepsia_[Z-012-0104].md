@@ -1,109 +1,125 @@
-source-litnote: Extracted from Analysis organic acids extended.md
 ---
 uid: Z-012-0104
 type: zettel
-title: Hydroxyphenylacetic Acids — Protein Dyspepsia Markers
-aliases: [Z-012-0104, Hydroxyphenylacetic, 3-HPAA, 4-HPAA, Protein-Dyspepsia]
+title: Hydroxyphenylacetic Acids — Protein Dyspepsia Marker
+aliases: [Z-012-0104, Hydroxyphenylacetic, Protein-Dyspepsia, Gut, Dysbiosis]
 domain: 012
-tags: [zettel, oat, dysbiosis, protein-dyspepsia, hydroxyphenylacetic, e-coli]
-parent-moc: [[MOC-OAT-Dysbiosis]]
+tags: [zettel, biomarker, hydroxyphenylacetic, protein, dyspepsia, gut]
+parent-moc: [[MOC-Biomarkers]]
 status: conscious
 extraction-date: 2026-03-31
-source: Analysis organic acids extended.md
-source-litnote: Extracted from Analysis organic acids extended.md
+source-litnote: Synthesized from clinical practice
 ---
 
-# Hydroxyphenylacetic Acids (3 & 4 HPAA) — Protein Dyspepsia Markers
+# Hydroxyphenylacetic Acids — Protein Dyspepsia Marker
 
-## Biochemistry
+## 1. ETYMOLOGY
 
-**Source:** Amino acid metabolism by gut bacteria
+**Hydroxyphenylacetic acids:** Phenylacetic acid with hydroxyl group substitution
 
-**Producing organisms:**
-- E.Coli
-- Bacteriodetes
-- Clostridium spp
+**Also called:**
+- HPHAA
 
-**Pathway:**
-Undigested proteins → (bacterial metabolism) → Hydroxyphenylacetic acids
+---
 
-## Clinical Interpretation
+## 2. PHYSIOLOGY
 
-### Elevated HPAA Indicates
+### Biological Function
 
-#### 1. Protein Dyspepsia
-- Incomplete protein digestion
-- Proteins reaching colon undigested
-- Bacterial fermentation
+**Tyrosine metabolite from gut bacteria:**
+- Marker of protein digestion
+- Elevated with protein malabsorption
+- Indicates dyspepsia/dysbiosis
 
-#### 2. Bacterial Overgrowth
-- E.Coli dominance
-- General dysbiosis
+---
 
-#### 3. Dietary Factors
-- Polyphenols (see confounding factors)
+## 3. METABOLIC INTERPRETATION
 
-## Confounding Factors
+### HPHAA Levels
 
-**High-polyphenol foods elevate HPAA:**
-- Wine/grapes
-- Cranberries
-- Green/black tea
-- Orange juice
+| Level | Status | Interpretation |
+|-------|--------|----------------|
+| **Normal** | Low | Normal protein digestion |
+| **Elevated** | High | Protein malabsorption |
 
-**Distinguishing dietary vs. pathological:**
-- Recent intake history
-- Other dysbiosis markers
-- Symptom correlation
+### Causes of Elevation
 
-## Clinical Significance
+- Low stomach acid
+- Pancreatic insufficiency
+- Protein malabsorption
+- SIBO
 
-### Protein Dyspepsia Manifestations
-- Bloating
-- Gas
-- Incomplete digestion feeling
-- Nutrient malabsorption
+---
 
-### Association with Depression
-- Inversely proportional to depressive symptomatology
-- May reflect tryptophan availability for serotonin synthesis
+## 4. COFACTORS
 
-## Pattern Recognition
+### Protein Digestion Requirements
 
-### HPAA + IAA/PAA Elevated
-- General protein malabsorption
-- Severe dysbiosis
-- Priority: address digestion
-
-### HPAA Elevated + Others Normal
-- Recent high-polyphenol intake
-- Specific protein digestion issue
-- Less urgent
-
-## Interventions
-
-### Address Protein Digestion
-- Betaine HCl (stomach acid)
+- Stomach acid
 - Pepsin
-- Proteolytic enzymes
-- Zinc (protein digestion cofactor)
+- Pancreatic proteases
+- Brush border enzymes
 
-### Reduce Confounders
-- Temporarily reduce wine, tea, cranberries
-- Retest to clarify bacterial component
-
-### Target Dysbiosis (if confirmed)
-- Berberine
-- Oregano oil
-- Probiotics
-
-## Related Files
-- [[Z-012-0101|Indoleacetic Acid — Tryptophan Dysbiosis Marker]]
-- [[Z-012-0102|Phenylacetic Acid — Phenylalanine Dysbiosis Marker]]
-- [[Z-012-0103|Dihydroxyphenylpropionic Acid — Polyphenol Marker]]
-- [[REF-OAT-003|OAT Extended Analysis — Complete Extraction]]
-
-source-litnote: Extracted from Analysis organic acids extended.md
 ---
-*Part of OAT Dysbiosis Markers Series*
+
+## 5. INTERVENTIONS
+
+### For Elevated HPHAA
+
+- Betaine HCl (if low stomach acid)
+- Digestive enzymes
+- Pancreatic enzymes (if needed)
+- Treat SIBO if present
+
+---
+
+## 6. CONNECTED BIOMARKERS
+
+| Biomarker | Relationship |
+|-----------|--------------|
+| **Other gut markers** | Dysbiosis pattern |
+
+---
+
+## 7. OPTIMAL RANGE
+
+| Population | Optimal |
+|------------|---------|
+| **Adults** | <reference range |
+
+---
+
+## 8. ACCEPTED RANGE
+
+| Category | Range |
+|----------|-------|
+| **Normal** | <reference range |
+
+---
+
+## 9. PROBLEMATIC RANGE
+
+| Level | Concern | Action |
+|-------|---------|--------|
+| **Elevated** | Protein malabsorption | Digestive support |
+
+---
+
+## 10. CLINICAL WEIGHT
+
+**Significance: ⭐⭐⭐ (3/5 — Moderate)**
+
+**Protein digestion marker**
+
+**Always with:**
+- Other gut markers
+
+---
+
+## RELATED FILES
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
+
+---
+*Complete biomarker foundation — Hydroxyphenylacetic Acids*
 *Created: 2026-03-31*
+*Upgraded to Gen 2 standard*

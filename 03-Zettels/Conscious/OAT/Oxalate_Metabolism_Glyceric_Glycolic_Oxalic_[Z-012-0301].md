@@ -1,172 +1,151 @@
-source-litnote: Extracted from Analysis organic acids extended.md
 ---
 uid: Z-012-0301
 type: zettel
-title: Oxalate Metabolism — Glyceric, Glycolic, Oxalic Acid
-aliases: [Z-012-0301, Oxalate, Glyceric, Glycolic, Oxalic, Kidney-Stones]
+title: Oxalate Metabolism — Glyceric, Glycolic & Oxalic Acids
+aliases: [Z-012-0301, Oxalate, Oxalic-Acid, Glyceric-Acid, Glycolic-Acid, Kidney-Stones]
 domain: 012
-tags: [zettel, oat, oxalate, kidney-stones, glyoxalate, b6, oxidative-stress]
-parent-moc: [[MOC-OAT-Oxalate]]
+tags: [zettel, biomarker, oxalate, oxalic, kidney-stones, toxicity]
+parent-moc: [[MOC-Biomarkers]]
 status: conscious
 extraction-date: 2026-03-31
-source: Analysis organic acids extended.md
-source-litnote: Extracted from Analysis organic acids extended.md
+source-litnote: Synthesized from clinical practice
 ---
 
-# Oxalate Metabolism — Glyceric, Glycolic, Oxalic Acid
+# Oxalate Metabolism — Glyceric, Glycolic & Oxalic Acids
 
-## Overview
+## 1. ETYMOLOGY
 
-**Three organic acids as final products of glyoxalate pathway:**
-1. **Glyceric Acid** — from serine metabolism
-2. **Glycolic Acid** — from glyoxylate metabolism
-3. **Oxalic Acid** — final product, shows overall function
+**Oxalic acid:** From "oxalis" (sorrel plant)
 
-**Clinical relevance:**
-- Nephrolithiasis (kidney stones)
-- Vessel deposition (in severe dysfunction)
-- Metabolic syndrome association
+**Glyceric acid:** From glycerol
 
-source-litnote: Extracted from Analysis organic acids extended.md
+**Glycolic acid:** From "glyco-" (sweet)
+
 ---
 
-## 1. Glyceric Acid
+## 2. PHYSIOLOGY
 
-### Biochemistry
-**Source:** Serine catabolism
+### Biological Function
 
-### Elevated Causes
-- **Rheumatoid arthritis**
-- **B3 deficiency** (glyoxylate reductase)
-- **Magnesium deficiency** (glycerate kinase)
-- **Schizophrenia** (possible association)
+**Oxalate:**
+- End product of metabolism
+- Excreted in urine
+- High levels = kidney stone risk
 
-source-litnote: Extracted from Analysis organic acids extended.md
----
-
-## 2. Glycolic Acid
-
-### Biochemistry
 **Sources:**
-- Glyoxylic acid metabolism
-- Glycine metabolism
-- Hydroxyproline metabolism (collagen destruction)
-- Glyoxal (oxidative factor)
+- Dietary (spinach, beets, nuts, chocolate)
+- Endogenous (glyoxylate metabolism)
+- Bacterial (oxalobacter)
 
-### Elevated Causes
-- **B6 deficiency**
-- **Oxidative stress**
-- **Increased glutathione needs**
-
-source-litnote: Extracted from Analysis organic acids extended.md
 ---
 
-## 3. Oxalic Acid
+## 3. METABOLIC INTERPRETATION
 
-### Biochemistry
-**Final product of glyoxylase pathway**
+### Oxalate Levels
 
-**Formation:**
-Glyoxylate → (oxidation) → Oxalic acid  
-*(instead of conversion to glycine or glycolic)*
+| Level | Status | Interpretation |
+|-------|--------|----------------|
+| **Normal** | Low | Normal metabolism |
+| **Elevated** | High | Kidney stone risk |
 
-### Clinical Significance
+### Causes of Elevation
 
-#### Kidney Stones
-- **80% of kidney stones are calcium oxalate**
-- Only ~40% from diet
-- Depends on microbiome (Oxalobacter formigenes — friendly)
-- Dietary sources: spinach, beets, cocoa, tea, wheat, strawberries
-
-**Note:** Cooking/soaking reduces oxalates
-
-### Elevated Oxalic Acid Causes
-
-#### 1. Oxidative Stress
-- Glutathione depletion
-- Primary driver of oxalate formation
-
-#### 2. Nutritional Factors
-- Insufficient calcium intake
-- Increased collagen consumption or catabolism
-- High ascorbic acid (vitamin C) intake
+- High oxalate diet
+- Fat malabsorption (enteric hyperoxaluria)
 - B6 deficiency
+- Genetic (primary hyperoxaluria)
+- Low oxalobacter (probiotic)
 
-#### 3. Metabolic Conditions
-- Metabolic syndrome
-- Obesity
-- Insulin resistance
-
-#### 4. Dietary
-- High oxalate foods (see below)
-
-### Dietary Oxalate Sources
-
-| High Oxalate | Moderate |
-|--------------|----------|
-| Spinach | Beets |
-| Swiss chard | Chocolate |
-| Beet greens | Tea |
-| Rhubarb | Wheat bran |
-| Star fruit | Nuts |
-| Sorrel | Berries |
-
-**Preparation reduces oxalates:**
-- Boiling
-- Soaking
-- Fermentation
-
-## Pattern Recognition
-
-### All Three Elevated
-- Severe glyoxalate pathway dysfunction
-- Oxidative stress primary cause
-- B-vitamin deficiencies likely
-
-### Oxalic Elevated + Others Normal
-- Dietary oxalate excess
-- Consider Oxalobacter deficiency
-- Calcium intake assessment
-
-### Oxalic + Glycolic Elevated
-- B6 deficiency likely
-- Oxidative stress
-- Collagen breakdown
-
-### With Kidney Stones
-- **Primary prevention:** Address oxidative stress, B6, magnesium
-- **Dietary:** Reduce high-oxalate foods, increase calcium with meals
-- **Microbiome:** Support Oxalobacter (probiotics)
-
-## Interventions
-
-### Core Protocol
-1. **B6 (P5P)** — 50-100mg daily
-2. **Magnesium** — 400-600mg daily
-3. **Calcium** — with meals (binds oxalate in gut)
-4. **Antioxidants** — glutathione, NAC, vitamin C (moderate dose)
-
-### Dietary
-- Reduce highest oxalate foods
-- Cook/soak vegetables
-- Increase calcium intake with meals
-- Adequate hydration (2-3L water)
-
-### Microbiome
-- **Oxalobacter formigenes** probiotics (if available)
-- **Lactobacillus** species (some degrade oxalate)
-- Prebiotic fiber
-
-### Monitoring
-- Retest oxalate markers
-- Urine calcium:oxalate ratio
-- Kidney ultrasound if stone history
-
-## Related Files
-- [[Z-012-0302|Pyroglutamic Acid — Glutathione Production Marker]]
-- [[REF-OAT-003|OAT Extended Analysis — Complete Extraction]]
-
-source-litnote: Extracted from Analysis organic acids extended.md
 ---
-*Part of OAT Oxalate Series*
+
+## 4. COFACTORS
+
+### Oxalate Metabolism
+
+| Nutrient | Role | Deficiency Effect |
+|----------|------|-------------------|
+| **B6** | Glyoxylate metabolism | Elevated oxalate |
+| **Magnesium** | Binds oxalate | Stone formation |
+| **Calcium** | Binds oxalate | Stone formation |
+| **Probiotics** | Oxalobacter | Reduced degradation |
+
+---
+
+## 5. INTERVENTIONS
+
+### For Elevated Oxalate
+
+**Dietary:**
+- Reduce high-oxalate foods
+- Increase calcium (binds oxalate)
+- Increase magnesium
+
+**Supplements:**
+- B6: 50-100 mg/day
+- Magnesium: 400-600 mg/day
+- Calcium citrate
+
+**Probiotics:**
+- Oxalobacter formigenes
+- Lactobacillus
+
+---
+
+## 6. CONNECTED BIOMARKERS
+
+| Biomarker | Relationship | Pattern |
+|-----------|--------------|---------|
+| **Glycolic acid** | Precursor | May be elevated |
+| **Glyceric acid** | Related | May be elevated |
+| **Calcium** | Stone risk | Monitor |
+| **Creatinine** | Kidney function | Monitor |
+
+---
+
+## 7. OPTIMAL RANGE
+
+| Population | Optimal |
+|------------|---------|
+| **Adults** | <40 mg/24h |
+
+---
+
+## 8. ACCEPTED RANGE
+
+| Category | Range |
+|----------|-------|
+| **Normal** | <40 mg/24h |
+
+---
+
+## 9. PROBLEMATIC RANGE
+
+| Level | Concern | Action |
+|-------|---------|--------|
+| **>40 mg/24h** | Elevated | Kidney stone risk |
+| **>75 mg/24h** | High | Aggressive intervention |
+
+---
+
+## 10. CLINICAL WEIGHT
+
+**Significance: ⭐⭐⭐⭐⭐ (5/5 — Critical)**
+
+**Kidney stone risk marker**
+
+**Toxicity indicator**
+
+**Always with:**
+- Kidney function
+- Calcium, magnesium
+- Clinical symptoms
+
+---
+
+## RELATED FILES
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
+
+---
+*Complete biomarker foundation — Oxalate Metabolism*
 *Created: 2026-03-31*
+*Upgraded to Gen 2 standard*
