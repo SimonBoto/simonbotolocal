@@ -30,13 +30,13 @@ source-litnote: Synthesized from clinical practice
 ### Biological Function
 
 **Primary anabolic hormone:**
-- Promotes [[Glucose_Blood_Sugar_Energy_[Z-005-0001].md|glucose uptake]] (muscle, fat)
+- Promotes [[Z-005-0001|glucose uptake]] (muscle, fat)
 - Inhibits hepatic glucose output
 - Promotes glycogen synthesis
-- Inhibits lipolysis — prevents [[Adipic_Acid_Fatty_Acid_Oxidation_IR_[Z-012-0111].md|fatty acid oxidation]] when elevated
+- Inhibits lipolysis — prevents [[Z-012-0111|fatty acid oxidation]] when elevated
 - Promotes protein synthesis
-- Drives [[Ferritin_Iron_Storage_Systemic_Status_[Z-003-0001].md|ferritin elevation]] through metabolic inflammation
-- Stimulates [[LDL_Cholesterol_Low-Density_Lipoprotein_[Z-006-0001].md|LDL production]] by liver
+- Drives [[Z-003-0001|ferritin elevation]] through metabolic inflammation
+- Stimulates [[Z-006-0001|LDL production]] by liver
 
 **Secretion pattern:**
 - **Basal:** Continuous low-level release
