@@ -6,20 +6,35 @@
 
 ## 🎯 CURRENT P0 (Next Action)
 
-### P0-A: Biomarker Zettelkasten Linking Enhancement
+### P0-A: Clinical History Templates — Conversion & Integration
+**Context:** Medical history templates identified in 00-Inbox/Fleeting/ — need conversion to Obsidian zettels with biomarker integration
+**Templates found:**
+- Initial Assessment Template (Medical_History_Template.md)
+- Follow-up/Renewal Template (Medical_History_Renewal_Template.md)
+**Action:** Convert to zettel format, add YAML, integrate with biomarker guides
+**ETA:** 1 session
+**Blocked by:** None
+
+### P0-B: Diet/Nutrition History Template
+**Context:** No dedicated diet history template found — needed for metabolomics practice
+**Action:** Create comprehensive dietary intake template
+**ETA:** 1 session  
+**Blocked by:** None
+
+### P0-C: Biomarker Zettelkasten Linking Enhancement
 **Context:** 112 biomarker zettels need contextual Obsidian links for pattern recognition. 14 complete, 98 remaining.
 **Action:** Continue systematic linking: Core Metabolic → Inflammation → Lipids → Hormones → OAT → Minerals
 **ETA:** 4-5 sessions
 **Blocked by:** None
 **Protocol:** LINKING_VERIFICATION_PROTOCOL.md (verify every filename with ls)
 
-### P0-B: OAT Metabolite Training System
+### P0-D: OAT Metabolite Training System
 **Context:** 16 biomarker guides complete (static labs). OAT metabolites are fluid, functional, intertwined — different approach needed.
 **Action:** Begin OAT series: mitochondrial markers → Krebs → neurotransmitters → gut → nutritional
 **ETA:** 2-3 sessions
 **Blocked by:** Linking enhancement (can parallel)
 
-### P0-C: B2B Business Shadow Site
+### P0-E: B2B Business Shadow Site
 **Context:** Metabolomics B2B concept discussed. Need private site for market assessment.
 **Action:** Create private shadow site structure
 **ETA:** 1 session
