@@ -48,10 +48,24 @@
             "id": "02ff5a949a4ae388",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "09-System/CHECKLIST-PreFlight.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CHECKLIST-PreFlight"
             }
           },
           {
@@ -246,9 +260,10 @@
   },
   "active": "02ff5a949a4ae388",
   "lastOpenFiles": [
-    "09-System/EMERGENCY-Recovery.md",
-    "09-System/CHECKLIST-PreFlight.md",
     "09-System/CHECKLIST-Extraction.md",
+    "09-System/CHECKLIST-PreFlight.md",
+    "09-System/09-System.md",
+    "09-System/EMERGENCY-Recovery.md",
     "01-References/Other/Theodoridis_etal_2015_Systems_Biology_Greek_Textbook.md",
     "01-References/Other",
     "06-Structure/OPTIMAL_LINKING_PLAN.md",
@@ -273,7 +288,6 @@
     "01-References/Hub/Tsilimidos_etal_2019_Fatty_Acids_Metabolomics_R-001-0036.md",
     "01-References/Hub/Tsoukalas_etal_2021_Metabolic_Health_Snapshot_R-001-0025.md",
     "01-References/Hub/Tsoukalas_etal_2021_Metabolomics_Clinical_R-001-0023.md",
-    "01-References/Hub/Tsoukalas_etal_2021_NCDs_Precision_R-001-0022.md",
     "09-System/Educational",
     "Base File All Notes.base",
     "00-Inbox/ChatGPT",
