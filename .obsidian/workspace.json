@@ -11,10 +11,13 @@
             "id": "7508ddeb5acbd731",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "bases",
+              "state": {
+                "file": "Base File All Notes.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Base File All Notes"
             }
           },
           {
@@ -95,11 +98,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Untitled.base",
+                "file": "Base File All Notes.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Untitled"
+              "title": "Base File All Notes"
             }
           }
         ]
@@ -278,16 +281,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7508ddeb5acbd731",
+  "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0009_AI_Question_Optimization_Coach_[CGPT-0009].md",
     "01-References/01-References.md",
     "00-Inbox/Processed/Analysis organic acids extended.md",
     "03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0008_Vitamin_D_Optimisation_Titles_[CGPT-0008].md",
-    "03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0009_AI_Question_Optimization_Coach_[CGPT-0009].md",
     "03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0006_Κλάδος_Vitamin_D_Optimisation_Titles_[CGPT-0006].md",
     "07-Archive/ChatGPT_Extracted/00_Extracted_Insights_MOC.md",
     "05-Projects/Assistant/LINK_ARCHITECTURE_DESIGN.md",
-    "Untitled.base",
+    "Base File All Notes.base",
     "03-Zettels/Conscious/Biomarkers/Biomarker_Calprotectin_[B-002-0002]_v1.0.md",
     "03-Zettels/Conscious/Biomarkers/Calprotectin_[B-002-0002].md",
     "06-Structure/Templates/06-Structure-Templates.md",
