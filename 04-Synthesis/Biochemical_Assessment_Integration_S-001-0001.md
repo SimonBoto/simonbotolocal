@@ -8,12 +8,12 @@ tags: [synthesis, biomarker, clinical-protocol, phd-methap, assessment-framework
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 connections:
-  - Z-001-0046
-  - Z-001-0048
-  - Z-001-0049
-  - Z-001-0050
-  - Z-001-0052
-  - Z-001-0053
+  - [[HOMA_IR_Calculation_Interpretation_[Z-001-0046]]]
+  - [[TyG_Index_IR_Assessment_[Z-001-0048]]]
+  - [[TG_HDL_Ratio_IR_Marker_[Z-001-0049]]]
+  - [[Metabolic_Syndrome_Criteria_[Z-001-0050]]]
+  - [[Uric_Acid_Metabolic_Marker_[Z-001-0052]]]
+  - [[Blood_Pressure_Assessment_Hypertension_[Z-001-0053]]]
 ---
 
 # Biochemical Assessment Integration — Clinical Framework
@@ -27,19 +27,19 @@ connections:
 ### 1. Insulin Resistance Assessment
 | Marker | Target | Priority |
 |--------|--------|----------|
-| [[Z-001-0046]] — HOMA-IR | <2.0 | ⭐ Primary |
-| [[Z-001-0047]] — HOMA-β | 100-200 | ⭐ Primary |
-| [[Z-001-0048]] — TyG Index | <4.5 | ⭐ Primary |
-| [[Z-001-0049]] — TG/HDL | <2.0 | Secondary |
-| [[Z-001-0052]] — Uric Acid | <5.5 mg/dL | Secondary |
+| [[HOMA_IR_Calculation_Interpretation_[Z-001-0046]|Z-001-0046]] — HOMA-IR | <2.0 | ⭐ Primary |
+| [[HOMA_Beta_Beta_Cell_Function_[Z-001-0047]|Z-001-0047]] — HOMA-β | 100-200 | ⭐ Primary |
+| [[TyG_Index_IR_Assessment_[Z-001-0048]|Z-001-0048]] — TyG Index | <4.5 | ⭐ Primary |
+| [[TG_HDL_Ratio_IR_Marker_[Z-001-0049]|Z-001-0049]] — TG/HDL | <2.0 | Secondary |
+| [[Uric_Acid_Metabolic_Marker_[Z-001-0052]|Z-001-0052]] — Uric Acid | <5.5 mg/dL | Secondary |
 
 ### 2. Metabolic Syndrome Criteria
-| Criterion | Target | [[Z-001-0050]] |
+| Criterion | Target | [[Metabolic_Syndrome_Criteria_[Z-001-0050]|Z-001-0050]] |
 |-----------|--------|----------------|
 | Waist circumference | <94 cm (M), <80 cm (F) | Measure |
 | Triglycerides | <90 mg/dL | Already in IR panel |
 | HDL-C | >60 mg/dL | Already in IR panel |
-| Blood pressure | <130/85 mmHg | [[Z-001-0053]] |
+| Blood pressure | <130/85 mmHg | [[Blood_Pressure_Assessment_Hypertension_[Z-001-0053]|Z-001-0053]] |
 | Fasting glucose | <100 mg/dL | Already in IR panel |
 
 **Diagnosis:** ≥3 of 5 criteria = metabolic syndrome
@@ -47,11 +47,11 @@ connections:
 ### 3. Foundational Nutrients
 | System | Key Markers | Critical Threshold |
 |--------|-------------|-------------------|
-| [[Z-002-0004]] — Vitamin D | 25-OH D3 | 80-150 ng/mL |
-| [[Z-004-0001]] — Methylation | Homocysteine | <10 μmol/L |
-| [[Z-004-0019]] — B12 Status | MMA + homocysteine | Both normal |
-| [[Z-003-0001]] — Iron | Ferritin | 30-150 ng/mL |
-| [[Z-005-0001]] — Thyroid | TSH | 0.5-2.5 mIU/L |
+| [[Vitamin_D_Optimal_Range_80_150_[Z-002-0004]|Z-002-0004]] — Vitamin D | 25-OH D3 | 80-150 ng/mL |
+| [[Homocysteine_Composite_Methylation_Marker_[Z-004-0001]|Z-004-0001]] — Methylation | Homocysteine | <10 μmol/L |
+| [[Functional_B12_Deficiency_MMA_Assessment_[Z-004-0019]|Z-004-0019]] — B12 Status | MMA + homocysteine | Both normal |
+| [[Ferritin_Interpretation_Iron_Status_[Z-003-0001]|Z-003-0001]] — Iron | Ferritin | 30-150 ng/mL |
+| [[Thyroid_Optimal_Ranges_[Z-005-0001]|Z-005-0001]] — Thyroid | TSH | 0.5-2.5 mIU/L |
 
 ---
 
@@ -86,10 +86,10 @@ TSH (thyroid)
 
 ### Step 4: Targeted Deep Dives
 Based on initial findings:
-- **High TG/HDL >3.0:** [[Z-006-0001]] — Lipid Pattern A/B, [[Z-006-0002]] — ApoB, sdLDL
-- **Elevated liver enzymes:** [[Z-008-0001]] — Hepatocellular vs cholestatic pattern
-- **High ferritin + high CRP:** [[Z-003-0013]] — ACD vs iron deficiency
-- **TSH 2.5-4.0:** [[Z-005-0002]] — Hashimoto antibodies
+- **High TG/HDL >3.0:** [[Lipid_Pattern_A_vs_B_Assessment_[Z-006-0001]|Z-006-0001]] — Lipid Pattern A/B, [[ApoB_LpA_sdLDL_Advanced_Lipids_[Z-006-0002]|Z-006-0002]] — ApoB, sdLDL
+- **Elevated liver enzymes:** [[Liver_Enzyme_Pattern_Recognition_[Z-008-0001]|Z-008-0001]] — Hepatocellular vs cholestatic pattern
+- **High ferritin + high CRP:** [[Iron_Status_Patterns_ACD_Overload_[Z-003-0013]|Z-003-0013]] — ACD vs iron deficiency
+- **TSH 2.5-4.0:** [[Hashimoto_Pattern_Anti_TPO_Anti_TG_[Z-005-0002]|Z-005-0002]] — Hashimoto antibodies
 
 ---
 
