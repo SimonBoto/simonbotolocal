@@ -300,3 +300,7 @@ Labs            tumor markers    expected
 **Related:** [[ALP_Isoenzymes_Tissue_Sources_[Z-001-0983].md]] | [[Pagets_Disease_Bone_Diagnosis_Management_[Z-001-0984].md]] | [[Breast_Pagets_Disease_Distinct_Entity_[Z-001-0985].md]]
 
 **Source:** CGPT-0345 — Alkaline Phosphatase Overview
+
+
+## Related
+- [[Calcium_Paradox_D_K2_Resolution_[Z-001-0257]|Z-001-0257]]

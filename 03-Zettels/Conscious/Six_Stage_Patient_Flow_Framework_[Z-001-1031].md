@@ -74,3 +74,7 @@ Each stage becomes a **training module** with:
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 
+
+
+## Related
+- [[Clinician_Training_Competency_Checklist_[Z-001-1080]|Z-001-1080]]

@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, BCAAs, amino-acids, mTOR, insulin-resistance, metabolomics]
 parent-moc: [[MOC-Biomarkers]]
-source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]]
+source-litnote: [[LitNote_Biomarkers_Taxonomy_L-001-0006]]
 confidence: high
 created: 2026-02-24
 ---
@@ -58,3 +58,7 @@ Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin
 ---
 
 *UID: Z-001-0042 | Domain: 001 | Created: 2026-02-24*
+
+
+## Related
+- [[MMA_Sensitive_B12_Marker_[Z-001-0448]|Z-001-0448]]

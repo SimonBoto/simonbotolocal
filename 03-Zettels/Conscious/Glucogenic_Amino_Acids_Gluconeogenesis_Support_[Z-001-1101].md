@@ -118,3 +118,7 @@ Muscle: Glycolysis → Pyruvate → Alanine
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
+
+
+## Related
+- [[Alpha_Ketoglutarate_Glutamate_Hub_[Z-001-0609]|Z-001-0609]]

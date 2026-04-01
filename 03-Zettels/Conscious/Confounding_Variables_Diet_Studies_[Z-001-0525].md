@@ -50,3 +50,11 @@ Likely captures **Mediterranean pattern** (olive oil, vegetables, lifestyle) not
 ---
 
 *Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]]*
+
+
+## Related
+- [[Seven_Countries_Study_Design_Structure_[Z-001-0522]|Z-001-0522]]
+
+
+## Related
+- [[Seven_Countries_Study_Reassessment_[Z-001-0518]|Z-001-0518]]

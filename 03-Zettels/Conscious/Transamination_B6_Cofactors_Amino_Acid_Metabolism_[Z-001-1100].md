@@ -111,3 +111,7 @@ Alanine + Alpha-ketoglutarate ↔ Pyruvate + Glutamate
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
+
+
+## Related
+- [[Dehydrogenases_vs_Decarboxylases_Comparison_[Z-001-1203]|Z-001-1203]]

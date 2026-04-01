@@ -231,3 +231,7 @@ The omega-6 controversy reflects:
 **Related:** [[Sydney_Diet_Heart_Study_Reanalysis_[Z-001-0960].md]] | [[Minnesota_Coronary_Experiment_Reanalysis_[Z-001-0961].md]] | [[Industry_Funding_Bias_PUFA_Research_[Z-001-0964].md]] | [[Omega_6_Omega_3_Ratio_Evolutionary_Context_[Z-001-0948].md]]
 
 **Source:** CGPT-0282 — Seed Oils and Chronic Diseases
+
+
+## Related
+- [[IOM_Defensive_Response_to_Critique_[Z-001-0060]|Z-001-0060]]

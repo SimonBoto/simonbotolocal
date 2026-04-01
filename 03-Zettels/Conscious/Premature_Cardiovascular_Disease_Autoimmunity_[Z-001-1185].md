@@ -147,3 +147,7 @@ status: conscious
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 
+
+
+## Related
+- [[NODAT_Risk_Factors_Management_[Z-001-0927]|Z-001-0927]]

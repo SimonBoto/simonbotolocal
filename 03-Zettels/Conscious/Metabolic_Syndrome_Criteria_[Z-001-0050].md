@@ -182,3 +182,7 @@ patient_id,visit,waist_cm,tg_mg_dl,hdl_c_mg_dl,sbp,dbp,glucose,criteria_count,me
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 
+
+
+## Related
+- [[Gordon_2008_Adolescent_High_Dose_Protocol_[Z-001-0070]|Z-001-0070]]

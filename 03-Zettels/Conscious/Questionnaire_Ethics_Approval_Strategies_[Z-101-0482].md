@@ -153,3 +153,27 @@ Multi-instrument studies require specific ethical considerations beyond standard
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
+
+
+## Related
+- [[MTHFR_Testing_Interpretation_[Z-001-0418]|Z-001-0418]]
+
+
+## Related
+- [[CIOMS_International_Research_Ethics_[Z-002-0611]|Z-002-0611]]
+
+
+## Related
+- [[Research_Gap_in_Infant_8000_IU_Vitamin_D_Safety_Studies_[Z-001-0072]|Z-001-0072]]
+
+
+## Related
+- [[ICH_Good_Clinical_Practice_GCP_[Z-002-0612]|Z-002-0612]]
+
+
+## Related
+- [[Integrated_B12_Assessment_Complete_Picture_[Z-001-0449]|Z-001-0449]]
+
+
+## Related
+- [[High_Dose_Vitamin_D_Monitoring_Protocol_[Z-001-0075]|Z-001-0075]]

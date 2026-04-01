@@ -63,3 +63,7 @@ METHAP requires:
 ---
 
 *UID: Z-002-0605 | Domain: 002 | Created: 2026-03-27*
+
+
+## Related
+- [[Questionnaire_Ethics_Approval_Strategies_[Z-101-0482]|Z-101-0482]]

@@ -131,3 +131,39 @@ extraction-date: 2026-03-01
 
 ## Related
 - [[Dysbiosis_Detection_Metabolomics_[Z-001-0023]|Z-001-0023]]
+
+
+## Related
+- [[Zinc_Mitochondrial_Function_[Z-001-0550]|Z-001-0550]]
+
+
+## Related
+- [[MTHFR_Clinical_Management_Folate_[Z-001-0416]|Z-001-0416]]
+
+
+## Related
+- [[Magnesium_Supplementation_Diabetes_Clinical_Trials_[Z-001-0213]|Z-001-0213]]
+
+
+## Related
+- [[Metabolic_Syndrome_Complications_CVD_Diabetes_NAFLD_[Z-001-0204]|Z-001-0204]]
+
+
+## Related
+- [[Metabolic_Syndrome_Definition_Diagnostic_Criteria_[Z-001-0200]|Z-001-0200]]
+
+
+## Related
+- [[Chain_Length_Metabolic_Fate_Fatty_Acids_[Z-001-1213]|Z-001-1213]]
+
+
+## Related
+- [[Magnesium_Deficiency_Population_Prevalence_[Z-001-0214]|Z-001-0214]]
+
+
+## Related
+- [[Amino_Acids_Fumarate_Phenylalanine_Tyrosine_[Z-001-0496]|Z-001-0496]]
+
+
+## Related
+- [[Mitochondrial_Nutrient_Deficiency_Patterns_[Z-001-0538]|Z-001-0538]]

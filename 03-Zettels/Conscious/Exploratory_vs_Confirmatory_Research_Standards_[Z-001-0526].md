@@ -197,3 +197,11 @@ Without explicit "exploratory" framing, readers may interpret findings as more r
 - [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 
+
+
+## Related
+- [[Laboratory_Markers_Distinguishing_Features_[Z-001-0422]|Z-001-0422]]
+
+
+## Related
+- [[Metabolomics_Research_Core_Bibliography_[Z-001-1074]|Z-001-1074]]

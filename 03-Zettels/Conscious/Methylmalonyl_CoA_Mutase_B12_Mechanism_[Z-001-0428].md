@@ -54,3 +54,11 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 ---
 
 *Source: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]*
+
+
+## Related
+- [[Vitamin_B12_Cofactor_Enzymes_[Z-001-0402]|Z-001-0402]]
+
+
+## Related
+- [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_[Z-001-0225]|Z-001-0225]]

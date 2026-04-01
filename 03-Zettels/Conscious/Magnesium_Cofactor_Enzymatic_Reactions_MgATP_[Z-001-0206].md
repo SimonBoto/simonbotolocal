@@ -69,3 +69,7 @@ extraction-date: 2026-03-01
 
 *Source: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]*  
 *Extracted: 2026-03-01*
+
+
+## Related
+- [[Glucose_Chemistry_Fischer_19th_Century_[Z-001-0238]|Z-001-0238]]

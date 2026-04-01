@@ -99,3 +99,7 @@ Glucose → Pyruvate → Lactate
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
+
+
+## Related
+- [[Nobel_Prize_1923_Controversy_[Z-001-0236]|Z-001-0236]]
