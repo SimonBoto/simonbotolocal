@@ -18,10 +18,14 @@ status: active
 - **Synthesis system** — Template_Synthesis_v1.0 standard established
 
 ## Immediate Next Actions (if needed)
-1. **Reference link verification** — 55 connections need audit (from MISSION_CONTROL)
-2. **ChatGPT Archive extraction** — 683 conversations ready (P0-B)
-3. **OAT Metabolite Training** — 16 biomarker guides done, OAT next (P0-C)
-4. **Any your priority** — You decide
+1. **Fix filename brackets** — `[` and `]` in titles break Obsidian links (URGENT)
+   - Rename: `Title_[Z-001-0001].md` → `Title_Z-001-0001.md`
+   - Update all wiki links referencing bracketed filenames
+   - Fix templates to use `-` or `_` instead of brackets
+2. **Organize root files** — 6 .md files in vault root need structure
+3. **Reference link verification** — 55 connections need audit (from MISSION_CONTROL)
+4. **ChatGPT Archive extraction** — 683 conversations ready (P0-B)
+5. **Any your priority** — You decide
 
 ## Vault State
 - **Zettels:** 767
