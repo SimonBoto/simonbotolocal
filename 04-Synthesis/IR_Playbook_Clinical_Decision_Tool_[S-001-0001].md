@@ -1,15 +1,48 @@
 ---
-uid: S-001-0001
+uid: S-001-0002
 type: synthesis
-title: Insulin Resistance Playbook - Clinical Decision Tool
-aliases: [S-001-0001, IR-Playbook]
+title: Insulin Resistance Playbook — Clinical Decision Tool
+aliases: [S-001-0002, IR-Playbook, Clinical-IR-Tool]
 domain: 001
-tags: [synthesis, insulin-resistance, clinical-decision, biomarkers, staging, mechanism, intervention]
-parent-moc: 
+domain-name: Insulin_Resistance
+tags: [synthesis, insulin-resistance, clinical-decision, biomarkers, staging, mechanism, intervention, living-document]
+parent-moc: [[MOC-Insulin-Resistance]]
 status: active
+version: 1.1
 created: 2026-03-30
-updated: 2026-03-30
-version: 1.0
+last-updated: 2026-04-01
+contributing-zettels:
+  - "[[Insulin_Receptor_Structure_[Z-001-0001]]]"
+  - "[[INSR_Autophosphorylation_Mechanism_[Z-001-0003]]]"
+  - "[[INSR_Mutations_Donohue_Syndrome_[Z-001-0004]]]"
+  - "[[IRS_Protein_Recruitment_[Z-001-0005]]]"
+  - "[[IRS1_vs_IRS2_Tissue_Distribution_[Z-001-0006]]]"
+  - "[[IRS_Serine_Phosphorylation_Causes_IR_[Z-001-0008]]]"
+  - "[[PI3K_Activation_Mechanism_[Z-001-0007]]]"
+  - "[[Akt_Recruitment_by_PIP3_[Z-001-0009]]]"
+  - "[[Akt_Substrate_Phosphorylation_[Z-001-0010]]]"
+  - "[[GLUT4_Vesicle_Translocation_[Z-001-0011]]]"
+  - "[[GSK3_Inhibition_Glycogen_Synthesis_[Z-001-0012]]]"
+  - "[[mTORC2_Akt_Insulin_Signaling_[Z-001-0925]]]"
+  - "[[Cbl_CAP_Lipid_Raft_Pathway_[Z-001-0017]]]"
+  - "[[Lipotoxicity_Pathway_IR_[Z-001-0029]]]"
+  - "[[Lipotoxicity_Ceramide_Induced_IR_[Z-001-0013]]]"
+  - "[[ER_Stress_Induced_IR_[Z-001-0014]]]"
+  - "[[ER_Stress_UPR_IR_[Z-001-0033]]]"
+  - "[[Mitochondrial_Dysfunction_IR_[Z-001-0015]]]"
+  - "[[Mitochondrial_Dysfunction_IR_[Z-001-0030]]]"
+  - "[[Beta_Oxidation_Clinical_Mechanisms_[Z-001-1054]]]"
+  - "[[Inflammatory_Signaling_IR_[Z-001-0031]]]"
+  - "[[Gut_Derived_Mechanisms_IR_[Z-001-0032]]]"
+  - "[[Vicious_Cycle_Inflammation_IR_[Z-001-0038]]]"
+  - "[[Vicious_Cycle_IR_Obesity_[Z-001-0037]]]"
+  - "[[Vicious_Cycle_Stress_IR_[Z-001-0039]]]"
+  - "[[Adipic_Acid_Early_IR_Biomarker_[Z-001-0041]]]"
+  - "[[Dicarboxylic_Acid_Hierarchy_IR_Markers_[Z-101-0011]]]"
+  - "[[BHB_Hydroxy_Acid_Not_Ketone_[Z-001-0483]]]"
+  - "[[TG_HDL_Ratio_IR_Marker_[Z-001-0049]]]"
+  - "[[TyG_Index_IR_Assessment_[Z-001-0048]]]"
+  - "[[Glycation_Control_HbA1c_AGEs_[Z-001-1014]]]"
 ---
 
 # Insulin Resistance Playbook - Clinical Decision Tool

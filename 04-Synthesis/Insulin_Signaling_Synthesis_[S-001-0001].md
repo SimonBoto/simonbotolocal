@@ -1,22 +1,40 @@
 ---
-uid: T-001-0001
+uid: S-001-0001
 type: synthesis
-title: Insulin Signaling — Technical Reference
+title: Insulin Signaling — Synthesis
 domain: 001
 domain-name: Insulin_Signaling
-aliases: [T-001-0001, TechRef_Insulin, Insulin_Signaling_Ref]
-tags: [tech-ref, insulin, signaling, metabolism, evolving]
-parent-moc: 
-created: 2026-02-22
-last-updated: 2026-02-22
+aliases: [S-001-0001, Insulin_Signaling_Synthesis, Insulin_Cascade]
+tags: [synthesis, insulin, signaling, metabolism, living-document]
+parent-moc: [[MOC-Insulin-Signaling]]
 status: evolving
+version: 1.0
+created: 2026-02-22
+last-updated: 2026-04-01
+contributing-zettels:
+  - "[[Insulin_Hormone_Structure_[Z-001-0002]]]"
+  - "[[Insulin_Receptor_Structure_[Z-001-0001]]]"
+  - "[[INSR_Autophosphorylation_Mechanism_[Z-001-0003]]]"
+  - "[[IRS_Protein_Recruitment_[Z-001-0005]]]"
+  - "[[IRS1_vs_IRS2_Tissue_Distribution_[Z-001-0006]]]"
+  - "[[PI3K_Activation_Mechanism_[Z-001-0007]]]"
+  - "[[Akt_Recruitment_by_PIP3_[Z-001-0009]]]"
+  - "[[Akt_Substrate_Phosphorylation_[Z-001-0010]]]"
+  - "[[GLUT4_Vesicle_Translocation_[Z-001-0011]]]"
+  - "[[MAPK_Mitogenic_Pathway_[Z-001-0016]]]"
+  - "[[Cbl_CAP_Lipid_Raft_Pathway_[Z-001-0017]]]"
+  - "[[IRS_Serine_Phosphorylation_Causes_IR_[Z-001-0008]]]"
+  - "[[Lipotoxicity_Ceramide_Induced_IR_[Z-001-0013]]]"
+  - "[[ER_Stress_Induced_IR_[Z-001-0014]]]"
+  - "[[Mitochondrial_Dysfunction_IR_[Z-001-0015]]]"
+  - "[[INSR_Mutations_Donohue_Syndrome_[Z-001-0004]]]"
 ---
 
-# TechRef: Insulin Signaling
+# Insulin Signaling — Synthesis
 
-> **Living document:** This note evolves as new sources are processed.  
+> **Living document:** This synthesis evolves as new zettels are added.  
 > **Domain:** 001 (Insulin Signaling)  
-> **Last synthesis:** 2026-02-22
+> **Version:** 1.0 | **Last updated:** 2026-04-01
 
 ---
 
@@ -56,100 +74,80 @@ Insulin signaling is a receptor tyrosine kinase cascade initiated by insulin bin
 
 ---
 
-## 3. Extracted Zettels
+## 3. Contributing Zettels
 
-### Core Signaling Cascade (9 zettels)
-**Ligand → Receptor → Adapter → Kinase → Effectors**
+| Zettel | Contribution | Date Added | Status |
+|--------|--------------|------------|--------|
+| [[Insulin_Hormone_Structure_[Z-001-0002]]] | Ligand structure (51 aa) | 2026-02-22 | ✅ Integrated |
+| [[Insulin_Receptor_Structure_[Z-001-0001]]] | Tetrameric RTK structure | 2026-02-22 | ✅ Integrated |
+| [[INSR_Autophosphorylation_Mechanism_[Z-001-0003]]] | Tyr-1158/1162/1163 phosphorylation | 2026-02-22 | ✅ Integrated |
+| [[IRS_Protein_Recruitment_[Z-001-0005]]] | YXXM motifs recruit p85 | 2026-02-22 | ✅ Integrated |
+| [[IRS1_vs_IRS2_Tissue_Distribution_[Z-001-0006]]] | Tissue-specific adapters | 2026-02-22 | ✅ Integrated |
+| [[PI3K_Activation_Mechanism_[Z-001-0007]]] | PIP3 generation | 2026-02-22 | ✅ Integrated |
+| [[Akt_Recruitment_by_PIP3_[Z-001-0009]]] | PH domain recruitment | 2026-02-22 | ✅ Integrated |
+| [[Akt_Substrate_Phosphorylation_[Z-001-0010]]] | AS160, GSK3, FOXO1 phosphorylation | 2026-02-22 | ✅ Integrated |
+| [[GLUT4_Vesicle_Translocation_[Z-001-0011]]] | Rab proteins, vesicle trafficking | 2026-02-22 | ✅ Integrated |
+| [[MAPK_Mitogenic_Pathway_[Z-001-0016]]] | Growth signaling branch | 2026-02-22 | ✅ Integrated |
+| [[Cbl_CAP_Lipid_Raft_Pathway_[Z-001-0017]]] | PI3K-independent transport | 2026-02-22 | ✅ Integrated |
+| [[IRS_Serine_Phosphorylation_Causes_IR_[Z-001-0008]]] | Inflammation → IR mechanism | 2026-02-22 | ✅ Integrated |
+| [[Lipotoxicity_Ceramide_Induced_IR_[Z-001-0013]]] | Ceramide → Akt inhibition | 2026-02-22 | ✅ Integrated |
+| [[ER_Stress_Induced_IR_[Z-001-0014]]] | IRE1α → JNK activation | 2026-02-22 | ✅ Integrated |
+| [[Mitochondrial_Dysfunction_IR_[Z-001-0015]]] | Incomplete oxidation → DAG | 2026-02-22 | ✅ Integrated |
+| [[INSR_Mutations_Donohue_Syndrome_[Z-001-0004]]] | Severe IR syndromes | 2026-02-22 | ✅ Integrated |
 
-| Step | Zettel | Key Mechanism |
-|------|--------|---------------|
-| 1 | [[Insulin_Hormone_Structure_[Z-001-0002]]] | 51 aa, A+B chains, disulfide bonds |
-| 2 | [[Insulin_Receptor_Structure_[Z-001-0001]]] | α2β2 tetramer, tyrosine kinase |
-| 3 | [[INSR_Autophosphorylation_Mechanism_[Z-001-0003]]] | Tyr-1158/1162/1163 phosphorylation |
-| 4 | [[IRS_Protein_Recruitment_[Z-001-0005]]] | YXXM motifs recruit p85 |
-| 5 | [[IRS1_vs_IRS2_Tissue_Distribution_[Z-001-0006]]] | IRS-1 (muscle), IRS-2 (liver/β-cells) |
-| 6 | [[PI3K_Activation_Mechanism_[Z-001-0007]]] | PIP3 generation |
-| 7 | [[Akt_Recruitment_by_PIP3_[Z-001-0009]]] | PH domain membrane recruitment |
-| 8 | [[Akt_Substrate_Phosphorylation_[Z-001-0010]]] | AS160, GSK3, FOXO1 phosphorylation |
-| 9 | [[GLUT4_Vesicle_Translocation_[Z-001-0011]]] | Rab proteins, vesicle trafficking |
-
-### Alternative Pathways (2 zettels)
-- [[MAPK_Mitogenic_Pathway_[Z-001-0016]]] — Growth signaling
-- [[Cbl_CAP_Lipid_Raft_Pathway_[Z-001-0017]]] — PI3K-independent glucose transport
-
-### Resistance Mechanisms (4 zettels)
-| Mechanism | Zettel | Molecular Event |
-|-----------|--------|-----------------|
-| Inflammation | [[IRS_Serine_Phosphorylation_Causes_IR_[Z-001-0008]]] | JNK/IKKβ → IRS Ser-P |
-| Lipotoxicity | [[Lipotoxicity_Ceramide_Induced_IR_[Z-001-0013]]] | Ceramide → Akt inhibition |
-| ER Stress | [[ER_Stress_Induced_IR_[Z-001-0014]]] | IRE1α → JNK activation |
-| Mitochondrial | [[Mitochondrial_Dysfunction_IR_[Z-001-0015]]] | Incomplete oxidation → DAG |
-
-### Disease Context (1 zettel)
-- [[INSR_Mutations_Donohue_Syndrome_[Z-001-0004]]] — Severe insulin resistance syndromes
+**Total contributing zettels:** 16  
+**Coverage:** Core cascade + alternative pathways + resistance mechanisms
 
 ---
 
-## 4. Clinical/Practical Connections
+## 4. Synthesis Gaps
 
-### Biomarkers
-| Biomarker | Mechanism | Zettel Link |
-|-----------|-----------|-------------|
-| **Adipic acid** | Mitochondrial dysfunction (Z-001-0015) |  |
-| **HOMA-IR** | Whole-body insulin resistance | HOMA biomarker (to create) |
-| **Fasting insulin** | β-cell compensation | Clinical measure |
+**What's missing:**
+- Tissue-specific signaling (muscle vs liver vs adipose) — Samuel & Shulman 2012
+- Alternative pathways (Cbl-CAP, receptor trafficking) — Nature Reviews 2022
+- Time-resolved signaling dynamics — Cell Metabolism 2020
+- Inter-organ crosstalk (brain-pancreas-liver-muscle-adipose)
+- Circadian regulation of insulin sensitivity
+- Sex differences in insulin signaling
 
-### Protocols
--  — Measuring IR in METHAP study
--  — Metabolomic measurement
-
-### Metabolomics Relevance
-**Adipic acid connection:**
-- Elevated adipic suggests incomplete fatty acid oxidation (Z-001-0015)
-- Links to mitochondrial dysfunction mechanism
-- May predict non-response to lifestyle intervention
-
-**Future biomarkers to explore:**
-- Ceramide species (lipotoxicity)
-- O-GlcNAcylated proteins (nutrient sensing)
-- BCAAs (mTOR activation)
+**Next zettels to integrate:**
+- [[Tissue_Specific_IR_Mechanisms_[Z-001-00XX]]] — Muscle vs liver vs adipose
+- [[Cbl_CAP_Pathway_Details_[Z-001-00XX]]] — PI3K-independent glucose transport
+- [[Circadian_Insulin_Sensitivity_[Z-001-00XX]]] — Time-of-day effects
 
 ---
 
 ## 5. Open Questions
 
-| Question | Current Understanding | Research Needed |
-|----------|----------------------|-----------------|
-| Which serine kinases matter most? | JNK, IKKβ, PKCθ all implicated | Tissue-specific mapping |
-| Can we measure ceramide metabolically? | Currently LC-MS only | Urine/plasma proxy? |
-| Time course of IR development? | Chronic inflammation model | Early event sequence |
-| Sex differences? | Understudied | Female-specific mechanisms |
+1. **Which serine kinases matter most?** JNK, IKKβ, PKCθ all implicated — need tissue-specific mapping
+2. **Can we measure ceramide metabolically?** Currently LC-MS only — need urine/plasma proxy
+3. **Time course of IR development?** Chronic inflammation model — need early event sequence
+4. **Sex differences?** Understudied — need female-specific mechanisms
 
-**Related question zettels:**
--  — Which kinase when?
+**Related synthesis questions:**
+- [[Serine_Kinase_Hierarchy_[Z-001-00XX]]] — Which kinase when?
 
 ---
 
-## 6. Related Technical References
+## 6. Related Syntheses
 
-| TechRef | Topic | Connection |
-|---------|-------|------------|
-| T-005-0001 (planned) | Mitochondrial Function | Energy metabolism, oxidation |
-| T-004-0001 (planned) | Adipose Tissue Biology | Endocrine function, lipolysis |
-| T-101-0001 (planned) | Adipic Acid Metabolism | Biomarker interpretation |
-| T-110-0001 (planned) | Vitamin D Mechanisms | Cross-talk with insulin |
-
----
-
-## 7. Updates Log
-
-| Date | Update | Source |
-|------|--------|--------|
-| 2026-02-22 | Initial creation | Gutiérrez-Rodelo 2017 |
-| 2026-02-22 | 17 zettels extracted | PMC3083885 synthesis |
+| Synthesis | Topic | Connection |
+|-----------|-------|------------|
+| [[Mitochondrial_Function_Synthesis_[S-005-0001]]] | Energy metabolism | ATP production for insulin signaling |
+| [[Adipose_Tissue_Biology_[S-004-0001]]] | Endocrine function | Adipokines modulate insulin sensitivity |
+| [[Adipic_Acid_Metabolism_[S-101-0001]]] | Biomarker interpretation | Mitochondrial dysfunction marker |
+| [[Vitamin_D_Mechanisms_[S-110-0001]]] | Cross-talk | Vitamin D improves insulin sensitivity |
 
 ---
 
-*Document type: Living technical reference*  
-*UID: T-001-0001 | Domain: 001 | Status: Evolving*  
-*Next review: When new insulin signaling paper processed*
+## 7. Update Log
+
+| Version | Date | Changes | Updated By |
+|---------|------|---------|------------|
+| 1.0 | 2026-02-22 | Initial synthesis — 16 zettels from Gutiérrez-Rodelo 2017 | RON |
+| 1.1 | 2026-04-01 | Upgraded to Template_Synthesis_v1.0 format, added contributing zettels list, related syntheses | RON |
+
+---
+
+*Synthesis document — living knowledge, continuously evolving*  
+*UID: S-001-0001 | Domain: 001 | Status: evolving | Version: 1.1*

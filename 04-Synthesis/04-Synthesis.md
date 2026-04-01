@@ -52,7 +52,12 @@ Link from MOC (06-Structure/MOCs/)
 
 | Synthesis Doc | Topic | Zettels Linked | Last Updated |
 |---------------|-------|----------------|--------------|
-| {{query: list from "04-Synthesis"}} | — | — | — |
+| Insulin_Signaling_Synthesis_[S-001-0001] | Insulin signaling | 9+ | 2026-02-22 |
+| IR_Playbook_Clinical_Decision_Tool_[S-001-0001] | IR clinical tool | 15+ | 2026-03-01 |
+| Metabolomics_Training_Curriculum_[S-001-0003] | Training curriculum | 50+ | 2026-03-07 |
+| METHAP_Protocol_Living_Document_[S-002-0001] | PhD protocol | 20+ | 2026-03-15 |
+| Omega_Fatty_Acids_Framework_[S-001-0005] | Omega-3/6 synthesis | 8+ | 2026-03-08 |
+| Vitamin_D_Clinical_Guide_[S-001-0002] | Vitamin D clinical | 12+ | 2026-03-10 |
 
 ---
 
@@ -70,42 +75,16 @@ Topic_Synthesis_[S-{DDD}-{SSSS}].md
 
 ## 📝 Synthesis Template
 
-See: ``
+See: [[06-Structure/Templates/Template_Synthesis_v1.0|Template_Synthesis_v1.0.md]]
 
-```markdown
----
-uid: S-{DDD}-{SSSS}
-type: synthesis
-title: Topic Synthesis
-topic: Topic Name
-status: living
----
-
-# Topic Synthesis
-
-## Overview
-[2-3 paragraph summary]
-
-## Core Concepts
-### Concept 1
-[Explanation drawn from zettels]
-- Source: 
-- Source: 
-
-### Concept 2
-[Explanation drawn from zettels]
-- Source: 
-
-## Current State of Knowledge
-[What's established vs. uncertain]
-
-## Gaps & Questions
-- 
-- 
-
-## Related MOC
-
-```
+**Standard structure:**
+1. Core Definition (current understanding)
+2. Source Evolution (chronological development)
+3. Contributing Zettels (explicit list)
+4. Synthesis Gaps (what's missing)
+5. Open Questions (tensions, contradictions)
+6. Related Syntheses (cross-connections)
+7. Update Log (version history)
 
 ---
 
