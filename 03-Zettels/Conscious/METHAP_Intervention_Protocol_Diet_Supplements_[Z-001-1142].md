@@ -58,8 +58,8 @@ The METHAP intervention combines targeted dietary modifications with evidence-ba
 ### Core Supplements
 | Supplement | Dose | Timing | Rationale |
 |------------|------|--------|-----------|
-| **Vitamin D3** | 4000 IU/day | Morning | Insulin sensitivity |
-| **Magnesium** | 400-600mg/day | Evening | Glucose metabolism |
+| **[[KEYWORD-Vitamin_D|vitamin d]]3** | 4000 IU/day | Morning | Insulin sensitivity |
+| **Magnesium** | 400-600mg/day | Evening | Glucose [[KEYWORD-Metabolism|metabolism]] |
 | **Omega-3 (EPA/DHA)** | 2-3g/day | With meals | Anti-inflammatory |
 | **Chromium** | 200-1000mcg/day | Morning | Glucose transport |
 | **Alpha-lipoic acid** | 600mg/day | Divided | Antioxidant, insulin |
@@ -95,7 +95,7 @@ The METHAP intervention combines targeted dietary modifications with evidence-ba
 |--------|----------------|
 | **Pill counts** | Return at visits |
 | **Self-report** | Daily checklist |
-| **Biomarker verification** | Omega-3 index, 25(OH)D |
+| **[[KEYWORD-Biomarker|biomarker]] verification** | Omega-3 index, 25(OH)D |
 
 ## Safety Monitoring
 

@@ -24,7 +24,7 @@ Propionyl-CoA + HCO₃⁻ + ATP → D-Methylmalonyl-CoA + ADP + Pi
 
 ## Enzyme Characteristics
 
-**Location:** Mitochondria
+**Location:** [[KEYWORD-Mitochondria|mitochondria]]
 **Structure:** Alpha and beta subunits
 **Cofactor:** Biotin (vitamin B7)
 **Type:** Biotin-dependent carboxylase family
@@ -36,7 +36,7 @@ Propionyl-CoA + HCO₃⁻ + ATP → D-Methylmalonyl-CoA + ADP + Pi
 - Transfers activated CO₂ to substrate
 - ATP-dependent activation
 
-## Clinical Deficiency
+## [[KEYWORD-Clinical|clinical]] Deficiency
 
 **Propionic Acidemia:**
 - Inherited PCC deficiency
@@ -51,7 +51,7 @@ Propionyl-CoA + HCO₃⁻ + ATP → D-Methylmalonyl-CoA + ADP + Pi
 
 ---
 
-*Source: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]*
+*Source: [[LitNote_B12_Amino_Acid_[[KEYWORD-Metabolism|metabolism]]_L-001-0405]]*
 
 
 ## RELATED FILES

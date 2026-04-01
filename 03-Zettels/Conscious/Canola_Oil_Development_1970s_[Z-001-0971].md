@@ -23,7 +23,7 @@ status: conscious
 - Ancient origins in Mediterranean, India, China
 
 **Traditional Oil:**
-- **High erucic acid (22:1):** 20-50% of fatty acids
+- **High erucic acid (22:1):** 20-50% of [[KEYWORD-Fatty_Acids|fatty acids]]
 - **Properties:**
   - Industrial applications excellent
   - Food use problematic (taste, potential toxicity)
@@ -85,7 +85,7 @@ status: conscious
 - Meal must contain **<30 micromoles glucosinolates/gram**
 - Strictly regulated term
 
-## Nutritional Characteristics
+## [[KEYWORD-Nutrition|nutrition]]al Characteristics
 
 ### Fatty Acid Profile
 
@@ -93,7 +93,7 @@ status: conscious
 | Fatty Acid | Percentage | Notes |
 |------------|------------|-------|
 | **Oleic acid (18:1)** | 61% | Monounsaturated, stable |
-| **Linoleic acid (18:2)** | 21% | Omega-6, essential |
+| **Linoleic acid (18:2)** | 21% | [[KEYWORD-Omega_6|omega-6]], essential |
 | **Alpha-linolenic (18:3)** | 11% | Omega-3 (ALA) |
 | **Saturated fat** | 7% | Low |
 | **Erucic acid** | <2% | (Legal limit, usually <0.5%) |

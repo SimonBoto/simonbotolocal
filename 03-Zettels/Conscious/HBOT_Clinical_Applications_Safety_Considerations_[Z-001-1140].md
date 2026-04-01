@@ -16,7 +16,7 @@ created: 2026-03-08
 # HBOT Clinical Applications Safety Considerations
 
 ## Overview
-Hyperbaric oxygen therapy has established indications for radiation-related complications and emerging applications in cancer therapy, with a generally favorable safety profile when properly administered.
+Hyperbaric oxygen therapy has established indications for radiation-related complications and emerging applications in [[KEYWORD-Cancer|cancer]] therapy, with a generally favorable safety profile when properly administered.
 
 ## Established Oncologic Indications
 
@@ -35,7 +35,7 @@ Hyperbaric oxygen therapy has established indications for radiation-related comp
 | **Neovascularization** | Restore blood flow |
 | **Fibroblast activation** | Collagen synthesis |
 | **Stem cell mobilization** | Tissue regeneration |
-| **Reduced inflammation** | Break hypoxia-inflammation cycle |
+| **Reduced [[KEYWORD-Inflammation|inflammation]]** | Break hypoxia-inflammation cycle |
 
 ## Emerging Cancer Therapy Applications
 
@@ -149,7 +149,7 @@ Hyperbaric oxygen therapy has established indications for radiation-related comp
 | Parameter | Action |
 |-----------|--------|
 | **Ear clearing** | Before each session |
-| **Blood glucose** | Diabetics (insulin may need adjustment) |
+| **Blood glucose** | Diabetics ([[KEYWORD-Insulin|insulin]] may need adjustment) |
 | **Seizure precautions** | High-risk patients |
 | **Fire safety** | Strict enforcement |
 

@@ -11,7 +11,7 @@ created: 2026-03-04
 source: [[L-001-0046A]]
 ---
 
-# Amino Acids to α-Ketoglutarate: The Glutamate Hub
+# [[KEYWORD-Amino_Acids|amino acids]] to α-Ketoglutarate: The Glutamate Hub
 
 ## Four Amino Acids Converge on Glutamate
 
@@ -47,11 +47,11 @@ Glutamate + NAD⁺ + H₂O → α-ketoglutarate + NH₄⁺ + NADH
   - Urea cycle (for disposal)
   - Other α-keto acids (for amino acid synthesis)
 
-## Clinical: Vitamin B6
+## [[KEYWORD-Clinical|clinical]]: Vitamin B6
 **All four pathways B6-dependent:**
 - Transaminases (all)
 - Histidase
-- **Deficiency:** Impaired metabolism of all four amino acids
+- **Deficiency:** Impaired [[KEYWORD-Metabolism|metabolism]] of all four amino acids
 
 ## Related
 - [[Glutamate_Central_Amino_Acid_Hub_[Z-001-0915]]] Glutamate Central Amino Acid Hub

@@ -12,9 +12,9 @@ confidence: high
 created: 2026-02-24
 ---
 
-# Inflammatory Signaling in Insulin Resistance
+# Inflammatory Signaling in [[KEYWORD-Insulin|insulin]] Resistance
 
-Chronic low-grade inflammation activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
+Chronic low-grade [[KEYWORD-Inflammation|inflammation]] activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
 
 **Pro-inflammatory cytokines** (TNF-α, IL-6, IL-1β) induce serine kinase activation:
 - **JNK** → IRS-1 Ser307 phosphorylation
@@ -34,7 +34,7 @@ Chronic low-grade inflammation activates innate immunity through TLR4 (activated
 ## Links
 
 - **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md]] — Adipose inflammation produces cytokines
-- **Parallel:** [[Mitochondrial_Dysfunction_IR_Z-001-0030.md]] — Oxidative stress activates same pathways
+- **Parallel:** [[[[KEYWORD-Mitochondria|mitochondria]]l_Dysfunction_IR_Z-001-0030.md]] — Oxidative stress activates same pathways
 - **Downstream:** [[Vicious_Cycle_Inflammation_IR_Z-001-0038.md]] — Vicious cycle: inflammation ↔ IR
 
 ## Context

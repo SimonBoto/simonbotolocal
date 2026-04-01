@@ -11,16 +11,16 @@ created: 2026-03-04
 source: [[L-001-0045H]]
 ---
 
-# Mitochondrial Shuttles: Malate and Aspartate
+# [[KEYWORD-Mitochondria|mitochondria]]l Shuttles: Malate and Aspartate
 
 ## The Problem
-**Oxaloacetate cannot cross the inner mitochondrial membrane.**
+**Oxaloacetate cannot cross the inner [[KEYWORD-Mitochondria|mitochondrial]] membrane.**
 
 Since OAA is made in mitochondria (by pyruvate carboxylase) but PEPCK is cytosolic, we need a **shuttle system**.
 
 ## Malate Shuttle (Malate-Aspartate Shuttle)
 
-### Mechanism
+### [[KEYWORD-Mechanism|mechanism]]
 **Mitochondrial side:**
 ```
 OAA + NADH + H⁺ → Malate + NAD⁺ (malate dehydrogenase)

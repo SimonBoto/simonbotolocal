@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Male_Hormone_Assessment_Scenarios_L-001-0578]]
 status: conscious
 ---
 
-# Prolactinoma — Diagnosis, Clinical Effects, and Management
+# Prolactinoma — Diagnosis, [[KEYWORD-Clinical|clinical]] Effects, and Management
 
 ## Overview
 
@@ -19,7 +19,7 @@ Prolactinoma is the most common functioning pituitary adenoma, causing hyperprol
 
 ## Pathophysiology
 
-### Mechanism of Hypogonadism
+### [[KEYWORD-Mechanism|mechanism]] of Hypogonadism
 
 ```
 Prolactinoma → Excess prolactin

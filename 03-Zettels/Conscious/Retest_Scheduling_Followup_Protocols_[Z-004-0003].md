@@ -21,7 +21,7 @@ connections:
 
 ## 🎯 Retest Intervals by Marker
 
-### Insulin Resistance Panel (Primary Outcomes)
+### [[KEYWORD-Insulin|insulin]] Resistance Panel (Primary Outcomes)
 | Marker | Baseline | Active Intervention | Stable/Optimal |
 |--------|----------|---------------------|----------------|
 | **HOMA-IR, TyG** | ✅ | 6-8 weeks | 3-6 months |
@@ -34,7 +34,7 @@ connections:
 ### Foundational Nutrients
 | Marker | Baseline | Intervention Start | Maintenance |
 |--------|----------|-------------------|-------------|
-| **Vitamin D** | ✅ | 8-12 weeks (dose change) | 6 months |
+| **[[KEYWORD-Vitamin_D|vitamin d]]** | ✅ | 8-12 weeks (dose change) | 6 months |
 | **Homocysteine** | ✅ | 8 weeks (methylation support) | 6 months |
 | **Ferritin + iron panel** | ✅ | 8 weeks (if treating) | 6 months |
 | **B12/MMA** | ✅ | 8 weeks (if treating) | 6-12 months |
@@ -50,7 +50,7 @@ connections:
 
 **Rationale:** TSH takes 6 weeks to reflect steady-state hormone levels.
 
-### Inflammation and Metabolic
+### [[KEYWORD-Inflammation|inflammation]] and Metabolic
 | Marker | Baseline | Intervention | Maintenance |
 |--------|----------|--------------|-------------|
 | **hs-CRP** | ✅ | 8-12 weeks | 6 months |

@@ -16,7 +16,7 @@ created: 2026-03-08
 # Adenosine Metabolic Roles Energy Signaling
 
 ## Overview
-Adenosine is a nucleoside (adenine + ribose) serving as the universal hub connecting energy metabolism, neural signaling, and genetic information.
+Adenosine is a nucleoside (adenine + ribose) serving as the universal hub connecting energy [[KEYWORD-Metabolism|metabolism]], neural signaling, and genetic information.
 
 ## Structure
 - **Composition:** Adenine base + Ribose sugar
@@ -57,7 +57,7 @@ Adenosine is a nucleoside (adenine + ribose) serving as the universal hub connec
 ### Adenosine Deaminase Deficiency
 - **Enzyme defect:** ADA deficiency
 - **Consequence:** Severe combined immunodeficiency (SCID)
-- **Mechanism:** Toxic accumulation of deoxyadenosine
+- **[[KEYWORD-Mechanism|mechanism]]:** Toxic accumulation of deoxyadenosine
 - **Treatment:** Gene therapy, bone marrow transplant
 
 ### Therapeutic Applications
@@ -78,4 +78,4 @@ Adenosine is a nucleoside (adenine + ribose) serving as the universal hub connec
 - [[MOC-Nucleotide-Metabolism]]
 
 ---
-*Source: CGPT-0445 — Advanced biochemistry*
+*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*

@@ -36,8 +36,8 @@ extraction-date: 2026-03-01
 
 ### Oral
 - **Cyanocobalamin:** Synthetic, stable, most common
-- **Methylcobalamin:** Methylation support
-- **Adenosylcobalamin:** Mitochondrial support
+- **Methylcobalamin:** [[KEYWORD-Methylation|methylation]] support
+- **Adenosylcobalamin:** [[KEYWORD-Mitochondria|mitochondria]]l support
 - **Hydroxocobalamin:** Long-acting
 
 ### Parenteral
@@ -60,7 +60,7 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]]*
+*Source: [[LitNote_[[KEYWORD-Mitochondria|mitochondrial]]_B12_Functions_L-001-0407]]*
 
 
 ## RELATED FILES

@@ -44,7 +44,7 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 - **Major gluconeogenic enzyme**
 - **Regulated by:** Hormones, diet
 
-### Mitochondrial PEPCK
+### [[KEYWORD-Mitochondria|mitochondria]]l PEPCK
 - **Gene:** PCK2
 - **Minor role in gluconeogenesis**
 - **Anaplerotic function** more prominent
@@ -56,7 +56,7 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 |--------|--------|-----------|
 | **Glucagon** | ↑ PEPCK | cAMP → CREB → transcription |
 | **Cortisol** | ↑ PEPCK | Glucocorticoid receptor |
-| **Insulin** | ↓ PEPCK | FOXO1 inhibition |
+| **[[KEYWORD-Insulin|insulin]]** | ↓ PEPCK | FOXO1 inhibition |
 | **Fasting** | ↑ PEPCK | Multiple hormones |
 
 ### Post-transcriptional
@@ -68,7 +68,7 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 Pyruvate → OAA → PEP → ... → Glucose
          (PC)   (PEPCK)
          ↑
-   Mitochondrial shuttle required
+   [[KEYWORD-Mitochondria|mitochondrial]] shuttle required
 ```
 
 ## Energy Cost

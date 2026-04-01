@@ -18,7 +18,7 @@ Synthetic analog of parathyroid hormone-related protein (PTHrP) that stimulates 
 ## PTHrP vs. PTH
 
 ### Physiological Context
-- **PTH:** Secreted by parathyroid glands, regulates calcium homeostasis
+- **PTH:** Secreted by parathyroid glands, regulates [[KEYWORD-Calcium|calcium]] homeostasis
 - **PTHrP:** Secreted by many tissues, local regulator of bone and cartilage
 - **Abaloparatide:** Based on PTHrP(1-34) with modifications for stability
 
@@ -32,7 +32,7 @@ Synthetic analog of parathyroid hormone-related protein (PTHrP) that stimulates 
 
 **Functional consequence:** Abaloparatide's transient signaling may favor formation with less resorption stimulation.
 
-## Molecular Mechanism
+## Molecular [[KEYWORD-Mechanism|mechanism]]
 
 ### PTH1 Receptor Activation
 - Binds same receptor as PTH (PTH1R) on osteoblasts
@@ -45,7 +45,7 @@ Synthetic analog of parathyroid hormone-related protein (PTHrP) that stimulates 
 - **Reduced resorption coupling:** Potentially better formation/resorption ratio
 - **Similar anabolic endpoint:** Comparable BMD gains
 
-## Clinical Pharmacology
+## [[KEYWORD-Clinical|clinical]] Pharmacology
 
 ### Administration
 - **Dose:** 80 μg daily

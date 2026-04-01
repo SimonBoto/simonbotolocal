@@ -77,7 +77,7 @@ Bioavailable Testosterone = Free + Albumin-bound (~40-50%)
 
 | Factor | Mechanism | Clinical Context |
 |--------|-----------|------------------|
-| **Insulin** | Inhibits hepatic synthesis | Insulin resistance, obesity, type 2 diabetes |
+| **[[KEYWORD-Insulin|insulin]]** | Inhibits hepatic synthesis | Insulin resistance, obesity, type 2 diabetes |
 | **Androgens** | Suppress production | Testosterone therapy, anabolic steroids |
 | **IGF-1** | Inhibits synthesis | Acromegaly, high growth hormone |
 | **Hypothyroidism** | Reduced synthesis | Low thyroid function |
@@ -158,7 +158,7 @@ Free T = Total T / (1 + [SHBG binding constant] × [SHBG])
 
 **Online calculators available**
 
-### SHBG as Biomarker
+### SHBG as [[KEYWORD-Biomarker|biomarker]]
 
 **Independent of Testosterone:**
 - Low SHBG predicts:
@@ -264,6 +264,6 @@ Free T = Total T / (1 + [SHBG binding constant] × [SHBG])
 **Source:** CGPT-0438 — Hormone Scenarios
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

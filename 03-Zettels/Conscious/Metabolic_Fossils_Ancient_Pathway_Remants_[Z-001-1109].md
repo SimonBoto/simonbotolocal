@@ -16,7 +16,7 @@ created: 2026-03-08
 # Metabolic Fossils Ancient Pathway Remnants
 
 ## Overview
-Some metabolic pathways retain features reflecting their evolutionary history—"metabolic fossils" that reveal how metabolism emerged and evolved over billions of years.
+Some metabolic pathways retain features reflecting their evolutionary history—"metabolic fossils" that reveal how [[KEYWORD-Metabolism|metabolism]] emerged and evolved over billions of years.
 
 ## Types of Metabolic Fossils
 
@@ -53,7 +53,7 @@ Some metabolic pathways retain features reflecting their evolutionary history—
 ### Iron-Sulfur Chemistry
 | Modern System | Ancient Connection |
 |---------------|-------------------|
-| **Mitochondrial ETC** | Fe-S clusters central to electron transfer |
+| **[[KEYWORD-Mitochondria|mitochondria]]l ETC** | Fe-S clusters central to electron transfer |
 | **Nitrogenase** | Ancient enzyme, complex Fe-S cluster |
 | **Aconitase** | Fe-S cluster catalytic, vulnerable to oxidation |
 
@@ -116,7 +116,7 @@ Some metabolic pathways retain features reflecting their evolutionary history—
 ## Related
 - [[Ancient_Metabolic_Pathways_Conservation_[Z-001-1107].md]]
 | [[Prebiotic_Chemistry_Hydrothermal_Vents_[Z-001-1108].md]]
-| [[MOC-Evolutionary-Biochemistry]]
+| [[MOC-Evolutionary-[[KEYWORD-Biochemistry|biochemistry]]]]
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

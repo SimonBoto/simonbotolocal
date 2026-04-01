@@ -13,9 +13,9 @@ extraction-date: 2026-03-01
 
 # Fatty Acid Dietary Strategies
 
-> Optimizing fatty acid intake requires eliminating seed oils, increasing direct omega-3s, favoring monounsaturated fats, and selecting fats by cooking stability.
+> Optimizing fatty acid intake requires eliminating seed oils, increasing direct [[KEYWORD-Omega_3|omega-3]]s, favoring monounsaturated fats, and selecting fats by cooking stability.
 
-## Reduce Omega-6
+## Reduce [[KEYWORD-Omega_6|omega-6]]
 
 **Eliminate:**
 - Soybean, corn, safflower, sunflower oils

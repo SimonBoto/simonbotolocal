@@ -45,7 +45,7 @@ Autophosphorylation (tyrosine kinase activation)
 FRS2 recruitment
     ↓
 Ras-Raf-MEK-ERK (MAPK pathway) → Proliferation
-PI3K-Akt → Survival, metabolism
+PI3K-Akt → Survival, [[KEYWORD-Metabolism|metabolism]]
 PLCγ → Calcium signaling
 ```
 
@@ -145,7 +145,7 @@ Src family (cytoskeleton)
 - Lck, Lyn
 - RET
 
-### Mechanism in IPF
+### [[KEYWORD-Mechanism|mechanism]] in IPF
 
 **Pathophysiology of IPF:**
 ```
@@ -189,7 +189,7 @@ Slowed fibrosis progression
 | Efficacy | Similar | Similar |
 | Side effects | Diarrhea, LFTs | Photosensitivity, GI |
 
-### Other TKIs (Cancer)
+### Other TKIs ([[KEYWORD-Cancer|cancer]])
 
 **Sunitinib:**
 - VEGFR, PDGFR, c-Kit, FLT-3

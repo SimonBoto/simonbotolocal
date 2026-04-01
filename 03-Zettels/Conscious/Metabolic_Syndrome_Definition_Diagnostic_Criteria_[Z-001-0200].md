@@ -38,7 +38,7 @@ Requires **3 or more** of the following:
 - Ethnicity-specific waist circumference cutoffs
 
 **WHO Definition:**
-- Insulin resistance as required component
+- [[KEYWORD-Insulin|insulin]] resistance as required component
 - Includes microalbuminuria
 
 ## Clinical Significance
@@ -49,7 +49,7 @@ Requires **3 or more** of the following:
 
 ## Connection to METHAP
 
-METHAP trial targets individuals with metabolic syndrome/insulin resistance. Understanding diagnostic criteria essential for:
+METHAP trial targets individuals with metabolic syndrome/[[KEYWORD-Insulin_Resistance|insulin resistance]]. Understanding diagnostic criteria essential for:
 - Inclusion/exclusion criteria
 - Baseline stratification
 - Outcome measurement (resolution of MetS components)
@@ -62,4 +62,4 @@ METHAP trial targets individuals with metabolic syndrome/insulin resistance. Und
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Magnesium_Dosing_RDA_Therapeutic_Ranges_[Z-001-0219]|Z-001-0219]]
+- [[[[KEYWORD-Magnesium|magnesium]]_Dosing_RDA_Therapeutic_Ranges_[Z-001-0219]|Z-001-0219]]

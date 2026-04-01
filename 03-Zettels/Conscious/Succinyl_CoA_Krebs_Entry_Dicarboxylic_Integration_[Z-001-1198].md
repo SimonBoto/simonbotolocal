@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Succinyl-CoA is the critical entry point where dicarboxylic acid metabolism converges with the Krebs cycle. This integration allows adipate and other dicarboxylic acids to contribute to cellular energy production.
+Succinyl-CoA is the critical entry point where dicarboxylic acid [[KEYWORD-Metabolism|metabolism]] converges with the Krebs cycle. This integration allows adipate and other dicarboxylic acids to contribute to cellular energy production.
 
 ---
 
@@ -112,7 +112,7 @@ Adipyl-CoA
 ### Elevated Urinary Dicarboxylic Acids Implies:
 
 1. **Metabolic overflow** — Production exceeds processing capacity
-2. **Mitochondrial limitation** — Cannot handle substrate load
+2. **[[KEYWORD-Mitochondria|mitochondria]]l limitation** — Cannot handle substrate load
 3. **Enzyme bottleneck** — Dicarboxylic pathway saturated
 
 **NOT:** Inability to use these molecules — just rate limitation
@@ -147,7 +147,7 @@ Adipyl-CoA
 
 - [[Complete_Adipate_Metabolism_Formation_to_Krebs_[Z-001-1196].md]]
 - [[Dicarboxylic_Acid_Energy_Yield_ATP_[Z-001-1197].md]]
-- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_[Z-001-1192].md]]
+- [[Beta_Oxidation_[[KEYWORD-Mitochondria|mitochondrial]]_Fatty_Acid_Breakdown_[Z-001-1192].md]]
 
 ---
 

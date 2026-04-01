@@ -19,7 +19,7 @@ The muscle-bone unit concept: adequate protein intake enhances muscle strength, 
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
 **Source:** [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]]
 **Related:** [[Sarcopenia_Bone_Loss_Connection_[Z-001-0098].md]], [[IGF1_Protein_Bone_Anabolic_Signal_[Z-001-0100].md]]
 

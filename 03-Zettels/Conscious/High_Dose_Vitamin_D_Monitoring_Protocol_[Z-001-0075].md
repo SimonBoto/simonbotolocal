@@ -13,9 +13,9 @@ created: 2026-03-01
 status: conscious
 ---
 
-# High-Dose Vitamin D Monitoring Protocol
+# High-Dose [[KEYWORD-Vitamin_D|vitamin d]] Monitoring Protocol
 
-Clinical studies (Gallo, Saadi, Gordon, Stoss therapy) demonstrate safety of doses 2-50x RDA with systematic monitoring. Essential parameters: serum 25(OH)D, calcium, phosphate, creatinine/eGFR, urinary calcium/creatinine ratio.
+[[KEYWORD-Clinical|clinical]] studies (Gallo, Saadi, Gordon, Stoss therapy) demonstrate safety of doses 2-50x RDA with systematic monitoring. Essential parameters: serum 25(OH)D, [[KEYWORD-Calcium|calcium]], phosphate, creatinine/eGFR, urinary calcium/creatinine ratio.
 
 **Monitoring schedule (based on research protocols):**
 - **Baseline:** 25(OH)D, calcium, phosphate, creatinine, Mg

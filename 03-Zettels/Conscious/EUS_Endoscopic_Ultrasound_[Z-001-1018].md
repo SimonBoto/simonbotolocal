@@ -11,7 +11,7 @@ source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]]
 status: conscious
 ---
 
-# Endoscopic Ultrasound (EUS) — Indications and Clinical Applications
+# Endoscopic Ultrasound (EUS) — Indications and [[KEYWORD-Clinical|clinical]] Applications
 
 ## Overview
 
@@ -44,7 +44,7 @@ Endoscopic ultrasound (EUS) combines endoscopy with high-frequency ultrasound im
 **T Staging Advantage:**
 - Direct visualization of tumor invasion depth
 - T1 vs T2 vs T3 vs T4 accuracy
-- Superior to CT for early gastric/esophageal cancer
+- Superior to CT for early gastric/esophageal [[KEYWORD-Cancer|cancer]]
 
 ## Primary Indications
 

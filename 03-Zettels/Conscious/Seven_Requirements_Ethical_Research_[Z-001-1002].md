@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]]
 status: conscious
 ---
 
-# Seven Requirements for Ethical Clinical Research — Emanuel Framework
+# Seven Requirements for Ethical [[KEYWORD-Clinical|clinical]] [[KEYWORD-Research|research]] — Emanuel Framework
 
 ## Overview
 
@@ -35,7 +35,7 @@ The research must enhance health or increase knowledge significantly.
 - Is the research question worth the risks?
 
 **Examples:**
-- **Ethical:** Testing new cancer therapy with promising preclinical data
+- **Ethical:** Testing new [[KEYWORD-Cancer|cancer]] therapy with promising preclinical data
 - **Unethical:** Repeating well-established findings without justification
 
 ### 2. Scientific Validity

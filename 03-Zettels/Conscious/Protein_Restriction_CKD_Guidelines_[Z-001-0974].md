@@ -40,7 +40,7 @@ status: conscious
 
 **Key Points:**
 - Lower end of range for advanced CKD
-- Higher end if malnutrition risk
+- Higher end if mal[[KEYWORD-Nutrition|nutrition]] risk
 - Individualize based on clinical status
 
 ### Rationale
@@ -72,7 +72,7 @@ status: conscious
 1. Current protein intake (dietary history)
 2. Nutritional status (albumin, weight, SGA)
 3. CKD stage and progression rate
-4. Comorbidities (diabetes, CVD)
+4. Comorbidities ([[KEYWORD-Diabetes|diabetes]], CVD)
 5. Patient preferences and compliance capacity
 
 ### Monitoring on Restriction
@@ -98,7 +98,7 @@ status: conscious
 - Increase protein to 0.8 g/kg
 - Address anorexia (antiemetics, appetite stimulants)
 - Consider nutritional supplements
-- Rule out inflammation/infection
+- Rule out [[KEYWORD-Inflammation|inflammation]]/infection
 
 **If CKD Progresses Despite Restriction:**
 - Ensure compliance (dietary recall)

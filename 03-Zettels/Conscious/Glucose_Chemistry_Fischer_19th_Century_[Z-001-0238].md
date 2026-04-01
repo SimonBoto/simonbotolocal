@@ -64,7 +64,7 @@ extraction-date: 2026-03-01
 - Stereochemistry explains specificity
 - Basis for enzyme-substrate interactions
 
-**Metabolism Understanding:**
+**[[KEYWORD-Metabolism|metabolism]] Understanding:**
 - Glycolysis pathways mapped
 - Structural basis for metabolic regulation
 - Drug design applications
@@ -72,7 +72,7 @@ extraction-date: 2026-03-01
 ## Connection to Diabetes
 
 **Precise Understanding:**
-- Exact structure enabled insulin mechanism studies
+- Exact structure enabled [[KEYWORD-Insulin|insulin]] [[KEYWORD-Mechanism|mechanism]] studies
 - Glucose measurement methods developed
 - Understanding of metabolic pathways
 

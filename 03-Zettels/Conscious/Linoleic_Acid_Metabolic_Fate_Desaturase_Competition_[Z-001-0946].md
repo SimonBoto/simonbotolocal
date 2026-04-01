@@ -71,11 +71,11 @@ GLA (n-6)                                Stearidonic Acid (n-3)
 | **Brain** | 10-12% of phospholipids | Neural signaling, cognition |
 | **Liver** | 15-20% | Eicosanoid precursor pool |
 | **Immune cells** | 20-25% | Inflammatory response |
-| **Muscle** | 8-10% | Insulin sensitivity |
+| **Muscle** | 8-10% | [[KEYWORD-Insulin|insulin]] sensitivity |
 
 ### Pro-Inflammatory Eicosanoid Production
 **COX-2 pathway:**
-- PGE2 (Prostaglandin E2) — Pain, fever, inflammation
+- PGE2 (Prostaglandin E2) — Pain, fever, [[KEYWORD-Inflammation|inflammation]]
 - TXA2 (Thromboxane A2) — Platelet aggregation, vasoconstriction
 
 **LOX pathway:**
@@ -105,7 +105,7 @@ GLA (n-6)                                Stearidonic Acid (n-3)
 ### Excessive Linoleic Acid Intake
 1. **Saturates delta-6 desaturase** → Blocks omega-3 conversion
 2. **Increases tissue AA pools** → More substrate for inflammation
-3. **Chronic low-grade inflammation** → Insulin resistance, atherosclerosis
+3. **Chronic low-grade inflammation** → [[KEYWORD-Insulin_Resistance|insulin resistance]], atherosclerosis
 4. **Resolution impaired** → Pro-resolving mediators (resolvins) from omega-3 reduced
 
 ### Therapeutic Targets

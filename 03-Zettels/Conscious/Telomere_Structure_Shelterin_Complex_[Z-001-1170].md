@@ -48,7 +48,7 @@ Six proteins that bind and protect telomeres:
 - Forms D-loop displacement structure
 - Hides chromosome end from DNA damage machinery
 
-**Protection Mechanisms:**
+**Protection [[KEYWORD-Mechanism|mechanism]]s:**
 1. **Physical shielding:** End not recognized as DNA break
 2. **ATM inhibition:** TRF2 prevents DNA damage response
 3. **ATR inhibition:** POT1 blocks single-strand sensing
@@ -78,4 +78,4 @@ Six proteins that bind and protect telomeres:
 
 ---
 
-*Source: [[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]] | 2026-03-08*
+*Source: [[LitNote_Telomere_Biology_[[KEYWORD-Autoimmunity|autoimmunity]]_L-001-0623]] | 2026-03-08*

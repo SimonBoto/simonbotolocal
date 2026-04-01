@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Metabolomics Training MOC Graph
+# [[KEYWORD-Metabolomics|metabolomics]] Training MOC Graph
 
 ## Overview
 Knowledge graph showing connections between all CGPT-0022 training materials and existing MOCs.
@@ -23,7 +23,7 @@ Knowledge graph showing connections between all CGPT-0022 training materials and
 
 ## Domain Clusters
 
-### Energy Metabolism Cluster
+### Energy [[KEYWORD-Metabolism|metabolism]] Cluster
 **MOCs:**
 - [[MOC-Mitochondrial-Function]]
 - [[MOC-Krebs-Cycle]]
@@ -54,7 +54,7 @@ Knowledge graph showing connections between all CGPT-0022 training materials and
 
 ### Micronutrient Cluster
 **MOCs:**
-- [[MOC-Vitamin-D-Metabolism]]
+- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Metabolism]]
 - [[MOC-Vitamin-Metabolism]]
 - [[MOC-Methylation-One-Carbon]]
 

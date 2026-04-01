@@ -14,9 +14,9 @@ created: 2026-02-24
 
 # Vicious Cycle: IR → Obesity → IR
 
-Insulin resistance creates hyperinsulinemia as beta-cells attempt compensation. Elevated insulin promotes fat storage (lipogenesis) and inhibits lipolysis, driving weight gain.
+[[KEYWORD-Insulin|insulin]] resistance creates hyperinsulinemia as beta-cells attempt compensation. Elevated insulin promotes fat storage (lipogenesis) and inhibits lipolysis, driving weight gain.
 
-**The cycle:** Weight gain worsens adipose tissue dysfunction, macrophage infiltration, and adipokine dysregulation — further amplifying insulin resistance.
+**The cycle:** Weight gain worsens adipose tissue dysfunction, macrophage infiltration, and adipokine dysregulation — further amplifying [[KEYWORD-Insulin_Resistance|insulin resistance]].
 
 **Breaking point:** Caloric restriction and weight loss can reverse the cycle at any stage, but becomes progressively harder as the cycle intensifies.
 
@@ -41,7 +41,7 @@ Worsening IR
 ## Links
 
 - **Upstream:** [[Compensatory_IR_Stage_Z-001-0034.md]] — Compensatory hyperinsulinemia drives this
-- **Parallel:** [[Vicious_Cycle_Inflammation_IR_Z-001-0038.md]], [[Vicious_Cycle_Stress_IR_Z-001-0039.md]] — Other vicious cycles
+- **Parallel:** [[Vicious_Cycle_[[KEYWORD-Inflammation|inflammation]]_IR_Z-001-0038.md]], [[Vicious_Cycle_Stress_IR_Z-001-0039.md]] — Other vicious cycles
 - **Downstream:** [[MOC-Weight-Loss-Resistance]] — Why diets fail
 
 ## Context

@@ -16,7 +16,7 @@ created: 2026-03-08
 # Targeting p53 Dysfunction MDM2 Inhibitors
 
 ## Overview
-MDM2 inhibitors represent a promising therapeutic strategy for cancers with wild-type TP53 by blocking the negative regulator of p53, thereby reactivating p53-mediated tumor suppression.
+MDM2 inhibitors represent a promising therapeutic strategy for [[KEYWORD-Cancer|cancer]]s with wild-type TP53 by blocking the negative regulator of p53, thereby reactivating p53-mediated tumor suppression.
 
 ## The p53-MDM2 Axis
 
@@ -99,7 +99,7 @@ Stress/DNA damage → p53 activation → Cell cycle arrest/apoptosis
 | **XPO1 inhibitors** | Enhance nuclear p53 |
 | **DNA damaging agents** | Stress + p53 restoration |
 
-### Biomarker Development
+### [[KEYWORD-Biomarker|biomarker]] Development
 | Marker | Utility |
 |--------|---------|
 | **MDM2 expression** | Predict response |
@@ -130,6 +130,6 @@ Stress/DNA damage → p53 activation → Cell cycle arrest/apoptosis
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 ## RELATED FILES
-- [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

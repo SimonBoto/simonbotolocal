@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Methionine Cycle — Activation and Regeneration
 
-> The methionine cycle activates methionine to SAM for methylation reactions, then converts the byproduct SAH to homocysteine, which is either remethylated to methionine or enters transsulfuration.
+> The methionine cycle activates methionine to SAM for [[KEYWORD-Methylation|methylation]] reactions, then converts the byproduct SAH to homocysteine, which is either remethylated to methionine or enters transsulfuration.
 
 ## Step 1: SAM Synthesis
 

@@ -34,12 +34,12 @@ Ascorbate → Dehydroascorbate → Oxalate + Threonate
 - Effect size modest but measurable
 - Individual variation high
 
-**Mechanism:**
+**[[KEYWORD-Mechanism|mechanism]]:**
 - Increased oxalate substrate
 - Urinary oxalate excretion rises
 - May tip supersaturation in susceptible individuals
 
-## Clinical Recommendations
+## [[KEYWORD-Clinical|clinical]] Recommendations
 
 **For kidney stone formers:**
 - Limit vitamin C to <1000 mg/day
@@ -52,7 +52,7 @@ Ascorbate → Dehydroascorbate → Oxalate + Threonate
 - Megadosing (>2000 mg) not recommended
 
 ## Related
-- [[Glycine_Metabolism_to_Oxalate_[Z-001-0605].md]] — Other major source
+- [[Glycine_[[KEYWORD-Metabolism|metabolism]]_to_Oxalate_[Z-001-0605].md]] — Other major source
 - [[Hydroxyproline_Collagen_Oxalate_Production_[Z-001-0606].md]] — Collagen source
 
 ---

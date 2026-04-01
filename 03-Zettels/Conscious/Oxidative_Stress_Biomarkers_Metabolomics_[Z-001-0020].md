@@ -22,7 +22,7 @@ Metabolomics detects **oxidative stress biomarkers** that connect to metabolic s
 | Biomarker | Full Name | Metabolic Significance | Clinical Relevance |
 |-----------|-----------|----------------------|-------------------|
 | **8-OHdG** | 8-hydroxy-deoxyguanosine | DNA oxidation marker | Genotoxic damage, cancer risk |
-| **p-HPLA** | p-hydroxyphenyllactate | Tyrosine metabolism, oxidative stress | Mitochondrial dysfunction |
+| **p-HPLA** | p-hydroxyphenyllactate | Tyrosine [[KEYWORD-Metabolism|metabolism]], oxidative stress | Mitochondrial dysfunction |
 | **Aconitase** | (enzyme activity) | Krebs cycle enzyme | Iron-sulfur cluster oxidation |
 | **2-HBA** | 2-hydroxybutyric acid | Glutathione synthesis pathway | Oxidative stress, insulin resistance |
 | **Pyroglutamate** | 5-oxoproline | Glutathione metabolism marker | Cellular antioxidant capacity |
@@ -74,7 +74,7 @@ Oxidative stress contributes to metabolic syndrome components:
 
 ## METHAP Trial Relevance
 
-### Vitamin D and Oxidative Stress
+### [[KEYWORD-Vitamin_D|vitamin d]] and Oxidative Stress
 Vitamin D demonstrates **antioxidant properties**:
 - Upregulates glutathione synthesis
 - Reduces ROS production
@@ -99,7 +99,7 @@ Adipic acid elevation may indicate:
 
 ### Downstream
 - [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]] — OS-IR mechanism
-- [[MOC-Vitamin-D-Mechanisms]] — VitD antioxidant effects
+- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]] — VitD antioxidant effects
 
 ### Cross-Domain
 - [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013.md]] — Lipid-induced OS

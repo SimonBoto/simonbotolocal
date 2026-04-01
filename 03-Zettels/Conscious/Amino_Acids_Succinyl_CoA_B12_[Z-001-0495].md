@@ -22,7 +22,7 @@ source: [[L-001-0046A]]
 | **Methionine** | → S-adenosylmethionine → Homocysteine → Propionyl-CoA → Succinyl-CoA | Methyl donor first |
 | **Threonine** | → α-ketobutyrate → Propionyl-CoA → Succinyl-CoA | Threonine dehydrogenase |
 
-## Common Pathway: Propionate Metabolism
+## Common Pathway: Propionate [[KEYWORD-Metabolism|metabolism]]
 
 ### Critical Step: Methylmalonyl-CoA Mutase
 ```
@@ -71,7 +71,7 @@ Valine/Isoleucine/Leucine → Branched-chain α-keto acid
 
 ## Related
 - [[Propionate_Metabolism_Gluconeogenesis_[Z-001-0478]]] Propionate Metabolism (detailed pathway)
-- [[Vitamin_Dependence_Organic_Acid_Metabolism_[Z-001-0479]]] Vitamin Dependence
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_[Z-001-0479]]] [[KEYWORD-Vitamin_D|vitamin d]]ependence
 - [[Ketogenic_Amino_Acids_Leucine_Lysine_[Z-001-0498]]] Ketogenic Amino Acids
 
 ---
@@ -80,4 +80,4 @@ Valine/Isoleucine/Leucine → Branched-chain α-keto acid
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_[Z-001-0428]|Z-001-0428]]
+- [[Methylmalonyl_CoA_Mutase_B12_[[KEYWORD-Mechanism|mechanism]]_[Z-001-0428]|Z-001-0428]]

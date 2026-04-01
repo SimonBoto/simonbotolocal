@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]"
 status: conscious
 ---
 
-# Ketone vs Glycolysis Mitochondrial Entry
+# Ketone vs Glycolysis [[KEYWORD-Mitochondria|mitochondria]]l Entry
 
 Ketone bodies and glucose-derived pyruvate both ultimately produce mitochondrial acetyl-CoA for Krebs cycle entry, but they follow fundamentally different cellular routes that reflect their distinct metabolic origins and regulatory requirements.
 
@@ -66,7 +66,7 @@ BHB ──BDH1──→ Acetoacetate + NADH
 **GLUT Transporters**
 - **GLUT1:** Basal glucose uptake (brain, erythrocytes)
 - **GLUT2:** Liver, pancreas (high Km, "glucose sensor")
-- **GLUT4:** Insulin-responsive (muscle, adipose)
+- **GLUT4:** [[KEYWORD-Insulin|insulin]]-responsive (muscle, adipose)
 
 ### Step 2: Cytoplasmic Glycolysis
 
@@ -112,7 +112,7 @@ Pyruvate + NAD⁺ + CoA → Acetyl-CoA + NADH + CO₂
 
 | Aspect | Ketones | Pyruvate |
 |--------|---------|----------|
-| **Cytoplasmic metabolism** | None | Entire glycolytic pathway |
+| **Cytoplasmic [[KEYWORD-Metabolism|metabolism]]** | None | Entire glycolytic pathway |
 | **Mitochondrial entry** | Direct (MCT) | Requires MPC transporter |
 | **NADH production site** | Mitochondrial (BDH1) | Cytoplasmic (GAPDH) |
 | **NADH shuttle needed?** | No (already mitochondrial) | Yes (malate-aspartate or glycerol-3-phosphate) |

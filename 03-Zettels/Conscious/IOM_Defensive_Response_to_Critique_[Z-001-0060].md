@@ -15,7 +15,7 @@ status: conscious
 
 # IOM Defensive Response to Statistical Critique
 
-Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), the IOM (now National Academy of Medicine) maintained their 2010 calculations were "appropriate and based on available evidence." They cited safety concerns (hypercalcemia risk) rather than addressing the statistical validity.
+Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), the IOM (now National Academy of Medicine) maintained their 2010 calculations were "appropriate and based on available evidence." They cited [[KEYWORD-Safety|safety]] concerns (hypercalcemia risk) rather than addressing the statistical validity.
 
 **IOM position:**
 - Defended methodology despite clear mathematical error
@@ -32,7 +32,7 @@ Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), 
 
 ## Links
 
-**Parent MOC:** [[MOC-Vitamin-D-Metabolism]]
+**Parent MOC:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
 **Source:** [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
 **Related:** [[Vitamin_D_Toxicity_Myth_Persistence_[Z-001-0057]]], [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
 

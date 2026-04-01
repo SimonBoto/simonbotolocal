@@ -18,7 +18,7 @@ extraction-date: 2026-03-01
 ## Hematological Manifestations
 
 ### Megaloblastic Anemia
-**Mechanism:** Impaired DNA synthesis in rapidly dividing cells
+**[[KEYWORD-Mechanism|mechanism]]:** Impaired DNA synthesis in rapidly dividing cells
 
 **Peripheral Blood:**
 - **Macrocytic anemia:** MCV >100 fL
@@ -42,7 +42,7 @@ extraction-date: 2026-03-01
 - **Advanced:** Spasticity, weakness, paraplegia
 - **Cognitive:** Dementia, depression, psychosis
 
-**Mechanism:** Impaired myelin synthesis (methylation defect)
+**Mechanism:** Impaired myelin synthesis ([[KEYWORD-Methylation|methylation]] defect)
 
 **Critical:**
 - **Irreversible** if untreated >6-12 months
@@ -101,7 +101,7 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]*
+*Source: [[LitNote_One_Carbon_[[KEYWORD-Metabolism|metabolism]]_B12_L-001-0401]]*
 
 
 ## RELATED FILES

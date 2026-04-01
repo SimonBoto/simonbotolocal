@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]]
 status: conscious
 ---
 
-# Omega-6 to Omega-3 Ratio — Fatty Acid Balance for Inflammation Control
+# [[KEYWORD-Omega_6|omega-6]] to Omega-3 Ratio — Fatty Acid Balance for [[KEYWORD-Inflammation|inflammation]] Control
 
 ## Overview
 
@@ -28,7 +28,7 @@ The balance between omega-6 and omega-3 fatty acids is a critical determinant of
 - Nuts and seeds
 - Grain-fed animal products
 
-**Metabolism:**
+**[[KEYWORD-Metabolism|metabolism]]:**
 ```
 Linoleic Acid (LA)
     ↓ Δ6-desaturase

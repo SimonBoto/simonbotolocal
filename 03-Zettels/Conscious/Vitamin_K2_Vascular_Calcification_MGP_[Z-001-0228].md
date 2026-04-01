@@ -107,7 +107,7 @@ extraction-date: 2026-03-01
 
 ### Accelerated Vascular Calcification in MetS
 **Risk Factors:**
-- Insulin resistance promotes calcification
+- [[KEYWORD-Insulin|insulin]] resistance promotes calcification
 - Inflammation drives osteogenic signaling
 - Dyslipidemia contributes
 - Often co-occurs with CKD (further accelerates calcification)
@@ -125,11 +125,11 @@ extraction-date: 2026-03-01
 
 ## Synergy with Other Nutrients
 
-### Vitamin D + K2
+### [[KEYWORD-Vitamin_D|vitamin d]] + K2
 **Calcium Handling:**
 - **D increases calcium absorption:** Potential for soft tissue deposition
 - **K2 directs calcium:** To bone, away from arteries
-- **Combined:** Safe and effective calcium metabolism
+- **Combined:** Safe and effective calcium [[KEYWORD-Metabolism|metabolism]]
 
 ### Magnesium + K2
 **Complementary Anti-Calcification:**

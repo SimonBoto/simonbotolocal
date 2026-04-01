@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Magnesium_Supplementation_L-001-0201d]]
 extraction-date: 2026-03-01
 ---
 
-# Magnesium Monitoring and Safety — Clinical Protocol
+# [[KEYWORD-Magnesium|magnesium]] Monitoring and Safety — Clinical Protocol
 
 > Magnesium supplementation has an excellent safety profile with diarrhea being the primary dose-limiting side effect; monitoring serum levels and adjusting for renal function ensures safe therapeutic use.
 
@@ -59,7 +59,7 @@ extraction-date: 2026-03-01
 **3. 24-Hour Urinary Magnesium**
 - **Use:** Assess renal handling of Mg
 - **Low output:** Suggests deficiency or conservation
-- **High output:** Suggests renal wasting (diuretics, alcohol, diabetes)
+- **High output:** Suggests renal wasting (diuretics, alcohol, [[KEYWORD-Diabetes|diabetes]])
 - **Retention test:** Measure after Mg load (research setting)
 
 ### METHAP Monitoring Schedule
@@ -76,7 +76,7 @@ extraction-date: 2026-03-01
 ### Common Side Effects
 
 **1. Diarrhea (Most Common)**
-- **Mechanism:** Osmotic effect (unabsorbed Mg draws water into intestine)
+- **[[KEYWORD-Mechanism|mechanism]]:** Osmotic effect (unabsorbed Mg draws water into intestine)
 - **Onset:** Dose-dependent; more common at >400-500 mg/day
 - **Management:**
   - Reduce dose by 100-200 mg

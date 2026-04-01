@@ -29,7 +29,7 @@ extraction-date: 2026-03-01
 
 **Alternative Diagnosis:**
 - Not B12 deficiency
-- Concurrent deficiency (iron, folate)
+- Concurrent deficiency (iron, [[KEYWORD-Folate|folate]])
 - Non-compliance
 - Misdiagnosis
 
@@ -38,7 +38,7 @@ extraction-date: 2026-03-01
 - Avoids delay in appropriate therapy
 - Critical for patient outcome
 
-## Clinical Use
+## [[KEYWORD-Clinical|clinical]] Use
 
 **Diagnostic Trial:**
 - Start B12 while awaiting full workup

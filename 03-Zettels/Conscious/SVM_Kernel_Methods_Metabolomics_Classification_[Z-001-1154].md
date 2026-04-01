@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Machine_Learning_Metabolomics_L-001-0618]]"
 status: conscious
 ---
 
-# SVM Kernel Methods — Metabolomics Classification
+# SVM Kernel Methods — [[KEYWORD-Metabolomics|metabolomics]] Classification
 
 ## Overview
 

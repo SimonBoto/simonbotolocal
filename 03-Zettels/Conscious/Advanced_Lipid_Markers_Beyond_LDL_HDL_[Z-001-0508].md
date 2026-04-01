@@ -13,14 +13,14 @@ extraction-date: 2026-03-01
 
 # Advanced Lipid Markers — Beyond LDL and HDL
 
-> ApoB, LDL particle number, and lipoprotein(a) provide better cardiovascular risk prediction than standard lipid panels, especially in insulin resistance and hypertriglyceridemia.
+> ApoB, LDL particle number, and lipoprotein(a) provide better cardiovascular risk prediction than standard lipid panels, especially in [[KEYWORD-Insulin|insulin]] resistance and hypertriglyceridemia.
 
 ## Apolipoprotein B (ApoB)
 
 **Structure:** One molecule per atherogenic particle (VLDL, IDL, LDL)
 **Optimal:** <80-90 mg/dL
 **Advantage:** Reflects particle number, not just cholesterol mass
-**Better predictor:** Than LDL-C in insulin resistance
+**Better predictor:** Than LDL-C in [[KEYWORD-Insulin_Resistance|insulin resistance]]
 
 ## LDL Particle Number (LDL-P)
 
@@ -52,7 +52,7 @@ extraction-date: 2026-03-01
 
 - Discordant risk with standard panel
 - Family history of premature CVD
-- Diabetes, MetS
+- [[KEYWORD-Diabetes|diabetes]], MetS
 - Recurrent events on statins
 
 ---

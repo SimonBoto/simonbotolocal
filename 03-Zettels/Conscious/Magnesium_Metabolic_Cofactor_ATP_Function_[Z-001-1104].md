@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Magnesium Metabolic Cofactor ATP Function
+# [[KEYWORD-Magnesium|magnesium]] Metabolic Cofactor ATP Function
 
 ## Overview
 Magnesium is essential for ATP function and serves as cofactor for over 300 enzymes—particularly those involving phosphate transfer.
@@ -73,7 +73,7 @@ Magnesium is essential for ATP function and serves as cofactor for over 300 enzy
 |--------|----------|
 | **Neuromuscular** | Tremor, tetany, seizures |
 | **Cardiovascular** | Arrhythmias, hypertension |
-| **Metabolic** | Insulin resistance, hypokalemia |
+| **Metabolic** | [[KEYWORD-Insulin|insulin]] resistance, hypokalemia |
 | **Psychiatric** | Anxiety, depression, insomnia |
 
 ### Causes of Deficiency
@@ -90,7 +90,7 @@ Magnesium is essential for ATP function and serves as cofactor for over 300 enzy
 
 ## Related
 - [[Magnesium_Biochemistry_Clinical_Roles_[Z-001-1060].md]]
-| [[MOC-Vitamin-Metabolism]]
+| [[MOC-Vitamin-[[KEYWORD-Metabolism|metabolism]]]]
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

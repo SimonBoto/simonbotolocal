@@ -13,12 +13,12 @@ confidence: high
 created: 2026-02-22
 ---
 
-# Insulin Hormone Structure
+# [[KEYWORD-Insulin|insulin]] Hormone Structure
 
 Insulin is a 51-amino acid peptide hormone secreted by pancreatic β-cells in response to elevated blood glucose.
 
 **Architecture:**
-- A chain: 21 amino acids
+- A chain: 21 [[KEYWORD-Amino_Acids|amino acids]]
 - B chain: 30 amino acids
 - Connected by **two interchain disulfide bonds** (A7-B7, A20-B19)
 - One intrachain disulfide bond in A chain (A6-A11)
@@ -28,7 +28,7 @@ Insulin is a 51-amino acid peptide hormone secreted by pancreatic β-cells in re
 - C-peptide cleavage in secretory granules
 - Secreted as mature insulin + C-peptide (1:1 molar ratio)
 
-**Clinical relevance:** C-peptide levels measure endogenous insulin secretion.
+**[[KEYWORD-Clinical|clinical]] relevance:** C-peptide levels measure endogenous insulin secretion.
 
 ## Links
 

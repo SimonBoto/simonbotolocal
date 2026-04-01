@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # MTHFR Enzyme Function — Rate-Limiting Step
 
-> Methylenetetrahydrofolate reductase (MTHFR) catalyzes the conversion of 5,10-methylenetetrahydrofolate to 5-methyltetrahydrofolate (5-MTHF), the rate-limiting step in folate metabolism that produces the active form of folate used for homocysteine remethylation.
+> Methylenetetrahydro[[KEYWORD-Folate|folate]] reductase (MTHFR) catalyzes the conversion of 5,10-methylenetetrahydrofolate to 5-methyltetrahydrofolate (5-MTHF), the rate-limiting step in folate [[KEYWORD-Metabolism|metabolism]] that produces the active form of folate used for homocysteine re[[KEYWORD-Methylation|methylation]].
 
 ## Reaction
 

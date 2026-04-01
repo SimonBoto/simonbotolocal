@@ -15,12 +15,12 @@ status: conscious
 
 # Net Bone Loss Resorption Exceeds Formation
 
-When osteoclastic resorption outpaces osteoblastic formation (or formation is inadequate), net bone loss occurs. This manifests as osteopenia or osteoporosis. The imbalance is driven by hormonal changes, inflammation, or disuse.
+When osteoclastic resorption outpaces osteoblastic formation (or formation is inadequate), net bone loss occurs. This manifests as osteopenia or osteoporosis. The imbalance is driven by hormonal changes, [[KEYWORD-Inflammation|inflammation]], or disuse.
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
-**Source:** [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
+**Source:** [[LitNote_Bone_Remodeling_Cellular_[[KEYWORD-Mechanism|mechanism]]s_L-001-0011]]
 **Related:** [[Osteopenia_T_score_Definition_Minus_1_to_2.5_[Z-001-0076].md]], [[Osteoporosis_T_score_Definition_Minus_2.5_[Z-001-0077].md]]
 
 ---

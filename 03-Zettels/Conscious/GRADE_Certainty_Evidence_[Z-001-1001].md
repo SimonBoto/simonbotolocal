@@ -61,7 +61,7 @@ GRADE (Grading of Recommendations Assessment, Development and Evaluation) provid
 
 **Assessment:**
 - Statistical heterogeneity (I², τ²)
-- Clinical heterogeneity
+- [[KEYWORD-Clinical|clinical]] heterogeneity
 - Subgroup analyses
 
 **3. Indirectness (-1 or -2 levels):**
@@ -116,14 +116,14 @@ GRADE (Grading of Recommendations Assessment, Development and Evaluation) provid
 - Observed effect likely underestimates true effect
 
 **Example:**
-- Smoking and lung cancer
+- Smoking and lung [[KEYWORD-Cancer|cancer]]
 - Socioeconomic confounders would reduce observed effect
 
 ## Certainty Ratings
 
 | Level | Interpretation | Implication |
 |-------|----------------|-------------|
-| **High** | Very confident effect estimate is close to true effect | Further research unlikely to change confidence |
+| **High** | Very confident effect estimate is close to true effect | Further [[KEYWORD-Research|research]] unlikely to change confidence |
 | **Moderate** | Moderately confident; true effect likely close to estimate | Further research may have important impact |
 | **Low** | Limited confidence; true effect may be substantially different | Further research likely to have important impact |
 | **Very Low** | Very little confidence; true effect likely substantially different | Any estimate of effect is uncertain |

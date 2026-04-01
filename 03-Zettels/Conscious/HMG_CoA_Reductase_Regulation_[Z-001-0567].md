@@ -133,9 +133,9 @@ Blocking HMG-CoA reductase doesn't just block cholesterol — it blocks **all me
 
 | Product | Function | Deficiency Symptoms |
 |---------|----------|---------------------|
-| **CoQ10** | Mitochondrial ETC | Myopathy, fatigue, exercise intolerance |
+| **CoQ10** | [[KEYWORD-Mitochondria|mitochondria]]l ETC | Myopathy, fatigue, exercise intolerance |
 | **Dolichol** | Protein glycosylation | Rare, neurologic symptoms |
-| **Isoprenoids** | Cell signaling | Altered inflammation, immunity |
+| **Isoprenoids** | Cell signaling | Altered [[KEYWORD-Inflammation|inflammation]], immunity |
 | **Prenylated proteins** | Signal transduction | Multiple cellular effects |
 
 ### Myopathy Mechanism
@@ -151,7 +151,7 @@ Blocking HMG-CoA reductase doesn't just block cholesterol — it blocks **all me
 - **Genetic variants** (SLCO1B1 transporter)
 - **Low baseline CoQ10**
 - **Mitochondrial dysfunction**
-- **Vitamin D deficiency**
+- **[[KEYWORD-Vitamin_D|vitamin d]] deficiency**
 - **Hypothyroidism**
 
 ---

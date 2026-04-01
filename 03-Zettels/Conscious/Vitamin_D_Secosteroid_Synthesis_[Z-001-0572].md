@@ -12,7 +12,7 @@ confidence: high
 created: 2026-03-03
 ---
 
-# Vitamin D as Secosteroid — Synthesis and Activation
+# [[KEYWORD-Vitamin_D|vitamin d]] as Secosteroid — Synthesis and Activation
 
 ## Core Concept
 
@@ -115,7 +115,7 @@ Gene transcription modulation
 
 **Target Genes:**
 - **Calcium absorption:** Calbindin, TRPV6 (intestine)
-- **Bone metabolism:** Osteocalcin, RANKL
+- **Bone [[KEYWORD-Metabolism|metabolism]]:** Osteocalcin, RANKL
 - **Immune function:** Cathelicidin, defensins
 - **Cell cycle:** P21, c-myc
 
@@ -174,7 +174,7 @@ Gene transcription modulation
 
 - [[Isoprenoids_Terpenes_Overview_[Z-001-0569]]] — Secosteroid classification
 - [[Cholesterol_Steroid_Hormone_Synthesis_[Z-001-0570]]] — Steroid context
-- [[MOC-Vitamin-D-Metabolism]] — Detailed vitamin D MOC
+- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Metabolism]] — Detailed vitamin D MOC
 - [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]] — High-dose safety
 
 ---

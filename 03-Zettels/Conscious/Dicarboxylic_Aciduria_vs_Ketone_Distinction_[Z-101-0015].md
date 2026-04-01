@@ -13,7 +13,7 @@ extraction-date: 2026-03-02
 
 # Dicarboxylic Aciduria vs Ketone Distinction
 
-**Critical Diagnostic Distinction:** Dicarboxylic aciduria and ketonuria represent opposite metabolic states despite both involving alternative fatty acid metabolism.
+**Critical Diagnostic Distinction:** Dicarboxylic aciduria and ketonuria represent opposite metabolic states despite both involving alternative fatty acid [[KEYWORD-Metabolism|metabolism]].
 
 ## Fundamental Difference
 
@@ -21,7 +21,7 @@ extraction-date: 2026-03-02
 |--------|----------------------|-----------|
 | **Primary problem** | β-oxidation **impaired** | β-oxidation **accelerated** |
 | **Metabolic state** | Cannot oxidize FAs completely | Oxidizing FAs excessively |
-| **Location** | Peripheral tissues + ER | Liver mitochondria |
+| **Location** | Peripheral tissues + ER | Liver [[KEYWORD-Mitochondria|mitochondria]] |
 | **Purpose** | Elimination/limited recovery | Fuel export to other tissues |
 
 ## Laboratory Differentiation
@@ -80,7 +80,7 @@ extraction-date: 2026-03-02
 - MCADD: "hypoketotic" hypoglycemia
 
 **ω-oxidation compensates when β-oxidation blocked:**
-- ER pathway doesn't require mitochondrial entry
+- ER pathway doesn't require [[KEYWORD-Mitochondria|mitochondrial]] entry
 - Produces dicarboxylic acids for excretion
 - Limited energy recovery
 

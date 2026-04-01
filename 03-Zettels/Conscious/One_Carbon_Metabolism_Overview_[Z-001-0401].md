@@ -11,7 +11,7 @@ source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]
 extraction-date: 2026-03-01
 ---
 
-# One-Carbon Metabolism Overview
+# One-Carbon [[KEYWORD-Metabolism|metabolism]] Overview
 
 > One-carbon metabolism is a network of biochemical reactions involving the transfer of single carbon units essential for DNA synthesis, cell division, and epigenetic regulation, with folate and vitamin B12 serving as critical cofactors.
 
@@ -60,13 +60,13 @@ THF ↔ 5,10-Methylene-THF ↔ 5-Methyl-THF
 - Explains B12-folate interdependence
 - Critical for DNA methylation maintenance
 
-## Clinical Relevance
+## [[KEYWORD-Clinical|clinical]] Relevance
 
 **Rapidly Dividing Cells:**
 - Bone marrow
 - Intestinal epithelium
 - Fetal tissue
-- Cancer cells
+- [[KEYWORD-Cancer|cancer]] cells
 
 **Consequences of Impairment:**
 - Megaloblastic anemia

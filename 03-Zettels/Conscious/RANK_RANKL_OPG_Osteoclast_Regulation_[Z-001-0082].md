@@ -19,8 +19,8 @@ The RANK/RANKL/OPG system is the master regulator of osteoclast differentiation.
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
-**Source:** [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
+**Source:** [[LitNote_Bone_Remodeling_Cellular_[[KEYWORD-Mechanism|mechanism]]s_L-001-0011]]
 **Related:** [[Osteoclasts_Bone_Resorbing_Cells_[Z-001-0080].md]], [[Denosumab_RANKL_Antibody_Mechanism_[Z-001-0085].md]]
 
 ---

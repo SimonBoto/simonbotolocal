@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Urine Organic Acids OAT Metabolic Biomarker
+# Urine Organic Acids OAT Metabolic [[KEYWORD-Biomarker|biomarker]]
 
 ## Overview
 Urine organic acids testing (OAT) provides a comprehensive metabolic snapshot by measuring 70+ organic acid metabolites—reflecting mitochondrial function, nutrient status, gut microbiome activity, and metabolic pathway function.
@@ -23,7 +23,7 @@ Urine organic acids testing (OAT) provides a comprehensive metabolic snapshot by
 ### Relevant Markers
 | Category | Markers | IR Association |
 |----------|---------|----------------|
-| **Energy metabolism** | Lactate, pyruvate, citrate, succinate | Mitochondrial dysfunction in IR |
+| **Energy [[KEYWORD-Metabolism|metabolism]]** | Lactate, pyruvate, citrate, succinate | Mitochondrial dysfunction in IR |
 | **Fatty acid oxidation** | Suberate, adipate, ethylmalonate | Impaired β-oxidation in IR |
 | **B-vitamin status** | Methylmalonate, FIGLU, kynurenate | B-vitamin needs in metabolism |
 | **Oxidative stress** | 8-OHdG, lipid peroxides | Increased ROS in IR |
@@ -108,7 +108,7 @@ Urine organic acids testing (OAT) provides a comprehensive metabolic snapshot by
 - [[Plasma_Total_Fatty_Acids_TFA_Profile_[Z-001-1146].md]]
 - [[Clinical_Metabolic_Markers_HOMA_IR_HbA1c_[Z-001-1147].md]]
 - [[OAT_Category_Interpretation_Framework_[Z-001-1065].md]]
-- [[MOC-Metabolomics-Analysis]]
+- [[MOC-[[KEYWORD-Metabolomics|metabolomics]]-Analysis]]
 
 ---
 *Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*

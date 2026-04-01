@@ -32,7 +32,7 @@ extraction-date: 2026-03-01
 **Moderate:** 15-30
 **Severe:** >30
 
-## Clinical Significance
+## [[KEYWORD-Clinical|clinical]] Significance
 
 - Cardiovascular disease
 - Stroke
@@ -42,7 +42,7 @@ extraction-date: 2026-03-01
 ## Causes of Elevation
 
 - B12 deficiency
-- Folate deficiency
+- [[KEYWORD-Folate|folate]] deficiency
 - B6 deficiency
 - MTHFR variants
 - Renal failure

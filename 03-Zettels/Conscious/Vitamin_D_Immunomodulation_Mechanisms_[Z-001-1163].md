@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_VDR_Knockout_Immune_Function_L-001-0621]]"
 status: conscious
 ---
 
-# Vitamin D Immunomodulation Mechanisms
+# [[KEYWORD-Vitamin_D|vitamin d]] Immunomodulation Mechanisms
 
 ## Core Principle
 
@@ -55,7 +55,7 @@ Vitamin D is not merely a calcium regulator — it's a **steroid hormone with di
 |-------------|-----------|---------|
 | **Naive T cells** | Promotes differentiation toward Treg | Enhanced tolerance |
 | **Th1 cells** | Suppresses IFN-γ production | Reduced autoimmunity |
-| **Th17 cells** | Inhibits IL-17 expression | Reduced inflammation |
+| **Th17 cells** | Inhibits IL-17 expression | Reduced [[KEYWORD-Inflammation|inflammation]] |
 | **Treg cells** | Stabilizes FoxP3 expression | Enhanced suppression |
 | **Cytotoxic T cells** | Modulates activation threshold | Balanced response |
 
@@ -102,7 +102,7 @@ Vitamin D is not merely a calcium regulator — it's a **steroid hormone with di
 - Improved pathogen clearance
 - Balanced inflammatory response
 
-**Cancer Immunity:**
+**[[KEYWORD-Cancer|cancer]] Immunity:**
 - Enhanced immune surveillance
 - Reduced inflammation-driven tumorigenesis
 

@@ -11,7 +11,7 @@ created: 2026-03-04
 source: [[L-001-0045F]]
 ---
 
-# Vitamin Dependence in Organic Acid Metabolism
+# [[KEYWORD-Vitamin_D|vitamin d]]ependence in Organic Acid [[KEYWORD-Metabolism|metabolism]]
 
 ## Critical Cofactors
 
@@ -59,7 +59,7 @@ source: [[L-001-0045F]]
 | B7 | Carboxylases | Gluconeogenesis | Propionic acidemia-like |
 | B12 | Methylmalonyl-CoA mutase | Propionate metabolism | MMA, pernicious anemia |
 
-## Clinical Testing
+## [[KEYWORD-Clinical|clinical]] Testing
 **Organic acidemia workup:**
 - Methylmalonic acid (B12 deficiency marker)
 - Propionic acid (biotin-related)

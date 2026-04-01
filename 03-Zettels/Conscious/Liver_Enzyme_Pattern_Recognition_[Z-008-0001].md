@@ -73,10 +73,10 @@ Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellula
 
 **Insulin Resistance:**
 - [[MAPK_Mitogenic_Pathway_[Z-001-0016]]] — Mitochondrial dysfunction (NAFLD mechanism)
-- [[Phenotype_Mapping_Metabolomics_Z-001-0018.md]] — Lipotoxicity (hepatic steatosis)
+- [[Phenotype_Mapping_[[KEYWORD-Metabolomics|metabolomics]]_Z-001-0018.md]] — Lipotoxicity (hepatic steatosis)
 - NAFLD is the hepatic manifestation of metabolic syndrome
 
-**Lipid Metabolism:**
+**Lipid [[KEYWORD-Metabolism|metabolism]]:**
 - [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md]] — Lipid Pattern A/B (NAFLD drives Pattern B)
 - Elevated liver enzymes correlate with small dense LDL
 
@@ -128,6 +128,6 @@ patient_id,visit,ast_u_l,alt_u_l,ggt_u_l,alp_u_l,ast_alt_ratio,liver_pattern
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

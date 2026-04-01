@@ -16,7 +16,7 @@ created: 2026-03-08
 # Ketogenic Diet Cancer Therapy Metabolic Inflexibility
 
 ## Overview
-Ketogenic diets exploit the metabolic inflexibility of cancer cells—normal cells adapt to ketones for energy, but many cancer cells cannot due to mitochondrial dysfunction.
+Ketogenic diets exploit the metabolic inflexibility of cancer cells—normal cells adapt to ketones for energy, but many cancer cells cannot due to [[KEYWORD-Mitochondria|mitochondria]]l dysfunction.
 
 ## The Metabolic Inflexibility Concept
 
@@ -42,7 +42,7 @@ Ketogenic diets exploit the metabolic inflexibility of cancer cells—normal cel
 | Effect | Consequence for Cancer |
 |--------|------------------------|
 | **Blood glucose ↓** | Less fuel for cancer |
-| **Insulin ↓** | Reduced growth signaling |
+| **[[KEYWORD-Insulin|insulin]] ↓** | Reduced growth signaling |
 | **IGF-1 ↓** | Reduced proliferation |
 
 ### Ketone Elevation
@@ -139,7 +139,7 @@ GKI = 70 ÷ 2.0 = 35 → 3.5 (therapeutic range)
 - [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_[Z-001-1123].md]]
 - [[Caloric_Restriction_Fasting_Cancer_Metabolic_Therapy_[Z-001-1124].md]]
 - [[Therapeutic_Ketosis_Clinical_Applications_[Z-001-1096].md]]
-- [[MOC-Cancer-Metabolism]]
+- [[MOC-Cancer-[[KEYWORD-Metabolism|metabolism]]]]
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*

@@ -19,7 +19,7 @@ By the 1970s, concern about heart disease reached political levels. Senator Geor
 
 ## The McGovern Committee (1977)
 
-### Senate Select Committee on Nutrition and Human Needs
+### Senate Select Committee on [[KEYWORD-Nutrition|nutrition]] and Human Needs
 
 **Chair:** Senator George McGovern (D-South Dakota)
 **Timeline:** 1968-1977
@@ -76,7 +76,7 @@ By the 1970s, concern about heart disease reached political levels. Senator Geor
 
 ### Keys-McGovern Connection
 
-**Mechanism of Influence:**
+**[[KEYWORD-Mechanism|mechanism]] of Influence:**
 1. Keys testified before McGovern committee
 2. Provided simplified narrative
 3. Offered actionable policy
@@ -155,7 +155,7 @@ By the 1970s, concern about heart disease reached political levels. Senator Geor
 | Original | Replacement | Outcome |
 |----------|-------------|---------|
 | Butter | Margarine (trans fats) | Worse for heart |
-| Lard | Vegetable shortening | More omega-6, trans fats |
+| Lard | Vegetable shortening | More [[KEYWORD-Omega_6|omega-6]], trans fats |
 | Whole foods | Processed low-fat | More sugar, refined carbs |
 | Traditional fats | Seed oils | Omega-6 excess |
 

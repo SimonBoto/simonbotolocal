@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Two major enzyme classes handle oxidative reactions in metabolism, but with fundamentally different strategies. Understanding their distinctions clarifies cofactor requirements and metabolic control points.
+Two major enzyme classes handle oxidative reactions in [[KEYWORD-Metabolism|metabolism]], but with fundamentally different strategies. Understanding their distinctions clarifies cofactor requirements and metabolic control points.
 
 ---
 
@@ -114,7 +114,7 @@ Pyruvate + NAD⁺ + CoA-SH → Acetyl-CoA + NADH + CO₂
 ### Dehydrogenases Need:
 - NAD⁺ or FAD (electron acceptors)
 - Often metal ions for catalysis
-- Simple mechanism: hydride transfer
+- Simple [[KEYWORD-Mechanism|mechanism]]: hydride transfer
 
 ### Decarboxylases Need:
 - TPP (thiamine pyrophosphate) — for α-keto acids
@@ -144,7 +144,7 @@ Pyruvate + NAD⁺ + CoA-SH → Acetyl-CoA + NADH + CO₂
 **High lactate + normal pyruvate:** Dehydrogenase issue
 **High lactate + high pyruvate:** Decarboxylation issue (thiamine)
 
-### B-Vitamin Dependencies
+### B-[[KEYWORD-Vitamin_D|vitamin d]]ependencies
 | Vitamin | Cofactor | Enzyme Type | Deficiency Effect |
 |---------|----------|-------------|-------------------|
 | B1 (Thiamine) | TPP | Decarboxylase | Beriberi, Wernicke |

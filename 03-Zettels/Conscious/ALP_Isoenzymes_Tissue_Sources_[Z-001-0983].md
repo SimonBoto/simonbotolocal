@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]]
 status: conscious
 ---
 
-# ALP Isoenzymes — Tissue Sources and Clinical Differentiation
+# ALP Isoenzymes — Tissue Sources and [[KEYWORD-Clinical|clinical]] Differentiation
 
 ## Overview
 
@@ -108,7 +108,7 @@ Alkaline phosphatase (ALP) exists as multiple isoenzymes encoded by different ge
 - Produced by some tumors
 
 **Clinical Relevance:**
-- Marker for certain cancers
+- Marker for certain [[KEYWORD-Cancer|cancer]]s
 - Particularly lung, ovarian, testicular
 - Rare but important when identified
 
@@ -236,7 +236,7 @@ Consider bone-specific ALP or isoenzyme electrophoresis
 **Indications:**
 - Unclear source despite workup
 - Suspected unusual isoenzyme (Regan)
-- Research purposes
+- [[KEYWORD-Research|research]] purposes
 
 ## Summary
 

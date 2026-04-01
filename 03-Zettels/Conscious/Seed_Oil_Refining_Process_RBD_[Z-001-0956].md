@@ -52,7 +52,7 @@ RBD Oil — neutral, stable, depleted
 
 ## Step 2: Neutralization (Alkali Refining)
 
-**Purpose:** Remove free fatty acids (FFAs) that cause rancidity
+**Purpose:** Remove free [[KEYWORD-Fatty_Acids|fatty acids]] (FFAs) that cause rancidity
 
 **Process:**
 - **Sodium hydroxide (lye)** solution mixed with oil
@@ -125,9 +125,9 @@ RBD Oil — neutral, stable, depleted
 
 **Toxin Formation:**
 
-| Compound | Formation Mechanism | Health Concern |
+| Compound | Formation [[KEYWORD-Mechanism|mechanism]] | Health Concern |
 |----------|---------------------|----------------|
-| **Trans fats** | Partial isomerization of cis bonds | CVD risk, inflammation |
+| **Trans fats** | Partial isomerization of cis bonds | CVD risk, [[KEYWORD-Inflammation|inflammation]] |
 | **GE (Glycidyl Esters)** | From diacylglycerols at high heat | Potential carcinogen |
 | **3-MCPD esters** | From chlorides + heat | Kidney toxicity, carcinogen? |
 | **Oxidized monomers** | Thermal oxidation | Unknown long-term effects |

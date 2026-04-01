@@ -32,7 +32,7 @@ Aspartate ⇄ Oxaloacetate ⇄ Malate
 Aspartate + α-Ketoglutarate ⇄ Oxaloacetate + Glutamate
 ```
 - **Enzyme:** Aspartate aminotransferase (AST/ASAT)
-- **Location:** Mitochondria and cytosol
+- **Location:** [[KEYWORD-Mitochondria|mitochondria]] and cytosol
 - **Clinical marker:** Elevated serum AST indicates tissue damage
 
 **Step 2: Reduction**
@@ -65,7 +65,7 @@ This connection enables the **malate-aspartate shuttle** — the primary system 
 5. Aspartate exported to cytosol
 6. Aspartate converted back to oxaloacetate
 
-**Net result:** NADH in cytosol effectively delivers electrons to mitochondrial NAD⁺
+**Net result:** NADH in cytosol effectively delivers electrons to [[KEYWORD-Mitochondria|mitochondrial]] NAD⁺
 
 ### Energy Yield Impact
 
@@ -84,7 +84,7 @@ This connection enables the **malate-aspartate shuttle** — the primary system 
 - **Mitochondrial isoform:** Released when cells are damaged
 
 ### Metabolic Diseases
-- **Malate dehydrogenase deficiency:** Rare, affects energy metabolism
+- **Malate dehydrogenase deficiency:** Rare, affects energy [[KEYWORD-Metabolism|metabolism]]
 - **Aspartate deficiency:** Impaired urea cycle, neurotransmission
 
 ### Exercise Physiology

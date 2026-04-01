@@ -33,7 +33,7 @@ status: conscious
 - Massive hyperproliferation
 - Rapid telomere attrition
 
-### Mechanism
+### [[KEYWORD-Mechanism|mechanism]]
 ```
 Immune Activation (T cells, IL-17, IL-23)
            ↓
@@ -71,14 +71,14 @@ Potential Genomic Instability
 - Barrier function impairment
 
 **Vicious Cycle:**
-- Barrier dysfunction → antigen entry → inflammation
+- Barrier dysfunction → antigen entry → [[KEYWORD-Inflammation|inflammation]]
 - Inflammation drives proliferation
 - Proliferation accelerates telomere loss
 - Telomere dysfunction worsens barrier
 
 ---
 
-## Cancer Risk Considerations
+## [[KEYWORD-Cancer|cancer]] Risk Considerations
 
 ### Skin Cancer in Psoriasis
 **Risk Factors:**

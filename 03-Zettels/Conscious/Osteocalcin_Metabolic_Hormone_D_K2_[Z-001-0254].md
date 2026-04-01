@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Osteocalcin as Metabolic Hormone — D-K2 Regulation
 
-> Osteocalcin exists in two forms: carboxylated (bone-structural) and undercarboxylated (metabolic-hormonal). The D-K2 synergy determines the balance between these forms, directly influencing insulin sensitivity and metabolic health.
+> Osteocalcin exists in two forms: carboxylated (bone-structural) and undercarboxylated (metabolic-hormonal). The D-K2 synergy determines the balance between these forms, directly influencing [[KEYWORD-Insulin|insulin]] sensitivity and metabolic health.
 
 ## Osteocalcin Forms
 
@@ -47,7 +47,7 @@ extraction-date: 2026-03-01
 
 ## D-K2 Synergy Determines Balance
 
-**Vitamin D Effect:**
+**[[KEYWORD-Vitamin_D|vitamin d]] Effect:**
 - Stimulates total osteocalcin production
 - Increases both cOC and ucOC substrate
 - Without D: Lower osteocalcin overall
@@ -76,7 +76,7 @@ extraction-date: 2026-03-01
 - Reduces hepatic glucose output
 - Systemic insulin-sensitizing effect
 
-### Energy Metabolism
+### Energy [[KEYWORD-Metabolism|metabolism]]
 - Increases energy expenditure
 - Stimulates testosterone synthesis
 - Enhances exercise capacity

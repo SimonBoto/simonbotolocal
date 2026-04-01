@@ -12,7 +12,7 @@ extraction-date: 2026-03-02
 updated: 2026-03-05
 ---
 
-# Sirolimus Impairs GLUT4 Translocation Causing Peripheral Insulin Resistance
+# Sirolimus Impairs GLUT4 Translocation Causing Peripheral [[KEYWORD-Insulin|insulin]] Resistance
 
 **Core Mechanism:** mTORC1 is downstream of Akt in insulin signaling and facilitates GLUT4 vesicle translocation. Sirolimus disrupts this pathway, reducing glucose uptake.
 
@@ -35,7 +35,7 @@ Insulin → Insulin Receptor (autophosphorylation)
     AS160 phosphorylation      mTORC1 activation
     (Rab-GAP inhibition)            ↓
         ↓                    Protein synthesis,
-    GLUT4 vesicle          metabolism regulation
+    GLUT4 vesicle          [[KEYWORD-Metabolism|metabolism]] regulation
     translocation
         ↓
     GLUT4 on membrane
@@ -114,7 +114,7 @@ Insulin → Insulin Receptor (autophosphorylation)
 ## Distinction from Type 2 Diabetes
 
 **Typical T2DM:**
-- Multiple mechanisms (IR, β-cell failure, inflammation)
+- Multiple mechanisms (IR, β-cell failure, [[KEYWORD-Inflammation|inflammation]])
 - Gradual onset
 - Often associated with obesity
 

@@ -30,7 +30,7 @@ Ketone bodies synthesized in the liver must be converted back to acetyl-CoA in e
 | Tissue | Reason |
 |--------|--------|
 | **Liver** | **Lacks SCOT enzyme** — prevents futile cycle (cannot use ketones it produces) |
-| **Erythrocytes** | No mitochondria; cannot oxidize ketones |
+| **Erythrocytes** | No [[KEYWORD-Mitochondria|mitochondria]]; cannot oxidize ketones |
 | **Adipose** | Minimal SCOT expression; not a major ketone consumer |
 
 ---
@@ -39,7 +39,7 @@ Ketone bodies synthesized in the liver must be converted back to acetyl-CoA in e
 
 ### Step 1: Transport into Mitochondria
 **Monocarboxylate Transporters (MCTs)**
-- MCT1 and MCT2 transport ketone bodies across plasma and mitochondrial membranes
+- MCT1 and MCT2 transport ketone bodies across plasma and [[KEYWORD-Mitochondria|mitochondrial]] membranes
 - Symport with H⁺ (follows concentration gradient)
 
 ### Step 2: BDH1 Reoxidation (if BHB)
@@ -130,7 +130,7 @@ By excluding SCOT, liver exports ketones to peripheral tissues while maintaining
 - Ketone contribution: 0% → 60-70%
 - **Survival advantage:** Sparing glucose for obligate glucose users (erythrocytes)
 
-### Cardiac Metabolism
+### Cardiac [[KEYWORD-Metabolism|metabolism]]
 - Normal heart: 50-70% fatty acids, 30% glucose
 - Ketotic heart: 50-70% ketones, remainder fatty acids
 - Ketones may improve cardiac efficiency (less oxygen consumption per ATP)

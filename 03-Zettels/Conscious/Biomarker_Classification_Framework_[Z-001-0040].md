@@ -12,9 +12,9 @@ confidence: high
 created: 2026-02-24
 ---
 
-# Biomarker Classification Framework
+# [[KEYWORD-Biomarker|biomarker]] Classification Framework
 
-Biomarkers can be classified across five dimensions to evaluate clinical utility and appropriate application. Not all biomarkers are equal — early vs late, specific vs general, and actionable vs observational distinctions matter for clinical decision-making.
+[[KEYWORD-Biomarker|biomarkers]] can be classified across five dimensions to evaluate [[KEYWORD-Clinical|clinical]] utility and appropriate application. Not all biomarkers are equal — early vs late, specific vs general, and actionable vs observational distinctions matter for clinical decision-making.
 
 **Five Classification Dimensions:**
 

@@ -14,7 +14,7 @@ source: [[L-001-0045D]]
 # Triose Structure: Glyceraldehyde and DHAP
 
 ## The Simplest Sugars
-**Trioses:** 3-carbon monosaccharides — foundational to metabolism.
+**Trioses:** 3-carbon monosaccharides — foundational to [[KEYWORD-Metabolism|metabolism]].
 
 ## Glyceraldehyde
 - **Type:** Aldotriose (aldehyde group)
@@ -34,7 +34,7 @@ source: [[L-001-0045D]]
 
 ## Metabolic Significance
 **G3P and DHAP:**
-- Central to glycolysis
+- Central to [[KEYWORD-Glycolysis|glycolysis]]
 - PPP intermediates
 - Lipid biosynthesis precursors
 - Calvin cycle intermediates (photosynthesis)

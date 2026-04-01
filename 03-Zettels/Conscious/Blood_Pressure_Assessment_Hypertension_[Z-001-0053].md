@@ -21,7 +21,7 @@ source-litnote: Synthesized from clinical practice
 
 # Blood Pressure Assessment — Hypertension and Metabolic Connection
 
-**Blood pressure** is a vital sign with profound metabolic implications. Hypertension is both a criterion for metabolic syndrome and a consequence of insulin resistance. The **optimal target is <120/80 mmHg**, not just the standard <140/90.
+**Blood pressure** is a vital sign with profound metabolic implications. Hypertension is both a criterion for metabolic syndrome and a consequence of [[KEYWORD-Insulin|insulin]] resistance. The **optimal target is <120/80 mmHg**, not just the standard <140/90.
 
 ---
 
@@ -140,6 +140,6 @@ patient_id,visit,sbp_mmhg,dbp_mmhg,bp_status,htn_grade
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
 

@@ -33,9 +33,9 @@ status: conscious
 
 ## ROS Sources in Autoimmunity
 
-### Mitochondrial Dysfunction
+### [[KEYWORD-Mitochondria|mitochondria]]l Dysfunction
 - Impaired ETC → electron leak → superoxide
-- Chronic inflammation damages mitochondria
+- Chronic [[KEYWORD-Inflammation|inflammation]] damages mitochondria
 - Vicious cycle: Damage → more ROS → more damage
 
 ### NADPH Oxidase
@@ -46,7 +46,7 @@ status: conscious
 ### Inflammatory Cytokines
 - TNF-α, IL-1β, IFN-γ increase ROS production
 - Activate NADPH oxidase
-- Induce mitochondrial dysfunction
+- Induce [[KEYWORD-Mitochondria|mitochondrial]] dysfunction
 
 ---
 

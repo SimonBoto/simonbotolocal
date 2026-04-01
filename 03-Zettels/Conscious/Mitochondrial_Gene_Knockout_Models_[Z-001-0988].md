@@ -11,11 +11,11 @@ source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]]
 status: conscious
 ---
 
-# Mitochondrial Gene Knockout Models — POLG, TFAM, and Dynamics Proteins
+# [[KEYWORD-Mitochondria|mitochondria]]l Gene Knockout Models — POLG, TFAM, and Dynamics Proteins
 
 ## Overview
 
-Mitochondrial gene knockout studies have revealed the essential roles of mitochondrial DNA maintenance, transcription, dynamics, and antioxidant defenses in cellular and organismal health.
+[[KEYWORD-Mitochondria|mitochondrial]] gene knockout studies have revealed the essential roles of mitochondrial DNA maintenance, transcription, dynamics, and antioxidant defenses in cellular and organismal health.
 
 ## DNA Maintenance and Replication
 
@@ -104,7 +104,7 @@ Mitochondrial gene knockout studies have revealed the essential roles of mitocho
 **Mfn1-/-:**
 - Viable but abnormal
 - Fragmented mitochondria
-- Impaired oxidative metabolism
+- Impaired oxidative [[KEYWORD-Metabolism|metabolism]]
 
 **Mfn2-/-:**
 - Severe phenotype

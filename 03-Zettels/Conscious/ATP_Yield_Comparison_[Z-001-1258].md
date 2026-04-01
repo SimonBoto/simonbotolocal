@@ -41,7 +41,7 @@ Complete oxidation of different fuel molecules yields dramatically different ATP
 | **Pyruvate → Acetyl-CoA** | 2 NADH | +5 ATP |
 | **Krebs cycle** | 6 NADH, 2 FADH₂, 2 GTP | +15 + 3 + 2 = +20 ATP |
 | **Glycolysis cost** | 2 ATP invested | -2 ATP |
-| **Shuttle cost** | Cytosolic NADH → mitochondria | ~0-2 ATP (varies by shuttle) |
+| **Shuttle cost** | Cytosolic NADH → [[KEYWORD-Mitochondria|mitochondria]] | ~0-2 ATP (varies by shuttle) |
 
 **Net: 30-32 ATP**
 
@@ -115,7 +115,7 @@ Palmitic:    ████████████████ (~6.6)
 Oleic:       ████████████████ (~6.4 corrected)
 ```
 
-**Why fatty acids yield more ATP per carbon:**
+**Why [[KEYWORD-Fatty_Acids|fatty acids]] yield more ATP per carbon:**
 1. **Higher reduction state:** More C-H bonds, fewer C-O bonds
 2. **No oxygen investment:** Glucose already partially oxidized
 3. **Beta-oxidation efficiency:** Direct production of acetyl-CoA
@@ -133,7 +133,7 @@ Oleic:       ████████████████ (~6.4 corrected)
 
 ## Practical Implications
 
-### Fasting Metabolism
+### Fasting [[KEYWORD-Metabolism|metabolism]]
 **1800 kcal/day requirement:**
 - From glucose: 450g glucose needed
 - From fatty acids: 200g fatty acids needed

@@ -13,7 +13,7 @@ created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 ---
 
-# Fasting Insulin Superior for Early IR Detection
+# Fasting [[KEYWORD-Insulin|insulin]] Superior for Early IR Detection
 
 Fasting insulin alone is superior to HOMA-IR for detecting early insulin resistance because it becomes elevated during the compensatory stage — when beta-cells are still maintaining normal glucose through hyperinsulinemia.
 
@@ -41,14 +41,14 @@ Fasting insulin alone is superior to HOMA-IR for detecting early insulin resista
 ## Links
 
 - **Upstream:** [[Compensatory_IR_Stage_Z-001-0034.md]] — Detects this compensatory stage
-- **Parallel:** [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041.md]] — Adipic acid detects even earlier
+- **Parallel:** [[Adipic_Acid_Early_IR_[[KEYWORD-Biomarker|biomarker]]_Z-001-0041.md]] — Adipic acid detects even earlier
 - **Downstream:** [[MOC-Early-Detection]] — Implementation
 
 ## Context
 
 **Also relevant to:** [[MOC-Clinical-Assessment]], [[MOC-Prevention]]
 
-**Emerges from:** Biomarkers Taxonomy synthesis document
+**Emerges from:** [[KEYWORD-Biomarker|biomarkers]] Taxonomy synthesis document
 
 ---
 

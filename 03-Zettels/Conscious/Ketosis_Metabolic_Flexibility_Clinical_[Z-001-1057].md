@@ -27,7 +27,7 @@ Ketosis is a physiological state of elevated ketone body production during low c
 | **Acetone** | Spontaneous decarboxylation | Exhaled (breath ketone) |
 
 ## Ketogenesis Triggers
-1. **Low insulin** (fasting, carbohydrate restriction)
+1. **Low [[KEYWORD-Insulin|insulin]]** (fasting, carbohydrate restriction)
 2. **High glucagon** (counter-regulatory hormone)
 3. **High fatty acid availability** (lipolysis)
 4. **Mitochondrial capacity** (functional liver mitochondria)
@@ -53,7 +53,7 @@ The ability to switch between carbohydrate and fat oxidation based on availabili
 | **Post-meal RER** | Shifts toward carb oxidation | Stays high (always burning carbs) |
 | **Morning glucose** | Stable with ketones | High despite ketones |
 
-## Insulin Resistance Connection
+## [[KEYWORD-Insulin_Resistance|insulin resistance]] Connection
 - **Insulin resistance** impairs metabolic flexibility
 - **Cannot enter ketosis easily** — insulin blocks lipolysis
 - **Treatment:** Low-carb diet → restore insulin sensitivity → regain flexibility
@@ -77,7 +77,7 @@ The ability to switch between carbohydrate and fat oxidation based on availabili
 - [[MOC-Insulin-Resistance]]
 
 ---
-*Source: CGPT-0022 — Fatty acid metabolism*
+*Source: CGPT-0022 — Fatty acid [[KEYWORD-Metabolism|metabolism]]*
 
 
 ## Related

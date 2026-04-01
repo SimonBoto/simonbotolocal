@@ -63,7 +63,7 @@ Glyceraldehyde-3-P + Fructose-6-P (rejoin glycolysis)
 ### 3. Metabolic Flexibility
 - Interconverts sugar phosphates
 - Balances glycolytic vs. biosynthetic needs
-- Links carbohydrate to nucleotide metabolism
+- Links carbohydrate to nucleotide [[KEYWORD-Metabolism|metabolism]]
 
 ## Clinical Relevance
 
@@ -74,7 +74,7 @@ Glyceraldehyde-3-P + Fructose-6-P (rejoin glycolysis)
 | **Inheritance** | X-linked |
 | **Trigger** | Oxidative stress (fava beans, sulfa drugs, infection) |
 | **Consequence** | Hemolytic anemia |
-| **Mechanism** | Insufficient NADPH → cannot maintain reduced glutathione → RBC lysis |
+| **[[KEYWORD-Mechanism|mechanism]]** | Insufficient NADPH → cannot maintain reduced glutathione → RBC lysis |
 | **Protection** | Malaria resistance (heterozygote advantage) |
 
 ## Regulation
@@ -83,7 +83,7 @@ Glyceraldehyde-3-P + Fructose-6-P (rejoin glycolysis)
 | **High NADP⁺/NADPH ratio** | Stimulates oxidative phase |
 | **Need for ribose** | Activates both phases |
 | **High ATP** | Inhibits (shunts to storage) |
-| **Insulin** | Upregulates PPP enzymes |
+| **[[KEYWORD-Insulin|insulin]]** | Upregulates PPP enzymes |
 
 ## Related
 - [[Glucose_Ribose_Interconversion_PPP_Link_[Z-001-1091].md]]

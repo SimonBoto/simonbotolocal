@@ -11,7 +11,7 @@ source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]]
 status: conscious
 ---
 
-# VDR Knockout Mouse Phenotypes — Lessons from Vitamin D Receptor Genetic Models
+# VDR Knockout Mouse Phenotypes — Lessons from [[KEYWORD-Vitamin_D|vitamin d]] Receptor Genetic Models
 
 ## Overview
 
@@ -50,7 +50,7 @@ Bone demineralization (rickets/osteomalacia)
 
 ## System-by-System Analysis
 
-### 1. Calcium and Bone Metabolism
+### 1. Calcium and Bone [[KEYWORD-Metabolism|metabolism]]
 
 **Phenotype:**
 - Severe hypocalcemia
@@ -114,7 +114,7 @@ Bone demineralization (rickets/osteomalacia)
 ### 4. Metabolic Function
 
 **Phenotype:**
-- Insulin resistance
+- [[KEYWORD-Insulin|insulin]] resistance
 - Obesity tendency (on certain diets)
 - Altered lipid metabolism
 - Impaired glucose homeostasis

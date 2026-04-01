@@ -16,7 +16,7 @@ created: 2026-03-08
 # Ribose Pentose Backbone RNA ATP
 
 ## Overview
-Ribose is a five-carbon sugar (pentose) forming the structural backbone of RNA and ATP, connecting carbohydrate metabolism to genetic information and energy transfer.
+Ribose is a five-carbon sugar (pentose) forming the structural backbone of RNA and ATP, connecting carbohydrate [[KEYWORD-Metabolism|metabolism]] to genetic information and energy transfer.
 
 ## Chemical Structure
 - **Formula:** C₅H₁₀O₅
@@ -69,7 +69,7 @@ Glucose-6-phosphate (from glycolysis)
 ### Regulation
 - **High NADP⁺/NADPH ratio:** Stimulates oxidative phase
 - **Need for ribose:** Stimulates non-oxidative phase
-- **Insulin:** Upregulates PPP enzymes
+- **[[KEYWORD-Insulin|insulin]]:** Upregulates PPP enzymes
 
 ## Deoxyribose: The DNA Variant
 - **Difference:** Missing oxygen at 2' position (2'-deoxyribose)
@@ -93,7 +93,7 @@ Glucose-6-phosphate (from glycolysis)
 ### Ribose in Disease
 - **Ribose-5-phosphate isomerase deficiency:** Rare, neurological symptoms
 - **Transketolase deficiency:** Impairs non-oxidative PPP
-- **Cancer:** High PPP activity in tumor cells (need for ribose and NADPH)
+- **[[KEYWORD-Cancer|cancer]]:** High PPP activity in tumor cells (need for ribose and NADPH)
 
 ## Related
 - [[Adenosine_Metabolic_Roles_Energy_Signaling_[Z-001-1083].md]]

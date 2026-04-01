@@ -50,7 +50,7 @@ Cysteine → Cysteine sulfinic acid → Hypotaurine → Taurine
 
 **Degradation:**
 ```
-Cysteine → Pyruvate → Acetyl-CoA → Krebs cycle
+Cysteine → Pyruvate → Acetyl-CoA → [[KEYWORD-Krebs_Cycle|krebs cycle]]
 ```
 
 **Result:**

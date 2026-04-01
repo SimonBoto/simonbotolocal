@@ -16,7 +16,7 @@ created: 2026-03-08
 # Clinic Patient Flow Operations
 
 ## Overview
-Standard operating procedures for each stage of the metabolomics patient journey.
+Standard operating procedures for each stage of the [[KEYWORD-Metabolomics|metabolomics]] patient journey.
 
 ## Stage 1: Assessment (Intake)
 
@@ -51,7 +51,7 @@ Standard operating procedures for each stage of the metabolomics patient journey
 ### SOP
 1. **Receive sample** — Log in tracking system
 2. **Process OAT** — GC-MS/MS per protocol
-3. **Process fatty acids** — GC analysis
+3. **Process [[KEYWORD-Fatty_Acids|fatty acids]]** — GC analysis
 4. **QC review** — Internal standards valid
 
 ### Quality Checkpoint
@@ -82,7 +82,7 @@ Standard operating procedures for each stage of the metabolomics patient journey
 4. **Document plan** — In patient record
 
 ### Quality Checkpoint
-- [ ] Patient understands mechanism
+- [ ] Patient understands [[KEYWORD-Mechanism|mechanism]]
 - [ ] Drug interactions checked
 - [ ] Cost discussed
 - [ ] Timeline established

@@ -54,7 +54,7 @@ The METHAP trial follows a structured timeline with baseline assessment, 12-week
 | **Thyroid** | TSH |
 | **Iron** | Ferritin |
 | **Calcium** | Serum calcium |
-| **Metabolomics** | Urine organic acids (OAT), plasma total fatty acids (TFA) |
+| **[[KEYWORD-Metabolomics|metabolomics]]** | Urine organic acids (OAT), plasma total fatty acids (TFA) |
 
 ### Post-Intervention Testing (IR Groups Only)
 | Category | Tests |
@@ -134,9 +134,9 @@ The METHAP trial follows a structured timeline with baseline assessment, 12-week
 - [[MOC-PhD-Research]]
 
 ---
-*Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
+*Source: CGPT-0475 — Metabolic [[KEYWORD-Biomarker|biomarker]]s for insulin resistance*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

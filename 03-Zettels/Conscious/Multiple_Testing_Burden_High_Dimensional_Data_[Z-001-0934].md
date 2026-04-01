@@ -17,7 +17,7 @@ updated: 2026-03-05
 
 ## Core Concept
 
-The **multiple testing problem** arises when thousands of statistical tests are performed simultaneously, inflating the probability of false positives. In high-dimensional omics (metabolomics, genomics, proteomics), this is unavoidable and requires rigorous correction.
+The **multiple testing problem** arises when thousands of statistical tests are performed simultaneously, inflating the probability of false positives. In high-dimensional omics ([[KEYWORD-Metabolomics|metabolomics]], genomics, proteomics), this is unavoidable and requires rigorous correction.
 
 ---
 
@@ -39,7 +39,7 @@ The **multiple testing problem** arises when thousands of statistical tests are 
 
 Without correction:
 - **10,000 tests at α = 0.05** → 500 "significant" findings expected by chance alone
-- Researcher thinks: "I found 500 significant associations!"
+- [[KEYWORD-Research|research]]er thinks: "I found 500 significant associations!"
 - Reality: **All may be false positives**
 
 ---
@@ -140,7 +140,7 @@ Many "discoveries" in omics fail to replicate because:
 
 ✅ Plan independent validation from outset  
 ✅ Reserve samples for validation cohort  
-✅ External replication before clinical claims
+✅ External replication before [[KEYWORD-Clinical|clinical]] claims
 
 ### 4. Transparent Reporting
 

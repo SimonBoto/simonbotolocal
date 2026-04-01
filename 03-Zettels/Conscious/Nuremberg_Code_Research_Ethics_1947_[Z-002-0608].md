@@ -12,7 +12,7 @@ confidence: high
 created: 2026-03-27
 ---
 
-# Nuremberg Code for Research Ethics (1947)
+# Nuremberg Code for [[KEYWORD-Research|research]] Ethics (1947)
 
 The first international ethics code for human subjects research, established during the Nuremberg Doctors' Trial in response to Nazi medical atrocities. Introduced the absolute requirement for voluntary informed consent.
 

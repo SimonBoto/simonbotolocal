@@ -23,18 +23,18 @@ Patterns reveal more than individual markers. This protocol teaches systematic p
 
 ## Common Patterns
 
-### Pattern 1: Mitochondrial Energy Failure
+### Pattern 1: [[KEYWORD-Mitochondria|mitochondria]]l Energy Failure
 | Markers | Lactate ↑, Pyruvate ↑, TCA intermediates ↑ |
 |---------|---------------------------------------------|
 | **Mechanism** | Blocked OXPHOS, compensatory glycolysis |
-| **Causes** | B-vitamin deficiency, oxidative stress, hypoxia |
+| **Causes** | B-[[KEYWORD-Vitamin_D|vitamin d]]eficiency, oxidative stress, hypoxia |
 | **Action** | Mitochondrial support, antioxidants, B-vitamins |
 
 ### Pattern 2: Aconitase Block (Oxidative Stress)
 | Markers | Citrate ↑, Isocitrate ↓ or normal |
 |---------|-----------------------------------|
 | **Mechanism** | Iron-sulfur cluster damage |
-| **Causes** | ROS, heavy metals, inflammation |
+| **Causes** | ROS, heavy metals, [[KEYWORD-Inflammation|inflammation]] |
 | **Action** | Antioxidants, metal chelation |
 
 ### Pattern 3: B-Vitamin Depletion

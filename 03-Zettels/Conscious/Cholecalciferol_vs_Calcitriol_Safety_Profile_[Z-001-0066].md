@@ -15,7 +15,7 @@ status: conscious
 
 # Cholecalciferol vs Calcitriol — Safety Profile
 
-Cholecalciferol (vitamin D3) and calcitriol (1,25-dihydroxyvitamin D) have dramatically different safety profiles due to bypass of regulatory steps. Cholecalciferol requires two regulated hydroxylation steps; calcitriol is active hormone requiring no conversion.
+Cholecalciferol ([[KEYWORD-Vitamin_D|vitamin d]]3) and calcitriol (1,25-dihydroxyvitamin D) have dramatically different safety profiles due to bypass of regulatory steps. Cholecalciferol requires two regulated hydroxylation steps; calcitriol is active hormone requiring no conversion.
 
 **Cholecalciferol (safe for high-dose):**
 - Requires liver → kidney conversion
@@ -36,7 +36,7 @@ Cholecalciferol (vitamin D3) and calcitriol (1,25-dihydroxyvitamin D) have drama
 
 **Parent MOC:** [[MOC-Vitamin-Safety]]
 **Source:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]
-**Related:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]], [[MOC-Vitamin-D-Metabolism]]
+**Related:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]], [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
 
 ---
 

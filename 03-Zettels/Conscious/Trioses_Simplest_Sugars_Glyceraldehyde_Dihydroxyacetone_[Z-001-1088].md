@@ -24,7 +24,7 @@ Trioses are the simplest monosaccharides—three-carbon sugars that serve as fun
 - **Type:** Aldotriose (contains aldehyde group)
 - **Formula:** C₃H₆O₃
 - **Structure:** 3-carbon chain with aldehyde at C1
-- **Role:** Key intermediate in glycolysis and photosynthesis
+- **Role:** Key intermediate in [[KEYWORD-Glycolysis|glycolysis]] and photosynthesis
 
 ### 2. Dihydroxyacetone
 - **Type:** Ketotriose (contains ketone group)
@@ -49,7 +49,7 @@ Trioses are the simplest monosaccharides—three-carbon sugars that serve as fun
 - **Glyceraldehyde-3-phosphate:** Product of Calvin cycle
 - Key intermediate in carbon fixation
 
-### In Metabolism
+### In [[KEYWORD-Metabolism|metabolism]]
 - Building block for larger sugars
 - Precursor for glycerol (lipid backbone)
 - Entry point for gluconeogenesis
@@ -64,4 +64,4 @@ Trioses are the simplest monosaccharides—three-carbon sugars that serve as fun
 - [[MOC-Glycolysis-PPP]]
 
 ---
-*Source: CGPT-0445 — Advanced biochemistry*
+*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*

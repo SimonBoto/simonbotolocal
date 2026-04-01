@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Machine_Learning_Metabolomics_L-001-0618]]"
 status: conscious
 ---
 
-# Deep Learning and Neural Networks — Metabolomics Applications
+# Deep Learning and Neural Networks — [[KEYWORD-Metabolomics|metabolomics]] Applications
 
 ## Overview
 
@@ -106,7 +106,7 @@ Input → Encoder (compress) → Bottleneck → Decoder (reconstruct) → Output
 1. **Multi-omics integration:** Combine genomics, proteomics, metabolomics
 2. **Non-linear interactions:** Model metabolite-metabolite relationships
 3. **Personalized predictions:** Individual response forecasting
-4. **Deep feature learning:** Automatic biomarker discovery
+4. **Deep feature learning:** Automatic [[KEYWORD-Biomarker|biomarker]] discovery
 
 ### Hybrid Approach
 **Current METHAP:**
@@ -172,6 +172,6 @@ Output (2 classes, Softmax)
 *Source: [[LitNote_Machine_Learning_Metabolomics_L-001-0618]] | 2026-03-09*
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

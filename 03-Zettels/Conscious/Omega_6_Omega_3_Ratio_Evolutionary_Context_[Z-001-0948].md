@@ -68,10 +68,10 @@ status: conscious
 ### 10:1 Ratio — Warning Zone
 - Inflammatory markers elevated
 - Increased chronic disease risk
-- Insulin resistance begins
+- [[KEYWORD-Insulin|insulin]] resistance begins
 
 ### 15-25:1 Ratio — Modern Western (High Risk)
-- Chronic low-grade inflammation
+- Chronic low-grade [[KEYWORD-Inflammation|inflammation]]
 - Elevated IL-6, TNF-alpha, CRP
 - Increased CVD, diabetes, cancer risk
 - Accelerated cellular aging
@@ -125,7 +125,7 @@ INFLAMMATION                          RESOLUTION
 
 ## Related Zettels
 - [[Seed_Oil_Fatty_Acid_Composition_Table_[Z-001-0945].md]] — Oil comparison
-- [[Linoleic_Acid_Metabolic_Fate_Desaturase_Competition_[Z-001-0946].md]] — Metabolism
+- [[Linoleic_Acid_Metabolic_Fate_Desaturase_Competition_[Z-001-0946].md]] — [[KEYWORD-Metabolism|metabolism]]
 
 ## Source
 [[LitNote_Seed_Oils_Fatty_Acid_Composition_L-001-0522]]

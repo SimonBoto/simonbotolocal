@@ -12,10 +12,10 @@ status: conscious
 source-litnote: Synthesized from clinical practice
 ---
 
-# Carbohydrate Metabolism & Insulin Resistance Biomarkers
+# Carbohydrate [[KEYWORD-Metabolism|metabolism]] & Insulin Resistance [[KEYWORD-Biomarker|biomarker]]s
 
 ## Core Claim
-**Carbohydrate metabolism disorders generate specific metabolite biomarkers** — glucose intermediates, lactate, and organic acids that quantify insulin resistance severity and metabolic dysfunction.
+**Carbohydrate metabolism disorders generate specific metabolite [[KEYWORD-Biomarker|biomarkers]]** — glucose intermediates, lactate, and organic acids that quantify insulin resistance severity and metabolic dysfunction.
 
 ## Glycolysis-Gluconeogenesis Axis
 

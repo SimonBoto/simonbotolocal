@@ -13,10 +13,10 @@ confidence: high
 created: 2026-03-08
 ---
 
-# OAT Mitochondrial Patterns
+# OAT [[KEYWORD-Mitochondria|mitochondria]]l Patterns
 
 ## Overview
-Mitochondrial dysfunction produces characteristic OAT signatures across multiple marker categories.
+[[KEYWORD-Mitochondria|mitochondrial]] dysfunction produces characteristic OAT signatures across multiple marker categories.
 
 ## Primary Mitochondrial Markers
 
@@ -38,7 +38,7 @@ Mitochondrial dysfunction produces characteristic OAT signatures across multiple
 
 ## Secondary Mitochondrial Indicators
 
-### B-Vitamin Dependent Markers
+### B-[[KEYWORD-Vitamin_D|vitamin d]]ependent Markers
 | Marker | Connection |
 |--------|------------|
 | **Pyruvate ↑** | B1 (TPP) needed for PDH |

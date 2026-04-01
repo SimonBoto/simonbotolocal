@@ -11,7 +11,7 @@ source: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]]"
 extraction-date: 2026-03-02
 ---
 
-# Adipate Metabolism and TCA Cycle Entry
+# Adipate [[KEYWORD-Metabolism|metabolism]] and TCA Cycle Entry
 
 **Key Point:** Adipate is not a metabolic endpoint — it can be catabolized to enter the TCA cycle for energy production.
 
@@ -20,7 +20,7 @@ extraction-date: 2026-03-02
 ### Step 1: Activation
 **Adipate + CoA + ATP → Adipyl-CoA + AMP + PPi**
 - Catalyzed by: Acyl-CoA synthetase
-- Location: Mitochondria (adipate is water-soluble, enters without carnitine)
+- Location: [[KEYWORD-Mitochondria|mitochondria]] (adipate is water-soluble, enters without carnitine)
 
 ### Step 2: First β-Oxidation Round
 **Adipyl-CoA (C6) → Glutaryl-CoA (C5) + Acetyl-CoA (C2)**

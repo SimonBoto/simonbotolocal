@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Machine_Learning_Metabolomics_L-001-0618]]"
 status: conscious
 ---
 
-# Random Forest Classification — Feature Importance in Metabolomics
+# Random Forest Classification — Feature Importance in [[KEYWORD-Metabolomics|metabolomics]]
 
 ## Overview
 
@@ -57,7 +57,7 @@ Aggregate predictions (majority vote)
 ### Interpretation
 **Top-ranked metabolites:**
 - Most discriminative between groups
-- Potential biomarker candidates
+- Potential [[KEYWORD-Biomarker|biomarker]] candidates
 - Targets for intervention
 
 ---
@@ -127,6 +127,6 @@ Aggregate predictions (majority vote)
 
 *Source: [[LitNote_Machine_Learning_Metabolomics_L-001-0618]] | 2026-03-09*
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

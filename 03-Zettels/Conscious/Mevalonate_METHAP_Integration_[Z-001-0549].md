@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 
 > The pathway connects to METHAP through cholesterol-D3 synthesis, CoQ10 requirements, and shared nutrient cofactors.
 
-## Cholesterol-Vitamin D Connection
+## Cholesterol-[[KEYWORD-Vitamin_D|vitamin d]] Connection
 
 **Biosynthesis:**
 ```
@@ -27,7 +27,7 @@ Acetyl-CoA → Cholesterol → 7-Dehydrocholesterol → UV-B → Vitamin D3
 ## CoQ10 as METHAP Component
 
 **Rationale:**
-- Mitochondrial support
+- [[KEYWORD-Mitochondria|mitochondria]]l support
 - Cardiovascular protection
 - Antioxidant function
 
@@ -42,7 +42,7 @@ Acetyl-CoA → Cholesterol → 7-Dehydrocholesterol → UV-B → Vitamin D3
 |----------|-----------|--------|
 | Mg | Enzyme cofactor | D3 activation |
 | B3 | HMGCR cofactor | Mitochondrial |
-| B5 | CoA synthesis | Energy metabolism |
+| B5 | CoA synthesis | Energy [[KEYWORD-Metabolism|metabolism]] |
 | Zn | Squalene epoxidase | Immune function |
 
 ---

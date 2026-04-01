@@ -55,7 +55,7 @@ The transcriptome is the **immediate precursor** of the proteome:
 - **Disease progression monitoring** — Tracking chronic disease states
 - **Drug mechanism studies** — How therapies alter gene expression
 
-## Limitations → Why Metabolomics is Needed
+## Limitations → Why [[KEYWORD-Metabolomics|metabolomics]] is Needed
 
 | Limitation | Explanation |
 |------------|-------------|
@@ -67,9 +67,9 @@ The transcriptome is the **immediate precursor** of the proteome:
 ## METHAP Context
 
 **Transcriptomics in IR Research:**
-- Could identify gene expression changes in insulin signaling pathways
+- Could identify gene expression changes in [[KEYWORD-Insulin|insulin]] signaling pathways
 - Might reveal VD receptor (VDR) gene expression patterns
-- But **metabolomics** provides the functional endpoint (glucose metabolism, lipid status)
+- But **metabolomics** provides the functional endpoint (glucose [[KEYWORD-Metabolism|metabolism]], lipid status)
 
 **Ideal study:** Multi-omics combining transcriptomics + metabolomics
 

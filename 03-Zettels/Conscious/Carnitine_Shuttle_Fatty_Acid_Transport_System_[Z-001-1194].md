@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Long-chain fatty acids cannot cross the inner mitochondrial membrane directly. The carnitine shuttle transports activated fatty acids into the mitochondrial matrix for β-oxidation.
+Long-chain fatty acids cannot cross the inner [[KEYWORD-Mitochondria|mitochondria]]l membrane directly. The carnitine shuttle transports activated fatty acids into the [[KEYWORD-Mitochondria|mitochondrial]] matrix for β-oxidation.
 
 ---
 
@@ -73,7 +73,7 @@ Acetyl-CoA + Carnitine → Acetylcarnitine + CoA
 
 ## Regulatory Control
 
-### Fed State (High Insulin)
+### Fed State (High [[KEYWORD-Insulin|insulin]])
 - High malonyl-CoA (fatty acid synthesis active)
 - **CPT-I inhibited**
 - Fatty acids directed to storage (triglycerides)

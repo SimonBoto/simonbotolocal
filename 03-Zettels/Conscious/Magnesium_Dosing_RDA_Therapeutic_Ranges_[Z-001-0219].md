@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Magnesium_Supplementation_L-001-0201d]]
 extraction-date: 2026-03-01
 ---
 
-# Magnesium Dosing — RDA vs. Therapeutic Ranges for Metabolic Syndrome
+# [[KEYWORD-Magnesium|magnesium]] Dosing — RDA vs. Therapeutic Ranges for Metabolic Syndrome
 
-> While the RDA for magnesium prevents deficiency, therapeutic dosing for metabolic syndrome requires higher intakes to correct deficiency, optimize metabolic function, and achieve clinical benefits.
+> While the RDA for magnesium prevents deficiency, therapeutic dosing for metabolic syndrome requires higher intakes to correct deficiency, optimize metabolic function, and achieve [[KEYWORD-Clinical|clinical]] benefits.
 
 ## Recommended Dietary Allowance (RDA)
 
@@ -65,7 +65,7 @@ extraction-date: 2026-03-01
 - Doses >370 mg/day show greater BP reduction
 - Effect size increases with dose up to ~500 mg
 
-**Insulin Sensitivity:**
+**[[KEYWORD-Insulin|insulin]] Sensitivity:**
 - Doses ≥300 mg/day effective
 - Greater effects with longer duration (>12 weeks)
 

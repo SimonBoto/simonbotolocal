@@ -37,7 +37,7 @@ Glycemic control in diabetic chronic kidney disease (CKD) requires balancing ben
 **Advanced CKD (Stages 4-5):**
 - Consider relaxing to <8.0%
 - High hypoglycemia risk
-- Reduced insulin clearance
+- Reduced [[KEYWORD-Insulin|insulin]] clearance
 - Erythropoietin therapy affects A1c
 
 **Dialysis:**
@@ -49,7 +49,7 @@ Glycemic control in diabetic chronic kidney disease (CKD) requires balancing ben
 
 ### Increased Hypoglycemia Risk
 
-**Mechanisms:**
+**[[KEYWORD-Mechanism|mechanism]]s:**
 
 **1. Reduced Insulin Clearance:**
 - Kidney clears ~30-50% of insulin
@@ -61,7 +61,7 @@ Glycemic control in diabetic chronic kidney disease (CKD) requires balancing ben
 - Advanced CKD → impaired counter-regulation
 - Hypoglycemia unawareness
 
-**3. Altered Drug Metabolism:**
+**3. Altered Drug [[KEYWORD-Metabolism|metabolism]]:**
 - Many diabetes drugs renally cleared
 - Accumulation risk
 - Dose adjustments needed

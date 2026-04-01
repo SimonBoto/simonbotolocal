@@ -84,7 +84,7 @@ NKUA ethics committee timeline:
 
 ## Links
 
-**Parent MOC:** [[MOC-Research-Ethics]]  
+**Parent MOC:** [[MOC-[[KEYWORD-Research|research]]-Ethics]]  
 **Source:** [[LitNote_Ethics_Committee_Communication_L-002-0603]]  
 **Related:** [[IRB_Communication_Template_[Z-002-0614].md]] — Message templates
 

@@ -123,7 +123,7 @@ When ferritin is confounded by inflammation:
 Functional iron deficiency (ACD) common in metabolic syndrome
 - Obesity = chronic low-grade inflammation
 - High hepcidin → iron dysregulation
-- May impair methylation, energy metabolism
+- May impair methylation, energy [[KEYWORD-Metabolism|metabolism]]
 
 **Data fields:**
 ```csv
@@ -144,6 +144,6 @@ patient_id,visit,ferritin_ng_ml,iron_ug_dl,tibc_ug_dl,transferrin_sat_pct,crp_mg
 *Created: 2026-02-26 | Domain: 003 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
 

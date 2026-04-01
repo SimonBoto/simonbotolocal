@@ -18,7 +18,7 @@ extraction-date: 2026-03-01
 ## METHAP Context
 
 ### High Metabolic Turnover
-- High-dose nutrients increase metabolism
+- High-dose nutrients increase [[KEYWORD-Metabolism|metabolism]]
 - Amino acid processing demands
 - Cell proliferation (DNA synthesis)
 
@@ -26,7 +26,7 @@ extraction-date: 2026-03-01
 
 **Energy Metabolism:**
 - Amino acid oxidation (Ile, Met, Thr, Val)
-- Mitochondrial ATP production
+- [[KEYWORD-Mitochondria|mitochondria]]l ATP production
 - Supports high metabolic rate
 
 **Methylation Support:**
@@ -67,7 +67,7 @@ B12 is foundational for METHAP success, supporting energy, methylation, and cell
 
 ---
 
-*Source: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]]*
+*Source: [[LitNote_[[KEYWORD-Mitochondria|mitochondrial]]_B12_Functions_L-001-0407]]*
 
 
 ## RELATED FILES

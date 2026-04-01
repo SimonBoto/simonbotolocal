@@ -13,9 +13,9 @@ confidence: high
 created: 2026-02-22
 ---
 
-# INSR Autophosphorylation Mechanism
+# INSR Autophosphorylation [[KEYWORD-Mechanism|mechanism]]
 
-Insulin binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
+[[KEYWORD-Insulin|insulin]] binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
 
 **Activation sequence:**
 1. Insulin binds α subunit → conformational change

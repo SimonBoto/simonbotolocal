@@ -16,7 +16,7 @@ created: 2026-03-08
 # Novel vs Traditional Markers Insulin Resistance
 
 ## Overview
-METHAP compares novel metabolomics-based biomarkers (urine organic acids, plasma fatty acids) to traditional clinical markers (glucose, insulin, HbA1c)—aiming to validate earlier, more sensitive detection of insulin resistance.
+METHAP compares novel [[KEYWORD-Metabolomics|metabolomics]]-based [[KEYWORD-Biomarker|biomarker]]s (urine organic acids, plasma fatty acids) to traditional clinical markers (glucose, insulin, HbA1c)—aiming to validate earlier, more sensitive detection of insulin resistance.
 
 ## Traditional Markers
 
@@ -39,7 +39,7 @@ METHAP compares novel metabolomics-based biomarkers (urine organic acids, plasma
 
 ### Timeline of Detection
 ```
-Healthy Metabolism → Subtle Changes → Prediabetes → Diabetes
+Healthy [[KEYWORD-Metabolism|metabolism]] → Subtle Changes → Prediabetes → Diabetes
      ↓                      ↓              ↓            ↓
   No markers          Novel markers    HbA1c, FBG   All abnormal
                     (OAT, TFA)       detectable

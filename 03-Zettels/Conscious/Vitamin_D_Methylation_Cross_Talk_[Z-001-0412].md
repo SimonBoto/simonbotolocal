@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]]
 extraction-date: 2026-03-01
 ---
 
-# Vitamin D and Methylation Cross-Talk
+# [[KEYWORD-Vitamin_D|vitamin d]] and Methylation Cross-Talk
 
 > Vitamin D influences epigenetic patterns through regulation of DNMT expression and TET enzyme activity, potentially reversing aberrant methylation in cancer and metabolic disease.
 
@@ -70,11 +70,11 @@ extraction-date: 2026-03-01
 **Research Gap:**
 - Limited human data on high-dose D epigenetics
 - METHAP could contribute evidence
-- Metabolomics + epigenetics integration
+- [[KEYWORD-Metabolomics|metabolomics]] + epigenetics integration
 
 ## Clinical Implications
 
-**Beyond Bone Health:**
+**Beyond [[KEYWORD-Bone_Health|bone health]]:**
 - D's role extends to gene regulation
 - Nutrient-genome interaction
 - Personalized nutrition based on epigenetics

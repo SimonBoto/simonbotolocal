@@ -24,9 +24,9 @@ Weeks 3-4 of bootcamp: From marker knowledge to pattern recognition fluency.
 | Category | Key Markers | Clinical Meaning |
 |----------|-------------|------------------|
 | **Glycolysis** | Lactate, pyruvate | Energy substrate handling |
-| **TCA markers** | Citrate, succinate, α-ketoglutarate | Mitochondrial efficiency |
+| **TCA markers** | Citrate, succinate, α-ketoglutarate | [[KEYWORD-Mitochondria|mitochondria]]l efficiency |
 | **Fatty acid oxidation** | Suberate, adipate, ethylmalonate | β-oxidation capacity |
-| **B-vitamin dependent** | Methylmalonate, formiminoglutamate | Cofactor status |
+| **B-[[KEYWORD-Vitamin_D|vitamin d]]ependent** | Methylmalonate, formiminoglutamate | Cofactor status |
 | **Mitochondrial distress** | Lactate/pyruvate ratio, carnitine markers | OXPHOS dysfunction |
 | **Gut-derived** | Hippurate, indican, phenylacetate | Microbiome status |
 | **Oxidative stress** | 8-OHdG, lipid peroxides | Free radical burden |
@@ -52,7 +52,7 @@ Individual markers are noise; patterns are signal.
 
 ## Competency Goal
 By end of Week 4:
-> "Feel metabolomics as a language."
+> "Feel [[KEYWORD-Metabolomics|metabolomics]] as a language."
 
 Trainees should read OAT patterns instinctively, not analytically.
 

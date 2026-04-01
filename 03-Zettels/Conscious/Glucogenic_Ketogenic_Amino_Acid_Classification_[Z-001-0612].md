@@ -17,7 +17,7 @@ extraction-date: 2026-03-05
 
 Amino acids are classified by the metabolic fate of their carbon skeletons:
 - **Glucogenic:** Can be converted to glucose
-- **Ketogenic:** Can be converted to ketone bodies or fatty acids
+- **Ketogenic:** Can be converted to ketone bodies or [[KEYWORD-Fatty_Acids|fatty acids]]
 - **Both:** Have dual metabolic fates
 
 ## Complete Classification
@@ -69,7 +69,7 @@ All other amino acids feed into gluconeogenic precursors:
 
 ### Protein Quality and Diet Design
 - **Ketogenic diets:** Higher leucine/lysine content matters less for ketosis
-- **Glucose management:** Glucogenic amino acids raise insulin more
+- **Glucose management:** Glucogenic amino acids raise [[KEYWORD-Insulin|insulin]] more
 - **Complete proteins:** Must contain adequate amounts of all classes
 
 ### Metabolic Disease
@@ -79,7 +79,7 @@ All other amino acids feed into gluconeogenic precursors:
 | **Diabetes** | Glucogenic amino acids contribute to hyperglycemia |
 | **Ketogenic diet** | Ketogenic amino acids support ketogenesis |
 | **Starvation** | Both classes utilized; glucogenic for glucose, ketogenic for fuel |
-| **Liver disease** | Impaired amino acid metabolism affects both pathways |
+| **Liver disease** | Impaired amino acid [[KEYWORD-Metabolism|metabolism]] affects both pathways |
 
 ## Memory Aid: PITTT
 

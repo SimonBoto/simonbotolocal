@@ -11,7 +11,7 @@ created: 2026-03-04
 source: [[L-001-0045D]]
 ---
 
-# Glycolysis Steps and Regulation
+# [[KEYWORD-Glycolysis|glycolysis]] Steps and Regulation
 
 ## Overview
 ```
@@ -50,14 +50,14 @@ Glucose + 2 NAD⁺ + 2 ADP + 2 Pi → 2 Pyruvate + 2 NADH + 2 ATP + 2 H⁺ + 2 H
 - **The committed step**
 - Allosteric regulation:
   - **Inhibited by:** ATP, citrate
-  - **Activated by:** AMP, F2,6BP, insulin
+  - **Activated by:** AMP, F2,6BP, [[KEYWORD-Insulin|insulin]]
 
 ### Pyruvate Kinase
 - Inhibited by: ATP, acetyl-CoA
 - Activated by: F1,6BP (feed-forward)
 
 ## Related
-- [[Pyruvate_Metabolic_Crossroads_[Z-001-0469]]] Pyruvate Metabolism
+- [[Pyruvate_Metabolic_Crossroads_[Z-001-0469]]] Pyruvate [[KEYWORD-Metabolism|metabolism]]
 - [[Evolutionary_Ancient_Glycolysis_[Z-001-0470]]] Evolutionary Ancient Glycolysis
 
 ---

@@ -16,7 +16,7 @@ source-litnote: Synthesized from clinical practice
 
 # Krebs Cycle Metabolites as Insulin Resistance Markers
 
-Krebs cycle (tricarboxylic acid cycle) intermediates serve as functional biomarkers of mitochondrial metabolism and insulin sensitivity. Accumulation of specific organic acids reflects enzymatic bottlenecks, cofactor deficiencies, or metabolic pathway dysregulation characteristic of insulin resistance.
+Krebs cycle (tricarboxylic acid cycle) intermediates serve as functional [[KEYWORD-Biomarker|biomarker]]s of mitochondrial [[KEYWORD-Metabolism|metabolism]] and insulin sensitivity. Accumulation of specific organic acids reflects enzymatic bottlenecks, cofactor deficiencies, or metabolic pathway dysregulation characteristic of insulin resistance.
 
 ## Krebs Cycle Overview
 
@@ -109,7 +109,7 @@ Both adipic acid and malate relate to **fatty acid metabolism dysregulation**:
 
 - **Upstream/Prerequisite:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_[Z-001-0911].md]] — Same diagnostic logic
 - **Parallel/Related:** [[Carnitine_Fatty_Acid_Transport_[Z-001-0913].md]] — Fatty acid metabolism pathway
-- **Downstream/Consequence:** [[Biomarkers_Taxonomy]] — Classification of these markers
+- **Downstream/Consequence:** [[[[KEYWORD-Biomarker|biomarkers]]_Taxonomy]] — Classification of these markers
 
 ## Context
 

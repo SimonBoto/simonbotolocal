@@ -37,7 +37,7 @@ Chromatin relaxation → Gene expression changes
 
 ### Metabolic Efficiency
 **Upregulated genes:**
-- **Mitochondrial biogenesis factors**
+- **[[KEYWORD-Mitochondria|mitochondria]]l biogenesis factors**
 - **Fatty acid oxidation enzymes**
 - **Ketone body utilization enzymes**
 
@@ -61,9 +61,9 @@ Chromatin relaxation → Gene expression changes
 ## Clinical Implications
 
 ### Metabolic Diseases
-- **Type 2 diabetes:** HDAC inhibition improves insulin sensitivity
+- **Type 2 diabetes:** HDAC inhibition improves [[KEYWORD-Insulin|insulin]] sensitivity
 - **Obesity:** Enhanced metabolic gene expression
-- **NAFLD:** Improved mitochondrial function
+- **NAFLD:** Improved [[KEYWORD-Mitochondria|mitochondrial]] function
 
 ### Neurodegeneration
 - **Alzheimer's:** HDAC inhibition may improve memory

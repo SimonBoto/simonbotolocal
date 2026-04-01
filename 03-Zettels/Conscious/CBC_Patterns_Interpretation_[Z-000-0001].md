@@ -16,7 +16,7 @@ source-litnote: Synthesized from clinical practice
 
 # CBC — Complete Blood Count Patterns
 
-The **CBC** provides baseline hematologic status. Beyond anemia detection, patterns reveal inflammation, hydration, and chronic disease states.
+The **CBC** provides baseline hematologic status. Beyond anemia detection, patterns reveal [[KEYWORD-Inflammation|inflammation]], hydration, and chronic disease states.
 
 ---
 
@@ -147,6 +147,6 @@ patient_id,visit,wbc_k_u_l,hematocrit_pct,hemoglobin_g_dl,platelets_k_u_l,mcv_fl
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
 

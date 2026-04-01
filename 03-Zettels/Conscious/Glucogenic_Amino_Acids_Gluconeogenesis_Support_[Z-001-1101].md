@@ -67,7 +67,7 @@ Glucogenic amino acids can be converted to glucose via gluconeogenesis—critica
 | **12-24 hours** | Glycogen depletion begins | Liver starts gluconeogenesis |
 | **24-48 hours** | Muscle protein catabolism | Alanine major substrate |
 | **48+ hours** | Continued proteolysis | All glucogenic AAs used |
-| **Prolonged** | Skeletal muscle loss | Conservation mechanisms activate |
+| **Prolonged** | Skeletal muscle loss | Conservation [[KEYWORD-Mechanism|mechanism]]s activate |
 
 ### The Alanine Cycle
 ```
@@ -108,13 +108,13 @@ Muscle: Glycolysis → Pyruvate → Alanine
 |---------|---------------------------|
 | **Glucagon** | Stimulates (fasting) |
 | **Cortisol** | Stimulates (stress, prolonged fasting) |
-| **Insulin** | Inhibits (fed state) |
+| **[[KEYWORD-Insulin|insulin]]** | Inhibits (fed state) |
 | **Epinephrine** | Stimulates (acute stress) |
 
 ## Related
 - [[Glycogenic_Ketogenic_Amino_Acid_Classification_[Z-001-1097].md]]
 | [[MOC-Gluconeogenesis]]
-| [[MOC-Amino-Acid-Metabolism]]
+| [[MOC-Amino-Acid-[[KEYWORD-Metabolism|metabolism]]]]
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

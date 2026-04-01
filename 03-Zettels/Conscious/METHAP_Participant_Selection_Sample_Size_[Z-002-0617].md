@@ -27,7 +27,7 @@ Rigorous sample size calculation and clear selection criteria ensure scientific 
 
 **Allocation:**
 - Control group (no IR): n=100
-- Insulin resistance group: n=100
+- [[KEYWORD-Insulin|insulin]] resistance group: n=100
   - IR control (no intervention): n=50
   - IR intervention: n=50
 
@@ -35,7 +35,7 @@ Rigorous sample size calculation and clear selection criteria ensure scientific 
 
 - Private medical clinics
 - Public hospital outpatient departments
-- Nutritionist offices
+- [[KEYWORD-Nutrition|nutrition]]ist offices
 - Community health centers
 
 ## Selection Process
@@ -64,7 +64,7 @@ At least one must be met:
 
 ## Exclusion Criteria
 
-- Infectious diseases or cancer
+- Infectious diseases or [[KEYWORD-Cancer|cancer]]
 - Renal, hepatic, or cardiac failure
 - Pregnancy or lactation
 - Acute or chronic disease with medication

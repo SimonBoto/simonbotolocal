@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Metabolic_Biomarkers_Briefing_L-001-0587]]
 status: conscious
 ---
 
-# Core Metabolic Biomarkers Panel — Vitamin D, Omega-3, hsCRP, Homocysteine, HbA1c
+# Core Metabolic [[KEYWORD-Biomarker|biomarker]]s Panel — [[KEYWORD-Vitamin_D|vitamin d]], Omega-3, hsCRP, Homocysteine, HbA1c
 
 ## Overview
 
@@ -211,7 +211,7 @@ A focused panel of metabolic biomarkers provides insight into nutritional status
 - Non-HDL-C
 - ApoB (preferred for risk)
 
-**Glucose Metabolism:**
+**Glucose [[KEYWORD-Metabolism|metabolism]]:**
 - Fasting glucose
 - Fasting insulin
 - HOMA-IR calculation

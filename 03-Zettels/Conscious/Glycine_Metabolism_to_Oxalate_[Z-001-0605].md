@@ -11,7 +11,7 @@ confidence: high
 created: 2026-03-04
 ---
 
-# Glycine Metabolism to Oxalate
+# Glycine [[KEYWORD-Metabolism|metabolism]] to Oxalate
 
 ## Pathway Overview
 
@@ -24,7 +24,7 @@ Glycine → Glyoxylate → Oxalate
 
 **Enzyme:** Glycine dehydrogenase (decarboxylating)  
 **Cofactor:** Pyridoxal phosphate (B6)  
-**Location:** Mitochondria
+**Location:** [[KEYWORD-Mitochondria|mitochondria]]
 
 ```
 Glycine + NAD⁺ → Glyoxylate + NH₄⁺ + NADH
@@ -49,7 +49,7 @@ Glyoxylate → Oxalate (oxidation)
 
 **Balance determines oxalate production.**
 
-## Clinical Relevance
+## [[KEYWORD-Clinical|clinical]] Relevance
 
 **Primary hyperoxaluria Type 1 (PH1):**
 - AGXT gene defect (alanine-glyoxylate aminotransferase)

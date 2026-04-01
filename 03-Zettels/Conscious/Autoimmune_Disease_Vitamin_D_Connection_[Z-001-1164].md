@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_VDR_Knockout_Immune_Function_L-001-0621]]"
 status: conscious
 ---
 
-# Autoimmune Disease — Vitamin D Connection
+# Autoimmune Disease — [[KEYWORD-Vitamin_D|vitamin d]] Connection
 
 ## Epidemiological Evidence
 
@@ -40,7 +40,7 @@ status: conscious
 | **Experimental Autoimmune Encephalomyelitis (EAE)** | Accelerated onset, severe course | Reduced Treg, enhanced Th17 |
 | **Non-Obese Diabetic (NOD) mice** | Earlier diabetes, higher incidence | Impaired islet protection |
 | **Collagen-Induced Arthritis** | Increased severity | Pro-inflammatory cytokines |
-| **DSS Colitis** | Severe inflammation | Gut immune dysregulation |
+| **DSS Colitis** | Severe [[KEYWORD-Inflammation|inflammation]] | Gut immune dysregulation |
 | **Lupus models** | Enhanced autoantibody production | B-cell dysregulation |
 
 **Interpretation:** VDR signaling is protective against autoimmune development
@@ -85,7 +85,7 @@ status: conscious
 - Cord blood 25(OH)D inversely associated with islet autoimmunity
 
 **Intervention:**
-- New-onset T1D: vitamin D + insulin may preserve β-cell function
+- New-onset T1D: vitamin D + [[KEYWORD-Insulin|insulin]] may preserve β-cell function
 
 ### Rheumatoid Arthritis
 - Low vitamin D correlates with disease activity

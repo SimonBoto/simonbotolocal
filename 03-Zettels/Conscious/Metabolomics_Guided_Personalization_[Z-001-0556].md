@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]]
 extraction-date: 2026-03-01
 ---
 
-# Metabolomics-Guided Personalization
+# [[KEYWORD-Metabolomics|metabolomics]]-Guided Personalization
 
-> Urinary organic acid profiling provides objective biomarkers for assessing mitochondrial function and personalizing interventions.
+> Urinary organic acid profiling provides objective [[KEYWORD-Biomarker|biomarker]]s for assessing mitochondrial function and personalizing interventions.
 
 ## Why Organic Acids?
 
@@ -26,7 +26,7 @@ extraction-date: 2026-03-01
 
 | Marker | Indicates | Target |
 |--------|-----------|--------|
-| **Lactate** | Anaerobic metabolism | B1, oxygenation |
+| **Lactate** | Anaerobic [[KEYWORD-Metabolism|metabolism]] | B1, oxygenation |
 | **Succinate** | Complex II | B2, CoQ10 |
 | **Citrate** | TCA upstream | Mg, aconitase |
 | **3-HMGA** | Fatty acid ox | Carnitine, B2 |

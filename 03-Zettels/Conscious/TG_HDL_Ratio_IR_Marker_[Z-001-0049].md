@@ -47,7 +47,7 @@ $$
 
 ---
 
-## 🔗 Connected Biomarkers
+## 🔗 Connected [[KEYWORD-Biomarker|biomarker]]s
 
 **IR Core Panel:**
 - [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (correlates r=0.6-0.7 with TG/HDL)
@@ -59,7 +59,7 @@ $$
 - [[ApoB_LpA_sdLDL_Advanced_Lipids_Z-006-0002.md]] — ApoB (TG/HDL correlates with small dense LDL particle count)
 
 **Mechanism:**
-- [[Phenotype_Mapping_Metabolomics_Z-001-0018.md]] — Lipotoxicity (elevated TG = hepatic steatosis = IR marker)
+- [[Phenotype_Mapping_[[KEYWORD-Metabolomics|metabolomics]]_Z-001-0018.md]] — Lipotoxicity (elevated TG = hepatic steatosis = IR marker)
 
 ---
 
@@ -132,7 +132,7 @@ patient_id,visit,tg_mg_dl,hdl_c_mg_dl,tg_hdl_ratio,lipid_ir_status
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 
 

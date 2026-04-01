@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]]
 extraction-date: 2026-03-01
 ---
 
-# Vitamin D and Calcium Absorption — Dose-Response Relationship
+# [[KEYWORD-Vitamin_D|vitamin d]] and [[KEYWORD-Calcium|calcium]] Absorption — Dose-Response Relationship
 
-> Vitamin D increases intestinal calcium absorption from a baseline of 10-15% to a maximum of 30-40% through active transport mechanisms, with the degree of enhancement proportional to vitamin D status and 25(OH)D levels.
+> Vitamin D increases intestinal calcium absorption from a baseline of 10-15% to a maximum of 30-40% through active transport [[KEYWORD-Mechanism|mechanism]]s, with the degree of enhancement proportional to vitamin D status and 25(OH)D levels.
 
 ## Mechanism of Absorption
 

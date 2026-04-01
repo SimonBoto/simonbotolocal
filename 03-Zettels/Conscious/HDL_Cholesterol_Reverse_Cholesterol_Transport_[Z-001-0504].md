@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]]
 extraction-date: 2026-03-01
 ---
 
-# HDL Cholesterol — Reverse Cholesterol Transport
+# HDL [[KEYWORD-Cholesterol|cholesterol]] — Reverse Cholesterol Transport
 
 > HDL mediates reverse cholesterol transport, removing excess cholesterol from peripheral tissues and delivering it to the liver for excretion.
 

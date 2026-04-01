@@ -46,7 +46,7 @@ Erectile dysfunction (ED) affects approximately 40% of men by age 40, with preva
 - **When:** All men with ED + low libido, or unexplained ED
 
 **3. Fasting Glucose/HbA1c:**
-- **Why:** Diabetes major cause of ED (vascular + neuropathy)
+- **Why:** [[KEYWORD-Diabetes|diabetes]] major cause of ED (vascular + neuropathy)
 - **Prevalence:** 50% of diabetic men have ED
 
 **4. Lipid Panel:**
@@ -116,7 +116,7 @@ Erectile dysfunction (ED) affects approximately 40% of men by age 40, with preva
 | **High FSH/LH** | Elevated | Primary hypogonadism | Karyotype if young; testicular evaluation |
 | **Low/normal FSH/LH** | Low/normal | Secondary hypogonadism | Prolactin, MRI pituitary, iron studies |
 
-## Clinical Algorithm
+## [[KEYWORD-Clinical|clinical]] Algorithm
 
 ```
 Man with Erectile Dysfunction

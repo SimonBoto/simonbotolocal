@@ -18,7 +18,7 @@ extraction-date: 2026-03-01
 ## Cardiovascular Disease (2-3x Increased Risk)
 
 ### Coronary Artery Disease
-- **Mechanism:** Atherosclerosis accelerated by dyslipidemia, inflammation, endothelial dysfunction
+- **Mechanism:** Atherosclerosis accelerated by dyslipidemia, [[KEYWORD-Inflammation|inflammation]], endothelial dysfunction
 - **Presentation:** Angina, myocardial infarction, sudden cardiac death
 - **Prevention:** Aggressive risk factor modification
 
@@ -40,7 +40,7 @@ extraction-date: 2026-03-01
 
 ### Progression Timeline
 ```
-Insulin Resistance → Compensatory Hyperinsulinemia → Beta-Cell Exhaustion → Overt Diabetes
+[[KEYWORD-Insulin|insulin]] Resistance → Compensatory Hyperinsulinemia → Beta-Cell Exhaustion → Overt Diabetes
        (Years 1-10)              (Years 5-15)              (Years 10-20)
 ```
 
@@ -105,7 +105,7 @@ Insulin Resistance → Compensatory Hyperinsulinemia → Beta-Cell Exhaustion �
 **With aggressive management:**
 - Reversal of MetS possible
 - Risk reduction comparable to treating individual risk factors
-- Magnesium, Vitamin D, K2 supplementation as adjuncts
+- Magnesium, [[KEYWORD-Vitamin_D|vitamin d]], K2 supplementation as adjuncts
 
 ---
 

@@ -24,7 +24,7 @@ extraction-date: 2026-03-01
 ## Regulation
 
 **Transcriptional (SREBP-2):**
-- Low cholesterol → HMGCR expression ↑
+- Low [[KEYWORD-Cholesterol|cholesterol]] → HMGCR expression ↑
 - High cholesterol → HMGCR expression ↓
 
 **Post-translational:**
@@ -40,10 +40,10 @@ extraction-date: 2026-03-01
 
 ## CoQ10 Depletion
 
-**Mechanism:**
+**[[KEYWORD-Mechanism|mechanism]]:**
 - Statins block CoQ10 synthesis
 - 40-50% reduction in CoQ10
-- Mitochondrial dysfunction
+- [[KEYWORD-Mitochondria|mitochondria]]l dysfunction
 
 **Mitigation:**
 - CoQ10 supplementation: 100-200 mg/day

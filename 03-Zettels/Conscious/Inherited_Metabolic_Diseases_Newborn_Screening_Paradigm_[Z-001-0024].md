@@ -15,12 +15,12 @@ source-litnote: Synthesized from clinical practice
 # Inherited Metabolic Diseases & Newborn Screening Paradigm
 
 ## Core Claim
-**Newborn screening for 49 inherited metabolic diseases via metabolomics establishes the precedent for metabolite-based diagnosis** — validating that enzymatic dysfunction → metabolite accumulation → pattern recognition → disease diagnosis.
+**Newborn screening for 49 inherited metabolic diseases via [[KEYWORD-Metabolomics|metabolomics]] establishes the precedent for metabolite-based diagnosis** — validating that enzymatic dysfunction → metabolite accumulation → pattern recognition → disease diagnosis.
 
 ## Historical Foundation
 
 ### Sir Archibald E. Garrod (1908)
-- First described inborn errors of metabolism (alkaptonuria, albinism, cystinuria, pentosuria)
+- First described inborn errors of [[KEYWORD-Metabolism|metabolism]] (alkaptonuria, albinism, cystinuria, pentosuria)
 - Established the **one gene-one enzyme-one metabolic block** principle
 - Laid groundwork for newborn screening (NBS)
 
@@ -65,7 +65,7 @@ Genetic mutation → Enzyme deficiency
 | 49 metabolic disorders | Insulin resistance phenotype |
 | Tandem MS | LC-MS/MS |
 | Pre-symptomatic detection | Early metabolic dysfunction |
-| Dietary intervention | Vitamin D + lifestyle |
+| Dietary intervention | [[KEYWORD-Vitamin_D|vitamin d]] + lifestyle |
 
 ### The Adipic Acid Validation
 **Argument:** If metabolomics can detect C8 carnitine in MCAD deficiency with 100% sensitivity, it can detect adipic acid in mitochondrial dysfunction with comparable accuracy.

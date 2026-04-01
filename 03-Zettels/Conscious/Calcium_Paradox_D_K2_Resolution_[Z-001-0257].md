@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Calcium Paradox — D-K2 Resolution
 
-> The "calcium paradox" describes the phenomenon where increased calcium intake or absorption does not always improve bone health and may instead promote arterial calcification. The D-K2 synergy resolves this paradox by ensuring calcium is directed to bone while prevented from depositing in arteries.
+> The "calcium paradox" describes the phenomenon where increased calcium intake or absorption does not always improve [[KEYWORD-Bone_Health|bone health]] and may instead promote arterial calcification. The D-K2 synergy resolves this paradox by ensuring calcium is directed to bone while prevented from depositing in arteries.
 
 ## The Calcium Paradox
 
@@ -21,7 +21,7 @@ extraction-date: 2026-03-01
 - High calcium intake ≠ Better bone density
 - Some populations with high calcium have more fractures
 - Calcium supplements may increase cardiovascular risk
-- High-dose vitamin D increases calcium absorption
+- High-dose [[KEYWORD-Vitamin_D|vitamin d]] increases calcium absorption
 - Without direction, calcium may harm vessels
 
 **The Problem:**
@@ -43,7 +43,7 @@ Goes WHERE?
 
 ## Root Causes
 
-### 1. Insufficient Vitamin K2
+### 1. Insufficient [[KEYWORD-Vitamin_K2|vitamin k2]]
 - MGP remains inactive (ucMGP)
 - No vascular protection
 - Calcium deposits in arteries

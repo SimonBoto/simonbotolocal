@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 
 > Vascular calcification occurs when vascular smooth muscle cells transform into osteoblast-like cells, depositing hydroxyapatite crystals in arterial walls through processes resembling bone formation.
 
-## Cellular Mechanism
+## Cellular [[KEYWORD-Mechanism|mechanism]]
 
 ### Step 1: Phenotypic Transformation
 **VSMCs → Osteoblast-like cells**
@@ -25,7 +25,7 @@ extraction-date: 2026-03-01
 
 **Triggers:**
 - Hyperphosphatemia (high phosphate)
-- Inflammation (TNF-α, IL-6)
+- [[KEYWORD-Inflammation|inflammation]] (TNF-α, IL-6)
 - Oxidative stress
 - Advanced glycation end-products
 - Vitamin K deficiency
@@ -66,7 +66,7 @@ extraction-date: 2026-03-01
 - Forms soluble complexes
 - Prevents precipitation
 
-**Adequate Magnesium:**
+**Adequate [[KEYWORD-Magnesium|magnesium]]:**
 - Competes with calcium
 - Crystal destabilizer
 

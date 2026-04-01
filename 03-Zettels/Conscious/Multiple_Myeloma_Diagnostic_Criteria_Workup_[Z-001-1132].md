@@ -16,7 +16,7 @@ created: 2026-03-08
 # Multiple Myeloma Diagnostic Criteria Workup
 
 ## Overview
-Definitive diagnosis of multiple myeloma requires clonal bone marrow plasma cells ≥10% plus CRAB features OR biomarkers of malignancy (SLiM criteria).
+Definitive diagnosis of multiple myeloma requires clonal bone marrow plasma cells ≥10% plus CRAB features OR [[KEYWORD-Biomarker|biomarker]]s of malignancy (SLiM criteria).
 
 ## Diagnostic Criteria (IMWG 2014)
 
@@ -36,7 +36,7 @@ Definitive diagnosis of multiple myeloma requires clonal bone marrow plasma cell
 | **A**nemia | Hgb <10 g/dL or >2 g/dL below LLN |
 | **B**one | ≥1 osteolytic lesion on imaging |
 
-#### SLiM Biomarkers
+#### SLiM [[KEYWORD-Biomarker|biomarkers]]
 | Feature | Threshold |
 |---------|-----------|
 | **S**ixty | ≥60% clonal plasma cells in BM |
@@ -141,7 +141,7 @@ Definitive diagnosis of multiple myeloma requires clonal bone marrow plasma cell
 - [[MOC-Hematology-Oncology]]
 
 ---
-*Source: CGPT-0264 — Warburg effect and cancer*
+*Source: CGPT-0264 — Warburg effect and [[KEYWORD-Cancer|cancer]]*
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]

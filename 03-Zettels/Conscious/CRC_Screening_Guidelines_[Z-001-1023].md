@@ -11,7 +11,7 @@ source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]]
 status: conscious
 ---
 
-# Colorectal Cancer Screening — Guidelines and Modalities
+# Colorectal [[KEYWORD-Cancer|cancer]] Screening — Guidelines and Modalities
 
 ## Overview
 
@@ -87,7 +87,7 @@ Colorectal cancer (CRC) is the third most common cancer and second leading cause
 
 ### 2. Fecal Immunochemical Test (FIT)
 
-**Mechanism:**
+**[[KEYWORD-Mechanism|mechanism]]:**
 - Detects human hemoglobin in stool
 - Antibodies specific to human globin
 - No dietary restrictions
@@ -352,7 +352,7 @@ Colorectal cancer (CRC) is the third most common cancer and second leading cause
 7. IBD requires specialized surveillance (8 years post-diagnosis)
 8. Family history advances screening age
 
-**Clinical Pearl:** The best screening test is the one that gets done. Offer patients choices and encourage completion. FIT is as effective as colonoscopy at the population level due to higher adherence. Don't forget surveillance colonoscopy—missed interval cancers often occur in patients who never returned for follow-up.
+**[[KEYWORD-Clinical|clinical]] Pearl:** The best screening test is the one that gets done. Offer patients choices and encourage completion. FIT is as effective as colonoscopy at the population level due to higher adherence. Don't forget surveillance colonoscopy—missed interval cancers often occur in patients who never returned for follow-up.
 
 ---
 

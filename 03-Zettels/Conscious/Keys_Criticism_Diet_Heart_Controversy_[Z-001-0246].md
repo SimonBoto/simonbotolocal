@@ -70,8 +70,8 @@ extraction-date: 2026-03-01
 - Single time-point measurements
 - Limited food composition databases
 
-**Biological Mechanism Assumed:**
-- Saturated fat → cholesterol → CVD
+**Biological [[KEYWORD-Mechanism|mechanism]] Assumed:**
+- Saturated fat → [[KEYWORD-Cholesterol|cholesterol]] → CVD
 - Cholesterol hypothesis later questioned
 - HDL vs. LDL distinction missed initially
 - Particle size matters (not known then)
@@ -105,7 +105,7 @@ extraction-date: 2026-03-01
 
 **Documented Influence:**
 - Trade groups shaped research agenda
-- Nutrition science captured by industry
+- [[KEYWORD-Nutrition|nutrition]] science captured by industry
 - Economic interests > health science
 
 ## Modern Scientific Position

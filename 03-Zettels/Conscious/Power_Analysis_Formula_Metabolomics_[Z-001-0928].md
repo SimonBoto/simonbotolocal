@@ -13,7 +13,7 @@ updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
 ---
 
-# Power Analysis Formula and Sample Size Calculation for Metabolomics
+# Power Analysis Formula and Sample Size Calculation for [[KEYWORD-Metabolomics|metabolomics]]
 
 **Core Formula:** Sample size depends on effect size, desired power, significance level, and number of groups.
 
@@ -32,7 +32,7 @@ Where η² = variance between groups / total variance
 | Effect Size | f Value | Variance Explained | Interpretation |
 |-------------|---------|-------------------|----------------|
 | Small | 0.10 | 1% | Subtle metabolic shifts |
-| Medium | 0.25 | 6% | Moderate biomarker changes |
+| Medium | 0.25 | 6% | Moderate [[KEYWORD-Biomarker|biomarker]] changes |
 | Large | 0.40 | 14% | Strong metabolic signatures |
 
 **Biological Reality:** Most metabolomics effects are small (f=0.1-0.2) due to metabolic complexity and individual variation.
@@ -137,6 +137,6 @@ n = 66 per group
 *See also: [[Underpowered_Study_Consequences_[Z-001-0929]]]*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

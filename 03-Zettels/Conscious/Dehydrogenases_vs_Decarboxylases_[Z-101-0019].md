@@ -13,7 +13,7 @@ extraction-date: 2026-03-02
 
 # Dehydrogenases vs Decarboxylases Distinction
 
-**Fundamental Difference:** These enzyme classes catalyze different chemical reactions with distinct mechanisms and cofactors.
+**Fundamental Difference:** These enzyme classes catalyze different chemical reactions with distinct [[KEYWORD-Mechanism|mechanism]]s and cofactors.
 
 ## Core Distinctions
 
@@ -42,7 +42,7 @@ Pyruvate + NADH + H⁺ → Lactate + NAD⁺
 ```
 - Reversible reaction
 - No decarboxylation
-- Critical for anaerobic glycolysis
+- Critical for anaerobic [[KEYWORD-Glycolysis|glycolysis]]
 
 **Glucose-6-Phosphate Dehydrogenase:**
 ```
@@ -110,7 +110,7 @@ Isocitrate + NAD⁺ → α-ketoglutarate + CO₂ + NADH + H⁺
 **"De-HYDROGEN-ase"** → removes **HYDROGEN**
 **"De-CARBOXYL-ase"** → removes **CARBOXYL (COOH)**
 
-## Clinical Relevance
+## [[KEYWORD-Clinical|clinical]] Relevance
 
 **Understanding the distinction matters for:**
 1. **Interpreting metabolic panels:** Lactic acidosis (LDH-related) vs organic aciduria (decarboxylase-related)

@@ -26,7 +26,7 @@ extraction-date: 2026-03-01
 - Isoleucine, methionine, threonine, valine degradation
 - Produces propionyl-CoA → converted to propionate
 
-### Odd-Chain Fatty Acids
+### Odd-Chain [[KEYWORD-Fatty_Acids|fatty acids]]
 - 15:0 and 17:0 fatty acid oxidation
 - Terminal three carbons become propionyl-CoA
 
@@ -42,7 +42,7 @@ extraction-date: 2026-03-01
 - Propionate → Succinyl-CoA → Oxaloacetate → Glucose
 - Net glucose production (energy storage)
 
-### Krebs Cycle Entry
+### [[KEYWORD-Krebs_Cycle|krebs cycle]] Entry
 - Via succinyl-CoA
 - Anaplerotic substrate
 
@@ -53,7 +53,7 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]*
+*Source: [[LitNote_B12_Amino_Acid_[[KEYWORD-Metabolism|metabolism]]_L-001-0405]]*
 
 
 ## RELATED FILES

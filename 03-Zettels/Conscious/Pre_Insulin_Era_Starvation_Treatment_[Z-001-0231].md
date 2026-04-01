@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Insulin_History_L-001-0207]]
 extraction-date: 2026-03-01
 ---
 
-# Pre-Insulin Era — The Starvation Treatment for Diabetes
+# Pre-[[KEYWORD-Insulin|insulin]] Era — The Starvation Treatment for Diabetes
 
-> Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe malnutrition.
+> Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe mal[[KEYWORD-Nutrition|nutrition]].
 
 ## The Pre-Insulin Prognosis
 
@@ -91,7 +91,7 @@ extraction-date: 2026-03-01
 ## Legacy
 
 **Lessons Learned:**
-- Importance of carbohydrate metabolism
+- Importance of carbohydrate [[KEYWORD-Metabolism|metabolism]]
 - Dietary management remains key (even with insulin)
 - Desperation drives innovation
 - Progress in medicine is not always linear

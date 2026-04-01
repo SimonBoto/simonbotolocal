@@ -23,7 +23,7 @@ status: conscious
 **Original Publication (1989 — 16 years late):**
 - Only serum cholesterol results reported
 - No mortality data published
-- Conclusion: Cholesterol-lowering but clinical outcomes "not analyzed"
+- Conclusion: Cholesterol-lowering but [[KEYWORD-Clinical|clinical]] outcomes "not analyzed"
 
 **Ramsden Recovery (2016):**
 - Original data tapes recovered from University of Minnesota basement
@@ -44,7 +44,7 @@ status: conscious
 
 **Intervention Details:**
 - **Corn oil** and corn oil margarine provided
-- Target: ~16% calories from omega-6 linoleic acid
+- Target: ~16% calories from [[KEYWORD-Omega_6|omega-6]] linoleic acid
 - Significant reduction in saturated fat
 - Double-blind design (food color matched)
 
@@ -204,7 +204,7 @@ Saturated fat ↓ (replaced by PUFA) → LDL ↓ → **No change in death**
 **Statins:**
 - Lower LDL dramatically
 - Reduce mortality (modestly)
-- Multiple mechanisms beyond LDL
+- Multiple [[KEYWORD-Mechanism|mechanism]]s beyond LDL
 
 **Omega-6 Diet:**
 - Lower LDL modestly

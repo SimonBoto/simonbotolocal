@@ -22,7 +22,7 @@ Organic acids testing reveals B-vitamin and mineral cofactor deficiencies throug
 
 | OAT Marker | Cofactor Needed | Enzyme Blocked | Clinical Sign |
 |------------|-----------------|----------------|---------------|
-| **Pyruvate ↑** | B1 (TPP) | Pyruvate dehydrogenase | Energy metabolism block |
+| **Pyruvate ↑** | B1 (TPP) | Pyruvate dehydrogenase | Energy [[KEYWORD-Metabolism|metabolism]] block |
 | **Lactate ↑ + Pyruvate ↑** | B1, B3, Mg²⁺ | PDH complex | Lactic acidosis risk |
 | **α-Ketoglutarate ↑** | B1, B2, B3, B5, Mg²⁺ | α-KG dehydrogenase | TCA cycle impairment |
 | **Succinate ↑** | B2 (FAD) | Complex II | Mitochondrial dysfunction |
@@ -67,14 +67,14 @@ This critical enzyme complex requires:
 
 ## Related
 - [[Redox_Cofactors_NAD_FAD_Biochemistry_[Z-001-1051].md]]
-- [[MOC-Metabolomics-Analysis]]
+- [[MOC-[[KEYWORD-Metabolomics|metabolomics]]-Analysis]]
 - [[MOC-Methylation-One-Carbon]]
 
 ---
 *Source: CGPT-0022 — Mitochondrial biochemistry*
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/Methylation_Family_[B-004-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 
 

@@ -17,12 +17,12 @@ Recombinant human parathyroid hormone (1-34 fragment) given as **daily subcutane
 ## The PTH Paradox
 
 ### Continuous vs. Intermittent
-| Pattern | Effect | Clinical Context |
+| Pattern | Effect | [[KEYWORD-Clinical|clinical]] Context |
 |---------|--------|------------------|
 | **Continuous elevation** | Bone resorption | Hyperparathyroidism causes bone loss |
 | **Intermittent pulses** | Bone formation | Teriparatide builds bone |
 
-**Mechanism:** PTH receptor signaling kinetics determine response
+**[[KEYWORD-Mechanism|mechanism]]:** PTH receptor signaling kinetics determine response
 - Continuous → cAMP sustained → RANKL upregulation → resorption
 - Intermittent → cAMP transient → Wnt activation → formation
 
@@ -107,7 +107,7 @@ Recombinant human parathyroid hormone (1-34 fragment) given as **daily subcutane
 ## Monitoring
 | Time | Assessment |
 |------|------------|
-| **Baseline** | Calcium, creatinine, alkaline phosphatase |
+| **Baseline** | [[KEYWORD-Calcium|calcium]], creatinine, alkaline phosphatase |
 | **1–6 months** | Serum calcium (peak effect) |
 | **12–18 months** | DEXA to assess response |
 | **Ongoing** | Adherence, injection technique |

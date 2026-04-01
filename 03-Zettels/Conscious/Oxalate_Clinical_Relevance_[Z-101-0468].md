@@ -38,13 +38,13 @@ status: conscious
 |---------|---------|-------------------|
 | Calcium | Calcium oxalate | ↓ Bioavailability |
 | Iron (Fe²⁺/Fe³⁺) | Ferrous/ferric oxalate | ↓ Bioavailability |
-| Magnesium | Magnesium oxalate | ↓ Bioavailability |
+| [[KEYWORD-Magnesium|magnesium]] | Magnesium oxalate | ↓ Bioavailability |
 | Zinc | Zinc oxalate | ↓ Bioavailability |
 
 **Practical implication:** High-oxalate meals reduce mineral absorption
 
 ### 3. Enteric Hyperoxaluria
-**Fat malabsorption → increased free fatty acids → calcium binds FFA instead of oxalate → more free oxalate absorbed**
+**Fat malabsorption → increased free [[KEYWORD-Fatty_Acids|fatty acids]] → calcium binds FFA instead of oxalate → more free oxalate absorbed**
 
 **Causes:**
 - Bariatric surgery (Roux-en-Y gastric bypass)
@@ -53,7 +53,7 @@ status: conscious
 - Chronic pancreatitis
 
 ### 4. Primary Hyperoxaluria (Genetic)
-See [[Amino_Acid_to_Oxalate_Metabolism_[Z-101-0467].md]] for detailed genetics
+See [[Amino_Acid_to_Oxalate_[[KEYWORD-Metabolism|metabolism]]_[Z-101-0467].md]] for detailed genetics
 
 ## Clinical Management Strategies
 

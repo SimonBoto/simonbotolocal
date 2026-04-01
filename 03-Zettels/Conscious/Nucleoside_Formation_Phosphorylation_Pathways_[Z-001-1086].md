@@ -79,7 +79,7 @@ Level 4: NTP (ATP) - triphosphate, high energy, fully functional
 ### Connection to PPP
 - Ribose-5-phosphate from PPP feeds into nucleotide synthesis
 - Direct precursor for nucleoside formation
-- Links carbohydrate metabolism to nucleic acid synthesis
+- Links carbohydrate [[KEYWORD-Metabolism|metabolism]] to nucleic acid synthesis
 
 ### Salvage vs. De Novo
 | Pathway | Starting Point | Energy Cost | When Active |
@@ -97,7 +97,7 @@ Level 4: NTP (ATP) - triphosphate, high energy, fully functional
 ### Purine Nucleoside Phosphorylase Deficiency
 - **Enzyme defect:** PNP deficiency
 - **Consequence:** T-cell immunodeficiency
-- **Mechanism:** Toxic metabolite accumulation
+- **[[KEYWORD-Mechanism|mechanism]]:** Toxic metabolite accumulation
 - **Treatment:** Supportive, bone marrow transplant
 
 ### Nucleoside Analog Drugs
@@ -105,7 +105,7 @@ Level 4: NTP (ATP) - triphosphate, high energy, fully functional
 |------|-----------|-----|
 | **AZT** | Thymidine analog, inhibits HIV reverse transcriptase | HIV/AIDS |
 | **Acyclovir** | Guanosine analog, inhibits viral DNA polymerase | Herpes |
-| **5-Fluorouracil** | Pyrimidine analog, disrupts DNA synthesis | Cancer |
+| **5-Fluorouracil** | Pyrimidine analog, disrupts DNA synthesis | [[KEYWORD-Cancer|cancer]] |
 
 ## Related
 - [[Adenosine_Metabolic_Roles_Energy_Signaling_[Z-001-1083].md]]

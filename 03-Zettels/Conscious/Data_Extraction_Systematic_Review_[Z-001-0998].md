@@ -404,7 +404,7 @@ If skewed: More complex formulas available
 6. Use appropriate software
 7. Maintain version control
 
-**Clinical Pearl:** Data extraction errors propagate into meta-analysis results. Invest in rigorous extraction procedures—quality control here pays dividends in validity.
+**[[KEYWORD-Clinical|clinical]] Pearl:** Data extraction errors propagate into meta-analysis results. Invest in rigorous extraction procedures—quality control here pays dividends in validity.
 
 ---
 

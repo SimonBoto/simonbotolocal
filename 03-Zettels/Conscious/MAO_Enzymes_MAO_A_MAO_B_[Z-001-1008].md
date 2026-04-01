@@ -15,7 +15,7 @@ status: conscious
 
 ## Overview
 
-Monoamine oxidases (MAO) are mitochondrial enzymes that catalyze the oxidative deamination of monoamines, playing critical roles in neurotransmitter metabolism and drug action.
+Monoamine oxidases (MAO) are [[KEYWORD-Mitochondria|mitochondria]]l enzymes that catalyze the oxidative deamination of monoamines, playing critical roles in neurotransmitter [[KEYWORD-Metabolism|metabolism]] and drug action.
 
 ## Isoforms
 
@@ -73,7 +73,7 @@ Monoamine oxidases (MAO) are mitochondrial enzymes that catalyze the oxidative d
 
 ## Biochemistry
 
-### Reaction Mechanism
+### Reaction [[KEYWORD-Mechanism|mechanism]]
 
 **Oxidative Deamination:**
 ```

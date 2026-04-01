@@ -14,7 +14,7 @@ status: conscious
 ## Core Principle
 Bone remodeling begins with **activation** of dormant bone surfaces, triggering osteoclast precursor differentiation through dual cytokine signaling.
 
-## Molecular Mechanism
+## Molecular [[KEYWORD-Mechanism|mechanism]]
 
 ### RANKL (Receptor Activator of Nuclear Factor Kappa-B Ligand)
 - Expressed by osteoblasts, osteocytes, and stromal cells
@@ -38,7 +38,7 @@ Bone remodeling begins with **activation** of dormant bone surfaces, triggering 
 | Target | Drug Class | Effect |
 |--------|------------|--------|
 | RANKL | Denosumab (monoclonal antibody) | Prevents RANKL-RANK binding → ↓ osteoclast formation |
-| RANK | None clinically available | Would block signaling directly |
+| RANK | None [[KEYWORD-Clinical|clinical]]ly available | Would block signaling directly |
 
 ## Clinical Relevance
 - **Postmenopausal osteoporosis**: Estrogen deficiency increases RANKL expression → excessive activation

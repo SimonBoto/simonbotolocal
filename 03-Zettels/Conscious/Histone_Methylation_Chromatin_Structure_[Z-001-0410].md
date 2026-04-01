@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]]
 extraction-date: 2026-03-01
 ---
 
-# Histone Methylation — Chromatin Structure
+# Histone [[KEYWORD-Methylation|methylation]] — Chromatin Structure
 
 > Histone methylation at specific lysine and arginine residues alters chromatin structure and gene accessibility, with distinct marks associated with transcriptional activation or repression.
 
@@ -72,7 +72,7 @@ extraction-date: 2026-03-01
 
 **SAM Availability:**
 - HMTs require SAM as methyl donor
-- B12/folate deficiency → Reduced SAM
+- B12/[[KEYWORD-Folate|folate]] deficiency → Reduced SAM
 - Reduced SAM → Altered histone methylation
 - Result: Epigenetic dysregulation
 

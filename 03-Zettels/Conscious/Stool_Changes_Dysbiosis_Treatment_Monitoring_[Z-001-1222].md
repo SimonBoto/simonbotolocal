@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]]"
 status: conscious
 ---
 
-# Stool Changes During Dysbiosis Treatment — Clinical Monitoring
+# Stool Changes During Dysbiosis Treatment — [[KEYWORD-Clinical|clinical]] Monitoring
 
 ## Overview
 
@@ -72,7 +72,7 @@ Stool characteristics provide critical feedback during dysbiosis treatment, help
 - **Significance:** Part of repair process
 
 ### Concerning
-- **Large amounts:** Significant inflammation
+- **Large amounts:** Significant [[KEYWORD-Inflammation|inflammation]]
 - **With blood:** Inflammatory bowel disease, infection
 - **With pain:** Colitis, diverticulitis
 - **Persistent:** Chronic inflammation, dysentery

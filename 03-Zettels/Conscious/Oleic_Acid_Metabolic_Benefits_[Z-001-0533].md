@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Oleic Acid Metabolic Benefits
 
-> Oleic acid consumption improves lipid profiles, enhances insulin sensitivity, and reduces inflammatory markers through multiple cellular mechanisms.
+> Oleic acid consumption improves lipid profiles, enhances [[KEYWORD-Insulin|insulin]] sensitivity, and reduces inflammatory markers through multiple cellular [[KEYWORD-Mechanism|mechanism]]s.
 
 ## Lipid Profile
 
@@ -56,7 +56,7 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]*
+*Source: [[LitNote_Oleic_Acid_[[KEYWORD-Clinical|clinical]]_L-001-0506]]*
 
 
 ## Related

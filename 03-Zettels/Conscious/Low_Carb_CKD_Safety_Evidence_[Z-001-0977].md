@@ -110,7 +110,7 @@ Safety and efficacy data for low-carbohydrate and ketogenic diets in chronic kid
 - Ensure adequate hydration
 
 **3. Hyperkalemia:**
-- Insulin deficiency/reduction releases K+
+- [[KEYWORD-Insulin|insulin]] deficiency/reduction releases K+
 - Reduced intake of processed foods (often lower K+ paradoxically)
 - Monitor electrolytes
 
@@ -153,8 +153,8 @@ Safety and efficacy data for low-carbohydrate and ketogenic diets in chronic kid
 ### Transplant Recipients
 
 **Not Recommended:**
-- Immunosuppression metabolism concerns
-- Need stable, balanced nutrition
+- Immunosuppression [[KEYWORD-Metabolism|metabolism]] concerns
+- Need stable, balanced [[KEYWORD-Nutrition|nutrition]]
 - Drug-nutrient interactions
 
 ### Dialysis Patients

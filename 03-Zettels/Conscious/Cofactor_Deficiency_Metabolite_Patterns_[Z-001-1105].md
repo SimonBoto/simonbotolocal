@@ -18,7 +18,7 @@ created: 2026-03-08
 ## Overview
 Specific metabolite accumulation patterns in blood or urine can reveal cofactor deficiencies—enabling targeted nutritional intervention.
 
-## B-Vitamin Deficiency Signatures
+## B-[[KEYWORD-Vitamin_D|vitamin d]]eficiency Signatures
 
 ### B1 (Thiamine) Deficiency
 | Elevated Marker | Enzyme Affected | Clinical |
@@ -101,9 +101,9 @@ Specific metabolite accumulation patterns in blood or urine can reveal cofactor 
 | **Mg** | 400-800 mg/day | 200-400 mg/day |
 
 ## Related
-- [[B_Vitamins_Enzyme_Cofactors_Metabolism_[Z-001-1102].md]]
+- [[B_Vitamins_Enzyme_Cofactors_[[KEYWORD-Metabolism|metabolism]]_[Z-001-1102].md]]
 | [[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052].md]]
-| [[MOC-Metabolomics-Analysis]]
+| [[MOC-[[KEYWORD-Metabolomics|metabolomics]]-Analysis]]
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

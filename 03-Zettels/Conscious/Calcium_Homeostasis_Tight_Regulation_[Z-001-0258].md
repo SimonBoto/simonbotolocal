@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]]
 extraction-date: 2026-03-01
 ---
 
-# Calcium Homeostasis — Tight Physiological Regulation
+# [[KEYWORD-Calcium|calcium]] Homeostasis — Tight Physiological Regulation
 
-> Serum calcium is maintained within the narrowest physiological range of any electrolyte (±2%) through precise regulation by PTH, vitamin D, and calcitonin, reflecting its critical importance for life-sustaining functions.
+> Serum calcium is maintained within the narrowest physiological range of any electrolyte (±2%) through precise regulation by PTH, [[KEYWORD-Vitamin_D|vitamin d]], and calcitonin, reflecting its critical importance for life-sustaining functions.
 
 ## Normal Values
 
@@ -30,7 +30,7 @@ extraction-date: 2026-03-01
 ## Critical Functions Requiring Tight Control
 
 ### 1. Neuromuscular Excitability
-**Mechanism:**
+**[[KEYWORD-Mechanism|mechanism]]:**
 - Calcium modulates sodium channel opening
 - Extracellular Ca²⁺ inversely related to excitability
 - Low Ca²⁺ → Hyperexcitability (tetany)

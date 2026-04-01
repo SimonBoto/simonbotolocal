@@ -14,9 +14,9 @@ updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
 ---
 
-# Biomarkers in Precision Medicine — Predictive, Prognostic, and Pharmacodynamic
+# [[KEYWORD-Biomarker|biomarker]]s in Precision Medicine — Predictive, Prognostic, and Pharmacodynamic
 
-Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."** Biomarkers are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
+Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."** [[KEYWORD-Biomarker|biomarkers]] are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
 
 ## Biomarker Definition (NIH)
 
@@ -44,7 +44,7 @@ Biomarkers can originate from **any omics level:**
 - **Genomics:** Genetic risk variants
 - **Transcriptomics:** Expression signatures
 - **Proteomics:** Protein biomarkers (PSA, troponins)
-- **Metabolomics:** Small molecule profiles (glucose, lipids, organic acids)
+- **[[KEYWORD-Metabolomics|metabolomics]]:** Small molecule profiles (glucose, lipids, organic acids)
 - **Multi-omics:** Combined signatures for maximum predictive power
 
 ## Biomarker Development Pipeline

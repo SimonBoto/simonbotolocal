@@ -32,11 +32,11 @@ extraction-date: 2026-03-01
 - Preserves membrane integrity
 
 **Cellular Effects:**
-- Improved insulin sensitivity
+- Improved [[KEYWORD-Insulin|insulin]] sensitivity
 - Anti-inflammatory gene expression
-- Enhanced lipid metabolism
+- Enhanced lipid [[KEYWORD-Metabolism|metabolism]]
 
-## Clinical Evidence
+## [[KEYWORD-Clinical|clinical]] Evidence
 
 **PREDIMED:**
 - Mediterranean + olive oil

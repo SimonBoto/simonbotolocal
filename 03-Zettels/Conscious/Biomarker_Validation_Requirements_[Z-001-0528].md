@@ -13,7 +13,7 @@ created: 2026-03-03
 source-litnote: Synthesized from clinical practice
 ---
 
-# Validation Requirements for Biomarker Translation
+# Validation Requirements for [[KEYWORD-Biomarker|biomarker]] Translation
 
 ## Core Concept
 
@@ -28,7 +28,7 @@ Biomarker discovery without validation is **hypothesis generation**, not clinica
 - **Analysis:** High-dimensional screen
 - **Threshold:** FDR = 0.1
 - **Output:** Candidate list
-- **Claim strength:** "Candidate biomarkers identified"
+- **Claim strength:** "Candidate [[KEYWORD-Biomarker|biomarkers]] identified"
 
 ### Level 2: Verification (Internal Validation)
 - **Sample:** Independent split from discovery cohort OR separate lab batch
@@ -127,7 +127,7 @@ Studies show **<50% replication rate** for omics biomarkers:
 
 ❌ **Pattern:** Discovery → Publication → No follow-up
 ❌ **Result:** "Biomarker" never tested again, likely false positive
-❌ **Example:** Many published metabolomics biomarkers (circa 2010s) unreplicated
+❌ **Example:** Many published [[KEYWORD-Metabolomics|metabolomics]] biomarkers (circa 2010s) unreplicated
 
 ### Failure Mode 2: Improper "Validation"
 

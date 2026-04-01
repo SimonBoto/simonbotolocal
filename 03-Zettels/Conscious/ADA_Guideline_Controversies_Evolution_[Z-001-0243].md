@@ -27,7 +27,7 @@ extraction-date: 2026-03-01
 
 **ACCORD Study Impact (2008):**
 - Intensive glucose lowering (HbA1c <6%) increased mortality
-- Shocked diabetes community
+- Shocked [[KEYWORD-Diabetes|diabetes]] community
 - Led to rapid guideline revision
 - Emphasis on individualization
 
@@ -69,14 +69,14 @@ extraction-date: 2026-03-01
 - Cost-effectiveness concerns
 
 **From Patient Advocates:**
-- Insulin pricing inaction
+- [[KEYWORD-Insulin|insulin]] pricing inaction
 - Insufficient focus on access
 - Guidelines don't account for cost
 
 ## METHAP Relevance
 
 **Alternative Approach:**
-- METHAP represents metabolic/nutritional focus
+- METHAP represents metabolic/[[KEYWORD-Nutrition|nutrition]]al focus
 - High-dose nutrients vs. pharmaceuticals
 - Early detection vs. late treatment
 - Outside mainstream ADA approach

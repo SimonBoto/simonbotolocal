@@ -16,14 +16,14 @@ created: 2026-03-08
 # Acetyl CoA Central Metabolic Connector
 
 ## Overview
-Acetyl-CoA is the central metabolic hub connecting carbohydrate, fat, and protein metabolism to the Krebs cycle and multiple biosynthetic pathways.
+Acetyl-CoA is the central metabolic hub connecting carbohydrate, fat, and protein [[KEYWORD-Metabolism|metabolism]] to the Krebs cycle and multiple biosynthetic pathways.
 
 ## Sources of Acetyl-CoA
 
 ### Carbohydrate
 | Pathway | Enzyme | Location |
 |---------|--------|----------|
-| **Glycolysis → Pyruvate → Acetyl-CoA** | Pyruvate dehydrogenase | Mitochondria |
+| **Glycolysis → Pyruvate → Acetyl-CoA** | Pyruvate dehydrogenase | [[KEYWORD-Mitochondria|mitochondria]] |
 
 ### Fat
 | Pathway | Enzyme | Location |
@@ -68,7 +68,7 @@ Acetyl-CoA
 
 ## Regulation by Metabolic State
 
-### Fed State (High Insulin)
+### Fed State (High [[KEYWORD-Insulin|insulin]])
 | Pathway | Activity | Reason |
 |---------|----------|--------|
 | **PDH** | Active | Glucose → acetyl-CoA |

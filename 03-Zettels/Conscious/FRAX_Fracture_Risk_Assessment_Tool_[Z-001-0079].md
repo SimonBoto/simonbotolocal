@@ -15,11 +15,11 @@ status: conscious
 
 # FRAX Fracture Risk Assessment Tool
 
-FRAX® is a fracture risk assessment tool that integrates clinical risk factors (age, prior fracture, smoking, family history, hormone status) with BMD to guide treatment thresholds. It estimates 10-year probability of major osteoporotic fracture.
+FRAX® is a fracture risk assessment tool that integrates [[KEYWORD-Clinical|clinical]] risk factors (age, prior fracture, smoking, family history, hormone status) with BMD to guide treatment thresholds. It estimates 10-year probability of major osteoporotic fracture.
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
 **Source:** [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]]
 **Related:** [[Osteopenia_T_score_Definition_Minus_1_to_2.5_[Z-001-0076].md]], [[Osteoporosis_T_score_Definition_Minus_2.5_[Z-001-0077].md]]
 

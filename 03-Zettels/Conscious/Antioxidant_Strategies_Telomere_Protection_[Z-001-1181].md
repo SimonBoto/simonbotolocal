@@ -83,7 +83,7 @@ status: conscious
 **Mechanism:**
 - Regenerates vitamins C and E
 - Mitochondrial antioxidant
-- Improves insulin sensitivity
+- Improves [[KEYWORD-Insulin|insulin]] sensitivity
 
 **Dosing:** 300-600 mg/day
 **Evidence:** Promising for metabolic health; telomere data limited
@@ -128,7 +128,7 @@ status: conscious
 
 **Foundation:**
 1. **Diet:** Colorful plant foods, berries, green tea
-2. **Vitamin D:** 2000-4000 IU/day (anti-inflammatory)
+2. **[[KEYWORD-Vitamin_D|vitamin d]]:** 2000-4000 IU/day (anti-inflammatory)
 3. **Omega-3:** 2-4g EPA+DHA/day
 
 **Optional Additions:**
@@ -148,7 +148,7 @@ status: conscious
 ## Related
 
 - [[ROS_Mediated_Telomere_Damage_Pathways_[Z-001-1178].md]]
-- [[Inflammation_Oxidative_Stress_Vicious_Cycle_[Z-001-1180].md]]
+- [[[[KEYWORD-Inflammation|inflammation]]_Oxidative_Stress_Vicious_Cycle_[Z-001-1180].md]]
 - [[Nutritional_Telomere_Support_[Z-001-1188].md]]
 
 ---

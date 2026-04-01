@@ -21,7 +21,7 @@ Ensure participants understand the study, their rights, and protections before e
 | Element | Content |
 |---------|---------|
 | **Title** | Metabolomic Markers of Early Insulin Resistance (METHAP) |
-| **Purpose** | Identify early biomarkers using urine organic acids and plasma free fatty acids |
+| **Purpose** | Identify early [[KEYWORD-Biomarker|biomarker]]s using urine organic acids and plasma free fatty acids |
 | **Phases** | Observational study + optional 12-week intervention |
 | **Duration** | 42 months total; participant involvement varies by phase |
 
@@ -33,7 +33,7 @@ Ensure participants understand the study, their rights, and protections before e
 
 **Intervention Phase (subset):**
 - Low-carbohydrate diet counseling
-- Supplementation (Vitamin D, Magnesium, Omega-3, Glutamine, Vitamin C, Probiotics)
+- Supplementation ([[KEYWORD-Vitamin_D|vitamin d]], Magnesium, Omega-3, Glutamine, Vitamin C, Probiotics)
 - Follow-up visits at 4, 8, 12 weeks
 
 ### 3. Risks and Discomforts
@@ -67,7 +67,7 @@ Ensure participants understand the study, their rights, and protections before e
 | Supplement | EOΦ Approval | Purpose |
 |------------|--------------|---------|
 | Vitamin D3 | [Number] | Metabolic regulation |
-| Magnesium | [Number] | Glucose metabolism |
+| Magnesium | [Number] | Glucose [[KEYWORD-Metabolism|metabolism]] |
 | Omega-3 | [Number] | Anti-inflammatory |
 | Glutamine | [Number] | Gut health |
 | Vitamin C | [Number] | Antioxidant support |

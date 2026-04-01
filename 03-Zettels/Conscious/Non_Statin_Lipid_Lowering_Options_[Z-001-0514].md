@@ -17,7 +17,7 @@ extraction-date: 2026-03-01
 
 ## Ezetimibe
 
-**Mechanism:** Inhibits intestinal cholesterol absorption (NPC1L1)
+**[[KEYWORD-Mechanism|mechanism]]:** Inhibits intestinal [[KEYWORD-Cholesterol|cholesterol]] absorption (NPC1L1)
 **Efficacy:** LDL ↓ 15-20% mono, +20% with statin
 **Trial:** IMPROVE-IT showed incremental benefit
 **Use:** Add-on or statin alternative
@@ -65,4 +65,4 @@ extraction-date: 2026-03-01
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
-- [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]
+- [[FRAX_Limitations_[[KEYWORD-Clinical|clinical]]_Gaps_[Z-001-0111]|Z-001-0111]]

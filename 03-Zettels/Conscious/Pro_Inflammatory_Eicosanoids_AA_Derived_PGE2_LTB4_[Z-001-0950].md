@@ -98,7 +98,7 @@ Free AA released from membrane
 ### Eicosanoid Overproduction
 | Dietary State | Tissue AA | Eicosanoid Output | Clinical Result |
 |--------------|-----------|-------------------|-----------------|
-| **Low omega-6 (ancestral)** | Low | Minimal | Basal inflammation |
+| **Low omega-6 (ancestral)** | Low | Minimal | Basal [[KEYWORD-Inflammation|inflammation]] |
 | **High omega-6 (modern)** | High | Excessive | Chronic inflammation |
 
 ### COX-2 Induction
@@ -131,7 +131,7 @@ Free AA released from membrane
 4. **LOX inhibitors:** Zileuton (asthma)
 5. **Corticosteroids:** Block PLA2 (prevents AA release)
 
-### Biomarkers
+### [[KEYWORD-Biomarker|biomarker]]s
 - **Urinary PGE-M:** PGE2 metabolite
 - **Serum LTB4:** Leukotriene levels
 - **AA:EPA ratio:** Predicts eicosanoid balance
@@ -149,6 +149,6 @@ Free AA released from membrane
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

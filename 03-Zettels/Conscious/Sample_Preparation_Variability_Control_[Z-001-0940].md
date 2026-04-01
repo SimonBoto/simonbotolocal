@@ -9,7 +9,7 @@ parent-moc: [[MOC-Research-Methods]]
 status: conscious
 ---
 
-# Sample Preparation Variability Control in Metabolomics
+# Sample Preparation Variability Control in [[KEYWORD-Metabolomics|metabolomics]]
 
 ## The Problem
 > "Visual consistency doesn't necessarily confirm statistical significance or biological relevance"
@@ -22,7 +22,7 @@ Sample preparation introduces **greater variation than biological differences** 
 | Factor | Impact | Standardization |
 |--------|--------|-----------------|
 | **Fasting status** | Lipid/glucose metabolites vary | 8-12 hour fast required |
-| **Time of day** | Cortisol, fatty acids circadian | Collect same time ±2 hours |
+| **Time of day** | Cortisol, [[KEYWORD-Fatty_Acids|fatty acids]] circadian | Collect same time ±2 hours |
 | **Tourniquet time** | Lactic acid, potassium increase | < 1 minute |
 | **Tube type** | Serum vs plasma differences | Standardize one type |
 
@@ -95,7 +95,7 @@ Sample preparation introduces **greater variation than biological differences** 
 - < 10% variance = pre-analytical
 - Biological differences detectable
 - Replicable across sites
-- Valid clinical translation
+- Valid [[KEYWORD-Clinical|clinical]] translation
 
 ## Special Considerations
 

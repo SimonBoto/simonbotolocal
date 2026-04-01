@@ -110,7 +110,7 @@ Observed d = 0.25 (closer to truth)
 ### Real-World Impact
 
 **Pharma/Biotech Losses:**
-- Biomarkers fail to validate
+- [[KEYWORD-Biomarker|biomarker]]s fail to validate
 - Drug targets don't replicate
 - Billions wasted on false leads
 - Patient trials with ineffective agents
@@ -137,7 +137,7 @@ Observed d = 0.25 (closer to truth)
 
 **Per Study:**
 - Sample collection: $50-200 per sample
-- Metabolomics analysis: $200-500 per sample
+- [[KEYWORD-Metabolomics|metabolomics]] analysis: $200-500 per sample
 - Bioinformatics: Weeks of analyst time
 - Total: $50,000-200,000 per underpowered study
 
@@ -161,7 +161,7 @@ Observed d = 0.25 (closer to truth)
 **Evidence:**
 - Gene expression signatures: <20% replicate
 - GWAS hits: Many false positives in early studies
-- Metabolomics biomarkers: High failure rate
+- Metabolomics [[KEYWORD-Biomarker|biomarkers]]: High failure rate
 - Protein markers: Similar problems
 
 **Root Cause:**

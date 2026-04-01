@@ -94,7 +94,7 @@ Sincerely,
 1. Committee administrator
 2. Committee chair
 3. Department head
-4. Research integrity office
+4. [[KEYWORD-Research|research]] integrity office
 5. Institutional ombudsman
 
 ## Ongoing Communication

@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]]
 extraction-date: 2026-03-01
 ---
 
-# Zn and Se — Nutritional Sources and Supplementation
+# Zn and Se — [[KEYWORD-Nutrition|nutrition]]al Sources and Supplementation
 
 ## Zinc Sources
 
@@ -56,7 +56,7 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]]*
+*Source: [[LitNote_Zinc_Selenium_[[KEYWORD-Mitochondria|mitochondria]]l_L-001-0510]]*
 
 
 ## RELATED FILES

@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Self_Education_Clinical_Team_L-001-0620]]"
 status: conscious
 ---
 
-# GitHub for Clinical Knowledge Management
+# GitHub for [[KEYWORD-Clinical|clinical]] Knowledge Management
 
 ## Why GitHub for Medical Teams?
 
@@ -45,8 +45,8 @@ Traditional medical knowledge management relies on static documents, shared driv
 ```
 clinical-knowledge/
 ├── protocols/
-│   ├── insulin-resistance/
-│   ├── vitamin-d-optimization/
+│   ├── [[KEYWORD-Insulin|insulin]]-resistance/
+│   ├── [[KEYWORD-Vitamin_D|vitamin-d]]-optimization/
 │   └── detoxification/
 ├── cases/
 │   ├── 2026/

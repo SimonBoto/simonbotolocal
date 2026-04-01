@@ -52,13 +52,13 @@ Key research supporting Mediterranean diet for metabolic health.
 ## Metabolic Syndrome
 
 ### Sleiman D, et al. 2015
-**Title:** *Effect of Mediterranean diet in diabetes control and insulin sensitivity.*  
+**Title:** *Effect of Mediterranean diet in diabetes control and [[KEYWORD-Insulin|insulin]] sensitivity.*  
 **Journal:** Front Public Health 3:69  
 **Finding:** Improved glycemic control and insulin sensitivity  
 **Clinical application:** Type 2 diabetes management
 
 ### Vetrani C, et al. 2023
-**Title:** *Mediterranean diet adherence and insulin resistance.*  
+**Title:** *Mediterranean diet adherence and [[KEYWORD-Insulin_Resistance|insulin resistance]].*  
 **Journal:** Nutrients  
 **Finding:** Higher adherence → lower HOMA-IR  
 **Clinical application:** IR prevention and reversal
@@ -69,7 +69,7 @@ Key research supporting Mediterranean diet for metabolic health.
 |-----------|-------------------|
 | **Olive oil** | MUFA, polyphenols, anti-inflammatory |
 | **Fatty fish** | EPA/DHA, omega-3 index |
-| **Nuts** | Magnesium, healthy fats |
+| **Nuts** | [[KEYWORD-Magnesium|magnesium]], healthy fats |
 | **Vegetables** | Polyphenols, fiber |
 | **Legumes** | Protein, fiber, low GI |
 | **Whole grains** | Fiber, B-vitamins |

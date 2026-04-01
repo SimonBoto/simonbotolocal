@@ -16,7 +16,7 @@ created: 2026-03-03
 
 ## Core Concept
 
-The fatty acid composition of egg yolks is **directly determined by the hen's diet**. Hens fed corn- and grain-based diets produce eggs with omega-6:3 ratios of **10-12:1**, while omega-3 enriched diets can improve this to **3-4:1**, and pasture-raised hens produce eggs with ratios around **5:1**.
+The fatty acid composition of egg yolks is **directly determined by the hen's diet**. Hens fed corn- and grain-based diets produce eggs with [[KEYWORD-Omega_6|omega-6]]:3 ratios of **10-12:1**, while omega-3 enriched diets can improve this to **3-4:1**, and pasture-raised hens produce eggs with ratios around **5:1**.
 
 ---
 
@@ -25,7 +25,7 @@ The fatty acid composition of egg yolks is **directly determined by the hen's di
 ### Conventional Eggs (Corn/Grain Fed)
 | Metric | Value |
 |--------|-------|
-| **Linoleic acid** | ~18-20% of total fatty acids |
+| **Linoleic acid** | ~18-20% of total [[KEYWORD-Fatty_Acids|fatty acids]] |
 | **Total omega-6** | ~25-30% of total fatty acid pool |
 | **Omega-6:3 ratio** | ~10:1 to 12:1 |
 | **Assessment** | Less favorable, pro-inflammatory tendency |
@@ -78,7 +78,7 @@ The fatty acid composition of egg yolks is **directly determined by the hen's di
 |------|-----------------|-------------|----------|
 | **Conventional** | 10-12:1 | Widely available, low cost | Budget-conscious |
 | **Pasture-raised** | ~5:1 | Natural diet, ethical concerns | Quality-focused |
-| **Omega-3 enriched** | 3-4:1 | Optimized fatty acid profile | Inflammation management |
+| **Omega-3 enriched** | 3-4:1 | Optimized fatty acid profile | [[KEYWORD-Inflammation|inflammation]] management |
 
 ### Cost-Benefit Consideration
 | Type | Relative Cost | Health Impact |

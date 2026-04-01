@@ -40,12 +40,12 @@ If 80% of disease risk comes from **environmental modulation of phenotype**, the
 
 ## METHAP Trial Relevance
 
-**Vitamin D as Environmental Factor:**
+**[[KEYWORD-Vitamin_D|vitamin d]] as Environmental Factor:**
 - Vitamin D status is determined by:
   - Sunlight exposure (environmental)
   - Dietary intake (environmental)
   - Supplementation (interventional)
-  - Genetic variation in metabolism (20%)
+  - Genetic variation in [[KEYWORD-Metabolism|metabolism]] (20%)
 
 → **80% modifiable** through intervention
 
@@ -71,7 +71,7 @@ If 80% of disease risk comes from **environmental modulation of phenotype**, the
 
 ## Context
 
-**Also relevant to:** [[MOC-PhD-METHAP-Trial]], [[MOC-Vitamin-D-Mechanisms]], [[MOC-Chronic-Disease]]
+**Also relevant to:** [[MOC-PhD-METHAP-Trial]], [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]], [[MOC-Chronic-Disease]]
 
 **Emerges from:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 **Supports:** [[IR_Mechanisms_Map]] — Environmental drivers of insulin resistance

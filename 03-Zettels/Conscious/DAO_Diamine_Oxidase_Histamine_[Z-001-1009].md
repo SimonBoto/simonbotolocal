@@ -11,7 +11,7 @@ source-litnote: [[LitNote_MAO_DAO_Enzymes_L-001-0582]]
 status: conscious
 ---
 
-# DAO Diamine Oxidase — Histamine Metabolism and Intestinal Function
+# DAO Diamine Oxidase — Histamine [[KEYWORD-Metabolism|metabolism]] and Intestinal Function
 
 ## Overview
 
@@ -244,7 +244,7 @@ Histamine + O2 + H2O → Imidazoleacetaldehyde + NH3 + H2O2
 
 ## Research Frontiers
 
-### DAO as Biomarker
+### DAO as [[KEYWORD-Biomarker|biomarker]]
 
 **Potential Applications:**
 - Intestinal permeability marker
@@ -288,6 +288,6 @@ Histamine + O2 + H2O → Imidazoleacetaldehyde + NH3 + H2O2
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/CRP_[B-002-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

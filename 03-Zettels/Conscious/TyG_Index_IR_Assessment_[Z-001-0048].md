@@ -52,7 +52,7 @@ $$
 
 ---
 
-## 🔗 Connected Biomarkers
+## 🔗 Connected [[KEYWORD-Biomarker|biomarker]]s
 
 **IR Core Panel:**
 - [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (traditional measure)
@@ -64,7 +64,7 @@ $$
 - [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md]] — Triglycerides (TyG numerator)
 
 **Mechanism Context:**
-- [[Phenotype_Mapping_Metabolomics_Z-001-0018.md]] — Lipotoxicity (elevated TG → IR)
+- [[Phenotype_Mapping_[[KEYWORD-Metabolomics|metabolomics]]_Z-001-0018.md]] — Lipotoxicity (elevated TG → IR)
 - [[MAPK_Mitogenic_Pathway_[Z-001-0016]]] — Mitochondrial dysfunction (impaired lipid oxidation)
 
 ---
@@ -159,6 +159,6 @@ patient_id,visit,fasting_tg_mg_dl,fasting_glucose_mg_dl,tyg_index,tyg_status
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

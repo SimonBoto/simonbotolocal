@@ -16,7 +16,7 @@ created: 2026-03-08
 # Organic Acids Structures Functions
 
 ## Overview
-Reference table of key organic acids in metabolism—their structures, sources, and clinical significance in organic acids testing (OAT).
+Reference table of key organic acids in [[KEYWORD-Metabolism|metabolism]]—their structures, sources, and clinical significance in organic acids testing (OAT).
 
 ## Krebs Cycle Organic Acids
 
@@ -45,7 +45,7 @@ Reference table of key organic acids in metabolism—their structures, sources, 
 | **Adipate** | 6C dicarboxylic | Adipate | General FAO stress |
 | **Ethylmalonate** | 5C, ethyl branch | Ethylmalonate | Multiple FAO deficiency |
 
-## B-Vitamin Dependent Markers
+## B-[[KEYWORD-Vitamin_D|vitamin d]]ependent Markers
 
 | Acid | Related AA/Vitamin | OAT Marker | Deficiency Indicated |
 |------|-------------------|------------|---------------------|
@@ -101,7 +101,7 @@ Reference table of key organic acids in metabolism—their structures, sources, 
 ## Related
 - [[Cofactor_Deficiency_Metabolite_Patterns_[Z-001-1105].md]]
 | [[OAT_Category_Interpretation_Framework_[Z-001-1065].md]]
-| [[MOC-Metabolomics-Analysis]]
+| [[MOC-[[KEYWORD-Metabolomics|metabolomics]]-Analysis]]
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

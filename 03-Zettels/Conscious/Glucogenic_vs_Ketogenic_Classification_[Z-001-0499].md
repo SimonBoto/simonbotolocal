@@ -15,7 +15,7 @@ source: [[L-001-0046A]]
 
 ## The Categories
 
-### Glucogenic Only (14 amino acids)
+### Glucogenic Only (14 [[KEYWORD-Amino_Acids|amino acids]])
 Can be converted to glucose via gluconeogenesis.
 
 **List:**
@@ -60,9 +60,9 @@ Yield both glucogenic and ketogenic products.
 | **Both** | 4 | Ile, Phe, Trp, Tyr |
 | **Total** | 20 | All amino acids |
 
-## Clinical Relevance
+## [[KEYWORD-Clinical|clinical]] Relevance
 
-### Fasting Metabolism
+### Fasting [[KEYWORD-Metabolism|metabolism]]
 **Glucogenic amino acids:**
 - Can maintain blood glucose
 - Spared initially during fasting

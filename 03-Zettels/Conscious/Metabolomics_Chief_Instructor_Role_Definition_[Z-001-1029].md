@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Metabolomics Chief Instructor Role Definition
+# [[KEYWORD-Metabolomics|metabolomics]] Chief Instructor Role Definition
 
 ## Core Concept
 The **Metabolomics Chief Instructor (MCI)** is a hybrid training role designed specifically for metabolomics clinic education. It transcends conventional "scientific advisor" or "tour guide" approaches by integrating three simultaneous demands.
@@ -22,7 +22,7 @@ The **Metabolomics Chief Instructor (MCI)** is a hybrid training role designed s
 
 | Demand | Requirement | Failure Mode |
 |--------|-------------|--------------|
-| **Absolute Scientific Precision** | Metabolomics, mechanisms, biomarkers, clinical interpretation | Superficial understanding |
+| **Absolute Scientific Precision** | Metabolomics, mechanisms, [[KEYWORD-Biomarker|biomarker]]s, clinical interpretation | Superficial understanding |
 | **Cognitive Scaffolding** | Teaching *how to think*, not just *what to know* | Pattern recognition failure |
 | **Operational Discipline** | Real clinic workflow, patient flow, quality standards | Theory-practice gap |
 
@@ -47,6 +47,6 @@ This role enables the clinic to evolve from **personality-driven** (single exper
 *Source: CGPT-0022 — ChatGPT training synthesis*
 
 ## RELATED FILES
-- [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

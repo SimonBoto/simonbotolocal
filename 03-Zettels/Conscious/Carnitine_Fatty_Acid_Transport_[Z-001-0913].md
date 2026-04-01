@@ -113,9 +113,9 @@ Your PhD analyzes **plasma trans fatty acids (TFA)**. Carnitine is essential for
 ### Hypothesized VD-Carnitine-TFA Interaction
 
 **Potential mechanism:**
-1. Vitamin D modulates **carnitine synthesis** ( trimethyllysine hydroxylase requires VD?)
+1. [[KEYWORD-Vitamin_D|vitamin d]] modulates **carnitine synthesis** ( trimethyllysine hydroxylase requires VD?)
 2. VD affects **CPT I expression** (gene transcription via VDR)
-3. Carnitine status affects **TFA metabolism**
+3. Carnitine status affects **TFA [[KEYWORD-Metabolism|metabolism]]**
 4. Optimized TFA oxidation → improved insulin sensitivity
 
 **Evidence gaps:**
@@ -123,7 +123,7 @@ Your PhD analyzes **plasma trans fatty acids (TFA)**. Carnitine is essential for
 - [ ] Does carnitine status modify TFA metabolism?
 - [ ] Does VD + carnitine optimization improve IR more than VD alone?
 
-### Plasma TFA as Biomarker
+### Plasma TFA as [[KEYWORD-Biomarker|biomarker]]
 
 Your plasma TFA measurements may reflect:
 - **Dietary intake** (primary source of TFA)

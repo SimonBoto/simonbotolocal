@@ -9,7 +9,7 @@ parent-moc: [[MOC-Bone-Health]]
 status: conscious
 ---
 
-# FRAX Limitations — Clinical Gaps and Underestimation Risks
+# FRAX Limitations — [[KEYWORD-Clinical|clinical]] Gaps and Underestimation Risks
 
 ## Core Principle
 FRAX is a **population-level prediction tool** with specific blind spots that require clinical judgment to avoid underestimating individual fracture risk.
@@ -90,8 +90,8 @@ FRAX is a **population-level prediction tool** with specific blind spots that re
 
 **Missing:** Severity, control, duration:
 - Well-controlled hypothyroidism vs. untreated
-- 1 year vs. 20 years of diabetes
-- Malnutrition severity
+- 1 year vs. 20 years of [[KEYWORD-Diabetes|diabetes]]
+- Mal[[KEYWORD-Nutrition|nutrition]] severity
 
 ### 7. No Fall-Related Risk Factors
 

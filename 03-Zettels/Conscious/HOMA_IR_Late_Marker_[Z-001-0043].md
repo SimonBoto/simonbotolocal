@@ -15,7 +15,7 @@ source-litnote: Synthesized from clinical practice
 
 # HOMA-IR is a Late Marker Despite Its Name
 
-HOMA-IR (Homeostatic Model Assessment for Insulin Resistance) requires elevated glucose to calculate — meaning beta-cell dysfunction must already be present. Despite being called an "insulin resistance" index, it primarily reflects beta-cell inadequacy.
+HOMA-IR (Homeostatic Model Assessment for [[KEYWORD-Insulin|insulin]] Resistance) requires elevated glucose to calculate — meaning beta-cell dysfunction must already be present. Despite being called an "insulin resistance" index, it primarily reflects beta-cell inadequacy.
 
 **The problem:** HOMA-IR = (fasting insulin × fasting glucose) / 405. If glucose is normal (compensatory stage), HOMA-IR underestimates IR severity. Only when glucose rises (beta-cell exhaustion) does HOMA-IR become abnormal.
 
@@ -41,13 +41,13 @@ HOMA-IR (Homeostatic Model Assessment for Insulin Resistance) requires elevated 
 
 **Also relevant to:** [[MOC-Clinical-Assessment]], [[MOC-Diagnostics]]
 
-**Emerges from:** Biomarkers Taxonomy synthesis document
+**Emerges from:** [[KEYWORD-Biomarker|biomarker]]s Taxonomy synthesis document
 
 ---
 
 *UID: Z-001-0043 | Domain: 001 | Created: 2026-02-24*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

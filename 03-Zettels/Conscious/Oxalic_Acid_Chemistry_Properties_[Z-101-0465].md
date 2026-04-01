@@ -31,10 +31,10 @@ status: conscious
 ## Chemical Behavior
 - **Reducing agent:** Can donate electrons in organic reactions
 - **Metal chelation:** Binds divalent cations (Ca²⁺, Mg²⁺, Fe²⁺)
-- **Precipitation:** Forms insoluble salts (calcium oxalate most clinically relevant)
+- **Precipitation:** Forms insoluble salts (calcium oxalate most [[KEYWORD-Clinical|clinical]]ly relevant)
 
 ## Industrial Applications (Contextual)
-| Use | Mechanism |
+| Use | [[KEYWORD-Mechanism|mechanism]] |
 |-----|-----------|
 | Rust removal | Chelates iron oxides |
 | Wood bleaching | Oxidative lightening |
@@ -42,7 +42,7 @@ status: conscious
 
 ## Relevance to PhD Work
 - **Comparator molecule:** Understanding oxalate chemistry informs adipic acid marker design
-- **Metabolic endpoint:** Oxalate represents end-product metabolism; adipic acid may offer earlier signal
+- **Metabolic endpoint:** Oxalate represents end-product [[KEYWORD-Metabolism|metabolism]]; adipic acid may offer earlier signal
 - **Analytical consideration:** Both dicarboxylic acids — similar chromatographic behavior, different clinical meaning
 
 ## Related

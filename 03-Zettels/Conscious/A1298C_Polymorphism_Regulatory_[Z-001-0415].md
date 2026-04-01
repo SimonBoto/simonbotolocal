@@ -39,9 +39,9 @@ extraction-date: 2026-03-01
 **Compound Heterozygote (C677T/A1298C):**
 - One copy of each variant
 - ~50-60% enzyme activity
-- Significant folate requirement increase
+- Significant [[KEYWORD-Folate|folate]] requirement increase
 
-## Clinical
+## [[KEYWORD-Clinical|clinical]]
 
 **Associations:**
 - Mood disorders (depression, anxiety)

@@ -38,11 +38,11 @@ The microbiome:
 - Synthesizes neurotransmitters
 - Influences mood and cognition
 
-## Clinical Approach
-> "Energy before gut" — Mitochondrial support precedes aggressive gut protocols.
+## [[KEYWORD-Clinical|clinical]] Approach
+> "Energy before gut" — [[KEYWORD-Mitochondria|mitochondria]]l support precedes aggressive gut protocols.
 
 ## Related
-- [[MOC-Metabolomics-Analysis]]
+- [[MOC-[[KEYWORD-Metabolomics|metabolomics]]-Analysis]]
 - [[Patient_Communication_Core_Concepts_[Z-001-1047].md]]
 
 ---

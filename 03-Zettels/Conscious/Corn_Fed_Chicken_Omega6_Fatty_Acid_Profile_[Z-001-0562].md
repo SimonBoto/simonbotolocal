@@ -12,7 +12,7 @@ confidence: high
 created: 2026-03-03
 ---
 
-# Corn-Fed Chicken Omega-6 Fatty Acid Profile
+# Corn-Fed Chicken [[KEYWORD-Omega_6|omega-6]] Fatty Acid Profile
 
 ## Core Concept
 
@@ -45,7 +45,7 @@ Chickens fed predominantly on corn and grain-based diets accumulate significantl
 
 ### 2. Metabolic Processing
 - **Efficient deposition:** Dietary fatty acids incorporated with minimal modification
-- **Genetic factors:** Breed differences in fatty acid metabolism
+- **Genetic factors:** Breed differences in fatty acid [[KEYWORD-Metabolism|metabolism]]
 - **Health status:** Overall health influences deposition efficiency
 
 ### 3. Tissue Distribution
@@ -60,7 +60,7 @@ Chickens fed predominantly on corn and grain-based diets accumulate significantl
 ### Inflammatory Potential
 - **15-20:1 omega-6:3 ratio** creates pro-inflammatory milieu
 - **Linoleic acid** → arachidonic acid → pro-inflammatory eicosanoids
-- Contribution to systemic inflammation when consumed regularly
+- Contribution to systemic [[KEYWORD-Inflammation|inflammation]] when consumed regularly
 
 ### Patient Counseling Points
 1. **Conventional chicken** is a significant omega-6 source

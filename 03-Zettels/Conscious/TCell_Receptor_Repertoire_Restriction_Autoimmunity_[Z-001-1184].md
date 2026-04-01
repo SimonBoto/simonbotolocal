@@ -35,7 +35,7 @@ status: conscious
 - Loss of diversity
 - Restricted TCR usage
 
-**Mechanism:**
+**[[KEYWORD-Mechanism|mechanism]]:**
 ```
 Self-Antigen Recognition
       ↓
@@ -53,7 +53,7 @@ Reduced Repertoire Diversity
 **Autoreactive Clones:**
 - Expanded clones often autoreactive
 - Persist despite regulation attempts
-- Drive chronic inflammation
+- Drive chronic [[KEYWORD-Inflammation|inflammation]]
 
 **Infection Susceptibility:**
 - Limited response to novel pathogens
@@ -90,7 +90,7 @@ Reduced Repertoire Diversity
 - Persistent over years
 
 ### Type 1 Diabetes
-- Insulin-specific TCRs
+- [[KEYWORD-Insulin|insulin]]-specific TCRs
 - Proinsulin-reactive clones
 - Early in disease process
 

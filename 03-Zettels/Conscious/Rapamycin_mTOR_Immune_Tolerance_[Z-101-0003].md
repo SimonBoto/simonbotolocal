@@ -14,9 +14,9 @@ created: 2026-02-24
 
 # Rapamycin mTOR Inhibition and Immune Tolerance
 
-Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central regulator of cellular metabolism and immune cell activation. mTOR hyperactivation precedes SLE onset and correlates with comorbidity presence — making it a therapeutic target for restoring immune homeostasis.
+Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central regulator of cellular [[KEYWORD-Metabolism|metabolism]] and immune cell activation. mTOR hyperactivation precedes SLE onset and correlates with comorbidity presence — making it a therapeutic target for restoring immune homeostasis.
 
-**Mechanism in T-cells:**
+**[[KEYWORD-Mechanism|mechanism]] in T-cells:**
 - mTOR inhibition → ↓ IL-2 and IFN-γ production (pro-inflammatory cytokines)
 - Promotes regulatory T-cell differentiation and function
 - Blocks effector T-cell proliferation
@@ -31,7 +31,7 @@ Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central reg
 - Restores cellular homeostasis
 - mTOR activation predictive of disease flare
 
-**METHAP Connection:** mTOR is a central hub linking metabolism and immunity — Vitamin D also modulates mTOR signaling, suggesting metabolic-immunologic crosstalk as a therapeutic target.
+**METHAP Connection:** mTOR is a central hub linking metabolism and immunity — [[KEYWORD-Vitamin_D|vitamin d]] also modulates mTOR signaling, suggesting metabolic-immunologic crosstalk as a therapeutic target.
 
 ## Key Details
 

@@ -23,7 +23,7 @@ extraction-date: 2026-03-02
 **Metabolic Block:**
 - Defective MCAD enzyme
 - Cannot perform first step of medium-chain FA β-oxidation
-- Accumulation of C6-C10 fatty acids
+- Accumulation of C6-C10 [[KEYWORD-Fatty_Acids|fatty acids]]
 
 **Laboratory Pattern:**
 - **Dicarboxylic acids:** Elevated (adipate, suberate, sebacate)
@@ -44,7 +44,7 @@ extraction-date: 2026-03-02
 
 **Metabolic Block:**
 - Cannot conjugate long-chain FAs with carnitine
-- FAs cannot enter mitochondria
+- FAs cannot enter [[KEYWORD-Mitochondria|mitochondria]]
 
 **Laboratory Pattern:**
 - **Dicarboxylic acids:** Elevated (often very high)
@@ -89,7 +89,7 @@ extraction-date: 2026-03-02
 **Severe, rare defect**
 
 **Metabolic Block:**
-- Cannot transport acylcarnitines across inner mitochondrial membrane
+- Cannot transport acylcarnitines across inner [[KEYWORD-Mitochondria|mitochondrial]] membrane
 
 **Clinical Presentation:**
 - Severe neonatal onset

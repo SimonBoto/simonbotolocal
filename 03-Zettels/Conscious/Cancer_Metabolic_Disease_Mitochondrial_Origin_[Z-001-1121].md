@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Cancer Metabolic Disease Mitochondrial Origin
+# Cancer Metabolic Disease [[KEYWORD-Mitochondria|mitochondria]]l Origin
 
 ## Overview
 Thomas Seyfried proposes that cancer is fundamentally a metabolic disease originating from mitochondrial dysfunction, challenging the somatic mutation theory.
@@ -96,7 +96,7 @@ Malignant Transformation
 | Intervention | Effect |
 |--------------|--------|
 | **Ketogenic diet** | Chronic glucose restriction |
-| **Caloric restriction** | Lower insulin/IGF-1 |
+| **Caloric restriction** | Lower [[KEYWORD-Insulin|insulin]]/IGF-1 |
 | **Target:** | Fermentation-dependent cells |
 
 ### Pulse (Acute Intervention)
@@ -126,7 +126,7 @@ Malignant Transformation
 ## Related
 - [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_[Z-001-1122].md]]
 - [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_[Z-001-1123].md]]
-- [[MOC-Cancer-Metabolism]]
+- [[MOC-Cancer-[[KEYWORD-Metabolism|metabolism]]]]
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*

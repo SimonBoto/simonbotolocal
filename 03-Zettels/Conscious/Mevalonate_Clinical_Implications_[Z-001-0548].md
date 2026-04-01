@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Mevalonate_Pathway_L-001-0509]]
 extraction-date: 2026-03-01
 ---
 
-# Mevalonate Pathway — Clinical Implications
+# Mevalonate Pathway — [[KEYWORD-Clinical|clinical]] Implications
 
-> Understanding the pathway illuminates statin mechanism, side effects, and guides CoQ10 supplementation.
+> Understanding the pathway illuminates statin [[KEYWORD-Mechanism|mechanism]], side effects, and guides CoQ10 supplementation.
 
 ## Statin Effects
 
@@ -27,7 +27,7 @@ extraction-date: 2026-03-01
 | Effect | Frequency | Mechanism |
 |--------|-----------|-----------|
 | **Myalgia** | 5-10% | CoQ10 depletion |
-| **Fatigue** | Common | Mitochondrial dysfunction |
+| **Fatigue** | Common | [[KEYWORD-Mitochondria|mitochondria]]l dysfunction |
 | **Rhabdomyolysis** | <0.1% | Severe muscle breakdown |
 
 ## Risk Factors

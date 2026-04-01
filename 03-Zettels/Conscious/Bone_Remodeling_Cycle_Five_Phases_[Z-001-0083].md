@@ -19,8 +19,8 @@ Bone remodeling is a 5-phase cycle: (1) Activation — osteoclast precursors rec
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
-**Source:** [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
+**Source:** [[LitNote_Bone_Remodeling_Cellular_[[KEYWORD-Mechanism|mechanism]]s_L-001-0011]]
 **Related:** [[Osteoclasts_Bone_Resorbing_Cells_[Z-001-0080].md]], [[Osteoblasts_Bone_Forming_Cells_[Z-001-0081].md]]
 
 ---

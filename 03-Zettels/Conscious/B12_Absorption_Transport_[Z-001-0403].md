@@ -57,7 +57,7 @@ extraction-date: 2026-03-01
 ### Transcobalamin II (TC II)
 - **Function:** Active delivery to cells
 - **Synthesis:** Liver, endothelial cells
-- **Mechanism:** TC II-B12 complex binds TC II receptor on cells
+- **[[KEYWORD-Mechanism|mechanism]]:** TC II-B12 complex binds TC II receptor on cells
 - **Uptake:** Receptor-mediated endocytosis
 - **Critical:** For cellular B12 delivery
 
@@ -84,7 +84,7 @@ extraction-date: 2026-03-01
 - Reabsorbed via IF mechanism
 - Conserves B12
 
-## Clinical Correlates
+## [[KEYWORD-Clinical|clinical]] Correlates
 
 | Condition | Mechanism | Result |
 |-----------|-----------|--------|
@@ -95,7 +95,7 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]*
+*Source: [[LitNote_One_Carbon_[[KEYWORD-Metabolism|metabolism]]_B12_L-001-0401]]*
 
 
 ## RELATED FILES

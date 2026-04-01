@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Magnesium Biochemistry Clinical Roles
+# [[KEYWORD-Magnesium|magnesium]] Biochemistry Clinical Roles
 
 ## Overview
 Magnesium is a cofactor for >300 enzymes, essential for ATP function, muscle relaxation, nerve conduction, glycolysis, and DNA repair.
@@ -45,7 +45,7 @@ Magnesium is a cofactor for >300 enzymes, essential for ATP function, muscle rel
 |--------|----------|
 | **Neuromuscular** | Muscle cramps, spasms, tetany, tremor |
 | **Cardiac** | Arrhythmias, hypertension |
-| **Metabolic** | Insulin resistance, glucose intolerance |
+| **Metabolic** | [[KEYWORD-Insulin|insulin]] resistance, glucose intolerance |
 | **Psychiatric** | Anxiety, depression, insomnia |
 
 ## Assessment Challenges
@@ -69,7 +69,7 @@ Magnesium is a cofactor for >300 enzymes, essential for ATP function, muscle rel
 ## Related
 - [[Vitamin_D_PTH_Calcium_Axis_[Z-001-1059].md]]
 - [[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052].md]]
-- [[MOC-Vitamin-Metabolism]]
+- [[MOC-Vitamin-[[KEYWORD-Metabolism|metabolism]]]]
 
 ---
 *Source: CGPT-0022 — Vitamin-mineral biochemistry*

@@ -35,10 +35,10 @@ updated: 2026-03-05
 - Gemfibrozil (avoid), fenofibrate (safer)
 - Amiodarone, verapamil
 
-## Mechanism
+## [[KEYWORD-Mechanism|mechanism]]
 
 - CoQ10 depletion
-- Mitochondrial dysfunction
+- [[KEYWORD-Mitochondria|mitochondria]]l dysfunction
 - Cell membrane instability
 
 ## Management

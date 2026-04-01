@@ -15,7 +15,7 @@ status: conscious
 
 # Vitamin K2 Directs Calcium Away from Soft Tissues
 
-Vitamin K2 (menaquinone) activates calcium-binding proteins that direct calcium to appropriate destinations: osteocalcin (incorporates calcium into bone matrix) and Matrix Gla Protein/MGP (inhibits calcium deposition in arteries/soft tissues). This prevents ectopic calcification from high vitamin D + calcium intake.
+Vitamin K2 (menaquinone) activates calcium-binding proteins that direct calcium to appropriate destinations: osteocalcin (incorporates calcium into bone matrix) and Matrix Gla Protein/MGP (inhibits calcium deposition in arteries/soft tissues). This prevents ectopic calcification from high [[KEYWORD-Vitamin_D|vitamin d]] + calcium intake.
 
 **Mechanism:**
 - **Vitamin D:** Increases intestinal calcium absorption
@@ -29,7 +29,7 @@ Vitamin K2 (menaquinone) activates calcium-binding proteins that direct calcium 
 
 ## Links
 
-**Parent MOC:** [[MOC-Vitamin-D-Metabolism]]
+**Parent MOC:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
 **Source:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]
 **Related:** [[Magnesium_Cofactor_Vitamin_D_Activation_[Z-001-0064]]], [[MOC-Vitamin-Safety]]
 

@@ -18,7 +18,7 @@ source: [[L-001-0046A]]
 | Amino Acid | Conversion | Key Enzyme | Notes |
 |------------|------------|------------|-------|
 | **Alanine** | Direct transamination | Alanine transaminase (ALT) | Glucose-alanine cycle |
-| **Cysteine** | → Pyruvate + H₂S | Cysteine desulfurase | Sulfur metabolism |
+| **Cysteine** | → Pyruvate + H₂S | Cysteine desulfurase | Sulfur [[KEYWORD-Metabolism|metabolism]] |
 | **Serine** | → Glycine → Pyruvate | Serine hydroxymethyltransferase (SHMT) | Folate-dependent |
 | **Glycine** | → Serine → Pyruvate | SHMT (reverse) | Folate-dependent |
 | **Threonine** | → Glycine → Pyruvate | Threonine aldolase | Split pathway |
@@ -43,7 +43,7 @@ Glucose → Muscle (via blood)
 
 ### Enzyme: ALT
 **Alanine aminotransferase:**
-- **Clinical marker:** Liver function
+- **[[KEYWORD-Clinical|clinical]] marker:** Liver function
 - **B6-dependent**
 - Elevated in liver damage
 
@@ -74,7 +74,7 @@ Serine + Tetrahydrofolate (THF) ↔ Glycine + 5,10-methylene-THF
 - Supplementation
 
 ## Related
-- [[Vitamin_Dependence_Organic_Acid_Metabolism_[Z-001-0479]]] Vitamin Dependence
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_[Z-001-0479]]] [[KEYWORD-Vitamin_D|vitamin d]]ependence
 - [[Glutamine_Glutamate_Ammonia_Cycle_[Z-001-0916]]] Glutamine-Glutamate-Ammonia Cycle
 
 ---

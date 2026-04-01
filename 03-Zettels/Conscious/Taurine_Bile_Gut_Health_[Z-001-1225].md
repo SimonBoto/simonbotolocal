@@ -46,7 +46,7 @@ Taurine is a sulfur-containing amino acid with critical roles in bile acid conju
 
 ### 4. Electrolyte Balance
 - Regulates intracellular calcium
-- Supports magnesium metabolism
+- Supports [[KEYWORD-Magnesium|magnesium]] [[KEYWORD-Metabolism|metabolism]]
 - Maintains cellular hydration
 - Critical during fasting/cleansing
 
@@ -55,7 +55,7 @@ Taurine is a sulfur-containing amino acid with critical roles in bile acid conju
 ## Clinical Applications
 
 ### Indications for Taurine
-| Condition | Mechanism |
+| Condition | [[KEYWORD-Mechanism|mechanism]] |
 |-----------|-----------|
 | **Bile insufficiency** | Taurocholic acid formation |
 | **Fat malabsorption** | Improved emulsification |

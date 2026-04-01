@@ -24,7 +24,7 @@ source: [[L-101-0045A]]
 | **A2B** | Stimulatory | Low affinity |
 | **A3** | Variable | Immune cells |
 
-### Mechanism
+### [[KEYWORD-Mechanism|mechanism]]
 - A1 receptors → Gi protein → ↓cAMP → ↓neuronal firing
 - Accumulation in basal forebrain → sleep drive
 - **Caffeine antagonist:** Blocks A1/A2A → wakefulness
@@ -32,7 +32,7 @@ source: [[L-101-0045A]]
 ## Breakdown During Sleep
 Adenosine clearance during sleep → reduced inhibition → wakefulness returns.
 
-## Clinical Application
+## [[KEYWORD-Clinical|clinical]] Application
 **Adenosine IV:** Used for supraventricular tachycardia (slows AV nodal conduction).
 
 ## Related

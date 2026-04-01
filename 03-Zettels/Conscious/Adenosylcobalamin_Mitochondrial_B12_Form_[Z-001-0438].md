@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
 extraction-date: 2026-03-01
 ---
 
-# Adenosylcobalamin — The Mitochondrial B12 Form
+# Adenosylcobalamin — The [[KEYWORD-Mitochondria|mitochondria]]l B12 Form
 
-> Adenosylcobalamin (5'-deoxyadenosylcobalamin) is the mitochondrial form of vitamin B12, characterized by a unique cobalt-carbon bond that enables radical chemistry for methylmalonyl-CoA mutase.
+> Adenosylcobalamin (5'-deoxyadenosylcobalamin) is the [[KEYWORD-Mitochondria|mitochondrial]] form of vitamin B12, characterized by a unique cobalt-carbon bond that enables radical [[KEYWORD-Chemistry|chemistry]] for methylmalonyl-CoA mutase.
 
 ## Structure
 

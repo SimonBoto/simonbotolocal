@@ -33,9 +33,9 @@ G6P + 2 NADP⁺ + H₂O → R5P + CO₂ + 2 NADPH + 2 H⁺
 ## Regulation
 - **NADP⁺/NADPH ratio:** Primary controller
 - High NADPH → inhibits G6P dehydrogenase (feedback inhibition)
-- **Insulin:** Upregulates PPP enzymes (anabolic signal)
+- **[[KEYWORD-Insulin|insulin]]:** Upregulates PPP enzymes (anabolic signal)
 
-## Clinical: G6PD Deficiency
+## [[KEYWORD-Clinical|clinical]]: G6PD Deficiency
 - Most common enzyme deficiency (400M+ people)
 - X-linked recessive
 - RBCs vulnerable → hemolysis under oxidative stress
@@ -44,7 +44,7 @@ G6P + 2 NADP⁺ + H₂O → R5P + CO₂ + 2 NADPH + 2 H⁺
 ## Related
 - [[G6PD_Deficiency_Evolutionary_Trade-offs_[Z-001-0461]]] NADPH Functions (product of PPP)
 - [[Ribose_Structure_RNA_Backbone_[Z-001-0458]]] Ribose Structure and Function
-- [[Triose_Metabolism_G3P_DHAP_[Z-001-0459]]] Triose Metabolism Integration
+- [[Triose_[[KEYWORD-Metabolism|metabolism]]_G3P_DHAP_[Z-001-0459]]] Triose Metabolism Integration
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

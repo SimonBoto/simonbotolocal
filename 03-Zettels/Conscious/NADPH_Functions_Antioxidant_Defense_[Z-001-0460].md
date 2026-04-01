@@ -21,12 +21,12 @@ NADPH provides **reducing equivalents** for:
 
 ## Sources
 - **~60%:** Pentose Phosphate Pathway
-- **Remainder:** Malic enzyme, isocitrate dehydrogenase, folate metabolism
+- **Remainder:** Malic enzyme, isocitrate dehydrogenase, [[KEYWORD-Folate|folate]] [[KEYWORD-Metabolism|metabolism]]
 
 ## Role 1: Biosynthesis
 **NADPH-dependent pathways:**
 - Fatty acid synthesis
-- Cholesterol synthesis
+- [[KEYWORD-Cholesterol|cholesterol]] synthesis
 - Nucleotide synthesis
 - Steroid hormone synthesis
 

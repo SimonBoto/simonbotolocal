@@ -11,7 +11,7 @@ confidence: high
 created: 2026-03-04
 ---
 
-# Hydroxyproline and Collagen as Oxalate Sources
+# Hydroxyproline and Collagen as [[KEYWORD-Oxalate|oxalate]] Sources
 
 ## Hydroxyproline Structure
 
@@ -34,7 +34,7 @@ Hydroxyproline → 4-Hydroxy-2-oxoglutarate → Glyoxylate → Oxalate
 ## Quantitative Significance
 
 **Endogenous oxalate production:**
-- ~10-20% from hydroxyproline metabolism
+- ~10-20% from hydroxyproline [[KEYWORD-Metabolism|metabolism]]
 - Increases with high collagen turnover:
   - Growth periods
   - Wound healing
@@ -51,7 +51,7 @@ Hydroxyproline → 4-Hydroxy-2-oxoglutarate → Glyoxylate → Oxalate
 | **Meat with connective tissue** | Moderate |
 | **Skin, tendons, cartilage** | High |
 
-## Clinical Relevance
+## [[KEYWORD-Clinical|clinical]] Relevance
 
 **High collagen intake:**
 - Bone broth popularity

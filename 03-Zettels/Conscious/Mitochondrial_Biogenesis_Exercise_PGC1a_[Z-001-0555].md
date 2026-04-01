@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]]
 extraction-date: 2026-03-01
 ---
 
-# Mitochondrial Biogenesis — Exercise and PGC-1α
+# [[KEYWORD-Mitochondria|mitochondria]]l Biogenesis — Exercise and PGC-1α
 
-> Exercise stimulates mitochondrial biogenesis through PGC-1α activation, enhancing both quantity and quality of mitochondria.
+> Exercise stimulates [[KEYWORD-Mitochondria|mitochondrial]] biogenesis through PGC-1α activation, enhancing both quantity and quality of mitochondria.
 
 ## PGC-1α — Master Regulator
 
@@ -23,7 +23,7 @@ extraction-date: 2026-03-01
 - Cold exposure
 
 **Triggers:**
-- Calcium signaling (CaMK)
+- [[KEYWORD-Calcium|calcium]] signaling (CaMK)
 - AMPK (low energy)
 - Moderate ROS (hormesis)
 

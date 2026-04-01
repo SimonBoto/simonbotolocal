@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # MTHFR and Multiple Myeloma — No Correlation
 
-> Despite affecting folate metabolism and bone marrow function, MTHFR polymorphisms are not directly correlated with multiple myeloma pathogenesis.
+> Despite affecting folate [[KEYWORD-Metabolism|metabolism]] and bone marrow function, MTHFR polymorphisms are not directly correlated with multiple myeloma pathogenesis.
 
 ## Evidence
 
@@ -27,7 +27,7 @@ extraction-date: 2026-03-01
 - If causal, MM would be more common
 - Not observed
 
-## Distinct Mechanisms
+## Distinct [[KEYWORD-Mechanism|mechanism]]s
 
 **B12/Folate Deficiency:**
 - Impaired DNA synthesis
@@ -40,7 +40,7 @@ extraction-date: 2026-03-01
 - Malignant transformation
 - Progressive course
 
-## Clinical Implication
+## [[KEYWORD-Clinical|clinical]] Implication
 
 **Manage Separately:**
 - Don't attribute MM to MTHFR

@@ -30,14 +30,14 @@ source: [[L-101-0045B]]
   │
   ├── 4.0-3.8 BYA: RNA WORLD EMERGENCE
   │   ├── First ribozymes (self-replicating RNA?)
-  │   ├── Proto-metabolism
+  │   ├── Proto-[[KEYWORD-Metabolism|metabolism]]
   │   └── Compartmentalization (lipid vesicles)
   │
   ├── 3.8-3.5 BYA: LAST UNIVERSAL COMMON ANCESTORS (LUCA)
   │   ├── DNA emerges (more stable than RNA)
   │   ├── Protein enzymes take over catalysis
   │   ├── Universal genetic code established
-  │   └── Core metabolism (glycolysis, Krebs cycle)
+  │   └── Core metabolism ([[KEYWORD-Glycolysis|glycolysis]], Krebs cycle)
   │
   ├── 3.5 BYA: Earliest fossil evidence (stromatolites)
   │
@@ -56,7 +56,7 @@ source: [[L-101-0045B]]
 - Anoxic atmosphere (CH₄, NH₃, H₂O, H₂)
 - Energy sources (UV, lightning, volcanism)
 - Liquid water
-- Concentration mechanisms (evaporation, minerals)
+- Concentration [[KEYWORD-Mechanism|mechanism]]s (evaporation, minerals)
 
 ### RNA World (4.0-3.8 BYA)
 **Transition from chemistry to biology:**

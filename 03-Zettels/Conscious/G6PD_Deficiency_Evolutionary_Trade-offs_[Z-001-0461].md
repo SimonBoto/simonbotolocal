@@ -34,17 +34,17 @@ source: [[L-001-0045C]]
 
 ## Why RBCs Vulnerable?
 - No nucleus → limited protein synthesis
-- No mitochondria → dependent on PPP for NADPH
+- No [[KEYWORD-Mitochondria|mitochondria]] → dependent on PPP for NADPH
 - High oxygen exposure → oxidative stress risk
 
-## Clinical Presentation
+## [[KEYWORD-Clinical|clinical]] Presentation
 | Severity | Features |
 |----------|----------|
 | Mild | Compensated hemolysis |
 | Moderate | Episodic hemolysis with triggers |
 | Severe | Chronic hemolysis, neonatal jaundice |
 
-## Evolutionary Advantage: Malaria Resistance
+## [[KEYWORD-Evolution|evolution]]ary Advantage: Malaria Resistance
 **Heterozygote advantage:**
 - G6PD-deficient RBCs less hospitable to *Plasmodium falciparum*
 - Parasite requires robust antioxidant defense

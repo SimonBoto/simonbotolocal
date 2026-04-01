@@ -13,7 +13,7 @@ created: 2026-03-01
 status: conscious
 ---
 
-# Personalized Vitamin D vs Population Guidelines
+# Personalized [[KEYWORD-Vitamin_D|vitamin d]] vs Population Guidelines
 
 Growing recognition that population-wide RDA fails individual needs. Factors creating 10-20x variability in vitamin D requirements: baseline status, BMI (sequestration in adipose), skin pigmentation, latitude/sun exposure, genetics (VDR polymorphisms, CYP24A1), age, kidney/liver function.
 
@@ -21,7 +21,7 @@ Growing recognition that population-wide RDA fails individual needs. Factors cre
 - **Baseline 25(OH)D:** Determines required repletion dose
 - **BMI:** Higher body fat = more sequestration, higher needs
 - **Skin pigmentation:** Darker skin requires 3-6x longer sun exposure
-- **Genetics:** VDR, CYP2R1, CYP24A1 variants affect metabolism
+- **Genetics:** VDR, CYP2R1, CYP24A1 variants affect [[KEYWORD-Metabolism|metabolism]]
 - **Geography/season:** Latitude >35° = seasonal deficiency
 
 **Clinical approach:**
@@ -36,7 +36,7 @@ Growing recognition that population-wide RDA fails individual needs. Factors cre
 
 **Parent MOC:** [[MOC-Clinical-Protocols]]
 **Source:** [[CGPT_0284_Vitamin_D_Toxicity_Misconception_[CGPT-0284]]]
-**Related:** [[MOC-Vitamin-D-Metabolism]], [[IIH_CYP24A1_Mutation_True_Cause_[Z-001-0055]]]
+**Related:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Metabolism]], [[IIH_CYP24A1_Mutation_True_Cause_[Z-001-0055]]]
 
 ---
 

@@ -31,7 +31,7 @@ Unlike most metabolic pathways regulated at transcription or allosteric levels, 
 **Iron needs change rapidly:**
 - Meal ingestion (↑ iron)
 - Bleeding (↓ iron)
-- Inflammation (iron sequestration)
+- [[KEYWORD-Inflammation|inflammation]] (iron sequestration)
 
 **Post-transcriptional control allows minute-by-minute adjustment.**
 
@@ -49,7 +49,7 @@ Unlike most metabolic pathways regulated at transcription or allosteric levels, 
 - Stem-loop RNA structures
 - Located in UTRs of target mRNAs
 
-### Mechanism Overview
+### [[KEYWORD-Mechanism|mechanism]] Overview
 ```
 Cellular iron status
         ↓
@@ -205,4 +205,4 @@ Stop codon ──[IRE]── Poly-A tail
 
 ---
 
-*Source: [[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]] | 2026-03-09*
+*Source: [[LitNote_Aconitase_Iron_[[KEYWORD-Metabolism|metabolism]]_IRP1_L-001-0631]] | 2026-03-09*

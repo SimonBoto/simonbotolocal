@@ -13,7 +13,7 @@ created: 2026-03-01
 status: conscious
 ---
 
-# Gordon 2008 — Adolescent High-Dose Vitamin D Protocol
+# Gordon 2008 — Adolescent High-Dose [[KEYWORD-Vitamin_D|vitamin d]] Protocol
 
 Gordon et al. (2008) treated vitamin D-deficient adolescents with 2,000 IU daily or 50,000 IU weekly. Demonstrated safety and efficacy of high-dose approaches in adolescent population for correcting deficiency.
 
@@ -29,8 +29,8 @@ Gordon et al. (2008) treated vitamin D-deficient adolescents with 2,000 IU daily
 
 ## Links
 
-**Parent MOC:** [[MOC-Clinical-Protocols]]
-**Source:** [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
+**Parent MOC:** [[MOC-[[KEYWORD-Clinical|clinical]]-Protocols]]
+**Source:** [[LitNote_High_Dose_Vitamin_D_[[KEYWORD-Research|research]]_L-001-0009]]
 **Related:** [[Stoss_Therapy_High_Dose_Rickets_Treatment_[Z-001-0069]]], [[UL_Conservative_vs_Research_Reality_[Z-001-0071]]]
 
 ---

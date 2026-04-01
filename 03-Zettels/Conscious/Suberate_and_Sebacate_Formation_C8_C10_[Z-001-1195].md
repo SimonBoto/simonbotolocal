@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-While adipate (C6) is the most clinically studied dicarboxylic acid, suberate (C8) and sebacate (C10) provide additional information about fatty acid metabolism patterns.
+While adipate (C6) is the most clinically studied dicarboxylic acid, suberate (C8) and sebacate (C10) provide additional information about fatty acid [[KEYWORD-Metabolism|metabolism]] patterns.
 
 ---
 
@@ -90,8 +90,8 @@ Sebacate → Suberate → Adipate → Succinyl-CoA + 3 Acetyl-CoA
 
 ### Adipate Dominant (High C6, Normal C8/C10)
 - Indicates impairment of C6 fatty acid handling
-- Early mitochondrial dysfunction
-- Specific for insulin resistance pattern
+- Early [[KEYWORD-Mitochondria|mitochondria]]l dysfunction
+- Specific for [[KEYWORD-Insulin|insulin]] resistance pattern
 
 ### Elevated C6 + C8 + C10
 - General β-oxidation impairment

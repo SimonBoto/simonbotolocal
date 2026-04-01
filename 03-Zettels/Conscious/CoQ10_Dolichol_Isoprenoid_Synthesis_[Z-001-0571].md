@@ -16,7 +16,7 @@ created: 2026-03-03
 
 ## Core Concept
 
-Beyond cholesterol and steroid hormones, the mevalonate pathway produces **CoQ10 (ubiquinone)** for mitochondrial energy production and **dolichol** for protein glycosylation. These "less famous" isoprenoid products are essential for cellular function and explain many statin side effects when their synthesis is inadvertently blocked.
+Beyond cholesterol and steroid hormones, the mevalonate pathway produces **CoQ10 (ubiquinone)** for [[KEYWORD-Mitochondria|mitochondria]]l energy production and **dolichol** for protein glycosylation. These "less famous" isoprenoid products are essential for cellular function and explain many statin side effects when their synthesis is inadvertently blocked.
 
 ---
 
@@ -100,7 +100,7 @@ Mitochondrial dysfunction
 ### Risk Factors
 - High statin dose
 - Advanced age
-- Vitamin D deficiency
+- [[KEYWORD-Vitamin_D|vitamin d]] deficiency
 - Hypothyroidism
 - Genetic variants (COQ genes)
 
@@ -134,7 +134,7 @@ Proper folding, trafficking, function
 
 ### Clinical Significance: CDG
 **Congenital Disorders of Glycosylation:**
-- Defects in dolichol metabolism or glycosylation enzymes
+- Defects in dolichol [[KEYWORD-Metabolism|metabolism]] or glycosylation enzymes
 - **Multi-system disease:** Neurologic, hepatic, immunologic
 - **Symptoms:** Developmental delay, seizures, liver dysfunction
 - **Diagnosis:** Transferrin glycosylation analysis

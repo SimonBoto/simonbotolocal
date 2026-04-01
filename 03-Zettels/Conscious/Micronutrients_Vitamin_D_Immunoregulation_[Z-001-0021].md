@@ -12,7 +12,7 @@ status: conscious
 source-litnote: Synthesized from clinical practice
 ---
 
-# Micronutrients: Vitamin D as Immunoregulatory Factor
+# Micronutrients: [[KEYWORD-Vitamin_D|vitamin d]] as Immunoregulatory Factor
 
 ## Core Claim
 **Vitamin D functions as an immunoregulatory micronutrient** alongside Vitamin E, zinc, omega-3 fatty acids, probiotics, and EGCG — modulating immune function through multiple metabolomic pathways.
@@ -58,7 +58,7 @@ source-litnote: Synthesized from clinical practice
 
 #### Metabolite Markers of VitD Status
 - **Primary:** 25-hydroxyvitamin D, 1,25-dihydroxyvitamin D
-- **Functional:** Calcium metabolism markers, bone turnover markers
+- **Functional:** Calcium [[KEYWORD-Metabolism|metabolism]] markers, bone turnover markers
 - **Immune:** Inflammatory cytokine patterns, antimicrobial peptide levels
 
 ## Deficiency Detection via Metabolomics
@@ -98,7 +98,7 @@ The course's inclusion of VitD in immunoregulatory micronutrients supports:
 - [[Environmental_Factors_80_Percent_Chronic_Disease_[Z-001-0903].md]] — Environmental factor (nutrition)
 
 ### Downstream
-- [[MOC-Vitamin-D-Mechanisms]] — Detailed VitD mechanism hub
+- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]] — Detailed VitD mechanism hub
 - [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]] — IR-VitD connection
 
 ### Cross-Domain

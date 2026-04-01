@@ -31,7 +31,7 @@ SAM + Acceptor → Methylated acceptor + SAH
 - Competitive inhibition (structurally similar to SAM)
 - **High SAH = Low methylation activity**
 
-**Mechanism:**
+**[[KEYWORD-Mechanism|mechanism]]:**
 - Binds methyltransferase active site
 - Prevents SAM binding
 - Reversible inhibition
@@ -56,7 +56,7 @@ SAH ↔ Homocysteine + Adenosine
 | **Low (<2)** | Impaired methylation |
 | **Very low (<1)** | Severe methylation deficiency |
 
-**Clinical Correlations:**
+**[[KEYWORD-Clinical|clinical]] Correlations:**
 - **Low ratio:** Depression, cognitive decline, CVD
 - **Optimal ratio:** Supports DNA repair, neurotransmitter synthesis
 
@@ -79,7 +79,7 @@ SAH ↔ Homocysteine + Adenosine
 
 
 ## Related
-- [[Methylation_Cancer_Double_Edged_Sword_[Z-001-0411]|Z-001-0411]]
+- [[Methylation_[[KEYWORD-Cancer|cancer]]_Double_Edged_Sword_[Z-001-0411]|Z-001-0411]]
 
 
 ## RELATED FILES

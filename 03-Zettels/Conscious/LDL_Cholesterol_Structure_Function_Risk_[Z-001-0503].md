@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]]
 extraction-date: 2026-03-01
 ---
 
-# LDL Cholesterol — Structure, Function, and Risk
+# LDL [[KEYWORD-Cholesterol|cholesterol]] — Structure, Function, and Risk
 
 > LDL delivers cholesterol to peripheral cells via receptor-mediated endocytosis; elevated LDL is the primary driver of atherosclerosis.
 
@@ -39,7 +39,7 @@ Cholesterol released (regulates SREBP-2)
 - Penetrates endothelium easier
 - Oxidizes more readily
 
-**Associated with:** Metabolic syndrome, insulin resistance
+**Associated with:** Metabolic syndrome, [[KEYWORD-Insulin|insulin]] resistance
 
 ## LDL and Atherosclerosis
 
@@ -60,7 +60,7 @@ Cholesterol released (regulates SREBP-2)
 | 160-189 | High |
 | ≥190 | Very high |
 
-**Clinical:** Each 1 mmol/L (~40 mg/dL) reduction = ~20-25% risk reduction
+**[[KEYWORD-Clinical|clinical]]:** Each 1 mmol/L (~40 mg/dL) reduction = ~20-25% risk reduction
 
 ---
 

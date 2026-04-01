@@ -39,7 +39,7 @@ PEPCK transcription ↑
 - Direct transcriptional activation of PEPCK gene
 - **Synergistic with glucagon**
 
-### Insulin (Fed State)
+### [[KEYWORD-Insulin|insulin]] (Fed State)
 **Mechanism:**
 ```
 Insulin → FOXO1 phosphorylation → nuclear exclusion
@@ -85,7 +85,7 @@ PEPCK transcription ↓
 
 ### Type 2 Diabetes
 **Problem:**
-- Hepatic insulin resistance
+- Hepatic [[KEYWORD-Insulin_Resistance|insulin resistance]]
 - Cannot suppress PEPCK appropriately
 - **Excessive gluconeogenesis** → fasting hyperglycemia
 
@@ -112,7 +112,7 @@ PEPCK transcription ↓
 
 ## Related
 - [[Gluconeogenesis_from_Oxaloacetate_[Z-001-0489]]] Gluconeogenesis from OAA
-- [[Mitochondrial_Shuttles_Malate_Aspartate_[Z-001-0490]]] Mitochondrial Shuttles
+- [[[[KEYWORD-Mitochondria|mitochondria]]l_Shuttles_Malate_Aspartate_[Z-001-0490]]] Mitochondrial Shuttles
 - [[MOC-Gluconeogenesis]]
 
 ---

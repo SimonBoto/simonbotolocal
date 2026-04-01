@@ -12,7 +12,7 @@ status: conscious
 source-litnote: Synthesized from clinical practice
 ---
 
-# Metabolic Acidosis Biomarkers & Pattern Recognition
+# Metabolic Acidosis [[KEYWORD-Biomarker|biomarker]]s & Pattern Recognition
 
 ## Core Claim
 **Metabolic acidosis produces characteristic organic acid patterns** — accumulation of ketoacids, lactate, and other organic acids that create diagnostic signatures applicable to insulin resistance-associated metabolic stress.
@@ -37,7 +37,7 @@ Insulin resistance → metabolic stress → **combined lactic + ketoacid pattern
 |------------------|----------------------------|
 | **Glycolysis** | Lactate, pyruvate |
 | **Krebs cycle** | Citrate, α-ketoglutarate, succinate, fumarate, malate |
-| **Amino acid metabolism** | MMA, glyoxylate, hippurate, phenylalanine derivatives |
+| **Amino acid [[KEYWORD-Metabolism|metabolism]]** | MMA, glyoxylate, hippurate, phenylalanine derivatives |
 | **Fatty acid oxidation** | Acylglycines, adipic acid, suberic acid, ethylmalonic acid |
 | **Ketone metabolism** | Acetoacetate, β-hydroxybutyrate |
 | **Neurotransmitters** | HVA, VMA, 5-HIAA |
@@ -95,7 +95,7 @@ Pattern + clinical context → Diagnosis
 - [[Protein_Metabolism_Disorders_Oxalate_Pathway_Z-001-0025.md]] — Organic acid accumulation
 
 ### Downstream
-- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]] — 2-HBA, pyroglutamate
+- [[Oxidative_Stress_Biomarkers_[[KEYWORD-Metabolomics|metabolomics]]_Z-001-0020.md]] — 2-HBA, pyroglutamate
 - [[MOC-PhD-METHAP-Trial]] — UOA panel as outcome measure
 
 ### Cross-Domain

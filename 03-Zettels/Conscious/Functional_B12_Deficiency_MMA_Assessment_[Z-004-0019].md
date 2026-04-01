@@ -152,7 +152,7 @@ Start: Suspect B12 deficiency (fatigue, neuropathy, cognitive fog)
 
 ### Cofactors
 - **Folate (5-MTHF):** 400-800 mcg (not folic acid)
-- **B6 (P5P):** 25-50 mg (for homocysteine metabolism)
+- **B6 (P5P):** 25-50 mg (for homocysteine [[KEYWORD-Metabolism|metabolism]])
 - **Magnesium:** Required for B12 utilization
 
 ---
@@ -204,6 +204,6 @@ patient_id,visit,serum_b12_pg_ml,mma_nmol_l,homocysteine_umol_l,functional_statu
 *Created: 2026-02-26 | Domain: 004 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/Iron_Family_[B-003-0001]|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
 

@@ -19,9 +19,9 @@ Like other potent antiresorptives, denosumab has been associated with osteonecro
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
-**Source:** [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]]
-**Related:** [[Denosumab_RANKL_Antibody_Mechanism_[Z-001-0085].md]], [[MOC-Vitamin-Safety]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
+**Source:** [[LitNote_Denosumab_[[KEYWORD-Mechanism|mechanism]]_Risks_L-001-0012]]
+**Related:** [[Denosumab_RANKL_Antibody_Mechanism_[Z-001-0085].md]], [[MOC-Vitamin-[[KEYWORD-Safety|safety]]]]
 
 ---
 

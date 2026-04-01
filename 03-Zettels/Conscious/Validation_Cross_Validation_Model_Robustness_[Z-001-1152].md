@@ -16,7 +16,7 @@ created: 2026-03-08
 # Validation Cross Validation Model Robustness
 
 ## Overview
-Validation strategies in metabolomics ensure that multivariate models are robust, generalizable, and not overfitted to the training data—critical for reliable biomarker discovery in the METHAP trial.
+Validation strategies in [[KEYWORD-Metabolomics|metabolomics]] ensure that multivariate models are robust, generalizable, and not overfitted to the training data—critical for reliable [[KEYWORD-Biomarker|biomarker]] discovery in the METHAP trial.
 
 ## The Overfitting Problem
 
@@ -96,7 +96,7 @@ Validation strategies in metabolomics ensure that multivariate models are robust
 | Metric | Assessment |
 |--------|------------|
 | **Component stability** | Consistent across CV folds |
-| **Variable selection** | Same biomarkers identified |
+| **Variable selection** | Same [[KEYWORD-Biomarker|biomarkers]] identified |
 | **Prediction consistency** | Low variance in predictions |
 
 ### Biological Validation

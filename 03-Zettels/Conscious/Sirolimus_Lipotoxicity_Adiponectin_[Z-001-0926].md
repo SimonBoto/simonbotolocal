@@ -20,7 +20,7 @@ source-litnote: Synthesized from clinical practice
 ## Adipose Tissue as Endocrine Organ
 
 **Adipokines Produced:**
-| Adipokine | Function | Effect on Glucose Metabolism |
+| Adipokine | Function | Effect on Glucose [[KEYWORD-Metabolism|metabolism]] |
 |-----------|----------|------------------------------|
 | **Adiponectin** | Insulin-sensitizing | Enhances glucose uptake, FFA oxidation |
 | **Leptin** | Satiety signal | Regulates energy balance |
@@ -139,7 +139,7 @@ Hepatic IR      Muscle IR       β-cell dysfunction
 - Central obesity may not improve despite reduced adipogenesis
 - Lipoatrophy in some cases (reduced subcutaneous fat)
 
-**Biomarkers:**
+**[[KEYWORD-Biomarker|biomarker]]s:**
 - Low adiponectin
 - Elevated FFAs
 - Elevated triglycerides
@@ -168,6 +168,6 @@ Hepatic IR      Muscle IR       β-cell dysfunction
 
 ## RELATED FILES
 - [[Sirolimus_ETC_Impairment_ROS_Generation_[Z-001-0513]|Z-001-0513]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

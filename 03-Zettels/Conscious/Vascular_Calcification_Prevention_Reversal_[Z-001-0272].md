@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Vascular Calcification Prevention and Reversal
 
-> Vitamin K2 supplementation may slow progression of established vascular calcification and prevent new calcification, particularly when combined with vitamin D and magnesium optimization.
+> [[KEYWORD-Vitamin_K2|vitamin k2]] supplementation may slow progression of established vascular calcification and prevent new calcification, particularly when combined with [[KEYWORD-Vitamin_D|vitamin d]] and [[KEYWORD-Magnesium|magnesium]] optimization.
 
 ## Prevention Strategies
 

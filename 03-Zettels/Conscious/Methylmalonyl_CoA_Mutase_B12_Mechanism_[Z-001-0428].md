@@ -11,7 +11,7 @@ source-litnote: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]
 extraction-date: 2026-03-01
 ---
 
-# Methylmalonyl-CoA Mutase — B12 and Radical Mechanism
+# Methylmalonyl-CoA Mutase — B12 and Radical [[KEYWORD-Mechanism|mechanism]]
 
 > Methylmalonyl-CoA mutase catalyzes the vitamin B12-dependent rearrangement of L-methylmalonyl-CoA to succinyl-CoA using a radical mechanism involving adenosylcobalamin.
 
@@ -39,7 +39,7 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 4. Carbon skeleton rearrangement
 5. Radical returned to regenerate cofactor
 
-## Clinical Marker
+## [[KEYWORD-Clinical|clinical]] Marker
 
 **Methylmalonic Acid (MMA):**
 - Accumulates in B12 deficiency
@@ -53,7 +53,7 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 
 ---
 
-*Source: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]*
+*Source: [[LitNote_B12_Amino_Acid_[[KEYWORD-Metabolism|metabolism]]_L-001-0405]]*
 
 
 ## Related

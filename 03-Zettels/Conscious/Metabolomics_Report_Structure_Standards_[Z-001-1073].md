@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Metabolomics Report Structure Standards
+# [[KEYWORD-Metabolomics|metabolomics]] Report Structure Standards
 
 ## Overview
 Standardized formats for live and email metabolomics reports ensuring clarity and actionability.
@@ -22,13 +22,13 @@ Standardized formats for live and email metabolomics reports ensuring clarity an
 
 ### 1. Opening (2 minutes)
 - **Greeting** — Personal connection
-- **Summary** — "Your metabolism is showing us [key insight]"
+- **Summary** — "Your [[KEYWORD-Metabolism|metabolism]] is showing us [key insight]"
 - **Preview** — "I'll walk you through what we found and what to do"
 
 ### 2. The Story (5 minutes)
 - **Visual** — Show the metabolic map
 - **Key findings** — 3-5 most important markers
-- **Mechanism** — Why this is happening
+- **[[KEYWORD-Mechanism|mechanism]]** — Why this is happening
 - **Connection** — Link to their symptoms
 
 ### 3. The Plan (5 minutes)

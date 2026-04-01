@@ -15,7 +15,7 @@ source-litnote: Synthesized from clinical practice
 # Predictive Metabolites: Type 1 Diabetes Example
 
 ## Core Claim
-Metabolomics can predict disease onset **before clinical symptom manifestation**, demonstrated by Type 1 Diabetes (T1D) metabolite patterns that precede diagnosis.
+[[KEYWORD-Metabolomics|metabolomics]] can predict disease onset **before clinical symptom manifestation**, demonstrated by Type 1 Diabetes (T1D) metabolite patterns that precede diagnosis.
 
 ## The Predictive Power
 
@@ -36,7 +36,7 @@ Metabolomics can predict disease onset **before clinical symptom manifestation**
 
 ### Predictive Metabolite Patterns (General)
 While specific T1D metabolites aren't detailed in this source, the framework suggests monitoring:
-- **Energy metabolism shifts** (glucose, ketone precursors)
+- **Energy [[KEYWORD-Metabolism|metabolism]] shifts** (glucose, ketone precursors)
 - **Immune activation markers** (inflammatory metabolites)
 - **Mitochondrial dysfunction signals** (oxidative stress markers)
 - **Lipid metabolism alterations** (phospholipid profiles)
@@ -63,7 +63,7 @@ Just as T1D metabolites predict disease, **adipic acid may predict insulin resis
 | **Pre-symptomatic detection** | Metabolites before hyperglycemia | Adipic before clinical IR |
 | **Mechanism insight** | Autoimmune β-cell destruction | Mitochondrial dysfunction |
 | **Intervention window** | Earlier immunomodulation | Earlier metabolic correction |
-| **Validation pathway** | Longitudinal cohort studies | METHAP trial biomarker arm |
+| **Validation pathway** | Longitudinal cohort studies | METHAP trial [[KEYWORD-Biomarker|biomarker]] arm |
 
 ### Research Gap
 [Needs_Evidence] — Specific adipic acid predictive studies needed for validation

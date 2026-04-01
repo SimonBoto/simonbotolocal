@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]]
 extraction-date: 2026-03-01
 ---
 
-# Combined Mitochondrial Intervention Strategy
+# Combined [[KEYWORD-Mitochondria|mitochondria]]l Intervention Strategy
 
-> Optimal mitochondrial restoration requires multi-modal approach: diet, exercise, and targeted supplementation guided by metabolomics.
+> Optimal [[KEYWORD-Mitochondria|mitochondrial]] restoration requires multi-modal approach: diet, exercise, and targeted supplementation guided by [[KEYWORD-Metabolomics|metabolomics]].
 
 ## The Triad
 

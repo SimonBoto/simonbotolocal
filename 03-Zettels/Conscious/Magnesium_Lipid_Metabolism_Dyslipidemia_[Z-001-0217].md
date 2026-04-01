@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]]
 extraction-date: 2026-03-01
 ---
 
-# Magnesium and Lipid Metabolism — Effects on Dyslipidemia
+# [[KEYWORD-Magnesium|magnesium]] and Lipid [[KEYWORD-Metabolism|metabolism]] — Effects on Dyslipidemia
 
 > Magnesium influences lipid metabolism through enzymatic modulation of cholesterol synthesis, triglyceride clearance, and HDL maturation, offering potential benefits for the dyslipidemia component of metabolic syndrome.
 
@@ -84,7 +84,7 @@ extraction-date: 2026-03-01
 - Metabolic syndrome patients
 - 365 mg Mg × 16 weeks
 - Trend toward improved lipid profile
-- Significant improvement in insulin sensitivity
+- Significant improvement in [[KEYWORD-Insulin|insulin]] sensitivity
 
 ## Comparison to Standard Lipid-Lowering Therapy
 

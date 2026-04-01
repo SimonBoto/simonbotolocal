@@ -25,7 +25,7 @@ extraction-date: 2026-03-01
 | **Mediterranean** | Olive oil, fish, vegetables, moderate wine | Strong CV benefit |
 | **DASH** | Low sodium, high potassium, whole foods | BP reduction |
 | **Low-carb/Ketogenic** | <50g carbs/day, high fat | Rapid weight loss, glycemic control |
-| **Time-restricted eating** | 8-10 hour eating window | Improves insulin sensitivity |
+| **Time-restricted eating** | 8-10 hour eating window | Improves [[KEYWORD-Insulin|insulin]] sensitivity |
 
 **Universal Principles:**
 - Calorie restriction for weight loss (500-750 kcal deficit)
@@ -54,7 +54,7 @@ extraction-date: 2026-03-01
 **Impact of 7% weight loss:**
 - 58% reduction in T2DM risk
 - Significant improvement in all MetS components
-- Reduced inflammation markers
+- Reduced [[KEYWORD-Inflammation|inflammation]] markers
 
 ### 4. Smoking Cessation
 
@@ -100,7 +100,7 @@ extraction-date: 2026-03-01
 - Bleeding risk vs. benefit assessment
 
 **Emerging approaches:**
-- **Mineral supplementation:** Magnesium, Vitamin D, K2
+- **Mineral supplementation:** Magnesium, [[KEYWORD-Vitamin_D|vitamin d]], K2
 - **PCSK9 inhibitors:** For refractory hyperlipidemia
 - **Resveratrol, berberine:** Evidence emerging
 

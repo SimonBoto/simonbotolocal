@@ -68,7 +68,7 @@ extraction-date: 2026-03-01
 
 **Legacy:**
 - Billion-dollar company
-- Breakfast revolution
+- Breakfast r[[KEYWORD-Evolution|evolution]]
 - Philanthropy (Kellogg Foundation)
 - "Breakfast is most important meal" (invented)
 

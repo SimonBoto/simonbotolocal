@@ -76,8 +76,8 @@ Cross-validation still uses same data with same technical artifacts. Only extern
 | Study Type | External Validation |
 |------------|---------------------|
 | Exploratory/pilot | Desirable but not required |
-| Biomarker discovery | Required (n≥30 external) |
-| Clinical diagnostic | Required (prospective cohort) |
+| [[KEYWORD-Biomarker|biomarker]] discovery | Required (n≥30 external) |
+| [[KEYWORD-Clinical|clinical]] diagnostic | Required (prospective cohort) |
 
 ## Validation Strategy by Sample Size
 
@@ -143,6 +143,6 @@ External Validation:
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[MOC-Biomarkers|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

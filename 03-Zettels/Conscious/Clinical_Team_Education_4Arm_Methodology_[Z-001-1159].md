@@ -22,7 +22,7 @@ Structured approach for clinical teams to analyze topics from complementary pers
 
 | Arm | Focus | Key Questions | Expertise Required |
 |-----|-------|---------------|-------------------|
-| **Diagnostic** | Detection & measurement | How do we identify? What markers? | Lab interpretation, GC-MS, biomarkers |
+| **Diagnostic** | Detection & measurement | How do we identify? What markers? | Lab interpretation, GC-MS, [[KEYWORD-Biomarker|biomarker]]s |
 | **Therapeutic Nutrition** | Dietary interventions | What to eat/avoid? Metabolic impact? | Nutritional biochemistry, protocols |
 | **Supplementation** | Targeted therapeutics | What supplements? Dosing? Safety? | Pharmacology, nutrient interactions |
 | **Clinical Cases** | Real-world application | Does it work in practice? Outcomes? | Patient management, pattern recognition |
@@ -47,9 +47,9 @@ Structured approach for clinical teams to analyze topics from complementary pers
 
 ## Application Domains
 
-**Metabolomics Clinic:**
+**[[KEYWORD-Metabolomics|metabolomics]] Clinic:**
 - Insulin resistance protocols
-- Vitamin D optimization
+- [[KEYWORD-Vitamin_D|vitamin d]] optimization
 - Mitochondrial support strategies
 - Detoxification pathways
 

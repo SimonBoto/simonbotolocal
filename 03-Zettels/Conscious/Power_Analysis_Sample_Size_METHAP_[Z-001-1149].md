@@ -46,7 +46,7 @@ METHAP trial designed with 220 participants to provide 80% statistical power to 
 **Why 220 participants?**
 - Accounts for 15-20% dropout rate
 - Provides adequate power for subgroup analyses
-- Sufficient for multivariate metabolomics (high dimensionality)
+- Sufficient for multivariate [[KEYWORD-Metabolomics|metabolomics]] (high dimensionality)
 - Meets CONSORT guidelines for RCTs
 
 ---
@@ -54,7 +54,7 @@ METHAP trial designed with 220 participants to provide 80% statistical power to 
 ## Effect Size Considerations
 
 ### Expected Changes
-| Biomarker | Baseline (IR) | Post-Intervention | Change |
+| [[KEYWORD-Biomarker|biomarker]] | Baseline (IR) | Post-Intervention | Change |
 |-----------|---------------|-------------------|--------|
 | **HOMA-IR** | 3.5 | 2.8 | -20% |
 | **HbA1c** | 5.9% | 5.5% | -0.4% |
@@ -91,6 +91,6 @@ METHAP trial designed with 220 participants to provide 80% statistical power to 
 *Source: [[LitNote_Statistical_Analysis_Omics_L-001-0617]] | 2026-03-09*
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

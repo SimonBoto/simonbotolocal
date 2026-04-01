@@ -13,15 +13,15 @@ created: 2026-03-01
 status: conscious
 ---
 
-# Vitamin K2 Warfarin Interaction Caution
+# [[KEYWORD-Vitamin_K2|vitamin k2]] Warfarin Interaction Caution
 
 Patients on vitamin K antagonists (warfarin) require close supervision when taking K2 supplements. Vitamin K can antagonize warfarin's effect. Coordinate with prescribing physician and monitor INR closely.
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
 **Source:** [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]]
-**Related:** [[Vitamin_K2_MK4_MK7_Osteocalcin_Activation_[Z-001-0092].md]], [[MOC-Clinical-Protocols]]
+**Related:** [[Vitamin_K2_MK4_MK7_Osteocalcin_Activation_[Z-001-0092].md]], [[MOC-[[KEYWORD-Clinical|clinical]]-Protocols]]
 
 ---
 

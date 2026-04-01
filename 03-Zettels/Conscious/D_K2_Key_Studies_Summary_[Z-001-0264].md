@@ -35,7 +35,7 @@ extraction-date: 2026-03-01
 **METHAP Relevance:**
 - Supports K2 for vascular health
 - 180 mcg MK-7 = Effective dose
-- Long-term safety demonstrated
+- Long-term [[KEYWORD-Safety|safety]] demonstrated
 
 ## Shea et al. (2015)
 

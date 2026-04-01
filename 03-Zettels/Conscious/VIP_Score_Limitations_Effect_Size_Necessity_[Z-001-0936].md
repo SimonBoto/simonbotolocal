@@ -29,7 +29,7 @@ source-litnote: Synthesized from clinical practice
 | Correlation with other variables | High |
 | Biological relevance | None |
 | Within-group variability | Ignored |
-| Practical/clinical significance | None |
+| Practical/[[KEYWORD-Clinical|clinical]] significance | None |
 
 ## Critical Limitations
 
@@ -83,12 +83,12 @@ source-litnote: Synthesized from clinical practice
 
 ## Clinical Translation
 
-### Biomarker Claims Require Effect Sizes
+### [[KEYWORD-Biomarker|biomarker]] Claims Require Effect Sizes
 - **Diagnostic biomarker:** Needs large effect size (d > 0.8) for clinical utility
 - **Mechanistic insight:** Moderate effect (d > 0.5) acceptable with pathway coherence
 - **Screening tool:** Small effect (d > 0.2) only if combined with other markers
 
-### VIP-Only Biomarkers Fail Validation
+### VIP-Only [[KEYWORD-Biomarker|biomarkers]] Fail Validation
 Studies reporting VIP > 1 without effect sizes:
 - 60-80% fail replication in independent cohorts
 - Most represent statistical noise or batch effects

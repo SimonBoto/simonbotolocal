@@ -49,7 +49,7 @@ Key enzymes ~30-50% identical across domains:
 ### Evolutionary Logic
 - Simple 3C units easier to manage
 - Trioses connect to multiple pathways
-- Modular metabolism
+- Modular [[KEYWORD-Metabolism|metabolism]]
 
 ## Prebiotic Plausibility
 
@@ -65,7 +65,7 @@ Key enzymes ~30-50% identical across domains:
 
 ## Modern Implications
 
-### Cancer Metabolism (Warburg Effect)
+### [[KEYWORD-Cancer|cancer]] Metabolism (Warburg Effect)
 - Aerobic glycolysis despite oxygen
 - "Atavistic" return to ancient metabolism?
 - Rapid ATP production for proliferation
@@ -79,7 +79,7 @@ Key enzymes ~30-50% identical across domains:
 ## Related
 - [[Timeline_Prebiotic_Chemistry_to_LUCA_[Z-101-0464]]] Timeline Prebiotic to LUCA
 - [[Triose_Structure_Glyceraldehyde_DHAP_[Z-001-0466]]] Triose Structure
-- [[MOC-Evolutionary-Biochemistry]]
+- [[MOC-Evolutionary-[[KEYWORD-Biochemistry|biochemistry]]]]
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

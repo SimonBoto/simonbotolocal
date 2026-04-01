@@ -36,7 +36,7 @@ Each Krebs cycle intermediate has clinical meaning when elevated or depleted on 
 **Normal role:** Key intermediate; glutamate precursor
 **Elevated:** 
 - B-vitamin cofactor insufficiency
-- Glutamate metabolism issues
+- Glutamate [[KEYWORD-Metabolism|metabolism]] issues
 **Clinical action:** B-complex support
 
 ### Succinyl-CoA
@@ -89,6 +89,6 @@ Each Krebs cycle intermediate has clinical meaning when elevated or depleted on 
 *Source: CGPT-0022 — Mitochondrial biochemistry*
 
 ## RELATED FILES
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
 

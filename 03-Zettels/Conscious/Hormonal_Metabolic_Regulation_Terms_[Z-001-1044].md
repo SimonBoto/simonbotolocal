@@ -16,14 +16,14 @@ created: 2026-03-08
 # Hormonal Metabolic Regulation Terms
 
 ## Overview
-10 terms defining hormonal control of metabolism and clinical markers.
+10 terms defining hormonal control of [[KEYWORD-Metabolism|metabolism]] and clinical markers.
 
 ## The Terms (Category D)
 
 | Term | Definition | Clinical Relevance |
 |------|------------|-------------------|
 | **Ινσουλίνη** | Energy storage hormone | Central metabolic regulator |
-| **Αντίσταση Ινσουλίνης** | Cellular insulin insensitivity | Core of metabolic syndrome |
+| **Αντίσταση Ινσουλίνης** | Cellular [[KEYWORD-Insulin|insulin]] insensitivity | Core of metabolic syndrome |
 | **Γλυκογονόλυση** | Glycogen → glucose | Emergency fuel release |
 | **Γλυκονεογένεση** | Glucose synthesis | Liver fuel production |
 | **Κορτιζόλη** | Stress hormone | Chronically elevated → metabolic damage |
@@ -44,7 +44,7 @@ created: 2026-03-08
 
 ## Related
 - [[MOC-Insulin-Resistance]]
-- [[MOC-Vitamin-D-Metabolism]]
+- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Metabolism]]
 - [[MOC-Cholesterol-Quality]]
 
 ---

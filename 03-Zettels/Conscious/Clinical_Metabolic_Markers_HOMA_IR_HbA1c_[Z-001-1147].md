@@ -16,7 +16,7 @@ created: 2026-03-08
 # Clinical Metabolic Markers HOMA IR HbA1c
 
 ## Overview
-Standard clinical metabolic markers provide validated, accessible measures of glucose metabolism and insulin resistance—serving as both diagnostic tools and outcome measures in the METHAP trial.
+Standard clinical metabolic markers provide validated, accessible measures of glucose [[KEYWORD-Metabolism|metabolism]] and insulin resistance—serving as both diagnostic tools and outcome measures in the METHAP trial.
 
 ## Fasting Glucose
 
@@ -154,13 +154,13 @@ HOMA-IR = (Fasting insulin μU/mL × Fasting glucose mmol/L) ÷ 22.5
 | **HDL** | >40/50 | <40/50 | <40/50 |
 
 ## Related
-- [[Urine_Organic_Acids_OAT_Metabolic_Biomarker_[Z-001-1145].md]]
+- [[Urine_Organic_Acids_OAT_Metabolic_[[KEYWORD-Biomarker|biomarker]]_[Z-001-1145].md]]
 - [[Plasma_Total_Fatty_Acids_TFA_Profile_[Z-001-1146].md]]
 - [[Novel_vs_Traditional_Markers_Insulin_Resistance_[Z-001-1148].md]]
 - [[MOC-Clinical-Protocols]]
 
 ---
-*Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
+*Source: CGPT-0475 — Metabolic [[KEYWORD-Biomarker|biomarkers]] for insulin resistance*
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]

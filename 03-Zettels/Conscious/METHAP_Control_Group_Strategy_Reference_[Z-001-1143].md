@@ -38,9 +38,9 @@ The METHAP trial employs a dual control strategy: metabolically healthy particip
 ### Metabolically Healthy Reference
 | Use | Application |
 |-----|-------------|
-| **Biomarker comparison** | IR vs. healthy pattern |
+| **[[KEYWORD-Biomarker|biomarker]] comparison** | IR vs. healthy pattern |
 | **Diagnostic thresholds** | Define abnormal ranges |
-| **Pathway analysis** | Identify dysregulated metabolism |
+| **Pathway analysis** | Identify dysregulated [[KEYWORD-Metabolism|metabolism]] |
 | **Intervention target** | Goal = move toward healthy |
 
 ### Insulin-Resistant Control
@@ -124,7 +124,7 @@ Reference          Natural course           Treatment effect
 - [[MOC-PhD-Research]]
 
 ---
-*Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
+*Source: CGPT-0475 — Metabolic [[KEYWORD-Biomarker|biomarkers]] for insulin resistance*
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]

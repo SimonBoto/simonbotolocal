@@ -11,7 +11,7 @@ created: 2026-03-04
 source: [[L-101-0045A]]
 ---
 
-# Amino Acids vs Nucleobases: Molecular Building Blocks
+# [[KEYWORD-Amino_Acids|amino acids]] vs Nucleobases: Molecular Building Blocks
 
 ## Shared Features
 Both amino acids and nucleobases are **fundamental building blocks of life** with nitrogen content:
@@ -42,7 +42,7 @@ Both amino acids and nucleobases are **fundamental building blocks of life** wit
 | **Amino acid** | -NH₂ (amine), -COOH (carboxyl) | Protein polymerization |
 | **Nucleobase** | Nitrogenous ring | Base pairing, hydrogen bonding |
 
-## Evolutionary Implications
+## [[KEYWORD-Evolution|evolution]]ary Implications
 
 ### Prebiotic Plausibility
 - **Amino acids:** Miller-Urey synthesis confirmed (1953)
@@ -59,7 +59,7 @@ Both amino acids and nucleobases are **fundamental building blocks of life** wit
 Simos noted: *"Amino acids are like nucleobases with oxygen"*
 
 This structural parallel suggests:
-1. Common carbon/nitrogen chemistry origins
+1. Common carbon/nitrogen [[KEYWORD-Chemistry|chemistry]] origins
 2. Oxygen addition enabled new functions (peptide bonds, acid-base chemistry)
 3. Divergent evolution from simple organic molecules
 

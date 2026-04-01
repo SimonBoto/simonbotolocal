@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]]"
 status: conscious
 ---
 
-# Complete Adipate Metabolism — Formation to Krebs Entry
+# Complete Adipate [[KEYWORD-Metabolism|metabolism]] — Formation to Krebs Entry
 
 ## Overview
 
@@ -40,7 +40,7 @@ Adipate (C6 dicarboxylic acid)
 Adipate + CoA + ATP → Adipyl-CoA + AMP + PPi
 ```
 
-- Location: Mitochondrial matrix or peroxisomes
+- Location: [[KEYWORD-Mitochondria|mitochondria]]l matrix or peroxisomes
 - Enzyme: Broad-specificity acyl-CoA synthetase
 - Requires: Coenzyme A (B5-dependent)
 
@@ -111,7 +111,7 @@ Produces:
 
 ---
 
-## Clinical Implications
+## [[KEYWORD-Clinical|clinical]] Implications
 
 ### Why Adipate Accumulates
 If adipate produces energy, why does it appear in urine?

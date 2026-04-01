@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Ketogenesis Mechanism Liver Mitochondria
+# Ketogenesis Mechanism Liver [[KEYWORD-Mitochondria|mitochondria]]
 
 ## Overview
 Ketogenesis is the metabolic process by which the liver converts fatty acids into ketone bodies, primarily occurring in mitochondria during periods of carbohydrate restriction.
@@ -21,7 +21,7 @@ Ketogenesis is the metabolic process by which the liver converts fatty acids int
 ## When Ketogenesis Occurs
 
 ### Triggers
-| Condition | Mechanism | Insulin Effect |
+| Condition | Mechanism | [[KEYWORD-Insulin|insulin]] Effect |
 |-----------|-----------|----------------|
 | **Fasting** | Glucose depletion | Low insulin |
 | **Low-carb diet** | Restricted glucose availability | Low insulin |
@@ -64,7 +64,7 @@ Acetoacetate ↔ BHB (beta-hydroxybutyrate dehydrogenase)
 ## Why the Liver?
 
 ### Unique Liver Features
-- **High mitochondrial density:** Supports β-oxidation
+- **High [[KEYWORD-Mitochondria|mitochondrial]] density:** Supports β-oxidation
 - **HMG-CoA lyase expression:** Essential enzyme for ketogenesis
 - **Low ketone utilization:** Produces but doesn't consume ketones
 - **Glucose-guardian role:** Spares glucose for obligate users (brain, RBCs)

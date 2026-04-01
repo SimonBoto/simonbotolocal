@@ -24,7 +24,7 @@ The distinction between **exploratory** (hypothesis-generating) and **confirmato
 ## Exploratory Research
 
 ### Purpose
-Generate hypotheses, identify patterns, discover candidate biomarkers from high-dimensional data.
+Generate hypotheses, identify patterns, discover candidate [[KEYWORD-Biomarker|biomarker]]s from high-dimensional data.
 
 ### Characteristics
 | Dimension | Standard |
@@ -95,7 +95,7 @@ Test pre-specified hypotheses with rigorous methodology.
 
 ### The Trap
 Presenting exploratory findings with confirmatory confidence:
-- ❌ "We identified significant biomarkers" (from underpowered study)
+- ❌ "We identified significant [[KEYWORD-Biomarker|biomarkers]]" (from underpowered study)
 - ❌ "Clinical utility demonstrated" (without validation)
 - ❌ "DHEAS is a validated biomarker" (from single small cohort)
 
@@ -109,7 +109,7 @@ Presenting exploratory findings with confirmatory confidence:
 ## METHAP Application
 
 ### For PhD Trial Design
-1. **Discovery phase:** Exploratory metabolomics screen (FDR = 0.1)
+1. **Discovery phase:** Exploratory [[KEYWORD-Metabolomics|metabolomics]] screen (FDR = 0.1)
 2. **Verification phase:** Targeted validation in split sample (FDR = 0.05)
 3. **Validation phase:** Independent cohort confirmation
 4. **Reporting:** Always label phase explicitly

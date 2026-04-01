@@ -22,7 +22,7 @@ Calcium oxalate is the most common kidney stone type. CKD patients have increase
 ### Sources
 
 **Endogenous Production:**
-- Glyoxylate metabolism (primary source)
+- Glyoxylate [[KEYWORD-Metabolism|metabolism]] (primary source)
 - Ascorbic acid (vitamin C) conversion
 - Amino acid metabolism (hydroxyproline)
 - ~50-100 mg/day produced internally
@@ -289,7 +289,7 @@ Calcium oxalate is the most common kidney stone type. CKD patients have increase
 
 **Post-Bariatric Surgery:**
 - Fat malabsorption
-- Increased free fatty acids in gut
+- Increased free [[KEYWORD-Fatty_Acids|fatty acids]] in gut
 - Bind calcium
 - More oxalate available for absorption
 
@@ -304,7 +304,7 @@ Calcium oxalate is the most common kidney stone type. CKD patients have increase
 **Definition:**
 - Acute or chronic kidney injury from oxalate crystal deposition
 - Tubular injury
-- Interstitial inflammation
+- Interstitial [[KEYWORD-Inflammation|inflammation]]
 - Progressive fibrosis
 
 **Causes:**

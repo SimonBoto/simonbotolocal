@@ -60,11 +60,11 @@ status: conscious
 ## The Vicious Cycle in Autoimmunity
 
 ```
-Autoimmune Inflammation
+Autoimmune [[KEYWORD-Inflammation|inflammation]]
       ↓
 Immune Cell Activation
       ↓
-Mitochondrial Dysfunction + NADPH Oxidase
+[[KEYWORD-Mitochondria|mitochondria]]l Dysfunction + NADPH Oxidase
       ↓
 ROS Production ↑
       ↓
@@ -87,7 +87,7 @@ More Cell Divisions + More Inflammation
 **Sources:**
 - Neutrophil oxidative burst
 - Macrophage respiratory burst
-- Mitochondrial dysfunction from cytokines
+- [[KEYWORD-Mitochondria|mitochondrial]] dysfunction from cytokines
 
 **Cytokines:**
 - TNF-α: Activates NADPH oxidase

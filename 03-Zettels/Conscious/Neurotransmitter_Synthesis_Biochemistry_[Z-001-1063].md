@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Neurotransmitter Synthesis Biochemistry
+# Neurotransmitter Synthesis [[KEYWORD-Biochemistry|biochemistry]]
 
 ## Overview
 Neurotransmitters are synthesized from amino acid precursors through vitamin and mineral-dependent pathways.
@@ -71,7 +71,7 @@ Glutamate → GABA
 - Primary inhibitory neurotransmitter
 - Counterbalances glutamate (excitatory)
 
-## Clinical Integration
+## [[KEYWORD-Clinical|clinical]] Integration
 
 ### Nutrient Deficiencies Affecting Neurotransmitters
 | Deficiency | Affected NT | Symptoms |
@@ -88,7 +88,7 @@ Glutamate → GABA
 - **HPHPA** from Clostridia inhibits dopamine conversion
 
 ## Related
-- [[One_Carbon_Metabolism_Folate_B12_[Z-001-1062].md]]
+- [[One_Carbon_[[KEYWORD-Metabolism|metabolism]]_Folate_B12_[Z-001-1062].md]]
 - [[Gut_Microbiome_OAT_Markers_[Z-001-1064].md]]
 - [[MOC-Methylation-One-Carbon]]
 

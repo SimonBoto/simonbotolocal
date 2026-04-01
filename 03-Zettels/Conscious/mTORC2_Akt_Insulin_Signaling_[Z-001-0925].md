@@ -12,7 +12,7 @@ extraction-date: 2026-03-02
 updated: 2026-03-05
 ---
 
-# Chronic Sirolimus Inhibits mTORC2 Disrupting Akt Insulin Signaling
+# Chronic Sirolimus Inhibits mTORC2 Disrupting Akt [[KEYWORD-Insulin|insulin]] Signaling
 
 **Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
 
@@ -20,7 +20,7 @@ updated: 2026-03-05
 
 ### mTORC1 (Raptor-containing)
 - **Acute sirolimus sensitivity:** High
-- **Key functions:** Protein synthesis, autophagy, metabolism
+- **Key functions:** Protein synthesis, autophagy, [[KEYWORD-Metabolism|metabolism]]
 - **Substrates:** S6K1, 4E-BP1, ULK1
 
 ### mTORC2 (Rictor-containing)
@@ -52,7 +52,7 @@ updated: 2026-03-05
 ### Acute Exposure (mTORC1 only)
 - mTORC1 inhibited
 - mTORC2 intact → Akt Ser473 phosphorylation maintained
-- Partial insulin resistance (GLUT4 defect)
+- Partial [[KEYWORD-Insulin_Resistance|insulin resistance]] (GLUT4 defect)
 - Preserved cell survival signals
 
 ### Chronic/High-Dose Exposure (mTORC1 + mTORC2)

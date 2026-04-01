@@ -30,7 +30,7 @@ Pyruvate + CO₂ + ATP → Oxaloacetate + ADP + Pi
 - **Enzyme:** Pyruvate carboxylase (PC)
 - **Cofactor:** Biotin (B7)
 - **Activator:** Acetyl-CoA (feed-forward)
-- **Location:** Mitochondria (liver, kidney)
+- **Location:** [[KEYWORD-Mitochondria|mitochondria]] (liver, kidney)
 
 **Regulation:**
 - ↑ Acetyl-CoA stimulates PC
@@ -41,7 +41,7 @@ Pyruvate + CO₂ + ATP → Oxaloacetate + ADP + Pi
 Aspartate + α-ketoglutarate → Oxaloacetate + Glutamate
 ```
 - Uses amino acid carbon skeletons
-- Connects protein metabolism to Krebs cycle
+- Connects protein [[KEYWORD-Metabolism|metabolism]] to Krebs cycle
 
 ### 3. Glutamate Dehydrogenase
 ```
@@ -62,7 +62,7 @@ Glutamate + NAD⁺ → α-ketoglutarate + NADH + NH₄⁺
 - Pyruvate carboxylase is anaplerotic (adds OAA)
 - Must balance for cycle to function
 
-## Clinical Relevance
+## [[KEYWORD-Clinical|clinical]] Relevance
 
 ### Pyruvate Carboxylase Deficiency
 **Rare, severe:**

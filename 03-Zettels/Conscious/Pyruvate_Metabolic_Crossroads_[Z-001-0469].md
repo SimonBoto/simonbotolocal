@@ -25,7 +25,7 @@ Glucose → ... → 2 Pyruvate
 
 ## Metabolic Fates
 
-### Aerobic: Mitochondrial Oxidation
+### Aerobic: [[KEYWORD-Mitochondria|mitochondria]]l Oxidation
 ```
 Pyruvate → Acetyl-CoA → Krebs cycle
 ```
@@ -62,8 +62,8 @@ Pyruvate connects:
 - **Glycolysis** (carbohydrates)
 - **Krebs cycle** (aerobic energy)
 - **Gluconeogenesis** (glucose synthesis)
-- **Amino acid metabolism** (transamination)
-- **Lipogenesis** (acetyl-CoA → fatty acids)
+- **Amino acid [[KEYWORD-Metabolism|metabolism]]** (transamination)
+- **Lipogenesis** (acetyl-CoA → [[KEYWORD-Fatty_Acids|fatty acids]])
 
 ## Clinical
 **Pyruvate dehydrogenase deficiency:**

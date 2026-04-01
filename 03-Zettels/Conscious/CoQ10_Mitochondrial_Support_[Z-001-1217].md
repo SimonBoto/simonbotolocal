@@ -10,11 +10,11 @@ source-litnote: "[[LitNote_Mitochondrial_Structure_Biology_L-001-0633]]"
 status: conscious
 ---
 
-# CoQ10 Mitochondrial Support — Forms and Mechanisms
+# CoQ10 [[KEYWORD-Mitochondria|mitochondria]]l Support — Forms and [[KEYWORD-Mechanism|mechanism]]s
 
 ## Overview
 
-Coenzyme Q10 (CoQ10) is a critical component of the mitochondrial electron transport chain and a potent lipid-soluble antioxidant. Its reduced form, ubiquinol, is the preferred supplemental form for supporting mitochondrial function.
+Coenzyme Q10 (CoQ10) is a critical component of the [[KEYWORD-Mitochondria|mitochondrial]] electron transport chain and a potent lipid-soluble antioxidant. Its reduced form, ubiquinol, is the preferred supplemental form for supporting mitochondrial function.
 
 ---
 

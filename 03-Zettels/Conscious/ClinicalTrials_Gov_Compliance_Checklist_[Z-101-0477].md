@@ -10,7 +10,7 @@ source-litnote: [[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]]
 status: conscious
 ---
 
-# ClinicalTrials.gov Compliance Checklist
+# [[KEYWORD-Clinical|clinical]]Trials.gov Compliance Checklist
 
 ## Pre-Registration Requirements
 

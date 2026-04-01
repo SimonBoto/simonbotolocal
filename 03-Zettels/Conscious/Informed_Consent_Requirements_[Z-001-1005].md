@@ -15,7 +15,7 @@ status: conscious
 
 ## Overview
 
-Informed consent is the process by which potential participants learn about a research study and voluntarily decide whether to enroll. It is both an ethical and legal requirement.
+Informed consent is the process by which potential participants learn about a [[KEYWORD-Research|research]] study and voluntarily decide whether to enroll. It is both an ethical and legal requirement.
 
 ## Belmont Report Foundation
 
@@ -347,7 +347,7 @@ Informed consent is the process by which potential participants learn about a re
 - Electronic consent acceptable
 - Cultural adaptations appropriate
 
-**Clinical Pearl:** Informed consent is a process, not just a form. Genuine understanding and voluntary participation are the goals, not just signatures on paper.
+**[[KEYWORD-Clinical|clinical]] Pearl:** Informed consent is a process, not just a form. Genuine understanding and voluntary participation are the goals, not just signatures on paper.
 
 ---
 

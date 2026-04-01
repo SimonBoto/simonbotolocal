@@ -40,8 +40,8 @@ Systems biology studies the totality of biomolecules comprising an organism, the
 
 The METHAP trial applies systems biology principles by:
 1. Measuring multiple metabolite classes (urine OA, plasma TFA)
-2. Correlating with environmental factors (Vitamin D status)
-3. Tracking phenotypic outcomes (insulin resistance markers)
+2. Correlating with environmental factors ([[KEYWORD-Vitamin_D|vitamin d]] status)
+3. Tracking phenotypic outcomes ([[KEYWORD-Insulin|insulin]] resistance markers)
 4. Building predictive models from multi-parameter data
 
 ## Links
@@ -54,7 +54,7 @@ The METHAP trial applies systems biology principles by:
 
 **Also relevant to:** [[MOC-PhD-METHAP-Trial]]
 
-**Emerges from:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
+**Emerges from:** [[NKUA_2024_Basics_[[KEYWORD-Metabolomics|metabolomics]]_DE1_L-001-0001]]
 **Supports:** [[IR_Mechanisms_Map]] — Systems view of insulin resistance
 
 ---

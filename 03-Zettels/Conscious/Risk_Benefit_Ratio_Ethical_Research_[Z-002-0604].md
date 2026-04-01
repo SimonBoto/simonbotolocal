@@ -12,7 +12,7 @@ confidence: high
 created: 2026-03-27
 ---
 
-# Favorable Risk-Benefit Ratio in Research Ethics
+# Favorable Risk-Benefit Ratio in [[KEYWORD-Research|research]] Ethics
 
 Potential benefits must outweigh risks, with risks minimized to the extent possible. This assessment must be systematic, thorough, and ongoing throughout the research.
 

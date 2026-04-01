@@ -13,13 +13,13 @@ created: 2026-03-01
 status: conscious
 ---
 
-# Denosumab RANKL Antibody Mechanism
+# Denosumab RANKL Antibody [[KEYWORD-Mechanism|mechanism]]
 
 Denosumab is a fully human monoclonal antibody that binds to RANKL, preventing it from activating RANK on osteoclasts. This reduces osteoclast differentiation, activity, and survival, thereby decreasing bone resorption and increasing BMD.
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
 **Source:** [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]]
 **Related:** [[RANK_RANKL_OPG_Osteoclast_Regulation_[Z-001-0082].md]], [[Denosumab_Rebound_Fractures_Discontinuation_[Z-001-0086].md]]
 

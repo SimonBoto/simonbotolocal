@@ -11,7 +11,7 @@ created: 2026-03-04
 source: [[L-001-0045F]]
 ---
 
-# Aldehyde vs Ketone Chemistry
+# Aldehyde vs Ketone [[KEYWORD-Chemistry|chemistry]]
 
 ## Core Structures
 

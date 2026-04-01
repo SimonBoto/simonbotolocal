@@ -23,7 +23,7 @@ Beta-hydroxybutyrate (BHB) is the most abundant circulating ketone body, produce
 
 ### Precursor Requirement
 - **Elevated mitochondrial acetyl-CoA** from beta-oxidation
-- **Low insulin / high glucagon ratio**
+- **Low [[KEYWORD-Insulin|insulin]] / high glucagon ratio**
 - **Exceeds Krebs cycle capacity** (oxaloacetate limitation)
 
 ---
@@ -132,7 +132,7 @@ OUTPUT:
 
 ### BHB Not "Just" a Fuel
 - **Histone modification:** BHB is HDAC inhibitor → epigenetic effects
-- **Inflammation:** BHB blocks NLRP3 inflammasome
+- **[[KEYWORD-Inflammation|inflammation]]:** BHB blocks NLRP3 inflammasome
 - **Gene expression:** Ketone bodies regulate metabolic genes
 
 ---
@@ -148,5 +148,5 @@ OUTPUT:
 
 ## Source
 
-Extracted from: [[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]  
+Extracted from: [[LitNote_Ketone_Body_[[KEYWORD-Metabolism|metabolism]]_Deep_Dive_L-001-0655]]  
 CGPT-0647 (April 30, 2023) — Messages 27-30

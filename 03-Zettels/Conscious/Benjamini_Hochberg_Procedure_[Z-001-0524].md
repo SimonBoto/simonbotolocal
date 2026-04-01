@@ -91,7 +91,7 @@ This creates a **step-up** procedure that maximizes power while controlling FDR.
 
 ✅ **Independent tests** — original BH procedure  
 ✅ **Positive dependence** — BH procedure still valid (Benjamini & Yekutieli extension)  
-✅ **High-dimensional data** — metabolomics, genomics, proteomics  
+✅ **High-dimensional data** — [[KEYWORD-Metabolomics|metabolomics]], genomics, proteomics  
 
 ### Limitations
 

@@ -12,7 +12,7 @@ confidence: high
 created: 2026-03-27
 ---
 
-# Declaration of Helsinki on Research Ethics
+# Declaration of Helsinki on [[KEYWORD-Research|research]] Ethics
 
 World Medical Association's international ethical standard for medical research involving human subjects. First adopted 1964, revised multiple times (1975, 1983, 1989, 1996, 2000, 2008, 2013).
 
@@ -36,7 +36,7 @@ World Medical Association's international ethical standard for medical research 
 - Higher scrutiny for non-therapeutic research
 
 ### Placebo Use
-Controversial evolution:
+Controversial [[KEYWORD-Evolution|evolution]]:
 - 1964: Permitted if no proven therapy exists
 - 2000: Placebo acceptable only if no proven effective alternative
 - 2008: Placebo only when scientifically necessary and no additional risk

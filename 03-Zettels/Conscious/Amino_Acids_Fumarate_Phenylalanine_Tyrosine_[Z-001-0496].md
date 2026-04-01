@@ -11,7 +11,7 @@ created: 2026-03-04
 source: [[L-001-0046A]]
 ---
 
-# Amino Acids to Fumarate: Phenylalanine and Tyrosine
+# [[KEYWORD-Amino_Acids|amino acids]] to Fumarate: Phenylalanine and Tyrosine
 
 ## The Pathway
 
@@ -35,7 +35,7 @@ Fumarylacetoacetate → Fumarate + Acetoacetate
 - **Fumarate:** Glucogenic (enters Krebs, can make glucose)
 - **Acetoacetate:** Ketogenic (cannot make glucose)
 
-## Clinical: Phenylketonuria (PKU)
+## [[KEYWORD-Clinical|clinical]]: Phenylketonuria (PKU)
 
 ### Cause
 **Phenylalanine hydroxylase deficiency** (or BH₄ synthesis defect)
@@ -70,7 +70,7 @@ Fumarylacetoacetate → Fumarate + Acetoacetate
 
 ## Folate and Iron Connection
 **Phenylalanine hydroxylase requires:**
-- BH₄ (tetrahydrobiopterin) — folate-related metabolism
+- BH₄ (tetrahydrobiopterin) — folate-related [[KEYWORD-Metabolism|metabolism]]
 - Iron (Fe²⁺) — for hydroxylation chemistry
 
 ## Related

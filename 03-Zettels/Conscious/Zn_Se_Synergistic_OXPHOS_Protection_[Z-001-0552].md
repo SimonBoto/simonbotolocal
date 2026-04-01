@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 
 > Zinc and selenium work synergistically to protect ETC from oxidative damage.
 
-## ROS Production in Mitochondria
+## ROS Production in [[KEYWORD-Mitochondria|mitochondria]]
 
 **Sources:**
 - Complex I: ~40% of superoxide
@@ -50,11 +50,11 @@ H₂O (water)
 
 **Without Zn:** O₂⁻ accumulates → ETC damage
 **Without Se:** H₂O₂ accumulates → OH• radical
-**Without Both:** Severe oxidative stress
+**Without Both:** Severe [[KEYWORD-Oxidative_Stress|oxidative stress]]
 
 ---
 
-*Source: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]]*
+*Source: [[LitNote_Zinc_Selenium_[[KEYWORD-Mitochondria|mitochondrial]]_L-001-0510]]*
 
 
 ## RELATED FILES

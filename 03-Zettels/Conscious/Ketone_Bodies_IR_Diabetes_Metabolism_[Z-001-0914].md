@@ -128,7 +128,7 @@ Fatty acids → β-oxidation → Acetyl-CoA ──┬─→ Krebs Cycle (if capa
 
 ### Potential Research Questions
 
-1. **Does VD status affect ketone metabolism?**
+1. **Does VD status affect ketone [[KEYWORD-Metabolism|metabolism]]?**
    - VD deficiency → impaired mitochondrial function → altered ketogenesis?
    - Unknown — potential area for investigation
 
@@ -162,11 +162,11 @@ VD intervention target:
 
 - **Upstream/Prerequisite:** [[Carnitine_Fatty_Acid_Transport_[Z-001-0913].md]] — Ketones produced when fatty acids enter mitochondria but Krebs saturated
 - **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_[Z-001-0912].md]] — Alternative fate for acetyl-CoA
-- **Downstream/Consequence:** [[MOC-PhD-METHAP-Trial]] — Potential biomarker for metabolic flexibility
+- **Downstream/Consequence:** [[MOC-PhD-METHAP-Trial]] — Potential [[KEYWORD-Biomarker|biomarker]] for metabolic flexibility
 
 ## Context
 
-**Also relevant to:** [[IR_Mechanisms_Map]] — Fuel selection in IR, [[MOC-Vitamin-D-Mechanisms]] — Potential VD-ketone interaction
+**Also relevant to:** [[IR_Mechanisms_Map]] — Fuel selection in IR, [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]] — Potential VD-ketone interaction
 
 **Source:** [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 

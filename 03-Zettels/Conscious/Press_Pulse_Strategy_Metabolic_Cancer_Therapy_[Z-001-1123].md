@@ -47,7 +47,7 @@ The Press-Pulse strategy combines chronic metabolic stress (Press) with acute th
 | Outcome | Mechanism |
 |---------|-----------|
 | **Reduce glucose availability** | Starve glycolytic cancer |
-| **Lower insulin/IGF-1** | Reduce growth signaling |
+| **Lower [[KEYWORD-Insulin|insulin]]/IGF-1** | Reduce growth signaling |
 | **Induce metabolic stress** | Weaken cancer cells |
 | **Maintain ketosis** | Nourish normal cells |
 
@@ -102,7 +102,7 @@ The Press-Pulse strategy combines chronic metabolic stress (Press) with acute th
 | Normal Cell | Advantage |
 |-------------|-----------|
 | **Metabolic flexibility** | Switch to ketones during Press |
-| **Healthy mitochondria** | Survive Pulse better |
+| **Healthy [[KEYWORD-Mitochondria|mitochondria]]** | Survive Pulse better |
 | **DNA repair** | Functional under stress |
 
 ## Evidence Base
@@ -141,7 +141,7 @@ The Press-Pulse strategy combines chronic metabolic stress (Press) with acute th
 ## Related
 - [[Cancer_Metabolic_Disease_Mitochondrial_Origin_[Z-001-1121].md]]
 - [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_[Z-001-1122].md]]
-- [[MOC-Cancer-Metabolism]]
+- [[MOC-Cancer-[[KEYWORD-Metabolism|metabolism]]]]
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*

@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # MTHFR Testing and Interpretation
 
-> MTHFR genotyping can guide folate supplementation but should be interpreted cautiously as these are common variants, not pathogenic mutations, and dietary folate status remains the dominant factor.
+> MTHFR genotyping can guide [[KEYWORD-Folate|folate]] supplementation but should be interpreted cautiously as these are common variants, not pathogenic mutations, and dietary folate status remains the dominant factor.
 
 ## Testing Methods
 
@@ -45,7 +45,7 @@ extraction-date: 2026-03-01
 - Supplemental folate overcomes variant effects
 - Don't over-interpret
 
-**Clinical Context:**
+**[[KEYWORD-Clinical|clinical]] Context:**
 - One piece of puzzle
 - Combine with homocysteine levels
 - Consider other B vitamins

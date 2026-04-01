@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Ancel Keys and the Seven Countries Study (1958-1964)
 
-> Ancel Keys' Seven Countries Study became the most influential research in nutrition history, establishing the diet-heart hypothesis that linked saturated fat intake to cardiovascular disease and shaped global dietary guidelines for half a century.
+> Ancel Keys' Seven Countries Study became the most influential [[KEYWORD-Research|research]] in [[KEYWORD-Nutrition|nutrition]] history, establishing the diet-heart hypothesis that linked saturated fat intake to cardiovascular disease and shaped global dietary guidelines for half a century.
 
 ## Ancel Keys (1904-2004)
 
@@ -25,7 +25,7 @@ extraction-date: 2026-03-01
 - Forceful personality, media-savvy
 
 **The Diet-Heart Hypothesis:**
-- Dietary saturated fat → ↑ Blood cholesterol → ↑ CVD
+- Dietary saturated fat → ↑ Blood [[KEYWORD-Cholesterol|cholesterol]] → ↑ CVD
 - Proposed 1950s
 - Gained scientific and public traction
 - Became dominant paradigm

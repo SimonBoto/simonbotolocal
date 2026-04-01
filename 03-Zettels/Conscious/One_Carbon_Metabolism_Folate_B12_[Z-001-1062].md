@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# One Carbon Metabolism Folate B12
+# One Carbon [[KEYWORD-Metabolism|metabolism]] Folate B12
 
 ## Overview
 Integrated pathway of folate and B12 for methylation reactions, DNA synthesis, and homocysteine metabolism.
@@ -53,7 +53,7 @@ SAH → Homocysteine
 - **Folate trap:** Without B12, folate accumulates as 5-MTHF (unusable)
 - **Methylfolate trap:** Without folate, B12 cannot function
 
-## Clinical Markers
+## [[KEYWORD-Clinical|clinical]] Markers
 
 ### Homocysteine
 | Level | Risk |
@@ -83,7 +83,7 @@ SAH → Homocysteine
 - [[MOC-Methylation-One-Carbon]]
 
 ---
-*Source: CGPT-0022 — Vitamin-mineral biochemistry*
+*Source: CGPT-0022 — Vitamin-mineral [[KEYWORD-Biochemistry|biochemistry]]*
 
 
 ## RELATED FILES

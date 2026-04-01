@@ -15,7 +15,7 @@ created: 2026-02-22
 
 # MAPK Pathway for Mitogenic Signaling
 
-Insulin activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
+[[KEYWORD-Insulin|insulin]] activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
 
 **Activation cascade:**
 1. Phosphorylated INSR recruits GRB2 and SHC proteins
@@ -34,12 +34,12 @@ Insulin activates the Ras/MAPK pathway for mitogenic (growth) responses, distinc
 **Clinical relevance:**
 - Metabolic and mitogenic signaling can be uncoupled
 - Some insulin analogs have differential pathway activation
-- Cancer cells exploit mitogenic signaling
+- [[KEYWORD-Cancer|cancer]] cells exploit mitogenic signaling
 
 ## Links
 
 - **Upstream:** [[Insulin_Receptor_Structure_[Z-001-0001]]] — Receptor source
-- **Parallel:** [[PI3K_Activation_Mechanism_[Z-001-0007]]] — Metabolic pathway
+- **Parallel:** [[PI3K_Activation_[[KEYWORD-Mechanism|mechanism]]_[Z-001-0007]]] — Metabolic pathway
 
 ## Context
 

@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Folate Cancer Paradox Prevention Progression
+# Folate [[KEYWORD-Cancer|cancer]] Paradox Prevention Progression
 
 ## Overview
 Folate presents a paradox in cancer: adequate status may prevent cancer initiation, but high intake may promote growth in established tumors—timing and context determine benefit vs risk.
@@ -28,7 +28,7 @@ Folate presents a paradox in cancer: adequate status may prevent cancer initiati
 | **Cancer patients** | High supplementation | Possible progression |
 
 ### The "Dual Effect" Hypothesis
-| Stage | Folate Effect | Mechanism |
+| Stage | Folate Effect | [[KEYWORD-Mechanism|mechanism]] |
 |-------|---------------|-----------|
 | **Initiation** | Protective | DNA stability, repair |
 | **Promotion** | Potentially harmful | Fuels proliferation |
@@ -123,7 +123,7 @@ Folate presents a paradox in cancer: adequate status may prevent cancer initiati
 | **Form of folate** | Folic acid vs food folate vs 5-MTHF? |
 
 ## Related
-- [[One_Carbon_Metabolism_Cancer_Nucleotide_Synthesis_[Z-001-1128].md]]
+- [[One_Carbon_[[KEYWORD-Metabolism|metabolism]]_Cancer_Nucleotide_Synthesis_[Z-001-1128].md]]
 - [[B_Vitamins_Methylation_Epigenetics_Cancer_[Z-001-1129].md]]
 - [[MOC-Cancer-Metabolism]]
 

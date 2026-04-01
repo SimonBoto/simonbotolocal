@@ -13,9 +13,9 @@ created: 2026-03-01
 status: conscious
 ---
 
-# Upper Limits Conservative vs Research Reality
+# Upper Limits Conservative vs [[KEYWORD-Research|research]] Reality
 
-Current IOM Upper Limits (UL) for vitamin D are substantially lower than doses proven safe in clinical research. Pediatric studies demonstrate safety at doses 2-4x UL, creating evidence gap that affects clinical practice and regulatory policy.
+Current IOM Upper Limits (UL) for [[KEYWORD-Vitamin_D|vitamin d]] are substantially lower than doses proven safe in [[KEYWORD-Clinical|clinical]] research. Pediatric studies demonstrate safety at doses 2-4x UL, creating evidence gap that affects clinical practice and regulatory policy.
 
 **Comparison (infants):**
 | Source | Dose | Safety |

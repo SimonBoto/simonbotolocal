@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Warburg Effect Aerobic Glycolysis Cancer
+# Warburg Effect Aerobic Glycolysis [[KEYWORD-Cancer|cancer]]
 
 ## Overview
 The Warburg effect is the metabolic shift in cancer cells where glycolysis is preferentially used for energy production even when oxygen is abundant—a phenomenon termed aerobic glycolysis.
@@ -25,7 +25,7 @@ The Warburg effect is the metabolic shift in cancer cells where glycolysis is pr
 
 ## The Metabolic Shift
 
-### Normal Cell Metabolism (Aerobic)
+### Normal Cell [[KEYWORD-Metabolism|metabolism]] (Aerobic)
 ```
 Glucose → Pyruvate → Acetyl-CoA → Krebs Cycle → OXPHOS
                 ↓
@@ -59,7 +59,7 @@ Glucose → Pyruvate → Lactate
 | **Biosynthesis** | High | Low |
 | **Oxygen need** | Low | High |
 
-## Molecular Mechanisms
+## Molecular [[KEYWORD-Mechanism|mechanism]]s
 
 ### Upstream Regulators
 | Pathway | Effect on Warburg |

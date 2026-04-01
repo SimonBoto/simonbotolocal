@@ -51,7 +51,7 @@ extraction-date: 2026-03-02
 
 ## Adult Scenarios
 
-### Metabolic Syndrome/Insulin Resistance
+### Metabolic Syndrome/[[KEYWORD-Insulin|insulin]] Resistance
 
 **Early IR Detection:**
 - Elevated insulin, normal glucose
@@ -73,7 +73,7 @@ extraction-date: 2026-03-02
 
 **Zidovudine (AZT) Therapy:**
 - Antiretroviral
-- Mitochondrial toxicity
+- [[KEYWORD-Mitochondria|mitochondria]]l toxicity
 - **Action:** UOA if lactic acidosis, myopathy
 
 ### Nutritional/Malabsorption
@@ -91,7 +91,7 @@ extraction-date: 2026-03-02
 ## Pregnancy
 
 ### Physiological Dicarboxylic Aciduria
-- Mild elevation can be normal (increased lipid metabolism)
+- Mild elevation can be normal (increased lipid [[KEYWORD-Metabolism|metabolism]])
 - **Action:** Clinical correlation required
 - Severe elevation warrants investigation
 

@@ -16,7 +16,7 @@ created: 2026-03-03
 
 ## Core Concept
 
-**Steroid hormones** are synthesized from cholesterol through a series of enzymatic modifications in the mitochondria and endoplasmic reticulum. The pathway branches to produce glucocorticoids (cortisol), mineralocorticoids (aldosterone), androgens (testosterone, DHEA), and estrogens (estradiol) — each serving distinct physiological functions.
+**Steroid hormones** are synthesized from cholesterol through a series of enzymatic modifications in the [[KEYWORD-Mitochondria|mitochondria]] and endoplasmic reticulum. The pathway branches to produce glucocorticoids (cortisol), mineralocorticoids (aldosterone), androgens (testosterone, DHEA), and estrogens (estradiol) — each serving distinct physiological functions.
 
 ---
 
@@ -57,13 +57,13 @@ Cholesterol → Pregnenolone → 17-OH-Pregnenolone → 17-OH-Progesterone →
 ### Functions of Cortisol
 | System | Effect |
 |--------|--------|
-| **Metabolism** | Gluconeogenesis, protein breakdown, lipolysis |
+| **[[KEYWORD-Metabolism|metabolism]]** | Gluconeogenesis, protein breakdown, lipolysis |
 | **Immune** | Anti-inflammatory, immunosuppressive |
 | **Cardiovascular** | Vascular tone, catecholamine sensitivity |
 | **Stress** | "Fight or flight" preparation |
 
 ### Clinical: Cushing's vs Addison's
-- **Cushing's:** Excess cortisol → Weight gain, diabetes, immunosuppression
+- **Cushing's:** Excess cortisol → Weight gain, [[KEYWORD-Diabetes|diabetes]], immunosuppression
 - **Addison's:** Cortisol deficiency → Fatigue, hypotension, crisis
 
 ---

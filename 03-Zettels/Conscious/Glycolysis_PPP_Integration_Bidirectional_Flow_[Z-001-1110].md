@@ -38,7 +38,7 @@ Glucose-6-P
 | **NADP⁺/NADPH** | Low | High |
 | **ATP/ADP** | High | Low |
 | **Ribose need** | - | High |
-| **Insulin** | Stimulates | Stimulates |
+| **[[KEYWORD-Insulin|insulin]]** | Stimulates | Stimulates |
 
 ## Bidirectional Flow
 
@@ -77,7 +77,7 @@ Ribose-5-P + Xylulose-5-P
 | Feature | Reason |
 |---------|--------|
 | **High PPP flux** | Need NADPH to maintain glutathione |
-| **No mitochondria** | Only glycolysis + PPP |
+| **No [[KEYWORD-Mitochondria|mitochondria]]** | Only glycolysis + PPP |
 | **G6PD deficiency** | Hemolytic anemia (insufficient NADPH) |
 
 ### Adipose Tissue
@@ -108,7 +108,7 @@ Ribose-5-P + Xylulose-5-P
 | [[MOC-Glycolysis-PPP]]
 
 ---
-*Source: CGPT-0445 — Advanced biochemistry*
+*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*
 
 
 ## RELATED FILES

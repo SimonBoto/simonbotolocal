@@ -10,10 +10,10 @@ source-litnote: [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]]
 status: conscious
 ---
 
-# Sirolimus mTOR Mitochondrial Mechanisms
+# Sirolimus mTOR [[KEYWORD-Mitochondria|mitochondria]]l Mechanisms
 
 ## Overview
-Sirolimus (rapamycin) inhibits the mechanistic target of rapamycin (mTOR), a critical regulator of cell growth, metabolism, and mitochondrial function.
+Sirolimus (rapamycin) inhibits the mechanistic target of rapamycin (mTOR), a critical regulator of cell growth, [[KEYWORD-Metabolism|metabolism]], and mitochondrial function.
 
 ## mTOR Complexes
 | Complex | Primary Function | Sirolimus Sensitivity |
@@ -161,7 +161,7 @@ mTORC1 inhibited → Autophagy induced → Cellular component clearance
 ## Related
 - **Source:** [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]]
 - **Diabetes connection:** [[mTOR_Diabetes_Pathophysiology_[Z-101-0484].md]]
-- **Insulin signaling:** [[MOC-Insulin-Signaling]]
+- **[[KEYWORD-Insulin|insulin]] signaling:** [[MOC-Insulin-Signaling]]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*

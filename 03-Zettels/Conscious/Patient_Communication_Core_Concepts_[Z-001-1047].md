@@ -22,14 +22,14 @@ created: 2026-03-08
 
 | # | Concept | Patient Explanation | Why It Matters |
 |---|---------|---------------------|----------------|
-| 1 | **Metabolism** | "How your body produces energy and repairs itself" | Central axis of care |
+| 1 | **[[KEYWORD-Metabolism|metabolism]]** | "How your body produces energy and repairs itself" | Central axis of care |
 | 2 | **Energy/Mitochondria** | "Energy is the fuel for everything—without it, hormones, gut, sleep, weight all fail" | Motivates compliance |
 | 3 | **Inflammation** | "Acute = protective; chronic = destructive underlying most symptoms" | Explains persistence |
 | 4 | **Oxidative Stress** | "Your body 'rusts' when load exceeds defenses" | Visual, memorable |
 | 5 | **Micronutrients** | "Not multivitamins—fuel for your body's functions" | Reduces supplement fear |
-| 6 | **Metabolites** | "We measure how your body works, not just numbers" | Explains metabolomics |
+| 6 | **Metabolites** | "We measure how your body works, not just numbers" | Explains [[KEYWORD-Metabolomics|metabolomics]] |
 | 7 | **Microbiome** | "Gut bacteria produce vitamins, regulate immunity, affect mood" | Justifies dietary change |
-| 8 | **Insulin Resistance** | "Hormone of energy and storage—when cells don't respond, body blocks everywhere" | Beyond "blood sugar" |
+| 8 | **[[KEYWORD-Insulin|insulin]] Resistance** | "Hormone of energy and storage—when cells don't respond, body blocks everywhere" | Beyond "blood sugar" |
 | 9 | **Fatty Acids** | "Membrane building blocks—omegas determine inflammation levels" | Omega-3/6 relevance |
 | 10 | **Detoxification** | "How your body clears toxins—needs energy first" | Sets expectations |
 | 11 | **Hormonal Balance** | "Hormones need energy and nutrients to work properly" | Connected systems |

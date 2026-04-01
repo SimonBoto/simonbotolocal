@@ -32,11 +32,11 @@ Pre-scripted responses to common patient objections—validated, reframed, actio
 
 ### "My doctor says this is nonsense"
 **Response:**
-> "Your doctor cares about you—that's why they speak up. Metabolomics is newer, but it's based on biochemistry textbooks. The markers we measure are real molecules with known functions. Would you like to see the research?"
+> "Your doctor cares about you—that's why they speak up. [[KEYWORD-Metabolomics|metabolomics]] is newer, but it's based on [[KEYWORD-Biochemistry|biochemistry]] textbooks. The markers we measure are real molecules with known functions. Would you like to see the research?"
 
 ### "This isn't FDA approved"
 **Response:**
-> "The FDA approves drugs and devices. What we do is clinical nutrition—using vitamins, minerals, and diet changes. These are substances your body already uses; we're just optimizing levels based on your specific test results."
+> "The FDA approves drugs and devices. What we do is clinical [[KEYWORD-Nutrition|nutrition]]—using vitamins, minerals, and diet changes. These are substances your body already uses; we're just optimizing levels based on your specific test results."
 
 ## Complexity Objections
 

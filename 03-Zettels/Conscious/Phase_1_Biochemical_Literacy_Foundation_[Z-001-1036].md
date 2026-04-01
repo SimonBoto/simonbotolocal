@@ -16,7 +16,7 @@ created: 2026-03-08
 # Phase 1 Biochemical Literacy Foundation
 
 ## Overview
-Weeks 1-2 of bootcamp: Rewiring mental models of metabolism, energy, and cellular function.
+Weeks 1-2 of bootcamp: Rewiring mental models of [[KEYWORD-Metabolism|metabolism]], energy, and cellular function.
 
 ## Week 1: Biochemical Literacy Reboot
 
@@ -25,9 +25,9 @@ Weeks 1-2 of bootcamp: Rewiring mental models of metabolism, energy, and cellula
 |---------|---------|
 | **Metabolism** | Information flow, not just chemistry |
 | **ATP** | Ritual of phosphate transfer, not just molecule |
-| **Mitochondria** | Decision-makers, not furnaces |
+| **[[KEYWORD-Mitochondria|mitochondria]]** | Decision-makers, not furnaces |
 | **Redox tone** | NAD⁺/NADH, FAD/FADH₂, glutathione logic |
-| **Metabolomics advantage** | Sees dysfunction *before* pathology |
+| **[[KEYWORD-Metabolomics|metabolomics]] advantage** | Sees dysfunction *before* pathology |
 
 ### Deliverables
 - Interactive diagrams

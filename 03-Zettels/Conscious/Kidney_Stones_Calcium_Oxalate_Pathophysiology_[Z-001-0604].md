@@ -11,7 +11,7 @@ confidence: high
 created: 2026-03-04
 ---
 
-# Kidney Stones — Calcium Oxalate Pathophysiology
+# Kidney Stones — [[KEYWORD-Calcium|calcium]] [[KEYWORD-Oxalate|oxalate]] Pathophysiology
 
 ## Epidemiology
 
@@ -19,7 +19,7 @@ created: 2026-03-04
 **Composition:** Calcium oxalate (CaC₂O₄)  
 **Risk factors:** Dietary oxalate, dehydration, genetic factors
 
-## Formation Mechanisms
+## Formation [[KEYWORD-Mechanism|mechanism]]s
 
 ### 1. Supersaturation
 - Urine becomes supersaturated with calcium and oxalate

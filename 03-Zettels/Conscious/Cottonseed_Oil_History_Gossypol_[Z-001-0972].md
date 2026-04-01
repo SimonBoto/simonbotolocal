@@ -42,7 +42,7 @@ status: conscious
 
 ## Gossypol — The Toxic Compound
 
-### Chemistry
+### [[KEYWORD-Chemistry|chemistry]]
 
 **Structure:**
 - Polyphenolic binaphthyl dialdehyde
@@ -125,7 +125,7 @@ status: conscious
 | **Other saturated** | 3-5% |
 
 **Characteristics:**
-- High omega-6 (linoleic acid)
+- High [[KEYWORD-Omega_6|omega-6]] (linoleic acid)
 - Moderate saturated fat
 - Relatively stable (some natural antioxidants — tocopherols)
 - Neutral flavor when refined

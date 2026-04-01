@@ -67,13 +67,13 @@ extraction-date: 2026-03-01
 - Processed food industry boomed
 - Obesity/diabetes rates rose
 
-## Nutritional Impact
+## [[KEYWORD-Nutrition|nutrition]]al Impact
 
 **Fat Profile Change:**
 | Fat Type | 1900 | 2000 |
 |----------|------|------|
 | **Saturated** | High | Reduced |
-| **Omega-6** | Low | Very High |
+| **[[KEYWORD-Omega_6|omega-6]]** | Low | Very High |
 | **Omega-3** | Moderate | Low |
 | **Trans fat** | None | High (now reduced) |
 
@@ -85,7 +85,7 @@ extraction-date: 2026-03-01
 ## Health Consequences (Debated)
 
 **Potential Harms:**
-- Increased inflammation
+- Increased [[KEYWORD-Inflammation|inflammation]]
 - Oxidative stress
 - Cardiovascular risk?
 - Metabolic dysfunction?

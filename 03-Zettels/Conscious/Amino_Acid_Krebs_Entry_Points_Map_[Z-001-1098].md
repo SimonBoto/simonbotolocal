@@ -16,7 +16,7 @@ created: 2026-03-08
 # Amino Acid Krebs Entry Points Map
 
 ## Overview
-Each amino acid enters the Krebs cycle at specific points, feeding carbon skeletons into central energy metabolism.
+Each amino acid enters the [[KEYWORD-Krebs_Cycle|krebs cycle]] at specific points, feeding carbon skeletons into central energy [[KEYWORD-Metabolism|metabolism]].
 
 ## Entry Points by Krebs Intermediate
 
@@ -108,4 +108,4 @@ CARBON SKELETONS
 - [[MOC-Krebs-Cycle]]
 
 ---
-*Source: CGPT-0445 — Advanced biochemistry*
+*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*

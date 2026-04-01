@@ -16,7 +16,7 @@ created: 2026-03-08
 # Glucose Ribose Interconversion PPP Link
 
 ## Overview
-Glucose-6-phosphate enters the pentose phosphate pathway to become ribose-5-phosphate, creating a metabolic bridge between carbohydrate and nucleotide metabolism.
+Glucose-6-phosphate enters the pentose phosphate pathway to become ribose-5-phosphate, creating a metabolic bridge between carbohydrate and nucleotide [[KEYWORD-Metabolism|metabolism]].
 
 ## The Conversion Pathway
 
@@ -72,7 +72,7 @@ Nucleotides (AMP, GMP, etc.)
 
 ## Clinical Implications
 
-### Cancer Metabolism
+### [[KEYWORD-Cancer|cancer]] Metabolism
 - Tumors often show high PPP activity
 - Need ribose for rapid proliferation
 - NADPH supports antioxidant defenses against ROS
@@ -82,7 +82,7 @@ Nucleotides (AMP, GMP, etc.)
 - **D-ribose** marketed for energy enhancement
 - **Claims:** Improved exercise recovery, heart function
 - **Evidence:** Mixed; some benefit in heart failure
-- **Mechanism:** Bypasses slow PPP, directly provides ribose
+- **[[KEYWORD-Mechanism|mechanism]]:** Bypasses slow PPP, directly provides ribose
 
 ### Metabolic Disorders
 - **Transketolase deficiency:** Impairs non-oxidative PPP

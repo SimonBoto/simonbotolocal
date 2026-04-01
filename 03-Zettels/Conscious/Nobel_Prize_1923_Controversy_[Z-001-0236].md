@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Nobel Prize 1923 — Award and Controversy
 
-> The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of insulin, sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
+> The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of [[KEYWORD-Insulin|insulin]], sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
 
 ## The Award
 
@@ -72,8 +72,8 @@ extraction-date: 2026-03-01
 **James Collip:**
 - Not awarded Nobel
 - Recognized by MacLeod's sharing
-- Purification made clinical use possible
-- Continued biochemistry career
+- Purification made [[KEYWORD-Clinical|clinical]] use possible
+- Continued [[KEYWORD-Biochemistry|biochemistry]] career
 
 **Recognition Hierarchy (Disputed):**
 1. Traditional: Banting/MacLeod (Nobel)

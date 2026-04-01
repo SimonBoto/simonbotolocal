@@ -44,7 +44,7 @@ Ketogenic diets and therapeutic ketosis have established benefits for epilepsy a
 ### Neurodegenerative Diseases
 | Condition | Evidence | Mechanism |
 |-----------|----------|-----------|
-| **Alzheimer's disease** | Preliminary trials | Brain fuel alternative, reduced glucose hypometabolism |
+| **Alzheimer's disease** | Preliminary trials | Brain fuel alternative, reduced glucose hypo[[KEYWORD-Metabolism|metabolism]] |
 | **Parkinson's disease** | Early research | Mitochondrial support, reduced oxidative stress |
 | **ALS** | Case reports | Energy support, reduced excitotoxicity |
 | **Traumatic brain injury** | Animal models | Neuroprotection, reduced edema |
@@ -52,7 +52,7 @@ Ketogenic diets and therapeutic ketosis have established benefits for epilepsy a
 ### Metabolic Disorders
 | Condition | Rationale |
 |-----------|-----------|
-| **Type 2 diabetes** | Improved insulin sensitivity, weight loss |
+| **Type 2 diabetes** | Improved [[KEYWORD-Insulin|insulin]] sensitivity, weight loss |
 | **Metabolic syndrome** | Reduced triglycerides, increased HDL |
 | **PCOS** | Improved hormonal balance, weight loss |
 | **GLUT1 deficiency** | Bypasses glucose transport defect |
@@ -61,7 +61,7 @@ Ketogenic diets and therapeutic ketosis have established benefits for epilepsy a
 | Rationale | Mechanism |
 |-----------|-----------|
 | **Warburg effect** | Cancer cells rely on glucose; ketones not used efficiently |
-| **Anti-inflammatory** | Reduced tumor-promoting inflammation |
+| **Anti-inflammatory** | Reduced tumor-promoting [[KEYWORD-Inflammation|inflammation]] |
 | **IGF-1 reduction** | Lower growth factor signaling |
 | **Enhanced treatment** | May improve chemotherapy/radiation efficacy |
 

@@ -30,7 +30,7 @@ GENOTYPE → TRANSCRIPTOME → PROTEOME → METABOLOME → PHENOTYPE
 | **Genomics** | Genes (DNA) | Stable | Low |
 | **Transcriptomics** | mRNA | Hours | Medium |
 | **Proteomics** | Proteins | Days | Medium-High |
-| **Metabolomics** | Metabolites | Minutes-Hours | **High** |
+| **[[KEYWORD-Metabolomics|metabolomics]]** | Metabolites | Minutes-Hours | **High** |
 
 ## Why Metabolomics Is Closest to Phenotype
 
@@ -55,7 +55,7 @@ Metabolites reflect the **integration** of:
 ## METHAP Application
 
 - **Baseline:** Metabolome reflects current metabolic dysfunction
-- **Intervention:** Vitamin D supplementation → metabolite changes
+- **Intervention:** [[KEYWORD-Vitamin_D|vitamin d]] supplementation → metabolite changes
 - **Outcome:** Phenotype improvement (IR reduction) via metabolite shifts
 - **Mechanism:** Adipic acid, miR-21/155, butyrate as intermediate markers
 
@@ -67,7 +67,7 @@ Metabolites reflect the **integration** of:
 
 ## Context
 
-**Also relevant to:** [[MOC-PhD-METHAP-Trial]], [[MOC-Vitamin-D-Mechanisms]]
+**Also relevant to:** [[MOC-PhD-METHAP-Trial]], [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]]
 
 **Emerges from:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 **Supports:** [[Biomarkers_Taxonomy]] — Positioning metabolite biomarkers

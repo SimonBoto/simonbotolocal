@@ -15,7 +15,7 @@ status: conscious
 
 ## Overview
 
-Acute pancreatitis is acute inflammation of the pancreas with variable involvement of other regional tissues or remote organ systems. The Revised Atlanta Classification (2012) provides standardized definitions for diagnosis, severity, and complications.
+Acute pancreatitis is acute [[KEYWORD-Inflammation|inflammation]] of the pancreas with variable involvement of other regional tissues or remote organ systems. The Revised Atlanta Classification (2012) provides standardized definitions for diagnosis, severity, and complications.
 
 ## Diagnosis (Requires 2 of 3)
 
@@ -44,7 +44,7 @@ Acute pancreatitis is acute inflammation of the pancreas with variable involveme
 | **E** | Ethanol | Second most common (20-30%) |
 | **T** | Trauma | Abdominal, ERCP |
 | **S** | Steroids | Medication-induced |
-| **M** | Mumps/Malignancy | Viral, pancreatic cancer |
+| **M** | Mumps/Malignancy | Viral, pancreatic [[KEYWORD-Cancer|cancer]] |
 | **A** | Autoimmune | Type 1 or 2 |
 | **S** | Scorpion sting | Rare (Trinidad) |
 | **H** | Hyperlipidemia/Hypercalcemia | TG >1000 mg/dL |
@@ -357,7 +357,7 @@ Acute pancreatitis is acute inflammation of the pancreas with variable involveme
 - Etiology workup (if idiopathic)
 - Gallstone: Cholecystectomy (same admission if mild)
 - Alcohol: Counseling, cessation
-- Hypertriglyceridemia: Fibrate, diet, insulin if diabetic
+- Hypertriglyceridemia: Fibrate, diet, [[KEYWORD-Insulin|insulin]] if diabetic
 
 **Imaging:**
 - CT at 5-7 days if severe or not improving

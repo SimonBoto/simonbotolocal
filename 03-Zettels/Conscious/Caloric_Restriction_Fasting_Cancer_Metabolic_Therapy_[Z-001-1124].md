@@ -24,7 +24,7 @@ Caloric restriction and fasting induce metabolic changes that can inhibit cancer
 | Change | Effect on Cancer |
 |--------|------------------|
 | **Glucose ↓** | Reduced glycolytic fuel |
-| **Insulin ↓** | Reduced growth signaling |
+| **[[KEYWORD-Insulin|insulin]] ↓** | Reduced growth signaling |
 | **IGF-1 ↓** | Reduced proliferation |
 | **Ketones ↑** | Normal cells protected |
 
@@ -34,7 +34,7 @@ Caloric restriction and fasting induce metabolic changes that can inhibit cancer
 | **AMPK activation** | Inhibits mTOR, promotes autophagy |
 | **Sirtuin activation** | DNA repair, stress resistance |
 | **Autophagy** | Clears damaged components |
-| **Reduced inflammation** | Lower NF-κB activity |
+| **Reduced [[KEYWORD-Inflammation|inflammation]]** | Lower NF-κB activity |
 
 ### Differential Stress Resistance
 | Cell Type | Fasting Response |
@@ -159,7 +159,7 @@ Caloric restriction and fasting induce metabolic changes that can inhibit cancer
 ## Related
 - [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_[Z-001-1122].md]]
 - [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_[Z-001-1123].md]]
-- [[MOC-Cancer-Metabolism]]
+- [[MOC-Cancer-[[KEYWORD-Metabolism|metabolism]]]]
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*

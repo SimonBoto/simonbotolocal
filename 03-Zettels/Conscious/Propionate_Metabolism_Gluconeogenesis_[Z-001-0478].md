@@ -11,7 +11,7 @@ created: 2026-03-04
 source: [[L-001-0045F]]
 ---
 
-# Propionate Metabolism and Gluconeogenesis
+# Propionate [[KEYWORD-Metabolism|metabolism]] and Gluconeogenesis
 
 ## Propionate: A Short-Chain Fatty Acid
 **Structure:** CH₃-CH₂-COOH (3-carbon carboxylic acid)
@@ -36,7 +36,7 @@ source: [[L-001-0045F]]
 
 **Net:** Propionate is **gluconeogenic** → yields glucose
 
-## Vitamin Dependencies
+## [[KEYWORD-Vitamin_D|vitamin d]]ependencies
 - **Biotin (B7):** Carboxylation step
 - **B12 (cobalamin):** Mutase reaction
 
@@ -47,7 +47,7 @@ source: [[L-001-0045F]]
 ## Physiological Roles
 1. **Energy substrate** (via gluconeogenesis)
 2. **Gut hormone signaling** (GLP-1, PYY)
-3. **Metabolic health** (improves insulin sensitivity)
+3. **Metabolic health** (improves [[KEYWORD-Insulin|insulin]] sensitivity)
 4. **Cholesterol synthesis** (indirect, via succinyl-CoA)
 
 ## Comparison: Pyruvate vs Propionate

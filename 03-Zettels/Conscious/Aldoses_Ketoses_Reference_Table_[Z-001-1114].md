@@ -23,7 +23,7 @@ Comprehensive reference of aldose and ketose sugars with their biological signif
 ### Trioses (3C)
 | Sugar | Structure | Biological Role |
 |-------|-----------|-----------------|
-| **Glyceraldehyde** | Aldotriose | Glycolysis intermediate, photosynthesis |
+| **Glyceraldehyde** | Aldotriose | [[KEYWORD-Glycolysis|glycolysis]] intermediate, photosynthesis |
 | **Dihydroxyacetone** | Ketotriose | Isomer of glyceraldehyde |
 
 ### Tetroses (4C)
@@ -93,7 +93,7 @@ Comprehensive reference of aldose and ketose sugars with their biological signif
 | **Energy** | Glucose, fructose | ATP production |
 | **Genetic** | Ribose, deoxyribose | RNA, DNA |
 | **Structure** | Galactose, mannose | Glycoproteins, glycolipids |
-| **Metabolism** | Ribulose, xylulose | Calvin cycle, PPP |
+| **[[KEYWORD-Metabolism|metabolism]]** | Ribulose, xylulose | Calvin cycle, PPP |
 
 ## Related
 - [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_[Z-001-1088].md]]
@@ -101,7 +101,7 @@ Comprehensive reference of aldose and ketose sugars with their biological signif
 | [[MOC-Glycolysis-PPP]]
 
 ---
-*Source: CGPT-0445 — Advanced biochemistry*
+*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*
 
 
 ## RELATED FILES

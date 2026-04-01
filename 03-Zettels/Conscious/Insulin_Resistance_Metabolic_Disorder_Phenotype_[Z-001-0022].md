@@ -14,7 +14,7 @@ status: conscious
 # Insulin Resistance as Metabolic Disorder Phenotype
 
 ## Core Claim
-**Insulin resistance is a core metabolic disorder** detectable via metabolomics, representing a key phenotype category alongside dysbiosis, micronutrient deficiencies, and oxidative stress in chronic disease etiology.
+**Insulin resistance is a core metabolic disorder** detectable via [[KEYWORD-Metabolomics|metabolomics]], representing a key phenotype category alongside dysbiosis, micronutrient deficiencies, and oxidative stress in chronic disease etiology.
 
 ## IR in the Six-Factor Disease Model
 
@@ -41,7 +41,7 @@ Standard clinical assessment:
 ### Metabolomics-Enhanced IR Assessment
 | Metabolite Category | Examples | Clinical Insight |
 |--------------------|----------|-----------------|
-| **Glucose metabolism** | Glucose, lactate, pyruvate | Glycolytic efficiency |
+| **Glucose [[KEYWORD-Metabolism|metabolism]]** | Glucose, lactate, pyruvate | Glycolytic efficiency |
 | **Lipid metabolism** | Free fatty acids, acylcarnitines | Lipotoxicity markers |
 | **Amino acids** | BCAAs, aromatic AAs | mTOR signaling, insulin sensitivity |
 | **Krebs cycle** | Citrate, α-ketoglutarate, succinate | Mitochondrial function |
@@ -52,7 +52,7 @@ Standard clinical assessment:
 Adipic acid specifically indicates:
 - **Mitochondrial dysfunction** in fatty acid oxidation
 - **Early IR marker** before glucose abnormalities
-- **Vitamin D responsive** (METHAP hypothesis)
+- **[[KEYWORD-Vitamin_D|vitamin d]] responsive** (METHAP hypothesis)
 
 ## Systems Affected by IR Phenotype
 

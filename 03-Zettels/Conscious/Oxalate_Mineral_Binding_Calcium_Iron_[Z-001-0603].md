@@ -13,7 +13,7 @@ created: 2026-03-04
 
 # Oxalate Mineral Binding and Bioavailability
 
-## Mechanism
+## [[KEYWORD-Mechanism|mechanism]]
 
 **Oxalic acid binds divalent cations:**
 ```
@@ -28,7 +28,7 @@ Oxalate²⁻ + Fe²⁺ → Iron oxalate (poorly absorbed)
 - **Result:** Precipitates in gut, cannot be absorbed
 - **Impact:** Reduces calcium bioavailability from food
 
-**Clinical significance:**
+**[[KEYWORD-Clinical|clinical]] significance:**
 - High-oxalate meals reduce calcium absorption
 - Calcium supplements with meals can bind oxalate
 - Ratio of calcium:oxalate important for stone risk
@@ -44,7 +44,7 @@ Oxalate²⁻ + Fe²⁺ → Iron oxalate (poorly absorbed)
 - Vitamin C enhances iron absorption (counteracts oxalate effect)
 - Heme iron (meat) absorption unaffected
 
-## Magnesium and Zinc
+## [[KEYWORD-Magnesium|magnesium]] and Zinc
 
 Also bind oxalate, though less clinically significant than calcium.
 

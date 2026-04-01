@@ -52,7 +52,7 @@ source-litnote: Synthesized from clinical practice
 
 ## 🔗 Connected Systems
 
-**Insulin Resistance:**
+**[[KEYWORD-Insulin|insulin]] Resistance:**
 - [[MAPK_Mitogenic_Pathway_[Z-001-0016]]] — Mitochondrial dysfunction (kidney is metabolically active)
 - [[Metabolic_Syndrome_Criteria_Z-001-0050.md]] — Metabolic syndrome (diabetes is leading cause of CKD)
 - Diabetic nephropathy: Glomerular hyperfiltration → progressive decline
@@ -134,6 +134,6 @@ patient_id,visit,creatinine_mg_dl,egfr_ml_min,urea_mg_dl,uric_acid_mg_dl,kidney_
 *Created: 2026-02-26 | Domain: 009 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
 

@@ -13,15 +13,15 @@ created: 2026-03-01
 status: conscious
 ---
 
-# Protein Requirements Bone Health 1.2 to 1.5 gkg
+# Protein Requirements [[KEYWORD-Bone_Health|bone health]] 1.2 to 1.5 gkg
 
 Standard protein: 1.0–1.2 g/kg/day. For sarcopenia or high fracture risk: up to 1.5 g/kg/day. Sources: lean meats, dairy, eggs, legumes. Distributed across meals for optimal muscle protein synthesis.
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
 **Source:** [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]]
-**Related:** [[Sarcopenia_Bone_Loss_Connection_[Z-001-0098].md]], [[Protein_Calcium_Absorption_Urinary_Excretion_[Z-001-0097].md]]
+**Related:** [[Sarcopenia_Bone_Loss_Connection_[Z-001-0098].md]], [[Protein_[[KEYWORD-Calcium|calcium]]_Absorption_Urinary_Excretion_[Z-001-0097].md]]
 
 ---
 

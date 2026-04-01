@@ -51,7 +51,7 @@ status: conscious
 - Promote foam cell formation
 - Activate macrophages in plaques
 
-**Biomarkers:**
+**[[KEYWORD-Biomarker|biomarker]]s:**
 - Elevated CRP
 - High IL-6
 - TNF-α activity
@@ -82,7 +82,7 @@ status: conscious
 **Metabolic Side Effects:**
 - Hypertension
 - Dyslipidemia
-- Insulin resistance
+- [[KEYWORD-Insulin|insulin]] resistance
 - Weight gain
 
 **Net Effect:** Amplifies traditional risk factors
@@ -146,7 +146,7 @@ status: conscious
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
 - [[Treg_Th17_Balance_VDR_[Z-001-1165]|Z-001-1165]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 
 

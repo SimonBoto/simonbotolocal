@@ -44,7 +44,7 @@ extraction-date: 2026-03-01
 | Step | Enzyme | Product |
 |------|--------|---------|
 | 10 | Squalene Synthase | Squalene (C30) |
-| 11-13 | Multiple | **Cholesterol** (C27) |
+| 11-13 | Multiple | **[[KEYWORD-Cholesterol|cholesterol]]** (C27) |
 
 ---
 

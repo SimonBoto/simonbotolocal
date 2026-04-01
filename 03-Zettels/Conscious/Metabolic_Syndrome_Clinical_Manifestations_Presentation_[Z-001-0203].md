@@ -41,8 +41,8 @@ extraction-date: 2026-03-01
 ### Skin Manifestations
 | Finding | Significance |
 |---------|--------------|
-| **Acanthosis nigricans** | Dark, velvety patches in neck, axilla, groin — marker of insulin resistance |
-| **Skin tags** | Associated with insulin resistance |
+| **Acanthosis nigricans** | Dark, velvety patches in neck, axilla, groin — marker of [[KEYWORD-Insulin|insulin]] resistance |
+| **Skin tags** | Associated with [[KEYWORD-Insulin_Resistance|insulin resistance]] |
 | **Striae distensae** | Rapid weight gain, Cushing's (differential) |
 
 ### Other Signs
@@ -59,7 +59,7 @@ extraction-date: 2026-03-01
 
 ### Obstructive Sleep Apnea
 - Strong bidirectional association with MetS
-- Contributes to hypertension, inflammation
+- Contributes to hypertension, [[KEYWORD-Inflammation|inflammation]]
 
 ### Polycystic Ovary Syndrome (PCOS)
 - MetS equivalent in women of reproductive age

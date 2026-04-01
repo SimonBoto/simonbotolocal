@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]]"
 status: conscious
 ---
 
-# Mitochondrial Dynamics — Fusion and Fission
+# [[KEYWORD-Mitochondria|mitochondria]]l Dynamics — Fusion and Fission
 
 ## The Dynamic Mitochondrion
 
@@ -64,7 +64,7 @@ This dynamic balance is essential for cellular health
 **Function:** Constricts and divides mitochondria
 
 ### Purpose of Fission
-1. **Mitochondrial division:** Distributes organelles to daughter cells
+1. **[[KEYWORD-Mitochondria|mitochondrial]] division:** Distributes organelles to daughter cells
 2. **Quality control:** Segregates damaged portions for removal (mitophagy)
 3. **Apoptosis:** Fragmentation precedes cytochrome c release
 4. **Distribution:** Sends mitochondria to high-energy-demand regions
@@ -113,7 +113,7 @@ This dynamic balance is essential for cellular health
 - **Ischemia-reperfusion:** Excessive fission → apoptosis
 - **Heart failure:** Imbalanced dynamics → mitochondrial dysfunction
 
-### Cancer
+### [[KEYWORD-Cancer|cancer]]
 - **Tumor cells:** Often fragmented mitochondria
 - **Metastasis:** Dynamics regulate cell migration and invasion
 

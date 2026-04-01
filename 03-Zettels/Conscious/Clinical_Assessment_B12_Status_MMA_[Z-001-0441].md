@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Clinical Assessment of B12 Status — MMA
 
-> Methylmalonic acid (MMA) is the most sensitive and specific marker of B12 deficiency, reflecting functional mitochondrial B12 status, while homocysteine is elevated in both B12 and folate deficiency.
+> Methylmalonic acid (MMA) is the most sensitive and specific marker of B12 deficiency, reflecting functional [[KEYWORD-Mitochondria|mitochondria]]l B12 status, while homocysteine is elevated in both B12 and folate deficiency.
 
 ## Serum B12
 
@@ -70,6 +70,6 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]]*
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/Methylation_Family_[B-004-0001]|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
 

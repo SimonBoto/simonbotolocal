@@ -15,7 +15,7 @@ status: conscious
 
 ## Overview
 
-Core minerals function as essential cofactors for hundreds of enzymatic reactions, particularly in energy metabolism, antioxidant defense, and hormonal regulation. Assessment of mineral status is critical for metabolic optimization.
+Core minerals function as essential cofactors for hundreds of enzymatic reactions, particularly in energy [[KEYWORD-Metabolism|metabolism]], antioxidant defense, and hormonal regulation. Assessment of mineral status is critical for metabolic optimization.
 
 ## Magnesium — The Master Mineral
 
@@ -29,7 +29,7 @@ Core minerals function as essential cofactors for hundreds of enzymatic reaction
 - Nerve conduction
 - Blood pressure regulation
 - Blood glucose control
-- Vitamin D activation
+- [[KEYWORD-Vitamin_D|vitamin d]] activation
 
 ### Forms and Testing
 
@@ -70,7 +70,7 @@ Core minerals function as essential cofactors for hundreds of enzymatic reaction
 - QT prolongation
 
 **Metabolic:**
-- Insulin resistance
+- [[KEYWORD-Insulin|insulin]] resistance
 - Type 2 diabetes risk
 - Metabolic syndrome
 

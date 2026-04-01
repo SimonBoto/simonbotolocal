@@ -16,7 +16,7 @@ created: 2026-03-08
 # Multivariate Analysis PLS OPLS Regression
 
 ## Overview
-Partial Least Squares Discriminant Analysis (PLS-DA) and Orthogonal PLS (OPLS) are supervised multivariate methods that maximize separation between groups while modeling metabolomics data—identifying biomarkers that discriminate insulin-resistant from healthy individuals.
+Partial Least Squares Discriminant Analysis (PLS-DA) and Orthogonal PLS (OPLS) are supervised multivariate methods that maximize separation between groups while modeling [[KEYWORD-Metabolomics|metabolomics]] data—identifying [[KEYWORD-Biomarker|biomarker]]s that discriminate insulin-resistant from healthy individuals.
 
 ## PLS-DA (Partial Least Squares Discriminant Analysis)
 
@@ -73,7 +73,7 @@ Latent variables (components) capture group-discriminating variance
 |------------|--------|
 | **Pre vs Post (IR-Intervention)** | OPLS |
 | **Goal** | Identify intervention-induced changes |
-| **Output** | Biomarkers of metabolic improvement |
+| **Output** | [[KEYWORD-Biomarker|biomarkers]] of metabolic improvement |
 
 ### Cross-Sectional
 | Comparison | Method |

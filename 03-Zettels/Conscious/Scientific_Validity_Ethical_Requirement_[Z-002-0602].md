@@ -14,7 +14,7 @@ created: 2026-03-27
 
 # Scientific Validity as Ethical Requirement
 
-Poorly designed research that cannot yield reliable knowledge is unethical. Methodological rigor is not merely a scientific preference—it is an ethical obligation to participants who accept risk.
+Poorly designed [[KEYWORD-Research|research]] that cannot yield reliable knowledge is unethical. Methodological rigor is not merely a scientific preference—it is an ethical obligation to participants who accept risk.
 
 **Core principle:** Invalid research wastes resources and exploits participants by exposing them to risk without compensatory benefit to society.
 
@@ -24,7 +24,7 @@ Poorly designed research that cannot yield reliable knowledge is unethical. Meth
 |---------|-------------|
 | **Design appropriateness** | Method matches research question |
 | **Statistical power** | Sample size adequate to detect effect |
-| **Outcome measures** | Valid, reliable, clinically relevant |
+| **Outcome measures** | Valid, reliable, [[KEYWORD-Clinical|clinical]]ly relevant |
 | **Control conditions** | Appropriate comparison groups |
 | **Analysis plan** | Pre-specified, statistically sound |
 
@@ -40,7 +40,7 @@ Poorly designed research that cannot yield reliable knowledge is unethical. Meth
 
 METHAP protocol must demonstrate:
 - **Power calculation:** Adequate N to detect adipic acid-IR correlation
-- **Validated metabolomics:** LC-MS/MS methods with known precision/accuracy
+- **Validated [[KEYWORD-Metabolomics|metabolomics]]:** LC-MS/MS methods with known precision/accuracy
 - **Appropriate controls:** Healthy vs. prediabetic vs. diabetic comparison
 - **Pre-specified analysis:** Statistical plan defined before data collection
 

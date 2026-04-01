@@ -34,11 +34,11 @@ Weeks 5-6 of bootcamp: Mastering fatty acid analysis and lipid-based clinical re
 | Ratio | Target | Meaning |
 |-------|--------|---------|
 | Chol/HDL | < 4 | Cardiometabolic risk |
-| HDL/TG | > 1 | Insulin sensitivity proxy |
+| HDL/TG | > 1 | [[KEYWORD-Insulin|insulin]] sensitivity proxy |
 | LDL/ApoB | > 1.2 | Particle size quality |
 | Omega-3 Index | > 7% | Anti-inflammatory status |
 | Omega-6:3 | 2-4:1 | Pro/anti-inflammatory balance |
-| SFA balance | Context-dependent | Mitochondrial fluidity |
+| SFA balance | Context-dependent | [[KEYWORD-Mitochondria|mitochondria]]l fluidity |
 
 ### Key Concepts
 - **Delta-5 and delta-6 desaturase logic** — Rate-limiting enzymes in PUFA conversion
@@ -50,7 +50,7 @@ Weeks 5-6 of bootcamp: Mastering fatty acid analysis and lipid-based clinical re
 
 ### Clinical Skills
 1. **Diet truth detection** — Fatty acid patterns reveal what patients don't admit
-2. **Inflammation signatures** — Specific lipid patterns flag inflammation
+2. **[[KEYWORD-Inflammation|inflammation]] signatures** — Specific lipid patterns flag inflammation
 3. **Intervention matching** — Which supplements correct which patterns
 4. **Lipid-mitochondria-OAT integration** — Cross-panel reasoning
 

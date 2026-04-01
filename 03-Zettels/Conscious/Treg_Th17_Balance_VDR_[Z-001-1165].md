@@ -18,7 +18,7 @@ Autoimmune disease development is determined by the balance between:
 - **Treg cells:** Regulatory, tolerance-promoting, anti-inflammatory
 - **Th17 cells:** Pro-inflammatory, tissue-damaging, autoimmunity-driving
 
-**Vitamin D → VDR signaling tips this balance toward tolerance**
+**[[KEYWORD-Vitamin_D|vitamin d]] → VDR signaling tips this balance toward tolerance**
 
 ---
 
@@ -73,7 +73,7 @@ Autoimmune disease development is determined by the balance between:
 ### Normal State (Treg > Th17)
 - Immune tolerance maintained
 - Self-reactive cells suppressed
-- Controlled inflammation
+- Controlled [[KEYWORD-Inflammation|inflammation]]
 - **VDR signaling:** Enhances this balance
 
 ### Autoimmune State (Th17 > Treg)
@@ -141,7 +141,7 @@ Treg Enhancement              Th17 Suppression
 ## Therapeutic Implications
 
 ### Dosing Strategy
-- Higher doses may be needed for immune effects vs. bone health
+- Higher doses may be needed for immune effects vs. [[KEYWORD-Bone_Health|bone health]]
 - Target 25(OH)D: 40-60 ng/mL minimum
 - Some protocols: 10,000 IU/day short-term
 

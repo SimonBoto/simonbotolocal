@@ -11,14 +11,14 @@ source-litnote: [[LitNote_ADA_History_L-001-0209]]
 extraction-date: 2026-03-01
 ---
 
-# American Diabetes Association — Founding and Mission (1940)
+# American [[KEYWORD-Diabetes|diabetes]] Association — Founding and Mission (1940)
 
 > Founded in 1940, the American Diabetes Association emerged as the leading organization for diabetes care, research, and advocacy in the United States, filling a critical need for coordinated action against the growing diabetes epidemic.
 
 ## Historical Context
 
 **Era of Founding:**
-- Insulin discovered 19 years prior (1921)
+- [[KEYWORD-Insulin|insulin]] discovered 19 years prior (1921)
 - Diabetes treatment established but expanding
 - Growing recognition of diabetes prevalence
 - Need for organized professional response
@@ -33,7 +33,7 @@ extraction-date: 2026-03-01
 
 **Primary Functions:**
 1. **Research Funding:** Support scientific investigation
-2. **Guideline Development:** Evidence-based clinical standards
+2. **Guideline Development:** Evidence-based [[KEYWORD-Clinical|clinical]] standards
 3. **Professional Education:** Train healthcare providers
 4. **Public Education:** Patient and community outreach
 5. **Advocacy:** Policy influence, patient rights

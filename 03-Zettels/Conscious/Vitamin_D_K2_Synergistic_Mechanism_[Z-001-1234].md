@@ -10,11 +10,11 @@ source-litnote: "[[LitNote_VitD_K2_Synergy_MetS_L-001-0639]]"
 status: conscious
 ---
 
-# Vitamin D and K2 — Synergistic Mechanism
+# [[KEYWORD-Vitamin_D|vitamin d]] and K2 — Synergistic Mechanism
 
 ## Overview
 
-Vitamin D and K2 function as an integrated system for calcium metabolism and metabolic health. Vitamin D increases production of vitamin K-dependent proteins (VKDPs), while K2 activates them through carboxylation. Neither works optimally alone.
+Vitamin D and K2 function as an integrated system for calcium [[KEYWORD-Metabolism|metabolism]] and metabolic health. Vitamin D increases production of vitamin K-dependent proteins (VKDPs), while K2 activates them through carboxylation. Neither works optimally alone.
 
 ---
 
@@ -101,7 +101,7 @@ Optimal calcium distribution + metabolic signaling
 ### Shared Targets
 | Pathway | Vitamin D | Vitamin K2 | Combined Effect |
 |---------|-----------|------------|-----------------|
-| **Insulin signaling** | β-cell protection | ↑Adiponectin | Enhanced sensitivity |
+| **[[KEYWORD-Insulin|insulin]] signaling** | β-cell protection | ↑Adiponectin | Enhanced sensitivity |
 | **Inflammation** | ↓IL-6, ↓TNF-α | ↓NF-κB | Greater anti-inflammatory |
 | **Vascular health** | Endothelial function | ↓Calcification | Comprehensive protection |
 | **Bone health** | Calcium absorption | Bone matrix | Optimal mineralization |

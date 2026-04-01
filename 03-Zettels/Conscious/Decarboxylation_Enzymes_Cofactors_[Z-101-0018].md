@@ -13,7 +13,7 @@ extraction-date: 2026-03-02
 
 # Decarboxylation Enzymes and Vitamin Cofactors
 
-**Core Principle:** Decarboxylation enzymes require specific vitamin-derived cofactors to catalyze removal of carboxyl groups (-COOH) releasing CO₂.
+**Core Principle:** Decarboxylation enzymes require specific [[KEYWORD-Vitamin_D|vitamin-d]]erived cofactors to catalyze removal of carboxyl groups (-COOH) releasing CO₂.
 
 ## Major Vitamin Cofactors
 
@@ -31,7 +31,7 @@ extraction-date: 2026-03-02
 | Pyruvate decarboxylase | Pyruvate | Acetaldehyde | Fermentation |
 
 **Deficiency — Beriberi:**
-- Impaired pyruvate metabolism → lactic acidosis
+- Impaired pyruvate [[KEYWORD-Metabolism|metabolism]] → lactic acidosis
 - Neurological symptoms (Wernicke-Korsakoff in alcoholism)
 - Cardiac symptoms (wet beriberi)
 
@@ -96,7 +96,7 @@ extraction-date: 2026-03-02
 
 ## Mineral Cofactors
 
-### Magnesium (Mg²⁺)
+### [[KEYWORD-Magnesium|magnesium]] (Mg²⁺)
 - **Most common** mineral cofactor
 - Stabilizes negative charges
 - Coordinates ATP

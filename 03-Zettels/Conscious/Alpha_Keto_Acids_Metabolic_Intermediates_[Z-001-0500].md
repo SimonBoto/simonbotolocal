@@ -17,14 +17,14 @@ source: [[L-001-0046B]]
 **α-Keto acids = Amino acids without the amino group**
 - Also called "2-oxo acids"
 - The carbon skeletons remaining after deamination/transamination
-- Entry points to central metabolism
+- Entry points to central [[KEYWORD-Metabolism|metabolism]]
 
 ## Key α-Keto Acids
 
 | α-Keto Acid | From Amino Acid | Krebs Entry | Classification |
 |-------------|-----------------|-------------|----------------|
 | **Pyruvate** | Alanine | Pyruvate (→ OAA or acetyl-CoA) | Glucogenic |
-| **Oxaloacetate** | Aspartate | Krebs cycle | Glucogenic |
+| **Oxaloacetate** | Aspartate | [[KEYWORD-Krebs_Cycle|krebs cycle]] | Glucogenic |
 | **α-Ketoglutarate** | Glutamate | Krebs cycle | Glucogenic |
 | **α-Ketoisocaproate** | Leucine | → HMG-CoA | Ketogenic |
 | **α-Ketoisovalerate** | Valine | → Succinyl-CoA | Glucogenic |
@@ -60,7 +60,7 @@ Yield acetyl-CoA or acetoacetyl-CoA:
 - Cannot make glucose
 - Enter ketogenesis or fatty acid synthesis
 
-## Clinical: Maple Syrup Urine Disease (MSUD)
+## [[KEYWORD-Clinical|clinical]]: Maple Syrup Urine Disease (MSUD)
 
 ### Defect
 **Branched-chain α-keto acid dehydrogenase (BCKDH) deficiency**

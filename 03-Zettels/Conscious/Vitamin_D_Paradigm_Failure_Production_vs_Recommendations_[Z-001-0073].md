@@ -13,7 +13,7 @@ created: 2026-03-01
 status: conscious
 ---
 
-# Vitamin D Paradigm Failure — Production vs Recommendations
+# [[KEYWORD-Vitamin_D|vitamin d]] Paradigm Failure — Production vs Recommendations
 
 Three convergent facts reveal systemic failure in vitamin D public health policy: (1) Human skin produces 10,000-20,000 IU naturally in 15-30 minutes sun exposure, (2) Official recommendations remain at 600-800 IU (RDA) and 2,500 IU (UL), (3) Historical "toxicity" was actually rare genetic disease (IIH/CYP24A1 mutations), not universal risk.
 
@@ -29,7 +29,7 @@ Three convergent facts reveal systemic failure in vitamin D public health policy
 
 ## Links
 
-**Parent MOC:** [[MOC-Vitamin-D-Metabolism]]
+**Parent MOC:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
 **Source:** [[CGPT_0284_Vitamin_D_Toxicity_Misconception_[CGPT-0284]]]
 **Related:** [[Endogenous_Vitamin_D_Production_Capacity_[Z-001-0062]]], [[IIH_CYP24A1_Mutation_True_Cause_[Z-001-0055]]], [[Vitamin_D_RDA_10x_Underestimation_[Z-001-0059]]]
 

@@ -13,13 +13,13 @@ created: 2026-03-01
 status: conscious
 ---
 
-# Vitamin D High Dose Monitoring Protocol
+# [[KEYWORD-Vitamin_D|vitamin d]] High Dose Monitoring Protocol
 
 High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hypercalcemia or hypercalciuria. Target 25(OH)D >30 ng/mL (some advocate >40 ng/mL). Check levels after loading, then periodically.
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
 **Source:** [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]]
 **Related:** [[Vitamin_D_Loading_Dose_Protocol_50000_IU_[Z-001-0090].md]], [[MOC-Vitamin-Safety]]
 
@@ -37,7 +37,7 @@ High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hy
 
 
 ## Related
-- [[Vitamin_K2_Biochemistry_Forms_MK4_MK7_[Z-001-0227]|Z-001-0227]]
+- [[Vitamin_K2_[[KEYWORD-Biochemistry|biochemistry]]_Forms_MK4_MK7_[Z-001-0227]|Z-001-0227]]
 
 
 ## Related

@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]
 extraction-date: 2026-03-05
 ---
 
-# Threonine Dual Metabolism: Glucogenic and Ketogenic
+# Threonine Dual [[KEYWORD-Metabolism|metabolism]]: Glucogenic and Ketogenic
 
 ## Threonine is Unique
 
@@ -51,7 +51,7 @@ Threonine → Acetyl-CoA → Ketogenesis / Fatty acid synthesis
 - **Feeding:** Carbon skeletons used for both glycogen and fat storage
 - **Stress:** Multiple pathways ensure survival during metabolic challenges
 
-### Clinical Relevance
+### [[KEYWORD-Clinical|clinical]] Relevance
 
 #### Threonine Requirements
 - **Conditional essentiality:** High demand during growth, injury, illness
@@ -66,7 +66,7 @@ Threonine → Acetyl-CoA → Ketogenesis / Fatty acid synthesis
 
 #### Gut Health
 - **Mucin layer:** Threonine is ~25% of mucin amino acids
-- **Microbiome:** Bacterial threonine metabolism produces short-chain fatty acids
+- **Microbiome:** Bacterial threonine metabolism produces short-chain [[KEYWORD-Fatty_Acids|fatty acids]]
 - **Leaky gut:** Threonine supplementation may support barrier function
 
 #### Protein Quality

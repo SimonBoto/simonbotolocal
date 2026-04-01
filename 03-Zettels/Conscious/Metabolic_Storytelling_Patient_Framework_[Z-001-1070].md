@@ -16,12 +16,12 @@ created: 2026-03-08
 # Metabolic Storytelling Patient Framework
 
 ## Overview
-Transform complex metabolomics findings into compelling, understandable narratives patients can act on.
+Transform complex [[KEYWORD-Metabolomics|metabolomics]] findings into compelling, understandable narratives patients can act on.
 
 ## The Storytelling Structure
 
 ### 1. The Hook (2 minutes)
-> "Here's what your metabolism is telling us..."
+> "Here's what your [[KEYWORD-Metabolism|metabolism]] is telling us..."
 
 **Elements:**
 - One surprising insight
@@ -50,7 +50,7 @@ Transform complex metabolomics findings into compelling, understandable narrativ
 |-----------------|-------------------------|
 | **Mitochondria** | "Cellular power plants" |
 | **Oxidative stress** | "Biological rusting" |
-| **Insulin resistance** | "Cells not answering the door" |
+| **[[KEYWORD-Insulin|insulin]] resistance** | "Cells not answering the door" |
 | **Gut dysbiosis** | "Garden overrun with weeds" |
 | **Metabolomics** | "Reading your body's dashboard" |
 

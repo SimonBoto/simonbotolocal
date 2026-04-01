@@ -46,7 +46,7 @@ Epigenetic modifications respond to:
 
 → This explains how **environment factors modify genetic expression** without changing DNA sequence.
 
-## Connection to Metabolomics
+## Connection to [[KEYWORD-Metabolomics|metabolomics]]
 
 **Shared characteristic:** Both capture environmental influences
 
@@ -59,7 +59,7 @@ Epigenetic modifications respond to:
 
 ## METHAP Relevance
 
-**Vitamin D may act through epigenetic mechanisms:**
+**[[KEYWORD-Vitamin_D|vitamin d]] may act through epigenetic mechanisms:**
 - VDR (Vitamin D Receptor) binding affects gene transcription
 - Potential epigenetic modulation of metabolic genes
 - Could explain long-term metabolic effects of VD supplementation
@@ -72,7 +72,7 @@ Epigenetic modifications respond to:
 
 ## Context
 
-**Also relevant to:** [[MOC-Vitamin-D-Mechanisms]] — Potential epigenetic actions of VD
+**Also relevant to:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]] — Potential epigenetic actions of VD
 
 **Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Subsection 2.2
 

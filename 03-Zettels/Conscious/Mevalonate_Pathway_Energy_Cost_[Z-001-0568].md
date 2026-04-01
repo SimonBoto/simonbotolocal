@@ -98,7 +98,7 @@ The high cost is justified by cholesterol's critical functions:
 2. **Signal transduction** — Lipid rafts
 3. **Hormone synthesis** — All steroid hormones
 4. **Bile acids** — Fat digestion
-5. **Vitamin D** — Calcium homeostasis
+5. **[[KEYWORD-Vitamin_D|vitamin d]]** — Calcium homeostasis
 
 **Return on investment:** Massive — without cholesterol, animal life impossible
 
@@ -116,7 +116,7 @@ The high cost is justified by cholesterol's critical functions:
 
 ---
 
-## Clinical Relevance
+## [[KEYWORD-Clinical|clinical]] Relevance
 
 ### Fasting State
 - **AMPK activated** → HMGCR inhibited
@@ -124,7 +124,7 @@ The high cost is justified by cholesterol's critical functions:
 - Energy conserved for essential functions
 
 ### Fed State
-- **Insulin activates** SREBP-2
+- **[[KEYWORD-Insulin|insulin]] activates** SREBP-2
 - **Cholesterol synthesis permitted**
 - Nutrient availability justifies the cost
 

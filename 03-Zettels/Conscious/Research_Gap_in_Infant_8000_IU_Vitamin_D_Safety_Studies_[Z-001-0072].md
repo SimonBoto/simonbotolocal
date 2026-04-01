@@ -13,7 +13,7 @@ created: 2026-03-01
 status: conscious
 ---
 
-# Research Gap in Infant 8,000 IU Vitamin D Safety Studies
+# Research Gap in Infant 8,000 IU [[KEYWORD-Vitamin_D|vitamin d]] Safety Studies
 
 Despite the corrected RDA calculation showing 7,000-8,000 IU/day is needed for 97.5% population coverage, no research studies have specifically tested 8,000 IU daily safety in 1-year-old children. This gap exists between statistical requirements and evidence base.
 
@@ -31,7 +31,7 @@ Despite the corrected RDA calculation showing 7,000-8,000 IU/day is needed for 9
 
 ## Links
 
-**Parent MOC:** [[MOC-Vitamin-D-Metabolism]]
+**Parent MOC:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
 **Source:** [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
 **Related:** [[Gallo_2013_Infant_Vitamin_D_Dose_Response_[Z-001-0067]]], [[Vitamin_D_RDA_10x_Underestimation_[Z-001-0059]]]
 

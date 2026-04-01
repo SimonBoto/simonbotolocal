@@ -29,7 +29,7 @@ Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the sec
 
 **Downstream:** PIP3 recruits Akt and PDK1 to membrane for Akt activation.
 
-**Clinical:** PI3K inhibitors (cancer therapy) cause severe insulin resistance.
+**Clinical:** PI3K inhibitors ([[KEYWORD-Cancer|cancer]] therapy) cause severe [[KEYWORD-Insulin|insulin]] resistance.
 
 ## Links
 
@@ -40,4 +40,4 @@ Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the sec
 
 **Also in:** [[MOC-Insulin-Signaling]]
 
-**Isoforms:** p110α dominant in metabolism; p110β compensates when α lost
+**Isoforms:** p110α dominant in [[KEYWORD-Metabolism|metabolism]]; p110β compensates when α lost

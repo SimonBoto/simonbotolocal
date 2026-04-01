@@ -27,7 +27,7 @@ Pyruvate connects multiple pathways:
 Pyruvate → Acetyl-CoA → Krebs cycle
 ```
 **Enzyme:** Pyruvate dehydrogenase complex (PDH)
-**Location:** Mitochondrial matrix
+**Location:** [[KEYWORD-Mitochondria|mitochondria]]l matrix
 **Cofactors (5 required):**
 - Thiamine pyrophosphate (B1)
 - Lipoamide
@@ -63,7 +63,7 @@ Pyruvate + Glutamate → Alanine + α-ketoglutarate
 ## Related
 - [[Pyruvate_Metabolic_Crossroads_[Z-001-0469]]] Pyruvate Metabolic Crossroads
 - [[Glycolysis_Steps_Regulation_[Z-001-0467]]] Glycolysis Steps
-- [[Vitamin_Dependence_Organic_Acid_Metabolism_[Z-001-0479]]] Vitamin Dependence
+- [[Vitamin_Dependence_Organic_Acid_[[KEYWORD-Metabolism|metabolism]]_[Z-001-0479]]] [[KEYWORD-Vitamin_D|vitamin d]]ependence
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

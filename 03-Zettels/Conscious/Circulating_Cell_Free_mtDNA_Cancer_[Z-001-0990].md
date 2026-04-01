@@ -11,7 +11,7 @@ source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]]
 status: conscious
 ---
 
-# Circulating Cell-Free mtDNA — Cancer Biomarker and Prognostic Tool
+# Circulating Cell-Free mtDNA — Cancer [[KEYWORD-Biomarker|biomarker]] and Prognostic Tool
 
 ## Overview
 
@@ -34,7 +34,7 @@ Circulating cell-free mitochondrial DNA (cf-mtDNA) represents a promising minima
 **3. NETosis (Neutrophil Extracellular Traps):**
 - Immune cell release of DNA
 - Contains mtDNA
-- Associated with inflammation
+- Associated with [[KEYWORD-Inflammation|inflammation]]
 
 ### Characteristics
 
@@ -349,6 +349,6 @@ Circulating cell-free mitochondrial DNA (cf-mtDNA) represents a promising minima
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/CRP_[B-002-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

@@ -15,9 +15,9 @@ created: 2026-02-22
 
 # Cbl-CAP Pathway and Lipid Raft Signaling
 
-An alternative insulin signaling pathway involves Cbl-CAP complex and lipid raft localization, independent of IRS-PI3K.
+An alternative [[KEYWORD-Insulin|insulin]] signaling pathway involves Cbl-CAP complex and lipid raft localization, independent of IRS-PI3K.
 
-**Mechanism:**
+**[[KEYWORD-Mechanism|mechanism]]:**
 1. Insulin activates INSR → phosphorylates Cbl-associated protein (CAP)
 2. Phosphorylated CAP binds activated Cbl
 3. Cbl-CAP complex localizes to caveolin-enriched lipid rafts

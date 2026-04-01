@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Mitochondrial Energy Terminology
+# [[KEYWORD-Mitochondria|mitochondria]]l Energy Terminology
 
 ## Overview
 13 terms defining mitochondrial function and energy production mechanisms.
@@ -24,7 +24,7 @@ created: 2026-03-08
 |------|------------|-----------------|
 | **Μιτοχόνδριο** | Cellular energy factory | Function measured via OAT |
 | **ATP** | Universal energy currency | ATP production = health metric |
-| **Κύκλος Krebs** | TCA cycle, central metabolism | Citrate, succinate, α-ketoglutarate |
+| **Κύκλος Krebs** | TCA cycle, central [[KEYWORD-Metabolism|metabolism]] | Citrate, succinate, α-ketoglutarate |
 | **Γλυκόλυση** | Glucose → pyruvate | Lactate/pyruvate ratio |
 | **Οξειδωτική Φωσφορυλίωση** | Electron transport + ATP synthase | OXPHOS efficiency markers |
 | **NAD+/NADH** | Redox cofactor pair | NAD+ availability = metabolic flexibility |
@@ -49,7 +49,7 @@ These terms form the vocabulary for:
 ## Related
 - [[MOC-Mitochondrial-Function]]
 - [[MOC-Krebs-Cycle]]
-- [[Metabolism_Metabolomics_Terminology_[Z-001-1042].md]]
+- [[Metabolism_[[KEYWORD-Metabolomics|metabolomics]]_Terminology_[Z-001-1042].md]]
 
 ---
 *Source: CGPT-0022 — Tsoukalas Core Vocabulary*

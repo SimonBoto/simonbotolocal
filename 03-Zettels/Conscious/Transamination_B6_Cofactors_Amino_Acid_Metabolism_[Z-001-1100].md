@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Transamination B6 Cofactors Amino Acid Metabolism
+# Transamination B6 Cofactors Amino Acid [[KEYWORD-Metabolism|metabolism]]
 
 ## Overview
 Transamination is the process of transferring amino groups between amino acids and alpha-keto acids—requiring vitamin B6 (pyridoxal phosphate, PLP) as essential cofactor.
@@ -28,7 +28,7 @@ Example:
 Alanine + Alpha-ketoglutarate ↔ Pyruvate + Glutamate
 ```
 
-### Mechanism
+### [[KEYWORD-Mechanism|mechanism]]
 1. **Substrate binding:** Amino acid binds to enzyme-PLP complex
 2. **Amino group transfer:** Amino group moves to PLP (forms pyridoxamine phosphate)
 3. **Keto acid release:** First alpha-keto acid released
@@ -110,7 +110,7 @@ Alanine + Alpha-ketoglutarate ↔ Pyruvate + Glutamate
 | [[MOC-Amino-Acid-Metabolism]]
 
 ---
-*Source: CGPT-0445 — Advanced biochemistry*
+*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*
 
 
 ## Related

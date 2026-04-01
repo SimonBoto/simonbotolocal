@@ -27,7 +27,7 @@ Pyruvate + CO₂ + ATP → Oxaloacetate + ADP + Pi
 ```
 - **Enzyme:** Pyruvate carboxylase (PC)
 - **Cofactor:** Biotin (vitamin B7)
-- **Location:** Mitochondrial matrix
+- **Location:** [[KEYWORD-Mitochondria|mitochondria]]l matrix
 - **Regulation:** Activated by acetyl-CoA
 
 **Why it matters:**
@@ -55,7 +55,7 @@ Aspartate → Oxaloacetate
 ```
 Propionyl-CoA → Methylmalonyl-CoA → Succinyl-CoA
 ```
-- From: Methionine, Isoleucine, Valine, Threonine, odd-chain fatty acids
+- From: Methionine, Isoleucine, Valine, Threonine, odd-chain [[KEYWORD-Fatty_Acids|fatty acids]]
 - **Anaplerotic** because succinyl-CoA is a Krebs intermediate
 
 ## Why Anaplerosis is Critical
@@ -79,7 +79,7 @@ During active biosynthesis, intermediates are withdrawn:
 | **Pyruvate carboxylase deficiency** | Severe lactic acidosis, hypoglycemia, neurological damage |
 | **Biotin deficiency** | Impaired PC activity; similar but milder symptoms |
 | **Diabetes** | Increased anaplerotic demand due to high flux |
-| **High protein diet** | Amino acid anaplerosis supports metabolism |
+| **High protein diet** | Amino acid anaplerosis supports [[KEYWORD-Metabolism|metabolism]] |
 
 ### Exercise Metabolism
 - **High intensity:** Pyruvate carboxylase maintains Krebs cycle

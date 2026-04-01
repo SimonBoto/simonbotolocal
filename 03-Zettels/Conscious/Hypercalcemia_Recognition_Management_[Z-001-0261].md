@@ -13,12 +13,12 @@ extraction-date: 2026-03-01
 
 # Hypercalcemia — Recognition and Management
 
-> Hypercalcemia, defined as serum calcium >10.5 mg/dL, is the primary safety concern with high-dose vitamin D protocols, requiring systematic recognition, grading, and management to prevent serious complications including cardiac arrhythmias and renal damage.
+> Hypercalcemia, defined as serum calcium >10.5 mg/dL, is the primary safety concern with high-dose [[KEYWORD-Vitamin_D|vitamin d]] protocols, requiring systematic recognition, grading, and management to prevent serious complications including cardiac arrhythmias and renal damage.
 
 ## Causes of Hypercalcemia
 
 ### Common Causes
-| Rank | Cause | Mechanism |
+| Rank | Cause | [[KEYWORD-Mechanism|mechanism]] |
 |------|-------|-----------|
 | 1 | Primary hyperparathyroidism | Excess PTH |
 | 2 | Malignancy | PTHrP, bone metastases |
@@ -41,7 +41,7 @@ extraction-date: 2026-03-01
 
 ### Renal
 - Polyuria, polydipsia
-- Nephrogenic diabetes insipidus
+- Nephrogenic [[KEYWORD-Diabetes|diabetes]] insipidus
 - Kidney stones (calcium oxalate)
 - Nephrocalcinosis
 - Renal failure (chronic)

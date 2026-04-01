@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Urinary adipate is a sensitive early biomarker of mitochondrial β-oxidation stress. It appears before glucose abnormalities in insulin resistance, making it valuable for early detection.
+Urinary adipate is a sensitive early [[KEYWORD-Biomarker|biomarker]] of mitochondrial β-oxidation stress. It appears before glucose abnormalities in insulin resistance, making it valuable for early detection.
 
 ---
 
@@ -140,7 +140,7 @@ Consider: Carnitine transport defect
 ## Related
 
 - [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_[Z-001-1191].md]]
-- [[Complete_Adipate_Metabolism_Formation_to_Krebs_[Z-001-1196].md]]
+- [[Complete_Adipate_[[KEYWORD-Metabolism|metabolism]]_Formation_to_Krebs_[Z-001-1196].md]]
 - [[Suberate_and_Sebacate_Formation_C8_C10_[Z-001-1195].md]]
 
 ---
@@ -148,6 +148,6 @@ Consider: Carnitine transport defect
 *Source: [[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]] | 2026-03-08*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

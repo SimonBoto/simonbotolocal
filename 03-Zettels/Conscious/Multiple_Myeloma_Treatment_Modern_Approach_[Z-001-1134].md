@@ -50,7 +50,7 @@ Modern multiple myeloma treatment utilizes novel agents (immunomodulatory drugs,
 ## Drug Classes
 
 ### Immunomodulatory Drugs (IMiDs)
-| Drug | Generation | Mechanism |
+| Drug | Generation | [[KEYWORD-Mechanism|mechanism]] |
 |------|------------|-----------|
 | **Thalidomide** | First | Cereblon binding, IL-6 inhibition |
 | **Lenalidomide** | Second | Enhanced IMiD, NK cell activation |
@@ -141,7 +141,7 @@ Modern multiple myeloma treatment utilizes novel agents (immunomodulatory drugs,
 
 ## Supportive Care
 
-### Bone Health
+### [[KEYWORD-Bone_Health|bone health]]
 | Intervention | Rationale |
 |--------------|-----------|
 | **Bisphosphonates** | Reduce skeletal events |
@@ -178,7 +178,7 @@ Modern multiple myeloma treatment utilizes novel agents (immunomodulatory drugs,
 - [[MOC-Hematology-Oncology]]
 
 ---
-*Source: CGPT-0264 — Warburg effect and cancer*
+*Source: CGPT-0264 — Warburg effect and [[KEYWORD-Cancer|cancer]]*
 
 
 ## RELATED FILES

@@ -52,7 +52,7 @@ extraction-date: 2026-03-01
 
 ## Mechanisms Supported by Epidemiology
 
-### Improved Insulin Sensitivity
+### Improved [[KEYWORD-Insulin|insulin]] Sensitivity
 - Higher Mg intake associated with lower HOMA-IR
 - Better β-cell function indices
 - Reduced fasting insulin levels
@@ -61,7 +61,7 @@ extraction-date: 2026-03-01
 - Lower CRP, IL-6, TNF-α with higher Mg intake
 - Inflammation mediates portion of Mg-diabetes association
 
-### Metabolic Biomarkers
+### Metabolic [[KEYWORD-Biomarker|biomarker]]s
 - Improved lipid profiles (higher HDL, lower triglycerides)
 - Lower blood pressure
 - Reduced oxidative stress markers
@@ -105,6 +105,6 @@ extraction-date: 2026-03-01
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

@@ -11,7 +11,7 @@ created: 2026-03-04
 source: [[L-001-0045E]]
 ---
 
-# Aldose vs Ketose Chemistry
+# Aldose vs Ketose [[KEYWORD-Chemistry|chemistry]]
 
 ## Core Distinction
 
@@ -59,11 +59,11 @@ source: [[L-001-0045E]]
 
 ### Glucose (Aldose)
 - Primary energy source
-- Regulated uptake (insulin-dependent)
+- Regulated uptake ([[KEYWORD-Insulin|insulin]]-dependent)
 - Universal cellular utilization
 
 ### Fructose (Ketose)
-- Liver-centric metabolism
+- Liver-centric [[KEYWORD-Metabolism|metabolism]]
 - Unregulated uptake
 - Lipogenic pathway
 

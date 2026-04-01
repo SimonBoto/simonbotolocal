@@ -112,13 +112,13 @@ LOO• + Vitamin E-OH → LOOH + Vitamin E-O• (chain break)
 **Clinical Significance:**
 - Elevated in metabolic syndrome, diabetes, CVD
 - Correlates with disease severity
-- Used as oxidative stress biomarker
+- Used as oxidative stress [[KEYWORD-Biomarker|biomarker]]
 
 ### Acrolein
 
 **Formation:**
 - Secondary product from glycerophospholipid oxidation
-- Also from: amino acid metabolism, polyamine oxidation, smoking
+- Also from: amino acid [[KEYWORD-Metabolism|metabolism]], polyamine oxidation, smoking
 
 **Toxicity:**
 - Most reactive α,β-unsaturated aldehyde
@@ -197,7 +197,7 @@ LOO• + Vitamin E-OH → LOOH + Vitamin E-O• (chain break)
 
 ## Clinical Assessment
 
-**Biomarkers:**
+**[[KEYWORD-Biomarker|biomarkers]]:**
 | Marker | What It Measures |
 |--------|------------------|
 | Plasma 4-HNE protein adducts | Recent oxidative damage |

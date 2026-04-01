@@ -77,7 +77,7 @@ extraction-date: 2026-03-01
 
 **Long-term:**
 - Foundation of cereal industry
-- Breakfast revolution
+- Breakfast r[[KEYWORD-Evolution|evolution]]
 - Mass-produced convenience food
 - Global food category
 

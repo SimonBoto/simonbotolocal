@@ -29,7 +29,7 @@ created: 2026-03-03
 | **Monoterpene** | 2 | 10 | C₁₀H₁₆ | Limonene, pinene, menthol |
 | **Sesquiterpene** | 3 | 15 | C₁₅H₂₄ | Farnesene, bisabolol, caryophyllene |
 | **Diterpene** | 4 | 20 | C₂₀H₃₂ | Taxol, phylloquinone (K1), gibberellins |
-| **Triterpene** | 6 | 30 | C₃₀H₄₈ | Squalene, cholesterol, beta-sitosterol |
+| **Triterpene** | 6 | 30 | C₃₀H₄₈ | Squalene, [[KEYWORD-Cholesterol|cholesterol]], beta-sitosterol |
 | **Tetraterpene** | 8 | 40 | C₄₀H₆₄ | β-carotene, lycopene, lutein |
 | **Polyterpene** | >8 | >40 | (C₅H₈)n | Natural rubber (polyisoprene) |
 
@@ -44,7 +44,7 @@ created: 2026-03-03
 - **Medicine:** Essential oils, aromatherapy
 
 **Human Relevance:**
-- Limonene: Potential anti-cancer properties
+- Limonene: Potential anti-[[KEYWORD-Cancer|cancer]] properties
 - Menthol: Cooling sensation, analgesic
 - Pinene: Anti-inflammatory, bronchodilator
 
@@ -56,7 +56,7 @@ created: 2026-03-03
 - **Artemisinin:** Antimalarial drug (from Artemisia annua)
 
 ### Diterpenes (C₂₀)
-**Clinically Important:**
+**[[KEYWORD-Clinical|clinical]]ly Important:**
 - **Taxol (Paclitaxel):** Cancer chemotherapy
   - Stabilizes microtubules
   - From Pacific yew tree bark

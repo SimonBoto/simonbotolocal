@@ -142,12 +142,12 @@ Two primary methods for extracting oil from seeds: **mechanical pressing** (trad
 - Often combined with heat
 - Doesn't guarantee "cold" processing
 
-## Clinical Relevance
+## [[KEYWORD-Clinical|clinical]] Relevance
 
-**Nutritional Impact:**
+**[[KEYWORD-Nutrition|nutrition]]al Impact:**
 - Cold-pressed: Higher vitamin E, phytosterols
 - Solvent-extracted: Stripped of many micronutrients during refining
-- Omega-6 content similar regardless of method
+- [[KEYWORD-Omega_6|omega-6]] content similar regardless of method
 
 **Toxin Formation:**
 - Heat in both methods can initiate oxidation

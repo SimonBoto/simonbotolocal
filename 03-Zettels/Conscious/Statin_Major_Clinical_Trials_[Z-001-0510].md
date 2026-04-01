@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]]
 extraction-date: 2026-03-01
 ---
 
-# Statin Major Clinical Trials
+# Statin Major [[KEYWORD-Clinical|clinical]] Trials
 
 > Landmark trials established statin efficacy in secondary and primary prevention, demonstrating consistent cardiovascular event and mortality reductions.
 
@@ -23,7 +23,7 @@ extraction-date: 2026-03-01
 - **Significance:** First mortality benefit
 
 **CARE (1996)**
-- Post-MI, average cholesterol, pravastatin 40 mg
+- Post-MI, average [[KEYWORD-Cholesterol|cholesterol]], pravastatin 40 mg
 - **Result:** Fatal CHD/MI ↓ 24%
 - **Significance:** Benefit at average cholesterol
 
@@ -46,7 +46,7 @@ extraction-date: 2026-03-01
 **JUPITER (2008)**
 - 17,802 healthy, LDL <130, CRP ≥2, rosuvastatin 20 mg
 - **Result:** Events ↓ 44%, stroke ↓ 48%
-- **Significance:** Inflammation-based indication
+- **Significance:** [[KEYWORD-Inflammation|inflammation]]-based indication
 
 ## Meta-Analysis
 

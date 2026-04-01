@@ -18,7 +18,7 @@ source: [[L-001-0045E]]
 ### Fructose
 - **Role:** Fruit sugar, sweetener, lipogenic substrate
 - **Source:** Fruits, honey, HFCS
-- **Clinical:** Metabolic syndrome link
+- **[[KEYWORD-Clinical|clinical]]:** [[KEYWORD-Metabolic_Syndrome|metabolic syndrome]] link
 - **Sweetness:** 1.7× sweeter than glucose
 
 ### Psicose (Allulose)
@@ -62,7 +62,7 @@ source: [[L-001-0045E]]
 Ketoses (especially fructose) are generally **sweeter** than aldoses due to structural differences in receptor binding.
 
 ## Related
-- [[Aldose_vs_Ketose_Chemistry_[Z-001-0471]]] Aldose vs Ketose Chemistry
+- [[Aldose_vs_Ketose_[[KEYWORD-Chemistry|chemistry]]_[Z-001-0471]]] Aldose vs Ketose Chemistry
 - [[Common_Aldoses_Roles_[Z-001-0474]]] Common Aldoses (contrast)
 
 ---

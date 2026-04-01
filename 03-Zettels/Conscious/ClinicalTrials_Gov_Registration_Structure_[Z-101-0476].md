@@ -10,10 +10,10 @@ source-litnote: [[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]]
 status: conscious
 ---
 
-# ClinicalTrials.gov Registration Structure
+# [[KEYWORD-Clinical|clinical]]Trials.gov Registration Structure
 
 ## Overview
-ClinicalTrials.gov is the NIH-maintained registry for clinical studies. Registration is mandatory for FDA-regulated trials and strongly encouraged for all clinical research.
+ClinicalTrials.gov is the NIH-maintained registry for clinical studies. Registration is mandatory for FDA-regulated trials and strongly encouraged for all clinical [[KEYWORD-Research|research]].
 
 ## Registration Timing
 | Milestone | Action |
@@ -103,7 +103,7 @@ ClinicalTrials.gov is the NIH-maintained registry for clinical studies. Registra
 ### Scientific Neutrality
 | ❌ Avoid | ✅ Use Instead |
 |----------|----------------|
-| "This revolutionary treatment..." | "This intervention aims to..." |
+| "This r[[KEYWORD-Evolution|evolution]]ary treatment..." | "This intervention aims to..." |
 | "Will prove that..." | "Will evaluate whether..." |
 | "Significant improvement" | "Change in [specific measure]" |
 

@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # D-K2 Co-Supplementation Evidence Overview
 
-> Despite limited high-quality RCTs, existing studies on vitamin D and K2 co-supplementation consistently show metabolic and cardiovascular benefits exceeding those of either nutrient alone, establishing proof-of-concept for synergistic therapeutic potential.
+> Despite limited high-quality RCTs, existing studies on [[KEYWORD-Vitamin_D|vitamin d]] and K2 co-supplementation consistently show metabolic and cardiovascular benefits exceeding those of either nutrient alone, establishing proof-of-concept for synergistic therapeutic potential.
 
 ## Current Evidence Landscape
 
@@ -60,8 +60,8 @@ Despite limitations, consistent findings:
 |---------|---------|----------|---------------|
 | **Vascular calcification** | Variable | Protection | Best protection |
 | **Arterial stiffness** | Modest | Modest | Greatest reduction |
-| **Insulin sensitivity** | Some benefit | Some benefit | Synergistic |
-| **Inflammation** | Reduction | Reduction | Enhanced |
+| **[[KEYWORD-Insulin|insulin]] sensitivity** | Some benefit | Some benefit | Synergistic |
+| **[[KEYWORD-Inflammation|inflammation]]** | Reduction | Reduction | Enhanced |
 
 **Interpretation:**
 - Co-supplementation consistently superior

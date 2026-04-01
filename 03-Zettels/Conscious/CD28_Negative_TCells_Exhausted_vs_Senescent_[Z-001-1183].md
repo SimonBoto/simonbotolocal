@@ -83,7 +83,7 @@ status: conscious
 ### Resistance to Therapy
 **Challenges:**
 - Standard immunosuppressants less effective
-- Persist in chronic inflammation
+- Persist in chronic [[KEYWORD-Inflammation|inflammation]]
 - Re-expand after partial control
 
 ---
@@ -110,7 +110,7 @@ status: conscious
 - Correlate with organ damage
 - Predict treatment resistance
 
-### Biomarker Potential
+### [[KEYWORD-Biomarker|biomarker]] Potential
 - Track disease progression
 - Monitor treatment response
 - Identify high-risk patients
@@ -142,6 +142,6 @@ status: conscious
 *Source: [[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]] | 2026-03-08*
 
 ## RELATED FILES
-- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/CRP_[B-002-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

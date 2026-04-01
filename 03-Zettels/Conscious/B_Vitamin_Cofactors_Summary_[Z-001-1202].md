@@ -26,7 +26,7 @@ B-vitamins serve as essential cofactors (coenzymes) for hundreds of metabolic re
 | **B2 (Riboflavin)** | FMN, FAD | Redox reactions | Acyl-CoA dehydrogenases, Complex I/II |
 | **B3 (Niacin)** | NAD+, NADP+ | Redox reactions | Dehydrogenases, reductases |
 | **B5 (Pantothenic)** | CoA | Acyl group carrier | All acyl-CoA reactions |
-| **B6 (Pyridoxine)** | PLP | Amino acid metabolism | Transaminases, decarboxylases |
+| **B6 (Pyridoxine)** | PLP | Amino acid [[KEYWORD-Metabolism|metabolism]] | Transaminases, decarboxylases |
 | **B7 (Biotin)** | Biotin-lysine | Carboxylation | Pyruvate carboxylase, ACC |
 | **B9 (Folate)** | THF | One-carbon transfer | Serine hydroxymethyltransferase |
 | **B12 (Cobalamin)** | Adenosyl-B12, Me-B12 | Rearrangement, methylation | Methylmalonyl-CoA mutase, methionine synthase |
@@ -120,8 +120,8 @@ Transamination → Decarboxylation → One-carbon
 ### Clinical Applications
 
 **Metabolic Disorders:**
-- Mitochondrial dysfunction: High-dose B-vitamins
-- Insulin resistance: B1, B3, biotin
+- [[KEYWORD-Mitochondria|mitochondria]]l dysfunction: High-dose B-vitamins
+- [[KEYWORD-Insulin|insulin]] resistance: B1, B3, biotin
 - Homocysteinemia: B6, B9, B12
 
 **Neurological:**

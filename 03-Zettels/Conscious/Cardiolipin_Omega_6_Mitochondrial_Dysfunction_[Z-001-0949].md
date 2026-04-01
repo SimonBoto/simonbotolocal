@@ -9,7 +9,7 @@ parent-moc: [[MOC-Mitochondrial-Function]]
 status: conscious
 ---
 
-# Cardiolipin Omega-6 Enrichment and Mitochondrial Dysfunction
+# Cardiolipin Omega-6 Enrichment and [[KEYWORD-Mitochondria|mitochondria]]l Dysfunction
 
 ## What is Cardiolipin?
 
@@ -71,8 +71,8 @@ status: conscious
 - **Ott et al. (2002):** Cardiolipin oxidation required for cytochrome c release
 - **Gonzalvez et al. (2005):** Cardiolipin-cytochrome c binding regulates apoptosis
 
-### 4. Insulin Resistance Connection
-**Mitochondrial dysfunction → Insulin resistance pathway:**
+### 4. [[KEYWORD-Insulin|insulin]] Resistance Connection
+**Mitochondrial dysfunction → [[KEYWORD-Insulin_Resistance|insulin resistance]] pathway:**
 ```
 High omega-6 diet
     ↓

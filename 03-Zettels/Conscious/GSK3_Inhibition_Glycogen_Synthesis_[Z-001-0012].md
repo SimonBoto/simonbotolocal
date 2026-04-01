@@ -15,7 +15,7 @@ created: 2026-02-22
 
 # GSK3 Inhibition and Glycogen Synthesis
 
-Insulin promotes hepatic glycogen synthesis by inhibiting GSK3, relieving its suppression of glycogen synthase.
+[[KEYWORD-Insulin|insulin]] promotes hepatic glycogen synthesis by inhibiting GSK3, relieving its suppression of glycogen synthase.
 
 **Default state (no insulin):**
 - GSK3β active (constitutive kinase)
@@ -42,4 +42,4 @@ Insulin promotes hepatic glycogen synthesis by inhibiting GSK3, relieving its su
 
 **Also in:** [[MOC-Insulin-Signaling]]
 
-**Tissue:** Primary mechanism in liver; muscle uses different regulation
+**Tissue:** Primary [[KEYWORD-Mechanism|mechanism]] in liver; muscle uses different regulation

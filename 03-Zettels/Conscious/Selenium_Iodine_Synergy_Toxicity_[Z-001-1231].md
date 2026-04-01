@@ -20,7 +20,7 @@ Selenium and iodine have an intimate synergistic relationship in thyroid health.
 
 ## Biochemical Synergy
 
-### Iodine Metabolism Requires Selenium
+### Iodine [[KEYWORD-Metabolism|metabolism]] Requires Selenium
 ```
 Iodide (I⁻) enters thyroid
     ↓
@@ -77,7 +77,7 @@ Protects thyroid tissue from oxidative damage
 | Form | Bioavailability | Notes |
 |------|-----------------|-------|
 | **Selenomethionine** | High | Plant-derived, well-tolerated |
-| **Se-methylselenocysteine** | High | Direct precursor, cancer studies |
+| **Se-methylselenocysteine** | High | Direct precursor, [[KEYWORD-Cancer|cancer]] studies |
 | **Sodium selenite** | Moderate | Inorganic, higher toxicity risk |
 
 ---
@@ -105,7 +105,7 @@ Protects thyroid tissue from oxidative damage
 
 ---
 
-## Clinical Applications
+## [[KEYWORD-Clinical|clinical]] Applications
 
 ### With Iodine Supplementation
 **Mandatory pairing:**

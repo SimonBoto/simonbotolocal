@@ -39,7 +39,7 @@ Microbiomics studies the microbiome — the complete set of microbial genes and 
 
 The microbiome maintains homeostasis through:
 
-1. **Metabolic pathway regulation** — Bacterial metabolism complements human metabolism
+1. **Metabolic pathway regulation** — Bacterial [[KEYWORD-Metabolism|metabolism]] complements human metabolism
 2. **Immune system modulation** — Training and balancing immune responses
 3. **Nutrient production** — SCFA (short-chain fatty acids) like **butyrate**
 4. **Barrier protection** — Preventing pathogen colonization
@@ -75,7 +75,7 @@ The microbiome maintains homeostasis through:
 > - Insulin sensitivity
 > - Inflammation regulation
 > - Intestinal barrier integrity
-> - Potential interaction with Vitamin D signaling
+> - Potential interaction with [[KEYWORD-Vitamin_D|vitamin d]] signaling
 
 ## METHAP Trial Relevance
 
@@ -96,7 +96,7 @@ The microbiome maintains homeostasis through:
 
 ## Context
 
-**Also relevant to:** [[MOC-Vitamin-D-Mechanisms]], [[MOC-Gut-Health]] — VD-microbiome interactions
+**Also relevant to:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]], [[MOC-Gut-Health]] — VD-microbiome interactions
 
 **Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Subsection 2.5
 

@@ -65,7 +65,7 @@ Orthogonal Partial Least Squares Discriminant Analysis (OPLS-DA) can achieve **p
 ## Prevention Strategies
 
 ### Study Design
-- **Sample size:** Minimum 20 per group for exploratory, 50+ for biomarker claims
+- **Sample size:** Minimum 20 per group for exploratory, 50+ for [[KEYWORD-Biomarker|biomarker]] claims
 - **Variable reduction:** Filter to 100-500 most variable metabolites before OPLS-DA
 - **Independent validation:** Reserve 30% of samples for external validation
 
@@ -90,6 +90,6 @@ Orthogonal Partial Least Squares Discriminant Analysis (OPLS-DA) can achieve **p
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

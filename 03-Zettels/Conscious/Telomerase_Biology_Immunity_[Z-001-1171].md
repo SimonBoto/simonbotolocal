@@ -41,7 +41,7 @@ status: conscious
 | **Germ cells** | Transmit full telomeres to offspring |
 | **Stem cells** | Maintain self-renewal capacity |
 | **Activated lymphocytes** | Allow extensive proliferation |
-| **Cancer cells** (85-90%) | Unlimited replication (immortalization) |
+| **[[KEYWORD-Cancer|cancer]] cells** (85-90%) | Unlimited replication (immortalization) |
 
 ### Low/No Activity
 - Most somatic tissues
@@ -94,10 +94,10 @@ status: conscious
 
 ### Telomerase Inhibition
 **Cancer Therapy:**
-- Imetelstat (clinical trials)
+- Imetelstat ([[KEYWORD-Clinical|clinical]] trials)
 - Targets cancer cell immortality
 
-**Autoimmunity:**
+**[[KEYWORD-Autoimmunity|autoimmunity]]:**
 - Theoretical benefit (reduce pathogenic clone expansion)
 - Risk: Further immune compromise
 

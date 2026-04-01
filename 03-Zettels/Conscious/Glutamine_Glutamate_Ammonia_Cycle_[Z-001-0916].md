@@ -68,7 +68,7 @@ Glutamate + NH₄⁺ + ATP → Glutamine + ADP + Pi
 | **Immune** | Energy, proliferation | Glutaminase |
 | **Intestine** | Fuel | Glutaminase |
 
-## Clinical: Hyperammonemia
+## [[KEYWORD-Clinical|clinical]]: Hyperammonemia
 **Impaired glutamine synthesis:**
 - Ammonia accumulation
 - Neurological dysfunction
@@ -78,7 +78,7 @@ Glutamate + NH₄⁺ + ATP → Glutamine + ADP + Pi
 - [[Glutamate_Central_Amino_Acid_Hub_[Z-001-0915]]] Glutamate Central Hub
 - [[Glutamate_Arginine_Urea_Cycle_[Z-001-0917]]] Glutamate-Arginine-Urea Cycle
 - [[MOC-Urea-Cycle]]
-- [[MOC-Nitrogen-Metabolism]]
+- [[MOC-Nitrogen-[[KEYWORD-Metabolism|metabolism]]]]
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

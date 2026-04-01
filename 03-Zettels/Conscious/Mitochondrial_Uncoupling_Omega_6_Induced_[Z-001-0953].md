@@ -92,7 +92,7 @@ Mitochondrial uncoupling + Apoptosis signaling
 - **Result:** Apoptosis
 
 **Cell Types Affected:**
-- Pancreatic β-cells (impaired insulin secretion)
+- Pancreatic β-cells (impaired [[KEYWORD-Insulin|insulin]] secretion)
 - Hepatocytes (NAFLD progression)
 - Skeletal muscle cells (insulin resistance)
 - Endothelial cells (vascular dysfunction)
@@ -132,7 +132,7 @@ Mitochondrial uncoupling + Apoptosis signaling
 - General antioxidant support (vitamin E, CoQ10)
 - Caloric restriction (reduces metabolic load)
 
-## Biomarkers
+## [[KEYWORD-Biomarker|biomarker]]s
 
 - **Plasma F₂-isoprostanes:** Lipid peroxidation marker
 - **Oxidized cardiolipin antibodies:** Research use
@@ -147,6 +147,6 @@ Mitochondrial uncoupling + Apoptosis signaling
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

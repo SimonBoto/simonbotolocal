@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]]
 extraction-date: 2026-03-01
 ---
 
-# Framingham Reassessment — Cholesterol Hypothesis Evolution
+# Framingham Reassessment — [[KEYWORD-Cholesterol|cholesterol]] Hypothesis [[KEYWORD-Evolution|evolution]]
 
 > The Framingham Heart Study's reassessment revealed age-dependent complexities in the cholesterol-CVD relationship, informing modern precision medicine approaches.
 

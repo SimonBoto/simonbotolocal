@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Hematological Overlap — B12 Deficiency vs MM
 
-> Both B12 deficiency and multiple myeloma cause anemia, elevated LDH, and bone marrow abnormalities, but the anemia morphology and mechanism differ critically.
+> Both B12 deficiency and multiple myeloma cause anemia, elevated LDH, and bone marrow abnormalities, but the anemia morphology and [[KEYWORD-Mechanism|mechanism]] differ critically.
 
 ## B12 Deficiency Hematology
 

@@ -33,7 +33,7 @@ Hyperbaric oxygen therapy (HBOT) involves breathing 100% oxygen at increased atm
 | **Increased pressure** | Dissolves more O₂ in plasma |
 | **Plasma transport** | O₂ delivery independent of hemoglobin |
 | **Tissue diffusion** | Oxygen reaches hypoxic regions |
-| **Cellular uptake** | Mitochondrial respiration enhanced |
+| **Cellular uptake** | [[KEYWORD-Mitochondria|mitochondria]]l respiration enhanced |
 
 ## ROS Generation and Cancer Cell Toxicity
 
@@ -59,7 +59,7 @@ High O₂ + HBOT → ROS production (superoxide, hydrogen peroxide)
 ### Types of ROS Generated
 | Species | Source | Effect |
 |---------|--------|--------|
-| **Superoxide (O₂⁻)** | Mitochondrial ETC | Base for other ROS |
+| **Superoxide (O₂⁻)** | [[KEYWORD-Mitochondria|mitochondrial]] ETC | Base for other ROS |
 | **Hydrogen peroxide (H₂O₂)** | SOD conversion | Signaling, damage |
 | **Hydroxyl radical (OH)** | Fenton reaction | Most damaging |
 
@@ -86,7 +86,7 @@ High O₂ + HBOT → ROS production (superoxide, hydrogen peroxide)
 | Observation | Implication |
 |-------------|-------------|
 | **Cancer cells rely on glycolysis** | But still need some O₂ |
-| **HBOT increases oxygen** | May force oxidative metabolism |
+| **HBOT increases oxygen** | May force oxidative [[KEYWORD-Metabolism|metabolism]] |
 | **Mitochondrial stress** | Generates ROS, damages cancer cells |
 
 ### Combination with Metabolic Therapy

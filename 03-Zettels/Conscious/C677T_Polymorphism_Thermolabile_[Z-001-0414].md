@@ -32,7 +32,7 @@ extraction-date: 2026-03-01
 ## Biochemical Effects
 
 **Reduced 5-MTHF Production:**
-- Impaired folate activation
+- Impaired [[KEYWORD-Folate|folate]] activation
 - Elevated homocysteine (especially with low folate)
 - Normal B12 unaffected
 
@@ -41,7 +41,7 @@ extraction-date: 2026-03-01
 - Temperature sensitive
 - More pronounced at body temperature
 
-## Clinical Associations
+## [[KEYWORD-Clinical|clinical]] Associations
 
 **With Low Folate:**
 - Neural tube defects (mothers)

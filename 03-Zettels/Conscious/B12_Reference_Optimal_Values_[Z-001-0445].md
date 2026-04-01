@@ -34,7 +34,7 @@ extraction-date: 2026-03-01
 ## Neurological Risk
 
 **Symptoms can occur at:**
-- 200-400 pg/mL (subclinical deficiency)
+- 200-400 pg/mL (sub[[KEYWORD-Clinical|clinical]] deficiency)
 - Even without anemia
 - Peripheral neuropathy
 - Cognitive issues

@@ -13,7 +13,7 @@ created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 ---
 
-# Metformin AMPK mTOR Immunometabolism
+# Metformin AMPK mTOR Immuno[[KEYWORD-Metabolism|metabolism]]
 
 Metformin inhibits mitochondrial Complex I, reducing ATP production and activating AMPK. This triggers metabolic and immunological effects: fatty acid oxidation increases, lipogenesis decreases, and mTORC1 inhibition blocks pro-inflammatory signaling while preserving B-cell antibody production.
 
@@ -26,7 +26,7 @@ Metformin inhibits mitochondrial Complex I, reducing ATP production and activati
 
 **Clinical applications:** Systemic lupus erythematosus, colitis, arthritis, obesity, PCOS.
 
-**METHAP Parallel:** Both metformin and Vitamin D activate AMPK — shared anti-inflammatory pathways that may synergize in metabolic syndrome with autoimmune comorbidity.
+**METHAP Parallel:** Both metformin and [[KEYWORD-Vitamin_D|vitamin d]] activate AMPK — shared anti-inflammatory pathways that may synergize in metabolic syndrome with autoimmune comorbidity.
 
 ## Key Details
 
@@ -43,7 +43,7 @@ Metformin inhibits mitochondrial Complex I, reducing ATP production and activati
 
 - **Upstream:** [[Inflammatory_Signaling_IR_Z-001-0031.md]] — Inflammatory signaling pathways
 - **Parallel:** [[Rapamycin_mTOR_Immune_Tolerance_Z-101-0003.md]] — Rapamycin also targets mTOR
-- **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045.md]] — Shared pathways in METHAP panel
+- **Downstream:** [[METHAP_[[KEYWORD-Biomarker|biomarker]]_Panel_Z-001-0045.md]] — Shared pathways in METHAP panel
 
 ## Context
 

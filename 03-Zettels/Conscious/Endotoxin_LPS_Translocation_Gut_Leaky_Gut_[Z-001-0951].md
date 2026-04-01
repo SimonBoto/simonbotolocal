@@ -24,7 +24,7 @@ source-litnote: Synthesized from clinical practice
 ### Discovery
 **Cani et al. (2007):**
 - High-fat diet → 2-3× increase in plasma LPS
-- Precedes weight gain and insulin resistance
+- Precedes weight gain and [[KEYWORD-Insulin|insulin]] resistance
 - Not observed with high-carbohydrate diet
 
 ## Mechanism of LPS Translocation
@@ -140,7 +140,7 @@ Type 2 diabetes, NAFLD, CVD
 - **Bariatric surgery:** Reduces endotoxemia
 - **TLR4 antagonists:** Experimental
 
-## Biomarkers
+## [[KEYWORD-Biomarker|biomarker]]s
 
 ### Clinical Assessment
 - **Serum LPS-binding protein (LBP):** Surrogate marker
@@ -166,6 +166,6 @@ Type 2 diabetes, NAFLD, CVD
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

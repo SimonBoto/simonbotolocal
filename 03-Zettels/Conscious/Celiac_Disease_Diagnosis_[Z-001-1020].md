@@ -92,7 +92,7 @@ Mucosal damage, autoantibody production
 ### Associated Conditions
 
 **Autoimmune:**
-- Type 1 diabetes
+- Type 1 [[KEYWORD-Diabetes|diabetes]]
 - Thyroid disease (Hashimoto's)
 - Sjögren's syndrome
 - Autoimmune hepatitis
@@ -254,13 +254,13 @@ Start Gluten-Free Diet
 - "Wheat-free" ≠ gluten-free
 - Check all packaged foods
 
-### Nutritional Considerations
+### [[KEYWORD-Nutrition|nutrition]]al Considerations
 
 **Deficiencies (common at diagnosis):**
 - Iron
 - Folate
 - Vitamin B12
-- Vitamin D
+- [[KEYWORD-Vitamin_D|vitamin d]]
 - Calcium
 - Zinc
 

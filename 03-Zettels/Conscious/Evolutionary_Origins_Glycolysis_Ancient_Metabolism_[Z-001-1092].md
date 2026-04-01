@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Evolutionary Origins Glycolysis Ancient Metabolism
+# Evolutionary Origins Glycolysis Ancient [[KEYWORD-Metabolism|metabolism]]
 
 ## Overview
 Glycolysis is one of the most ancient metabolic pathways, conserved across all domains of life—bacteria, archaea, and eukaryotes—suggesting it evolved early in the history of life.
@@ -82,7 +82,7 @@ Glycolysis is one of the most ancient metabolic pathways, conserved across all d
 ### Eukaryotic Refinement
 - Compartmentalization (cytosol)
 - Better regulation
-- Integration with mitochondria
+- Integration with [[KEYWORD-Mitochondria|mitochondria]]
 
 ## The Deep Time Perspective
 
@@ -93,7 +93,7 @@ Glycolysis is one of the most ancient metabolic pathways, conserved across all d
 | **First life** | 3.5-4.0 | Microfossils, isotopes |
 | **Glycolysis evolves** | ~3.5 | Universal distribution |
 | **Oxygenic photosynthesis** | 2.4 | Great Oxidation Event |
-| **Aerobic respiration** | 2.0+ | Mitochondrial evolution |
+| **Aerobic respiration** | 2.0+ | [[KEYWORD-Mitochondria|mitochondrial]] evolution |
 
 ### Implications
 - Glycolysis ~1 billion years older than oxygenic metabolism

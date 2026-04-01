@@ -11,7 +11,7 @@ created: 2026-03-04
 source: [[L-001-0045C]]
 ---
 
-# Triose Metabolism: G3P and DHAP
+# Triose [[KEYWORD-Metabolism|metabolism]]: G3P and DHAP
 
 ## The Simplest Sugars
 **Trioses:** 3-carbon monosaccharides
@@ -21,7 +21,7 @@ source: [[L-001-0045C]]
 | **Glyceraldehyde** | Aldotriose | C₃H₆O₃ | G3P |
 | **Dihydroxyacetone** | Ketotriose | C₃H₆O₃ | DHAP |
 
-## Glycolysis Connection
+## [[KEYWORD-Glycolysis|glycolysis]] Connection
 ```
 F1,6BP → DHAP + G3P (aldolase)
 DHAP ↔ G3P (triose phosphate isomerase)
@@ -47,7 +47,7 @@ G3P connects:
 - Near-equilibrium: DHAP/G3P ratio ~20:1
 - Essential for glycolytic flux
 
-## Clinical
+## [[KEYWORD-Clinical|clinical]]
 **G3P as branch point:** Metabolic flexibility allows cells to switch between energy production and biosynthesis based on needs.
 
 ## Related

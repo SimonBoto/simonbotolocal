@@ -10,7 +10,7 @@ source-litnote: [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]]
 status: conscious
 ---
 
-# DHA Metabolism Pathways
+# DHA [[KEYWORD-Metabolism|metabolism]] Pathways
 
 ## Overview
 Dehydroascorbic acid (DHA) is the oxidized form of vitamin C (ascorbic acid). It serves as a metabolic hub with multiple possible fates.
@@ -88,7 +88,7 @@ See: [[Vitamin_C_to_Oxalate_Chemistry_[Z-101-0469].md]]
 - Excess DHA diverted to degradation
 
 ## Research Implications
-- **Biomarker potential:** DHA:ascorbate ratio reflects oxidative status
+- **[[KEYWORD-Biomarker|biomarker]] potential:** DHA:ascorbate ratio reflects oxidative status
 - **Therapeutic targeting:** Enhance salvage vs. prevent degradation
 - **Analytical consideration:** Measure both forms for complete assessment
 
@@ -101,6 +101,6 @@ See: [[Vitamin_C_to_Oxalate_Chemistry_[Z-101-0469].md]]
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

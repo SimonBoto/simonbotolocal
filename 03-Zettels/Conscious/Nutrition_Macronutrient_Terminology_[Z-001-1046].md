@@ -16,7 +16,7 @@ created: 2026-03-08
 # Nutrition Macronutrient Terminology
 
 ## Overview
-12 terms defining dietary biochemistry and nutritional metabolomics.
+12 terms defining dietary biochemistry and nutritional [[KEYWORD-Metabolomics|metabolomics]].
 
 ## The Terms (Category F)
 
@@ -26,10 +26,10 @@ created: 2026-03-08
 | **Μικροθρεπτικά** | Vitamins, minerals | Bioavailability matters |
 | **Απαραίτητα Λιπαρά** | EPA, DHA, AA | Cannot synthesize; must ingest |
 | **Απαραίτητα Αμινοξέα** | 9 essential amino acids | Protein quality metric |
-| **Κορεσμένα Λιπαρά** | Saturated fatty acids | Structural, stable |
+| **Κορεσμένα Λιπαρά** | Saturated [[KEYWORD-Fatty_Acids|fatty acids]] | Structural, stable |
 | **Μονοακόρεστα** | MUFA (oleic acid) | Protective, flexible |
 | **Πολυακόρεστα** | PUFA (omega-3/6) | Signaling, vulnerable |
-| **Ω6/Ω3 Αναλογία** | Omega-6 to omega-3 ratio | Target: 2-4:1 |
+| **Ω6/Ω3 Αναλογία** | [[KEYWORD-Omega_6|omega-6]] to omega-3 ratio | Target: 2-4:1 |
 | **Νιτρικό Οξείδιο** | NO, vasodilator | Endothelial function |
 | **Υπερφλεγμονή** | Sugar + omega-6 excess | Modern diet disease |
 | **Μεταβολική Ευελιξία** | Fuel switching capacity | RER, metabolic health |

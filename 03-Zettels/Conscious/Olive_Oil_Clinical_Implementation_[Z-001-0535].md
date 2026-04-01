@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]
 extraction-date: 2026-03-01
 ---
 
-# Olive Oil — Clinical Implementation
+# Olive Oil — [[KEYWORD-Clinical|clinical]] Implementation
 
 > Clinical implementation should prioritize extra virgin olive oil as primary dietary fat with specific dosing (2-4 tbsp/day) and quality considerations.
 

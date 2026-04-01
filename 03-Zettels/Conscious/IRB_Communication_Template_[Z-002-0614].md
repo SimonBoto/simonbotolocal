@@ -26,7 +26,7 @@ I hope this message finds you well. My name is [Your Name], and I am a PhD candi
 
 I am writing regarding my ethics application submitted on [Date] (Reference: [Number]). Despite following up through official channels, I have not received an update on the status of my application.
 
-Given that [Time Period] has elapsed, I am concerned about the impact on my research timeline. I would greatly appreciate:
+Given that [Time Period] has elapsed, I am concerned about the impact on my [[KEYWORD-Research|research]] timeline. I would greatly appreciate:
 - An update on the current status
 - Information on any additional requirements
 - An estimated timeline for completion

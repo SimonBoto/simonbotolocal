@@ -27,7 +27,7 @@ Clear eligibility criteria ensure scientific validity, participant safety, and e
 
 **Purpose:** Establish metabolically healthy reference population
 
-## Insulin Resistance Group Criteria (≥1 Required)
+## [[KEYWORD-Insulin|insulin]] Resistance Group Criteria (≥1 Required)
 
 | Parameter | Threshold |
 |-----------|-----------|
@@ -42,7 +42,7 @@ Clear eligibility criteria ensure scientific validity, participant safety, and e
 
 ### Medical Conditions
 - Infectious diseases (active)
-- Cancer (any type)
+- [[KEYWORD-Cancer|cancer]] (any type)
 - Renal failure
 - Hepatic failure
 - Cardiac failure
@@ -52,7 +52,7 @@ Clear eligibility criteria ensure scientific validity, participant safety, and e
 ### Medications
 - Antidepressants
 - Regular prescription medications
-- Preventive or therapeutic drugs affecting metabolism
+- Preventive or therapeutic drugs affecting [[KEYWORD-Metabolism|metabolism]]
 
 ### Laboratory Abnormalities
 - Abnormal TSH (thyroid dysfunction)

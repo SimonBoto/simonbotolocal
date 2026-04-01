@@ -35,7 +35,7 @@ extraction-date: 2026-03-01
 
 ## Data Collection
 
-**Clinical:** BP, ECG, cholesterol, anthropometrics
+**[[KEYWORD-Clinical|clinical]]:** BP, ECG, [[KEYWORD-Cholesterol|cholesterol]], anthropometrics
 **Lifestyle:** Smoking, occupation-based activity
 **Diet:** 7-day household records, chemical analysis
 

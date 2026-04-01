@@ -13,7 +13,7 @@ status: conscious
 # mTOR Diabetes Pathophysiology
 
 ## Overview
-mTOR (mechanistic target of rapamycin) is a central regulator of metabolism. Its inhibition by sirolimus disrupts glucose homeostasis through multiple mechanisms, leading to new-onset diabetes after transplantation (NODAT).
+mTOR (mechanistic target of rapamycin) is a central regulator of [[KEYWORD-Metabolism|metabolism]]. Its inhibition by sirolimus disrupts glucose homeostasis through multiple mechanisms, leading to new-onset diabetes after transplantation (NODAT).
 
 ## Pathways to Diabetes
 
@@ -177,7 +177,7 @@ Sirolimus → ↑ FFA → Muscle/liver lipid accumulation → Insulin resistance
 | Insight | Application |
 |---------|-------------|
 | mTOR as metabolic hub | Understanding intervention targets |
-| Mitochondrial health | Biomarker for metabolic status |
+| Mitochondrial health | [[KEYWORD-Biomarker|biomarker]] for metabolic status |
 | β-cell vulnerability | Early detection importance |
 | Medication effects | Confounder consideration |
 
@@ -196,6 +196,6 @@ Sirolimus → ↑ FFA → Muscle/liver lipid accumulation → Insulin resistance
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

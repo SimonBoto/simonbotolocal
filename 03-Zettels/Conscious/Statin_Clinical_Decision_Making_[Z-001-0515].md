@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]]
 extraction-date: 2026-03-01
 ---
 
-# Statin Clinical Decision Making
+# Statin [[KEYWORD-Clinical|clinical]] Decision Making
 
 > Statin decisions integrate absolute cardiovascular risk, baseline LDL, comorbidities, and patient preferences, with intensity matched to risk level.
 
@@ -26,7 +26,7 @@ extraction-date: 2026-03-01
 - High-intensity statin
 - Consider PCSK9 if needed
 
-**Diabetes (40-75 years):**
+**[[KEYWORD-Diabetes|diabetes]] (40-75 years):**
 - At least moderate-intensity
 - High-intensity if multiple risks
 
@@ -66,4 +66,4 @@ extraction-date: 2026-03-01
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Statin_Mechanism_HMG_CoA_Reductase_[Z-001-0509]|Z-001-0509]]
+- [[Statin_[[KEYWORD-Mechanism|mechanism]]_HMG_CoA_Reductase_[Z-001-0509]|Z-001-0509]]

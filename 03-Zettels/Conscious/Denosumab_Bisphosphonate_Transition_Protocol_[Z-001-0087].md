@@ -19,9 +19,9 @@ When discontinuing denosumab, guidelines recommend transitioning to bisphosphona
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
-**Source:** [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]]
-**Related:** [[Denosumab_Rebound_Fractures_Discontinuation_[Z-001-0086].md]], [[MOC-Clinical-Protocols]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
+**Source:** [[LitNote_Denosumab_[[KEYWORD-Mechanism|mechanism]]_Risks_L-001-0012]]
+**Related:** [[Denosumab_Rebound_Fractures_Discontinuation_[Z-001-0086].md]], [[MOC-[[KEYWORD-Clinical|clinical]]-Protocols]]
 
 ---
 

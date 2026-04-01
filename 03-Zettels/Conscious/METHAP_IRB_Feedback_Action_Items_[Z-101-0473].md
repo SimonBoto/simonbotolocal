@@ -98,8 +98,8 @@ Create table:
 
 | Supplement | Dosage | EOΦ Approval | Potential Interactions |
 |------------|--------|--------------|------------------------|
-| Vitamin D3 | [X] IU | [Number] | Thiazide diuretics |
-| Magnesium | [X] mg | [Number] | Antibiotics, bisphosphonates |
+| [[KEYWORD-Vitamin_D|vitamin d]]3 | [X] IU | [Number] | Thiazide diuretics |
+| [[KEYWORD-Magnesium|magnesium]] | [X] mg | [Number] | Antibiotics, bisphosphonates |
 | Omega-3 | [X] mg EPA/DHA | [Number] | Anticoagulants |
 | Glutamine | [X] g | [Number] | Anticonvulsants |
 | Vitamin C | [X] mg | [Number] | High-dose effects |
@@ -127,7 +127,7 @@ Add emergency contact procedure for adverse effects.
 
 ### 11. Professional Title Standardization
 **Action:** Use consistent title throughout:
-> *"Physician, PhD Candidate in Clinical Metabolomics"*
+> *"Physician, PhD Candidate in Clinical [[KEYWORD-Metabolomics|metabolomics]]"*
 
 ## Response Letter Structure
 

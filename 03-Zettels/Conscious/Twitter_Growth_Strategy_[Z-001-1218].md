@@ -28,9 +28,9 @@ Strategic framework for building a health-focused Twitter/X profile from 0 to 1,
 - What impact do you want to leave?
 
 **DrMito Example:**
-- **Purpose:** Restore mitochondrial function awareness
+- **Purpose:** Restore [[KEYWORD-Mitochondria|mitochondria]]l function awareness
 - **Belief:** Metabolic health = Foundation of longevity
-- **Mission:** Democratize mitochondrial science
+- **Mission:** Democratize [[KEYWORD-Mitochondria|mitochondrial]] science
 
 **Application:**
 Write 1-sentence purpose statement. Pin to profile.
@@ -175,7 +175,7 @@ How: [Brief method]
 ## Hashtag Strategy
 
 **Primary (always use):**
-#Mitochondria #Metabolomics #Health
+#Mitochondria #[[KEYWORD-Metabolomics|metabolomics]] #Health
 
 **Secondary (rotate):**
 #Nutrition #Longevity #Wellness #CellularHealth

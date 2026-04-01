@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_VitD_K2_Synergy_MetS_L-001-0639]]"
 status: conscious
 ---
 
-# Vitamin D and K2 — Effects on Insulin Resistance
+# [[KEYWORD-Vitamin_D|vitamin d]] and K2 — Effects on [[KEYWORD-Insulin|insulin]] Resistance
 
 ## Overview
 
@@ -75,7 +75,7 @@ Vitamin D:
     ↓
 ↑ β-cell function + ↑ Peripheral insulin signaling
     ↓
-Better glucose metabolism
+Better glucose [[KEYWORD-Metabolism|metabolism]]
 
 Vitamin K2:
     ↓

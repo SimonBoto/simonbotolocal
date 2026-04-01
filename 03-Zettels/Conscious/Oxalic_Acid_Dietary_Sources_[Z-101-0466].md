@@ -59,14 +59,14 @@ Oxalic acid occurs naturally in many plant foods. Content varies dramatically by
 | Black tea | Moderate | Brewing time affects extraction |
 | Cocoa powder | High | Baking, beverages |
 
-## Nutritional Trade-offs
+## [[KEYWORD-Nutrition|nutrition]]al Trade-offs
 - **High-oxalate foods are nutritious:** Rich in vitamins, minerals, fiber, antioxidants
 - **Complete exclusion risk:** May create nutritional deficiencies if not substituted
 - **Targeted reduction:** More practical than elimination for stone formers
 
-## Clinical Context
+## [[KEYWORD-Clinical|clinical]] Context
 - **Kidney stone patients:** Often advised to limit high-oxalate foods
-- **Calcium timing:** Dietary calcium binds oxalate in gut → reduces absorption
+- **[[KEYWORD-Calcium|calcium]] timing:** Dietary calcium binds oxalate in gut → reduces absorption
 - **Cooking effects:** Boiling can reduce oxalate content (leaches into water)
 
 ## Related

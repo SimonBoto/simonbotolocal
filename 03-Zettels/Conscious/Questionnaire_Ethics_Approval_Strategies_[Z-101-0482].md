@@ -143,7 +143,7 @@ Multi-instrument studies require specific ethical considerations beyond standard
 
 ### Feedback to Participants
 - Summary of findings (if desired)
-- Individual results (if clinically relevant)
+- Individual results (if [[KEYWORD-Clinical|clinical]]ly relevant)
 - Study completion acknowledgment
 
 ## Related
@@ -196,7 +196,7 @@ Multi-instrument studies require specific ethical considerations beyond standard
 
 
 ## Related
-- [[Oxalate_Management_CKD_[Z-001-0982]|Z-001-0982]]
+- [[[[KEYWORD-Oxalate|oxalate]]_Management_CKD_[Z-001-0982]|Z-001-0982]]
 
 
 ## Related
@@ -208,4 +208,4 @@ Multi-instrument studies require specific ethical considerations beyond standard
 
 
 ## Related
-- [[Methotrexate_Low_Dose_Mechanism_Adenosine_[Z-101-0005]|Z-101-0005]]
+- [[Methotrexate_Low_Dose_[[KEYWORD-Mechanism|mechanism]]_Adenosine_[Z-101-0005]|Z-101-0005]]

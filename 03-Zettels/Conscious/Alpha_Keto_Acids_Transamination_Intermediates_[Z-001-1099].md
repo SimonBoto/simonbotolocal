@@ -16,7 +16,7 @@ created: 2026-03-08
 # Alpha Keto Acids Transamination Intermediates
 
 ## Overview
-Alpha-keto acids are the deaminated carbon skeletons of amino acids—key intermediates linking protein metabolism to central energy pathways.
+Alpha-keto acids are the deaminated carbon skeletons of amino acids—key intermediates linking protein [[KEYWORD-Metabolism|metabolism]] to central energy pathways.
 
 ## Structure and Formation
 
@@ -67,7 +67,7 @@ Amino Acid + Alpha-ketoglutarate ↔ Alpha-keto acid + Glutamate
 ### Alpha-Ketoglutarate (from Glutamate)
 - **Entry:** Direct Krebs cycle intermediate
 - **Function:** Central hub of amino acid metabolism
-- **Clinical:** Elevated in B-vitamin deficiencies
+- **Clinical:** Elevated in B-[[KEYWORD-Vitamin_D|vitamin d]]eficiencies
 
 ## Transamination: The Key Reaction
 
@@ -88,7 +88,7 @@ Amino Acid + Alpha-ketoglutarate ↔ Alpha-keto acid + Glutamate
 ### Elevated Alpha-Keto Acids (OAT Markers)
 | Marker | Indicates |
 |--------|-----------|
-| **Pyruvate ↑** | B1 deficiency, mitochondrial dysfunction |
+| **Pyruvate ↑** | B1 deficiency, [[KEYWORD-Mitochondria|mitochondria]]l dysfunction |
 | **Alpha-ketoglutarate ↑** | B-vitamin cofactor insufficiency |
 | **Phenylpyruvate ↑** | Phenylketonuria (PKU) |
 | **Branched-chain keto acids ↑** | Maple syrup urine disease |

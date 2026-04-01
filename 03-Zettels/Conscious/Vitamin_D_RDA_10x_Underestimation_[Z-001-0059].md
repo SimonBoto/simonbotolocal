@@ -13,7 +13,7 @@ created: 2026-03-01
 status: conscious
 ---
 
-# Vitamin D RDA 10x Underestimation
+# [[KEYWORD-Vitamin_D|vitamin d]] RDA 10x Underestimation
 
 Corrected calculations using proper statistical methods (accounting for variability to cover 97.5% of population) show the RDA should be 7,000-8,000 IU/day, not the IOM's 600-800 IU. This represents a factor of 10 underestimation affecting global vitamin D status.
 
@@ -32,7 +32,7 @@ Corrected calculations using proper statistical methods (accounting for variabil
 
 ## Links
 
-**Parent MOC:** [[MOC-Vitamin-D-Metabolism]]
+**Parent MOC:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
 **Source:** [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
 **Related:** [[IOM_Mean_vs_97th_Percentile_Error_[Z-001-0058].md]], [[Endocrine_Society_vs_IOM_Guidelines_[Z-001-0061].md]]
 

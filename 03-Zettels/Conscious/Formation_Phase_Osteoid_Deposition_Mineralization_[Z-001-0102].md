@@ -33,7 +33,7 @@ Osteoblasts synthesize and deposit **osteoid** (unmineralized bone matrix), whic
 ### Primary Mineralization (Weeks 2–3)
 - **Process:** Rapid deposition of hydroxyapatite crystals
 - **Extent:** 50–70% of final mineral content
-- **Mechanism:** Vesicle-mediated nucleation, collagen-guided crystal orientation
+- **[[KEYWORD-Mechanism|mechanism]]:** Vesicle-mediated nucleation, collagen-guided crystal orientation
 - **Alkaline phosphatase (ALP):** Critical enzyme, cleaves phosphate groups
 
 ### Secondary Mineralization (Months 3–6+)
@@ -68,7 +68,7 @@ Osteoblasts synthesize and deposit **osteoid** (unmineralized bone matrix), whic
 3. **Apoptosis:** Programmed cell death (~10%)
    - Prevents overfilling of resorption cavity
 
-## Clinical Assessment Markers
+## [[KEYWORD-Clinical|clinical]] Assessment Markers
 
 ### Formation Markers (Blood)
 | Marker | Source | Clinical Use |

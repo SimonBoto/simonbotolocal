@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# One Carbon Metabolism Cancer Nucleotide Synthesis
+# One Carbon [[KEYWORD-Metabolism|metabolism]] Cancer Nucleotide Synthesis
 
 ## Overview
 Cancer cells have an exceptionally high demand for one-carbon units to support rapid nucleotide synthesis, amino acid metabolism, and methylation reactions—making one-carbon metabolism a critical pathway for proliferation.
@@ -113,10 +113,10 @@ Folate antagonist → Blocks one-carbon transfer
 | **Glycine** | Accepts one-carbon |
 | **Cancer adaptation** | Upregulate serine synthesis |
 
-### Mitochondrial One-Carbon
+### [[KEYWORD-Mitochondria|mitochondria]]l One-Carbon
 | Feature | Significance |
 |---------|--------------|
-| **Mitochondrial SHMT** | Alternative source |
+| **[[KEYWORD-Mitochondria|mitochondrial]] SHMT** | Alternative source |
 | **Formate overflow** | Supports cytosolic synthesis |
 | **Cancer dependence** | Often upregulated |
 

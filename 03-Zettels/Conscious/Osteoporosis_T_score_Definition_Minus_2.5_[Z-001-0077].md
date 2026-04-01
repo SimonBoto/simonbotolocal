@@ -19,7 +19,7 @@ Osteoporosis is diagnosed when the T-score is ≤ −2.5 on DXA. It is a skeleta
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
 **Source:** [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]]
 **Related:** [[Osteopenia_T_score_Definition_Minus_1_to_2.5_[Z-001-0076].md]], [[Fragility_Fractures_Morbidity_Mortality_[Z-001-0078].md]]
 

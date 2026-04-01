@@ -14,7 +14,7 @@ created: 2026-02-24
 
 # Vicious Cycle: Stress → Cortisol → IR → Stress
 
-Chronic stress (psychological or physiological) activates the HPA axis, elevating cortisol. Cortisol increases gluconeogenesis and promotes visceral fat redistribution, both driving insulin resistance.
+Chronic stress (psychological or physiological) activates the HPA axis, elevating cortisol. Cortisol increases gluconeogenesis and promotes visceral fat redistribution, both driving [[KEYWORD-Insulin|insulin]] resistance.
 
 **The cycle:** Metabolic stress from IR creates HPA axis dysregulation, perpetuating the stress response. This is Selye's General Adaptation Syndrome — chronic IR represents the "exhaustion" phase.
 
@@ -45,14 +45,14 @@ HPA Axis Dysregulation
 ## Links
 
 - **Upstream:** [[Compensatory_IR_Stage_Z-001-0034.md]] — Metabolic stress feeds back
-- **Parallel:** [[Vicious_Cycle_IR_Obesity_Z-001-0037.md]], [[Vicious_Cycle_Inflammation_IR_Z-001-0038.md]] — Other vicious cycles
+- **Parallel:** [[Vicious_Cycle_IR_Obesity_Z-001-0037.md]], [[Vicious_Cycle_[[KEYWORD-Inflammation|inflammation]]_IR_Z-001-0038.md]] — Other vicious cycles
 - **Downstream:** [[MOC-Stress-Management]] — Interventions
 
 ## Context
 
 **Also relevant to:** [[MOC-HPA-Axis]], [[MOC-Stress]]
 
-**Emerges from:** Literature synthesis on stress-metabolism connections
+**Emerges from:** Literature synthesis on stress-[[KEYWORD-Metabolism|metabolism]] connections
 
 ---
 

@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Metabolomics Research Core Bibliography
+# [[KEYWORD-Metabolomics|metabolomics]] Research Core Bibliography
 
 ## Overview
 Essential research papers supporting metabolomics clinical practice.
@@ -33,12 +33,12 @@ Essential research papers supporting metabolomics clinical practice.
 **Clinical use:** Early intervention justification
 
 ### Papamichael MM, et al. 2018
-**Title:** *Urinary organic acids as biomarkers in the assessment of pulmonary function in children with asthma.*  
+**Title:** *Urinary organic acids as [[KEYWORD-Biomarker|biomarker]]s in the assessment of pulmonary function in children with asthma.*  
 **Journal:** Nutr Res  
 **Key finding:** OAT markers correlate with asthma severity  
 **Clinical use:** Respiratory application of metabolomics
 
-## Fatty Acid Metabolism
+## Fatty Acid [[KEYWORD-Metabolism|metabolism]]
 
 ### Zhao X, et al. 2016
 **Title:** *Using Metabolomic Profiles as Biomarkers for Insulin Resistance and T2D.*  

@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]]
 extraction-date: 2026-03-01
 ---
 
-# Mitochondrial Supplementation Protocol
+# [[KEYWORD-Mitochondria|mitochondria]]l Supplementation Protocol
 
-> Targeted supplementation based on organic acid patterns, combined with dietary modifications, restores mitochondrial function.
+> Targeted supplementation based on organic acid patterns, combined with dietary modifications, restores [[KEYWORD-Mitochondria|mitochondrial]] function.
 
 ## Tier 1 — Critical
 
@@ -34,7 +34,7 @@ extraction-date: 2026-03-01
 
 **Low-carb, high-fat:**
 - Reduces glycolytic burden
-- Shifts to ketone metabolism
+- Shifts to ketone [[KEYWORD-Metabolism|metabolism]]
 - Bypasses some TCA blocks
 
 **Animal-based:**

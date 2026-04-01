@@ -12,7 +12,7 @@ status: conscious
 source-litnote: Synthesized from clinical practice
 ---
 
-# Protein Metabolism Disorders & Oxalate Pathway
+# Protein [[KEYWORD-Metabolism|metabolism]] Disorders & Oxalate Pathway
 
 ## Core Claim
 **Oxalate metabolism demonstrates the metabolite pathway analysis approach** — substrate accumulation, alternative pathway activation, and urinary excretion patterns applicable to adipic acid and other urine organic acid (OA) markers.
@@ -63,7 +63,7 @@ Elevated urinary oxalate (diagnostic marker)
 | **Detection method** | LC-MS/MS | LC-MS/MS |
 
 ### Key Insight
-Both oxalate and adipic acid use **identical analytical methodology** — the urine organic acid panel established for IMD diagnosis directly applies to IR biomarker detection.
+Both oxalate and adipic acid use **identical analytical methodology** — the urine organic acid panel established for IMD diagnosis directly applies to IR [[KEYWORD-Biomarker|biomarker]] detection.
 
 ## Connections
 
@@ -72,7 +72,7 @@ Both oxalate and adipic acid use **identical analytical methodology** — the ur
 - [[Krebs_Cycle_Metabolites_IR_Markers_[Z-001-0912].md]] — Mitochondrial dysfunction markers
 
 ### Downstream
-- [[Metabolic_Acidosis_Biomarkers_Patterns_Z-001-0028.md]] — Organic acid pattern recognition
+- [[Metabolic_Acidosis_[[KEYWORD-Biomarker|biomarkers]]_Patterns_Z-001-0028.md]] — Organic acid pattern recognition
 - [[MOC-PhD-METHAP-Trial]] — Urine OA methodology
 
 ### Cross-Domain

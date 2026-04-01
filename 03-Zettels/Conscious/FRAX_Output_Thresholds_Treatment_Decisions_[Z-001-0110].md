@@ -18,7 +18,7 @@ FRAX provides **10-year probability estimates** that guide pharmacologic interve
 
 ### 10-Year Probabilities Calculated
 1. **Major osteoporotic fracture**
-   - Composite endpoint: hip, clinical spine, forearm, proximal humerus
+   - Composite endpoint: hip, [[KEYWORD-Clinical|clinical]] spine, forearm, proximal humerus
    - Most commonly used for treatment decisions
    
 2. **Hip fracture specifically**

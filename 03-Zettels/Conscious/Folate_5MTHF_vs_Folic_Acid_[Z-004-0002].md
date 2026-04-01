@@ -78,7 +78,7 @@ source-litnote: Synthesized from clinical practice
 | **Pregnancy** | Reduced risk of unmetabolized folic acid |
 | **History of miscarriage** | MTHFR common in recurrent loss |
 | **Depression/anxiety** | 5-MTHF crosses blood-brain barrier better |
-| **Neural tube defect history** | Genetic folate metabolism issues likely |
+| **Neural tube defect history** | Genetic folate [[KEYWORD-Metabolism|metabolism]] issues likely |
 
 ### Testing Folate Status
 
@@ -143,8 +143,8 @@ patient_id,visit,rbc_folate_ng_ml,5_mthf_ng_ml,mthfr_genotype,folate_form_used
 
 ## RELATED FILES
 - [[TG_HDL_Ratio_IR_Marker_[Z-001-0049]|Z-001-0049]]
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/Methylation_Family_[B-004-0001]|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
 
 
 

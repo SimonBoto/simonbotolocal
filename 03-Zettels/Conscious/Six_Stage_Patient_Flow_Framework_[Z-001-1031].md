@@ -16,7 +16,7 @@ created: 2026-03-08
 # Six Stage Patient Flow Framework
 
 ## Overview
-The complete metabolomics patient journey, structured as six sequential stages with distinct learning objectives for clinician training.
+The complete [[KEYWORD-Metabolomics|metabolomics]] patient journey, structured as six sequential stages with distinct learning objectives for clinician training.
 
 ## The Six Stages
 
@@ -32,7 +32,7 @@ The complete metabolomics patient journey, structured as six sequential stages w
 
 ### STAGE 2 — Sample Analysis (The Interpretive Arena)
 **Goal:** Create coherent metabolic narrative from OAT + fatty acids
-**Learning:** Pattern recognition, pathway integration, biomarker triangulation
+**Learning:** Pattern recognition, pathway integration, [[KEYWORD-Biomarker|biomarker]] triangulation
 **Socratic Challenge:** *"You see elevated lactate + BHB. Is this mitochondrial blockage or ketogenic physiology?"*
 
 ### STAGE 3a — Live or Email Report
@@ -71,7 +71,7 @@ Each stage becomes a **training module** with:
 *Source: CGPT-0022 — ChatGPT training synthesis*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 
 

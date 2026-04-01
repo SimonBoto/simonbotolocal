@@ -13,7 +13,7 @@ created: 2026-03-01
 status: conscious
 ---
 
-# Gallo 2013 — Infant Vitamin D Dose-Response Study
+# Gallo 2013 — Infant [[KEYWORD-Vitamin_D|vitamin d]] Dose-Response Study
 
 Gallo et al. (2013) randomized controlled trial tested 400, 800, 1,200, and 1,600 IU/day in infants (1-12 months). Higher doses increased serum 25(OH)D without toxicity. 1,600 IU/day was highest dose tested; 400 IU sufficient for >20 ng/mL in most infants.
 
@@ -29,8 +29,8 @@ Gallo et al. (2013) randomized controlled trial tested 400, 800, 1,200, and 1,60
 
 ## Links
 
-**Parent MOC:** [[MOC-Clinical-Protocols]]
-**Source:** [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
+**Parent MOC:** [[MOC-[[KEYWORD-Clinical|clinical]]-Protocols]]
+**Source:** [[LitNote_High_Dose_Vitamin_D_[[KEYWORD-Research|research]]_L-001-0009]]
 **Related:** [[Saadi_2009_2000IU_Infant_Safety_[Z-001-0068]]], [[UL_Conservative_vs_Research_Reality_[Z-001-0071]]]
 
 ---

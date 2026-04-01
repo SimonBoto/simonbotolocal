@@ -85,7 +85,7 @@ d = (Mean₁ - Mean₂) / Pooled SD
 | 0.06 | Medium effect |
 | 0.14 | Large effect |
 
-**Use:** ANOVA designs, metabolomics studies.
+**Use:** ANOVA designs, [[KEYWORD-Metabolomics|metabolomics]] studies.
 
 ### Confidence Intervals
 **Critical requirement:** Report 95% CI for all effect sizes.
@@ -137,7 +137,7 @@ d = (Mean₁ - Mean₂) / Pooled SD
 
 ## METHAP Reporting Standards
 
-### Required for All Biomarker Claims
+### Required for All [[KEYWORD-Biomarker|biomarker]] Claims
 ```
 Metabolite: [Name]
 - Fold change: [X.X]
@@ -174,6 +174,6 @@ Metabolite: [Name]
 
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 ## RELATED FILES
-- [[Biomarkers/Kidney_Function_[B-008-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Kidney_Function_[B-008-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

@@ -83,7 +83,7 @@ Linear shape (like saturated)
 ## Metabolic Effects
 
 ### Cis Fats
-**Metabolism:**
+**[[KEYWORD-Metabolism|metabolism]]:**
 - Normal incorporation into cell membranes
 - Flexible membrane structure
 - Normal enzyme interactions
@@ -105,11 +105,11 @@ Linear shape (like saturated)
 - Increases CHD risk by ~25-30%
 - More harmful than saturated fat
 
-**Inflammation:**
+**[[KEYWORD-Inflammation|inflammation]]:**
 - Pro-inflammatory
 - Increases CRP, IL-6
 
-**Insulin Resistance:**
+**[[KEYWORD-Insulin|insulin]] Resistance:**
 - Impairs glucose metabolism
 - Increases diabetes risk
 

@@ -71,7 +71,7 @@ The degree of saturation (number of double bonds) determines fatty acid physical
 - Different SFAs have different effects:
   - **Palmitic acid (C16):** Most atherogenic
   - **Stearic acid (C18):** Neutral effect on LDL
-  - **Medium-chain (C8-C12):** Different metabolism
+  - **Medium-chain (C8-C12):** Different [[KEYWORD-Metabolism|metabolism]]
 - Context matters (carbohydrate intake, overall diet)
 
 ### Monounsaturated Fats
@@ -84,7 +84,7 @@ The degree of saturation (number of double bonds) determines fatty acid physical
 **Health Effects:**
 - Lower LDL cholesterol
 - Maintain or raise HDL
-- Improve insulin sensitivity
+- Improve [[KEYWORD-Insulin|insulin]] sensitivity
 - Anti-inflammatory
 - **Key component of Mediterranean diet**
 
@@ -151,7 +151,7 @@ The degree of saturation (number of double bonds) determines fatty acid physical
 - Increase omega-3 EPA/DHA
 - Consider overall diet pattern (Mediterranean)
 
-### For Inflammation
+### For [[KEYWORD-Inflammation|inflammation]]
 - Minimize omega-6 excess
 - Maximize omega-3
 - Use MUFA as primary fat

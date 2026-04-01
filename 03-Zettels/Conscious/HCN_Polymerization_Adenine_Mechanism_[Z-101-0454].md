@@ -18,7 +18,7 @@ source: [[L-101-0045B]]
 5 HCN → Adenine (C₅H₅N₅)
 ```
 
-## Proposed Mechanism
+## Proposed [[KEYWORD-Mechanism|mechanism]]
 1. **HCN oligomerization** → formamidine intermediates
 2. **Cyclization** → 4-aminoimidazole-5-carbonitrile (AICN)
 3. **Reaction with additional HCN** → adenine

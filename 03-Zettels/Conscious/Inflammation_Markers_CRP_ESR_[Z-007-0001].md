@@ -48,7 +48,7 @@ source-litnote: Synthesized from clinical practice
 
 ## 🔗 Connected Systems
 
-**Iron Metabolism:**
+**Iron [[KEYWORD-Metabolism|metabolism]]:**
 - [[Ferritin_Interpretation_Iron_Status_Z-003-0001.md]] — Ferritin (elevated by inflammation)
 - [[Iron_Status_Patterns_ACD_Overload_Z-003-0013.md]] — Anemia of chronic disease (CRP drives hepcidin)
 - High CRP → functional iron deficiency
@@ -127,6 +127,6 @@ patient_id,visit,hs_crp_mg_l,esr_mm_hr,inflammation_status
 *Created: 2026-02-26 | Domain: 007 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
 

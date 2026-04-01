@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Purine Salvage Pathway Recycling Mechanism
+# Purine Salvage Pathway Recycling [[KEYWORD-Mechanism|mechanism]]
 
 ## Overview
 The purine salvage pathway recovers free purine bases from nucleotide degradation, converting them back into nucleotides for reuse—an energy-efficient alternative to de novo synthesis.
@@ -112,7 +112,7 @@ AMP → Adenosine → Inosine → Hypoxanthine → Xanthine → Uric acid
 
 ## Therapeutic Targeting
 
-### Salvage Inhibitors in Cancer
+### Salvage Inhibitors in [[KEYWORD-Cancer|cancer]]
 - Some chemotherapies target salvage enzymes
 - Tumor cells often upregulate salvage pathways
 - Combination with de novo inhibitors effective
@@ -125,7 +125,7 @@ AMP → Adenosine → Inosine → Hypoxanthine → Xanthine → Uric acid
 ## Related
 - [[Adenine_Purine_Base_Structure_Function_[Z-001-1084].md]]
 - [[Nucleoside_Formation_Phosphorylation_Pathways_[Z-001-1086].md]]
-- [[MOC-Nucleotide-Metabolism]]
+- [[MOC-Nucleotide-[[KEYWORD-Metabolism|metabolism]]]]
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

@@ -1,0 +1,27 @@
+---
+uid: KEYWORD-METHYLATION
+type: keyword-moc
+title: "Keyword: Methylation"
+aliases: [methylation]
+domain: 000
+tags: [keyword, index, methylation]
+parent-moc: [[MOC-INDEX]]
+status: active
+created: 2026-04-01
+---
+
+# Keyword: Methylation
+
+> **Auto-generated keyword index**
+> 
+> All zettels mentioning "methylation" link here.
+
+---
+
+## Connected Zettels
+
+{{embed [[MOC-INDEX]]}}
+
+---
+
+*This MOC automatically collects backlinks from all zettels containing "methylation".*

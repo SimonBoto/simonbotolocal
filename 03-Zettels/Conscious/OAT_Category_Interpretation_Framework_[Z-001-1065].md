@@ -41,11 +41,11 @@ Systematic approach to OAT interpretation by marker category.
 | **Adipate** | General fatty acid oxidation stress |
 | **Ethylmalonate** | Multiple acyl-CoA dehydrogenase deficiency |
 
-### 4. B-Vitamin Dependent
+### 4. B-[[KEYWORD-Vitamin_D|vitamin d]]ependent
 | Marker | Vitamin | Interpretation |
 |--------|---------|----------------|
 | **Methylmalonate** | B12 | Functional B12 deficiency |
-| **FIGLU** | Folate | One-carbon metabolism block |
+| **FIGLU** | Folate | One-carbon [[KEYWORD-Metabolism|metabolism]] block |
 | **Kynurenate** | B6 | Tryptophan metabolism impairment |
 
 ### 5. Mitochondrial Distress
@@ -76,7 +76,7 @@ Systematic approach to OAT interpretation by marker category.
 
 ## Related
 - [[OAT_Pattern_Recognition_Protocol_[Z-001-1066].md]]
-- [[MOC-Metabolomics-Analysis]]
+- [[MOC-[[KEYWORD-Metabolomics|metabolomics]]-Analysis]]
 
 ---
 *Source: CGPT-0022 — OAT interpretation*

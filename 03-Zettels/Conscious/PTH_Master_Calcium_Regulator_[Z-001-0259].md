@@ -44,7 +44,7 @@ extraction-date: 2026-03-01
 ## PTH Actions
 
 ### 1. Bone (Osteoclast Activation)
-**Mechanism:**
+**[[KEYWORD-Mechanism|mechanism]]:**
 - PTH binds osteoblasts (not osteoclasts directly)
 - Osteoblasts release RANKL
 - RANKL activates osteoclasts
@@ -67,7 +67,7 @@ extraction-date: 2026-03-01
 **Collecting Duct:**
 - Further calcium reabsorption
 
-### 3. Kidney (Vitamin D Activation)
+### 3. Kidney ([[KEYWORD-Vitamin_D|vitamin d]] Activation)
 **1α-Hydroxylase:**
 - PTH stimulates CYP27B1
 - Converts 25(OH)D → 1,25(OH)₂D
@@ -96,7 +96,7 @@ CaSR → ↑ PTH secretion
 CaSR → ↓ PTH secretion
 ```
 
-## Clinical Relevance
+## [[KEYWORD-Clinical|clinical]] Relevance
 
 ### Primary Hyperparathyroidism
 - Excess PTH (usually adenoma)

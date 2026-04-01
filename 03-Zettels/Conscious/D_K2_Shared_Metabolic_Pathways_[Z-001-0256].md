@@ -13,11 +13,11 @@ extraction-date: 2026-03-01
 
 # D-K2 Shared Metabolic Pathways
 
-> Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis, insulin signaling, inflammation, and lipid metabolism—creating synergistic effects that exceed their individual contributions to metabolic health.
+> Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis, [[KEYWORD-Insulin|insulin]] signaling, inflammation, and lipid [[KEYWORD-Metabolism|metabolism]]—creating synergistic effects that exceed their individual contributions to metabolic health.
 
 ## 1. Calcium Homeostasis
 
-### Vitamin D Actions
+### [[KEYWORD-Vitamin_D|vitamin d]] Actions
 - Increases intestinal calcium absorption (calbindin upregulation)
 - Mobilizes calcium from bone (when needed)
 - Regulates PTH (negative feedback)

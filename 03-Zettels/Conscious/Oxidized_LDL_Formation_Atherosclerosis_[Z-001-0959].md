@@ -109,7 +109,7 @@ OXIDIZED LDL — immunogenic, pro-inflammatory
 - Activates TLR4 on macrophages
 - Induces NF-κB pathway
 - Cytokine release: IL-6, IL-1β, TNF-α
-- Promotes plaque inflammation
+- Promotes plaque [[KEYWORD-Inflammation|inflammation]]
 
 ### 4. Autoimmune Component
 
@@ -121,7 +121,7 @@ OXIDIZED LDL — immunogenic, pro-inflammatory
 
 ## Measuring Oxidative Risk
 
-### Biomarkers
+### [[KEYWORD-Biomarker|biomarker]]s
 
 | Marker | Sample | Interpretation |
 |--------|--------|----------------|
@@ -221,6 +221,6 @@ Fatty streak → Atheroma → Plaque → Thrombosis
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

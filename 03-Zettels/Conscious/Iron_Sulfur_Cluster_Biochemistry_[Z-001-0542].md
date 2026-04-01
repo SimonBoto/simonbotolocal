@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]]
 extraction-date: 2026-03-01
 ---
 
-# Iron-Sulfur Cluster Biochemistry
+# Iron-Sulfur Cluster [[KEYWORD-Bio[[KEYWORD-Chemistry|chemistry]]|biochemistry]]
 
 > Aconitase requires a [4Fe-4S]²⁺ iron-sulfur cluster for catalytic activity, with Feₐ coordinating substrate and mediating Lewis acid catalysis.
 
@@ -40,7 +40,7 @@ extraction-date: 2026-03-01
 - **Redox active:** Fe²⁺/Fe³⁺
 - **Lewis acid:** Accepts electrons
 - **Flexible:** Binds various substrates
-- **Ancient:** Pre-oxygen Earth evolution
+- **Ancient:** Pre-oxygen Earth [[KEYWORD-Evolution|evolution]]
 
 ---
 

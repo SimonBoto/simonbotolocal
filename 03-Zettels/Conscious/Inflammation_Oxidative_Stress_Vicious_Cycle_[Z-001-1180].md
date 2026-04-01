@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]]
 status: conscious
 ---
 
-# Inflammation-Oxidative Stress Vicious Cycle
+# [[KEYWORD-Inflammation|inflammation]]-Oxidative Stress Vicious Cycle
 
 ## The Self-Sustaining Loop
 
@@ -23,7 +23,7 @@ Inflammation
       ↓
 Pro-inflammatory Cytokines (TNF-α, IL-1β, IL-6)
       ↓
-ROS Production ↑ (Mitochondria, NADPH oxidase)
+ROS Production ↑ ([[KEYWORD-Mitochondria|mitochondria]], NADPH oxidase)
       ↓
 Oxidative Damage (DNA, proteins, lipids)
       ↓
@@ -45,7 +45,7 @@ More Inflammation
 
 **Effects on ROS:**
 - Activates NADPH oxidase
-- Induces mitochondrial dysfunction
+- Induces [[KEYWORD-Mitochondria|mitochondrial]] dysfunction
 - Increases ROS production 2-3 fold
 
 **Feedback:** ROS can activate NF-κB → more TNF-α

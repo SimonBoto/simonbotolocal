@@ -23,10 +23,10 @@ Cirrhosis represents end-stage liver disease with fibrosis, regenerative nodules
 
 **Definition:**
 - Portal pressure >5 mmHg (normal 1-5)
-- Clinically significant: >10 mmHg (varices form)
+- [[KEYWORD-Clinical|clinical]]ly significant: >10 mmHg (varices form)
 - Variceal hemorrhage risk: >12 mmHg
 
-**Mechanisms:**
+**[[KEYWORD-Mechanism|mechanism]]s:**
 1. **Increased resistance** (intrahepatic)
    - Fibrosis and regenerative nodules
    - Sinusoidal capillarization
@@ -348,7 +348,7 @@ MELD-Na = MELD + 1.32×(137-Na) - [0.033×MELD×(137-Na)]
 - Neurotransmitter imbalance (GABA, glutamate)
 
 **Other factors:**
-- Inflammation
+- [[KEYWORD-Inflammation|inflammation]]
 - Benzodiazepine-like substances
 - Manganese deposition
 - Cerebral edema

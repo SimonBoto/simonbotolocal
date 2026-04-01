@@ -38,9 +38,9 @@ extraction-date: 2026-03-01
 **Pro-inflammatory:**
 - Excess AA production
 - COX-2 activation
-- Chronic inflammation
+- Chronic [[KEYWORD-Inflammation|inflammation]]
 
-**Oxidative Stress:**
+**[[KEYWORD-Oxidative_Stress|oxidative stress]]:**
 - PUFAs prone to oxidation
 - LDL oxidation
 - Endothelial dysfunction
@@ -48,7 +48,7 @@ extraction-date: 2026-03-01
 **Metabolic Disease:**
 - NAFLD
 - Obesity
-- Type 2 diabetes
+- Type 2 [[KEYWORD-Diabetes|diabetes]]
 
 ---
 

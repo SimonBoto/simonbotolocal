@@ -13,10 +13,10 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Krebs Cycle Clinical Biochemistry
+# Krebs Cycle Clinical [[KEYWORD-Biochemistry|biochemistry]]
 
 ## Overview
-Central mitochondrial pathway oxidizing acetyl-CoA to CO₂ while generating reducing equivalents (NADH, FADH₂) and biosynthetic intermediates.
+Central [[KEYWORD-Mitochondria|mitochondria]]l pathway oxidizing acetyl-CoA to CO₂ while generating reducing equivalents (NADH, FADH₂) and biosynthetic intermediates.
 
 ## Cycle Reactions (8 Steps)
 
@@ -59,7 +59,7 @@ OAT markers reveal cycle dysfunction:
 - [[MOC-Krebs-Cycle]]
 
 ---
-*Source: CGPT-0022 — Mitochondrial biochemistry*
+*Source: CGPT-0022 — [[KEYWORD-Mitochondria|mitochondrial]] biochemistry*
 
 
 ## RELATED FILES

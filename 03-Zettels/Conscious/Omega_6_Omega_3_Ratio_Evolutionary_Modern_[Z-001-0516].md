@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]]
 extraction-date: 2026-03-01
 ---
 
-# Omega-6 to Omega-3 Ratio — Evolutionary vs. Modern
+# [[KEYWORD-Omega_6|omega-6]] to Omega-3 Ratio — [[KEYWORD-Evolution|evolution]]ary vs. Modern
 
 > Human diets evolved with 1-4:1 omega-6:omega-3 ratios, but modern Western diets shifted to 15-20:1, creating pro-inflammatory metabolic environments.
 
@@ -46,7 +46,7 @@ extraction-date: 2026-03-01
 | Ratio | Effect |
 |-------|--------|
 | **4:1** | 70% mortality reduction |
-| **2-3:1** | RA inflammation suppression |
+| **2-3:1** | RA [[KEYWORD-Inflammation|inflammation]] suppression |
 | **5:1** | Asthma benefit |
 | **10:1** | Upper limit |
 

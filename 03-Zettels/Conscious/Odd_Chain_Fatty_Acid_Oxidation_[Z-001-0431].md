@@ -48,11 +48,11 @@ extraction-date: 2026-03-01
 
 **Dietary Marker:**
 - Odd-chain fat levels reflect dairy intake
-- Used as biomarker in research
+- Used as [[KEYWORD-Biomarker|biomarker]] in research
 
 **B12 Dependence:**
 - Complete oxidation requires functional methylmalonyl-CoA mutase
-- B12 deficiency → impaired odd-chain fat metabolism
+- B12 deficiency → impaired odd-chain fat [[KEYWORD-Metabolism|metabolism]]
 
 ---
 
@@ -60,6 +60,6 @@ extraction-date: 2026-03-01
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

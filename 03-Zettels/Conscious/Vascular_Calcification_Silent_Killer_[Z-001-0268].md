@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Vascular Calcification — The Silent Killer
 
-> Vascular calcification—the deposition of calcium phosphate crystals in arterial walls—affects 90% of adults over 70, increases cardiovascular risk independent of traditional factors, and often remains asymptomatic until advanced stages.
+> Vascular calcification—the deposition of [[KEYWORD-Calcium|calcium]] phosphate crystals in arterial walls—affects 90% of adults over 70, increases cardiovascular risk independent of traditional factors, and often remains asymptomatic until advanced stages.
 
 ## Definition and Types
 
@@ -25,7 +25,7 @@ extraction-date: 2026-03-01
 **Medial Calcification (Mönckeberg):**
 - Independent of atherosclerosis
 - Stiffens arteries
-- Common in diabetes, CKD, aging
+- Common in [[KEYWORD-Diabetes|diabetes]], CKD, aging
 
 ## Prevalence
 
@@ -40,7 +40,7 @@ extraction-date: 2026-03-01
 - Metabolic syndrome: Accelerated
 - Postmenopausal women: Increased
 
-## Clinical Consequences
+## [[KEYWORD-Clinical|clinical]] Consequences
 
 **Arterial Stiffness:**
 - Loss of Windkessel effect

@@ -14,12 +14,12 @@ created: 2026-03-27
 
 # METHAP Study Design Overview
 
-METHAP (Metabolomics and Insulin Resistance Biomarkers) is a dual-phase study combining cross-sectional biomarker identification with longitudinal dietary intervention.
+METHAP ([[KEYWORD-Metabolomics|metabolomics]] and Insulin Resistance [[KEYWORD-Biomarker|biomarker]]s) is a dual-phase study combining cross-sectional biomarker identification with longitudinal dietary intervention.
 
 ## Study Phases
 
 ### Phase 1: Cross-Sectional Observational (N=200)
-- **Purpose:** Identify metabolic biomarkers associated with insulin resistance
+- **Purpose:** Identify metabolic [[KEYWORD-Biomarker|biomarkers]] associated with insulin resistance
 - **Design:** Single assessment, case-control comparison
 - **Groups:** Control (n=100, no IR) vs. IR (n=100)
 - **Methods:** Questionnaires, physical measurements, metabolomics

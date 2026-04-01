@@ -33,12 +33,12 @@ High-energy phosphoanhydride bonds drive:
 - Chemical synthesis
 - Active transport
 
-## Evolutionary Significance
+## [[KEYWORD-Evolution|evolution]]ary Significance
 Conserved for ~4 billion years — strongest evidence for common ancestry of all life.
 
 ## Related
 - [[Adenosine_Receptors_Sleep_Regulation_[Z-101-0452]]] Adenosine Receptors and Sleep Regulation
-- [[Purine_vs_Pyrimidine_Structure_[Z-101-0453]]] Purine vs Pyrimidine Chemistry
+- [[Purine_vs_Pyrimidine_Structure_[Z-101-0453]]] Purine vs Pyrimidine [[KEYWORD-Chemistry|chemistry]]
 - [[Ribose_Structure_RNA_Backbone_[Z-001-0458]]] Pentose Phosphate Pathway (ribose source)
 
 ---

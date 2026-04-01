@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Magnesium_Supplementation_L-001-0201d]]
 extraction-date: 2026-03-01
 ---
 
-# Magnesium Forms — Bioavailability and Clinical Selection
+# [[KEYWORD-Magnesium|magnesium]] Forms — Bioavailability and [[KEYWORD-Clinical|clinical]] Selection
 
 > The choice of magnesium salt significantly impacts absorption, tolerability, and clinical efficacy, with organic salts (citrate, glycinate) demonstrating superior bioavailability compared to inorganic forms (oxide).
 
@@ -94,7 +94,7 @@ extraction-date: 2026-03-01
 ## Selection Algorithm
 
 ```
-General MetS/Insulin Resistance
+General MetS/[[KEYWORD-Insulin|insulin]] Resistance
     ↓
 Citrate (cost-effective) or Glycinate (gentle)
     ↓

@@ -51,7 +51,7 @@ Despite performing both reactions, IDH is classified as a dehydrogenase because:
 ## IDH Isoforms
 
 ### IDH3 (NAD⁺-dependent)
-- **Location:** Mitochondrial matrix
+- **Location:** [[KEYWORD-Mitochondria|mitochondria]]l matrix
 - **Catalytic activity:** Both dehydrogenation and decarboxylation
 - **Regulation:** Allosterically controlled
   - **Activated by:** ADP (low energy signal)
@@ -69,7 +69,7 @@ Despite performing both reactions, IDH is classified as a dehydrogenase because:
   - Reductive carboxylation (reverse reaction) in hypoxia
 
 ### IDH2 (NADP⁺-dependent)
-- **Location:** Mitochondrial matrix
+- **Location:** [[KEYWORD-Mitochondria|mitochondrial]] matrix
 - **Catalytic activity:** Both reactions
 - **Regulation:** Not allosterically regulated
 - **Function:**
@@ -77,7 +77,7 @@ Despite performing both reactions, IDH is classified as a dehydrogenase because:
   - Protection against oxidative stress
   - Aconitase repair (iron-sulfur cluster maintenance)
 
-## Clinical Significance — IDH Mutations in Cancer
+## Clinical Significance — IDH Mutations in [[KEYWORD-Cancer|cancer]]
 
 ### Cancer Types with IDH Mutations
 

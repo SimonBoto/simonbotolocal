@@ -43,7 +43,7 @@ source-litnote: Synthesized from clinical practice
 
 ## 🔗 Connected Systems
 
-**Iron Metabolism:**
+**Iron [[KEYWORD-Metabolism|metabolism]]:**
 - [[Iron_Status_Patterns_ACD_Overload_Z-003-0013.md]] — Iron status patterns (deficiency vs anemia of chronic disease)
 - [[Iron_Studies_TIBC_Transferrin_Sat_Z-003-0002.md]] — Transferrin/TIBC (transport capacity)
 - Z-003-0003 (Transferrin saturation — functional availability) — *link pending*
@@ -173,6 +173,6 @@ patient_id,visit,ferritin_ng_ml,crp_mg_l,sTfR_mg_l,iron_status
 *Created: 2026-02-26 | Domain: 003 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
 

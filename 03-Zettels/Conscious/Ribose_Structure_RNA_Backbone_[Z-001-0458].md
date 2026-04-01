@@ -16,7 +16,7 @@ source: [[L-001-0045C]]
 ## Structure
 - **Formula:** C₅H₁₀O₅ (pentose)
 - **Ring form:** Furanose (5-membered: 4 carbons + 1 oxygen)
-- **Hydroxyl at 2' position:** Critical for RNA chemistry
+- **Hydroxyl at 2' position:** Critical for RNA [[KEYWORD-Chemistry|chemistry]]
 
 ## D-Ribose vs D-Deoxyribose
 | Feature | Ribose (RNA) | Deoxyribose (DNA) |
@@ -50,11 +50,11 @@ Primarily via **Pentose Phosphate Pathway** (not directly from glucose).
 ## Related
 - [[PPP_Oxidative_Phase_[Z-001-0457]]] PPP Oxidative Phase (ribose source)
 - [[ATP_Universal_Energy_Currency_[Z-101-0451]]] ATP Structure (contains ribose)
-- [[RNA_World_Hypothesis_Evolution_[Z-101-0456]]] RNA World Hypothesis
+- [[RNA_World_Hypothesis_[[KEYWORD-Evolution|evolution]]_[Z-101-0456]]] RNA World Hypothesis
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## Related
-- [[Metabolomics_Report_Structure_Standards_[Z-001-1073]|Z-001-1073]]
+- [[[[KEYWORD-Metabolomics|metabolomics]]_Report_Structure_Standards_[Z-001-1073]|Z-001-1073]]

@@ -61,7 +61,7 @@ Study screening is the process of evaluating search results against inclusion an
 | Element | Inclusion Criteria Example | Exclusion Criteria Example |
 |---------|---------------------------|---------------------------|
 | **Population** | Adults ≥18 years | Children, pregnant women |
-| **Intervention** | Vitamin D supplementation | Vitamin D from diet only |
+| **Intervention** | [[KEYWORD-Vitamin_D|vitamin d]] supplementation | Vitamin D from diet only |
 | **Comparison** | Placebo or standard care | No comparator |
 | **Outcome** | Fasting glucose, HbA1c | Surrogate markers only |
 | **Study Design** | RCTs, controlled trials | Case reports, reviews |
@@ -81,7 +81,7 @@ Study screening is the process of evaluating search results against inclusion an
 - Pilot test before full screening
 
 **Justified:**
-- Based on research question
+- Based on [[KEYWORD-Research|research]] question
 - Document rationale
 
 ## Dual Review Methodology
@@ -356,7 +356,7 @@ Study screening is the process of evaluating search results against inclusion an
 6. Pilot before full screening
 7. Use appropriate software
 
-**Clinical Pearl:** Screening is subjective despite criteria. Dual review and conflict resolution are not optional—they're essential quality control.
+**[[KEYWORD-Clinical|clinical]] Pearl:** Screening is subjective despite criteria. Dual review and conflict resolution are not optional—they're essential quality control.
 
 ---
 

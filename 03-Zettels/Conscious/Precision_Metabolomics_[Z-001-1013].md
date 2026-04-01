@@ -11,11 +11,11 @@ source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]]
 status: conscious
 ---
 
-# Precision Metabolomics — Urine Organic Acids and Plasma Metabolite Profiling
+# Precision [[KEYWORD-Metabolomics|metabolomics]] — Urine Organic Acids and Plasma Metabolite Profiling
 
 ## Overview
 
-Precision metabolomics moves beyond single biomarkers to comprehensive metabolic profiling, revealing functional status of biochemical pathways and enabling personalized interventions.
+Precision metabolomics moves beyond single [[KEYWORD-Biomarker|biomarker]]s to comprehensive metabolic profiling, revealing functional status of biochemical pathways and enabling personalized interventions.
 
 ## Urine Organic Acids (UOA)
 
@@ -28,7 +28,7 @@ Precision metabolomics moves beyond single biomarkers to comprehensive metabolic
 - Functional markers (not just structural)
 
 **Sources:**
-- Endogenous metabolism
+- Endogenous [[KEYWORD-Metabolism|metabolism]]
 - Gut microbial metabolism
 - Dietary compounds
 - Toxin metabolism

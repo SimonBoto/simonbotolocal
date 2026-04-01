@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Insulin_History_L-001-0207]]
 extraction-date: 2026-03-01
 ---
 
-# Leonard Thompson — First Human Insulin Treatment (1922)
+# Leonard Thompson — First Human [[KEYWORD-Insulin|insulin]] Treatment (1922)
 
-> On January 23, 1922, 14-year-old Leonard Thompson became the first human to receive effective insulin treatment, marking the moment when diabetes transformed from a fatal disease to a manageable condition.
+> On January 23, 1922, 14-year-old Leonard Thompson became the first human to receive effective insulin treatment, marking the moment when [[KEYWORD-Diabetes|diabetes]] transformed from a fatal disease to a manageable condition.
 
 ## Leonard Thompson (1908-1935)
 
@@ -24,7 +24,7 @@ extraction-date: 2026-03-01
 - Near death at Toronto General Hospital
 - Previous treatment: Frederick Allen's starvation diet
 
-**Clinical State (January 1922):**
+**[[KEYWORD-Clinical|clinical]] State (January 1922):**
 - Diabetic ketoacidosis
 - Severe wasting/cachexia
 - Little time remaining

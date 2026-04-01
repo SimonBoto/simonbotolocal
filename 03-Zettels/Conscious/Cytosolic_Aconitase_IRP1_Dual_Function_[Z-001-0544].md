@@ -17,11 +17,11 @@ extraction-date: 2026-03-01
 
 ## Two Isoforms
 
-| Feature | Mitochondrial | Cytosolic |
+| Feature | [[KEYWORD-Mitochondria|mitochondria]]l | Cytosolic |
 |---------|--------------|-----------|
 | **Gene** | ACO2 | ACO1 |
 | **Location** | Matrix | Cytosol |
-| **Role** | Krebs cycle | Iron sensing |
+| **Role** | [[KEYWORD-Krebs_Cycle|krebs cycle]] | Iron sensing |
 | **Cluster** | Stable | Labile |
 
 ## IRP1 Function
@@ -31,7 +31,7 @@ extraction-date: 2026-03-01
 **Iron abundant:**
 - [4Fe-4S] cluster present
 - Aconitase active
-- Normal metabolism
+- Normal [[KEYWORD-Metabolism|metabolism]]
 
 **Iron low:**
 - Cluster lost

@@ -13,7 +13,7 @@ created: 2026-03-01
 status: conscious
 ---
 
-# Vitamin D Regulatory Overreaction — Historical
+# [[KEYWORD-Vitamin_D|vitamin d]] Regulatory Overreaction — Historical
 
 The 1950s hypercalcemia incidents triggered regulatory overreaction: strict limits or outright bans on vitamin D fortification, especially in foods for children. This response was based on incomplete understanding (genetic factors unknown) and created lasting barriers to adequate vitamin D intake for populations.
 
@@ -26,13 +26,13 @@ The 1950s hypercalcemia incidents triggered regulatory overreaction: strict limi
 - Ongoing deficiency in many populations
 - "Toxicity" narrative persists in medical education
 - Conservative dosing guidelines
-- Fear of supplementation in clinical practice
+- Fear of supplementation in [[KEYWORD-Clinical|clinical]] practice
 
 **Modern perspective:** Regulations established in fear era (1950s-60s) still influence current guidelines, despite genetic understanding clarifying true risk profile.
 
 ## Links
 
-**Parent MOC:** [[MOC-Vitamin-Safety]]
+**Parent MOC:** [[MOC-Vitamin-[[KEYWORD-Safety|safety]]]]
 **Source:** [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
 **Related:** [[Vitamin_D_Toxicity_Myth_Persistence_[Z-001-0057]]], [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
 

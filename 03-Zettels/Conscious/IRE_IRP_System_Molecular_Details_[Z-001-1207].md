@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]]"
 status: conscious
 ---
 
-# IRE-IRP System — Molecular Mechanism of Iron Sensing
+# IRE-IRP System — Molecular [[KEYWORD-Mechanism|mechanism]] of Iron Sensing
 
 ## Overview
 
@@ -205,7 +205,7 @@ IRE binding increases
 
 ### IRP Homology
 
-IRP1: Aconitase-related (evolved from mitochondrial aconitase)
+IRP1: Aconitase-related (evolved from [[KEYWORD-Mitochondria|mitochondria]]l aconitase)
 IRP2: IRP1 duplication and specialization
 
 ---
@@ -255,7 +255,7 @@ Iron status → [Fe-S] status → IRP conformation
 
 ---
 
-*Source: [[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]] | 2026-03-09*
+*Source: [[LitNote_Aconitase_Iron_[[KEYWORD-Metabolism|metabolism]]_IRP1_L-001-0631]] | 2026-03-09*
 
 
 ## RELATED FILES

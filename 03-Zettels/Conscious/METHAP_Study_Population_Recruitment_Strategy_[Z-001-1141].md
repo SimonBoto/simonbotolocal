@@ -16,7 +16,7 @@ created: 2026-03-08
 # METHAP Study Population Recruitment Strategy
 
 ## Overview
-The METHAP (Metabolomics and Insulin Resistance) trial recruits 220 participants stratified by metabolic status to compare biomarker profiles and assess intervention efficacy.
+The METHAP ([[KEYWORD-Metabolomics|metabolomics]] and Insulin Resistance) trial recruits 220 participants stratified by metabolic status to compare [[KEYWORD-Biomarker|biomarker]] profiles and assess intervention efficacy.
 
 ## Study Population
 
@@ -62,7 +62,7 @@ The METHAP (Metabolomics and Insulin Resistance) trial recruits 220 participants
 | **Severe kidney disease** | Metabolomics interference |
 | **Liver disease** | Metabolic derangement |
 | **Pregnancy/lactation** | Physiological changes |
-| **Medications affecting metabolism** | Confounding |
+| **Medications affecting [[KEYWORD-Metabolism|metabolism]]** | Confounding |
 | **Recent antibiotics** | Gut microbiome disruption |
 
 ## Recruitment Strategy

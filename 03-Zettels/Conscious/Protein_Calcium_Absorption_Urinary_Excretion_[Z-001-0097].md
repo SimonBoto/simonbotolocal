@@ -13,13 +13,13 @@ created: 2026-03-01
 status: conscious
 ---
 
-# Protein Calcium Absorption Urinary Excretion
+# Protein [[KEYWORD-Calcium|calcium]] Absorption Urinary Excretion
 
 Protein intake stimulates intestinal calcium absorption. However, extremely high protein may increase urinary calcium excretion. Balance is essential—moderate-high protein optimizes calcium retention.
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
 **Source:** [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]]
 **Related:** [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_[Z-001-0099].md]], [[Vitamin_D_High_Dose_Monitoring_Protocol_[Z-001-0091].md]]
 

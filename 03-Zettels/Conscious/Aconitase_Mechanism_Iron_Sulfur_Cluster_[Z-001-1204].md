@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Aconitase is a unique enzyme with dual functions: it catalyzes an essential step in the Krebs cycle and, in its cytosolic form, regulates iron metabolism. Its iron-sulfur cluster is central to both activities.
+Aconitase is a unique enzyme with dual functions: it catalyzes an essential step in the Krebs cycle and, in its cytosolic form, regulates iron [[KEYWORD-Metabolism|metabolism]]. Its iron-sulfur cluster is central to both activities.
 
 ---
 
@@ -71,10 +71,10 @@ Stereospecific addition
 
 ---
 
-## Mitochondrial Aconitase (m-Aconitase)
+## [[KEYWORD-Mitochondria|mitochondria]]l Aconitase (m-Aconitase)
 
 ### Location
-- Mitochondrial matrix
+- [[KEYWORD-Mitochondria|mitochondrial]] matrix
 - Associated with inner membrane
 
 ### Function

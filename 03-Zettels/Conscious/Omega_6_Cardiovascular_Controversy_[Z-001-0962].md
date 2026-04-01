@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Epidemiological_Evidence_L-001-0525]]
 status: conscious
 ---
 
-# Omega-6 Cardiovascular Controversy — Conflicting Evidence Synthesis
+# [[KEYWORD-Omega_6|omega-6]] Cardiovascular Controversy — Conflicting Evidence Synthesis
 
 ## The Core Controversy
 
@@ -111,7 +111,7 @@ Does replacing saturated fat with omega-6 polyunsaturated fat reduce cardiovascu
 **Modern Ratio:** 15:1 to 25:1
 
 **Evidence:**
-- Observational: Lower ratio associated with less inflammation
+- Observational: Lower ratio associated with less [[KEYWORD-Inflammation|inflammation]]
 - Mechanistic: Shared desaturase enzyme
 - Trials rarely control for omega-3
 
@@ -167,7 +167,7 @@ Does replacing saturated fat with omega-6 polyunsaturated fat reduce cardiovascu
 
 1. **LDL reduction:** Lowers "bad" cholesterol
 2. **HDL maintenance:** Better than carbs
-3. **Insulin sensitivity:** vs saturated fat
+3. **[[KEYWORD-Insulin|insulin]] sensitivity:** vs saturated fat
 4. **Membrane fluidity:** Essential fatty acid function
 
 ### Anti-High-Omega-6 Mechanisms

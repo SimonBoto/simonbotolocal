@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Pyridoxal phosphate (PLP) is the active form of vitamin B6. It's the most versatile cofactor in amino acid metabolism, involved in transamination, decarboxylation, and racemization reactions.
+Pyridoxal phosphate (PLP) is the active form of vitamin B6. It's the most versatile cofactor in amino acid [[KEYWORD-Metabolism|metabolism]], involved in transamination, decarboxylation, and racemization reactions.
 
 ---
 
@@ -32,7 +32,7 @@ Pyridoxal phosphate (PLP) is the active form of vitamin B6. It's the most versat
 
 ---
 
-## Mechanism of Action
+## [[KEYWORD-Mechanism|mechanism]] of Action
 
 ### Schiff Base Formation
 ```
@@ -157,7 +157,7 @@ Serine + THF → Glycine + 5,10-CH₂-THF
 
 **Hematological:**
 - Sideroblastic anemia
-- Iron overload in mitochondria
+- Iron overload in [[KEYWORD-Mitochondria|mitochondria]]
 
 **Immunological:**
 - Impaired immune function

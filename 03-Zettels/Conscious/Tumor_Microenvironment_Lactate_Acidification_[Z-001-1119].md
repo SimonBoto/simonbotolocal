@@ -108,7 +108,7 @@ Cancer cells produce large amounts of lactate through aerobic glycolysis, acidif
 
 ## Clinical Implications
 
-### Biomarker
+### [[KEYWORD-Biomarker|biomarker]]
 - **High lactate:** Poor prognosis in many cancers
 - **LDH levels:** Prognostic indicator
 
@@ -117,13 +117,13 @@ Cancer cells produce large amounts of lactate through aerobic glycolysis, acidif
 
 ## Related
 - [[Warburg_Effect_Aerobic_Glycolysis_Cancer_[Z-001-1117].md]]
-- [[Mitochondrial_Dysfunction_Cancer_Metabolism_[Z-001-1120].md]]
+- [[Mitochondrial_Dysfunction_Cancer_[[KEYWORD-Metabolism|metabolism]]_[Z-001-1120].md]]
 - [[MOC-Cancer-Metabolism]]
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

@@ -13,14 +13,14 @@ confidence: high
 created: 2026-02-22
 ---
 
-# ER Stress and Insulin Resistance
+# ER Stress and [[KEYWORD-Insulin|insulin]] Resistance
 
-Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR), which induces insulin resistance through JNK activation.
+Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR), which induces [[KEYWORD-Insulin_Resistance|insulin resistance]] through JNK activation.
 
 **ER stress triggers:**
 - Nutrient excess (glucose, lipids)
 - Hypoxia
-- Inflammation
+- [[KEYWORD-Inflammation|inflammation]]
 - Genetic mutations
 
 **UPR signaling:**

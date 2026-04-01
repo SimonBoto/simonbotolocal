@@ -13,13 +13,13 @@ created: 2026-03-01
 status: conscious
 ---
 
-# Vitamin K2 MK4 MK7 Osteocalcin Activation
+# [[KEYWORD-Vitamin_K2|vitamin k2]] MK4 MK7 Osteocalcin Activation
 
-Vitamin K2 (MK-4 and MK-7 isoforms) activates osteocalcin via carboxylation. Carboxylated osteocalcin binds calcium ions more effectively, anchoring them in bone matrix. MK-4 has short half-life; MK-7 has longer half-life.
+Vitamin K2 (MK-4 and MK-7 isoforms) activates osteocalcin via carboxylation. Carboxylated osteocalcin binds [[KEYWORD-Calcium|calcium]] ions more effectively, anchoring them in bone matrix. MK-4 has short half-life; MK-7 has longer half-life.
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
 **Source:** [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]]
 **Related:** [[Vitamin_K2_Fracture_Risk_Reduction_Evidence_[Z-001-0093].md]], [[Vitamin_K2_Vascular_Calcification_Protection_[Z-001-0094].md]]
 

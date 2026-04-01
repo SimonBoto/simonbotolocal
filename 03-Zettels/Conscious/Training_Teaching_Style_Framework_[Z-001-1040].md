@@ -16,7 +16,7 @@ created: 2026-03-08
 # Training Teaching Style Framework
 
 ## Overview
-Three pedagogical approaches for metabolomics training, each suited to different trainee personalities and clinic contexts.
+Three pedagogical approaches for [[KEYWORD-Metabolomics|metabolomics]] training, each suited to different trainee personalities and clinic contexts.
 
 ## Style A: Military Instructor
 
@@ -66,7 +66,7 @@ Three pedagogical approaches for metabolomics training, each suited to different
 ### Best For
 - Philosophically-minded trainees
 - Long-term development
-- Research-oriented contexts
+- [[KEYWORD-Research|research]]-oriented contexts
 
 ## Style C: Hybrid Precision (Recommended)
 
@@ -85,7 +85,7 @@ Three pedagogical approaches for metabolomics training, each suited to different
 - Define non-negotiables (military)
 - Explore reasoning pathways (Socratic)
 - Correct errors immediately (military)
-- Build clinical judgment (Socratic)
+- Build [[KEYWORD-Clinical|clinical]] judgment (Socratic)
 
 ### Best For
 - Most clinical training contexts

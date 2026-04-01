@@ -31,8 +31,8 @@ Trainees learn to integrate simultaneously:
 
 #### Algorithm 1: Energy-First Reasoning
 > "Is this primarily an energy problem?"
-- Check: Lactate, pyruvate, BHB, mitochondrial markers
-- Priority: Mitochondrial support before other interventions
+- Check: Lactate, pyruvate, BHB, [[KEYWORD-Mitochondria|mitochondria]]l markers
+- Priority: [[KEYWORD-Mitochondria|mitochondrial]] support before other interventions
 - Sequence: ATP before detox, gut, hormones
 
 #### Algorithm 2: Cellular Detox + Methylation
@@ -74,7 +74,7 @@ By end of Week 8, trainees must demonstrate:
 - [ ] Fit into clinic workflow without chaos
 
 ## The Goal
-> "This produces metabolomics clinicians, not pathway parrots."
+> "This produces [[KEYWORD-Metabolomics|metabolomics]] clinicians, not pathway parrots."
 
 ## Related
 - [[Phase_3_Lipidomics_Interpretation_[Z-001-1038].md]]

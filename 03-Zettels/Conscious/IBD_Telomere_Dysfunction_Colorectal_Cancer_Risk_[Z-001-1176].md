@@ -19,7 +19,7 @@ status: conscious
 **Observation:** Shortened telomeres in intestinal epithelial cells
 
 **Mechanism:**
-- Chronic mucosal inflammation
+- Chronic mucosal [[KEYWORD-Inflammation|inflammation]]
 - Accelerated epithelial turnover (regeneration cycles)
 - Each cycle costs telomere length
 - ROS from inflammatory cells
@@ -93,7 +93,7 @@ Dysplasia → Carcinoma
 - Earlier initiation of surveillance
 - Chromoendoscopy or advanced imaging
 
-### Telomere Length as Biomarker
+### Telomere Length as [[KEYWORD-Biomarker|biomarker]]
 **Potential Use:**
 - Identify highest-risk patients
 - Guide surveillance intervals
@@ -147,6 +147,6 @@ Dysplasia → Carcinoma
 *Source: [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]] | 2026-03-08*
 
 ## RELATED FILES
-- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/CRP_[B-002-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]
 extraction-date: 2026-03-01
 ---
 
-# Magnesium in Energy Production — Mitochondrial Function and ATP Synthesis
+# Magnesium in Energy Production — [[KEYWORD-Mitochondria|mitochondria]]l Function and ATP Synthesis
 
-> Magnesium is indispensable for cellular energy metabolism, serving as a cofactor for key enzymes in glycolysis, the Krebs cycle, β-oxidation, and oxidative phosphorylation.
+> Magnesium is indispensable for cellular energy [[KEYWORD-Metabolism|metabolism]], serving as a cofactor for key enzymes in glycolysis, the Krebs cycle, β-oxidation, and oxidative phosphorylation.
 
 ## Glycolysis
 
@@ -37,7 +37,7 @@ extraction-date: 2026-03-01
 | **α-ketoglutarate dehydrogenase** | α-ketoglutarate → Succinyl-CoA | Critical regulatory point |
 | **Succinyl-CoA synthetase** | Succinyl-CoA → Succinate | Substrate-level phosphorylation (GTP) |
 
-## Mitochondrial ATP Synthesis
+## [[KEYWORD-Mitochondria|mitochondrial]] ATP Synthesis
 
 **ATP Synthase (Complex V):**
 - Mg²⁺ required for proton gradient coupling

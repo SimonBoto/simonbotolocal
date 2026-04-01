@@ -11,13 +11,13 @@ source-litnote: [[LitNote_CKD_Nutritional_Assessment_L-001-0575]]
 status: conscious
 ---
 
-# Serum Albumin Interpretation CKD — Beyond Nutrition
+# Serum Albumin Interpretation CKD — Beyond [[KEYWORD-Nutrition|nutrition]]
 
 ## Common Misconception
 
 **Myth:** Low albumin = malnutrition
 
-**Reality:** Albumin is a **negative acute-phase reactant** — it decreases in inflammation regardless of nutritional status.
+**Reality:** Albumin is a **negative acute-phase reactant** — it decreases in [[KEYWORD-Inflammation|inflammation]] regardless of nutritional status.
 
 ## Albumin Biology in CKD
 
@@ -111,7 +111,7 @@ Other causes:
 | **Prealbumin** | Low | Low |
 | **Transferrin** | Low | Low |
 | **Retinol binding protein** | Low | Low |
-| **Clinical** | Signs of inflammation | Weight loss, poor intake |
+| **[[KEYWORD-Clinical|clinical]]** | Signs of inflammation | Weight loss, poor intake |
 | **Response to feeding** | Minimal | Good |
 
 ## Complementary Markers

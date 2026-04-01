@@ -23,7 +23,7 @@ source: [[L-001-0045G]]
 - Pathogen-associated molecular patterns (PAMPs)
 - Damage-associated molecular patterns (DAMPs)
 - Crystals (urate, cholesterol)
-- Mitochondrial ROS
+- [[KEYWORD-Mitochondria|mitochondria]]l ROS
 
 **Output:**
 ```
@@ -48,8 +48,8 @@ Gasdermin D → Pyroptosis (inflammatory cell death)
 ## Clinical Relevance
 
 ### Metabolic Syndrome
-- **NLRP3 hyperactivation:** In obesity, insulin resistance
-- **BHB suppression:** Reduces metabolic inflammation
+- **NLRP3 hyperactivation:** In obesity, [[KEYWORD-Insulin|insulin]] resistance
+- **BHB suppression:** Reduces metabolic [[KEYWORD-Inflammation|inflammation]]
 - **Mechanism:** Lower IL-1β improves insulin signaling
 
 ### Gout

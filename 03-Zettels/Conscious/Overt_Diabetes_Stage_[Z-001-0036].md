@@ -14,7 +14,7 @@ created: 2026-02-24
 
 # Overt Diabetes Stage
 
-Beta-cell mass becomes insufficient to maintain glycemic control, resulting in absolute insulin deficiency relative to the degree of insulin resistance. This is the end-stage of untreated or poorly managed insulin resistance.
+Beta-cell mass becomes insufficient to maintain glycemic control, resulting in absolute [[KEYWORD-Insulin|insulin]] deficiency relative to the degree of [[KEYWORD-Insulin_Resistance|insulin resistance]]. This is the end-stage of untreated or poorly managed insulin resistance.
 
 **Diagnostic criteria:**
 - Fasting glucose > 126 mg/dL (on two occasions)
@@ -27,7 +27,7 @@ Beta-cell mass becomes insufficient to maintain glycemic control, resulting in a
 - Microvascular: retinopathy, nephropathy, neuropathy
 - Macrovascular: cardiovascular disease, stroke
 - Hepatic: NASH progression
-- Cancer risk elevation
+- [[KEYWORD-Cancer|cancer]] risk elevation
 
 ## Key Details
 

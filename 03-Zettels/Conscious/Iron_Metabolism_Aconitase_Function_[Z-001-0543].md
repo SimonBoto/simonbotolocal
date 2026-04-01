@@ -11,14 +11,14 @@ source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]]
 extraction-date: 2026-03-01
 ---
 
-# Iron Metabolism and Aconitase Function
+# Iron [[KEYWORD-Metabolism|metabolism]] and Aconitase Function
 
 > Adequate iron is essential for Fe-S cluster assembly, with deficiency impairing aconitase and causing citrate accumulation, while excess causes oxidative damage.
 
 ## Fe-S Cluster Assembly
 
 **Requirements:**
-- Iron import into mitochondria
+- Iron import into [[KEYWORD-Mitochondria|mitochondria]]
 - Sulfur from cysteine (NFS1)
 - Scaffold proteins (ISCU)
 - Chaperones for transfer
@@ -42,7 +42,7 @@ extraction-date: 2026-03-01
 Fe²⁺ + H₂O₂ → Fe³⁺ + OH• + OH⁻
 ```
 - Hydroxyl radicals
-- Mitochondrial damage
+- [[KEYWORD-Mitochondria|mitochondrial]] damage
 - Lipid peroxidation
 
 ## Clinical Balance

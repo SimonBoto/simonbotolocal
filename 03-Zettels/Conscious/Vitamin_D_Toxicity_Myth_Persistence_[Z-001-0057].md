@@ -13,9 +13,9 @@ created: 2026-03-01
 status: conscious
 ---
 
-# Vitamin D Toxicity Myth Persistence
+# [[KEYWORD-Vitamin_D|vitamin d]] Toxicity Myth Persistence
 
-Despite modern understanding that vitamin D toxicity is rare and requires massive supplemental intake (far exceeding physiological production), the toxicity myth persists in public consciousness, medical education, and clinical practice. This persistence stems from 1950s regulatory responses and failure to update curricula with genetic discoveries.
+Despite modern understanding that vitamin D toxicity is rare and requires massive supplemental intake (far exceeding physiological production), the toxicity myth persists in public consciousness, medical education, and [[KEYWORD-Clinical|clinical]] practice. This persistence stems from 1950s regulatory responses and failure to update curricula with genetic discoveries.
 
 **Why the myth persists:**
 - Medical education lag in updating safety information
@@ -34,7 +34,7 @@ Despite modern understanding that vitamin D toxicity is rare and requires massiv
 
 **Parent MOC:** [[MOC-Vitamin-Safety]]
 **Source:** [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
-**Related:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]], [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
+**Related:** [[LitNote_Vitamin_D_Safety_[[KEYWORD-Mechanism|mechanism]]s_L-001-0008]], [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
 
 ---
 

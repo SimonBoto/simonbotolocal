@@ -37,7 +37,7 @@ Glutamine is the primary fuel source for enterocytes (intestinal epithelial cell
 
 ---
 
-## Clinical Indications
+## [[KEYWORD-Clinical|clinical]] Indications
 
 ### Primary Uses
 | Condition | Rationale |
@@ -76,7 +76,7 @@ Glutamine is the primary fuel source for enterocytes (intestinal epithelial cell
 - May worsen bloating in active SIBO
 - **Strategy:** Treat overgrowth first, then add glutamine
 
-**Cancer Concerns:**
+**[[KEYWORD-Cancer|cancer]] Concerns:**
 - Some cancers use glutamine for growth
 - **Note:** Evidence mixed; consult oncology
 
@@ -108,7 +108,7 @@ Glutamine is the primary fuel source for enterocytes (intestinal epithelial cell
 |------|----------------|-----|
 | **L-Glutamine (free)** | High | Standard supplementation |
 | **Alanyl-glutamine** | Higher | Critical care, absorption issues |
-| **Glutamine peptides** | Moderate | Sports nutrition |
+| **Glutamine peptides** | Moderate | Sports [[KEYWORD-Nutrition|nutrition]] |
 
 **Recommendation:** L-Glutamine powder (Kyowa quality preferred)
 

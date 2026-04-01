@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]]
 status: conscious
 ---
 
-# Breast Paget's Disease — Nipple Cancer Distinct from Bone Paget's
+# Breast Paget's Disease — Nipple [[KEYWORD-Cancer|cancer]] Distinct from Bone Paget's
 
 ## Critical Distinction
 
@@ -46,7 +46,7 @@ status: conscious
 - May be invasive (50%)
 - Often multicentric
 
-## Clinical Presentation
+## [[KEYWORD-Clinical|clinical]] Presentation
 
 ### Early Signs
 
@@ -126,7 +126,7 @@ status: conscious
 - Evaluate extent
 - Recommended if mammogram negative but high suspicion
 
-**4. Immunohistochemistry:**
+**4. Immunohisto[[KEYWORD-Chemistry|chemistry]]:**
 - CK7 positive (distinguishes from melanoma, squamous carcinoma)
 - HER2 status (therapeutic implications)
 - Hormone receptors (ER/PR)

@@ -31,7 +31,7 @@ Methylmalonyl-CoA ──[B12-dependent mutase]──→ Succinyl-CoA
    (blocked pathway)
 ```
 
-**Result:** Normal metabolism proceeds; methylmalonyl-CoA efficiently converted to succinyl-CoA for energy production.
+**Result:** Normal [[KEYWORD-Metabolism|metabolism]] proceeds; methylmalonyl-CoA efficiently converted to succinyl-CoA for energy production.
 
 ### B12 Deficient State
 ```
@@ -69,7 +69,7 @@ Methylmalonyl-CoA ──[enzyme WITHOUT B12]──→ ✗ (blocked)
 
 | Element | B12 Model | VD/Adipic Acid Hypothesis |
 |---------|-----------|---------------------------|
-| **Cofactor** | Vitamin B12 | **Vitamin D** |
+| **Cofactor** | Vitamin B12 | **[[KEYWORD-Vitamin_D|vitamin d]]** |
 | **Enzyme** | Methylmalonyl-CoA mutase | **Fatty acid oxidation enzymes?** (investigational) |
 | **Blocked reaction** | Methylmalonyl-CoA → Succinyl-CoA | **Incomplete fatty acid oxidation?** |
 | **Accumulating precursor** | Methylmalonic acid | **Adipic acid** |
@@ -104,7 +104,7 @@ Methylmalonyl-CoA ──[enzyme WITHOUT B12]──→ ✗ (blocked)
 
 - **Upstream/Prerequisite:** [[Metabotypes_Individual_Metabolic_Phenotypes_[Z-001-0910].md]] — Individual variation in cofactor needs
 - **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_[Z-001-0912].md]] — Enzyme dysfunction markers
-- **Downstream/Consequence:** [[MOC-Vitamin-D-Mechanisms]] — VD as potential cofactor
+- **Downstream/Consequence:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]] — VD as potential cofactor
 
 ## Context
 

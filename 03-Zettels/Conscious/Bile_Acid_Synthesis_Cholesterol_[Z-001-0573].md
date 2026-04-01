@@ -36,7 +36,7 @@ Chenodeoxycholic acid (2 OH groups)
 | Aspect | Details |
 |--------|---------|
 | **Rate-limiting enzyme** | CYP7A1 (cholesterol 7α-hydroxylase) |
-| **Location** | Hepatocytes (ER and mitochondria) |
+| **Location** | Hepatocytes (ER and [[KEYWORD-Mitochondria|mitochondria]]) |
 | **Products** | Cholic acid, Chenodeoxycholic acid |
 | **Regulation** | Negative feedback by bile acids |
 
@@ -141,7 +141,7 @@ Transport to intestinal brush border
 | Receptor | Location | Function |
 |----------|----------|----------|
 | **FXR** (Farnesoid X) | Liver, intestine | Regulate bile acid synthesis |
-| **TGR5** | Multiple tissues | Energy metabolism, inflammation |
+| **TGR5** | Multiple tissues | Energy [[KEYWORD-Metabolism|metabolism]], [[KEYWORD-Inflammation|inflammation]] |
 
 ---
 

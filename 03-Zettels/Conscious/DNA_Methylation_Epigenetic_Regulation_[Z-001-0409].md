@@ -11,11 +11,11 @@ source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]]
 extraction-date: 2026-03-01
 ---
 
-# DNA Methylation — Epigenetic Regulation
+# DNA [[KEYWORD-Methylation|methylation]] — Epigenetic Regulation
 
 > DNA methylation at CpG dinucleotides is a stable epigenetic mark that regulates gene expression, with patterns established during development and modified by environmental factors including nutrient status.
 
-## Mechanism
+## [[KEYWORD-Mechanism|mechanism]]
 
 **Chemistry:**
 - **Substrate:** Cytosine in CpG context
@@ -60,7 +60,7 @@ extraction-date: 2026-03-01
 
 ## Nutrient Connection
 
-**One-Carbon Metabolism → DNA Methylation:**
+**One-Carbon [[KEYWORD-Metabolism|metabolism]] → DNA Methylation:**
 ```
 B12/Folate → Methionine → SAM → DNMT activity → DNA methylation
 ```

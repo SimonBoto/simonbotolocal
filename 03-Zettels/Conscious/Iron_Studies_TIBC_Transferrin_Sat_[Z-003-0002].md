@@ -126,10 +126,10 @@ patient_id,visit,tibc_ug_dl,transferrin_sat_pct,iron_status_pattern
 
 ---
 
-*Source: [[Ref_Bothwell_Iron_Metabolism_1979]], [[Ref_NICE_Anemia_Guidelines_2021]]*
+*Source: [[Ref_Bothwell_Iron_[[KEYWORD-Metabolism|metabolism]]_1979]], [[Ref_NICE_Anemia_Guidelines_2021]]*
 *Created: 2026-02-26 | Domain: 003 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/CRP_[B-002-0001]|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
 

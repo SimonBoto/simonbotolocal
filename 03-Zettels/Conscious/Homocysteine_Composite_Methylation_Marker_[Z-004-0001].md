@@ -20,7 +20,7 @@ source-litnote: Synthesized from clinical practice
 
 # Homocysteine — Composite Methylation Status Marker
 
-**Homocysteine** is a sulfur-containing amino acid that accumulates when methylation is impaired. It's a **composite marker** — elevated homocysteine indicates dysfunction in B12, folate, B6, or iron metabolism. **If homocysteine is high, methylation is broken.**
+**Homocysteine** is a sulfur-containing amino acid that accumulates when methylation is impaired. It's a **composite marker** — elevated homocysteine indicates dysfunction in B12, folate, B6, or iron [[KEYWORD-Metabolism|metabolism]]. **If homocysteine is high, methylation is broken.**
 
 ---
 
@@ -48,7 +48,7 @@ source-litnote: Synthesized from clinical practice
 **Cofactor Dependencies:**
 - Z-003-0010 (Iron required for methionine synthase) — *link pending*
 - Z-003-0011 (Iron deficiency → elevated homocysteine) — *link pending*
-- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md]] — Vitamin D supports methylation via calcium signaling
+- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md]] — [[KEYWORD-Vitamin_D|vitamin d]] supports methylation via calcium signaling
 
 **Clinical Outcomes:**
 - Elevated homocysteine → endothelial dysfunction
@@ -100,6 +100,6 @@ Homocysteine ──[BHMT: betaine]──> Methionine
 *Created: 2026-02-26 | Domain: 004 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

@@ -17,9 +17,9 @@ source: [[L-001-0045G]]
 **BHB crosses membranes easily:**
 - **Blood-brain barrier:** Monocarboxylate transporters (MCTs)
 - **Cellular uptake:** MCT1, MCT2, MCT4
-- **No insulin required:** Unlike glucose
+- **No [[KEYWORD-Insulin|insulin]] required:** Unlike glucose
 
-## Brain Metabolism
+## Brain [[KEYWORD-Metabolism|metabolism]]
 
 ### During Starvation
 - **60-70% of brain energy** from ketones after adaptation
@@ -34,7 +34,7 @@ source: [[L-001-0045G]]
 
 ### Clinical Applications
 - **Epilepsy:** Ketogenic diet reduces seizures (established)
-- **Alzheimer's:** "Type 3 diabetes" — insulin resistance in brain
+- **Alzheimer's:** "Type 3 diabetes" — [[KEYWORD-Insulin_Resistance|insulin resistance]] in brain
 - **Traumatic brain injury:** Alternative fuel when glucose metabolism impaired
 - **Parkinson's:** Mitochondrial dysfunction benefits
 

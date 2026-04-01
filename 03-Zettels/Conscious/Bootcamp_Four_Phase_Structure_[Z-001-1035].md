@@ -16,7 +16,7 @@ created: 2026-03-08
 # Bootcamp Four Phase Structure
 
 ## Overview
-An 8-week, time-bound training curriculum designed to scaffold cognitive transformation from biochemical literacy to clinical integration.
+An 8-week, time-bound training curriculum designed to scaffold cognitive transformation from biochemical literacy to [[KEYWORD-Clinical|clinical]] integration.
 
 ## Design Principles
 
@@ -38,7 +38,7 @@ An 8-week, time-bound training curriculum designed to scaffold cognitive transfo
 ### Phase 2: OAT Mastery (Weeks 3-4)
 **Goal:** Pattern recognition without drowning
 **Focus:** Organic acids by category, case-based learning
-**Output:** Language fluency in metabolomics
+**Output:** Language fluency in [[KEYWORD-Metabolomics|metabolomics]]
 
 ### Phase 3: Lipidomics (Weeks 5-6)
 **Goal:** Ratio-based interpretation

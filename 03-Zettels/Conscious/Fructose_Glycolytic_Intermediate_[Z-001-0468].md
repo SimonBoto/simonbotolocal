@@ -13,7 +13,7 @@ source: [[L-001-0045D]]
 
 # Fructose as Glycolytic Intermediate
 
-## The Fructose Step in Glycolysis
+## The Fructose Step in [[KEYWORD-Glycolysis|glycolysis]]
 ```
 Glucose-6-phosphate → Fructose-6-phosphate (phosphoglucose isomerase)
 ```
@@ -25,10 +25,10 @@ Glucose-6-phosphate → Fructose-6-phosphate (phosphoglucose isomerase)
 - Enables aldol cleavage by aldolase
 - Aldolase splits C3-C4 bond of F1,6BP
 
-### Evolutionary Insight
+### [[KEYWORD-Evolution|evolution]]ary Insight
 - **Fructose as intermediate ≠ dietary fructose**
 - Glycolysis evolved to process glucose efficiently
-- F6P/F1,6BP are metabolic intermediates, not "fructose metabolism"
+- F6P/F1,6BP are metabolic intermediates, not "fructose [[KEYWORD-Metabolism|metabolism]]"
 
 ## Key Intermediates
 

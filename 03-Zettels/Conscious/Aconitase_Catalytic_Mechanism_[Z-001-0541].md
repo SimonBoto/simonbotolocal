@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]]
 extraction-date: 2026-03-01
 ---
 
-# Aconitase Catalytic Mechanism
+# Aconitase Catalytic [[KEYWORD-Mechanism|mechanism]]
 
-> Aconitase catalyzes the stereospecific isomerization of citrate to isocitrate via cis-aconitate, a critical control point in the Krebs cycle.
+> Aconitase catalyzes the stereospecific isomerization of citrate to isocitrate via cis-aconitate, a critical control point in the [[KEYWORD-Krebs_Cycle|krebs cycle]].
 
 ## Reaction
 
@@ -24,7 +24,7 @@ Citrate → cis-Aconitate + H₂O → Isocitrate
 ## Why It Matters
 
 **Structural transformation:**
-- Citrate: Prochiral (no stereochemistry)
+- Citrate: Prochiral (no stereo[[KEYWORD-Chemistry|chemistry]])
 - cis-Aconitate: Intermediate with reactive double bond
 - Isocitrate: Chiral product for next enzyme
 

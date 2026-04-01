@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]]
 extraction-date: 2026-03-01
 ---
 
-# Selenium Mitochondrial Antioxidant
+# Selenium [[KEYWORD-Mitochondria|mitochondria]]l Antioxidant
 
 > Selenium is essential component of GPx and thioredoxin reductase, protecting mitochondria from oxidative damage.
 
@@ -26,7 +26,7 @@ extraction-date: 2026-03-01
 
 **GPx4 Special Role:**
 - Reduces lipid peroxides
-- Protects mitochondrial membranes
+- Protects [[KEYWORD-Mitochondria|mitochondrial]] membranes
 - Prevents ferroptosis
 
 ## Thioredoxin Reductase (TrxR)
@@ -61,4 +61,4 @@ NADPH + Trx-S₂ → NADP⁺ + Trx-(SH)₂
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Core_Minerals_Magnesium_Zinc_Selenium_[Z-001-1015]|Z-001-1015]]
+- [[Core_Minerals_[[KEYWORD-Magnesium|magnesium]]_Zinc_Selenium_[Z-001-1015]|Z-001-1015]]

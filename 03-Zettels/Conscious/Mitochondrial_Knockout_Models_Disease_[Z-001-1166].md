@@ -10,11 +10,11 @@ source-litnote: "[[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]]"
 status: conscious
 ---
 
-# Mitochondrial Knockout Models — Disease Mechanisms
+# [[KEYWORD-Mitochondria|mitochondria]]l Knockout Models — Disease Mechanisms
 
 ## Why Knockout Models Matter
 
-Mitochondrial genes are essential for life. Knockout studies reveal:
+[[KEYWORD-Mitochondria|mitochondrial]] genes are essential for life. Knockout studies reveal:
 - Which functions are absolutely required
 - Pathophysiology of mitochondrial disorders
 - Tissue-specific vulnerabilities
@@ -130,7 +130,7 @@ Mitochondrial genes are essential for life. Knockout studies reveal:
 
 ## Related
 
-- [[mtDNA_Mutations_Cancer_Metastasis_[Z-001-1167].md]]
+- [[mtDNA_Mutations_[[KEYWORD-Cancer|cancer]]_Metastasis_[Z-001-1167].md]]
 - [[Mitochondrial_Dynamics_Fusion_Fission_[Z-001-1168].md]]
 - [[Respiratory_Chain_Complex_Deficiencies_[Z-001-1169].md]]
 

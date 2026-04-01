@@ -51,7 +51,7 @@ $$
 
 ---
 
-## 🔗 Connected Biomarkers
+## 🔗 Connected [[KEYWORD-Biomarker|biomarker]]s
 
 **Core IR Panel:**
 - [[HOMA_Beta_Beta_Cell_Function_Z-001-0047.md]] — HOMA-β (β-cell function companion)
@@ -63,7 +63,7 @@ $$
 - [[HOMA_IR_Late_Marker_Z-001-0043.md]] — HOMA-IR limitations and critique
 
 **Cofactor Dependencies:**
-- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md]] — Vitamin D optimal range (D improves insulin sensitivity)
+- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md]] — [[KEYWORD-Vitamin_D|vitamin d]] optimal range (D improves insulin sensitivity)
 - [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md]] — Homocysteine (methylation supports insulin signaling)
 
 ---
@@ -132,6 +132,6 @@ patient_id,visit,fasting_glucose_mg_dl,fasting_insulin_uu_ml,homa_ir,homa_ir_sta
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

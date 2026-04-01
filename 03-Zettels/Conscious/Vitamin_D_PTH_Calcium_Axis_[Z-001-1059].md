@@ -13,10 +13,10 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Vitamin D PTH Calcium Axis
+# [[KEYWORD-Vitamin_D|vitamin d]] PTH Calcium Axis
 
 ## Overview
-Hormonal system regulating calcium homeostasis, bone metabolism, immune function, and gene expression.
+Hormonal system regulating calcium homeostasis, bone [[KEYWORD-Metabolism|metabolism]], immune function, and gene expression.
 
 ## The Three Components
 
@@ -56,7 +56,7 @@ Low Ca²⁺ → PTH release → D activation → ↑ Ca absorption → Ca²⁺ r
 ## Related
 - [[Magnesium_Biochemistry_Clinical_Roles_[Z-001-1060].md]]
 - [[Vitamin_K2_Calcium_Direction_MGP_[Z-001-1061].md]]
-- [[MOC-Vitamin-D-Metabolism]]
+- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Metabolism]]
 
 ---
 *Source: CGPT-0022 — Vitamin-mineral biochemistry*

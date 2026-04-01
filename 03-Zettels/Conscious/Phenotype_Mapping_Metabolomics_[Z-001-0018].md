@@ -12,7 +12,7 @@ status: conscious
 source-litnote: Synthesized from clinical practice
 ---
 
-# Phenotype Mapping via Metabolomics
+# Phenotype Mapping via [[KEYWORD-Metabolomics|metabolomics]]
 
 ## Core Claim
 Metabolomics serves as the primary tool for **qualitative and quantitative measurement of the phenotype of interest**, decoding metabolic disorders through comprehensive metabolite profiling.
@@ -38,7 +38,7 @@ Unlike genomics (static) or transcriptomics (intermediate), metabolomics capture
 | **Treatment response** | Responders vs non-responders | Metformin responsiveness |
 | **Specific metabolic states** | Subclinical dysfunction | Dysbiosis patterns |
 | **Environmental exposure** | Toxin accumulation markers | Heavy metal exposure |
-| **Nutritional status** | Functional deficiency assessment | Vitamin D insufficiency |
+| **Nutritional status** | Functional deficiency assessment | [[KEYWORD-Vitamin_D|vitamin d]] insufficiency |
 
 ## Clinical Advantage
 **Metabolomics captures the 80%**: Since non-genetic factors drive 80% of non-communicable diseases, metabolomics — which measures environmental and metabolic influences — becomes the essential tool for understanding disease etiology.
@@ -53,7 +53,7 @@ Unlike genomics (static) or transcriptomics (intermediate), metabolomics capture
 ### Downstream
 - [[Predictive_Metabolites_T1D_Example_Z-001-0019.md]] — Phenotype prediction before symptoms
 - [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]] — Specific phenotype markers
-- [[MOC-Vitamin-D-Mechanisms]] — Specific micronutrient phenotype
+- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]] — Specific micronutrient phenotype
 
 ### Parallel
 - [[IR_Mechanisms_Map]] — Systems view of IR phenotype

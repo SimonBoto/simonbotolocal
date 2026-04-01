@@ -33,10 +33,10 @@ Aconitate (accumulates) ← BLOCK
 Isocitrate → α-KG → Succinyl-CoA
 ```
 
-## Clinical Significance
+## [[KEYWORD-Clinical|clinical]] Significance
 
-- Mitochondrial energy production compromised
-- Back-pressure affects upstream metabolism
+- [[KEYWORD-Mitochondria|mitochondria]]l energy production compromised
+- Back-pressure affects upstream [[KEYWORD-Metabolism|metabolism]]
 - Multiple pathway involvement (TCA + mevalonate)
 
 ---

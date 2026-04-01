@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]]
 extraction-date: 2026-03-01
 ---
 
-# Inflammation, Cholesterol, and Metabolic Syndrome
+# [[KEYWORD-Inflammation|inflammation]], Cholesterol, and Metabolic Syndrome
 
-> Metabolic syndrome represents a pro-inflammatory, pro-atherogenic lipid profile characterized by elevated TG, low HDL, and small dense LDL driven by insulin resistance.
+> Metabolic syndrome represents a pro-inflammatory, pro-atherogenic lipid profile characterized by elevated TG, low HDL, and small dense LDL driven by [[KEYWORD-Insulin|insulin]] resistance.
 
 ## Metabolic Syndrome Lipid Profile
 
@@ -32,7 +32,7 @@ extraction-date: 2026-03-01
 - Promotes sdLDL
 
 **Inflammation:**
-- Cytokines alter lipid metabolism
+- Cytokines alter lipid [[KEYWORD-Metabolism|metabolism]]
 - Reduced LPL activity
 - Acute phase increases VLDL
 - HDL becomes dysfunctional

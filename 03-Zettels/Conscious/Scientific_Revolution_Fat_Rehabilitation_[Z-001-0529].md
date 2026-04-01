@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]]
 extraction-date: 2026-03-01
 ---
 
-# Scientific Revolution — Fat Rehabilitation
+# Scientific R[[KEYWORD-Evolution|evolution]] — Fat Rehabilitation
 
 > Starting in the 2000s, accumulating evidence challenged the diet-heart hypothesis, rehabilitating dietary fat and shifting focus to carbohydrate quality.
 
@@ -33,7 +33,7 @@ extraction-date: 2026-03-01
 - Fermented dairy beneficial
 
 **Coconut Oil:**
-- MCTs different metabolism
+- MCTs different [[KEYWORD-Metabolism|metabolism]]
 - Raises HDL
 
 **Red Meat:**

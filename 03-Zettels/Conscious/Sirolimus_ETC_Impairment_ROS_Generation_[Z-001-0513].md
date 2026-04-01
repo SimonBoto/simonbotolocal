@@ -13,7 +13,7 @@ extraction-date: 2026-03-02
 
 # Sirolimus Impairs ETC Function and Increases ROS Generation
 
-**Core Mechanism:** Sirolimus reduces expression of electron transport chain components, leading to inefficient electron transfer and reactive oxygen species (ROS) production.
+**Core [[KEYWORD-Mechanism|mechanism]]:** Sirolimus reduces expression of electron transport chain components, leading to inefficient electron transfer and reactive oxygen species (ROS) production.
 
 ## mTORC1 and ETC Maintenance
 
@@ -63,9 +63,9 @@ Hydroxyl radical (•OH) via Fenton reaction
 
 | Target | Damage Type | Consequence |
 |--------|-------------|-------------|
-| **Mitochondrial membranes** | Lipid peroxidation | Loss of membrane integrity |
+| **[[KEYWORD-Mitochondria|mitochondria]]l membranes** | Lipid peroxidation | Loss of membrane integrity |
 | **ETC proteins** | Oxidation | Further ETC impairment |
-| **mtDNA** | Mutations | Heritable mitochondrial defects |
+| **mtDNA** | Mutations | Heritable [[KEYWORD-Mitochondria|mitochondrial]] defects |
 | **Cardiolipin** | Oxidation | Cytochrome c release, apoptosis |
 
 ## Amplifying Cycle

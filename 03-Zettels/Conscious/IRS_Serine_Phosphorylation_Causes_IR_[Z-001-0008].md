@@ -13,13 +13,13 @@ confidence: high
 created: 2026-02-22
 ---
 
-# IRS Serine Phosphorylation Causes Insulin Resistance
+# IRS Serine Phosphorylation Causes [[KEYWORD-Insulin|insulin]] Resistance
 
-**Claim:** Excessive serine phosphorylation of IRS proteins (particularly IRS-1 at Ser-307/312) is a primary molecular mechanism of insulin resistance.
+**Claim:** Excessive serine phosphorylation of IRS proteins (particularly IRS-1 at Ser-307/312) is a primary molecular mechanism of [[KEYWORD-Insulin_Resistance|insulin resistance]].
 
 **Evidence chain:**
 1. Inflammatory cytokines (TNF-α, IL-6) activate serine kinases (JNK, IKKβ, PKCθ)
-2. Free fatty acids also activate JNK and IKKβ pathways
+2. Free [[KEYWORD-Fatty_Acids|fatty acids]] also activate JNK and IKKβ pathways
 3. Serine phosphorylation sterically blocks tyrosine phosphorylation
 4. Serine-phosphorylated IRS cannot recruit p85 → PI3K activation fails
 

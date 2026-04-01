@@ -14,7 +14,7 @@ created: 2026-03-27
 
 # Belmont Report Ethical Principles (1979)
 
-U.S. National Commission for the Protection of Human Subjects landmark report establishing three core ethical principles: Respect for Persons, Beneficence, and Justice. Foundation for U.S. research regulations (45 CFR 46, Common Rule).
+U.S. National Commission for the Protection of Human Subjects landmark report establishing three core ethical principles: Respect for Persons, Beneficence, and Justice. Foundation for U.S. [[KEYWORD-Research|research]] regulations (45 CFR 46, Common Rule).
 
 ## Three Core Principles
 

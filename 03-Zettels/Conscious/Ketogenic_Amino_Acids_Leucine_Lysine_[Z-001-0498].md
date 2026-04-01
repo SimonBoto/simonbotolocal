@@ -20,7 +20,7 @@ source: [[L-001-0046A]]
 - They yield acetyl-CoA or acetoacetyl-CoA
 - No net production of oxaloacetate or other glucogenic intermediates
 
-## Leucine Metabolism
+## Leucine [[KEYWORD-Metabolism|metabolism]]
 
 ### Pathway
 ```
@@ -55,11 +55,11 @@ Methylglutaconyl-CoA → HMG-CoA → Acetoacetate + Acetyl-CoA
 ### Acetyl-CoA Fates
 | Condition | Fate |
 |-----------|------|
-| **Fed** | Fatty acid synthesis, cholesterol synthesis |
+| **Fed** | Fatty acid synthesis, [[KEYWORD-Cholesterol|cholesterol]] synthesis |
 | **Fasting** | Ketogenesis (liver) |
 | **Aerobic** | Krebs cycle (if OAA available) |
 
-## Clinical: Maple Syrup Urine Disease (MSUD)
+## [[KEYWORD-Clinical|clinical]]: Maple Syrup Urine Disease (MSUD)
 
 ### Cause
 **Branched-chain α-keto acid dehydrogenase (BCKDH) deficiency**

@@ -18,7 +18,7 @@ created: 2026-03-08
 ## Overview
 Direct translation of OAT markers to clinical interventions.
 
-## Energy Metabolism Interventions
+## Energy [[KEYWORD-Metabolism|metabolism]] Interventions
 
 | Marker | Intervention |
 |--------|--------------|
@@ -36,7 +36,7 @@ Direct translation of OAT markers to clinical interventions.
 | **Kynurenate ↑** | B6 | P5P | 25-50 mg |
 | **Suberate/adipate ↑** | Carnitine | L-carnitine | 1000-2000 mg |
 
-## Mitochondrial Support
+## [[KEYWORD-Mitochondria|mitochondria]]l Support
 
 | Pattern | Intervention |
 |---------|--------------|
@@ -64,7 +64,7 @@ Direct translation of OAT markers to clinical interventions.
 | Priority | Condition | Action |
 |----------|-----------|--------|
 | **Critical** | Severe lactic acidosis | Urgent B1, address cause |
-| **High** | Multiple B-vitamin deficiencies | Comprehensive B-complex |
+| **High** | Multiple B-[[KEYWORD-Vitamin_D|vitamin d]]eficiencies | Comprehensive B-complex |
 | **Moderate** | Mild mitochondrial dysfunction | Mitochondrial support |
 | **Optimization** | Minor elevations | Dietary modification |
 

@@ -11,7 +11,7 @@ source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]]
 extraction-date: 2026-03-01
 ---
 
-# Clinical Scenarios — Diagnostic Approach
+# [[KEYWORD-Clinical|clinical]] Scenarios — Diagnostic Approach
 
 > Red flags for B12 deficiency masquerading as malignancy include macrocytic anemia with hypercellular marrow, no monoclonal protein, and risk factors for B12 deficiency.
 
@@ -24,7 +24,7 @@ extraction-date: 2026-03-01
 | **Neurological symptoms** | Paresthesias, ataxia | Rare |
 | **Risk factors** | Vegan, gastric surgery, PPI, elderly | Age >60 |
 | **Bone pain** | Absent | Common |
-| **Calcium** | Normal | Elevated |
+| **[[KEYWORD-Calcium|calcium]]** | Normal | Elevated |
 
 ## Diagnostic Algorithm
 

@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]]
 extraction-date: 2026-03-01
 ---
 
-# Magnesium Supplementation — Clinical Trials in Diabetes and Metabolic Syndrome
+# [[KEYWORD-Magnesium|magnesium]] Supplementation — Clinical Trials in [[KEYWORD-Diabetes|diabetes]] and Metabolic Syndrome
 
-> Randomized controlled trials demonstrate that magnesium supplementation improves insulin sensitivity, reduces inflammatory markers, and may improve glycemic control, particularly in magnesium-deficient individuals.
+> Randomized controlled trials demonstrate that magnesium supplementation improves [[KEYWORD-Insulin|insulin]] sensitivity, reduces inflammatory markers, and may improve glycemic control, particularly in magnesium-deficient individuals.
 
 ## Meta-Analysis Results
 

@@ -70,7 +70,7 @@ Linoleic acid (omega-6) from seed oils **bioaccumulates** in human adipose tissu
 
 **Hormone-Sensitive Lipase (HSL):**
 - Activated by catecholamines (fasting, exercise, stress)
-- Inhibited by insulin (fed state)
+- Inhibited by [[KEYWORD-Insulin|insulin]] (fed state)
 - Releases free fatty acids (FFAs) into circulation
 
 **Lipolysis Control:**
@@ -97,7 +97,7 @@ If not oxidized: May contribute to ectopic fat/insulin resistance
 
 **The "Toxic Fat" Hypothesis:**
 - Stored linoleic acid released during catabolic states
-- High omega-6 in circulation → substrate for inflammation
+- High omega-6 in circulation → substrate for [[KEYWORD-Inflammation|inflammation]]
 - Contributes to metabolic dysfunction in obesity
 
 ### Time to Change Body Composition
@@ -148,7 +148,7 @@ If not oxidized: May contribute to ectopic fat/insulin resistance
 **Total accumulated amount** of a substance in the body, accounting for:
 - Ongoing intake
 - Storage in tissues
-- Metabolism/elimination
+- [[KEYWORD-Metabolism|metabolism]]/elimination
 - Release rates
 
 ### For Linoleic Acid:

@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]]
 extraction-date: 2026-03-01
 ---
 
-# Cholesterol and Cellular Aging
+# [[KEYWORD-Cholesterol|cholesterol]] and Cellular Aging
 
 > Cholesterol homeostasis is disrupted in aging, with altered membrane composition and impaired reverse cholesterol transport contributing to cellular senescence.
 
@@ -35,7 +35,7 @@ extraction-date: 2026-03-01
 
 **Aging Effect:**
 - Disrupted in aging
-- Impaired insulin signaling
+- Impaired [[KEYWORD-Insulin|insulin]] signaling
 - Reduced immune responses
 
 ## Homeostasis Dysregulation
@@ -52,7 +52,7 @@ extraction-date: 2026-03-01
 
 - Cholesterol accumulation in senescent cells
 - SASP components lipid-modified
-- Amplified inflammation
+- Amplified [[KEYWORD-Inflammation|inflammation]]
 
 ---
 

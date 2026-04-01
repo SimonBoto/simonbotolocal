@@ -66,7 +66,7 @@ extraction-date: 2026-03-01
 
 
 ## Related
-- [[Threonine_Dual_Metabolism_Glucogenic_Ketogenic_[Z-001-0611]|Z-001-0611]]
+- [[Threonine_Dual_[[KEYWORD-Metabolism|metabolism]]_Glucogenic_Ketogenic_[Z-001-0611]|Z-001-0611]]
 
 
 ## Related
@@ -130,7 +130,7 @@ extraction-date: 2026-03-01
 
 
 ## Related
-- [[Dysbiosis_Detection_Metabolomics_[Z-001-0023]|Z-001-0023]]
+- [[Dysbiosis_Detection_[[KEYWORD-Metabolomics|metabolomics]]_[Z-001-0023]|Z-001-0023]]
 
 
 ## Related
@@ -398,7 +398,7 @@ extraction-date: 2026-03-01
 
 
 ## Related
-- [[Insulin_Naming_Islets_Langerhans_[Z-001-0235]|Z-001-0235]]
+- [[[[KEYWORD-Insulin|insulin]]_Naming_Islets_Langerhans_[Z-001-0235]|Z-001-0235]]
 
 
 ## Related

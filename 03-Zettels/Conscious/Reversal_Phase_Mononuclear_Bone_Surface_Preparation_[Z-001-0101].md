@@ -22,7 +22,7 @@ The **reversal phase** bridges bone resorption and formation, with mononuclear c
 3. **Reverse cells** — Specialized cells of unclear lineage
 
 ### Functions
-| Function | Mechanism |
+| Function | [[KEYWORD-Mechanism|mechanism]] |
 |----------|-----------|
 | **Debris clearance** | Phagocytosis of collagen fragments, dead osteoclasts |
 | **Surface preparation** | Demineralization of residual mineral |
@@ -54,7 +54,7 @@ Factors released during bone degradation signal formation to begin:
 | **S1P (Sphingosine-1-phosphate)** | Osteoclasts | Promotes precursor migration |
 | **Semaphorins** | Osteoclasts | Regulate osteoblast differentiation |
 
-### Clinical Significance of Coupling
+### [[KEYWORD-Clinical|clinical]] Significance of Coupling
 - **Normal coupling:** Resorption balanced by equivalent formation
 - **Uncoupling in osteoporosis:** High resorption, inadequate formation response
 - **Anabolic therapy target:** Enhance formation signal independent of resorption

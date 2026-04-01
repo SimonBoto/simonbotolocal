@@ -13,10 +13,10 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Mitochondrial Dysfunction Cancer Metabolism
+# [[KEYWORD-Mitochondria|mitochondria]]l Dysfunction Cancer [[KEYWORD-Metabolism|metabolism]]
 
 ## Overview
-Mitochondrial dysfunction is a hallmark of cancer—contributing to the Warburg phenotype, apoptotic resistance, and metabolic flexibility that supports tumor growth.
+[[KEYWORD-Mitochondria|mitochondrial]] dysfunction is a hallmark of cancer—contributing to the Warburg phenotype, apoptotic resistance, and metabolic flexibility that supports tumor growth.
 
 ## Types of Mitochondrial Dysfunction
 

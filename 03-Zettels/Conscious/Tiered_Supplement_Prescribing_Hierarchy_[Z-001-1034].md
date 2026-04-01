@@ -22,7 +22,7 @@ A structured, sequential approach to supplementation that prioritizes foundation
 
 ### Tier 1 — Foundational
 **Components:**
-- Vitamin D (status-dependent dosing)
+- [[KEYWORD-Vitamin_D|vitamin d]] (status-dependent dosing)
 - Magnesium (form matters)
 - Omega-3 (target: index >8%)
 - B-complex (activated forms)
@@ -30,11 +30,11 @@ A structured, sequential approach to supplementation that prioritizes foundation
 
 **Timing:** Always first, always ongoing
 
-### Tier 2 — Targeted Mitochondrial Support
+### Tier 2 — Targeted [[KEYWORD-Mitochondria|mitochondria]]l Support
 **Indications:**
 - Elevated lactate/pyruvate
 - Fatigue-dominant presentations
-- Poor oxidative metabolism markers
+- Poor oxidative [[KEYWORD-Metabolism|metabolism]] markers
 
 **Components:**
 - CoQ10, B2, B3

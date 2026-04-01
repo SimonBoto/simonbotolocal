@@ -18,7 +18,7 @@ source: [[L-001-0045E]]
 ### Glucose
 - **Role:** Primary energy source, blood sugar
 - **Source:** Dietary carbohydrates, gluconeogenesis
-- **Clinical:** Diabetes when dysregulated
+- **[[KEYWORD-Clinical|clinical]]:** [[KEYWORD-Diabetes|diabetes]] when dysregulated
 
 ### Galactose
 - **Role:** Component of lactose (milk sugar)
@@ -51,7 +51,7 @@ source: [[L-001-0045E]]
 
 ### Glyceraldehyde
 - **Role:** Glycolysis intermediate (G3P)
-- **Source:** Glucose metabolism
+- **Source:** Glucose [[KEYWORD-Metabolism|metabolism]]
 - **Function:** Central metabolic intermediate
 
 ## Summary Table

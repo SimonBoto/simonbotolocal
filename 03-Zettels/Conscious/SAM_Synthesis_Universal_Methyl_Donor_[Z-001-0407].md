@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # SAM Synthesis — Universal Methyl Donor
 
-> S-Adenosylmethionine (SAM) is synthesized from methionine and ATP, serving as the primary methyl donor for over 100 methylation reactions including DNA, histones, neurotransmitters, and phospholipids.
+> S-Adenosylmethionine (SAM) is synthesized from methionine and ATP, serving as the primary methyl donor for over 100 [[KEYWORD-Methylation|methylation]] reactions including DNA, histones, neurotransmitters, and phospholipids.
 
 ## Synthesis
 
@@ -67,8 +67,8 @@ Methionine + ATP → SAM + PPi + Pi
 
 **Substrate Availability:**
 - Methionine from diet or remethylation
-- B12/folate status affects methionine regeneration
-- One-carbon metabolism fuels the cycle
+- B12/[[KEYWORD-Folate|folate]] status affects methionine regeneration
+- One-carbon [[KEYWORD-Metabolism|metabolism]] fuels the cycle
 
 **Product Inhibition:**
 - SAH inhibits methyltransferases

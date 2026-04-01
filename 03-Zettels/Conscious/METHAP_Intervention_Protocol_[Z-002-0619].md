@@ -14,7 +14,7 @@ created: 2026-03-27
 
 # METHAP Intervention Protocol
 
-12-week dietary and supplement intervention for insulin-resistant participants, designed to modify metabolic biomarkers and improve insulin sensitivity.
+12-week dietary and supplement intervention for insulin-resistant participants, designed to modify metabolic [[KEYWORD-Biomarker|biomarker]]s and improve insulin sensitivity.
 
 ## Intervention Components
 
@@ -30,7 +30,7 @@ created: 2026-03-27
 | Magnesium + Calcium | My Calmag (Lumis Research) | Capsules | 6642/22-1-2019 |
 | Vitamin C + Bioflavonoids | My Immuno (Lumis Research) | Tablets | 125464/07-12-2018 |
 | Multivitamin (120+ nutrients) | Be Well (Natural Doctor) | Capsules | 127661/25-10-19 |
-| Vitamin D3 | Pure D3 | Cholecalciferol | 111920/22-12-2014 |
+| [[KEYWORD-Vitamin_D|vitamin d]]3 | Pure D3 | Cholecalciferol | 111920/22-12-2014 |
 | L-Glutamine + Chios Mastiha | L-Glutamine & Chios Mastiha | Powder/Capsules | 91382/25-11-2016 |
 | Probiotics (40 billion CFU) | Probiotics 40 billion (Natural Doctor) | Capsules | 58393/27-06-2017 |
 
@@ -38,7 +38,7 @@ created: 2026-03-27
 
 | Nutrient | Mechanism | Evidence |
 |----------|-----------|----------|
-| **Vitamin D** | Glucose metabolism, insulin sensitivity | Nazarian et al 2011, Aliashrafi et al 2020 |
+| **Vitamin D** | Glucose [[KEYWORD-Metabolism|metabolism]], insulin sensitivity | Nazarian et al 2011, Aliashrafi et al 2020 |
 | **Magnesium** | Glycolysis, 300+ enzymatic reactions | Barbagallo et al 2003 |
 | **Vitamin C** | Antioxidant, glucose transporter affinity | Wilson et al 2017, Veronese et al 2016 |
 | **Glutamine** | GLP-1 pathway, metabolic fuel | Jafari-Vayghan et al 2020, Samocha-Bonet et al 2011 |

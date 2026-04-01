@@ -11,11 +11,11 @@ source-litnote: [[LitNote_Mechanisms_Metabolic_Disruption_L-001-0523]]
 status: conscious
 ---
 
-# Insulin Resistance Mechanisms — Omega-6 Induced
+# [[KEYWORD-Insulin|insulin]] Resistance Mechanisms — Omega-6 Induced
 
 ## Core Mechanism
 
-High omega-6 intake induces insulin resistance through multiple convergent pathways rooted in chronic inflammation and oxidative stress.
+High omega-6 intake induces insulin resistance through multiple convergent pathways rooted in chronic [[KEYWORD-Inflammation|inflammation]] and oxidative stress.
 
 ```
 High Omega-6 Intake
@@ -50,7 +50,7 @@ Multiple signaling disruptions → INSULIN RESISTANCE
 ## Pathway 3: PKCθ Activation
 
 **Mechanism:**
-- Diacylglycerol (DAG) accumulates from altered lipid metabolism
+- Diacylglycerol (DAG) accumulates from altered lipid [[KEYWORD-Metabolism|metabolism]]
 - DAG activates **protein kinase C theta (PKCθ)**
 - PKCθ directly phosphorylates IRS-1 at serine sites
 - **Result:** Impaired insulin receptor substrate function

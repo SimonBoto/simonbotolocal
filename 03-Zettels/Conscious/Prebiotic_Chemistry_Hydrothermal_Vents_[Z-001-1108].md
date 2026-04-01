@@ -54,7 +54,7 @@ Hydrothermal vents at the ocean floor provide conditions that may have facilitat
 1. **Mineral surfaces** catalyzed first organic reactions
 2. **Fe-S clusters** formed abiotically, later incorporated into enzymes
 3. **Chemical networks** preceded genetic information
-4. **Metabolism-first** vs. genetics-first origin
+4. **[[KEYWORD-Metabolism|metabolism]]-first** vs. genetics-first origin
 
 ### Evidence Supporting
 - **Laboratory:** Fe-S minerals catalyze multiple prebiotic reactions
@@ -72,7 +72,7 @@ Hydrothermal vents at the ocean floor provide conditions that may have facilitat
 | **Long-lived** | Stable for millions of years |
 
 ### Other Hypotheses
-| Location | Mechanism |
+| Location | [[KEYWORD-Mechanism|mechanism]] |
 |----------|-----------|
 | **Shallow pools** | Wet-dry cycles concentrate organics |
 | **Impact craters** | Shock chemistry, delivered organics |
@@ -117,7 +117,7 @@ Hydrothermal vents at the ocean floor provide conditions that may have facilitat
 ## Related
 - [[Iron_Sulfur_Clusters_Ancient_Cofactors_[Z-001-1103].md]]
 | [[RNA_World_Hypothesis_Origins_Life_[Z-001-1106].md]]
-| [[MOC-Evolutionary-Biochemistry]]
+| [[MOC-Evolutionary-[[KEYWORD-Biochemistry|biochemistry]]]]
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

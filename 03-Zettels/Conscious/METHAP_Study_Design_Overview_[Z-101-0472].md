@@ -43,7 +43,7 @@ Specific patterns of urinary organic acids and plasma free fatty acids can discr
 **Gas Chromatography-Mass Spectrometry (GC-MS)**
 - **Urine:** Organic acid profiling
 - **Plasma:** Free fatty acid analysis
-- **Advantage:** High sensitivity, reproducible, established metabolomics platform
+- **Advantage:** High sensitivity, reproducible, established [[KEYWORD-Metabolomics|metabolomics]] platform
 
 ## Statistical Approach
 | Method | Application |
@@ -64,8 +64,8 @@ Specific patterns of urinary organic acids and plasma free fatty acids can discr
 | Supplement | Rationale |
 |------------|-----------|
 | **Omega-3 fatty acids** | Anti-inflammatory, metabolic improvement |
-| **Vitamin D** | Insulin sensitivity, metabolic regulation |
-| **Magnesium** | Glucose metabolism, insulin action |
+| **[[KEYWORD-Vitamin_D|vitamin d]]** | Insulin sensitivity, metabolic regulation |
+| **Magnesium** | Glucose [[KEYWORD-Metabolism|metabolism]], insulin action |
 | **Glutamine** | Gut barrier, metabolic fuel |
 | **Vitamin C** | Antioxidant, cofactor |
 | **Probiotics** | Gut microbiome modulation |

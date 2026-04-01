@@ -10,10 +10,10 @@ source-litnote: [[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]]
 status: conscious
 ---
 
-# Emanuel's Seven Requirements for Ethical Research
+# Emanuel's Seven Requirements for Ethical [[KEYWORD-Research|research]]
 
 ## Source
-Emanuel EJ, Wendler D, Grady C. What makes clinical research ethical? *JAMA*. 2000;283(20):2701-2711.
+Emanuel EJ, Wendler D, Grady C. What makes [[KEYWORD-Clinical|clinical]] research ethical? *JAMA*. 2000;283(20):2701-2711.
 
 ## Core Principle
 **Informed consent is necessary but not sufficient.**
@@ -114,7 +114,7 @@ All seven requirements must be satisfied for research to be ethical. No single r
 |--------|----------------|
 | **Privacy protection** | Confidentiality safeguards |
 | **Data security** | Secure storage, limited access |
-| **Ongoing monitoring** | Safety surveillance |
+| **Ongoing monitoring** | [[KEYWORD-Safety|safety]] surveillance |
 | **Post-study obligations** | Continued care if harmed |
 | **Dignity preservation** | Respectful treatment always |
 

@@ -58,7 +58,7 @@ Coupling → T3 (triiodothyronine), T4 (thyroxine)
 | **RDA** | 150 mcg | Maintenance | General population |
 | **Moderate** | 1-3 mg | 3-6 months | Thyroid support |
 | **High** | 12.5 mg | Supervised | Detox, chronic issues |
-| **Very high** | 50 mg | Specialist only | Cancer protocols |
+| **Very high** | 50 mg | Specialist only | [[KEYWORD-Cancer|cancer]] protocols |
 
 ### Titration Schedule
 | Week | Dose | Notes |
@@ -85,8 +85,8 @@ Coupling → T3 (triiodothyronine), T4 (thyroxine)
 ### Important Co-Factors
 | Nutrient | Dose | Function |
 |----------|------|----------|
-| **Vitamin C** | 2-3 g | Iodine metabolism, antioxidant |
-| **Magnesium** | 400-600 mg | Thyroid enzyme cofactor |
+| **Vitamin C** | 2-3 g | Iodine [[KEYWORD-Metabolism|metabolism]], antioxidant |
+| **[[KEYWORD-Magnesium|magnesium]]** | 400-600 mg | Thyroid enzyme cofactor |
 | **B-complex** | Standard | Energy, methylation |
 | **Zinc** | 15-30 mg | Thyroid hormone synthesis |
 | **Omega-3** | 1-2 g | Anti-inflammatory |

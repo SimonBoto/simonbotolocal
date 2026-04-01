@@ -40,7 +40,7 @@ Glutamate + Cysteine → γ-Glutamylcysteine (GCL enzyme)
 
 ### Detoxification
 - Conjugates toxins
-- Phase II metabolism
+- Phase II [[KEYWORD-Metabolism|metabolism]]
 - Heavy metal chelation
 
 ### Redox Regulation

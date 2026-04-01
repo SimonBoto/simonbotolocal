@@ -16,14 +16,14 @@ created: 2026-03-08
 # Health Philosophy Core Concepts
 
 ## Overview
-14 foundational concepts defining health, disease, and biological function from a metabolomics perspective.
+14 foundational concepts defining health, disease, and biological function from a [[KEYWORD-Metabolomics|metabolomics]] perspective.
 
 ## The Terms (Category A)
 
-| Term | Definition | Clinical Relevance |
+| Term | Definition | [[KEYWORD-Clinical|clinical]] Relevance |
 |------|------------|-------------------|
 | **Υγεία (Health)** | Dynamic adaptive capacity, not absence of disease | Measure function, not just pathology |
-| **Νόσος (Disease)** | Failure of adaptive mechanisms | Preceded by functional dysfunction |
+| **Νόσος (Disease)** | Failure of adaptive [[KEYWORD-Mechanism|mechanism]]s | Preceded by functional dysfunction |
 | **Λειτουργική Δυσλειτουργία** | Suboptimal function before pathology | Where metabolomics intervenes |
 | **Ομοιόσταση (Homeostasis)** | Dynamic equilibrium maintenance | Not fixed—adaptive range matters |
 | **Προσαρμογή (Adaptation)** | Organism response to environmental load | Health = adaptation capacity |

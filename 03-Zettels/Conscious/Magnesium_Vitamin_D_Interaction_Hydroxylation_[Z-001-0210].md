@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]
 extraction-date: 2026-03-01
 ---
 
-# Magnesium-Vitamin D Interaction — Hydroxylation Enzymes and Activation
+# [[KEYWORD-Magnesium|magnesium]]-[[KEYWORD-Vitamin_D|vitamin d]] Interaction — Hydroxylation Enzymes and Activation
 
-> Magnesium is an essential cofactor for the cytochrome P450 hydroxylases that activate vitamin D, making adequate magnesium status critical for optimal vitamin D metabolism and function.
+> Magnesium is an essential cofactor for the cytochrome P450 hydroxylases that activate vitamin D, making adequate magnesium status critical for optimal vitamin D [[KEYWORD-Metabolism|metabolism]] and function.
 
 ## Vitamin D Activation Pathway
 

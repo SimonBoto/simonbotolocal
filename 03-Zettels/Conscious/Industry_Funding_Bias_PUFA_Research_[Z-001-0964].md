@@ -47,7 +47,7 @@ The rise of seed oils coincided with a transformation of the American diet and s
 - Influence on professional societies
 - Lobbying for dietary guidelines
 
-## Mechanisms of Influence
+## [[KEYWORD-Mechanism|mechanism]]s of Influence
 
 ### 1. Research Funding
 
@@ -80,7 +80,7 @@ The rise of seed oils coincided with a transformation of the American diet and s
 - Industry-sponsored educational materials
 - Expert panels with industry ties
 
-**Academy of Nutrition and Dietetics:**
+**Academy of [[KEYWORD-Nutrition|nutrition]] and Dietetics:**
 - Corporate sponsorship structure
 - Industry-influenced position statements
 
@@ -108,7 +108,7 @@ The rise of seed oils coincided with a transformation of the American diet and s
 
 **Recovery:**
 - Ramsden et al. found data in National Heart Institute archives (2012)
-- Revealed higher mortality in omega-6 group
+- Revealed higher mortality in [[KEYWORD-Omega_6|omega-6]] group
 - Published 2013 in BMJ
 
 **Why Suppressed?**

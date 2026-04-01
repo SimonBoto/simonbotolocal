@@ -19,13 +19,13 @@ source: [[L-001-0045G]]
 | **Ketone levels** | 1-3 mM | >10-25 mM |
 | **Blood pH** | Normal (7.35-7.45) | Low (<7.30) |
 | **Bicarbonate** | Normal | Low (<18 mEq/L) |
-| **Insulin** | Low but present | Absent/deficient |
+| **[[KEYWORD-Insulin|insulin]]** | Low but present | Absent/deficient |
 | **Glucose** | Normal or low | Very high (>250 mg/dL) |
 | **Clinical state** | Asymptomatic/symptomatic | Life-threatening |
 
 ## Physiological Ketosis
 
-### Nutritional Ketosis
+### [[KEYWORD-Nutrition|nutrition]]al Ketosis
 - **Ketogenic diet:** 70-80% fat
 - **Fasting:** >24-48 hours
 - **Exercise:** Prolonged endurance
@@ -45,7 +45,7 @@ source: [[L-001-0045G]]
 ## Pathological Ketosis (Diabetic Ketoacidosis - DKA)
 
 ### Pathophysiology
-**Type 1 Diabetes:**
+**Type 1 [[KEYWORD-Diabetes|diabetes]]:**
 - Absolute insulin deficiency
 - Uncontrolled lipolysis
 - Massive ketone overproduction

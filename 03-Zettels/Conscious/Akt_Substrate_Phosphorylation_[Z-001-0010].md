@@ -15,7 +15,7 @@ created: 2026-02-22
 
 # Akt Substrate Phosphorylation
 
-Fully activated Akt phosphorylates multiple substrates to execute insulin's metabolic effects.
+Fully activated Akt phosphorylates multiple substrates to execute [[KEYWORD-Insulin|insulin]]'s metabolic effects.
 
 **Activation requirement:**
 - PDK1 phosphorylates Thr308 (kinase domain)
@@ -36,7 +36,7 @@ Fully activated Akt phosphorylates multiple substrates to execute insulin's meta
 ## Links
 
 - **Upstream:** [[Akt_Recruitment_by_PIP3_[Z-001-0009]]] — Akt activation
-- **Downstream:** [[GLUT4_Vesicle_Translocation_[Z-001-0011]]] — AS160 mechanism
+- **Downstream:** [[GLUT4_Vesicle_Translocation_[Z-001-0011]]] — AS160 [[KEYWORD-Mechanism|mechanism]]
 - **Pathway:** [[GSK3_Inhibition_Glycogen_Synthesis_[Z-001-0012]]] — Glycogen synthesis
 
 ## Context

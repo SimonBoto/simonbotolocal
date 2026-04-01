@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]]
 extraction-date: 2026-03-01
 ---
 
-# METHAP Calcium Monitoring Protocol
+# METHAP [[KEYWORD-Calcium|calcium]] Monitoring Protocol
 
-> High-dose vitamin D (8000 IU/day) in the METHAP trial requires systematic monitoring of calcium homeostasis to ensure participant safety, with scheduled assessments, clear intervention thresholds, and predefined stopping rules.
+> High-dose [[KEYWORD-Vitamin_D|vitamin d]] (8000 IU/day) in the METHAP trial requires systematic monitoring of calcium homeostasis to ensure participant [[KEYWORD-Safety|safety]], with scheduled assessments, clear intervention thresholds, and predefined stopping rules.
 
 ## Baseline Assessment (Pre-Study)
 

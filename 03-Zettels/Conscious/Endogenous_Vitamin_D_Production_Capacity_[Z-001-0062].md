@@ -13,7 +13,7 @@ created: 2026-03-01
 status: conscious
 ---
 
-# Endogenous Vitamin D Production Capacity
+# Endogenous [[KEYWORD-Vitamin_D|vitamin d]] Production Capacity
 
 Human skin can synthesize 10,000-20,000 IU of vitamin D3 (cholecalciferol) in 15-30 minutes of midday sun exposure during summer, with large skin area exposed. This demonstrates physiological capacity far exceeds current RDA recommendations (600-800 IU).
 
@@ -28,7 +28,7 @@ Human skin can synthesize 10,000-20,000 IU of vitamin D3 (cholecalciferol) in 15
 
 ## Links
 
-**Parent MOC:** [[MOC-Vitamin-D-Metabolism]]
+**Parent MOC:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
 **Source:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]
 **Related:** [[Vitamin_D_Photodegradation_Safety_Mechanism_[Z-001-0063]]], [[Vitamin_D_RDA_10x_Underestimation_[Z-001-0059]]]
 

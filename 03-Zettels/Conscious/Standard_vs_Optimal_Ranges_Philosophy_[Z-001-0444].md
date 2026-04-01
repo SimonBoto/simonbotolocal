@@ -11,7 +11,7 @@ source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]]
 extraction-date: 2026-03-01
 ---
 
-# Standard vs Optimal Ranges — Clinical Philosophy
+# Standard vs Optimal Ranges — [[KEYWORD-Clinical|clinical]] Philosophy
 
 > Standard laboratory ranges are derived from population averages and may miss functional deficiencies, while optimal ranges target peak physiological performance and prevention.
 

@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]]
 status: conscious
 ---
 
-# Hyperinsulinemia Mechanisms
+# Hyper[[KEYWORD-Insulin|insulin]]emia Mechanisms
 
 Chronically elevated insulin suppresses fatty acid oxidation through **two coordinated mechanisms** that ensure glucose is prioritized as fuel and excess energy is stored.
 
@@ -42,7 +42,7 @@ High Insulin → PDE3B Activation → cAMP ↓ → PKA ↓
 
 ## Mechanism 2: CPT-1 Inhibition (Peripheral Tissues)
 
-### The Mitochondrial Gatekeeper
+### The [[KEYWORD-Mitochondria|mitochondria]]l Gatekeeper
 **Carnitine palmitoyltransferase I (CPT-1)** controls entry of long-chain fatty acids into mitochondria for beta-oxidation.
 
 ### Malonyl-CoA — The Molecular Switch
@@ -92,7 +92,7 @@ Available    Entry
 
 - **Weight loss resistance:** Cannot access stored fat for energy
 - **Postprandial hyperglycemia:** Glucose remains only fuel option
-- **Progressive insulin resistance:** Cells exposed to constant insulin signaling
+- **Progressive [[KEYWORD-Insulin_Resistance|insulin resistance]]:** Cells exposed to constant insulin signaling
 
 ---
 

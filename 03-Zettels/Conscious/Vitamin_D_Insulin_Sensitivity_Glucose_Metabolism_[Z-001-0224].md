@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]]
 extraction-date: 2026-03-01
 ---
 
-# Vitamin D and Insulin Sensitivity — Glucose Metabolism Mechanisms
+# [[KEYWORD-Vitamin_D|vitamin d]] and [[KEYWORD-Insulin|insulin]] Sensitivity — Glucose [[KEYWORD-Metabolism|metabolism]] Mechanisms
 
 > Vitamin D improves insulin sensitivity through direct actions on pancreatic β-cells, enhanced peripheral glucose uptake, and suppression of inflammatory and oxidative pathways that drive insulin resistance.
 

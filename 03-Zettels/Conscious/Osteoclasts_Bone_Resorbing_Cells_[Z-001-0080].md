@@ -19,8 +19,8 @@ Osteoclasts are multinucleated cells originating from the monocyte-macrophage li
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
-**Source:** [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
+**Source:** [[LitNote_Bone_Remodeling_Cellular_[[KEYWORD-Mechanism|mechanism]]s_L-001-0011]]
 **Related:** [[RANK_RANKL_OPG_Osteoclast_Regulation_[Z-001-0082].md]], [[Osteoblasts_Bone_Forming_Cells_[Z-001-0081].md]]
 
 ---

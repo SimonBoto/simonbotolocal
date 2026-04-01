@@ -223,7 +223,7 @@ The Forrest classification stratifies risk of rebleeding and guides endoscopic t
 
 ### Esophageal Varices
 
-**Mechanism:**
+**[[KEYWORD-Mechanism|mechanism]]:**
 - Portal hypertension
 - Cirrhosis most common cause
 
@@ -269,7 +269,7 @@ The Forrest classification stratifies risk of rebleeding and guides endoscopic t
 
 ### Malignancy
 
-**Gastric Cancer, Esophageal Cancer:**
+**Gastric [[KEYWORD-Cancer|cancer]], Esophageal Cancer:**
 - Can present with bleeding
 - Biopsy for diagnosis
 - Palliative therapy if advanced
@@ -324,7 +324,7 @@ The Forrest classification stratifies risk of rebleeding and guides endoscopic t
 6. Test for H. pylori in all ulcer patients
 7. Varices need specific therapy (banding, octreotide)
 
-**Clinical Pearl:** The Forrest classification is essential for UGIB management. High-risk stigmata (active bleeding, visible vessel) require endoscopic therapy + high-dose PPI. Don't forget H. pylori testing and eradication to prevent recurrence.
+**[[KEYWORD-Clinical|clinical]] Pearl:** The Forrest classification is essential for UGIB management. High-risk stigmata (active bleeding, visible vessel) require endoscopic therapy + high-dose PPI. Don't forget H. pylori testing and eradication to prevent recurrence.
 
 ---
 

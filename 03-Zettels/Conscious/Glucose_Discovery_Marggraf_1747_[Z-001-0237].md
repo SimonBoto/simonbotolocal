@@ -48,8 +48,8 @@ extraction-date: 2026-03-01
 **What Wasn't Known (1747):**
 - Chemical formula (C6H12O6)
 - Structure or stereochemistry
-- Physiological role in metabolism
-- Connection to diabetes
+- Physiological role in [[KEYWORD-Metabolism|metabolism]]
+- Connection to [[KEYWORD-Diabetes|diabetes]]
 - Difference from other sugars (fructose, galactose)
 
 **Timeline to Understanding:**
@@ -57,7 +57,7 @@ extraction-date: 2026-03-01
 - 19th C: Chemical formula
 - 1850s: Bernard's glycogen discovery
 - 1902: Fischer's stereochemistry
-- 1921: Insulin connection
+- 1921: [[KEYWORD-Insulin|insulin]] connection
 
 ## Significance
 

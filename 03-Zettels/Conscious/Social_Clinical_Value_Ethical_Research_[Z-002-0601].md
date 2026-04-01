@@ -29,11 +29,11 @@ Research without social or clinical value is unethical regardless of other safeg
 
 ## Application to METHAP
 
-Adipic acid as an insulin resistance biomarker satisfies this requirement:
+Adipic acid as an insulin resistance [[KEYWORD-Biomarker|biomarker]] satisfies this requirement:
 - **Significant gap:** Current IR diagnostics are delayed (HOMA-IR, fasting glucose)
 - **Generalizable:** Findings apply to metabolic syndrome, prediabetes, T2DM
 - **Implementable:** Urine organic acid testing is clinically accessible
-- **Necessary:** Metabolomics provides earlier detection than conventional markers
+- **Necessary:** [[KEYWORD-Metabolomics|metabolomics]] provides earlier detection than conventional markers
 
 ## Links
 
@@ -47,6 +47,6 @@ Adipic acid as an insulin resistance biomarker satisfies this requirement:
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

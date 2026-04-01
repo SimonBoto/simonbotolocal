@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Isoprenol (3-methyl-3-buten-1-ol) is a five-carbon organic compound with significance in organic chemistry synthesis and metabolic research. Despite its presence in discussions about mitochondrial metabolism, it is distinct from ketone bodies.
+Isoprenol (3-methyl-3-buten-1-ol) is a five-carbon organic compound with significance in organic chemistry synthesis and metabolic research. Despite its presence in discussions about [[KEYWORD-Mitochondria|mitochondria]]l [[KEYWORD-Metabolism|metabolism]], it is distinct from ketone bodies.
 
 ---
 
@@ -78,7 +78,7 @@ Carbon 4: =CH₂ (double bond terminal)
   - Cholesterol synthesis
   - Coenzyme Q10 (ubiquinone) side chain
   - Dolichol (glycoprotein synthesis)
-  - Heme A (mitochondrial cytochromes)
+  - Heme A ([[KEYWORD-Mitochondria|mitochondrial]] cytochromes)
 
 **2. Industrial Use**
 - Organic synthesis intermediate

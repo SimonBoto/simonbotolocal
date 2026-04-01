@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# B Vitamins Enzyme Cofactors Metabolism
+# B Vitamins Enzyme Cofactors [[KEYWORD-Metabolism|metabolism]]
 
 ## Overview
 B-vitamins serve as essential cofactors for hundreds of metabolic enzymes—each with specific roles in energy production, amino acid metabolism, and nucleotide synthesis.
@@ -52,7 +52,7 @@ B-vitamins serve as essential cofactors for hundreds of metabolic enzymes—each
 | Function | Pathway |
 |----------|---------|
 | **Acyl group transfer** | Fatty acid oxidation, Krebs cycle |
-| **Biosynthesis** | Fatty acid synthesis, cholesterol |
+| **Biosynthesis** | Fatty acid synthesis, [[KEYWORD-Cholesterol|cholesterol]] |
 
 **Deficiency:** Rare (widespread in food); fatigue, paresthesia
 
@@ -100,7 +100,7 @@ B-vitamins serve as essential cofactors for hundreds of metabolic enzymes—each
 | [[MOC-Vitamin-Metabolism]]
 
 ---
-*Source: CGPT-0445 — Advanced biochemistry*
+*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*
 
 
 ## RELATED FILES

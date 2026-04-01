@@ -40,7 +40,7 @@ Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfun
 - [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (hypothyroidism worsens IR via ↓GLUT4, ↓mitochondrial function)
 - Hypothyroid → weight gain, dyslipidemia, glucose intolerance
 
-**Vitamin D:**
+**[[KEYWORD-Vitamin_D|vitamin d]]:**
 - [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md]] — VitD optimal range (VDR and TR share nuclear receptor mechanisms)
 - Both affect metabolic rate, immune function
 
@@ -127,6 +127,6 @@ patient_id,visit,tsh_miu_l,ft3_pg_ml,ft4_ng_dl,thyroid_status
 *Created: 2026-02-26 | Domain: 005 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
 

@@ -14,14 +14,14 @@ created: 2026-02-24
 
 # Beta-Cell Exhaustion Stage
 
-Chronic hyperinsulinemia leads to beta-cell burnout through amylin deposition, oxidative stress, ER stress, and eventual apoptosis. Beta-cells can no longer compensate for insulin resistance.
+Chronic hyper[[KEYWORD-Insulin|insulin]]emia leads to beta-cell burnout through amylin deposition, oxidative stress, ER stress, and eventual apoptosis. Beta-cells can no longer compensate for [[KEYWORD-Insulin_Resistance|insulin resistance]].
 
 **Relative hypoinsulinemia develops:** Insulin production becomes insufficient to overcome resistance, and glucose levels begin rising.
 
 **Diagnostic thresholds:**
 - Impaired Fasting Glucose (IFG): 100-125 mg/dL
 - Impaired Glucose Tolerance (IGT): 140-199 mg/dL at 2h OGTT
-- HbA1c: 5.7-6.4% (prediabetes range)
+- HbA1c: 5.7-6.4% (pre[[KEYWORD-Diabetes|diabetes]] range)
 
 **Clinical significance:** This is the "prediabetes" stage — still reversible with intensive intervention but requiring more aggressive approaches than Stage 1.
 

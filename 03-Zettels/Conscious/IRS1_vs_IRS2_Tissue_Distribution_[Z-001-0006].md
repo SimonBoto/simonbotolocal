@@ -15,7 +15,7 @@ created: 2026-02-22
 
 # IRS-1 vs IRS-2 Tissue Distribution
 
-IRS-1 and IRS-2 are the primary insulin receptor substrates with distinct tissue distributions and metabolic functions.
+IRS-1 and IRS-2 are the primary [[KEYWORD-Insulin|insulin]] receptor substrates with distinct tissue distributions and metabolic functions.
 
 **Tissue specificity:**
 
@@ -27,14 +27,14 @@ IRS-1 and IRS-2 are the primary insulin receptor substrates with distinct tissue
 | **β-cell function** | Minimal role | Survival and proliferation |
 
 **Phenotype comparison:**
-- **IRS-1 KO:** Growth retardation, mild insulin resistance
+- **IRS-1 KO:** Growth retardation, mild [[KEYWORD-Insulin_Resistance|insulin resistance]]
 - **IRS-2 KO:** Diabetes (hepatic IR + β-cell failure)
 
 **Key insight:** IRS-2 is critical for hepatic glucose control and pancreatic compensation; IRS-1 dominates peripheral glucose uptake.
 
 ## Links
 
-- **Upstream:** [[IRS_Protein_Recruitment_[Z-001-0005]]] — Shared mechanism
+- **Upstream:** [[IRS_Protein_Recruitment_[Z-001-0005]]] — Shared [[KEYWORD-Mechanism|mechanism]]
 
 ## Context
 

@@ -53,7 +53,7 @@ source-litnote: Synthesized from clinical practice
 
 **Early Detection Advantage:**
 - Adipate elevation may precede glucose abnormalities
-- Potential **leading biomarker** for IR risk stratification
+- Potential **leading [[KEYWORD-Biomarker|biomarker]]** for IR risk stratification
 
 ## Diagnostic Distinction
 
@@ -76,9 +76,9 @@ source-litnote: Synthesized from clinical practice
 
 ---
 
-*See also: [[Adipate_Metabolism_TCA_Entry_[Z-101-0010]]]*
+*See also: [[Adipate_[[KEYWORD-Metabolism|metabolism]]_TCA_Entry_[Z-101-0010]]]*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

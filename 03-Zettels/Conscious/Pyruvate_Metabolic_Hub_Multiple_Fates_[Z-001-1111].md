@@ -47,7 +47,7 @@ Cycle       glycolysis                synthesis
 |-----------|-----------|
 | **Pyruvate** | **Acetyl-CoA** |
 | **NAD⁺** | **NADH** |
-| **Insulin** | **PDH kinase** (phosphorylates/inactivates) |
+| **[[KEYWORD-Insulin|insulin]]** | **PDH kinase** (phosphorylates/inactivates) |
 
 ## Fate 2: Lactate (Anaerobic)
 
@@ -65,7 +65,7 @@ Pyruvate + NADH + H⁺ ↔ Lactate + NAD⁺
 | Tissue | Lactate Production | Reason |
 |--------|-------------------|--------|
 | **Muscle (intense)** | High | O₂ limitation |
-| **RBCs** | Only fate | No mitochondria |
+| **RBCs** | Only fate | No [[KEYWORD-Mitochondria|mitochondria]] |
 | **Tumors** | High (Warburg) | Even with O₂ |
 
 ## Fate 3: Oxaloacetate (Gluconeogenesis)
@@ -126,7 +126,7 @@ Pyruvate + Glutamate ↔ Alanine + Alpha-ketoglutarate
 | **Neurological** | Brain depends on PDH |
 | **Treatment** | Ketogenic diet (bypasses PDH) |
 
-### Warburg Effect (Cancer)
+### Warburg Effect ([[KEYWORD-Cancer|cancer]])
 - **Observation:** High lactate even with oxygen
 - **Mechanism:** PDH inhibited, glycolysis favored
 - **Therapeutic target:** Reactivate PDH

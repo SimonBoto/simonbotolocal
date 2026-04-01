@@ -12,7 +12,7 @@ confidence: high
 created: 2026-03-27
 ---
 
-# Respect for Enrolled Subjects in Research Ethics
+# Respect for Enrolled Subjects in [[KEYWORD-Research|research]] Ethics
 
 Ethical obligations to participants continue throughout the study and beyond. Privacy must be protected, confidentiality maintained, and well-being monitored continuously.
 
@@ -44,7 +44,7 @@ Ethical obligations to participants continue throughout the study and beyond. Pr
 ## Post-Study Responsibilities
 
 - Results dissemination to participants (if desired)
-- Transition to appropriate clinical care
+- Transition to appropriate [[KEYWORD-Clinical|clinical]] care
 - Long-term safety follow-up (if indicated)
 - Data archiving per regulatory requirements
 - Publication of findings (positive and negative)
@@ -56,7 +56,7 @@ METHAP ongoing protections:
 - **Privacy:** No identifying information in datasets
 - **Monitoring:** Regular safety assessments
 - **Withdrawal:** Participants can exit anytime
-- **Results:** Option to receive individual metabolomics results
+- **Results:** Option to receive individual [[KEYWORD-Metabolomics|metabolomics]] results
 - **Follow-up:** Referral for abnormal findings
 
 ## Links

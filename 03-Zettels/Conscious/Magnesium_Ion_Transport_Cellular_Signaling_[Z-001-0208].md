@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]
 extraction-date: 2026-03-01
 ---
 
-# Magnesium in Ion Transport and Cellular Signaling
+# [[KEYWORD-Magnesium|magnesium]] in Ion Transport and Cellular Signaling
 
 > Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
 
@@ -40,7 +40,7 @@ extraction-date: 2026-03-01
 
 ## Intracellular Calcium Antagonism
 
-**Mechanism:**
+**[[KEYWORD-Mechanism|mechanism]]:**
 - Mg²⁺ and Ca²⁺ compete for:
   - Channel entry sites
   - Intracellular binding sites
@@ -80,7 +80,7 @@ extraction-date: 2026-03-01
 - Anti-arrhythmic effects
 - Reduces vascular calcification (synergistic with K2)
 
-**Insulin Sensitivity:**
+**[[KEYWORD-Insulin|insulin]] Sensitivity:**
 - Intracellular Mg²⁺ affects insulin receptor signaling
 - Mg deficiency → impaired GLUT4 translocation
 

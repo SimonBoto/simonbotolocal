@@ -53,7 +53,7 @@ status: conscious
 **Omega-6-rich membranes:**
 - Increased permeability to ions
 - Altered receptor conformation and function
-- Impaired insulin receptor signaling
+- Impaired [[KEYWORD-Insulin|insulin]] receptor signaling
 
 #### 2. Lipid Raft Disruption
 - Lipid rafts = cholesterol/sphingolipid microdomains
@@ -75,7 +75,7 @@ status: conscious
 1. **Increased susceptibility to oxidation**
 2. **Oxidized cardiolipin** triggers cytochrome c release
 3. **Apoptosis pathway activation**
-4. **Mitochondrial dysfunction** → Insulin resistance
+4. **Mitochondrial dysfunction** → [[KEYWORD-Insulin_Resistance|insulin resistance]]
 
 ### Research Evidence
 **Sparagna et al. (2007):** Cardiolipin oxidation → ETC dysfunction
@@ -85,7 +85,7 @@ status: conscious
 
 ### Brain and Nervous System
 - Brain AA content: 10-12% of phospholipids (essential for function)
-- Excess AA → Neuroinflammation, altered neurotransmission
+- Excess AA → Neuro[[KEYWORD-Inflammation|inflammation]], altered neurotransmission
 - DHA (omega-3) displaced by AA → Cognitive effects
 
 ### Cardiovascular System

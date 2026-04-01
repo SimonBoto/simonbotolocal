@@ -28,7 +28,7 @@ source-litnote: Synthesized from clinical practice
 ### Consequences
 - Readers overestimate evidence strength
 - Failed replication attempts waste resources
-- Clinical applications based on insufficient data
+- [[KEYWORD-Clinical|clinical]] applications based on insufficient data
 - Erosion of scientific trust
 
 ## Strong Limitation Statement Structure
@@ -45,7 +45,7 @@ source-litnote: Synthesized from clinical practice
 ### 3. Impact Quantification
 Where possible, quantify how limitations affect conclusions:
 
-> "The lack of external validation means the 63 identified metabolites likely contain 30-50% false positives based on power calculations. Independent replication is essential before biomarker claims."
+> "The lack of external validation means the 63 identified metabolites likely contain 30-50% false positives based on power calculations. Independent replication is essential before [[KEYWORD-Biomarker|biomarker]] claims."
 
 ### 4. Distinguish Exploratory vs Confirmatory
 | Study Type | Appropriate Language |
@@ -155,6 +155,6 @@ Future Directions: [Specific next steps addressing limitations]
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

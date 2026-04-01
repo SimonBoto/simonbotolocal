@@ -25,7 +25,7 @@ Hyperbaric oxygen therapy enhances the efficacy of radiation and chemotherapy by
 |---------------|------------------|
 | **Well-oxygenated** | 2.5-3x more sensitive |
 | **Hypoxic** | Radiation resistant |
-| **Mechanism** | Oxygen fixes DNA damage (ROS) |
+| **[[KEYWORD-Mechanism|mechanism]]** | Oxygen fixes DNA damage (ROS) |
 
 ### Clinical Application
 | Timing | Protocol |
@@ -35,7 +35,7 @@ Hyperbaric oxygen therapy enhances the efficacy of radiation and chemotherapy by
 | **Goal** | Maximize tumor oxygenation at treatment |
 
 ### Tumor Types with Evidence
-| Cancer | HBOT + Radiation Evidence |
+| [[KEYWORD-Cancer|cancer]] | HBOT + Radiation Evidence |
 |--------|---------------------------|
 | **Head and neck** | Improved local control |
 | **Glioblastoma** | Case reports of benefit |
@@ -143,7 +143,7 @@ HBOT increases tissue O₂ → More DNA damage fixed → Enhanced cell kill
 - [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_[Z-001-1138].md]]
 - [[HBOT_Clinical_Applications_Safety_Considerations_[Z-001-1140].md]]
 - [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_[Z-001-1123].md]]
-- [[MOC-Cancer-Metabolism]]
+- [[MOC-Cancer-[[KEYWORD-Metabolism|metabolism]]]]
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*

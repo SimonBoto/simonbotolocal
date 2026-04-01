@@ -16,12 +16,12 @@ created: 2026-03-08
 # Carnitine Shuttle Fatty Acid Transport
 
 ## Overview
-The carnitine shuttle system transports long-chain fatty acids across the mitochondrial inner membrane for β-oxidation.
+The carnitine shuttle system transports long-chain fatty acids across the [[KEYWORD-Mitochondria|mitochondria]]l inner membrane for β-oxidation.
 
 ## The Three Components
 
 ### 1. CPT I (Carnitine Palmitoyltransferase I)
-- **Location:** Outer mitochondrial membrane
+- **Location:** Outer [[KEYWORD-Mitochondria|mitochondrial]] membrane
 - **Function:** Rate-limiting step; conjugates fatty acyl-CoA with carnitine
 - **Regulation:** Inhibited by malonyl-CoA (from fed state)
 - **Isoforms:** CPT1A (liver), CPT1B (muscle), CPT1C (brain)
@@ -90,7 +90,7 @@ Elevated acylcarnitines in blood spot testing indicate:
 - [[MOC-Mitochondrial-Function]]
 
 ---
-*Source: CGPT-0022 — Fatty acid metabolism*
+*Source: CGPT-0022 — Fatty acid [[KEYWORD-Metabolism|metabolism]]*
 
 
 ## RELATED FILES

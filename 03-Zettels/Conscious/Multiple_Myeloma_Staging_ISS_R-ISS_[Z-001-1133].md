@@ -16,7 +16,7 @@ created: 2026-03-08
 # Multiple Myeloma Staging ISS R-ISS
 
 ## Overview
-Staging in multiple myeloma stratifies patients by prognosis using biomarkers—primarily beta-2 microglobulin (tumor burden) and albumin (patient status), with refinement for cytogenetics and LDH.
+Staging in multiple myeloma stratifies patients by prognosis using [[KEYWORD-Biomarker|biomarker]]s—primarily beta-2 microglobulin (tumor burden) and albumin (patient status), with refinement for cytogenetics and LDH.
 
 ## International Staging System (ISS)
 
@@ -152,9 +152,9 @@ Staging in multiple myeloma stratifies patients by prognosis using biomarkers—
 - [[MOC-Hematology-Oncology]]
 
 ---
-*Source: CGPT-0264 — Warburg effect and cancer*
+*Source: CGPT-0264 — Warburg effect and [[KEYWORD-Cancer|cancer]]*
 
 ## RELATED FILES
-- [[MOC-Biomarkers|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

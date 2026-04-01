@@ -14,13 +14,13 @@ updated: 2026-03-05
 
 # Sirolimus Induces Pancreatic Beta-Cell Dysfunction and NODAT
 
-**Core Mechanism:** Pancreatic β-cells are exquisitely sensitive to sirolimus due to high metabolic demand for insulin secretion and dependence on mitochondrial ATP production.
+**Core Mechanism:** Pancreatic β-cells are exquisitely sensitive to sirolimus due to high metabolic demand for [[KEYWORD-Insulin|insulin]] secretion and dependence on mitochondrial ATP production.
 
 ## Why β-Cells Are Vulnerable
 
 **High Metabolic Demand:**
 - Continuous ATP production required
-- Glucose sensing coupled to metabolism
+- Glucose sensing coupled to [[KEYWORD-Metabolism|metabolism]]
 - Each insulin secretion event requires ATP
 
 **Glucose-Stimulated Insulin Secretion (GSIS):**
@@ -123,7 +123,7 @@ Glucose enters → Glycolysis → Pyruvate → Mitochondria
 | **Family history** | Genetic β-cell vulnerability |
 | **Hispanic/AA ethnicity** | Higher baseline risk |
 | **Hepatitis C** | Viral impact on glucose metabolism |
-| **Steroids** | Additive insulin resistance |
+| **Steroids** | Additive [[KEYWORD-Insulin_Resistance|insulin resistance]] |
 | **Age** | Reduced β-cell reserve |
 
 ## Distinction from Type 1 Diabetes

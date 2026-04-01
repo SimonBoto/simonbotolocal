@@ -13,7 +13,7 @@ created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 ---
 
-# Pharmacometabolomics Framework and Metabotypes
+# Pharmaco[[KEYWORD-Metabolomics|metabolomics]] Framework and Metabotypes
 
 Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to categorize patients as good or poor responders to therapy, enabling personalized treatment selection based on biochemical individuality rather than empirical trial-and-error.
 
@@ -24,7 +24,7 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 2. **Diagnosis/management** — Identify underlying metabolic disorders (IR, dysbiosis)
 3. **Metabolic pathway targeting** — Exploit metabolic reprogramming for new drug development
 
-**METHAP Application:** Pre-treatment adipic acid levels predict Vitamin D response; post-treatment levels measure efficacy — creating a pharmacometabolomics cycle.
+**METHAP Application:** Pre-treatment adipic acid levels predict [[KEYWORD-Vitamin_D|vitamin d]] response; post-treatment levels measure efficacy — creating a pharmacometabolomics cycle.
 
 ## Key Details
 
@@ -37,7 +37,7 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 
 ## Links
 
-- **Upstream:** [[Biomarker_Classification_Framework_Z-001-0040.md]] — Biomarker classification framework
+- **Upstream:** [[[[KEYWORD-Biomarker|biomarker]]_Classification_Framework_Z-001-0040.md]] — Biomarker classification framework
 - **Parallel:** [[Precision_Medicine_Response_Rate_Problem_Z-101-0007.md]] — Response rate problem drives need
 - **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045.md]] — METHAP panel applies this
 

@@ -12,7 +12,7 @@ extraction-date: 2026-03-01
 updated: 2026-03-05
 ---
 
-# Diet-Heart Hypothesis — Policy Evolution
+# Diet-Heart Hypothesis — Policy [[KEYWORD-Evolution|evolution]]
 
 > Keys' hypothesis moved rapidly from scientific conjecture to institutionalized public health policy through AHA guidelines, McGovern Committee recommendations, and decades of entrenched institutional messaging.
 

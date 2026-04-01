@@ -51,7 +51,7 @@ The RNA world hypothesis proposes that early life was based on RNA as both genet
 | Feature | Significance |
 |---------|--------------|
 | **Ribosomes** | rRNA catalyzes protein synthesis |
-| **tRNA** | Ancient molecule; links amino acids to codons |
+| **tRNA** | Ancient molecule; links [[KEYWORD-Amino_Acids|amino acids]] to codons |
 | **ATP** | Ribose-based energy currency |
 | **NAD⁺, FAD, CoA** | All contain adenosine (RNA component) |
 
@@ -87,7 +87,7 @@ The RNA world hypothesis proposes that early life was based on RNA as both genet
 | **Replication fidelity** | Early life tolerated error rates |
 
 ### Alternative Hypotheses
-- **Metabolism-first:** Chemical networks before genetic material
+- **[[KEYWORD-Metabolism|metabolism]]-first:** Chemical networks before genetic material
 - **Protein-first:** Simple peptides as first catalysts
 - **Lipid world:** Membrane compartments first
 
@@ -99,7 +99,7 @@ The RNA world hypothesis proposes that early life was based on RNA as both genet
 ## Related
 - [[Ancient_Metabolic_Pathways_Conservation_[Z-001-1107].md]]
 | [[Prebiotic_Chemistry_Hydrothermal_Vents_[Z-001-1108].md]]
-| [[MOC-Evolutionary-Biochemistry]]
+| [[MOC-Evolutionary-[[KEYWORD-Biochemistry|biochemistry]]]]
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

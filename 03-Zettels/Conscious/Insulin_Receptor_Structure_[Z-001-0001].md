@@ -13,7 +13,7 @@ confidence: high
 created: 2026-02-22
 ---
 
-# Insulin Receptor Structure
+# [[KEYWORD-Insulin|insulin]] Receptor Structure
 
 The insulin receptor (INSR) is a tetrameric receptor tyrosine kinase expressed on plasma membranes of metabolically active tissues (muscle, adipose, liver).
 
@@ -30,7 +30,7 @@ The insulin receptor (INSR) is a tetrameric receptor tyrosine kinase expressed o
 ## Links
 
 - **Upstream:** [[Insulin_Hormone_Structure_[Z-001-0002]]] — The ligand
-- **Mechanism:** [[INSR_Autophosphorylation_Mechanism_[Z-001-0003]]] — Activation cascade  
+- **[[KEYWORD-Mechanism|mechanism]]:** [[INSR_Autophosphorylation_Mechanism_[Z-001-0003]]] — Activation cascade  
 - **Disease:** [[INSR_Mutations_Donohue_Syndrome_[Z-001-0004]]] — When structure fails
 
 ## Context

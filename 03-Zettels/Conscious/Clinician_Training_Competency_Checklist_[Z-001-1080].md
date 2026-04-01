@@ -21,8 +21,8 @@ Competency verification at each training stage before independent practice autho
 ## Phase 1: Foundation Competency (Weeks 1-2)
 
 ### Biochemical Literacy
-- [ ] Explain metabolism as information flow
-- [ ] Describe mitochondrial function beyond "powerhouse"
+- [ ] Explain [[KEYWORD-Metabolism|metabolism]] as information flow
+- [ ] Describe [[KEYWORD-Mitochondria|mitochondria]]l function beyond "powerhouse"
 - [ ] Define redox balance and NAD+/NADH
 - [ ] Identify the five core pathways
 
@@ -93,7 +93,7 @@ Competency verification at each training stage before independent practice autho
 
 ### Ongoing Competency
 - [ ] Annual case review
-- [ ] Continuing education in metabolomics
+- [ ] Continuing education in [[KEYWORD-Metabolomics|metabolomics]]
 - [ ] Quality metric participation
 
 ## Remediation

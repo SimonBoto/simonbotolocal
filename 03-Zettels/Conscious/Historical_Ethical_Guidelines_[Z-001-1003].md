@@ -15,7 +15,7 @@ status: conscious
 
 ## Overview
 
-Modern research ethics emerged from responses to atrocities and ethical failures in human experimentation. Understanding this history is essential for appreciating current ethical frameworks.
+Modern [[KEYWORD-Research|research]] ethics emerged from responses to atrocities and ethical failures in human experimentation. Understanding this history is essential for appreciating current ethical frameworks.
 
 ## Nuremberg Code (1947)
 
@@ -87,7 +87,7 @@ Modern research ethics emerged from responses to atrocities and ethical failures
 
 **Limitations:**
 - Narrow focus on researcher-subject relationship
-- No enforcement mechanism
+- No enforcement [[KEYWORD-Mechanism|mechanism]]
 - No mention of independent review
 
 ## Declaration of Helsinki (1964-Present)
@@ -99,7 +99,7 @@ Modern research ethics emerged from responses to atrocities and ethical failures
 - Medical profession self-regulation
 - Periodic revisions (1964, 1975, 1983, 1989, 1996, 2000, 2008, 2013)
 
-### Evolution of Key Concepts
+### [[KEYWORD-Evolution|evolution]] of Key Concepts
 
 **1964 Original:**
 - Basic principles for physicians

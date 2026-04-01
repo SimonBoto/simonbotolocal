@@ -18,7 +18,7 @@ IRP1 (Iron Regulatory Protein 1) is a remarkable example of a protein with dual 
 
 ---
 
-## The Switch Mechanism
+## The Switch [[KEYWORD-Mechanism|mechanism]]
 
 ### Iron-Replete Conditions
 ```
@@ -106,7 +106,7 @@ Iron uptake ↑, storage ↓
 
 ---
 
-## Clinical Relevance
+## [[KEYWORD-Clinical|clinical]] Relevance
 
 ### Iron Deficiency Anemia
 - IRP1/2 highly active
@@ -119,7 +119,7 @@ Iron uptake ↑, storage ↓
 - Tissue iron overload
 
 ### Aconitase/IRP1 Connection
-- Metabolism and iron regulation linked
+- [[KEYWORD-Metabolism|metabolism]] and iron regulation linked
 - Energy status affects iron homeostasis
 - Oxidative stress affects both
 

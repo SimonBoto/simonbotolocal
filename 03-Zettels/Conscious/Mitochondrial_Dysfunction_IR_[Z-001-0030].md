@@ -12,7 +12,7 @@ confidence: high
 created: 2026-02-24
 ---
 
-# Mitochondrial Dysfunction in Insulin Resistance
+# Mitochondrial Dysfunction in [[KEYWORD-Insulin|insulin]] Resistance
 
 Mitochondrial overload from chronic nutrient excess creates oxidative stress when reactive oxygen species (ROS) production exceeds antioxidant capacity. This damages mitochondrial DNA and impairs electron transport chain function.
 
@@ -32,12 +32,12 @@ Mitochondrial overload from chronic nutrient excess creates oxidative stress whe
 ## Links
 
 - **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md]] — Lipotoxicity creates mitochondrial load
-- **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md]] — Inflammation amplifies oxidative stress
+- **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md]] — [[KEYWORD-Inflammation|inflammation]] amplifies oxidative stress
 - **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md]] — Compensatory IR develops
 
 ## Context
 
-**Also relevant to:** [[MOC-Metabolomics]], [[MOC-Oxidative-Stress]]
+**Also relevant to:** [[MOC-[[KEYWORD-Metabolomics|metabolomics]]]], [[MOC-Oxidative-Stress]]
 
 **Emerges from:** Literature synthesis on cellular mechanisms
 

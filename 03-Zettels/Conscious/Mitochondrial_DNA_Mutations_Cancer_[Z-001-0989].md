@@ -15,7 +15,7 @@ status: conscious
 
 ## Overview
 
-Mitochondrial DNA (mtDNA) mutations are common in cancer and contribute to tumorigenesis through altered energy metabolism, increased reactive oxygen species (ROS), and metabolic reprogramming.
+Mitochondrial DNA (mtDNA) mutations are common in cancer and contribute to tumorigenesis through altered energy [[KEYWORD-Metabolism|metabolism]], increased reactive oxygen species (ROS), and metabolic reprogramming.
 
 ## Prevalence and Patterns
 
@@ -277,7 +277,7 @@ AMPK activation
 - Radiation sensitization
 - Chemotherapy enhancement
 
-## Biomarker Applications
+## [[KEYWORD-Biomarker|biomarker]] Applications
 
 ### Circulating mtDNA
 
@@ -328,7 +328,7 @@ AMPK activation
 3. **Mechanisms:** ROS, metabolic reprogramming, apoptosis resistance
 4. **Metastasis:** mtDNA mutations enhance metastatic potential
 5. **Therapeutics:** Metformin, DCA, mitochondrial poisons
-6. **Biomarkers:** Circulating mtDNA for diagnosis and monitoring
+6. **[[KEYWORD-Biomarker|biomarkers]]:** Circulating mtDNA for diagnosis and monitoring
 
 **Clinical Implications:**
 - mtDNA not just passenger mutations

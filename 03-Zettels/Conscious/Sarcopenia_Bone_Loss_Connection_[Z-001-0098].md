@@ -19,7 +19,7 @@ Sarcopenia (age-related muscle loss) and bone loss are connected. Low muscle mas
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
 **Source:** [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]]
 **Related:** [[Muscle_Bone_Unit_Mechanical_Loading_[Z-001-0096].md]], [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_[Z-001-0099].md]]
 

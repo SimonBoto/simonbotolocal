@@ -15,11 +15,11 @@ extraction-date: 2026-03-02
 
 **Core Pathway:** Palmitate (C16) → Adipate (C6) when β-oxidation is impaired
 
-## Normal vs Pathological Metabolism
+## Normal vs Pathological [[KEYWORD-Metabolism|metabolism]]
 
 **Normal (β-oxidation dominant):**
 - Palmitoyl-CoA → 7 cycles β-oxidation → 8 acetyl-CoA
-- Occurs in mitochondria
+- Occurs in [[KEYWORD-Mitochondria|mitochondria]]
 - Requires carnitine shuttle (CPT I/II)
 
 **Pathological (ω-oxidation activated):**
@@ -46,7 +46,7 @@ Adipate formation is a **compensatory mechanism** — when mitochondria cannot c
 
 ## Clinical Marker Implication
 
-Elevated adipate in urine = evidence of impaired mitochondrial fatty acid oxidation
+Elevated adipate in urine = evidence of impaired [[KEYWORD-Mitochondria|mitochondrial]] fatty acid oxidation
 
 ---
 

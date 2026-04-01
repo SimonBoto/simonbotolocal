@@ -16,7 +16,7 @@ created: 2026-03-08
 # Gut Microbiome OAT Markers
 
 ## Overview
-Organic acids testing reveals gut microbial metabolism, dysbiosis, and intestinal permeability through specific biomarkers.
+Organic acids testing reveals gut microbial [[KEYWORD-Metabolism|metabolism]], dysbiosis, and intestinal permeability through specific [[KEYWORD-Biomarker|biomarker]]s.
 
 ## Bacterial Markers
 
@@ -103,7 +103,7 @@ Organic acids testing reveals gut microbial metabolism, dysbiosis, and intestina
 ## Related
 - [[Neurotransmitter_Synthesis_Biochemistry_[Z-001-1063].md]]
 - [[Microbiome_Gut_Brain_Terminology_[Z-001-1045].md]]
-- [[MOC-Metabolomics-Analysis]]
+- [[MOC-[[KEYWORD-Metabolomics|metabolomics]]-Analysis]]
 
 ---
 *Source: CGPT-0022 — Vitamin-mineral biochemistry*

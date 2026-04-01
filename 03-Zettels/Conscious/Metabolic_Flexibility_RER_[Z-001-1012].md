@@ -28,7 +28,7 @@ Glycolysis → Pyruvate → Acetyl-CoA → Krebs Cycle → ETC
 
 **Characteristics:**
 - Fast ATP production
-- Requires insulin for cellular entry
+- Requires [[KEYWORD-Insulin|insulin]] for cellular entry
 - Produces lactate under anaerobic conditions
 - RER ≈ 1.0 (CO2/O2)
 
@@ -112,7 +112,7 @@ Inability to switch fuels appropriately; persistently glucose-dependent.
 
 **Causes:**
 - Chronic high carbohydrate intake
-- Insulin resistance
+- [[KEYWORD-Insulin_Resistance|insulin resistance]]
 - Mitochondrial dysfunction
 - Physical inactivity
 - Poor sleep
@@ -233,7 +233,7 @@ Inability to switch fuels appropriately; persistently glucose-dependent.
 ### Weight Management
 
 **Principle:**
-- Flexible metabolism burns stored fat readily
+- Flexible [[KEYWORD-Metabolism|metabolism]] burns stored fat readily
 - Inflexible metabolism resists fat loss
 - Flexibility = sustainable weight control
 

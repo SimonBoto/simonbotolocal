@@ -13,7 +13,7 @@ extraction-date: 2026-03-02
 
 # Vitamin B5 Coenzyme A Synthesis Pathway
 
-**Core Concept:** Vitamin B5 (pantothenic acid) is the obligate precursor for Coenzyme A (CoA) — essential for fatty acid metabolism, TCA cycle, and energy production.
+**Core Concept:** Vitamin B5 (pantothenic acid) is the obligate precursor for Coenzyme A (CoA) — essential for fatty acid [[KEYWORD-Metabolism|metabolism]], TCA cycle, and energy production.
 
 ## Five-Step Biosynthesis
 
@@ -57,7 +57,7 @@ CoA consists of:
 
 **Reactive site:** Terminal thiol group (-SH) forms thioester bonds with acyl groups
 
-## Clinical Disorders
+## [[KEYWORD-Clinical|clinical]] Disorders
 
 ### PKAN (Pantothenate Kinase-Associated Neurodegeneration)
 - **Gene:** PANK2 mutations
@@ -78,7 +78,7 @@ CoA consists of:
 | **Beta-oxidation** | Acyl-CoA → acetyl-CoA |
 | **TCA cycle** | Acetyl-CoA, succinyl-CoA |
 | **Ketogenesis** | Acetyl-CoA → HMG-CoA → ketones |
-| **Steroid synthesis** | Acetyl-CoA → cholesterol |
+| **Steroid synthesis** | Acetyl-CoA → [[KEYWORD-Cholesterol|cholesterol]] |
 
 ---
 

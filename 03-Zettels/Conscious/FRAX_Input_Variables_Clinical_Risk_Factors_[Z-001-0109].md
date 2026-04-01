@@ -27,7 +27,7 @@ FRAX algorithm integrates **demographic, clinical, and BMD variables** to estima
 ### Derived Metric
 **Body Mass Index (BMI):** Auto-calculated from weight/height
 - **Risk pattern:** Low BMI (< 18.5) increases fracture risk
-- **Mechanism:** Low estrogen, poor nutrition, sarcopenia
+- **[[KEYWORD-Mechanism|mechanism]]:** Low estrogen, poor [[KEYWORD-Nutrition|nutrition]], sarcopenia
 - **Paradox:** Obesity protective for hip fracture (cushioning), but higher wrist fracture
 
 ## Binary Risk Factors (Yes/No)
@@ -104,7 +104,7 @@ FRAX algorithm integrates **demographic, clinical, and BMD variables** to estima
 | **Falls history** | Major independent risk — must add clinically |
 | **Trabecular bone score** | Bone quality measure — can adjust FRAX |
 | **Glucocorticoid dose** | Binary only (<2.5mg vs ≥2.5mg prednisone) |
-| **Vitamin D level** | Not included — separate assessment |
+| **[[KEYWORD-Vitamin_D|vitamin d]] level** | Not included — separate assessment |
 | **Secondary causes severity** | Binary only — no gradation |
 | **Recent fracture timing** | Any prior = yes — recency not weighted |
 

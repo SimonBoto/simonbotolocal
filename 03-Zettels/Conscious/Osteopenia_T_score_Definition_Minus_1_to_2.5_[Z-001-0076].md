@@ -19,7 +19,7 @@ Osteopenia is defined by a T-score between −1.0 and −2.5 on dual-energy X-ra
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
 **Source:** [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]]
 **Related:** [[Osteoporosis_T_score_Definition_Minus_2.5_[Z-001-0077].md]], [[FRAX_Fracture_Risk_Assessment_Tool_[Z-001-0079].md]]
 

@@ -16,7 +16,7 @@ created: 2026-03-08
 # Cancer Metabolic Reprogramming Glycolysis PPP
 
 ## Overview
-Cancer cells reprogram metabolism to support rapid proliferation—prioritizing biosynthesis over energy efficiency through glycolysis and the pentose phosphate pathway.
+Cancer cells reprogram [[KEYWORD-Metabolism|metabolism]] to support rapid proliferation—prioritizing biosynthesis over energy efficiency through glycolysis and the pentose phosphate pathway.
 
 ## The Proliferation Requirement
 
@@ -63,11 +63,11 @@ Glyceraldehyde-3-P → Serine, glycine (for proteins)
      ↓
 3-phosphoglycerate → Serine (for proteins, nucleotides)
      ↓
-Pyruvate → Acetyl-CoA → Fatty acids (for membranes)
+Pyruvate → Acetyl-CoA → [[KEYWORD-Fatty_Acids|fatty acids]] (for membranes)
 ```
 
 ### Citrate Export
-- **Mitochondria → Cytosol:** Citrate shuttle
+- **[[KEYWORD-Mitochondria|mitochondria]] → Cytosol:** Citrate shuttle
 - **ATP-citrate lyase:** Cleaves to acetyl-CoA
 - **Acetyl-CoA carboxylase:** Initiates fatty acid synthesis
 - **Result:** Lipid synthesis for membranes

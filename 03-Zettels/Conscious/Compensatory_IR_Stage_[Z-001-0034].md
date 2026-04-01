@@ -13,13 +13,13 @@ created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 ---
 
-# Compensatory Insulin Resistance Stage
+# Compensatory [[KEYWORD-Insulin|insulin]] Resistance Stage
 
 In early insulin resistance, beta-cells compensate by increasing insulin secretion, maintaining normal blood glucose while creating fasting hyperinsulinemia. This stage is clinically silent — glucose remains normal despite significant metabolic dysfunction.
 
 **Critical window:** This is where intervention has maximum impact. The body can still recover if the underlying drivers (nutrient overflow, inflammation, stress) are addressed.
 
-**Biomarkers at this stage:**
+**[[KEYWORD-Biomarker|biomarker]]s at this stage:**
 - Fasting insulin: Elevated (first sign!)
 - Adipic acid: Elevated (urine organic acids)
 - HOMA-IR: Elevated
@@ -53,6 +53,6 @@ The disconnect between normal glucose and elevated insulin is the diagnostic clu
 *UID: Z-001-0034 | Domain: 001 | Created: 2026-02-24*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

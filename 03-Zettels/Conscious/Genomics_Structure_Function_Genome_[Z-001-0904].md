@@ -34,7 +34,7 @@ DNA (Gene) → Transcription → mRNA → Translation → Protein (Enzyme) → M
 ### Monogenic Metabolic Diseases
 | Disease | Gene Defect | Treatment Approach |
 |---------|-------------|-------------------|
-| Phenylketonuria | Phenylalanine metabolism | Amino acid restriction |
+| Phenylketonuria | Phenylalanine [[KEYWORD-Metabolism|metabolism]] | Amino acid restriction |
 | Type 1 Diabetes | Glucose metabolism genes | Insulin replacement |
 
 ### Pharmacogenomics
@@ -51,7 +51,7 @@ Study of how DNA/RNA variations affect drug response:
 | GWAS | Disease-gene association | Risk loci identification |
 | WES | Protein-coding variant detection | Diagnostic variants |
 
-## Limitations (Why Metabolomics Complements Genomics)
+## Limitations (Why [[KEYWORD-Metabolomics|metabolomics]] Complements Genomics)
 
 1. **Genome is static** — doesn't reflect current physiological state
 2. **Environmental factors** — not captured in DNA sequence
@@ -67,7 +67,7 @@ Study of how DNA/RNA variations affect drug response:
 
 **But cannot replace:**
 - Real-time metabolic status (metabolomics captures this)
-- Environmental factor integration (Vitamin D response)
+- Environmental factor integration ([[KEYWORD-Vitamin_D|vitamin d]] response)
 - Dynamic disease progression markers
 
 ## Links

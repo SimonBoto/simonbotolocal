@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Vitamin D Safety Research Summary
+# [[KEYWORD-Vitamin_D|vitamin d]] Safety Research Summary
 
 ## Overview
 Evidence for safety of long-term high-dose vitamin D supplementation.
@@ -85,7 +85,7 @@ Evidence for safety of long-term high-dose vitamin D supplementation.
 
 ## Related
 - [[Vitamin_D_PTH_Calcium_Axis_[Z-001-1059].md]]
-- [[MOC-Vitamin-D-Metabolism]]
+- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
 
 ---
 *Source: CGPT-0022 — Research bibliography*

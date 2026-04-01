@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Epidemiological_Evidence_L-001-0525]]
 status: conscious
 ---
 
-# Sydney Diet-Heart Study Reanalysis — Omega-6 and Mortality
+# Sydney Diet-Heart Study Reanalysis — [[KEYWORD-Omega_6|omega-6]] and Mortality
 
 ## Study Overview
 
@@ -83,7 +83,7 @@ status: conscious
 ### 2. Pro-inflammatory Eicosanoids
 
 - Linoleic acid → arachidonic acid → PGE2, LTB4
-- Chronic inflammation in vessel walls
+- Chronic [[KEYWORD-Inflammation|inflammation]] in vessel walls
 - Plaque instability
 
 ### 3. Reduced Omega-3 Incorporation
@@ -110,7 +110,7 @@ status: conscious
 **Sydney Findings:**
 - PUFA replacement reduced LDL
 - But increased deaths
-- Suggests **non-LDL mechanisms matter**
+- Suggests **non-LDL [[KEYWORD-Mechanism|mechanism]]s matter**
 
 ### Meta-Analysis Integration
 

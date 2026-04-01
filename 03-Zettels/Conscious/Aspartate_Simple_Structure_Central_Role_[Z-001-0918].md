@@ -68,7 +68,7 @@ Citrulline + Aspartate → Argininosuccinate
 
 **Evolutionary roles:**
 - Urea cycle (nitrogen disposal)
-- Krebs cycle (energy metabolism)
+- Krebs cycle (energy [[KEYWORD-Metabolism|metabolism]])
 - Protein synthesis
 
 ### Comparison to Other Amino Acids
@@ -79,11 +79,11 @@ Citrulline + Aspartate → Argininosuccinate
 | Biosynthesis | From OAA (Krebs intermediate) | Direct |
 | Roles | Multiple central pathways | High impact |
 
-## Clinical: AST
+## [[KEYWORD-Clinical|clinical]]: AST
 **Aspartate aminotransferase (AST/SGOT):**
 - Clinical marker of tissue damage
 - Elevated in: Myocardial infarction, liver disease, muscle injury
-- Mitochondrial and cytosolic isozymes
+- [[KEYWORD-Mitochondria|mitochondria]]l and cytosolic isozymes
 
 ## Summary
 **Aspartate exemplifies "simple but essential":**

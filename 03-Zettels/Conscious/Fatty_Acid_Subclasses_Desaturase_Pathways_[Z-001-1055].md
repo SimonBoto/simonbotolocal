@@ -18,7 +18,7 @@ created: 2026-03-08
 ## Overview
 Essential fatty acids require elongation and desaturation to become biologically active signaling molecules.
 
-## Omega-6 Pathway (Pro-inflammatory Precursor)
+## [[KEYWORD-Omega_6|omega-6]] Pathway (Pro-inflammatory Precursor)
 
 ```
 LA (18:2 n-6) ──Δ6D──> GLA (18:3 n-6) ──E──> DGLA (20:3 n-6) ──Δ5D──> AA (20:4 n-6)
@@ -41,7 +41,7 @@ ALA (18:3 n-3) ──Δ6D──> SDA (18:4 n-3) ──E──> EPA (20:5 n-3) �
 
 | Enzyme | Function | Inhibitors |
 |--------|----------|------------|
-| **Δ6-Desaturase** | First step for both pathways | Insulin, glucagon, trans fats, alcohol |
+| **Δ6-Desaturase** | First step for both pathways | [[KEYWORD-Insulin|insulin]], glucagon, trans fats, alcohol |
 | **Δ5-Desaturase** | Converts DGLA→AA, SDA→EPA | Arachidonic acid (feedback) |
 | **Elongase** | Adds 2 carbons | Competitive between pathways |
 
@@ -65,7 +65,7 @@ ALA (18:3 n-3) ──Δ6D──> SDA (18:4 n-3) ──E──> EPA (20:5 n-3) �
 - [[MOC-Omega3-Fats]]
 
 ---
-*Source: CGPT-0022 — Fatty acid metabolism*
+*Source: CGPT-0022 — Fatty acid [[KEYWORD-Metabolism|metabolism]]*
 
 
 ## RELATED FILES

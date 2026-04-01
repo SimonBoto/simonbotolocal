@@ -11,7 +11,7 @@ source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]]
 extraction-date: 2026-03-01
 ---
 
-# Folate Serum vs RBC Assessment
+# [[KEYWORD-Folate|folate]] Serum vs RBC Assessment
 
 > Serum folate reflects recent intake (fluctuates with meals), while RBC folate reflects 2-3 month tissue stores and is more reliable for assessing functional status.
 
@@ -51,7 +51,7 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_B12_Clinical_Assessment_L-001-0408]]*
+*Source: [[LitNote_B12_[[KEYWORD-Clinical|clinical]]_Assessment_L-001-0408]]*
 
 
 ## RELATED FILES

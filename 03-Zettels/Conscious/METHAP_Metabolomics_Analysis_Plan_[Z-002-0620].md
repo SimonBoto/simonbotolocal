@@ -12,7 +12,7 @@ confidence: high
 created: 2026-03-27
 ---
 
-# METHAP Metabolomics Analysis Plan
+# METHAP [[KEYWORD-Metabolomics|metabolomics]] Analysis Plan
 
 Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profiling of urine organic acids and plasma free fatty acids.
 
@@ -34,7 +34,7 @@ Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profili
 
 ### Organic Acids (Urine)
 - **Citric acid** — Krebs cycle intermediate
-- **Aconitic acid** — Krebs cycle, iron-sulfur cluster metabolism
+- **Aconitic acid** — Krebs cycle, iron-sulfur cluster [[KEYWORD-Metabolism|metabolism]]
 - **Oxalic acid** — Glyoxylate metabolism, vitamin C degradation
 - **Glyceric acid** — Glycerol metabolism
 - **2-Ketoisovaleric acid** — Branched-chain amino acid metabolism
@@ -84,6 +84,6 @@ METHAP advances IR diagnostics by:
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

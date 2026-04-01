@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Metabolomics_Data_Processing_L-001-0619]]"
 status: conscious
 ---
 
-# Normalization and Scaling — Metabolomics Data
+# Normalization and Scaling — [[KEYWORD-Metabolomics|metabolomics]] Data
 
 ## Overview
 

@@ -39,7 +39,7 @@ The omega (ω) classification system categorizes fatty acids by the position of 
 - ALA: Flaxseeds, chia, walnuts
 - EPA/DHA: Fatty fish (salmon, mackerel, sardines)
 
-### Omega-6 (ω-6)
+### [[KEYWORD-Omega_6|omega-6]] (ω-6)
 **First double bond:** Carbon 6 from methyl end
 **Structure:** CH₃-(CH₂)₄-CH=CH-...
 
@@ -67,8 +67,8 @@ The omega (ω) classification system categorizes fatty acids by the position of 
 
 **Physiological Effects:**
 - Cardiovascular protection (when replacing saturated)
-- Improved insulin sensitivity
-- Reduced inflammation
+- Improved [[KEYWORD-Insulin|insulin]] sensitivity
+- Reduced [[KEYWORD-Inflammation|inflammation]]
 
 **Sources:**
 - Olive oil (75% oleic acid)

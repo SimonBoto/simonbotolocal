@@ -73,15 +73,15 @@ CH₃-CH-CH₂-COOH
 - **Heart:** High BHB utilization
 
 ### Beyond Energy: Signaling Functions
-BHB acts as **signaling molecule** independent of energy metabolism:
+BHB acts as **signaling molecule** independent of energy [[KEYWORD-Metabolism|metabolism]]:
 
 | Target | Effect |
 |--------|--------|
 | **HDAC inhibitors** | Epigenetic regulation, gene expression |
 | **HCAR2 receptor** | Anti-inflammatory signaling |
-| **NF-κB pathway** | Reduced inflammation |
+| **NF-κB pathway** | Reduced [[KEYWORD-Inflammation|inflammation]] |
 | **Oxidative stress** | Reduced ROS generation |
-| **Mitochondrial biogenesis** | Enhanced via PGC-1α |
+| **[[KEYWORD-Mitochondria|mitochondria]]l biogenesis** | Enhanced via PGC-1α |
 
 ## Clinical Implications
 

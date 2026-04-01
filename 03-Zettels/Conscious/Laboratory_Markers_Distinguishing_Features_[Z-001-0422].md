@@ -21,7 +21,7 @@ extraction-date: 2026-03-01
 |--------|-----|----------------|
 | **M-protein (SPEP)** | Monoclonal spike | Absent |
 | **Serum free light chains** | Elevated, abnormal ratio | Normal |
-| **Serum calcium** | Elevated (hypercalcemia) | Normal |
+| **Serum [[KEYWORD-Calcium|calcium]]** | Elevated (hypercalcemia) | Normal |
 | **Creatinine** | Often elevated | Normal |
 | **Bone lesions (imaging)** | Focal lytic lesions | Diffuse demineralization |
 
@@ -51,4 +51,4 @@ extraction-date: 2026-03-01
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
-- [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]
+- [[FRAX_Limitations_[[KEYWORD-Clinical|clinical]]_Gaps_[Z-001-0111]|Z-001-0111]]

@@ -75,7 +75,7 @@ Additional protections for prisoners.
 - IRB must include prisoner or prisoner representative
 - Certification from HHS Secretary for Category 4
 
-**Protection Mechanisms:**
+**Protection [[KEYWORD-Mechanism|mechanism]]s:**
 - Limited inducements
 - No parole board influence
 - Equitable selection
@@ -89,7 +89,7 @@ Additional protections for pregnant women, human fetuses, and neonates.
 **Requirements:**
 - Risk to fetus caused solely by interventions/procedures
 - Knowledge cannot be obtained by other means
-- Preclinical studies conducted
+- Pre[[KEYWORD-Clinical|clinical]] studies conducted
 - Father's consent (when reasonably obtainable)
 - No inducements to terminate pregnancy
 - No abortion timing for research purposes
@@ -254,7 +254,7 @@ Can the research be conducted with non-vulnerable populations?
 **Vulnerability:**
 - African American woman
 - Poverty
-- Cancer patient
+- [[KEYWORD-Cancer|cancer]] patient
 
 **Violation:**
 - Cells taken without consent

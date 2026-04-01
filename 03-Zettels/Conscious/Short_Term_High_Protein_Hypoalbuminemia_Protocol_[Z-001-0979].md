@@ -13,7 +13,7 @@ status: conscious
 
 # Short-Term High Protein Protocol — Hypoalbuminemia in CKD
 
-## Clinical Scenario
+## [[KEYWORD-Clinical|clinical]] Scenario
 
 **Question:** Can short-term high protein intake be used to correct hypoalbuminemia in CKD patients?
 
@@ -39,10 +39,10 @@ status: conscious
 - Catabolic stress
 - Post-infection recovery
 
-**4. Refractory Malnutrition:**
+**4. Refractory Mal[[KEYWORD-Nutrition|nutrition]]:**
 - Failed standard interventions
 - Severe hypoalbuminemia (<3.0)
-- Inflammation ruled out
+- [[KEYWORD-Inflammation|inflammation]] ruled out
 
 ### Contraindications
 

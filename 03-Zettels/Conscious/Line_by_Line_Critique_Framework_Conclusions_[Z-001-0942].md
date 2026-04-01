@@ -20,7 +20,7 @@ Systematically deconstruct each sentence of a study's conclusions to identify **
 ### Step 1: Isolate Each Claim
 Break conclusions into individual sentences/claims. Example from CGPT-0328:
 
-> "Two potential biomarkers, DHEAS and L-TA, were successfully identified and validated as being strongly associated with disease progression."
+> "Two potential [[KEYWORD-Biomarker|biomarker]]s, DHEAS and L-TA, were successfully identified and validated as being strongly associated with disease progression."
 
 ### Step 2: Assess What Was Actually Done
 | Aspect | Evidence Required | Actual Status |
@@ -31,7 +31,7 @@ Break conclusions into individual sentences/claims. Example from CGPT-0328:
 | **"Strongly associated"** | Effect size (Cohen's d > 0.8) | ✗ Not reported |
 
 ### Step 3: Identify the Gap
-**Claim:** Validated biomarkers strongly associated with disease
+**Claim:** Validated [[KEYWORD-Biomarker|biomarkers]] strongly associated with disease
 **Reality:** Statistically significant metabolites in small underpowered study
 
 **Gap:** Validation = none; Strong association = unmeasured; Success = premature
@@ -106,7 +106,7 @@ Break conclusions into individual sentences/claims. Example from CGPT-0328:
 **Issue:** Correlation ≠ mechanism
 
 ### 4. The Generalization Error
-**Claim:** "In patients with gastric cancer"
+**Claim:** "In patients with gastric [[KEYWORD-Cancer|cancer]]"
 **Reality:** In 9 patients at one hospital
 **Issue:** Sample not representative of disease population
 

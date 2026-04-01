@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]]"
 status: conscious
 ---
 
-# Beta-Oxidation — Mitochondrial Fatty Acid Breakdown
+# Beta-Oxidation — [[KEYWORD-Mitochondria|mitochondria]]l Fatty Acid Breakdown
 
 ## Overview
 
@@ -106,7 +106,7 @@ Acylcarnitine + CoA → Fatty acyl-CoA + Carnitine
 
 ### Inhibition Signals
 - High energy (high ATP, NADH)
-- Insulin
+- [[KEYWORD-Insulin|insulin]]
 - Malonyl-CoA (inhibits CPT-I)
 
 ---
@@ -123,7 +123,7 @@ Acylcarnitine + CoA → Fatty acyl-CoA + Carnitine
 - Life-threatening hypoglycemia
 - Treatment: Avoid fasting
 
-### Insulin Resistance
+### [[KEYWORD-Insulin_Resistance|insulin resistance]]
 - Impaired β-oxidation capacity
 - Lipid accumulation in muscle/liver
 - Adipate elevation (ω-oxidation backup)

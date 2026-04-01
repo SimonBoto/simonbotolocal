@@ -29,7 +29,7 @@ status: conscious
 - No skip lesions
 - Rectum always involved (100%)
 
-### Depth of Inflammation
+### Depth of [[KEYWORD-Inflammation|inflammation]]
 
 **Crohn's — Transmural:**
 - Full thickness of bowel wall
@@ -77,7 +77,7 @@ status: conscious
 - Strictures (obstruction)
 - Abscesses
 - Perforation
-- Malnutrition
+- Mal[[KEYWORD-Nutrition|nutrition]]
 
 **Perianal Disease:**
 - Tags, fissures, fistulas
@@ -97,7 +97,7 @@ status: conscious
 - Toxic megacolon (rare)
 - Perforation (severe disease)
 - Severe hemorrhage
-- Colon cancer risk
+- Colon [[KEYWORD-Cancer|cancer]] risk
 
 ## Serological Markers
 

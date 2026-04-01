@@ -95,10 +95,10 @@ Production Rate >> Metabolic Capacity
 Overflow to urine
 ```
 
-**Factors Limiting Metabolism:**
+**Factors Limiting [[KEYWORD-Metabolism|metabolism]]:**
 1. Dicarboxylic acid pathway enzyme capacity
 2. CoA availability (shared with other pathways)
-3. Mitochondrial capacity overwhelmed
+3. [[KEYWORD-Mitochondria|mitochondria]]l capacity overwhelmed
 4. Competing demands (glucose, other fatty acids)
 
 ---
@@ -118,7 +118,7 @@ Overflow to urine
 **Reduce Production:**
 - Improve β-oxidation (carnitine, riboflavin)
 - Reduce fatty acid load (diet modification)
-- Improve insulin sensitivity
+- Improve [[KEYWORD-Insulin|insulin]] sensitivity
 
 **Increase Metabolism:**
 - Support dicarboxylic pathway (B-vitamins)

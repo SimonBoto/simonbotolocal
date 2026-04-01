@@ -13,7 +13,7 @@ extraction-date: 2026-03-02
 
 # Omega-Oxidation vs Ketogenesis Distinction
 
-**Critical Distinction:** Two separate pathways for alternative fatty acid metabolism with different triggers, locations, and physiological roles.
+**Critical Distinction:** Two separate pathways for alternative fatty acid [[KEYWORD-Metabolism|metabolism]] with different triggers, locations, and physiological roles.
 
 ## Quick Comparison
 
@@ -57,12 +57,12 @@ extraction-date: 2026-03-02
 **Ketones High, Dicarboxylic Acids Normal:**
 - Starvation
 - Ketogenic diet
-- Diabetic ketoacidosis (with insulin deficiency)
+- Diabetic ketoacidosis (with [[KEYWORD-Insulin|insulin]] deficiency)
 
 **Dicarboxylic Acids High, Ketones Normal/Low:**
 - Carnitine deficiency
 - Medium-chain acyl-CoA dehydrogenase deficiency (MCADD)
-- Insulin resistance (early)
+- [[KEYWORD-Insulin_Resistance|insulin resistance]] (early)
 
 **Both Elevated:**
 - Severe metabolic crisis

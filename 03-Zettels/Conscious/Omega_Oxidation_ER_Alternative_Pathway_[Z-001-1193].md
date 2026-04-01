@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-ω-oxidation is an alternative fatty acid metabolism pathway in the endoplasmic reticulum. It becomes active when β-oxidation is impaired, producing dicarboxylic acids that can be excreted or further metabolized.
+ω-oxidation is an alternative fatty acid [[KEYWORD-Metabolism|metabolism]] pathway in the endoplasmic reticulum. It becomes active when β-oxidation is impaired, producing dicarboxylic acids that can be excreted or further metabolized.
 
 **"Omega" (ω) = Terminal methyl carbon (opposite end from carboxyl group)**
 
@@ -59,7 +59,7 @@ R-CHO + NAD⁺ + H₂O → R-COOH + NADH + H⁺
 ### When Activated
 1. **β-Oxidation Impairment**
    - Carnitine deficiency
-   - Mitochondrial dysfunction
+   - [[KEYWORD-Mitochondria|mitochondria]]l dysfunction
    - Genetic defects (MCAD, LCAD)
 
 2. **Fatty Acid Overload**
@@ -96,7 +96,7 @@ R-CHO + NAD⁺ + H₂O → R-COOH + NADH + H⁺
 
 **Causes:**
 - MCAD deficiency (genetic)
-- Severe insulin resistance
+- Severe [[KEYWORD-Insulin|insulin]] resistance
 - Riboflavin deficiency (FAD cofactor)
 - Fasting in infants
 

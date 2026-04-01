@@ -21,7 +21,7 @@ Studies with fundamental methodological limitations (small samples, lenient FDR,
 
 ---
 
-## The Case Study: Gastric Cancer Metabolomics
+## The Case Study: Gastric Cancer [[KEYWORD-Metabolomics|metabolomics]]
 
 ### Study Parameters
 | Parameter | Value |
@@ -34,7 +34,7 @@ Studies with fundamental methodological limitations (small samples, lenient FDR,
 | **Deficit** | 20-124× underpowered |
 
 ### What Was Claimed
-> "We identified and validated two potential biomarkers, DHEAS and L-threonic acid, strongly associated with disease progression... having significant potential for clinical application in early diagnosis and risk assessment."
+> "We identified and validated two potential [[KEYWORD-Biomarker|biomarker]]s, DHEAS and L-threonic acid, strongly associated with disease progression... having significant potential for clinical application in early diagnosis and risk assessment."
 
 ### The Problem
 | Issue | Reality |
@@ -56,7 +56,7 @@ The study acknowledges limitations but still presents findings with confidence:
 ## Warning Signs of the Exploratory Excuse
 
 ### Red Flags in Reporting
-1. **Overstatement:** "Significant biomarkers identified" (from small sample)
+1. **Overstatement:** "Significant [[KEYWORD-Biomarker|biomarkers]] identified" (from small sample)
 2. **Premature validation:** "Validated biomarkers" (no validation cohort)
 3. **Clinical claims:** "Clinical utility demonstrated" (no clinical outcomes)
 4. **Missing context:** No explicit "exploratory" framing

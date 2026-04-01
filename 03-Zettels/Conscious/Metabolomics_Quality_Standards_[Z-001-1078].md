@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Metabolomics Quality Standards
+# [[KEYWORD-Metabolomics|metabolomics]] Quality Standards
 
 ## Overview
 Quality checkpoints throughout the metabolomics testing and interpretation process.
@@ -57,7 +57,7 @@ Quality checkpoints throughout the metabolomics testing and interpretation proce
 | **Initial interpretation** | Clinician | Pattern recognition |
 | **Second review** | Senior clinician | Verify conclusions |
 | **Report generation** | Staff | Standardized format |
-| **Final sign-off** | Attending | Clinical approval |
+| **Final sign-off** | Attending | [[KEYWORD-Clinical|clinical]] approval |
 
 ### Interpretation Standards
 - **Reference ranges** — Age and sex specific
@@ -81,7 +81,7 @@ Quality checkpoints throughout the metabolomics testing and interpretation proce
 | Test | Target TAT | Maximum TAT |
 |------|------------|-------------|
 | **OAT** | 5 business days | 7 days |
-| **Fatty acids** | 5 business days | 7 days |
+| **[[KEYWORD-Fatty_Acids|fatty acids]]** | 5 business days | 7 days |
 | **Combined report** | 7 business days | 10 days |
 
 ## Continuous Quality Improvement

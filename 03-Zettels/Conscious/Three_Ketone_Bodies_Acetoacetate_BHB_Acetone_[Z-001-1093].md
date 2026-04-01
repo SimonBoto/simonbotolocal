@@ -25,7 +25,7 @@ The liver produces three ketone bodies from fatty acid oxidation: acetoacetate, 
 - **Formula:** C₄H₆O₃
 - **Production:** First ketone body synthesized
 
-### Metabolism
+### [[KEYWORD-Metabolism|metabolism]]
 - Converted to BHB (reversible) or acetone (irreversible)
 - Transported to tissues for energy
 - Decarboxylates spontaneously to acetone
@@ -74,7 +74,7 @@ Acetoacetate ←→ BHB
 ```
 
 **Enzyme:** Beta-hydroxybutyrate dehydrogenase (reversible)
-- Location: Mitochondria
+- Location: [[KEYWORD-Mitochondria|mitochondria]]
 - Cofactor: NAD⁺/NADH
 - Equilibrium favors BHB under reducing conditions
 
@@ -87,7 +87,7 @@ Acetoacetate ←→ BHB
 | **Breath acetone** | Acetone proxy | Non-invasive, research use |
 
 ## Related
-- [[Ketogenesis_Mechanism_Liver_Mitochondria_[Z-001-1094].md]]
+- [[Ketogenesis_[[KEYWORD-Mechanism|mechanism]]_Liver_Mitochondria_[Z-001-1094].md]]
 - [[BHB_Hydroxyacid_Not_True_Ketone_[Z-001-1095].md]]
 - [[MOC-Ketogenesis]]
 

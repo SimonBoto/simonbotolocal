@@ -45,7 +45,7 @@ Cystathionine → Cysteine + α-Ketobutyrate + NH₃
 **Low SAM:**
 - CBS inhibited
 - Conserves methionine
-- Favors remethylation
+- Favors re[[KEYWORD-Methylation|methylation]]
 
 **Vitamin B6:**
 - Required for both steps

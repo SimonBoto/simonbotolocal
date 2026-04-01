@@ -39,7 +39,7 @@ Dysbiosis stands alongside:
 | **Short-chain fatty acids (SCFAs)** | Butyrate, propionate, acetate | Fiber fermentation | Gut barrier, immune regulation |
 | **Bile acid metabolites** | Deoxycholic acid, lithocholic acid | Bile acid modification | Metabolic signaling, cancer risk |
 | **Tryptophan metabolites** | Indole, indole-3-lactic acid | Tryptophan conversion | Aryl hydrocarbon receptor signaling |
-| **Phenolic compounds** | p-cresol, phenylacetylglutamine | Amino acid metabolism | Uremic toxins, cardiovascular risk |
+| **Phenolic compounds** | p-cresol, phenylacetylglutamine | Amino acid [[KEYWORD-Metabolism|metabolism]] | Uremic toxins, cardiovascular risk |
 | **Lipopolysaccharide (LPS)** | Lipid A | Gram-negative bacteria | Systemic inflammation, endotoxemia |
 | **Vitamins** | B12, K2, folate | Microbial synthesis | Nutrient status |
 
@@ -92,7 +92,7 @@ Dietary factors (fiber, fat, toxins)
 
 ## Connection to METHAP Trial
 
-### The Gut-Vitamin D-IR Axis
+### The Gut-[[KEYWORD-Vitamin_D|vitamin d]]-IR Axis
 
 Emerging evidence suggests:
 1. **Vitamin D** modulates gut microbiome composition
@@ -120,7 +120,7 @@ Emerging evidence suggests:
 
 ### Downstream
 - [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]] — Dysbiosis-IR link
-- [[MOC-Vitamin-D-Mechanisms]] — VitD-gut axis
+- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]] — VitD-gut axis
 
 ### Cross-Domain
 - [[MOC-PhD-METHAP-Trial]] — Trial integration

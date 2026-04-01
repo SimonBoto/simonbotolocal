@@ -123,7 +123,7 @@ Mass spectrometers are **not stable** over time. Sensitivity, resolution, and ma
 - IS recovery percentages
 - CV for QC samples (< 20% acceptable)
 
-## Impact on Biomarker Discovery
+## Impact on [[KEYWORD-Biomarker|biomarker]] Discovery
 
 ### Uncorrected Drift Consequences
 - 20-50% of "significant" findings = drift artifacts
@@ -138,7 +138,7 @@ Mass spectrometers are **not stable** over time. Sensitivity, resolution, and ma
 - Regulatory approval (if diagnostic)
 
 ## Related Zettels
-- [[Batch_Effects_Detection_Correction_Metabolomics_[Z-001-0939].md]] — Between-run variation
+- [[Batch_Effects_Detection_Correction_[[KEYWORD-Metabolomics|metabolomics]]_[Z-001-0939].md]] — Between-run variation
 - [[Sample_Preparation_Variability_Control_[Z-001-0940].md]] — Pre-analytical variation
 
 ## Source
@@ -150,6 +150,6 @@ Mass spectrometers are **not stable** over time. Sensitivity, resolution, and ma
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[MOC-Biomarkers|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

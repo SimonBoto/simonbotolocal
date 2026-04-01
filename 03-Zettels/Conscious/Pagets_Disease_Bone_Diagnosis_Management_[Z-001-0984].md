@@ -76,7 +76,7 @@ Result: Disorganized woven bone, enlarged, weak
 - Osteosarcoma (<1%)
 - Giant cell tumor
 
-## Clinical Features
+## [[KEYWORD-Clinical|clinical]] Features
 
 ### Symptoms
 
@@ -107,7 +107,7 @@ Result: Disorganized woven bone, enlarged, weak
 **Other Markers:**
 - Bone resorption markers (CTX, NTX): Elevated
 - Bone formation markers (P1NP): Elevated
-- Calcium: Normal (unless immobilized)
+- [[KEYWORD-Calcium|calcium]]: Normal (unless immobilized)
 - Phosphate: Normal
 - PTH: Normal or slightly elevated
 
@@ -191,7 +191,7 @@ Result: Disorganized woven bone, enlarged, weak
 | **Risedronate** | 30 mg PO daily x 2 months | Variable |
 | **Pamidronate** | 60-90 mg IV | 1 year |
 
-**Mechanism:**
+**[[KEYWORD-Mechanism|mechanism]]:**
 - Inhibit osteoclasts
 - Reduce bone turnover
 - Normalize ALP

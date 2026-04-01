@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]]
 status: conscious
 ---
 
-# Mitochondrial Dysfunction in Immune Cell Activation
+# [[KEYWORD-Mitochondria|mitochondria]]l Dysfunction in Immune Cell Activation
 
 ## Metabolic Reprogramming in Activated T Cells
 
@@ -111,7 +111,7 @@ status: conscious
 - Antimicrobial defense
 - Redox signaling
 
-**Harmful (in chronic inflammation):**
+**Harmful (in chronic [[KEYWORD-Inflammation|inflammation]]):**
 - Tissue damage
 - Telomere shortening
 - Cellular senescence
@@ -123,7 +123,7 @@ status: conscious
 ### Mitochondrial Support
 **Potential Interventions:**
 - CoQ10: ETC function
-- Alpha-lipoic acid: Antioxidant, mitochondrial metabolism
+- Alpha-lipoic acid: Antioxidant, mitochondrial [[KEYWORD-Metabolism|metabolism]]
 - L-carnitine: Fatty acid transport
 - B-vitamins: Mitochondrial cofactors
 

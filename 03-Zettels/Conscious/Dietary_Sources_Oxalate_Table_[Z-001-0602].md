@@ -11,7 +11,7 @@ confidence: high
 created: 2026-03-04
 ---
 
-# Dietary Sources of Oxalate
+# Dietary Sources of [[KEYWORD-Oxalate|oxalate]]
 
 ## Very High Oxalate Foods (>100 mg/serving)
 
@@ -53,9 +53,9 @@ created: 2026-03-04
 - Cauliflower, cabbage
 - Milk, cheese, yogurt
 
-## Clinical Relevance
+## [[KEYWORD-Clinical|clinical]] Relevance
 
-**Kidney stone risk:** High oxalate intake increases urinary oxalate excretion, raising calcium oxalate stone risk.
+**Kidney stone risk:** High oxalate intake increases urinary oxalate excretion, raising [[KEYWORD-Calcium|calcium]] oxalate stone risk.
 
 **Management:** Low-oxalate diet (<50 mg/day) for stone formers; moderate intake for general population.
 

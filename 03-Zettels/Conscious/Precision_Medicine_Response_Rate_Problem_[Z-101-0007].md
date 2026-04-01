@@ -30,9 +30,9 @@ Approved therapies for chronic diseases show only 30-60% effectiveness, with sig
 
 **The problem:** Medicine treats chronic diseases like acute conditions — waiting for organ damage before intervening, then using empirical rather than stratified approaches.
 
-**Solution:** Pharmacometabolomics enables responder stratification before treatment, matching therapy to metabolic profile rather than trial-and-error.
+**Solution:** Pharmaco[[KEYWORD-Metabolomics|metabolomics]] enables responder stratification before treatment, matching therapy to metabolic profile rather than trial-and-error.
 
-**METHAP Application:** Vitamin D response is heterogeneous. Metabolic biomarkers (adipic acid panel) can identify likely responders before intervention, optimizing resource allocation and patient outcomes.
+**METHAP Application:** [[KEYWORD-Vitamin_D|vitamin d]] response is heterogeneous. Metabolic [[KEYWORD-Biomarker|biomarker]]s (adipic acid panel) can identify likely responders before intervention, optimizing resource allocation and patient outcomes.
 
 ## Key Details
 

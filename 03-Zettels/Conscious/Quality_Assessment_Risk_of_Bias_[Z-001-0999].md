@@ -319,7 +319,7 @@ Quality assessment evaluates the methodological rigor of included studies. Risk 
 - Incorporate into synthesis via sensitivity analyses
 - GRADE provides overall certainty rating
 
-**Clinical Pearl:** A meta-analysis is only as trustworthy as the studies included. Rigorous risk of bias assessment distinguishes rigorous reviews from simple aggregations.
+**[[KEYWORD-Clinical|clinical]] Pearl:** A meta-analysis is only as trustworthy as the studies included. Rigorous risk of bias assessment distinguishes rigorous reviews from simple aggregations.
 
 ---
 

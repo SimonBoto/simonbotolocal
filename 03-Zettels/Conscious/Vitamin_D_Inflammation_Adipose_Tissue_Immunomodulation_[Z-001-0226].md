@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]]
 extraction-date: 2026-03-01
 ---
 
-# Vitamin D and Inflammation in Adipose Tissue
+# [[KEYWORD-Vitamin_D|vitamin d]] and Inflammation in Adipose Tissue
 
 > Vitamin D exerts potent anti-inflammatory effects in adipose tissue, modulating adipokine production, macrophage polarization, and inflammatory signaling pathways that drive metabolic dysfunction in obesity and metabolic syndrome.
 
@@ -140,7 +140,7 @@ extraction-date: 2026-03-01
 - Shifts macrophage polarization anti-inflammatory
 - Improves insulin sensitivity
 
-### Expected Biomarker Changes
+### Expected [[KEYWORD-Biomarker|biomarker]] Changes
 | Marker | Expected Change |
 |--------|-----------------|
 | **CRP** | 10-30% reduction |
@@ -171,6 +171,6 @@ This provides strong rationale for high-dose vitamin D in METHAP protocol.
 *Extracted: 2026-03-01*
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

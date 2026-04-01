@@ -14,7 +14,7 @@ status: conscious
 
 ## The Problem
 
-Clinical teams face severe time constraints:
+[[KEYWORD-Clinical|clinical]] teams face severe time constraints:
 - Patient care is priority #1
 - No protected time for 1-2 hour meetings
 - Synchronous scheduling is nearly impossible
@@ -49,7 +49,7 @@ Clinical teams face severe time constraints:
 - Resources and references distributed
 
 ### Week 2-3: Asynchronous Work
-- Individual research and paper writing
+- Individual [[KEYWORD-Research|research]] and paper writing
 - Optional peer review via pull requests
 - Questions/discussion in issue threads
 

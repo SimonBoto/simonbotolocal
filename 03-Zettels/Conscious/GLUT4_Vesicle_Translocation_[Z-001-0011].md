@@ -15,9 +15,9 @@ created: 2026-02-22
 
 # GLUT4 Vesicle Translocation
 
-Insulin stimulates glucose uptake by triggering GLUT4 vesicle translocation to the plasma membrane in muscle and adipose tissue.
+[[KEYWORD-Insulin|insulin]] stimulates glucose uptake by triggering GLUT4 vesicle translocation to the plasma membrane in muscle and adipose tissue.
 
-**Mechanism:**
+**[[KEYWORD-Mechanism|mechanism]]:**
 1. Akt phosphorylates AS160 (Akt substrate of 160 kDa) at multiple sites
 2. Phosphorylated AS160 loses GAP activity for Rab proteins
 3. Active Rab proteins promote GLUT4 vesicle trafficking

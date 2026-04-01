@@ -12,7 +12,7 @@ confidence: high
 created: 2026-03-27
 ---
 
-# Independent Review and IRB in Research Ethics
+# Independent Review and IRB in [[KEYWORD-Research|research]] Ethics
 
 A neutral body must independently review research protocols to ensure unbiased ethical judgment. Institutional Review Boards (IRBs) serve as community representatives and ethical gatekeepers.
 
@@ -31,7 +31,7 @@ A neutral body must independently review research protocols to ensure unbiased e
 ## IRB Composition Requirements
 
 - Scientific expertise
-- Clinical expertise
+- [[KEYWORD-Clinical|clinical]] expertise
 - Legal/ethics expertise
 - Community representation
 - Diversity of perspectives
@@ -74,7 +74,7 @@ METHAP requires:
 
 
 ## Related
-- [[METHAP_Metabolomics_Analysis_Plan_[Z-002-0620]|Z-002-0620]]
+- [[METHAP_[[KEYWORD-Metabolomics|metabolomics]]_Analysis_Plan_[Z-002-0620]|Z-002-0620]]
 
 
 ## RELATED FILES

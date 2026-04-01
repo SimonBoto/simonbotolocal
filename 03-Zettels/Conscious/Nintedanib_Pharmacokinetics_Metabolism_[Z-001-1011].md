@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Nintedanib_Ofev_TKI_L-001-0583]]
 status: conscious
 ---
 
-# Nintedanib Pharmacokinetics and Metabolism — Esterases, UGTs, and CYP3A4
+# Nintedanib Pharmacokinetics and [[KEYWORD-Metabolism|metabolism]] — Esterases, UGTs, and CYP3A4
 
 ## Overview
 
@@ -53,7 +53,7 @@ UGT-mediated glucuronidation
 - Hydrolyze ester bond
 - Form pharmacologically active metabolite
 
-**Clinical Significance:**
+**[[KEYWORD-Clinical|clinical]] Significance:**
 - Major pathway (~25% of dose)
 - Esterase inhibitors could increase nintedanib levels
 - Limited clinically significant interactions known

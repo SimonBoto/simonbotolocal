@@ -13,7 +13,7 @@ created: 2026-03-03
 source-litnote: Synthesized from clinical practice
 ---
 
-# Biomarker Validation Pipeline Requirements
+# [[KEYWORD-Biomarker|biomarker]] Validation Pipeline Requirements
 
 ## Core Concept
 
@@ -30,7 +30,7 @@ Biomarker discovery without systematic validation is **hypothesis generation**, 
 | **Analysis** | High-dimensional screen (3,000+ features) |
 | **Threshold** | FDR = 0.1 acceptable |
 | **Goal** | Generate candidate list |
-| **Claim** | "Candidate biomarkers identified" |
+| **Claim** | "Candidate [[KEYWORD-Biomarker|biomarkers]] identified" |
 | **Next step** | Verification |
 
 **Key Requirements:**
@@ -171,7 +171,7 @@ Unvalidated findings presented as definitive.
 ## METHAP Standards
 
 ### For PhD Trial
-1. **Discovery:** Untargeted metabolomics (FDR = 0.1)
+1. **Discovery:** Untargeted [[KEYWORD-Metabolomics|metabolomics]] (FDR = 0.1)
 2. **Verification:** Targeted assay, independent split
 3. **Validation:** Independent cohort (future work)
 

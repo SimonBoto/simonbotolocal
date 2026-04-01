@@ -243,7 +243,7 @@ Average glucose (mg/dL) = (28.7 × HbA1c) - 46.7
 **Approaches:**
 - Low carbohydrate diet
 - Time-restricted eating
-- Exercise (improves insulin sensitivity)
+- Exercise (improves [[KEYWORD-Insulin|insulin]] sensitivity)
 - Sleep optimization
 - Stress management
 - Medications if needed
@@ -330,7 +330,7 @@ Average glucose (mg/dL) = (28.7 × HbA1c) - 46.7
 
 ### Anti-Aging Medicine
 
-**HbA1c as Biomarker:**
+**HbA1c as [[KEYWORD-Biomarker|biomarker]]:**
 - Lower = slower aging
 - <5.5% optimal for longevity
 - Glycation accelerates all hallmarks of aging
@@ -370,6 +370,6 @@ Average glucose (mg/dL) = (28.7 × HbA1c) - 46.7
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

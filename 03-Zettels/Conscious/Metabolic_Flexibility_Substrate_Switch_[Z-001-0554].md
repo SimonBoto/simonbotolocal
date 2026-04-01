@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Metabolic Flexibility — Substrate Switch
 
-> Metabolic flexibility is the capacity to shift between glucose and fatty acid oxidation based on availability and demand — a hallmark of healthy mitochondrial function.
+> Metabolic flexibility is the capacity to shift between glucose and fatty acid oxidation based on availability and demand — a hallmark of healthy [[KEYWORD-Mitochondria|mitochondria]]l function.
 
 ## Healthy State
 
@@ -24,8 +24,8 @@ extraction-date: 2026-03-01
 ## Dysfunctional State
 
 - **Glucose dependency:** Cannot access fat
-- **Insulin resistance:** Impaired uptake
-- **Rigid metabolism:** Stuck in one mode
+- **[[KEYWORD-Insulin|insulin]] resistance:** Impaired uptake
+- **Rigid [[KEYWORD-Metabolism|metabolism]]:** Stuck in one mode
 
 ## The Shift
 

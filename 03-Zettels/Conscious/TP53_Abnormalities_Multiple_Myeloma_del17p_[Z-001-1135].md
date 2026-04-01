@@ -24,9 +24,9 @@ TP53 abnormalities, particularly deletion of chromosome 17p (del(17p)) containin
 | Feature | Description |
 |---------|-------------|
 | **Frequency** | 5-10% newly diagnosed; 20-50% relapsed |
-| **Mechanism** | Loss of one TP53 allele |
+| **[[KEYWORD-Mechanism|mechanism]]** | Loss of one TP53 allele |
 | **Detection** | FISH (fluorescence in situ hybridization) |
-| **Threshold** | ≥10% cells with del(17p) clinically significant |
+| **Threshold** | ≥10% cells with del(17p) [[KEYWORD-Clinical|clinical]]ly significant |
 
 ### TP53 Mutations
 | Feature | Description |
@@ -101,7 +101,7 @@ TP53 abnormalities, particularly deletion of chromosome 17p (del(17p)) containin
 | **Clinical trial** | Eligibility |
 
 ## Related
-- [[p53_Function_Loss_Cancer_Consequences_[Z-001-1136].md]]
+- [[p53_Function_Loss_[[KEYWORD-Cancer|cancer]]_Consequences_[Z-001-1136].md]]
 - [[Targeting_p53_Dysfunction_MDM2_Inhibitors_[Z-001-1137].md]]
 - [[MOC-Hematology-Oncology]]
 

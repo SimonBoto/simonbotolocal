@@ -15,7 +15,7 @@ status: conscious
 
 ## Overview
 
-Institutional Review Boards (IRBs) in the U.S. and Research Ethics Committees (RECs) internationally provide independent review to ensure protection of human research participants.
+Institutional Review Boards (IRBs) in the U.S. and [[KEYWORD-Research|research]] Ethics Committees (RECs) internationally provide independent review to ensure protection of human research participants.
 
 ## Purpose and Authority
 
@@ -145,7 +145,7 @@ Institutional Review Boards (IRBs) in the U.S. and Research Ethics Committees (R
 - Requirements of 46.116 met
 - Documented (46.117)
 
-**5. Data Safety Monitoring:**
+**5. Data [[KEYWORD-Safety|safety]] Monitoring:**
 - When appropriate, data monitoring
 - Stop rules if harm
 

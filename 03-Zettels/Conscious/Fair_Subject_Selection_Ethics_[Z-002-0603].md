@@ -42,9 +42,9 @@ Groups requiring enhanced protections:
 ## Application to METHAP
 
 METHAP inclusion/exclusion criteria must be justified:
-- **Inclusion:** Adults 18-65 with metabolic syndrome features
-- **Exclusion:** Pregnancy, severe renal disease (oxalate concerns)
-- **Rationale:** Adipic acid metabolism differs in excluded conditions
+- **Inclusion:** Adults 18-65 with [[KEYWORD-Metabolic_Syndrome|metabolic syndrome]] features
+- **Exclusion:** Pregnancy, severe renal disease ([[KEYWORD-Oxalate|oxalate]] concerns)
+- **Rationale:** Adipic acid [[KEYWORD-Metabolism|metabolism]] differs in excluded conditions
 - **Protection:** Clear withdrawal criteria, independent ethics oversight
 
 ## Links

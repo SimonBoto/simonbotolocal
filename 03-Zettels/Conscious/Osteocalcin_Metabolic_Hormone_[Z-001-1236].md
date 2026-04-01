@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Osteocalcin is a vitamin K-dependent protein produced by osteoblasts. Once thought to be only a bone matrix protein, it's now recognized as a metabolic hormone regulating insulin sensitivity, energy metabolism, and male fertility.
+Osteocalcin is a vitamin K-dependent protein produced by osteoblasts. Once thought to be only a bone matrix protein, it's now recognized as a metabolic hormone regulating [[KEYWORD-Insulin|insulin]] sensitivity, energy [[KEYWORD-Metabolism|metabolism]], and male fertility.
 
 ---
 
@@ -38,7 +38,7 @@ Osteocalcin is a vitamin K-dependent protein produced by osteoblasts. Once thoug
 
 ---
 
-## Vitamin D and K2 Regulation
+## [[KEYWORD-Vitamin_D|vitamin d]] and K2 Regulation
 
 ### Vitamin D
 - **Effect:** Increases osteocalcin gene expression

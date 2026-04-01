@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]]"
 status: conscious
 ---
 
-# Naive T-Cell Depletion in Autoimmunity
+# Naive T-Cell Depletion in [[KEYWORD-Autoimmunity|autoimmunity]]
 
 ## The Shift in T-Cell Compartments
 
@@ -30,7 +30,7 @@ status: conscious
 
 ---
 
-## Mechanisms of Naive Cell Loss
+## [[KEYWORD-Mechanism|mechanism]]s of Naive Cell Loss
 
 ### 1. Chronic Activation
 - Persistent antigen stimulation (self-antigens)
@@ -54,7 +54,7 @@ status: conscious
 
 ---
 
-## Clinical Consequences
+## [[KEYWORD-Clinical|clinical]] Consequences
 
 ### Impaired Response to New Antigens
 **Vaccines:**

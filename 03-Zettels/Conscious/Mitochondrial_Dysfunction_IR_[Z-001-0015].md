@@ -13,9 +13,9 @@ confidence: medium
 created: 2026-02-22
 ---
 
-# Mitochondrial Dysfunction and Insulin Resistance
+# Mitochondrial Dysfunction and [[KEYWORD-Insulin|insulin]] Resistance
 
-Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid intermediates, contributing to insulin resistance.
+Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid intermediates, contributing to [[KEYWORD-Insulin_Resistance|insulin resistance]].
 
 **Mechanisms:**
 
@@ -47,4 +47,4 @@ Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid inte
 
 **Also in:** [[MOC-Metabolic-Syndrome]]
 
-**Metabolomics connection:** Elevated acylcarnitines mark incomplete oxidation
+**[[KEYWORD-Metabolomics|metabolomics]] connection:** Elevated acylcarnitines mark incomplete oxidation

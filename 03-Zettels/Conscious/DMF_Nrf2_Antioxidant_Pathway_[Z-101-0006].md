@@ -23,7 +23,7 @@ Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antiox
    - Glutamate-cysteine ligase (glutathione synthesis)
    - Glutathione transferase (xenobiotic detoxification)
    - Pentose phosphate pathway enzymes (NADPH production)
-3. Lipid metabolism modulation
+3. Lipid [[KEYWORD-Metabolism|metabolism]] modulation
 4. CD8+ T-cell number reduction
 
 **Nrf2 functions:**
@@ -34,7 +34,7 @@ Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antiox
 
 **Clinical:** Multiple sclerosis (Tecfidera), psoriasis.
 
-**METHAP Relevance:** Nrf2 activation is antioxidant and anti-inflammatory. Vitamin D also modulates Nrf2 pathway, and oxidative stress biomarkers (8-OHdG, 2-HBA, pyroglutamate from DE3) may predict treatment response — shared mechanism rationale.
+**METHAP Relevance:** Nrf2 activation is antioxidant and anti-inflammatory. [[KEYWORD-Vitamin_D|vitamin d]] also modulates Nrf2 pathway, and oxidative stress biomarkers (8-OHdG, 2-HBA, pyroglutamate from DE3) may predict treatment response — shared mechanism rationale.
 
 ## Key Details
 
@@ -50,7 +50,7 @@ Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antiox
 ## Links
 
 - **Upstream:** [[Mitochondrial_Dysfunction_IR_Z-001-0030.md]] — Mitochondrial dysfunction and oxidative stress
-- **Parallel:** [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]] — Oxidative stress biomarkers
+- **Parallel:** [[Oxidative_Stress_Biomarkers_[[KEYWORD-Metabolomics|metabolomics]]_Z-001-0020.md]] — Oxidative stress biomarkers
 - **Downstream:** [[MOC-Nrf2]], [[MOC-MS]]
 
 ## Context

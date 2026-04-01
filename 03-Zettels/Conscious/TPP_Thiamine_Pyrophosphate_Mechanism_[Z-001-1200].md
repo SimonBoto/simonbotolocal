@@ -10,11 +10,11 @@ source-litnote: "[[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630]
 status: conscious
 ---
 
-# TPP — Thiamine Pyrophosphate Mechanism and Enzymes
+# TPP — Thiamine Pyrophosphate [[KEYWORD-Mechanism|mechanism]] and Enzymes
 
 ## Overview
 
-Thiamine pyrophosphate (TPP) is the active form of vitamin B1 (thiamine). It serves as an essential cofactor for several critical decarboxylation reactions in energy metabolism.
+Thiamine pyrophosphate (TPP) is the active form of vitamin B1 (thiamine). It serves as an essential cofactor for several critical decarboxylation reactions in energy [[KEYWORD-Metabolism|metabolism]].
 
 ---
 
@@ -111,7 +111,7 @@ Degrades branched-chain amino acid derivatives
 ## Thiamine Deficiency — Beriberi
 
 ### Causes
-- Malnutrition (polished rice diet)
+- Mal[[KEYWORD-Nutrition|nutrition]] (polished rice diet)
 - Alcoholism (malnutrition + impaired absorption)
 - Dialysis (water-soluble vitamin loss)
 - Bariatric surgery

@@ -30,12 +30,12 @@ extraction-date: 2026-03-01
 - Early indicator of deficiency
 
 **Specific for B12:**
-- Not affected by folate status
+- Not affected by [[KEYWORD-Folate|folate]] status
 - Differentiates from folate deficiency
 
 **Functional Marker:**
 - Reflects tissue status
-- Cellular/mitochondrial B12
+- Cellular/[[KEYWORD-Mitochondria|mitochondria]]l B12
 
 ## When to Use
 
@@ -44,7 +44,7 @@ extraction-date: 2026-03-01
 - Confirming deficiency
 - Monitoring treatment
 
-## Clinical Pearl
+## [[KEYWORD-Clinical|clinical]] Pearl
 
 **Elevated MMA + Normal B12 =** Functional deficiency, tissue deficiency
 

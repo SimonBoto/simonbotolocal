@@ -39,13 +39,13 @@ Permutation tests determine whether OPLS-DA model separation is **better than ra
 - **Validate biological relevance:** Only tests statistical separation
 - **Detect overfitting to technical noise:** Random noise can separate groups
 - **Replace external validation:** Internal test only
-- **Prove biomarker utility:** Does not assess effect sizes or clinical relevance
+- **Prove [[KEYWORD-Biomarker|biomarker]] utility:** Does not assess effect sizes or [[KEYWORD-Clinical|clinical]] relevance
 
 ### Common Misinterpretations
 **Myth:** "Q2 intercept < 0 means model is valid and not overfitted"
 **Reality:** Model passes permutation test yet still overfits to batch effects
 
-**Myth:** "Permutation test proves biomarkers are real"
+**Myth:** "Permutation test proves [[KEYWORD-Biomarker|biomarkers]] are real"
 **Reality:** Only proves separation is non-random, not biologically meaningful
 
 ## Integration with Other Validation

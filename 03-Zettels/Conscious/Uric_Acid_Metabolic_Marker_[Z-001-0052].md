@@ -18,7 +18,7 @@ source-litnote: Synthesized from clinical practice
 
 # Uric Acid — Metabolic Marker Beyond Gout
 
-**Uric acid** is the end product of purine metabolism. While traditionally associated with gout, it's now recognized as a **marker of metabolic syndrome** and independent cardiovascular risk factor. The optimal target is **<5.5 mg/dL**, well below the standard "normal" range.
+**Uric acid** is the end product of purine [[KEYWORD-Metabolism|metabolism]]. While traditionally associated with gout, it's now recognized as a **marker of metabolic syndrome** and independent cardiovascular risk factor. The optimal target is **<5.5 mg/dL**, well below the standard "normal" range.
 
 ---
 
@@ -134,6 +134,6 @@ patient_id,visit,uric_acid_mg_dl,uric_acid_target_status
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
 

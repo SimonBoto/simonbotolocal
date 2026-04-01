@@ -45,7 +45,7 @@ The distinction between **exploratory** (hypothesis-generating) and **confirmato
 - No pre-specified primary outcomes
 - Multiple comparisons acceptable with FDR control
 
-🔍 **Biomarker discovery paradigm**
+🔍 **[[KEYWORD-Biomarker|biomarker]] discovery paradigm**
 - Screen thousands of features
 - Identify candidates for follow-up
 - Prioritize by effect size + biological plausibility
@@ -69,7 +69,7 @@ The distinction between **exploratory** (hypothesis-generating) and **confirmato
 ### Common Pitfalls ("Exploratory Excuse")
 
 ❌ **Don't say:**
-> "We identified significant biomarkers for gastric cancer" (from underpowered exploratory study)
+> "We identified significant [[KEYWORD-Biomarker|biomarkers]] for gastric cancer" (from underpowered exploratory study)
 
 ❌ **Red flags:**
 - Presenting exploratory findings as definitive
@@ -142,7 +142,7 @@ The distinction between **exploratory** (hypothesis-generating) and **confirmato
 ## The Gastric Cancer Case Study Assessment
 
 ### What the Study Did
-- Exploratory metabolomics screen
+- Exploratory [[KEYWORD-Metabolomics|metabolomics]] screen
 - FDR = 0.1 applied
 - Presented 63 "significant" metabolites
 - Mentioned validation as future work

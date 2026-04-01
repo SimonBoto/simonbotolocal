@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]
 extraction-date: 2026-03-01
 ---
 
-# Mediterranean Diet — Evidence and Mechanisms
+# Mediterranean Diet — Evidence and [[KEYWORD-Mechanism|mechanism]]s
 
-> The Mediterranean dietary pattern, characterized by high olive oil consumption, consistently demonstrates cardiovascular and metabolic benefits in clinical trials.
+> The Mediterranean dietary pattern, characterized by high olive oil consumption, consistently demonstrates cardiovascular and metabolic benefits in [[KEYWORD-Clinical|clinical]] trials.
 
 ## PREDIMED (2013)
 
@@ -52,7 +52,7 @@ extraction-date: 2026-03-01
 **Beyond Oleic Acid:**
 - Polyphenols (hydroxytyrosol)
 - Fiber from vegetables/legumes
-- Omega-3 from fish
+- [[KEYWORD-Omega_3|omega-3]] from fish
 - Social pattern, physical activity
 
 **Synergy:**

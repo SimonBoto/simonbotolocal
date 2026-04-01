@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]]
 extraction-date: 2026-03-01
 ---
 
-# Mitochondrial Nutrient Deficiency Patterns
+# [[KEYWORD-Mitochondria|mitochondria]]l Nutrient Deficiency Patterns
 
-> Specific nutrient deficiencies underlie mitochondrial dysfunction, with organic acid patterns revealing which cofactors are lacking.
+> Specific nutrient deficiencies underlie [[KEYWORD-Mitochondria|mitochondrial]] dysfunction, with organic acid patterns revealing which cofactors are lacking.
 
 ## Critical Cofactors
 
@@ -42,7 +42,7 @@ extraction-date: 2026-03-01
 
 ```
 Citrate + aconitate ↑ → Mg deficiency, Fe-S cluster
-Multiple TCA ↑ → Multiple B-vitamin deficiency
+Multiple TCA ↑ → Multiple B-[[KEYWORD-Vitamin_D|vitamin d]]eficiency
 3-HMGA ↑ → Carnitine deficiency
 General dysfunction → CoQ10 deficiency
 ```

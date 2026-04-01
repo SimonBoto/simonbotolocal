@@ -86,9 +86,9 @@ Free base + PRPP → Nucleotide (direct, bypassing nucleoside)
 **Enzyme:** HGPRT (hypoxanthine-guanine phosphoribosyltransferase)
 
 ### De Novo Synthesis
-Builds nucleotides from simple precursors (amino acids, CO₂, formate)
+Builds nucleotides from simple precursors ([[KEYWORD-Amino_Acids|amino acids]], CO₂, formate)
 
-## Clinical Relevance
+## [[KEYWORD-Clinical|clinical]] Relevance
 
 ### Lesch-Nyhan Syndrome
 **HGPRT deficiency:**
@@ -114,7 +114,7 @@ Builds nucleotides from simple precursors (amino acids, CO₂, formate)
 - [[ATP_Universal_Energy_Currency_[Z-101-0451]]] ATP as Universal Energy Currency
 - [[Ribose_Structure_RNA_Backbone_[Z-001-0458]]] Ribose Structure (sugar component)
 - [[Amino_Acids_vs_Nucleobases_[Z-101-0462]]] Amino Acids vs Nucleobases (both phosphorylated)
-- [[MOC-Nucleotide-Metabolism]]
+- [[MOC-Nucleotide-[[KEYWORD-Metabolism|metabolism]]]]
 
 ---
 *Source: CGPT-0445 extraction (Messages 21-24) | Created: 2026-03-04*

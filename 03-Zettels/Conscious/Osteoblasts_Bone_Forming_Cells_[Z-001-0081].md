@@ -19,8 +19,8 @@ Osteoblasts are derived from mesenchymal stem cells. They synthesize new bone ma
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
-**Source:** [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
+**Source:** [[LitNote_Bone_Remodeling_Cellular_[[KEYWORD-Mechanism|mechanism]]s_L-001-0011]]
 **Related:** [[Osteoclasts_Bone_Resorbing_Cells_[Z-001-0080].md]], [[Bone_Remodeling_Cycle_Five_Phases_[Z-001-0083].md]]
 
 ---

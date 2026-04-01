@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Matrix Gla-Protein (MGP) is the most potent natural inhibitor of vascular calcification. It requires both vitamin D (for synthesis) and vitamin K2 (for activation via carboxylation) to function properly.
+Matrix Gla-Protein (MGP) is the most potent natural inhibitor of vascular calcification. It requires both [[KEYWORD-Vitamin_D|vitamin d]] (for synthesis) and vitamin K2 (for activation via carboxylation) to function properly.
 
 ---
 
@@ -77,7 +77,7 @@ not transformed into bone-like tissue
 
 **MGP protection especially important in MetS**
 
-### Biomarker: dp-ucMGP
+### [[KEYWORD-Biomarker|biomarker]]: dp-ucMGP
 | Marker | Interpretation |
 |--------|----------------|
 | **desphospho-uncarboxylated MGP (dp-ucMGP)** | Inactive form — higher = deficiency |
@@ -110,6 +110,6 @@ not transformed into bone-like tissue
 
 *Source: [[LitNote_VitD_K2_Synergy_MetS_L-001-0639]] | 2026-03-09*
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

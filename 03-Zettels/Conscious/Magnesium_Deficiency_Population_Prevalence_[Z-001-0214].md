@@ -30,7 +30,7 @@ extraction-date: 2026-03-01
 ### High-Risk Groups
 | Population | Deficiency Rate | Risk Factors |
 |------------|-----------------|--------------|
-| **Metabolic syndrome** | 65-80% | Poor diet, insulin resistance |
+| **Metabolic syndrome** | 65-80% | Poor diet, [[KEYWORD-Insulin|insulin]] resistance |
 | **Type 2 diabetes** | 25-38% | Osmotic diuresis, poor diet |
 | **Elderly** | 67-80% | Reduced absorption, medications |
 | **Alcoholics** | 30-60% | Poor nutrition, increased excretion |
@@ -74,7 +74,7 @@ extraction-date: 2026-03-01
 ### 4. Chronic Diseases
 **Diabetes Mellitus:**
 - Osmotic diuresis causes urinary Mg losses
-- Insulin resistance reduces cellular uptake
+- [[KEYWORD-Insulin_Resistance|insulin resistance]] reduces cellular uptake
 - 25-38% of diabetics deficient
 
 **GI Disorders:**
@@ -97,7 +97,7 @@ extraction-date: 2026-03-01
 - Reduced cellular Mg uptake
 - Dietary factors (poor quality diet)
 
-**Inflammation:**
+**[[KEYWORD-Inflammation|inflammation]]:**
 - Inflammatory cytokines affect Mg distribution
 - Oxidative stress depletes Mg
 

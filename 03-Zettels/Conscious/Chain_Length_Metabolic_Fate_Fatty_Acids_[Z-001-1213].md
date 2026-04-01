@@ -24,7 +24,7 @@ The number of carbons in a fatty acid chain determines its absorption, transport
 |----------|---------|----------|--------------|
 | **SCFA** | < 6 | Butyrate (C4), Propionate (C3), Acetate (C2) | Gut bacterial production |
 | **MCFA** | 6-12 | Caprylic (C8), Capric (C10), Lauric (C12) | Rapid absorption, ketogenic |
-| **LCFA** | 13-21 | Palmitic (C16), Oleic (C18), EPA (C20) | Standard metabolism |
+| **LCFA** | 13-21 | Palmitic (C16), Oleic (C18), EPA (C20) | Standard [[KEYWORD-Metabolism|metabolism]] |
 | **VLCFA** | > 22 | Lignoceric (C24), Nervonic (C24:1) | Peroxisomal metabolism |
 
 ---
@@ -80,7 +80,7 @@ The number of carbons in a fatty acid chain determines its absorption, transport
 - No carnitine shuttle needed
 
 **β-Oxidation:**
-- Rapid mitochondrial entry
+- Rapid [[KEYWORD-Mitochondria|mitochondria]]l entry
 - No CPT-I required
 - Rapid ketone production
 
@@ -138,7 +138,7 @@ The number of carbons in a fatty acid chain determines its absorption, transport
 
 **β-Oxidation:**
 - Carnitine shuttle required (CPT-I/II)
-- Standard mitochondrial oxidation
+- Standard [[KEYWORD-Mitochondria|mitochondrial]] oxidation
 - Major energy source
 
 ---

@@ -21,7 +21,7 @@ extraction-date: 2026-03-01
 |-------|---------|--------|------------|----------|
 | **Chylomicrons** | Lowest | Intestine | Triglycerides | Dietary fat transport |
 | **VLDL** | Very low | Liver | Triglycerides | Endogenous fat transport |
-| **IDL** | Intermediate | VLDL | Cholesterol/TG | Transitional |
+| **IDL** | Intermediate | VLDL | [[KEYWORD-Cholesterol|cholesterol]]/TG | Transitional |
 | **LDL** | Low | IDL | Cholesterol | Cell delivery |
 | **HDL** | High | Liver | Phospholipids | Reverse transport |
 

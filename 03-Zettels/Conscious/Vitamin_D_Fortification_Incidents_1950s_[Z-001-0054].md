@@ -13,7 +13,7 @@ created: 2026-03-01
 status: conscious
 ---
 
-# Vitamin D Fortification Incidents 1950s
+# [[KEYWORD-Vitamin_D|vitamin d]] Fortification Incidents 1950s
 
 In the 1930s-1950s, widespread vitamin D fortification of milk and cereals to combat rickets led to manufacturing errors and over-fortification. In the 1950s UK and Europe, infants consuming over-fortified milk developed hypercalcemia, with symptoms including nausea, vomiting, weakness, and kidney damage.
 
@@ -28,7 +28,7 @@ In the 1930s-1950s, widespread vitamin D fortification of milk and cereals to co
 
 ## Links
 
-**Parent MOC:** [[MOC-Vitamin-Safety]]
+**Parent MOC:** [[MOC-Vitamin-[[KEYWORD-Safety|safety]]]]
 **Source:** [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
 **Related:** [[IIH_CYP24A1_Mutation_True_Cause_[Z-001-0055].md]]
 

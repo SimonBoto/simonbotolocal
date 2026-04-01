@@ -19,7 +19,7 @@ Fragility fractures—especially of the hip and vertebra—are associated with s
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
 **Source:** [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]]
 **Related:** [[Osteoporosis_T_score_Definition_Minus_2.5_[Z-001-0077].md]], [[FRAX_Fracture_Risk_Assessment_Tool_[Z-001-0079].md]]
 
@@ -29,4 +29,4 @@ Fragility fractures—especially of the hip and vertebra—are associated with s
 
 
 ## Related
-- [[Metabolic_Syndrome_Clinical_Manifestations_Presentation_[Z-001-0203]|Z-001-0203]]
+- [[Metabolic_Syndrome_[[KEYWORD-Clinical|clinical]]_Manifestations_Presentation_[Z-001-0203]|Z-001-0203]]

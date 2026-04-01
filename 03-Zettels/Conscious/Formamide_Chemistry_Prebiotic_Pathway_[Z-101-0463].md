@@ -11,7 +11,7 @@ created: 2026-03-04
 source: [[L-101-0045B]]
 ---
 
-# Formamide Chemistry: Alternative Prebiotic Pathway
+# Formamide [[KEYWORD-Chemistry|chemistry]]: Alternative Prebiotic Pathway
 
 ## The HCN Problem
 While HCN polymerization produces adenine, it has limitations:
@@ -28,9 +28,9 @@ While HCN polymerization produces adenine, it has limitations:
 | **Stability** | Volatile, toxic | Stable liquid (bp 210°C) |
 | **Abundance** | Requires specific synthesis | Forms readily from H₂O + HCN |
 | **Reactivity** | Highly reactive | Controllable reactions |
-| **Safety** | Toxic | Less toxic |
+| **[[KEYWORD-Safety|safety]]** | Toxic | Less toxic |
 
-## Formamide Chemistry Mechanism
+## Formamide Chemistry [[KEYWORD-Mechanism|mechanism]]
 
 ### Reaction Conditions
 ```

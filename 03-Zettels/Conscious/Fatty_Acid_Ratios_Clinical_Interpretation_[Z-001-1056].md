@@ -16,7 +16,7 @@ created: 2026-03-08
 # Fatty Acid Ratios Clinical Interpretation
 
 ## Overview
-Fatty acid ratios provide integrated biomarkers of dietary intake, inflammatory status, and metabolic health.
+Fatty acid ratios provide integrated [[KEYWORD-Biomarker|biomarker]]s of dietary intake, inflammatory status, and metabolic health.
 
 ## The AA/EPA Ratio (Inflammation Index)
 
@@ -73,9 +73,9 @@ Fatty acid ratios provide integrated biomarkers of dietary intake, inflammatory 
 - [[Phase_3_Lipidomics_Interpretation_[Z-001-1038].md]]
 
 ---
-*Source: CGPT-0022 — Fatty acid metabolism*
+*Source: CGPT-0022 — Fatty acid [[KEYWORD-Metabolism|metabolism]]*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

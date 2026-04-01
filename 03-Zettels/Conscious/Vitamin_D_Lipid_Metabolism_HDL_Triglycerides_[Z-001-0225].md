@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]]
 extraction-date: 2026-03-01
 ---
 
-# Vitamin D and Lipid Metabolism — HDL and Triglyceride Effects
+# [[KEYWORD-Vitamin_D|vitamin d]] and Lipid [[KEYWORD-Metabolism|metabolism]] — HDL and Triglyceride Effects
 
 > Vitamin D modulates lipid metabolism through hepatic VDR signaling, PTH suppression, and potential effects on lipoprotein lipase, influencing HDL cholesterol, triglycerides, and overall cardiovascular risk.
 
@@ -55,7 +55,7 @@ extraction-date: 2026-03-01
 - May improve HDL functionality (cholesterol efflux capacity)
 
 **Mechanism:**
-- Reduced inflammation improves HDL quality
+- Reduced [[KEYWORD-Inflammation|inflammation]] improves HDL quality
 - ApoA-I expression effects
 - Enhanced reverse cholesterol transport
 

@@ -38,7 +38,7 @@ Cysteine → Pyruvate + NH₃ + H₂S
 ## Energy Yield
 
 **Pyruvate:**
-- Enters Krebs cycle via acetyl-CoA
+- Enters [[KEYWORD-Krebs_Cycle|krebs cycle]] via acetyl-CoA
 - Produces ATP, NADH, FADH₂
 
 **Succinyl-CoA:**

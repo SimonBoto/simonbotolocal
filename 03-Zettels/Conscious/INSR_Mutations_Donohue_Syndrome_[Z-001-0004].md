@@ -15,7 +15,7 @@ created: 2026-02-22
 
 # INSR Mutations Cause Severe IR
 
-Mutations in the insulin receptor gene cause extreme insulin resistance syndromes, revealing the critical role of INSR in metabolism.
+Mutations in the [[KEYWORD-Insulin|insulin]] receptor gene cause extreme [[KEYWORD-Insulin_Resistance|insulin resistance]] syndromes, revealing the critical role of INSR in [[KEYWORD-Metabolism|metabolism]].
 
 **Clinical syndromes:**
 

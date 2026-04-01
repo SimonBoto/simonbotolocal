@@ -12,7 +12,7 @@ status: conscious
 source-litnote: Synthesized from clinical practice
 ---
 
-# Lipid Metabolism & Fatty Acid Insulin Resistance Markers
+# Lipid [[KEYWORD-Metabolism|metabolism]] & Fatty Acid Insulin Resistance Markers
 
 ## Core Claim
 **Fatty acid metabolism and desaturase activity generate specific biomarker patterns** — omega-3/omega-6 ratios, desaturase indices, and eicosanoid precursors that predict insulin resistance and inflammatory status.
@@ -88,7 +88,7 @@ High omega-6:3 ratio → pro-inflammatory eicosanoids → insulin resistance →
 ### Balance Hypothesis
 High omega-6:3 ratio → AA dominance → pro-inflammatory eicosanoids → chronic inflammation → insulin resistance
 
-## Vitamin D Connection
+## [[KEYWORD-Vitamin_D|vitamin d]] Connection
 
 ### VitD-Fatty Acid Interactions
 | Mechanism | Effect |
@@ -109,7 +109,7 @@ High-dose VitD → improved omega-6:3 balance (via inflammation reduction) → i
 
 ### Downstream
 - [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]] — Fatty acid oxidation markers
-- [[MOC-Vitamin-D-Mechanisms]] — VitD anti-inflammatory effects
+- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]] — VitD anti-inflammatory effects
 
 ### Cross-Domain
 - [[MOC-PhD-METHAP-Trial]] — Fatty acid panel as exploratory endpoint

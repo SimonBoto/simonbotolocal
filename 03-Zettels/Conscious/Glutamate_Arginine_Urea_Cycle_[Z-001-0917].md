@@ -60,7 +60,7 @@ Arginine + H₂O → Urea + Ornithine
 - Ornithine, citrulline, argininosuccinate: Urea cycle intermediates
 - Glutamate provides carbons for ornithine
 
-## Clinical: Urea Cycle Defects
+## [[KEYWORD-Clinical|clinical]]: Urea Cycle Defects
 
 ### Presentation
 - **Hyperammonemia** (ammonia accumulation)
@@ -89,7 +89,7 @@ Arginine + H₂O → Urea + Ornithine
 - Ultimate source of first urea nitrogen
 
 ## Related
-- [[Amino_Acids_Oxaloacetate_Aspartate_[Z-001-0493]]] Amino Acids to Oxaloacetate (aspartate connection)
+- [[Amino_Acids_Oxaloacetate_Aspartate_[Z-001-0493]]] [[KEYWORD-Amino_Acids|amino acids]] to Oxaloacetate (aspartate connection)
 - [[Glutamate_Central_Amino_Acid_Hub_[Z-001-0915]]] Glutamate Central Hub
 - [[Glutamine_Glutamate_Ammonia_Cycle_[Z-001-0916]]] Glutamine-Glutamate-Ammonia Cycle
 - [[MOC-Urea-Cycle]]

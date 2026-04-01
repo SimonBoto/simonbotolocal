@@ -60,7 +60,7 @@ Hypogonadism (testosterone deficiency) is classified by the level of dysfunction
 - **Hypothalamic:** Kallmann syndrome, idiopathic hypogonadotropic hypogonadism
 - **Infiltrative:** Hemochromatosis, sarcoidosis, histiocytosis
 - **Trauma/Surgery:** Pituitary apoplexy, surgery
-- **Functional:** Obesity, sleep apnea, stress, malnutrition, anabolic steroid use
+- **Functional:** Obesity, sleep apnea, stress, mal[[KEYWORD-Nutrition|nutrition]], anabolic steroid use
 - **Drugs:** Opioids, glucocorticoids, GnRH agonists
 
 ### Combined (Hypogonadotropic with Testicular Defect)
@@ -69,9 +69,9 @@ Hypogonadism (testosterone deficiency) is classified by the level of dysfunction
 - Age-related decline
 - Both central and peripheral defects
 - Gradual onset
-- Often comorbid with obesity, metabolic syndrome
+- Often comorbid with obesity, [[KEYWORD-Metabolic_Syndrome|metabolic syndrome]]
 
-## Clinical Clues
+## [[KEYWORD-Clinical|clinical]] Clues
 
 ### Suggesting Primary
 - **History:** Cryptorchidism, testicular trauma, chemotherapy, mumps orchitis

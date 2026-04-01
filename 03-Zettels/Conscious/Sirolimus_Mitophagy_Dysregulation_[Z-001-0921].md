@@ -12,9 +12,9 @@ extraction-date: 2026-03-02
 updated: 2026-03-05
 ---
 
-# Sirolimus Dysregulates Mitophagy Causing Mitochondrial Depletion
+# Sirolimus Dysregulates Mitophagy Causing [[KEYWORD-Mitochondria|mitochondria]]l Depletion
 
-**Core Mechanism:** Sirolimus activates mitophagy (mitochondrial autophagy) but suppresses mitochondrial biogenesis, creating imbalance → net mitochondrial loss.
+**Core [[KEYWORD-Mechanism|mechanism]]:** Sirolimus activates mitophagy ([[KEYWORD-Mitochondria|mitochondrial]] autophagy) but suppresses mitochondrial biogenesis, creating imbalance → net mitochondrial loss.
 
 ## mTORC1 and Autophagy Regulation
 

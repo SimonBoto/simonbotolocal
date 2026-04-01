@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 
 > Oxidative modification of LDL transforms it into a pro-inflammatory, pro-atherogenic particle that drives macrophage foam cell formation.
 
-## Mechanism
+## [[KEYWORD-Mechanism|mechanism]]
 
 **Initiation:**
 - Free radicals attack PUFAs in LDL
@@ -30,7 +30,7 @@ extraction-date: 2026-03-01
 **Products:**
 - **4-HNE:** Toxic aldehyde, protein modification
 - **MDA:** Marker of peroxidation
-- **Oxysterols:** Oxidized cholesterol
+- **Oxysterols:** Oxidized [[KEYWORD-Cholesterol|cholesterol]]
 
 ## Consequences
 
@@ -47,7 +47,7 @@ extraction-date: 2026-03-01
 ## Dietary Connection
 
 **PUFA susceptibility:**
-- High omega-6 intake → more substrate
+- High [[KEYWORD-Omega_6|omega-6]] intake → more substrate
 - Heated/oxidized vegetable oils
 
 **Antioxidant protection:**

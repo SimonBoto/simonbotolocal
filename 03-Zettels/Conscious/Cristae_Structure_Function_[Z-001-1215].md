@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Cristae are the characteristic folds of the inner mitochondrial membrane. Their primary function is to dramatically increase surface area, enabling higher capacity for oxidative phosphorylation and ATP production.
+Cristae are the characteristic folds of the inner [[KEYWORD-Mitochondria|mitochondria]]l membrane. Their primary function is to dramatically increase surface area, enabling higher capacity for oxidative phosphorylation and ATP production.
 
 ---
 
@@ -95,7 +95,7 @@ More surface area → More ETC complexes → More ATP synthase → Higher ATP ou
 ### 3. Transport Proteins
 - **ADP/ATP translocase:** Exchanges ATP for ADP
 - **Phosphate carrier:** Imports Pi for ATP synthesis
-- **Metabolite transporters:** Specific for pyruvate, fatty acids
+- **Metabolite transporters:** Specific for pyruvate, [[KEYWORD-Fatty_Acids|fatty acids]]
 
 ---
 
@@ -148,7 +148,7 @@ More surface area → More ETC complexes → More ATP synthase → Higher ATP ou
 - Disrupted cristae morphology
 - Impaired ATP production
 
-**2. Mitochondrial Encephalomyopathies**
+**2. [[KEYWORD-Mitochondria|mitochondrial]] Encephalomyopathies**
 - Abnormal cristae density
 - Reduced ETC capacity
 - Exercise intolerance

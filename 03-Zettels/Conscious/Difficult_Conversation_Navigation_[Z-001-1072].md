@@ -63,7 +63,7 @@ Strategies for navigating challenging patient interactions with professionalism 
 3. **Bridge** — "Research shows X, and your test shows Y—let's connect them"
 
 ### Script
-> "I appreciate that you've researched this. Let's combine your knowledge with what your metabolism is actually showing us. The test doesn't lie—it reveals your specific biochemistry."
+> "I appreciate that you've researched this. Let's combine your knowledge with what your [[KEYWORD-Metabolism|metabolism]] is actually showing us. The test doesn't lie—it reveals your specific [[KEYWORD-Biochemistry|biochemistry]]."
 
 ## The Emotional Patient
 
@@ -96,7 +96,7 @@ Strategies for navigating challenging patient interactions with professionalism 
 
 ## Related
 - [[Patient_Objection_Response_Scripts_[Z-001-1071].md]]
-- [[MOC-Clinical-Protocols]]
+- [[MOC-[[KEYWORD-Clinical|clinical]]-Protocols]]
 
 ---
 *Source: CGPT-0022 — Patient communication*

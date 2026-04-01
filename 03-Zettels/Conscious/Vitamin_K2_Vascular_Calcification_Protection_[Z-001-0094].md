@@ -19,9 +19,9 @@ Vitamin K2 activates matrix GLA protein (MGP), which inhibits calcium deposition
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
 **Source:** [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]]
-**Related:** [[Vitamin_K2_MK4_MK7_Osteocalcin_Activation_[Z-001-0092].md]], [[MOC-Vitamin-D-Metabolism]]
+**Related:** [[Vitamin_K2_MK4_MK7_Osteocalcin_Activation_[Z-001-0092].md]], [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
 
 ---
 

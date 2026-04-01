@@ -21,7 +21,7 @@ The hypothalamus and pituitary gland serve as the command center for multiple en
 
 ### 1. HPA Axis (Hypothalamic-Pituitary-Adrenal)
 
-**Function:** Stress response, metabolism, immune modulation
+**Function:** Stress response, [[KEYWORD-Metabolism|metabolism]], immune modulation
 
 **Cascade:**
 ```
@@ -45,7 +45,7 @@ Negative feedback to hypothalamus and pituitary
 
 ### 2. HPG Axis (Hypothalamic-Pituitary-Gonadal)
 
-**Function:** Reproduction, sexual differentiation, bone health
+**Function:** Reproduction, sexual differentiation, [[KEYWORD-Bone_Health|bone health]]
 
 **Cascade (Male):**
 ```
@@ -102,7 +102,7 @@ Chronic Stress
     ↓
 ↑ CRH, ↑ ACTH, ↑ Cortisol
     ↓
-Multiple mechanisms:
+Multiple [[KEYWORD-Mechanism|mechanism]]s:
   1. Cortisol inhibits GnRH pulsatility
   2. CRH suppresses GnRH directly
   3. Cortisol reduces LH response to GnRH

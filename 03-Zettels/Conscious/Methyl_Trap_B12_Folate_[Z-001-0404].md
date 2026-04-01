@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # The Methyl Trap — B12-Folate Interdependence
 
-> B12 deficiency causes functional folate deficiency through the 'methyl trap' mechanism, where 5-MTHF accumulates and cannot be converted back to THF for DNA synthesis, despite normal or elevated serum folate levels.
+> B12 deficiency causes functional folate deficiency through the 'methyl trap' [[KEYWORD-Mechanism|mechanism]], where 5-MTHF accumulates and cannot be converted back to THF for DNA synthesis, despite normal or elevated serum folate levels.
 
 ## The Mechanism
 
@@ -48,7 +48,7 @@ extraction-date: 2026-03-01
 - Impaired thymidylate synthesis
 - Impaired purine synthesis
 
-**Clinical:**
+**[[KEYWORD-Clinical|clinical]]:**
 - Megaloblastic anemia identical to folate deficiency
 - Hyperhomocysteinemia
 - **But:** Neurological damage (B12-specific)
@@ -83,7 +83,7 @@ extraction-date: 2026-03-01
 - B12 essential if folate supplementation used
 - Monitor both for optimal methylation
 - Prevent functional deficiencies
-- Ensure complete one-carbon metabolism support
+- Ensure complete one-carbon [[KEYWORD-Metabolism|metabolism]] support
 
 ---
 

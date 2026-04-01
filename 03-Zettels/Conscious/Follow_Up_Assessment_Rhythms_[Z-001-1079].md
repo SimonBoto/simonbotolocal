@@ -16,7 +16,7 @@ created: 2026-03-08
 # Follow Up Assessment Rhythms
 
 ## Overview
-Structured follow-up schedule for metabolomics patients with specific assessment criteria at each checkpoint.
+Structured follow-up schedule for [[KEYWORD-Metabolomics|metabolomics]] patients with specific assessment criteria at each checkpoint.
 
 ## The 4-8-16-28 Week Rhythm
 
@@ -35,7 +35,7 @@ Structured follow-up schedule for metabolomics patients with specific assessment
 - Adjust supplement dosing if needed
 - Address side effects
 - Reinforce dietary recommendations
-- **NO lab testing** (too early for biomarker changes)
+- **NO lab testing** (too early for [[KEYWORD-Biomarker|biomarker]] changes)
 
 ### Week 8: Early Progress Assessment
 **Focus:** Clinical trends, compliance refinement
@@ -62,7 +62,7 @@ Structured follow-up schedule for metabolomics patients with specific assessment
 | **Symptom scores** | Quantified improvement |
 | **Functional status** | Activity level, exercise tolerance |
 | **Quality of life** | Overall wellbeing |
-| **Lab markers** (if indicated) | Key biomarkers improving? |
+| **Lab markers** (if indicated) | Key [[KEYWORD-Biomarker|biomarkers]] improving? |
 
 #### Actions
 - Consider repeat OAT if major protocol changes made

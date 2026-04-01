@@ -16,7 +16,7 @@ created: 2026-03-08
 # Adenine Purine Base Structure Function
 
 ## Overview
-Adenine is one of four nucleobases in DNA and RNA, essential for genetic information storage and energy metabolism.
+Adenine is one of four nucleobases in DNA and RNA, essential for genetic information storage and energy [[KEYWORD-Metabolism|metabolism]].
 
 ## Chemical Structure
 - **Class:** Purine (two-ring structure)
@@ -55,7 +55,7 @@ Adenine is one of four nucleobases in DNA and RNA, essential for genetic informa
 - **Defect:** HGPRT (hypoxanthine-guanine phosphoribosyltransferase)
 - **Symptoms:** Hyperuricemia, neurological dysfunction, self-injury
 - **Inheritance:** X-linked recessive
-- **Mechanism:** Purine overproduction, uric acid accumulation
+- **[[KEYWORD-Mechanism|mechanism]]:** Purine overproduction, uric acid accumulation
 
 ### Adenine Phosphoribosyltransferase Deficiency
 - **Defect:** APRT enzyme
@@ -80,4 +80,4 @@ Adenine is one of four nucleobases in DNA and RNA, essential for genetic informa
 - [[MOC-Nucleotide-Metabolism]]
 
 ---
-*Source: CGPT-0445 — Advanced biochemistry*
+*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*

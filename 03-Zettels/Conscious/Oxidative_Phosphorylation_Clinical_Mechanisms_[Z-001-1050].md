@@ -16,7 +16,7 @@ created: 2026-03-08
 # Oxidative Phosphorylation Clinical Mechanisms
 
 ## Overview
-The mitochondrial process where electron transport through Complexes I-IV drives ATP synthesis via ATP synthase (Complex V).
+The [[KEYWORD-Mitochondria|mitochondria]]l process where electron transport through Complexes I-IV drives ATP synthesis via ATP synthase (Complex V).
 
 ## Electron Transport Chain (ETC)
 
@@ -67,13 +67,13 @@ The mitochondrial process where electron transport through Complexes I-IV drives
 | Pattern | Cause | Intervention |
 |---------|-------|--------------|
 | Elevated lactate/pyruvate | ETC block | CoQ10, B2, B3 |
-| Low ATP symptoms (fatigue) | Complex V issue | Magnesium, CoQ10 |
+| Low ATP symptoms (fatigue) | Complex V issue | [[KEYWORD-Magnesium|magnesium]], CoQ10 |
 | Hypoxia markers | Complex IV limitation | Oxygen, B12 |
 | Oxidative stress | Electron leak | Antioxidants |
 
 ## Related
 - [[Redox_Cofactors_NAD_FAD_Biochemistry_[Z-001-1051].md]]
-- [[MOC-Mitochondrial-Function]]
+- [[MOC-[[KEYWORD-Mitochondria|mitochondrial]]-Function]]
 
 ---
 *Source: CGPT-0022 — Mitochondrial biochemistry*

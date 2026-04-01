@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Metabolism Metabolomics Terminology
+# [[KEYWORD-Metabolism|metabolism]] [[KEYWORD-Metabolomics|metabolomics]] Terminology
 
 ## Overview
 9 core terms defining metabolism as methodology and metabolomics as clinical practice.
@@ -40,7 +40,7 @@ created: 2026-03-08
 Metabolomics sees dysfunction before pathology by reading metabolic information.
 
 ## Related
-- [[Mitochondrial_Energy_Terminology_[Z-001-1043].md]]
+- [[[[KEYWORD-Mitochondria|mitochondria]]l_Energy_Terminology_[Z-001-1043].md]]
 - [[MOC-Metabolomics-Analysis]]
 
 ---

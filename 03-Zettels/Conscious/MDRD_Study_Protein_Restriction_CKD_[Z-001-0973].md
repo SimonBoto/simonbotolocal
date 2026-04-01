@@ -81,7 +81,7 @@ status: conscious
 - Intensive dietary intervention not feasible in routine care
 - Short follow-up for chronic disease
 
-## Clinical Impact
+## [[KEYWORD-Clinical|clinical]] Impact
 
 ### Guidelines Adoption
 
@@ -140,11 +140,11 @@ status: conscious
 
 **Interpreted With Caution:**
 - Modest effect at best
-- Must balance against malnutrition risk
+- Must balance against mal[[KEYWORD-Nutrition|nutrition]] risk
 - Individualize based on patient factors
 
 ---
 
-**Related:** [[Protein_Restriction_CKD_Guidelines_[Z-001-0974].md]] | [[Glomerular_Hyperfiltration_Protein_Mechanism_[Z-001-0975].md]]
+**Related:** [[Protein_Restriction_CKD_Guidelines_[Z-001-0974].md]] | [[Glomerular_Hyperfiltration_Protein_[[KEYWORD-Mechanism|mechanism]]_[Z-001-0975].md]]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease

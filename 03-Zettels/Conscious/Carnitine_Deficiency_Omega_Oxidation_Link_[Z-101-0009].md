@@ -13,11 +13,11 @@ extraction-date: 2026-03-02
 
 # Carnitine Deficiency Activates Omega-Oxidation Pathway
 
-**Critical Insight:** Carnitine deficiency blocks long-chain fatty acid entry into mitochondria, triggering compensatory ω-oxidation and adipate formation.
+**Critical Insight:** Carnitine deficiency blocks long-chain fatty acid entry into [[KEYWORD-Mitochondria|mitochondria]], triggering compensatory ω-oxidation and adipate formation.
 
 ## Carnitine Shuttle System
 
-**CPT I** (outer mitochondrial membrane):
+**CPT I** (outer [[KEYWORD-Mitochondria|mitochondrial]] membrane):
 - Catalyzes: Fatty acyl-CoA + Carnitine → Acylcarnitine + CoA
 - Rate-limiting step for β-oxidation
 
@@ -45,7 +45,7 @@ extraction-date: 2026-03-02
 
 **Primary carnitine deficiency:** OCTN2 transporter defect
 **Secondary carnitine deficiency:**
-- Insulin resistance
+- [[KEYWORD-Insulin|insulin]] resistance
 - Obesity
 - Type 2 diabetes
 - Aging

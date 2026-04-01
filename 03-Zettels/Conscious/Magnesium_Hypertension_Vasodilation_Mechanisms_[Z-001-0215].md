@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]]
 extraction-date: 2026-03-01
 ---
 
-# Magnesium and Hypertension — Vasodilation and Blood Pressure Mechanisms
+# [[KEYWORD-Magnesium|magnesium]] and Hypertension — Vasodilation and Blood Pressure [[KEYWORD-Mechanism|mechanism]]s
 
 > Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
 
@@ -114,7 +114,7 @@ extraction-date: 2026-03-01
 **Synergy with Other Interventions:**
 - Weight loss: Improves Mg status and BP
 - Exercise: Increases Mg needs, supplementation supports
-- Vitamin D: Requires Mg for activation; both lower BP
+- [[KEYWORD-Vitamin_D|vitamin d]]: Requires Mg for activation; both lower BP
 
 **Monitoring:**
 - Home BP monitoring

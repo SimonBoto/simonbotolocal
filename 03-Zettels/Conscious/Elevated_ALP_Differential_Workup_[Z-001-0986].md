@@ -13,7 +13,7 @@ status: conscious
 
 # Elevated ALP Differential — Systematic Workup for High Alkaline Phosphatase
 
-## Clinical Approach
+## [[KEYWORD-Clinical|clinical]] Approach
 
 Elevated alkaline phosphatase (ALP) is a common laboratory finding requiring systematic evaluation to determine source (hepatic vs bone) and underlying etiology.
 
@@ -132,10 +132,10 @@ Elevated alkaline phosphatase (ALP) is a common laboratory finding requiring sys
 - CTX or NTX (resorption)
 - Elevated in high-turnover states
 
-**Calcium Metabolism:**
+**Calcium [[KEYWORD-Metabolism|metabolism]]:**
 - Calcium, phosphate
 - PTH (hyperparathyroidism)
-- 25-OH vitamin D
+- 25-OH [[KEYWORD-Vitamin_D|vitamin d]]
 
 ### Imaging
 

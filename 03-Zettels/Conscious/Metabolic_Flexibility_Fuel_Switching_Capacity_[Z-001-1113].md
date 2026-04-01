@@ -25,14 +25,14 @@ Metabolic flexibility is the ability to switch between fuel sources—glucose, f
 |---------|---------|
 | **Preferred fuel** | Brain, RBCs, exercising muscle |
 | **Storage** | Glycogen (liver, muscle) |
-| **Hormonal control** | Insulin promotes uptake |
+| **Hormonal control** | [[KEYWORD-Insulin|insulin]] promotes uptake |
 
 ### Fatty Acids
 | Feature | Details |
 |---------|---------|
 | **Abundant storage** | Adipose tissue |
 | **High energy yield** | 9 kcal/g (vs. 4 for glucose) |
-| **Oxygen required** | Aerobic metabolism |
+| **Oxygen required** | Aerobic [[KEYWORD-Metabolism|metabolism]] |
 
 ### Ketones
 | Feature | Details |
@@ -74,7 +74,7 @@ Metabolic flexibility is the ability to switch between fuel sources—glucose, f
 | **Free fatty acids** | Rise | Blunted |
 | **Glucose** | Stable | May drop or stay high |
 
-## Metabolic Inflexibility (Insulin Resistance)
+## Metabolic Inflexibility ([[KEYWORD-Insulin_Resistance|insulin resistance]])
 
 ### Characteristics
 | Feature | Problem |

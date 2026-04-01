@@ -12,7 +12,7 @@ confidence: high
 created: 2026-03-27
 ---
 
-# CIOMS International Research Ethics Guidelines
+# CIOMS International [[KEYWORD-Research|research]] Ethics Guidelines
 
 Council for International Organizations of Medical Sciences (CIOMS) and WHO guidelines for biomedical research involving human subjects, particularly in resource-limited settings. First 1982, revised 1993, 2002, 2016.
 
@@ -77,7 +77,7 @@ If METHAP involves international collaboration:
 - Local ethics approval required
 - Community engagement
 - Results dissemination to participants
-- Capacity building (metabolomics training)
+- Capacity building ([[KEYWORD-Metabolomics|metabolomics]] training)
 - No exploitation of resource-limited settings
 
 ## Links

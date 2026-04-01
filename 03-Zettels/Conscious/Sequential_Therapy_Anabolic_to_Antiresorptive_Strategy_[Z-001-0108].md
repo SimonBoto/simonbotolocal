@@ -68,7 +68,7 @@ status: conscious
 - **BMD gains:** Comparable between anabolic starters
 - **Transition:** Smooth, no loss between agents
 
-## Clinical Protocols
+## [[KEYWORD-Clinical|clinical]] Protocols
 
 ### Standard Sequential Approach
 
@@ -131,7 +131,7 @@ Duration:      Long-term antiresorptive
 ### During Anabolic Phase
 | Time | Assessment |
 |------|------------|
-| Baseline | DEXA, calcium, creatinine, vitamin D |
+| Baseline | DEXA, calcium, creatinine, [[KEYWORD-Vitamin_D|vitamin d]] |
 | 6 months | Adherence, adverse events, calcium |
 | 12 months | DEXA (if romosozumab), biochemical markers |
 | 24 months | DEXA (if PTH-based), transition planning |
@@ -176,7 +176,7 @@ Duration:      Long-term antiresorptive
 ## Related Zettels
 - [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_[Z-001-0105].md]] — Anabolic phase option
 - [[Romosozumab_Anti_Sclerostin_Dual_Action_Therapy_[Z-001-0107].md]] — Anabolic phase option
-- [[Denosumab_RANKL_Antibody_Mechanism_[Z-001-0085].md]] — Antiresorptive follow-up option
+- [[Denosumab_RANKL_Antibody_[[KEYWORD-Mechanism|mechanism]]_[Z-001-0085].md]] — Antiresorptive follow-up option
 - [[Bone_Balance_Equation_Resorption_Formation_Coupling_[Z-001-0104].md]] — Physiological basis
 
 ## Source

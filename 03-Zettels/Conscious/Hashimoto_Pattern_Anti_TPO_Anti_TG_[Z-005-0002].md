@@ -71,7 +71,7 @@ source-litnote: Synthesized from clinical practice
 | Anti-TG | 65 IU/mL | 🟡 Elevated |
 | Status | | Autoimmune thyroiditis, euthyroid phase |
 
-**Action:** Monitor TSH every 6 months, consider selenium 200mcg, optimize Vitamin D
+**Action:** Monitor TSH every 6 months, consider selenium 200mcg, optimize [[KEYWORD-Vitamin_D|vitamin d]]
 
 ### Pattern 2: Subclinical Hypothyroidism + Hashimoto's
 | Marker | Value | Interpretation |
@@ -139,6 +139,6 @@ patient_id,visit,anti_tpo_iu_ml,anti_tg_iu_ml,hashimoto_status
 *Created: 2026-02-26 | Domain: 005 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
 

@@ -41,7 +41,7 @@ This hierarchy reflects:
 - Adipate: 2-5× ULN
 - Suberate: Normal or <2× ULN
 - Sebacate: Normal
-- **Interpretation:** Subclinical mitochondrial stress
+- **Interpretation:** Sub[[KEYWORD-Clinical|clinical]] [[KEYWORD-Mitochondria|mitochondria]]l stress
 
 **Grade 2 (Moderate):**
 - Adipate: 5-20× ULN

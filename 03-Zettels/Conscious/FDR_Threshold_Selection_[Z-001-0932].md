@@ -37,13 +37,13 @@ The choice between FDR thresholds reflects a **fundamental trade-off** between s
 
 ### Choose FDR = 0.1 When:
 
-✅ **Exploratory biomarker discovery**
+✅ **Exploratory [[KEYWORD-Biomarker|biomarker]] discovery**
 - Initial screening for candidate markers
 - Hypothesis-generating research
 - Planning validation in follow-up studies
 
 ✅ **High-dimensional omics with validation planned**
-- Metabolomics, genomics, proteomics screens
+- [[KEYWORD-Metabolomics|metabolomics]], genomics, proteomics screens
 - Clear pathway to independent validation
 - Cost of false negatives > cost of false positives
 
@@ -113,7 +113,7 @@ The choice between FDR thresholds reflects a **fundamental trade-off** between s
 ### Counterfactual at FDR = 0.05
 - Fewer metabolites would pass threshold
 - Higher confidence in each finding
-- Risk of missing true biomarkers (false negatives)
+- Risk of missing true [[KEYWORD-Biomarker|biomarkers]] (false negatives)
 
 ### Assessment
 **Appropriate use** — exploratory study with validation mentioned (though sample size issues remain separate concern)

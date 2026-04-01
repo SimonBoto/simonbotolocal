@@ -31,7 +31,7 @@ If Formation < Resorption → Bone loss (negative balance)
 | **Resorption volume** | Number of sites × resorption depth × resorption area |
 | **Formation volume** | Number of sites × formation thickness × formation area |
 
-## Coupling Mechanism
+## Coupling [[KEYWORD-Mechanism|mechanism]]
 
 ### Definition
 The physiological linkage where formation magnitude matches preceding resorption magnitude.
@@ -60,11 +60,11 @@ The physiological linkage where formation magnitude matches preceding resorption
 - Glucocorticoid excess (osteoblast apoptosis)
 - Aging/senile osteoporosis (osteoblast dysfunction)
 - Alcohol abuse
-- Malnutrition
+- Mal[[KEYWORD-Nutrition|nutrition]]
 
 **Result:** Failure to refill resorption cavities completely
 
-## Clinical Syndromes by Imbalance Type
+## [[KEYWORD-Clinical|clinical]] Syndromes by Imbalance Type
 
 | Syndrome | Primary Defect | Secondary Effect |
 |----------|---------------|------------------|

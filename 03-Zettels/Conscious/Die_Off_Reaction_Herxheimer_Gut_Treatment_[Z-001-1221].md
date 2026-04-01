@@ -18,7 +18,7 @@ Die-off reactions (Herxheimer reactions) occur when antimicrobial treatment kill
 
 ---
 
-## Mechanism
+## [[KEYWORD-Mechanism|mechanism]]
 
 ### Microbial Death Cascade
 ```
@@ -30,9 +30,9 @@ Inflammatory cytokines → Symptom flare
 ### Key Toxins Released
 | Toxin | Source | Effects |
 |-------|--------|---------|
-| **Lipopolysaccharide (LPS)** | Gram-negative bacteria | Inflammation, fever, malaise |
+| **Lipopolysaccharide (LPS)** | Gram-negative bacteria | [[KEYWORD-Inflammation|inflammation]], fever, malaise |
 | **Hydrogen sulfide** | Sulfur-reducing bacteria | Foul odor, toxicity |
-| **Ammonia** | Protein metabolism | Brain fog, fatigue |
+| **Ammonia** | Protein [[KEYWORD-Metabolism|metabolism]] | Brain fog, fatigue |
 | **Aldehydes** | Yeast/fungal death | Headache, nausea |
 | **Sulfur compounds** | Bacterial breakdown | Body odor, stool odor |
 

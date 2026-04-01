@@ -15,7 +15,7 @@ status: conscious
 
 ## Core Hypothesis
 
-The metabolic effects of high protein intake on kidneys differ substantially depending on concurrent carbohydrate intake. **High-carb high-protein** may be more damaging than **low-carb high-protein** through differential insulin signaling, acid-base status, and alternative fuel utilization.
+The metabolic effects of high protein intake on kidneys differ substantially depending on concurrent carbohydrate intake. **High-carb high-protein** may be more damaging than **low-carb high-protein** through differential [[KEYWORD-Insulin|insulin]] signaling, acid-base status, and alternative fuel utilization.
 
 ## Metabolic Pathways Comparison
 
@@ -51,7 +51,7 @@ Maximum hyperfiltration response
 - Increased perfusion pressure
 
 **3. Metabolic Syndrome Exacerbation:**
-- High glycemic load perpetuates insulin resistance
+- High glycemic load perpetuates [[KEYWORD-Insulin_Resistance|insulin resistance]]
 - Inflammatory milieu
 - Endothelial dysfunction
 - **Kidney vulnerable to multiple insults**
@@ -94,7 +94,7 @@ Attenuated hyperfiltration (?)
 **3. Improved Insulin Sensitivity:**
 - Low-carb diets enhance insulin sensitivity
 - Better metabolic control
-- Reduced inflammation
+- Reduced [[KEYWORD-Inflammation|inflammation]]
 - **Systemic benefits for kidneys**
 
 **4. Acid-Base Considerations:**

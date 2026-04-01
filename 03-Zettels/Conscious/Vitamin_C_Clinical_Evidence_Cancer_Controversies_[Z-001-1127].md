@@ -115,7 +115,7 @@ The clinical use of high-dose vitamin C in cancer has a controversial history—
 | **Optimal dosing schedule** | Unknown |
 | **Best cancer types** | Unknown |
 | **Combination strategies** | Under investigation |
-| **Biomarkers for response** | Unknown |
+| **[[KEYWORD-Biomarker|biomarker]]s for response** | Unknown |
 
 ## Future Directions
 
@@ -156,12 +156,12 @@ The clinical use of high-dose vitamin C in cancer has a controversial history—
 ## Related
 - [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_[Z-001-1125].md]]
 - [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_[Z-001-1126].md]]
-- [[MOC-Cancer-Metabolism]]
+- [[MOC-Cancer-[[KEYWORD-Metabolism|metabolism]]]]
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

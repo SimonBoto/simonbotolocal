@@ -13,12 +13,12 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Vitamin C Pro Oxidant Cancer Selective Toxicity
+# Vitamin C Pro Oxidant [[KEYWORD-Cancer|cancer]] Selective Toxicity
 
 ## Overview
 Pharmacological doses of vitamin C (ascorbate) act as a pro-oxidant, generating hydrogen peroxide (H₂O₂) that is selectively toxic to cancer cells due to their reduced catalase activity and antioxidant defenses.
 
-## The Mechanism
+## The [[KEYWORD-Mechanism|mechanism]]
 
 ### Step 1: High Plasma Ascorbate
 | Route | Dose | Plasma Level |
@@ -124,7 +124,7 @@ Ascorbate + O₂ → Dehydroascorbate + H₂O₂
 ## Related
 - [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_[Z-001-1126].md]]
 - [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_[Z-001-1127].md]]
-- [[MOC-Cancer-Metabolism]]
+- [[MOC-Cancer-[[KEYWORD-Metabolism|metabolism]]]]
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*

@@ -13,10 +13,10 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Triose Roles Glycolysis PPP Krebs Integration
+# Triose Roles [[KEYWORD-Glycolysis|glycolysis]] PPP Krebs Integration
 
 ## Overview
-Trioses serve as metabolic crossroads, connecting glycolysis, the pentose phosphate pathway, and the Krebs cycle through interconversion and shared intermediates.
+Trioses serve as metabolic crossroads, connecting glycolysis, the pentose phosphate pathway, and the [[KEYWORD-Krebs_Cycle|krebs cycle]] through interconversion and shared intermediates.
 
 ## Glycolysis: The Triose Phase
 
@@ -83,7 +83,7 @@ Glucose → G3P → Pyruvate → Acetyl-CoA → Krebs
 - [[MOC-Krebs-Cycle]]
 
 ---
-*Source: CGPT-0445 — Advanced biochemistry*
+*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*
 
 
 ## RELATED FILES

@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # B12 and Exercise Performance
 
-> B12 deficiency impairs energy metabolism, potentially affecting exercise performance through reduced ATP production from amino acids and odd-chain fatty acids.
+> B12 deficiency impairs energy [[KEYWORD-Metabolism|metabolism]], potentially affecting exercise performance through reduced ATP production from amino acids and odd-chain fatty acids.
 
 ## Mechanisms of Impairment
 
@@ -26,7 +26,7 @@ extraction-date: 2026-03-01
 - Cannot extract energy from dairy fats
 - Minor contribution but significant
 
-### Mitochondrial Dysfunction
+### [[KEYWORD-Mitochondria|mitochondria]]l Dysfunction
 - Methylmalonic acid accumulation (toxic)
 - Impaired Krebs cycle anaplerosis
 - Reduced oxidative capacity
@@ -58,7 +58,7 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]]*
+*Source: [[LitNote_[[KEYWORD-Mitochondria|mitochondrial]]_B12_Functions_L-001-0407]]*
 
 
 ## RELATED FILES

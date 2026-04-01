@@ -20,7 +20,7 @@ status: conscious
 - Reduced response to novel antigens
 - Impaired vaccine efficacy
 - Increased infection susceptibility
-- Chronic low-grade inflammation (inflammaging)
+- Chronic low-grade [[KEYWORD-Inflammation|inflammation]] (inflammaging)
 
 ---
 
@@ -52,7 +52,7 @@ status: conscious
 - Elevated IL-6, TNF-α, CRP
 - Self-sustaining cycle
 
-### 4. Mitochondrial Dysfunction
+### 4. [[KEYWORD-Mitochondria|mitochondria]]l Dysfunction
 - Reduced ATP production
 - Increased ROS generation
 - Further telomere damage
@@ -71,7 +71,7 @@ status: conscious
 - Shorter protection duration
 - Higher vaccine failure rates
 
-### Cancer Risk
+### [[KEYWORD-Cancer|cancer]] Risk
 - Immune surveillance impairment
 - Increased lymphoma (SLE)
 - Skin cancer (immunosuppression)

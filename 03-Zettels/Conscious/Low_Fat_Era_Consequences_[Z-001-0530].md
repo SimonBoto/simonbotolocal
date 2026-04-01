@@ -28,7 +28,7 @@ extraction-date: 2026-03-01
 
 **Metabolic Syndrome:**
 - Now 1 in 3 adults
-- Central obesity, insulin resistance
+- Central obesity, [[KEYWORD-Insulin|insulin]] resistance
 
 ## Mechanism
 
@@ -37,7 +37,7 @@ extraction-date: 2026-03-01
 2. Glucose spikes
 3. Insulin secretion
 4. Fat storage
-5. Insulin resistance
+5. [[KEYWORD-Insulin_Resistance|insulin resistance]]
 
 ## Low-Fat Problems
 
@@ -47,7 +47,7 @@ extraction-date: 2026-03-01
 
 **Displaced Nutrients:**
 - Fat-soluble vitamins reduced
-- Essential fatty acids reduced
+- Essential [[KEYWORD-Fatty_Acids|fatty acids]] reduced
 
 **Processed Foods:**
 - Fat removed, sugar added

@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Metabolomics_Data_Processing_L-001-0619]]"
 status: conscious
 ---
 
-# Metabolomics Preprocessing and Quality Control
+# [[KEYWORD-Metabolomics|metabolomics]] Preprocessing and Quality Control
 
 ## Overview
 

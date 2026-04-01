@@ -15,13 +15,13 @@ source: [[L-001-0045G]]
 
 ## Trigger Conditions
 - **Low carbohydrate:** Fasting, ketogenic diet
-- **Low insulin:** Permits lipolysis
+- **Low [[KEYWORD-Insulin|insulin]]:** Permits lipolysis
 - **High fatty acid oxidation:** Excess acetyl-CoA
 
-## Hepatic Synthesis (Liver Mitochondria)
+## Hepatic Synthesis (Liver [[KEYWORD-Mitochondria|mitochondria]])
 
 ```
-Fatty acids → Acetyl-CoA (β-oxidation)
+[[KEYWORD-Fatty_Acids|fatty acids]] → Acetyl-CoA (β-oxidation)
      ↓
 2 Acetyl-CoA → Acetoacetyl-CoA (thiolase)
      ↓

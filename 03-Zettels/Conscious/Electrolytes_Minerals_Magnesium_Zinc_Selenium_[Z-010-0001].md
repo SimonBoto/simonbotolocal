@@ -32,7 +32,7 @@ source-litnote: Synthesized from clinical practice
 
 ### Functions
 - **Cofactor for 300+ enzymes**
-- Vitamin D activation (hydroxylases require Mg)
+- [[KEYWORD-Vitamin_D|vitamin d]] activation (hydroxylases require Mg)
 - Insulin signaling and glucose transport
 - Blood pressure regulation
 - Muscle and nerve function
@@ -163,12 +163,12 @@ source-litnote: Synthesized from clinical practice
 
 ---
 
-*Source: [[Ref_Rude_Magnesium_2014]], [[Synthesis_Biomarker_Architecture_v1]]*
+*Source: [[Ref_Rude_Magnesium_2014]], [[Synthesis_[[KEYWORD-Biomarker|biomarker]]_Architecture_v1]]*
 *Created: 2026-02-26 | Domain: 010 | Status: Conscious*
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
 - [[TG_HDL_Ratio_IR_Marker_[Z-001-0049]|Z-001-0049]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

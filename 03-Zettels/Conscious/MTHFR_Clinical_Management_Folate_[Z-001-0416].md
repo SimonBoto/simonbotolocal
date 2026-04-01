@@ -11,7 +11,7 @@ source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]]
 extraction-date: 2026-03-01
 ---
 
-# MTHFR Clinical Management and Folate
+# MTHFR [[KEYWORD-Clinical|clinical]] Management and [[KEYWORD-Folate|folate]]
 
 > MTHFR polymorphisms increase folate requirements and necessitate using 5-methyltetrahydrofolate (methylfolate) rather than folic acid, as methylfolate bypasses the impaired MTHFR enzyme.
 
@@ -59,7 +59,7 @@ extraction-date: 2026-03-01
 - Use methylfolate not folic acid
 - Higher dose if variants common
 - Consider genotyping participants
-- Optimize methylation for all genotypes
+- Optimize [[KEYWORD-Methylation|methylation]] for all genotypes
 
 ---
 

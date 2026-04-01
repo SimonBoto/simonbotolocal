@@ -73,7 +73,7 @@ Protein/DNA adducts → Cellular damage
 
 **Origin:** 
 - Glycerophospholipid breakdown
-- Polyamine metabolism
+- Polyamine [[KEYWORD-Metabolism|metabolism]]
 - Cigarette smoke
 - Overheated cooking oils
 
@@ -233,13 +233,13 @@ Protein/DNA adducts → Cellular damage
    - Polyphenols (olive oil, spices)
    - Vitamin C (regenerates vitamin E)
 
-## Assessment and Biomarkers
+## Assessment and [[KEYWORD-Biomarker|biomarker]]s
 
 **Dietary Assessment:**
 - Food frequency questionnaires (fried food, processed food)
 - Oil usage patterns
 
-**Biomarkers:**
+**[[KEYWORD-Biomarker|biomarkers]]:**
 | Marker | Sample | Interpretation |
 |--------|--------|----------------|
 | Urinary 4-HNE mercapturic acid | Urine | Recent exposure |

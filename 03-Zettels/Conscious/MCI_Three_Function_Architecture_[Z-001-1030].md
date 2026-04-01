@@ -16,7 +16,7 @@ created: 2026-03-08
 # MCI Three Function Architecture
 
 ## Overview
-The Metabolomics Chief Instructor operates through three integrated functions that cover the full spectrum of clinical training.
+The [[KEYWORD-Metabolomics|metabolomics]] Chief Instructor operates through three integrated functions that cover the full spectrum of clinical training.
 
 ## Function 1: Architect of Knowledge
 **Purpose:** Map entire metabolomics curriculum into modular, teachable blocks
@@ -33,7 +33,7 @@ The Metabolomics Chief Instructor operates through three integrated functions th
 **Purpose:** Teach doctors *how to reason* like metabolomics clinicians
 
 **Core Skills Taught:**
-- How to interrogate a biomarker (not just read it)
+- How to interrogate a [[KEYWORD-Biomarker|biomarker]] (not just read it)
 - How to triangulate across pathways
 - How to avoid common diagnostic fallacies
 - How to shift between biochemical levels (pathway → phenotype → intervention)
@@ -68,6 +68,6 @@ These functions are **not sequential**—they operate simultaneously:
 *Source: CGPT-0022 — ChatGPT training synthesis*
 
 ## RELATED FILES
-- [[MOC-Biomarkers|Biomarker Family Guide]]
+- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

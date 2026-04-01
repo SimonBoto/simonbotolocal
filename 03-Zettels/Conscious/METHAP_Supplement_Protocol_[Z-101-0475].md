@@ -20,7 +20,7 @@ Address micronutrient deficiencies and metabolic dysregulation common in insulin
 
 ## Supplement Stack
 
-### 1. Vitamin D3 (Cholecalciferol)
+### 1. [[KEYWORD-Vitamin_D|vitamin d]]3 (Cholecalciferol)
 | Attribute | Specification |
 |-----------|---------------|
 | **Rationale** | Insulin sensitivity, beta-cell function, anti-inflammatory |
@@ -36,7 +36,7 @@ Address micronutrient deficiencies and metabolic dysregulation common in insulin
 ### 2. Magnesium (as glycinate or citrate)
 | Attribute | Specification |
 |-----------|---------------|
-| **Rationale** | Glucose metabolism, insulin receptor signaling, ATP production |
+| **Rationale** | Glucose [[KEYWORD-Metabolism|metabolism]], insulin receptor signaling, ATP production |
 | **Typical dose** | 200-400 mg elemental Mg/day |
 | **EOΦ approval** | [To be specified] |
 | **Timing** | Evening (may improve sleep) |
@@ -82,7 +82,7 @@ Address micronutrient deficiencies and metabolic dysregulation common in insulin
 
 **Safety considerations:**
 - High doses may cause GI upset
-- Increases oxalate excretion (relevant to study biomarkers)
+- Increases oxalate excretion (relevant to study [[KEYWORD-Biomarker|biomarker]]s)
 - May interfere with certain lab tests
 
 See: [[Ascorbate_Oxalate_Measurement_Interference_[Z-101-0470].md]]

@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Metabolomics_Data_Processing_L-001-0619]]"
 status: conscious
 ---
 
-# Pathway and Network Analysis — Metabolomics Interpretation
+# Pathway and Network Analysis — [[KEYWORD-Metabolomics|metabolomics]] Interpretation
 
 ## Overview
 
@@ -136,7 +136,7 @@ Connect differential metabolites to known metabolic pathways for biological inte
 
 ---
 
-## Key Pathways in Insulin Resistance
+## Key Pathways in [[KEYWORD-Insulin|insulin]] Resistance
 
 ### Expected Enrichments
 | Pathway | Expected Change | Key Metabolites |
@@ -145,7 +145,7 @@ Connect differential metabolites to known metabolic pathways for biological inte
 | **Fatty acid oxidation** | Decreased | Acylcarnitines, dicarboxylic acids |
 | **TCA cycle** | Altered | Citrate, α-ketoglutarate |
 | **Ketogenesis** | Suppressed | β-hydroxybutyrate, acetoacetate |
-| **Omega-3 metabolism** | Decreased | EPA, DHA |
+| **Omega-3 [[KEYWORD-Metabolism|metabolism]]** | Decreased | EPA, DHA |
 
 ---
 

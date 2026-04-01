@@ -11,7 +11,7 @@ source-litnote: [[LitNote_ADA_History_L-001-0209]]
 extraction-date: 2026-03-01
 ---
 
-# ADA-AHA Collaboration — Know Diabetes by Heart™ Initiative
+# ADA-AHA Collaboration — Know [[KEYWORD-Diabetes|diabetes]] by Heart™ Initiative
 
 > The American Diabetes Association and American Heart Association jointly launched the "Know Diabetes by Heart™" initiative to address the leading cause of death in people with Type 2 diabetes—cardiovascular disease—through education, research, and community outreach.
 
@@ -47,7 +47,7 @@ extraction-date: 2026-03-01
 
 ## Rationale for Collaboration
 
-**Clinical Connection:**
+**[[KEYWORD-Clinical|clinical]] Connection:**
 - T2DM increases CVD risk 2-4 fold
 - 70% of T2DM patients die from CVD
 - Shared risk factors (obesity, hypertension, dyslipidemia)
@@ -60,7 +60,7 @@ extraction-date: 2026-03-01
 
 ## METHAP Relevance
 
-**Metabolic Syndrome Connection:**
+**[[KEYWORD-Metabolic_Syndrome|metabolic syndrome]] Connection:**
 - MetS combines diabetes + CVD risk factors
 - METHAP targets both simultaneously
 - Mg + D + K2 address both aspects

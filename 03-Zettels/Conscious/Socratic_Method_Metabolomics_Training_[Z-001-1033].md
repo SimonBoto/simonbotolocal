@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# Socratic Method Metabolomics Training
+# Socratic Method [[KEYWORD-Metabolomics|metabolomics]] Training
 
 ## Overview
 Teaching metabolomics through guided inquiry rather than information delivery. Trainees learn by confronting their own reasoning errors.
@@ -57,9 +57,9 @@ Teaching metabolomics through guided inquiry rather than information delivery. T
 
 | Stage | Prompt | Target Error |
 |-------|--------|--------------|
-| Analysis | "Lactate + BHB elevated. Mitochondrial blockage or ketogenic physiology?" | Pattern confusion |
+| Analysis | "Lactate + BHB elevated. [[KEYWORD-Mitochondria|mitochondria]]l blockage or ketogenic physiology?" | Pattern confusion |
 | Treatment | "Impaired β-oxidation. Carnitine, diet, or cofactors first?" | Prescribing sequence |
-| Reporting | "Explain mitochondrial redox imbalance to a 78-year-old farmer." | Translation failure |
+| Reporting | "Explain [[KEYWORD-Mitochondria|mitochondrial]] redox imbalance to a 78-year-old farmer." | Translation failure |
 | Follow-up | "4-week check: what should you evaluate?" | Premature lab focus |
 
 ## Key Principle

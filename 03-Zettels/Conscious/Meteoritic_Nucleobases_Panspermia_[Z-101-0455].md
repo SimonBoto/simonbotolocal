@@ -18,12 +18,12 @@ source: [[L-101-0045B]]
 
 ### Evidence for Extraterrestrial Origin
 - **Isotope ratios:** ¹³C/¹²C distinct from terrestrial carbon
-- **Amino acids:** >70 types (more than biology uses)
+- **[[KEYWORD-Amino_Acids|amino acids]]:** >70 types (more than biology uses)
 - **Nucleobases:** Confirmed prebiotic synthesis in space
 
 ## Implications
 1. **Nucleobases can form in space** — not unique to Earth
-2. **Delivery mechanism:** Meteorites/comets seeded early Earth
+2. **Delivery [[KEYWORD-Mechanism|mechanism]]:** Meteorites/comets seeded early Earth
 3. **Panspermia support:** Building blocks distributed across Solar System
 
 ## Quantitative Estimates
@@ -42,7 +42,7 @@ Extraterrestrial delivery solves abundance but not concentration problem — sti
 
 ## Related
 - [[HCN_Polymerization_Adenine_Mechanism_[Z-101-0454]]] HCN Polymerization (terrestrial alternative)
-- [[RNA_World_Hypothesis_Evolution_[Z-101-0456]]] RNA World Hypothesis
+- [[RNA_World_Hypothesis_[[KEYWORD-Evolution|evolution]]_[Z-101-0456]]] RNA World Hypothesis
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

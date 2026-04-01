@@ -62,19 +62,19 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 - Excess acetyl-CoA → **shunted to ketogenesis**
 
 ### Result
-**Starvation metabolism:**
+**Starvation [[KEYWORD-Metabolism|metabolism]]:**
 - Glucose maintained for brain/RBCs
 - Ketones produced as alternative fuel
 - Fatty acids oxidized for ketogenesis
 
-## Transport Problem: OAA Cannot Cross Mitochondrial Membrane
+## Transport Problem: OAA Cannot Cross [[KEYWORD-Mitochondria|mitochondria]]l Membrane
 
 ### Solution Required
 **OAA must be converted to transportable form:**
 - Malate shuttle
 - Aspartate shuttle
 
-**See:** [[Mitochondrial_Shuttles_Malate_Aspartate_[Z-001-0490]]] Mitochondrial Shuttles
+**See:** [[[[KEYWORD-Mitochondria|mitochondrial]]_Shuttles_Malate_Aspartate_[Z-001-0490]]] Mitochondrial Shuttles
 
 ## Related
 - [[Gluconeogenesis_from_Oxaloacetate_[Z-001-0489]]] Gluconeogenesis from Oxaloacetate

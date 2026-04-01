@@ -19,7 +19,7 @@ Humanized monoclonal antibody against **sclerostin** that uniquely stimulates bo
 ### Source and Function
 - **Produced by:** Osteocytes (embedded bone cells)
 - **Target:** Osteoblast precursors and osteocytes
-- **Mechanism:** Inhibits Wnt/β-catenin signaling pathway
+- **[[KEYWORD-Mechanism|mechanism]]:** Inhibits Wnt/β-catenin signaling pathway
 - **Effect:** Suppresses osteoblast proliferation and differentiation
 
 ### Physiological Role
@@ -51,7 +51,7 @@ Humanized monoclonal antibody against **sclerostin** that uniquely stimulates bo
 - Early (0–6 months): Formation stimulation dominant
 - Late (6–12 months): Resorption suppression more apparent
 
-## Clinical Pharmacology
+## [[KEYWORD-Clinical|clinical]] Pharmacology
 
 ### Administration
 - **Dose:** 210 mg monthly
@@ -130,7 +130,7 @@ Humanized monoclonal antibody against **sclerostin** that uniquely stimulates bo
 
 ### Serious
 - **Cardiovascular events:** Increased risk (see above)
-- **Hypocalcemia:** Rare, especially with severe vitamin D deficiency
+- **Hypocalcemia:** Rare, especially with severe [[KEYWORD-Vitamin_D|vitamin d]] deficiency
 
 ## Monitoring
 | Parameter | Timing |

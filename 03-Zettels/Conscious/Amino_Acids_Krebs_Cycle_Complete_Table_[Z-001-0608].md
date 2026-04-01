@@ -38,16 +38,16 @@ extraction-date: 2026-03-05
 - Citrate, isocitrate, succinate, malate — no amino acids feed directly into these
 - These are intermediates between entry points
 
-## Clinical Relevance
+## [[KEYWORD-Clinical|clinical]] Relevance
 
 ### Metabolic Disease Connections
 - **Maple syrup urine disease:** Defective BCAA → succinyl-CoA pathway
 - **Methylmalonic acidemia:** Block in propionyl-CoA → succinyl-CoA conversion
-- **Glutaric aciduria type I:** Glutamate/lysine metabolism defect
+- **Glutaric aciduria type I:** Glutamate/lysine [[KEYWORD-Metabolism|metabolism]] defect
 
 ### Research Applications
 - Quantifying amino acid oxidation rates
-- Tracing metabolic flux in insulin resistance
+- Tracing metabolic flux in [[KEYWORD-Insulin|insulin]] resistance
 - Understanding gluconeogenesis from protein
 
 ---

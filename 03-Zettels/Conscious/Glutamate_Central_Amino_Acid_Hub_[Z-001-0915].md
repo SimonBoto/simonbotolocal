@@ -15,7 +15,7 @@ source: [[L-001-0046B]]
 # Glutamate: The Central Amino Acid Hub
 
 ## Central Position
-**Glutamate is the metabolic crossroads of amino acid metabolism:**
+**Glutamate is the metabolic crossroads of amino acid [[KEYWORD-Metabolism|metabolism]]:**
 
 ### 1. Amino Group Receiver
 - Receives amino groups from most amino acids (via transamination)
@@ -61,7 +61,7 @@ All converge on glutamate:
 - **Proline** → P5C → Glutamate
 - **Histidine** → Urocanate → FIGLU → Glutamate
 
-## Clinical Relevance
+## [[KEYWORD-Clinical|clinical]] Relevance
 
 ### Hyperammonemia
 **Impaired glutamate → urea cycle:**
@@ -72,7 +72,7 @@ All converge on glutamate:
 ### Glutamate Excitotoxicity
 **Excess glutamate in brain:**
 - Overactivation of NMDA receptors
-- Calcium influx → neuronal death
+- [[KEYWORD-Calcium|calcium]] influx → neuronal death
 - Implicated in stroke, ALS, Alzheimer's
 
 ## Summary

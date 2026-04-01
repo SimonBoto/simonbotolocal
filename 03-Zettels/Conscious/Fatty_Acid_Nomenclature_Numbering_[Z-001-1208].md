@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Fatty acids are named using multiple systems. Understanding these is essential for interpreting biochemical literature and clinical reports.
+[[KEYWORD-Fatty_Acids|fatty acids]] are named using multiple systems. Understanding these is essential for interpreting biochemical literature and clinical reports.
 
 ---
 
@@ -61,7 +61,7 @@ CH₃-CH₂-CH₂-...-CH₂-CH₂-COOH
 **Linoleic acid:**
 - Systematic: cis,cis-9,12-octadecadienoic acid
 - Shorthand: 18:2(n-6) or 18:2Δ9,12
-- Common: Omega-6 fatty acid
+- Common: [[KEYWORD-Omega_6|omega-6]] fatty acid
 
 **EPA:**
 - Systematic: 5,8,11,14,17-eicosapentaenoic acid
@@ -80,7 +80,7 @@ CH₃-CH₂-CH₂-...-CH₂-CH₂-COOH
 - Position counted from COOH
 
 ### Omega System (Methyl End)
-**Use:** Nutritional classification, physiology
+**Use:** [[KEYWORD-Nutrition|nutrition]]al classification, physiology
 
 **Example:** Omega-3 fatty acids
 - First double bond at carbon 3 from CH₃ end

@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]]
 extraction-date: 2026-03-01
 ---
 
-# Metabolic Syndrome — Pathophysiology and Insulin Resistance
+# Metabolic Syndrome — Pathophysiology and [[KEYWORD-Insulin|insulin]] Resistance
 
-> Insulin resistance serves as the central unifying mechanism of metabolic syndrome, driving a cascade of metabolic dysregulation, inflammation, and cardiovascular risk.
+> [[KEYWORD-Insulin_Resistance|insulin resistance]] serves as the central unifying mechanism of metabolic syndrome, driving a cascade of metabolic dysregulation, [[KEYWORD-Inflammation|inflammation]], and cardiovascular risk.
 
 ## Central Mechanism: Insulin Resistance
 

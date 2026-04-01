@@ -15,9 +15,9 @@ created: 2026-02-22
 
 # Lipotoxicity and Ceramide-Induced IR
 
-Excess free fatty acids cause insulin resistance through ceramide generation, disrupting insulin signaling at multiple nodes.
+Excess free [[KEYWORD-Fatty_Acids|fatty acids]] cause [[KEYWORD-Insulin|insulin]] resistance through ceramide generation, disrupting insulin signaling at multiple nodes.
 
-**Mechanism:**
+**[[KEYWORD-Mechanism|mechanism]]:**
 1. High FFA → uptake into muscle/liver
 2. FFA metabolized to diacylglycerol (DAG) and ceramide
 3. Ceramide activates PP2A and PKCζ

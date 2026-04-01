@@ -44,12 +44,12 @@ updated: 2026-03-05
 **APOE:**
 - E4 carriers may need higher doses
 
-## Pharmacometabolomics
+## Pharmaco[[KEYWORD-Metabolomics|metabolomics]]
 
 - Baseline metabolite profiles predict response
 - Bile acid precursors correlate with efficacy
 
-## Clinical Use
+## [[KEYWORD-Clinical|clinical]] Use
 
 - Not routine; consider for myopathy or poor response
 - Rosuvastatin less affected by SLCO1B1

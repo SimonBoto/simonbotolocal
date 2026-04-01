@@ -81,7 +81,7 @@ extraction-date: 2026-03-01
 **Dietary Shift:**
 - Animal fat consumption declined
 - Vegetable oil consumption rose
-- Omega-6 intake increased dramatically
+- [[KEYWORD-Omega_6|omega-6]] intake increased dramatically
 - Traditional fats marginalized
 
 ## Connection to Later Anti-Fat Movement
@@ -90,7 +90,7 @@ extraction-date: 2026-03-01
 - P&G benefited from anti-saturated fat message
 - Vegetable oil industry grew
 - Animal fat competitors weakened
-- Research funding influenced
+- [[KEYWORD-Research|research]] funding influenced
 
 **Historical Irony:**
 - Crisco originally marketed as "healthy"

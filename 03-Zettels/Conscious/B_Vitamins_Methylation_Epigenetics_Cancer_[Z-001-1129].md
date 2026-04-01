@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# B Vitamins Methylation Epigenetics Cancer
+# B Vitamins Methylation Epigenetics [[KEYWORD-Cancer|cancer]]
 
 ## Overview
 B-vitamins (folate, B12, B6, B2) are essential cofactors for methylation reactions—regulating DNA methylation patterns, histone modifications, and gene expression that are profoundly altered in cancer.
@@ -25,7 +25,7 @@ B-vitamins (folate, B12, B6, B2) are essential cofactors for methylation reactio
 |---------|-------------|
 | **Universal methyl donor** | Required for all methylation |
 | **Synthesized from** | Methionine + ATP |
-| **B-vitamin dependence** | B12 for methionine regeneration |
+| **B-[[KEYWORD-Vitamin_D|vitamin d]]ependence** | B12 for methionine regeneration |
 
 ### DNA Methylation
 | Pattern | Effect | Cancer Status |
@@ -53,7 +53,7 @@ B-vitamins (folate, B12, B6, B2) are essential cofactors for methylation reactio
 ### Vitamin B6
 | Function | Epigenetic Effect |
 |----------|-------------------|
-| **Homocysteine metabolism** | Affects SAM/SAH ratio |
+| **Homocysteine [[KEYWORD-Metabolism|metabolism]]** | Affects SAM/SAH ratio |
 | **Glycine cleavage** | One-carbon for methylation |
 
 ### Vitamin B2 (Riboflavin)

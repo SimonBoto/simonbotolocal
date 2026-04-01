@@ -14,7 +14,7 @@ created: 2026-02-24
 
 # Methotrexate Low-Dose Mechanism via Adenosine
 
-Low-dose methotrexate (1/100th of cancer dose) treats autoimmunity through a mechanism distinct from folate antagonism: AICAR transformylase inhibition causes intracellular AICAR accumulation, which releases extracellular adenosine with potent anti-inflammatory effects.
+Low-dose methotrexate (1/100th of [[KEYWORD-Cancer|cancer]] dose) treats autoimmunity through a mechanism distinct from folate antagonism: AICAR transformylase inhibition causes intracellular AICAR accumulation, which releases extracellular adenosine with potent anti-inflammatory effects.
 
 **Mechanism cascade:**
 1. AICAR transformylase inhibition (not DHFR at this dose)
@@ -27,11 +27,11 @@ Low-dose methotrexate (1/100th of cancer dose) treats autoimmunity through a mec
    - Promotes regulatory T-cell proliferation
 5. Additional: AICAR directly activates AMPK → reduces T-cell activation
 
-**Critical insight:** Folic acid supplementation does NOT impair low-dose methotrexate efficacy because the mechanism is not folate antagonism — it's adenosine-mediated anti-inflammation.
+**Critical insight:** Folic acid supplementation does NOT impair low-dose methotrexate efficacy because the mechanism is not folate antagonism — it's adenosine-mediated anti-[[KEYWORD-Inflammation|inflammation]].
 
 **Clinical:** RA, psoriasis, IBD at 7.5-25 mg/week (vs 5000+ mg/m² for cancer).
 
-**METHAP Connection:** Demonstrates how metabolic pathway interventions (purine metabolism, AMPK) can treat autoimmunity — similar logic applies to adipic acid/VitD metabolic intervention.
+**METHAP Connection:** Demonstrates how metabolic pathway interventions (purine [[KEYWORD-Metabolism|metabolism]], AMPK) can treat autoimmunity — similar logic applies to adipic acid/VitD metabolic intervention.
 
 ## Key Details
 

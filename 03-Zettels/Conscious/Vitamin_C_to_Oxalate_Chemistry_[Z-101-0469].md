@@ -26,7 +26,7 @@ Ascorbic Acid (C₆H₈O₆) → Dehydroascorbic Acid (C₆H₆O₆) + 2H⁺ + 2
 - Formation of double bond in ring structure
 
 **Catalysts:**
-| Factor | Mechanism |
+| Factor | [[KEYWORD-Mechanism|mechanism]] |
 |--------|-----------|
 | Oxygen | Direct oxidation |
 | Transition metals (Cu²⁺, Fe³⁺) | Redox cycling |
@@ -45,7 +45,7 @@ DHA (C₆H₆O₆) → Oxalic Acid (C₂H₂O₄) + 4 carbons (lost)
 
 **Carbon fate:**
 - Released as CO₂ through metabolic pathways
-- Enters Krebs cycle for complete oxidation
+- Enters [[KEYWORD-Krebs_Cycle|krebs cycle]] for complete oxidation
 - Exhaled via respiratory system
 
 ## Stoichiometry Summary
@@ -71,7 +71,7 @@ DHA (C₆H₆O₆) → Oxalic Acid (C₂H₂O₄) + 4 carbons (lost)
 ## Related
 - **Source:** [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]]
 - **Measurement issues:** [[Ascorbate_Oxalate_Measurement_Interference_[Z-101-0470].md]]
-- **DHA pathways:** [[DHA_Metabolism_Pathways_[Z-101-0471].md]]
+- **DHA pathways:** [[DHA_[[KEYWORD-Metabolism|metabolism]]_Pathways_[Z-101-0471].md]]
 - **Oxalate chemistry:** [[Oxalic_Acid_Chemistry_Properties_[Z-101-0465].md]]
 
 ---

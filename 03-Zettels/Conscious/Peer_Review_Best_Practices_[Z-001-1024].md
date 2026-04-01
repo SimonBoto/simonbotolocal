@@ -15,7 +15,7 @@ status: conscious
 
 ## Overview
 
-Peer review is the quality control mechanism of scientific publishing. Effective review requires technical expertise, critical thinking, and professional communication skills.
+Peer review is the quality control [[KEYWORD-Mechanism|mechanism]] of scientific publishing. Effective review requires technical expertise, critical thinking, and professional communication skills.
 
 ## The Reviewer's Responsibility
 
@@ -243,7 +243,7 @@ Peer review is the quality control mechanism of scientific publishing. Effective
 ### Conflict of Interest
 
 **Declare:**
-- Competing research
+- Competing [[KEYWORD-Research|research]]
 - Personal relationships
 - Financial interests
 
@@ -366,7 +366,7 @@ Peer review is the quality control mechanism of scientific publishing. Effective
 6. **Confidentiality:** Protect unpublished work
 7. **Scientific focus:** On methodology, data, ethics—not personalities
 
-**Clinical Pearl:** The best reviewers improve science by helping authors make their work better. Be the reviewer you'd want reviewing your work—thorough, fair, constructive, and timely.
+**[[KEYWORD-Clinical|clinical]] Pearl:** The best reviewers improve science by helping authors make their work better. Be the reviewer you'd want reviewing your work—thorough, fair, constructive, and timely.
 
 ---
 

@@ -24,7 +24,7 @@ A comprehensive systematic search is the foundation of any rigorous systematic r
 **PubMed/MEDLINE:**
 - **Coverage:** 30+ million citations, 1946-present
 - **Strengths:** Broad biomedical, MeSH indexing, free access
-- **Best for:** General medical topics, clinical questions
+- **Best for:** General medical topics, [[KEYWORD-Clinical|clinical]] questions
 - **Unique features:** Clinical queries filters, PMID linking
 
 **Embase:**
@@ -61,7 +61,7 @@ A comprehensive systematic search is the foundation of any rigorous systematic r
 - **O**utcome: What are the outcomes?
 
 **Example:**
-- P: Adults with type 2 diabetes
+- P: Adults with type 2 [[KEYWORD-Diabetes|diabetes]]
 - I: Metformin
 - C: Placebo or standard care
 - O: Cardiovascular events
@@ -140,7 +140,7 @@ AND
 
 **Example:**
 ```
-("vitamin D"[Mesh] OR "vitamin D"[tiab] OR cholecalciferol[tiab])
+("[[KEYWORD-Vitamin_D|vitamin d]]"[Mesh] OR "vitamin D"[tiab] OR cholecalciferol[tiab])
 AND
 ("diabetes mellitus, type 2"[Mesh] OR "type 2 diabetes"[tiab])
 Filters: Humans, English, last 10 years, randomized controlled trial

@@ -46,7 +46,7 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 ```
 - **Enzyme:** **Methylmalonyl-CoA mutase (MMCoAM)**
 - **Cofactor:** **Vitamin B12 (adenosylcobalamin)**
-- **Location:** Mitochondrial matrix
+- **Location:** [[KEYWORD-Mitochondria|mitochondria]]l matrix
 
 ## Why This Pathway is Critical
 
@@ -55,7 +55,7 @@ The final step **requires B12** — this is the only human enzyme reaction that 
 
 **B12 deficiency consequences:**
 - Methylmalonic acid (MMA) accumulation
-- Impaired BCAA metabolism
+- Impaired BCAA [[KEYWORD-Metabolism|metabolism]]
 - Neurological symptoms (irreversible if prolonged)
 
 ### Clinical Disorders
@@ -75,7 +75,7 @@ While not directly in this pathway, **MSUD** affects the **earlier step** of BCA
 ## Research Relevance
 
 ### BCAA Metabolism in Disease
-- **Insulin resistance:** Elevated plasma BCAAs predict T2DM
+- **[[KEYWORD-Insulin|insulin]] resistance:** Elevated plasma BCAAs predict T2DM
 - **Obesity:** Altered BCAA catabolism in adipose tissue
 - **Cardiovascular:** BCAA metabolites associated with CVD risk
 

@@ -12,9 +12,9 @@ extraction-date: 2026-03-02
 updated: 2026-03-05
 ---
 
-# NODAT Risk Factors Clinical Monitoring and Management
+# NODAT Risk Factors [[KEYWORD-Clinical|clinical]] Monitoring and Management
 
-**NODAT (New-Onset Diabetes After Transplantation):** Diabetes developing in previously non-diabetic transplant recipients, strongly associated with sirolimus use.
+**NODAT (New-Onset [[KEYWORD-Diabetes|diabetes]] After Transplantation):** Diabetes developing in previously non-diabetic transplant recipients, strongly associated with sirolimus use.
 
 ## Risk Stratification
 
@@ -42,7 +42,7 @@ updated: 2026-03-05
 **Required Tests:**
 - Fasting plasma glucose
 - HbA1c
-- Fasting insulin (calculate HOMA-IR)
+- Fasting [[KEYWORD-Insulin|insulin]] (calculate HOMA-IR)
 - Lipid panel (TC, LDL, HDL, TG)
 - BMI, waist circumference
 

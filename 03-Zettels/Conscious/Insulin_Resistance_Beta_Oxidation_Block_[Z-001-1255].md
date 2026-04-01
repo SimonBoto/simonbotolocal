@@ -10,15 +10,15 @@ source-litnote: "[[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]]
 status: conscious
 ---
 
-# Insulin Resistance Beta-Oxidation Block
+# [[KEYWORD-Insulin|insulin]] Resistance Beta-Oxidation Block
 
-Insulin resistance creates a **metabolic paradox:** Elevated circulating free fatty acids (FFAs) coexist with **impaired beta-oxidation capacity**, leading to lipotoxicity and metabolic dysfunction.
+[[KEYWORD-Insulin_Resistance|insulin resistance]] creates a **metabolic paradox:** Elevated circulating free fatty acids (FFAs) coexist with **impaired beta-oxidation capacity**, leading to lipotoxicity and metabolic dysfunction.
 
 ---
 
 ## The Paradox Explained
 
-### In Healthy Metabolism
+### In Healthy [[KEYWORD-Metabolism|metabolism]]
 ```
 Low Insulin → Lipolysis Active → FFAs Released → Beta-Oxidation Active
                (adipose)         (circulation)      (liver, muscle, heart)

@@ -12,11 +12,11 @@ confidence: high
 created: 2026-02-24
 ---
 
-# Gut-Derived Mechanisms in Insulin Resistance
+# Gut-Derived [[KEYWORD-Mechanism|mechanism]]s in [[KEYWORD-Insulin|insulin]] Resistance
 
 Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muciniphila, Faecalibacterium prausnitzii) decline while pathobionts (Proteobacteria) expand. This triggers barrier dysfunction through tight junction disruption (zonulin-mediated), allowing LPS translocation into circulation.
 
-**Metabolic endotoxemia** results: LPS activates TLR4 in liver, muscle, and adipose tissue, creating low-grade inflammation and glucose intolerance systemically.
+**Metabolic endotoxemia** results: LPS activates TLR4 in liver, muscle, and adipose tissue, creating low-grade [[KEYWORD-Inflammation|inflammation]] and glucose intolerance systemically.
 
 **SCFA depletion:** Reduced butyrate production (from lost beneficial species) impairs colonocyte fuel supply, tight junction protein synthesis, and HDAC-mediated anti-inflammatory signaling.
 

@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# p53 Function Loss Cancer Consequences
+# p53 Function Loss [[KEYWORD-Cancer|cancer]] Consequences
 
 ## Overview
 The p53 protein, encoded by the TP53 gene, is the "guardian of the genome." Loss of p53 function removes critical checkpoints for DNA repair, cell cycle control, and apoptosis—enabling malignant transformation and therapeutic resistance.
@@ -28,7 +28,7 @@ The p53 protein, encoded by the TP53 gene, is the "guardian of the genome." Loss
 | **Spindle assembly** | Monitors chromosome segregation |
 
 ### 2. DNA Repair
-| Mechanism | p53 Role |
+| [[KEYWORD-Mechanism|mechanism]] | p53 Role |
 |-----------|----------|
 | **Nucleotide excision repair** | Induces GADD45 |
 | **Base excision repair** | Coordinates response |
@@ -73,7 +73,7 @@ The p53 protein, encoded by the TP53 gene, is the "guardian of the genome." Loss
 ### 4. Metabolic Reprogramming
 | Effect | Mechanism |
 |--------|-----------|
-| **Warburg effect** | p53 normally suppresses glycolysis |
+| **Warburg effect** | p53 normally suppresses [[KEYWORD-Glycolysis|glycolysis]] |
 | **Oxidative stress** | Reduced antioxidant response |
 | **Autophagy** | Dysregulated |
 

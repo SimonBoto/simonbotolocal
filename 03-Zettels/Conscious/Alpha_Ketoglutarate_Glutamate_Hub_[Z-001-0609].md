@@ -24,7 +24,7 @@ extraction-date: 2026-03-05
 Glutamate + NAD⁺ + H₂O → α-Ketoglutarate + NADH + NH₄⁺
 ```
 - **Enzyme:** Glutamate dehydrogenase
-- **Location:** Mitochondrial matrix
+- **Location:** [[KEYWORD-Mitochondria|mitochondria]]l matrix
 - **Direct entry** — no intermediate steps
 
 ### 2. Proline → Glutamate → α-Ketoglutarate
@@ -56,12 +56,12 @@ Histidine → Urocanate → Formiminoglutamate (FIGLU) → Glutamate → α-Keto
 - **Carbon skeleton:** α-Ketoglutarate feeds directly into Krebs cycle
 
 ### Clinical Connections
-- **Glutaric aciduria type I:** Defect in glutaryl-CoA dehydrogenase (lysine/tryptophan/ hydroxylysine metabolism)
+- **Glutaric aciduria type I:** Defect in glutaryl-CoA dehydrogenase (lysine/tryptophan/ hydroxylysine [[KEYWORD-Metabolism|metabolism]])
 - **Hyperprolinemia:** PRODH deficiency, neurotoxic effects
 - **FIGLU excretion:** Folate deficiency marker
 
 ### Research Applications
-- **Insulin secretion:** α-Ketoglutarate signals in β-cells
+- **[[KEYWORD-Insulin|insulin]] secretion:** α-Ketoglutarate signals in β-cells
 - **Hypoxia response:** Prolyl hydroxylases use α-ketoglutarate
 - **Epigenetics:** α-Ketoglutarate is a cofactor for TET enzymes (DNA demethylation)
 

@@ -78,7 +78,7 @@ $$
 
 ---
 
-## 🔗 Connected Biomarkers
+## 🔗 Connected [[KEYWORD-Biomarker|biomarker]]s
 
 **Insulin Resistance:**
 - [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (Pattern B strongly associated with IR)
@@ -90,7 +90,7 @@ $$
 - Z-006-0003 (Small dense LDL — sdLDL) — *link pending*
 
 **Mechanism:**
-- [[Phenotype_Mapping_Metabolomics_Z-001-0018.md]] — Lipotoxicity (IR → hepatic overproduction of VLDL → Pattern B)
+- [[Phenotype_Mapping_[[KEYWORD-Metabolomics|metabolomics]]_Z-001-0018.md]] — Lipotoxicity (IR → hepatic overproduction of VLDL → Pattern B)
 - [[MAPK_Mitogenic_Pathway_[Z-001-0016]]] — Mitochondrial dysfunction (impaired lipid oxidation)
 
 ---
@@ -181,6 +181,6 @@ patient_id,visit,ldl_c_mg_dl,apo_b_mg_dl,ldl_apob_ratio,pattern_type,tg_hdl_rati
 *Created: 2026-02-26 | Domain: 006 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Vitamin B12 Cofactor Enzymes
 
-> Vitamin B12 serves as an essential cofactor for two critical enzymes: methionine synthase (cytosolic, methylation) and methylmalonyl-CoA mutase (mitochondrial, energy metabolism).
+> Vitamin B12 serves as an essential cofactor for two critical enzymes: methionine synthase (cytosolic, methylation) and methylmalonyl-CoA mutase ([[KEYWORD-Mitochondria|mitochondria]]l, energy [[KEYWORD-Metabolism|metabolism]]).
 
 ## Enzyme 1: Methionine Synthase
 
@@ -26,7 +26,7 @@ Homocysteine + 5-MTHF → Methionine + THF
 **Location:** Cytosol
 **EC Number:** 2.1.1.13
 
-**Mechanism:**
+**[[KEYWORD-Mechanism|mechanism]]:**
 1. Methylcobalamin accepts methyl from 5-MTHF
 2. Methylcobalamin becomes temporarily demethylated
 3. Methyl transferred to homocysteine

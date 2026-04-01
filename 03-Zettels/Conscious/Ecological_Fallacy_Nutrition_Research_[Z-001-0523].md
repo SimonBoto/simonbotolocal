@@ -11,7 +11,7 @@ source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]]
 extraction-date: 2026-03-01
 ---
 
-# Ecological Fallacy in Nutrition Research
+# Ecological Fallacy in [[KEYWORD-Nutrition|nutrition]] [[KEYWORD-Research|research]]
 
 > Drawing inferences about individuals from aggregate population-level data commits the ecological fallacy, inflating correlations and undermining causal inference.
 

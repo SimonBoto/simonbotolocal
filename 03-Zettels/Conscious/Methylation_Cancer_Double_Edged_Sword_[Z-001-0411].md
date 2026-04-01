@@ -11,13 +11,13 @@ source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]]
 extraction-date: 2026-03-01
 ---
 
-# Methylation and Cancer — Double-Edged Sword
+# Methylation and [[KEYWORD-Cancer|cancer]] — Double-Edged Sword
 
 > Aberrant DNA methylation patterns contribute to carcinogenesis through hypermethylation (silencing tumor suppressors) and hypomethylation (activating oncogenes and genomic instability), creating complex therapeutic challenges.
 
 ## Hypermethylation — Gene Silencing
 
-**Mechanism:**
+**[[KEYWORD-Mechanism|mechanism]]:**
 - CpG island methylation at gene promoters
 - DNMT overactivity or mislocalization
 - Stable, heritable silencing
@@ -59,7 +59,7 @@ extraction-date: 2026-03-01
 | **Pre-cancerous lesions** | Folate may prevent (corrects hypomethylation) |
 | **Established tumors** | High folate may promote (fuels proliferation) |
 
-**Clinical Implication:**
+**[[KEYWORD-Clinical|clinical]] Implication:**
 - Timing matters
 - Population vs. individual
 - Prevention vs. treatment

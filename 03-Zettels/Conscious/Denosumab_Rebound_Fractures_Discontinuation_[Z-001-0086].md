@@ -19,8 +19,8 @@ Upon discontinuation of denosumab, patients may experience rapid increase in bon
 
 ## Links
 
-**Parent MOC:** [[MOC-Bone-Health]]
-**Source:** [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]]
+**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
+**Source:** [[LitNote_Denosumab_[[KEYWORD-Mechanism|mechanism]]_Risks_L-001-0012]]
 **Related:** [[Denosumab_RANKL_Antibody_Mechanism_[Z-001-0085].md]], [[Denosumab_Bisphosphonate_Transition_Protocol_[Z-001-0087].md]]
 
 ---

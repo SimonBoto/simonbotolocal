@@ -63,7 +63,7 @@ NAD⁺/NADH and FAD/FADH₂ are the primary electron carriers connecting catabol
 ### Clinical Relevance
 - **B2 deficiency:** Impaired fatty acid oxidation
 - **Elevated succinate:** Marker of FADH₂ utilization issues
-- **Therapeutic:** Riboflavin for migraines, mitochondrial disease
+- **Therapeutic:** Riboflavin for migraines, [[KEYWORD-Mitochondria|mitochondria]]l disease
 
 ## Redox Balance
 > "NAD⁺/NADH ratio signals metabolic state."
@@ -75,9 +75,9 @@ NAD⁺/NADH and FAD/FADH₂ are the primary electron carriers connecting catabol
 | Low NAD⁺ | Pathological | Metabolic dysfunction |
 
 ## Related
-- [[Oxidative_Phosphorylation_Clinical_Mechanisms_[Z-001-1050].md]]
+- [[Oxidative_Phosphorylation_Clinical_[[KEYWORD-Mechanism|mechanism]]s_[Z-001-1050].md]]
 - [[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052].md]]
-- [[MOC-Mitochondrial-Function]]
+- [[MOC-[[KEYWORD-Mitochondria|mitochondrial]]-Function]]
 
 ---
 *Source: CGPT-0022 — Mitochondrial biochemistry*

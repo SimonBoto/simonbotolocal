@@ -10,7 +10,7 @@ source-litnote: "[[LitNote_Self_Education_Clinical_Team_L-001-0620]]"
 status: conscious
 ---
 
-# Metabolomics Case Study Template
+# [[KEYWORD-Metabolomics|metabolomics]] Case Study Template
 
 ## Purpose
 
@@ -163,7 +163,7 @@ Standardized template for documenting and presenting clinical cases in metabolom
 ## Example Case Tags
 
 - [[MOC-Insulin-Resistance]]
-- [[MOC-Vitamin-D-Metabolism]]
+- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
 - [[MOC-Mitochondrial-Function]]
 - [[MOC-Gut-Microbiome]]
 - [[MOC-Autoimmunity]]

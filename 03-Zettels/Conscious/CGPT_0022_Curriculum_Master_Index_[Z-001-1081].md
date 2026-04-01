@@ -30,8 +30,8 @@ Complete index of all training materials extracted from CGPT-0022 (179 messages,
 | LitNote | UID | Zettels |
 |---------|-----|---------|
 | Core Clinical Vocabulary | L-001-0590 | 7 |
-| Mitochondrial Biochemistry | L-001-0591 | 6 |
-| Fatty Acid Metabolism | L-001-0592 | 5 |
+| [[KEYWORD-Mitochondria|mitochondria]]l Biochemistry | L-001-0591 | 6 |
+| Fatty Acid [[KEYWORD-Metabolism|metabolism]] | L-001-0592 | 5 |
 | Vitamin-Mineral Axis | L-001-0593 | 6 |
 
 ### Phase 3: Clinical Skills (Weeks 7-8)
@@ -105,7 +105,7 @@ Complete index of all training materials extracted from CGPT-0022 (179 messages,
 - Z-001-1073: Report Standards
 
 ### Research (3 zettels)
-- Z-001-1074: Metabolomics Biblio
+- Z-001-1074: [[KEYWORD-Metabolomics|metabolomics]] Biblio
 - Z-001-1075: VitD Safety
 - Z-001-1076: Mediterranean Diet
 

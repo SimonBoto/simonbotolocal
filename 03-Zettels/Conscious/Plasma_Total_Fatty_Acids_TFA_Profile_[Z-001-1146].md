@@ -123,13 +123,13 @@ Plasma total fatty acid (TFA) analysis provides a comprehensive profile of membr
 | **Low DHA** | Direct DHA supplementation |
 
 ## Related
-- [[Urine_Organic_Acids_OAT_Metabolic_Biomarker_[Z-001-1145].md]]
+- [[Urine_Organic_Acids_OAT_Metabolic_[[KEYWORD-Biomarker|biomarker]]_[Z-001-1145].md]]
 - [[Clinical_Metabolic_Markers_HOMA_IR_HbA1c_[Z-001-1147].md]]
 - [[Fatty_Acid_Ratios_Clinical_Interpretation_[Z-001-1056].md]]
-- [[MOC-Metabolomics-Analysis]]
+- [[MOC-[[KEYWORD-Metabolomics|metabolomics]]-Analysis]]
 
 ---
-*Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
+*Source: CGPT-0475 — Metabolic [[KEYWORD-Biomarker|biomarkers]] for insulin resistance*
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]

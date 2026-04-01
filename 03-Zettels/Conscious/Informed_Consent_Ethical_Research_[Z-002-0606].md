@@ -12,7 +12,7 @@ confidence: high
 created: 2026-03-27
 ---
 
-# Informed Consent in Ethical Research
+# Informed Consent in Ethical [[KEYWORD-Research|research]]
 
 Participants must provide voluntary, informed consent after understanding risks, benefits, and alternatives. Consent is necessary but not sufficient for ethical research.
 
@@ -52,10 +52,10 @@ Participants must provide voluntary, informed consent after understanding risks,
 ## Application to METHAP
 
 METHAP consent requirements:
-- **Plain language** explanation of metabolomics testing
+- **Plain language** explanation of [[KEYWORD-Metabolomics|metabolomics]] testing
 - **Clear risks:** Blood draw discomfort, privacy considerations
 - **Benefits:** No direct benefit, contribution to science
-- **Alternatives:** Standard clinical care without research participation
+- **Alternatives:** Standard [[KEYWORD-Clinical|clinical]] care without research participation
 - **Withdrawal:** Can exit anytime without affecting clinical care
 
 ## Links

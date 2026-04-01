@@ -11,7 +11,7 @@ created: 2026-03-04
 source: [[L-001-0045E]]
 ---
 
-# Glucose Metabolism Overview
+# Glucose [[KEYWORD-Metabolism|metabolism]] Overview
 
 ## The Primary Fuel
 **Glucose:** Most abundant monosaccharide, primary energy source for most organisms.
@@ -23,7 +23,7 @@ source: [[L-001-0045E]]
 
 ## Cellular Uptake
 
-### Insulin-Dependent (GLUT4)
+### [[KEYWORD-Insulin|insulin]]-Dependent (GLUT4)
 - Skeletal muscle
 - Adipose tissue
 - **Mechanism:** Insulin → GLUT4 translocation to membrane
@@ -52,7 +52,7 @@ G6P → NADPH + Ribose (biosynthesis/redox)
 
 ### 4. Lipogenesis (Liver, Adipose)
 ```
-Glucose → Acetyl-CoA → Fatty acids
+Glucose → Acetyl-CoA → [[KEYWORD-Fatty_Acids|fatty acids]]
 ```
 
 ## Regulation

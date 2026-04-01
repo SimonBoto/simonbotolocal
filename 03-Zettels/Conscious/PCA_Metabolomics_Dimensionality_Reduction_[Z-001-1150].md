@@ -13,7 +13,7 @@ confidence: high
 created: 2026-03-08
 ---
 
-# PCA Metabolomics Dimensionality Reduction
+# PCA [[KEYWORD-Metabolomics|metabolomics]] Dimensionality Reduction
 
 ## Overview
 Principal Component Analysis (PCA) reduces the complexity of high-dimensional metabolomics data by transforming correlated variables into uncorrelated principal components—enabling visualization and pattern recognition.
@@ -116,9 +116,9 @@ Principal components = linear combinations of original variables
 - [[MOC-Metabolomics-Analysis]]
 
 ---
-*Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
+*Source: CGPT-0475 — Metabolic [[KEYWORD-Biomarker|biomarker]]s for insulin resistance*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

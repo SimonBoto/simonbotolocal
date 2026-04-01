@@ -31,8 +31,8 @@ Asparagine + H₂O → Aspartate + NH₃
 ## Enzymes: Aminotransferases
 
 ### Aspartate Aminotransferase (AST)
-- **Mitochondrial and cytosolic isozymes**
-- **Clinical marker:** AST/ALT ratio in liver disease
+- **[[KEYWORD-Mitochondria|mitochondria]]l and cytosolic isozymes**
+- **[[KEYWORD-Clinical|clinical]] marker:** AST/ALT ratio in liver disease
 - **Normal:** AST < ALT
 - **Alcoholic liver disease:** AST > ALT (2:1)
 
@@ -55,7 +55,7 @@ Aspartate → Oxaloacetate **replenishes Krebs cycle**
 
 ## Vitamin B6 Dependence
 **All transaminases require PLP:**
-- B6 deficiency → impaired amino acid metabolism
+- B6 deficiency → impaired amino acid [[KEYWORD-Metabolism|metabolism]]
 - Neurological symptoms (neurotransmitter synthesis affected)
 
 ## Related

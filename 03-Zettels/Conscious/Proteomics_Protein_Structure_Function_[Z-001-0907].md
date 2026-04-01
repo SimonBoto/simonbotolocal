@@ -63,7 +63,7 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 - **Multifactorial disease understanding** — Complex disease mechanisms
 - **Therapeutic monitoring** — Protein biomarker tracking
 
-## Proteomics → Metabolomics Connection
+## Proteomics → [[KEYWORD-Metabolomics|metabolomics]] Connection
 
 | Level | What It Measures | Distance from Function |
 |-------|------------------|------------------------|
@@ -74,11 +74,11 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 
 ## METHAP Relevance
 
-**Proteins of Interest in IR/Metabolism:**
+**Proteins of Interest in IR/[[KEYWORD-Metabolism|metabolism]]:**
 - Insulin receptor (INSR) and signaling proteins
 - Glucose transporters (GLUT4)
 - Enzymes in glucose/lipid metabolism
-- Vitamin D receptor (VDR) — potential therapeutic target
+- [[KEYWORD-Vitamin_D|vitamin d]] receptor (VDR) — potential therapeutic target
 
 **But for METHAP:** Metabolomics provides the **functional endpoint** — are metabolic pathways actually working better after VD intervention?
 

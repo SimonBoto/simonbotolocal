@@ -35,7 +35,7 @@ Excess omega-6 fatty acids exert cellular toxicity through mechanisms shared wit
 
 **Persistent Organic Pollutants (PCBs, Dioxins):**
 - Induce CYP450 enzymes
-- Generate ROS during metabolism
+- Generate ROS during [[KEYWORD-Metabolism|metabolism]]
 - Cause oxidative DNA damage
 - Deplete antioxidants
 
@@ -234,7 +234,7 @@ Excess omega-6 fatty acids exert cellular toxicity through mechanisms shared wit
 **Omega-6:**
 - **Intake:** grams per day
 - **Body burden:** kilograms in adipose
-- **Biomarker:** RBC or adipose fatty acid composition
+- **[[KEYWORD-Biomarker|biomarker]]:** RBC or adipose fatty acid composition
 
 **Lead:**
 - **Intake:** micrograms per day
@@ -293,6 +293,6 @@ Omega-6 excess shares mechanistic features with classical environmental toxins:
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

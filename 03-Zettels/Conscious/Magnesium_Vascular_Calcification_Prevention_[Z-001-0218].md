@@ -11,11 +11,11 @@ source-litnote: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]]
 extraction-date: 2026-03-01
 ---
 
-# Magnesium and Vascular Calcification Prevention
+# [[KEYWORD-Magnesium|magnesium]] and Vascular Calcification Prevention
 
-> Magnesium functions as a natural inhibitor of vascular calcification, competing with calcium for deposition in arterial walls and supporting Matrix Gla Protein function, with synergistic effects when combined with Vitamin K2.
+> Magnesium functions as a natural inhibitor of vascular calcification, competing with calcium for deposition in arterial walls and supporting Matrix Gla Protein function, with synergistic effects when combined with [[KEYWORD-Vitamin_K2|vitamin k2]].
 
-## Mechanisms of Calcification Inhibition
+## [[KEYWORD-Mechanism|mechanism]]s of Calcification Inhibition
 
 ### 1. Direct Calcium Antagonism
 **Competitive Inhibition:**

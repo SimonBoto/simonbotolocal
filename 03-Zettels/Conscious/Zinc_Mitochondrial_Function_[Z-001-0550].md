@@ -11,9 +11,9 @@ source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]]
 extraction-date: 2026-03-01
 ---
 
-# Zinc Mitochondrial Function
+# Zinc [[KEYWORD-Mitochondria|mitochondria]]l Function
 
-> Zinc serves as structural and catalytic component of SOD2 and multiple mitochondrial enzymes while maintaining membrane integrity.
+> Zinc serves as structural and catalytic component of SOD2 and multiple [[KEYWORD-Mitochondria|mitochondrial]] enzymes while maintaining membrane integrity.
 
 ## SOD2 (MnSOD)
 
@@ -55,4 +55,4 @@ extraction-date: 2026-03-01
 
 ## RELATED FILES
 - [[MOC-INDEX|Master Index]]
-- [[Core_Minerals_Magnesium_Zinc_Selenium_[Z-001-1015]|Z-001-1015]]
+- [[Core_Minerals_[[KEYWORD-Magnesium|magnesium]]_Zinc_Selenium_[Z-001-1015]|Z-001-1015]]

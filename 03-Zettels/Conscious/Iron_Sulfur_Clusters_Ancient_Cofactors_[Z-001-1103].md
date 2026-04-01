@@ -39,7 +39,7 @@ Iron-sulfur (Fe-S) clusters are among the most ancient biological cofactors, ess
 ### 1. Electron Transfer
 | Protein | Location | Function |
 |---------|----------|----------|
-| **Ferredoxins** | Chloroplasts, mitochondria | Photosynthesis, nitrogen fixation |
+| **Ferredoxins** | Chloroplasts, [[KEYWORD-Mitochondria|mitochondria]] | Photosynthesis, nitrogen fixation |
 | **Succinate dehydrogenase** | Complex II | Krebs cycle, ETC |
 | **NADH dehydrogenase** | Complex I | Electron transport |
 
@@ -53,7 +53,7 @@ Iron-sulfur (Fe-S) clusters are among the most ancient biological cofactors, ess
 ### 3. Sensing and Regulation
 | Sensor | Detects | Response |
 |--------|---------|----------|
-| **IRP1** | Iron levels | Regulates iron metabolism |
+| **IRP1** | Iron levels | Regulates iron [[KEYWORD-Metabolism|metabolism]] |
 | **SoxR** | Superoxide | Activates antioxidant genes |
 | **FNR** | Oxygen | Regulates anaerobic metabolism |
 
@@ -75,7 +75,7 @@ Iron-sulfur (Fe-S) clusters are among the most ancient biological cofactors, ess
 ### Fe-S Cluster Biogenesis Defects
 | Disorder | Gene | Consequence |
 |----------|------|-------------|
-| **Friedreich ataxia** | FXN (frataxin) | Mitochondrial Fe-S defect, neurodegeneration |
+| **Friedreich ataxia** | FXN (frataxin) | [[KEYWORD-Mitochondria|mitochondrial]] Fe-S defect, neurodegeneration |
 | **Multiple mitochondrial dysfunction syndromes** | Various | Combined OXPHOS deficiencies |
 
 ### Oxidative Damage

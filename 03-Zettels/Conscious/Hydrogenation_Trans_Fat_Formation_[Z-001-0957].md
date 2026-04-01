@@ -15,7 +15,7 @@ status: conscious
 
 ## Core Concept
 
-**Hydrogenation** chemically converts liquid unsaturated oils into semi-solid/solid fats by adding hydrogen to double bonds. **Partial hydrogenation** — the dominant industrial process — creates **trans fatty acids** as a major byproduct.
+**Hydrogenation** chemically converts liquid unsaturated oils into semi-solid/solid fats by adding hydrogen to double bonds. **Partial hydrogenation** — the dominant industrial process — creates **trans [[KEYWORD-Fatty_Acids|fatty acids]]** as a major byproduct.
 
 ## Chemistry of Hydrogenation
 
@@ -98,7 +98,7 @@ Catalytic Surface Reaction:
 - **LDL/HDL ratio worsens significantly**
 - Estimated 20-30% increased CVD risk per 2% energy from trans
 
-### Inflammation
+### [[KEYWORD-Inflammation|inflammation]]
 
 **Mechanisms:**
 - Incorporates into cell membranes (behaves like saturated fat)
@@ -106,7 +106,7 @@ Catalytic Surface Reaction:
 - Promotes inflammatory cytokine production
 - Enhances endothelial dysfunction
 
-### Insulin Resistance
+### [[KEYWORD-Insulin|insulin]] Resistance
 
 **Evidence:**
 - Associated with increased type 2 diabetes risk

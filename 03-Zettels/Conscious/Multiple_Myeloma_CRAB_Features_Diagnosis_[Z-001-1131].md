@@ -62,7 +62,7 @@ Multiple myeloma is characterized by the CRAB features—hyperCalcemia, Renal im
 
 ## Related Conditions
 
-### SLiM Criteria (Biomarkers of Malignancy)
+### SLiM Criteria ([[KEYWORD-Biomarker|biomarker]]s of Malignancy)
 | Feature | Threshold |
 |---------|-----------|
 | **S**ixty percent plasma cells | ≥60% clonal BM plasma cells |
@@ -94,7 +94,7 @@ Multiple myeloma is characterized by the CRAB features—hyperCalcemia, Renal im
 |---------|-----------|
 | **Bone pain** | Lytic lesions, fractures |
 | **Fatigue** | Anemia |
-| **Weight loss** | Cytokines, hypermetabolism |
+| **Weight loss** | Cytokines, hyper[[KEYWORD-Metabolism|metabolism]] |
 | **Infections** | Immunodeficiency (hypogammaglobulinemia) |
 | **Neuropathy** | Amyloidosis, vertebral compression |
 
@@ -115,6 +115,6 @@ Multiple myeloma is characterized by the CRAB features—hyperCalcemia, Renal im
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 ## RELATED FILES
-- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family Guide]]
+- [[[[KEYWORD-Biomarker|biomarkers]]/CRP_[B-002-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 
