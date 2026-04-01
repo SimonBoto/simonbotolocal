@@ -1,7 +1,7 @@
 ---
 uid: R-001-0010
 type: reference
-title: "Βιολογία των Συστημάτων, Τεχνολογίες omics, Βιοαναλυτική Χημεία" (Systems Biology, Omics Technologies, Bioanalytical Chemistry)
+title: "Βιολογία των Συστημάτων, Τεχνολογίες omics, Βιοαναλυτική Χημεία (Systems Biology, Omics Technologies, Bioanalytical Chemistry)"
 authors: "Θεοδωρίδης Γ. (Theodoridis G) and colleagues"
 year: "2015"
 doi: ""

@@ -1,7 +1,7 @@
 ---
 uid: CGPT-0638
 type: chatgpt-archive
-title: ""PhD Thesis Title Suggestions""
+title: "PhD Thesis Title Suggestions"
 date: 2023-05-10
 source: ChatGPT conversation history
 aliases: [CGPT-0638]
