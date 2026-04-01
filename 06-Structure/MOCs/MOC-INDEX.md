@@ -9,6 +9,7 @@ parent-moc: none
 status: active
 created: 2026-04-01
 updated: 2026-04-01
+vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 ---
 
 # MOC-INDEX — Master Navigation Hub
@@ -52,16 +53,16 @@ updated: 2026-04-01
 
 | Keyword | Zettels | MOC |
 |---------|---------|-----|
-| [[KEYWORD-Vitamin_D|Vitamin D]] | 58 | 53 linked |
-| [[KEYWORD-Metabolism|Metabolism]] | 42 | 40 linked |
-| [[KEYWORD-Metabolomics|Metabolomics]] | 41 | 38 linked |
-| [[KEYWORD-Biomarker|Biomarker]] | 30 | 28 linked |
-| [[KEYWORD-Insulin|Insulin]] | 29 | 27 linked |
-| [[KEYWORD-Inflammation|Inflammation]] | 29 | 26 linked |
-| [[KEYWORD-Magnesium|Magnesium]] | 23 | 21 linked |
-| [[KEYWORD-Bone_Health|Bone Health]] | 25 | 22 linked |
-| [[KEYWORD-Mitochondria|Mitochondria]] | 25 | 23 linked |
-| [[KEYWORD-Methylation|Methylation]] | 11 | 10 linked |
+| `Keywords/Vitamin_D` | 58 | 53 linked |
+| `Keywords/Metabolism` | 42 | 40 linked |
+| `Keywords/Metabolomics` | 41 | 38 linked |
+| `Keywords/Biomarker` | 30 | 28 linked |
+| `Keywords/Insulin` | 29 | 27 linked |
+| `Keywords/Inflammation` | 29 | 26 linked |
+| `Keywords/Magnesium` | 23 | 21 linked |
+| `Keywords/Bone_Health` | 25 | 22 linked |
+| `Keywords/Mitochondria` | 25 | 23 linked |
+| `Keywords/Methylation` | 11 | 10 linked |
 
 ---
 
