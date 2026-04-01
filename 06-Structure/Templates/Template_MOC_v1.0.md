@@ -3,6 +3,8 @@ uid: "{{YYYYMMDDHHMMSS}}"
 type: "moc"
 title: "MOC — {{Topic Name}}"
 aliases: ["MOC_{{ShortName}}", "{{ShortName}}_MOC"]
+domain: "{{001|101|system}}"
+description: "{{One-line description of what this MOC covers}}"
 tags: ["moc", "{{topic-tag}}", "{{status-tag}}"]
 parent-moc: ""
 status: "active"
@@ -45,11 +47,36 @@ last-updated: "{{YYYY-MM-DD}}"
 
 ---
 
-## 📈 Progress & Tasks
+## 📈 Zettel Coverage
+
+| Type | Count | Notes |
+|------|-------|-------|
+| **Conscious** | {{N}} | Active development |
+| **Subconscious** | {{N}} | Permanent knowledge |
+| **Total** | {{N}} | {{Percentage}}% of domain |
+
+---
+
+## 📄 Synthesis Documents
+
+- [[{{Synthesis_Title}}_[{{S-XXX-XXXX}}]]] — {{Description}}
+
+---
+
+## ✅ Progress & Tasks
 
 - [ ] {{Task 1}}
 - [ ] {{Task 2}}
 - [ ] {{Task 3}}
+
+---
+
+## 📝 Status History
+
+| Date | Status | Notes |
+|------|--------|-------|
+| {{YYYY-MM-DD}} | created | Initial MOC setup |
+| {{YYYY-MM-DD}} | {{status}} | {{What changed}} |
 
 ---
 

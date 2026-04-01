@@ -7,9 +7,11 @@ domain: "{{DDD}}"
 domain-name: "{{DomainName}}"
 tags: ["zettel", "{{topic}}", "{{subtopic}}"]
 parent-moc: ""
+related: ["[[{{Related_Zettel}}_[{{Z-XXX-XXXX}}]]]"]
 source: ""
 confidence: "high | medium | low"
 created: "{{YYYY-MM-DD}}"
+extraction-date: "{{YYYY-MM-DD}}"
 ---
 
 # {{Title}}
@@ -40,6 +42,15 @@ Always use full format: `[[Title_[Z-001-0041].md]]` or `[[Title_[Z-001-0041]|dis
 - `[[Adipic_Acid_Early_IR_Biomarker_[Z-001-0041]|adipic acid]]` — specific, useful
 - "Insulin resistance develops gradually" — plain, readable
 
+## Related Zettels
+
+- [[{{Related_Zettel_1}}_[{{Z-XXX-XXXX}}]]] — {{Connection}}
+- [[{{Related_Zettel_2}}_[{{Z-XXX-XXXX}}]]] — {{Connection}}
+
+## Synthesis Links
+
+- [[{{Synthesis_Title}}_[{{S-XXX-XXXX}}]]] — {{How this zettel contributes}}
+
 ## Context
 
 **Also relevant to:**  (optional)
@@ -53,7 +64,7 @@ Always use full format: `[[Title_[Z-001-0041].md]]` or `[[Title_[Z-001-0041]|dis
 
 ---
 
-## Naming Discipline (v2.0 Protocol)
+## Naming Discipline (v2.1 Protocol)
 
 **MANDATORY:** `Title_[Z-001-0041].md`
 - **T:** Type (Z=zettel, S=synthesis, L=LitNote)
@@ -64,3 +75,9 @@ Always use full format: `[[Title_[Z-001-0041].md]]` or `[[Title_[Z-001-0041]|dis
 1. UID uniqueness (no duplicates)
 2. Searchable naming (find instantly)
 3. Contextual linking (graph grows organically)
+
+---
+
+## Status Footer (NOT in YAML)
+
+Status: conscious | Reviewed: {{YYYY-MM-DD}} | Promoted to Subconscious: {{YYYY-MM-DD}}

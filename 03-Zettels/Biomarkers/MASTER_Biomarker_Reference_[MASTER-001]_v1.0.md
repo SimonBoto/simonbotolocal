@@ -1,13 +1,15 @@
 ---
 uid: MASTER-001
 type: master-reference
-title: Master Biomarker Reference - All Clinical Targets
+title: Master Biomarker Reference - All Clinical Targets v1.0
 aliases: [MASTER-001, Biomaster, Quick-Reference, Clinical-Targets]
 domain: master
 tags: [master-reference, biomarkers, clinical-targets, quick-reference, all-values]
 parent-moc: 
 status: active
 created: 2026-03-30
+last-updated: 2026-04-01
+version: 1.0
 ---
 
 # Master Biomarker Reference

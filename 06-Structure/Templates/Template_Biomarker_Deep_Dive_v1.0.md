@@ -1,13 +1,14 @@
 ---
 uid: TEMPLATE-001
 type: template
-title: Biomarker Deep Dive Template
+title: Biomarker Deep Dive Template v1.1
 aliases: [TEMPLATE-001, Biomarker-Template, Lab-Interpretation-Template]
 domain: template
 tags: [template, biomarker, lab-interpretation, clinical, reference]
 parent-moc: 
 status: template
 created: 2026-03-30
+updated: 2026-04-01
 ---
 
 # Biomarker Deep Dive Template
@@ -25,6 +26,8 @@ created: 2026-03-30
 | **Alternative Names** | [Synonyms, older terminology] |
 | **UID** | [B-XXX-XXXX format] |
 | **Category** | [Hematology/Metabolic/Lipid/etc.] |
+| **Clinical Priority** | [P0/P1/P2] |
+| **Tier Classification** | [GOLD: Core / SILVER: Important / BRONZE: Extended] |
 | **Specimen** | [Serum/Plasma/Whole blood/Urine] |
 | **Collection Requirements** | [Fasting? Time of day? Special handling?] |
 
@@ -444,9 +447,15 @@ created: 2026-03-30
 
 ## RELATED BIOMARKERS
 
-- ]: [Relationship]
-- ]: [Relationship]
-- ]: [Relationship]
+- [[{{Related_Biomarker_1}}_[B-XXX-XXXX]]]: [Relationship]
+- [[{{Related_Biomarker_2}}_[B-XXX-XXXX]]]: [Relationship]
+- [[{{Related_Biomarker_3}}_[B-XXX-XXXX]]]: [Relationship]
+
+---
+
+## SYNTHESIS CONNECTIONS
+
+- [[{{Synthesis_Title}}_[S-XXX-XXXX]]]: [How this biomarker contributes to broader synthesis]
 
 ---
 
