@@ -18,10 +18,12 @@ status: active
 - **Synthesis system** — Template_Synthesis_v1.0 standard established
 
 ## Immediate Next Actions (if needed)
-1. **Fix filename brackets** — `[` and `]` in titles break Obsidian links (URGENT)
-   - Rename: `Title_[Z-001-0001].md` → `Title_Z-001-0001.md`
-   - Update all wiki links referencing bracketed filenames
-   - Fix templates to use `-` or `_` instead of brackets
+1. **CRITICAL: Fix filename brackets** — `[` `]` in titles BREAK ALL OBSIDIAN LINKS (RED ALERT)
+   - **Scope:** 767 zettels + 100 LitNotes + all templates
+   - **Rename:** `Title_[Z-001-0001].md` → `Title_Z-001-0001.md`
+   - **Update:** 3,007+ wiki links across vault
+   - **Fix:** All 8 templates
+   - **Verify:** Every link works in Obsidian before proceeding
 2. **Organize root files** — 6 .md files in vault root need structure
 3. **Finalize synthesis documents** — Complete any remaining Template_Synthesis_v1.0 upgrades
 4. **References optimization** — Return to 01-References/Hub/ for linking improvements
