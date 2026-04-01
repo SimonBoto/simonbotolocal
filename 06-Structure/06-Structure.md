@@ -6,7 +6,7 @@ title: "06-Structure — Navigation & Templates"
 aliases: [Structure, Navigation, Templates, Organization]
 tags: [index, structure, navigation, templates, mocs, folder]
 parent-index: [[00-MISSION]]
-child-folders: [[06-Structure-Indexes]], [[06-Structure-MOCs]], [[06-Structure-Templates]]
+child-folders: "[[06-Structure-Indexes]], [[06-Structure-MOCs]], [[06-Structure-Templates]]"
 status: active
 ---
 

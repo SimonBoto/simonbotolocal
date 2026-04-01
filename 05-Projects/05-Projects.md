@@ -6,7 +6,7 @@ title: "05-Projects — Active Work"
 aliases: [Projects, Active Work, Deliverables]
 tags: [index, projects, deliverables, work, navigation, folder]
 parent-index: [[00-MISSION]]
-child-folders: [[05-Projects-Triangle]], [[05-Projects-AppProduction]], [[05-Projects-PhD]]
+child-folders: "[[05-Projects-Triangle]], [[05-Projects-AppProduction]], [[05-Projects-PhD]]"
 status: active
 ---
 

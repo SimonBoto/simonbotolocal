@@ -6,7 +6,7 @@ date: 2023-09-10
 source: ChatGPT conversation history
 aliases: [RON-004-0003, phd-foundation, insulin-resistance-origin]
 tags: [ron, genesis, phd, insulin-resistance, 2023, methodology]
-parent-moc: "[[RON_Genesis_MOC_[RON-004-0001]\|RON Genesis MOC]]"
+parent-moc: "[[RON_Genesis_MOC_[RON-004-0001]|RON Genesis MOC]]"
 status: conscious
 ---
 
@@ -157,6 +157,6 @@ This conversation is the **foundation stone** — everything built on it (30 cyc
 
 ## Related
 
-- [[RON_Genesis_MOC_[RON-004-0001]\|RON Genesis MOC]] — Complete origin story
-- [[ChatGPT_Metabolomics_PhD_Titles_[RON-004-0002]\|Metabolomics PhD Titles]] — The first conversation
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]\|Adipic Acid Biomarker]] — Current research focus
+- [[RON_Genesis_MOC_[RON-004-0001]|RON Genesis MOC]] — Complete origin story
+- [[ChatGPT_Metabolomics_PhD_Titles_[RON-004-0002]|Metabolomics PhD Titles]] — The first conversation
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]|Adipic Acid Biomarker]] — Current research focus

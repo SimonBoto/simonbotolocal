@@ -6,7 +6,7 @@ title: "03-Zettels — Atomic Knowledge"
 aliases: [Zettels, Atomic Notes, Knowledge Core]
 tags: [index, zettels, atomic, knowledge, core, navigation, folder]
 parent-index: [[00-MISSION]]
-child-folders: [[03-Zettels-Conscious]], [[03-Zettels-Subconscious]]
+child-folders: "[[03-Zettels-Conscious]], [[03-Zettels-Subconscious]]"
 status: active
 ---
 

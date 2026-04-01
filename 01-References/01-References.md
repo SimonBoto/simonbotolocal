@@ -6,7 +6,7 @@ title: "01-References — Source Management"
 aliases: [References, Sources, Bibliography]
 tags: [index, references, sources, bibliography, navigation, folder]
 parent-index: [[00-MISSION]]
-child-folders: [[01-References-Hub]], [[01-References-Other]], [[01-References-Zotero]], [[01-References-Assets]]
+child-folders: "[[01-References-Hub]], [[01-References-Other]], [[01-References-Zotero]], [[01-References-Assets]]"
 status: active
 ---
 
