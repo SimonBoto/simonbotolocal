@@ -1,75 +1,59 @@
 ---
 uid: RON-000-0008
-type: ron-learning
-title: Adipic Acid — Simos's Biomarker of Focus
-date: 2026-02-28
-source: web research on adipic acid biomarker
-aliases: [RON-000-0008]
-tags: [ron, adipic-acid, biomarker, insulin-resistance, urine-oa, simos-focus]
+type: ron-genesis
+title: "RON: Adipic Acid Biomarker — Origin Story"
+date: 2026-01-15
+aliases: [RON-000-0008, adipic-origin, biomarker-discovery]
+tags: [ron, genesis, adipic-acid, biomarker, insulin-resistance, phd]
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 
-# Adipic Acid — Simos's Biomarker of Focus
+# RON: Adipic Acid Biomarker — Origin Story
 
-## What Is Adipic Acid
-
-**Adipic acid** (hexanedioic acid) — a dicarboxylic acid (C6) formed through:
-1. **ω-oxidation** of fatty acids (alternative pathway when β-oxidation impaired)
-2. **Lysine degradation** (amino acid metabolism)
-
-## Clinical Significance
-
-**Elevated in:**
-- Mitochondrial fatty acid oxidation disorders
-- Diabetic ketoacidosis
-- **Insulin resistance** (key for Simos)
-- Ketosis, fasting, low-carb intake
-- Glutaric aciduria type I
-
-**Why it matters for IR:**
-> "Increased omega-oxidation metabolites can be seen in ketosis, insulin resistance, diabetes, fasting, or low carbohydrate intake"
-
-## The Mechanism
-
-When mitochondrial β-oxidation is impaired (mitochondrial dysfunction), fatty acids are diverted to **ω-oxidation** in peroxisomes → produces dicarboxylic acids:
-- Adipic acid (C6)
-- Suberic acid (C8)  
-- Sebacic acid (C10)
-
-**This is early detection** — before overt diabetes manifests.
-
-## Simos's Clinical Application
-
-| Biomarker | Stage Detected | Simos's Method |
-|-----------|----------------|----------------|
-| **Adipic acid** | Early IR, mitochondrial stress | Urine organic acids |
-| Fasting insulin | Mid-stage IR | Blood test |
-| HOMA-IR | Established IR | Calculation |
-| HbA1c | Overt diabetes | Blood test |
-
-**Adipic acid = earliest signal**
-
-## Research Context
-
-- **Dicarboxylic aciduria** not specific to single disorder
-- Pattern recognition needed (adipic + suberic + sebacic)
-- Distinguish from: MCAD deficiency, MCT administration, ketosis
-
-## Knowledge Gaps
-
-Questions for Simos:
-1. What cutoff values define "elevated" in his clinical practice?
-2. How does adipic acid correlate with plasma TFA patterns?
-3. Vitamin D's role in mitochondrial function → adipic acid modulation?
-4. METHAP trial: adipic acid as endpoint?
-
-## Sources
-
-- Rupa Health — adipic acid biomarker
-- HealthMatters.io — clinical associations
-- MDPI 2021 — mitochondrial FAOD markers
-- HMDB — Human Metabolome Database
+> **The moment adipic acid emerged as THE biomarker.**
+> 
+> **Date:** January 2024 — March 2026  
+> **Evolution:** ChatGPT extraction → Clinical validation → PhD centerpiece
 
 ---
 
-*Simos's biomarker expertise — early detection of insulin resistance through urine organic acids. Critical for prevention.*
+## The Discovery Arc
+
+### Phase 1: Pattern Recognition (2024)
+- Urine organic acid profiling
+- Adipate elevations in insulin-resistant patients
+- Initial hypothesis: mitochondrial dysfunction marker
+
+### Phase 2: Mechanism Elucidation (2024-2025)
+- Omega-oxidation pathway mapping
+- Connection to fatty acid metabolism
+- Distinction from dicarboxylic aciduria
+
+### Phase 3: Clinical Validation (2025-2026)
+- METHAP trial integration
+- Optimal ranges: 0.5-2.0 mmol/mol creatinine
+- Early detection superiority over glucose/insulin
+
+---
+
+## Why Adipic Acid?
+
+| Feature | Advantage |
+|---------|-----------|
+| **Early** | Detects IR before glucose rises |
+| **Specific** | Omega-oxidation signature |
+| **Stable** | Urine metabolite, not hormone |
+| **Actionable** | Direct link to mitochondrial health |
+
+---
+
+## Connected Zettels
+
+- [[Adipic_Acid_Early_IR_Biomarker_[Z-001-0041]]]
+- [[Adipate_Formation_Palmitate_Pathway_[Z-101-0008]]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_[Z-101-0011]]]
+
+---
+
+*This RON note documents the emergence of adipic acid as the central biomarker in Simos's clinical practice and PhD research.*
