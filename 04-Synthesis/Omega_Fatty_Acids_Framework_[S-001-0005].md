@@ -1,15 +1,20 @@
 ---
 uid: S-001-0005
 type: synthesis
-title: Omega Fatty Acids Clinical Framework - Systematic Reduction of Omega-6 and Optimization of Omega-3
+title: Omega Fatty Acids Clinical Framework — Omega-6 Reduction & Omega-3 Optimization
 aliases: [S-001-0005, Omega-Framework, Fatty-Acid-Protocol, Seed-Oil-Elimination]
 domain: 001
-tags: [synthesis, omega-6, omega-3, fatty-acids, dietary-intervention, inflammation, seed-oils, linoleic-acid, clinical-protocol]
-parent-moc: 
+domain-name: Fatty_Acid_Metabolism
+tags: [synthesis, omega-6, omega-3, fatty-acids, dietary-intervention, inflammation, seed-oils, linoleic-acid, clinical-protocol, living-document]
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: active
+version: 1.1
 created: 2026-03-30
-updated: 2026-03-30
-version: 1.0
+last-updated: 2026-04-01
+contributing-zettels:
+  - "[[Omega_6_Bioaccumulation_600_Day_Half_Life_[Z-001-0042]]]"
+  - "[[Omega_3_Anti_Inflammatory_Resolvins_[Z-001-0043]]]"
+  - "[[Seed_Oil_Elimination_Protocol_[Z-001-0044]]]"
 ---
 
 # Omega Fatty Acids Clinical Framework

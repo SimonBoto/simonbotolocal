@@ -4,10 +4,17 @@ type: synthesis
 title: Supplement Protocol Framework — Timing & Combinations
 aliases: [S-001-0003, Supplement-Protocol, Dosing-Schedule, Supplement-Timing]
 domain: 001
-tags: [synthesis, supplements, protocol, timing, dosing, clinical, template]
+domain-name: Clinical_Supplementation
+tags: [synthesis, supplements, protocol, timing, dosing, clinical, template, living-document]
 parent-moc: [[MOC-Clinical-Protocols]]
-status: conscious
-source-litnote: Extracted from Treatment Protocol Template
+status: active
+version: 1.1
+created: 2026-03-30
+last-updated: 2026-04-01
+contributing-zettels:
+  - "[[Supplement_Timing_Absorption_[Z-001-0200]]]"
+  - "[[Fat_Soluble_Vitamins_Dosing_[Z-001-0201]]]"
+  - "[[Mineral_Interactions_Scheduling_[Z-001-0202]]]"
 ---
 
 # Supplement Protocol Framework — Timing & Combinations

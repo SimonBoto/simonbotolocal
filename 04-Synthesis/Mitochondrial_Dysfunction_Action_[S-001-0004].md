@@ -1,15 +1,20 @@
 ---
 uid: S-001-0004
 type: synthesis
-title: Mitochondrial Dysfunction Clinical Action Protocol
-aliases: [S-001-0004, Mitochondrial-Action, Mitochondrial-Protocol]
+title: Mitochondrial Dysfunction — Clinical Action Protocol
+aliases: [S-001-0004, Mitochondrial-Action, Mitochondrial-Protocol, Mito-Clinical-Guide]
 domain: 001
-tags: [synthesis, mitochondria, clinical-protocol, testing, intervention, oat, supplementation, metabolic-therapy]
-parent-moc: 
+domain-name: Mitochondrial_Medicine
+tags: [synthesis, mitochondria, clinical-protocol, testing, intervention, oat, supplementation, metabolic-therapy, living-document]
+parent-moc: [[MOC-Mitochondria]]
 status: active
+version: 1.1
 created: 2026-03-30
-updated: 2026-03-30
-version: 1.0
+last-updated: 2026-04-01
+contributing-zettels:
+  - "[[Mitochondrial_Dysfunction_IR_[Z-001-0015]]]"
+  - "[[Citrate_Mitochondrial_Marker_[B-012-0001]]]"
+  - "[[Succinate_Complex_II_Sentinel_[B-012-0004]]]"
 ---
 
 # Mitochondrial Dysfunction Clinical Action Protocol

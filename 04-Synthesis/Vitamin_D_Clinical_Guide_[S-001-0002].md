@@ -1,15 +1,20 @@
 ---
 uid: S-001-0002
 type: synthesis
-title: Vitamin D Clinical Guide - High-Dose Therapeutic Protocols
-aliases: [S-001-0002, VitD-Guide, Vitamin-D-Protocol]
+title: Vitamin D Clinical Guide — High-Dose Therapeutic Protocols
+aliases: [S-001-0002, VitD-Guide, Vitamin-D-Protocol, High-Dose-VitD]
 domain: 001
-tags: [synthesis, vitamin-d, clinical-protocol, dosing, safety, k2, metabolic-syndrome, autoimmunity, high-dose]
-parent-moc: 
+domain-name: Vitamin_D_Therapeutics
+tags: [synthesis, vitamin-d, clinical-protocol, dosing, safety, k2, metabolic-syndrome, autoimmunity, high-dose, living-document]
+parent-moc: [[MOC-Vitamin-D-Metabolism]]
 status: active
+version: 1.1
 created: 2026-03-30
-updated: 2026-03-30
-version: 1.0
+last-updated: 2026-04-01
+contributing-zettels:
+  - "[[Vitamin_D_Receptor_Genomics_[Z-001-0050]]]"
+  - "[[Vitamin_D_Inflammation_Suppression_[Z-001-0051]]]"
+  - "[[Vitamin_K2_Synergy_Calcium_Traffic_[Z-001-0052]]]"
 ---
 
 # Vitamin D Clinical Guide

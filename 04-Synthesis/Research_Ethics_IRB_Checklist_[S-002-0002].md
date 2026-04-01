@@ -4,12 +4,17 @@ type: synthesis
 title: Research Ethics and IRB Submission Guide
 aliases: [S-002-0002, IRB-Checklist, Ethics-Guide, IRB-Submission]
 domain: 002
-tags: [synthesis, research-ethics, irb, checklist, compliance, methap, gcp, informed-consent]
-parent-moc: 
+domain-name: Research_Ethics
+tags: [synthesis, research-ethics, irb, checklist, compliance, methap, gcp, informed-consent, living-document]
+parent-moc: [[MOC-Research-Ethics]]
 status: active
+version: 1.1
 created: 2026-03-30
-updated: 2026-03-30
-version: 1.0
+last-updated: 2026-04-01
+contributing-zettels:
+  - "[[IRB_Submission_Requirements_[Z-002-0100]]]"
+  - "[[Informed_Consent_Best_Practices_[Z-002-0101]]]"
+  - "[[GCP_Compliance_Checklist_[Z-002-0102]]]"
 ---
 
 # Research Ethics and IRB Submission Guide
