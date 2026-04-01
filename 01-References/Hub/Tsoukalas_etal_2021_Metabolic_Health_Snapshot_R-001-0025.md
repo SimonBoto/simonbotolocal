@@ -1,22 +1,51 @@
 ---
 uid: R-001-0025
 type: reference
+reference-type: article
 title: "Tsoukalas et al. (2021) — Metabolic Health Snapshot for Micronutrient Status"
-authors: "Tsoukalas D, Sarandi E, Georgaki S"
+authors:
+  - "Tsoukalas D, Sarandi E, Georgaki S"
 year: "2021"
 journal: "(Chapter/book section - full citation pending)"
+volume: ""
+issue: ""
+pages: ""
 doi: ""
 pmid: ""
 pmcid: ""
-tier: 1
-relevance: "Metabolic health assessment for micronutrients — HIGHLY relevant to METHAP's VitD assessment approach; same author group"
-status: pending
-aliases: [R-001-0025, Tsoukalas_2021_Metabolic_Health_Snapshot]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "1"
+relevance: |
+  Metabolic health assessment for micronutrients — HIGHLY relevant to METHAP's VitD assessment approach; same author group
+abstract: |
+  
+notes: |
+  
 tags: [reference, metabolic-health, micronutrients, assessment, greek-authors, tier-1]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Microbiomics_Gut_Metabolic_Organ_[Z-001-0908]]]"
+    - "[[Amino_Acids_Krebs_Cycle_Complete_Table_[Z-001-0608]]]"
+    - "[[Transcriptomics_Transcriptome_Bridge_[Z-001-0906]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Tsoukalas et al. (2021) — Metabolic Health Snapshot
 

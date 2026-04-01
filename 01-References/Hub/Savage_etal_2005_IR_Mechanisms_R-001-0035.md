@@ -1,24 +1,51 @@
 ---
 uid: R-001-0035
 type: reference
+reference-type: article
 title: "Savage et al. (2005) — Mechanisms of Insulin Resistance in Humans"
-authors: "Savage DB, Petersen KF, Shulman GI"
+authors:
+  - "Savage DB, Petersen KF, Shulman GI"
 year: "2005"
 journal: "Hypertension"
-volume: "45"
-pages: "828-833"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1161/01.HYP.0000163475.04421.e4"
 pmid: "15753209"
 pmcid: ""
-tier: 1
-relevance: "CRITICAL — Foundational IR mechanisms paper; lipid-induced IR, inflammation, mitochondrial dysfunction; cited in NKUA curriculum"
-status: pending
-aliases: [R-001-0035, Savage_2005, IR_Mechanisms_Foundational]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "1"
+relevance: |
+  CRITICAL — Foundational IR mechanisms paper; lipid-induced IR, inflammation, mitochondrial dysfunction; cited in NKUA curriculum
+abstract: |
+  
+notes: |
+  
 tags: [reference, insulin-resistance, mechanisms, lipotoxicity, inflammation, mitochondria, tier-1]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Ketone_Bodies_IR_Diabetes_Metabolism_[Z-001-0914]]]"
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+    - "[[Carbohydrate_Metabolism_IR_Biomarkers_[Z-001-0026]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Savage et al. (2005) — IR Mechanisms (Foundational)
 

@@ -1,22 +1,51 @@
 ---
 uid: R-001-0002
 type: reference
+reference-type: article
 title: "Pharmaco-metabonomic phenotyping and personalized drug treatment"
-authors: "Clayton TA, Lindon JC, Everett JR, et al."
+authors:
+  - "Clayton TA, Lindon JC, Everett JR, et al."
 year: "2006"
+journal: "Nature"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1038/nature04648"
 pmid: "16625200"
 pmcid: ""
-journal: "Nature"
-tier: 1
-status: ref
-confidence: high
-aliases: [R-001-0002, Clayton_2006_Pharmaco_Metabonomics]
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "1"
+relevance: |
+  To be added
+abstract: |
+  
+notes: |
+  
 tags: [ref, pharmacometabolomics, personalized-medicine, biomarkers, drug-response]
-parent-moc: 
-source-type: paper
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "ref"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_[Z-001-0497]]]"
+    - "[[Amino_Acids_Fumarate_Phenylalanine_Tyrosine_[Z-001-0496]]]"
+    - "[[Proteomics_Protein_Structure_Function_[Z-001-0907]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Ref: Clayton et al. (2006) — Pharmaco-Metabonomic Phenotyping
 

@@ -1,24 +1,51 @@
 ---
 uid: R-001-0014
 type: reference
+reference-type: article
 title: "Calder (2020) — Nutrition, immunity and COVID-19"
-authors: "Calder PC"
+authors:
+  - "Calder PC"
 year: "2020"
 journal: "BMJ Nutrition, Prevention & Health"
-volume: "3"
-pages: "74-92"
+volume: ""
+issue: ""
+pages: ""
 doi: ""
 pmid: ""
 pmcid: ""
-tier: 2
-relevance: "Micronutrient-immunity connections — supports VitD immunomodulation rationale but COVID-specific context reduces direct METHAP relevance"
-status: pending
-aliases: [R-001-0014, Calder_2020, Nutrition_Immunity_COVID]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  Micronutrient-immunity connections — supports VitD immunomodulation rationale but COVID-specific context reduces direct METHAP relevance
+abstract: |
+  
+notes: |
+  
 tags: [reference, nutrition, immunity, covid-19, micronutrients, tier-2]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+    - "[[METHAP_Inclusion_Exclusion_Criteria_[Z-002-0618]]]"
+    - "[[METHAP_Participant_Selection_Sample_Size_[Z-002-0617]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Calder (2020) — Nutrition, immunity and COVID-19
 

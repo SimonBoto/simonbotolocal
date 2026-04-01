@@ -1,24 +1,48 @@
 ---
 uid: R-001-0038
 type: reference
-title: Insulin Resistance and Chronic Disease — Cellular Mechanisms
-authors: Savage DB, Petersen KF, Shulman GI
-year: 2007
-doi: 10.1038/nature05763
-pmid: 17334571
-journal: Nature
-volume: 444
-issue: 7121
-pages: 840-846
-tier: 1
-status: ref
-confidence: high
-aliases: [R-001-0038, Savage_2007_IR_Mechanisms, Nature_IR_Cellular]
+reference-type: article
+title: ""
+authors:
+  - ""
+year: ""
+journal: ""
+volume: ""
+issue: ""
+pages: ""
+doi: ""
+pmid: ""
+pmcid: ""
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "1"
+relevance: |
+  To be added
+abstract: |
+  
+notes: |
+  
 tags: [ref, insulin-resistance, cellular-mechanisms, lipotoxicity, DAG, ceramide]
-parent-moc: 
-source-type: paper
-extraction-date: 2026-02-24
+domains:
+  - "001"
+status: "ref"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels: []
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Ref: Savage, Petersen & Shulman (2007) — Cellular Mechanisms of IR
 

@@ -1,22 +1,51 @@
 ---
 uid: R-001-0001
 type: reference
+reference-type: article
 title: "Metabolomics: the apogee of the omics trilogy"
-authors: "Patti GJ, Yanes O, Siuzdak G"
+authors:
+  - "Patti GJ, Yanes O, Siuzdak G"
 year: "2012"
+journal: "Nature Reviews Molecular Cell Biology"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1038/nrm3314"
 pmid: "22436749"
 pmcid: ""
-journal: "Nature Reviews Molecular Cell Biology"
-tier: 1
-status: ref
-confidence: high
-aliases: [R-001-0001, Patti_2012_Metabolomics_Apogee]
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "1"
+relevance: |
+  To be added
+abstract: |
+  
+notes: |
+  
 tags: [ref, metabolomics, omics, systems-biology, review]
-parent-moc: 
-source-type: review
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "ref"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_[Z-001-0610]]]"
+    - "[[Omics_Cascade_Genotype_Phenotype_[Z-001-0902]]]"
+    - "[[Genomics_Structure_Function_Genome_[Z-001-0904]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Ref: Patti, Yanes & Siuzdak (2012) — Metabolomics: Apogee of Omics Trilogy
 

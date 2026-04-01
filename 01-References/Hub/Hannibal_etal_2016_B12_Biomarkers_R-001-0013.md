@@ -1,24 +1,51 @@
 ---
 uid: R-001-0013
 type: reference
+reference-type: article
 title: "Hannibal et al. (2016) — Biomarkers and Algorithms for Vitamin B12 Deficiency"
-authors: "Hannibal L, Lysne V, Bjørke-Monsen AL, Behringer S, Grünert SC, Spiekerkoetter U, Jacobsen DW, Blom HJ"
+authors:
+  - "Hannibal L, Lysne V, Bjørke-Monsen AL, Behringer S, Grünert SC, Spiekerkoetter U, Jacobsen DW, Blom HJ"
 year: "2016"
 journal: "Frontiers in Molecular Biosciences"
-volume: "3"
-pages: "27"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.3389/fmolb.2016.00027"
 pmid: "27446930"
 pmcid: "PMC4930625"
-tier: 1
-relevance: "Cofactor→metabolite biomarker model (B12→methylmalonic acid) — parallel logic to VitD→adipic acid"
-status: pending
-aliases: [R-001-0013, Hannibal_2016, B12_Biomarkers, Cofactor_Model]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "1"
+relevance: |
+  Cofactor→metabolite biomarker model (B12→methylmalonic acid) — parallel logic to VitD→adipic acid
+abstract: |
+  
+notes: |
+  
 tags: [reference, b12, biomarkers, cofactor, metabolites, tier-1]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Cofactor_Metabolite_Biomarker_Logic_B12_Model_[Z-001-0911]]]"
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+    - "[[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Hannibal et al. (2016) — Biomarkers for Vitamin B12 Deficiency
 

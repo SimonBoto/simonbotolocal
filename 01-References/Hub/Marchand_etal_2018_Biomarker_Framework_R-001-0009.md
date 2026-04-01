@@ -1,22 +1,51 @@
 ---
 uid: R-001-0009
 type: reference
+reference-type: article
 title: "A Framework for Development of Useful Metabolomic Biomarkers and Their Effective Knowledge Translation"
-authors: "Marchand CR, et al."
+authors:
+  - "Marchand CR, et al."
 year: "2018"
+journal: "Metabolites"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.3390/metabo8040059"
 pmid: "30400231"
 pmcid: "PMC6311255"
-journal: "Metabolites"
-tier: 2
-status: ref
-confidence: high
-aliases: [R-001-0009, Marchand_2018_Biomarker_Framework]
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  To be added
+abstract: |
+  
+notes: |
+  
 tags: [ref, biomarkers, metabolomics, framework, knowledge-translation, clinical-implementation]
-parent-moc: 
-source-type: review
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "ref"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_[Z-001-0497]]]"
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+    - "[[Biomarker_Classification_Framework_[Z-001-0040]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Ref: Marchand et al. (2018) — Metabolomic Biomarker Framework
 

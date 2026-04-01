@@ -1,25 +1,51 @@
 ---
 uid: R-001-0030
 type: reference
+reference-type: article
 title: "Jonker et al. (2012) — Role of Specific Dietary Amino Acids in Clinical Conditions"
-authors: "Jonker R, Engelen MP, Deutz NE"
+authors:
+  - "Jonker R, Engelen MP, Deutz NE"
 year: "2012"
 journal: "British Journal of Nutrition"
-volume: "108"
-issue: "Suppl 2"
-pages: "S139-S148"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1017/S0007114512002358"
 pmid: "23107542"
 pmcid: ""
-tier: 2
-relevance: "Protein metabolism and amino acid biomarkers — metabolic precursor relationships"
-status: pending
-aliases: [R-001-0030, Jonker_2012, Amino_Acids_Clinical]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  Protein metabolism and amino acid biomarkers — metabolic precursor relationships
+abstract: |
+  
+notes: |
+  
 tags: [reference, amino-acids, protein-metabolism, dietary]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+    - "[[Amino_Acids_Krebs_Cycle_Complete_Table_[Z-001-0608]]]"
+    - "[[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_[Z-001-0497]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Jonker et al. (2012) — Amino Acids in Clinical Practice
 

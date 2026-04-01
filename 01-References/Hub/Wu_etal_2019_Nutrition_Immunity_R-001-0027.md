@@ -1,24 +1,50 @@
 ---
 uid: R-001-0027
 type: reference
+reference-type: article
 title: "Wu et al. (2019) — Nutritional Modulation of Immune Function"
-authors: "Wu D, Lewis ED, Pae M, Meydani SN"
+authors:
+  - "Wu D, Lewis ED, Pae M, Meydani SN"
 year: "2019"
 journal: "Frontiers in Immunology"
-volume: "9"
-pages: "3160"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.3389/fimmu.2018.03160"
 pmid: "30697213"
 pmcid: "PMC6340973"
-tier: 2
-relevance: "Nutrition-immunity mechanisms — open access review supporting VitD immunomodulation rationale; comprehensive evidence analysis"
-status: pending
-aliases: [R-001-0027, Wu_2019, Nutrition_Immunity_Review]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  Nutrition-immunity mechanisms — open access review supporting VitD immunomodulation rationale; comprehensive evidence analysis
+abstract: |
+  
+notes: |
+  
 tags: [reference, nutrition, immunity, immunomodulation, review, tier-2]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Genomics_Structure_Function_Genome_[Z-001-0904]]]"
+    - "[[Low_Carb_CKD_Safety_Evidence_[Z-001-0977]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Wu et al. (2019) — Nutritional Modulation of Immune Function
 

@@ -1,22 +1,51 @@
 ---
 uid: R-001-0007
 type: reference
+reference-type: article
 title: "Systems biology: personalized medicine for the future?"
-authors: "Chen R, Snyder M"
+authors:
+  - "Chen R, Snyder M"
 year: "2012"
+journal: "Current Opinion in Pharmacology"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1016/j.coph.2012.07.002"
 pmid: "22917789"
 pmcid: ""
-journal: "Current Opinion in Pharmacology"
-tier: 2
-status: ref
-confidence: high
-aliases: [R-001-0007, Chen_Snyder_2012_Systems_Biology_PM]
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  To be added
+abstract: |
+  
+notes: |
+  
 tags: [ref, systems-biology, personalized-medicine, future-medicine, review]
-parent-moc: 
-source-type: review
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "ref"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_[Z-001-0610]]]"
+    - "[[Transcriptomics_Transcriptome_Bridge_[Z-001-0906]]]"
+    - "[[Amino_Acids_Alpha_Ketoglutarate_Hub_[Z-001-0494]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Ref: Chen & Snyder (2012) — Systems Biology and Personalized Medicine Future
 

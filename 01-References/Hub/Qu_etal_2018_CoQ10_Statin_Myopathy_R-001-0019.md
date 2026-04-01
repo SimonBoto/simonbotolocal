@@ -1,25 +1,51 @@
 ---
 uid: R-001-0019
 type: reference
+reference-type: article
 title: "Qu et al. (2018) — Coenzyme Q10 on statin-induced myopathy"
-authors: "Qu H, Guo M, Chai H, Wang WT, Gao ZY, Shi DZ"
+authors:
+  - "Qu H, Guo M, Chai H, Wang WT, Gao ZY, Shi DZ"
 year: "2018"
 journal: "Journal of the American Heart Association"
-volume: "7"
-issue: "19"
-pages: "e009835"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1161/JAHA.118.009835"
 pmid: "30228271"
 pmcid: ""
-tier: 3
-relevance: "CoQ10-muscle metabolism — peripheral relevance to mitochondrial dysfunction but statin-specific focus limits METHAP applicability"
-status: pending
-aliases: [R-001-0019, Qu_2018, CoQ10_Statin_Myopathy]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "3"
+relevance: |
+  CoQ10-muscle metabolism — peripheral relevance to mitochondrial dysfunction but statin-specific focus limits METHAP applicability
+abstract: |
+  
+notes: |
+  
 tags: [reference, coq10, statin, myopathy, mitochondria, tier-3]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Mitochondrial_Dysfunction_Cancer_Metabolism_[Z-001-1120]]]"
+    - "[[Mevalonate_METHAP_Integration_[Z-001-0549]]]"
+    - "[[Amino_Acids_Krebs_Cycle_Complete_Table_[Z-001-0608]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Qu et al. (2018) — CoQ10 on statin-induced myopathy
 

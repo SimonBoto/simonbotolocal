@@ -1,11 +1,48 @@
 ---
 uid: 202602182345
-aliases: [Ref_Adipic_Acid_InsulinResistance]
+type: reference
+reference-type: article
+title: ""
+authors:
+  - ""
+year: ""
+journal: ""
+volume: ""
+issue: ""
+pages: ""
+doi: ""
+pmid: ""
+pmcid: ""
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  To be added
+abstract: |
+  
+notes: |
+  
 tags: [reference, adipic, biomarker, insulin-resistance, metabolomics, phd]
-source: 
-year: 2024
-status: reference
+domains:
+  - "001"
+status: "reference"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels: []
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Adipic Acid as Biomarker for Insulin Resistance
 

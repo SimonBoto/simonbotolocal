@@ -1,24 +1,48 @@
 ---
 uid: R-001-0039
 type: reference
-title: Inflammation and Insulin Resistance in Rheumatoid Arthritis
-authors: Gallagher EJ, LeRoith D
-year: 2015
-doi: 10.1016/j.cmet.2015.08.003
-pmid: 26365178
-journal: Cell Metabolism
-volume: 22
-issue: 3
-pages: 361-363
-tier: 1
-status: ref
-confidence: high
-aliases: [R-001-0039, Gallagher_2015_Inflammation_IR_RA, Cell_Metab_Inflammation]
+reference-type: article
+title: ""
+authors:
+  - ""
+year: ""
+journal: ""
+volume: ""
+issue: ""
+pages: ""
+doi: ""
+pmid: ""
+pmcid: ""
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "1"
+relevance: |
+  To be added
+abstract: |
+  
+notes: |
+  
 tags: [ref, inflammation, insulin-resistance, rheumatoid-arthritis, cytokines, TNF-alpha]
-parent-moc: 
-source-type: review
-extraction-date: 2026-02-24
+domains:
+  - "001"
+status: "ref"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels: []
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Ref: Gallagher & LeRoith (2015) — Inflammation and IR in RA
 

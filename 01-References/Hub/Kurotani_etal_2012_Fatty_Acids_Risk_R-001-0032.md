@@ -1,22 +1,51 @@
 ---
 uid: R-001-0032
 type: reference
+reference-type: article
 title: "Kurotani et al. (2012) — Serum Fatty Acids and Metabolic Risk"
-authors: "Kurotani K, Sato M, Ejima Y, Nanri A, Yi S, Pham NM, et al."
+authors:
+  - "Kurotani K, Sato M, Ejima Y, Nanri A, Yi S, Pham NM, et al."
 year: "2012"
 journal: "(Journal pending full citation)"
+volume: ""
+issue: ""
+pages: ""
 doi: ""
 pmid: ""
 pmcid: ""
-tier: 2
-relevance: "Specific fatty acid patterns associated with metabolic risk — stearic acid, palmitoleic acid biomarker pattern"
-status: pending
-aliases: [R-001-0032, Kurotani_2012, Fatty_Acids_Risk]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  Specific fatty acid patterns associated with metabolic risk — stearic acid, palmitoleic acid biomarker pattern
+abstract: |
+  
+notes: |
+  
 tags: [reference, fatty-acids, metabolic-risk, biomarker-pattern]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Carnitine_Fatty_Acid_Transport_[Z-001-0913]]]"
+    - "[[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_[Z-001-0497]]]"
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Kurotani et al. (2012) — Fatty Acid Risk Patterns
 

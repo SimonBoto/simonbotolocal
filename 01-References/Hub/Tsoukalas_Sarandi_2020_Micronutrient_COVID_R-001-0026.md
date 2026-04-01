@@ -1,22 +1,51 @@
 ---
 uid: R-001-0026
 type: reference
+reference-type: article
 title: "Tsoukalas & Sarandi (2020) — Micronutrient Deficiencies in COVID-19"
-authors: "Tsoukalas D, Sarandi E"
+authors:
+  - "Tsoukalas D, Sarandi E"
 year: "2020"
 journal: "(Journal/article - full citation pending)"
+volume: ""
+issue: ""
+pages: ""
 doi: ""
 pmid: ""
 pmcid: ""
-tier: 2
-relevance: "Micronutrient deficiency assessment methodology — potentially applicable to VitD deficiency detection but COVID-specific context"
-status: pending
-aliases: [R-001-0026, Tsoukalas_2020_Micronutrient_COVID]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  Micronutrient deficiency assessment methodology — potentially applicable to VitD deficiency detection but COVID-specific context
+abstract: |
+  
+notes: |
+  
 tags: [reference, micronutrients, deficiency, covid-19, metabolomics, tier-2]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+    - "[[Ketone_Bodies_IR_Diabetes_Metabolism_[Z-001-0914]]]"
+    - "[[Transcriptomics_Transcriptome_Bridge_[Z-001-0906]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Tsoukalas & Sarandi (2020) — Micronutrient Deficiencies in COVID-19
 

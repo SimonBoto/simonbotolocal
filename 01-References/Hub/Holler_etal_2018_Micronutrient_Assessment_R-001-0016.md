@@ -1,24 +1,50 @@
 ---
 uid: R-001-0016
 type: reference
+reference-type: article
 title: "Höller et al. (2018) — Micronutrient status assessment methods"
-authors: "Höller U, Bakker SJL, Düsterloh A, et al."
+authors:
+  - "Höller U, Bakker SJL, Düsterloh A, et al."
 year: "2018"
 journal: "TrAC Trends in Analytical Chemistry"
-volume: "102"
-pages: "110-122"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1016/j.trac.2018.02.001"
 pmid: ""
 pmcid: ""
-tier: 2
-relevance: "Methodology for micronutrient assessment — potentially useful for METHAP biomarker methodology section"
-status: pending
-aliases: [R-001-0016, Holler_2018, Micronutrient_Assessment_Methods]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  Methodology for micronutrient assessment — potentially useful for METHAP biomarker methodology section
+abstract: |
+  
+notes: |
+  
 tags: [reference, micronutrients, assessment, methodology, analytics, tier-2]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Clinical_Assessment_B12_Status_MMA_[Z-001-0441]]]"
+    - "[[Cofactor_Metabolite_Biomarker_Logic_B12_Model_[Z-001-0911]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Höller et al. (2018) — Micronutrient status assessment methods
 

@@ -1,24 +1,48 @@
 ---
 uid: R-001-0037
 type: reference
-title: Banting Lecture 1988 — Role of Insulin Resistance in Human Disease
-authors: Reaven GM
-year: 1988
-doi: 10.2337/diab.37.12.1595
-pmid: 3056758
-journal: Diabetes
-volume: 37
-issue: 12
-pages: 1595-1607
-tier: 1
-status: ref
-confidence: high
-aliases: [R-001-0037, Reaven_1988, Banting-Lecture-1988]
+reference-type: article
+title: ""
+authors:
+  - ""
+year: ""
+journal: ""
+volume: ""
+issue: ""
+pages: ""
+doi: ""
+pmid: ""
+pmcid: ""
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "1"
+relevance: |
+  To be added
+abstract: |
+  
+notes: |
+  
 tags: [ref, insulin-resistance, syndrome-x, metabolic-syndrome, classic]
-parent-moc: 
-source-type: paper
-extraction-date: 2026-02-24
+domains:
+  - "001"
+status: "ref"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels: []
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Reaven 1988 — Banting Lecture
 

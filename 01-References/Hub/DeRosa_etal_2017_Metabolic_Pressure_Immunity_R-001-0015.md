@@ -1,25 +1,51 @@
 ---
 uid: R-001-0015
 type: reference
+reference-type: article
 title: "De Rosa et al. (2017) — Metabolic pressure and immunological self-tolerance"
-authors: "De Rosa V, La Cava A, Matarese G"
+authors:
+  - "De Rosa V, La Cava A, Matarese G"
 year: "2017"
 journal: "Nature Immunology"
-volume: "18"
-issue: "11"
-pages: "1190-1196"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1038/ni.3851"
 pmid: "28991248"
 pmcid: ""
-tier: 2
-relevance: "Metabolism-immune tolerance link — supports IR-autoimmunity connection but mechanistic focus may not directly address METHAP trial design"
-status: pending
-aliases: [R-001-0015, DeRosa_2017, Metabolic_Pressure_Immunity]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  Metabolism-immune tolerance link — supports IR-autoimmunity connection but mechanistic focus may not directly address METHAP trial design
+abstract: |
+  
+notes: |
+  
 tags: [reference, metabolism, immunity, autoimmunity, self-tolerance, tier-2]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+    - "[[METHAP_Inclusion_Exclusion_Criteria_[Z-002-0618]]]"
+    - "[[METHAP_Study_Design_Overview_[Z-002-0616]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # De Rosa et al. (2017) — Metabolic pressure and immunological self-tolerance
 

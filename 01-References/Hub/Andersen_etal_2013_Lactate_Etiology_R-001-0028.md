@@ -1,25 +1,51 @@
 ---
 uid: R-001-0028
 type: reference
+reference-type: article
 title: "Andersen et al. (2013) — Etiology and therapeutic approach to elevated lactate"
-authors: "Andersen LW, Mackenhauer J, Roberts JC, Berg KM, Cocchi MN, Donnino MW"
+authors:
+  - "Andersen LW, Mackenhauer J, Roberts JC, Berg KM, Cocchi MN, Donnino MW"
 year: "2013"
 journal: "Mayo Clinic Proceedings"
-volume: "88"
-issue: "10"
-pages: "1127-1140"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1016/j.mayocp.2013.06.012"
 pmid: "24001476"
 pmcid: ""
-tier: 2
-relevance: "Lactate elevation mechanisms — metabolic stress biomarker applicable to IR severity assessment"
-status: pending
-aliases: [R-001-0028, Andersen_2013, Lactate_Metabolism]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  Lactate elevation mechanisms — metabolic stress biomarker applicable to IR severity assessment
+abstract: |
+  
+notes: |
+  
 tags: [reference, lactate, metabolic-acidosis, metabolic-stress, biomarker]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_[Z-001-0497]]]"
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+    - "[[Amino_Acids_Fumarate_Phenylalanine_Tyrosine_[Z-001-0496]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Andersen et al. (2013) — Lactate Etiology
 

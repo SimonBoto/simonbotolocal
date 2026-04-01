@@ -1,22 +1,51 @@
 ---
 uid: R-001-0008
 type: reference
+reference-type: article
 title: "Metabolomics: Definitions and Significance in Systems Biology"
-authors: "Klassen A, Fiehn O, TK"
+authors:
+  - "Klassen A, Fiehn O, TK"
 year: "2017"
+journal: "Advances in Experimental Medicine and Biology"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1007/978-3-319-62875-1_1"
 pmid: "28889205"
 pmcid: ""
-journal: "Advances in Experimental Medicine and Biology"
-tier: 2
-status: ref
-confidence: high
-aliases: [R-001-0008, Klassen_2017_Metabolomics_Definitions]
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  To be added
+abstract: |
+  
+notes: |
+  
 tags: [ref, metabolomics, definitions, systems-biology, textbook-chapter]
-parent-moc: 
-source-type: book-chapter
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "ref"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Independent_Review_IRB_Ethics_[Z-002-0605]]]"
+    - "[[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_[Z-001-0497]]]"
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Ref: Klassen et al. (2017) — Metabolomics Definitions in Systems Biology
 

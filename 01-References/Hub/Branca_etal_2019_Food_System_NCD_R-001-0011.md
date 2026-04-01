@@ -1,24 +1,51 @@
 ---
 uid: R-001-0011
 type: reference
+reference-type: article
 title: "Branca et al. (2019) — Transforming the food system to fight non-communicable diseases"
-authors: "Branca F, Lartey A, Oenema S, Aguayo V, Stordalen GA, Richardson R, et al."
+authors:
+  - "Branca F, Lartey A, Oenema S, Aguayo V, Stordalen GA, Richardson R, et al."
 year: "2019"
 journal: "BMJ"
-volume: "364"
-pages: "l296"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1136/bmj.l296"
 pmid: ""
 pmcid: ""
-tier: 1
-relevance: "Source of 80% environmental factors claim for NCDs — foundational for METHAP trial rationale"
-status: pending
-aliases: [R-001-0011, Branca_2019, WHO_NCD_Food_System]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "1"
+relevance: |
+  Source of 80% environmental factors claim for NCDs — foundational for METHAP trial rationale
+abstract: |
+  
+notes: |
+  
 tags: [reference, ncds, environmental-factors, nutrition, who, tier-1]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Environmental_Factors_80_Percent_Chronic_Disease_[Z-001-0903]]]"
+    - "[[Genomics_Structure_Function_Genome_[Z-001-0904]]]"
+    - "[[Transcriptomics_Transcriptome_Bridge_[Z-001-0906]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Branca et al. (2019) — Transforming the food system to fight NCDs
 

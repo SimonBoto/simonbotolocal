@@ -1,22 +1,49 @@
 ---
 uid: R-001-0004
 type: reference
+reference-type: article
 title: "Metabolomics: an emerging but powerful tool for precision medicine"
-authors: "Clish CB"
+authors:
+  - "Clish CB"
 year: "2015"
+journal: "Molecular Case Studies"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1101/mcs.a000588"
 pmid: "27158616"
 pmcid: "PMC4856780"
-journal: "Molecular Case Studies"
-tier: 2
-status: ref
-confidence: high
-aliases: [R-001-0004, Clish_2015_Metabolomics_Precision_Medicine]
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  To be added
+abstract: |
+  
+notes: |
+  
 tags: [ref, metabolomics, precision-medicine, clinical-translation, review]
-parent-moc: 
-source-type: review
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "ref"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Ref: Clish (2015) — Metabolomics for Precision Medicine
 

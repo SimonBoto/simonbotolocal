@@ -1,23 +1,51 @@
 ---
 uid: R-001-0033
 type: reference
+reference-type: article
 title: "Patterson et al. (2012) — Health Implications of High Dietary Omega-6 PUFA"
-authors: "Patterson E, Wall R, Fitzgerald G, Ross R, Stanton C"
+authors:
+  - "Patterson E, Wall R, Fitzgerald G, Ross R, Stanton C"
 year: "2012"
 journal: "Journal of Nutrition and Metabolism"
-pages: "Article ID 539426"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1155/2012/539426"
 pmid: "22523647"
 pmcid: "PMC3326645"
-tier: 2
-relevance: "Omega-6: Omega-3 ratio significance — pro-inflammatory mechanisms linking to IR; dietary intervention rationale"
-status: pending
-aliases: [R-001-0033, Patterson_2012, Omega6_Health]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  Omega-6: Omega-3 ratio significance — pro-inflammatory mechanisms linking to IR; dietary intervention rationale
+abstract: |
+  
+notes: |
+  
 tags: [reference, omega-6, omega-3, inflammation, diet, ratio]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Omega6_Omega3_Ratio_Inflammatory_Potential_[Z-001-0564]]]"
+    - "[[Omega_6_Omega_3_Ratio_Evolutionary_Modern_[Z-001-0516]]]"
+    - "[[Fatty_Acid_Subclasses_Desaturase_Pathways_[Z-001-1055]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Patterson et al. (2012) — Omega-6 Health Implications
 

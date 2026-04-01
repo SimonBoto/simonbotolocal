@@ -1,23 +1,51 @@
 ---
 uid: R-001-0022
 type: reference
+reference-type: article
 title: "Tsoukalas et al. (2021) — NCDs in the Era of Precision Medicine"
-authors: "Tsoukalas D, Sarandi E, Thanasoula M"
+authors:
+  - "Tsoukalas D, Sarandi E, Thanasoula M"
 year: "2021"
 journal: "In: Koukios E, Sacio-Szymańska A (eds). Bio#Futures. Springer"
-pages: "Chapter 13"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1007/978-3-030-64969-2_13"
 pmid: ""
 pmcid: ""
-tier: 1
-relevance: "Precision medicine framework for NCDs — directly supports METHAP trial design philosophy; Greek authors may indicate regional relevance"
-status: pending
-aliases: [R-001-0022, Tsoukalas_2021_NCDs_Precision, BioFutures]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "1"
+relevance: |
+  Precision medicine framework for NCDs — directly supports METHAP trial design philosophy; Greek authors may indicate regional relevance
+abstract: |
+  
+notes: |
+  
 tags: [reference, ncds, precision-medicine, metabolomics, greek-authors, tier-1]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+    - "[[Genomics_Structure_Function_Genome_[Z-001-0904]]]"
+    - "[[Respect_Enrolled_Subjects_Ethics_[Z-002-0607]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Tsoukalas et al. (2021) — NCDs in the Era of Precision Medicine
 

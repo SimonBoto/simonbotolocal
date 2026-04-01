@@ -1,22 +1,51 @@
 ---
 uid: R-001-0023
 type: reference
+reference-type: article
 title: "Tsoukalas et al. (2021) — Metabolomics: Diagnostic and Therapeutic Applications"
-authors: "Tsoukalas D, Georgaki S, Sarandi E, Tsatsakis MA"
+authors:
+  - "Tsoukalas D, Georgaki S, Sarandi E, Tsatsakis MA"
 year: "2021"
 journal: "In: Tsatsakis A (ed). Toxicological Risk Assessment and Multi-System Health Impacts from Exposure. Elsevier"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1016/B978-0-323-85215-9.00043-X"
 pmid: ""
 pmcid: ""
-tier: 1
-relevance: "Comprehensive metabolomics clinical applications — HIGHLY relevant to METHAP trial design; same author group as course suggests curriculum alignment"
-status: pending
-aliases: [R-001-0023, Tsoukalas_2021_Metabolomics_Clinical]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "1"
+relevance: |
+  Comprehensive metabolomics clinical applications — HIGHLY relevant to METHAP trial design; same author group as course suggests curriculum alignment
+abstract: |
+  
+notes: |
+  
 tags: [reference, metabolomics, clinical-applications, diagnostics, therapeutics, greek-authors, tier-1]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Social_Clinical_Value_Ethical_Research_[Z-002-0601]]]"
+    - "[[Transcriptomics_Transcriptome_Bridge_[Z-001-0906]]]"
+    - "[[METHAP_Study_Design_Overview_[Z-101-0472]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Tsoukalas et al. (2021) — Metabolomics: Clinical Applications
 

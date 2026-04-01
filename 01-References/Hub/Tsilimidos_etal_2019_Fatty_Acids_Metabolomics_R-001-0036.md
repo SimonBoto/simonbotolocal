@@ -1,24 +1,51 @@
 ---
 uid: R-001-0036
 type: reference
+reference-type: article
 title: "Tsilimidos et al. (2019) — Metabolomics Fatty Acids Part II"
-authors: "Tsilimidos G, Geraci F, et al., Tsatsakis A"
+authors:
+  - "Tsilimidos G, Geraci F, et al., Tsatsakis A"
 year: "2019"
 journal: "International Journal of Molecular Medicine"
-volume: "43"
-pages: "233-242"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.3892/ijmm.2018.3989"
 pmid: "30365120"
 pmcid: ""
-tier: 2
-relevance: "Greek-authored fatty acid metabolomics methodology — analytical approach for plasma TFA; regional relevance to NKUA course"
-status: pending
-aliases: [R-001-0036, Tsilimidos_2019, Fatty_Acids_Metabolomics]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  Greek-authored fatty acid metabolomics methodology — analytical approach for plasma TFA; regional relevance to NKUA course
+abstract: |
+  
+notes: |
+  
 tags: [reference, fatty-acids, metabolomics, methodology, greek-authors]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Carnitine_Fatty_Acid_Transport_[Z-001-0913]]]"
+    - "[[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_[Z-001-0497]]]"
+    - "[[Omics_Cascade_Genotype_Phenotype_[Z-001-0902]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Tsilimidos et al. (2019) — Fatty Acid Metabolomics
 

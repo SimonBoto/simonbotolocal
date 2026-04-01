@@ -1,22 +1,50 @@
 ---
 uid: R-001-0006
 type: reference
+reference-type: article
 title: "Sharpening Precision Medicine by a Thorough Interrogation of Metabolic Individuality"
-authors: "Beebe K, Kennedy AD, Chen G, et al."
+authors:
+  - "Beebe K, Kennedy AD, Chen G, et al."
 year: "2017"
+journal: "Computational and Structural Biotechnology Journal"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1016/j.csbj.2016.11.002"
 pmid: "27999683"
 pmcid: "PMC5152719"
-journal: "Computational and Structural Biotechnology Journal"
-tier: 2
-status: ref
-confidence: high
-aliases: [R-001-0006, Beebe_2017_Metabolic_Individuality]
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  To be added
+abstract: |
+  
+notes: |
+  
 tags: [ref, precision-medicine, metabolic-individuality, computational-biology, systems-medicine]
-parent-moc: 
-source-type: review
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "ref"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+    - "[[Amino_Acids_Krebs_Cycle_Complete_Table_[Z-001-0608]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Ref: Beebe et al. (2017) — Metabolic Individuality in Precision Medicine
 

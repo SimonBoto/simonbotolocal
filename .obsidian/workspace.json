@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,6 +246,10 @@
   },
   "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "06-Structure/MOCs/MOC-References-Active.md",
+    "06-Structure/Templates/Template_Reference_v2.0.md",
+    "Base File All Notes.base",
+    "03-Zettels/Conscious/Acetyl_CoA_Central_Metabolic_Connector_[Z-001-1112].md",
     "03-Zettels/Biomarkers/2-Hydroxybutyric_Acid_Oxidative_Stress_[Z-012-0013].md",
     "03-Zettels/Biomarkers/AA_to_EPA_Ratio_[Z-006-0402].md",
     "03-Zettels/Biomarkers/Albumin_Liver_Synthesis_Nutrition_[Z-009-0006].md",
@@ -270,9 +274,6 @@
     "00-Inbox/Processed/vitamin_d/CGPT_0325_Differential_Diagnosis_Summary_[CGPT-0325].md",
     "00-Inbox/Processed/vitamin_d/CGPT_0284_Vitamin_D_Toxicity_Misconception_[CGPT-0284].md",
     "00-Inbox/Processed/vitamin_d/CGPT_0280_Micronutrient_Deficiencies_Metabolic_Syndrome_[CGPT-0280].md",
-    "00-Inbox/Processed/vitamin_d/CGPT_0275_Mendelian_Study_Vitamin_D_MetS_[CGPT-0275].md",
-    "00-Inbox/Processed/vitamin_d/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_[CGPT-0272].md",
-    "00-Inbox/Processed/vitamin_d/CGPT_0259_Vitamin_D_Metabolic_Syndrome_Review_[CGPT-0259].md",
     "00-Inbox/Processed/vitamin_d",
     "00-Inbox/Processed/technology",
     "00-Inbox/Processed/philosophy",
@@ -281,7 +282,6 @@
     "00-Inbox/Processed/nutrition",
     "00-Inbox/Processed/metabolomics",
     "00-Inbox/Processed/insulin_resistance",
-    "00-Inbox/Processed/greek_language",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]

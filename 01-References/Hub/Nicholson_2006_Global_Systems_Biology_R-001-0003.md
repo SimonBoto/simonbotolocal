@@ -1,22 +1,51 @@
 ---
 uid: R-001-0003
 type: reference
+reference-type: article
 title: "Global systems biology, personalized medicine and molecular epidemiology"
-authors: "Nicholson JK"
+authors:
+  - "Nicholson JK"
 year: "2006"
+journal: "Molecular Systems Biology"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1038/msb4100095"
 pmid: "16738569"
 pmcid: "PMC1682019"
-journal: "Molecular Systems Biology"
-tier: 1
-status: ref
-confidence: high
-aliases: [R-001-0003, Nicholson_2006_Global_Systems_Biology]
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "1"
+relevance: |
+  To be added
+abstract: |
+  
+notes: |
+  
 tags: [ref, systems-biology, personalized-medicine, metabolomics, epidemiology]
-parent-moc: 
-source-type: review
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "ref"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_[Z-001-0497]]]"
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+    - "[[Amino_Acids_Fumarate_Phenylalanine_Tyrosine_[Z-001-0496]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Ref: Nicholson (2006) — Global Systems Biology & Personalized Medicine
 

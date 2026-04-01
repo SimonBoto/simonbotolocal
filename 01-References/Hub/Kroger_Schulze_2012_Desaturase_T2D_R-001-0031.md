@@ -1,25 +1,51 @@
 ---
 uid: R-001-0031
 type: reference
+reference-type: article
 title: "Kröger & Schulze (2012) — Δ5/Δ6 Desaturase Activity and T2D Development"
-authors: "Kröger J, Schulze MB"
+authors:
+  - "Kröger J, Schulze MB"
 year: "2012"
 journal: "Current Opinion in Lipidology"
-volume: "23"
-issue: "1"
-pages: "4-10"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1097/MOL.0b013e32834d2dc5"
 pmid: "22157054"
 pmcid: ""
-tier: 1
-relevance: "CRITICAL — Fatty acid desaturase enzymes as T2D predictors; enzymatic activity biomarkers parallel to adipic acid mitochondrial markers"
-status: pending
-aliases: [R-001-0031, Kroger_2012, Desaturase_T2D]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "1"
+relevance: |
+  CRITICAL — Fatty acid desaturase enzymes as T2D predictors; enzymatic activity biomarkers parallel to adipic acid mitochondrial markers
+abstract: |
+  
+notes: |
+  
 tags: [reference, desaturase, fatty-acids, t2d, biomarker, tier-1]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Lipid_Metabolism_Fatty_Acid_IR_Markers_[Z-001-0027]]]"
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+    - "[[Carnitine_Fatty_Acid_Transport_[Z-001-0913]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Kröger & Schulze (2012) — Desaturases in T2D
 

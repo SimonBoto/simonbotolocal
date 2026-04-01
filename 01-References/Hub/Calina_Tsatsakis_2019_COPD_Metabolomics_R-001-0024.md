@@ -1,25 +1,51 @@
 ---
 uid: R-001-0024
 type: reference
+reference-type: article
 title: "Calina & Tsatsakis (2019) — Metabolic Fingerprint of COPD"
-authors: "Calina D, Tsatsakis A"
+authors:
+  - "Calina D, Tsatsakis A"
 year: "2019"
 journal: "Metabolites"
-volume: "9"
-issue: "12"
-pages: "290"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.3390/metabo9120290"
 pmid: "31739568"
 pmcid: ""
-tier: 2
-relevance: "Metabolomics in chronic lung disease — demonstrates metabolomics biomarker approach but COPD-specific; methodology may transfer to IR"
-status: pending
-aliases: [R-001-0024, Calina_2019, COPD_Metabolomics]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  Metabolomics in chronic lung disease — demonstrates metabolomics biomarker approach but COPD-specific; methodology may transfer to IR
+abstract: |
+  
+notes: |
+  
 tags: [reference, copd, metabolomics, metabolic-fingerprint, chronic-disease, tier-2]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_[Z-001-0024]]]"
+    - "[[Omics_Cascade_Genotype_Phenotype_[Z-001-0902]]]"
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Calina & Tsatsakis (2019) — Metabolic Fingerprint of COPD
 

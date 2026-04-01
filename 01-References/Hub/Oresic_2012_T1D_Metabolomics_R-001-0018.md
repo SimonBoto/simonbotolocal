@@ -1,25 +1,51 @@
 ---
 uid: R-001-0018
 type: reference
+reference-type: article
 title: "Oresic (2012) — Metabolomics in islet autoimmunity and type 1 diabetes"
-authors: "Oresic M"
+authors:
+  - "Oresic M"
 year: "2012"
 journal: "The Review of Diabetic Studies"
-volume: "9"
-issue: "4"
-pages: "236-247"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1900/RDS.2012.9.236"
 pmid: "23750738"
 pmcid: ""
-tier: 2
-relevance: "T1D metabolomics review — companion to Lamichhane (2019) primary study; may provide context but less directly applicable"
-status: pending
-aliases: [R-001-0018, Oresic_2012, T1D_Metabolomics_Review]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  T1D metabolomics review — companion to Lamichhane (2019) primary study; may provide context but less directly applicable
+abstract: |
+  
+notes: |
+  
 tags: [reference, t1d, metabolomics, islet-autoimmunity, review, tier-2]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Predictive_Metabolites_T1D_Example_[Z-001-0019]]]"
+    - "[[Ketone_Bodies_IR_Diabetes_Metabolism_[Z-001-0914]]]"
+    - "[[Independent_Review_IRB_Ethics_[Z-002-0605]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Oresic (2012) — Metabolomics in T1D and islet autoimmunity
 

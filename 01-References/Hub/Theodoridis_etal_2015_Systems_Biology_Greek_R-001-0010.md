@@ -1,22 +1,49 @@
 ---
 uid: R-001-0010
 type: reference
+reference-type: article
 title: "Βιολογία των Συστημάτων, Τεχνολογίες omics, Βιοαναλυτική Χημεία (Systems Biology, Omics Technologies, Bioanalytical Chemistry)"
-authors: "Θεοδωρίδης Γ. (Theodoridis G) and colleagues"
+authors:
+  - "Θεοδωρίδης Γ. (Theodoridis G) and colleagues"
 year: "2015"
+journal: "Ελληνικά Ακαδημαϊκά Ηλεκτρονικά Συγγράμματα και Βοηθήματα (Greek Academic Electronic Textbooks and Aids)"
+volume: ""
+issue: ""
+pages: ""
 doi: ""
 pmid: ""
 pmcid: ""
-journal: "Ελληνικά Ακαδημαϊκά Ηλεκτρονικά Συγγράμματα και Βοηθήματα (Greek Academic Electronic Textbooks and Aids)"
-tier: 3
-status: ref
-confidence: medium
-aliases: [R-001-0010, Theodoridis_2015_Systems_Biology_Greek]
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "3"
+relevance: |
+  To be added
+abstract: |
+  
+notes: |
+  
 tags: [ref, systems-biology, omics, bioanalytical-chemistry, textbook, greek]
-parent-moc: 
-source-type: book
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "ref"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Omics_Cascade_Genotype_Phenotype_[Z-001-0902]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Ref: Theodoridis et al. (2015) — Systems Biology & Omics (Greek Textbook)
 

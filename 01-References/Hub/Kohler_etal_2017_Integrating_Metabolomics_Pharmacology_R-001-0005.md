@@ -1,22 +1,51 @@
 ---
 uid: R-001-0005
 type: reference
+reference-type: article
 title: "Integrating clinical metabolomics-based biomarker discovery and clinical pharmacology to enable precision medicine"
-authors: "Kohler I, Verhoeven A, Vogt JA, et al."
+authors:
+  - "Kohler I, Verhoeven A, Vogt JA, et al."
 year: "2017"
+journal: "European Journal of Pharmaceutical Sciences"
+volume: ""
+issue: ""
+pages: ""
 doi: "10.1016/j.ejps.2017.05.018"
 pmid: "28576665"
 pmcid: ""
-journal: "European Journal of Pharmaceutical Sciences"
-tier: 2
-status: ref
-confidence: high
-aliases: [R-001-0005, Kohler_2017_Integrating_Metabolomics_Pharmacology]
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  To be added
+abstract: |
+  
+notes: |
+  
 tags: [ref, biomarker-discovery, clinical-pharmacology, precision-medicine, integration]
-parent-moc: 
-source-type: review
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "ref"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+    - "[[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_[Z-001-0497]]]"
+    - "[[Social_Clinical_Value_Ethical_Research_[Z-002-0601]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Ref: Kohler et al. (2017) — Integrating Metabolomics & Pharmacology
 

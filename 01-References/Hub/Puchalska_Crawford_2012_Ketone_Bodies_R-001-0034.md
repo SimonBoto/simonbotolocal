@@ -1,22 +1,51 @@
 ---
 uid: R-001-0034
 type: reference
+reference-type: article
 title: "Puchalska & Crawford (2012) — Multi-dimensional Roles of Ketone Bodies"
-authors: "Puchalska P, Crawford PA"
+authors:
+  - "Puchalska P, Crawford PA"
 year: "2012"
 journal: "(Journal pending full citation)"
+volume: ""
+issue: ""
+pages: ""
 doi: ""
 pmid: ""
 pmcid: ""
-tier: 2
-relevance: "Ketone body metabolism as IR indicator — alternative fuel pathways in metabolic dysfunction"
-status: pending
-aliases: [R-001-0034, Puchalska_2012, Ketone_Bodies]
-domain: 001
+zotero-select: ""
+zotero-key: ""
+url: ""
+pdf-path: ""
+tier: "2"
+relevance: |
+  Ketone body metabolism as IR indicator — alternative fuel pathways in metabolic dysfunction
+abstract: |
+  
+notes: |
+  
 tags: [reference, ketones, fatty-acid-oxidation, metabolism]
-parent-moc: 
-extraction-date: 2026-02-23
+domains:
+  - "001"
+status: "pending"
+extraction-priority: P1
+parent-moc: [[MOC-Research-Methods]]
+connections:
+  extracted-zettels:
+    - "[[Ketone_Bodies_IR_Diabetes_Metabolism_[Z-001-0914]]]"
+    - "[[Microbiomics_Gut_Metabolic_Organ_[Z-001-0908]]]"
+    - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
+  synthesis-links: []
+  related-refs: []
+  supports-claims: []
+  contradicts-claims: []
+  methods-source: []
+litnotes-created: []
+extraction-date: ""
+extracted-by: ""
+quality-score: medium
 ---
+
 
 # Puchalska & Crawford (2012) — Ketone Body Roles
 
