@@ -234,9 +234,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "863732e7c0fcb9fd",
+  "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "09-System/zettel-forge.js",
+    "09-System/seed-registry.js",
+    "09-System/UID_REGISTRY.json",
+    "09-System/EMERGENCY-Recovery.md",
     "09-System/CHECKLIST-PreFlight.md",
+    "09-System/CHECKLIST-Extraction.md",
+    "09-System",
     "07-Archive/09-System-OPERATIONAL-2026-04-01/zettel-forge.js",
     "07-Archive/09-System-OPERATIONAL-2026-04-01/seed-registry.js",
     "07-Archive/09-System-OPERATIONAL-2026-04-01/UID_REGISTRY.json",
@@ -244,9 +250,7 @@
     "07-Archive/09-System-OPERATIONAL-2026-04-01/CHECKLIST-PreFlight.md",
     "07-Archive/09-System-OPERATIONAL-2026-04-01/CHECKLIST-Extraction.md",
     "07-Archive/09-System-OPERATIONAL-2026-04-01",
-    "09-System/CHECKLIST-Extraction.md",
     "09-System/09-System.md",
-    "09-System/EMERGENCY-Recovery.md",
     "01-References/Other/Theodoridis_etal_2015_Systems_Biology_Greek_Textbook.md",
     "01-References/Other",
     "06-Structure/OPTIMAL_LINKING_PLAN.md",
@@ -268,9 +272,6 @@
     "01-References/Hub/Beebe_etal_2017_Metabolic_Individuality_R-001-0006.md",
     "01-References/Hub/Marchand_etal_2018_Biomarker_Framework_R-001-0009.md",
     "09-System/Educational",
-    "Base File All Notes.base",
-    "00-Inbox/ChatGPT",
-    "00-Inbox/Processed/vitamin_d",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
