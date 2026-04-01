@@ -158,6 +158,7 @@ Emerging evidence suggests:
 *Confidence: High* — Established gut-metabolism connection  
 *Next Review: After microbiome-focused literature review*
 ## RELATED FILES
+- [[Microbiome_Gut_Brain_Terminology_[Z-001-1045]|Z-001-1045]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

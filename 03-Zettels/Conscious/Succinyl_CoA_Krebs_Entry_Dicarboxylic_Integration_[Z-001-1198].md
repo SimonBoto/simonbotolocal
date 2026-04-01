@@ -152,3 +152,7 @@ Adipyl-CoA
 ---
 
 *Source: [[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]] | 2026-03-09*
+
+
+## RELATED FILES
+- [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_[Z-001-0610]|Z-001-0610]]

@@ -106,3 +106,7 @@ Pyruvate → Acetyl-CoA → Fatty acids (for membranes)
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
+
+
+## RELATED FILES
+- [[mtDNA_Mutations_Cancer_Metastasis_[Z-001-1167]|Z-001-1167]]

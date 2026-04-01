@@ -97,3 +97,7 @@ Key research supporting Mediterranean diet for metabolic health.
 
 ---
 *Source: CGPT-0022 — Research bibliography*
+
+
+## RELATED FILES
+- [[D_K2_Co_Supplementation_Evidence_Overview_[Z-001-0263]|Z-001-0263]]

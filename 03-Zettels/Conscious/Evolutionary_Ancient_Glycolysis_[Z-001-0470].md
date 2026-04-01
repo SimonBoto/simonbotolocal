@@ -83,3 +83,7 @@ Key enzymes ~30-50% identical across domains:
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
+
+
+## RELATED FILES
+- [[Glycolysis_Steps_Regulation_[Z-001-0467]|Z-001-0467]]

@@ -78,3 +78,7 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 
 ## Related
 - [[Hematological_Overlap_B12_MM_[Z-001-0420]|Z-001-0420]]
+
+
+## RELATED FILES
+- [[B12_METHAP_Protocol_Integration_[Z-001-0443]|Z-001-0443]]

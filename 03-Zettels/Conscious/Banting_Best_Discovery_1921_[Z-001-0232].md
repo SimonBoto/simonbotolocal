@@ -121,3 +121,6 @@ extraction-date: 2026-03-01
 
 *Source: [[LitNote_Insulin_History_L-001-0207]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[Oleic_Acid_Metabolic_Benefits_[Z-001-0533]|Z-001-0533]]

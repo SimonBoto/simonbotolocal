@@ -278,3 +278,7 @@ Safety and efficacy data for low-carbohydrate and ketogenic diets in chronic kid
 **Related:** [[Carbohydrate_Context_Modifies_Renal_Hemodynamics_[Z-001-0976].md]] | [[Protein_Restriction_CKD_Guidelines_[Z-001-0974].md]]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
+
+
+## RELATED FILES
+- [[Threonine_Dual_Metabolism_Glucogenic_Ketogenic_[Z-001-0611]|Z-001-0611]]

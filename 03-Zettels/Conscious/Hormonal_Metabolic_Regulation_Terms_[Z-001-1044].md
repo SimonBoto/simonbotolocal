@@ -49,3 +49,7 @@ created: 2026-03-08
 
 ---
 *Source: CGPT-0022 — Tsoukalas Core Vocabulary*
+
+
+## RELATED FILES
+- [[Oleic_Acid_Metabolic_Benefits_[Z-001-0533]|Z-001-0533]]

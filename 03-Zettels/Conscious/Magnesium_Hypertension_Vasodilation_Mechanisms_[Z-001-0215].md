@@ -125,3 +125,7 @@ extraction-date: 2026-03-01
 
 *Source: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]]*  
 *Extracted: 2026-03-01*
+
+
+## RELATED FILES
+- [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_[Z-001-0206]|Z-001-0206]]

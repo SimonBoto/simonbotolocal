@@ -26,3 +26,7 @@ Protein intake stimulates intestinal calcium absorption. However, extremely high
 ---
 
 *UID: Z-001-0097 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[Bone_Remodeling_Cycle_Five_Phases_[Z-001-0083]|Z-001-0083]]

@@ -97,3 +97,7 @@ During active biosynthesis, intermediates are withdrawn:
 ---
 
 *Source: CGPT-0413 (April 16, 2024) via [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]]*
+
+
+## RELATED FILES
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_[Z-001-1196]|Z-001-1196]]

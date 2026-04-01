@@ -75,3 +75,7 @@ METHAP requires:
 
 ## Related
 - [[METHAP_Metabolomics_Analysis_Plan_[Z-002-0620]|Z-002-0620]]
+
+
+## RELATED FILES
+- [[Declaration_Helsinki_Research_Ethics_[Z-002-0609]|Z-002-0609]]

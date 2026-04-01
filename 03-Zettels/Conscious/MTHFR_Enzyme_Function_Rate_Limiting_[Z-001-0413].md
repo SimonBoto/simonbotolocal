@@ -58,3 +58,7 @@ extraction-date: 2026-03-01
 ---
 
 *Source: [[LitNote_MTHFR_Genetics_L-001-0403]]*
+
+
+## RELATED FILES
+- [[Folate_5MTHF_vs_Folic_Acid_[Z-004-0002]|Z-004-0002]]

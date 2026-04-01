@@ -76,3 +76,7 @@ Valine/Isoleucine/Leucine → Branched-chain α-keto acid
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
+
+
+## RELATED FILES
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_[Z-001-0428]|Z-001-0428]]

@@ -51,3 +51,7 @@ extraction-date: 2026-03-01
 ---
 
 *Source: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]]*
+
+
+## RELATED FILES
+- [[Core_Minerals_Magnesium_Zinc_Selenium_[Z-001-1015]|Z-001-1015]]

@@ -101,3 +101,7 @@ A structured, sequential approach to supplementation that prioritizes foundation
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*
+
+
+## RELATED FILES
+- [[Magnesium_Supplementation_Diabetes_Clinical_Trials_[Z-001-0213]|Z-001-0213]]

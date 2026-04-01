@@ -111,3 +111,7 @@ status: conscious
 ---
 
 *Source: [[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]] | 2026-03-08*
+
+
+## RELATED FILES
+- [[RA_Telomerase_Elevation_Compensatory_Proliferation_[Z-001-1175]|Z-001-1175]]

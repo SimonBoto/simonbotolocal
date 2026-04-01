@@ -66,3 +66,7 @@ ALA (18:3 n-3) ──Δ6D──> SDA (18:4 n-3) ──E──> EPA (20:5 n-3) �
 
 ---
 *Source: CGPT-0022 — Fatty acid metabolism*
+
+
+## RELATED FILES
+- [[ATP_Yield_Comparison_[Z-001-1258]|Z-001-1258]]

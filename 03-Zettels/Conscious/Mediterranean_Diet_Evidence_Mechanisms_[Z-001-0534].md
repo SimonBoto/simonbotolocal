@@ -63,3 +63,7 @@ extraction-date: 2026-03-01
 ---
 
 *Source: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]*
+
+
+## RELATED FILES
+- [[Mediterranean_Diet_Metabolic_Evidence_[Z-001-1076]|Z-001-1076]]

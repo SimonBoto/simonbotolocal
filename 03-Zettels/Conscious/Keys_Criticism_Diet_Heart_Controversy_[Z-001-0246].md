@@ -140,3 +140,6 @@ extraction-date: 2026-03-01
 
 *Source: [[LitNote_Dietary_Fat_History_L-001-0210]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[Omega_6_Cardiovascular_Controversy_[Z-001-0962]|Z-001-0962]]

@@ -128,3 +128,7 @@ updated: 2026-03-05
 ---
 
 *See also: [[Sirolimus_Beta_Cell_Dysfunction_NODAT_[Z-001-0924]]]*
+
+
+## RELATED FILES
+- [[Sirolimus_ETC_Impairment_ROS_Generation_[Z-001-0513]|Z-001-0513]]

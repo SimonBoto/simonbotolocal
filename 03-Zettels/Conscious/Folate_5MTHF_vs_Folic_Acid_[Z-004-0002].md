@@ -142,6 +142,7 @@ patient_id,visit,rbc_folate_ng_ml,5_mthf_ng_ml,mthfr_genotype,folate_form_used
 *Created: 2026-02-26 | Domain: 004 | Status: Conscious*
 
 ## RELATED FILES
+- [[TG_HDL_Ratio_IR_Marker_[Z-001-0049]|Z-001-0049]]
 - [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

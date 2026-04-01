@@ -87,3 +87,7 @@ Both use the **propionyl-CoA → succinyl-CoA** pathway but differ in ketogenic 
 ---
 
 *Source: CGPT-0413 (April 16, 2024) via [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]]*
+
+
+## RELATED FILES
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_[Z-001-1101]|Z-001-1101]]

@@ -36,3 +36,7 @@ Gordon et al. (2008) treated vitamin D-deficient adolescents with 2,000 IU daily
 ---
 
 *UID: Z-001-0070 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[Vitamin_D_High_Dose_Monitoring_Protocol_[Z-001-0091]|Z-001-0091]]

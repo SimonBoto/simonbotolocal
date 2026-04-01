@@ -179,3 +179,7 @@ Standardized template for documenting and presenting clinical cases in metabolom
 ---
 
 *Source: [[LitNote_Self_Education_Clinical_Team_L-001-0620]] | 2026-03-08*
+
+
+## RELATED FILES
+- [[IRB_Communication_Template_[Z-002-0614]|Z-002-0614]]

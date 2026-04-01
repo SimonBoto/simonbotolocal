@@ -80,3 +80,7 @@ SAH ↔ Homocysteine + Adenosine
 
 ## Related
 - [[Methylation_Cancer_Double_Edged_Sword_[Z-001-0411]|Z-001-0411]]
+
+
+## RELATED FILES
+- [[Folate_5MTHF_vs_Folic_Acid_[Z-004-0002]|Z-004-0002]]

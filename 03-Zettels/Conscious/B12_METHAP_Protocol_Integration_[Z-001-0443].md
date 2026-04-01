@@ -68,3 +68,7 @@ B12 is foundational for METHAP success, supporting energy, methylation, and cell
 ---
 
 *Source: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]]*
+
+
+## RELATED FILES
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_[Z-001-0428]|Z-001-0428]]

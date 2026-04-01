@@ -101,3 +101,7 @@ The **2 purely ketogenic:**
 ---
 
 *Source: CGPT-0413 (April 16, 2024) via [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]]*
+
+
+## RELATED FILES
+- [[BCAAs_IR_Risk_[Z-001-0042]|Z-001-0042]]

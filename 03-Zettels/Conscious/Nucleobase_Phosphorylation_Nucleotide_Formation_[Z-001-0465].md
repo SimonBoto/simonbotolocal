@@ -118,3 +118,7 @@ Builds nucleotides from simple precursors (amino acids, CO₂, formate)
 
 ---
 *Source: CGPT-0445 extraction (Messages 21-24) | Created: 2026-03-04*
+
+
+## RELATED FILES
+- [[Nucleoside_Formation_Phosphorylation_Pathways_[Z-001-1086]|Z-001-1086]]

@@ -53,3 +53,7 @@ extraction-date: 2026-03-01
 ---
 
 *Source: [[LitNote_B12_MM_Mimicry_L-001-0404]]*
+
+
+## RELATED FILES
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_[Z-001-0428]|Z-001-0428]]

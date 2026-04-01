@@ -143,3 +143,6 @@ extraction-date: 2026-03-01
 
 *Source: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[METHAP_Intervention_Protocol_Diet_Supplements_[Z-001-1142]|Z-001-1142]]

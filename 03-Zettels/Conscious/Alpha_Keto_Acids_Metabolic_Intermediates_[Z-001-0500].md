@@ -89,3 +89,7 @@ Yield acetyl-CoA or acetoacetyl-CoA:
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
+
+
+## RELATED FILES
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_[Z-001-1100]|Z-001-1100]]

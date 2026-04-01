@@ -149,6 +149,7 @@ See: [[Ascorbate_Oxalate_Measurement_Interference_[Z-101-0470].md]]
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 ## RELATED FILES
+- [[METHAP_Intervention_Protocol_Diet_Supplements_[Z-001-1142]|Z-001-1142]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

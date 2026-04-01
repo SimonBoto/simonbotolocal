@@ -114,3 +114,7 @@ Mitochondrial Health = Biogenesis - (Damage + Clearance)
 ---
 
 *See also: [[Sirolimus_ETC_Impairment_ROS_Generation_[Z-001-0513]]]*
+
+
+## RELATED FILES
+- [[Sirolimus_Lipotoxicity_Adiponectin_[Z-001-0926]|Z-001-0926]]

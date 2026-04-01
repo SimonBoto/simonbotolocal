@@ -167,6 +167,7 @@ Hepatic IR      Muscle IR       β-cell dysfunction
 *See also: [[mTORC2_Akt_Insulin_Signaling_[Z-001-0925]]]*
 
 ## RELATED FILES
+- [[Sirolimus_ETC_Impairment_ROS_Generation_[Z-001-0513]|Z-001-0513]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

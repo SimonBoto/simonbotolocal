@@ -79,3 +79,7 @@ Serine + Tetrahydrofolate (THF) ↔ Glycine + 5,10-methylene-THF
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
+
+
+## RELATED FILES
+- [[Alpha_Keto_Acids_Metabolic_Intermediates_[Z-001-0500]|Z-001-0500]]

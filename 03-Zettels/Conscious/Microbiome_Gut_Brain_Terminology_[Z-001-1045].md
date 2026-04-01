@@ -47,3 +47,7 @@ The microbiome:
 
 ---
 *Source: CGPT-0022 — Tsoukalas Core Vocabulary*
+
+
+## RELATED FILES
+- [[Propionate_Sources_Metabolic_Fate_[Z-001-0426]|Z-001-0426]]

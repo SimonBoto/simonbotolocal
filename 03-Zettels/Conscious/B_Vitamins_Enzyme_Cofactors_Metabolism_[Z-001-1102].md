@@ -101,3 +101,7 @@ B-vitamins serve as essential cofactors for hundreds of metabolic enzymes—each
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
+
+
+## RELATED FILES
+- [[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052]|Z-001-1052]]

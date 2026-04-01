@@ -111,3 +111,7 @@ Insulin Resistance → Compensatory Hyperinsulinemia → Beta-Cell Exhaustion �
 
 *Source: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]]*  
 *Extracted: 2026-03-01*
+
+
+## RELATED FILES
+- [[Magnesium_Dosing_RDA_Therapeutic_Ranges_[Z-001-0219]|Z-001-0219]]

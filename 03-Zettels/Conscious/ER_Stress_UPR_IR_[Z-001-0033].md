@@ -46,3 +46,7 @@ Metabolic overload creates endoplasmic reticulum stress when protein synthesis d
 ---
 
 *UID: Z-001-0033 | Domain: 001 | Created: 2026-02-24*
+
+
+## RELATED FILES
+- [[ER_Stress_Induced_IR_[Z-001-0014]|Z-001-0014]]

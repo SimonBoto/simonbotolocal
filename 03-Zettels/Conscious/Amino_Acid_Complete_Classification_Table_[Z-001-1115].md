@@ -123,3 +123,7 @@ Comprehensive classification of the 20 proteinogenic amino acids by multiple cri
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
+
+
+## RELATED FILES
+- [[BCAAs_IR_Risk_[Z-001-0042]|Z-001-0042]]

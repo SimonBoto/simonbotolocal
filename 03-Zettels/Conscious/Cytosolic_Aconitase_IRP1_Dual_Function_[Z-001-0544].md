@@ -50,3 +50,7 @@ extraction-date: 2026-03-01
 ---
 
 *Source: [[LitNote_Aconitase_Enzyme_L-001-0508]]*
+
+
+## RELATED FILES
+- [[IRP1_Iron_Sensing_Molecular_Switch_[Z-001-1205]|Z-001-1205]]

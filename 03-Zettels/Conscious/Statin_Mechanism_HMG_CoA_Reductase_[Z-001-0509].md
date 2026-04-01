@@ -65,3 +65,7 @@ Enhanced LDL clearance
 
 ## Related
 - [[Cholesterol_Synthesis_Mevalonate_Pathway_[Z-001-0501]|Z-001-0501]]
+
+
+## RELATED FILES
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_[Z-001-0428]|Z-001-0428]]

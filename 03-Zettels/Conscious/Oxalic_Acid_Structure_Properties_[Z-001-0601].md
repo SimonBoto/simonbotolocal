@@ -57,3 +57,7 @@ created: 2026-03-04
 
 ---
 *Source: CGPT-0413 | Created: 2026-03-04*
+
+
+## RELATED FILES
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_[Z-101-0011]|Z-101-0011]]

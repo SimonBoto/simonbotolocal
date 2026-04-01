@@ -179,3 +179,7 @@ Modern multiple myeloma treatment utilizes novel agents (immunomodulatory drugs,
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
+
+
+## RELATED FILES
+- [[B12_MM_Mimicry_Clinical_Question_[Z-001-0419]|Z-001-0419]]

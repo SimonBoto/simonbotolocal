@@ -52,3 +52,7 @@ extraction-date: 2026-03-01
 ---
 
 *Source: [[LitNote_B12_Clinical_Assessment_L-001-0408]]*
+
+
+## RELATED FILES
+- [[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_[Z-001-0497]|Z-001-0497]]

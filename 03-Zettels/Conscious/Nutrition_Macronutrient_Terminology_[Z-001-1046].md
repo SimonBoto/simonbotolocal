@@ -49,3 +49,7 @@ created: 2026-03-08
 
 ---
 *Source: CGPT-0022 — Tsoukalas Core Vocabulary*
+
+
+## RELATED FILES
+- [[Muscle_Bone_Unit_Mechanical_Loading_[Z-001-0096]|Z-001-0096]]

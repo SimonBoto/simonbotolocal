@@ -54,3 +54,7 @@ extraction-date: 2026-03-01
 ---
 
 *Source: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]*
+
+
+## RELATED FILES
+- [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_[Z-001-0610]|Z-001-0610]]
