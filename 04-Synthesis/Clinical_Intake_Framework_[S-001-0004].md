@@ -4,10 +4,17 @@ type: synthesis
 title: Clinical Intake Framework — Patient History Structure
 aliases: [S-001-0004, Intake-Framework, Medical-History, Patient-Assessment]
 domain: 001
-tags: [synthesis, clinical, intake, history, assessment, framework]
+domain-name: Clinical_Intake
+tags: [synthesis, clinical, intake, history, assessment, framework, living-document]
 parent-moc: [[MOC-Clinical-Protocols]]
-status: conscious
-source-litnote: Extracted from Medical History Template
+status: active
+version: 1.1
+created: 2026-03-30
+last-updated: 2026-04-01
+contributing-zettels:
+  - "[[Chief_Complaint_Assessment_[Z-001-0400]]]"
+  - "[[Medical_History_Structure_[Z-001-0401]]]"
+  - "[[Lifestyle_Factors_Clinical_[Z-001-0402]]]"
 ---
 
 # Clinical Intake Framework — Patient History Structure

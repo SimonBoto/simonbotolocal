@@ -1,19 +1,23 @@
 ---
 uid: S-001-0001
 type: synthesis
-title: Biochemical Assessment Integration Clinical Framework
-aliases: [S-001-0001, Biochemical Assessment, Lab Integration, Metabolic Panel]
+title: Biochemical Assessment Integration — Clinical Framework
+aliases: [S-001-0001, Biochemical-Assessment, Lab-Integration, Metabolic-Panel]
 domain: 001
-tags: [synthesis, biomarker, clinical-protocol, phd-methap, assessment-framework]
-parent-moc: 
-status: conscious
-connections:
-  - [[HOMA_IR_Calculation_Interpretation_[Z-001-0046]]]
-  - [[TyG_Index_IR_Assessment_[Z-001-0048]]]
-  - [[TG_HDL_Ratio_IR_Marker_[Z-001-0049]]]
-  - [[Metabolic_Syndrome_Criteria_[Z-001-0050]]]
-  - [[Uric_Acid_Metabolic_Marker_[Z-001-0052]]]
-  - [[Blood_Pressure_Assessment_Hypertension_[Z-001-0053]]]
+domain-name: Biochemical_Assessment
+tags: [synthesis, biomarker, clinical-protocol, phd-methap, assessment-framework, living-document]
+parent-moc: [[MOC-Biomarkers]]
+status: active
+version: 1.1
+created: 2026-03-30
+last-updated: 2026-04-01
+contributing-zettels:
+  - "[[HOMA_IR_Calculation_Interpretation_[Z-001-0046]]]"
+  - "[[TyG_Index_IR_Assessment_[Z-001-0048]]]"
+  - "[[TG_HDL_Ratio_IR_Marker_[Z-001-0049]]]"
+  - "[[Metabolic_Syndrome_Criteria_[Z-001-0050]]]"
+  - "[[Uric_Acid_Metabolic_Marker_[Z-001-0052]]]"
+  - "[[Blood_Pressure_Assessment_Hypertension_[Z-001-0053]]]"
 ---
 
 # Biochemical Assessment Integration — Clinical Framework

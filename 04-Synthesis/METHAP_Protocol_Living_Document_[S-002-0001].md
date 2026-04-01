@@ -46,22 +46,21 @@ contributing-zettels:
 ### 1.1 Scientific Background
 
 **Vitamin D and Metabolism**
-- [[Vitamin_D_Immunomodulation_Mechanisms_[Z-001-1163]]]
-- [[Vitamin_D_Insulin_Sensitivity_Glucose_Metabolism_[Z-001-0224]]]
-- [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_[Z-001-0225]]]
-- [[Vitamin_D_Adipose_Tissue_Immunomodulation_[Z-001-0226]]]
+- [Vitamin_D_Immunomodulation_Mechanisms_[Z-001-1163] 
+- [[Vitamin_D_Insulin_Sensitivity_Glucose_Metabolism_[Z-001-0224]
+- [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_[Z-001-0225]
+- [[Vitamin_D_Adipose_Tissue_Immunomodulation_[Z-001-0226]
 
 **Adipic Acid as Biomarker**
-- [[Adipic_Acid_Early_IR_Biomarker_[Z-001-0041]]] — Early indicator of impaired β-oxidation
-- [[Adipate_Formation_Palmitate_Pathway_[Z-101-0008]]] — Metabolic pathway
-- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_[Z-101-0011]]] — Clinical interpretation
-- [[Urinary_Adipate_Interpretation_Clinical_[Z-001-1199]]] — Diagnostic utility
+  [[Adipic_Acid_Early_IR_Biomarker_[Z-001-0041]]]
+- [[Adipate_Formation_Palmitate_Pathway_[Z-101-0008] — Metabolic pathway
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_[Z-101-0011]] — Clinical interpretation
+- [[Urinary_Adipate_Interpretation_Clinical_[Z-001-1199]— Diagnostic utility
 
 **Mitochondrial Connection**
 - [[Mitochondrial_Dysfunction_IR_[Z-001-0015]]]
 - [[Beta_Oxidation_Clinical_Mechanisms_[Z-001-1054]]]
 - [[Carnitine_Fatty_Acid_Transport_[Z-001-0913]]]
-
 ### 1.2 Knowledge Gap
 
 Current evidence demonstrates:

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Zettels/Biomarkers/Master_Biomarker_Reference_[MASTER-001].md",
+                "file": "04-Synthesis/METHAP_Protocol_Living_Document_[S-002-0001].md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Master_Biomarker_Reference_[MASTER-001]"
+              "title": "METHAP_Protocol_Living_Document_[S-002-0001]"
             }
           }
         ]
@@ -209,6 +209,14 @@
   },
   "active": "f010d4b0e2682ff5",
   "lastOpenFiles": [
+    "07-Archive/OPTIMAL_LINKING_PLAN.md",
+    "Adipic_Acid_Early_IR_Biomarker_[Z-001-0041.md",
+    "04-Synthesis/METHAP_Protocol_Living_Document_[S-002-0001].md",
+    "04-Synthesis/Mitochondrial_Dysfunction_Action_[S-001-0004].md",
+    "04-Synthesis/Clinical_Biochemical_Assessment_Framework_[S-001-0002].md",
+    "04-Synthesis/Biochemical_Assessment_Integration_S-001-0001.md",
+    "04-Synthesis/Insulin_Signaling_Synthesis_[S-001-0001].md",
+    "03-Zettels/Biomarkers/Master_Biomarker_Reference_[MASTER-001].md",
     "06-Structure/Templates/Template_Synthesis_v1.0.md",
     "06-Structure/MOCs/Keywords/KEYWORD-Vitamin_K2.md",
     "06-Structure/MOCs/Keywords/KEYWORD-Vitamin_D.md",
@@ -227,14 +235,6 @@
     "06-Structure/MOCs/Keywords/KEYWORD-Metabolomics.md",
     "06-Structure/MOCs/Keywords/KEYWORD-Metabolism.md",
     "06-Structure/MOCs/Keywords/KEYWORD-Metabolic_Syndrome.md",
-    "06-Structure/MOCs/Keywords/KEYWORD-Mechanism.md",
-    "06-Structure/MOCs/Keywords/KEYWORD-Magnesium.md",
-    "06-Structure/MOCs/Keywords/KEYWORD-Krebs_Cycle.md",
-    "06-Structure/MOCs/Keywords/KEYWORD-Insulin_Resistance.md",
-    "06-Structure/MOCs/Keywords/KEYWORD-Insulin.md",
-    "06-Structure/MOCs/Keywords/KEYWORD-Inflammation.md",
-    "06-Structure/MOCs/Keywords/KEYWORD-Glycolysis.md",
-    "06-Structure/MOCs/Keywords/KEYWORD-Folate.md",
     "06-Structure/MOCs/Keywords",
     "Base File All Notes.base",
     "06-Structure/zettel-forge.js",

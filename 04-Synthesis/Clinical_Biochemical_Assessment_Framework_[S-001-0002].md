@@ -4,10 +4,18 @@ type: synthesis
 title: Clinical Biochemical Assessment Framework — Integrated Protocol
 aliases: [S-001-0002, Clinical-Framework, Biochemical-Assessment, Lab-Interpretation-Guide]
 domain: 001
-tags: [synthesis, clinical-protocol, biomarkers, assessment, interpretation, phd-methap]
+domain-name: Clinical_Assessment
+tags: [synthesis, clinical-protocol, biomarkers, assessment, interpretation, phd-methap, living-document]
 parent-moc: [[MOC-Clinical-Protocols]]
-status: conscious
-source-litnote: Extracted from Biochemical Report Template v2.0
+status: active
+version: 1.1
+created: 2026-03-30
+last-updated: 2026-04-01
+contributing-zettels:
+  - "[[CBC_Interpretation_Clinical_[Z-001-0300]]]"
+  - "[[Iron_Studies_Assessment_[Z-001-0301]]]"
+  - "[[Lipid_Panel_Analysis_[Z-001-0302]]]"
+  - "[[Metabolic_Markers_Integration_[Z-001-0303]]]"
 ---
 
 # Clinical Biochemical Assessment Framework — Integrated Protocol
