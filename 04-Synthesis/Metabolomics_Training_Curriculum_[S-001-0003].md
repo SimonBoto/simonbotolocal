@@ -1,15 +1,19 @@
 ---
 uid: S-001-0003
 type: synthesis
-title: Metabolomics Training Curriculum - 8-Week Clinical Certification Program
-aliases: [S-001-0003, Metabolomics-Curriculum, Training-Program, Metabolomics-Certification]
+title: Metabolomics Training Curriculum — 8-Week Clinical Certification
+aliases: [S-001-0003, Metabolomics-Curriculum, Training-Program, MCP-Certification]
 domain: 001
-tags: [synthesis, metabolomics, training, curriculum, education, certification, clinical, oat, lipidomics]
-parent-moc: 
+domain-name: Metabolomics_Training
+tags: [synthesis, metabolomics, training, curriculum, education, certification, clinical, oat, lipidomics, living-document]
+parent-moc: [[MOC-Clinical-Protocols]]
 status: active
+version: 1.1
 created: 2026-03-30
-updated: 2026-03-30
-version: 1.0
+last-updated: 2026-04-01
+contributing-zettels:
+  - "[[Asynchronous_Learning_Medical_Teams_[Z-001-1161]]]"
+  - "[[Clinical_Team_Education_4Arm_Methodology_[Z-001-1159]]]"
 ---
 
 # Metabolomics Training Curriculum

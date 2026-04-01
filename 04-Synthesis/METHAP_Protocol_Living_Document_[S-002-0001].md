@@ -1,15 +1,21 @@
 ---
 uid: S-002-0001
 type: synthesis
-title: METHAP Protocol - Metabolomics of High-Dose Vitamin D in Adipic Acid Pathways
-aliases: [S-002-0001, METHAP-Protocol, PhD-Study-Protocol]
+title: METHAP Protocol — Metabolomics of High-Dose Vitamin D in Adipic Acid Pathways
+aliases: [S-002-0001, METHAP-Protocol, PhD-Study-Protocol, Clinical-Trial-Design]
 domain: 002
-tags: [synthesis, methap, phd, protocol, irb, study-design, vitamin-d, adipic-acid, metabolomics, clinical-trial]
-parent-moc: 
+domain-name: METHAP_Study
+tags: [synthesis, methap, phd, protocol, irb, study-design, vitamin-d, adipic-acid, metabolomics, clinical-trial, living-document]
+parent-moc: [[MOC-Research-Methods]]
 status: active
+version: 1.1
 created: 2026-03-30
-updated: 2026-03-30
-version: 1.0
+last-updated: 2026-04-01
+contributing-zettels:
+  - "[[METHAP_Study_Design_[Z-002-0001]]]"
+  - "[[Adipic_Acid_Primary_Endpoint_[Z-002-0002]]]"
+  - "[[Vitamin_D3_Intervention_Dosing_[Z-002-0003]]]"
+  - "[[Vitamin_K2_Synergy_Mechanism_[Z-002-0004]]]"
 ---
 
 # METHAP Protocol
