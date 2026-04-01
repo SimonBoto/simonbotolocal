@@ -54,6 +54,12 @@ ls /home/simon/Workspaces/TheOptimizedBrain/06-Structure/MOCs/MOC-XXX.md
 grep -r "^uid: Z-001" /home/simon/Workspaces/TheOptimizedBrain/03-Zettels/Conscious/*.md | tail -5
 ```
 
+### □ 5. Permanent Questions Check
+Review [[PERMANENT_QUESTIONS.md]] — does this extraction answer any active questions?
+
+### □ 6. Synthesis Trigger Check
+Review [[SYNTHESIS_TRIGGERS.md]] — will this push any topic toward critical mass?
+
 ---
 
 ## EXTRACTION WORKFLOW
@@ -70,7 +76,11 @@ grep -r "^uid: Z-001" /home/simon/Workspaces/TheOptimizedBrain/03-Zettels/Consci
 1. Draft zettel titles and assign UIDs
 2. Verify parent-moc exists
 3. Confirm domain assignment (001 vs 101)
-4. **APPROVAL GATE:** Present plan to user before creation
+4. **Classify tier:**
+   - **GOLD:** Deep extraction, 3-4 atomics, high value
+   - **SILVER:** Medium upgrade, YAML + TL;DR
+   - **BRONZE:** Standardization only
+5. **APPROVAL GATE:** Present plan to user before creation (unless L4 pre-authorized)
 
 ### PHASE 3: CREATION (15-30 min)
 **For each LitNote:**
@@ -117,9 +127,16 @@ grep -L "^domain-name:" /path/to/zettel*.md
 grep -L "^confidence:" /path/to/zettel*.md
 grep -L "^source:" /path/to/zettel*.md
 # EXPECTED: Nothing (all should have these fields)
+
+# Check 5: Run validation script (if available)
+# ~/.openclaw/workspace/validate_extraction.sh
 ```
 
+**Synthesis Trigger Check:** After verification, check if any topics reached critical mass (6+ zettels). Flag for synthesis opportunity.
+
 ### PHASE 5: COMMIT (2 min)
+**Git checkpoint every 5 LitNotes or 10 zettels (whichever comes first)**
+
 ```bash
 cd /home/simon/Workspaces/TheOptimizedBrain
 git add -A
@@ -128,8 +145,11 @@ git commit -m "CGPT-XXXX Batch N: Description — X LitNotes + Y zettels
 - LitNote L-XXX-XXXX: Title
 - Zettels: Z-XXX-XXXX through Z-XXX-XXXX
 - MOC: MOC-XXX updated (if applicable)
+- Tier: GOLD/SILVER/BRONZE breakdown
 - Status: Complete/Processing"
 ```
+
+**L4 Autonomy Note:** If pre-authorized per AUTONOMY.md v2.1, proceed without approval gates. Report in daily note.
 
 ---
 
@@ -228,7 +248,8 @@ NEXT: [Next batch or completion]
 
 ---
 
-*Protocol: CGPT Archive Extraction v2.0*
+*Protocol: CGPT Archive Extraction v2.1*
 *Created: 2026-03-03*
+*Updated: 2026-04-01 — Added GOLD/SILVER/BRONZE tiers, L4 autonomy, synthesis triggers, permanent questions check*
 *For: Thirtyfold Path — CGPT Archive synthesis*
 *Enforced by: RON (Research & Operations Navigator)*

@@ -1,15 +1,15 @@
 ---
 uid: PROTOCOL-001-0001
 type: protocol
-title: Extraction Protocol Checklist v1.1
+title: Extraction Protocol Checklist v1.2
 domain: 001
 domain-name: Protocols
 tags: [protocol, extraction, quality, checklist, zettelkasten]
 parent-moc: 
 status: active
 created: 2026-02-24
-updated: 2026-02-24
-changes: "v1.1 — Added Done Criteria, reduced batch size (3), mandatory pause protocol"
+updated: 2026-04-01
+changes: "v1.2 — Added GOLD/SILVER/BRONZE tiers, L4 autonomy, synthesis triggers, permanent questions check, git checkpoint frequency"
 ---
 
 # EXTRACTION PROTOCOL CHECKLIST v1.1
@@ -24,6 +24,8 @@ Full protocol: `~/.openclaw/skills/vault-extraction/SKILL.md`
 - [ ] Checked COMMAND.md for domain/priority
 - [ ] Git clean? (<20 uncommitted files)
 - [ ] No other extraction running
+- [ ] Reviewed PERMANENT_QUESTIONS.md — does this source answer any active questions?
+- [ ] Checked SYNTHESIS_TRIGGERS.md — will this push any topic toward critical mass?
 
 ## PHASE 1: AUDIT
 - [ ] Listed all Z-XXX- files
@@ -41,12 +43,17 @@ Full protocol: `~/.openclaw/skills/vault-extraction/SKILL.md`
 - [ ] **PASS 3**: Legacy links noted (not created)
 - [ ] Cross-checked against AUDIT
 - [ ] Assigned sequential UIDs
+- [ ] **Classified tier:**
+  - **GOLD:** Deep extraction, 3-4 atomics, high value sources
+  - **SILVER:** Medium upgrade, YAML + TL;DR + key findings
+  - **BRONZE:** Standardization only, YAML fix
 - [ ] Created EXTRACTION_PLAN.md
-- [ ] **WAITED FOR YOUR APPROVAL**
+- [ ] **WAITED FOR YOUR APPROVAL** (unless L4 pre-authorized per AUTONOMY.md)
 
 ## PHASE 3: CREATE
 - [ ] Cached templates (read once)
 - [ ] **Max 3 items this batch** (reduced from 5 — prevents fatigue errors)
+- [ ] **Git checkpoint every 5 items** (per AUTONOMY.md v2.1)
 - [ ] Pre-write: No `{{` placeholders
 - [ ] Each file: Written
 - [ ] Each file: Verified exists
@@ -77,8 +84,9 @@ Full protocol: `~/.openclaw/skills/vault-extraction/SKILL.md`
 - [ ] **Done Criteria checklist completed (see table above)**
 - [ ] Gap analysis: Created/Failed/Remaining
 - [ ] Created VERIFICATION_REPORT
+- [ ] **Synthesis check:** Any topics reached critical mass (6+ zettels)? Flag for synthesis.
 - [ ] **MANDATORY PAUSE: Report verification results BEFORE claiming done**
-- [ ] **YOU REVIEWED**
+- [ ] **YOU REVIEWED** (unless L4 pre-authorized)
 
 ## PHASE 5: UPDATE — STATUS RULES
 
@@ -157,7 +165,7 @@ git diff --stat HEAD~1
 
 ---
 
-*Protocol: SKILL/vault-extraction v1.1*
+*Protocol: SKILL/vault-extraction v1.2*
 *Created: 2026-02-24*
-*Updated: 2026-02-24*
+*Updated: 2026-04-01 — Aligned with CGPT v2.1: tiers, L4 autonomy, synthesis triggers*
 *For: NKUA 3174/3175 + future extractions*

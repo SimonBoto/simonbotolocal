@@ -1,5 +1,5 @@
 ---
-uid: pre-flight-v1.0
+uid: pre-flight-v1.1
 type: system
 title: "RON Pre-Flight Card — 30-Second Checklist"
 aliases: [Pre_Flight_Card, PreFlight, Quick_Check]
@@ -29,11 +29,16 @@ echo "Zettels:"; ls 03-Zettels/Conscious/*.md | grep -oE "Z-[0-9]+-[0-9]+" | sor
 
 ---
 
-## ☐ 2. Load Templates (10 sec)
+## ☐ 2. Load Templates + Classify Tier (10 sec)
 
 **Read before creating files:**
 - [ ] `06-Structure/Templates/Template_LitNote_v1.0.md`
 - [ ] `06-Structure/Templates/Template_Zettel_v1.0.md`
+
+**Classify this extraction:**
+- [ ] **GOLD:** Deep, 3-4 atomics, high value
+- [ ] **SILVER:** Medium, YAML + TL;DR
+- [ ] **BRONZE:** Standardization only
 
 **Key checks:**
 - `type: lit-note` (with hyphen!)
@@ -42,28 +47,33 @@ echo "Zettels:"; ls 03-Zettels/Conscious/*.md | grep -oE "Z-[0-9]+-[0-9]+" | sor
 
 ---
 
-## ☐ 3. Validate Links (10 sec)
+## ☐ 3. Validate Links + Check Context (10 sec)
 
 **Before saving, check for:**
 ```bash
 # Malformed links (brackets inside brackets)
-grep -nE "\[\+\[|\[\][^\]]*\]\]" your_file.md
+grep -nE "\[\*\[|\[\][^\]]*\]\]" your_file.md
 ```
 
 **Forbidden patterns:**
-- `[[Name_[Z-001-0001]]]` → Use `[[Name_Z-001-0001]]`
+- `[[Name_[Z-001-0001]]]` → Use `[[Name_Z-001-0011]]`
+
+**Quick context check:**
+- [ ] Review [[PERMANENT_QUESTIONS.md]] — any matches?
+- [ ] Check [[SYNTHESIS_TRIGGERS.md]] — pushing toward critical mass?
 
 ---
 
-## ⚡ Common Mistakes (DE3 Post-Mortem)
+## ⚡ Common Mistakes
 
 | Error | Prevention |
 |-------|------------|
 | Duplicate UID | Always check Step 1 |
 | `type: litnote` (no hyphen) | Copy template exactly |
-| Missing authors/year/journal | Don't skip fields — use "" if unknown |
+| Missing tier classification | Step 2 — GOLD/SILVER/BRONZE |
 | Malformed `]` | Search/replace `[` and `]` in filenames before linking |
 | Status: processing left | Change to `complete` before commit |
+| Forgot synthesis check | Step 3 — check triggers |
 
 ---
 
@@ -79,9 +89,9 @@ grep -r "^uid: " 02-Literature/ 03-Zettels/ | sort | uniq -d
 grep -rnE "\[\*\*\]" 03-Zettels/Conscious/
 ```
 
-**List all links in a file:**
+**Git checkpoint (every 5 items):**
 ```bash
-grep -oE "\[\+\]\]" filename.md | sort | uniq
+git add -A && git commit -m "checkpoint: batch N complete"
 ```
 
 ---
@@ -90,33 +100,16 @@ grep -oE "\[\+\]\]" filename.md | sort | uniq
 
 - [ ] UIDs assigned correctly (no duplicates)
 - [ ] YAML matches template exactly
+- [ ] Tier classified (GOLD/SILVER/BRONZE)
 - [ ] All links validated (no malformed)
-- [ ] **Bibliography transcribed (MANDATORY)**
-- [ ] Reference hubs created for Tier 1 citations
+- [ ] Permanent questions checked
+- [ ] Synthesis triggers checked
 - [ ] MOC updated with new entries
 - [ ] `status: complete` on LitNotes
-- [ ] Git commit with descriptive message
-
----
-
-## ⚡ Common Mistakes (DE3 Post-Mortem)
-
-| Error | Prevention |
-|-------|------------|
-| Duplicate UID | Always check Step 1 |
-| `type: litnote` (no hyphen) | Copy template exactly |
-| Missing authors/year/journal | Don't skip fields — use "" if unknown |
-| Malformed `]` | Search/replace `[` and `]` in filenames before linking |
-| Status: processing left | Change to `complete` before commit |
-| **Bibliography skipped** | **MANDATORY — extract all references, create hubs for Tier 1** |
-
----
-
-**When in doubt:**  
-**Stop → Check template → Verify UID → Continue**
+- [ ] Git committed with descriptive message
 
 ---
 
 *Pre-flight prevents crash-landing*  
 *Created: 2026-02-23*  
-*Updated: 2026-02-23 (bibliography mandatory)*
+*Updated: 2026-04-01 — Added GOLD/SILVER/BRONZE tiers, synthesis triggers, permanent questions*
