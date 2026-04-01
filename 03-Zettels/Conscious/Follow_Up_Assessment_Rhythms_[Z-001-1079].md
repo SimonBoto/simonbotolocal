@@ -116,3 +116,8 @@ Each follow-up must document:
 
 ---
 *Source: CGPT-0022 — Clinic operations*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

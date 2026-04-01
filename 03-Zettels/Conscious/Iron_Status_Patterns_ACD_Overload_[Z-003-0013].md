@@ -13,6 +13,7 @@ connections:
   - Z-003-0002
   - Z-007-0001
   - Z-004-0011
+source-litnote: Synthesized from clinical practice
 ---
 
 # Iron Status Patterns — Deficiency, ACD, Overload
@@ -141,3 +142,8 @@ patient_id,visit,ferritin_ng_ml,iron_ug_dl,tibc_ug_dl,transferrin_sat_pct,crp_mg
 
 *Source: [[Ref_Weiss_Anomaly_Chronic_Disease_2005]], [[Ref_Nemeth_Hepcidin_2004]]*
 *Created: 2026-02-26 | Domain: 003 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

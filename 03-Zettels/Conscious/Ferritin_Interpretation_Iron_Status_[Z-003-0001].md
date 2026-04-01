@@ -14,6 +14,7 @@ connections:
   - Z-004-0011
   - Z-004-0001
   - Z-007-0001
+source-litnote: Synthesized from clinical practice
 ---
 
 # Ferritin — Iron Status and Inflammation
@@ -170,3 +171,8 @@ patient_id,visit,ferritin_ng_ml,crp_mg_l,sTfR_mg_l,iron_status
 
 *Source: [[Ref_Weiss_Anomaly_Chronic_Disease_2005]], [[Ref_Nemeth_Hepcidin_2004]]*
 *Created: 2026-02-26 | Domain: 003 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

@@ -126,3 +126,7 @@ Aggregate predictions (majority vote)
 ---
 
 *Source: [[LitNote_Machine_Learning_Metabolomics_L-001-0618]] | 2026-03-09*
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

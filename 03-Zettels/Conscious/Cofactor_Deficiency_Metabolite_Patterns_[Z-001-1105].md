@@ -107,3 +107,8 @@ Specific metabolite accumulation patterns in blood or urine can reveal cofactor 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

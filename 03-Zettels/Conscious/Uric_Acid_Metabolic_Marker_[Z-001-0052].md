@@ -13,6 +13,7 @@ connections:
   - Z-001-0046
   - Z-001-0050
   - Z-009-0001
+source-litnote: Synthesized from clinical practice
 ---
 
 # Uric Acid — Metabolic Marker Beyond Gout
@@ -130,3 +131,8 @@ patient_id,visit,uric_acid_mg_dl,uric_acid_target_status
 
 *Source: [[Ref_Johnson_Uric_Acid_Metabolic_2013]], [[Ref_Feig_Uric_Acid_Hypertension_2008]]*
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

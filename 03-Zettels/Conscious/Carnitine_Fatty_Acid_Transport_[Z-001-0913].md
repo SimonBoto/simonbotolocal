@@ -11,6 +11,7 @@ source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
+source-litnote: Synthesized from clinical practice
 ---
 
 # Carnitine — Fatty Acid Transport into Mitochondria
@@ -158,3 +159,8 @@ Deficient: Fatty acid → Incomplete oxidation → Adipic acid (excreted)
 
 *UID: Z-001-0913 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*  
 *Critical insight: Carnitine is the gatekeeper of fatty acid oxidation — connects directly to your plasma TFA research*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

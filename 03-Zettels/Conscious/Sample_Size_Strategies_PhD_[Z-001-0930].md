@@ -10,6 +10,7 @@ status: conscious
 source: "[[LitNote_Power_Analysis_Metabolomics_L-001-0514]]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
+source-litnote: Synthesized from clinical practice
 ---
 
 # Sample Size Strategies for PhD Metabolomics Studies
@@ -208,3 +209,8 @@ Severe T2DM (HbA1c>9) vs. healthy: Effect size f=0.35, need n=100/group
 ---
 
 *See also: [[Power_Analysis_Formula_Metabolomics_[Z-001-0928]]]*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

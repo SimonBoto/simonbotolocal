@@ -117,3 +117,8 @@ The METHAP (Metabolomics and Insulin Resistance) trial recruits 220 participants
 
 ---
 *Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

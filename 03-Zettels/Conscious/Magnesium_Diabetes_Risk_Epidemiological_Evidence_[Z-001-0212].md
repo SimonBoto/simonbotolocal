@@ -102,3 +102,8 @@ extraction-date: 2026-03-01
 
 *Source: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

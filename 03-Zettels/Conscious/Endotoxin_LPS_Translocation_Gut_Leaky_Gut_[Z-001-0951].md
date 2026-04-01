@@ -7,6 +7,7 @@ domain: 001
 tags: [zettel, endotoxin, LPS, gut-barrier, leaky-gut, inflammation, TLR4, metabolic-endotoxemia, seed-oils, conscious]
 parent-moc: [[MOC-Gut-Health]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # Endotoxin LPS Translocation — Gut Barrier Disruption by High Fat Diet
@@ -162,3 +163,8 @@ Type 2 diabetes, NAFLD, CVD
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

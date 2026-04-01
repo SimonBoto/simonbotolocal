@@ -66,3 +66,8 @@ These functions are **not sequential**—they operate simultaneously:
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*
+
+## RELATED FILES
+- [[MOC-Biomarkers|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

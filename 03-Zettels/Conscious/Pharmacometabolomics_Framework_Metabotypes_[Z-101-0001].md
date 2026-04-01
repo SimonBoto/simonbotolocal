@@ -10,6 +10,7 @@ parent-moc: [[MOC-Pharmacometabolomics]]
 source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]]
 confidence: high
 created: 2026-02-24
+source-litnote: Synthesized from clinical practice
 ---
 
 # Pharmacometabolomics Framework and Metabotypes
@@ -49,3 +50,8 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 ---
 
 *UID: Z-101-0001 | Domain: 101 | Created: 2026-02-24*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

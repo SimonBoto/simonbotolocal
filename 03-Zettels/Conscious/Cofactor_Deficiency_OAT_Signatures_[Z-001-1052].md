@@ -72,3 +72,8 @@ This critical enzyme complex requires:
 
 ---
 *Source: CGPT-0022 — Mitochondrial biochemistry*
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

@@ -9,6 +9,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # Metabolic Acidosis Biomarkers & Pattern Recognition
@@ -134,3 +135,7 @@ Pattern + clinical context → Diagnosis
 ---
 *Confidence: High* — Established UOA methodology  
 *Next Review: After IR-specific UOA pattern validation*
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

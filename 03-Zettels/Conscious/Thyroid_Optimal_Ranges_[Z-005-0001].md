@@ -14,6 +14,7 @@ connections:
   - Z-001-0046
   - Z-002-0004
   - Z-004-0001
+source-litnote: Synthesized from clinical practice
 ---
 
 # Thyroid Optimal Ranges — TSH, fT3, fT4 Beyond Standard
@@ -124,3 +125,8 @@ patient_id,visit,tsh_miu_l,ft3_pg_ml,ft4_ng_dl,thyroid_status
 
 *Source: [[Ref_Wiersinga_TSH_Reference_2017]], [[Ref_Gaitonde_Thyroid_Review_2012]]*
 *Created: 2026-02-26 | Domain: 005 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

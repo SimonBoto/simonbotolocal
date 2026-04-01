@@ -9,6 +9,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # Carbohydrate Metabolism & Insulin Resistance Biomarkers
@@ -122,3 +123,7 @@ status: conscious
 ---
 *Confidence: High* — Established IR metabolite markers  
 *Next Review: After METHAP baseline biomarker data*
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

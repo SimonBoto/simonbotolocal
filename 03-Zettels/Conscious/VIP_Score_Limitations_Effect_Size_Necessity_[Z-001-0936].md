@@ -7,6 +7,7 @@ domain: 001
 tags: [zettel, vip-score, variable-importance, effect-size, cohens-d, metabolomics, multivariate, limitations, conscious]
 parent-moc: [[MOC-Research-Methods]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # VIP Score Limitations — Why Effect Sizes Are Necessary
@@ -105,3 +106,8 @@ Studies reporting VIP > 1 without effect sizes:
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+## RELATED FILES
+- [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

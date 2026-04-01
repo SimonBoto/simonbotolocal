@@ -7,6 +7,7 @@ domain: 001
 tags: [zettel, cross-validation, cv, opls-da, metabolomics, prediction, model-validation, q2-score, external-validation, conscious]
 parent-moc: [[MOC-Research-Methods]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # Cross-Validation Strategies for Omics Prediction Models
@@ -139,3 +140,8 @@ External Validation:
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+## RELATED FILES
+- [[MOC-Biomarkers|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

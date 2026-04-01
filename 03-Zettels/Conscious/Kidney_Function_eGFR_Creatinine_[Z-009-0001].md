@@ -14,6 +14,7 @@ status: conscious
 connections:
   - Z-001-0016
   - Z-001-0050
+source-litnote: Synthesized from clinical practice
 ---
 
 # Kidney Function — eGFR and Creatinine Interpretation
@@ -131,3 +132,8 @@ patient_id,visit,creatinine_mg_dl,egfr_ml_min,urea_mg_dl,uric_acid_mg_dl,kidney_
 
 *Source: [[Ref_Levy_CKD_EPI_2009]], [[Ref_KDIGO_CKD_Guideline_2012]]*
 *Created: 2026-02-26 | Domain: 009 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

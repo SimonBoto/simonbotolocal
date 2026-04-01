@@ -87,3 +87,8 @@ Each Krebs cycle intermediate has clinical meaning when elevated or depleted on 
 
 ---
 *Source: CGPT-0022 — Mitochondrial biochemistry*
+
+## RELATED FILES
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

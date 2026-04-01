@@ -11,6 +11,7 @@ source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
+source-litnote: Synthesized from clinical practice
 ---
 
 # Ketone Bodies — Alternative Fuel in Insulin Resistance and Diabetes
@@ -173,3 +174,8 @@ VD intervention target:
 
 *UID: Z-001-0914 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*  
 *Key insight: Ketones represent alternative fuel pathway when glucose unavailable — relevant to IR metabolic inflexibility*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

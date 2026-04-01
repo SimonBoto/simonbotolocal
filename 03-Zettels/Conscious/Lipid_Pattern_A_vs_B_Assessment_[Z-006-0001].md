@@ -14,6 +14,7 @@ connections:
   - Z-001-0049
   - Z-006-0002
   - Z-006-0003
+source-litnote: Synthesized from clinical practice
 ---
 
 # Lipid Pattern A vs Pattern B Assessment
@@ -178,3 +179,8 @@ patient_id,visit,ldl_c_mg_dl,apo_b_mg_dl,ldl_apob_ratio,pattern_type,tg_hdl_rati
 
 *Source: [[Ref_Austin_Pattern_B_1988]], [[Ref_Berneis_LDL_Phenotypes_2002]], [[Ref_Otvos_NMR_Lipoprofile_2002]]*
 *Created: 2026-02-26 | Domain: 006 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

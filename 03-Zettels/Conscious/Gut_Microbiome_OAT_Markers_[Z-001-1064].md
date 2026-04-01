@@ -107,3 +107,8 @@ Organic acids testing reveals gut microbial metabolism, dysbiosis, and intestina
 
 ---
 *Source: CGPT-0022 — Vitamin-mineral biochemistry*
+
+## RELATED FILES
+- [[Biomarkers/Kidney_Function_[B-008-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

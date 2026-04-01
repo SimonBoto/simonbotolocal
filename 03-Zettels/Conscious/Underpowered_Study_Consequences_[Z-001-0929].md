@@ -10,6 +10,7 @@ status: conscious
 source: "[[LitNote_Power_Analysis_Metabolomics_L-001-0514]]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
+source-litnote: Synthesized from clinical practice
 ---
 
 # Consequences of Underpowered Studies in Omics Research
@@ -211,3 +212,8 @@ Observed d = 0.25 (closer to truth)
 ---
 
 *See also: [[Power_Analysis_Formula_Metabolomics_[Z-001-0928]]]*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

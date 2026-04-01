@@ -287,3 +287,8 @@ Precision metabolomics moves beyond single biomarkers to comprehensive metabolic
 **Related:** [[Urine_Organic_Acids_Interpretation_[Z-001-0552].md]] | [[Mitochondrial_Biomarkers_Clinical_Assessment_[Z-001-0553].md]] | [[Pharmacometabolomics_Precision_Dosing_[Z-001-0048].md]]
 
 **Source:** CGPT-0124 — Five Pillars of Metabolic Health
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

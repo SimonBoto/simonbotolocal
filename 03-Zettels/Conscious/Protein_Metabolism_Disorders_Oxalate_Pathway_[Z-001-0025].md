@@ -9,6 +9,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # Protein Metabolism Disorders & Oxalate Pathway
@@ -103,3 +104,7 @@ When analyzing urine organic acids, clinicians assess:
 ---
 *Confidence: High* — Established urine OA methodology  
 *Next Review: After urine OA panel correlation analysis*
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

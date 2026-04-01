@@ -15,6 +15,7 @@ connections:
   - Z-003-0010
   - Z-003-0011
   - Z-002-0004
+source-litnote: Synthesized from clinical practice
 ---
 
 # Homocysteine — Composite Methylation Status Marker
@@ -97,3 +98,8 @@ Homocysteine ──[BHMT: betaine]──> Methionine
 
 *Source: [[Ref_Miller_Homocysteine_CVD_2000]], [[Ref_Stover_One_Carbon_2004]]*
 *Created: 2026-02-26 | Domain: 004 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

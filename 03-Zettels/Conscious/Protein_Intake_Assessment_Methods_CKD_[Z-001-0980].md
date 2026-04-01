@@ -287,3 +287,8 @@ Nitrogen Balance ≈ Protein Intake/6.25 - (UUN + 4)
 **Related:** [[Serum_Albumin_Interpretation_CKD_[Z-001-0978].md]] | [[Short_Term_High_Protein_Hypoalbuminemia_Protocol_[Z-001-0979].md]]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

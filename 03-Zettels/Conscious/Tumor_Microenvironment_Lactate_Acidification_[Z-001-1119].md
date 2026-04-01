@@ -122,3 +122,8 @@ Cancer cells produce large amounts of lactate through aerobic glycolysis, acidif
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

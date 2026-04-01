@@ -7,6 +7,7 @@ domain: 001
 tags: [zettel, permutation-test, opls-da, model-validation, q2-intercept, overfitting, metabolomics, conscious]
 parent-moc: [[MOC-Research-Methods]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # Permutation Test Interpretation — Validating OPLS-DA Models
@@ -111,3 +112,8 @@ For biomarker claims:
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+## RELATED FILES
+- [[MOC-Biomarkers|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

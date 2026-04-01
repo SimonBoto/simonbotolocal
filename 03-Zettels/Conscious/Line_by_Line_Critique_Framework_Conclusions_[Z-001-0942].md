@@ -7,6 +7,7 @@ domain: 001
 tags: [zettel, critical-assessment, conclusions, scientific-writing, peer-review, methodology, evidence-evaluation, conscious]
 parent-moc: [[MOC-Research-Methods]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # Line-by-Line Critique Framework for Conclusions Sections
@@ -131,3 +132,8 @@ Break conclusions into individual sentences/claims. Example from CGPT-0328:
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+## RELATED FILES
+- [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

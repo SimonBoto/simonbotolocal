@@ -9,6 +9,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # Micronutrients: Vitamin D as Immunoregulatory Factor
@@ -136,3 +137,7 @@ The course's inclusion of VitD in immunoregulatory micronutrients supports:
 ---
 *Confidence: High* — Well-established immunomodulatory role  
 *Next Review: After METHAP baseline data collection*
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

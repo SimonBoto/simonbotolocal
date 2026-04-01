@@ -12,6 +12,7 @@ connections:
   - Z-001-0016
   - Z-001-0018
   - Z-006-0001
+source-litnote: Synthesized from clinical practice
 ---
 
 # Liver Enzyme Pattern Recognition
@@ -124,3 +125,8 @@ patient_id,visit,ast_u_l,alt_u_l,ggt_u_l,alp_u_l,ast_alt_ratio,liver_pattern
 
 *Source: [[Ref_Giannini_Liver_Enzymes_2005]], [[Ref_Non-Alcoholic_Fatty_Liver_Disease_Practice_Guidance_2017]]*
 *Created: 2026-02-26 | Domain: 008 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

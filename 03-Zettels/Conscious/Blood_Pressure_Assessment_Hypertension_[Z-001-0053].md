@@ -16,6 +16,7 @@ connections:
   - Z-001-0050
   - Z-001-0052
   - Z-009-0001
+source-litnote: Synthesized from clinical practice
 ---
 
 # Blood Pressure Assessment — Hypertension and Metabolic Connection
@@ -136,3 +137,8 @@ patient_id,visit,sbp_mmhg,dbp_mmhg,bp_status,htn_grade
 
 *Source: [[Ref_2017_ACC_AHA_Hypertension_Guideline]], [[Ref_Chobanian_Seventh_Report_2003]]*
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

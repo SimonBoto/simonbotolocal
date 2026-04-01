@@ -169,3 +169,7 @@ This provides strong rationale for high-dose vitamin D in METHAP protocol.
 *Source: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]]*  
 *Related: [[Metabolic_Syndrome_Pathophysiology_Insulin_Resistance_[Z-001-0202]]]*  
 *Extracted: 2026-03-01*
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

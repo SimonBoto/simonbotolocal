@@ -15,6 +15,7 @@ connections:
   - Z-003-0013
   - Z-001-0019
   - Z-001-0050
+source-litnote: Synthesized from clinical practice
 ---
 
 # Inflammation Markers — CRP and ESR Clinical Interpretation
@@ -124,3 +125,8 @@ patient_id,visit,hs_crp_mg_l,esr_mm_hr,inflammation_status
 
 *Source: [[Ref_Ridker_CRP_CVD_2003]], [[Ref_Pearson_Markers_Inflammation_2003]]*
 *Created: 2026-02-26 | Domain: 007 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

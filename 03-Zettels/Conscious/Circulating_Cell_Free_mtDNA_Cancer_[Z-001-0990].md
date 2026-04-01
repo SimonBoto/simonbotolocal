@@ -346,3 +346,8 @@ Circulating cell-free mitochondrial DNA (cf-mtDNA) represents a promising minima
 **Related:** [[Mitochondrial_DNA_Mutations_Cancer_[Z-001-0989].md]] | [[Liquid_Biopsy_Cancer_Detection_[Z-001-0055].md]] | [[Cell_Free_DNA_Clinical_Applications_[Z-001-0056].md]]
 
 **Source:** CGPT-0311 — Self-Education Program Plan
+
+## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

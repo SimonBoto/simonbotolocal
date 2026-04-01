@@ -10,6 +10,7 @@ parent-moc: [[MOC-Research-Methods]]
 source: "[[LitNote_Exploratory_vs_Confirmatory_Research_Design_L-001-0516]]"
 confidence: high
 created: 2026-03-03
+source-litnote: Synthesized from clinical practice
 ---
 
 # The Exploratory Excuse Pitfall — Case Study
@@ -136,3 +137,7 @@ Before claiming "biomarker identified":
 ---
 
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
+## RELATED FILES
+- [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

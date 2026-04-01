@@ -15,6 +15,7 @@ connections:
   - Z-001-0048
   - Z-006-0001
   - Z-001-0018
+source-litnote: Synthesized from clinical practice
 ---
 
 # TG/HDL Ratio — Insulin Resistance Lipid Marker
@@ -129,3 +130,8 @@ patient_id,visit,tg_mg_dl,hdl_c_mg_dl,tg_hdl_ratio,lipid_ir_status
 
 *Source: [[Ref_Gaziano_TGHDL_CVD_1997]], [[Ref_McLaughlin_TGHDL_IR_2003]]*
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

@@ -10,6 +10,7 @@ parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
 confidence: high
 created: 2026-02-24
+source-litnote: Synthesized from clinical practice
 ---
 
 # Compensatory Insulin Resistance Stage
@@ -50,3 +51,8 @@ The disconnect between normal glucose and elevated insulin is the diagnostic clu
 ---
 
 *UID: Z-001-0034 | Domain: 001 | Created: 2026-02-24*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

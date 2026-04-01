@@ -160,3 +160,8 @@ The clinical use of high-dose vitamin C in cancer has a controversial history—
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

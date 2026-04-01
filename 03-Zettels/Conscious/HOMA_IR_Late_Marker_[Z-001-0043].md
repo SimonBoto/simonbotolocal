@@ -10,6 +10,7 @@ parent-moc: [[MOC-Biomarkers]]
 source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]]
 confidence: high
 created: 2026-02-24
+source-litnote: Synthesized from clinical practice
 ---
 
 # HOMA-IR is a Late Marker Despite Its Name
@@ -45,3 +46,8 @@ HOMA-IR (Homeostatic Model Assessment for Insulin Resistance) requires elevated 
 ---
 
 *UID: Z-001-0043 | Domain: 001 | Created: 2026-02-24*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

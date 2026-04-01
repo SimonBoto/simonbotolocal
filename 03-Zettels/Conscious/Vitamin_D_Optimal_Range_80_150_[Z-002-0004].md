@@ -18,6 +18,7 @@ connections:
   - Z-002-0007
   - Z-002-0009
   - Z-004-0001
+source-litnote: Synthesized from clinical practice
 ---
 
 # Vitamin D Optimal Range 80-150 High Dose Protocol
@@ -152,3 +153,8 @@ patient_id,visit,vit_d_dose_iu_daily,vit_d_25_oh_ng_ml,vit_d_status
 ---
 
 *Created: 2026-02-26 | Domain: 002 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

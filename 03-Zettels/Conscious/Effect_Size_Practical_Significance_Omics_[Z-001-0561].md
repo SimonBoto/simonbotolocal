@@ -10,6 +10,7 @@ parent-moc: [[MOC-Research-Methods]]
 source: "[[LitNote_Exploratory_vs_Confirmatory_Research_Design_L-001-0516]]"
 confidence: high
 created: 2026-03-03
+source-litnote: Synthesized from clinical practice
 ---
 
 # Effect Size and Practical Significance in Omics
@@ -172,3 +173,7 @@ Metabolite: [Name]
 ---
 
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
+## RELATED FILES
+- [[Biomarkers/Kidney_Function_[B-008-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

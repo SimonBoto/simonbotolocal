@@ -7,6 +7,7 @@ domain: 001
 tags: [zettel, batch-effects, technical-confounders, metabolomics, quality-control, combat, normalization, study-design, conscious]
 parent-moc: [[MOC-Research-Methods]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # Batch Effects Detection and Correction in Metabolomics
@@ -121,3 +122,8 @@ Batch 2: D5, C5, D6, QC, C6, D7, C7, QC, D8, C8...
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+## RELATED FILES
+- [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

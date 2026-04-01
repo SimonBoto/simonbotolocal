@@ -9,6 +9,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # Dysbiosis Detection via Metabolomics
@@ -156,3 +157,7 @@ Emerging evidence suggests:
 ---
 *Confidence: High* — Established gut-metabolism connection  
 *Next Review: After microbiome-focused literature review*
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

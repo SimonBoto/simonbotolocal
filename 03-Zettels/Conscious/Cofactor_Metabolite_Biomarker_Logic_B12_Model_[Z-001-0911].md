@@ -11,6 +11,7 @@ source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
+source-litnote: Synthesized from clinical practice
 ---
 
 # Cofactor → Metabolite Biomarker Logic — The B12 Model
@@ -115,3 +116,8 @@ Methylmalonyl-CoA ──[enzyme WITHOUT B12]──→ ✗ (blocked)
 
 *UID: Z-001-0911 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*  
 *Critical insight: B12 model provides mechanistic template for adipic acid as VD-responsive biomarker*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

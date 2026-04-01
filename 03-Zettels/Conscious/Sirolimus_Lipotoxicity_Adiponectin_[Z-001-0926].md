@@ -10,6 +10,7 @@ status: conscious
 source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
+source-litnote: Synthesized from clinical practice
 ---
 
 # Sirolimus Alters Adipose Tissue Causing Lipotoxicity and Insulin Resistance
@@ -164,3 +165,8 @@ Hepatic IR      Muscle IR       β-cell dysfunction
 ---
 
 *See also: [[mTORC2_Akt_Insulin_Signaling_[Z-001-0925]]]*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

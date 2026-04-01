@@ -122,3 +122,8 @@ Participants may contact:
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

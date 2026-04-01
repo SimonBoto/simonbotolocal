@@ -144,3 +144,8 @@ Mitochondrial uncoupling + Apoptosis signaling
 **Related:** [[Cardiolipin_Omega_6_Mitochondrial_Dysfunction_[Z-001-0949].md]] | [[Mitochondrial_Function_Metabolic_Flexibility_[Z-001-0554].md]] | [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_[Z-001-0954].md]]
 
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

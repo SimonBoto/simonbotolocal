@@ -367,3 +367,8 @@ Average glucose (mg/dL) = (28.7 × HbA1c) - 46.7
 **Related:** [[Insulin_Resistance_Metabolic_Syndrome_[Z-001-0019].md]] | [[Advanced_Glycation_End_Products_Dietary_[Z-001-0561].md]] | [[Anti_Aging_Interventions_Metabolic_[Z-001-0562].md]]
 
 **Source:** CGPT-0124 — Five Pillars of Metabolic Health
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

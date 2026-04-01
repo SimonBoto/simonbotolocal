@@ -285,3 +285,8 @@ Histamine + O2 + H2O → Imidazoleacetaldehyde + NH3 + H2O2
 **Related:** [[MAO_Enzymes_MAO_A_MAO_B_[Z-001-1008].md]] | [[Histamine_Intolerance_Diagnosis_Management_[Z-001-0020].md]] | [[Intestinal_Permeability_Leaky_Gut_[Z-001-0021].md]]
 
 **Source:** CGPT-0258 — MAOIs and DAO Interaction
+
+## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

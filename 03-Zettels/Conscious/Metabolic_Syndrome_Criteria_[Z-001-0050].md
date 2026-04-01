@@ -15,6 +15,7 @@ connections:
   - Z-001-0048
   - Z-001-0049
   - Z-006-0001
+source-litnote: Synthesized from clinical practice
 ---
 
 # Metabolic Syndrome — ATP III Criteria
@@ -176,3 +177,8 @@ patient_id,visit,waist_cm,tg_mg_dl,hdl_c_mg_dl,sbp,dbp,glucose,criteria_count,me
 
 *Source: [[Ref_NCEP_ATP_III_2001]], [[Ref_Grundy_MetSyn_Consensus_2005]]*
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

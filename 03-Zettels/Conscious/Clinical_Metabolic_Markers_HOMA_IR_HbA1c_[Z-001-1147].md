@@ -161,3 +161,8 @@ HOMA-IR = (Fasting insulin μU/mL × Fasting glucose mmol/L) ÷ 22.5
 
 ---
 *Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

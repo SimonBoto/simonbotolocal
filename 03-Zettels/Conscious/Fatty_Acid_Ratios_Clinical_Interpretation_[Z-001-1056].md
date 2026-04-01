@@ -74,3 +74,8 @@ Fatty acid ratios provide integrated biomarkers of dietary intake, inflammatory 
 
 ---
 *Source: CGPT-0022 — Fatty acid metabolism*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

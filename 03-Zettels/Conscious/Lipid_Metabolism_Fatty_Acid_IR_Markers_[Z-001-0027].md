@@ -9,6 +9,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # Lipid Metabolism & Fatty Acid Insulin Resistance Markers
@@ -140,3 +141,7 @@ High-dose VitD → improved omega-6:3 balance (via inflammation reduction) → i
 ---
 *Confidence: High* — Established fatty acid-IR associations  
 *Next Review: After fatty acid panel analysis in METHAP cohort*
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

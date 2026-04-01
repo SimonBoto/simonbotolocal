@@ -10,6 +10,7 @@ parent-moc: [[MOC-Research-Methods]]
 source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
 confidence: high
 created: 2026-03-03
+source-litnote: Synthesized from clinical practice
 ---
 
 # Exploratory vs Confirmatory Research Standards
@@ -192,3 +193,7 @@ Without explicit "exploratory" framing, readers may interpret findings as more r
 ---
 
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
+## RELATED FILES
+- [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

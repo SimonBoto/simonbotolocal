@@ -12,6 +12,7 @@ connections:
   - Z-005-0001
   - Z-002-0004
   - Z-004-0002
+source-litnote: Synthesized from clinical practice
 ---
 
 # Electrolytes and Minerals — Magnesium, Zinc, Selenium
@@ -164,3 +165,8 @@ connections:
 
 *Source: [[Ref_Rude_Magnesium_2014]], [[Synthesis_Biomarker_Architecture_v1]]*
 *Created: 2026-02-26 | Domain: 010 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

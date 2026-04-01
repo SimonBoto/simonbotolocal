@@ -9,6 +9,7 @@ parent-moc: [[MOC-Pharmacometabolomics]]
 status: conscious
 source: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]]"
 extraction-date: 2026-03-02
+source-litnote: Synthesized from clinical practice
 ---
 
 # Dicarboxylic Acid Hierarchy as Insulin Resistance Markers
@@ -76,3 +77,8 @@ extraction-date: 2026-03-02
 ---
 
 *See also: [[Adipate_Metabolism_TCA_Entry_[Z-101-0010]]]*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

@@ -14,6 +14,7 @@ connections:
   - Z-001-0046
   - Z-001-0016
   - Z-001-0018
+source-litnote: Synthesized from clinical practice
 ---
 
 # HOMA-β — Beta-Cell Function Assessment
@@ -145,3 +146,8 @@ patient_id,visit,homa_beta,beta_cell_status,ir_status_combined
 
 *Source: [[Ref_Matthews_HOMA_1985]], [[Ref_Wallace_HOMA_2004]]*
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

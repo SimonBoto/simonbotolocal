@@ -11,6 +11,7 @@ status: conscious
 connections:
   - Z-003-0001
   - Z-007-0001
+source-litnote: Synthesized from clinical practice
 ---
 
 # CBC — Complete Blood Count Patterns
@@ -143,3 +144,8 @@ patient_id,visit,wbc_k_u_l,hematocrit_pct,hemoglobin_g_dl,platelets_k_u_l,mcv_fl
 
 *Source: [[Ref_Bain_Blood_Cells_2015]], [[Ref_Weiss_Anomaly_Chronic_Disease_2005]]*
 *Created: 2026-02-26 | Domain: 000 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

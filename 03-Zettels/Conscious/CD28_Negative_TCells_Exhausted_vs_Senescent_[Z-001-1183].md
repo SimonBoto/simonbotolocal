@@ -140,3 +140,8 @@ status: conscious
 ---
 
 *Source: [[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]] | 2026-03-08*
+
+## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

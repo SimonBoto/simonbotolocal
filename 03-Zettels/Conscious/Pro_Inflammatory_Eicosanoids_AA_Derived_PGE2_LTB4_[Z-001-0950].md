@@ -7,6 +7,7 @@ domain: 001
 tags: [zettel, eicosanoids, prostaglandins, leukotrienes, arachidonic-acid, PGE2, LTB4, inflammation, COX, LOX, conscious]
 parent-moc: [[MOC-Inflammation]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # Pro-Inflammatory Eicosanoids — Arachidonic Acid Derived PGE2 and LTB4
@@ -146,3 +147,8 @@ Free AA released from membrane
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

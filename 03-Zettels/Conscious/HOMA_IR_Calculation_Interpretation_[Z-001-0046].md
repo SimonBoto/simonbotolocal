@@ -16,6 +16,7 @@ connections:
   - Z-001-0049
   - Z-002-0004
   - Z-004-0001
+source-litnote: Synthesized from clinical practice
 ---
 
 # HOMA-IR Calculation and Clinical Interpretation
@@ -129,3 +130,8 @@ patient_id,visit,fasting_glucose_mg_dl,fasting_insulin_uu_ml,homa_ir,homa_ir_sta
 
 *Source: [[Ref_Matthews_HOMA_1985]], [[Lit_GutierrezRodelo_IR_Mechanisms_2017]]*
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

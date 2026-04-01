@@ -10,6 +10,7 @@ status: conscious
 source: "[[LitNote_Power_Analysis_Metabolomics_L-001-0514]]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
+source-litnote: Synthesized from clinical practice
 ---
 
 # Power Analysis Formula and Sample Size Calculation for Metabolomics
@@ -134,3 +135,8 @@ n = 66 per group
 ---
 
 *See also: [[Underpowered_Study_Consequences_[Z-001-0929]]]*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

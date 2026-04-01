@@ -128,3 +128,8 @@ Stress/DNA damage → p53 activation → Cell cycle arrest/apoptosis
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
+
+## RELATED FILES
+- [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

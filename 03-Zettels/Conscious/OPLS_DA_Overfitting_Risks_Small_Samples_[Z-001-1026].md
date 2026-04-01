@@ -7,6 +7,7 @@ domain: 001
 tags: [zettel, opls-da, overfitting, small-samples, multivariate-analysis, metabolomics, q2-score, r2-score, validation, conscious]
 parent-moc: [[MOC-Research-Methods]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # OPLS-DA Overfitting Risks with Small Sample Sizes
@@ -86,3 +87,8 @@ Orthogonal Partial Least Squares Discriminant Analysis (OPLS-DA) can achieve **p
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+## RELATED FILES
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

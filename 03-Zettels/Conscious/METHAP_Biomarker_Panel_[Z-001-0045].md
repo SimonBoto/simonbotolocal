@@ -10,6 +10,7 @@ parent-moc: [[MOC-PhD-Biomarkers]]
 source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]]
 confidence: high
 created: 2026-02-24
+source-litnote: Synthesized from clinical practice
 ---
 
 # METHAP Biomarker Panel Integration
@@ -52,3 +53,8 @@ The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates mul
 ---
 
 *UID: Z-001-0045 | Domain: 001 | Created: 2026-02-24*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

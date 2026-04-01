@@ -347,3 +347,8 @@ AMPK activation
 **Related:** [[Mitochondrial_Gene_Knockout_Models_[Z-001-0988].md]] | [[Warburg_Effect_Cancer_Metabolism_[Z-001-0045].md]] | [[Metformin_Cancer_Mechanisms_[Z-001-0046].md]]
 
 **Source:** CGPT-0311 — Self-Education Program Plan
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

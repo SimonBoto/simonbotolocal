@@ -10,6 +10,7 @@ parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
 confidence: high
 created: 2026-02-24
+source-litnote: Synthesized from clinical practice
 ---
 
 # Lipotoxicity Pathway in Insulin Resistance
@@ -46,3 +47,8 @@ Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capa
 ---
 
 *UID: Z-001-0029 | Domain: 001 | Created: 2026-02-24*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

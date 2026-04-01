@@ -68,3 +68,8 @@ extraction-date: 2026-03-01
 ---
 
 *Source: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]]*
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

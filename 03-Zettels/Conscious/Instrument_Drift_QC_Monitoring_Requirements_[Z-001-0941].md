@@ -7,6 +7,7 @@ domain: 001
 tags: [zettel, instrument-drift, qc-monitoring, mass-spectrometry, metabolomics, quality-control, internal-standards, sensitivity, conscious]
 parent-moc: [[MOC-Research-Methods]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # Instrument Drift and QC Monitoring Requirements in Mass Spectrometry
@@ -147,3 +148,8 @@ Mass spectrometers are **not stable** over time. Sensitivity, resolution, and ma
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+## RELATED FILES
+- [[MOC-Biomarkers|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

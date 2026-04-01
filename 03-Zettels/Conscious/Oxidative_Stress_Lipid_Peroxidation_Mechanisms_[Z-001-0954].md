@@ -211,3 +211,8 @@ LOO• + Vitamin E-OH → LOOH + Vitamin E-O• (chain break)
 **Related:** [[Mitochondrial_Uncoupling_Omega_6_Induced_[Z-001-0953].md]] | [[Oxidative_Stress_Metabolic_Disease_[Z-001-0025].md]] | [[Antioxidant_Defense_Systems_[Z-001-0026].md]]
 
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

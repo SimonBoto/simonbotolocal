@@ -144,3 +144,8 @@ MOC-Clinical-Protocols → Supplement Hierarchy → Cofactor Deficiency → Qual
 
 ---
 *Source: CGPT-0022 — MOC knowledge graph*
+
+## RELATED FILES
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

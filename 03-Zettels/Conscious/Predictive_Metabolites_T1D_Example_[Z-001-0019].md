@@ -9,6 +9,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # Predictive Metabolites: Type 1 Diabetes Example
@@ -105,3 +106,7 @@ Just as T1D metabolites predict disease, **adipic acid may predict insulin resis
 ---
 *Confidence: Medium* — Framework established, specific metabolites need verification  
 *Next Review: After finding primary T1D metabolomics sources*
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

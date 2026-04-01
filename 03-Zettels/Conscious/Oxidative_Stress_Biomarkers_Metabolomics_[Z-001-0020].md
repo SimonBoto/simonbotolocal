@@ -9,6 +9,7 @@ parent-moc: [[MOC-Metabolomics-Training]]
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # Oxidative Stress Biomarkers in Metabolomics
@@ -137,3 +138,7 @@ Adipic acid elevation may indicate:
 ---
 *Confidence: High* — Well-established biomarkers, clinical utility validated  
 *Next Review: After identifying primary reference studies*
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

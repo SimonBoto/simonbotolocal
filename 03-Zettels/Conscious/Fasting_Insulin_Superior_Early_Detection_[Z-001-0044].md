@@ -10,6 +10,7 @@ parent-moc: [[MOC-Biomarkers]]
 source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]]
 confidence: high
 created: 2026-02-24
+source-litnote: Synthesized from clinical practice
 ---
 
 # Fasting Insulin Superior for Early IR Detection
@@ -52,3 +53,8 @@ Fasting insulin alone is superior to HOMA-IR for detecting early insulin resista
 ---
 
 *UID: Z-001-0044 | Domain: 001 | Created: 2026-02-24*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

@@ -7,6 +7,7 @@ domain: 001
 tags: [zettel, limitations, scientific-writing, transparency, research-integrity, methodology, exploratory-research, confirmatory-research, conscious]
 parent-moc: [[MOC-Research-Methods]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # Limitation Statement Best Practices in Scientific Writing
@@ -152,3 +153,8 @@ Future Directions: [Specific next steps addressing limitations]
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+## RELATED FILES
+- [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

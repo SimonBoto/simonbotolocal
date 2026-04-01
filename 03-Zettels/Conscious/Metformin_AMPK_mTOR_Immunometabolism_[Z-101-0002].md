@@ -10,6 +10,7 @@ parent-moc: [[MOC-Pharmacometabolomics]]
 source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]]
 confidence: high
 created: 2026-02-24
+source-litnote: Synthesized from clinical practice
 ---
 
 # Metformin AMPK mTOR Immunometabolism
@@ -53,3 +54,8 @@ Metformin inhibits mitochondrial Complex I, reducing ATP production and activati
 ---
 
 *UID: Z-101-0002 | Domain: 101 | Created: 2026-02-24*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

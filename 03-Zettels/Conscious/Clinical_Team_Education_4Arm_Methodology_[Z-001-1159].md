@@ -70,3 +70,8 @@ Structured approach for clinical teams to analyze topics from complementary pers
 ---
 
 *Source: [[LitNote_Self_Education_Clinical_Team_L-001-0620]] | 2026-03-08*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

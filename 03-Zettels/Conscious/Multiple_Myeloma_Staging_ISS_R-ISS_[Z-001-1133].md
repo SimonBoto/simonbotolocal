@@ -153,3 +153,8 @@ Staging in multiple myeloma stratifies patients by prognosis using biomarkers—
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
+
+## RELATED FILES
+- [[MOC-Biomarkers|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

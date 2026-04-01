@@ -15,6 +15,7 @@ connections:
   - Z-001-0049
   - Z-001-0050
   - Z-006-0001
+source-litnote: Synthesized from clinical practice
 ---
 
 # TyG Index — Triglyceride-Glucose Index for IR Assessment
@@ -156,3 +157,8 @@ patient_id,visit,fasting_tg_mg_dl,fasting_glucose_mg_dl,tyg_index,tyg_status
 
 *Source: [[Ref_SimentalMendia_TyG_2008]], [[Ref_Vasques_TyG_Review_2020]]*
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

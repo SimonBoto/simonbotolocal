@@ -14,6 +14,7 @@ connections:
   - Z-005-0001
   - Z-007-0001
   - Z-001-0019
+source-litnote: Synthesized from clinical practice
 ---
 
 # Hashimoto Pattern — Anti-TPO and Anti-TG Thyroid Autoimmunity
@@ -136,3 +137,8 @@ patient_id,visit,anti_tpo_iu_ml,anti_tg_iu_ml,hashimoto_status
 
 *Source: [[Ref_Caturegli_Hashimoto_2014]], [[Ref_Gartner_Selenium_2002]]*
 *Created: 2026-02-26 | Domain: 005 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

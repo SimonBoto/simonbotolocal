@@ -69,3 +69,8 @@ Each stage becomes a **training module** with:
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

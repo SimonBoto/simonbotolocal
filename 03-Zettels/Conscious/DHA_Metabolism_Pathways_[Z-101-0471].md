@@ -99,3 +99,8 @@ See: [[Vitamin_C_to_Oxalate_Chemistry_[Z-101-0469].md]]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

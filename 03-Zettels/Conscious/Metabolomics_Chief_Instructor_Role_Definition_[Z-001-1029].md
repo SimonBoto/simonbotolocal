@@ -45,3 +45,8 @@ This role enables the clinic to evolve from **personality-driven** (single exper
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*
+
+## RELATED FILES
+- [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

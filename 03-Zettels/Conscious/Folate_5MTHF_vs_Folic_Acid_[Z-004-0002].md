@@ -14,6 +14,7 @@ connections:
   - Z-004-0001
   - Z-004-0005
   - Z-004-0019
+source-litnote: Synthesized from clinical practice
 ---
 
 # Folate — 5-MTHF vs Folic Acid
@@ -139,3 +140,8 @@ patient_id,visit,rbc_folate_ng_ml,5_mthf_ng_ml,mthfr_genotype,folate_form_used
 
 *Source: [[Ref_Crider_Folic_Acid_Review_2011]], [[Ref_Lamers_5MTHF_Superior_2011]]*
 *Created: 2026-02-26 | Domain: 004 | Status: Conscious*
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

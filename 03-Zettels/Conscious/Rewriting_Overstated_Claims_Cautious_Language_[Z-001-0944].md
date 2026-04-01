@@ -7,6 +7,7 @@ domain: 001
 tags: [zettel, scientific-writing, cautious-language, claims, overstatement, evidence-based, conclusions, revision, conscious]
 parent-moc: [[MOC-Research-Methods]]
 status: conscious
+source-litnote: Synthesized from clinical practice
 ---
 
 # Rewriting Overstated Claims Using Cautious Scientific Language
@@ -175,3 +176,8 @@ If any answer is "no," revise to weaker claim.
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+## RELATED FILES
+- [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

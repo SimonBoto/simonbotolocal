@@ -112,3 +112,8 @@ Urine organic acids testing (OAT) provides a comprehensive metabolic snapshot by
 
 ---
 *Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+

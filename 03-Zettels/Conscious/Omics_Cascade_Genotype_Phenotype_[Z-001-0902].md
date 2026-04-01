@@ -11,6 +11,7 @@ source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
+source-litnote: Synthesized from clinical practice
 ---
 
 # Omics Cascade: Genotype to Phenotype Flow
@@ -74,3 +75,8 @@ Metabolites reflect the **integration** of:
 ---
 
 *UID: Z-001-0902 (reassigned from Z-001-0002) | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[MOC-Biomarkers|Biomarkers MOC]]
+
