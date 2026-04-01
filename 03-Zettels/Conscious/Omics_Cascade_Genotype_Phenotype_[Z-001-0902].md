@@ -77,7 +77,7 @@ Metabolites reflect the **integration** of:
 *UID: Z-001-0902 (reassigned from Z-001-0002) | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
 
 ## RELATED FILES
-- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]]
 - 
 - [[Multiple_Testing_Burden_High_Dimensional_Data_[Z-001-0934]|Z-001-0934]]
 - [[Vitamin_K2_Vascular_Calcification_MGP_[Z-001-0228]|Z-001-0228]]
@@ -109,6 +109,6 @@ Metabolites reflect the **integration** of:
 - [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_[Z-001-0206]|Z-001-0206]]
 - [[METHAP_Intervention_Protocol_Diet_Supplements_[Z-001-1142]|Z-001-1142]]
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

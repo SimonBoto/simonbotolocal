@@ -124,6 +124,6 @@ source-litnote: Synthesized from clinical practice
 *Confidence: High* — Established IR metabolite markers  
 *Next Review: After METHAP baseline biomarker data*
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

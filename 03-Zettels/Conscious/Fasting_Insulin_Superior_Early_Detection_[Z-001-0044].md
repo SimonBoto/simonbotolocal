@@ -55,6 +55,6 @@ Fasting insulin alone is superior to HOMA-IR for detecting early insulin resista
 *UID: Z-001-0044 | Domain: 001 | Created: 2026-02-24*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

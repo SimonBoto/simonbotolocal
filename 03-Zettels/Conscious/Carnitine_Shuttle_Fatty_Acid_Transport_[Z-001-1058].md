@@ -94,5 +94,5 @@ Elevated acylcarnitines in blood spot testing indicate:
 
 
 ## RELATED FILES
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - 

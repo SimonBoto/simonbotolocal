@@ -213,9 +213,9 @@ LOO• + Vitamin E-OH → LOOH + Vitamin E-O• (chain break)
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
 
 ## RELATED FILES
-- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

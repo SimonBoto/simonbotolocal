@@ -42,4 +42,4 @@ Despite modern understanding that vitamin D toxicity is rare and requires massiv
 
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

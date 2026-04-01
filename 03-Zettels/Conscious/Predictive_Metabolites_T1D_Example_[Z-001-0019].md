@@ -107,8 +107,8 @@ Just as T1D metabolites predict disease, **adipic acid may predict insulin resis
 *Confidence: Medium* — Framework established, specific metabolites need verification  
 *Next Review: After finding primary T1D metabolomics sources*
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

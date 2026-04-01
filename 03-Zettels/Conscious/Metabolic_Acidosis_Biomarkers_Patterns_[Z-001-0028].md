@@ -136,6 +136,6 @@ Pattern + clinical context → Diagnosis
 *Confidence: High* — Established UOA methodology  
 *Next Review: After IR-specific UOA pattern validation*
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

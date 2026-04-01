@@ -158,13 +158,13 @@ Emerging evidence suggests:
 *Confidence: High* — Established gut-metabolism connection  
 *Next Review: After microbiome-focused literature review*
 ## RELATED FILES
-- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
-- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - 
 - 
 - [[Microbiome_Gut_Brain_Terminology_[Z-001-1045]|Z-001-1045]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

@@ -79,7 +79,7 @@ Unlike genomics (static) or transcriptomics (intermediate), metabolomics capture
 *Confidence: High*  
 *Next Review: After DE4-8 completion*
 ## RELATED FILES
-- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

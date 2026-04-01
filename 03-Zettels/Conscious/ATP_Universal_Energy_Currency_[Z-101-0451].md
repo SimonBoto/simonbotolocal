@@ -46,4 +46,4 @@ Conserved for ~4 billion years — strongest evidence for common ancestry of all
 
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]

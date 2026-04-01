@@ -53,6 +53,6 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 
 ## RELATED FILES
 - 
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

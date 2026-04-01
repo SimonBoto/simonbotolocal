@@ -61,7 +61,7 @@ METHAP trial targets individuals with metabolic syndrome/. Understanding diagnos
 
 
 ## RELATED FILES
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 
 - _Dosing_RDA_Therapeutic_Ranges_[Z-001-0219]|Z-001-0219]]

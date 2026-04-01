@@ -83,6 +83,6 @@ SAH ↔ Homocysteine + Adenosine
 
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
 - 
 - [[Folate_5MTHF_vs_Folic_Acid_[Z-004-0002]|Z-004-0002]]

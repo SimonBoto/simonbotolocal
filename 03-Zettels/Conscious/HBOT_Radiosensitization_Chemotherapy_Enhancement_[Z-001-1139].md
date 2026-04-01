@@ -150,4 +150,4 @@ HBOT increases tissue O₂ → More DNA damage fixed → Enhanced cell kill
 
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

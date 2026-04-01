@@ -41,6 +41,6 @@ Despite the corrected RDA calculation showing 7,000-8,000 IU/day is needed for 9
 
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 
 - [[Vitamin_D_High_Dose_Monitoring_Protocol_[Z-001-0091]|Z-001-0091]]

@@ -29,6 +29,6 @@ Denosumab reduces bone resorption and calcium release from bone, creating risk o
 
 
 ## RELATED FILES
-- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 

@@ -211,7 +211,7 @@ Severe T2DM (HbA1c>9) vs. healthy: Effect size f=0.35, need n=100/group
 *See also: [[Power_Analysis_Formula_Metabolomics_[Z-001-0928]]]*
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

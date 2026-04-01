@@ -65,8 +65,8 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 
 - _HMG_CoA_Reductase_[Z-001-0509]|Z-001-0509]]

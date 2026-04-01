@@ -100,7 +100,7 @@ During active biosynthesis, intermediates are withdrawn:
 
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 
 - [[Complete_Adipate_Metabolism_Formation_to_Krebs_[Z-001-1196]|Z-001-1196]]

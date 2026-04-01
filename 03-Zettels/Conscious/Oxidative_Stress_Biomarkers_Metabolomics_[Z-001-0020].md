@@ -139,6 +139,6 @@ Adipic acid elevation may indicate:
 *Confidence: High* — Well-established biomarkers, clinical utility validated  
 *Next Review: After identifying primary reference studies*
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

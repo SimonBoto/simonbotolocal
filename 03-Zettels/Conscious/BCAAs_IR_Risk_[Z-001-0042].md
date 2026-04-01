@@ -51,9 +51,9 @@ Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin
 **Emerges from:**  Taxonomy synthesis document
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
 - [[Amino_Acid_Complete_Classification_Table_[Z-001-1115]|Z-001-1115]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family Guide]]
 - [[Adipic_Acid_Early_IR_Biomarker_[Z-001-0041]|Adipic Acid — Early IR Biomarker]]
 - 
 

@@ -139,8 +139,8 @@ patient_id,visit,sbp_mmhg,dbp_mmhg,bp_status,htn_grade
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - 
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - |Biomarkers MOC]]

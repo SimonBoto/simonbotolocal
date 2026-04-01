@@ -176,6 +176,6 @@ VD intervention target:
 *Key insight: Ketones represent alternative fuel pathway when glucose unavailable — relevant to IR metabolic inflexibility*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

@@ -115,6 +115,6 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 
 - [[Oleic_Acid_Metabolic_Benefits_[Z-001-0533]|Z-001-0533]]

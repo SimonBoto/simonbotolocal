@@ -134,7 +134,7 @@ Break conclusions into individual sentences/claims. Example from CGPT-0328:
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Liver_Function_[B-009-0001]|Biomarker Family Guide]]
 - 
 

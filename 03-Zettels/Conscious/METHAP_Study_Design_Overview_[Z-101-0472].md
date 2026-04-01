@@ -95,7 +95,7 @@ Specific patterns of urinary organic acids and plasma free fatty acids can discr
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
 - [[Vitamin_K2_Vascular_Calcification_MGP_[Z-001-0228]|Z-001-0228]]
 - [[D_K2_Production_Activation_Partnership_[Z-001-0253]|Z-001-0253]]
 - [[Vascular_Calcification_Prevention_Reversal_[Z-001-0272]|Z-001-0272]]
@@ -115,6 +115,6 @@ Specific patterns of urinary organic acids and plasma free fatty acids can discr
 - [[Bone_Remodeling_Cycle_Five_Phases_[Z-001-0083]|Z-001-0083]]
 - [[Vitamin_D_High_Dose_Monitoring_Protocol_[Z-001-0091]|Z-001-0091]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

@@ -92,6 +92,6 @@ Yield acetyl-CoA or acetoacetyl-CoA:
 
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_[Z-001-1100]|Z-001-1100]]

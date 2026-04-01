@@ -97,4 +97,4 @@ High vitamin C (ascorbic acid) intake can cause **false positive oxalate measure
 
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]

@@ -147,6 +147,6 @@ MOC-Clinical-Protocols → Supplement Hierarchy → Cofactor Deficiency → Qual
 
 ## RELATED FILES
 - 
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]]
 - 
 

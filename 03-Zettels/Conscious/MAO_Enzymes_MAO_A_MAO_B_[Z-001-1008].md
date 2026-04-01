@@ -269,5 +269,5 @@ R-CH2-NH2 + O2 + H2O → R-CHO + NH3 + H2O2
 
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
 - 

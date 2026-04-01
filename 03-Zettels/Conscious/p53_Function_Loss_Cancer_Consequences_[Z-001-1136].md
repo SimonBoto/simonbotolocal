@@ -119,4 +119,4 @@ The p53 protein, encoded by the TP53 gene, is the "guardian of the genome." Loss
 
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

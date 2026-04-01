@@ -67,14 +67,14 @@ updated: 2026-04-01
 
 ## 🏥 Biomarker Families
 
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family]] — Glucose, Insulin, HbA1c, HOMA-IR
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Lipid Ratios Family]] — LDL, HDL, TG, ApoB, Lp(a)
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Methylation Family]] — Homocysteine, B12, Folate, MMA
-- [[Biomarkers/Iron_Family_[B-003-0001]|Iron Family]] — Ferritin, TIBC, Transferrin Sat
-- [[Biomarkers/CRP_[B-002-0001]|Inflammation Family]] — CRP, WBC, Calprotectin
-- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Thyroid Panel]] — TSH, T4, T3
+- [[Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family]] — Glucose, Insulin, HbA1c, HOMA-IR
+- [[Lipid_Ratios_[B-006-0001]|Lipid Ratios Family]] — LDL, HDL, TG, ApoB, Lp(a)
+- [[Methylation_Family_[B-004-0001]|Methylation Family]] — Homocysteine, B12, Folate, MMA
+- [[Iron_Family_[B-003-0001]|Iron Family]] — Ferritin, TIBC, Transferrin Sat
+- [[CRP_[B-002-0001]|Inflammation Family]] — CRP, WBC, Calprotectin
+- [[Thyroid_Panel_[B-010-0001]|Thyroid Panel]] — TSH, T4, T3
 - [[Biomarkers/Kidney_Function_[B-009-0001]|Kidney Function]] — eGFR, Creatinine, BUN
-- [[Biomarkers/Liver_Function_[B-009-0001]|Liver Function]] — ALT, AST, ALP, GGT
+- [[Liver_Function_[B-009-0001]|Liver Function]] — ALT, AST, ALP, GGT
 
 ---
 

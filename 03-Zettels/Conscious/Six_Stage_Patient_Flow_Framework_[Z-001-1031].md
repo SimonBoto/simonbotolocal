@@ -71,7 +71,7 @@ Each stage becomes a **training module** with:
 *Source: CGPT-0022 — ChatGPT training synthesis*
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

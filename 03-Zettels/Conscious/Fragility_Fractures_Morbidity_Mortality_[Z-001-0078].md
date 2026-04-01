@@ -33,4 +33,4 @@ Fragility fractures—especially of the hip and vertebra—are associated with s
 
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

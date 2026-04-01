@@ -60,6 +60,6 @@ NADPH + Trx-S₂ → NADP⁺ + Trx-(SH)₂
 
 
 ## RELATED FILES
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - 
 - _Zinc_Selenium_[Z-001-1015]|Z-001-1015]]

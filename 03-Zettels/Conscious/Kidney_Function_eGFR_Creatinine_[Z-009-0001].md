@@ -134,7 +134,7 @@ patient_id,visit,creatinine_mg_dl,egfr_ml_min,urea_mg_dl,uric_acid_mg_dl,kidney_
 *Created: 2026-02-26 | Domain: 009 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - |Biomarkers MOC]]
 

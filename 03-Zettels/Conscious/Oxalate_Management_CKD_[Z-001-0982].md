@@ -345,6 +345,6 @@ Calcium oxalate is the most common kidney stone type. CKD patients have increase
 
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
 - 
 - 

@@ -29,7 +29,7 @@ Protein intake stimulates intestinal calcium absorption. However, extremely high
 
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 
 - 
 - [[Bone_Remodeling_Cycle_Five_Phases_[Z-001-0083]|Z-001-0083]]

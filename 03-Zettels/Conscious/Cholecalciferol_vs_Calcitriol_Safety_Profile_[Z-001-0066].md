@@ -44,7 +44,7 @@ Cholecalciferol (3) and calcitriol (1,25-dihydroxyvitamin D) have dramatically d
 
 
 ## RELATED FILES
-- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 
 - [[Vitamin_D_High_Dose_Monitoring_Protocol_[Z-001-0091]|Z-001-0091]]

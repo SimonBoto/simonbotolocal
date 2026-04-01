@@ -252,12 +252,12 @@ Protein/DNA adducts → Cellular damage
 **Related:** [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_[Z-001-0954].md]] | [[4_HNE_Protein_Adducts_Cellular_Damage_[Z-001-0010].md]] | [[Seed_Oil_Refining_Process_RBD_[Z-001-0956].md]]
 
 ## RELATED FILES
-- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
-- [[Biomarkers/Free_Fatty_Acids_[B-006-0002]|Free Fatty Acids Panel]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Free_Fatty_Acids_[B-006-0002]|Free Fatty Acids Panel]]
 - [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_[Z-001-0954]|Oxidative Stress Mechanisms]]
 - 
 

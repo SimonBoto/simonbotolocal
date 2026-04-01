@@ -275,6 +275,6 @@ Result: Disorganized woven bone, enlarged, weak
 
 
 ## RELATED FILES
-- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]

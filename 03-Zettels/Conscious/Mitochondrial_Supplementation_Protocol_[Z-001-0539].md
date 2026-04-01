@@ -53,5 +53,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]]
 - 

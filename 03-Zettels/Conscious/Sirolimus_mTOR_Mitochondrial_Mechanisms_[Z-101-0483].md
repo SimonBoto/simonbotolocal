@@ -168,5 +168,5 @@ mTORC1 inhibited → Autophagy induced → Cellular component clearance
 
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 

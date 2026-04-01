@@ -63,4 +63,4 @@ Low Ca²⁺ → PTH release → D activation → ↑ Ca absorption → Ca²⁺ r
 
 
 ## RELATED FILES
-- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]

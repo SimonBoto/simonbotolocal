@@ -122,8 +122,8 @@ Stool characteristics provide critical feedback during dysbiosis treatment, help
 *Source: [[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]] | 2026-03-09*
 
 ## RELATED FILES
-- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
-- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 

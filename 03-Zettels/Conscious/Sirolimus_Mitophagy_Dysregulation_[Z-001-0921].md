@@ -117,6 +117,6 @@ Mitochondrial Health = Biogenesis - (Damage + Clearance)
 
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 
 - [[Sirolimus_Lipotoxicity_Adiponectin_[Z-001-0926]|Z-001-0926]]

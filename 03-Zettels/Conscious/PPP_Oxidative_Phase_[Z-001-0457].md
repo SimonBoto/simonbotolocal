@@ -51,4 +51,4 @@ G6P + 2 NADP⁺ + H₂O → R5P + CO₂ + 2 NADPH + 2 H⁺
 
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

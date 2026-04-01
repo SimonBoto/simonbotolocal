@@ -40,5 +40,5 @@ Saadi et al. (2009) demonstrated safety of 2,000 IU/day in infants over short du
 
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 

@@ -116,7 +116,7 @@ Genetic mutation → Enzyme deficiency
 *Confidence: High* — Well-established NBS precedent  
 *Next Review: After adipic acid sensitivity/specificity data collection*
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

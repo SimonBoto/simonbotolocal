@@ -145,4 +145,4 @@ Taurine is a sulfur-containing amino acid with critical roles in bile acid conju
 *Source: [[LitNote_Gut_Healing_Amino_Acids_L-001-0636]] | 2026-03-09*
 
 ## RELATED FILES
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]

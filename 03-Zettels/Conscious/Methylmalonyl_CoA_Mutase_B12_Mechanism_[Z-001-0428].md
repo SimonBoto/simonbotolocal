@@ -81,6 +81,6 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - [[B12_METHAP_Protocol_Integration_[Z-001-0443]|Z-001-0443]]

@@ -80,6 +80,6 @@ THF ↔ 5,10-Methylene-THF ↔ 5-Methyl-THF
 
 
 ## RELATED FILES
-- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
 - 

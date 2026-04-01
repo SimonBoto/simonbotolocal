@@ -138,7 +138,7 @@ Before claiming "biomarker identified":
 
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Liver_Function_[B-009-0001]|Biomarker Family Guide]]
 - 
 

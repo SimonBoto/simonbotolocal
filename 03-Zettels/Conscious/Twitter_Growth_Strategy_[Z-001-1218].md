@@ -247,4 +247,4 @@ Share:
 *Source: [[LitNote_Twitter_Strategy_DrMito_L-001-0634]] | 2026-03-09*
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

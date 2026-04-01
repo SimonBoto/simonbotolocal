@@ -147,7 +147,7 @@ Dysplasia → Carcinoma
 *Source: [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]] | 2026-03-08*
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
 - /CRP_[B-002-0001]|Biomarker Family Guide]]
 - 
 

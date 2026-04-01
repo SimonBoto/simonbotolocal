@@ -108,8 +108,8 @@ Studies reporting VIP > 1 without effect sizes:
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
 - 
-- [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[Liver_Function_[B-009-0001]|Biomarker Family Guide]]
 - 
 

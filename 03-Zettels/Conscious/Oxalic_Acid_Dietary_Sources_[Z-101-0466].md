@@ -78,4 +78,4 @@ Oxalic acid occurs naturally in many plant foods. Content varies dramatically by
 
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]

@@ -29,4 +29,4 @@ Vitamin K2 (MK-4 and MK-7 isoforms) activates osteocalcin via carboxylation. Car
 
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

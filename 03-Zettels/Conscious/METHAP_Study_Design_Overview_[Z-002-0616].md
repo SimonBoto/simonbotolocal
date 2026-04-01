@@ -65,6 +65,6 @@ METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-section
 
 ## RELATED FILES
 - 
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

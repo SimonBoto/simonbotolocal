@@ -64,4 +64,4 @@ An 8-week, time-bound training curriculum designed to scaffold cognitive transfo
 
 
 ## RELATED FILES
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]

@@ -182,6 +182,6 @@ Modern multiple myeloma treatment utilizes novel agents (immunomodulatory drugs,
 
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
 - 
 - [[B12_MM_Mimicry_Clinical_Question_[Z-001-0419]|Z-001-0419]]

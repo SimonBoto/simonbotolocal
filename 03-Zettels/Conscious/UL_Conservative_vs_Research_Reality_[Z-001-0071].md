@@ -42,4 +42,4 @@ Current IOM Upper Limits (UL) for  are substantially lower than doses proven saf
 
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

@@ -164,5 +164,5 @@ To achieve 4:1 ratio with this poultry intake:
 *Created: 2026-03-03 | Status: Conscious | Domain: 001 | Reference Data*
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]

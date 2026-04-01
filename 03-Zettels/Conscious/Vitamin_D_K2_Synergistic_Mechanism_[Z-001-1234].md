@@ -119,6 +119,6 @@ Optimal calcium distribution + metabolic signaling
 *Source: [[LitNote_VitD_K2_Synergy_MetS_L-001-0639]] | 2026-03-09*
 
 ## RELATED FILES
-- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

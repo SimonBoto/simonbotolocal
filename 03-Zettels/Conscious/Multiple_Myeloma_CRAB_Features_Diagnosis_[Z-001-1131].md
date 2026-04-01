@@ -115,8 +115,8 @@ Multiple myeloma is characterized by the CRAB features—hyperCalcemia, Renal im
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 ## RELATED FILES
-- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
 - /CRP_[B-002-0001]|Biomarker Family Guide]]
 - 
 

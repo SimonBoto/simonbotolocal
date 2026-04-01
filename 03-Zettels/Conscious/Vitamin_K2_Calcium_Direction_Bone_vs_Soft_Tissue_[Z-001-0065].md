@@ -39,5 +39,5 @@ Vitamin K2 (menaquinone) activates calcium-binding proteins that direct calcium 
 
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 

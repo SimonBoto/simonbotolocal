@@ -131,4 +131,4 @@ Recombinant human parathyroid hormone (1-34 fragment) given as **daily subcutane
 
 
 ## RELATED FILES
-- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]

@@ -357,4 +357,4 @@ Informed consent is the process by which potential participants learn about a  s
 
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]

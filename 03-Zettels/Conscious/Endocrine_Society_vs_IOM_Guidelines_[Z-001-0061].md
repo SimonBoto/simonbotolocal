@@ -40,5 +40,5 @@ The Endocrine Society (clinical endocrinologists) recommends 1,500-2,000 IU/day 
 
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 

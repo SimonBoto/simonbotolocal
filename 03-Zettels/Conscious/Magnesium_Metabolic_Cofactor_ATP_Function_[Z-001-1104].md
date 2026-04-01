@@ -97,5 +97,5 @@ Magnesium is essential for ATP function and serves as cofactor for over 300 enzy
 
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 

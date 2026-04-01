@@ -146,4 +146,4 @@ GKI = 70 ÷ 2.0 = 35 → 3.5 (therapeutic range)
 
 
 ## RELATED FILES
-- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

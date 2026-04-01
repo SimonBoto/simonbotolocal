@@ -127,7 +127,7 @@ patient_id,visit,ast_u_l,alt_u_l,ggt_u_l,alp_u_l,ast_alt_ratio,liver_pattern
 *Created: 2026-02-26 | Domain: 008 | Status: Conscious*
 
 ## RELATED FILES
-- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - 
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 

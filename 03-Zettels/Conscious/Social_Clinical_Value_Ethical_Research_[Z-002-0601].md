@@ -46,7 +46,7 @@ Adipic acid as an insulin resistance  satisfies this requirement:
 *UID: Z-002-0601 | Domain: 002 | Created: 2026-03-27*
 
 ## RELATED FILES
-- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
 - 
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
