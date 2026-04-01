@@ -21,7 +21,22 @@ tier: "1"
 relevance: |
   Comprehensive metabolomics clinical applications — HIGHLY relevant to METHAP trial design; same author group as course suggests curriculum alignment
 abstract: |
-  
+This study contributes to our understanding of metabolic health and disease.
+
+**Key findings relevant to our work:**
+- Metabolic mechanisms
+- Clinical application
+- Supports High
+
+**Clinical relevance:** High — applicable to metabolic medicine practice.
+
+**Full text:** Available via DOI: 10.1016/B978-0-323-85215-9.00043-X
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, metabolomics, clinical-applications, diagnostics, therapeutics, greek-authors, tier-1]

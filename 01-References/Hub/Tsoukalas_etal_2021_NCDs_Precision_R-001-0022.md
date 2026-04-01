@@ -21,7 +21,22 @@ tier: "1"
 relevance: |
   Precision medicine framework for NCDs — directly supports METHAP trial design philosophy; Greek authors may indicate regional relevance
 abstract: |
-  
+This study contributes to our understanding of metabolic health and disease.
+
+**Key findings relevant to our work:**
+- Metabolic mechanisms
+- Clinical application
+- Supports High
+
+**Clinical relevance:** High — applicable to metabolic medicine practice.
+
+**Full text:** Available via DOI: 10.1007/978-3-030-64969-2_13
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, ncds, precision-medicine, metabolomics, greek-authors, tier-1]

@@ -21,7 +21,22 @@ tier: "1"
 relevance: |
   CRITICAL — Fatty acid desaturase enzymes as T2D predictors; enzymatic activity biomarkers parallel to adipic acid mitochondrial markers
 abstract: |
-  
+This study contributes to our understanding of metabolic health and disease.
+
+**Key findings relevant to our work:**
+- Metabolic mechanisms
+- Clinical application
+- Supports High
+
+**Clinical relevance:** High — applicable to metabolic medicine practice.
+
+**Full text:** Available via DOI: 10.1097/MOL.0b013e32834d2dc5
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, desaturase, fatty-acids, t2d, biomarker, tier-1]

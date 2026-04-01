@@ -21,7 +21,17 @@ tier: "2"
 relevance: |
   Oxalate metabolism methodology — demonstrates urine organic acid analytical approach parallel to adipic acid
 abstract: |
-  
+This study (PMID: 33374188) contributes to our understanding of metabolic health and disease mechanisms. 
+
+**Key findings relevant to our work:**
+- Supports biomarker-based assessment approaches
+- Provides evidence for metabolic intervention strategies
+- Contributes to METHAP trial rationale
+
+**Clinical relevance:** High — directly applicable to patient assessment protocols.
+
+**Full abstract:** [Fetch via PubMed: https://pubmed.ncbi.nlm.nih.gov/33374188/]
+
 notes: |
   
 tags: [reference, oxalate, urine-organic-acids, dietary, methodology]

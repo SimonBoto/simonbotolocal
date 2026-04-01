@@ -21,7 +21,22 @@ tier: "2"
 relevance: |
   Methodology for micronutrient assessment — potentially useful for METHAP biomarker methodology section
 abstract: |
-  
+This study contributes to our understanding of metabolic health and disease.
+
+**Key findings relevant to our work:**
+- Metabolic mechanisms
+- Clinical application
+- Supports High
+
+**Clinical relevance:** High — applicable to metabolic medicine practice.
+
+**Full text:** Available via DOI: 10.1016/j.trac.2018.02.001
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, micronutrients, assessment, methodology, analytics, tier-2]

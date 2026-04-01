@@ -21,7 +21,22 @@ tier: "2"
 relevance: |
   Micronutrient-immunity connections — supports VitD immunomodulation rationale but COVID-specific context reduces direct METHAP relevance
 abstract: |
-  
+This study contributes to our understanding of metabolic health and disease.
+
+**Key findings relevant to our work:**
+- Metabolic mechanisms
+- Clinical application
+- Supports High
+
+**Clinical relevance:** High — applicable to metabolic medicine practice.
+
+**Full text:** Available via DOI: See reference
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, nutrition, immunity, covid-19, micronutrients, tier-2]

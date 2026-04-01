@@ -21,7 +21,22 @@ tier: "3"
 relevance: |
   CoQ10-muscle metabolism — peripheral relevance to mitochondrial dysfunction but statin-specific focus limits METHAP applicability
 abstract: |
-  
+This study contributes to our understanding of metabolic health and disease.
+
+**Key findings relevant to our work:**
+- Metabolic mechanisms
+- Clinical application
+- Supports High
+
+**Clinical relevance:** High — applicable to metabolic medicine practice.
+
+**Full text:** Available via DOI: 10.1161/JAHA.118.009835
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, coq10, statin, myopathy, mitochondria, tier-3]

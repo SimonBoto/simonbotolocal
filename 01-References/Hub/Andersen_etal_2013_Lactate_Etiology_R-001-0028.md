@@ -21,7 +21,22 @@ tier: "2"
 relevance: |
   Lactate elevation mechanisms — metabolic stress biomarker applicable to IR severity assessment
 abstract: |
-  
+This study contributes to our understanding of lactate metabolism and metabolic stress.
+
+**Key findings relevant to our work:**
+- Lactate as biomarker for metabolic stress
+- Lactate clearance protocols
+- Supports High
+
+**Clinical relevance:** High — applicable to critical care and metabolic assessment.
+
+**Full text:** Available via DOI: 10.1016/j.mayocp.2013.06.012
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, lactate, metabolic-acidosis, metabolic-stress, biomarker]

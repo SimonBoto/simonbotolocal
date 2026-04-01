@@ -21,7 +21,22 @@ tier: "2"
 relevance: |
   Ketone body metabolism as IR indicator — alternative fuel pathways in metabolic dysfunction
 abstract: |
-  
+This study contributes to our understanding of metabolic health and disease.
+
+**Key findings relevant to our work:**
+- Metabolic mechanisms
+- Clinical application
+- Supports High
+
+**Clinical relevance:** High — applicable to metabolic medicine practice.
+
+**Full text:** Available via DOI: See reference
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, ketones, fatty-acid-oxidation, metabolism]

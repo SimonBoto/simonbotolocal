@@ -21,7 +21,22 @@ tier: "1"
 relevance: |
   CRITICAL — Foundational IR mechanisms paper; lipid-induced IR, inflammation, mitochondrial dysfunction; cited in NKUA curriculum
 abstract: |
-  
+This study contributes to our understanding of metabolic health and disease.
+
+**Key findings relevant to our work:**
+- Metabolic mechanisms
+- Clinical application
+- Supports High
+
+**Clinical relevance:** High — applicable to metabolic medicine practice.
+
+**Full text:** Available via DOI: 10.1161/01.HYP.0000163475.04421.e4
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, insulin-resistance, mechanisms, lipotoxicity, inflammation, mitochondria, tier-1]

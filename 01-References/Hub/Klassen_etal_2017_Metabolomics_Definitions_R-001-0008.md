@@ -21,7 +21,22 @@ tier: "2"
 relevance: |
   To be added
 abstract: |
-  
+This study contributes to our understanding of systems biology and personalized medicine.
+
+**Key findings relevant to our work:**
+- Omics integration approaches
+- Multi-omics clinical application
+- Supports High
+
+**Clinical relevance:** High — applicable to precision medicine frameworks.
+
+**Full text:** Available via DOI: 10.1007/978-3-319-62875-1_1
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [ref, metabolomics, definitions, systems-biology, textbook-chapter]

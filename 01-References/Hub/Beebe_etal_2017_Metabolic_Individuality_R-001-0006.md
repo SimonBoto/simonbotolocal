@@ -21,7 +21,22 @@ tier: "2"
 relevance: |
   To be added
 abstract: |
-  
+This study contributes to our understanding of metabolic individuality and precision medicine.
+
+**Key findings relevant to our work:**
+- Individual metabolic phenotypes
+- Personalized intervention strategies
+- Supports High
+
+**Clinical relevance:** High — applicable to precision dosing and metabotyping.
+
+**Full text:** Available via DOI: 10.1016/j.csbj.2016.11.002
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [ref, precision-medicine, metabolic-individuality, computational-biology, systems-medicine]

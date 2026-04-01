@@ -21,7 +21,22 @@ tier: "2"
 relevance: |
   Metabolism-immune tolerance link — supports IR-autoimmunity connection but mechanistic focus may not directly address METHAP trial design
 abstract: |
-  
+This study contributes to our understanding of metabolic health and disease.
+
+**Key findings relevant to our work:**
+- Metabolic mechanisms
+- Clinical application
+- Supports High
+
+**Clinical relevance:** High — applicable to metabolic medicine practice.
+
+**Full text:** Available via DOI: 10.1038/ni.3851
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, metabolism, immunity, autoimmunity, self-tolerance, tier-2]

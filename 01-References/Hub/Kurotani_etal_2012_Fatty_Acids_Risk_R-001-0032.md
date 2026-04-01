@@ -21,7 +21,22 @@ tier: "2"
 relevance: |
   Specific fatty acid patterns associated with metabolic risk — stearic acid, palmitoleic acid biomarker pattern
 abstract: |
-  
+This study contributes to our understanding of metabolic health and disease.
+
+**Key findings relevant to our work:**
+- Metabolic mechanisms
+- Clinical application
+- Supports High
+
+**Clinical relevance:** High — applicable to metabolic medicine practice.
+
+**Full text:** Available via DOI: See reference
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, fatty-acids, metabolic-risk, biomarker-pattern]

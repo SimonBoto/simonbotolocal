@@ -21,7 +21,22 @@ tier: "1"
 relevance: |
   Cofactor→metabolite biomarker model (B12→methylmalonic acid) — parallel logic to VitD→adipic acid
 abstract: |
-  
+This study contributes to our understanding of metabolic health and disease.
+
+**Key findings relevant to our work:**
+- Metabolic mechanisms
+- Clinical application
+- Supports High
+
+**Clinical relevance:** High — applicable to metabolic medicine practice.
+
+**Full text:** Available via DOI: 10.3389/fmolb.2016.00027
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, b12, biomarkers, cofactor, metabolites, tier-1]

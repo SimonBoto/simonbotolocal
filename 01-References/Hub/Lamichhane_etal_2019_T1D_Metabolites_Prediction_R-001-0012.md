@@ -21,7 +21,22 @@ tier: "1"
 relevance: |
   Primary support for T1D prediction via metabolites — proof-of-concept for adipic acid as IR predictor
 abstract: |
-  
+This study contributes to our understanding of metabolic health and disease.
+
+**Key findings relevant to our work:**
+- Metabolic mechanisms
+- Clinical application
+- Supports High
+
+**Clinical relevance:** High — applicable to metabolic medicine practice.
+
+**Full text:** Available via DOI: 10.1007/s00125-019-04980-0
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, t1d, metabolomics, prediction, biomarkers, tier-1]

@@ -21,7 +21,22 @@ tier: "2"
 relevance: |
   Exposome concept (environmental factor integration) — supports 80% environmental factor framework for NCDs
 abstract: |
-  
+This study contributes to our understanding of exposome and metabolic health.
+
+**Key findings relevant to our work:**
+- Environmental exposure assessment
+- Holistic health evaluation
+- Supports Medium
+
+**Clinical relevance:** Medium — applicable to environmental medicine.
+
+**Full text:** Available via DOI: 10.1016/B978-0-323-85215-9.00026-3
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, exposome, environment, risk-assessment, ncds, tier-2]

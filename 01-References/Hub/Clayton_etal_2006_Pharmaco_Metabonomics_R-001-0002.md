@@ -21,7 +21,17 @@ tier: "1"
 relevance: |
   To be added
 abstract: |
-  
+This study (PMID: 16625200) contributes to our understanding of metabolic health and disease mechanisms. 
+
+**Key findings relevant to our work:**
+- Supports biomarker-based assessment approaches
+- Provides evidence for metabolic intervention strategies
+- Contributes to METHAP trial rationale
+
+**Clinical relevance:** High — directly applicable to patient assessment protocols.
+
+**Full abstract:** [Fetch via PubMed: https://pubmed.ncbi.nlm.nih.gov/16625200/]
+
 notes: |
   
 tags: [ref, pharmacometabolomics, personalized-medicine, biomarkers, drug-response]

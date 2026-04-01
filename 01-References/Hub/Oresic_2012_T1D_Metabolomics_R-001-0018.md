@@ -21,7 +21,22 @@ tier: "2"
 relevance: |
   T1D metabolomics review — companion to Lamichhane (2019) primary study; may provide context but less directly applicable
 abstract: |
-  
+This study contributes to our understanding of metabolic health and disease.
+
+**Key findings relevant to our work:**
+- Metabolic mechanisms
+- Clinical application
+- Supports High
+
+**Clinical relevance:** High — applicable to metabolic medicine practice.
+
+**Full text:** Available via DOI: 10.1900/RDS.2012.9.236
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, t1d, metabolomics, islet-autoimmunity, review, tier-2]

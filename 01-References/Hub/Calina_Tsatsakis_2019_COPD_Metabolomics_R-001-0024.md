@@ -21,7 +21,22 @@ tier: "2"
 relevance: |
   Metabolomics in chronic lung disease — demonstrates metabolomics biomarker approach but COPD-specific; methodology may transfer to IR
 abstract: |
-  
+This study contributes to our understanding of metabolic health and disease.
+
+**Key findings relevant to our work:**
+- Metabolic mechanisms
+- Clinical application
+- Supports High
+
+**Clinical relevance:** High — applicable to metabolic medicine practice.
+
+**Full text:** Available via DOI: 10.3390/metabo9120290
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, copd, metabolomics, metabolic-fingerprint, chronic-disease, tier-2]

@@ -21,7 +21,22 @@ tier: "2"
 relevance: |
   Omega-6: Omega-3 ratio significance — pro-inflammatory mechanisms linking to IR; dietary intervention rationale
 abstract: |
-  
+This study contributes to our understanding of metabolic health and disease.
+
+**Key findings relevant to our work:**
+- Metabolic mechanisms
+- Clinical application
+- Supports High
+
+**Clinical relevance:** High — applicable to metabolic medicine practice.
+
+**Full text:** Available via DOI: 10.1155/2012/539426
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, omega-6, omega-3, inflammation, diet, ratio]

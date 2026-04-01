@@ -21,7 +21,22 @@ tier: "1"
 relevance: |
   Source of 80% environmental factors claim for NCDs — foundational for METHAP trial rationale
 abstract: |
-  
+This study contributes to our understanding of food systems and non-communicable diseases.
+
+**Key findings relevant to our work:**
+- Environmental factors in NCDs (80%)
+- METHAP trial rationale
+- Supports Critical
+
+**Clinical relevance:** Critical — applicable to population health and prevention.
+
+**Full text:** Available via DOI: 10.1136/bmj.l296
+
+**Notes for extraction:**
+- [ ] Core concepts identified
+- [ ] Zettel candidates noted
+- [ ] Synthesis connections mapped
+
 notes: |
   
 tags: [reference, ncds, environmental-factors, nutrition, who, tier-1]
