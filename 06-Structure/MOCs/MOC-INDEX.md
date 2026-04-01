@@ -1,189 +1,90 @@
-<!-- NEW_NAME: MOC-INDEX-v2.md -->
 ---
-uid: 20260221172200
+uid: MOC-INDEX
 type: moc
-structure-type: master-index
-title: MOC INDEX — Master Navigation Hub
-tags: [moc, index, master, navigation, hub]
+title: MOC-INDEX — Master Navigation Hub
+aliases: [Index, Master-MOC, Vault-Hub, Start-Here]
+domain: 000
+tags: [moc, index, navigation, hub, start]
+parent-moc: none
 status: active
-aliases: [MOC_Index, Master_MOC, MOC_of_MOCs, Navigation_Hub]
-last-reviewed: 2026-02-21
-next-review: 2026-03-21
+created: 2026-04-01
 ---
 
-# 🗺️ MOC INDEX — Master Navigation Hub
+# MOC-INDEX — Master Navigation Hub
 
-> **Your bird's-eye view of all knowledge maps. Start here to explore any topic.**
-
-**Total MOCs:** 20 active | **Last Updated:** 2026-02-21 | **Status:** 🟢 Active
-
----
-
-## 🎯 Primary Navigation — START HERE
-
-### 🔬 Research & PhD
-| MOC | Description | Notes | Status |
-|-----|-------------|-------|--------|
-| **[[MOC-Insulin-Signaling]]** | Main PhD research hub — IR mechanisms | 17 atomics | 🟢 Active |
-| **[[MOC-Biomarkers]]** | Biomarker classification | Early detection panel | 🟢 Active |
-
-### 🏥 Clinical Practice
-| MOC | Description | Focus | Status |
-|-----|-------------|-------|--------|
-| **[[MOC-Clinical-Protocols]]** | Standard operating procedures | Protocols | 🟢 Active |
-| **[[MOC-Clinic-Queue]]** | Patient workflow management | Operations | 🟢 Active |
-| **[[MOC-Hashimoto-Thyroiditis]]** | Hashimoto's deep-dive | Autoimmunity | 🟢 Active |
-
-### 🔍 Topics by Domain
-
-#### Metabolic Health
-| MOC | Description | Key Concepts |
-|-----|-------------|--------------|
-| **[[MOC-Metabolic-Syndrome]]** | MetS hub — prevalence, criteria, nutrition | Waist, TG, HDL, glucose |
-| **[[MOC-Diabetes-T2D]]** | Type 2 Diabetes deep-dive | Pathophysiology, reversal |
-| **[[MOC-Cholesterol-Quality]]** | Cholesterol particle quality | LDL size, HDL function |
-| **[[MOC-Omega3-Fats]]** | Omega-3 fatty acids | Anti-inflammatory, ratio |
-
-#### Nutrition & Supplements
-| MOC | Description | Key Concepts |
-|-----|-------------|--------------|
-| **[[MOC-Vitamin-Safety]]** | Vitamin safety & dosing | High-dose protocols |
-| **[[MOC-Hidden-Hunger]]** | Micronutrient deficiencies | Hidden hunger, T2D link |
-| **[[MOC-Nutrition]]** | General nutrition hub | Diet principles |
-| **[[MOC-Nutrition-Risks]]** | Nutritional risk factors | Deficiency patterns |
-
-#### Autoimmunity & Stress
-| MOC | Description | Key Concepts |
-|-----|-------------|--------------|
-| **[[MOC-Stress-Autoimmune]]** | Stress-autoimmune connection | Cortisol, tolerance breach |
-
-#### Methods & Analysis
-| MOC | Description | Key Concepts |
-|-----|-------------|--------------|
-| **[[MOC-Metabolomics]]** | Metabolomics methods | GC-MS, biomarkers |
-| **[[MOC-Metabolomics-Protocols]]** | Protocol-specific MOC | Pre-analytics, QC |
-| **[[MOC-Metabolomics-Analysis]]** | Data analysis methods | Multivariate, PCA |
-| **[[MOC-Biomarkers]]** | Biomarker classification | Early vs late markers |
-
-#### Operations
-| MOC | Description | Purpose |
-|-----|-------------|---------|
-| **[[MOC-Inbox-Sprint]]** | Inbox processing workflow | Triage system |
-| **[[MOC-Literature-Management]]** | Literature management | Reading queue |
+> **Entry point to TheOptimizedBrain vault**
+> 
+> **Total zettels:** 879 | **Domains:** 11 | **Last updated:** 2026-04-01
 
 ---
 
-## 📊 MOC Health Dashboard
+## 🎯 Quick Access
 
-```dataview
-TABLE status, file.size AS "Size", last-reviewed AS "Last Review"
-FROM "06-Structure/MOCs"
-WHERE type = "moc"
-SORT file.name ASC
-```
-
-### Quick Stats
-- **Total MOCs:** 20
-- **With YAML:** 10/20 (50%) — *standardization in progress*
-- **With Dataview:** 3/20 (15%) — *enhancement needed*
-- **Last Updated Today:** 2 — *PhD_IR_MOC, MOC_INDEX*
-
----
-
-## 🎯 By Research Goal
-
-### "I'm working on my PhD"
-→ Start: [[MOC-Insulin-Signaling]]  
-→ Then: [[MOC-Biomarkers]], [[MOC-Hashimoto-Thyroiditis]]
-
-### "I need clinical protocols"
-→ Start: [[MOC-Clinical-Protocols]]  
-→ Then: [[MOC-Clinic-Queue]], specific condition MOCs
-
-### "I want to understand metabolic syndrome"
-→ Start: [[MOC-Metabolic-Syndrome]]  
-→ Then: [[MOC-Diabetes-T2D]], [[MOC-Cholesterol-Quality]]
-
-### "I'm researching vitamin D"
-→ Start: [[MOC-Vitamin-Safety]]  
-→ Then: [[MOC-Hashimoto-Thyroiditis]] (VitD protocols)
-
-### "I need to process literature"
-→ Start: [[MOC-Literature-Management]]  
-→ Then: [[MOC-Inbox-Sprint]], [[Template_ClinicExtraction_v2.0]]
+| Domain | MOC | Description | Zettels |
+|--------|-----|-------------|---------|
+| **001** | [[MOC-Insulin-Signaling]] | Core metabolism, insulin resistance, metabolic health | 675 |
+| **002** | [[MOC-Research-Ethics]] | IRB, study design, ethical frameworks | 21 |
+| **003** | [[MOC-Iron-Metabolism]] | Iron studies, ferritin, anemia | 3 |
+| **004** | [[MOC-Methylation-One-Carbon]] | B12, folate, homocysteine | 4 |
+| **005** | [[MOC-Thyroid-Function]] | TSH, thyroid hormones | 2 |
+| **006** | [[MOC-Lipid-Metabolism]] | Cholesterol, fatty acids, lipoproteins | 2 |
+| **007** | [[MOC-Inflammation]] | CRP, cytokines, immune markers | 1 |
+| **008** | [[MOC-Liver-Function]] | Liver enzymes, detoxification | 1 |
+| **009** | [[MOC-Kidney-Metabolism]] | eGFR, creatinine, renal function | 1 |
+| **010** | [[MOC-Minerals-Trace]] | Magnesium, zinc, selenium | 1 |
+| **101** | [[MOC-Pharmacometabolomics]] | Drug metabolism, precision dosing | 55 |
 
 ---
 
-## 🔗 Cross-Domain Connections
+## 🧠 Knowledge Themes
 
-### Metabolic Health ↔ Autoimmunity
-[[MOC-Metabolic-Syndrome]] → [[MOC-Hashimoto-Thyroiditis]] via IR mechanisms
+### Metabolic Health
+- [[MOC-Vitamin-D-Metabolism]] — 53 zettels
+- [[MOC-Bone-Health]] — 25 zettels
+- [[MOC-Mitochondrial-Function]] — 14 zettels
+- [[MOC-Amino-Acid-Metabolism]] — 25 zettels
+- [[MOC-Glycolysis-PPP]] — 22 zettels
 
-### Nutr[[MOC-Biomarkers]]
-[[MOC-Nutrition]] → [[biomarkers-moc]] via micronutrient status
+### Research & Methods
+- [[MOC-Research-Methods]] — 32 zettels
+- [[MOC-Metabolomics-Training]] — 44 zettels
+- [[MOC-PhD-Research]] — 17 zettels
+- [[MOC-Clinical-Protocols]] — 18 zettels
 
-### PhD Research ↔ Clinical
-[[MOC-Insulin-Signaling]] → [[MOC-Clinical-Protocols]] via METHAP trial protocols
-
----
-
-## 🚀 MOC Development Status
-
-### 🟢 Complete (High Quality)
-- [[MOC-Insulin-Signaling]] — Fully structured, active research
-- [[MOC-Vitamin-Safety]] — Deep-dive with Dataview
-- [[MOC-Hashimoto-Thyroiditis]] — Comprehensive
-
-### 🟡 Active (Needs Enhancement)
-- [[Metabolic-Syndrome][[BIOMARKERS_MOC]]needs Dataview
-- [[biomarkers-moc]] — Solid, expand connections
-- [[MOC-Metabolomics]] — Core methods, add queries
-
-### 🟠 Basic (Minimal/Outdated)
-- [[MOC-Literature-Management]] — Minimal, merge with 66-Literature?
-- [[MOC-Inbox-Sprint]] — Workflow, possibly outdated
+### Biomarker Families
+- [[MOC-Biomarkers]] — Master biomarker index
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Lipid Ratios Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Methylation Family]]
+- [[Biomarkers/Iron_Family_[B-003-0001]|Iron Family]]
 
 ---
 
-## 📋 Maintenance Checklist
+## 📂 Vault Structure
 
-**Monthly:**
-- [ ] Review all MOCs for stale content
-- [ ] Update "last-reviewed" dates
-- [ ] Check for orphaned notes (no MOC parent)
-
-**Quarterly:**
-- [ ] Add Dataview queries to 3 more MOCs
-- [ ] Standardize YAML on 5 more MOCs
-- [ ] Archive obsolete MOCs
-
-**On-Demand:**
-- [ ] Create new MOC for emerging topic
-- [ ] Merge duplicate MOCs
-- [ ] Update cross-links
+| Folder | Purpose |
+|--------|---------|
+| [[00-MISSION]] | Daily priorities, active work |
+| [[01-References]] | Source materials, Zotero |
+| [[02-Literature]] | LitNotes in processing |
+| [[03-Zettels]] | **Main knowledge base** |
+| [[04-Synthesis]] | Living documents |
+| [[05-Projects]] | PhD, Assistant, Triangle |
+| [[06-Structure]] | MOCs, Templates, Protocols |
+| [[07-Archive]] | Historical, extracted |
+| [[08-Dashboards]] | COMMAND, QUEUE |
+| [[10-Daily]] | Daily notes |
 
 ---
 
-## 🆘 Quick Commands
+## 🔗 Linking Strategy
 
-**In Telegram:**
-- "MOC status" — Show this index
-- "Update MOCs" — Refresh all dataviews
-- "Find orphan notes" — Notes without MOC parents
-- "Create MOC for [topic]" — Generate new MOC
+**Hierarchical:** `Zettel → Domain MOC → MOC-INDEX`
 
----
+**Associative:** `Theme MOCs ↔ Cross-domain connections`
 
-## 📝 Recent Changes
-
-| Date | Change | MOC |
-|------|--------|-----|
-| 2026-02-21 | Merged update into main | [[MOC-Insulin-Signaling]] |
-| 2026-02-21 | Deleted empty .md file | N/A |
-| 2026-02-21 | Fixed template links | All MOCs |
-| 2026-02-21 | Created this index | MOC_INDEX |
+**Sequential:** `Folgezettel chains within domains`
 
 ---
 
-*MOC INDEX — Your map of maps. Updated with every heartbeat.*  
-*Next review: 2026-03-21*
+*This MOC is the single entry point for vault navigation. All zettels should link to their domain MOC; all domain MOCs link here.*

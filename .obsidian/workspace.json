@@ -11,24 +11,10 @@
             "id": "7508ddeb5acbd731",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Zettels/ChatGPT_Archive/00_ChatGPT_Archive_MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "00_ChatGPT_Archive_MOC"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -69,24 +55,10 @@
             "id": "02ff5a949a4ae388",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0009_AI_Question_Optimization_Coach_[CGPT-0009].md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CGPT_0009_AI_Question_Optimization_Coach_[CGPT-0009]"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -102,8 +74,7 @@
               "title": "Base File All Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,44 +250,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f010d4b0e2682ff5",
+  "active": "7508ddeb5acbd731",
   "lastOpenFiles": [
-    "03-Zettels/ChatGPT_Archive/00_ChatGPT_Archive_MOC.md",
-    "05-Projects/Assistant/LINK_ARCHITECTURE_DESIGN.md",
-    "ChatGPT_Archive_MOC.md",
     "Base File All Notes.base",
-    "03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0009_AI_Question_Optimization_Coach_[CGPT-0009].md",
-    "01-References/01-References.md",
-    "00-Inbox/Processed/Analysis organic acids extended.md",
-    "03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0008_Vitamin_D_Optimisation_Titles_[CGPT-0008].md",
-    "03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0006_Κλάδος_Vitamin_D_Optimisation_Titles_[CGPT-0006].md",
-    "07-Archive/ChatGPT_Extracted/00_Extracted_Insights_MOC.md",
-    "03-Zettels/Conscious/Biomarkers/Biomarker_Calprotectin_[B-002-0002]_v1.0.md",
-    "03-Zettels/Conscious/Biomarkers/Calprotectin_[B-002-0002].md",
-    "06-Structure/Templates/06-Structure-Templates.md",
-    "03-Zettels/Conscious/Biomarkers/Biomarker_CRP_[B-002-0001]_v1.0.md",
-    "00_SYSTEM/Templates/TEMPLATE — Module / Protocol.md",
-    "00_SYSTEM/Templates/TEMPLATE — Module ",
-    "00_SYSTEM/Templates",
-    "00_SYSTEM",
-    "03-Zettels/RON/sedFs2tug",
-    "03-Zettels/Subconscious/Supplements/ND_50_Plus_Women_[SUPP-ND-0050].md",
-    "03-Zettels/Subconscious/Supplements/ND_Zinc_Picolinate_[SUPP-ND-0049].md",
-    "03-Zettels/Subconscious/Supplements/ND_B1_Thiamine_[SUPP-ND-0048].md",
-    "03-Zettels/Subconscious/Supplements/ND_20_Free_Aminos_[SUPP-ND-0047].md",
-    "03-Zettels/Subconscious/Supplements/ND_L-Arginine_Base_[SUPP-ND-0046].md",
-    "03-Zettels/Subconscious/Supplements/ND_Taurine_500mg_[SUPP-ND-0045].md",
-    "03-Zettels/Subconscious/Supplements/ND_Creatine_Monohydrate_[SUPP-ND-0044].md",
-    "03-Zettels/Subconscious/Supplements/ND_Acetyl_L-Carnitine_500mg_[SUPP-ND-0043].md",
-    "03-Zettels/Subconscious/Supplements/ND_Healthy_Lipid_[SUPP-ND-0042].md",
-    "03-Zettels/Subconscious/Supplements/ND_Turmeric_Ginger_[SUPP-ND-0041].md",
-    "03-Zettels/Subconscious/Supplements/ND_Selenium_200mcg_[SUPP-ND-0040].md",
-    "03-Zettels/Subconscious/Supplements/ND_B12_Active_Alfa_Alfa_[SUPP-ND-0039].md",
-    "03-Zettels/Conscious/Biomarkers/Individual",
-    "03-Zettels/Conscious/Fatty_Acids",
-    "03-Zettels/Conscious/OAT",
-    "09-System/seed-registry.js",
-    "09-System/zettel-forge.js",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0656_New_chat_[CGPT-0656].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0563_Learn_About_Vitamin_D_[CGPT-0563].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0443_Vitamin_D_MR_Spectroscopy_[CGPT-0443].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0419_Vitamin_D_Upper_Limits_[CGPT-0419].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0343_Synthetic_Vitamin_E_[CGPT-0343].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0339_Vitamin_D_multilevel_effect_and_ancestral_levels_[CGPT-0339].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0338_Understanding_Vitamin_D_Units_[CGPT-0338].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0325_Differential_Diagnosis_Summary_[CGPT-0325].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0284_Vitamin_D_Toxicity_Misconception_[CGPT-0284].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0280_Micronutrient_Deficiencies_Metabolic_Syndrome_[CGPT-0280].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0275_Mendelian_Study_Vitamin_D_MetS_[CGPT-0275].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_[CGPT-0272].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0259_Vitamin_D_Metabolic_Syndrome_Review_[CGPT-0259].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0255_MetS_Vitamin_D_K2_Review_[CGPT-0255].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0254_Project_Nutrients_MetS_[CGPT-0254].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0251_Review_Feedback_and_Suggestions_[CGPT-0251].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0250_Review_of_Narrative_Review_[CGPT-0250].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0249_Page_1_Review_Assessment_[CGPT-0249].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0248_Vitamin_D_K2_MetS_Review_[CGPT-0248].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0247_Review_Progress_and_Extension_[CGPT-0247].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0244_Hello_and_assistance_[CGPT-0244].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0243_Finalizing_Narrative_Review_[CGPT-0243].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0242_Vitamin_D_K2_Infographics_[CGPT-0242].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0241_Vitamin_D_K2_Synergy_[CGPT-0241].md",
+    "00-Inbox/ChatGPT/vitamin_d/CGPT_0235_MetS_Review_Improvement_[CGPT-0235].md",
+    "00-Inbox/ChatGPT/vitamin_d",
+    "00-Inbox/ChatGPT/technology",
+    "00-Inbox/ChatGPT/philosophy",
+    "00-Inbox/ChatGPT/phd_research",
+    "00-Inbox/ChatGPT/personal_development",
+    "00-Inbox/ChatGPT/nutrition",
+    "00-Inbox/ChatGPT/metabolomics",
+    "00-Inbox/ChatGPT/insulin_resistance",
+    "00-Inbox/ChatGPT/greek_language",
+    "00-Inbox/ChatGPT/general",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
