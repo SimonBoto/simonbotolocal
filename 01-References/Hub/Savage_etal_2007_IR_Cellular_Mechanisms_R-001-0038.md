@@ -61,7 +61,7 @@ quality-score: medium
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Insulin_Receptor_Substrate_IRS_Phosphorylation_Z-001-0012]] — Cellular IR mechanisms
+- [[GSK3_Inhibition_Glycogen_Synthesis_[Z-001-0012]]] — Cellular IR mechanisms
 
 ---
 

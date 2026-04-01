@@ -56,7 +56,7 @@ tags: [reference, t1d, beta
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Type_1_Diabetes_Metabolic_Signature_Z-001-0910]] — T1D beta-cell mechanisms
+- [[Metabotypes_Individual_Metabolic_Phenotypes_[Z-001-0910]]] — T1D beta-cell mechanisms
 
 ---
 

@@ -56,8 +56,8 @@ tags: [ref, pharmacometabol
 ## 🔗 Connected to Our Work
 
 ### Methods
-- [[Personalized_Vitamin_D_vs_Population_Guidelines_Z-001-0074]] — Personalized medicine approach
-- [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]] — Pharmacometabolomics methods
+- [[Personalized_Vitamin_D_vs_Population_Guidelines_[Z-001-0074]]] — Personalized medicine approach
+- [[METHAP_Intervention_Protocol_Diet_Supplements_[Z-001-1142]]] — Pharmacometabolomics methods
 
 ---
 

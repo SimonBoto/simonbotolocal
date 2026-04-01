@@ -61,7 +61,7 @@ tags: [ref, s
 ## 🔗 Connected to Our Work
 
 ### Methods
-- [[Metabolomics_Precision_Medicine_Z-001-0909]] — Systems biology approach
+- [[Biomarkers_Precision_Medicine_[Z-001-0909]]] — Systems biology approach
 
 ---
 

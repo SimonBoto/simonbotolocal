@@ -61,7 +61,7 @@ tags: [reference, exp
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Environmental_Toxins_Metabolic_Health_Z-001-0526]] — Exposome assessment
+- [[Exploratory_vs_Confirmatory_Research_Standards_[Z-001-0526]]] — Exposome assessment
 
 ---
 

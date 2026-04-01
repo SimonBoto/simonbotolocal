@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-References/Hub/Tsoukalas_etal_2021_Metabolic_Health_Snapshot_R-001-0025.md",
+                "file": "01-References/Hub/Andersen_etal_2013_Lactate_Etiology_R-001-0028.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -65,7 +65,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tsoukalas_etal_2021_Metabolic_Health_Snapshot_R-001-0025"
+              "title": "Andersen_etal_2013_Lactate_Etiology_R-001-0028"
             }
           },
           {
@@ -260,6 +260,15 @@
   },
   "active": "02ff5a949a4ae388",
   "lastOpenFiles": [
+    "01-References/Hub/Chen_Snyder_2012_Systems_Biology_PM_R-001-0007.md",
+    "10-Daily/2026/2026-04-01.md",
+    "01-References/Hub/Branca_etal_2019_Food_System_NCD_R-001-0011.md",
+    "01-References/Hub/Beebe_etal_2017_Metabolic_Individuality_R-001-0006.md",
+    "01-References/Hub/Andersen_etal_2013_Lactate_Etiology_R-001-0028.md",
+    "01-References/Hub/Marchand_etal_2018_Biomarker_Framework_R-001-0009.md",
+    "01-References/Hub/Sarigiannis_etal_2021_Exposome_R-001-0021.md",
+    "01-References/Hub/Tsilimidos_etal_2019_Fatty_Acids_Metabolomics_R-001-0036.md",
+    "01-References/Hub/Tsoukalas_etal_2021_Metabolic_Health_Snapshot_R-001-0025.md",
     "01-References/Hub/Tsoukalas_etal_2021_Metabolomics_Clinical_R-001-0023.md",
     "01-References/Hub/Tsoukalas_etal_2021_NCDs_Precision_R-001-0022.md",
     "01-References/Hub/Tsoukalas_Sarandi_2020_Micronutrient_COVID_R-001-0026.md",
@@ -270,9 +279,6 @@
     "01-References/Hub/Wu_etal_2019_Nutrition_Immunity_R-001-0027.md",
     "01-References/Hub/Clayton_etal_2006_Pharmaco_Metabonomics_R-001-0002.md",
     "01-References/Hub/Calder_2020_Nutrition_Immunity_COVID_R-001-0014.md",
-    "01-References/Hub/Branca_etal_2019_Food_System_NCD_R-001-0011.md",
-    "01-References/Hub/Beebe_etal_2017_Metabolic_Individuality_R-001-0006.md",
-    "01-References/Hub/Andersen_etal_2013_Lactate_Etiology_R-001-0028.md",
     "06-Structure/MOCs/MOC-References-Active.md",
     "06-Structure/Templates/Template_Reference_v2.0.md",
     "Base File All Notes.base",
@@ -282,12 +288,6 @@
     "03-Zettels/Biomarkers/Albumin_Liver_Synthesis_Nutrition_[Z-009-0006].md",
     "02-Literature/NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004.md",
     "00-Inbox/Processed/Followup_Summary_Template.md",
-    "00-Inbox/Processed/Initial_Summary_Template.md",
-    "00-Inbox/Processed/Medical_History_Renewal_Template.md",
-    "00-Inbox/Processed/Medical_History_Template.md",
-    "04-Synthesis/Clinical_Intake_Framework_[S-001-0004].md",
-    "00-Inbox/Processed/Treatment_Protocol_Template.md",
-    "04-Synthesis/Supplement_Protocol_Framework_[S-001-0003].md",
     "00-Inbox/ChatGPT",
     "00-Inbox/Processed/vitamin_d",
     "00-Inbox/Processed/technology",

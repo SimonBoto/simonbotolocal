@@ -61,8 +61,8 @@ tags: [reference, micronutrients, deficiency, covid-19, metab
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]] — Micronutrient immune support
-- [[Zinc_Immune_Function_Antiviral_Z-001-0228]] — Zinc antiviral effects
+- [[Vitamin_D_High_Dose_Monitoring_Protocol_[Z-001-0091]]] — Micronutrient immune support
+- [[Vitamin_K2_Vascular_Calcification_MGP_[Z-001-0228]]] — Zinc antiviral effects
 
 ---
 
