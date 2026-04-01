@@ -1,7 +1,7 @@
 ---
 uid: Z-001-0918
 type: zettel
-title: Aspartate: Simple Structure, Central Role
+title: "Aspartate: Simple Structure, Central Role"
 aliases: [Z-001-0918, Z-001-0504-deprecated, aspartate, simple, evolution, urea-cycle, krebs]
 domain: 001
 tags: [zettel, aspartate, simple-structure, evolution, urea-cycle, krebs, oxaloacetate]

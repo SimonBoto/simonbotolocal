@@ -5,7 +5,7 @@ title: "What else would be important for you to know?
 
 whats the indicated initial capi..."
 date: 2025-04-29
-source: [[CGPT_0099_IV_Clinic_Proposal_Optimization_[CGPT-0099]]]
+source: "[[CGPT_0099_IV_Clinic_Proposal_Optimization_[CGPT-0099]]]"
 aliases: [X-CLI-250429-00]
 tags: [extracted, insight, clinical, chatgpt-archive]
 related: ['ChatGPT_Clinical_Cognition_[RON-002-0007]']

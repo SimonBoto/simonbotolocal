@@ -9,7 +9,7 @@ Vma high
 5hiaa high 
 Pyroglutam..."
 date: 2024-12-15
-source: [[CGPT_0226_Clinical_Metabolomics_and_Enzymes_[CGPT-0226]]]
+source: "[[CGPT_0226_Clinical_Metabolomics_and_Enzymes_[CGPT-0226]]]"
 aliases: [X-MET-241215-00]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']

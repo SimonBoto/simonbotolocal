@@ -251,4 +251,9 @@ Protein/DNA adducts → Cellular damage
 
 **Related:** [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_[Z-001-0954].md]] | [[4_HNE_Protein_Adducts_Cellular_Damage_[Z-001-0010].md]] | [[Seed_Oil_Refining_Process_RBD_[Z-001-0956].md]]
 
+## RELATED FILES
+- [[Biomarkers/Free_Fatty_Acids_[B-006-0002]|Free Fatty Acids Panel]]
+- [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_[Z-001-0954]|Oxidative Stress Mechanisms]]
+- [[MOC-Inflammation|Inflammation MOC]]
+
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health

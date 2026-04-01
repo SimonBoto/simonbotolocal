@@ -3,7 +3,7 @@ uid: X-MET-230527-01
 type: extracted-hypothesis
 title: "Hypothesis: write an extensive scientific literature overview without introudction..."
 date: 2023-05-27
-source: [[CGPT_0630_PhD_Research_Proposal_Assistance_[CGPT-0630]]]
+source: "[[CGPT_0630_PhD_Research_Proposal_Assistance_[CGPT-0630]]]"
 aliases: [X-MET-230527-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']

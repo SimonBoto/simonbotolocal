@@ -5,7 +5,7 @@ title: "part 9/12
 
 Another resource, the Authors' Submission Toolkit: A practical guide..."
 date: 2023-11-05
-source: [[CGPT_0539_Analytical_Guidelines_for_Submission_[CGPT-0539]]]
+source: "[[CGPT_0539_Analytical_Guidelines_for_Submission_[CGPT-0539]]]"
 aliases: [X-GEN-231105-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []

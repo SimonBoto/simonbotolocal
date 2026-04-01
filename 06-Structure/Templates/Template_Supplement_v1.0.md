@@ -1,20 +1,20 @@
 ---
-uid: {{SUPP-XXX-XXXX}}
-type: supplement
-status: subconscious
-name: {{Product Name}}
-brand: {{Brand}}
-category: {{category}}
-form: {{tablet/capsule/powder/liquid}}
-price_eur: {{XX.XX}}
-units_per_pack: {{XX}}
-price_per_unit: {{X.XX}}
-suggested_daily_units: {{X}}
-price_per_day: {{X.XX}}
-target: {{primary use case}}
-key_ingredients: [{{main actives}}]
-source_url: {{product URL}}
-tags: [{{tags}}]
+uid: "{{SUPP-XXX-XXXX}}"
+type: "supplement"
+status: "subconscious"
+name: "{{Product Name}}"
+brand: "{{Brand}}"
+category: "{{category}}"
+form: "{{tablet/capsule/powder/liquid}}"
+price_eur: "{{XX.XX}}"
+units_per_pack: "{{XX}}"
+price_per_unit: "{{X.XX}}"
+suggested_daily_units: "{{X}}"
+price_per_day: "{{X.XX}}"
+target: "{{primary use case}}"
+key_ingredients: ["{{main actives}}"]
+source_url: "{{product URL}}"
+tags: ["{{tags}}"]
 ---
 
 # {{Product Name}} ({{Brand}})

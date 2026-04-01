@@ -1,7 +1,7 @@
 ---
 uid: Z-001-0492
 type: zettel
-title: Anaplerosis: Replenishing Krebs Cycle Intermediates
+title: "Anaplerosis: Replenishing Krebs Cycle Intermediates"
 aliases: [Z-001-0492, anaplerosis, krebs-cycle, pyruvate-carboxylase, oaa]
 domain: 001
 tags: [zettel, anaplerosis, krebs-cycle, pyruvate-carboxylase, biotin]

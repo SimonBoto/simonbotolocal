@@ -1,18 +1,18 @@
 ---
-uid: {{YYYYMMDD}}{{HHMM}}
-type: lit-note
-title: Lit — {{Paper Title}}
-authors: {{Author Names}}
-year: {{YYYY}}
-journal: {{Journal Name}}
-doi: {{DOI}}
-pmid: {{PMID}}
-pmcid: {{PMCID}}
-tier: {{1|2|3}}  # 1=RCT/Mechanistic, 2=Review/Observational, 3=Opinion/News
-relevance: {{High|Medium|Low}} — {{Why relevant}}
-status: {{stub|processing|extracted|complete}}
-parent-moc: [[06-Structure/MOCs/MOC-{{Domain}}]]
-extraction-date: {{YYYY-MM-DD}}
+uid: "{{YYYYMMDD}}{{HHMM}}"
+type: "lit-note"
+title: "Lit — {{Paper Title}}"
+authors: "{{Author Names}}"
+year: "{{YYYY}}"
+journal: "{{Journal Name}}"
+doi: "{{DOI}}"
+pmid: "{{PMID}}"
+pmcid: "{{PMCID}}"
+tier: "{{1|2|3}}"
+relevance: "{{High|Medium|Low}} — {{Why relevant}}"
+status: "{{stub|processing|extracted|complete}}"
+parent-moc: "[[06-Structure/MOCs/MOC-{{Domain}}]]"
+extraction-date: "{{YYYY-MM-DD}}"
 ---
 
 # Lit: {{Author}} {{Year}} — {{Short Title}}

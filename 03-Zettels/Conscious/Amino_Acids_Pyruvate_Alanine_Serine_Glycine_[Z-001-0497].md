@@ -1,7 +1,7 @@
 ---
 uid: Z-001-0497
 type: zettel
-title: Amino Acids to Pyruvate: Alanine and Serine-Glycine
+title: "Amino Acids to Pyruvate: Alanine and Serine-Glycine"
 aliases: [Z-001-0497, pyruvate, alanine, serine, glycine, folate, b6]
 domain: 001
 tags: [zettel, pyruvate, alanine, serine, glycine, folate, glucose-alanine-cycle]

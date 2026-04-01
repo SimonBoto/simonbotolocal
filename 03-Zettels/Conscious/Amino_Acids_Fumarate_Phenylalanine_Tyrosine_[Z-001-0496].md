@@ -1,7 +1,7 @@
 ---
 uid: Z-001-0496
 type: zettel
-title: Amino Acids to Fumarate: Phenylalanine and Tyrosine
+title: "Amino Acids to Fumarate: Phenylalanine and Tyrosine"
 aliases: [Z-001-0496, fumarate, phenylalanine, tyrosine, pku, folate, iron]
 domain: 001
 tags: [zettel, fumarate, phenylalanine, tyrosine, pku, phenylalanine-hydroxylase]

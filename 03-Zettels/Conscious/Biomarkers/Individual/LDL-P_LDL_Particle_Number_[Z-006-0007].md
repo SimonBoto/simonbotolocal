@@ -42,6 +42,8 @@ source-litnote: Synthesized from clinical practice
 | **Risk prediction** | Good | Superior |
 | **Discordance** | Common with metabolic syndrome |
 
+**Related biomarkers:** [[LDL_Cholesterol_Low-Density_Lipoprotein_[Z-006-0001]|LDL-C]] measures cholesterol mass, while LDL-P counts actual particles — when they disagree, LDL-P predicts risk more accurately. Both are carried by [[ApoB_Apolipoprotein_B_Atherogenic_Particles_[Z-006-0005]|ApoB]] particles.
+
 **Particle sizes:**
 | Type | Size | Risk |
 |------|------|------|

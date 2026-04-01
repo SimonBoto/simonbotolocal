@@ -6,7 +6,7 @@ date: 2025-04-21
 source: ChatGPT conversation history
 aliases: [RON-004-0007, master-throne, architecture-design, autonomy-framework]
 tags: [ron, genesis, architecture, autonomy, master-throne, 2025]
-parent-moc: [[RON_Genesis_MOC_[RON-004-0001]\|RON Genesis MOC]]
+parent-moc: "[[RON_Genesis_MOC_[RON-004-0001]\|RON Genesis MOC]]"
 status: conscious
 ---
 

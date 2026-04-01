@@ -3,7 +3,7 @@ uid: X-MET-250512-01
 type: extracted-hypothesis
 title: "Hypothesis: {'content_type': 'audio_transcription', 'text': "So tomorrow we are ha..."
 date: 2025-05-12
-source: [[CGPT_0092_PrimaVita_[CGPT-0092]]]
+source: "[[CGPT_0092_PrimaVita_[CGPT-0092]]]"
 aliases: [X-MET-250512-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']

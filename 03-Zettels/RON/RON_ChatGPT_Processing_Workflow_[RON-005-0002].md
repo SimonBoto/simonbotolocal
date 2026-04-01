@@ -6,7 +6,7 @@ date: 2026-02-28
 source: RON process design
 aliases: [RON-005-0002, processing-workflow, chatgpt-usage]
 tags: [ron, process, workflow, chatgpt, extraction, usage]
-parent-moc: [[RON_Genesis_MOC_[RON-004-0001]]]
+parent-moc: "[[RON_Genesis_MOC_[RON-004-0001]]]"
 status: active
 ---
 

@@ -3,7 +3,7 @@ uid: X-CLI-240405-00
 type: extracted-insight
 title: "So you don't need to even have a doctor there to oversee the whole process as I ..."
 date: 2024-04-05
-source: [[CGPT_0421_IV_Treatment_Center_Proposal_[CGPT-0421]]]
+source: "[[CGPT_0421_IV_Treatment_Center_Proposal_[CGPT-0421]]]"
 aliases: [X-CLI-240405-00]
 tags: [extracted, insight, clinical, chatgpt-archive]
 related: ['ChatGPT_Clinical_Cognition_[RON-002-0007]']

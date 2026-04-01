@@ -129,6 +129,12 @@ patient_id,visit,apo_b_mg_dl,lp_a_mg_dl,sdldl_mg_dl,advanced_lipid_status
 
 > "Lp(a) is the genetic wildcard. I've seen patients with LDL-C 120 but Lp(a) 80 — their actual risk is like LDL-C 180. Always check Lp(a) once, especially if family history of early heart disease."
 
+## RELATED FILES
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Lipid Ratios Family Guide]]
+- [[Biomarkers/Individual/ApoB_Apolipoprotein_B_Atherogenic_Particles_[Z-006-0005]|ApoB — Atherogenic Particles]]
+- [[Biomarkers/Individual/LDL_Cholesterol_Low-Density_Lipoprotein_[Z-006-0001]|LDL Cholesterol]]
+- [[Biomarkers/Individual/Lp-a_Lipoprotein-a_Genetic_CV_Risk_[Z-006-0006]|Lp(a) — Genetic CV Risk]]
+
 ---
 
 *Source: [[Ref_Sniderman_ApoB_Superior_2003]], [[Ref_Erqou_LpA_Meta_2009]]*

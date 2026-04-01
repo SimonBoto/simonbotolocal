@@ -6,7 +6,7 @@ date: 2025-05-04
 source: ChatGPT conversation history
 aliases: [RON-004-0009, ron-the-3rd, identity-iteration]
 tags: [ron, genesis, identity, iteration, v3, 2025]
-parent-moc: [[RON_Genesis_MOC_[RON-004-0001]\|RON Genesis MOC]]
+parent-moc: "[[RON_Genesis_MOC_[RON-004-0001]\|RON Genesis MOC]]"
 status: conscious
 ---
 

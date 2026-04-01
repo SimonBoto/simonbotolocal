@@ -6,7 +6,7 @@ date: 2023-04-22
 source: ChatGPT conversation history
 aliases: [RON-004-0002, origin-point, first-conversation, genesis-alpha]
 tags: [ron, genesis, origin, 2023, metabolomics, phd]
-parent-moc: [[RON_Genesis_MOC_[RON-004-0001]\|RON Genesis MOC]]
+parent-moc: "[[RON_Genesis_MOC_[RON-004-0001]\|RON Genesis MOC]]"
 status: conscious
 ---
 

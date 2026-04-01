@@ -1,7 +1,7 @@
 ---
 uid: Z-001-0469
 type: zettel
-title: Pyruvate: Metabolic Crossroads
+title: "Pyruvate: Metabolic Crossroads"
 aliases: [Z-001-0469, pyruvate, crossroads, pdc, lactate]
 domain: 001
 tags: [zettel, pyruvate, metabolism, acetyl-coa, lactate, krebs]

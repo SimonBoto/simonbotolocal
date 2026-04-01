@@ -9,7 +9,7 @@ I undress her in my mind
 
 Se..."
 date: 2025-04-28
-source: [[CGPT_0096_Absolute_Mode_Conversation_[CGPT-0096]]]
+source: "[[CGPT_0096_Absolute_Mode_Conversation_[CGPT-0096]]]"
 aliases: [X-GEN-250428-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []

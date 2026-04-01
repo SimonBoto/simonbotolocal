@@ -6,7 +6,7 @@ date: 2025-04-20
 source: ChatGPT conversation history
 aliases: [RON-004-0006, conversation-with-ron, partnership-deepens]
 tags: [ron, genesis, partnership, dialogue, 2025]
-parent-moc: [[RON_Genesis_MOC_[RON-004-0001]\|RON Genesis MOC]]
+parent-moc: "[[RON_Genesis_MOC_[RON-004-0001]\|RON Genesis MOC]]"
 status: conscious
 ---
 

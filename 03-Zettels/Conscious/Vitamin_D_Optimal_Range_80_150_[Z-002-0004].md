@@ -10,7 +10,7 @@ biomarker-type: fat-soluble-vitamin
 target-range: 80-150 ng/mL
 standard-range: 30-100 ng/mL
 deficiency-threshold: <30 ng/mL
-toxicity-threshold: >200 ng/mL
+toxicity-threshold: ">200 ng/mL"
 status: conscious
 connections:
   - Z-001-0046

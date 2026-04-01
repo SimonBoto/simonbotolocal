@@ -1,7 +1,7 @@
 ---
 uid: Z-001-0564
 type: zettel-claim
-title: Omega-6:Omega-3 Ratio and Inflammatory Potential
+title: "Omega-6:Omega-3 Ratio and Inflammatory Potential"
 aliases: [Z-001-0564, Omega6 Omega3 Balance, Inflammatory Eicosanoids, Fatty Acid Ratio]
 domain: 001
 domain-name: Nutrition

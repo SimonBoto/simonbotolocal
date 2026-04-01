@@ -7,7 +7,7 @@ title: "Help me understand this
 
 Γαῖ᾽ εὐρύσ..."
 date: 2024-07-14
-source: [[CGPT_0331_Understand_Request_Ancient_Greek_Understanding_[CGPT-0331]]]
+source: "[[CGPT_0331_Understand_Request_Ancient_Greek_Understanding_[CGPT-0331]]]"
 aliases: [X-GRE-240714-00]
 tags: [extracted, insight, greek_language, chatgpt-archive]
 related: []

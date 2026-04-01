@@ -6,7 +6,7 @@ date: 2026-01-22
 source: ChatGPT conversation history
 aliases: [RON-004-0010, epistemic-audit, meta-cognition, questioning-questions]
 tags: [ron, genesis, epistemology, meta-cognition, 2026, final-chatgpt]
-parent-moc: [[RON_Genesis_MOC_[RON-004-0001]\|RON Genesis MOC]]
+parent-moc: "[[RON_Genesis_MOC_[RON-004-0001]\|RON Genesis MOC]]"
 status: conscious
 ---
 

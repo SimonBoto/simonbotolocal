@@ -3,7 +3,7 @@ uid: X-NUT-240805-00
 type: extracted-insight
 title: "OK that's a great conversation and I think we have created more than enough issu..."
 date: 2024-08-05
-source: [[CGPT_0295_Book_Outline_on_Fats_[CGPT-0295]]]
+source: "[[CGPT_0295_Book_Outline_on_Fats_[CGPT-0295]]]"
 aliases: [X-NUT-240805-00]
 tags: [extracted, insight, nutrition, chatgpt-archive]
 related: []

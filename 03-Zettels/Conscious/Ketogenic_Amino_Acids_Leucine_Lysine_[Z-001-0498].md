@@ -1,7 +1,7 @@
 ---
 uid: Z-001-0498
 type: zettel
-title: Ketogenic Amino Acids: Leucine and Lysine
+title: "Ketogenic Amino Acids: Leucine and Lysine"
 aliases: [Z-001-0498, ketogenic, leucine, lysine, hmg-coa, acetyl-coa]
 domain: 001
 tags: [zettel, ketogenic, leucine, lysine, hmg-coa, pure-ketogenic]

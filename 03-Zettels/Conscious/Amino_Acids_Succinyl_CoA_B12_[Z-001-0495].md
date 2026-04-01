@@ -1,7 +1,7 @@
 ---
 uid: Z-001-0495
 type: zettel
-title: Amino Acids to Succinyl-CoA: B12 Criticality
+title: "Amino Acids to Succinyl-CoA: B12 Criticality"
 aliases: [Z-001-0495, succinyl-coa, b12, bcaas, methylmalonyl-coa]
 domain: 001
 tags: [zettel, succinyl-coa, b12, isoleucine, valine, methionine, threonine]

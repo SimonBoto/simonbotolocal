@@ -3,7 +3,7 @@ uid: X-PHD-240629-00
 type: extracted-insight
 title: "Is there a study that concludes that the NMT is 200 and the number needed to har..."
 date: 2024-06-29
-source: [[CGPT_0337_Cholesterol_Study_Reassessment_Overview_[CGPT-0337]]]
+source: "[[CGPT_0337_Cholesterol_Study_Reassessment_Overview_[CGPT-0337]]]"
 aliases: [X-PHD-240629-00]
 tags: [extracted, insight, phd_research, chatgpt-archive]
 related: ['ChatGPT_Building_Master_Throne_[RON-004-0007]', 'RON_Genesis_MOC_[RON-004-0001]']

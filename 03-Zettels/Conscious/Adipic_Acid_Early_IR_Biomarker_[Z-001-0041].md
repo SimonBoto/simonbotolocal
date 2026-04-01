@@ -49,6 +49,12 @@ Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impai
 
 **Emerges from:** Biomarkers Taxonomy synthesis document
 
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family Guide]]
+- [[Biomarkers/Individual/Glucose_Blood_Sugar_Energy_[Z-005-0001]|Glucose — Blood Sugar]]
+- [[Biomarkers/Individual/Insulin_Pancreatic_Beta-Cell_Response_[Z-005-0002]|Insulin — Pancreatic Response]]
+- [[MOC-Early-Detection|Early Detection MOC]]
+
 ---
 
 *UID: Z-001-0041 | Domain: 001 | Created: 2026-02-24*

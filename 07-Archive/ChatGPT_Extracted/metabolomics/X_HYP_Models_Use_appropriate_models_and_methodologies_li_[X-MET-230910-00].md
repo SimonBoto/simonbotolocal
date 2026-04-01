@@ -3,7 +3,7 @@ uid: X-MET-230910-00
 type: extracted-hypothesis
 title: "Hypothesis: Models: Use appropriate models and methodologies like multivariate ana..."
 date: 2023-09-10
-source: [[CGPT_0573_PhD_in_Insulin_Resistance_[CGPT-0573]]]
+source: "[[CGPT_0573_PhD_in_Insulin_Resistance_[CGPT-0573]]]"
 aliases: [X-MET-230910-00]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']

@@ -7,7 +7,7 @@ title: "Hypothesis: What if we go back to
 2 tbspoon coconut sugar 
 4 tb..."
 date: 2025-10-28
-source: [[CGPT_0040_Coconut_custard_recipe_[CGPT-0040]]]
+source: "[[CGPT_0040_Coconut_custard_recipe_[CGPT-0040]]]"
 aliases: [X-GEN-251028-00]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []

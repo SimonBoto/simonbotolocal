@@ -1,7 +1,7 @@
 ---
 uid: Z-001-0915
 type: zettel
-title: Glutamate: The Central Amino Acid Hub
+title: "Glutamate: The Central Amino Acid Hub"
 aliases: [Z-001-0915, Z-001-0501-deprecated, glutamate, hub, central, amino-acid-metabolism]
 domain: 001
 tags: [zettel, glutamate, hub, transamination, alpha-ketoglutarate, gdh]

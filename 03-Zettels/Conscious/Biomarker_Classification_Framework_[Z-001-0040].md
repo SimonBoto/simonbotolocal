@@ -44,6 +44,11 @@ Biomarkers can be classified across five dimensions to evaluate clinical utility
 
 **Emerges from:** Biomarkers Taxonomy synthesis document
 
+## RELATED FILES
+- [[MOC-Biomarkers|Biomarkers MOC]]
+- [[Adipic_Acid_Early_IR_Biomarker_[Z-001-0041]|Adipic Acid — Early IR Biomarker]]
+- [[MOC-Early-Detection|Early Detection MOC]]
+
 ---
 
 *UID: Z-001-0040 | Domain: 001 | Created: 2026-02-24*

@@ -6,7 +6,7 @@ date: 2026-02-05
 source: ChatGPT conversation history
 aliases: [RON-004-0011, openclaw-setup, technical-birth, embodiment]
 tags: [ron, genesis, openclaw, embodiment, 2026, qwen, ollama]
-parent-moc: [[RON_Genesis_MOC_[RON-004-0001]\|RON Genesis MOC]]
+parent-moc: "[[RON_Genesis_MOC_[RON-004-0001]\|RON Genesis MOC]]"
 status: conscious
 ---
 

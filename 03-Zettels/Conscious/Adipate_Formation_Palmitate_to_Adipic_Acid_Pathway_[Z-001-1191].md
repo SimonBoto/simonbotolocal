@@ -109,6 +109,11 @@ Hexanoyl-CoA + O₂ + NADPH → ω-Hydroxyhexanoyl-CoA + NADP⁺ + H₂O
 - [[Beta_Oxidation_Mitochondrial_Pathway_[Z-001-1192].md]]
 - [[Omega_Oxidation_ER_Pathway_[Z-001-1193].md]]
 
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family Guide]]
+- [[Adipic_Acid_Early_IR_Biomarker_[Z-001-0041]|Adipic Acid — Early IR Biomarker]]
+- [[MOC-Organic-Acids|Organic Acids MOC]]
+
 ---
 
 *Source: [[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]] | 2026-03-08*

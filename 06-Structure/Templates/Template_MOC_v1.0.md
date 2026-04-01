@@ -1,13 +1,13 @@
 ---
-uid: {{YYYYMMDDHHMMSS}}
-type: moc
-title: MOC — {{Topic Name}}
-aliases: [MOC_{{ShortName}}, {{ShortName}}_MOC]
-tags: [moc, {{topic-tag}}, {{status-tag}}]
-parent-moc: [[MOC-INDEX]]
-status: active
-created: {{YYYY-MM-DD}}
-last-updated: {{YYYY-MM-DD}}
+uid: "{{YYYYMMDDHHMMSS}}"
+type: "moc"
+title: "MOC — {{Topic Name}}"
+aliases: ["MOC_{{ShortName}}", "{{ShortName}}_MOC"]
+tags: ["moc", "{{topic-tag}}", "{{status-tag}}"]
+parent-moc: "[[MOC-INDEX]]"
+status: "active"
+created: "{{YYYY-MM-DD}}"
+last-updated: "{{YYYY-MM-DD}}"
 ---
 
 # MOC: {{Topic Name}}

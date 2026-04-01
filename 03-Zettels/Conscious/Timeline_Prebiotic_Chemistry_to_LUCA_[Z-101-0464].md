@@ -1,7 +1,7 @@
 ---
 uid: Z-101-0464
 type: zettel
-title: Timeline: Prebiotic Chemistry to LUCA
+title: "Timeline: Prebiotic Chemistry to LUCA"
 aliases: [Z-101-0464, prebiotic-timeline, luca-timeline, evolution-timeline]
 domain: 101
 tags: [zettel, timeline, evolution, prebiotic, luca, origin-of-life]

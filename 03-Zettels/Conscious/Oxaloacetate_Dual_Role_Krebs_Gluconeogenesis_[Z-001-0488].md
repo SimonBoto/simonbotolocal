@@ -1,7 +1,7 @@
 ---
 uid: Z-001-0488
 type: zettel
-title: Oxaloacetate Dual Role: Krebs Cycle and Gluconeogenesis
+title: "Oxaloacetate Dual Role: Krebs Cycle and Gluconeogenesis"
 aliases: [Z-001-0488, oxaloacetate, krebs-cycle, gluconeogenesis, oaa]
 domain: 001
 tags: [zettel, oxaloacetate, krebs-cycle, gluconeogenesis, oaa]

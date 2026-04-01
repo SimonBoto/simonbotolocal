@@ -1,7 +1,7 @@
 ---
 uid: Z-101-0463
 type: zettel
-title: Formamide Chemistry: Alternative Prebiotic Pathway
+title: "Formamide Chemistry: Alternative Prebiotic Pathway"
 aliases: [Z-101-0463, formamide-chemistry, alternative-prebiotic]
 domain: 101
 tags: [zettel, formamide, prebiotic-chemistry, nucleobase-synthesis, alternative-pathway]

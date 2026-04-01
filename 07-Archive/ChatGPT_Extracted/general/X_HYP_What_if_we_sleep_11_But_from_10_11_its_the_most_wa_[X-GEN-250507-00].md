@@ -3,7 +3,7 @@ uid: X-GEN-250507-00
 type: extracted-hypothesis
 title: "Hypothesis: What if we sleep 11? But from 10-11 it's the most wasted time of the d..."
 date: 2025-05-07
-source: [[CGPT_0097_10_5_Sleep_Optimality_[CGPT-0097]]]
+source: "[[CGPT_0097_10_5_Sleep_Optimality_[CGPT-0097]]]"
 aliases: [X-GEN-250507-00]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []

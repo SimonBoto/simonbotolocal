@@ -1,7 +1,7 @@
 ---
 uid: B-006-0001
 type: biomarker
-title: Lipid Profile - Ratio-Focused Clinical Guide (LDL:ApoB, TG:HDL, Total:HDL)
+title: "Lipid Profile - Ratio-Focused Clinical Guide (LDL:ApoB, TG:HDL, Total:HDL)"
 aliases: [B-006-0001, Lipid-Ratios, TG-HDL-Ratio, LDL-ApoB, Lipid-Panel]
 domain: 006
 tags: [biomarker, lipids, ratios, cardiovascular, insulin-resistance, metabolic, apob]

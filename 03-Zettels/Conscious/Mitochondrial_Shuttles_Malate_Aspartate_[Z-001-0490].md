@@ -1,7 +1,7 @@
 ---
 uid: Z-001-0490
 type: zettel
-title: Mitochondrial Shuttles: Malate and Aspartate
+title: "Mitochondrial Shuttles: Malate and Aspartate"
 aliases: [Z-001-0490, malate-shuttle, aspartate-shuttle, oaa-transport]
 domain: 001
 tags: [zettel, malate-shuttle, aspartate-shuttle, mitochondria, oaa, transport]

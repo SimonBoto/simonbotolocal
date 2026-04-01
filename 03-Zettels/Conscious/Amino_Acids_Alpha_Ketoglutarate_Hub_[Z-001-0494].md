@@ -1,7 +1,7 @@
 ---
 uid: Z-001-0494
 type: zettel
-title: Amino Acids to α-Ketoglutarate: The Glutamate Hub
+title: "Amino Acids to α-Ketoglutarate: The Glutamate Hub"
 aliases: [Z-001-0494, alpha-ketoglutarate, glutamate, b6, hub]
 domain: 001
 tags: [zettel, alpha-ketoglutarate, glutamate, arginine, proline, histidine, b6]

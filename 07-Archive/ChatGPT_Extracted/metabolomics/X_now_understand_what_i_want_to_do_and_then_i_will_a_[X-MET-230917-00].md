@@ -3,7 +3,7 @@ uid: X-MET-230917-00
 type: extracted-insight
 title: "now understand what i want to do and  then i will ask you to rewrite this sectio..."
 date: 2023-09-17
-source: [[CGPT_0558_PhD_Proposal_Insulin_Resistance_[CGPT-0558]]]
+source: "[[CGPT_0558_PhD_Proposal_Insulin_Resistance_[CGPT-0558]]]"
 aliases: [X-MET-230917-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']

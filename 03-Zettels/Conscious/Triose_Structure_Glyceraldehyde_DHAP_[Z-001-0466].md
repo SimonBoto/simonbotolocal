@@ -1,7 +1,7 @@
 ---
 uid: Z-001-0466
 type: zettel
-title: Triose Structure: Glyceraldehyde and Dihydroxyacetone
+title: "Triose Structure: Glyceraldehyde and Dihydroxyacetone"
 aliases: [Z-001-0466, triose-structure, g3p, dhap, glyceraldehyde]
 domain: 001
 tags: [zettel, trioses, glyceraldehyde, dhap, isomers, glycolysis]

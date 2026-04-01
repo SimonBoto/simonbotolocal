@@ -4,7 +4,7 @@ type: extracted-insight
 title: "So we have a difference here right? 
 GSH is more important reduced, while the re..."
 date: 2024-09-14
-source: [[CGPT_0289_Redox_Reactions_Overview_[CGPT-0289]]]
+source: "[[CGPT_0289_Redox_Reactions_Overview_[CGPT-0289]]]"
 aliases: [X-MET-240914-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']

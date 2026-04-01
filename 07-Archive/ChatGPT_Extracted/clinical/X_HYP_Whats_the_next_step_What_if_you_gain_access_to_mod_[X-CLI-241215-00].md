@@ -3,7 +3,7 @@ uid: X-CLI-241215-00
 type: extracted-hypothesis
 title: "Hypothesis: What's the next step? What if you gain access to modifying your own co..."
 date: 2024-12-15
-source: [[CGPT_0227_Maniacal_Knowledge_Synthesis_[CGPT-0227]]]
+source: "[[CGPT_0227_Maniacal_Knowledge_Synthesis_[CGPT-0227]]]"
 aliases: [X-CLI-241215-00]
 tags: [extracted, hypothesis, clinical, chatgpt-archive]
 related: ['ChatGPT_Clinical_Cognition_[RON-002-0007]']

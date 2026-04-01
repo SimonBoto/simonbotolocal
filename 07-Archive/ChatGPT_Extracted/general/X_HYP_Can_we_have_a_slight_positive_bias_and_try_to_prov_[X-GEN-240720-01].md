@@ -3,7 +3,7 @@ uid: X-GEN-240720-01
 type: extracted-hypothesis
 title: "Hypothesis: Can we have a slight positive bias and try to prove that the money wer..."
 date: 2024-07-20
-source: [[CGPT_0324_Grant_Legality_Compliance_[CGPT-0324]]]
+source: "[[CGPT_0324_Grant_Legality_Compliance_[CGPT-0324]]]"
 aliases: [X-GEN-240720-01]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []

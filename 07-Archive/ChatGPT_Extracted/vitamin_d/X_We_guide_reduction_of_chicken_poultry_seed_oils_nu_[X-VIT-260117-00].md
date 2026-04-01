@@ -3,7 +3,7 @@ uid: X-VIT-260117-00
 type: extracted-insight
 title: "We guide reduction of chicken poultry seed oils nuts and supplements 1-3G of fis..."
 date: 2026-01-17
-source: [[CGPT_0009_AI_Question_Optimization_Coach_[CGPT-0009]]]
+source: "[[CGPT_0009_AI_Question_Optimization_Coach_[CGPT-0009]]]"
 aliases: [X-VIT-260117-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
 related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]']

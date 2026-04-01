@@ -3,7 +3,7 @@ uid: X-VIT-260117-01
 type: extracted-hypothesis
 title: "Hypothesis: what if we skip obsidian? what is my suggestion? any actual alternativ..."
 date: 2026-01-17
-source: [[CGPT_0009_AI_Question_Optimization_Coach_[CGPT-0009]]]
+source: "[[CGPT_0009_AI_Question_Optimization_Coach_[CGPT-0009]]]"
 aliases: [X-VIT-260117-01]
 tags: [extracted, hypothesis, vitamin_d, chatgpt-archive]
 related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]']

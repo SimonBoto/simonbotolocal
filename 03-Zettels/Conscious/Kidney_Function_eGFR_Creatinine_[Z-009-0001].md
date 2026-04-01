@@ -7,7 +7,7 @@ domain: 009
 tags: [zettel, biomarker, kidney, status/optimal, clinical-protocol]
 parent-moc: [[MOC-Kidney-Metabolism]]
 biomarker-type: kidney-function-panel
-egfr-target: >90 mL/min/1.73m²
+egfr-target: ">90 mL/min/1.73m²"
 creatinine-male: 0.7-1.3 mg/dL
 creatinine-female: 0.6-1.1 mg/dL
 status: conscious

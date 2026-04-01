@@ -1,7 +1,7 @@
 ---
 uid: Z-101-0462
 type: zettel
-title: Amino Acids vs Nucleobases: Molecular Building Blocks
+title: "Amino Acids vs Nucleobases: Molecular Building Blocks"
 aliases: [Z-101-0462, amino-acids-vs-nucleobases, molecular-building-blocks]
 domain: 101
 tags: [zettel, amino-acids, nucleobases, comparison, evolution, structure]

@@ -6,7 +6,7 @@ date: 2023-09-10
 source: ChatGPT conversation history
 aliases: [RON-004-0003, phd-foundation, insulin-resistance-origin]
 tags: [ron, genesis, phd, insulin-resistance, 2023, methodology]
-parent-moc: [[RON_Genesis_MOC_[RON-004-0001]\|RON Genesis MOC]]
+parent-moc: "[[RON_Genesis_MOC_[RON-004-0001]\|RON Genesis MOC]]"
 status: conscious
 ---
 
