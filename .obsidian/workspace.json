@@ -236,6 +236,9 @@
   },
   "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "06-Structure/zettel-forge.js",
+    "06-Structure/seed-registry.js",
+    "EMERGENCY-Recovery.md",
     "06-Structure/CHECKLIST-PreFlight.md",
     "06-Structure/Protocols/CHECKLIST-Extraction.md",
     "09-System/zettel-forge.js",
@@ -266,12 +269,9 @@
     "07-Archive/09-System-LEGACY-2026-04-01/Critical_Files_Inventory.md",
     "07-Archive/09-System-LEGACY-2026-04-01/Command_Reference.md",
     "07-Archive/09-System-LEGACY-2026-04-01/99-GLOSSARY.md",
-    "07-Archive/09-System-LEGACY-2026-04-01",
     "01-References/Hub/Andersen_etal_2013_Lactate_Etiology_R-001-0028.md",
     "01-References/Hub/Chen_Snyder_2012_Systems_Biology_PM_R-001-0007.md",
     "10-Daily/2026/2026-04-01.md",
-    "01-References/Hub/Branca_etal_2019_Food_System_NCD_R-001-0011.md",
-    "01-References/Hub/Beebe_etal_2017_Metabolic_Individuality_R-001-0006.md",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
