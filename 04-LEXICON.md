@@ -167,11 +167,39 @@ Terms that signal something went wrong.
 
 ---
 
+## 🆕 New Terms (v1.1)
+
+### L4 Autonomy
+| Term | Definition | Context |
+|------|------------|---------|
+| **L4** | Absolute Willpower — full initiative with reporting | AUTONOMY.md v2.1 |
+| **Git checkpoint** | Required commit before L4 actions | Safety protocol |
+| **L3** | Proposed changes — 24h objection window | Before implementing |
+
+### Synthesis System
+| Term | Definition | Context |
+|------|------------|---------|
+| **Permanent Questions** | Persistent research questions | `PERMANENT_QUESTIONS.md` |
+| **Synthesis Trigger** | Critical mass → synthesis opportunity | `SYNTHESIS_TRIGGERS.md` |
+| **Critical mass** | 6+ zettels or 3+ LitNotes on topic | Threshold for synthesis |
+
+### Rituals
+| Term | Definition | Context |
+|------|------------|---------|
+| **Morning Brief** | 07:30 daily ritual | HEARTBEAT.md v3.1 |
+| **Evening Closure** | 22:30 daily ritual | HEARTBEAT.md v3.1 |
+
+---
+
 ## 🔗 Cross-References
 
 - **Extraction Protocol:** `06-Structure/Protocols/EXTRACTION_PROTOCOL_v1.1.md`
 - **SOUL.md:** Core identity, Self-Awareness Loops
 - **AGENTS.md:** Session startup, State of RON
+- **AUTONOMY.md:** L4 Absolute Willpower, git checkpoints
+- **HEARTBEAT.md:** Morning brief, evening closure rituals
+- **PERMANENT_QUESTIONS.md:** Active research agenda
+- **SYNTHESIS_TRIGGERS.md:** Critical mass detection
 - **Memory Review:** `08-Dashboards/03-MEMORY_REVIEW.md`
 
 ---
@@ -181,6 +209,7 @@ Terms that signal something went wrong.
 | Date | Version | Changes |
 |------|---------|---------|
 | 2026-02-24 | v1.0 | Initial lexicon — codified loaded terms from v4.1 migration |
+| 2026-04-01 | v1.1 | Added L4 autonomy terms, synthesis system, rituals; updated cross-references to new core files |
 
 ---
 

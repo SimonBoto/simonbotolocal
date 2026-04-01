@@ -11,22 +11,9 @@
             "id": "f010d4b0e2682ff5",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Base File All Notes.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Base File All Notes"
-            }
-          },
-          {
-            "id": "0cc9dc776b90aadd",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Zettels/Conscious/Acetyl_CoA_Central_Metabolic_Connector_[Z-001-1112].md",
+                "file": "06-Structure/Keywords/KEYWORD-Amino_Acids.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -41,24 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Acetyl_CoA_Central_Metabolic_Connector_[Z-001-1112]"
-            }
-          },
-          {
-            "id": "863732e7c0fcb9fd",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Base File All Notes.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Base File All Notes"
+              "title": "KEYWORD-Amino_Acids"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,44 +207,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "f010d4b0e2682ff5",
   "lastOpenFiles": [
+    "06-Structure/Templates/RON/RON_Response_Protocol.md",
+    "07-Archive/08-Dashboards.md",
+    "07-Archive/00-COMMAND.md",
+    "08-Dashboards/TOMORROWS_BATTLE_PLAN.md",
+    "MISSION_CONTROL.md",
+    "04-LEXICON.md",
+    "07-Archive/TOMORROWS_BATTLE_PLAN.md",
+    "08-Dashboards/MISSION_CONTROL.md",
+    "05-Projects/RON/RON-Workflow-System.md",
+    "07-Archive/RON_Tools_Dashboard.md",
+    "08-Dashboards/RON_Review_System.md",
+    "07-Archive/RON_Review_System.md",
+    "07-Archive/RON_Mission_Control_Calendar.md",
+    "08-Dashboards/RON_Mission_Control_Calendar.md",
+    "08-Dashboards/RON_Tools_Dashboard.md",
+    "07-Archive/MORNING_REVIEW.md",
+    "08-Dashboards/MORNING_REVIEW.md",
+    "08-Dashboards/PHASE_TRACKER_2026-03-09.md",
+    "07-Archive/MIDNIGHT_PROTOCOL_AUTHORIZATION.md",
+    "08-Dashboards/MIDNIGHT_PROTOCOL_AUTHORIZATION.md",
+    "06-Structure/Keywords/KEYWORD-Amino_Acids.md",
+    "08-Dashboards/HOUSE.md",
+    "07-Archive/HOUSE.md",
+    "03-Zettels/RON/Thirtyfold_Path_Completion_[RON-SYS-005].md",
+    "07-Archive/03-MEMORY_REVIEW.md",
+    "08-Dashboards/04-LEXICON.md",
+    "Base File All Notes.base",
     "06-Structure/zettel-forge.js",
     "06-Structure/seed-registry.js",
-    "EMERGENCY-Recovery.md",
-    "06-Structure/CHECKLIST-PreFlight.md",
-    "06-Structure/Protocols/CHECKLIST-Extraction.md",
     "09-System/zettel-forge.js",
     "09-System/seed-registry.js",
     "09-System/UID_REGISTRY.json",
-    "09-System/EMERGENCY-Recovery.md",
-    "09-System/CHECKLIST-PreFlight.md",
-    "09-System/CHECKLIST-Extraction.md",
     "09-System",
     "07-Archive/09-System-OPERATIONAL-2026-04-01/zettel-forge.js",
     "07-Archive/09-System-OPERATIONAL-2026-04-01/seed-registry.js",
     "07-Archive/09-System-OPERATIONAL-2026-04-01/UID_REGISTRY.json",
-    "07-Archive/09-System-OPERATIONAL-2026-04-01/EMERGENCY-Recovery.md",
-    "07-Archive/09-System-OPERATIONAL-2026-04-01/CHECKLIST-PreFlight.md",
-    "07-Archive/09-System-OPERATIONAL-2026-04-01/CHECKLIST-Extraction.md",
-    "07-Archive/09-System-OPERATIONAL-2026-04-01",
-    "09-System/09-System.md",
-    "01-References/Other/Theodoridis_etal_2015_Systems_Biology_Greek_Textbook.md",
-    "01-References/Other",
-    "06-Structure/OPTIMAL_LINKING_PLAN.md",
-    "07-Archive/09-System-LEGACY-2026-04-01/ZETTEL_REMEDIATION_LOG.md",
-    "07-Archive/09-System-LEGACY-2026-04-01/ZETTEL_FORGE_README.md",
-    "07-Archive/09-System-LEGACY-2026-04-01/UID_SYSTEM_v2.0.md",
-    "07-Archive/09-System-LEGACY-2026-04-01/SYSTEM_README-SUMMARY.md",
-    "07-Archive/09-System-LEGACY-2026-04-01/SYSTEM_README.md",
-    "07-Archive/09-System-LEGACY-2026-04-01/RON_Operating_Manual_[RON-SYS-003].md",
-    "07-Archive/09-System-LEGACY-2026-04-01/DISASTER_RECOVERY.md",
-    "07-Archive/09-System-LEGACY-2026-04-01/Critical_Files_Inventory.md",
-    "07-Archive/09-System-LEGACY-2026-04-01/Command_Reference.md",
-    "07-Archive/09-System-LEGACY-2026-04-01/99-GLOSSARY.md",
-    "01-References/Hub/Andersen_etal_2013_Lactate_Etiology_R-001-0028.md",
-    "01-References/Hub/Chen_Snyder_2012_Systems_Biology_PM_R-001-0007.md",
-    "10-Daily/2026/2026-04-01.md",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
