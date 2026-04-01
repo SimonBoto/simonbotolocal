@@ -24,10 +24,24 @@
             "id": "0cc9dc776b90aadd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "02-Literature/NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004"
             }
           },
           {
@@ -230,8 +244,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0cc9dc776b90aadd",
+  "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "04-Synthesis/Clinical_Biochemical_Assessment_Framework_[S-001-0002].md",
+    "03-Zettels/Conscious/METHAP_PhD_Data_Export_Structure_[Z-002-0621].md",
+    "02-Literature/NKUA_2024_Basics_Metabolomics_DE1_L-001-0001.md",
+    "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 2. ΤΙ ΕΙΝΑΙ ΟΙ ΜΕΤΑΒΟΛΙΤΕΣ-ΣΤΟΙΧΕΙΩΔΕΙΣ ΓΝΩΣΕΙΣ ΒΙΟΧΗΜΕΙΑΣ.pdf",
+    "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 1. ΕΙΣΑΓΩΓΗ ΣΤΑ OMICS.pdf",
+    "01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 1. ΑΙΤΙΟΠΑΘΟΓΕΝΕΤΙΚΟΙ ΜΗΧΑΝΙΣΜΟΙ ΑΥΤΟΑΝΟΣΩΝ ΚΑΙ ΧΡΟΝΙΩΝ ΝΟΣΗΜΑΤΩΝ .pdf",
+    "00-Inbox/ChatGPT/CGPT_0284_Vitamin_D_Toxicity_Misconception_[CGPT-0284].md",
+    "00-Inbox/ChatGPT/CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_[CGPT-0133].md",
     "07-Archive/ChatGPT_Extracted/00_Extracted_Insights_MOC.md",
     "Base File All Notes.base",
     "06-Structure/Keywords/KEYWORD-Chemistry.md",
@@ -254,20 +276,12 @@
     "06-Structure/Keywords/KEYWORD-Krebs_Cycle.md",
     "06-Structure/Keywords/KEYWORD-Calcium.md",
     "06-Structure/Keywords/KEYWORD-Glycolysis.md",
-    "06-Structure/Keywords/KEYWORD-Cholesterol.md",
-    "06-Structure/Keywords/KEYWORD-Clinical.md",
-    "06-Structure/Keywords/KEYWORD-Diabetes.md",
-    "06-Structure/Keywords/KEYWORD-Biochemistry.md",
-    "06-Structure/Keywords/KEYWORD-Nutrition.md",
     "06-Structure/Keywords",
     "00-Inbox/ChatGPT/vitamin_d",
     "00-Inbox/ChatGPT/technology",
     "00-Inbox/ChatGPT/philosophy",
     "00-Inbox/ChatGPT/phd_research",
     "00-Inbox/ChatGPT/personal_development",
-    "00-Inbox/ChatGPT/nutrition",
-    "00-Inbox/ChatGPT/metabolomics",
-    "00-Inbox/ChatGPT/insulin_resistance",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]

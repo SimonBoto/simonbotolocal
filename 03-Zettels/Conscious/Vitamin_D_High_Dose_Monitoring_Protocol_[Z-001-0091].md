@@ -13,9 +13,30 @@ created: 2026-03-01
 status: conscious
 ---
 
-#  High Dose Monitoring Protocol
+# Vitamin D High Dose Monitoring Protocol
 
-High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hypercalcemia or hypercalciuria. Target 25(OH)D >30 ng/mL (some advocate >40 ng/mL). Check levels after loading, then periodically.
+High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hypercalcemia or hypercalciuria. **Clinical target: 80-150 ng/mL** (optimal metabolic range, not just "sufficient" >30 ng/mL).
+
+---
+
+## 🎯 Target Ranges (Clinical vs Population)
+
+| 25-OH Vitamin D | Status | Action |
+|-----------------|--------|--------|
+| **<20 ng/mL** | 🔴 Severe deficiency | Urgent high-dose protocol |
+| **20-30 ng/mL** | 🟠 Deficiency | High-dose loading |
+| **30-50 ng/mL** | 🟡 Insufficiency | Supplementation increase |
+| **50-80 ng/mL** | 🔵 Suboptimal | Increase to reach target |
+| **80-150 ng/mL** | ✅ **OPTIMAL TARGET** | **Maintain current regimen** |
+| **150-200 ng/mL** | ⚪ High-normal | Monitor, maintain |
+| **>200 ng/mL** | ⚠️ Potential toxicity | Reduce dose, monitor calcium |
+
+**PhD Research Target:** 80-150 ng/mL for metabolic optimization
+**Cofactors Required:** Vitamin K2 (MK-4/MK-7), Magnesium
+
+---
+
+## 📊 Monitoring Protocol
 
 ## Links
 
