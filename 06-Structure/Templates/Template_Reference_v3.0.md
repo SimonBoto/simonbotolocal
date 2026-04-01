@@ -2,6 +2,7 @@
 uid: "{{R-XXX-XXXX}}"
 type: reference
 title: "{{Full Title}}"
+aliases: ["{{R-XXX-XXXX}}", "{{ShortSlug}}"]
 authors: "{{Author1, Author2, et al.}}"
 year: "{{YYYY}}"
 journal: "{{Journal Name}}"
@@ -9,7 +10,13 @@ doi: "{{DOI}}"
 pmid: "{{PMID}}"
 zotero: "zotero://select/items/{{ZOTERO_KEY}}"
 tier: "{{1|2|3}}"
+tier-classification: "{{GOLD|SILVER|BRONZE}}"
+domain: "{{001|101}}"
+tags: ["reference", "{{topic}}"]
+parent-moc: "[[MOC-Research-Methods]]"
 status: "{{pending|extracted|complete}}"
+extraction-date: "{{YYYY-MM-DD}}"
+quality-score: "{{high|medium|low}}"
 ---
 
 # {{Short Title}}
@@ -22,7 +29,7 @@ status: "{{pending|extracted|complete}}"
 
 ## 🎯 Why This Matters
 
-{{2-3 sentences on relevance to your work — METHAP, clinical practice, or PhD}}
+{{2-3 sentences on relevance — METHAP, clinical practice, or PhD}}
 
 ---
 
@@ -40,16 +47,19 @@ status: "{{pending|extracted|complete}}"
 
 ---
 
-## 🔗 Connected to Our Work
+## 🔗 Connections
 
-### Supports
-- [[{{Zettel Title}}]] — {{How it supports}}
+### Extracted Zettels
+- [[{{Zettel_Title}}_[{{Zettel_UID}}]]] — {{Description}}
+
+### Supports Claims
+- [[{{Zettel_Title}}_[{{Zettel_UID}}]]] — {{How it supports}}
 
 ### Methods Source
-- [[{{Zettel Title}}]] — {{Methodology applied}}
+- [[{{Zettel_Title}}_[{{Zettel_UID}}]]] — {{Methodology}}
 
 ### Related References
-- [[{{Reference Title}}]] — {{Connection}}
+- [[{{Reference_Title}}_[{{Reference_UID}}]]] — {{Connection}}
 
 ---
 
@@ -57,11 +67,25 @@ status: "{{pending|extracted|complete}}"
 
 - [ ] Abstract reviewed
 - [ ] Key findings extracted
-- [ ] Zettels created: [[{{Zettel}}]]
+- [ ] Zettels created
+- [ ] Connections verified
 - [ ] Synthesis integrated
 
-**Status:** {{status}} | **Priority:** P{{0|1|2}}
+**Status:** {{status}} | **Priority:** P{{0|1|2}} | **Quality:** {{quality-score}}
 
 ---
 
 *Added: {{YYYY-MM-DD}} | Last reviewed: {{YYYY-MM-DD}}*
+
+---
+
+## Post-Processing Checklist
+
+- [ ] PMID verified via PubMed
+- [ ] DOI resolves correctly
+- [ ] Zotero link functional
+- [ ] Abstract complete
+- [ ] At least 1 zettel connection
+- [ ] Parent MOC assigned
+- [ ] Tier classified (GOLD/SILVER/BRONZE)
+- [ ] Quality score assigned
