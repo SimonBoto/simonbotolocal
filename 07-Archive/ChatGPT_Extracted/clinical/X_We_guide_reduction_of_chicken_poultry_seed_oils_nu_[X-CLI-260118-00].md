@@ -6,7 +6,7 @@ date: 2026-01-18
 source: "[[CGPT_0014_Κλάδος_AI_Question_Optimization_Coach_[CGPT-0014]]]"
 aliases: [X-CLI-260118-00]
 tags: [extracted, insight, clinical, chatgpt-archive]
-related: ['ChatGPT_Clinical_Cognition_[RON-002-0007]']
+related: "['ChatGPT_Clinical_Cognition_[RON-002-0007]']"
 status: conscious
 ---
 

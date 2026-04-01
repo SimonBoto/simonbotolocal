@@ -6,7 +6,7 @@ date: 2025-03-07
 source: "[[CGPT_0131_Medical_Ethics_Assistance_[CGPT-0131]]]"
 aliases: [X-CLI-250307-00]
 tags: [extracted, insight, clinical, chatgpt-archive]
-related: ['ChatGPT_Clinical_Cognition_[RON-002-0007]']
+related: "['ChatGPT_Clinical_Cognition_[RON-002-0007]']"
 status: conscious
 ---
 

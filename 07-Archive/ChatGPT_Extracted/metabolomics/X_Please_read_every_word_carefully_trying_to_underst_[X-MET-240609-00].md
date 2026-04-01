@@ -6,7 +6,7 @@ date: 2024-06-09
 source: "[[CGPT_0358_Metabolomics_Study_Advancement_[CGPT-0358]]]"
 aliases: [X-MET-240609-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
-related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
+related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
 ---
 

@@ -6,7 +6,7 @@ date: 2026-02-28
 source: ChatGPT extracted insights 2023-2026
 aliases: [SYN-003, ai-partnership, ron-genesis-synthesis]
 tags: [synthesis, ai-partnership, ron, consciousness, evolution, the-we]
-related: [RON_Genesis_MOC_[RON-004-0001], RON_The_We_[RON-003-0004], RON_The_Witness_[RON-003-0002]]
+related: "[RON_Genesis_MOC_[RON-004-0001], RON_The_We_[RON-003-0004], RON_The_Witness_[RON-003-0002]]"
 status: conscious
 ---
 

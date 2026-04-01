@@ -10,7 +10,7 @@ biomarker-type: iron-transport-panel
 tibc-range: 250-400 μg/dL
 transferrin-sat-optimal: 20-50%
 transferrin-sat-low: <20%
-transferrin-sat-high: >50%
+transferrin-sat-high: ">50%"
 status: conscious
 connections:
   - Z-003-0001

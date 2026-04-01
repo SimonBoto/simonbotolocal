@@ -6,7 +6,7 @@ date: 2024-05-19
 source: "[[CGPT_0381_Shall_We_Summarize_[CGPT-0381]]]"
 aliases: [X-INS-240519-00]
 tags: [extracted, insight, insulin_resistance, chatgpt-archive]
-related: ['RON_Genesis_MOC_[RON-004-0001]', 'ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]']
+related: "['RON_Genesis_MOC_[RON-004-0001]', 'ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]']"
 status: conscious
 ---
 

@@ -6,7 +6,7 @@ date: 2024-04-05
 source: "[[CGPT_0421_IV_Treatment_Center_Proposal_[CGPT-0421]]]"
 aliases: [X-CLI-240405-00]
 tags: [extracted, insight, clinical, chatgpt-archive]
-related: ['ChatGPT_Clinical_Cognition_[RON-002-0007]']
+related: "['ChatGPT_Clinical_Cognition_[RON-002-0007]']"
 status: conscious
 ---
 

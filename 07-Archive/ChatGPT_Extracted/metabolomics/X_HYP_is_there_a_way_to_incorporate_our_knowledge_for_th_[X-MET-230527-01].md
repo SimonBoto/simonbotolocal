@@ -6,7 +6,7 @@ date: 2023-05-27
 source: "[[CGPT_0632_Insulin_Resistance_Biomarkers_[CGPT-0632]]]"
 aliases: [X-MET-230527-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
-related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
+related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
 ---
 

@@ -6,7 +6,7 @@ date: 2024-05-09
 source: "[[CGPT_0383_IV_Therapy_Marketing_Guide_[CGPT-0383]]]"
 aliases: [X-CLI-240509-00]
 tags: [extracted, hypothesis, clinical, chatgpt-archive]
-related: ['ChatGPT_Clinical_Cognition_[RON-002-0007]']
+related: "['ChatGPT_Clinical_Cognition_[RON-002-0007]']"
 status: conscious
 ---
 

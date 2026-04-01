@@ -6,7 +6,7 @@ date: 2025-08-24
 source: "[[CGPT_0069_Obsidian_restart_guide_[CGPT-0069]]]"
 aliases: [X-VIT-250824-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
-related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]']
+related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
 status: conscious
 ---
 

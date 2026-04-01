@@ -6,7 +6,7 @@ date: 2024-10-09
 source: "[[CGPT_0254_Project_Nutrients_MetS_[CGPT-0254]]]"
 aliases: [X-VIT-241009-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
-related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]']
+related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
 status: conscious
 ---
 

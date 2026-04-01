@@ -8,7 +8,7 @@ date: 2023-09-24
 source: "[[CGPT_0553_Peer_Review_Evaluation_Request_[CGPT-0553]]]"
 aliases: [X-MET-230924-00]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
-related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
+related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
 ---
 

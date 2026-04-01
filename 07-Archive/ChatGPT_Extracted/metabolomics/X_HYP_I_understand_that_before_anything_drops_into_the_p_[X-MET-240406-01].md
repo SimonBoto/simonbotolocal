@@ -6,7 +6,7 @@ date: 2024-04-06
 source: "[[CGPT_0434_Wellness_Center_Vision_[CGPT-0434]]]"
 aliases: [X-MET-240406-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
-related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
+related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
 ---
 

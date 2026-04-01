@@ -6,7 +6,7 @@ date: 2024-08-23
 source: "[[CGPT_0306_Job_Security_Concerns_[CGPT-0306]]]"
 aliases: [X-MET-240823-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
-related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
+related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
 ---
 

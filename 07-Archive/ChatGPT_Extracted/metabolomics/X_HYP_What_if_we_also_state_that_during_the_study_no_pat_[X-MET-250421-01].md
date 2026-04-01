@@ -6,7 +6,7 @@ date: 2025-04-21
 source: "[[CGPT_0098_Building_the_Master_Throne_[CGPT-0098]]]"
 aliases: [X-MET-250421-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
-related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
+related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
 ---
 

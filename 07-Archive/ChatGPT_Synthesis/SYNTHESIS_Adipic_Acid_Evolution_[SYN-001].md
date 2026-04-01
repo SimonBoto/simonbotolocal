@@ -6,7 +6,7 @@ date: 2026-02-28
 source: ChatGPT extracted insights 2023-2026
 aliases: [SYN-001, adipic-synthesis, biomarker-evolution]
 tags: [synthesis, adipic-acid, biomarker, insulin-resistance, metabolomics, evolution]
-related: [RON_Adipic_Acid_Biomarker_[RON-000-0008], RON_Metabolomics_Phenotype_[RON-000-0007]]
+related: "[RON_Adipic_Acid_Biomarker_[RON-000-0008], RON_Metabolomics_Phenotype_[RON-000-0007]]"
 status: conscious
 ---
 

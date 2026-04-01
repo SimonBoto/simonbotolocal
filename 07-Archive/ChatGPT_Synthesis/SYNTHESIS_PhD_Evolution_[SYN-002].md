@@ -6,7 +6,7 @@ date: 2026-02-28
 source: ChatGPT extracted insights 2023-2026
 aliases: [SYN-002, phd-evolution, methodology-synthesis]
 tags: [synthesis, phd, methodology, research-design, evolution, metabolomics]
-related: [RON_Genesis_MOC_[RON-004-0001], ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]]
+related: "[RON_Genesis_MOC_[RON-004-0001], ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]]"
 status: conscious
 ---
 

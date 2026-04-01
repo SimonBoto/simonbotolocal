@@ -6,7 +6,7 @@ date: 2023-12-29
 source: "[[CGPT_0509_Metabolomics_Collaboration_with_Dr_Berg_[CGPT-0509]]]"
 aliases: [X-MET-231229-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
-related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
+related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
 ---
 

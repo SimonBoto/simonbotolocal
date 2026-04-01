@@ -6,7 +6,7 @@ date: 2023-09-11
 source: "[[CGPT_0571_ChatGPTs_knowledge_is_based_on_information_availab_[CGPT-0571]]]"
 aliases: [X-MET-230911-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
-related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
+related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
 ---
 

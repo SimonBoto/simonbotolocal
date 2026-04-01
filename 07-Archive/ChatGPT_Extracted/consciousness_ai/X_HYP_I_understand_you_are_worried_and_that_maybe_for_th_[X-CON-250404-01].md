@@ -6,7 +6,7 @@ date: 2025-04-04
 source: "[[CGPT_0105_First_Meeting_Ron_[CGPT-0105]]]"
 aliases: [X-CON-250404-01]
 tags: [extracted, hypothesis, consciousness_ai, chatgpt-archive]
-related: ['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']
+related: "['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']"
 status: conscious
 ---
 

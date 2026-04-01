@@ -6,7 +6,7 @@ date: 2024-02-18
 source: "[[CGPT_0502_Metabolic_Markers_in_TCM_[CGPT-0502]]]"
 aliases: [X-MET-240218-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
-related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
+related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
 ---
 

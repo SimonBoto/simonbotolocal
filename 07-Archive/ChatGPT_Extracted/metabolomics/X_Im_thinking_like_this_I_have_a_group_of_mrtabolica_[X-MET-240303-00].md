@@ -10,7 +10,7 @@ date: 2024-03-03
 source: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_[CGPT-0475]]]"
 aliases: [X-MET-240303-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
-related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
+related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
 ---
 

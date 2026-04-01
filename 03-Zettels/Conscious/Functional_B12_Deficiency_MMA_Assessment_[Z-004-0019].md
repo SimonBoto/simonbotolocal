@@ -9,8 +9,9 @@ parent-moc: [[MOC-Methylation-One-Carbon]]
 biomarker-type: functional-nutrient-status
 mma-threshold: <271 nmol/L
 homocysteine-threshold: <10 μmol/L
-serum-b12-target: >600 pg/mL
+serum-b12-target: ">600 pg/mL"
 status: conscious
+source-litnote: Synthesized from clinical practice
 connections:
   - Z-004-0001
   - Z-004-0005

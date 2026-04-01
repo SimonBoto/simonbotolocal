@@ -6,7 +6,7 @@ date: 2025-05-07
 source: "[[CGPT_0003_Manager_Control_[CGPT-0003]]]"
 aliases: [X-INS-250507-01]
 tags: [extracted, hypothesis, insulin_resistance, chatgpt-archive]
-related: ['RON_Genesis_MOC_[RON-004-0001]', 'ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]']
+related: "['RON_Genesis_MOC_[RON-004-0001]', 'ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]']"
 status: conscious
 ---
 
