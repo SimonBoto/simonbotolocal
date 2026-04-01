@@ -137,6 +137,24 @@ The METHAP intervention combines targeted dietary modifications with evidence-ba
 *Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
 
 ## RELATED FILES
+- [[Vitamin_K2_Vascular_Calcification_MGP_[Z-001-0228]|Z-001-0228]]
+- [[D_K2_Production_Activation_Partnership_[Z-001-0253]|Z-001-0253]]
+- [[Vascular_Calcification_Prevention_Reversal_[Z-001-0272]|Z-001-0272]]
+- [[Vitamin_K2_Vascular_Calcification_Protection_[Z-001-0094]|Z-001-0094]]
+- [[Calcium_Paradox_D_K2_Resolution_[Z-001-0257]|Z-001-0257]]
+- [[VitD_K2_Insulin_Resistance_[Z-001-1237]|Z-001-1237]]
+- [[Osteocalcin_Metabolic_Hormone_D_K2_[Z-001-0254]|Z-001-0254]]
+- [[D_K2_Shared_Metabolic_Pathways_[Z-001-0256]|Z-001-0256]]
+- [[Activation_Phase_RANKL_MCSF_Osteoclast_Differentiation_[Z-001-1027]|Z-001-1027]]
+- [[FRAX_Input_Variables_Clinical_Risk_Factors_[Z-001-0109]|Z-001-0109]]
+- [[Formation_Phase_Osteoid_Deposition_Mineralization_[Z-001-0102]|Z-001-0102]]
+- [[Net_Bone_Loss_Resorption_Exceeds_Formation_[Z-001-0084]|Z-001-0084]]
+- [[Fragility_Fractures_Morbidity_Mortality_[Z-001-0078]|Z-001-0078]]
+- [[Muscle_Bone_Unit_Mechanical_Loading_[Z-001-0096]|Z-001-0096]]
+- [[Osteoblasts_Bone_Forming_Cells_[Z-001-0081]|Z-001-0081]]
+- [[Bone_Remodeling_Cycle_Five_Phases_[Z-001-0083]|Z-001-0083]]
+- [[Vitamin_D_High_Dose_Monitoring_Protocol_[Z-001-0091]|Z-001-0091]]
+- [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 
