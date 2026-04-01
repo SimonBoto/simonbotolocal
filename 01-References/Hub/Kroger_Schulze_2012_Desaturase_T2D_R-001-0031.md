@@ -61,13 +61,9 @@ tags: [reference, desaturase, fatty-acids, t2d
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[Omega_6_Bioaccumulation_Half_Life_[Z-001-0958]]] — Desaturase enzyme mechanisms
+- [[Fatty_Acid_Desaturase_FADS_Genetics_[Z-001-0536]]] — Genetic variation in desaturases
+- [[Fatty_Acids_Inflammation_Resolution_[Z-001-0564]]] — Fatty acid metabolism
 
 ---
 

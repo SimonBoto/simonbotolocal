@@ -61,13 +61,8 @@ tags: [reference, t1d, metabolomics, prediction,
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[Metabolomics_Predictive_Modeling_[Z-001-0909]]] — Metabolite prediction models
+- [[Type_1_Diabetes_Metabolic_Signature_[Z-001-0910]]] — T1D metabolic patterns
 
 ---
 

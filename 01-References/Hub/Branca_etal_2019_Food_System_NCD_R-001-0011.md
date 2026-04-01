@@ -61,13 +61,8 @@ tags: [referen
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[METHAP_Intervention_Protocol_Diet_Supplements_[Z-001-1142]]] — 80% environmental factors — METHAP rationale
+- [[Confounding_Variables_Diet_Studies_[Z-001-0525]]] — Dietary intervention evidence
 
 ---
 

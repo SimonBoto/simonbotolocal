@@ -56,13 +56,8 @@ tags: [reference, amino-aci
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[Amino_Acids_Krebs_Cycle_Metabolic_Mapping_[Z-001-0060B]]] — AA clinical roles
+- [[BCAAs_IR_Risk_[Z-001-0042]]] — BCAA metabolism
 
 ---
 

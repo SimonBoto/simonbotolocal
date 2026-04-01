@@ -61,13 +61,8 @@ tags: [reference, micronutrients, deficiency, covid-19, metab
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[Vitamin_D_High_Dose_Monitoring_Protocol_[Z-001-0091]]] — Micronutrient immune support
+- [[Zinc_Immune_Function_Antiviral_[Z-001-0228]]] — Zinc antiviral effects
 
 ---
 

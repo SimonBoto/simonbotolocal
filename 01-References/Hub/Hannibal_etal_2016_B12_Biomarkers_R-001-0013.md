@@ -61,13 +61,9 @@ tags: [reference, b12, biomarkers, cofactor, metab
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[Functional_B12_Deficiency_MMA_Assessment_[Z-001-0041]]] — MMA biomarker validation
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_[Z-001-0428]]] — Cofactor→metabolite model
+- [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]]] — Methylation pathway
 
 ---
 

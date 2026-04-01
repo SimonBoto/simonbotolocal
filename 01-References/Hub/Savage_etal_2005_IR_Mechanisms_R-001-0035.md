@@ -61,13 +61,9 @@ tags: [reference, insulin-resistance, me
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[HOMA_IR_Calculation_Interpretation_[Z-001-0046]]] — Foundational IR mechanisms
+- [[Insulin_Receptor_Substrate_IRS_Phosphorylation_[Z-001-0012]]] — Lipid-induced insulin resistance
+- [[Insulin_Signaling_Pathway_Overview_[Z-001-0001]]] — Core IR pathway
 
 ---
 

@@ -61,13 +61,8 @@ tags: [reference, metaboli
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[Clinical_Biochemical_Assessment_Framework_[S-001-0002]]] — Metabolic health assessment
+- [[METHAP_Metabolomics_Analysis_Plan_[Z-002-0620]]] — METHAP analysis framework
 
 ---
 

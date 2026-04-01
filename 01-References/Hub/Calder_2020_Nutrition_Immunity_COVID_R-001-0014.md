@@ -61,13 +61,8 @@ tags: [reference, nutrition, immunity, covid-19, micronutrien
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[Vitamin_D_High_Dose_Monitoring_Protocol_[Z-001-0091]]] — VitD immune support
+- [[Immune_Metabolism_Nutrient_Sensing_[Z-001-0912]]] — Nutrition-immunity mechanisms
 
 ---
 

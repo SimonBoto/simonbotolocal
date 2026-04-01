@@ -61,13 +61,8 @@ quality-score: medium
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[Metabolic_Syndrome_Clinical_Manifestations_Presentation_[Z-001-0203]]] — Original Syndrome X description
+- [[HOMA_IR_Calculation_Interpretation_[Z-001-0046]]] — IR assessment foundation
 
 ---
 
