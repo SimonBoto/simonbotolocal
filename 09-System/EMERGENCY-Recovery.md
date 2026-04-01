@@ -2,7 +2,7 @@
 uid: SYS-EMRG-001
 type: emergency-reference
 title: Emergency Recovery — OpenClaw Gateway Failures
-aliases: [Emergency, Recovery, Gateway-Fix, OpenClaw-Down]
+aliases: [SAFETY, Emergency, Recovery, Gateway-Fix, OpenClaw-Down]
 domain: system
 tags: [emergency, recovery, gateway, openclaw, system]
 status: active

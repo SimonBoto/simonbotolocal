@@ -2,7 +2,7 @@
 uid: pre-flight-v1.0
 type: system
 title: "RON Pre-Flight Card — 30-Second Checklist"
-aliases: [PreFlight, Quick_Check]
+aliases: [Pre_Flight_Card, PreFlight, Quick_Check]
 domain: system
 tags: [checklist, quick-reference]
 parent-moc: 
