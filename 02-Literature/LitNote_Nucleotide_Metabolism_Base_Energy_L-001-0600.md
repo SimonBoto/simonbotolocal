@@ -9,7 +9,7 @@ doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: 3
-relevance: High — Foundational nucleotide biochemistry: adenosine, adenine, ribose, nucleoside formation, salvage pathway, evolutionary origins
+relevance: "High — Foundational nucleotide biochemistry: adenosine, adenine, ribose, nucleoside formation, salvage pathway, evolutionary origins"
 status: extracted
 parent-moc: [[MOC-Nucleotide-Metabolism]]
 extraction-date: 2026-03-08
