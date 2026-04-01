@@ -43,3 +43,7 @@ created: 2026-02-22
 **Also in:** 
 
 **Tissue:** Primary  in liver; muscle uses different regulation
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

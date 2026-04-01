@@ -112,4 +112,6 @@ If competency not achieved:
 
 
 ## RELATED FILES
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 

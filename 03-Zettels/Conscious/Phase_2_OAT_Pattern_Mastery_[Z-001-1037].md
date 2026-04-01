@@ -63,3 +63,7 @@ Trainees should read OAT patterns instinctively, not analytically.
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*
+
+
+## RELATED FILES
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]

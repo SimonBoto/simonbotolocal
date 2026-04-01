@@ -467,3 +467,11 @@ Core minerals function as essential cofactors for hundreds of enzymatic reaction
 **Related:** [[Mitochondrial_Nutrient_Cofactors_[Z-001-0556].md]] | [[SOD2_Mitochondrial_Antioxidant_[Z-001-0557].md]] | [[Thyroid_Nutrient_Cofactors_[Z-001-0029].md]]
 
 **Source:** CGPT-0124 — Five Pillars of Metabolic Health
+
+
+## RELATED FILES
+- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

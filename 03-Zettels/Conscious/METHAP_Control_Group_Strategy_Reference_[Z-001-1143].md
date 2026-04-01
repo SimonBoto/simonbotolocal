@@ -127,6 +127,7 @@ Reference          Natural course           Treatment effect
 *Source: CGPT-0475 — Metabolic  for insulin resistance*
 
 ## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
 - 
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 

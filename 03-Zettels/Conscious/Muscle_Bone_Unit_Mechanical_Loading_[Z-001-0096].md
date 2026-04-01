@@ -34,3 +34,7 @@ The muscle-bone unit concept: adequate protein intake enhances muscle strength, 
 
 ## Related
 - [[Kellogg_Company_Founding_1906_[Z-001-0252]|Z-001-0252]]
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

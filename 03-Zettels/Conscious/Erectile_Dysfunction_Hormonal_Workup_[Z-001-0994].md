@@ -247,3 +247,11 @@ Focused evaluation                  Consider TRT
 **Related:** [[Primary_Secondary_Hypogonadism_[Z-001-0991].md]] | [[Prolactinoma_Diagnosis_Management_[Z-001-0992].md]] | [[SHBG_Physiology_Clinical_Significance_[Z-001-0993].md]] | [[Testosterone_Replacement_Therapy_Monitoring_[Z-001-0091].md]]
 
 **Source:** CGPT-0438 — Hormone Scenarios
+
+
+## RELATED FILES
+- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

@@ -48,3 +48,7 @@ extraction-date: 2026-03-01
 ---
 
 *Source: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]]*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

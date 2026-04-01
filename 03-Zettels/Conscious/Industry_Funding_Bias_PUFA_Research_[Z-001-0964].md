@@ -252,3 +252,9 @@ The seed oil story exemplifies how:
 **Related:** [[Sydney_Diet_Heart_Study_Reanalysis_[Z-001-0960].md]] | [[Minnesota_Coronary_Experiment_Reanalysis_[Z-001-0961].md]] | [[Ancel_Keys_Scientific_Legacy_[Z-001-0527].md]] | [[Procter_Gamble_Crisco_Seed_Oil_Marketing_[Z-001-0247].md]]
 
 **Source:** CGPT-0282 — Seed Oils and Chronic Diseases
+
+
+## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]

@@ -137,6 +137,9 @@ The METHAP intervention combines targeted dietary modifications with evidence-ba
 *Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
 
 ## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - [[Vitamin_K2_Vascular_Calcification_MGP_[Z-001-0228]|Z-001-0228]]
 - [[D_K2_Production_Activation_Partnership_[Z-001-0253]|Z-001-0253]]
 - [[Vascular_Calcification_Prevention_Reversal_[Z-001-0272]|Z-001-0272]]

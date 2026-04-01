@@ -26,3 +26,7 @@ Osteopenia is defined by a T-score between −1.0 and −2.5 on dual-energy X-ra
 ---
 
 *UID: Z-001-0076 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

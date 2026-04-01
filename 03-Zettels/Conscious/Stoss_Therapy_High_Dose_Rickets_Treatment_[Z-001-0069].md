@@ -40,3 +40,7 @@ Stoss therapy uses single high-dose vitamin D (50,000-600,000 IU) to rapidly cor
 ---
 
 *UID: Z-001-0069 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

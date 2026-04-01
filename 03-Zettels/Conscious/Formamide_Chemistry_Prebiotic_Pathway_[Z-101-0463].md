@@ -96,3 +96,7 @@ Multiple pathways (HCN, formamide, meteoritic delivery) increase probability of 
 
 ---
 *Source: CGPT-0445 extraction (Messages 8-10) | Created: 2026-03-04*
+
+
+## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]

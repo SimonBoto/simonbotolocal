@@ -78,3 +78,9 @@ Patterns reveal more than individual markers. This protocol teaches systematic p
 
 ---
 *Source: CGPT-0022 — OAT interpretation*
+
+
+## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

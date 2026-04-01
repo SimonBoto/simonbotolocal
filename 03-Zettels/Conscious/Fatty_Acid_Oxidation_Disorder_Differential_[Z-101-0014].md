@@ -147,3 +147,7 @@ Persistent? —→ Expanded testing (biotinidase, mitochondrial DNA)
 ---
 
 *See also: [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_[Z-101-0013]]]*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

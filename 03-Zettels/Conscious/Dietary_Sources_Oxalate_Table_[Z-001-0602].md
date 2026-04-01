@@ -65,3 +65,8 @@ created: 2026-03-04
 
 ---
 *Source: CGPT-0413 | Created: 2026-03-04*
+
+
+## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]

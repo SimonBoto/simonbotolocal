@@ -348,3 +348,8 @@ Overall          0.81 (0.71, 0.92)      100%
 **Related:** [[Quality_Assessment_Risk_of_Bias_[Z-001-0999].md]] | [[GRADE_Certainty_of_Evidence_[Z-001-1001].md]] | [[PRISMA_Reporting_Guidelines_[Z-001-1002].md]]
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

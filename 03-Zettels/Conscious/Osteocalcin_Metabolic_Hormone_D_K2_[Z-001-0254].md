@@ -99,3 +99,7 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]*  
 *Related: [[Osteocalcin_Metabolic_Hormone_D_K2_[Z-001-0254]]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

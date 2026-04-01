@@ -132,6 +132,8 @@ patient_id,visit,fasting_glucose_mg_dl,fasting_insulin_uu_ml,homa_ir,homa_ir_sta
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

@@ -131,3 +131,9 @@ Result: Greater reduction in chronic inflammation
 
 *Source: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

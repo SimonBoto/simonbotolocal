@@ -165,3 +165,9 @@ Treg Enhancement              Th17 Suppression
 ---
 
 *Source: [[LitNote_VDR_Knockout_Immune_Function_L-001-0621]] | 2026-03-08*
+
+
+## RELATED FILES
+- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]

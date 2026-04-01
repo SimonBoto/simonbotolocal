@@ -90,4 +90,5 @@ Both use the **propionyl-CoA → succinyl-CoA** pathway but differ in ketogenic 
 
 
 ## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_[Z-001-1101]|Z-001-1101]]

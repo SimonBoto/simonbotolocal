@@ -145,3 +145,10 @@ The METHAP trial design:
 ---
 *Confidence: High* — Well-established metabolic disorder  
 *Next Review: After METHAP baseline characterization*
+
+## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

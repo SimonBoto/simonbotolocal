@@ -142,6 +142,7 @@ External Validation:
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
 - 
 - |Biomarker Family Guide]]
 - 

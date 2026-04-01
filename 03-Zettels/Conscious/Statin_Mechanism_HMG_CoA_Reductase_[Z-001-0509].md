@@ -68,4 +68,7 @@ Enhanced LDL clearance
 
 
 ## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - [[Methylmalonyl_CoA_Mutase_B12_Mechanism_[Z-001-0428]|Z-001-0428]]

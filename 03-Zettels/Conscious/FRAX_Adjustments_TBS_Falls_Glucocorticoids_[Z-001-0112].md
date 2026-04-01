@@ -234,3 +234,7 @@ Decision: Anabolic therapy indicated
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+
+## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]

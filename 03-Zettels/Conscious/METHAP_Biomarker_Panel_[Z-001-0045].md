@@ -55,6 +55,10 @@ The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates mul
 *UID: Z-001-0045 | Domain: 001 | Created: 2026-02-24*
 
 ## RELATED FILES
+- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

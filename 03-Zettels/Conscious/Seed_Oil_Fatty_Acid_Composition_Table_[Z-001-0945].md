@@ -90,3 +90,8 @@ status: conscious
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

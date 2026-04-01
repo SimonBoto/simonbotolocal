@@ -289,6 +289,9 @@ Precision metabolomics moves beyond single s to comprehensive metabolic profilin
 **Source:** CGPT-0124 — Five Pillars of Metabolic Health
 
 ## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - 
 - [[BCAAs_IR_Risk_[Z-001-0042]|Z-001-0042]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]

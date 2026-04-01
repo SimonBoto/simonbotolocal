@@ -70,5 +70,7 @@ Ketoses (especially fructose) are generally **sweeter** than aldoses due to stru
 
 
 ## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 
 - [[Fructose_Glycolytic_Intermediate_[Z-001-0468]|Z-001-0468]]

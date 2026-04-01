@@ -143,3 +143,7 @@ Add emergency contact procedure for adverse effects.
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]

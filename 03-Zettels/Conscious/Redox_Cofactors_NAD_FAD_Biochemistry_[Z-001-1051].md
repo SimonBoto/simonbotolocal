@@ -81,3 +81,7 @@ NAD⁺/NADH and FAD/FADH₂ are the primary electron carriers connecting catabol
 
 ---
 *Source: CGPT-0022 — Mitochondrial biochemistry*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

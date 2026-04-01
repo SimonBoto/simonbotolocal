@@ -76,3 +76,7 @@ Teaching metabolomics through guided inquiry rather than information delivery. T
 
 ## Related
 - [[Training_Teaching_Style_Framework_[Z-001-1040]|Z-001-1040]]
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

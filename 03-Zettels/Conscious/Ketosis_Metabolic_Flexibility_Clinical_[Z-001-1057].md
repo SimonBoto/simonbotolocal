@@ -82,3 +82,8 @@ The ability to switch between carbohydrate and fat oxidation based on availabili
 
 ## Related
 - [[Ketone_vs_Glycolysis_Mitochondrial_Entry_[Z-001-1259]|Z-001-1259]]
+
+
+## RELATED FILES
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

@@ -289,6 +289,7 @@ Nitrogen Balance ≈ Protein Intake/6.25 - (UUN + 4)
 **Source:** CGPT-0370 — Protein and Kidney Disease
 
 ## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

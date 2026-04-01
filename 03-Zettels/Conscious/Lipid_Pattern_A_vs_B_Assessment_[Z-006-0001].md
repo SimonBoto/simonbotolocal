@@ -181,6 +181,7 @@ patient_id,visit,ldl_c_mg_dl,apo_b_mg_dl,ldl_apob_ratio,pattern_type,tg_hdl_rati
 *Created: 2026-02-26 | Domain: 006 | Status: Conscious*
 
 ## RELATED FILES
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

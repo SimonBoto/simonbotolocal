@@ -128,3 +128,7 @@ Recombinant human parathyroid hormone (1-34 fragment) given as **daily subcutane
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+
+## RELATED FILES
+- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]

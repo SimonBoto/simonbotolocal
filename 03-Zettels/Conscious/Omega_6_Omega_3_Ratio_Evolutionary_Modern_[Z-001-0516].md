@@ -56,5 +56,9 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 
 - [[Omega_6_Cardiovascular_Controversy_[Z-001-0962]|Z-001-0962]]

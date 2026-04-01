@@ -354,3 +354,7 @@ Informed consent is the process by which potential participants learn about a  s
 **Related:** [[Seven_Requirements_Ethical_Research_[Z-001-1002].md]] | [[IRB_Ethics_Committee_Functions_[Z-001-1004].md]] | [[Vulnerable_Populations_Research_Protections_[Z-001-1007].md]]
 
 **Source:** CGPT-0131 — Medical Ethics Assistance
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]

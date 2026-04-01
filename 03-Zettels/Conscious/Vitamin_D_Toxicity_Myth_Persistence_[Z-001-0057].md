@@ -39,3 +39,7 @@ Despite modern understanding that vitamin D toxicity is rare and requires massiv
 ---
 
 *UID: Z-001-0057 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

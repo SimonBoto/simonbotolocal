@@ -57,6 +57,8 @@ Fe²⁺ + H₂O₂ → Fe³⁺ + OH• + OH⁻
 
 
 ## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

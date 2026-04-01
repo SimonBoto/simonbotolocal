@@ -107,3 +107,7 @@ TP53 abnormalities, particularly deletion of chromosome 17p (del(17p)) containin
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

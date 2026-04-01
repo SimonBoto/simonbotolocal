@@ -129,3 +129,7 @@ AMP → Adenosine → Inosine → Hypoxanthine → Xanthine → Uric acid
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

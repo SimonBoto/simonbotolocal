@@ -43,3 +43,7 @@ Conserved for ~4 billion years — strongest evidence for common ancestry of all
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]

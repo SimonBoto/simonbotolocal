@@ -263,3 +263,8 @@ Crisco's 1911 launch marked:
 **Related:** [[Pre_Industrial_Seed_Oil_Uses_[Z-001-0968].md]] | [[Hydrogenation_Trans_Fat_Formation_[Z-001-0957].md]] | [[Ancel_Keys_Seven_Countries_Study_[Z-001-0245].md]] | [[Seed_Oil_Rise_US_Diet_Government_Role_[Z-001-0248].md]]
 
 **Source:** CGPT-0340 — Seed oils history and process
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

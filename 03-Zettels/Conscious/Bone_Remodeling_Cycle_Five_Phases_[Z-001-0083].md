@@ -26,3 +26,7 @@ Bone remodeling is a 5-phase cycle: (1) Activation — osteoclast precursors rec
 ---
 
 *UID: Z-001-0083 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

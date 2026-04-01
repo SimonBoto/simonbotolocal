@@ -73,3 +73,7 @@ Magnesium is a cofactor for >300 enzymes, essential for ATP function, muscle rel
 
 ---
 *Source: CGPT-0022 — Vitamin-mineral biochemistry*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

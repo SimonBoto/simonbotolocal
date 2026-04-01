@@ -155,5 +155,6 @@ Adipyl-CoA
 
 
 ## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 
 - [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_[Z-001-0610]|Z-001-0610]]

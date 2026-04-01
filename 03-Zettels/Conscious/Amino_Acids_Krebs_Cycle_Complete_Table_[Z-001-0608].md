@@ -56,4 +56,5 @@ extraction-date: 2026-03-05
 
 
 ## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 

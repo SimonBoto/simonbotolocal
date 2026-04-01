@@ -108,3 +108,8 @@ Available    Entry
 
 Extracted from: [[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]]  
 CGPT-0647 (April 30, 2023) — Messages 3-4, 15-16
+
+
+## RELATED FILES
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

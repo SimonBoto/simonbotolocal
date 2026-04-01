@@ -26,3 +26,7 @@ The RANK/RANKL/OPG system is the master regulator of osteoclast differentiation.
 ---
 
 *UID: Z-001-0082 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

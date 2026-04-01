@@ -145,3 +145,8 @@ This dynamic balance is essential for cellular health
 ---
 
 *Source: [[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]] | 2026-03-08*
+
+
+## RELATED FILES
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

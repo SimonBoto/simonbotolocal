@@ -139,6 +139,10 @@ patient_id,visit,anti_tpo_iu_ml,anti_tg_iu_ml,hashimoto_status
 *Created: 2026-02-26 | Domain: 005 | Status: Conscious*
 
 ## RELATED FILES
+- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - |Biomarkers MOC]]
 

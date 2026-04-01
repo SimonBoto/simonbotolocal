@@ -211,3 +211,9 @@ Action: Treat (threshold 10% for glucocorticoids)
 
 ## Related
 - [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_[Z-101-0016]|Z-101-0016]]
+
+
+## RELATED FILES
+- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

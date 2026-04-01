@@ -26,3 +26,7 @@ Protein intake stimulates IGF-1 (-like growth factor-1), which promotes osteobla
 ---
 
 *UID: Z-001-0100 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

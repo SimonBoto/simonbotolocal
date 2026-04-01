@@ -57,3 +57,7 @@ HPA Axis Dysregulation
 ---
 
 *UID: Z-001-0039 | Domain: 001 | Created: 2026-02-24*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

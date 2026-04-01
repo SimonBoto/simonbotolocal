@@ -103,4 +103,5 @@ Strategies for navigating challenging patient interactions with professionalism 
 
 
 ## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 

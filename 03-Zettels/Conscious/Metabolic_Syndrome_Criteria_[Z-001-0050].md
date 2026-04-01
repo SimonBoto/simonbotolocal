@@ -179,6 +179,9 @@ patient_id,visit,waist_cm,tg_mg_dl,hdl_c_mg_dl,sbp,dbp,glucose,criteria_count,me
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

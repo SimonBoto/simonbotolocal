@@ -43,3 +43,7 @@ Excess free  cause  resistance through ceramide generation, disrupting insulin s
 **Also in:** 
 
 **Therapeutic:** Ceramide synthesis inhibitors (myriocin) improve IR in models
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

@@ -79,3 +79,8 @@ Adenosine is a nucleoside (adenine + ribose) serving as the universal hub connec
 
 ---
 *Source: CGPT-0445 — Advanced *
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

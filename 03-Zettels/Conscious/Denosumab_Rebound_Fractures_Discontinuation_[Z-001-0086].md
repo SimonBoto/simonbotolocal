@@ -26,3 +26,7 @@ Upon discontinuation of denosumab, patients may experience rapid increase in bon
 ---
 
 *UID: Z-001-0086 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

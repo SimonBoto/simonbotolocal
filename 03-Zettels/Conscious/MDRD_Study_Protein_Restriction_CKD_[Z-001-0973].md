@@ -148,3 +148,7 @@ status: conscious
 **Related:** [[Protein_Restriction_CKD_Guidelines_[Z-001-0974].md]] | _[Z-001-0975].md]]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]

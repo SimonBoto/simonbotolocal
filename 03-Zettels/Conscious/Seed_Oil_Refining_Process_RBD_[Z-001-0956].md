@@ -207,3 +207,10 @@ RBD Oil — neutral, stable, depleted
 **Related:** [[Seed_Oil_Extraction_Methods_Expeller_Hexane_[Z-001-0955].md]] | [[Advanced_Lipoxidation_End_Products_ALEs_[Z-001-0958].md]] | [[Hydrogenation_Trans_Fat_Formation_[Z-001-0957].md]]
 
 **Source:** CGPT-0281, CGPT-0340 — Seed Oils and Metabolic Health; Seed oils history and process
+
+
+## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

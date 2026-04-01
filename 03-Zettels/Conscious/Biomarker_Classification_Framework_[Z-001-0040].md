@@ -45,6 +45,8 @@ created: 2026-02-24
 **Emerges from:** Biomarkers Taxonomy synthesis document
 
 ## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 
 - [[Adipic_Acid_Early_IR_Biomarker_[Z-001-0041]|Adipic Acid — Early IR Biomarker]]
 - 

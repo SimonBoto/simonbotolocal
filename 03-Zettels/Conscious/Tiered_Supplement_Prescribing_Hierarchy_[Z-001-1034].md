@@ -104,5 +104,7 @@ A structured, sequential approach to supplementation that prioritizes foundation
 
 
 ## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - 
 - [[Magnesium_Supplementation_Diabetes_Clinical_Trials_[Z-001-0213]|Z-001-0213]]

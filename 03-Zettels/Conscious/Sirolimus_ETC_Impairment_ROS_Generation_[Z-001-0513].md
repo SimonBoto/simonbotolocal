@@ -105,3 +105,7 @@ ETC Impairment → ROS Generation
 
 ## Related
 - [[mTORC1_Calcium_Homeostasis_mPTP_[Z-001-0922]|Z-001-0922]]
+
+
+## RELATED FILES
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]

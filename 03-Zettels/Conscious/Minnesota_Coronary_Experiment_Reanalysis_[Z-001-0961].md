@@ -255,3 +255,9 @@ Saturated fat ↓ (replaced by PUFA) → LDL ↓ → **No change in death**
 **Related:** [[Sydney_Diet_Heart_Study_Reanalysis_[Z-001-0960].md]] | [[Industry_Funding_Bias_PUFA_Research_[Z-001-0964].md]] | [[Ancel_Keys_Scientific_Legacy_[Z-001-0527].md]]
 
 **Source:** CGPT-0282 — Seed Oils and Chronic Diseases
+
+
+## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]

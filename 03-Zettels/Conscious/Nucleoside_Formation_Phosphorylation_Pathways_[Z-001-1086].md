@@ -115,3 +115,7 @@ Level 4: NTP (ATP) - triphosphate, high energy, fully functional
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

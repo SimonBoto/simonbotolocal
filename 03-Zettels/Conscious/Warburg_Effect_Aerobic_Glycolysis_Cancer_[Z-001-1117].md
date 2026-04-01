@@ -103,3 +103,9 @@ Glucose → Pyruvate → Lactate
 
 ## Related
 - [[Nobel_Prize_1923_Controversy_[Z-001-0236]|Z-001-0236]]
+
+
+## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

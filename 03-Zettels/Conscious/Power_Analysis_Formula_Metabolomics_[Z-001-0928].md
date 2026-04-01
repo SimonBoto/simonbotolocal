@@ -137,6 +137,7 @@ n = 66 per group
 *See also: [[Underpowered_Study_Consequences_[Z-001-0929]]]*
 
 ## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

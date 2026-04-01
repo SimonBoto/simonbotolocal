@@ -142,3 +142,9 @@ When chicken fat exceeds **36% omega-6 fatty acids** (common in corn-fed birds):
 
 ## Related
 - [[Fatty_Acid_Dietary_Strategies_[Z-001-0521]|Z-001-0521]]
+
+
+## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

@@ -105,6 +105,7 @@ When analyzing urine organic acids, clinicians assess:
 *Confidence: High* — Established urine OA methodology  
 *Next Review: After urine OA panel correlation analysis*
 ## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

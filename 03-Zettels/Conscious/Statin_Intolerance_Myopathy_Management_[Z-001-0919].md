@@ -61,4 +61,5 @@ updated: 2026-03-05
 
 
 ## RELATED FILES
+- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
 - 

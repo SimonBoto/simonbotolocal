@@ -35,3 +35,7 @@ Human skin can synthesize 10,000-20,000 IU of vitamin D3 (cholecalciferol) in 15
 ---
 
 *UID: Z-001-0062 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

@@ -218,3 +218,11 @@ Catalytic Surface Reaction:
 **Related:** [[Seed_Oil_Refining_Process_RBD_[Z-001-0956].md]] | [[Trans_Fat_Cardiovascular_Mechanisms_[Z-001-0050].md]] | [[Ancel_Keys_Seven_Countries_Study_[Z-001-0245].md]]
 
 **Source:** CGPT-0281, CGPT-0340 — Seed Oils and Metabolic Health; Seed oils history and process
+
+
+## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

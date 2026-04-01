@@ -187,3 +187,6 @@ xdata <- fillChromPeaks(xdata, param = FillChromPeaksParam())
 ---
 
 *Source: [[LitNote_Metabolomics_Data_Processing_L-001-0619]] | 2026-03-09*
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]

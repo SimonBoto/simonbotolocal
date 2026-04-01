@@ -174,6 +174,7 @@ Metabolite: [Name]
 
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 ## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
 - /Kidney_Function_[B-008-0001]|Biomarker Family Guide]]
 - 
 

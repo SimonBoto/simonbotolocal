@@ -38,3 +38,7 @@ The insulin receptor (INSR) is a tetrameric receptor tyrosine kinase expressed o
 **Also in:** 
 
 **Supports:** Synthesis documents on IR pathways
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

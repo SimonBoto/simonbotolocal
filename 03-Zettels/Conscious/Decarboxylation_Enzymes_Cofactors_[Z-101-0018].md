@@ -113,3 +113,9 @@ extraction-date: 2026-03-02
 ---
 
 *See also: [[Vitamin_B5_CoA_Synthesis_Pathway_[Z-101-0017]]]*
+
+
+## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

@@ -91,3 +91,7 @@ NKUA ethics committee timeline:
 ---
 
 *UID: Z-002-0613 | Domain: 002 | Created: 2026-03-27*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

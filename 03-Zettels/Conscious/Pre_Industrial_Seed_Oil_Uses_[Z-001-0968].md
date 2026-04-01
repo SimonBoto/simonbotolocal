@@ -257,3 +257,8 @@ Oils that polymerize (dry) when exposed to air
 **Related:** [[Procter_Gamble_Crisco_Introduction_1911_[Z-001-0969].md]] | [[Seed_Oil_Extraction_Methods_Expeller_Hexane_[Z-001-0955].md]] | [[Industrial_Revolution_Food_Transformation_[Z-001-0012].md]]
 
 **Source:** CGPT-0340 — Seed oils history and process
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

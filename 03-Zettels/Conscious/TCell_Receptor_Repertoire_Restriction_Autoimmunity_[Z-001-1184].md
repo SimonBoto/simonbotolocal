@@ -150,3 +150,7 @@ Reduced Repertoire Diversity
 ---
 
 *Source: [[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]] | 2026-03-08*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

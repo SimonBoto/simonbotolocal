@@ -142,3 +142,8 @@ The fatty acid composition of egg yolks is **directly determined by the hen's di
 ---
 
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
+
+## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

@@ -170,3 +170,7 @@ NADH → Complex I → CoQ10 → Complex III → Cytochrome c → Complex IV →
 ---
 
 *Source: [[LitNote_Mitochondrial_Structure_Biology_L-001-0633]] | 2026-03-09*
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]

@@ -148,6 +148,7 @@ patient_id,visit,homa_beta,beta_cell_status,ir_status_combined
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - |Biomarkers MOC]]
 

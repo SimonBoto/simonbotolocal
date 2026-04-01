@@ -272,3 +272,9 @@ Result: Disorganized woven bone, enlarged, weak
 **Related:** [[ALP_Isoenzymes_Tissue_Sources_[Z-001-0983].md]] | [[Breast_Pagets_Disease_Distinct_Entity_[Z-001-0985].md]] | [[Elevated_ALP_Differential_Workup_[Z-001-0986].md]]
 
 **Source:** CGPT-0345 — Alkaline Phosphatase Overview
+
+
+## RELATED FILES
+- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]

@@ -326,3 +326,7 @@ Quality assessment evaluates the methodological rigor of included studies. Risk 
 **Related:** [[Systematic_Search_Strategy_[Z-001-0996].md]] | [[Screening_Protocols_Systematic_Review_[Z-001-0997].md]] | [[Data_Extraction_Systematic_Review_[Z-001-0998].md]] | [[Meta_Analysis_Statistics_Forest_Plots_[Z-001-1000].md]]
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]

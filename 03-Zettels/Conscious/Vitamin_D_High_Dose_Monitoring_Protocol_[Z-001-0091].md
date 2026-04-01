@@ -50,3 +50,8 @@ High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hy
 
 ## Related
 - [[Vitamin_D_Paradigm_Failure_Production_vs_Recommendations_[Z-001-0073]|Z-001-0073]]
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

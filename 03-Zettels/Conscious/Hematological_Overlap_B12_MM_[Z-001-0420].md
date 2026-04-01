@@ -53,3 +53,8 @@ extraction-date: 2026-03-01
 ---
 
 *Source: [[LitNote_B12_MM_Mimicry_L-001-0404]]*
+
+
+## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]

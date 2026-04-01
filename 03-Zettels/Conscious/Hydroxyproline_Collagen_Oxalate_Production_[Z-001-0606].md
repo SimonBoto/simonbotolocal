@@ -78,3 +78,7 @@ Hydroxyproline → 4-Hydroxy-2-oxoglutarate → Glyoxylate → Oxalate
 
 ---
 *Source: CGPT-0413 | Created: 2026-03-04*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

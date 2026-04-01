@@ -62,3 +62,7 @@ Also bind oxalate, though less clinically significant than calcium.
 
 ---
 *Source: CGPT-0413 | Created: 2026-03-04*
+
+
+## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]

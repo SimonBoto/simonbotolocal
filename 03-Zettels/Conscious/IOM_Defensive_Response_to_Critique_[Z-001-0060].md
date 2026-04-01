@@ -42,4 +42,5 @@ Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), 
 
 
 ## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 

@@ -139,3 +139,8 @@ B-vitamins (folate, B12, B6, B2) are essential cofactors for methylation reactio
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

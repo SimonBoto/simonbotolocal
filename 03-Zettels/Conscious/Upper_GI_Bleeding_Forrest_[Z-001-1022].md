@@ -334,4 +334,5 @@ The Forrest classification stratifies risk of rebleeding and guides endoscopic t
 
 
 ## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
 - 

@@ -37,3 +37,7 @@ Insulin is a 51-amino acid peptide hormone secreted by pancreatic β-cells in re
 ## Context
 
 **Also in:** 
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

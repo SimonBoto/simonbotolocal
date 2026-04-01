@@ -42,3 +42,8 @@ created: 2026-02-22
 **Also in:** 
 
 **Rate-limiting step:** GLUT4 translocation is the bottleneck for glucose uptake
+
+
+## RELATED FILES
+- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

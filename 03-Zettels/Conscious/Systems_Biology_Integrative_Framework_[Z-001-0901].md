@@ -60,3 +60,8 @@ The METHAP trial applies systems biology principles by:
 ---
 
 *UID: Z-001-0901 (reassigned from Z-001-0001) | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
+
+
+## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

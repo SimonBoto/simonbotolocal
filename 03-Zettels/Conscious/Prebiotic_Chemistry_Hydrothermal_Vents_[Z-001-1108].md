@@ -121,3 +121,8 @@ Hydrothermal vents at the ocean floor provide conditions that may have facilitat
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
+
+
+## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

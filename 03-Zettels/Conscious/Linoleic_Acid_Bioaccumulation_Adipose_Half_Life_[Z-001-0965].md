@@ -245,3 +245,11 @@ If not oxidized: May contribute to ectopic fat/insulin resistance
 **Related:** [[Omega_6_Tissue_Incorporation_Membrane_Fluidity_[Z-001-0947].md]] | [[Seed_Oils_Environmental_Toxin_Framework_[Z-001-0966].md]] | [[Omega_6_Omega_3_Ratio_Evolutionary_Context_[Z-001-0948].md]]
 
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
+
+
+## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

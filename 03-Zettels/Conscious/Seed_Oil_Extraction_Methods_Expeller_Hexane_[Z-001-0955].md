@@ -159,3 +159,7 @@ Two primary methods for extracting oil from seeds: **mechanical pressing** (trad
 **Related:** [[Seed_Oil_Refining_Process_Degumming_Bleaching_Deodorizing_[Z-001-0956].md]] | [[Hydrogenation_Trans_Fat_Formation_[Z-001-0957].md]]
 
 **Source:** CGPT-0340 — Seed oils history and process
+
+
+## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]

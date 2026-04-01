@@ -36,3 +36,7 @@ Gallo et al. (2013) randomized controlled trial tested 400, 800, 1,200, and 1,60
 ---
 
 *UID: Z-001-0067 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

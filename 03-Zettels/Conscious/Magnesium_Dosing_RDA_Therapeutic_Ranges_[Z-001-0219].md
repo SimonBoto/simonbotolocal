@@ -129,3 +129,7 @@ extraction-date: 2026-03-01
 
 ## Related
 - [[Low_Fat_Era_Consequences_[Z-001-0530]|Z-001-0530]]
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

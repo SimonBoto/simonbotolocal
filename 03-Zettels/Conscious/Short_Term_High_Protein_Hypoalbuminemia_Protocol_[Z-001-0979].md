@@ -266,3 +266,9 @@ status: conscious
 **Related:** [[Serum_Albumin_Interpretation_CKD_[Z-001-0978].md]] | [[Protein_Intake_Assessment_Methods_CKD_[Z-001-0980].md]]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
+
+
+## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

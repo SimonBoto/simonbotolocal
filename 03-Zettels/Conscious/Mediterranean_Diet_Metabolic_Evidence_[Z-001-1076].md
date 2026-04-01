@@ -100,4 +100,6 @@ Key research supporting Mediterranean diet for metabolic health.
 
 
 ## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - [[D_K2_Co_Supplementation_Evidence_Overview_[Z-001-0263]|Z-001-0263]]

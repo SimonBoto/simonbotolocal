@@ -180,3 +180,7 @@ status: conscious
 **Related:** [[MDRD_Study_Protein_Restriction_CKD_[Z-001-0973].md]] | [[Protein_Intake_Assessment_Methods_CKD_[Z-001-0980].md]]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

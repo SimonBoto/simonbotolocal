@@ -108,3 +108,8 @@ At any moment:
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+
+## RELATED FILES
+- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]

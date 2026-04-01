@@ -93,4 +93,6 @@ Iron-sulfur (Fe-S) clusters are among the most ancient biological cofactors, ess
 
 
 ## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 

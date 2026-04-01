@@ -78,4 +78,6 @@ METHAP requires:
 
 
 ## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - [[Declaration_Helsinki_Research_Ethics_[Z-002-0609]|Z-002-0609]]

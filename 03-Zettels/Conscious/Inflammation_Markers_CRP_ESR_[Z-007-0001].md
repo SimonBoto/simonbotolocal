@@ -127,6 +127,10 @@ patient_id,visit,hs_crp_mg_l,esr_mm_hr,inflammation_status
 *Created: 2026-02-26 | Domain: 007 | Status: Conscious*
 
 ## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - |Biomarkers MOC]]
 

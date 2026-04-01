@@ -36,3 +36,7 @@ created: 2026-02-22
 **Also in:** 
 
 **Mechanism source:** PMC3083885 | Gutiérrez-Rodelo et al., 2017
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

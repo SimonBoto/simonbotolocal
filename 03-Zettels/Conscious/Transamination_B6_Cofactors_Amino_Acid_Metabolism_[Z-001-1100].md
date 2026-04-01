@@ -115,3 +115,8 @@ Alanine + Alpha-ketoglutarate ↔ Pyruvate + Glutamate
 
 ## Related
 - [[Dehydrogenases_vs_Decarboxylases_Comparison_[Z-001-1203]|Z-001-1203]]
+
+
+## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]

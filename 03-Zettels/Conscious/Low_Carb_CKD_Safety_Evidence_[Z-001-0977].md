@@ -281,5 +281,8 @@ Safety and efficacy data for low-carbohydrate and ketogenic diets in chronic kid
 
 
 ## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 
 - [[Threonine_Dual_Metabolism_Glucogenic_Ketogenic_[Z-001-0611]|Z-001-0611]]

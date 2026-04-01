@@ -86,5 +86,7 @@ Key enzymes ~30-50% identical across domains:
 
 
 ## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 
 - [[Glycolysis_Steps_Regulation_[Z-001-0467]|Z-001-0467]]

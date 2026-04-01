@@ -82,3 +82,7 @@ Amino acids are classified by their metabolic fate: glycogenic (can be converted
 
 ---
 *Source: CGPT-0445 — Advanced *
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

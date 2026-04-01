@@ -124,6 +124,7 @@ Batch 2: D5, C5, D6, QC, C6, D7, C7, QC, D8, C8...
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
 - /Liver_Function_[B-009-0001]|Biomarker Family Guide]]
 - 
 

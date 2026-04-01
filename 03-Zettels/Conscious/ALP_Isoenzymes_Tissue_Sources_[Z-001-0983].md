@@ -254,3 +254,8 @@ Consider bone-specific ALP or isoenzyme electrophoresis
 **Related:** [[Pagets_Disease_Bone_Diagnosis_Management_[Z-001-0984].md]] | [[Elevated_ALP_Differential_Workup_[Z-001-0986].md]]
 
 **Source:** CGPT-0345 — Alkaline Phosphatase Overview
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]

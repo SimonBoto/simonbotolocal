@@ -264,6 +264,8 @@ Free T = Total T / (1 + [SHBG binding constant] × [SHBG])
 **Source:** CGPT-0438 — Hormone Scenarios
 
 ## RELATED FILES
+- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 
 

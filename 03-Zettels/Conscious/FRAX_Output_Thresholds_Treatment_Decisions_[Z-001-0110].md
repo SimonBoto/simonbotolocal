@@ -157,3 +157,7 @@ For borderline cases (15–25% major fracture):
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]

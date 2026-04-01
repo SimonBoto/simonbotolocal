@@ -164,3 +164,7 @@ Ketolysis does NOT provide anaplerotic substrates directly
 
 Extracted from: [[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]  
 CGPT-0647 (April 30, 2023) — Messages 5-8, 21-22
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

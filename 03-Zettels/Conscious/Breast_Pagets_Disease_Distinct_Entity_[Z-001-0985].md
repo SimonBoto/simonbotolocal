@@ -245,3 +245,8 @@ status: conscious
 **Related:** [[Pagets_Disease_Bone_Diagnosis_Management_[Z-001-0984].md]] | [[Nipple_Discharge_Differential_Diagnosis_[Z-001-0012].md]] | [[Breast_Cancer_Screening_Guidelines_[Z-001-0013].md]]
 
 **Source:** CGPT-0345 — Alkaline Phosphatase Overview
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

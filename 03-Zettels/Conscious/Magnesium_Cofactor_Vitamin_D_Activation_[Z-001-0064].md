@@ -40,4 +40,5 @@ Magnesium is required as a cofactor for both hydroxylation steps converting vita
 
 
 ## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 

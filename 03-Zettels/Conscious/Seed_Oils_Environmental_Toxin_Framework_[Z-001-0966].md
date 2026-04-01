@@ -294,3 +294,11 @@ Seed oils meet criteria for environmental toxin consideration:
 **Related:** [[Linoleic_Acid_Bioaccumulation_Adipose_Half_Life_[Z-001-0965].md]] | [[Omega_6_Cellular_Toxicity_Mechanisms_[Z-001-0967].md]] | [[Public_Health_Interventions_Seed_Oils_[Z-001-0968].md]]
 
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
+
+
+## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

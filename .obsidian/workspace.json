@@ -11,34 +11,23 @@
             "id": "f010d4b0e2682ff5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "bases",
+              "state": {
+                "file": "Base File All Notes.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Base File All Notes"
             }
           },
           {
             "id": "0cc9dc776b90aadd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07-Archive/ChatGPT_Extracted/00_Extracted_Insights_MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "00_Extracted_Insights_MOC"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -64,7 +53,8 @@
               "title": "Base File All Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,8 +230,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f010d4b0e2682ff5",
+  "active": "0cc9dc776b90aadd",
   "lastOpenFiles": [
+    "07-Archive/ChatGPT_Extracted/00_Extracted_Insights_MOC.md",
     "Base File All Notes.base",
     "06-Structure/Keywords/KEYWORD-Chemistry.md",
     "06-Structure/Keywords/KEYWORD-Omega_3.md",

@@ -147,3 +147,7 @@ HBOT increases tissue O₂ → More DNA damage fixed → Enhanced cell kill
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

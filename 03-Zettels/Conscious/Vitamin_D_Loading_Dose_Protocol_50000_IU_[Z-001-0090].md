@@ -26,3 +26,7 @@ For severe vitamin D deficiency (25[OH]D < 10 ng/mL), a loading dose of 50,000 I
 ---
 
 *UID: Z-001-0090 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

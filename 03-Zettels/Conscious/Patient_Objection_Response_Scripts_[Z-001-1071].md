@@ -76,3 +76,7 @@ Pre-scripted responses to common patient objections—validated, reframed, actio
 
 ---
 *Source: CGPT-0022 — Patient communication*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

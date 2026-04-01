@@ -60,4 +60,5 @@ updated: 2026-03-05
 
 
 ## RELATED FILES
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - 

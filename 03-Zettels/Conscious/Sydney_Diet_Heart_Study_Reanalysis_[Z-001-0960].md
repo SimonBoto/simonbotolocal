@@ -190,3 +190,8 @@ status: conscious
 **Related:** [[Minnesota_Coronary_Experiment_Reanalysis_[Z-001-0961].md]] | [[Omega_6_Cardiovascular_Controversy_[Z-001-0962].md]] | [[Ramsden_Critique_Diet_Heart_Hypothesis_[Z-001-0963].md]]
 
 **Source:** CGPT-0282 — Seed Oils and Chronic Diseases
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]

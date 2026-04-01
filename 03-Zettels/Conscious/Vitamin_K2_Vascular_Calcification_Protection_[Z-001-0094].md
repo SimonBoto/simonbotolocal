@@ -26,3 +26,7 @@ Vitamin K2 activates matrix GLA protein (MGP), which inhibits calcium deposition
 ---
 
 *UID: Z-001-0094 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

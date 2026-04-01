@@ -156,3 +156,7 @@ MTHFR (methylenetetrahydrofolate reductase) is a critical enzyme in the folate c
 ---
 
 *Source: [[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]] | 2026-03-09*
+
+## RELATED FILES
+- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]

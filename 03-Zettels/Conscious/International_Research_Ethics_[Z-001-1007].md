@@ -333,3 +333,8 @@ Respect for communities affected by research.
 **Related:** [[Vulnerable_Populations_Research_[Z-001-1006].md]] | [[Seven_Requirements_Ethical_Research_[Z-001-1002].md]] | [[Historical_Ethical_Guidelines_[Z-001-1003].md]]
 
 **Source:** CGPT-0131 — Medical Ethics Assistance
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

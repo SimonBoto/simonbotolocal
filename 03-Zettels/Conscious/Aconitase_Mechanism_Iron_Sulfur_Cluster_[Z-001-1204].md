@@ -134,3 +134,7 @@ Iron depleted → [4Fe-4S] lost → IRP1 active
 ---
 
 *Source: [[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]] | 2026-03-08*
+
+
+## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]

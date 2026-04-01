@@ -130,6 +130,8 @@ patient_id,visit,tibc_ug_dl,transferrin_sat_pct,iron_status_pattern
 *Created: 2026-02-26 | Domain: 003 | Status: Conscious*
 
 ## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
 - s/CRP_[B-002-0001]|Biomarker Family Guide]]
 - |Biomarkers MOC]]
 

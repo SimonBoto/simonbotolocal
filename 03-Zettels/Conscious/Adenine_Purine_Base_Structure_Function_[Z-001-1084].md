@@ -81,3 +81,7 @@ Adenine is one of four nucleobases in DNA and RNA, essential for genetic informa
 
 ---
 *Source: CGPT-0445 — Advanced *
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

@@ -44,4 +44,5 @@ Growing recognition that population-wide RDA fails individual needs. Factors cre
 
 
 ## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 

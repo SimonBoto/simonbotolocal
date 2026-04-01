@@ -126,4 +126,5 @@ Comprehensive classification of the 20 proteinogenic  by multiple criteria.
 
 
 ## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - [[BCAAs_IR_Risk_[Z-001-0042]|Z-001-0042]]

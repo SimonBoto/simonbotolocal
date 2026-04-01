@@ -85,3 +85,7 @@ extraction-date: 2026-03-01
 
 ## Related
 - [[Magnesium_Energy_Production_Mitochondrial_Function_[Z-001-0207]|Z-001-0207]]
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

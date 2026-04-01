@@ -52,3 +52,9 @@ These 12 enable patients to:
 
 ---
 *Source: CGPT-0022 — Tsoukalas Patient Vocabulary*
+
+
+## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

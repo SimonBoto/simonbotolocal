@@ -208,3 +208,8 @@ Serine + THF → Glycine + 5,10-CH₂-THF
 ---
 
 *Source: [[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630]] | 2026-03-08*
+
+
+## RELATED FILES
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]

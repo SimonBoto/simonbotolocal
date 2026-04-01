@@ -187,3 +187,9 @@ These "non-integer" values account for:
 
 Extracted from: [[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]  
 CGPT-0647 (April 30, 2023) — Messages 23-26, 31-32
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

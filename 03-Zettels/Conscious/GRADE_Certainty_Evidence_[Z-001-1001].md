@@ -297,3 +297,8 @@ GRADE (Grading of Recommendations Assessment, Development and Evaluation) provid
 **Related:** [[Meta_Analysis_Statistics_[Z-001-1000].md]] | [[Quality_Assessment_Risk_of_Bias_[Z-001-0999].md]] | [[PRISMA_Reporting_Guidelines_[Z-001-1002].md]]
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

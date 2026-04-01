@@ -285,3 +285,8 @@ Ethical research requires more than informed consent. All seven requirements mus
 **Related:** [[Historical_Ethical_Guidelines_Nuremberg_Helsinki_[Z-001-1003].md]] | [[IRB_Ethics_Committee_Functions_[Z-001-1004].md]] | [[Informed_Consent_Requirements_[Z-001-1005].md]]
 
 **Source:** CGPT-0131 — Medical Ethics Assistance
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

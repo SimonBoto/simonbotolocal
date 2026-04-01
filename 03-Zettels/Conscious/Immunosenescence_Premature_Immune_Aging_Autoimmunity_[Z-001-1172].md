@@ -112,3 +112,9 @@ More Inflammation / Opportunistic Infections
 ---
 
 *Source: [[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]] | 2026-03-08*
+
+
+## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

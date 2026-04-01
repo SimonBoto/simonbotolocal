@@ -87,3 +87,6 @@ High Production + High Activity = Maximal Function
 
 *Source: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

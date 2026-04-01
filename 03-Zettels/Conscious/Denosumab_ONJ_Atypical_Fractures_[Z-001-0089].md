@@ -29,4 +29,5 @@ Like other potent antiresorptives, denosumab has been associated with osteonecro
 
 
 ## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 

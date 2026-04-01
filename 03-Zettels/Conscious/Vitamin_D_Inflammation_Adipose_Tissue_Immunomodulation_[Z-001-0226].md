@@ -170,6 +170,10 @@ This provides strong rationale for high-dose vitamin D in METHAP protocol.
 *Related: [[Metabolic_Syndrome_Pathophysiology_Insulin_Resistance_[Z-001-0202]]]*  
 *Extracted: 2026-03-01*
 ## RELATED FILES
+- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
 - 
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - 

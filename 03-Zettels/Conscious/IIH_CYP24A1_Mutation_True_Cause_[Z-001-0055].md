@@ -37,3 +37,7 @@ Idiopathic Infantile Hypercalcemia (IIH) is a rare genetic condition caused by m
 ---
 
 *UID: Z-001-0055 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

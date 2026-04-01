@@ -125,3 +125,7 @@ status: conscious
 ---
 
 *Source: [[LitNote_VDR_Knockout_Immune_Function_L-001-0621]] | 2026-03-08*
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]

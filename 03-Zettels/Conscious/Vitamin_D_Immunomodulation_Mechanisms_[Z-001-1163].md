@@ -117,3 +117,8 @@ Vitamin D is not merely a calcium regulator — it's a **steroid hormone with di
 ---
 
 *Source: [[LitNote_VDR_Knockout_Immune_Function_L-001-0621]] | 2026-03-08*
+
+
+## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]

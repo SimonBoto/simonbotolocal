@@ -285,3 +285,10 @@ Other causes:
 **Related:** [[Short_Term_High_Protein_Hypoalbuminemia_Protocol_[Z-001-0979].md]] | [[Protein_Intake_Assessment_Methods_CKD_[Z-001-0980].md]]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
+
+
+## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]

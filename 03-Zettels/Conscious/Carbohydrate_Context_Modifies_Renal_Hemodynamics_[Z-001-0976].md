@@ -241,3 +241,9 @@ Attenuated hyperfiltration (?)
 **Related:** [[Glomerular_Hyperfiltration_Protein_Mechanism_[Z-001-0975].md]] | [[Protein_Restriction_CKD_Guidelines_[Z-001-0974].md]] | [[Low_Carb_CKD_Safety_Evidence_[Z-001-0977].md]]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
+
+
+## RELATED FILES
+- [[Biomarkers/CRP_[B-002-0001]|Biomarker Family]]
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

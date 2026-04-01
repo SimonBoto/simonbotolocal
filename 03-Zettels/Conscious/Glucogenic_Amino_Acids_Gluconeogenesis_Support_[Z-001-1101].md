@@ -122,3 +122,8 @@ Muscle: Glycolysis → Pyruvate → Alanine
 
 ## Related
 - [[Alpha_Ketoglutarate_Glutamate_Hub_[Z-001-0609]|Z-001-0609]]
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

@@ -121,5 +121,6 @@ Builds nucleotides from simple precursors (, CO₂, formate)
 
 
 ## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 
 - [[Nucleoside_Formation_Phosphorylation_Pathways_[Z-001-1086]|Z-001-1086]]

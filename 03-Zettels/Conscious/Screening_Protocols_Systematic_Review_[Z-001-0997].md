@@ -363,3 +363,8 @@ Study screening is the process of evaluating search results against inclusion an
 **Related:** [[Systematic_Search_Strategy_[Z-001-0996].md]] | [[Data_Extraction_Systematic_Review_[Z-001-0998].md]] | [[Quality_Assessment_Risk_of_Bias_[Z-001-0999].md]]
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

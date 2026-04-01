@@ -109,6 +109,7 @@ Organic acids testing reveals gut microbial , dysbiosis, and intestinal permeabi
 *Source: CGPT-0022 — Vitamin-mineral biochemistry*
 
 ## RELATED FILES
+- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
 - [[Biomarkers/Kidney_Function_[B-008-0001]|Biomarker Family Guide]]
 - 
 

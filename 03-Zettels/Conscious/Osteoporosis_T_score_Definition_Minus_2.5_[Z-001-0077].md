@@ -26,3 +26,7 @@ Osteoporosis is diagnosed when the T-score is ≤ −2.5 on DXA. It is a skeleta
 ---
 
 *UID: Z-001-0077 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

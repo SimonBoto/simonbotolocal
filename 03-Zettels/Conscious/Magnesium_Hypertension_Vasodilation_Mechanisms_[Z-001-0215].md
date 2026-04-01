@@ -128,5 +128,7 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 
 - [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_[Z-001-0206]|Z-001-0206]]

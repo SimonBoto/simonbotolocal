@@ -278,3 +278,7 @@ AND
 **Related:** [[Screening_Protocols_Systematic_Review_[Z-001-0997].md]] | [[Data_Extraction_Systematic_Review_[Z-001-0998].md]] | [[Quality_Assessment_Risk_of_Bias_[Z-001-0999].md]]
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
+
+
+## RELATED FILES
+- [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family]]

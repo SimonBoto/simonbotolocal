@@ -56,6 +56,8 @@ These terms form the vocabulary for:
 
 
 ## RELATED FILES
+- [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
 - 
 - 
 - [[Methylmalonyl_CoA_Mutase_Energy_Connection_[Z-001-0439]|Z-001-0439]]

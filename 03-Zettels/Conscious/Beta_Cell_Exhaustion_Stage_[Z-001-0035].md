@@ -49,3 +49,7 @@ Chronic hyperemia leads to beta-cell burnout through amylin deposition, oxidativ
 ---
 
 *UID: Z-001-0035 | Domain: 001 | Created: 2026-02-24*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

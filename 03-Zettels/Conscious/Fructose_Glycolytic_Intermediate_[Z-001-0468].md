@@ -55,3 +55,7 @@ Glucose-6-phosphate → Fructose-6-phosphate (phosphoglucose isomerase)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
+
+
+## RELATED FILES
+- [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]

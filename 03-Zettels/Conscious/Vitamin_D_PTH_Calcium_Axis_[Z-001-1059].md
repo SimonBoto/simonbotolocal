@@ -60,3 +60,7 @@ Low Ca²⁺ → PTH release → D activation → ↑ Ca absorption → Ca²⁺ r
 
 ---
 *Source: CGPT-0022 — Vitamin-mineral biochemistry*
+
+
+## RELATED FILES
+- [[Biomarkers/Thyroid_Panel_[B-010-0001]|Biomarker Family]]
