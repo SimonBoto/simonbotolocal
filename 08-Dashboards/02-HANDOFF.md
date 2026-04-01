@@ -23,9 +23,11 @@ status: active
    - Update all wiki links referencing bracketed filenames
    - Fix templates to use `-` or `_` instead of brackets
 2. **Organize root files** — 6 .md files in vault root need structure
-3. **Reference link verification** — 55 connections need audit (from MISSION_CONTROL)
-4. **ChatGPT Archive extraction** — 683 conversations ready (P0-B)
-5. **Any your priority** — You decide
+3. **Finalize synthesis documents** — Complete any remaining Template_Synthesis_v1.0 upgrades
+4. **References optimization** — Return to 01-References/Hub/ for linking improvements
+5. **Reference link verification** — 55 connections need audit (from MISSION_CONTROL)
+6. **ChatGPT Archive extraction** — 683 conversations ready (P0-B)
+7. **Any your priority** — You decide
 
 ## Vault State
 - **Zettels:** 767
