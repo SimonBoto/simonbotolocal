@@ -14,8 +14,8 @@ created: 2026-03-30
 
 ## 1. IDENTIFICATION
 
-| Marker | Full Name | What It Measures |
-|--------|-----------|------------------|
+| Marker           | Full Name          | What It Measures            |
+| ---------------- | ------------------ | --------------------------- |
 | **Calprotectin** | Fecal Calprotectin | Neutrophil protein in stool |
 
 **Specimen:** Stool

@@ -85,3 +85,7 @@ While not directly in this pathway, **MSUD** affects the **earlier step** of BCA
 ---
 
 *Source: CGPT-0413 (April 16, 2024) via [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]]*
+
+
+## Related
+- [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]

@@ -140,3 +140,67 @@ The METHAP intervention combines targeted dietary modifications with evidence-ba
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 
+
+
+## Related
+- [[Statin_Clinical_Decision_Making_[Z-001-0515]|Z-001-0515]]
+
+
+## Related
+- [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_[Z-001-0206]|Z-001-0206]]
+
+
+## Related
+- [[Magnesium_Monitoring_Safety_Side_Effects_[Z-001-0222]|Z-001-0222]]
+
+
+## Related
+- [[Oleic_Acid_Metabolic_Benefits_[Z-001-0533]|Z-001-0533]]
+
+
+## Related
+- [[Non_Statin_Lipid_Lowering_Options_[Z-001-0514]|Z-001-0514]]
+
+
+## Related
+- [[Keys_Criticism_Diet_Heart_Controversy_[Z-001-0246]|Z-001-0246]]
+
+
+## Related
+- [[Magnesium_Dietary_Sources_Nutrition_[Z-001-0221]|Z-001-0221]]
+
+
+## Related
+- [[Magnesium_Dosing_RDA_Therapeutic_Ranges_[Z-001-0219]|Z-001-0219]]
+
+
+## Related
+- [[Iron_Metabolism_Aconitase_Function_[Z-001-0543]|Z-001-0543]]
+
+
+## Related
+- [[Olive_Oil_Mediterranean_Advantage_[Z-001-0519]|Z-001-0519]]
+
+
+## Related
+- [[Statin_Mechanism_HMG_CoA_Reductase_[Z-001-0509]|Z-001-0509]]
+
+
+## Related
+- [[Magnesium_Hypertension_Vasodilation_Mechanisms_[Z-001-0215]|Z-001-0215]]
+
+
+## Related
+- [[Metabolic_Syndrome_Management_Lifestyle_Pharmacology_[Z-001-0205]|Z-001-0205]]
+
+
+## Related
+- [[Canola_Oil_Development_1970s_[Z-001-0971]|Z-001-0971]]
+
+
+## Related
+- [[Seed_Oils_Production_Metabolic_Impact_[Z-001-0517]|Z-001-0517]]
+
+
+## Related
+- [[Mevalonate_Branch_Points_[Z-001-0547]|Z-001-0547]]

@@ -179,3 +179,23 @@ Action: Treat (threshold 10% for glucocorticoids)
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+
+## Related
+- [[Net_Bone_Loss_Resorption_Exceeds_Formation_[Z-001-0084]|Z-001-0084]]
+
+
+## Related
+- [[METHAP_Calcium_Monitoring_Protocol_[Z-001-0262]|Z-001-0262]]
+
+
+## Related
+- [[Hormonal_Metabolic_Regulation_Terms_[Z-001-1044]|Z-001-1044]]
+
+
+## Related
+- [[D_K2_Shared_Metabolic_Pathways_[Z-001-0256]|Z-001-0256]]
+
+
+## Related
+- [[PTH_Master_Calcium_Regulator_[Z-001-0259]|Z-001-0259]]

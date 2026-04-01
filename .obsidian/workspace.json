@@ -4,65 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "ef7b01b28dc6f3be",
+        "id": "dd3cd1fe9ffc972c",
         "type": "tabs",
         "children": [
           {
-            "id": "283ded3bad289130",
+            "id": "7508ddeb5acbd731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Zettels/Conscious/Biomarkers/Biomarker_Calprotectin_[B-002-0002]_v1.0.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Biomarker_Calprotectin_[B-002-0002]_v1.0"
+            }
+          },
+          {
+            "id": "02ff5a949a4ae388",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            },
-            "group": "6e6de82c4f28b0e1"
+            }
           }
-        ]
-      },
-      {
-        "id": "a5dac6c18666cee6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b436fa3810db2ca5",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "00-Inbox/Fleeting/Medical_History_Template.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7023319615912207,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Medical_History_Template"
-            },
-            "group": "6e6de82c4f28b0e1"
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,8 +218,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "02ff5a949a4ae388",
   "lastOpenFiles": [
+    "03-Zettels/Conscious/Biomarkers/Biomarker_Calprotectin_[B-002-0002]_v1.0.md",
+    "03-Zettels/Conscious/Biomarkers/Calprotectin_[B-002-0002].md",
+    "06-Structure/Templates/06-Structure-Templates.md",
+    "03-Zettels/Conscious/Biomarkers/Biomarker_CRP_[B-002-0001]_v1.0.md",
+    "00_SYSTEM/Templates/TEMPLATE — Module / Protocol.md",
+    "00_SYSTEM/Templates/TEMPLATE — Module ",
+    "00_SYSTEM/Templates",
+    "00_SYSTEM",
     "03-Zettels/RON/sedFs2tug",
     "03-Zettels/Subconscious/Supplements/ND_50_Plus_Women_[SUPP-ND-0050].md",
     "03-Zettels/Subconscious/Supplements/ND_Zinc_Picolinate_[SUPP-ND-0049].md",
@@ -262,20 +250,12 @@
     "03-Zettels/Subconscious/Supplements/ND_Clear_Omega_3_[SUPP-ND-0032].md",
     "03-Zettels/Subconscious/Supplements/ND_Nicotinamide_[SUPP-ND-0031].md",
     "03-Zettels/Subconscious/Supplements/ND_Keto_MCT_C8_Oil_[SUPP-ND-0029].md",
-    "03-Zettels/Subconscious/Supplements/ND_Easy_Digest_[SUPP-ND-0030].md",
-    "03-Zettels/Subconscious/Supplements/ND_D-Mannose_Chios_Mastic_[SUPP-ND-0028].md",
-    "03-Zettels/Subconscious/Supplements/ND_Collagen_Peptides_Plus_[SUPP-ND-0027].md",
-    "03-Zettels/Subconscious/Supplements/ND_Anoson_[SUPP-ND-0026].md",
     "03-Zettels/Conscious/Biomarkers/Individual",
     "03-Zettels/Conscious/Fatty_Acids",
     "03-Zettels/Conscious/OAT",
     "09-System/seed-registry.js",
     "09-System/zettel-forge.js",
     "09-System/UID_REGISTRY.json",
-    "02-Literature/sednbUNDe",
-    "09-RON",
-    "02-Literature/sedXwaaun",
-    "02-Literature/sedAeyRfb",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
