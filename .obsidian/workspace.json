@@ -45,30 +45,6 @@
             }
           },
           {
-            "id": "02ff5a949a4ae388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09-System/CHECKLIST-PreFlight.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CHECKLIST-PreFlight"
-            }
-          },
-          {
             "id": "863732e7c0fcb9fd",
             "type": "leaf",
             "state": {
@@ -258,10 +234,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "02ff5a949a4ae388",
+  "active": "863732e7c0fcb9fd",
   "lastOpenFiles": [
-    "09-System/CHECKLIST-Extraction.md",
     "09-System/CHECKLIST-PreFlight.md",
+    "07-Archive/09-System-OPERATIONAL-2026-04-01/zettel-forge.js",
+    "07-Archive/09-System-OPERATIONAL-2026-04-01/seed-registry.js",
+    "07-Archive/09-System-OPERATIONAL-2026-04-01/UID_REGISTRY.json",
+    "07-Archive/09-System-OPERATIONAL-2026-04-01/EMERGENCY-Recovery.md",
+    "07-Archive/09-System-OPERATIONAL-2026-04-01/CHECKLIST-PreFlight.md",
+    "07-Archive/09-System-OPERATIONAL-2026-04-01/CHECKLIST-Extraction.md",
+    "07-Archive/09-System-OPERATIONAL-2026-04-01",
+    "09-System/CHECKLIST-Extraction.md",
     "09-System/09-System.md",
     "09-System/EMERGENCY-Recovery.md",
     "01-References/Other/Theodoridis_etal_2015_Systems_Biology_Greek_Textbook.md",
@@ -284,18 +267,10 @@
     "01-References/Hub/Branca_etal_2019_Food_System_NCD_R-001-0011.md",
     "01-References/Hub/Beebe_etal_2017_Metabolic_Individuality_R-001-0006.md",
     "01-References/Hub/Marchand_etal_2018_Biomarker_Framework_R-001-0009.md",
-    "01-References/Hub/Sarigiannis_etal_2021_Exposome_R-001-0021.md",
-    "01-References/Hub/Tsilimidos_etal_2019_Fatty_Acids_Metabolomics_R-001-0036.md",
-    "01-References/Hub/Tsoukalas_etal_2021_Metabolic_Health_Snapshot_R-001-0025.md",
-    "01-References/Hub/Tsoukalas_etal_2021_Metabolomics_Clinical_R-001-0023.md",
     "09-System/Educational",
     "Base File All Notes.base",
     "00-Inbox/ChatGPT",
     "00-Inbox/Processed/vitamin_d",
-    "00-Inbox/Processed/technology",
-    "00-Inbox/Processed/philosophy",
-    "00-Inbox/Processed/phd_research",
-    "00-Inbox/Processed/personal_development",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
