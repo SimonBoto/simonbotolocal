@@ -1,26 +1,33 @@
 ---
-uid: R-001-0016
+uid: "R-001-0016"
 type: reference
-reference-type: article
 title: "Höller et al. (2018) — Micronutrient status assessment methods"
-authors:
-  - "Höller U, Bakker SJL, Düsterloh A, et al."
+authors: "Höller U, Bakker SJL, Düsterloh A, et al."
 year: "2018"
 journal: "TrAC Trends in Analytical Chemistry"
-volume: ""
-issue: ""
-pages: ""
 doi: "10.1016/j.trac.2018.02.001"
 pmid: ""
-pmcid: ""
-zotero-select: ""
-zotero-key: ""
-url: ""
-pdf-path: ""
+zotero: ""
 tier: "2"
-relevance: |
-  Methodology for micronutrient assessment — potentially useful for METHAP biomarker methodology section
-abstract: |
+status: "pending"
+---
+
+# Höller et al. (2018) — Micronutrient status assessment metho
+
+> **Höller U et al. (2018)**  
+> *TrAC Trends in Analytical Chemistry*  
+> DOI: [10.1016/j.trac.2018.02.001](https://doi.org/10.1016/j.trac.2018.02.001) | PMID: [N/A](https://pubmed.ncbi.nlm.nih.gov/)
+
+---
+
+## 🎯 Why This Matters
+
+Methodology for micronutrient assessment — potentially useful for METHAP biomarker methodology section
+
+---
+
+## 📝 Abstract
+
 This study contributes to our understanding of metabolic health and disease.
 
 **Key findings relevant to our work:**
@@ -39,57 +46,40 @@ This study contributes to our understanding of metabolic health and disease.
 
 notes: |
   
-tags: [reference, micronutrients, assessment, methodology, analytics, tier-2]
-domains:
-  - "001"
-status: "pending"
-extraction-priority: P1
-parent-moc: [[MOC-Research-Methods]]
-connections:
-  extracted-zettels:
-    - "[[Clinical_Assessment_B12_Status_MMA_[Z-001-0441]]]"
-    - "[[Cofactor_Metabolite_Biomarker_Logic_B12_Model_[Z-001-0911]]]"
-  synthesis-links: []
-  related-refs: []
-  supports-claims: []
-  contradicts-claims: []
-  methods-source: []
-litnotes-created: []
-extraction-date: ""
-extracted-by: ""
-quality-score: medium
----
-
-
-# Höller et al. (2018) — Micronutrient status assessment methods
-
-## Citation
-Höller U, Bakker SJL, Düsterloh A, et al. Micronutrient status assessment in humans: current methods of analysis and future trends. TrAC Trends Anal Chem. 2018;102:110-122. doi:10.1016/j.trac.2018.02.001
-
-## Source Context
-**Cited in:** NKUA DE3, Section 2.3 (functional vitamin deficiency diagnosis)  
-**Context:** Analytical methods for micronutrient status evaluation
-
-## Relevance to METHAP Trial
-
-### Methodological Value
-- Supports functional vs. static micronutrient assessment approach
-- May provide analytical validation references
-- Relevant for urine/plasma metabolite methodology
-
-### Potential Applications
-- IRB Section: Analytical methods justification
-- Methods paper references for VitD metabolite analysis
-- Comparison of serum 25(OH)D vs. functional markers
-
-## Research Tasks
-- [ ] Extract key methodological recommendations
-- [ ] Identify if specific to VitD or general micronutrients
-
-## Connections
-- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source citing
--  — Parallel functional assessment
+tags: [reference, micronutrients, assessment, me
 
 ---
-*Status: Reference hub created — pending methods review*  
-*Priority: MEDIUM — Methodology support*
+
+## 💡 Key Findings
+
+- **Finding 1** — To be extracted
+- **Finding 2** — To be extracted
+- **Finding 3** — To be extracted
+
+---
+
+## 🔗 Connected to Our Work
+
+### Supports
+- To be curated
+
+### Methods Source  
+- To be curated
+
+### Related References
+- To be curated
+
+---
+
+## ✅ Extraction Status
+
+- [ ] Abstract reviewed
+- [ ] Key findings extracted
+- [ ] Zettels created
+- [ ] Synthesis integrated
+
+**Status:** pending | **Priority:** P1
+
+---
+
+*Added: 2026-04-01 | Last reviewed: 2026-04-01*

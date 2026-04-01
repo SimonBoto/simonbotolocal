@@ -1,26 +1,33 @@
 ---
-uid: R-001-0029
+uid: "R-001-0029"
 type: reference
-reference-type: article
 title: "Crivelli et al. (2021) — Dietary Oxalate Contribution to Urinary Oxalate"
-authors:
-  - "Crivelli JJ, Mitchell T, Knight J, Wood KD, Assimos DG, Holmes RP, Fargue S"
+authors: "Crivelli JJ, Mitchell T, Knight J, Wood KD, Assimos DG, Holmes RP, Fargue S"
 year: "2021"
 journal: "Nutrients"
-volume: ""
-issue: ""
-pages: ""
 doi: "10.3390/nu13010062"
 pmid: "33374188"
-pmcid: "PMC7823830"
-zotero-select: ""
-zotero-key: ""
-url: ""
-pdf-path: ""
+zotero: ""
 tier: "2"
-relevance: |
-  Oxalate metabolism methodology — demonstrates urine organic acid analytical approach parallel to adipic acid
-abstract: |
+status: "pending"
+---
+
+# Crivelli et al. (2021) — Dietary Oxalate Contribution to Uri
+
+> **Crivelli JJ et al. (2021)**  
+> *Nutrients*  
+> DOI: [10.3390/nu13010062](https://doi.org/10.3390/nu13010062) | PMID: [33374188](https://pubmed.ncbi.nlm.nih.gov/33374188)
+
+---
+
+## 🎯 Why This Matters
+
+Oxalate metabolism methodology — demonstrates urine organic acid analytical approach parallel to adipic acid
+
+---
+
+## 📝 Abstract
+
 This study (PMID: 33374188) contributes to our understanding of metabolic health and disease mechanisms. 
 
 **Key findings relevant to our work:**
@@ -34,58 +41,40 @@ This study (PMID: 33374188) contributes to our understanding of metabolic health
 
 notes: |
   
-tags: [reference, oxalate, urine-organic-acids, dietary, methodology]
-domains:
-  - "001"
-status: "pending"
-extraction-priority: P1
-parent-moc: [[MOC-Research-Methods]]
-connections:
-  extracted-zettels:
-    - "[[Amino_Acid_to_Oxalate_Metabolism_[Z-101-0467]]]"
-    - "[[Carnitine_Fatty_Acid_Transport_[Z-001-0913]]]"
-    - "[[Glucogenic_Ketogenic_Amino_Acid_Classification_[Z-001-0612]]]"
-  synthesis-links: []
-  related-refs: []
-  supports-claims: []
-  contradicts-claims: []
-  methods-source: []
-litnotes-created: []
-extraction-date: ""
-extracted-by: ""
-quality-score: medium
----
-
-
-# Crivelli et al. (2021) — Oxalate Methodology
-
-## Citation
-Crivelli JJ, Mitchell T, Knight J, Wood KD, Assimos DG, Holmes RP, Fargue S. Contribution of Dietary Oxalate and Oxalate Precursors to Urinary Oxalate Excretion. Nutrients. 2021;13(1):62.
-
-## Source Context
-**Cited in:** NKUA DE4, Section 2.1 (protein metabolism disorders)  
-**Context:** Oxalate pathway analysis
-
-## Relevance to METHAP Trial
-
-### Methodological Value
-- Urine organic acid quantification approach
-- Dietary vs. endogenous source discrimination
-- Analytical validation methods
-
-### Adipic Acid Parallel
-- Same analytical class (urine OA)
-- Similar pathway analysis logic
-- Reference range establishment methodology
-
-## Research Tasks
-- [ ] Extract analytical methodology for urine OA
-- [ ] Assess applicability to adipic acid quantification
-
-## Connections
-- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] — Source citing
-- [[Protein_Metabolism_Disorders_Oxalate_Pathway_Z-001-0025]] — Zettel
+tags: [reference, oxalate, 
 
 ---
-*Status: Reference hub created — open access*  
-*Priority: MEDIUM — Methodology reference*
+
+## 💡 Key Findings
+
+- **Finding 1** — To be extracted
+- **Finding 2** — To be extracted
+- **Finding 3** — To be extracted
+
+---
+
+## 🔗 Connected to Our Work
+
+### Supports
+- To be curated
+
+### Methods Source  
+- To be curated
+
+### Related References
+- To be curated
+
+---
+
+## ✅ Extraction Status
+
+- [ ] Abstract reviewed
+- [ ] Key findings extracted
+- [ ] Zettels created
+- [ ] Synthesis integrated
+
+**Status:** pending | **Priority:** P1
+
+---
+
+*Added: 2026-04-01 | Last reviewed: 2026-04-01*

@@ -1,26 +1,33 @@
 ---
-uid: R-001-0036
+uid: "R-001-0036"
 type: reference
-reference-type: article
 title: "Tsilimidos et al. (2019) — Metabolomics Fatty Acids Part II"
-authors:
-  - "Tsilimidos G, Geraci F, et al., Tsatsakis A"
+authors: "Tsilimidos G, Geraci F, et al., Tsatsakis A"
 year: "2019"
 journal: "International Journal of Molecular Medicine"
-volume: ""
-issue: ""
-pages: ""
 doi: "10.3892/ijmm.2018.3989"
 pmid: "30365120"
-pmcid: ""
-zotero-select: ""
-zotero-key: ""
-url: ""
-pdf-path: ""
+zotero: ""
 tier: "2"
-relevance: |
-  Greek-authored fatty acid metabolomics methodology — analytical approach for plasma TFA; regional relevance to NKUA course
-abstract: |
+status: "pending"
+---
+
+# Tsilimidos et al. (2019) — Metabolomics Fatty Acids Part II
+
+> **Tsilimidos G et al. (2019)**  
+> *International Journal of Molecular Medicine*  
+> DOI: [10.3892/ijmm.2018.3989](https://doi.org/10.3892/ijmm.2018.3989) | PMID: [30365120](https://pubmed.ncbi.nlm.nih.gov/30365120)
+
+---
+
+## 🎯 Why This Matters
+
+Greek-authored fatty acid metabolomics methodology — analytical approach for plasma TFA; regional relevance to NKUA course
+
+---
+
+## 📝 Abstract
+
 This study (PMID: 30365120) contributes to our understanding of metabolic health and disease mechanisms. 
 
 **Key findings relevant to our work:**
@@ -34,59 +41,40 @@ This study (PMID: 30365120) contributes to our understanding of metabolic health
 
 notes: |
   
-tags: [reference, fatty-acids, metabolomics, methodology, greek-authors]
-domains:
-  - "001"
-status: "pending"
-extraction-priority: P1
-parent-moc: [[MOC-Research-Methods]]
-connections:
-  extracted-zettels:
-    - "[[Carnitine_Fatty_Acid_Transport_[Z-001-0913]]]"
-    - "[[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_[Z-001-0497]]]"
-    - "[[Omics_Cascade_Genotype_Phenotype_[Z-001-0902]]]"
-  synthesis-links: []
-  related-refs: []
-  supports-claims: []
-  contradicts-claims: []
-  methods-source: []
-litnotes-created: []
-extraction-date: ""
-extracted-by: ""
-quality-score: medium
----
-
-
-# Tsilimidos et al. (2019) — Fatty Acid Metabolomics
-
-## Citation
-Tsilimidos G, Geraci F, et al., Tsatsakis A. Application of metabolomics part II: Focus on fatty acids and their metabolites in healthy adults. Int J Mol Med. 2019;43:233-242.
-
-## Source Context
-**Cited in:** NKUA DE4, Section 2.3  
-**Context:** Fatty acid analytical methodology
-
-## Relevance to METHAP Trial
-
-### Methodological Value
-- **Greek authors** (consistency with NKUA curriculum)
-- **Plasma fatty acid analysis** (METHAP plasma TFA component)
-- **Healthy adult baseline** (reference range data)
-
-### METHAP Applications
-- Analytical validation for plasma TFA panel
-- Reference range establishment
-- Greek population data (relevant for trial location)
-
-## Research Tasks
-- [ ] Extract analytical methodology (LC-MS/MS details)
-- [ ] Assess fatty acid panel composition
-- [ ] Compare to urine OA methodology
-
-## Connections
-- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] — Source citing
-- [[Lipid_Metabolism_Fatty_Acid_IR_Markers_Z-001-0027]] — Zettel
+tags: [reference, fatty-aci
 
 ---
-*Status: Reference hub created — methodology reference*  
-*Priority: MEDIUM — Analytical methods*
+
+## 💡 Key Findings
+
+- **Finding 1** — To be extracted
+- **Finding 2** — To be extracted
+- **Finding 3** — To be extracted
+
+---
+
+## 🔗 Connected to Our Work
+
+### Supports
+- To be curated
+
+### Methods Source  
+- To be curated
+
+### Related References
+- To be curated
+
+---
+
+## ✅ Extraction Status
+
+- [ ] Abstract reviewed
+- [ ] Key findings extracted
+- [ ] Zettels created
+- [ ] Synthesis integrated
+
+**Status:** pending | **Priority:** P1
+
+---
+
+*Added: 2026-04-01 | Last reviewed: 2026-04-01*

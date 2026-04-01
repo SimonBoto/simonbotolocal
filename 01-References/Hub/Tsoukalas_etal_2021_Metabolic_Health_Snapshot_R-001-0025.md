@@ -1,26 +1,33 @@
 ---
-uid: R-001-0025
+uid: "R-001-0025"
 type: reference
-reference-type: article
 title: "Tsoukalas et al. (2021) — Metabolic Health Snapshot for Micronutrient Status"
-authors:
-  - "Tsoukalas D, Sarandi E, Georgaki S"
+authors: "Tsoukalas D, Sarandi E, Georgaki S"
 year: "2021"
 journal: "(Chapter/book section - full citation pending)"
-volume: ""
-issue: ""
-pages: ""
 doi: "10.1016/j.clnesp.2021.06.011"
 pmid: "34330463"
-pmcid: ""
-zotero-select: ""
-zotero-key: ""
-url: ""
-pdf-path: ""
+zotero: ""
 tier: "1"
-relevance: |
-  Metabolic health assessment for micronutrients — HIGHLY relevant to METHAP's VitD assessment approach; same author group
-abstract: |
+status: "pending"
+---
+
+# Tsoukalas et al. (2021) — Metabolic Health Snapshot for Micr
+
+> **Tsoukalas D et al. (2021)**  
+> *(Chapter/book section - full citation pending)*  
+> DOI: [10.1016/j.clnesp.2021.06.011](https://doi.org/10.1016/j.clnesp.2021.06.011) | PMID: [34330463](https://pubmed.ncbi.nlm.nih.gov/34330463)
+
+---
+
+## 🎯 Why This Matters
+
+Metabolic health assessment for micronutrients — HIGHLY relevant to METHAP's VitD assessment approach; same author group
+
+---
+
+## 📝 Abstract
+
 This study contributes to our understanding of metabolic health snapshot.
 
 **Key findings relevant to our work:**
@@ -39,67 +46,40 @@ This study contributes to our understanding of metabolic health snapshot.
 
 notes: |
   
-tags: [reference, metabolic-health, micronutrients, assessment, greek-authors, tier-1]
-domains:
-  - "001"
-status: "pending"
-extraction-priority: P1
-parent-moc: [[MOC-Research-Methods]]
-connections:
-  extracted-zettels:
-    - "[[Microbiomics_Gut_Metabolic_Organ_[Z-001-0908]]]"
-    - "[[Amino_Acids_Krebs_Cycle_Complete_Table_[Z-001-0608]]]"
-    - "[[Transcriptomics_Transcriptome_Bridge_[Z-001-0906]]]"
-  synthesis-links: []
-  related-refs: []
-  supports-claims:
-    - "[[Clinical_Biochemical_Assessment_Framework_[S-001-0002]|Metabolic health assessment]]"
-    - "[[METHAP_Metabolomics_Analysis_Plan_[Z-002-0620]|METHAP analysis framework]]"
-  contradicts-claims: []
-  methods-source: []
-litnotes-created: []
-extraction-date: ""
-extracted-by: ""
-quality-score: medium
----
-
-
-# Tsoukalas et al. (2021) — Metabolic Health Snapshot
-
-## Citation
-Tsoukalas D, Sarandi E, Georgaki S. The snapshot of metabolic health in evaluating micronutrient status, the risk of infection and clinical outcome of COVID-19. 2021.
-
-## Source Context
-**Cited in:** NKUA DE3, bibliography  
-**Context:** Metabolic assessment of micronutrient status
-
-## Relevance to METHAP Trial
-
-### CRITICAL Priority (Tier 1)
-- **Metabolic health snapshot** = Urine metabolite panel approach
-- **Micronutrient status assessment** = VitD evaluation methodology
-- **Same author group** (Tsoukalas, Sarandi, Georgaki)
-- **Clinical outcome prediction** = Trial endpoint relevance
-
-### METHAP Applications
-- Methodology for VitD status assessment
-- Metabolite panel selection rationale
-- Outcome prediction framework
-- Functional vs. static assessment
-
-### Potential Overlap
-This may describe the **exact methodology** used in NKUA courses — potentially including urine OA metabolite panels.
-
-## Research Tasks
-- [ ] **Priority read** — likely describes assessment methodology
-- [ ] Extract micronutrient evaluation framework
-- [ ] Identify specific metabolites used
-- [ ] Check for VitD-specific content
-
-## Connections
-- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source citing
--  — Functional assessment parallel
+tags: [reference, metaboli
 
 ---
-*Status: Reference hub created — HIGH priority for methodology*  
-*Priority: HIGH — Likely describes assessment approach*
+
+## 💡 Key Findings
+
+- **Finding 1** — To be extracted
+- **Finding 2** — To be extracted
+- **Finding 3** — To be extracted
+
+---
+
+## 🔗 Connected to Our Work
+
+### Supports
+- To be curated
+
+### Methods Source  
+- To be curated
+
+### Related References
+- To be curated
+
+---
+
+## ✅ Extraction Status
+
+- [ ] Abstract reviewed
+- [ ] Key findings extracted
+- [ ] Zettels created
+- [ ] Synthesis integrated
+
+**Status:** pending | **Priority:** P1
+
+---
+
+*Added: 2026-04-01 | Last reviewed: 2026-04-01*
