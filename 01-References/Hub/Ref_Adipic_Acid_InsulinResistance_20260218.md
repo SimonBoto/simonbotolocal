@@ -10,8 +10,8 @@ journal: ""
 volume: ""
 issue: ""
 pages: ""
-doi: ""
-pmid: ""
+doi: ""  # TODO: Research needed
+pmid: ""  # TODO: Research needed
 pmcid: ""
 zotero-select: ""
 zotero-key: ""
