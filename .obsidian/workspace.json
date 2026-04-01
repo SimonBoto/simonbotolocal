@@ -236,6 +236,8 @@
   },
   "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "06-Structure/CHECKLIST-PreFlight.md",
+    "06-Structure/Protocols/CHECKLIST-Extraction.md",
     "09-System/zettel-forge.js",
     "09-System/seed-registry.js",
     "09-System/UID_REGISTRY.json",
@@ -270,8 +272,6 @@
     "10-Daily/2026/2026-04-01.md",
     "01-References/Hub/Branca_etal_2019_Food_System_NCD_R-001-0011.md",
     "01-References/Hub/Beebe_etal_2017_Metabolic_Individuality_R-001-0006.md",
-    "01-References/Hub/Marchand_etal_2018_Biomarker_Framework_R-001-0009.md",
-    "09-System/Educational",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
