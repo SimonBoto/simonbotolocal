@@ -1,7 +1,8 @@
 ---
 uid: "{{SUPP-XXX-XXXX}}"
 type: "supplement"
-status: "subconscious"
+status: "{{active|discontinued|considering}}"
+tier: "{{GOLD|SILVER|BRONZE}}"
 name: "{{Product Name}}"
 brand: "{{Brand}}"
 category: "{{category}}"
@@ -15,13 +16,15 @@ target: "{{primary use case}}"
 key_ingredients: ["{{main actives}}"]
 source_url: "{{product URL}}"
 tags: ["{{tags}}"]
+extraction-date: "{{YYYY-MM-DD}}"
 ---
 
 # {{Product Name}} ({{Brand}})
 
 **Product Code:** {{CODE}}  
 **Price:** €{{XX.XX}} ({{XX}} {{form}}s)  
-**Daily Cost:** ~€{{X.XX}}/day ({{X}} {{form}}/day)
+**Daily Cost:** ~€{{X.XX}}/day ({{X}} {{form}}/day)  
+**Business Priority:** {{GOLD/SILVER/BRONZE}}
 
 ## Description
 {{Product description from source}}
@@ -72,8 +75,15 @@ tags: ["{{tags}}"]
 - {{Indication 3}}
 
 ## Biomarker Links
--  — {{relevance}}
+- [[{{Biomarker_Title}}_[B-XXX-XXXX]]] — {{relevance}}
+
+## Related Supplements
+- [[{{Related_Supplement}}_[SUPP-XXX-XXXX]]] — {{relationship}}
+
+## Business Synthesis
+- [[{{Business_Synthesis}}_[S-XXX-XXXX]]] — {{How this product fits business strategy}}
 
 ---
-*Catalog created: {{YYYY-MM-DD}}*  
-*Data source: {{source}}*
+*Catalog created: {{YYYY-MM-DD}} | Last updated: {{YYYY-MM-DD}}*  
+*Data source: {{source}}*  
+*Status: {{status}} | Priority: {{tier}}*
