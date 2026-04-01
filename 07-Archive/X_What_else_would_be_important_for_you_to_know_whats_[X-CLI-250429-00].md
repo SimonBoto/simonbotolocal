@@ -2,7 +2,7 @@
 uid: X-CLI-250429-00
 type: extracted-insight
 title: "What else would be important for you to know? 
-
+"
 whats the indicated initial capi..."
 date: 2025-04-29
 source: "[[CGPT_0099_IV_Clinic_Proposal_Optimization_[CGPT-0099]]]"

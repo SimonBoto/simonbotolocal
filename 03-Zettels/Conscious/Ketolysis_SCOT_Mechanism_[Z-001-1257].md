@@ -5,7 +5,7 @@ title: Ketolysis and SCOT Mechanism — Extrahepatic Ketone Body Utilization
 aliases: [Z-001-1257]
 domain: 001
 tags: [zettel, ketolysis, SCOT, BDH1, ketone-utilization, extrahepatic, brain-fuel]
-parent-moc: [[MOC-Ketone-Metabolism]], [[MOC-Energy-Metabolism]]
+parent-moc: "[[MOC-Ketone-Metabolism]], [[MOC-Energy-Metabolism]]"
 source-litnote: "[[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]"
 status: conscious
 ---

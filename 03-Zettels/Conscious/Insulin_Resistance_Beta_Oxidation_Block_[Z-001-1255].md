@@ -5,7 +5,7 @@ title: Insulin Resistance Beta-Oxidation Block — The Paradox of High FFAs but 
 aliases: [Z-001-1255]
 domain: 001
 tags: [zettel, insulin-resistance, beta-oxidation, lipotoxicity, fatty-acids, metabolic-inflexibility]
-parent-moc: [[MOC-Insulin-Resistance]], [[MOC-Lipid-Metabolism]]
+parent-moc: "[[MOC-Insulin-Resistance]], [[MOC-Lipid-Metabolism]]"
 source-litnote: "[[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]]"
 status: conscious
 ---

@@ -4,7 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: Maybe that's why i also refuse to become rich 
 
 ---
-
+"
 ### 86"
 date: 2025-05-04
 source: [[CGPT_0085_Ron_the_3rd_[CGPT-0085]]]

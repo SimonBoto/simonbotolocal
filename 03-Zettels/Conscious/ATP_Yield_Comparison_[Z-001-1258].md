@@ -5,7 +5,7 @@ title: ATP Yield Comparison — Glucose vs Ketones vs Fatty Acids
 aliases: [Z-001-1258]
 domain: 001
 tags: [zettel, ATP-yield, energy-efficiency, glucose, BHB, fatty-acids, oxidative-phosphorylation]
-parent-moc: [[MOC-Energy-Metabolism]], [[MOC-Bioenergetics]]
+parent-moc: "[[MOC-Energy-Metabolism]], [[MOC-Bioenergetics]]"
 source-litnote: "[[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]"
 status: conscious
 ---

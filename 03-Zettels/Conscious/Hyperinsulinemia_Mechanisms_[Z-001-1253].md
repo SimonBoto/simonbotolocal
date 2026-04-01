@@ -5,7 +5,7 @@ title: Hyperinsulinemia Mechanisms — Lipolysis Suppression and CPT-1 Inhibitio
 aliases: [Z-001-1253]
 domain: 001
 tags: [zettel, hyperinsulinemia, lipolysis, HSL, CPT-1, malonyl-CoA, insulin, metabolic-regulation]
-parent-moc: [[MOC-Insulin-Resistance]], [[MOC-Lipid-Metabolism]]
+parent-moc: "[[MOC-Insulin-Resistance]], [[MOC-Lipid-Metabolism]]"
 source-litnote: "[[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]]"
 status: conscious
 ---

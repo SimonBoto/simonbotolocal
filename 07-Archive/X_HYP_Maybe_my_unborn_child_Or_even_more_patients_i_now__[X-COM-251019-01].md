@@ -6,7 +6,7 @@ title: "Hypothesis: Maybe my unborn child?
 Or even more patients i now don't help
 
 ---
-
+"
 ..."
 date: 2025-10-19
 source: [[CGPT_0046_Wake_up_conversation_design_[CGPT-0046]]]

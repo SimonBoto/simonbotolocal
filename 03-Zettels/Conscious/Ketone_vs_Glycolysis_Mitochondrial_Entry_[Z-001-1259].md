@@ -5,7 +5,7 @@ title: Ketone vs Glycolysis Mitochondrial Entry — Different Routes to Acetyl-C
 aliases: [Z-001-1259]
 domain: 001
 tags: [zettel, ketones, glycolysis, mitochondrial-entry, acetyl-CoA, MCT, PDH, cellular-compartmentalization]
-parent-moc: [[MOC-Energy-Metabolism]], [[MOC-Cellular-Biology]]
+parent-moc: "[[MOC-Energy-Metabolism]], [[MOC-Cellular-Biology]]"
 source-litnote: "[[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]"
 status: conscious
 ---

@@ -5,7 +5,7 @@ title: Metabolic Flexibility Definition — The Capacity for Fuel Switching
 aliases: [Z-001-1254]
 domain: 001
 tags: [zettel, metabolic-flexibility, RER, fuel-switching, metabolic-health, insulin-sensitivity]
-parent-moc: [[MOC-Metabolic-Health]], [[MOC-Insulin-Resistance]]
+parent-moc: "[[MOC-Metabolic-Health]], [[MOC-Insulin-Resistance]]"
 source-litnote: "[[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]]"
 status: conscious
 ---

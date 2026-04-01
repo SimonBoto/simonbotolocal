@@ -5,7 +5,7 @@ title: BHB Production from Fatty Acids — Quantifying Ketogenesis from Palmitic
 aliases: [Z-001-1256]
 domain: 001
 tags: [zettel, BHB, ketogenesis, HMG-CoA, beta-hydroxybutyrate, fatty-acids, palmitic-acid]
-parent-moc: [[MOC-Ketone-Metabolism]], [[MOC-Lipid-Metabolism]]
+parent-moc: "[[MOC-Ketone-Metabolism]], [[MOC-Lipid-Metabolism]]"
 source-litnote: "[[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]"
 status: conscious
 ---
