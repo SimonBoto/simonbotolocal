@@ -61,7 +61,7 @@ quality-score: medium
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Inflammation_Insulin_Resistance_Link_[Z-001-0013]]] — Inflammation-IR connection
+- [[Inflammation_Insulin_Resistance_Link_Z-001-0013]] — Inflammation-IR connection
 
 ---
 

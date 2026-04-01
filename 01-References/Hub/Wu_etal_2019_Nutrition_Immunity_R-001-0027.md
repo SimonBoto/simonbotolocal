@@ -56,7 +56,7 @@ tags: [reference, nutrition
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Immune_Metabolism_Nutrient_Sensing_[Z-001-0912]]] — Nutrition-immune interactions
+- [[Immune_Metabolism_Nutrient_Sensing_Z-001-0912]] — Nutrition-immune interactions
 
 ---
 

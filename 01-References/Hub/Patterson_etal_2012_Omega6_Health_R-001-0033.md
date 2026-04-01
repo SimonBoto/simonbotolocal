@@ -61,7 +61,7 @@ tags: [reference, omega-6, omega-3, inflammation, diet,
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Omega_6_Bioaccumulation_Half_Life_[Z-001-0958]]] — Omega-6 health effects
+- [[Omega_6_Bioaccumulation_Half_Life_Z-001-0958]] — Omega-6 health effects
 
 ---
 

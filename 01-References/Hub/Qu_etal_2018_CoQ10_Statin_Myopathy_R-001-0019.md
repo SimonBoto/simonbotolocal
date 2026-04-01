@@ -61,7 +61,7 @@ tags: [reference, coq10, statin, myopathy, mitochon
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Statin_Myopathy_CoQ10_Depletion_[Z-001-0516]]] — CoQ10 statin protection
+- [[Statin_Myopathy_CoQ10_Depletion_Z-001-0516]] — CoQ10 statin protection
 
 ---
 

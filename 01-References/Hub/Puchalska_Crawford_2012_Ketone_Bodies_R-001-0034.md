@@ -62,7 +62,7 @@ tags: [reference, ketones, fatty-acid-oxidation, metabolism]
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Ketone_Body_Metabolism_Beta_Hydroxybutyrate_[Z-001-0939]]] — Ketone body metabolism
+- [[Ketone_Body_Metabolism_Beta_Hydroxybutyrate_Z-001-0939]] — Ketone body metabolism
 
 ---
 

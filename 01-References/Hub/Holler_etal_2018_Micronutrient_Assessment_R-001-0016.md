@@ -61,7 +61,7 @@ tags: [reference, micronutrients, assessment, me
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Functional_B12_Deficiency_MMA_Assessment_[Z-001-0041]]] — Micronutrient biomarkers
+- [[Functional_B12_Deficiency_MMA_Assessment_Z-001-0041]] — Micronutrient biomarkers
 
 ---
 

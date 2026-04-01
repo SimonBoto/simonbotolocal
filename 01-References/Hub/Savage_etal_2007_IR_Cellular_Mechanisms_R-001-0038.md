@@ -61,7 +61,7 @@ quality-score: medium
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Insulin_Receptor_Substrate_IRS_Phosphorylation_[Z-001-0012]]] — Cellular IR mechanisms
+- [[Insulin_Receptor_Substrate_IRS_Phosphorylation_Z-001-0012]] — Cellular IR mechanisms
 
 ---
 

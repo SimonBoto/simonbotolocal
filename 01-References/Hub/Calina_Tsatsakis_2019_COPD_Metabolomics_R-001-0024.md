@@ -61,7 +61,7 @@ tags: [reference, copd, metabolomics, metabolic-finge
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Metabolomics_Predictive_Modeling_[Z-001-0909]]] — COPD metabolic fingerprint
+- [[Metabolomics_Predictive_Modeling_Z-001-0909]] — COPD metabolic fingerprint
 
 ---
 

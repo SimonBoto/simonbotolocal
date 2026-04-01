@@ -61,7 +61,7 @@ tags: [reference, metabolomics, autoimmunity
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Autoimmunity_Metabolic_Triggers_[Z-001-0913]]] — Autoimmune metabolomics
+- [[Autoimmunity_Metabolic_Triggers_Z-001-0913]] — Autoimmune metabolomics
 
 ---
 

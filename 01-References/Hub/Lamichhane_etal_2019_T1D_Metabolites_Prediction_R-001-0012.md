@@ -61,8 +61,8 @@ tags: [reference, t1d, metabolomics, prediction,
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Metabolomics_Predictive_Modeling_[Z-001-0909]]] — Metabolite prediction models
-- [[Type_1_Diabetes_Metabolic_Signature_[Z-001-0910]]] — T1D metabolic patterns
+- [[Metabolomics_Predictive_Modeling_Z-001-0909]] — Metabolite prediction models
+- [[Type_1_Diabetes_Metabolic_Signature_Z-001-0910]] — T1D metabolic patterns
 
 ---
 

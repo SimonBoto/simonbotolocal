@@ -61,7 +61,7 @@ tags: [reference, metabolomics, clinical
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[METHAP_Metabolomics_Analysis_Plan_[Z-002-0620]]] — Clinical metabolomics
+- [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620]] — Clinical metabolomics
 
 ---
 
