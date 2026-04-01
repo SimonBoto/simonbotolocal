@@ -1,143 +1,51 @@
 # 00-COMMAND — Priority Command Center
 
-**Last Updated:** 2026-04-01 (MASSIVE VAULT TRANSFORMATION COMPLETE)
+**Last Updated:** 2026-04-01
 
 ---
 
-## 🎯 CURRENT P0 (Next Action)
+## 🎯 P0 (Next Action)
 
-### P0-A: Reference Link Verification (CRITICAL)
-**Context:** Reference connections may point to shadow notes — need complete audit
-**Action:** Verify all 55 reference connections point to real zettels, fix broken links
-**ETA:** 1 focused session
-**Blocked by:** None
-**Status:** Identified in 2026-04-01 session, needs completion
-
-### P0-B: ChatGPT Archive Processing
-**Context:** 683 conversations in 00-Inbox/ChatGPT/ awaiting extraction
-**Action:** Systematic extraction to zettels (clinical priority first)
-**ETA:** 10+ sessions
-**Blocked by:** Reference link verification (do first)
-
-### P0-C: OAT Metabolite Training System
-**Context:** 16 biomarker guides complete. OAT metabolites need different approach.
-**Action:** Begin OAT series: mitochondrial → Krebs → neurotransmitters → gut
-**ETA:** 2-3 sessions
-**Blocked by:** None
-
-### P0-D: B2B Business Shadow Site
-**Context:** Metabolomics B2B concept discussed. Need private site.
-**Action:** Create private shadow site structure
-**ETA:** 1 session
-**Blocked by:** None
+| ID | Task | Blocker | ETA |
+|----|------|---------|-----|
+| P0-A | Reference link verification — verify 55 connections | None | 1 session |
+| P0-B | ChatGPT Archive — extract 683 conversations | P0-A | 10+ sessions |
+| P0-C | OAT Metabolite Training — mitochondrial/Krebs/neuro/gut | None | 2-3 sessions |
+| P0-D | B2B Shadow Site — private site structure | None | 1 session |
 
 ---
 
-## ✅ TODAY'S WINS (2026-04-01) — MASSIVE VAULT TRANSFORMATION
+## 📋 P1 (This Week)
 
-| Category | Count | Details |
-|----------|-------|---------|
-| **Keyword Links** | 2,138 | Across all zettels |
-| **Keyword MOCs** | 41 | New in 06-Structure/Keywords/ |
-| **Avg Backlinks** | 5.0 | Up from 2.3 |
-| **References Rebuilt** | 38 | v3.0 minimal format |
-| **Ref Connections** | 55 | Meaningful, contextual |
-| **Phantom Links** | ~3,000 | Eliminated |
-| **RON Genesis Notes** | 5 | Created in 03-Zettels/RON/ |
-| **Templates Extracted** | 4 | New syntheses in 04-Synthesis/ |
-| **ChatGPT Organized** | 683 | Moved to 00-Inbox/ChatGPT/ |
-| **Format Standardized** | 1 | Obsidian-compatible: [[Filename_[Z-XXX-XXXX]|text]] |
-| **Protocol Created** | 1 | LINKING_VERIFICATION_PROTOCOL.md |
-| **System Fix** | 1 | Mandatory filename verification before linking |
-| **Git Commits** | 5 | All linking progress committed |
-| **Duration** | ~13 hours | Extended linking session |
-
-### Linking Enhancement Progress
-- **Batch 1 (Core Metabolic):** 14/20 zettels complete
-- **Batch 2 (Inflammation):** Not started (25 zettels)
-- **Batch 3 (Lipids):** Partial (4/20 complete)
-- **Remaining:** 98 zettels across all batches
+| ID | Task | Context |
+|----|------|---------|
+| P1-A | Adipic Acid Extraction | Domain 101 gap, PhD/IRB critical |
+| P1-B | Inbox Processing | 27 sources aging |
+| P1-C | Zettel Curation | ~50 eligible for 30-day review |
 
 ---
 
-## 📋 ACTIVE QUEUE
+## 🔮 P2 (Soon)
 
-### P1: Adipic Acid Extraction (PhD/IRB Critical)
-**Status:** STILL CRITICAL — Domain 101 gap remains
-**Context:** Core to PhD research, IRB-relevant
-**Next Action:** Schedule focused extraction session
-**Deadline:** Before IRB submission
-
-### P2: Inbox Processing (27 Sources)
-**Status:** CGPT-0133 (Osteopenia), CGPT-0284 (Vit D toxicity), 25 others
-**Context:** Some from February — aging
-**Next Action:** Priority scan, high-yield extraction
-
-### P3: Zettel Curation
-**Status:** ~50 zettels eligible for 30-day review
-**Context:** Conscious → Subconscious promotion
-**Next Action:** Sunday curation pulse
+- Linking Enhancement — Batch 2 (Inflammation, 25 zettels)
+- Linking Enhancement — Batch 3 (Lipids, remaining)
+- Biomarker Guide Expansion — beyond static labs
 
 ---
 
-## ✅ TODAY'S WINS (2026-03-30) — RECORD DAY
+## 🧊 P3 (Backlog)
 
-| Category | Count | Details |
-|----------|-------|---------|
-| **Bare UID Fixes** | 183 links | 68 files repaired |
-| **Syntheses Expanded** | 7 | 137KB clinical guides |
-| **Biomarker Guides** | 16 | Complete static lab panel |
-| **Master Reference** | 1 | All values quick-reference |
-| **Total Commits** | 18 | All pushed to origin |
-| **Duration** | ~11 hours | Comprehensive training system |
-
-### Syntheses Created (7)
-1. IR Playbook Clinical Decision Tool (17KB)
-2. METHAP Protocol Living Document (16.6KB)
-3. Vitamin D Clinical Guide (19.2KB)
-4. Metabolomics Training Curriculum (24.4KB)
-5. Mitochondrial Dysfunction Action (18.3KB)
-6. Research Ethics IRB Checklist (23.3KB)
-7. Omega Fatty Acids Framework (18.1KB)
-
-### Biomarker Guides Created (16)
-1. WBC Comprehensive Clinical Guide (B-001-0001)
-2. Hemoglobin Family (B-001-0002)
-3. Platelets and PDW (B-001-0003)
-4. Iron Studies Family (B-003-0001)
-5. Methylation Family (B-004-0001)
-6. Metabolic IR Family (B-005-0001)
-7. Lipid Ratios (B-006-0001)
-8. Free Fatty Acids Panel (B-006-0002)
-9. Vitamin D-Calcium-PTH Axis (B-007-0001)
-10. Kidney Function Panel (B-008-0001)
-11. Liver Function Panel (B-009-0001)
-12. Thyroid Panel (B-010-0001)
-13. CRP Minimum Inflammation (B-002-0001)
-14. Calprotectin Gut Inflammation (B-002-0002)
-15. Male Hormone Profile (B-011-0001)
-16. Master Biomarker Reference (MASTER-001)
+- Website/Public Presence
+- Book Writing
+- Course Creation
 
 ---
 
-## 🗓️ WEEK AHEAD
+## 🚧 Blockers
 
-| Day | Focus |
-|-----|-------|
-| **Monday** | OAT metabolite system (mitochondrial markers) |
-| **Tuesday** | OAT continued (Krebs, neurotransmitters) |
-| **Wednesday** | B2B shadow site, business planning |
-| **Thursday** | OAT gut dysbiosis, nutritional markers |
-| **Friday** | Integration, case studies, wrap-up |
+None.
 
 ---
 
-## 🚧 BLOCKERS
-
-None currently.
-
----
-
-*Command Center for TheOptimizedBrain v4.1*  
-*RON Operating Protocol L2.5*  
-*Biomarker Training System: COMPLETE (Static Labs) | NEXT: OAT Metabolites*
+*See daily notes for wins and detailed progress.*
+*See HEARTBEAT.md for week-ahead planning.*
