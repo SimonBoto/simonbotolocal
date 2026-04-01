@@ -1,60 +1,54 @@
 ---
-uid: IDX-09
-type: index
-title: "09-System — System Documentation"
-aliases: [System, Documentation]
+uid: SYS-09-IDX
+type: system-index
+title: "09-System — Operational Tools"
+aliases: [System-Tools, Operations]
 domain: system
-tags: [index, system, documentation]
-parent-index: [[00-MISSION]]
+tags: [system, operations, tools, checklists, emergency]
 status: active
 ---
 
-# ⚙️ 09-System — System Documentation
+# ⚙️ 09-System — Operational Tools
 
-**Purpose:** Operational system documentation and emergency protocols.
+**Purpose:** Checklists, emergency protocols, and operational data.
 
-> **Note:** Core system documentation has moved to `~/.openclaw/workspace/`
+> **Core documentation:** `~/.openclaw/workspace/`
 > 
-> See: SOUL.md, USER.md, MEMORY.md, AGENTS.md, TOOLS.md, HEARTBEAT.md, BOOTSTRAP.md, AUTONOMY.md
+> For identity, workflows, and protocols — see core files in workspace.
 
 ---
 
-## 📄 Operational Files (Keep in 09-System)
+## 📋 Checklists (Pre-Flight)
+
+| File | Use |
+|------|-----|
+| **[[CHECKLIST-Extraction]]** | Before every extraction session |
+| **[[CHECKLIST-PreFlight]]** | Quick validation before batch work |
+
+---
+
+## 🚨 Emergency
+
+| File | Use |
+|------|-----|
+| **[[EMERGENCY-Recovery]]** | OpenClaw gateway failures |
+
+---
+
+## 🔧 Operational Data
 
 | File | Purpose |
 |------|---------|
-| **[[SAFETY]]** | OpenClaw emergency recovery protocols |
-| **[[Extraction_Checklist_v1.0]]** | Pre-flight extraction validation |
-| **[[Pre_Flight_Card_v1.0]]** | Quick extraction checklist |
-| **UID_REGISTRY.json** | UID tracking data |
+| **UID_REGISTRY.json** | UID tracking (machine-readable) |
+| **zettel-forge.js** | Automation script |
+| **seed-registry.js** | Template registry |
 
 ---
 
-## 📁 Subfolders
+## 🗄️ Archived Legacy
 
-| Folder | Purpose |
-|--------|---------|
-| **Architecture/** | Design docs (legacy) |
-| **Educational/** | Learning materials |
+Old system docs: `07-Archive/09-System-LEGACY-2026-04-01/`
 
 ---
 
-## 🗄️ Archived
-
-Legacy system docs moved to `07-Archive/09-System-LEGACY-2026-04-01/`:
-- RON_Operating_Manual (content extracted to RON-SYS zettels)
-- Command_Reference (superseded by core files)
-- SYSTEM_README (superseded by TOOLS.md)
-- And others...
-
----
-
-## 🔗 Quick Links
-
-- Core docs: `~/.openclaw/workspace/`
-- Templates: `06-Structure/Templates/`
-- Legacy: `07-Archive/09-System-LEGACY-2026-04-01/`
-
----
-
-_Last updated: 2026-04-01 — cleaned, core docs moved to workspace, operational files retained_
+_Last updated: 2026-04-01 — cleaned, renamed, subfolders removed, core docs referenced_

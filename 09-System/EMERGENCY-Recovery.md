@@ -1,20 +1,20 @@
 ---
-uid: SAFETY-001
-type: safety
-title: OpenClaw Emergency Recovery Protocols
-aliases: [SAFETY, Recovery, Emergency, Gateway-Fix]
+uid: SYS-EMRG-001
+type: emergency-reference
+title: Emergency Recovery — OpenClaw Gateway Failures
+aliases: [Emergency, Recovery, Gateway-Fix, OpenClaw-Down]
 domain: system
-tags: [safety, emergency, gateway, recovery, openclaw]
-status: permanent
+tags: [emergency, recovery, gateway, openclaw, system]
+status: active
 created: 2026-02-23
-updated: 2026-02-23
+updated: 2026-04-01
 ---
 
-# 🚨 SAFETY — OpenClaw Emergency Recovery Protocols
+# 🚨 EMERGENCY-Recovery — OpenClaw Gateway Failures
 
 > **When RON goes silent, the gateway fails, or everything breaks.**
 > 
-> *Last tested: 2026-02-23 | OpenClaw version: 2026.2.19-2*
+> *Last tested: 2026-02-23 | Core files: v2.3+ | OpenClaw: 2026.2.19-2*
 
 ---
 

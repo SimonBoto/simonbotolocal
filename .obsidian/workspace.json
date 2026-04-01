@@ -246,6 +246,12 @@
   },
   "active": "02ff5a949a4ae388",
   "lastOpenFiles": [
+    "09-System/EMERGENCY-Recovery.md",
+    "09-System/CHECKLIST-PreFlight.md",
+    "09-System/CHECKLIST-Extraction.md",
+    "01-References/Other/Theodoridis_etal_2015_Systems_Biology_Greek_Textbook.md",
+    "01-References/Other",
+    "06-Structure/OPTIMAL_LINKING_PLAN.md",
     "07-Archive/09-System-LEGACY-2026-04-01/ZETTEL_REMEDIATION_LOG.md",
     "07-Archive/09-System-LEGACY-2026-04-01/ZETTEL_FORGE_README.md",
     "07-Archive/09-System-LEGACY-2026-04-01/UID_SYSTEM_v2.0.md",
@@ -268,12 +274,7 @@
     "01-References/Hub/Tsoukalas_etal_2021_Metabolic_Health_Snapshot_R-001-0025.md",
     "01-References/Hub/Tsoukalas_etal_2021_Metabolomics_Clinical_R-001-0023.md",
     "01-References/Hub/Tsoukalas_etal_2021_NCDs_Precision_R-001-0022.md",
-    "01-References/Hub/Tsoukalas_Sarandi_2020_Micronutrient_COVID_R-001-0026.md",
-    "06-Structure/Templates/Template_Reference_v3.0.md",
-    "09-System/Educational/Theodoridis_etal_2015_Systems_Biology_Greek_Textbook.md",
     "09-System/Educational",
-    "03-Zettels/RON/RON_Adipic_Acid_Research_Note_[RON-000-0009].md",
-    "01-References/Hub/Wu_etal_2019_Nutrition_Immunity_R-001-0027.md",
     "Base File All Notes.base",
     "00-Inbox/ChatGPT",
     "00-Inbox/Processed/vitamin_d",
@@ -281,7 +282,6 @@
     "00-Inbox/Processed/philosophy",
     "00-Inbox/Processed/phd_research",
     "00-Inbox/Processed/personal_development",
-    "00-Inbox/Processed/nutrition",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
