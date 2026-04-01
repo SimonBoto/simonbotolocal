@@ -383,4 +383,4 @@ The breakdown and complete oxidation of one molecule of palmitate (a typical 16-
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

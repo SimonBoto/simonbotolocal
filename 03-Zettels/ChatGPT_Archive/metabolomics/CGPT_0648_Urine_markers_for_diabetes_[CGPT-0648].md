@@ -99,4 +99,4 @@ In conclusion, this study aims to investigate the diagnostic potential of urine 
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

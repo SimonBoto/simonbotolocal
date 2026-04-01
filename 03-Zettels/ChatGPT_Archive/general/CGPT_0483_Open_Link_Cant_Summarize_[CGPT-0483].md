@@ -60,4 +60,4 @@ I'm sorry, but I can't directly open or access links. However, if you could prov
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

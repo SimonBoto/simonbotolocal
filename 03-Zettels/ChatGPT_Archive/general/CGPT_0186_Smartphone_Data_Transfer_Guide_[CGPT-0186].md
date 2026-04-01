@@ -77,4 +77,4 @@ Let me know if you'd like specific instructions for any of the steps!
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

@@ -316,4 +316,4 @@ Whether you're dealing with a chronic health condition, looking to optimize your
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

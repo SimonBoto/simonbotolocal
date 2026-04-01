@@ -1,10 +1,15 @@
 ---
 uid: CGPT-MOC-001
 type: moc
-title: "ChatGPT Archive — Master Index"
+title: ChatGPT Archive — Master Index
 date: 2026-02-28
-aliases: [ChatGPT-Archive-MOC, CGPT-Archive]
-tags: [moc, chatgpt-archive, index]
+aliases:
+  - ChatGPT-Archive-MOC
+  - CGPT-Archive
+tags:
+  - moc
+  - chatgpt-archive
+  - index
 status: active
 ---
 

@@ -300,4 +300,4 @@ For more creative tools, try [Generate Websites with Ai](https://l.pyxl.ai/Advan
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

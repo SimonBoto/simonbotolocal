@@ -2413,4 +2413,4 @@ In summary, the liver plays a dual role in glucose metabolism, storing excess gl
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

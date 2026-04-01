@@ -48,4 +48,4 @@ Good morning! It sounds like you might be referring to the prices of different i
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

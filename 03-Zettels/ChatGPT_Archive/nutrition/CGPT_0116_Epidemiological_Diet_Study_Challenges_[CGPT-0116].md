@@ -122,4 +122,4 @@ Would you like a summarized version of this explanation for patient use, or a sc
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

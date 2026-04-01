@@ -322,4 +322,4 @@ Sulfur's role in dermatology, especially its natural sources and synthetic produ
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

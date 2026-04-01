@@ -51,4 +51,4 @@ Mitochondria were first described in the 1850s and later named by Carl Benda in 
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

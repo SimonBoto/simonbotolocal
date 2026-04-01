@@ -493,4 +493,4 @@ This layout is designed to maximize comfort and functionality while ensuring eff
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

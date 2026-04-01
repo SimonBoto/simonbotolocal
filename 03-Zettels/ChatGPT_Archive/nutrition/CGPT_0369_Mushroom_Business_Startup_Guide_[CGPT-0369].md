@@ -1103,4 +1103,4 @@ Starting with ready-to-use bags (ready-to-fruit bags) for your first batch is a 
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

@@ -2777,4 +2777,4 @@ Including these elements will provide a more holistic view of the impact of vita
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

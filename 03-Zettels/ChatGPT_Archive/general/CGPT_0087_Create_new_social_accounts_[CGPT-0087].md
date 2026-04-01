@@ -167,4 +167,4 @@ Let me know if you'd like help creating a **separate bio, profile pic, niche ide
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

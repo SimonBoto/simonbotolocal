@@ -100,4 +100,4 @@ It sounds like you're asking whether I'm better than the GPT-4 model. Actually, 
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

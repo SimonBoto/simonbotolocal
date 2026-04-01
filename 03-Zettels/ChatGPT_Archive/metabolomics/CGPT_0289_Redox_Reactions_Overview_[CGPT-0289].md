@@ -446,4 +446,4 @@ Each of these donors plays a role in cellular processes by contributing protons 
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

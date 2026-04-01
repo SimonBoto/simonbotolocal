@@ -77,4 +77,4 @@ As a medical doctor specializing in metabolomics and with a background in insuli
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

@@ -88,4 +88,4 @@ If you are considering Kypseli, it would be beneficial to visit the neighborhood
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

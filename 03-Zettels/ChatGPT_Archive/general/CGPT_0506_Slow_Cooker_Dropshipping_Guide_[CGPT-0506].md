@@ -170,4 +170,4 @@ Given these factors, it's reasonable to expect that it may take a few weeks to a
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

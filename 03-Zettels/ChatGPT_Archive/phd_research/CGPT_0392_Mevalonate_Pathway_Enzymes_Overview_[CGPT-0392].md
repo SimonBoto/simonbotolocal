@@ -91,4 +91,4 @@ This pathway is highly regulated at the level of HMG-CoA Reductase, which is the
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

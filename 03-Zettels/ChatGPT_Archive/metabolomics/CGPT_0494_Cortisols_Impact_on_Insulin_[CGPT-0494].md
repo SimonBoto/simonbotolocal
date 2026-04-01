@@ -82,4 +82,4 @@ Understanding the interplay between cortisol and insulin is crucial in the conte
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

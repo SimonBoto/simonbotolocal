@@ -1169,4 +1169,4 @@ Would you like me to turn this into a reusable fillable template (e.g. with plac
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

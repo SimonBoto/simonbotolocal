@@ -1011,4 +1011,4 @@ By extending your practice with these additional rules, your Zettelkasten will b
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

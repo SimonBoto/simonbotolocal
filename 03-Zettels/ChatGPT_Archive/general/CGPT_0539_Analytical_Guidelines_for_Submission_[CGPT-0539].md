@@ -984,4 +984,4 @@ Certainly. Based on the excerpts you provided from parts 1/12 to 12/12, I will s
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

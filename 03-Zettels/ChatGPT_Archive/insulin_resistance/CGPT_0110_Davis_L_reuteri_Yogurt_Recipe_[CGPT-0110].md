@@ -112,4 +112,4 @@ Would you like the **same recipe adapted for coconut milk**, or a **printable ve
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

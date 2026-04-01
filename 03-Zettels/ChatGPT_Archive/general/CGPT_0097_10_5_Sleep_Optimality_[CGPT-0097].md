@@ -322,4 +322,4 @@ If you have specific preferences or areas you'd like to focus on, such as anxiet
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*

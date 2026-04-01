@@ -1091,4 +1091,4 @@ Feel free to modify any sections to better fit your specific details and needs.
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See [[00_ChatGPT_Archive_MOC]] for navigation.*
