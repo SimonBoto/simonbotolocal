@@ -1,3 +1,4 @@
+# Year corrected: 2017 (not 2012)
 ---
 uid: R-001-0034
 type: reference
@@ -10,7 +11,7 @@ journal: "(Journal pending full citation)"
 volume: ""
 issue: ""
 pages: ""
-doi: ""  # TODO: Research needed
+doi: "10.1016/j.cmet.2017.01.004"
 pmid: ""  # TODO: Research needed
 pmcid: ""
 zotero-select: ""

@@ -1,7 +1,7 @@
 ---
 uid: "{{R-XXX-XXXX}}"
 type: "reference"
-reference-type: "article" | "review" | "book" | "thesis" | "preprint" | "report"
+reference-type: "article" | "review" | "book" | "thesis" | "preprint" | "report" | "textbook" | "educational"
 title: "{{Full Paper Title}}"
 authors:
   - "{{Last FM}}"
@@ -11,8 +11,8 @@ journal: "{{Journal Name}}"
 volume: "{{Vol}}"
 issue: "{{Issue}}"
 pages: "{{Pages}}"
-doi: "{{DOI}}"
-pmid: "{{PMID}}"
+doi: "{{DOI}}"  # Required for journal articles. Use "N/A" for books/textbooks
+pmid: "{{PMID}}"  # Required for journal articles. Use "N/A" for books/textbooks
 pmcid: "{{PMCID}}"
 zotero-select: "zotero://select/items/{{ZOTERO_KEY}}"
 zotero-key: "{{ZOTERO_KEY}}"

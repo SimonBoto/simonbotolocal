@@ -10,8 +10,8 @@ journal: "(Journal/article - full citation pending)"
 volume: ""
 issue: ""
 pages: ""
-doi: ""  # TODO: Research needed
-pmid: ""  # TODO: Research needed
+doi: "10.1136/bmjnph-2020-000169"
+pmid: "33148728"
 pmcid: ""
 zotero-select: ""
 zotero-key: ""

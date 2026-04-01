@@ -10,8 +10,8 @@ journal: "(Chapter/book section - full citation pending)"
 volume: ""
 issue: ""
 pages: ""
-doi: ""  # TODO: Research needed
-pmid: ""  # TODO: Research needed
+doi: "10.1016/j.clnesp.2021.06.011"
+pmid: "34330463"
 pmcid: ""
 zotero-select: ""
 zotero-key: ""

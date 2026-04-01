@@ -48,10 +48,24 @@
             "id": "02ff5a949a4ae388",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01-References/Hub/Tsoukalas_Sarandi_2020_Micronutrient_COVID_R-001-0026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tsoukalas_Sarandi_2020_Micronutrient_COVID_R-001-0026"
             }
           },
           {
@@ -246,6 +260,15 @@
   },
   "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "09-System/Educational/Theodoridis_etal_2015_Systems_Biology_Greek_Textbook.md",
+    "09-System/Educational",
+    "03-Zettels/RON/RON_Adipic_Acid_Research_Note_[RON-000-0009].md",
+    "01-References/Hub/Wu_etal_2019_Nutrition_Immunity_R-001-0027.md",
+    "01-References/Hub/Clayton_etal_2006_Pharmaco_Metabonomics_R-001-0002.md",
+    "01-References/Hub/Calder_2020_Nutrition_Immunity_COVID_R-001-0014.md",
+    "01-References/Hub/Branca_etal_2019_Food_System_NCD_R-001-0011.md",
+    "01-References/Hub/Beebe_etal_2017_Metabolic_Individuality_R-001-0006.md",
+    "01-References/Hub/Andersen_etal_2013_Lactate_Etiology_R-001-0028.md",
     "06-Structure/MOCs/MOC-References-Active.md",
     "06-Structure/Templates/Template_Reference_v2.0.md",
     "Base File All Notes.base",
@@ -266,14 +289,6 @@
     "00-Inbox/ChatGPT",
     "00-Inbox/Processed/vitamin_d/CGPT_0656_New_chat_[CGPT-0656].md",
     "00-Inbox/Processed/vitamin_d/CGPT_0563_Learn_About_Vitamin_D_[CGPT-0563].md",
-    "00-Inbox/Processed/vitamin_d/CGPT_0443_Vitamin_D_MR_Spectroscopy_[CGPT-0443].md",
-    "00-Inbox/Processed/vitamin_d/CGPT_0419_Vitamin_D_Upper_Limits_[CGPT-0419].md",
-    "00-Inbox/Processed/vitamin_d/CGPT_0343_Synthetic_Vitamin_E_[CGPT-0343].md",
-    "00-Inbox/Processed/vitamin_d/CGPT_0339_Vitamin_D_multilevel_effect_and_ancestral_levels_[CGPT-0339].md",
-    "00-Inbox/Processed/vitamin_d/CGPT_0338_Understanding_Vitamin_D_Units_[CGPT-0338].md",
-    "00-Inbox/Processed/vitamin_d/CGPT_0325_Differential_Diagnosis_Summary_[CGPT-0325].md",
-    "00-Inbox/Processed/vitamin_d/CGPT_0284_Vitamin_D_Toxicity_Misconception_[CGPT-0284].md",
-    "00-Inbox/Processed/vitamin_d/CGPT_0280_Micronutrient_Deficiencies_Metabolic_Syndrome_[CGPT-0280].md",
     "00-Inbox/Processed/vitamin_d",
     "00-Inbox/Processed/technology",
     "00-Inbox/Processed/philosophy",
@@ -281,7 +296,6 @@
     "00-Inbox/Processed/personal_development",
     "00-Inbox/Processed/nutrition",
     "00-Inbox/Processed/metabolomics",
-    "00-Inbox/Processed/insulin_resistance",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
