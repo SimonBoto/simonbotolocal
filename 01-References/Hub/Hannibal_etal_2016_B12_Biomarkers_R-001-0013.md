@@ -37,7 +37,9 @@ connections:
     - "[[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052]]]"
   synthesis-links: []
   related-refs: []
-  supports-claims: []
+  supports-claims:
+    - "[[Functional_B12_Deficiency_MMA_Assessment_[Z-001-0041]|MMA biomarker validation]]"
+    - "[[Methylmalonyl_CoA_Mutase_B12_Mechanism_[Z-001-0428]|Cofactor→metabolite model]]"
   contradicts-claims: []
   methods-source: []
 litnotes-created: []

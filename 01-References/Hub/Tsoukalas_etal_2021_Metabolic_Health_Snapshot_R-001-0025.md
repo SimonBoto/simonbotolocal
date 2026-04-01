@@ -37,7 +37,9 @@ connections:
     - "[[Transcriptomics_Transcriptome_Bridge_[Z-001-0906]]]"
   synthesis-links: []
   related-refs: []
-  supports-claims: []
+  supports-claims:
+    - "[[Clinical_Biochemical_Assessment_Framework_[S-001-0002]|Metabolic health assessment]]"
+    - "[[METHAP_Metabolomics_Analysis_Plan_[Z-002-0620]|METHAP analysis framework]]"
   contradicts-claims: []
   methods-source: []
 litnotes-created: []

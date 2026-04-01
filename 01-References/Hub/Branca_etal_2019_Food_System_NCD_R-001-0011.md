@@ -37,7 +37,8 @@ connections:
     - "[[Transcriptomics_Transcriptome_Bridge_[Z-001-0906]]]"
   synthesis-links: []
   related-refs: []
-  supports-claims: []
+  supports-claims:
+    - "[[METHAP_Intervention_Protocol_Diet_Supplements_[Z-001-1142]|METHAP trial rationale - 80% environmental factors]]"
   contradicts-claims: []
   methods-source: []
 litnotes-created: []

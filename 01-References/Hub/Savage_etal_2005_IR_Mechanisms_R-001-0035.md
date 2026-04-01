@@ -37,7 +37,9 @@ connections:
     - "[[Carbohydrate_Metabolism_IR_Biomarkers_[Z-001-0026]]]"
   synthesis-links: []
   related-refs: []
-  supports-claims: []
+  supports-claims:
+    - "[[HOMA_IR_Calculation_Interpretation_[Z-001-0046]|Foundational IR mechanisms]]"
+    - "[[Insulin_Receptor_Substrate_IRS_Phosphorylation_[Z-001-0012]|Lipid-induced insulin resistance]]"
   contradicts-claims: []
   methods-source: []
 litnotes-created: []

@@ -37,7 +37,9 @@ connections:
     - "[[Carnitine_Fatty_Acid_Transport_[Z-001-0913]]]"
   synthesis-links: []
   related-refs: []
-  supports-claims: []
+  supports-claims:
+    - "[[Omega_6_Bioaccumulation_Half_Life_[Z-001-0958]|Desaturase enzyme mechanisms]]"
+    - "[[Fatty_Acid_Desaturase_FADS_Genetics_[Z-001-0536]|Genetic variation in desaturases]]"
   contradicts-claims: []
   methods-source: []
 litnotes-created: []

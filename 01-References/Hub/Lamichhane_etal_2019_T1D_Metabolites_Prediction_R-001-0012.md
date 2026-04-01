@@ -37,7 +37,9 @@ connections:
     - "[[Biomarkers_Precision_Medicine_[Z-001-0909]]]"
   synthesis-links: []
   related-refs: []
-  supports-claims: []
+  supports-claims:
+    - "[[Metabolomics_Predictive_Modeling_[Z-001-0909]|Metabolite prediction models]]"
+    - "[[Type_1_Diabetes_Metabolic_Signature_[Z-001-0910]|T1D metabolic patterns]]"
   contradicts-claims: []
   methods-source: []
 litnotes-created: []
