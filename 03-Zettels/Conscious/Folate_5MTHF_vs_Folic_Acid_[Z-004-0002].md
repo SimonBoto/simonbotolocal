@@ -145,3 +145,7 @@ patient_id,visit,rbc_folate_ng_ml,5_mthf_ng_ml,mthfr_genotype,folate_form_used
 - [[Biomarkers/Methylation_Family_[B-004-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 
+
+
+## Related
+- [[Retest_Scheduling_Followup_Protocols_[Z-004-0003]|Z-004-0003]]

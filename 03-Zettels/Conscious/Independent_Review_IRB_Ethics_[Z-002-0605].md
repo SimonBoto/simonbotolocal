@@ -67,3 +67,11 @@ METHAP requires:
 
 ## Related
 - [[Questionnaire_Ethics_Approval_Strategies_[Z-101-0482]|Z-101-0482]]
+
+
+## Related
+- [[METHAP_Participant_Selection_Sample_Size_[Z-002-0617]|Z-002-0617]]
+
+
+## Related
+- [[METHAP_Metabolomics_Analysis_Plan_[Z-002-0620]|Z-002-0620]]

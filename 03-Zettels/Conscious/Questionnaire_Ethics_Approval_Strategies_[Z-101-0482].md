@@ -197,3 +197,15 @@ Multi-instrument studies require specific ethical considerations beyond standard
 
 ## Related
 - [[Oxalate_Management_CKD_[Z-001-0982]|Z-001-0982]]
+
+
+## Related
+- [[DMF_Nrf2_Antioxidant_Pathway_[Z-101-0006]|Z-101-0006]]
+
+
+## Related
+- [[Omega_Oxidation_vs_Ketogenesis_Distinction_[Z-101-0012]|Z-101-0012]]
+
+
+## Related
+- [[Methotrexate_Low_Dose_Mechanism_Adenosine_[Z-101-0005]|Z-101-0005]]

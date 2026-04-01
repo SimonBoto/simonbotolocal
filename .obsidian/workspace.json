@@ -18,6 +18,30 @@
             }
           },
           {
+            "id": "f010d4b0e2682ff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05-Projects/Assistant/LINK_ARCHITECTURE_DESIGN.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LINK_ARCHITECTURE_DESIGN"
+            }
+          },
+          {
             "id": "0cc9dc776b90aadd",
             "type": "leaf",
             "state": {
@@ -126,8 +150,7 @@
               "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -303,8 +326,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0cc9dc776b90aadd",
+  "active": "7508ddeb5acbd731",
   "lastOpenFiles": [
+    "05-Projects/Assistant/LINK_ARCHITECTURE_DESIGN.md",
+    "07-Archive/ChatGPT_Extracted/00_Extracted_Insights_MOC.md",
     "03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0006_Κλάδος_Vitamin_D_Optimisation_Titles_[CGPT-0006].md",
     "03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0009_AI_Question_Optimization_Coach_[CGPT-0009].md",
     "Untitled.base",
@@ -334,7 +359,6 @@
     "03-Zettels/Subconscious/Supplements/ND_Glutamine_Sport_[SUPP-ND-0036].md",
     "03-Zettels/Subconscious/Supplements/ND_B-Complex_Active_[SUPP-ND-0037].md",
     "03-Zettels/Subconscious/Supplements/ND_Ashwagandha_KSM66_500mg_[SUPP-ND-0034].md",
-    "03-Zettels/Subconscious/Supplements/ND_Healthy_Kid_Multivitamin_[SUPP-ND-0035].md",
     "03-Zettels/Conscious/Biomarkers/Individual",
     "03-Zettels/Conscious/Fatty_Acids",
     "03-Zettels/Conscious/OAT",
