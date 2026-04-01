@@ -54,3 +54,7 @@ Primarily via **Pentose Phosphate Pathway** (not directly from glucose).
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
+
+
+## Related
+- [[Metabolomics_Report_Structure_Standards_[Z-001-1073]|Z-001-1073]]

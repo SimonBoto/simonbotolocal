@@ -73,3 +73,15 @@ extraction-date: 2026-03-01
 
 ## Related
 - [[Glucose_Chemistry_Fischer_19th_Century_[Z-001-0238]|Z-001-0238]]
+
+
+## Related
+- [[Magnesium_Diabetes_Risk_Epidemiological_Evidence_[Z-001-0212]|Z-001-0212]]
+
+
+## Related
+- [[Magnesium_Ion_Transport_Cellular_Signaling_[Z-001-0208]|Z-001-0208]]
+
+
+## Related
+- [[Magnesium_Energy_Production_Mitochondrial_Function_[Z-001-0207]|Z-001-0207]]

@@ -58,3 +58,7 @@ extraction-date: 2026-03-01
 ---
 
 *Source: [[LitNote_Statin_Pharmacology_L-001-0502]]*
+
+
+## Related
+- [[Statin_Major_Clinical_Trials_[Z-001-0510]|Z-001-0510]]

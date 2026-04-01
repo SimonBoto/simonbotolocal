@@ -79,3 +79,7 @@ If 80% of disease risk comes from **environmental modulation of phenotype**, the
 ---
 
 *UID: Z-001-0903 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
+
+
+## Related
+- [[DNA_Methylation_Epigenetic_Regulation_[Z-001-0409]|Z-001-0409]]

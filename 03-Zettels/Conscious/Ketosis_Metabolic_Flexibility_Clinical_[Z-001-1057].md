@@ -78,3 +78,7 @@ The ability to switch between carbohydrate and fat oxidation based on availabili
 
 ---
 *Source: CGPT-0022 — Fatty acid metabolism*
+
+
+## Related
+- [[Ketone_vs_Glycolysis_Mitochondrial_Entry_[Z-001-1259]|Z-001-1259]]

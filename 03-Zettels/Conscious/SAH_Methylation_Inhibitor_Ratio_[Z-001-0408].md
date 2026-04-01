@@ -76,3 +76,7 @@ SAH ↔ Homocysteine + Adenosine
 ---
 
 *Source: [[LitNote_Methylation_Cycle_L-001-0402]]*
+
+
+## Related
+- [[Methylation_Cancer_Double_Edged_Sword_[Z-001-0411]|Z-001-0411]]

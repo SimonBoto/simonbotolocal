@@ -135,3 +135,15 @@ patient_id,visit,tg_mg_dl,hdl_c_mg_dl,tg_hdl_ratio,lipid_ir_status
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 
+
+
+## Related
+- [[Blood_Pressure_Assessment_Hypertension_[Z-001-0053]|Z-001-0053]]
+
+
+## Related
+- [[CBC_Patterns_Interpretation_[Z-000-0001]|Z-000-0001]]
+
+
+## Related
+- [[Liver_Enzyme_Pattern_Recognition_[Z-008-0001]|Z-008-0001]]

@@ -125,3 +125,7 @@ extraction-date: 2026-03-01
 
 *Source: [[LitNote_Magnesium_Supplementation_L-001-0201d]]*  
 *Extracted: 2026-03-01*
+
+
+## Related
+- [[Low_Fat_Era_Consequences_[Z-001-0530]|Z-001-0530]]

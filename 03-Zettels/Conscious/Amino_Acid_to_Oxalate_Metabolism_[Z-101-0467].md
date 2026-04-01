@@ -76,3 +76,11 @@ Hydroxyproline → Glyoxylate → Oxalate
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
+
+
+## Related
+- [[Cysteine_Metabolic_Fates_Glutathione_[Z-001-0435]|Z-001-0435]]
+
+
+## Related
+- [[Vitamin_C_to_Oxalate_Conversion_[Z-001-0607]|Z-001-0607]]

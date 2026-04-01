@@ -167,3 +167,15 @@ extraction-date: 2026-03-01
 
 ## Related
 - [[Mitochondrial_Nutrient_Deficiency_Patterns_[Z-001-0538]|Z-001-0538]]
+
+
+## Related
+- [[Amino_Acid_Sources_Propionyl_CoA_[Z-001-0430]|Z-001-0430]]
+
+
+## Related
+- [[Complete_Methionine_Oxidation_Energy_[Z-001-0437]|Z-001-0437]]
+
+
+## Related
+- [[Homocysteine_Metabolism_[Z-001-0405]|Z-001-0405]]

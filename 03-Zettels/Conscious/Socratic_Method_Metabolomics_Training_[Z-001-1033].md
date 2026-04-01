@@ -72,3 +72,7 @@ Teaching metabolomics through guided inquiry rather than information delivery. T
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*
+
+
+## Related
+- [[Training_Teaching_Style_Framework_[Z-001-1040]|Z-001-1040]]

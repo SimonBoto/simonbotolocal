@@ -62,3 +62,19 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 
 ## Related
 - [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_[Z-001-0225]|Z-001-0225]]
+
+
+## Related
+- [[Treatment_Response_Diagnostic_Test_[Z-001-0425]|Z-001-0425]]
+
+
+## Related
+- [[Aconitase_Catalytic_Mechanism_[Z-001-0541]|Z-001-0541]]
+
+
+## Related
+- [[B12_Requirements_Supplementation_[Z-001-0442]|Z-001-0442]]
+
+
+## Related
+- [[Hematological_Overlap_B12_MM_[Z-001-0420]|Z-001-0420]]

@@ -26,3 +26,7 @@ Fragility fractures—especially of the hip and vertebra—are associated with s
 ---
 
 *UID: Z-001-0078 | Domain: 001 | Created: 2026-03-01*
+
+
+## Related
+- [[Metabolic_Syndrome_Clinical_Manifestations_Presentation_[Z-001-0203]|Z-001-0203]]

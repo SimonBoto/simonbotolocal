@@ -57,3 +57,11 @@ extraction-date: 2026-03-01
 ---
 
 *Source: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]*
+
+
+## Related
+- [[Banting_Best_Discovery_1921_[Z-001-0232]|Z-001-0232]]
+
+
+## Related
+- [[Leonard_Thompson_First_Human_Treatment_1922_[Z-001-0234]|Z-001-0234]]

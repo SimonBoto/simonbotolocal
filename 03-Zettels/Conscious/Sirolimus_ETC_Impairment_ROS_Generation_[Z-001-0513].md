@@ -101,3 +101,7 @@ ETC Impairment → ROS Generation
 ---
 
 *See also: [[Sirolimus_mTORC1_PGC1a_Mitochondrial_Biogenesis_[Z-001-0512]]]*
+
+
+## Related
+- [[mTORC1_Calcium_Homeostasis_mPTP_[Z-001-0922]|Z-001-0922]]

@@ -139,3 +139,6 @@ When chicken fat exceeds **36% omega-6 fatty acids** (common in corn-fed birds):
 ---
 
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
+
+## Related
+- [[Fatty_Acid_Dietary_Strategies_[Z-001-0521]|Z-001-0521]]

@@ -61,3 +61,7 @@ Enhanced LDL clearance
 ---
 
 *Source: [[LitNote_Statin_Pharmacology_L-001-0502]]*
+
+
+## Related
+- [[Cholesterol_Synthesis_Mevalonate_Pathway_[Z-001-0501]|Z-001-0501]]

@@ -164,3 +164,7 @@ Deficient: Fatty acid → Incomplete oxidation → Adipic acid (excreted)
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 
+
+
+## Related
+- [[Lipoproteins_Transport_System_[Z-001-0502]|Z-001-0502]]

@@ -240,3 +240,11 @@ The METHAP intervention combines targeted dietary modifications with evidence-ba
 
 ## Related
 - [[Mevalonate_Clinical_Implications_[Z-001-0548]|Z-001-0548]]
+
+
+## Related
+- [[Organic_Acid_METHAP_Integration_[Z-001-0540]|Z-001-0540]]
+
+
+## Related
+- [[Mevalonate_METHAP_Integration_[Z-001-0549]|Z-001-0549]]

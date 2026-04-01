@@ -165,3 +165,7 @@ Complete oxidation              ADIPATE (C6)
 ---
 
 *Source: [[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]] | 2026-03-08*
+
+
+## Related
+- [[Urine_Organic_Acid_Krebs_Cycle_Markers_[Z-001-0537]|Z-001-0537]]

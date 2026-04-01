@@ -177,3 +177,23 @@ Multi-instrument studies require specific ethical considerations beyond standard
 
 ## Related
 - [[High_Dose_Vitamin_D_Monitoring_Protocol_[Z-001-0075]|Z-001-0075]]
+
+
+## Related
+- [[Government_Dietary_Guidelines_Shift_1970s_[Z-001-0970]|Z-001-0970]]
+
+
+## Related
+- [[IRB_Escalation_Pathways_[Z-002-0615]|Z-002-0615]]
+
+
+## Related
+- [[HbA1c_Targets_Diabetic_CKD_[Z-001-0981]|Z-001-0981]]
+
+
+## Related
+- [[Hypothalamic_Pituitary_Axes_Integration_[Z-001-0995]|Z-001-0995]]
+
+
+## Related
+- [[Oxalate_Management_CKD_[Z-001-0982]|Z-001-0982]]

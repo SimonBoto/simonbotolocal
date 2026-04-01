@@ -90,3 +90,7 @@ Study of how DNA/RNA variations affect drug response:
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 
+
+
+## Related
+- [[Statin_Pharmacogenomics_SLCO1B1_[Z-001-0920]|Z-001-0920]]

@@ -11,9 +11,19 @@
             "id": "7508ddeb5acbd731",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "0cc9dc776b90aadd",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Zettels/Conscious/Biomarkers/Biomarker_Calprotectin_[B-002-0002]_v1.0.md",
+                "file": "07-Archive/ChatGPT_Extracted/00_Extracted_Insights_MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,17 +38,92 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Biomarker_Calprotectin_[B-002-0002]_v1.0"
+              "title": "00_Extracted_Insights_MOC"
+            }
+          },
+          {
+            "id": "8d1a5de8666f4296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0006_Κλάδος_Vitamin_D_Optimisation_Titles_[CGPT-0006].md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CGPT_0006_Κλάδος_Vitamin_D_Optimisation_Titles_[CGPT-0006]"
             }
           },
           {
             "id": "02ff5a949a4ae388",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0009_AI_Question_Optimization_Coach_[CGPT-0009].md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CGPT_0009_AI_Question_Optimization_Coach_[CGPT-0009]"
+            }
+          },
+          {
+            "id": "6a60b821317de404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0008_Vitamin_D_Optimisation_Titles_[CGPT-0008].md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CGPT_0008_Vitamin_D_Optimisation_Titles_[CGPT-0008]"
+            }
+          },
+          {
+            "id": "863732e7c0fcb9fd",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ],
@@ -99,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293.5
   },
   "right": {
     "id": "1a27ab40c31e553d",
@@ -218,8 +303,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "02ff5a949a4ae388",
+  "active": "0cc9dc776b90aadd",
   "lastOpenFiles": [
+    "03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0006_Κλάδος_Vitamin_D_Optimisation_Titles_[CGPT-0006].md",
+    "03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0009_AI_Question_Optimization_Coach_[CGPT-0009].md",
+    "Untitled.base",
+    "03-Zettels/ChatGPT_Archive/vitamin_d/CGPT_0008_Vitamin_D_Optimisation_Titles_[CGPT-0008].md",
     "03-Zettels/Conscious/Biomarkers/Biomarker_Calprotectin_[B-002-0002]_v1.0.md",
     "03-Zettels/Conscious/Biomarkers/Calprotectin_[B-002-0002].md",
     "06-Structure/Templates/06-Structure-Templates.md",
@@ -246,16 +335,11 @@
     "03-Zettels/Subconscious/Supplements/ND_B-Complex_Active_[SUPP-ND-0037].md",
     "03-Zettels/Subconscious/Supplements/ND_Ashwagandha_KSM66_500mg_[SUPP-ND-0034].md",
     "03-Zettels/Subconscious/Supplements/ND_Healthy_Kid_Multivitamin_[SUPP-ND-0035].md",
-    "03-Zettels/Subconscious/Supplements/ND_Vitamin_C_Incell_[SUPP-ND-0033].md",
-    "03-Zettels/Subconscious/Supplements/ND_Clear_Omega_3_[SUPP-ND-0032].md",
-    "03-Zettels/Subconscious/Supplements/ND_Nicotinamide_[SUPP-ND-0031].md",
-    "03-Zettels/Subconscious/Supplements/ND_Keto_MCT_C8_Oil_[SUPP-ND-0029].md",
     "03-Zettels/Conscious/Biomarkers/Individual",
     "03-Zettels/Conscious/Fatty_Acids",
     "03-Zettels/Conscious/OAT",
     "09-System/seed-registry.js",
     "09-System/zettel-forge.js",
-    "09-System/UID_REGISTRY.json",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
