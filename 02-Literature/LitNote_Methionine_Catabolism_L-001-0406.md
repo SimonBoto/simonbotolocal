@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Methionine Catabolism and Transsulfuration Pathway
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445].md]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]
 - **Date:** November 2024
 - **Scope:** Complete methionine degradation, transsulfuration to cysteine, glutathione synthesis
 

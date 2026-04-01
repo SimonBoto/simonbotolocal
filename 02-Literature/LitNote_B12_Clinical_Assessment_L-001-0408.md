@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: B12 Clinical Assessment and Reference Ranges
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0113_Optimal_Biochemical_Ranges_Assessment_[CGPT-0113].md]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0113_Optimal_Biochemical_Ranges_Assessment_[CGPT-0113]]]
 - **Date:** August 2024
 - **Scope:** Reference ranges, optimal values, B12/folate/homocysteine assessment, clinical interpretation
 

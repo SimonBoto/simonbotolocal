@@ -48,7 +48,7 @@ _This file contains Triangle/AppProduction-specific curated memory. For full con
 ## Connections to Master Memory
 
 - [Master MEMORY.md](../../../../../../.openclaw/workspace/MEMORY.md)
-- [Vault SYSTEM_README.md](../../../SYSTEM_README.md)
+- [Vault SYSTEM_README.md](SYSTEM_README.md)
 - [AppProduction Project Folder](../../../05-Projects/AppProduction/)
 
 ---

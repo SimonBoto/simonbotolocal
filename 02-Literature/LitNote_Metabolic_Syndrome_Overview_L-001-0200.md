@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Metabolic Syndrome — Comprehensive Overview
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_[CGPT-0272].md]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_[CGPT-0272]]]
 - **Date:** October 09, 2024
 - **Scope:** Foundational chapter structure for narrative review on MetS definition, epidemiology, pathophysiology, clinical manifestations, and management
 

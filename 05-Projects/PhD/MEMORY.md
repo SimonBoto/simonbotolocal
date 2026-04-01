@@ -54,7 +54,7 @@ _This file contains PhD-specific curated memory. For full context, see `MEMORY.m
 ## Connections to Master Memory
 
 - [Master MEMORY.md](../../../../../../.openclaw/workspace/MEMORY.md)
-- [Vault SYSTEM_README.md](../../../SYSTEM_README.md)
+- [Vault SYSTEM_README.md](SYSTEM_README.md)
 - [PhD Project Folder](../../../05-Projects/PhD/)
 
 ---

@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Vascular Calcification — Mechanisms and Protection
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0230_Synergy_of_D_and_K2_[CGPT-0230].md]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_[CGPT-0230]]]
 - **Date:** December 03, 2024
 - **Scope:** Vascular calcification mechanisms, MGP role, clinical consequences, prevention
 

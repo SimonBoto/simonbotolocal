@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Magnesium — Role in Cardiovascular Health
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_[CGPT-0272].md]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_[CGPT-0272]]]
 - **Date:** October 09, 2024
 - **Scope:** Chapter 5.2 — Magnesium's role in metabolic syndrome components, specifically cardiovascular risk factors
 

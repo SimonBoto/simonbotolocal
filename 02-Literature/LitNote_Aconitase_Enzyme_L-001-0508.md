@@ -17,7 +17,7 @@ source-verified: 2026-03-01
 # Lit: Aconitase Enzyme — Structure, Mechanism, and Iron-Sulfur Cluster
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_[CGPT-0393].md]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_[CGPT-0393]]]
 - **Date:** May 15, 2024
 - **Scope:** Aconitase enzymology, iron-sulfur cluster biochemistry, clinical implications
 

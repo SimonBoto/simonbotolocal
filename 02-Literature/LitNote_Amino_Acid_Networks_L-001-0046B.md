@@ -2,13 +2,23 @@
 uid: L-001-0046B
 type: lit-note
 title: "α-Keto Acids and Amino Acid Networks: Glutamate, Glutamine, Arginine, Aspartate"
-aliases: [L-001-0046B, CGPT-0445-Batch4-Amino-Networks]
-domain: 001
-tags: [litnote, alpha-keto-acids, glutamate, glutamine, arginine, aspartate, networks]
-source: "[[CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]"
+aliases:
+  - L-001-0046B
+  - CGPT-0445-Batch4-Amino-Networks
+domain: 1
+tags:
+  - litnote
+  - alpha-keto-acids
+  - glutamate
+  - glutamine
+  - arginine
+  - aspartate
+  - networks
+source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]"
 extraction-date: 2026-03-04
 status: extracted
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc:
+  - - MOC-Amino-Acid-Metabolism
 ---
 
 # α-Keto Acids and Amino Acid Networks

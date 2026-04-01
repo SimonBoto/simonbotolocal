@@ -2,13 +2,24 @@
 uid: L-001-0046A
 type: lit-note
 title: "Amino Acids Entering Krebs Cycle: Complete Metabolic Map"
-aliases: [L-001-0046A, CGPT-0445-Batch4-Amino-Krebs]
-domain: 001
-tags: [litnote, amino-acids, krebs-cycle, entry-points, enzymes, vitamins, glucogenic, ketogenic]
-source: "[[CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]"
+aliases:
+  - L-001-0046A
+  - CGPT-0445-Batch4-Amino-Krebs
+domain: 1
+tags:
+  - litnote
+  - amino-acids
+  - krebs-cycle
+  - entry-points
+  - enzymes
+  - vitamins
+  - glucogenic
+  - ketogenic
+source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]"
 extraction-date: 2026-03-04
 status: extracted
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc:
+  - - MOC-Amino-Acid-Metabolism
 ---
 
 # Amino Acids Entering Krebs Cycle: The Complete Map

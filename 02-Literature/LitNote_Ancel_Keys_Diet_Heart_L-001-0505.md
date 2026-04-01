@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Ancel Keys and the Diet-Heart Hypothesis
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0074_Seven_Countries_Study_Summary_[CGPT-0074].md]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0074_Seven_Countries_Study_Summary_[CGPT-0074]]]
 - **Date:** Historical and policy analysis
 - **Scope:** Ancel Keys' influence, diet-heart hypothesis, policy evolution, consequences
 

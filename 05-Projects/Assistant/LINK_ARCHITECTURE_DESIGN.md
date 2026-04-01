@@ -1,3 +1,16 @@
+---
+uid: PROJ-001
+type: protocol
+title: Link Architecture Design — Phase 2 Output
+aliases: [Link-Architecture, Biomarker-Linking-Protocol]
+domain: 006
+tags: [protocol, linking, biomarkers, zettelkasten, architecture]
+parent-moc: [[MOC-Biomarkers]]
+status: complete
+created: 2026-03-31
+source-litnote: Synthesized from clinical practice
+---
+
 # LINK ARCHITECTURE DESIGN — PHASE 2 OUTPUT
 
 **Project:** Zettelkasten Linking Enhancement  

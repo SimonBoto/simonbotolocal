@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Oleic Acid and Clinical Applications
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0074_Seven_Countries_Study_Summary_[CGPT-0074].md]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0074_Seven_Countries_Study_Summary_[CGPT-0074]]]
 - **Date:** Clinical applications focus
 - **Scope:** Oleic acid mechanisms, Mediterranean pattern, clinical recommendations, implementation
 

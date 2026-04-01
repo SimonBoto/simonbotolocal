@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Seed Oils, Omega-6/Omega-3 Ratio, and Inflammation
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0074_Seven_Countries_Study_Summary_[CGPT-0074].md]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0074_Seven_Countries_Study_Summary_[CGPT-0074]]]
 - **Date:** Analysis of Seven Countries Study and dietary fat research
 - **Scope:** Seed oils, omega-6/omega-3 ratio, fatty acid metabolism, inflammation, metabolic disease
 

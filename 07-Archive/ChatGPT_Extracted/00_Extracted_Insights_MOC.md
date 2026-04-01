@@ -5,7 +5,8 @@ title: "ChatGPT Extracted Insights — Master Index"
 date: 2026-02-28
 aliases: [ChatGPT-Extracted-MOC]
 tags: [moc, extracted, chatgpt-archive]
-status: active
+status: archived
+parent-moc: [[MOC-Archive-Index]]
 ---
 
 # ChatGPT Extracted Insights — Master Index

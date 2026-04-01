@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 # Lit: ChatGPT 2024 — B-Vitamins and Cancer Metabolism
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0264_Warburg_Effect_and_Cancer_[CGPT-0264].md]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_[CGPT-0264]]]
 - **Date:** October 27, 2024
 
 ## Core Concepts Extracted

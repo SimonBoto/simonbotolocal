@@ -2,13 +2,23 @@
 uid: L-001-0045F
 type: lit-note
 title: "Keto Acids and Organic Acids: Pyruvate, Propionate, and Metabolic Integration"
-aliases: [L-001-0045F, CGPT-0445-Batch2-Acids]
-domain: 001
-tags: [litnote, keto-acids, organic-acids, pyruvate, propionate, gluconeogenesis, b12]
-source: "[[CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]"
+aliases:
+  - L-001-0045F
+  - CGPT-0445-Batch2-Acids
+domain: 1
+tags:
+  - litnote
+  - keto-acids
+  - organic-acids
+  - pyruvate
+  - propionate
+  - gluconeogenesis
+  - b12
+source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]"
 extraction-date: 2026-03-04
 status: extracted
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc:
+  - - MOC-Glycolysis-PPP
 ---
 
 # Keto Acids and Organic Acids

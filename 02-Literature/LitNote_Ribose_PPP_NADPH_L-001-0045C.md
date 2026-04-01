@@ -2,13 +2,23 @@
 uid: L-001-0045C
 type: lit-note
 title: "Ribose Biosynthesis: Pentose Phosphate Pathway and Metabolic Integration"
-aliases: [L-001-0045C, CGPT-0445-Batch1-Ribose]
-domain: 001
-tags: [litnote, ribose, pentose-phosphate-pathway, ppp, nadph, nucleotide-synthesis, glycolysis]
-source: "[[CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]"
+aliases:
+  - L-001-0045C
+  - CGPT-0445-Batch1-Ribose
+domain: 1
+tags:
+  - litnote
+  - ribose
+  - pentose-phosphate-pathway
+  - ppp
+  - nadph
+  - nucleotide-synthesis
+  - glycolysis
+source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]"
 extraction-date: 2026-03-04
 status: extracted
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc:
+  - - MOC-Glycolysis-PPP
 ---
 
 # Ribose Biosynthesis: Pentose Phosphate Pathway

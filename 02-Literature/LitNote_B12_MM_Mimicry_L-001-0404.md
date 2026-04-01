@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: B12 Deficiency Mimicking Multiple Myeloma
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0264_Warburg_Effect_and_Cancer_[CGPT-0264].md]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_[CGPT-0264]]]
 - **Date:** October 27, 2024
 - **Scope:** Your specific question about B12/5-MTHF/D deficiency mimicking MM, diagnostic differentiation
 

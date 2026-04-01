@@ -2,13 +2,24 @@
 uid: L-001-0045G
 type: lit-note
 title: "Ketogenesis and BHB: Energy Substrate and Signaling Molecule"
-aliases: [L-001-0045G, CGPT-0445-Batch3-Ketogenesis]
-domain: 001
-tags: [litnote, ketogenesis, bhb, ketones, signaling, hdac, nlrp3, insulin-resistance]
-source: "[[CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]"
+aliases:
+  - L-001-0045G
+  - CGPT-0445-Batch3-Ketogenesis
+domain: 1
+tags:
+  - litnote
+  - ketogenesis
+  - bhb
+  - ketones
+  - signaling
+  - hdac
+  - nlrp3
+  - insulin-resistance
+source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]"
 extraction-date: 2026-03-04
 status: extracted
-parent-moc: [[MOC-Ketogenesis]]
+parent-moc:
+  - - MOC-Ketogenesis
 ---
 
 # Ketogenesis and BHB: Energy and Signaling

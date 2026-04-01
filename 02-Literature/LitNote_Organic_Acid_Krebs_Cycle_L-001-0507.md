@@ -17,7 +17,7 @@ source-verified: 2026-03-01
 # Lit: Urine Organic Acid Test Interpretation — Krebs Cycle Markers
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_[CGPT-0393].md]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_[CGPT-0393]]]
 - **Date:** May 15, 2024
 - **Scope:** Clinical case of elevated Krebs cycle metabolites, nutrient deficiency analysis, targeted supplementation
 

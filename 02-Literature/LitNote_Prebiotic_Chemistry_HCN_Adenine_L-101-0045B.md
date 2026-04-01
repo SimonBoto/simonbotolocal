@@ -2,13 +2,23 @@
 uid: L-101-0045B
 type: lit-note
 title: "Prebiotic Chemistry: HCN to Adenine and the Origins of Genetic Material"
-aliases: [L-101-0045B, CGPT-0445-Batch1-Prebiotic]
+aliases:
+  - L-101-0045B
+  - CGPT-0445-Batch1-Prebiotic
 domain: 101
-tags: [litnote, prebiotic-chemistry, origin-of-life, hcn, adenine, astrobiology, panspermia]
-source: "[[CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]"
+tags:
+  - litnote
+  - prebiotic-chemistry
+  - origin-of-life
+  - hcn
+  - adenine
+  - astrobiology
+  - panspermia
+source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]"
 extraction-date: 2026-03-04
 status: extracted
-parent-moc: [[MOC-Origins-of-Life]]
+parent-moc:
+  - - MOC-Origins-of-Life
 ---
 
 # Prebiotic Chemistry: HCN to Adenine
