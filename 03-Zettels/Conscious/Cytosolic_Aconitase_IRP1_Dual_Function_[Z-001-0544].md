@@ -53,4 +53,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[IRP1_Iron_Sensing_Molecular_Switch_[Z-001-1205]|Z-001-1205]]

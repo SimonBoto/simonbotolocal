@@ -56,4 +56,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Omega6_Omega3_Ratio_Inflammatory_Potential_[Z-001-0564]|Z-001-0564]]

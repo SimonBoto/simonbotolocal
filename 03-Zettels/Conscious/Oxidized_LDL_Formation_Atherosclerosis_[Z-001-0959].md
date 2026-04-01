@@ -220,6 +220,7 @@ Fatty streak → Atheroma → Plaque → Thrombosis
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

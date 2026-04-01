@@ -79,3 +79,7 @@ Aconitase is the most sensitive TCA cycle enzyme to oxidative stress due to its 
 
 ---
 *Source: CGPT-0022 — Mitochondrial biochemistry*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

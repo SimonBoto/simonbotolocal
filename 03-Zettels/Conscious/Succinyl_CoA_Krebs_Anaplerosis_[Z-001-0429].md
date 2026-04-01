@@ -56,3 +56,7 @@ Can exit to gluconeogenesis
 ---
 
 *Source: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

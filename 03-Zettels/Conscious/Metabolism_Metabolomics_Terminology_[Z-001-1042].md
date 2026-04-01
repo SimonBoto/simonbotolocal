@@ -45,3 +45,7 @@ Metabolomics sees dysfunction before pathology by reading metabolic information.
 
 ---
 *Source: CGPT-0022 — Tsoukalas Core Vocabulary*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

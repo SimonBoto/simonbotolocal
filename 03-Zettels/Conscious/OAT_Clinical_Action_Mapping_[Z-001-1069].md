@@ -82,3 +82,7 @@ Direct translation of OAT markers to clinical interventions.
 
 ---
 *Source: CGPT-0022 — OAT interpretation*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

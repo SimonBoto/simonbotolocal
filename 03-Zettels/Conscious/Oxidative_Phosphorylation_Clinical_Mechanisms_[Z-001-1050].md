@@ -77,3 +77,7 @@ The mitochondrial process where electron transport through Complexes I-IV drives
 
 ---
 *Source: CGPT-0022 — Mitochondrial biochemistry*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

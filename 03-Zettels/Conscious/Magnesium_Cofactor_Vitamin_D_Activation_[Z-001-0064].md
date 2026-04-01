@@ -37,3 +37,7 @@ Magnesium is required as a cofactor for both hydroxylation steps converting vita
 ---
 
 *UID: Z-001-0064 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -77,3 +77,7 @@ Magnesium deficiency contributes to:
 *Source: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]]*  
 *Related: [[LitNote_IR_Mechanisms_Map_L-001-0005]]*  
 *Extracted: 2026-03-01*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

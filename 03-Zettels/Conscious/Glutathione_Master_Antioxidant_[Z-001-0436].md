@@ -55,3 +55,7 @@ Glutamate + Cysteine → γ-Glutamylcysteine (GCL enzyme)
 ---
 
 *Source: [[LitNote_Methionine_Catabolism_L-001-0406]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -125,4 +125,5 @@ CaSR → ↓ PTH secretion
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Vitamin_D_PTH_Calcium_Axis_[Z-001-1059]|Z-001-1059]]

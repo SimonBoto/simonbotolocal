@@ -121,3 +121,7 @@ Metabolites that accumulate due to mitochondrial/TCA defects and promote tumorig
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

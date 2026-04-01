@@ -155,4 +155,5 @@ Adipyl-CoA
 
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_[Z-001-0610]|Z-001-0610]]

@@ -373,3 +373,7 @@ Peer review is the quality control mechanism of scientific publishing. Effective
 **Related:** [[Meta_Analysis_Statistics_[Z-001-1000].md]] | [[Quality_Assessment_Risk_of_Bias_[Z-001-0999].md]] | [[GRADE_Certainty_Evidence_[Z-001-1001].md]]
 
 **Source:** CGPT-0551 — Manuscript Review Critical Concerns
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

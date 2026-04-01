@@ -47,6 +47,7 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]]*
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

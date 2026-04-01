@@ -74,3 +74,6 @@ extraction-date: 2026-03-01
 
 *Source: [[LitNote_Vascular_Calcification_L-001-0215]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

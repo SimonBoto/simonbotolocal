@@ -26,3 +26,7 @@ Like other potent antiresorptives, denosumab has been associated with osteonecro
 ---
 
 *UID: Z-001-0089 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -43,3 +43,7 @@ Citrate → cis-Aconitate + H₂O → Isocitrate
 ---
 
 *Source: [[LitNote_Aconitase_Enzyme_L-001-0508]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

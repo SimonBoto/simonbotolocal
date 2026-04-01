@@ -121,4 +121,5 @@ Builds nucleotides from simple precursors (amino acids, CO₂, formate)
 
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Nucleoside_Formation_Phosphorylation_Pathways_[Z-001-1086]|Z-001-1086]]

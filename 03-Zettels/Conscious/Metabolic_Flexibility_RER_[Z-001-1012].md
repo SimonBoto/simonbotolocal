@@ -282,3 +282,7 @@ Inability to switch fuels appropriately; persistently glucose-dependent.
 **Related:** [[Mitochondrial_Function_Metabolic_Flexibility_[Z-001-0554].md]] | [[Zone_2_Training_Mitochondrial_Biogenesis_[Z-001-0555].md]] | [[Ketone_Bodies_Metabolic_Signaling_[Z-001-0028].md]]
 
 **Source:** CGPT-0124 — Five Pillars of Metabolic Health
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

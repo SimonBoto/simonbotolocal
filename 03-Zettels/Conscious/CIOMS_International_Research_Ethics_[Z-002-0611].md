@@ -92,4 +92,5 @@ If METHAP involves international collaboration:
 
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Independent_Review_IRB_Ethics_[Z-002-0605]|Z-002-0605]]

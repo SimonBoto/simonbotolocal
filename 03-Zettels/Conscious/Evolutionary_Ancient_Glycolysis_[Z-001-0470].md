@@ -86,4 +86,5 @@ Key enzymes ~30-50% identical across domains:
 
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Glycolysis_Steps_Regulation_[Z-001-0467]|Z-001-0467]]

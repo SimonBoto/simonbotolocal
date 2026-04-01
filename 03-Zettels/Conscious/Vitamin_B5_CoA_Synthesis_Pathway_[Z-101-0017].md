@@ -83,3 +83,7 @@ CoA consists of:
 ---
 
 *See also: [[Decarboxylation_Enzymes_Cofactors_[Z-101-0018]]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

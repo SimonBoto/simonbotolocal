@@ -57,3 +57,7 @@ Ascorbate → Dehydroascorbate → Oxalate + Threonate
 
 ---
 *Source: CGPT-0413 | Created: 2026-03-04*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -88,3 +88,7 @@ The transcriptome is the **immediate precursor** of the proteome:
 ---
 
 *UID: Z-001-0906 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -130,3 +130,7 @@ Malignant Transformation
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

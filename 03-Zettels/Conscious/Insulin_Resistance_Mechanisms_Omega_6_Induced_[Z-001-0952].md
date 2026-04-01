@@ -116,3 +116,7 @@ Multiple signaling disruptions → INSULIN RESISTANCE
 **Related:** [[Pro_Inflammatory_Eicosanoids_AA_Derived_PGE2_LTB4_[Z-001-0950].md]] | [[Endotoxin_LPS_Translocation_Gut_Leaky_Gut_[Z-001-0951].md]] | [[Insulin_Resistance_Pathophysiology_[Z-001-0003].md]]
 
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

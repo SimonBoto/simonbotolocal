@@ -55,3 +55,7 @@ Cystathionine → Cysteine + α-Ketobutyrate + NH₃
 ---
 
 *Source: [[LitNote_Methionine_Catabolism_L-001-0406]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

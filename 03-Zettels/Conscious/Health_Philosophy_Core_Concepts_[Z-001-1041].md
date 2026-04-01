@@ -46,3 +46,7 @@ created: 2026-03-08
 
 ---
 *Source: CGPT-0022 — Tsoukalas Core Vocabulary*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

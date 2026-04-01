@@ -127,6 +127,7 @@ Reference          Natural course           Treatment effect
 *Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

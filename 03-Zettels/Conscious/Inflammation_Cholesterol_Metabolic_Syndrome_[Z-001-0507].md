@@ -57,3 +57,7 @@ extraction-date: 2026-03-01
 ---
 
 *Source: [[LitNote_Cholesterol_Biology_L-001-0501]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -84,3 +84,6 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Vascular_Calcification_L-001-0215]]*  
 *Related: [[MGP_Vascular_Protection_Synergy_[Z-001-0255]]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

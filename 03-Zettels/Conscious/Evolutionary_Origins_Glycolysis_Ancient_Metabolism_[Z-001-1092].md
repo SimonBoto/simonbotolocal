@@ -121,3 +121,7 @@ Glycolysis is one of the most ancient metabolic pathways, conserved across all d
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

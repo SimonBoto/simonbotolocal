@@ -331,3 +331,7 @@ The Forrest classification stratifies risk of rebleeding and guides endoscopic t
 **Related:** [[Peptic_Ulcer_Disease_Pathophysiology_[Z-001-1033].md]] | [[Variceal_Bleeding_Management_[Z-001-1034].md]] | [[H_pylori_Diagnosis_Treatment_[Z-001-1035].md]]
 
 **Source:** CGPT-0209 — Gastroenterology Registrar Assessment
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

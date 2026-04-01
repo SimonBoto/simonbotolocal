@@ -59,6 +59,7 @@ Approved therapies for chronic diseases show only 30-60% effectiveness, with sig
 *UID: Z-101-0007 | Domain: 101 | Created: 2026-02-24*
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

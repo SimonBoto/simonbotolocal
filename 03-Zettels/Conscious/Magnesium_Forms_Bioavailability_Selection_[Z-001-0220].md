@@ -128,3 +128,6 @@ Yes → Consider Taurate or Orotate
 
 *Source: [[LitNote_Magnesium_Supplementation_L-001-0201d]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

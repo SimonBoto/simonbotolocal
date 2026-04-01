@@ -287,6 +287,7 @@ Histamine + O2 + H2O → Imidazoleacetaldehyde + NH3 + H2O2
 **Source:** CGPT-0258 — MAOIs and DAO Interaction
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/CRP_[B-002-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

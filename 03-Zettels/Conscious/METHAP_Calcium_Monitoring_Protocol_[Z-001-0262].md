@@ -145,4 +145,5 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[METHAP_Intervention_Protocol_Diet_Supplements_[Z-001-1142]|Z-001-1142]]

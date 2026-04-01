@@ -301,3 +301,7 @@ Cottonseed oil represents:
 **Related:** [[Procter_Gamble_Crisco_Launch_1911_[Z-001-0969].md]] | [[Seed_Oil_Fatty_Acid_Composition_Table_[Z-001-0945].md]] | [[Pre_Industrial_Seed_Oil_Uses_[Z-001-0968].md]]
 
 **Source:** CGPT-0340 — Seed oils history and process
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

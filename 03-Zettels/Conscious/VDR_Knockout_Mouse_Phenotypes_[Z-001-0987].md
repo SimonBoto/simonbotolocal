@@ -270,3 +270,7 @@ Bone demineralization (rickets/osteomalacia)
 - [[Mitochondrial_Knockout_Models_Disease_[Z-001-1166].md]] — Parallel mitochondrial knockout models (NEW)
 
 **Source:** CGPT-0311 — Self-Education Program Plan
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

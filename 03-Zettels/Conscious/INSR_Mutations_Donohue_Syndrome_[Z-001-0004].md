@@ -43,3 +43,7 @@ Mutations in the insulin receptor gene cause extreme insulin resistance syndrome
 **Also in:** [[MOC-Diabetes-T2D]]
 
 **Severity:** Most severe insulin resistance phenotype known
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

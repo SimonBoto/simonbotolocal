@@ -45,3 +45,7 @@ extraction-date: 2026-03-01
 ---
 
 *Source: [[LitNote_Aconitase_Enzyme_L-001-0508]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -41,3 +41,7 @@ IRS-1 and IRS-2 are the primary insulin receptor substrates with distinct tissue
 **Also in:** [[MOC-Insulin-Signaling]]
 
 **Therapeutic insight:** Tissue-selective IRS activation could treat metabolic disease
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

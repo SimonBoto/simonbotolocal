@@ -79,3 +79,7 @@ extraction-date: 2026-03-01
 
 *Source: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]]*  
 *Extracted: 2026-03-01*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

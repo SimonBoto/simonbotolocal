@@ -94,3 +94,7 @@ Magnesium is essential for ATP function and serves as cofactor for over 300 enzy
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

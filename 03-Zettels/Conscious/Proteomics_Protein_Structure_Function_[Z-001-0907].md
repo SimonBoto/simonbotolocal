@@ -99,6 +99,7 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 *UID: Z-001-0907 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

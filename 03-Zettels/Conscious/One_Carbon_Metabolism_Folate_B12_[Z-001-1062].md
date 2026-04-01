@@ -84,3 +84,7 @@ SAH → Homocysteine
 
 ---
 *Source: CGPT-0022 — Vitamin-mineral biochemistry*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

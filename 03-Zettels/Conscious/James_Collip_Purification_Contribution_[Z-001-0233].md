@@ -119,3 +119,6 @@ extraction-date: 2026-03-01
 
 *Source: [[LitNote_Insulin_History_L-001-0207]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

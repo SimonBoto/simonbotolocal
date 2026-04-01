@@ -83,3 +83,7 @@ By end of Week 8, trainees must demonstrate:
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

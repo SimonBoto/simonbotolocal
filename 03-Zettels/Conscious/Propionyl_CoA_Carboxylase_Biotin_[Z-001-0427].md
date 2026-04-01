@@ -52,3 +52,7 @@ Propionyl-CoA + HCO₃⁻ + ATP → D-Methylmalonyl-CoA + ADP + Pi
 ---
 
 *Source: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

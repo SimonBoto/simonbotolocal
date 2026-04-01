@@ -112,3 +112,6 @@ No calcification, flexible arteries
 *Source: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]*  
 *Related: [[Vitamin_K2_Vascular_Calcification_MGP_[Z-001-0228]]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

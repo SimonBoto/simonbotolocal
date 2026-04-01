@@ -165,6 +165,7 @@ Type 2 diabetes, NAFLD, CVD
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

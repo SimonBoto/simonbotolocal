@@ -111,3 +111,7 @@ Gut microbiome status is reflected in specific OAT markers from bacterial and ye
 
 ---
 *Source: CGPT-0022 — OAT interpretation*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

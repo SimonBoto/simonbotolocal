@@ -382,3 +382,7 @@ Acute pancreatitis is acute inflammation of the pancreas with variable involveme
 **Related:** [[Chronic_Pancreatitis_Management_[Z-001-1030].md]] | [[Pancreatic_Pseudocyst_Drainage_[Z-001-1031].md]] | [[Gallstone_Pancreatitis_ERCP_[Z-001-1032].md]]
 
 **Source:** CGPT-0209 — Gastroenterology Registrar Assessment
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

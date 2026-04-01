@@ -26,3 +26,7 @@ Several Asian studies demonstrate fracture risk reduction with MK-4 supplementat
 ---
 
 *UID: Z-001-0093 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -54,4 +54,5 @@ Elevated adipate in urine = evidence of impaired mitochondrial fatty acid oxidat
 
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Complete_Adipate_Metabolism_Formation_to_Krebs_[Z-001-1196]|Z-001-1196]]

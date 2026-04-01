@@ -76,6 +76,7 @@ Essential research papers supporting metabolomics clinical practice.
 *Source: CGPT-0022 — Research bibliography*
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

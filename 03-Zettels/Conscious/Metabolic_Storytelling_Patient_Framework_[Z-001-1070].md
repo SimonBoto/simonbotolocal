@@ -83,3 +83,7 @@ Transform complex metabolomics findings into compelling, understandable narrativ
 
 ---
 *Source: CGPT-0022 — Patient communication*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

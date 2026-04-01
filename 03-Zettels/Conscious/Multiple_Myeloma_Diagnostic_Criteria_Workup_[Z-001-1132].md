@@ -144,6 +144,7 @@ Definitive diagnosis of multiple myeloma requires clonal bone marrow plasma cell
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

@@ -128,4 +128,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_[Z-001-0206]|Z-001-0206]]

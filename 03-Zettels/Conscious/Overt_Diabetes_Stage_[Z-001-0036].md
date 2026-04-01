@@ -53,3 +53,7 @@ Beta-cell mass becomes insufficient to maintain glycemic control, resulting in a
 ---
 
 *UID: Z-001-0036 | Domain: 001 | Created: 2026-02-24*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

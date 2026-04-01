@@ -142,6 +142,7 @@ High-dose VitD → improved omega-6:3 balance (via inflammation reduction) → i
 *Confidence: High* — Established fatty acid-IR associations  
 *Next Review: After fatty acid panel analysis in METHAP cohort*
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

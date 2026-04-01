@@ -146,6 +146,7 @@ patient_id,visit,wbc_k_u_l,hematocrit_pct,hemoglobin_g_dl,platelets_k_u_l,mcv_fl
 *Created: 2026-02-26 | Domain: 000 | Status: Conscious*
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

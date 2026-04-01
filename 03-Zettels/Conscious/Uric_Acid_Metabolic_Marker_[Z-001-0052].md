@@ -133,6 +133,7 @@ patient_id,visit,uric_acid_mg_dl,uric_acid_target_status
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

@@ -133,3 +133,7 @@ Metabolic flexibility is the ability to switch between fuel sources—glucose, f
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

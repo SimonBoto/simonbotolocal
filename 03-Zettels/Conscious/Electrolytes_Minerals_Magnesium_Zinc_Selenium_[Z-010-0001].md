@@ -167,6 +167,7 @@ source-litnote: Synthesized from clinical practice
 *Created: 2026-02-26 | Domain: 010 | Status: Conscious*
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[TG_HDL_Ratio_IR_Marker_[Z-001-0049]|Z-001-0049]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]

@@ -86,3 +86,7 @@ K2-activated MGP directs: → BONE (if needed)
 
 ---
 *Source: CGPT-0022 — Vitamin-mineral biochemistry*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

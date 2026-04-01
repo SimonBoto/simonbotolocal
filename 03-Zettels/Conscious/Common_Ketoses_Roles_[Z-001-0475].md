@@ -70,4 +70,5 @@ Ketoses (especially fructose) are generally **sweeter** than aldoses due to stru
 
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Fructose_Glycolytic_Intermediate_[Z-001-0468]|Z-001-0468]]

@@ -128,3 +128,7 @@ CH₃-CH₂-CH₂-...-CH₂-CH₂-COOH
 ---
 
 *Source: [[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]] | 2026-03-08*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

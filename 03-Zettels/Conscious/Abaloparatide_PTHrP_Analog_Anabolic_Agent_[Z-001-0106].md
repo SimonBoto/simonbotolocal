@@ -131,3 +131,7 @@ Same as teriparatide:
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

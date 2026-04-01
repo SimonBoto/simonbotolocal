@@ -103,3 +103,7 @@ The RNA world hypothesis proposes that early life was based on RNA as both genet
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -108,6 +108,7 @@ Studies reporting VIP > 1 without effect sizes:
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

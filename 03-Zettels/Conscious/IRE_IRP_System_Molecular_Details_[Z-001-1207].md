@@ -256,3 +256,7 @@ Iron status → [Fe-S] status → IRP conformation
 ---
 
 *Source: [[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]] | 2026-03-09*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

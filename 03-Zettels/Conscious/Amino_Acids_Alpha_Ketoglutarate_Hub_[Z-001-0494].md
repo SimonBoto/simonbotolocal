@@ -59,3 +59,7 @@ Glutamate + NAD⁺ + H₂O → α-ketoglutarate + NH₄⁺ + NADH
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -100,3 +100,6 @@ extraction-date: 2026-03-01
 
 *Source: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

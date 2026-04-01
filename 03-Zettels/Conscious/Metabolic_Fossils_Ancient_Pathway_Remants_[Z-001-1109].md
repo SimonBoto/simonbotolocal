@@ -120,3 +120,7 @@ Some metabolic pathways retain features reflecting their evolutionary history—
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

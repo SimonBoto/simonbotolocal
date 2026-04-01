@@ -59,6 +59,7 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]*
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

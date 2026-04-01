@@ -182,4 +182,5 @@ Standardized template for documenting and presenting clinical cases in metabolom
 
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[IRB_Communication_Template_[Z-002-0614]|Z-002-0614]]

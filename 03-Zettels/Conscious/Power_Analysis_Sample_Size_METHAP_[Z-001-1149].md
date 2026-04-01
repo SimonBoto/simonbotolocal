@@ -90,6 +90,7 @@ METHAP trial designed with 220 participants to provide 80% statistical power to 
 
 *Source: [[LitNote_Statistical_Analysis_Omics_L-001-0617]] | 2026-03-09*
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

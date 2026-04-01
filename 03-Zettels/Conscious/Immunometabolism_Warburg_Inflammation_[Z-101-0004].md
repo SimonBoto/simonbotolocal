@@ -51,3 +51,7 @@ Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1
 ---
 
 *UID: Z-101-0004 | Domain: 101 | Created: 2026-02-24*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

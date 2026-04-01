@@ -66,3 +66,7 @@ extraction-date: 2026-03-02
 ---
 
 *See also: [[Adipate_Formation_Palmitate_Pathway_[Z-101-0008]]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

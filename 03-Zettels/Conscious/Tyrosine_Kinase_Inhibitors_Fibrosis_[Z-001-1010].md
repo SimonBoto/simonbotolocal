@@ -301,3 +301,7 @@ Slowed fibrosis progression
 **Related:** [[Nintedanib_Pharmacokinetics_Metabolism_[Z-001-1011].md]] | [[IPF_Pathophysiology_Fibrosis_[Z-001-0025].md]] | [[Pirfenidone_Mechanism_Comparison_[Z-001-0026].md]]
 
 **Source:** CGPT-0064 — Ofev MOA and effects
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

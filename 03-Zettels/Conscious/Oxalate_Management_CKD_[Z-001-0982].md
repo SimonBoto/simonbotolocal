@@ -342,3 +342,7 @@ Calcium oxalate is the most common kidney stone type. CKD patients have increase
 **Related:** [[Calcium_Oxalate_Stone_Pathophysiology_[Z-001-0030].md]] | [[Nephrolithiasis_CKD_Progression_[Z-001-0031].md]]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

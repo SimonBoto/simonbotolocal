@@ -254,3 +254,7 @@ status: conscious
 **Related:** [[IBD_Serological_Markers_ASCA_pANCA_[Z-001-1018].md]] | [[IBD_Extraintestinal_Manifestations_[Z-001-1019].md]] | [[IBD_Treatment_Biologics_[Z-001-1020].md]]
 
 **Source:** CGPT-0209 — Gastroenterology Registrar Assessment
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

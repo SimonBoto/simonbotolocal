@@ -77,3 +77,7 @@ THF ↔ 5,10-Methylene-THF ↔ 5-Methyl-THF
 ---
 
 *Source: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

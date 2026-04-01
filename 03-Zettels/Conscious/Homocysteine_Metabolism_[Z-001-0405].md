@@ -114,3 +114,7 @@ Cystathionine → Cysteine + α-ketobutyrate
 ---
 
 *Source: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

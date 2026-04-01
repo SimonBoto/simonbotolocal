@@ -104,3 +104,7 @@ Standardized formats for live and email metabolomics reports ensuring clarity an
 
 ---
 *Source: CGPT-0022 — Patient communication*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

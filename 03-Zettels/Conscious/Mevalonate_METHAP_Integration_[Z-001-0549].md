@@ -48,3 +48,7 @@ Acetyl-CoA → Cholesterol → 7-Dehydrocholesterol → UV-B → Vitamin D3
 ---
 
 *Source: [[LitNote_Mevalonate_Pathway_L-001-0509]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

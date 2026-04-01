@@ -130,3 +130,7 @@ While primarily a cancer target, IDH highlights:
 ---
 
 *See also: [[Dehydrogenases_vs_Decarboxylases_[Z-101-0019]]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

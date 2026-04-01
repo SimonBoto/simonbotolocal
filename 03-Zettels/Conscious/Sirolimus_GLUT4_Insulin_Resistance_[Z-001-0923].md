@@ -127,3 +127,7 @@ Insulin → Insulin Receptor (autophosphorylation)
 ---
 
 *See also: [[Sirolimus_Beta_Cell_Dysfunction_NODAT_[Z-001-0924]]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

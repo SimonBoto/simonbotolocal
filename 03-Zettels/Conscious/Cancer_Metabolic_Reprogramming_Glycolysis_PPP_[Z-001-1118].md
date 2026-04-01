@@ -109,4 +109,5 @@ Pyruvate → Acetyl-CoA → Fatty acids (for membranes)
 
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[mtDNA_Mutations_Cancer_Metastasis_[Z-001-1167]|Z-001-1167]]

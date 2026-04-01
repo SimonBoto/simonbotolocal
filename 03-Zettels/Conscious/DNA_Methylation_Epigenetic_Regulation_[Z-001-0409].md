@@ -74,3 +74,7 @@ B12/Folate → Methionine → SAM → DNMT activity → DNA methylation
 ---
 
 *Source: [[LitNote_Methylation_Cycle_L-001-0402]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

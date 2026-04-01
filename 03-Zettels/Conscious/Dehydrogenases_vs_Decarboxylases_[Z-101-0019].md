@@ -120,3 +120,7 @@ Isocitrate + NAD⁺ → α-ketoglutarate + CO₂ + NADH + H⁺
 ---
 
 *See also: [[Isocitrate_Dehydrogenase_Dual_Function_[Z-101-0020]]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -293,6 +293,7 @@ A focused panel of metabolic biomarkers provides insight into nutritional status
 **Source:** CGPT-0384 — Biomarkers Briefing
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

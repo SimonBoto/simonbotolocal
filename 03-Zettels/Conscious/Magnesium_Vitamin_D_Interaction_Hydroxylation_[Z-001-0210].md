@@ -111,3 +111,7 @@ Result: Low circulating vitamin D despite adequate intake/sun
 *Related: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]*  
 *Related: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]*  
 *Extracted: 2026-03-01*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -61,4 +61,5 @@ METHAP trial targets individuals with metabolic syndrome/insulin resistance. Und
 
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Magnesium_Dosing_RDA_Therapeutic_Ranges_[Z-001-0219]|Z-001-0219]]

@@ -109,3 +109,7 @@ Ribose-5-P + Xylulose-5-P
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

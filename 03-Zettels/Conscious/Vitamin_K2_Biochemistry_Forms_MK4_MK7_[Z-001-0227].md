@@ -140,3 +140,6 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]]*  
 *Related: [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

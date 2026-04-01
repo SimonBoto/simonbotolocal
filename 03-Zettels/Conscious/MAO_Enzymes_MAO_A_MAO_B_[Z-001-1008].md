@@ -266,3 +266,7 @@ R-CH2-NH2 + O2 + H2O → R-CHO + NH3 + H2O2
 **Related:** [[DAO_Diamine_Oxidase_Histamine_Metabolism_[Z-001-1009].md]] | [[MAOI_Drug_Interactions_Tyramine_[Z-001-0015].md]] | [[Safinamide_Xadago_Parkinsons_[Z-001-0016].md]]
 
 **Source:** CGPT-0258 — MAOIs and DAO Interaction
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

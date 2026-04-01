@@ -47,3 +47,7 @@ Interpreted population associations as individual causation, driving flawed poli
 ---
 
 *Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

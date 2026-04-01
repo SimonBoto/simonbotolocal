@@ -55,3 +55,7 @@ Cysteine → Pyruvate + NH₃ + H₂S
 ---
 
 *Source: [[LitNote_Methionine_Catabolism_L-001-0406]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

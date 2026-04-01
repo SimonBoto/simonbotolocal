@@ -88,3 +88,7 @@ extraction-date: 2026-03-01
 
 *Source: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]*  
 *Extracted: 2026-03-01*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

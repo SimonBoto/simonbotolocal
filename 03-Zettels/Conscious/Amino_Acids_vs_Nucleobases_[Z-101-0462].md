@@ -70,3 +70,7 @@ This structural parallel suggests:
 
 ---
 *Source: CGPT-0445 extraction (Messages 19-20) | Created: 2026-03-04*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -73,3 +73,7 @@ Mature osteoclasts create a **sealed acidic microenvironment** that dissolves bo
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -36,3 +36,7 @@ Vitamin K2 (menaquinone) activates calcium-binding proteins that direct calcium 
 ---
 
 *UID: Z-001-0065 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

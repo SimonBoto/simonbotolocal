@@ -105,3 +105,7 @@ Reference table of key organic acids in metabolism—their structures, sources, 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

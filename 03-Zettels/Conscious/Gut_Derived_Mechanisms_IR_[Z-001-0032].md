@@ -46,3 +46,7 @@ Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muc
 ---
 
 *UID: Z-001-0032 | Domain: 001 | Created: 2026-02-24*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

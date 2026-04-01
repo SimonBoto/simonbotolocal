@@ -115,3 +115,6 @@ extraction-date: 2026-03-01
 *Related: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]*  
 *Related: [[Magnesium_Vitamin_D_Interaction_Hydroxylation_[Z-001-0210]]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

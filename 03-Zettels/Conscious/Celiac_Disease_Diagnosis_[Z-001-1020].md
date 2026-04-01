@@ -363,3 +363,7 @@ Start Gluten-Free Diet
 **Related:** [[Gluten_Sensitivity_Non_Celiac_[Z-001-1027].md]] | [[Refractory_Celiac_Disease_[Z-001-1028].md]] | [[Dermatitis_Herpetiformis_[Z-001-1029].md]]
 
 **Source:** CGPT-0209 — Gastroenterology Registrar Assessment
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -60,3 +60,7 @@ OAT markers reveal cycle dysfunction:
 
 ---
 *Source: CGPT-0022 — Mitochondrial biochemistry*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

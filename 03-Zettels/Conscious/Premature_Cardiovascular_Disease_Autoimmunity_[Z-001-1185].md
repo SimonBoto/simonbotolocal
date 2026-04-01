@@ -144,6 +144,7 @@ status: conscious
 *Source: [[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]] | 2026-03-08*
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Treg_Th17_Balance_VDR_[Z-001-1165]|Z-001-1165]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]

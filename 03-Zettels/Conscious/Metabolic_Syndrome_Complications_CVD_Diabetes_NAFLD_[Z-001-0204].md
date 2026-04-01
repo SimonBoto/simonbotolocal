@@ -114,4 +114,5 @@ Insulin Resistance → Compensatory Hyperinsulinemia → Beta-Cell Exhaustion �
 
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Magnesium_Dosing_RDA_Therapeutic_Ranges_[Z-001-0219]|Z-001-0219]]

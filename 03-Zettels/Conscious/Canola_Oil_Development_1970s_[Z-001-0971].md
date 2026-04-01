@@ -244,3 +244,7 @@ Canola represents:
 **Related:** [[Pre_Industrial_Seed_Oil_Uses_[Z-001-0968].md]] | [[Seed_Oil_Fatty_Acid_Composition_Table_[Z-001-0945].md]] | [[High_Oleic_Varieties_Seed_Oils_[Z-001-0972].md]]
 
 **Source:** CGPT-0340 — Seed oils history and process
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -91,3 +91,7 @@ Elevated acylcarnitines in blood spot testing indicate:
 
 ---
 *Source: CGPT-0022 — Fatty acid metabolism*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

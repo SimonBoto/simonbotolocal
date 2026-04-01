@@ -46,3 +46,7 @@ An alternative insulin signaling pathway involves Cbl-CAP complex and lipid raft
 **Also in:** [[MOC-Insulin-Signaling]]
 
 **Status:** Alternative pathway; quantitative contribution debated
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

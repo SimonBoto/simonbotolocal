@@ -82,6 +82,7 @@ IR participants not receiving intervention:
 *UID: Z-002-0619 | Domain: 002 | Created: 2026-03-27*
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

@@ -359,3 +359,7 @@ Colorectal cancer (CRC) is the third most common cancer and second leading cause
 **Related:** [[Colorectal_Cancer_Pathophysiology_[Z-001-1036].md]] | [[Adenomatous_Polyps_Management_[Z-001-1037].md]] | [[Lynch_Syndrome_Screening_[Z-001-1038].md]]
 
 **Source:** CGPT-0209 — Gastroenterology Registrar Assessment
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

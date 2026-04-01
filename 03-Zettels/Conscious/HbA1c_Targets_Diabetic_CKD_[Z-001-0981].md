@@ -296,3 +296,7 @@ Glycemic control in diabetic chronic kidney disease (CKD) requires balancing ben
 **Related:** [[Diabetic_Nephropathy_Pathophysiology_[Z-001-0018].md]] | [[SGLT2_Inhibitors_Nephroprotection_Mechanism_[Z-001-0020].md]]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

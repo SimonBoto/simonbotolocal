@@ -106,3 +106,7 @@ Mg Deficiency → Insulin Resistance
 
 *Source: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]]*  
 *Extracted: 2026-03-01*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -91,3 +91,6 @@ extraction-date: 2026-03-01
 
 *Source: [[LitNote_Cereal_History_L-001-0211]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

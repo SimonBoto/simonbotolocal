@@ -42,3 +42,7 @@ Isocitrate → α-KG → Succinyl-CoA
 ---
 
 *Source: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

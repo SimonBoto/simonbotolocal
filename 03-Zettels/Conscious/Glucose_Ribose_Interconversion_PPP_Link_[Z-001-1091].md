@@ -101,3 +101,7 @@ Nucleotides (AMP, GMP, etc.)
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

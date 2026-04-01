@@ -55,4 +55,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_[Z-001-0497]|Z-001-0497]]

@@ -416,3 +416,7 @@ MELD-Na = MELD + 1.32×(137-Na) - [0.033×MELD×(137-Na)]
 **Related:** [[Acute_Variceal_Bleeding_Management_[Z-001-1024].md]] | [[TIPS_Procedure_Technique_Complications_[Z-001-1025].md]] | [[Hepatic_Encephalopathy_Precipitants_[Z-001-1026].md]]
 
 **Source:** CGPT-0209 — Gastroenterology Registrar Assessment
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

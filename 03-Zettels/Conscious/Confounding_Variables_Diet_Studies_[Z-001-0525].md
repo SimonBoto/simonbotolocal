@@ -58,3 +58,7 @@ Likely captures **Mediterranean pattern** (olive oil, vegetables, lifestyle) not
 
 ## Related
 - [[Seven_Countries_Study_Reassessment_[Z-001-0518]|Z-001-0518]]
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

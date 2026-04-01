@@ -65,4 +65,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Statin_Mechanism_HMG_CoA_Reductase_[Z-001-0509]|Z-001-0509]]

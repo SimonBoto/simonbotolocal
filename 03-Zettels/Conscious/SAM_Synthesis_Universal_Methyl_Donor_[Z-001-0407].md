@@ -77,3 +77,7 @@ Methionine + ATP → SAM + PPi + Pi
 ---
 
 *Source: [[LitNote_Methylation_Cycle_L-001-0402]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

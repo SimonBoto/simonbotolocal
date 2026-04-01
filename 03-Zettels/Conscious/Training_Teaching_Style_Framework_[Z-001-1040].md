@@ -110,3 +110,7 @@ Choose based on:
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

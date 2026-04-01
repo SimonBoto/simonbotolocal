@@ -186,3 +186,6 @@ Gene transcription modulation
 ---
 
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

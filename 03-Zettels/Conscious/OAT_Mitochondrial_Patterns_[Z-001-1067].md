@@ -90,3 +90,7 @@ Mitochondrial dysfunction produces characteristic OAT signatures across multiple
 
 ---
 *Source: CGPT-0022 — OAT interpretation*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

@@ -26,3 +26,7 @@ Denosumab reduces bone resorption and calcium release from bone, creating risk o
 ---
 
 *UID: Z-001-0088 | Domain: 001 | Created: 2026-03-01*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

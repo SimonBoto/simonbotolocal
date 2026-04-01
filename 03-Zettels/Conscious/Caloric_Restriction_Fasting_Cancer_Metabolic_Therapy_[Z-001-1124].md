@@ -163,3 +163,7 @@ Caloric restriction and fasting induce metabolic changes that can inhibit cancer
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

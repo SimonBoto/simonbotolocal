@@ -57,3 +57,7 @@ updated: 2026-03-05
 ---
 
 *Source: [[LitNote_Statin_Pharmacology_L-001-0502]]*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

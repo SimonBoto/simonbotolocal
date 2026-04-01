@@ -171,3 +171,7 @@ Pyruvate + NAD⁺ + CoA-SH → Acetyl-CoA + NADH + CO₂
 ---
 
 *Source: [[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-001-0630]] | 2026-03-09*
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

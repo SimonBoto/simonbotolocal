@@ -92,3 +92,6 @@ extraction-date: 2026-03-01
 
 *Source: [[LitNote_D_K2_Co_Supplementation_Evidence_L-001-0214]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

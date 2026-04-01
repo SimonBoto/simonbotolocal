@@ -369,6 +369,7 @@ Average glucose (mg/dL) = (28.7 × HbA1c) - 46.7
 **Source:** CGPT-0124 — Five Pillars of Metabolic Health
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]
 

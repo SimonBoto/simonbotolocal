@@ -248,3 +248,7 @@ Endoscopic ultrasound (EUS) combines endoscopy with high-frequency ultrasound im
 **Related:** [[Pancreatic_Cancer_Diagnosis_Staging_[Z-001-1021].md]] | [[GI_Cancer_TNM_Staging_[Z-001-1022].md]] | [[Subepithelial_Lesions_EUS_Characterization_[Z-001-1023].md]]
 
 **Source:** CGPT-0209 — Gastroenterology Registrar Assessment
+
+
+## RELATED FILES
+- [[MOC-INDEX|Master Index]]

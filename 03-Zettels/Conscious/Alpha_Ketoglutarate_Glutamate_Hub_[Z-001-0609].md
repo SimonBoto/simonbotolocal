@@ -71,4 +71,5 @@ Histidine → Urocanate → Formiminoglutamate (FIGLU) → Glutamate → α-Keto
 
 
 ## RELATED FILES
+- [[MOC-INDEX|Master Index]]
 - [[Alpha_Keto_Acids_Metabolic_Intermediates_[Z-001-0500]|Z-001-0500]]
