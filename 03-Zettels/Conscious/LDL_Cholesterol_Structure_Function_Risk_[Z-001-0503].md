@@ -65,3 +65,8 @@ Cholesterol released (regulates SREBP-2)
 ---
 
 *Source: [[LitNote_Cholesterol_Biology_L-001-0501]]*
+
+
+## RELATED FILES
+- [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
+- [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

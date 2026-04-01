@@ -50,3 +50,8 @@ extraction-date: 2026-03-01
 ---
 
 *Source: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]]*
+
+
+## RELATED FILES
+- [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
+- [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

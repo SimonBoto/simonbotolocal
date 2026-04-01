@@ -85,3 +85,8 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 ---
 
 *Source: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]*
+
+
+## RELATED FILES
+- [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
+- [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

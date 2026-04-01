@@ -156,3 +156,7 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]]*  
 *Related: [[Magnesium_Lipid_Metabolism_Dyslipidemia_[Z-001-0217]]]*  
 *Extracted: 2026-03-01*
+
+## RELATED FILES
+- [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
+- [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

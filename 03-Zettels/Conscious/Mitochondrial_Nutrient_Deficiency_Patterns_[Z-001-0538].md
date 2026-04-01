@@ -50,3 +50,8 @@ General dysfunction → CoQ10 deficiency
 ---
 
 *Source: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]]*
+
+
+## RELATED FILES
+- [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
+- [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

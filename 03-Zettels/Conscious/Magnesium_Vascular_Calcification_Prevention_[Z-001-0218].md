@@ -165,3 +165,8 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]]*  
 *Related: [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]]*  
 *Extracted: 2026-03-01*
+
+
+## RELATED FILES
+- [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
+- [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]
