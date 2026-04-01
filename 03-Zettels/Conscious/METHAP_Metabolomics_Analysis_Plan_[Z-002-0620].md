@@ -83,6 +83,7 @@ METHAP advances IR diagnostics by:
 *UID: Z-002-0620 | Domain: 002 | Created: 2026-03-27*
 
 ## RELATED FILES
+- [[KEYWORD-Metabolomics]]
 - [[MOC-INDEX|Master Index]]
 - [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
 - [[MOC-Biomarkers|Biomarkers MOC]]

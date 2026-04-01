@@ -48,4 +48,5 @@ Metabolomics sees dysfunction before pathology by reading metabolic information.
 
 
 ## RELATED FILES
+- [[KEYWORD-Metabolism]]
 - [[MOC-INDEX|Master Index]]

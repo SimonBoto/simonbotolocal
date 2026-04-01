@@ -136,4 +136,5 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
+- [[KEYWORD-Insulin]]
 - [[MOC-INDEX|Master Index]]

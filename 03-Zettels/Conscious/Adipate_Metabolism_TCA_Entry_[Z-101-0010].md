@@ -7,7 +7,7 @@ domain: 101
 tags: [zettel, adipate, TCA-cycle, beta-oxidation, acetyl-CoA, succinyl-CoA]
 parent-moc: [[MOC-Pharmacometabolomics]]
 status: conscious
-source: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]]"
+source-litnote: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]]"
 extraction-date: 2026-03-02
 ---
 
@@ -65,4 +65,5 @@ extraction-date: 2026-03-02
 
 
 ## RELATED FILES
+- [[KEYWORD-Krebs_Cycle]]
 - [[MOC-INDEX|Master Index]]

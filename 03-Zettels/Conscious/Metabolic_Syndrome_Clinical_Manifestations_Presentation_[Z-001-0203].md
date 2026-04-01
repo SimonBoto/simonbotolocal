@@ -82,4 +82,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
+- [[KEYWORD-Metabolic_Syndrome]]
 - [[MOC-INDEX|Master Index]]

@@ -142,4 +142,5 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
+- [[KEYWORD-Vitamin_K2]]
 - [[MOC-INDEX|Master Index]]
