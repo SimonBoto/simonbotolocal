@@ -61,13 +61,7 @@ tags: [reference, metabolism, immunity, autoimmunity, self-
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[Immune_Metabolism_Nutrient_Sensing_[Z-001-0912]]] — Metabolic pressure immunity
 
 ---
 

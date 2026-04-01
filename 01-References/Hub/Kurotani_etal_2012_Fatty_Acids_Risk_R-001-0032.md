@@ -61,13 +61,7 @@ tags: [reference, fatty-acids, metabolic-risk, biomarker-patt
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[Fatty_Acids_Inflammation_Resolution_[Z-001-0564]]] — FA composition risk
 
 ---
 

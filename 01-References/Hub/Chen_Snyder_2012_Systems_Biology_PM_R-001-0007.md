@@ -60,14 +60,8 @@ tags: [ref, s
 
 ## 🔗 Connected to Our Work
 
-### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+### Methods
+- [[Metabolomics_Precision_Medicine_[Z-001-0909]]] — Systems biology approach
 
 ---
 

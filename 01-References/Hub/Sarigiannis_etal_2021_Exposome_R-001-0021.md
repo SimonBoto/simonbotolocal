@@ -61,13 +61,7 @@ tags: [reference, exp
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[Environmental_Toxins_Metabolic_Health_[Z-001-0526]]] — Exposome assessment
 
 ---
 

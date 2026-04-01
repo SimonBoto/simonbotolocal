@@ -61,13 +61,7 @@ tags: [reference, t1d, metabolomics, islet-autoimmun
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[Type_1_Diabetes_Metabolic_Signature_[Z-001-0910]]] — T1D metabolomics prediction
 
 ---
 

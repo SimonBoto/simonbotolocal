@@ -61,13 +61,7 @@ quality-score: medium
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[Insulin_Receptor_Substrate_IRS_Phosphorylation_[Z-001-0012]]] — Cellular IR mechanisms
 
 ---
 

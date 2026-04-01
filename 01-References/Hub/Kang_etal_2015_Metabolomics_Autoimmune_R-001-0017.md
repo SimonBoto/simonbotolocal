@@ -61,13 +61,7 @@ tags: [reference, metabolomics, autoimmunity
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[Autoimmunity_Metabolic_Triggers_[Z-001-0913]]] — Autoimmune metabolomics
 
 ---
 

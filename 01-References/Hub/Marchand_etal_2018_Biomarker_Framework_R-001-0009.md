@@ -60,14 +60,8 @@ tags: [ref, biomarkers, metabolomics, framework, know
 
 ## 🔗 Connected to Our Work
 
-### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+### Methods
+- [[Clinical_Biochemical_Assessment_Framework_[S-001-0002]]] — Biomarker framework
 
 ---
 

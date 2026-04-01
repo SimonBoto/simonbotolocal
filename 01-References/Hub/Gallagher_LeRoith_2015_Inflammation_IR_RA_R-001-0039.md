@@ -61,13 +61,7 @@ quality-score: medium
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[Inflammation_Insulin_Resistance_Link_[Z-001-0013]]] — Inflammation-IR connection
 
 ---
 

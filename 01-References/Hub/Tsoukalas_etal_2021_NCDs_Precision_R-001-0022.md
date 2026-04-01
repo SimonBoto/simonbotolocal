@@ -61,13 +61,7 @@ tags: [reference, ncds, precision-medicine, me
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[METHAP_Study_Design_Overview_[Z-101-0472]]] — NCDs precision medicine
 
 ---
 

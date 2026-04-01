@@ -56,13 +56,7 @@ tags: [reference, oxalate,
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[Oxalate_Management_CKD_[Z-001-0982]]] — Dietary oxalate contribution
 
 ---
 

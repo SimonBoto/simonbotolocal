@@ -60,14 +60,8 @@ tags: [ref,
 
 ## 🔗 Connected to Our Work
 
-### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+### Methods
+- [[METHAP_Metabolomics_Analysis_Plan_[Z-002-0620]]] — Metabolomics standardization
 
 ---
 

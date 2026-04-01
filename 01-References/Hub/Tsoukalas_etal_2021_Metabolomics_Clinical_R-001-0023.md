@@ -61,13 +61,7 @@ tags: [reference, metabolomics, clinical
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[METHAP_Metabolomics_Analysis_Plan_[Z-002-0620]]] — Clinical metabolomics
 
 ---
 

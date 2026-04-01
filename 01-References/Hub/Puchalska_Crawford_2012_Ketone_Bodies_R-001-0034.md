@@ -62,13 +62,7 @@ tags: [reference, ketones, fatty-acid-oxidation, metabolism]
 ## 🔗 Connected to Our Work
 
 ### Supports
-- To be curated
-
-### Methods Source  
-- To be curated
-
-### Related References
-- To be curated
+- [[Ketone_Body_Metabolism_Beta_Hydroxybutyrate_[Z-001-0939]]] — Ketone body metabolism
 
 ---
 
