@@ -1,79 +1,60 @@
 ---
 uid: IDX-09
-folder: 09-System
 type: index
-title: "09-System — Documentation"
-aliases: [System, Documentation, Architecture]
-tags: [index, system, documentation, architecture, folder]
+title: "09-System — System Documentation"
+aliases: [System, Documentation]
+domain: system
+tags: [index, system, documentation]
 parent-index: [[00-MISSION]]
-child-folders: 
 status: active
 ---
 
-# ⚙️ 09-System — Documentation
+# ⚙️ 09-System — System Documentation
 
-**Purpose:** System documentation. Architecture, protocols, reference. The "how this vault works" layer.
+**Purpose:** Operational system documentation and emergency protocols.
 
-> *"Document the system. Then trust the system."*
+> **Note:** Core system documentation has moved to `~/.openclaw/workspace/`
+> 
+> See: SOUL.md, USER.md, MEMORY.md, AGENTS.md, TOOLS.md, HEARTBEAT.md, BOOTSTRAP.md, AUTONOMY.md
+
+---
+
+## 📄 Operational Files (Keep in 09-System)
+
+| File | Purpose |
+|------|---------|
+| **[[SAFETY]]** | OpenClaw emergency recovery protocols |
+| **[[Extraction_Checklist_v1.0]]** | Pre-flight extraction validation |
+| **[[Pre_Flight_Card_v1.0]]** | Quick extraction checklist |
+| **UID_REGISTRY.json** | UID tracking data |
 
 ---
 
 ## 📁 Subfolders
 
-| Folder | Purpose | Contents |
-|--------|---------|----------|
-| **** | Design docs | Template requirements, curation plans |
+| Folder | Purpose |
+|--------|---------|
+| **Architecture/** | Design docs (legacy) |
+| **Educational/** | Learning materials |
 
 ---
 
-## 📄 Core System Files
+## 🗄️ Archived
 
-| File | Purpose | Status |
-|------|---------|--------|
-| **[[RON_Operating_Manual_[RON-SYS-003]\|RON Operating Manual]]** | Complete RON system reference | ⭐ Master doc |
-| **** | Voice commands for directing RON | Active |
-| **** | Maintenance checklist | Monthly review |
-| **** | Quick extraction checklist | Per extraction |
-| **** | Quality control | Per extraction |
-| **** | Naming conventions | Reference |
-| **** | Terms, aliases | Reference |
-| **** | Emergency procedures | Emergency only |
+Legacy system docs moved to `07-Archive/09-System-LEGACY-2026-04-01/`:
+- RON_Operating_Manual (content extracted to RON-SYS zettels)
+- Command_Reference (superseded by core files)
+- SYSTEM_README (superseded by TOOLS.md)
+- And others...
 
 ---
 
-## 🏗️ Architecture Files
+## 🔗 Quick Links
 
-| File | Purpose | Status |
-|------|---------|--------|
-| **** | Template specifications | Historical |
-| **** | Curation automation | Historical |
-| **[[09-System/Architecture/OPTIMAL_LINKING_PLAN]]** | Linking strategy | Reference |
+- Core docs: `~/.openclaw/workspace/`
+- Templates: `06-Structure/Templates/`
+- Legacy: `07-Archive/09-System-LEGACY-2026-04-01/`
 
 ---
 
-## 📊 System Status (Post-Cleanup)
-
-| Component | Before | After | Status |
-|-----------|--------|-------|--------|
-| System docs | 14 files | 10 files | ✅ Lean |
-| Templates | 25 files | 4 files | ✅ Minimal |
-| Core reference | Scattered | Operating Manual | ✅ Unified |
-| Maintenance | Ad hoc | Two-Mode System | ✅ Structured |
-
----
-
-## 🔗 Navigation
-
-← **Back to ** — Operations  
-→ **Back to [[00-MISSION]]** — Mission & North Star  
-↑ **Parent: [[00-MISSION]]**
-
-**Quick Links:**
-- [[RON_Operating_Manual_[RON-SYS-003]]] — Complete RON reference
--  — How to direct RON
--  — Naming rules
--  — Terms & aliases
-
----
-
-*The system serves the work. Not the other way around.*
+_Last updated: 2026-04-01 — cleaned, core docs moved to workspace, operational files retained_

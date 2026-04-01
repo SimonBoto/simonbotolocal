@@ -48,24 +48,10 @@
             "id": "02ff5a949a4ae388",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-References/Hub/Andersen_etal_2013_Lactate_Etiology_R-001-0028.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Andersen_etal_2013_Lactate_Etiology_R-001-0028"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -260,11 +246,22 @@
   },
   "active": "02ff5a949a4ae388",
   "lastOpenFiles": [
+    "07-Archive/09-System-LEGACY-2026-04-01/ZETTEL_REMEDIATION_LOG.md",
+    "07-Archive/09-System-LEGACY-2026-04-01/ZETTEL_FORGE_README.md",
+    "07-Archive/09-System-LEGACY-2026-04-01/UID_SYSTEM_v2.0.md",
+    "07-Archive/09-System-LEGACY-2026-04-01/SYSTEM_README-SUMMARY.md",
+    "07-Archive/09-System-LEGACY-2026-04-01/SYSTEM_README.md",
+    "07-Archive/09-System-LEGACY-2026-04-01/RON_Operating_Manual_[RON-SYS-003].md",
+    "07-Archive/09-System-LEGACY-2026-04-01/DISASTER_RECOVERY.md",
+    "07-Archive/09-System-LEGACY-2026-04-01/Critical_Files_Inventory.md",
+    "07-Archive/09-System-LEGACY-2026-04-01/Command_Reference.md",
+    "07-Archive/09-System-LEGACY-2026-04-01/99-GLOSSARY.md",
+    "07-Archive/09-System-LEGACY-2026-04-01",
+    "01-References/Hub/Andersen_etal_2013_Lactate_Etiology_R-001-0028.md",
     "01-References/Hub/Chen_Snyder_2012_Systems_Biology_PM_R-001-0007.md",
     "10-Daily/2026/2026-04-01.md",
     "01-References/Hub/Branca_etal_2019_Food_System_NCD_R-001-0011.md",
     "01-References/Hub/Beebe_etal_2017_Metabolic_Individuality_R-001-0006.md",
-    "01-References/Hub/Andersen_etal_2013_Lactate_Etiology_R-001-0028.md",
     "01-References/Hub/Marchand_etal_2018_Biomarker_Framework_R-001-0009.md",
     "01-References/Hub/Sarigiannis_etal_2021_Exposome_R-001-0021.md",
     "01-References/Hub/Tsilimidos_etal_2019_Fatty_Acids_Metabolomics_R-001-0036.md",
@@ -277,17 +274,7 @@
     "09-System/Educational",
     "03-Zettels/RON/RON_Adipic_Acid_Research_Note_[RON-000-0009].md",
     "01-References/Hub/Wu_etal_2019_Nutrition_Immunity_R-001-0027.md",
-    "01-References/Hub/Clayton_etal_2006_Pharmaco_Metabonomics_R-001-0002.md",
-    "01-References/Hub/Calder_2020_Nutrition_Immunity_COVID_R-001-0014.md",
-    "06-Structure/MOCs/MOC-References-Active.md",
-    "06-Structure/Templates/Template_Reference_v2.0.md",
     "Base File All Notes.base",
-    "03-Zettels/Conscious/Acetyl_CoA_Central_Metabolic_Connector_[Z-001-1112].md",
-    "03-Zettels/Biomarkers/2-Hydroxybutyric_Acid_Oxidative_Stress_[Z-012-0013].md",
-    "03-Zettels/Biomarkers/AA_to_EPA_Ratio_[Z-006-0402].md",
-    "03-Zettels/Biomarkers/Albumin_Liver_Synthesis_Nutrition_[Z-009-0006].md",
-    "02-Literature/NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004.md",
-    "00-Inbox/Processed/Followup_Summary_Template.md",
     "00-Inbox/ChatGPT",
     "00-Inbox/Processed/vitamin_d",
     "00-Inbox/Processed/technology",
@@ -295,7 +282,6 @@
     "00-Inbox/Processed/phd_research",
     "00-Inbox/Processed/personal_development",
     "00-Inbox/Processed/nutrition",
-    "00-Inbox/Processed/metabolomics",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
