@@ -4,7 +4,7 @@ type: moc
 title: MOC — Research Methods
 aliases: [MOC_Research, MOC_Methodology, MOC_Biostatistics, MOC_Clinical_Research]
 tags: [moc, research-methods, statistics, study-design, biomarkers, clinical-trials]
-parent-moc: [[MOC-INDEX]]
+parent-moc: 
 created: 2026-03-03
 ---
 

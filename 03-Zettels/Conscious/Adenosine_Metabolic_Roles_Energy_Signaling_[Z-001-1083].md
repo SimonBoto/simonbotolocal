@@ -6,7 +6,7 @@ aliases: [Z-001-1083, Adenosine]
 domain: 001
 domain-name: Nucleotide Metabolism
 tags: [zettel, adenosine, nucleoside, atp, signaling]
-parent-moc: [[MOC-Nucleotide-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
 source: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Adenosine Metabolic Roles Energy Signaling
 
 ## Overview
-Adenosine is a nucleoside (adenine + ribose) serving as the universal hub connecting energy [[KEYWORD-Metabolism|metabolism]], neural signaling, and genetic information.
+Adenosine is a nucleoside (adenine + ribose) serving as the universal hub connecting energy , neural signaling, and genetic information.
 
 ## Structure
 - **Composition:** Adenine base + Ribose sugar
@@ -57,7 +57,7 @@ Adenosine is a nucleoside (adenine + ribose) serving as the universal hub connec
 ### Adenosine Deaminase Deficiency
 - **Enzyme defect:** ADA deficiency
 - **Consequence:** Severe combined immunodeficiency (SCID)
-- **[[KEYWORD-Mechanism|mechanism]]:** Toxic accumulation of deoxyadenosine
+- **:** Toxic accumulation of deoxyadenosine
 - **Treatment:** Gene therapy, bone marrow transplant
 
 ### Therapeutic Applications
@@ -75,7 +75,7 @@ Adenosine is a nucleoside (adenine + ribose) serving as the universal hub connec
 ## Related
 - [[Adenine_Purine_Base_Structure_Function_[Z-001-1084].md]]
 - [[Ribose_Pentose_Backbone_RNA_ATP_[Z-001-1085].md]]
-- [[MOC-Nucleotide-Metabolism]]
+- 
 
 ---
-*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*
+*Source: CGPT-0445 — Advanced *

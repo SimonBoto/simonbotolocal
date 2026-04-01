@@ -148,4 +148,4 @@ Would you like to know more about any specific tradition or event related to Mar
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

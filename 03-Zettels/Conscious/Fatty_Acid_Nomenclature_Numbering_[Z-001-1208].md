@@ -4,7 +4,7 @@ type: zettel
 title: Fatty Acid Nomenclature and Numbering Systems
 domain: 001
 tags: [zettel, fatty-acids, nomenclature, delta, omega, lipid-chemistry]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]]"
 status: conscious
@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-[[KEYWORD-Fatty_Acids|fatty acids]] are named using multiple systems. Understanding these is essential for interpreting biochemical literature and clinical reports.
+ are named using multiple systems. Understanding these is essential for interpreting biochemical literature and clinical reports.
 
 ---
 
@@ -61,7 +61,7 @@ CH₃-CH₂-CH₂-...-CH₂-CH₂-COOH
 **Linoleic acid:**
 - Systematic: cis,cis-9,12-octadecadienoic acid
 - Shorthand: 18:2(n-6) or 18:2Δ9,12
-- Common: [[KEYWORD-Omega_6|omega-6]] fatty acid
+- Common:  fatty acid
 
 **EPA:**
 - Systematic: 5,8,11,14,17-eicosapentaenoic acid
@@ -80,7 +80,7 @@ CH₃-CH₂-CH₂-...-CH₂-CH₂-COOH
 - Position counted from COOH
 
 ### Omega System (Methyl End)
-**Use:** [[KEYWORD-Nutrition|nutrition]]al classification, physiology
+**Use:** al classification, physiology
 
 **Example:** Omega-3 fatty acids
 - First double bond at carbon 3 from CH₃ end
@@ -131,4 +131,4 @@ CH₃-CH₂-CH₂-...-CH₂-CH₂-COOH
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

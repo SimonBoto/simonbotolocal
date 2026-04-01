@@ -5,13 +5,13 @@ title: Omega-6 to Omega-3 Ratio — Fatty Acid Balance for Inflammation Control
 aliases: [Z-001-1016]
 domain: 001
 tags: [zettel, omega-3, omega-6, fatty-acid-ratio, inflammation, epa, dha, linoleic-acid, arachidonic-acid, conscious]
-parent-moc: [[MOC-Metabolic-Health]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]]
 status: conscious
 ---
 
-# [[KEYWORD-Omega_6|omega-6]] to Omega-3 Ratio — Fatty Acid Balance for [[KEYWORD-Inflammation|inflammation]] Control
+#  to Omega-3 Ratio — Fatty Acid Balance for  Control
 
 ## Overview
 
@@ -28,7 +28,7 @@ The balance between omega-6 and omega-3 fatty acids is a critical determinant of
 - Nuts and seeds
 - Grain-fed animal products
 
-**[[KEYWORD-Metabolism|metabolism]]:**
+**:**
 ```
 Linoleic Acid (LA)
     ↓ Δ6-desaturase
@@ -376,4 +376,4 @@ Docosahexaenoic Acid (DHA) — 22:6n-3 (<0.5% conversion)
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

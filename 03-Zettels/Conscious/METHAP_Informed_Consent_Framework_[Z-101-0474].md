@@ -5,7 +5,7 @@ title: METHAP Informed Consent Framework
 aliases: [Z-101-0474]
 domain: 101
 tags: [zettel, methap, informed-consent, ethics, gdpr, clinical-trial, phd, conscious]
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]]
 status: conscious
 ---
@@ -21,7 +21,7 @@ Ensure participants understand the study, their rights, and protections before e
 | Element | Content |
 |---------|---------|
 | **Title** | Metabolomic Markers of Early Insulin Resistance (METHAP) |
-| **Purpose** | Identify early [[KEYWORD-Biomarker|biomarker]]s using urine organic acids and plasma free fatty acids |
+| **Purpose** | Identify early s using urine organic acids and plasma free fatty acids |
 | **Phases** | Observational study + optional 12-week intervention |
 | **Duration** | 42 months total; participant involvement varies by phase |
 
@@ -33,7 +33,7 @@ Ensure participants understand the study, their rights, and protections before e
 
 **Intervention Phase (subset):**
 - Low-carbohydrate diet counseling
-- Supplementation ([[KEYWORD-Vitamin_D|vitamin d]], Magnesium, Omega-3, Glutamine, Vitamin C, Probiotics)
+- Supplementation (, Magnesium, Omega-3, Glutamine, Vitamin C, Probiotics)
 - Follow-up visits at 4, 8, 12 weeks
 
 ### 3. Risks and Discomforts
@@ -67,7 +67,7 @@ Ensure participants understand the study, their rights, and protections before e
 | Supplement | EOΦ Approval | Purpose |
 |------------|--------------|---------|
 | Vitamin D3 | [Number] | Metabolic regulation |
-| Magnesium | [Number] | Glucose [[KEYWORD-Metabolism|metabolism]] |
+| Magnesium | [Number] | Glucose  |
 | Omega-3 | [Number] | Anti-inflammatory |
 | Glutamine | [Number] | Gut health |
 | Vitamin C | [Number] | Antioxidant support |
@@ -125,5 +125,5 @@ Participants may contact:
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

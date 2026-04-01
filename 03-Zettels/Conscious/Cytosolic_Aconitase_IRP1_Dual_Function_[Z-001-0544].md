@@ -5,7 +5,7 @@ title: Cytosolic Aconitase — IRP1 Dual Function
 aliases: [IRP1, Iron-Regulatory-Protein, ACO1, Dual-Function]
 domain: 001
 tags: [zettel, irp1, iron-regulatory-protein, aco1, dual-function]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]]
 extraction-date: 2026-03-01
@@ -17,11 +17,11 @@ extraction-date: 2026-03-01
 
 ## Two Isoforms
 
-| Feature | [[KEYWORD-Mitochondria|mitochondria]]l | Cytosolic |
+| Feature | l | Cytosolic |
 |---------|--------------|-----------|
 | **Gene** | ACO2 | ACO1 |
 | **Location** | Matrix | Cytosol |
-| **Role** | [[KEYWORD-Krebs_Cycle|krebs cycle]] | Iron sensing |
+| **Role** |  | Iron sensing |
 | **Cluster** | Stable | Labile |
 
 ## IRP1 Function
@@ -31,7 +31,7 @@ extraction-date: 2026-03-01
 **Iron abundant:**
 - [4Fe-4S] cluster present
 - Aconitase active
-- Normal [[KEYWORD-Metabolism|metabolism]]
+- Normal 
 
 **Iron low:**
 - Cluster lost
@@ -53,5 +53,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[IRP1_Iron_Sensing_Molecular_Switch_[Z-001-1205]|Z-001-1205]]

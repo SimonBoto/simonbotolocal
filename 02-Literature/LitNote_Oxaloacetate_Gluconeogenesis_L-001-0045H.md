@@ -188,8 +188,8 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 - [[L-001-0045G]] Ketogenesis (competing pathway)
 - [[L-001-0045F]] Keto Acids (pyruvate carboxylase)
 - [[L-001-0046A]] Amino Acid Entry to Krebs (aspartate/alanine)
-- [[MOC-Gluconeogenesis]]
-- [[MOC-Krebs-Cycle]]
+- 
+- 
 
 ---
 

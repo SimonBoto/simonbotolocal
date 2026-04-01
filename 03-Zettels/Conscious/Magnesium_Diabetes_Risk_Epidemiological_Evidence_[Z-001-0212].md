@@ -5,7 +5,7 @@ title: Magnesium and Diabetes Risk — Epidemiological Evidence
 aliases: [Mg-Diabetes-Epidemiology, Magnesium-Diabetes-Risk]
 domain: 001
 tags: [zettel, magnesium, diabetes, epidemiology, cohort-studies, meta-analysis]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]]
 extraction-date: 2026-03-01
@@ -52,7 +52,7 @@ extraction-date: 2026-03-01
 
 ## Mechanisms Supported by Epidemiology
 
-### Improved [[KEYWORD-Insulin|insulin]] Sensitivity
+### Improved  Sensitivity
 - Higher Mg intake associated with lower HOMA-IR
 - Better β-cell function indices
 - Reduced fasting insulin levels
@@ -61,7 +61,7 @@ extraction-date: 2026-03-01
 - Lower CRP, IL-6, TNF-α with higher Mg intake
 - Inflammation mediates portion of Mg-diabetes association
 
-### Metabolic [[KEYWORD-Biomarker|biomarker]]s
+### Metabolic s
 - Improved lipid profiles (higher HDL, lower triglycerides)
 - Lower blood pressure
 - Reduced oxidative stress markers
@@ -104,7 +104,7 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

@@ -15,7 +15,7 @@ domain: 001
 tags: [litnote, power-analysis, sample-size, metabolomics, statistics, study-design, effect-size, type-1-error, type-2-error]
 source: "[[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328]]]"
 status: extracted
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 extraction-date: 2026-03-02
 ---
 
@@ -278,7 +278,7 @@ Confirm findings
 
 - Source: ChatGPT CGPT-0328 (July 14, 2024)
 - Case study: Gastric cancer metabolomics (n=57, 3000 metabolites)
-- Domain: [[MOC-Research-Methods]], [[MOC-Metabolomics]]
+- Domain: , 
 
 ---
 

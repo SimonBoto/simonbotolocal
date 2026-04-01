@@ -5,13 +5,13 @@ title: Clinical Scenarios — Diagnostic Approach
 aliases: [Clinical-Scenarios, Diagnostic-Approach, Red-Flags]
 domain: 001
 tags: [zettel, clinical, diagnosis, b12, multiple-myeloma]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Clinical|clinical]] Scenarios — Diagnostic Approach
+#  Scenarios — Diagnostic Approach
 
 > Red flags for B12 deficiency masquerading as malignancy include macrocytic anemia with hypercellular marrow, no monoclonal protein, and risk factors for B12 deficiency.
 
@@ -24,7 +24,7 @@ extraction-date: 2026-03-01
 | **Neurological symptoms** | Paresthesias, ataxia | Rare |
 | **Risk factors** | Vegan, gastric surgery, PPI, elderly | Age >60 |
 | **Bone pain** | Absent | Common |
-| **[[KEYWORD-Calcium|calcium]]** | Normal | Elevated |
+| **** | Normal | Elevated |
 
 ## Diagnostic Algorithm
 
@@ -59,4 +59,4 @@ response       ↓
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

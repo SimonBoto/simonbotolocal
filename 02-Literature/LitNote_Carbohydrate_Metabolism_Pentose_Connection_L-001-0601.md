@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Trioses, glycolysis, pentose phosphate pathway, glucose-ribose interconversion, evolutionary origins of carbohydrate metabolism
 status: extracted
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -77,9 +77,9 @@ Hexoses (6C): Glucose-6-P, Fructose-6-P, Glucose, Fructose
 5. [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_[Z-001-1092].md]]
 
 ## Related References
-- [[MOC-Glycolysis-PPP]]
-- [[MOC-Krebs-Cycle]]
-- [[MOC-Evolutionary-Biochemistry]]
+- 
+- 
+- 
 
 ---
 

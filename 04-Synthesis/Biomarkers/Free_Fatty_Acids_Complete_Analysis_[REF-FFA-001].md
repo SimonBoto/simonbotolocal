@@ -5,7 +5,7 @@ title: Free Fatty Acids Complete Analysis — Extended Clinical Guide
 aliases: [REF-FFA-001, Fatty-Acids-Complete, FFA-Extended]
 domain: 006
 tags: [reference, fatty-acids, omega-3, omega-6, lipids, complete-analysis]
-parent-moc: [[MOC-Fatty-Acids]]
+parent-moc: 
 status: active
 extraction-date: 2026-03-31
 source: Free fatty acids analysis extended.md (Greek clinical guide)

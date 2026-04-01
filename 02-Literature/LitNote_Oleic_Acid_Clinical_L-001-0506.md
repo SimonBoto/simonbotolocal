@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: Critical — Practical implementation of olive oil-based interventions, metabolic benefits, METHAP dietary guidance
 status: extracted
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 

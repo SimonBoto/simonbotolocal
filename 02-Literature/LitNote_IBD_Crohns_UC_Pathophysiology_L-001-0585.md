@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: Core GI pathology, IBD differential diagnosis
 status: extracted
-parent-moc: [[MOC-Inflammatory-Bowel-Disease]]
+parent-moc: 
 extraction-date: 2026-03-07
 domain: 001
 ---

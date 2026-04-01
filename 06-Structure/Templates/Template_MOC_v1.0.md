@@ -4,7 +4,7 @@ type: "moc"
 title: "MOC — {{Topic Name}}"
 aliases: ["MOC_{{ShortName}}", "{{ShortName}}_MOC"]
 tags: ["moc", "{{topic-tag}}", "{{status-tag}}"]
-parent-moc: "[[MOC-INDEX]]"
+parent-moc: ""
 status: "active"
 created: "{{YYYY-MM-DD}}"
 last-updated: "{{YYYY-MM-DD}}"
@@ -19,20 +19,20 @@ last-updated: "{{YYYY-MM-DD}}"
 ## 🎯 Entry Points (Start Here)
 
 **Core Concepts:**
-- [[{{KeyZettel1}}]] — {{Brief description}}
-- [[{{KeyZettel2}}]] — {{Brief description}}
+-  — {{Brief description}}
+-  — {{Brief description}}
 
 ---
 
 ## 📊 Core Content
 
 ### {{Section 1}}
-- [[{{Zettel1}}]] — {{Description}}
-- [[{{Zettel2}}]] — {{Description}}
+-  — {{Description}}
+-  — {{Description}}
 
 ### {{Section 2}}
-- [[{{Zettel3}}]] — {{Description}}
-- [[{{Zettel4}}]] — {{Description}}
+-  — {{Description}}
+-  — {{Description}}
 
 ---
 
@@ -40,8 +40,8 @@ last-updated: "{{YYYY-MM-DD}}"
 
 | MOC | Connection |
 |-----|------------|
-| [[{{RelatedMOC1}}]] | {{Why related}} |
-| [[{{RelatedMOC2}}]] | {{Why related}} |
+|  | {{Why related}} |
+|  | {{Why related}} |
 
 ---
 

@@ -67,4 +67,4 @@ Dietary sources of ergocalciferol (vitamin D2) include UVB-irradiated mushrooms,
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

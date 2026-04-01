@@ -5,12 +5,12 @@ title: Batch Effects Detection and Correction in Metabolomics
 aliases: [Z-001-0939]
 domain: 001
 tags: [zettel, batch-effects, technical-confounders, metabolomics, quality-control, combat, normalization, study-design, conscious]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
 
-# Batch Effects Detection and Correction in [[KEYWORD-Metabolomics|metabolomics]]
+# Batch Effects Detection and Correction in 
 
 ## Definition
 **Batch effects** are technical variations introduced when samples are processed or analyzed at different times, by different operators, or with different reagent lots. They often exceed biological variation and drive false discoveries.
@@ -96,7 +96,7 @@ Batch 2: D5, C5, D6, QC, C6, D7, C7, QC, D8, C8...
 - Disease samples separate perfectly by processing date
 - **Conclusion:** Technical artifacts, not biological differences
 
-## Impact on [[KEYWORD-Biomarker|biomarker]] Discovery
+## Impact on  Discovery
 
 ### Uncorrected Batch Effects Lead To:
 - 30-70% of "significant" metabolites are technical artifacts
@@ -124,6 +124,6 @@ Batch 2: D5, C5, D6, QC, C6, D7, C7, QC, D8, C8...
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- 
 

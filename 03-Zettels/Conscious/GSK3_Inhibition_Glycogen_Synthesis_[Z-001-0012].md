@@ -7,15 +7,15 @@ aliases: [Z-001-0012, GSK3, Glycogen_Synthesis]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, mechanism, GSK3, glycogen, liver, insulin]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[Ref_Nature_IR_Mechanisms_2022]]
+parent-moc: 
+source: 
 confidence: high
 created: 2026-02-22
 ---
 
 # GSK3 Inhibition and Glycogen Synthesis
 
-[[KEYWORD-Insulin|insulin]] promotes hepatic glycogen synthesis by inhibiting GSK3, relieving its suppression of glycogen synthase.
+ promotes hepatic glycogen synthesis by inhibiting GSK3, relieving its suppression of glycogen synthase.
 
 **Default state (no insulin):**
 - GSK3β active (constitutive kinase)
@@ -40,6 +40,6 @@ created: 2026-02-22
 
 ## Context
 
-**Also in:** [[MOC-Insulin-Signaling]]
+**Also in:** 
 
-**Tissue:** Primary [[KEYWORD-Mechanism|mechanism]] in liver; muscle uses different regulation
+**Tissue:** Primary  in liver; muscle uses different regulation

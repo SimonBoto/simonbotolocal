@@ -6,7 +6,7 @@ title: Orotic Acid — Candida Overgrowth & Pyrimidine Marker
 aliases: [Z-012-0109, Orotic-Acid, Candida, Yeast, Pyrimidine-Synthesis, B13]
 domain: 012
 tags: [zettel, biomarker, orotic, candida, yeast, pyrimidine, b13]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

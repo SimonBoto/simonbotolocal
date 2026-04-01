@@ -6,7 +6,7 @@ title: Vitamin D - Calcium - PTH Axis - Clinical Guide
 aliases: [B-007-0001, Vitamin-D, 25-OH-D, PTH, Calcium, Parathyroid, Bone-Health]
 domain: 007
 tags: [biomarker, vitamin-d, calcium, pth, bone-health, immune, metabolic]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 created: 2026-03-30
 source-litnote: Synthesized from clinical practice

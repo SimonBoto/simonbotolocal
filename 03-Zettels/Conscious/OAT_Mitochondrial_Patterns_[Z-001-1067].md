@@ -6,17 +6,17 @@ aliases: [Z-001-1067, OAT-Mitochondrial]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, oat, mitochondria, patterns]
-parent-moc: [[MOC-Metabolomics-Analysis]]
+parent-moc: 
 source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
 source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
 confidence: high
 created: 2026-03-08
 ---
 
-# OAT [[KEYWORD-Mitochondria|mitochondria]]l Patterns
+# OAT l Patterns
 
 ## Overview
-[[KEYWORD-Mitochondria|mitochondrial]] dysfunction produces characteristic OAT signatures across multiple marker categories.
+ dysfunction produces characteristic OAT signatures across multiple marker categories.
 
 ## Primary Mitochondrial Markers
 
@@ -38,7 +38,7 @@ created: 2026-03-08
 
 ## Secondary Mitochondrial Indicators
 
-### B-[[KEYWORD-Vitamin_D|vitamin d]]ependent Markers
+### B-ependent Markers
 | Marker | Connection |
 |--------|------------|
 | **Pyruvate ↑** | B1 (TPP) needed for PDH |
@@ -86,11 +86,11 @@ created: 2026-03-08
 ## Related
 - [[OAT_Pattern_Recognition_Protocol_[Z-001-1066].md]]
 - [[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052].md]]
-- [[MOC-Mitochondrial-Function]]
+- 
 
 ---
 *Source: CGPT-0022 — OAT interpretation*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -6,7 +6,7 @@ aliases: [Z-001-0559, Exploratory Excuse, Biomarker Overclaiming, Methodological
 domain: 001
 domain-name: Research Methods
 tags: [zettel, claim, research-integrity, exploratory-excuse, biomarkers, case-study, publication-bias]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 source: "[[LitNote_Exploratory_vs_Confirmatory_Research_Design_L-001-0516]]"
 confidence: high
 created: 2026-03-03
@@ -21,7 +21,7 @@ Studies with fundamental methodological limitations (small samples, lenient FDR,
 
 ---
 
-## The Case Study: Gastric Cancer [[KEYWORD-Metabolomics|metabolomics]]
+## The Case Study: Gastric Cancer 
 
 ### Study Parameters
 | Parameter | Value |
@@ -34,7 +34,7 @@ Studies with fundamental methodological limitations (small samples, lenient FDR,
 | **Deficit** | 20-124× underpowered |
 
 ### What Was Claimed
-> "We identified and validated two potential [[KEYWORD-Biomarker|biomarker]]s, DHEAS and L-threonic acid, strongly associated with disease progression... having significant potential for clinical application in early diagnosis and risk assessment."
+> "We identified and validated two potential s, DHEAS and L-threonic acid, strongly associated with disease progression... having significant potential for clinical application in early diagnosis and risk assessment."
 
 ### The Problem
 | Issue | Reality |
@@ -56,7 +56,7 @@ The study acknowledges limitations but still presents findings with confidence:
 ## Warning Signs of the Exploratory Excuse
 
 ### Red Flags in Reporting
-1. **Overstatement:** "Significant [[KEYWORD-Biomarker|biomarkers]] identified" (from small sample)
+1. **Overstatement:** "Significant  identified" (from small sample)
 2. **Premature validation:** "Validated biomarkers" (no validation cohort)
 3. **Clinical claims:** "Clinical utility demonstrated" (no clinical outcomes)
 4. **Missing context:** No explicit "exploratory" framing
@@ -139,5 +139,5 @@ Before claiming "biomarker identified":
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 ## RELATED FILES
 - [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

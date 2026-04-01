@@ -6,7 +6,7 @@ aliases: [Z-001-1115, AA-Classification-Table]
 domain: 001
 domain-name: Amino Acid Metabolism
 tags: [zettel, amino-acids, classification, reference, table]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
 source: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Amino Acid Complete Classification Table
 
 ## Overview
-Comprehensive classification of the 20 proteinogenic [[KEYWORD-Amino_Acids|amino acids]] by multiple criteria.
+Comprehensive classification of the 20 proteinogenic  by multiple criteria.
 
 ## By Side Chain Polarity
 
@@ -119,10 +119,10 @@ Comprehensive classification of the 20 proteinogenic [[KEYWORD-Amino_Acids|amino
 ## Related
 - [[Glycogenic_Ketogenic_Amino_Acid_Classification_[Z-001-1097].md]]
 | [[Amino_Acid_Krebs_Entry_Points_Map_[Z-001-1098].md]]
-| [[MOC-Amino-Acid-[[KEYWORD-Metabolism|metabolism]]]]
+| 
 
 ---
-*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*
+*Source: CGPT-0445 — Advanced *
 
 
 ## RELATED FILES

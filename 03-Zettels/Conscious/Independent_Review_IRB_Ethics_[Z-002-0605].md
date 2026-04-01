@@ -6,13 +6,13 @@ aliases: [Z-002-0605, ethics-irb, independent-review]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, irb, oversight, emmanuel-seven]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]"
 confidence: high
 created: 2026-03-27
 ---
 
-# Independent Review and IRB in [[KEYWORD-Research|research]] Ethics
+# Independent Review and IRB in  Ethics
 
 A neutral body must independently review research protocols to ensure unbiased ethical judgment. Institutional Review Boards (IRBs) serve as community representatives and ethical gatekeepers.
 
@@ -31,7 +31,7 @@ A neutral body must independently review research protocols to ensure unbiased e
 ## IRB Composition Requirements
 
 - Scientific expertise
-- [[KEYWORD-Clinical|clinical]] expertise
+-  expertise
 - Legal/ethics expertise
 - Community representation
 - Diversity of perspectives
@@ -56,7 +56,7 @@ METHAP requires:
 
 ## Links
 
-**Parent MOC:** [[MOC-Research-Ethics]]  
+**Parent MOC:**   
 **Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]  
 **Related:** [[Risk_Benefit_Ratio_Ethical_Research_[Z-002-0604].md]] — Risk assessment
 
@@ -74,7 +74,7 @@ METHAP requires:
 
 
 ## Related
-- [[METHAP_[[KEYWORD-Metabolomics|metabolomics]]_Analysis_Plan_[Z-002-0620]|Z-002-0620]]
+- _Analysis_Plan_[Z-002-0620]|Z-002-0620]]
 
 
 ## RELATED FILES

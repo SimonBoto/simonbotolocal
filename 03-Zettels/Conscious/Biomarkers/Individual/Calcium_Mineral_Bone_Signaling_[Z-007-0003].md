@@ -6,7 +6,7 @@ title: Calcium — Mineral, Bone & Cellular Signaling
 aliases: [Z-007-0003, Calcium, Ca, Serum-Calcium, Ionized-Calcium]
 domain: 007
 tags: [zettel, biomarker, calcium, mineral, bone, signaling, parathyroid]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

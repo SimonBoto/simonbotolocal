@@ -7,15 +7,15 @@ aliases: [Z-001-0015, Mitochondrial_Dysfunction, Mito_IR]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, mechanism, mitochondria, dysfunction, oxidative, IR]
-parent-moc: [[MOC-Metabolic-Syndrome]]
-source: [[Ref_Nature_IR_Mechanisms_2022]]
+parent-moc: 
+source: 
 confidence: medium
 created: 2026-02-22
 ---
 
-# Mitochondrial Dysfunction and [[KEYWORD-Insulin|insulin]] Resistance
+# Mitochondrial Dysfunction and  Resistance
 
-Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid intermediates, contributing to [[KEYWORD-Insulin_Resistance|insulin resistance]].
+Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid intermediates, contributing to .
 
 **Mechanisms:**
 
@@ -45,6 +45,6 @@ Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid inte
 
 ## Context
 
-**Also in:** [[MOC-Metabolic-Syndrome]]
+**Also in:** 
 
-**[[KEYWORD-Metabolomics|metabolomics]] connection:** Elevated acylcarnitines mark incomplete oxidation
+** connection:** Elevated acylcarnitines mark incomplete oxidation

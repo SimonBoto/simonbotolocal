@@ -8,7 +8,7 @@ journal: JAMA, J Clin Endocrinol Metab, JAMA, J Clin Endocrinol Metab
 tier: 1
 relevance: High — Evidence base for high-dose protocols in infants, children, adolescents
 status: extracted
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -100,8 +100,8 @@ extraction-date: 2026-03-01
 - [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]] — Statistical errors in guidelines
 - [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — Physiological safeguards
 - [[Personalized_Vitamin_D_vs_Population_Guidelines_[Z-001-0074].md]] — Individual variability
-- [[MOC-Clinical-Protocols]] — Parent MOC for trial design
-- [[MOC-Vitamin-Safety]] — Safety framework
+-  — Parent MOC for trial design
+-  — Safety framework
 
 ---
 

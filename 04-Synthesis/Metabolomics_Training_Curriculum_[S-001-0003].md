@@ -5,7 +5,7 @@ title: Metabolomics Training Curriculum - 8-Week Clinical Certification Program
 aliases: [S-001-0003, Metabolomics-Curriculum, Training-Program, Metabolomics-Certification]
 domain: 001
 tags: [synthesis, metabolomics, training, curriculum, education, certification, clinical, oat, lipidomics]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 status: active
 created: 2026-03-30
 updated: 2026-03-30

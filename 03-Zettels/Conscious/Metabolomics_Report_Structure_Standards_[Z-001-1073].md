@@ -6,14 +6,14 @@ aliases: [Z-001-1073, Report-Standards]
 domain: 001
 domain-name: Clinical Protocols
 tags: [zettel, reports, structure, standards]
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: 
 source-litnote: [[LitNote_Patient_Communication_Scripts_L-001-0595]]
 source: [[LitNote_Patient_Communication_Scripts_L-001-0595]]
 confidence: high
 created: 2026-03-08
 ---
 
-# [[KEYWORD-Metabolomics|metabolomics]] Report Structure Standards
+#  Report Structure Standards
 
 ## Overview
 Standardized formats for live and email metabolomics reports ensuring clarity and actionability.
@@ -22,13 +22,13 @@ Standardized formats for live and email metabolomics reports ensuring clarity an
 
 ### 1. Opening (2 minutes)
 - **Greeting** — Personal connection
-- **Summary** — "Your [[KEYWORD-Metabolism|metabolism]] is showing us [key insight]"
+- **Summary** — "Your  is showing us [key insight]"
 - **Preview** — "I'll walk you through what we found and what to do"
 
 ### 2. The Story (5 minutes)
 - **Visual** — Show the metabolic map
 - **Key findings** — 3-5 most important markers
-- **[[KEYWORD-Mechanism|mechanism]]** — Why this is happening
+- **** — Why this is happening
 - **Connection** — Link to their symptoms
 
 ### 3. The Plan (5 minutes)
@@ -100,12 +100,12 @@ Standardized formats for live and email metabolomics reports ensuring clarity an
 
 ## Related
 - [[Metabolic_Storytelling_Patient_Framework_[Z-001-1070].md]]
-- [[MOC-Clinical-Protocols]]
+- 
 
 ---
 *Source: CGPT-0022 — Patient communication*
 
 
 ## RELATED FILES
-- [[KEYWORD-Metabolomics]]
-- [[MOC-INDEX|Master Index]]
+- 
+- 

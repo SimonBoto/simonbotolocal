@@ -6,14 +6,14 @@ aliases: [Z-001-1033, Socratic-Training]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, pedagogy, socratic-method, clinical-reasoning]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
 source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
 confidence: high
 created: 2026-03-08
 ---
 
-# Socratic Method [[KEYWORD-Metabolomics|metabolomics]] Training
+# Socratic Method  Training
 
 ## Overview
 Teaching metabolomics through guided inquiry rather than information delivery. Trainees learn by confronting their own reasoning errors.
@@ -57,9 +57,9 @@ Teaching metabolomics through guided inquiry rather than information delivery. T
 
 | Stage | Prompt | Target Error |
 |-------|--------|--------------|
-| Analysis | "Lactate + BHB elevated. [[KEYWORD-Mitochondria|mitochondria]]l blockage or ketogenic physiology?" | Pattern confusion |
+| Analysis | "Lactate + BHB elevated. l blockage or ketogenic physiology?" | Pattern confusion |
 | Treatment | "Impaired β-oxidation. Carnitine, diet, or cofactors first?" | Prescribing sequence |
-| Reporting | "Explain [[KEYWORD-Mitochondria|mitochondrial]] redox imbalance to a 78-year-old farmer." | Translation failure |
+| Reporting | "Explain  redox imbalance to a 78-year-old farmer." | Translation failure |
 | Follow-up | "4-week check: what should you evaluate?" | Premature lab focus |
 
 ## Key Principle
@@ -68,7 +68,7 @@ Teaching metabolomics through guided inquiry rather than information delivery. T
 ## Related
 - [[MCI_Three_Function_Architecture_[Z-001-1030].md]]
 - [[Six_Stage_Patient_Flow_Framework_[Z-001-1031].md]]
-- [[MOC-Metabolomics-Training]]
+- 
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*

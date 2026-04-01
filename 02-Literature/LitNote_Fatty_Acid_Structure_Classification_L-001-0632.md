@@ -15,7 +15,7 @@ domain: 001
 tags: [litnote, fatty-acids, omega-3, omega-6, lipid-structure, saturation]
 source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]]"
 status: extracted
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -236,9 +236,9 @@ CH₃(CH₂)₇CH=CH(CH₂)₇COOH  or  C18H34O₂
 - [[Chain_Length_Metabolism_[Z-001-1213].md]] — To create
 
 **MOCs:**
-- [[MOC-Lipid-Metabolism]] — Primary domain
-- [[MOC-Pharmacometabolomics]] — Dicarboxylic acids
-- [[MOC-Nutrition]] — Dietary implications
+-  — Primary domain
+-  — Dicarboxylic acids
+-  — Dietary implications
 
 ---
 

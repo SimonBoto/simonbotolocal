@@ -5,7 +5,7 @@ title: Common Ketoses and Their Roles
 aliases: [Z-001-0475, ketoses, fructose, ribulose, xylulose, sorbose]
 domain: 001
 tags: [zettel, ketoses, fructose, ribulose, xylulose, sorbose]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045E]]
@@ -18,7 +18,7 @@ source: [[L-001-0045E]]
 ### Fructose
 - **Role:** Fruit sugar, sweetener, lipogenic substrate
 - **Source:** Fruits, honey, HFCS
-- **[[KEYWORD-Clinical|clinical]]:** [[KEYWORD-Metabolic_Syndrome|metabolic syndrome]] link
+- **:**  link
 - **Sweetness:** 1.7× sweeter than glucose
 
 ### Psicose (Allulose)
@@ -62,7 +62,7 @@ source: [[L-001-0045E]]
 Ketoses (especially fructose) are generally **sweeter** than aldoses due to structural differences in receptor binding.
 
 ## Related
-- [[Aldose_vs_Ketose_[[KEYWORD-Chemistry|chemistry]]_[Z-001-0471]]] Aldose vs Ketose Chemistry
+- _[Z-001-0471]]] Aldose vs Ketose Chemistry
 - [[Common_Aldoses_Roles_[Z-001-0474]]] Common Aldoses (contrast)
 
 ---
@@ -70,5 +70,5 @@ Ketoses (especially fructose) are generally **sweeter** than aldoses due to stru
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Fructose_Glycolytic_Intermediate_[Z-001-0468]|Z-001-0468]]

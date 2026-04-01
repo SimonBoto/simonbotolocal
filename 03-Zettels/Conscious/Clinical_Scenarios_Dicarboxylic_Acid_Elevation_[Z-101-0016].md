@@ -5,7 +5,7 @@ title: Clinical Scenarios Causing Dicarboxylic Acid Elevation
 aliases: [Z-101-0016, When to Test Dicarboxylic Acids, Clinical Indications]
 domain: 101
 tags: [zettel, clinical-scenarios, dicarboxylic-acid, indications, screening, metabolic-workup]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 status: conscious
 source: "[[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]]"
 extraction-date: 2026-03-02
@@ -51,7 +51,7 @@ extraction-date: 2026-03-02
 
 ## Adult Scenarios
 
-### Metabolic Syndrome/[[KEYWORD-Insulin|insulin]] Resistance
+### Metabolic Syndrome/ Resistance
 
 **Early IR Detection:**
 - Elevated insulin, normal glucose
@@ -73,7 +73,7 @@ extraction-date: 2026-03-02
 
 **Zidovudine (AZT) Therapy:**
 - Antiretroviral
-- [[KEYWORD-Mitochondria|mitochondria]]l toxicity
+- l toxicity
 - **Action:** UOA if lactic acidosis, myopathy
 
 ### Nutritional/Malabsorption
@@ -91,7 +91,7 @@ extraction-date: 2026-03-02
 ## Pregnancy
 
 ### Physiological Dicarboxylic Aciduria
-- Mild elevation can be normal (increased lipid [[KEYWORD-Metabolism|metabolism]])
+- Mild elevation can be normal (increased lipid )
 - **Action:** Clinical correlation required
 - Severe elevation warrants investigation
 
@@ -131,4 +131,4 @@ Suspect FAOD/dicarboxylic aciduria?
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

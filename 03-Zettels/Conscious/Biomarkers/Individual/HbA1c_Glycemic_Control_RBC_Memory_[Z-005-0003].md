@@ -6,7 +6,7 @@ title: HbA1c — Glycemic Control & Red Blood Cell Memory
 aliases: [Z-005-0003, HbA1c, Glycated-Hemoglobin, A1c, Glycemic-Control]
 domain: 005
 tags: [zettel, biomarker, hba1c, glycemic-control, diabetes, glucose-memory]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

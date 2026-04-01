@@ -8,7 +8,7 @@ journal: Historical clinical synthesis
 tier: 2
 relevance: High — Foundational understanding of diabetes treatment; historical context for IR research
 status: extracted
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -191,8 +191,8 @@ extraction-date: 2026-03-01
 ## Related References
 - [[LitNote_IR_Mechanisms_Map_L-001-0005]] — Modern IR understanding
 - [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]] — MetS progression context
-- [[MOC-Insulin-Signaling]] — Parent MOC
-- [[MOC-Diabetes-History]] — Historical context
+-  — Parent MOC
+-  — Historical context
 
 ---
 

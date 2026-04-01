@@ -15,7 +15,7 @@ domain: 001
 tags: [litnote, mitochondria, telomeres, ros, oxidative-stress, autoimmunity]
 source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_[CGPT-0520]]]"
 status: extracted
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -169,9 +169,9 @@ More Cell Divisions + More Inflammation
 - [[Antioxidant_Telomere_Protection_[Z-001-1181].md]] — To create
 
 **MOCs:**
-- [[MOC-Mitochondrial-Function]] — Primary domain
-- [[MOC-Autoimmunity]] — Disease application
-- [[MOC-Aging]] — Senescence mechanisms
+-  — Primary domain
+-  — Disease application
+-  — Senescence mechanisms
 
 **LitNotes:**
 - [[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]] — Telomere basics

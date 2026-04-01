@@ -5,7 +5,7 @@ title: Historical Ethical Guidelines — Nuremberg Code to Declaration of Helsin
 aliases: [Z-001-1003]
 domain: 001
 tags: [zettel, research-ethics, history, nuremberg-code, declaration-helsinki, belmont-report, nazi-experiments, informed-consent, conscious]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]]
 status: conscious
@@ -15,7 +15,7 @@ status: conscious
 
 ## Overview
 
-Modern [[KEYWORD-Research|research]] ethics emerged from responses to atrocities and ethical failures in human experimentation. Understanding this history is essential for appreciating current ethical frameworks.
+Modern  ethics emerged from responses to atrocities and ethical failures in human experimentation. Understanding this history is essential for appreciating current ethical frameworks.
 
 ## Nuremberg Code (1947)
 
@@ -87,7 +87,7 @@ Modern [[KEYWORD-Research|research]] ethics emerged from responses to atrocities
 
 **Limitations:**
 - Narrow focus on researcher-subject relationship
-- No enforcement [[KEYWORD-Mechanism|mechanism]]
+- No enforcement 
 - No mention of independent review
 
 ## Declaration of Helsinki (1964-Present)
@@ -99,7 +99,7 @@ Modern [[KEYWORD-Research|research]] ethics emerged from responses to atrocities
 - Medical profession self-regulation
 - Periodic revisions (1964, 1975, 1983, 1989, 1996, 2000, 2008, 2013)
 
-### [[KEYWORD-Evolution|evolution]] of Key Concepts
+###  of Key Concepts
 
 **1964 Original:**
 - Basic principles for physicians

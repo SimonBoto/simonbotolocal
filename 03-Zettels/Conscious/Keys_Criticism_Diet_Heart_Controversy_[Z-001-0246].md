@@ -5,7 +5,7 @@ title: Criticisms of Keys' Research — Diet-Heart Controversy
 aliases: [Keys-Criticism, Diet-Heart-Debate, Saturated-Fat-Controversy]
 domain: 001
 tags: [zettel, nutrition, controversy, keys, criticism, saturated-fat]
-parent-moc: [[MOC-Nutrition]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Dietary_Fat_History_L-001-0210]]
 extraction-date: 2026-03-01
@@ -70,8 +70,8 @@ extraction-date: 2026-03-01
 - Single time-point measurements
 - Limited food composition databases
 
-**Biological [[KEYWORD-Mechanism|mechanism]] Assumed:**
-- Saturated fat → [[KEYWORD-Cholesterol|cholesterol]] → CVD
+**Biological  Assumed:**
+- Saturated fat →  → CVD
 - Cholesterol hypothesis later questioned
 - HDL vs. LDL distinction missed initially
 - Particle size matters (not known then)
@@ -105,7 +105,7 @@ extraction-date: 2026-03-01
 
 **Documented Influence:**
 - Trade groups shaped research agenda
-- [[KEYWORD-Nutrition|nutrition]] science captured by industry
+-  science captured by industry
 - Economic interests > health science
 
 ## Modern Scientific Position
@@ -142,5 +142,5 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Omega_6_Cardiovascular_Controversy_[Z-001-0962]|Z-001-0962]]

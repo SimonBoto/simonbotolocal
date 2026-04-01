@@ -6,7 +6,7 @@ aliases: [Z-001-1137, MDM2-Inhibitors]
 domain: 001
 domain-name: Hematology Oncology
 tags: [zettel, p53, mdm2, inhibitors, therapy]
-parent-moc: [[MOC-Hematology-Oncology]]
+parent-moc: 
 source-litnote: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]]
 source: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Targeting p53 Dysfunction MDM2 Inhibitors
 
 ## Overview
-MDM2 inhibitors represent a promising therapeutic strategy for [[KEYWORD-Cancer|cancer]]s with wild-type TP53 by blocking the negative regulator of p53, thereby reactivating p53-mediated tumor suppression.
+MDM2 inhibitors represent a promising therapeutic strategy for s with wild-type TP53 by blocking the negative regulator of p53, thereby reactivating p53-mediated tumor suppression.
 
 ## The p53-MDM2 Axis
 
@@ -99,7 +99,7 @@ Stress/DNA damage → p53 activation → Cell cycle arrest/apoptosis
 | **XPO1 inhibitors** | Enhance nuclear p53 |
 | **DNA damaging agents** | Stress + p53 restoration |
 
-### [[KEYWORD-Biomarker|biomarker]] Development
+###  Development
 | Marker | Utility |
 |--------|---------|
 | **MDM2 expression** | Predict response |
@@ -124,12 +124,12 @@ Stress/DNA damage → p53 activation → Cell cycle arrest/apoptosis
 ## Related
 - [[TP53_Abnormalities_Multiple_Myeloma_del17p_[Z-001-1135].md]]
 - [[p53_Function_Loss_Cancer_Consequences_[Z-001-1136].md]]
-- [[MOC-Hematology-Oncology]]
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- 
 

@@ -6,7 +6,7 @@ aliases: [Z-002-0610, belmont-report, us-research-ethics]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, us-regulations, irb]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]]"
 confidence: high
 created: 2026-03-27
@@ -14,7 +14,7 @@ created: 2026-03-27
 
 # Belmont Report Ethical Principles (1979)
 
-U.S. National Commission for the Protection of Human Subjects landmark report establishing three core ethical principles: Respect for Persons, Beneficence, and Justice. Foundation for U.S. [[KEYWORD-Research|research]] regulations (45 CFR 46, Common Rule).
+U.S. National Commission for the Protection of Human Subjects landmark report establishing three core ethical principles: Respect for Persons, Beneficence, and Justice. Foundation for U.S.  regulations (45 CFR 46, Common Rule).
 
 ## Three Core Principles
 
@@ -78,7 +78,7 @@ Belmont principles in METHAP:
 
 ## Links
 
-**Parent MOC:** [[MOC-Research-Ethics]]  
+**Parent MOC:**   
 **Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]]  
 **Related:** [[Tuskegee_Syphilis_Study_Ethics_Case_[Z-002-0613].md]] — Triggering event
 
@@ -88,4 +88,4 @@ Belmont principles in METHAP:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

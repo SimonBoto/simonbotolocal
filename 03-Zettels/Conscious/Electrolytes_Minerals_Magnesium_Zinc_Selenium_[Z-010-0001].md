@@ -5,7 +5,7 @@ title: Electrolytes and Minerals Magnesium Zinc Selenium
 aliases: [Z-010-0001, Electrolytes, Magnesium, Zinc, Selenium, Trace Minerals]
 domain: 010
 tags: [zettel, biomarker, electrolytes, minerals, clinical-protocol]
-parent-moc: [[MOC-Electrolyte-Mineral-Metabolism]]
+parent-moc: 
 biomarker-type: mineral-status-panel
 status: conscious
 connections:
@@ -32,7 +32,7 @@ source-litnote: Synthesized from clinical practice
 
 ### Functions
 - **Cofactor for 300+ enzymes**
-- [[KEYWORD-Vitamin_D|vitamin d]] activation (hydroxylases require Mg)
+-  activation (hydroxylases require Mg)
 - Insulin signaling and glucose transport
 - Blood pressure regulation
 - Muscle and nerve function
@@ -163,12 +163,12 @@ source-litnote: Synthesized from clinical practice
 
 ---
 
-*Source: [[Ref_Rude_Magnesium_2014]], [[Synthesis_[[KEYWORD-Biomarker|biomarker]]_Architecture_v1]]*
+*Source: , _Architecture_v1]]*
 *Created: 2026-02-26 | Domain: 010 | Status: Conscious*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[TG_HDL_Ratio_IR_Marker_[Z-001-0049]|Z-001-0049]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

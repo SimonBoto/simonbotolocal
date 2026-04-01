@@ -6,7 +6,7 @@ aliases: [Z-001-0907, Z-001-0007-deprecated, Proteomics, Proteins, Enzymes, Drug
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, proteomics, proteins, enzymes, drug-targets, LC-MS, NMR, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
@@ -63,7 +63,7 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 - **Multifactorial disease understanding** — Complex disease mechanisms
 - **Therapeutic monitoring** — Protein biomarker tracking
 
-## Proteomics → [[KEYWORD-Metabolomics|metabolomics]] Connection
+## Proteomics →  Connection
 
 | Level | What It Measures | Distance from Function |
 |-------|------------------|------------------------|
@@ -74,11 +74,11 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 
 ## METHAP Relevance
 
-**Proteins of Interest in IR/[[KEYWORD-Metabolism|metabolism]]:**
+**Proteins of Interest in IR/:**
 - Insulin receptor (INSR) and signaling proteins
 - Glucose transporters (GLUT4)
 - Enzymes in glucose/lipid metabolism
-- [[KEYWORD-Vitamin_D|vitamin d]] receptor (VDR) — potential therapeutic target
+-  receptor (VDR) — potential therapeutic target
 
 **But for METHAP:** Metabolomics provides the **functional endpoint** — are metabolic pathways actually working better after VD intervention?
 
@@ -90,7 +90,7 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 
 ## Context
 
-**Also relevant to:** [[MOC-PhD-METHAP-Trial]], [[IR_Mechanisms_Map]] — Protein players in insulin resistance
+**Also relevant to:** ,  — Protein players in insulin resistance
 
 **Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Subsection 2.4
 
@@ -99,7 +99,7 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 *UID: Z-001-0907 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

@@ -4,13 +4,13 @@ type: zettel
 title: Naive T-Cell Depletion in Autoimmunity
 domain: 001
 tags: [zettel, naive-t-cells, autoimmunity, immunosenescence, t-cell-repertoire]
-parent-moc: [[MOC-Autoimmunity]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]]"
 status: conscious
 ---
 
-# Naive T-Cell Depletion in [[KEYWORD-Autoimmunity|autoimmunity]]
+# Naive T-Cell Depletion in 
 
 ## The Shift in T-Cell Compartments
 
@@ -30,7 +30,7 @@ status: conscious
 
 ---
 
-## [[KEYWORD-Mechanism|mechanism]]s of Naive Cell Loss
+## s of Naive Cell Loss
 
 ### 1. Chronic Activation
 - Persistent antigen stimulation (self-antigens)
@@ -54,7 +54,7 @@ status: conscious
 
 ---
 
-## [[KEYWORD-Clinical|clinical]] Consequences
+##  Consequences
 
 ### Impaired Response to New Antigens
 **Vaccines:**

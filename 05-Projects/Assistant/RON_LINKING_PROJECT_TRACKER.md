@@ -117,7 +117,7 @@
 ## OBSIDIAN LINKING RULES (Reference)
 
 1. **Full filenames:** `[[Ferritin_Iron_Storage_[Z-003-0001].md|Ferritin]]`
-2. **Contextual text:** "Ferritin acts as [[...|acute phase reactant]]"
+2. **Contextual text:** "Ferritin acts as "
 3. **Bi-directional:** If A→B, then B→A
 4. **No bare UIDs:** Always descriptive
 5. **Link in context:** Not lists, but flowing text

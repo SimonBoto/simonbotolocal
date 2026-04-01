@@ -5,7 +5,7 @@ title: Biomarker Deep Dive Template
 aliases: [TEMPLATE-001, Biomarker-Template, Lab-Interpretation-Template]
 domain: template
 tags: [template, biomarker, lab-interpretation, clinical, reference]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: template
 created: 2026-03-30
 ---
@@ -192,8 +192,8 @@ created: 2026-03-30
 ### 5.1 Related Biomarkers (Classic Labs)
 
 **Direct Relationships:**
-- [[Biomarker_A_[B-XXX-XXXX]]]: [Relationship description]
-- [[Biomarker_B_[B-XXX-XXXX]]]: [Relationship description]
+- ]: [Relationship description]
+- ]: [Relationship description]
 
 **Calculated Ratios/Indices:**
 - [Ratio 1]: [Formula] → [Clinical utility]
@@ -204,8 +204,8 @@ created: 2026-03-30
 **Organic Acids Markers:**
 | OAT Marker | Connection | Clinical Significance |
 |------------|------------|----------------------|
-| [[OAT_Marker_1_[Z-XXX-XXXX]]] | [Relationship] | [Interpretation] |
-| [[OAT_Marker_2_[Z-XXX-XXXX]]] | [Relationship] | [Interpretation] |
+| ] | [Relationship] | [Interpretation] |
+| ] | [Relationship] | [Interpretation] |
 
 **When to Order OAT:**
 - [Scenario 1]: [Rationale]
@@ -444,9 +444,9 @@ created: 2026-03-30
 
 ## RELATED BIOMARKERS
 
-- [[Biomarker_A_[B-XXX-XXXX]]]: [Relationship]
-- [[Biomarker_B_[B-XXX-XXXX]]]: [Relationship]
-- [[Biomarker_C_[B-XXX-XXXX]]]: [Relationship]
+- ]: [Relationship]
+- ]: [Relationship]
+- ]: [Relationship]
 
 ---
 

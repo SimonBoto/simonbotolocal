@@ -5,7 +5,7 @@ title: Succinate — Complex II Sentinel
 aliases: [B-012-0004]
 domain: 012
 tags: [oat, metabolite, mitochondrial, succinate, complex-ii, sdh, tumor-marker, hypoxia]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 extraction-date: 2026-03-31
 ---

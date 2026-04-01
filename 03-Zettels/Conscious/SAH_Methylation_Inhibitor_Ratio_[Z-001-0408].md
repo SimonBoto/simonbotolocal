@@ -5,7 +5,7 @@ title: SAH — Methylation Inhibitor and SAM/SAH Ratio
 aliases: [SAH, S-Adenosylhomocysteine, Methylation-Capacity]
 domain: 001
 tags: [zettel, sah, methylation, inhibitor, ratio]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]]
 extraction-date: 2026-03-01
@@ -31,7 +31,7 @@ SAM + Acceptor → Methylated acceptor + SAH
 - Competitive inhibition (structurally similar to SAM)
 - **High SAH = Low methylation activity**
 
-**[[KEYWORD-Mechanism|mechanism]]:**
+**:**
 - Binds methyltransferase active site
 - Prevents SAM binding
 - Reversible inhibition
@@ -56,7 +56,7 @@ SAH ↔ Homocysteine + Adenosine
 | **Low (<2)** | Impaired methylation |
 | **Very low (<1)** | Severe methylation deficiency |
 
-**[[KEYWORD-Clinical|clinical]] Correlations:**
+** Correlations:**
 - **Low ratio:** Depression, cognitive decline, CVD
 - **Optimal ratio:** Supports DNA repair, neurotransmitter synthesis
 
@@ -79,9 +79,9 @@ SAH ↔ Homocysteine + Adenosine
 
 
 ## Related
-- [[Methylation_[[KEYWORD-Cancer|cancer]]_Double_Edged_Sword_[Z-001-0411]|Z-001-0411]]
+- _Double_Edged_Sword_[Z-001-0411]|Z-001-0411]]
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Folate_5MTHF_vs_Folic_Acid_[Z-004-0002]|Z-004-0002]]

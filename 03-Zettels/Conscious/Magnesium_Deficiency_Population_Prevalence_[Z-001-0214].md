@@ -5,7 +5,7 @@ title: Magnesium Deficiency — Population Prevalence and Causes
 aliases: [Mg-Deficiency-Prevalence, Magnesium-Epidemiology]
 domain: 001
 tags: [zettel, magnesium, deficiency, prevalence, population, dietary]
-parent-moc: [[MOC-Magnesium]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]]
 extraction-date: 2026-03-01
@@ -30,7 +30,7 @@ extraction-date: 2026-03-01
 ### High-Risk Groups
 | Population | Deficiency Rate | Risk Factors |
 |------------|-----------------|--------------|
-| **Metabolic syndrome** | 65-80% | Poor diet, [[KEYWORD-Insulin|insulin]] resistance |
+| **Metabolic syndrome** | 65-80% | Poor diet,  resistance |
 | **Type 2 diabetes** | 25-38% | Osmotic diuresis, poor diet |
 | **Elderly** | 67-80% | Reduced absorption, medications |
 | **Alcoholics** | 30-60% | Poor nutrition, increased excretion |
@@ -74,7 +74,7 @@ extraction-date: 2026-03-01
 ### 4. Chronic Diseases
 **Diabetes Mellitus:**
 - Osmotic diuresis causes urinary Mg losses
-- [[KEYWORD-Insulin_Resistance|insulin resistance]] reduces cellular uptake
+-  reduces cellular uptake
 - 25-38% of diabetics deficient
 
 **GI Disorders:**
@@ -97,7 +97,7 @@ extraction-date: 2026-03-01
 - Reduced cellular Mg uptake
 - Dietary factors (poor quality diet)
 
-**[[KEYWORD-Inflammation|inflammation]]:**
+**:**
 - Inflammatory cytokines affect Mg distribution
 - Oxidative stress depletes Mg
 
@@ -134,6 +134,6 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

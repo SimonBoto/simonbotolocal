@@ -6,7 +6,7 @@ aliases: [Z-001-0905, Z-001-0005-deprecated, Epigenomics, DNA_Methylation, Histo
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, epigenomics, gene-regulation, DNA-methylation, histone-acetylation, environment, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
@@ -46,7 +46,7 @@ Epigenetic modifications respond to:
 
 → This explains how **environment factors modify genetic expression** without changing DNA sequence.
 
-## Connection to [[KEYWORD-Metabolomics|metabolomics]]
+## Connection to 
 
 **Shared characteristic:** Both capture environmental influences
 
@@ -59,7 +59,7 @@ Epigenetic modifications respond to:
 
 ## METHAP Relevance
 
-**[[KEYWORD-Vitamin_D|vitamin d]] may act through epigenetic mechanisms:**
+** may act through epigenetic mechanisms:**
 - VDR (Vitamin D Receptor) binding affects gene transcription
 - Potential epigenetic modulation of metabolic genes
 - Could explain long-term metabolic effects of VD supplementation
@@ -72,7 +72,7 @@ Epigenetic modifications respond to:
 
 ## Context
 
-**Also relevant to:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]] — Potential epigenetic actions of VD
+**Also relevant to:** -Mechanisms]] — Potential epigenetic actions of VD
 
 **Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Subsection 2.2
 
@@ -82,4 +82,4 @@ Epigenetic modifications respond to:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

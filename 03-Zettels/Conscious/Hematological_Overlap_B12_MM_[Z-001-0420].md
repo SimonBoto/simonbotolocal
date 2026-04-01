@@ -5,7 +5,7 @@ title: Hematological Overlap — B12 Deficiency vs MM
 aliases: [Hematological-Overlap, Anemia, Pancytopenia]
 domain: 001
 tags: [zettel, b12, anemia, multiple-myeloma, hematology]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Hematological Overlap — B12 Deficiency vs MM
 
-> Both B12 deficiency and multiple myeloma cause anemia, elevated LDH, and bone marrow abnormalities, but the anemia morphology and [[KEYWORD-Mechanism|mechanism]] differ critically.
+> Both B12 deficiency and multiple myeloma cause anemia, elevated LDH, and bone marrow abnormalities, but the anemia morphology and  differ critically.
 
 ## B12 Deficiency Hematology
 

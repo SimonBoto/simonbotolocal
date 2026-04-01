@@ -6,7 +6,7 @@ aliases: [Z-001-0526, Research Phase Standards, Biomarker Study Classification]
 domain: 001
 domain-name: Research Methods
 tags: [zettel, study-design, exploratory-research, confirmatory-research, biomarkers, validation, research-integrity]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
 confidence: high
 created: 2026-03-03
@@ -45,7 +45,7 @@ The distinction between **exploratory** (hypothesis-generating) and **confirmato
 - No pre-specified primary outcomes
 - Multiple comparisons acceptable with FDR control
 
-🔍 **[[KEYWORD-Biomarker|biomarker]] discovery paradigm**
+🔍 ** discovery paradigm**
 - Screen thousands of features
 - Identify candidates for follow-up
 - Prioritize by effect size + biological plausibility
@@ -69,7 +69,7 @@ The distinction between **exploratory** (hypothesis-generating) and **confirmato
 ### Common Pitfalls ("Exploratory Excuse")
 
 ❌ **Don't say:**
-> "We identified significant [[KEYWORD-Biomarker|biomarkers]] for gastric cancer" (from underpowered exploratory study)
+> "We identified significant  for gastric cancer" (from underpowered exploratory study)
 
 ❌ **Red flags:**
 - Presenting exploratory findings as definitive
@@ -142,7 +142,7 @@ The distinction between **exploratory** (hypothesis-generating) and **confirmato
 ## The Gastric Cancer Case Study Assessment
 
 ### What the Study Did
-- Exploratory [[KEYWORD-Metabolomics|metabolomics]] screen
+- Exploratory  screen
 - FDR = 0.1 applied
 - Presented 63 "significant" metabolites
 - Mentioned validation as future work
@@ -195,7 +195,7 @@ Without explicit "exploratory" framing, readers may interpret findings as more r
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 ## RELATED FILES
 - [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 
 
 

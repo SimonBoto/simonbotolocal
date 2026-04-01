@@ -5,7 +5,7 @@ title: Glutamate-Arginine-Urea Cycle Connection
 aliases: [Z-001-0917, Z-001-0503-deprecated, glutamate, arginine, urea-cycle, nitrogen-disposal]
 domain: 001
 tags: [zettel, glutamate, arginine, urea-cycle, ornithine, citrulline, nags]
-parent-moc: [[MOC-Urea-Cycle]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 updated: 2026-03-05
@@ -60,7 +60,7 @@ Arginine + H₂O → Urea + Ornithine
 - Ornithine, citrulline, argininosuccinate: Urea cycle intermediates
 - Glutamate provides carbons for ornithine
 
-## [[KEYWORD-Clinical|clinical]]: Urea Cycle Defects
+## : Urea Cycle Defects
 
 ### Presentation
 - **Hyperammonemia** (ammonia accumulation)
@@ -89,10 +89,10 @@ Arginine + H₂O → Urea + Ornithine
 - Ultimate source of first urea nitrogen
 
 ## Related
-- [[Amino_Acids_Oxaloacetate_Aspartate_[Z-001-0493]]] [[KEYWORD-Amino_Acids|amino acids]] to Oxaloacetate (aspartate connection)
+- [[Amino_Acids_Oxaloacetate_Aspartate_[Z-001-0493]]]  to Oxaloacetate (aspartate connection)
 - [[Glutamate_Central_Amino_Acid_Hub_[Z-001-0915]]] Glutamate Central Hub
 - [[Glutamine_Glutamate_Ammonia_Cycle_[Z-001-0916]]] Glutamine-Glutamate-Ammonia Cycle
-- [[MOC-Urea-Cycle]]
+- 
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

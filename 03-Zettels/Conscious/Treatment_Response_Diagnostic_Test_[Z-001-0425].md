@@ -5,7 +5,7 @@ title: Treatment Response — Diagnostic Test
 aliases: [Treatment-Response, Reticulocytosis, Diagnostic-Test]
 domain: 001
 tags: [zettel, treatment, response, b12, diagnosis]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]]
 extraction-date: 2026-03-01
@@ -29,7 +29,7 @@ extraction-date: 2026-03-01
 
 **Alternative Diagnosis:**
 - Not B12 deficiency
-- Concurrent deficiency (iron, [[KEYWORD-Folate|folate]])
+- Concurrent deficiency (iron, )
 - Non-compliance
 - Misdiagnosis
 
@@ -38,7 +38,7 @@ extraction-date: 2026-03-01
 - Avoids delay in appropriate therapy
 - Critical for patient outcome
 
-## [[KEYWORD-Clinical|clinical]] Use
+##  Use
 
 **Diagnostic Trial:**
 - Start B12 while awaiting full workup
@@ -57,6 +57,6 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

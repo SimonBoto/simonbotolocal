@@ -6,7 +6,7 @@ aliases: [Z-001-1132, MM-Diagnosis]
 domain: 001
 domain-name: Hematology Oncology
 tags: [zettel, multiple-myeloma, diagnosis, workup]
-parent-moc: [[MOC-Hematology-Oncology]]
+parent-moc: 
 source-litnote: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]]
 source: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Multiple Myeloma Diagnostic Criteria Workup
 
 ## Overview
-Definitive diagnosis of multiple myeloma requires clonal bone marrow plasma cells ≥10% plus CRAB features OR [[KEYWORD-Biomarker|biomarker]]s of malignancy (SLiM criteria).
+Definitive diagnosis of multiple myeloma requires clonal bone marrow plasma cells ≥10% plus CRAB features OR s of malignancy (SLiM criteria).
 
 ## Diagnostic Criteria (IMWG 2014)
 
@@ -36,7 +36,7 @@ Definitive diagnosis of multiple myeloma requires clonal bone marrow plasma cell
 | **A**nemia | Hgb <10 g/dL or >2 g/dL below LLN |
 | **B**one | ≥1 osteolytic lesion on imaging |
 
-#### SLiM [[KEYWORD-Biomarker|biomarkers]]
+#### SLiM 
 | Feature | Threshold |
 |---------|-----------|
 | **S**ixty | ≥60% clonal plasma cells in BM |
@@ -138,13 +138,13 @@ Definitive diagnosis of multiple myeloma requires clonal bone marrow plasma cell
 ## Related
 - [[Multiple_Myeloma_CRAB_Features_Diagnosis_[Z-001-1131].md]]
 - [[Multiple_Myeloma_Staging_ISS_R-ISS_[Z-001-1133].md]]
-- [[MOC-Hematology-Oncology]]
+- 
 
 ---
-*Source: CGPT-0264 — Warburg effect and [[KEYWORD-Cancer|cancer]]*
+*Source: CGPT-0264 — Warburg effect and *
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

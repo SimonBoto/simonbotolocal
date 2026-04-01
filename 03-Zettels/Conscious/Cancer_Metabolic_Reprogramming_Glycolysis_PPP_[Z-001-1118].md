@@ -6,7 +6,7 @@ aliases: [Z-001-1118, Cancer-Reprogramming]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, cancer, reprogramming, glycolysis, ppp]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]]
 source: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Cancer Metabolic Reprogramming Glycolysis PPP
 
 ## Overview
-Cancer cells reprogram [[KEYWORD-Metabolism|metabolism]] to support rapid proliferation—prioritizing biosynthesis over energy efficiency through glycolysis and the pentose phosphate pathway.
+Cancer cells reprogram  to support rapid proliferation—prioritizing biosynthesis over energy efficiency through glycolysis and the pentose phosphate pathway.
 
 ## The Proliferation Requirement
 
@@ -63,11 +63,11 @@ Glyceraldehyde-3-P → Serine, glycine (for proteins)
      ↓
 3-phosphoglycerate → Serine (for proteins, nucleotides)
      ↓
-Pyruvate → Acetyl-CoA → [[KEYWORD-Fatty_Acids|fatty acids]] (for membranes)
+Pyruvate → Acetyl-CoA →  (for membranes)
 ```
 
 ### Citrate Export
-- **[[KEYWORD-Mitochondria|mitochondria]] → Cytosol:** Citrate shuttle
+- ** → Cytosol:** Citrate shuttle
 - **ATP-citrate lyase:** Cleaves to acetyl-CoA
 - **Acetyl-CoA carboxylase:** Initiates fatty acid synthesis
 - **Result:** Lipid synthesis for membranes
@@ -102,12 +102,12 @@ Pyruvate → Acetyl-CoA → [[KEYWORD-Fatty_Acids|fatty acids]] (for membranes)
 ## Related
 - [[Warburg_Effect_Aerobic_Glycolysis_Cancer_[Z-001-1117].md]]
 - [[Tumor_Microenvironment_Lactate_Acidification_[Z-001-1119].md]]
-- [[MOC-Cancer-Metabolism]]
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[mtDNA_Mutations_Cancer_Metastasis_[Z-001-1167]|Z-001-1167]]

@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Ketogenic diet for cancer, caloric restriction, Press-Pulse protocol, mitochondrial dysfunction exploitation
 status: extracted
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -88,7 +88,7 @@ extraction-date: 2026-03-08
 4. [[Caloric_Restriction_Fasting_Cancer_Metabolic_Therapy_[Z-001-1124].md]]
 
 ## Related References
-- [[MOC-Cancer-Metabolism]]
+- 
 - [[Therapeutic_Ketosis_Clinical_Applications_[Z-001-1096].md]]
 - [[Ketogenesis_Mechanism_Liver_Mitochondria_[Z-001-1094].md]]
 

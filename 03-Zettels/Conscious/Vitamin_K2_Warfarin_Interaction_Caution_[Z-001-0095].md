@@ -6,22 +6,22 @@ aliases: [Z-001-0095, Vitamin_K2_Warfarin_Interaction_Caution]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, vitamin-d, vitamin-k2]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 source: [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]]
 confidence: high
 created: 2026-03-01
 status: conscious
 ---
 
-# [[KEYWORD-Vitamin_K2|vitamin k2]] Warfarin Interaction Caution
+#  Warfarin Interaction Caution
 
 Patients on vitamin K antagonists (warfarin) require close supervision when taking K2 supplements. Vitamin K can antagonize warfarin's effect. Coordinate with prescribing physician and monitor INR closely.
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
+**Parent MOC:** 
 **Source:** [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]]
-**Related:** [[Vitamin_K2_MK4_MK7_Osteocalcin_Activation_[Z-001-0092].md]], [[MOC-[[KEYWORD-Clinical|clinical]]-Protocols]]
+**Related:** [[Vitamin_K2_MK4_MK7_Osteocalcin_Activation_[Z-001-0092].md]], -Protocols]]
 
 ---
 
@@ -29,4 +29,4 @@ Patients on vitamin K antagonists (warfarin) require close supervision when taki
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

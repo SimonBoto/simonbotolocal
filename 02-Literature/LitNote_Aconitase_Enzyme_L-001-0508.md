@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: Critical — Understanding the enzymatic bottleneck in the Krebs cycle and its dependency on iron-sulfur clusters
 status: extracted
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-01
 source-file-location: /03-Zettels/ChatGPT_Archive/metabolomics/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_[CGPT-0393].md
 source-verified: 2026-03-01

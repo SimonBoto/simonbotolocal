@@ -5,7 +5,7 @@ title: Retest Scheduling Clinical Follow-up Protocols
 aliases: [Z-004-0003, Retest Schedule, Follow-up, Monitoring, Lab Intervals]
 domain: 004
 tags: [zettel, clinical-protocol, workflow, monitoring]
-parent-moc: [[MOC-Methylation-One-Carbon]]
+parent-moc: 
 status: conscious
 connections:
   - S-001-0001
@@ -21,7 +21,7 @@ connections:
 
 ## 🎯 Retest Intervals by Marker
 
-### [[KEYWORD-Insulin|insulin]] Resistance Panel (Primary Outcomes)
+###  Resistance Panel (Primary Outcomes)
 | Marker | Baseline | Active Intervention | Stable/Optimal |
 |--------|----------|---------------------|----------------|
 | **HOMA-IR, TyG** | ✅ | 6-8 weeks | 3-6 months |
@@ -34,7 +34,7 @@ connections:
 ### Foundational Nutrients
 | Marker | Baseline | Intervention Start | Maintenance |
 |--------|----------|-------------------|-------------|
-| **[[KEYWORD-Vitamin_D|vitamin d]]** | ✅ | 8-12 weeks (dose change) | 6 months |
+| **** | ✅ | 8-12 weeks (dose change) | 6 months |
 | **Homocysteine** | ✅ | 8 weeks (methylation support) | 6 months |
 | **Ferritin + iron panel** | ✅ | 8 weeks (if treating) | 6 months |
 | **B12/MMA** | ✅ | 8 weeks (if treating) | 6-12 months |
@@ -50,7 +50,7 @@ connections:
 
 **Rationale:** TSH takes 6 weeks to reflect steady-state hormone levels.
 
-### [[KEYWORD-Inflammation|inflammation]] and Metabolic
+###  and Metabolic
 | Marker | Baseline | Intervention | Maintenance |
 |--------|----------|--------------|-------------|
 | **hs-CRP** | ✅ | 8-12 weeks | 6 months |
@@ -138,4 +138,4 @@ connections:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

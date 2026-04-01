@@ -5,7 +5,7 @@ title: Cottonseed Oil History — Toxic Gossypol and Industrial Origins
 aliases: [Z-001-0972]
 domain: 001
 tags: [zettel, cottonseed-oil, gossypol, history, toxic, industry, byproduct, conscious]
-parent-moc: [[MOC-History-Industrial-Development]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]]
 status: conscious
@@ -42,7 +42,7 @@ status: conscious
 
 ## Gossypol — The Toxic Compound
 
-### [[KEYWORD-Chemistry|chemistry]]
+### 
 
 **Structure:**
 - Polyphenolic binaphthyl dialdehyde
@@ -125,7 +125,7 @@ status: conscious
 | **Other saturated** | 3-5% |
 
 **Characteristics:**
-- High [[KEYWORD-Omega_6|omega-6]] (linoleic acid)
+- High  (linoleic acid)
 - Moderate saturated fat
 - Relatively stable (some natural antioxidants — tocopherols)
 - Neutral flavor when refined
@@ -304,4 +304,4 @@ Cottonseed oil represents:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

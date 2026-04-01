@@ -6,7 +6,7 @@ title: GGT — Gamma-Glutamyl Transferase
 aliases: [Z-009-0004, GGT, Gamma-Glutamyl-Transferase, Inducible-Enzyme, Alcohol-Marker]
 domain: 009
 tags: [zettel, biomarker, ggt, liver, enzyme, alcohol, inducible]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: "High — Foundational nucleotide biochemistry: adenosine, adenine, ribose, nucleoside formation, salvage pathway, evolutionary origins"
 status: extracted
-parent-moc: [[MOC-Nucleotide-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -86,9 +86,9 @@ Adenine (base) + Ribose (sugar) → Adenosine (nucleoside)
 5. [[Purine_Salvage_Pathway_Recycling_Mechanism_[Z-001-1087].md]] — Recycling pathway
 
 ## Related References
-- [[MOC-Nucleotide-Metabolism]]
-- [[MOC-Pentose-Phosphate-Pathway]]
-- [[MOC-Evolutionary-Biochemistry]]
+- 
+- 
+- 
 
 ---
 

@@ -13,7 +13,7 @@ status: ref
 confidence: high
 aliases: [R-001-0001, Patti_2012_Metabolomics_Apogee]
 tags: [ref, metabolomics, omics, systems-biology, review]
-parent-moc: [[MOC-References]]
+parent-moc: 
 source-type: review
 extraction-date: 2026-02-23
 ---
@@ -53,7 +53,7 @@ Patti, G. J., Yanes, O. and Siuzdak, G. (2012) 'Innovation: Metabolomics: the ap
 
 ## Cited In
 - [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Course bibliography
-- [[MOC-Metabolomics-Training]] — Core reference
+-  — Core reference
 
 ## Our Use
 **Clinic:** Explains to patients why urine/plasma testing reveals current state vs genetic testing (potential only)

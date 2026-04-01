@@ -906,4 +906,4 @@ if our conversation was a book. 1. what would the title be? 2. how would you org
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

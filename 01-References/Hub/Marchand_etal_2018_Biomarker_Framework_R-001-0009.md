@@ -13,7 +13,7 @@ status: ref
 confidence: high
 aliases: [R-001-0009, Marchand_2018_Biomarker_Framework]
 tags: [ref, biomarkers, metabolomics, framework, knowledge-translation, clinical-implementation]
-parent-moc: [[MOC-References]]
+parent-moc: 
 source-type: review
 extraction-date: 2026-02-23
 ---
@@ -44,7 +44,7 @@ Marchand CR et al (2018) 'A Framework for Development of Useful Metabolomic Biom
 
 ## Links to Atomics
 - [[Biomarkers_Precision_Medicine_Z-001-0009]] — Biomarker types
-- [[MOC-Clinical-Protocols]] — Implementation pathway
+-  — Implementation pathway
 
 ## Our Use
 **PhD thesis:** Framework chapter for clinical translation strategy

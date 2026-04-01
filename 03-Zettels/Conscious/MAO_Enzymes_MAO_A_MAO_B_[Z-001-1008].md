@@ -5,7 +5,7 @@ title: MAO Enzymes MAO-A and MAO-B — Functions, Inhibitors, and Clinical Signi
 aliases: [Z-001-1008]
 domain: 001
 tags: [zettel, mao, monoamine-oxidase, mao-a, mao-b, dopamine, serotonin, inhibitor, parkinson, depression, conscious]
-parent-moc: [[MOC-Enzyme-Pharmacology]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_MAO_DAO_Enzymes_L-001-0582]]
 status: conscious
@@ -15,7 +15,7 @@ status: conscious
 
 ## Overview
 
-Monoamine oxidases (MAO) are [[KEYWORD-Mitochondria|mitochondria]]l enzymes that catalyze the oxidative deamination of monoamines, playing critical roles in neurotransmitter [[KEYWORD-Metabolism|metabolism]] and drug action.
+Monoamine oxidases (MAO) are l enzymes that catalyze the oxidative deamination of monoamines, playing critical roles in neurotransmitter  and drug action.
 
 ## Isoforms
 
@@ -73,7 +73,7 @@ Monoamine oxidases (MAO) are [[KEYWORD-Mitochondria|mitochondria]]l enzymes that
 
 ## Biochemistry
 
-### Reaction [[KEYWORD-Mechanism|mechanism]]
+### Reaction 
 
 **Oxidative Deamination:**
 ```
@@ -269,4 +269,4 @@ R-CH2-NH2 + O2 + H2O → R-CHO + NH3 + H2O2
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -8,7 +8,7 @@ journal: Internal methodology synthesis
 tier: 1
 relevance: Core systematic review and meta-analysis methodology for PhD research
 status: extracted
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 extraction-date: 2026-03-07
 domain: 001
 ---

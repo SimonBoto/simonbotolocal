@@ -4,13 +4,13 @@ type: zettel
 title: Normalization and Scaling — Metabolomics Data
 domain: 001
 tags: [zettel, normalization, scaling, metabolomics, batch-correction, standardization]
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Metabolomics_Data_Processing_L-001-0619]]"
 status: conscious
 ---
 
-# Normalization and Scaling — [[KEYWORD-Metabolomics|metabolomics]] Data
+# Normalization and Scaling —  Data
 
 ## Overview
 

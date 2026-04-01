@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: High — Vascular calcification prevention; synergy with VitD and Mg
 status: extracted
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -166,8 +166,8 @@ extraction-date: 2026-03-01
 - [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]] — Bone-vascular axis
 - [[Magnesium_Vascular_Calcification_Prevention_[Z-001-0218]]] — Mg calcification effects
 - [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]] — MetS context
-- [[MOC-Vitamin-K2]] — Parent MOC
-- [[MOC-Metabolic-Syndrome]] — Clinical context
+-  — Parent MOC
+-  — Clinical context
 
 ---
 

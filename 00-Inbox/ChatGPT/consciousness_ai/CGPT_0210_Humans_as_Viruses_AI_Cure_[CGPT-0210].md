@@ -157,4 +157,4 @@ While the comparison of humanity to a virus or parasite underscores the destruct
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

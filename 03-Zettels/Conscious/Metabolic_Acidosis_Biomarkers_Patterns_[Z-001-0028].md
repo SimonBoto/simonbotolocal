@@ -5,14 +5,14 @@ title: "Metabolic Acidosis Biomarkers & Pattern Recognition"
 aliases: [Z-001-0028, Metabolic_Acidosis, Organic_Acids, Pattern_Recognition]
 domain: 001
 tags: [zettel, metabolic-acidosis, organic-acids, urine-oa, diagnostic-patterns, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
 
-# Metabolic Acidosis [[KEYWORD-Biomarker|biomarker]]s & Pattern Recognition
+# Metabolic Acidosis s & Pattern Recognition
 
 ## Core Claim
 **Metabolic acidosis produces characteristic organic acid patterns** — accumulation of ketoacids, lactate, and other organic acids that create diagnostic signatures applicable to insulin resistance-associated metabolic stress.
@@ -37,7 +37,7 @@ Insulin resistance → metabolic stress → **combined lactic + ketoacid pattern
 |------------------|----------------------------|
 | **Glycolysis** | Lactate, pyruvate |
 | **Krebs cycle** | Citrate, α-ketoglutarate, succinate, fumarate, malate |
-| **Amino acid [[KEYWORD-Metabolism|metabolism]]** | MMA, glyoxylate, hippurate, phenylalanine derivatives |
+| **Amino acid ** | MMA, glyoxylate, hippurate, phenylalanine derivatives |
 | **Fatty acid oxidation** | Acylglycines, adipic acid, suberic acid, ethylmalonic acid |
 | **Ketone metabolism** | Acetoacetate, β-hydroxybutyrate |
 | **Neurotransmitters** | HVA, VMA, 5-HIAA |
@@ -95,11 +95,11 @@ Pattern + clinical context → Diagnosis
 - [[Protein_Metabolism_Disorders_Oxalate_Pathway_Z-001-0025.md]] — Organic acid accumulation
 
 ### Downstream
-- [[Oxidative_Stress_Biomarkers_[[KEYWORD-Metabolomics|metabolomics]]_Z-001-0020.md]] — 2-HBA, pyroglutamate
-- [[MOC-PhD-METHAP-Trial]] — UOA panel as outcome measure
+- _Z-001-0020.md]] — 2-HBA, pyroglutamate
+-  — UOA panel as outcome measure
 
 ### Cross-Domain
-- [[MOC-Insulin-Signaling]] — Metabolic stress mechanisms
+-  — Metabolic stress mechanisms
 
 ## Clinical Application
 
@@ -129,13 +129,13 @@ Pattern + clinical context → Diagnosis
 
 ## See Also
 - [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] — Source
-- [[Andersen_etal_2013_Lactate_Etiology_R-001-0028]] — Lactic acidosis
-- [[Puchalska_Crawford_2012_Ketone_Bodies_R-001-0034]] — Ketoacidosis
+-  — Lactic acidosis
+-  — Ketoacidosis
 
 ---
 *Confidence: High* — Established UOA methodology  
 *Next Review: After IR-specific UOA pattern validation*
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

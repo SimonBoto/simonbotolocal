@@ -5,15 +5,15 @@ title: Fatty Acid Metabolism — Enzymatic Pathways
 aliases: [Fatty-Acid-Metabolism, Desaturase, Elongase, Eicosanoids]
 domain: 001
 tags: [zettel, fatty-acid-metabolism, desaturase, elongase, eicosanoids]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]]
 extraction-date: 2026-03-01
 ---
 
-# Fatty Acid [[KEYWORD-Metabolism|metabolism]] — Enzymatic Pathways
+# Fatty Acid  — Enzymatic Pathways
 
-> Delta-6 and delta-5 desaturases are shared between [[KEYWORD-Omega_6|omega-6]] and omega-3 pathways, creating metabolic competition that determines inflammatory eicosanoid output.
+> Delta-6 and delta-5 desaturases are shared between  and omega-3 pathways, creating metabolic competition that determines inflammatory eicosanoid output.
 
 ## Key Enzymes
 
@@ -23,7 +23,7 @@ extraction-date: 2026-03-01
 
 **Delta-5 Desaturase (FADS1):**
 - Critical for eicosanoid production
-- Requires zinc, [[KEYWORD-Magnesium|magnesium]], B6
+- Requires zinc, , B6
 
 ## Eicosanoid Production
 
@@ -50,4 +50,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

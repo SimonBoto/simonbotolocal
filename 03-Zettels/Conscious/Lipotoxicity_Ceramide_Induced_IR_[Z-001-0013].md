@@ -7,17 +7,17 @@ aliases: [Z-001-0013, Lipotoxicity, Ceramide_IR]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, mechanism, lipotoxicity, ceramide, fatty-acids, IR]
-parent-moc: [[MOC-Metabolic-Syndrome]]
-source: [[Ref_Cell_IR_Mechanisms_2012]]
+parent-moc: 
+source: 
 confidence: high
 created: 2026-02-22
 ---
 
 # Lipotoxicity and Ceramide-Induced IR
 
-Excess free [[KEYWORD-Fatty_Acids|fatty acids]] cause [[KEYWORD-Insulin|insulin]] resistance through ceramide generation, disrupting insulin signaling at multiple nodes.
+Excess free  cause  resistance through ceramide generation, disrupting insulin signaling at multiple nodes.
 
-**[[KEYWORD-Mechanism|mechanism]]:**
+**:**
 1. High FFA → uptake into muscle/liver
 2. FFA metabolized to diacylglycerol (DAG) and ceramide
 3. Ceramide activates PP2A and PKCζ
@@ -40,6 +40,6 @@ Excess free [[KEYWORD-Fatty_Acids|fatty acids]] cause [[KEYWORD-Insulin|insulin]
 
 ## Context
 
-**Also in:** [[MOC-Metabolic-Syndrome]]
+**Also in:** 
 
 **Therapeutic:** Ceramide synthesis inhibitors (myriocin) improve IR in models

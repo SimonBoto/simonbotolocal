@@ -6,7 +6,7 @@ title: Pyruvic Acid — Glycolysis Endpoint, Mitochondrial Gateway
 aliases: [Z-012-0010, Pyruvic-Acid, Pyruvate, Glycolysis, B1-Deficiency]
 domain: 012
 tags: [zettel, biomarker, pyruvic, pyruvate, glycolysis, mitochondrial, b1]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

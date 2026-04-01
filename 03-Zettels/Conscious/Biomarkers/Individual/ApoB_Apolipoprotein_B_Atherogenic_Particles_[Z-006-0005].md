@@ -6,7 +6,7 @@ title: ApoB — Apolipoprotein B, Atherogenic Particle Count
 aliases: [Z-006-0005, ApoB, Apolipoprotein-B, Particle-Count, LDL-P]
 domain: 006
 tags: [zettel, biomarker, apob, apolipoprotein-b, ldl-particles, cardiovascular]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

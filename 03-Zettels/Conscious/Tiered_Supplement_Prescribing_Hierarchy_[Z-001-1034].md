@@ -6,7 +6,7 @@ aliases: [Z-001-1032, Supplement-Hierarchy]
 domain: 001
 domain-name: Clinical Nutrition
 tags: [zettel, supplementation, prescribing, clinical-protocol, hierarchy]
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
 source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
 confidence: high
@@ -22,7 +22,7 @@ A structured, sequential approach to supplementation that prioritizes foundation
 
 ### Tier 1 — Foundational
 **Components:**
-- [[KEYWORD-Vitamin_D|vitamin d]] (status-dependent dosing)
+-  (status-dependent dosing)
 - Magnesium (form matters)
 - Omega-3 (target: index >8%)
 - B-complex (activated forms)
@@ -30,11 +30,11 @@ A structured, sequential approach to supplementation that prioritizes foundation
 
 **Timing:** Always first, always ongoing
 
-### Tier 2 — Targeted [[KEYWORD-Mitochondria|mitochondria]]l Support
+### Tier 2 — Targeted l Support
 **Indications:**
 - Elevated lactate/pyruvate
 - Fatigue-dominant presentations
-- Poor oxidative [[KEYWORD-Metabolism|metabolism]] markers
+- Poor oxidative  markers
 
 **Components:**
 - CoQ10, B2, B3
@@ -96,13 +96,13 @@ A structured, sequential approach to supplementation that prioritizes foundation
 
 ## Related
 - [[Six_Stage_Patient_Flow_Framework_[Z-001-1031].md]]
-- [[MOC-Nutrition]]
-- [[MOC-Clinical-Protocols]]
+- 
+- 
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Magnesium_Supplementation_Diabetes_Clinical_Trials_[Z-001-0213]|Z-001-0213]]

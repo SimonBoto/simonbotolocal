@@ -8,7 +8,7 @@ journal: JAMA, JAOA, J Nutr Metab
 tier: 1
 relevance: High — Mechanisms enabling safe high-dose vitamin D protocols
 status: extracted
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -84,8 +84,8 @@ extraction-date: 2026-03-01
 - [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]] — Why fears are unfounded
 - [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]] — Dosing context
 - [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]] — Clinical evidence
-- [[MOC-Vitamin-D-Metabolism]] — Parent MOC
-- [[MOC-Vitamin-Safety]] — Safety framework
+-  — Parent MOC
+-  — Safety framework
 
 ---
 

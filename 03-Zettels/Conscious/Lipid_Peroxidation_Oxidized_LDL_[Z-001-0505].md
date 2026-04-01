@@ -5,7 +5,7 @@ title: Lipid Peroxidation and Oxidized LDL
 aliases: [Lipid-Peroxidation, Oxidized-LDL, oxLDL, 4-HNE, MDA]
 domain: 001
 tags: [zettel, lipid-peroxidation, oxidized-ldl, oxldl, inflammation]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]]
 extraction-date: 2026-03-01
@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 
 > Oxidative modification of LDL transforms it into a pro-inflammatory, pro-atherogenic particle that drives macrophage foam cell formation.
 
-## [[KEYWORD-Mechanism|mechanism]]
+## 
 
 **Initiation:**
 - Free radicals attack PUFAs in LDL
@@ -30,7 +30,7 @@ extraction-date: 2026-03-01
 **Products:**
 - **4-HNE:** Toxic aldehyde, protein modification
 - **MDA:** Marker of peroxidation
-- **Oxysterols:** Oxidized [[KEYWORD-Cholesterol|cholesterol]]
+- **Oxysterols:** Oxidized 
 
 ## Consequences
 
@@ -47,7 +47,7 @@ extraction-date: 2026-03-01
 ## Dietary Connection
 
 **PUFA susceptibility:**
-- High [[KEYWORD-Omega_6|omega-6]] intake → more substrate
+- High  intake → more substrate
 - Heated/oxidized vegetable oils
 
 **Antioxidant protection:**
@@ -61,4 +61,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

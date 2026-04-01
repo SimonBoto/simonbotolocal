@@ -5,7 +5,7 @@ title: Carnitine Deficiency Activates Omega-Oxidation Pathway
 aliases: [Z-101-0009, Carnitine Omega-Oxidation, CPT Deficiency]
 domain: 101
 tags: [zettel, carnitine, CPT, omega-oxidation, adipate, mitochondrial-transport]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 status: conscious
 source: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]]"
 extraction-date: 2026-03-02
@@ -13,11 +13,11 @@ extraction-date: 2026-03-02
 
 # Carnitine Deficiency Activates Omega-Oxidation Pathway
 
-**Critical Insight:** Carnitine deficiency blocks long-chain fatty acid entry into [[KEYWORD-Mitochondria|mitochondria]], triggering compensatory ω-oxidation and adipate formation.
+**Critical Insight:** Carnitine deficiency blocks long-chain fatty acid entry into , triggering compensatory ω-oxidation and adipate formation.
 
 ## Carnitine Shuttle System
 
-**CPT I** (outer [[KEYWORD-Mitochondria|mitochondrial]] membrane):
+**CPT I** (outer  membrane):
 - Catalyzes: Fatty acyl-CoA + Carnitine → Acylcarnitine + CoA
 - Rate-limiting step for β-oxidation
 
@@ -45,7 +45,7 @@ extraction-date: 2026-03-02
 
 **Primary carnitine deficiency:** OCTN2 transporter defect
 **Secondary carnitine deficiency:**
-- [[KEYWORD-Insulin|insulin]] resistance
+-  resistance
 - Obesity
 - Type 2 diabetes
 - Aging
@@ -69,4 +69,4 @@ extraction-date: 2026-03-02
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

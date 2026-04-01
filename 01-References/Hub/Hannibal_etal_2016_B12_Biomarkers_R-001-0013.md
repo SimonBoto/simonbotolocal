@@ -16,7 +16,7 @@ status: pending
 aliases: [R-001-0013, Hannibal_2016, B12_Biomarkers, Cofactor_Model]
 domain: 001
 tags: [reference, b12, biomarkers, cofactor, metabolites, tier-1]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 

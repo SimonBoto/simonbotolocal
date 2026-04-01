@@ -16,7 +16,7 @@ status: pending
 aliases: [R-001-0020, Roep_2021, T1D_Beta_Cell]
 domain: 001
 tags: [reference, t1d, beta-cell, autoimmunity, pathogenesis, tier-2]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 
@@ -47,7 +47,7 @@ Roep BO, Thomaidou S, van Tienhoven R, et al. Type 1 diabetes mellitus as a dise
 
 ## Connections
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source citing
-- [[Lamichhane_etal_2019_T1D_Metabolites_Prediction_R-001-0012]] — Complementary T1D reference
+-  — Complementary T1D reference
 
 ---
 *Status: Reference hub created — pending relevance check*  

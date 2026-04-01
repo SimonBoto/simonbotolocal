@@ -6,7 +6,7 @@ aliases: [S-001-0001, Omics_Training_Synthesis, DE1_Synthesis]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [synthesis, omics, systems-biology, metabolomics, METHAP, PhD, insulin-resistance, vitamin-D]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 status: draft
 version: 1.0
 created: 2026-02-23
@@ -179,10 +179,10 @@ Systems biology view (Z-001-0001):
 
 | New Zettel | Connects To | Relationship |
 |------------|-------------|--------------|
-| Z-001-0001 (Systems Biology) | [[IR_Mechanisms_Map]] | Theoretical framework |
-| Z-001-0002 (Omics Cascade) | [[Biomarkers_Taxonomy]] | Biomarker positioning |
-| Z-001-0003 (80% Environmental) | [[MOC-Vitamin-D-Mechanisms]] | VD as modifiable factor |
-| Z-001-0008 (Microbiomics) | [[MOC-Gut-Health]] | Butyrate-IR connection |
+| Z-001-0001 (Systems Biology) |  | Theoretical framework |
+| Z-001-0002 (Omics Cascade) |  | Biomarker positioning |
+| Z-001-0003 (80% Environmental) |  | VD as modifiable factor |
+| Z-001-0008 (Microbiomics) |  | Butyrate-IR connection |
 
 ### Linkages to Vitamin D Research
 
@@ -256,20 +256,20 @@ Based on this synthesis, IRB Section 1 should include:
 ## 9. References (All 10 Hubs)
 
 ### Tier 1 (Seminal)
-- [[Patti_Yanes_Siuzdak_2012_Metabolomics_Apogee_R-001-0001]] — Metabolomics as apogee of omics
-- [[Clayton_etal_2006_Pharmaco_Metabonomics_R-001-0002]] — Pharmaco-metabonomic phenotyping
-- [[Nicholson_2006_Global_Systems_Biology_R-001-0003]] — Systems biology framework
+-  — Metabolomics as apogee of omics
+-  — Pharmaco-metabonomic phenotyping
+-  — Systems biology framework
 
 ### Tier 2 (Clinical/Applied)
-- [[Clish_2015_Metabolomics_Precision_Medicine_R-001-0004]] — Clinical translation
-- [[Kohler_etal_2017_Integrating_Metabolomics_Pharmacology_R-001-0005]] — Biomarker-pharmacology
-- [[Beebe_etal_2017_Metabolic_Individuality_R-001-0006]] — Individual variation
-- [[Chen_Snyder_2012_Systems_Biology_PM_R-001-0007]] — P4 medicine vision
-- [[Klassen_etal_2017_Metabolomics_Definitions_R-001-0008]] — Definitions
-- [[Marchand_etal_2018_Biomarker_Framework_R-001-0009]] — Translation framework
+-  — Clinical translation
+-  — Biomarker-pharmacology
+-  — Individual variation
+-  — P4 medicine vision
+-  — Definitions
+-  — Translation framework
 
 ### Tier 3 (Educational)
-- [[Theodoridis_etal_2015_Systems_Biology_Greek_R-001-0010]] — Greek academic context
+-  — Greek academic context
 
 ---
 

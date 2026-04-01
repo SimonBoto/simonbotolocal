@@ -5,7 +5,7 @@ title: "Anaplerotic Reactions: Filling the Krebs Cycle"
 aliases: [Z-001-0613]
 domain: 001
 tags: [zettel, anaplerosis, krebs-cycle, amino-acids, pyruvate-carboxylase, oxaloacetate, conscious]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]]
 extraction-date: 2026-03-05
@@ -27,7 +27,7 @@ Pyruvate + CO₂ + ATP → Oxaloacetate + ADP + Pi
 ```
 - **Enzyme:** Pyruvate carboxylase (PC)
 - **Cofactor:** Biotin (vitamin B7)
-- **Location:** [[KEYWORD-Mitochondria|mitochondria]]l matrix
+- **Location:** l matrix
 - **Regulation:** Activated by acetyl-CoA
 
 **Why it matters:**
@@ -55,7 +55,7 @@ Aspartate → Oxaloacetate
 ```
 Propionyl-CoA → Methylmalonyl-CoA → Succinyl-CoA
 ```
-- From: Methionine, Isoleucine, Valine, Threonine, odd-chain [[KEYWORD-Fatty_Acids|fatty acids]]
+- From: Methionine, Isoleucine, Valine, Threonine, odd-chain 
 - **Anaplerotic** because succinyl-CoA is a Krebs intermediate
 
 ## Why Anaplerosis is Critical
@@ -79,7 +79,7 @@ During active biosynthesis, intermediates are withdrawn:
 | **Pyruvate carboxylase deficiency** | Severe lactic acidosis, hypoglycemia, neurological damage |
 | **Biotin deficiency** | Impaired PC activity; similar but milder symptoms |
 | **Diabetes** | Increased anaplerotic demand due to high flux |
-| **High protein diet** | Amino acid anaplerosis supports [[KEYWORD-Metabolism|metabolism]] |
+| **High protein diet** | Amino acid anaplerosis supports  |
 
 ### Exercise Metabolism
 - **High intensity:** Pyruvate carboxylase maintains Krebs cycle
@@ -100,5 +100,5 @@ During active biosynthesis, intermediates are withdrawn:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Complete_Adipate_Metabolism_Formation_to_Krebs_[Z-001-1196]|Z-001-1196]]

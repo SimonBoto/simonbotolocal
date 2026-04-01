@@ -6,13 +6,13 @@ aliases: [Z-001-0033, ER-Stress-UPR-IR]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, ER-stress, UPR, unfolded-protein-response, metabolic-overload]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
 confidence: high
 created: 2026-02-24
 ---
 
-# ER Stress and UPR in [[KEYWORD-Insulin|insulin]] Resistance
+# ER Stress and UPR in  Resistance
 
 Metabolic overload creates endoplasmic reticulum stress when protein synthesis demand and lipid synthesis exceed ER capacity, coupled with calcium dysregulation. This triggers the Unfolded Protein Response (UPR).
 
@@ -21,11 +21,11 @@ Metabolic overload creates endoplasmic reticulum stress when protein synthesis d
 - **IRE1α** → JNK activation → inflammatory pathway cross-talk
 - **ATF6** → Lipogenesis gene activation → more lipid synthesis
 
-**Cross-talk with [[KEYWORD-Inflammation|inflammation]]:** ER stress activates NF-κB, creating a positive feedback loop where metabolic stress drives inflammation, which further stresses the ER.
+**Cross-talk with :** ER stress activates NF-κB, creating a positive feedback loop where metabolic stress drives inflammation, which further stresses the ER.
 
 ## Key Details
 
-| UPR Branch | Effect on [[KEYWORD-Metabolism|metabolism]] |
+| UPR Branch | Effect on  |
 |------------|---------------------|
 | PERK/eIF2α | ↓ Insulin protein synthesis |
 | IRE1α/JNK | IRS-1 serine phosphorylation |
@@ -39,7 +39,7 @@ Metabolic overload creates endoplasmic reticulum stress when protein synthesis d
 
 ## Context
 
-**Also relevant to:** [[MOC-Cellular-Stress]], [[MOC-Protein-Synthesis]]
+**Also relevant to:** , 
 
 **Emerges from:** Literature synthesis on cellular mechanisms
 
@@ -49,5 +49,5 @@ Metabolic overload creates endoplasmic reticulum stress when protein synthesis d
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[ER_Stress_Induced_IR_[Z-001-0014]|Z-001-0014]]

@@ -5,7 +5,7 @@ title: Metabolic Flexibility — Glucose vs Fatty Acid Oxidation and RER
 aliases: [Z-001-1012]
 domain: 001
 tags: [zettel, metabolic-flexibility, mitochondrial-health, rer, respiratory-exchange-ratio, fuel-utilization, insulin-resistance, conscious]
-parent-moc: [[MOC-Metabolic-Health]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]]
 status: conscious
@@ -28,7 +28,7 @@ Glycolysis → Pyruvate → Acetyl-CoA → Krebs Cycle → ETC
 
 **Characteristics:**
 - Fast ATP production
-- Requires [[KEYWORD-Insulin|insulin]] for cellular entry
+- Requires  for cellular entry
 - Produces lactate under anaerobic conditions
 - RER ≈ 1.0 (CO2/O2)
 
@@ -112,7 +112,7 @@ Inability to switch fuels appropriately; persistently glucose-dependent.
 
 **Causes:**
 - Chronic high carbohydrate intake
-- [[KEYWORD-Insulin_Resistance|insulin resistance]]
+- 
 - Mitochondrial dysfunction
 - Physical inactivity
 - Poor sleep
@@ -233,7 +233,7 @@ Inability to switch fuels appropriately; persistently glucose-dependent.
 ### Weight Management
 
 **Principle:**
-- Flexible [[KEYWORD-Metabolism|metabolism]] burns stored fat readily
+- Flexible  burns stored fat readily
 - Inflexible metabolism resists fat loss
 - Flexibility = sustainable weight control
 
@@ -285,4 +285,4 @@ Inability to switch fuels appropriately; persistently glucose-dependent.
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -5,7 +5,7 @@ title: Oxalate Mineral Binding and Bioavailability
 aliases: [Z-001-0603, oxalate-calcium, oxalate-iron, mineral-binding]
 domain: 001
 tags: [zettel, oxalate, calcium, iron, bioavailability, chelation]
-parent-moc: [[MOC-Adipic-Acid-Metabolism]]
+parent-moc: 
 source: [[L-001-0060A]]
 confidence: high
 created: 2026-03-04
@@ -13,7 +13,7 @@ created: 2026-03-04
 
 # Oxalate Mineral Binding and Bioavailability
 
-## [[KEYWORD-Mechanism|mechanism]]
+## 
 
 **Oxalic acid binds divalent cations:**
 ```
@@ -28,7 +28,7 @@ Oxalate²⁻ + Fe²⁺ → Iron oxalate (poorly absorbed)
 - **Result:** Precipitates in gut, cannot be absorbed
 - **Impact:** Reduces calcium bioavailability from food
 
-**[[KEYWORD-Clinical|clinical]] significance:**
+** significance:**
 - High-oxalate meals reduce calcium absorption
 - Calcium supplements with meals can bind oxalate
 - Ratio of calcium:oxalate important for stone risk
@@ -44,7 +44,7 @@ Oxalate²⁻ + Fe²⁺ → Iron oxalate (poorly absorbed)
 - Vitamin C enhances iron absorption (counteracts oxalate effect)
 - Heme iron (meat) absorption unaffected
 
-## [[KEYWORD-Magnesium|magnesium]] and Zinc
+##  and Zinc
 
 Also bind oxalate, though less clinically significant than calcium.
 

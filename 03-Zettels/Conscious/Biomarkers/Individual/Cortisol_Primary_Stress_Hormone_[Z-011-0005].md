@@ -6,7 +6,7 @@ title: Cortisol — Primary Stress Hormone
 aliases: [Z-011-0005, Cortisol, Hydrocortisone, Stress-Hormone, HPA-Axis]
 domain: 011
 tags: [zettel, biomarker, cortisol, stress, hpa-axis, adrenal, glucocorticoid]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

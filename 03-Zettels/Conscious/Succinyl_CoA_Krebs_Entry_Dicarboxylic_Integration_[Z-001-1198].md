@@ -4,7 +4,7 @@ type: zettel
 title: Succinyl-CoA Entry into Krebs Cycle — Dicarboxylic Acid Integration
 domain: 001
 tags: [zettel, succinyl-coa, krebs-cycle, dicarboxylic-acids, adipate, metabolism]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]]"
 status: conscious
@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Succinyl-CoA is the critical entry point where dicarboxylic acid [[KEYWORD-Metabolism|metabolism]] converges with the Krebs cycle. This integration allows adipate and other dicarboxylic acids to contribute to cellular energy production.
+Succinyl-CoA is the critical entry point where dicarboxylic acid  converges with the Krebs cycle. This integration allows adipate and other dicarboxylic acids to contribute to cellular energy production.
 
 ---
 
@@ -112,7 +112,7 @@ Adipyl-CoA
 ### Elevated Urinary Dicarboxylic Acids Implies:
 
 1. **Metabolic overflow** — Production exceeds processing capacity
-2. **[[KEYWORD-Mitochondria|mitochondria]]l limitation** — Cannot handle substrate load
+2. **l limitation** — Cannot handle substrate load
 3. **Enzyme bottleneck** — Dicarboxylic pathway saturated
 
 **NOT:** Inability to use these molecules — just rate limitation
@@ -147,7 +147,7 @@ Adipyl-CoA
 
 - [[Complete_Adipate_Metabolism_Formation_to_Krebs_[Z-001-1196].md]]
 - [[Dicarboxylic_Acid_Energy_Yield_ATP_[Z-001-1197].md]]
-- [[Beta_Oxidation_[[KEYWORD-Mitochondria|mitochondrial]]_Fatty_Acid_Breakdown_[Z-001-1192].md]]
+- _Fatty_Acid_Breakdown_[Z-001-1192].md]]
 
 ---
 
@@ -155,5 +155,5 @@ Adipyl-CoA
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_[Z-001-0610]|Z-001-0610]]

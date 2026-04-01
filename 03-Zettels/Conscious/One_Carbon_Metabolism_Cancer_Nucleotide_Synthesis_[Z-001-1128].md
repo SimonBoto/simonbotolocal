@@ -6,14 +6,14 @@ aliases: [Z-001-1128, One-Carbon-Cancer]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, one-carbon, metabolism, cancer, nucleotide]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]]
 source: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]]
 confidence: high
 created: 2026-03-08
 ---
 
-# One Carbon [[KEYWORD-Metabolism|metabolism]] Cancer Nucleotide Synthesis
+# One Carbon  Cancer Nucleotide Synthesis
 
 ## Overview
 Cancer cells have an exceptionally high demand for one-carbon units to support rapid nucleotide synthesis, amino acid metabolism, and methylation reactions—making one-carbon metabolism a critical pathway for proliferation.
@@ -113,18 +113,18 @@ Folate antagonist → Blocks one-carbon transfer
 | **Glycine** | Accepts one-carbon |
 | **Cancer adaptation** | Upregulate serine synthesis |
 
-### [[KEYWORD-Mitochondria|mitochondria]]l One-Carbon
+### l One-Carbon
 | Feature | Significance |
 |---------|--------------|
-| **[[KEYWORD-Mitochondria|mitochondrial]] SHMT** | Alternative source |
+| ** SHMT** | Alternative source |
 | **Formate overflow** | Supports cytosolic synthesis |
 | **Cancer dependence** | Often upregulated |
 
 ## Related
 - [[B_Vitamins_Methylation_Epigenetics_Cancer_[Z-001-1129].md]]
 - [[Folate_Cancer_Paradox_Prevention_Progression_[Z-001-1130].md]]
-- [[MOC-Cancer-Metabolism]]
-- [[MOC-Methylation-One-Carbon]]
+- 
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*

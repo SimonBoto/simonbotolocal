@@ -5,7 +5,7 @@ title: Mitochondrial Dysfunction Clinical Action Protocol
 aliases: [S-001-0004, Mitochondrial-Action, Mitochondrial-Protocol]
 domain: 001
 tags: [synthesis, mitochondria, clinical-protocol, testing, intervention, oat, supplementation, metabolic-therapy]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 status: active
 created: 2026-03-30
 updated: 2026-03-30

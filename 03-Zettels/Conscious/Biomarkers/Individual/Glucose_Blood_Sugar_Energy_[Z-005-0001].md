@@ -6,7 +6,7 @@ title: Glucose — Blood Sugar Energy Currency
 aliases: [Z-005-0001, Glucose, Blood-Sugar, Fasting-Glucose]
 domain: 005
 tags: [zettel, biomarker, glucose, blood-sugar, diabetes, insulin]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

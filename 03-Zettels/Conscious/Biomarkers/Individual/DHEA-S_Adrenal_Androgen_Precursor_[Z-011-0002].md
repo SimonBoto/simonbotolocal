@@ -6,7 +6,7 @@ title: DHEA-S — Adrenal Androgen Precursor
 aliases: [Z-011-0002, DHEA-S, DHEA-Sulfate, Adrenal-Androgen, Precursor]
 domain: 011
 tags: [zettel, biomarker, dhea-s, dhea, adrenal, androgen, precursor]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

@@ -66,7 +66,7 @@ Use this format in your feedback (I parse and execute):
 
 | Markup | Meaning | Example |
 |--------|---------|---------|
-| `++text++` | Add this text | `++[See also: [[Related]]]++` |
+| `++text++` | Add this text | `++[See also: ]++` |
 | `--text--` | Remove this text | `--old broken link--` |
 | `~~text~~` | Replace with | `~~old~~ → new` |
 | `??text??` | Question/flag for discussion | `??Is this cutoff correct??` |

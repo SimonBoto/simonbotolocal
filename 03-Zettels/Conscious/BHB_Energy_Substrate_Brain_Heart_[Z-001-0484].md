@@ -5,7 +5,7 @@ title: BHB as Energy Substrate for Brain and Heart
 aliases: [Z-001-0484, bhb-energy, brain-fuel, heart-fuel, ketones]
 domain: 001
 tags: [zettel, bhb, brain, heart, energy, ketones, neuroprotection]
-parent-moc: [[MOC-Ketogenesis]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045G]]
@@ -17,9 +17,9 @@ source: [[L-001-0045G]]
 **BHB crosses membranes easily:**
 - **Blood-brain barrier:** Monocarboxylate transporters (MCTs)
 - **Cellular uptake:** MCT1, MCT2, MCT4
-- **No [[KEYWORD-Insulin|insulin]] required:** Unlike glucose
+- **No  required:** Unlike glucose
 
-## Brain [[KEYWORD-Metabolism|metabolism]]
+## Brain 
 
 ### During Starvation
 - **60-70% of brain energy** from ketones after adaptation
@@ -34,7 +34,7 @@ source: [[L-001-0045G]]
 
 ### Clinical Applications
 - **Epilepsy:** Ketogenic diet reduces seizures (established)
-- **Alzheimer's:** "Type 3 diabetes" — [[KEYWORD-Insulin_Resistance|insulin resistance]] in brain
+- **Alzheimer's:** "Type 3 diabetes" —  in brain
 - **Traumatic brain injury:** Alternative fuel when glucose metabolism impaired
 - **Parkinson's:** Mitochondrial dysfunction benefits
 
@@ -71,7 +71,7 @@ Acetyl-CoA → Krebs cycle → ATP
 ## Related
 - [[BHB_HDAC_Inhibition_Epigenetics_[Z-001-0485]]] BHB HDAC Inhibition (signaling beyond energy)
 - [[BHB_NLRP3_Inflammasome_Inhibition_[Z-001-0486]]] BHB NLRP3 Inhibition
-- [[MOC-Ketogenesis]]
+- 
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

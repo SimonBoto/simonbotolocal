@@ -5,7 +5,7 @@ title: MGP — Body's Defense Against Vascular Calcification
 aliases: [MGP-Defense, Matrix-Gla-Protein, Calcification-Inhibitor]
 domain: 001
 tags: [zettel, mgp, vascular-calcification, inhibitor, protection]
-parent-moc: [[MOC-Cardiovascular-Health]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Vascular_Calcification_L-001-0215]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # MGP — Body's Defense Against Vascular Calcification
 
-> Matrix Gla Protein (MGP) is the body's most potent natural inhibitor of vascular calcification, requiring both [[KEYWORD-Vitamin_D|vitamin d]]-stimulated synthesis and [[KEYWORD-Vitamin_K2|vitamin k2]]-mediated activation to provide arterial protection.
+> Matrix Gla Protein (MGP) is the body's most potent natural inhibitor of vascular calcification, requiring both -stimulated synthesis and -mediated activation to provide arterial protection.
 
 ## MGP Basics
 
@@ -32,7 +32,7 @@ extraction-date: 2026-03-01
 - Vitamin K2 as cofactor
 - Creates calcium-binding sites
 
-## Protective [[KEYWORD-Mechanism|mechanism]]s
+## Protective s
 
 ### 1. Crystal Binding
 - Binds nascent calcium phosphate crystals
@@ -86,4 +86,4 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

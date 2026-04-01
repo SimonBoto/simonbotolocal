@@ -6,7 +6,7 @@ aliases: [Z-001-0903, Z-001-0003-deprecated, Environmental_Factors_80_Percent, C
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, environmental-factors, chronic-disease, autoimmune, 80-percent-statistic, epigenetics, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
@@ -40,12 +40,12 @@ If 80% of disease risk comes from **environmental modulation of phenotype**, the
 
 ## METHAP Trial Relevance
 
-**[[KEYWORD-Vitamin_D|vitamin d]] as Environmental Factor:**
+** as Environmental Factor:**
 - Vitamin D status is determined by:
   - Sunlight exposure (environmental)
   - Dietary intake (environmental)
   - Supplementation (interventional)
-  - Genetic variation in [[KEYWORD-Metabolism|metabolism]] (20%)
+  - Genetic variation in  (20%)
 
 → **80% modifiable** through intervention
 
@@ -66,15 +66,15 @@ If 80% of disease risk comes from **environmental modulation of phenotype**, the
 ## Links
 
 - **Upstream/Prerequisite:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Why metabolites capture environment
-- **Parallel/Related:** [[Epigenetics_Environmental_Impact_Z-XXX-XXXX]] — Mechanism of environmental influence
-- **Downstream/Consequence:** [[Vitamin_D_Environmental_Modulator_Z-XXX-XXXX]] — VD as modifiable factor
+- **Parallel/Related:**  — Mechanism of environmental influence
+- **Downstream/Consequence:**  — VD as modifiable factor
 
 ## Context
 
-**Also relevant to:** [[MOC-PhD-METHAP-Trial]], [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]], [[MOC-Chronic-Disease]]
+**Also relevant to:** , -Mechanisms]], 
 
 **Emerges from:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
-**Supports:** [[IR_Mechanisms_Map]] — Environmental drivers of insulin resistance
+**Supports:**  — Environmental drivers of insulin resistance
 
 ---
 

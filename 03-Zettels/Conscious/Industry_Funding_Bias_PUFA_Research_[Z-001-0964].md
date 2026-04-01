@@ -5,7 +5,7 @@ title: Industry Funding Bias — Early PUFA Research and Suppressed Science
 aliases: [Z-001-0964]
 domain: 001
 tags: [zettel, industry-bias, pufa, seed-oil-industry, funding-bias, suppressed-science, research-integrity, conscious]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Epidemiological_Evidence_L-001-0525]]
 status: conscious
@@ -47,7 +47,7 @@ The rise of seed oils coincided with a transformation of the American diet and s
 - Influence on professional societies
 - Lobbying for dietary guidelines
 
-## [[KEYWORD-Mechanism|mechanism]]s of Influence
+## s of Influence
 
 ### 1. Research Funding
 
@@ -80,7 +80,7 @@ The rise of seed oils coincided with a transformation of the American diet and s
 - Industry-sponsored educational materials
 - Expert panels with industry ties
 
-**Academy of [[KEYWORD-Nutrition|nutrition]] and Dietetics:**
+**Academy of  and Dietetics:**
 - Corporate sponsorship structure
 - Industry-influenced position statements
 
@@ -108,7 +108,7 @@ The rise of seed oils coincided with a transformation of the American diet and s
 
 **Recovery:**
 - Ramsden et al. found data in National Heart Institute archives (2012)
-- Revealed higher mortality in [[KEYWORD-Omega_6|omega-6]] group
+- Revealed higher mortality in  group
 - Published 2013 in BMJ
 
 **Why Suppressed?**

@@ -5,16 +5,16 @@ title: Sirolimus Dysregulates Mitophagy Causing Mitochondrial Depletion
 aliases: [Z-001-0921, Z-001-0514-deprecated, Sirolimus Mitophagy, Autophagy Dysregulation Rapamycin]
 domain: 001
 tags: [zettel, sirolimus, rapamycin, mitophagy, autophagy, mitochondrial-depletion, quality-control]
-parent-moc: [[MOC-mTOR-Signaling]]
+parent-moc: 
 status: conscious
 source: "[[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
 ---
 
-# Sirolimus Dysregulates Mitophagy Causing [[KEYWORD-Mitochondria|mitochondria]]l Depletion
+# Sirolimus Dysregulates Mitophagy Causing l Depletion
 
-**Core [[KEYWORD-Mechanism|mechanism]]:** Sirolimus activates mitophagy ([[KEYWORD-Mitochondria|mitochondrial]] autophagy) but suppresses mitochondrial biogenesis, creating imbalance → net mitochondrial loss.
+**Core :** Sirolimus activates mitophagy ( autophagy) but suppresses mitochondrial biogenesis, creating imbalance → net mitochondrial loss.
 
 ## mTORC1 and Autophagy Regulation
 
@@ -117,5 +117,5 @@ Mitochondrial Health = Biogenesis - (Damage + Clearance)
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Sirolimus_Lipotoxicity_Adiponectin_[Z-001-0926]|Z-001-0926]]

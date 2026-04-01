@@ -5,7 +5,7 @@ title: Cystatin C — Superior Kidney Function Marker
 aliases: [Z-008-0005, Cystatin-C, Cys-C, Kidney-Function, GFR, Creatinine-Alternative]
 domain: 008
 tags: [zettel, biomarker, cystatin-c, kidney, gfr, renal]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

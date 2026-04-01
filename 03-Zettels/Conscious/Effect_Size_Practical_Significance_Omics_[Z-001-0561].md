@@ -6,7 +6,7 @@ aliases: [Z-001-0561, Effect Size Reporting, Practical Significance, Omics Stati
 domain: 001
 domain-name: Research Methods
 tags: [zettel, effect-size, statistics, omics, metabolomics, practical-significance, reporting-standards]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 source: "[[LitNote_Exploratory_vs_Confirmatory_Research_Design_L-001-0516]]"
 confidence: high
 created: 2026-03-03
@@ -85,7 +85,7 @@ d = (Mean₁ - Mean₂) / Pooled SD
 | 0.06 | Medium effect |
 | 0.14 | Large effect |
 
-**Use:** ANOVA designs, [[KEYWORD-Metabolomics|metabolomics]] studies.
+**Use:** ANOVA designs,  studies.
 
 ### Confidence Intervals
 **Critical requirement:** Report 95% CI for all effect sizes.
@@ -137,7 +137,7 @@ d = (Mean₁ - Mean₂) / Pooled SD
 
 ## METHAP Reporting Standards
 
-### Required for All [[KEYWORD-Biomarker|biomarker]] Claims
+### Required for All  Claims
 ```
 Metabolite: [Name]
 - Fold change: [X.X]
@@ -174,6 +174,6 @@ Metabolite: [Name]
 
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Kidney_Function_[B-008-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Kidney_Function_[B-008-0001]|Biomarker Family Guide]]
+- 
 

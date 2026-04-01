@@ -34,9 +34,9 @@ created: 2026-03-04
 - Proton gradient
 
 ## Related
-- [[MOC-Glycolysis-PPP]] (pyruvate source)
-- [[MOC-Krebs-Cycle]]
-- [[MOC-Oxidative-Stress]]
+-  (pyruvate source)
+- 
+- 
 
 ---
 *Created: 2026-03-04 | Status: Active (growing)*

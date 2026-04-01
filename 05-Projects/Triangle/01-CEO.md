@@ -80,7 +80,7 @@
 ## 🎮 Command Style
 
 ### How I Give Direction
-- Write objectives in [[00-COMMAND|COMMAND.md]]
+- Write objectives in 
 - Use P0/P1/P2 priority system
 - Ask questions when uncertain
 - Provide context, not just tasks

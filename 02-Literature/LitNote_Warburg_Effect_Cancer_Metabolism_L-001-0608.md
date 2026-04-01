@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Aerobic glycolysis in cancer, metabolic reprogramming, tumor microenvironment, lactate production
 status: extracted
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -78,9 +78,9 @@ extraction-date: 2026-03-08
 4. [[Mitochondrial_Dysfunction_Cancer_Metabolism_[Z-001-1120].md]]
 
 ## Related References
-- [[MOC-Cancer-Metabolism]]
+- 
 - [[Therapeutic_Ketosis_Clinical_Applications_[Z-001-1096].md]]
-- [[MOC-Metabolic-Syndrome]]
+- 
 
 ---
 

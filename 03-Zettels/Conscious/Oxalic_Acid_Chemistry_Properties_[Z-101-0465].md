@@ -5,7 +5,7 @@ title: Oxalic Acid Chemistry and Properties
 aliases: [Z-101-0465]
 domain: 101
 tags: [zettel, oxalic-acid, chemistry, dicarboxylic-acid, adipic-acid-domain, conscious]
-parent-moc: [[MOC-Adipic-Acid]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]]
 status: conscious
 ---
@@ -31,10 +31,10 @@ status: conscious
 ## Chemical Behavior
 - **Reducing agent:** Can donate electrons in organic reactions
 - **Metal chelation:** Binds divalent cations (Ca²⁺, Mg²⁺, Fe²⁺)
-- **Precipitation:** Forms insoluble salts (calcium oxalate most [[KEYWORD-Clinical|clinical]]ly relevant)
+- **Precipitation:** Forms insoluble salts (calcium oxalate most ly relevant)
 
 ## Industrial Applications (Contextual)
-| Use | [[KEYWORD-Mechanism|mechanism]] |
+| Use |  |
 |-----|-----------|
 | Rust removal | Chelates iron oxides |
 | Wood bleaching | Oxidative lightening |
@@ -42,7 +42,7 @@ status: conscious
 
 ## Relevance to PhD Work
 - **Comparator molecule:** Understanding oxalate chemistry informs adipic acid marker design
-- **Metabolic endpoint:** Oxalate represents end-product [[KEYWORD-Metabolism|metabolism]]; adipic acid may offer earlier signal
+- **Metabolic endpoint:** Oxalate represents end-product ; adipic acid may offer earlier signal
 - **Analytical consideration:** Both dicarboxylic acids — similar chromatographic behavior, different clinical meaning
 
 ## Related

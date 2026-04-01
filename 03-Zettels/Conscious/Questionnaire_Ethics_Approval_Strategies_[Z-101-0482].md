@@ -5,7 +5,7 @@ title: Questionnaire Ethics Approval Strategies
 aliases: [Z-101-0482]
 domain: 101
 tags: [zettel, questionnaires, ethics-approval, irb, data-collection, research-methods, conscious]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0359_Questionnaire_Compliance_L-101-0052.md]]
 status: conscious
 ---
@@ -143,7 +143,7 @@ Multi-instrument studies require specific ethical considerations beyond standard
 
 ### Feedback to Participants
 - Summary of findings (if desired)
-- Individual results (if [[KEYWORD-Clinical|clinical]]ly relevant)
+- Individual results (if ly relevant)
 - Study completion acknowledgment
 
 ## Related
@@ -196,7 +196,7 @@ Multi-instrument studies require specific ethical considerations beyond standard
 
 
 ## Related
-- [[[[KEYWORD-Oxalate|oxalate]]_Management_CKD_[Z-001-0982]|Z-001-0982]]
+- _Management_CKD_[Z-001-0982]|Z-001-0982]]
 
 
 ## Related
@@ -208,4 +208,4 @@ Multi-instrument studies require specific ethical considerations beyond standard
 
 
 ## Related
-- [[Methotrexate_Low_Dose_[[KEYWORD-Mechanism|mechanism]]_Adenosine_[Z-101-0005]|Z-101-0005]]
+- _Adenosine_[Z-101-0005]|Z-101-0005]]

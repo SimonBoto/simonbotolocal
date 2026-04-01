@@ -4,7 +4,7 @@ type: strategy
 title: "02-Literature — Quality Expansion Strategy"
 aliases: [LitStrategy, Literature-Plan, Open-Issues]
 tags: [strategy, literature, workflow, gaps, planning]
-parent-moc: [[02-Literature]]
+parent-moc: 
 status: active
 created: 2026-03-01
 ---
@@ -124,7 +124,7 @@ pmid: 12345678
 tier: 1|2|3
 relevance: High|Medium|Low — [one-line reason]
 status: extracted|pending|needs-source
-parent-moc: [[MOC-...]]
+parent-moc: 
 extraction-date: YYYY-MM-DD
 ---
 
@@ -132,8 +132,8 @@ extraction-date: YYYY-MM-DD
 
 ## Source
 - **Full citation:** 
-- **PDF Asset:** [[01-References/Assets/PDFs/...]]
-- **ChatGPT conversation:** [[CGPT_XXXX...]] (if applicable)
+- **PDF Asset:** 
+- **ChatGPT conversation:**  (if applicable)
 - **Scope:** [What this covers]
 
 ---
@@ -143,7 +143,7 @@ extraction-date: YYYY-MM-DD
 ### 1. [Concept Name]
 > "Key quote from source"
 
-**Zettel extracted:** [[...]]
+**Zettel extracted:** 
 
 [Repeat for each concept]
 
@@ -168,12 +168,12 @@ extraction-date: YYYY-MM-DD
 ---
 
 ## Zettels Created from This Source
-1. [[...]]
-2. [[...]]
+1. 
+2. 
 
 ## Related References
-- [[...]]
-- [[MOC-...]]
+- 
+- 
 
 ---
 

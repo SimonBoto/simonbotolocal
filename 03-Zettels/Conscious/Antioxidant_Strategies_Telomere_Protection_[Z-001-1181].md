@@ -4,7 +4,7 @@ type: zettel
 title: Antioxidant Strategies for Telomere Protection
 domain: 001
 tags: [zettel, antioxidants, telomeres, oxidative-stress, supplements, lifestyle]
-parent-moc: [[MOC-Autoimmunity]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]]"
 status: conscious
@@ -83,7 +83,7 @@ status: conscious
 **Mechanism:**
 - Regenerates vitamins C and E
 - Mitochondrial antioxidant
-- Improves [[KEYWORD-Insulin|insulin]] sensitivity
+- Improves  sensitivity
 
 **Dosing:** 300-600 mg/day
 **Evidence:** Promising for metabolic health; telomere data limited
@@ -128,7 +128,7 @@ status: conscious
 
 **Foundation:**
 1. **Diet:** Colorful plant foods, berries, green tea
-2. **[[KEYWORD-Vitamin_D|vitamin d]]:** 2000-4000 IU/day (anti-inflammatory)
+2. **:** 2000-4000 IU/day (anti-inflammatory)
 3. **Omega-3:** 2-4g EPA+DHA/day
 
 **Optional Additions:**
@@ -148,7 +148,7 @@ status: conscious
 ## Related
 
 - [[ROS_Mediated_Telomere_Damage_Pathways_[Z-001-1178].md]]
-- [[[[KEYWORD-Inflammation|inflammation]]_Oxidative_Stress_Vicious_Cycle_[Z-001-1180].md]]
+- _Oxidative_Stress_Vicious_Cycle_[Z-001-1180].md]]
 - [[Nutritional_Telomere_Support_[Z-001-1188].md]]
 
 ---

@@ -6,7 +6,7 @@ title: Ferritin — Iron Storage & Systemic Status
 aliases: [Z-003-0001, Ferritin, Iron-Storage, Acute-Phase-Reactant]
 domain: 003
 tags: [zettel, biomarker, iron, ferritin, storage, inflammation, thyroid, metabolism]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

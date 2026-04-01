@@ -5,7 +5,7 @@ title: Mitochondrial DNA Mutations in Cancer — Oncogenic Mechanisms and Clinic
 aliases: [Z-001-0989]
 domain: 001
 tags: [zettel, mtdna, mitochondrial-dna, cancer, mutations, respiratory-chain, ros, warburg-effect, biomarker, conscious]
-parent-moc: [[MOC-Cancer-Biology]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]]
 status: conscious
@@ -15,7 +15,7 @@ status: conscious
 
 ## Overview
 
-Mitochondrial DNA (mtDNA) mutations are common in cancer and contribute to tumorigenesis through altered energy [[KEYWORD-Metabolism|metabolism]], increased reactive oxygen species (ROS), and metabolic reprogramming.
+Mitochondrial DNA (mtDNA) mutations are common in cancer and contribute to tumorigenesis through altered energy , increased reactive oxygen species (ROS), and metabolic reprogramming.
 
 ## Prevalence and Patterns
 
@@ -277,7 +277,7 @@ AMPK activation
 - Radiation sensitization
 - Chemotherapy enhancement
 
-## [[KEYWORD-Biomarker|biomarker]] Applications
+##  Applications
 
 ### Circulating mtDNA
 
@@ -328,7 +328,7 @@ AMPK activation
 3. **Mechanisms:** ROS, metabolic reprogramming, apoptosis resistance
 4. **Metastasis:** mtDNA mutations enhance metastatic potential
 5. **Therapeutics:** Metformin, DCA, mitochondrial poisons
-6. **[[KEYWORD-Biomarker|biomarkers]]:** Circulating mtDNA for diagnosis and monitoring
+6. **:** Circulating mtDNA for diagnosis and monitoring
 
 **Clinical Implications:**
 - mtDNA not just passenger mutations
@@ -350,5 +350,5 @@ AMPK activation
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

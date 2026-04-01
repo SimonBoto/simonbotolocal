@@ -23,7 +23,7 @@ version: 1.0
 | ΔΕ 4 | Μεταβολικές Διαταραχές και Διάγνωση | ✅ Complete (5 zettels) | [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] |
 | ΔΕ 5-8 | *(Pending)* | ⏳ Not started | — |
 
-**Asset Location:** [[01-References/Assets/PDFs/NKUA_Metabolomics_Course/]]
+**Asset Location:** 
 
 ---
 
@@ -89,10 +89,10 @@ version: 1.0
 ## 🔗 Connections to PhD Work
 
 ### Direct METHAP Links
-- [[MOC-PhD-METHAP-Trial]] — Trial design integration
-- [[MOC-Vitamin-D-Mechanisms]] — VD as environmental modulator
-- [[IR_Mechanisms_Map]] — Insulin resistance systems view
-- [[Biomarkers_Taxonomy]] — Positioning metabolite markers
+-  — Trial design integration
+-  — VD as environmental modulator
+-  — Insulin resistance systems view
+-  — Positioning metabolite markers
 
 ### Research Questions Addressed
 1. Why metabolomics over genomics? → [[Z-001-0002]]
@@ -125,13 +125,13 @@ version: 1.0
 ## 📖 Reference Hubs
 
 ### Created (Tier 1)
-- [[Patti_Yanes_Siuzdak_2012_Metabolomics_Apogee_R-001-0001]] — Nature Reviews: Metabolomics as apogee of omics
-- [[Clayton_etal_2006_Pharmaco_Metabonomics_R-001-0002]] — Nature: Pharmaco-metabonomic phenotyping
-- [[Nicholson_2006_Global_Systems_Biology_R-001-0003]] — Mol Syst Biol: Systems biology & personalized medicine
+-  — Nature Reviews: Metabolomics as apogee of omics
+-  — Nature: Pharmaco-metabonomic phenotyping
+-  — Mol Syst Biol: Systems biology & personalized medicine
 
 ### Created (Tier 2)
-- [[Clish_2015_Metabolomics_Precision_Medicine_R-001-0004]] — Clinical translation focus
-- [[Kohler_etal_2017_Integrating_Metabolomics_Pharmacology_R-001-0005]] — Biomarker-pharmacology integration
+-  — Clinical translation focus
+-  — Biomarker-pharmacology integration
 
 ### Pending (From Bibliography)
 - [ ] Beebe K et al. (2017) — Computational metabolomics

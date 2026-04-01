@@ -6,13 +6,13 @@ aliases: [Z-002-0608, nuremberg-code, ethics-nuremberg]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, historical, informed-consent]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]]"
 confidence: high
 created: 2026-03-27
 ---
 
-# Nuremberg Code for [[KEYWORD-Research|research]] Ethics (1947)
+# Nuremberg Code for  Ethics (1947)
 
 The first international ethics code for human subjects research, established during the Nuremberg Doctors' Trial in response to Nazi medical atrocities. Introduced the absolute requirement for voluntary informed consent.
 
@@ -52,7 +52,7 @@ The Nuremberg Code established principles later incorporated into:
 
 ## Links
 
-**Parent MOC:** [[MOC-Research-Ethics]]  
+**Parent MOC:**   
 **Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]]  
 **Related:** [[Belmont_Report_Ethical_Principles_1979_[Z-002-0610].md]] — U.S. implementation
 
@@ -62,4 +62,4 @@ The Nuremberg Code established principles later incorporated into:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

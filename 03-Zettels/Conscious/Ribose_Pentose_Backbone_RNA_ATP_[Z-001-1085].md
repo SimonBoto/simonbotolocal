@@ -6,7 +6,7 @@ aliases: [Z-001-1085, Ribose]
 domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, ribose, pentose, rna, ppp]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 source-litnote: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
 source: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Ribose Pentose Backbone RNA ATP
 
 ## Overview
-Ribose is a five-carbon sugar (pentose) forming the structural backbone of RNA and ATP, connecting carbohydrate [[KEYWORD-Metabolism|metabolism]] to genetic information and energy transfer.
+Ribose is a five-carbon sugar (pentose) forming the structural backbone of RNA and ATP, connecting carbohydrate  to genetic information and energy transfer.
 
 ## Chemical Structure
 - **Formula:** C₅H₁₀O₅
@@ -69,7 +69,7 @@ Glucose-6-phosphate (from glycolysis)
 ### Regulation
 - **High NADP⁺/NADPH ratio:** Stimulates oxidative phase
 - **Need for ribose:** Stimulates non-oxidative phase
-- **[[KEYWORD-Insulin|insulin]]:** Upregulates PPP enzymes
+- **:** Upregulates PPP enzymes
 
 ## Deoxyribose: The DNA Variant
 - **Difference:** Missing oxygen at 2' position (2'-deoxyribose)
@@ -93,12 +93,12 @@ Glucose-6-phosphate (from glycolysis)
 ### Ribose in Disease
 - **Ribose-5-phosphate isomerase deficiency:** Rare, neurological symptoms
 - **Transketolase deficiency:** Impairs non-oxidative PPP
-- **[[KEYWORD-Cancer|cancer]]:** High PPP activity in tumor cells (need for ribose and NADPH)
+- **:** High PPP activity in tumor cells (need for ribose and NADPH)
 
 ## Related
 - [[Adenosine_Metabolic_Roles_Energy_Signaling_[Z-001-1083].md]]
 - [[Nucleoside_Formation_Phosphorylation_Pathways_[Z-001-1086].md]]
-- [[MOC-Glycolysis-PPP]]
+- 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

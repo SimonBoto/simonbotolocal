@@ -5,7 +5,7 @@ title: Methionine Cycle — Activation and Regeneration
 aliases: [Methionine-Cycle, SAM, SAH, Regeneration]
 domain: 001
 tags: [zettel, methionine-cycle, sam, sah, activation]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Methionine_Catabolism_L-001-0406]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Methionine Cycle — Activation and Regeneration
 
-> The methionine cycle activates methionine to SAM for [[KEYWORD-Methylation|methylation]] reactions, then converts the byproduct SAH to homocysteine, which is either remethylated to methionine or enters transsulfuration.
+> The methionine cycle activates methionine to SAM for  reactions, then converts the byproduct SAH to homocysteine, which is either remethylated to methionine or enters transsulfuration.
 
 ## Step 1: SAM Synthesis
 
@@ -62,4 +62,4 @@ SAH ↔ Homocysteine + Adenosine
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

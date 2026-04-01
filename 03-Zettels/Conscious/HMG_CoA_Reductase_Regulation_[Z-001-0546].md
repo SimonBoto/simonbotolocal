@@ -5,7 +5,7 @@ title: HMG-CoA Reductase — Regulation and Inhibition
 aliases: [HMGCR, Statin-Target, Rate-Limiting, Cholesterol]
 domain: 001
 tags: [zettel, hmgcr, hmg-coa-reductase, statin, regulation]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Mevalonate_Pathway_L-001-0509]]
 extraction-date: 2026-03-01
@@ -24,7 +24,7 @@ extraction-date: 2026-03-01
 ## Regulation
 
 **Transcriptional (SREBP-2):**
-- Low [[KEYWORD-Cholesterol|cholesterol]] → HMGCR expression ↑
+- Low  → HMGCR expression ↑
 - High cholesterol → HMGCR expression ↓
 
 **Post-translational:**
@@ -40,10 +40,10 @@ extraction-date: 2026-03-01
 
 ## CoQ10 Depletion
 
-**[[KEYWORD-Mechanism|mechanism]]:**
+**:**
 - Statins block CoQ10 synthesis
 - 40-50% reduction in CoQ10
-- [[KEYWORD-Mitochondria|mitochondria]]l dysfunction
+- l dysfunction
 
 **Mitigation:**
 - CoQ10 supplementation: 100-200 mg/day
@@ -56,4 +56,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

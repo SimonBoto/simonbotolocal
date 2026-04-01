@@ -6,13 +6,13 @@ aliases: [Z-001-0564, Omega6 Omega3 Balance, Inflammatory Eicosanoids, Fatty Aci
 domain: 001
 domain-name: Nutrition
 tags: [zettel, claim, omega-6, omega-3, inflammation, eicosanoids, linoleic-acid, arachidonic-acid]
-parent-moc: [[MOC-Omega3-Fats]]
+parent-moc: 
 source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]]"
 confidence: high
 created: 2026-03-03
 ---
 
-# [[KEYWORD-Omega_6|omega-6]]:Omega-3 Ratio and Inflammatory Potential
+# :Omega-3 Ratio and Inflammatory Potential
 
 ## The Claim
 
@@ -38,7 +38,7 @@ Arachidonic acid (20:4 n-6)
 
 ### Step 3: Eicosanoid Synthesis (The Critical Branch Point)
 **Arachidonic acid → Pro-inflammatory mediators:**
-- **Prostaglandins:** PGE₂, PGD₂ ([[KEYWORD-Inflammation|inflammation]], pain)
+- **Prostaglandins:** PGE₂, PGD₂ (, pain)
 - **Leukotrienes:** LTB₄, LTC₄, LTD₄ (inflammation, bronchoconstriction)
 - **Thromboxanes:** TXA₂ (platelet aggregation, vasoconstriction)
 
@@ -90,7 +90,7 @@ When chicken fat exceeds **36% omega-6 fatty acids** (common in corn-fed birds):
 
 ### Diseases with Inflammatory Component
 1. **Cardiovascular disease** — Endothelial inflammation, plaque formation
-2. **Type 2 diabetes** — Low-grade inflammation, [[KEYWORD-Insulin|insulin]] resistance
+2. **Type 2 diabetes** — Low-grade inflammation,  resistance
 3. **Autoimmune diseases** — RA, MS, lupus (exacerbated by high omega-6)
 4. **Chronic pain** — Prostaglandin-mediated pain sensitization
 5. **Metabolic syndrome** — Inflammatory cytokine elevation

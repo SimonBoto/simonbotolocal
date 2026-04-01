@@ -6,14 +6,14 @@ aliases: [Z-001-0528, Biomarker Validation Pipeline, Clinical Translation Standa
 domain: 001
 domain-name: Research Methods
 tags: [zettel, biomarkers, validation, clinical-translation, study-design, replication, research-standards]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
 confidence: high
 created: 2026-03-03
 source-litnote: Synthesized from clinical practice
 ---
 
-# Validation Requirements for [[KEYWORD-Biomarker|biomarker]] Translation
+# Validation Requirements for  Translation
 
 ## Core Concept
 
@@ -28,7 +28,7 @@ Biomarker discovery without validation is **hypothesis generation**, not clinica
 - **Analysis:** High-dimensional screen
 - **Threshold:** FDR = 0.1
 - **Output:** Candidate list
-- **Claim strength:** "Candidate [[KEYWORD-Biomarker|biomarkers]] identified"
+- **Claim strength:** "Candidate  identified"
 
 ### Level 2: Verification (Internal Validation)
 - **Sample:** Independent split from discovery cohort OR separate lab batch
@@ -127,7 +127,7 @@ Studies show **<50% replication rate** for omics biomarkers:
 
 ❌ **Pattern:** Discovery → Publication → No follow-up
 ❌ **Result:** "Biomarker" never tested again, likely false positive
-❌ **Example:** Many published [[KEYWORD-Metabolomics|metabolomics]] biomarkers (circa 2010s) unreplicated
+❌ **Example:** Many published  biomarkers (circa 2010s) unreplicated
 
 ### Failure Mode 2: Improper "Validation"
 
@@ -220,5 +220,5 @@ Studies show **<50% replication rate** for omics biomarkers:
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 ## RELATED FILES
 - [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

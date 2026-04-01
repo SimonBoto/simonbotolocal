@@ -6,7 +6,7 @@ aliases: [Z-001-1103, Fe-S-Clusters]
 domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, iron-sulfur, cofactors, electron-transfer]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
 source: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
 confidence: high
@@ -39,7 +39,7 @@ Iron-sulfur (Fe-S) clusters are among the most ancient biological cofactors, ess
 ### 1. Electron Transfer
 | Protein | Location | Function |
 |---------|----------|----------|
-| **Ferredoxins** | Chloroplasts, [[KEYWORD-Mitochondria|mitochondria]] | Photosynthesis, nitrogen fixation |
+| **Ferredoxins** | Chloroplasts,  | Photosynthesis, nitrogen fixation |
 | **Succinate dehydrogenase** | Complex II | Krebs cycle, ETC |
 | **NADH dehydrogenase** | Complex I | Electron transport |
 
@@ -53,7 +53,7 @@ Iron-sulfur (Fe-S) clusters are among the most ancient biological cofactors, ess
 ### 3. Sensing and Regulation
 | Sensor | Detects | Response |
 |--------|---------|----------|
-| **IRP1** | Iron levels | Regulates iron [[KEYWORD-Metabolism|metabolism]] |
+| **IRP1** | Iron levels | Regulates iron  |
 | **SoxR** | Superoxide | Activates antioxidant genes |
 | **FNR** | Oxygen | Regulates anaerobic metabolism |
 
@@ -75,7 +75,7 @@ Iron-sulfur (Fe-S) clusters are among the most ancient biological cofactors, ess
 ### Fe-S Cluster Biogenesis Defects
 | Disorder | Gene | Consequence |
 |----------|------|-------------|
-| **Friedreich ataxia** | FXN (frataxin) | [[KEYWORD-Mitochondria|mitochondrial]] Fe-S defect, neurodegeneration |
+| **Friedreich ataxia** | FXN (frataxin) |  Fe-S defect, neurodegeneration |
 | **Multiple mitochondrial dysfunction syndromes** | Various | Combined OXPHOS deficiencies |
 
 ### Oxidative Damage
@@ -86,11 +86,11 @@ Iron-sulfur (Fe-S) clusters are among the most ancient biological cofactors, ess
 
 ## Related
 - [[Aconitase_Oxidative_Stress_Sensitivity_[Z-001-1053].md]]
-| [[MOC-Mitochondrial-Function]]
+| 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

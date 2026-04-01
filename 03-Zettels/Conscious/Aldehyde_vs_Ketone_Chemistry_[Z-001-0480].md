@@ -5,13 +5,13 @@ title: Aldehyde vs Ketone Chemistry
 aliases: [Z-001-0480, aldehyde, ketone, carbonyl, chemistry]
 domain: 001
 tags: [zettel, aldehyde, ketone, carbonyl, functional-groups, chemistry]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045F]]
 ---
 
-# Aldehyde vs Ketone [[KEYWORD-Chemistry|chemistry]]
+# Aldehyde vs Ketone 
 
 ## Core Structures
 
@@ -80,4 +80,4 @@ Both reduce to alcohols:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -1109,4 +1109,4 @@ Fructose enters glycolysis either through direct conversion to fructose-6-phosph
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

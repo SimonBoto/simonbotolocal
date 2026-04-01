@@ -5,7 +5,7 @@ title: "Keyword: Vitamin D"
 aliases: [vitamin-d]
 domain: 000
 tags: [keyword, index, vitamin-d]
-parent-moc: [[MOC-INDEX]]
+parent-moc: 
 status: active
 created: 2026-04-01
 ---
@@ -20,7 +20,7 @@ created: 2026-04-01
 
 ## Connected Zettels
 
-{{embed [[MOC-INDEX]]}}
+{{embed }}
 
 ---
 

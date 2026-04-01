@@ -6,13 +6,13 @@ aliases: [Z-002-0611, cioms-guidelines, international-research-ethics]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, international, developing-countries]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]]"
 confidence: high
 created: 2026-03-27
 ---
 
-# CIOMS International [[KEYWORD-Research|research]] Ethics Guidelines
+# CIOMS International  Ethics Guidelines
 
 Council for International Organizations of Medical Sciences (CIOMS) and WHO guidelines for biomedical research involving human subjects, particularly in resource-limited settings. First 1982, revised 1993, 2002, 2016.
 
@@ -77,12 +77,12 @@ If METHAP involves international collaboration:
 - Local ethics approval required
 - Community engagement
 - Results dissemination to participants
-- Capacity building ([[KEYWORD-Metabolomics|metabolomics]] training)
+- Capacity building ( training)
 - No exploitation of resource-limited settings
 
 ## Links
 
-**Parent MOC:** [[MOC-Research-Ethics]]  
+**Parent MOC:**   
 **Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]]  
 **Related:** [[Declaration_Helsinki_Research_Ethics_[Z-002-0609].md]] — Complementary international standard
 
@@ -92,5 +92,5 @@ If METHAP involves international collaboration:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Independent_Review_IRB_Ethics_[Z-002-0605]|Z-002-0605]]

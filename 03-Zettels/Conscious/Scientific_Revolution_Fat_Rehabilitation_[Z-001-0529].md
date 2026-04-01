@@ -5,13 +5,13 @@ title: Scientific Revolution — Fat Rehabilitation
 aliases: [Fat-Rehabilitation, WHI, PREDIMED, Meta-Analyses]
 domain: 001
 tags: [zettel, fat-rehabilitation, whi, predimed, meta-analysis]
-parent-moc: [[MOC-Research-Methodology]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]]
 extraction-date: 2026-03-01
 ---
 
-# Scientific R[[KEYWORD-Evolution|evolution]] — Fat Rehabilitation
+# Scientific R — Fat Rehabilitation
 
 > Starting in the 2000s, accumulating evidence challenged the diet-heart hypothesis, rehabilitating dietary fat and shifting focus to carbohydrate quality.
 
@@ -33,7 +33,7 @@ extraction-date: 2026-03-01
 - Fermented dairy beneficial
 
 **Coconut Oil:**
-- MCTs different [[KEYWORD-Metabolism|metabolism]]
+- MCTs different 
 - Raises HDL
 
 **Red Meat:**
@@ -66,4 +66,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -6,7 +6,7 @@ aliases: [Z-001-1144, METHAP-Timeline]
 domain: 001
 domain-name: PhD Research
 tags: [zettel, methap, timeline, testing, schedule]
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 source-litnote: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]]
 source: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]]
 confidence: high
@@ -54,7 +54,7 @@ The METHAP trial follows a structured timeline with baseline assessment, 12-week
 | **Thyroid** | TSH |
 | **Iron** | Ferritin |
 | **Calcium** | Serum calcium |
-| **[[KEYWORD-Metabolomics|metabolomics]]** | Urine organic acids (OAT), plasma total fatty acids (TFA) |
+| **** | Urine organic acids (OAT), plasma total fatty acids (TFA) |
 
 ### Post-Intervention Testing (IR Groups Only)
 | Category | Tests |
@@ -131,12 +131,12 @@ The METHAP trial follows a structured timeline with baseline assessment, 12-week
 ## Related
 - [[METHAP_Study_Population_Recruitment_Strategy_[Z-001-1141].md]]
 - [[METHAP_Intervention_Protocol_Diet_Supplements_[Z-001-1142].md]]
-- [[MOC-PhD-Research]]
+- 
 
 ---
-*Source: CGPT-0475 — Metabolic [[KEYWORD-Biomarker|biomarker]]s for insulin resistance*
+*Source: CGPT-0475 — Metabolic s for insulin resistance*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

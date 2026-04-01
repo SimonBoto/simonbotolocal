@@ -5,13 +5,13 @@ title: Circulating Cell-Free mtDNA — Cancer Biomarker and Prognostic Tool
 aliases: [Z-001-0990]
 domain: 001
 tags: [zettel, circulating-mtdna, liquid-biopsy, cancer-biomarker, prognosis, early-detection, monitoring, conscious]
-parent-moc: [[MOC-Cancer-Biomarkers]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]]
 status: conscious
 ---
 
-# Circulating Cell-Free mtDNA — Cancer [[KEYWORD-Biomarker|biomarker]] and Prognostic Tool
+# Circulating Cell-Free mtDNA — Cancer  and Prognostic Tool
 
 ## Overview
 
@@ -34,7 +34,7 @@ Circulating cell-free mitochondrial DNA (cf-mtDNA) represents a promising minima
 **3. NETosis (Neutrophil Extracellular Traps):**
 - Immune cell release of DNA
 - Contains mtDNA
-- Associated with [[KEYWORD-Inflammation|inflammation]]
+- Associated with 
 
 ### Characteristics
 
@@ -348,7 +348,7 @@ Circulating cell-free mitochondrial DNA (cf-mtDNA) represents a promising minima
 **Source:** CGPT-0311 — Self-Education Program Plan
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/CRP_[B-002-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- /CRP_[B-002-0001]|Biomarker Family Guide]]
+- 
 

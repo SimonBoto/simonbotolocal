@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 2
 relevance: High — Diagnostic challenge, clinical pearls, bone marrow interpretation
 status: extracted
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 

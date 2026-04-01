@@ -5,12 +5,12 @@ title: Amino Acid to Oxalate Metabolism
 aliases: [Z-101-0467]
 domain: 101
 tags: [zettel, oxalate, metabolism, glycine, hydroxyproline, primary-hyperoxaluria, conscious]
-parent-moc: [[MOC-Adipic-Acid]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]]
 status: conscious
 ---
 
-# Amino Acid to Oxalate [[KEYWORD-Metabolism|metabolism]]
+# Amino Acid to Oxalate 
 
 ## Overview
 Oxalic acid is produced endogenously through amino acid metabolism. Two amino acids are primary precursors.
@@ -21,7 +21,7 @@ Oxalic acid is produced endogenously through amino acid metabolism. Two amino ac
 ```
 Glycine → Glyoxylate → Oxalate
 ```
-- **Location:** Primarily [[KEYWORD-Mitochondria|mitochondria]]l
+- **Location:** Primarily l
 - **Enzymes:** D-amino acid oxidase, glyoxylate reductase (reverse)
 - **Regulation:** Glyoxylate partitioned between oxalate and other fates
 
@@ -57,7 +57,7 @@ Hydroxyproline → Glyoxylate → Oxalate
 - Progressive renal failure
 
 ## Physiological Factors Affecting Oxalate Production
-| Factor | Effect | [[KEYWORD-Mechanism|mechanism]] |
+| Factor | Effect |  |
 |--------|--------|-----------|
 | High collagen turnover | ↑ Oxalate | Hydroxyproline load |
 | High protein intake | ↑ Oxalate | Glycine load |

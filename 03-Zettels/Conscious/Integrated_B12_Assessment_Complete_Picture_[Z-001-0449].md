@@ -5,7 +5,7 @@ title: Integrated B12 Assessment — Complete Picture
 aliases: [Integrated-Assessment, Complete-Picture, Panel]
 domain: 001
 tags: [zettel, integrated, assessment, b12, panel]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]]
 extraction-date: 2026-03-01
@@ -13,13 +13,13 @@ extraction-date: 2026-03-01
 
 # Integrated B12 Assessment — Complete Picture
 
-> Comprehensive B12 assessment requires serum B12, MMA, homocysteine, and RBC [[KEYWORD-Folate|folate]] together to provide complete functional status and guide [[KEYWORD-Clinical|clinical]] decisions.
+> Comprehensive B12 assessment requires serum B12, MMA, homocysteine, and RBC  together to provide complete functional status and guide  decisions.
 
 ## Recommended Panel
 
 1. **Serum B12** — Baseline screening
 2. **MMA** — Functional status
-3. **Homocysteine** — [[KEYWORD-Methylation|methylation]] capacity
+3. **Homocysteine** —  capacity
 4. **RBC Folate** — Tissue folate
 5. **CBC** — Anemia assessment
 
@@ -53,6 +53,6 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

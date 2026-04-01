@@ -5,7 +5,7 @@ title: D-K2 Co-Supplementation Evidence Overview
 aliases: [D-K2-Evidence, Clinical-Trials, Co-Supplementation]
 domain: 001
 tags: [zettel, vitamin-d, vitamin-k2, evidence, clinical-trials, research]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_D_K2_Co_Supplementation_Evidence_L-001-0214]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # D-K2 Co-Supplementation Evidence Overview
 
-> Despite limited high-quality RCTs, existing studies on [[KEYWORD-Vitamin_D|vitamin d]] and K2 co-supplementation consistently show metabolic and cardiovascular benefits exceeding those of either nutrient alone, establishing proof-of-concept for synergistic therapeutic potential.
+> Despite limited high-quality RCTs, existing studies on  and K2 co-supplementation consistently show metabolic and cardiovascular benefits exceeding those of either nutrient alone, establishing proof-of-concept for synergistic therapeutic potential.
 
 ## Current Evidence Landscape
 
@@ -60,8 +60,8 @@ Despite limitations, consistent findings:
 |---------|---------|----------|---------------|
 | **Vascular calcification** | Variable | Protection | Best protection |
 | **Arterial stiffness** | Modest | Modest | Greatest reduction |
-| **[[KEYWORD-Insulin|insulin]] sensitivity** | Some benefit | Some benefit | Synergistic |
-| **[[KEYWORD-Inflammation|inflammation]]** | Reduction | Reduction | Enhanced |
+| ** sensitivity** | Some benefit | Some benefit | Synergistic |
+| **** | Reduction | Reduction | Enhanced |
 
 **Interpretation:**
 - Co-supplementation consistently superior

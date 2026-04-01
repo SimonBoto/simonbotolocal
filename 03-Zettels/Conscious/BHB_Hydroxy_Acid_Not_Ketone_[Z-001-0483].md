@@ -5,7 +5,7 @@ title: BHB is a Hydroxy Acid Not a Ketone
 aliases: [Z-001-0483, bhb, hydroxy-acid, ketone, structure]
 domain: 001
 tags: [zettel, bhb, hydroxy-acid, chemistry, structure, nomenclature]
-parent-moc: [[MOC-Ketogenesis]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045G]]
@@ -37,7 +37,7 @@ CH₃-CHOH-CH₂-COOH
 
 ### Historical/Functional Nomenclature
 1. **Interconvertible:** BHB ↔ AcAc via β-OHBDH
-2. **Ketone [[KEYWORD-Metabolism|metabolism]]:** Part of ketone body system
+2. **Ketone :** Part of ketone body system
 3. **Major circulating form:** Most abundant during ketosis
 4. **Energy equivalent:** Both yield acetyl-CoA
 
@@ -46,7 +46,7 @@ CH₃-CHOH-CH₂-COOH
 - All three share: 4-carbon skeleton, energy-yielding
 - AcAc and BHB rapidly interconvert in vivo
 
-## Reduction [[KEYWORD-Chemistry|chemistry]]
+## Reduction 
 ```
 Acetoacetate + NADH + H⁺ → BHB + NAD⁺
 ```
@@ -54,7 +54,7 @@ Acetoacetate + NADH + H⁺ → BHB + NAD⁺
 - Reversible (β-OHBDH enzyme)
 - Direction depends on NADH/NAD⁺ ratio
 
-## [[KEYWORD-Clinical|clinical]] Implication
+##  Implication
 **Ketone tests:**
 - **Urine strips:** Detect AcAc (nitroprusside reaction)
 - **Blood meters:** Detect BHB (specific enzymatic)

@@ -8,7 +8,7 @@ journal: Historical clinical synthesis
 tier: 2
 relevance: Medium — Foundation for carbohydrate metabolism understanding
 status: extracted
-parent-moc: [[MOC-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 

@@ -4,7 +4,7 @@ type: zettel
 title: Taurine — Bile Flow and Gut Health Support
 domain: 001
 tags: [zettel, taurine, bile-acids, gut-health, detox, amino-acids]
-parent-moc: [[MOC-Gut-Health]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Gut_Healing_Amino_Acids_L-001-0636]]"
 status: conscious
@@ -46,7 +46,7 @@ Taurine is a sulfur-containing amino acid with critical roles in bile acid conju
 
 ### 4. Electrolyte Balance
 - Regulates intracellular calcium
-- Supports [[KEYWORD-Magnesium|magnesium]] [[KEYWORD-Metabolism|metabolism]]
+- Supports  
 - Maintains cellular hydration
 - Critical during fasting/cleansing
 
@@ -55,7 +55,7 @@ Taurine is a sulfur-containing amino acid with critical roles in bile acid conju
 ## Clinical Applications
 
 ### Indications for Taurine
-| Condition | [[KEYWORD-Mechanism|mechanism]] |
+| Condition |  |
 |-----------|-----------|
 | **Bile insufficiency** | Taurocholic acid formation |
 | **Fat malabsorption** | Improved emulsification |

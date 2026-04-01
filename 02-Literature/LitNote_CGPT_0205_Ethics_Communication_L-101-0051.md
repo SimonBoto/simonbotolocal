@@ -9,7 +9,7 @@ pmid: N/A
 tier: 3
 relevance: Moderate — Practical IRB communication guidance
 status: extracted
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 extraction-date: 2026-03-28
 ---
 

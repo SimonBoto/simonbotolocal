@@ -6,16 +6,16 @@ aliases: [Z-001-0055, IIH-CYP24A1-Hypercalcemia]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, genetics, CYP24A1, IIH, hypercalcemia]
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 source: [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
 confidence: high
 created: 2026-03-01
 status: conscious
 ---
 
-# IIH CYP24A1 Mutation — True Cause of "[[KEYWORD-Vitamin_D|vitamin d]] Toxicity"
+# IIH CYP24A1 Mutation — True Cause of " Toxicity"
 
-Idiopathic Infantile Hypercalcemia (IIH) is a rare genetic condition caused by mutations in CYP24A1 or SLC34A1 genes. These mutations impair vitamin D [[KEYWORD-Metabolism|metabolism]] and calcium regulation, causing hypercalcemia even with normal vitamin D intake. The 1950s fortification "toxicity" incidents were largely IIH cases misdiagnosed as vitamin D overdose.
+Idiopathic Infantile Hypercalcemia (IIH) is a rare genetic condition caused by mutations in CYP24A1 or SLC34A1 genes. These mutations impair vitamin D  and calcium regulation, causing hypercalcemia even with normal vitamin D intake. The 1950s fortification "toxicity" incidents were largely IIH cases misdiagnosed as vitamin D overdose.
 
 **Mechanism:**
 - **CYP24A1 Mutation:** Encodes enzyme responsible for deactivating excess vitamin D metabolites. Mutations prevent proper regulation, causing elevated calcitriol.
@@ -30,7 +30,7 @@ Idiopathic Infantile Hypercalcemia (IIH) is a rare genetic condition caused by m
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Metabolism]]
+**Parent MOC:** -Metabolism]]
 **Source:** [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
 **Related:** [[Vitamin_D_Fortification_Incidents_1950s_[Z-001-0054]]], [[Vitamin_D_Regulatory_Overreaction_[Z-001-0056]]]
 

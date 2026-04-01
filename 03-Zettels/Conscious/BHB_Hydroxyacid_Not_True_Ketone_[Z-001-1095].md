@@ -6,7 +6,7 @@ aliases: [Z-001-1095, BHB-Structure]
 domain: 001
 domain-name: Ketogenesis
 tags: [zettel, bhb, hydroxyacid, structure, signaling]
-parent-moc: [[MOC-Ketogenesis]]
+parent-moc: 
 source-litnote: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
 source: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
 confidence: high
@@ -73,15 +73,15 @@ CH₃-CH-CH₂-COOH
 - **Heart:** High BHB utilization
 
 ### Beyond Energy: Signaling Functions
-BHB acts as **signaling molecule** independent of energy [[KEYWORD-Metabolism|metabolism]]:
+BHB acts as **signaling molecule** independent of energy :
 
 | Target | Effect |
 |--------|--------|
 | **HDAC inhibitors** | Epigenetic regulation, gene expression |
 | **HCAR2 receptor** | Anti-inflammatory signaling |
-| **NF-κB pathway** | Reduced [[KEYWORD-Inflammation|inflammation]] |
+| **NF-κB pathway** | Reduced  |
 | **Oxidative stress** | Reduced ROS generation |
-| **[[KEYWORD-Mitochondria|mitochondria]]l biogenesis** | Enhanced via PGC-1α |
+| **l biogenesis** | Enhanced via PGC-1α |
 
 ## Clinical Implications
 
@@ -108,7 +108,7 @@ BHB acts as **signaling molecule** independent of energy [[KEYWORD-Metabolism|me
 ## Related
 - [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_[Z-001-1093].md]]
 - [[Therapeutic_Ketosis_Clinical_Applications_[Z-001-1096].md]]
-- [[MOC-Ketogenesis]]
+- 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

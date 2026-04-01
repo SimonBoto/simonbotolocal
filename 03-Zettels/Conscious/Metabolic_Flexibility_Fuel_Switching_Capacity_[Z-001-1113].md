@@ -6,7 +6,7 @@ aliases: [Z-001-1113, Metabolic-Flexibility]
 domain: 001
 domain-name: Metabolic Health
 tags: [zettel, metabolic-flexibility, fuel-switching, insulin]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
 source: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
 confidence: high
@@ -25,14 +25,14 @@ Metabolic flexibility is the ability to switch between fuel sources—glucose, f
 |---------|---------|
 | **Preferred fuel** | Brain, RBCs, exercising muscle |
 | **Storage** | Glycogen (liver, muscle) |
-| **Hormonal control** | [[KEYWORD-Insulin|insulin]] promotes uptake |
+| **Hormonal control** |  promotes uptake |
 
 ### Fatty Acids
 | Feature | Details |
 |---------|---------|
 | **Abundant storage** | Adipose tissue |
 | **High energy yield** | 9 kcal/g (vs. 4 for glucose) |
-| **Oxygen required** | Aerobic [[KEYWORD-Metabolism|metabolism]] |
+| **Oxygen required** | Aerobic  |
 
 ### Ketones
 | Feature | Details |
@@ -74,7 +74,7 @@ Metabolic flexibility is the ability to switch between fuel sources—glucose, f
 | **Free fatty acids** | Rise | Blunted |
 | **Glucose** | Stable | May drop or stay high |
 
-## Metabolic Inflexibility ([[KEYWORD-Insulin_Resistance|insulin resistance]])
+## Metabolic Inflexibility ()
 
 ### Characteristics
 | Feature | Problem |
@@ -128,12 +128,12 @@ Metabolic flexibility is the ability to switch between fuel sources—glucose, f
 
 ## Related
 - [[Ketosis_Metabolic_Flexibility_Clinical_[Z-001-1057].md]]
-| [[MOC-Insulin-Resistance]]
-| [[MOC-Metabolic-Syndrome]]
+| 
+| 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

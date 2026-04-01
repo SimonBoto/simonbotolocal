@@ -5,7 +5,7 @@ title: Cysteine — Metabolic Fates
 aliases: [Cysteine, Glutathione, Taurine, Sulfate]
 domain: 001
 tags: [zettel, cysteine, glutathione, taurine, metabolism]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Methionine_Catabolism_L-001-0406]]
 extraction-date: 2026-03-01
@@ -50,7 +50,7 @@ Cysteine → Cysteine sulfinic acid → Hypotaurine → Taurine
 
 **Degradation:**
 ```
-Cysteine → Pyruvate → Acetyl-CoA → [[KEYWORD-Krebs_Cycle|krebs cycle]]
+Cysteine → Pyruvate → Acetyl-CoA → 
 ```
 
 **Result:**
@@ -64,4 +64,4 @@ Cysteine → Pyruvate → Acetyl-CoA → [[KEYWORD-Krebs_Cycle|krebs cycle]]
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

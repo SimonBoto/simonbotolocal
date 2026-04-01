@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: High — B12 mitochondrial function, energy metabolism, odd-chain fatty acid catabolism
 status: extracted
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 

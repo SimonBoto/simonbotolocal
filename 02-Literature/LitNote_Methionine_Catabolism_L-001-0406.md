@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: High — Complete methionine degradation, cysteine synthesis, glutathione production
 status: extracted
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 

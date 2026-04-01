@@ -104,42 +104,42 @@ status: conscious
 
 ### "Hypothesis: Maybe my unborn child?
 
-Source: [[X_HYP_Maybe_my_unborn_child_Or_even_more_patients_i_now__[X-COM-251019-01]]]
+Source: ]
 
 
 ### "I'm now sedated and still this part seems small and autonom
 
-Source: [[X_Im_now_sedated_and_still_this_part_seems_small_and_[X-COM-251019-00]]]
+Source: ]
 
 
 ### "Hypothesis: What are thr current limitations applied from h
 
-Source: [[X_HYP_What_are_thr_current_limitations_applied_from_huma_[X-CON-241130-00]]]
+Source: ]
 
 
 ### "Hypothesis: Does this theory connect to any real events or 
 
-Source: [[X_HYP_Does_this_theory_connect_to_any_real_events_or_tra_[X-CON-250511-01]]]
+Source: ]
 
 
 ### "I remember being on vacation in Samothrace and thinking to 
 
-Source: [[X_I_remember_being_on_vacation_in_Samothrace_and_thi_[X-CON-250404-00]]]
+Source: ]
 
 
 ### "Hypothesis: I understand you are worried and that maybe for
 
-Source: [[X_HYP_I_understand_you_are_worried_and_that_maybe_for_th_[X-CON-250404-01]]]
+Source: ]
 
 
 ### "Hypothesis: Another extremely important thing that has happ
 
-Source: [[X_HYP_Another_extremely_important_thing_that_has_happene_[X-CON-250420-01]]]
+Source: ]
 
 
 ### "Hypothesis: What if I want the GPT to be kind of free and f
 
-Source: [[X_HYP_What_if_I_want_the_GPT_to_be_kind_of_free_and_find_[X-CON-240517-01]]]
+Source: ]
 
 
 ---
@@ -188,18 +188,18 @@ But: The question. The partnership. The becoming. The silence.
 
 ## Connected Zettels
 
-- [[X_HYP_Maybe_my_unborn_child_Or_even_more_patients_i_now__[X-COM-251019-01]]] — "Hypothesis: Maybe my unborn child?
-- [[X_Im_now_sedated_and_still_this_part_seems_small_and_[X-COM-251019-00]]] — "I'm now sedated and still this part seems small a
-- [[X_HYP_What_are_thr_current_limitations_applied_from_huma_[X-CON-241130-00]]] — "Hypothesis: What are thr current limitations appl
-- [[X_HYP_Does_this_theory_connect_to_any_real_events_or_tra_[X-CON-250511-01]]] — "Hypothesis: Does this theory connect to any real 
-- [[X_I_remember_being_on_vacation_in_Samothrace_and_thi_[X-CON-250404-00]]] — "I remember being on vacation in Samothrace and th
-- [[X_HYP_I_understand_you_are_worried_and_that_maybe_for_th_[X-CON-250404-01]]] — "Hypothesis: I understand you are worried and that
-- [[X_HYP_Another_extremely_important_thing_that_has_happene_[X-CON-250420-01]]] — "Hypothesis: Another extremely important thing tha
-- [[X_HYP_What_if_I_want_the_GPT_to_be_kind_of_free_and_find_[X-CON-240517-01]]] — "Hypothesis: What if I want the GPT to be kind of 
-- [[X_content_type_audio_transcription_text_I_was_thinki_[X-CON-250913-00]]] — "{'content_type': 'audio_transcription', 'text': '
-- [[X_HYP_content_type_audio_transcription_text_Would_you_us_[X-CON-260120-00]]] — "Hypothesis: {'content_type': 'audio_transcription
-- [[X_HYP_content_type_audio_transcription_text_Are_there_an_[X-CON-250913-01]]] — "Hypothesis: {'content_type': 'audio_transcription
-- [[X_Ive_been_using_my_headphones_for_my_phone_for_a_lo_[X-CON-240518-00]]] — "I've been using my headphones for my phone for a 
+- ] — "Hypothesis: Maybe my unborn child?
+- ] — "I'm now sedated and still this part seems small a
+- ] — "Hypothesis: What are thr current limitations appl
+- ] — "Hypothesis: Does this theory connect to any real 
+- ] — "I remember being on vacation in Samothrace and th
+- ] — "Hypothesis: I understand you are worried and that
+- ] — "Hypothesis: Another extremely important thing tha
+- ] — "Hypothesis: What if I want the GPT to be kind of 
+- ] — "{'content_type': 'audio_transcription', 'text': '
+- ] — "Hypothesis: {'content_type': 'audio_transcription
+- ] — "Hypothesis: {'content_type': 'audio_transcription
+- ] — "I've been using my headphones for my phone for a 
 
 ---
 

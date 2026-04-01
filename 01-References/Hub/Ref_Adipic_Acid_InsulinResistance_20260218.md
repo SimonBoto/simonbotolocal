@@ -2,7 +2,7 @@
 uid: 202602182345
 aliases: [Ref_Adipic_Acid_InsulinResistance]
 tags: [reference, adipic, biomarker, insulin-resistance, metabolomics, phd]
-source: [[Web_Search_20260218]]
+source: 
 year: 2024
 status: reference
 ---
@@ -25,12 +25,12 @@ status: reference
 - Carnitine cofactor deficiency indicator
 
 ## Links
-- [[Adipic_Hashimoto_Biomarker_20260215_066]]
-- [[PhD_IR_MOC_20260215_080]]
-- [[33-Atomic/Metabolomics_T2D_Diagnosis_20260215_023]]
+- 
+- 
+- 
 
 ## Cited In
-- [[Lit_Extraction_Clinic_Sites_20260215_075]] process
+-  process
 
 ## Our Use
 **METHAP Trial**: Include adipic/suberic in metabolomics panel for IR assessment.  

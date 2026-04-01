@@ -6,7 +6,7 @@ title: HDL Cholesterol — High-Density Lipoprotein
 aliases: [Z-006-0002, HDL, HDL-Cholesterol, Good-Cholesterol]
 domain: 006
 tags: [zettel, biomarker, hdl, cholesterol, lipids, cardiovascular, reverse-transport]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

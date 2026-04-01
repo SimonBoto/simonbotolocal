@@ -8,7 +8,7 @@ journal: Internal synthesis from historical analysis
 tier: 2
 relevance: High — Corrects foundational public health misconceptions about vitamin D safety
 status: extracted
-parent-moc: [[MOC-Vitamin-Safety]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -77,8 +77,8 @@ extraction-date: 2026-03-01
 - [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]] — Related statistical errors in dosing
 - [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — Protective mechanisms (Mg, K2)
 - [[Vitamin_D_Paradigm_Failure_Production_vs_Recommendations_[Z-001-0073].md]] — Systemic failure synthesis
-- [[MOC-Vitamin-Safety]] — Parent MOC
-- [[MOC-Vitamin-D-Metabolism]] — Metabolic pathways
+-  — Parent MOC
+-  — Metabolic pathways
 
 ---
 

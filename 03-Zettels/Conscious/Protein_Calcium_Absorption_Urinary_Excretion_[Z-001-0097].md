@@ -6,20 +6,20 @@ aliases: [Z-001-0097, Protein_Calcium_Absorption_Urinary_Excretion]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, nutrition, protein]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 source: [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]]
 confidence: high
 created: 2026-03-01
 status: conscious
 ---
 
-# Protein [[KEYWORD-Calcium|calcium]] Absorption Urinary Excretion
+# Protein  Absorption Urinary Excretion
 
 Protein intake stimulates intestinal calcium absorption. However, extremely high protein may increase urinary calcium excretion. Balance is essential—moderate-high protein optimizes calcium retention.
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
+**Parent MOC:** 
 **Source:** [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]]
 **Related:** [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_[Z-001-0099].md]], [[Vitamin_D_High_Dose_Monitoring_Protocol_[Z-001-0091].md]]
 
@@ -29,6 +29,6 @@ Protein intake stimulates intestinal calcium absorption. However, extremely high
 
 
 ## RELATED FILES
-- [[KEYWORD-Calcium]]
-- [[MOC-INDEX|Master Index]]
+- 
+- 
 - [[Bone_Remodeling_Cycle_Five_Phases_[Z-001-0083]|Z-001-0083]]

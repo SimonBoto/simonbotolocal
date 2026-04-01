@@ -32,12 +32,12 @@ created: 2026-03-04
 - Glucogenic amino acids
 
 ## Clinical
-- [[MOC-Diabetes-T2D]] (excessive gluconeogenesis)
-- [[MOC-Ketogenesis]] (competing pathway)
+-  (excessive gluconeogenesis)
+-  (competing pathway)
 
 ## Connections
 - [[L-001-0045H]] Oxaloacetate and Gluconeogenesis
-- [[MOC-Glycolysis-PPP]] (reverse pathway)
+-  (reverse pathway)
 
 ---
 *Created: 2026-03-04 | Status: Active (growing)*

@@ -5,7 +5,7 @@ title: Oxalic Acid Dietary Sources
 aliases: [Z-101-0466]
 domain: 101
 tags: [zettel, oxalic-acid, nutrition, dietary-sources, kidney-stones, conscious]
-parent-moc: [[MOC-Adipic-Acid]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]]
 status: conscious
 ---
@@ -59,14 +59,14 @@ Oxalic acid occurs naturally in many plant foods. Content varies dramatically by
 | Black tea | Moderate | Brewing time affects extraction |
 | Cocoa powder | High | Baking, beverages |
 
-## [[KEYWORD-Nutrition|nutrition]]al Trade-offs
+## al Trade-offs
 - **High-oxalate foods are nutritious:** Rich in vitamins, minerals, fiber, antioxidants
 - **Complete exclusion risk:** May create nutritional deficiencies if not substituted
 - **Targeted reduction:** More practical than elimination for stone formers
 
-## [[KEYWORD-Clinical|clinical]] Context
+##  Context
 - **Kidney stone patients:** Often advised to limit high-oxalate foods
-- **[[KEYWORD-Calcium|calcium]] timing:** Dietary calcium binds oxalate in gut → reduces absorption
+- ** timing:** Dietary calcium binds oxalate in gut → reduces absorption
 - **Cooking effects:** Boiling can reduce oxalate content (leaches into water)
 
 ## Related

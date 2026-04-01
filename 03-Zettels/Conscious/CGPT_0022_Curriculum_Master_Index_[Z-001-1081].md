@@ -6,7 +6,7 @@ aliases: [Z-001-1081, CGPT-0022-Index]
 domain: 001
 domain-name: Metabolomics Training
 tags: [zettel, curriculum, index, master]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0022_Training_Integration_L-001-0598]]
 source: [[LitNote_CGPT_0022_Training_Integration_L-001-0598]]
 confidence: high
@@ -30,8 +30,8 @@ Complete index of all training materials extracted from CGPT-0022 (179 messages,
 | LitNote | UID | Zettels |
 |---------|-----|---------|
 | Core Clinical Vocabulary | L-001-0590 | 7 |
-| [[KEYWORD-Mitochondria|mitochondria]]l Biochemistry | L-001-0591 | 6 |
-| Fatty Acid [[KEYWORD-Metabolism|metabolism]] | L-001-0592 | 5 |
+| l Biochemistry | L-001-0591 | 6 |
+| Fatty Acid  | L-001-0592 | 5 |
 | Vitamin-Mineral Axis | L-001-0593 | 6 |
 
 ### Phase 3: Clinical Skills (Weeks 7-8)
@@ -105,7 +105,7 @@ Complete index of all training materials extracted from CGPT-0022 (179 messages,
 - Z-001-1073: Report Standards
 
 ### Research (3 zettels)
-- Z-001-1074: [[KEYWORD-Metabolomics|metabolomics]] Biblio
+- Z-001-1074:  Biblio
 - Z-001-1075: VitD Safety
 - Z-001-1076: Mediterranean Diet
 
@@ -129,11 +129,11 @@ For new clinicians, follow this sequence:
 
 ## Related
 - [[Metabolomics_Training_MOC_Graph_[Z-001-1082].md]]
-- [[MOC-Metabolomics-Training]]
+- 
 
 ---
 *Source: CGPT-0022 — Full extraction index*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -358,4 +358,4 @@ These steps are catalyzed by a series of enzymes and involve various cofactors a
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

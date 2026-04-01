@@ -15,7 +15,7 @@ domain: 001
 tags: [litnote, vdr, vitamin-d, immunity, autoimmunity, knockout-studies]
 source: "[[CGPT_0311_Self_Education_Program_Plan_[CGPT-0311]]]"
 status: extracted
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -152,9 +152,9 @@ extraction-date: 2026-03-08
 - [[Treg_Th17_Balance_VDR_[Z-001-1165].md]] — To create
 
 **MOCs:**
-- [[MOC-Vitamin-D-Metabolism]] — Primary domain
-- [[MOC-Autoimmunity]] — Emerging domain
-- [[MOC-Immunometabolism]] — Intersection
+-  — Primary domain
+-  — Emerging domain
+-  — Intersection
 
 **LitNotes:**
 - [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]] — Partial overlap

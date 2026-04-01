@@ -5,7 +5,7 @@ title: Pre-Industrial Seed Oil Uses — Mechanical Pressing, Lamp Oil, Lubricant
 aliases: [Z-001-0968]
 domain: 001
 tags: [zettel, seed-oils, history, pre-industrial, mechanical-pressing, lamp-oil, lubricants, industrial-revolution, conscious]
-parent-moc: [[MOC-History-Industrial-Development]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]]
 status: conscious
@@ -34,7 +34,7 @@ Before industrial extraction methods, seed oils were produced through **labor-in
 - Used for animal feed or fertilizer
 
 **Types of Presses:**
-- **Screw presses:** Worm screw [[KEYWORD-Mechanism|mechanism]]
+- **Screw presses:** Worm screw 
 - **Lever presses:** Mechanical advantage
 - **Hydraulic presses:** Water-powered (later development)
 - **Animal-powered:** Mills driven by oxen, horses
@@ -81,7 +81,7 @@ Before industrial extraction methods, seed oils were produced through **labor-in
 
 ### 2. Industrial Lubrication
 
-**Industrial R[[KEYWORD-Evolution|evolution]] Demand:**
+**Industrial R Demand:**
 - New machinery required lubrication
 - Animal fats (tallow, lard) oxidized quickly
 - Whale oil expensive
@@ -244,7 +244,7 @@ Oils that polymerize (dry) when exposed to air
 **Pre-Industrial Paradigm:**
 - Seed oils = industrial/luxury, not staple food
 - Local production, limited trade
-- Animal fats dominated [[KEYWORD-Nutrition|nutrition]]
+- Animal fats dominated 
 - Human consumption of concentrated PUFA minimal
 
 **Metabolic Implications:**

@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: High — Core mechanistic biology for bone therapeutics
 status: extracted
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -81,7 +81,7 @@ extraction-date: 2026-03-01
 ## Related References
 - [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]] — Clinical context
 - [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]] — Pharmacologic targeting
-- [[MOC-Bone-Health]] — Parent MOC
+-  — Parent MOC
 
 ---
 

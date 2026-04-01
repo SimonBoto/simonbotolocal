@@ -15,7 +15,7 @@ created: 2026-03-04
 ---
 
 ## Origins
-- [[MOC-Origins-of-Life]]
+- 
 - [[Z-101-0464]] Timeline: Prebiotic Chemistry to LUCA
 
 ## Ancient Pathways

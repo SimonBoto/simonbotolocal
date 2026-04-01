@@ -5,7 +5,7 @@ title: Keto Acids vs Carboxylic Acids
 aliases: [Z-001-0476, keto-acids, carboxylic-acids, pyruvate, chemistry]
 domain: 001
 tags: [zettel, keto-acids, carboxylic-acids, organic-acids, chemistry]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045F]]
@@ -36,8 +36,8 @@ NOT all carboxylic acids are keto acids
 ### Keto Acids
 | Name | Structure | Role |
 |------|-----------|------|
-| **Pyruvate** | CH₃-CO-COOH | [[KEYWORD-Glycolysis|glycolysis]] end product |
-| **α-Ketoglutarate** | HOOC-CH₂-CH₂-CO-COOH | [[KEYWORD-Krebs_Cycle|krebs cycle]] |
+| **Pyruvate** | CH₃-CO-COOH |  end product |
+| **α-Ketoglutarate** | HOOC-CH₂-CH₂-CO-COOH |  |
 | **Oxaloacetate** | HOOC-CH₂-CO-COOH | Krebs cycle, gluconeogenesis |
 
 ### Carboxylic Acids (Non-Keto)
@@ -53,7 +53,7 @@ NOT all carboxylic acids are keto acids
 - **Keto acids:** Can undergo transamination (amino group transfer)
 - **Carboxylic acids:** Generally more stable
 
-### [[KEYWORD-Metabolism|metabolism]]
+### 
 - **Keto acids:** Often metabolic intermediates (reversible)
 - **Carboxylic acids:** Often end products or substrates
 

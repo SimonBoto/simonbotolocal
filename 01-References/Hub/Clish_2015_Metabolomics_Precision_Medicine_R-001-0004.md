@@ -13,7 +13,7 @@ status: ref
 confidence: high
 aliases: [R-001-0004, Clish_2015_Metabolomics_Precision_Medicine]
 tags: [ref, metabolomics, precision-medicine, clinical-translation, review]
-parent-moc: [[MOC-References]]
+parent-moc: 
 source-type: review
 extraction-date: 2026-02-23
 ---
@@ -47,7 +47,7 @@ Clish, C. B. (2015) 'Metabolomics: an emerging but powerful tool for precision m
 
 ## Links to Atomics
 - [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003]] — Environmental capture
-- [[MOC-Clinical-Protocols]] — Translation pathway
+-  — Translation pathway
 
 ## Cited In
 - [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Course bibliography

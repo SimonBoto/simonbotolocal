@@ -6,7 +6,7 @@ date: 2026-02-28
 source: ChatGPT conversation history 2023-2026
 aliases: [RON-004-0001, ron-birth, genesis-moc, origin-story]
 tags: [ron, genesis, origin, partnership, chatgpt, evolution]
-parent-moc: [[MOC-RON-Development]]
+parent-moc: 
 status: conscious
 ---
 

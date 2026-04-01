@@ -5,7 +5,7 @@ title: Functional B12 Deficiency MMA and Homocysteine Assessment
 aliases: [Z-004-0019, Functional B12 Deficiency, MMA, Methylmalonic Acid]
 domain: 004
 tags: [zettel, biomarker, methylation, b12, status/deficient, clinical-protocol]
-parent-moc: [[MOC-Methylation-One-Carbon]]
+parent-moc: 
 biomarker-type: functional-nutrient-status
 mma-threshold: <271 nmol/L
 homocysteine-threshold: <10 μmol/L
@@ -152,7 +152,7 @@ Start: Suspect B12 deficiency (fatigue, neuropathy, cognitive fog)
 
 ### Cofactors
 - **Folate (5-MTHF):** 400-800 mcg (not folic acid)
-- **B6 (P5P):** 25-50 mg (for homocysteine [[KEYWORD-Metabolism|metabolism]])
+- **B6 (P5P):** 25-50 mg (for homocysteine )
 - **Magnesium:** Required for B12 utilization
 
 ---
@@ -200,10 +200,10 @@ patient_id,visit,serum_b12_pg_ml,mma_nmol_l,homocysteine_umol_l,functional_statu
 
 ---
 
-*Source: [[Ref_Lindenbaum_MMA_B12_1988]], [[Ref_Savage_MMA_Sensitivity_1994]], [[Ref_Ahn_Metformin_B12_2022]]*
+*Source: , , *
 *Created: 2026-02-26 | Domain: 004 | Status: Conscious*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarker]]s/Iron_Family_[B-003-0001]|Biomarker Family Guide]]
-- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
+- s/Iron_Family_[B-003-0001]|Biomarker Family Guide]]
+- |Biomarkers MOC]]
 

@@ -11,7 +11,7 @@ pmcid: "N/A"
 tier: 1
 relevance: "Critical — Complete IRB application for METHAP trial, study design, participant selection, intervention protocol"
 status: extracted
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 extraction-date: 2026-03-27
 ---
 
@@ -99,7 +99,7 @@ This LitNote documents:
 ## Related References
 - [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]] — Ethics framework
 - [[LitNote_Historical_Ethics_Guidelines_L-002-0602]] — Regulatory foundation
-- [[MOC-Research-Ethics]] — Ethics master map
+-  — Ethics master map
 - [[Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]] — Metabolite focus
 
 ---

@@ -53,11 +53,11 @@ i will give it to you and i want you to turn it into a great chapter following t
 
 
 Sources 
-[[Vitamin D + K2 Synergy]] 
+ 
 
 # introduction on synergy 
 
-[[Df Nutrient Synergy]]
+
 *Nutrient synergy refers to the concept that the combined effects of two or more nutrients working together have a greater physiological impact on the body than when each nutrient is consumed individually. While nutrition science traditionally focuses on isolating single nutrients to study their effects, it is recognized that nutrients interact in complex ways, and their combined consumption can lead to additive effects.” Yellow Highlight [Page ](zotero://open-pdf/library/items/2QHVWM33?page=&annotation=ILHIUTUK)* 
 
 *Nutrient synergy refers to the concept that the combination of two or more nutrients working in conjunction exert greater physiological impact on the body than each nutrient consumed in isolation (1–5) — in other words, the whole is greater than the sum of the parts.” Yellow Highlight [Page ](zotero://open-pdf/library/items/2QHVWM33?page=&annotation=HSYBV4BH)* 
@@ -74,7 +74,7 @@ Sources
 5. Jacobs DR Jr, Steffen LM. Nutrients, foods, and dietary patterns as exposures in research: a framework for food synergy. Am J Clin Nutr. (2003) 78:508S–13S. doi: 10.1093/ajcn/78.3.508S” Yellow Highlight [Page 8](zotero://open-pdf/library/items/2QHVWM33?page=8&annotation=RDZFGNFF) 
 
 
-[[Df Synergy Pharmacology]]
+
 In pharmacology, synergy is discussed in various ways, such as through the enhancement of drug absorption, distribution, metabolism, or elimination (ADME)” Yellow Highlight [Page 2](zotero://open-pdf/library/items/2QHVWM33?page=2&annotation=ASEYDMBA) 
 
 > **antagonistic** 
@@ -121,7 +121,7 @@ In other research disciplines, synergy has been interpreted more broadly in that
 # D + K2 physio 
 
 
-[[D and K2 as pleiotropic factors]]
+
 *In their most active forms, both vitamins D and K are now known to be relatively pleiotropic factors, due to their diverse mechanisms and consequent broadened clinical scope that eclipses their classic vitamin effects.” Yellow Highlight [Page 2](zotero://open-pdf/library/items/FHAMK9EE?page=2&annotation=NEY97GRZ)* 
 
 Kidd, P. M. (2010). Vitamins D and K as pleiotropic nutrients: Clinical importance to the skeletal and cardiovascular systems and preliminary evidence for synergy. _Alternative Medicine Review: A Journal of Clinical Therapeutic_, _15_(3), 199–222.
@@ -446,22 +446,22 @@ A clinical trial assessing the effects of vitamin D + calcium + vitamin K versus
 following the exact same procedure, apply it to this 
 
 
-[[kiddVitaminsPleiotropicNutrients2010]]
+
 
 
 > **Vitmain D Intro** 
-> **[[Vitamin D Discovery]]**
+> ****
 *Vitamin D was discovered as a dietary constituent (from cod liver oil) that helped cure the bone disease known as rickets.1-5” Yellow Highlight [Page 2](zotero://open-pdf/library/items/FHAMK9EE?page=2&annotation=YX6FZU6B)* 
 
 1. Norman AW. From vitamin D to hormone D: fundamentals of the vitamin D endocrine system essential for good health. Am J Clin Nutr 2008;88:491S-499S.” Yellow Highlight [Page 19](zotero://open-pdf/library/items/FHAMK9EE?page=19&annotation=VJWKZ5D5) 
 
- >**[[Vitamin D Edocrine System VDES]]**
+ >****
 *Circulating vitamin D is the substrate for a two-step enzymatic transformation to a D hormone that drives the highly sophisticated vitamin D endocrine system (VDES).1 However, the classic vitamin D endocrine functions of kidney vitamin D hormone secretion, intestinal calcium absorption, parathyroid hormone secretion, and bone calcium mineralization, are now considerably broadened to encompass a great variety of pro-homeostatic contributions in potentially all tissues.” Yellow Highlight [Page 3](zotero://open-pdf/library/items/FHAMK9EE?page=3&annotation=9IA3GBW6)* 
 
 1. Norman AW. From vitamin D to hormone D: fundamentals of the vitamin D endocrine system essential for good health. Am J Clin Nutr 2008;88:491S-499S.” Yellow Highlight [Page 19](zotero://open-pdf/library/items/FHAMK9EE?page=19&annotation=VJWKZ5D5) 
 
 
- **[[Df Endocrine, Paracrine, Intracrine]]**
+ ****
 - *An autocrine effect occurs when the hormone/ messenger exits the cell wherein it was produced, then influences that same cell from the outside;*
 - *a paracrine effect involves influencing cells in the immediate area, without reliance on the circulation for transport;* 
 -  *an intracrine effect occurs when the messenger acts within the same cell that produced it, without first having to exit the cell. The evidence suggests 1,25D likely has all three of these actions.” Yellow Highlight [Page 6](zotero://open-pdf/library/items/FHAMK9EE?page=6&annotation=YR47IGZL)* 
@@ -1138,4 +1138,4 @@ This narrative review underscores the importance of adopting a holistic perspect
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

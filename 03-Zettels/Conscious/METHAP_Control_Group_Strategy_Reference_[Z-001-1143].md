@@ -6,7 +6,7 @@ aliases: [Z-001-1143, METHAP-Control]
 domain: 001
 domain-name: PhD Research
 tags: [zettel, methap, control-group, reference, strategy]
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 source-litnote: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]]
 source: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]]
 ethical-consideration: control-group-receives-standard-care
@@ -38,9 +38,9 @@ The METHAP trial employs a dual control strategy: metabolically healthy particip
 ### Metabolically Healthy Reference
 | Use | Application |
 |-----|-------------|
-| **[[KEYWORD-Biomarker|biomarker]] comparison** | IR vs. healthy pattern |
+| ** comparison** | IR vs. healthy pattern |
 | **Diagnostic thresholds** | Define abnormal ranges |
-| **Pathway analysis** | Identify dysregulated [[KEYWORD-Metabolism|metabolism]] |
+| **Pathway analysis** | Identify dysregulated  |
 | **Intervention target** | Goal = move toward healthy |
 
 ### Insulin-Resistant Control
@@ -121,13 +121,13 @@ Reference          Natural course           Treatment effect
 ## Related
 - [[METHAP_Study_Population_Recruitment_Strategy_[Z-001-1141].md]]
 - [[METHAP_Intervention_Protocol_Diet_Supplements_[Z-001-1142].md]]
-- [[MOC-PhD-Research]]
+- 
 
 ---
-*Source: CGPT-0475 — Metabolic [[KEYWORD-Biomarker|biomarkers]] for insulin resistance*
+*Source: CGPT-0475 — Metabolic  for insulin resistance*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

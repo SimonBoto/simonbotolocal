@@ -6,14 +6,14 @@ aliases: [Z-101-0002, Metformin-AMPK, mTOR-Immunometabolism]
 domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, metformin, AMPK, mTOR, immunometabolism, inflammation]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 ---
 
-# Metformin AMPK mTOR Immuno[[KEYWORD-Metabolism|metabolism]]
+# Metformin AMPK mTOR Immuno
 
 Metformin inhibits mitochondrial Complex I, reducing ATP production and activating AMPK. This triggers metabolic and immunological effects: fatty acid oxidation increases, lipogenesis decreases, and mTORC1 inhibition blocks pro-inflammatory signaling while preserving B-cell antibody production.
 
@@ -26,7 +26,7 @@ Metformin inhibits mitochondrial Complex I, reducing ATP production and activati
 
 **Clinical applications:** Systemic lupus erythematosus, colitis, arthritis, obesity, PCOS.
 
-**METHAP Parallel:** Both metformin and [[KEYWORD-Vitamin_D|vitamin d]] activate AMPK — shared anti-inflammatory pathways that may synergize in metabolic syndrome with autoimmune comorbidity.
+**METHAP Parallel:** Both metformin and  activate AMPK — shared anti-inflammatory pathways that may synergize in metabolic syndrome with autoimmune comorbidity.
 
 ## Key Details
 
@@ -43,11 +43,11 @@ Metformin inhibits mitochondrial Complex I, reducing ATP production and activati
 
 - **Upstream:** [[Inflammatory_Signaling_IR_Z-001-0031.md]] — Inflammatory signaling pathways
 - **Parallel:** [[Rapamycin_mTOR_Immune_Tolerance_Z-101-0003.md]] — Rapamycin also targets mTOR
-- **Downstream:** [[METHAP_[[KEYWORD-Biomarker|biomarker]]_Panel_Z-001-0045.md]] — Shared pathways in METHAP panel
+- **Downstream:** _Panel_Z-001-0045.md]] — Shared pathways in METHAP panel
 
 ## Context
 
-**Also relevant to:** [[MOC-Metformin]], [[MOC-AMPK]], [[MOC-mTOR]]
+**Also relevant to:** , , 
 
 **Emerges from:** NKUA Course 3175, DE4
 
@@ -57,5 +57,5 @@ Metformin inhibits mitochondrial Complex I, reducing ATP production and activati
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

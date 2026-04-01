@@ -4,7 +4,7 @@ type: zettel
 title: Treg/Th17 Balance and VDR Signaling
 domain: 001
 tags: [zettel, treg, th17, vitamin-d, vdr, immune-tolerance, autoimmunity]
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_VDR_Knockout_Immune_Function_L-001-0621]]"
 status: conscious
@@ -18,7 +18,7 @@ Autoimmune disease development is determined by the balance between:
 - **Treg cells:** Regulatory, tolerance-promoting, anti-inflammatory
 - **Th17 cells:** Pro-inflammatory, tissue-damaging, autoimmunity-driving
 
-**[[KEYWORD-Vitamin_D|vitamin d]] → VDR signaling tips this balance toward tolerance**
+** → VDR signaling tips this balance toward tolerance**
 
 ---
 
@@ -73,7 +73,7 @@ Autoimmune disease development is determined by the balance between:
 ### Normal State (Treg > Th17)
 - Immune tolerance maintained
 - Self-reactive cells suppressed
-- Controlled [[KEYWORD-Inflammation|inflammation]]
+- Controlled 
 - **VDR signaling:** Enhances this balance
 
 ### Autoimmune State (Th17 > Treg)
@@ -141,7 +141,7 @@ Treg Enhancement              Th17 Suppression
 ## Therapeutic Implications
 
 ### Dosing Strategy
-- Higher doses may be needed for immune effects vs. [[KEYWORD-Bone_Health|bone health]]
+- Higher doses may be needed for immune effects vs. 
 - Target 25(OH)D: 40-60 ng/mL minimum
 - Some protocols: 10,000 IU/day short-term
 

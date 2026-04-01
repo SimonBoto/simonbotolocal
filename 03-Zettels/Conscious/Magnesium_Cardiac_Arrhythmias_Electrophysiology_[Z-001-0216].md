@@ -5,17 +5,17 @@ title: Magnesium and Cardiac Arrhythmias — Electrophysiological Stability
 aliases: [Mg-Arrhythmias, Magnesium-Cardiac, Torsades-De-Pointes]
 domain: 001
 tags: [zettel, magnesium, arrhythmias, electrophysiology, cardiology, emergency]
-parent-moc: [[MOC-Cardiovascular-Health]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Magnesium|magnesium]] and Cardiac Arrhythmias — Electrophysiological Stability
+#  and Cardiac Arrhythmias — Electrophysiological Stability
 
 > Magnesium is critical for cardiac electrophysiology, serving as a first-line therapy for life-threatening ventricular arrhythmias and stabilizing myocardial electrical activity through multiple ion channel effects.
 
-## Electrophysiological [[KEYWORD-Mechanism|mechanism]]s
+## Electrophysiological s
 
 ### Ion Channel Effects
 **Na⁺/K⁺-ATPase:**
@@ -131,7 +131,7 @@ extraction-date: 2026-03-01
 - Mg provides antiarrhythmic protection
 - Part of comprehensive CV risk reduction
 
-**High-Dose [[KEYWORD-Vitamin_D|vitamin d]] Consideration:**
+**High-Dose  Consideration:**
 - Hypomagnesemia can cause arrhythmias
 - Repletion prevents D-related cardiac complications
 - Monitoring: ECG at baseline if high CV risk

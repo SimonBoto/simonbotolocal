@@ -5,7 +5,7 @@ title: Thyroid Optimal Ranges TSH fT3 fT4 Beyond Standard
 aliases: [Z-005-0001, Thyroid Optimal, TSH Target, fT3 fT4]
 domain: 005
 tags: [zettel, biomarker, thyroid, status/optimal, clinical-protocol]
-parent-moc: [[MOC-Thyroid-Axis]]
+parent-moc: 
 biomarker-type: thyroid-function-panel
 tsh-optimal: 0.5-2.5 mIU/L
 tsh-standard: 0.4-4.0 mIU/L
@@ -40,7 +40,7 @@ Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfun
 - [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (hypothyroidism worsens IR via ↓GLUT4, ↓mitochondrial function)
 - Hypothyroid → weight gain, dyslipidemia, glucose intolerance
 
-**[[KEYWORD-Vitamin_D|vitamin d]]:**
+**:**
 - [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md]] — VitD optimal range (VDR and TR share nuclear receptor mechanisms)
 - Both affect metabolic rate, immune function
 
@@ -123,10 +123,10 @@ patient_id,visit,tsh_miu_l,ft3_pg_ml,ft4_ng_dl,thyroid_status
 
 ---
 
-*Source: [[Ref_Wiersinga_TSH_Reference_2017]], [[Ref_Gaitonde_Thyroid_Review_2012]]*
+*Source: , *
 *Created: 2026-02-26 | Domain: 005 | Status: Conscious*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- |Biomarkers MOC]]
 

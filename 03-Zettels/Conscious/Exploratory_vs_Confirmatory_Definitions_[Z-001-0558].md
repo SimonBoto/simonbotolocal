@@ -6,7 +6,7 @@ aliases: [Z-001-0558, Study Design Classification, Research Phase Definitions]
 domain: 001
 domain-name: Research Methods
 tags: [zettel, study-design, exploratory-research, confirmatory-research, methodology, research-standards]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 source: "[[LitNote_Exploratory_vs_Confirmatory_Research_Design_L-001-0516]]"
 confidence: high
 created: 2026-03-03
@@ -24,7 +24,7 @@ The distinction between **exploratory** (hypothesis-generating) and **confirmato
 ## Exploratory Research
 
 ### Purpose
-Generate hypotheses, identify patterns, discover candidate [[KEYWORD-Biomarker|biomarker]]s from high-dimensional data.
+Generate hypotheses, identify patterns, discover candidate s from high-dimensional data.
 
 ### Characteristics
 | Dimension | Standard |
@@ -95,7 +95,7 @@ Test pre-specified hypotheses with rigorous methodology.
 
 ### The Trap
 Presenting exploratory findings with confirmatory confidence:
-- ❌ "We identified significant [[KEYWORD-Biomarker|biomarkers]]" (from underpowered study)
+- ❌ "We identified significant " (from underpowered study)
 - ❌ "Clinical utility demonstrated" (without validation)
 - ❌ "DHEAS is a validated biomarker" (from single small cohort)
 
@@ -109,7 +109,7 @@ Presenting exploratory findings with confirmatory confidence:
 ## METHAP Application
 
 ### For PhD Trial Design
-1. **Discovery phase:** Exploratory [[KEYWORD-Metabolomics|metabolomics]] screen (FDR = 0.1)
+1. **Discovery phase:** Exploratory  screen (FDR = 0.1)
 2. **Verification phase:** Targeted validation in split sample (FDR = 0.05)
 3. **Validation phase:** Independent cohort confirmation
 4. **Reporting:** Always label phase explicitly
@@ -143,5 +143,5 @@ Every publication must state:
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 ## RELATED FILES
 - [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

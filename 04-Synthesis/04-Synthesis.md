@@ -70,7 +70,7 @@ Topic_Synthesis_[S-{DDD}-{SSSS}].md
 
 ## 📝 Synthesis Template
 
-See: `[[06-Structure/Templates/Template_Synthesis_v1.0]]`
+See: ``
 
 ```markdown
 ---
@@ -89,34 +89,34 @@ status: living
 ## Core Concepts
 ### Concept 1
 [Explanation drawn from zettels]
-- Source: [[Zettel_1]]
-- Source: [[Zettel_2]]
+- Source: 
+- Source: 
 
 ### Concept 2
 [Explanation drawn from zettels]
-- Source: [[Zettel_3]]
+- Source: 
 
 ## Current State of Knowledge
 [What's established vs. uncertain]
 
 ## Gaps & Questions
-- [[Gap_Question_1]]
-- [[Gap_Question_2]]
+- 
+- 
 
 ## Related MOC
-[[MOC-Topic]]
+
 ```
 
 ---
 
 ## 🔗 Navigation
 
-← **Back to [[03-Zettels]]** — Atomic Knowledge  
-→ **Next: [[05-Projects]]** — Active Work  
+← **Back to ** — Atomic Knowledge  
+→ **Next: ** — Active Work  
 ↑ **Parent: [[00-MISSION]]**
 
 **Siblings:**
-[[00-Inbox]] | [[01-References]] | [[02-Literature]] | [[03-Zettels]] | [[05-Projects]] | [[06-Structure]] | [[08-Dashboards]] | [[09-System]]
+ |  |  |  |  |  |  | 
 
 ---
 

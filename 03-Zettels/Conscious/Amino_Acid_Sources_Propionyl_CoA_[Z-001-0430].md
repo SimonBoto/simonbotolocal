@@ -5,7 +5,7 @@ title: Amino Acid Sources of Propionyl-CoA
 aliases: [Amino-Acids, Propionyl-CoA, Catabolism, BCAAs]
 domain: 001
 tags: [zettel, amino-acids, propionyl-coa, catabolism, isoleucine, methionine, valine]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Amino Acid Sources of Propionyl-CoA
 
-> Four essential [[KEYWORD-Amino_Acids|amino acids]]—isoleucine, methionine, threonine, and valine—undergo catabolism producing propionyl-CoA, requiring vitamin B12 for complete oxidation to succinyl-CoA.
+> Four essential —isoleucine, methionine, threonine, and valine—undergo catabolism producing propionyl-CoA, requiring vitamin B12 for complete oxidation to succinyl-CoA.
 
 ## Amino Acid Pathways
 
@@ -40,7 +40,7 @@ extraction-date: 2026-03-01
 3. Multiple steps to propionyl-CoA or methylmalonyl-CoA
 4. Conversion to succinyl-CoA (B12-dependent)
 
-## [[KEYWORD-Clinical|clinical]] Implication
+##  Implication
 
 **High Protein Intake:**
 - Increases B12 demand
@@ -49,8 +49,8 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_B12_Amino_Acid_[[KEYWORD-Metabolism|metabolism]]_L-001-0405]]*
+*Source: _L-001-0405]]*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

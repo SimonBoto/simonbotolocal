@@ -14,7 +14,7 @@ status: pending
 aliases: [R-001-0032, Kurotani_2012, Fatty_Acids_Risk]
 domain: 001
 tags: [reference, fatty-acids, metabolic-risk, biomarker-pattern]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 

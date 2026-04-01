@@ -9,7 +9,7 @@ pmid: N/A
 tier: 2
 relevance: High — mTOR mechanisms, mitochondrial dysfunction, insulin resistance pathways
 status: extracted
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 extraction-date: 2026-03-28
 ---
 
@@ -147,7 +147,7 @@ Sirolimus → mTORC2 inhibition → ↓ Akt phosphorylation → Insulin resistan
 
 ## Connections
 - **Source:** [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]]
-- **Insulin signaling:** [[MOC-Insulin-Signaling]] — Broader pathway context
+- **Insulin signaling:**  — Broader pathway context
 - **Mitochondrial health:** Relevant to METHAP intervention outcomes
 
 ## Extraction Notes

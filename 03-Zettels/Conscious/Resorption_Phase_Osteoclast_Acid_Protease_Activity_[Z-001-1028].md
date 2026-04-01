@@ -5,7 +5,7 @@ title: Resorption Phase — Osteoclast Acid and Protease Activity
 aliases: [Z-001-1028]
 domain: 001
 tags: [zettel, bone-remodeling, osteoclasts, resorption, acid, cathepsin-k, mmp9, conscious]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 status: conscious
 ---
 
@@ -22,7 +22,7 @@ Mature osteoclasts create a **sealed acidic microenvironment** that dissolves bo
 - Ruffled border formed — highly folded plasma membrane facing bone
 - Resorption lacuna: Isolated space where degradation occurs
 
-### Acidification [[KEYWORD-Mechanism|mechanism]]
+### Acidification 
 | Component | Function |
 |-----------|----------|
 | **Carbonic anhydrase II** | Generates H+ from CO₂ + H₂O |
@@ -51,7 +51,7 @@ Mature osteoclasts create a **sealed acidic microenvironment** that dissolves bo
 - **Depth:** Typically 40–60 μm (can exceed 100 μm in high turnover)
 - **Rate:** ~50 μm/day in active resorption
 
-## [[KEYWORD-Clinical|clinical]] Correlates
+##  Correlates
 | Condition | Resorption Characteristic |
 |-----------|---------------------------|
 | **Postmenopausal osteoporosis** | Increased resorption depth |
@@ -76,4 +76,4 @@ Mature osteoclasts create a **sealed acidic microenvironment** that dissolves bo
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

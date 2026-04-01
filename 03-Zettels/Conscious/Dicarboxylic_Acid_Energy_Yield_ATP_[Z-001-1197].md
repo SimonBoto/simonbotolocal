@@ -4,7 +4,7 @@ type: zettel
 title: Dicarboxylic Acid Energy Yield — ATP Production Comparison
 domain: 101
 tags: [zettel, dicarboxylic-acids, energy-yield, atp, adipate, metabolism]
-parent-moc: [[MOC-Pharmacometabolisms]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]]"
 status: conscious
@@ -95,10 +95,10 @@ Production Rate >> Metabolic Capacity
 Overflow to urine
 ```
 
-**Factors Limiting [[KEYWORD-Metabolism|metabolism]]:**
+**Factors Limiting :**
 1. Dicarboxylic acid pathway enzyme capacity
 2. CoA availability (shared with other pathways)
-3. [[KEYWORD-Mitochondria|mitochondria]]l capacity overwhelmed
+3. l capacity overwhelmed
 4. Competing demands (glucose, other fatty acids)
 
 ---
@@ -118,7 +118,7 @@ Overflow to urine
 **Reduce Production:**
 - Improve β-oxidation (carnitine, riboflavin)
 - Reduce fatty acid load (diet modification)
-- Improve [[KEYWORD-Insulin|insulin]] sensitivity
+- Improve  sensitivity
 
 **Increase Metabolism:**
 - Support dicarboxylic pathway (B-vitamins)

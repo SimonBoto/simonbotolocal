@@ -5,7 +5,7 @@ title: Paget's Disease of Bone — Diagnosis, ALP Patterns, and Management
 aliases: [Z-001-0984]
 domain: 001
 tags: [zettel, pagets-disease, bone, alp, alkaline-phosphatase, osteitis-deformans, bone-scan, bisphosphonates, conscious]
-parent-moc: [[MOC-Bone-Disorders]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]]
 status: conscious
@@ -76,7 +76,7 @@ Result: Disorganized woven bone, enlarged, weak
 - Osteosarcoma (<1%)
 - Giant cell tumor
 
-## [[KEYWORD-Clinical|clinical]] Features
+##  Features
 
 ### Symptoms
 
@@ -107,7 +107,7 @@ Result: Disorganized woven bone, enlarged, weak
 **Other Markers:**
 - Bone resorption markers (CTX, NTX): Elevated
 - Bone formation markers (P1NP): Elevated
-- [[KEYWORD-Calcium|calcium]]: Normal (unless immobilized)
+- : Normal (unless immobilized)
 - Phosphate: Normal
 - PTH: Normal or slightly elevated
 
@@ -191,7 +191,7 @@ Result: Disorganized woven bone, enlarged, weak
 | **Risedronate** | 30 mg PO daily x 2 months | Variable |
 | **Pamidronate** | 60-90 mg IV | 1 year |
 
-**[[KEYWORD-Mechanism|mechanism]]:**
+**:**
 - Inhibit osteoclasts
 - Reduce bone turnover
 - Normalize ALP

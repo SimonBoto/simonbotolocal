@@ -117,7 +117,7 @@ Now let's also add the guides for linking and tagging in Obsidian, the use of ap
 Integrating the Zettelkasten method into Obsidian requires understanding how to effectively use linking, tagging, and other text formatting features to organize and enhance your notes. Here’s a comprehensive guide on applying Zettelkasten principles in Obsidian, including how to utilize linking, tagging, and specific formatting like italics and apostrophes:
 
 ### 1. **Linking Notes**
-   - **Internal Links**: Use double brackets (`[[ ]]`) to create links to other notes within your Obsidian vault. This is fundamental in Zettelkasten to connect ideas and build a knowledge network.
+   - **Internal Links**: Use double brackets (``) to create links to other notes within your Obsidian vault. This is fundamental in Zettelkasten to connect ideas and build a knowledge network.
    - **External Links**: For referencing external sources or documents, use standard Markdown link syntax `[link text](URL)`.
 
 ### 2. **Tagging**
@@ -169,7 +169,7 @@ Here’s how the prompt could be structured, including all the details for linki
 1. **Summarization**: Write each point in your own words, capturing the essence of the arguments without detailed explanations. Keep each note brief and focused.
 
 2. **Linking**:
-   - Include internal links to other relevant notes within the vault using `[[Note Title]]` where appropriate to build connections.
+   - Include internal links to other relevant notes within the vault using `` where appropriate to build connections.
    - Use external links for referencing outside sources or additional readings with `[link text](URL)`.
 
 3. **Tagging**:
@@ -200,4 +200,4 @@ This prompt directs you to generate dense, information-rich notes that are easy 
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

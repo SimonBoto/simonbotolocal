@@ -5,7 +5,7 @@ title: VIP Score Limitations — Why Effect Sizes Are Necessary
 aliases: [Z-001-0936]
 domain: 001
 tags: [zettel, vip-score, variable-importance, effect-size, cohens-d, metabolomics, multivariate, limitations, conscious]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -29,7 +29,7 @@ source-litnote: Synthesized from clinical practice
 | Correlation with other variables | High |
 | Biological relevance | None |
 | Within-group variability | Ignored |
-| Practical/[[KEYWORD-Clinical|clinical]] significance | None |
+| Practical/ significance | None |
 
 ## Critical Limitations
 
@@ -83,12 +83,12 @@ source-litnote: Synthesized from clinical practice
 
 ## Clinical Translation
 
-### [[KEYWORD-Biomarker|biomarker]] Claims Require Effect Sizes
+###  Claims Require Effect Sizes
 - **Diagnostic biomarker:** Needs large effect size (d > 0.8) for clinical utility
 - **Mechanistic insight:** Moderate effect (d > 0.5) acceptable with pathway coherence
 - **Screening tool:** Small effect (d > 0.2) only if combined with other markers
 
-### VIP-Only [[KEYWORD-Biomarker|biomarkers]] Fail Validation
+### VIP-Only  Fail Validation
 Studies reporting VIP > 1 without effect sizes:
 - 60-80% fail replication in independent cohorts
 - Most represent statistical noise or batch effects
@@ -108,7 +108,7 @@ Studies reporting VIP > 1 without effect sizes:
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

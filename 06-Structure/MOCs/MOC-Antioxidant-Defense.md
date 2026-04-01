@@ -26,8 +26,8 @@ created: 2026-03-04
 - Oxidative stress in disease
 
 ## Connections
-- [[MOC-Glycolysis-PPP]] (NADPH production)
-- [[MOC-Mitochondrial-Function]] (ROS source)
+-  (NADPH production)
+-  (ROS source)
 
 ---
 

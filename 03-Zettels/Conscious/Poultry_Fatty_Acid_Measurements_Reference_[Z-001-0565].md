@@ -6,7 +6,7 @@ aliases: [Z-001-0565, Fatty Acid Data, Poultry Measurements, Reference Table]
 domain: 001
 domain-name: Nutrition
 tags: [zettel, reference, omega-6, omega-3, poultry, measurements, data-table, fatty-acids]
-parent-moc: [[MOC-Omega3-Fats]]
+parent-moc: 
 source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]]"
 confidence: high
 created: 2026-03-03
@@ -16,7 +16,7 @@ created: 2026-03-03
 
 ## Purpose
 
-Quick reference table for [[KEYWORD-Omega_6|omega-6]] and omega-3 fatty acid content in chicken meat and egg yolks across different production systems. Data synthesized from peer-reviewed studies.
+Quick reference table for  and omega-3 fatty acid content in chicken meat and egg yolks across different production systems. Data synthesized from peer-reviewed studies.
 
 ---
 
@@ -25,7 +25,7 @@ Quick reference table for [[KEYWORD-Omega_6|omega-6]] and omega-3 fatty acid con
 ### Conventional (Corn/Grain-Fed) Broilers
 | Parameter | Value | Notes |
 |-----------|-------|-------|
-| **Total omega-6** | 35-40% of total [[KEYWORD-Fatty_Acids|fatty acids]] | Primarily linoleic acid |
+| **Total omega-6** | 35-40% of total  | Primarily linoleic acid |
 | **Omega-6:3 ratio** | 15-20:1 | Highly pro-inflammatory |
 | **Primary feed** | Corn, soybean meal | High linoleic acid content |
 | **Tissue distribution** | Higher in skin and adipose | White meat lower than dark |
@@ -143,7 +143,7 @@ To achieve 4:1 ratio with this poultry intake:
 
 - [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_[Z-001-0562]]] — Chicken meat details
 - [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_[Z-001-0563]]] — Egg quality comparison
-- [[Omega6_Omega3_Ratio_Inflammatory_Potential_[Z-001-0564]]] — [[KEYWORD-Mechanism|mechanism]] and clinical significance
+- [[Omega6_Omega3_Ratio_Inflammatory_Potential_[Z-001-0564]]] —  and clinical significance
 
 ---
 

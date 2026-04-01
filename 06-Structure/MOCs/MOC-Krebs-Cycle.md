@@ -28,10 +28,10 @@ created: 2026-03-04
 - Aminotransferases
 
 ## Connections to Other Pathways
-- [[MOC-Glycolysis-PPP]] (pyruvate source)
-- [[MOC-Gluconeogenesis]] (OAA removal)
-- [[MOC-Ketogenesis]] (acetyl-CoA overflow)
-- [[MOC-Amino-Acid-Metabolism]] (entry points)
+-  (pyruvate source)
+-  (OAA removal)
+-  (acetyl-CoA overflow)
+-  (entry points)
 
 ## Regulation
 - ATP/ADP ratio
@@ -39,7 +39,7 @@ created: 2026-03-04
 - Calcium (activates dehydrogenases)
 
 ## Clinical
-- [[MOC-Mitochondrial-Function]]
+- 
 - Krebs cycle enzyme deficiencies
 
 ---

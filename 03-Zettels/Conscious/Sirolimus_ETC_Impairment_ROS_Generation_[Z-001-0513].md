@@ -5,7 +5,7 @@ title: Sirolimus Impairs ETC Function and Increases ROS Generation
 aliases: [Z-001-0513, Sirolimus ROS, ETC Dysfunction Rapamycin]
 domain: 001
 tags: [zettel, sirolimus, rapamycin, etc, electron-transport-chain, ros, oxidative-stress, mitochondrial-damage]
-parent-moc: [[MOC-mTOR-Signaling]]
+parent-moc: 
 status: conscious
 source: "[[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]]"
 extraction-date: 2026-03-02
@@ -13,7 +13,7 @@ extraction-date: 2026-03-02
 
 # Sirolimus Impairs ETC Function and Increases ROS Generation
 
-**Core [[KEYWORD-Mechanism|mechanism]]:** Sirolimus reduces expression of electron transport chain components, leading to inefficient electron transfer and reactive oxygen species (ROS) production.
+**Core :** Sirolimus reduces expression of electron transport chain components, leading to inefficient electron transfer and reactive oxygen species (ROS) production.
 
 ## mTORC1 and ETC Maintenance
 
@@ -63,9 +63,9 @@ Hydroxyl radical (•OH) via Fenton reaction
 
 | Target | Damage Type | Consequence |
 |--------|-------------|-------------|
-| **[[KEYWORD-Mitochondria|mitochondria]]l membranes** | Lipid peroxidation | Loss of membrane integrity |
+| **l membranes** | Lipid peroxidation | Loss of membrane integrity |
 | **ETC proteins** | Oxidation | Further ETC impairment |
-| **mtDNA** | Mutations | Heritable [[KEYWORD-Mitochondria|mitochondrial]] defects |
+| **mtDNA** | Mutations | Heritable  defects |
 | **Cardiolipin** | Oxidation | Cytochrome c release, apoptosis |
 
 ## Amplifying Cycle

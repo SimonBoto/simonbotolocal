@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — 25+ patient objection responses, metabolic storytelling, reframing techniques
 status: extracted
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -76,7 +76,7 @@ extraction-date: 2026-03-08
 4. [[Metabolomics_Report_Structure_Standards_[Z-001-1073].md]] — Report formats
 
 ## Related References
-- [[MOC-Clinical-Protocols]]
+- 
 - [[Patient_Communication_Core_Concepts_[Z-001-1047].md]]
 - [[MCI_Three_Function_Architecture_[Z-001-1030].md]]
 

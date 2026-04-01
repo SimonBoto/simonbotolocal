@@ -5,7 +5,7 @@ title: Evidence-Based Medicine Lessons
 aliases: [EBM-Lessons, Premature-Consensus, Scientific-Rigor]
 domain: 001
 tags: [zettel, ebm, lessons, rigor, consensus]
-parent-moc: [[MOC-Research-Methodology]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]]
 extraction-date: 2026-03-01
@@ -20,7 +20,7 @@ extraction-date: 2026-03-01
 **Hasty Guidelines (1961):**
 - Limited evidence
 - Ecological studies inadequate
-- [[KEYWORD-Mechanism|mechanism]] incomplete
+-  incomplete
 
 **Advocacy vs. Science:**
 - Charismatic advocacy
@@ -54,7 +54,7 @@ extraction-date: 2026-03-01
 
 ## Continuous Reassessment
 
-**Evidence [[KEYWORD-Evolution|evolution]]:**
+**Evidence :**
 - Knowledge is provisional
 - New evidence emerges
 - Guidelines must adapt
@@ -75,6 +75,6 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
-- [[FRAX_Limitations_[[KEYWORD-Clinical|clinical]]_Gaps_[Z-001-0111]|Z-001-0111]]
+- _Gaps_[Z-001-0111]|Z-001-0111]]

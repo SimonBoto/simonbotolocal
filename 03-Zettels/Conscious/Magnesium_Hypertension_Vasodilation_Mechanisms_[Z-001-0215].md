@@ -5,13 +5,13 @@ title: Magnesium and Hypertension — Vasodilation and Blood Pressure Mechanisms
 aliases: [Mg-Hypertension, Magnesium-BP, Vasodilation]
 domain: 001
 tags: [zettel, magnesium, hypertension, blood-pressure, vasodilation, cardiovascular]
-parent-moc: [[MOC-Cardiovascular-Health]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Magnesium|magnesium]] and Hypertension — Vasodilation and Blood Pressure [[KEYWORD-Mechanism|mechanism]]s
+#  and Hypertension — Vasodilation and Blood Pressure s
 
 > Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
 
@@ -114,7 +114,7 @@ extraction-date: 2026-03-01
 **Synergy with Other Interventions:**
 - Weight loss: Improves Mg status and BP
 - Exercise: Increases Mg needs, supplementation supports
-- [[KEYWORD-Vitamin_D|vitamin d]]: Requires Mg for activation; both lower BP
+- : Requires Mg for activation; both lower BP
 
 **Monitoring:**
 - Home BP monitoring
@@ -128,5 +128,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_[Z-001-0206]|Z-001-0206]]

@@ -13,7 +13,7 @@ status: ref
 confidence: high
 aliases: [R-001-0007, Chen_Snyder_2012_Systems_Biology_PM]
 tags: [ref, systems-biology, personalized-medicine, future-medicine, review]
-parent-moc: [[MOC-References]]
+parent-moc: 
 source-type: review
 extraction-date: 2026-02-23
 ---

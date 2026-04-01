@@ -8,7 +8,7 @@ journal: Historical/institutional analysis
 tier: 2
 relevance: Medium — Institutional context for diabetes guidelines; pharma funding issues
 status: extracted
-parent-moc: [[MOC-Diabetes-History]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 

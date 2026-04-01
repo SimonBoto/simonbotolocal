@@ -5,7 +5,7 @@ title: Gluconeogenesis from Oxaloacetate
 aliases: [Z-001-0489, gluconeogenesis, oaa-to-pep, pepck]
 domain: 001
 tags: [zettel, gluconeogenesis, oxaloacetate, pepck, pep]
-parent-moc: [[MOC-Gluconeogenesis]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045H]]
@@ -44,7 +44,7 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 - **Major gluconeogenic enzyme**
 - **Regulated by:** Hormones, diet
 
-### [[KEYWORD-Mitochondria|mitochondria]]l PEPCK
+### l PEPCK
 - **Gene:** PCK2
 - **Minor role in gluconeogenesis**
 - **Anaplerotic function** more prominent
@@ -56,7 +56,7 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 |--------|--------|-----------|
 | **Glucagon** | ↑ PEPCK | cAMP → CREB → transcription |
 | **Cortisol** | ↑ PEPCK | Glucocorticoid receptor |
-| **[[KEYWORD-Insulin|insulin]]** | ↓ PEPCK | FOXO1 inhibition |
+| **** | ↓ PEPCK | FOXO1 inhibition |
 | **Fasting** | ↑ PEPCK | Multiple hormones |
 
 ### Post-transcriptional
@@ -68,7 +68,7 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 Pyruvate → OAA → PEP → ... → Glucose
          (PC)   (PEPCK)
          ↑
-   [[KEYWORD-Mitochondria|mitochondrial]] shuttle required
+    shuttle required
 ```
 
 ## Energy Cost

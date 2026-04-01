@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Final extraction summary, batch inventory, git commits, quality verification
 status: complete
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -96,18 +96,18 @@ extraction-date: 2026-03-08
 
 ## MOCs Updated/Referenced
 
-- [[MOC-Metabolomics-Training]] — Primary curriculum hub
-- [[MOC-Clinical-Protocols]] — Operations and communication
-- [[MOC-Metabolomics-Analysis]] — OAT interpretation
-- [[MOC-Mitochondrial-Function]] — Energy metabolism
-- [[MOC-Krebs-Cycle]] — TCA cycle
-- [[MOC-Vitamin-D-Metabolism]] — D-PTH axis
-- [[MOC-Methylation-One-Carbon]] — Folate-B12
-- [[MOC-Vitamin-Metabolism]] — Micronutrients
-- [[MOC-Nutrition]] — Fatty acids, diet
-- [[MOC-Omega3-Fats]] — Fatty acid ratios
-- [[MOC-Research-Methods]] — Evidence base
-- [[MOC-Insulin-Resistance]] — Metabolic syndrome
+-  — Primary curriculum hub
+-  — Operations and communication
+-  — OAT interpretation
+-  — Energy metabolism
+-  — TCA cycle
+-  — D-PTH axis
+-  — Folate-B12
+-  — Micronutrients
+-  — Fatty acids, diet
+-  — Fatty acid ratios
+-  — Evidence base
+-  — Metabolic syndrome
 
 ## Training Application
 

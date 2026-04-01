@@ -15,7 +15,7 @@ domain: 001
 tags: [litnote, therapeutics, biomarkers, telomeres, autoimmunity, precision-medicine]
 source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_[CGPT-0520]]]"
 status: extracted
-parent-moc: [[MOC-Autoimmunity]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -220,9 +220,9 @@ extraction-date: 2026-03-08
 - [[Telomere_Biomarker_Clinical_Use_[Z-001-1189].md]] — To create
 
 **MOCs:**
-- [[MOC-Autoimmunity]] — Primary domain
-- [[MOC-Clinical-Protocols]] — Therapeutic applications
-- [[MOC-Precision-Medicine]] — Biomarker development
+-  — Primary domain
+-  — Therapeutic applications
+-  — Biomarker development
 
 ---
 

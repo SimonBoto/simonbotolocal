@@ -4,7 +4,7 @@ type: zettel
 title: Aconitase Mechanism and Iron-Sulfur Cluster
 domain: 001
 tags: [zettel, aconitase, iron-sulfur-cluster, krebs-cycle, enzyme-mechanism]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]]"
 status: conscious
@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Aconitase is a unique enzyme with dual functions: it catalyzes an essential step in the Krebs cycle and, in its cytosolic form, regulates iron [[KEYWORD-Metabolism|metabolism]]. Its iron-sulfur cluster is central to both activities.
+Aconitase is a unique enzyme with dual functions: it catalyzes an essential step in the Krebs cycle and, in its cytosolic form, regulates iron . Its iron-sulfur cluster is central to both activities.
 
 ---
 
@@ -71,10 +71,10 @@ Stereospecific addition
 
 ---
 
-## [[KEYWORD-Mitochondria|mitochondria]]l Aconitase (m-Aconitase)
+## l Aconitase (m-Aconitase)
 
 ### Location
-- [[KEYWORD-Mitochondria|mitochondrial]] matrix
+-  matrix
 - Associated with inner membrane
 
 ### Function

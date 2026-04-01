@@ -5,7 +5,7 @@ title: Extraction Protocol Checklist v1.1
 domain: 001
 domain-name: Protocols
 tags: [protocol, extraction, quality, checklist, zettelkasten]
-parent-moc: [[MOC-Protocols]]
+parent-moc: 
 status: active
 created: 2026-02-24
 updated: 2026-02-24

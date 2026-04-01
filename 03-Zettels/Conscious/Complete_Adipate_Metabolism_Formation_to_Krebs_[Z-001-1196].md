@@ -4,13 +4,13 @@ type: zettel
 title: Complete Adipate Metabolism — Formation to Krebs Entry
 domain: 101
 tags: [zettel, adipate, metabolism, dicarboxylic-pathway, succinyl-coa, krebs-cycle]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]]"
 status: conscious
 ---
 
-# Complete Adipate [[KEYWORD-Metabolism|metabolism]] — Formation to Krebs Entry
+# Complete Adipate  — Formation to Krebs Entry
 
 ## Overview
 
@@ -40,7 +40,7 @@ Adipate (C6 dicarboxylic acid)
 Adipate + CoA + ATP → Adipyl-CoA + AMP + PPi
 ```
 
-- Location: [[KEYWORD-Mitochondria|mitochondria]]l matrix or peroxisomes
+- Location: l matrix or peroxisomes
 - Enzyme: Broad-specificity acyl-CoA synthetase
 - Requires: Coenzyme A (B5-dependent)
 
@@ -111,7 +111,7 @@ Produces:
 
 ---
 
-## [[KEYWORD-Clinical|clinical]] Implications
+##  Implications
 
 ### Why Adipate Accumulates
 If adipate produces energy, why does it appear in urine?

@@ -6,16 +6,16 @@ aliases: [Z-001-0075, VitD-High-Dose-Monitoring]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, monitoring, safety-protocol, clinical-practice]
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: 
 source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
 confidence: high
 created: 2026-03-01
 status: conscious
 ---
 
-# High-Dose [[KEYWORD-Vitamin_D|vitamin d]] Monitoring Protocol
+# High-Dose  Monitoring Protocol
 
-[[KEYWORD-Clinical|clinical]] studies (Gallo, Saadi, Gordon, Stoss therapy) demonstrate safety of doses 2-50x RDA with systematic monitoring. Essential parameters: serum 25(OH)D, [[KEYWORD-Calcium|calcium]], phosphate, creatinine/eGFR, urinary calcium/creatinine ratio.
+ studies (Gallo, Saadi, Gordon, Stoss therapy) demonstrate safety of doses 2-50x RDA with systematic monitoring. Essential parameters: serum 25(OH)D, , phosphate, creatinine/eGFR, urinary calcium/creatinine ratio.
 
 **Monitoring schedule (based on research protocols):**
 - **Baseline:** 25(OH)D, calcium, phosphate, creatinine, Mg
@@ -37,9 +37,9 @@ status: conscious
 
 ## Links
 
-**Parent MOC:** [[MOC-Clinical-Protocols]]
+**Parent MOC:** 
 **Source:** [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
-**Related:** [[Gallo_2013_Infant_Vitamin_D_Dose_Response_[Z-001-0067]]], [[Stoss_Therapy_High_Dose_Rickets_Treatment_[Z-001-0069]]], [[MOC-Vitamin-Safety]]
+**Related:** [[Gallo_2013_Infant_Vitamin_D_Dose_Response_[Z-001-0067]]], [[Stoss_Therapy_High_Dose_Rickets_Treatment_[Z-001-0069]]], 
 
 ---
 
@@ -47,4 +47,4 @@ status: conscious
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 2
 relevance: High — Mitochondrial energy production, exercise implications, clinical B12 assessment
 status: extracted
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 

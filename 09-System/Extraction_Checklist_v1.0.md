@@ -5,7 +5,7 @@ title: "RON Extraction Checklist — Preventing Common Mistakes"
 aliases: [Extraction_Checklist, Quality_Control]
 domain: system
 tags: [checklist, quality-control, extraction, zettels, litnotes]
-parent-moc: [[09-System/Architecture]]
+parent-moc: 
 extraction-date: 2026-02-23
 status: active
 ---
@@ -94,7 +94,7 @@ grep -r "^uid: [ZL]-001-" /home/simon/Workspaces/TheOptimizedBrain/02-Literature
 | `tags` | ✅ | `zettel`, `conscious` |
 | `parent-moc` | ✅ | MOC link |
 | `extraction-date` | ✅ | YYYY-MM-DD |
-| `source` | ✅ | [[LitNote_UID]] |
+| `source` | ✅ |  |
 | `status` | ✅ | `conscious` |
 
 ---
@@ -106,13 +106,13 @@ grep -r "^uid: [ZL]-001-" /home/simon/Workspaces/TheOptimizedBrain/02-Literature
 Run validation command:
 ```bash
 # Check for malformed Obsidian links
-grep -nE "\[\[[^\]]+\[|\[\[[^\]]+\][^\]]*\]\]" /path/to/file.md
+grep -nE "\[\+\[|\[\+\][^\]]*\]\]" /path/to/file.md
 ```
 
 **Common malformations to check:**
 - [ ] Double brackets inside: `[[Link_[with]_brackets]]` ❌
 - [ ] Missing closing: `[[Unclosed` ❌
-- [ ] Wrong format: `[Link]` instead of `[[Link]]` ❌
+- [ ] Wrong format: `[Link]` instead of `` ❌
 
 **Fix pattern:**
 - `[[Name_[Z-001-0001]]]` → `[[Name_Z-001-0001]]`
@@ -158,14 +158,14 @@ pdftotext "/path/to/pdf.pdf" - | grep -A 3 -E "^[A-Z][a-z]+.*\([0-9]{4}\)"
 **Verify all internal links resolve:**
 ```bash
 # Extract all wiki-links from new files
-grep -oE "\[\[[^\]]+\]\]" /path/to/new/files | sort | uniq
+grep -oE "\[\+\]\]" /path/to/new/files | sort | uniq
 ```
 
 **Checklist:**
-- [ ] All `[[Z-...]]` links point to existing zettels
-- [ ] All `[[L-...]]` links point to existing LitNotes
-- [ ] All `[[MOC-...]]` links exist
-- [ ] No `[[TODO]]` or placeholder links remain
+- [ ] All `` links point to existing zettels
+- [ ] All `` links point to existing LitNotes
+- [ ] All `` links exist
+- [ ] No `` or placeholder links remain
 
 ---
 
@@ -252,7 +252,7 @@ status: processing  # → complete when done
 aliases: [L-001-0001]
 domain: 001
 tags: [lit-note, tag1, tag2]
-parent-moc: [[MOC-...]]
+parent-moc: 
 extraction-date: YYYY-MM-DD
 ---
 ```
@@ -266,7 +266,7 @@ title: "Atomic Concept Title"
 aliases: [Z-001-0001]
 domain: 001
 tags: [zettel, tag1, conscious]
-parent-moc: [[MOC-...]]
+parent-moc: 
 extraction-date: YYYY-MM-DD
 source: [[LitNote_L-001-0001]]
 status: conscious

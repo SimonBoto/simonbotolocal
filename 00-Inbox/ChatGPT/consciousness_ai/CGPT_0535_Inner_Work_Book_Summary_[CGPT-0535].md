@@ -404,4 +404,4 @@ Orthodox mysticism is marked by a deep reverence for the mystery of God, an emph
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

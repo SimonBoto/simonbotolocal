@@ -6,7 +6,7 @@ aliases: [Z-001-0035, Beta-Cell-Exhaustion, Stage-2-IR]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, beta-cell, exhaustion, IFG, IGT, prediabetes]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
 confidence: high
 created: 2026-02-24
@@ -14,14 +14,14 @@ created: 2026-02-24
 
 # Beta-Cell Exhaustion Stage
 
-Chronic hyper[[KEYWORD-Insulin|insulin]]emia leads to beta-cell burnout through amylin deposition, oxidative stress, ER stress, and eventual apoptosis. Beta-cells can no longer compensate for [[KEYWORD-Insulin_Resistance|insulin resistance]].
+Chronic hyperemia leads to beta-cell burnout through amylin deposition, oxidative stress, ER stress, and eventual apoptosis. Beta-cells can no longer compensate for .
 
 **Relative hypoinsulinemia develops:** Insulin production becomes insufficient to overcome resistance, and glucose levels begin rising.
 
 **Diagnostic thresholds:**
 - Impaired Fasting Glucose (IFG): 100-125 mg/dL
 - Impaired Glucose Tolerance (IGT): 140-199 mg/dL at 2h OGTT
-- HbA1c: 5.7-6.4% (pre[[KEYWORD-Diabetes|diabetes]] range)
+- HbA1c: 5.7-6.4% (pre range)
 
 **Clinical significance:** This is the "prediabetes" stage — still reversible with intensive intervention but requiring more aggressive approaches than Stage 1.
 
@@ -42,7 +42,7 @@ Chronic hyper[[KEYWORD-Insulin|insulin]]emia leads to beta-cell burnout through 
 
 ## Context
 
-**Also relevant to:** [[MOC-Prediabetes]], [[MOC-Beta-Cell]]
+**Also relevant to:** , 
 
 **Emerges from:** Clinical staging framework from literature synthesis
 

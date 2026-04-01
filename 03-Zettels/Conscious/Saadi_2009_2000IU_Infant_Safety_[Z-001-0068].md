@@ -6,14 +6,14 @@ aliases: [Z-001-0068, Saadi-2009-2000IU]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, Saadi-2009, infants, safety]
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: 
 source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
 confidence: high
 created: 2026-03-01
 status: conscious
 ---
 
-# Saadi 2009 — 2,000 IU Infant [[KEYWORD-Safety|safety]]
+# Saadi 2009 — 2,000 IU Infant 
 
 Saadi et al. (2009) demonstrated safety of 2,000 IU/day in infants over short duration with monitoring. This dose exceeds current IOM UL (1,000-1,500 IU for infants) by 33-100% with no adverse effects.
 
@@ -21,7 +21,7 @@ Saadi et al. (2009) demonstrated safety of 2,000 IU/day in infants over short du
 - **Dose:** 2,000 IU/day
 - **Population:** Infants
 - **Duration:** Short-term
-- **Monitoring:** Careful [[KEYWORD-Clinical|clinical]]/laboratory monitoring
+- **Monitoring:** Careful /laboratory monitoring
 - **Result:** Safe, no toxicity
 
 **Significance:** Establishes precedent for doses 2x UL in pediatric population with monitoring.
@@ -30,8 +30,8 @@ Saadi et al. (2009) demonstrated safety of 2,000 IU/day in infants over short du
 
 ## Links
 
-**Parent MOC:** [[MOC-Clinical-Protocols]]
-**Source:** [[LitNote_High_Dose_Vitamin_D_[[KEYWORD-Research|research]]_L-001-0009]]
+**Parent MOC:** 
+**Source:** _L-001-0009]]
 **Related:** [[Gallo_2013_Infant_Vitamin_D_Dose_Response_[Z-001-0067]]], [[UL_Conservative_vs_Research_Reality_[Z-001-0071]]]
 
 ---
@@ -40,4 +40,4 @@ Saadi et al. (2009) demonstrated safety of 2,000 IU/day in infants over short du
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

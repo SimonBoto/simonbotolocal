@@ -4,7 +4,7 @@ type: zettel
 title: Twitter/X Growth Strategy for Health Professionals
 domain: 001
 tags: [zettel, twitter, social-media, growth, health-professionals, branding]
-parent-moc: [[MOC-Professional-Development]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Twitter_Strategy_DrMito_L-001-0634]]"
 status: conscious
@@ -28,9 +28,9 @@ Strategic framework for building a health-focused Twitter/X profile from 0 to 1,
 - What impact do you want to leave?
 
 **DrMito Example:**
-- **Purpose:** Restore [[KEYWORD-Mitochondria|mitochondria]]l function awareness
+- **Purpose:** Restore l function awareness
 - **Belief:** Metabolic health = Foundation of longevity
-- **Mission:** Democratize [[KEYWORD-Mitochondria|mitochondrial]] science
+- **Mission:** Democratize  science
 
 **Application:**
 Write 1-sentence purpose statement. Pin to profile.
@@ -175,7 +175,7 @@ How: [Brief method]
 ## Hashtag Strategy
 
 **Primary (always use):**
-#Mitochondria #[[KEYWORD-Metabolomics|metabolomics]] #Health
+#Mitochondria # #Health
 
 **Secondary (rotate):**
 #Nutrition #Longevity #Wellness #CellularHealth

@@ -5,7 +5,7 @@ title: Adipate Formation from Palmitate via Omega-Oxidation
 aliases: [Z-101-0008, Adipate Pathway, Palmitate to Adipate]
 domain: 101
 tags: [zettel, adipate, palmitate, omega-oxidation, beta-oxidation, fatty-acid-metabolism]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 status: conscious
 source-litnote: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]]"
 extraction-date: 2026-03-02
@@ -15,11 +15,11 @@ extraction-date: 2026-03-02
 
 **Core Pathway:** Palmitate (C16) → Adipate (C6) when β-oxidation is impaired
 
-## Normal vs Pathological [[KEYWORD-Metabolism|metabolism]]
+## Normal vs Pathological 
 
 **Normal (β-oxidation dominant):**
 - Palmitoyl-CoA → 7 cycles β-oxidation → 8 acetyl-CoA
-- Occurs in [[KEYWORD-Mitochondria|mitochondria]]
+- Occurs in 
 - Requires carnitine shuttle (CPT I/II)
 
 **Pathological (ω-oxidation activated):**
@@ -46,7 +46,7 @@ Adipate formation is a **compensatory mechanism** — when mitochondria cannot c
 
 ## Clinical Marker Implication
 
-Elevated adipate in urine = evidence of impaired [[KEYWORD-Mitochondria|mitochondrial]] fatty acid oxidation
+Elevated adipate in urine = evidence of impaired  fatty acid oxidation
 
 ---
 
@@ -54,5 +54,5 @@ Elevated adipate in urine = evidence of impaired [[KEYWORD-Mitochondria|mitochon
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Complete_Adipate_Metabolism_Formation_to_Krebs_[Z-001-1196]|Z-001-1196]]

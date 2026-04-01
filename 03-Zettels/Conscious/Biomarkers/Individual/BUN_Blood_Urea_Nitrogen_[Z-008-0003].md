@@ -6,7 +6,7 @@ title: BUN — Blood Urea Nitrogen
 aliases: [Z-008-0003, BUN, Blood-Urea-Nitrogen, Urea]
 domain: 008
 tags: [zettel, biomarker, bun, urea, nitrogen, kidney, protein-metabolism]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

@@ -6,14 +6,14 @@ aliases: [Z-001-1074, Metabolomics-Biblio]
 domain: 001
 domain-name: Research Methods
 tags: [zettel, bibliography, metabolomics, research]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 source-litnote: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]]
 source: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]]
 confidence: high
 created: 2026-03-08
 ---
 
-# [[KEYWORD-Metabolomics|metabolomics]] Research Core Bibliography
+#  Research Core Bibliography
 
 ## Overview
 Essential research papers supporting metabolomics clinical practice.
@@ -33,12 +33,12 @@ Essential research papers supporting metabolomics clinical practice.
 **Clinical use:** Early intervention justification
 
 ### Papamichael MM, et al. 2018
-**Title:** *Urinary organic acids as [[KEYWORD-Biomarker|biomarker]]s in the assessment of pulmonary function in children with asthma.*  
+**Title:** *Urinary organic acids as s in the assessment of pulmonary function in children with asthma.*  
 **Journal:** Nutr Res  
 **Key finding:** OAT markers correlate with asthma severity  
 **Clinical use:** Respiratory application of metabolomics
 
-## Fatty Acid [[KEYWORD-Metabolism|metabolism]]
+## Fatty Acid 
 
 ### Zhao X, et al. 2016
 **Title:** *Using Metabolomic Profiles as Biomarkers for Insulin Resistance and T2D.*  
@@ -70,13 +70,13 @@ Essential research papers supporting metabolomics clinical practice.
 
 ## Related
 - [[Vitamin_D_Safety_Research_Summary_[Z-001-1075].md]]
-- [[MOC-Research-Methods]]
+- 
 
 ---
 *Source: CGPT-0022 — Research bibliography*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

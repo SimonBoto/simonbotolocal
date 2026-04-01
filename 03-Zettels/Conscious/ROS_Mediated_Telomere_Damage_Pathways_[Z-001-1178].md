@@ -4,7 +4,7 @@ type: zettel
 title: ROS-Mediated Telomere Damage Pathways
 domain: 001
 tags: [zettel, ros, telomeres, oxidative-damage, 8-oxoguanine, dna-repair]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]]"
 status: conscious
@@ -60,11 +60,11 @@ status: conscious
 ## The Vicious Cycle in Autoimmunity
 
 ```
-Autoimmune [[KEYWORD-Inflammation|inflammation]]
+Autoimmune 
       ↓
 Immune Cell Activation
       ↓
-[[KEYWORD-Mitochondria|mitochondria]]l Dysfunction + NADPH Oxidase
+l Dysfunction + NADPH Oxidase
       ↓
 ROS Production ↑
       ↓
@@ -87,7 +87,7 @@ More Cell Divisions + More Inflammation
 **Sources:**
 - Neutrophil oxidative burst
 - Macrophage respiratory burst
-- [[KEYWORD-Mitochondria|mitochondrial]] dysfunction from cytokines
+-  dysfunction from cytokines
 
 **Cytokines:**
 - TNF-α: Activates NADPH oxidase

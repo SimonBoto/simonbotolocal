@@ -5,15 +5,15 @@ title: Adenosylcobalamin — The Mitochondrial B12 Form
 aliases: [Adenosylcobalamin, Mitochondrial-B12, Co-C-Bond]
 domain: 001
 tags: [zettel, adenosylcobalamin, mitochondrial, b12, cobalamin]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
 extraction-date: 2026-03-01
 ---
 
-# Adenosylcobalamin — The [[KEYWORD-Mitochondria|mitochondria]]l B12 Form
+# Adenosylcobalamin — The l B12 Form
 
-> Adenosylcobalamin (5'-deoxyadenosylcobalamin) is the [[KEYWORD-Mitochondria|mitochondrial]] form of vitamin B12, characterized by a unique cobalt-carbon bond that enables radical [[KEYWORD-Chemistry|chemistry]] for methylmalonyl-CoA mutase.
+> Adenosylcobalamin (5'-deoxyadenosylcobalamin) is the  form of vitamin B12, characterized by a unique cobalt-carbon bond that enables radical  for methylmalonyl-CoA mutase.
 
 ## Structure
 
@@ -60,4 +60,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

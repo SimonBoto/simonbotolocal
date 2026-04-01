@@ -5,7 +5,7 @@ title: Meta-Analysis Statistics — Effect Sizes, Heterogeneity, and Forest Plot
 aliases: [Z-001-1000]
 domain: 001
 tags: [zettel, meta-analysis, statistics, effect-size, heterogeneity, i2, forest-plot, fixed-effect, random-effects, conscious]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]]
 status: conscious
@@ -93,7 +93,7 @@ Pooled effect = Σ(Weight × Effect) / Σ(Weight)
 - Studies sample from distribution of effects
 
 **When Appropriate:**
-- [[KEYWORD-Clinical|clinical]] or methodological diversity expected
+-  or methodological diversity expected
 - Generalizing to range of scenarios
 - Most common in practice
 
@@ -309,7 +309,7 @@ Overall          0.81 (0.71, 0.92)      100%
 
 ### Example Results Paragraph
 
-> "Meta-analysis of 12 RCTs (n=3,456) showed [[KEYWORD-Vitamin_D|vitamin d]] supplementation reduced HbA1c by 0.4% (95% CI 0.2 to 0.6) compared to placebo. Heterogeneity was moderate (I² = 45%, τ² = 0.03). The effect was consistent across subgroups by baseline vitamin D level and [[KEYWORD-Diabetes|diabetes]] duration."
+> "Meta-analysis of 12 RCTs (n=3,456) showed  supplementation reduced HbA1c by 0.4% (95% CI 0.2 to 0.6) compared to placebo. Heterogeneity was moderate (I² = 45%, τ² = 0.03). The effect was consistent across subgroups by baseline vitamin D level and  duration."
 
 ## Common Pitfalls
 

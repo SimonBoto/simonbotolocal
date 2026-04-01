@@ -5,7 +5,7 @@ title: B12 Reference and Optimal Values
 aliases: [B12-Reference, Optimal-B12, Neurological-Risk]
 domain: 001
 tags: [zettel, b12, reference, optimal, values]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]]
 extraction-date: 2026-03-01
@@ -34,7 +34,7 @@ extraction-date: 2026-03-01
 ## Neurological Risk
 
 **Symptoms can occur at:**
-- 200-400 pg/mL (sub[[KEYWORD-Clinical|clinical]] deficiency)
+- 200-400 pg/mL (sub deficiency)
 - Even without anemia
 - Peripheral neuropathy
 - Cognitive issues
@@ -51,4 +51,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

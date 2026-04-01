@@ -5,7 +5,7 @@ title: Glucogenic vs Ketogenic Classification of Amino Acids
 aliases: [Z-001-0499, glucogenic, ketogenic, classification, 20-amino-acids]
 domain: 001
 tags: [zettel, glucogenic, ketogenic, classification, amino-acids]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0046A]]
@@ -15,7 +15,7 @@ source: [[L-001-0046A]]
 
 ## The Categories
 
-### Glucogenic Only (14 [[KEYWORD-Amino_Acids|amino acids]])
+### Glucogenic Only (14 )
 Can be converted to glucose via gluconeogenesis.
 
 **List:**
@@ -60,9 +60,9 @@ Yield both glucogenic and ketogenic products.
 | **Both** | 4 | Ile, Phe, Trp, Tyr |
 | **Total** | 20 | All amino acids |
 
-## [[KEYWORD-Clinical|clinical]] Relevance
+##  Relevance
 
-### Fasting [[KEYWORD-Metabolism|metabolism]]
+### Fasting 
 **Glucogenic amino acids:**
 - Can maintain blood glucose
 - Spared initially during fasting
@@ -92,7 +92,7 @@ Yield both glucogenic and ketogenic products.
 ## Related
 - All amino acid entry zettels
 - [[Ketogenic_Amino_Acids_Leucine_Lysine_[Z-001-0498]]] Ketogenic Amino Acids (Leucine, Lysine)
-- [[MOC-Gluconeogenesis]]
+- 
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

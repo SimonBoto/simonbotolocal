@@ -5,7 +5,7 @@ title: Dehydrogenases vs Decarboxylases Distinction
 aliases: [Z-101-0019, Dehydrogenase Decarboxylase Difference, Enzyme Classification]
 domain: 101
 tags: [zettel, dehydrogenase, decarboxylase, enzyme-classification, redox, cofactors]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 status: conscious
 source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]]"
 extraction-date: 2026-03-02
@@ -13,7 +13,7 @@ extraction-date: 2026-03-02
 
 # Dehydrogenases vs Decarboxylases Distinction
 
-**Fundamental Difference:** These enzyme classes catalyze different chemical reactions with distinct [[KEYWORD-Mechanism|mechanism]]s and cofactors.
+**Fundamental Difference:** These enzyme classes catalyze different chemical reactions with distinct s and cofactors.
 
 ## Core Distinctions
 
@@ -42,7 +42,7 @@ Pyruvate + NADH + H⁺ → Lactate + NAD⁺
 ```
 - Reversible reaction
 - No decarboxylation
-- Critical for anaerobic [[KEYWORD-Glycolysis|glycolysis]]
+- Critical for anaerobic 
 
 **Glucose-6-Phosphate Dehydrogenase:**
 ```
@@ -110,7 +110,7 @@ Isocitrate + NAD⁺ → α-ketoglutarate + CO₂ + NADH + H⁺
 **"De-HYDROGEN-ase"** → removes **HYDROGEN**
 **"De-CARBOXYL-ase"** → removes **CARBOXYL (COOH)**
 
-## [[KEYWORD-Clinical|clinical]] Relevance
+##  Relevance
 
 **Understanding the distinction matters for:**
 1. **Interpreting metabolic panels:** Lactic acidosis (LDH-related) vs organic aciduria (decarboxylase-related)
@@ -123,4 +123,4 @@ Isocitrate + NAD⁺ → α-ketoglutarate + CO₂ + NADH + H⁺
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

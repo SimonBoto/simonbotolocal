@@ -5,7 +5,7 @@ title: Urine Organic Acid Interpretation — Dicarboxylic Acid Pattern
 aliases: [Z-101-0013, UOA Dicarboxylic Pattern, Lab Interpretation Dicarboxylic]
 domain: 101
 tags: [zettel, urine-organic-acid, dicarboxylic-acid, lab-interpretation, GC-MS, diagnostic]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 status: conscious
 source: "[[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]]"
 extraction-date: 2026-03-02
@@ -41,7 +41,7 @@ This hierarchy reflects:
 - Adipate: 2-5× ULN
 - Suberate: Normal or <2× ULN
 - Sebacate: Normal
-- **Interpretation:** Sub[[KEYWORD-Clinical|clinical]] [[KEYWORD-Mitochondria|mitochondria]]l stress
+- **Interpretation:** Sub l stress
 
 **Grade 2 (Moderate):**
 - Adipate: 5-20× ULN
@@ -87,4 +87,4 @@ This hierarchy reflects:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

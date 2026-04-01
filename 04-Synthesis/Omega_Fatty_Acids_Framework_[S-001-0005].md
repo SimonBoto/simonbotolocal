@@ -5,7 +5,7 @@ title: Omega Fatty Acids Clinical Framework - Systematic Reduction of Omega-6 an
 aliases: [S-001-0005, Omega-Framework, Fatty-Acid-Protocol, Seed-Oil-Elimination]
 domain: 001
 tags: [synthesis, omega-6, omega-3, fatty-acids, dietary-intervention, inflammation, seed-oils, linoleic-acid, clinical-protocol]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: active
 created: 2026-03-30
 updated: 2026-03-30
@@ -308,7 +308,7 @@ Systematic 3-phase approach over 6-12 months:
 - Grass-fed beef: Better omega-6:3 ratio
 - Pasture-raised eggs: Higher omega-3
 - Wild game: Natural fatty acid profile
-- [[GrassFed_Superior_20260215_045]]
+- 
 
 **Poultry Considerations:**
 - Conventional chicken: High omega-6 (grain-fed)

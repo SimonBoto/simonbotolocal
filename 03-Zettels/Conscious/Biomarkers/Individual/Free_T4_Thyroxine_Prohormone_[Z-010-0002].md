@@ -6,7 +6,7 @@ title: Free T4 — Thyroxine, Prohormone
 aliases: [Z-010-0002, Free-T4, T4, Thyroxine, Prohormone]
 domain: 010
 tags: [zettel, biomarker, free-t4, t4, thyroxine, thyroid, prohormone]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

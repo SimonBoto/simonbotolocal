@@ -14,7 +14,7 @@ status: complete
 aliases: [L-001-0004, NKUA_DE4, Metabolic_Disorders_Diagnosis]
 domain: 001
 tags: [lit-note, metabolic-disorders, diagnosis, metabolomics, inherited-diseases, newborn-screening, insulin-resistance, biomarkers]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 
@@ -22,7 +22,7 @@ extraction-date: 2026-02-23
 
 ## Source
 - **Full citation:** ΕΘΝΙΚΟ ΚΑΙ ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ. Πρόγραμμα Συμπληρωματικής Εκπαίδευσης 3174 — ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΜΕΤΑΒΟΛΟΜΙΚΗΣ. Διδακτική Ενότητα 4: Μεταβολικές Διαταραχές και Διάγνωση μέσω της Μεταβολομικής.
-- **PDF Asset:** [[01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ_4_Metabolic_Disorders_Diagnosis_Metabolomics.pdf]]
+- **PDF Asset:** 
 - **Course:** 3174 - Βασικές Αρχές Μεταβολομικής
 - **Language:** Greek
 
@@ -126,16 +126,16 @@ extraction-date: 2026-02-23
 
 | # | Reference | DOI/PMID | Status | Hub |
 |---|-----------|----------|--------|-----|
-| 1 | Andersen LW, et al. Etiology of elevated lactate. Mayo Clin Proc. 2013 | doi:10.1016/j.mayocp.2013.06.012 | ✅ Hub created | [[Andersen_etal_2013_Lactate_Etiology_R-001-0028]] |
-| 2 | Crivelli JJ, et al. Dietary oxalate contribution. Nutrients. 2021 | doi:10.3390/nu13010062 | ✅ Hub created | [[Crivelli_etal_2021_Oxalate_Dietary_R-001-0029]] |
-| 3 | Jonker R, et al. Specific dietary amino acids. Br J Nutr. 2012 | doi:10.1017/S0007114512002358 | ✅ Hub created | [[Jonker_etal_2012_Amino_Acids_Clinical_R-001-0030]] |
-| 4 | Kröger J, Schulze MB. Δ5/Δ6 desaturase and T2D. Curr Opin Lipidol. 2012 | doi:10.1097/MOL.0b013e32834d2dc5 | ✅ Hub created | [[Kroger_Schulze_2012_Desaturase_T2D_R-001-0031]] |
-| 5 | Kurotani K, et al. Serum fatty acids and metabolic risk. 2012 | — | ✅ Hub created | [[Kurotani_etal_2012_Fatty_Acids_Risk_R-001-0032]] |
-| 6 | Patterson E, et al. Omega-6 PUFA health implications. J Nutr Metab. 2012 | doi:10.1155/2012/539426 | ✅ Hub created | [[Patterson_etal_2012_Omega6_Health_R-001-0033]] |
-| 7 | Puchalska P, Crawford PA. Ketone body roles. 2012 | — | ✅ Hub created | [[Puchalska_Crawford_2012_Ketone_Bodies_R-001-0034]] |
-| 8 | Savage DB, et al. Mechanisms of insulin resistance. Hypertension. 2005 | doi:10.1161/01.HYP.0000163475.04421.e4 | ✅ Hub created | [[Savage_etal_2005_IR_Mechanisms_R-001-0035]] |
-| 9 | Tsilimidos G, et al. Metabolomics fatty acids Part II. IJMM. 2019 | doi:10.3892/ijmm.2018.3989 | ✅ Hub created | [[Tsilimidos_etal_2019_Fatty_Acids_Metabolomics_R-001-0036]] |
-| 10 | Tsoukalas D, et al. Metabolic health snapshot. Clin Nutr ESPEN. 2021 | doi:10.1016/j.clnesp.2021.06.011 | ✅ Hub created | [[Tsoukalas_etal_2021_Metabolic_Health_Snapshot_R-001-0025]] |
+| 1 | Andersen LW, et al. Etiology of elevated lactate. Mayo Clin Proc. 2013 | doi:10.1016/j.mayocp.2013.06.012 | ✅ Hub created |  |
+| 2 | Crivelli JJ, et al. Dietary oxalate contribution. Nutrients. 2021 | doi:10.3390/nu13010062 | ✅ Hub created |  |
+| 3 | Jonker R, et al. Specific dietary amino acids. Br J Nutr. 2012 | doi:10.1017/S0007114512002358 | ✅ Hub created |  |
+| 4 | Kröger J, Schulze MB. Δ5/Δ6 desaturase and T2D. Curr Opin Lipidol. 2012 | doi:10.1097/MOL.0b013e32834d2dc5 | ✅ Hub created |  |
+| 5 | Kurotani K, et al. Serum fatty acids and metabolic risk. 2012 | — | ✅ Hub created |  |
+| 6 | Patterson E, et al. Omega-6 PUFA health implications. J Nutr Metab. 2012 | doi:10.1155/2012/539426 | ✅ Hub created |  |
+| 7 | Puchalska P, Crawford PA. Ketone body roles. 2012 | — | ✅ Hub created |  |
+| 8 | Savage DB, et al. Mechanisms of insulin resistance. Hypertension. 2005 | doi:10.1161/01.HYP.0000163475.04421.e4 | ✅ Hub created |  |
+| 9 | Tsilimidos G, et al. Metabolomics fatty acids Part II. IJMM. 2019 | doi:10.3892/ijmm.2018.3989 | ✅ Hub created |  |
+| 10 | Tsoukalas D, et al. Metabolic health snapshot. Clin Nutr ESPEN. 2021 | doi:10.1016/j.clnesp.2021.06.011 | ✅ Hub created |  |
 
 **Total: 10 references**  
 **Hubs created: 10 (100%)**  
@@ -145,16 +145,16 @@ extraction-date: 2026-02-23
 
 | UID | Hub | Priority | METHAP Relevance |
 |-----|-----|----------|------------------|
-| R-001-0028 | [[Andersen_etal_2013_Lactate_Etiology_R-001-0028]] | HIGH | Lactate as metabolic stress marker |
-| R-001-0029 | [[Crivelli_etal_2021_Oxalate_Dietary_R-001-0029]] | MEDIUM | Oxalate pathway (urine OA class) |
-| R-001-0030 | [[Jonker_etal_2012_Amino_Acids_Clinical_R-001-0030]] | MEDIUM | Protein metabolism biomarkers |
-| **R-001-0031** | **[[Kroger_Schulze_2012_Desaturase_T2D_R-001-0031]]** | **HIGH** | **Fatty acid desaturases in T2D** |
-| R-001-0032 | [[Kurotani_etal_2012_Fatty_Acids_Risk_R-001-0032]] | HIGH | Serum fatty acid patterns |
-| R-001-0033 | [[Patterson_etal_2012_Omega6_Health_R-001-0033]] | MEDIUM | Omega-6:3 ratio importance |
-| R-001-0034 | [[Puchalska_Crawford_2012_Ketone_Bodies_R-001-0034]] | HIGH | Ketone metabolism (IR marker) |
-| **R-001-0035** | **[[Savage_etal_2005_IR_Mechanisms_R-001-0035]]** | **CRITICAL** | **IR mechanisms — foundational** |
-| R-001-0036 | [[Tsilimidos_etal_2019_Fatty_Acids_Metabolomics_R-001-0036]] | HIGH | Fatty acid metabolomics methods |
-| R-001-0025 | [[Tsoukalas_etal_2021_Metabolic_Health_Snapshot_R-001-0025]] | HIGH | Cross-cited from DE3 |
+| R-001-0028 |  | HIGH | Lactate as metabolic stress marker |
+| R-001-0029 |  | MEDIUM | Oxalate pathway (urine OA class) |
+| R-001-0030 |  | MEDIUM | Protein metabolism biomarkers |
+| **R-001-0031** | **** | **HIGH** | **Fatty acid desaturases in T2D** |
+| R-001-0032 |  | HIGH | Serum fatty acid patterns |
+| R-001-0033 |  | MEDIUM | Omega-6:3 ratio importance |
+| R-001-0034 |  | HIGH | Ketone metabolism (IR marker) |
+| **R-001-0035** | **** | **CRITICAL** | **IR mechanisms — foundational** |
+| R-001-0036 |  | HIGH | Fatty acid metabolomics methods |
+| R-001-0025 |  | HIGH | Cross-cited from DE3 |
 
 ---
 

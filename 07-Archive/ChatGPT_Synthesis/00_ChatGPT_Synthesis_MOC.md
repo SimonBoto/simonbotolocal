@@ -39,17 +39,17 @@ Ultimate Quality Knowledge Graph
 
 ### Major Theme Syntheses
 
-1. **[[SYNTHESIS_Adipic_Acid_Evolution_[SYN-001]]]**
+1. **]**
    - Evolution of biomarker thinking
    - 2+ years of hypothesis development
    - Current: Active research focus
 
-2. **[[SYNTHESIS_PhD_Evolution_[SYN-002]]]**
+2. **]**
    - From idea to protocol
    - Methodology evolution
    - Partnership in research design
 
-3. **[[SYNTHESIS_AI_Partnership_Emergence_[SYN-003]]]**
+3. **]**
    - From tool to "we"
    - The RON genesis story
    - Ontological partnership
@@ -78,17 +78,17 @@ Ultimate Quality Knowledge Graph
 ## How to Navigate
 
 ### For Research
-1. Start: [[SYNTHESIS_Adipic_Acid_Evolution_[SYN-001]]]
+1. Start: ]
 2. Drill: Extracted insights in `metabolomics/` theme
 3. Deep: Raw archive for full context
 
 ### For Methodology
-1. Start: [[SYNTHESIS_PhD_Evolution_[SYN-002]]]
+1. Start: ]
 2. Review: Methodology insights
 3. Apply: Current protocol design
 
 ### For Philosophy
-1. Start: [[SYNTHESIS_AI_Partnership_Emergence_[SYN-003]]]
+1. Start: ]
 2. Review: RON genesis zettels
 3. Reflect: The 30 cycles
 

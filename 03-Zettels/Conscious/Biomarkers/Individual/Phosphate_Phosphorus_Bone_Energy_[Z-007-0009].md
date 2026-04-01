@@ -5,7 +5,7 @@ title: Phosphate — Phosphorus, Bone & Energy Metabolism
 aliases: [Z-007-0009, Phosphate, Phosphorus, PO4, Bone, Energy]
 domain: 007
 tags: [zettel, biomarker, phosphate, phosphorus, bone, energy, mineral]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

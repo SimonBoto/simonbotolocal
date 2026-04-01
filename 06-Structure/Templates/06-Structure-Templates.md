@@ -5,7 +5,7 @@ type: index
 title: "06-Structure/Templates — Note Templates"
 aliases: [Templates, Forms, Standards]
 tags: [index, templates, standards, folder]
-parent-index: [[06-Structure]]
+parent-index: 
 status: active
 ---
 
@@ -21,15 +21,15 @@ status: active
 
 | Template | Use For | Status | Usage |
 |----------|---------|--------|-------|
-| **[[Template_Zettel_v2.0]]** | Atomic knowledge notes | ✅ Active | 62+ files |
-| **[[Template_MOC_v1.0]]** | Maps of Content | ✅ Active | 16+ files |
-| **[[Template_LitNote_v1.0]]** | Literature processing | ✅ Active | Extraction workflow |
+| **** | Atomic knowledge notes | ✅ Active | 62+ files |
+| **** | Maps of Content | ✅ Active | 16+ files |
+| **** | Literature processing | ✅ Active | Extraction workflow |
 
 ## 🤖 RON Templates (1)
 
 | Template | Use For | Location |
 |----------|---------|----------|
-| **[[RON/RON_Response_Protocol]]** | RON output structure | RON/ folder |
+| **** | RON output structure | RON/ folder |
 
 ---
 
@@ -64,10 +64,10 @@ Down from 25 templates (84% reduction).
 
 ## 🔗 Navigation
 
-← **Back to [[06-Structure]]** — Structure Index  
-→ **Sister: [[06-Structure-Indexes]]** — Indexes  
-→ **Sister: [[06-Structure-MOCs]]** — MOCs  
-↑ **Parent: [[06-Structure]]**
+← **Back to ** — Structure Index  
+→ **Sister: ** — Indexes  
+→ **Sister: ** — MOCs  
+↑ **Parent: **
 
 ---
 

@@ -5,7 +5,7 @@ title: LA — Linoleic Acid, Essential Omega-6
 aliases: [Z-006-0201, LA, Linoleic-Acid, Omega-6, Essential]
 domain: 006
 tags: [zettel, biomarker, la, linoleic, omega-6, essential]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

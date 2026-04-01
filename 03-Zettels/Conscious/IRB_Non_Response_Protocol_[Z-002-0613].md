@@ -6,7 +6,7 @@ aliases: [Z-002-0613, irb-silence, ethics-committee-delay]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, irb, administration, practical]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: "[[LitNote_Ethics_Committee_Communication_L-002-0603]]"
 confidence: medium
 created: 2026-03-27
@@ -84,7 +84,7 @@ NKUA ethics committee timeline:
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Research|research]]-Ethics]]  
+**Parent MOC:** -Ethics]]  
 **Source:** [[LitNote_Ethics_Committee_Communication_L-002-0603]]  
 **Related:** [[IRB_Communication_Template_[Z-002-0614].md]] — Message templates
 

@@ -6,7 +6,7 @@ aliases: [Z-001-1054, Beta-Oxidation]
 domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, beta-oxidation, fatty-acids, mitochondria]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
 source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Beta Oxidation Clinical Mechanisms
 
 ## Overview
-[[KEYWORD-Mitochondria|mitochondria]]l process of breaking down fatty acids into acetyl-CoA units, generating NADH and FADH₂ for ATP production.
+l process of breaking down fatty acids into acetyl-CoA units, generating NADH and FADH₂ for ATP production.
 
 ## Four-Step Cycle (per 2-carbon removal)
 
@@ -60,11 +60,11 @@ Long-chain fatty acids (>12 carbons) require:
 ## Clinical Applications
 - **Fatigue:** Assess β-oxidation capacity
 - **Weight loss:** Optimize fat burning
-- **[[KEYWORD-Insulin|insulin]] resistance:** Improve metabolic flexibility
+- ** resistance:** Improve metabolic flexibility
 
 ## Related
 - [[Carnitine_Shuttle_Fatty_Acid_Transport_[Z-001-1058].md]]
-- [[MOC-Mitochondrial-Function]]
+- 
 
 ---
-*Source: CGPT-0022 — Fatty acid [[KEYWORD-Metabolism|metabolism]]*
+*Source: CGPT-0022 — Fatty acid *

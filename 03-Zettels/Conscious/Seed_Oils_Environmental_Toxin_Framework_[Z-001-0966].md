@@ -5,7 +5,7 @@ title: Seed Oils as Environmental Toxin — Public Health Framework Application
 aliases: [Z-001-0966]
 domain: 001
 tags: [zettel, seed-oils, environmental-toxin, public-health, exposure-assessment, dose-response, precautionary-principle, conscious]
-parent-moc: [[MOC-Public-Health]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Seed_Oils_Environmental_Toxins_L-001-0526]]
 status: conscious
@@ -42,7 +42,7 @@ Applying **toxicological and public health frameworks** to seed oils reveals the
 
 | Element | Traditional Environmental Toxin | Seed Oils |
 |---------|--------------------------------|-----------|
-| **Hazard** | Known toxicity (e.g., lead neurotoxicity) | Metabolic disruption, [[KEYWORD-Inflammation|inflammation]] |
+| **Hazard** | Known toxicity (e.g., lead neurotoxicity) | Metabolic disruption,  |
 | **Exposure** | Air, water, food contamination | Ubiquitous in food supply |
 | **Dose-response** | Linear or threshold | Appears linear, no clear threshold |
 | **Risk** | Quantified for regulations | Not formally assessed |
@@ -52,7 +52,7 @@ Applying **toxicological and public health frameworks** to seed oils reveals the
 ### Mechanisms of Harm
 
 **Metabolic Level:**
-- [[KEYWORD-Insulin|insulin]] resistance (mechanisms: inflammation, oxidative stress)
+-  resistance (mechanisms: inflammation, oxidative stress)
 - Dyslipidemia (oxidized LDL, altered HDL)
 - Weight gain (adipose inflammation, leptin resistance)
 
@@ -103,7 +103,7 @@ Applying **toxicological and public health frameworks** to seed oils reveals the
 | Group | Higher Exposure | Greater Susceptibility |
 |-------|-----------------|------------------------|
 | Low SES | More processed foods | Less healthcare access |
-| Children | Developing [[KEYWORD-Metabolism|metabolism]] | Longer exposure duration |
+| Children | Developing  | Longer exposure duration |
 | Elderly | Institutional food | Impaired detoxification |
 | Restaurant workers | Occupational inhalation | Chronic exposure |
 | Food-insecure | Limited food choices | High ultra-processed diet |

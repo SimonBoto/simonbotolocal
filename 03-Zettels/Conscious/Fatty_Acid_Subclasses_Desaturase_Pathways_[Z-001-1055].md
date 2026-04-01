@@ -6,7 +6,7 @@ aliases: [Z-001-1055, Fatty-Acid-Classes]
 domain: 001
 domain-name: Nutrition
 tags: [zettel, fatty-acids, omega-3, omega-6, desaturase]
-parent-moc: [[MOC-Omega3-Fats]]
+parent-moc: 
 source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
 source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
 confidence: high
@@ -18,7 +18,7 @@ created: 2026-03-08
 ## Overview
 Essential fatty acids require elongation and desaturation to become biologically active signaling molecules.
 
-## [[KEYWORD-Omega_6|omega-6]] Pathway (Pro-inflammatory Precursor)
+##  Pathway (Pro-inflammatory Precursor)
 
 ```
 LA (18:2 n-6) ──Δ6D──> GLA (18:3 n-6) ──E──> DGLA (20:3 n-6) ──Δ5D──> AA (20:4 n-6)
@@ -41,7 +41,7 @@ ALA (18:3 n-3) ──Δ6D──> SDA (18:4 n-3) ──E──> EPA (20:5 n-3) �
 
 | Enzyme | Function | Inhibitors |
 |--------|----------|------------|
-| **Δ6-Desaturase** | First step for both pathways | [[KEYWORD-Insulin|insulin]], glucagon, trans fats, alcohol |
+| **Δ6-Desaturase** | First step for both pathways | , glucagon, trans fats, alcohol |
 | **Δ5-Desaturase** | Converts DGLA→AA, SDA→EPA | Arachidonic acid (feedback) |
 | **Elongase** | Adds 2 carbons | Competitive between pathways |
 
@@ -62,12 +62,12 @@ ALA (18:3 n-3) ──Δ6D──> SDA (18:4 n-3) ──E──> EPA (20:5 n-3) �
 
 ## Related
 - [[Fatty_Acid_Ratios_Clinical_Interpretation_[Z-001-1056].md]]
-- [[MOC-Omega3-Fats]]
+- 
 
 ---
-*Source: CGPT-0022 — Fatty acid [[KEYWORD-Metabolism|metabolism]]*
+*Source: CGPT-0022 — Fatty acid *
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[ATP_Yield_Comparison_[Z-001-1258]|Z-001-1258]]

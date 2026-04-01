@@ -5,7 +5,7 @@ title: ALA — Alpha-Linolenic Acid, Plant Omega-3
 aliases: [Z-006-0101, ALA, Alpha-Linolenic, Omega-3, Plant-Based]
 domain: 006
 tags: [zettel, biomarker, ala, omega-3, plant, essential]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 2
 relevance: High — Clinical decision tool for osteoporosis treatment thresholds
 status: extracted
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 extraction-date: 2026-03-06
 domain: 001
 ---

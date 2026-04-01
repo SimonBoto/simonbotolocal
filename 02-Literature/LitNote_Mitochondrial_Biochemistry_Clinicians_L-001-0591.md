@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Comprehensive mitochondrial mechanisms, Krebs cycle, OXPHOS, cofactors, OAT interpretation
 status: extracted
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -89,8 +89,8 @@ This single enzyme requires:
 6. [[Aconitase_Oxidative_Stress_Sensitivity_[Z-001-1053].md]] — Oxidative stress marker
 
 ## Related References
-- [[MOC-Mitochondrial-Function]] — Parent domain
-- [[MOC-Krebs-Cycle]] — Pathway specific
+-  — Parent domain
+-  — Pathway specific
 - [[Mitochondrial_Energy_Terminology_[Z-001-1043].md]] — Vocabulary foundation
 
 ---

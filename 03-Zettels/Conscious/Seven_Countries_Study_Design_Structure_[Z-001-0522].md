@@ -5,7 +5,7 @@ title: Seven Countries Study — Design and Structure
 aliases: [Seven-Countries-Design, Keys-Study-Structure]
 domain: 001
 tags: [zettel, seven-countries, study-design, methodology]
-parent-moc: [[MOC-Research-Methodology]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]]
 extraction-date: 2026-03-01
@@ -35,7 +35,7 @@ extraction-date: 2026-03-01
 
 ## Data Collection
 
-**[[KEYWORD-Clinical|clinical]]:** BP, ECG, [[KEYWORD-Cholesterol|cholesterol]], anthropometrics
+**:** BP, ECG, , anthropometrics
 **Lifestyle:** Smoking, occupation-based activity
 **Diet:** 7-day household records, chemical analysis
 
@@ -49,6 +49,6 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

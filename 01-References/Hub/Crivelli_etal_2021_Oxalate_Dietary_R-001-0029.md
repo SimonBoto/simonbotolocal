@@ -17,7 +17,7 @@ status: pending
 aliases: [R-001-0029, Crivelli_2021, Oxalate_Dietary]
 domain: 001
 tags: [reference, oxalate, urine-organic-acids, dietary, methodology]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 

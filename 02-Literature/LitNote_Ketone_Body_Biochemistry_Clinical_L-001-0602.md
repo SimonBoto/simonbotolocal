@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — BHB, acetoacetate, acetone, ketogenesis, therapeutic ketosis, neurological applications
 status: extracted
-parent-moc: [[MOC-Ketogenesis]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -75,7 +75,7 @@ Fatty acids → Acetyl-CoA → Acetoacetate (primary ketone)
 4. [[Therapeutic_Ketosis_Clinical_Applications_[Z-001-1096].md]]
 
 ## Related References
-- [[MOC-Ketogenesis]]
+- 
 - [[Beta_Oxidation_Clinical_Mechanisms_[Z-001-1054].md]]
 - [[Ketosis_Metabolic_Flexibility_Clinical_[Z-001-1057].md]]
 

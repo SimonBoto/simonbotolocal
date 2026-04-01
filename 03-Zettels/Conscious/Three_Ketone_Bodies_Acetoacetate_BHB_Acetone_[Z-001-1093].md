@@ -6,7 +6,7 @@ aliases: [Z-001-1093, Ketone-Bodies]
 domain: 001
 domain-name: Ketogenesis
 tags: [zettel, ketones, acetoacetate, bhb, acetone]
-parent-moc: [[MOC-Ketogenesis]]
+parent-moc: 
 source-litnote: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
 source: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
 confidence: high
@@ -25,7 +25,7 @@ The liver produces three ketone bodies from fatty acid oxidation: acetoacetate, 
 - **Formula:** C₄H₆O₃
 - **Production:** First ketone body synthesized
 
-### [[KEYWORD-Metabolism|metabolism]]
+### 
 - Converted to BHB (reversible) or acetone (irreversible)
 - Transported to tissues for energy
 - Decarboxylates spontaneously to acetone
@@ -74,7 +74,7 @@ Acetoacetate ←→ BHB
 ```
 
 **Enzyme:** Beta-hydroxybutyrate dehydrogenase (reversible)
-- Location: [[KEYWORD-Mitochondria|mitochondria]]
+- Location: 
 - Cofactor: NAD⁺/NADH
 - Equilibrium favors BHB under reducing conditions
 
@@ -87,9 +87,9 @@ Acetoacetate ←→ BHB
 | **Breath acetone** | Acetone proxy | Non-invasive, research use |
 
 ## Related
-- [[Ketogenesis_[[KEYWORD-Mechanism|mechanism]]_Liver_Mitochondria_[Z-001-1094].md]]
+- _Liver_Mitochondria_[Z-001-1094].md]]
 - [[BHB_Hydroxyacid_Not_True_Ketone_[Z-001-1095].md]]
-- [[MOC-Ketogenesis]]
+- 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

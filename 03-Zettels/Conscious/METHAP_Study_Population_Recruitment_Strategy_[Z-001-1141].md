@@ -6,7 +6,7 @@ aliases: [Z-001-1141, METHAP-Population]
 domain: 001
 domain-name: PhD Research
 tags: [zettel, methap, study-design, recruitment, population]
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 source-litnote: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]]
 source: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # METHAP Study Population Recruitment Strategy
 
 ## Overview
-The METHAP ([[KEYWORD-Metabolomics|metabolomics]] and Insulin Resistance) trial recruits 220 participants stratified by metabolic status to compare [[KEYWORD-Biomarker|biomarker]] profiles and assess intervention efficacy.
+The METHAP ( and Insulin Resistance) trial recruits 220 participants stratified by metabolic status to compare  profiles and assess intervention efficacy.
 
 ## Study Population
 
@@ -62,7 +62,7 @@ The METHAP ([[KEYWORD-Metabolomics|metabolomics]] and Insulin Resistance) trial 
 | **Severe kidney disease** | Metabolomics interference |
 | **Liver disease** | Metabolic derangement |
 | **Pregnancy/lactation** | Physiological changes |
-| **Medications affecting [[KEYWORD-Metabolism|metabolism]]** | Confounding |
+| **Medications affecting ** | Confounding |
 | **Recent antibiotics** | Gut microbiome disruption |
 
 ## Recruitment Strategy
@@ -113,12 +113,12 @@ The METHAP ([[KEYWORD-Metabolomics|metabolomics]] and Insulin Resistance) trial 
 ## Related
 - [[METHAP_Intervention_Protocol_Diet_Supplements_[Z-001-1142].md]]
 - [[METHAP_Control_Group_Strategy_Reference_[Z-001-1143].md]]
-- [[MOC-PhD-Research]]
+- 
 
 ---
 *Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

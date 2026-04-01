@@ -6,7 +6,7 @@ aliases: [Z-001-0934, Z-001-0527-deprecated, Multiple Comparisons Problem, High-
 domain: 001
 domain-name: Research Methods
 tags: [zettel, statistics, multiple-testing, high-dimensional-data, omics, metabolomics, type-1-error, false-positives]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
 confidence: high
 created: 2026-03-03
@@ -17,7 +17,7 @@ updated: 2026-03-05
 
 ## Core Concept
 
-The **multiple testing problem** arises when thousands of statistical tests are performed simultaneously, inflating the probability of false positives. In high-dimensional omics ([[KEYWORD-Metabolomics|metabolomics]], genomics, proteomics), this is unavoidable and requires rigorous correction.
+The **multiple testing problem** arises when thousands of statistical tests are performed simultaneously, inflating the probability of false positives. In high-dimensional omics (, genomics, proteomics), this is unavoidable and requires rigorous correction.
 
 ---
 
@@ -39,7 +39,7 @@ The **multiple testing problem** arises when thousands of statistical tests are 
 
 Without correction:
 - **10,000 tests at α = 0.05** → 500 "significant" findings expected by chance alone
-- [[KEYWORD-Research|research]]er thinks: "I found 500 significant associations!"
+- er thinks: "I found 500 significant associations!"
 - Reality: **All may be false positives**
 
 ---
@@ -140,7 +140,7 @@ Many "discoveries" in omics fail to replicate because:
 
 ✅ Plan independent validation from outset  
 ✅ Reserve samples for validation cohort  
-✅ External replication before [[KEYWORD-Clinical|clinical]] claims
+✅ External replication before  claims
 
 ### 4. Transparent Reporting
 

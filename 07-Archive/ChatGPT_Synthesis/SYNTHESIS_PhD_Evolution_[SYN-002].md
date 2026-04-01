@@ -80,42 +80,42 @@ status: conscious
 
 ### 1. title: "Hypothesis: To validate the robustness of the OPLS-DA model, a permutati...
 
-From: [[X_HYP_To_validate_the_robustness_of_the_OPLS_DA_model_a__[X-PHD-240714-01]]]
+From: ]
 
 
 ### 2. Can size effect be substituted by any other variable? ...
 
-From: [[X_Could_these_be_overseen_Can_size_effect_be_substit_[X-PHD-240714-00]]]
+From: ]
 
 
 ### 3. Extracted from conversation on 2024-08-11 about "PhD Research Preparation Guide"...
 
-From: [[X_The_phd_as_I_think_of_it_will_have_these_parrs_The_[X-MET-240811-00]]]
+From: ]
 
 
 ### 4. title: "Hypothesis: what if data were not normal to strart with and then we did ...
 
-From: [[X_HYP_what_if_data_were_not_normal_to_strart_with_and_th_[X-MET-231214-01]]]
+From: ]
 
 
 ### 5. Having reviewed the paper by You et al (2024) "Metabolic markers of tongue coati...
 
-From: [[X_how_does_that_seem_Having_reviewed_the_paper_by_Yo_[X-MET-240218-00]]]
+From: ]
 
 
 ### 6. Before deciding the personalized multi-micronutrient prescription, various facto...
 
-From: [[X_Before_deciding_the_personalized_multi_micronutrie_[X-MET-231022-00]]]
+From: ]
 
 
 ### 7. title: "Hypothesis: Models: Use appropriate models and methodologies like multiv...
 
-From: [[X_HYP_Models_Use_appropriate_models_and_methodologies_li_[X-MET-230910-00]]]
+From: ]
 
 
 ### 8. Multi-Omics Integration: Integrating metabolomic data with other omics data, suc...
 
-From: [[X_Multi_Omics_Integration_Integrating_metabolomic_da_[X-MET-230527-00]]]
+From: ]
 
 
 ---
@@ -143,21 +143,21 @@ From: [[X_Multi_Omics_Integration_Integrating_metabolomic_da_[X-MET-230527-00]]]
 
 ## Connected Zettels
 
-- [[X_HYP_To_validate_the_robustness_of_the_OPLS_DA_model_a__[X-PHD-240714-01]]] — "Hypothesis: To validate the robustness of the OPL
-- [[X_I_want_your_first_to_Study_and_understand_the_arti_[X-PHD-250306-00]]] — "I want your first to Study and understand the art
-- [[X_Is_there_a_study_that_concludes_that_the_NMT_is_20_[X-PHD-240629-00]]] — "Is there a study that concludes that the NMT is 2
-- [[X_Could_these_be_overseen_Can_size_effect_be_substit_[X-PHD-240714-00]]] — "Could these be overseen?
-- [[X_Ok_Will_think_about_it_later_on_134_[X-PHD-250815-00]]] — "Ok! Will think about it later on
-- [[X_HYP_so_they_used_a_pool_of_patients_to_create_a_model__[X-MET-240218-01]]] — "Hypothesis: so they used a pool of patients to cr
-- [[X_for_the_minimum_viable_program_we_think_of_designi_[X-MET-230905-00]]] — "for the minimum viable program we think of design
-- [[X_HYP_Goal_and_Evidence_of_Innovation_This_section_could_[X-MET-231118-00]]] — "Hypothesis: Goal and Evidence of Innovation: This
-- [[X_Title_Seed_Oils_Consumption_Current_Trends_and_Imp_[X-MET-240924-00]]] — "Title: Seed-Oils Consumption: Current Trends and 
-- [[X_HYP_is_there_a_way_to_incorporate_our_knowledge_for_th_[X-MET-230527-01]]] — "Hypothesis: is there a way to incorporate our kno
-- [[X_Conduct_a_comprehensive_literature_review_Examine__[X-MET-230504-00]]] — "Conduct a comprehensive literature review:
-- [[X_HYP_Lets_work_with_the_introduction_first_like_insulin_[X-MET-240609-01]]] — "Hypothesis: Let's work with the introduction firs
-- [[X_how_should_this_paragrah_look_after_the_changes_us_[X-MET-230827-00]]] — "how should this paragrah look after the changes?
-- [[X_HYP_do_you_find_this_complete_Metabolite_levels_in_bra_[X-MET-230827-01]]] — "Hypothesis: do you find this complete?
-- [[X_most_people_at_the_end_of_the_year_have_some_momen_[X-MET-231231-00]]] — "most people at the end of the year have some mome
+- ] — "Hypothesis: To validate the robustness of the OPL
+- ] — "I want your first to Study and understand the art
+- ] — "Is there a study that concludes that the NMT is 2
+- ] — "Could these be overseen?
+- ] — "Ok! Will think about it later on
+- ] — "Hypothesis: so they used a pool of patients to cr
+- ] — "for the minimum viable program we think of design
+- ] — "Hypothesis: Goal and Evidence of Innovation: This
+- ] — "Title: Seed-Oils Consumption: Current Trends and 
+- ] — "Hypothesis: is there a way to incorporate our kno
+- ] — "Conduct a comprehensive literature review:
+- ] — "Hypothesis: Let's work with the introduction firs
+- ] — "how should this paragrah look after the changes?
+- ] — "Hypothesis: do you find this complete?
+- ] — "most people at the end of the year have some mome
 
 ---
 

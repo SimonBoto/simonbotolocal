@@ -8,7 +8,7 @@ journal: Institute of Medicine Report / Critiques in peer review
 tier: 1
 relevance: High — 10x underestimation of vitamin D requirements affects global public health
 status: extracted
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -17,7 +17,7 @@ extraction-date: 2026-03-01
 ## Source
 - **Primary:** Institute of Medicine. (2010). Dietary Reference Intakes for Calcium and Vitamin D.
 - **Critique:** Veugelers, P.J., & Ekwaru, J.P. (2014). Statistical error. *Nutrients*.
-- **ChatGPT conversation:** [CGPT_0284_Vitamin_D_Toxicity_Misconception_[CGPT-0284]]]] (lines 7-9)
+- **ChatGPT conversation:** [CGPT_0284_Vitamin_D_Toxicity_Misconception_[CGPT-0284]] (lines 7-9)
 - **Scope:** Mathematical/statistical error in calculating RDA led to 10x underestimation
 
 ---
@@ -78,8 +78,8 @@ extraction-date: 2026-03-01
 - [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]] — Related safety fears
 - [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — Physiological capacity
 - [[Vitamin_D_Paradigm_Failure_Production_vs_Recommendations_[Z-001-0073].md]] — Synthesis of errors
-- [[MOC-Vitamin-D-Metabolism]] — Parent MOC
-- [[MOC-Clinical-Protocols]] — Trial design implications
+-  — Parent MOC
+-  — Trial design implications
 
 ---
 

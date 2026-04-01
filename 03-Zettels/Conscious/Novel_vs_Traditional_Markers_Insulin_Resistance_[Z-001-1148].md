@@ -6,7 +6,7 @@ aliases: [Z-001-1148, Novel-vs-Traditional]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, novel, traditional, markers, insulin-resistance, comparison]
-parent-moc: [[MOC-Metabolomics-Analysis]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]]
 source: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Novel vs Traditional Markers Insulin Resistance
 
 ## Overview
-METHAP compares novel [[KEYWORD-Metabolomics|metabolomics]]-based [[KEYWORD-Biomarker|biomarker]]s (urine organic acids, plasma fatty acids) to traditional clinical markers (glucose, insulin, HbA1c)—aiming to validate earlier, more sensitive detection of insulin resistance.
+METHAP compares novel -based s (urine organic acids, plasma fatty acids) to traditional clinical markers (glucose, insulin, HbA1c)—aiming to validate earlier, more sensitive detection of insulin resistance.
 
 ## Traditional Markers
 
@@ -39,7 +39,7 @@ METHAP compares novel [[KEYWORD-Metabolomics|metabolomics]]-based [[KEYWORD-Biom
 
 ### Timeline of Detection
 ```
-Healthy [[KEYWORD-Metabolism|metabolism]] → Subtle Changes → Prediabetes → Diabetes
+Healthy  → Subtle Changes → Prediabetes → Diabetes
      ↓                      ↓              ↓            ↓
   No markers          Novel markers    HbA1c, FBG   All abnormal
                     (OAT, TFA)       detectable
@@ -146,13 +146,13 @@ Shift in metabolomics profile (OAT + TFA) from IR pattern toward healthy pattern
 - [[Urine_Organic_Acids_OAT_Metabolic_Biomarker_[Z-001-1145].md]]
 - [[Plasma_Total_Fatty_Acids_TFA_Profile_[Z-001-1146].md]]
 - [[Clinical_Metabolic_Markers_HOMA_IR_HbA1c_[Z-001-1147].md]]
-- [[MOC-Metabolomics-Analysis]]
+- 
 
 ---
 *Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

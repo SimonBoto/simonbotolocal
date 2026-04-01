@@ -5,13 +5,13 @@ title: Glycolysis Steps and Regulation
 aliases: [Z-001-0467, glycolysis-steps, pfk-1, hexokinase]
 domain: 001
 tags: [zettel, glycolysis, regulation, pfk-1, hexokinase, atp]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045D]]
 ---
 
-# [[KEYWORD-Glycolysis|glycolysis]] Steps and Regulation
+#  Steps and Regulation
 
 ## Overview
 ```
@@ -50,14 +50,14 @@ Glucose + 2 NAD⁺ + 2 ADP + 2 Pi → 2 Pyruvate + 2 NADH + 2 ATP + 2 H⁺ + 2 H
 - **The committed step**
 - Allosteric regulation:
   - **Inhibited by:** ATP, citrate
-  - **Activated by:** AMP, F2,6BP, [[KEYWORD-Insulin|insulin]]
+  - **Activated by:** AMP, F2,6BP, 
 
 ### Pyruvate Kinase
 - Inhibited by: ATP, acetyl-CoA
 - Activated by: F1,6BP (feed-forward)
 
 ## Related
-- [[Pyruvate_Metabolic_Crossroads_[Z-001-0469]]] Pyruvate [[KEYWORD-Metabolism|metabolism]]
+- [[Pyruvate_Metabolic_Crossroads_[Z-001-0469]]] Pyruvate 
 - [[Evolutionary_Ancient_Glycolysis_[Z-001-0470]]] Evolutionary Ancient Glycolysis
 
 ---

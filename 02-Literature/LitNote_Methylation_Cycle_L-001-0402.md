@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: Critical — Epigenetic regulation, DNA methylation, METHAP gene expression effects
 status: extracted
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 

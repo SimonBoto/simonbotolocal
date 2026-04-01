@@ -5,13 +5,13 @@ title: Insulin Naming and the Islets of Langerhans
 aliases: [Insulin-Etymology, Islets-Langerhans, Insula]
 domain: 001
 tags: [zettel, insulin, history, etymology, islets, pancreas]
-parent-moc: [[MOC-Diabetes-History]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Insulin_History_L-001-0207]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Insulin|insulin]] Naming and the Islets of Langerhans
+#  Naming and the Islets of Langerhans
 
 > The name "insulin" derives from the Latin "insula" meaning island, referencing the Islets of Langerhans—the microscopic endocrine clusters within the pancreas that produce insulin.
 
@@ -48,7 +48,7 @@ extraction-date: 2026-03-01
 - **Percentage:** 65-80% of islet cells
 - **Product:** Insulin
 - **Function:** Lower blood glucose
-- **Deficiency:** Causes Type 1 [[KEYWORD-Diabetes|diabetes]]
+- **Deficiency:** Causes Type 1 
 - **Dysfunction:** Contributes to Type 2 diabetes
 
 **Alpha Cells (α-cells):**
@@ -78,7 +78,7 @@ extraction-date: 2026-03-01
 
 **Functional Separation:**
 - Exocrine: Digestion
-- Endocrine: [[KEYWORD-Metabolism|metabolism]] regulation
+- Endocrine:  regulation
 - Different blood supply
 - Different innervation
 
@@ -136,5 +136,5 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[KEYWORD-Insulin]]
-- [[MOC-INDEX|Master Index]]
+- 
+- 

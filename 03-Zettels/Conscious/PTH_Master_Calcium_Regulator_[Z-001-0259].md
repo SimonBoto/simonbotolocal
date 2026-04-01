@@ -5,7 +5,7 @@ title: PTH — Master Calcium Regulator
 aliases: [PTH, Parathyroid-Hormone, Parathormone]
 domain: 001
 tags: [zettel, pth, parathyroid, calcium, regulator, hormone]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]]
 extraction-date: 2026-03-01
@@ -44,7 +44,7 @@ extraction-date: 2026-03-01
 ## PTH Actions
 
 ### 1. Bone (Osteoclast Activation)
-**[[KEYWORD-Mechanism|mechanism]]:**
+**:**
 - PTH binds osteoblasts (not osteoclasts directly)
 - Osteoblasts release RANKL
 - RANKL activates osteoclasts
@@ -67,7 +67,7 @@ extraction-date: 2026-03-01
 **Collecting Duct:**
 - Further calcium reabsorption
 
-### 3. Kidney ([[KEYWORD-Vitamin_D|vitamin d]] Activation)
+### 3. Kidney ( Activation)
 **1α-Hydroxylase:**
 - PTH stimulates CYP27B1
 - Converts 25(OH)D → 1,25(OH)₂D
@@ -96,7 +96,7 @@ CaSR → ↑ PTH secretion
 CaSR → ↓ PTH secretion
 ```
 
-## [[KEYWORD-Clinical|clinical]] Relevance
+##  Relevance
 
 ### Primary Hyperparathyroidism
 - Excess PTH (usually adenoma)
@@ -125,5 +125,5 @@ CaSR → ↓ PTH secretion
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Vitamin_D_PTH_Calcium_Axis_[Z-001-1059]|Z-001-1059]]

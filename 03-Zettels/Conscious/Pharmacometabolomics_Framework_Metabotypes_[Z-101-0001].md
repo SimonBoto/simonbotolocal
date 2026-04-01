@@ -6,14 +6,14 @@ aliases: [Z-101-0001, Pharmacometabolomics, Metabotypes]
 domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, pharmacometabolomics, metabotypes, precision-medicine, drug-response]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 ---
 
-# Pharmaco[[KEYWORD-Metabolomics|metabolomics]] Framework and Metabotypes
+# Pharmaco Framework and Metabotypes
 
 Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to categorize patients as good or poor responders to therapy, enabling personalized treatment selection based on biochemical individuality rather than empirical trial-and-error.
 
@@ -24,7 +24,7 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 2. **Diagnosis/management** — Identify underlying metabolic disorders (IR, dysbiosis)
 3. **Metabolic pathway targeting** — Exploit metabolic reprogramming for new drug development
 
-**METHAP Application:** Pre-treatment adipic acid levels predict [[KEYWORD-Vitamin_D|vitamin d]] response; post-treatment levels measure efficacy — creating a pharmacometabolomics cycle.
+**METHAP Application:** Pre-treatment adipic acid levels predict  response; post-treatment levels measure efficacy — creating a pharmacometabolomics cycle.
 
 ## Key Details
 
@@ -37,13 +37,13 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 
 ## Links
 
-- **Upstream:** [[[[KEYWORD-Biomarker|biomarker]]_Classification_Framework_Z-001-0040.md]] — Biomarker classification framework
+- **Upstream:** _Classification_Framework_Z-001-0040.md]] — Biomarker classification framework
 - **Parallel:** [[Precision_Medicine_Response_Rate_Problem_Z-101-0007.md]] — Response rate problem drives need
 - **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045.md]] — METHAP panel applies this
 
 ## Context
 
-**Also relevant to:** [[MOC-Precision-Medicine]], [[MOC-METHAP-Trial]]
+**Also relevant to:** , 
 
 **Emerges from:** NKUA Course 3175, DE4
 
@@ -52,7 +52,7 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 *UID: Z-101-0001 | Domain: 101 | Created: 2026-02-24*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

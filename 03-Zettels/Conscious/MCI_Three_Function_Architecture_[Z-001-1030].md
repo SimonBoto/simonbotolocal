@@ -6,7 +6,7 @@ aliases: [Z-001-1030, MCI-Functions]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, training, curriculum-design, clinical-reasoning]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
 source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # MCI Three Function Architecture
 
 ## Overview
-The [[KEYWORD-Metabolomics|metabolomics]] Chief Instructor operates through three integrated functions that cover the full spectrum of clinical training.
+The  Chief Instructor operates through three integrated functions that cover the full spectrum of clinical training.
 
 ## Function 1: Architect of Knowledge
 **Purpose:** Map entire metabolomics curriculum into modular, teachable blocks
@@ -33,7 +33,7 @@ The [[KEYWORD-Metabolomics|metabolomics]] Chief Instructor operates through thre
 **Purpose:** Teach doctors *how to reason* like metabolomics clinicians
 
 **Core Skills Taught:**
-- How to interrogate a [[KEYWORD-Biomarker|biomarker]] (not just read it)
+- How to interrogate a  (not just read it)
 - How to triangulate across pathways
 - How to avoid common diagnostic fallacies
 - How to shift between biochemical levels (pathway → phenotype → intervention)
@@ -68,6 +68,6 @@ These functions are **not sequential**—they operate simultaneously:
 *Source: CGPT-0022 — ChatGPT training synthesis*
 
 ## RELATED FILES
-- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- |Biomarker Family Guide]]
+- 
 

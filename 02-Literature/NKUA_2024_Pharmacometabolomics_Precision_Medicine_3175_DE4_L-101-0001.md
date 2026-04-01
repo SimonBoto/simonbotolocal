@@ -11,7 +11,7 @@ pmcid: ""
 tier: 1
 relevance: "CRITICAL — Pharmacometabolomics framework, metformin/mTOR mechanisms, immunometabolism, metabolic reprogramming in autoimmunity"
 status: complete
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 
@@ -19,7 +19,7 @@ extraction-date: 2026-02-23
 
 ## Source
 - **Full citation:** ΕΘΝΙΚΟ ΚΑΙ ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ. Πρόγραμμα Συμπληρωματικής Εκπαίδευσης 3175 — ΕΦΑΡΜΟΓΗ ΤΗΣ ΜΕΤΑΒΟΛΟΜΙΚΗΣ ΣΤΑ ΑΥΤΟΑΝΟΣΑ ΚΑΙ ΧΡΟΝΙΑ ΝΟΣΗΜΑΤΑ. Διδακτική Ενότητα 4: Εξατομίκευση της Θεραπείας – Φαρμακομεταβολομική.
-- **PDF Asset:** [[01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 4. ΕΞΑΤΟΜΙΚΕΥΣΗ ΤΗΣ ΘΕΡΑΠΕΙΑΣ – ΦΑΡΜΑΚΟΜΕΤΑΒΟΛΟΜΙΚΗ.pdf]]
+- **PDF Asset:** 
 - **Course:** 3175 - Εφαρμογή της Μεταβολομικής στα Αυτοάνοσα και Χρόνια Νοσήματα
 - **Language:** Greek
 

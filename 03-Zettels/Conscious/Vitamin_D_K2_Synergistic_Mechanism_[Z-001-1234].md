@@ -4,17 +4,17 @@ type: zettel
 title: Vitamin D and K2 — Synergistic Mechanism
 domain: 001
 tags: [zettel, vitamin-d, vitamin-k2, synergy, vkdp, calcium, metabolism]
-parent-moc: [[MOC-Vitamin-D]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_VitD_K2_Synergy_MetS_L-001-0639]]"
 status: conscious
 ---
 
-# [[KEYWORD-Vitamin_D|vitamin d]] and K2 — Synergistic Mechanism
+#  and K2 — Synergistic Mechanism
 
 ## Overview
 
-Vitamin D and K2 function as an integrated system for calcium [[KEYWORD-Metabolism|metabolism]] and metabolic health. Vitamin D increases production of vitamin K-dependent proteins (VKDPs), while K2 activates them through carboxylation. Neither works optimally alone.
+Vitamin D and K2 function as an integrated system for calcium  and metabolic health. Vitamin D increases production of vitamin K-dependent proteins (VKDPs), while K2 activates them through carboxylation. Neither works optimally alone.
 
 ---
 
@@ -101,7 +101,7 @@ Optimal calcium distribution + metabolic signaling
 ### Shared Targets
 | Pathway | Vitamin D | Vitamin K2 | Combined Effect |
 |---------|-----------|------------|-----------------|
-| **[[KEYWORD-Insulin|insulin]] signaling** | β-cell protection | ↑Adiponectin | Enhanced sensitivity |
+| ** signaling** | β-cell protection | ↑Adiponectin | Enhanced sensitivity |
 | **Inflammation** | ↓IL-6, ↓TNF-α | ↓NF-κB | Greater anti-inflammatory |
 | **Vascular health** | Endothelial function | ↓Calcification | Comprehensive protection |
 | **Bone health** | Calcium absorption | Bone matrix | Optimal mineralization |

@@ -13,7 +13,7 @@ status: ref
 confidence: high
 aliases: [R-001-0003, Nicholson_2006_Global_Systems_Biology]
 tags: [ref, systems-biology, personalized-medicine, metabolomics, epidemiology]
-parent-moc: [[MOC-References]]
+parent-moc: 
 source-type: review
 extraction-date: 2026-02-23
 ---

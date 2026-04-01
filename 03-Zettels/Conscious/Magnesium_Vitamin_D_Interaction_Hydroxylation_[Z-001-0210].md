@@ -5,15 +5,15 @@ title: Magnesium-Vitamin D Interaction — Hydroxylation Enzymes and Activation
 aliases: [Mg-VitD-Interaction, Magnesium-Hydroxylation, VitD-Activation]
 domain: 001
 tags: [zettel, magnesium, vitamin-d, interaction, hydroxylation, cofactor]
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Magnesium|magnesium]]-[[KEYWORD-Vitamin_D|vitamin d]] Interaction — Hydroxylation Enzymes and Activation
+# - Interaction — Hydroxylation Enzymes and Activation
 
-> Magnesium is an essential cofactor for the cytochrome P450 hydroxylases that activate vitamin D, making adequate magnesium status critical for optimal vitamin D [[KEYWORD-Metabolism|metabolism]] and function.
+> Magnesium is an essential cofactor for the cytochrome P450 hydroxylases that activate vitamin D, making adequate magnesium status critical for optimal vitamin D  and function.
 
 ## Vitamin D Activation Pathway
 
@@ -114,4 +114,4 @@ Result: Low circulating vitamin D despite adequate intake/sun
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

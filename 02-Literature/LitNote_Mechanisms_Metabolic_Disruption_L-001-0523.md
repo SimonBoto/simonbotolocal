@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: Critical — Core pathophysiology linking seed oils to metabolic disease
 status: extracted
-parent-moc: [[MOC-Insulin-Resistance]]
+parent-moc: 
 extraction-date: 2026-03-06
 domain: 001
 ---

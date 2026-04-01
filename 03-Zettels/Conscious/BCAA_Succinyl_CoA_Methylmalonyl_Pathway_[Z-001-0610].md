@@ -5,7 +5,7 @@ title: "BCAA to Succinyl-CoA: The Methylmalonyl Pathway"
 aliases: [Z-001-0610]
 domain: 001
 tags: [zettel, bcaa, succinyl-coa, methylmalonyl-coa, vitamin-b12, propionate, amino-acid-metabolism, conscious]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]]
 extraction-date: 2026-03-05
@@ -46,7 +46,7 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 ```
 - **Enzyme:** **Methylmalonyl-CoA mutase (MMCoAM)**
 - **Cofactor:** **Vitamin B12 (adenosylcobalamin)**
-- **Location:** [[KEYWORD-Mitochondria|mitochondria]]l matrix
+- **Location:** l matrix
 
 ## Why This Pathway is Critical
 
@@ -55,7 +55,7 @@ The final step **requires B12** — this is the only human enzyme reaction that 
 
 **B12 deficiency consequences:**
 - Methylmalonic acid (MMA) accumulation
-- Impaired BCAA [[KEYWORD-Metabolism|metabolism]]
+- Impaired BCAA 
 - Neurological symptoms (irreversible if prolonged)
 
 ### Clinical Disorders
@@ -75,7 +75,7 @@ While not directly in this pathway, **MSUD** affects the **earlier step** of BCA
 ## Research Relevance
 
 ### BCAA Metabolism in Disease
-- **[[KEYWORD-Insulin|insulin]] resistance:** Elevated plasma BCAAs predict T2DM
+- ** resistance:** Elevated plasma BCAAs predict T2DM
 - **Obesity:** Altered BCAA catabolism in adipose tissue
 - **Cardiovascular:** BCAA metabolites associated with CVD risk
 

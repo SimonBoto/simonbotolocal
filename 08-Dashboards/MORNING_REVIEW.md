@@ -105,9 +105,9 @@ Quality check: Spot-check only
 ## 🔗 QUICK LINKS
 
 **Review in Obsidian:**
-- [[02-Atomic]] — New atomics (sorted by recent)
-- [[02-Literature]] — Upgraded refs
-- [[Git Log]] — `git log --since="00:00" --oneline`
+-  — New atomics (sorted by recent)
+-  — Upgraded refs
+-  — `git log --since="00:00" --oneline`
 
 **Review in Terminal:**
 ```bash

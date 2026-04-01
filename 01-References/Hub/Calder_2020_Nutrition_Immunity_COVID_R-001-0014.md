@@ -16,7 +16,7 @@ status: pending
 aliases: [R-001-0014, Calder_2020, Nutrition_Immunity_COVID]
 domain: 001
 tags: [reference, nutrition, immunity, covid-19, micronutrients, tier-2]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 

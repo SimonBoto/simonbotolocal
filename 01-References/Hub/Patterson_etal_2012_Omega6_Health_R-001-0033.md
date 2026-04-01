@@ -15,7 +15,7 @@ status: pending
 aliases: [R-001-0033, Patterson_2012, Omega6_Health]
 domain: 001
 tags: [reference, omega-6, omega-3, inflammation, diet, ratio]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 

@@ -6,7 +6,7 @@ aliases: [Z-001-1071, Objection-Scripts]
 domain: 001
 domain-name: Clinical Communication
 tags: [zettel, objections, scripts, communication]
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: 
 source-litnote: [[LitNote_Patient_Communication_Scripts_L-001-0595]]
 source: [[LitNote_Patient_Communication_Scripts_L-001-0595]]
 confidence: high
@@ -32,11 +32,11 @@ Pre-scripted responses to common patient objections—validated, reframed, actio
 
 ### "My doctor says this is nonsense"
 **Response:**
-> "Your doctor cares about you—that's why they speak up. [[KEYWORD-Metabolomics|metabolomics]] is newer, but it's based on [[KEYWORD-Biochemistry|biochemistry]] textbooks. The markers we measure are real molecules with known functions. Would you like to see the research?"
+> "Your doctor cares about you—that's why they speak up.  is newer, but it's based on  textbooks. The markers we measure are real molecules with known functions. Would you like to see the research?"
 
 ### "This isn't FDA approved"
 **Response:**
-> "The FDA approves drugs and devices. What we do is clinical [[KEYWORD-Nutrition|nutrition]]—using vitamins, minerals, and diet changes. These are substances your body already uses; we're just optimizing levels based on your specific test results."
+> "The FDA approves drugs and devices. What we do is clinical —using vitamins, minerals, and diet changes. These are substances your body already uses; we're just optimizing levels based on your specific test results."
 
 ## Complexity Objections
 
@@ -72,7 +72,7 @@ Pre-scripted responses to common patient objections—validated, reframed, actio
 
 ## Related
 - [[Difficult_Conversation_Navigation_[Z-001-1072].md]]
-- [[MOC-Clinical-Protocols]]
+- 
 
 ---
 *Source: CGPT-0022 — Patient communication*

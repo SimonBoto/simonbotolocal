@@ -5,13 +5,13 @@ title: Glomerular Hyperfiltration — Protein-Induced Mechanism
 aliases: [Z-001-0975]
 domain: 001
 tags: [zettel, hyperfiltration, gfr, protein, ckd, mechanism, renal-hemodynamics, conscious]
-parent-moc: [[MOC-Renal-Physiology]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Protein_CKD_Progression_Evidence_L-001-0573]]
 status: conscious
 ---
 
-# Glomerular Hyperfiltration — Protein-Induced [[KEYWORD-Mechanism|mechanism]]
+# Glomerular Hyperfiltration — Protein-Induced 
 
 ## Core Concept
 
@@ -30,7 +30,7 @@ Absorption → Plasma amino acid levels rise
 Several pathways activated:
     1. Direct renal vasodilation
     2. Increased glucagon → vasodilation
-    3. [[KEYWORD-Insulin|insulin]]-mediated effects
+    3. -mediated effects
     4. Tubuloglomerular feedback modulation
     ↓
 Afferent arteriole dilation + Efferent constriction
@@ -199,7 +199,7 @@ GFR increases 20-30% above baseline
 
 **Clinical Application:**
 - Hyperfiltration hypothesis supports protein restriction in CKD
-- But not the only mechanism ([[KEYWORD-Inflammation|inflammation]], oxidation also matter)
+- But not the only mechanism (, oxidation also matter)
 - Balance against nutritional needs
 
 ---

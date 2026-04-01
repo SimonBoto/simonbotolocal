@@ -6,7 +6,7 @@ aliases: [Z-001-1135, TP53-MM]
 domain: 001
 domain-name: Hematology Oncology
 tags: [zettel, tp53, multiple-myeloma, del17p, prognosis]
-parent-moc: [[MOC-Hematology-Oncology]]
+parent-moc: 
 source-litnote: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]]
 source: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]]
 confidence: high
@@ -24,9 +24,9 @@ TP53 abnormalities, particularly deletion of chromosome 17p (del(17p)) containin
 | Feature | Description |
 |---------|-------------|
 | **Frequency** | 5-10% newly diagnosed; 20-50% relapsed |
-| **[[KEYWORD-Mechanism|mechanism]]** | Loss of one TP53 allele |
+| **** | Loss of one TP53 allele |
 | **Detection** | FISH (fluorescence in situ hybridization) |
-| **Threshold** | ≥10% cells with del(17p) [[KEYWORD-Clinical|clinical]]ly significant |
+| **Threshold** | ≥10% cells with del(17p) ly significant |
 
 ### TP53 Mutations
 | Feature | Description |
@@ -101,9 +101,9 @@ TP53 abnormalities, particularly deletion of chromosome 17p (del(17p)) containin
 | **Clinical trial** | Eligibility |
 
 ## Related
-- [[p53_Function_Loss_[[KEYWORD-Cancer|cancer]]_Consequences_[Z-001-1136].md]]
+- _Consequences_[Z-001-1136].md]]
 - [[Targeting_p53_Dysfunction_MDM2_Inhibitors_[Z-001-1137].md]]
-- [[MOC-Hematology-Oncology]]
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*

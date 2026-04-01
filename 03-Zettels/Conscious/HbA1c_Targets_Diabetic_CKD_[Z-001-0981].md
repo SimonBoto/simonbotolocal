@@ -5,7 +5,7 @@ title: HbA1c Targets in Diabetic CKD — Glycemic Control Goals by Stage
 aliases: [Z-001-0981]
 domain: 001
 tags: [zettel, hba1c, diabetes, ckd, glycemic-control, targets, ada, kdigo, conscious]
-parent-moc: [[MOC-Diabetic-Nephropathy]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_CKD_Nutritional_Assessment_L-001-0575]]
 status: conscious
@@ -37,7 +37,7 @@ Glycemic control in diabetic chronic kidney disease (CKD) requires balancing ben
 **Advanced CKD (Stages 4-5):**
 - Consider relaxing to <8.0%
 - High hypoglycemia risk
-- Reduced [[KEYWORD-Insulin|insulin]] clearance
+- Reduced  clearance
 - Erythropoietin therapy affects A1c
 
 **Dialysis:**
@@ -49,7 +49,7 @@ Glycemic control in diabetic chronic kidney disease (CKD) requires balancing ben
 
 ### Increased Hypoglycemia Risk
 
-**[[KEYWORD-Mechanism|mechanism]]s:**
+**s:**
 
 **1. Reduced Insulin Clearance:**
 - Kidney clears ~30-50% of insulin
@@ -61,7 +61,7 @@ Glycemic control in diabetic chronic kidney disease (CKD) requires balancing ben
 - Advanced CKD → impaired counter-regulation
 - Hypoglycemia unawareness
 
-**3. Altered Drug [[KEYWORD-Metabolism|metabolism]]:**
+**3. Altered Drug :**
 - Many diabetes drugs renally cleared
 - Accumulation risk
 - Dose adjustments needed
@@ -299,4 +299,4 @@ Glycemic control in diabetic chronic kidney disease (CKD) requires balancing ben
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

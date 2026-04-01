@@ -5,7 +5,7 @@ title: Omega-6 Cellular Toxicity Mechanisms — Comparison to Known Toxins
 aliases: [Z-001-0967]
 domain: 001
 tags: [zettel, omega-6, cellular-toxicity, comparison, heavy-metals, pops, mechanism, apoptosis, oxidative-stress, conscious]
-parent-moc: [[MOC-Toxicology]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Seed_Oils_Environmental_Toxins_L-001-0526]]
 status: conscious
@@ -35,7 +35,7 @@ Excess omega-6 fatty acids exert cellular toxicity through mechanisms shared wit
 
 **Persistent Organic Pollutants (PCBs, Dioxins):**
 - Induce CYP450 enzymes
-- Generate ROS during [[KEYWORD-Metabolism|metabolism]]
+- Generate ROS during 
 - Cause oxidative DNA damage
 - Deplete antioxidants
 
@@ -234,7 +234,7 @@ Excess omega-6 fatty acids exert cellular toxicity through mechanisms shared wit
 **Omega-6:**
 - **Intake:** grams per day
 - **Body burden:** kilograms in adipose
-- **[[KEYWORD-Biomarker|biomarker]]:** RBC or adipose fatty acid composition
+- **:** RBC or adipose fatty acid composition
 
 **Lead:**
 - **Intake:** micrograms per day
@@ -292,7 +292,7 @@ Omega-6 excess shares mechanistic features with classical environmental toxins:
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

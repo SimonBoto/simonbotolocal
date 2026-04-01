@@ -6,7 +6,7 @@ aliases: [Z-001-1056, FA-Ratios]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, fatty-acids, ratios, inflammation]
-parent-moc: [[MOC-Omega3-Fats]]
+parent-moc: 
 source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
 source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Fatty Acid Ratios Clinical Interpretation
 
 ## Overview
-Fatty acid ratios provide integrated [[KEYWORD-Biomarker|biomarker]]s of dietary intake, inflammatory status, and metabolic health.
+Fatty acid ratios provide integrated s of dietary intake, inflammatory status, and metabolic health.
 
 ## The AA/EPA Ratio (Inflammation Index)
 
@@ -69,13 +69,13 @@ Fatty acid ratios provide integrated [[KEYWORD-Biomarker|biomarker]]s of dietary
 
 ## Related
 - [[Fatty_Acid_Subclasses_Desaturase_Pathways_[Z-001-1055].md]]
-- [[MOC-Omega3-Fats]]
+- 
 - [[Phase_3_Lipidomics_Interpretation_[Z-001-1038].md]]
 
 ---
-*Source: CGPT-0022 — Fatty acid [[KEYWORD-Metabolism|metabolism]]*
+*Source: CGPT-0022 — Fatty acid *
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

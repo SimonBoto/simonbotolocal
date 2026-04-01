@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — One-carbon metabolism, methylation, folate, B12, nucleotide synthesis in cancer
 status: extracted
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -66,8 +66,8 @@ extraction-date: 2026-03-08
 3. [[Folate_Cancer_Paradox_Prevention_Progression_[Z-001-1130].md]]
 
 ## Related References
-- [[MOC-Cancer-Metabolism]]
-- [[MOC-Methylation-One-Carbon]]
+- 
+- 
 - [[One_Carbon_Metabolism_Folate_B12_[Z-001-1062].md]]
 
 ---

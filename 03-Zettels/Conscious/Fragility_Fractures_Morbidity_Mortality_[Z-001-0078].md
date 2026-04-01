@@ -6,7 +6,7 @@ aliases: [Z-001-0078, Fragility_Fractures_Morbidity_Mortality]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, vitamin-d, clinical]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 source: [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]]
 confidence: high
 created: 2026-03-01
@@ -19,7 +19,7 @@ Fragility fractures—especially of the hip and vertebra—are associated with s
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
+**Parent MOC:** 
 **Source:** [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]]
 **Related:** [[Osteoporosis_T_score_Definition_Minus_2.5_[Z-001-0077].md]], [[FRAX_Fracture_Risk_Assessment_Tool_[Z-001-0079].md]]
 
@@ -29,4 +29,4 @@ Fragility fractures—especially of the hip and vertebra—are associated with s
 
 
 ## Related
-- [[Metabolic_Syndrome_[[KEYWORD-Clinical|clinical]]_Manifestations_Presentation_[Z-001-0203]|Z-001-0203]]
+- _Manifestations_Presentation_[Z-001-0203]|Z-001-0203]]

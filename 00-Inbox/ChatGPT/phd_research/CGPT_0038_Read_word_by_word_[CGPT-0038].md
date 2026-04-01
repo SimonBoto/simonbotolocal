@@ -352,4 +352,4 @@ Some 2018–2024 reviews (including in nephrology and diabetology) take a balanc
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

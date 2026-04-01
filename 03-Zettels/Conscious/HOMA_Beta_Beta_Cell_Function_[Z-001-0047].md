@@ -5,7 +5,7 @@ title: HOMA-Beta Beta Cell Function Assessment
 aliases: [Z-001-0047, HOMA-β, Beta Cell Function, Insulin Secretion Index]
 domain: 001
 tags: [zettel, biomarker, ir-core, calculation-formula, phd-methap]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 biomarker-type: beta-cell-function-index
 formula: (360 × Fasting Insulin) / (Fasting Glucose - 63)
 target-range: 100-200
@@ -60,7 +60,7 @@ $$
 
 **Mechanisms:**
 - [[MAPK_Mitogenic_Pathway_[Z-001-0016]]] — Mitochondrial dysfunction (β-cell energy failure)
-- [[Phenotype_Mapping_[[KEYWORD-Metabolomics|metabolomics]]_Z-001-0018.md]] — Lipotoxicity (chronic IR damages β-cells)
+- _Z-001-0018.md]] — Lipotoxicity (chronic IR damages β-cells)
 - [[Predictive_Metabolites_T1D_Example_Z-001-0019.md]] — Inflammatory signaling (cytokine-mediated β-cell apoptosis)
 
 **Clinical Context:**
@@ -144,10 +144,10 @@ patient_id,visit,homa_beta,beta_cell_status,ir_status_combined
 
 ---
 
-*Source: [[Ref_Matthews_HOMA_1985]], [[Ref_Wallace_HOMA_2004]]*
+*Source: , *
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- |Biomarkers MOC]]
 

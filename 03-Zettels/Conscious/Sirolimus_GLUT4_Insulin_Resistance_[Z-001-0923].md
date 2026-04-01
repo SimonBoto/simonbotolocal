@@ -5,14 +5,14 @@ title: Sirolimus Impairs GLUT4 Translocation Causing Peripheral Insulin Resistan
 aliases: [Z-001-0923, Z-001-0516-deprecated, Sirolimus GLUT4, Insulin Resistance mTORC1]
 domain: 001
 tags: [zettel, sirolimus, rapamycin, glut4, insulin-resistance, glucose-uptake, muscle, adipose]
-parent-moc: [[MOC-Insulin-Resistance]]
+parent-moc: 
 status: conscious
 source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
 ---
 
-# Sirolimus Impairs GLUT4 Translocation Causing Peripheral [[KEYWORD-Insulin|insulin]] Resistance
+# Sirolimus Impairs GLUT4 Translocation Causing Peripheral  Resistance
 
 **Core Mechanism:** mTORC1 is downstream of Akt in insulin signaling and facilitates GLUT4 vesicle translocation. Sirolimus disrupts this pathway, reducing glucose uptake.
 
@@ -35,7 +35,7 @@ Insulin → Insulin Receptor (autophosphorylation)
     AS160 phosphorylation      mTORC1 activation
     (Rab-GAP inhibition)            ↓
         ↓                    Protein synthesis,
-    GLUT4 vesicle          [[KEYWORD-Metabolism|metabolism]] regulation
+    GLUT4 vesicle           regulation
     translocation
         ↓
     GLUT4 on membrane
@@ -114,7 +114,7 @@ Insulin → Insulin Receptor (autophosphorylation)
 ## Distinction from Type 2 Diabetes
 
 **Typical T2DM:**
-- Multiple mechanisms (IR, β-cell failure, [[KEYWORD-Inflammation|inflammation]])
+- Multiple mechanisms (IR, β-cell failure, )
 - Gradual onset
 - Often associated with obesity
 
@@ -130,4 +130,4 @@ Insulin → Insulin Receptor (autophosphorylation)
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

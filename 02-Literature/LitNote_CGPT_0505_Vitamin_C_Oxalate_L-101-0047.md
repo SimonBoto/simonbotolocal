@@ -9,7 +9,7 @@ pmid: N/A
 tier: 2
 relevance: High — Ascorbate metabolism, oxalate measurement confounders, PhD analytical considerations
 status: extracted
-parent-moc: [[MOC-Adipic-Acid]]
+parent-moc: 
 extraction-date: 2026-03-28
 ---
 

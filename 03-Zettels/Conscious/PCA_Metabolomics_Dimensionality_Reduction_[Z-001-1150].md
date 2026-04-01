@@ -6,14 +6,14 @@ aliases: [Z-001-1150, PCA-Metabolomics]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, pca, metabolomics, dimensionality-reduction]
-parent-moc: [[MOC-Metabolomics-Analysis]]
+parent-moc: 
 source-litnote: [[LitNote_Statistical_Analysis_Omics_L-001-0617]]
 source: [[LitNote_Statistical_Analysis_Omics_L-001-0617]]
 confidence: high
 created: 2026-03-08
 ---
 
-# PCA [[KEYWORD-Metabolomics|metabolomics]] Dimensionality Reduction
+# PCA  Dimensionality Reduction
 
 ## Overview
 Principal Component Analysis (PCA) reduces the complexity of high-dimensional metabolomics data by transforming correlated variables into uncorrelated principal components—enabling visualization and pattern recognition.
@@ -113,12 +113,12 @@ Principal components = linear combinations of original variables
 ## Related
 - [[Multivariate_Analysis_PLS_OPLS_Regression_[Z-001-1151].md]]
 - [[Validation_Cross_Validation_Model_Robustness_[Z-001-1152].md]]
-- [[MOC-Metabolomics-Analysis]]
+- 
 
 ---
-*Source: CGPT-0475 — Metabolic [[KEYWORD-Biomarker|biomarker]]s for insulin resistance*
+*Source: CGPT-0475 — Metabolic s for insulin resistance*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

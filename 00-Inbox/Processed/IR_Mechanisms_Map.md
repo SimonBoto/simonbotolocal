@@ -34,14 +34,14 @@ EXCESS NUTRIENT INTAKE
 [CHRONIC POSITIVE ENERGY BALANCE]
     ↓
     ├─→ Glucose overflow → glucotoxicity
-    ├─→ Lipid overflow → lipotoxicity [[CONCEPT_PLASMA_FREE_FATTY_ACIDS_LIPOTOXICITY_20260219_000048]]
+    ├─→ Lipid overflow → lipotoxicity 
     └─→ Mitochondrial overload → oxidative stress
 ```
 
 **Key Players:**
-- **Fructose** [[ATOMIC_FRUCTOSE_TOXIN_METS_20260216_067_000021]] — Hepatic overload, de novo lipogenesis
-- **Excess Omega-6** [[EXCESSOMEGA6_INFLAM_20260215_046_000062]] — Pro-inflammatory precursors
-- **Ultra-Processed Foods** [[ULTRA_PROCESSED_FOODS_HEALTH_RISKS_20260215_013_000192]] — Multiple hits
+- **Fructose**  — Hepatic overload, de novo lipogenesis
+- **Excess Omega-6**  — Pro-inflammatory precursors
+- **Ultra-Processed Foods**  — Multiple hits
 
 ### Inflammatory Triggers
 ```
@@ -54,22 +54,22 @@ CHRONIC INFLAMMATION (Low-grade, systemic)
 
 **Sources:**
 - Obesity (adipokine dysregulation)
-- Gut dysbiosis [[DYSBIOSIS_AUTOIMMUNE_75PCT_GUT_20260216_001_000057]] — LPS translocation
+- Gut dysbiosis  — LPS translocation
 - Chronic infection
-- Autoimmunity [[AUTOIMMUNITY_20260215_093_000038]]
+- Autoimmunity 
 
 ### Stress Triggers
 ```
 CHRONIC STRESS (Psychological or physiological)
     ↓
-[HPA AXIS ACTIVATION] [[HPA_AXIS_STRESS_BIOMARKER_20260215_009_000090]]
+[HPA AXIS ACTIVATION] 
     ↓
     ├─→ Elevated cortisol
     ├─→ Gluconeogenesis
     └─→ Visceral fat redistribution
 ```
 
-**Selye's GAS:** [[SELYE_GAS_AUTOIMMUNE_20260215_051_000174]]
+**Selye's GAS:** 
 - Alarm → Resistance → Exhaustion (chronic IR = exhaustion phase)
 
 ### Endocrine Triggers
@@ -78,8 +78,8 @@ HORMONAL SHIFTS
     ↓
     ├─→ Pregnancy (placental hormones)
     ├─→ Menopause (estrogen decline)
-    ├─→ Hypothyroidism [[IR_THYROID_HASHIMOTO_20260215_065_000097]]
-    └─→ PCOS [[PCOS_DIAGNOSTIC_CRITERIA_20260215_017_000151]]
+    ├─→ Hypothyroidism 
+    └─→ PCOS 
 ```
 
 ---
@@ -101,7 +101,7 @@ CHRONIC NUTRIENT OVERFLOW
     ↓
 [ECTOPIC LIPID DEPOSITION]
     ↓
-    ├─→ Liver → NAFLD [[NAFLD_20260215_083_000139]]
+    ├─→ Liver → NAFLD 
     ├─→ Muscle → glucose uptake impairment
     ├─→ Pancreas → beta-cell lipotoxicity
     └─→ Heart → diabetic cardiomyopathy
@@ -112,7 +112,7 @@ CHRONIC NUTRIENT OVERFLOW
     └─→ DAG → PKC activation → IRS-1 serine phosphorylation
 ```
 
-**Biomarker:** [[ADIPIC_ACID_IR_CUTOFFS_20260215_027_000004]] — Beta-oxidation impairment indicator
+**Biomarker:**  — Beta-oxidation impairment indicator
 
 ---
 
@@ -121,7 +121,7 @@ CHRONIC NUTRIENT OVERFLOW
 ```
 MITOCHONDRIAL OVERLOAD
     ↓
-[OXIDATIVE STRESS] [[TELOMERE_SHORTENING_IR_OXIDSTRESS_20260216_004_000182]]
+[OXIDATIVE STRESS] 
     ↓
     ├─→ ROS production > antioxidant capacity
     ├─→ Mitochondrial DNA damage
@@ -147,7 +147,7 @@ MITOCHONDRIAL OVERLOAD
 ### Pathway C: Inflammatory Signaling
 
 ```
-CHRONIC INFLAMMATION [[CHRONIC_INFLAMMATION_END_METS_20260215_025_000042]]
+CHRONIC INFLAMMATION 
     ↓
 [INNATE IMMUNE ACTIVATION]
     ↓
@@ -180,12 +180,12 @@ CHRONIC INFLAMMATION [[CHRONIC_INFLAMMATION_END_METS_20260215_025_000042]]
 ### Pathway D: Gut-Derived Mechanisms
 
 ```
-GUT DYSBIOSIS [[GUTDYSBIOSIS_MYELINATION_20260216223402_000079]]
+GUT DYSBIOSIS 
     ↓
     ├─→ ↓ Beneficial species (Akkermansia, Faecalibacterium)
     └─→ ↑ Pathobionts (Proteobacteria)
     ↓
-[BARRIER DYSFUNCTION] [[TIGHT_JUNCTIONS_GUT_BARRIER_FAIL_20260216_002_000189]]
+[BARRIER DYSFUNCTION] 
     ↓
     ├─→ Tight junction disruption (zonulin)
     ├─→ LPS translocation → metabolic endotoxemia
@@ -198,7 +198,7 @@ GUT DYSBIOSIS [[GUTDYSBIOSIS_MYELINATION_20260216223402_000079]]
     └─→ Glucose intolerance
 ```
 
-**Butyrate Connection:** [[BUTYRATE_GUT_MUCOSAL_BARRIER_20260215_103_000080]]
+**Butyrate Connection:** 
 - Fuel for colonocytes
 - Tight junction protein synthesis
 - HDAC inhibition (anti-inflammatory)
@@ -389,20 +389,20 @@ HPA AXIS DYSREGULATION
 
 ## 🔗 Related Navigation
 
-- [[MOC-PhD-Insulin-Resistance]] — Main research hub
-- [[Biomarkers_Taxonomy]] — Biomarker classification
-- [[MOC-Diabetes-T2D]] — T2D MOC
-- [[MOC-Metabolic-Syndrome]] — MetS hub
-- [[55-MOCs/]] — All topic MOCs
+-  — Main research hub
+-  — Biomarker classification
+-  — T2D MOC
+-  — MetS hub
+-  — All topic MOCs
 
 ---
 
 ## 📚 Key References
 
-- Reaven 1988: Banting Lecture [[REAVEN_1988_IR_BANTING_LECTURE_20260215_107_000172]]
-- Cellular mechanisms: [[Refs_Springer_IR_ChronicDisease_20260216_052]]
-- Inflammation-IR link: [[Refs_Gallagher_IR_RA_20260216_036]]
-- Our protocol: [[01-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219]]
+- Reaven 1988: Banting Lecture 
+- Cellular mechanisms: 
+- Inflammation-IR link: 
+- Our protocol: 
 
 ---
 

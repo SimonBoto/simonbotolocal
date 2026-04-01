@@ -6,13 +6,13 @@ aliases: [Z-001-0041, Adipic-Acid-Biomarker]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, adipic-acid, biomarker, early-detection, beta-oxidation, organic-acids]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]]
 confidence: high
 created: 2026-02-24
 ---
 
-# Adipic Acid as Early IR [[KEYWORD-Biomarker|biomarker]]
+# Adipic Acid as Early IR 
 
 Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impaired beta-oxidation of fatty acids. Elevated levels signal mitochondrial dysfunction and lipotoxicity before glucose abnormalities appear.
 
@@ -45,15 +45,15 @@ Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impai
 
 ## Context
 
-**Also relevant to:** [[MOC-Organic-Acids]], [[MOC-Early-Detection]]
+**Also relevant to:** , 
 
-**Emerges from:** [[KEYWORD-Biomarker|biomarkers]] Taxonomy synthesis document
+**Emerges from:**  Taxonomy synthesis document
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family Guide]]
 - [[Biomarkers/Individual/Glucose_Blood_Sugar_Energy_[Z-005-0001]|Glucose — Blood Sugar]]
-- [[Biomarkers/Individual/[[KEYWORD-Insulin|insulin]]_Pancreatic_Beta-Cell_Response_[Z-005-0002]|Insulin — Pancreatic Response]]
-- [[MOC-Early-Detection|Early Detection MOC]]
+- _Pancreatic_Beta-Cell_Response_[Z-005-0002]|Insulin — Pancreatic Response]]
+- 
 
 ---
 

@@ -5,13 +5,13 @@ title: "Amino Acids to Fumarate: Phenylalanine and Tyrosine"
 aliases: [Z-001-0496, fumarate, phenylalanine, tyrosine, pku, folate, iron]
 domain: 001
 tags: [zettel, fumarate, phenylalanine, tyrosine, pku, phenylalanine-hydroxylase]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0046A]]
 ---
 
-# [[KEYWORD-Amino_Acids|amino acids]] to Fumarate: Phenylalanine and Tyrosine
+#  to Fumarate: Phenylalanine and Tyrosine
 
 ## The Pathway
 
@@ -35,7 +35,7 @@ Fumarylacetoacetate → Fumarate + Acetoacetate
 - **Fumarate:** Glucogenic (enters Krebs, can make glucose)
 - **Acetoacetate:** Ketogenic (cannot make glucose)
 
-## [[KEYWORD-Clinical|clinical]]: Phenylketonuria (PKU)
+## : Phenylketonuria (PKU)
 
 ### Cause
 **Phenylalanine hydroxylase deficiency** (or BH₄ synthesis defect)
@@ -70,16 +70,16 @@ Fumarylacetoacetate → Fumarate + Acetoacetate
 
 ## Folate and Iron Connection
 **Phenylalanine hydroxylase requires:**
-- BH₄ (tetrahydrobiopterin) — folate-related [[KEYWORD-Metabolism|metabolism]]
+- BH₄ (tetrahydrobiopterin) — folate-related 
 - Iron (Fe²⁺) — for hydroxylation chemistry
 
 ## Related
 - [[Glucogenic_vs_Ketogenic_Classification_[Z-001-0499]]] Glucogenic vs Ketogenic Classification
-- [[MOC-Inborn-Errors-Metabolism]]
+- 
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

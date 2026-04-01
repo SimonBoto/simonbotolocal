@@ -56,4 +56,4 @@ Is Starlink available in more than 1 size in Europe?
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

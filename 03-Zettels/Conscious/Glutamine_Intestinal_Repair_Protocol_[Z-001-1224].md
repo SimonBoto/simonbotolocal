@@ -4,7 +4,7 @@ type: zettel
 title: Glutamine — Intestinal Repair Protocol
 domain: 001
 tags: [zettel, glutamine, gut-healing, intestinal-barrier, amino-acids, leaky-gut]
-parent-moc: [[MOC-Gut-Health]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Gut_Healing_Amino_Acids_L-001-0636]]"
 status: conscious
@@ -37,7 +37,7 @@ Glutamine is the primary fuel source for enterocytes (intestinal epithelial cell
 
 ---
 
-## [[KEYWORD-Clinical|clinical]] Indications
+##  Indications
 
 ### Primary Uses
 | Condition | Rationale |
@@ -76,7 +76,7 @@ Glutamine is the primary fuel source for enterocytes (intestinal epithelial cell
 - May worsen bloating in active SIBO
 - **Strategy:** Treat overgrowth first, then add glutamine
 
-**[[KEYWORD-Cancer|cancer]] Concerns:**
+** Concerns:**
 - Some cancers use glutamine for growth
 - **Note:** Evidence mixed; consult oncology
 
@@ -108,7 +108,7 @@ Glutamine is the primary fuel source for enterocytes (intestinal epithelial cell
 |------|----------------|-----|
 | **L-Glutamine (free)** | High | Standard supplementation |
 | **Alanyl-glutamine** | Higher | Critical care, absorption issues |
-| **Glutamine peptides** | Moderate | Sports [[KEYWORD-Nutrition|nutrition]] |
+| **Glutamine peptides** | Moderate | Sports  |
 
 **Recommendation:** L-Glutamine powder (Kyowa quality preferred)
 

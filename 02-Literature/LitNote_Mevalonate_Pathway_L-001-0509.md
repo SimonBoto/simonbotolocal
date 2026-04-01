@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: Critical — Central metabolic pathway connecting energy metabolism to cholesterol synthesis, CoQ10 production, and protein prenylation
 status: extracted
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-01
 source-file-location: /03-Zettels/ChatGPT_Archive/metabolomics/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_[CGPT-0393].md
 source-verified: 2026-03-01

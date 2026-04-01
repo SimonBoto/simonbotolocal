@@ -6,13 +6,13 @@ aliases: [Z-002-0612, ich-gcp, clinical-trial-standards]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, clinical-trials, regulatory]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]]"
 confidence: high
 created: 2026-03-27
 ---
 
-# ICH Good [[KEYWORD-Clinical|clinical]] Practice (GCP) Guidelines
+# ICH Good  Practice (GCP) Guidelines
 
 International Council for Harmonisation unified standard for designing, conducting, recording, and reporting trials involving human participants. Ensures data credibility, accuracy, and protection of participant rights.
 
@@ -63,12 +63,12 @@ While METHAP is not a pharmaceutical trial, GCP principles apply:
 - **Protocol:** Detailed study plan with scientific rationale
 - **Ethics approval:** Independent committee review
 - **Informed consent:** Documented voluntary participation
-- **Data integrity:** Accurate [[KEYWORD-Metabolomics|metabolomics]] data collection
+- **Data integrity:** Accurate  data collection
 - **Quality assurance:** Standardized procedures, monitoring
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Research|research]]-Ethics]]  
+**Parent MOC:** -Ethics]]  
 **Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]]  
 **Related:** [[Declaration_Helsinki_Research_Ethics_[Z-002-0609].md]] — Ethical foundation
 
@@ -78,4 +78,4 @@ While METHAP is not a pharmaceutical trial, GCP principles apply:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

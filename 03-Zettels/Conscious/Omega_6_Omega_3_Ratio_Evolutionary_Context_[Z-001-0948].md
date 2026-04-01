@@ -5,7 +5,7 @@ title: Omega-6 to Omega-3 Ratio — Evolutionary and Clinical Context
 aliases: [Z-001-0948]
 domain: 001
 tags: [zettel, omega-6-omega-3-ratio, evolutionary, inflammation, clinical-outcomes, hunter-gatherer, mediterranean, modern-diet, conscious]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 ---
 
@@ -68,10 +68,10 @@ status: conscious
 ### 10:1 Ratio — Warning Zone
 - Inflammatory markers elevated
 - Increased chronic disease risk
-- [[KEYWORD-Insulin|insulin]] resistance begins
+-  resistance begins
 
 ### 15-25:1 Ratio — Modern Western (High Risk)
-- Chronic low-grade [[KEYWORD-Inflammation|inflammation]]
+- Chronic low-grade 
 - Elevated IL-6, TNF-alpha, CRP
 - Increased CVD, diabetes, cancer risk
 - Accelerated cellular aging
@@ -125,7 +125,7 @@ INFLAMMATION                          RESOLUTION
 
 ## Related Zettels
 - [[Seed_Oil_Fatty_Acid_Composition_Table_[Z-001-0945].md]] — Oil comparison
-- [[Linoleic_Acid_Metabolic_Fate_Desaturase_Competition_[Z-001-0946].md]] — [[KEYWORD-Metabolism|metabolism]]
+- [[Linoleic_Acid_Metabolic_Fate_Desaturase_Competition_[Z-001-0946].md]] — 
 
 ## Source
 [[LitNote_Seed_Oils_Fatty_Acid_Composition_L-001-0522]]

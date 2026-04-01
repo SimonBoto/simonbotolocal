@@ -5,7 +5,7 @@ title: Statin Intolerance — Myopathy Management
 aliases: [Z-001-0919, Z-001-0512-deprecated, Statin-Intolerance, Myopathy, Myalgia, Rhabdomyolysis]
 domain: 001
 tags: [zettel, statin, intolerance, myopathy, myalgia, side-effects]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]]
 extraction-date: 2026-03-01
@@ -35,10 +35,10 @@ updated: 2026-03-05
 - Gemfibrozil (avoid), fenofibrate (safer)
 - Amiodarone, verapamil
 
-## [[KEYWORD-Mechanism|mechanism]]
+## 
 
 - CoQ10 depletion
-- [[KEYWORD-Mitochondria|mitochondria]]l dysfunction
+- l dysfunction
 - Cell membrane instability
 
 ## Management
@@ -61,4 +61,4 @@ updated: 2026-03-05
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: Critical — Understanding how scientific ideas become policy, the history of dietary guidelines, and lessons for evidence-based medicine
 status: extracted
-parent-moc: [[MOC-Research-Methodology]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 

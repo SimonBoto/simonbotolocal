@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: High — Clinical application of mitochondrial optimization through diet, exercise, and metabolomics monitoring
 status: extracted
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-01
 source-file-location: /03-Zettels/ChatGPT_Archive/metabolomics/CGPT_0378_Mitochondrial_Health_Strategies_[CGPT-0378].md
 source-verified: 2026-03-01

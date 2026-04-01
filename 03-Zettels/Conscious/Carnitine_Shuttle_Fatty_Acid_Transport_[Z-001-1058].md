@@ -6,7 +6,7 @@ aliases: [Z-001-1058, Carnitine-Shuttle]
 domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, carnitine, fatty-acids, transport]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
 source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
 confidence: high
@@ -16,12 +16,12 @@ created: 2026-03-08
 # Carnitine Shuttle Fatty Acid Transport
 
 ## Overview
-The carnitine shuttle system transports long-chain fatty acids across the [[KEYWORD-Mitochondria|mitochondria]]l inner membrane for β-oxidation.
+The carnitine shuttle system transports long-chain fatty acids across the l inner membrane for β-oxidation.
 
 ## The Three Components
 
 ### 1. CPT I (Carnitine Palmitoyltransferase I)
-- **Location:** Outer [[KEYWORD-Mitochondria|mitochondrial]] membrane
+- **Location:** Outer  membrane
 - **Function:** Rate-limiting step; conjugates fatty acyl-CoA with carnitine
 - **Regulation:** Inhibited by malonyl-CoA (from fed state)
 - **Isoforms:** CPT1A (liver), CPT1B (muscle), CPT1C (brain)
@@ -87,11 +87,11 @@ Elevated acylcarnitines in blood spot testing indicate:
 ## Related
 - [[Beta_Oxidation_Clinical_Mechanisms_[Z-001-1054].md]]
 - [[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052].md]]
-- [[MOC-Mitochondrial-Function]]
+- 
 
 ---
-*Source: CGPT-0022 — Fatty acid [[KEYWORD-Metabolism|metabolism]]*
+*Source: CGPT-0022 — Fatty acid *
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

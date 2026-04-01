@@ -6,14 +6,14 @@ aliases: [Z-001-1063, Neurotransmitters]
 domain: 001
 domain-name: Metabolism
 tags: [zettel, neurotransmitters, dopamine, serotonin, gaba]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
 source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
 confidence: high
 created: 2026-03-08
 ---
 
-# Neurotransmitter Synthesis [[KEYWORD-Biochemistry|biochemistry]]
+# Neurotransmitter Synthesis 
 
 ## Overview
 Neurotransmitters are synthesized from amino acid precursors through vitamin and mineral-dependent pathways.
@@ -71,7 +71,7 @@ Glutamate → GABA
 - Primary inhibitory neurotransmitter
 - Counterbalances glutamate (excitatory)
 
-## [[KEYWORD-Clinical|clinical]] Integration
+##  Integration
 
 ### Nutrient Deficiencies Affecting Neurotransmitters
 | Deficiency | Affected NT | Symptoms |
@@ -88,13 +88,13 @@ Glutamate → GABA
 - **HPHPA** from Clostridia inhibits dopamine conversion
 
 ## Related
-- [[One_Carbon_[[KEYWORD-Metabolism|metabolism]]_Folate_B12_[Z-001-1062].md]]
+- _Folate_B12_[Z-001-1062].md]]
 - [[Gut_Microbiome_OAT_Markers_[Z-001-1064].md]]
-- [[MOC-Methylation-One-Carbon]]
+- 
 
 ---
 *Source: CGPT-0022 — Vitamin-mineral biochemistry*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

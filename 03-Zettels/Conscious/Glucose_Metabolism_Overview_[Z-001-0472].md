@@ -5,13 +5,13 @@ title: Glucose Metabolism Overview
 aliases: [Z-001-0472, glucose-metabolism, blood-sugar, glycolysis]
 domain: 001
 tags: [zettel, glucose, metabolism, glycolysis, insulin, energy]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045E]]
 ---
 
-# Glucose [[KEYWORD-Metabolism|metabolism]] Overview
+# Glucose  Overview
 
 ## The Primary Fuel
 **Glucose:** Most abundant monosaccharide, primary energy source for most organisms.
@@ -23,7 +23,7 @@ source: [[L-001-0045E]]
 
 ## Cellular Uptake
 
-### [[KEYWORD-Insulin|insulin]]-Dependent (GLUT4)
+### -Dependent (GLUT4)
 - Skeletal muscle
 - Adipose tissue
 - **Mechanism:** Insulin → GLUT4 translocation to membrane
@@ -52,7 +52,7 @@ G6P → NADPH + Ribose (biosynthesis/redox)
 
 ### 4. Lipogenesis (Liver, Adipose)
 ```
-Glucose → Acetyl-CoA → [[KEYWORD-Fatty_Acids|fatty acids]]
+Glucose → Acetyl-CoA → 
 ```
 
 ## Regulation

@@ -4,7 +4,7 @@ type: zettel
 title: B-Vitamin Cofactors — Summary and Clinical Connections
 domain: 001
 tags: [zettel, b-vitamins, cofactors, metabolism, summary, clinical]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630]]"
 status: conscious
@@ -26,7 +26,7 @@ B-vitamins serve as essential cofactors (coenzymes) for hundreds of metabolic re
 | **B2 (Riboflavin)** | FMN, FAD | Redox reactions | Acyl-CoA dehydrogenases, Complex I/II |
 | **B3 (Niacin)** | NAD+, NADP+ | Redox reactions | Dehydrogenases, reductases |
 | **B5 (Pantothenic)** | CoA | Acyl group carrier | All acyl-CoA reactions |
-| **B6 (Pyridoxine)** | PLP | Amino acid [[KEYWORD-Metabolism|metabolism]] | Transaminases, decarboxylases |
+| **B6 (Pyridoxine)** | PLP | Amino acid  | Transaminases, decarboxylases |
 | **B7 (Biotin)** | Biotin-lysine | Carboxylation | Pyruvate carboxylase, ACC |
 | **B9 (Folate)** | THF | One-carbon transfer | Serine hydroxymethyltransferase |
 | **B12 (Cobalamin)** | Adenosyl-B12, Me-B12 | Rearrangement, methylation | Methylmalonyl-CoA mutase, methionine synthase |
@@ -120,8 +120,8 @@ Transamination → Decarboxylation → One-carbon
 ### Clinical Applications
 
 **Metabolic Disorders:**
-- [[KEYWORD-Mitochondria|mitochondria]]l dysfunction: High-dose B-vitamins
-- [[KEYWORD-Insulin|insulin]] resistance: B1, B3, biotin
+- l dysfunction: High-dose B-vitamins
+-  resistance: B1, B3, biotin
 - Homocysteinemia: B6, B9, B12
 
 **Neurological:**

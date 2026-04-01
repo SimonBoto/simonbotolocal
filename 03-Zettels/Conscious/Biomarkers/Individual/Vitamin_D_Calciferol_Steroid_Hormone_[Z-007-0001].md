@@ -6,7 +6,7 @@ title: Vitamin D — Calciferol, Steroid Hormone
 aliases: [Z-007-0001, Vitamin-D, Calciferol, 25-OH-D, Cholecalciferol]
 domain: 007
 tags: [zettel, biomarker, vitamin-d, calciferol, steroid, immunity, bone]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

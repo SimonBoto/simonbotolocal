@@ -14,7 +14,7 @@ status: pending
 aliases: [R-001-0025, Tsoukalas_2021_Metabolic_Health_Snapshot]
 domain: 001
 tags: [reference, metabolic-health, micronutrients, assessment, greek-authors, tier-1]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 
@@ -52,7 +52,7 @@ This may describe the **exact methodology** used in NKUA courses — potentially
 
 ## Connections
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source citing
-- [[Hannibal_etal_2016_B12_Biomarkers_R-001-0013]] — Functional assessment parallel
+-  — Functional assessment parallel
 
 ---
 *Status: Reference hub created — HIGH priority for methodology*  

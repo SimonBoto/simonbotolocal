@@ -5,7 +5,7 @@ title: "Insulin Resistance as Metabolic Disorder Phenotype"
 aliases: [Z-001-0022, IR_Metabolic_Disorder, IR_Phenotype, Metabolic_Syndrome_IR]
 domain: 001
 tags: [zettel, insulin-resistance, metabolic-disorder, phenotype, metabolomics, chronic-disease, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
 status: conscious
@@ -14,7 +14,7 @@ status: conscious
 # Insulin Resistance as Metabolic Disorder Phenotype
 
 ## Core Claim
-**Insulin resistance is a core metabolic disorder** detectable via [[KEYWORD-Metabolomics|metabolomics]], representing a key phenotype category alongside dysbiosis, micronutrient deficiencies, and oxidative stress in chronic disease etiology.
+**Insulin resistance is a core metabolic disorder** detectable via , representing a key phenotype category alongside dysbiosis, micronutrient deficiencies, and oxidative stress in chronic disease etiology.
 
 ## IR in the Six-Factor Disease Model
 
@@ -41,7 +41,7 @@ Standard clinical assessment:
 ### Metabolomics-Enhanced IR Assessment
 | Metabolite Category | Examples | Clinical Insight |
 |--------------------|----------|-----------------|
-| **Glucose [[KEYWORD-Metabolism|metabolism]]** | Glucose, lactate, pyruvate | Glycolytic efficiency |
+| **Glucose ** | Glucose, lactate, pyruvate | Glycolytic efficiency |
 | **Lipid metabolism** | Free fatty acids, acylcarnitines | Lipotoxicity markers |
 | **Amino acids** | BCAAs, aromatic AAs | mTOR signaling, insulin sensitivity |
 | **Krebs cycle** | Citrate, α-ketoglutarate, succinate | Mitochondrial function |
@@ -52,7 +52,7 @@ Standard clinical assessment:
 Adipic acid specifically indicates:
 - **Mitochondrial dysfunction** in fatty acid oxidation
 - **Early IR marker** before glucose abnormalities
-- **[[KEYWORD-Vitamin_D|vitamin d]] responsive** (METHAP hypothesis)
+- ** responsive** (METHAP hypothesis)
 
 ## Systems Affected by IR Phenotype
 
@@ -100,11 +100,11 @@ The METHAP trial design:
 - [[Lipotoxicity_Ceramide_Induced_IR_[Z-001-0013]]] — Lipid-induced IR |
 
 ### Downstream
-- [[MOC-PhD-METHAP-Trial]] — Trial design
-- [[MOC-Insulin-Signaling]] — Mechanistic details
+-  — Trial design
+-  — Mechanistic details
 
 ### Cross-Domain
-- [[IR_Mechanisms_Map]] — Comprehensive IR systems view
+-  — Comprehensive IR systems view
 - [[Environmental_Factors_80_Percent_Chronic_Disease_[Z-001-0903].md]] — Environmental drivers
 - [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021.md]] — VitD-IR link
 

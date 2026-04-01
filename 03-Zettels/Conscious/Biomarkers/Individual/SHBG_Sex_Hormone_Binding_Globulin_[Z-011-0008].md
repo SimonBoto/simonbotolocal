@@ -5,7 +5,7 @@ title: SHBG — Sex Hormone Binding Globulin, Hormone Transport
 aliases: [Z-011-0008, SHBG, Sex-Hormone-Binding-Globulin, Testosterone-Binding, Estrogen-Binding]
 domain: 011
 tags: [zettel, biomarker, shbg, binding-globulin, testosterone, estrogen]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

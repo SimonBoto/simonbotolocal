@@ -4,7 +4,7 @@ type: zettel
 title: Die-Off Reaction (Herxheimer) — Gut Treatment Management
 domain: 001
 tags: [zettel, die-off, herxheimer, dysbiosis, herbal-antimicrobials, detox]
-parent-moc: [[MOC-Gut-Health]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]]"
 status: conscious
@@ -18,7 +18,7 @@ Die-off reactions (Herxheimer reactions) occur when antimicrobial treatment kill
 
 ---
 
-## [[KEYWORD-Mechanism|mechanism]]
+## 
 
 ### Microbial Death Cascade
 ```
@@ -30,9 +30,9 @@ Inflammatory cytokines → Symptom flare
 ### Key Toxins Released
 | Toxin | Source | Effects |
 |-------|--------|---------|
-| **Lipopolysaccharide (LPS)** | Gram-negative bacteria | [[KEYWORD-Inflammation|inflammation]], fever, malaise |
+| **Lipopolysaccharide (LPS)** | Gram-negative bacteria | , fever, malaise |
 | **Hydrogen sulfide** | Sulfur-reducing bacteria | Foul odor, toxicity |
-| **Ammonia** | Protein [[KEYWORD-Metabolism|metabolism]] | Brain fog, fatigue |
+| **Ammonia** | Protein  | Brain fog, fatigue |
 | **Aldehydes** | Yeast/fungal death | Headache, nausea |
 | **Sulfur compounds** | Bacterial breakdown | Body odor, stool odor |
 

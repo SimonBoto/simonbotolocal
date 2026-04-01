@@ -6,7 +6,7 @@ aliases: [Z-001-0932, Z-001-0525-deprecated, FDR Threshold Selection, Statistica
 domain: 001
 domain-name: Research Methods
 tags: [zettel, statistics, fdr, study-design, exploratory, confirmatory, decision-framework]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
 confidence: high
 created: 2026-03-03
@@ -37,13 +37,13 @@ The choice between FDR thresholds reflects a **fundamental trade-off** between s
 
 ### Choose FDR = 0.1 When:
 
-✅ **Exploratory [[KEYWORD-Biomarker|biomarker]] discovery**
+✅ **Exploratory  discovery**
 - Initial screening for candidate markers
 - Hypothesis-generating research
 - Planning validation in follow-up studies
 
 ✅ **High-dimensional omics with validation planned**
-- [[KEYWORD-Metabolomics|metabolomics]], genomics, proteomics screens
+- , genomics, proteomics screens
 - Clear pathway to independent validation
 - Cost of false negatives > cost of false positives
 
@@ -113,7 +113,7 @@ The choice between FDR thresholds reflects a **fundamental trade-off** between s
 ### Counterfactual at FDR = 0.05
 - Fewer metabolites would pass threshold
 - Higher confidence in each finding
-- Risk of missing true [[KEYWORD-Biomarker|biomarkers]] (false negatives)
+- Risk of missing true  (false negatives)
 
 ### Assessment
 **Appropriate use** — exploratory study with validation mentioned (though sample size issues remain separate concern)
@@ -156,5 +156,5 @@ The choice between FDR thresholds reflects a **fundamental trade-off** between s
 
 ## RELATED FILES
 - [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

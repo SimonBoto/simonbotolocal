@@ -5,14 +5,14 @@ title: Chronic Sirolimus Inhibits mTORC2 Disrupting Akt Insulin Signaling
 aliases: [Z-001-0925, Z-001-0518-deprecated, mTORC2 Inhibition, Akt Phosphorylation, Chronic Rapamycin]
 domain: 001
 tags: [zettel, mtorc2, sirolimus, rapamycin, akt, insulin-signaling, chronic-dosing]
-parent-moc: [[MOC-Insulin-Resistance]]
+parent-moc: 
 status: conscious
 source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
 ---
 
-# Chronic Sirolimus Inhibits mTORC2 Disrupting Akt [[KEYWORD-Insulin|insulin]] Signaling
+# Chronic Sirolimus Inhibits mTORC2 Disrupting Akt  Signaling
 
 **Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
 
@@ -20,7 +20,7 @@ updated: 2026-03-05
 
 ### mTORC1 (Raptor-containing)
 - **Acute sirolimus sensitivity:** High
-- **Key functions:** Protein synthesis, autophagy, [[KEYWORD-Metabolism|metabolism]]
+- **Key functions:** Protein synthesis, autophagy, 
 - **Substrates:** S6K1, 4E-BP1, ULK1
 
 ### mTORC2 (Rictor-containing)
@@ -52,7 +52,7 @@ updated: 2026-03-05
 ### Acute Exposure (mTORC1 only)
 - mTORC1 inhibited
 - mTORC2 intact → Akt Ser473 phosphorylation maintained
-- Partial [[KEYWORD-Insulin_Resistance|insulin resistance]] (GLUT4 defect)
+- Partial  (GLUT4 defect)
 - Preserved cell survival signals
 
 ### Chronic/High-Dose Exposure (mTORC1 + mTORC2)
@@ -131,5 +131,5 @@ updated: 2026-03-05
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Sirolimus_ETC_Impairment_ROS_Generation_[Z-001-0513]|Z-001-0513]]

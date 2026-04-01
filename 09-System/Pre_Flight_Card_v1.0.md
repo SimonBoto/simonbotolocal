@@ -5,7 +5,7 @@ title: "RON Pre-Flight Card — 30-Second Checklist"
 aliases: [PreFlight, Quick_Check]
 domain: system
 tags: [checklist, quick-reference]
-parent-moc: [[09-System/Architecture]]
+parent-moc: 
 status: active
 ---
 
@@ -47,7 +47,7 @@ echo "Zettels:"; ls 03-Zettels/Conscious/*.md | grep -oE "Z-[0-9]+-[0-9]+" | sor
 **Before saving, check for:**
 ```bash
 # Malformed links (brackets inside brackets)
-grep -nE "\[\[[^\]]+\[|\[\][^\]]*\]\]" your_file.md
+grep -nE "\[\+\[|\[\][^\]]*\]\]" your_file.md
 ```
 
 **Forbidden patterns:**
@@ -62,7 +62,7 @@ grep -nE "\[\[[^\]]+\[|\[\][^\]]*\]\]" your_file.md
 | Duplicate UID | Always check Step 1 |
 | `type: litnote` (no hyphen) | Copy template exactly |
 | Missing authors/year/journal | Don't skip fields — use "" if unknown |
-| Malformed `[[link_[id]]]` | Search/replace `[` and `]` in filenames before linking |
+| Malformed `]` | Search/replace `[` and `]` in filenames before linking |
 | Status: processing left | Change to `complete` before commit |
 
 ---
@@ -76,12 +76,12 @@ grep -r "^uid: " 02-Literature/ 03-Zettels/ | sort | uniq -d
 
 **Find malformed links:**
 ```bash
-grep -rnE "\[\[[^\]]*\[[^\]]*\]" 03-Zettels/Conscious/
+grep -rnE "\[\*\*\]" 03-Zettels/Conscious/
 ```
 
 **List all links in a file:**
 ```bash
-grep -oE "\[\[[^\]]+\]\]" filename.md | sort | uniq
+grep -oE "\[\+\]\]" filename.md | sort | uniq
 ```
 
 ---
@@ -106,7 +106,7 @@ grep -oE "\[\[[^\]]+\]\]" filename.md | sort | uniq
 | Duplicate UID | Always check Step 1 |
 | `type: litnote` (no hyphen) | Copy template exactly |
 | Missing authors/year/journal | Don't skip fields — use "" if unknown |
-| Malformed `[[link_[id]]]` | Search/replace `[` and `]` in filenames before linking |
+| Malformed `]` | Search/replace `[` and `]` in filenames before linking |
 | Status: processing left | Change to `complete` before commit |
 | **Bibliography skipped** | **MANDATORY — extract all references, create hubs for Tier 1** |
 

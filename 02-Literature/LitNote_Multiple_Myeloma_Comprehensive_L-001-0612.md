@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Multiple myeloma diagnosis, CRAB features, staging, prognosis, treatment overview
 status: extracted
-parent-moc: [[MOC-Hematology-Oncology]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -64,7 +64,7 @@ extraction-date: 2026-03-08
 4. [[Multiple_Myeloma_Treatment_Modern_Approach_[Z-001-1134].md]]
 
 ## Related References
-- [[MOC-Hematology-Oncology]]
+- 
 - [[TP53_Multiple_Myeloma_Prognosis_Therapy_[Z-001-1135].md]] (next LitNote)
 
 ---

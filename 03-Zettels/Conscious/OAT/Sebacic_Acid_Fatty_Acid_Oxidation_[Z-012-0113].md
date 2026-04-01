@@ -6,7 +6,7 @@ title: Sebacic Acid — Fatty Acid Oxidation Marker (10-Carbon)
 aliases: [Z-012-0113, Sebacic-Acid, Sebacate, Decanedioic-Acid, Fatty-Acid-Oxidation]
 domain: 012
 tags: [zettel, biomarker, sebacic, fatty-acid-oxidation, dicarboxylic]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

@@ -5,7 +5,7 @@ title: Glutamine-Glutamate-Ammonia Cycle
 aliases: [Z-001-0916, Z-001-0502-deprecated, glutamine, glutamate, ammonia, cycle, nitrogen-transport]
 domain: 001
 tags: [zettel, glutamine, glutamate, ammonia, nitrogen-transport, detoxification]
-parent-moc: [[MOC-Nitrogen-Metabolism]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 updated: 2026-03-05
@@ -68,7 +68,7 @@ Glutamate + NH₄⁺ + ATP → Glutamine + ADP + Pi
 | **Immune** | Energy, proliferation | Glutaminase |
 | **Intestine** | Fuel | Glutaminase |
 
-## [[KEYWORD-Clinical|clinical]]: Hyperammonemia
+## : Hyperammonemia
 **Impaired glutamine synthesis:**
 - Ammonia accumulation
 - Neurological dysfunction
@@ -77,8 +77,8 @@ Glutamate + NH₄⁺ + ATP → Glutamine + ADP + Pi
 ## Related
 - [[Glutamate_Central_Amino_Acid_Hub_[Z-001-0915]]] Glutamate Central Hub
 - [[Glutamate_Arginine_Urea_Cycle_[Z-001-0917]]] Glutamate-Arginine-Urea Cycle
-- [[MOC-Urea-Cycle]]
-- [[MOC-Nitrogen-[[KEYWORD-Metabolism|metabolism]]]]
+- 
+- 
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

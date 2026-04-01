@@ -6,7 +6,7 @@ aliases: [Z-001-1099, Alpha-Keto-Acids]
 domain: 001
 domain-name: Amino Acid Metabolism
 tags: [zettel, alpha-keto, transamination, intermediates]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
 source: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Alpha Keto Acids Transamination Intermediates
 
 ## Overview
-Alpha-keto acids are the deaminated carbon skeletons of amino acids—key intermediates linking protein [[KEYWORD-Metabolism|metabolism]] to central energy pathways.
+Alpha-keto acids are the deaminated carbon skeletons of amino acids—key intermediates linking protein  to central energy pathways.
 
 ## Structure and Formation
 
@@ -67,7 +67,7 @@ Amino Acid + Alpha-ketoglutarate ↔ Alpha-keto acid + Glutamate
 ### Alpha-Ketoglutarate (from Glutamate)
 - **Entry:** Direct Krebs cycle intermediate
 - **Function:** Central hub of amino acid metabolism
-- **Clinical:** Elevated in B-[[KEYWORD-Vitamin_D|vitamin d]]eficiencies
+- **Clinical:** Elevated in B-eficiencies
 
 ## Transamination: The Key Reaction
 
@@ -88,7 +88,7 @@ Amino Acid + Alpha-ketoglutarate ↔ Alpha-keto acid + Glutamate
 ### Elevated Alpha-Keto Acids (OAT Markers)
 | Marker | Indicates |
 |--------|-----------|
-| **Pyruvate ↑** | B1 deficiency, [[KEYWORD-Mitochondria|mitochondria]]l dysfunction |
+| **Pyruvate ↑** | B1 deficiency, l dysfunction |
 | **Alpha-ketoglutarate ↑** | B-vitamin cofactor insufficiency |
 | **Phenylpyruvate ↑** | Phenylketonuria (PKU) |
 | **Branched-chain keto acids ↑** | Maple syrup urine disease |
@@ -101,7 +101,7 @@ Amino Acid + Alpha-ketoglutarate ↔ Alpha-keto acid + Glutamate
 ## Related
 - [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_[Z-001-1100].md]]
 | [[Amino_Acid_Krebs_Entry_Points_Map_[Z-001-1098].md]]
-| [[MOC-Amino-Acid-Metabolism]]
+| 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

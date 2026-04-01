@@ -5,7 +5,7 @@ title: ADA Pharmaceutical Funding — $53.6M+ Conflict of Interest
 aliases: [ADA-Funding, Pharma-Sponsors, Insulin-Manufacturers]
 domain: 001
 tags: [zettel, ada, funding, pharmaceutical, conflict-of-interest, insulin]
-parent-moc: [[MOC-Diabetes-History]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_ADA_History_L-001-0209]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # ADA Pharmaceutical Funding — $53.6M+ Conflict of Interest
 
-> The American [[KEYWORD-Diabetes|diabetes]] Association receives substantial funding from pharmaceutical companies, including over $53.6 million from [[KEYWORD-Insulin|insulin]] manufacturers, raising concerns about potential conflicts of interest and influence on diabetes care guidelines.
+> The American  Association receives substantial funding from pharmaceutical companies, including over $53.6 million from  manufacturers, raising concerns about potential conflicts of interest and influence on diabetes care guidelines.
 
 ## Major Pharmaceutical Donors
 
@@ -87,7 +87,7 @@ extraction-date: 2026-03-01
 
 **METHAP Context:**
 - Independent research critical
-- [[KEYWORD-Nutrition|nutrition]]al approaches underfunded
+- al approaches underfunded
 - Need for unbiased investigation
 - Academic independence valuable
 
@@ -97,4 +97,4 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -84,7 +84,7 @@ Each zettel is like a **sarcomere** — the basic unit of knowledge contraction.
 
 **Function:** Connects zettels (muscles) to synthesis (bones)
 
-Leonardo studied tendons obsessively — the connections. My `[[brackets]]` are tendons.
+Leonardo studied tendons obsessively — the connections. My `` are tendons.
 
 ---
 

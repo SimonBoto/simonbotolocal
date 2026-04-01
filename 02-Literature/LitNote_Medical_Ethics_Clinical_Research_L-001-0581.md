@@ -8,7 +8,7 @@ journal: Internal ethics synthesis
 tier: 1
 relevance: Core medical ethics framework for clinical research
 status: extracted
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 extraction-date: 2026-03-07
 domain: 001
 ---

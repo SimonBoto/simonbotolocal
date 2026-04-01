@@ -145,7 +145,7 @@ Think of it like remembering the grammar of your own knowledge system.
 ---
 
 ### 2. **Linking is More Valuable than Filing**  
-- Use **`[[links]]`** to connect notes; don’t rely too much on strict folder hierarchy.  
+- Use **``** to connect notes; don’t rely too much on strict folder hierarchy.  
 - Your brain works by association — the graph view and backlinks replicate that.  
 - Example: In your PhD, *Insulin Resistance* should link to *Organic Acids*, *FFA Ratios*, *Vitamin D deficiency*, etc.
 
@@ -196,7 +196,7 @@ This is your workflow:
 
 ### **Evening (Output Mode)**
 - Review the day’s notes.  
-- Link any unlinked mentions (`[[Vitamin D]]`).  
+- Link any unlinked mentions (``).  
 - Ask: *“What permanent knowledge did I create today?”*  
 - Close with a quick reflection in Daily Note.
 
@@ -228,8 +228,8 @@ Excellent — backlinks and tags are the **circulatory system** of your Obsidian
 # 🔗 Optimising Backlinks
 
 ### 1. **Prefer Links Over Tags for Concepts**
-- Always create `[[note links]]` for *concepts, people, molecules, conditions, etc.*  
-- Example: Instead of `#vitaminD`, make `[[Vitamin D]]`.  
+- Always create `` for *concepts, people, molecules, conditions, etc.*  
+- Example: Instead of `#vitaminD`, make ``.  
 - Why: links create **backlinks + graph connections**, whereas tags only group loosely.
 
 ---
@@ -237,7 +237,7 @@ Excellent — backlinks and tags are the **circulatory system** of your Obsidian
 ### 2. **Use Links to Build “Conversations”**
 - Every note should answer: *What other ideas does this connect to?*  
 - Example:  
-  - *Vitamin D – Insulin Sensitivity* links to → `[[Magnesium]]`, `[[Metabolic Syndrome]]`, `[[Fatty Acids]]`.  
+  - *Vitamin D – Insulin Sensitivity* links to → ``, ``, ``.  
   - This creates a **cluster** of related knowledge.
 
 ---
@@ -248,10 +248,10 @@ Excellent — backlinks and tags are the **circulatory system** of your Obsidian
 - Example snippet:  
   `‌`‌`
   ## Insulin Resistance – Map of Content
-  - [[Pathophysiology]]
-  - [[Metabolomics Biomarkers]]
-  - [[Clinical Trials]]
-  - [[Therapeutic Nutrition]]
+  - 
+  - 
+  - 
+  - 
   `‌`‌`
 
 ---
@@ -259,8 +259,8 @@ Excellent — backlinks and tags are the **circulatory system** of your Obsidian
 ### 4. **Backlink Gardening**
 - Once a week:  
   - Open the **backlinks panel** for a major note.  
-  - Re-link orphan mentions → if you wrote “D3” somewhere, link it to `[[Vitamin D]]`.  
-  - Add clarifying notes: “See also [[Magnesium]]” at the bottom.  
+  - Re-link orphan mentions → if you wrote “D3” somewhere, link it to ``.  
+  - Add clarifying notes: “See also ” at the bottom.  
 - This is how you keep the web alive.
 
 ---
@@ -395,16 +395,16 @@ Inside, write:
 Welcome to the new vault.
 
 ## Core Areas
-- [[Research & PhD]]
-- [[Clinical & Patients]]
-- [[Business & Ventures]]
-- [[Personal Development]]
-- [[Meta & Workflows]]
+- 
+- 
+- 
+- 
+- 
 
 ## Today
-- Use [[Daily Note]] to capture.
+- Use  to capture.
 - Process fleeting notes into permanent.
-- Connect ideas with [[links]].
+- Connect ideas with .
 `‌`‌`
 
 This becomes your compass — the “front door” to your whole system.
@@ -497,14 +497,14 @@ Great—let’s keep this ultra-light and actionable.
 > Your entry gate. Keep it simple. Touch this note every day.
 
 ## Core Areas
-- [[Research]]
-- [[Clinical]]
-- [[Business]]
-- [[Personal]]
-- [[Meta]]
+- 
+- 
+- 
+- 
+- 
 
 ## Today
-- [[Daily — {{date}}]]  <!-- make or open today's daily note -->
+-   <!-- make or open today's daily note -->
 - 1 thing for Research:
 - 1 thing for Clinical:
 - 1 thing for Personal:
@@ -515,15 +515,15 @@ Great—let’s keep this ultra-light and actionable.
 - [ ] 
 
 ## Active Pages (Hotlist)
-- [[Insulin Resistance — MOC]]
-- [[Vitamin D — Hub]]
-- [[Patient Education Leaflet]]
+- 
+- 
+- 
 
 ## Inbox (to process)
-- [[Inbox]]
+- 
 
 ---
-**Rules**: Concepts = `[[links]]`; Status/Type = `#tags`; Grow via small daily notes.
+**Rules**: Concepts = ``; Status/Type = `#tags`; Grow via small daily notes.
 #index #home
 `‌`‌`
 
@@ -556,15 +556,15 @@ This is just the *front door* to your vault. Every time you open Obsidian, this 
 ### 2. **Core Areas**
 `‌`‌`
 ## Core Areas
-- [[Research]]
-- [[Clinical]]
-- [[Business]]
-- [[Personal]]
-- [[Meta]]
+- 
+- 
+- 
+- 
+- 
 `‌`‌`
 - These are **links to your main buckets**.  
 - At first, they’re just empty notes. Later, they’ll become hubs (like folders, but smarter).  
-- Example: Clicking `[[Research]]` opens a blank page where you’ll later list your PhD clusters.  
+- Example: Clicking `` opens a blank page where you’ll later list your PhD clusters.  
 
 👉 For now: just create these 5 notes, nothing more.  
 
@@ -573,12 +573,12 @@ This is just the *front door* to your vault. Every time you open Obsidian, this 
 ### 3. **Today**
 `‌`‌`
 ## Today
-- [[Daily — {{date}}]] 
+-  
 - 1 thing for Research:
 - 1 thing for Clinical:
 - 1 thing for Personal:
 `‌`‌`
-- `[[Daily — {{date}}]]` is a placeholder for your daily log. Each day you make one note with today’s date.  
+- `` is a placeholder for your daily log. Each day you make one note with today’s date.  
 - The three lines are simply prompts: pick **one action per area** each day (keeps it small).  
 - Example:  
   - Research → “Read 1 article on Vitamin D & IR”  
@@ -603,9 +603,9 @@ This is just the *front door* to your vault. Every time you open Obsidian, this 
 ### 5. **Active Pages (Hotlist)**
 `‌`‌`
 ## Active Pages (Hotlist)
-- [[Insulin Resistance — MOC]]
-- [[Vitamin D — Hub]]
-- [[Patient Education Leaflet]]
+- 
+- 
+- 
 `‌`‌`
 - Think of this as your **shortcuts bar**.  
 - Just pin the 2–3 notes you’re currently working on.  
@@ -616,7 +616,7 @@ This is just the *front door* to your vault. Every time you open Obsidian, this 
 ### 6. **Inbox**
 `‌`‌`
 ## Inbox (to process)
-- [[Inbox]]
+- 
 `‌`‌`
 - A single dumping ground.  
 - If you don’t know where something belongs, throw it here.  
@@ -627,7 +627,7 @@ This is just the *front door* to your vault. Every time you open Obsidian, this 
 ### 7. **Rules**
 `‌`‌`
 ---
-**Rules**: Concepts = [[links]]; Status/Type = #tags; Grow via small daily notes.
+**Rules**: Concepts = ; Status/Type = #tags; Grow via small daily notes.
 `‌`‌`
 - A little reminder to yourself about how to keep things simple.  
 - Links = for concepts (Vitamin D, Insulin Resistance, etc.)  
@@ -679,7 +679,7 @@ There are **two layers** in your system:
 **Home Note (constant):**
 `‌`‌`
 ## Today
-- [[Daily — 24 Aug 2025]]
+- 
 `‌`‌`
 
 **Daily — 24 Aug 2025 (new, created today):**
@@ -697,7 +697,7 @@ There are **two layers** in your system:
 
 Tomorrow, you’ll edit the Home note so it points to:
 `‌`‌`
-[[Daily — 25 Aug 2025]]
+
 `‌`‌`
 
 ---
@@ -731,14 +731,14 @@ Here’s the optimised version you can copy straight into Obsidian:
 > Start here every day. This is your compass.
 
 ## Core Areas
-- [[Research]]
-- [[Clinical]]
-- [[Business]]
-- [[Personal]]
-- [[Meta]]
+- 
+- 
+- 
+- 
+- 
 
 ## Today
-- [[Daily — 24 Aug 2025]]   <!-- change date each day -->
+-    <!-- change date each day -->
 - 1 thing for Research:
 - 1 thing for Clinical:
 - 1 thing for Personal:
@@ -773,14 +773,14 @@ Liked this one better
 > Your entry gate. Keep it simple. Touch this note every day.
 
 ## Core Areas
-- [[Research]]
-- [[Clinical]]
-- [[Business]]
-- [[Personal]]
-- [[Meta]]
+- 
+- 
+- 
+- 
+- 
 
 ## Today
-- [[Daily — {{date}}]]  <!-- make or open today's daily note -->
+-   <!-- make or open today's daily note -->
 - 1 thing for Research:
 - 1 thing for Clinical:
 - 1 thing for Personal:
@@ -791,15 +791,15 @@ Liked this one better
 - [ ] 
 
 ## Active Pages (Hotlist)
-- [[Insulin Resistance — MOC]]
-- [[Vitamin D — Hub]]
-- [[Patient Education Leaflet]]
+- 
+- 
+- 
 
 ## Inbox (to process)
-- [[Inbox]]
+- 
 
 ---
-**Rules**: Concepts = `[[links]]`; Status/Type = `#tags`; Grow via small daily notes.
+**Rules**: Concepts = ``; Status/Type = `#tags`; Grow via small daily notes.
 #index #home
 
 ---
@@ -816,14 +816,14 @@ Here’s the **final optimised copy-paste version** for your vault:
 > Your entry gate. Keep it simple. Touch this note every day.
 
 ## Core Areas
-- [[Research]]
-- [[Clinical]]
-- [[Business]]
-- [[Personal]]
-- [[Meta]]
+- 
+- 
+- 
+- 
+- 
 
 ## Today
-- [[Daily — {{date}}]]  <!-- make or open today's daily note -->
+-   <!-- make or open today's daily note -->
 - 1 thing for Research:
 - 1 thing for Clinical:
 - 1 thing for Personal:
@@ -834,26 +834,26 @@ Here’s the **final optimised copy-paste version** for your vault:
 - [ ] 
 
 ## Active Pages (Hotlist)
-- [[Insulin Resistance — MOC]]
-- [[Vitamin D — Hub]]
-- [[Patient Education Leaflet]]
+- 
+- 
+- 
 
 ## Inbox (to process)
-- [[Inbox]]
+- 
 
 ---
-**Rules**: Concepts = [[links]]; Status/Type = #tags; Grow via small daily notes.
+**Rules**: Concepts = ; Status/Type = #tags; Grow via small daily notes.
 #index #home
 `‌`‌`
 
 ---
 
 📌 How to *use* it from Day 1:  
-1. Create `[[Research]]`, `[[Clinical]]`, `[[Business]]`, `[[Personal]]`, `[[Meta]]` as empty notes (just placeholders).  
-2. Each morning, update `[[Daily — {{date}}]]` to today’s date and click it → it will create/open your daily note.  
+1. Create ``, ``, ``, ``, `` as empty notes (just placeholders).  
+2. Each morning, update `` to today’s date and click it → it will create/open your daily note.  
 3. Drop ideas into **Quick Capture** as they come.  
 4. Keep 2–3 “hot projects” in **Active Pages** (swap them out as your focus shifts).  
-5. Anything that doesn’t fit yet → send it to `[[Inbox]]`.  
+5. Anything that doesn’t fit yet → send it to ``.  
 
 ---
 
@@ -888,8 +888,8 @@ Here’s a clean prototype you can copy into a Templater template or use manuall
 - [ ] 
 
 ## 🔗 Links Created Today
-- [[ ]] 
-- [[ ]]
+-  
+- 
 
 ## 🌙 Reflection
 - Wins: 
@@ -966,8 +966,8 @@ Perfect — automation will make this frictionless. In Obsidian you’ll want tw
 - [ ] 
 
 ## 🔗 Links Created Today
-- [[ ]] 
-- [[ ]]
+-  
+- 
 
 ## 🌙 Reflection
 - Wins: 
@@ -995,7 +995,7 @@ Perfect — automation will make this frictionless. In Obsidian you’ll want tw
 - Each morning, click **today’s date** in Calendar (or hit hotkey for “Open daily note”).  
 - Obsidian auto-creates `Daily — 2025-08-24.md` in your Daily folder.  
 - It comes pre-filled with your template.  
-- Your Home note already links to `[[Daily — {{date}}]]` → so they connect seamlessly.  
+- Your Home note already links to `` → so they connect seamlessly.  
 
 ---
 
@@ -1042,8 +1042,8 @@ Got it. **Only actions**, step-by-step:
    - [ ] 
 
    ## 🔗 Links Created Today
-   - [[ ]] 
-   - [[ ]]
+   -  
+   - 
 
    ## 🌙 Reflection
    - Wins: 
@@ -1061,7 +1061,7 @@ Got it. **Only actions**, step-by-step:
    - Use Command Palette: “**Open today’s daily note**” *(or click today in Calendar if installed)*.
 
 8. **Link it from Home (optional)**  
-   In `MindValley — Home`, under **Today**, set: `[[Daily — 2025-08-24]]` *(update the date when you want a clickable link there)*.
+   In `MindValley — Home`, under **Today**, set: `` *(update the date when you want a clickable link there)*.
 
 Done.
 
@@ -1079,7 +1079,7 @@ Correct — in the **Home note** the link is not automatic.
 It’s just a static link like:  
 
 `‌`‌`
-[[Daily — 2025-08-24]]
+
 `‌`‌`
 
 You update it each day (takes 5 seconds).  
@@ -1094,7 +1094,7 @@ You update it each day (takes 5 seconds).
 2. **Templater command (semi-automatic)**  
    Replace with:
    `‌`‌`
-   [[Daily — <% tp.date.now("YYYY-MM-DD") %>]]
+   
    `‌`‌`
    → When you refresh the note with Templater, it auto-updates to today’s date.  
 
@@ -1132,7 +1132,7 @@ We’ll do this with **Dataview** (the cleanest way).
 Replace this:
 `‌`‌`
 ## Today
-- [[Daily — {{date}}]]  <!-- make or open today's daily note -->
+-   <!-- make or open today's daily note -->
 - 1 thing for Research:
 - 1 thing for Clinical:
 - 1 thing for Personal:
@@ -1280,16 +1280,16 @@ Here’s the principle:
 You have two options:
 
 ### 1. **Categories as Notes (MOCs / hubs)**  
-- Each `[[Research]]`, `[[Clinical]]`, etc. is a **note**, not a folder.  
+- Each ``, ``, etc. is a **note**, not a folder.  
 - Inside, you curate links. Example:  
   `‌`‌`
   # Research
   ## Active Topics
-  - [[Insulin Resistance — MOC]]
-  - [[Vitamin D — Hub]]
+  - 
+  - 
   ## Literature Notes
-  - [[Paper — 2025 Vitamin D Trial]]
-  - [[Paper — Orotic Acid Dysregulation]]
+  - 
+  - 
   `‌`‌`
 - Think of them like “Wikipedia pages” for each domain.  
 - Advantage: maximum linking, flexibility.  
@@ -1329,7 +1329,7 @@ That way:
 ---
 
 # 🧭 How It Works from Home Note
-When you click `[[Research]]` from Home:  
+When you click `` from Home:  
 - It opens `Research.md` (the hub).  
 - That hub note links into everything in `/Research/`.  
 - You almost never need to touch the folder tree manually — but it’s there for backup organization.  
@@ -1462,14 +1462,14 @@ Here’s how you could make it even more reusable:
 - [ ] 500g γραβιέρα
 
 ## Notes
-- Linked market: [[Personal market]]
+- Linked market: 
 - Delivery day: 
 - Next update:
 `‌`‌`
 
 - ✅ Turned items into checkboxes → you can tick them off when ordering or buying.  
 - ✅ Added **Notes section** for things like delivery day or changes.  
-- ✅ Kept your link to `[[Personal market]]` for context.  
+- ✅ Kept your link to `` for context.  
 
 ---
 
@@ -1509,8 +1509,8 @@ Here’s the clean version you can drop into your `Templates/Daily Template.md` 
 - [ ] 
 
 ## 🔗 Links Created Today
-- [[ ]] 
-- [[ ]]
+-  
+- 
 
 ## 🌙 Reflection
 - Wins: 
@@ -2443,14 +2443,14 @@ Paste this into your Home note:
 `‌`‌``markdown
 ## Today
 
-[[<% tp.date.now("YYYY-MM-DD") %>]]
+
 `‌`‌``
 
 ---
 
 # 🔍 Why this works
 - `<% tp.date.now("YYYY-MM-DD") %>` → generates today’s date.  
-- Wrapped in `[[ ]]` → turns it into a clickable link.  
+- Wrapped in `` → turns it into a clickable link.  
 - Each time you open Home, Templater refreshes it to today’s file.  
 - If the note doesn’t exist yet, clicking it **creates the daily note automatically** (with your template).  
 
@@ -2461,10 +2461,10 @@ Paste this into your Home note:
 2. Run: **Templater → Refresh template** (command palette).  
 3. The line will update to:  
    `‌`‌`
-   [[2025-08-24]]
+   
    `‌`‌`  
    → Click it, and it opens today’s note.  
-4. Tomorrow, it will show `[[2025-08-25]]` after refresh.  
+4. Tomorrow, it will show `` after refresh.  
 
 ---
 
@@ -2500,13 +2500,13 @@ as plain text, instead of turning it into a **clickable link**.
 
 # ✅ Fix
 
-You just need to wrap it in `[[ ]]` so it becomes an Obsidian link.  
+You just need to wrap it in `` so it becomes an Obsidian link.  
 Here’s the exact block to paste:
 
 `‌`‌``markdown
 ## Today
 
-[[<% tp.date.now("YYYY-MM-DD") %>]]
+
 
 - 1 thing for PhD:
 - 1 thing for Idea:
@@ -2516,9 +2516,9 @@ Here’s the exact block to paste:
 ---
 
 # 🔍 How it works
-- `[[ … ]]` = tells Obsidian this is a **note link**.  
+- `` = tells Obsidian this is a **note link**.  
 - `<% tp.date.now("YYYY-MM-DD") %>` = Templater replaces it with today’s date.  
-- Combined → it becomes `[[2025-08-24]]`, clickable.  
+- Combined → it becomes ``, clickable.  
 - If the note exists, it opens it. If not, clicking creates it (with your Daily template).  
 
 ---
@@ -2550,7 +2550,7 @@ That’s why you still see
 `‌`‌`  
 instead of a clickable link like  
 `‌`‌`
-[[2025-08-24]]
+
 `‌`‌`  
 
 ---
@@ -2571,7 +2571,7 @@ Paste this into your Home note exactly:
 `‌`‌``markdown
 ## Today
 
-[[<% tp.date.now("YYYY-MM-DD") %>]]
+
 `‌`‌``
 
 ---
@@ -2580,10 +2580,10 @@ Paste this into your Home note exactly:
 - When you open your Home note, Templater runs.  
 - It converts that line into:  
   `‌`‌`
-  [[2025-08-24]]
+  
   `‌`‌`  
 - That’s a normal Obsidian link → click = opens your daily note.  
-- Tomorrow it will automatically show `[[2025-08-25]]`.  
+- Tomorrow it will automatically show ``.  
 
 ---
 
@@ -3109,8 +3109,8 @@ Anything important gets **promoted** into permanent notes, which then get linked
 
 ### 1. **Daily Note = Scratchpad**
 - You log *what you’re doing today*:  
-  - “Read: Paper on Vitamin D & Insulin Sensitivity → [[Vitamin D – 2021 Trial]]”  
-  - “PhD step: updated [[Insulin Resistance – Methodology Draft]]”  
+  - “Read: Paper on Vitamin D & Insulin Sensitivity → ”  
+  - “PhD step: updated ”  
 
 ---
 
@@ -3127,7 +3127,7 @@ Example:
 
 `‌`‌`
 ## 📖 Paper of the Day
-Read: [[Vitamin D – 2021 Trial]]
+Read: 
 Key idea: improved IR with 4000 IU/day
 `‌`‌`
 
@@ -3158,10 +3158,10 @@ SORT file.ctime DESC
 **Daily Note (2025-08-24):**
 `‌`‌`
 PhD Progress:
-→ Linked to [[Insulin Resistance – Draft 1]]
+→ Linked to 
 
 Paper of the Day:
-→ [[Vitamin D – 2021 Trial]]
+→ 
 `‌`‌`
 
 **Research/Vitamin D – 2021 Trial.md**
@@ -3239,7 +3239,7 @@ You’ll get something like:
 
 ## My Comments
 - Important for IR patients in clinic.  
-- Consider linking with [[Magnesium]] cofactor role.
+- Consider linking with  cofactor role.
 
 ## Reference
 @Smith2021
@@ -3250,8 +3250,8 @@ You’ll get something like:
 ### 4. Connect into Your System
 - Link it in your **Daily Note → Paper of the Day**.  
 - Add backlinks in relevant hubs:  
-  - `[[Vitamin D Hub]]`  
-  - `[[Insulin Resistance Hub]]`  
+  - ``  
+  - ``  
 
 So you always know: *what paper, what day, what cluster it belongs to*.  
 
@@ -3341,8 +3341,8 @@ To get **highlights + metadata + notes** from **Zotero → Obsidian**, you’ll 
 - "Optimal at 4000 IU/day."  
 
 ## My Comments
-- Relevant for [[Insulin Resistance Hub]].  
-- Cross-link with [[Magnesium cofactor role]].  
+- Relevant for .  
+- Cross-link with .  
 
 ## Reference
 @Smith2021
@@ -3445,6 +3445,6 @@ WHERE contains(text, "#expense")
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*
 
 ```

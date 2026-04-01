@@ -15,7 +15,7 @@ domain: 101
 tags: [litnote, adipate, dicarboxylic-acids, beta-oxidation, krebs-cycle, succinyl-coa]
 source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]]"
 status: extracted
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -173,9 +173,9 @@ Succinyl-CoA + GDP + Pi → Succinate + GTP + CoA
 - [[Urinary_Adipate_Interpretation_[Z-001-1199].md]] — To create
 
 **MOCs:**
-- [[MOC-Pharmacometabolomics]] — Primary domain
-- [[MOC-Mitochondrial-Function]] — β-oxidation
-- [[MOC-Krebs-Cycle]] — Energy metabolism
+-  — Primary domain
+-  — β-oxidation
+-  — Energy metabolism
 
 **LitNotes:**
 - [[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]] — Formation pathway

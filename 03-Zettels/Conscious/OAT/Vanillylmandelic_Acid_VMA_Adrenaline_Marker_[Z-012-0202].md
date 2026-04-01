@@ -5,7 +5,7 @@ title: VMA — Vanillylmandelic Acid, Adrenaline Metabolite
 aliases: [Z-012-0202, VMA, Vanillylmandelic-Acid, Adrenaline, Noradrenaline, Catecholamine]
 domain: 012
 tags: [zettel, biomarker, vma, adrenaline, noradrenaline, catecholamine, oat]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

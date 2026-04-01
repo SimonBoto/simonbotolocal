@@ -6,7 +6,7 @@ aliases: [Z-002-0602, ethics-validity]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, methodology, emmanuel-seven]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]"
 confidence: high
 created: 2026-03-27
@@ -14,7 +14,7 @@ created: 2026-03-27
 
 # Scientific Validity as Ethical Requirement
 
-Poorly designed [[KEYWORD-Research|research]] that cannot yield reliable knowledge is unethical. Methodological rigor is not merely a scientific preference—it is an ethical obligation to participants who accept risk.
+Poorly designed  that cannot yield reliable knowledge is unethical. Methodological rigor is not merely a scientific preference—it is an ethical obligation to participants who accept risk.
 
 **Core principle:** Invalid research wastes resources and exploits participants by exposing them to risk without compensatory benefit to society.
 
@@ -24,7 +24,7 @@ Poorly designed [[KEYWORD-Research|research]] that cannot yield reliable knowled
 |---------|-------------|
 | **Design appropriateness** | Method matches research question |
 | **Statistical power** | Sample size adequate to detect effect |
-| **Outcome measures** | Valid, reliable, [[KEYWORD-Clinical|clinical]]ly relevant |
+| **Outcome measures** | Valid, reliable, ly relevant |
 | **Control conditions** | Appropriate comparison groups |
 | **Analysis plan** | Pre-specified, statistically sound |
 
@@ -40,13 +40,13 @@ Poorly designed [[KEYWORD-Research|research]] that cannot yield reliable knowled
 
 METHAP protocol must demonstrate:
 - **Power calculation:** Adequate N to detect adipic acid-IR correlation
-- **Validated [[KEYWORD-Metabolomics|metabolomics]]:** LC-MS/MS methods with known precision/accuracy
+- **Validated :** LC-MS/MS methods with known precision/accuracy
 - **Appropriate controls:** Healthy vs. prediabetic vs. diabetic comparison
 - **Pre-specified analysis:** Statistical plan defined before data collection
 
 ## Links
 
-**Parent MOC:** [[MOC-Research-Ethics]]  
+**Parent MOC:**   
 **Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]  
 **Related:** [[Social_Clinical_Value_Ethical_Research_[Z-002-0601].md]] — Value requirement
 
@@ -56,4 +56,4 @@ METHAP protocol must demonstrate:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

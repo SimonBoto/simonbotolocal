@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Foundational terminology for metabolomics training; 66 terms organized by clinical domain
 status: extracted
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -97,9 +97,9 @@ For first patient contact:
 7. [[Patient_Communication_Core_Concepts_[Z-001-1047].md]] — Patient-facing subset
 
 ## Related References
-- [[MOC-Metabolomics-Training]] — Curriculum context
-- [[MOC-Vitamin-D-Metabolism]] — Specific term domain
-- [[MOC-Insulin-Resistance]] — Specific term domain
+-  — Curriculum context
+-  — Specific term domain
+-  — Specific term domain
 
 ---
 

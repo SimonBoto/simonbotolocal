@@ -5,17 +5,17 @@ title: Magnesium and Vascular Calcification Prevention
 aliases: [Mg-Vascular-Calcification, Magnesium-Arteries, Mg-K2-Synergy]
 domain: 001
 tags: [zettel, magnesium, vascular-calcification, arteries, MGP, K2, synergy]
-parent-moc: [[MOC-Cardiovascular-Health]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Magnesium|magnesium]] and Vascular Calcification Prevention
+#  and Vascular Calcification Prevention
 
-> Magnesium functions as a natural inhibitor of vascular calcification, competing with calcium for deposition in arterial walls and supporting Matrix Gla Protein function, with synergistic effects when combined with [[KEYWORD-Vitamin_K2|vitamin k2]].
+> Magnesium functions as a natural inhibitor of vascular calcification, competing with calcium for deposition in arterial walls and supporting Matrix Gla Protein function, with synergistic effects when combined with .
 
-## [[KEYWORD-Mechanism|mechanism]]s of Calcification Inhibition
+## s of Calcification Inhibition
 
 ### 1. Direct Calcium Antagonism
 **Competitive Inhibition:**
@@ -168,6 +168,6 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

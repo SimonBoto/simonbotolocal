@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Glycogenic/ketogenic amino acids, Krebs entry points, alpha-keto acids, transamination, cofactors
 status: extracted
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -71,8 +71,8 @@ Krebs cycle entry points
 5. [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_[Z-001-1101].md]]
 
 ## Related References
-- [[MOC-Amino-Acid-Metabolism]]
-- [[MOC-Krebs-Cycle]]
+- 
+- 
 - [[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052].md]]
 
 ---

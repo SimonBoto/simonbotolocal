@@ -8,7 +8,7 @@ journal: Historical/nutritional analysis
 tier: 3
 relevance: Low-Medium — Cultural nutrition history; sanitarium movement
 status: extracted
-parent-moc: [[MOC-Nutrition]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 

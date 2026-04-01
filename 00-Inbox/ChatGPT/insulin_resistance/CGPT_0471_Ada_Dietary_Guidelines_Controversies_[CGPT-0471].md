@@ -677,4 +677,4 @@ Famous Seventh-day Adventists include Dr. John Harvey Kellogg, known for his con
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

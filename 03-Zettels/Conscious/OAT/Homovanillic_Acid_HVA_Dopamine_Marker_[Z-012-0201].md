@@ -5,7 +5,7 @@ title: HVA — Homovanillic Acid, Dopamine Metabolite
 aliases: [Z-012-0201, HVA, Homovanillic-Acid, Dopamine, Neurotransmitter]
 domain: 012
 tags: [zettel, biomarker, hva, dopamine, neurotransmitter, oat]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

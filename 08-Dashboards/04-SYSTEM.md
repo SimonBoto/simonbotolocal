@@ -4,7 +4,7 @@ type: index
 title: "04-SYSTEM — Integration Status"
 aliases: [SYSTEM, Status, Integrations]
 tags: [system, dashboard, integrations]
-parent-moc: [[08-Dashboards/START_HERE]]
+parent-moc: 
 status: active
 confidence: high
 extraction-date: 2026-02-22

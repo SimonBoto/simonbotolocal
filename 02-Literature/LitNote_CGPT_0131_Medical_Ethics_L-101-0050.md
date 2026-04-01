@@ -9,7 +9,7 @@ pmid: N/A
 tier: 2
 relevance: High — Research ethics fundamentals, IRB preparation, historical context
 status: extracted
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 extraction-date: 2026-03-28
 ---
 

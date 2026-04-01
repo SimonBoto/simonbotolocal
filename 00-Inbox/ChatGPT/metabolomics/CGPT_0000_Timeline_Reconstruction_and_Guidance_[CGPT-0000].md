@@ -1247,4 +1247,4 @@ Tell me that and I’ll give you the exact optimization for that specific setup.
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

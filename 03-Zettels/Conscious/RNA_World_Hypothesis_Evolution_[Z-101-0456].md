@@ -5,7 +5,7 @@ title: RNA World Hypothesis and Early Evolution
 aliases: [Z-101-0456, rna-world, ribozymes, origin-life]
 domain: 101
 tags: [zettel, rna-world, evolution, ribozymes, prebiotic, genetic-material]
-parent-moc: [[MOC-Origins-of-Life]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-101-0045B]]
@@ -40,7 +40,7 @@ Early life relied on **RNA as both genetic material AND catalyst** (ribozymes), 
 - Better for long-term storage
 
 **Advantages of proteins:**
-- 20 [[KEYWORD-Amino_Acids|amino acids]] vs 4 nucleotides → more catalytic diversity
+- 20  vs 4 nucleotides → more catalytic diversity
 - Better catalytic efficiency
 
 ## Timeline
@@ -49,7 +49,7 @@ Early life relied on **RNA as both genetic material AND catalyst** (ribozymes), 
 - DNA/protein takeover: Gradual transition
 
 ## Related
-- [[HCN_Polymerization_Adenine_[[KEYWORD-Mechanism|mechanism]]_[Z-101-0454]]] HCN Polymerization (adenine source)
+- _[Z-101-0454]]] HCN Polymerization (adenine source)
 - [[Meteoritic_Nucleobases_Panspermia_[Z-101-0455]]] Meteoritic Nucleobases
 - [[Ribose_Structure_RNA_Backbone_[Z-001-0458]]] Ribose Biosynthesis (RNA backbone)
 

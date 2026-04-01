@@ -6,7 +6,7 @@ aliases: [Z-001-1097, AA-Classification]
 domain: 001
 domain-name: Amino Acid Metabolism
 tags: [zettel, amino-acids, glycogenic, ketogenic, classification]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
 source: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Glycogenic Ketogenic Amino Acid Classification
 
 ## Overview
-Amino acids are classified by their metabolic fate: glycogenic (can be converted to glucose) or ketogenic (can be converted to ketones/[[KEYWORD-Fatty_Acids|fatty acids]]).
+Amino acids are classified by their metabolic fate: glycogenic (can be converted to glucose) or ketogenic (can be converted to ketones/).
 
 ## The Two Categories
 
@@ -78,7 +78,7 @@ Amino acids are classified by their metabolic fate: glycogenic (can be converted
 ## Related
 - [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_[Z-001-1101].md]]
 - [[Amino_Acid_Krebs_Entry_Points_Map_[Z-001-1098].md]]
-- [[MOC-Amino-Acid-[[KEYWORD-Metabolism|metabolism]]]]
+- 
 
 ---
-*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*
+*Source: CGPT-0445 — Advanced *

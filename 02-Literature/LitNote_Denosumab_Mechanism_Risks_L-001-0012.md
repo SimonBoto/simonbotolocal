@@ -8,7 +8,7 @@ journal: Lancet Diabetes Endocrinol / Internal synthesis
 tier: 1
 relevance: High — Critical safety knowledge for clinical practice
 status: extracted
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -81,8 +81,8 @@ extraction-date: 2026-03-01
 ## Related References
 - [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]] — RANK/RANKL biology
 - [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]] — Nutritional adjuncts
-- [[MOC-Bone-Health]] — Parent MOC
-- [[MOC-Clinical-Protocols]] — Discontinuation protocol
+-  — Parent MOC
+-  — Discontinuation protocol
 
 ---
 

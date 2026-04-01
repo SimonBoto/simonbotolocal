@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: Practical clinical assessment framework for CKD nutrition
 status: extracted
-parent-moc: [[MOC-Chronic-Kidney-Disease]]
+parent-moc: 
 extraction-date: 2026-03-07
 domain: 001
 ---

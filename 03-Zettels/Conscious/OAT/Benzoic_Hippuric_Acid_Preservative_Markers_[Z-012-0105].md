@@ -5,7 +5,7 @@ title: Benzoic & Hippuric Acids — Preservative & Gut Markers
 aliases: [Z-012-0105, Benzoic-Acid, Hippuric-Acid, Preservative, Gut, SIBO]
 domain: 012
 tags: [zettel, biomarker, benzoic, hippuric, preservative, gut, sibo]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

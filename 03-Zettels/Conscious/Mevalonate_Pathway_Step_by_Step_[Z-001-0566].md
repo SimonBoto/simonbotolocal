@@ -6,7 +6,7 @@ aliases: [Z-001-0566, Cholesterol Synthesis, HMG-CoA Pathway, Acetyl-CoA to IPP]
 domain: 001
 domain-name: Lipid Metabolism
 tags: [zettel, mevalonate-pathway, cholesterol, hmg-coa, acetyl-coa, biochemistry, enzymes]
-parent-moc: [[MOC-Cholesterol-Quality]]
+parent-moc: 
 source: "[[LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518]]"
 confidence: high
 created: 2026-03-03
@@ -135,8 +135,8 @@ Once IPP is formed, it can become:
 
 | Product | IPP Units | Function |
 |---------|-----------|----------|
-| **Cholesterol** | 6 (modified) | Membranes, hormones, [[KEYWORD-Vitamin_D|vitamin d]] |
-| **CoQ10** | 10 | [[KEYWORD-Mitochondria|mitochondria]]l electron transport |
+| **Cholesterol** | 6 (modified) | Membranes, hormones,  |
+| **CoQ10** | 10 | l electron transport |
 | **Dolichol** | 20 | Protein glycosylation |
 | **Heme A** | Modified | Cytochrome c oxidase |
 | **Steroid hormones** | From cholesterol | Signaling |
@@ -145,7 +145,7 @@ Once IPP is formed, it can become:
 
 ## Clinical Relevance
 
-### Statin [[KEYWORD-Mechanism|mechanism]]
+### Statin 
 - Statins **block Step 3** (HMG-CoA reductase)
 - Result: Lower mevalonate → less cholesterol
 - **But also:** Less CoQ10, less dolichol → side effects

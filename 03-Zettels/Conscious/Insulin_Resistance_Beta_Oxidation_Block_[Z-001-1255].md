@@ -5,20 +5,20 @@ title: Insulin Resistance Beta-Oxidation Block — The Paradox of High FFAs but 
 aliases: [Z-001-1255]
 domain: 001
 tags: [zettel, insulin-resistance, beta-oxidation, lipotoxicity, fatty-acids, metabolic-inflexibility]
-parent-moc: "[[MOC-Insulin-Resistance]], [[MOC-Lipid-Metabolism]]"
+parent-moc: ", "
 source-litnote: "[[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]]"
 status: conscious
 ---
 
-# [[KEYWORD-Insulin|insulin]] Resistance Beta-Oxidation Block
+#  Resistance Beta-Oxidation Block
 
-[[KEYWORD-Insulin_Resistance|insulin resistance]] creates a **metabolic paradox:** Elevated circulating free fatty acids (FFAs) coexist with **impaired beta-oxidation capacity**, leading to lipotoxicity and metabolic dysfunction.
+ creates a **metabolic paradox:** Elevated circulating free fatty acids (FFAs) coexist with **impaired beta-oxidation capacity**, leading to lipotoxicity and metabolic dysfunction.
 
 ---
 
 ## The Paradox Explained
 
-### In Healthy [[KEYWORD-Metabolism|metabolism]]
+### In Healthy 
 ```
 Low Insulin → Lipolysis Active → FFAs Released → Beta-Oxidation Active
                (adipose)         (circulation)      (liver, muscle, heart)

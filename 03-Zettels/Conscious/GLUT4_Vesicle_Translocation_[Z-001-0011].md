@@ -7,17 +7,17 @@ aliases: [Z-001-0011, GLUT4, GLUT4_Translocation]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, mechanism, GLUT4, glucose, transport, vesicle]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[Ref_Cell_IR_Mechanisms_2012]]
+parent-moc: 
+source: 
 confidence: high
 created: 2026-02-22
 ---
 
 # GLUT4 Vesicle Translocation
 
-[[KEYWORD-Insulin|insulin]] stimulates glucose uptake by triggering GLUT4 vesicle translocation to the plasma membrane in muscle and adipose tissue.
+ stimulates glucose uptake by triggering GLUT4 vesicle translocation to the plasma membrane in muscle and adipose tissue.
 
-**[[KEYWORD-Mechanism|mechanism]]:**
+**:**
 1. Akt phosphorylates AS160 (Akt substrate of 160 kDa) at multiple sites
 2. Phosphorylated AS160 loses GAP activity for Rab proteins
 3. Active Rab proteins promote GLUT4 vesicle trafficking
@@ -39,6 +39,6 @@ created: 2026-02-22
 
 ## Context
 
-**Also in:** [[MOC-Insulin-Signaling]]
+**Also in:** 
 
 **Rate-limiting step:** GLUT4 translocation is the bottleneck for glucose uptake

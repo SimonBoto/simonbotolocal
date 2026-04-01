@@ -5,15 +5,15 @@ title: Combined Mitochondrial Intervention Strategy
 aliases: [Mitochondrial-Strategy, Diet-Exercise-Supplements, Triad-Approach]
 domain: 001
 tags: [zettel, mitochondrial-strategy, diet, exercise, supplements]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]]
 extraction-date: 2026-03-01
 ---
 
-# Combined [[KEYWORD-Mitochondria|mitochondria]]l Intervention Strategy
+# Combined l Intervention Strategy
 
-> Optimal [[KEYWORD-Mitochondria|mitochondrial]] restoration requires multi-modal approach: diet, exercise, and targeted supplementation guided by [[KEYWORD-Metabolomics|metabolomics]].
+> Optimal  restoration requires multi-modal approach: diet, exercise, and targeted supplementation guided by .
 
 ## The Triad
 
@@ -53,6 +53,6 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

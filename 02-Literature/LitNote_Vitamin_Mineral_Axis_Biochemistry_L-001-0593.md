@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Vitamin D/PTH/Ca/Mg/K2 axis, micronutrient cofactors, deficiency patterns
 status: extracted
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -79,8 +79,8 @@ extraction-date: 2026-03-08
 6. [[Gut_Microbiome_OAT_Markers_[Z-001-1064].md]] — Gut markers
 
 ## Related References
-- [[MOC-Vitamin-D-Metabolism]]
-- [[MOC-Methylation-One-Carbon]]
+- 
+- 
 - [[Microbiome_Gut_Brain_Terminology_[Z-001-1045].md]]
 
 ---

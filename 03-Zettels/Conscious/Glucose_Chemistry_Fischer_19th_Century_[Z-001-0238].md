@@ -5,7 +5,7 @@ title: Glucose Chemistry — Emil Fischer and 19th Century Structure
 aliases: [Fischer, Glucose-Stereochemistry, Carbohydrate-Chemistry]
 domain: 001
 tags: [zettel, glucose, chemistry, fischer, stereochemistry, nobel]
-parent-moc: [[MOC-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Glucose_History_L-001-0208]]
 extraction-date: 2026-03-01
@@ -64,7 +64,7 @@ extraction-date: 2026-03-01
 - Stereochemistry explains specificity
 - Basis for enzyme-substrate interactions
 
-**[[KEYWORD-Metabolism|metabolism]] Understanding:**
+** Understanding:**
 - Glycolysis pathways mapped
 - Structural basis for metabolic regulation
 - Drug design applications
@@ -72,7 +72,7 @@ extraction-date: 2026-03-01
 ## Connection to Diabetes
 
 **Precise Understanding:**
-- Exact structure enabled [[KEYWORD-Insulin|insulin]] [[KEYWORD-Mechanism|mechanism]] studies
+- Exact structure enabled   studies
 - Glucose measurement methods developed
 - Understanding of metabolic pathways
 
@@ -87,6 +87,6 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

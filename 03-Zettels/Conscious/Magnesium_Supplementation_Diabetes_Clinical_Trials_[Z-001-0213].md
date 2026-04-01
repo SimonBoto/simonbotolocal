@@ -5,15 +5,15 @@ title: Magnesium Supplementation — Clinical Trials in Diabetes and Metabolic S
 aliases: [Mg-Supplementation-Trials, Magnesium-Clinical-Trials, Mg-Intervention]
 domain: 001
 tags: [zettel, magnesium, clinical-trials, supplementation, diabetes, metabolic-syndrome]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Magnesium|magnesium]] Supplementation — Clinical Trials in [[KEYWORD-Diabetes|diabetes]] and Metabolic Syndrome
+#  Supplementation — Clinical Trials in  and Metabolic Syndrome
 
-> Randomized controlled trials demonstrate that magnesium supplementation improves [[KEYWORD-Insulin|insulin]] sensitivity, reduces inflammatory markers, and may improve glycemic control, particularly in magnesium-deficient individuals.
+> Randomized controlled trials demonstrate that magnesium supplementation improves  sensitivity, reduces inflammatory markers, and may improve glycemic control, particularly in magnesium-deficient individuals.
 
 ## Meta-Analysis Results
 

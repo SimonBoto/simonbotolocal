@@ -5,7 +5,7 @@ title: Seed Oil Refining Process — Degumming, Bleaching, Deodorizing
 aliases: [Z-001-0956]
 domain: 001
 tags: [zettel, seed-oils, refining, degumming, bleaching, deodorizing, rbd, high-heat, conscious]
-parent-moc: [[MOC-Industrial-Processing]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]]
 status: conscious
@@ -52,7 +52,7 @@ RBD Oil — neutral, stable, depleted
 
 ## Step 2: Neutralization (Alkali Refining)
 
-**Purpose:** Remove free [[KEYWORD-Fatty_Acids|fatty acids]] (FFAs) that cause rancidity
+**Purpose:** Remove free  (FFAs) that cause rancidity
 
 **Process:**
 - **Sodium hydroxide (lye)** solution mixed with oil
@@ -125,9 +125,9 @@ RBD Oil — neutral, stable, depleted
 
 **Toxin Formation:**
 
-| Compound | Formation [[KEYWORD-Mechanism|mechanism]] | Health Concern |
+| Compound | Formation  | Health Concern |
 |----------|---------------------|----------------|
-| **Trans fats** | Partial isomerization of cis bonds | CVD risk, [[KEYWORD-Inflammation|inflammation]] |
+| **Trans fats** | Partial isomerization of cis bonds | CVD risk,  |
 | **GE (Glycidyl Esters)** | From diacylglycerols at high heat | Potential carcinogen |
 | **3-MCPD esters** | From chlorides + heat | Kidney toxicity, carcinogen? |
 | **Oxidized monomers** | Thermal oxidation | Unknown long-term effects |

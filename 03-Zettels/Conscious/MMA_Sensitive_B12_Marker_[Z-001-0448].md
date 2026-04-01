@@ -5,7 +5,7 @@ title: MMA — The Sensitive B12 Marker
 aliases: [MMA, Methylmalonic-Acid, Sensitive, Specific]
 domain: 001
 tags: [zettel, mma, methylmalonic-acid, sensitive, b12]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]]
 extraction-date: 2026-03-01
@@ -30,12 +30,12 @@ extraction-date: 2026-03-01
 - Early indicator of deficiency
 
 **Specific for B12:**
-- Not affected by [[KEYWORD-Folate|folate]] status
+- Not affected by  status
 - Differentiates from folate deficiency
 
 **Functional Marker:**
 - Reflects tissue status
-- Cellular/[[KEYWORD-Mitochondria|mitochondria]]l B12
+- Cellular/l B12
 
 ## When to Use
 
@@ -44,7 +44,7 @@ extraction-date: 2026-03-01
 - Confirming deficiency
 - Monitoring treatment
 
-## [[KEYWORD-Clinical|clinical]] Pearl
+##  Pearl
 
 **Elevated MMA + Normal B12 =** Functional deficiency, tissue deficiency
 
@@ -54,5 +54,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Clinical_Assessment_B12_Status_MMA_[Z-001-0441]|Z-001-0441]]

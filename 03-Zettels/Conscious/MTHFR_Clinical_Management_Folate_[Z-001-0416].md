@@ -5,13 +5,13 @@ title: MTHFR Clinical Management and Folate
 aliases: [MTHFR-Management, Methylfolate, Folate-Requirements]
 domain: 001
 tags: [zettel, mthfr, management, methylfolate, folate]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]]
 extraction-date: 2026-03-01
 ---
 
-# MTHFR [[KEYWORD-Clinical|clinical]] Management and [[KEYWORD-Folate|folate]]
+# MTHFR  Management and 
 
 > MTHFR polymorphisms increase folate requirements and necessitate using 5-methyltetrahydrofolate (methylfolate) rather than folic acid, as methylfolate bypasses the impaired MTHFR enzyme.
 
@@ -59,7 +59,7 @@ extraction-date: 2026-03-01
 - Use methylfolate not folic acid
 - Higher dose if variants common
 - Consider genotyping participants
-- Optimize [[KEYWORD-Methylation|methylation]] for all genotypes
+- Optimize  for all genotypes
 
 ---
 
@@ -67,5 +67,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Folate_5MTHF_vs_Folic_Acid_[Z-004-0002]|Z-004-0002]]

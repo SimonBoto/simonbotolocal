@@ -4,7 +4,7 @@ type: zettel
 title: T-Cell Receptor Repertoire Restriction in Autoimmunity
 domain: 001
 tags: [zettel, tcr, repertoire, clonality, autoimmunity, oligoclonal]
-parent-moc: [[MOC-Autoimmunity]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]]"
 status: conscious
@@ -35,7 +35,7 @@ status: conscious
 - Loss of diversity
 - Restricted TCR usage
 
-**[[KEYWORD-Mechanism|mechanism]]:**
+**:**
 ```
 Self-Antigen Recognition
       ↓
@@ -53,7 +53,7 @@ Reduced Repertoire Diversity
 **Autoreactive Clones:**
 - Expanded clones often autoreactive
 - Persist despite regulation attempts
-- Drive chronic [[KEYWORD-Inflammation|inflammation]]
+- Drive chronic 
 
 **Infection Susceptibility:**
 - Limited response to novel pathogens
@@ -90,7 +90,7 @@ Reduced Repertoire Diversity
 - Persistent over years
 
 ### Type 1 Diabetes
-- [[KEYWORD-Insulin|insulin]]-specific TCRs
+- -specific TCRs
 - Proinsulin-reactive clones
 - Early in disease process
 

@@ -5,15 +5,15 @@ title: Magnesium and Insulin Resistance — Mechanistic Connection
 aliases: [Mg-Insulin-Resistance, Magnesium-IR-Mechanisms]
 domain: 001
 tags: [zettel, magnesium, insulin-resistance, mechanisms, GLUT4, signaling]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]]
 extraction-date: 2026-03-01
 ---
 
-# Magnesium and [[KEYWORD-Insulin|insulin]] Resistance — Mechanistic Connection
+# Magnesium and  Resistance — Mechanistic Connection
 
-> Magnesium deficiency and [[KEYWORD-Insulin_Resistance|insulin resistance]] form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
 
 ## How Low Magnesium Causes Insulin Resistance
 
@@ -48,7 +48,7 @@ extraction-date: 2026-03-01
 - Glycogen synthase kinase-3 (GSK-3) regulated by Mg
 - Impaired glycogen storage in Mg deficiency
 
-### 4. [[KEYWORD-Inflammation|inflammation]] and Oxidative Stress
+### 4.  and Oxidative Stress
 **Pro-Inflammatory State:**
 - Low Mg increases TNF-α, IL-6, CRP
 - Cytokines induce insulin resistance (serine phosphorylation of IRS-1)
@@ -109,4 +109,4 @@ Mg Deficiency → Insulin Resistance
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

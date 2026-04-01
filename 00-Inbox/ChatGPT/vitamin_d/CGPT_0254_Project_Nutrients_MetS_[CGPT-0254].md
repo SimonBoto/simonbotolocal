@@ -2290,13 +2290,13 @@ Pasquali, R., Vicennati, V., Cacciari, M., & Pagotto, U. (2006). The hypothalami
  
 **Moreover, decreased total and free testosterone and SHBG have been asscoiated with metabolic syndrome, with men in the lower third being over 2 times more likely to have metabolic syndrome, even after adjusting for BMI.** 
  
-[[@laaksoHowGoodMarker1993]]
+
 
 **Individuals with thyroid dysfunction (hyporthyroidism adn hyperthyroxinemia) have increased prevalence and incidence of diabete.** 
 
 **This may seem contradictory, but can be explained by resistance to thyroid hormones, widely associated with obesity, metabolic syndrome and diabetes-related mortality.** 
 
-[[@laclaustraImpairedSensitivityThyroid2019]]
+
 
 **In individuals with resistance to thyroid hormones both TSH and the T3 and T4 are elevated.** 
 
@@ -2308,7 +2308,7 @@ Dimitriadis GD, Raptis SA. Thyroid hormone excess and glucose intolerance. Exp C
 
 **Overall, it has been found that even in normothyroid individuals, higher values of thyroid hormones are associated with the components of Metabolic Syndrome.** 
 
-[[@laclaustraImpairedSensitivityThyroid2019]]
+
 
 ---
 
@@ -3008,7 +3008,7 @@ Mottillo, S., Filion, K. B., Genest, J., Joseph, L., Pilote, L., Poirier, P., Ri
 
 ### NAFLD 
 
-[[Df NAFLD]]
+
 **Non-Alcoholic Fatty Liver Disease (NAFLD) is characterized by the presenece of fat in the liver (>5-10%), which is not associated with other causes of steatosis, such as alcohol, virused, drugs, toxins, autoimmune disease or iron oveload, and is commonly accompanied by insulin resistance.**  
 
  Chalasani, N.; Younossi, Z.; LaVine, J.E.; Diehl, A.M.; Brunt, E.M.; Cusi, K.; Charlton, M.; Sanyal, A.J. The diagnosis and management of non-alcoholic fatty liver disease: Practice Guideline by the American Association for the Study of Liver Diseases, American College of Gastroenterology, and the American Gastroenterological Association. Hepatology 2012, 55, 2005–2023. [CrossRef] 
@@ -3023,7 +3023,7 @@ Radu, F., Potcovaru, C.-G., Salmen, T., Filip, P. V., Pop, C., & Fierbințeanu-B
  Charlton, M.R.; Burns, J.M.; Pedersen, R.A.; Watt, K.D.; Heimbach, J.K.; Dierkhising, R.A. Frequency and Outcomes of Liver Transplantation for Nonalcoholic Steatohepatitis in the United States. Gastroenterology 2011, 141, 1249–1253. [CrossRef]” Yellow Highlight [Page 11](zotero://open-pdf/library/items/I3K2TRVH?page=11&annotation=I883D5XR)
 
 
-**[[NAFLD]] can range from simple fatty inflitration without inflammation (NAFLD), to fat and inflammation (NASH), to cirrhosis, and may even progress to end-stage liver disease (ESLD) or Hepatocellular Carcinoma (HCC).** 
+** can range from simple fatty inflitration without inflammation (NAFLD), to fat and inflammation (NASH), to cirrhosis, and may even progress to end-stage liver disease (ESLD) or Hepatocellular Carcinoma (HCC).** 
 
 
 Browning, J.D.; Szczepaniak, L.S.; Dobbins, R.; Nuremberg, P.; Horton, J.D.; Cohen, J.C.; Grundy, S.M.; Hobbs, H.H. Prevalence of hepatic steatosis in an urban population in the United States: Impact of ethnicity. Hepatology 2004, 40, 1387–1395. [CrossRef]
@@ -4240,4 +4240,4 @@ By elaborating on these points, your review can offer a comprehensive, nuanced, 
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

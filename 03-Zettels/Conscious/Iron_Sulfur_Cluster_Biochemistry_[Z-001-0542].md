@@ -5,13 +5,13 @@ title: Iron-Sulfur Cluster Biochemistry
 aliases: [Fe-S-Cluster, 4Fe-4S, Iron-Sulfur, Cubane]
 domain: 001
 tags: [zettel, fe-s-cluster, iron-sulfur, 4fe4s, biochemistry]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]]
 extraction-date: 2026-03-01
 ---
 
-# Iron-Sulfur Cluster [[KEYWORD-Bio[[KEYWORD-Chemistry|chemistry]]|biochemistry]]
+# Iron-Sulfur Cluster |biochemistry]]
 
 > Aconitase requires a [4Fe-4S]²⁺ iron-sulfur cluster for catalytic activity, with Feₐ coordinating substrate and mediating Lewis acid catalysis.
 
@@ -40,7 +40,7 @@ extraction-date: 2026-03-01
 - **Redox active:** Fe²⁺/Fe³⁺
 - **Lewis acid:** Accepts electrons
 - **Flexible:** Binds various substrates
-- **Ancient:** Pre-oxygen Earth [[KEYWORD-Evolution|evolution]]
+- **Ancient:** Pre-oxygen Earth 
 
 ---
 
@@ -48,4 +48,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

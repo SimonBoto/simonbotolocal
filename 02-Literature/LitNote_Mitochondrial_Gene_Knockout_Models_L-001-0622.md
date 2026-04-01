@@ -15,7 +15,7 @@ domain: 001
 tags: [litnote, mitochondria, knockout, mtDNA, oxidative-phosphorylation, disease-models]
 source: "[[CGPT_0311_Self_Education_Program_Plan_[CGPT-0311]]]"
 status: extracted
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -205,10 +205,10 @@ extraction-date: 2026-03-08
 - [[Respiratory_Chain_Complex_Deficiencies_[Z-001-1169].md]] — To create
 
 **MOCs:**
-- [[MOC-Mitochondrial-Function]] — Primary domain
-- [[MOC-Cancer-Metabolism]] — mtDNA mutations
-- [[MOC-Metabolic-Syndrome]] — Energy dysfunction
-- [[MOC-Neurology]] — Neurodegeneration models
+-  — Primary domain
+-  — mtDNA mutations
+-  — Energy dysfunction
+-  — Neurodegeneration models
 
 **LitNotes:**
 - [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]] — Partial overlap

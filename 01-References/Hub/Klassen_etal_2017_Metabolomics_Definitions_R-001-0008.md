@@ -13,7 +13,7 @@ status: ref
 confidence: high
 aliases: [R-001-0008, Klassen_2017_Metabolomics_Definitions]
 tags: [ref, metabolomics, definitions, systems-biology, textbook-chapter]
-parent-moc: [[MOC-References]]
+parent-moc: 
 source-type: book-chapter
 extraction-date: 2026-02-23
 ---

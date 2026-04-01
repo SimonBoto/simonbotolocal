@@ -5,13 +5,13 @@ title: Oleic Acid — Biochemistry and Metabolic Properties
 aliases: [Oleic-Acid, Omega-9, Monounsaturated-Fat]
 domain: 001
 tags: [zettel, oleic-acid, omega-9, biochemistry, stability]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]
 extraction-date: 2026-03-01
 ---
 
-# Oleic Acid — [[KEYWORD-Biochemistry|biochemistry]] and Metabolic Properties
+# Oleic Acid —  and Metabolic Properties
 
 > Oleic acid (18:1, omega-9) offers unique metabolic stability through its single double bond, optimal membrane incorporation, and direct genomic signaling effects.
 
@@ -55,12 +55,12 @@ extraction-date: 2026-03-01
 - PPAR activation
 - SREBP regulation
 - Anti-inflammatory gene programs
-- [[KEYWORD-Insulin|insulin]] signaling enhancement
+-  signaling enhancement
 
 ---
 
-*Source: [[LitNote_Oleic_Acid_[[KEYWORD-Clinical|clinical]]_L-001-0506]]*
+*Source: _L-001-0506]]*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

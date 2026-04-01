@@ -5,7 +5,7 @@ title: "Inherited Metabolic Diseases & Newborn Screening Paradigm"
 aliases: [Z-001-0024, IMD_Newborn_Screening, Metabolic_Diagnosis_Precedent]
 domain: 001
 tags: [zettel, inherited-metabolic-diseases, newborn-screening, diagnosis, metabolomics, precedent, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]]
 status: conscious
@@ -15,12 +15,12 @@ source-litnote: Synthesized from clinical practice
 # Inherited Metabolic Diseases & Newborn Screening Paradigm
 
 ## Core Claim
-**Newborn screening for 49 inherited metabolic diseases via [[KEYWORD-Metabolomics|metabolomics]] establishes the precedent for metabolite-based diagnosis** — validating that enzymatic dysfunction → metabolite accumulation → pattern recognition → disease diagnosis.
+**Newborn screening for 49 inherited metabolic diseases via  establishes the precedent for metabolite-based diagnosis** — validating that enzymatic dysfunction → metabolite accumulation → pattern recognition → disease diagnosis.
 
 ## Historical Foundation
 
 ### Sir Archibald E. Garrod (1908)
-- First described inborn errors of [[KEYWORD-Metabolism|metabolism]] (alkaptonuria, albinism, cystinuria, pentosuria)
+- First described inborn errors of  (alkaptonuria, albinism, cystinuria, pentosuria)
 - Established the **one gene-one enzyme-one metabolic block** principle
 - Laid groundwork for newborn screening (NBS)
 
@@ -65,7 +65,7 @@ Genetic mutation → Enzyme deficiency
 | 49 metabolic disorders | Insulin resistance phenotype |
 | Tandem MS | LC-MS/MS |
 | Pre-symptomatic detection | Early metabolic dysfunction |
-| Dietary intervention | [[KEYWORD-Vitamin_D|vitamin d]] + lifestyle |
+| Dietary intervention |  + lifestyle |
 
 ### The Adipic Acid Validation
 **Argument:** If metabolomics can detect C8 carnitine in MCAD deficiency with 100% sensitivity, it can detect adipic acid in mitochondrial dysfunction with comparable accuracy.
@@ -86,7 +86,7 @@ Genetic mutation → Enzyme deficiency
 - [[Metabolic_Acidosis_Biomarkers_Patterns_Z-001-0028.md]] — Pattern recognition
 
 ### Cross-Domain
-- [[MOC-PhD-METHAP-Trial]] — Trial design validation
+-  — Trial design validation
 
 ## Clinical Implications
 
@@ -109,13 +109,13 @@ Genetic mutation → Enzyme deficiency
 
 ## See Also
 - [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] — Source (Subsection 1)
-- [[MOC-Metabolomics-Training]] — Course navigation
-- [[Z-METHAP-Protocol]] — Protocol biomarker validation
+-  — Course navigation
+-  — Protocol biomarker validation
 
 ---
 *Confidence: High* — Well-established NBS precedent  
 *Next Review: After adipic acid sensitivity/specificity data collection*
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

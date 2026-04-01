@@ -5,7 +5,7 @@ title: Permutation Test Interpretation — Validating OPLS-DA Models
 aliases: [Z-001-0937]
 domain: 001
 tags: [zettel, permutation-test, opls-da, model-validation, q2-intercept, overfitting, metabolomics, conscious]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -39,13 +39,13 @@ Permutation tests determine whether OPLS-DA model separation is **better than ra
 - **Validate biological relevance:** Only tests statistical separation
 - **Detect overfitting to technical noise:** Random noise can separate groups
 - **Replace external validation:** Internal test only
-- **Prove [[KEYWORD-Biomarker|biomarker]] utility:** Does not assess effect sizes or [[KEYWORD-Clinical|clinical]] relevance
+- **Prove  utility:** Does not assess effect sizes or  relevance
 
 ### Common Misinterpretations
 **Myth:** "Q2 intercept < 0 means model is valid and not overfitted"
 **Reality:** Model passes permutation test yet still overfits to batch effects
 
-**Myth:** "Permutation test proves [[KEYWORD-Biomarker|biomarkers]] are real"
+**Myth:** "Permutation test proves  are real"
 **Reality:** Only proves separation is non-random, not biologically meaningful
 
 ## Integration with Other Validation
@@ -114,7 +114,7 @@ For biomarker claims:
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[MOC-Biomarkers|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- 
+- 
 

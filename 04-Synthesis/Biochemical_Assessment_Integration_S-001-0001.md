@@ -5,7 +5,7 @@ title: Biochemical Assessment Integration Clinical Framework
 aliases: [S-001-0001, Biochemical Assessment, Lab Integration, Metabolic Panel]
 domain: 001
 tags: [synthesis, biomarker, clinical-protocol, phd-methap, assessment-framework]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 status: conscious
 connections:
   - [[HOMA_IR_Calculation_Interpretation_[Z-001-0046]]]

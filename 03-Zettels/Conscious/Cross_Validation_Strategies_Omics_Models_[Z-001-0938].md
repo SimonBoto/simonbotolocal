@@ -5,7 +5,7 @@ title: Cross-Validation Strategies for Omics Prediction Models
 aliases: [Z-001-0938]
 domain: 001
 tags: [zettel, cross-validation, cv, opls-da, metabolomics, prediction, model-validation, q2-score, external-validation, conscious]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -76,8 +76,8 @@ Cross-validation still uses same data with same technical artifacts. Only extern
 | Study Type | External Validation |
 |------------|---------------------|
 | Exploratory/pilot | Desirable but not required |
-| [[KEYWORD-Biomarker|biomarker]] discovery | Required (n≥30 external) |
-| [[KEYWORD-Clinical|clinical]] diagnostic | Required (prospective cohort) |
+|  discovery | Required (n≥30 external) |
+|  diagnostic | Required (prospective cohort) |
 
 ## Validation Strategy by Sample Size
 
@@ -142,7 +142,7 @@ External Validation:
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- |Biomarker Family Guide]]
+- 
 

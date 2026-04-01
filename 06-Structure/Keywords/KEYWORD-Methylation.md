@@ -5,7 +5,7 @@ title: "Keyword: Methylation"
 aliases: [methylation]
 domain: 000
 tags: [keyword, index, methylation]
-parent-moc: [[MOC-INDEX]]
+parent-moc: 
 status: active
 created: 2026-04-01
 ---
@@ -20,7 +20,7 @@ created: 2026-04-01
 
 ## Connected Zettels
 
-{{embed [[MOC-INDEX]]}}
+{{embed }}
 
 ---
 

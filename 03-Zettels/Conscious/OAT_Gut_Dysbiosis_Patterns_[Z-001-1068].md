@@ -6,7 +6,7 @@ aliases: [Z-001-1068, OAT-Gut]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, oat, gut, dysbiosis]
-parent-moc: [[MOC-Metabolomics-Analysis]]
+parent-moc: 
 source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
 source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # OAT Gut Dysbiosis Patterns
 
 ## Overview
-Gut microbiome status is reflected in specific OAT markers from bacterial and yeast [[KEYWORD-Metabolism|metabolism]].
+Gut microbiome status is reflected in specific OAT markers from bacterial and yeast .
 
 ## Bacterial Dysbiosis Markers
 
@@ -43,7 +43,7 @@ Gut microbiome status is reflected in specific OAT markers from bacterial and ye
 | Level | Interpretation |
 |-------|----------------|
 | **Elevated** | Candida albicans overgrowth |
-| **[[KEYWORD-Clinical|clinical]] correlate** | Sugar cravings, brain fog |
+| ** correlate** | Sugar cravings, brain fog |
 
 ### Tartaric Acid
 | Level | Interpretation |
@@ -61,7 +61,7 @@ Gut microbiome status is reflected in specific OAT markers from bacterial and ye
 | Level | Interpretation |
 |-------|----------------|
 | **Elevated** | Clostridia overgrowth |
-| **[[KEYWORD-Mechanism|mechanism]]** | Inhibits dopamine-β-hydroxylase |
+| **** | Inhibits dopamine-β-hydroxylase |
 | **Clinical** | OCD, autism, mood disorders |
 
 ### 4-Cresol
@@ -114,4 +114,4 @@ Gut microbiome status is reflected in specific OAT markers from bacterial and ye
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Preprocessing, normalization, pathway analysis, network analysis for PhD metabolomics workflow
 status: extracted
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -68,8 +68,8 @@ Raw Data → Preprocessing → Normalization → Statistical Analysis
 3. [[Pathway_Analysis_Network_Metabolomics_[Z-001-1158].md]]
 
 ## Related References
-- [[MOC-PhD-Research]]
-- [[MOC-Metabolomics-Analysis]]
+- 
+- 
 
 ---
 

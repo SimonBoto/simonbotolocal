@@ -5,7 +5,7 @@ title: CRP (C-Reactive Protein) - Minimum Inflammation Marker
 aliases: [B-002-0001, CRP, hs-CRP, Inflammation]
 domain: 002
 tags: [biomarker, inflammation, crp, cardiovascular, metabolic]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 created: 2026-03-30
 ---

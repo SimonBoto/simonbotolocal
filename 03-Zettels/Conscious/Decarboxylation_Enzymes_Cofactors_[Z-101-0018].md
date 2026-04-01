@@ -5,7 +5,7 @@ title: Decarboxylation Enzymes and Vitamin Cofactors
 aliases: [Z-101-0018, Decarboxylase Cofactors, TPP PLP Biotin]
 domain: 101
 tags: [zettel, decarboxylase, cofactor, vitamin-b1, vitamin-b6, biotin, tpp, plp]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 status: conscious
 source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]]"
 extraction-date: 2026-03-02
@@ -13,7 +13,7 @@ extraction-date: 2026-03-02
 
 # Decarboxylation Enzymes and Vitamin Cofactors
 
-**Core Principle:** Decarboxylation enzymes require specific [[KEYWORD-Vitamin_D|vitamin-d]]erived cofactors to catalyze removal of carboxyl groups (-COOH) releasing CO₂.
+**Core Principle:** Decarboxylation enzymes require specific erived cofactors to catalyze removal of carboxyl groups (-COOH) releasing CO₂.
 
 ## Major Vitamin Cofactors
 
@@ -31,7 +31,7 @@ extraction-date: 2026-03-02
 | Pyruvate decarboxylase | Pyruvate | Acetaldehyde | Fermentation |
 
 **Deficiency — Beriberi:**
-- Impaired pyruvate [[KEYWORD-Metabolism|metabolism]] → lactic acidosis
+- Impaired pyruvate  → lactic acidosis
 - Neurological symptoms (Wernicke-Korsakoff in alcoholism)
 - Cardiac symptoms (wet beriberi)
 
@@ -96,7 +96,7 @@ extraction-date: 2026-03-02
 
 ## Mineral Cofactors
 
-### [[KEYWORD-Magnesium|magnesium]] (Mg²⁺)
+###  (Mg²⁺)
 - **Most common** mineral cofactor
 - Stabilizes negative charges
 - Coordinates ATP

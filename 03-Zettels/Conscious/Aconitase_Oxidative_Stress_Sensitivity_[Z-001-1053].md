@@ -6,7 +6,7 @@ aliases: [Z-001-1053, Aconitase]
 domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, aconitase, oxidative-stress, iron-sulfur]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
 source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
 confidence: high
@@ -16,11 +16,11 @@ created: 2026-03-08
 # Aconitase Oxidative Stress Sensitivity
 
 ## Overview
-Aconitase is the most sensitive TCA cycle enzyme to oxidative stress due to its iron-sulfur (Fe-S) cluster, making it a key marker of [[KEYWORD-Mitochondria|mitochondria]]l damage.
+Aconitase is the most sensitive TCA cycle enzyme to oxidative stress due to its iron-sulfur (Fe-S) cluster, making it a key marker of l damage.
 
 ## Enzyme Function
 - **Reaction:** Citrate ↔ Isocitrate (via cis-aconitate intermediate)
-- **Location:** [[KEYWORD-Mitochondria|mitochondrial]] matrix
+- **Location:**  matrix
 - **Kinetics:** Near-equilibrium enzyme
 - **Control point:** Early TCA cycle commitment
 
@@ -30,7 +30,7 @@ Aconitase is the most sensitive TCA cycle enzyme to oxidative stress due to its 
 - **Vulnerability:** Superoxide (O₂⁻) attacks Fe-S cluster
 
 ## Oxidative Inactivation
-### [[KEYWORD-Mechanism|mechanism]]
+### 
 1. Superoxide attacks [4Fe-4S]²⁺ cluster
 2. Cluster releases Fe²⁺
 3. Enzyme converts to [3Fe-4S]⁺ (inactive form)
@@ -74,12 +74,12 @@ Aconitase is the most sensitive TCA cycle enzyme to oxidative stress due to its 
 
 ## Related
 - [[TCA_Intermediates_Clinical_Significance_[Z-001-1049].md]]
-- [[MOC-Mitochondrial-Function]]
-- [[MOC-Antioxidant-Defense]]
+- 
+- 
 
 ---
 *Source: CGPT-0022 — Mitochondrial biochemistry*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -5,7 +5,7 @@ title: "Amino Acids to Pyruvate: Alanine and Serine-Glycine"
 aliases: [Z-001-0497, pyruvate, alanine, serine, glycine, folate, b6]
 domain: 001
 tags: [zettel, pyruvate, alanine, serine, glycine, folate, glucose-alanine-cycle]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0046A]]
@@ -18,7 +18,7 @@ source: [[L-001-0046A]]
 | Amino Acid | Conversion | Key Enzyme | Notes |
 |------------|------------|------------|-------|
 | **Alanine** | Direct transamination | Alanine transaminase (ALT) | Glucose-alanine cycle |
-| **Cysteine** | → Pyruvate + H₂S | Cysteine desulfurase | Sulfur [[KEYWORD-Metabolism|metabolism]] |
+| **Cysteine** | → Pyruvate + H₂S | Cysteine desulfurase | Sulfur  |
 | **Serine** | → Glycine → Pyruvate | Serine hydroxymethyltransferase (SHMT) | Folate-dependent |
 | **Glycine** | → Serine → Pyruvate | SHMT (reverse) | Folate-dependent |
 | **Threonine** | → Glycine → Pyruvate | Threonine aldolase | Split pathway |
@@ -43,7 +43,7 @@ Glucose → Muscle (via blood)
 
 ### Enzyme: ALT
 **Alanine aminotransferase:**
-- **[[KEYWORD-Clinical|clinical]] marker:** Liver function
+- ** marker:** Liver function
 - **B6-dependent**
 - Elevated in liver damage
 
@@ -74,7 +74,7 @@ Serine + Tetrahydrofolate (THF) ↔ Glycine + 5,10-methylene-THF
 - Supplementation
 
 ## Related
-- [[Vitamin_Dependence_Organic_Acid_Metabolism_[Z-001-0479]]] [[KEYWORD-Vitamin_D|vitamin d]]ependence
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_[Z-001-0479]]] ependence
 - [[Glutamine_Glutamate_Ammonia_Cycle_[Z-001-0916]]] Glutamine-Glutamate-Ammonia Cycle
 
 ---

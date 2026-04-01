@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: Critical — RCT structure, inclusion criteria, intervention protocol, timeline for PhD research on metabolic biomarkers and insulin resistance
 status: extracted
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -68,9 +68,9 @@ Shift in metabolic biomarkers (urine OA, plasma TFA) from insulin-resistant patt
 4. [[METHAP_Study_Timeline_Testing_Schedule_[Z-001-1144].md]]
 
 ## Related References
-- [[MOC-PhD-Research]]
-- [[MOC-Metabolomics-Analysis]]
-- [[MOC-Insulin-Resistance]]
+- 
+- 
+- 
 
 ---
 

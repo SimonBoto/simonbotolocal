@@ -4,7 +4,7 @@ type: moc
 title: MOC — Cholesterol Quality
 aliases: [MOC_Cholesterol_Quality, Cholesterol_MOC]
 tags: [moc, dt-clinic, cholesterol, hdl-ldl, phd-biomarker, archived]
-parent-moc: [[MOC-INDEX]]
+parent-moc: 
 status: archived-content
 created: 2026-02-15
 last-updated: 2026-02-22
@@ -29,7 +29,7 @@ This MOC references pre-v4.0 content. To integrate into v4.1:
 ## 📊 Archived Content (77-Archive/)
 
 ### Source Reference
-- **Lit-Full**: [[77-Archive/Legacy_20260222/Refs-Legacy/Cholesterol_Quality_Myth__20260215_004]]
+- **Lit-Full**: 
 - **10 refs + 9 atomics**
 
 ### Topics Covered

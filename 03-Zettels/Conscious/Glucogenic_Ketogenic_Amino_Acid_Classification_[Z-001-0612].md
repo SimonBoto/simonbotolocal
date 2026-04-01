@@ -5,7 +5,7 @@ title: "Glucogenic vs Ketogenic Amino Acid Classification"
 aliases: [Z-001-0612]
 domain: 001
 tags: [zettel, amino-acids, glucogenic, ketogenic, classification, metabolism, biochemistry, conscious]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]]
 extraction-date: 2026-03-05
@@ -17,7 +17,7 @@ extraction-date: 2026-03-05
 
 Amino acids are classified by the metabolic fate of their carbon skeletons:
 - **Glucogenic:** Can be converted to glucose
-- **Ketogenic:** Can be converted to ketone bodies or [[KEYWORD-Fatty_Acids|fatty acids]]
+- **Ketogenic:** Can be converted to ketone bodies or 
 - **Both:** Have dual metabolic fates
 
 ## Complete Classification
@@ -69,7 +69,7 @@ All other amino acids feed into gluconeogenic precursors:
 
 ### Protein Quality and Diet Design
 - **Ketogenic diets:** Higher leucine/lysine content matters less for ketosis
-- **Glucose management:** Glucogenic amino acids raise [[KEYWORD-Insulin|insulin]] more
+- **Glucose management:** Glucogenic amino acids raise  more
 - **Complete proteins:** Must contain adequate amounts of all classes
 
 ### Metabolic Disease
@@ -79,7 +79,7 @@ All other amino acids feed into gluconeogenic precursors:
 | **Diabetes** | Glucogenic amino acids contribute to hyperglycemia |
 | **Ketogenic diet** | Ketogenic amino acids support ketogenesis |
 | **Starvation** | Both classes utilized; glucogenic for glucose, ketogenic for fuel |
-| **Liver disease** | Impaired amino acid [[KEYWORD-Metabolism|metabolism]] affects both pathways |
+| **Liver disease** | Impaired amino acid  affects both pathways |
 
 ## Memory Aid: PITTT
 
@@ -104,5 +104,5 @@ The **2 purely ketogenic:**
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[BCAAs_IR_Risk_[Z-001-0042]|Z-001-0042]]

@@ -7,15 +7,15 @@ aliases: [Z-001-0003, INSR_Autophosphorylation, INSR_Activation]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, mechanism, insulin, phosphorylation, activation, kinase]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[Ref_GutierrezRodelo_IR_Mechanisms_2017]]
+parent-moc: 
+source: 
 confidence: high
 created: 2026-02-22
 ---
 
-# INSR Autophosphorylation [[KEYWORD-Mechanism|mechanism]]
+# INSR Autophosphorylation 
 
-[[KEYWORD-Insulin|insulin]] binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
+ binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
 
 **Activation sequence:**
 1. Insulin binds α subunit → conformational change
@@ -33,6 +33,6 @@ created: 2026-02-22
 
 ## Context
 
-**Also in:** [[MOC-Insulin-Signaling]]
+**Also in:** 
 
 **Mechanism source:** PMC3083885 | Gutiérrez-Rodelo et al., 2017

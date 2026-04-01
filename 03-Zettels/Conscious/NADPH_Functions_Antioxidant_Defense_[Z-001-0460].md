@@ -5,7 +5,7 @@ title: NADPH Functions in Anabolism and Antioxidant Defense
 aliases: [Z-001-0460, nadph, antioxidant, biosynthesis, reducing-power]
 domain: 001
 tags: [zettel, nadph, antioxidant, biosynthesis, gsh, immunity]
-parent-moc: [[MOC-Antioxidant-Defense]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045C]]
@@ -21,12 +21,12 @@ NADPH provides **reducing equivalents** for:
 
 ## Sources
 - **~60%:** Pentose Phosphate Pathway
-- **Remainder:** Malic enzyme, isocitrate dehydrogenase, [[KEYWORD-Folate|folate]] [[KEYWORD-Metabolism|metabolism]]
+- **Remainder:** Malic enzyme, isocitrate dehydrogenase,  
 
 ## Role 1: Biosynthesis
 **NADPH-dependent pathways:**
 - Fatty acid synthesis
-- [[KEYWORD-Cholesterol|cholesterol]] synthesis
+-  synthesis
 - Nucleotide synthesis
 - Steroid hormone synthesis
 
@@ -63,7 +63,7 @@ NADPH + 2O₂ → 2O₂⁻ + NADP⁺ + H⁺
 
 ## Related
 - [[PPP_Oxidative_Phase_[Z-001-0457]]] PPP Oxidative Phase (major NADPH source)
-- [[MOC-Antioxidant-Defense]]
+- 
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

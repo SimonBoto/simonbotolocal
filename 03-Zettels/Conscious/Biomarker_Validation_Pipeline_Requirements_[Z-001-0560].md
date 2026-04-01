@@ -6,14 +6,14 @@ aliases: [Z-001-0560, Validation Stages, Biomarker Translation, Clinical Transla
 domain: 001
 domain-name: Research Methods
 tags: [zettel, biomarkers, validation, clinical-translation, study-design, research-standards]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 source: "[[LitNote_Exploratory_vs_Confirmatory_Research_Design_L-001-0516]]"
 confidence: high
 created: 2026-03-03
 source-litnote: Synthesized from clinical practice
 ---
 
-# [[KEYWORD-Biomarker|biomarker]] Validation Pipeline Requirements
+#  Validation Pipeline Requirements
 
 ## Core Concept
 
@@ -30,7 +30,7 @@ Biomarker discovery without systematic validation is **hypothesis generation**, 
 | **Analysis** | High-dimensional screen (3,000+ features) |
 | **Threshold** | FDR = 0.1 acceptable |
 | **Goal** | Generate candidate list |
-| **Claim** | "Candidate [[KEYWORD-Biomarker|biomarkers]] identified" |
+| **Claim** | "Candidate  identified" |
 | **Next step** | Verification |
 
 **Key Requirements:**
@@ -171,7 +171,7 @@ Unvalidated findings presented as definitive.
 ## METHAP Standards
 
 ### For PhD Trial
-1. **Discovery:** Untargeted [[KEYWORD-Metabolomics|metabolomics]] (FDR = 0.1)
+1. **Discovery:** Untargeted  (FDR = 0.1)
 2. **Verification:** Targeted assay, independent split
 3. **Validation:** Independent cohort (future work)
 
@@ -202,5 +202,5 @@ Every biomarker paper must state:
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 ## RELATED FILES
 - [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

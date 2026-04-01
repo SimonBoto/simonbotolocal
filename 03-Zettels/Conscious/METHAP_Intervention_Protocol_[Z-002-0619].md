@@ -6,7 +6,7 @@ aliases: [Z-002-0619, methap-intervention, dietary-protocol]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, methap, intervention, low-carb, supplements]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: "[[LitNote_METHAP_Study_Design_Protocol_L-002-0604]]"
 confidence: high
 created: 2026-03-27
@@ -14,7 +14,7 @@ created: 2026-03-27
 
 # METHAP Intervention Protocol
 
-12-week dietary and supplement intervention for insulin-resistant participants, designed to modify metabolic [[KEYWORD-Biomarker|biomarker]]s and improve insulin sensitivity.
+12-week dietary and supplement intervention for insulin-resistant participants, designed to modify metabolic s and improve insulin sensitivity.
 
 ## Intervention Components
 
@@ -30,7 +30,7 @@ created: 2026-03-27
 | Magnesium + Calcium | My Calmag (Lumis Research) | Capsules | 6642/22-1-2019 |
 | Vitamin C + Bioflavonoids | My Immuno (Lumis Research) | Tablets | 125464/07-12-2018 |
 | Multivitamin (120+ nutrients) | Be Well (Natural Doctor) | Capsules | 127661/25-10-19 |
-| [[KEYWORD-Vitamin_D|vitamin d]]3 | Pure D3 | Cholecalciferol | 111920/22-12-2014 |
+| 3 | Pure D3 | Cholecalciferol | 111920/22-12-2014 |
 | L-Glutamine + Chios Mastiha | L-Glutamine & Chios Mastiha | Powder/Capsules | 91382/25-11-2016 |
 | Probiotics (40 billion CFU) | Probiotics 40 billion (Natural Doctor) | Capsules | 58393/27-06-2017 |
 
@@ -38,7 +38,7 @@ created: 2026-03-27
 
 | Nutrient | Mechanism | Evidence |
 |----------|-----------|----------|
-| **Vitamin D** | Glucose [[KEYWORD-Metabolism|metabolism]], insulin sensitivity | Nazarian et al 2011, Aliashrafi et al 2020 |
+| **Vitamin D** | Glucose , insulin sensitivity | Nazarian et al 2011, Aliashrafi et al 2020 |
 | **Magnesium** | Glycolysis, 300+ enzymatic reactions | Barbagallo et al 2003 |
 | **Vitamin C** | Antioxidant, glucose transporter affinity | Wilson et al 2017, Veronese et al 2016 |
 | **Glutamine** | GLP-1 pathway, metabolic fuel | Jafari-Vayghan et al 2020, Samocha-Bonet et al 2011 |
@@ -73,7 +73,7 @@ IR participants not receiving intervention:
 
 ## Links
 
-**Parent MOC:** [[MOC-Research-Ethics]]  
+**Parent MOC:**   
 **Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]]  
 **Related:** [[METHAP_Study_Design_Overview_[Z-002-0616].md]] — Full study structure
 
@@ -82,7 +82,7 @@ IR participants not receiving intervention:
 *UID: Z-002-0619 | Domain: 002 | Created: 2026-03-27*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

@@ -6,7 +6,7 @@ aliases: [Z-001-0571, Coenzyme Q10, Ubiquinone, Protein Prenylation, Dolichol]
 domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, coq10, ubiquinone, dolichol, isoprenoids, mitochondria, protein-glycosylation, statin-side-effects]
-parent-moc: [[MOC-Cholesterol-Quality]]
+parent-moc: 
 source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]]"
 confidence: high
 created: 2026-03-03
@@ -16,7 +16,7 @@ created: 2026-03-03
 
 ## Core Concept
 
-Beyond cholesterol and steroid hormones, the mevalonate pathway produces **CoQ10 (ubiquinone)** for [[KEYWORD-Mitochondria|mitochondria]]l energy production and **dolichol** for protein glycosylation. These "less famous" isoprenoid products are essential for cellular function and explain many statin side effects when their synthesis is inadvertently blocked.
+Beyond cholesterol and steroid hormones, the mevalonate pathway produces **CoQ10 (ubiquinone)** for l energy production and **dolichol** for protein glycosylation. These "less famous" isoprenoid products are essential for cellular function and explain many statin side effects when their synthesis is inadvertently blocked.
 
 ---
 
@@ -100,7 +100,7 @@ Mitochondrial dysfunction
 ### Risk Factors
 - High statin dose
 - Advanced age
-- [[KEYWORD-Vitamin_D|vitamin d]] deficiency
+-  deficiency
 - Hypothyroidism
 - Genetic variants (COQ genes)
 
@@ -134,7 +134,7 @@ Proper folding, trafficking, function
 
 ### Clinical Significance: CDG
 **Congenital Disorders of Glycosylation:**
-- Defects in dolichol [[KEYWORD-Metabolism|metabolism]] or glycosylation enzymes
+- Defects in dolichol  or glycosylation enzymes
 - **Multi-system disease:** Neurologic, hepatic, immunologic
 - **Symptoms:** Developmental delay, seizures, liver dysfunction
 - **Diagnosis:** Transferrin glycosylation analysis

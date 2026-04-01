@@ -6,7 +6,7 @@ aliases: [Z-001-1151, PLS-OPLS]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, pls, opls, multivariate, regression]
-parent-moc: [[MOC-Metabolomics-Analysis]]
+parent-moc: 
 source-litnote: [[LitNote_Statistical_Analysis_Omics_L-001-0617]]
 source: [[LitNote_Statistical_Analysis_Omics_L-001-0617]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Multivariate Analysis PLS OPLS Regression
 
 ## Overview
-Partial Least Squares Discriminant Analysis (PLS-DA) and Orthogonal PLS (OPLS) are supervised multivariate methods that maximize separation between groups while modeling [[KEYWORD-Metabolomics|metabolomics]] data—identifying [[KEYWORD-Biomarker|biomarker]]s that discriminate insulin-resistant from healthy individuals.
+Partial Least Squares Discriminant Analysis (PLS-DA) and Orthogonal PLS (OPLS) are supervised multivariate methods that maximize separation between groups while modeling  data—identifying s that discriminate insulin-resistant from healthy individuals.
 
 ## PLS-DA (Partial Least Squares Discriminant Analysis)
 
@@ -73,7 +73,7 @@ Latent variables (components) capture group-discriminating variance
 |------------|--------|
 | **Pre vs Post (IR-Intervention)** | OPLS |
 | **Goal** | Identify intervention-induced changes |
-| **Output** | [[KEYWORD-Biomarker|biomarkers]] of metabolic improvement |
+| **Output** |  of metabolic improvement |
 
 ### Cross-Sectional
 | Comparison | Method |
@@ -126,12 +126,12 @@ Latent variables (components) capture group-discriminating variance
 ## Related
 - [[PCA_Metabolomics_Dimensionality_Reduction_[Z-001-1150].md]]
 - [[Validation_Cross_Validation_Model_Robustness_[Z-001-1152].md]]
-- [[MOC-Metabolomics-Analysis]]
+- 
 
 ---
 *Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

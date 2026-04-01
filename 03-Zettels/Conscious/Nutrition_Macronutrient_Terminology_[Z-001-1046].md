@@ -6,7 +6,7 @@ aliases: [Z-001-1046, Nutrition-Terms]
 domain: 001
 domain-name: Nutrition
 tags: [zettel, nutrition, fatty-acids, definitions]
-parent-moc: [[MOC-Nutrition]]
+parent-moc: 
 source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
 source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Nutrition Macronutrient Terminology
 
 ## Overview
-12 terms defining dietary biochemistry and nutritional [[KEYWORD-Metabolomics|metabolomics]].
+12 terms defining dietary biochemistry and nutritional .
 
 ## The Terms (Category F)
 
@@ -26,10 +26,10 @@ created: 2026-03-08
 | **Μικροθρεπτικά** | Vitamins, minerals | Bioavailability matters |
 | **Απαραίτητα Λιπαρά** | EPA, DHA, AA | Cannot synthesize; must ingest |
 | **Απαραίτητα Αμινοξέα** | 9 essential amino acids | Protein quality metric |
-| **Κορεσμένα Λιπαρά** | Saturated [[KEYWORD-Fatty_Acids|fatty acids]] | Structural, stable |
+| **Κορεσμένα Λιπαρά** | Saturated  | Structural, stable |
 | **Μονοακόρεστα** | MUFA (oleic acid) | Protective, flexible |
 | **Πολυακόρεστα** | PUFA (omega-3/6) | Signaling, vulnerable |
-| **Ω6/Ω3 Αναλογία** | [[KEYWORD-Omega_6|omega-6]] to omega-3 ratio | Target: 2-4:1 |
+| **Ω6/Ω3 Αναλογία** |  to omega-3 ratio | Target: 2-4:1 |
 | **Νιτρικό Οξείδιο** | NO, vasodilator | Endothelial function |
 | **Υπερφλεγμονή** | Sugar + omega-6 excess | Modern diet disease |
 | **Μεταβολική Ευελιξία** | Fuel switching capacity | RER, metabolic health |
@@ -43,8 +43,8 @@ created: 2026-03-08
 | SFA balance | Contextual | Membrane fluidity |
 
 ## Related
-- [[MOC-Nutrition]]
-- [[MOC-Omega3-Fats]]
+- 
+- 
 - [[Phase_3_Lipidomics_Interpretation_[Z-001-1038].md]]
 
 ---
@@ -52,5 +52,5 @@ created: 2026-03-08
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Muscle_Bone_Unit_Mechanical_Loading_[Z-001-0096]|Z-001-0096]]

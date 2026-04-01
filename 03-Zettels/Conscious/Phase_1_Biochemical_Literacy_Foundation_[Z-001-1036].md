@@ -6,7 +6,7 @@ aliases: [Z-001-1036, Phase-1-Foundation]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, biochemistry, foundation, metabolism]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
 source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Phase 1 Biochemical Literacy Foundation
 
 ## Overview
-Weeks 1-2 of bootcamp: Rewiring mental models of [[KEYWORD-Metabolism|metabolism]], energy, and cellular function.
+Weeks 1-2 of bootcamp: Rewiring mental models of , energy, and cellular function.
 
 ## Week 1: Biochemical Literacy Reboot
 
@@ -25,9 +25,9 @@ Weeks 1-2 of bootcamp: Rewiring mental models of [[KEYWORD-Metabolism|metabolism
 |---------|---------|
 | **Metabolism** | Information flow, not just chemistry |
 | **ATP** | Ritual of phosphate transfer, not just molecule |
-| **[[KEYWORD-Mitochondria|mitochondria]]** | Decision-makers, not furnaces |
+| **** | Decision-makers, not furnaces |
 | **Redox tone** | NAD⁺/NADH, FAD/FADH₂, glutathione logic |
-| **[[KEYWORD-Metabolomics|metabolomics]] advantage** | Sees dysfunction *before* pathology |
+| ** advantage** | Sees dysfunction *before* pathology |
 
 ### Deliverables
 - Interactive diagrams
@@ -64,8 +64,8 @@ Plus: Lactate, ketones, BCAA oxidation, peroxisomes
 
 ## Related
 - [[Bootcamp_Four_Phase_Structure_[Z-001-1035].md]]
-- [[MOC-Krebs-Cycle]]
-- [[MOC-Glycolysis-PPP]]
+- 
+- 
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*

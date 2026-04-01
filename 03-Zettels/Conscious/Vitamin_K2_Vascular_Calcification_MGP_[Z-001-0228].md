@@ -5,7 +5,7 @@ title: Vitamin K2 and Vascular Calcification — MGP Mechanism
 aliases: [VitK2-Vascular, MGP, Matrix-Gla-Protein, Calcification]
 domain: 001
 tags: [zettel, vitamin-k2, vascular-calcification, mgp, cardiovascular]
-parent-moc: [[MOC-Cardiovascular-Health]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]]
 extraction-date: 2026-03-01
@@ -107,7 +107,7 @@ extraction-date: 2026-03-01
 
 ### Accelerated Vascular Calcification in MetS
 **Risk Factors:**
-- [[KEYWORD-Insulin|insulin]] resistance promotes calcification
+-  resistance promotes calcification
 - Inflammation drives osteogenic signaling
 - Dyslipidemia contributes
 - Often co-occurs with CKD (further accelerates calcification)
@@ -125,11 +125,11 @@ extraction-date: 2026-03-01
 
 ## Synergy with Other Nutrients
 
-### [[KEYWORD-Vitamin_D|vitamin d]] + K2
+###  + K2
 **Calcium Handling:**
 - **D increases calcium absorption:** Potential for soft tissue deposition
 - **K2 directs calcium:** To bone, away from arteries
-- **Combined:** Safe and effective calcium [[KEYWORD-Metabolism|metabolism]]
+- **Combined:** Safe and effective calcium 
 
 ### Magnesium + K2
 **Complementary Anti-Calcification:**

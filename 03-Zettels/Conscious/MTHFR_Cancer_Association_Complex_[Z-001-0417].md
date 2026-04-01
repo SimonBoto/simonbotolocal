@@ -5,13 +5,13 @@ title: MTHFR Cancer Association — Complex Relationship
 aliases: [MTHFR-Cancer, Protective, Risk, Complex]
 domain: 001
 tags: [zettel, mthfr, cancer, association, folate]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]]
 extraction-date: 2026-03-01
 ---
 
-# MTHFR [[KEYWORD-Cancer|cancer]] Association — Complex Relationship
+# MTHFR  Association — Complex Relationship
 
 > MTHFR polymorphisms have complex, context-dependent associations with cancer risk that vary by cancer type, folate status, alcohol intake, and interaction with other genetic factors.
 
@@ -19,11 +19,11 @@ extraction-date: 2026-03-01
 
 **Colorectal Cancer:**
 - Variant genotypes protective with adequate folate
-- [[KEYWORD-Mechanism|mechanism]]: Maintains DNA methylation
+- : Maintains DNA methylation
 - Stability of genome
 
 **Mechanism:**
-- Slower folate [[KEYWORD-Metabolism|metabolism]] = more 5,10-methylene-THF
+- Slower folate  = more 5,10-methylene-THF
 - Enhanced thymidylate synthesis
 - Reduced uracil misincorporation
 - DNA stability
@@ -71,4 +71,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

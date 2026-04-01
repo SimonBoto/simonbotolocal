@@ -6,7 +6,7 @@ aliases: [Z-101-0005, Methotrexate, Adenosine, AMPK]
 domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, methotrexate, low-dose, adenosine, AMPK, autoimmunity]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]]
 confidence: high
 created: 2026-02-24
@@ -14,7 +14,7 @@ created: 2026-02-24
 
 # Methotrexate Low-Dose Mechanism via Adenosine
 
-Low-dose methotrexate (1/100th of [[KEYWORD-Cancer|cancer]] dose) treats autoimmunity through a mechanism distinct from folate antagonism: AICAR transformylase inhibition causes intracellular AICAR accumulation, which releases extracellular adenosine with potent anti-inflammatory effects.
+Low-dose methotrexate (1/100th of  dose) treats autoimmunity through a mechanism distinct from folate antagonism: AICAR transformylase inhibition causes intracellular AICAR accumulation, which releases extracellular adenosine with potent anti-inflammatory effects.
 
 **Mechanism cascade:**
 1. AICAR transformylase inhibition (not DHFR at this dose)
@@ -27,11 +27,11 @@ Low-dose methotrexate (1/100th of [[KEYWORD-Cancer|cancer]] dose) treats autoimm
    - Promotes regulatory T-cell proliferation
 5. Additional: AICAR directly activates AMPK → reduces T-cell activation
 
-**Critical insight:** Folic acid supplementation does NOT impair low-dose methotrexate efficacy because the mechanism is not folate antagonism — it's adenosine-mediated anti-[[KEYWORD-Inflammation|inflammation]].
+**Critical insight:** Folic acid supplementation does NOT impair low-dose methotrexate efficacy because the mechanism is not folate antagonism — it's adenosine-mediated anti-.
 
 **Clinical:** RA, psoriasis, IBD at 7.5-25 mg/week (vs 5000+ mg/m² for cancer).
 
-**METHAP Connection:** Demonstrates how metabolic pathway interventions (purine [[KEYWORD-Metabolism|metabolism]], AMPK) can treat autoimmunity — similar logic applies to adipic acid/VitD metabolic intervention.
+**METHAP Connection:** Demonstrates how metabolic pathway interventions (purine , AMPK) can treat autoimmunity — similar logic applies to adipic acid/VitD metabolic intervention.
 
 ## Key Details
 
@@ -46,11 +46,11 @@ Low-dose methotrexate (1/100th of [[KEYWORD-Cancer|cancer]] dose) treats autoimm
 
 - **Upstream:** [[Immunometabolism_Warburg_Inflammation_Z-101-0004.md]] — M2 macrophage differentiation
 - **Parallel:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002.md]] — Also activates AMPK
-- **Downstream:** [[MOC-Methotrexate]], [[MOC-RA]]
+- **Downstream:** , 
 
 ## Context
 
-**Also relevant to:** [[MOC-Purine-Metabolism]], [[MOC-AMPK]]
+**Also relevant to:** , 
 
 **Emerges from:** NKUA Course 3175, DE4
 
@@ -60,5 +60,5 @@ Low-dose methotrexate (1/100th of [[KEYWORD-Cancer|cancer]] dose) treats autoimm
 
 
 ## RELATED FILES
-- [[KEYWORD-Sirolimus]]
-- [[MOC-INDEX|Master Index]]
+- 
+- 

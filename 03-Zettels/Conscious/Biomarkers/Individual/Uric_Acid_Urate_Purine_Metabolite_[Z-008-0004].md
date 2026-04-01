@@ -6,7 +6,7 @@ title: Uric Acid — Urate, Purine Metabolite
 aliases: [Z-008-0004, Uric-Acid, Urate, UA, Purine-Metabolism, Gout]
 domain: 008
 tags: [zettel, biomarker, uric-acid, urate, purine, gout, kidney]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

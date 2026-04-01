@@ -239,4 +239,4 @@ Thank you for sharing that! Knowing about your clinical practice helps me unders
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

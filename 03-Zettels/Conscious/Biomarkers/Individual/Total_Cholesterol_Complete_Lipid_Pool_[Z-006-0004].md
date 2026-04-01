@@ -6,7 +6,7 @@ title: Total Cholesterol — Complete Lipid Pool
 aliases: [Z-006-0004, Total-Cholesterol, TC, Cholesterol-Total]
 domain: 006
 tags: [zettel, biomarker, total-cholesterol, cholesterol, lipids, cardiovascular]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

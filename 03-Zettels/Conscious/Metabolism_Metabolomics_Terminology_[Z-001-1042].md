@@ -6,14 +6,14 @@ aliases: [Z-001-1042, Metabolism-Terms]
 domain: 001
 domain-name: Metabolomics
 tags: [zettel, metabolomics, definitions, biochemistry]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
 source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
 confidence: high
 created: 2026-03-08
 ---
 
-# [[KEYWORD-Metabolism|metabolism]] [[KEYWORD-Metabolomics|metabolomics]] Terminology
+#   Terminology
 
 ## Overview
 9 core terms defining metabolism as methodology and metabolomics as clinical practice.
@@ -40,13 +40,13 @@ created: 2026-03-08
 Metabolomics sees dysfunction before pathology by reading metabolic information.
 
 ## Related
-- [[[[KEYWORD-Mitochondria|mitochondria]]l_Energy_Terminology_[Z-001-1043].md]]
-- [[MOC-Metabolomics-Analysis]]
+- l_Energy_Terminology_[Z-001-1043].md]]
+- 
 
 ---
 *Source: CGPT-0022 — Tsoukalas Core Vocabulary*
 
 
 ## RELATED FILES
-- [[KEYWORD-Metabolism]]
-- [[MOC-INDEX|Master Index]]
+- 
+- 

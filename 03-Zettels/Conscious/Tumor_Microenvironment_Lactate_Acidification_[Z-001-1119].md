@@ -6,7 +6,7 @@ aliases: [Z-001-1119, Tumor-Acidification]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, tumor, microenvironment, lactate, acidification]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]]
 source: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]]
 confidence: high
@@ -108,7 +108,7 @@ Cancer cells produce large amounts of lactate through aerobic glycolysis, acidif
 
 ## Clinical Implications
 
-### [[KEYWORD-Biomarker|biomarker]]
+### 
 - **High lactate:** Poor prognosis in many cancers
 - **LDH levels:** Prognostic indicator
 
@@ -117,13 +117,13 @@ Cancer cells produce large amounts of lactate through aerobic glycolysis, acidif
 
 ## Related
 - [[Warburg_Effect_Aerobic_Glycolysis_Cancer_[Z-001-1117].md]]
-- [[Mitochondrial_Dysfunction_Cancer_[[KEYWORD-Metabolism|metabolism]]_[Z-001-1120].md]]
-- [[MOC-Cancer-Metabolism]]
+- _[Z-001-1120].md]]
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

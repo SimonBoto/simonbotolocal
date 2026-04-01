@@ -52,7 +52,7 @@ Vitamin D is a secosteroid hormone regulating calcium homeostasis, immune functi
 - [[Z-002-0013]] — Population studies: D levels predict T2DM incidence
 
 **Cross-link to IR Core:**
-- [[MOC-Insulin-Signaling]] — Full insulin signaling pathway
+-  — Full insulin signaling pathway
 - [[Z-001-0046]] — HOMA-IR calculation
 
 ---
@@ -64,7 +64,7 @@ Vitamin D is a secosteroid hormone regulating calcium homeostasis, immune functi
 - [[Z-002-0015]] — VitD receptor → MTHFR expression regulation
 
 **Cross-link to Methylation:**
-- [[MOC-Methylation-One-Carbon]] — Full methylation cycle
+-  — Full methylation cycle
 - [[Z-004-0001]] — Homocysteine as composite marker
 
 ---
@@ -76,7 +76,7 @@ Vitamin D is a secosteroid hormone regulating calcium homeostasis, immune functi
 - [[Z-002-0017]] — Shared deiodinase regulation
 
 **Cross-link to Thyroid:**
-- [[MOC-Thyroid-Axis]] — Thyroid hormone metabolism
+-  — Thyroid hormone metabolism
 
 ---
 
@@ -124,9 +124,9 @@ vit_d_baseline_ng_ml, vit_d_3mo_ng_ml, vit_d_6mo_ng_ml, vit_d_dose_iu_daily
 
 ## 📚 Source References
 
-- [[Ref_Holick_VitD_Review_2007]] — Deficiency pandemic
-- [[Ref_Pittas_VitD_Diabetes_2007]] — RCT evidence
-- [[Ref_Dawodu_VitD_Optimal_2012]] — Target ranges debate
+-  — Deficiency pandemic
+-  — RCT evidence
+-  — Target ranges debate
 
 ---
 

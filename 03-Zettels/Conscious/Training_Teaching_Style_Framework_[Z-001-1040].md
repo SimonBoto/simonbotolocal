@@ -6,7 +6,7 @@ aliases: [Z-001-1040, Teaching-Styles]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, pedagogy, teaching, training-style]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
 source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Training Teaching Style Framework
 
 ## Overview
-Three pedagogical approaches for [[KEYWORD-Metabolomics|metabolomics]] training, each suited to different trainee personalities and clinic contexts.
+Three pedagogical approaches for  training, each suited to different trainee personalities and clinic contexts.
 
 ## Style A: Military Instructor
 
@@ -66,7 +66,7 @@ Three pedagogical approaches for [[KEYWORD-Metabolomics|metabolomics]] training,
 ### Best For
 - Philosophically-minded trainees
 - Long-term development
-- [[KEYWORD-Research|research]]-oriented contexts
+- -oriented contexts
 
 ## Style C: Hybrid Precision (Recommended)
 
@@ -85,7 +85,7 @@ Three pedagogical approaches for [[KEYWORD-Metabolomics|metabolomics]] training,
 - Define non-negotiables (military)
 - Explore reasoning pathways (Socratic)
 - Correct errors immediately (military)
-- Build [[KEYWORD-Clinical|clinical]] judgment (Socratic)
+- Build  judgment (Socratic)
 
 ### Best For
 - Most clinical training contexts
@@ -106,11 +106,11 @@ Choose based on:
 ## Related
 - [[Socratic_Method_Metabolomics_Training_[Z-001-1033].md]]
 - [[Bootcamp_Four_Phase_Structure_[Z-001-1035].md]]
-- [[MOC-Metabolomics-Training]]
+- 
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

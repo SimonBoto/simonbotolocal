@@ -6,7 +6,7 @@ title: Triglycerides — Lipid Energy Storage
 aliases: [Z-006-0003, Triglycerides, TG, Triacylglycerols]
 domain: 006
 tags: [zettel, biomarker, triglycerides, lipids, energy, insulin-resistance]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

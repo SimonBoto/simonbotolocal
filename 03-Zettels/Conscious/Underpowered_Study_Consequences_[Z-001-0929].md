@@ -5,7 +5,7 @@ title: Consequences of Underpowered Studies in Omics Research
 aliases: [Z-001-0929, Z-001-0522-deprecated, Underpowered Studies, Type I Error, False Positives, Winners Curse]
 domain: 001
 tags: [zettel, underpowered, false-positives, type-1-error, effect-size-inflation, replication-crisis]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 status: conscious
 source: "[[LitNote_Power_Analysis_Metabolomics_L-001-0514]]"
 extraction-date: 2026-03-02
@@ -110,7 +110,7 @@ Observed d = 0.25 (closer to truth)
 ### Real-World Impact
 
 **Pharma/Biotech Losses:**
-- [[KEYWORD-Biomarker|biomarker]]s fail to validate
+- s fail to validate
 - Drug targets don't replicate
 - Billions wasted on false leads
 - Patient trials with ineffective agents
@@ -137,7 +137,7 @@ Observed d = 0.25 (closer to truth)
 
 **Per Study:**
 - Sample collection: $50-200 per sample
-- [[KEYWORD-Metabolomics|metabolomics]] analysis: $200-500 per sample
+-  analysis: $200-500 per sample
 - Bioinformatics: Weeks of analyst time
 - Total: $50,000-200,000 per underpowered study
 
@@ -161,7 +161,7 @@ Observed d = 0.25 (closer to truth)
 **Evidence:**
 - Gene expression signatures: <20% replicate
 - GWAS hits: Many false positives in early studies
-- Metabolomics [[KEYWORD-Biomarker|biomarkers]]: High failure rate
+- Metabolomics : High failure rate
 - Protein markers: Similar problems
 
 **Root Cause:**
@@ -215,5 +215,5 @@ Observed d = 0.25 (closer to truth)
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

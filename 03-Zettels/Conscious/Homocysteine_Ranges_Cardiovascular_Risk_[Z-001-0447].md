@@ -5,7 +5,7 @@ title: Homocysteine Ranges and Cardiovascular Risk
 aliases: [Homocysteine, Ranges, Cardiovascular, Risk]
 domain: 001
 tags: [zettel, homocysteine, ranges, cardiovascular, risk]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]]
 extraction-date: 2026-03-01
@@ -32,7 +32,7 @@ extraction-date: 2026-03-01
 **Moderate:** 15-30
 **Severe:** >30
 
-## [[KEYWORD-Clinical|clinical]] Significance
+##  Significance
 
 - Cardiovascular disease
 - Stroke
@@ -42,7 +42,7 @@ extraction-date: 2026-03-01
 ## Causes of Elevation
 
 - B12 deficiency
-- [[KEYWORD-Folate|folate]] deficiency
+-  deficiency
 - B6 deficiency
 - MTHFR variants
 - Renal failure
@@ -54,4 +54,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

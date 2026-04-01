@@ -5,7 +5,7 @@ title: Bone Balance Equation — Resorption Formation Coupling in Homeostasis
 aliases: [Z-001-0104]
 domain: 001
 tags: [zettel, bone-remodeling, balance, coupling, homeostasis, resorption, formation, osteoporosis, conscious]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 status: conscious
 ---
 
@@ -31,7 +31,7 @@ If Formation < Resorption → Bone loss (negative balance)
 | **Resorption volume** | Number of sites × resorption depth × resorption area |
 | **Formation volume** | Number of sites × formation thickness × formation area |
 
-## Coupling [[KEYWORD-Mechanism|mechanism]]
+## Coupling 
 
 ### Definition
 The physiological linkage where formation magnitude matches preceding resorption magnitude.
@@ -60,11 +60,11 @@ The physiological linkage where formation magnitude matches preceding resorption
 - Glucocorticoid excess (osteoblast apoptosis)
 - Aging/senile osteoporosis (osteoblast dysfunction)
 - Alcohol abuse
-- Mal[[KEYWORD-Nutrition|nutrition]]
+- Mal
 
 **Result:** Failure to refill resorption cavities completely
 
-## [[KEYWORD-Clinical|clinical]] Syndromes by Imbalance Type
+##  Syndromes by Imbalance Type
 
 | Syndrome | Primary Defect | Secondary Effect |
 |----------|---------------|------------------|

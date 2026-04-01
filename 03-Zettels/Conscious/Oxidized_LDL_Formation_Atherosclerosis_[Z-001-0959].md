@@ -5,7 +5,7 @@ title: Oxidized LDL Formation — Seed Oil Consumption and Atherosclerosis
 aliases: [Z-001-0959]
 domain: 001
 tags: [zettel, oxidized-ldl, oxldl, atherosclerosis, seed-oils, 4-hne, cardiovascular, conscious]
-parent-moc: [[MOC-Cardiovascular-Disease]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]]
 status: conscious
@@ -109,7 +109,7 @@ OXIDIZED LDL — immunogenic, pro-inflammatory
 - Activates TLR4 on macrophages
 - Induces NF-κB pathway
 - Cytokine release: IL-6, IL-1β, TNF-α
-- Promotes plaque [[KEYWORD-Inflammation|inflammation]]
+- Promotes plaque 
 
 ### 4. Autoimmune Component
 
@@ -121,7 +121,7 @@ OXIDIZED LDL — immunogenic, pro-inflammatory
 
 ## Measuring Oxidative Risk
 
-### [[KEYWORD-Biomarker|biomarker]]s
+### s
 
 | Marker | Sample | Interpretation |
 |--------|--------|----------------|
@@ -220,7 +220,7 @@ Fatty streak → Atheroma → Plaque → Thrombosis
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

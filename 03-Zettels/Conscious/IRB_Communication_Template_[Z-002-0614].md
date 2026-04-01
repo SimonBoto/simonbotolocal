@@ -6,7 +6,7 @@ aliases: [Z-002-0614, irb-message, ethics-email]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, irb, communication, template]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: "[[LitNote_Ethics_Committee_Communication_L-002-0603]]"
 confidence: high
 created: 2026-03-27
@@ -26,7 +26,7 @@ I hope this message finds you well. My name is [Your Name], and I am a PhD candi
 
 I am writing regarding my ethics application submitted on [Date] (Reference: [Number]). Despite following up through official channels, I have not received an update on the status of my application.
 
-Given that [Time Period] has elapsed, I am concerned about the impact on my [[KEYWORD-Research|research]] timeline. I would greatly appreciate:
+Given that [Time Period] has elapsed, I am concerned about the impact on my  timeline. I would greatly appreciate:
 - An update on the current status
 - Information on any additional requirements
 - An estimated timeline for completion
@@ -80,7 +80,7 @@ For Greek ethics committees:
 
 ## Links
 
-**Parent MOC:** [[MOC-Research-Ethics]]  
+**Parent MOC:**   
 **Source:** [[LitNote_Ethics_Committee_Communication_L-002-0603]]  
 **Related:** [[IRB_Non_Response_Protocol_[Z-002-0613].md]] — When to use templates
 

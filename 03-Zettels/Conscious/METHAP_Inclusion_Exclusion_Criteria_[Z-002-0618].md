@@ -6,7 +6,7 @@ aliases: [Z-002-0618, methap-criteria, eligibility]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, methap, inclusion-criteria, exclusion-criteria]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: "[[LitNote_METHAP_Study_Design_Protocol_L-002-0604]]"
 confidence: high
 created: 2026-03-27
@@ -27,7 +27,7 @@ Clear eligibility criteria ensure scientific validity, participant safety, and e
 
 **Purpose:** Establish metabolically healthy reference population
 
-## [[KEYWORD-Insulin|insulin]] Resistance Group Criteria (≥1 Required)
+##  Resistance Group Criteria (≥1 Required)
 
 | Parameter | Threshold |
 |-----------|-----------|
@@ -42,7 +42,7 @@ Clear eligibility criteria ensure scientific validity, participant safety, and e
 
 ### Medical Conditions
 - Infectious diseases (active)
-- [[KEYWORD-Cancer|cancer]] (any type)
+-  (any type)
 - Renal failure
 - Hepatic failure
 - Cardiac failure
@@ -52,7 +52,7 @@ Clear eligibility criteria ensure scientific validity, participant safety, and e
 ### Medications
 - Antidepressants
 - Regular prescription medications
-- Preventive or therapeutic drugs affecting [[KEYWORD-Metabolism|metabolism]]
+- Preventive or therapeutic drugs affecting 
 
 ### Laboratory Abnormalities
 - Abnormal TSH (thyroid dysfunction)
@@ -78,7 +78,7 @@ Clear eligibility criteria ensure scientific validity, participant safety, and e
 
 ## Links
 
-**Parent MOC:** [[MOC-Research-Ethics]]  
+**Parent MOC:**   
 **Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]]  
 **Related:** [[Fair_Subject_Selection_Ethics_[Z-002-0603].md]] — Ethical selection principles
 
@@ -88,4 +88,4 @@ Clear eligibility criteria ensure scientific validity, participant safety, and e
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

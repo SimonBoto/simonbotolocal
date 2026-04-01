@@ -166,8 +166,8 @@ Cells can switch between:
 
 - [[L-001-0045C]] Ribose & PPP (triose connection)
 - [[L-001-0045E]] Aldoses vs Ketoses (glucose vs fructose)
-- [[MOC-Glycolysis-PPP]]
-- [[MOC-Mitochondrial-Function]] (pyruvate entry)
+- 
+-  (pyruvate entry)
 
 ---
 

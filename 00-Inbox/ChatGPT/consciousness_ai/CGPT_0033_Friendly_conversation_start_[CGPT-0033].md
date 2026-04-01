@@ -48,4 +48,4 @@ A fresh “hey” carries the vibe of someone opening a door to a room full of h
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

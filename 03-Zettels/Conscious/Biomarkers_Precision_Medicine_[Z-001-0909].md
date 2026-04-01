@@ -6,7 +6,7 @@ aliases: [Z-001-0909, Z-001-0009-deprecated, Biomarkers, Precision_Medicine, Bio
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, biomarkers, precision-medicine, predictive, prognostic, pharmacodynamic, clinical-translation, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
@@ -14,9 +14,9 @@ updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
 ---
 
-# [[KEYWORD-Biomarker|biomarker]]s in Precision Medicine — Predictive, Prognostic, and Pharmacodynamic
+# s in Precision Medicine — Predictive, Prognostic, and Pharmacodynamic
 
-Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."** [[KEYWORD-Biomarker|biomarkers]] are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
+Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."**  are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
 
 ## Biomarker Definition (NIH)
 
@@ -44,7 +44,7 @@ Biomarkers can originate from **any omics level:**
 - **Genomics:** Genetic risk variants
 - **Transcriptomics:** Expression signatures
 - **Proteomics:** Protein biomarkers (PSA, troponins)
-- **[[KEYWORD-Metabolomics|metabolomics]]:** Small molecule profiles (glucose, lipids, organic acids)
+- **:** Small molecule profiles (glucose, lipids, organic acids)
 - **Multi-omics:** Combined signatures for maximum predictive power
 
 ## Biomarker Development Pipeline
@@ -112,11 +112,11 @@ Systems biology produces **massive datasets:**
 
 - **Upstream/Prerequisite:** [[Microbiomics_Gut_Metabolic_Organ_[Z-001-0908].md]] — Microbial biomarkers (SCFAs)
 - **Parallel/Related:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Multi-omics integration
-- **Downstream/Consequence:** [[MOC-PhD-METHAP-Trial]] — Trial design application
+- **Downstream/Consequence:**  — Trial design application
 
 ## Context
 
-**Also relevant to:** [[Biomarkers_Taxonomy]] — Classification framework, [[IR_Mechanisms_Map]] — IR-specific markers
+**Also relevant to:**  — Classification framework,  — IR-specific markers
 
 **Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Subsection 2.6
 
@@ -126,5 +126,5 @@ Systems biology produces **massive datasets:**
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

@@ -11,7 +11,7 @@ pmcid: "N/A"
 tier: 1
 relevance: "High — Foundational framework for IRB approval and METHAP trial design"
 status: extracted
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 extraction-date: 2026-03-27
 ---
 
@@ -110,7 +110,7 @@ This framework applies universally, though adaptations may be needed for local h
 ## Related References
 - [[LitNote_Historical_Ethics_Guidelines_L-002-0602]] — Evolution of research ethics frameworks
 - [[LitNote_Vulnerable_Populations_Research_Ethics_L-002-0603]] — Special protections for vulnerable groups
-- [[MOC-Research-Ethics]] — Master map of research ethics concepts
+-  — Master map of research ethics concepts
 
 ---
 

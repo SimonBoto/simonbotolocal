@@ -5,7 +5,7 @@ title: Citramalic & Tartaric Acids — Yeast & Fungal Markers
 aliases: [Z-012-0107, Citramalic-Acid, Tartaric-Acid, Yeast, Fungal, Candida]
 domain: 012
 tags: [zettel, biomarker, citramalic, tartaric, yeast, fungal, candida]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

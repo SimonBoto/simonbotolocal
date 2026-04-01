@@ -5,7 +5,7 @@ title: Folate 5-MTHF vs Folic Acid Methylation Forms
 aliases: [Z-004-0002, Folate, 5-MTHF, Methylfolate, Folic Acid]
 domain: 004
 tags: [zettel, biomarker, methylation, folate, mthfr, clinical-protocol]
-parent-moc: [[MOC-Methylation-One-Carbon]]
+parent-moc: 
 biomarker-type: folate-status
 form-5mthf: Active
 form-folic-acid: Synthetic
@@ -78,7 +78,7 @@ source-litnote: Synthesized from clinical practice
 | **Pregnancy** | Reduced risk of unmetabolized folic acid |
 | **History of miscarriage** | MTHFR common in recurrent loss |
 | **Depression/anxiety** | 5-MTHF crosses blood-brain barrier better |
-| **Neural tube defect history** | Genetic folate [[KEYWORD-Metabolism|metabolism]] issues likely |
+| **Neural tube defect history** | Genetic folate  issues likely |
 
 ### Testing Folate Status
 
@@ -138,13 +138,13 @@ patient_id,visit,rbc_folate_ng_ml,5_mthf_ng_ml,mthfr_genotype,folate_form_used
 
 ---
 
-*Source: [[Ref_Crider_Folic_Acid_Review_2011]], [[Ref_Lamers_5MTHF_Superior_2011]]*
+*Source: , *
 *Created: 2026-02-26 | Domain: 004 | Status: Conscious*
 
 ## RELATED FILES
 - [[TG_HDL_Ratio_IR_Marker_[Z-001-0049]|Z-001-0049]]
-- [[[[KEYWORD-Biomarker|biomarker]]s/Methylation_Family_[B-004-0001]|Biomarker Family Guide]]
-- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
+- s/Methylation_Family_[B-004-0001]|Biomarker Family Guide]]
+- |Biomarkers MOC]]
 
 
 

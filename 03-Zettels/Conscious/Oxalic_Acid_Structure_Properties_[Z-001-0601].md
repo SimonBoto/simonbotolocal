@@ -5,7 +5,7 @@ title: Oxalic Acid Structure and Properties
 aliases: [Z-001-0601, oxalic-acid, dicarboxylic-acid, ethanedioic-acid]
 domain: 001
 tags: [zettel, oxalic-acid, dicarboxylic-acid, chemistry, structure]
-parent-moc: [[MOC-Adipic-Acid-Metabolism]]
+parent-moc: 
 source: [[L-001-0060A]]
 confidence: high
 created: 2026-03-04
@@ -38,7 +38,7 @@ created: 2026-03-04
 
 - **Strong organic acid:** Both carboxyl groups donate protons
 - **Reducing agent:** Can donate electrons in redox reactions
-- **Chelating agent:** Binds metal ions ([[KEYWORD-Calcium|calcium]], iron)
+- **Chelating agent:** Binds metal ions (, iron)
 
 ## Comparison to Other Dicarboxylic Acids
 
@@ -46,12 +46,12 @@ created: 2026-03-04
 |------|---------|---------|-------|
 | **Oxalic** | 2 | C₂H₂O₄ | Simplest, strongest |
 | **Malonic** | 3 | C₃H₄O₄ | One methylene spacer |
-| **Succinic** | 4 | C₄H₆O₄ | [[KEYWORD-Krebs_Cycle|krebs cycle]] intermediate |
+| **Succinic** | 4 | C₄H₆O₄ |  intermediate |
 | **Glutaric** | 5 | C₅H₈O₄ | — |
 | **Adipic** | 6 | C₆H₁₀O₄ | Industrial use, PhD marker |
 
 ## Related
-- [[[[KEYWORD-Oxalate|oxalate]]_Mineral_Binding_Calcium_Iron_[Z-001-0603].md]] — Biological effects
+- _Mineral_Binding_Calcium_Iron_[Z-001-0603].md]] — Biological effects
 - [[Dietary_Sources_Oxalate_Table_[Z-001-0602].md]] — Food sources
 - [[Adipic_Acid_Structure_Properties_[Z-001-0620].md]] — 6-carbon analog
 
@@ -60,5 +60,5 @@ created: 2026-03-04
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Dicarboxylic_Acid_Hierarchy_IR_Markers_[Z-101-0011]|Z-101-0011]]

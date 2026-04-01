@@ -5,7 +5,7 @@ title: Olive Oil — The Mediterranean Advantage
 aliases: [Olive-Oil, Oleic-Acid, Mediterranean-Diet]
 domain: 001
 tags: [zettel, olive-oil, oleic-acid, mediterranean, polyphenols]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]]
 extraction-date: 2026-03-01
@@ -32,11 +32,11 @@ extraction-date: 2026-03-01
 - Preserves membrane integrity
 
 **Cellular Effects:**
-- Improved [[KEYWORD-Insulin|insulin]] sensitivity
+- Improved  sensitivity
 - Anti-inflammatory gene expression
-- Enhanced lipid [[KEYWORD-Metabolism|metabolism]]
+- Enhanced lipid 
 
-## [[KEYWORD-Clinical|clinical]] Evidence
+##  Evidence
 
 **PREDIMED:**
 - Mediterranean + olive oil

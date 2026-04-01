@@ -6,7 +6,7 @@ aliases: [Z-001-1101, Glucogenic-AAs]
 domain: 001
 domain-name: Amino Acid Metabolism
 tags: [zettel, glucogenic, gluconeogenesis, fasting]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
 source: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
 confidence: high
@@ -67,7 +67,7 @@ Glucogenic amino acids can be converted to glucose via gluconeogenesis—critica
 | **12-24 hours** | Glycogen depletion begins | Liver starts gluconeogenesis |
 | **24-48 hours** | Muscle protein catabolism | Alanine major substrate |
 | **48+ hours** | Continued proteolysis | All glucogenic AAs used |
-| **Prolonged** | Skeletal muscle loss | Conservation [[KEYWORD-Mechanism|mechanism]]s activate |
+| **Prolonged** | Skeletal muscle loss | Conservation s activate |
 
 ### The Alanine Cycle
 ```
@@ -108,13 +108,13 @@ Muscle: Glycolysis → Pyruvate → Alanine
 |---------|---------------------------|
 | **Glucagon** | Stimulates (fasting) |
 | **Cortisol** | Stimulates (stress, prolonged fasting) |
-| **[[KEYWORD-Insulin|insulin]]** | Inhibits (fed state) |
+| **** | Inhibits (fed state) |
 | **Epinephrine** | Stimulates (acute stress) |
 
 ## Related
 - [[Glycogenic_Ketogenic_Amino_Acid_Classification_[Z-001-1097].md]]
-| [[MOC-Gluconeogenesis]]
-| [[MOC-Amino-Acid-[[KEYWORD-Metabolism|metabolism]]]]
+| 
+| 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

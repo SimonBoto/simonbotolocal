@@ -6,7 +6,7 @@ aliases: [Z-001-1116, Organic-Acids]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, organic-acids, structures, functions, oat]
-parent-moc: [[MOC-Metabolomics-Analysis]]
+parent-moc: 
 source-litnote: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
 source: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Organic Acids Structures Functions
 
 ## Overview
-Reference table of key organic acids in [[KEYWORD-Metabolism|metabolism]]—their structures, sources, and clinical significance in organic acids testing (OAT).
+Reference table of key organic acids in —their structures, sources, and clinical significance in organic acids testing (OAT).
 
 ## Krebs Cycle Organic Acids
 
@@ -45,7 +45,7 @@ Reference table of key organic acids in [[KEYWORD-Metabolism|metabolism]]—thei
 | **Adipate** | 6C dicarboxylic | Adipate | General FAO stress |
 | **Ethylmalonate** | 5C, ethyl branch | Ethylmalonate | Multiple FAO deficiency |
 
-## B-[[KEYWORD-Vitamin_D|vitamin d]]ependent Markers
+## B-ependent Markers
 
 | Acid | Related AA/Vitamin | OAT Marker | Deficiency Indicated |
 |------|-------------------|------------|---------------------|
@@ -101,11 +101,11 @@ Reference table of key organic acids in [[KEYWORD-Metabolism|metabolism]]—thei
 ## Related
 - [[Cofactor_Deficiency_Metabolite_Patterns_[Z-001-1105].md]]
 | [[OAT_Category_Interpretation_Framework_[Z-001-1065].md]]
-| [[MOC-[[KEYWORD-Metabolomics|metabolomics]]-Analysis]]
+| -Analysis]]
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

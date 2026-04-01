@@ -6,7 +6,7 @@ title: Testosterone — Primary Male Androgen
 aliases: [Z-011-0001, Testosterone, Total-Testosterone, Free-Testosterone, Androgen]
 domain: 011
 tags: [zettel, biomarker, testosterone, androgen, male-hormone, libido, muscle]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

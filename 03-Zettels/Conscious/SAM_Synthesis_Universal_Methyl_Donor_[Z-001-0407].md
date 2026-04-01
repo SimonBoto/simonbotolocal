@@ -5,7 +5,7 @@ title: SAM Synthesis — Universal Methyl Donor
 aliases: [SAM, S-Adenosylmethionine, Methyl-Donor]
 domain: 001
 tags: [zettel, sam, methionine, methyl-donor, methylation]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # SAM Synthesis — Universal Methyl Donor
 
-> S-Adenosylmethionine (SAM) is synthesized from methionine and ATP, serving as the primary methyl donor for over 100 [[KEYWORD-Methylation|methylation]] reactions including DNA, histones, neurotransmitters, and phospholipids.
+> S-Adenosylmethionine (SAM) is synthesized from methionine and ATP, serving as the primary methyl donor for over 100  reactions including DNA, histones, neurotransmitters, and phospholipids.
 
 ## Synthesis
 
@@ -67,8 +67,8 @@ Methionine + ATP → SAM + PPi + Pi
 
 **Substrate Availability:**
 - Methionine from diet or remethylation
-- B12/[[KEYWORD-Folate|folate]] status affects methionine regeneration
-- One-carbon [[KEYWORD-Metabolism|metabolism]] fuels the cycle
+- B12/ status affects methionine regeneration
+- One-carbon  fuels the cycle
 
 **Product Inhibition:**
 - SAH inhibits methyltransferases
@@ -80,4 +80,4 @@ Methionine + ATP → SAM + PPi + Pi
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

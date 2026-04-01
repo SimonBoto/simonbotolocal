@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — HBOT mechanisms, radiosensitization, bone healing, therapeutic benefits and risks
 status: extracted
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -65,9 +65,9 @@ extraction-date: 2026-03-08
 3. [[HBOT_Clinical_Applications_Safety_Considerations_[Z-001-1140].md]]
 
 ## Related References
-- [[MOC-Cancer-Metabolism]]
+- 
 - [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_[Z-001-1123].md]]
-- [[MOC-Clinical-Protocols]]
+- 
 
 ---
 

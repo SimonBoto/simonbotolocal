@@ -5,13 +5,13 @@ title: Folate Serum vs RBC Assessment
 aliases: [Folate, Serum, RBC, Tissue-Stores]
 domain: 001
 tags: [zettel, folate, serum, rbc, assessment]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Folate|folate]] Serum vs RBC Assessment
+#  Serum vs RBC Assessment
 
 > Serum folate reflects recent intake (fluctuates with meals), while RBC folate reflects 2-3 month tissue stores and is more reliable for assessing functional status.
 
@@ -51,9 +51,9 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_B12_[[KEYWORD-Clinical|clinical]]_Assessment_L-001-0408]]*
+*Source: _Assessment_L-001-0408]]*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_[Z-001-0497]|Z-001-0497]]

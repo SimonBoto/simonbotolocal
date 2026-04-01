@@ -6,7 +6,7 @@ aliases: [Z-001-1057, Ketosis]
 domain: 001
 domain-name: Metabolic Health
 tags: [zettel, ketosis, ketones, metabolic-flexibility]
-parent-moc: [[MOC-Ketogenesis]]
+parent-moc: 
 source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
 source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
 confidence: high
@@ -27,7 +27,7 @@ Ketosis is a physiological state of elevated ketone body production during low c
 | **Acetone** | Spontaneous decarboxylation | Exhaled (breath ketone) |
 
 ## Ketogenesis Triggers
-1. **Low [[KEYWORD-Insulin|insulin]]** (fasting, carbohydrate restriction)
+1. **Low ** (fasting, carbohydrate restriction)
 2. **High glucagon** (counter-regulatory hormone)
 3. **High fatty acid availability** (lipolysis)
 4. **Mitochondrial capacity** (functional liver mitochondria)
@@ -53,7 +53,7 @@ The ability to switch between carbohydrate and fat oxidation based on availabili
 | **Post-meal RER** | Shifts toward carb oxidation | Stays high (always burning carbs) |
 | **Morning glucose** | Stable with ketones | High despite ketones |
 
-## [[KEYWORD-Insulin_Resistance|insulin resistance]] Connection
+##  Connection
 - **Insulin resistance** impairs metabolic flexibility
 - **Cannot enter ketosis easily** — insulin blocks lipolysis
 - **Treatment:** Low-carb diet → restore insulin sensitivity → regain flexibility
@@ -73,11 +73,11 @@ The ability to switch between carbohydrate and fat oxidation based on availabili
 
 ## Related
 - [[Beta_Oxidation_Clinical_Mechanisms_[Z-001-1054].md]]
-- [[MOC-Ketogenesis]]
-- [[MOC-Insulin-Resistance]]
+- 
+- 
 
 ---
-*Source: CGPT-0022 — Fatty acid [[KEYWORD-Metabolism|metabolism]]*
+*Source: CGPT-0022 — Fatty acid *
 
 
 ## Related

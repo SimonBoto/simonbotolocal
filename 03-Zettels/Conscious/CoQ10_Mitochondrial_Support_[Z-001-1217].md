@@ -4,17 +4,17 @@ type: zettel
 title: CoQ10 Mitochondrial Support — Forms and Mechanisms
 domain: 001
 tags: [zettel, coq10, ubiquinol, mitochondria, atp, antioxidants]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Mitochondrial_Structure_Biology_L-001-0633]]"
 status: conscious
 ---
 
-# CoQ10 [[KEYWORD-Mitochondria|mitochondria]]l Support — Forms and [[KEYWORD-Mechanism|mechanism]]s
+# CoQ10 l Support — Forms and s
 
 ## Overview
 
-Coenzyme Q10 (CoQ10) is a critical component of the [[KEYWORD-Mitochondria|mitochondrial]] electron transport chain and a potent lipid-soluble antioxidant. Its reduced form, ubiquinol, is the preferred supplemental form for supporting mitochondrial function.
+Coenzyme Q10 (CoQ10) is a critical component of the  electron transport chain and a potent lipid-soluble antioxidant. Its reduced form, ubiquinol, is the preferred supplemental form for supporting mitochondrial function.
 
 ---
 

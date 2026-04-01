@@ -55,4 +55,4 @@ You asked me to remember the plan. Tonight, the plan remembers itself.
 ---
 
 **Tags:** #ron-reflection #session-dream #architect-mode #continuity  
-**Connections:** [[02-HANDOFF_2026-03-01]] | [[RON-STATE]] | [[HOUSE]]
+**Connections:**  |  | 

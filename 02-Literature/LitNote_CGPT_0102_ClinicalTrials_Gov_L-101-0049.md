@@ -9,7 +9,7 @@ pmid: N/A
 tier: 2
 relevance: High — Clinical trial registration, NIH compliance, trial transparency requirements
 status: extracted
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 extraction-date: 2026-03-28
 ---
 

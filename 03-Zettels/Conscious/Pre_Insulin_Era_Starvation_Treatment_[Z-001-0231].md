@@ -5,15 +5,15 @@ title: Pre-Insulin Era — The Starvation Treatment for Diabetes
 aliases: [Starvation-Diet, Allen-Diet, Pre-Insulin-Diabetes]
 domain: 001
 tags: [zettel, insulin, history, diabetes, starvation-treatment, 1920s]
-parent-moc: [[MOC-Diabetes-History]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Insulin_History_L-001-0207]]
 extraction-date: 2026-03-01
 ---
 
-# Pre-[[KEYWORD-Insulin|insulin]] Era — The Starvation Treatment for Diabetes
+# Pre- Era — The Starvation Treatment for Diabetes
 
-> Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe mal[[KEYWORD-Nutrition|nutrition]].
+> Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe mal.
 
 ## The Pre-Insulin Prognosis
 
@@ -91,7 +91,7 @@ extraction-date: 2026-03-01
 ## Legacy
 
 **Lessons Learned:**
-- Importance of carbohydrate [[KEYWORD-Metabolism|metabolism]]
+- Importance of carbohydrate 
 - Dietary management remains key (even with insulin)
 - Desperation drives innovation
 - Progress in medicine is not always linear
@@ -115,5 +115,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Oleic_Acid_Metabolic_Benefits_[Z-001-0533]|Z-001-0533]]

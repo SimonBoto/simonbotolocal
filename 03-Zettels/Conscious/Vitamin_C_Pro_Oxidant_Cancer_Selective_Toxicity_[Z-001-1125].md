@@ -6,19 +6,19 @@ aliases: [Z-001-1125, VitC-Pro-Oxidant]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, vitamin-c, pro-oxidant, cancer, h2o2]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]]
 source: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]]
 confidence: high
 created: 2026-03-08
 ---
 
-# Vitamin C Pro Oxidant [[KEYWORD-Cancer|cancer]] Selective Toxicity
+# Vitamin C Pro Oxidant  Selective Toxicity
 
 ## Overview
 Pharmacological doses of vitamin C (ascorbate) act as a pro-oxidant, generating hydrogen peroxide (H₂O₂) that is selectively toxic to cancer cells due to their reduced catalase activity and antioxidant defenses.
 
-## The [[KEYWORD-Mechanism|mechanism]]
+## The 
 
 ### Step 1: High Plasma Ascorbate
 | Route | Dose | Plasma Level |
@@ -124,7 +124,7 @@ Ascorbate + O₂ → Dehydroascorbate + H₂O₂
 ## Related
 - [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_[Z-001-1126].md]]
 - [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_[Z-001-1127].md]]
-- [[MOC-Cancer-[[KEYWORD-Metabolism|metabolism]]]]
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*

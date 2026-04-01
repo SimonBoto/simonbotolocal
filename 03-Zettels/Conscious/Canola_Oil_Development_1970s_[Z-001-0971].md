@@ -5,7 +5,7 @@ title: Canola Oil Development 1970s — Canadian Low-Erucic Acid Rapeseed
 aliases: [Z-001-0971]
 domain: 001
 tags: [zettel, canola, rapeseed, erucic-acid, canada, 1970s, plant-breeding, low-linolenic, conscious]
-parent-moc: [[MOC-History-Industrial-Development]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]]
 status: conscious
@@ -23,7 +23,7 @@ status: conscious
 - Ancient origins in Mediterranean, India, China
 
 **Traditional Oil:**
-- **High erucic acid (22:1):** 20-50% of [[KEYWORD-Fatty_Acids|fatty acids]]
+- **High erucic acid (22:1):** 20-50% of 
 - **Properties:**
   - Industrial applications excellent
   - Food use problematic (taste, potential toxicity)
@@ -85,7 +85,7 @@ status: conscious
 - Meal must contain **<30 micromoles glucosinolates/gram**
 - Strictly regulated term
 
-## [[KEYWORD-Nutrition|nutrition]]al Characteristics
+## al Characteristics
 
 ### Fatty Acid Profile
 
@@ -93,7 +93,7 @@ status: conscious
 | Fatty Acid | Percentage | Notes |
 |------------|------------|-------|
 | **Oleic acid (18:1)** | 61% | Monounsaturated, stable |
-| **Linoleic acid (18:2)** | 21% | [[KEYWORD-Omega_6|omega-6]], essential |
+| **Linoleic acid (18:2)** | 21% | , essential |
 | **Alpha-linolenic (18:3)** | 11% | Omega-3 (ALA) |
 | **Saturated fat** | 7% | Low |
 | **Erucic acid** | <2% | (Legal limit, usually <0.5%) |
@@ -247,4 +247,4 @@ Canola represents:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

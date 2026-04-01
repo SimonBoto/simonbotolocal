@@ -5,7 +5,7 @@ title: "Ketogenic Amino Acids: Leucine and Lysine"
 aliases: [Z-001-0498, ketogenic, leucine, lysine, hmg-coa, acetyl-coa]
 domain: 001
 tags: [zettel, ketogenic, leucine, lysine, hmg-coa, pure-ketogenic]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0046A]]
@@ -20,7 +20,7 @@ source: [[L-001-0046A]]
 - They yield acetyl-CoA or acetoacetyl-CoA
 - No net production of oxaloacetate or other glucogenic intermediates
 
-## Leucine [[KEYWORD-Metabolism|metabolism]]
+## Leucine 
 
 ### Pathway
 ```
@@ -55,11 +55,11 @@ Methylglutaconyl-CoA → HMG-CoA → Acetoacetate + Acetyl-CoA
 ### Acetyl-CoA Fates
 | Condition | Fate |
 |-----------|------|
-| **Fed** | Fatty acid synthesis, [[KEYWORD-Cholesterol|cholesterol]] synthesis |
+| **Fed** | Fatty acid synthesis,  synthesis |
 | **Fasting** | Ketogenesis (liver) |
 | **Aerobic** | Krebs cycle (if OAA available) |
 
-## [[KEYWORD-Clinical|clinical]]: Maple Syrup Urine Disease (MSUD)
+## : Maple Syrup Urine Disease (MSUD)
 
 ### Cause
 **Branched-chain α-keto acid dehydrogenase (BCKDH) deficiency**

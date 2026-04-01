@@ -72,7 +72,7 @@ tags: ["{{tags}}"]
 - {{Indication 3}}
 
 ## Biomarker Links
-- [[{{Biomarker_zettel}}]] — {{relevance}}
+-  — {{relevance}}
 
 ---
 *Catalog created: {{YYYY-MM-DD}}*  

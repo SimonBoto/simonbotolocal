@@ -6,17 +6,17 @@ aliases: [Z-001-1120, Cancer-Mitochondria]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, mitochondria, dysfunction, cancer, metabolism]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]]
 source: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]]
 confidence: high
 created: 2026-03-08
 ---
 
-# [[KEYWORD-Mitochondria|mitochondria]]l Dysfunction Cancer [[KEYWORD-Metabolism|metabolism]]
+# l Dysfunction Cancer 
 
 ## Overview
-[[KEYWORD-Mitochondria|mitochondrial]] dysfunction is a hallmark of cancer—contributing to the Warburg phenotype, apoptotic resistance, and metabolic flexibility that supports tumor growth.
+ dysfunction is a hallmark of cancer—contributing to the Warburg phenotype, apoptotic resistance, and metabolic flexibility that supports tumor growth.
 
 ## Types of Mitochondrial Dysfunction
 
@@ -116,13 +116,13 @@ Metabolites that accumulate due to mitochondrial/TCA defects and promote tumorig
 ## Related
 - [[Warburg_Effect_Aerobic_Glycolysis_Cancer_[Z-001-1117].md]]
 - [[Tumor_Microenvironment_Lactate_Acidification_[Z-001-1119].md]]
-- [[MOC-Cancer-Metabolism]]
-- [[MOC-Mitochondrial-Function]]
+- 
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 
 ## RELATED FILES
-- [[KEYWORD-Cancer]]
-- [[MOC-INDEX|Master Index]]
+- 
+- 

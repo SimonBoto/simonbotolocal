@@ -11,7 +11,7 @@ pmcid: ""
 tier: 2
 relevance: "High - Core training material covering systems biology → metabolomics cascade with direct application to METHAP trial design"
 status: complete
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 
@@ -19,7 +19,7 @@ extraction-date: 2026-02-23
 
 ## Source
 - **Full citation:** ΕΘΝΙΚΟ ΚΑΙ ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ. Πρόγραμμα Συμπληρωματικής Εκπαίδευσης 3174 - ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΜΕΤΑΒΟΛΟΜΙΚΗΣ. Διδακτική Ενότητα 1: Εισαγωγή στα Omics.
-- **PDF Asset:** [[01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 1. ΕΙΣΑΓΩΓΗ ΣΤΑ OMICS.pdf]]
+- **PDF Asset:** 
 - **Course:** 3174 - Βασικές Αρχές Μεταβολομικής
 - **Language:** Greek
 
@@ -143,22 +143,22 @@ extraction-date: 2026-02-23
 ### Tier 1 (Foundational)
 | Reference | Key Contribution | Hub |
 |-----------|------------------|-----|
-| Patti, Yanes & Siuzdak (2012) Nature Reviews | Metabolomics as "apogee of omics trilogy" | [[Patti_Yanes_Siuzdak_2012_Metabolomics_Apogee_R-001-0001]] |
-| Clayton et al. (2006) Nature | Pharmaco-metabonomic phenotyping | [[Clayton_etal_2006_Pharmaco_Metabonomics_R-001-0002]] |
-| Nicholson (2006) Mol Syst Biol | Global systems biology & personalized medicine | [[Nicholson_2006_Global_Systems_Biology_R-001-0003]] |
+| Patti, Yanes & Siuzdak (2012) Nature Reviews | Metabolomics as "apogee of omics trilogy" |  |
+| Clayton et al. (2006) Nature | Pharmaco-metabonomic phenotyping |  |
+| Nicholson (2006) Mol Syst Biol | Global systems biology & personalized medicine |  |
 
 ### Tier 2 (Clinical Translation)
 | Reference | Key Contribution | Hub |
 |-----------|------------------|-----|
-| Clish (2015) Mol Case Studies | Metabolomics for precision medicine | [[Clish_2015_Metabolomics_Precision_Medicine_R-001-0004]] |
-| Kohler et al. (2017) Eur J Pharm Sci | Integrating biomarkers & pharmacology | [[Kohler_etal_2017_Integrating_Metabolomics_Pharmacology_R-001-0005]] |
+| Clish (2015) Mol Case Studies | Metabolomics for precision medicine |  |
+| Kohler et al. (2017) Eur J Pharm Sci | Integrating biomarkers & pharmacology |  |
 
 ### Created (All Bibliography Complete)
-- [x] Beebe K et al. (2017) — [[Beebe_etal_2017_Metabolic_Individuality_R-001-0006]]
-- [x] Chen R & Snyder M (2012) — [[Chen_Snyder_2012_Systems_Biology_PM_R-001-0007]]
-- [x] Klassen A et al. (2017) — [[Klassen_etal_2017_Metabolomics_Definitions_R-001-0008]]
-- [x] Marchand CR et al. (2018) — [[Marchand_etal_2018_Biomarker_Framework_R-001-0009]]
-- [x] Θεοδωρίδης Γ. (2015) — [[Theodoridis_etal_2015_Systems_Biology_Greek_R-001-0010]]
+- [x] Beebe K et al. (2017) — 
+- [x] Chen R & Snyder M (2012) — 
+- [x] Klassen A et al. (2017) — 
+- [x] Marchand CR et al. (2018) — 
+- [x] Θεοδωρίδης Γ. (2015) — 
 
 ---
 

@@ -4,13 +4,13 @@ type: zettel
 title: Beta-Oxidation — Mitochondrial Fatty Acid Breakdown
 domain: 001
 tags: [zettel, beta-oxidation, mitochondria, fatty-acids, acetyl-coa, carnitine]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]]"
 status: conscious
 ---
 
-# Beta-Oxidation — [[KEYWORD-Mitochondria|mitochondria]]l Fatty Acid Breakdown
+# Beta-Oxidation — l Fatty Acid Breakdown
 
 ## Overview
 
@@ -106,7 +106,7 @@ Acylcarnitine + CoA → Fatty acyl-CoA + Carnitine
 
 ### Inhibition Signals
 - High energy (high ATP, NADH)
-- [[KEYWORD-Insulin|insulin]]
+- 
 - Malonyl-CoA (inhibits CPT-I)
 
 ---
@@ -123,7 +123,7 @@ Acylcarnitine + CoA → Fatty acyl-CoA + Carnitine
 - Life-threatening hypoglycemia
 - Treatment: Avoid fasting
 
-### [[KEYWORD-Insulin_Resistance|insulin resistance]]
+### 
 - Impaired β-oxidation capacity
 - Lipid accumulation in muscle/liver
 - Adipate elevation (ω-oxidation backup)

@@ -9,7 +9,7 @@ pmid: N/A
 tier: 2
 relevance: High — PhD adipic acid domain, oxalate metabolism pathways, biomarker chemistry
 status: extracted
-parent-moc: [[MOC-Adipic-Acid]]
+parent-moc: 
 extraction-date: 2026-03-28
 ---
 

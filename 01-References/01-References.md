@@ -6,7 +6,7 @@ title: "01-References — Source Management"
 aliases: [References, Sources, Bibliography]
 tags: [index, references, sources, bibliography, navigation, folder]
 parent-index: [[00-MISSION]]
-child-folders: "[[01-References-Hub]], [[01-References-Other]], [[01-References-Zotero]], [[01-References-Assets]]"
+child-folders: ", , , "
 status: active
 ---
 
@@ -22,10 +22,10 @@ status: active
 
 | Folder | Purpose | Contents |
 |--------|---------|----------|
-| **[[01-References-Hub\|Hub/]]** | Bibliographic cards | Author_Year_Title.md with full citation |
-| **[[01-References-Other\|Other/]]** | Non-academic sources | Blogs, videos, podcasts |
-| **[[01-References-Zotero\|Zotero/]]** | Zotero sync | Auto-imported from Zotero |
-| **[[01-References-Assets\|Assets/]]** | Binary files | PDFs, images, data files |
+| **** | Bibliographic cards | Author_Year_Title.md with full citation |
+| **** | Non-academic sources | Blogs, videos, podcasts |
+| **** | Zotero sync | Auto-imported from Zotero |
+| **** | Binary files | PDFs, images, data files |
 
 ### Assets Subfolders
 - **Assets/PDFs/** — Source papers, e-books
@@ -84,23 +84,23 @@ tags: [reference, topic]
 - Claim 2
 
 ## Linked LitNotes
-- [[LitNote_Author_2024]]
+- 
 
 ## Linked Zettels
-- [[Zettel_Claim_1]]
-- [[Zettel_Claim_2]]
+- 
+- 
 ```
 
 ---
 
 ## 🔗 Navigation
 
-← **Back to [[00-Inbox]]** — Capture & Input  
-→ **Next: [[02-Literature]]** — Source Processing  
+← **Back to ** — Capture & Input  
+→ **Next: ** — Source Processing  
 ↑ **Parent: [[00-MISSION]]**
 
 **Siblings:**
-[[00-Inbox]] | [[02-Literature]] | [[03-Zettels]] | [[04-Synthesis]] | [[05-Projects]] | [[06-Structure]] | [[08-Dashboards]] | [[09-System]]
+ |  |  |  |  |  |  | 
 
 ---
 

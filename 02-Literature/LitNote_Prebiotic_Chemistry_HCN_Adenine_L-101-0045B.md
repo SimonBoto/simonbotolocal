@@ -169,8 +169,8 @@ parent-moc:
 
 - [[L-101-0045A]] Adenosine & Adenine Biochemistry
 - [[L-101-0045C]] Ribose and Pentose Phosphate Pathway
-- [[MOC-Origins-of-Life]]
-- [[MOC-Evolutionary-Biochemistry]]
+- 
+- 
 
 ---
 

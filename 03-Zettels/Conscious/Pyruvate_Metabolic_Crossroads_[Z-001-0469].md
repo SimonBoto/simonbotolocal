@@ -5,7 +5,7 @@ title: "Pyruvate: Metabolic Crossroads"
 aliases: [Z-001-0469, pyruvate, crossroads, pdc, lactate]
 domain: 001
 tags: [zettel, pyruvate, metabolism, acetyl-coa, lactate, krebs]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045D]]
@@ -25,7 +25,7 @@ Glucose → ... → 2 Pyruvate
 
 ## Metabolic Fates
 
-### Aerobic: [[KEYWORD-Mitochondria|mitochondria]]l Oxidation
+### Aerobic: l Oxidation
 ```
 Pyruvate → Acetyl-CoA → Krebs cycle
 ```
@@ -62,8 +62,8 @@ Pyruvate connects:
 - **Glycolysis** (carbohydrates)
 - **Krebs cycle** (aerobic energy)
 - **Gluconeogenesis** (glucose synthesis)
-- **Amino acid [[KEYWORD-Metabolism|metabolism]]** (transamination)
-- **Lipogenesis** (acetyl-CoA → [[KEYWORD-Fatty_Acids|fatty acids]])
+- **Amino acid ** (transamination)
+- **Lipogenesis** (acetyl-CoA → )
 
 ## Clinical
 **Pyruvate dehydrogenase deficiency:**

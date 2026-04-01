@@ -6,7 +6,7 @@ aliases: [Z-001-0912, Z-001-0012-deprecated, Krebs_Cycle_Metabolites, Organic_Ac
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, krebs-cycle, organic-acids, insulin-resistance, malate, succinate, biomarkers, diabetes, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 confidence: high
 created: 2026-02-23
@@ -16,7 +16,7 @@ source-litnote: Synthesized from clinical practice
 
 # Krebs Cycle Metabolites as Insulin Resistance Markers
 
-Krebs cycle (tricarboxylic acid cycle) intermediates serve as functional [[KEYWORD-Biomarker|biomarker]]s of mitochondrial [[KEYWORD-Metabolism|metabolism]] and insulin sensitivity. Accumulation of specific organic acids reflects enzymatic bottlenecks, cofactor deficiencies, or metabolic pathway dysregulation characteristic of insulin resistance.
+Krebs cycle (tricarboxylic acid cycle) intermediates serve as functional s of mitochondrial  and insulin sensitivity. Accumulation of specific organic acids reflects enzymatic bottlenecks, cofactor deficiencies, or metabolic pathway dysregulation characteristic of insulin resistance.
 
 ## Krebs Cycle Overview
 
@@ -109,11 +109,11 @@ Both adipic acid and malate relate to **fatty acid metabolism dysregulation**:
 
 - **Upstream/Prerequisite:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_[Z-001-0911].md]] — Same diagnostic logic
 - **Parallel/Related:** [[Carnitine_Fatty_Acid_Transport_[Z-001-0913].md]] — Fatty acid metabolism pathway
-- **Downstream/Consequence:** [[[[KEYWORD-Biomarker|biomarkers]]_Taxonomy]] — Classification of these markers
+- **Downstream/Consequence:** _Taxonomy]] — Classification of these markers
 
 ## Context
 
-**Also relevant to:** [[MOC-PhD-METHAP-Trial]], [[IR_Mechanisms_Map]] — Specific metabolite markers for IR
+**Also relevant to:** ,  — Specific metabolite markers for IR
 
 **Source:** [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 
@@ -124,5 +124,5 @@ Both adipic acid and malate relate to **fatty acid metabolism dysregulation**:
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

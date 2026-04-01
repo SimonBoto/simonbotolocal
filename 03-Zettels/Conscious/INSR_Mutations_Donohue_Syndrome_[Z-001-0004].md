@@ -7,15 +7,15 @@ aliases: [Z-001-0004, INSR_Mutations, Donohue_Syndrome]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, insulin, receptor, mutation, disease, leprechaunism]
-parent-moc: [[MOC-Metabolic-Syndrome]]
-source: [[Ref_Nature_IR_Mechanisms_2022]]
+parent-moc: 
+source: 
 confidence: high
 created: 2026-02-22
 ---
 
 # INSR Mutations Cause Severe IR
 
-Mutations in the [[KEYWORD-Insulin|insulin]] receptor gene cause extreme [[KEYWORD-Insulin_Resistance|insulin resistance]] syndromes, revealing the critical role of INSR in [[KEYWORD-Metabolism|metabolism]].
+Mutations in the  receptor gene cause extreme  syndromes, revealing the critical role of INSR in .
 
 **Clinical syndromes:**
 
@@ -40,10 +40,10 @@ Mutations in the [[KEYWORD-Insulin|insulin]] receptor gene cause extreme [[KEYWO
 
 ## Context
 
-**Also in:** [[MOC-Diabetes-T2D]]
+**Also in:** 
 
 **Severity:** Most severe insulin resistance phenotype known
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

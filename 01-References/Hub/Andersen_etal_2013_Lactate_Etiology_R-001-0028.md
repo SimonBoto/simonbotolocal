@@ -17,7 +17,7 @@ status: pending
 aliases: [R-001-0028, Andersen_2013, Lactate_Metabolism]
 domain: 001
 tags: [reference, lactate, metabolic-acidosis, metabolic-stress, biomarker]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 

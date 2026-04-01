@@ -6,14 +6,14 @@ aliases: [Z-001-1094, Ketogenesis]
 domain: 001
 domain-name: Ketogenesis
 tags: [zettel, ketogenesis, liver, mitochondria, hmg-coa]
-parent-moc: [[MOC-Ketogenesis]]
+parent-moc: 
 source-litnote: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
 source: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
 confidence: high
 created: 2026-03-08
 ---
 
-# Ketogenesis Mechanism Liver [[KEYWORD-Mitochondria|mitochondria]]
+# Ketogenesis Mechanism Liver 
 
 ## Overview
 Ketogenesis is the metabolic process by which the liver converts fatty acids into ketone bodies, primarily occurring in mitochondria during periods of carbohydrate restriction.
@@ -21,7 +21,7 @@ Ketogenesis is the metabolic process by which the liver converts fatty acids int
 ## When Ketogenesis Occurs
 
 ### Triggers
-| Condition | Mechanism | [[KEYWORD-Insulin|insulin]] Effect |
+| Condition | Mechanism |  Effect |
 |-----------|-----------|----------------|
 | **Fasting** | Glucose depletion | Low insulin |
 | **Low-carb diet** | Restricted glucose availability | Low insulin |
@@ -64,7 +64,7 @@ Acetoacetate ↔ BHB (beta-hydroxybutyrate dehydrogenase)
 ## Why the Liver?
 
 ### Unique Liver Features
-- **High [[KEYWORD-Mitochondria|mitochondrial]] density:** Supports β-oxidation
+- **High  density:** Supports β-oxidation
 - **HMG-CoA lyase expression:** Essential enzyme for ketogenesis
 - **Low ketone utilization:** Produces but doesn't consume ketones
 - **Glucose-guardian role:** Spares glucose for obligate users (brain, RBCs)
@@ -112,7 +112,7 @@ Extrahepatic tissues: Use ketones for energy
 ## Related
 - [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_[Z-001-1093].md]]
 - [[Beta_Oxidation_Clinical_Mechanisms_[Z-001-1054].md]]
-- [[MOC-Ketogenesis]]
+- 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

@@ -6,7 +6,7 @@ aliases: [Z-001-1079, Follow-Up]
 domain: 001
 domain-name: Clinical Protocols
 tags: [zettel, follow-up, assessment, schedule]
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]
 source: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Follow Up Assessment Rhythms
 
 ## Overview
-Structured follow-up schedule for [[KEYWORD-Metabolomics|metabolomics]] patients with specific assessment criteria at each checkpoint.
+Structured follow-up schedule for  patients with specific assessment criteria at each checkpoint.
 
 ## The 4-8-16-28 Week Rhythm
 
@@ -35,7 +35,7 @@ Structured follow-up schedule for [[KEYWORD-Metabolomics|metabolomics]] patients
 - Adjust supplement dosing if needed
 - Address side effects
 - Reinforce dietary recommendations
-- **NO lab testing** (too early for [[KEYWORD-Biomarker|biomarker]] changes)
+- **NO lab testing** (too early for  changes)
 
 ### Week 8: Early Progress Assessment
 **Focus:** Clinical trends, compliance refinement
@@ -62,7 +62,7 @@ Structured follow-up schedule for [[KEYWORD-Metabolomics|metabolomics]] patients
 | **Symptom scores** | Quantified improvement |
 | **Functional status** | Activity level, exercise tolerance |
 | **Quality of life** | Overall wellbeing |
-| **Lab markers** (if indicated) | Key [[KEYWORD-Biomarker|biomarkers]] improving? |
+| **Lab markers** (if indicated) | Key  improving? |
 
 #### Actions
 - Consider repeat OAT if major protocol changes made
@@ -112,13 +112,13 @@ Each follow-up must document:
 
 ## Related
 - [[Clinic_Patient_Flow_Operations_[Z-001-1077].md]]
-- [[MOC-Clinical-Protocols]]
+- 
 
 ---
 *Source: CGPT-0022 — Clinic operations*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

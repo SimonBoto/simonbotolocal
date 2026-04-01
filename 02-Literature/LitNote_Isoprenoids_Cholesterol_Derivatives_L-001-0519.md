@@ -15,7 +15,7 @@ domain: 001
 tags: [litnote, isoprenoids, terpenes, steroids, coq10, vitamin-d, bile-acids, cholesterol-derivatives]
 source: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_[CGPT-0391]]]"
 status: extracted
-parent-moc: [[MOC-Cholesterol-Quality]]
+parent-moc: 
 extraction-date: 2026-03-03
 ---
 
@@ -231,9 +231,9 @@ The "statin side effect" conversation must include:
 ---
 
 ## Related References
-- [[MOC-Cholesterol-Quality]] — Parent MOC
-- [[MOC-Vitamin-D-Metabolism]] — Vitamin D details
-- [[MOC-Hormones]] — Steroid hormone context
+-  — Parent MOC
+-  — Vitamin D details
+-  — Steroid hormone context
 - [[LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518]]] — Mevalonate pathway details
 
 ---

@@ -6,7 +6,7 @@ aliases: [Z-001-0094, Vitamin_K2_Vascular_Calcification_Protection]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, vitamin-d, vitamin-k2]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 source: [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]]
 confidence: high
 created: 2026-03-01
@@ -19,9 +19,9 @@ Vitamin K2 activates matrix GLA protein (MGP), which inhibits calcium deposition
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
+**Parent MOC:** 
 **Source:** [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]]
-**Related:** [[Vitamin_K2_MK4_MK7_Osteocalcin_Activation_[Z-001-0092].md]], [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
+**Related:** [[Vitamin_K2_MK4_MK7_Osteocalcin_Activation_[Z-001-0092].md]], -
 
 ---
 

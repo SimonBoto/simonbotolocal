@@ -6,7 +6,7 @@ title: Methylation Family (5-Methylfolate, Methylmalonic Acid, Homocysteine, Act
 aliases: [B-004-0001, Methylation-Panel, 5-MTHF, MMA, Homocysteine, Active-B12, One-Carbon]
 domain: 004
 tags: [biomarker, methylation, b12, folate, homocysteine, functional-medicine, cardiovascular, neurological]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 created: 2026-03-30
 source-litnote: Synthesized from clinical practice
@@ -363,7 +363,7 @@ Methionine → SAM (S-adenosylmethionine) → [METHYLATION REACTIONS] → SAH �
 - [[B6_[B-003-0003]]]: Transsulfuration pathway
 - [[Creatine_[B-007-XXXX]]]: Methylation demand (creatine synthesis uses methyl groups)
 | [[SAM_SA_[B-004-0002]]]: Ultimate methyl donor status
-- [[MTHFR_Genotype_[G-001-0001]]]: Genetic polymorphism
+- ]: Genetic polymorphism
 
 source-litnote: Synthesized from clinical practice
 ---

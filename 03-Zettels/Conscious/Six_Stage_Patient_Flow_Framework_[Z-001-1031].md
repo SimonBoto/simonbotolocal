@@ -6,7 +6,7 @@ aliases: [Z-001-1031, Patient-Flow-6]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, clinical-workflow, patient-journey, metabolomics]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
 source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Six Stage Patient Flow Framework
 
 ## Overview
-The complete [[KEYWORD-Metabolomics|metabolomics]] patient journey, structured as six sequential stages with distinct learning objectives for clinician training.
+The complete  patient journey, structured as six sequential stages with distinct learning objectives for clinician training.
 
 ## The Six Stages
 
@@ -32,7 +32,7 @@ The complete [[KEYWORD-Metabolomics|metabolomics]] patient journey, structured a
 
 ### STAGE 2 — Sample Analysis (The Interpretive Arena)
 **Goal:** Create coherent metabolic narrative from OAT + fatty acids
-**Learning:** Pattern recognition, pathway integration, [[KEYWORD-Biomarker|biomarker]] triangulation
+**Learning:** Pattern recognition, pathway integration,  triangulation
 **Socratic Challenge:** *"You see elevated lactate + BHB. Is this mitochondrial blockage or ketogenic physiology?"*
 
 ### STAGE 3a — Live or Email Report
@@ -65,14 +65,14 @@ Each stage becomes a **training module** with:
 ## Related
 - [[Tiered_Supplement_Prescribing_Hierarchy_[Z-001-1032].md]]
 - [[MCI_Three_Function_Architecture_[Z-001-1030].md]]
-- [[MOC-Clinical-Protocols]]
+- 
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 
 
 

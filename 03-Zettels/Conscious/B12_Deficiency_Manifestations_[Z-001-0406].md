@@ -5,7 +5,7 @@ title: B12 Deficiency Manifestations and Mimics
 aliases: [B12-Deficiency, Megaloblastic-Anemia, Subacute-Combined-Degeneration]
 domain: 001
 tags: [zettel, b12-deficiency, anemia, neurological, mimics]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]
 extraction-date: 2026-03-01
@@ -18,7 +18,7 @@ extraction-date: 2026-03-01
 ## Hematological Manifestations
 
 ### Megaloblastic Anemia
-**[[KEYWORD-Mechanism|mechanism]]:** Impaired DNA synthesis in rapidly dividing cells
+**:** Impaired DNA synthesis in rapidly dividing cells
 
 **Peripheral Blood:**
 - **Macrocytic anemia:** MCV >100 fL
@@ -42,7 +42,7 @@ extraction-date: 2026-03-01
 - **Advanced:** Spasticity, weakness, paraplegia
 - **Cognitive:** Dementia, depression, psychosis
 
-**Mechanism:** Impaired myelin synthesis ([[KEYWORD-Methylation|methylation]] defect)
+**Mechanism:** Impaired myelin synthesis ( defect)
 
 **Critical:**
 - **Irreversible** if untreated >6-12 months
@@ -101,9 +101,9 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_One_Carbon_[[KEYWORD-Metabolism|metabolism]]_B12_L-001-0401]]*
+*Source: _B12_L-001-0401]]*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Hematological_Overlap_B12_MM_[Z-001-0420]|Z-001-0420]]

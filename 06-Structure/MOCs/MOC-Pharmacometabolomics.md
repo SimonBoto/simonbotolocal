@@ -4,7 +4,7 @@ type: moc
 title: MOC — Pharmacometabolomics
 aliases: [MOC_Pharmaco, MOC_Precision_Medicine, MOC_Metabolomics_Clinical]
 tags: [moc, pharmacometabolomics, precision-medicine, metabolomics, drug-response]
-parent-moc: [[MOC-INDEX]]
+parent-moc: 
 created: 2026-03-03
 ---
 

@@ -5,13 +5,13 @@ title: Vitamin D and Lipid Metabolism — HDL and Triglyceride Effects
 aliases: [VitD-Lipids, Vitamin-D-HDL, Vitamin-D-Cholesterol]
 domain: 001
 tags: [zettel, vitamin-d, lipids, HDL, triglycerides, cholesterol]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Vitamin_D|vitamin d]] and Lipid [[KEYWORD-Metabolism|metabolism]] — HDL and Triglyceride Effects
+#  and Lipid  — HDL and Triglyceride Effects
 
 > Vitamin D modulates lipid metabolism through hepatic VDR signaling, PTH suppression, and potential effects on lipoprotein lipase, influencing HDL cholesterol, triglycerides, and overall cardiovascular risk.
 
@@ -55,7 +55,7 @@ extraction-date: 2026-03-01
 - May improve HDL functionality (cholesterol efflux capacity)
 
 **Mechanism:**
-- Reduced [[KEYWORD-Inflammation|inflammation]] improves HDL quality
+- Reduced  improves HDL quality
 - ApoA-I expression effects
 - Enhanced reverse cholesterol transport
 
@@ -158,6 +158,6 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

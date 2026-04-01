@@ -4,7 +4,7 @@ type: zettel
 title: Suberate and Sebacate Formation — C8 and C10 Dicarboxylic Acids
 domain: 101
 tags: [zettel, suberate, sebacate, dicarboxylic-acids, omega-oxidation, phd-research]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]]"
 status: conscious
@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-While adipate (C6) is the most clinically studied dicarboxylic acid, suberate (C8) and sebacate (C10) provide additional information about fatty acid [[KEYWORD-Metabolism|metabolism]] patterns.
+While adipate (C6) is the most clinically studied dicarboxylic acid, suberate (C8) and sebacate (C10) provide additional information about fatty acid  patterns.
 
 ---
 
@@ -90,8 +90,8 @@ Sebacate → Suberate → Adipate → Succinyl-CoA + 3 Acetyl-CoA
 
 ### Adipate Dominant (High C6, Normal C8/C10)
 - Indicates impairment of C6 fatty acid handling
-- Early [[KEYWORD-Mitochondria|mitochondria]]l dysfunction
-- Specific for [[KEYWORD-Insulin|insulin]] resistance pattern
+- Early l dysfunction
+- Specific for  resistance pattern
 
 ### Elevated C6 + C8 + C10
 - General β-oxidation impairment

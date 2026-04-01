@@ -6,14 +6,14 @@ aliases: [Z-001-1100, Transamination]
 domain: 001
 domain-name: Amino Acid Metabolism
 tags: [zettel, transamination, b6, cofactors, metabolism]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
 source: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
 confidence: high
 created: 2026-03-08
 ---
 
-# Transamination B6 Cofactors Amino Acid [[KEYWORD-Metabolism|metabolism]]
+# Transamination B6 Cofactors Amino Acid 
 
 ## Overview
 Transamination is the process of transferring amino groups between amino acids and alpha-keto acids—requiring vitamin B6 (pyridoxal phosphate, PLP) as essential cofactor.
@@ -28,7 +28,7 @@ Example:
 Alanine + Alpha-ketoglutarate ↔ Pyruvate + Glutamate
 ```
 
-### [[KEYWORD-Mechanism|mechanism]]
+### 
 1. **Substrate binding:** Amino acid binds to enzyme-PLP complex
 2. **Amino group transfer:** Amino group moves to PLP (forms pyridoxamine phosphate)
 3. **Keto acid release:** First alpha-keto acid released
@@ -107,10 +107,10 @@ Alanine + Alpha-ketoglutarate ↔ Pyruvate + Glutamate
 ## Related
 - [[Alpha_Keto_Acids_Transamination_Intermediates_[Z-001-1099].md]]
 | [[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052].md]]
-| [[MOC-Amino-Acid-Metabolism]]
+| 
 
 ---
-*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*
+*Source: CGPT-0445 — Advanced *
 
 
 ## Related

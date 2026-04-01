@@ -4,7 +4,7 @@ type: zettel
 title: Selenium-Iodine Synergy and Toxicity Management
 domain: 001
 tags: [zettel, selenium, iodine, thyroid-protection, toxicity, brazil-nuts]
-parent-moc: [[MOC-Thyroid-Health]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]]"
 status: conscious
@@ -20,7 +20,7 @@ Selenium and iodine have an intimate synergistic relationship in thyroid health.
 
 ## Biochemical Synergy
 
-### Iodine [[KEYWORD-Metabolism|metabolism]] Requires Selenium
+### Iodine  Requires Selenium
 ```
 Iodide (I⁻) enters thyroid
     ↓
@@ -77,7 +77,7 @@ Protects thyroid tissue from oxidative damage
 | Form | Bioavailability | Notes |
 |------|-----------------|-------|
 | **Selenomethionine** | High | Plant-derived, well-tolerated |
-| **Se-methylselenocysteine** | High | Direct precursor, [[KEYWORD-Cancer|cancer]] studies |
+| **Se-methylselenocysteine** | High | Direct precursor,  studies |
 | **Sodium selenite** | Moderate | Inorganic, higher toxicity risk |
 
 ---
@@ -105,7 +105,7 @@ Protects thyroid tissue from oxidative damage
 
 ---
 
-## [[KEYWORD-Clinical|clinical]] Applications
+##  Applications
 
 ### With Iodine Supplementation
 **Mandatory pairing:**

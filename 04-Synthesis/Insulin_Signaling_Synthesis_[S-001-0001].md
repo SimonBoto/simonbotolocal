@@ -6,7 +6,7 @@ domain: 001
 domain-name: Insulin_Signaling
 aliases: [T-001-0001, TechRef_Insulin, Insulin_Signaling_Ref]
 tags: [tech-ref, insulin, signaling, metabolism, evolving]
-parent-moc: [[MOC-001]]
+parent-moc: 
 created: 2026-02-22
 last-updated: 2026-02-22
 status: evolving
@@ -95,13 +95,13 @@ Insulin signaling is a receptor tyrosine kinase cascade initiated by insulin bin
 ### Biomarkers
 | Biomarker | Mechanism | Zettel Link |
 |-----------|-----------|-------------|
-| **Adipic acid** | Mitochondrial dysfunction (Z-001-0015) | [[BIOMARKER_Adipic_IR_Cutoffs_20260215_004]] |
+| **Adipic acid** | Mitochondrial dysfunction (Z-001-0015) |  |
 | **HOMA-IR** | Whole-body insulin resistance | HOMA biomarker (to create) |
 | **Fasting insulin** | β-cell compensation | Clinical measure |
 
 ### Protocols
-- [[PROTOCOL_UoC_STUDY_DESIGN_20260219_004_000168]] — Measuring IR in METHAP study
-- [[METHOD_GC_MS_Protocol_20260219_003_000120]] — Metabolomic measurement
+-  — Measuring IR in METHAP study
+-  — Metabolomic measurement
 
 ### Metabolomics Relevance
 **Adipic acid connection:**
@@ -126,7 +126,7 @@ Insulin signaling is a receptor tyrosine kinase cascade initiated by insulin bin
 | Sex differences? | Understudied | Female-specific mechanisms |
 
 **Related question zettels:**
-- [[Z_Q_IRS_Serine_Kinase_Specificity_011]] — Which kinase when?
+-  — Which kinase when?
 
 ---
 

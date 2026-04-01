@@ -27,7 +27,7 @@ Last updated: 2026-02-20
 
 ## 🚀 Start Here — GO TO MISSION CONTROL
 
-**[[MISSION_CONTROL]]** ← 🎯 **YOUR COMMAND CENTER**
+**** ← 🎯 **YOUR COMMAND CENTER**
 
 *Live status, today's plan, RON's work, one-click actions.*
 
@@ -37,12 +37,12 @@ Last updated: 2026-02-20
 
 | Dashboard | Purpose | When to Use |
 |-----------|---------|-------------|
-| **[[MISSION_CONTROL]]** | **Master dashboard — ALWAYS START HERE** | Every session |
-| **[[MORNING_REVIEW]]** | Review overnight work | After midnight sessions |
-| **[[RON_Mission_Control_Calendar]]** | Sprint planning, calendar | Weekly planning |
-| **[[RON_Review_System]]** | Review changes, give feedback | After RON makes changes |
-| **[[RON_Tools_Dashboard]]** | MCP status, capabilities | When tools acting up |
-| **[[Daily_OPS_Template]]** | Daily checklist & collaboration | Each morning |
+| **** | **Master dashboard — ALWAYS START HERE** | Every session |
+| **** | Review overnight work | After midnight sessions |
+| **** | Sprint planning, calendar | Weekly planning |
+| **** | Review changes, give feedback | After RON makes changes |
+| **** | MCP status, capabilities | When tools acting up |
+| **** | Daily checklist & collaboration | Each morning |
 
 ---
 
@@ -69,17 +69,17 @@ Last updated: 2026-02-20
 - **Tools Dashboard** — MCP status, web search, file I/O
 
 ### Workflows & Templates
-- **[[06-Structure/Templates/TEMPLATE_INDEX]]** — Which template when
-- **[[RON-Workflow-System]]** — Detailed extraction workflows
+- **** — Which template when
+- **** — Detailed extraction workflows
 
 ---
 
 ## 🔗 Quick Links
 
 **Vault:**
-- [[00-Inbox]] — Drop new sources here
-- [[02-Atomic]] — Main atomic notes
-- [[01-References/Hub]] — Reference notes
+-  — Drop new sources here
+-  — Main atomic notes
+-  — Reference notes
 - [[06-Structure/MOCs/MOC-INDEX]] — 🗺️ **Master MOC Index** ⭐
 - [[06-Structure/MOCs/MOC-Insulin-Signaling]] — PhD navigation hub
 

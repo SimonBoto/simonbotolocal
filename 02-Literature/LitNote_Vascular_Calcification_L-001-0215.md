@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: High — METHAP safety rationale; cardiovascular protection mechanisms
 status: extracted
-parent-moc: [[MOC-Cardiovascular-Health]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -211,7 +211,7 @@ extraction-date: 2026-03-01
 - [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]] — Synergy mechanisms
 - [[MGP_Vascular_Protection_Synergy_[Z-001-0255]]] — MGP details
 - [[Calcium_Paradox_D_K2_Resolution_[Z-001-0257]]] — Calcium paradox
-- [[MOC-Cardiovascular-Health]] — Parent MOC
+-  — Parent MOC
 
 ---
 

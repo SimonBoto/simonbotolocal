@@ -6,7 +6,7 @@ aliases: [Z-001-1106, RNA-World]
 domain: 001
 domain-name: Evolutionary Biochemistry
 tags: [zettel, rna-world, origins, life, evolution]
-parent-moc: [[MOC-Evolutionary-Biochemistry]]
+parent-moc: 
 source-litnote: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
 source: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
 confidence: high
@@ -51,7 +51,7 @@ The RNA world hypothesis proposes that early life was based on RNA as both genet
 | Feature | Significance |
 |---------|--------------|
 | **Ribosomes** | rRNA catalyzes protein synthesis |
-| **tRNA** | Ancient molecule; links [[KEYWORD-Amino_Acids|amino acids]] to codons |
+| **tRNA** | Ancient molecule; links  to codons |
 | **ATP** | Ribose-based energy currency |
 | **NAD⁺, FAD, CoA** | All contain adenosine (RNA component) |
 
@@ -87,7 +87,7 @@ The RNA world hypothesis proposes that early life was based on RNA as both genet
 | **Replication fidelity** | Early life tolerated error rates |
 
 ### Alternative Hypotheses
-- **[[KEYWORD-Metabolism|metabolism]]-first:** Chemical networks before genetic material
+- **-first:** Chemical networks before genetic material
 - **Protein-first:** Simple peptides as first catalysts
 - **Lipid world:** Membrane compartments first
 
@@ -99,11 +99,11 @@ The RNA world hypothesis proposes that early life was based on RNA as both genet
 ## Related
 - [[Ancient_Metabolic_Pathways_Conservation_[Z-001-1107].md]]
 | [[Prebiotic_Chemistry_Hydrothermal_Vents_[Z-001-1108].md]]
-| [[MOC-Evolutionary-[[KEYWORD-Biochemistry|biochemistry]]]]
+| 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

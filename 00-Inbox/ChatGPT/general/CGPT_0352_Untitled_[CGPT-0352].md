@@ -42,4 +42,4 @@ If sth has pH 1, how much should it be diluted with water to get to 6
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

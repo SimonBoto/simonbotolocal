@@ -15,7 +15,7 @@ domain: 101
 tags: [litnote, adipic-acid, suberic-acid, sebacic-acid, beta-oxidation, omega-oxidation, fatty-acids, phd-research]
 source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]]"
 status: extracted
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -167,9 +167,9 @@ Decanoyl-CoA → (ω-oxidation in ER) → Sebacyl-CoA intermediates → Sebacate
 - [[Suberate_Sebacate_Formation_[Z-001-1195].md]] — To create
 
 **MOCs:**
-- [[MOC-Pharmacometabolomics]] — Primary domain
-- [[MOC-Mitochondrial-Function]] — β-oxidation
-- [[MOC-Insulin-Resistance]] — Clinical application
+-  — Primary domain
+-  — β-oxidation
+-  — Clinical application
 
 **LitNotes:**
 - [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]] — Existing (partial)

@@ -5,7 +5,7 @@ title: Vitamin C to Oxalate Conversion
 aliases: [Z-001-0607, ascorbate-oxalate, vitamin-c-oxalate]
 domain: 001
 tags: [zettel, vitamin-c, ascorbate, oxalate, metabolism]
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 source: [[L-001-0060A]]
 confidence: high
 created: 2026-03-04
@@ -34,12 +34,12 @@ Ascorbate → Dehydroascorbate → Oxalate + Threonate
 - Effect size modest but measurable
 - Individual variation high
 
-**[[KEYWORD-Mechanism|mechanism]]:**
+**:**
 - Increased oxalate substrate
 - Urinary oxalate excretion rises
 - May tip supersaturation in susceptible individuals
 
-## [[KEYWORD-Clinical|clinical]] Recommendations
+##  Recommendations
 
 **For kidney stone formers:**
 - Limit vitamin C to <1000 mg/day
@@ -52,7 +52,7 @@ Ascorbate → Dehydroascorbate → Oxalate + Threonate
 - Megadosing (>2000 mg) not recommended
 
 ## Related
-- [[Glycine_[[KEYWORD-Metabolism|metabolism]]_to_Oxalate_[Z-001-0605].md]] — Other major source
+- _to_Oxalate_[Z-001-0605].md]] — Other major source
 - [[Hydroxyproline_Collagen_Oxalate_Production_[Z-001-0606].md]] — Collagen source
 
 ---
@@ -60,4 +60,4 @@ Ascorbate → Dehydroascorbate → Oxalate + Threonate
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

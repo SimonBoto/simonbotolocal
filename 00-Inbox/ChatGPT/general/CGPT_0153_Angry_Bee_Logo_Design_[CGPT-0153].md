@@ -265,4 +265,4 @@ Here is the **simplified, bold, and stylized** version of the **Squat Bees** log
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

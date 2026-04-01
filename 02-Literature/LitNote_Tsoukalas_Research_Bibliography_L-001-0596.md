@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — 50+ curated papers on metabolomics, Vitamin D safety, fatty acids, metabolic syndrome
 status: extracted
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -69,9 +69,9 @@ extraction-date: 2026-03-08
 3. [[Mediterranean_Diet_Metabolic_Evidence_[Z-001-1076].md]] — Dietary intervention studies
 
 ## Related References
-- [[MOC-Research-Methods]]
-- [[MOC-Vitamin-D-Metabolism]]
-- [[MOC-Nutrition]]
+- 
+- 
+- 
 
 ---
 

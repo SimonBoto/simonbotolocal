@@ -5,20 +5,20 @@ title: Iron Metabolism and Aconitase Function
 aliases: [Iron-Metabolism, Fe-S-Assembly, Iron-Deficiency, Iron-Overload]
 domain: 001
 tags: [zettel, iron-metabolism, fe-s-assembly, iron-deficiency, aconitase]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]]
 extraction-date: 2026-03-01
 ---
 
-# Iron [[KEYWORD-Metabolism|metabolism]] and Aconitase Function
+# Iron  and Aconitase Function
 
 > Adequate iron is essential for Fe-S cluster assembly, with deficiency impairing aconitase and causing citrate accumulation, while excess causes oxidative damage.
 
 ## Fe-S Cluster Assembly
 
 **Requirements:**
-- Iron import into [[KEYWORD-Mitochondria|mitochondria]]
+- Iron import into 
 - Sulfur from cysteine (NFS1)
 - Scaffold proteins (ISCU)
 - Chaperones for transfer
@@ -42,7 +42,7 @@ extraction-date: 2026-03-01
 Fe²⁺ + H₂O₂ → Fe³⁺ + OH• + OH⁻
 ```
 - Hydroxyl radicals
-- [[KEYWORD-Mitochondria|mitochondrial]] damage
+-  damage
 - Lipid peroxidation
 
 ## Clinical Balance
@@ -57,6 +57,6 @@ Fe²⁺ + H₂O₂ → Fe³⁺ + OH• + OH⁻
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

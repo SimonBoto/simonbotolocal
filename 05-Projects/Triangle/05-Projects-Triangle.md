@@ -5,7 +5,7 @@ type: index
 title: "05-Projects/Triangle — Company HQ"
 aliases: [Triangle, Company, Organization]
 tags: [index, triangle, company, organization, folder]
-parent-index: [[05-Projects]]
+parent-index: 
 status: active
 ---
 
@@ -21,13 +21,13 @@ status: active
 
 | Role | File | Function |
 |------|------|----------|
-| **CEO** | [[05-Projects/Triangle/01-CEO\|01-CEO]] | Authority, vision, final decisions |
-| **AI Boss** | [[05-Projects/Triangle/02-AI-BOSS\|02-AI-BOSS]] | Execution, delegation, operations |
-| **Agent Fleet** | [[05-Projects/Triangle/03-AGENTS\|03-AGENTS]] | Specialized muscle agents |
-| **Projects** | [[05-Projects/Triangle/04-PROJECTS\|04-PROJECTS]] | Active sprint, P0/P1/P2 |
-| **Workflows** | [[05-Projects/Triangle/05-WORKFLOWS\|05-WORKFLOWS]] | How we work, handoffs |
-| **Organogram** | [[05-Projects/Triangle/ORGANOGRAM\|ORGANOGRAM]] | Complete company blueprint |
-| **Session Handoff** | [[05-Projects/Triangle/SESSION_HANDOFF\|SESSION_HANDOFF]] | Continuity record |
+| **CEO** |  | Authority, vision, final decisions |
+| **AI Boss** |  | Execution, delegation, operations |
+| **Agent Fleet** |  | Specialized muscle agents |
+| **Projects** |  | Active sprint, P0/P1/P2 |
+| **Workflows** |  | How we work, handoffs |
+| **Organogram** |  | Complete company blueprint |
+| **Session Handoff** |  | Continuity record |
 
 ---
 
@@ -41,10 +41,10 @@ status: active
 
 ## 🔗 Navigation
 
-← **Back to [[05-Projects]]** — Projects Index  
-→ **Sister: [[05-Projects-AppProduction]]** — App Production  
-→ **Sister: [[05-Projects-PhD]]** — PhD Work  
-↑ **Parent: [[05-Projects]]**
+← **Back to ** — Projects Index  
+→ **Sister: ** — App Production  
+→ **Sister: ** — PhD Work  
+↑ **Parent: **
 
 ---
 

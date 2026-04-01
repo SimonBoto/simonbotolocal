@@ -6,7 +6,7 @@ aliases: [Z-001-1096, Therapeutic-Ketosis]
 domain: 001
 domain-name: Ketogenesis
 tags: [zettel, ketogenic-diet, epilepsy, neurodegeneration, therapy]
-parent-moc: [[MOC-Ketogenesis]]
+parent-moc: 
 source-litnote: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
 source: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
 confidence: high
@@ -44,7 +44,7 @@ Ketogenic diets and therapeutic ketosis have established benefits for epilepsy a
 ### Neurodegenerative Diseases
 | Condition | Evidence | Mechanism |
 |-----------|----------|-----------|
-| **Alzheimer's disease** | Preliminary trials | Brain fuel alternative, reduced glucose hypo[[KEYWORD-Metabolism|metabolism]] |
+| **Alzheimer's disease** | Preliminary trials | Brain fuel alternative, reduced glucose hypo |
 | **Parkinson's disease** | Early research | Mitochondrial support, reduced oxidative stress |
 | **ALS** | Case reports | Energy support, reduced excitotoxicity |
 | **Traumatic brain injury** | Animal models | Neuroprotection, reduced edema |
@@ -52,7 +52,7 @@ Ketogenic diets and therapeutic ketosis have established benefits for epilepsy a
 ### Metabolic Disorders
 | Condition | Rationale |
 |-----------|-----------|
-| **Type 2 diabetes** | Improved [[KEYWORD-Insulin|insulin]] sensitivity, weight loss |
+| **Type 2 diabetes** | Improved  sensitivity, weight loss |
 | **Metabolic syndrome** | Reduced triglycerides, increased HDL |
 | **PCOS** | Improved hormonal balance, weight loss |
 | **GLUT1 deficiency** | Bypasses glucose transport defect |
@@ -61,7 +61,7 @@ Ketogenic diets and therapeutic ketosis have established benefits for epilepsy a
 | Rationale | Mechanism |
 |-----------|-----------|
 | **Warburg effect** | Cancer cells rely on glucose; ketones not used efficiently |
-| **Anti-inflammatory** | Reduced tumor-promoting [[KEYWORD-Inflammation|inflammation]] |
+| **Anti-inflammatory** | Reduced tumor-promoting  |
 | **IGF-1 reduction** | Lower growth factor signaling |
 | **Enhanced treatment** | May improve chemotherapy/radiation efficacy |
 
@@ -116,7 +116,7 @@ Ketogenic diets and therapeutic ketosis have established benefits for epilepsy a
 ## Related
 - [[BHB_Hydroxyacid_Not_True_Ketone_[Z-001-1095].md]]
 - [[Ketosis_Metabolic_Flexibility_Clinical_[Z-001-1057].md]]
-- [[MOC-Ketogenesis]]
+- 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

@@ -6,7 +6,7 @@ aliases: [Z-001-1134, MM-Treatment]
 domain: 001
 domain-name: Hematology Oncology
 tags: [zettel, multiple-myeloma, treatment, modern, therapy]
-parent-moc: [[MOC-Hematology-Oncology]]
+parent-moc: 
 source-litnote: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]]
 source: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]]
 confidence: high
@@ -50,7 +50,7 @@ Modern multiple myeloma treatment utilizes novel agents (immunomodulatory drugs,
 ## Drug Classes
 
 ### Immunomodulatory Drugs (IMiDs)
-| Drug | Generation | [[KEYWORD-Mechanism|mechanism]] |
+| Drug | Generation |  |
 |------|------------|-----------|
 | **Thalidomide** | First | Cereblon binding, IL-6 inhibition |
 | **Lenalidomide** | Second | Enhanced IMiD, NK cell activation |
@@ -141,7 +141,7 @@ Modern multiple myeloma treatment utilizes novel agents (immunomodulatory drugs,
 
 ## Supportive Care
 
-### [[KEYWORD-Bone_Health|bone health]]
+### 
 | Intervention | Rationale |
 |--------------|-----------|
 | **Bisphosphonates** | Reduce skeletal events |
@@ -175,12 +175,12 @@ Modern multiple myeloma treatment utilizes novel agents (immunomodulatory drugs,
 - [[Multiple_Myeloma_CRAB_Features_Diagnosis_[Z-001-1131].md]]
 - [[Multiple_Myeloma_Staging_ISS_R-ISS_[Z-001-1133].md]]
 - [[TP53_Multiple_Myeloma_Prognosis_Therapy_[Z-001-1135].md]]
-- [[MOC-Hematology-Oncology]]
+- 
 
 ---
-*Source: CGPT-0264 — Warburg effect and [[KEYWORD-Cancer|cancer]]*
+*Source: CGPT-0264 — Warburg effect and *
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[B12_MM_Mimicry_Clinical_Question_[Z-001-0419]|Z-001-0419]]

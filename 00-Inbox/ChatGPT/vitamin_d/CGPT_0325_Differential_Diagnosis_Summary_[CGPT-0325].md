@@ -420,4 +420,4 @@ Given the presence of a subechoic nodule in the breast with BI-RADS category C, 
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

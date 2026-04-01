@@ -6,7 +6,7 @@ title: Homocysteine — Methylation & Cardiovascular Risk
 aliases: [Z-004-0001, Homocysteine, Methylation, Cardiovascular-Risk, Inflammation]
 domain: 004
 tags: [zettel, biomarker, homocysteine, methylation, b12, folate, cardiovascular]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

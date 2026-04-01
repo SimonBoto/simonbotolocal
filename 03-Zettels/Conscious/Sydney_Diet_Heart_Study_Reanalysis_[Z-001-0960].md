@@ -5,13 +5,13 @@ title: Sydney Diet-Heart Study Reanalysis — Omega-6 and Mortality
 aliases: [Z-001-0960]
 domain: 001
 tags: [zettel, sydney-diet-heart, ramsden, omega-6, mortality, clinical-trial, paradox, conscious]
-parent-moc: [[MOC-Clinical-Trials]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Epidemiological_Evidence_L-001-0525]]
 status: conscious
 ---
 
-# Sydney Diet-Heart Study Reanalysis — [[KEYWORD-Omega_6|omega-6]] and Mortality
+# Sydney Diet-Heart Study Reanalysis —  and Mortality
 
 ## Study Overview
 
@@ -83,7 +83,7 @@ status: conscious
 ### 2. Pro-inflammatory Eicosanoids
 
 - Linoleic acid → arachidonic acid → PGE2, LTB4
-- Chronic [[KEYWORD-Inflammation|inflammation]] in vessel walls
+- Chronic  in vessel walls
 - Plaque instability
 
 ### 3. Reduced Omega-3 Incorporation
@@ -110,7 +110,7 @@ status: conscious
 **Sydney Findings:**
 - PUFA replacement reduced LDL
 - But increased deaths
-- Suggests **non-LDL [[KEYWORD-Mechanism|mechanism]]s matter**
+- Suggests **non-LDL s matter**
 
 ### Meta-Analysis Integration
 

@@ -5,7 +5,7 @@ title: OAT Extended Analysis — Complete Extraction from Greek Clinical Guide
 aliases: [REF-OAT-003]
 domain: 012
 tags: [oat, reference, extended-analysis, complete-extraction, clinical-guide]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 extraction-date: 2026-03-31
 source: Analysis organic acids extended.md (Greek clinical guide)
@@ -652,8 +652,8 @@ source: Analysis organic acids extended.md (Greek clinical guide)
 ---
 
 ## Related Files
-- [[REF-OAT-001|OAT Reference Ranges and Interpretation Framework]]
-- [[REF-OAT-002|OAT Complete Reference — All Metabolites]]
+- 
+- 
 - [[B-012-0001|Citrate — Mitochondrial Dysfunction Marker]]
 
 ---

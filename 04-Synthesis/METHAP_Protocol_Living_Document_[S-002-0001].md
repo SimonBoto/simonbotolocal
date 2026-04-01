@@ -5,7 +5,7 @@ title: METHAP Protocol - Metabolomics of High-Dose Vitamin D in Adipic Acid Path
 aliases: [S-002-0001, METHAP-Protocol, PhD-Study-Protocol]
 domain: 002
 tags: [synthesis, methap, phd, protocol, irb, study-design, vitamin-d, adipic-acid, metabolomics, clinical-trial]
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 status: active
 created: 2026-03-30
 updated: 2026-03-30

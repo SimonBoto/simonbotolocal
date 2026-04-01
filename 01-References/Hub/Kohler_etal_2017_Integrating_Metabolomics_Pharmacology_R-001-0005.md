@@ -13,7 +13,7 @@ status: ref
 confidence: high
 aliases: [R-001-0005, Kohler_2017_Integrating_Metabolomics_Pharmacology]
 tags: [ref, biomarker-discovery, clinical-pharmacology, precision-medicine, integration]
-parent-moc: [[MOC-References]]
+parent-moc: 
 source-type: review
 extraction-date: 2026-02-23
 ---
@@ -46,8 +46,8 @@ Kohler, I. et al. (2017) 'Integrating clinical metabolomics-based biomarker disc
 > "The integration of metabolomics with clinical pharmacology enables a new paradigm of precision therapeutics based on metabolic phenotype."
 
 ## Links to Atomics
-- [[Clayton_etal_2006_Pharmaco_Metabonomics_R-001-0002]] — Precedent for pharmaco-metabolomics
-- [[MOC-PhD-METHAP-Trial]] — Trial design framework
+-  — Precedent for pharmaco-metabolomics
+-  — Trial design framework
 
 ## Cited In
 - [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Course bibliography

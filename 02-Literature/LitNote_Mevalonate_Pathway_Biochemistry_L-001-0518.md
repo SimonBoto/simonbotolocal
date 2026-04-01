@@ -15,7 +15,7 @@ domain: 001
 tags: [litnote, mevalonate-pathway, cholesterol, hmg-coa-reductase, statins, coq10, isoprenoids, biochemistry]
 source: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_[CGPT-0391]]]"
 status: extracted
-parent-moc: [[MOC-Cholesterol-Quality]]
+parent-moc: 
 extraction-date: 2026-03-03
 ---
 
@@ -186,10 +186,10 @@ Statin myopathy isn't just "muscle pain" — it's mitochondrial dysfunction from
 ---
 
 ## Related References
-- [[MOC-Cholesterol-Quality]] — Parent MOC
-- [[MOC-Metabolic-Syndrome]] — Metabolic context
+-  — Parent MOC
+-  — Metabolic context
 - [[LitNote_Statin_Pharmacology_L-001-0502]] — Statin mechanism and side effects
-- [[LitNote_CoQ10_Mitochondrial_Function_L-XXX-XXXX]] — CoQ10 synthesis (if exists)
+-  — CoQ10 synthesis (if exists)
 
 ---
 

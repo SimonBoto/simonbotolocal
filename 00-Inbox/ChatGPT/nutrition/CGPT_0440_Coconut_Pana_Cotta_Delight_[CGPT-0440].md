@@ -143,4 +143,4 @@ These values are an estimate and can vary depending on the specific brands and t
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

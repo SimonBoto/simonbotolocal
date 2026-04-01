@@ -6,7 +6,7 @@ authors: ChatGPT CGPT-0413
 year: 2024
 relevance: High — Core biochemistry for PhD, amino acid catabolism, energy metabolism
 status: complete
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-04
 ---
 

@@ -5,7 +5,7 @@ title: Bilirubin — Liver Function & Bile Pigment
 aliases: [Z-009-0005, Bilirubin, Total-Bilirubin, Direct-Bilirubin, Indirect-Bilirubin, Jaundice]
 domain: 009
 tags: [zettel, biomarker, bilirubin, liver, jaundice, bile, hemolysis]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

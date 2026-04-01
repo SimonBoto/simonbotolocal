@@ -5,15 +5,15 @@ title: Sirolimus mTOR Mitochondrial Mechanisms
 aliases: [Z-101-0483]
 domain: 101
 tags: [zettel, sirolimus, rapamycin, mtor, mitochondria, mitochondrial-biogenesis, oxphos, ros, autophagy, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]]
 status: conscious
 ---
 
-# Sirolimus mTOR [[KEYWORD-Mitochondria|mitochondria]]l Mechanisms
+# Sirolimus mTOR l Mechanisms
 
 ## Overview
-Sirolimus (rapamycin) inhibits the mechanistic target of rapamycin (mTOR), a critical regulator of cell growth, [[KEYWORD-Metabolism|metabolism]], and mitochondrial function.
+Sirolimus (rapamycin) inhibits the mechanistic target of rapamycin (mTOR), a critical regulator of cell growth, , and mitochondrial function.
 
 ## mTOR Complexes
 | Complex | Primary Function | Sirolimus Sensitivity |
@@ -161,11 +161,11 @@ mTORC1 inhibited → Autophagy induced → Cellular component clearance
 ## Related
 - **Source:** [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]]
 - **Diabetes connection:** [[mTOR_Diabetes_Pathophysiology_[Z-101-0484].md]]
-- **[[KEYWORD-Insulin|insulin]] signaling:** [[MOC-Insulin-Signaling]]
+- ** signaling:** 
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -8,7 +8,7 @@ journal: ChatGPT Archive
 tier: 2
 relevance: High — Kefir fermentation, therapeutic fasting protocols, gut reset strategies
 status: extracted
-parent-moc: [[MOC-Gut-Health]]
+parent-moc: 
 extraction-date: 2026-03-09
 ---
 
@@ -73,8 +73,8 @@ extraction-date: 2026-03-09
 3. [[Fermented_Foods_Probiotic_Strategy_[Z-001-1229].md]]
 
 ## Related
-- [[MOC-Gut-Health]]
-- [[MOC-Fasting-Protocols]]
+- 
+- 
 
 ---
 *Extracted: 2026-03-09*

@@ -69,23 +69,23 @@ Zettels link to:
 
 ### Internal Links (Standard)
 ```markdown
-[[Note_Name]] — Basic link
-[[Note_Name|Display Text]] — With alias
-[[Note_Name#Heading]] — To specific heading
-[[Note_Name#^block-id]] — To specific block
+ — Basic link
+ — With alias
+ — To specific heading
+ — To specific block
 ```
 
 ### YAML Links (Metadata)
 ```yaml
-parent-moc: [[MOC-Topic]]
-source: [[Hub_Author_Year]]
-related: [[Zettel_1]], [[Zettel_2]]
+parent-moc: 
+source: 
+related: , 
 ```
 
 ### Embedded Links (Transclusion)
 ```markdown
-![[Note_Name]] — Embed entire note
-![[Note_Name#Heading]] — Embed section
+! — Embed entire note
+! — Embed section
 ```
 
 ---

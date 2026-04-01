@@ -5,7 +5,7 @@ title: "Anaplerosis: Replenishing Krebs Cycle Intermediates"
 aliases: [Z-001-0492, anaplerosis, krebs-cycle, pyruvate-carboxylase, oaa]
 domain: 001
 tags: [zettel, anaplerosis, krebs-cycle, pyruvate-carboxylase, biotin]
-parent-moc: [[MOC-Krebs-Cycle]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045H]]
@@ -30,7 +30,7 @@ Pyruvate + CO₂ + ATP → Oxaloacetate + ADP + Pi
 - **Enzyme:** Pyruvate carboxylase (PC)
 - **Cofactor:** Biotin (B7)
 - **Activator:** Acetyl-CoA (feed-forward)
-- **Location:** [[KEYWORD-Mitochondria|mitochondria]] (liver, kidney)
+- **Location:**  (liver, kidney)
 
 **Regulation:**
 - ↑ Acetyl-CoA stimulates PC
@@ -41,7 +41,7 @@ Pyruvate + CO₂ + ATP → Oxaloacetate + ADP + Pi
 Aspartate + α-ketoglutarate → Oxaloacetate + Glutamate
 ```
 - Uses amino acid carbon skeletons
-- Connects protein [[KEYWORD-Metabolism|metabolism]] to Krebs cycle
+- Connects protein  to Krebs cycle
 
 ### 3. Glutamate Dehydrogenase
 ```
@@ -62,7 +62,7 @@ Glutamate + NAD⁺ → α-ketoglutarate + NADH + NH₄⁺
 - Pyruvate carboxylase is anaplerotic (adds OAA)
 - Must balance for cycle to function
 
-## [[KEYWORD-Clinical|clinical]] Relevance
+##  Relevance
 
 ### Pyruvate Carboxylase Deficiency
 **Rare, severe:**
@@ -105,4 +105,4 @@ Anaplerosis < Cataplerosis (OAA depletion → ketogenesis)
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -5,7 +5,7 @@ title: Insulin Resistance Playbook - Clinical Decision Tool
 aliases: [S-001-0001, IR-Playbook]
 domain: 001
 tags: [synthesis, insulin-resistance, clinical-decision, biomarkers, staging, mechanism, intervention]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 status: active
 created: 2026-03-30
 updated: 2026-03-30

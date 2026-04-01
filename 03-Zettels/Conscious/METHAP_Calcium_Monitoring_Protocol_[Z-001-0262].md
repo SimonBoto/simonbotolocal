@@ -5,15 +5,15 @@ title: METHAP Calcium Monitoring Protocol
 aliases: [METHAP-Monitoring, Calcium-Safety, Protocol]
 domain: 001
 tags: [zettel, methap, monitoring, calcium, safety, protocol]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]]
 extraction-date: 2026-03-01
 ---
 
-# METHAP [[KEYWORD-Calcium|calcium]] Monitoring Protocol
+# METHAP  Monitoring Protocol
 
-> High-dose [[KEYWORD-Vitamin_D|vitamin d]] (8000 IU/day) in the METHAP trial requires systematic monitoring of calcium homeostasis to ensure participant [[KEYWORD-Safety|safety]], with scheduled assessments, clear intervention thresholds, and predefined stopping rules.
+> High-dose  (8000 IU/day) in the METHAP trial requires systematic monitoring of calcium homeostasis to ensure participant , with scheduled assessments, clear intervention thresholds, and predefined stopping rules.
 
 ## Baseline Assessment (Pre-Study)
 
@@ -145,5 +145,5 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[METHAP_Intervention_Protocol_Diet_Supplements_[Z-001-1142]|Z-001-1142]]

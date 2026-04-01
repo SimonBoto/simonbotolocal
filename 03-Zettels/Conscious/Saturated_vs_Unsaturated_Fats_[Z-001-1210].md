@@ -4,7 +4,7 @@ type: zettel
 title: Saturated vs Unsaturated Fats — Health Effects
 domain: 001
 tags: [zettel, saturated-fat, unsaturated-fat, cardiovascular, inflammation, diet]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]]"
 status: conscious
@@ -71,7 +71,7 @@ The degree of saturation (number of double bonds) determines fatty acid physical
 - Different SFAs have different effects:
   - **Palmitic acid (C16):** Most atherogenic
   - **Stearic acid (C18):** Neutral effect on LDL
-  - **Medium-chain (C8-C12):** Different [[KEYWORD-Metabolism|metabolism]]
+  - **Medium-chain (C8-C12):** Different 
 - Context matters (carbohydrate intake, overall diet)
 
 ### Monounsaturated Fats
@@ -84,7 +84,7 @@ The degree of saturation (number of double bonds) determines fatty acid physical
 **Health Effects:**
 - Lower LDL cholesterol
 - Maintain or raise HDL
-- Improve [[KEYWORD-Insulin|insulin]] sensitivity
+- Improve  sensitivity
 - Anti-inflammatory
 - **Key component of Mediterranean diet**
 
@@ -151,7 +151,7 @@ The degree of saturation (number of double bonds) determines fatty acid physical
 - Increase omega-3 EPA/DHA
 - Consider overall diet pattern (Mediterranean)
 
-### For [[KEYWORD-Inflammation|inflammation]]
+### For 
 - Minimize omega-6 excess
 - Maximize omega-3
 - Use MUFA as primary fat
@@ -169,4 +169,4 @@ The degree of saturation (number of double bonds) determines fatty acid physical
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

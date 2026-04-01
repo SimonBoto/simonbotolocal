@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — B-vitamins in metabolism, iron-sulfur clusters, magnesium, cofactor deficiency impacts
 status: extracted
-parent-moc: [[MOC-Vitamin-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -67,7 +67,7 @@ extraction-date: 2026-03-08
 4. [[Cofactor_Deficiency_Metabolite_Patterns_[Z-001-1105].md]]
 
 ## Related References
-- [[MOC-Vitamin-Metabolism]]
+- 
 - [[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052].md]]
 - [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_[Z-001-1100].md]]
 

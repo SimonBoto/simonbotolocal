@@ -5,12 +5,12 @@ title: Historical Ethical Frameworks for Research
 aliases: [Z-101-0479]
 domain: 101
 tags: [zettel, research-ethics, nuremberg-code, helsinki-declaration, belmont-report, cioms, history, conscious]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]]
 status: conscious
 ---
 
-# Historical Ethical Frameworks for [[KEYWORD-Research|research]]
+# Historical Ethical Frameworks for 
 
 ## Overview
 Modern research ethics emerged from responses to abuses, particularly Nazi medical experiments. Each framework built upon predecessors to create comprehensive protections.
@@ -95,7 +95,7 @@ Modern research ethics emerged from responses to abuses, particularly Nazi medic
 | **Informed consent** | Documented, comprehensive |
 | **Subparts** | Additional protections for specific populations (pregnant women, prisoners, children) |
 
-### International: ICH Good [[KEYWORD-Clinical|clinical]] Practice (E6)
+### International: ICH Good  Practice (E6)
 | Element | Requirement |
 |---------|-------------|
 | **Established** | 1996; harmonized EU/US/Japan |
@@ -104,7 +104,7 @@ Modern research ethics emerged from responses to abuses, particularly Nazi medic
 | **Ethical standards** | Participant protection |
 | **Regulatory compliance** | Meeting FDA/EMA requirements |
 
-## [[KEYWORD-Evolution|evolution]] Timeline
+##  Timeline
 ```
 1947 — Nuremberg Code (response to Nazi crimes)
    ↓

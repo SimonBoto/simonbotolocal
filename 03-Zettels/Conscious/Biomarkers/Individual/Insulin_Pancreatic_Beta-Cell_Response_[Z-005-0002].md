@@ -6,7 +6,7 @@ title: Insulin — Pancreatic Beta-Cell Response
 aliases: [Z-005-0002, Insulin, Fasting-Insulin, Beta-Cell, Pancreatic]
 domain: 005
 tags: [zettel, biomarker, insulin, beta-cell, diabetes, insulin-resistance]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

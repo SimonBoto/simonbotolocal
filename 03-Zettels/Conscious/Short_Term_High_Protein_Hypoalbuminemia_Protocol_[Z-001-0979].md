@@ -5,7 +5,7 @@ title: Short-Term High Protein Protocol — Hypoalbuminemia in CKD
 aliases: [Z-001-0979]
 domain: 001
 tags: [zettel, high-protein, hypoalbuminemia, ckd, short-term, protocol, nutritional-rescue, conscious]
-parent-moc: [[MOC-Therapeutic-Nutrition]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_CKD_Nutritional_Assessment_L-001-0575]]
 status: conscious
@@ -13,7 +13,7 @@ status: conscious
 
 # Short-Term High Protein Protocol — Hypoalbuminemia in CKD
 
-## [[KEYWORD-Clinical|clinical]] Scenario
+##  Scenario
 
 **Question:** Can short-term high protein intake be used to correct hypoalbuminemia in CKD patients?
 
@@ -39,10 +39,10 @@ status: conscious
 - Catabolic stress
 - Post-infection recovery
 
-**4. Refractory Mal[[KEYWORD-Nutrition|nutrition]]:**
+**4. Refractory Mal:**
 - Failed standard interventions
 - Severe hypoalbuminemia (<3.0)
-- [[KEYWORD-Inflammation|inflammation]] ruled out
+-  ruled out
 
 ### Contraindications
 

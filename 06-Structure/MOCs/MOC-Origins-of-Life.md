@@ -30,7 +30,7 @@ created: 2026-03-04
 
 ## Evolutionary Context
 - [[Z-101-0451]] ATP Universal Energy Currency (conserved ~4 BY)
-- [[MOC-Evolutionary-Biochemistry]]
+- 
 
 ---
 

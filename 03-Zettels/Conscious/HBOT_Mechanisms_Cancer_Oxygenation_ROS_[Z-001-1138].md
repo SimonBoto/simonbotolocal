@@ -6,7 +6,7 @@ aliases: [Z-001-1138, HBOT-Mechanisms]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, hbot, hyperbaric, oxygen, ros, cancer]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_HBOT_Cancer_L-001-0614]]
 source: [[LitNote_HBOT_Cancer_L-001-0614]]
 confidence: high
@@ -33,7 +33,7 @@ Hyperbaric oxygen therapy (HBOT) involves breathing 100% oxygen at increased atm
 | **Increased pressure** | Dissolves more O₂ in plasma |
 | **Plasma transport** | O₂ delivery independent of hemoglobin |
 | **Tissue diffusion** | Oxygen reaches hypoxic regions |
-| **Cellular uptake** | [[KEYWORD-Mitochondria|mitochondria]]l respiration enhanced |
+| **Cellular uptake** | l respiration enhanced |
 
 ## ROS Generation and Cancer Cell Toxicity
 
@@ -59,7 +59,7 @@ High O₂ + HBOT → ROS production (superoxide, hydrogen peroxide)
 ### Types of ROS Generated
 | Species | Source | Effect |
 |---------|--------|--------|
-| **Superoxide (O₂⁻)** | [[KEYWORD-Mitochondria|mitochondrial]] ETC | Base for other ROS |
+| **Superoxide (O₂⁻)** |  ETC | Base for other ROS |
 | **Hydrogen peroxide (H₂O₂)** | SOD conversion | Signaling, damage |
 | **Hydroxyl radical (OH)** | Fenton reaction | Most damaging |
 
@@ -86,7 +86,7 @@ High O₂ + HBOT → ROS production (superoxide, hydrogen peroxide)
 | Observation | Implication |
 |-------------|-------------|
 | **Cancer cells rely on glycolysis** | But still need some O₂ |
-| **HBOT increases oxygen** | May force oxidative [[KEYWORD-Metabolism|metabolism]] |
+| **HBOT increases oxygen** | May force oxidative  |
 | **Mitochondrial stress** | Generates ROS, damages cancer cells |
 
 ### Combination with Metabolic Therapy
@@ -99,7 +99,7 @@ High O₂ + HBOT → ROS production (superoxide, hydrogen peroxide)
 ## Related
 - [[HBOT_Radiosensitization_Chemotherapy_Enhancement_[Z-001-1139].md]]
 - [[HBOT_Clinical_Applications_Safety_Considerations_[Z-001-1140].md]]
-- [[MOC-Cancer-Metabolism]]
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*

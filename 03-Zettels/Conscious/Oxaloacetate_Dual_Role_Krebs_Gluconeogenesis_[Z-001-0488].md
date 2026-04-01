@@ -5,7 +5,7 @@ title: "Oxaloacetate Dual Role: Krebs Cycle and Gluconeogenesis"
 aliases: [Z-001-0488, oxaloacetate, krebs-cycle, gluconeogenesis, oaa]
 domain: 001
 tags: [zettel, oxaloacetate, krebs-cycle, gluconeogenesis, oaa]
-parent-moc: [[MOC-Gluconeogenesis]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045H]]
@@ -62,19 +62,19 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 - Excess acetyl-CoA → **shunted to ketogenesis**
 
 ### Result
-**Starvation [[KEYWORD-Metabolism|metabolism]]:**
+**Starvation :**
 - Glucose maintained for brain/RBCs
 - Ketones produced as alternative fuel
 - Fatty acids oxidized for ketogenesis
 
-## Transport Problem: OAA Cannot Cross [[KEYWORD-Mitochondria|mitochondria]]l Membrane
+## Transport Problem: OAA Cannot Cross l Membrane
 
 ### Solution Required
 **OAA must be converted to transportable form:**
 - Malate shuttle
 - Aspartate shuttle
 
-**See:** [[[[KEYWORD-Mitochondria|mitochondrial]]_Shuttles_Malate_Aspartate_[Z-001-0490]]] Mitochondrial Shuttles
+**See:** _Shuttles_Malate_Aspartate_[Z-001-0490]]] Mitochondrial Shuttles
 
 ## Related
 - [[Gluconeogenesis_from_Oxaloacetate_[Z-001-0489]]] Gluconeogenesis from Oxaloacetate

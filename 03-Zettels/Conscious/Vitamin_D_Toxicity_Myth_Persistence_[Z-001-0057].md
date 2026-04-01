@@ -6,16 +6,16 @@ aliases: [Z-001-0057, VitD-Myth-Persistence]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, toxicity-myth, misinformation, clinical-practice]
-parent-moc: [[MOC-Vitamin-Safety]]
+parent-moc: 
 source: [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
 confidence: high
 created: 2026-03-01
 status: conscious
 ---
 
-# [[KEYWORD-Vitamin_D|vitamin d]] Toxicity Myth Persistence
+#  Toxicity Myth Persistence
 
-Despite modern understanding that vitamin D toxicity is rare and requires massive supplemental intake (far exceeding physiological production), the toxicity myth persists in public consciousness, medical education, and [[KEYWORD-Clinical|clinical]] practice. This persistence stems from 1950s regulatory responses and failure to update curricula with genetic discoveries.
+Despite modern understanding that vitamin D toxicity is rare and requires massive supplemental intake (far exceeding physiological production), the toxicity myth persists in public consciousness, medical education, and  practice. This persistence stems from 1950s regulatory responses and failure to update curricula with genetic discoveries.
 
 **Why the myth persists:**
 - Medical education lag in updating safety information
@@ -32,9 +32,9 @@ Despite modern understanding that vitamin D toxicity is rare and requires massiv
 
 ## Links
 
-**Parent MOC:** [[MOC-Vitamin-Safety]]
+**Parent MOC:** 
 **Source:** [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
-**Related:** [[LitNote_Vitamin_D_Safety_[[KEYWORD-Mechanism|mechanism]]s_L-001-0008]], [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
+**Related:** s_L-001-0008]], [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
 
 ---
 

@@ -6,7 +6,7 @@ title: 3-HMGA — 3-Hydroxy-3-methylglutaric Acid, HMG-CoA Metabolism
 aliases: [Z-012-0008, 3-HMGA, HMG-CoA, Ketogenesis, Leucine-Metabolism]
 domain: 012
 tags: [zettel, biomarker, 3-hmga, hmg-coa, ketogenesis, leucine]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

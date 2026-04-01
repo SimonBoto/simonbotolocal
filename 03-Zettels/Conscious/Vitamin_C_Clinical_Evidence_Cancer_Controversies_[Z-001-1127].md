@@ -6,7 +6,7 @@ aliases: [Z-001-1127, VitC-Evidence]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, vitamin-c, clinical-evidence, cancer, trials]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]]
 source: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]]
 confidence: high
@@ -115,7 +115,7 @@ The clinical use of high-dose vitamin C in cancer has a controversial history—
 | **Optimal dosing schedule** | Unknown |
 | **Best cancer types** | Unknown |
 | **Combination strategies** | Under investigation |
-| **[[KEYWORD-Biomarker|biomarker]]s for response** | Unknown |
+| **s for response** | Unknown |
 
 ## Future Directions
 
@@ -156,12 +156,12 @@ The clinical use of high-dose vitamin C in cancer has a controversial history—
 ## Related
 - [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_[Z-001-1125].md]]
 - [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_[Z-001-1126].md]]
-- [[MOC-Cancer-[[KEYWORD-Metabolism|metabolism]]]]
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

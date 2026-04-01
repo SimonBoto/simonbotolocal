@@ -5,7 +5,8 @@ type: index
 title: "03-Zettels/Conscious — Working Notes"
 aliases: [Conscious, Working Zettels, Review Queue]
 tags: [index, conscious, zettels, working, review, folder]
-parent-index: [[03-Zettels]]
+parent-index: [[00-MISSION]]
+source-litnote: Index note for folder structure
 status: active
 ---
 
@@ -55,9 +56,9 @@ All YES?
 
 ## 🔗 Navigation
 
-← **Back to [[03-Zettels]]** — Zettels Index  
-→ **Sister: [[03-Zettels-Subconscious]]** — Permanent Notes  
-↑ **Parent: [[03-Zettels]]**
+← **Back to ** — Zettels Index  
+→ **Sister: ** — Permanent Notes  
+↑ **Parent: **
 
 ---
 

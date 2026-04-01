@@ -5,15 +5,15 @@ title: Mitochondrial Biogenesis — Exercise and PGC-1α
 aliases: [Mitochondrial-Biogenesis, PGC-1a, Exercise, Zone-2]
 domain: 001
 tags: [zettel, mitochondrial-biogenesis, pgc-1a, exercise, zone-2]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Mitochondria|mitochondria]]l Biogenesis — Exercise and PGC-1α
+# l Biogenesis — Exercise and PGC-1α
 
-> Exercise stimulates [[KEYWORD-Mitochondria|mitochondrial]] biogenesis through PGC-1α activation, enhancing both quantity and quality of mitochondria.
+> Exercise stimulates  biogenesis through PGC-1α activation, enhancing both quantity and quality of mitochondria.
 
 ## PGC-1α — Master Regulator
 
@@ -23,7 +23,7 @@ extraction-date: 2026-03-01
 - Cold exposure
 
 **Triggers:**
-- [[KEYWORD-Calcium|calcium]] signaling (CaMK)
+-  signaling (CaMK)
 - AMPK (low energy)
 - Moderate ROS (hormesis)
 
@@ -56,4 +56,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

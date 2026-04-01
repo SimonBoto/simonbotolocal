@@ -6,14 +6,14 @@ aliases: [Z-001-1121, Cancer-Metabolic-Origin]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, cancer, metabolic-disease, mitochondrial-origin]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]]
 source: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]]
 confidence: high
 created: 2026-03-08
 ---
 
-# Cancer Metabolic Disease [[KEYWORD-Mitochondria|mitochondria]]l Origin
+# Cancer Metabolic Disease l Origin
 
 ## Overview
 Thomas Seyfried proposes that cancer is fundamentally a metabolic disease originating from mitochondrial dysfunction, challenging the somatic mutation theory.
@@ -96,7 +96,7 @@ Malignant Transformation
 | Intervention | Effect |
 |--------------|--------|
 | **Ketogenic diet** | Chronic glucose restriction |
-| **Caloric restriction** | Lower [[KEYWORD-Insulin|insulin]]/IGF-1 |
+| **Caloric restriction** | Lower /IGF-1 |
 | **Target:** | Fermentation-dependent cells |
 
 ### Pulse (Acute Intervention)
@@ -126,11 +126,11 @@ Malignant Transformation
 ## Related
 - [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_[Z-001-1122].md]]
 - [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_[Z-001-1123].md]]
-- [[MOC-Cancer-[[KEYWORD-Metabolism|metabolism]]]]
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

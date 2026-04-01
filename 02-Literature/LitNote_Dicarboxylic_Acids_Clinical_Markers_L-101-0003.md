@@ -15,7 +15,7 @@ domain: 101
 tags: [litnote, dicarboxylic-aciduria, urine-organic-acid, fatty-acid-oxidation-disorder, clinical-metabolomics, diagnostic-marker]
 source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]]"
 status: extracted
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 extraction-date: 2026-03-02
 ---
 
@@ -167,8 +167,8 @@ extraction-date: 2026-03-02
 ## Related References
 - [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]] — Mechanistic basis
 - [[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]] — Cofactor connections
-- [[MOC-Pharmacometabolomics]] — Parent MOC
-- [[MOC-Clinical-Protocols]] — Diagnostic implementation
+-  — Parent MOC
+-  — Diagnostic implementation
 
 ---
 

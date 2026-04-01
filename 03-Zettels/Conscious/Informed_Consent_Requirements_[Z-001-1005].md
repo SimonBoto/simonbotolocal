@@ -5,7 +5,7 @@ title: Informed Consent Requirements — Elements, Documentation, and Exceptions
 aliases: [Z-001-1005]
 domain: 001
 tags: [zettel, informed-consent, disclosure, comprehension, voluntariness, 45-cfr-46, elements, documentation, waiver, conscious]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]]
 status: conscious
@@ -15,7 +15,7 @@ status: conscious
 
 ## Overview
 
-Informed consent is the process by which potential participants learn about a [[KEYWORD-Research|research]] study and voluntarily decide whether to enroll. It is both an ethical and legal requirement.
+Informed consent is the process by which potential participants learn about a  study and voluntarily decide whether to enroll. It is both an ethical and legal requirement.
 
 ## Belmont Report Foundation
 
@@ -347,7 +347,7 @@ Informed consent is the process by which potential participants learn about a [[
 - Electronic consent acceptable
 - Cultural adaptations appropriate
 
-**[[KEYWORD-Clinical|clinical]] Pearl:** Informed consent is a process, not just a form. Genuine understanding and voluntary participation are the goals, not just signatures on paper.
+** Pearl:** Informed consent is a process, not just a form. Genuine understanding and voluntary participation are the goals, not just signatures on paper.
 
 ---
 

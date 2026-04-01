@@ -5,7 +5,7 @@ title: Master Biomarker Reference - All Clinical Targets
 aliases: [MASTER-001, Biomaster, Quick-Reference, Clinical-Targets]
 domain: master
 tags: [master-reference, biomarkers, clinical-targets, quick-reference, all-values]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 created: 2026-03-30
 ---

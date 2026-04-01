@@ -5,13 +5,13 @@ title: "Amino Acids to α-Ketoglutarate: The Glutamate Hub"
 aliases: [Z-001-0494, alpha-ketoglutarate, glutamate, b6, hub]
 domain: 001
 tags: [zettel, alpha-ketoglutarate, glutamate, arginine, proline, histidine, b6]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0046A]]
 ---
 
-# [[KEYWORD-Amino_Acids|amino acids]] to α-Ketoglutarate: The Glutamate Hub
+#  to α-Ketoglutarate: The Glutamate Hub
 
 ## Four Amino Acids Converge on Glutamate
 
@@ -47,11 +47,11 @@ Glutamate + NAD⁺ + H₂O → α-ketoglutarate + NH₄⁺ + NADH
   - Urea cycle (for disposal)
   - Other α-keto acids (for amino acid synthesis)
 
-## [[KEYWORD-Clinical|clinical]]: Vitamin B6
+## : Vitamin B6
 **All four pathways B6-dependent:**
 - Transaminases (all)
 - Histidase
-- **Deficiency:** Impaired [[KEYWORD-Metabolism|metabolism]] of all four amino acids
+- **Deficiency:** Impaired  of all four amino acids
 
 ## Related
 - [[Glutamate_Central_Amino_Acid_Hub_[Z-001-0915]]] Glutamate Central Amino Acid Hub
@@ -62,4 +62,4 @@ Glutamate + NAD⁺ + H₂O → α-ketoglutarate + NH₄⁺ + NADH
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -183,4 +183,4 @@ Therefore, GSH plays a crucial role in the degradation of 2-OHB by providing the
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

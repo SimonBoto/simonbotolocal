@@ -4,7 +4,7 @@ type: zettel
 title: SLE Telomere Findings and Disease Activity Correlation
 domain: 001
 tags: [zettel, sle, lupus, telomeres, disease-activity, biomarker]
-parent-moc: [[MOC-Autoimmunity]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]]"
 status: conscious
@@ -33,12 +33,12 @@ status: conscious
 **Key Finding:** Shorter neutrophil telomeres correlate with higher SLE disease activity scores (SLEDAI)
 
 **Clinical Implication:**
-- Potential [[KEYWORD-Biomarker|biomarker]] for disease monitoring
+- Potential  for disease monitoring
 - May predict flares
 - Could guide treatment intensity
 
 **Mechanism:**
-- Chronic [[KEYWORD-Inflammation|inflammation]] drives neutrophil turnover
+- Chronic  drives neutrophil turnover
 - Repeated activation cycles exhaust telomere reserves
 - Oxidative stress from immune complexes
 
@@ -128,6 +128,6 @@ status: conscious
 *Source: [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]] | 2026-03-08*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/CRP_[B-002-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /CRP_[B-002-0001]|Biomarker Family Guide]]
+- 
 

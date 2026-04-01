@@ -5,7 +5,7 @@ title: Mitochondrial Dysfunction Pattern Recognition — OAT Krebs Cycle Guide
 aliases: [S-012-0001]
 domain: 012
 tags: [oat, mitochondrial, krebs-cycle, pattern-recognition, clinical-guide, synthesis]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 extraction-date: 2026-03-31
 ---
@@ -395,7 +395,7 @@ Q6: Multiple markers low?
 - [[B-012-0004|Succinate — Complex II Sentinel]]
 - [[B-012-0005|Fumarate — The Fumarase Checkpoint]]
 - [[B-012-0006|Malate — Mitochondrial-Cytosol Shuttle]]
-- [[MASTER-001|Master Biomarker Reference]]
+- 
 
 ---
 *Part of OAT Metabolite Training System — Mitochondrial Markers Module*

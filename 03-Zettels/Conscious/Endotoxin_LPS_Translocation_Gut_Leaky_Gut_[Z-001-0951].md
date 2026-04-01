@@ -5,7 +5,7 @@ title: Endotoxin LPS Translocation — Gut Barrier Disruption by High Fat Diet
 aliases: [Z-001-0951]
 domain: 001
 tags: [zettel, endotoxin, LPS, gut-barrier, leaky-gut, inflammation, TLR4, metabolic-endotoxemia, seed-oils, conscious]
-parent-moc: [[MOC-Gut-Health]]
+parent-moc: 
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -24,7 +24,7 @@ source-litnote: Synthesized from clinical practice
 ### Discovery
 **Cani et al. (2007):**
 - High-fat diet → 2-3× increase in plasma LPS
-- Precedes weight gain and [[KEYWORD-Insulin|insulin]] resistance
+- Precedes weight gain and  resistance
 - Not observed with high-carbohydrate diet
 
 ## Mechanism of LPS Translocation
@@ -140,7 +140,7 @@ Type 2 diabetes, NAFLD, CVD
 - **Bariatric surgery:** Reduces endotoxemia
 - **TLR4 antagonists:** Experimental
 
-## [[KEYWORD-Biomarker|biomarker]]s
+## s
 
 ### Clinical Assessment
 - **Serum LPS-binding protein (LBP):** Surrogate marker
@@ -165,7 +165,7 @@ Type 2 diabetes, NAFLD, CVD
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

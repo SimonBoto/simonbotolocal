@@ -14,7 +14,7 @@ status: pending
 aliases: [R-001-0023, Tsoukalas_2021_Metabolomics_Clinical]
 domain: 001
 tags: [reference, metabolomics, clinical-applications, diagnostics, therapeutics, greek-authors, tier-1]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 
@@ -52,7 +52,7 @@ This chapter may represent the **underlying textbook** for the NKUA course — r
 
 ## Connections
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source citing
-- [[MOC-Metabolomics-Training]] — Course context
+-  — Course context
 
 ---
 *Status: Reference hub created — CRITICAL priority*  

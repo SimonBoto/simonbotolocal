@@ -6,7 +6,7 @@ title: Folate (5-MTHF) — Active Folate for Methylation
 aliases: [Z-004-0004, Folate, 5-MTHF, Methylfolate, Vitamin-B9]
 domain: 004
 tags: [zettel, biomarker, folate, 5-mthf, methylation, b9, pregnancy]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

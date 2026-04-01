@@ -5,7 +5,7 @@ title: METHAP Supplement Protocol
 aliases: [Z-101-0475]
 domain: 101
 tags: [zettel, methap, supplements, intervention, vitamin-d, magnesium, omega-3, safety, conscious]
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]]
 status: conscious
 ---
@@ -20,7 +20,7 @@ Address micronutrient deficiencies and metabolic dysregulation common in insulin
 
 ## Supplement Stack
 
-### 1. [[KEYWORD-Vitamin_D|vitamin d]]3 (Cholecalciferol)
+### 1. 3 (Cholecalciferol)
 | Attribute | Specification |
 |-----------|---------------|
 | **Rationale** | Insulin sensitivity, beta-cell function, anti-inflammatory |
@@ -36,7 +36,7 @@ Address micronutrient deficiencies and metabolic dysregulation common in insulin
 ### 2. Magnesium (as glycinate or citrate)
 | Attribute | Specification |
 |-----------|---------------|
-| **Rationale** | Glucose [[KEYWORD-Metabolism|metabolism]], insulin receptor signaling, ATP production |
+| **Rationale** | Glucose , insulin receptor signaling, ATP production |
 | **Typical dose** | 200-400 mg elemental Mg/day |
 | **EOΦ approval** | [To be specified] |
 | **Timing** | Evening (may improve sleep) |
@@ -82,7 +82,7 @@ Address micronutrient deficiencies and metabolic dysregulation common in insulin
 
 **Safety considerations:**
 - High doses may cause GI upset
-- Increases oxalate excretion (relevant to study [[KEYWORD-Biomarker|biomarker]]s)
+- Increases oxalate excretion (relevant to study s)
 - May interfere with certain lab tests
 
 See: [[Ascorbate_Oxalate_Measurement_Interference_[Z-101-0470].md]]
@@ -149,8 +149,8 @@ See: [[Ascorbate_Oxalate_Measurement_Interference_[Z-101-0470].md]]
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[METHAP_Intervention_Protocol_Diet_Supplements_[Z-001-1142]|Z-001-1142]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

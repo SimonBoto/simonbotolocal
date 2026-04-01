@@ -4,7 +4,7 @@ type: zettel
 title: Cis vs Trans Fatty Acids — Structure and Health Impact
 domain: 001
 tags: [zettel, trans-fat, cis-fat, fatty-acid-geometry, cardiovascular-health]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]]"
 status: conscious
@@ -83,7 +83,7 @@ Linear shape (like saturated)
 ## Metabolic Effects
 
 ### Cis Fats
-**[[KEYWORD-Metabolism|metabolism]]:**
+**:**
 - Normal incorporation into cell membranes
 - Flexible membrane structure
 - Normal enzyme interactions
@@ -105,11 +105,11 @@ Linear shape (like saturated)
 - Increases CHD risk by ~25-30%
 - More harmful than saturated fat
 
-**[[KEYWORD-Inflammation|inflammation]]:**
+**:**
 - Pro-inflammatory
 - Increases CRP, IL-6
 
-**[[KEYWORD-Insulin|insulin]] Resistance:**
+** Resistance:**
 - Impairs glucose metabolism
 - Increases diabetes risk
 
@@ -187,4 +187,4 @@ Note: <0.5g/serving can be labeled "0g trans fat"
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

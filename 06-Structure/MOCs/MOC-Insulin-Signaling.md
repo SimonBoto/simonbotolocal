@@ -5,7 +5,7 @@ type: moc
 title: MOC — Insulin Signaling
 aliases: [MOC_Insulin, MOC_INSR, MOC_Insulin_Signaling]
 tags: [moc, insulin, signaling, metabolism, phd]
-parent-moc: [[05-Structure/05b-MOCs/PhD_IR_MOC]]
+parent-moc: 
 created: 2026-02-22
 ---
 
@@ -54,7 +54,7 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 - [[Mitochondrial_Dysfunction_IR_[Z-001-0030].md]] — Energy stress → IR
 
 **Clinical Connections:**
-- [[MOC-Metabolic-Syndrome]] — Disease-level MOC
+-  — Disease-level MOC
 - [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041.md]] — Metabolomic proxy
 
 ---
@@ -69,9 +69,9 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 - [[Metabolic_Syndrome_Criteria_Assessment_Z-001-0050.md]] — Metabolic syndrome criteria (3 of 5)
 
 **Supporting Biomarkers:**
-- [[MOC-Vitamin-D-Metabolism]] — Vitamin D (target 80-150 ng/mL)
-- [[MOC-Methylation-One-Carbon]] — Homocysteine (<10 μmol/L)
-- [[MOC-Iron-Metabolism]] — Ferritin (30-150 ng/mL, context-dependent)
+-  — Vitamin D (target 80-150 ng/mL)
+-  — Homocysteine (<10 μmol/L)
+-  — Ferritin (30-150 ng/mL, context-dependent)
 
 **PhD-METHAP Panel:**
 - Fasting glucose, fasting insulin → HOMA-IR
@@ -136,9 +136,9 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 
 ## 📚 Source References
 
-- [[Lit_GutierrezRodelo_IR_Mechanisms_2017]] — Primary literature note (9 zettels extracted)
-- [[Ref_Nature_IR_Mechanisms_2022]] — Signaling pathways review
-- [[Ref_Cell_IR_Mechanisms_2012]] — Insulin resistance mechanisms (Samuel & Shulman)
+-  — Primary literature note (9 zettels extracted)
+-  — Signaling pathways review
+-  — Insulin resistance mechanisms (Samuel & Shulman)
 
 ---
 

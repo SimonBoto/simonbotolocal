@@ -16,7 +16,7 @@ status: pending
 aliases: [R-001-0016, Holler_2018, Micronutrient_Assessment_Methods]
 domain: 001
 tags: [reference, micronutrients, assessment, methodology, analytics, tier-2]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 
@@ -47,7 +47,7 @@ Höller U, Bakker SJL, Düsterloh A, et al. Micronutrient status assessment in h
 
 ## Connections
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source citing
-- [[Hannibal_etal_2016_B12_Biomarkers_R-001-0013]] — Parallel functional assessment
+-  — Parallel functional assessment
 
 ---
 *Status: Reference hub created — pending methods review*  

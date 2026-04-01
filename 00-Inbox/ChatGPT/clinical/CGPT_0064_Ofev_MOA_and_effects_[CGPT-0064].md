@@ -210,4 +210,4 @@ Would you like me to prepare that as a **concise handout** (PDF/Word), so you ca
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

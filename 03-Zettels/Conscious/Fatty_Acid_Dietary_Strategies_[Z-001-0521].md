@@ -5,7 +5,7 @@ title: Fatty Acid Dietary Strategies
 aliases: [Fatty-Acid-Strategy, Omega-3-Supplementation, Dietary-Fats]
 domain: 001
 tags: [zettel, fatty-acid-strategy, omega-3, dietary-fats, cooking]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]]
 extraction-date: 2026-03-01
@@ -13,9 +13,9 @@ extraction-date: 2026-03-01
 
 # Fatty Acid Dietary Strategies
 
-> Optimizing fatty acid intake requires eliminating seed oils, increasing direct [[KEYWORD-Omega_3|omega-3]]s, favoring monounsaturated fats, and selecting fats by cooking stability.
+> Optimizing fatty acid intake requires eliminating seed oils, increasing direct s, favoring monounsaturated fats, and selecting fats by cooking stability.
 
-## Reduce [[KEYWORD-Omega_6|omega-6]]
+## Reduce 
 
 **Eliminate:**
 - Soybean, corn, safflower, sunflower oils
@@ -62,4 +62,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

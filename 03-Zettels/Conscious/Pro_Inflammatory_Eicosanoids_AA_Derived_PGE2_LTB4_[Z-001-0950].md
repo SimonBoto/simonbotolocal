@@ -5,7 +5,7 @@ title: Pro-Inflammatory Eicosanoids — Arachidonic Acid Derived PGE2 and LTB4
 aliases: [Z-001-0950]
 domain: 001
 tags: [zettel, eicosanoids, prostaglandins, leukotrienes, arachidonic-acid, PGE2, LTB4, inflammation, COX, LOX, conscious]
-parent-moc: [[MOC-Inflammation]]
+parent-moc: 
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -98,7 +98,7 @@ Free AA released from membrane
 ### Eicosanoid Overproduction
 | Dietary State | Tissue AA | Eicosanoid Output | Clinical Result |
 |--------------|-----------|-------------------|-----------------|
-| **Low omega-6 (ancestral)** | Low | Minimal | Basal [[KEYWORD-Inflammation|inflammation]] |
+| **Low omega-6 (ancestral)** | Low | Minimal | Basal  |
 | **High omega-6 (modern)** | High | Excessive | Chronic inflammation |
 
 ### COX-2 Induction
@@ -131,7 +131,7 @@ Free AA released from membrane
 4. **LOX inhibitors:** Zileuton (asthma)
 5. **Corticosteroids:** Block PLA2 (prevents AA release)
 
-### [[KEYWORD-Biomarker|biomarker]]s
+### s
 - **Urinary PGE-M:** PGE2 metabolite
 - **Serum LTB4:** Leukotriene levels
 - **AA:EPA ratio:** Predicts eicosanoid balance
@@ -149,6 +149,6 @@ Free AA released from membrane
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

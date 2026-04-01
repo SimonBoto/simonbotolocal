@@ -5,7 +5,7 @@ title: B12 Absorption and Transport
 aliases: [B12-Absorption, Intrinsic-Factor, Transcobalamin]
 domain: 001
 tags: [zettel, vitamin-b12, absorption, intrinsic-factor, transport]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]
 extraction-date: 2026-03-01
@@ -57,7 +57,7 @@ extraction-date: 2026-03-01
 ### Transcobalamin II (TC II)
 - **Function:** Active delivery to cells
 - **Synthesis:** Liver, endothelial cells
-- **[[KEYWORD-Mechanism|mechanism]]:** TC II-B12 complex binds TC II receptor on cells
+- **:** TC II-B12 complex binds TC II receptor on cells
 - **Uptake:** Receptor-mediated endocytosis
 - **Critical:** For cellular B12 delivery
 
@@ -84,7 +84,7 @@ extraction-date: 2026-03-01
 - Reabsorbed via IF mechanism
 - Conserves B12
 
-## [[KEYWORD-Clinical|clinical]] Correlates
+##  Correlates
 
 | Condition | Mechanism | Result |
 |-----------|-----------|--------|
@@ -95,8 +95,8 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_One_Carbon_[[KEYWORD-Metabolism|metabolism]]_B12_L-001-0401]]*
+*Source: _B12_L-001-0401]]*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

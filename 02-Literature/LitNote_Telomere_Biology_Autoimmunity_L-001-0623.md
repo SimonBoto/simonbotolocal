@@ -15,7 +15,7 @@ domain: 001
 tags: [litnote, telomeres, aging, autoimmunity, telomerase, immunosenescence]
 source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_[CGPT-0520]]]"
 status: extracted
-parent-moc: [[MOC-Autoimmunity]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -150,9 +150,9 @@ extraction-date: 2026-03-08
 - [[Oxidative_Stress_Telomere_Shortening_[Z-001-1173].md]] — To create
 
 **MOCs:**
-- [[MOC-Autoimmunity]] — Primary domain
-- [[MOC-Aging]] — Immunosenescence
-- [[MOC-Mitochondrial-Function]] — ROS connection
+-  — Primary domain
+-  — Immunosenescence
+-  — ROS connection
 
 **LitNotes:**
 - Subsequent CGPT-0520 LitNotes on specific diseases

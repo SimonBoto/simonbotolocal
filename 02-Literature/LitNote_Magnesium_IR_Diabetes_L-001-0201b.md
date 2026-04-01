@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: Critical — Core mechanisms for METHAP; Mg supplementation rationale for IR
 status: extracted
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -146,8 +146,8 @@ Magnesium deficiency and insulin resistance form a bidirectional, vicious relati
 - [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]] — MetS context
 - [[LitNote_Magnesium_Biochemistry_L-001-0201a]] — Mg mechanisms
 - [[LitNote_IR_Mechanisms_Map_L-001-0005]] — Deep IR mechanisms
-- [[MOC-Metabolic-Syndrome]] — Parent MOC
-- [[MOC-Insulin-Signaling]] — Insulin signaling context
+-  — Parent MOC
+-  — Insulin signaling context
 
 ---
 

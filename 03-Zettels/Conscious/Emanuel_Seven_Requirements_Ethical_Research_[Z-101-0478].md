@@ -5,15 +5,15 @@ title: Emanuel Seven Requirements for Ethical Research
 aliases: [Z-101-0478]
 domain: 101
 tags: [zettel, research-ethics, emanuel-framework, clinical-trials, irb, seven-requirements, conscious]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]]
 status: conscious
 ---
 
-# Emanuel's Seven Requirements for Ethical [[KEYWORD-Research|research]]
+# Emanuel's Seven Requirements for Ethical 
 
 ## Source
-Emanuel EJ, Wendler D, Grady C. What makes [[KEYWORD-Clinical|clinical]] research ethical? *JAMA*. 2000;283(20):2701-2711.
+Emanuel EJ, Wendler D, Grady C. What makes  research ethical? *JAMA*. 2000;283(20):2701-2711.
 
 ## Core Principle
 **Informed consent is necessary but not sufficient.**
@@ -114,7 +114,7 @@ All seven requirements must be satisfied for research to be ethical. No single r
 |--------|----------------|
 | **Privacy protection** | Confidentiality safeguards |
 | **Data security** | Secure storage, limited access |
-| **Ongoing monitoring** | [[KEYWORD-Safety|safety]] surveillance |
+| **Ongoing monitoring** |  surveillance |
 | **Post-study obligations** | Continued care if harmed |
 | **Dignity preservation** | Respectful treatment always |
 

@@ -103,4 +103,4 @@ This response aims to be more formal and thorough, acknowledging the severity of
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

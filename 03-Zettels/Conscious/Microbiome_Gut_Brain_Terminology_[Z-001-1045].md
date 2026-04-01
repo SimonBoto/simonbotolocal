@@ -6,7 +6,7 @@ aliases: [Z-001-1045, Microbiome-Terms]
 domain: 001
 domain-name: Gut Health
 tags: [zettel, microbiome, gut, definitions]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
 source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
 confidence: high
@@ -38,11 +38,11 @@ The microbiome:
 - Synthesizes neurotransmitters
 - Influences mood and cognition
 
-## [[KEYWORD-Clinical|clinical]] Approach
-> "Energy before gut" — [[KEYWORD-Mitochondria|mitochondria]]l support precedes aggressive gut protocols.
+##  Approach
+> "Energy before gut" — l support precedes aggressive gut protocols.
 
 ## Related
-- [[MOC-[[KEYWORD-Metabolomics|metabolomics]]-Analysis]]
+- -Analysis]]
 - [[Patient_Communication_Core_Concepts_[Z-001-1047].md]]
 
 ---

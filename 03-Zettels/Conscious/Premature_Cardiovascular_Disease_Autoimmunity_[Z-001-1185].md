@@ -4,7 +4,7 @@ type: zettel
 title: Premature Cardiovascular Disease in Autoimmunity
 domain: 001
 tags: [zettel, cardiovascular-disease, autoimmunity, sle, inflammation, accelerated-aging]
-parent-moc: [[MOC-Autoimmunity]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]]"
 status: conscious
@@ -51,7 +51,7 @@ status: conscious
 - Promote foam cell formation
 - Activate macrophages in plaques
 
-**[[KEYWORD-Biomarker|biomarker]]s:**
+**s:**
 - Elevated CRP
 - High IL-6
 - TNF-α activity
@@ -82,7 +82,7 @@ status: conscious
 **Metabolic Side Effects:**
 - Hypertension
 - Dyslipidemia
-- [[KEYWORD-Insulin|insulin]] resistance
+-  resistance
 - Weight gain
 
 **Net Effect:** Amplifies traditional risk factors
@@ -144,10 +144,10 @@ status: conscious
 *Source: [[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]] | 2026-03-08*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Treg_Th17_Balance_VDR_[Z-001-1165]|Z-001-1165]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 
 
 

@@ -6,7 +6,7 @@ title: "05-Projects — Active Work"
 aliases: [Projects, Active Work, Deliverables]
 tags: [index, projects, deliverables, work, navigation, folder]
 parent-index: [[00-MISSION]]
-child-folders: "[[05-Projects-Triangle]], [[05-Projects-AppProduction]], [[05-Projects-PhD]]"
+child-folders: ", , "
 status: active
 ---
 
@@ -22,9 +22,9 @@ status: active
 
 | Folder | Purpose | Contents |
 |--------|---------|----------|
-| **[[05-Projects-Triangle\|Triangle/]]** | Company organization | CEO, AI-Boss, Agents, Workflows |
-| **[[05-Projects-AppProduction\|AppProduction/]]** | Triangle company | Skills, Internal Apps, Resources |
-| **[[05-Projects-PhD\|PhD/]]** | Doctoral work | METHAP trial, IRB, publications |
+| **** | Company organization | CEO, AI-Boss, Agents, Workflows |
+| **** | Triangle company | Skills, Internal Apps, Resources |
+| **** | Doctoral work | METHAP trial, IRB, publications |
 
 ---
 
@@ -48,9 +48,9 @@ Archive or Delete (projects are ephemeral)
 
 | Project | Status | Priority | Next Action |
 |---------|--------|----------|-------------|
-| **[[05-Projects-PhD\|PhD/]]** | Active | P0 | IRB Section 1 draft |
-| **[[05-Projects-AppProduction\|AppProduction/]]** | Active | P1 | 10 GOLD refs extraction |
-| **[[05-Projects-Triangle\|Triangle/]]** | Active | — | Company operations |
+| **** | Active | P0 | IRB Section 1 draft |
+| **** | Active | P1 | 10 GOLD refs extraction |
+| **** | Active | — | Company operations |
 
 ---
 
@@ -65,12 +65,12 @@ Archive or Delete (projects are ephemeral)
 
 ## 🔗 Navigation
 
-← **Back to [[04-Synthesis]]** — Living Documents  
-→ **Next: [[06-Structure]]** — Navigation & Templates  
+← **Back to ** — Living Documents  
+→ **Next: ** — Navigation & Templates  
 ↑ **Parent: [[00-MISSION]]**
 
 **Siblings:**
-[[00-Inbox]] | [[01-References]] | [[02-Literature]] | [[03-Zettels]] | [[04-Synthesis]] | [[06-Structure]] | [[08-Dashboards]] | [[09-System]]
+ |  |  |  |  |  |  | 
 
 ---
 

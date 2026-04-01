@@ -5,7 +5,7 @@ title: White Blood Cells - Comprehensive Clinical Guide
 aliases: [B-001-0001, WBC, Leukocytes]
 domain: 001
 tags: [biomarker, hematology, wbc, inflammation, immune]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 created: 2026-03-30
 ---

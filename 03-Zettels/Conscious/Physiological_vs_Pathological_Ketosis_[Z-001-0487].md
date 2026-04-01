@@ -5,7 +5,7 @@ title: Physiological vs Pathological Ketosis
 aliases: [Z-001-0487, ketosis, ketoacidosis, dka, nutritional-ketosis]
 domain: 001
 tags: [zettel, ketosis, ketoacidosis, dka, nutritional-ketosis, safety]
-parent-moc: [[MOC-Ketogenesis]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045G]]
@@ -19,13 +19,13 @@ source: [[L-001-0045G]]
 | **Ketone levels** | 1-3 mM | >10-25 mM |
 | **Blood pH** | Normal (7.35-7.45) | Low (<7.30) |
 | **Bicarbonate** | Normal | Low (<18 mEq/L) |
-| **[[KEYWORD-Insulin|insulin]]** | Low but present | Absent/deficient |
+| **** | Low but present | Absent/deficient |
 | **Glucose** | Normal or low | Very high (>250 mg/dL) |
 | **Clinical state** | Asymptomatic/symptomatic | Life-threatening |
 
 ## Physiological Ketosis
 
-### [[KEYWORD-Nutrition|nutrition]]al Ketosis
+### al Ketosis
 - **Ketogenic diet:** 70-80% fat
 - **Fasting:** >24-48 hours
 - **Exercise:** Prolonged endurance
@@ -45,7 +45,7 @@ source: [[L-001-0045G]]
 ## Pathological Ketosis (Diabetic Ketoacidosis - DKA)
 
 ### Pathophysiology
-**Type 1 [[KEYWORD-Diabetes|diabetes]]:**
+**Type 1 :**
 - Absolute insulin deficiency
 - Uncontrolled lipolysis
 - Massive ketone overproduction
@@ -95,11 +95,11 @@ source: [[L-001-0045G]]
 ## Related
 - [[Ketogenesis_Pathway_Regulation_[Z-001-0481]]] Ketogenesis Pathway
 - [[Three_Ketone_Bodies_[Z-001-0482]]] Three Ketone Bodies
-- [[MOC-Diabetes-T1D]]
+- 
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

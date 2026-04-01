@@ -4,13 +4,13 @@ type: zettel
 title: Inflammation-Oxidative Stress Vicious Cycle
 domain: 001
 tags: [zettel, inflammation, oxidative-stress, ros, cytokines, autoimmunity, vicious-cycle]
-parent-moc: [[MOC-Autoimmunity]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]]"
 status: conscious
 ---
 
-# [[KEYWORD-Inflammation|inflammation]]-Oxidative Stress Vicious Cycle
+# -Oxidative Stress Vicious Cycle
 
 ## The Self-Sustaining Loop
 
@@ -23,7 +23,7 @@ Inflammation
       ↓
 Pro-inflammatory Cytokines (TNF-α, IL-1β, IL-6)
       ↓
-ROS Production ↑ ([[KEYWORD-Mitochondria|mitochondria]], NADPH oxidase)
+ROS Production ↑ (, NADPH oxidase)
       ↓
 Oxidative Damage (DNA, proteins, lipids)
       ↓
@@ -45,7 +45,7 @@ More Inflammation
 
 **Effects on ROS:**
 - Activates NADPH oxidase
-- Induces [[KEYWORD-Mitochondria|mitochondrial]] dysfunction
+- Induces  dysfunction
 - Increases ROS production 2-3 fold
 
 **Feedback:** ROS can activate NF-κB → more TNF-α

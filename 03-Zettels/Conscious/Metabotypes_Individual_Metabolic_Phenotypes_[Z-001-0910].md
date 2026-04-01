@@ -6,7 +6,7 @@ aliases: [Z-001-0910, Z-001-0010-deprecated, Metabotypes, Metabolic_Phenotypes, 
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, metabotypes, metabolome, individual-variation, precision-medicine, phenotype, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 confidence: high
 created: 2026-02-23
@@ -40,7 +40,7 @@ A **metabotype** is an individual's specific metabolic profile that reflects wha
 | Factor | Metabolic Impact |
 |--------|-----------------|
 | **Diet** | Macronutrient flux, micronutrient availability |
-| **Alcohol** | Hepatic [[KEYWORD-Metabolism|metabolism]], detoxification burden |
+| **Alcohol** | Hepatic , detoxification burden |
 | **Exercise** | Energy substrate utilization |
 | **Smoking** | Oxidative stress pathways |
 | **Supplements** | Coenzyme availability (e.g., B12, VD) |
@@ -66,7 +66,7 @@ A **metabotype** is an individual's specific metabolic profile that reflects wha
 ### Individual VD Response Prediction
 
 **Population approach (flawed):**
-- "[[KEYWORD-Vitamin_D|vitamin d]] 2000 IU daily for everyone"
+- " 2000 IU daily for everyone"
 - Ignores individual metabotype differences
 
 **Metabotype-guided approach (METHAP):**
@@ -88,12 +88,12 @@ This vast chemical diversity underscores why "one size fits all" approaches fail
 ## Links
 
 - **Upstream/Prerequisite:** [[Environmental_Factors_80_Percent_Chronic_Disease_[Z-001-0903].md]] — Environment shapes metabotype
-- **Parallel/Related:** [[Cofactor_Metabolite_[[KEYWORD-Biomarker|biomarker]]_Logic_B12_Model_[Z-001-0911].md]] — Metabotype reflects cofactor status
+- **Parallel/Related:** _Logic_B12_Model_[Z-001-0911].md]] — Metabotype reflects cofactor status
 - **Downstream/Consequence:** [[Biomarkers_Precision_Medicine_[Z-001-0909].md]] — Metabotype-based biomarker selection
 
 ## Context
 
-**Also relevant to:** [[MOC-PhD-METHAP-Trial]] — Stratification strategy
+**Also relevant to:**  — Stratification strategy
 
 **Source:** [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 
@@ -103,5 +103,5 @@ This vast chemical diversity underscores why "one size fits all" approaches fail
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

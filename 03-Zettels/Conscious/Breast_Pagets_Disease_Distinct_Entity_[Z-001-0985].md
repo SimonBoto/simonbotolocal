@@ -5,13 +5,13 @@ title: Breast Paget's Disease — Nipple Cancer Distinct from Bone Paget's
 aliases: [Z-001-0985]
 domain: 001
 tags: [zettel, breast-pagets, mammary-pagets, nipple-cancer, dcis, eczema, differential-diagnosis, conscious]
-parent-moc: [[MOC-Breast-Cancer]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]]
 status: conscious
 ---
 
-# Breast Paget's Disease — Nipple [[KEYWORD-Cancer|cancer]] Distinct from Bone Paget's
+# Breast Paget's Disease — Nipple  Distinct from Bone Paget's
 
 ## Critical Distinction
 
@@ -46,7 +46,7 @@ status: conscious
 - May be invasive (50%)
 - Often multicentric
 
-## [[KEYWORD-Clinical|clinical]] Presentation
+##  Presentation
 
 ### Early Signs
 
@@ -126,7 +126,7 @@ status: conscious
 - Evaluate extent
 - Recommended if mammogram negative but high suspicion
 
-**4. Immunohisto[[KEYWORD-Chemistry|chemistry]]:**
+**4. Immunohisto:**
 - CK7 positive (distinguishes from melanoma, squamous carcinoma)
 - HER2 status (therapeutic implications)
 - Hormone receptors (ER/PR)

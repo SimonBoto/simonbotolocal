@@ -6,7 +6,7 @@ aliases: [Z-002-0603, ethics-fair-selection]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, vulnerable-populations, emmanuel-seven]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]"
 confidence: high
 created: 2026-03-27
@@ -42,14 +42,14 @@ Groups requiring enhanced protections:
 ## Application to METHAP
 
 METHAP inclusion/exclusion criteria must be justified:
-- **Inclusion:** Adults 18-65 with [[KEYWORD-Metabolic_Syndrome|metabolic syndrome]] features
-- **Exclusion:** Pregnancy, severe renal disease ([[KEYWORD-Oxalate|oxalate]] concerns)
-- **Rationale:** Adipic acid [[KEYWORD-Metabolism|metabolism]] differs in excluded conditions
+- **Inclusion:** Adults 18-65 with  features
+- **Exclusion:** Pregnancy, severe renal disease ( concerns)
+- **Rationale:** Adipic acid  differs in excluded conditions
 - **Protection:** Clear withdrawal criteria, independent ethics oversight
 
 ## Links
 
-**Parent MOC:** [[MOC-Research-Ethics]]  
+**Parent MOC:**   
 **Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]  
 **Related:** [[Respect_Enrolled_Subjects_Ethics_[Z-002-0607].md]] — Ongoing protection
 
@@ -59,4 +59,4 @@ METHAP inclusion/exclusion criteria must be justified:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -6,7 +6,7 @@ title: C15 Pentadecanoic Acid — Odd-Chain Saturated Fat Marker
 aliases: [Z-006-0305, Pentadecanoic-Acid, C15, Odd-Chain, Dairy-Fat]
 domain: 006
 tags: [zettel, biomarker, c15, pentadecanoic, odd-chain, dairy]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

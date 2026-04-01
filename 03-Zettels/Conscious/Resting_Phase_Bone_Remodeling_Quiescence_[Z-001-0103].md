@@ -5,7 +5,7 @@ title: Resting Phase — Bone Remodeling Quiescence and Reactivation
 aliases: [Z-001-0103]
 domain: 001
 tags: [zettel, bone-remodeling, resting, quiescence, bone-lining-cells, sclerostin, mechanotransduction, conscious]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 status: conscious
 ---
 
@@ -34,7 +34,7 @@ After mineralization completes, the bone surface enters a **quiescent state** ma
 ## Reactivation Triggers
 
 ### Mechanical Signals
-| Signal | [[KEYWORD-Mechanism|mechanism]] | Effect |
+| Signal |  | Effect |
 |--------|-----------|--------|
 | **Microdamage** | Crack formation in mineralized matrix | Osteocyte apoptosis → RANKL release |
 | **Loading changes** | Increased/decreased mechanical strain | Osteocyte mechanotransduction |
@@ -78,7 +78,7 @@ Number of new remodeling units initiated per unit of bone surface per unit time
 | **Cortical bone (periosteal)** | Low | <1% per year |
 | **Haversian systems** | Variable | Depends on mechanical loading |
 
-### [[KEYWORD-Clinical|clinical]] Variation
+###  Variation
 - **Young adult:** Balanced activation throughout skeleton
 - **Postmenopausal female:** 3–5× increased activation frequency
 - **Senile osteoporosis:** Decreased activation but prolonged resorption phase

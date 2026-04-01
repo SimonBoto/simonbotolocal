@@ -189,9 +189,9 @@ F6P + G3P (PPP non-oxidative) → re-enter glycolysis
 
 - [[L-001-0045D]] Glycolysis Steps and Regulation (next batch)
 - [[L-101-0045A]] Adenosine Biochemistry (ATP contains ribose)
-- [[MOC-Glycolysis-PPP]]
-- [[MOC-Nucleotide-Metabolism]]
-- [[MOC-Antioxidant-Defense]] (NADPH link)
+- 
+- 
+-  (NADPH link)
 
 ---
 

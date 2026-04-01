@@ -169,37 +169,37 @@ PHASE 5: Integration & Connection
 **Type A: Insight Extraction**
 - **Source:** Your realizations, "aha moments"
 - **Method:** Quote extraction + context
-- **Format:** [[Insight_Zettel]] with source link
+- **Format:**  with source link
 - **Example:** "Adipic acid as early IR marker" realization
 
 **Type B: Hypothesis Extraction**
 - **Source:** Your proposed mechanisms, theories
 - **Method:** Extract hypothesis + supporting reasoning
-- **Format:** [[Hypothesis_Zettel]] with test status
+- **Format:**  with test status
 - **Example:** "VitD-K2-Mg synergy in MetS"
 
 **Type C: Methodology Extraction**
 - **Source:** Protocol designs, workflows
 - **Method:** Step-by-step extraction
-- **Format:** [[Protocol_Zettel]] with variations
+- **Format:**  with variations
 - **Example:** Patient assessment workflow
 
 **Type D: Question Extraction**
 - **Source:** Your best questions, especially meta-questions
 - **Method:** Question + context + answer quality
-- **Format:** [[Question_Zettel]] with answer evolution
+- **Format:**  with answer evolution
 - **Example:** "What question should I be asking?"
 
 **Type E: Partnership Pattern Extraction**
 - **Source:** How you work with AI (prompts, corrections, feedback)
 - **Method:** Pattern recognition across conversations
-- **Format:** [[Pattern_Zettel]] with examples
+- **Format:**  with examples
 - **Example:** "The 'dive deeper' escalation pattern"
 
 **Type F: Failed Approach Extraction**
 - **Source:** What didn't work, false starts
 - **Method:** Extract failure + lesson learned
-- **Format:** [[Lesson_Zettel]] with anti-pattern
+- **Format:**  with anti-pattern
 - **Example:** Early PhD title approaches
 
 ### 3.2 Entity Relationship Extraction
@@ -236,10 +236,10 @@ uid: [AUTO-GENERATED]
 type: [insight|hypothesis|method|question|pattern|lesson]
 title: "Clear, specific statement"
 date: [Original conversation date]
-source: [[CGPT_XXXX_Title_[CGPT-XXXX]]]
+source: ]
 aliases: []
 tags: [theme, domain, status]
-related: [[existing_zettels]]
+related: 
 status: conscious|subconscious
 ---
 
@@ -260,8 +260,8 @@ What supports this? (from conversation)
 What follows from this?
 
 ## Connections
-- [[Related Zettel 1]]
-- [[Related Zettel 2]]
+- 
+- 
 
 ## Status
 - [ ] Validated
@@ -270,7 +270,7 @@ What follows from this?
 - [x] Integrated into practice
 
 ## Source
-Extracted from: [[CGPT_XXXX]]
+Extracted from: 
 Date: [original date]
 ```
 
@@ -302,7 +302,7 @@ Date: [original date]
 - 30 cycle zettels (where relevant)
 - RON genesis zettels
 - Clinical/metabolomics zettels
-- [[MEMORY.md]] for enduring insights
+-  for enduring insights
 
 ### 5.2 Validation Checks
 

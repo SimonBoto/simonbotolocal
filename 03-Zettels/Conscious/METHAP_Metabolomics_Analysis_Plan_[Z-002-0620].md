@@ -6,13 +6,13 @@ aliases: [Z-002-0620, methap-metabolomics, gc-ms-analysis]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, methap, metabolomics, gc-ms, biomarkers]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: "[[LitNote_METHAP_Study_Design_Protocol_L-002-0604]]"
 confidence: high
 created: 2026-03-27
 ---
 
-# METHAP [[KEYWORD-Metabolomics|metabolomics]] Analysis Plan
+# METHAP  Analysis Plan
 
 Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profiling of urine organic acids and plasma free fatty acids.
 
@@ -34,7 +34,7 @@ Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profili
 
 ### Organic Acids (Urine)
 - **Citric acid** — Krebs cycle intermediate
-- **Aconitic acid** — Krebs cycle, iron-sulfur cluster [[KEYWORD-Metabolism|metabolism]]
+- **Aconitic acid** — Krebs cycle, iron-sulfur cluster 
 - **Oxalic acid** — Glyoxylate metabolism, vitamin C degradation
 - **Glyceric acid** — Glycerol metabolism
 - **2-Ketoisovaleric acid** — Branched-chain amino acid metabolism
@@ -74,7 +74,7 @@ METHAP advances IR diagnostics by:
 
 ## Links
 
-**Parent MOC:** [[MOC-Research-Ethics]]  
+**Parent MOC:**   
 **Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]]  
 **Related:** [[Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]] — Related dicarboxylic acid
 
@@ -83,8 +83,8 @@ METHAP advances IR diagnostics by:
 *UID: Z-002-0620 | Domain: 002 | Created: 2026-03-27*
 
 ## RELATED FILES
-- [[KEYWORD-Metabolomics]]
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- 
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

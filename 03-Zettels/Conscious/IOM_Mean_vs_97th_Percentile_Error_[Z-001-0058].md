@@ -6,7 +6,7 @@ aliases: [Z-001-0058, IOM-Statistical-Error]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, statistics, RDA, IOM, error]
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 source: [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
 confidence: high
 created: 2026-03-01
@@ -15,7 +15,7 @@ status: conscious
 
 # IOM Mean vs 97.5th Percentile Statistical Error
 
-The IOM (Institute of Medicine, now National Academy of Medicine) made a fundamental statistical error in calculating [[KEYWORD-Vitamin_D|vitamin d]] RDA: they used the mean (average) intake required to achieve target serum levels instead of the 97.5th percentile. This meant the RDA was designed for 50% of population coverage, not the stated 97.5%.
+The IOM (Institute of Medicine, now National Academy of Medicine) made a fundamental statistical error in calculating  RDA: they used the mean (average) intake required to achieve target serum levels instead of the 97.5th percentile. This meant the RDA was designed for 50% of population coverage, not the stated 97.5%.
 
 **The error:**
 - **Target:** Ensure 97.5% of population reaches 20 ng/mL serum 25(OH)D
@@ -29,7 +29,7 @@ The IOM (Institute of Medicine, now National Academy of Medicine) made a fundame
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
+**Parent MOC:** -
 **Source:** [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
 **Related:** [[Vitamin_D_RDA_10x_Underestimation_[Z-001-0059]]]
 
@@ -39,4 +39,4 @@ The IOM (Institute of Medicine, now National Academy of Medicine) made a fundame
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

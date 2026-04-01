@@ -244,4 +244,4 @@ If you want, I can now proceed to fully format the **official letter in bilingua
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

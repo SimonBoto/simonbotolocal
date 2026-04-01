@@ -5,7 +5,7 @@ title: Oleic Acid Metabolic Benefits
 aliases: [Metabolic-Benefits, Lipid-Profile, Insulin-Sensitivity]
 domain: 001
 tags: [zettel, oleic-acid, metabolic-benefits, lipids, insulin]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Oleic Acid Metabolic Benefits
 
-> Oleic acid consumption improves lipid profiles, enhances [[KEYWORD-Insulin|insulin]] sensitivity, and reduces inflammatory markers through multiple cellular [[KEYWORD-Mechanism|mechanism]]s.
+> Oleic acid consumption improves lipid profiles, enhances  sensitivity, and reduces inflammatory markers through multiple cellular s.
 
 ## Lipid Profile
 
@@ -56,7 +56,7 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Oleic_Acid_[[KEYWORD-Clinical|clinical]]_L-001-0506]]*
+*Source: _L-001-0506]]*
 
 
 ## Related

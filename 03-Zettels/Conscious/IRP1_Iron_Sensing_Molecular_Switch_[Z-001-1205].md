@@ -4,7 +4,7 @@ type: zettel
 title: IRP1 — The Iron-Sensing Molecular Switch
 domain: 001
 tags: [zettel, irp1, iron-regulatory-protein, iron-sensing, post-transcriptional]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]]"
 status: conscious
@@ -18,7 +18,7 @@ IRP1 (Iron Regulatory Protein 1) is a remarkable example of a protein with dual 
 
 ---
 
-## The Switch [[KEYWORD-Mechanism|mechanism]]
+## The Switch 
 
 ### Iron-Replete Conditions
 ```
@@ -106,7 +106,7 @@ Iron uptake ↑, storage ↓
 
 ---
 
-## [[KEYWORD-Clinical|clinical]] Relevance
+##  Relevance
 
 ### Iron Deficiency Anemia
 - IRP1/2 highly active
@@ -119,7 +119,7 @@ Iron uptake ↑, storage ↓
 - Tissue iron overload
 
 ### Aconitase/IRP1 Connection
-- [[KEYWORD-Metabolism|metabolism]] and iron regulation linked
+-  and iron regulation linked
 - Energy status affects iron homeostasis
 - Oxidative stress affects both
 

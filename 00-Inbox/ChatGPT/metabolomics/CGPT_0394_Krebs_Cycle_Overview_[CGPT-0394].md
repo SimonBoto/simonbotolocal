@@ -682,4 +682,4 @@ Because it heard they needed someone with a lot of energy, and it had "mitochond
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

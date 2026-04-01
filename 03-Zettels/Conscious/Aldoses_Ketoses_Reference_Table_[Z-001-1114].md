@@ -6,7 +6,7 @@ aliases: [Z-001-1114, Aldoses-Ketoses]
 domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, aldoses, ketoses, reference, table]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 source-litnote: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
 source: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
 confidence: high
@@ -23,7 +23,7 @@ Comprehensive reference of aldose and ketose sugars with their biological signif
 ### Trioses (3C)
 | Sugar | Structure | Biological Role |
 |-------|-----------|-----------------|
-| **Glyceraldehyde** | Aldotriose | [[KEYWORD-Glycolysis|glycolysis]] intermediate, photosynthesis |
+| **Glyceraldehyde** | Aldotriose |  intermediate, photosynthesis |
 | **Dihydroxyacetone** | Ketotriose | Isomer of glyceraldehyde |
 
 ### Tetroses (4C)
@@ -93,16 +93,16 @@ Comprehensive reference of aldose and ketose sugars with their biological signif
 | **Energy** | Glucose, fructose | ATP production |
 | **Genetic** | Ribose, deoxyribose | RNA, DNA |
 | **Structure** | Galactose, mannose | Glycoproteins, glycolipids |
-| **[[KEYWORD-Metabolism|metabolism]]** | Ribulose, xylulose | Calvin cycle, PPP |
+| **** | Ribulose, xylulose | Calvin cycle, PPP |
 
 ## Related
 - [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_[Z-001-1088].md]]
 | [[Ribose_Pentose_Backbone_RNA_ATP_[Z-001-1085].md]]
-| [[MOC-Glycolysis-PPP]]
+| 
 
 ---
-*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*
+*Source: CGPT-0445 — Advanced *
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

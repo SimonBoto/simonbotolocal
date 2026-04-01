@@ -141,4 +141,4 @@ Please note that you would need to use these resources as supplements to Gelb's 
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

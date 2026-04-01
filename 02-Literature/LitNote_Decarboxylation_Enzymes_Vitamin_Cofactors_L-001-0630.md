@@ -15,7 +15,7 @@ domain: 001
 tags: [litnote, decarboxylases, b-vitamins, tpp, plp, enzyme-cofactors]
 source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]]"
 status: extracted
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -187,9 +187,9 @@ extraction-date: 2026-03-08
 - [[Dehydrogenase_vs_Decarboxylase_[Z-001-1203].md]] — To create
 
 **MOCs:**
-- [[MOC-One-Carbon-Metabolism]] — B-vitamins
-- [[MOC-Mitochondrial-Function]] — Energy metabolism
-- [[MOC-Clinical-Protocols]] — Deficiency recognition
+-  — B-vitamins
+-  — Energy metabolism
+-  — Deficiency recognition
 
 ---
 

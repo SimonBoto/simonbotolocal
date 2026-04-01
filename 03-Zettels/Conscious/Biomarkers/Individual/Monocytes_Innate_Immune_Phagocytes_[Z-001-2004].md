@@ -6,7 +6,7 @@ title: Monocytes — Innate Immune Phagocytes
 aliases: [Z-001-2004, Monocytes, Phagocytes, Innate-Immunity, Macrophages]
 domain: 001
 tags: [zettel, biomarker, monocytes, phagocytes, innate-immunity, inflammation]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

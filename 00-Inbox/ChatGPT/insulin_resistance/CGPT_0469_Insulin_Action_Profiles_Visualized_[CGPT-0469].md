@@ -2882,4 +2882,4 @@ In summary, while it's challenging to quantify the exact plasma insulin level fo
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

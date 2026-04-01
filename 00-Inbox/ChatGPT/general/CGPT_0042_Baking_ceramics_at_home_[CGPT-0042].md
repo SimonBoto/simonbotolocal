@@ -118,4 +118,4 @@ Would you like me to outline a **safe method to simulate a primitive low-tempera
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

@@ -5,7 +5,7 @@ title: ADA Guideline Controversies — Evolution and Criticism
 aliases: [ADA-Guidelines, HbA1c-Targets, Standards-of-Care]
 domain: 001
 tags: [zettel, ada, guidelines, controversy, hba1c, targets]
-parent-moc: [[MOC-Diabetes-History]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_ADA_History_L-001-0209]]
 extraction-date: 2026-03-01
@@ -27,7 +27,7 @@ extraction-date: 2026-03-01
 
 **ACCORD Study Impact (2008):**
 - Intensive glucose lowering (HbA1c <6%) increased mortality
-- Shocked [[KEYWORD-Diabetes|diabetes]] community
+- Shocked  community
 - Led to rapid guideline revision
 - Emphasis on individualization
 
@@ -69,14 +69,14 @@ extraction-date: 2026-03-01
 - Cost-effectiveness concerns
 
 **From Patient Advocates:**
-- [[KEYWORD-Insulin|insulin]] pricing inaction
+-  pricing inaction
 - Insufficient focus on access
 - Guidelines don't account for cost
 
 ## METHAP Relevance
 
 **Alternative Approach:**
-- METHAP represents metabolic/[[KEYWORD-Nutrition|nutrition]]al focus
+- METHAP represents metabolic/al focus
 - High-dose nutrients vs. pharmaceuticals
 - Early detection vs. late treatment
 - Outside mainstream ADA approach
@@ -92,4 +92,4 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

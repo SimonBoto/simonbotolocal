@@ -5,7 +5,7 @@ title: Low Carb CKD Safety Evidence — Ketogenic Diets in Kidney Disease
 aliases: [Z-001-0977]
 domain: 001
 tags: [zettel, low-carb, ketogenic, ckd, safety, evidence, review, conscious]
-parent-moc: [[MOC-Nutritional-Therapy]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Carbohydrate_Context_Protein_CKD_L-001-0574]]
 status: conscious
@@ -110,7 +110,7 @@ Safety and efficacy data for low-carbohydrate and ketogenic diets in chronic kid
 - Ensure adequate hydration
 
 **3. Hyperkalemia:**
-- [[KEYWORD-Insulin|insulin]] deficiency/reduction releases K+
+-  deficiency/reduction releases K+
 - Reduced intake of processed foods (often lower K+ paradoxically)
 - Monitor electrolytes
 
@@ -153,8 +153,8 @@ Safety and efficacy data for low-carbohydrate and ketogenic diets in chronic kid
 ### Transplant Recipients
 
 **Not Recommended:**
-- Immunosuppression [[KEYWORD-Metabolism|metabolism]] concerns
-- Need stable, balanced [[KEYWORD-Nutrition|nutrition]]
+- Immunosuppression  concerns
+- Need stable, balanced 
 - Drug-nutrient interactions
 
 ### Dialysis Patients
@@ -281,5 +281,5 @@ Safety and efficacy data for low-carbohydrate and ketogenic diets in chronic kid
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Threonine_Dual_Metabolism_Glucogenic_Ketogenic_[Z-001-0611]|Z-001-0611]]

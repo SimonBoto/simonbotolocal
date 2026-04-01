@@ -6,14 +6,14 @@ aliases: [Z-001-0072, 8000IU-Infant-Research-Gap]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, research-gap, infants, pediatrics]
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
 confidence: high
 created: 2026-03-01
 status: conscious
 ---
 
-# Research Gap in Infant 8,000 IU [[KEYWORD-Vitamin_D|vitamin d]] Safety Studies
+# Research Gap in Infant 8,000 IU  Safety Studies
 
 Despite the corrected RDA calculation showing 7,000-8,000 IU/day is needed for 97.5% population coverage, no research studies have specifically tested 8,000 IU daily safety in 1-year-old children. This gap exists between statistical requirements and evidence base.
 
@@ -31,7 +31,7 @@ Despite the corrected RDA calculation showing 7,000-8,000 IU/day is needed for 9
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
+**Parent MOC:** -
 **Source:** [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
 **Related:** [[Gallo_2013_Infant_Vitamin_D_Dose_Response_[Z-001-0067]]], [[Vitamin_D_RDA_10x_Underestimation_[Z-001-0059]]]
 
@@ -41,5 +41,5 @@ Despite the corrected RDA calculation showing 7,000-8,000 IU/day is needed for 9
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Vitamin_D_High_Dose_Monitoring_Protocol_[Z-001-0091]|Z-001-0091]]

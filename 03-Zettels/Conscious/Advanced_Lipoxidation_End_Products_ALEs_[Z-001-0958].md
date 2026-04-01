@@ -5,7 +5,7 @@ title: Advanced Lipoxidation End-Products (ALEs) — Toxic Aldehydes from Heated
 aliases: [Z-001-0958]
 domain: 001
 tags: [zettel, ale, advanced-lipoxidation, 4-hne, acrolein, malondialdehyde, heated-oils, toxicity, conscious]
-parent-moc: [[MOC-Oxidative-Stress]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]]
 status: conscious
@@ -73,7 +73,7 @@ Protein/DNA adducts → Cellular damage
 
 **Origin:** 
 - Glycerophospholipid breakdown
-- Polyamine [[KEYWORD-Metabolism|metabolism]]
+- Polyamine 
 - Cigarette smoke
 - Overheated cooking oils
 
@@ -233,13 +233,13 @@ Protein/DNA adducts → Cellular damage
    - Polyphenols (olive oil, spices)
    - Vitamin C (regenerates vitamin E)
 
-## Assessment and [[KEYWORD-Biomarker|biomarker]]s
+## Assessment and s
 
 **Dietary Assessment:**
 - Food frequency questionnaires (fried food, processed food)
 - Oil usage patterns
 
-**[[KEYWORD-Biomarker|biomarkers]]:**
+**:**
 | Marker | Sample | Interpretation |
 |--------|--------|----------------|
 | Urinary 4-HNE mercapturic acid | Urine | Recent exposure |
@@ -254,6 +254,6 @@ Protein/DNA adducts → Cellular damage
 ## RELATED FILES
 - [[Biomarkers/Free_Fatty_Acids_[B-006-0002]|Free Fatty Acids Panel]]
 - [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_[Z-001-0954]|Oxidative Stress Mechanisms]]
-- [[MOC-Inflammation|Inflammation MOC]]
+- 
 
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health

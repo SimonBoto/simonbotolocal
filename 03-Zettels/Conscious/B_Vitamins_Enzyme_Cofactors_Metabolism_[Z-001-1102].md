@@ -6,14 +6,14 @@ aliases: [Z-001-1102, B-Vitamins]
 domain: 001
 domain-name: Vitamin Metabolism
 tags: [zettel, b-vitamins, cofactors, metabolism]
-parent-moc: [[MOC-Vitamin-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
 source: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
 confidence: high
 created: 2026-03-08
 ---
 
-# B Vitamins Enzyme Cofactors [[KEYWORD-Metabolism|metabolism]]
+# B Vitamins Enzyme Cofactors 
 
 ## Overview
 B-vitamins serve as essential cofactors for hundreds of metabolic enzymes—each with specific roles in energy production, amino acid metabolism, and nucleotide synthesis.
@@ -52,7 +52,7 @@ B-vitamins serve as essential cofactors for hundreds of metabolic enzymes—each
 | Function | Pathway |
 |----------|---------|
 | **Acyl group transfer** | Fatty acid oxidation, Krebs cycle |
-| **Biosynthesis** | Fatty acid synthesis, [[KEYWORD-Cholesterol|cholesterol]] |
+| **Biosynthesis** | Fatty acid synthesis,  |
 
 **Deficiency:** Rare (widespread in food); fatigue, paresthesia
 
@@ -97,13 +97,13 @@ B-vitamins serve as essential cofactors for hundreds of metabolic enzymes—each
 
 ## Related
 - [[Cofactor_Deficiency_Metabolite_Patterns_[Z-001-1105].md]]
-| [[MOC-Vitamin-Metabolism]]
+| 
 
 ---
-*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*
+*Source: CGPT-0445 — Advanced *
 
 
 ## RELATED FILES
-- [[KEYWORD-Cofactors]]
-- [[MOC-INDEX|Master Index]]
+- 
+- 
 - [[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052]|Z-001-1052]]

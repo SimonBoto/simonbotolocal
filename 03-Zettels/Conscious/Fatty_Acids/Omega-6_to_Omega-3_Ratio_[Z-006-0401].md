@@ -6,7 +6,7 @@ title: Omega-6 to Omega-3 Ratio — Inflammatory Balance Index
 aliases: [Z-006-0401, Omega-6-3-Ratio, N6-N3-Ratio, Inflammatory-Balance]
 domain: 006
 tags: [zettel, biomarker, omega-6-3-ratio, n6-n3, inflammatory, balance]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

@@ -5,7 +5,7 @@ title: Nobel Prize 1923 — Award and Controversy
 aliases: [Nobel-1923, Insulin-Nobel, Prize-Controversy]
 domain: 001
 tags: [zettel, insulin, nobel, history, 1923, controversy]
-parent-moc: [[MOC-Diabetes-History]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Insulin_History_L-001-0207]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Nobel Prize 1923 — Award and Controversy
 
-> The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of [[KEYWORD-Insulin|insulin]], sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
+> The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of , sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
 
 ## The Award
 
@@ -72,8 +72,8 @@ extraction-date: 2026-03-01
 **James Collip:**
 - Not awarded Nobel
 - Recognized by MacLeod's sharing
-- Purification made [[KEYWORD-Clinical|clinical]] use possible
-- Continued [[KEYWORD-Biochemistry|biochemistry]] career
+- Purification made  use possible
+- Continued  career
 
 **Recognition Hierarchy (Disputed):**
 1. Traditional: Banting/MacLeod (Nobel)
@@ -168,6 +168,6 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

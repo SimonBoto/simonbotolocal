@@ -5,15 +5,15 @@ title: Mevalonate Pathway — Clinical Implications
 aliases: [Statin-Side-Effects, CoQ10-Depletion, Myopathy]
 domain: 001
 tags: [zettel, statin, side-effects, coq10-depletion, myopathy]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Mevalonate_Pathway_L-001-0509]]
 extraction-date: 2026-03-01
 ---
 
-# Mevalonate Pathway — [[KEYWORD-Clinical|clinical]] Implications
+# Mevalonate Pathway —  Implications
 
-> Understanding the pathway illuminates statin [[KEYWORD-Mechanism|mechanism]], side effects, and guides CoQ10 supplementation.
+> Understanding the pathway illuminates statin , side effects, and guides CoQ10 supplementation.
 
 ## Statin Effects
 
@@ -27,7 +27,7 @@ extraction-date: 2026-03-01
 | Effect | Frequency | Mechanism |
 |--------|-----------|-----------|
 | **Myalgia** | 5-10% | CoQ10 depletion |
-| **Fatigue** | Common | [[KEYWORD-Mitochondria|mitochondria]]l dysfunction |
+| **Fatigue** | Common | l dysfunction |
 | **Rhabdomyolysis** | <0.1% | Severe muscle breakdown |
 
 ## Risk Factors
@@ -50,6 +50,6 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

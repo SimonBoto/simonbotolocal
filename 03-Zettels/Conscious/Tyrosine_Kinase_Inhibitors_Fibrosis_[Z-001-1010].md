@@ -5,7 +5,7 @@ title: Tyrosine Kinase Inhibitors — FGFR, VEGFR, PDGFR Blockade in Fibrosis
 aliases: [Z-001-1010]
 domain: 001
 tags: [zettel, tyrosine-kinase-inhibitor, tki, fgfr, vegfr, pdgfr, nintedanib, antifibrotic, ipf, cancer, conscious]
-parent-moc: [[MOC-Enzyme-Pharmacology]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Nintedanib_Ofev_TKI_L-001-0583]]
 status: conscious
@@ -45,7 +45,7 @@ Autophosphorylation (tyrosine kinase activation)
 FRS2 recruitment
     ↓
 Ras-Raf-MEK-ERK (MAPK pathway) → Proliferation
-PI3K-Akt → Survival, [[KEYWORD-Metabolism|metabolism]]
+PI3K-Akt → Survival, 
 PLCγ → Calcium signaling
 ```
 
@@ -145,7 +145,7 @@ Src family (cytoskeleton)
 - Lck, Lyn
 - RET
 
-### [[KEYWORD-Mechanism|mechanism]] in IPF
+###  in IPF
 
 **Pathophysiology of IPF:**
 ```
@@ -189,7 +189,7 @@ Slowed fibrosis progression
 | Efficacy | Similar | Similar |
 | Side effects | Diarrhea, LFTs | Photosensitivity, GI |
 
-### Other TKIs ([[KEYWORD-Cancer|cancer]])
+### Other TKIs ()
 
 **Sunitinib:**
 - VEGFR, PDGFR, c-Kit, FLT-3
@@ -304,4 +304,4 @@ Slowed fibrosis progression
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

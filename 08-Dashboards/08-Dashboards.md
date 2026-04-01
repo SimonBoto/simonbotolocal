@@ -21,35 +21,35 @@ status: active
 
 | Dashboard | Purpose | Update Frequency |
 |-----------|---------|------------------|
-| **[[08-Dashboards/00-COMMAND\|00-COMMAND]]** | Current objectives, P0/P1/P2 | When priorities change |
-| **[[08-Dashboards/01-QUEUE\|01-QUEUE]]** | Active tasks, status | Every task change |
-| **[[08-Dashboards/02-HANDOFF\|02-HANDOFF]]** | Pending your review | As needed |
-| **[[08-Dashboards/03-LOG\|03-LOG]]** | Session log, decisions | End of session |
-| **[[08-Dashboards/04-SYSTEM\|04-SYSTEM]]** | System integration status | As needed |
+| **** | Current objectives, P0/P1/P2 | When priorities change |
+| **** | Active tasks, status | Every task change |
+| **** | Pending your review | As needed |
+| **** | Session log, decisions | End of session |
+| **** | System integration status | As needed |
 
 ## 🎯 Master Dashboard
 
 | Dashboard | Purpose |
 |-----------|---------|
-| **[[08-Dashboards/MISSION_CONTROL\|MISSION_CONTROL]]** | Master status, today's plan, vitals |
+| **** | Master status, today's plan, vitals |
 
 ## 🔄 Operational Dashboards
 
 | Dashboard | Purpose |
 |-----------|---------|
-| **[[08-Dashboards/MORNING_REVIEW\|MORNING_REVIEW]]** | Daily startup routine |
-| **[[08-Dashboards/TOMORROWS_BATTLE_PLAN\|TOMORROWS_BATTLE_PLAN]]** | Evening planning |
-| **[[08-Dashboards/DAILY_OPS\|DAILY_OPS]]** | Day-to-day operations |
-| **[[08-Dashboards/Dashboard_Home\|Dashboard_Home]]** | Dashboard directory |
+| **** | Daily startup routine |
+| **** | Evening planning |
+| **** | Day-to-day operations |
+| **** | Dashboard directory |
 
 ## 🤖 RON Dashboards
 
 | Dashboard | Purpose |
 |-----------|---------|
-| **[[08-Dashboards/RON_Tools_Dashboard\|RON_Tools_Dashboard]]** | AI tools status |
-| **[[08-Dashboards/RON_Mission_Control_Calendar\|RON_Mission_Control_Calendar]]** | Schedule |
-| **[[08-Dashboards/RON_Review_System\|RON_Review_System]]** | Review queue |
-| **[[08-Dashboards/RON-Workflow-System\|RON-Workflow-System]]** | Workflows |
+| **** | AI tools status |
+| **** | Schedule |
+| **** | Review queue |
+| **** | Workflows |
 
 ---
 
@@ -85,12 +85,12 @@ Evening:
 
 ## 🔗 Navigation
 
-← **Back to [[06-Structure]]** — Navigation & Templates  
-→ **Next: [[09-System]]** — Documentation  
+← **Back to ** — Navigation & Templates  
+→ **Next: ** — Documentation  
 ↑ **Parent: [[00-MISSION]]**
 
 **Siblings:**
-[[00-Inbox]] | [[01-References]] | [[02-Literature]] | [[03-Zettels]] | [[04-Synthesis]] | [[05-Projects]] | [[06-Structure]] | [[09-System]]
+ |  |  |  |  |  |  | 
 
 **Start Here:** [[08-Dashboards/MISSION_CONTROL]]
 

@@ -7,7 +7,7 @@ year: 2024
 journal: ChatGPT Archive
 relevance: High — PhD marker for adipic acid metabolism, oxalate biochemistry
 status: complete
-parent-moc: [[MOC-Adipic-Acid-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-04
 ---
 
@@ -163,7 +163,7 @@ This is critical for understanding branched-chain amino acid metabolism.
 
 ## Related References
 - [[L-001-0046A]] — Amino Acids Entering Krebs Cycle (complementary table)
-- [[MOC-Amino-Acid-Metabolism]] — Parent MOC for amino acid pathways
+-  — Parent MOC for amino acid pathways
 - [[Amino_Acids_Succinyl_CoA_B12_[Z-001-0495]]] — Amino Acids to Succinyl-CoA (B12 criticality)
 
 ---

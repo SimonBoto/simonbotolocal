@@ -5,7 +5,7 @@ title: Peer Review Best Practices — Structure, Tone, and Decision Framework
 aliases: [Z-001-1024]
 domain: 001
 tags: [zettel, peer-review, manuscript-review, critical-appraisal, scientific-integrity, reviewer-responsibilities, recommendation, conscious]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Manuscript_Review_Critical_Concerns_L-001-0586]]
 status: conscious
@@ -15,7 +15,7 @@ status: conscious
 
 ## Overview
 
-Peer review is the quality control [[KEYWORD-Mechanism|mechanism]] of scientific publishing. Effective review requires technical expertise, critical thinking, and professional communication skills.
+Peer review is the quality control  of scientific publishing. Effective review requires technical expertise, critical thinking, and professional communication skills.
 
 ## The Reviewer's Responsibility
 
@@ -243,7 +243,7 @@ Peer review is the quality control [[KEYWORD-Mechanism|mechanism]] of scientific
 ### Conflict of Interest
 
 **Declare:**
-- Competing [[KEYWORD-Research|research]]
+- Competing 
 - Personal relationships
 - Financial interests
 
@@ -366,7 +366,7 @@ Peer review is the quality control [[KEYWORD-Mechanism|mechanism]] of scientific
 6. **Confidentiality:** Protect unpublished work
 7. **Scientific focus:** On methodology, data, ethics—not personalities
 
-**[[KEYWORD-Clinical|clinical]] Pearl:** The best reviewers improve science by helping authors make their work better. Be the reviewer you'd want reviewing your work—thorough, fair, constructive, and timely.
+** Pearl:** The best reviewers improve science by helping authors make their work better. Be the reviewer you'd want reviewing your work—thorough, fair, constructive, and timely.
 
 ---
 
@@ -376,4 +376,4 @@ Peer review is the quality control [[KEYWORD-Mechanism|mechanism]] of scientific
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

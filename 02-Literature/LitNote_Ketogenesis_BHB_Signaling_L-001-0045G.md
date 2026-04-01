@@ -211,8 +211,8 @@ Acetyl-CoA → Krebs cycle → ATP
 
 - [[L-001-0045D]] Triose Metabolism (acetyl-CoA source)
 - [[L-001-0045H]] Oxaloacetate and Gluconeogenesis (competing pathway)
-- [[MOC-Ketogenesis]]
-- [[MOC-Insulin-Resistance]] (BHB therapeutic potential)
+- 
+-  (BHB therapeutic potential)
 
 ---
 

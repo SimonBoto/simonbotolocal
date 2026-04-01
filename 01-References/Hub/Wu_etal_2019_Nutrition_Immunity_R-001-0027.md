@@ -16,7 +16,7 @@ status: pending
 aliases: [R-001-0027, Wu_2019, Nutrition_Immunity_Review]
 domain: 001
 tags: [reference, nutrition, immunity, immunomodulation, review, tier-2]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 
@@ -57,7 +57,7 @@ Wu D, Lewis ED, Pae M, Meydani SN. Nutritional Modulation of Immune Function: An
 ## Connections
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source citing
 - [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021]] — Content support
-- [[MOC-Vitamin-D-Mechanisms]] — Mechanism hub
+-  — Mechanism hub
 
 ---
 *Status: Reference hub created — HIGH value review*  

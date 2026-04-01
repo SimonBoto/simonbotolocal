@@ -11,7 +11,7 @@ pmcid: "{{PMCID}}"
 tier: "{{1|2|3}}"
 relevance: "{{High|Medium|Low}} — {{Why relevant}}"
 status: "{{stub|processing|extracted|complete}}"
-parent-moc: "[[06-Structure/MOCs/MOC-{{Domain}}]]"
+parent-moc: ""
 extraction-date: "{{YYYY-MM-DD}}"
 ---
 
@@ -64,9 +64,9 @@ extraction-date: "{{YYYY-MM-DD}}"
 3. [[{{Zettel_3_Title}}_[{{Zettel_3_UID}}].md]] — {{Zettel_3_description}}
 
 ## Related References
-- [[{{Related_Ref_1}}]] — {{Connection}}
-- [[{{Related_Ref_2}}]] — {{Connection}}
-- [[{{Related_Ref_3}}]] — {{Connection}}
+-  — {{Connection}}
+-  — {{Connection}}
+-  — {{Connection}}
 
 ---
 

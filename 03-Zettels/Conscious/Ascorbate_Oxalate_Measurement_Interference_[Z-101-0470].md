@@ -5,7 +5,7 @@ title: Ascorbate Oxalate Measurement Interference
 aliases: [Z-101-0470]
 domain: 101
 tags: [zettel, vitamin-c, oxalate, laboratory, measurement, interference, clinical-chemistry, conscious]
-parent-moc: [[MOC-Adipic-Acid]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]]
 status: conscious
 ---
@@ -13,9 +13,9 @@ status: conscious
 # Ascorbate-Oxalate Measurement Interference
 
 ## The Problem
-High vitamin C (ascorbic acid) intake can cause **false positive oxalate measurements** in [[KEYWORD-Clinical|clinical]] laboratory assays.
+High vitamin C (ascorbic acid) intake can cause **false positive oxalate measurements** in  laboratory assays.
 
-## [[KEYWORD-Mechanism|mechanism]] of Interference
+##  of Interference
 
 ### Chemical Basis
 | Property | Ascorbic Acid | Oxalic Acid |
@@ -90,7 +90,7 @@ High vitamin C (ascorbic acid) intake can cause **false positive oxalate measure
 ## Related
 - **Source:** [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]]
 - **Chemistry:** [[Vitamin_C_to_Oxalate_Chemistry_[Z-101-0469].md]]
-- **DHA [[KEYWORD-Metabolism|metabolism]]:** [[DHA_Metabolism_Pathways_[Z-101-0471].md]]
+- **DHA :** [[DHA_Metabolism_Pathways_[Z-101-0471].md]]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*

@@ -5,7 +5,7 @@ title: Vascular Calcification — The Silent Killer
 aliases: [Vascular-Calcification, Arterial-Calcification, Silent-Killer]
 domain: 001
 tags: [zettel, vascular-calcification, cardiovascular, arteries, calcium]
-parent-moc: [[MOC-Cardiovascular-Health]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Vascular_Calcification_L-001-0215]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Vascular Calcification — The Silent Killer
 
-> Vascular calcification—the deposition of [[KEYWORD-Calcium|calcium]] phosphate crystals in arterial walls—affects 90% of adults over 70, increases cardiovascular risk independent of traditional factors, and often remains asymptomatic until advanced stages.
+> Vascular calcification—the deposition of  phosphate crystals in arterial walls—affects 90% of adults over 70, increases cardiovascular risk independent of traditional factors, and often remains asymptomatic until advanced stages.
 
 ## Definition and Types
 
@@ -25,7 +25,7 @@ extraction-date: 2026-03-01
 **Medial Calcification (Mönckeberg):**
 - Independent of atherosclerosis
 - Stiffens arteries
-- Common in [[KEYWORD-Diabetes|diabetes]], CKD, aging
+- Common in , CKD, aging
 
 ## Prevalence
 
@@ -40,7 +40,7 @@ extraction-date: 2026-03-01
 - Metabolic syndrome: Accelerated
 - Postmenopausal women: Increased
 
-## [[KEYWORD-Clinical|clinical]] Consequences
+##  Consequences
 
 **Arterial Stiffness:**
 - Loss of Windkessel effect
@@ -83,5 +83,5 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Omega_6_Cardiovascular_Controversy_[Z-001-0962]|Z-001-0962]]

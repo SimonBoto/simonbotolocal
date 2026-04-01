@@ -5,7 +5,7 @@ title: Amino Acids to Oxaloacetate and Aspartate
 aliases: [Z-001-0493, oxaloacetate, aspartate, asparagine, b6]
 domain: 001
 tags: [zettel, aspartate, asparagine, oxaloacetate, transaminase, b6]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0046A]]
@@ -31,8 +31,8 @@ Asparagine + H₂O → Aspartate + NH₃
 ## Enzymes: Aminotransferases
 
 ### Aspartate Aminotransferase (AST)
-- **[[KEYWORD-Mitochondria|mitochondria]]l and cytosolic isozymes**
-- **[[KEYWORD-Clinical|clinical]] marker:** AST/ALT ratio in liver disease
+- **l and cytosolic isozymes**
+- ** marker:** AST/ALT ratio in liver disease
 - **Normal:** AST < ALT
 - **Alcoholic liver disease:** AST > ALT (2:1)
 
@@ -55,13 +55,13 @@ Aspartate → Oxaloacetate **replenishes Krebs cycle**
 
 ## Vitamin B6 Dependence
 **All transaminases require PLP:**
-- B6 deficiency → impaired amino acid [[KEYWORD-Metabolism|metabolism]]
+- B6 deficiency → impaired amino acid 
 - Neurological symptoms (neurotransmitter synthesis affected)
 
 ## Related
 - [[Aspartate_Simple_Structure_Central_Role_[Z-001-0918]]] Aspartate Simple Structure Central Role
 - [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_[Z-001-0488]]] Oxaloacetate Dual Role
-- [[MOC-Urea-Cycle]]
+- 
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

@@ -17,7 +17,7 @@ status: pending
 aliases: [R-001-0031, Kroger_2012, Desaturase_T2D]
 domain: 001
 tags: [reference, desaturase, fatty-acids, t2d, biomarker, tier-1]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 

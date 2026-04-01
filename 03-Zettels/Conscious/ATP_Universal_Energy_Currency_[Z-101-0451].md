@@ -5,7 +5,7 @@ title: ATP as Universal Energy Currency
 aliases: [Z-101-0451, ATP-energy-currency]
 domain: 101
 tags: [zettel, atp, energy-metabolism, adenosine, evolution, universal-biochemistry]
-parent-moc: [[MOC-Nucleotide-Metabolism]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-101-0045A]]
@@ -33,12 +33,12 @@ High-energy phosphoanhydride bonds drive:
 - Chemical synthesis
 - Active transport
 
-## [[KEYWORD-Evolution|evolution]]ary Significance
+## ary Significance
 Conserved for ~4 billion years — strongest evidence for common ancestry of all life.
 
 ## Related
 - [[Adenosine_Receptors_Sleep_Regulation_[Z-101-0452]]] Adenosine Receptors and Sleep Regulation
-- [[Purine_vs_Pyrimidine_Structure_[Z-101-0453]]] Purine vs Pyrimidine [[KEYWORD-Chemistry|chemistry]]
+- [[Purine_vs_Pyrimidine_Structure_[Z-101-0453]]] Purine vs Pyrimidine 
 - [[Ribose_Structure_RNA_Backbone_[Z-001-0458]]] Pentose Phosphate Pathway (ribose source)
 
 ---

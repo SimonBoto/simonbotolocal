@@ -5,7 +5,7 @@ title: "Timeline: Prebiotic Chemistry to LUCA"
 aliases: [Z-101-0464, prebiotic-timeline, luca-timeline, evolution-timeline]
 domain: 101
 tags: [zettel, timeline, evolution, prebiotic, luca, origin-of-life]
-parent-moc: [[MOC-Origins-of-Life]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-101-0045B]]
@@ -30,14 +30,14 @@ source: [[L-101-0045B]]
   │
   ├── 4.0-3.8 BYA: RNA WORLD EMERGENCE
   │   ├── First ribozymes (self-replicating RNA?)
-  │   ├── Proto-[[KEYWORD-Metabolism|metabolism]]
+  │   ├── Proto-
   │   └── Compartmentalization (lipid vesicles)
   │
   ├── 3.8-3.5 BYA: LAST UNIVERSAL COMMON ANCESTORS (LUCA)
   │   ├── DNA emerges (more stable than RNA)
   │   ├── Protein enzymes take over catalysis
   │   ├── Universal genetic code established
-  │   └── Core metabolism ([[KEYWORD-Glycolysis|glycolysis]], Krebs cycle)
+  │   └── Core metabolism (, Krebs cycle)
   │
   ├── 3.5 BYA: Earliest fossil evidence (stromatolites)
   │
@@ -56,7 +56,7 @@ source: [[L-101-0045B]]
 - Anoxic atmosphere (CH₄, NH₃, H₂O, H₂)
 - Energy sources (UV, lightning, volcanism)
 - Liquid water
-- Concentration [[KEYWORD-Mechanism|mechanism]]s (evaporation, minerals)
+- Concentration s (evaporation, minerals)
 
 ### RNA World (4.0-3.8 BYA)
 **Transition from chemistry to biology:**
@@ -113,11 +113,11 @@ source: [[L-101-0045B]]
 - [[HCN_Polymerization_Adenine_Mechanism_[Z-101-0454]]] HCN Polymerization
 - [[RNA_World_Hypothesis_Evolution_[Z-101-0456]]] RNA World Hypothesis
 - [[Formamide_Chemistry_Prebiotic_Pathway_[Z-101-0463]]] Formamide Chemistry
-- [[MOC-Origins-of-Life]]
+- 
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

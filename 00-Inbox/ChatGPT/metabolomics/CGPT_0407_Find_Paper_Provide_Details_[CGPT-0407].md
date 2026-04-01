@@ -365,4 +365,4 @@ This case report is structured to clearly present the problem, assessment, inter
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

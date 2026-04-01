@@ -6,7 +6,7 @@ aliases: [Z-001-0036, Overt-Diabetes, Stage-3-IR, T2D]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, diabetes, T2D, beta-cell-failure, complications]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
 confidence: high
 created: 2026-02-24
@@ -14,7 +14,7 @@ created: 2026-02-24
 
 # Overt Diabetes Stage
 
-Beta-cell mass becomes insufficient to maintain glycemic control, resulting in absolute [[KEYWORD-Insulin|insulin]] deficiency relative to the degree of [[KEYWORD-Insulin_Resistance|insulin resistance]]. This is the end-stage of untreated or poorly managed insulin resistance.
+Beta-cell mass becomes insufficient to maintain glycemic control, resulting in absolute  deficiency relative to the degree of . This is the end-stage of untreated or poorly managed insulin resistance.
 
 **Diagnostic criteria:**
 - Fasting glucose > 126 mg/dL (on two occasions)
@@ -27,7 +27,7 @@ Beta-cell mass becomes insufficient to maintain glycemic control, resulting in a
 - Microvascular: retinopathy, nephropathy, neuropathy
 - Macrovascular: cardiovascular disease, stroke
 - Hepatic: NASH progression
-- [[KEYWORD-Cancer|cancer]] risk elevation
+-  risk elevation
 
 ## Key Details
 
@@ -42,11 +42,11 @@ Beta-cell mass becomes insufficient to maintain glycemic control, resulting in a
 
 - **Upstream:** [[Beta_Cell_Exhaustion_Stage_Z-001-0035.md]] — Beta-cell exhaustion precedes this
 - **Parallel:** [[HOMA_IR_Late_Marker_Z-001-0043.md]] — HbA1c finally becomes abnormal (late marker)
-- **Downstream:** [[MOC-T2D-Complications]] — Complications management
+- **Downstream:**  — Complications management
 
 ## Context
 
-**Also relevant to:** [[MOC-T2D]], [[MOC-Diabetes-Complications]]
+**Also relevant to:** , 
 
 **Emerges from:** Clinical staging framework from literature synthesis
 
@@ -56,4 +56,4 @@ Beta-cell mass becomes insufficient to maintain glycemic control, resulting in a
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

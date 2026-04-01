@@ -14,7 +14,7 @@ status: pending
 aliases: [R-001-0026, Tsoukalas_2020_Micronutrient_COVID]
 domain: 001
 tags: [reference, micronutrients, deficiency, covid-19, metabolomics, tier-2]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 
@@ -37,7 +37,7 @@ Tsoukalas D, Sarandi E. Micronutrient deficiencies in patients with COVID-19: ho
 ### Limitations
 - **COVID-19 focus** (not metabolic disease)
 - 2020 publication (pandemic-specific)
-- May overlap with [[Tsoukalas_etal_2021_Metabolic_Health_Snapshot_R-001-0025]]
+- May overlap with 
 
 ### METHAP Applications
 - Metabolomics methodology for deficiency detection
@@ -50,7 +50,7 @@ Tsoukalas D, Sarandi E. Micronutrient deficiencies in patients with COVID-19: ho
 
 ## Connections
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source citing
-- [[Tsoukalas_etal_2021_Metabolic_Health_Snapshot_R-001-0025]] — Likely related
+-  — Likely related
 
 ---
 *Status: Reference hub created — pending redundancy check*  

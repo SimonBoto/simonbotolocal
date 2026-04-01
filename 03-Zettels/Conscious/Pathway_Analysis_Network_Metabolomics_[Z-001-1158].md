@@ -4,13 +4,13 @@ type: zettel
 title: Pathway and Network Analysis — Metabolomics Interpretation
 domain: 001
 tags: [zettel, pathway-analysis, network-analysis, metabolomics, kegg, metaboanalyst]
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Metabolomics_Data_Processing_L-001-0619]]"
 status: conscious
 ---
 
-# Pathway and Network Analysis — [[KEYWORD-Metabolomics|metabolomics]] Interpretation
+# Pathway and Network Analysis —  Interpretation
 
 ## Overview
 
@@ -136,7 +136,7 @@ Connect differential metabolites to known metabolic pathways for biological inte
 
 ---
 
-## Key Pathways in [[KEYWORD-Insulin|insulin]] Resistance
+## Key Pathways in  Resistance
 
 ### Expected Enrichments
 | Pathway | Expected Change | Key Metabolites |
@@ -145,7 +145,7 @@ Connect differential metabolites to known metabolic pathways for biological inte
 | **Fatty acid oxidation** | Decreased | Acylcarnitines, dicarboxylic acids |
 | **TCA cycle** | Altered | Citrate, α-ketoglutarate |
 | **Ketogenesis** | Suppressed | β-hydroxybutyrate, acetoacetate |
-| **Omega-3 [[KEYWORD-Metabolism|metabolism]]** | Decreased | EPA, DHA |
+| **Omega-3 ** | Decreased | EPA, DHA |
 
 ---
 

@@ -6,7 +6,7 @@ aliases: [Z-001-0087, Denosumab_Bisphosphonate_Transition_Protocol]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, pharmacology, denosumab]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 source: [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]]
 confidence: high
 created: 2026-03-01
@@ -19,9 +19,9 @@ When discontinuing denosumab, guidelines recommend transitioning to bisphosphona
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
-**Source:** [[LitNote_Denosumab_[[KEYWORD-Mechanism|mechanism]]_Risks_L-001-0012]]
-**Related:** [[Denosumab_Rebound_Fractures_Discontinuation_[Z-001-0086].md]], [[MOC-[[KEYWORD-Clinical|clinical]]-Protocols]]
+**Parent MOC:** 
+**Source:** _Risks_L-001-0012]]
+**Related:** [[Denosumab_Rebound_Fractures_Discontinuation_[Z-001-0086].md]], -Protocols]]
 
 ---
 
@@ -29,4 +29,4 @@ When discontinuing denosumab, guidelines recommend transitioning to bisphosphona
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

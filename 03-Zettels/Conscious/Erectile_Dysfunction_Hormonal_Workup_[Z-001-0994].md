@@ -5,7 +5,7 @@ title: Erectile Dysfunction Hormonal Workup — Diagnostic Algorithm
 aliases: [Z-001-0994]
 domain: 001
 tags: [zettel, erectile-dysfunction, ed, hormonal-workup, testosterone, prolactin, fsh, lh, diagnostic-algorithm, conscious]
-parent-moc: [[MOC-Male-Sexual-Health]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Male_Hormone_Assessment_Scenarios_L-001-0578]]
 status: conscious
@@ -46,7 +46,7 @@ Erectile dysfunction (ED) affects approximately 40% of men by age 40, with preva
 - **When:** All men with ED + low libido, or unexplained ED
 
 **3. Fasting Glucose/HbA1c:**
-- **Why:** [[KEYWORD-Diabetes|diabetes]] major cause of ED (vascular + neuropathy)
+- **Why:**  major cause of ED (vascular + neuropathy)
 - **Prevalence:** 50% of diabetic men have ED
 
 **4. Lipid Panel:**
@@ -116,7 +116,7 @@ Erectile dysfunction (ED) affects approximately 40% of men by age 40, with preva
 | **High FSH/LH** | Elevated | Primary hypogonadism | Karyotype if young; testicular evaluation |
 | **Low/normal FSH/LH** | Low/normal | Secondary hypogonadism | Prolactin, MRI pituitary, iron studies |
 
-## [[KEYWORD-Clinical|clinical]] Algorithm
+##  Algorithm
 
 ```
 Man with Erectile Dysfunction

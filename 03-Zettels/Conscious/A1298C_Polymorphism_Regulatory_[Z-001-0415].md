@@ -5,7 +5,7 @@ title: A1298C Polymorphism — Regulatory Variant
 aliases: [A1298C, Regulatory-Variant, MTHFR-1298]
 domain: 001
 tags: [zettel, a1298c, polymorphism, mthfr, regulatory]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]]
 extraction-date: 2026-03-01
@@ -39,9 +39,9 @@ extraction-date: 2026-03-01
 **Compound Heterozygote (C677T/A1298C):**
 - One copy of each variant
 - ~50-60% enzyme activity
-- Significant [[KEYWORD-Folate|folate]] requirement increase
+- Significant  requirement increase
 
-## [[KEYWORD-Clinical|clinical]]
+## 
 
 **Associations:**
 - Mood disorders (depression, anxiety)
@@ -59,4 +59,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

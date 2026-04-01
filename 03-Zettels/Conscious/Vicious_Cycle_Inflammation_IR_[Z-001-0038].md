@@ -6,19 +6,19 @@ aliases: [Z-001-0038, Inflammation-IR-Cycle]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vicious-cycle, inflammation, IR, cytokines, adipokines]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
 confidence: high
 created: 2026-02-24
 ---
 
-# Vicious Cycle: [[KEYWORD-Inflammation|inflammation]] → IR → Inflammation
+# Vicious Cycle:  → IR → Inflammation
 
-Inflammatory cytokines (TNF-α, IL-6) trigger IRS-1 serine phosphorylation, blocking [[KEYWORD-Insulin|insulin]] signaling and creating insulin resistance. The resulting IR produces adipokine dysregulation (↓adiponectin, dysfunctional leptin) that generates more inflammation.
+Inflammatory cytokines (TNF-α, IL-6) trigger IRS-1 serine phosphorylation, blocking  signaling and creating insulin resistance. The resulting IR produces adipokine dysregulation (↓adiponectin, dysfunctional leptin) that generates more inflammation.
 
 **The cycle:** Inflammation begets IR, which begets more inflammation through adipose tissue dysfunction, gut dysbiosis, and systemic low-grade immune activation.
 
-**Breaking point:** Anti-inflammatory interventions (omega-3 fatty acids, [[KEYWORD-Vitamin_D|vitamin d]] optimization, gut healing protocols) can interrupt this cycle at multiple points.
+**Breaking point:** Anti-inflammatory interventions (omega-3 fatty acids,  optimization, gut healing protocols) can interrupt this cycle at multiple points.
 
 **Clinical relevance:** Many "idiopathic" insulin resistance cases are driven by occult inflammation — treating the inflammation often restores insulin sensitivity.
 
@@ -42,11 +42,11 @@ More Inflammation
 
 - **Upstream:** [[Inflammatory_Signaling_IR_Z-001-0031.md]] — Inflammatory signaling mechanism
 - **Parallel:** [[Vicious_Cycle_IR_Obesity_Z-001-0037.md]], [[Vicious_Cycle_Stress_IR_Z-001-0039.md]] — Other vicious cycles
-- **Downstream:** [[MOC-Anti-Inflammatory]] — Interventions
+- **Downstream:**  — Interventions
 
 ## Context
 
-**Also relevant to:** [[MOC-Inflammation]], [[MOC-Autoimmunity]]
+**Also relevant to:** , 
 
 **Emerges from:** Literature synthesis on inflammation-IR mechanisms
 

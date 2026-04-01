@@ -15,7 +15,7 @@ status: ref
 confidence: high
 aliases: [R-001-0038, Savage_2007_IR_Mechanisms, Nature_IR_Cellular]
 tags: [ref, insulin-resistance, cellular-mechanisms, lipotoxicity, DAG, ceramide]
-parent-moc: [[MOC-References]]
+parent-moc: 
 source-type: paper
 extraction-date: 2026-02-24
 ---
@@ -54,7 +54,7 @@ Savage, D. B., Petersen, K. F. and Shulman, G. I. (2007) 'Disordered lipid metab
 
 ## Cited In
 - [[LitNote_IR_Mechanisms_Map_L-001-0005]] — Cellular mechanisms citation
-- [[MOC-Insulin-Signaling]] — Core mechanism
+-  — Core mechanism
 
 ## Our Use
 **Clinic:** Explain to patients why early metabolic markers matter before glucose rises

@@ -5,7 +5,7 @@ title: Metabolic Syndrome Criteria ATP III Definition
 aliases: [Z-001-0050, Metabolic Syndrome, Syndrome X, ATP III, Insulin Resistance Syndrome]
 domain: 001
 tags: [zettel, biomarker, ir-core, clinical-protocol, phd-methap]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 biomarker-type: clinical-syndrome-definition
 criteria: 3 of 5 ATP III factors
 target: <3 criteria
@@ -38,7 +38,7 @@ source-litnote: Synthesized from clinical practice
 
 ---
 
-## 🔗 Connected [[KEYWORD-Biomarker|biomarker]]s
+## 🔗 Connected s
 
 **IR Core Panel:**
 - [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (typically >2.5-3.0 in metabolic syndrome)
@@ -50,7 +50,7 @@ source-litnote: Synthesized from clinical practice
 - Criterion 5: [[HOMA_Beta_Beta_Cell_Function_Z-001-0047.md]] — HOMA-β (may show compensation or failure)
 
 **Mechanism:**
-- [[Phenotype_Mapping_[[KEYWORD-Metabolomics|metabolomics]]_Z-001-0018.md]] — Lipotoxicity (central adiposity drives IR)
+- _Z-001-0018.md]] — Lipotoxicity (central adiposity drives IR)
 - [[Predictive_Metabolites_T1D_Example_Z-001-0019.md]] — Inflammatory signaling (visceral fat cytokines)
 
 ---
@@ -175,12 +175,12 @@ patient_id,visit,waist_cm,tg_mg_dl,hdl_c_mg_dl,sbp,dbp,glucose,criteria_count,me
 
 ---
 
-*Source: [[Ref_NCEP_ATP_III_2001]], [[Ref_Grundy_MetSyn_Consensus_2005]]*
+*Source: , *
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 
 
 

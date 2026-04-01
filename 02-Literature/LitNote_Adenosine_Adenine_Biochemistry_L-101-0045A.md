@@ -158,9 +158,9 @@ Hydrogen cyanide (HCN) polymerization → Adenine
 
 - [[L-101-0045B]] Prebiotic Chemistry Deep Dive
 - [[L-101-0045C]] Ribose and Pentose Phosphate Pathway
-- [[MOC-Nucleotide-Metabolism]]
-- [[MOC-Mitochondrial-Function]] (ATP synthesis)
-- [[MOC-Sleep-and-Circadian]] (adenosine signaling)
+- 
+-  (ATP synthesis)
+-  (adenosine signaling)
 
 ---
 

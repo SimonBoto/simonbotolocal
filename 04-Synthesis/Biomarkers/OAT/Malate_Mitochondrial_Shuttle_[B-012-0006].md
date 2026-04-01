@@ -5,7 +5,7 @@ title: Malate — Mitochondrial-Cytosol Shuttle
 aliases: [B-012-0006]
 domain: 012
 tags: [oat, metabolite, mitochondrial, malate, malate-shuttle, oxaloacetate, gluconeogenesis, nadph]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 extraction-date: 2026-03-31
 ---
@@ -257,7 +257,7 @@ This generates **NADPH** for:
 - [[B-012-0005|Fumarate — The Fumarase Checkpoint]]
 - [[B-012-0001|Citrate — Mitochondrial Dysfunction Marker]]
 - [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition]]
-- [[MASTER-001|Master Biomarker Reference]]
+- 
 
 ---
 *Part of OAT Metabolite Training System — Mitochondrial Markers Module*

@@ -6,14 +6,14 @@ aliases: [Z-001-0074, Personalized-Vitamin-D]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, personalized-medicine, precision-nutrition]
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: 
 source: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_[CGPT-0284]]]"
 confidence: high
 created: 2026-03-01
 status: conscious
 ---
 
-# Personalized [[KEYWORD-Vitamin_D|vitamin d]] vs Population Guidelines
+# Personalized  vs Population Guidelines
 
 Growing recognition that population-wide RDA fails individual needs. Factors creating 10-20x variability in vitamin D requirements: baseline status, BMI (sequestration in adipose), skin pigmentation, latitude/sun exposure, genetics (VDR polymorphisms, CYP24A1), age, kidney/liver function.
 
@@ -21,7 +21,7 @@ Growing recognition that population-wide RDA fails individual needs. Factors cre
 - **Baseline 25(OH)D:** Determines required repletion dose
 - **BMI:** Higher body fat = more sequestration, higher needs
 - **Skin pigmentation:** Darker skin requires 3-6x longer sun exposure
-- **Genetics:** VDR, CYP2R1, CYP24A1 variants affect [[KEYWORD-Metabolism|metabolism]]
+- **Genetics:** VDR, CYP2R1, CYP24A1 variants affect 
 - **Geography/season:** Latitude >35° = seasonal deficiency
 
 **Clinical approach:**
@@ -34,9 +34,9 @@ Growing recognition that population-wide RDA fails individual needs. Factors cre
 
 ## Links
 
-**Parent MOC:** [[MOC-Clinical-Protocols]]
+**Parent MOC:** 
 **Source:** [[CGPT_0284_Vitamin_D_Toxicity_Misconception_[CGPT-0284]]]
-**Related:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Metabolism]], [[IIH_CYP24A1_Mutation_True_Cause_[Z-001-0055]]]
+**Related:** -Metabolism]], [[IIH_CYP24A1_Mutation_True_Cause_[Z-001-0055]]]
 
 ---
 
@@ -44,4 +44,4 @@ Growing recognition that population-wide RDA fails individual needs. Factors cre
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

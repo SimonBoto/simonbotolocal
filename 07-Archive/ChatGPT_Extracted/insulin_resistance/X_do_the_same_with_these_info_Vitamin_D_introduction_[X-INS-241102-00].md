@@ -5,7 +5,7 @@ title: "do the same with these info:
 
 ## Vitamin D introduction 
 
- **[[Vitamin D]] is w"
+ ** is w"
 date: 2024-11-02
 status: conscious
 ---
@@ -16,7 +16,7 @@ title: "do the same with these info:
 
 ## Vitamin D introduction 
 
- **[[Vitamin D]] is w..."
+ ** is w..."
 date: 2024-11-02
 source: "[[CGPT_0260_Paper_Formatting_Request_[CGPT-0260]]]"
 aliases: [X-INS-241102-00]
@@ -29,7 +29,7 @@ status: conscious
 
 ## Vitamin D introduction 
 
- **[[Vitamin D]] is w...
+ ** is w...
 
 > **Source:** "Paper Formatting Request"  
 > **Date:** 2024-11-02  
@@ -41,7 +41,7 @@ do the same with these info:
 
 ## Vitamin D introduction 
 
- **[[Vitamin D]] is well known for its important function in bone health, but also affects pancreatic beta cells, insulin sensitivity and secretion.
+ ** is well known for its important function in bone health, but also affects pancreatic beta cells, insulin sensitivity and secretion.
 
 ## Context
 

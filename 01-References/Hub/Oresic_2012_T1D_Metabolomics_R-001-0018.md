@@ -17,7 +17,7 @@ status: pending
 aliases: [R-001-0018, Oresic_2012, T1D_Metabolomics_Review]
 domain: 001
 tags: [reference, t1d, metabolomics, islet-autoimmunity, review, tier-2]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 
@@ -43,7 +43,7 @@ Oresic M. Metabolomics in the studies of islet autoimmunity and type 1 diabetes.
 - Context for prediction methodology evolution
 
 ### Lower Priority Than
-- [[Lamichhane_etal_2019_T1D_Metabolites_Prediction_R-001-0012]] — Primary prediction study
+-  — Primary prediction study
 
 ## Research Tasks
 - [ ] Check if cited for specific biomarkers not in Lamichhane
@@ -51,7 +51,7 @@ Oresic M. Metabolomics in the studies of islet autoimmunity and type 1 diabetes.
 
 ## Connections
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source citing
-- [[Lamichhane_etal_2019_T1D_Metabolites_Prediction_R-001-0012]] — Primary source on same topic
+-  — Primary source on same topic
 
 ---
 *Status: Reference hub created — secondary to Lamichhane (2019)*  

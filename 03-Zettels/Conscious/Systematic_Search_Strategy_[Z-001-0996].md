@@ -5,7 +5,7 @@ title: Systematic Search Strategy — Database Selection and Search String Const
 aliases: [Z-001-0996]
 domain: 001
 tags: [zettel, systematic-review, search-strategy, pubmed, embase, cochrane, boolean-operators, mesh, conscious]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]]
 status: conscious
@@ -24,7 +24,7 @@ A comprehensive systematic search is the foundation of any rigorous systematic r
 **PubMed/MEDLINE:**
 - **Coverage:** 30+ million citations, 1946-present
 - **Strengths:** Broad biomedical, MeSH indexing, free access
-- **Best for:** General medical topics, [[KEYWORD-Clinical|clinical]] questions
+- **Best for:** General medical topics,  questions
 - **Unique features:** Clinical queries filters, PMID linking
 
 **Embase:**
@@ -61,7 +61,7 @@ A comprehensive systematic search is the foundation of any rigorous systematic r
 - **O**utcome: What are the outcomes?
 
 **Example:**
-- P: Adults with type 2 [[KEYWORD-Diabetes|diabetes]]
+- P: Adults with type 2 
 - I: Metformin
 - C: Placebo or standard care
 - O: Cardiovascular events
@@ -140,7 +140,7 @@ AND
 
 **Example:**
 ```
-("[[KEYWORD-Vitamin_D|vitamin d]]"[Mesh] OR "vitamin D"[tiab] OR cholecalciferol[tiab])
+(""[Mesh] OR "vitamin D"[tiab] OR cholecalciferol[tiab])
 AND
 ("diabetes mellitus, type 2"[Mesh] OR "type 2 diabetes"[tiab])
 Filters: Humans, English, last 10 years, randomized controlled trial

@@ -6,8 +6,8 @@ aliases: ["{{UID}}", "{{ShortSlug}}"]
 domain: "{{DDD}}"
 domain-name: "{{DomainName}}"
 tags: ["zettel", "{{topic}}", "{{subtopic}}"]
-parent-moc: "[[MOC-{{DDD}}]]"
-source: "[[{{SourceLitNote}}]]"
+parent-moc: ""
+source: ""
 confidence: "high | medium | low"
 created: "{{YYYY-MM-DD}}"
 ---
@@ -22,7 +22,7 @@ created: "{{YYYY-MM-DD}}"
 
 **ALWAYS Link (FULL FILENAME REQUIRED):**
 - `[[Adipic_Acid_Early_IR_Biomarker_[Z-001-0041]]]` — NEVER use bare `[[Z-001-0041]]`
-- Parent MOC: `[[MOC-Insulin-Signaling]]` — navigation
+- Parent MOC: `` — navigation
 - Cross-domain bridges: Insulin zettel → Vitamin D mechanism
 
 **CRITICAL RULE:**
@@ -32,7 +32,7 @@ Always use full format: `[[Title_[Z-001-0041].md]]` or `[[Title_[Z-001-0041]|dis
 **Verification:** `grep -r '\[\[Z-[0-9]\{4\}-[0-9]\{4\}\]\]' 02-Literature/ 03-Zettels/` should return nothing.
 
 **Use Plain Text WHEN:**
-- Generic concepts: "insulin resistance" (not `[[insulin resistance]]`)
+- Generic concepts: "insulin resistance" (not ``)
 - Flow narrative: reading should be smooth
 - Already linked nearby: no duplicate links
 
@@ -42,10 +42,10 @@ Always use full format: `[[Title_[Z-001-0041].md]]` or `[[Title_[Z-001-0041]|dis
 
 ## Context
 
-**Also relevant to:** [[MOC-{{SecondaryDomain}}]] (optional)
+**Also relevant to:**  (optional)
 
-**Emerges from:** [[{{SourceLitNote}}]]
-**Supports:** [[{{TechRef}}]] or [[{{Composite}}]]
+**Emerges from:** 
+**Supports:**  or 
 
 ---
 

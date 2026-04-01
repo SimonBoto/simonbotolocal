@@ -4,7 +4,7 @@ type: zettel
 title: mtDNA Mutations in Cancer and Metastasis
 domain: 001
 tags: [zettel, mtDNA, cancer, metastasis, mutations, warburg-effect, oncometabolism]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]]"
 status: conscious
@@ -78,7 +78,7 @@ status: conscious
 
 ---
 
-## mtDNA as [[KEYWORD-Biomarker|biomarker]]
+## mtDNA as 
 
 ### Diagnostic
 - **Circulating cell-free mtDNA:** Elevated in cancer patients
@@ -108,7 +108,7 @@ status: conscious
 3. **Selective pressure:** Only functional mitochondria retained
 4. **Nuclear compensation:** Upregulation of nuclear-encoded OXPHOS subunits
 
-**Implication:** Cancer [[KEYWORD-Metabolism|metabolism]] is complex — not purely glycolytic (Warburg) or oxidative
+**Implication:** Cancer  is complex — not purely glycolytic (Warburg) or oxidative
 
 ---
 
@@ -123,6 +123,6 @@ status: conscious
 *Source: [[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]] | 2026-03-08*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

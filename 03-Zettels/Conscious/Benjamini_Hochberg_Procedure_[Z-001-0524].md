@@ -6,7 +6,7 @@ aliases: [Z-001-0524, BH Procedure, FDR Control Method]
 domain: 001
 domain-name: Research Methods
 tags: [zettel, statistics, fdr, benjamini-hochberg, multiple-testing, p-value, method]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
 confidence: high
 created: 2026-03-03
@@ -91,7 +91,7 @@ This creates a **step-up** procedure that maximizes power while controlling FDR.
 
 ✅ **Independent tests** — original BH procedure  
 ✅ **Positive dependence** — BH procedure still valid (Benjamini & Yekutieli extension)  
-✅ **High-dimensional data** — [[KEYWORD-Metabolomics|metabolomics]], genomics, proteomics  
+✅ **High-dimensional data** — , genomics, proteomics  
 
 ### Limitations
 
@@ -141,4 +141,4 @@ rejected, corrected, _, _ = multipletests(p_values, alpha=0.1, method='fdr_bh')
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

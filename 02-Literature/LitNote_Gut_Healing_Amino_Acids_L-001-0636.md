@@ -8,7 +8,7 @@ journal: ChatGPT Archive
 tier: 2
 relevance: High — Clinical protocols for intestinal barrier repair, glutamine, taurine dosing
 status: extracted
-parent-moc: [[MOC-Gut-Health]]
+parent-moc: 
 extraction-date: 2026-03-09
 ---
 
@@ -72,8 +72,8 @@ extraction-date: 2026-03-09
 3. [[Amino_Acids_Gut_Healing_Synergy_[Z-001-1226].md]]
 
 ## Related
-- [[MOC-Gut-Health]]
-- [[MOC-Amino-Acid-Metabolism]]
+- 
+- 
 
 ---
 *Extracted: 2026-03-09*

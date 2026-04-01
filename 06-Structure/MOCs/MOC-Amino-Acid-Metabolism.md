@@ -41,9 +41,9 @@ created: 2026-03-04
 ## Connections
 - [[L-001-0046A]] Amino Acids Krebs Entry (full table)
 - [[L-001-0046B]] Amino Acid Networks
-- [[MOC-Urea-Cycle]]
-- [[MOC-Krebs-Cycle]]
-- [[MOC-Nitrogen-Metabolism]]
+- 
+- 
+- 
 
 ---
 *Created: 2026-03-04 | Status: Active (growing)*

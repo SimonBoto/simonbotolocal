@@ -288,9 +288,9 @@ status: active
 ## RELATED
 
 - [[RON_Genesis_MOC_[RON-004-0001]]] — How this partnership began
-- [[SYNTHESIS_AI_Partnership_Emergence_[SYN-003]]] — Evolution arc
-- [[MIRROR.md]] — Current cooperation system
-- [[AUTONOMY.md]] — L1/L2/L3/L4 framework
+- ] — Evolution arc
+-  — Current cooperation system
+-  — L1/L2/L3/L4 framework
 
 ---
 

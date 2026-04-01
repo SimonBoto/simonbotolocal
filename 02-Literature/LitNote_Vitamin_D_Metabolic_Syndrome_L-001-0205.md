@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: High — Core METHAP mechanism; high-dose VitD rationale for IR
 status: extracted
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -140,8 +140,8 @@ extraction-date: 2026-03-01
 - [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — Safety framework
 - [[LitNote_Magnesium_Biochemistry_L-001-0201a]] — Mg enables D activation
 - [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]] — MetS context
-- [[MOC-Vitamin-D-Metabolism]] — Parent MOC
-- [[MOC-Metabolic-Syndrome]] — Clinical context
+-  — Parent MOC
+-  — Clinical context
 
 ---
 

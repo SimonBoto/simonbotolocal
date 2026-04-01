@@ -156,4 +156,4 @@ This analysis reveals a strong presence of the factors 2 and 3 in most of these 
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

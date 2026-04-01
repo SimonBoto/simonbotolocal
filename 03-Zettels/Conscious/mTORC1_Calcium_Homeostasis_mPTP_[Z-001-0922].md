@@ -5,7 +5,7 @@ title: mTORC1 Inhibition Disrupts Calcium Homeostasis and mPTP Opening
 aliases: [Z-001-0922, Z-001-0515-deprecated, Sirolimus Calcium, mPTP Opening, Mitochondrial Permeability Transition]
 domain: 001
 tags: [zettel, sirolimus, rapamycin, mtorc1, calcium, mptp, mitochondrial-permeability, cell-death]
-parent-moc: [[MOC-mTOR-Signaling]]
+parent-moc: 
 status: conscious
 source: "[[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]]"
 extraction-date: 2026-03-02
@@ -14,7 +14,7 @@ updated: 2026-03-05
 
 # mTORC1 Inhibition Disrupts Calcium Homeostasis and mPTP Opening
 
-**Core Mechanism:** Sirolimus disrupts [[KEYWORD-Mitochondria|mitochondria]]l calcium buffering, leading to calcium overload, mPTP opening, and cell death.
+**Core Mechanism:** Sirolimus disrupts l calcium buffering, leading to calcium overload, mPTP opening, and cell death.
 
 ## Calcium Homeostasis Overview
 
@@ -23,7 +23,7 @@ updated: 2026-03-05
 - Signaling: rises to 1-10 μM
 - Must be rapidly cleared after signals
 
-**[[KEYWORD-Mitochondria|mitochondrial]] Calcium ([Ca²⁺]m):**
+** Calcium ([Ca²⁺]m):**
 - Important buffer for cytosolic Ca²⁺
 - Activates TCA cycle dehydrogenases
 - Stimulates ATP production
@@ -117,7 +117,7 @@ Sirolimus → Mitochondrial dysfunction
 **High Vulnerability:**
 - **Cardiomyocytes:** Ca²⁺ cycling essential for contraction
 - **Neurons:** Excitotoxicity risk, Ca²⁺ signaling central
-- **β-cells:** Glucose-stimulated [[KEYWORD-Insulin|insulin]] secretion Ca²⁺-dependent
+- **β-cells:** Glucose-stimulated  secretion Ca²⁺-dependent
 
 **Clinical Correlations:**
 - Cardiotoxicity with sirolimus
@@ -130,4 +130,4 @@ Sirolimus → Mitochondrial dysfunction
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

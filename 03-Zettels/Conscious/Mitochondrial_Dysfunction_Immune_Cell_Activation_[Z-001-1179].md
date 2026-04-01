@@ -4,13 +4,13 @@ type: zettel
 title: Mitochondrial Dysfunction in Immune Cell Activation
 domain: 001
 tags: [zettel, mitochondria, immune-cells, t-cells, metabolic-reprogramming, ros]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]]"
 status: conscious
 ---
 
-# [[KEYWORD-Mitochondria|mitochondria]]l Dysfunction in Immune Cell Activation
+# l Dysfunction in Immune Cell Activation
 
 ## Metabolic Reprogramming in Activated T Cells
 
@@ -111,7 +111,7 @@ status: conscious
 - Antimicrobial defense
 - Redox signaling
 
-**Harmful (in chronic [[KEYWORD-Inflammation|inflammation]]):**
+**Harmful (in chronic ):**
 - Tissue damage
 - Telomere shortening
 - Cellular senescence
@@ -123,7 +123,7 @@ status: conscious
 ### Mitochondrial Support
 **Potential Interventions:**
 - CoQ10: ETC function
-- Alpha-lipoic acid: Antioxidant, mitochondrial [[KEYWORD-Metabolism|metabolism]]
+- Alpha-lipoic acid: Antioxidant, mitochondrial 
 - L-carnitine: Fatty acid transport
 - B-vitamins: Mitochondrial cofactors
 

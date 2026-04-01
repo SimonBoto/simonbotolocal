@@ -5,7 +5,7 @@ title: Government Dietary Guidelines Shift 1970s-1980s — Demonization of Satur
 aliases: [Z-001-0970]
 domain: 001
 tags: [zettel, dietary-guidelines, usda, mcgovern, ancel-keys, saturated-fat, 1977, food-policy, conscious]
-parent-moc: [[MOC-History-Industrial-Development]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]]
 status: conscious
@@ -19,7 +19,7 @@ By the 1970s, concern about heart disease reached political levels. Senator Geor
 
 ## The McGovern Committee (1977)
 
-### Senate Select Committee on [[KEYWORD-Nutrition|nutrition]] and Human Needs
+### Senate Select Committee on  and Human Needs
 
 **Chair:** Senator George McGovern (D-South Dakota)
 **Timeline:** 1968-1977
@@ -76,7 +76,7 @@ By the 1970s, concern about heart disease reached political levels. Senator Geor
 
 ### Keys-McGovern Connection
 
-**[[KEYWORD-Mechanism|mechanism]] of Influence:**
+** of Influence:**
 1. Keys testified before McGovern committee
 2. Provided simplified narrative
 3. Offered actionable policy
@@ -155,7 +155,7 @@ By the 1970s, concern about heart disease reached political levels. Senator Geor
 | Original | Replacement | Outcome |
 |----------|-------------|---------|
 | Butter | Margarine (trans fats) | Worse for heart |
-| Lard | Vegetable shortening | More [[KEYWORD-Omega_6|omega-6]], trans fats |
+| Lard | Vegetable shortening | More , trans fats |
 | Whole foods | Processed low-fat | More sugar, refined carbs |
 | Traditional fats | Seed oils | Omega-6 excess |
 
@@ -309,4 +309,4 @@ The 1977-1980 dietary guideline shift:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

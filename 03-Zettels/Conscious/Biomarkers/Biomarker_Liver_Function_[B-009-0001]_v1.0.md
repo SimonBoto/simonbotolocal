@@ -5,7 +5,7 @@ title: Liver Function Panel (SGOT/AST, SGPT/ALT, GGT, ALP, Bilirubin) - Clinical
 aliases: [B-009-0001, Liver-Function, Hepatic-Panel, AST, ALT, GGT, ALP, Transaminases]
 domain: 009
 tags: [biomarker, liver, hepatic, ast, alt, ggt, alp, bilirubin]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 created: 2026-03-30
 ---

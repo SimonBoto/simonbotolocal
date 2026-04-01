@@ -6,7 +6,7 @@ aliases: [Z-001-1124, Fasting-Cancer]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, fasting, caloric-restriction, cancer, therapy]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]]
 source: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]]
 confidence: high
@@ -24,7 +24,7 @@ Caloric restriction and fasting induce metabolic changes that can inhibit cancer
 | Change | Effect on Cancer |
 |--------|------------------|
 | **Glucose ↓** | Reduced glycolytic fuel |
-| **[[KEYWORD-Insulin|insulin]] ↓** | Reduced growth signaling |
+| ** ↓** | Reduced growth signaling |
 | **IGF-1 ↓** | Reduced proliferation |
 | **Ketones ↑** | Normal cells protected |
 
@@ -34,7 +34,7 @@ Caloric restriction and fasting induce metabolic changes that can inhibit cancer
 | **AMPK activation** | Inhibits mTOR, promotes autophagy |
 | **Sirtuin activation** | DNA repair, stress resistance |
 | **Autophagy** | Clears damaged components |
-| **Reduced [[KEYWORD-Inflammation|inflammation]]** | Lower NF-κB activity |
+| **Reduced ** | Lower NF-κB activity |
 
 ### Differential Stress Resistance
 | Cell Type | Fasting Response |
@@ -159,11 +159,11 @@ Caloric restriction and fasting induce metabolic changes that can inhibit cancer
 ## Related
 - [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_[Z-001-1122].md]]
 - [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_[Z-001-1123].md]]
-- [[MOC-Cancer-[[KEYWORD-Metabolism|metabolism]]]]
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

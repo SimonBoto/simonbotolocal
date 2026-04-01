@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Power analysis, PCA, multivariate analysis, regression, validation methods for PhD metabolomics data
 status: extracted
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -65,8 +65,8 @@ extraction-date: 2026-03-08
 4. [[Validation_Cross_Validation_Model_Robustness_[Z-001-1152].md]]
 
 ## Related References
-- [[MOC-PhD-Research]]
-- [[MOC-Research-Methods]]
+- 
+- 
 
 ---
 

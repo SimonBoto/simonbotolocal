@@ -6,13 +6,13 @@ aliases: [Z-001-0030, Mitochondrial-Dysfunction-IR]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, mitochondria, oxidative-stress, beta-oxidation, insulin-resistance]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
 confidence: high
 created: 2026-02-24
 ---
 
-# Mitochondrial Dysfunction in [[KEYWORD-Insulin|insulin]] Resistance
+# Mitochondrial Dysfunction in  Resistance
 
 Mitochondrial overload from chronic nutrient excess creates oxidative stress when reactive oxygen species (ROS) production exceeds antioxidant capacity. This damages mitochondrial DNA and impairs electron transport chain function.
 
@@ -32,12 +32,12 @@ Mitochondrial overload from chronic nutrient excess creates oxidative stress whe
 ## Links
 
 - **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md]] — Lipotoxicity creates mitochondrial load
-- **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md]] — [[KEYWORD-Inflammation|inflammation]] amplifies oxidative stress
+- **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md]] —  amplifies oxidative stress
 - **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md]] — Compensatory IR develops
 
 ## Context
 
-**Also relevant to:** [[MOC-[[KEYWORD-Metabolomics|metabolomics]]]], [[MOC-Oxidative-Stress]]
+**Also relevant to:** , 
 
 **Emerges from:** Literature synthesis on cellular mechanisms
 

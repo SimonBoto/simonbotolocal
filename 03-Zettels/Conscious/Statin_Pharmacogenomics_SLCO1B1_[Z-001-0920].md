@@ -5,7 +5,7 @@ title: Statin Pharmacogenomics — SLCO1B1
 aliases: [Z-001-0920, Z-001-0513-deprecated, Pharmacogenomics, SLCO1B1, CYP3A4, Statin-Response]
 domain: 001
 tags: [zettel, pharmacogenomics, slco1b1, cyp, statin-response]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]]
 extraction-date: 2026-03-01
@@ -44,12 +44,12 @@ updated: 2026-03-05
 **APOE:**
 - E4 carriers may need higher doses
 
-## Pharmaco[[KEYWORD-Metabolomics|metabolomics]]
+## Pharmaco
 
 - Baseline metabolite profiles predict response
 - Bile acid precursors correlate with efficacy
 
-## [[KEYWORD-Clinical|clinical]] Use
+##  Use
 
 - Not routine; consider for myopathy or poor response
 - Rosuvastatin less affected by SLCO1B1
@@ -60,4 +60,4 @@ updated: 2026-03-05
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

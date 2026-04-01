@@ -5,7 +5,7 @@ title: Hydroxyphenylacetic Acids — Protein Dyspepsia Marker
 aliases: [Z-012-0104, Hydroxyphenylacetic, Protein-Dyspepsia, Gut, Dysbiosis]
 domain: 012
 tags: [zettel, biomarker, hydroxyphenylacetic, protein, dyspepsia, gut]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

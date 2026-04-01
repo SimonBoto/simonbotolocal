@@ -6,7 +6,7 @@ aliases: [Z-001-1069, OAT-Actions]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, oat, clinical, treatment]
-parent-moc: [[MOC-Metabolomics-Analysis]]
+parent-moc: 
 source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
 source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
 confidence: high
@@ -18,7 +18,7 @@ created: 2026-03-08
 ## Overview
 Direct translation of OAT markers to clinical interventions.
 
-## Energy [[KEYWORD-Metabolism|metabolism]] Interventions
+## Energy  Interventions
 
 | Marker | Intervention |
 |--------|--------------|
@@ -36,7 +36,7 @@ Direct translation of OAT markers to clinical interventions.
 | **Kynurenate ↑** | B6 | P5P | 25-50 mg |
 | **Suberate/adipate ↑** | Carnitine | L-carnitine | 1000-2000 mg |
 
-## [[KEYWORD-Mitochondria|mitochondria]]l Support
+## l Support
 
 | Pattern | Intervention |
 |---------|--------------|
@@ -64,7 +64,7 @@ Direct translation of OAT markers to clinical interventions.
 | Priority | Condition | Action |
 |----------|-----------|--------|
 | **Critical** | Severe lactic acidosis | Urgent B1, address cause |
-| **High** | Multiple B-[[KEYWORD-Vitamin_D|vitamin d]]eficiencies | Comprehensive B-complex |
+| **High** | Multiple B-eficiencies | Comprehensive B-complex |
 | **Moderate** | Mild mitochondrial dysfunction | Mitochondrial support |
 | **Optimization** | Minor elevations | Dietary modification |
 
@@ -78,11 +78,11 @@ Direct translation of OAT markers to clinical interventions.
 ## Related
 - [[OAT_Category_Interpretation_Framework_[Z-001-1065].md]]
 - [[OAT_Pattern_Recognition_Protocol_[Z-001-1066].md]]
-- [[MOC-Clinical-Protocols]]
+- 
 
 ---
 *Source: CGPT-0022 — OAT interpretation*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

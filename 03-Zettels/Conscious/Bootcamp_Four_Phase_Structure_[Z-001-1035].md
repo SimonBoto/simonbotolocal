@@ -6,7 +6,7 @@ aliases: [Z-001-1035, Bootcamp-Phases]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, curriculum, training, bootcamp]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
 source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Bootcamp Four Phase Structure
 
 ## Overview
-An 8-week, time-bound training curriculum designed to scaffold cognitive transformation from biochemical literacy to [[KEYWORD-Clinical|clinical]] integration.
+An 8-week, time-bound training curriculum designed to scaffold cognitive transformation from biochemical literacy to  integration.
 
 ## Design Principles
 
@@ -38,7 +38,7 @@ An 8-week, time-bound training curriculum designed to scaffold cognitive transfo
 ### Phase 2: OAT Mastery (Weeks 3-4)
 **Goal:** Pattern recognition without drowning
 **Focus:** Organic acids by category, case-based learning
-**Output:** Language fluency in [[KEYWORD-Metabolomics|metabolomics]]
+**Output:** Language fluency in 
 
 ### Phase 3: Lipidomics (Weeks 5-6)
 **Goal:** Ratio-based interpretation

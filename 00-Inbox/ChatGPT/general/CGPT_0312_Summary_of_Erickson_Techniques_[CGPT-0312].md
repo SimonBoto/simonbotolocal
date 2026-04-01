@@ -494,4 +494,4 @@ In this chapter, we would expect Bandler and Grinder to identify and analyze spe
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

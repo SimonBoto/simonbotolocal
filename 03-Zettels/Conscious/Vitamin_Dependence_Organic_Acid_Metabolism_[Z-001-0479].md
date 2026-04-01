@@ -5,13 +5,13 @@ title: Vitamin Dependence in Organic Acid Metabolism
 aliases: [Z-001-0479, vitamins, b12, biotin, thiamine, organic-acids]
 domain: 001
 tags: [zettel, vitamins, b12, biotin, b1, cofactors, metabolism]
-parent-moc: [[MOC-Vitamin-Metabolism]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045F]]
 ---
 
-# [[KEYWORD-Vitamin_D|vitamin d]]ependence in Organic Acid [[KEYWORD-Metabolism|metabolism]]
+# ependence in Organic Acid 
 
 ## Critical Cofactors
 
@@ -59,7 +59,7 @@ source: [[L-001-0045F]]
 | B7 | Carboxylases | Gluconeogenesis | Propionic acidemia-like |
 | B12 | Methylmalonyl-CoA mutase | Propionate metabolism | MMA, pernicious anemia |
 
-## [[KEYWORD-Clinical|clinical]] Testing
+##  Testing
 **Organic acidemia workup:**
 - Methylmalonic acid (B12 deficiency marker)
 - Propionic acid (biotin-related)
@@ -68,7 +68,7 @@ source: [[L-001-0045F]]
 ## Related
 - [[Pyruvate_Central_Metabolic_Role_[Z-001-0477]]] Pyruvate Central Role (B1-dependent)
 - [[Propionate_Metabolism_Gluconeogenesis_[Z-001-0478]]] Propionate Metabolism (B7, B12-dependent)
-- [[MOC-Vitamin-Metabolism]]
+- 
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

@@ -5,14 +5,14 @@ title: FRAX Adjustments — TBS Falls and Glucocorticoid Dose Modifications
 aliases: [Z-001-0112]
 domain: 001
 tags: [zettel, frax, adjustments, tbs, falls, glucocorticoids, risk-modification, conscious]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 status: conscious
 ---
 
 # FRAX Adjustments — TBS, Falls, and Glucocorticoid Dose Modifications
 
 ## Core Principle
-FRAX probability estimates can be **refined** using additional [[KEYWORD-Clinical|clinical]] data that the algorithm doesn't directly incorporate.
+FRAX probability estimates can be **refined** using additional  data that the algorithm doesn't directly incorporate.
 
 ## Adjustment 1: Trabecular Bone Score (TBS)
 
@@ -225,7 +225,7 @@ Decision: Anabolic therapy indicated
 ## Related Zettels
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111].md]] — Why adjustments needed
 - [[FRAX_Output_Thresholds_Treatment_Decisions_[Z-001-0110].md]] — Using adjusted scores
-- [[Glucocorticoid_Induced_Osteoporosis_Pathophysiology_[Z-001-XXXX].md]] — Steroid [[KEYWORD-Mechanism|mechanism]]
+- [[Glucocorticoid_Induced_Osteoporosis_Pathophysiology_[Z-001-XXXX].md]] — Steroid 
 
 ## Source
 [[LitNote_FRAX_Risk_Assessment_Tool_L-001-0017]]

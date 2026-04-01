@@ -4,13 +4,13 @@ type: zettel
 title: Vitamin D and K2 — Effects on Insulin Resistance
 domain: 001
 tags: [zettel, vitamin-d, vitamin-k2, insulin-resistance, mets, inflammation, adiponectin]
-parent-moc: [[MOC-Insulin-Resistance]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_VitD_K2_Synergy_MetS_L-001-0639]]"
 status: conscious
 ---
 
-# [[KEYWORD-Vitamin_D|vitamin d]] and K2 — Effects on [[KEYWORD-Insulin|insulin]] Resistance
+#  and K2 — Effects on  Resistance
 
 ## Overview
 
@@ -75,7 +75,7 @@ Vitamin D:
     ↓
 ↑ β-cell function + ↑ Peripheral insulin signaling
     ↓
-Better glucose [[KEYWORD-Metabolism|metabolism]]
+Better glucose 
 
 Vitamin K2:
     ↓

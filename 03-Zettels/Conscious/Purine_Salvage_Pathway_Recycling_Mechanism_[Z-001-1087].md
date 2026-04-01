@@ -6,14 +6,14 @@ aliases: [Z-001-1087, Salvage-Pathway]
 domain: 001
 domain-name: Nucleotide Metabolism
 tags: [zettel, salvage, purine, recycling, hprt]
-parent-moc: [[MOC-Nucleotide-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
 source: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
 confidence: high
 created: 2026-03-08
 ---
 
-# Purine Salvage Pathway Recycling [[KEYWORD-Mechanism|mechanism]]
+# Purine Salvage Pathway Recycling 
 
 ## Overview
 The purine salvage pathway recovers free purine bases from nucleotide degradation, converting them back into nucleotides for reuse—an energy-efficient alternative to de novo synthesis.
@@ -112,7 +112,7 @@ AMP → Adenosine → Inosine → Hypoxanthine → Xanthine → Uric acid
 
 ## Therapeutic Targeting
 
-### Salvage Inhibitors in [[KEYWORD-Cancer|cancer]]
+### Salvage Inhibitors in 
 - Some chemotherapies target salvage enzymes
 - Tumor cells often upregulate salvage pathways
 - Combination with de novo inhibitors effective
@@ -125,7 +125,7 @@ AMP → Adenosine → Inosine → Hypoxanthine → Xanthine → Uric acid
 ## Related
 - [[Adenine_Purine_Base_Structure_Function_[Z-001-1084].md]]
 - [[Nucleoside_Formation_Phosphorylation_Pathways_[Z-001-1086].md]]
-- [[MOC-Nucleotide-[[KEYWORD-Metabolism|metabolism]]]]
+- 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

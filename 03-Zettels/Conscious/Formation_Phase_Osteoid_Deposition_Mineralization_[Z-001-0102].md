@@ -5,7 +5,7 @@ title: Formation Phase — Osteoid Deposition and Mineralization Timeline
 aliases: [Z-001-0102]
 domain: 001
 tags: [zettel, bone-remodeling, osteoblasts, formation, osteoid, mineralization, collagen, conscious]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 status: conscious
 ---
 
@@ -33,7 +33,7 @@ Osteoblasts synthesize and deposit **osteoid** (unmineralized bone matrix), whic
 ### Primary Mineralization (Weeks 2–3)
 - **Process:** Rapid deposition of hydroxyapatite crystals
 - **Extent:** 50–70% of final mineral content
-- **[[KEYWORD-Mechanism|mechanism]]:** Vesicle-mediated nucleation, collagen-guided crystal orientation
+- **:** Vesicle-mediated nucleation, collagen-guided crystal orientation
 - **Alkaline phosphatase (ALP):** Critical enzyme, cleaves phosphate groups
 
 ### Secondary Mineralization (Months 3–6+)
@@ -68,7 +68,7 @@ Osteoblasts synthesize and deposit **osteoid** (unmineralized bone matrix), whic
 3. **Apoptosis:** Programmed cell death (~10%)
    - Prevents overfilling of resorption cavity
 
-## [[KEYWORD-Clinical|clinical]] Assessment Markers
+##  Assessment Markers
 
 ### Formation Markers (Blood)
 | Marker | Source | Clinical Use |

@@ -5,7 +5,7 @@ title: Mevalonate Pathway — Enzymatic Steps
 aliases: [Mevalonate-Pathway, Isoprenoid, Cholesterol-Synthesis, Acetyl-CoA]
 domain: 001
 tags: [zettel, mevalonate-pathway, cholesterol, acetyl-coa, enzymatic-steps]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Mevalonate_Pathway_L-001-0509]]
 extraction-date: 2026-03-01
@@ -44,7 +44,7 @@ extraction-date: 2026-03-01
 | Step | Enzyme | Product |
 |------|--------|---------|
 | 10 | Squalene Synthase | Squalene (C30) |
-| 11-13 | Multiple | **[[KEYWORD-Cholesterol|cholesterol]]** (C27) |
+| 11-13 | Multiple | **** (C27) |
 
 ---
 
@@ -52,5 +52,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Mevalonate_Branch_Points_[Z-001-0547]|Z-001-0547]]

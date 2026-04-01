@@ -6,7 +6,7 @@ aliases: [Z-001-1131, MM-CRAB]
 domain: 001
 domain-name: Hematology Oncology
 tags: [zettel, multiple-myeloma, crab, diagnosis]
-parent-moc: [[MOC-Hematology-Oncology]]
+parent-moc: 
 source-litnote: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]]
 source: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]]
 confidence: high
@@ -62,7 +62,7 @@ Multiple myeloma is characterized by the CRAB features—hyperCalcemia, Renal im
 
 ## Related Conditions
 
-### SLiM Criteria ([[KEYWORD-Biomarker|biomarker]]s of Malignancy)
+### SLiM Criteria (s of Malignancy)
 | Feature | Threshold |
 |---------|-----------|
 | **S**ixty percent plasma cells | ≥60% clonal BM plasma cells |
@@ -94,7 +94,7 @@ Multiple myeloma is characterized by the CRAB features—hyperCalcemia, Renal im
 |---------|-----------|
 | **Bone pain** | Lytic lesions, fractures |
 | **Fatigue** | Anemia |
-| **Weight loss** | Cytokines, hyper[[KEYWORD-Metabolism|metabolism]] |
+| **Weight loss** | Cytokines, hyper |
 | **Infections** | Immunodeficiency (hypogammaglobulinemia) |
 | **Neuropathy** | Amyloidosis, vertebral compression |
 
@@ -109,12 +109,12 @@ Multiple myeloma is characterized by the CRAB features—hyperCalcemia, Renal im
 ## Related
 - [[Multiple_Myeloma_Diagnostic_Criteria_Workup_[Z-001-1132].md]]
 - [[Multiple_Myeloma_Staging_ISS_R-ISS_[Z-001-1133].md]]
-- [[MOC-Hematology-Oncology]]
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/CRP_[B-002-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /CRP_[B-002-0001]|Biomarker Family Guide]]
+- 
 

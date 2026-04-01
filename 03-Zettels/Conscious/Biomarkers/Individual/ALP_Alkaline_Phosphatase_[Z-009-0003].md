@@ -6,7 +6,7 @@ title: ALP — Alkaline Phosphatase
 aliases: [Z-009-0003, ALP, Alkaline-Phosphatase, Cholestatic-Enzyme, Bone-Enzyme]
 domain: 009
 tags: [zettel, biomarker, alp, liver, enzyme, cholestasis, bone]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

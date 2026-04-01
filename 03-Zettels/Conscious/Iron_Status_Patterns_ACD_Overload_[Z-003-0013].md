@@ -5,7 +5,7 @@ title: Iron Status Patterns Deficiency ACD Overload
 aliases: [Z-003-0013, Iron Deficiency, Anemia Chronic Disease, Iron Overload]
 domain: 003
 tags: [zettel, biomarker, iron, status/deficient, status/toxic, clinical-protocol]
-parent-moc: [[MOC-Iron-Metabolism]]
+parent-moc: 
 biomarker-type: iron-status-pattern
 status: conscious
 connections:
@@ -123,7 +123,7 @@ When ferritin is confounded by inflammation:
 Functional iron deficiency (ACD) common in metabolic syndrome
 - Obesity = chronic low-grade inflammation
 - High hepcidin → iron dysregulation
-- May impair methylation, energy [[KEYWORD-Metabolism|metabolism]]
+- May impair methylation, energy 
 
 **Data fields:**
 ```csv
@@ -140,10 +140,10 @@ patient_id,visit,ferritin_ng_ml,iron_ug_dl,tibc_ug_dl,transferrin_sat_pct,crp_mg
 
 ---
 
-*Source: [[Ref_Weiss_Anomaly_Chronic_Disease_2005]], [[Ref_Nemeth_Hepcidin_2004]]*
+*Source: , *
 *Created: 2026-02-26 | Domain: 003 | Status: Conscious*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- |Biomarkers MOC]]
 

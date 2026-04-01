@@ -5,13 +5,13 @@ title: Glycine Metabolism to Oxalate
 aliases: [Z-001-0605, glycine-oxalate, glyoxylate, amino-acid-metabolism]
 domain: 001
 tags: [zettel, glycine, oxalate, glyoxylate, metabolism]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 source: [[L-001-0060A]]
 confidence: high
 created: 2026-03-04
 ---
 
-# Glycine [[KEYWORD-Metabolism|metabolism]] to Oxalate
+# Glycine  to Oxalate
 
 ## Pathway Overview
 
@@ -24,7 +24,7 @@ Glycine → Glyoxylate → Oxalate
 
 **Enzyme:** Glycine dehydrogenase (decarboxylating)  
 **Cofactor:** Pyridoxal phosphate (B6)  
-**Location:** [[KEYWORD-Mitochondria|mitochondria]]
+**Location:** 
 
 ```
 Glycine + NAD⁺ → Glyoxylate + NH₄⁺ + NADH
@@ -49,7 +49,7 @@ Glyoxylate → Oxalate (oxidation)
 
 **Balance determines oxalate production.**
 
-## [[KEYWORD-Clinical|clinical]] Relevance
+##  Relevance
 
 **Primary hyperoxaluria Type 1 (PH1):**
 - AGXT gene defect (alanine-glyoxylate aminotransferase)

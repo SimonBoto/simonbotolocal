@@ -6,7 +6,7 @@ title: "03-Zettels — Atomic Knowledge"
 aliases: [Zettels, Atomic Notes, Knowledge Core]
 tags: [index, zettels, atomic, knowledge, core, navigation, folder]
 parent-index: [[00-MISSION]]
-child-folders: "[[03-Zettels-Conscious]], [[03-Zettels-Subconscious]]"
+child-folders: ", "
 status: active
 ---
 
@@ -22,8 +22,8 @@ status: active
 
 | Folder | Purpose | Status |
 |--------|---------|--------|
-| **[[03-Zettels-Conscious\|Conscious/]]** | Working zettels, under review | 🏗️ Reviewable, may evolve |
-| **[[03-Zettels-Subconscious\|Subconscious/]]** | Permanent zettels | 🔒 Never modify — "ground truth" |
+| **** | Working zettels, under review | 🏗️ Reviewable, may evolve |
+| **** | Permanent zettels | 🔒 Never modify — "ground truth" |
 
 ---
 
@@ -80,14 +80,14 @@ Title_[Z-{DDD}-{SSSS}].md
 
 ## 🔗 Navigation
 
-← **Back to [[02-Literature]]** — Source Processing  
-→ **Next: [[04-Synthesis]]** — Living Documents  
+← **Back to ** — Source Processing  
+→ **Next: ** — Living Documents  
 ↑ **Parent: [[00-MISSION]]**
 
 **Siblings:**
-[[00-Inbox]] | [[01-References]] | [[02-Literature]] | [[04-Synthesis]] | [[05-Projects]] | [[06-Structure]] | [[08-Dashboards]] | [[09-System]]
+ |  |  |  |  |  |  | 
 
-**MOCs:** [[MOC-INDEX]] — All knowledge maps
+**MOCs:**  — All knowledge maps
 
 ---
 

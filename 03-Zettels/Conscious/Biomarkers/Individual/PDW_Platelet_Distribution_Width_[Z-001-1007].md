@@ -6,7 +6,7 @@ title: PDW — Platelet Distribution Width
 aliases: [Z-001-1007, PDW, Platelet-Distribution-Width, Platelet-Variation]
 domain: 001
 tags: [zettel, biomarker, pdw, platelet-variation, activation]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

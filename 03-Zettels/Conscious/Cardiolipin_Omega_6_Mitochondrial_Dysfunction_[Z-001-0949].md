@@ -5,11 +5,11 @@ title: Cardiolipin Omega-6 Enrichment and Mitochondrial Dysfunction
 aliases: [Z-001-0949]
 domain: 001
 tags: [zettel, cardiolipin, mitochondria, omega-6, oxidation, cytochrome-c, apoptosis, electron-transport-chain, insulin-resistance, conscious]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 status: conscious
 ---
 
-# Cardiolipin Omega-6 Enrichment and [[KEYWORD-Mitochondria|mitochondria]]l Dysfunction
+# Cardiolipin Omega-6 Enrichment and l Dysfunction
 
 ## What is Cardiolipin?
 
@@ -71,8 +71,8 @@ status: conscious
 - **Ott et al. (2002):** Cardiolipin oxidation required for cytochrome c release
 - **Gonzalvez et al. (2005):** Cardiolipin-cytochrome c binding regulates apoptosis
 
-### 4. [[KEYWORD-Insulin|insulin]] Resistance Connection
-**Mitochondrial dysfunction → [[KEYWORD-Insulin_Resistance|insulin resistance]] pathway:**
+### 4.  Resistance Connection
+**Mitochondrial dysfunction →  pathway:**
 ```
 High omega-6 diet
     ↓

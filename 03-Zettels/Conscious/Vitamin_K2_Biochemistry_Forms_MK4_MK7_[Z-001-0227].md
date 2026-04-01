@@ -5,13 +5,13 @@ title: Vitamin K2 Biochemistry — MK-4 vs. MK-7 Forms
 aliases: [VitK2-Forms, MK4-MK7, Menaquinones]
 domain: 001
 tags: [zettel, vitamin-k2, mk4, mk7, menaquinone, biochemistry]
-parent-moc: [[MOC-Vitamin-K2]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Vitamin_K2|vitamin k2]] Biochemistry — MK-4 vs. MK-7 Forms
+#  Biochemistry — MK-4 vs. MK-7 Forms
 
 > Vitamin K2 exists as a family of menaquinones with varying chain lengths, with MK-4 and MK-7 being the most clinically relevant forms, differing in source, bioavailability, dosing, and therapeutic applications.
 
@@ -46,7 +46,7 @@ extraction-date: 2026-03-01
 ### Dosing and Uses
 - **Pharmacological dosing:** 45 mg/day (Japan)
 - **Indications:** Osteoporosis (Japan approved drug)
-- **[[KEYWORD-Bone_Health|bone health]]:** Well-established efficacy
+- **:** Well-established efficacy
 - **Cost:** Expensive at therapeutic doses
 
 ### Limitations
@@ -95,7 +95,7 @@ extraction-date: 2026-03-01
 | **Cost** | High | Moderate |
 | **Availability** | Limited | Widely available |
 
-## [[KEYWORD-Mechanism|mechanism]] of Action (Both Forms)
+##  of Action (Both Forms)
 
 ### γ-Carboxylation
 **Enzymatic Reaction:**
@@ -142,5 +142,5 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[KEYWORD-Vitamin_K2]]
-- [[MOC-INDEX|Master Index]]
+- 
+- 

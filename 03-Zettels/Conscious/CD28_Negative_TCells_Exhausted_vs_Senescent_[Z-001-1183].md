@@ -4,7 +4,7 @@ type: zettel
 title: CD28-Negative T Cells — Exhausted vs. Senescent
 domain: 001
 tags: [zettel, cd28, t-cells, exhaustion, senescence, autoimmunity]
-parent-moc: [[MOC-Autoimmunity]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]]"
 status: conscious
@@ -83,7 +83,7 @@ status: conscious
 ### Resistance to Therapy
 **Challenges:**
 - Standard immunosuppressants less effective
-- Persist in chronic [[KEYWORD-Inflammation|inflammation]]
+- Persist in chronic 
 - Re-expand after partial control
 
 ---
@@ -110,7 +110,7 @@ status: conscious
 - Correlate with organ damage
 - Predict treatment resistance
 
-### [[KEYWORD-Biomarker|biomarker]] Potential
+###  Potential
 - Track disease progression
 - Monitor treatment response
 - Identify high-risk patients
@@ -142,6 +142,6 @@ status: conscious
 *Source: [[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]] | 2026-03-08*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/CRP_[B-002-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /CRP_[B-002-0001]|Biomarker Family Guide]]
+- 
 

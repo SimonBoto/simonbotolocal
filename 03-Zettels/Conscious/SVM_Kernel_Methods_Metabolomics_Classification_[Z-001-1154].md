@@ -4,13 +4,13 @@ type: zettel
 title: SVM Kernel Methods — Metabolomics Classification
 domain: 001
 tags: [zettel, svm, support-vector-machines, kernel-methods, classification, metabolomics]
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Machine_Learning_Metabolomics_L-001-0618]]"
 status: conscious
 ---
 
-# SVM Kernel Methods — [[KEYWORD-Metabolomics|metabolomics]] Classification
+# SVM Kernel Methods —  Classification
 
 ## Overview
 

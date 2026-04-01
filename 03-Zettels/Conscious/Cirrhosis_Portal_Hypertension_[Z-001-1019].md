@@ -5,7 +5,7 @@ title: Cirrhosis and Portal Hypertension — MELD-Na, TIPS, and Complications
 aliases: [Z-001-1019]
 domain: 001
 tags: [zettel, cirrhosis, portal-hypertension, meld-na, tips, varices, ascites, hepatic-encephalopathy, liver-failure, conscious]
-parent-moc: [[MOC-Hepatology]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]]
 status: conscious
@@ -23,10 +23,10 @@ Cirrhosis represents end-stage liver disease with fibrosis, regenerative nodules
 
 **Definition:**
 - Portal pressure >5 mmHg (normal 1-5)
-- [[KEYWORD-Clinical|clinical]]ly significant: >10 mmHg (varices form)
+- ly significant: >10 mmHg (varices form)
 - Variceal hemorrhage risk: >12 mmHg
 
-**[[KEYWORD-Mechanism|mechanism]]s:**
+**s:**
 1. **Increased resistance** (intrahepatic)
    - Fibrosis and regenerative nodules
    - Sinusoidal capillarization
@@ -348,7 +348,7 @@ MELD-Na = MELD + 1.32×(137-Na) - [0.033×MELD×(137-Na)]
 - Neurotransmitter imbalance (GABA, glutamate)
 
 **Other factors:**
-- [[KEYWORD-Inflammation|inflammation]]
+- 
 - Benzodiazepine-like substances
 - Manganese deposition
 - Cerebral edema
@@ -419,4 +419,4 @@ MELD-Na = MELD + 1.32×(137-Na) - [0.033×MELD×(137-Na)]
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

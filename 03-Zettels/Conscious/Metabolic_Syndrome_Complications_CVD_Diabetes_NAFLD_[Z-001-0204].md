@@ -5,7 +5,7 @@ title: Metabolic Syndrome — Complications (CVD, Diabetes, NAFLD)
 aliases: [MetS-Complications, Metabolic-Syndrome-Outcomes, MetS-Prognosis]
 domain: 001
 tags: [zettel, metabolic-syndrome, complications, CVD, diabetes, NAFLD, prognosis]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]]
 extraction-date: 2026-03-01
@@ -18,7 +18,7 @@ extraction-date: 2026-03-01
 ## Cardiovascular Disease (2-3x Increased Risk)
 
 ### Coronary Artery Disease
-- **Mechanism:** Atherosclerosis accelerated by dyslipidemia, [[KEYWORD-Inflammation|inflammation]], endothelial dysfunction
+- **Mechanism:** Atherosclerosis accelerated by dyslipidemia, , endothelial dysfunction
 - **Presentation:** Angina, myocardial infarction, sudden cardiac death
 - **Prevention:** Aggressive risk factor modification
 
@@ -40,7 +40,7 @@ extraction-date: 2026-03-01
 
 ### Progression Timeline
 ```
-[[KEYWORD-Insulin|insulin]] Resistance → Compensatory Hyperinsulinemia → Beta-Cell Exhaustion → Overt Diabetes
+ Resistance → Compensatory Hyperinsulinemia → Beta-Cell Exhaustion → Overt Diabetes
        (Years 1-10)              (Years 5-15)              (Years 10-20)
 ```
 
@@ -105,7 +105,7 @@ extraction-date: 2026-03-01
 **With aggressive management:**
 - Reversal of MetS possible
 - Risk reduction comparable to treating individual risk factors
-- Magnesium, [[KEYWORD-Vitamin_D|vitamin d]], K2 supplementation as adjuncts
+- Magnesium, , K2 supplementation as adjuncts
 
 ---
 
@@ -114,5 +114,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Magnesium_Dosing_RDA_Therapeutic_Ranges_[Z-001-0219]|Z-001-0219]]

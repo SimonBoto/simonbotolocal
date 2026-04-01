@@ -5,7 +5,7 @@ title: Primary vs Secondary Hypogonadism — Laboratory Differentiation
 aliases: [Z-001-0991]
 domain: 001
 tags: [zettel, hypogonadism, primary, secondary, testosterone, lh, fsh, differential-diagnosis, male, conscious]
-parent-moc: [[MOC-Male-Hypogonadism]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Male_Hormone_Assessment_Scenarios_L-001-0578]]
 status: conscious
@@ -60,7 +60,7 @@ Hypogonadism (testosterone deficiency) is classified by the level of dysfunction
 - **Hypothalamic:** Kallmann syndrome, idiopathic hypogonadotropic hypogonadism
 - **Infiltrative:** Hemochromatosis, sarcoidosis, histiocytosis
 - **Trauma/Surgery:** Pituitary apoplexy, surgery
-- **Functional:** Obesity, sleep apnea, stress, mal[[KEYWORD-Nutrition|nutrition]], anabolic steroid use
+- **Functional:** Obesity, sleep apnea, stress, mal, anabolic steroid use
 - **Drugs:** Opioids, glucocorticoids, GnRH agonists
 
 ### Combined (Hypogonadotropic with Testicular Defect)
@@ -69,9 +69,9 @@ Hypogonadism (testosterone deficiency) is classified by the level of dysfunction
 - Age-related decline
 - Both central and peripheral defects
 - Gradual onset
-- Often comorbid with obesity, [[KEYWORD-Metabolic_Syndrome|metabolic syndrome]]
+- Often comorbid with obesity, 
 
-## [[KEYWORD-Clinical|clinical]] Clues
+##  Clues
 
 ### Suggesting Primary
 - **History:** Cryptorchidism, testicular trauma, chemotherapy, mumps orchitis

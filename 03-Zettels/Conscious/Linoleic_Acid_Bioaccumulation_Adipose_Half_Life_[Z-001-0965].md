@@ -5,7 +5,7 @@ title: Linoleic Acid Bioaccumulation — Adipose Tissue Half-Life 600-680 Days
 aliases: [Z-001-0965]
 domain: 001
 tags: [zettel, linoleic-acid, bioaccumulation, adipose-tissue, half-life, omega-6, body-burden, conscious]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Seed_Oils_Environmental_Toxins_L-001-0526]]
 status: conscious
@@ -70,7 +70,7 @@ Linoleic acid (omega-6) from seed oils **bioaccumulates** in human adipose tissu
 
 **Hormone-Sensitive Lipase (HSL):**
 - Activated by catecholamines (fasting, exercise, stress)
-- Inhibited by [[KEYWORD-Insulin|insulin]] (fed state)
+- Inhibited by  (fed state)
 - Releases free fatty acids (FFAs) into circulation
 
 **Lipolysis Control:**
@@ -97,7 +97,7 @@ If not oxidized: May contribute to ectopic fat/insulin resistance
 
 **The "Toxic Fat" Hypothesis:**
 - Stored linoleic acid released during catabolic states
-- High omega-6 in circulation → substrate for [[KEYWORD-Inflammation|inflammation]]
+- High omega-6 in circulation → substrate for 
 - Contributes to metabolic dysfunction in obesity
 
 ### Time to Change Body Composition
@@ -148,7 +148,7 @@ If not oxidized: May contribute to ectopic fat/insulin resistance
 **Total accumulated amount** of a substance in the body, accounting for:
 - Ongoing intake
 - Storage in tissues
-- [[KEYWORD-Metabolism|metabolism]]/elimination
+- /elimination
 - Release rates
 
 ### For Linoleic Acid:

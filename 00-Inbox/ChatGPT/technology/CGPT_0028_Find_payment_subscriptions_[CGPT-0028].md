@@ -232,4 +232,4 @@ Do you want **an app to manage expenses**, or are you trying to **find all your 
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

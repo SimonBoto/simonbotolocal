@@ -20,11 +20,11 @@
 | **Reports To** | CEO (Dr. Simos) |
 
 **Responsibilities:**
-- Read CEO's [[00-COMMAND\|COMMAND]] and translate to execution
+- Read CEO's  and translate to execution
 - Delegate to muscle agents (GROQ, FREE, PAID) as needed
 - Maintain vault architecture and templates
-- Write [[01-QUEUE\|QUEUE]], [[03-LOG\|LOG]], [[02-HANDOFF\|HANDOFF]]
-- Curate [[MEMORY\|long-term memory]]
+- Write , , 
+- Curate 
 
 **Autonomy Level:** L1.5–L2  
 - Decide and act when path is clear  

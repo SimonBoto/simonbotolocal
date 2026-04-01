@@ -5,7 +5,7 @@ title: DHPPA — Dihydroxyphenylpropionic Acid, Polyphenol Marker
 aliases: [Z-012-0103, DHPPA, Dihydroxyphenylpropionic, Polyphenol, Antioxidant]
 domain: 012
 tags: [zettel, biomarker, dhppa, polyphenol, antioxidant, gut]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

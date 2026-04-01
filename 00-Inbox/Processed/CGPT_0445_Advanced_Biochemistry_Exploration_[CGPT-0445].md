@@ -1121,4 +1121,4 @@ In summary, aspartate’s role in amino acid metabolism, energy production, neur
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

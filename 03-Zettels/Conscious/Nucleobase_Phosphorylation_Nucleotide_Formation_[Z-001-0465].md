@@ -5,7 +5,7 @@ title: Nucleobase Phosphorylation and Nucleotide Formation
 aliases: [Z-001-0465, nucleobase-phosphorylation, nucleotide-formation, nucleoside]
 domain: 001
 tags: [zettel, phosphorylation, nucleotides, nucleosides, atp, camp, signaling]
-parent-moc: [[MOC-Nucleotide-Metabolism]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045C]]
@@ -86,9 +86,9 @@ Free base + PRPP → Nucleotide (direct, bypassing nucleoside)
 **Enzyme:** HGPRT (hypoxanthine-guanine phosphoribosyltransferase)
 
 ### De Novo Synthesis
-Builds nucleotides from simple precursors ([[KEYWORD-Amino_Acids|amino acids]], CO₂, formate)
+Builds nucleotides from simple precursors (, CO₂, formate)
 
-## [[KEYWORD-Clinical|clinical]] Relevance
+##  Relevance
 
 ### Lesch-Nyhan Syndrome
 **HGPRT deficiency:**
@@ -114,12 +114,12 @@ Builds nucleotides from simple precursors ([[KEYWORD-Amino_Acids|amino acids]], 
 - [[ATP_Universal_Energy_Currency_[Z-101-0451]]] ATP as Universal Energy Currency
 - [[Ribose_Structure_RNA_Backbone_[Z-001-0458]]] Ribose Structure (sugar component)
 - [[Amino_Acids_vs_Nucleobases_[Z-101-0462]]] Amino Acids vs Nucleobases (both phosphorylated)
-- [[MOC-Nucleotide-[[KEYWORD-Metabolism|metabolism]]]]
+- 
 
 ---
 *Source: CGPT-0445 extraction (Messages 21-24) | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Nucleoside_Formation_Phosphorylation_Pathways_[Z-001-1086]|Z-001-1086]]

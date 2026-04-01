@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 2
 relevance: Core metabolic biomarkers for clinical assessment
 status: extracted
-parent-moc: [[MOC-Clinical-Laboratory]]
+parent-moc: 
 extraction-date: 2026-03-07
 domain: 001
 ---

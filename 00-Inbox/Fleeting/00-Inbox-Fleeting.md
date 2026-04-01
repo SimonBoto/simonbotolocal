@@ -5,7 +5,7 @@ type: index
 title: "00-Inbox/Fleeting — Quick Captures"
 aliases: [Fleeting, Quick Notes, Captures]
 tags: [index, fleeting, captures, inbox, folder]
-parent-index: [[00-Inbox]]
+parent-index: 
 status: active
 ---
 
@@ -54,8 +54,8 @@ Decision:
 
 ## 🔗 Navigation
 
-← **Back to [[00-Inbox]]** — Inbox Index  
-↑ **Parent: [[00-Inbox]]**
+← **Back to ** — Inbox Index  
+↑ **Parent: **
 
 ---
 

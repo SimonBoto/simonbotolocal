@@ -5,7 +5,7 @@ title: Olive Oil — Special Populations
 aliases: [Special-Populations, Metabolic-Syndrome, Diabetes, CVD]
 domain: 001
 tags: [zettel, special-populations, metabolic-syndrome, diabetes]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]
 extraction-date: 2026-03-01
@@ -13,14 +13,14 @@ extraction-date: 2026-03-01
 
 # Olive Oil — Special Populations
 
-> Specific populations including metabolic syndrome, [[KEYWORD-Diabetes|diabetes]], and cardiovascular disease patients show particular benefit from olive oil-based interventions.
+> Specific populations including metabolic syndrome, , and cardiovascular disease patients show particular benefit from olive oil-based interventions.
 
 ## Metabolic Syndrome
 
 **Benefits:**
 - Improves all components
 - Reduces TG, increases HDL
-- Improves [[KEYWORD-Insulin|insulin]] sensitivity
+- Improves  sensitivity
 - Reduces BP and central obesity
 
 ## Type 2 Diabetes
@@ -39,7 +39,7 @@ extraction-date: 2026-03-01
 **Secondary Prevention:**
 - LYON: 73% event reduction
 - Improves endothelial function
-- Reduces [[KEYWORD-Inflammation|inflammation]]
+- Reduces 
 
 **Primary Prevention:**
 - PREDIMED: 30% reduction
@@ -74,4 +74,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

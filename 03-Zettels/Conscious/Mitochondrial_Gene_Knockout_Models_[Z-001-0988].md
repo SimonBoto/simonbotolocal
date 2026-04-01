@@ -5,17 +5,17 @@ title: Mitochondrial Gene Knockout Models — POLG, TFAM, and Dynamics Proteins
 aliases: [Z-001-0988]
 domain: 001
 tags: [zettel, mitochondrial-knockout, polg, tfam, mfn1, mfn2, drp1, sod2, genetics, mouse-models, conscious]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]]
 status: conscious
 ---
 
-# [[KEYWORD-Mitochondria|mitochondria]]l Gene Knockout Models — POLG, TFAM, and Dynamics Proteins
+# l Gene Knockout Models — POLG, TFAM, and Dynamics Proteins
 
 ## Overview
 
-[[KEYWORD-Mitochondria|mitochondrial]] gene knockout studies have revealed the essential roles of mitochondrial DNA maintenance, transcription, dynamics, and antioxidant defenses in cellular and organismal health.
+ gene knockout studies have revealed the essential roles of mitochondrial DNA maintenance, transcription, dynamics, and antioxidant defenses in cellular and organismal health.
 
 ## DNA Maintenance and Replication
 
@@ -104,7 +104,7 @@ status: conscious
 **Mfn1-/-:**
 - Viable but abnormal
 - Fragmented mitochondria
-- Impaired oxidative [[KEYWORD-Metabolism|metabolism]]
+- Impaired oxidative 
 
 **Mfn2-/-:**
 - Severe phenotype
@@ -308,4 +308,4 @@ status: conscious
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

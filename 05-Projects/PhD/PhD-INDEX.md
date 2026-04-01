@@ -30,7 +30,7 @@ status: active
 
 | Folder | Purpose | Status |
 |--------|---------|--------|
-| **[[MEMORY]]** | Curated lessons, milestones | ✅ Active |
+| **** | Curated lessons, milestones | ✅ Active |
 | **IRB/** | Ethics approval docs | 🟡 Section 1 pending |
 | **Protocol/** | Study design, methodology | 🟡 In development |
 | **Literature/** | GOLD references, reviews | 🟡 10 refs needed |
@@ -64,7 +64,7 @@ status: active
 
 ## 🎯 CURRENT PRIORITIES (P0)
 
-From [[00-COMMAND]]:
+From :
 
 1. **IRB Section 1 draft** — Due: Mar 15
    - Literature review
@@ -86,10 +86,10 @@ From [[00-COMMAND]]:
 
 ## 🔗 CONNECTIONS
 
-**Research Agenda:** [[Research_Agenda]] — 62 hypotheses from 2 years  
-**Biomarker MOC:** [[MOC-Biomarkers]] — Classification system  
-**Insulin Signaling:** [[MOC-Insulin-Signaling]] — Mechanism maps  
-**ChatGPT Synthesis:** [[SYNTHESIS_PhD_Evolution_[SYN-002]]] — Methodology evolution
+**Research Agenda:**  — 62 hypotheses from 2 years  
+**Biomarker MOC:**  — Classification system  
+**Insulin Signaling:**  — Mechanism maps  
+**ChatGPT Synthesis:** ] — Methodology evolution
 
 ---
 
@@ -107,7 +107,7 @@ From [[00-COMMAND]]:
 ## 📝 ACTIVE NOTES
 
 From ChatGPT extraction:
-- [[SYNTHESIS_PhD_Evolution_[SYN-002]]] — Methodology development arc
+- ] — Methodology development arc
 - Research Agenda — Prioritized hypotheses
 - Partnership Playbook — How we work together
 

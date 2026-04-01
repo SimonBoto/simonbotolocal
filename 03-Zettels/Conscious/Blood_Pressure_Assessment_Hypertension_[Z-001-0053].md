@@ -5,7 +5,7 @@ title: Blood Pressure Assessment Hypertension Metabolic Connection
 aliases: [Z-001-0053, Blood Pressure, Hypertension, BP, Metabolic Hypertension]
 domain: 001
 tags: [zettel, biomarker, blood-pressure, status/optimal, clinical-protocol]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 biomarker-type: cardiovascular-vital-sign
 optimal-systolic: <120 mmHg
 optimal-diastolic: <80 mmHg
@@ -21,7 +21,7 @@ source-litnote: Synthesized from clinical practice
 
 # Blood Pressure Assessment — Hypertension and Metabolic Connection
 
-**Blood pressure** is a vital sign with profound metabolic implications. Hypertension is both a criterion for metabolic syndrome and a consequence of [[KEYWORD-Insulin|insulin]] resistance. The **optimal target is <120/80 mmHg**, not just the standard <140/90.
+**Blood pressure** is a vital sign with profound metabolic implications. Hypertension is both a criterion for metabolic syndrome and a consequence of  resistance. The **optimal target is <120/80 mmHg**, not just the standard <140/90.
 
 ---
 
@@ -135,11 +135,11 @@ patient_id,visit,sbp_mmhg,dbp_mmhg,bp_status,htn_grade
 
 ---
 
-*Source: [[Ref_2017_ACC_AHA_Hypertension_Guideline]], [[Ref_Chobanian_Seventh_Report_2003]]*
+*Source: , *
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
+- 
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- |Biomarkers MOC]]
 

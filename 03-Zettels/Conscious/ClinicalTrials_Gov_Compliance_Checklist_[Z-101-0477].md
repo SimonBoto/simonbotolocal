@@ -5,12 +5,12 @@ title: ClinicalTrials.gov Compliance Checklist
 aliases: [Z-101-0477]
 domain: 101
 tags: [zettel, clinicaltrials-gov, compliance, nih, regulatory, checklist, methap, conscious]
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]]
 status: conscious
 ---
 
-# [[KEYWORD-Clinical|clinical]]Trials.gov Compliance Checklist
+# Trials.gov Compliance Checklist
 
 ## Pre-Registration Requirements
 
@@ -147,4 +147,4 @@ status: conscious
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

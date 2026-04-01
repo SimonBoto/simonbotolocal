@@ -24,7 +24,7 @@
   - Atomic notes spawned where needed
   - Committed to git
 - **Blockers:** None
-- **Dashboard:** [[08-Dashboards/01-QUEUE\|Queue]]
+- **Dashboard:** 
 
 ### 2. IRB Protocol Section 1
 - **Lead:** RON
@@ -32,7 +32,7 @@
 - **Deliverable:** Completed Section 1 of PhD protocol
 - **Due:** Mar 1 (committee deadline)
 - **Blockers:** Waiting on cohort finalization
-- **File:** [[05-Projects/PhD/PhD_Protocol_UoC_Application_EN_20260219\|Protocol]]
+- **File:** 
 
 ---
 
@@ -107,4 +107,4 @@
 ---
 
 *Last Updated: 2026-02-22*  
-*Next Review: Daily in [[01-QUEUE\|QUEUE]]*
+*Next Review: Daily in *

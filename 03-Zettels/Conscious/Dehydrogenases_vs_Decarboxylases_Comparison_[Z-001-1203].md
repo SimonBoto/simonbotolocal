@@ -4,7 +4,7 @@ type: zettel
 title: Dehydrogenases vs Decarboxylases — Oxidative Strategy Comparison
 domain: 001
 tags: [zettel, dehydrogenases, decarboxylases, enzyme-mechanism, krebs-cycle, cofactors]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-001-0630]]"
 status: conscious
@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Two major enzyme classes handle oxidative reactions in [[KEYWORD-Metabolism|metabolism]], but with fundamentally different strategies. Understanding their distinctions clarifies cofactor requirements and metabolic control points.
+Two major enzyme classes handle oxidative reactions in , but with fundamentally different strategies. Understanding their distinctions clarifies cofactor requirements and metabolic control points.
 
 ---
 
@@ -114,7 +114,7 @@ Pyruvate + NAD⁺ + CoA-SH → Acetyl-CoA + NADH + CO₂
 ### Dehydrogenases Need:
 - NAD⁺ or FAD (electron acceptors)
 - Often metal ions for catalysis
-- Simple [[KEYWORD-Mechanism|mechanism]]: hydride transfer
+- Simple : hydride transfer
 
 ### Decarboxylases Need:
 - TPP (thiamine pyrophosphate) — for α-keto acids
@@ -144,7 +144,7 @@ Pyruvate + NAD⁺ + CoA-SH → Acetyl-CoA + NADH + CO₂
 **High lactate + normal pyruvate:** Dehydrogenase issue
 **High lactate + high pyruvate:** Decarboxylation issue (thiamine)
 
-### B-[[KEYWORD-Vitamin_D|vitamin d]]ependencies
+### B-ependencies
 | Vitamin | Cofactor | Enzyme Type | Deficiency Effect |
 |---------|----------|-------------|-------------------|
 | B1 (Thiamine) | TPP | Decarboxylase | Beriberi, Wernicke |
@@ -174,4 +174,4 @@ Pyruvate + NAD⁺ + CoA-SH → Acetyl-CoA + NADH + CO₂
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

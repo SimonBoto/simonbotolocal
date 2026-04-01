@@ -9,7 +9,7 @@ pmid: N/A
 tier: 1
 relevance: Critical — Core PhD METHAP protocol, IRB feedback, study design documentation
 status: extracted
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 extraction-date: 2026-03-28
 ---
 

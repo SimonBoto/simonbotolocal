@@ -5,13 +5,13 @@ title: International Research Ethics — Developing Countries and Collaborative 
 aliases: [Z-001-1007]
 domain: 001
 tags: [zettel, international-research, developing-countries, exploitation, post-trial-access, cioms, benefit-sharing, double-standard, conscious]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]]
 status: conscious
 ---
 
-# International [[KEYWORD-Research|research]] Ethics — Developing Countries and Collaborative Partnerships
+# International  Ethics — Developing Countries and Collaborative Partnerships
 
 ## Overview
 
@@ -90,7 +90,7 @@ Participants and host communities should benefit from research results.
 - Sustainability
 
 **Declaration of Helsinki (2013):**
-"In advance of a [[KEYWORD-Clinical|clinical]] trial, sponsors, researchers and host country governments should make provisions for post-trial access for all participants who still need an intervention identified as beneficial in the trial."
+"In advance of a  trial, sponsors, researchers and host country governments should make provisions for post-trial access for all participants who still need an intervention identified as beneficial in the trial."
 
 ### 3. Capacity Building
 

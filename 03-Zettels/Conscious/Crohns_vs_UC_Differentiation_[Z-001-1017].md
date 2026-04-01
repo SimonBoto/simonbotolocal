@@ -5,7 +5,7 @@ title: Crohn's Disease vs Ulcerative Colitis — Clinical and Pathological Diffe
 aliases: [Z-001-1017]
 domain: 001
 tags: [zettel, crohns-disease, ulcerative-colitis, ibd, granulomas, transmural, mucosal, differential-diagnosis, conscious]
-parent-moc: [[MOC-Inflammatory-Bowel-Disease]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]]
 status: conscious
@@ -29,7 +29,7 @@ status: conscious
 - No skip lesions
 - Rectum always involved (100%)
 
-### Depth of [[KEYWORD-Inflammation|inflammation]]
+### Depth of 
 
 **Crohn's — Transmural:**
 - Full thickness of bowel wall
@@ -77,7 +77,7 @@ status: conscious
 - Strictures (obstruction)
 - Abscesses
 - Perforation
-- Mal[[KEYWORD-Nutrition|nutrition]]
+- Mal
 
 **Perianal Disease:**
 - Tags, fissures, fistulas
@@ -97,7 +97,7 @@ status: conscious
 - Toxic megacolon (rare)
 - Perforation (severe disease)
 - Severe hemorrhage
-- Colon [[KEYWORD-Cancer|cancer]] risk
+- Colon  risk
 
 ## Serological Markers
 
@@ -257,4 +257,4 @@ status: conscious
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

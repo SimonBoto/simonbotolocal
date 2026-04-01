@@ -5,7 +5,7 @@ title: Instrument Drift and QC Monitoring Requirements in Mass Spectrometry
 aliases: [Z-001-0941]
 domain: 001
 tags: [zettel, instrument-drift, qc-monitoring, mass-spectrometry, metabolomics, quality-control, internal-standards, sensitivity, conscious]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -123,7 +123,7 @@ Mass spectrometers are **not stable** over time. Sensitivity, resolution, and ma
 - IS recovery percentages
 - CV for QC samples (< 20% acceptable)
 
-## Impact on [[KEYWORD-Biomarker|biomarker]] Discovery
+## Impact on  Discovery
 
 ### Uncorrected Drift Consequences
 - 20-50% of "significant" findings = drift artifacts
@@ -138,7 +138,7 @@ Mass spectrometers are **not stable** over time. Sensitivity, resolution, and ma
 - Regulatory approval (if diagnostic)
 
 ## Related Zettels
-- [[Batch_Effects_Detection_Correction_[[KEYWORD-Metabolomics|metabolomics]]_[Z-001-0939].md]] — Between-run variation
+- _[Z-001-0939].md]] — Between-run variation
 - [[Sample_Preparation_Variability_Control_[Z-001-0940].md]] — Pre-analytical variation
 
 ## Source
@@ -150,6 +150,6 @@ Mass spectrometers are **not stable** over time. Sensitivity, resolution, and ma
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- |Biomarker Family Guide]]
+- 
 

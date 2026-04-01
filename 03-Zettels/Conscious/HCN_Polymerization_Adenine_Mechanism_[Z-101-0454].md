@@ -5,7 +5,7 @@ title: HCN Polymerization to Adenine Mechanism
 aliases: [Z-101-0454, hcn-polymerization, prebiotic-adenine]
 domain: 101
 tags: [zettel, prebiotic-chemistry, hcn, adenine, origin-of-life, polymerization]
-parent-moc: [[MOC-Origins-of-Life]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-101-0045B]]
@@ -18,7 +18,7 @@ source: [[L-101-0045B]]
 5 HCN → Adenine (C₅H₅N₅)
 ```
 
-## Proposed [[KEYWORD-Mechanism|mechanism]]
+## Proposed 
 1. **HCN oligomerization** → formamidine intermediates
 2. **Cyclization** → 4-aminoimidazole-5-carbonitrile (AICN)
 3. **Reaction with additional HCN** → adenine

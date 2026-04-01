@@ -6,7 +6,7 @@ aliases: [Z-001-0080, Osteoclasts_Bone_Resorbing_Cells]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, cellular-mechanisms]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 source: [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]]
 confidence: high
 created: 2026-03-01
@@ -19,8 +19,8 @@ Osteoclasts are multinucleated cells originating from the monocyte-macrophage li
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
-**Source:** [[LitNote_Bone_Remodeling_Cellular_[[KEYWORD-Mechanism|mechanism]]s_L-001-0011]]
+**Parent MOC:** 
+**Source:** s_L-001-0011]]
 **Related:** [[RANK_RANKL_OPG_Osteoclast_Regulation_[Z-001-0082].md]], [[Osteoblasts_Bone_Forming_Cells_[Z-001-0081].md]]
 
 ---

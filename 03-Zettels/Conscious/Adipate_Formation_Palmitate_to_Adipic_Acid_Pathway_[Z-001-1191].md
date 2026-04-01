@@ -4,7 +4,7 @@ type: zettel
 title: Adipate Formation — Palmitate to Adipic Acid Pathway
 domain: 101
 tags: [zettel, adipate, adipic-acid, palmitate, beta-oxidation, omega-oxidation, phd-research]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]]"
 status: conscious
@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Adipic acid (hexanedioic acid) is a C6 dicarboxylic acid formed when β-oxidation is impaired and fatty acids undergo ω-oxidation. It serves as a critical [[KEYWORD-Biomarker|biomarker]] for mitochondrial dysfunction and early insulin resistance.
+Adipic acid (hexanedioic acid) is a C6 dicarboxylic acid formed when β-oxidation is impaired and fatty acids undergo ω-oxidation. It serves as a critical  for mitochondrial dysfunction and early insulin resistance.
 
 ---
 
@@ -66,7 +66,7 @@ Hexanoyl-CoA + O₂ + NADPH → ω-Hydroxyhexanoyl-CoA + NADP⁺ + H₂O
 
 ### Normal Conditions
 - β-oxidation handles all fatty acid catabolism
-- ω-oxidation minimal (5-10% of fatty acid [[KEYWORD-Metabolism|metabolism]])
+- ω-oxidation minimal (5-10% of fatty acid )
 - Adipate production: Low/normal
 
 ### Pathological Conditions
@@ -110,9 +110,9 @@ Hexanoyl-CoA + O₂ + NADPH → ω-Hydroxyhexanoyl-CoA + NADP⁺ + H₂O
 - [[Omega_Oxidation_ER_Pathway_[Z-001-1193].md]]
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family Guide]]
+- /Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family Guide]]
 - [[Adipic_Acid_Early_IR_Biomarker_[Z-001-0041]|Adipic Acid — Early IR Biomarker]]
-- [[MOC-Organic-Acids|Organic Acids MOC]]
+- 
 
 ---
 

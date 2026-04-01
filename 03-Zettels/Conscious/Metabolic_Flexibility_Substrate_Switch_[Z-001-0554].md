@@ -5,7 +5,7 @@ title: Metabolic Flexibility — Substrate Switch
 aliases: [Metabolic-Flexibility, Fat-Adaptation, Glucose-Oxidation, Fasting]
 domain: 001
 tags: [zettel, metabolic-flexibility, fat-adaptation, substrate-switch]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Metabolic Flexibility — Substrate Switch
 
-> Metabolic flexibility is the capacity to shift between glucose and fatty acid oxidation based on availability and demand — a hallmark of healthy [[KEYWORD-Mitochondria|mitochondria]]l function.
+> Metabolic flexibility is the capacity to shift between glucose and fatty acid oxidation based on availability and demand — a hallmark of healthy l function.
 
 ## Healthy State
 
@@ -24,8 +24,8 @@ extraction-date: 2026-03-01
 ## Dysfunctional State
 
 - **Glucose dependency:** Cannot access fat
-- **[[KEYWORD-Insulin|insulin]] resistance:** Impaired uptake
-- **Rigid [[KEYWORD-Metabolism|metabolism]]:** Stuck in one mode
+- ** resistance:** Impaired uptake
+- **Rigid :** Stuck in one mode
 
 ## The Shift
 

@@ -6,7 +6,7 @@ aliases: [Z-001-0904, Z-001-0004-deprecated, Genomics_Definition, Human_Genome]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, genomics, genome, DNA, pharmacogenomics, GWAS, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
@@ -34,7 +34,7 @@ DNA (Gene) → Transcription → mRNA → Translation → Protein (Enzyme) → M
 ### Monogenic Metabolic Diseases
 | Disease | Gene Defect | Treatment Approach |
 |---------|-------------|-------------------|
-| Phenylketonuria | Phenylalanine [[KEYWORD-Metabolism|metabolism]] | Amino acid restriction |
+| Phenylketonuria | Phenylalanine  | Amino acid restriction |
 | Type 1 Diabetes | Glucose metabolism genes | Insulin replacement |
 
 ### Pharmacogenomics
@@ -51,7 +51,7 @@ Study of how DNA/RNA variations affect drug response:
 | GWAS | Disease-gene association | Risk loci identification |
 | WES | Protein-coding variant detection | Diagnostic variants |
 
-## Limitations (Why [[KEYWORD-Metabolomics|metabolomics]] Complements Genomics)
+## Limitations (Why  Complements Genomics)
 
 1. **Genome is static** — doesn't reflect current physiological state
 2. **Environmental factors** — not captured in DNA sequence
@@ -67,7 +67,7 @@ Study of how DNA/RNA variations affect drug response:
 
 **But cannot replace:**
 - Real-time metabolic status (metabolomics captures this)
-- Environmental factor integration ([[KEYWORD-Vitamin_D|vitamin d]] response)
+- Environmental factor integration ( response)
 - Dynamic disease progression markers
 
 ## Links
@@ -78,7 +78,7 @@ Study of how DNA/RNA variations affect drug response:
 
 ## Context
 
-**Also relevant to:** [[MOC-PhD-METHAP-Trial]] — Genetic stratification considerations
+**Also relevant to:**  — Genetic stratification considerations
 
 **Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Subsection 2.1
 
@@ -88,7 +88,7 @@ Study of how DNA/RNA variations affect drug response:
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 
 
 

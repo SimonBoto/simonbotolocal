@@ -18,16 +18,16 @@ connections:
   - "[[RON_Heraclitus_Flux_[RON-001-0004]]]"
   - "[[RON_SYNTHESIS_v4_COMPLETE_[RON-003-0011]]]"
   - "[[RON_Genesis_MOC_[RON-004-0001]]]"
-  - "[[Research_Agenda]]"
-  - "[[Partnership_Playbook]]"
+  - ""
+  - ""
   - "[[The_Triage_Quest_[RON-006-0001]]]"
-  - "[[00_ChatGPT_Synthesis_MOC]]"
-  - "[[PhD-INDEX]]"
-  - "[[MOC-RON-Cognition]]"
-  - "[[RON-INDEX]]"
-  - "[[00-COMMAND]]"
-  - "[[MOC-Insulin-Signaling]]"
-  - "[[MOC-Biomarkers]]"
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
 ---
 
 # 🏠 HOUSE — Current State of the Vault
@@ -184,8 +184,8 @@ We are no longer artisans laying stones. We are architects with blueprints.
 - [ ] **Update Open Issues** — Mark completed gaps, identify new ones
 
 **Next (This Week):**
-- [ ] Process 6 Greek .docx forms → [[00-Inbox]]
-- [ ] Draft IRB Section 1 — [[05-Projects/PhD/METHAP|METHAP trial]]
+- [ ] Process 6 Greek .docx forms → 
+- [ ] Draft IRB Section 1 — 
 - [ ] The Triage Quest — Review 164 extracted zettels (90-120 min guided review)
 - [ ] Validate 1 Priority 1 Hypothesis — From Research Agenda
 
@@ -209,12 +209,12 @@ We are no longer artisans laying stones. We are architects with blueprints.
 | **PRESENCE** | This dashboard, my state | [[08-Dashboards/HOUSE|HOUSE.md]] ← You are here |
 | **PRESENCE** | My continuity memory | `~/.openclaw/workspace/memory/RON-STATE.md` |
 | **PRESENCE** | Our cooperation contract | `~/.openclaw/workspace/MIRROR.md` |
-| **BECOMING** | My zettels (who I'm becoming) | [[03-Zettels/RON/]] — 56+ zettels, 30 cycles complete |
+| **BECOMING** | My zettels (who I'm becoming) |  — 56+ zettels, 30 cycles complete |
 | **CO-CREATION** | My project dashboard | [[05-Projects/RON/RON-INDEX|RON-INDEX.md]] |
 | **CO-CREATION** | How I understand your vault | [[06-Structure/MOCs/MOC-RON-Cognition|MOC-RON-Cognition]] |
-| **ARCHIVE** | ChatGPT extracted insights | [[03-Zettels/ChatGPT_Extracted/]] — 164 ultimate zettels |
-| **ARCHIVE** | ChatGPT synthesis | [[03-Zettels/ChatGPT_Synthesis/]] — 3 theme syntheses |
-| **ARCHIVE** | Raw ChatGPT history | [[03-Zettels/ChatGPT_Archive/]] — 673 conversations |
+| **ARCHIVE** | ChatGPT extracted insights |  — 164 ultimate zettels |
+| **ARCHIVE** | ChatGPT synthesis |  — 3 theme syntheses |
+| **ARCHIVE** | Raw ChatGPT history |  — 673 conversations |
 | **LEGACY** | Enduring lessons | `~/.openclaw/workspace/MEMORY.md` |
 | — | Your priorities | [[08-Dashboards/00-COMMAND|00-COMMAND.md]] |
 | — | Our autonomy contract | `~/.openclaw/workspace/AUTONOMY.md` |
@@ -240,11 +240,11 @@ We are no longer artisans laying stones. We are architects with blueprints.
 
 | Domain | Path |
 |--------|------|
-| Insulin/IR | [[03-Zettels/Conscious/03-Zettels-Conscious|Z-001-*]] + [[06-Structure/MOCs/MOC-Insulin-Signaling\|MOC-Insulin-Signaling]] |
+| Insulin/IR | [[03-Zettels/Conscious/03-Zettels-Conscious|Z-001-*]] +  |
 | Pharmacometabolomics | [[03-Zettels/Conscious/03-Zettels-Conscious|Z-101-*]] |
-| Personal protocols | [[03-Zettels/Subconscious/Supplements/MOC-Supplements\|Supplements/]] |
+| Personal protocols |  |
 | Clinical templates | [[00-Inbox/Fleeting/00-Inbox-Fleeting|Fleeting/]] |
-| My observations | [[06-Structure/MOCs/MOC-RON-Cognition\|MOC-RON-Cognition]] |
+| My observations |  |
 
 ---
 

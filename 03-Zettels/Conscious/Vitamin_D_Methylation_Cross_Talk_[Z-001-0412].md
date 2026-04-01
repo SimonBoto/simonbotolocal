@@ -5,13 +5,13 @@ title: Vitamin D and Methylation Cross-Talk
 aliases: [Vitamin-D-Methylation, TET, DNMT, Epigenetic-Vitamin-D]
 domain: 001
 tags: [zettel, vitamin-d, methylation, tet, dnmt, epigenetics]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Vitamin_D|vitamin d]] and Methylation Cross-Talk
+#  and Methylation Cross-Talk
 
 > Vitamin D influences epigenetic patterns through regulation of DNMT expression and TET enzyme activity, potentially reversing aberrant methylation in cancer and metabolic disease.
 
@@ -70,11 +70,11 @@ extraction-date: 2026-03-01
 **Research Gap:**
 - Limited human data on high-dose D epigenetics
 - METHAP could contribute evidence
-- [[KEYWORD-Metabolomics|metabolomics]] + epigenetics integration
+-  + epigenetics integration
 
 ## Clinical Implications
 
-**Beyond [[KEYWORD-Bone_Health|bone health]]:**
+**Beyond :**
 - D's role extends to gene regulation
 - Nutrient-genome interaction
 - Personalized nutrition based on epigenetics
@@ -85,4 +85,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

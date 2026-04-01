@@ -6,7 +6,7 @@ aliases: [Z-002-0601, ethics-social-value]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, clinical-trials, emmanuel-seven]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]"
 confidence: high
 created: 2026-03-27
@@ -29,15 +29,15 @@ Research without social or clinical value is unethical regardless of other safeg
 
 ## Application to METHAP
 
-Adipic acid as an insulin resistance [[KEYWORD-Biomarker|biomarker]] satisfies this requirement:
+Adipic acid as an insulin resistance  satisfies this requirement:
 - **Significant gap:** Current IR diagnostics are delayed (HOMA-IR, fasting glucose)
 - **Generalizable:** Findings apply to metabolic syndrome, prediabetes, T2DM
 - **Implementable:** Urine organic acid testing is clinically accessible
-- **Necessary:** [[KEYWORD-Metabolomics|metabolomics]] provides earlier detection than conventional markers
+- **Necessary:**  provides earlier detection than conventional markers
 
 ## Links
 
-**Parent MOC:** [[MOC-Research-Ethics]]  
+**Parent MOC:**   
 **Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]  
 **Related:** [[Scientific_Validity_Ethical_Requirement_[Z-002-0602].md]] — Methodological rigor requirement
 
@@ -46,7 +46,7 @@ Adipic acid as an insulin resistance [[KEYWORD-Biomarker|biomarker]] satisfies t
 *UID: Z-002-0601 | Domain: 002 | Created: 2026-03-27*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

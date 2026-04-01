@@ -4,13 +4,13 @@ type: zettel
 title: GitHub for Clinical Knowledge Management
 domain: 001
 tags: [zettel, github, knowledge-management, clinical, documentation]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Self_Education_Clinical_Team_L-001-0620]]"
 status: conscious
 ---
 
-# GitHub for [[KEYWORD-Clinical|clinical]] Knowledge Management
+# GitHub for  Knowledge Management
 
 ## Why GitHub for Medical Teams?
 
@@ -45,8 +45,8 @@ Traditional medical knowledge management relies on static documents, shared driv
 ```
 clinical-knowledge/
 ├── protocols/
-│   ├── [[KEYWORD-Insulin|insulin]]-resistance/
-│   ├── [[KEYWORD-Vitamin_D|vitamin-d]]-optimization/
+│   ├── -resistance/
+│   ├── -optimization/
 │   └── detoxification/
 ├── cases/
 │   ├── 2026/

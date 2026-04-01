@@ -303,4 +303,4 @@ This revised script maintains a scientific tone while ensuring clarity and engag
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

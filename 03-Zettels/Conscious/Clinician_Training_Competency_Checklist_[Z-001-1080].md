@@ -6,7 +6,7 @@ aliases: [Z-001-1080, Competency-Checklist]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, competency, training, assessment]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]
 source: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]
 confidence: high
@@ -21,8 +21,8 @@ Competency verification at each training stage before independent practice autho
 ## Phase 1: Foundation Competency (Weeks 1-2)
 
 ### Biochemical Literacy
-- [ ] Explain [[KEYWORD-Metabolism|metabolism]] as information flow
-- [ ] Describe [[KEYWORD-Mitochondria|mitochondria]]l function beyond "powerhouse"
+- [ ] Explain  as information flow
+- [ ] Describe l function beyond "powerhouse"
 - [ ] Define redox balance and NAD+/NADH
 - [ ] Identify the five core pathways
 
@@ -93,7 +93,7 @@ Competency verification at each training stage before independent practice autho
 
 ### Ongoing Competency
 - [ ] Annual case review
-- [ ] Continuing education in [[KEYWORD-Metabolomics|metabolomics]]
+- [ ] Continuing education in 
 - [ ] Quality metric participation
 
 ## Remediation
@@ -105,11 +105,11 @@ If competency not achieved:
 
 ## Related
 - [[Bootcamp_Four_Phase_Structure_[Z-001-1035].md]]
-- [[MOC-Metabolomics-Training]]
+- 
 
 ---
 *Source: CGPT-0022 — Clinic operations*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

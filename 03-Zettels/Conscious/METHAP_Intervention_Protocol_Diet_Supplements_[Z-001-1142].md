@@ -6,7 +6,7 @@ aliases: [Z-001-1142, METHAP-Intervention]
 domain: 001
 domain-name: PhD Research
 tags: [zettel, methap, intervention, diet, supplements]
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 source-litnote: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]]
 source: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]]
 confidence: high
@@ -58,8 +58,8 @@ The METHAP intervention combines targeted dietary modifications with evidence-ba
 ### Core Supplements
 | Supplement | Dose | Timing | Rationale |
 |------------|------|--------|-----------|
-| **[[KEYWORD-Vitamin_D|vitamin d]]3** | 4000 IU/day | Morning | Insulin sensitivity |
-| **Magnesium** | 400-600mg/day | Evening | Glucose [[KEYWORD-Metabolism|metabolism]] |
+| **3** | 4000 IU/day | Morning | Insulin sensitivity |
+| **Magnesium** | 400-600mg/day | Evening | Glucose  |
 | **Omega-3 (EPA/DHA)** | 2-3g/day | With meals | Anti-inflammatory |
 | **Chromium** | 200-1000mcg/day | Morning | Glucose transport |
 | **Alpha-lipoic acid** | 600mg/day | Divided | Antioxidant, insulin |
@@ -95,7 +95,7 @@ The METHAP intervention combines targeted dietary modifications with evidence-ba
 |--------|----------------|
 | **Pill counts** | Return at visits |
 | **Self-report** | Daily checklist |
-| **[[KEYWORD-Biomarker|biomarker]] verification** | Omega-3 index, 25(OH)D |
+| ** verification** | Omega-3 index, 25(OH)D |
 
 ## Safety Monitoring
 
@@ -131,7 +131,7 @@ The METHAP intervention combines targeted dietary modifications with evidence-ba
 ## Related
 - [[METHAP_Study_Population_Recruitment_Strategy_[Z-001-1141].md]]
 - [[METHAP_Study_Timeline_Testing_Schedule_[Z-001-1144].md]]
-- [[MOC-PhD-Research]]
+- 
 
 ---
 *Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
@@ -156,7 +156,7 @@ The METHAP intervention combines targeted dietary modifications with evidence-ba
 - [[Vitamin_D_High_Dose_Monitoring_Protocol_[Z-001-0091]|Z-001-0091]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 
 
 

@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 2
 relevance: Enzyme pharmacology, histamine metabolism, neurotransmitter degradation
 status: extracted
-parent-moc: [[MOC-Enzyme-Pharmacology]]
+parent-moc: 
 extraction-date: 2026-03-07
 domain: 001
 ---

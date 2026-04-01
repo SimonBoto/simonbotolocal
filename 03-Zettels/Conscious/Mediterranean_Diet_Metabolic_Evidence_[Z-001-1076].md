@@ -6,7 +6,7 @@ aliases: [Z-001-1076, Mediterranean-Biblio]
 domain: 001
 domain-name: Nutrition
 tags: [zettel, mediterranean-diet, research, evidence]
-parent-moc: [[MOC-Nutrition]]
+parent-moc: 
 source-litnote: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]]
 source: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]]
 confidence: high
@@ -52,13 +52,13 @@ Key research supporting Mediterranean diet for metabolic health.
 ## Metabolic Syndrome
 
 ### Sleiman D, et al. 2015
-**Title:** *Effect of Mediterranean diet in diabetes control and [[KEYWORD-Insulin|insulin]] sensitivity.*  
+**Title:** *Effect of Mediterranean diet in diabetes control and  sensitivity.*  
 **Journal:** Front Public Health 3:69  
 **Finding:** Improved glycemic control and insulin sensitivity  
 **Clinical application:** Type 2 diabetes management
 
 ### Vetrani C, et al. 2023
-**Title:** *Mediterranean diet adherence and [[KEYWORD-Insulin_Resistance|insulin resistance]].*  
+**Title:** *Mediterranean diet adherence and .*  
 **Journal:** Nutrients  
 **Finding:** Higher adherence → lower HOMA-IR  
 **Clinical application:** IR prevention and reversal
@@ -69,7 +69,7 @@ Key research supporting Mediterranean diet for metabolic health.
 |-----------|-------------------|
 | **Olive oil** | MUFA, polyphenols, anti-inflammatory |
 | **Fatty fish** | EPA/DHA, omega-3 index |
-| **Nuts** | [[KEYWORD-Magnesium|magnesium]], healthy fats |
+| **Nuts** | , healthy fats |
 | **Vegetables** | Polyphenols, fiber |
 | **Legumes** | Protein, fiber, low GI |
 | **Whole grains** | Fiber, B-vitamins |
@@ -93,7 +93,7 @@ Key research supporting Mediterranean diet for metabolic health.
 
 ## Related
 - [[Fatty_Acid_Ratios_Clinical_Interpretation_[Z-001-1056].md]]
-- [[MOC-Nutrition]]
+- 
 
 ---
 *Source: CGPT-0022 — Research bibliography*

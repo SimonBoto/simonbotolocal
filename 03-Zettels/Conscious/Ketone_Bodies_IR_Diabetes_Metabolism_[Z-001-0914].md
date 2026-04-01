@@ -6,7 +6,7 @@ aliases: [Z-001-0914, Z-001-0014-deprecated, Ketone_Bodies, Ketogenesis, Acetoac
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, ketones, ketogenesis, insulin-resistance, diabetes, fatty-acid-oxidation, alternative-fuel, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 confidence: high
 created: 2026-02-23
@@ -128,7 +128,7 @@ Fatty acids → β-oxidation → Acetyl-CoA ──┬─→ Krebs Cycle (if capa
 
 ### Potential Research Questions
 
-1. **Does VD status affect ketone [[KEYWORD-Metabolism|metabolism]]?**
+1. **Does VD status affect ketone ?**
    - VD deficiency → impaired mitochondrial function → altered ketogenesis?
    - Unknown — potential area for investigation
 
@@ -162,11 +162,11 @@ VD intervention target:
 
 - **Upstream/Prerequisite:** [[Carnitine_Fatty_Acid_Transport_[Z-001-0913].md]] — Ketones produced when fatty acids enter mitochondria but Krebs saturated
 - **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_[Z-001-0912].md]] — Alternative fate for acetyl-CoA
-- **Downstream/Consequence:** [[MOC-PhD-METHAP-Trial]] — Potential [[KEYWORD-Biomarker|biomarker]] for metabolic flexibility
+- **Downstream/Consequence:**  — Potential  for metabolic flexibility
 
 ## Context
 
-**Also relevant to:** [[IR_Mechanisms_Map]] — Fuel selection in IR, [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]] — Potential VD-ketone interaction
+**Also relevant to:**  — Fuel selection in IR, -Mechanisms]] — Potential VD-ketone interaction
 
 **Source:** [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 
@@ -177,5 +177,5 @@ VD intervention target:
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

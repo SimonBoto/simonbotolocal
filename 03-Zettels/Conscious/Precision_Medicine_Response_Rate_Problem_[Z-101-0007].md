@@ -6,7 +6,7 @@ aliases: [Z-101-0007, Response-Rate-Problem, Therapy-Heterogeneity]
 domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, precision-medicine, response-rate, heterogeneity, anti-TNF, biologics]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]]
 confidence: high
 created: 2026-02-24
@@ -30,9 +30,9 @@ Approved therapies for chronic diseases show only 30-60% effectiveness, with sig
 
 **The problem:** Medicine treats chronic diseases like acute conditions — waiting for organ damage before intervening, then using empirical rather than stratified approaches.
 
-**Solution:** Pharmaco[[KEYWORD-Metabolomics|metabolomics]] enables responder stratification before treatment, matching therapy to metabolic profile rather than trial-and-error.
+**Solution:** Pharmaco enables responder stratification before treatment, matching therapy to metabolic profile rather than trial-and-error.
 
-**METHAP Application:** [[KEYWORD-Vitamin_D|vitamin d]] response is heterogeneous. Metabolic [[KEYWORD-Biomarker|biomarker]]s (adipic acid panel) can identify likely responders before intervention, optimizing resource allocation and patient outcomes.
+**METHAP Application:**  response is heterogeneous. Metabolic s (adipic acid panel) can identify likely responders before intervention, optimizing resource allocation and patient outcomes.
 
 ## Key Details
 
@@ -46,11 +46,11 @@ Approved therapies for chronic diseases show only 30-60% effectiveness, with sig
 
 - **Upstream:** [[Pharmacometabolomics_Framework_Metabotypes_Z-101-0001.md]] — Pharmacometabolomics provides solution
 - **Parallel:** [[METHAP_Biomarker_Panel_Z-001-0045.md]] — METHAP panel enables stratification
-- **Downstream:** [[MOC-Personalized-Medicine]], [[MOC-Responder-Stratification]]
+- **Downstream:** , 
 
 ## Context
 
-**Also relevant to:** [[MOC-Clinical-Trials]], [[MOC-Pharmacoeconomics]]
+**Also relevant to:** , 
 
 **Emerges from:** NKUA Course 3175, DE4
 
@@ -59,7 +59,7 @@ Approved therapies for chronic diseases show only 30-60% effectiveness, with sig
 *UID: Z-101-0007 | Domain: 101 | Created: 2026-02-24*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

@@ -98,7 +98,7 @@ Hub: "Create deep atomic on adipic mechanism"
 - Check contradictions (`memory recall`)
 
 #### 3. Synthesis Phase (Brain + Hub)
-- Draft using [[Template_Atomic_Claim_20260219]]
+- Draft using 
 - Verify claims (cross-check sources)
 - Add mechanisms (step-by-step)
 - Create ASCII diagram if needed
@@ -108,7 +108,7 @@ Hub: "Create deep atomic on adipic mechanism"
 - Link to ≥2 existing atomics (incoming)
 - Link to ≥2 related atomics (outgoing)
 - Update parent MOC
-- Add to [[MOC-Insulin-Signaling]] if relevant
+- Add to  if relevant
 
 #### 5. Refinement (Brain)
 - Word count check: 300-800 words

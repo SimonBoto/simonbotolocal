@@ -5,7 +5,7 @@ title: Battle Creek Sanitarium — John Harvey Kellogg's Wellness Institute
 aliases: [Battle-Creek-San, Sanitarium, Kellogg-Institute]
 domain: 001
 tags: [zettel, nutrition, history, kellogg, sanitarium, health]
-parent-moc: [[MOC-Nutrition]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Cereal_History_L-001-0211]]
 extraction-date: 2026-03-01
@@ -94,7 +94,7 @@ extraction-date: 2026-03-01
 - Exercise importance
 - Sanitation/hygiene
 - Wellness concept
-- [[KEYWORD-Nutrition|nutrition]] focus
+-  focus
 
 **Negative:**
 - Medical quackery
@@ -114,6 +114,6 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
-- [[FRAX_Limitations_[[KEYWORD-Clinical|clinical]]_Gaps_[Z-001-0111]|Z-001-0111]]
+- _Gaps_[Z-001-0111]|Z-001-0111]]

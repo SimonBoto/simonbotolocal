@@ -6,7 +6,7 @@ aliases: [Z-001-1051, Redox-Cofactors]
 domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, nad, fad, redox, cofactors]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
 source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
 confidence: high
@@ -63,7 +63,7 @@ NAD⁺/NADH and FAD/FADH₂ are the primary electron carriers connecting catabol
 ### Clinical Relevance
 - **B2 deficiency:** Impaired fatty acid oxidation
 - **Elevated succinate:** Marker of FADH₂ utilization issues
-- **Therapeutic:** Riboflavin for migraines, [[KEYWORD-Mitochondria|mitochondria]]l disease
+- **Therapeutic:** Riboflavin for migraines, l disease
 
 ## Redox Balance
 > "NAD⁺/NADH ratio signals metabolic state."
@@ -75,9 +75,9 @@ NAD⁺/NADH and FAD/FADH₂ are the primary electron carriers connecting catabol
 | Low NAD⁺ | Pathological | Metabolic dysfunction |
 
 ## Related
-- [[Oxidative_Phosphorylation_Clinical_[[KEYWORD-Mechanism|mechanism]]s_[Z-001-1050].md]]
+- s_[Z-001-1050].md]]
 - [[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052].md]]
-- [[MOC-[[KEYWORD-Mitochondria|mitochondrial]]-Function]]
+- -Function]]
 
 ---
 *Source: CGPT-0022 — Mitochondrial biochemistry*

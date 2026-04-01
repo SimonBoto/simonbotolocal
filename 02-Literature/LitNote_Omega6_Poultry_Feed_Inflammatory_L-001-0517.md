@@ -15,7 +15,7 @@ domain: 001
 tags: [litnote, omega-6, omega-3, poultry, fatty-acids, inflammation, nutrition, food-quality, linoleic-acid]
 source: "[[CGPT_0141_Omega_6_in_Chicken_Fat_[CGPT-0141]]]"
 status: extracted
-parent-moc: [[MOC-Omega3-Fats]]
+parent-moc: 
 extraction-date: 2026-03-03
 ---
 
@@ -159,10 +159,10 @@ For patients with inflammatory conditions (MetS, autoimmune, chronic pain), the 
 ---
 
 ## Related References
-- [[MOC-Omega3-Fats]] — Parent MOC for fatty acid balance
-- [[MOC-Nutrition]] — General nutrition context
+-  — Parent MOC for fatty acid balance
+-  — General nutrition context
 - [[LitNote_Seed_Oils_Omega6_Omega3_Ratio_L-001-0503]] — Broader omega-6:3 context
-- [[Z_Omega6_Omega3_Balance_Inflammation_007]] — General omega-6:3 balance (if exists)
+-  — General omega-6:3 balance (if exists)
 
 ---
 

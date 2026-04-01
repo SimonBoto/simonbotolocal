@@ -6,7 +6,7 @@ aliases: [Z-001-0902, Z-001-0002-deprecated, Omics_Cascade, Genotype_Phenotype_F
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, omics, genotype, phenotype, metabolomics, hierarchy, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
@@ -30,7 +30,7 @@ GENOTYPE → TRANSCRIPTOME → PROTEOME → METABOLOME → PHENOTYPE
 | **Genomics** | Genes (DNA) | Stable | Low |
 | **Transcriptomics** | mRNA | Hours | Medium |
 | **Proteomics** | Proteins | Days | Medium-High |
-| **[[KEYWORD-Metabolomics|metabolomics]]** | Metabolites | Minutes-Hours | **High** |
+| **** | Metabolites | Minutes-Hours | **High** |
 
 ## Why Metabolomics Is Closest to Phenotype
 
@@ -55,29 +55,29 @@ Metabolites reflect the **integration** of:
 ## METHAP Application
 
 - **Baseline:** Metabolome reflects current metabolic dysfunction
-- **Intervention:** [[KEYWORD-Vitamin_D|vitamin d]] supplementation → metabolite changes
+- **Intervention:**  supplementation → metabolite changes
 - **Outcome:** Phenotype improvement (IR reduction) via metabolite shifts
 - **Mechanism:** Adipic acid, miR-21/155, butyrate as intermediate markers
 
 ## Links
 
 - **Upstream/Prerequisite:** [[Systems_Biology_Integrative_Framework_[Z-001-0901]]] — Theoretical foundation
-- **Parallel/Related:** [[Central_Dogma_Molecular_Biology_Z-XXX-XXXX]] — Classic genetics view
+- **Parallel/Related:**  — Classic genetics view
 - **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_[Z-001-0903]]] — Why environment matters more than genes
 
 ## Context
 
-**Also relevant to:** [[MOC-PhD-METHAP-Trial]], [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]]
+**Also relevant to:** , -Mechanisms]]
 
 **Emerges from:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
-**Supports:** [[Biomarkers_Taxonomy]] — Positioning metabolite biomarkers
+**Supports:**  — Positioning metabolite biomarkers
 
 ---
 
 *UID: Z-001-0902 (reassigned from Z-001-0002) | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Multiple_Testing_Burden_High_Dimensional_Data_[Z-001-0934]|Z-001-0934]]
 - [[Vitamin_K2_Vascular_Calcification_MGP_[Z-001-0228]|Z-001-0228]]
 - [[D_K2_Production_Activation_Partnership_[Z-001-0253]|Z-001-0253]]
@@ -109,5 +109,5 @@ Metabolites reflect the **integration** of:
 - [[METHAP_Intervention_Protocol_Diet_Supplements_[Z-001-1142]|Z-001-1142]]
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

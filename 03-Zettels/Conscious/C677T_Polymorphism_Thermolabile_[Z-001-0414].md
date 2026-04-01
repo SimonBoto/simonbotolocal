@@ -5,7 +5,7 @@ title: C677T Polymorphism — Thermolabile Variant
 aliases: [C677T, Thermolabile, MTHFR-Variant]
 domain: 001
 tags: [zettel, c677t, polymorphism, mthfr, thermolabile]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]]
 extraction-date: 2026-03-01
@@ -32,7 +32,7 @@ extraction-date: 2026-03-01
 ## Biochemical Effects
 
 **Reduced 5-MTHF Production:**
-- Impaired [[KEYWORD-Folate|folate]] activation
+- Impaired  activation
 - Elevated homocysteine (especially with low folate)
 - Normal B12 unaffected
 
@@ -41,7 +41,7 @@ extraction-date: 2026-03-01
 - Temperature sensitive
 - More pronounced at body temperature
 
-## [[KEYWORD-Clinical|clinical]] Associations
+##  Associations
 
 **With Low Folate:**
 - Neural tube defects (mothers)
@@ -60,4 +60,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -5,15 +5,15 @@ title: Calcium Homeostasis — Tight Physiological Regulation
 aliases: [Calcium-Regulation, Homeostasis, Serum-Calcium]
 domain: 001
 tags: [zettel, calcium, homeostasis, regulation, electrolytes]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Calcium|calcium]] Homeostasis — Tight Physiological Regulation
+#  Homeostasis — Tight Physiological Regulation
 
-> Serum calcium is maintained within the narrowest physiological range of any electrolyte (±2%) through precise regulation by PTH, [[KEYWORD-Vitamin_D|vitamin d]], and calcitonin, reflecting its critical importance for life-sustaining functions.
+> Serum calcium is maintained within the narrowest physiological range of any electrolyte (±2%) through precise regulation by PTH, , and calcitonin, reflecting its critical importance for life-sustaining functions.
 
 ## Normal Values
 
@@ -30,7 +30,7 @@ extraction-date: 2026-03-01
 ## Critical Functions Requiring Tight Control
 
 ### 1. Neuromuscular Excitability
-**[[KEYWORD-Mechanism|mechanism]]:**
+**:**
 - Calcium modulates sodium channel opening
 - Extracellular Ca²⁺ inversely related to excitability
 - Low Ca²⁺ → Hyperexcitability (tetany)
@@ -102,4 +102,4 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

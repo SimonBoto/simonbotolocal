@@ -6,7 +6,7 @@ title: Calprotectin - Gut Inflammation Marker
 aliases: [B-002-0002, Calprotectin, Fecal-Calprotectin, Gut-Inflammation]
 domain: 002
 tags: [biomarker, gut, inflammation, ibd, intestinal]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 created: 2026-03-30
 source-litnote: Synthesized from clinical practice
@@ -67,7 +67,7 @@ source-litnote: Synthesized from clinical practice
 ## 5. RELATED
 
 - [[CRP_[B-002-0001]]]: Systemic inflammation
-- [[OAT_Gut_Dysbiosis_[Z-XXX-XXXX]]]: Metabolomics gut markers
+- ]: Metabolomics gut markers
 
 source-litnote: Synthesized from clinical practice
 ---

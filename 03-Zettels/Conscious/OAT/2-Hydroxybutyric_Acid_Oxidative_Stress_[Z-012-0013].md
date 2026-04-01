@@ -6,7 +6,7 @@ title: 2-Hydroxybutyric Acid — Oxidative Stress & Glutathione Synthesis Marker
 aliases: [Z-012-0013, 2-Hydroxybutyric, Alpha-Hydroxybutyrate, Oxidative-Stress, GSH-Synthesis]
 domain: 012
 tags: [zettel, biomarker, 2-hydroxybutyric, oxidative-stress, glutathione, methionine]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

@@ -6,17 +6,17 @@ aliases: [Z-001-0032, Gut-IR-Mechanisms]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, gut-microbiome, dysbiosis, LPS, metabolic-endotoxemia, tight-junctions]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
 confidence: high
 created: 2026-02-24
 ---
 
-# Gut-Derived [[KEYWORD-Mechanism|mechanism]]s in [[KEYWORD-Insulin|insulin]] Resistance
+# Gut-Derived s in  Resistance
 
 Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muciniphila, Faecalibacterium prausnitzii) decline while pathobionts (Proteobacteria) expand. This triggers barrier dysfunction through tight junction disruption (zonulin-mediated), allowing LPS translocation into circulation.
 
-**Metabolic endotoxemia** results: LPS activates TLR4 in liver, muscle, and adipose tissue, creating low-grade [[KEYWORD-Inflammation|inflammation]] and glucose intolerance systemically.
+**Metabolic endotoxemia** results: LPS activates TLR4 in liver, muscle, and adipose tissue, creating low-grade  and glucose intolerance systemically.
 
 **SCFA depletion:** Reduced butyrate production (from lost beneficial species) impairs colonocyte fuel supply, tight junction protein synthesis, and HDAC-mediated anti-inflammatory signaling.
 
@@ -39,7 +39,7 @@ Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muc
 
 ## Context
 
-**Also relevant to:** [[MOC-Microbiome]], [[MOC-Gut-Barrier]]
+**Also relevant to:** , 
 
 **Emerges from:** Literature synthesis on gut-metabolic axis
 
@@ -49,4 +49,4 @@ Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muc
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

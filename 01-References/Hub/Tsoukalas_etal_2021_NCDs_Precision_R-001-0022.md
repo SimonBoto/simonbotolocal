@@ -15,7 +15,7 @@ status: pending
 aliases: [R-001-0022, Tsoukalas_2021_NCDs_Precision, BioFutures]
 domain: 001
 tags: [reference, ncds, precision-medicine, metabolomics, greek-authors, tier-1]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 

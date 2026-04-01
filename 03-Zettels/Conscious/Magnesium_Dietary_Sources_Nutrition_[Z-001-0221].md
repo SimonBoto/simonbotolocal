@@ -5,13 +5,13 @@ title: Magnesium Dietary Sources — Nutritional Strategies
 aliases: [Mg-Diet, Magnesium-Foods, Magnesium-Nutrition]
 domain: 001
 tags: [zettel, magnesium, diet, nutrition, foods, sources]
-parent-moc: [[MOC-Nutrition]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Magnesium_Supplementation_L-001-0201d]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Magnesium|magnesium]] Dietary Sources — [[KEYWORD-Nutrition|nutrition]]al Strategies
+#  Dietary Sources — al Strategies
 
 > While dietary magnesium is essential for baseline nutrition, achieving therapeutic magnesium levels (400-500 mg/day) for metabolic syndrome management typically requires supplementation due to modern agricultural practices and dietary patterns.
 
@@ -142,4 +142,4 @@ extraction-date: 2026-03-01
 
 ## RELATED FILES
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
-- [[FRAX_Limitations_[[KEYWORD-Clinical|clinical]]_Gaps_[Z-001-0111]|Z-001-0111]]
+- _Gaps_[Z-001-0111]|Z-001-0111]]

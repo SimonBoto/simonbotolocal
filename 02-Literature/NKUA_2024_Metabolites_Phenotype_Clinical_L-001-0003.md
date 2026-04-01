@@ -14,7 +14,7 @@ status: complete
 aliases: [L-001-0003, NKUA_DE3, Metabolomics_Clinical_Advantages]
 domain: 001
 tags: [lit-note, metabolomics, phenotype, clinical-practice, micronutrients, insulin-resistance, oxidative-stress, biomarkers, nkua-course]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 
@@ -22,7 +22,7 @@ extraction-date: 2026-02-23
 
 ## Source
 - **Full citation:** ΕΘΝΙΚΟ ΚΑΙ ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ. Πρόγραμμα Συμπληρωματικής Εκπαίδευσης 3174 — ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΜΕΤΑΒΟΛΟΜΙΚΗΣ. Διδακτική Ενότητα 3: Μεταβολίτες και Φαινότυπος — Τα Πλεονεκτήματα της Μεταβολομικής στην Κλινική Πράξη.
-- **PDF Asset:** [[01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ_3_Metabolites_Phenotype_Clinical_Advantages.pdf]]
+- **PDF Asset:** 
 - **Course:** 3174 - Βασικές Αρχές Μεταβολομικής
 - **Language:** Greek
 
@@ -241,13 +241,13 @@ extraction-date: 2026-02-23
 
 | #   | Reference                                                                                 | DOI/PMID                               | Status        | Hub                                                            |
 | --- | ----------------------------------------------------------------------------------------- | -------------------------------------- | ------------- | -------------------------------------------------------------- |
-| 1   | Branca F, et al. Transforming the food system to fight NCDs. BMJ. 2019                    | doi:10.1136/bmj.l296                   | ✅ Hub created | [[Branca_etal_2019_Food_System_NCD_R-001-0011]]                |
+| 1   | Branca F, et al. Transforming the food system to fight NCDs. BMJ. 2019                    | doi:10.1136/bmj.l296                   | ✅ Hub created |                 |
 | 2   | Calder PC. Nutrition, immunity and COVID-19. BMJ Nutr Prev Health. 2020                   | —                                      | 🟡 Pending    | —                                                              |
 | 3   | De Rosa V, et al. Metabolic pressure and immunological self-tolerance. Nat Immunol. 2017  | doi:10.1038/ni.3851                    | 🟡 Pending    | —                                                              |
-| 4   | Hannibal L, et al. Biomarkers for Vitamin B12 Deficiency. Front Mol Biosci. 2016          | doi:10.3389/fmolb.2016.00027           | ✅ Hub created | [[Hannibal_etal_2016_B12_Biomarkers_R-001-0013]]               |
+| 4   | Hannibal L, et al. Biomarkers for Vitamin B12 Deficiency. Front Mol Biosci. 2016          | doi:10.3389/fmolb.2016.00027           | ✅ Hub created |                |
 | 5   | Höller U, et al. Micronutrient status assessment. TrAC Trends Anal Chem. 2018             | —                                      | 🟡 Pending    | —                                                              |
 | 6   | Kang J, et al. Metabolomics in autoimmune diseases. J Neuroimmunol. 2015                  | doi:10.1016/j.jneuroim.2015.01.001     | 🟡 Pending    | —                                                              |
-| 7   | Lamichhane S, et al. Circulating metabolites in T1D progression. Diabetologia. 2019       | doi:10.1007/s00125-019-04980-0         | ✅ Hub created | [[Lamichhane_etal_2019_T1D_Metabolites_Prediction_R-001-0012]] |
+| 7   | Lamichhane S, et al. Circulating metabolites in T1D progression. Diabetologia. 2019       | doi:10.1007/s00125-019-04980-0         | ✅ Hub created |  |
 | 8   | Oresic M. Metabolomics in islet autoimmunity and T1D. Rev Diabet Stud. 2012               | —                                      | 🟡 Pending    | —                                                              |
 | 9   | Qu H, et al. Coenzyme Q10 on statin-induced myopathy. J Am Heart Assoc. 2018              | doi:10.1161/JAHA.118.009835            | 🟡 Pending    | —                                                              |
 | 10  | Roep BO, et al. T1D as disease of β-cell. Nat Rev Endocrinol. 2021                        | —                                      | 🟡 Pending    | —                                                              |
@@ -267,23 +267,23 @@ extraction-date: 2026-02-23
 
 | UID | Hub | Priority | METHAP Relevance |
 |-----|-----|----------|------------------|
-| R-001-0011 | [[Branca_etal_2019_Food_System_NCD_R-001-0011]] | **CRITICAL** | 80% NCD environmental factors |
-| R-001-0012 | [[Lamichhane_etal_2019_T1D_Metabolites_Prediction_R-001-0012]] | **CRITICAL** | T1D prediction precedent |
-| R-001-0013 | [[Hannibal_etal_2016_B12_Biomarkers_R-001-0013]] | **HIGH** | Cofactor→metabolite model |
-| R-001-0014 | [[Calder_2020_Nutrition_Immunity_COVID_R-001-0014]] | MEDIUM | Micronutrient-immunity |
-| R-001-0015 | [[DeRosa_etal_2017_Metabolic_Pressure_Immunity_R-001-0015]] | MEDIUM | Metabolism-immune tolerance |
-| R-001-0016 | [[Holler_etal_2018_Micronutrient_Assessment_R-001-0016]] | MEDIUM | Assessment methodology |
-| R-001-0017 | [[Kang_etal_2015_Metabolomics_Autoimmune_R-001-0017]] | LOW-MEDIUM | Autoimmune metabolomics |
-| R-001-0018 | [[Oresic_2012_T1D_Metabolomics_R-001-0018]] | LOW | T1D review (secondary) |
-| R-001-0019 | [[Qu_etal_2018_CoQ10_Statin_Myopathy_R-001-0019]] | LOW | Mitochondrial support |
-| R-001-0020 | [[Roep_etal_2021_T1D_Beta_Cell_R-001-0020]] | MEDIUM | T1D pathogenesis |
-| R-001-0021 | [[Sarigiannis_etal_2021_Exposome_R-001-0021]] | **HIGH** | Exposome framework |
-| R-001-0022 | [[Tsoukalas_etal_2021_NCDs_Precision_R-001-0022]] | **HIGH** | Precision medicine |
-| R-001-0023 | [[Tsoukalas_etal_2021_Metabolomics_Clinical_R-001-0023]] | **HIGH** | Clinical applications |
-| R-001-0024 | [[Calina_Tsatsakis_2019_COPD_Metabolomics_R-001-0024]] | MEDIUM | Methodology example |
-| R-001-0025 | [[Tsoukalas_etal_2021_Metabolic_Health_Snapshot_R-001-0025]] | **HIGH** | Assessment methodology |
-| R-001-0026 | [[Tsoukalas_Sarandi_2020_Micronutrient_COVID_R-001-0026]] | MEDIUM | Deficiency detection |
-| R-001-0027 | [[Wu_etal_2019_Nutrition_Immunity_R-001-0027]] | **HIGH** | Immunonutrition review |
+| R-001-0011 |  | **CRITICAL** | 80% NCD environmental factors |
+| R-001-0012 |  | **CRITICAL** | T1D prediction precedent |
+| R-001-0013 |  | **HIGH** | Cofactor→metabolite model |
+| R-001-0014 |  | MEDIUM | Micronutrient-immunity |
+| R-001-0015 |  | MEDIUM | Metabolism-immune tolerance |
+| R-001-0016 |  | MEDIUM | Assessment methodology |
+| R-001-0017 |  | LOW-MEDIUM | Autoimmune metabolomics |
+| R-001-0018 |  | LOW | T1D review (secondary) |
+| R-001-0019 |  | LOW | Mitochondrial support |
+| R-001-0020 |  | MEDIUM | T1D pathogenesis |
+| R-001-0021 |  | **HIGH** | Exposome framework |
+| R-001-0022 |  | **HIGH** | Precision medicine |
+| R-001-0023 |  | **HIGH** | Clinical applications |
+| R-001-0024 |  | MEDIUM | Methodology example |
+| R-001-0025 |  | **HIGH** | Assessment methodology |
+| R-001-0026 |  | MEDIUM | Deficiency detection |
+| R-001-0027 |  | **HIGH** | Immunonutrition review |
 
 ---
 
@@ -315,8 +315,8 @@ This unit bridges foundational metabolomics (DE1-DE2) to **clinical application*
 5. **Immunomodulation** → Mechanistic rationale for high-dose
 
 ### Research Gaps to Fill
-1. [ ] Locate primary WHO source for 80% statistic (see [[Branca_etal_2019_Food_System_NCD_R-001-0011]])
-2. [ ] Find T1D metabolomics prediction primary studies (see [[Lamichhane_etal_2019_T1D_Metabolites_Prediction_R-001-0012]])
+1. [ ] Locate primary WHO source for 80% statistic (see )
+2. [ ] Find T1D metabolomics prediction primary studies (see )
 3. [ ] Validate adipic acid as predictive IR marker (literature search)
 4. [ ] Connect OS biomarkers to VitD intervention studies
 

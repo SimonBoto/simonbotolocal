@@ -6,7 +6,7 @@ aliases: [Z-001-1088, Trioses]
 domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, triose, glyceraldehyde, dihydroxyacetone, sugar]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
 source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
 confidence: high
@@ -24,7 +24,7 @@ Trioses are the simplest monosaccharides—three-carbon sugars that serve as fun
 - **Type:** Aldotriose (contains aldehyde group)
 - **Formula:** C₃H₆O₃
 - **Structure:** 3-carbon chain with aldehyde at C1
-- **Role:** Key intermediate in [[KEYWORD-Glycolysis|glycolysis]] and photosynthesis
+- **Role:** Key intermediate in  and photosynthesis
 
 ### 2. Dihydroxyacetone
 - **Type:** Ketotriose (contains ketone group)
@@ -49,7 +49,7 @@ Trioses are the simplest monosaccharides—three-carbon sugars that serve as fun
 - **Glyceraldehyde-3-phosphate:** Product of Calvin cycle
 - Key intermediate in carbon fixation
 
-### In [[KEYWORD-Metabolism|metabolism]]
+### In 
 - Building block for larger sugars
 - Precursor for glycerol (lipid backbone)
 - Entry point for gluconeogenesis
@@ -61,7 +61,7 @@ Trioses are the simplest monosaccharides—three-carbon sugars that serve as fun
 
 ## Related
 - [[Triose_Roles_Glycolysis_PPP_Krebs_Integration_[Z-001-1089].md]]
-- [[MOC-Glycolysis-PPP]]
+- 
 
 ---
-*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*
+*Source: CGPT-0445 — Advanced *

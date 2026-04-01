@@ -5,7 +5,7 @@ title: James Collip — The Purification Breakthrough
 aliases: [Collip, Insulin-Purification, Biochemist-Collip]
 domain: 001
 tags: [zettel, insulin, history, collib, purification, biochemistry]
-parent-moc: [[MOC-Diabetes-History]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Insulin_History_L-001-0207]]
 extraction-date: 2026-03-01
@@ -13,13 +13,13 @@ extraction-date: 2026-03-01
 
 # James Collip — The Purification Breakthrough
 
-> Biochemist James Collip's purification of [[KEYWORD-Insulin|insulin]] in late 1921 was the critical step that transformed crude pancreatic extracts into a safe, effective, and clinically usable medication, enabling the first successful human treatment.
+> Biochemist James Collip's purification of  in late 1921 was the critical step that transformed crude pancreatic extracts into a safe, effective, and clinically usable medication, enabling the first successful human treatment.
 
 ## James Bertram Collip (1892-1965)
 
 **Background:**
 - Canadian biochemist
-- PhD in [[KEYWORD-Biochemistry|biochemistry]] (University of Toronto)
+- PhD in  (University of Toronto)
 - Expert in hormone extraction and purification
 - On sabbatical from University of Alberta
 - Age 29 at time of contribution
@@ -113,7 +113,7 @@ extraction-date: 2026-03-01
 **METHAP Relevance:**
 - Reminder that breakthroughs require diverse skills
 - Clinical application depends on "details"
-- [[KEYWORD-Metabolomics|metabolomics]] similarly requires technical expertise
+-  similarly requires technical expertise
 
 ---
 
@@ -121,4 +121,4 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

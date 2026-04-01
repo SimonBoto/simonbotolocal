@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: High — Underutilized nutritional intervention for osteoporosis
 status: extracted
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -80,8 +80,8 @@ extraction-date: 2026-03-01
 ## Related References
 - [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]] — Nutritional combination
 - [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]] — Drug comparison
-- [[MOC-Bone-Health]] — Parent MOC
-- [[MOC-Nutrition]] — Nutrition context
+-  — Parent MOC
+-  — Nutrition context
 
 ---
 

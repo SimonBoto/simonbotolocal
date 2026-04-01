@@ -5,7 +5,7 @@ title: Propionate — Sources and Metabolic Fate
 aliases: [Propionate, SCFA, Gut-Microbiome, Gluconeogenesis]
 domain: 001
 tags: [zettel, propionate, scfa, gut, metabolism]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]
 extraction-date: 2026-03-01
@@ -26,7 +26,7 @@ extraction-date: 2026-03-01
 - Isoleucine, methionine, threonine, valine degradation
 - Produces propionyl-CoA → converted to propionate
 
-### Odd-Chain [[KEYWORD-Fatty_Acids|fatty acids]]
+### Odd-Chain 
 - 15:0 and 17:0 fatty acid oxidation
 - Terminal three carbons become propionyl-CoA
 
@@ -42,7 +42,7 @@ extraction-date: 2026-03-01
 - Propionate → Succinyl-CoA → Oxaloacetate → Glucose
 - Net glucose production (energy storage)
 
-### [[KEYWORD-Krebs_Cycle|krebs cycle]] Entry
+###  Entry
 - Via succinyl-CoA
 - Anaplerotic substrate
 
@@ -53,7 +53,7 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_B12_Amino_Acid_[[KEYWORD-Metabolism|metabolism]]_L-001-0405]]*
+*Source: _L-001-0405]]*
 
 
 ## RELATED FILES

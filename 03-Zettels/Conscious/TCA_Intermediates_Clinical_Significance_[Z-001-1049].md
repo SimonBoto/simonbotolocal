@@ -6,7 +6,7 @@ aliases: [Z-001-1049, TCA-Intermediates]
 domain: 001
 domain-name: Krebs Cycle
 tags: [zettel, tca-intermediates, oat, biomarkers]
-parent-moc: [[MOC-Krebs-Cycle]]
+parent-moc: 
 source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
 source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
 confidence: high
@@ -36,7 +36,7 @@ Each Krebs cycle intermediate has clinical meaning when elevated or depleted on 
 **Normal role:** Key intermediate; glutamate precursor
 **Elevated:** 
 - B-vitamin cofactor insufficiency
-- Glutamate [[KEYWORD-Metabolism|metabolism]] issues
+- Glutamate  issues
 **Clinical action:** B-complex support
 
 ### Succinyl-CoA
@@ -83,12 +83,12 @@ Each Krebs cycle intermediate has clinical meaning when elevated or depleted on 
 
 ## Related
 - [[Krebs_Cycle_Clinical_Biochemistry_[Z-001-1048].md]]
-- [[MOC-Krebs-Cycle]]
+- 
 
 ---
 *Source: CGPT-0022 — Mitochondrial biochemistry*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarker]]s/Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]]
-- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
+- s/Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]]
+- |Biomarkers MOC]]
 

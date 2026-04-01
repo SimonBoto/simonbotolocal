@@ -13,7 +13,7 @@ status: ref
 confidence: medium
 aliases: [R-001-0010, Theodoridis_2015_Systems_Biology_Greek]
 tags: [ref, systems-biology, omics, bioanalytical-chemistry, textbook, greek]
-parent-moc: [[MOC-References]]
+parent-moc: 
 source-type: book
 extraction-date: 2026-02-23
 ---

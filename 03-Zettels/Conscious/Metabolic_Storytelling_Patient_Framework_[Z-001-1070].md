@@ -6,7 +6,7 @@ aliases: [Z-001-1070, Storytelling]
 domain: 001
 domain-name: Clinical Communication
 tags: [zettel, communication, storytelling, patient-education]
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: 
 source-litnote: [[LitNote_Patient_Communication_Scripts_L-001-0595]]
 source: [[LitNote_Patient_Communication_Scripts_L-001-0595]]
 confidence: high
@@ -16,12 +16,12 @@ created: 2026-03-08
 # Metabolic Storytelling Patient Framework
 
 ## Overview
-Transform complex [[KEYWORD-Metabolomics|metabolomics]] findings into compelling, understandable narratives patients can act on.
+Transform complex  findings into compelling, understandable narratives patients can act on.
 
 ## The Storytelling Structure
 
 ### 1. The Hook (2 minutes)
-> "Here's what your [[KEYWORD-Metabolism|metabolism]] is telling us..."
+> "Here's what your  is telling us..."
 
 **Elements:**
 - One surprising insight
@@ -50,7 +50,7 @@ Transform complex [[KEYWORD-Metabolomics|metabolomics]] findings into compelling
 |-----------------|-------------------------|
 | **Mitochondria** | "Cellular power plants" |
 | **Oxidative stress** | "Biological rusting" |
-| **[[KEYWORD-Insulin|insulin]] resistance** | "Cells not answering the door" |
+| ** resistance** | "Cells not answering the door" |
 | **Gut dysbiosis** | "Garden overrun with weeds" |
 | **Metabolomics** | "Reading your body's dashboard" |
 
@@ -79,11 +79,11 @@ Transform complex [[KEYWORD-Metabolomics|metabolomics]] findings into compelling
 
 ## Related
 - [[Patient_Objection_Response_Scripts_[Z-001-1071].md]]
-- [[MOC-Clinical-Protocols]]
+- 
 
 ---
 *Source: CGPT-0022 — Patient communication*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

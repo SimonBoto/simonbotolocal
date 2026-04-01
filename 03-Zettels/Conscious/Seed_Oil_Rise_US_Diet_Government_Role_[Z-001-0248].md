@@ -5,7 +5,7 @@ title: Rise of Seed Oils in US Diet — Government and Industry Role
 aliases: [Seed-Oil-Rise, Government-Guidelines, Food-Pyramid]
 domain: 001
 tags: [zettel, nutrition, history, seed-oil, government, usda]
-parent-moc: [[MOC-Nutrition]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Dietary_Fat_History_L-001-0210]]
 extraction-date: 2026-03-01
@@ -67,13 +67,13 @@ extraction-date: 2026-03-01
 - Processed food industry boomed
 - Obesity/diabetes rates rose
 
-## [[KEYWORD-Nutrition|nutrition]]al Impact
+## al Impact
 
 **Fat Profile Change:**
 | Fat Type | 1900 | 2000 |
 |----------|------|------|
 | **Saturated** | High | Reduced |
-| **[[KEYWORD-Omega_6|omega-6]]** | Low | Very High |
+| **** | Low | Very High |
 | **Omega-3** | Moderate | Low |
 | **Trans fat** | None | High (now reduced) |
 
@@ -85,7 +85,7 @@ extraction-date: 2026-03-01
 ## Health Consequences (Debated)
 
 **Potential Harms:**
-- Increased [[KEYWORD-Inflammation|inflammation]]
+- Increased 
 - Oxidative stress
 - Cardiovascular risk?
 - Metabolic dysfunction?

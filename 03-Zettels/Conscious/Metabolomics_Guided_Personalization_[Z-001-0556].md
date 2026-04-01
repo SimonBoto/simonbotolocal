@@ -5,15 +5,15 @@ title: Metabolomics-Guided Personalization
 aliases: [Metabolomics, Organic-Acids, Personalization, Biomarkers]
 domain: 001
 tags: [zettel, metabolomics, organic-acids, personalization, biomarkers]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Metabolomics|metabolomics]]-Guided Personalization
+# -Guided Personalization
 
-> Urinary organic acid profiling provides objective [[KEYWORD-Biomarker|biomarker]]s for assessing mitochondrial function and personalizing interventions.
+> Urinary organic acid profiling provides objective s for assessing mitochondrial function and personalizing interventions.
 
 ## Why Organic Acids?
 
@@ -26,7 +26,7 @@ extraction-date: 2026-03-01
 
 | Marker | Indicates | Target |
 |--------|-----------|--------|
-| **Lactate** | Anaerobic [[KEYWORD-Metabolism|metabolism]] | B1, oxygenation |
+| **Lactate** | Anaerobic  | B1, oxygenation |
 | **Succinate** | Complex II | B2, CoQ10 |
 | **Citrate** | TCA upstream | Mg, aconitase |
 | **3-HMGA** | Fatty acid ox | Carnitine, B2 |
@@ -49,7 +49,7 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]]*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

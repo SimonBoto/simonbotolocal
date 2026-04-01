@@ -5,7 +5,7 @@ title: METHAP IRB Feedback Action Items
 aliases: [Z-101-0473]
 domain: 101
 tags: [zettel, methap, irb, ethics-committee, action-items, regulatory, phd, conscious]
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]]
 status: conscious
 ---
@@ -98,8 +98,8 @@ Create table:
 
 | Supplement | Dosage | EOΦ Approval | Potential Interactions |
 |------------|--------|--------------|------------------------|
-| [[KEYWORD-Vitamin_D|vitamin d]]3 | [X] IU | [Number] | Thiazide diuretics |
-| [[KEYWORD-Magnesium|magnesium]] | [X] mg | [Number] | Antibiotics, bisphosphonates |
+| 3 | [X] IU | [Number] | Thiazide diuretics |
+|  | [X] mg | [Number] | Antibiotics, bisphosphonates |
 | Omega-3 | [X] mg EPA/DHA | [Number] | Anticoagulants |
 | Glutamine | [X] g | [Number] | Anticonvulsants |
 | Vitamin C | [X] mg | [Number] | High-dose effects |
@@ -127,7 +127,7 @@ Add emergency contact procedure for adverse effects.
 
 ### 11. Professional Title Standardization
 **Action:** Use consistent title throughout:
-> *"Physician, PhD Candidate in Clinical [[KEYWORD-Metabolomics|metabolomics]]"*
+> *"Physician, PhD Candidate in Clinical "*
 
 ## Response Letter Structure
 

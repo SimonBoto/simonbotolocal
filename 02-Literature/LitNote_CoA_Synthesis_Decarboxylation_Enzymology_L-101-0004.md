@@ -15,7 +15,7 @@ domain: 101
 tags: [litnote, coenzyme-a, pantothenic-acid, vitamin-b5, decarboxylase, dehydrogenase, enzymology, cofactors]
 source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]]"
 status: extracted
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 extraction-date: 2026-03-02
 ---
 
@@ -172,8 +172,8 @@ extraction-date: 2026-03-02
 ## Related References
 - [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]] — Fatty acid oxidation context
 - [[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]] — Clinical application
-- [[MOC-Pharmacometabolomics]] — Parent MOC
-- [[MOC-Vitamin-B-Metabolism]] — Cofactor context
+-  — Parent MOC
+-  — Cofactor context
 
 ---
 

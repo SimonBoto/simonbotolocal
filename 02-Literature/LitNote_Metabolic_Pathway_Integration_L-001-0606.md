@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Glycolysis-PPP-Krebs connections, fuel switching, metabolic flexibility, substrate channeling
 status: extracted
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -83,9 +83,9 @@ Glycolysis       Beta-oxidation     Deamination
 4. [[Metabolic_Flexibility_Fuel_Switching_Capacity_[Z-001-1113].md]]
 
 ## Related References
-- [[MOC-Metabolomics-Training]]
-- [[MOC-Glycolysis-PPP]]
-- [[MOC-Krebs-Cycle]]
+- 
+- 
+- 
 
 ---
 

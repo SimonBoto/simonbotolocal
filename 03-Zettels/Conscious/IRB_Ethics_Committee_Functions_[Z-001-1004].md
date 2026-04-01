@@ -5,7 +5,7 @@ title: IRB and Ethics Committee Functions — Independent Review Requirements
 aliases: [Z-001-1004]
 domain: 001
 tags: [zettel, irb, ethics-committee, institutional-review-board, independent-review, 45-cfr-46, common-rule, approval, monitoring, conscious]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]]
 status: conscious
@@ -15,7 +15,7 @@ status: conscious
 
 ## Overview
 
-Institutional Review Boards (IRBs) in the U.S. and [[KEYWORD-Research|research]] Ethics Committees (RECs) internationally provide independent review to ensure protection of human research participants.
+Institutional Review Boards (IRBs) in the U.S. and  Ethics Committees (RECs) internationally provide independent review to ensure protection of human research participants.
 
 ## Purpose and Authority
 
@@ -145,7 +145,7 @@ Institutional Review Boards (IRBs) in the U.S. and [[KEYWORD-Research|research]]
 - Requirements of 46.116 met
 - Documented (46.117)
 
-**5. Data [[KEYWORD-Safety|safety]] Monitoring:**
+**5. Data  Monitoring:**
 - When appropriate, data monitoring
 - Stop rules if harm
 

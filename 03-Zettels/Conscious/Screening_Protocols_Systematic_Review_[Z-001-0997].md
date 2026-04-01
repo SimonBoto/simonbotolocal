@@ -5,7 +5,7 @@ title: Screening Protocols for Systematic Reviews — Dual Review and Conflict R
 aliases: [Z-001-0997]
 domain: 001
 tags: [zettel, systematic-review, screening, inclusion-criteria, exclusion-criteria, dual-review, rayyan, covidence, inter-rater-reliability, conscious]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]]
 status: conscious
@@ -61,7 +61,7 @@ Study screening is the process of evaluating search results against inclusion an
 | Element | Inclusion Criteria Example | Exclusion Criteria Example |
 |---------|---------------------------|---------------------------|
 | **Population** | Adults ≥18 years | Children, pregnant women |
-| **Intervention** | [[KEYWORD-Vitamin_D|vitamin d]] supplementation | Vitamin D from diet only |
+| **Intervention** |  supplementation | Vitamin D from diet only |
 | **Comparison** | Placebo or standard care | No comparator |
 | **Outcome** | Fasting glucose, HbA1c | Surrogate markers only |
 | **Study Design** | RCTs, controlled trials | Case reports, reviews |
@@ -81,7 +81,7 @@ Study screening is the process of evaluating search results against inclusion an
 - Pilot test before full screening
 
 **Justified:**
-- Based on [[KEYWORD-Research|research]] question
+- Based on  question
 - Document rationale
 
 ## Dual Review Methodology
@@ -356,7 +356,7 @@ Study screening is the process of evaluating search results against inclusion an
 6. Pilot before full screening
 7. Use appropriate software
 
-**[[KEYWORD-Clinical|clinical]] Pearl:** Screening is subjective despite criteria. Dual review and conflict resolution are not optional—they're essential quality control.
+** Pearl:** Screening is subjective despite criteria. Dual review and conflict resolution are not optional—they're essential quality control.
 
 ---
 

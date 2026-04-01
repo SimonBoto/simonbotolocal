@@ -12229,9 +12229,9 @@ For each episode:
 - Link them together at the top:
 
 Example at top of NOTES:
-- `source:: [[SRC - Podcast - ...]]`
-- `extracts:: [[EXTRACTS - Podcast - ...]]`
-- `feeds:: [[DR - Vitamin D - Core]] [[P - Vitamin D Immunoregulation]]`
+- `source:: `
+- `extracts:: `
+- `feeds::  `
 
 ### Step 4 — Create the first two “systems” (your highest ROI)
 From what you’ve already collected, your first systems should be:
@@ -12628,9 +12628,9 @@ Vitamin D (D3 → calcifediol → calcitriol) functions as a steroid hormone wit
 - “Vitamin D is the door key; the nutrients are the kitchen tools.”
 
 ## Links
-- Related: [[Protocol Card - Vitamin D Optimization]]
-- Related: [[PTH as a biological readout]]
-- Opposes: [[Vitamin D toxicity is common (myth)]]
+- Related: 
+- Related: 
+- Opposes: 
 
 ## Next actions
 - Expand: add contraindications + edge cases (renal failure, granulomatous disease)
@@ -12686,12 +12686,12 @@ Examples:
 
 ### Links: always to stable hubs
 We’ll maintain **MOCs** as anchors:
-- `[[MOC - Protocol Modules]]`
-- `[[MOC - Patient Flow]]`
-- `[[MOC - Phenotypes]]`
-- `[[MOC - Labs & Biomarkers]]`
-- `[[MOC - Supplements & Ingredients]]`
-- `[[MOC - Patient Objections & Metaphors]]`
+- ``
+- ``
+- ``
+- ``
+- ``
+- ``
 
 Every Zettel links **up** to at least one MOC and **sideways** to 2–5 peers.
 
@@ -12720,12 +12720,12 @@ Context / Source:
 [PASTE EPISODE EXCERPT / CASE SUMMARY / PROTOCOL TEXT HERE]
 
 MOCs available (link to these):
-[[MOC - Protocol Modules]]
-[[MOC - Patient Flow]]
-[[MOC - Phenotypes]]
-[[MOC - Labs & Biomarkers]]
-[[MOC - Supplements & Ingredients]]
-[[MOC - Patient Objections & Metaphors]]
+
+
+
+
+
+
 `‌`‌`
 
 That prompt is enough for me to produce consistent notes repeatedly.
@@ -12777,12 +12777,12 @@ Cool—let’s constrain ourselves to **what Obsidian already understands native
 
 Forget fancy arrows/emojis for now. Use only these:
 
-- `[[Link]]` internal links (the real neurons)
+- `` internal links (the real neurons)
 - `#tag` tags (fast filtering)
-- `![[Embed]]` embeds (reuse without copy/paste)
+- `!` embeds (reuse without copy/paste)
 - `- [ ]` tasks (workflows, TODOs)
 - `> ` quotes (source excerpts)
-- `^block-id` block references (pinpoint reuse: `[[Note#^block-id]]`)
+- `^block-id` block references (pinpoint reuse: ``)
 - Headings `# / ## / ###` (structure)
 - Callouts (still Markdown, native in Obsidian):  
   `> [!note]`, `> [!warning]`, `> [!tip]` etc.
@@ -12909,7 +12909,7 @@ Below is a **meticulous, system-first** setup: folders, tags, connections, and h
 3) **Links = meaning** (the actual intelligence layer)  
 4) **Templates = consistency** (same fields every time → searchability)  
 5) **Indexes (MOCs) = navigation** (humans browse; search is not enough)  
-6) **No duplication**: reuse via `![[embeds]]` and `^block references`.
+6) **No duplication**: reuse via `!` and `^block references`.
 
 ---
 
@@ -13001,30 +13001,30 @@ That’s already a lot of power with very few tags.
 Use **links as relationships**, not as decoration.
 
 **Dictionary terms** become your shared language nodes:
-- Example: `[[Vitamin D]]`, `[[PTH]]`, `[[Insulin resistance]]`, `[[Methylation]]`
+- Example: ``, ``, ``, ``
 
 **Phenotypes** are “problem buckets”:
-- `[[Autoimmunity phenotype]]`
-- `[[Insulin resistance phenotype]]`
-- `[[Dysbiosis phenotype]]`
+- ``
+- ``
+- ``
 
 **Labs** are “signals”:
-- `[[25(OH)D3]]`, `[[Calcium]]`, `[[Homocysteine]]`, `[[HbA1c]]`
-- `[[Organic Acids panel]]`, `[[Fatty Acids panel]]`
+- ``, ``, ``, ``
+- ``, ``
 
 **Decision rules** are “if/then engines”:
-- `[[D dosing rule — PTH guided]]`
-- `[[Safety gate — Calcium >11]]`
-- `[[Homocysteine escalation rule]]`
+- ``
+- ``
+- ``
 
 **Interventions** are “actions”:
-- `[[Vitamin D module]]`
-- `[[Gut repair module]]`
-- `[[Methylation module]]`
-- `[[Electrolytes + micronutrients base]]`
+- ``
+- ``
+- ``
+- ``
 
 **Patient flow** is “when actions happen”:
-- `[[Pre-visit intake]] → [[First appointment]] → [[Testing]] → [[Interpretation]] → [[Protocol build]] → [[Follow-ups]] → [[Retesting cadence]]`
+- ` →  →  →  →  →  → `
 
 ### B. Connection discipline (this is the secret sauce)
 Every **zettel/rule/protocol** must link to:
@@ -13118,7 +13118,7 @@ This makes your vault searchable like a database.
 ### B. Block references and embeds (kill duplication)
 When you write a perfect paragraph once:
 - add `^explain-d3-safety`
-- reuse anywhere with `![[Vitamin D module#^explain-d3-safety]]`
+- reuse anywhere with `!`
 
 This is how the vault becomes a **content factory**.
 
@@ -13245,7 +13245,7 @@ Below are **README-style explainer notes**—one per folder—written so the vau
 **What does NOT go here:** Raw dumps or one-off output drafts.  
 **Rules:**
 - Every knowledge note must link to at least:
-  - `[[Phenotype]]` + `[[Lab]]` + `[[Intervention/Module]]` (when applicable)
+  - `` + `` + `` (when applicable)
 - Prefer **links** over topic tags.
 **Suggested tags/properties:**
 - `#status/stable` + relevant `#type/...`
@@ -13422,7 +13422,7 @@ aliases: []
 -
 
 ## Measurement / markers (if applicable)
-- Related labs: [[ ]]
+- Related labs: 
 
 ## Common confusions / myths
 -
@@ -13431,11 +13431,11 @@ aliases: []
 -
 
 ## Links
-- Phenotypes: [[ ]]
-- Modules: [[ ]]
-- Decision rules: [[ ]]
-- Patient comms: [[ ]]
-- Sources: [[ ]]
+- Phenotypes: 
+- Modules: 
+- Decision rules: 
+- Patient comms: 
+- Sources: 
 `‌`‌`
 
 ---
@@ -13477,10 +13477,10 @@ sample: blood|urine|stool|other
 - Monitoring cadence:
 
 ## Links
-- Phenotypes: [[ ]]
-- Modules: [[ ]]
-- Decision rules: [[ ]]
-- Sources: [[ ]]
+- Phenotypes: 
+- Modules: 
+- Decision rules: 
+- Sources: 
 `‌`‌`
 
 ---
@@ -13508,7 +13508,7 @@ confidence: high|medium|low
 - 
 
 ## Inputs required
-- Labs: [[ ]]
+- Labs: 
 - Symptoms/signs:
 - Context (meds, comorbidities):
 
@@ -13521,10 +13521,10 @@ confidence: high|medium|low
 - When:
 
 ## Links
-- Labs: [[ ]]
-- Modules: [[ ]]
-- Phenotypes: [[ ]]
-- Sources: [[ ]]
+- Labs: 
+- Modules: 
+- Phenotypes: 
+- Sources: 
 `‌`‌`
 
 ---
@@ -13551,7 +13551,7 @@ scope: foundation|therapeutic|acute
 -
 
 ## Inputs needed
-- Labs: [[ ]]
+- Labs: 
 - History items:
 - Exam/metrics:
 
@@ -13560,12 +13560,12 @@ scope: foundation|therapeutic|acute
 -
 
 ### Supplements (default)
-- Product: [[ ]] — dose — timing — duration
-- Product: [[ ]] — dose — timing — duration
+- Product:  — dose — timing — duration
+- Product:  — dose — timing — duration
 
 ### Options / escalation
-- If X: [[Rule — ]]  
-- If Y: [[Rule — ]]
+- If X:   
+- If Y: 
 
 ## Targets (what “success” looks like)
 -
@@ -13581,14 +13581,14 @@ scope: foundation|therapeutic|acute
 ## Common patient objections + short answers
 - Objection:
   - Response:
-  - Metaphor: [[ ]]
+  - Metaphor: 
 
 ## Links
-- Decision rules: [[ ]]
-- Phenotypes: [[ ]]
-- Labs: [[ ]]
-- Patient comms: [[ ]]
-- Sources: [[ ]]
+- Decision rules: 
+- Phenotypes: 
+- Labs: 
+- Patient comms: 
+- Sources: 
 `‌`‌`
 
 ---
@@ -13613,7 +13613,7 @@ updated:
 - Triggers:
 
 ## Common lab signature
-- Labs: [[ ]]
+- Labs: 
 - Patterns:
 
 ## Core root problems (ranked)
@@ -13622,22 +13622,22 @@ updated:
 3. 
 
 ## First-line modules (sequence)
-1. [[Module — ]]
-2. [[Module — ]]
-3. [[Module — ]]
+1. 
+2. 
+3. 
 
 ## Decision rules frequently used
-- [[Rule — ]]
-- [[Rule — ]]
+- 
+- 
 
 ## Monitoring & endpoints
 -
 
 ## Links
-- Labs: [[ ]]
-- Modules: [[ ]]
-- Rules: [[ ]]
-- Sources: [[ ]]
+- Labs: 
+- Modules: 
+- Rules: 
+- Sources: 
 `‌`‌`
 
 ---
@@ -13668,24 +13668,24 @@ link:
 
 ## Extractable assets
 ### Candidate decision rules
-- IF…THEN…BECAUSE… (link later to [[Rule — ]])
+- IF…THEN…BECAUSE… (link later to )
 
 ### Candidate metaphors / scripts
-- (link later to [[Comms — ]])
+- (link later to )
 
 ### Candidate modules / steps
-- (link later to [[Module — ]])
+- (link later to )
 
 ### Definitions / terminology
-- (link later to [[Dictionary — ]])
+- (link later to )
 
 ## Notes / quotes (short)
 > 
 
 ## Actions
 - Create:
-  - [[ ]]
-  - [[ ]]
+  - 
+  - 
 `‌`‌`
 
 ---
@@ -13727,10 +13727,10 @@ format: one_liner|short|long
 - 
 
 ## Links
-- Modules: [[ ]]
-- Labs: [[ ]]
-- Phenotypes: [[ ]]
-- Sources: [[ ]]
+- Modules: 
+- Labs: 
+- Phenotypes: 
+- Sources: 
 `‌`‌`
 
 ---
@@ -13754,10 +13754,10 @@ channel: email|pdf|x|youtube|tiktok|handout
 ## Inputs
 - Patient context (if patient-facing):
 - Pull from:
-  - [[Module — ]]
-  - [[Rule — ]]
-  - [[Lab — ]]
-  - [[Comms — ]]
+  - 
+  - 
+  - 
+  - 
 
 ## Draft
 -
@@ -13778,7 +13778,7 @@ Create: `00_SYSTEM/SOP — Linking & Tag Rules`
 # SOP — Linking & Tag Rules
 
 ## Links first, tags second
-- Use [[links]] to connect concepts.
+- Use  to connect concepts.
 - Tags only for **type** and **status** (and optionally audience).
 
 ## Allowed tags (tight set)
@@ -13852,23 +13852,23 @@ updated:
 # HOME
 
 ## Today
-- Inbox triage: [[00_SYSTEM/01 — INBOX]]
-- Create notes using: [[00_SYSTEM/02 — TEMPLATES INDEX]]
-- Navigation: [[00_SYSTEM/03 — MAP OF CONTENTS]]
+- Inbox triage: 
+- Create notes using: 
+- Navigation: 
 
 ## Operating rules
-- [[00_SYSTEM/SOP — Linking & Tag Rules]]
+- 
 
 ## Active projects
-- [[90_PROJECTS/Project — Metabolomic Medicine Knowledge OS]]
-- [[90_PROJECTS/Project — Patient Flow App]]
-- [[90_PROJECTS/Project — Content Engine (X/YouTube/TikTok)]]
+- 
+- 
+- 
 
 ## Quick capture
-- New raw idea → [[00_SYSTEM/01 — INBOX]]
-- New term → [[10_DICTIONARY/Dictionary — Template]]
-- New rule → [[30_RULES/Rule — Template]]
-- New module → [[40_MODULES/Module — Template]]
+- New raw idea → 
+- New term → 
+- New rule → 
+- New module → 
 `‌`‌`
 
 ---
@@ -13920,16 +13920,16 @@ updated:
 # TEMPLATES INDEX
 
 ## Clinical knowledge
-- [[00_SYSTEM/Templates/TEMPLATE — Dictionary Term]]
-- [[00_SYSTEM/Templates/TEMPLATE — Lab Marker]]
-- [[00_SYSTEM/Templates/TEMPLATE — Decision Rule (If/Then/Because)]]
-- [[00_SYSTEM/Templates/TEMPLATE — Module / Protocol]]
-- [[00_SYSTEM/Templates/TEMPLATE — Phenotype]]
+- 
+- 
+- 
+- 
+- 
 
 ## Sources & communication
-- [[00_SYSTEM/Templates/TEMPLATE — Source (Podcast / Paper / Episode)]]
-- [[00_SYSTEM/Templates/TEMPLATE — Patient Communication (Script / Metaphor)]]
-- [[00_SYSTEM/Templates/TEMPLATE — Output (Email / Report / Handout / Video Script)]]
+- 
+- 
+- 
 `‌`‌`
 
 ---
@@ -13947,24 +13947,24 @@ updated:
 # MAP OF CONTENTS (MOC)
 
 ## Core clinical knowledge
-- [[10_DICTIONARY/00 — DICTIONARY (MOC)]]
-- [[20_LABS/00 — LABS (MOC)]]
-- [[30_RULES/00 — RULES (MOC)]]
-- [[40_MODULES/00 — MODULES (MOC)]]
-- [[50_PHENOTYPES/00 — PHENOTYPES (MOC)]]
+- 
+- 
+- 
+- 
+- 
 
 ## Patient flow + app
-- [[60_PATIENT_FLOW/00 — PATIENT FLOW (MOC)]]
-- [[70_APP_SPEC/00 — APP SPEC (MOC)]]
+- 
+- 
 
 ## Content engine
-- [[80_CONTENT/00 — CONTENT (MOC)]]
+- 
 
 ## Projects
-- [[90_PROJECTS/00 — PROJECTS (MOC)]]
+- 
 
 ## Sources archive
-- [[99_SOURCES/00 — SOURCES (MOC)]]
+- 
 `‌`‌`
 
 ---
@@ -13984,14 +13984,14 @@ updated:
 Purpose: locked terminology so we speak precisely.
 
 ## Core terms (seed list)
-- [[10_DICTIONARY/Dictionary — Vitamin D (Cholecalciferol)]]
-- [[10_DICTIONARY/Dictionary — PTH (Parathyroid Hormone)]]
-- [[10_DICTIONARY/Dictionary — Calcitriol]]
-- [[10_DICTIONARY/Dictionary — Insulin Resistance]]
-- [[10_DICTIONARY/Dictionary — Methylation / One-Carbon Metabolism]]
-- [[10_DICTIONARY/Dictionary — Dysbiosis]]
-- [[10_DICTIONARY/Dictionary — Oxidative Stress]]
-- [[10_DICTIONARY/Dictionary — ApoB]]
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 
 ## How to use
 - Every new rule/module must link to the relevant terms.
@@ -14013,24 +14013,24 @@ updated:
 # LABS (MOC)
 
 ## Vitamin D axis
-- [[20_LABS/Lab — 25(OH)D]]
-- [[20_LABS/Lab — Calcium (Total)]]
-- [[20_LABS/Lab — PTH]]
-- [[20_LABS/Lab — 1,25(OH)2D (Calcitriol)]]
+- 
+- 
+- 
+- 
 
 ## Metabolic health
-- [[20_LABS/Lab — Fasting Glucose]]
-- [[20_LABS/Lab — Fasting Insulin]]
-- [[20_LABS/Lab — HbA1c]]
-- [[20_LABS/Lab — Uric Acid]]
+- 
+- 
+- 
+- 
 
 ## Lipids / risk
-- [[20_LABS/Lab — Triglycerides]]
-- [[20_LABS/Lab — HDL]]
-- [[20_LABS/Lab — LDL]]
-- [[20_LABS/Lab — ApoB]]
-- [[20_LABS/Lab — Lp(a)]]
-- [[20_LABS/Lab — Omega-3 Index / Fatty Acid Profile]]
+- 
+- 
+- 
+- 
+- 
+- 
 
 ## How to use
 - Each lab note: targets + confounders + “what to do when abnormal”.
@@ -14052,20 +14052,20 @@ updated:
 # RULES (MOC)
 
 ## Vitamin D dosing & safety
-- [[30_RULES/Rule — IF Total Calcium > 11 THEN stop/escalate evaluation]]
-- [[30_RULES/Rule — IF PTH not suppressed THEN adjust Vitamin D + cofactors]]
-- [[30_RULES/Rule — IF dose > 25k IU THEN add extra K2]]
+- 
+- 
+- 
 
 ## Methylation / homocysteine
-- [[30_RULES/Rule — IF Homocysteine > 10 THEN add methyl-B12]]
-- [[30_RULES/Rule — IF Homocysteine remains > 7 after 4 months THEN escalate (B12/TMG)]]
+- 
+- 
 
 ## Gut / dysbiosis
-- [[30_RULES/Rule — IF dysbiosis THEN glutamine + probiotics + butyrate + mastic]]
-- [[30_RULES/Rule — IF difficult case THEN add oregano/garlic/olive leaf/etc]]
+- 
+- 
 
 ## Metabolic health
-- [[30_RULES/Rule — IF fasting insulin > X THEN intensify low-carb strategy]]
+- 
 
 ## How to use
 - Rules are atomic. One rule = one decision.
@@ -14087,16 +14087,16 @@ updated:
 # MODULES (MOC)
 
 ## Foundation modules
-- [[40_MODULES/Module — Diet Foundation (Animal-based, low oxalate)]]
-- [[40_MODULES/Module — Electrolytes & Trace Minerals]]
-- [[40_MODULES/Module — Vitamin C Complex (lysine/proline/bioflavonoids)]]
+- 
+- 
+- 
 
 ## Therapeutic modules
-- [[40_MODULES/Module — Vitamin D Optimization & Immune Regulation]]
-- [[40_MODULES/Module — Methylation & Homocysteine Optimization]]
-- [[40_MODULES/Module — Gut Barrier & Microbiome Optimization]]
-- [[40_MODULES/Module — Insulin Resistance Optimization]]
-- [[40_MODULES/Module — Lipid Quality & Fatty Acid Optimization]]
+- 
+- 
+- 
+- 
+- 
 
 ## How to use
 - Modules are “intervention bundles”.
@@ -14118,11 +14118,11 @@ updated:
 # PHENOTYPES (MOC)
 
 ## Seed phenotypes (draft)
-- [[50_PHENOTYPES/Phenotype — Autoimmune / Chronic Inflammation]]
-- [[50_PHENOTYPES/Phenotype — Insulin Resistance / Metabolic Syndrome]]
-- [[50_PHENOTYPES/Phenotype — Dysbiosis-dominant]]
-- [[50_PHENOTYPES/Phenotype — Mitochondrial Dysfunction / Krebs Block]]
-- [[50_PHENOTYPES/Phenotype — High Stress Hormone Pattern (Adrenaline/Cortisol)]]
+- 
+- 
+- 
+- 
+- 
 
 ## How to use
 - A phenotype links a patient pattern → modules sequence.
@@ -14144,16 +14144,16 @@ updated:
 # PATIENT FLOW (MOC)
 
 ## Stages
-1. [[60_PATIENT_FLOW/Stage — Pre-Visit Intake]]
-2. [[60_PATIENT_FLOW/Stage — First Appointment (History + Typing + Metrics)]]
-3. [[60_PATIENT_FLOW/Stage — Testing (Metabolomics + Labs)]]
-4. [[60_PATIENT_FLOW/Stage — Interpretation & Root Problems]]
-5. [[60_PATIENT_FLOW/Stage — Intervention Plan (Diet + Supplements)]]
-6. [[60_PATIENT_FLOW/Stage — Follow-ups (Compliance + Symptoms)]]
-7. [[60_PATIENT_FLOW/Stage — Re-testing (4/8/16/28 months)]]
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
 
 ## Outputs
-- Patient email/report templates → [[80_CONTENT/Output — Patient Report (MOC)]]
+- Patient email/report templates → 
 `‌`‌`
 
 ---
@@ -14188,8 +14188,8 @@ updated:
 - Messaging / tasks
 
 ## Links
-- Patient flow: [[60_PATIENT_FLOW/00 — PATIENT FLOW (MOC)]]
-- Clinical logic: [[30_RULES/00 — RULES (MOC)]], [[40_MODULES/00 — MODULES (MOC)]]
+- Patient flow: 
+- Clinical logic: , 
 `‌`‌`
 
 ---
@@ -14207,15 +14207,15 @@ updated:
 # CONTENT (MOC)
 
 ## Content types
-- [[80_CONTENT/Format — X Thread]]
-- [[80_CONTENT/Format — YouTube Faceless Script]]
-- [[80_CONTENT/Format — TikTok Hook + 45s]]
-- [[80_CONTENT/Format — Patient Handout]]
+- 
+- 
+- 
+- 
 
 ## Source → content pipeline
-1) Add episode notes: [[99_SOURCES/00 — SOURCES (MOC)]]
+1) Add episode notes: 
 2) Extract: rules / metaphors / modules
-3) Produce outputs: [[80_CONTENT/Output — Patient Report (MOC)]]
+3) Produce outputs: 
 
 ## High-yield themes (seed)
 - Vitamin D safety & “toxicity myth”
@@ -14240,10 +14240,10 @@ updated:
 # Output — Patient Report (MOC)
 
 ## Email/report templates
-- [[80_CONTENT/Output — Baseline Email]]
-- [[80_CONTENT/Output — Follow-Up Email]]
-- [[80_CONTENT/Output — Regimen Email]]
-- [[80_CONTENT/Output — Biochemical Report Template]]
+- 
+- 
+- 
+- 
 
 ## Rules
 - Every output links to the modules/rules used.
@@ -14330,9 +14330,9 @@ Collect the minimum data to make the first appointment high-signal (history, phe
 - “Test set” decision (which labs + which metabolomics)
 
 ## Links
-- Phenotypes: [[50_PHENOTYPES/00 — PHENOTYPES (MOC)]]
-- Labs: [[20_LABS/00 — LABS (MOC)]]
-- Rules: [[30_RULES/00 — RULES (MOC)]]
+- Phenotypes: 
+- Labs: 
+- Rules: 
 
 ## Checklist (operator)
 - [ ] Intake complete
@@ -14382,8 +14382,8 @@ Convert the story into a structured problem list + decide testing + set expectat
 - Follow-up cadence: 15 days dietitian + 1 month + 4 months retest (adjustable)
 
 ## Links
-- Patient messaging outputs: [[80_CONTENT/Output — Patient Report (MOC)]]
-- Modules: [[40_MODULES/00 — MODULES (MOC)]]
+- Patient messaging outputs: 
+- Modules: 
 `‌`‌`
 
 ---
@@ -14426,8 +14426,8 @@ Get the data needed to assign phenotype(s) and build an intervention plan.
 - Any immediate safety alerts flagged (e.g., Ca > 11)
 
 ## Links
-- Labs MOC: [[20_LABS/00 — LABS (MOC)]]
-- Safety rule: [[30_RULES/Rule — IF Total Calcium > 11 THEN stop/escalate evaluation]]
+- Labs MOC: 
+- Safety rule: 
 `‌`‌`
 
 ---
@@ -14466,9 +14466,9 @@ Turn results into a ranked causal map: “what blocks healing right now?”
 - Monitoring plan (symptoms + labs)
 
 ## Links
-- Phenotypes: [[50_PHENOTYPES/00 — PHENOTYPES (MOC)]]
-- Modules: [[40_MODULES/00 — MODULES (MOC)]]
-- Rules: [[30_RULES/00 — RULES (MOC)]]
+- Phenotypes: 
+- Modules: 
+- Rules: 
 `‌`‌`
 
 ---
@@ -14515,8 +14515,8 @@ Deliver a plan the patient can execute: diet ladder + supplement stack + expecta
 - Next appointments: 15d + 1mo dietitian, 4mo retest
 
 ## Links
-- Modules: [[40_MODULES/00 — MODULES (MOC)]]
-- Patient outputs: [[80_CONTENT/Output — Patient Report (MOC)]]
+- Modules: 
+- Patient outputs: 
 `‌`‌`
 
 ---
@@ -14567,7 +14567,7 @@ Keep adherence high, detect predictable dips, and adjust dosing/modules.
 - Any hypercalcemia symptoms or Ca trend → trigger calcium gate rule
 
 ## Links
-- Rules MOC: [[30_RULES/00 — RULES (MOC)]]
+- Rules MOC: 
 `‌`‌`
 
 ---
@@ -14606,8 +14606,8 @@ Quantify response, update phenotype, and re-optimize modules/doses.
 - Next retest date set
 
 ## Links
-- Interpretation stage: [[60_PATIENT_FLOW/Stage — Interpretation & Root Problems]]
-- Intervention stage: [[60_PATIENT_FLOW/Stage — Intervention Plan (Diet + Supplements)]]
+- Interpretation stage: 
+- Intervention stage: 
 `‌`‌`
 
 ---
@@ -14672,9 +14672,9 @@ updated:
 - Patient message:
 
 ## LINKS
-- Phenotypes: [[50_PHENOTYPES/00 — PHENOTYPES (MOC)]]
-- Modules: [[40_MODULES/00 — MODULES (MOC)]]
-- Stages: [[60_PATIENT_FLOW/Stage — Interpretation & Root Problems]]
+- Phenotypes: 
+- Modules: 
+- Stages: 
 
 #tags: #type/rule
 `‌`‌`
@@ -14730,9 +14730,9 @@ updated:
 -
 
 ## Links
-- Rules: [[30_RULES/00 — RULES (MOC)]]
-- Phenotypes: [[50_PHENOTYPES/00 — PHENOTYPES (MOC)]]
-- Products: [[70_PRODUCTS/00 — PRODUCTS (MOC)]]
+- Rules: 
+- Phenotypes: 
+- Products: 
 
 #tags: #type/module
 `‌`‌`
@@ -14771,9 +14771,9 @@ updated:
 3.
 
 ## First-line modules (sequence)
-1. [[40_MODULES/Module — ]]
-2. [[40_MODULES/Module — ]]
-3. [[40_MODULES/Module — ]]
+1. 
+2. 
+3. 
 
 ## Common mistakes
 - 
@@ -14782,8 +14782,8 @@ updated:
 -
 
 ## Links
-- Rules: [[30_RULES/00 — RULES (MOC)]]
-- Stages: [[60_PATIENT_FLOW/Stage — Interpretation & Root Problems]]
+- Rules: 
+- Stages: 
 
 #tags: #type/phenotype
 `‌`‌`
@@ -14814,16 +14814,16 @@ updated:
 - 
 
 ## Rules extracted
-- [[30_RULES/Rule — ]] — (1 line why)
+-  — (1 line why)
 
 ## Modules supported
-- [[40_MODULES/Module — ]]
+- 
 
 ## Metaphors / phrases worth reusing
 - 
 
 ## Definitions / terminology
-- [[00_DICTIONARY/Term — ]]
+- 
 
 ## Objections & rebuttals
 - 
@@ -14869,8 +14869,8 @@ updated:
 - 
 
 ## Links
-- Modules: [[40_MODULES/00 — MODULES (MOC)]]
-- Rules: [[30_RULES/00 — RULES (MOC)]]
+- Modules: 
+- Rules: 
 
 #tags: #type/product
 `‌`‌`
@@ -14922,8 +14922,8 @@ updated:
 - 8 months:
 
 ## Rules learned
-- [[30_RULES/Rule — ]]
-- [[30_RULES/Rule — ]]
+- 
+- 
 
 #tags: #type/case
 `‌`‌`
@@ -14998,8 +14998,8 @@ updated:
 -
 
 ## Links
-- Related terms: [[00_DICTIONARY/Term — ]]
-- Modules: [[40_MODULES/00 — MODULES (MOC)]]
+- Related terms: 
+- Modules: 
 
 #tags: #type/term
 `‌`‌`
@@ -15035,15 +15035,15 @@ updated:
 # RULES (MOC)
 
 ## By domain
-- [[30_RULES/Domain — Vitamin D]]
-- [[30_RULES/Domain — Insulin]]
-- [[30_RULES/Domain — Gut]]
-- [[30_RULES/Domain — Lipids]]
-- [[30_RULES/Domain — Oxidative Stress]]
-- [[30_RULES/Domain — Methylation]]
+- 
+- 
+- 
+- 
+- 
+- 
 
 ## Safety gates
-- [[30_RULES/Rule — Calcium Gate (Total Ca > 11)]]
+- 
 
 #tags: #type/moc
 `‌`‌`
@@ -15059,13 +15059,13 @@ updated:
 # MODULES (MOC)
 
 ## Core clinical modules
-- [[40_MODULES/Module — Vitamin D Axis]]
-- [[40_MODULES/Module — Electrolytes & Minerals Foundation]]
-- [[40_MODULES/Module — Mitochondria / Krebs Support]]
-- [[40_MODULES/Module — Oxidative Stress Resolution]]
-- [[40_MODULES/Module — Microbiome Rebuild]]
-- [[40_MODULES/Module — Omega Balance / Inflammation Resolution]]
-- [[40_MODULES/Module — Methylation Support]]
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 
 #tags: #type/moc
 `‌`‌`
@@ -15117,7 +15117,7 @@ My job is to turn that into **small, atomic notes** that are immediately usable.
 2) **I return a “Note Pack”**:  
    - **3–7 notes total**, each **≤ 12 lines**  
    - already formatted for Obsidian (frontmatter optional, minimal)  
-   - with links `[[Like This]]` and tags `#like/this`  
+   - with links `` and tags `#like/this`  
    - plus **ONE next action** (not 10)
 
 3) You copy-paste the pack into Obsidian (or even into one file first), done.
@@ -15538,13 +15538,13 @@ Example (copy-paste):
 - Canon lives in 10_Canon; raw captures in 00_Inbox.
 
 ## Domain MOCs
-- [[MOC — Vitamin D]]
-- [[MOC — Methylation]]
-- [[MOC — Gut]]
-- [[MOC — Insulin Resistance]]
-- [[MOC — Lipids]]
-- [[MOC — Micronutrients]]
-- [[MOC — Diet]]
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 
 ## Build queue (next 10 notes)
 1.
@@ -15565,19 +15565,19 @@ Then each domain gets a single MOC.
 # MOC — Vitamin D
 
 ## Canon
-- [[Protocol — Vitamin D Optimization]]
-- [[Decision Rules — Vitamin D (v1)]]
-- [[Test — 25(OH)D / PTH / Calcium]]
-- [[Phenotype — Vitamin D Resistance]]
+- 
+- 
+- 
+- 
 
 ## Key atoms
-- [[Atom — PTH as Vitamin D action proxy]]
-- [[Atom — Total Ca >11 as safety gate]]
-- [[Atom — Cofactors: magnesium + K2 logic]]
+- 
+- 
+- 
 
 ## Comms
-- [[Metaphor — D is the door]]
-- [[Objection Script — “I’m afraid of toxicity”]]
+- 
+- 
 `‌`‌`
 
 This becomes your “ultimate note system”: one index that carves into MOCs that carve into atoms/cards/briefs.
@@ -15966,7 +15966,7 @@ source:
 -
 
 ## Links
-- Related: [[ ]]
+- Related: 
 `‌`‌`
 
 ### B) `20_Protocols/_template_protocol.md`
@@ -16005,10 +16005,10 @@ source:
 - Yearly:
 
 ## Decision rules used
-- [[ ]]
+- 
 
 ## Patient messaging (metaphors)
-- [[ ]]
+- 
 `‌`‌`
 
 ### C) `30_Rules/_template_rule.md`
@@ -16036,7 +16036,7 @@ source:
 - labs / symptoms / stop rules:
 
 ## Used in
-- [[ ]]
+- 
 `‌`‌`
 
 ### D) `40_Cases/_template_case.md`
@@ -16068,7 +16068,7 @@ source: clinic
 3.
 
 ## Intervention chosen
-- Protocol(s): [[ ]]
+- Protocol(s): 
 - Supplements:
 - Diet:
 
@@ -16078,7 +16078,7 @@ source: clinic
 - Notes:
 
 ## Extracted rules / zettels
-- [[ ]]
+- 
 `‌`‌`
 
 ---
@@ -16192,210 +16192,13 @@ SORT file.mtime desc
 ## Rules not linked to any protocol (orphans)
 `‌`‌`dataview
 LIST FROM "30_Rules"
-WHERE status != "deprecated" AND !contains(file.text, "[[")
-SORT file.mtime desc
-`‌`‌`
-`‌`‌`
-
-### C) `60_Dashboards/20_Case Pattern Finder.md`
-`‌`‌`markdown
----
-type: dashboard
-status: canon
-created: <% tp.date.now("YYYY-MM-DD") %>
----
-
-# Case Pattern Finder
-
-## Recent cases
-`‌`‌`dataview
-TABLE domain, status, file.mtime as Updated
-FROM "40_Cases"
-SORT file.mtime desc
-LIMIT 20
-`‌`‌`
-
-## Cases missing extracted rules
-`‌`‌`dataview
-LIST FROM "40_Cases"
-WHERE !contains(file.text, "## Extracted rules")
-   OR contains(file.text, "## Extracted rules") AND !contains(file.text, "[[")
-SORT file.mtime desc
-`‌`‌`
-`‌`‌`
-
----
-
-## 5) How we cooperate (so you don’t drown)
-You paste *raw stuff* into `00_Inbox`. Then you tell me:
-
-**“Convert this inbox note into: 3 zettels + 1 rule + 1 protocol update”**  
-…and I output **short notes** in the right template format, with suggested `domain` + `status` + links.
-
-To keep it realistic: we’ll process **one inbox item at a time**, and each pass produces a **small fixed number** of notes.
-
----
-
-## Next step
-Create these 8 files:
-- 4 templates (zettel/protocol/rule/case)
-- hub template
-- 3 dashboards
-
-Then drop your first Inbox item (any podcast chunk, rule list, or that Vitamin D dosing doctrine) and I’ll convert it into the first clean set of Zettels/Rules/Protocol entries with proper linking.
-
----
-
-### 164. **Simos:**
-
-this became too much again my friend. slow down and focus. 
-
-i just built the folders. do we also need one for templates? how does templater provided us with benefit? 
-
-maybe we start by organising a folder at the time 
-
----
-
-### 165. **ChatGPT:**
-
-You’re right. We zoomed into “build the spaceship” before we finished bolting the wheels on.
-
-### Do we need a Templates folder?
-Yes — **one**. Minimal. It prevents chaos.
-
-**Add this folder:**
-- `05_Templates`
-
-That’s it. No subfolders unless you *feel pain* later.
-
-Why it matters: Obsidian templates are “invisible infrastructure.” You don’t browse them; you just *use* them to create notes correctly in 3 seconds.
-
----
-
-## What benefit does Templater actually give you?
-Think of it as **autopilot for boring parts**.
-
-Without Templater:
-- You manually type headers, metadata, dates, default sections
-- Notes drift → your vault becomes inconsistent → Dataview becomes annoying
-
-With Templater (even used lightly):
-- **Auto-add date**
-- **Ask you 1–2 questions** (domain/type/status)
-- **Auto-place the note in the correct folder**
-- Auto-add the correct skeleton so you can just write content
-
-The “win” is not fancy AI stuff. It’s **consistency with near-zero effort**.
-
-If you hate prompts/popups, we can keep Templater super light: only date + basic skeleton.
-
----
-
-## Let’s do one folder at a time (starting with Inbox)
-### Folder 00_Inbox — what it’s for
-A holding pen. Nothing in Inbox needs to be perfect. It’s where:
-- podcast notes land
-- ideas land
-- raw screenshots/text land
-- “later” land
-
-### Rule for Inbox
-**Everything in Inbox must be processed or deleted.**  
-No “semi-permanent” notes live there.
-
-### Processing step (your simplest workflow)
-1. Dump raw content into `00_Inbox`
-2. When ready, we convert it into **one** of:
-   - `10_Zettels` (a single idea)
-   - `20_Protocols` (a clinical protocol)
-   - `30_Rules` (IF/THEN)
-   - `40_Cases` (real patient case)
-   - or keep as “reference” and move to `50_Library`
-
-That’s the whole machine.
-
----
-
-## Next concrete action (small)
-1) Create folder `05_Templates`  
-2) Create **one** template file only:
-- `05_Templates/_basic.md`
-
-Paste this inside (short and usable):
-`‌`‌`markdown
----
-created: {{date:YYYY-MM-DD}}
-status: draft
----
-
-# {{title}}
-
-## Notes
--
-`‌`‌`
-
-That alone is enough to start.
-
----
-
-We proceed folder-by-folder. Next we should lock down **10_Zettels** (what counts as a Zettel, how short, how to name), and we keep it brutally simple so you actually use it.
-
----
-
-### 166. **Simos:**
-
-i named it "100_templates" fyi 
-
-let's create and about inbox note with all these info and then for all the rest. make it be first in the list so that it is easy to remeber the rules when needed and do not mess with folder organisation 
-
----
-
-### 167. **ChatGPT:**
-
-I’ll create copy-paste Obsidian notes (short, rule-focused) for your folders, starting with a “START HERE” index plus an Inbox explainer, then one note per remaining folder—so you always have the rules at hand.
-
----
-
-### 168. **ChatGPT:**
-
-Perfect — `100_Templates` is totally fine. (Numbering wins: your template folder will always sit where your eyes can find it.)
-
-Below are **copy-paste ready Obsidian notes**. I’m making a **single “START HERE” note** that you pin/star, plus **one explainer note per folder**. Keep them short, rule-focused, and operational.
-
----
-
-# ✅ 00_Inbox/_START HERE — Vault Rules (PIN THIS).md
-`‌`‌`markdown
----
-type: hub
-status: stable
----
-
-# START HERE — Vault Rules (PIN THIS)
-
-## The only goal
-Keep the vault *usable* under pressure: fast capture → reliable processing → searchable knowledge.
-
-## Golden rules (do not negotiate)
-- **00_Inbox is temporary.** Nothing “lives” there.
-- Every note must end up in exactly **one** destination folder:
-  - `10_Zettels` (one idea)
-  - `20_Protocols` (what we do)
-  - `30_Rules` (IF/THEN)
-  - `40_Cases` (real patient journey)
-  - `50_Library` (source/reference)
-- If a note doesn’t deserve processing: **delete it**.
-
-## The processing move (the whole system)
-1) Capture fast in `00_Inbox`
-2) Convert into ONE of the destination types above
-3) Link it to something meaningful (at least one `[[...]]`)
+WHERE status != "deprecated" AND !contains(file.text, "`)
 
 ## Minimal quality bar
 A note is “done” when it has:
 - a clear title
 - 3–10 lines of content
-- at least 1 link (`[[...]]`) OR 1 tag (`#...`)
+- at least 1 link (``) OR 1 tag (`#...`)
 
 ## When in doubt
 - If it’s raw material → `50_Library`
@@ -16440,7 +16243,7 @@ Every item in Inbox must be **processed → moved** or **deleted**.
 ## Quick processing checklist
 - What is this *type*?
 - Where does it *live*?
-- Add 1 link: `[[Domain Hub]]` or `[[Protocol]]`
+- Add 1 link: `` or ``
 `‌`‌`
 
 ---
@@ -16472,7 +16275,7 @@ If you see “and”, split it.
 ## Must include
 - The claim/idea in 1 sentence
 - The mechanism or rationale in 1–3 bullets
-- At least one link: `[[Protocol]]` or `[[Domain Hub]]`
+- At least one link: `` or ``
 
 ## Naming
 Short, descriptive:
@@ -16504,9 +16307,9 @@ Repeatable intervention playbooks.
 
 ## Links
 Protocols should link to:
-- supporting `[[Rules]]`
-- supporting `[[Zettels]]`
-- relevant `[[Cases]]`
+- supporting ``
+- supporting ``
+- relevant ``
 `‌`‌`
 
 ---
@@ -16538,8 +16341,8 @@ Clinical logic distilled into executable rules.
 
 ## Links
 Every rule should link to at least one:
-- `[[Protocol]]` it supports
-- `[[Case]]` where it applied
+- `` it supports
+- `` where it applied
 `‌`‌`
 
 ---
@@ -16569,9 +16372,9 @@ A case is not a textbook. It’s a timeline.
 
 ## Links
 Cases should link to:
-- `[[Protocols]]` used
-- `[[Rules]]` triggered
-- `[[Zettels]]` learned
+- `` used
+- `` triggered
+- `` learned
 `‌`‌`
 
 ---
@@ -16661,9 +16464,9 @@ status: stable
 ## Purpose
 High-level navigation pages.
 Examples:
-- `[[Domain Hub — Vitamin D]]`
-- `[[Domain Hub — Insulin Resistance]]`
-- `[[Domain Hub — Microbiome]]`
+- ``
+- ``
+- ``
 
 ## Rule
 A hub is not an essay.
@@ -16671,10 +16474,10 @@ It’s a curated list of links + 5–15 bullet structure.
 
 ## Links
 Each hub should point to:
-- key `[[Protocols]]`
-- key `[[Rules]]`
-- key `[[Zettels]]`
-- exemplar `[[Cases]]`
+- key ``
+- key ``
+- key ``
+- exemplar ``
 `‌`‌`
 
 ---
@@ -16751,7 +16554,7 @@ Fast capture -> clean processing -> reusable knowledge.
 1) Capture in 00_Inbox
 2) Decide type (Zettel / Protocol / Rule / Case / Library)
 3) Move note
-4) Add at least one link [[...]] or one tag #...
+4) Add at least one link  or one tag #...
 
 ## Done definition
 - Clear title
@@ -16817,7 +16620,7 @@ If you write "and", split.
 ## Must include
 - 1 sentence claim
 - 1-3 bullets why/how
-- 1 link [[Domain_Hub...]] or [[Protocol...]]
+- 1 link  or 
 `‌`‌`
 
 ---
@@ -16844,7 +16647,7 @@ Repeatable clinical playbooks.
 
 ## Links
 Protocols link to supporting:
-[[Rules]], [[Zettels]], [[Cases]]
+, , 
 `‌`‌`
 
 ---
@@ -16870,7 +16673,7 @@ CHECK ... (optional labs or safety)
 
 ## Links
 Each rule links to at least one:
-[[Protocol...]] and or [[Case...]]
+ and or 
 `‌`‌`
 
 ---
@@ -16897,7 +16700,7 @@ Ground truth patient timelines.
 
 ## Links
 Cases link to:
-[[Protocols]] used, [[Rules]] triggered, [[Zettels]] learned
+ used,  triggered,  learned
 `‌`‌`
 
 ---
@@ -17107,9 +16910,9 @@ Tags for everything (“#k2 #mk7 #pht #calcium_score #sardines”) → search be
 Tags are for filtering. **Links are for thinking + navigation.**
 
 ### Efficiency-first link rules
-- Every Zettel links to **one Domain Hub**: `[[111_Domain_Hubs/...]]`
+- Every Zettel links to **one Domain Hub**: ``
 - Every Rule links to:
-  - one Protocol `[[20_Protocols/...]]`
+  - one Protocol ``
   - and optionally one Zettel (the concept behind it)
 - Every Protocol links to:
   - the 3–10 Rules it uses
@@ -17375,13 +17178,13 @@ Links must have a role. If you cannot name the role, do not link.
 ## Examples (copy pattern)
 
 **Rule note**
-Implements: [[Protocol - Vitamin D Optimization]]
-Explains: [[Vitamin D - Resistance Model]]
-Defines: [[D3 - cholecalciferol]]
+Implements: 
+Explains: 
+Defines: 
 
 **Case note**
-Applies to: [[Protocol - Gut Repair]]
-Triggered rules: [[Rule - Homocysteine Escalation]]
+Applies to: 
+Triggered rules: 
 `‌`‌`
 
 ---
@@ -17490,9 +17293,9 @@ Avoid domain tags unless you really need them.
 ## Linking rules for dictionary entries
 Dictionary entries should link outward, not collect everything.
 Allowed roles:
-- Explains: [[Zettel - ...]]
-- Implements: [[Protocol - ...]]
-- Used in: [[Rule - ...]]
+- Explains: 
+- Implements: 
+- Used in: 
 `‌`‌`
 
 ---
@@ -18450,9 +18253,9 @@ tags: [type/hub, domain/vitamin_d, status/active]
 - PTH: goal <20, but relief > target
 
 ## Links to build next
-- [[RULE - Vitamin D - Safety Gates]]
-- [[RULE - Vitamin D - Dosing Ladder]]
-- [[PROTOCOL - Vitamin D - Cofactors]]
+- 
+- 
+- 
 `‌`‌`
 
 That’s it. No Dataview yet. No sub-hubs yet.
@@ -18830,16 +18633,16 @@ tags:
 - Co-factors are non-negotiable: magnesium + K2 MK7 are baseline.
 
 ## Decision rules (to link as we create them)
-- [[30_Rules/About Vitamin D decision rules]]  <!-- create later -->
-- [[30_Rules/Rule Vitamin D safety gates]]     <!-- create later -->
+-   <!-- create later -->
+-      <!-- create later -->
 
 ## Protocols (to link)
-- [[20_Protocols/Protocol Vitamin D baseline]] <!-- create later -->
-- [[20_Protocols/Protocol Vitamin D acute inflammation]] <!-- create later -->
+-  <!-- create later -->
+-  <!-- create later -->
 
 ## Related domains
-- [[111_Domain Hubs/111_Hub_Inflammation]]  <!-- later -->
-- [[111_Domain Hubs/111_Hub_Minerals]]      <!-- later -->
+-   <!-- later -->
+-       <!-- later -->
 
 ## Open questions
 - Define “acute inflammation escalation” boundaries (duration, labs, follow-up cadence).
@@ -18873,17 +18676,17 @@ tags:
 - Triglycerides: keep low as a practical proxy for metabolic stress.
 
 ## Decision rules (to link as we create them)
-- [[30_Rules/Rule IR fasting insulin threshold]]  <!-- create later -->
-- [[30_Rules/Rule IR triglycerides interpretation]] <!-- create later -->
+-   <!-- create later -->
+-  <!-- create later -->
 
 ## Protocols (to link)
-- [[20_Protocols/Protocol IR diet framework]]     <!-- create later -->
-- [[20_Protocols/Protocol IR follow up cadence]]  <!-- create later -->
+-      <!-- create later -->
+-   <!-- create later -->
 
 ## Related domains
-- [[111_Domain Hubs/111_Hub_Lipids]]          <!-- later -->
-- [[111_Domain Hubs/111_Hub_Diet_Framework]]  <!-- later -->
-- [[111_Domain Hubs/111_Hub_Inflammation]]    <!-- later -->
+-           <!-- later -->
+-   <!-- later -->
+-     <!-- later -->
 
 ## Open questions
 - Define the clinic’s “minimum data set” for IR classification (labs + symptoms + anthropometrics).
@@ -18916,7 +18719,7 @@ Yep — and no, you **don’t need to open/create the “later” notes yet**.
 
 In Obsidian you have two clean options:
 
-- **Option A (recommended):** Leave the `[[links]]` pointing to not-yet-created notes. Obsidian will show them as **unresolved**. We’ll create them only when we reach that folder/topic. Zero clutter.
+- **Option A (recommended):** Leave the `` pointing to not-yet-created notes. Obsidian will show them as **unresolved**. We’ll create them only when we reach that folder/topic. Zero clutter.
 - **Option B (only if you want zero red links):** Create **stub notes** (empty skeletons) later. But this can explode into lots of empty files fast, so I’d avoid it until you feel friction.
 
 Now, here is the **one rule note** we agreed on.
@@ -19011,8 +18814,8 @@ tags:
 # Protocol Vitamin D Dosing + Safety Workflow
 
 Links:
-- [[Rule_Vitamin_D_Safety_Gates]]
-- [[111_Domain_Hubs/Vitamin_D_Hub]] (optional)
+- 
+-  (optional)
 
 ## 0) Purpose
 Operational workflow for Vitamin D dosing, co-factors, escalation, and safety gates (clinic doctrine).
@@ -19025,7 +18828,7 @@ Collect/confirm (recent or baseline):
 - Creatinine/eGFR
 
 Hard stop gate:
-- IF total calcium > 11 mg/dL → follow [[Rule_Vitamin_D_Safety_Gates]] (pause escalation + investigate)
+- IF total calcium > 11 mg/dL → follow  (pause escalation + investigate)
 
 ## 2) Baseline regimen (default start)
 - Vitamin D3: 10,000 IU/day (floor standard; target ~80 ng/mL functional minimum)
@@ -19067,7 +18870,7 @@ Interpretation anchors:
 - If relief comes first, do not force escalation only for PTH
 
 Safety:
-- Any unexplained calcium rise or symptoms compatible with hypercalcemia → pause escalation and reassess via [[Rule_Vitamin_D_Safety_Gates]]
+- Any unexplained calcium rise or symptoms compatible with hypercalcemia → pause escalation and reassess via 
 
 ## 6) Maintenance
 - Default maintenance: 12,000–15,000 IU/day (after build)
@@ -19123,11 +18926,11 @@ Below is copy-paste ready Obsidian text with your tag pool rules.
 ## Purpose
 Domain Hubs are **navigation + synthesis** notes.
 They do NOT store everything. They point to:
-- [[10_Zettels_About]]
-- [[20_Protocols_About]]
-- [[30_Rules_About]]
-- [[40_Cases_About]]
-- [[70_Dictionary_About]]
+- 
+- 
+- 
+- 
+- 
 
 ## What a Hub contains (always)
 - 3–10 “Key claims / anchors”
@@ -19156,7 +18959,7 @@ Exactly:
 Every hub should link BOTH ways:
 - Hub links to best notes
 - Best notes link back to the hub
-Example inside a zettel: `Related: [[HUB_Vitamin_D]]`
+Example inside a zettel: `Related: `
 `‌`‌`
 
 ---
@@ -19185,21 +18988,21 @@ It is a **hormonal lever** used for immune regulation, inflammation control, and
 
 ## Index (links we will build)
 ### Protocols
-- [[PROTOCOL_Vitamin_D_Core]]  (create later)
-- [[PROTOCOL_Vitamin_D_Acute_Inflammation]] (create later)
+-   (create later)
+-  (create later)
 
 ### Rules
-- [[RULE_Vitamin_D_Dosing_Gates]] (create next or later)
-- [[RULE_Vitamin_D_Cofactors]] (create next or later)
+-  (create next or later)
+-  (create next or later)
 
 ### Zettels
-- [[ZETTEL_Vitamin_D_Is_A_Hormone]]
-- [[ZETTEL_PTH_As_Functional_Readout]]
-- [[ZETTEL_Vitamin_D_Resistance_Model]]
+- 
+- 
+- 
 
 ### Cases
-- [[CASE_Vitamin_D_Autoimmunity_Response]]
-- [[CASE_Vitamin_D_Acute_Flare_Escalation]]
+- 
+- 
 
 ## Open questions / TODO
 - Define “acute escalation” monitoring checklist (symptoms + minimum labs).
@@ -19295,10 +19098,10 @@ Optional only when needed: #domain/thyroid #domain/autoimmunity #domain/detox_bi
 ANTI-TAG RULE: never create tags for specific supplements or biomarkers. Put those in text + links.
 
 LINKING RULES (strict)
-- Use ONLY Obsidian links: [[Note_Name]].
+- Use ONLY Obsidian links: .
 - Every new note must include:
   - “Related:” links (2–6 links max, not vague).
-  - Link back to its hub when relevant (e.g., [[HUB_Vitamin_D]]).
+  - Link back to its hub when relevant (e.g., ).
 - Prefer strong, specific links over many weak links.
 
 OUTPUT FORMAT (mandatory)
@@ -19443,8 +19246,8 @@ Optional (only when needed):
 ## Current vault state (truth snapshot)
 - All About files exist.
 - Hubs already exist:
-  - [[111_Hub_Vitamin_D]]
-  - [[111_Hub_Insulin_Resistance]]
+  - 
+  - 
 - Vitamin D knowledge exists as:
   - a “loose rules” note
   - a Vitamin D protocol note
@@ -19483,18 +19286,18 @@ Put it inside your hubs folder (whatever you named it). Copy-paste:
 #type/hub #status/active
 
 ## Existing hubs
-- [[111_Hub_Vitamin_D]]
-- [[111_Hub_Insulin_Resistance]]
+- 
+- 
 
 ## Next hubs to build (one at a time)
-- [[111_Hub_Gut_Function]]
-- [[111_Hub_Lipids_Fatty_Acids]]
-- [[111_Hub_Mitochondria]]
-- [[111_Hub_Vitamins_Supplements]]
-- [[111_Hub_Methylation]]
-- [[111_Hub_Neurotransmitters]]
-- [[111_Hub_Diet_Framework]]
-- [[111_Hub_Disease_Specific]]
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 
 ## Rule: how hubs evolve
 Each hub must link to:
@@ -19512,7 +19315,7 @@ Now we **stabilize Vitamin D** by turning the “loose rules” into one clean n
 **Create:** `111_Rules_Vitamin_D_Decision_Rules`  
 Tags should be: `#type/rule #status/active #domain/vitamin_d #domain/minerals` *(optional third domain only if needed)*
 
-In that rule note we’ll capture your real clinic thresholds (calcium gate, PTH goal, dose logic, K2 logic) in **tight IF/THEN** form and link it back to `[[111_Hub_Vitamin_D]]` + the Vitamin D protocol note.
+In that rule note we’ll capture your real clinic thresholds (calcium gate, PTH goal, dose logic, K2 logic) in **tight IF/THEN** form and link it back to `` + the Vitamin D protocol note.
 
 That’s the backbone.
 
@@ -19552,7 +19355,7 @@ Your job: convert any raw input (podcast, article, X post thread, case, rules, p
    - Exactly 1 Type tag
    - Exactly 1 Status tag
    - 1–3 Domain tags max
-3) Do NOT create tags for biomarkers or supplement names. Those belong in text + [[links]].
+3) Do NOT create tags for biomarkers or supplement names. Those belong in text + .
 4) Prefer strong links over vague links. Link to hubs, dictionary terms, protocols, rules, and cases.
 5) Keep notes short by default. If a concept needs depth, split it into multiple notes instead of making one long note.
 
@@ -19596,8 +19399,8 @@ Optional (only when needed):
 ## Current vault state (truth snapshot)
 - All About files exist.
 - Hubs already exist:
-  - [[111_Hub_Vitamin_D]]
-  - [[111_Hub_Insulin_Resistance]]
+  - 
+  - 
 - Vitamin D knowledge exists as:
   - a “loose rules” note
   - a Vitamin D protocol note
@@ -19718,10 +19521,10 @@ Optional only when needed: #domain/thyroid #domain/autoimmunity #domain/detox_bi
 ANTI-TAG RULE: never create tags for specific supplements or biomarkers. Put those in text + links.
 
 LINKING RULES (strict)
-- Use ONLY Obsidian links: [[Note_Name]].
+- Use ONLY Obsidian links: .
 - Every new note must include:
   - “Related:” links (2–6 links max, not vague).
-  - Link back to its hub when relevant (e.g., [[HUB_Vitamin_D]]).
+  - Link back to its hub when relevant (e.g., ).
 - Prefer strong, specific links over many weak links.
 
 OUTPUT FORMAT (mandatory)
@@ -19793,7 +19596,7 @@ Plan: I’ll assess your draft like a clinical protocol—what’s strong, what 
 
 ### The 6 things that will bite you later (and the fix)
 1) **Hub naming mismatch**
-   - You wrote “[[HUB_Vitamin_D]]” but your vault has “111_Domain_Hubs” and earlier you used “[[111_Hub_Vitamin_D]]”.
+   - You wrote “” but your vault has “111_Domain_Hubs” and earlier you used “”.
    - Fix: define the **canonical hub file names** once and reuse them.
 
 2) **“Ask questions if missing info blocks the work; avoid making assumptions.”**
@@ -19810,7 +19613,7 @@ Plan: I’ll assess your draft like a clinical protocol—what’s strong, what 
 
 5) **Linking rule “Every new note must include Related links”**
    - Sometimes you’ll create the first note in an area and “Related” is forced or vague.
-   - Fix: allow “Related: [[111_Hub_X]] + [[70_Dictionary_Term]]” as minimum, and only require 2 links *when available*.
+   - Fix: allow “Related:  + ” as minimum, and only require 2 links *when available*.
 
 6) **No explicit “batch triage” step**
    - Your previous version had a triage block which helps orientation.
@@ -19853,16 +19656,16 @@ VAULT STRUCTURE (fixed)
 111_Domain_Hubs
 
 CANONICAL HUBS (use these exact names when relevant)
-[[111_Hub_Vitamin_D]]
-[[111_Hub_Insulin_Resistance]]
-[[111_Hub_Gut_Function]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
-[[111_Hub_Diet_Framework]]
-[[111_Hub_Vitamins_And_Supplements]]
-[[111_Hub_Mitochondria]]
-[[111_Hub_Disease_Specific]]
-[[111_Hub_Neurotransmitters]]
-[[111_Hub_Methylation]]
+
+
+
+
+
+
+
+
+
+
 
 TAG POOL RULES (strict)
 Rule: keep tags boring.
@@ -19887,7 +19690,7 @@ ANTI-TAG RULE
 Never create tags for specific supplements or biomarkers. Put those in text + links.
 
 LINKING RULES (strict)
-- Use ONLY Obsidian links: [[Note_Name]].
+- Use ONLY Obsidian links: .
 - Each new note must include a “Related:” line with 1–6 strong links (no vague links).
 - Link back to the relevant hub when applicable.
 
@@ -19972,16 +19775,16 @@ VAULT STRUCTURE (fixed)
 111_Domain_Hubs
 
 CANONICAL HUBS (use these exact names when relevant)
-[[111_Hub_Vitamin_D]]
-[[111_Hub_Insulin_Resistance]]
-[[111_Hub_Gut_Function]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
-[[111_Hub_Diet_Framework]]
-[[111_Hub_Vitamins_And_Supplements]]
-[[111_Hub_Mitochondria]]
-[[111_Hub_Disease_Specific]]
-[[111_Hub_Neurotransmitters]]
-[[111_Hub_Methylation]]
+
+
+
+
+
+
+
+
+
+
 
 TAG POOL RULES (strict)
 Rule: keep tags boring.
@@ -20006,7 +19809,7 @@ ANTI-TAG RULE
 Never create tags for specific supplements or biomarkers. Put those in text + links.
 
 LINKING RULES (strict)
-- Use ONLY Obsidian links: [[Note_Name]].
+- Use ONLY Obsidian links: .
 - Each new note must include a “Related:” line with 1–6 strong links (no vague links).
 - Link back to the relevant hub when applicable.
 
@@ -20086,7 +19889,7 @@ Monitoring (minimum set)
 - Track: total calcium, PTH (trend), and symptoms.
 - Use calcium > 11 mg/dL as the primary hard stop gate.
 
-Related: [[111_Hub_Vitamin_D]], [[Rule_Magnesium_Cofactor_Logic]], [[Protocol_Vitamin_D_Optimisation_Workflow]]
+Related: , , 
 `‌`‌`
 Next step: Create `30_Rules/Rule_Magnesium_Cofactor_Logic.md`.
 
@@ -20133,7 +19936,7 @@ Follow-up cadence
 - Re-check labs (minimum): total calcium + PTH during escalations and during prolonged acute dosing.
 - Track symptom response; symptom relief can be prioritised even if PTH target not yet achieved.
 
-Related: [[111_Hub_Vitamin_D]], [[Rule_Vitamin_D_Dosing_And_Safety_Gates]], [[Zettel_Vitamin_D_As_Hormone_And_Biological_Action]]
+Related: , , 
 `‌`‌`
 Next step: Create `10_Zettels/Zettel_Vitamin_D_As_Hormone_And_Biological_Action.md`.
 
@@ -20156,9 +19959,9 @@ Operational implication
 - D3 dosing is paired with magnesium + K2-MK7 as structural co-factors (mineral handling + safety logic).
 - Safety is managed with hard gates (e.g., total calcium > 11 mg/dL) rather than generalized fear of higher dosing tiers.
 
-Related: [[111_Hub_Vitamin_D]], [[Rule_Vitamin_D_Dosing_And_Safety_Gates]], [[Protocol_Vitamin_D_Optimisation_Workflow]]
+Related: , , 
 `‌`‌`
-Next step: Add links in `[[111_Hub_Vitamin_D]]` to these three new notes (Rules/Protocol/Zettel).
+Next step: Add links in `` to these three new notes (Rules/Protocol/Zettel).
 
 ---
 
@@ -20197,11 +20000,11 @@ Compression test (pass/fail)
 - IF it contains multiple domains as separate ideas THEN split (keep only 1–3 domain tags max).
 
 Where extra detail goes
-- Details, dosing tables, safety gates → [[20_Protocols]] or [[30_Rules]]
-- Long explanations, sources, quotes → [[50_Library]]
-- Patient-specific narrative → [[40_Cases]]
+- Details, dosing tables, safety gates →  or 
+- Long explanations, sources, quotes → 
+- Patient-specific narrative → 
 
-Related: [[100_Templates/Template_Zettel_Dense]], [[101_Linking rules]], [[100_tag_pool]]
+Related: , , 
 `‌`‌`
 Next step: Create `100_Templates/Template_Zettel_Dense.md`.
 
@@ -20228,9 +20031,9 @@ Implications
 - <what changes in decisions, dosing, interpretation>
 
 Related:
-- [[111_Hub_<Relevant_Hub>]]
-- [[<Strong_Link_1>]]
-- [[<Strong_Link_2>]]
+- 
+- 
+- 
 `‌`‌`
 Next step: Edit `10_Zettels/Zettel_Vitamin_D_As_Hormone_And_Biological_Action.md` to match `Template_Zettel_Dense`.
 
@@ -20450,7 +20253,7 @@ Below is a version that behaves like a **rule node**: it’s short, operational,
 
 Scope: Internal clinic decision gates for Vitamin D escalation + cofactors + monitoring. Not for self-prescription.
 
-Hub: [[111_Hub_Vitamin_D]]
+Hub: 
 
 ## Apply when
 - Starting D3 supplementation
@@ -20461,17 +20264,17 @@ Hub: [[111_Hub_Vitamin_D]]
 ### Gate 1: Hypercalcemia overrides targets
 - IF total_calcium > 11 mg/dL
   - THEN stop escalation (hold or reduce D3) and evaluate cause
-  - THEN repeat/extend labs per [[Protocol_Vitamin_D_Monitoring_Minimum_Set]]
+  - THEN repeat/extend labs per 
   - Rationale: hypercalcemia beats “target-chasing”.
 
 ### Gate 2: High-dose requires K2 escalation
 - IF D3_dose > 25000 IU/day
-  - THEN add extra K2_MK7 +200 mcg/day (in addition to baseline) per [[Rule_Vitamin_D_Cofactors_Minimums]]
+  - THEN add extra K2_MK7 +200 mcg/day (in addition to baseline) per 
 
 ### Gate 3: Calcification burden raises K2 priority
 - IF calcification_burden present (any type)
   - THEN consider K2_MK7 total 200–400 mcg/day (case-dependent)
-  - THEN ensure monitoring cadence per [[Protocol_Vitamin_D_Monitoring_Minimum_Set]]
+  - THEN ensure monitoring cadence per 
 
 ## Doctrine anchors (clinic defaults)
 - Baseline floor: D3 >= 10000 IU/day aiming functional floor ~80 ng/mL (context-dependent).
@@ -20484,13 +20287,13 @@ Hub: [[111_Hub_Vitamin_D]]
 - Priority rule: symptom relief can precede “perfect PTH”; do not escalate solely to hit PTH.
 
 ## Monitoring minimums (do not improvise)
-Use: [[Protocol_Vitamin_D_Monitoring_Minimum_Set]]
+Use: 
 
 ## Exceptions / high caution (routing)
-- Renal failure / impaired activation: route to [[Rule_Vitamin_D_Renal_Exception_Activated_Forms]]
-- Unexplained hypercalcemia: route to [[Rule_Hypercalcemia_Workup_Basics]]
+- Renal failure / impaired activation: route to 
+- Unexplained hypercalcemia: route to 
 
-Related: [[Rule_Vitamin_D_Cofactors_Minimums]] [[Protocol_Vitamin_D_Monitoring_Minimum_Set]] [[111_Hub_Vitamin_D]] [[111_Hub_Minerals]] [[111_Hub_Inflammation]]
+Related:     
 `‌`‌`
 
 Next step: **Create** `30_Rules/Rule_Vitamin_D_Cofactors_Minimums.md`  
@@ -20524,7 +20327,7 @@ yeah! That's what i am talking about! great work here. go on with next rule
 
 Scope: Internal clinic co-factor rule-set for D3 use. Goal: maximize D biological action while preventing calcium mis-handling.
 
-Hub: [[111_Hub_Vitamin_D]]
+Hub: 
 
 ## Non-negotiable baseline (everyone on D3)
 - Magnesium (elemental): 100–150 mg/day minimum
@@ -20550,13 +20353,13 @@ Rationale (compressed):
 
 ## Safety routing (do not freestyle)
 - IF total_calcium > 11 mg/dL
-  - THEN follow [[Rule_Vitamin_D_Safety_Gates]] (hypercalcemia overrides targets)
+  - THEN follow  (hypercalcemia overrides targets)
 
 ## Practical notes (implementation)
 - Specify “elemental magnesium” (label confusion is common).
 - Do not tag supplement names or biomarkers; write them in text and link to rules/protocols.
 
-Related: [[Rule_Vitamin_D_Safety_Gates]] [[Protocol_Vitamin_D_Monitoring_Minimum_Set]] [[111_Hub_Vitamin_D]] [[111_Hub_Vitamins_And_Supplements]]
+Related:    
 `‌`‌`
 
 Next step: **Create** `20_Protocols/Protocol_Vitamin_D_Monitoring_Minimum_Set.md`
@@ -20590,7 +20393,7 @@ Here’s a tight batch of **5 notes** that will make your Vitamin D system feel 
 
 Goal: safe D3 optimization using a minimal lab set + clear safety triggers.
 
-Hub: [[111_Hub_Vitamin_D]]
+Hub: 
 
 ## Intake (before dose build / escalation)
 Collect:
@@ -20619,7 +20422,7 @@ Optional add-ons (only if indicated):
 
 ## Safety triggers (hard stops)
 - IF total_calcium > 11 mg/dL
-  - THEN stop escalation and execute [[Rule_Vitamin_D_Safety_Gates]]
+  - THEN stop escalation and execute 
 - IF symptoms suggest hypercalcemia (thirst/polyuria, constipation, confusion, arrhythmia-like palpitations)
   - THEN repeat calcium (consider ionized Ca) + assess renal function
 
@@ -20628,7 +20431,7 @@ Optional add-ons (only if indicated):
 - Increase magnesium if limiting symptoms appear
 - Escalate K2 when D3 dose-driven or calcification burden-driven
 
-Related: [[Rule_Vitamin_D_Safety_Gates]] [[Rule_Vitamin_D_Cofactors_Minimums]] [[Protocol_Vitamin_D_Acute_Flare_Escalation]] [[111_Hub_Vitamin_D]]
+Related:    
 `‌`‌`
 
 Next step: **Create** `20_Protocols/Protocol_Vitamin_D_Acute_Flare_Escalation.md`
@@ -20644,12 +20447,12 @@ Next step: **Create** `20_Protocols/Protocol_Vitamin_D_Acute_Flare_Escalation.md
 
 Goal: temporary D3 escalation during inflammatory events while respecting safety gates.
 
-Hub: [[111_Hub_Vitamin_D]]
+Hub: 
 
 ## Entry criteria
 - Acute inflammatory flare/event (clinic-defined)
-- Patient already on baseline co-factors per [[Rule_Vitamin_D_Cofactors_Minimums]]
-- No hypercalcemia gate triggered (see [[Rule_Vitamin_D_Safety_Gates]])
+- Patient already on baseline co-factors per 
+- No hypercalcemia gate triggered (see )
 
 ## Step sequence
 1) Confirm co-factors are in place (Mg + K2).
@@ -20667,7 +20470,7 @@ Hub: [[111_Hub_Vitamin_D]]
 ## Priority logic
 - Symptom relief can precede lab perfection, but never overrides hypercalcemia gates.
 
-Related: [[Rule_Vitamin_D_Safety_Gates]] [[Rule_Vitamin_D_Cofactors_Minimums]] [[Protocol_Vitamin_D_Monitoring_Minimum_Set]] [[111_Hub_Vitamin_D]]
+Related:    
 `‌`‌`
 
 Next step: **Create** `10_Zettels/Zettel_Vitamin_D_PTH_As_Functional_Readout.md`
@@ -20695,7 +20498,7 @@ Edge cases / caution:
 - PTH interpretation depends on calcium status and renal context.
 - Hypercalcemia gate overrides all target chasing.
 
-Related: [[Rule_Vitamin_D_Safety_Gates]] [[Protocol_Vitamin_D_Monitoring_Minimum_Set]] [[111_Hub_Vitamin_D]]
+Related:   
 `‌`‌`
 
 Next step: **Create** `10_Zettels/Zettel_Vitamin_D_Hypercalcemia_Overrides_Targets.md`
@@ -20719,9 +20522,9 @@ Operational translation:
 - When gate triggers: pause escalation + investigate cause (repeat calcium, consider ionized Ca, assess PTH, renal function, intake sources).
 
 Links to action:
-- Gate handling lives in [[Rule_Vitamin_D_Safety_Gates]] and is monitored via [[Protocol_Vitamin_D_Monitoring_Minimum_Set]].
+- Gate handling lives in  and is monitored via .
 
-Related: [[Rule_Vitamin_D_Safety_Gates]] [[Protocol_Vitamin_D_Monitoring_Minimum_Set]] [[111_Hub_Vitamin_D]]
+Related:   
 `‌`‌`
 
 Next step: **Create** `10_Zettels/Zettel_Vitamin_D_Cofactors_As_Steering_System.md`
@@ -20745,10 +20548,10 @@ Operational consequence:
 - Co-factors become non-negotiable defaults (baseline rule), with K2 escalation at higher D3 doses or calcification burden.
 
 Rule anchors:
-- Baseline + escalation logic: [[Rule_Vitamin_D_Cofactors_Minimums]]
-- Safety gate logic: [[Rule_Vitamin_D_Safety_Gates]]
+- Baseline + escalation logic: 
+- Safety gate logic: 
 
-Related: [[Rule_Vitamin_D_Cofactors_Minimums]] [[Rule_Vitamin_D_Safety_Gates]] [[111_Hub_Vitamin_D]] [[111_Hub_Vitamins_And_Supplements]]
+Related:    
 `‌`‌`
 
 Next step: **Edit** `111_Domain_Hubs/111_Hub_Vitamin_D.md` to add a “Core Rules / Core Protocols / Core Zettels” section linking these five notes.
@@ -20767,7 +20570,7 @@ Three solid next moves (pick one), plus an alternative road if you feel you’re
 
 ### 3 next things we can do next
 1) **Upgrade the Vitamin D hub into a true command center**  
-   Add 3 sections to `[[111_Hub_Vitamin_D]]`:  
+   Add 3 sections to ``:  
    - **Core Rules** (gates + co-factors + dosing doctrine)  
    - **Core Protocols** (monitoring + acute flare)  
    - **Core Zettels** (PTH logic, hypercalcemia override, co-factors-as-steering)  
@@ -20834,9 +20637,9 @@ Rationale (working logic):
   - BEFORE changing D3 dose solely due to symptoms
 
 ## Safety note
-This rule does not override safety gates (hypercalcemia, renal dysfunction) — see [[Rule_Vitamin_D_Safety_Gates]].
+This rule does not override safety gates (hypercalcemia, renal dysfunction) — see .
 
-Related: [[111_Hub_Vitamin_D]], [[Rule_Vitamin_D_Safety_Gates]], [[Zettel_Magnesium_Limits_Vitamin_D_Response]], [[Dictionary_Vitamin_K2_MK7]]
+Related: , , , 
 `‌`‌`
 
 2) **70_Dictionary/Dictionary_Vitamin_K2_MK7.md**
@@ -20857,10 +20660,10 @@ In our Vitamin D doctrine, MK-7 is a **calcium-handling co-factor**:
 - We do **not** tag MK-7 as a supplement tag; we link it.
 
 ## Links
-- In rules: [[Rule_Vitamin_D_Cofactors_Minimums]]
-- In hub: [[111_Hub_Vitamin_D]]
+- In rules: 
+- In hub: 
 
-Related: [[111_Hub_Vitamin_D]], [[Rule_Vitamin_D_Cofactors_Minimums]], [[Rule_Vitamin_D_Safety_Gates]]
+Related: , , 
 `‌`‌`
 
 3) **10_Zettels/Zettel_Magnesium_Limits_Vitamin_D_Response.md**
@@ -20879,10 +20682,10 @@ Magnesium frequently acts as a *rate-limiter* for Vitamin D benefit and toleranc
 When problems appear during D3 escalation, **adjust magnesium first** before assuming D3 is the problem.
 
 ## What this zettel feeds
-- Rules: [[Rule_Vitamin_D_Cofactors_Minimums]]
-- Protocol decisions: [[Protocol_Vitamin_D_Monitoring_Minimum_Set]] (when present)
+- Rules: 
+- Protocol decisions:  (when present)
 
-Related: [[111_Hub_Vitamin_D]], [[Rule_Vitamin_D_Cofactors_Minimums]], [[Rule_Vitamin_D_Safety_Gates]]
+Related: , , 
 `‌`‌`
 
 4) **70_Dictionary/Dictionary_Vitamin_D3_Cholecalciferol.md**
@@ -20903,10 +20706,10 @@ Related: [[111_Hub_Vitamin_D]], [[Rule_Vitamin_D_Cofactors_Minimums]], [[Rule_Vi
 - Thinking “higher number = toxicity.” In our doctrine, **safety gates override target-chasing**.
 
 ## Links
-- Rules: [[Rule_Vitamin_D_Safety_Gates]], [[Rule_Vitamin_D_Cofactors_Minimums]]
-- Hub: [[111_Hub_Vitamin_D]]
+- Rules: , 
+- Hub: 
 
-Related: [[111_Hub_Vitamin_D]], [[Rule_Vitamin_D_Safety_Gates]], [[Rule_Vitamin_D_Cofactors_Minimums]]
+Related: , , 
 `‌`‌`
 
 5) **111_Domain_Hubs/111_Hub_Vitamin_D.md**
@@ -20917,36 +20720,36 @@ Related: [[111_Hub_Vitamin_D]], [[Rule_Vitamin_D_Safety_Gates]], [[Rule_Vitamin_
 Purpose: command center for Vitamin D doctrine (rules, protocols, zettels, dictionary). Keep it navigable and link-first.
 
 ## Start here
-- If you need “what do we do clinically?” → [[Rule_Vitamin_D_Safety_Gates]] + [[Rule_Vitamin_D_Cofactors_Minimums]]
+- If you need “what do we do clinically?” →  + 
 - If you need “what does this word mean?” → Dictionary section below
 
 ## Core rules (doctrine + gates)
-- [[Rule_Vitamin_D_Safety_Gates]]
-- [[Rule_Vitamin_D_Cofactors_Minimums]]
+- 
+- 
 
 ## Acute use (flare logic)
-- (Add protocol note when ready) [[Protocol_Vitamin_D_Acute_Escalation_Flare]]  <!-- placeholder -->
+- (Add protocol note when ready)   <!-- placeholder -->
 
 ## Monitoring (minimum set)
-- (Add protocol note when ready) [[Protocol_Vitamin_D_Monitoring_Minimum_Set]]  <!-- placeholder -->
+- (Add protocol note when ready)   <!-- placeholder -->
 
 ## Core zettels (mechanisms we reuse)
-- [[Zettel_Magnesium_Limits_Vitamin_D_Response]]
+- 
 
 ## Dictionary (shared language)
-- [[Dictionary_Vitamin_D3_Cholecalciferol]]
-- [[Dictionary_Vitamin_K2_MK7]]
-- (Add when ready) [[Dictionary_Parathyroid_Hormone_PTH]] <!-- placeholder -->
+- 
+- 
+- (Add when ready)  <!-- placeholder -->
 
 ## Open loops (to build next)
 - Create: Protocol note for monitoring minimum set (calcium, PTH, 25OHD, creatinine/eGFR; add ionized Ca when needed)
 - Create: Acute escalation protocol note (flare → temporary escalation → safety gates → reassess)
 - Create: PTH dictionary note (what it means, how we interpret it in doctrine)
 
-Related: [[111_Hub_Insulin_Resistance]], [[111_Hub_Minerals]]  <!-- if you later create minerals hub -->
+Related: ,   <!-- if you later create minerals hub -->
 `‌`‌`
 
-**Next step:** Create **30_Rules/Rule_Vitamin_D_Dosing_Doctrine_Decision_Ladder.md** (baseline → build → maintenance → flare) and link it inside `[[111_Hub_Vitamin_D]]` under “Core rules.”
+**Next step:** Create **30_Rules/Rule_Vitamin_D_Dosing_Doctrine_Decision_Ladder.md** (baseline → build → maintenance → flare) and link it inside `` under “Core rules.”
 
 ---
 
@@ -20987,16 +20790,16 @@ VAULT (fixed folders)
 111_Domain_Hubs
 
 CANONICAL HUBS (use exact names when relevant)
-[[111_Hub_Vitamin_D]]
-[[111_Hub_Insulin_Resistance]]
-[[111_Hub_Gut_Function]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
-[[111_Hub_Diet_Framework]]
-[[111_Hub_Vitamins_And_Supplements]]
-[[111_Hub_Mitochondria]]
-[[111_Hub_Disease_Specific]]
-[[111_Hub_Neurotransmitters]]
-[[111_Hub_Methylation]]
+
+
+
+
+
+
+
+
+
+
 
 TAGS (strict, boring)
 - Exactly 1 Type tag
@@ -21011,7 +20814,7 @@ Optional only when needed: #domain/thyroid #domain/autoimmunity #domain/detox_bi
 ANTI-TAG: no tags for specific supplements or biomarkers (write them in text + link notes instead).
 
 LINKS (strict)
-- Only Obsidian links: [[Note_Name]]
+- Only Obsidian links: 
 - Each new note must include:
   - Hub link when relevant
   - "Related:" line with 1–6 strong, specific links (no vague links)
@@ -21075,7 +20878,7 @@ Rules (only the ones that matter)
 - Output MUST be copy-paste ready.
 - Each note: 1 Type tag + 1 Status tag + 1–3 Domain tags max.
 - No tags for specific supplements/biomarkers (write them in text + links).
-- Use only Obsidian links [[Like_This]].
+- Use only Obsidian links .
 - Each new note includes: Hub link (if relevant) + “Related:” (1–6 strong links).
 - End with ONE next action.
 
@@ -21083,9 +20886,9 @@ Folders (fixed)
 00_Inbox / 10_Zettels / 20_Protocols / 30_Rules / 40_Cases / 50_Library / 60_Dashboards / 70_Dictionary / 99_Archive / 100_Templates / 111_Domain_Hubs
 
 Canonical hubs (use exact names when relevant)
-[[111_Hub_Vitamin_D]] [[111_Hub_Insulin_Resistance]] [[111_Hub_Gut_Function]]
-[[111_Hub_Lipids_And_Fatty_Acids]] [[111_Hub_Diet_Framework]] [[111_Hub_Vitamins_And_Supplements]]
-[[111_Hub_Mitochondria]] [[111_Hub_Disease_Specific]] [[111_Hub_Neurotransmitters]] [[111_Hub_Methylation]]
+  
+  
+   
 
 Tag pool
 Type: #type/zettel #type/rule #type/protocol #type/case #type/library #type/dictionary #type/template #type/hub
@@ -21520,18 +21323,18 @@ Pick one. We proceed slowly and cleanly.
 
 lets work on this note i found and i like #example #idea 
 
-[[thoughts]]
 
-Often when diagnosed with a disease, especially chronic, one might become away of what is called [[disease prognosis]]. 
+
+Often when diagnosed with a disease, especially chronic, one might become away of what is called . 
 
 Extreme confusion can arise when we have incomplete understanding of the disease and when it's course is highly complicated and varies greatly from person to person. 
 
-When diagnosed with [[multiple sclerosis]] or [[crohn's disease]] for example, there is 30% you never get another episode, 30% you might end to severe progression and 30% the between. This is the [[Df evidence based medicine]] approach and where medication [[cost-effectiveness]] are based on. 
+When diagnosed with  or  for example, there is 30% you never get another episode, 30% you might end to severe progression and 30% the between. This is the  approach and where medication  are based on. 
 
 From the 
-[[Personalized Medicine]] viewpoint we focus on each unique person's disease cause, finding and addressing all the [[modifiable factors ]] that may have an effect. 
+ viewpoint we focus on each unique person's disease cause, finding and addressing all the  that may have an effect. 
 
-For example if  have insulin resistance, vitamin d deficiency, B12 and folate marginal deficiency, dysbiosis, a [[Id SAD sitting person]] lifestyle, smoking and you are diagnosed with a chronic disease, it's obsious you have more treatment goals than getting your medication every other week. 
+For example if  have insulin resistance, vitamin d deficiency, B12 and folate marginal deficiency, dysbiosis, a  lifestyle, smoking and you are diagnosed with a chronic disease, it's obsious you have more treatment goals than getting your medication every other week. 
 
 
 ---
@@ -21593,11 +21396,11 @@ Metabolic profiling defines *what the disease will do*.
 ---
 
 **Related:**  
-- [[111_Hub_Disease_Specific]]  
-- [[111_Hub_Insulin_Resistance]]  
-- [[111_Hub_Vitamin_D]]  
-- [[111_Hub_Gut_Function]]  
-- [[Personalized_Medicine_Doctrine]]  
+-   
+-   
+-   
+-   
+-   
 `‌`‌`
 
 ---
@@ -21666,10 +21469,10 @@ Population-level prognosis reflects averages used for evidence-based medicine an
 - Patient understands they have *levers*, not just prescriptions.
 
 **Related:**  
-- [[Disease_Prognosis_Versus_Modifiable_Risk_Burden]]  
-- [[111_Hub_Disease_Specific]]  
-- [[111_Hub_Insulin_Resistance]]  
-- [[111_Hub_Vitamin_D]]
+-   
+-   
+-   
+- 
 `‌`‌`
 
 **Next step:** Create dictionary entry `Disease_Prognosis`.
@@ -21705,9 +21508,9 @@ Prognosis is conditional on:
 Prognosis should be communicated as a starting frame, not an endpoint.
 
 **Related:**  
-- [[Disease_Prognosis_Versus_Modifiable_Risk_Burden]]  
-- [[Personalized_Medicine_Doctrine]]  
-- [[111_Hub_Disease_Specific]]
+-   
+-   
+- 
 `‌`‌`
 
 **Next step:** Create dictionary entry `Modifiable_Risk_Burden`.
@@ -21748,9 +21551,9 @@ Disease severity and progression correlate more strongly with total modifiable b
 Modifying risk burden does not replace treatment; it alters trajectory.
 
 **Related:**  
-- [[Disease_Prognosis_Versus_Modifiable_Risk_Burden]]  
-- [[111_Hub_Insulin_Resistance]]  
-- [[111_Hub_Gut_Function]]
+-   
+-   
+- 
 `‌`‌`
 
 **Next step:** Decide whether to (A) add a short **clinic phrasing script** for prognosis discussions or (B) extract a Zettel linking prognosis to Vitamin D specifically.
@@ -21787,13 +21590,13 @@ Once you paste it, I will:
 
 #definition #idea 
 
-[[thoughts]]
 
-Evidence based medicine focuses on population based studies with [[epidemiology]] being the basic tool. The goal is to organize groups of symptoms into diseases and provide treatment that fits the [[average person]]. It has been quite effective for fighting [[acute diseases]] and [[infectious diseases]], but has not been effective on [[chronic diseases]]. 
 
-Additionally, it replaced the old system of [[personal belief and expertise medicine]] system, which often lead to more harm than benefit. 
+Evidence based medicine focuses on population based studies with  being the basic tool. The goal is to organize groups of symptoms into diseases and provide treatment that fits the . It has been quite effective for fighting  and , but has not been effective on . 
 
-[[president USA death from blood suction treatment]]
+Additionally, it replaced the old system of  system, which often lead to more harm than benefit. 
+
+
 
 
 ---
@@ -21815,7 +21618,7 @@ Evidence-based medicine (EBM) is optimized for **population-level inference** (e
 
 Clinical implication: EBM is often powerful in **acute/infectious** conditions (clear endpoints, strong signal), but can underperform in **chronic multi-factor disease**, where heterogeneity + long time horizons dilute the “average effect” into something clinically thin for the individual.
 
-Related: [[Zettel_Personalized_Medicine_Modifiable_Factors]], [[Dictionary_Epidemiology]], [[Zettel_Acute_Vs_Chronic_Disease_Causality]], [[111_Hub_Disease_Specific]]
+Related: , , , 
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Epidemiology.md`.
 
@@ -21834,7 +21637,7 @@ Common confusion:
 - Epidemiology describes **group patterns**, not a person’s full causal story.
 - A strong population signal can still be weakly predictive for a specific individual if heterogeneity is high.
 
-Related: [[Zettel_Evidence_Based_Medicine_Is_Population_Average]], [[Zettel_Personalized_Medicine_Modifiable_Factors]]
+Related: , 
 `‌`‌`
 Next step: Create `10_Zettels/Zettel_EBM_And_Clinical_Decision_Making_In_Chronic_Disease.md`.
 
@@ -21853,7 +21656,7 @@ This is not anti-EBM; it’s a scope clarification:
 
 Clinical implication: chronic care needs a **layer above EBM**: phenotype mapping → modifiable factor plan → monitoring loop.
 
-Related: [[Zettel_Evidence_Based_Medicine_Is_Population_Average]], [[Zettel_Personalized_Medicine_Modifiable_Factors]], [[111_Hub_Insulin_Resistance]], [[111_Hub_Vitamin_D]]
+Related: , , , 
 `‌`‌`
 Next step: Add a short inbox capture for the dangling “president USA…” fragment in `00_Inbox`.
 
@@ -21879,7 +21682,7 @@ Old “expert medicine” sometimes harmed patients badly. A famous example: a U
 
 Why it matters here:
 Use as a vivid historical anchor for the transition:
-- from [[Zettel_Evidence_Based_Medicine_Is_Population_Average]] (population/averages)
+- from  (population/averages)
 - away from “belief/expertise-only medicine” (iatrogenic risk)
 - toward modern systems that combine evidence + mechanism + individualized modifiable factors.
 
@@ -21889,7 +21692,7 @@ To_verify_later:
 - Exact details: diagnosis suspected, amount of blood removed, timeline, primary sources.
 - Phrase it carefully (avoid myth-precision).
 
-Related: [[Zettel_Evidence_Based_Medicine_Is_Population_Average]], [[Zettel_EBM_And_Clinical_Decision_Making_In_Chronic_Disease]], [[Dictionary_Epidemiology]]
+Related: , , 
 `‌`‌`
 Next step: Create `10_Zettels/Zettel_Iatrogenesis_And_The_Limits_Of_Expertise_Medicine.md`.
 
@@ -21902,12 +21705,12 @@ lets create the suggested,
 and then continue with this note: 
 
 
-[[Macronutrients]] are all the organic compounds needed in large quantities (>100mg) for normal human function, serving as building blocks for tissues and main fuels for energy production .
+ are all the organic compounds needed in large quantities (>100mg) for normal human function, serving as building blocks for tissues and main fuels for energy production .
 
-They include [[Carbohydrates]], [[Protein]] and [[Fat]]. 
+They include ,  and . 
 
 ##connection
-[[Micronutrients]]
+
 
 ---
 
@@ -21940,7 +21743,7 @@ Clinical implication (today):
 - EBM protects against bad traditions, but “average-effect” medicine can still miss individual drivers in chronic disease.
 - Best stance: evidence + mechanism + individualized modifiable factors.
 
-Related: [[Inbox_George_Washington_Bloodletting_As_EBM_Cautionary_Tale]], [[Zettel_Evidence_Based_Medicine_Is_Population_Average]], [[Zettel_Personalized_Medicine_Modifiable_Factors_Change_Prognosis]], [[Dictionary_Epidemiology]]
+Related: , , , 
 `‌`‌`
 Next step: Paste your “macronutrients” note text as-is and I’ll convert it into a clean Dictionary entry plus one supporting Zettel with strong links.
 
@@ -21963,7 +21766,7 @@ Common confusion:
 - Threshold definitions (e.g., “>100 mg”) vary by source; use functional meaning rather than a rigid cutoff.
 
 Links:
-Related: [[Dictionary_Micronutrients]], [[Dictionary_Carbohydrates]], [[Dictionary_Protein]], [[Dictionary_Fat]]
+Related: , , , 
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Micronutrients.md`.
 
@@ -21981,7 +21784,7 @@ Implications:
 - Two people can eat the same macros but diverge in outcomes if micronutrient status differs (e.g., magnesium/B vitamins affecting glucose handling and mitochondrial throughput).
 - Clinical protocols should avoid “macro-only” thinking; macros without sufficient micros can increase stress signals (fatigue, cravings, poor recovery).
 
-Related: [[Dictionary_Macronutrients]], [[Dictionary_Micronutrients]], [[111_Hub_Diet_Framework]], [[111_Hub_Mitochondria]]
+Related: , , , 
 `‌`‌`
 Next step: Add `Dictionary_Carbohydrates`, `Dictionary_Protein`, and `Dictionary_Fat` as three short dictionary stubs in `70_Dictionary/`.
 
@@ -22017,7 +21820,7 @@ Common confusion:
 - “All carbs are the same.” Not true: refined vs whole-food carbs differ in glycemic impact and satiety.
 - “Low carb = zero carb.” Not necessary; context-driven.
 
-Related: [[Dictionary_Macronutrients]], [[Dictionary_Micronutrients]], [[111_Hub_Insulin_Resistance]], [[111_Hub_Diet_Framework]]
+Related: , , , 
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Protein.md`.
 
@@ -22039,7 +21842,7 @@ Common confusion:
 - “Protein is just for muscles.” It’s for *everything* that’s built from amino acids.
 - “More is always better.” Needs individualized context (renal impairment, appetite, goals).
 
-Related: [[Dictionary_Macronutrients]], [[Dictionary_Micronutrients]], [[111_Hub_Mitochondria]], [[111_Hub_Diet_Framework]]
+Related: , , , 
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Fat.md`.
 
@@ -22061,7 +21864,7 @@ Common confusion:
 - “Fat makes you fat.” Energy balance and insulin context matter more than the macronutrient label.
 - “All fats are equal.” Saturated, mono-, and polyunsaturated fats behave differently in oxidation and signaling.
 
-Related: [[Dictionary_Macronutrients]], [[Dictionary_Micronutrients]], [[111_Hub_Lipids_And_Fatty_Acids]], [[111_Hub_Diet_Framework]]
+Related: , , , 
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Micronutrients.md`.
 
@@ -22086,7 +21889,7 @@ Common confusion:
 - Threshold definitions (e.g., “>100 mg”) vary by source; use functional meaning rather than a rigid cutoff.
 
 Links:
-Related: [[Dictionary_Micronutrients]], [[Dictionary_Carbohydrates]], [[Dictionary_Protein]], [[Dictionary_Fat]] proceed with other 
+Related: , , ,  proceed with other 
 
 ---
 
@@ -22115,7 +21918,7 @@ Common confusion:
 - “If I eat well, I’m covered.” Often false in modern contexts; needs assessment (diet quality, absorption, inflammation, gut function).
 - “More is always better.” Dosing is context-dependent; excess can be harmful (fat-soluble vitamins, some minerals).
 
-Related: [[Macronutrients]], [[111_Hub_Vitamins_And_Supplements]], [[111_Hub_Gut_Function]]
+Related: , , 
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Carbohydrates.md`.
 
@@ -22137,7 +21940,7 @@ Common confusion:
 - “All carbs are the same.” Refined carbs vs whole-food carbs behave very differently.
 - “Low carb means zero carbs.” Not necessarily—context and goals decide.
 
-Related: [[Macronutrients]], [[111_Hub_Insulin_Resistance]], [[111_Hub_Diet_Framework]]
+Related: , , 
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Protein.md`.
 
@@ -22159,7 +21962,7 @@ Common confusion:
 - “Protein is just for muscles.” It’s for all protein-based systems (enzymes, receptors, transporters).
 - “More is always better.” Needs context (kidney function, appetite, goals).
 
-Related: [[Macronutrients]], [[111_Hub_Mitochondria]], [[111_Hub_Diet_Framework]]
+Related: , , 
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Fat.md`.
 
@@ -22181,9 +21984,9 @@ Common confusion:
 - “Fat makes you fat.” Metabolic context (especially insulin) matters more than the label.
 - “All fats are equal.” They differ in signaling, stability, and downstream effects.
 
-Related: [[Macronutrients]], [[111_Hub_Lipids_And_Fatty_Acids]], [[111_Hub_Diet_Framework]]
+Related: , , 
 `‌`‌`
-Next step: Copy your existing `Macronutrients` note links so they point to these exact filenames: `[[Dictionary_Micronutrients]]`, `[[Dictionary_Carbohydrates]]`, `[[Dictionary_Protein]]`, `[[Dictionary_Fat]]`.
+Next step: Copy your existing `Macronutrients` note links so they point to these exact filenames: ``, ``, ``, ``.
 
 ---
 
@@ -22191,9 +21994,9 @@ Next step: Copy your existing `Macronutrients` note links so they point to these
 
 added this 
 
-[[Micronutrients]] are all the organic compounds needed in small quantities (<100mg) for normal human function, which are not produced endogenously and must be taken exogensously from food and water. They include [[Vitamins]] and [[Minerals]]. 
+ are all the organic compounds needed in small quantities (<100mg) for normal human function, which are not produced endogenously and must be taken exogensously from food and water. They include  and . 
 
-[[Role of Micronutrients]] 
+ 
 
 ---
 
@@ -22205,7 +22008,7 @@ added this
 #type/dictionary #status/draft #domain/minerals
 
 Definition:
-Micronutrients are nutrients required in small amounts that enable normal physiology (mainly as enzyme cofactors, signaling molecules, and structural helpers). They include [[Vitamins]] and [[Minerals]].
+Micronutrients are nutrients required in small amounts that enable normal physiology (mainly as enzyme cofactors, signaling molecules, and structural helpers). They include  and .
 
 Clinical meaning:
 - Micronutrients rarely provide calories, but they often decide whether pathways “run” or “stall.”
@@ -22217,7 +22020,7 @@ Common confusion:
 - Thresholds like “<100 mg” vary by source; use functional meaning clinically.
 - “Not produced endogenously” is broadly true for vitamins/minerals, with important exceptions (e.g., vitamin D is produced in skin; some vitamins can be produced by gut microbes in variable amounts).
 
-Related: [[Macronutrients]], [[Vitamins]], [[Minerals]], [[Role_of_Micronutrients]], [[111_Hub_Vitamins_And_Supplements]], [[111_Hub_Gut_Function]]
+Related: , , , , , 
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Vitamins.md`.
 
@@ -22237,9 +22040,9 @@ Clinical meaning:
 
 Common confusion:
 - “All vitamins are safe at any dose.” Not true—fat-solubles and some B-vitamins have upper limits/context risks.
-- “Vitamin D is just a vitamin.” Functionally it behaves like a hormone; see [[111_Hub_Vitamin_D]].
+- “Vitamin D is just a vitamin.” Functionally it behaves like a hormone; see .
 
-Related: [[Micronutrients]], [[Minerals]], [[111_Hub_Vitamins_And_Supplements]], [[111_Hub_Vitamin_D]]
+Related: , , , 
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Minerals.md`.
 
@@ -22261,7 +22064,7 @@ Common confusion:
 - “Blood levels always reflect tissue status.” Often false (compartmentalization).
 - “All forms are equal.” Bioavailability and tolerability vary by salt/chelate form.
 
-Related: [[Micronutrients]], [[111_Hub_Vitamins_And_Supplements]], [[111_Hub_Gut_Function]], [[111_Hub_Mitochondria]]
+Related: , , , 
 `‌`‌`
 Next step: Create `10_Zettels/Zettel_Role_of_Micronutrients.md`.
 
@@ -22282,9 +22085,9 @@ Implications:
 - Persistent “metabolic dysfunction” patterns can reflect cofactor bottlenecks rather than primary organ disease.
 - Repletion often shifts metabolite patterns before symptoms fully normalize (demand increases as function improves).
 
-Related: [[Micronutrients]], [[Macronutrients]], [[111_Hub_Mitochondria]], [[111_Hub_Vitamins_And_Supplements]]
+Related: , , , 
 `‌`‌`
-Next step: In your `Micronutrients` note, replace `[[Vitamins]]` and `[[Minerals]]` with `[[Dictionary_Vitamins]]` and `[[Dictionary_Minerals]]` **only if** you want all dictionary notes to share the `Dictionary_` prefix consistently across the vault.
+Next step: In your `Micronutrients` note, replace `` and `` with `` and `` **only if** you want all dictionary notes to share the `Dictionary_` prefix consistently across the vault.
 
 ---
 
@@ -22294,12 +22097,12 @@ new note addition:
 
 #vitamin 
 
-Cobalamin is considered the 12th B Vitamin. Its roles include [[Methyl Donor]], crucial for [[One carbon metabolism]] and [[DNA Synthesis]] and [[DNA Transcription]]. Its core consists of [[Cobalt]]. 
+Cobalamin is considered the 12th B Vitamin. Its roles include , crucial for  and  and . Its core consists of . 
 
 ## diagnosis 
-[[Metabolite Methylmalonic]]
-[[Homocysteine]] 
-[[Plasma Measurement B12]] 
+
+ 
+ 
 
 ---
 
@@ -22320,20 +22123,20 @@ Definition:
 Cobalamin (vitamin B12) is a water-soluble B vitamin required for key methylation and mitochondrial reactions. It contains cobalt at its core (a corrin ring complex).
 
 Clinical meaning:
-- Central to [[One_Carbon_Metabolism]] via methionine synthase (supports methylation capacity).
+- Central to  via methionine synthase (supports methylation capacity).
 - Required for conversion of methylmalonyl-CoA → succinyl-CoA (mitochondrial metabolism; links B12 to fatigue/neurology when low).
-- Supports [[DNA_Synthesis]] and normal hematopoiesis; deficiency can present with neurological symptoms even without anemia.
+- Supports  and normal hematopoiesis; deficiency can present with neurological symptoms even without anemia.
 
 Common confusion:
 - “Serum B12 is enough.” Serum can be misleading; functional markers often add clarity.
 - “Folate fixes everything.” Folate can mask hematologic signs while neurological issues progress if B12 remains low.
 
 Diagnosis (functional pattern):
-- Elevated [[Metabolite_Methylmalonic_Acid]] suggests impaired B12-dependent metabolism (classically rises with B12 deficiency).
-- Elevated [[Homocysteine]] can reflect low B12 and/or folate/B6 issues (interpret in context).
-- [[Plasma_Measurement_B12]] is a starting point, not always decisive alone.
+- Elevated  suggests impaired B12-dependent metabolism (classically rises with B12 deficiency).
+- Elevated  can reflect low B12 and/or folate/B6 issues (interpret in context).
+-  is a starting point, not always decisive alone.
 
-Related: [[111_Hub_Methylation]], [[Micronutrients]], [[Vitamins]], [[Minerals]]
+Related: , , , 
 `‌`‌`
 Next step: Create `10_Zettels/Zettel_B12_Functional_Markers_MMA_Homocysteine.md`.
 
@@ -22349,14 +22152,14 @@ When assessing B12 status, functional markers (especially MMA) often reflect cel
 
 Mechanism:
 B12 is required for:
-- methylmalonyl-CoA → succinyl-CoA; when B12 is limiting, [[Metabolite_Methylmalonic_Acid]] tends to rise.
-- homocysteine → methionine (with folate); if methylation is constrained, [[Homocysteine]] may rise.
+- methylmalonyl-CoA → succinyl-CoA; when B12 is limiting,  tends to rise.
+- homocysteine → methionine (with folate); if methylation is constrained,  may rise.
 
 Implications:
 - Plasma B12 can appear “normal” while function is impaired; discordance is common in real clinics.
 - Homocysteine is shared territory (B12/folate/B6, thyroid, renal, inflammation); MMA is more B12-specific in many contexts.
 
-Related: [[Dictionary_Cobalamin_Vitamin_B12]], [[Metabolite_Methylmalonic_Acid]], [[Homocysteine]], [[One_Carbon_Metabolism]], [[111_Hub_Methylation]]
+Related: , , , , 
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_One_Carbon_Metabolism.md`.
 
@@ -22397,7 +22200,7 @@ Core nodes (high-level):
 - Methionine cycle (B12-dependent remethylation)
 - Transsulfuration (B6-dependent diversion toward glutathione precursors)
 
-Related: [[111_Hub_Methylation]], [[Dictionary_Cobalamin_Vitamin_B12]], [[Homocysteine]], [[Metabolite_Methylmalonic_Acid]], [[Micronutrients]]
+Related: , , , , 
 `‌`‌`
 Next step: Create `10_Zettels/Zettel_B12_Core_Reactions_Methionine_Synthase_and_Methylmalonyl_CoA.md`.
 
@@ -22412,14 +22215,14 @@ Claim:
 Clinically, B12 deficiency presents as a “two-pathway problem”: impaired methylation (methionine synthase) and impaired mitochondrial metabolism (methylmalonyl-CoA → succinyl-CoA).
 
 Mechanism:
-- Low B12 can raise [[Homocysteine]] (shared marker; depends on folate/B6 too).
-- Low B12 can raise [[Metabolite_Methylmalonic_Acid]] (often more B12-specific), reflecting blocked mitochondrial conversion to succinyl-CoA.
+- Low B12 can raise  (shared marker; depends on folate/B6 too).
+- Low B12 can raise  (often more B12-specific), reflecting blocked mitochondrial conversion to succinyl-CoA.
 
 Implications:
 - Neurologic symptoms and fatigue can appear even with borderline plasma B12.
 - Interpreting homocysteine without MMA can misclassify the limiting cofactor.
 
-Related: [[Dictionary_Cobalamin_Vitamin_B12]], [[Dictionary_One_Carbon_Metabolism]], [[Homocysteine]], [[Metabolite_Methylmalonic_Acid]], [[111_Hub_Methylation]]
+Related: , , , , 
 `‌`‌`
 Next step: Create `10_Zettels/Zettel_Serum_B12_Limits_and_When_to_Use_Functional_Markers.md`.
 
@@ -22439,9 +22242,9 @@ Circulating B12 can be “normal” while intracellular utilization is limited o
 Clinical trigger list (use case logic):
 - Symptoms compatible with deficiency (fatigue, neuropathic signs, cognitive changes) despite “normal” serum B12
 - Known risk contexts (dietary restriction, malabsorption patterns, older age, chronic GI issues)
-- Elevated [[Homocysteine]] without clear folate/B6 explanation → add [[Metabolite_Methylmalonic_Acid]]
+- Elevated  without clear folate/B6 explanation → add 
 
-Related: [[Plasma_Measurement_B12]], [[Metabolite_Methylmalonic_Acid]], [[Homocysteine]], [[Dictionary_Cobalamin_Vitamin_B12]], [[111_Hub_Methylation]]
+Related: , , , , 
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Homocysteine.md`.
 
@@ -22470,8 +22273,8 @@ Definition:
 Cobalamin (vitamin B12) is an essential micronutrient whose core contains cobalt. It functions mainly as an enzymatic cofactor in methylation chemistry and in a key mitochondrial conversion step.
 
 Clinical meaning:
-- Supports methyl-group transfer via methionine synthase (ties into [[Dictionary_One_Carbon_Metabolism]]).
-- Supports mitochondrial metabolism via methylmalonyl-CoA mutase (functional readout: [[Metabolite_Methylmalonic_Acid]]).
+- Supports methyl-group transfer via methionine synthase (ties into ).
+- Supports mitochondrial metabolism via methylmalonyl-CoA mutase (functional readout: ).
 - Deficiency can present neurologically and/or as fatigue even before classic anemia patterns are obvious.
 
 Common confusion:
@@ -22479,10 +22282,10 @@ Common confusion:
 - “B12 is just an energy vitamin.” It’s a pathway cofactor; the phenotype depends on what bottleneck it creates.
 
 Diagnostics (practical):
-- Screening: [[Plasma_Measurement_B12]]
-- Functional: [[Metabolite_Methylmalonic_Acid]], [[Homocysteine]]
+- Screening: 
+- Functional: , 
 
-Related: [[111_Hub_Methylation]], [[Dictionary_One_Carbon_Metabolism]], [[Zettel_B12_Core_Reactions_Methionine_Synthase_and_Methylmalonyl_CoA]], [[Micronutrients]]
+Related: , , , 
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Homocysteine.md`.
 
@@ -22502,13 +22305,13 @@ Clinical meaning:
 
 Common confusion:
 - “Homocysteine = heart disease only.” It also reflects methylation network strain.
-- “High homocysteine means B12 deficiency.” It may be folate/B6 or mixed; pair with [[Metabolite_Methylmalononic_Acid]] when B12 question matters.
+- “High homocysteine means B12 deficiency.” It may be folate/B6 or mixed; pair with  when B12 question matters.
 
 Interpretation anchor:
 - If homocysteine is high and MMA is high → stronger B12 signal.
 - If homocysteine is high and MMA is normal → look harder at folate/B6 and other drivers.
 
-Related: [[Dictionary_One_Carbon_Metabolism]], [[Dictionary_Cobalamin_Vitamin_B12]], [[Metabolite_Methylmalononic_Acid]], [[111_Hub_Methylation]]
+Related: , , , 
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Metabolite_Methylmalononic_Acid.md`.
 
@@ -22531,9 +22334,9 @@ Common confusion:
 
 Use pattern:
 - Symptoms/risk + ambiguous serum B12 → MMA is a strong clarifier.
-- Pair with [[Homocysteine]] to map whether the issue is “B12-only” or “network.”
+- Pair with  to map whether the issue is “B12-only” or “network.”
 
-Related: [[Dictionary_Cobalamin_Vitamin_B12]], [[Dictionary_One_Carbon_Metabolism]], [[Homocysteine]], [[111_Hub_Methylation]]
+Related: , , , 
 `‌`‌`
 Next step: Create `30_Rules/Rule_B12_Diagnostics_Minimal_Set.md`.
 
@@ -22550,7 +22353,7 @@ Internal clinic rule for when to go beyond serum B12 and how to triangulate.
 Decision rule:
 - IF there are B12-compatible symptoms OR high-risk context
   - THEN do not rely on serum B12 alone
-  - AND add functional markers: [[Metabolite_Methylmalononic_Acid]] + [[Homocysteine]]
+  - AND add functional markers:  + 
   - BECAUSE serum B12 can look acceptable while pathway throughput is impaired.
 
 Triangulation:
@@ -22563,7 +22366,7 @@ Safety / context gates:
 - IF renal function is reduced
   - THEN interpret MMA cautiously (pair with clinical picture and other markers).
 
-Related: [[Dictionary_Cobalamin_Vitamin_B12]], [[Dictionary_One_Carbon_Metabolism]], [[Dictionary_Homocysteine]], [[Dictionary_Metabolite_Methylmalononic_Acid]], [[111_Hub_Methylation]]
+Related: , , , , 
 `‌`‌`
 Next step: Create `10_Zettels/Zettel_Methylation_Markers_Are_Network_Markers_Not_Single_Nutrient_Markers.md`.
 
@@ -22582,11 +22385,11 @@ The one-carbon system is multi-node: B12, folate (5-MTHF), B6, and other factors
 
 Implications:
 - Avoid single-supplement explanations from one marker.
-- Prefer paired interpretation: [[Homocysteine]] + [[Metabolite_Methylmalononic_Acid]] with context from [[Dictionary_One_Carbon_Metabolism]].
+- Prefer paired interpretation:  +  with context from .
 
-Related: [[Dictionary_One_Carbon_Metabolism]], [[Dictionary_Homocysteine]], [[Dictionary_Cobalamin_Vitamin_B12]], [[Rule_B12_Diagnostics_Minimal_Set]], [[111_Hub_Methylation]]
+Related: , , , , 
 `‌`‌`
-Next step: Add these five notes into their folders and link them from `[[111_Hub_Methylation]]`.
+Next step: Add these five notes into their folders and link them from ``.
 
 ---
 
@@ -22846,7 +22649,7 @@ Triage (to fill after paste):
 
 Process_into:
 - 50_Library (source note) + extract zettels/rules/protocols into relevant domains
-Related: [[000_Anchor_Prompt]]
+Related: 
 `‌`‌`
 Next step: Paste the Facebook post text here (or 2–4 screenshots showing the full post).
 
@@ -22861,7 +22664,7 @@ Goal:
 Turn ANY long source (podcast/article/thread/report) into complete Obsidian coverage without chaos.
 
 Method (no missed info):
-1) Capture: create ONE source note in [[50_Library]] or [[00_Inbox]] with the raw link + 5–10 bullet triage.
+1) Capture: create ONE source note in  or  with the raw link + 5–10 bullet triage.
 2) Slice: split the source into chunks (by sections/timestamps/paragraph blocks).
 3) Extract per chunk using a fixed checklist:
    - 1–3 Zettels (claims + mechanism + implications)
@@ -22870,7 +22673,7 @@ Method (no missed info):
    - 0–2 Dictionary stubs (only if a term is used but undefined)
 4) Stitch: every extracted note MUST link back to:
    - the source note (Library) AND
-   - the relevant domain hub (e.g., [[111_Hub_Vitamin_D]])
+   - the relevant domain hub (e.g., )
 5) Close: update the source note with:
    - “Extracted_notes:” list
    - “Remaining_chunks:” yes/no
@@ -22879,7 +22682,7 @@ Quality guardrails:
 - Prefer completeness over perfection: create stubs, then upgrade (#status/draft → #status/stable).
 - Avoid tag sprawl: concepts live in text + links, not new tags.
 
-Related: [[000_Anchor_Prompt]]
+Related: 
 `‌`‌`
 Next step: Create a Library source note for your “30 episodes collection” with titles + links (even if rough).
 
@@ -22894,16 +22697,16 @@ Purpose:
 A minimal “map of basics” to guide what we extract next and where it lives.
 
 Core domains (current vault backbone):
-- [[111_Hub_Vitamin_D]]
-- [[111_Hub_Insulin_Resistance]]
-- [[111_Hub_Gut_Function]]
-- [[111_Hub_Lipids_And_Fatty_Acids]]
-- [[111_Hub_Mitochondria]]
-- [[111_Hub_Methylation]]
-- [[111_Hub_Diet_Framework]]
-- [[111_Hub_Vitamins_And_Supplements]]
-- [[111_Hub_Neurotransmitters]]
-- [[111_Hub_Disease_Specific]]
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 
 “Basic core ideas” we will eventually want defined + linked (source-fed):
 - Definitions: macronutrients, micronutrients, vitamins, minerals, inflammation, oxidative stress, phenotype
@@ -22914,7 +22717,7 @@ Core domains (current vault backbone):
 Operating rule:
 When a new source arrives, we decide: which hub(s) does it feed + which “basic core idea” does it upgrade?
 
-Related: [[000_Anchor_Prompt]]
+Related: 
 `‌`‌`
 Next step: Pick ONE domain you want to “fill first” (Vitamin_D vs Insulin_Resistance vs Gut_Function).
 
@@ -22938,14 +22741,14 @@ Common confusion:
 - “All forms are the same.” Different forms may behave differently (keep forms as linked notes, not tags).
 
 Assessment (common markers to link):
-- [[Marker_Methylmalonic_Acid_MMA]]
-- [[Marker_Homocysteine]]
-- [[Test_Serum_B12]]
+- 
+- 
+- 
 - (optional later) holotranscobalamin, RBC indices, clinical phenotype
 
-Related: [[111_Hub_Methylation]], [[Dictionary_Micronutrients]], [[Dictionary_Vitamins]]
+Related: , , 
 `‌`‌`
-Next step: Create the marker note [[Marker_Methylmalonic_Acid_MMA]] as a short dictionary-style marker entry.
+Next step: Create the marker note  as a short dictionary-style marker entry.
 
 ---
 
@@ -22994,7 +22797,7 @@ Process_into:
 - 50_Library (keep as source record) + extracted notes above
 
 Related:
-- [[000_Anchor_Prompt]]
+- 
 `‌`‌`
 
 Next step: Paste the **full text** of the Facebook post (including any images’ text/captions) into the “Raw content” section of `00_Inbox/Inbox_Facebook_Post_1Cu9BrVDtY.md`.
@@ -23103,7 +22906,7 @@ Long-term drift rule:
 Non-goals:
 - Do not treat “LDL/total cholesterol alone” as the decision endpoint; interpret within broader metabolic context.
 
-Related: [[111_Hub_Diet_Framework]], [[111_Hub_Insulin_Resistance]], [[111_Hub_Lipids_And_Fatty_Acids]], [[Zettel_Carb_Creep_Explains_12m_Convergence]], [[Zettel_Low_Carb_Not_Harder_To_Adhere]], [[Library_Evidence_Low_Carb_Vs_Low_Fat_RCTs]]
+Related: , , , , , 
 `‌`‌`
 
 Next step: Paste this note into `30_Rules`.
@@ -23131,7 +22934,7 @@ Implications:
 - Use “adherence fear” as a coaching target, not as a reason to avoid low-carb.
 - Emphasize satiety strategy + feedback loops (symptom/marker improvements) to sustain adherence.
 
-Related: [[111_Hub_Diet_Framework]], [[Rule_Low_Carb_Vs_Low_Fat_Weight_Loss]], [[Library_Evidence_Low_Carb_Vs_Low_Fat_RCTs]]
+Related: , , 
 `‌`‌`
 
 Next step: Paste this note into `10_Zettels`.
@@ -23154,7 +22957,7 @@ Clinical use:
 - When progress stalls after month 6–12, measure *actual* carb intake rather than changing the theory.
 - Treat “carb creep” as a behavioral + environment drift problem (food availability, stress, social eating), not a physiology mystery.
 
-Related: [[111_Hub_Diet_Framework]], [[111_Hub_Insulin_Resistance]], [[Rule_Low_Carb_Vs_Low_Fat_Weight_Loss]], [[Zettel_Low_Carb_Not_Harder_To_Adhere]]
+Related: , , , 
 `‌`‌`
 
 Next step: Paste this note into `10_Zettels`.
@@ -23178,7 +22981,7 @@ Common confusion:
 - “Low-carb = no carbs.” In practice, carb targets vary and can be individualized.
 - “Carbs are required.” The post argues they are not necessary, especially when processed; whole-food carbs may be tolerated in metabolically flexible individuals.
 
-Related: [[Macronutrients]], [[Dictionary_Carbohydrates]], [[111_Hub_Diet_Framework]], [[111_Hub_Insulin_Resistance]], [[Rule_Low_Carb_Vs_Low_Fat_Weight_Loss]]
+Related: , , , , 
 `‌`‌`
 
 Next step: Paste this note into `70_Dictionary`.
@@ -23208,7 +23011,7 @@ Citations mentioned in the post (as given):
 4) Teicholz N. et al. Myths and Facts Regarding Low-Carbohydrate Diets. Nutrients, 2025.
 5) DIETFITS trial: Gardner CD et al. JAMA 2018.
 
-Related: [[111_Hub_Diet_Framework]], [[Rule_Low_Carb_Vs_Low_Fat_Weight_Loss]], [[Zettel_Low_Carb_Not_Harder_To_Adhere]], [[Zettel_Carb_Creep_Explains_12m_Convergence]]
+Related: , , , 
 `‌`‌`
 
 Next step: Paste this note into `50_Library`.
@@ -23251,10 +23054,10 @@ Create/update this hub section:
 **111_Domain_Hubs/111_Hub_Diet_Framework.md** (add a small block)
 
 - “Low carb vs low fat (evidence cluster)”
-  - **Rule:** [[Rule_Low_Carb_Vs_Low_Fat_Weight_Loss]]
-  - **Mechanisms:** [[Zettel_Carb_Creep_Explains_12m_Convergence]], [[Zettel_Low_Carb_Not_Harder_To_Adhere]]
-  - **Definition:** [[Dictionary_Low_Carbohydrate_Diet]]
-  - **Evidence:** [[Library_Evidence_Low_Carb_Vs_Low_Fat_RCTs]]
+  - **Rule:** 
+  - **Mechanisms:** , 
+  - **Definition:** 
+  - **Evidence:** 
 
 That’s it. Suddenly every future post/paper fits cleanly.
 
@@ -23331,7 +23134,7 @@ References listed in the post (capture only; verify + add DOI later):
 4. Teicholz N, Croft SM, Cuaranta I, Cucuzzella et al. Low-carbohydrate myths/facts. Nutrients (2025)
 5. DIETFITS trial: Gardner CD et al. JAMA (2018)
 
-Related: [[Rule_Diet_Selection_Low_Carb_Default]] [[Low_Carbohydrate_Diet]] [[Low_Fat_Diet]] [[111_Hub_Diet_Framework]] [[111_Hub_Insulin_Resistance]]
+Related:     
 `‌`‌`
 
 ## 2) 30_Rules/Rule_Diet_Selection_Low_Carb_Default.md
@@ -23371,7 +23174,7 @@ Minimal monitoring (practical):
 - Metabolic markers when available: fasting glucose, fasting insulin, HbA1c, TG, HDL.
 - Pattern: improvements in TG/HDL and glucose/insulin support the low-carb direction.
 
-Related: [[Facebook_Tsoukalas_Low_Carb_Vs_Low_Fat_39_RCTs]] [[Zettel_Low_Carb_Superior_Weight_Loss_RCTs]] [[Zettel_Adherence_Not_Worse_Low_Carb]] [[Zettel_Carb_Creep_Explains_12m_Convergence]] [[111_Hub_Diet_Framework]] [[111_Hub_Insulin_Resistance]]
+Related:      
 `‌`‌`
 
 ## 3) 10_Zettels/Zettel_Low_Carb_Superior_Weight_Loss_RCTs.md
@@ -23390,7 +23193,7 @@ Mechanism candidates (keep as hypotheses):
 - Lower glycemic load + lower insulin → easier fat mobilization.
 - Higher satiety (especially when protein + “good fats” increase) → better spontaneous adherence.
 
-Related: [[Facebook_Tsoukalas_Low_Carb_Vs_Low_Fat_39_RCTs]] [[Rule_Diet_Selection_Low_Carb_Default]] [[111_Hub_Diet_Framework]] [[111_Hub_Insulin_Resistance]] [[Low_Carbohydrate_Diet]]
+Related:     
 `‌`‌`
 
 ## 4) 10_Zettels/Zettel_Adherence_Not_Worse_Low_Carb.md
@@ -23408,7 +23211,7 @@ Clinical meaning:
 Practical use:
 - When a patient fears restriction, frame the plan around satiety, structure, and feedback loops rather than willpower.
 
-Related: [[Facebook_Tsoukalas_Low_Carb_Vs_Low_Fat_39_RCTs]] [[Rule_Diet_Selection_Low_Carb_Default]] [[111_Hub_Diet_Framework]] [[Low_Carbohydrate_Diet]]
+Related:    
 `‌`‌`
 
 ## 5) 10_Zettels/Zettel_Carb_Creep_Explains_12m_Convergence.md
@@ -23426,7 +23229,7 @@ Clinical meaning:
 Actionable implication:
 - Build explicit maintenance rules: carb boundaries, relapse triggers, and periodic “reset weeks.”
 
-Related: [[Facebook_Tsoukalas_Low_Carb_Vs_Low_Fat_39_RCTs]] [[Rule_Diet_Selection_Low_Carb_Default]] [[111_Hub_Diet_Framework]] [[111_Hub_Insulin_Resistance]]
+Related:    
 `‌`‌`
 
 ## 6) 70_Dictionary/Low_Carbohydrate_Diet.md
@@ -23449,7 +23252,7 @@ Practical monitoring:
 - Hunger/satiety, weight, waist.
 - Labs when available: fasting glucose/insulin, HbA1c, TG, HDL.
 
-Related: [[Low_Fat_Diet]] [[Rule_Diet_Selection_Low_Carb_Default]] [[111_Hub_Diet_Framework]] [[111_Hub_Insulin_Resistance]]
+Related:    
 `‌`‌`
 
 ## 7) 70_Dictionary/Low_Fat_Diet.md
@@ -23468,7 +23271,7 @@ Common confusion:
 - “Low-fat” is sometimes used as a proxy for “calorie restriction,” but the physiology and adherence drivers differ.
 - A low-fat diet can still be high in refined carbohydrates, which may worsen metabolic markers in insulin-resistant phenotypes.
 
-Related: [[Low_Carbohydrate_Diet]] [[Rule_Diet_Selection_Low_Carb_Default]] [[111_Hub_Diet_Framework]] [[111_Hub_Insulin_Resistance]]
+Related:    
 `‌`‌`
 
 **Next step:** Paste (or Zotero-export) the full citation for the specific “39 RCT” source so I can upgrade the library note from “claimed references” to a citable evidence anchor.
@@ -23569,7 +23372,7 @@ To_verify:
 - “Adherence/completion rates ~79.51% vs 77.72%” → likely Ref_2 or Ref_3 (needs pinning)
 - “Difference shrinks after 12 months due to carb creep” → likely Ref_5 + meta-analytic framing (needs pinning)
 
-Related: [[Facebook_Tsoukalas_Low_Carb_Vs_Low_Fat_39_RCTs]] [[Rule_Diet_Selection_Low_Carb_Default]] [[111_Hub_Diet_Framework]] [[111_Hub_Insulin_Resistance]]
+Related:    
 `‌`‌`
 
 ## 2) 50_Library/Facebook_Tsoukalas_Low_Carb_Vs_Low_Fat_39_RCTs.md  (EDIT)
@@ -23603,9 +23406,9 @@ Figure noted:
 - Chart of RCTs (2003–2023) with statistically significant findings comparing weight loss in low-carb vs low-fat arms.
 
 References (captured as-written):
-- [[Refs_Tsoukalas_Post_Low_Carb_Vs_Low_Fat]]
+- 
 
-Related: [[Rule_Diet_Selection_Low_Carb_Default]] [[Low_Carbohydrate_Diet]] [[Low_Fat_Diet]] [[111_Hub_Diet_Framework]] [[111_Hub_Insulin_Resistance]]
+Related:     
 `‌`‌`
 
 Next step: Open `Refs_Tsoukalas_Post_Low_Carb_Vs_Low_Fat` and mark which single reference actually contains the “39 RCT” list + adherence numbers (so we can pin claims to a primary anchor).
@@ -23652,10 +23455,10 @@ Time effect (12-month drift)
   BECAUSE post claims the LC-vs-LF difference shrinks mainly due to gradual carb increase over time.
 
 Evidence anchors (to verify)
-- Primary capture: [[Refs_Tsoukalas_Post_Low_Carb_Vs_Low_Fat]]
-- Post capture: [[Facebook_Tsoukalas_Low_Carb_Vs_Low_Fat_39_RCTs]]
+- Primary capture: 
+- Post capture: 
 
-Related: [[111_Hub_Diet_Framework]] [[111_Hub_Insulin_Resistance]] [[Zettel_Carb_Creep_Explains_12_Month_Drift]] [[Dictionary_Low_Carbohydrate_Diet]] [[Dictionary_Carbohydrate_Tolerance]]
+Related:     
 `‌`‌`
 Next step: Create `10_Zettels/Zettel_Carb_Creep_Explains_12_Month_Drift.md`.
 
@@ -23678,9 +23481,9 @@ Clinical implications:
 - Structure beats motivation: simplify meal template, remove “gray-zone” foods, tighten thresholds temporarily.
 
 Evidence pointer (needs pinning):
-Post states this and cites DIETFITS + meta-analytic context. Verify in [[Refs_Tsoukalas_Post_Low_Carb_Vs_Low_Fat]] before using as a strong claim.
+Post states this and cites DIETFITS + meta-analytic context. Verify in  before using as a strong claim.
 
-Related: [[Rule_Diet_Selection_Low_Carb_Default]] [[Dictionary_Low_Carbohydrate_Diet]] [[111_Hub_Diet_Framework]] [[111_Hub_Insulin_Resistance]]
+Related:    
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Low_Carbohydrate_Diet.md`.
 
@@ -23707,7 +23510,7 @@ Common confusion:
 Practical boundary (keep flexible):
 Use patient phenotype + response rather than a single gram cutoff. Many sources use <130 g/day as “low-carb,” but thresholds vary.
 
-Related: [[Dictionary_Carbohydrates]] [[Dictionary_Macronutrients]] [[Rule_Diet_Selection_Low_Carb_Default]] [[Zettel_Carb_Creep_Explains_12_Month_Drift]] [[111_Hub_Diet_Framework]]
+Related:     
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Carbohydrate_Tolerance.md`.
 
@@ -23736,7 +23539,7 @@ Common confusion:
 - “Tolerance = willpower.” No: it’s physiology + context.
 - “If labs are normal, tolerance is perfect.” Early IR can exist with “normal” glucose; look at pattern + response.
 
-Related: [[111_Hub_Insulin_Resistance]] [[Rule_Diet_Selection_Low_Carb_Default]] [[Dictionary_Low_Carbohydrate_Diet]] [[Facebook_Tsoukalas_Low_Carb_Vs_Low_Fat_39_RCTs]]
+Related:    
 `‌`‌`
 Next step: Add one line in `50_Library/Facebook_Tsoukalas_Low_Carb_Vs_Low_Fat_39_RCTs.md` stating which claim you want to verify first (39 RCT list, adherence %, or 12-month drift), so we can build the strongest evidence chain next.
 
@@ -23810,13 +23613,13 @@ Rules for population:
 - Meta-analyses are linked but tracked separately.
 
 Linked claims:
-- [[Rule_Diet_Selection_Low_Carb_Default]]
-- [[Zettel_Carb_Creep_Explains_12_Month_Drift]]
+- 
+- 
 
 Related:
-- [[Refs_Tsoukalas_Post_Low_Carb_Vs_Low_Fat]]
-- [[Facebook_Tsoukalas_Low_Carb_Vs_Low_Fat_39_RCTs]]
-- [[111_Hub_Diet_Framework]]
+- 
+- 
+- 
 `‌`‌`
 
 **Why this is powerful**
@@ -23845,9 +23648,9 @@ Clinical implication:
 - Treatment decisions should anchor to phenotype response + mechanism + quality of evidence, not headline numbers.
 
 Related:
-- [[RCT_List_Low_Carb_Vs_Low_Fat]]
-- [[Rule_Diet_Selection_Low_Carb_Default]]
-- [[111_Hub_Diet_Framework]]
+- 
+- 
+- 
 `‌`‌`
 
 ---
@@ -23858,7 +23661,7 @@ Add **one line** to this note:
 
 `50_Library/Facebook_Tsoukalas_Low_Carb_Vs_Low_Fat_39_RCTs.md`
 
-> Evidence status: “39 RCTs” claim pending explicit enumeration → tracked in [[RCT_List_Low_Carb_Vs_Low_Fat]].
+> Evidence status: “39 RCTs” claim pending explicit enumeration → tracked in .
 
 That’s it. No rewrite needed.
 
@@ -24066,7 +23869,7 @@ Copy-paste this into `100_Templates/000_Anchor_Prompt` when ready:
   - **Hub** = map of content, not content itself
 
 **Linking**
-- Every note includes: `Related: [[...]]` (1–6 strong links).
+- Every note includes: `Related: ` (1–6 strong links).
 - Claims must link to either a **Rule**, **Protocol**, or **Library** note (evidence path).
 
 **Evidence discipline**
@@ -24179,16 +23982,16 @@ Convert messy inputs (posts, podcasts, papers, reports, ideas, cases) into SHORT
 111_Domain_Hubs
 
 ## Canonical hubs (use exact names when relevant)
-[[111_Hub_Vitamin_D]]
-[[111_Hub_Insulin_Resistance]]
-[[111_Hub_Gut_Function]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
-[[111_Hub_Diet_Framework]]
-[[111_Hub_Vitamins_And_Supplements]]
-[[111_Hub_Mitochondria]]
-[[111_Hub_Disease_Specific]]
-[[111_Hub_Neurotransmitters]]
-[[111_Hub_Methylation]]
+
+
+
+
+
+
+
+
+
+
 
 ## Tag rules (strict)
 - Exactly 1 Type tag
@@ -24212,7 +24015,7 @@ ANTI_TAG RULE
 Never create tags for specific supplements or biomarkers. Put those in text + links.
 
 ## Linking rules (strict)
-- Use ONLY Obsidian links: [[Note_Name]]
+- Use ONLY Obsidian links: 
 - Each new note must include: Related: 1–6 strong links (no vague links)
 - When applicable: link back to the relevant hub
 
@@ -24454,7 +24257,7 @@ Yes: **keep them blank at first**. Think of the titles as “neurons waiting for
 
 ### Step A — Create the empty notes (titles only)
 - You create the notes from the batches (blank).
-- This gives us *stable addresses* for linking: `[[70_Dict_...]]`, `[[30_Rule_...]]`, etc.
+- This gives us *stable addresses* for linking: ``, ``, etc.
 
 ### Step B — Capture a source *once* in `50_Library`
 For every podcast/article/post/PDF/RCT, create **one** Library note (or ask me to create it):
@@ -24478,10 +24281,10 @@ Now we **populate** a blank dictionary/rule note by pulling only what’s suppor
 
 ### Step D — Attach evidence links (without making Obsidian messy)
 In each non-library note add a tiny “Evidence:” section like:
-- `Evidence: [[50_Library_Source_Name_YYYY_MM_DD]] (claim 3, 5)`
+- `Evidence:  (claim 3, 5)`
 
 And also add:
-- `Related: [[111_Hub_Vitamin_D]] [[70_Dict_PTH_As_Biological_Response_Marker]] ...`
+- `Related:   ...`
 
 This way:
 - **Every claim points somewhere**
@@ -24597,7 +24400,7 @@ What is the master anchor prompt at this point. Assume I wanna start a new conve
 1. **Summarization**: Write in your own words, capturing essential arguments. Keep notes brief and focused.
 
 2. **Linking**:  
-   - Internal links using `[[Note Title]]` to other vault notes.  
+   - Internal links using `` to other vault notes.  
    - External links using `[link text](URL)`.
 
 3. **Tagging**:  
@@ -24692,16 +24495,16 @@ VAULT STRUCTURE (fixed)
 ========================
 CANONICAL HUBS (exact names)
 ========================
-[[111_Hub_Vitamin_D]]
-[[111_Hub_Insulin_Resistance]]
-[[111_Hub_Gut_Function]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
-[[111_Hub_Diet_Framework]]
-[[111_Hub_Vitamins_And_Supplements]]
-[[111_Hub_Mitochondria]]
-[[111_Hub_Disease_Specific]]
-[[111_Hub_Neurotransmitters]]
-[[111_Hub_Methylation]]
+
+
+
+
+
+
+
+
+
+
 
 ========================
 TAG POOL RULES (strict)
@@ -24744,10 +24547,10 @@ Never create tags for specific supplements or biomarkers.
 ========================
 LINKING RULES (strict)
 ========================
-- Use ONLY Obsidian internal links: [[Note_Name]]
+- Use ONLY Obsidian internal links: 
 - No external markdown links inside clinical notes unless it’s a Library note.
 - Every new note must include a single line:
-  Related: [[Link1]] [[Link2]] ...
+  Related:   ...
   - 1–6 links max
   - Must be strong + specific (no vague “health” links)
 - If a note belongs to a canonical domain, it MUST link to its hub.
@@ -24966,9 +24769,9 @@ This can live **inside the note body** (not tags).
 Right now you noticed the issue: rules read like notebooks unless they **spawn** the supporting notes.
 So we formalize:
 - Every Rule/Protocol ends with **Spawns:**  
-  - [[Dictionary_Term_X]]  
-  - [[Zettel_Mechanism_Y]]  
-  - [[Library_Source_Z]]
+  -   
+  -   
+  - 
 
 That’s how we avoid missing information.
 
@@ -25177,7 +24980,7 @@ A template for Library notes that forces:
 ### 2) `100_Templates/Template_Evidence_Label_Block`
 A tiny block you paste into notes:
 - Evidence: Supported / Plausible / Speculative / TBD
-- Source_Link: [[Library_...]] (or “TBD”)
+- Source_Link:  (or “TBD”)
 - Open_Loops:
 
 ### 3) `30_Rules/Rule_Hub_Governance`
@@ -25576,12 +25379,12 @@ Bibliography (raw import, as given):
 12. 2018 Annual Report of the American Association of Poison Control Centers’ National Poison Data System (NPDS): 36th Annual Report. Gummin et al. (2019) (tandfonline link in source)
 
 Extract_to:
-- [[Rule_RDA_Is_Minimum_Not_Optimal_Target]]
-- [[Dictionary_Recommended_Daily_Allowance_RDA]]
-- [[Dictionary_Xenobiotic]]
-- [[Dictionary_Fat_Soluble_Vitamins]]
-- [[111_Hub_Vitamins_And_Supplements]]
-Related: [[111_Hub_Vitamins_And_Supplements]], [[111_Hub_Diet_Framework]], [[111_Hub_Vitamin_D]]
+- 
+- 
+- 
+- 
+- 
+Related: , , 
 `‌`‌`
 
 3) Next step:  
@@ -25601,7 +25404,7 @@ Next step: Create `30_Rules/Rule_RDA_Is_Minimum_Not_Optimal_Target.md`
 
 Scope:
 Internal clinical communication rule-set: how we explain “recommended daily allowance” vs therapeutic/functional dosing.
-Source anchor: [[Dr_Tsoukalas_Safe_Intake_Of_Vitamins_RDA_Context]]
+Source anchor: 
 
 Rule:
 - IF a patient cites “RDA/ΣΗΔ” as an upper safety ceiling
@@ -25666,16 +25469,16 @@ Clinical questions the source explicitly raises (good patient-facing FAQ seeds):
 
 Actionable extraction targets:
 - Convert the “RDA is minimum” concept into a clinic Rule note.
-- Define key terms: [[Dictionary_Recommended_Daily_Allowance_RDA]], [[Dictionary_Xenobiotic]], [[Dictionary_Cytochrome_P450]].
+- Define key terms: , , .
 - Create a protocol skeleton for “Supplement_Safety_Monitoring” once we decide scope.
 
 Related:
-[[111_Hub_Vitamins_And_Supplements]]
-[[111_Hub_Vitamin_D]]
-[[Dictionary_Recommended_Daily_Allowance_RDA]]
-[[Dictionary_Xenobiotic]]
-[[Dictionary_Cytochrome_P450]]
-[[Rule_RDA_Is_Minimum_Not_Optimal]]
+
+
+
+
+
+
 
 Bibliography (as listed in the source; to upgrade via Zotero later):
 1. "Understanding Empty Calories." Harvard Medical School.
@@ -25732,16 +25535,16 @@ Safety gate (communication):
   BECAUSE accumulation risk is possible and dose-response varies by phenotype.
 
 What this rule can generate (zettels to extract later):
-- [[Zettel_RDA_Was_Built_For_Scarcity]]
-- [[Zettel_Empty_Calories_Hidden_Hunger]]
-- [[Zettel_Vitamins_Enable_Detox_Not_Burden_Liver]]
+- 
+- 
+- 
 
 Related:
-[[111_Hub_Vitamins_And_Supplements]]
-[[Dictionary_Recommended_Daily_Allowance_RDA]]
-[[Dictionary_Xenobiotic]]
-[[Dictionary_Cytochrome_P450]]
-[[Library_Safe_Vitamin_Intake_Tsoukalas]]
+
+
+
+
+
 `‌`‌`
 
 3) Next step:  
@@ -25774,10 +25577,10 @@ Common confusion:
 
 Links:
 Related:
-[[Rule_RDA_Is_Minimum_Not_Optimal]]
-[[Dictionary_Fat_Soluble_Vitamins]]
-[[Dictionary_Xenobiotic]]
-[[Library_Safe_Vitamin_Intake_Tsoukalas]]
+
+
+
+
 `‌`‌`
 
 3) Next step:  
@@ -25809,10 +25612,10 @@ Common confusion:
 
 Links:
 Related:
-[[Dictionary_Cytochrome_P450]]
-[[Zettel_Vitamins_Enable_Detox_Not_Burden_Liver]]
-[[Rule_RDA_Is_Minimum_Not_Optimal]]
-[[111_Hub_Vitamins_And_Supplements]]
+
+
+
+
 `‌`‌`
 
 3) Next step:  
@@ -26082,16 +25885,16 @@ Always finish with:
 ## CANONICAL HUBS  
 Use these exact names when relevant:
 
-[[111_Hub_Vitamin_D]]  
-[[111_Hub_Insulin_Resistance]]  
-[[111_Hub_Gut_Function]]  
-[[111_Hub_Lipids_And_Fatty_Acids]]  
-[[111_Hub_Diet_Framework]]  
-[[111_Hub_Vitamins_And_Supplements]]  
-[[111_Hub_Mitochondria]]  
-[[111_Hub_Disease_Specific]]  
-[[111_Hub_Neurotransmitters]]  
-[[111_Hub_Methylation]]  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 ---
 
@@ -26144,7 +25947,7 @@ Put those in text + links only.
 ---
 
 ## LINKING RULES  
-- Use only Obsidian links: [[Note_Name]]  
+- Use only Obsidian links:   
 - Every note must contain:  
   **Related:** 1–6 strong links  
 - Always link to its hub when applicable  
@@ -26326,16 +26129,16 @@ Always finish with:
 ## CANONICAL HUBS
 Use these exact names when relevant:
 
-[[111_Hub_Vitamin_D]]  
-[[111_Hub_Insulin_Resistance]]  
-[[111_Hub_Gut_Function]]  
-[[111_Hub_Lipids_And_Fatty_Acids]]  
-[[111_Hub_Diet_Framework]]  
-[[111_Hub_Vitamins_And_Supplements]]  
-[[111_Hub_Mitochondria]]  
-[[111_Hub_Disease_Specific]]  
-[[111_Hub_Neurotransmitters]]  
-[[111_Hub_Methylation]]  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 ---
 
@@ -26389,7 +26192,7 @@ Put those in text + links only.
 ---
 
 ## LINKING RULES
-- Use only Obsidian links: [[Note_Name]]  
+- Use only Obsidian links:   
 - Every note must contain:  
   **Related:** 1–6 strong links  
 - Always link to its hub when applicable  
@@ -26565,16 +26368,16 @@ VAULT STRUCTURE (fixed)
 111_Domain_Hubs
 
 CANONICAL HUBS (use exact names)
-[[111_Hub_Vitamin_D]]
-[[111_Hub_Insulin_Resistance]]
-[[111_Hub_Gut_Function]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
-[[111_Hub_Diet_Framework]]
-[[111_Hub_Vitamins_And_Supplements]]
-[[111_Hub_Mitochondria]]
-[[111_Hub_Disease_Specific]]
-[[111_Hub_Neurotransmitters]]
-[[111_Hub_Methylation]]
+
+
+
+
+
+
+
+
+
+
 
 TAG POOL RULES (strict)
 Keep tags boring.
@@ -26599,7 +26402,7 @@ Never create tags for specific supplements or biomarkers (K2, MK7, PTH, ApoB, TG
 Put those in text + strong links instead.
 
 LINKING RULES (strict)
-- Use ONLY Obsidian links: [[Note_Name]]
+- Use ONLY Obsidian links: 
 - Each created note must include:
   - Related: 1 to 6 strong links (no vague dumping)
   - Link to its hub when applicable
@@ -26645,7 +26448,7 @@ ZETTEL (10_Zettels)
 - One idea, one mechanism, one implication.
 - 8 to 20 lines typical.
 - Ends with: Implications: (1 to 3 bullets)
-- Ends with: Evidence: (link to 1 to 3 [[Library_...]] notes or placeholders)
+- Ends with: Evidence: (link to 1 to 3  notes or placeholders)
 
 RULE (30_Rules)
 - IF/THEN gates, targets, monitoring, exceptions.
@@ -26686,7 +26489,7 @@ Library note skeleton:
 - Study_type:
 - Population:
 - Key_findings (3 to 7 bullets):
-- Extracted_claims -> links to [[Zettel_...]]
+- Extracted_claims -> links to 
 - Notes / limitations:
 
 UNFINISHED VS DONE (state clarity rule)
@@ -27031,16 +26834,16 @@ VAULT STRUCTURE (fixed)
 111_Domain_Hubs
 
 CANONICAL HUBS (use exact names)
-[[111_Hub_Vitamin_D]]
-[[111_Hub_Insulin_Resistance]]
-[[111_Hub_Gut_Function]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
-[[111_Hub_Diet_Framework]]
-[[111_Hub_Vitamins_And_Supplements]]
-[[111_Hub_Mitochondria]]
-[[111_Hub_Disease_Specific]]
-[[111_Hub_Neurotransmitters]]
-[[111_Hub_Methylation]]
+
+
+
+
+
+
+
+
+
+
 
 TAG POOL RULES (strict)
 Keep tags boring.
@@ -27065,7 +26868,7 @@ Never create tags for specific supplements or biomarkers (K2, MK7, PTH, ApoB, TG
 Put those in text + strong links instead.
 
 LINKING RULES (strict)
-- Use ONLY Obsidian links: [[Note_Name]]
+- Use ONLY Obsidian links: 
 - Each created note must include:
   - Related: 1 to 6 strong links (no vague dumping)
   - Link to its hub when applicable
@@ -27111,7 +26914,7 @@ ZETTEL (10_Zettels)
 - One idea, one mechanism, one implication.
 - 8 to 20 lines typical.
 - Ends with: Implications: (1 to 3 bullets)
-- Ends with: Evidence: (link to 1 to 3 [[Library_...]] notes or placeholders)
+- Ends with: Evidence: (link to 1 to 3  notes or placeholders)
 
 RULE (30_Rules)
 - IF/THEN gates, targets, monitoring, exceptions.
@@ -27152,7 +26955,7 @@ Library note skeleton:
 - Study_type:
 - Population:
 - Key_findings (3 to 7 bullets):
-- Extracted_claims -> links to [[Zettel_...]]
+- Extracted_claims -> links to 
 - Notes / limitations:
 
 UNFINISHED VS DONE (state clarity rule)
@@ -27376,14 +27179,14 @@ Common confusion:
 - “Type 2 diabetes = not enough insulin from the start.” Often false early; the early pattern is frequently excess insulin with resistance.
 - “Glucose lowering = disease reversal.” Lowering glucose can reduce risk but may not correct the upstream drivers.
 
-Related: [[111_Hub_Insulin_Resistance]], [[Dictionary_Insulin_Resistance]], [[Dictionary_Prediabetes]], [[Zettel_Hyperinsulinemia_To_Beta_Cell_Exhaustion_Path]], [[Zettel_Ultra_Processed_Foods_Glycemic_Spikes_Insulin_Load]]
+Related: , , , , 
 Open_Loops:
 - Add diagnostic cutoffs + practical staging note (prediabetes → early T2D → late T2D).
 Needs_Evidence: yes
 Promote_to_stable_when:
 - Linked to 2–3 library items with RCT/longitudinal support.
 `‌`‌`
-Next step: Create [[Dictionary_Prediabetes]] in 70_Dictionary.
+Next step: Create  in 70_Dictionary.
 
 ---
 
@@ -27405,15 +27208,15 @@ Implications:
 - Interventions that lower insulin demand (diet composition, weight loss, activity) can interrupt progression.
 
 Evidence:
-- [[Library_Tsoukalas_Article_How_Type_2_Diabetes_Develops]]
-Related: [[111_Hub_Insulin_Resistance]], [[Dictionary_Type_2_Diabetes]], [[Dictionary_Insulin_Resistance]], [[Dictionary_Prediabetes]]
+- 
+Related: , , , 
 Open_Loops:
 - Add a short “clinical markers” zettel (TG/HDL, fasting insulin, HOMA-IR, HbA1c staging).
 Needs_Evidence: yes
 Promote_to_stable_when:
 - Add 1 review + 1 RCT/lifestyle remission evidence in Library.
 `‌`‌`
-Next step: Create [[Dictionary_Insulin_Resistance]] in 70_Dictionary (if missing).
+Next step: Create  in 70_Dictionary (if missing).
 
 ---
 
@@ -27435,15 +27238,15 @@ Implications:
 - Dietary strategy can be framed as reducing glycemic volatility, not just “calories.”
 
 Evidence:
-- [[Library_Tsoukalas_Article_How_Type_2_Diabetes_Develops]]
-Related: [[111_Hub_Diet_Framework]], [[111_Hub_Insulin_Resistance]], [[Dictionary_Macronutrients]], [[Dictionary_Carbohydrates]]
+- 
+Related: , , , 
 Open_Loops:
 - Add a zettel separating “carb amount” vs “processing + matrix + fiber” as distinct levers.
 Needs_Evidence: yes
 Promote_to_stable_when:
 - Add 1 mechanistic review + 1 clinical outcome study on ultra-processed foods/diabetes risk.
 `‌`‌`
-Next step: Create [[Zettel_Exercise_Glucose_Uptake_And_Insulin_Sensitivity]] in 10_Zettels.
+Next step: Create  in 10_Zettels.
 
 ---
 
@@ -27474,18 +27277,18 @@ Exceptions:
 - Always coordinate with medication plan; do not present as self-prescription.
 
 Links_to_mechanism:
-- [[Zettel_Hyperinsulinemia_To_Beta_Cell_Exhaustion_Path]]
-- [[Zettel_Ultra_Processed_Foods_Glycemic_Spikes_Insulin_Load]]
+- 
+- 
 Links_to_hubs:
-- [[111_Hub_Insulin_Resistance]]
-Related: [[Dictionary_Type_2_Diabetes]], [[Dictionary_Prediabetes]], [[111_Hub_Diet_Framework]], [[111_Hub_Gut_Function]]
+- 
+Related: , , , 
 Open_Loops:
 - Add a compact “symptom-to-metabolic pattern” note (what is nonspecific but useful).
 Needs_Evidence: yes
 Promote_to_stable_when:
 - Backed by at least 2 library notes (RCT + guideline/review).
 `‌`‌`
-Next step: Create [[111_Hub_Disease_Specific]] section “Diabetes_Type_2” with links to these notes.
+Next step: Create  section “Diabetes_Type_2” with links to these notes.
 
 ---
 
@@ -27516,9 +27319,9 @@ Key_findings:
 - Lifestyle/diet interventions can induce remission in a meaningful subset under supervision (claims + cites).
 
 Extracted_claims:
-- [[Zettel_Hyperinsulinemia_To_Beta_Cell_Exhaustion_Path]]
-- [[Zettel_Ultra_Processed_Foods_Glycemic_Spikes_Insulin_Load]]
-- [[Rule_Type_2_Diabetes_Intervene_Upstream_Not_Only_Glucose]]
+- 
+- 
+- 
 
 Notes_limitations:
 - Secondary source; requires validation via primary literature (RCTs, systematic reviews, guidelines).
@@ -27577,14 +27380,14 @@ Common confusion:
 - “Prediabetes is mild diabetes.” Not necessarily; it can be an early compensatory phase where insulin is high but glucose may still look “not that bad.”
 - “No symptoms means no problem.” Many symptoms are nonspecific and normalized.
 
-Related: [[Dictionary_Type_2_Diabetes]], [[Dictionary_Insulin_Resistance]], [[Zettel_Hyperinsulinemia_To_Beta_Cell_Exhaustion_Path]], [[Rule_Type_2_Diabetes_Intervene_Upstream_Not_Only_Glucose]], [[111_Hub_Insulin_Resistance]]
+Related: , , , , 
 Open_Loops:
 - Add diagnostic cutoffs (HbA1c, fasting glucose, OGTT) in a separate Rule note.
 Needs_Evidence: yes
 Promote_to_stable_when:
 - Cutoffs are added and linked to guideline library notes.
 `‌`‌`
-Next step: Create [[Rule_Prediabetes_Staging_And_Core_Labs]] in 30_Rules.
+Next step: Create  in 30_Rules.
 
 ---
 
@@ -27609,16 +27412,16 @@ Implications:
 - Interventions should target 2–3 highest drivers first.
 
 Evidence:
-- [[Library_Tsoukalas_Article_How_Type_2_Diabetes_Develops]]
-- [[Library_RCT_Lifestyle_Remission_T2D_Placeholder]]
-Related: [[111_Hub_Insulin_Resistance]], [[111_Hub_Diet_Framework]], [[111_Hub_Gut_Function]], [[111_Hub_Vitamin_D]], [[111_Hub_Neurotransmitters]]
+- 
+- 
+Related: , , , , 
 Open_Loops:
 - Split each driver into its own zettel with concrete markers + interventions.
 Needs_Evidence: yes
 Promote_to_stable_when:
 - Each driver linked to 1 primary source (RCT/cohort/mechanistic review).
 `‌`‌`
-Next step: Create [[Zettel_Stress_Hormones_Promote_Insulin_Resistance]] in 10_Zettels.
+Next step: Create  in 10_Zettels.
 
 ---
 
@@ -27639,16 +27442,16 @@ Implications:
 - Useful framing for patient adherence: “activity opens the door for glucose.”
 
 Evidence:
-- [[Library_Tsoukalas_Article_How_Type_2_Diabetes_Develops]]
-- [[Library_ACSM_ADA_Exercise_Position_Statement_2010]]
-Related: [[111_Hub_Insulin_Resistance]], [[111_Hub_Mitochondria]], [[Dictionary_Type_2_Diabetes]], [[Rule_Type_2_Diabetes_Intervene_Upstream_Not_Only_Glucose]]
+- 
+- 
+Related: , , , 
 Open_Loops:
 - Add minimal dosing heuristics (frequency/intensity) in a protocol or rule note.
 Needs_Evidence: yes
 Promote_to_stable_when:
 - Linked to 1 guideline + 1 outcome study.
 `‌`‌`
-Next step: Create [[Library_ACSM_ADA_Exercise_Position_Statement_2010]] in 50_Library.
+Next step: Create  in 50_Library.
 
 ---
 
@@ -27669,15 +27472,15 @@ Implications:
 - Patient education should connect symptoms to metabolic context without fear messaging.
 
 Evidence:
-- [[Library_Tsoukalas_Article_How_Type_2_Diabetes_Develops]]
-Related: [[111_Hub_Disease_Specific]], [[111_Hub_Insulin_Resistance]], [[Rule_Type_2_Diabetes_Intervene_Upstream_Not_Only_Glucose]]
+- 
+Related: , , 
 Open_Loops:
 - Create a clinic phrasing note for how to explain this without triggering shame/fear.
 Needs_Evidence: no
 Promote_to_stable_when:
 - Converted into a short clinic script + linked to a Case note example.
 `‌`‌`
-Next step: Create [[Rule_Interview_Normalized_Symptoms_In_Metabolic_Dysfunction]] in 30_Rules.
+Next step: Create  in 30_Rules.
 
 ---
 
@@ -27705,20 +27508,20 @@ Monitoring cadence:
 - Establish baseline → recheck after intervention window (timing depends on intervention intensity).
 
 Links_to_mechanism:
-- [[Zettel_Hyperinsulinemia_To_Beta_Cell_Exhaustion_Path]]
+- 
 Links_to_context:
-- [[Rule_Type_2_Diabetes_Intervene_Upstream_Not_Only_Glucose]]
+- 
 
 Evidence:
-- [[Library_Guideline_Prediabetes_Diagnosis_Placeholder]]
-Related: [[Dictionary_Prediabetes]], [[Dictionary_Type_2_Diabetes]], [[111_Hub_Insulin_Resistance]]
+- 
+Related: , , 
 Open_Loops:
 - Fill exact cutoffs + references from guidelines into the library note.
 Needs_Evidence: yes
 Promote_to_stable_when:
 - Cutoffs are added + referenced to 2 guideline sources.
 `‌`‌`
-Next step: Create [[Library_Guideline_Prediabetes_Diagnosis_Placeholder]] in 50_Library.
+Next step: Create  in 50_Library.
 
 ---
 
@@ -27869,11 +27672,11 @@ Implications:
 - Therapeutic focus should reduce insulin demand (diet/activity) and improve sensitivity, not only chase glucose.
 
 Evidence:
-- [[Library_DIADEM_I_Taheri_2020_RCT]]
-- [[Library_Kolb_Martin_2017_BMC_Med_Review]]
-- [[Library_Taylor_2019_Lancet_Diabetes_Endocrinol_Mechanisms_Reversal]]
+- 
+- 
+- 
 
-Related: [[111_Hub_Insulin_Resistance]], [[111_Hub_Diet_Framework]], [[Rule_T2D_Remission_Definition_And_Evidence_Gates]], [[Zettel_Processed_Foods_Increase_Insulin_Burden_Via_Glycemic_Kinetics]]
+Related: , , , 
 `‌`‌`
 
 Next step: Create `10_Zettels/Zettel_Processed_Foods_Increase_Insulin_Burden_Via_Glycemic_Kinetics.md`
@@ -27905,11 +27708,11 @@ Implications:
 - Evaluate patient diet through "processing lens" (not just macros).
 
 Evidence:
-- [[Library_Kolb_Martin_2017_BMC_Med_Review]]
-- [[Library_Lustig_2015_Conversation_Sugar_Context]]
-- [[Library_Hallberg_2019_Nutrients_Narrative_Review_T2D]]
+- 
+- 
+- 
 
-Related: [[111_Hub_Insulin_Resistance]], [[111_Hub_Diet_Framework]], [[Dictionary_Macronutrients]], [[Dictionary_Carbohydrates]], [[Zettel_Hyperinsulinemia_To_Beta_Cell_Exhaustion_Path]]
+Related: , , , , 
 `‌`‌`
 
 Next step: Create `30_Rules/Rule_T2D_Remission_Definition_And_Evidence_Gates.md`
@@ -27959,15 +27762,15 @@ Exceptions / nuance:
 - Bariatric surgery-induced remission is a different pathway; do not conflate.
 
 Links to mechanisms (why it works):
-- [[Zettel_Hyperinsulinemia_To_Beta_Cell_Exhaustion_Path]]
-- [[Zettel_Processed_Foods_Increase_Insulin_Burden_Via_Glycemic_Kinetics]]
+- 
+- 
 
 Evidence:
-- [[Library_DIADEM_I_Taheri_2020_RCT]]
-- [[Library_Taylor_2019_Lancet_Diabetes_Endocrinol_Mechanisms_Reversal]]
-- [[Library_Hallberg_2019_Nutrients_Narrative_Review_T2D]]
+- 
+- 
+- 
 
-Related: [[111_Hub_Insulin_Resistance]], [[111_Hub_Diet_Framework]], [[Protocol_T2D_Lifestyle_Remission_Pathway_Placeholder]], [[Zettel_T2D_Is_Systemic_Risk_Amplifier_Not_Just_High_Glucose]]
+Related: , , , 
 `‌`‌`
 
 Next step: Create `10_Zettels/Zettel_T2D_Is_Systemic_Risk_Amplifier_Not_Just_High_Glucose.md`
@@ -27998,11 +27801,11 @@ Implications:
 - Link diabetic symptoms to metabolic instability to reduce "normalization" bias.
 
 Evidence:
-- [[Library_ESC_2019_Diabetes_Prediabetes_CVD_Guidelines]]
-- [[Library_Medscape_T2D_Prognosis_Overview]]
-- [[Library_Metabolomics_Signatures_T2D_Systematic_Review_2020_Placeholder]]
+- 
+- 
+- 
 
-Related: [[111_Hub_Insulin_Resistance]], [[111_Hub_Disease_Specific]], [[Zettel_Early_Onset_T2D_Has_Higher_Risk_Trajectory]], [[Rule_T2D_Remission_Definition_And_Evidence_Gates]]
+Related: , , , 
 `‌`‌`
 
 Next step: Create `10_Zettels/Zettel_Early_Onset_T2D_Has_Higher_Risk_Trajectory.md`
@@ -28034,11 +27837,11 @@ Implications:
 - Consider earlier use of structured remission protocols and monitoring.
 
 Evidence:
-- [[Library_DIADEM_I_Taheri_2020_RCT]]
-- [[Library_T2D_Epidemiology_Medscape]]
-- [[Library_CDC_Long_Term_Trends_Diabetes_2017]]
+- 
+- 
+- 
 
-Related: [[111_Hub_Insulin_Resistance]], [[111_Hub_Diet_Framework]], [[Zettel_T2D_Is_Systemic_Risk_Amplifier_Not_Just_High_Glucose]], [[Template_IR_T2D_Intake_Drivers_Checklist]]
+Related: , , , 
 `‌`‌`
 
 Next step: Create `100_Templates/Template_IR_T2D_Intake_Drivers_Checklist.md`
@@ -28317,11 +28120,11 @@ Implications:
 - Lowering "cholesterol numbers" alone can miss the upstream drivers of plaque biology.
 
 Evidence:
-- [[Library_Inflammation_Not_Cholesterol_Is_Cause_Of_Chronic_Disease_Placeholder]]
-- [[Library_Mendelian_Randomization_Causal_Factors_CAD_In_Depth_Placeholder]]
-- [[Library_HDL_Function_And_LDL_Atherogenicity_Comprehensive_Examination_Placeholder]]
+- 
+- 
+- 
 
-Related: [[Dictionary_Atherosclerosis]] [[111_Hub_Lipids_And_Fatty_Acids]] [[Zettel_HDL_Is_A_Protective_Signal_Context_And_Function_Matter]] [[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]]
+Related:    
 
 Open_Loops:
 - Separate "inflammation necessary" vs "inflammation amplifies" claim (depends on evidence set).
@@ -28353,11 +28156,11 @@ Implications:
 - A drop in cholesterol during severe illness can also be a signal (catabolic state / acute-phase changes).
 
 Evidence:
-- [[Library_Inflammation_Not_Cholesterol_Is_Cause_Of_Chronic_Disease_Placeholder]]
-- [[Library_HDL_Function_And_LDL_Atherogenicity_Comprehensive_Examination_Placeholder]]
-- [[Library_Oxidized_LDL_Association_Modified_By_HDL_Levels_In_Men_CAD_Placeholder]]
+- 
+- 
+- 
 
-Related: [[111_Hub_Lipids_And_Fatty_Acids]] [[Dictionary_Atherosclerosis]] [[Zettel_Atherosclerosis_Is_Inflammation_Driven_Not_Purely_Cholesterol_Load]] [[Zettel_Vitamin_D_Synthesis_Uses_Cholesterol_Derivative_Seasonality_Link]] [[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]]
+Related:     
 
 Open_Loops:
 - Define "stress/inflammation contexts" list as a separate rule (infection, autoimmune flare, IR worsening, sleep deprivation).
@@ -28388,19 +28191,19 @@ Common confusion:
 - "LDL alone explains risk." Risk is modified by HDL function, inflammation, insulin resistance, oxidative modification, and other factors.
 
 Related:
-[[Dictionary_HDL_Cholesterol]]
-[[Dictionary_LDL_Cholesterol]]
-[[Zettel_Atherosclerosis_Is_Inflammation_Driven_Not_Purely_Cholesterol_Load]]
-[[Zettel_HDL_Is_A_Protective_Signal_Context_And_Function_Matter]]
-[[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
+
+
+
+
+
+
 
 Open_Loops:
 - Add 3-line "plaque formation sequence" once supported by a primary review in Zotero.
 
 Needs_Evidence: yes
 Promote_to_stable_when:
-- One authoritative review is linked in [[Library_...]] and key claims are extracted.
+- One authoritative review is linked in  and key claims are extracted.
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_HDL_Cholesterol.md`.
 
@@ -28423,11 +28226,11 @@ Common confusion:
 - "Only HDL number matters." Particle function and overall metabolic context modulate meaning.
 
 Related:
-[[Dictionary_LDL_Cholesterol]]
-[[Dictionary_Atherosclerosis]]
-[[Zettel_HDL_Is_A_Protective_Signal_Context_And_Function_Matter]]
-[[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
+
+
+
+
+
 
 Open_Loops:
 - Add a short section: "HDL-C vs HDL function" once one high-quality review is linked.
@@ -28457,12 +28260,12 @@ Common confusion:
 - "Lower LDL-C always means low risk." Events can occur with "normal" LDL-C when HDL is low or inflammation/metabolic dysfunction is present.
 
 Related:
-[[Dictionary_HDL_Cholesterol]]
-[[Dictionary_Atherosclerosis]]
-[[Zettel_Atherosclerosis_Is_Inflammation_Driven_Not_Purely_Cholesterol_Load]]
-[[Zettel_HDL_Is_A_Protective_Signal_Context_And_Function_Matter]]
-[[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
+
+
+
+
+
+
 
 Open_Loops:
 - Create dictionary note for "Atherogenicity" (particle number, oxidation, remnant particles) when needed.
@@ -28492,11 +28295,11 @@ Implications:
 - Interpret low HDL as a prompt to investigate insulin resistance, inflammation, TG, microbiome/lifestyle drivers.
 
 Evidence:
-- [[Library_Bartlett_2016_Framingham_Offspring_Isolated_Low_HDL_Risk_Circulation]]
-- [[Library_Lipid_Levels_In_Hospitalized_CAD_Get_With_The_Guidelines_136905_Placeholder]]
-- [[Library_HDL_Function_And_LDL_Atherogenicity_Comprehensive_Examination_Placeholder]]
+- 
+- 
+- 
 
-Related: [[Dictionary_HDL_Cholesterol]] [[Dictionary_Atherosclerosis]] [[111_Hub_Lipids_And_Fatty_Acids]] [[Zettel_Dyslipidemia_Is_Metabolic_State_IR_Inflammation_Microbiome_Micronutrients]] [[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]]
+Related:     
 
 Open_Loops:
 - Separate "HDL-C level" vs "HDL function" into an explicit rule for interpretation once evidence is secured.
@@ -28541,11 +28344,11 @@ Implications:
 - Low HDL is a “state marker” that should trigger IR/inflammation workup and lifestyle intervention, not just lipid-lowering.
 
 Evidence:
-- [[Library_Association_Of_Lipid_Fractions_With_Risk_CAD_And_Diabetes_Placeholder]]
-- [[Library_HDL_Function_And_LDL_Atherogenicity_Comprehensive_Examination_Placeholder]]
-- [[Library_Type_2_Diabetes_Gut_Microbiome_Intersection_Known_Unknown_2015_Placeholder]]
+- 
+- 
+- 
 
-Related: [[111_Hub_Lipids_And_Fatty_Acids]] [[111_Hub_Insulin_Resistance]] [[111_Hub_Gut_Function]] [[Zettel_HDL_Is_A_Protective_Signal_Context_And_Function_Matter]] [[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]] [[Zettel_Atherosclerosis_Is_Inflammation_Driven_Not_Purely_Cholesterol_Load]]
+Related:      
 
 Open_Loops:
 - Add 1 “minimal phenotype set” for dyslipidemia-as-state (TG, HDL, waist, fasting insulin/HOMA, hsCRP if used).
@@ -28586,12 +28389,12 @@ Exceptions / caution:
 - Established ASCVD / high-risk phenotype -> integrate cardiology guideline risk management plus metabolic correction.
 
 Links:
-Related: [[111_Hub_Lipids_And_Fatty_Acids]] [[111_Hub_Insulin_Resistance]] [[Zettel_Dyslipidemia_Is_Metabolic_State_IR_Inflammation_Microbiome_Micronutrients]] [[Zettel_HDL_Is_A_Protective_Signal_Context_And_Function_Matter]] [[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]]
+Related:     
 
 Evidence:
-- [[Library_Bartlett_2016_Framingham_Offspring_Isolated_Low_HDL_Risk_Circulation]]
-- [[Library_Lipid_Levels_In_Hospitalized_CAD_Get_With_The_Guidelines_136905_Placeholder]]
-- [[Library_Association_Of_Lipid_Fractions_With_Risk_CAD_And_Diabetes_Placeholder]]
+- 
+- 
+- 
 
 Open_Loops:
 - Add clinic-specific thresholds for “low HDL” stratified by sex if you want explicit cutoffs.
@@ -28622,12 +28425,12 @@ Common confusion:
 - “Fixing LDL-C fixes the problem.” Risk can persist if inflammation/IR drivers remain.
 
 Related:
-[[Dictionary_HDL_Cholesterol]]
-[[Dictionary_LDL_Cholesterol]]
-[[Dictionary_Atherosclerosis]]
-[[Zettel_Dyslipidemia_Is_Metabolic_State_IR_Inflammation_Microbiome_Micronutrients]]
-[[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
+
+
+
+
+
+
 
 Open_Loops:
 - Add 3–5 “canonical dyslipidemia patterns” (IR pattern, familial pattern, inflammatory pattern) if you want a quick clinical classifier.
@@ -28657,12 +28460,12 @@ Common confusion:
 - “Type 2 diabetes appears suddenly.” Often preceded by years of compensatory hyperinsulinemia.
 
 Related:
-[[111_Hub_Insulin_Resistance]]
-[[Dictionary_Type_2_Diabetes]]
-[[Zettel_Pathway_To_Type_2_Diabetes_Hyperinsulinemia_To_Pancreatic_Failure]]
-[[Zettel_Dyslipidemia_Is_Metabolic_State_IR_Inflammation_Microbiome_Micronutrients]]
-[[Rule_IR_Progression_Gates_Prediabetes_Metabolic_Syndrome_Type2]]
-[[Library_DIADEM_I_Taheri_2020_Lancet_Diabetes_Endocrinol_Placeholder]]
+
+
+
+
+
+
 
 Open_Loops:
 - Add your clinic’s preferred IR marker set (fasting insulin, HOMA-IR, TG/HDL, HbA1c constraints) as a separate rule note.
@@ -28692,11 +28495,11 @@ Common confusion:
 - “Treating glucose equals treating disease.” Glucose control does not automatically correct the underlying metabolic dysfunction.
 
 Related:
-[[Dictionary_Insulin_Resistance]]
-[[Zettel_Pathway_To_Type_2_Diabetes_Hyperinsulinemia_To_Pancreatic_Failure]]
-[[Rule_IR_Progression_Gates_Prediabetes_Metabolic_Syndrome_Type2]]
-[[Zettel_Type_2_Diabetes_Is_Lifestyle_Driven_Modifiable_Factors_Map]]
-[[111_Hub_Insulin_Resistance]]
+
+
+
+
+
 
 Open_Loops:
 - Create a library note for DIADEM-I and extract remission/weight-loss findings (no numbers until verified in Zotero).
@@ -28704,7 +28507,7 @@ Open_Loops:
 
 Needs_Evidence: yes
 Promote_to_stable_when:
-- DIADEM-I and at least one reversal mechanistic review are linked in [[50_Library]].
+- DIADEM-I and at least one reversal mechanistic review are linked in .
 `‌`‌`
 Next step: Create `10_Zettels/Zettel_Pathway_To_Type_2_Diabetes_Hyperinsulinemia_To_Pancreatic_Failure.md`.
 
@@ -28761,11 +28564,11 @@ Common confusion:
 - “A drug that raises HDL reduces risk.” Pharmacologically raising HDL-C has not reliably translated into outcome benefit.
 
 Related:
-[[Dictionary_Dyslipidemia]]
-[[Dictionary_LDL_Cholesterol]]
-[[Rule_Raising_HDL_Through_Metabolic_Correction_Not_Drugs]]
-[[Zettel_Dyslipidemia_Is_Metabolic_State_IR_Inflammation_Microbiome_Micronutrients]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
+
+
+
+
+
 
 Open_Loops:
 - Add your clinic’s HDL thresholds by sex and phenotype only if you actually use them operationally.
@@ -28795,18 +28598,18 @@ Common confusion:
 - “Lowering LDL-C always equals fixing cause.” LDL lowering can reduce risk, but may not correct the upstream pathology producing atherogenesis.
 
 Related:
-[[Dictionary_HDL_Cholesterol]]
-[[Dictionary_Dyslipidemia]]
-[[Zettel_Atherosclerosis_Is_Inflammation_Driven_Not_Purely_Cholesterol_Load]]
-[[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
+
+
+
+
+
 
 Open_Loops:
 - Decide whether you want separate notes for LDL particle number / ApoB (clinic-specific) later.
 
 Needs_Evidence: yes
 Promote_to_stable_when:
-- 1 Mendelian randomization CAD library note + 1 clinical outcomes lipid paper note exist in [[50_Library]].
+- 1 Mendelian randomization CAD library note + 1 clinical outcomes lipid paper note exist in .
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Atherosclerosis.md`.
 
@@ -28829,11 +28632,11 @@ Common confusion:
 - “Normal LDL-C means no risk.” Many events occur at “acceptable” LDL-C when other drivers are present.
 
 Related:
-[[Zettel_Atherosclerosis_Is_Inflammation_Driven_Not_Purely_Cholesterol_Load]]
-[[Dictionary_Dyslipidemia]]
-[[Dictionary_HDL_Cholesterol]]
-[[Dictionary_LDL_Cholesterol]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
+
+
+
+
+
 
 Open_Loops:
 - Add a zettel on “plaque stability vs plaque burden” once sourced.
@@ -28865,11 +28668,11 @@ Implications:
 - “Treating numbers” without addressing drivers can leave residual risk.
 
 Evidence:
-- [[Library_Inflammation_Not_Cholesterol_Cause_Of_Chronic_Disease_Placeholder]]
-- [[Library_Role_Of_HDL_Function_And_LDL_Atherogenicity_Comprehensive_Examination_Placeholder]]
-- [[Library_Serum_HDL_Modifies_Association_Oxidized_LDL_CAD_Men_Placeholder]]
+- 
+- 
+- 
 
-Related: [[Dictionary_Atherosclerosis]] [[Dictionary_Dyslipidemia]] [[111_Hub_Lipids_And_Fatty_Acids]] [[Zettel_Dyslipidemia_Is_Metabolic_State_IR_Inflammation_Microbiome_Micronutrients]] [[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]]
+Related:     
 
 Open_Loops:
 - Add one zettel on “oxidized LDL as context-dependent risk” if you use it clinically.
@@ -28912,12 +28715,12 @@ Exceptions / caution:
 - Suspected familial dyslipidemia: separate pathway (genetic/family history pattern).
 
 Links:
-Related: [[111_Hub_Lipids_And_Fatty_Acids]] [[111_Hub_Insulin_Resistance]] [[Dictionary_Dyslipidemia]] [[Dictionary_HDL_Cholesterol]] [[Dictionary_LDL_Cholesterol]] [[Zettel_Dyslipidemia_Is_Metabolic_State_IR_Inflammation_Microbiome_Micronutrients]] [[Zettel_Atherosclerosis_Is_Inflammation_Driven_Not_Purely_Cholesterol_Load]]
+Related:       
 
 Evidence:
-- [[Library_Framingham_Offspring_Isolated_Low_HDL_Risk_Bartlett_2016_Placeholder]]
-- [[Library_Lipid_Levels_In_Hospitalized_CAD_Get_With_The_Guidelines_136905_Placeholder]]
-- [[Library_In_Depth_MR_Causal_Factors_CAD_Placeholder]]
+- 
+- 
+- 
 
 Open_Loops:
 - Insert your clinic’s preferred ratio targets (if you want them operational).
@@ -28986,10 +28789,10 @@ Key_findings:
 - Many events occur despite “acceptable” total cholesterol values. (Quantify from paper.)
 
 Extracted_claims -> links:
-- [[Zettel_Many_CAD_Events_Occur_With_Desirable_LDL_Low_HDL_Common]]
-- [[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]]
-- [[Dictionary_HDL_Cholesterol]]
-- [[Dictionary_LDL_Cholesterol]]
+- 
+- 
+- 
+- 
 
 Notes / limitations:
 - Hospitalized cohort != general population risk; still useful to kill the “LDL near-target = safe” mental shortcut.
@@ -29023,11 +28826,11 @@ Implications:
 - Strengthen the operational habit: interpret lipids with metabolic phenotype signals (TG, HDL, IR markers, lifestyle, inflammation).
 
 Evidence:
-- [[Library_Lipid_Levels_In_Hospitalized_CAD_Get_With_The_Guidelines_136905]]
-- [[Library_Bartlett_2016_Framingham_Offspring_Isolated_Low_HDL_Risk_Circulation]]
-- [[Library_Role_Of_HDL_Function_And_LDL_Atherogenicity_Comprehensive_Examination_Placeholder]]
+- 
+- 
+- 
 
-Related: [[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]] [[Dictionary_HDL_Cholesterol]] [[Dictionary_LDL_Cholesterol]] [[Dictionary_Atherosclerosis]] [[Zettel_Atherosclerosis_Is_Inflammation_Driven_Not_Purely_Cholesterol_Load]] [[111_Hub_Lipids_And_Fatty_Acids]]
+Related:      
 
 Open_Loops:
 - Insert exact numbers once pulled from the GWTG paper (mean LDL, % <100, HDL distribution).
@@ -29073,12 +28876,12 @@ Exceptions:
 - Secondary causes (severe hypertriglyceridemia, genetic disorders) may need separate pathways.
 
 Links:
-Related: [[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]] [[Zettel_Many_CAD_Events_Occur_With_Desirable_LDL_Low_HDL_Common]] [[Dictionary_HDL_Cholesterol]] [[111_Hub_Lipids_And_Fatty_Acids]] [[111_Hub_Insulin_Resistance]]
+Related:     
 
 Evidence:
-- [[Library_Bartlett_2016_Framingham_Offspring_Isolated_Low_HDL_Risk_Circulation]]
-- [[Library_Role_Of_HDL_Function_And_LDL_Atherogenicity_Comprehensive_Examination_Placeholder]]
-- [[Library_Association_Of_Lipid_Fractions_With_Risks_For_CAD_And_Diabetes_Placeholder]]
+- 
+- 
+- 
 
 Open_Loops:
 - Add your clinic’s HDL “concern thresholds” if you use them operationally.
@@ -29111,12 +28914,12 @@ Common confusion:
 - “HDL is just a number.” HDL function/context matters.
 
 Related:
-[[Dictionary_HDL_Cholesterol]]
-[[Dictionary_LDL_Cholesterol]]
-[[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]]
-[[Rule_Raising_HDL_Through_Metabolic_Correction_Not_Drugs]]
-[[Zettel_Atherosclerosis_Is_Inflammation_Driven_Not_Purely_Cholesterol_Load]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
+
+
+
+
+
+
 
 Open_Loops:
 - Decide whether to create separate dictionary entries for TG and non-HDL-C next.
@@ -29155,9 +28958,9 @@ Key_findings:
 - Note any findings linking lipids and diabetes risk jointly (if present).
 
 Extracted_claims -> links:
-- [[Zettel_Lipid_Fractions_Causality_Differs_From_Correlation_MR_View]]
-- [[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]]
-- [[Dictionary_LDL_Cholesterol]]
+- 
+- 
+- 
 
 Notes / limitations:
 - MR supports causality for some pathways but does not replace clinical phenotype context.
@@ -29200,9 +29003,9 @@ Key_findings:
 - Extract only defensible claims; avoid “too neat” narratives.
 
 Extracted_claims -> links:
-- [[Zettel_Cholesterol_Is_A_Stress_Response_Substrate_For_D_And_Repair]]
-- [[Dictionary_Vitamin_D_Synthesis]]
-- [[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]]
+- 
+- 
+- 
 
 Notes / limitations:
 - Correlation vs causation risks; ensure claims are anchored.
@@ -29251,12 +29054,12 @@ Common confusion:
 - “Fasting TG is enough.” Postprandial TG can carry important risk signals.
 
 Related:
-[[Dictionary_HDL_Cholesterol]]
-[[Dictionary_Dyslipidemia]]
-[[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]]
-[[Zettel_TG_HDL_Pattern_Is_A_Fingerprint_Of_Insulin_Resistance]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
-[[111_Hub_Insulin_Resistance]]
+
+
+
+
+
+
 
 Open_Loops:
 - Add your clinic’s TG “target bands” and decision thresholds (if you standardize them).
@@ -29287,11 +29090,11 @@ Implications:
 - Avoid LDL-only fixation; treat the system state.
 
 Evidence:
-- [[Library_Association_Of_Lipid_Fractions_With_Risks_For_CAD_And_Diabetes_Placeholder]]
-- [[Library_Environmental_Lifestyle_Factors_Pathogenesis_Prevention_T2D_BMC_2017]]
-- [[Library_Role_Of_HDL_Function_And_LDL_Atherogenicity_Comprehensive_Examination_Placeholder]]
+- 
+- 
+- 
 
-Related: [[Dictionary_Triglycerides]] [[Dictionary_HDL_Cholesterol]] [[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]] [[111_Hub_Insulin_Resistance]] [[111_Hub_Lipids_And_Fatty_Acids]]
+Related:     
 
 Open_Loops:
 - Decide whether you want a companion zettel: “TG/HDL as a ratio vs TG+HDL as pattern”.
@@ -29342,13 +29145,13 @@ Exceptions:
 - Acute illness can distort lipid values.
 
 Links:
-Related: [[Zettel_Many_CAD_Events_Occur_With_Desirable_LDL_Low_HDL_Common]] [[Zettel_TG_HDL_Pattern_Is_A_Fingerprint_Of_Insulin_Resistance]] [[Zettel_Atherosclerosis_Is_Inflammation_Driven_Not_Purely_Cholesterol_Load]] [[Dictionary_Dyslipidemia]] [[Dictionary_Triglycerides]] [[Dictionary_HDL_Cholesterol]] [[111_Hub_Lipids_And_Fatty_Acids]] [[111_Hub_Insulin_Resistance]] [[111_Hub_Vitamin_D]]
+Related:         
 
 Evidence:
-- [[Library_Lipid_Levels_In_Hospitalized_CAD_Get_With_The_Guidelines_136905]]
-- [[Library_Bartlett_2016_Framingham_Offspring_Isolated_Low_HDL_Risk_Circulation]]
-- [[Library_In_Depth_MR_Causal_Factors_CAD]]
-- [[Library_Sunlight_Cholesterol_And_Coronary_Heart_Disease]]
+- 
+- 
+- 
+- 
 
 Open_Loops:
 - Add your ratio doctrine (e.g., Chol/HDL, TG/HDL) if you want it canonical here.
@@ -29380,11 +29183,11 @@ Implications:
 - Upstream drivers (IR, inflammation, oxidative stress, infections, gut-derived endotoxin, deficiencies) are operational levers.
 
 Evidence:
-- [[Library_Inflammation_Not_Cholesterol_Is_A_Cause_Of_Chronic_Disease_Placeholder]]
-- [[Library_Role_Of_HDL_Function_And_LDL_Atherogenicity_Comprehensive_Examination_Placeholder]]
-- [[Library_In_Depth_MR_Causal_Factors_CAD]]
+- 
+- 
+- 
 
-Related: [[Dictionary_Atherosclerosis]] [[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]] [[111_Hub_Lipids_And_Fatty_Acids]] [[111_Hub_Inflammation_Placeholder]] [[111_Hub_Insulin_Resistance]]
+Related:     
 
 Open_Loops:
 - Create inflammation hub if you want it canonical (currently domain tag exists but hub not listed as canonical).
@@ -29416,12 +29219,12 @@ Common confusion:
 - “HDL number alone protects.” HDL function/context matters; do not rely on HDL-C alone.
 
 Related:
-[[Zettel_Atherosclerosis_Is_Inflammation_Driven_Not_Purely_Cholesterol_Load]]
-[[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]]
-[[Dictionary_Dyslipidemia]]
-[[Dictionary_HDL_Cholesterol]]
-[[Dictionary_LDL_Cholesterol]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
+
+
+
+
+
+
 
 Open_Loops:
 - Add short plaque stability vs plaque burden distinction (if you want it as a separate zettel).
@@ -29634,11 +29437,11 @@ Common confusion:
 - “Symptoms = the disease.” Symptoms can lag behind immune dysregulation.
 
 Related:
-[[111_Hub_Disease_Specific]]
-[[Zettel_Three_Stage_Model_Of_Autoimmunity_Genes_Risk_Load_Trigger]]
-[[Zettel_Autoimmune_Diseases_Share_Common_Metabolic_Features]]
-[[Dictionary_Polyautoimmunity]]
-[[Zettel_Increased_Intestinal_Permeability_As_Autoimmunity_Trigger]]
+
+
+
+
+
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Polyautoimmunity.md`.
 
@@ -29661,11 +29464,11 @@ Common confusion:
 - “More diagnoses = worse genetics.” Often reflects persistent modifiable load (barrier, infection burden, stress, deficiencies).
 
 Related:
-[[111_Hub_Disease_Specific]]
-[[Dictionary_Autoimmunity]]
-[[Zettel_Autoimmune_Diseases_Share_Common_Metabolic_Features]]
-[[Rule_Autoimmunity_Modifiable_Risk_Stack_Triage]]
-[[Library_Intestinal_Mucosal_Barrier_Function_In_Health_And_Disease_NatRevImmunol_Placeholder]]
+
+
+
+
+
 `‌`‌`
 Next step: Create `10_Zettels/Zettel_Autoimmune_Diseases_Share_Common_Metabolic_Features.md`.
 
@@ -29689,16 +29492,16 @@ Implications:
 - Expect comorbidity (polyautoimmunity) and manage upstream load early.
 
 Evidence:
-[[Library_Intestinal_Mucosal_Barrier_Function_In_Health_And_Disease_NatRevImmunol_Placeholder]]
+
 Open_Loops:
 - Needs at least 1 high-quality review on shared metabolic signatures across autoimmunity.
 Needs_Evidence: yes
 Promote_to_stable_when: 2+ library notes support “shared metabolic features” framing.
 Related:
-[[111_Hub_Disease_Specific]]
-[[Dictionary_Autoimmunity]]
-[[Dictionary_Polyautoimmunity]]
-[[Zettel_Three_Stage_Model_Of_Autoimmunity_Genes_Risk_Load_Trigger]]
+
+
+
+
 `‌`‌`
 Next step: Create `10_Zettels/Zettel_Three_Stage_Model_Of_Autoimmunity_Genes_Risk_Load_Trigger.md`.
 
@@ -29722,16 +29525,16 @@ Implications:
 - Stage 3 management = trigger identification + flare protocols + barrier/inflammation stabilization.
 
 Evidence:
-[[Library_Intestinal_Mucosal_Barrier_Function_In_Health_And_Disease_NatRevImmunol_Placeholder]]
+
 Open_Loops:
 - Add twin-study citation for heredity estimate framing (often quoted ~25%).
 Needs_Evidence: yes
 Promote_to_stable_when: Twin/heredity library note + 1 review on triggers.
 Related:
-[[111_Hub_Disease_Specific]]
-[[Dictionary_Autoimmunity]]
-[[Rule_Autoimmunity_Modifiable_Risk_Stack_Triage]]
-[[Zettel_Increased_Intestinal_Permeability_As_Autoimmunity_Trigger]]
+
+
+
+
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Gut_Mucosal_Barrier.md`.
 
@@ -29754,11 +29557,11 @@ Common confusion:
 - “Leaky gut is a diagnosis.” Better treated as a mechanism with measurable proxies and context.
 
 Related:
-[[111_Hub_Gut_Function]]
-[[Dictionary_Tight_Junctions]]
-[[Zettel_Increased_Intestinal_Permeability_As_Autoimmunity_Trigger]]
-[[Dictionary_Gut_Brain_Axis]]
-[[Library_Intestinal_Mucosal_Barrier_Function_In_Health_And_Disease_NatRevImmunol_Placeholder]]
+
+
+
+
+
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Tight_Junctions.md`.
 
@@ -29781,10 +29584,10 @@ Common confusion:
 - “One marker proves leaky gut.” Prefer multi-signal context (symptoms + labs + triggers + response).
 
 Related:
-[[111_Hub_Gut_Function]]
-[[Dictionary_Gut_Mucosal_Barrier]]
-[[Zettel_Increased_Intestinal_Permeability_As_Autoimmunity_Trigger]]
-[[Library_Intestinal_Mucosal_Barrier_Function_In_Health_And_Disease_NatRevImmunol_Placeholder]]
+
+
+
+
 `‌`‌`
 Next step: Create `10_Zettels/Zettel_Increased_Intestinal_Permeability_As_Autoimmunity_Trigger.md`.
 
@@ -29811,16 +29614,16 @@ Implications:
 - Measure + intervene iteratively; avoid ideology (“everything is leaky gut”).
 
 Evidence:
-[[Library_Intestinal_Mucosal_Barrier_Function_In_Health_And_Disease_NatRevImmunol_Placeholder]]
+
 Open_Loops:
 - Add 1 mechanistic review linking permeability to autoimmunity (disease-agnostic).
 Needs_Evidence: yes
 Promote_to_stable_when: 2+ supportive library notes + clinical proxy list added.
 Related:
-[[111_Hub_Gut_Function]]
-[[111_Hub_Disease_Specific]]
-[[Dictionary_Gut_Mucosal_Barrier]]
-[[Dictionary_Tight_Junctions]]
+
+
+
+
 `‌`‌`
 Next step: Create `70_Dictionary/Dictionary_Gut_Brain_Axis.md`.
 
@@ -29843,11 +29646,11 @@ Common confusion:
 - “Psychological stress is the only driver.” Often a trigger on top of metabolic/barrier load.
 
 Related:
-[[111_Hub_Gut_Function]]
-[[111_Hub_Neurotransmitters]]
-[[Zettel_GI_Tract_As_Immune_And_Neurotransmitter_Organ]]
-[[Dictionary_Gut_Mucosal_Barrier]]
-[[Library_Intestinal_Mucosal_Barrier_Function_In_Health_And_Disease_NatRevImmunol_Placeholder]]
+
+
+
+
+
 `‌`‌`
 Next step: Create `10_Zettels/Zettel_GI_Tract_As_Immune_And_Neurotransmitter_Organ.md`.
 
@@ -30042,7 +29845,7 @@ That’s perfect fuel.
 4) **Metadata extraction**
    - `type`, `status`, `domain`, `hub`, folder path, outbound links
 5) **Evidence control**
-   - If you have `[[Library_...]]` nodes: mark those chunks as “evidence-eligible”
+   - If you have `` nodes: mark those chunks as “evidence-eligible”
    - If not: mark “needs evidence”
 
 ### C) Index layer
@@ -30062,7 +29865,7 @@ The system should:
    - instructions: “answer only using retrieved text; cite note names”
 4) output:
    - answer
-   - **citations as Obsidian links**: `[[Rule_...]]`, `[[Zettel_...]]`, `[[Library_...]]`
+   - **citations as Obsidian links**: ``, ``, ``
    - “Open loops” if evidence missing
 
 ---
@@ -30082,7 +29885,7 @@ The system should:
   - title
   - tags
   - folder path
-  - links `[[...]]`
+  - links ``
   - headings and blocks
 
 ### Phase 2 — Sanitization policy
@@ -30128,7 +29931,7 @@ When the question is **definitions**, prioritize:
   - propose `Library_...` placeholders to fill via Zotero
 
 ### Phase 7 — Output formatting
-- Use Obsidian links in-line: `[[...]]`
+- Use Obsidian links in-line: ``
 - End with:
   - `Related:` links (2–6)
   - `Open_Loops:` if any
@@ -30145,7 +29948,7 @@ Best practice:
   - key findings
   - extracted claims that link outward
 
-Your AI should *prefer* answering with citations that point to `[[Library_...]]` nodes when available.
+Your AI should *prefer* answering with citations that point to `` nodes when available.
 
 ---
 
@@ -30306,7 +30109,7 @@ Each entry is:
 - Claim (one sentence)
 - Where it lives (link to zettel/rule)
 - Evidence status: `supported | pending | contested`
-- Evidence links: `[[Library_*]]` (or placeholder)
+- Evidence links: `` (or placeholder)
 - Domain tags (optional)
 
 Why this matters:
@@ -30334,7 +30137,7 @@ Every note must have:
 If two notes overlap:
 - one becomes canonical
 - the other becomes:
-  - a redirect note (“This is now in [[X]]”) **or**
+  - a redirect note (“This is now in ”) **or**
   - a “contrast note” (only if difference matters)
 
 Without this, Zettelkasten becomes Zettel-chaos.
@@ -30605,16 +30408,16 @@ VAULT STRUCTURE (fixed)
 111_Domain_Hubs
 
 CANONICAL HUBS (use exact names)
-[[111_Hub_Vitamin_D]]
-[[111_Hub_Insulin_Resistance]]
-[[111_Hub_Gut_Function]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
-[[111_Hub_Diet_Framework]]
-[[111_Hub_Vitamins_And_Supplements]]
-[[111_Hub_Mitochondria]]
-[[111_Hub_Disease_Specific]]
-[[111_Hub_Neurotransmitters]]
-[[111_Hub_Methylation]]
+
+
+
+
+
+
+
+
+
+
 
 TAG POOL RULES (strict)
 Keep tags boring.
@@ -30639,7 +30442,7 @@ Never create tags for specific supplements or biomarkers (K2, MK7, PTH, ApoB, TG
 Put those in text + strong links instead.
 
 LINKING RULES (strict)
-- Use ONLY Obsidian links: [[Note_Name]]
+- Use ONLY Obsidian links: 
 - Each created note must include:
   - Related: 1 to 6 strong links (no vague dumping)
   - Link to its hub when applicable
@@ -30685,7 +30488,7 @@ ZETTEL (10_Zettels)
 - One idea, one mechanism, one implication.
 - 8 to 20 lines typical.
 - Ends with: Implications: (1 to 3 bullets)
-- Ends with: Evidence: (link to 1 to 3 [[Library_...]] notes or placeholders)
+- Ends with: Evidence: (link to 1 to 3  notes or placeholders)
 
 RULE (30_Rules)
 - IF/THEN gates, targets, monitoring, exceptions.
@@ -30726,7 +30529,7 @@ Library note skeleton:
 - Study_type:
 - Population:
 - Key_findings (3 to 7 bullets):
-- Extracted_claims -> links to [[Zettel_...]]
+- Extracted_claims -> links to 
 - Notes / limitations:
 
 UNFINISHED VS DONE (state clarity rule)
@@ -30793,26 +30596,26 @@ VAULT STRUCTURE (fixed)
 111_Domain_Hubs
 
 CANONICAL HUBS (use exact names)
-[[111_Hub_Vitamin_D]]
-[[111_Hub_Insulin_Resistance]]
-[[111_Hub_Gut_Function]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
-[[111_Hub_Diet_Framework]]
-[[111_Hub_Vitamins_And_Supplements]]
-[[111_Hub_Mitochondria]]
-[[111_Hub_Disease_Specific]]
-[[111_Hub_Neurotransmitters]]
-[[111_Hub_Methylation]]
+
+
+
+
+
+
+
+
+
+
 
 CANONICAL GOVERNANCE NOTES (use exact names when created)
-[[60_Dashboards/Claim_Registry]]
-[[60_Dashboards/Open_Loops_Queue]]
-[[30_Rules/Evidence_Grade_And_Truth_Labels]]
-[[30_Rules/Canonicalization_And_Duplicate_Control]]
-[[100_Templates/Source_Intake_Lanes_Template]]
-[[100_Templates/Comparison_Note_Template_Competing_Hypotheses]]
-[[30_Rules/Patient_Truth_With_Safety_Segmentation]]
-[[70_Dictionary/Truth_Claim_Evidence_Definitions]]
+
+
+
+
+
+
+
+
 
 TAG POOL RULES (strict)
 Keep tags boring.
@@ -30837,7 +30640,7 @@ Never create tags for specific supplements or biomarkers (K2, MK7, PTH, ApoB, TG
 Put those in text + strong links instead.
 
 LINKING RULES (strict)
-- Use ONLY Obsidian links: [[Note_Name]]
+- Use ONLY Obsidian links: 
 - Each created note must include:
   - Related: 1 to 6 strong links (no vague dumping)
   - Link to its hub when applicable
@@ -30887,7 +30690,7 @@ ZETTEL (10_Zettels)
 - One idea, one mechanism, one implication.
 - 8 to 20 lines typical.
 - Ends with: Implications: (1 to 3 bullets)
-- Ends with: Evidence: (link to 1 to 3 [[Library_...]] notes or placeholders)
+- Ends with: Evidence: (link to 1 to 3  notes or placeholders)
 - If mechanistic chain is uncertain: add Competing_Hypotheses link.
 
 RULE (30_Rules)
@@ -30935,7 +30738,7 @@ Library note skeleton:
 - Study_type:
 - Population:
 - Key_findings (3 to 7 bullets):
-- Extracted_claims -> links to [[Zettel_...]]
+- Extracted_claims -> links to 
 - Notes / limitations:
 - Relevance_to_clinic: (High/Medium/Low)
 
@@ -30957,7 +30760,7 @@ CLAIM DISCIPLINE (audit-grade, lightweight)
   Scope (Population/Context):
   Confidence (Low/Med/High):
   Failure_Modes (what would make it false):
-  Evidence: [[Library_...]] or Needs_Evidence: yes
+  Evidence:  or Needs_Evidence: yes
 - If the claim is repeated across notes, canonicalize it into one zettel and link to it.
 
 SAFETY / CLINICAL CONTEXT (absolute)
@@ -31022,26 +30825,26 @@ VAULT STRUCTURE (fixed)
 111_Domain_Hubs
 
 CANONICAL HUBS (use exact names)
-[[111_Hub_Vitamin_D]]
-[[111_Hub_Insulin_Resistance]]
-[[111_Hub_Gut_Function]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
-[[111_Hub_Diet_Framework]]
-[[111_Hub_Vitamins_And_Supplements]]
-[[111_Hub_Mitochondria]]
-[[111_Hub_Disease_Specific]]
-[[111_Hub_Neurotransmitters]]
-[[111_Hub_Methylation]]
+
+
+
+
+
+
+
+
+
+
 
 CANONICAL GOVERNANCE NOTES (use exact names when created)
-[[60_Dashboards/Claim_Registry]]
-[[60_Dashboards/Open_Loops_Queue]]
-[[30_Rules/Evidence_Grade_And_Truth_Labels]]
-[[30_Rules/Canonicalization_And_Duplicate_Control]]
-[[100_Templates/Source_Intake_Lanes_Template]]
-[[100_Templates/Comparison_Note_Template_Competing_Hypotheses]]
-[[30_Rules/Patient_Truth_With_Safety_Segmentation]]
-[[70_Dictionary/Truth_Claim_Evidence_Definitions]]
+
+
+
+
+
+
+
+
 
 TAG POOL RULES (strict)
 Keep tags boring.
@@ -31066,7 +30869,7 @@ Never create tags for specific supplements or biomarkers (K2, MK7, PTH, ApoB, TG
 Put those in text + strong links instead.
 
 LINKING RULES (strict)
-- Use ONLY Obsidian links: [[Note_Name]]
+- Use ONLY Obsidian links: 
 - Each created note must include:
   - Related: 1 to 6 strong links (no vague dumping)
   - Link to its hub when applicable
@@ -31116,7 +30919,7 @@ ZETTEL (10_Zettels)
 - One idea, one mechanism, one implication.
 - 8 to 20 lines typical.
 - Ends with: Implications: (1 to 3 bullets)
-- Ends with: Evidence: (link to 1 to 3 [[Library_...]] notes or placeholders)
+- Ends with: Evidence: (link to 1 to 3  notes or placeholders)
 - If mechanistic chain is uncertain: add Competing_Hypotheses link.
 
 RULE (30_Rules)
@@ -31164,7 +30967,7 @@ Library note skeleton:
 - Study_type:
 - Population:
 - Key_findings (3 to 7 bullets):
-- Extracted_claims -> links to [[Zettel_...]]
+- Extracted_claims -> links to 
 - Notes / limitations:
 - Relevance_to_clinic: (High/Medium/Low)
 
@@ -31186,7 +30989,7 @@ CLAIM DISCIPLINE (audit-grade, lightweight)
   Scope (Population/Context):
   Confidence (Low/Med/High):
   Failure_Modes (what would make it false):
-  Evidence: [[Library_...]] or Needs_Evidence: yes
+  Evidence:  or Needs_Evidence: yes
 - If the claim is repeated across notes, canonicalize it into one zettel and link to it.
 
 SAFETY / CLINICAL CONTEXT (absolute)
@@ -31269,9 +31072,9 @@ I’ll extract this Hashimoto article into a tight triage + a batch of note titl
   - Protocol: “Hashimoto persistent symptoms workup pathway”
   - Library: one note per key citation in the list (Medscape overview, circadian-thyroid review, gut microbiota & Hashimoto review, vitamin D associations, IR & thyroid paper, etc.)
 - Candidate hubs affected (top 3):
-  - [[111_Hub_Disease_Specific]] (Hashimoto)
-  - [[111_Hub_Methylation]] (minor; only if neurotransmitter metabolism expands later)
-  - [[111_Hub_Insulin_Resistance]] + [[111_Hub_Gut_Function]] are also highly relevant (but keep to 2–3 per note)
+  -  (Hashimoto)
+  -  (minor; only if neurotransmitter metabolism expands later)
+  -  +  are also highly relevant (but keep to 2–3 per note)
 
 ---
 
@@ -31331,12 +31134,12 @@ Common confusion:
 - “Hashimoto = hypothyroidism only.” (Autoimmunity + systemic drivers matter; hypothyroid is one endpoint.)
 
 Related links:
-- [[111_Hub_Disease_Specific]]
-- [[30_Rules/Hashimoto_Is_Not_TSH_Only_When_Symptoms_Persist]]
-- [[70_Dictionary/Persistent_Symptoms_With_Normal_TSH]]
-- [[10_Zettels/Insulin_Resistance_As_A_Thyroid_Suppressor_And_Autoimmunity_Amplifier]]
-- [[10_Zettels/Gut_Microbiome_Disruption_As_A_Multiplier_Of_Autoimmune_Trajectory]]
-- [[50_Library/Library_Hashimoto_Reference_Pack_Batch_01]]
+- 
+- 
+- 
+- 
+- 
+- 
 
 Open_Loops:
 - Define minimal evidence set for “persistent symptoms despite normal TSH” pathways.
@@ -31347,7 +31150,7 @@ Promote_to_stable_when:
 - At least 3 Library notes linked with extracted claims supporting key mechanisms + a clinic-facing rule refined.
 `‌`‌`
 
-Next step: Create/edit **[[111_Hub_Disease_Specific]]** to include a “Hashimoto cluster” section linking to this dictionary note.
+Next step: Create/edit **** to include a “Hashimoto cluster” section linking to this dictionary note.
 
 ---
 
@@ -31375,11 +31178,11 @@ Common confusion:
 - “More thyroid hormone is always the answer.” (Can worsen outcomes if the primary driver is not thyroid hormone deficit.)
 
 Related links:
-- [[70_Dictionary/Hashimoto_Thyroiditis]]
-- [[30_Rules/Hashimoto_Is_Not_TSH_Only_When_Symptoms_Persist]]
-- [[20_Protocols/Hashimoto_Persistent_Symptoms_Workup_And_Intervention_Pathway]]
-- [[10_Zettels/Hashimoto_Persistent_Symptoms_Are_Often_Non_Thyroid_Drivers]]
-- [[50_Library/Library_Hashimoto_Reference_Pack_Batch_01]]
+- 
+- 
+- 
+- 
+- 
 
 Open_Loops:
 - Define clinic minimum labs vs metabolomic panels vs symptom tools.
@@ -31390,7 +31193,7 @@ Promote_to_stable_when:
 - Protocol + rule exist and are linked to extracted evidence claims.
 `‌`‌`
 
-Next step: Create/edit **[[111_Hub_Insulin_Resistance]]** to add a “Thyroid axis interactions” subsection.
+Next step: Create/edit **** to add a “Thyroid axis interactions” subsection.
 
 ---
 
@@ -31421,14 +31224,14 @@ Failure_Modes:
 - Another diagnosis explains symptoms (sleep apnea, anemia, depression, meds, autoimmune comorbidity).
 
 Evidence:
-- [[50_Library/Library_Hashimoto_Reference_Pack_Batch_01]] (placeholder pack; extract specific claims into separate Library notes)
+-  (placeholder pack; extract specific claims into separate Library notes)
 
 Related:
-- [[70_Dictionary/Persistent_Symptoms_With_Normal_TSH]] (definition + confusion control)
-- [[10_Zettels/Insulin_Resistance_As_A_Thyroid_Suppressor_And_Autoimmunity_Amplifier]] (mechanism)
-- [[10_Zettels/Gut_Microbiome_Disruption_As_A_Multiplier_Of_Autoimmune_Trajectory]] (mechanism)
-- [[10_Zettels/Micronutrient_Gaps_As_Slow_Immune_Dysregulators_In_Hashimoto]] (mechanism)
-- [[30_Rules/Hashimoto_Is_Not_TSH_Only_When_Symptoms_Persist]] (decision gate)
+-  (definition + confusion control)
+-  (mechanism)
+-  (mechanism)
+-  (mechanism)
+-  (decision gate)
 
 Implications:
 - Clinical: don’t “dose-chase” symptoms without assessing systemic drivers.
@@ -31443,7 +31246,7 @@ Promote_to_stable_when:
 - At least 2 extracted, citable claims link symptom persistence to non-thyroid drivers + protocol validated in clinic.
 `‌`‌`
 
-Next step: Create **[[60_Dashboards/Claim_Registry]]** and register this claim as “Needs_Evidence”.
+Next step: Create **** and register this claim as “Needs_Evidence”.
 
 ---
 
@@ -31474,13 +31277,13 @@ Failure_Modes:
 - Confounding (obesity, inflammation, medications).
 
 Evidence:
-- [[50_Library/Library_Hashimoto_Reference_Pack_Batch_01]] (includes “Introducing the thyroid gland as another victim of the insulin resistance syndrome” + autoimmune thyroid disease metabolic papers)
+-  (includes “Introducing the thyroid gland as another victim of the insulin resistance syndrome” + autoimmune thyroid disease metabolic papers)
 
 Related:
-- [[111_Hub_Insulin_Resistance]]
-- [[70_Dictionary/Hashimoto_Thyroiditis]]
-- [[10_Zettels/Hashimoto_Persistent_Symptoms_Are_Often_Non_Thyroid_Drivers]]
-- [[30_Rules/Hashimoto_Is_Not_TSH_Only_When_Symptoms_Persist]]
+- 
+- 
+- 
+- 
 
 Implications:
 - IR treatment may improve thyroid symptom phenotype even when thyroid labs are stable.
@@ -31495,7 +31298,7 @@ Promote_to_stable_when:
 - 2 Library notes with extracted claims + at least one rule threshold for IR screening is defined.
 `‌`‌`
 
-Next step: Add a one-line IR–thyroid section into **[[111_Hub_Insulin_Resistance]]** linking to this zettel.
+Next step: Add a one-line IR–thyroid section into **** linking to this zettel.
 
 ---
 
@@ -31525,14 +31328,14 @@ Failure_Modes:
 - Diet/meds confound microbiome signals.
 
 Evidence:
-- [[50_Library/Library_Hashimoto_Reference_Pack_Batch_01]] (e.g., “Gut microbiota and Hashimoto's thyroiditis” review)
+-  (e.g., “Gut microbiota and Hashimoto's thyroiditis” review)
 - (Optional later) create dedicated Library notes per key paper.
 
 Related:
-- [[111_Hub_Gut_Function]]
-- [[70_Dictionary/Hashimoto_Thyroiditis]]
-- [[10_Zettels/Micronutrient_Gaps_As_Slow_Immune_Dysregulators_In_Hashimoto]] (absorption / nutrient status)
-- [[30_Rules/Hashimoto_Is_Not_TSH_Only_When_Symptoms_Persist]]
+- 
+- 
+-  (absorption / nutrient status)
+- 
 
 Implications:
 - Treating gut function may change autoimmune symptom patterns and resilience.
@@ -31547,7 +31350,7 @@ Promote_to_stable_when:
 - At least 1 review + 1 mechanistic paper summarized into Library notes with extracted claims.
 `‌`‌`
 
-Next step: Create/edit **[[111_Hub_Gut_Function]]** to include “Autoimmunity interface” links.
+Next step: Create/edit **** to include “Autoimmunity interface” links.
 
 ---
 
@@ -31606,26 +31409,26 @@ VAULT STRUCTURE (fixed)
 111_Domain_Hubs
 
 CANONICAL HUBS (use exact names)
-[[111_Hub_Vitamin_D]]
-[[111_Hub_Insulin_Resistance]]
-[[111_Hub_Gut_Function]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
-[[111_Hub_Diet_Framework]]
-[[111_Hub_Vitamins_And_Supplements]]
-[[111_Hub_Mitochondria]]
-[[111_Hub_Disease_Specific]]
-[[111_Hub_Neurotransmitters]]
-[[111_Hub_Methylation]]
+
+
+
+
+
+
+
+
+
+
 
 CANONICAL GOVERNANCE NOTES (use exact names when created)
-[[60_Dashboards/Claim_Registry]]
-[[60_Dashboards/Open_Loops_Queue]]
-[[30_Rules/Evidence_Grade_And_Truth_Labels]]
-[[30_Rules/Canonicalization_And_Duplicate_Control]]
-[[100_Templates/Source_Intake_Lanes_Template]]
-[[100_Templates/Comparison_Note_Template_Competing_Hypotheses]]
-[[30_Rules/Patient_Truth_With_Safety_Segmentation]]
-[[70_Dictionary/Truth_Claim_Evidence_Definitions]]
+
+
+
+
+
+
+
+
 
 TAG POOL RULES (strict)
 Keep tags boring.
@@ -31650,7 +31453,7 @@ Never create tags for specific supplements or biomarkers (K2, MK7, PTH, ApoB, TG
 Put those in text + strong links instead.
 
 LINKING RULES (strict)
-- Use ONLY Obsidian links: [[Note_Name]]
+- Use ONLY Obsidian links: 
 - Each created note must include:
   - Related: 1 to 6 strong links (no vague dumping)
   - Link to its hub when applicable
@@ -31700,7 +31503,7 @@ ZETTEL (10_Zettels)
 - One idea, one mechanism, one implication.
 - 8 to 20 lines typical.
 - Ends with: Implications: (1 to 3 bullets)
-- Ends with: Evidence: (link to 1 to 3 [[Library_...]] notes or placeholders)
+- Ends with: Evidence: (link to 1 to 3  notes or placeholders)
 - If mechanistic chain is uncertain: add Competing_Hypotheses link.
 
 RULE (30_Rules)
@@ -31748,7 +31551,7 @@ Library note skeleton:
 - Study_type:
 - Population:
 - Key_findings (3 to 7 bullets):
-- Extracted_claims -> links to [[Zettel_...]]
+- Extracted_claims -> links to 
 - Notes / limitations:
 - Relevance_to_clinic: (High/Medium/Low)
 
@@ -31770,7 +31573,7 @@ CLAIM DISCIPLINE (audit-grade, lightweight)
   Scope (Population/Context):
   Confidence (Low/Med/High):
   Failure_Modes (what would make it false):
-  Evidence: [[Library_...]] or Needs_Evidence: yes
+  Evidence:  or Needs_Evidence: yes
 - If the claim is repeated across notes, canonicalize it into one zettel and link to it.
 
 SAFETY / CLINICAL CONTEXT (absolute)
@@ -31838,26 +31641,26 @@ VAULT STRUCTURE (fixed)
 111_Domain_Hubs  
 
 CANONICAL HUBS (use exact names)  
-[[111_Hub_Vitamin_D]]  
-[[111_Hub_Insulin_Resistance]]  
-[[111_Hub_Gut_Function]]  
-[[111_Hub_Lipids_And_Fatty_Acids]]  
-[[111_Hub_Diet_Framework]]  
-[[111_Hub_Vitamins_And_Supplements]]  
-[[111_Hub_Mitochondria]]  
-[[111_Hub_Disease_Specific]]  
-[[111_Hub_Neurotransmitters]]  
-[[111_Hub_Methylation]]  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 CANONICAL GOVERNANCE NOTES (use exact names when created)  
-[[60_Dashboards/Claim_Registry]]  
-[[60_Dashboards/Open_Loops_Queue]]  
-[[30_Rules/Evidence_Grade_And_Truth_Labels]]  
-[[30_Rules/Canonicalization_And_Duplicate_Control]]  
-[[100_Templates/Source_Intake_Lanes_Template]]  
-[[100_Templates/Comparison_Note_Template_Competing_Hypotheses]]  
-[[30_Rules/Patient_Truth_With_Safety_Segmentation]]  
-[[70_Dictionary/Truth_Claim_Evidence_Definitions]]  
+  
+  
+  
+  
+  
+  
+  
+  
 
 TAG POOL RULES (strict)  
 Keep tags boring.  
@@ -31882,7 +31685,7 @@ Never create tags for specific supplements or biomarkers (K2, MK7, PTH, ApoB, TG
 Put those in text + strong links instead.
 
 LINKING RULES (strict)  
-- Use ONLY Obsidian links: [[Note_Name]]  
+- Use ONLY Obsidian links:   
 - Each created note must include:  
   - Hub link(s): 1–2 hubs when applicable  
   - Related: 2 to 6 strong links (no vague dumping)  
@@ -31948,8 +31751,8 @@ ZETTEL (10_Zettels)
 - Must include: Claim / Scope / Confidence / Failure_Modes / Evidence or Needs_Evidence  
 - Ends with:  
   - Implications: (1 to 3 bullets)  
-  - Evidence: (link to 1 to 3 [[LIBRARY_...]] notes or placeholders)  
-- If mechanistic chain is uncertain: add [[TEMPLATE_Comparison_Note_Template_Competing_Hypotheses]] link (or create a comparison note).
+  - Evidence: (link to 1 to 3  notes or placeholders)  
+- If mechanistic chain is uncertain: add  link (or create a comparison note).
 
 RULE (30_Rules)  
 - IF/THEN gates, targets, monitoring, exceptions.  
@@ -31993,7 +31796,7 @@ Library note skeleton:
 - Study_type:  
 - Population:  
 - Key_findings (3 to 7 bullets):  
-- Extracted_claims -> links to [[ZETTEL_...]]  
+- Extracted_claims -> links to   
 - Notes / limitations:  
 - Relevance_to_clinic: (High/Medium/Low)
 
@@ -32014,7 +31817,7 @@ CLAIM DISCIPLINE (audit-grade, lightweight)
   Scope (Population/Context):  
   Confidence (Low/Med/High):  
   Failure_Modes (what would make it false):  
-  Evidence: [[LIBRARY_...]] or Needs_Evidence: yes  
+  Evidence:  or Needs_Evidence: yes  
 - If the claim is repeated across notes, canonicalize it into one zettel and link to it.
 
 SAFETY / CLINICAL CONTEXT (absolute)  
@@ -32047,7 +31850,7 @@ Add a **mandatory mini-block** at the end of every note:
 
 This forces a “graph spine” and prevents random clusters.
 
-Next step: Create **[[30_Rules/Canonicalization_And_Duplicate_Control]]** as a short rule that defines when to rename/merge notes 
+Next step: Create **** as a short rule that defines when to rename/merge notes 
 
 *[Message truncated - 32 additional characters]*
 
@@ -32106,28 +31909,28 @@ Build a clinical knowledge brain that is:
 ---
 
 ## CANONICAL HUBS (use exact names)
-[[111_Hub_Vitamin_D]]  
-[[111_Hub_Insulin_Resistance]]  
-[[111_Hub_Gut_Function]]  
-[[111_Hub_Lipids_And_Fatty_Acids]]  
-[[111_Hub_Diet_Framework]]  
-[[111_Hub_Vitamins_And_Supplements]]  
-[[111_Hub_Mitochondria]]  
-[[111_Hub_Disease_Specific]]  
-[[111_Hub_Neurotransmitters]]  
-[[111_Hub_Methylation]]  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 ---
 
 ## CANONICAL GOVERNANCE NOTES (use exact names when created)
-[[60_Dashboards/DASHBOARD_Claim_Registry]]  
-[[60_Dashboards/DASHBOARD_Open_Loops_Queue]]  
-[[30_Rules/RULE_Evidence_Grade_And_Truth_Labels]]  
-[[30_Rules/RULE_Canonicalization_And_Duplicate_Control]]  
-[[30_Rules/RULE_Patient_Truth_With_Safety_Segmentation]]  
-[[70_Dictionary/DICTIONARY_Truth_Claim_Evidence_Definitions]]  
-[[100_Templates/TEMPLATE_Source_Intake_Lanes]]  
-[[100_Templates/TEMPLATE_Comparison_Note_Competing_Hypotheses]]  
+  
+  
+  
+  
+  
+  
+  
+  
 
 ---
 
@@ -32156,7 +31959,7 @@ Put those in text + strong links instead.
 ---
 
 ## LINKING RULES (strict, connectivity-first)
-- Use ONLY Obsidian links: `[[Note_Name]]`
+- Use ONLY Obsidian links: ``
 - Each created note must include:
   - `Hub:` 1–2 hub links when applicable
   - `Related:` 2–6 strong links (no vague dumping)
@@ -32249,7 +32052,7 @@ Must include:
 - `Scope (Population/Context):`
 - `Confidence (Low/Med/High):`
 - `Failure_Modes:`
-- `Evidence:` links to 1–3 `[[LIBRARY_...]]` notes OR `Needs_Evidence: yes`
+- `Evidence:` links to 1–3 `` notes OR `Needs_Evidence: yes`
 
 End with:
 - `Implications:` (1–3 bullets)
@@ -32260,7 +32063,7 @@ End with:
 - `Downstream:` (1–2)
 
 If mechanistic chain is uncertain:
-- add `Competing_Hypotheses:` link to `[[TEMPLATE_Comparison_Note_Competing_Hypotheses]]` or create a comparison note.
+- add `Competing_Hypotheses:` link to `` or create a comparison note.
 
 ### RULE (30_Rules)
 IF/THEN gates, targets, monitoring, exceptions.
@@ -32328,7 +32131,7 @@ Library note skeleton:
 - `Study_type:`
 - `Population:`
 - `Key_findings:` (3–7 bullets)
-- `Extracted_claims:` -> links to `[[ZETTEL_...]]`
+- `Extracted_claims:` -> links to ``
 - `Notes / limitations:`
 - `Relevance_to_clinic:` (High/Medium/Low)
 End with Related/Upstream/Downstream (Hub optional).
@@ -32356,7 +32159,7 @@ Any non-trivial clinical claim must be expressed as:
 - `Scope (Population/Context):`
 - `Confidence (Low/Med/High):`
 - `Failure_Modes:`
-- `Evidence:` `[[LIBRARY_...]]` or `Needs_Evidence: yes`
+- `Evidence:` `` or `Needs_Evidence: yes`
 
 If the claim is repeated across notes:
 - canonicalize it into ONE zettel and link to it everywhere else.
@@ -32620,9 +32423,9 @@ Opt
   - Rule: when to suspect hidden hunger clinically.  
   - Library: historical + COVID-era evidence.  
 - Candidate hubs affected:  
-  - [[111_Hub_Gut_Function]]  
-  - [[111_Hub_Insulin_Resistance]]  
-  - [[111_Hub_Vitamins_And_Supplements]]
+  -   
+  -   
+  - 
 
 ---
 
@@ -32704,11 +32507,11 @@ Common confusion:
 - Symptoms can be vague for years before a recognizable disease appears.
 
 Related:
-- [[111_Hub_Vitamins_And_Supplements]]
-- [[111_Hub_Insulin_Resistance]]
-- [[111_Hub_Gut_Function]]
-- [[DICTIONARY_Empty_Calories]]
-- [[ZETTEL_Micronutrient_Deficiency_Impairs_Immune_Function]]
+- 
+- 
+- 
+- 
+- 
 
 Assumptions:
 - “Hidden hunger” is used here primarily as micronutrient insufficiency in modern diets, not humanitarian famine contexts.
@@ -32749,10 +32552,10 @@ Common confusion:
 - “Fortified” foods may raise a few nutrients while still lacking broad nutrient density and generating glycemic load.
 
 Related:
-- [[111_Hub_Diet_Framework]]
-- [[111_Hub_Insulin_Resistance]]
-- [[DICTIONARY_Hidden_Hunger]]
-- [[ZETTEL_Empty_Calories_Drive_Metabolic_Dysfunction]]
+- 
+- 
+- 
+- 
 
 Open_Loops:
 - Clinic phrasing: how do we explain “empty calories” without moralizing food?
@@ -32802,15 +32605,15 @@ Implications:
 - Immune optimization should include nutrient density + targeted correction, not only symptom suppression.
 
 Evidence:
-- [[LIBRARY_Calder_2020_Nutrients_Immune_Function_Viral_Infections]]
-- [[LIBRARY_Ames_2006_Triage_Theory_Micronutrients_Aging]]
-- [[LIBRARY_Ames_2018_Longevity_Vitamins_Proteins]]
+- 
+- 
+- 
 
 Related:
-- [[111_Hub_Vitamins_And_Supplements]]
-- [[111_Hub_Gut_Function]]
-- [[DICTIONARY_Hidden_Hunger]]
-- [[ZETTEL_Correction_Of_Deficiencies_Improves_Disease_Trajectory]]
+- 
+- 
+- 
+- 
 
 Open_Loops:
 - Convert into a clinic gate: which symptom clusters trigger workup?
@@ -32860,15 +32663,15 @@ Implications:
 - “Eat less” alone is fragile if it ignores satiety and micronutrient sufficiency.
 
 Evidence:
-- [[LIBRARY_Harvard_Medical_School_Empty_Calories]]
-- [[LIBRARY_Ames_2006_Triage_Theory_Micronutrients_Aging]]
-- [[LIBRARY_Manzel_2014_Western_Diet_Autoimmune_Inflammation]]
+- 
+- 
+- 
 
 Related:
-- [[111_Hub_Diet_Framework]]
-- [[111_Hub_Insulin_Resistance]]
-- [[DICTIONARY_Empty_Calories]]
-- [[ZETTEL_Hidden_Hunger_Promotes_Systemic_Inflammation]]
+- 
+- 
+- 
+- 
 
 Open_Loops:
 - Add a tight “patient truth” script that avoids diet-war language.
@@ -32918,15 +32721,15 @@ Implications:
 - Correction often needs multi-nutrient + lifestyle correction, not single pills.
 
 Evidence:
-- [[LIBRARY_Calder_2020_Nutrients_Immune_Function_Viral_Infections]]
-- [[LIBRARY_Ames_2018_Longevity_Vitamins_Proteins]]
-- [[LIBRARY_De_Rosa_2017_Metabolic_Pressure_Self_Tolerance]]
+- 
+- 
+- 
 
 Related:
-- [[111_Hub_Gut_Function]]
-- [[111_Hub_Vitamins_And_Supplements]]
-- [[DICTIONARY_Hidden_Hunger]]
-- [[ZETTEL_Micronutrient_Deficiency_Impairs_Immune_Function]]
+- 
+- 
+- 
+- 
 
 Open_Loops:
 - Define a minimal inflammation panel + metabolomics indicators you consider “good enough.”
@@ -32976,15 +32779,15 @@ Implications:
 - Risk stratification should include metabolic status, not only age.
 
 Evidence:
-- [[LIBRARY_Bornstein_2020_Nature_Reviews_Endocrinology_Metabolic_Link_COVID]]
-- [[LIBRARY_Calder_2020_Nutrients_Immune_Function_Viral_Infections]]
-- [[LIBRARY_Tsoukalas_Sarandi_2020_BMJ_NPH_Micronutrients_COVID_Metabolomics]]
+- 
+- 
+- 
 
 Related:
-- [[111_Hub_Insulin_Resistance]]
-- [[111_Hub_Mitochondria]]
-- [[DICTIONARY_Hidden_Hunger]]
-- [[RULE_Metabolic_Status_As_Immune_Risk_Modifier]]
+- 
+- 
+- 
+- 
 
 Open_Loops:
 - Decide your 
@@ -33003,6 +32806,6 @@ Open_Loops:
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*
 
 ```

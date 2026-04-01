@@ -4,7 +4,7 @@ type: zettel
 title: Carnitine Shuttle — Fatty Acid Transport System
 domain: 001
 tags: [zettel, carnitine, fatty-acid-transport, cpt1, cpt2, mitochondria]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]]"
 status: conscious
@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Long-chain fatty acids cannot cross the inner [[KEYWORD-Mitochondria|mitochondria]]l membrane directly. The carnitine shuttle transports activated fatty acids into the [[KEYWORD-Mitochondria|mitochondrial]] matrix for β-oxidation.
+Long-chain fatty acids cannot cross the inner l membrane directly. The carnitine shuttle transports activated fatty acids into the  matrix for β-oxidation.
 
 ---
 
@@ -73,7 +73,7 @@ Acetyl-CoA + Carnitine → Acetylcarnitine + CoA
 
 ## Regulatory Control
 
-### Fed State (High [[KEYWORD-Insulin|insulin]])
+### Fed State (High )
 - High malonyl-CoA (fatty acid synthesis active)
 - **CPT-I inhibited**
 - Fatty acids directed to storage (triglycerides)

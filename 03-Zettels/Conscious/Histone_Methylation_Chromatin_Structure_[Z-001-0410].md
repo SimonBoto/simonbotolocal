@@ -5,13 +5,13 @@ title: Histone Methylation — Chromatin Structure
 aliases: [Histone-Methylation, Chromatin, HMT, Epigenetic-Marks]
 domain: 001
 tags: [zettel, histone, methylation, chromatin, gene-expression]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]]
 extraction-date: 2026-03-01
 ---
 
-# Histone [[KEYWORD-Methylation|methylation]] — Chromatin Structure
+# Histone  — Chromatin Structure
 
 > Histone methylation at specific lysine and arginine residues alters chromatin structure and gene accessibility, with distinct marks associated with transcriptional activation or repression.
 
@@ -72,7 +72,7 @@ extraction-date: 2026-03-01
 
 **SAM Availability:**
 - HMTs require SAM as methyl donor
-- B12/[[KEYWORD-Folate|folate]] deficiency → Reduced SAM
+- B12/ deficiency → Reduced SAM
 - Reduced SAM → Altered histone methylation
 - Result: Epigenetic dysregulation
 
@@ -87,4 +87,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

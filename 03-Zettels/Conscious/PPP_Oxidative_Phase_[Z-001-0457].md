@@ -5,7 +5,7 @@ title: Pentose Phosphate Pathway Oxidative Phase
 aliases: [Z-001-0457, ppp-oxidative, g6p-dehydrogenase]
 domain: 001
 tags: [zettel, ppp, pentose-phosphate, g6pd, nadph, metabolism]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045C]]
@@ -33,9 +33,9 @@ G6P + 2 NADP⁺ + H₂O → R5P + CO₂ + 2 NADPH + 2 H⁺
 ## Regulation
 - **NADP⁺/NADPH ratio:** Primary controller
 - High NADPH → inhibits G6P dehydrogenase (feedback inhibition)
-- **[[KEYWORD-Insulin|insulin]]:** Upregulates PPP enzymes (anabolic signal)
+- **:** Upregulates PPP enzymes (anabolic signal)
 
-## [[KEYWORD-Clinical|clinical]]: G6PD Deficiency
+## : G6PD Deficiency
 - Most common enzyme deficiency (400M+ people)
 - X-linked recessive
 - RBCs vulnerable → hemolysis under oxidative stress
@@ -44,7 +44,7 @@ G6P + 2 NADP⁺ + H₂O → R5P + CO₂ + 2 NADPH + 2 H⁺
 ## Related
 - [[G6PD_Deficiency_Evolutionary_Trade-offs_[Z-001-0461]]] NADPH Functions (product of PPP)
 - [[Ribose_Structure_RNA_Backbone_[Z-001-0458]]] Ribose Structure and Function
-- [[Triose_[[KEYWORD-Metabolism|metabolism]]_G3P_DHAP_[Z-001-0459]]] Triose Metabolism Integration
+- _G3P_DHAP_[Z-001-0459]]] Triose Metabolism Integration
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

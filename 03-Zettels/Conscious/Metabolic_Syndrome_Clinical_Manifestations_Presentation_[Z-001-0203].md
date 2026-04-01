@@ -5,7 +5,7 @@ title: Metabolic Syndrome — Clinical Manifestations and Presentation
 aliases: [MetS-Clinical, Metabolic-Syndrome-Symptoms, MetS-Presentation]
 domain: 001
 tags: [zettel, metabolic-syndrome, clinical, diagnosis, physical-exam]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]]
 extraction-date: 2026-03-01
@@ -41,8 +41,8 @@ extraction-date: 2026-03-01
 ### Skin Manifestations
 | Finding | Significance |
 |---------|--------------|
-| **Acanthosis nigricans** | Dark, velvety patches in neck, axilla, groin — marker of [[KEYWORD-Insulin|insulin]] resistance |
-| **Skin tags** | Associated with [[KEYWORD-Insulin_Resistance|insulin resistance]] |
+| **Acanthosis nigricans** | Dark, velvety patches in neck, axilla, groin — marker of  resistance |
+| **Skin tags** | Associated with  |
 | **Striae distensae** | Rapid weight gain, Cushing's (differential) |
 
 ### Other Signs
@@ -59,7 +59,7 @@ extraction-date: 2026-03-01
 
 ### Obstructive Sleep Apnea
 - Strong bidirectional association with MetS
-- Contributes to hypertension, [[KEYWORD-Inflammation|inflammation]]
+- Contributes to hypertension, 
 
 ### Polycystic Ovary Syndrome (PCOS)
 - MetS equivalent in women of reproductive age
@@ -82,5 +82,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[KEYWORD-Metabolic_Syndrome]]
-- [[MOC-INDEX|Master Index]]
+- 
+- 

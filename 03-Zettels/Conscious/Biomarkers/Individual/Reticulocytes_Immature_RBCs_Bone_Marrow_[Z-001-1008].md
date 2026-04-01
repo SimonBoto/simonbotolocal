@@ -5,7 +5,7 @@ title: Reticulocytes — Immature RBCs, Bone Marrow Activity
 aliases: [Z-001-1008, Reticulocytes, Retic-Count, Bone-Marrow, Erythropoiesis, Anemia-Workup]
 domain: 001
 tags: [zettel, biomarker, reticulocytes, bone-marrow, erythropoiesis, anemia]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

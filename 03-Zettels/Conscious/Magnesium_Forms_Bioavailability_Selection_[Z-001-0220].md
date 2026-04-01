@@ -5,13 +5,13 @@ title: Magnesium Forms — Bioavailability and Clinical Selection
 aliases: [Mg-Forms, Magnesium-Bioavailability, Magnesium-Salts]
 domain: 001
 tags: [zettel, magnesium, forms, bioavailability, supplements, citrate, glycinate]
-parent-moc: [[MOC-Supplements]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Magnesium_Supplementation_L-001-0201d]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Magnesium|magnesium]] Forms — Bioavailability and [[KEYWORD-Clinical|clinical]] Selection
+#  Forms — Bioavailability and  Selection
 
 > The choice of magnesium salt significantly impacts absorption, tolerability, and clinical efficacy, with organic salts (citrate, glycinate) demonstrating superior bioavailability compared to inorganic forms (oxide).
 
@@ -94,7 +94,7 @@ extraction-date: 2026-03-01
 ## Selection Algorithm
 
 ```
-General MetS/[[KEYWORD-Insulin|insulin]] Resistance
+General MetS/ Resistance
     ↓
 Citrate (cost-effective) or Glycinate (gentle)
     ↓
@@ -130,4 +130,4 @@ Yes → Consider Taurate or Orotate
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

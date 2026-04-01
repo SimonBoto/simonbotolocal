@@ -5,7 +5,7 @@ title: Reversal Phase — Mononuclear Cells Prepare Bone Surface
 aliases: [Z-001-0101]
 domain: 001
 tags: [zettel, bone-remodeling, reversal, mononuclear-cells, coupling, cement-line, conscious]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 status: conscious
 ---
 
@@ -22,7 +22,7 @@ The **reversal phase** bridges bone resorption and formation, with mononuclear c
 3. **Reverse cells** — Specialized cells of unclear lineage
 
 ### Functions
-| Function | [[KEYWORD-Mechanism|mechanism]] |
+| Function |  |
 |----------|-----------|
 | **Debris clearance** | Phagocytosis of collagen fragments, dead osteoclasts |
 | **Surface preparation** | Demineralization of residual mineral |
@@ -54,7 +54,7 @@ Factors released during bone degradation signal formation to begin:
 | **S1P (Sphingosine-1-phosphate)** | Osteoclasts | Promotes precursor migration |
 | **Semaphorins** | Osteoclasts | Regulate osteoblast differentiation |
 
-### [[KEYWORD-Clinical|clinical]] Significance of Coupling
+###  Significance of Coupling
 - **Normal coupling:** Resorption balanced by equivalent formation
 - **Uncoupling in osteoporosis:** High resorption, inadequate formation response
 - **Anabolic therapy target:** Enhance formation signal independent of resorption

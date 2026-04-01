@@ -6,7 +6,7 @@ title: Creatinine — Muscle Metabolite & Kidney Function
 aliases: [Z-008-0001, Creatinine, Kidney-Function, GFR, Muscle-Metabolite]
 domain: 008
 tags: [zettel, biomarker, creatinine, kidney, renal, gfr, muscle]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

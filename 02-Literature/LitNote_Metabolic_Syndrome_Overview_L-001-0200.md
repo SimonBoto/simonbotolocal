@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 2
 relevance: High — Foundational context for all nutrient-MetS research; METHAP trial background
 status: extracted
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -156,8 +156,8 @@ Metabolic syndrome is not merely a collection of risk factors but a progressive 
 ## Related References
 - [[LitNote_IR_Mechanisms_Map_L-001-0005]] — Deep dive into IR mechanisms
 - [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]] — VitD as MetS intervention
-- [[MOC-Metabolic-Syndrome]] — Parent MOC
-- [[MOC-Insulin-Signaling]] — Mechanistic context
+-  — Parent MOC
+-  — Mechanistic context
 
 ---
 

@@ -6,7 +6,7 @@ aliases: [Z-001-1105, Cofactor-Patterns]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, cofactor, deficiency, metabolites, biomarkers]
-parent-moc: [[MOC-Metabolomics-Analysis]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
 source: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
 confidence: high
@@ -18,7 +18,7 @@ created: 2026-03-08
 ## Overview
 Specific metabolite accumulation patterns in blood or urine can reveal cofactor deficiencies—enabling targeted nutritional intervention.
 
-## B-[[KEYWORD-Vitamin_D|vitamin d]]eficiency Signatures
+## B-eficiency Signatures
 
 ### B1 (Thiamine) Deficiency
 | Elevated Marker | Enzyme Affected | Clinical |
@@ -101,14 +101,14 @@ Specific metabolite accumulation patterns in blood or urine can reveal cofactor 
 | **Mg** | 400-800 mg/day | 200-400 mg/day |
 
 ## Related
-- [[B_Vitamins_Enzyme_Cofactors_[[KEYWORD-Metabolism|metabolism]]_[Z-001-1102].md]]
+- _[Z-001-1102].md]]
 | [[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052].md]]
-| [[MOC-[[KEYWORD-Metabolomics|metabolomics]]-Analysis]]
+| -Analysis]]
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

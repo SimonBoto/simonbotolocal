@@ -273,4 +273,4 @@ Pharmacological treatment should be tailored to the individual based on their li
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

@@ -5,7 +5,7 @@ title: Core Mineral Status — Magnesium, Zinc, Selenium, Copper Clinical Assess
 aliases: [Z-001-1015]
 domain: 001
 tags: [zettel, minerals, magnesium, zinc, selenium, copper, manganese, rbc-magnesium, mitochondrial-cofactors, conscious]
-parent-moc: [[MOC-Micronutrients]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]]
 status: conscious
@@ -15,7 +15,7 @@ status: conscious
 
 ## Overview
 
-Core minerals function as essential cofactors for hundreds of enzymatic reactions, particularly in energy [[KEYWORD-Metabolism|metabolism]], antioxidant defense, and hormonal regulation. Assessment of mineral status is critical for metabolic optimization.
+Core minerals function as essential cofactors for hundreds of enzymatic reactions, particularly in energy , antioxidant defense, and hormonal regulation. Assessment of mineral status is critical for metabolic optimization.
 
 ## Magnesium — The Master Mineral
 
@@ -29,7 +29,7 @@ Core minerals function as essential cofactors for hundreds of enzymatic reaction
 - Nerve conduction
 - Blood pressure regulation
 - Blood glucose control
-- [[KEYWORD-Vitamin_D|vitamin d]] activation
+-  activation
 
 ### Forms and Testing
 
@@ -70,7 +70,7 @@ Core minerals function as essential cofactors for hundreds of enzymatic reaction
 - QT prolongation
 
 **Metabolic:**
-- [[KEYWORD-Insulin|insulin]] resistance
+-  resistance
 - Type 2 diabetes risk
 - Metabolic syndrome
 

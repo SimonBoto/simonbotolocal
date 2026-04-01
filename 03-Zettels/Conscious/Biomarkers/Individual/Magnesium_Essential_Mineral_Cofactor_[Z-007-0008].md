@@ -5,7 +5,7 @@ title: Magnesium — Essential Mineral, 300+ Enzyme Cofactor
 aliases: [Z-007-0008, Magnesium, Mg, RBC-Magnesium, Serum-Magnesium, Cofactor]
 domain: 007
 tags: [zettel, biomarker, magnesium, mineral, cofactor, critical]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

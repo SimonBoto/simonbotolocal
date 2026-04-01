@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: High — CV risk reduction rationale for METHAP; Mg mechanisms in hypertension
 status: extracted
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -155,8 +155,8 @@ Magnesium has emerged as a key factor in preventing vascular calcification, part
 - [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]] — Metabolic effects
 - [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]] — Vascular calcification context
 - [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]] — Bone-vascular axis
-- [[MOC-Metabolic-Syndrome]] — Parent MOC
-- [[MOC-Cardiovascular-Health]] — CV context
+-  — Parent MOC
+-  — CV context
 
 ---
 

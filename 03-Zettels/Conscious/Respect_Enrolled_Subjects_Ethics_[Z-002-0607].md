@@ -6,13 +6,13 @@ aliases: [Z-002-0607, ethics-respect-subjects]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, participant-protection, emmanuel-seven]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]"
 confidence: high
 created: 2026-03-27
 ---
 
-# Respect for Enrolled Subjects in [[KEYWORD-Research|research]] Ethics
+# Respect for Enrolled Subjects in  Ethics
 
 Ethical obligations to participants continue throughout the study and beyond. Privacy must be protected, confidentiality maintained, and well-being monitored continuously.
 
@@ -44,7 +44,7 @@ Ethical obligations to participants continue throughout the study and beyond. Pr
 ## Post-Study Responsibilities
 
 - Results dissemination to participants (if desired)
-- Transition to appropriate [[KEYWORD-Clinical|clinical]] care
+- Transition to appropriate  care
 - Long-term safety follow-up (if indicated)
 - Data archiving per regulatory requirements
 - Publication of findings (positive and negative)
@@ -56,12 +56,12 @@ METHAP ongoing protections:
 - **Privacy:** No identifying information in datasets
 - **Monitoring:** Regular safety assessments
 - **Withdrawal:** Participants can exit anytime
-- **Results:** Option to receive individual [[KEYWORD-Metabolomics|metabolomics]] results
+- **Results:** Option to receive individual  results
 - **Follow-up:** Referral for abnormal findings
 
 ## Links
 
-**Parent MOC:** [[MOC-Research-Ethics]]  
+**Parent MOC:**   
 **Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]  
 **Related:** [[Informed_Consent_Ethical_Research_[Z-002-0606].md]] — Entry requirements
 

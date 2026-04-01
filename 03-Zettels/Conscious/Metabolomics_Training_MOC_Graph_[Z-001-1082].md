@@ -6,29 +6,29 @@ aliases: [Z-001-1082, Training-MOC-Graph]
 domain: 001
 domain-name: Metabolomics Training
 tags: [zettel, moc, graph, connections]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0022_Training_Integration_L-001-0598]]
 source: [[LitNote_CGPT_0022_Training_Integration_L-001-0598]]
 confidence: high
 created: 2026-03-08
 ---
 
-# [[KEYWORD-Metabolomics|metabolomics]] Training MOC Graph
+#  Training MOC Graph
 
 ## Overview
 Knowledge graph showing connections between all CGPT-0022 training materials and existing MOCs.
 
 ## Central Hub
-[[MOC-Metabolomics-Training]] — Primary curriculum coordination
+ — Primary curriculum coordination
 
 ## Domain Clusters
 
-### Energy [[KEYWORD-Metabolism|metabolism]] Cluster
+### Energy  Cluster
 **MOCs:**
-- [[MOC-Mitochondrial-Function]]
-- [[MOC-Krebs-Cycle]]
-- [[MOC-Glycolysis-PPP]]
-- [[MOC-Ketogenesis]]
+- 
+- 
+- 
+- 
 
 **Zettels:**
 - Z-001-1048: Krebs Cycle
@@ -43,8 +43,8 @@ Knowledge graph showing connections between all CGPT-0022 training materials and
 
 ### Lipid Signaling Cluster
 **MOCs:**
-- [[MOC-Omega3-Fats]]
-- [[MOC-Cholesterol-Quality]]
+- 
+- 
 
 **Zettels:**
 - Z-001-1055: Fatty Acid Classes
@@ -54,9 +54,9 @@ Knowledge graph showing connections between all CGPT-0022 training materials and
 
 ### Micronutrient Cluster
 **MOCs:**
-- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Metabolism]]
-- [[MOC-Vitamin-Metabolism]]
-- [[MOC-Methylation-One-Carbon]]
+- -Metabolism]]
+- 
+- 
 
 **Zettels:**
 - Z-001-1059: D-PTH Axis
@@ -67,8 +67,8 @@ Knowledge graph showing connections between all CGPT-0022 training materials and
 
 ### Analysis & Interpretation Cluster
 **MOCs:**
-- [[MOC-Metabolomics-Analysis]]
-- [[MOC-Biomarkers]]
+- 
+- 
 
 **Zettels:**
 - Z-001-1064: Gut OAT
@@ -80,7 +80,7 @@ Knowledge graph showing connections between all CGPT-0022 training materials and
 
 ### Clinical Practice Cluster
 **MOCs:**
-- [[MOC-Clinical-Protocols]]
+- 
 
 **Zettels:**
 - Z-001-1029: MCI Role
@@ -97,8 +97,8 @@ Knowledge graph showing connections between all CGPT-0022 training materials and
 
 ### Evidence Base Cluster
 **MOCs:**
-- [[MOC-Research-Methods]]
-- [[MOC-Nutrition]]
+- 
+- 
 
 **Zettels:**
 - Z-001-1074: Metabolomics Biblio
@@ -107,7 +107,7 @@ Knowledge graph showing connections between all CGPT-0022 training materials and
 
 ### Foundation Cluster
 **MOCs:**
-- [[MOC-Metabolomics-Training]]
+- 
 
 **Zettels:**
 - Z-001-1041-1047: Core Vocabulary (7)
@@ -140,13 +140,13 @@ MOC-Clinical-Protocols → Supplement Hierarchy → Cofactor Deficiency → Qual
 
 ## Related
 - [[CGPT_0022_Curriculum_Master_Index_[Z-001-1081].md]]
-- [[MOC-Metabolomics-Training]]
+- 
 
 ---
 *Source: CGPT-0022 — MOC knowledge graph*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Biomarkers/Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

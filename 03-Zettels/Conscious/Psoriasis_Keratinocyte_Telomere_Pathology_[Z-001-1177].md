@@ -4,7 +4,7 @@ type: zettel
 title: Psoriasis Keratinocyte Telomere Pathology
 domain: 001
 tags: [zettel, psoriasis, keratinocytes, telomeres, skin, hyperproliferation]
-parent-moc: [[MOC-Autoimmunity]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]]"
 status: conscious
@@ -33,7 +33,7 @@ status: conscious
 - Massive hyperproliferation
 - Rapid telomere attrition
 
-### [[KEYWORD-Mechanism|mechanism]]
+### 
 ```
 Immune Activation (T cells, IL-17, IL-23)
            ↓
@@ -71,14 +71,14 @@ Potential Genomic Instability
 - Barrier function impairment
 
 **Vicious Cycle:**
-- Barrier dysfunction → antigen entry → [[KEYWORD-Inflammation|inflammation]]
+- Barrier dysfunction → antigen entry → 
 - Inflammation drives proliferation
 - Proliferation accelerates telomere loss
 - Telomere dysfunction worsens barrier
 
 ---
 
-## [[KEYWORD-Cancer|cancer]] Risk Considerations
+##  Risk Considerations
 
 ### Skin Cancer in Psoriasis
 **Risk Factors:**
@@ -141,4 +141,4 @@ Potential Genomic Instability
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

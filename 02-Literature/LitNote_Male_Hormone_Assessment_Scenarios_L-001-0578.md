@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: Core clinical approach to male hypogonadism and hormone disorders
 status: extracted
-parent-moc: [[MOC-Male-Hypogonadism]]
+parent-moc: 
 extraction-date: 2026-03-07
 domain: 001
 ---

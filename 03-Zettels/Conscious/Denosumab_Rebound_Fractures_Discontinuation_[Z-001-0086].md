@@ -6,7 +6,7 @@ aliases: [Z-001-0086, Denosumab_Rebound_Fractures_Discontinuation]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, pharmacology, denosumab]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 source: [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]]
 confidence: high
 created: 2026-03-01
@@ -19,8 +19,8 @@ Upon discontinuation of denosumab, patients may experience rapid increase in bon
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
-**Source:** [[LitNote_Denosumab_[[KEYWORD-Mechanism|mechanism]]_Risks_L-001-0012]]
+**Parent MOC:** 
+**Source:** _Risks_L-001-0012]]
 **Related:** [[Denosumab_RANKL_Antibody_Mechanism_[Z-001-0085].md]], [[Denosumab_Bisphosphonate_Transition_Protocol_[Z-001-0087].md]]
 
 ---

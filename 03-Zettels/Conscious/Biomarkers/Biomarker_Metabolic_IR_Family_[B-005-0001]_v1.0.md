@@ -5,7 +5,7 @@ title: Metabolic / Insulin Resistance Family (Glucose, Insulin, HbA1c, TG, Uric 
 aliases: [B-005-0001, Metabolic-Panel, IR-Panel, Glucose, Insulin, HbA1c, Triglycerides, Uric-Acid, HOMA-IR]
 domain: 005
 tags: [biomarker, metabolic, insulin-resistance, diabetes, cardiovascular, obesity, Metabolomics-connection]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 created: 2026-03-30
 ---
@@ -227,8 +227,8 @@ created: 2026-03-30
 | Metabolic Finding | OAT Markers | Connection |
 |-------------------|-------------|------------|
 | **High glucose/insulin** | [[Adipic_Acid_[Z-001-0041]]] | Impaired β-oxidation |
-| **High TG** | [[Carnitine_Status_[Z-XXX-XXXX]]] | Fatty acid transport |
-| **High uric acid** | [[Lactic_Acid_[Z-XXX-XXXX]]] | Lactic acidosis, mitochondrial stress |
+| **High TG** | ] | Fatty acid transport |
+| **High uric acid** | ] | Lactic acidosis, mitochondrial stress |
 | **IR + fatigue** | [[Mitochondrial_Markers_[Z-001-1067]]] | Energy failure |
 | **IR + brain fog** | [[BHB_[Z-001-0483]]] | Metabolic flexibility |
 

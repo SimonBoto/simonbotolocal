@@ -1877,4 +1877,4 @@ By carefully planning and managing your resources, you can create a self-sustain
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

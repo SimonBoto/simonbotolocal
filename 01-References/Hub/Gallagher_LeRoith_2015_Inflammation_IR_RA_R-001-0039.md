@@ -15,7 +15,7 @@ status: ref
 confidence: high
 aliases: [R-001-0039, Gallagher_2015_Inflammation_IR_RA, Cell_Metab_Inflammation]
 tags: [ref, inflammation, insulin-resistance, rheumatoid-arthritis, cytokines, TNF-alpha]
-parent-moc: [[MOC-References]]
+parent-moc: 
 source-type: review
 extraction-date: 2026-02-24
 ---
@@ -54,7 +54,7 @@ Gallagher, E. J. and LeRoith, D. (2015) 'Inflammation and insulin resistance: Ne
 
 ## Cited In
 - [[LitNote_IR_Mechanisms_Map_L-001-0005]] — Inflammation-IR link
-- [[MOC-Inflammation]] — Cytokine mechanisms
+-  — Cytokine mechanisms
 
 ## Our Use
 **Clinic:** Explain to autoimmune patients why metabolic monitoring matters

@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Ancient pathways, RNA world hypothesis, origins of metabolism, metabolic fossils
 status: extracted
-parent-moc: [[MOC-Evolutionary-Biochemistry]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -66,7 +66,7 @@ extraction-date: 2026-03-08
 4. [[Metabolic_Fossils_Ancient_Pathway_Remants_[Z-001-1109].md]]
 
 ## Related References
-- [[MOC-Evolutionary-Biochemistry]]
+- 
 - [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_[Z-001-1092].md]]
 - [[Iron_Sulfur_Clusters_Ancient_Cofactors_[Z-001-1103].md]]
 

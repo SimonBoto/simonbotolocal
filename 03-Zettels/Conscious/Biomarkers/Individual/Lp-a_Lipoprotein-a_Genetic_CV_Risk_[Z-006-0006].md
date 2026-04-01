@@ -5,7 +5,7 @@ title: Lp(a) — Lipoprotein(a), Genetic Cardiovascular Risk
 aliases: [Z-006-0006, Lp-a, Lipoprotein-a, Genetic-Risk, Cardiovascular, LDL-Variant]
 domain: 006
 tags: [zettel, biomarker, lp-a, lipoprotein-a, genetic, cardiovascular, risk]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

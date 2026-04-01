@@ -5,15 +5,15 @@ title: Mediterranean Diet — Evidence and Mechanisms
 aliases: [Mediterranean-Diet, PREDIMED, LYON, EPIC]
 domain: 001
 tags: [zettel, mediterranean-diet, predimed, evidence]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]
 extraction-date: 2026-03-01
 ---
 
-# Mediterranean Diet — Evidence and [[KEYWORD-Mechanism|mechanism]]s
+# Mediterranean Diet — Evidence and s
 
-> The Mediterranean dietary pattern, characterized by high olive oil consumption, consistently demonstrates cardiovascular and metabolic benefits in [[KEYWORD-Clinical|clinical]] trials.
+> The Mediterranean dietary pattern, characterized by high olive oil consumption, consistently demonstrates cardiovascular and metabolic benefits in  trials.
 
 ## PREDIMED (2013)
 
@@ -52,7 +52,7 @@ extraction-date: 2026-03-01
 **Beyond Oleic Acid:**
 - Polyphenols (hydroxytyrosol)
 - Fiber from vegetables/legumes
-- [[KEYWORD-Omega_3|omega-3]] from fish
+-  from fish
 - Social pattern, physical activity
 
 **Synergy:**
@@ -66,5 +66,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Mediterranean_Diet_Metabolic_Evidence_[Z-001-1076]|Z-001-1076]]

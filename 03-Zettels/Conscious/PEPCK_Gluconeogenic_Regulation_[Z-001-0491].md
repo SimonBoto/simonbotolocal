@@ -5,7 +5,7 @@ title: PEPCK and Gluconeogenic Regulation
 aliases: [Z-001-0491, pepck, gluconeogenesis, regulation, hormones]
 domain: 001
 tags: [zettel, pepck, gluconeogenesis, regulation, glucagon, insulin, cortisol]
-parent-moc: [[MOC-Gluconeogenesis]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045H]]
@@ -39,7 +39,7 @@ PEPCK transcription ↑
 - Direct transcriptional activation of PEPCK gene
 - **Synergistic with glucagon**
 
-### [[KEYWORD-Insulin|insulin]] (Fed State)
+###  (Fed State)
 **Mechanism:**
 ```
 Insulin → FOXO1 phosphorylation → nuclear exclusion
@@ -85,7 +85,7 @@ PEPCK transcription ↓
 
 ### Type 2 Diabetes
 **Problem:**
-- Hepatic [[KEYWORD-Insulin_Resistance|insulin resistance]]
+- Hepatic 
 - Cannot suppress PEPCK appropriately
 - **Excessive gluconeogenesis** → fasting hyperglycemia
 
@@ -112,8 +112,8 @@ PEPCK transcription ↓
 
 ## Related
 - [[Gluconeogenesis_from_Oxaloacetate_[Z-001-0489]]] Gluconeogenesis from OAA
-- [[[[KEYWORD-Mitochondria|mitochondria]]l_Shuttles_Malate_Aspartate_[Z-001-0490]]] Mitochondrial Shuttles
-- [[MOC-Gluconeogenesis]]
+- l_Shuttles_Malate_Aspartate_[Z-001-0490]]] Mitochondrial Shuttles
+- 
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

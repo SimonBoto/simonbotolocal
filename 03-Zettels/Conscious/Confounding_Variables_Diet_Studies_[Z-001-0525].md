@@ -5,7 +5,7 @@ title: Confounding Variables in Diet Studies
 aliases: [Confounding, Smoking, SES, Sugar]
 domain: 001
 tags: [zettel, confounding, smoking, socioeconomic, sugar]
-parent-moc: [[MOC-Research-Methodology]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]]
 extraction-date: 2026-03-01
@@ -61,4 +61,4 @@ Likely captures **Mediterranean pattern** (olive oil, vegetables, lifestyle) not
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

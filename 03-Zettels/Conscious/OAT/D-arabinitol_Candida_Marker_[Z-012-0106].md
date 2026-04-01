@@ -5,7 +5,7 @@ title: D-arabinitol — Candida Marker
 aliases: [Z-012-0106, D-arabinitol, Arabinitol, Candida, Yeast, Fungal]
 domain: 012
 tags: [zettel, biomarker, d-arabinitol, candida, yeast, fungal]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

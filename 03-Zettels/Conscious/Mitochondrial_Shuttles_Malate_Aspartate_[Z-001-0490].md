@@ -5,22 +5,22 @@ title: "Mitochondrial Shuttles: Malate and Aspartate"
 aliases: [Z-001-0490, malate-shuttle, aspartate-shuttle, oaa-transport]
 domain: 001
 tags: [zettel, malate-shuttle, aspartate-shuttle, mitochondria, oaa, transport]
-parent-moc: [[MOC-Gluconeogenesis]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045H]]
 ---
 
-# [[KEYWORD-Mitochondria|mitochondria]]l Shuttles: Malate and Aspartate
+# l Shuttles: Malate and Aspartate
 
 ## The Problem
-**Oxaloacetate cannot cross the inner [[KEYWORD-Mitochondria|mitochondrial]] membrane.**
+**Oxaloacetate cannot cross the inner  membrane.**
 
 Since OAA is made in mitochondria (by pyruvate carboxylase) but PEPCK is cytosolic, we need a **shuttle system**.
 
 ## Malate Shuttle (Malate-Aspartate Shuttle)
 
-### [[KEYWORD-Mechanism|mechanism]]
+### 
 **Mitochondrial side:**
 ```
 OAA + NADH + H⁺ → Malate + NAD⁺ (malate dehydrogenase)
@@ -96,7 +96,7 @@ Aspartate + α-ketoglutarate → OAA + Glutamate
 ## Related
 - [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_[Z-001-0488]]] Oxaloacetate Dual Role
 - [[Gluconeogenesis_from_Oxaloacetate_[Z-001-0489]]] Gluconeogenesis from OAA
-- [[MOC-Mitochondrial-Function]]
+- 
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

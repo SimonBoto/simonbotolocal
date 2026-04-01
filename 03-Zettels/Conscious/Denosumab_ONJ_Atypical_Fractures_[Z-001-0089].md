@@ -6,7 +6,7 @@ aliases: [Z-001-0089, Denosumab_ONJ_Atypical_Fractures]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, pharmacology, denosumab]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 source: [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]]
 confidence: high
 created: 2026-03-01
@@ -19,9 +19,9 @@ Like other potent antiresorptives, denosumab has been associated with osteonecro
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
-**Source:** [[LitNote_Denosumab_[[KEYWORD-Mechanism|mechanism]]_Risks_L-001-0012]]
-**Related:** [[Denosumab_RANKL_Antibody_Mechanism_[Z-001-0085].md]], [[MOC-Vitamin-[[KEYWORD-Safety|safety]]]]
+**Parent MOC:** 
+**Source:** _Risks_L-001-0012]]
+**Related:** [[Denosumab_RANKL_Antibody_Mechanism_[Z-001-0085].md]], 
 
 ---
 
@@ -29,4 +29,4 @@ Like other potent antiresorptives, denosumab has been associated with osteonecro
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

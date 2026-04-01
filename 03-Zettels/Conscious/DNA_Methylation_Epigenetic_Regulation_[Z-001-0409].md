@@ -5,17 +5,17 @@ title: DNA Methylation — Epigenetic Regulation
 aliases: [DNA-Methylation, CpG, DNMT, Epigenetics]
 domain: 001
 tags: [zettel, dna-methylation, epigenetics, dnmt, gene-regulation]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]]
 extraction-date: 2026-03-01
 ---
 
-# DNA [[KEYWORD-Methylation|methylation]] — Epigenetic Regulation
+# DNA  — Epigenetic Regulation
 
 > DNA methylation at CpG dinucleotides is a stable epigenetic mark that regulates gene expression, with patterns established during development and modified by environmental factors including nutrient status.
 
-## [[KEYWORD-Mechanism|mechanism]]
+## 
 
 **Chemistry:**
 - **Substrate:** Cytosine in CpG context
@@ -60,7 +60,7 @@ extraction-date: 2026-03-01
 
 ## Nutrient Connection
 
-**One-Carbon [[KEYWORD-Metabolism|metabolism]] → DNA Methylation:**
+**One-Carbon  → DNA Methylation:**
 ```
 B12/Folate → Methionine → SAM → DNMT activity → DNA methylation
 ```
@@ -77,4 +77,4 @@ B12/Folate → Methionine → SAM → DNMT activity → DNA methylation
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

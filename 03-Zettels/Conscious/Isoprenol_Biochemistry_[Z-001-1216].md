@@ -4,7 +4,7 @@ type: zettel
 title: Isoprenol Biochemistry — Structure and Metabolic Context
 domain: 001
 tags: [zettel, isoprenol, biochemistry, ketone-bodies, structure, seyfried]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Mitochondrial_Structure_Biology_L-001-0633]]"
 status: conscious
@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Isoprenol (3-methyl-3-buten-1-ol) is a five-carbon organic compound with significance in organic chemistry synthesis and metabolic research. Despite its presence in discussions about [[KEYWORD-Mitochondria|mitochondria]]l [[KEYWORD-Metabolism|metabolism]], it is distinct from ketone bodies.
+Isoprenol (3-methyl-3-buten-1-ol) is a five-carbon organic compound with significance in organic chemistry synthesis and metabolic research. Despite its presence in discussions about l , it is distinct from ketone bodies.
 
 ---
 
@@ -78,7 +78,7 @@ Carbon 4: =CH₂ (double bond terminal)
   - Cholesterol synthesis
   - Coenzyme Q10 (ubiquinone) side chain
   - Dolichol (glycoprotein synthesis)
-  - Heme A ([[KEYWORD-Mitochondria|mitochondrial]] cytochromes)
+  - Heme A ( cytochromes)
 
 **2. Industrial Use**
 - Organic synthesis intermediate

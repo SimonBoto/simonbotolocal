@@ -28,9 +28,9 @@ created: 2026-03-04
 - B12 (Cobalamin): Methylmalonyl-CoA mutase, methionine synthase
 
 ## Related MOCs
-- [[MOC-Vitamin-D-Metabolism]]
-- [[MOC-Glycolysis-PPP]]
-- [[MOC-Krebs-Cycle]]
+- 
+- 
+- 
 
 ---
 *Created: 2026-03-04 | Status: Active*

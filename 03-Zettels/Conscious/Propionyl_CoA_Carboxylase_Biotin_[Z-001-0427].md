@@ -5,7 +5,7 @@ title: Propionyl-CoA Carboxylase — Biotin-Dependent Step
 aliases: [PCC, Propionyl-CoA-Carboxylase, Biotin]
 domain: 001
 tags: [zettel, pcc, biotin, carboxylase, propionyl-coa]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]
 extraction-date: 2026-03-01
@@ -24,7 +24,7 @@ Propionyl-CoA + HCO₃⁻ + ATP → D-Methylmalonyl-CoA + ADP + Pi
 
 ## Enzyme Characteristics
 
-**Location:** [[KEYWORD-Mitochondria|mitochondria]]
+**Location:** 
 **Structure:** Alpha and beta subunits
 **Cofactor:** Biotin (vitamin B7)
 **Type:** Biotin-dependent carboxylase family
@@ -36,7 +36,7 @@ Propionyl-CoA + HCO₃⁻ + ATP → D-Methylmalonyl-CoA + ADP + Pi
 - Transfers activated CO₂ to substrate
 - ATP-dependent activation
 
-## [[KEYWORD-Clinical|clinical]] Deficiency
+##  Deficiency
 
 **Propionic Acidemia:**
 - Inherited PCC deficiency
@@ -51,8 +51,8 @@ Propionyl-CoA + HCO₃⁻ + ATP → D-Methylmalonyl-CoA + ADP + Pi
 
 ---
 
-*Source: [[LitNote_B12_Amino_Acid_[[KEYWORD-Metabolism|metabolism]]_L-001-0405]]*
+*Source: _L-001-0405]]*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

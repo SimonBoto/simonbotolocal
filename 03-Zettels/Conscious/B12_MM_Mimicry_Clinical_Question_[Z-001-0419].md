@@ -5,15 +5,15 @@ title: B12-MM Mimicry — The Clinical Question
 aliases: [B12-MM-Mimicry, Diagnostic-Challenge, Clinical-Question]
 domain: 001
 tags: [zettel, b12, multiple-myeloma, mimicry, diagnosis]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]]
 extraction-date: 2026-03-01
 ---
 
-# B12-MM Mimicry — The [[KEYWORD-Clinical|clinical]] Question
+# B12-MM Mimicry — The  Question
 
-> Can severe B12, 5-MTHF, and [[KEYWORD-Vitamin_D|vitamin d]] deficiency mimic multiple myeloma pathological findings? The answer requires careful diagnostic differentiation as both can cause anemia and bone marrow changes, but only MM involves malignant clonal plasma cells.
+> Can severe B12, 5-MTHF, and  deficiency mimic multiple myeloma pathological findings? The answer requires careful diagnostic differentiation as both can cause anemia and bone marrow changes, but only MM involves malignant clonal plasma cells.
 
 ## The Question
 
@@ -56,4 +56,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[Methylmalonyl_CoA_Mutase_B12_[[KEYWORD-Mechanism|mechanism]]_[Z-001-0428]|Z-001-0428]]
+- _[Z-001-0428]|Z-001-0428]]

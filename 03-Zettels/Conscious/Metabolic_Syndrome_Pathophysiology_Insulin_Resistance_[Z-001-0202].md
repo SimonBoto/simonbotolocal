@@ -5,15 +5,15 @@ title: Metabolic Syndrome — Pathophysiology and Insulin Resistance
 aliases: [MetS-Pathophysiology, Insulin-Resistance-Mechanisms, MetS-Mechanisms]
 domain: 001
 tags: [zettel, metabolic-syndrome, pathophysiology, insulin-resistance, inflammation]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]]
 extraction-date: 2026-03-01
 ---
 
-# Metabolic Syndrome — Pathophysiology and [[KEYWORD-Insulin|insulin]] Resistance
+# Metabolic Syndrome — Pathophysiology and  Resistance
 
-> [[KEYWORD-Insulin_Resistance|insulin resistance]] serves as the central unifying mechanism of metabolic syndrome, driving a cascade of metabolic dysregulation, [[KEYWORD-Inflammation|inflammation]], and cardiovascular risk.
+>  serves as the central unifying mechanism of metabolic syndrome, driving a cascade of metabolic dysregulation, , and cardiovascular risk.
 
 ## Central Mechanism: Insulin Resistance
 
@@ -80,4 +80,4 @@ Magnesium deficiency contributes to:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

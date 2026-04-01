@@ -16,7 +16,7 @@ status: pending
 aliases: [R-001-0036, Tsilimidos_2019, Fatty_Acids_Metabolomics]
 domain: 001
 tags: [reference, fatty-acids, metabolomics, methodology, greek-authors]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 

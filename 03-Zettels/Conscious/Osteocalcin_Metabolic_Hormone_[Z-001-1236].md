@@ -4,7 +4,7 @@ type: zettel
 title: Osteocalcin — Metabolic Hormone Function
 domain: 001
 tags: [zettel, osteocalcin, metabolic-hormone, insulin, adiponectin, bone-metabolism]
-parent-moc: [[MOC-Vitamin-D]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_VitD_K2_Synergy_MetS_L-001-0639]]"
 status: conscious
@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Osteocalcin is a vitamin K-dependent protein produced by osteoblasts. Once thought to be only a bone matrix protein, it's now recognized as a metabolic hormone regulating [[KEYWORD-Insulin|insulin]] sensitivity, energy [[KEYWORD-Metabolism|metabolism]], and male fertility.
+Osteocalcin is a vitamin K-dependent protein produced by osteoblasts. Once thought to be only a bone matrix protein, it's now recognized as a metabolic hormone regulating  sensitivity, energy , and male fertility.
 
 ---
 
@@ -38,7 +38,7 @@ Osteocalcin is a vitamin K-dependent protein produced by osteoblasts. Once thoug
 
 ---
 
-## [[KEYWORD-Vitamin_D|vitamin d]] and K2 Regulation
+##  and K2 Regulation
 
 ### Vitamin D
 - **Effect:** Increases osteocalcin gene expression

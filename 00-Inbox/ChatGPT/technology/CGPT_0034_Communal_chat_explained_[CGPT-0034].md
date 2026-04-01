@@ -92,4 +92,4 @@ If the two of you want, you can even switch voices mid-message—just let me kno
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

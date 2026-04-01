@@ -1215,4 +1215,4 @@ That’s the optimized form: it turns your frames from a nice essay into a set o
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

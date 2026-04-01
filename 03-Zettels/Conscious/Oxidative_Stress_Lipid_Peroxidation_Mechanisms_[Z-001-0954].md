@@ -5,7 +5,7 @@ title: Oxidative Stress — Lipid Peroxidation Mechanisms
 aliases: [Z-001-0954]
 domain: 001
 tags: [zettel, oxidative-stress, lipid-peroxidation, 4-hne, mda, aldehydes, omega-6, ros, conscious]
-parent-moc: [[MOC-Oxidative-Stress]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Mechanisms_Metabolic_Disruption_L-001-0523]]
 status: conscious
@@ -112,13 +112,13 @@ LOO• + Vitamin E-OH → LOOH + Vitamin E-O• (chain break)
 **Clinical Significance:**
 - Elevated in metabolic syndrome, diabetes, CVD
 - Correlates with disease severity
-- Used as oxidative stress [[KEYWORD-Biomarker|biomarker]]
+- Used as oxidative stress 
 
 ### Acrolein
 
 **Formation:**
 - Secondary product from glycerophospholipid oxidation
-- Also from: amino acid [[KEYWORD-Metabolism|metabolism]], polyamine oxidation, smoking
+- Also from: amino acid , polyamine oxidation, smoking
 
 **Toxicity:**
 - Most reactive α,β-unsaturated aldehyde
@@ -197,7 +197,7 @@ LOO• + Vitamin E-OH → LOOH + Vitamin E-O• (chain break)
 
 ## Clinical Assessment
 
-**[[KEYWORD-Biomarker|biomarkers]]:**
+**:**
 | Marker | What It Measures |
 |--------|------------------|
 | Plasma 4-HNE protein adducts | Recent oxidative damage |
@@ -214,5 +214,5 @@ LOO• + Vitamin E-OH → LOOH + Vitamin E-O• (chain break)
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

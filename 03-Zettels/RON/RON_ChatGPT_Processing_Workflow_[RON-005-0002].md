@@ -122,8 +122,8 @@ DISCOVER → VALIDATE → CONNECT → PROMOTE → USE
 ```markdown
 ## Used In
 
-- [[PhD_Protocol_v3]] — Referenced for methodology
-- [[Clinical_IR_Assessment]] — Applied to patient protocol
+-  — Referenced for methodology
+-  — Applied to patient protocol
 ```
 
 **B. To Other Zettels:**
@@ -138,7 +138,7 @@ DISCOVER → VALIDATE → CONNECT → PROMOTE → USE
 ```markdown
 ## Referenced
 
-- [[2026-03-01]] — Used in today's clinical decision
+-  — Used in today's clinical decision
 ```
 
 ### Connection Practice:
@@ -178,7 +178,7 @@ DISCOVER → VALIDATE → CONNECT → PROMOTE → USE
    
    [Insight summary]
    
-   **See:** [[X_Extracted_Zettel]]
+   **See:** 
    ```
 4. Update extracted zettel:
    ```markdown
@@ -248,13 +248,13 @@ DISCOVER → VALIDATE → CONNECT → PROMOTE → USE
 ## Connection Log
 
 ### Used In
-- [[Project/Context]] — [How used]
+-  — [How used]
 
 ### Related Insights
-- [[X_Other_Extracted_Zettel]] — [Relationship]
+-  — [Relationship]
 
 ### Referenced By
-- [[Zettel that links here]]
+- 
 ```
 
 ### Template: Promotion Note
@@ -343,10 +343,10 @@ DISCOVER → VALIDATE → CONNECT → PROMOTE → USE
 
 ## RELATED
 
-- [[00_Extracted_Insights_MOC]] — Browse all 164 zettels
-- [[00_ChatGPT_Synthesis_MOC]] — High-level synthesis
+-  — Browse all 164 zettels
+-  — High-level synthesis
 - [[RON_Genesis_MOC_[RON-004-0001]]] — RON origin story
-- [[MIRROR.md]] — Cooperation system (now includes archive)
+-  — Cooperation system (now includes archive)
 
 ---
 

@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 2
 relevance: High — Foundational for bone health clinical assessment
 status: extracted
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -75,7 +75,7 @@ extraction-date: 2026-03-01
 - [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]] — Cellular basis
 - [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]] — Pharmacotherapy
 - [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]] — Nutritional interventions
-- [[MOC-Bone-Health]] — Parent MOC
+-  — Parent MOC
 
 ---
 

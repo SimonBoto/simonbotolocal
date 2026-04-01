@@ -6,14 +6,14 @@ aliases: [Z-001-1062, One-Carbon]
 domain: 001
 domain-name: Methylation
 tags: [zettel, folate, b12, methylation, homocysteine]
-parent-moc: [[MOC-Methylation-One-Carbon]]
+parent-moc: 
 source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
 source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
 confidence: high
 created: 2026-03-08
 ---
 
-# One Carbon [[KEYWORD-Metabolism|metabolism]] Folate B12
+# One Carbon  Folate B12
 
 ## Overview
 Integrated pathway of folate and B12 for methylation reactions, DNA synthesis, and homocysteine metabolism.
@@ -53,7 +53,7 @@ SAH → Homocysteine
 - **Folate trap:** Without B12, folate accumulates as 5-MTHF (unusable)
 - **Methylfolate trap:** Without folate, B12 cannot function
 
-## [[KEYWORD-Clinical|clinical]] Markers
+##  Markers
 
 ### Homocysteine
 | Level | Risk |
@@ -80,12 +80,12 @@ SAH → Homocysteine
 
 ## Related
 - [[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052].md]]
-- [[MOC-Methylation-One-Carbon]]
+- 
 
 ---
-*Source: CGPT-0022 — Vitamin-mineral [[KEYWORD-Biochemistry|biochemistry]]*
+*Source: CGPT-0022 — Vitamin-mineral *
 
 
 ## RELATED FILES
-- [[KEYWORD-Methylation]]
-- [[MOC-INDEX|Master Index]]
+- 
+- 

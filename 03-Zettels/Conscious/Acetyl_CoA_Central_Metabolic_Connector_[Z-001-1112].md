@@ -6,7 +6,7 @@ aliases: [Z-001-1112, Acetyl-CoA]
 domain: 001
 domain-name: Metabolism
 tags: [zettel, acetyl-coa, connector, metabolism]
-parent-moc: [[MOC-Krebs-Cycle]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
 source: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
 confidence: high
@@ -16,14 +16,14 @@ created: 2026-03-08
 # Acetyl CoA Central Metabolic Connector
 
 ## Overview
-Acetyl-CoA is the central metabolic hub connecting carbohydrate, fat, and protein [[KEYWORD-Metabolism|metabolism]] to the Krebs cycle and multiple biosynthetic pathways.
+Acetyl-CoA is the central metabolic hub connecting carbohydrate, fat, and protein  to the Krebs cycle and multiple biosynthetic pathways.
 
 ## Sources of Acetyl-CoA
 
 ### Carbohydrate
 | Pathway | Enzyme | Location |
 |---------|--------|----------|
-| **Glycolysis → Pyruvate → Acetyl-CoA** | Pyruvate dehydrogenase | [[KEYWORD-Mitochondria|mitochondria]] |
+| **Glycolysis → Pyruvate → Acetyl-CoA** | Pyruvate dehydrogenase |  |
 
 ### Fat
 | Pathway | Enzyme | Location |
@@ -68,7 +68,7 @@ Acetyl-CoA
 
 ## Regulation by Metabolic State
 
-### Fed State (High [[KEYWORD-Insulin|insulin]])
+### Fed State (High )
 | Pathway | Activity | Reason |
 |---------|----------|--------|
 | **PDH** | Active | Glucose → acetyl-CoA |
@@ -110,11 +110,11 @@ Acetyl-CoA
 ## Related
 - [[Pyruvate_Metabolic_Hub_Multiple_Fates_[Z-001-1111].md]]
 | [[Ketogenesis_Mechanism_Liver_Mitochondria_[Z-001-1094].md]]
-| [[MOC-Krebs-Cycle]]
+| 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

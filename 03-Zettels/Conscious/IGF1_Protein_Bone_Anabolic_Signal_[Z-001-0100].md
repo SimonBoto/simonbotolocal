@@ -6,7 +6,7 @@ aliases: [Z-001-0100, IGF1_Protein_Bone_Anabolic_Signal]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, nutrition, protein]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 source: [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]]
 confidence: high
 created: 2026-03-01
@@ -15,11 +15,11 @@ status: conscious
 
 # IGF1 Protein Bone Anabolic Signal
 
-Protein intake stimulates IGF-1 ([[KEYWORD-Insulin|insulin]]-like growth factor-1), which promotes osteoblast proliferation and bone matrix synthesis. IGF-1 is an anabolic signal connecting [[KEYWORD-Nutrition|nutrition]] to bone formation.
+Protein intake stimulates IGF-1 (-like growth factor-1), which promotes osteoblast proliferation and bone matrix synthesis. IGF-1 is an anabolic signal connecting  to bone formation.
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
+**Parent MOC:** 
 **Source:** [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]]
 **Related:** [[Muscle_Bone_Unit_Mechanical_Loading_[Z-001-0096].md]], [[Osteoblasts_Bone_Forming_Cells_[Z-001-0081].md]]
 

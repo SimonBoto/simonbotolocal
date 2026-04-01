@@ -5,7 +5,7 @@ title: MDRD Study Analysis — Protein Restriction in CKD Landmark Trial
 aliases: [Z-001-0973]
 domain: 001
 tags: [zettel, mdrd, protein-restriction, ckd, clinical-trial, landmark, rct, conscious]
-parent-moc: [[MOC-Clinical-Trials]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Protein_CKD_Progression_Evidence_L-001-0573]]
 status: conscious
@@ -81,7 +81,7 @@ status: conscious
 - Intensive dietary intervention not feasible in routine care
 - Short follow-up for chronic disease
 
-## [[KEYWORD-Clinical|clinical]] Impact
+##  Impact
 
 ### Guidelines Adoption
 
@@ -140,11 +140,11 @@ status: conscious
 
 **Interpreted With Caution:**
 - Modest effect at best
-- Must balance against mal[[KEYWORD-Nutrition|nutrition]] risk
+- Must balance against mal risk
 - Individualize based on patient factors
 
 ---
 
-**Related:** [[Protein_Restriction_CKD_Guidelines_[Z-001-0974].md]] | [[Glomerular_Hyperfiltration_Protein_[[KEYWORD-Mechanism|mechanism]]_[Z-001-0975].md]]
+**Related:** [[Protein_Restriction_CKD_Guidelines_[Z-001-0974].md]] | _[Z-001-0975].md]]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease

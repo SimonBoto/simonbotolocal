@@ -14,7 +14,7 @@ status: pending
 aliases: [R-001-0021, Sarigiannis_2021, Exposome_Paradigm]
 domain: 001
 tags: [reference, exposome, environment, risk-assessment, ncds, tier-2]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 
@@ -41,7 +41,7 @@ Sarigiannis DA, Hartung T, Karakitsios S. The exposome—a new paradigm for non-
 - Urine metabolites as exposome readout
 
 ### Complements
-- [[Branca_etal_2019_Food_System_NCD_R-001-0011]] — Environmental factors (nutrition)
+-  — Environmental factors (nutrition)
 - [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003]] — 80% statistic
 
 ## Research Tasks
@@ -51,7 +51,7 @@ Sarigiannis DA, Hartung T, Karakitsios S. The exposome—a new paradigm for non-
 
 ## Connections
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source citing
-- [[Branca_etal_2019_Food_System_NCD_R-001-0011]] — Environmental factors
+-  — Environmental factors
 
 ---
 *Status: Reference hub created — high conceptual value*  

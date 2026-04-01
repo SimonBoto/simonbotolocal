@@ -5,17 +5,17 @@ title: Precision Metabolomics — Urine Organic Acids and Plasma Metabolite Prof
 aliases: [Z-001-1013]
 domain: 001
 tags: [zettel, metabolomics, organic-acids, urine, plasma, precision-medicine, metabolic-profiling, functional-testing, conscious]
-parent-moc: [[MOC-Metabolomics]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]]
 status: conscious
 ---
 
-# Precision [[KEYWORD-Metabolomics|metabolomics]] — Urine Organic Acids and Plasma Metabolite Profiling
+# Precision  — Urine Organic Acids and Plasma Metabolite Profiling
 
 ## Overview
 
-Precision metabolomics moves beyond single [[KEYWORD-Biomarker|biomarker]]s to comprehensive metabolic profiling, revealing functional status of biochemical pathways and enabling personalized interventions.
+Precision metabolomics moves beyond single s to comprehensive metabolic profiling, revealing functional status of biochemical pathways and enabling personalized interventions.
 
 ## Urine Organic Acids (UOA)
 
@@ -28,7 +28,7 @@ Precision metabolomics moves beyond single [[KEYWORD-Biomarker|biomarker]]s to c
 - Functional markers (not just structural)
 
 **Sources:**
-- Endogenous [[KEYWORD-Metabolism|metabolism]]
+- Endogenous 
 - Gut microbial metabolism
 - Dietary compounds
 - Toxin metabolism
@@ -289,8 +289,8 @@ Precision metabolomics moves beyond single [[KEYWORD-Biomarker|biomarker]]s to c
 **Source:** CGPT-0124 — Five Pillars of Metabolic Health
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[BCAAs_IR_Risk_[Z-001-0042]|Z-001-0042]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

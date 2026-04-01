@@ -6,7 +6,7 @@ aliases: [Z-001-0567, HMGCR, Statin Target, Cholesterol Regulation]
 domain: 001
 domain-name: Lipid Metabolism
 tags: [zettel, hmg-coa-reductase, statins, regulation, cholesterol, srebp, ampk]
-parent-moc: [[MOC-Cholesterol-Quality]]
+parent-moc: 
 source: "[[LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518]]"
 confidence: high
 created: 2026-03-03
@@ -133,9 +133,9 @@ Blocking HMG-CoA reductase doesn't just block cholesterol — it blocks **all me
 
 | Product | Function | Deficiency Symptoms |
 |---------|----------|---------------------|
-| **CoQ10** | [[KEYWORD-Mitochondria|mitochondria]]l ETC | Myopathy, fatigue, exercise intolerance |
+| **CoQ10** | l ETC | Myopathy, fatigue, exercise intolerance |
 | **Dolichol** | Protein glycosylation | Rare, neurologic symptoms |
-| **Isoprenoids** | Cell signaling | Altered [[KEYWORD-Inflammation|inflammation]], immunity |
+| **Isoprenoids** | Cell signaling | Altered , immunity |
 | **Prenylated proteins** | Signal transduction | Multiple cellular effects |
 
 ### Myopathy Mechanism
@@ -151,7 +151,7 @@ Blocking HMG-CoA reductase doesn't just block cholesterol — it blocks **all me
 - **Genetic variants** (SLCO1B1 transporter)
 - **Low baseline CoQ10**
 - **Mitochondrial dysfunction**
-- **[[KEYWORD-Vitamin_D|vitamin d]] deficiency**
+- ** deficiency**
 - **Hypothyroidism**
 
 ---

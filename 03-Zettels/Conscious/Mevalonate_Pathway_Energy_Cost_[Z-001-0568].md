@@ -6,7 +6,7 @@ aliases: [Z-001-0568, ATP Cost, NADPH Requirement, Metabolic Cost]
 domain: 001
 domain-name: Lipid Metabolism
 tags: [zettel, energy-metabolism, atp, nadph, mevalonate-pathway, biochemistry, metabolic-cost]
-parent-moc: [[MOC-Cholesterol-Quality]]
+parent-moc: 
 source: "[[LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518]]"
 confidence: high
 created: 2026-03-03
@@ -98,7 +98,7 @@ The high cost is justified by cholesterol's critical functions:
 2. **Signal transduction** — Lipid rafts
 3. **Hormone synthesis** — All steroid hormones
 4. **Bile acids** — Fat digestion
-5. **[[KEYWORD-Vitamin_D|vitamin d]]** — Calcium homeostasis
+5. **** — Calcium homeostasis
 
 **Return on investment:** Massive — without cholesterol, animal life impossible
 
@@ -116,7 +116,7 @@ The high cost is justified by cholesterol's critical functions:
 
 ---
 
-## [[KEYWORD-Clinical|clinical]] Relevance
+##  Relevance
 
 ### Fasting State
 - **AMPK activated** → HMGCR inhibited
@@ -124,7 +124,7 @@ The high cost is justified by cholesterol's critical functions:
 - Energy conserved for essential functions
 
 ### Fed State
-- **[[KEYWORD-Insulin|insulin]] activates** SREBP-2
+- ** activates** SREBP-2
 - **Cholesterol synthesis permitted**
 - Nutrient availability justifies the cost
 

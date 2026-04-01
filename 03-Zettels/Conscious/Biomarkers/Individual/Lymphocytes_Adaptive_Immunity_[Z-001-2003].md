@@ -5,7 +5,7 @@ title: Lymphocytes — Adaptive Immunity, B & T Cells
 aliases: [Z-001-2003, Lymphocytes, Lymphs, B-Cells, T-Cells, NK-Cells, Adaptive-Immunity]
 domain: 001
 tags: [zettel, biomarker, lymphocytes, b-cells, t-cells, adaptive-immunity, viral]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

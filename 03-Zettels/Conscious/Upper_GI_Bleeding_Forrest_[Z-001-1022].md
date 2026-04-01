@@ -5,7 +5,7 @@ title: Upper GI Bleeding — Forrest Classification and Management
 aliases: [Z-001-1022]
 domain: 001
 tags: [zettel, upper-gi-bleeding, forrest-classification, peptic-ulcer, varices, endoscopy, hemostasis, ppi, conscious]
-parent-moc: [[MOC-GI-Emergencies]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]]
 status: conscious
@@ -223,7 +223,7 @@ The Forrest classification stratifies risk of rebleeding and guides endoscopic t
 
 ### Esophageal Varices
 
-**[[KEYWORD-Mechanism|mechanism]]:**
+**:**
 - Portal hypertension
 - Cirrhosis most common cause
 
@@ -269,7 +269,7 @@ The Forrest classification stratifies risk of rebleeding and guides endoscopic t
 
 ### Malignancy
 
-**Gastric [[KEYWORD-Cancer|cancer]], Esophageal Cancer:**
+**Gastric , Esophageal Cancer:**
 - Can present with bleeding
 - Biopsy for diagnosis
 - Palliative therapy if advanced
@@ -324,7 +324,7 @@ The Forrest classification stratifies risk of rebleeding and guides endoscopic t
 6. Test for H. pylori in all ulcer patients
 7. Varices need specific therapy (banding, octreotide)
 
-**[[KEYWORD-Clinical|clinical]] Pearl:** The Forrest classification is essential for UGIB management. High-risk stigmata (active bleeding, visible vessel) require endoscopic therapy + high-dose PPI. Don't forget H. pylori testing and eradication to prevent recurrence.
+** Pearl:** The Forrest classification is essential for UGIB management. High-risk stigmata (active bleeding, visible vessel) require endoscopic therapy + high-dose PPI. Don't forget H. pylori testing and eradication to prevent recurrence.
 
 ---
 
@@ -334,4 +334,4 @@ The Forrest classification stratifies risk of rebleeding and guides endoscopic t
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

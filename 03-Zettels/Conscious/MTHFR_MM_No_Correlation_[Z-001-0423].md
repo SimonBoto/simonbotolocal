@@ -5,7 +5,7 @@ title: MTHFR and Multiple Myeloma — No Correlation
 aliases: [MTHFR-MM, No-Correlation, Genetics]
 domain: 001
 tags: [zettel, mthfr, multiple-myeloma, genetics, correlation]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # MTHFR and Multiple Myeloma — No Correlation
 
-> Despite affecting folate [[KEYWORD-Metabolism|metabolism]] and bone marrow function, MTHFR polymorphisms are not directly correlated with multiple myeloma pathogenesis.
+> Despite affecting folate  and bone marrow function, MTHFR polymorphisms are not directly correlated with multiple myeloma pathogenesis.
 
 ## Evidence
 
@@ -27,7 +27,7 @@ extraction-date: 2026-03-01
 - If causal, MM would be more common
 - Not observed
 
-## Distinct [[KEYWORD-Mechanism|mechanism]]s
+## Distinct s
 
 **B12/Folate Deficiency:**
 - Impaired DNA synthesis
@@ -40,7 +40,7 @@ extraction-date: 2026-03-01
 - Malignant transformation
 - Progressive course
 
-## [[KEYWORD-Clinical|clinical]] Implication
+##  Implication
 
 **Manage Separately:**
 - Don't attribute MM to MTHFR
@@ -53,4 +53,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

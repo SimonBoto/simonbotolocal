@@ -5,7 +5,7 @@ title: 5-HIAA — 5-Hydroxyindoleacetic Acid, Serotonin Metabolite
 aliases: [Z-012-0203, 5-HIAA, Serotonin, 5-Hydroxyindoleacetic, Parasympathetic]
 domain: 012
 tags: [zettel, biomarker, 5-hiaa, serotonin, neurotransmitter, oat]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

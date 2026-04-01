@@ -4,13 +4,13 @@ type: zettel
 title: Metabolomics Case Study Template
 domain: 001
 tags: [zettel, template, case-study, metabolomics, clinical, documentation]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Self_Education_Clinical_Team_L-001-0620]]"
 status: conscious
 ---
 
-# [[KEYWORD-Metabolomics|metabolomics]] Case Study Template
+#  Case Study Template
 
 ## Purpose
 
@@ -162,11 +162,11 @@ Standardized template for documenting and presenting clinical cases in metabolom
 
 ## Example Case Tags
 
-- [[MOC-Insulin-Resistance]]
-- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
-- [[MOC-Mitochondrial-Function]]
-- [[MOC-Gut-Microbiome]]
-- [[MOC-Autoimmunity]]
+- 
+- -
+- 
+- 
+- 
 
 ---
 
@@ -182,5 +182,5 @@ Standardized template for documenting and presenting clinical cases in metabolom
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[IRB_Communication_Template_[Z-002-0614]|Z-002-0614]]

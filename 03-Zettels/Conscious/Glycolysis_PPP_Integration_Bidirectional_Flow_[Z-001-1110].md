@@ -6,7 +6,7 @@ aliases: [Z-001-1110, Glycolysis-PPP]
 domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, glycolysis, ppp, integration, flow]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
 source: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
 confidence: high
@@ -38,7 +38,7 @@ Glucose-6-P
 | **NADP⁺/NADPH** | Low | High |
 | **ATP/ADP** | High | Low |
 | **Ribose need** | - | High |
-| **[[KEYWORD-Insulin|insulin]]** | Stimulates | Stimulates |
+| **** | Stimulates | Stimulates |
 
 ## Bidirectional Flow
 
@@ -77,7 +77,7 @@ Ribose-5-P + Xylulose-5-P
 | Feature | Reason |
 |---------|--------|
 | **High PPP flux** | Need NADPH to maintain glutathione |
-| **No [[KEYWORD-Mitochondria|mitochondria]]** | Only glycolysis + PPP |
+| **No ** | Only glycolysis + PPP |
 | **G6PD deficiency** | Hemolytic anemia (insufficient NADPH) |
 
 ### Adipose Tissue
@@ -105,11 +105,11 @@ Ribose-5-P + Xylulose-5-P
 ## Related
 - [[Pyruvate_Metabolic_Hub_Multiple_Fates_[Z-001-1111].md]]
 | [[Pentose_Phosphate_Pathway_Ribose_NADPH_[Z-001-1090].md]]
-| [[MOC-Glycolysis-PPP]]
+| 
 
 ---
-*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*
+*Source: CGPT-0445 — Advanced *
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

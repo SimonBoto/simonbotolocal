@@ -5,13 +5,13 @@ title: "Triose Metabolism: G3P and DHAP Integration"
 aliases: [Z-001-0459, triose-metabolism, g3p, dhap, glycolysis]
 domain: 001
 tags: [zettel, trioses, g3p, dhap, glycolysis, evolution]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045C]]
 ---
 
-# Triose [[KEYWORD-Metabolism|metabolism]]: G3P and DHAP
+# Triose : G3P and DHAP
 
 ## The Simplest Sugars
 **Trioses:** 3-carbon monosaccharides
@@ -21,7 +21,7 @@ source: [[L-001-0045C]]
 | **Glyceraldehyde** | Aldotriose | C₃H₆O₃ | G3P |
 | **Dihydroxyacetone** | Ketotriose | C₃H₆O₃ | DHAP |
 
-## [[KEYWORD-Glycolysis|glycolysis]] Connection
+##  Connection
 ```
 F1,6BP → DHAP + G3P (aldolase)
 DHAP ↔ G3P (triose phosphate isomerase)
@@ -47,7 +47,7 @@ G3P connects:
 - Near-equilibrium: DHAP/G3P ratio ~20:1
 - Essential for glycolytic flux
 
-## [[KEYWORD-Clinical|clinical]]
+## 
 **G3P as branch point:** Metabolic flexibility allows cells to switch between energy production and biosynthesis based on needs.
 
 ## Related

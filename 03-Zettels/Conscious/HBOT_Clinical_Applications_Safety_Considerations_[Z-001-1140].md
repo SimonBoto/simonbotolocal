@@ -6,7 +6,7 @@ aliases: [Z-001-1140, HBOT-Safety]
 domain: 001
 domain-name: Clinical Protocols
 tags: [zettel, hbot, clinical, safety, contraindications]
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: 
 source-litnote: [[LitNote_HBOT_Cancer_L-001-0614]]
 source: [[LitNote_HBOT_Cancer_L-001-0614]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # HBOT Clinical Applications Safety Considerations
 
 ## Overview
-Hyperbaric oxygen therapy has established indications for radiation-related complications and emerging applications in [[KEYWORD-Cancer|cancer]] therapy, with a generally favorable safety profile when properly administered.
+Hyperbaric oxygen therapy has established indications for radiation-related complications and emerging applications in  therapy, with a generally favorable safety profile when properly administered.
 
 ## Established Oncologic Indications
 
@@ -35,7 +35,7 @@ Hyperbaric oxygen therapy has established indications for radiation-related comp
 | **Neovascularization** | Restore blood flow |
 | **Fibroblast activation** | Collagen synthesis |
 | **Stem cell mobilization** | Tissue regeneration |
-| **Reduced [[KEYWORD-Inflammation|inflammation]]** | Break hypoxia-inflammation cycle |
+| **Reduced ** | Break hypoxia-inflammation cycle |
 
 ## Emerging Cancer Therapy Applications
 
@@ -149,7 +149,7 @@ Hyperbaric oxygen therapy has established indications for radiation-related comp
 | Parameter | Action |
 |-----------|--------|
 | **Ear clearing** | Before each session |
-| **Blood glucose** | Diabetics ([[KEYWORD-Insulin|insulin]] may need adjustment) |
+| **Blood glucose** | Diabetics ( may need adjustment) |
 | **Seizure precautions** | High-risk patients |
 | **Fire safety** | Strict enforcement |
 
@@ -164,7 +164,7 @@ Hyperbaric oxygen therapy has established indications for radiation-related comp
 ## Related
 - [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_[Z-001-1138].md]]
 - [[HBOT_Radiosensitization_Chemotherapy_Enhancement_[Z-001-1139].md]]
-- [[MOC-Clinical-Protocols]]
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*

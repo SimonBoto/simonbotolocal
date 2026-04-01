@@ -5,13 +5,13 @@ title: Vitamin D and Inflammation in Adipose Tissue
 aliases: [VitD-Inflammation, Vitamin-D-Adipose, VitD-Immunomodulation]
 domain: 001
 tags: [zettel, vitamin-d, inflammation, adipose, cytokines, macrophages]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Vitamin_D|vitamin d]] and Inflammation in Adipose Tissue
+#  and Inflammation in Adipose Tissue
 
 > Vitamin D exerts potent anti-inflammatory effects in adipose tissue, modulating adipokine production, macrophage polarization, and inflammatory signaling pathways that drive metabolic dysfunction in obesity and metabolic syndrome.
 
@@ -140,7 +140,7 @@ extraction-date: 2026-03-01
 - Shifts macrophage polarization anti-inflammatory
 - Improves insulin sensitivity
 
-### Expected [[KEYWORD-Biomarker|biomarker]] Changes
+### Expected  Changes
 | Marker | Expected Change |
 |--------|-----------------|
 | **CRP** | 10-30% reduction |
@@ -170,7 +170,7 @@ This provides strong rationale for high-dose vitamin D in METHAP protocol.
 *Related: [[Metabolic_Syndrome_Pathophysiology_Insulin_Resistance_[Z-001-0202]]]*  
 *Extracted: 2026-03-01*
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

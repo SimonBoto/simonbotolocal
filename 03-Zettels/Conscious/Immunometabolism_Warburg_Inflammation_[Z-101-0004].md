@@ -6,13 +6,13 @@ aliases: [Z-101-0004, Immunometabolism, Warburg-Effect, M1-M2]
 domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, immunometabolism, Warburg-effect, glycolysis, M1-macrophages, M2-macrophages]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]]
 confidence: high
 created: 2026-02-24
 ---
 
-# Immuno[[KEYWORD-Metabolism|metabolism]] and the Warburg Effect in Inflammation
+# Immuno and the Warburg Effect in Inflammation
 
 Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1 macrophages, activated T-cells) rely on aerobic glycolysis (the Warburg effect), while anti-inflammatory cells (M2 macrophages, regulatory T-cells) use oxidative phosphorylation. This metabolic dichotomy offers therapeutic targets.
 
@@ -30,7 +30,7 @@ Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1
 
 **Clinical applications:** Rheumatoid arthritis, SLE, psoriasis, multiple sclerosis.
 
-**METHAP Relevance:** [[KEYWORD-Insulin|insulin]] resistance is associated with chronic low-grade inflammation and glycolytic bias in metabolically stressed tissues. [[KEYWORD-Vitamin_D|vitamin d]] may shift metabolism toward OXPHOS, promoting anti-inflammatory phenotypes.
+**METHAP Relevance:**  resistance is associated with chronic low-grade inflammation and glycolytic bias in metabolically stressed tissues.  may shift metabolism toward OXPHOS, promoting anti-inflammatory phenotypes.
 
 ## Key Details
 
@@ -44,7 +44,7 @@ Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1
 
 ## Context
 
-**Also relevant to:** [[MOC-Immunometabolism]], [[MOC-Warburg-Effect]]
+**Also relevant to:** , 
 
 **Emerges from:** NKUA Course 3175, DE4
 
@@ -54,4 +54,4 @@ Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

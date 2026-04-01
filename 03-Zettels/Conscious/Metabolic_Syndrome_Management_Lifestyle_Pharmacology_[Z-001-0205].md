@@ -5,7 +5,7 @@ title: Metabolic Syndrome — Management (Lifestyle and Pharmacology)
 aliases: [MetS-Management, Metabolic-Syndrome-Treatment, MetS-Intervention]
 domain: 001
 tags: [zettel, metabolic-syndrome, management, lifestyle, pharmacology, treatment]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]]
 extraction-date: 2026-03-01
@@ -25,7 +25,7 @@ extraction-date: 2026-03-01
 | **Mediterranean** | Olive oil, fish, vegetables, moderate wine | Strong CV benefit |
 | **DASH** | Low sodium, high potassium, whole foods | BP reduction |
 | **Low-carb/Ketogenic** | <50g carbs/day, high fat | Rapid weight loss, glycemic control |
-| **Time-restricted eating** | 8-10 hour eating window | Improves [[KEYWORD-Insulin|insulin]] sensitivity |
+| **Time-restricted eating** | 8-10 hour eating window | Improves  sensitivity |
 
 **Universal Principles:**
 - Calorie restriction for weight loss (500-750 kcal deficit)
@@ -54,7 +54,7 @@ extraction-date: 2026-03-01
 **Impact of 7% weight loss:**
 - 58% reduction in T2DM risk
 - Significant improvement in all MetS components
-- Reduced [[KEYWORD-Inflammation|inflammation]] markers
+- Reduced  markers
 
 ### 4. Smoking Cessation
 
@@ -100,7 +100,7 @@ extraction-date: 2026-03-01
 - Bleeding risk vs. benefit assessment
 
 **Emerging approaches:**
-- **Mineral supplementation:** Magnesium, [[KEYWORD-Vitamin_D|vitamin d]], K2
+- **Mineral supplementation:** Magnesium, , K2
 - **PCSK9 inhibitors:** For refractory hyperlipidemia
 - **Resveratrol, berberine:** Evidence emerging
 
@@ -132,5 +132,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Magnesium_Dosing_RDA_Therapeutic_Ranges_[Z-001-0219]|Z-001-0219]]

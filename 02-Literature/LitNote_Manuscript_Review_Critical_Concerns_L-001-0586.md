@@ -8,7 +8,7 @@ journal: Internal methodology synthesis
 tier: 1
 relevance: Peer review skills, critical appraisal of research, scientific integrity
 status: extracted
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 extraction-date: 2026-03-07
 domain: 001
 ---

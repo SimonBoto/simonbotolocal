@@ -5,7 +5,7 @@ title: Hashimoto Pattern Anti-TPO Anti-TG Thyroid Autoimmunity
 aliases: [Z-005-0002, Hashimoto, Anti-TPO, Anti-TG, Thyroid Autoimmunity]
 domain: 005
 tags: [zettel, biomarker, thyroid, autoimmune, clinical-protocol]
-parent-moc: [[MOC-Thyroid-Axis]]
+parent-moc: 
 biomarker-type: thyroid-autoimmune-panel
 anti-tpo-threshold: <34 IU/mL
 anti-tg-threshold: <40 IU/mL
@@ -71,7 +71,7 @@ source-litnote: Synthesized from clinical practice
 | Anti-TG | 65 IU/mL | 🟡 Elevated |
 | Status | | Autoimmune thyroiditis, euthyroid phase |
 
-**Action:** Monitor TSH every 6 months, consider selenium 200mcg, optimize [[KEYWORD-Vitamin_D|vitamin d]]
+**Action:** Monitor TSH every 6 months, consider selenium 200mcg, optimize 
 
 ### Pattern 2: Subclinical Hypothyroidism + Hashimoto's
 | Marker | Value | Interpretation |
@@ -135,10 +135,10 @@ patient_id,visit,anti_tpo_iu_ml,anti_tg_iu_ml,hashimoto_status
 
 ---
 
-*Source: [[Ref_Caturegli_Hashimoto_2014]], [[Ref_Gartner_Selenium_2002]]*
+*Source: , *
 *Created: 2026-02-26 | Domain: 005 | Status: Conscious*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- |Biomarkers MOC]]
 

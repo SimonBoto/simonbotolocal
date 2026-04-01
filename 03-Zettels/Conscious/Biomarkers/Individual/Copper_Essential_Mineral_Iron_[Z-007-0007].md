@@ -5,7 +5,7 @@ title: Copper — Essential Mineral, Iron Metabolism & Energy
 aliases: [Z-007-0007, Copper, Ceruloplasmin, Mineral, Iron-Metabolism]
 domain: 007
 tags: [zettel, biomarker, copper, ceruloplasmin, mineral, iron, energy]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

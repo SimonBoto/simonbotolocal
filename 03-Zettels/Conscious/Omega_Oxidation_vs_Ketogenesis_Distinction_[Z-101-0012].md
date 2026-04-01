@@ -5,7 +5,7 @@ title: Omega-Oxidation vs Ketogenesis Distinction
 aliases: [Z-101-0012, Dicarboxylic Acids vs Ketones, Alternative Fatty Acid Metabolism]
 domain: 101
 tags: [zettel, omega-oxidation, ketogenesis, ketone-bodies, dicarboxylic-acids, fatty-acid-metabolism]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 status: conscious
 source: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]]"
 extraction-date: 2026-03-02
@@ -13,7 +13,7 @@ extraction-date: 2026-03-02
 
 # Omega-Oxidation vs Ketogenesis Distinction
 
-**Critical Distinction:** Two separate pathways for alternative fatty acid [[KEYWORD-Metabolism|metabolism]] with different triggers, locations, and physiological roles.
+**Critical Distinction:** Two separate pathways for alternative fatty acid  with different triggers, locations, and physiological roles.
 
 ## Quick Comparison
 
@@ -57,12 +57,12 @@ extraction-date: 2026-03-02
 **Ketones High, Dicarboxylic Acids Normal:**
 - Starvation
 - Ketogenic diet
-- Diabetic ketoacidosis (with [[KEYWORD-Insulin|insulin]] deficiency)
+- Diabetic ketoacidosis (with  deficiency)
 
 **Dicarboxylic Acids High, Ketones Normal/Low:**
 - Carnitine deficiency
 - Medium-chain acyl-CoA dehydrogenase deficiency (MCADD)
-- [[KEYWORD-Insulin_Resistance|insulin resistance]] (early)
+-  (early)
 
 **Both Elevated:**
 - Severe metabolic crisis
@@ -84,4 +84,4 @@ extraction-date: 2026-03-02
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -5,13 +5,13 @@ title: Vitamin D and Insulin Sensitivity — Glucose Metabolism Mechanisms
 aliases: [VitD-Insulin, Vitamin-D-Glucose, Vitamin-D-IR]
 domain: 001
 tags: [zettel, vitamin-d, insulin, glucose, insulin-resistance, beta-cells]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Vitamin_D|vitamin d]] and [[KEYWORD-Insulin|insulin]] Sensitivity — Glucose [[KEYWORD-Metabolism|metabolism]] Mechanisms
+#  and  Sensitivity — Glucose  Mechanisms
 
 > Vitamin D improves insulin sensitivity through direct actions on pancreatic β-cells, enhanced peripheral glucose uptake, and suppression of inflammatory and oxidative pathways that drive insulin resistance.
 
@@ -132,4 +132,4 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

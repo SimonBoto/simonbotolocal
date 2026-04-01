@@ -13,7 +13,7 @@ status: ref
 confidence: high
 aliases: [R-001-0006, Beebe_2017_Metabolic_Individuality]
 tags: [ref, precision-medicine, metabolic-individuality, computational-biology, systems-medicine]
-parent-moc: [[MOC-References]]
+parent-moc: 
 source-type: review
 extraction-date: 2026-02-23
 ---

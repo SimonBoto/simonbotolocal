@@ -5,7 +5,7 @@ title: Lipoproteins — The Transport System
 aliases: [Lipoproteins, Chylomicrons, VLDL, LDL, HDL, Transport]
 domain: 001
 tags: [zettel, lipoproteins, transport, chylomicrons, vldl, ldl, hdl]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]]
 extraction-date: 2026-03-01
@@ -21,7 +21,7 @@ extraction-date: 2026-03-01
 |-------|---------|--------|------------|----------|
 | **Chylomicrons** | Lowest | Intestine | Triglycerides | Dietary fat transport |
 | **VLDL** | Very low | Liver | Triglycerides | Endogenous fat transport |
-| **IDL** | Intermediate | VLDL | [[KEYWORD-Cholesterol|cholesterol]]/TG | Transitional |
+| **IDL** | Intermediate | VLDL | /TG | Transitional |
 | **LDL** | Low | IDL | Cholesterol | Cell delivery |
 | **HDL** | High | Liver | Phospholipids | Reverse transport |
 
@@ -54,4 +54,4 @@ Liver VLDL → LPL → IDL → Hepatic lipase → LDL → Peripheral cells
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

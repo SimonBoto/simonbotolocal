@@ -8,7 +8,7 @@ journal: N Engl J Med, Arch Intern Med / Internal synthesis
 tier: 1
 relevance: High — Core nutritional intervention for osteoporosis
 status: extracted
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -88,8 +88,8 @@ extraction-date: 2026-03-01
 ## Related References
 - [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]] — Drug comparison
 - [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]] — Nutritional synergy
-- [[MOC-Bone-Health]] — Parent MOC
-- [[MOC-Vitamin-D-Metabolism]] — D metabolism context
+-  — Parent MOC
+-  — D metabolism context
 
 ---
 

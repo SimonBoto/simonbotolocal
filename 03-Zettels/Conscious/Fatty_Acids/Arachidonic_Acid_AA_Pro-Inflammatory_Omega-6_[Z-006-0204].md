@@ -5,7 +5,7 @@ title: AA — Arachidonic Acid, Pro-Inflammatory Omega-6
 aliases: [Z-006-0204, AA, Arachidonic-Acid, Omega-6, Pro-Inflammatory]
 domain: 006
 tags: [zettel, biomarker, aa, arachidonic, omega-6, inflammatory]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

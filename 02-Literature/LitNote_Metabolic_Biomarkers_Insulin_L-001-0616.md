@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: Critical — Urine organic acids, plasma total fatty acids, clinical markers (HbA1c, HOMA-IR, lipids) for PhD biomarker validation
 status: extracted
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -67,9 +67,9 @@ Shift in metabolic biomarker profile from insulin-resistant pattern toward metab
 4. [[Novel_vs_Traditional_Markers_Insulin_Resistance_[Z-001-1148].md]]
 
 ## Related References
-- [[MOC-PhD-Research]]
-- [[MOC-Metabolomics-Analysis]]
-- [[MOC-Insulin-Resistance]]
+- 
+- 
+- 
 - [[OAT_Category_Interpretation_Framework_[Z-001-1065].md]]
 
 ---

@@ -361,12 +361,12 @@ Creating an efficient, scalable, and interconnected research workflow using the 
      {{Provide a concise definition here}}
 
      **Related Terms:**
-     - [[Related Term 1]]
-     - [[Related Term 2]]
+     - 
+     - 
 
      **References:**
-     - [[Citation 1]]
-     - [[Citation 2]]
+     - 
+     - 
      `‌`‌`
 
 **b. Automated Template Insertion**
@@ -398,10 +398,10 @@ Creating an efficient, scalable, and interconnected research workflow using the 
      **Clinical Case: Insulin Resistance in Patient X**
      
      **Related Concepts:**
-     - [[Definition: Insulin Resistance]]
-     - [[Symptoms: Insulin Resistance]]
-     - [[Pathophysiology: Insulin Resistance]]
-     - [[Treatment: Insulin Resistance]]
+     - 
+     - 
+     - 
+     - 
      `‌`‌`
 
 **b. Use Backlinks for Contextual Navigation**
@@ -527,4 +527,4 @@ Creating an efficient, scalable, and interconnected research workflow using the 
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

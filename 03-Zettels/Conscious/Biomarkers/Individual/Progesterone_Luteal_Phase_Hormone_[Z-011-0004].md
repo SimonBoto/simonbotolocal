@@ -6,7 +6,7 @@ title: Progesterone — Luteal Phase Hormone
 aliases: [Z-011-0004, Progesterone, Luteal-Hormone, P4, Pregnancy-Hormone]
 domain: 011
 tags: [zettel, biomarker, progesterone, luteal, pregnancy, hormone]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

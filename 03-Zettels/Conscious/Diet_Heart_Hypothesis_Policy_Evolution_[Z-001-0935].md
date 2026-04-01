@@ -5,14 +5,14 @@ title: Diet-Heart Hypothesis — Policy Evolution
 aliases: [Z-001-0935, Z-001-0528-deprecated, Policy-Evolution, AHA-Guidelines, McGovern-Committee]
 domain: 001
 tags: [zettel, policy, guidelines, aha, mccommittee]
-parent-moc: [[MOC-Research-Methodology]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]]
 extraction-date: 2026-03-01
 updated: 2026-03-05
 ---
 
-# Diet-Heart Hypothesis — Policy [[KEYWORD-Evolution|evolution]]
+# Diet-Heart Hypothesis — Policy 
 
 > Keys' hypothesis moved rapidly from scientific conjecture to institutionalized public health policy through AHA guidelines, McGovern Committee recommendations, and decades of entrenched institutional messaging.
 

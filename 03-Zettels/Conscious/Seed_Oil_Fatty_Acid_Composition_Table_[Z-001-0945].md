@@ -5,7 +5,7 @@ title: Seed Oil Fatty Acid Composition Comparison Table
 aliases: [Z-001-0945]
 domain: 001
 tags: [zettel, seed-oils, fatty-acids, linoleic-acid, oleic-acid, composition, comparison, reference, conscious]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 ---
 
@@ -13,7 +13,7 @@ status: conscious
 
 ## Major Seed Oils — Fatty Acid Profiles
 
-| Oil Type | Linoleic Acid (18:2 n-6) | Oleic Acid (18:1 n-9) | Saturated Fat | [[KEYWORD-Omega_6|omega-6]]:Omega-3 | Smoke Point |
+| Oil Type | Linoleic Acid (18:2 n-6) | Oleic Acid (18:1 n-9) | Saturated Fat | :Omega-3 | Smoke Point |
 |----------|-------------------------|----------------------|---------------|-----------------|-------------|
 | **Safflower** | 75-80% | 10-15% | 7-10% | ~100:1 | 266°C |
 | **Sunflower** | 65-70% | 20-25% | 10% | ~120:1 | 232°C |
@@ -36,7 +36,7 @@ status: conscious
 3. **Corn oil** — 55-60% linoleic acid
 4. **Soybean oil** — 50-55% linoleic acid
 
-**[[KEYWORD-Clinical|clinical]] Significance:** These oils rapidly increase tissue omega-6 levels, driving pro-inflammatory eicosanoid production.
+** Significance:** These oils rapidly increase tissue omega-6 levels, driving pro-inflammatory eicosanoid production.
 
 ### Moderate Risk Oils (Linoleic Acid 20-50%)
 - **Canola** — Better omega-6:omega-3 ratio (~2:1)
@@ -45,7 +45,7 @@ status: conscious
 ### Low Risk Traditional Fats
 - **Olive oil** — High oleic acid (monounsaturated), low omega-6
 - **Coconut oil** — Saturated, stable, minimal omega-6
-- **Butter/Tallow** — Natural fats with balanced [[KEYWORD-Fatty_Acids|fatty acids]]
+- **Butter/Tallow** — Natural fats with balanced 
 
 ## Metabolic Implications
 

@@ -6,7 +6,7 @@ title: Free T3 — Triiodothyronine, Active Thyroid Hormone
 aliases: [Z-010-0003, Free-T3, T3, Triiodothyronine, Active-Hormone]
 domain: 010
 tags: [zettel, biomarker, free-t3, t3, triiodothyronine, active, thyroid]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 2
 relevance: Clinical chemistry fundamentals, bone and liver pathology
 status: extracted
-parent-moc: [[MOC-Clinical-Chemistry]]
+parent-moc: 
 extraction-date: 2026-03-07
 domain: 001
 ---

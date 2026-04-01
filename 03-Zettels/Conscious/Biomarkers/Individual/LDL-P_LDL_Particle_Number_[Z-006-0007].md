@@ -5,7 +5,7 @@ title: LDL-P — LDL Particle Number, Superior Risk Predictor
 aliases: [Z-006-0007, LDL-P, LDL-Particle-Number, NMR, Cardiovascular-Risk]
 domain: 006
 tags: [zettel, biomarker, ldl-p, particle-number, cardiovascular, nmr]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

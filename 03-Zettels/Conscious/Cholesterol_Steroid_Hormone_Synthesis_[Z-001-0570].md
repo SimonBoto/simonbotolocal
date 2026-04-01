@@ -6,7 +6,7 @@ aliases: [Z-001-0570, Steroidogenesis, Steroid Hormones, Cholesterol Conversion]
 domain: 001
 domain-name: Hormone Metabolism
 tags: [zettel, steroid-hormones, cholesterol, cortisol, testosterone, estrogen, aldosterone, steroidogenesis]
-parent-moc: [[MOC-Cholesterol-Quality]]
+parent-moc: 
 source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]]"
 confidence: high
 created: 2026-03-03
@@ -16,7 +16,7 @@ created: 2026-03-03
 
 ## Core Concept
 
-**Steroid hormones** are synthesized from cholesterol through a series of enzymatic modifications in the [[KEYWORD-Mitochondria|mitochondria]] and endoplasmic reticulum. The pathway branches to produce glucocorticoids (cortisol), mineralocorticoids (aldosterone), androgens (testosterone, DHEA), and estrogens (estradiol) — each serving distinct physiological functions.
+**Steroid hormones** are synthesized from cholesterol through a series of enzymatic modifications in the  and endoplasmic reticulum. The pathway branches to produce glucocorticoids (cortisol), mineralocorticoids (aldosterone), androgens (testosterone, DHEA), and estrogens (estradiol) — each serving distinct physiological functions.
 
 ---
 
@@ -57,13 +57,13 @@ Cholesterol → Pregnenolone → 17-OH-Pregnenolone → 17-OH-Progesterone →
 ### Functions of Cortisol
 | System | Effect |
 |--------|--------|
-| **[[KEYWORD-Metabolism|metabolism]]** | Gluconeogenesis, protein breakdown, lipolysis |
+| **** | Gluconeogenesis, protein breakdown, lipolysis |
 | **Immune** | Anti-inflammatory, immunosuppressive |
 | **Cardiovascular** | Vascular tone, catecholamine sensitivity |
 | **Stress** | "Fight or flight" preparation |
 
 ### Clinical: Cushing's vs Addison's
-- **Cushing's:** Excess cortisol → Weight gain, [[KEYWORD-Diabetes|diabetes]], immunosuppression
+- **Cushing's:** Excess cortisol → Weight gain, , immunosuppression
 - **Addison's:** Cortisol deficiency → Fatigue, hypotension, crisis
 
 ---
@@ -177,8 +177,8 @@ Androstenedione → Estrone (via aromatase)
 
 - [[Isoprenoids_Terpenes_Overview_[Z-001-0569]]] — Isoprenoid context
 - [[CoQ10_Dolichol_Isoprenoid_Synthesis_[Z-001-0571]]] — Other cholesterol products
-- [[MOC-Hormones]] — Hormone MOC (if exists)
-- [[MOC-Adrenal-Function]] — Adrenal context
+-  — Hormone MOC (if exists)
+-  — Adrenal context
 
 ---
 

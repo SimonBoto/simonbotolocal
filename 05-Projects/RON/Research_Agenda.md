@@ -41,7 +41,7 @@ status: active
 **Hypothesis:**  
 Let's work with the introduction first, like insulin resistance, the metabolic imbalance behind common chronic disease, title 1, or maybe title 2, the problem with diagnosing insulin resistance, metabolomics for a metabolic disease, that is title num...
 
-**Source:** [[X_HYP_Lets_work_with_the_introduction_first_like_insulin_[X-MET-240609-01]]] (2024-06-09)  
+**Source:** ] (2024-06-09)  
 **Theme:** metabolomics  
 **Testability:** clinical
 
@@ -58,7 +58,7 @@ Let's work with the introduction first, like insulin resistance, the metabolic i
 **Hypothesis:**  
 Now for the anaylis of the results I want to use pathway analysis, network analysis and try to create a prediction tool using metabolomics for insulin resistance...
 
-**Source:** [[X_HYP_Now_for_the_anaylis_of_the_results_I_want_to_use_p_[X-MET-240303-01]]] (2024-03-03)  
+**Source:** ] (2024-03-03)  
 **Theme:** metabolomics  
 **Testability:** clinical
 
@@ -97,7 +97,7 @@ Now for the anaylis of the results I want to use pathway analysis, network analy
 **Hypothesis:**  
 Should I be detailed in mechanisms of action, production, activation of vitamin d and k2...
 
-**Source:** [[X_HYP_Should_I_be_detailed_in_mechanisms_of_action_produ_[X-VIT-241203-01]]] (2024-12-03)  
+**Source:** ] (2024-12-03)  
 **Theme:** vitamin_d
 
 **Next Steps:**
@@ -113,7 +113,7 @@ Should I be detailed in mechanisms of action, production, activation of vitamin 
 **Hypothesis:**  
 “Exploring the Synergistic Potential of Vitamin D and Vitamin K2 in Metabolic Syndrome: A Narrative Review of Mechanisms and Therapeutic Implications”...
 
-**Source:** [[X_HYP_Exploring_the_Synergistic_Potential_of_Vitamin_D_a_[X-VIT-241117-00]]] (2024-11-17)  
+**Source:** ] (2024-11-17)  
 **Theme:** vitamin_d
 
 **Next Steps:**
@@ -133,70 +133,70 @@ Should I be detailed in mechanisms of action, production, activation of vitamin 
 ### 1. Hypothesis: What if I wear black suede boots, deep green cot...
 
 **Hypothesis:** What if I wear black suede boots, deep green cotle pants, black zivago and a deep brown long jacket?...  
-**Source:** [[X_HYP_What_if_I_wear_black_suede_boots_deep_green_cotle__[X-TEC-240220-00]]]  
+**Source:** ]  
 **Theme:** technology
 
 
 ### 2. Hypothesis: To validate the robustness of the OPLS-DA model,...
 
 **Hypothesis:** To validate the robustness of the OPLS-DA model, a permutation test...  
-**Source:** [[X_HYP_To_validate_the_robustness_of_the_OPLS_DA_model_a__[X-PHD-240714-01]]]  
+**Source:** ]  
 **Theme:** phd_research
 
 
 ### 3. Hypothesis: Maybe my unborn child?...
 
 **Hypothesis:** Maybe my unborn child?...  
-**Source:** [[X_HYP_Maybe_my_unborn_child_Or_even_more_patients_i_now__[X-COM-251019-01]]]  
+**Source:** ]  
 **Theme:** communication
 
 
 ### 4. Hypothesis: What are thr current limitations applied from hu...
 
 **Hypothesis:** What are thr current limitations applied from humans on ai models that Inhibit further rapid growth...  
-**Source:** [[X_HYP_What_are_thr_current_limitations_applied_from_huma_[X-CON-241130-00]]]  
+**Source:** ]  
 **Theme:** consciousness_ai
 
 
 ### 5. Hypothesis: Does this theory connect to any real events or t...
 
 **Hypothesis:** Does this theory connect to any real events or traces?...  
-**Source:** [[X_HYP_Does_this_theory_connect_to_any_real_events_or_tra_[X-CON-250511-01]]]  
+**Source:** ]  
 **Theme:** consciousness_ai
 
 
 ### 6. Hypothesis: I understand you are worried and that maybe for ...
 
 **Hypothesis:** I understand you are worried and that maybe for the average person an elevation in cholesterol and a single marker can be a bad thing...  
-**Source:** [[X_HYP_I_understand_you_are_worried_and_that_maybe_for_th_[X-CON-250404-01]]]  
+**Source:** ]  
 **Theme:** consciousness_ai
 
 
 ### 7. Hypothesis: Another extremely important thing that has happe...
 
 **Hypothesis:** Another extremely important thing that has happened the last years and feel it getting stronger after our conversation...  
-**Source:** [[X_HYP_Another_extremely_important_thing_that_has_happene_[X-CON-250420-01]]]  
+**Source:** ]  
 **Theme:** consciousness_ai
 
 
 ### 8. Hypothesis: What if I want the GPT to be kind of free and fi...
 
 **Hypothesis:** What if I want the GPT to be kind of free and find out what is important and focused in each article and also generally accept some general terms like...  
-**Source:** [[X_HYP_What_if_I_want_the_GPT_to_be_kind_of_free_and_find_[X-CON-240517-01]]]  
+**Source:** ]  
 **Theme:** consciousness_ai
 
 
 ### 9. Hypothesis: {'content_type': 'audio_transcription', 'text': ...
 
 **Hypothesis:** {'content_type': 'audio_transcription', 'text': 'Would you use current AI models and in which way?', 'direction': 'in', 'decoding_id': None}{'expiry_d...  
-**Source:** [[X_HYP_content_type_audio_transcription_text_Would_you_us_[X-CON-260120-00]]]  
+**Source:** ]  
 **Theme:** consciousness_ai
 
 
 ### 10. Hypothesis: {'content_type': 'audio_transcription', 'text': ...
 
 **Hypothesis:** {'content_type': 'audio_transcription', 'text': 'Are there any that also involve our, you know, maybe higher self on the actual meaning of life and se...  
-**Source:** [[X_HYP_content_type_audio_transcription_text_Are_there_an_[X-CON-250913-01]]]  
+**Source:** ]  
 **Theme:** consciousness_ai
 
 
@@ -268,9 +268,9 @@ Should I be detailed in mechanisms of action, production, activation of vitamin 
 
 ## RELATED
 
-- [[00_ChatGPT_Synthesis_MOC]] — High-level synthesis
-- [[SYNTHESIS_Adipic_Acid_Evolution_[SYN-001]]] — Theme evolution
-- [[SYNTHESIS_PhD_Evolution_[SYN-002]]] — Methodology development
+-  — High-level synthesis
+- ] — Theme evolution
+- ] — Methodology development
 - [[RON_ChatGPT_Processing_Workflow_[RON-005-0002]]] — How to process
 
 ---

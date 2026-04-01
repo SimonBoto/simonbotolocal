@@ -12,10 +12,10 @@
 
 | Role | Who | Function |
 |------|-----|----------|
-| **CEO** | [[01-CEO\|Dr. Simos Xenidis]] | Authority, vision, final decisions |
-| **AI Boss** | [[02-AI-BOSS\|RON 🦞]] | Execution, delegation, operations |
-| **Workforce** | [[03-AGENTS\|Agent Fleet]] | Specialized muscle agents |
-| **Structure** | [[ORGANOGRAM\|Organogram & Architecture]] | Complete company blueprint |
+| **CEO** |  | Authority, vision, final decisions |
+| **AI Boss** |  | Execution, delegation, operations |
+| **Workforce** |  | Specialized muscle agents |
+| **Structure** |  | Complete company blueprint |
 
 ---
 
@@ -23,14 +23,14 @@
 
 | Resource | Location | Purpose |
 |----------|----------|---------|
-| **[[05-Projects/Triangle/04-PROJECTS\|Active Projects]]** | 05-Projects/Triangle/ | Current sprint, P0/P1/P2 |
-| **[[05-Projects/Triangle/05-WORKFLOWS\|Workflows]]** | 05-Projects/Triangle/ | How we work, handoffs, approvals |
-| **[[05-Projects/Triangle/SESSION_HANDOFF\|Session Handoff]]** | 05-Projects/Triangle/ | Continuity record, current state |
-| **[[09-System/99-GLOSSARY\|Glossary]]** | 09-System/ | Terms, aliases, shortcuts |
-| **[[09-System/COST_TRACKING\|Cost Tracking]]** | 09-System/ | Budget, spending, optimization |
-| **[[09-System/DISASTER_RECOVERY\|Disaster Recovery]]** | 09-System/ | Emergency procedures |
-| **[[09-System/UID_SYSTEM_v2.0\|UID System]]** | 09-System/ | Naming conventions |
-| **[[08-Dashboards/MISSION_CONTROL\|Mission Control]]** | 08-Dashboards/ | Daily operations dashboard |
+| **** | 05-Projects/Triangle/ | Current sprint, P0/P1/P2 |
+| **** | 05-Projects/Triangle/ | How we work, handoffs, approvals |
+| **** | 05-Projects/Triangle/ | Continuity record, current state |
+| **** | 09-System/ | Terms, aliases, shortcuts |
+| **** | 09-System/ | Budget, spending, optimization |
+| **** | 09-System/ | Emergency procedures |
+| **** | 09-System/ | Naming conventions |
+| **** | 08-Dashboards/ | Daily operations dashboard |
 
 **Dashboard:** http://localhost:4444  
 **Forge:** http://localhost:4444/forge.html  

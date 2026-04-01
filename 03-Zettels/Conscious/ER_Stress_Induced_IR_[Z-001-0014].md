@@ -7,20 +7,20 @@ aliases: [Z-001-0014, ER_Stress, UPR_IR]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, mechanism, ER-stress, UPR, inflammation, IR]
-parent-moc: [[MOC-Metabolic-Syndrome]]
-source: [[Ref_Nature_IR_Mechanisms_2022]]
+parent-moc: 
+source: 
 confidence: high
 created: 2026-02-22
 ---
 
-# ER Stress and [[KEYWORD-Insulin|insulin]] Resistance
+# ER Stress and  Resistance
 
-Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR), which induces [[KEYWORD-Insulin_Resistance|insulin resistance]] through JNK activation.
+Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR), which induces  through JNK activation.
 
 **ER stress triggers:**
 - Nutrient excess (glucose, lipids)
 - Hypoxia
-- [[KEYWORD-Inflammation|inflammation]]
+- 
 - Genetic mutations
 
 **UPR signaling:**
@@ -42,6 +42,6 @@ Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR),
 
 ## Context
 
-**Also in:** [[MOC-Metabolic-Syndrome]]
+**Also in:** 
 
 **Link to obesity:** Adipose and liver ER stress correlates with IR in obesity

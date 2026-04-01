@@ -5,7 +5,7 @@ title: Celiac Disease Diagnosis — Serology, Biopsy, and Gluten-Free Diet
 aliases: [Z-001-1020]
 domain: 001
 tags: [zettel, celiac-disease, gluten, ttg-iga, biopsy, villous-atrophy, hla-dq2, hla-dq8, gluten-free-diet, conscious]
-parent-moc: [[MOC-GI-Immunology]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]]
 status: conscious
@@ -92,7 +92,7 @@ Mucosal damage, autoantibody production
 ### Associated Conditions
 
 **Autoimmune:**
-- Type 1 [[KEYWORD-Diabetes|diabetes]]
+- Type 1 
 - Thyroid disease (Hashimoto's)
 - Sjögren's syndrome
 - Autoimmune hepatitis
@@ -254,13 +254,13 @@ Start Gluten-Free Diet
 - "Wheat-free" ≠ gluten-free
 - Check all packaged foods
 
-### [[KEYWORD-Nutrition|nutrition]]al Considerations
+### al Considerations
 
 **Deficiencies (common at diagnosis):**
 - Iron
 - Folate
 - Vitamin B12
-- [[KEYWORD-Vitamin_D|vitamin d]]
+- 
 - Calcium
 - Zinc
 
@@ -366,4 +366,4 @@ Start Gluten-Free Diet
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

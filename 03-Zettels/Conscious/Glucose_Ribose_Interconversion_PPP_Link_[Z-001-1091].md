@@ -6,7 +6,7 @@ aliases: [Z-001-1091, Glucose-Ribose]
 domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, glucose, ribose, ppp, interconversion]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
 source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Glucose Ribose Interconversion PPP Link
 
 ## Overview
-Glucose-6-phosphate enters the pentose phosphate pathway to become ribose-5-phosphate, creating a metabolic bridge between carbohydrate and nucleotide [[KEYWORD-Metabolism|metabolism]].
+Glucose-6-phosphate enters the pentose phosphate pathway to become ribose-5-phosphate, creating a metabolic bridge between carbohydrate and nucleotide .
 
 ## The Conversion Pathway
 
@@ -72,7 +72,7 @@ Nucleotides (AMP, GMP, etc.)
 
 ## Clinical Implications
 
-### [[KEYWORD-Cancer|cancer]] Metabolism
+###  Metabolism
 - Tumors often show high PPP activity
 - Need ribose for rapid proliferation
 - NADPH supports antioxidant defenses against ROS
@@ -82,7 +82,7 @@ Nucleotides (AMP, GMP, etc.)
 - **D-ribose** marketed for energy enhancement
 - **Claims:** Improved exercise recovery, heart function
 - **Evidence:** Mixed; some benefit in heart failure
-- **[[KEYWORD-Mechanism|mechanism]]:** Bypasses slow PPP, directly provides ribose
+- **:** Bypasses slow PPP, directly provides ribose
 
 ### Metabolic Disorders
 - **Transketolase deficiency:** Impairs non-oxidative PPP
@@ -97,11 +97,11 @@ Nucleotides (AMP, GMP, etc.)
 ## Related
 - [[Pentose_Phosphate_Pathway_Ribose_NADPH_[Z-001-1090].md]]
 - [[Ribose_Pentose_Backbone_RNA_ATP_[Z-001-1085].md]]
-- [[MOC-Glycolysis-PPP]]
+- 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

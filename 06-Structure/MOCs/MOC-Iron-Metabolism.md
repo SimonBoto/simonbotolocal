@@ -49,7 +49,7 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 - [[Z-003-0012]] — Functional B12 deficiency masked by iron deficiency
 
 **Cross-link to Methylation:**
-- [[MOC-Methylation-One-Carbon]] — Full methylation cycle
+-  — Full methylation cycle
 - [[Z-004-0001]] — Homocysteine as composite marker
 
 ---
@@ -67,7 +67,7 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 - [[Z-003-0015]] — Hepcidin elevation in inflammation
 
 **Cross-link to Inflammation:**
-- [[MOC-Inflammation-Metabolism]] — CRP, cytokines, acute phase
+-  — CRP, cytokines, acute phase
 
 ---
 
@@ -79,7 +79,7 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 - [[Z-003-0018]] — Iron deficiency → reduced exercise capacity → metabolic dysfunction
 
 **Cross-link to IR:**
-- [[MOC-Insulin-Signaling]] — β-cell function, oxidative stress
+-  — β-cell function, oxidative stress
 
 ---
 
@@ -154,9 +154,9 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 
 ## 📚 Source References
 
-- [[Ref_Bothwell_Iron_Metabolism_1979]] — Classic text
-- [[Ref_Nemeth_Hepcidin_2004]] — Master regulator discovery
-- [[Ref_Weiss_Anomaly_Chronic_Disease_2005]] — Functional deficiency
+-  — Classic text
+-  — Master regulator discovery
+-  — Functional deficiency
 
 ---
 

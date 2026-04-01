@@ -6,7 +6,7 @@ aliases: [Z-001-0913, Z-001-0013-deprecated, Carnitine, Fatty_Acid_Transport, Ca
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, carnitine, fatty-acids, mitochondria, beta-oxidation, plasma-TFA, transport, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 confidence: high
 created: 2026-02-23
@@ -113,9 +113,9 @@ Your PhD analyzes **plasma trans fatty acids (TFA)**. Carnitine is essential for
 ### Hypothesized VD-Carnitine-TFA Interaction
 
 **Potential mechanism:**
-1. [[KEYWORD-Vitamin_D|vitamin d]] modulates **carnitine synthesis** ( trimethyllysine hydroxylase requires VD?)
+1.  modulates **carnitine synthesis** ( trimethyllysine hydroxylase requires VD?)
 2. VD affects **CPT I expression** (gene transcription via VDR)
-3. Carnitine status affects **TFA [[KEYWORD-Metabolism|metabolism]]**
+3. Carnitine status affects **TFA **
 4. Optimized TFA oxidation → improved insulin sensitivity
 
 **Evidence gaps:**
@@ -123,7 +123,7 @@ Your PhD analyzes **plasma trans fatty acids (TFA)**. Carnitine is essential for
 - [ ] Does carnitine status modify TFA metabolism?
 - [ ] Does VD + carnitine optimization improve IR more than VD alone?
 
-### Plasma TFA as [[KEYWORD-Biomarker|biomarker]]
+### Plasma TFA as 
 
 Your plasma TFA measurements may reflect:
 - **Dietary intake** (primary source of TFA)
@@ -151,7 +151,7 @@ Deficient: Fatty acid → Incomplete oxidation → Adipic acid (excreted)
 
 ## Context
 
-**Also relevant to:** [[MOC-PhD-METHAP-Trial]] — Your plasma TFA analysis, carnitine as potential confounder/modifier
+**Also relevant to:**  — Your plasma TFA analysis, carnitine as potential confounder/modifier
 
 **Source:** [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 
@@ -162,7 +162,7 @@ Deficient: Fatty acid → Incomplete oxidation → Adipic acid (excreted)
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 
 
 

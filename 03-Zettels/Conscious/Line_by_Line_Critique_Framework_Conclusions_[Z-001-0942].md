@@ -5,7 +5,7 @@ title: Line-by-Line Critique Framework for Conclusions Sections
 aliases: [Z-001-0942]
 domain: 001
 tags: [zettel, critical-assessment, conclusions, scientific-writing, peer-review, methodology, evidence-evaluation, conscious]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -20,7 +20,7 @@ Systematically deconstruct each sentence of a study's conclusions to identify **
 ### Step 1: Isolate Each Claim
 Break conclusions into individual sentences/claims. Example from CGPT-0328:
 
-> "Two potential [[KEYWORD-Biomarker|biomarker]]s, DHEAS and L-TA, were successfully identified and validated as being strongly associated with disease progression."
+> "Two potential s, DHEAS and L-TA, were successfully identified and validated as being strongly associated with disease progression."
 
 ### Step 2: Assess What Was Actually Done
 | Aspect | Evidence Required | Actual Status |
@@ -31,7 +31,7 @@ Break conclusions into individual sentences/claims. Example from CGPT-0328:
 | **"Strongly associated"** | Effect size (Cohen's d > 0.8) | ✗ Not reported |
 
 ### Step 3: Identify the Gap
-**Claim:** Validated [[KEYWORD-Biomarker|biomarkers]] strongly associated with disease
+**Claim:** Validated  strongly associated with disease
 **Reality:** Statistically significant metabolites in small underpowered study
 
 **Gap:** Validation = none; Strong association = unmeasured; Success = premature
@@ -106,7 +106,7 @@ Break conclusions into individual sentences/claims. Example from CGPT-0328:
 **Issue:** Correlation ≠ mechanism
 
 ### 4. The Generalization Error
-**Claim:** "In patients with gastric [[KEYWORD-Cancer|cancer]]"
+**Claim:** "In patients with gastric "
 **Reality:** In 9 patients at one hospital
 **Issue:** Sample not representative of disease population
 
@@ -135,5 +135,5 @@ Break conclusions into individual sentences/claims. Example from CGPT-0328:
 
 ## RELATED FILES
 - [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

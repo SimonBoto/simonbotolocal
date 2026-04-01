@@ -5,7 +5,7 @@ title: Protein Intake Assessment Methods — CKD Clinical vs Research Standards
 aliases: [Z-001-0980]
 domain: 001
 tags: [zettel, protein-intake, assessment, uun, dietary-recall, biomarkers, ckd, validity, conscious]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_CKD_Nutritional_Assessment_L-001-0575]]
 status: conscious
@@ -128,7 +128,7 @@ Nitrogen Balance ≈ Protein Intake/6.25 - (UUN + 4)
 
 ## Why Clinical Practice Uses Inferior Methods
 
-### Barriers to [[KEYWORD-Biomarker|biomarker]] Use
+### Barriers to  Use
 
 **1. Collection Burden:**
 - 24-hour urine inconvenient
@@ -159,7 +159,7 @@ Nitrogen Balance ≈ Protein Intake/6.25 - (UUN + 4)
 **CKD Reality:**
 - Dialysis patients: Additional dialysate losses
 - Nephrotic syndrome: Urinary protein losses
-- Catabolic states: Altered [[KEYWORD-Metabolism|metabolism]]
+- Catabolic states: Altered 
 
 **Adjustments:**
 - Dialysis: Add dialysate urea losses
@@ -278,7 +278,7 @@ Nitrogen Balance ≈ Protein Intake/6.25 - (UUN + 4)
 3. Trend more important than absolute number
 4. Multiple methods improve accuracy
 5. Dietitian assessment adds value
-6. [[KEYWORD-Biomarker|biomarkers]] useful when uncertainty high
+6.  useful when uncertainty high
 
 **Clinical Pearl:** Don't chase precision you can't achieve. Use dietary assessment for counseling, UUN when you need verification.
 
@@ -290,5 +290,5 @@ Nitrogen Balance ≈ Protein Intake/6.25 - (UUN + 4)
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

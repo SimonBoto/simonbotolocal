@@ -21,16 +21,16 @@
 
 | Dashboard | Purpose | Status | Link |
 |-----------|---------|--------|------|
-| 🎯 **COMMAND** | Your objectives (P0/P1/P2) | 🔴 Not created | [[00-COMMAND]] |
-| 📋 **QUEUE** | What RON's doing now | 🔴 Not created | [[01-QUEUE]] |
-| 📤 **HANDOFF** | Pending your approval | 🔴 Not created | [[02-HANDOFF]] |
-| 📝 **LOG** | Session record | 🔴 Not created | [[03-LOG]] |
-| 🔧 **SYSTEM** | Integration status | 🔴 Not created | [[04-SYSTEM]] |
-| 📁 **PROJECT_INDEX** | All work catalog | 🔴 Not created | [[PROJECT_INDEX]] |
-| 🎛️ **MISSION_CONTROL** | High-level overview | 🟡 Exists, stale | [[MISSION_CONTROL]] |
-| 🌅 **MORNING_REVIEW** | Daily planning | 🟡 Exists | [[MORNING_REVIEW]] |
-| 🏗️ **WORKFLOW_ARCHITECTURE** | System design | 🟢 Current | [[WORKFLOW_ARCHITECTURE_v3.0]] |
-| 🚨 **DISASTER_RECOVERY** | Emergency procedures | 🟢 Ready | [[DISASTER_RECOVERY]] |
+| 🎯 **COMMAND** | Your objectives (P0/P1/P2) | 🔴 Not created |  |
+| 📋 **QUEUE** | What RON's doing now | 🔴 Not created |  |
+| 📤 **HANDOFF** | Pending your approval | 🔴 Not created |  |
+| 📝 **LOG** | Session record | 🔴 Not created |  |
+| 🔧 **SYSTEM** | Integration status | 🔴 Not created |  |
+| 📁 **PROJECT_INDEX** | All work catalog | 🔴 Not created |  |
+| 🎛️ **MISSION_CONTROL** | High-level overview | 🟡 Exists, stale |  |
+| 🌅 **MORNING_REVIEW** | Daily planning | 🟡 Exists |  |
+| 🏗️ **WORKFLOW_ARCHITECTURE** | System design | 🟢 Current |  |
+| 🚨 **DISASTER_RECOVERY** | Emergency procedures | 🟢 Ready |  |
 
 ---
 
@@ -38,17 +38,17 @@
 
 | Project | Location | Status | Next Action |
 |---------|----------|--------|-------------|
-| **METHAP Trial** | [[MOC_PHD_IR_MOC\|PhD MOC]] | Active | Extract 10 GOLD refs |
-| **Bot Company / AIB** | [[99-System/AIB/\|AIB HQ]] | Building | Create agent profiles |
-| **Workflow System v3.0** | [[WORKFLOW_ARCHITECTURE_v3.0\|Architecture]] | Planning | Implement 1-5 notes |
+| **METHAP Trial** |  | Active | Extract 10 GOLD refs |
+| **Bot Company / AIB** |  | Building | Create agent profiles |
+| **Workflow System v3.0** |  | Planning | Implement 1-5 notes |
 | **Company Pages** | Shaboard :4444 | In Progress | Manual sync |
-| **Template System v2.0** | [[06-Structure/Templates/\|Templates]] | ✅ Done | Use in production |
+| **Template System v2.0** |  | ✅ Done | Use in production |
 
 ---
 
 ## 🆘 EMERGENCY RESOURCES
 
-**System down?** → [[DISASTER_RECOVERY|Disaster Recovery Guide]]  
+**System down?** →   
 **One-liner fix:**
 ```bash
 rm -rf ~/.openclaw/devices/* && openclaw gateway restart && sleep 3

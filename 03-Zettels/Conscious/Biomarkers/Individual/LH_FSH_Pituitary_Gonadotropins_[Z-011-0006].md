@@ -5,7 +5,7 @@ title: LH & FSH — Pituitary Gonadotropins, Hormonal Regulation
 aliases: [Z-011-0006, LH, FSH, Luteinizing-Hormone, Follicle-Stimulating-Hormone, Pituitary]
 domain: 011
 tags: [zettel, biomarker, lh, fsh, pituitary, gonadotropins, hormones]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

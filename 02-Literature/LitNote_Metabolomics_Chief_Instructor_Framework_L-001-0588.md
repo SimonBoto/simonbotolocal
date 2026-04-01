@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Foundational training philosophy for metabolomics clinic; defines instructor role and 6-stage patient flow
 status: extracted
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -78,9 +78,9 @@ extraction-date: 2026-03-08
 5. [[Socratic_Method_Metabolomics_Training_[Z-001-1033].md]] — Pedagogical approach
 
 ## Related References
-- [[MOC-Metabolomics-Training]] — Parent curriculum map
-- [[MOC-Clinical-Protocols]] — Operational implementation
-- [[MOC-Metabolomics-Analysis]] — Technical analysis stage
+-  — Parent curriculum map
+-  — Operational implementation
+-  — Technical analysis stage
 
 ---
 

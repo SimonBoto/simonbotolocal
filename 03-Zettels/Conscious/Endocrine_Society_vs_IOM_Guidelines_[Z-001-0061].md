@@ -6,14 +6,14 @@ aliases: [Z-001-0061, Endocrine-Society-IOM-Comparison]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, guidelines, Endocrine-Society, IOM, clinical-practice]
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 source: [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
 confidence: high
 created: 2026-03-01
 status: conscious
 ---
 
-# Endocrine Society vs IOM [[KEYWORD-Vitamin_D|vitamin d]] Guidelines
+# Endocrine Society vs IOM  Guidelines
 
 The Endocrine Society (clinical endocrinologists) recommends 1,500-2,000 IU/day for adults—significantly higher than IOM's 600-800 IU. This divergence reflects different interpretations of evidence and clinical vs. population health perspectives.
 
@@ -30,7 +30,7 @@ The Endocrine Society (clinical endocrinologists) recommends 1,500-2,000 IU/day 
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
+**Parent MOC:** -
 **Source:** [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
 **Related:** [[Vitamin_D_RDA_10x_Underestimation_[Z-001-0059]]]
 
@@ -40,4 +40,4 @@ The Endocrine Society (clinical endocrinologists) recommends 1,500-2,000 IU/day 
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

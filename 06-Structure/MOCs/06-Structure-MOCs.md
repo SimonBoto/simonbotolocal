@@ -5,7 +5,7 @@ type: index
 title: "06-Structure/MOCs — Maps of Content"
 aliases: [MOCs, Maps, Navigation, Knowledge Maps]
 tags: [index, mocs, navigation, knowledge, folder]
-parent-index: [[06-Structure]]
+parent-index: 
 status: active
 ---
 
@@ -19,7 +19,7 @@ status: active
 
 ## 🎯 Master Index
 
-**Start here:** [[MOC-INDEX]] — Master index of all MOCs
+**Start here:**  — Master index of all MOCs
 
 ---
 
@@ -28,43 +28,43 @@ status: active
 ### Research & PhD
 | MOC | Description |
 |-----|-------------|
-| [[MOC-PhD-Insulin-Resistance]] | Main PhD research hub |
-| [[MOC-PhD-Biomarkers]] | Biomarker-specific research |
+|  | Main PhD research hub |
+|  | Biomarker-specific research |
 
 ### Clinical Practice
 | MOC | Description |
 |-----|-------------|
-| [[MOC-Clinical-Protocols]] | Standard operating procedures |
-| [[MOC-Clinic-Queue]] | Patient workflow management |
-| [[MOC-Hashimoto-Thyroiditis]] | Hashimoto's deep-dive |
+|  | Standard operating procedures |
+|  | Patient workflow management |
+|  | Hashimoto's deep-dive |
 
 ### Metabolic Health
 | MOC | Description |
 |-----|-------------|
-| [[MOC-Metabolic-Syndrome]] | MetS hub |
-| [[MOC-Diabetes-T2D]] | Type 2 Diabetes |
-| [[MOC-Cholesterol-Quality]] | Cholesterol particle quality |
-| [[MOC-Omega3-Fats]] | Omega-3 fatty acids |
+|  | MetS hub |
+|  | Type 2 Diabetes |
+|  | Cholesterol particle quality |
+|  | Omega-3 fatty acids |
 
 ### Nutrition
 | MOC | Description |
 |-----|-------------|
-| [[MOC-Vitamin-Safety]] | Vitamin safety & dosing |
-| [[MOC-Hidden-Hunger]] | Micronutrient deficiencies |
-| [[MOC-Nutrition]] | General nutrition hub |
-| [[MOC-Nutrition-Risks]] | Nutritional risk factors |
+|  | Vitamin safety & dosing |
+|  | Micronutrient deficiencies |
+|  | General nutrition hub |
+|  | Nutritional risk factors |
 
 ### Autoimmunity
 | MOC | Description |
 |-----|-------------|
-| [[MOC-Stress-Autoimmune]] | Stress-autoimmune connection |
+|  | Stress-autoimmune connection |
 
 ### Methods
 | MOC | Description |
 |-----|-------------|
-| [[MOC-Metabolomics-Analysis]] | Metabolomics methods |
-| [[MOC-Metabolomics-Protocols]] | Lab protocols |
-| [[MOC-Literature-Management]] | Source management |
+|  | Metabolomics methods |
+|  | Lab protocols |
+|  | Source management |
 
 ---
 
@@ -80,12 +80,12 @@ status: active
 
 ## 🔗 Navigation
 
-← **Back to [[06-Structure]]** — Structure Index  
-→ **Sister: [[06-Structure-Indexes]]** — Indexes  
-→ **Sister: [[06-Structure-Templates]]** — Templates  
-↑ **Parent: [[06-Structure]]**
+← **Back to ** — Structure Index  
+→ **Sister: ** — Indexes  
+→ **Sister: ** — Templates  
+↑ **Parent: **
 
-**Start Here:** [[MOC-INDEX]]
+**Start Here:** 
 
 ---
 

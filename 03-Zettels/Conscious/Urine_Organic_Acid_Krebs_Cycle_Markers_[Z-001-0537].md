@@ -5,7 +5,7 @@ title: Urine Organic Acid — Krebs Cycle Markers
 aliases: [Organic-Acid-Test, Krebs-Cycle, TCA, Mitochondrial-Dysfunction]
 domain: 001
 tags: [zettel, organic-acid, krebs-cycle, mitochondrial-dysfunction, citrate, aconitate]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]]
 extraction-date: 2026-03-01
@@ -33,10 +33,10 @@ Aconitate (accumulates) ← BLOCK
 Isocitrate → α-KG → Succinyl-CoA
 ```
 
-## [[KEYWORD-Clinical|clinical]] Significance
+##  Significance
 
-- [[KEYWORD-Mitochondria|mitochondria]]l energy production compromised
-- Back-pressure affects upstream [[KEYWORD-Metabolism|metabolism]]
+- l energy production compromised
+- Back-pressure affects upstream 
 - Multiple pathway involvement (TCA + mevalonate)
 
 ---
@@ -45,4 +45,4 @@ Isocitrate → α-KG → Succinyl-CoA
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

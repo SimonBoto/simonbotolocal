@@ -6,7 +6,7 @@ aliases: [Z-001-0573, Bile Salts, Cholesterol Excretion, Enterohepatic Circulati
 domain: 001
 domain-name: Digestive Metabolism
 tags: [zettel, bile-acids, cholesterol, digestion, fat-absorption, enterohepatic, cyp7a1]
-parent-moc: [[MOC-Cholesterol-Quality]]
+parent-moc: 
 source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]]"
 confidence: high
 created: 2026-03-03
@@ -36,7 +36,7 @@ Chenodeoxycholic acid (2 OH groups)
 | Aspect | Details |
 |--------|---------|
 | **Rate-limiting enzyme** | CYP7A1 (cholesterol 7α-hydroxylase) |
-| **Location** | Hepatocytes (ER and [[KEYWORD-Mitochondria|mitochondria]]) |
+| **Location** | Hepatocytes (ER and ) |
 | **Products** | Cholic acid, Chenodeoxycholic acid |
 | **Regulation** | Negative feedback by bile acids |
 
@@ -141,7 +141,7 @@ Transport to intestinal brush border
 | Receptor | Location | Function |
 |----------|----------|----------|
 | **FXR** (Farnesoid X) | Liver, intestine | Regulate bile acid synthesis |
-| **TGR5** | Multiple tissues | Energy [[KEYWORD-Metabolism|metabolism]], [[KEYWORD-Inflammation|inflammation]] |
+| **TGR5** | Multiple tissues | Energy ,  |
 
 ---
 
@@ -211,7 +211,7 @@ Fecal excretion
 
 - [[Cholesterol_Steroid_Hormone_Synthesis_[Z-001-0570]]] — Other cholesterol uses
 - [[CoQ10_Dolichol_Isoprenoid_Synthesis_[Z-001-0571]]] — Other cholesterol products
-- [[MOC-Digestion]] — Digestive context (if exists)
+-  — Digestive context (if exists)
 - [[LitNote_Statin_Pharmacology_L-001-0502]]] — Alternative cholesterol lowering
 
 ---
@@ -225,4 +225,4 @@ Fecal excretion
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

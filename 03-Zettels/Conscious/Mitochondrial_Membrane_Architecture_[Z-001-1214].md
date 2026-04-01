@@ -4,13 +4,13 @@ type: zettel
 title: Mitochondrial Membrane Architecture — Double Membrane System
 domain: 001
 tags: [zettel, mitochondria, membranes, structure, porins, compartments]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Mitochondrial_Structure_Biology_L-001-0633]]"
 status: conscious
 ---
 
-# [[KEYWORD-Mitochondria|mitochondria]]l Membrane Architecture — Double Membrane System
+# l Membrane Architecture — Double Membrane System
 
 ## Overview
 
@@ -110,7 +110,7 @@ Drives ATP synthesis
 
 ## Clinical Relevance
 
-### [[KEYWORD-Mitochondria|mitochondrial]] Disorders
+###  Disorders
 **Outer membrane damage:**
 - Release of cytochrome c → apoptosis
 - Disrupted metabolite exchange
@@ -140,7 +140,7 @@ Drives ATP synthesis
 
 - [[Cristae_Structure_Function_[Z-001-1215].md]]
 - [[ETC_Complexes_Location_[Z-001-1216].md]]
-- [[ATP_Synthase_[[KEYWORD-Mechanism|mechanism]]_[Z-001-1217].md]]
+- _[Z-001-1217].md]]
 
 ---
 

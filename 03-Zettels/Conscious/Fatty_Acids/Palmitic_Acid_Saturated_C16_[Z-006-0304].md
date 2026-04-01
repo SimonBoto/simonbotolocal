@@ -6,7 +6,7 @@ title: Palmitic Acid — Saturated Fat, C16:0
 aliases: [Z-006-0304, Palmitic-Acid, Saturated-Fat, C16-0, Palmitate]
 domain: 006
 tags: [zettel, biomarker, palmitic, saturated, c16]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

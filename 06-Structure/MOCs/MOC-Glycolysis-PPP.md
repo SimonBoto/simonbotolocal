@@ -31,8 +31,8 @@ created: 2026-03-04
 - Pyruvate kinase deficiency
 
 ## Integration
-- [[MOC-Nucleotide-Metabolism]] (ribose from PPP)
-- [[MOC-Mitochondrial-Function]] (pyruvate entry)
+-  (ribose from PPP)
+-  (pyruvate entry)
 
 ---
 

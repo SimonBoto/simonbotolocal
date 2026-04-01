@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: Foundational genetic research on VDR and mitochondrial function
 status: extracted
-parent-moc: [[MOC-Vitamin-D]]
+parent-moc: 
 extraction-date: 2026-03-07
 domain: 001
 ---

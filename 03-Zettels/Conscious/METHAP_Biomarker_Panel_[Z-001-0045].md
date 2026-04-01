@@ -6,24 +6,24 @@ aliases: [Z-001-0045, METHAP-Panel]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, METHAP, biomarker-panel, clinical-trial, integration]
-parent-moc: [[MOC-PhD-Biomarkers]]
+parent-moc: 
 source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 ---
 
-# METHAP [[KEYWORD-Biomarker|biomarker]] Panel Integration
+# METHAP  Panel Integration
 
 The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates multiple biomarker categories for comprehensive insulin resistance assessment across the disease spectrum — from early detection through monitoring.
 
 **Panel Structure:**
 
-| Category | [[KEYWORD-Biomarker|biomarkers]] | Sample | Purpose |
+| Category |  | Sample | Purpose |
 |----------|-----------|--------|---------|
 | **Early IR** | Adipic acid, BCAAs, FFA profile | Urine + Plasma | Detect Stage 1 |
 | **Inflammation** | CRP, IL-6 (research) | Plasma | Assess immune activation |
-| **Nutritional** | [[KEYWORD-Vitamin_D|vitamin d]], Mg, Zn, Se | Plasma | Identify cofactor needs |
+| **Nutritional** | , Mg, Zn, Se | Plasma | Identify cofactor needs |
 | **Thyroid** | fT3, fT4, anti-TPO | Plasma | Endocrine comorbidity |
 | **Microbiome** | SCFAs, diversity | Stool | Gut metabolic health |
 
@@ -41,12 +41,12 @@ The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates mul
 ## Links
 
 - **Upstream:** [[Biomarker_Classification_Framework_Z-001-0040.md]] — Classification framework
-- **Parallel:** [[MOC-PhD-Protocol]] — Trial design context
-- **Downstream:** [[MOC-Clinical-Implementation]] — Practical application
+- **Parallel:**  — Trial design context
+- **Downstream:**  — Practical application
 
 ## Context
 
-**Also relevant to:** [[MOC-PhD]], [[MOC-Clinical-Protocols]]
+**Also relevant to:** , 
 
 **Emerges from:** Biomarkers Taxonomy synthesis document
 
@@ -56,5 +56,5 @@ The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates mul
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

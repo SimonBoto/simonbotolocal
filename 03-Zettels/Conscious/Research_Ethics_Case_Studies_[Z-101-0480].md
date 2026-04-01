@@ -5,12 +5,12 @@ title: Research Ethics Case Studies
 aliases: [Z-101-0480]
 domain: 101
 tags: [zettel, research-ethics, case-studies, tuskegee, willowbrook, nazi-experiments, henrietta-lacks, lessons-learned, conscious]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]]
 status: conscious
 ---
 
-# [[KEYWORD-Research|research]] Ethics Case Studies
+#  Ethics Case Studies
 
 ## Purpose
 Learn from historical violations to prevent future abuses and strengthen protections.
@@ -111,7 +111,7 @@ Learn from historical violations to prevent future abuses and strengthen protect
 ### What Happened
 | Aspect | Details |
 |--------|---------|
-| **Patient** | Henrietta Lacks, African American woman with cervical [[KEYWORD-Cancer|cancer]] |
+| **Patient** | Henrietta Lacks, African American woman with cervical  |
 | **Sample** | Tumor cells taken without consent during treatment |
 | **Discovery** | Cells could survive and multiply indefinitely in culture |
 | **Impact** | HeLa cells became foundation of modern cell biology |
@@ -167,7 +167,7 @@ Learn from historical violations to prevent future abuses and strengthen protect
 |-------|------------|
 | **Information** | Complete, understandable disclosure |
 | **Voluntariness** | Free to decline or withdraw |
-| **[[KEYWORD-Safety|safety]]** | Risks minimized, benefits maximized |
+| **** | Risks minimized, benefits maximized |
 | **Privacy** | Confidentiality protected |
 | **Respect** | Dignity maintained throughout |
 

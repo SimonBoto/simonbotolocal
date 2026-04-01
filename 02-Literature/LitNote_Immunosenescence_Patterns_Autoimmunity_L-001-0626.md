@@ -15,7 +15,7 @@ domain: 001
 tags: [litnote, immunosenescence, t-cells, autoimmunity, aging, exhaustion]
 source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_[CGPT-0520]]]"
 status: extracted
-parent-moc: [[MOC-Autoimmunity]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -171,9 +171,9 @@ extraction-date: 2026-03-08
 - [[Premature_CVD_Autoimmunity_[Z-001-1185].md]] — To create
 
 **MOCs:**
-- [[MOC-Autoimmunity]] — Primary domain
-- [[MOC-Aging]] — Senescence mechanisms
-- [[MOC-Immunology]] — T-cell biology
+-  — Primary domain
+-  — Senescence mechanisms
+-  — T-cell biology
 
 ---
 

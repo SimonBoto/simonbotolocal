@@ -16,7 +16,7 @@ status: pending
 aliases: [R-001-0011, Branca_2019, WHO_NCD_Food_System]
 domain: 001
 tags: [reference, ncds, environmental-factors, nutrition, who, tier-1]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 
@@ -58,7 +58,7 @@ This paper likely contains or references the WHO statistic that **80% of non-com
 ## Connections
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source citing this reference
 - [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0003]] — 80% statistic zettel
-- [[MOC-PhD-METHAP-Trial]] — Trial design justification
+-  — Trial design justification
 
 ---
 *Status: Reference hub created — pending full text review*  

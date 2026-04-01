@@ -6,14 +6,14 @@ aliases: [Z-001-0029, Lipotoxicity-IR]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, lipotoxicity, insulin-resistance, adipose-tissue, ceramide, mechanisms]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 ---
 
-# Lipotoxicity Pathway in [[KEYWORD-Insulin|insulin]] Resistance
+# Lipotoxicity Pathway in  Resistance
 
 Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capacity, creating hypoxic, fibrotic tissue that attracts pro-inflammatory M1 macrophages. Adipokine dysregulation follows: adiponectin (insulin-sensitizing) decreases while leptin increases, leading to leptin resistance.
 
@@ -30,7 +30,7 @@ Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capa
 | ↓ Adiponectin | Loss of insulin sensitization |
 | ↑ Leptin | Leptin resistance, hunger dysregulation |
 
-**[[KEYWORD-Biomarker|biomarker]]:** Elevated urinary adipic acid indicates impaired beta-oxidation and serves as early lipotoxicity indicator.
+**:** Elevated urinary adipic acid indicates impaired beta-oxidation and serves as early lipotoxicity indicator.
 
 ## Links
 
@@ -40,7 +40,7 @@ Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capa
 
 ## Context
 
-**Also relevant to:** [[MOC-NAFLD]], [[MOC-Metabolic-Syndrome]]
+**Also relevant to:** , 
 
 **Emerges from:** NKUA course material and literature synthesis
 
@@ -49,6 +49,6 @@ Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capa
 *UID: Z-001-0029 | Domain: 001 | Created: 2026-02-24*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

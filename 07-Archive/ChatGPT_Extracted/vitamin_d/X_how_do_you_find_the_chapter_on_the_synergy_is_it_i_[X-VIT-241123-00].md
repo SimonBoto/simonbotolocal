@@ -60,7 +60,7 @@ i will give it to you and i want you to turn it into a great chapter following t
 > following the exact same procedure, apply it to this 
 
 
-[[kiddVitaminsPleiotropicNutrients2010]]
+
 
 
 >...

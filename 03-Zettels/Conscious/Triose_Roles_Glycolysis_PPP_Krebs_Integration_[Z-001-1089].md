@@ -6,17 +6,17 @@ aliases: [Z-001-1089, Triose-Integration]
 domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, triose, glycolysis, ppp, krebs, integration]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
 source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
 confidence: high
 created: 2026-03-08
 ---
 
-# Triose Roles [[KEYWORD-Glycolysis|glycolysis]] PPP Krebs Integration
+# Triose Roles  PPP Krebs Integration
 
 ## Overview
-Trioses serve as metabolic crossroads, connecting glycolysis, the pentose phosphate pathway, and the [[KEYWORD-Krebs_Cycle|krebs cycle]] through interconversion and shared intermediates.
+Trioses serve as metabolic crossroads, connecting glycolysis, the pentose phosphate pathway, and the  through interconversion and shared intermediates.
 
 ## Glycolysis: The Triose Phase
 
@@ -79,12 +79,12 @@ Glucose → G3P → Pyruvate → Acetyl-CoA → Krebs
 ## Related
 - [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_[Z-001-1088].md]]
 - [[Pentose_Phosphate_Pathway_Ribose_NADPH_[Z-001-1090].md]]
-- [[MOC-Glycolysis-PPP]]
-- [[MOC-Krebs-Cycle]]
+- 
+- 
 
 ---
-*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*
+*Source: CGPT-0445 — Advanced *
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

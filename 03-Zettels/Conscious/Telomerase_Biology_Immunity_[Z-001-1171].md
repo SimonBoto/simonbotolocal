@@ -4,7 +4,7 @@ type: zettel
 title: Telomerase Biology and Immune Cell Regulation
 domain: 001
 tags: [zettel, telomerase, TERT, TERC, immune-cells, cellular-immortality]
-parent-moc: [[MOC-Autoimmunity]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]]"
 status: conscious
@@ -41,7 +41,7 @@ status: conscious
 | **Germ cells** | Transmit full telomeres to offspring |
 | **Stem cells** | Maintain self-renewal capacity |
 | **Activated lymphocytes** | Allow extensive proliferation |
-| **[[KEYWORD-Cancer|cancer]] cells** (85-90%) | Unlimited replication (immortalization) |
+| ** cells** (85-90%) | Unlimited replication (immortalization) |
 
 ### Low/No Activity
 - Most somatic tissues
@@ -94,10 +94,10 @@ status: conscious
 
 ### Telomerase Inhibition
 **Cancer Therapy:**
-- Imetelstat ([[KEYWORD-Clinical|clinical]] trials)
+- Imetelstat ( trials)
 - Targets cancer cell immortality
 
-**[[KEYWORD-Autoimmunity|autoimmunity]]:**
+**:**
 - Theoretical benefit (reduce pathogenic clone expansion)
 - Risk: Further immune compromise
 
@@ -114,5 +114,5 @@ status: conscious
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[RA_Telomerase_Elevation_Compensatory_Proliferation_[Z-001-1175]|Z-001-1175]]

@@ -6,7 +6,7 @@ aliases: [Z-001-1126, VitC-Epigenetic]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, vitamin-c, epigenetic, demethylation, ten-eleven]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]]
 source: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]]
 confidence: high
@@ -97,7 +97,7 @@ Fe²⁺-enzyme + O₂ + α-KG → Oxidized substrate + CO₂ + Succinate
 ### Solid Tumors
 | Finding | Implication |
 |---------|-------------|
-| **5-hmC loss** | Common in many cancers ([[KEYWORD-Biomarker|biomarker]]) |
+| **5-hmC loss** | Common in many cancers () |
 | **Vitamin C restoration** | May reactivate tumor suppressors |
 | **Combination with demethylating agents** | Synergistic potential |
 
@@ -133,12 +133,12 @@ Fe²⁺-enzyme + O₂ + α-KG → Oxidized substrate + CO₂ + Succinate
 ## Related
 - [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_[Z-001-1125].md]]
 - [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_[Z-001-1127].md]]
-- [[MOC-Cancer-[[KEYWORD-Metabolism|metabolism]]]]
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

@@ -6,7 +6,7 @@ aliases: [Z-001-0906, Z-001-0006-deprecated, Transcriptomics, mRNA, Transcriptom
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, transcriptomics, mRNA, gene-expression, RNA, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
@@ -55,7 +55,7 @@ The transcriptome is the **immediate precursor** of the proteome:
 - **Disease progression monitoring** — Tracking chronic disease states
 - **Drug mechanism studies** — How therapies alter gene expression
 
-## Limitations → Why [[KEYWORD-Metabolomics|metabolomics]] is Needed
+## Limitations → Why  is Needed
 
 | Limitation | Explanation |
 |------------|-------------|
@@ -67,9 +67,9 @@ The transcriptome is the **immediate precursor** of the proteome:
 ## METHAP Context
 
 **Transcriptomics in IR Research:**
-- Could identify gene expression changes in [[KEYWORD-Insulin|insulin]] signaling pathways
+- Could identify gene expression changes in  signaling pathways
 - Might reveal VD receptor (VDR) gene expression patterns
-- But **metabolomics** provides the functional endpoint (glucose [[KEYWORD-Metabolism|metabolism]], lipid status)
+- But **metabolomics** provides the functional endpoint (glucose , lipid status)
 
 **Ideal study:** Multi-omics combining transcriptomics + metabolomics
 
@@ -81,7 +81,7 @@ The transcriptome is the **immediate precursor** of the proteome:
 
 ## Context
 
-**Also relevant to:** [[MOC-PhD-METHAP-Trial]] — Multi-omics considerations
+**Also relevant to:**  — Multi-omics considerations
 
 **Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Subsection 2.3
 
@@ -91,4 +91,4 @@ The transcriptome is the **immediate precursor** of the proteome:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

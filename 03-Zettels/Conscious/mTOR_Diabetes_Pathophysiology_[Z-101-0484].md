@@ -5,7 +5,7 @@ title: mTOR Diabetes Pathophysiology
 aliases: [Z-101-0484]
 domain: 101
 tags: [zettel, mtor, diabetes, insulin-resistance, beta-cell, nodat, sirolimus, glucose-metabolism, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]]
 status: conscious
 ---
@@ -13,7 +13,7 @@ status: conscious
 # mTOR Diabetes Pathophysiology
 
 ## Overview
-mTOR (mechanistic target of rapamycin) is a central regulator of [[KEYWORD-Metabolism|metabolism]]. Its inhibition by sirolimus disrupts glucose homeostasis through multiple mechanisms, leading to new-onset diabetes after transplantation (NODAT).
+mTOR (mechanistic target of rapamycin) is a central regulator of . Its inhibition by sirolimus disrupts glucose homeostasis through multiple mechanisms, leading to new-onset diabetes after transplantation (NODAT).
 
 ## Pathways to Diabetes
 
@@ -177,7 +177,7 @@ Sirolimus → ↑ FFA → Muscle/liver lipid accumulation → Insulin resistance
 | Insight | Application |
 |---------|-------------|
 | mTOR as metabolic hub | Understanding intervention targets |
-| Mitochondrial health | [[KEYWORD-Biomarker|biomarker]] for metabolic status |
+| Mitochondrial health |  for metabolic status |
 | β-cell vulnerability | Early detection importance |
 | Medication effects | Confounder consideration |
 
@@ -189,13 +189,13 @@ Sirolimus → ↑ FFA → Muscle/liver lipid accumulation → Insulin resistance
 ## Related
 - **Source:** [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]]
 - **Mitochondrial mechanisms:** [[Sirolimus_mTOR_Mitochondrial_Mechanisms_[Z-101-0483].md]]
-- **Insulin signaling:** [[MOC-Insulin-Signaling]]
+- **Insulin signaling:** 
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

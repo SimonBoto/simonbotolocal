@@ -5,7 +5,7 @@ title: α-Ketoglutarate — Nitrogen & Energy Hub
 aliases: [B-012-0003]
 domain: 012
 tags: [oat, metabolite, mitochondrial, alpha-ketoglutarate, akg, nitrogen-metabolism, collagen, epigenetics]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 extraction-date: 2026-03-31
 ---

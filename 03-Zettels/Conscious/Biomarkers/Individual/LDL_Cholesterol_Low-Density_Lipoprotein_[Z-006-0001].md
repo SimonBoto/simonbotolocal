@@ -6,7 +6,7 @@ title: LDL Cholesterol — Low-Density Lipoprotein
 aliases: [Z-006-0001, LDL, LDL-Cholesterol, Bad-Cholesterol]
 domain: 006
 tags: [zettel, biomarker, ldl, cholesterol, lipids, cardiovascular]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

@@ -15,7 +15,7 @@ domain: 001
 tags: [litnote, aconitase, irp1, iron-metabolism, krebs-cycle, fe-s-cluster]
 source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]]"
 status: extracted
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -214,9 +214,9 @@ Citrate ⇌ cis-Aconitate ⇌ Isocitrate
 - [[IRE_IRP_System_[Z-001-1207].md]] — To create
 
 **MOCs:**
-- [[MOC-Mitochondrial-Function]] — Krebs cycle
-- [[MOC-One-Carbon-Metabolism]] — Iron metabolism
-- [[MOC-Clinical-Protocols]] — Anemia/iron overload
+-  — Krebs cycle
+-  — Iron metabolism
+-  — Anemia/iron overload
 
 ---
 

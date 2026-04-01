@@ -6,7 +6,7 @@ title: Oleic Acid — Omega-9, Primary MUFA
 aliases: [Z-006-0302, Oleic-Acid, Omega-9, MUFA, Olive-Oil, C18-1]
 domain: 006
 tags: [zettel, biomarker, oleic, omega-9, mufa, olive-oil]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

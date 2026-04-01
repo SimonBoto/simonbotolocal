@@ -5,7 +5,7 @@ title: Activation Phase — RANKL and M-CSF Drive Osteoclast Differentiation
 aliases: [Z-001-1027]
 domain: 001
 tags: [zettel, bone-remodeling, osteoclasts, rankl, m-csf, activation, conscious]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 status: conscious
 ---
 
@@ -14,7 +14,7 @@ status: conscious
 ## Core Principle
 Bone remodeling begins with **activation** of dormant bone surfaces, triggering osteoclast precursor differentiation through dual cytokine signaling.
 
-## Molecular [[KEYWORD-Mechanism|mechanism]]
+## Molecular 
 
 ### RANKL (Receptor Activator of Nuclear Factor Kappa-B Ligand)
 - Expressed by osteoblasts, osteocytes, and stromal cells
@@ -38,7 +38,7 @@ Bone remodeling begins with **activation** of dormant bone surfaces, triggering 
 | Target | Drug Class | Effect |
 |--------|------------|--------|
 | RANKL | Denosumab (monoclonal antibody) | Prevents RANKL-RANK binding → ↓ osteoclast formation |
-| RANK | None [[KEYWORD-Clinical|clinical]]ly available | Would block signaling directly |
+| RANK | None ly available | Would block signaling directly |
 
 ## Clinical Relevance
 - **Postmenopausal osteoporosis**: Estrogen deficiency increases RANKL expression → excessive activation

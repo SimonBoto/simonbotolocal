@@ -5,7 +5,7 @@ title: "Dysbiosis Detection via Metabolomics"
 aliases: [Z-001-0023, Dysbiosis, Gut_Microbiome_Metabolites, Microbial_Metabolites]
 domain: 001
 tags: [zettel, dysbiosis, microbiome, gut-health, metabolomics, scfa, autoimmunity, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
 status: conscious
@@ -39,7 +39,7 @@ Dysbiosis stands alongside:
 | **Short-chain fatty acids (SCFAs)** | Butyrate, propionate, acetate | Fiber fermentation | Gut barrier, immune regulation |
 | **Bile acid metabolites** | Deoxycholic acid, lithocholic acid | Bile acid modification | Metabolic signaling, cancer risk |
 | **Tryptophan metabolites** | Indole, indole-3-lactic acid | Tryptophan conversion | Aryl hydrocarbon receptor signaling |
-| **Phenolic compounds** | p-cresol, phenylacetylglutamine | Amino acid [[KEYWORD-Metabolism|metabolism]] | Uremic toxins, cardiovascular risk |
+| **Phenolic compounds** | p-cresol, phenylacetylglutamine | Amino acid  | Uremic toxins, cardiovascular risk |
 | **Lipopolysaccharide (LPS)** | Lipid A | Gram-negative bacteria | Systemic inflammation, endotoxemia |
 | **Vitamins** | B12, K2, folate | Microbial synthesis | Nutrient status |
 
@@ -92,7 +92,7 @@ Dietary factors (fiber, fat, toxins)
 
 ## Connection to METHAP Trial
 
-### The Gut-[[KEYWORD-Vitamin_D|vitamin d]]-IR Axis
+### The Gut--IR Axis
 
 Emerging evidence suggests:
 1. **Vitamin D** modulates gut microbiome composition
@@ -120,10 +120,10 @@ Emerging evidence suggests:
 
 ### Downstream
 - [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]] — Dysbiosis-IR link
-- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]] — VitD-gut axis
+- -Mechanisms]] — VitD-gut axis
 
 ### Cross-Domain
-- [[MOC-PhD-METHAP-Trial]] — Trial integration
+-  — Trial integration
 
 ## Clinical Application
 
@@ -158,9 +158,9 @@ Emerging evidence suggests:
 *Confidence: High* — Established gut-metabolism connection  
 *Next Review: After microbiome-focused literature review*
 ## RELATED FILES
-- [[KEYWORD-Metabolomics]]
-- [[MOC-INDEX|Master Index]]
+- 
+- 
 - [[Microbiome_Gut_Brain_Terminology_[Z-001-1045]|Z-001-1045]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

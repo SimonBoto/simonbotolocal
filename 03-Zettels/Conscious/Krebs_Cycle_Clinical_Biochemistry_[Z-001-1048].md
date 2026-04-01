@@ -6,17 +6,17 @@ aliases: [Z-001-1048, Krebs-Cycle]
 domain: 001
 domain-name: Krebs Cycle
 tags: [zettel, krebs-cycle, tca, mitochondria]
-parent-moc: [[MOC-Krebs-Cycle]]
+parent-moc: 
 source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
 source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
 confidence: high
 created: 2026-03-08
 ---
 
-# Krebs Cycle Clinical [[KEYWORD-Biochemistry|biochemistry]]
+# Krebs Cycle Clinical 
 
 ## Overview
-Central [[KEYWORD-Mitochondria|mitochondria]]l pathway oxidizing acetyl-CoA to CO₂ while generating reducing equivalents (NADH, FADH₂) and biosynthetic intermediates.
+Central l pathway oxidizing acetyl-CoA to CO₂ while generating reducing equivalents (NADH, FADH₂) and biosynthetic intermediates.
 
 ## Cycle Reactions (8 Steps)
 
@@ -56,11 +56,11 @@ OAT markers reveal cycle dysfunction:
 
 ## Related
 - [[TCA_Intermediates_Clinical_Significance_[Z-001-1049].md]]
-- [[MOC-Krebs-Cycle]]
+- 
 
 ---
-*Source: CGPT-0022 — [[KEYWORD-Mitochondria|mitochondrial]] biochemistry*
+*Source: CGPT-0022 —  biochemistry*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

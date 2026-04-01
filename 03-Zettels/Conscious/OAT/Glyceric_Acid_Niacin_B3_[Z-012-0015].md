@@ -6,7 +6,7 @@ title: Glyceric Acid — Niacin (B3) & Serine Metabolism Marker
 aliases: [Z-012-0015, Glyceric-Acid, B3-Deficiency, Niacin, Serine-Metabolism]
 domain: 012
 tags: [zettel, biomarker, glyceric, b3, niacin, serine, deficiency]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

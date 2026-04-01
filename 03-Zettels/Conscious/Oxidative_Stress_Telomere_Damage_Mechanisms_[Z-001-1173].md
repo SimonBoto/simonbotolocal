@@ -4,7 +4,7 @@ type: zettel
 title: Oxidative Stress and Telomere Damage Mechanisms
 domain: 001
 tags: [zettel, oxidative-stress, ros, telomeres, dna-damage, inflammation]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]]"
 status: conscious
@@ -33,9 +33,9 @@ status: conscious
 
 ## ROS Sources in Autoimmunity
 
-### [[KEYWORD-Mitochondria|mitochondria]]l Dysfunction
+### l Dysfunction
 - Impaired ETC → electron leak → superoxide
-- Chronic [[KEYWORD-Inflammation|inflammation]] damages mitochondria
+- Chronic  damages mitochondria
 - Vicious cycle: Damage → more ROS → more damage
 
 ### NADPH Oxidase
@@ -46,7 +46,7 @@ status: conscious
 ### Inflammatory Cytokines
 - TNF-α, IL-1β, IFN-γ increase ROS production
 - Activate NADPH oxidase
-- Induce [[KEYWORD-Mitochondria|mitochondrial]] dysfunction
+- Induce  dysfunction
 
 ---
 
@@ -103,4 +103,4 @@ status: conscious
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

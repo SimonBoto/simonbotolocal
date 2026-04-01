@@ -6,7 +6,7 @@ aliases: [Z-001-1050, OXPHOS]
 domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, oxphos, electron-transport, atp-synthesis]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
 source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Oxidative Phosphorylation Clinical Mechanisms
 
 ## Overview
-The [[KEYWORD-Mitochondria|mitochondria]]l process where electron transport through Complexes I-IV drives ATP synthesis via ATP synthase (Complex V).
+The l process where electron transport through Complexes I-IV drives ATP synthesis via ATP synthase (Complex V).
 
 ## Electron Transport Chain (ETC)
 
@@ -67,18 +67,18 @@ The [[KEYWORD-Mitochondria|mitochondria]]l process where electron transport thro
 | Pattern | Cause | Intervention |
 |---------|-------|--------------|
 | Elevated lactate/pyruvate | ETC block | CoQ10, B2, B3 |
-| Low ATP symptoms (fatigue) | Complex V issue | [[KEYWORD-Magnesium|magnesium]], CoQ10 |
+| Low ATP symptoms (fatigue) | Complex V issue | , CoQ10 |
 | Hypoxia markers | Complex IV limitation | Oxygen, B12 |
 | Oxidative stress | Electron leak | Antioxidants |
 
 ## Related
 - [[Redox_Cofactors_NAD_FAD_Biochemistry_[Z-001-1051].md]]
-- [[MOC-[[KEYWORD-Mitochondria|mitochondrial]]-Function]]
+- -Function]]
 
 ---
 *Source: CGPT-0022 — Mitochondrial biochemistry*
 
 
 ## RELATED FILES
-- [[KEYWORD-Mitochondria]]
-- [[MOC-INDEX|Master Index]]
+- 
+- 

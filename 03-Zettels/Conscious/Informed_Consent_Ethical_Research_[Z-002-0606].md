@@ -6,13 +6,13 @@ aliases: [Z-002-0606, ethics-informed-consent]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, informed-consent, autonomy, emmanuel-seven]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]"
 confidence: high
 created: 2026-03-27
 ---
 
-# Informed Consent in Ethical [[KEYWORD-Research|research]]
+# Informed Consent in Ethical 
 
 Participants must provide voluntary, informed consent after understanding risks, benefits, and alternatives. Consent is necessary but not sufficient for ethical research.
 
@@ -52,15 +52,15 @@ Participants must provide voluntary, informed consent after understanding risks,
 ## Application to METHAP
 
 METHAP consent requirements:
-- **Plain language** explanation of [[KEYWORD-Metabolomics|metabolomics]] testing
+- **Plain language** explanation of  testing
 - **Clear risks:** Blood draw discomfort, privacy considerations
 - **Benefits:** No direct benefit, contribution to science
-- **Alternatives:** Standard [[KEYWORD-Clinical|clinical]] care without research participation
+- **Alternatives:** Standard  care without research participation
 - **Withdrawal:** Can exit anytime without affecting clinical care
 
 ## Links
 
-**Parent MOC:** [[MOC-Research-Ethics]]  
+**Parent MOC:**   
 **Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]  
 **Related:** [[Respect_Enrolled_Subjects_Ethics_[Z-002-0607].md]] — Ongoing obligations
 
@@ -70,4 +70,4 @@ METHAP consent requirements:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

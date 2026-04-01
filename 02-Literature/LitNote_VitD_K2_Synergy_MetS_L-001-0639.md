@@ -8,7 +8,7 @@ journal: ChatGPT Archive
 tier: 1
 relevance: Critical — Core PhD literature on VitD/K2 mechanisms in MetS
 status: extracted
-parent-moc: [[MOC-Vitamin-D]]
+parent-moc: 
 extraction-date: 2026-03-09
 ---
 
@@ -51,8 +51,8 @@ Combined → Functional matrix Gla-protein, osteocalcin
 4. [[VitD_K2_Insulin_Resistance_[Z-001-1237].md]]
 
 ## Related
-- [[MOC-Vitamin-D]]
-- [[MOC-Insulin-Resistance]]
+- 
+- 
 
 ---
 *Extracted: 2026-03-09*

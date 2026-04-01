@@ -5,7 +5,7 @@ title: "Lipid Profile - Ratio-Focused Clinical Guide (LDL:ApoB, TG:HDL, Total:HD
 aliases: [B-006-0001, Lipid-Ratios, TG-HDL-Ratio, LDL-ApoB, Lipid-Panel]
 domain: 006
 tags: [biomarker, lipids, ratios, cardiovascular, insulin-resistance, metabolic, apob]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 created: 2026-03-30
 ---

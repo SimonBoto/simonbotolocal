@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — TP53 abnormalities, del(17p), p53 dysfunction, MDM2 inhibitors, therapeutic strategies
 status: extracted
-parent-moc: [[MOC-Hematology-Oncology]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -64,7 +64,7 @@ extraction-date: 2026-03-08
 3. [[Targeting_p53_Dysfunction_MDM2_Inhibitors_[Z-001-1137].md]]
 
 ## Related References
-- [[MOC-Hematology-Oncology]]
+- 
 - [[Multiple_Myeloma_Staging_ISS_R-ISS_[Z-001-1133].md]]
 - [[Multiple_Myeloma_Treatment_Modern_Approach_[Z-001-1134].md]]
 

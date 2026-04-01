@@ -5,7 +5,7 @@ title: Organic Acid METHAP Integration
 aliases: [METHAP-Organic-Acid, Biomarkers, Mitochondrial-Screening]
 domain: 001
 tags: [zettel, methap, organic-acid, biomarkers, screening]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Organic Acid METHAP Integration
 
-> Organic acid testing provides objective [[KEYWORD-Biomarker|biomarker]]s for mitochondrial dysfunction in metabolic syndrome, guiding targeted nutrient therapy.
+> Organic acid testing provides objective s for mitochondrial dysfunction in metabolic syndrome, guiding targeted nutrient therapy.
 
 ## METHAP Applications
 
@@ -23,7 +23,7 @@ extraction-date: 2026-03-01
 - Personalize supplementation
 
 **Targeted Interventions:**
-- **Mg:** Enhances [[KEYWORD-Vitamin_D|vitamin d]] activation
+- **Mg:** Enhances  activation
 - **CoQ10:** Cardiovascular protection
 - **B-vitamins:** Support methylation
 - **Carnitine:** Enhances insulin sensitivity
@@ -47,7 +47,7 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]]*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

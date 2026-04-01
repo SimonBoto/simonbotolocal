@@ -8,7 +8,7 @@ journal: Historical/nutritional analysis
 tier: 2
 relevance: High — Foundation of modern dietary guidelines; seed oil industry influence
 status: extracted
-parent-moc: [[MOC-Nutrition]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 

@@ -6,7 +6,7 @@ aliases: [Z-001-1072, Difficult-Conversations]
 domain: 001
 domain-name: Clinical Communication
 tags: [zettel, difficult-conversations, challenges]
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: 
 source-litnote: [[LitNote_Patient_Communication_Scripts_L-001-0595]]
 source: [[LitNote_Patient_Communication_Scripts_L-001-0595]]
 confidence: high
@@ -63,7 +63,7 @@ Strategies for navigating challenging patient interactions with professionalism 
 3. **Bridge** — "Research shows X, and your test shows Y—let's connect them"
 
 ### Script
-> "I appreciate that you've researched this. Let's combine your knowledge with what your [[KEYWORD-Metabolism|metabolism]] is actually showing us. The test doesn't lie—it reveals your specific [[KEYWORD-Biochemistry|biochemistry]]."
+> "I appreciate that you've researched this. Let's combine your knowledge with what your  is actually showing us. The test doesn't lie—it reveals your specific ."
 
 ## The Emotional Patient
 
@@ -96,11 +96,11 @@ Strategies for navigating challenging patient interactions with professionalism 
 
 ## Related
 - [[Patient_Objection_Response_Scripts_[Z-001-1071].md]]
-- [[MOC-[[KEYWORD-Clinical|clinical]]-Protocols]]
+- -Protocols]]
 
 ---
 *Source: CGPT-0022 — Patient communication*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

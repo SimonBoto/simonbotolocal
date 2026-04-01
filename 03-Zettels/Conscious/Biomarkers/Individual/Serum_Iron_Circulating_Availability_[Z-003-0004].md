@@ -6,7 +6,7 @@ title: Serum Iron — Circulating Iron Availability
 aliases: [Z-003-0004, Serum-Iron, Circulating-Iron, Iron-Level]
 domain: 003
 tags: [zettel, biomarker, iron, serum-iron, circulating, acute-phase]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

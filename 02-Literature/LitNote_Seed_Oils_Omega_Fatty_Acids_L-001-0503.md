@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: Critical — Understanding dietary fat quality, omega-6/omega-3 balance, and metabolic impact for METHAP protocol
 status: extracted
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 

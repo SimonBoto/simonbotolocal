@@ -9,7 +9,7 @@ pmid: N/A
 tier: 3
 relevance: Moderate — Practical strategies for questionnaire ethics approval
 status: extracted
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 extraction-date: 2026-03-28
 ---
 

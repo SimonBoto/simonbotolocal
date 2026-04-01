@@ -5,7 +5,7 @@ title: Oxalate Management in CKD — Kidney Stone Prevention and Progression
 aliases: [Z-001-0982]
 domain: 001
 tags: [zettel, oxalate, ckd, kidney-stones, calcium-oxalate, hyperoxaluria, dietary-management, conscious]
-parent-moc: [[MOC-Nephrolithiasis]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_CKD_Nutritional_Assessment_L-001-0575]]
 status: conscious
@@ -22,7 +22,7 @@ Calcium oxalate is the most common kidney stone type. CKD patients have increase
 ### Sources
 
 **Endogenous Production:**
-- Glyoxylate [[KEYWORD-Metabolism|metabolism]] (primary source)
+- Glyoxylate  (primary source)
 - Ascorbic acid (vitamin C) conversion
 - Amino acid metabolism (hydroxyproline)
 - ~50-100 mg/day produced internally
@@ -289,7 +289,7 @@ Calcium oxalate is the most common kidney stone type. CKD patients have increase
 
 **Post-Bariatric Surgery:**
 - Fat malabsorption
-- Increased free [[KEYWORD-Fatty_Acids|fatty acids]] in gut
+- Increased free  in gut
 - Bind calcium
 - More oxalate available for absorption
 
@@ -304,7 +304,7 @@ Calcium oxalate is the most common kidney stone type. CKD patients have increase
 **Definition:**
 - Acute or chronic kidney injury from oxalate crystal deposition
 - Tubular injury
-- Interstitial [[KEYWORD-Inflammation|inflammation]]
+- Interstitial 
 - Progressive fibrosis
 
 **Causes:**
@@ -345,5 +345,5 @@ Calcium oxalate is the most common kidney stone type. CKD patients have increase
 
 
 ## RELATED FILES
-- [[KEYWORD-Oxalate]]
-- [[MOC-INDEX|Master Index]]
+- 
+- 

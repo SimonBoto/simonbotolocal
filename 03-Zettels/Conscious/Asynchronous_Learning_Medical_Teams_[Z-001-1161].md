@@ -4,7 +4,7 @@ type: zettel
 title: Asynchronous Learning in Medical Teams
 domain: 001
 tags: [zettel, education, asynchronous-learning, clinical-team, time-management]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Self_Education_Clinical_Team_L-001-0620]]"
 status: conscious
@@ -14,7 +14,7 @@ status: conscious
 
 ## The Problem
 
-[[KEYWORD-Clinical|clinical]] teams face severe time constraints:
+ teams face severe time constraints:
 - Patient care is priority #1
 - No protected time for 1-2 hour meetings
 - Synchronous scheduling is nearly impossible
@@ -49,7 +49,7 @@ status: conscious
 - Resources and references distributed
 
 ### Week 2-3: Asynchronous Work
-- Individual [[KEYWORD-Research|research]] and paper writing
+- Individual  and paper writing
 - Optional peer review via pull requests
 - Questions/discussion in issue threads
 

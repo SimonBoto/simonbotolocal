@@ -5,7 +5,7 @@ title: Vascular Calcification Prevention and Reversal
 aliases: [Calcification-Prevention, K2-Reversal, Prevention-Strategies]
 domain: 001
 tags: [zettel, vascular-calcification, prevention, reversal, vitamin-k2]
-parent-moc: [[MOC-Cardiovascular-Health]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Vascular_Calcification_L-001-0215]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Vascular Calcification Prevention and Reversal
 
-> [[KEYWORD-Vitamin_K2|vitamin k2]] supplementation may slow progression of established vascular calcification and prevent new calcification, particularly when combined with [[KEYWORD-Vitamin_D|vitamin d]] and [[KEYWORD-Magnesium|magnesium]] optimization.
+>  supplementation may slow progression of established vascular calcification and prevent new calcification, particularly when combined with  and  optimization.
 
 ## Prevention Strategies
 

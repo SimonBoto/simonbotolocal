@@ -4,7 +4,7 @@ type: zettel
 title: MTHFR — Methylation Support Protocol
 domain: 001
 tags: [zettel, mthfr, methylation, folate, b12, genetic-polymorphism]
-parent-moc: [[MOC-Methylation-One-Carbon]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]]"
 status: conscious
@@ -27,7 +27,7 @@ MTHFR (methylenetetrahydrofolate reductase) is a critical enzyme in the folate c
 | **CT (heterozygous)** | 60-70% | 35-45% |
 | **TT (homozygous)** | 30-40% | 10-15% |
 
-**[[KEYWORD-Clinical|clinical]] Impact:**
+** Impact:**
 - Elevated homocysteine
 - Increased cardiovascular risk
 - Neural tube defect risk
@@ -55,7 +55,7 @@ MTHFR (methylenetetrahydrofolate reductase) is a critical enzyme in the folate c
 
 | Form | Dose | Notes |
 |------|------|-------|
-| **5-MTHF ([[KEYWORD-Calcium|calcium]] salt)** | 400-800 mcg | Start low if sensitive |
+| **5-MTHF ( salt)** | 400-800 mcg | Start low if sensitive |
 | **Quatrefolic®** | 400-800 mcg | Active glucosamine salt |
 
 **Caution:** Start low (200 mcg) — overmethylation can cause anxiety, insomnia
@@ -82,7 +82,7 @@ MTHFR (methylenetetrahydrofolate reductase) is a critical enzyme in the folate c
 ### 4. Supporting Nutrients
 | Nutrient | Dose | Function |
 |----------|------|----------|
-| **[[KEYWORD-Magnesium|magnesium]]** | 400-600 mg | Methylation cofactor |
+| **** | 400-600 mg | Methylation cofactor |
 | **Zinc** | 15-30 mg | Enzyme function |
 | **B6 (P5P)** | 10-25 mg | Transsulfuration |
 | **Betaine (TMG)** | 500-1,000 mg | Alternative methyl donor |

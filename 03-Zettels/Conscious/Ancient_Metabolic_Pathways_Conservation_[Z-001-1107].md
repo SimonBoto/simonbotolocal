@@ -6,7 +6,7 @@ aliases: [Z-001-1107, Ancient-Pathways]
 domain: 001
 domain-name: Evolutionary Biochemistry
 tags: [zettel, ancient, pathways, conservation, glycolysis]
-parent-moc: [[MOC-Evolutionary-Biochemistry]]
+parent-moc: 
 source-litnote: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
 source: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Ancient Metabolic Pathways Conservation
 
 ## Overview
-The most ancient metabolic pathways—glycolysis, the pentose phosphate pathway, and parts of amino acid [[KEYWORD-Metabolism|metabolism]]—are conserved across all domains of life.
+The most ancient metabolic pathways—glycolysis, the pentose phosphate pathway, and parts of amino acid —are conserved across all domains of life.
 
 ## Evidence for Antiquity
 
@@ -31,7 +31,7 @@ The most ancient metabolic pathways—glycolysis, the pentose phosphate pathway,
 ### Sequence Conservation
 - **Enzyme sequences:** Highly similar across domains
 - **Active site structures:** Nearly identical
-- **Reaction [[KEYWORD-Mechanism|mechanism]]s:** Conserved chemistry
+- **Reaction s:** Conserved chemistry
 
 ## The Most Ancient Pathways
 
@@ -98,7 +98,7 @@ The most ancient metabolic pathways—glycolysis, the pentose phosphate pathway,
 ### Eukaryotic Refinements
 - **Compartmentalization:** Glycolysis in cytosol
 - **Better regulation:** Allosteric control
-- **Integration:** [[KEYWORD-Mitochondria|mitochondria]]l coupling
+- **Integration:** l coupling
 
 ## Implications for Astrobiology
 
@@ -117,7 +117,7 @@ The most ancient metabolic pathways—glycolysis, the pentose phosphate pathway,
 ## Related
 - [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_[Z-001-1092].md]]
 | [[Metabolic_Fossils_Ancient_Pathway_Remants_[Z-001-1109].md]]
-| [[MOC-Evolutionary-Biochemistry]]
+| 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

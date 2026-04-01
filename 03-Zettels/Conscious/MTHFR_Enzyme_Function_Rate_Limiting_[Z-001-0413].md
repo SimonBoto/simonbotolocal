@@ -5,7 +5,7 @@ title: MTHFR Enzyme Function — Rate-Limiting Step
 aliases: [MTHFR, Methylenetetrahydrofolate-Reductase, Rate-Limiting]
 domain: 001
 tags: [zettel, mthfr, enzyme, folate, rate-limiting]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # MTHFR Enzyme Function — Rate-Limiting Step
 
-> Methylenetetrahydro[[KEYWORD-Folate|folate]] reductase (MTHFR) catalyzes the conversion of 5,10-methylenetetrahydrofolate to 5-methyltetrahydrofolate (5-MTHF), the rate-limiting step in folate [[KEYWORD-Metabolism|metabolism]] that produces the active form of folate used for homocysteine re[[KEYWORD-Methylation|methylation]].
+> Methylenetetrahydro reductase (MTHFR) catalyzes the conversion of 5,10-methylenetetrahydrofolate to 5-methyltetrahydrofolate (5-MTHF), the rate-limiting step in folate  that produces the active form of folate used for homocysteine re.
 
 ## Reaction
 
@@ -61,5 +61,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Folate_5MTHF_vs_Folic_Acid_[Z-004-0002]|Z-004-0002]]

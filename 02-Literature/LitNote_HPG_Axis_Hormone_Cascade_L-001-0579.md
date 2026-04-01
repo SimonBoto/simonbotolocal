@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: Foundational endocrine physiology for clinical practice
 status: extracted
-parent-moc: [[MOC-Endocrine-Physiology]]
+parent-moc: 
 extraction-date: 2026-03-07
 domain: 001
 ---

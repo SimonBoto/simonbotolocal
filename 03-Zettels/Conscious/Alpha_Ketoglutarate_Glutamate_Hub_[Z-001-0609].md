@@ -5,7 +5,7 @@ title: "α-Ketoglutarate Entry: The Glutamate Hub"
 aliases: [Z-001-0609]
 domain: 001
 tags: [zettel, alpha-ketoglutarate, glutamate, amino-acid-metabolism, transamination, krebs-cycle, conscious]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]]
 extraction-date: 2026-03-05
@@ -24,7 +24,7 @@ extraction-date: 2026-03-05
 Glutamate + NAD⁺ + H₂O → α-Ketoglutarate + NADH + NH₄⁺
 ```
 - **Enzyme:** Glutamate dehydrogenase
-- **Location:** [[KEYWORD-Mitochondria|mitochondria]]l matrix
+- **Location:** l matrix
 - **Direct entry** — no intermediate steps
 
 ### 2. Proline → Glutamate → α-Ketoglutarate
@@ -56,12 +56,12 @@ Histidine → Urocanate → Formiminoglutamate (FIGLU) → Glutamate → α-Keto
 - **Carbon skeleton:** α-Ketoglutarate feeds directly into Krebs cycle
 
 ### Clinical Connections
-- **Glutaric aciduria type I:** Defect in glutaryl-CoA dehydrogenase (lysine/tryptophan/ hydroxylysine [[KEYWORD-Metabolism|metabolism]])
+- **Glutaric aciduria type I:** Defect in glutaryl-CoA dehydrogenase (lysine/tryptophan/ hydroxylysine )
 - **Hyperprolinemia:** PRODH deficiency, neurotoxic effects
 - **FIGLU excretion:** Folate deficiency marker
 
 ### Research Applications
-- **[[KEYWORD-Insulin|insulin]] secretion:** α-Ketoglutarate signals in β-cells
+- ** secretion:** α-Ketoglutarate signals in β-cells
 - **Hypoxia response:** Prolyl hydroxylases use α-ketoglutarate
 - **Epigenetics:** α-Ketoglutarate is a cofactor for TET enzymes (DNA demethylation)
 
@@ -71,5 +71,5 @@ Histidine → Urocanate → Formiminoglutamate (FIGLU) → Glutamate → α-Keto
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Alpha_Keto_Acids_Metabolic_Intermediates_[Z-001-0500]|Z-001-0500]]

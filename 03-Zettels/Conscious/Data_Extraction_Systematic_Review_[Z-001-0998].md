@@ -5,7 +5,7 @@ title: Data Extraction for Systematic Reviews — Forms, Software, and Missing D
 aliases: [Z-001-0998]
 domain: 001
 tags: [zettel, systematic-review, data-extraction, extraction-form, covidence, distiller-sr, missing-data, pilot-testing, conscious]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]]
 status: conscious
@@ -404,7 +404,7 @@ If skewed: More complex formulas available
 6. Use appropriate software
 7. Maintain version control
 
-**[[KEYWORD-Clinical|clinical]] Pearl:** Data extraction errors propagate into meta-analysis results. Invest in rigorous extraction procedures—quality control here pays dividends in validity.
+** Pearl:** Data extraction errors propagate into meta-analysis results. Invest in rigorous extraction procedures—quality control here pays dividends in validity.
 
 ---
 

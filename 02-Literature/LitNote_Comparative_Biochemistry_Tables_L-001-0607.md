@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Aldoses/ketoses reference, amino acid classification, organic acids, Krebs intermediates
 status: extracted
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -56,8 +56,8 @@ These reference tables provide:
 3. [[Organic_Acids_Structures_Functions_[Z-001-1116].md]]
 
 ## Related References
-- [[MOC-Metabolomics-Training]]
-- [[MOC-Metabolomics-Analysis]]
+- 
+- 
 
 ---
 

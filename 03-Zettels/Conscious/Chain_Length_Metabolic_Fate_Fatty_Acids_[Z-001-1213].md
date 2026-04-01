@@ -4,7 +4,7 @@ type: zettel
 title: Chain Length and Metabolic Fate of Fatty Acids
 domain: 001
 tags: [zettel, chain-length, scfa, mcfa, lcfa, fatty-acid-metabolism, ketones]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]]"
 status: conscious
@@ -24,7 +24,7 @@ The number of carbons in a fatty acid chain determines its absorption, transport
 |----------|---------|----------|--------------|
 | **SCFA** | < 6 | Butyrate (C4), Propionate (C3), Acetate (C2) | Gut bacterial production |
 | **MCFA** | 6-12 | Caprylic (C8), Capric (C10), Lauric (C12) | Rapid absorption, ketogenic |
-| **LCFA** | 13-21 | Palmitic (C16), Oleic (C18), EPA (C20) | Standard [[KEYWORD-Metabolism|metabolism]] |
+| **LCFA** | 13-21 | Palmitic (C16), Oleic (C18), EPA (C20) | Standard  |
 | **VLCFA** | > 22 | Lignoceric (C24), Nervonic (C24:1) | Peroxisomal metabolism |
 
 ---
@@ -80,7 +80,7 @@ The number of carbons in a fatty acid chain determines its absorption, transport
 - No carnitine shuttle needed
 
 **β-Oxidation:**
-- Rapid [[KEYWORD-Mitochondria|mitochondria]]l entry
+- Rapid l entry
 - No CPT-I required
 - Rapid ketone production
 
@@ -138,7 +138,7 @@ The number of carbons in a fatty acid chain determines its absorption, transport
 
 **β-Oxidation:**
 - Carnitine shuttle required (CPT-I/II)
-- Standard [[KEYWORD-Mitochondria|mitochondrial]] oxidation
+- Standard  oxidation
 - Major energy source
 
 ---
@@ -221,4 +221,4 @@ The number of carbons in a fatty acid chain determines its absorption, transport
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

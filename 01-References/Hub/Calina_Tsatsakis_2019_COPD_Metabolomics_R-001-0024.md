@@ -17,7 +17,7 @@ status: pending
 aliases: [R-001-0024, Calina_2019, COPD_Metabolomics]
 domain: 001
 tags: [reference, copd, metabolomics, metabolic-fingerprint, chronic-disease, tier-2]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 

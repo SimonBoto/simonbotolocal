@@ -6,14 +6,14 @@ aliases: [Z-001-1092, Evolutionary-Glycolysis]
 domain: 001
 domain-name: Evolutionary Biochemistry
 tags: [zettel, evolution, glycolysis, ancient, origins]
-parent-moc: [[MOC-Evolutionary-Biochemistry]]
+parent-moc: 
 source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
 source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
 confidence: high
 created: 2026-03-08
 ---
 
-# Evolutionary Origins Glycolysis Ancient [[KEYWORD-Metabolism|metabolism]]
+# Evolutionary Origins Glycolysis Ancient 
 
 ## Overview
 Glycolysis is one of the most ancient metabolic pathways, conserved across all domains of life—bacteria, archaea, and eukaryotes—suggesting it evolved early in the history of life.
@@ -82,7 +82,7 @@ Glycolysis is one of the most ancient metabolic pathways, conserved across all d
 ### Eukaryotic Refinement
 - Compartmentalization (cytosol)
 - Better regulation
-- Integration with [[KEYWORD-Mitochondria|mitochondria]]
+- Integration with 
 
 ## The Deep Time Perspective
 
@@ -93,7 +93,7 @@ Glycolysis is one of the most ancient metabolic pathways, conserved across all d
 | **First life** | 3.5-4.0 | Microfossils, isotopes |
 | **Glycolysis evolves** | ~3.5 | Universal distribution |
 | **Oxygenic photosynthesis** | 2.4 | Great Oxidation Event |
-| **Aerobic respiration** | 2.0+ | [[KEYWORD-Mitochondria|mitochondrial]] evolution |
+| **Aerobic respiration** | 2.0+ |  evolution |
 
 ### Implications
 - Glycolysis ~1 billion years older than oxygenic metabolism
@@ -116,12 +116,12 @@ Glycolysis is one of the most ancient metabolic pathways, conserved across all d
 
 ## Related
 - [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_[Z-001-1088].md]]
-- [[MOC-Evolutionary-Biochemistry]]
-- [[MOC-Glycolysis-PPP]]
+- 
+- 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

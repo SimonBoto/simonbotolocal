@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Synthesis of 8-week bootcamp, integration of all training modules, MOC connections
 status: extracted
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -65,14 +65,14 @@ This comprehensive training curriculum has been extracted into:
 ## MOC Integration
 
 All zettels connect to existing MOCs:
-- [[MOC-Metabolomics-Training]] — Curriculum hub
-- [[MOC-Clinical-Protocols]] — Operations and communication
-- [[MOC-Metabolomics-Analysis]] — OAT interpretation
-- [[MOC-Mitochondrial-Function]] — Energy metabolism
-- [[MOC-Vitamin-D-Metabolism]] — D-PTH axis
-- [[MOC-Methylation-One-Carbon]] — Folate-B12
-- [[MOC-Nutrition]] — Fatty acids, Mediterranean diet
-- [[MOC-Research-Methods]] — Evidence base
+-  — Curriculum hub
+-  — Operations and communication
+-  — OAT interpretation
+-  — Energy metabolism
+-  — D-PTH axis
+-  — Folate-B12
+-  — Fatty acids, Mediterranean diet
+-  — Evidence base
 
 ## Clinical Application
 
@@ -94,7 +94,7 @@ This curriculum enables:
 
 ## Related References
 - All 10 LitNotes from CGPT-0022 extraction
-- [[MOC-Metabolomics-Training]]
+- 
 
 ---
 

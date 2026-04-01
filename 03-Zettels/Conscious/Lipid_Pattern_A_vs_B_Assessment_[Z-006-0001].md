@@ -5,7 +5,7 @@ title: Lipid Pattern A vs Pattern B Assessment
 aliases: [Z-006-0001, Lipid Pattern, Pattern A, Pattern B, LDL Phenotype]
 domain: 006
 tags: [zettel, biomarker, lipid-metabolism, status/optimal, clinical-protocol]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 biomarker-type: lipid-pattern
 target-ratio: LDL/ApoB >1.2 = Pattern A
 status: conscious
@@ -78,7 +78,7 @@ $$
 
 ---
 
-## 🔗 Connected [[KEYWORD-Biomarker|biomarker]]s
+## 🔗 Connected s
 
 **Insulin Resistance:**
 - [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (Pattern B strongly associated with IR)
@@ -90,7 +90,7 @@ $$
 - Z-006-0003 (Small dense LDL — sdLDL) — *link pending*
 
 **Mechanism:**
-- [[Phenotype_Mapping_[[KEYWORD-Metabolomics|metabolomics]]_Z-001-0018.md]] — Lipotoxicity (IR → hepatic overproduction of VLDL → Pattern B)
+- _Z-001-0018.md]] — Lipotoxicity (IR → hepatic overproduction of VLDL → Pattern B)
 - [[MAPK_Mitogenic_Pathway_[Z-001-0016]]] — Mitochondrial dysfunction (impaired lipid oxidation)
 
 ---
@@ -177,10 +177,10 @@ patient_id,visit,ldl_c_mg_dl,apo_b_mg_dl,ldl_apob_ratio,pattern_type,tg_hdl_rati
 
 ---
 
-*Source: [[Ref_Austin_Pattern_B_1988]], [[Ref_Berneis_LDL_Phenotypes_2002]], [[Ref_Otvos_NMR_Lipoprofile_2002]]*
+*Source: , , *
 *Created: 2026-02-26 | Domain: 006 | Status: Conscious*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

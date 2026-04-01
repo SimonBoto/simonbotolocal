@@ -15,7 +15,7 @@ domain: 001
 tags: [litnote, sirolimus, rapamycin, mtor, mtorc1, mitochondria, mitochondrial-toxicity, pgc-1a, oxphos, ros]
 source: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_[CGPT-0189]]]"
 status: extracted
-parent-moc: [[MOC-mTOR-Signaling]]
+parent-moc: 
 extraction-date: 2026-03-02
 ---
 
@@ -176,9 +176,9 @@ Sirolimus disrupts this balance by suppressing biogenesis while promoting cleara
 
 ## Related References
 - [[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]] — Metabolic side effects
-- [[MOC-mTOR-Signaling]] — Parent MOC
-- [[MOC-Mitochondrial-Function]] — Toxicity mechanisms
-- [[MOC-Clinical-Protocols]] — Patient monitoring
+-  — Parent MOC
+-  — Toxicity mechanisms
+-  — Patient monitoring
 
 ---
 

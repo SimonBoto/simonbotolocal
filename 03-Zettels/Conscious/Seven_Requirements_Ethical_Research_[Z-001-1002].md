@@ -5,13 +5,13 @@ title: Seven Requirements for Ethical Clinical Research — Emanuel Framework
 aliases: [Z-001-1002]
 domain: 001
 tags: [zettel, research-ethics, emanuel, seven-requirements, informed-consent, scientific-validity, risk-benefit, irb, conscious]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]]
 status: conscious
 ---
 
-# Seven Requirements for Ethical [[KEYWORD-Clinical|clinical]] [[KEYWORD-Research|research]] — Emanuel Framework
+# Seven Requirements for Ethical   — Emanuel Framework
 
 ## Overview
 
@@ -35,7 +35,7 @@ The research must enhance health or increase knowledge significantly.
 - Is the research question worth the risks?
 
 **Examples:**
-- **Ethical:** Testing new [[KEYWORD-Cancer|cancer]] therapy with promising preclinical data
+- **Ethical:** Testing new  therapy with promising preclinical data
 - **Unethical:** Repeating well-established findings without justification
 
 ### 2. Scientific Validity

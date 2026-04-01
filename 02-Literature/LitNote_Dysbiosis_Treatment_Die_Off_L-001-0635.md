@@ -8,7 +8,7 @@ journal: ChatGPT Archive
 tier: 2
 relevance: Critical — Clinical management of dysbiosis, herbal antimicrobials, patient monitoring
 status: extracted
-parent-moc: [[MOC-Gut-Health]]
+parent-moc: 
 extraction-date: 2026-03-09
 ---
 
@@ -67,8 +67,8 @@ extraction-date: 2026-03-09
 3. [[Herbal_Antimicrobials_Dysbiosis_Protocol_[Z-001-1223].md]]
 
 ## Related
-- [[MOC-Gut-Health]]
-- [[MOC-Clinical-Protocols]]
+- 
+- 
 
 ---
 *Extracted: 2026-03-09*

@@ -5,7 +5,7 @@ title: SHBG Physiology and Clinical Significance — Sex Hormone Binding Globuli
 aliases: [Z-001-0993]
 domain: 001
 tags: [zettel, shbg, sex-hormone-binding-globulin, testosterone, bioavailability, insulin-resistance, liver, conscious]
-parent-moc: [[MOC-Endocrine-Physiology]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Male_Hormone_Assessment_Scenarios_L-001-0578]]
 status: conscious
@@ -77,7 +77,7 @@ Bioavailable Testosterone = Free + Albumin-bound (~40-50%)
 
 | Factor | Mechanism | Clinical Context |
 |--------|-----------|------------------|
-| **[[KEYWORD-Insulin|insulin]]** | Inhibits hepatic synthesis | Insulin resistance, obesity, type 2 diabetes |
+| **** | Inhibits hepatic synthesis | Insulin resistance, obesity, type 2 diabetes |
 | **Androgens** | Suppress production | Testosterone therapy, anabolic steroids |
 | **IGF-1** | Inhibits synthesis | Acromegaly, high growth hormone |
 | **Hypothyroidism** | Reduced synthesis | Low thyroid function |
@@ -158,7 +158,7 @@ Free T = Total T / (1 + [SHBG binding constant] × [SHBG])
 
 **Online calculators available**
 
-### SHBG as [[KEYWORD-Biomarker|biomarker]]
+### SHBG as 
 
 **Independent of Testosterone:**
 - Low SHBG predicts:
@@ -264,6 +264,6 @@ Free T = Total T / (1 + [SHBG binding constant] × [SHBG])
 **Source:** CGPT-0438 — Hormone Scenarios
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

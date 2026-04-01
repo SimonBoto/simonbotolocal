@@ -5,14 +5,14 @@ title: "Lipid Metabolism & Fatty Acid Insulin Resistance Markers"
 aliases: [Z-001-0027, Lipid_Metabolism, Fatty_Acids, Omega3_Omega6, Desaturases]
 domain: 001
 tags: [zettel, lipid-metabolism, fatty-acids, omega-3, omega-6, desaturase, inflammation, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
 
-# Lipid [[KEYWORD-Metabolism|metabolism]] & Fatty Acid Insulin Resistance Markers
+# Lipid  & Fatty Acid Insulin Resistance Markers
 
 ## Core Claim
 **Fatty acid metabolism and desaturase activity generate specific biomarker patterns** — omega-3/omega-6 ratios, desaturase indices, and eicosanoid precursors that predict insulin resistance and inflammatory status.
@@ -88,7 +88,7 @@ High omega-6:3 ratio → pro-inflammatory eicosanoids → insulin resistance →
 ### Balance Hypothesis
 High omega-6:3 ratio → AA dominance → pro-inflammatory eicosanoids → chronic inflammation → insulin resistance
 
-## [[KEYWORD-Vitamin_D|vitamin d]] Connection
+##  Connection
 
 ### VitD-Fatty Acid Interactions
 | Mechanism | Effect |
@@ -105,14 +105,14 @@ High-dose VitD → improved omega-6:3 balance (via inflammation reduction) → i
 
 ### Upstream
 - [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026.md]] — Lipid-induced IR mechanism
-- [[Savage_etal_2005_IR_Mechanisms_R-001-0035]] — IR inflammation link
+-  — IR inflammation link
 
 ### Downstream
 - [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]] — Fatty acid oxidation markers
-- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]] — VitD anti-inflammatory effects
+- -Mechanisms]] — VitD anti-inflammatory effects
 
 ### Cross-Domain
-- [[MOC-PhD-METHAP-Trial]] — Fatty acid panel as exploratory endpoint
+-  — Fatty acid panel as exploratory endpoint
 
 ## Clinical Application
 
@@ -134,15 +134,15 @@ High-dose VitD → improved omega-6:3 balance (via inflammation reduction) → i
 
 ## See Also
 - [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] — Source (Subsection 2.3)
-- [[Kroger_Schulze_2012_Desaturase_T2D_R-001-0031]] — Desaturase mechanisms
-- [[Patterson_etal_2012_Omega6_Health_R-001-0033]] — Omega-6:3 ratio
-- [[Tsilimidos_etal_2019_Fatty_Acids_Metabolomics_R-001-0036]] — Methodology
+-  — Desaturase mechanisms
+-  — Omega-6:3 ratio
+-  — Methodology
 
 ---
 *Confidence: High* — Established fatty acid-IR associations  
 *Next Review: After fatty acid panel analysis in METHAP cohort*
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

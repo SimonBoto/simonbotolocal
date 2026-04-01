@@ -238,4 +238,4 @@ In summary, while the current design can provide insights into the metabolites a
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

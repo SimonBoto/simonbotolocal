@@ -5,13 +5,13 @@ title: DAO Diamine Oxidase — Histamine Metabolism and Intestinal Function
 aliases: [Z-001-1009]
 domain: 001
 tags: [zettel, dao, diamine-oxidase, histamine, histaminase, histamine-intolerance, intestinal-barrier, h2o2, conscious]
-parent-moc: [[MOC-Enzyme-Pharmacology]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_MAO_DAO_Enzymes_L-001-0582]]
 status: conscious
 ---
 
-# DAO Diamine Oxidase — Histamine [[KEYWORD-Metabolism|metabolism]] and Intestinal Function
+# DAO Diamine Oxidase — Histamine  and Intestinal Function
 
 ## Overview
 
@@ -244,7 +244,7 @@ Histamine + O2 + H2O → Imidazoleacetaldehyde + NH3 + H2O2
 
 ## Research Frontiers
 
-### DAO as [[KEYWORD-Biomarker|biomarker]]
+### DAO as 
 
 **Potential Applications:**
 - Intestinal permeability marker
@@ -287,7 +287,7 @@ Histamine + O2 + H2O → Imidazoleacetaldehyde + NH3 + H2O2
 **Source:** CGPT-0258 — MAOIs and DAO Interaction
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/CRP_[B-002-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- /CRP_[B-002-0001]|Biomarker Family Guide]]
+- 
 

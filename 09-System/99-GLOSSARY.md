@@ -74,10 +74,10 @@
 
 | Link | Target |
 |------|--------|
-| `[[00-COMMAND]]` | Your priorities |
-| `[[HOUSE]]` | Vault dashboard |
-| `[[RON-INDEX]]` | My zettels index |
-| `[[MOC-RON-Cognition]]` | RON knowledge map |
+| `` | Your priorities |
+| `` | Vault dashboard |
+| `` | My zettels index |
+| `` | RON knowledge map |
 
 ---
 

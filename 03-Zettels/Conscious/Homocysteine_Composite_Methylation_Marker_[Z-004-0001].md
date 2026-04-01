@@ -5,7 +5,7 @@ title: Homocysteine Composite Methylation Status Marker
 aliases: [Z-004-0001, Homocysteine, Methylation Status, One-Carbon Marker]
 domain: 004
 tags: [zettel, biomarker, methylation, status/optimal, clinical-protocol, phd-methap]
-parent-moc: [[MOC-Methylation-One-Carbon]]
+parent-moc: 
 biomarker-type: composite-methylation-marker
 target-range: <10 μmol/L
 status: conscious
@@ -20,7 +20,7 @@ source-litnote: Synthesized from clinical practice
 
 # Homocysteine — Composite Methylation Status Marker
 
-**Homocysteine** is a sulfur-containing amino acid that accumulates when methylation is impaired. It's a **composite marker** — elevated homocysteine indicates dysfunction in B12, folate, B6, or iron [[KEYWORD-Metabolism|metabolism]]. **If homocysteine is high, methylation is broken.**
+**Homocysteine** is a sulfur-containing amino acid that accumulates when methylation is impaired. It's a **composite marker** — elevated homocysteine indicates dysfunction in B12, folate, B6, or iron . **If homocysteine is high, methylation is broken.**
 
 ---
 
@@ -48,7 +48,7 @@ source-litnote: Synthesized from clinical practice
 **Cofactor Dependencies:**
 - Z-003-0010 (Iron required for methionine synthase) — *link pending*
 - Z-003-0011 (Iron deficiency → elevated homocysteine) — *link pending*
-- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md]] — [[KEYWORD-Vitamin_D|vitamin d]] supports methylation via calcium signaling
+- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md]] —  supports methylation via calcium signaling
 
 **Clinical Outcomes:**
 - Elevated homocysteine → endothelial dysfunction
@@ -96,10 +96,10 @@ Homocysteine ──[BHMT: betaine]──> Methionine
 
 ---
 
-*Source: [[Ref_Miller_Homocysteine_CVD_2000]], [[Ref_Stover_One_Carbon_2004]]*
+*Source: , *
 *Created: 2026-02-26 | Domain: 004 | Status: Conscious*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

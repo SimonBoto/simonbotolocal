@@ -6,7 +6,7 @@ title: MCV — Mean Corpuscular Volume
 aliases: [Z-001-1003, MCV, Mean-Corpuscular-Volume, RBC-Size]
 domain: 001
 tags: [zettel, biomarker, mcv, rbc-size, anemia-classification]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

@@ -5,13 +5,13 @@ title: Cholesterol Synthesis — Mevalonate Pathway
 aliases: [Cholesterol-Synthesis, Mevalonate, HMG-CoA-Reductase]
 domain: 001
 tags: [zettel, cholesterol, synthesis, mevalonate, hmg-coa-reductase]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Cholesterol|cholesterol]] Synthesis — Mevalonate Pathway
+#  Synthesis — Mevalonate Pathway
 
 > Cholesterol is synthesized de novo through the mevalonate pathway, with HMG-CoA reductase as the rate-limiting enzyme subject to feedback inhibition and statin blockade.
 
@@ -54,7 +54,7 @@ Lanosterol → Cholesterol (27C)
 - Phosphorylation inactivates
 - Dephosphorylation activates
 
-## [[KEYWORD-Clinical|clinical]] Significance
+##  Significance
 
 **Endogenous vs. Dietary:**
 - ~50% from synthesis
@@ -72,4 +72,4 @@ Lanosterol → Cholesterol (27C)
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

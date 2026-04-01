@@ -5,7 +5,7 @@ title: Glucose Discovery — Andreas Marggraf (1747)
 aliases: [Marggraf, Glucose-1747, Sugar-Isolation]
 domain: 001
 tags: [zettel, glucose, history, 1747, marggraf, discovery]
-parent-moc: [[MOC-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Glucose_History_L-001-0208]]
 extraction-date: 2026-03-01
@@ -48,8 +48,8 @@ extraction-date: 2026-03-01
 **What Wasn't Known (1747):**
 - Chemical formula (C6H12O6)
 - Structure or stereochemistry
-- Physiological role in [[KEYWORD-Metabolism|metabolism]]
-- Connection to [[KEYWORD-Diabetes|diabetes]]
+- Physiological role in 
+- Connection to 
 - Difference from other sugars (fructose, galactose)
 
 **Timeline to Understanding:**
@@ -57,7 +57,7 @@ extraction-date: 2026-03-01
 - 19th C: Chemical formula
 - 1850s: Bernard's glycogen discovery
 - 1902: Fischer's stereochemistry
-- 1921: [[KEYWORD-Insulin|insulin]] connection
+- 1921:  connection
 
 ## Significance
 
@@ -77,4 +77,4 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

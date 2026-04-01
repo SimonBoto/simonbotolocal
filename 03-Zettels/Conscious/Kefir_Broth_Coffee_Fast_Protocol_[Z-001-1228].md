@@ -4,7 +4,7 @@ type: zettel
 title: Kefir-Broth-Coffee Fast — Therapeutic Gut Reset Protocol
 domain: 001
 tags: [zettel, fasting, kefir, bone-broth, coffee, gut-reset, microbiome]
-parent-moc: [[MOC-Fasting-Protocols]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Fasting_Fermentation_L-001-0637]]"
 status: conscious
@@ -39,7 +39,7 @@ A 72-hour modified fast combining fermented probiotics (kefir), gut-healing coll
 - **Glycine:** Phase 2 liver detox
 - **Glutamine:** Enterocyte fuel
 - **Proline:** Mucosal healing
-- **Electrolytes:** Sodium, potassium, calcium, [[KEYWORD-Magnesium|magnesium]]
+- **Electrolytes:** Sodium, potassium, calcium, 
 - **Minerals:** From bones (calcium, phosphorus, magnesium)
 
 **Dosing:** 2-4 cups daily (sip throughout day)
@@ -66,7 +66,7 @@ Remove fiber/complex carbs → Starve pathogenic bacteria
     ↓
 Kefir probiotics → Reseed beneficial species
     ↓
-Bone broth → Repair barrier, reduce [[KEYWORD-Inflammation|inflammation]]
+Bone broth → Repair barrier, reduce 
     ↓
 Coffee motility → Prevent stagnation/SIBO risk
 ```
@@ -76,7 +76,7 @@ Coffee motility → Prevent stagnation/SIBO risk
 |--------|-----------|---------|
 | **Ketosis** | Low carb + coffee | Fat burning, mental clarity |
 | **Autophagy** | Protein restriction | Cellular cleanup (mild) |
-| **[[KEYWORD-Insulin|insulin]] sensitivity** | Fasting state | Improved glucose control |
+| ** sensitivity** | Fasting state | Improved glucose control |
 | **Gut rest** | Easy digestion | Reduced inflammation |
 
 ---

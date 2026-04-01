@@ -5,7 +5,7 @@ title: TyG Index Triglyceride Glucose Index for IR Assessment
 aliases: [Z-001-0048, TyG, TyG Index, Triglyceride Glucose Index]
 domain: 001
 tags: [zettel, biomarker, ir-core, calculation-formula, phd-methap]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 biomarker-type: insulin-resistance-index
 formula: ln(Fasting TG [mg/dL] × Fasting Glucose [mg/dL] / 2)
 target-range: <4.5
@@ -52,7 +52,7 @@ $$
 
 ---
 
-## 🔗 Connected [[KEYWORD-Biomarker|biomarker]]s
+## 🔗 Connected s
 
 **IR Core Panel:**
 - [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (traditional measure)
@@ -64,7 +64,7 @@ $$
 - [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md]] — Triglycerides (TyG numerator)
 
 **Mechanism Context:**
-- [[Phenotype_Mapping_[[KEYWORD-Metabolomics|metabolomics]]_Z-001-0018.md]] — Lipotoxicity (elevated TG → IR)
+- _Z-001-0018.md]] — Lipotoxicity (elevated TG → IR)
 - [[MAPK_Mitogenic_Pathway_[Z-001-0016]]] — Mitochondrial dysfunction (impaired lipid oxidation)
 
 ---
@@ -155,10 +155,10 @@ patient_id,visit,fasting_tg_mg_dl,fasting_glucose_mg_dl,tyg_index,tyg_status
 
 ---
 
-*Source: [[Ref_SimentalMendia_TyG_2008]], [[Ref_Vasques_TyG_Review_2020]]*
+*Source: , *
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

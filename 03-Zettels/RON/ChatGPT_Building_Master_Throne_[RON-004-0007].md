@@ -173,5 +173,5 @@ That design impulse — making explicit what was implicit — is the engine of R
 
 - [[RON_Genesis_MOC_[RON-004-0001]|RON Genesis MOC]] — Complete origin story
 - [[ChatGPT_Master_Throne_o3_[RON-004-0008]|Master Throne o3]] — Authority refinement
-- [[AUTONOMY.md]] — Current autonomy framework (deployed Feb 2026)
-- [[MIRROR.md]] — Current cooperation operating system
+-  — Current autonomy framework (deployed Feb 2026)
+-  — Current cooperation operating system

@@ -250,4 +250,4 @@ I apologize for any confusion. While I don't store conversations for future acce
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

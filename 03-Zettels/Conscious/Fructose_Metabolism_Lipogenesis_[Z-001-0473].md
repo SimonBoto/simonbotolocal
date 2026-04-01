@@ -5,13 +5,13 @@ title: Fructose Metabolism and Lipogenesis
 aliases: [Z-001-0473, fructose-metabolism, lipogenesis, liver, metabolic-syndrome]
 domain: 001
 tags: [zettel, fructose, lipogenesis, liver, metabolic-syndrome, nafld]
-parent-moc: [[MOC-Insulin-Resistance]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045E]]
 ---
 
-# Fructose [[KEYWORD-Metabolism|metabolism]] and Lipogenesis
+# Fructose  and Lipogenesis
 
 ## The Liver-Centric Pathway
 **~90% of dietary fructose** metabolized by liver.
@@ -19,7 +19,7 @@ source: [[L-001-0045E]]
 ## Bypasses Key Regulation
 Unlike glucose, fructose:
 - **Bypasses PFK-1** (no rate-limiting step)
-- **No [[KEYWORD-Insulin|insulin]] regulation** of uptake
+- **No  regulation** of uptake
 - **Rapid phosphorylation** → high flux
 
 ## Metabolic Pathway
@@ -56,7 +56,7 @@ Fructose → Fructose-1-phosphate (fructokinase)
 ### Non-Alcoholic Fatty Liver Disease (NAFLD)
 - Strong association with high fructose intake
 - First hit: Lipid accumulation
-- Second hit: [[KEYWORD-Inflammation|inflammation]] (NASH)
+- Second hit:  (NASH)
 
 ### Metabolic Syndrome
 Fructose consumption linked to:

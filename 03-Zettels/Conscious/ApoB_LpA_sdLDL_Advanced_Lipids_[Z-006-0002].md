@@ -5,7 +5,7 @@ title: ApoB Lp(a) sdLDL Advanced Lipid Risk Markers
 aliases: [Z-006-0002, ApoB, Lp(a), sdLDL, Advanced Lipids]
 domain: 006
 tags: [zettel, biomarker, lipid-metabolism, status/optimal, phd-methap]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 biomarker-type: advanced-lipid-panel
 apo-b-target: <90 mg/dL
 lp-a-target: <30 mg/dL
@@ -65,7 +65,7 @@ connections:
 - [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md]] — Lipid Pattern A/B (sdLDL defines Pattern B)
 - [[TG_HDL_Ratio_IR_Marker_Z-001-0049.md]] — TG/HDL ratio (correlates with sdLDL)
 
-**[[KEYWORD-Insulin|insulin]] Resistance:**
+** Resistance:**
 - [[Metabolic_Syndrome_Criteria_Z-001-0050.md]] — Metabolic syndrome (drives Pattern B, ↑sdLDL)
 - IR → hepatic overproduction of VLDL → CETP-mediated TG exchange → sdLDL
 
@@ -130,12 +130,12 @@ patient_id,visit,apo_b_mg_dl,lp_a_mg_dl,sdldl_mg_dl,advanced_lipid_status
 > "Lp(a) is the genetic wildcard. I've seen patients with LDL-C 120 but Lp(a) 80 — their actual risk is like LDL-C 180. Always check Lp(a) once, especially if family history of early heart disease."
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarker]]s/Lipid_Ratios_[B-006-0001]|Lipid Ratios Family Guide]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/Individual/ApoB_Apolipoprotein_B_Atherogenic_Particles_[Z-006-0005]|ApoB — Atherogenic Particles]]
+- s/Lipid_Ratios_[B-006-0001]|Lipid Ratios Family Guide]]
+- /Individual/ApoB_Apolipoprotein_B_Atherogenic_Particles_[Z-006-0005]|ApoB — Atherogenic Particles]]
 - [[Biomarkers/Individual/LDL_Cholesterol_Low-Density_Lipoprotein_[Z-006-0001]|LDL Cholesterol]]
 - [[Biomarkers/Individual/Lp-a_Lipoprotein-a_Genetic_CV_Risk_[Z-006-0006]|Lp(a) — Genetic CV Risk]]
 
 ---
 
-*Source: [[Ref_Sniderman_ApoB_Superior_2003]], [[Ref_Erqou_LpA_Meta_2009]]*
+*Source: , *
 *Created: 2026-02-26 | Domain: 006 | Status: Conscious*

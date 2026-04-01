@@ -6,13 +6,13 @@ aliases: [Z-002-0604, ethics-risk-benefit]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, risk-assessment, emmanuel-seven]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]"
 confidence: high
 created: 2026-03-27
 ---
 
-# Favorable Risk-Benefit Ratio in [[KEYWORD-Research|research]] Ethics
+# Favorable Risk-Benefit Ratio in  Ethics
 
 Potential benefits must outweigh risks, with risks minimized to the extent possible. This assessment must be systematic, thorough, and ongoing throughout the research.
 
@@ -49,7 +49,7 @@ METHAP risk assessment:
 
 ## Links
 
-**Parent MOC:** [[MOC-Research-Ethics]]  
+**Parent MOC:**   
 **Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]  
 **Related:** [[Independent_Review_IRB_Ethics_[Z-002-0605].md]] — External risk assessment
 
@@ -59,4 +59,4 @@ METHAP risk assessment:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

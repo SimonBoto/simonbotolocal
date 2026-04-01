@@ -4,7 +4,7 @@ type: zettel
 title: Iodine Supplementation — Thyroid and Detox Protocol
 domain: 001
 tags: [zettel, iodine, thyroid, halogen-detox, immune, selenium-synergy]
-parent-moc: [[MOC-Thyroid-Health]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]]"
 status: conscious
@@ -58,7 +58,7 @@ Coupling → T3 (triiodothyronine), T4 (thyroxine)
 | **RDA** | 150 mcg | Maintenance | General population |
 | **Moderate** | 1-3 mg | 3-6 months | Thyroid support |
 | **High** | 12.5 mg | Supervised | Detox, chronic issues |
-| **Very high** | 50 mg | Specialist only | [[KEYWORD-Cancer|cancer]] protocols |
+| **Very high** | 50 mg | Specialist only |  protocols |
 
 ### Titration Schedule
 | Week | Dose | Notes |
@@ -85,8 +85,8 @@ Coupling → T3 (triiodothyronine), T4 (thyroxine)
 ### Important Co-Factors
 | Nutrient | Dose | Function |
 |----------|------|----------|
-| **Vitamin C** | 2-3 g | Iodine [[KEYWORD-Metabolism|metabolism]], antioxidant |
-| **[[KEYWORD-Magnesium|magnesium]]** | 400-600 mg | Thyroid enzyme cofactor |
+| **Vitamin C** | 2-3 g | Iodine , antioxidant |
+| **** | 400-600 mg | Thyroid enzyme cofactor |
 | **B-complex** | Standard | Energy, methylation |
 | **Zinc** | 15-30 mg | Thyroid hormone synthesis |
 | **Omega-3** | 1-2 g | Anti-inflammatory |

@@ -6,7 +6,7 @@ aliases: [Z-001-0060, IOM-Defensive-Response]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, IOM, scientific-resistance, institutional-inertia]
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 source: [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
 confidence: high
 created: 2026-03-01
@@ -15,7 +15,7 @@ status: conscious
 
 # IOM Defensive Response to Statistical Critique
 
-Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), the IOM (now National Academy of Medicine) maintained their 2010 calculations were "appropriate and based on available evidence." They cited [[KEYWORD-Safety|safety]] concerns (hypercalcemia risk) rather than addressing the statistical validity.
+Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), the IOM (now National Academy of Medicine) maintained their 2010 calculations were "appropriate and based on available evidence." They cited  concerns (hypercalcemia risk) rather than addressing the statistical validity.
 
 **IOM position:**
 - Defended methodology despite clear mathematical error
@@ -32,7 +32,7 @@ Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), 
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
+**Parent MOC:** -
 **Source:** [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
 **Related:** [[Vitamin_D_Toxicity_Myth_Persistence_[Z-001-0057]]], [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
 
@@ -42,4 +42,4 @@ Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), 
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

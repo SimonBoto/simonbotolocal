@@ -4,7 +4,7 @@ type: zettel
 title: Immunosenescence — Premature Immune Aging in Autoimmunity
 domain: 001
 tags: [zettel, immunosenescence, aging, autoimmunity, inflammaging, immune-dysfunction]
-parent-moc: [[MOC-Autoimmunity]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]]"
 status: conscious
@@ -20,7 +20,7 @@ status: conscious
 - Reduced response to novel antigens
 - Impaired vaccine efficacy
 - Increased infection susceptibility
-- Chronic low-grade [[KEYWORD-Inflammation|inflammation]] (inflammaging)
+- Chronic low-grade  (inflammaging)
 
 ---
 
@@ -52,7 +52,7 @@ status: conscious
 - Elevated IL-6, TNF-α, CRP
 - Self-sustaining cycle
 
-### 4. [[KEYWORD-Mitochondria|mitochondria]]l Dysfunction
+### 4. l Dysfunction
 - Reduced ATP production
 - Increased ROS generation
 - Further telomere damage
@@ -71,7 +71,7 @@ status: conscious
 - Shorter protection duration
 - Higher vaccine failure rates
 
-### [[KEYWORD-Cancer|cancer]] Risk
+###  Risk
 - Immune surveillance impairment
 - Increased lymphoma (SLE)
 - Skin cancer (immunosuppression)

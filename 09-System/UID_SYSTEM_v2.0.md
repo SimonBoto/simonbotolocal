@@ -189,7 +189,7 @@ aliases: [Z-001-0017, {{ShortName}}]
 domain: 001
 domain-name: Insulin_Signaling
 tags: [zettel, insulin, ...]
-parent-moc: [[MOC-001]]
+parent-moc: 
 ---
 ```
 

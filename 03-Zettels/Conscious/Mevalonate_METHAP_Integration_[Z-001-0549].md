@@ -5,7 +5,7 @@ title: Mevalonate Pathway — METHAP Integration
 aliases: [METHAP-CoQ10, Cholesterol-D3, Mitochondrial-Support]
 domain: 001
 tags: [zettel, methap, coq10, cholesterol, d3, mitochondrial]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Mevalonate_Pathway_L-001-0509]]
 extraction-date: 2026-03-01
@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 
 > The pathway connects to METHAP through cholesterol-D3 synthesis, CoQ10 requirements, and shared nutrient cofactors.
 
-## Cholesterol-[[KEYWORD-Vitamin_D|vitamin d]] Connection
+## Cholesterol- Connection
 
 **Biosynthesis:**
 ```
@@ -27,7 +27,7 @@ Acetyl-CoA → Cholesterol → 7-Dehydrocholesterol → UV-B → Vitamin D3
 ## CoQ10 as METHAP Component
 
 **Rationale:**
-- [[KEYWORD-Mitochondria|mitochondria]]l support
+- l support
 - Cardiovascular protection
 - Antioxidant function
 
@@ -42,7 +42,7 @@ Acetyl-CoA → Cholesterol → 7-Dehydrocholesterol → UV-B → Vitamin D3
 |----------|-----------|--------|
 | Mg | Enzyme cofactor | D3 activation |
 | B3 | HMGCR cofactor | Mitochondrial |
-| B5 | CoA synthesis | Energy [[KEYWORD-Metabolism|metabolism]] |
+| B5 | CoA synthesis | Energy  |
 | Zn | Squalene epoxidase | Immune function |
 
 ---
@@ -51,4 +51,4 @@ Acetyl-CoA → Cholesterol → 7-Dehydrocholesterol → UV-B → Vitamin D3
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -5,13 +5,13 @@ title: HDL Cholesterol — Reverse Cholesterol Transport
 aliases: [HDL, Reverse-Cholesterol-Transport, RCT, ABCA1]
 domain: 001
 tags: [zettel, hdl, reverse-cholesterol-transport, rct, abca1]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]]
 extraction-date: 2026-03-01
 ---
 
-# HDL [[KEYWORD-Cholesterol|cholesterol]] — Reverse Cholesterol Transport
+# HDL  — Reverse Cholesterol Transport
 
 > HDL mediates reverse cholesterol transport, removing excess cholesterol from peripheral tissues and delivering it to the liver for excretion.
 
@@ -61,4 +61,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

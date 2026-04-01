@@ -6,7 +6,7 @@ title: Adipic Acid — Fatty Acid Oxidation & Insulin Resistance Marker
 aliases: [Z-012-0111, Adipic-Acid, Adipate, Fatty-Acid-Oxidation, Insulin-Resistance]
 domain: 012
 tags: [zettel, biomarker, adipic, fatty-acid-oxidation, insulin-resistance, dicarboxylic]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

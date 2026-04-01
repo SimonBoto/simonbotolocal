@@ -5,13 +5,13 @@ title: Nintedanib Pharmacokinetics and Metabolism — Esterases, UGTs, and CYP3A
 aliases: [Z-001-1011]
 domain: 001
 tags: [zettel, nintedanib, pharmacokinetics, metabolism, esterase, ugt, glucuronidation, cyp3a4, drug-interactions, conscious]
-parent-moc: [[MOC-Enzyme-Pharmacology]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Nintedanib_Ofev_TKI_L-001-0583]]
 status: conscious
 ---
 
-# Nintedanib Pharmacokinetics and [[KEYWORD-Metabolism|metabolism]] — Esterases, UGTs, and CYP3A4
+# Nintedanib Pharmacokinetics and  — Esterases, UGTs, and CYP3A4
 
 ## Overview
 
@@ -53,7 +53,7 @@ UGT-mediated glucuronidation
 - Hydrolyze ester bond
 - Form pharmacologically active metabolite
 
-**[[KEYWORD-Clinical|clinical]] Significance:**
+** Significance:**
 - Major pathway (~25% of dose)
 - Esterase inhibitors could increase nintedanib levels
 - Limited clinically significant interactions known
@@ -300,4 +300,4 @@ BIBF 1202-glucuronide (inactive)
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

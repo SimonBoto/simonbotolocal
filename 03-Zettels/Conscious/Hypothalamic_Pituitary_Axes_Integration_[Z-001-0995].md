@@ -5,7 +5,7 @@ title: Hypothalamic-Pituitary Axes Integration — HPA, HPG, and HPT Coordinatio
 aliases: [Z-001-0995]
 domain: 001
 tags: [zettel, hypothalamus, pituitary, hpa-axis, hpg-axis, hpt-axis, stress, cortisol, endocrine-integration, conscious]
-parent-moc: [[MOC-Endocrine-Physiology]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_HPG_Axis_Hormone_Cascade_L-001-0579]]
 status: conscious
@@ -21,7 +21,7 @@ The hypothalamus and pituitary gland serve as the command center for multiple en
 
 ### 1. HPA Axis (Hypothalamic-Pituitary-Adrenal)
 
-**Function:** Stress response, [[KEYWORD-Metabolism|metabolism]], immune modulation
+**Function:** Stress response, , immune modulation
 
 **Cascade:**
 ```
@@ -45,7 +45,7 @@ Negative feedback to hypothalamus and pituitary
 
 ### 2. HPG Axis (Hypothalamic-Pituitary-Gonadal)
 
-**Function:** Reproduction, sexual differentiation, [[KEYWORD-Bone_Health|bone health]]
+**Function:** Reproduction, sexual differentiation, 
 
 **Cascade (Male):**
 ```
@@ -102,7 +102,7 @@ Chronic Stress
     ↓
 ↑ CRH, ↑ ACTH, ↑ Cortisol
     ↓
-Multiple [[KEYWORD-Mechanism|mechanism]]s:
+Multiple s:
   1. Cortisol inhibits GnRH pulsatility
   2. CRH suppresses GnRH directly
   3. Cortisol reduces LH response to GnRH
@@ -296,4 +296,4 @@ Reversible with recovery
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

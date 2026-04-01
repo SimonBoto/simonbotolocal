@@ -4,7 +4,7 @@ type: zettel
 title: RA Telomerase Elevation and Compensatory Proliferation
 domain: 001
 tags: [zettel, ra, rheumatoid-arthritis, telomerase, proliferation, synovitis]
-parent-moc: [[MOC-Autoimmunity]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]]"
 status: conscious
@@ -25,8 +25,8 @@ status: conscious
 
 ## Interpretation: Compensatory Proliferation
 
-### [[KEYWORD-Mechanism|mechanism]]
-**Chronic Synovial [[KEYWORD-Inflammation|inflammation]]:**
+### 
+**Chronic Synovial :**
 - Persistent antigen stimulation (joint tissues)
 - T-cell activation and proliferation
 - High turnover of immune cells
@@ -101,7 +101,7 @@ status: conscious
 ## Related
 
 - [[SLE_Telomere_Findings_Disease_Activity_[Z-001-1174].md]]
-- [[IBD_Telomere_[[KEYWORD-Cancer|cancer]]_Risk_[Z-001-1176].md]]
+- _Risk_[Z-001-1176].md]]
 
 ---
 

@@ -5,7 +5,7 @@ title: BHB HDAC Inhibition and Epigenetic Effects
 aliases: [Z-001-0485, bhb, hdac, epigenetics, histone-acetylation]
 domain: 001
 tags: [zettel, bhb, hdac, epigenetics, histone, gene-expression, signaling]
-parent-moc: [[MOC-Ketogenesis]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045G]]
@@ -37,7 +37,7 @@ Chromatin relaxation → Gene expression changes
 
 ### Metabolic Efficiency
 **Upregulated genes:**
-- **[[KEYWORD-Mitochondria|mitochondria]]l biogenesis factors**
+- **l biogenesis factors**
 - **Fatty acid oxidation enzymes**
 - **Ketone body utilization enzymes**
 
@@ -61,9 +61,9 @@ Chromatin relaxation → Gene expression changes
 ## Clinical Implications
 
 ### Metabolic Diseases
-- **Type 2 diabetes:** HDAC inhibition improves [[KEYWORD-Insulin|insulin]] sensitivity
+- **Type 2 diabetes:** HDAC inhibition improves  sensitivity
 - **Obesity:** Enhanced metabolic gene expression
-- **NAFLD:** Improved [[KEYWORD-Mitochondria|mitochondrial]] function
+- **NAFLD:** Improved  function
 
 ### Neurodegeneration
 - **Alzheimer's:** HDAC inhibition may improve memory
@@ -76,7 +76,7 @@ Chromatin relaxation → Gene expression changes
 ## Related
 - [[BHB_Energy_Substrate_Brain_Heart_[Z-001-0484]]] BHB Energy Substrate
 - [[BHB_NLRP3_Inflammasome_Inhibition_[Z-001-0486]]] BHB NLRP3 Inhibition
-- [[MOC-Epigenetics]] (if exists)
+-  (if exists)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

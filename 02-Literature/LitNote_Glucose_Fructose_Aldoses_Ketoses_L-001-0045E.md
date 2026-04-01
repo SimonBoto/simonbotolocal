@@ -180,8 +180,8 @@ Fructose → Fructose-1-P → DHAP + Glyceraldehyde
 
 - [[L-001-0045D]] Triose Metabolism (fructose → trioses)
 - [[L-001-0045F]] Keto Acids and Organic Acids
-- [[MOC-Glycolysis-PPP]]
-- [[MOC-Insulin-Resistance]] (fructose link)
+- 
+-  (fructose link)
 
 ---
 

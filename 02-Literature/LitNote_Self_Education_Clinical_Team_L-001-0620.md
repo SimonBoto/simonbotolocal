@@ -15,7 +15,7 @@ domain: 001
 tags: [litnote, education, clinical-team, metabolomics, personalized-medicine, workflow]
 source: "[[CGPT_0311_Self_Education_Program_Plan_[CGPT-0311]]]"
 status: extracted
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -125,9 +125,9 @@ extraction-date: 2026-03-08
 - [[Socratic_Method_Clinical_Reasoning_[Z-001-1033].md]] — Learning approach
 
 **MOCs:**
-- [[MOC-Metabolomics-Training]] — Primary training domain
-- [[MOC-Research-Methods]] — Education methodology
-- [[MOC-Clinical-Protocols]] — Implementation frameworks
+-  — Primary training domain
+-  — Education methodology
+-  — Implementation frameworks
 
 ---
 

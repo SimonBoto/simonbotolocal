@@ -6,7 +6,7 @@ title: MCHC — Mean Corpuscular Hemoglobin Concentration
 aliases: [Z-001-1004, MCHC, Hemoglobin-Concentration, RBC-Density]
 domain: 001
 tags: [zettel, biomarker, mchc, hemoglobin-concentration, rbc]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

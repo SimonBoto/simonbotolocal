@@ -6,13 +6,13 @@ aliases: [Z-001-0572, Vitamin D Synthesis, Cholecalciferol, Secosteroid, UV Conv
 domain: 001
 domain-name: Vitamin Metabolism
 tags: [zettel, vitamin-d, secosteroid, cholesterol, 7-dehydrocholesterol, uv-light, calcitriol]
-parent-moc: [[MOC-Cholesterol-Quality]]
+parent-moc: 
 source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]]"
 confidence: high
 created: 2026-03-03
 ---
 
-# [[KEYWORD-Vitamin_D|vitamin d]] as Secosteroid — Synthesis and Activation
+#  as Secosteroid — Synthesis and Activation
 
 ## Core Concept
 
@@ -115,7 +115,7 @@ Gene transcription modulation
 
 **Target Genes:**
 - **Calcium absorption:** Calbindin, TRPV6 (intestine)
-- **Bone [[KEYWORD-Metabolism|metabolism]]:** Osteocalcin, RANKL
+- **Bone :** Osteocalcin, RANKL
 - **Immune function:** Cathelicidin, defensins
 - **Cell cycle:** P21, c-myc
 
@@ -174,7 +174,7 @@ Gene transcription modulation
 
 - [[Isoprenoids_Terpenes_Overview_[Z-001-0569]]] — Secosteroid classification
 - [[Cholesterol_Steroid_Hormone_Synthesis_[Z-001-0570]]] — Steroid context
-- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Metabolism]] — Detailed vitamin D MOC
+- -Metabolism]] — Detailed vitamin D MOC
 - [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]] — High-dose safety
 
 ---
@@ -188,4 +188,4 @@ Gene transcription modulation
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

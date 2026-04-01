@@ -5,13 +5,13 @@ title: Banting and Best — The 1921 Discovery of Insulin
 aliases: [Banting-Best, Insulin-Discovery-1921, Toronto-Team]
 domain: 001
 tags: [zettel, insulin, history, banting, best, 1921, discovery]
-parent-moc: [[MOC-Diabetes-History]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Insulin_History_L-001-0207]]
 extraction-date: 2026-03-01
 ---
 
-# Banting and Best — The 1921 Discovery of [[KEYWORD-Insulin|insulin]]
+# Banting and Best — The 1921 Discovery of 
 
 > In the summer of 1921, surgeon Frederick Banting and medical student Charles Best conducted experiments at the University of Toronto that led to the discovery of insulin, one of medicine's most important breakthroughs.
 
@@ -24,7 +24,7 @@ extraction-date: 2026-03-01
 - Age 29 at time of discovery
 
 **The Insight (October 1920):**
-- Reading article on pancreatic stones and [[KEYWORD-Diabetes|diabetes]]
+- Reading article on pancreatic stones and 
 - Hypothesis: Ligate pancreatic duct → acinar cells die → islets remain → extract hormone
 - Recognized islets produced the "anti-diabetic" factor
 - Unconventional background for discovery
@@ -39,7 +39,7 @@ extraction-date: 2026-03-01
 
 **Background:**
 - Medical student (22 years old)
-- BA in physiology and [[KEYWORD-Biochemistry|biochemistry]]
+- BA in physiology and 
 - Volunteer research assistant
 - Originally planned to be alternate with another student
 
@@ -123,5 +123,5 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Oleic_Acid_Metabolic_Benefits_[Z-001-0533]|Z-001-0533]]

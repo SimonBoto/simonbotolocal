@@ -768,4 +768,4 @@ Ilya Prigogine, a Nobel laureate, explored how time's unidirectional flow aligns
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

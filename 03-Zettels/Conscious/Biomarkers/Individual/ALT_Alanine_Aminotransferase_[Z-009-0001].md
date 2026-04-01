@@ -6,7 +6,7 @@ title: ALT — Alanine Aminotransferase
 aliases: [Z-009-0001, ALT, Alanine-Aminotransferase, SGPT, Liver-Enzyme]
 domain: 009
 tags: [zettel, biomarker, alt, liver, enzyme, hepatocellular]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

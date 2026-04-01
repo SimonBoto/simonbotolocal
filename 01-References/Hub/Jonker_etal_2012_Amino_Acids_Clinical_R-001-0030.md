@@ -17,7 +17,7 @@ status: pending
 aliases: [R-001-0030, Jonker_2012, Amino_Acids_Clinical]
 domain: 001
 tags: [reference, amino-acids, protein-metabolism, dietary]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 

@@ -5,7 +5,7 @@ title: CGPT Archive Extraction Protocol v2.0
 domain: 001
 domain-name: Protocols
 tags: [protocol, chatgpt-extraction, archive, zettelkasten, quality-assurance]
-parent-moc: [[MOC-Protocols]]
+parent-moc: 
 status: active
 created: 2026-03-03
 updated: 2026-03-03
@@ -42,7 +42,7 @@ git status --short | wc -l
 ```
 
 ### □ 3. MOC Existence Verification
-Before setting `parent-moc: [[MOC-XXX]]`, verify:
+Before setting `parent-moc: `, verify:
 ```bash
 ls /home/simon/Workspaces/TheOptimizedBrain/06-Structure/MOCs/MOC-XXX.md
 # If missing → Create MOC first OR use existing alternative
@@ -79,7 +79,7 @@ grep -r "^uid: Z-001" /home/simon/Workspaces/TheOptimizedBrain/03-Zettels/Consci
    - `type: lit-note` (NOT `litnote`)
    - `tier: 3` (for ChatGPT sources)
    - `relevance: High|Medium|Low — [justification]`
-   - `parent-moc: [[MOC-XXX]]` (must exist)
+   - `parent-moc: ` (must exist)
    - `status: extracted` (NOT `conscious`)
 3. Use "Core Concepts Extracted" structure
 4. All zettel links: `[[Title_[Z-XXX-XXXX].md]]`
@@ -89,7 +89,7 @@ grep -r "^uid: Z-001" /home/simon/Workspaces/TheOptimizedBrain/03-Zettels/Consci
 2. Fill ALL YAML fields:
    - `domain-name: [Human Readable]`
    - `confidence: high|medium|low`
-   - `source: [[LitNote_Title_L-XXX-XXXX]]`
+   - `source: `
 3. All links: Full filename format
 4. NO `status: conscious` in YAML (goes in footer)
 
@@ -151,9 +151,9 @@ tier: 3  ← REQUIRED
 relevance: High — Justification here  ← REQUIRED
 domain: XXX
 tags: [litnote, topic, subtopic]
-source: "[[CGPT_XXXX_Title_[CGPT-XXXX]]]"
+source: "]"
 status: extracted  ← REQUIRED (NOT 'conscious')
-parent-moc: [[MOC-XXX]]  ← REQUIRED (must exist)
+parent-moc:   ← REQUIRED (must exist)
 extraction-date: 2026-MM-DD
 ---
 ```
@@ -168,8 +168,8 @@ aliases: [Z-XXX-XXXX, ShortSlug]
 domain: XXX
 domain-name: Human Readable Name  ← REQUIRED
 tags: [zettel, topic, subtopic]
-parent-moc: [[MOC-XXX]]  ← REQUIRED (must exist)
-source: "[[LitNote_Title_L-XXX-XXXX]]"  ← REQUIRED
+parent-moc:   ← REQUIRED (must exist)
+source: ""  ← REQUIRED
 confidence: high  ← REQUIRED
 created: 2026-MM-DD
 ---
@@ -195,7 +195,7 @@ created: 2026-MM-DD
 If any of these are found, extraction is NOT complete:
 
 - [ ] Any `type: litnote` (must be `lit-note`)
-- [ ] Any bare UID link `[[Z-XXX-XXXX]]`
+- [ ] Any bare UID link ``
 - [ ] Any missing required YAML field
 - [ ] Any `status: conscious` in YAML header
 - [ ] Any file named `Z-XXX-XXXX_Title.md`

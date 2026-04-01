@@ -6,7 +6,7 @@ aliases: [Z-001-1084, Adenine]
 domain: 001
 domain-name: Nucleotide Metabolism
 tags: [zettel, adenine, purine, base-pairing, nucleobase]
-parent-moc: [[MOC-Nucleotide-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
 source: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Adenine Purine Base Structure Function
 
 ## Overview
-Adenine is one of four nucleobases in DNA and RNA, essential for genetic information storage and energy [[KEYWORD-Metabolism|metabolism]].
+Adenine is one of four nucleobases in DNA and RNA, essential for genetic information storage and energy .
 
 ## Chemical Structure
 - **Class:** Purine (two-ring structure)
@@ -55,7 +55,7 @@ Adenine is one of four nucleobases in DNA and RNA, essential for genetic informa
 - **Defect:** HGPRT (hypoxanthine-guanine phosphoribosyltransferase)
 - **Symptoms:** Hyperuricemia, neurological dysfunction, self-injury
 - **Inheritance:** X-linked recessive
-- **[[KEYWORD-Mechanism|mechanism]]:** Purine overproduction, uric acid accumulation
+- **:** Purine overproduction, uric acid accumulation
 
 ### Adenine Phosphoribosyltransferase Deficiency
 - **Defect:** APRT enzyme
@@ -77,7 +77,7 @@ Adenine is one of four nucleobases in DNA and RNA, essential for genetic informa
 ## Related
 - [[Adenosine_Metabolic_Roles_Energy_Signaling_[Z-001-1083].md]]
 - [[Purine_Salvage_Pathway_Recycling_Mechanism_[Z-001-1087].md]]
-- [[MOC-Nucleotide-Metabolism]]
+- 
 
 ---
-*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*
+*Source: CGPT-0445 — Advanced *

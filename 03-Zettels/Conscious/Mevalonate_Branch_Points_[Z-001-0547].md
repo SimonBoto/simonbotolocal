@@ -5,7 +5,7 @@ title: Mevalonate Branch Points — Diverse Fates
 aliases: [Branch-Points, FPP, Cholesterol, CoQ10, Prenylation]
 domain: 001
 tags: [zettel, branch-points, fpp, cholesterol, coq10, prenylation]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Mevalonate_Pathway_L-001-0509]]
 extraction-date: 2026-03-01
@@ -13,13 +13,13 @@ extraction-date: 2026-03-01
 
 # Mevalonate Branch Points — Diverse Fates
 
-> Farnesyl pyrophosphate (FPP) is the critical metabolic crossroads directing flux to [[KEYWORD-Cholesterol|cholesterol]], CoQ10, or protein prenylation.
+> Farnesyl pyrophosphate (FPP) is the critical metabolic crossroads directing flux to , CoQ10, or protein prenylation.
 
 ## Branch 1: Cholesterol
 
 **Route:** FPP → Squalene → Cholesterol
 **Purpose:** Cell membranes, hormones, bile acids
-**Regulation:** SREBP-2, [[KEYWORD-Insulin|insulin]]
+**Regulation:** SREBP-2, 
 
 ## Branch 2: Coenzyme Q10
 
@@ -48,4 +48,4 @@ extraction-date: 2026-03-01
 
 ## RELATED FILES
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
-- [[FRAX_Limitations_[[KEYWORD-Clinical|clinical]]_Gaps_[Z-001-0111]|Z-001-0111]]
+- _Gaps_[Z-001-0111]|Z-001-0111]]

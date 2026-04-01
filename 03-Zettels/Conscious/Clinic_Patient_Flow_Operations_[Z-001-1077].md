@@ -6,7 +6,7 @@ aliases: [Z-001-1077, Clinic-Flow]
 domain: 001
 domain-name: Clinical Protocols
 tags: [zettel, clinic, operations, workflow]
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]
 source: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Clinic Patient Flow Operations
 
 ## Overview
-Standard operating procedures for each stage of the [[KEYWORD-Metabolomics|metabolomics]] patient journey.
+Standard operating procedures for each stage of the  patient journey.
 
 ## Stage 1: Assessment (Intake)
 
@@ -51,7 +51,7 @@ Standard operating procedures for each stage of the [[KEYWORD-Metabolomics|metab
 ### SOP
 1. **Receive sample** — Log in tracking system
 2. **Process OAT** — GC-MS/MS per protocol
-3. **Process [[KEYWORD-Fatty_Acids|fatty acids]]** — GC analysis
+3. **Process ** — GC analysis
 4. **QC review** — Internal standards valid
 
 ### Quality Checkpoint
@@ -82,7 +82,7 @@ Standard operating procedures for each stage of the [[KEYWORD-Metabolomics|metab
 4. **Document plan** — In patient record
 
 ### Quality Checkpoint
-- [ ] Patient understands [[KEYWORD-Mechanism|mechanism]]
+- [ ] Patient understands 
 - [ ] Drug interactions checked
 - [ ] Cost discussed
 - [ ] Timeline established
@@ -103,7 +103,7 @@ Standard operating procedures for each stage of the [[KEYWORD-Metabolomics|metab
 
 ## Related
 - [[Six_Stage_Patient_Flow_Framework_[Z-001-1031].md]]
-- [[MOC-Clinical-Protocols]]
+- 
 
 ---
 *Source: CGPT-0022 — Clinic operations*

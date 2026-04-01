@@ -5,13 +5,13 @@ title: Metabolic Syndrome — Epidemiology and Global Prevalence
 aliases: [MetS-Epidemiology, Metabolic-Syndrome-Prevalence]
 domain: 001
 tags: [zettel, metabolic-syndrome, epidemiology, prevalence, public-health]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Metabolic_Syndrome|metabolic syndrome]] — Epidemiology and Global Prevalence
+#  — Epidemiology and Global Prevalence
 
 > Metabolic syndrome has reached epidemic proportions worldwide, representing one of the major public health challenges of the 21st century.
 
@@ -41,7 +41,7 @@ extraction-date: 2026-03-01
 
 ### By Ethnicity
 - **Higher risk:** South Asian, Hispanic, African American, Native American
-- **[[KEYWORD-Mechanism|mechanism]]:** Genetic predisposition + environmental factors
+- **:** Genetic predisposition + environmental factors
 
 ## Risk Factors for Development
 
@@ -66,5 +66,5 @@ Understanding epidemiology informs:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Magnesium|magnesium]]_Dosing_RDA_Therapeutic_Ranges_[Z-001-0219]|Z-001-0219]]
+- 
+- _Dosing_RDA_Therapeutic_Ranges_[Z-001-0219]|Z-001-0219]]

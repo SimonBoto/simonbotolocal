@@ -5,13 +5,13 @@ title: Endoscopic Ultrasound (EUS) — Indications and Clinical Applications
 aliases: [Z-001-1018]
 domain: 001
 tags: [zettel, eus, endoscopic-ultrasound, pancreatic-mass, staging, fiducial-placement, cytopathology, gi-endoscopy, conscious]
-parent-moc: [[MOC-GI-Endoscopy]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]]
 status: conscious
 ---
 
-# Endoscopic Ultrasound (EUS) — Indications and [[KEYWORD-Clinical|clinical]] Applications
+# Endoscopic Ultrasound (EUS) — Indications and  Applications
 
 ## Overview
 
@@ -44,7 +44,7 @@ Endoscopic ultrasound (EUS) combines endoscopy with high-frequency ultrasound im
 **T Staging Advantage:**
 - Direct visualization of tumor invasion depth
 - T1 vs T2 vs T3 vs T4 accuracy
-- Superior to CT for early gastric/esophageal [[KEYWORD-Cancer|cancer]]
+- Superior to CT for early gastric/esophageal 
 
 ## Primary Indications
 
@@ -251,4 +251,4 @@ Endoscopic ultrasound (EUS) combines endoscopy with high-frequency ultrasound im
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

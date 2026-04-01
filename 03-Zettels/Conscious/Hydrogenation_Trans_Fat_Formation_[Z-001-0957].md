@@ -5,7 +5,7 @@ title: Hydrogenation and Trans Fat Formation in Seed Oils
 aliases: [Z-001-0957]
 domain: 001
 tags: [zettel, hydrogenation, trans-fats, seed-oils, partial-hydrogenation, cardiovascular-disease, conscious]
-parent-moc: [[MOC-Industrial-Processing]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]]
 status: conscious
@@ -15,7 +15,7 @@ status: conscious
 
 ## Core Concept
 
-**Hydrogenation** chemically converts liquid unsaturated oils into semi-solid/solid fats by adding hydrogen to double bonds. **Partial hydrogenation** — the dominant industrial process — creates **trans [[KEYWORD-Fatty_Acids|fatty acids]]** as a major byproduct.
+**Hydrogenation** chemically converts liquid unsaturated oils into semi-solid/solid fats by adding hydrogen to double bonds. **Partial hydrogenation** — the dominant industrial process — creates **trans ** as a major byproduct.
 
 ## Chemistry of Hydrogenation
 
@@ -98,7 +98,7 @@ Catalytic Surface Reaction:
 - **LDL/HDL ratio worsens significantly**
 - Estimated 20-30% increased CVD risk per 2% energy from trans
 
-### [[KEYWORD-Inflammation|inflammation]]
+### 
 
 **Mechanisms:**
 - Incorporates into cell membranes (behaves like saturated fat)
@@ -106,7 +106,7 @@ Catalytic Surface Reaction:
 - Promotes inflammatory cytokine production
 - Enhances endothelial dysfunction
 
-### [[KEYWORD-Insulin|insulin]] Resistance
+###  Resistance
 
 **Evidence:**
 - Associated with increased type 2 diabetes risk

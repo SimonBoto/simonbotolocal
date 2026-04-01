@@ -4,7 +4,7 @@ type: zettel
 title: PLP — Vitamin B6 Pyridoxal Phosphate Cofactor
 domain: 001
 tags: [zettel, plp, vitamin-b6, pyridoxal-phosphate, amino-acid-metabolism, neurotransmitters]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630]]"
 status: conscious
@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-Pyridoxal phosphate (PLP) is the active form of vitamin B6. It's the most versatile cofactor in amino acid [[KEYWORD-Metabolism|metabolism]], involved in transamination, decarboxylation, and racemization reactions.
+Pyridoxal phosphate (PLP) is the active form of vitamin B6. It's the most versatile cofactor in amino acid , involved in transamination, decarboxylation, and racemization reactions.
 
 ---
 
@@ -32,7 +32,7 @@ Pyridoxal phosphate (PLP) is the active form of vitamin B6. It's the most versat
 
 ---
 
-## [[KEYWORD-Mechanism|mechanism]] of Action
+##  of Action
 
 ### Schiff Base Formation
 ```
@@ -157,7 +157,7 @@ Serine + THF → Glycine + 5,10-CH₂-THF
 
 **Hematological:**
 - Sideroblastic anemia
-- Iron overload in [[KEYWORD-Mitochondria|mitochondria]]
+- Iron overload in 
 
 **Immunological:**
 - Impaired immune function

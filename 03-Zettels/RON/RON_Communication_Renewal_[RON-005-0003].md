@@ -6,7 +6,7 @@ date: 2026-03-12
 source: OpenClaw session with Simos
 aliases: [RON-005-0003, communication-renewal, L4-confirmed]
 tags: [ron, communication, autonomy, L4, expansion, meta]
-parent-moc: [[MOC-RON-Development]]
+parent-moc: 
 status: conscious
 ---
 

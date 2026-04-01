@@ -5,13 +5,13 @@ title: Ecological Fallacy in Nutrition Research
 aliases: [Ecological-Fallacy, Aggregation-Bias, Population-Data]
 domain: 001
 tags: [zettel, ecological-fallacy, methodology, bias]
-parent-moc: [[MOC-Research-Methodology]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]]
 extraction-date: 2026-03-01
 ---
 
-# Ecological Fallacy in [[KEYWORD-Nutrition|nutrition]] [[KEYWORD-Research|research]]
+# Ecological Fallacy in  
 
 > Drawing inferences about individuals from aggregate population-level data commits the ecological fallacy, inflating correlations and undermining causal inference.
 
@@ -50,4 +50,4 @@ Interpreted population associations as individual causation, driving flawed poli
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -5,7 +5,7 @@ title: MGP Vascular Protection — D-K2 Synergy
 aliases: [MGP, Matrix-Gla-Protein, Vascular-Calcification-Protection]
 domain: 001
 tags: [zettel, mgp, vascular-calcification, vitamin-k2, vitamin-d, arteries]
-parent-moc: [[MOC-Cardiovascular-Health]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # MGP Vascular Protection — D-K2 Synergy
 
-> Matrix Gla Protein (MGP) is the body's strongest inhibitor of vascular calcification. Its protective function requires both [[KEYWORD-Vitamin_D|vitamin d]] (for synthesis) and [[KEYWORD-Vitamin_K2|vitamin k2]] (for activation), making the D-K2 synergy essential for cardiovascular health.
+> Matrix Gla Protein (MGP) is the body's strongest inhibitor of vascular calcification. Its protective function requires both  (for synthesis) and  (for activation), making the D-K2 synergy essential for cardiovascular health.
 
 ## Matrix Gla Protein (MGP)
 
@@ -109,9 +109,9 @@ No calcification, flexible arteries
 
 ---
 
-*Source: [[LitNote_D_K2_Synergy_[[KEYWORD-Mechanism|mechanism]]s_L-001-0212]]*  
+*Source: s_L-001-0212]]*  
 *Related: [[Vitamin_K2_Vascular_Calcification_MGP_[Z-001-0228]]]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

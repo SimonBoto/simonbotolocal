@@ -221,8 +221,8 @@ Isoleucine, Phenylalanine, Tryptophan, Tyrosine
 
 - [[L-001-0045F]] Keto Acids and Organic Acids (α-keto acid intermediates)
 - [[L-001-0045H]] Oxaloacetate and Gluconeogenesis (OAA entry)
-- [[MOC-Amino-Acid-Metabolism]]
-- [[MOC-Krebs-Cycle]]
+- 
+- 
 
 ---
 

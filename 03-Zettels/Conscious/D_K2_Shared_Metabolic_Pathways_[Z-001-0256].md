@@ -5,7 +5,7 @@ title: D-K2 Shared Metabolic Pathways
 aliases: [Shared-Pathways, Metabolic-Integration, D-K2-Mechanisms]
 domain: 001
 tags: [zettel, vitamin-d, vitamin-k2, metabolism, pathways, integration]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]
 extraction-date: 2026-03-01
@@ -13,11 +13,11 @@ extraction-date: 2026-03-01
 
 # D-K2 Shared Metabolic Pathways
 
-> Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis, [[KEYWORD-Insulin|insulin]] signaling, inflammation, and lipid [[KEYWORD-Metabolism|metabolism]]—creating synergistic effects that exceed their individual contributions to metabolic health.
+> Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
 
 ## 1. Calcium Homeostasis
 
-### [[KEYWORD-Vitamin_D|vitamin d]] Actions
+###  Actions
 - Increases intestinal calcium absorption (calbindin upregulation)
 - Mobilizes calcium from bone (when needed)
 - Regulates PTH (negative feedback)

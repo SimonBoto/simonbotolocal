@@ -6,7 +6,7 @@ aliases: [Z-001-1152, Validation]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, validation, cross-validation, robustness, overfitting]
-parent-moc: [[MOC-Metabolomics-Analysis]]
+parent-moc: 
 source-litnote: [[LitNote_Statistical_Analysis_Omics_L-001-0617]]
 source: [[LitNote_Statistical_Analysis_Omics_L-001-0617]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Validation Cross Validation Model Robustness
 
 ## Overview
-Validation strategies in [[KEYWORD-Metabolomics|metabolomics]] ensure that multivariate models are robust, generalizable, and not overfitted to the training data—critical for reliable [[KEYWORD-Biomarker|biomarker]] discovery in the METHAP trial.
+Validation strategies in  ensure that multivariate models are robust, generalizable, and not overfitted to the training data—critical for reliable  discovery in the METHAP trial.
 
 ## The Overfitting Problem
 
@@ -96,7 +96,7 @@ Validation strategies in [[KEYWORD-Metabolomics|metabolomics]] ensure that multi
 | Metric | Assessment |
 |--------|------------|
 | **Component stability** | Consistent across CV folds |
-| **Variable selection** | Same [[KEYWORD-Biomarker|biomarkers]] identified |
+| **Variable selection** | Same  identified |
 | **Prediction consistency** | Low variance in predictions |
 
 ### Biological Validation
@@ -136,12 +136,12 @@ Validation strategies in [[KEYWORD-Metabolomics|metabolomics]] ensure that multi
 ## Related
 - [[PCA_Metabolomics_Dimensionality_Reduction_[Z-001-1150].md]]
 - [[Multivariate_Analysis_PLS_OPLS_Regression_[Z-001-1151].md]]
-- [[MOC-Metabolomics-Analysis]]
+- 
 
 ---
 *Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

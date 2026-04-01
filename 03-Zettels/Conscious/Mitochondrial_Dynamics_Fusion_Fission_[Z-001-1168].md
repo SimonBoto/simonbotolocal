@@ -4,13 +4,13 @@ type: zettel
 title: Mitochondrial Dynamics — Fusion and Fission
 domain: 001
 tags: [zettel, mitochondria, fusion, fission, dynamics, quality-control, Mfn, Drp1]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]]"
 status: conscious
 ---
 
-# [[KEYWORD-Mitochondria|mitochondria]]l Dynamics — Fusion and Fission
+# l Dynamics — Fusion and Fission
 
 ## The Dynamic Mitochondrion
 
@@ -64,7 +64,7 @@ This dynamic balance is essential for cellular health
 **Function:** Constricts and divides mitochondria
 
 ### Purpose of Fission
-1. **[[KEYWORD-Mitochondria|mitochondrial]] division:** Distributes organelles to daughter cells
+1. ** division:** Distributes organelles to daughter cells
 2. **Quality control:** Segregates damaged portions for removal (mitophagy)
 3. **Apoptosis:** Fragmentation precedes cytochrome c release
 4. **Distribution:** Sends mitochondria to high-energy-demand regions
@@ -113,7 +113,7 @@ This dynamic balance is essential for cellular health
 - **Ischemia-reperfusion:** Excessive fission → apoptosis
 - **Heart failure:** Imbalanced dynamics → mitochondrial dysfunction
 
-### [[KEYWORD-Cancer|cancer]]
+### 
 - **Tumor cells:** Often fragmented mitochondria
 - **Metastasis:** Dynamics regulate cell migration and invasion
 

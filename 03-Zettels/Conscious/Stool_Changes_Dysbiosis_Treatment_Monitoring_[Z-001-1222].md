@@ -4,13 +4,13 @@ type: zettel
 title: Stool Changes During Dysbiosis Treatment — Clinical Monitoring
 domain: 001
 tags: [zettel, stool-analysis, dysbiosis, die-off, clinical-monitoring, gi-symptoms]
-parent-moc: [[MOC-Gut-Health]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]]"
 status: conscious
 ---
 
-# Stool Changes During Dysbiosis Treatment — [[KEYWORD-Clinical|clinical]] Monitoring
+# Stool Changes During Dysbiosis Treatment —  Monitoring
 
 ## Overview
 
@@ -72,7 +72,7 @@ Stool characteristics provide critical feedback during dysbiosis treatment, help
 - **Significance:** Part of repair process
 
 ### Concerning
-- **Large amounts:** Significant [[KEYWORD-Inflammation|inflammation]]
+- **Large amounts:** Significant 
 - **With blood:** Inflammatory bowel disease, infection
 - **With pain:** Colitis, diverticulitis
 - **Persistent:** Chronic inflammation, dysentery
@@ -122,4 +122,4 @@ Stool characteristics provide critical feedback during dysbiosis treatment, help
 *Source: [[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]] | 2026-03-09*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

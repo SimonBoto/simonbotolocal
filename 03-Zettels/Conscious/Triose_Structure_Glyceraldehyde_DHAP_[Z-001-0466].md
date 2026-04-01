@@ -5,7 +5,7 @@ title: "Triose Structure: Glyceraldehyde and Dihydroxyacetone"
 aliases: [Z-001-0466, triose-structure, g3p, dhap, glyceraldehyde]
 domain: 001
 tags: [zettel, trioses, glyceraldehyde, dhap, isomers, glycolysis]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045D]]
@@ -14,7 +14,7 @@ source: [[L-001-0045D]]
 # Triose Structure: Glyceraldehyde and DHAP
 
 ## The Simplest Sugars
-**Trioses:** 3-carbon monosaccharides — foundational to [[KEYWORD-Metabolism|metabolism]].
+**Trioses:** 3-carbon monosaccharides — foundational to .
 
 ## Glyceraldehyde
 - **Type:** Aldotriose (aldehyde group)
@@ -34,7 +34,7 @@ source: [[L-001-0045D]]
 
 ## Metabolic Significance
 **G3P and DHAP:**
-- Central to [[KEYWORD-Glycolysis|glycolysis]]
+- Central to 
 - PPP intermediates
 - Lipid biosynthesis precursors
 - Calvin cycle intermediates (photosynthesis)

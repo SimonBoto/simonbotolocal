@@ -5,7 +5,7 @@ title: Oxalate Clinical Relevance
 aliases: [Z-101-0468]
 domain: 101
 tags: [zettel, oxalate, clinical, kidney-stones, mineral-absorption, nephrology, conscious]
-parent-moc: [[MOC-Adipic-Acid]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]]
 status: conscious
 ---
@@ -38,13 +38,13 @@ status: conscious
 |---------|---------|-------------------|
 | Calcium | Calcium oxalate | ↓ Bioavailability |
 | Iron (Fe²⁺/Fe³⁺) | Ferrous/ferric oxalate | ↓ Bioavailability |
-| [[KEYWORD-Magnesium|magnesium]] | Magnesium oxalate | ↓ Bioavailability |
+|  | Magnesium oxalate | ↓ Bioavailability |
 | Zinc | Zinc oxalate | ↓ Bioavailability |
 
 **Practical implication:** High-oxalate meals reduce mineral absorption
 
 ### 3. Enteric Hyperoxaluria
-**Fat malabsorption → increased free [[KEYWORD-Fatty_Acids|fatty acids]] → calcium binds FFA instead of oxalate → more free oxalate absorbed**
+**Fat malabsorption → increased free  → calcium binds FFA instead of oxalate → more free oxalate absorbed**
 
 **Causes:**
 - Bariatric surgery (Roux-en-Y gastric bypass)
@@ -53,7 +53,7 @@ status: conscious
 - Chronic pancreatitis
 
 ### 4. Primary Hyperoxaluria (Genetic)
-See [[Amino_Acid_to_Oxalate_[[KEYWORD-Metabolism|metabolism]]_[Z-101-0467].md]] for detailed genetics
+See _[Z-101-0467].md]] for detailed genetics
 
 ## Clinical Management Strategies
 
@@ -98,4 +98,4 @@ See [[Amino_Acid_to_Oxalate_[[KEYWORD-Metabolism|metabolism]]_[Z-101-0467].md]] 
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

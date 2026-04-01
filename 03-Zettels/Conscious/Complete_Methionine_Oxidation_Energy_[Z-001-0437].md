@@ -5,7 +5,7 @@ title: Complete Methionine Oxidation — Energy Production
 aliases: [Methionine-Oxidation, Energy, Propionyl-CoA, Pyruvate]
 domain: 001
 tags: [zettel, methionine, oxidation, energy, catabolism]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Methionine_Catabolism_L-001-0406]]
 extraction-date: 2026-03-01
@@ -38,7 +38,7 @@ Cysteine → Pyruvate + NH₃ + H₂S
 ## Energy Yield
 
 **Pyruvate:**
-- Enters [[KEYWORD-Krebs_Cycle|krebs cycle]] via acetyl-CoA
+- Enters  via acetyl-CoA
 - Produces ATP, NADH, FADH₂
 
 **Succinyl-CoA:**
@@ -58,4 +58,4 @@ Cysteine → Pyruvate + NH₃ + H₂S
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

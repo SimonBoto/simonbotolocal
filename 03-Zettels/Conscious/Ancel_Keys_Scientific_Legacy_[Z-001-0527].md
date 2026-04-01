@@ -5,7 +5,7 @@ title: Ancel Keys — Scientific Legacy
 aliases: [Ancel-Keys, Lipid-Hypothesis, Seven-Countries]
 domain: 001
 tags: [zettel, ancel-keys, legacy, lipid-hypothesis]
-parent-moc: [[MOC-Research-Methodology]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Ancel Keys — Scientific Legacy
 
-> Ancel Keys (1904-2004) developed the diet-heart hypothesis that dietary saturated fat causes cardiovascular disease, shaping global [[KEYWORD-Nutrition|nutrition]] policy for decades through ambitious studies and charismatic advocacy.
+> Ancel Keys (1904-2004) developed the diet-heart hypothesis that dietary saturated fat causes cardiovascular disease, shaping global  policy for decades through ambitious studies and charismatic advocacy.
 
 ## Biography
 
@@ -24,7 +24,7 @@ extraction-date: 2026-03-01
 ## The Lipid Hypothesis
 
 **Core Claim:**
-SFA → ↑ [[KEYWORD-Cholesterol|cholesterol]] → Atherosclerosis → CHD
+SFA → ↑  → Atherosclerosis → CHD
 
 ## Key Studies
 

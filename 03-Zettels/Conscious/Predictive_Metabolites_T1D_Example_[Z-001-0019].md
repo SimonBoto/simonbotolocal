@@ -5,7 +5,7 @@ title: "Predictive Metabolites: Type 1 Diabetes Example"
 aliases: [Z-001-0019, Predictive_Metabolites, T1D_Prediction, Early_Detection]
 domain: 001
 tags: [zettel, predictive-biomarkers, t1d, early-detection, metabolomics, clinical-practice, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
 status: conscious
@@ -15,7 +15,7 @@ source-litnote: Synthesized from clinical practice
 # Predictive Metabolites: Type 1 Diabetes Example
 
 ## Core Claim
-[[KEYWORD-Metabolomics|metabolomics]] can predict disease onset **before clinical symptom manifestation**, demonstrated by Type 1 Diabetes (T1D) metabolite patterns that precede diagnosis.
+ can predict disease onset **before clinical symptom manifestation**, demonstrated by Type 1 Diabetes (T1D) metabolite patterns that precede diagnosis.
 
 ## The Predictive Power
 
@@ -36,7 +36,7 @@ source-litnote: Synthesized from clinical practice
 
 ### Predictive Metabolite Patterns (General)
 While specific T1D metabolites aren't detailed in this source, the framework suggests monitoring:
-- **Energy [[KEYWORD-Metabolism|metabolism]] shifts** (glucose, ketone precursors)
+- **Energy  shifts** (glucose, ketone precursors)
 - **Immune activation markers** (inflammatory metabolites)
 - **Mitochondrial dysfunction signals** (oxidative stress markers)
 - **Lipid metabolism alterations** (phospholipid profiles)
@@ -63,7 +63,7 @@ Just as T1D metabolites predict disease, **adipic acid may predict insulin resis
 | **Pre-symptomatic detection** | Metabolites before hyperglycemia | Adipic before clinical IR |
 | **Mechanism insight** | Autoimmune β-cell destruction | Mitochondrial dysfunction |
 | **Intervention window** | Earlier immunomodulation | Earlier metabolic correction |
-| **Validation pathway** | Longitudinal cohort studies | METHAP trial [[KEYWORD-Biomarker|biomarker]] arm |
+| **Validation pathway** | Longitudinal cohort studies | METHAP trial  arm |
 
 ### Research Gap
 [Needs_Evidence] — Specific adipic acid predictive studies needed for validation
@@ -76,10 +76,10 @@ Just as T1D metabolites predict disease, **adipic acid may predict insulin resis
 
 ### Downstream
 - [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]] — IR prediction target
-- [[MOC-PhD-METHAP-Trial]] — Trial design integration
+-  — Trial design integration
 
 ### Cross-Domain
-- [[Z-METHAP-Protocol]] — Adipic acid as predictive endpoint
+-  — Adipic acid as predictive endpoint
 
 ## Critical Assessment
 
@@ -101,12 +101,12 @@ Just as T1D metabolites predict disease, **adipic acid may predict insulin resis
 ## See Also
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 2.2)
 - [[Metabotypes_Individual_Metabolic_Phenotypes_[Z-001-0910].md]] — Individual variation
-- [[Adipic_Acid_Mitochondrial_Marker]] — Target biomarker [stub]
+-  — Target biomarker [stub]
 
 ---
 *Confidence: Medium* — Framework established, specific metabolites need verification  
 *Next Review: After finding primary T1D metabolomics sources*
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

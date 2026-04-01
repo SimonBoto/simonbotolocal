@@ -5,13 +5,13 @@ title: Magnesium in Neuromuscular Function and Neurotransmission
 aliases: [Mg-Neuromuscular, Magnesium-Neurotransmission, NMDA-Receptor]
 domain: 001
 tags: [zettel, magnesium, neuromuscular, neurotransmission, NMDA, muscle]
-parent-moc: [[MOC-Magnesium]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Magnesium|magnesium]] in Neuromuscular Function and Neurotransmission
+#  in Neuromuscular Function and Neurotransmission
 
 > Magnesium modulates neurotransmission and neuromuscular excitability through NMDA receptor blockade, presynaptic acetylcholine regulation, and antagonism of calcium-dependent muscle contraction.
 
@@ -56,7 +56,7 @@ extraction-date: 2026-03-01
 - **AV node:** Mg slows conduction (protective)
 - **Ventricular:** Mg stabilizes membrane, prevents arrhythmias
 
-**Anti-arrhythmic [[KEYWORD-Mechanism|mechanism]]:**
+**Anti-arrhythmic :**
 - Class IV effect (Ca²⁺ channel blockade)
 - Stabilizes cardiac myocyte membrane
 - Effective for torsades de pointes, digoxin toxicity
@@ -80,7 +80,7 @@ extraction-date: 2026-03-01
 ## METHAP Context
 
 **Patient Symptoms:**
-- Mg deficiency common in MetS patients (poor diet, [[KEYWORD-Insulin|insulin]] resistance)
+- Mg deficiency common in MetS patients (poor diet,  resistance)
 - Symptoms (fatigue, weakness) may be attributed to MetS itself
 - Correction may improve exercise tolerance, compliance with lifestyle interventions
 
@@ -96,4 +96,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

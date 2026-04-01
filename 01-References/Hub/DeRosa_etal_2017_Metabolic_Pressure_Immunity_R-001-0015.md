@@ -17,7 +17,7 @@ status: pending
 aliases: [R-001-0015, DeRosa_2017, Metabolic_Pressure_Immunity]
 domain: 001
 tags: [reference, metabolism, immunity, autoimmunity, self-tolerance, tier-2]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 

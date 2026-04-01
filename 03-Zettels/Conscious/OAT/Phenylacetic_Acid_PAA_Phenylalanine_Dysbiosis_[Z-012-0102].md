@@ -5,7 +5,7 @@ title: Phenylacetic Acid — Phenylalanine Dysbiosis Marker
 aliases: [Z-012-0102, PAA, Phenylacetic-Acid, Phenylalanine, Dysbiosis, Gut]
 domain: 012
 tags: [zettel, biomarker, paa, phenylacetic, phenylalanine, dysbiosis, gut]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

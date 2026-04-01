@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: Critical — METHAP safety monitoring; hypercalcemia prevention
 status: extracted
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -193,7 +193,7 @@ High Serum Ca²⁺ → ↓ PTH
 - [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]] — D mechanisms
 - [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — D safety
 - [[Magnesium_Vitamin_D_Interaction_Hydroxylation_[Z-001-0210]]] — Mg enables D
-- [[MOC-Metabolic-Syndrome]] — Parent MOC
+-  — Parent MOC
 
 ---
 

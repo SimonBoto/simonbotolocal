@@ -22,37 +22,37 @@ created: 2026-04-01
 
 | Domain | MOC | Description | Zettels |
 |--------|-----|-------------|---------|
-| **001** | [[MOC-Insulin-Signaling]] | Core metabolism, insulin resistance, metabolic health | 675 |
-| **002** | [[MOC-Research-Ethics]] | IRB, study design, ethical frameworks | 21 |
-| **003** | [[MOC-Iron-Metabolism]] | Iron studies, ferritin, anemia | 3 |
-| **004** | [[MOC-Methylation-One-Carbon]] | B12, folate, homocysteine | 4 |
-| **005** | [[MOC-Thyroid-Function]] | TSH, thyroid hormones | 2 |
-| **006** | [[MOC-Lipid-Metabolism]] | Cholesterol, fatty acids, lipoproteins | 2 |
-| **007** | [[MOC-Inflammation]] | CRP, cytokines, immune markers | 1 |
-| **008** | [[MOC-Liver-Function]] | Liver enzymes, detoxification | 1 |
-| **009** | [[MOC-Kidney-Metabolism]] | eGFR, creatinine, renal function | 1 |
-| **010** | [[MOC-Minerals-Trace]] | Magnesium, zinc, selenium | 1 |
-| **101** | [[MOC-Pharmacometabolomics]] | Drug metabolism, precision dosing | 55 |
+| **001** |  | Core metabolism, insulin resistance, metabolic health | 675 |
+| **002** |  | IRB, study design, ethical frameworks | 21 |
+| **003** |  | Iron studies, ferritin, anemia | 3 |
+| **004** |  | B12, folate, homocysteine | 4 |
+| **005** |  | TSH, thyroid hormones | 2 |
+| **006** |  | Cholesterol, fatty acids, lipoproteins | 2 |
+| **007** |  | CRP, cytokines, immune markers | 1 |
+| **008** |  | Liver enzymes, detoxification | 1 |
+| **009** |  | eGFR, creatinine, renal function | 1 |
+| **010** |  | Magnesium, zinc, selenium | 1 |
+| **101** |  | Drug metabolism, precision dosing | 55 |
 
 ---
 
 ## 🧠 Knowledge Themes
 
 ### Metabolic Health
-- [[MOC-Vitamin-D-Metabolism]] — 53 zettels
-- [[MOC-Bone-Health]] — 25 zettels
-- [[MOC-Mitochondrial-Function]] — 14 zettels
-- [[MOC-Amino-Acid-Metabolism]] — 25 zettels
-- [[MOC-Glycolysis-PPP]] — 22 zettels
+-  — 53 zettels
+-  — 25 zettels
+-  — 14 zettels
+-  — 25 zettels
+-  — 22 zettels
 
 ### Research & Methods
-- [[MOC-Research-Methods]] — 32 zettels
-- [[MOC-Metabolomics-Training]] — 44 zettels
-- [[MOC-PhD-Research]] — 17 zettels
-- [[MOC-Clinical-Protocols]] — 18 zettels
+-  — 32 zettels
+-  — 44 zettels
+-  — 17 zettels
+-  — 18 zettels
 
 ### Biomarker Families
-- [[MOC-Biomarkers]] — Master biomarker index
+-  — Master biomarker index
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family]]
 - [[Biomarkers/Lipid_Ratios_[B-006-0001]|Lipid Ratios Family]]
 - [[Biomarkers/Methylation_Family_[B-004-0001]|Methylation Family]]
@@ -65,15 +65,15 @@ created: 2026-04-01
 | Folder | Purpose |
 |--------|---------|
 | [[00-MISSION]] | Daily priorities, active work |
-| [[01-References]] | Source materials, Zotero |
-| [[02-Literature]] | LitNotes in processing |
-| [[03-Zettels]] | **Main knowledge base** |
-| [[04-Synthesis]] | Living documents |
-| [[05-Projects]] | PhD, Assistant, Triangle |
-| [[06-Structure]] | MOCs, Templates, Protocols |
-| [[07-Archive]] | Historical, extracted |
-| [[08-Dashboards]] | COMMAND, QUEUE |
-| [[10-Daily]] | Daily notes |
+|  | Source materials, Zotero |
+|  | LitNotes in processing |
+|  | **Main knowledge base** |
+|  | Living documents |
+|  | PhD, Assistant, Triangle |
+|  | MOCs, Templates, Protocols |
+|  | Historical, extracted |
+|  | COMMAND, QUEUE |
+|  | Daily notes |
 
 ---
 

@@ -5,7 +5,7 @@ title: Transsulfuration Pathway — Cysteine Synthesis
 aliases: [Transsulfuration, CBS, Cystathionine, Cysteine]
 domain: 001
 tags: [zettel, transsulfuration, cbs, cysteine, b6]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Methionine_Catabolism_L-001-0406]]
 extraction-date: 2026-03-01
@@ -45,7 +45,7 @@ Cystathionine → Cysteine + α-Ketobutyrate + NH₃
 **Low SAM:**
 - CBS inhibited
 - Conserves methionine
-- Favors re[[KEYWORD-Methylation|methylation]]
+- Favors re
 
 **Vitamin B6:**
 - Required for both steps
@@ -58,4 +58,4 @@ Cystathionine → Cysteine + α-Ketobutyrate + NH₃
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -8,7 +8,7 @@ journal: Internal Synthesis
 tier: 2
 relevance: High — Comprehensive causal pathway framework
 status: complete
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 extraction-date: 2026-02-24
 ---
 
@@ -101,7 +101,7 @@ extraction-date: 2026-02-24
 ---
 
 ## Related References
-- [[R-001-0037]] — Reaven 1988 Banting Lecture — Historical  [[Reaven_1988_Reference_Hub]] 
+-  — Reaven 1988 Banting Lecture — Historical   
 - [[METHAP_Biomarker_Panel_Z-001-0045.md]] — METHAP Panel — Applies this framework
 
 ---

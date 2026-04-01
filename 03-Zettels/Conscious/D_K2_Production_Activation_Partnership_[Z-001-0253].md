@@ -5,7 +5,7 @@ title: D-K2 Production-Activation Partnership
 aliases: [D-K2-Synergy, Production-Activation, Vitamin-Partnership]
 domain: 001
 tags: [zettel, vitamin-d, vitamin-k2, synergy, mechanisms, carboxylation]
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # D-K2 Production-Activation Partnership
 
-> [[KEYWORD-Vitamin_D|vitamin d]] and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
+>  and K2 function as a biochemical partnership: D stimulates production of vitamin K-dependent proteins, while K2 activates them through carboxylation. Neither alone is sufficient for optimal metabolic function.
 
 ## Vitamin D's Role — Production Phase
 
@@ -33,7 +33,7 @@ extraction-date: 2026-03-01
 - But no upregulation potential
 - Limited response to metabolic demands
 
-## [[KEYWORD-Vitamin_K2|vitamin k2]]'s Role — Activation Phase
+## 's Role — Activation Phase
 
 **Carboxylation Reaction:**
 - Glutamic acid (Glu) → γ-carboxyglutamic acid (Gla)
@@ -76,7 +76,7 @@ High Production + High Activity = Maximal Function
 - Studies show combined > individual effects
 - Bone density improves more with both
 - Vascular calcification better prevented
-- [[KEYWORD-Insulin|insulin]] sensitivity enhanced synergistically
+-  sensitivity enhanced synergistically
 
 **Analogy:**
 - D = Factory producing cars

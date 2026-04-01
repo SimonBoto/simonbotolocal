@@ -6,14 +6,14 @@ aliases: [Z-001-1078, Quality-Standards]
 domain: 001
 domain-name: Clinical Protocols
 tags: [zettel, quality, standards, metabolomics]
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]
 source: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]
 confidence: high
 created: 2026-03-08
 ---
 
-# [[KEYWORD-Metabolomics|metabolomics]] Quality Standards
+#  Quality Standards
 
 ## Overview
 Quality checkpoints throughout the metabolomics testing and interpretation process.
@@ -57,7 +57,7 @@ Quality checkpoints throughout the metabolomics testing and interpretation proce
 | **Initial interpretation** | Clinician | Pattern recognition |
 | **Second review** | Senior clinician | Verify conclusions |
 | **Report generation** | Staff | Standardized format |
-| **Final sign-off** | Attending | [[KEYWORD-Clinical|clinical]] approval |
+| **Final sign-off** | Attending |  approval |
 
 ### Interpretation Standards
 - **Reference ranges** — Age and sex specific
@@ -81,7 +81,7 @@ Quality checkpoints throughout the metabolomics testing and interpretation proce
 | Test | Target TAT | Maximum TAT |
 |------|------------|-------------|
 | **OAT** | 5 business days | 7 days |
-| **[[KEYWORD-Fatty_Acids|fatty acids]]** | 5 business days | 7 days |
+| **** | 5 business days | 7 days |
 | **Combined report** | 7 business days | 10 days |
 
 ## Continuous Quality Improvement
@@ -103,11 +103,11 @@ Quality checkpoints throughout the metabolomics testing and interpretation proce
 
 ## Related
 - [[Clinic_Patient_Flow_Operations_[Z-001-1077].md]]
-- [[MOC-Clinical-Protocols]]
+- 
 
 ---
 *Source: CGPT-0022 — Clinic operations*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

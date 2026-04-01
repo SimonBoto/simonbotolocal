@@ -161,12 +161,12 @@ Last updated: 2026-02-20 19:31
 
 | Resource | Link |
 |----------|------|
-| **🆕 Tools Dashboard** | [[RON_Tools_Dashboard]] |
-| **PhD Kanban** | [[08-Dashboards/PhD_Kanban]] |
-| **Atomic Audit** | [[08-Dashboards/PhD_Atomic_Audit_20260218]] |
-| **Template Index** | [[06-Structure/Templates/TEMPLATE_INDEX]] |
-| **Daily Notes** | [[08-Dashboards/Dashboard_Daily_Note]] |
-| **MOC Hub** | [[55-MOCs/PhD_IR_MOC]] |
+| **🆕 Tools Dashboard** |  |
+| **PhD Kanban** |  |
+| **Atomic Audit** |  |
+| **Template Index** |  |
+| **Daily Notes** |  |
+| **MOC Hub** |  |
 
 ---
 

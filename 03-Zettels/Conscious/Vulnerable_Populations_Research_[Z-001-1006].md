@@ -5,7 +5,7 @@ title: Vulnerable Populations in Research — Special Protections and Considerat
 aliases: [Z-001-1006]
 domain: 001
 tags: [zettel, vulnerable-populations, research-ethics, children, prisoners, pregnant-women, cognitive-impairment, exploitation, 45-cfr-46, conscious]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]]
 status: conscious
@@ -75,7 +75,7 @@ Additional protections for prisoners.
 - IRB must include prisoner or prisoner representative
 - Certification from HHS Secretary for Category 4
 
-**Protection [[KEYWORD-Mechanism|mechanism]]s:**
+**Protection s:**
 - Limited inducements
 - No parole board influence
 - Equitable selection
@@ -89,7 +89,7 @@ Additional protections for pregnant women, human fetuses, and neonates.
 **Requirements:**
 - Risk to fetus caused solely by interventions/procedures
 - Knowledge cannot be obtained by other means
-- Pre[[KEYWORD-Clinical|clinical]] studies conducted
+- Pre studies conducted
 - Father's consent (when reasonably obtainable)
 - No inducements to terminate pregnancy
 - No abortion timing for research purposes
@@ -254,7 +254,7 @@ Can the research be conducted with non-vulnerable populations?
 **Vulnerability:**
 - African American woman
 - Poverty
-- [[KEYWORD-Cancer|cancer]] patient
+-  patient
 
 **Violation:**
 - Cells taken without consent

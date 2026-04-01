@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: Critical — METHAP protocol implementation; practical dosing guidance
 status: extracted
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -189,8 +189,8 @@ extraction-date: 2026-03-01
 - [[LitNote_Magnesium_Biochemistry_L-001-0201a]] — Mechanisms
 - [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]] — Metabolic effects
 - [[LitNote_Magnesium_Cardiovascular_L-001-0201c]] — CV benefits
-- [[MOC-Metabolic-Syndrome]] — Parent MOC
-- [[MOC-Supplements]] — Practical guidance
+-  — Parent MOC
+-  — Practical guidance
 
 ---
 

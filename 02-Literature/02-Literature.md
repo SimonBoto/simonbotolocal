@@ -75,7 +75,7 @@ See: `[[06-Structure/Templates/Template_LitNote_v1.0]]`
 ---
 uid: L-{DDD}-{SSSS}
 type: index
-source: [[Hub_Card_Author_Year]]
+source: 
 authors: [Author, A.]
 year: 2024
 title: Paper Title
@@ -91,27 +91,27 @@ title: Paper Title
 2. Finding 2
 
 ## Extraction Candidates
-- [ ] [[Zettel_Candidate_1]] — One claim
-- [ ] [[Zettel_Candidate_2]] — Another claim
+- [ ]  — One claim
+- [ ]  — Another claim
 
 ## My Notes
 [Your insights, questions, connections]
 
 ## Connections
-- Related: [[Other_LitNote]]
-- Contrasts: [[Contradicting_Source]]
+- Related: 
+- Contrasts: 
 ```
 
 ---
 
 ## 🔗 Navigation
 
-← **Back to [[01-References]]** — Source Management  
-→ **Next: [[03-Zettels]]** — Atomic Knowledge  
+← **Back to ** — Source Management  
+→ **Next: ** — Atomic Knowledge  
 ↑ **Parent: [[00-MISSION]]**
 
 **Siblings:**
-[[00-Inbox]] | [[01-References]] | [[03-Zettels]] | [[04-Synthesis]] | [[05-Projects]] | [[06-Structure]] | [[08-Dashboards]] | [[09-System]]
+ |  |  |  |  |  |  | 
 
 ---
 

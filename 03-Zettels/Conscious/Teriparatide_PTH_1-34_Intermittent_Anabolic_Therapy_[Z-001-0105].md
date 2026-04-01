@@ -5,7 +5,7 @@ title: Teriparatide — PTH 1-34 Intermittent Anabolic Therapy
 aliases: [Z-001-0105]
 domain: 001
 tags: [zettel, teriparatide, pth, anabolic, osteoporosis, osteoblasts, intermittent, conscious]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 status: conscious
 ---
 
@@ -17,12 +17,12 @@ Recombinant human parathyroid hormone (1-34 fragment) given as **daily subcutane
 ## The PTH Paradox
 
 ### Continuous vs. Intermittent
-| Pattern | Effect | [[KEYWORD-Clinical|clinical]] Context |
+| Pattern | Effect |  Context |
 |---------|--------|------------------|
 | **Continuous elevation** | Bone resorption | Hyperparathyroidism causes bone loss |
 | **Intermittent pulses** | Bone formation | Teriparatide builds bone |
 
-**[[KEYWORD-Mechanism|mechanism]]:** PTH receptor signaling kinetics determine response
+**:** PTH receptor signaling kinetics determine response
 - Continuous → cAMP sustained → RANKL upregulation → resorption
 - Intermittent → cAMP transient → Wnt activation → formation
 
@@ -107,7 +107,7 @@ Recombinant human parathyroid hormone (1-34 fragment) given as **daily subcutane
 ## Monitoring
 | Time | Assessment |
 |------|------------|
-| **Baseline** | [[KEYWORD-Calcium|calcium]], creatinine, alkaline phosphatase |
+| **Baseline** | , creatinine, alkaline phosphatase |
 | **1–6 months** | Serum calcium (peak effect) |
 | **12–18 months** | DEXA to assess response |
 | **Ongoing** | Adherence, injection technique |

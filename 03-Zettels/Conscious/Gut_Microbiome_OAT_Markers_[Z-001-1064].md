@@ -6,7 +6,7 @@ aliases: [Z-001-1064, Gut-OAT]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, gut, microbiome, oat, dysbiosis]
-parent-moc: [[MOC-Metabolomics-Analysis]]
+parent-moc: 
 source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
 source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Gut Microbiome OAT Markers
 
 ## Overview
-Organic acids testing reveals gut microbial [[KEYWORD-Metabolism|metabolism]], dysbiosis, and intestinal permeability through specific [[KEYWORD-Biomarker|biomarker]]s.
+Organic acids testing reveals gut microbial , dysbiosis, and intestinal permeability through specific s.
 
 ## Bacterial Markers
 
@@ -103,12 +103,12 @@ Organic acids testing reveals gut microbial [[KEYWORD-Metabolism|metabolism]], d
 ## Related
 - [[Neurotransmitter_Synthesis_Biochemistry_[Z-001-1063].md]]
 - [[Microbiome_Gut_Brain_Terminology_[Z-001-1045].md]]
-- [[MOC-[[KEYWORD-Metabolomics|metabolomics]]-Analysis]]
+- -Analysis]]
 
 ---
 *Source: CGPT-0022 — Vitamin-mineral biochemistry*
 
 ## RELATED FILES
 - [[Biomarkers/Kidney_Function_[B-008-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

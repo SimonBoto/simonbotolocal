@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Patient flow, quality standards, follow-up rhythms, operational protocols
 status: extracted
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -74,7 +74,7 @@ extraction-date: 2026-03-08
 4. [[Clinician_Training_Competency_Checklist_[Z-001-1080].md]] — Competency verification
 
 ## Related References
-- [[MOC-Clinical-Protocols]]
+- 
 - [[Six_Stage_Patient_Flow_Framework_[Z-001-1031].md]]
 - [[Tiered_Supplement_Prescribing_Hierarchy_[Z-001-1034].md]]
 

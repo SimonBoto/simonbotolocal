@@ -11,7 +11,7 @@ pmcid: "N/A"
 tier: 3
 relevance: "Medium — Practical guidance for IRB navigation, administrative rather than substantive ethics"
 status: extracted
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 extraction-date: 2026-03-27
 ---
 
@@ -78,7 +78,7 @@ If NKUA ethics committee delays:
 ## Related References
 - [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]] — Substantive ethics framework
 - [[Independent_Review_IRB_Ethics_[Z-002-0605].md]] — IRB function and role
-- [[MOC-Research-Ethics]] — Master ethics map
+-  — Master ethics map
 
 ---
 

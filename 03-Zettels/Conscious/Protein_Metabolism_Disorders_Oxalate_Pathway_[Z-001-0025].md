@@ -5,14 +5,14 @@ title: "Protein Metabolism Disorders & Oxalate Pathway"
 aliases: [Z-001-0025, Protein_Metabolism, Oxalate_Pathway, Urine_OA]
 domain: 001
 tags: [zettel, protein-metabolism, oxalate, kidney-stones, urine-organic-acids, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
 
-# Protein [[KEYWORD-Metabolism|metabolism]] Disorders & Oxalate Pathway
+# Protein  Disorders & Oxalate Pathway
 
 ## Core Claim
 **Oxalate metabolism demonstrates the metabolite pathway analysis approach** — substrate accumulation, alternative pathway activation, and urinary excretion patterns applicable to adipic acid and other urine organic acid (OA) markers.
@@ -63,7 +63,7 @@ Elevated urinary oxalate (diagnostic marker)
 | **Detection method** | LC-MS/MS | LC-MS/MS |
 
 ### Key Insight
-Both oxalate and adipic acid use **identical analytical methodology** — the urine organic acid panel established for IMD diagnosis directly applies to IR [[KEYWORD-Biomarker|biomarker]] detection.
+Both oxalate and adipic acid use **identical analytical methodology** — the urine organic acid panel established for IMD diagnosis directly applies to IR  detection.
 
 ## Connections
 
@@ -72,8 +72,8 @@ Both oxalate and adipic acid use **identical analytical methodology** — the ur
 - [[Krebs_Cycle_Metabolites_IR_Markers_[Z-001-0912].md]] — Mitochondrial dysfunction markers
 
 ### Downstream
-- [[Metabolic_Acidosis_[[KEYWORD-Biomarker|biomarkers]]_Patterns_Z-001-0028.md]] — Organic acid pattern recognition
-- [[MOC-PhD-METHAP-Trial]] — Urine OA methodology
+- _Patterns_Z-001-0028.md]] — Organic acid pattern recognition
+-  — Urine OA methodology
 
 ### Cross-Domain
 - [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_[Z-001-0911].md]] — Functional biomarker logic
@@ -99,12 +99,12 @@ When analyzing urine organic acids, clinicians assess:
 
 ## See Also
 - [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] — Source (Subsection 2.1)
-- [[Crivelli_etal_2021_Oxalate_Dietary_R-001-0029]] — Oxalate methodology
+-  — Oxalate methodology
 
 ---
 *Confidence: High* — Established urine OA methodology  
 *Next Review: After urine OA panel correlation analysis*
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

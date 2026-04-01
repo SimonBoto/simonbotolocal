@@ -6,14 +6,14 @@ aliases: [Z-001-1129, B-Vitamins-Methylation]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, b-vitamins, methylation, epigenetics, cancer]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]]
 source: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]]
 confidence: high
 created: 2026-03-08
 ---
 
-# B Vitamins Methylation Epigenetics [[KEYWORD-Cancer|cancer]]
+# B Vitamins Methylation Epigenetics 
 
 ## Overview
 B-vitamins (folate, B12, B6, B2) are essential cofactors for methylation reactions—regulating DNA methylation patterns, histone modifications, and gene expression that are profoundly altered in cancer.
@@ -25,7 +25,7 @@ B-vitamins (folate, B12, B6, B2) are essential cofactors for methylation reactio
 |---------|-------------|
 | **Universal methyl donor** | Required for all methylation |
 | **Synthesized from** | Methionine + ATP |
-| **B-[[KEYWORD-Vitamin_D|vitamin d]]ependence** | B12 for methionine regeneration |
+| **B-ependence** | B12 for methionine regeneration |
 
 ### DNA Methylation
 | Pattern | Effect | Cancer Status |
@@ -53,7 +53,7 @@ B-vitamins (folate, B12, B6, B2) are essential cofactors for methylation reactio
 ### Vitamin B6
 | Function | Epigenetic Effect |
 |----------|-------------------|
-| **Homocysteine [[KEYWORD-Metabolism|metabolism]]** | Affects SAM/SAH ratio |
+| **Homocysteine ** | Affects SAM/SAH ratio |
 | **Glycine cleavage** | One-carbon for methylation |
 
 ### Vitamin B2 (Riboflavin)
@@ -134,8 +134,8 @@ B-vitamins (folate, B12, B6, B2) are essential cofactors for methylation reactio
 ## Related
 - [[One_Carbon_Metabolism_Cancer_Nucleotide_Synthesis_[Z-001-1128].md]]
 - [[Folate_Cancer_Paradox_Prevention_Progression_[Z-001-1130].md]]
-- [[MOC-Cancer-Metabolism]]
-- [[MOC-Methylation-One-Carbon]]
+- 
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*

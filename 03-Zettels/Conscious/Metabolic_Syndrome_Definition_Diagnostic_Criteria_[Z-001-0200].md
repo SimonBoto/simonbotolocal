@@ -5,7 +5,7 @@ title: Metabolic Syndrome — Definition and Diagnostic Criteria
 aliases: [MetS-Definition, Metabolic-Syndrome-Criteria]
 domain: 001
 tags: [zettel, metabolic-syndrome, definition, diagnosis, clinical]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]]
 extraction-date: 2026-03-01
@@ -38,7 +38,7 @@ Requires **3 or more** of the following:
 - Ethnicity-specific waist circumference cutoffs
 
 **WHO Definition:**
-- [[KEYWORD-Insulin|insulin]] resistance as required component
+-  resistance as required component
 - Includes microalbuminuria
 
 ## Clinical Significance
@@ -49,7 +49,7 @@ Requires **3 or more** of the following:
 
 ## Connection to METHAP
 
-METHAP trial targets individuals with metabolic syndrome/[[KEYWORD-Insulin_Resistance|insulin resistance]]. Understanding diagnostic criteria essential for:
+METHAP trial targets individuals with metabolic syndrome/. Understanding diagnostic criteria essential for:
 - Inclusion/exclusion criteria
 - Baseline stratification
 - Outcome measurement (resolution of MetS components)
@@ -61,5 +61,5 @@ METHAP trial targets individuals with metabolic syndrome/[[KEYWORD-Insulin_Resis
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Magnesium|magnesium]]_Dosing_RDA_Therapeutic_Ranges_[Z-001-0219]|Z-001-0219]]
+- 
+- _Dosing_RDA_Therapeutic_Ranges_[Z-001-0219]|Z-001-0219]]

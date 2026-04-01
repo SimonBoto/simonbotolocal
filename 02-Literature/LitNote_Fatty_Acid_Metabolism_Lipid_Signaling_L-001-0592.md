@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Beta-oxidation, desaturase enzymes, fatty acid subclasses, clinical ratios
 status: extracted
-parent-moc: [[MOC-Omega3-Fats]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -81,8 +81,8 @@ extraction-date: 2026-03-08
 5. [[Carnitine_Shuttle_Fatty_Acid_Transport_[Z-001-1058].md]] — Transport mechanism
 
 ## Related References
-- [[MOC-Omega3-Fats]] — Parent domain
-- [[MOC-Cholesterol-Quality]] — Lipid metabolism
+-  — Parent domain
+-  — Lipid metabolism
 - [[Phase_3_Lipidomics_Interpretation_[Z-001-1038].md]] — Bootcamp content
 
 ---

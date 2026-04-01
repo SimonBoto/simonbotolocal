@@ -6,7 +6,7 @@ aliases: [Z-001-1066, OAT-Patterns]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, oat, patterns, recognition]
-parent-moc: [[MOC-Metabolomics-Analysis]]
+parent-moc: 
 source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
 source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
 confidence: high
@@ -23,18 +23,18 @@ Patterns reveal more than individual markers. This protocol teaches systematic p
 
 ## Common Patterns
 
-### Pattern 1: [[KEYWORD-Mitochondria|mitochondria]]l Energy Failure
+### Pattern 1: l Energy Failure
 | Markers | Lactate ↑, Pyruvate ↑, TCA intermediates ↑ |
 |---------|---------------------------------------------|
 | **Mechanism** | Blocked OXPHOS, compensatory glycolysis |
-| **Causes** | B-[[KEYWORD-Vitamin_D|vitamin d]]eficiency, oxidative stress, hypoxia |
+| **Causes** | B-eficiency, oxidative stress, hypoxia |
 | **Action** | Mitochondrial support, antioxidants, B-vitamins |
 
 ### Pattern 2: Aconitase Block (Oxidative Stress)
 | Markers | Citrate ↑, Isocitrate ↓ or normal |
 |---------|-----------------------------------|
 | **Mechanism** | Iron-sulfur cluster damage |
-| **Causes** | ROS, heavy metals, [[KEYWORD-Inflammation|inflammation]] |
+| **Causes** | ROS, heavy metals,  |
 | **Action** | Antioxidants, metal chelation |
 
 ### Pattern 3: B-Vitamin Depletion

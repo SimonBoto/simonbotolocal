@@ -5,7 +5,7 @@ title: Carbohydrate Context Modifies Renal Hemodynamics — High-Carb vs Low-Car
 aliases: [Z-001-0976]
 domain: 001
 tags: [zettel, carbohydrate-context, renal-hemodynamics, insulin, ketones, hyperfiltration, ckd, conscious]
-parent-moc: [[MOC-Renal-Physiology]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Carbohydrate_Context_Protein_CKD_L-001-0574]]
 status: conscious
@@ -15,7 +15,7 @@ status: conscious
 
 ## Core Hypothesis
 
-The metabolic effects of high protein intake on kidneys differ substantially depending on concurrent carbohydrate intake. **High-carb high-protein** may be more damaging than **low-carb high-protein** through differential [[KEYWORD-Insulin|insulin]] signaling, acid-base status, and alternative fuel utilization.
+The metabolic effects of high protein intake on kidneys differ substantially depending on concurrent carbohydrate intake. **High-carb high-protein** may be more damaging than **low-carb high-protein** through differential  signaling, acid-base status, and alternative fuel utilization.
 
 ## Metabolic Pathways Comparison
 
@@ -51,7 +51,7 @@ Maximum hyperfiltration response
 - Increased perfusion pressure
 
 **3. Metabolic Syndrome Exacerbation:**
-- High glycemic load perpetuates [[KEYWORD-Insulin_Resistance|insulin resistance]]
+- High glycemic load perpetuates 
 - Inflammatory milieu
 - Endothelial dysfunction
 - **Kidney vulnerable to multiple insults**
@@ -94,7 +94,7 @@ Attenuated hyperfiltration (?)
 **3. Improved Insulin Sensitivity:**
 - Low-carb diets enhance insulin sensitivity
 - Better metabolic control
-- Reduced [[KEYWORD-Inflammation|inflammation]]
+- Reduced 
 - **Systemic benefits for kidneys**
 
 **4. Acid-Base Considerations:**

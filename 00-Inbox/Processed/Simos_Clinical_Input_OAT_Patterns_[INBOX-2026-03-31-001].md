@@ -5,7 +5,7 @@ title: Simos Clinical Input — OAT Citrate Patterns & Neurotransmitter Ranges
 aliases: [INBOX-2026-03-31-001]
 domain: inbox
 tags: [inbox, oat, clinical-input, citrate, neurotransmitters, simos-expertise]
-parent-moc: [[MOC-Inbox]]
+parent-moc: 
 status: inbox
 source: Telegram conversation with Simos X
 date-received: 2026-03-31

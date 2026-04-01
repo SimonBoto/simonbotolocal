@@ -5,7 +5,7 @@ title: Magnesium as Cofactor — Enzymatic Reactions and Mg-ATP Complex
 aliases: [Mg-Cofactor, MgATP, Magnesium-Enzymes]
 domain: 001
 tags: [zettel, magnesium, biochemistry, cofactor, ATP, enzymes]
-parent-moc: [[MOC-Magnesium]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]
 extraction-date: 2026-03-01
@@ -48,20 +48,20 @@ extraction-date: 2026-03-01
 ## Magnesium Deficiency Consequences
 
 **Systemic Effects:**
-- Impaired energy [[KEYWORD-Metabolism|metabolism]] (glycolysis, Krebs cycle)
+- Impaired energy  (glycolysis, Krebs cycle)
 - Reduced protein synthesis
 - Impaired nucleic acid synthesis
 - Altered signal transduction
 
 **Clinical Correlates:**
 - Fatigue, weakness (energy failure)
-- Impaired glucose tolerance (reduced [[KEYWORD-Insulin|insulin]] sensitivity)
+- Impaired glucose tolerance (reduced  sensitivity)
 - Muscle dysfunction (impaired contraction/relaxation)
 
 ## METHAP Relevance
 
 **Critical Protocol Point:**
-- High-dose [[KEYWORD-Vitamin_D|vitamin d]] requires Mg-dependent enzymes (CYP hydroxylases)
+- High-dose  requires Mg-dependent enzymes (CYP hydroxylases)
 - Mg deficiency → impaired 25(OH)D and 1,25(OH)₂D synthesis
 - Optimizing Mg status essential for METHAP success
 

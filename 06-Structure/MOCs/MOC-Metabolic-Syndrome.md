@@ -4,7 +4,7 @@ type: moc
 title: MOC — Metabolic Syndrome
 aliases: [MOC_MetS, Metabolic_Syndrome]
 tags: [moc, metabolic-syndrome, stub, future]
-parent-moc: [[MOC-INDEX]]
+parent-moc: 
 status: stub
 created: 2026-02-15
 last-updated: 2026-02-22
@@ -21,8 +21,8 @@ last-updated: 2026-02-22
 🟡 **STUB — No MetS-specific zettels yet**
 
 Related content exists in:
-- [[MOC-Insulin-Signaling]] — Mechanistic basis
-- [[MOC-Nutrition]] — Dietary factors
+-  — Mechanistic basis
+-  — Dietary factors
 
 ---
 
@@ -53,9 +53,9 @@ Related content exists in:
 
 | MOC | Connection |
 |-----|------------|
-| [[MOC-Insulin-Signaling]] | Mechanistic foundation |
-| [[MOC-Nutrition]] | Dietary interventions |
-| [[MOC-Biomarkers]] | MetS biomarkers panel |
+|  | Mechanistic foundation |
+|  | Dietary interventions |
+|  | MetS biomarkers panel |
 
 ---
 

@@ -5,7 +5,7 @@ title: OPLS-DA Overfitting Risks with Small Sample Sizes
 aliases: [Z-001-1026]
 domain: 001
 tags: [zettel, opls-da, overfitting, small-samples, multivariate-analysis, metabolomics, q2-score, r2-score, validation, conscious]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -65,7 +65,7 @@ Orthogonal Partial Least Squares Discriminant Analysis (OPLS-DA) can achieve **p
 ## Prevention Strategies
 
 ### Study Design
-- **Sample size:** Minimum 20 per group for exploratory, 50+ for [[KEYWORD-Biomarker|biomarker]] claims
+- **Sample size:** Minimum 20 per group for exploratory, 50+ for  claims
 - **Variable reduction:** Filter to 100-500 most variable metabolites before OPLS-DA
 - **Independent validation:** Reserve 30% of samples for external validation
 
@@ -89,7 +89,7 @@ Orthogonal Partial Least Squares Discriminant Analysis (OPLS-DA) can achieve **p
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- /Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]]
+- 
 

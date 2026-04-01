@@ -5,7 +5,7 @@ title: "Amino Acids to Succinyl-CoA: B12 Criticality"
 aliases: [Z-001-0495, succinyl-coa, b12, bcaas, methylmalonyl-coa]
 domain: 001
 tags: [zettel, succinyl-coa, b12, isoleucine, valine, methionine, threonine]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0046A]]
@@ -22,7 +22,7 @@ source: [[L-001-0046A]]
 | **Methionine** | → S-adenosylmethionine → Homocysteine → Propionyl-CoA → Succinyl-CoA | Methyl donor first |
 | **Threonine** | → α-ketobutyrate → Propionyl-CoA → Succinyl-CoA | Threonine dehydrogenase |
 
-## Common Pathway: Propionate [[KEYWORD-Metabolism|metabolism]]
+## Common Pathway: Propionate 
 
 ### Critical Step: Methylmalonyl-CoA Mutase
 ```
@@ -71,7 +71,7 @@ Valine/Isoleucine/Leucine → Branched-chain α-keto acid
 
 ## Related
 - [[Propionate_Metabolism_Gluconeogenesis_[Z-001-0478]]] Propionate Metabolism (detailed pathway)
-- [[Vitamin_Dependence_Organic_Acid_Metabolism_[Z-001-0479]]] [[KEYWORD-Vitamin_D|vitamin d]]ependence
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_[Z-001-0479]]] ependence
 - [[Ketogenic_Amino_Acids_Leucine_Lysine_[Z-001-0498]]] Ketogenic Amino Acids
 
 ---
@@ -79,5 +79,5 @@ Valine/Isoleucine/Leucine → Branched-chain α-keto acid
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[Methylmalonyl_CoA_Mutase_B12_[[KEYWORD-Mechanism|mechanism]]_[Z-001-0428]|Z-001-0428]]
+- 
+- _[Z-001-0428]|Z-001-0428]]

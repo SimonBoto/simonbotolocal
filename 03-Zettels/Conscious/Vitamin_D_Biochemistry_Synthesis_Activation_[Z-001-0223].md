@@ -5,13 +5,13 @@ title: Vitamin D Biochemistry — Synthesis, Activation, and VDR Mechanisms
 aliases: [VitD-Biochemistry, Vitamin-D-Synthesis, VDR]
 domain: 001
 tags: [zettel, vitamin-d, biochemistry, synthesis, VDR, metabolism]
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Vitamin_D|vitamin d]] Biochemistry — Synthesis, Activation, and VDR Mechanisms
+#  Biochemistry — Synthesis, Activation, and VDR Mechanisms
 
 > Vitamin D functions as a steroid hormone with complex synthesis, activation, and genomic signaling mechanisms that regulate metabolic health through widespread tissue expression of the vitamin D receptor.
 
@@ -61,11 +61,11 @@ extraction-date: 2026-03-01
 
 ### Tissue Distribution
 **Metabolically Relevant Tissues:**
-- **Pancreatic β-cells:** [[KEYWORD-Insulin|insulin]] synthesis and secretion
+- **Pancreatic β-cells:**  synthesis and secretion
 - **Skeletal muscle:** Glucose uptake, insulin sensitivity
 - **Adipose tissue:** Adipogenesis, inflammation, adipokine production
 - **Immune cells:** Macrophages, T-cells, dendritic cells
-- **Liver:** Lipid [[KEYWORD-Metabolism|metabolism]], glucose production
+- **Liver:** Lipid , glucose production
 - **Cardiovascular:** Endothelial cells, vascular smooth muscle
 
 ### Target Genes (>1000 regulated)
@@ -117,4 +117,4 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -6,14 +6,14 @@ aliases: [Z-001-1136, p53-Loss]
 domain: 001
 domain-name: Cancer Biology
 tags: [zettel, p53, tumor-suppressor, function-loss, consequences]
-parent-moc: [[MOC-Cancer-Biology]]
+parent-moc: 
 source-litnote: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]]
 source: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]]
 confidence: high
 created: 2026-03-08
 ---
 
-# p53 Function Loss [[KEYWORD-Cancer|cancer]] Consequences
+# p53 Function Loss  Consequences
 
 ## Overview
 The p53 protein, encoded by the TP53 gene, is the "guardian of the genome." Loss of p53 function removes critical checkpoints for DNA repair, cell cycle control, and apoptosis—enabling malignant transformation and therapeutic resistance.
@@ -28,7 +28,7 @@ The p53 protein, encoded by the TP53 gene, is the "guardian of the genome." Loss
 | **Spindle assembly** | Monitors chromosome segregation |
 
 ### 2. DNA Repair
-| [[KEYWORD-Mechanism|mechanism]] | p53 Role |
+|  | p53 Role |
 |-----------|----------|
 | **Nucleotide excision repair** | Induces GADD45 |
 | **Base excision repair** | Coordinates response |
@@ -73,7 +73,7 @@ The p53 protein, encoded by the TP53 gene, is the "guardian of the genome." Loss
 ### 4. Metabolic Reprogramming
 | Effect | Mechanism |
 |--------|-----------|
-| **Warburg effect** | p53 normally suppresses [[KEYWORD-Glycolysis|glycolysis]] |
+| **Warburg effect** | p53 normally suppresses  |
 | **Oxidative stress** | Reduced antioxidant response |
 | **Autophagy** | Dysregulated |
 
@@ -112,7 +112,7 @@ The p53 protein, encoded by the TP53 gene, is the "guardian of the genome." Loss
 ## Related
 - [[TP53_Abnormalities_Multiple_Myeloma_del17p_[Z-001-1135].md]]
 - [[Targeting_p53_Dysfunction_MDM2_Inhibitors_[Z-001-1137].md]]
-- [[MOC-Cancer-Biology]]
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*

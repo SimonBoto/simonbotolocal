@@ -138,4 +138,4 @@ To delve deeper into the show's cultural impact and specific episodes that tackl
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

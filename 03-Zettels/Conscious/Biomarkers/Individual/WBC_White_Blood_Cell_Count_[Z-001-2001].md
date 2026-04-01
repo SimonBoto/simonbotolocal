@@ -5,7 +5,7 @@ title: WBC — White Blood Cell Count, Leukocytes
 aliases: [Z-001-2001, WBC, White-Blood-Cells, Leukocytes, Immune-Count]
 domain: 001
 tags: [zettel, biomarker, wbc, leukocytes, immune-system, infection, inflammation]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

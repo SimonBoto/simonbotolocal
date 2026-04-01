@@ -6,7 +6,7 @@ aliases: [Z-001-1111, Pyruvate-Hub]
 domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, pyruvate, hub, metabolism, fates]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
 source: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
 confidence: high
@@ -47,7 +47,7 @@ Cycle       glycolysis                synthesis
 |-----------|-----------|
 | **Pyruvate** | **Acetyl-CoA** |
 | **NAD⁺** | **NADH** |
-| **[[KEYWORD-Insulin|insulin]]** | **PDH kinase** (phosphorylates/inactivates) |
+| **** | **PDH kinase** (phosphorylates/inactivates) |
 
 ## Fate 2: Lactate (Anaerobic)
 
@@ -65,7 +65,7 @@ Pyruvate + NADH + H⁺ ↔ Lactate + NAD⁺
 | Tissue | Lactate Production | Reason |
 |--------|-------------------|--------|
 | **Muscle (intense)** | High | O₂ limitation |
-| **RBCs** | Only fate | No [[KEYWORD-Mitochondria|mitochondria]] |
+| **RBCs** | Only fate | No  |
 | **Tumors** | High (Warburg) | Even with O₂ |
 
 ## Fate 3: Oxaloacetate (Gluconeogenesis)
@@ -126,7 +126,7 @@ Pyruvate + Glutamate ↔ Alanine + Alpha-ketoglutarate
 | **Neurological** | Brain depends on PDH |
 | **Treatment** | Ketogenic diet (bypasses PDH) |
 
-### Warburg Effect ([[KEYWORD-Cancer|cancer]])
+### Warburg Effect ()
 - **Observation:** High lactate even with oxygen
 - **Mechanism:** PDH inhibited, glycolysis favored
 - **Therapeutic target:** Reactivate PDH
@@ -134,7 +134,7 @@ Pyruvate + Glutamate ↔ Alanine + Alpha-ketoglutarate
 ## Related
 - [[Acetyl_CoA_Central_Metabolic_Connector_[Z-001-1112].md]]
 | [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_[Z-001-1101].md]]
-| [[MOC-Glycolysis-PPP]]
+| 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

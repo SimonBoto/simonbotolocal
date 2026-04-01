@@ -60,9 +60,9 @@ created: 2026-03-04
 - Liver transplant (curative)
 
 ## Connections
-- [[MOC-Amino-Acid-Metabolism]]
-- [[MOC-Nitrogen-Metabolism]]
-- [[MOC-Liver-Function]]
+- 
+- 
+- 
 
 ---
 *Created: 2026-03-04 | Status: Active (growing)*

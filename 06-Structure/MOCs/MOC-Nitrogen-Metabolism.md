@@ -35,13 +35,13 @@ created: 2026-03-04
 | **Intestine** | Glutamine utilization (fuel) |
 
 ## Clinical
-- [[MOC-Urea-Cycle]] (defects)
+-  (defects)
 - Hyperammonemia
 - Hepatic encephalopathy
 
 ## Connections
-- [[MOC-Amino-Acid-Metabolism]]
-- [[MOC-Urea-Cycle]]
+- 
+- 
 
 ---
 *Created: 2026-03-04 | Status: Active (growing)*

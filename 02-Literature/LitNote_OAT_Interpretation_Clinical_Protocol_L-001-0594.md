@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Comprehensive OAT marker interpretation, pattern recognition, clinical decision-making
 status: extracted
-parent-moc: [[MOC-Metabolomics-Analysis]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -82,7 +82,7 @@ extraction-date: 2026-03-08
 5. [[OAT_Clinical_Action_Mapping_[Z-001-1069].md]] — Marker → treatment
 
 ## Related References
-- [[MOC-Metabolomics-Analysis]]
+- 
 - [[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052].md]]
 - [[Gut_Microbiome_OAT_Markers_[Z-001-1064].md]]
 

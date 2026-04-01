@@ -5,7 +5,7 @@ title: Seed Oils — Production and Metabolic Impact
 aliases: [Seed-Oils, Linoleic-Acid, Industrial-Oils]
 domain: 001
 tags: [zettel, seed-oils, linoleic-acid, industrial-oils, metabolic-impact]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]]
 extraction-date: 2026-03-01
@@ -38,9 +38,9 @@ extraction-date: 2026-03-01
 **Pro-inflammatory:**
 - Excess AA production
 - COX-2 activation
-- Chronic [[KEYWORD-Inflammation|inflammation]]
+- Chronic 
 
-**[[KEYWORD-Oxidative_Stress|oxidative stress]]:**
+**:**
 - PUFAs prone to oxidation
 - LDL oxidation
 - Endothelial dysfunction
@@ -48,7 +48,7 @@ extraction-date: 2026-03-01
 **Metabolic Disease:**
 - NAFLD
 - Obesity
-- Type 2 [[KEYWORD-Diabetes|diabetes]]
+- Type 2 
 
 ---
 
@@ -56,5 +56,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Omega6_Omega3_Ratio_Inflammatory_Potential_[Z-001-0564]|Z-001-0564]]

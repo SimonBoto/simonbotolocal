@@ -5,13 +5,13 @@ title: Adipate Metabolism and TCA Cycle Entry
 aliases: [Z-101-0010, Adipate to Acetyl-CoA, Dicarboxylic Acid Catabolism]
 domain: 101
 tags: [zettel, adipate, TCA-cycle, beta-oxidation, acetyl-CoA, succinyl-CoA]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 status: conscious
 source-litnote: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]]"
 extraction-date: 2026-03-02
 ---
 
-# Adipate [[KEYWORD-Metabolism|metabolism]] and TCA Cycle Entry
+# Adipate  and TCA Cycle Entry
 
 **Key Point:** Adipate is not a metabolic endpoint — it can be catabolized to enter the TCA cycle for energy production.
 
@@ -20,7 +20,7 @@ extraction-date: 2026-03-02
 ### Step 1: Activation
 **Adipate + CoA + ATP → Adipyl-CoA + AMP + PPi**
 - Catalyzed by: Acyl-CoA synthetase
-- Location: [[KEYWORD-Mitochondria|mitochondria]] (adipate is water-soluble, enters without carnitine)
+- Location:  (adipate is water-soluble, enters without carnitine)
 
 ### Step 2: First β-Oxidation Round
 **Adipyl-CoA (C6) → Glutaryl-CoA (C5) + Acetyl-CoA (C2)**
@@ -65,5 +65,5 @@ extraction-date: 2026-03-02
 
 
 ## RELATED FILES
-- [[KEYWORD-Krebs_Cycle]]
-- [[MOC-INDEX|Master Index]]
+- 
+- 

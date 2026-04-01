@@ -15,7 +15,7 @@ domain: 101
 tags: [litnote, adipic-acid, fatty-acid-metabolism, omega-oxidation, beta-oxidation, carnitine, pharmacometabolomics, insulin-resistance]
 source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]]"
 status: extracted
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 extraction-date: 2026-03-02
 ---
 
@@ -145,8 +145,8 @@ When β-oxidation is impaired:
 ## Related References
 - [[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]] — Clinical interpretation
 - [[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]] — Cofactor biochemistry
-- [[MOC-Pharmacometabolomics]] — Parent MOC
-- [[MOC-Insulin-Resistance]] — Clinical context
+-  — Parent MOC
+-  — Clinical context
 
 ---
 

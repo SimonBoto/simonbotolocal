@@ -5,7 +5,7 @@ title: Isocitrate Dehydrogenase Dual Function and Clinical Significance
 aliases: [Z-101-0020, IDH Dual Activity, IDH Cancer Mutations]
 domain: 101
 tags: [zettel, isocitrate-dehydrogenase, idh, tca-cycle, cancer, oncometabolite, 2-hg]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 status: conscious
 source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]]"
 extraction-date: 2026-03-02
@@ -51,7 +51,7 @@ Despite performing both reactions, IDH is classified as a dehydrogenase because:
 ## IDH Isoforms
 
 ### IDH3 (NAD⁺-dependent)
-- **Location:** [[KEYWORD-Mitochondria|mitochondria]]l matrix
+- **Location:** l matrix
 - **Catalytic activity:** Both dehydrogenation and decarboxylation
 - **Regulation:** Allosterically controlled
   - **Activated by:** ADP (low energy signal)
@@ -69,7 +69,7 @@ Despite performing both reactions, IDH is classified as a dehydrogenase because:
   - Reductive carboxylation (reverse reaction) in hypoxia
 
 ### IDH2 (NADP⁺-dependent)
-- **Location:** [[KEYWORD-Mitochondria|mitochondrial]] matrix
+- **Location:**  matrix
 - **Catalytic activity:** Both reactions
 - **Regulation:** Not allosterically regulated
 - **Function:**
@@ -77,7 +77,7 @@ Despite performing both reactions, IDH is classified as a dehydrogenase because:
   - Protection against oxidative stress
   - Aconitase repair (iron-sulfur cluster maintenance)
 
-## Clinical Significance — IDH Mutations in [[KEYWORD-Cancer|cancer]]
+## Clinical Significance — IDH Mutations in 
 
 ### Cancer Types with IDH Mutations
 
@@ -133,4 +133,4 @@ While primarily a cancer target, IDH highlights:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

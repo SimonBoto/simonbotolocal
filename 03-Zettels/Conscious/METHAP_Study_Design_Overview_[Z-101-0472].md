@@ -5,7 +5,7 @@ title: METHAP Study Design Overview
 aliases: [Z-101-0472]
 domain: 101
 tags: [zettel, methap, phd, study-design, clinical-trial, metabolomics, insulin-resistance, conscious]
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]]
 status: conscious
 ---
@@ -43,7 +43,7 @@ Specific patterns of urinary organic acids and plasma free fatty acids can discr
 **Gas Chromatography-Mass Spectrometry (GC-MS)**
 - **Urine:** Organic acid profiling
 - **Plasma:** Free fatty acid analysis
-- **Advantage:** High sensitivity, reproducible, established [[KEYWORD-Metabolomics|metabolomics]] platform
+- **Advantage:** High sensitivity, reproducible, established  platform
 
 ## Statistical Approach
 | Method | Application |
@@ -64,8 +64,8 @@ Specific patterns of urinary organic acids and plasma free fatty acids can discr
 | Supplement | Rationale |
 |------------|-----------|
 | **Omega-3 fatty acids** | Anti-inflammatory, metabolic improvement |
-| **[[KEYWORD-Vitamin_D|vitamin d]]** | Insulin sensitivity, metabolic regulation |
-| **Magnesium** | Glucose [[KEYWORD-Metabolism|metabolism]], insulin action |
+| **** | Insulin sensitivity, metabolic regulation |
+| **Magnesium** | Glucose , insulin action |
 | **Glutamine** | Gut barrier, metabolic fuel |
 | **Vitamin C** | Antioxidant, cofactor |
 | **Probiotics** | Gut microbiome modulation |
@@ -115,5 +115,5 @@ Specific patterns of urinary organic acids and plasma free fatty acids can discr
 - [[Vitamin_D_High_Dose_Monitoring_Protocol_[Z-001-0091]|Z-001-0091]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

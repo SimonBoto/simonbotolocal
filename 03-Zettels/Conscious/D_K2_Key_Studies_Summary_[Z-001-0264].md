@@ -5,7 +5,7 @@ title: D-K2 Key Studies Summary (Knapen, Shea, Van Ballegooijen)
 aliases: [Key-Studies, Knapen, Shea, Clinical-Trials]
 domain: 001
 tags: [zettel, vitamin-d, vitamin-k2, studies, trials, evidence]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_D_K2_Co_Supplementation_Evidence_L-001-0214]]
 extraction-date: 2026-03-01
@@ -35,7 +35,7 @@ extraction-date: 2026-03-01
 **METHAP Relevance:**
 - Supports K2 for vascular health
 - 180 mcg MK-7 = Effective dose
-- Long-term [[KEYWORD-Safety|safety]] demonstrated
+- Long-term  demonstrated
 
 ## Shea et al. (2015)
 
@@ -94,4 +94,4 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

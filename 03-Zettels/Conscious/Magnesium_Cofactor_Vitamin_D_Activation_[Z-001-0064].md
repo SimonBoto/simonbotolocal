@@ -6,14 +6,14 @@ aliases: [Z-001-0064, Magnesium-Vitamin-D-Cofactor]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, magnesium, cofactor, hydroxylation]
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]
 confidence: high
 created: 2026-03-01
 status: conscious
 ---
 
-# Magnesium Cofactor for [[KEYWORD-Vitamin_D|vitamin d]] Activation
+# Magnesium Cofactor for  Activation
 
 Magnesium is required as a cofactor for both hydroxylation steps converting vitamin D to active calcitriol: (1) hepatic 25-hydroxylation (25(OH)D), and (2) renal 1α-hydroxylation (1,25(OH)2D). Mg deficiency impairs vitamin D activation even with adequate intake.
 
@@ -30,9 +30,9 @@ Magnesium is required as a cofactor for both hydroxylation steps converting vita
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
+**Parent MOC:** -
 **Source:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]
-**Related:** [[Vitamin_K2_Calcium_Direction_Bone_vs_Soft_Tissue_[Z-001-0065]]], [[MOC-Vitamin-Safety]]
+**Related:** [[Vitamin_K2_Calcium_Direction_Bone_vs_Soft_Tissue_[Z-001-0065]]], 
 
 ---
 
@@ -40,4 +40,4 @@ Magnesium is required as a cofactor for both hydroxylation steps converting vita
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

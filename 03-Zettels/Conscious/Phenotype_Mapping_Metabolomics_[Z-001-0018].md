@@ -5,14 +5,14 @@ title: "Phenotype Mapping via Metabolomics"
 aliases: [Z-001-0018, Phenotype_Mapping, Metabolomics_Phenotype]
 domain: 001
 tags: [zettel, phenotype, metabolomics, systems-biology, clinical-practice, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
 
-# Phenotype Mapping via [[KEYWORD-Metabolomics|metabolomics]]
+# Phenotype Mapping via 
 
 ## Core Claim
 Metabolomics serves as the primary tool for **qualitative and quantitative measurement of the phenotype of interest**, decoding metabolic disorders through comprehensive metabolite profiling.
@@ -38,7 +38,7 @@ Unlike genomics (static) or transcriptomics (intermediate), metabolomics capture
 | **Treatment response** | Responders vs non-responders | Metformin responsiveness |
 | **Specific metabolic states** | Subclinical dysfunction | Dysbiosis patterns |
 | **Environmental exposure** | Toxin accumulation markers | Heavy metal exposure |
-| **Nutritional status** | Functional deficiency assessment | [[KEYWORD-Vitamin_D|vitamin d]] insufficiency |
+| **Nutritional status** | Functional deficiency assessment |  insufficiency |
 
 ## Clinical Advantage
 **Metabolomics captures the 80%**: Since non-genetic factors drive 80% of non-communicable diseases, metabolomics — which measures environmental and metabolic influences — becomes the essential tool for understanding disease etiology.
@@ -53,11 +53,11 @@ Unlike genomics (static) or transcriptomics (intermediate), metabolomics capture
 ### Downstream
 - [[Predictive_Metabolites_T1D_Example_Z-001-0019.md]] — Phenotype prediction before symptoms
 - [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]] — Specific phenotype markers
-- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]] — Specific micronutrient phenotype
+- -Mechanisms]] — Specific micronutrient phenotype
 
 ### Parallel
-- [[IR_Mechanisms_Map]] — Systems view of IR phenotype
-- [[Biomarkers_Taxonomy]] — Classification of phenotype markers
+-  — Systems view of IR phenotype
+-  — Classification of phenotype markers
 
 ## METHAP Trial Relevance
 **Phenotype = Interventional Target**: The METHAP trial intervenes on the "insulin resistance phenotype" through Vitamin D — metabolomics captures:
@@ -71,7 +71,7 @@ Unlike genomics (static) or transcriptomics (intermediate), metabolomics capture
 > *Metabolomics constitutes the tool for qualitative and quantitative measurement of the phenotype of interest*
 
 ## See Also
-- [[MOC-Metabolomics-Training]] — Course navigation
+-  — Course navigation
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source literature note
 - [[Omics_Training_Core_Insights_S-001-0001]] — DE1 synthesis
 
@@ -80,5 +80,5 @@ Unlike genomics (static) or transcriptomics (intermediate), metabolomics capture
 *Next Review: After DE4-8 completion*
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

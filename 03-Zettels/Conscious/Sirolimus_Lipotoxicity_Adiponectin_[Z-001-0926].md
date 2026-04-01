@@ -5,7 +5,7 @@ title: Sirolimus Alters Adipose Tissue Causing Lipotoxicity and Insulin Resistan
 aliases: [Z-001-0926, Z-001-0519-deprecated, Sirolimus Adipose, Lipotoxicity, Adiponectin Suppression]
 domain: 001
 tags: [zettel, sirolimus, rapamycin, adipose, adiponectin, lipotoxicity, ffa, insulin-resistance]
-parent-moc: [[MOC-Insulin-Resistance]]
+parent-moc: 
 status: conscious
 source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]]"
 extraction-date: 2026-03-02
@@ -20,7 +20,7 @@ source-litnote: Synthesized from clinical practice
 ## Adipose Tissue as Endocrine Organ
 
 **Adipokines Produced:**
-| Adipokine | Function | Effect on Glucose [[KEYWORD-Metabolism|metabolism]] |
+| Adipokine | Function | Effect on Glucose  |
 |-----------|----------|------------------------------|
 | **Adiponectin** | Insulin-sensitizing | Enhances glucose uptake, FFA oxidation |
 | **Leptin** | Satiety signal | Regulates energy balance |
@@ -139,7 +139,7 @@ Hepatic IR      Muscle IR       β-cell dysfunction
 - Central obesity may not improve despite reduced adipogenesis
 - Lipoatrophy in some cases (reduced subcutaneous fat)
 
-**[[KEYWORD-Biomarker|biomarker]]s:**
+**s:**
 - Low adiponectin
 - Elevated FFAs
 - Elevated triglycerides
@@ -168,6 +168,6 @@ Hepatic IR      Muscle IR       β-cell dysfunction
 
 ## RELATED FILES
 - [[Sirolimus_ETC_Impairment_ROS_Generation_[Z-001-0513]|Z-001-0513]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

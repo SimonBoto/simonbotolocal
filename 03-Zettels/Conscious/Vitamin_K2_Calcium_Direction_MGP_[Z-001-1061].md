@@ -6,7 +6,7 @@ aliases: [Z-001-1061, K2-MGP]
 domain: 001
 domain-name: Vitamin Metabolism
 tags: [zettel, vitamin-k2, mgp, calcium]
-parent-moc: [[MOC-Vitamin-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
 source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
 confidence: high
@@ -23,7 +23,7 @@ Vitamin K2 directs calcium into bone and away from vascular tissue by activating
 ### MK-4 (Menaquinone-4)
 - **Source:** Animal products, conversion from K1
 - **Half-life:** Hours
-- **Role:** Local tissue synthesis, [[KEYWORD-Bone_Health|bone health]]
+- **Role:** Local tissue synthesis, 
 - **Dosing:** 45 mg/day (pharmacological)
 
 ### MK-7 (Menaquinone-7)
@@ -69,7 +69,7 @@ K2-activated MGP directs: → BONE (if needed)
 | **Vascular calcification** | Prevention/reversal |
 | **Osteoporosis** | Bone mineralization |
 | **Dental health** | Dentin formation |
-| **[[KEYWORD-Insulin|insulin]] sensitivity** | Via osteocalcin |
+| ** sensitivity** | Via osteocalcin |
 
 ## Dosing Strategy
 - **General:** MK-7 100-200 mcg/day
@@ -82,11 +82,11 @@ K2-activated MGP directs: → BONE (if needed)
 
 ## Related
 - [[Vitamin_D_PTH_Calcium_Axis_[Z-001-1059].md]]
-- [[MOC-Vitamin-[[KEYWORD-Metabolism|metabolism]]]]
+- 
 
 ---
 *Source: CGPT-0022 — Vitamin-mineral biochemistry*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

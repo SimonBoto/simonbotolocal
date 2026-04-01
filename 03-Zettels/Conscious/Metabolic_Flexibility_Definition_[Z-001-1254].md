@@ -5,7 +5,7 @@ title: Metabolic Flexibility Definition — The Capacity for Fuel Switching
 aliases: [Z-001-1254]
 domain: 001
 tags: [zettel, metabolic-flexibility, RER, fuel-switching, metabolic-health, insulin-sensitivity]
-parent-moc: "[[MOC-Metabolic-Health]], [[MOC-Insulin-Resistance]]"
+parent-moc: ", "
 source-litnote: "[[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]]"
 status: conscious
 ---
@@ -42,7 +42,7 @@ status: conscious
 | RER Value | Primary Fuel | Metabolic State |
 |-----------|--------------|-----------------|
 | **0.70** | Pure fat oxidation | Fasting, keto-adapted |
-| **0.85** | Mixed (50/50) | Balanced [[KEYWORD-Metabolism|metabolism]] |
+| **0.85** | Mixed (50/50) | Balanced  |
 | **1.00** | Pure glucose oxidation | High-carb fed state |
 | **>1.00** | Anaerobic glycolysis | High-intensity exercise |
 
@@ -68,7 +68,7 @@ Inability to appropriately switch fuel sources; persistent dependence on glucose
 ### Association with Disease
 - **Obesity:** Impaired fasting fat oxidation
 - **Type 2 Diabetes:** Glucose-dependent metabolism, lipotoxicity
-- **[[KEYWORD-Insulin|insulin]] Resistance:** Paradox of elevated FFAs + impaired fat oxidation
+- ** Resistance:** Paradox of elevated FFAs + impaired fat oxidation
 - **Metabolic Syndrome:** Cluster of inflexibility manifestations
 
 ---
@@ -87,7 +87,7 @@ Inability to appropriately switch fuel sources; persistent dependence on glucose
 - Sedentary lifestyle
 - Continuous high-carbohydrate feeding
 - Mitochondrial dysfunction
-- [[KEYWORD-Insulin_Resistance|insulin resistance]]
+- 
 
 ---
 

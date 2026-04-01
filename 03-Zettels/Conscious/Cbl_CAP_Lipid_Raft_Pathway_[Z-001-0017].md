@@ -7,17 +7,17 @@ aliases: [Z-001-0017, Cbl_CAP, Lipid_Raft, Alternative_Pathway]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, mechanism, Cbl, CAP, caveolin, alternative]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[Ref_Nature_IR_Mechanisms_2022]]
+parent-moc: 
+source: 
 confidence: medium
 created: 2026-02-22
 ---
 
 # Cbl-CAP Pathway and Lipid Raft Signaling
 
-An alternative [[KEYWORD-Insulin|insulin]] signaling pathway involves Cbl-CAP complex and lipid raft localization, independent of IRS-PI3K.
+An alternative  signaling pathway involves Cbl-CAP complex and lipid raft localization, independent of IRS-PI3K.
 
-**[[KEYWORD-Mechanism|mechanism]]:**
+**:**
 1. Insulin activates INSR → phosphorylates Cbl-associated protein (CAP)
 2. Phosphorylated CAP binds activated Cbl
 3. Cbl-CAP complex localizes to caveolin-enriched lipid rafts
@@ -43,10 +43,10 @@ An alternative [[KEYWORD-Insulin|insulin]] signaling pathway involves Cbl-CAP co
 
 ## Context
 
-**Also in:** [[MOC-Insulin-Signaling]]
+**Also in:** 
 
 **Status:** Alternative pathway; quantitative contribution debated
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

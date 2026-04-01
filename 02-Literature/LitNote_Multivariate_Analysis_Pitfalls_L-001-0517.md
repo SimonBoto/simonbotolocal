@@ -8,7 +8,7 @@ journal: ChatGPT Archive
 tier: 2
 relevance: High — Critical for PhD metabolomics methodology and METHAP design
 status: extracted
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 extraction-date: 2026-03-06
 domain: 001
 ---

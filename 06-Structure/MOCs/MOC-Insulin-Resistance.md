@@ -29,9 +29,9 @@ created: 2026-03-04
 - Cardiovascular disease
 
 ## Related
-- [[MOC-Metabolic-Syndrome]]
-- [[MOC-Diabetes-T2D]]
-- [[MOC-Glycolysis-PPP]]
+- 
+- 
+- 
 
 ---
 *Created: 2026-03-04 | Status: Active (growing)*

@@ -5,7 +5,7 @@ title: MTHFR Testing and Interpretation
 aliases: [MTHFR-Testing, Genotyping, Interpretation]
 domain: 001
 tags: [zettel, mthfr, testing, genotyping, interpretation]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # MTHFR Testing and Interpretation
 
-> MTHFR genotyping can guide [[KEYWORD-Folate|folate]] supplementation but should be interpreted cautiously as these are common variants, not pathogenic mutations, and dietary folate status remains the dominant factor.
+> MTHFR genotyping can guide  supplementation but should be interpreted cautiously as these are common variants, not pathogenic mutations, and dietary folate status remains the dominant factor.
 
 ## Testing Methods
 
@@ -45,7 +45,7 @@ extraction-date: 2026-03-01
 - Supplemental folate overcomes variant effects
 - Don't over-interpret
 
-**[[KEYWORD-Clinical|clinical]] Context:**
+** Context:**
 - One piece of puzzle
 - Combine with homocysteine levels
 - Consider other B vitamins
@@ -71,5 +71,5 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Folate_5MTHF_vs_Folic_Acid_[Z-004-0002]|Z-004-0002]]

@@ -6,7 +6,7 @@ aliases: [Z-001-1039, Phase-4-Integration]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, clinical-integration, case-based-learning]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
 source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
 confidence: high
@@ -31,8 +31,8 @@ Trainees learn to integrate simultaneously:
 
 #### Algorithm 1: Energy-First Reasoning
 > "Is this primarily an energy problem?"
-- Check: Lactate, pyruvate, BHB, [[KEYWORD-Mitochondria|mitochondria]]l markers
-- Priority: [[KEYWORD-Mitochondria|mitochondrial]] support before other interventions
+- Check: Lactate, pyruvate, BHB, l markers
+- Priority:  support before other interventions
 - Sequence: ATP before detox, gut, hormones
 
 #### Algorithm 2: Cellular Detox + Methylation
@@ -74,16 +74,16 @@ By end of Week 8, trainees must demonstrate:
 - [ ] Fit into clinic workflow without chaos
 
 ## The Goal
-> "This produces [[KEYWORD-Metabolomics|metabolomics]] clinicians, not pathway parrots."
+> "This produces  clinicians, not pathway parrots."
 
 ## Related
 - [[Phase_3_Lipidomics_Interpretation_[Z-001-1038].md]]
 - [[Bootcamp_Four_Phase_Structure_[Z-001-1035].md]]
-- [[MOC-Clinical-Protocols]]
+- 
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -5,13 +5,13 @@ title: "Formamide Chemistry: Alternative Prebiotic Pathway"
 aliases: [Z-101-0463, formamide-chemistry, alternative-prebiotic]
 domain: 101
 tags: [zettel, formamide, prebiotic-chemistry, nucleobase-synthesis, alternative-pathway]
-parent-moc: [[MOC-Origins-of-Life]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-101-0045B]]
 ---
 
-# Formamide [[KEYWORD-Chemistry|chemistry]]: Alternative Prebiotic Pathway
+# Formamide : Alternative Prebiotic Pathway
 
 ## The HCN Problem
 While HCN polymerization produces adenine, it has limitations:
@@ -28,9 +28,9 @@ While HCN polymerization produces adenine, it has limitations:
 | **Stability** | Volatile, toxic | Stable liquid (bp 210°C) |
 | **Abundance** | Requires specific synthesis | Forms readily from H₂O + HCN |
 | **Reactivity** | Highly reactive | Controllable reactions |
-| **[[KEYWORD-Safety|safety]]** | Toxic | Less toxic |
+| **** | Toxic | Less toxic |
 
-## Formamide Chemistry [[KEYWORD-Mechanism|mechanism]]
+## Formamide Chemistry 
 
 ### Reaction Conditions
 ```
@@ -92,7 +92,7 @@ Multiple pathways (HCN, formamide, meteoritic delivery) increase probability of 
 ## Related
 - [[HCN_Polymerization_Adenine_Mechanism_[Z-101-0454]]] HCN Polymerization (alternative pathway)
 - [[Meteoritic_Nucleobases_Panspermia_[Z-101-0455]]] Meteoritic Nucleobases (delivery mechanism)
-- [[MOC-Origins-of-Life]]
+- 
 
 ---
 *Source: CGPT-0445 extraction (Messages 8-10) | Created: 2026-03-04*

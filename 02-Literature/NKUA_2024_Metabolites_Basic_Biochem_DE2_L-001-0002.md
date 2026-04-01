@@ -11,7 +11,7 @@ pmcid: ""
 tier: 1
 relevance: "CRITICAL — Explains cofactor→metabolite biomarker logic (parallel to VD→adipic acid); Krebs cycle metabolites in IR; carnitine/fatty acid metabolism"
 status: complete
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 
@@ -19,7 +19,7 @@ extraction-date: 2026-02-23
 
 ## Source
 - **Full citation:** ΕΘΝΙΚΟ ΚΑΙ ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ. Πρόγραμμα Συμπληρωματικής Εκπαίδευσης 3174 — ΒΑΣΙΚΕΣ ΑΡΧΕΣ ΜΕΤΑΒΟΛΟΜΙΚΗΣ. Διδακτική Ενότητα 2: Τι Είναι Οι Μεταβολίτες-Στοιχειώδεις Γνώσεις Βιοχημείας.
-- **PDF Asset:** [[01-References/Assets/PDFs/NKUA_Metabolomics_Course/ΔΕ 2. ΤΙ ΕΙΝΑΙ ΟΙ ΜΕΤΑΒΟΛΙΤΕΣ-ΣΤΟΙΧΕΙΩΔΕΙΣ ΓΝΩΣΕΙΣ ΒΙΟΧΗΜΕΙΑΣ.pdf]]
+- **PDF Asset:** 
 - **Course:** 3174 - Βασικές Αρχές Μεταβολομικής
 
 ## Document Structure
@@ -187,7 +187,7 @@ extraction-date: 2026-02-23
 ### METHAP Knowledge Graph
 | DE2 Zettel | Existing Connections | New Links Needed |
 |------------|---------------------|------------------|
-| Z-001-0010 | — | Link to [[MOC-Insulin-Signaling]] |
+| Z-001-0010 | — | Link to  |
 | Z-001-0011 | — | Link to Adipic Acid zettels (when created) |
 | Z-001-0012 | — | Link to [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026.md]] (DE4) |
 | Z-001-0013 | — | Link to [[Lipid_Metabolism_Fatty_Acid_IR_Markers_Z-001-0027.md]] (DE4) |

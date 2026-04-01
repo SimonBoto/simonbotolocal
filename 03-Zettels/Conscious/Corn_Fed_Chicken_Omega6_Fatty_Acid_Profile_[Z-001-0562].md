@@ -6,13 +6,13 @@ aliases: [Z-001-0562, Poultry Fatty Acids, Grain-Fed Chicken, Linoleic Acid Chic
 domain: 001
 domain-name: Nutrition
 tags: [zettel, omega-6, poultry, chicken, fatty-acids, feed-quality, linoleic-acid, meat-quality]
-parent-moc: [[MOC-Omega3-Fats]]
+parent-moc: 
 source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]]"
 confidence: high
 created: 2026-03-03
 ---
 
-# Corn-Fed Chicken [[KEYWORD-Omega_6|omega-6]] Fatty Acid Profile
+# Corn-Fed Chicken  Fatty Acid Profile
 
 ## Core Concept
 
@@ -45,7 +45,7 @@ Chickens fed predominantly on corn and grain-based diets accumulate significantl
 
 ### 2. Metabolic Processing
 - **Efficient deposition:** Dietary fatty acids incorporated with minimal modification
-- **Genetic factors:** Breed differences in fatty acid [[KEYWORD-Metabolism|metabolism]]
+- **Genetic factors:** Breed differences in fatty acid 
 - **Health status:** Overall health influences deposition efficiency
 
 ### 3. Tissue Distribution
@@ -60,7 +60,7 @@ Chickens fed predominantly on corn and grain-based diets accumulate significantl
 ### Inflammatory Potential
 - **15-20:1 omega-6:3 ratio** creates pro-inflammatory milieu
 - **Linoleic acid** → arachidonic acid → pro-inflammatory eicosanoids
-- Contribution to systemic [[KEYWORD-Inflammation|inflammation]] when consumed regularly
+- Contribution to systemic  when consumed regularly
 
 ### Patient Counseling Points
 1. **Conventional chicken** is a significant omega-6 source

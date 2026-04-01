@@ -5,7 +5,7 @@ title: Rewriting Overstated Claims Using Cautious Scientific Language
 aliases: [Z-001-0944]
 domain: 001
 tags: [zettel, scientific-writing, cautious-language, claims, overstatement, evidence-based, conclusions, revision, conscious]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -19,7 +19,7 @@ Convert **premature conclusions** to **appropriately calibrated statements** tha
 
 | Evidence Level | Inappropriate Language | Appropriate Language |
 |----------------|----------------------|---------------------|
-| **Exploratory** (n<20, no validation) | "Validated [[KEYWORD-Biomarker|biomarker]]" | "Candidate metabolite requiring validation" |
+| **Exploratory** (n<20, no validation) | "Validated " | "Candidate metabolite requiring validation" |
 | **Associational** (observational) | "Proven to cause" | "Associated with" |
 | **Underpowered** | "Significant difference" | "Trend toward difference" |
 | **Unreplicated** | "Established mechanism" | "Proposed mechanism" |
@@ -29,7 +29,7 @@ Convert **premature conclusions** to **appropriately calibrated statements** tha
 
 ### 1. The Validation Claim
 **Original:**
-> "Two potential [[KEYWORD-Biomarker|biomarkers]], DHEAS and L-TA, were successfully identified and validated."
+> "Two potential , DHEAS and L-TA, were successfully identified and validated."
 
 **Problem:** "Validated" implies external confirmation; "successfully" presupposes utility
 
@@ -61,7 +61,7 @@ Convert **premature conclusions** to **appropriately calibrated statements** tha
 
 ### 3. The Mechanism Claim
 **Original:**
-> "These abnormalities in arginine [[KEYWORD-Metabolism|metabolism]] indicate disruption of the urea cycle in gastric cancer progression."
+> "These abnormalities in arginine  indicate disruption of the urea cycle in gastric cancer progression."
 
 **Problem:** "Indicate disruption" implies causation/mechanism from correlation
 
@@ -179,5 +179,5 @@ If any answer is "no," revise to weaker claim.
 
 ## RELATED FILES
 - [[Biomarkers/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

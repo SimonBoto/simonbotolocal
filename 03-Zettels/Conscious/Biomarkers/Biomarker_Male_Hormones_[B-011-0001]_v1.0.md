@@ -5,7 +5,7 @@ title: Male Hormone Profile (Total T, Free T, SHBG, E2, DHT, LH, FSH) - Clinical
 aliases: [B-011-0001, Testosterone, Male-Hormones, Free-T, SHBG, Androgens]
 domain: 011
 tags: [biomarker, testosterone, male, hormones, andropause, free-testosterone]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 created: 2026-03-30
 ---

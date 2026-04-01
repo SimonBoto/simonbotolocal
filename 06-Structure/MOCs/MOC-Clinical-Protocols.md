@@ -4,7 +4,7 @@ type: moc
 title: MOC — Clinical Protocols
 aliases: [MOC_Clinical_Protocols, Clinical_Protocols]
 tags: [moc, clinical, protocols]
-parent-moc: [[MOC-INDEX]]
+parent-moc: 
 status: active
 created: 2026-02-15
 last-updated: 2026-02-22
@@ -18,19 +18,19 @@ last-updated: 2026-02-22
 
 ## 🎯 Entry Points
 
-- [[Protocol_Clinical_IR_Preanalytics_20260215_021]] — IR testing protocols
-- [[Protocol_MC_Patient_Flow_20260215_024]] — Patient journey
+-  — IR testing protocols
+-  — Patient journey
 
 ---
 
 ## 📊 Core Protocols
 
 ### Metabolic Assessment
-- [[Protocol_MC_Diet_Proposal_Update_20260215_023]] — Diet protocols
-- [[Protocol_Magnesium_Deficiency_20260215_017]] — Magnesium testing
+-  — Diet protocols
+-  — Magnesium testing
 
 ### Therapeutic Protocols
-- [[patient-therapy-b12-d3-iron-magnesium-protocol]] — Micronutrient therapy
+-  — Micronutrient therapy
 
 ---
 
@@ -38,7 +38,7 @@ last-updated: 2026-02-22
 
 | MOC | Connection |
 |-----|------------|
-| [[MOC-Metabolomics]] | Lab testing protocols |
+|  | Lab testing protocols |
 
 ---
 

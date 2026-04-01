@@ -5,7 +5,7 @@ title: Platelets (PLT) and PDW - Clinical Guide
 aliases: [B-001-0003, PLT, Platelets, PDW, Platelet-Distribution-Width, Thrombocytes]
 domain: 001
 tags: [biomarker, hematology, platelets, clotting, inflammation, cardiovascular]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 created: 2026-03-30
 ---

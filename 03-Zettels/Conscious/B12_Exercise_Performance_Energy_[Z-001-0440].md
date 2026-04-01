@@ -5,7 +5,7 @@ title: B12 and Exercise Performance
 aliases: [B12, Exercise, Performance, Energy, Fatigue]
 domain: 001
 tags: [zettel, b12, exercise, performance, fatigue, mitochondria]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # B12 and Exercise Performance
 
-> B12 deficiency impairs energy [[KEYWORD-Metabolism|metabolism]], potentially affecting exercise performance through reduced ATP production from amino acids and odd-chain fatty acids.
+> B12 deficiency impairs energy , potentially affecting exercise performance through reduced ATP production from amino acids and odd-chain fatty acids.
 
 ## Mechanisms of Impairment
 
@@ -26,7 +26,7 @@ extraction-date: 2026-03-01
 - Cannot extract energy from dairy fats
 - Minor contribution but significant
 
-### [[KEYWORD-Mitochondria|mitochondria]]l Dysfunction
+### l Dysfunction
 - Methylmalonic acid accumulation (toxic)
 - Impaired Krebs cycle anaplerosis
 - Reduced oxidative capacity
@@ -58,8 +58,8 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_[[KEYWORD-Mitochondria|mitochondrial]]_B12_Functions_L-001-0407]]*
+*Source: _B12_Functions_L-001-0407]]*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

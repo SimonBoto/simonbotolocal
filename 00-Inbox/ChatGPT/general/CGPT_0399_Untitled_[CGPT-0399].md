@@ -42,4 +42,4 @@ Recently there have been major shifts in food supply and buying. How can we stud
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

@@ -6,7 +6,7 @@ aliases: [Z-001-1090, PPP]
 domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, ppp, pentose, ribose, nadph]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
 source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
 confidence: high
@@ -63,7 +63,7 @@ Glyceraldehyde-3-P + Fructose-6-P (rejoin glycolysis)
 ### 3. Metabolic Flexibility
 - Interconverts sugar phosphates
 - Balances glycolytic vs. biosynthetic needs
-- Links carbohydrate to nucleotide [[KEYWORD-Metabolism|metabolism]]
+- Links carbohydrate to nucleotide 
 
 ## Clinical Relevance
 
@@ -74,7 +74,7 @@ Glyceraldehyde-3-P + Fructose-6-P (rejoin glycolysis)
 | **Inheritance** | X-linked |
 | **Trigger** | Oxidative stress (fava beans, sulfa drugs, infection) |
 | **Consequence** | Hemolytic anemia |
-| **[[KEYWORD-Mechanism|mechanism]]** | Insufficient NADPH → cannot maintain reduced glutathione → RBC lysis |
+| **** | Insufficient NADPH → cannot maintain reduced glutathione → RBC lysis |
 | **Protection** | Malaria resistance (heterozygote advantage) |
 
 ## Regulation
@@ -83,12 +83,12 @@ Glyceraldehyde-3-P + Fructose-6-P (rejoin glycolysis)
 | **High NADP⁺/NADPH ratio** | Stimulates oxidative phase |
 | **Need for ribose** | Activates both phases |
 | **High ATP** | Inhibits (shunts to storage) |
-| **[[KEYWORD-Insulin|insulin]]** | Upregulates PPP enzymes |
+| **** | Upregulates PPP enzymes |
 
 ## Related
 - [[Glucose_Ribose_Interconversion_PPP_Link_[Z-001-1091].md]]
 - [[Ribose_Pentose_Backbone_RNA_ATP_[Z-001-1085].md]]
-- [[MOC-Glycolysis-PPP]]
+- 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

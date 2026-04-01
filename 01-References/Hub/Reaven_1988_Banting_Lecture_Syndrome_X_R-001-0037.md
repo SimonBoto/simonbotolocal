@@ -15,7 +15,7 @@ status: ref
 confidence: high
 aliases: [R-001-0037, Reaven_1988, Banting-Lecture-1988]
 tags: [ref, insulin-resistance, syndrome-x, metabolic-syndrome, classic]
-parent-moc: [[MOC-References]]
+parent-moc: 
 source-type: paper
 extraction-date: 2026-02-24
 ---

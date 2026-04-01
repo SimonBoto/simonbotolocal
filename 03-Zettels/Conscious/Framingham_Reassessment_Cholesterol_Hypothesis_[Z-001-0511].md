@@ -5,13 +5,13 @@ title: Framingham Reassessment — Cholesterol Hypothesis Evolution
 aliases: [Framingham, Cholesterol-Hypothesis, Reassessment]
 domain: 001
 tags: [zettel, framingham, cholesterol, hypothesis, reassessment]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]]
 extraction-date: 2026-03-01
 ---
 
-# Framingham Reassessment — [[KEYWORD-Cholesterol|cholesterol]] Hypothesis [[KEYWORD-Evolution|evolution]]
+# Framingham Reassessment —  Hypothesis 
 
 > The Framingham Heart Study's reassessment revealed age-dependent complexities in the cholesterol-CVD relationship, informing modern precision medicine approaches.
 
@@ -57,4 +57,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -5,7 +5,7 @@ title: Isocitrate — The Aconitase Checkpoint
 aliases: [B-012-0002]
 domain: 012
 tags: [oat, metabolite, mitochondrial, isocitrate, aconitase, iron, biomarker]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 extraction-date: 2026-03-31
 ---

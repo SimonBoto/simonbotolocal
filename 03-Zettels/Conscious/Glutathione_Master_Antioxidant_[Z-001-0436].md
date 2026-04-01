@@ -5,7 +5,7 @@ title: Glutathione — The Master Antioxidant
 aliases: [Glutathione, GSH, Antioxidant, Detoxification]
 domain: 001
 tags: [zettel, glutathione, antioxidant, detoxification, redox]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Methionine_Catabolism_L-001-0406]]
 extraction-date: 2026-03-01
@@ -40,7 +40,7 @@ Glutamate + Cysteine → γ-Glutamylcysteine (GCL enzyme)
 
 ### Detoxification
 - Conjugates toxins
-- Phase II [[KEYWORD-Metabolism|metabolism]]
+- Phase II 
 - Heavy metal chelation
 
 ### Redox Regulation
@@ -58,4 +58,4 @@ Glutamate + Cysteine → γ-Glutamylcysteine (GCL enzyme)
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

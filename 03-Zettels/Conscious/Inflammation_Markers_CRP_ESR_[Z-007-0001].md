@@ -5,7 +5,7 @@ title: Inflammation Markers CRP ESR Clinical Interpretation
 aliases: [Z-007-0001, CRP, ESR, Inflammation, Acute Phase]
 domain: 007
 tags: [zettel, biomarker, inflammation, status/optimal, clinical-protocol]
-parent-moc: [[MOC-Inflammation-Metabolism]]
+parent-moc: 
 biomarker-type: inflammation-panel
 crp-optimal: <1 mg/L
 crp-target: <3 mg/L
@@ -48,7 +48,7 @@ source-litnote: Synthesized from clinical practice
 
 ## 🔗 Connected Systems
 
-**Iron [[KEYWORD-Metabolism|metabolism]]:**
+**Iron :**
 - [[Ferritin_Interpretation_Iron_Status_Z-003-0001.md]] — Ferritin (elevated by inflammation)
 - [[Iron_Status_Patterns_ACD_Overload_Z-003-0013.md]] — Anemia of chronic disease (CRP drives hepcidin)
 - High CRP → functional iron deficiency
@@ -123,10 +123,10 @@ patient_id,visit,hs_crp_mg_l,esr_mm_hr,inflammation_status
 
 ---
 
-*Source: [[Ref_Ridker_CRP_CVD_2003]], [[Ref_Pearson_Markers_Inflammation_2003]]*
+*Source: , *
 *Created: 2026-02-26 | Domain: 007 | Status: Conscious*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- |Biomarkers MOC]]
 

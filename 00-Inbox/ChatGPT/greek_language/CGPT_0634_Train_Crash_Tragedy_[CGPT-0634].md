@@ -577,4 +577,4 @@ Thank you, and here's to a brighter future for Greece!
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

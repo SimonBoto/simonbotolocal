@@ -5,7 +5,7 @@ title: Vitamin D Optimal Range 80-150 High Dose Protocol
 aliases: [Z-002-0004, VitD-80-150, Vitamin D Target, High Dose Vitamin D]
 domain: 002
 tags: [zettel, biomarker, vitamin-d, status/optimal, clinical-protocol, phd-methap]
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 biomarker-type: fat-soluble-vitamin
 target-range: 80-150 ng/mL
 standard-range: 30-100 ng/mL
@@ -21,7 +21,7 @@ connections:
 source-litnote: Synthesized from clinical practice
 ---
 
-# [[KEYWORD-Vitamin_D|vitamin d]] Optimal Range 80-150 High Dose Protocol
+#  Optimal Range 80-150 High Dose Protocol
 
 **25-Hydroxyvitamin D [25(OH)D]** is the standard clinical measure of vitamin D status. While conventional medicine targets 30 ng/mL (75 nmol/L), metabolic optimization requires **80-150 ng/mL**.
 
@@ -145,9 +145,9 @@ patient_id,visit,vit_d_dose_iu_daily,vit_d_25_oh_ng_ml,vit_d_status
 
 ## 📚 Sources
 
-- [[Ref_Holick_VitD_Review_2007]] — Deficiency pandemic
-- [[Ref_Pittas_VitD_Diabetes_2007]] — RCT evidence for glucose [[KEYWORD-Metabolism|metabolism]]
-- [[Ref_Dawodu_VitD_Optimal_2012]] — Target ranges debate
+-  — Deficiency pandemic
+-  — RCT evidence for glucose 
+-  — Target ranges debate
 - Clinical experience: Target 80-150 ng/mL for metabolic patients
 
 ---
@@ -155,6 +155,6 @@ patient_id,visit,vit_d_dose_iu_daily,vit_d_25_oh_ng_ml,vit_d_status
 *Created: 2026-02-26 | Domain: 002 | Status: Conscious*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

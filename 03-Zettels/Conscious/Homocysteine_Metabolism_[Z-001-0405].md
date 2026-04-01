@@ -5,15 +5,15 @@ title: Homocysteine Metabolism Pathways
 aliases: [Homocysteine, Remethylation, Transsulfuration, B6]
 domain: 001
 tags: [zettel, homocysteine, methionine, cysteine, b6]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]
 extraction-date: 2026-03-01
 ---
 
-# Homocysteine [[KEYWORD-Metabolism|metabolism]] Pathways
+# Homocysteine  Pathways
 
-> Homocysteine sits at a critical metabolic crossroads between re[[KEYWORD-Methylation|methylation]] to methionine (B12/folate-dependent) and transsulfuration to cysteine (B6-dependent), with elevated levels serving as a cardiovascular risk factor.
+> Homocysteine sits at a critical metabolic crossroads between re to methionine (B12/folate-dependent) and transsulfuration to cysteine (B6-dependent), with elevated levels serving as a cardiovascular risk factor.
 
 ## Pathway 1: Remethylation
 
@@ -90,7 +90,7 @@ Cystathionine → Cysteine + α-ketobutyrate
 - Remethylation favored
 - Net: Homocysteine → Methionine
 
-## [[KEYWORD-Clinical|clinical]] — Elevated Homocysteine
+##  — Elevated Homocysteine
 
 **Causes:**
 - B12 deficiency
@@ -117,4 +117,4 @@ Cystathionine → Cysteine + α-ketobutyrate
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

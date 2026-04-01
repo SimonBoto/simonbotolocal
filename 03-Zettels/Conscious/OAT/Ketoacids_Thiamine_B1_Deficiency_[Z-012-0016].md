@@ -6,7 +6,7 @@ title: Ketoacids — Thiamine (B1) Deficiency Markers
 aliases: [Z-012-0016, Ketoacids, B1-Deficiency, Thiamine, Branched-Chain, Ketoaciduria]
 domain: 012
 tags: [zettel, biomarker, ketoacids, b1, thiamine, deficiency, branched-chain]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

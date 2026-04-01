@@ -5,7 +5,7 @@ title: Uric Acid Metabolic Marker Gout Cardiovascular Risk
 aliases: [Z-001-0052, Uric Acid, Urate, Metabolic Syndrome Uric Acid]
 domain: 001
 tags: [zettel, biomarker, uric-acid, status/optimal, clinical-protocol]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 biomarker-type: purine-metabolism-marker
 target-range: <5.5 mg/dL
 status: conscious
@@ -18,7 +18,7 @@ source-litnote: Synthesized from clinical practice
 
 # Uric Acid — Metabolic Marker Beyond Gout
 
-**Uric acid** is the end product of purine [[KEYWORD-Metabolism|metabolism]]. While traditionally associated with gout, it's now recognized as a **marker of metabolic syndrome** and independent cardiovascular risk factor. The optimal target is **<5.5 mg/dL**, well below the standard "normal" range.
+**Uric acid** is the end product of purine . While traditionally associated with gout, it's now recognized as a **marker of metabolic syndrome** and independent cardiovascular risk factor. The optimal target is **<5.5 mg/dL**, well below the standard "normal" range.
 
 ---
 
@@ -129,11 +129,11 @@ patient_id,visit,uric_acid_mg_dl,uric_acid_target_status
 
 ---
 
-*Source: [[Ref_Johnson_Uric_Acid_Metabolic_2013]], [[Ref_Feig_Uric_Acid_Hypertension_2008]]*
+*Source: , *
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
+- 
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- |Biomarkers MOC]]
 

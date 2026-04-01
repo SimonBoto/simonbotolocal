@@ -6,14 +6,14 @@ aliases: [Z-001-1060, Magnesium]
 domain: 001
 domain-name: Vitamin Metabolism
 tags: [zettel, magnesium, cofactor, atp]
-parent-moc: [[MOC-Vitamin-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
 source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
 confidence: high
 created: 2026-03-08
 ---
 
-# [[KEYWORD-Magnesium|magnesium]] Biochemistry Clinical Roles
+#  Biochemistry Clinical Roles
 
 ## Overview
 Magnesium is a cofactor for >300 enzymes, essential for ATP function, muscle relaxation, nerve conduction, glycolysis, and DNA repair.
@@ -45,7 +45,7 @@ Magnesium is a cofactor for >300 enzymes, essential for ATP function, muscle rel
 |--------|----------|
 | **Neuromuscular** | Muscle cramps, spasms, tetany, tremor |
 | **Cardiac** | Arrhythmias, hypertension |
-| **Metabolic** | [[KEYWORD-Insulin|insulin]] resistance, glucose intolerance |
+| **Metabolic** |  resistance, glucose intolerance |
 | **Psychiatric** | Anxiety, depression, insomnia |
 
 ## Assessment Challenges
@@ -69,7 +69,7 @@ Magnesium is a cofactor for >300 enzymes, essential for ATP function, muscle rel
 ## Related
 - [[Vitamin_D_PTH_Calcium_Axis_[Z-001-1059].md]]
 - [[Cofactor_Deficiency_OAT_Signatures_[Z-001-1052].md]]
-- [[MOC-Vitamin-[[KEYWORD-Metabolism|metabolism]]]]
+- 
 
 ---
 *Source: CGPT-0022 — Vitamin-mineral biochemistry*

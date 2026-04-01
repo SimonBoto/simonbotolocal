@@ -5,7 +5,7 @@ title: Non-Statin Lipid-Lowering Options
 aliases: [Non-Statin, Ezetimibe, PCSK9, Bempedoic-Acid, Fibrate]
 domain: 001
 tags: [zettel, non-statin, ezetimibe, pcsk9, bempedoic-acid]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]]
 extraction-date: 2026-03-01
@@ -17,7 +17,7 @@ extraction-date: 2026-03-01
 
 ## Ezetimibe
 
-**[[KEYWORD-Mechanism|mechanism]]:** Inhibits intestinal [[KEYWORD-Cholesterol|cholesterol]] absorption (NPC1L1)
+**:** Inhibits intestinal  absorption (NPC1L1)
 **Efficacy:** LDL ↓ 15-20% mono, +20% with statin
 **Trial:** IMPROVE-IT showed incremental benefit
 **Use:** Add-on or statin alternative
@@ -63,6 +63,6 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
-- [[FRAX_Limitations_[[KEYWORD-Clinical|clinical]]_Gaps_[Z-001-0111]|Z-001-0111]]
+- _Gaps_[Z-001-0111]|Z-001-0111]]

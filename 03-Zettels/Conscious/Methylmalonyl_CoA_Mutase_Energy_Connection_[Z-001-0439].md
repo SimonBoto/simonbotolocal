@@ -5,7 +5,7 @@ title: Methylmalonyl-CoA Mutase — Energy Connection
 aliases: [Methylmalonyl-CoA-Mutase, Energy, Krebs-Cycle, Succinyl-CoA]
 domain: 001
 tags: [zettel, methylmalonyl-coa-mutase, energy, krebs, atp]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Methylmalonyl-CoA Mutase — Energy Connection
 
-> Methylmalonyl-CoA mutase produces succinyl-CoA, a Krebs cycle intermediate, linking propionate [[KEYWORD-Metabolism|metabolism]] to cellular energy production with a net yield of ~12 ATP per propionate molecule.
+> Methylmalonyl-CoA mutase produces succinyl-CoA, a Krebs cycle intermediate, linking propionate  to cellular energy production with a net yield of ~12 ATP per propionate molecule.
 
 ## Reaction
 
@@ -48,7 +48,7 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 
 **Sources feeding in:**
 - Propionate (gut bacteria)
-- Odd-chain [[KEYWORD-Fatty_Acids|fatty acids]]
+- Odd-chain 
 - Amino acids (Ile, Met, Thr, Val)
 
 ## Efficiency
@@ -60,7 +60,7 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 
 ---
 
-*Source: [[LitNote_[[KEYWORD-Mitochondria|mitochondria]]l_B12_Functions_L-001-0407]]*
+*Source: l_B12_Functions_L-001-0407]]*
 
 
 ## RELATED FILES

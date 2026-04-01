@@ -5,7 +5,7 @@ title: TG HDL Ratio Insulin Resistance Lipid Marker
 aliases: [Z-001-0049, TG/HDL, Triglyceride HDL Ratio, Lipid IR Marker]
 domain: 001
 tags: [zettel, biomarker, ir-core, calculation-formula, phd-methap]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 biomarker-type: insulin-resistance-lipid-proxy
 formula: Triglycerides (mg/dL) / HDL-C (mg/dL)
 target-range: <2.0
@@ -47,7 +47,7 @@ $$
 
 ---
 
-## 🔗 Connected [[KEYWORD-Biomarker|biomarker]]s
+## 🔗 Connected s
 
 **IR Core Panel:**
 - [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (correlates r=0.6-0.7 with TG/HDL)
@@ -59,7 +59,7 @@ $$
 - [[ApoB_LpA_sdLDL_Advanced_Lipids_Z-006-0002.md]] — ApoB (TG/HDL correlates with small dense LDL particle count)
 
 **Mechanism:**
-- [[Phenotype_Mapping_[[KEYWORD-Metabolomics|metabolomics]]_Z-001-0018.md]] — Lipotoxicity (elevated TG = hepatic steatosis = IR marker)
+- _Z-001-0018.md]] — Lipotoxicity (elevated TG = hepatic steatosis = IR marker)
 
 ---
 
@@ -128,12 +128,12 @@ patient_id,visit,tg_mg_dl,hdl_c_mg_dl,tg_hdl_ratio,lipid_ir_status
 
 ---
 
-*Source: [[Ref_Gaziano_TGHDL_CVD_1997]], [[Ref_McLaughlin_TGHDL_IR_2003]]*
+*Source: , *
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 
 
 

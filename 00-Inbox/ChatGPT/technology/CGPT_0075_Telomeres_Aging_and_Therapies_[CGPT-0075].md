@@ -216,4 +216,4 @@ Let me know which specific section you’d like to analyze most deeply first—e
 ---
 
 *This conversation was automatically extracted from ChatGPT history.*
-*See [[00_ChatGPT_Archive_MOC]] for navigation.*
+*See  for navigation.*

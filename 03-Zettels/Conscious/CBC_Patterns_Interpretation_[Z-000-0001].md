@@ -5,7 +5,7 @@ title: CBC Complete Blood Count Patterns Clinical Interpretation
 aliases: [Z-000-0001, CBC, Complete Blood Count, WBC, Hematocrit, Platelets]
 domain: 000
 tags: [zettel, biomarker, cbc, hematology, clinical-protocol]
-parent-moc: [[MOC-Hematology]]
+parent-moc: 
 biomarker-type: complete-blood-count
 status: conscious
 connections:
@@ -16,7 +16,7 @@ source-litnote: Synthesized from clinical practice
 
 # CBC — Complete Blood Count Patterns
 
-The **CBC** provides baseline hematologic status. Beyond anemia detection, patterns reveal [[KEYWORD-Inflammation|inflammation]], hydration, and chronic disease states.
+The **CBC** provides baseline hematologic status. Beyond anemia detection, patterns reveal , hydration, and chronic disease states.
 
 ---
 
@@ -142,11 +142,11 @@ patient_id,visit,wbc_k_u_l,hematocrit_pct,hemoglobin_g_dl,platelets_k_u_l,mcv_fl
 
 ---
 
-*Source: [[Ref_Bain_Blood_Cells_2015]], [[Ref_Weiss_Anomaly_Chronic_Disease_2005]]*
+*Source: , *
 *Created: 2026-02-26 | Domain: 000 | Status: Conscious*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
+- 
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- |Biomarkers MOC]]
 

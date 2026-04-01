@@ -6,7 +6,7 @@ aliases: [Z-001-1044, Hormonal-Terms]
 domain: 001
 domain-name: Endocrinology
 tags: [zettel, hormones, insulin, definitions]
-parent-moc: [[MOC-Insulin-Resistance]]
+parent-moc: 
 source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
 source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
 confidence: high
@@ -16,14 +16,14 @@ created: 2026-03-08
 # Hormonal Metabolic Regulation Terms
 
 ## Overview
-10 terms defining hormonal control of [[KEYWORD-Metabolism|metabolism]] and clinical markers.
+10 terms defining hormonal control of  and clinical markers.
 
 ## The Terms (Category D)
 
 | Term | Definition | Clinical Relevance |
 |------|------------|-------------------|
 | **Ινσουλίνη** | Energy storage hormone | Central metabolic regulator |
-| **Αντίσταση Ινσουλίνης** | Cellular [[KEYWORD-Insulin|insulin]] insensitivity | Core of metabolic syndrome |
+| **Αντίσταση Ινσουλίνης** | Cellular  insensitivity | Core of metabolic syndrome |
 | **Γλυκογονόλυση** | Glycogen → glucose | Emergency fuel release |
 | **Γλυκονεογένεση** | Glucose synthesis | Liver fuel production |
 | **Κορτιζόλη** | Stress hormone | Chronically elevated → metabolic damage |
@@ -43,14 +43,14 @@ created: 2026-03-08
 | AA/EPA | < 3 | Anti-inflammatory status |
 
 ## Related
-- [[MOC-Insulin-Resistance]]
-- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Metabolism]]
-- [[MOC-Cholesterol-Quality]]
+- 
+- -Metabolism]]
+- 
 
 ---
 *Source: CGPT-0022 — Tsoukalas Core Vocabulary*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Oleic_Acid_Metabolic_Benefits_[Z-001-0533]|Z-001-0533]]

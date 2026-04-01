@@ -5,7 +5,7 @@ title: Odd-Chain Fatty Acid Oxidation
 aliases: [Odd-Chain-Fatty-Acids, Pentadecanoic, Margaric, Beta-Oxidation]
 domain: 001
 tags: [zettel, odd-chain, fatty-acids, beta-oxidation, b12]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]
 extraction-date: 2026-03-01
@@ -48,18 +48,18 @@ extraction-date: 2026-03-01
 
 **Dietary Marker:**
 - Odd-chain fat levels reflect dairy intake
-- Used as [[KEYWORD-Biomarker|biomarker]] in research
+- Used as  in research
 
 **B12 Dependence:**
 - Complete oxidation requires functional methylmalonyl-CoA mutase
-- B12 deficiency → impaired odd-chain fat [[KEYWORD-Metabolism|metabolism]]
+- B12 deficiency → impaired odd-chain fat 
 
 ---
 
 *Source: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

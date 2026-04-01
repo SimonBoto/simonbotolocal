@@ -5,7 +5,7 @@ title: "Oxidative Stress Biomarkers in Metabolomics"
 aliases: [Z-001-0020, Oxidative_Stress, OS_Biomarkers, Metabolomics_OS]
 domain: 001
 tags: [zettel, oxidative-stress, biomarkers, metabolomics, metabolic-syndrome, inflammation, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
 status: conscious
@@ -22,7 +22,7 @@ Metabolomics detects **oxidative stress biomarkers** that connect to metabolic s
 | Biomarker | Full Name | Metabolic Significance | Clinical Relevance |
 |-----------|-----------|----------------------|-------------------|
 | **8-OHdG** | 8-hydroxy-deoxyguanosine | DNA oxidation marker | Genotoxic damage, cancer risk |
-| **p-HPLA** | p-hydroxyphenyllactate | Tyrosine [[KEYWORD-Metabolism|metabolism]], oxidative stress | Mitochondrial dysfunction |
+| **p-HPLA** | p-hydroxyphenyllactate | Tyrosine , oxidative stress | Mitochondrial dysfunction |
 | **Aconitase** | (enzyme activity) | Krebs cycle enzyme | Iron-sulfur cluster oxidation |
 | **2-HBA** | 2-hydroxybutyric acid | Glutathione synthesis pathway | Oxidative stress, insulin resistance |
 | **Pyroglutamate** | 5-oxoproline | Glutathione metabolism marker | Cellular antioxidant capacity |
@@ -74,7 +74,7 @@ Oxidative stress contributes to metabolic syndrome components:
 
 ## METHAP Trial Relevance
 
-### [[KEYWORD-Vitamin_D|vitamin d]] and Oxidative Stress
+###  and Oxidative Stress
 Vitamin D demonstrates **antioxidant properties**:
 - Upregulates glutathione synthesis
 - Reduces ROS production
@@ -99,7 +99,7 @@ Adipic acid elevation may indicate:
 
 ### Downstream
 - [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]] — OS-IR mechanism
-- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]] — VitD antioxidant effects
+- -Mechanisms]] — VitD antioxidant effects
 
 ### Cross-Domain
 - [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013.md]] — Lipid-induced OS
@@ -132,7 +132,7 @@ Adipic acid elevation may indicate:
 
 ## See Also
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 2.4)
-- [[MOC-Metabolomics-Training]] — Course navigation
+-  — Course navigation
 - [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_[Z-001-0911].md]] — Parallel cofactor model
 
 ---
@@ -140,5 +140,5 @@ Adipic acid elevation may indicate:
 *Next Review: After identifying primary reference studies*
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

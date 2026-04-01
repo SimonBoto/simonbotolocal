@@ -50,7 +50,7 @@ The methylation cycle is the body's methyl group (CH3) supply system. It powers 
 - [[Z-004-0013]] — Anemia of chronic disease → homocysteine elevation
 
 **Cross-link to Iron:**
-- [[MOC-Iron-Metabolism]] — Full iron cycle
+-  — Full iron cycle
 - [[Z-003-0001]] — Ferritin interpretation
 
 ---
@@ -62,7 +62,7 @@ The methylation cycle is the body's methyl group (CH3) supply system. It powers 
 - [[Z-004-0015]] — Calcium → intracellular signaling → methylation enzymes
 
 **Cross-link to Vitamin D:**
-- [[MOC-Vitamin-D-Metabolism]] — VitD metabolism and targets
+-  — VitD metabolism and targets
 
 ---
 
@@ -74,7 +74,7 @@ The methylation cycle is the body's methyl group (CH3) supply system. It powers 
 - [[Z-004-0018]] — SAM deficiency → phosphatidylcholine synthesis → NAFLD
 
 **Cross-link to IR:**
-- [[MOC-Insulin-Signaling]] — Full insulin pathway
+-  — Full insulin pathway
 - [[Z-001-0046]] — HOMA-IR assessment
 
 ---
@@ -135,9 +135,9 @@ The methylation cycle is the body's methyl group (CH3) supply system. It powers 
 
 ## 📚 Source References
 
-- [[Ref_Frosst_MTHFR_1995]] — C677T variant discovery
-- [[Ref_Miller_Homocysteine_CVD_2000]] — Cardiovascular risk
-- [[Ref_Stover_One_Carbon_2004]] — Metabolic integration
+-  — C677T variant discovery
+-  — Cardiovascular risk
+-  — Metabolic integration
 
 ---
 

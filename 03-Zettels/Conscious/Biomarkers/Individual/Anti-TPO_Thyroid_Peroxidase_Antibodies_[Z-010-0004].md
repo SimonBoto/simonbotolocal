@@ -6,7 +6,7 @@ title: Anti-TPO — Thyroid Peroxidase Antibodies
 aliases: [Z-010-0004, Anti-TPO, TPO-Antibodies, Thyroid-Antibodies, Autoimmune]
 domain: 010
 tags: [zettel, biomarker, anti-tpo, tpo, antibodies, autoimmune, hashimotos]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

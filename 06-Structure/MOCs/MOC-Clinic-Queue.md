@@ -9,7 +9,7 @@ uid: 20260211222402
 tags: [moc clinic insulin-resistance]
 status: active
 aliases: [Clinic_Hub]
-parent-moc: [[Dashboard_Home]]
+parent-moc: 
 ---
 
 # Clinic_Queue_MOC
@@ -34,4 +34,4 @@ WHERE contains(parent-moc, this.file.path)
 LIST FROM "44-Clinic/Atomic" WHERE !parent-moc
 ```
 
-[[Report_Patient1]] | [[Protocol_LowCarb]] | [[1Literature/MOC_Literature]] | [[22-Dashboards/Daily_Note]] | [[44-Clinic/Protocols]]
+ |  |  |  | 

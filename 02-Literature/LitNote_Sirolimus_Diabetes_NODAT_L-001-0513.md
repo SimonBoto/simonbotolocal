@@ -15,7 +15,7 @@ domain: 001
 tags: [litnote, sirolimus, rapamycin, diabetes, insulin-resistance, nodat, mtorc1, mtorc2, beta-cell, glut4]
 source: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_[CGPT-0189]]]"
 status: extracted
-parent-moc: [[MOC-mTOR-Signaling]]
+parent-moc: 
 extraction-date: 2026-03-02
 ---
 
@@ -180,9 +180,9 @@ dysfunction)    activation)
 
 ## Related References
 - [[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]] — Mitochondrial mechanisms
-- [[MOC-mTOR-Signaling]] — Parent MOC
-- [[MOC-Insulin-Resistance]] — Metabolic context
-- [[MOC-Clinical-Protocols]] — Patient management
+-  — Parent MOC
+-  — Metabolic context
+-  — Patient management
 
 ---
 

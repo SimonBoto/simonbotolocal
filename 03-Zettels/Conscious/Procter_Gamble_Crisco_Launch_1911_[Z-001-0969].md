@@ -5,7 +5,7 @@ title: Procter & Gamble Crisco Launch 1911 — Marketing Revolution in Food
 aliases: [Z-001-0969]
 domain: 001
 tags: [zettel, procter-gamble, crisco, 1911, marketing, hydrogenation, cottonseed-oil, food-industry, conscious]
-parent-moc: [[MOC-History-Industrial-Development]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]]
 status: conscious
@@ -197,14 +197,14 @@ status: conscious
 ### Contemporaneous Knowledge
 
 **What Was Known (1911):**
-- Fat essential for [[KEYWORD-Nutrition|nutrition]]
+- Fat essential for 
 - Chemistry of hydrogenation understood
-- No concept of essential [[KEYWORD-Fatty_Acids|fatty acids]] (discovered 1929-1930)
+- No concept of essential  (discovered 1929-1930)
 - No link between fat type and heart disease
 - No knowledge of trans fats
 
 **What Was NOT Known:**
-- Essential fatty acids ([[KEYWORD-Omega_6|omega-6]], omega-3)
+- Essential fatty acids (, omega-3)
 - Trans fat dangers
 - PUFA oxidation issues
 - Heart disease connection

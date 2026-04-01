@@ -16,7 +16,7 @@ status: pending
 aliases: [R-001-0035, Savage_2005, IR_Mechanisms_Foundational]
 domain: 001
 tags: [reference, insulin-resistance, mechanisms, lipotoxicity, inflammation, mitochondria, tier-1]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 
@@ -56,7 +56,7 @@ Savage DB, Petersen KF, Shulman GI. Mechanisms of insulin resistance in humans a
 ## Connections
 - [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] — Source citing
 - [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026]] — Zettel
-- [[MOC-Insulin-Signaling]] — Mechanism hub
+-  — Mechanism hub
 
 ---
 *Status: Reference hub created — foundational reference*  

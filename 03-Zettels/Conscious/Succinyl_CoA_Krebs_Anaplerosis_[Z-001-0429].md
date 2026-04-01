@@ -5,13 +5,13 @@ title: Succinyl-CoA — Krebs Cycle Anaplerosis
 aliases: [Succinyl-CoA, Krebs-Cycle, Anaplerosis, Energy]
 domain: 001
 tags: [zettel, succinyl-coa, krebs, anaplerosis, energy]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]
 extraction-date: 2026-03-01
 ---
 
-# Succinyl-CoA — [[KEYWORD-Krebs_Cycle|krebs cycle]] Anaplerosis
+# Succinyl-CoA —  Anaplerosis
 
 > Succinyl-CoA serves as the entry point for propionate-derived carbons into the Krebs cycle, providing anaplerotic substrate that maintains cycle flux and enables gluconeogenesis.
 
@@ -24,7 +24,7 @@ extraction-date: 2026-03-01
 
 **Sources:**
 - Propionate (via methylmalonyl-CoA mutase)
-- Odd-chain [[KEYWORD-Fatty_Acids|fatty acids]]
+- Odd-chain 
 - Amino acids (isoleucine, methionine, threonine, valine)
 
 ## Krebs Cycle Entry
@@ -55,8 +55,8 @@ Can exit to gluconeogenesis
 
 ---
 
-*Source: [[LitNote_B12_Amino_Acid_[[KEYWORD-Metabolism|metabolism]]_L-001-0405]]*
+*Source: _L-001-0405]]*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

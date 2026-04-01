@@ -5,13 +5,13 @@ title: Kidney Stones — Calcium Oxalate Pathophysiology
 aliases: [Z-001-0604, kidney-stones, nephrolithiasis, calcium-oxalate]
 domain: 001
 tags: [zettel, kidney-stones, oxalate, hyperoxaluria, urolithiasis]
-parent-moc: [[MOC-Adipic-Acid-Metabolism]]
+parent-moc: 
 source: [[L-001-0060A]]
 confidence: high
 created: 2026-03-04
 ---
 
-# Kidney Stones — [[KEYWORD-Calcium|calcium]] [[KEYWORD-Oxalate|oxalate]] Pathophysiology
+# Kidney Stones —   Pathophysiology
 
 ## Epidemiology
 
@@ -19,7 +19,7 @@ created: 2026-03-04
 **Composition:** Calcium oxalate (CaC₂O₄)  
 **Risk factors:** Dietary oxalate, dehydration, genetic factors
 
-## Formation [[KEYWORD-Mechanism|mechanism]]s
+## Formation s
 
 ### 1. Supersaturation
 - Urine becomes supersaturated with calcium and oxalate

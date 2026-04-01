@@ -8,14 +8,14 @@ status: active
 # Inbox_Sprint_MOC
 
 Atomic notes:
-- [[00-Inbox/02-Triage/Raw_Triage_01]] #triage
-- [[00-Inbox/03-Lit/Lit_Stub_01]]
+-  #triage
+- 
 
 Dataview:
 ```dataview
 LIST FROM \"00-Inbox/01-Capture\" 
 ```
 
-Sub-MOCs: [[22-Dashboards/Daily_Note]] 
+Sub-MOCs:  
 
-Graph: #sprint | [[Dashboard_Home]]
+Graph: #sprint | 

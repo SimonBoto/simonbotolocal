@@ -5,7 +5,7 @@ title: Evolutionary Ancient Glycolysis
 aliases: [Z-001-0470, ancient-glycolysis, universal-pathway, evolution]
 domain: 001
 tags: [zettel, evolution, glycolysis, ancient, universal, archaea]
-parent-moc: [[MOC-Evolutionary-Biochemistry]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045D]]
@@ -49,7 +49,7 @@ Key enzymes ~30-50% identical across domains:
 ### Evolutionary Logic
 - Simple 3C units easier to manage
 - Trioses connect to multiple pathways
-- Modular [[KEYWORD-Metabolism|metabolism]]
+- Modular 
 
 ## Prebiotic Plausibility
 
@@ -65,7 +65,7 @@ Key enzymes ~30-50% identical across domains:
 
 ## Modern Implications
 
-### [[KEYWORD-Cancer|cancer]] Metabolism (Warburg Effect)
+###  Metabolism (Warburg Effect)
 - Aerobic glycolysis despite oxygen
 - "Atavistic" return to ancient metabolism?
 - Rapid ATP production for proliferation
@@ -79,12 +79,12 @@ Key enzymes ~30-50% identical across domains:
 ## Related
 - [[Timeline_Prebiotic_Chemistry_to_LUCA_[Z-101-0464]]] Timeline Prebiotic to LUCA
 - [[Triose_Structure_Glyceraldehyde_DHAP_[Z-001-0466]]] Triose Structure
-- [[MOC-Evolutionary-[[KEYWORD-Biochemistry|biochemistry]]]]
+- 
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Glycolysis_Steps_Regulation_[Z-001-0467]|Z-001-0467]]

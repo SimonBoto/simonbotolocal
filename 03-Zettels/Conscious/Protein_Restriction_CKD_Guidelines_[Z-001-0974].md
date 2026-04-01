@@ -5,7 +5,7 @@ title: Protein Restriction CKD Guidelines — NKF KDIGO Recommendations
 aliases: [Z-001-0974]
 domain: 001
 tags: [zettel, protein-restriction, ckd, guidelines, nkf, kdigo, recommendations, conscious]
-parent-moc: [[MOC-Clinical-Guidelines]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Protein_CKD_Progression_Evidence_L-001-0573]]
 status: conscious
@@ -40,7 +40,7 @@ status: conscious
 
 **Key Points:**
 - Lower end of range for advanced CKD
-- Higher end if mal[[KEYWORD-Nutrition|nutrition]] risk
+- Higher end if mal risk
 - Individualize based on clinical status
 
 ### Rationale
@@ -72,7 +72,7 @@ status: conscious
 1. Current protein intake (dietary history)
 2. Nutritional status (albumin, weight, SGA)
 3. CKD stage and progression rate
-4. Comorbidities ([[KEYWORD-Diabetes|diabetes]], CVD)
+4. Comorbidities (, CVD)
 5. Patient preferences and compliance capacity
 
 ### Monitoring on Restriction
@@ -98,7 +98,7 @@ status: conscious
 - Increase protein to 0.8 g/kg
 - Address anorexia (antiemetics, appetite stimulants)
 - Consider nutritional supplements
-- Rule out [[KEYWORD-Inflammation|inflammation]]/infection
+- Rule out /infection
 
 **If CKD Progresses Despite Restriction:**
 - Ensure compliance (dietary recall)

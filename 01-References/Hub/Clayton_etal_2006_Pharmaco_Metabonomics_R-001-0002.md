@@ -13,7 +13,7 @@ status: ref
 confidence: high
 aliases: [R-001-0002, Clayton_2006_Pharmaco_Metabonomics]
 tags: [ref, pharmacometabolomics, personalized-medicine, biomarkers, drug-response]
-parent-moc: [[MOC-References]]
+parent-moc: 
 source-type: paper
 extraction-date: 2026-02-23
 ---

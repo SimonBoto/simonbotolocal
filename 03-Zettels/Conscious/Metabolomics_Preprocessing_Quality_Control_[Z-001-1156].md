@@ -4,13 +4,13 @@ type: zettel
 title: Metabolomics Preprocessing and Quality Control
 domain: 001
 tags: [zettel, metabolomics, preprocessing, quality-control, data-cleaning, methap]
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Metabolomics_Data_Processing_L-001-0619]]"
 status: conscious
 ---
 
-# [[KEYWORD-Metabolomics|metabolomics]] Preprocessing and Quality Control
+#  Preprocessing and Quality Control
 
 ## Overview
 

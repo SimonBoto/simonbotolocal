@@ -52,14 +52,14 @@ Let's focus on that first home note
 > Your entry gate. Keep it simple. Touch this note every day.
 
 ## Core Areas
-- [[Research]]
-- [[Clinical]]
-- [[Business]]
-- [[Personal]]
-- [[Meta]]
+- 
+- 
+- 
+- 
+- 
 
 ## Today
-- [[Daily — {{date}}]]  <!-- make or open today's daily note -->
+-   <!-- make or open today's daily note -->
 - 1 thing for Research:
 - 1 thin...
 

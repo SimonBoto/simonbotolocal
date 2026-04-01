@@ -6,14 +6,14 @@ aliases: [Z-001-1029, MCI-Role]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, training, metabolomics, instructor-role, clinic-management]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
 source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
 confidence: high
 created: 2026-03-08
 ---
 
-# [[KEYWORD-Metabolomics|metabolomics]] Chief Instructor Role Definition
+#  Chief Instructor Role Definition
 
 ## Core Concept
 The **Metabolomics Chief Instructor (MCI)** is a hybrid training role designed specifically for metabolomics clinic education. It transcends conventional "scientific advisor" or "tour guide" approaches by integrating three simultaneous demands.
@@ -22,7 +22,7 @@ The **Metabolomics Chief Instructor (MCI)** is a hybrid training role designed s
 
 | Demand | Requirement | Failure Mode |
 |--------|-------------|--------------|
-| **Absolute Scientific Precision** | Metabolomics, mechanisms, [[KEYWORD-Biomarker|biomarker]]s, clinical interpretation | Superficial understanding |
+| **Absolute Scientific Precision** | Metabolomics, mechanisms, s, clinical interpretation | Superficial understanding |
 | **Cognitive Scaffolding** | Teaching *how to think*, not just *what to know* | Pattern recognition failure |
 | **Operational Discipline** | Real clinic workflow, patient flow, quality standards | Theory-practice gap |
 
@@ -40,13 +40,13 @@ This role enables the clinic to evolve from **personality-driven** (single exper
 
 ## Related
 - [[MCI_Three_Function_Architecture_[Z-001-1030].md]]
-- [[MOC-Metabolomics-Training]]
-- [[MOC-Clinical-Protocols]]
+- 
+- 
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Liver_Function_[B-009-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- 
 

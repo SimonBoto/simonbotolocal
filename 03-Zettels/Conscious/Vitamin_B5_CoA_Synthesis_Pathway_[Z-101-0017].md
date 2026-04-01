@@ -5,7 +5,7 @@ title: Vitamin B5 Coenzyme A Synthesis Pathway
 aliases: [Z-101-0017, Pantothenic Acid CoA, CoA Biosynthesis]
 domain: 101
 tags: [zettel, vitamin-b5, pantothenic-acid, coenzyme-a, coa-synthesis, pkan, biochemistry]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 status: conscious
 source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]]"
 extraction-date: 2026-03-02
@@ -13,7 +13,7 @@ extraction-date: 2026-03-02
 
 # Vitamin B5 Coenzyme A Synthesis Pathway
 
-**Core Concept:** Vitamin B5 (pantothenic acid) is the obligate precursor for Coenzyme A (CoA) — essential for fatty acid [[KEYWORD-Metabolism|metabolism]], TCA cycle, and energy production.
+**Core Concept:** Vitamin B5 (pantothenic acid) is the obligate precursor for Coenzyme A (CoA) — essential for fatty acid , TCA cycle, and energy production.
 
 ## Five-Step Biosynthesis
 
@@ -57,7 +57,7 @@ CoA consists of:
 
 **Reactive site:** Terminal thiol group (-SH) forms thioester bonds with acyl groups
 
-## [[KEYWORD-Clinical|clinical]] Disorders
+##  Disorders
 
 ### PKAN (Pantothenate Kinase-Associated Neurodegeneration)
 - **Gene:** PANK2 mutations
@@ -78,7 +78,7 @@ CoA consists of:
 | **Beta-oxidation** | Acyl-CoA → acetyl-CoA |
 | **TCA cycle** | Acetyl-CoA, succinyl-CoA |
 | **Ketogenesis** | Acetyl-CoA → HMG-CoA → ketones |
-| **Steroid synthesis** | Acetyl-CoA → [[KEYWORD-Cholesterol|cholesterol]] |
+| **Steroid synthesis** | Acetyl-CoA →  |
 
 ---
 
@@ -86,4 +86,4 @@ CoA consists of:
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

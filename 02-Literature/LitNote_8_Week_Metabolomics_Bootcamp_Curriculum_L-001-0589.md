@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — Complete 2-month training syllabus for metabolomics clinician development; week-by-week progression
 status: extracted
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -96,8 +96,8 @@ By graduation, trainees must:
 
 ## Related References
 - [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]] — MCI role definition
-- [[MOC-Metabolomics-Training]] — Curriculum parent map
-- [[MOC-Metabolomics-Analysis]] — Technical analysis content
+-  — Curriculum parent map
+-  — Technical analysis content
 
 ---
 

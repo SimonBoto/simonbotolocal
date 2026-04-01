@@ -6,7 +6,7 @@ aliases: [Z-001-0082, RANK_RANKL_OPG_Osteoclast_Regulation]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, cellular-mechanisms]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 source: [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]]
 confidence: high
 created: 2026-03-01
@@ -19,8 +19,8 @@ The RANK/RANKL/OPG system is the master regulator of osteoclast differentiation.
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Bone_Health|bone-health]]]]
-**Source:** [[LitNote_Bone_Remodeling_Cellular_[[KEYWORD-Mechanism|mechanism]]s_L-001-0011]]
+**Parent MOC:** 
+**Source:** s_L-001-0011]]
 **Related:** [[Osteoclasts_Bone_Resorbing_Cells_[Z-001-0080].md]], [[Denosumab_RANKL_Antibody_Mechanism_[Z-001-0085].md]]
 
 ---

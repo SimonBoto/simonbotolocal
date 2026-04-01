@@ -5,7 +5,7 @@ title: "Malate-Aspartate Connection: Krebs Cycle Link"
 aliases: [Z-001-0614]
 domain: 001
 tags: [zettel, malate, aspartate, oxaloacetate, krebs-cycle, shuttle, transamination, conscious]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]]
 extraction-date: 2026-03-05
@@ -32,7 +32,7 @@ Aspartate ⇄ Oxaloacetate ⇄ Malate
 Aspartate + α-Ketoglutarate ⇄ Oxaloacetate + Glutamate
 ```
 - **Enzyme:** Aspartate aminotransferase (AST/ASAT)
-- **Location:** [[KEYWORD-Mitochondria|mitochondria]] and cytosol
+- **Location:**  and cytosol
 - **Clinical marker:** Elevated serum AST indicates tissue damage
 
 **Step 2: Reduction**
@@ -65,7 +65,7 @@ This connection enables the **malate-aspartate shuttle** — the primary system 
 5. Aspartate exported to cytosol
 6. Aspartate converted back to oxaloacetate
 
-**Net result:** NADH in cytosol effectively delivers electrons to [[KEYWORD-Mitochondria|mitochondrial]] NAD⁺
+**Net result:** NADH in cytosol effectively delivers electrons to  NAD⁺
 
 ### Energy Yield Impact
 
@@ -84,7 +84,7 @@ This connection enables the **malate-aspartate shuttle** — the primary system 
 - **Mitochondrial isoform:** Released when cells are damaged
 
 ### Metabolic Diseases
-- **Malate dehydrogenase deficiency:** Rare, affects energy [[KEYWORD-Metabolism|metabolism]]
+- **Malate dehydrogenase deficiency:** Rare, affects energy 
 - **Aspartate deficiency:** Impaired urea cycle, neurotransmission
 
 ### Exercise Physiology
@@ -109,4 +109,4 @@ This connection enables the **malate-aspartate shuttle** — the primary system 
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

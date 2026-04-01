@@ -6,20 +6,20 @@ aliases: [Z-001-0034, Compensatory-IR, Hidden-IR]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, compensatory-IR, hyperinsulinemia, early-detection, beta-cell]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 ---
 
-# Compensatory [[KEYWORD-Insulin|insulin]] Resistance Stage
+# Compensatory  Resistance Stage
 
 In early insulin resistance, beta-cells compensate by increasing insulin secretion, maintaining normal blood glucose while creating fasting hyperinsulinemia. This stage is clinically silent — glucose remains normal despite significant metabolic dysfunction.
 
 **Critical window:** This is where intervention has maximum impact. The body can still recover if the underlying drivers (nutrient overflow, inflammation, stress) are addressed.
 
-**[[KEYWORD-Biomarker|biomarker]]s at this stage:**
+**s at this stage:**
 - Fasting insulin: Elevated (first sign!)
 - Adipic acid: Elevated (urine organic acids)
 - HOMA-IR: Elevated
@@ -44,7 +44,7 @@ The disconnect between normal glucose and elevated insulin is the diagnostic clu
 
 ## Context
 
-**Also relevant to:** [[MOC-Early-Detection]], [[MOC-Prevention]]
+**Also relevant to:** , 
 
 **Emerges from:** Clinical staging framework from literature synthesis
 
@@ -53,6 +53,6 @@ The disconnect between normal glucose and elevated insulin is the diagnostic clu
 *UID: Z-001-0034 | Domain: 001 | Created: 2026-02-24*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

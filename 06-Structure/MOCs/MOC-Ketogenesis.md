@@ -30,13 +30,13 @@ created: 2026-03-04
 
 ## Clinical Context
 - [[Z-001-0487]] Physiological vs Pathological Ketosis
-- [[MOC-Diabetes-T1D]] (DKA)
-- [[MOC-Epilepsy]] (therapeutic ketosis)
+-  (DKA)
+-  (therapeutic ketosis)
 
 ## Connections
 - [[L-001-0045G]] Ketogenesis and BHB Signaling
 - [[L-001-0045H]] Oxaloacetate and Gluconeogenesis (competing pathway)
-- [[MOC-Fatty-Acid-Oxidation]] (acetyl-CoA source)
+-  (acetyl-CoA source)
 
 ---
 *Created: 2026-03-04 | Status: Active (growing)*

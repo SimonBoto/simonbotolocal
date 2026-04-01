@@ -112,7 +112,7 @@ title: Insulin Receptor Structure
 aliases: [Z-001-0001]
 domain: 001
 tags: [zettel, insulin, receptor, conscious]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: 
 status: conscious  # or subconscious
 ---
 ```

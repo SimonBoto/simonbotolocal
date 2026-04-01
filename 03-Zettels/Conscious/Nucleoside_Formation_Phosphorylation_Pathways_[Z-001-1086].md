@@ -6,7 +6,7 @@ aliases: [Z-001-1086, Nucleoside-Formation]
 domain: 001
 domain-name: Nucleotide Metabolism
 tags: [zettel, nucleoside, phosphorylation, metabolism]
-parent-moc: [[MOC-Nucleotide-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
 source: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
 confidence: high
@@ -79,7 +79,7 @@ Level 4: NTP (ATP) - triphosphate, high energy, fully functional
 ### Connection to PPP
 - Ribose-5-phosphate from PPP feeds into nucleotide synthesis
 - Direct precursor for nucleoside formation
-- Links carbohydrate [[KEYWORD-Metabolism|metabolism]] to nucleic acid synthesis
+- Links carbohydrate  to nucleic acid synthesis
 
 ### Salvage vs. De Novo
 | Pathway | Starting Point | Energy Cost | When Active |
@@ -97,7 +97,7 @@ Level 4: NTP (ATP) - triphosphate, high energy, fully functional
 ### Purine Nucleoside Phosphorylase Deficiency
 - **Enzyme defect:** PNP deficiency
 - **Consequence:** T-cell immunodeficiency
-- **[[KEYWORD-Mechanism|mechanism]]:** Toxic metabolite accumulation
+- **:** Toxic metabolite accumulation
 - **Treatment:** Supportive, bone marrow transplant
 
 ### Nucleoside Analog Drugs
@@ -105,13 +105,13 @@ Level 4: NTP (ATP) - triphosphate, high energy, fully functional
 |------|-----------|-----|
 | **AZT** | Thymidine analog, inhibits HIV reverse transcriptase | HIV/AIDS |
 | **Acyclovir** | Guanosine analog, inhibits viral DNA polymerase | Herpes |
-| **5-Fluorouracil** | Pyrimidine analog, disrupts DNA synthesis | [[KEYWORD-Cancer|cancer]] |
+| **5-Fluorouracil** | Pyrimidine analog, disrupts DNA synthesis |  |
 
 ## Related
 - [[Adenosine_Metabolic_Roles_Energy_Signaling_[Z-001-1083].md]]
 - [[Ribose_Pentose_Backbone_RNA_ATP_[Z-001-1085].md]]
 - [[Purine_Salvage_Pathway_Recycling_Mechanism_[Z-001-1087].md]]
-- [[MOC-Nucleotide-Metabolism]]
+- 
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

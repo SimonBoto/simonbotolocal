@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: Critical — METHAP protocol synergy rationale; biochemical foundation for co-supplementation
 status: extracted
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -190,7 +190,7 @@ Result: Strong bones + Clear arteries
 - [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]] — D mechanisms
 - [[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]] — K2 mechanisms
 - [[Magnesium_Vitamin_D_Interaction_Hydroxylation_[Z-001-0210]]] — D activation requires Mg
-- [[MOC-Vitamin-D-Metabolism]] — Parent MOC
+-  — Parent MOC
 
 ---
 

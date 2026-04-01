@@ -5,7 +5,7 @@ title: BHB NLRP3 Inflammasome Inhibition
 aliases: [Z-001-0486, bhb, nlrp3, inflammasome, inflammation, anti-inflammatory]
 domain: 001
 tags: [zettel, bhb, nlrp3, inflammasome, inflammation, il-1b]
-parent-moc: [[MOC-Ketogenesis]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045G]]
@@ -23,7 +23,7 @@ source: [[L-001-0045G]]
 - Pathogen-associated molecular patterns (PAMPs)
 - Damage-associated molecular patterns (DAMPs)
 - Crystals (urate, cholesterol)
-- [[KEYWORD-Mitochondria|mitochondria]]l ROS
+- l ROS
 
 **Output:**
 ```
@@ -48,8 +48,8 @@ Gasdermin D → Pyroptosis (inflammatory cell death)
 ## Clinical Relevance
 
 ### Metabolic Syndrome
-- **NLRP3 hyperactivation:** In obesity, [[KEYWORD-Insulin|insulin]] resistance
-- **BHB suppression:** Reduces metabolic [[KEYWORD-Inflammation|inflammation]]
+- **NLRP3 hyperactivation:** In obesity,  resistance
+- **BHB suppression:** Reduces metabolic 
 - **Mechanism:** Lower IL-1β improves insulin signaling
 
 ### Gout
@@ -84,7 +84,7 @@ Gasdermin D → Pyroptosis (inflammatory cell death)
 ## Related
 - [[BHB_HDAC_Inhibition_Epigenetics_[Z-001-0485]]] BHB HDAC Inhibition
 - [[BHB_Energy_Substrate_Brain_Heart_[Z-001-0484]]] BHB Energy Substrate
-- [[MOC-Inflammation]]
+- 
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

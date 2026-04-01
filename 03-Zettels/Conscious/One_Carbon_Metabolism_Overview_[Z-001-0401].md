@@ -5,13 +5,13 @@ title: One-Carbon Metabolism Overview
 aliases: [One-Carbon, Folate-Cycle, Methyl-Transfer]
 domain: 001
 tags: [zettel, one-carbon, folate, metabolism, biochemistry]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]
 extraction-date: 2026-03-01
 ---
 
-# One-Carbon [[KEYWORD-Metabolism|metabolism]] Overview
+# One-Carbon  Overview
 
 > One-carbon metabolism is a network of biochemical reactions involving the transfer of single carbon units essential for DNA synthesis, cell division, and epigenetic regulation, with folate and vitamin B12 serving as critical cofactors.
 
@@ -60,13 +60,13 @@ THF ↔ 5,10-Methylene-THF ↔ 5-Methyl-THF
 - Explains B12-folate interdependence
 - Critical for DNA methylation maintenance
 
-## [[KEYWORD-Clinical|clinical]] Relevance
+##  Relevance
 
 **Rapidly Dividing Cells:**
 - Bone marrow
 - Intestinal epithelium
 - Fetal tissue
-- [[KEYWORD-Cancer|cancer]] cells
+-  cells
 
 **Consequences of Impairment:**
 - Megaloblastic anemia
@@ -80,4 +80,4 @@ THF ↔ 5,10-Methylene-THF ↔ 5-Methyl-THF
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

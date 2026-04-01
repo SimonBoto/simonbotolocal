@@ -14,7 +14,7 @@ status: pending
 aliases: [R-001-0034, Puchalska_2012, Ketone_Bodies]
 domain: 001
 tags: [reference, ketones, fatty-acid-oxidation, metabolism]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 

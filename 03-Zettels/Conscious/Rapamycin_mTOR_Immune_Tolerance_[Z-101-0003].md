@@ -6,7 +6,7 @@ aliases: [Z-101-0003, Rapamycin-mTOR, Immune-Tolerance]
 domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, rapamycin, mTOR, immune-tolerance, autoimmunity, SLE]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]]
 confidence: high
 created: 2026-02-24
@@ -14,9 +14,9 @@ created: 2026-02-24
 
 # Rapamycin mTOR Inhibition and Immune Tolerance
 
-Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central regulator of cellular [[KEYWORD-Metabolism|metabolism]] and immune cell activation. mTOR hyperactivation precedes SLE onset and correlates with comorbidity presence — making it a therapeutic target for restoring immune homeostasis.
+Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central regulator of cellular  and immune cell activation. mTOR hyperactivation precedes SLE onset and correlates with comorbidity presence — making it a therapeutic target for restoring immune homeostasis.
 
-**[[KEYWORD-Mechanism|mechanism]] in T-cells:**
+** in T-cells:**
 - mTOR inhibition → ↓ IL-2 and IFN-γ production (pro-inflammatory cytokines)
 - Promotes regulatory T-cell differentiation and function
 - Blocks effector T-cell proliferation
@@ -31,7 +31,7 @@ Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central reg
 - Restores cellular homeostasis
 - mTOR activation predictive of disease flare
 
-**METHAP Connection:** mTOR is a central hub linking metabolism and immunity — [[KEYWORD-Vitamin_D|vitamin d]] also modulates mTOR signaling, suggesting metabolic-immunologic crosstalk as a therapeutic target.
+**METHAP Connection:** mTOR is a central hub linking metabolism and immunity —  also modulates mTOR signaling, suggesting metabolic-immunologic crosstalk as a therapeutic target.
 
 ## Key Details
 
@@ -47,11 +47,11 @@ Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central reg
 
 - **Upstream:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002.md]] — Metformin also modulates mTOR
 - **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md]] — Inflammatory cytokine pathways
-- **Downstream:** [[MOC-SLE]], [[MOC-Immune-Tolerance]]
+- **Downstream:** , 
 
 ## Context
 
-**Also relevant to:** [[MOC-mTOR]], [[MOC-Autoimmunity]]
+**Also relevant to:** , 
 
 **Emerges from:** NKUA Course 3175, DE4
 
@@ -61,4 +61,4 @@ Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central reg
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

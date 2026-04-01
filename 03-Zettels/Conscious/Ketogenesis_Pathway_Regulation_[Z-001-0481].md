@@ -5,7 +5,7 @@ title: Ketogenesis Pathway and Regulation
 aliases: [Z-001-0481, ketogenesis, hmg-coa, liver, ketones]
 domain: 001
 tags: [zettel, ketogenesis, bhb, hmg-coa, liver, fasting]
-parent-moc: [[MOC-Ketogenesis]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045G]]
@@ -15,13 +15,13 @@ source: [[L-001-0045G]]
 
 ## Trigger Conditions
 - **Low carbohydrate:** Fasting, ketogenic diet
-- **Low [[KEYWORD-Insulin|insulin]]:** Permits lipolysis
+- **Low :** Permits lipolysis
 - **High fatty acid oxidation:** Excess acetyl-CoA
 
-## Hepatic Synthesis (Liver [[KEYWORD-Mitochondria|mitochondria]])
+## Hepatic Synthesis (Liver )
 
 ```
-[[KEYWORD-Fatty_Acids|fatty acids]] → Acetyl-CoA (β-oxidation)
+ → Acetyl-CoA (β-oxidation)
      ↓
 2 Acetyl-CoA → Acetoacetyl-CoA (thiolase)
      ↓

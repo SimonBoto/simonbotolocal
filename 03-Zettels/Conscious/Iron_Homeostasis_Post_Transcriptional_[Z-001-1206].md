@@ -4,7 +4,7 @@ type: zettel
 title: Iron Homeostasis — Post-Transcriptional Control by IRP/IRE System
 domain: 001
 tags: [zettel, iron-homeostasis, irp, ire, post-transcriptional, gene-regulation]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]]"
 status: conscious
@@ -31,7 +31,7 @@ Unlike most metabolic pathways regulated at transcription or allosteric levels, 
 **Iron needs change rapidly:**
 - Meal ingestion (↑ iron)
 - Bleeding (↓ iron)
-- [[KEYWORD-Inflammation|inflammation]] (iron sequestration)
+-  (iron sequestration)
 
 **Post-transcriptional control allows minute-by-minute adjustment.**
 
@@ -49,7 +49,7 @@ Unlike most metabolic pathways regulated at transcription or allosteric levels, 
 - Stem-loop RNA structures
 - Located in UTRs of target mRNAs
 
-### [[KEYWORD-Mechanism|mechanism]] Overview
+###  Overview
 ```
 Cellular iron status
         ↓
@@ -205,4 +205,4 @@ Stop codon ──[IRE]── Poly-A tail
 
 ---
 
-*Source: [[LitNote_Aconitase_Iron_[[KEYWORD-Metabolism|metabolism]]_IRP1_L-001-0631]] | 2026-03-09*
+*Source: _IRP1_L-001-0631]] | 2026-03-09*

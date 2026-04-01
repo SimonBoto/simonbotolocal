@@ -195,8 +195,8 @@ Methylglutaconyl-CoA → HMG-CoA → Acetoacetate + Acetyl-CoA
 ## Connections
 
 - [[L-001-0046A]] Amino Acids Entering Krebs (entry points)
-- [[MOC-Urea-Cycle]] (nitrogen disposal)
-- [[MOC-Nitrogen-Metabolism]]
+-  (nitrogen disposal)
+- 
 
 ---
 

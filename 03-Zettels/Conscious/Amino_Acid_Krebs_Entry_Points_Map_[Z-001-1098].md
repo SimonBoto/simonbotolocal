@@ -6,7 +6,7 @@ aliases: [Z-001-1098, Krebs-Entry]
 domain: 001
 domain-name: Amino Acid Metabolism
 tags: [zettel, amino-acids, krebs, entry-points, metabolism]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
 source: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Amino Acid Krebs Entry Points Map
 
 ## Overview
-Each amino acid enters the [[KEYWORD-Krebs_Cycle|krebs cycle]] at specific points, feeding carbon skeletons into central energy [[KEYWORD-Metabolism|metabolism]].
+Each amino acid enters the  at specific points, feeding carbon skeletons into central energy .
 
 ## Entry Points by Krebs Intermediate
 
@@ -105,7 +105,7 @@ CARBON SKELETONS
 ## Related
 - [[Alpha_Keto_Acids_Transamination_Intermediates_[Z-001-1099].md]]
 - [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_[Z-001-1100].md]]
-- [[MOC-Krebs-Cycle]]
+- 
 
 ---
-*Source: CGPT-0445 — Advanced [[KEYWORD-Biochemistry|biochemistry]]*
+*Source: CGPT-0445 — Advanced *

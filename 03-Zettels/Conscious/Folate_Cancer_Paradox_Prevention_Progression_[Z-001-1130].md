@@ -6,14 +6,14 @@ aliases: [Z-001-1130, Folate-Paradox]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, folate, cancer, paradox, prevention]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]]
 source: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]]
 confidence: high
 created: 2026-03-08
 ---
 
-# Folate [[KEYWORD-Cancer|cancer]] Paradox Prevention Progression
+# Folate  Paradox Prevention Progression
 
 ## Overview
 Folate presents a paradox in cancer: adequate status may prevent cancer initiation, but high intake may promote growth in established tumors—timing and context determine benefit vs risk.
@@ -28,7 +28,7 @@ Folate presents a paradox in cancer: adequate status may prevent cancer initiati
 | **Cancer patients** | High supplementation | Possible progression |
 
 ### The "Dual Effect" Hypothesis
-| Stage | Folate Effect | [[KEYWORD-Mechanism|mechanism]] |
+| Stage | Folate Effect |  |
 |-------|---------------|-----------|
 | **Initiation** | Protective | DNA stability, repair |
 | **Promotion** | Potentially harmful | Fuels proliferation |
@@ -123,9 +123,9 @@ Folate presents a paradox in cancer: adequate status may prevent cancer initiati
 | **Form of folate** | Folic acid vs food folate vs 5-MTHF? |
 
 ## Related
-- [[One_Carbon_[[KEYWORD-Metabolism|metabolism]]_Cancer_Nucleotide_Synthesis_[Z-001-1128].md]]
+- _Cancer_Nucleotide_Synthesis_[Z-001-1128].md]]
 - [[B_Vitamins_Methylation_Epigenetics_Cancer_[Z-001-1129].md]]
-- [[MOC-Cancer-Metabolism]]
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*

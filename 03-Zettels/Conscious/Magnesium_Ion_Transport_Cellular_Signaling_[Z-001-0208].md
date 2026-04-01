@@ -5,13 +5,13 @@ title: Magnesium in Ion Transport and Cellular Signaling
 aliases: [Mg-Ion-Transport, Magnesium-Signaling, Mg-Calcium-Antagonism]
 domain: 001
 tags: [zettel, magnesium, ion-transport, signaling, calcium, channels]
-parent-moc: [[MOC-Magnesium]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Magnesium|magnesium]] in Ion Transport and Cellular Signaling
+#  in Ion Transport and Cellular Signaling
 
 > Magnesium regulates critical ion channels and serves as a physiological calcium antagonist, modulating neuronal excitability, muscle contraction, and intracellular signaling cascades.
 
@@ -40,7 +40,7 @@ extraction-date: 2026-03-01
 
 ## Intracellular Calcium Antagonism
 
-**[[KEYWORD-Mechanism|mechanism]]:**
+**:**
 - Mg²⁺ and Ca²⁺ compete for:
   - Channel entry sites
   - Intracellular binding sites
@@ -80,7 +80,7 @@ extraction-date: 2026-03-01
 - Anti-arrhythmic effects
 - Reduces vascular calcification (synergistic with K2)
 
-**[[KEYWORD-Insulin|insulin]] Sensitivity:**
+** Sensitivity:**
 - Intracellular Mg²⁺ affects insulin receptor signaling
 - Mg deficiency → impaired GLUT4 translocation
 
@@ -91,4 +91,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

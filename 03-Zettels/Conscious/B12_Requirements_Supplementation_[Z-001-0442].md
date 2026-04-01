@@ -5,7 +5,7 @@ title: B12 Requirements and Supplementation
 aliases: [B12-Requirements, Supplementation, Dosing, Forms]
 domain: 001
 tags: [zettel, b12, requirements, supplementation, dosing]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
 extraction-date: 2026-03-01
@@ -36,8 +36,8 @@ extraction-date: 2026-03-01
 
 ### Oral
 - **Cyanocobalamin:** Synthetic, stable, most common
-- **Methylcobalamin:** [[KEYWORD-Methylation|methylation]] support
-- **Adenosylcobalamin:** [[KEYWORD-Mitochondria|mitochondria]]l support
+- **Methylcobalamin:**  support
+- **Adenosylcobalamin:** l support
 - **Hydroxocobalamin:** Long-acting
 
 ### Parenteral
@@ -60,8 +60,8 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_[[KEYWORD-Mitochondria|mitochondrial]]_B12_Functions_L-001-0407]]*
+*Source: _B12_Functions_L-001-0407]]*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

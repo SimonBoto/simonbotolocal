@@ -4,13 +4,13 @@ type: zettel
 title: Deep Learning and Neural Networks — Metabolomics Applications
 domain: 001
 tags: [zettel, deep-learning, neural-networks, metabolomics, emerging-methods]
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: 
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Machine_Learning_Metabolomics_L-001-0618]]"
 status: conscious
 ---
 
-# Deep Learning and Neural Networks — [[KEYWORD-Metabolomics|metabolomics]] Applications
+# Deep Learning and Neural Networks —  Applications
 
 ## Overview
 
@@ -106,7 +106,7 @@ Input → Encoder (compress) → Bottleneck → Decoder (reconstruct) → Output
 1. **Multi-omics integration:** Combine genomics, proteomics, metabolomics
 2. **Non-linear interactions:** Model metabolite-metabolite relationships
 3. **Personalized predictions:** Individual response forecasting
-4. **Deep feature learning:** Automatic [[KEYWORD-Biomarker|biomarker]] discovery
+4. **Deep feature learning:** Automatic  discovery
 
 ### Hybrid Approach
 **Current METHAP:**
@@ -171,7 +171,7 @@ Output (2 classes, Softmax)
 
 *Source: [[LitNote_Machine_Learning_Metabolomics_L-001-0618]] | 2026-03-09*
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

@@ -5,7 +5,7 @@ title: Cornflakes Invention — The Accident (1894)
 aliases: [Cornflakes-Accident, 1894-Invention, Flaked-Cereal]
 domain: 001
 tags: [zettel, nutrition, history, cornflakes, invention, 1894]
-parent-moc: [[MOC-Nutrition]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Cereal_History_L-001-0211]]
 extraction-date: 2026-03-01
@@ -77,7 +77,7 @@ extraction-date: 2026-03-01
 
 **Long-term:**
 - Foundation of cereal industry
-- Breakfast r[[KEYWORD-Evolution|evolution]]
+- Breakfast r
 - Mass-produced convenience food
 - Global food category
 
@@ -93,4 +93,4 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

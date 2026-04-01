@@ -5,7 +5,7 @@ title: Zn and Se Synergistic OXPHOS Protection
 aliases: [Zn-Se-Synergy, OXPHOS, Antioxidant-Network, ROS]
 domain: 001
 tags: [zettel, zn-se, synergy, oxphos, ros, antioxidant]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]]
 extraction-date: 2026-03-01
@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 
 > Zinc and selenium work synergistically to protect ETC from oxidative damage.
 
-## ROS Production in [[KEYWORD-Mitochondria|mitochondria]]
+## ROS Production in 
 
 **Sources:**
 - Complex I: ~40% of superoxide
@@ -50,12 +50,12 @@ H₂O (water)
 
 **Without Zn:** O₂⁻ accumulates → ETC damage
 **Without Se:** H₂O₂ accumulates → OH• radical
-**Without Both:** Severe [[KEYWORD-Oxidative_Stress|oxidative stress]]
+**Without Both:** Severe 
 
 ---
 
-*Source: [[LitNote_Zinc_Selenium_[[KEYWORD-Mitochondria|mitochondrial]]_L-001-0510]]*
+*Source: _L-001-0510]]*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

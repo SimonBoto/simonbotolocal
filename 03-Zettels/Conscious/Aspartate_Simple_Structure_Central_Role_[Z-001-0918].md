@@ -5,7 +5,7 @@ title: "Aspartate: Simple Structure, Central Role"
 aliases: [Z-001-0918, Z-001-0504-deprecated, aspartate, simple, evolution, urea-cycle, krebs]
 domain: 001
 tags: [zettel, aspartate, simple-structure, evolution, urea-cycle, krebs, oxaloacetate]
-parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 updated: 2026-03-05
@@ -68,7 +68,7 @@ Citrulline + Aspartate → Argininosuccinate
 
 **Evolutionary roles:**
 - Urea cycle (nitrogen disposal)
-- Krebs cycle (energy [[KEYWORD-Metabolism|metabolism]])
+- Krebs cycle (energy )
 - Protein synthesis
 
 ### Comparison to Other Amino Acids
@@ -79,11 +79,11 @@ Citrulline + Aspartate → Argininosuccinate
 | Biosynthesis | From OAA (Krebs intermediate) | Direct |
 | Roles | Multiple central pathways | High impact |
 
-## [[KEYWORD-Clinical|clinical]]: AST
+## : AST
 **Aspartate aminotransferase (AST/SGOT):**
 - Clinical marker of tissue damage
 - Elevated in: Myocardial infarction, liver disease, muscle injury
-- [[KEYWORD-Mitochondria|mitochondria]]l and cytosolic isozymes
+- l and cytosolic isozymes
 
 ## Summary
 **Aspartate exemplifies "simple but essential":**
@@ -101,4 +101,4 @@ Citrulline + Aspartate → Argininosuccinate
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

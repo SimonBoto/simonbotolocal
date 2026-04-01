@@ -6,14 +6,14 @@ aliases: [Z-001-0063, VitD-Photodegradation]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, photodegradation, sunlight, self-regulation]
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]
 confidence: high
 created: 2026-03-01
 status: conscious
 ---
 
-# [[KEYWORD-Vitamin_D|vitamin d]] Photodegradation — Safety Mechanism
+#  Photodegradation — Safety Mechanism
 
 The skin has built-in protection against vitamin D toxicity from sun exposure: photodegradation. Once sufficient previtamin D3 and vitamin D3 accumulate, continued UV exposure converts excess into inactive metabolites (tachysterol, lumisterol), preventing overdose from sunlight alone.
 
@@ -26,7 +26,7 @@ The skin has built-in protection against vitamin D toxicity from sun exposure: p
 
 ## Links
 
-**Parent MOC:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
+**Parent MOC:** -
 **Source:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]
 **Related:** [[Endogenous_Vitamin_D_Production_Capacity_[Z-001-0062]]], [[Vitamin_D_Toxicity_Myth_Persistence_[Z-001-0057]]]
 
@@ -36,4 +36,4 @@ The skin has built-in protection against vitamin D toxicity from sun exposure: p
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

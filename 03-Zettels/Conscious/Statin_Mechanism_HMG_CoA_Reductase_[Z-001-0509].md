@@ -5,15 +5,15 @@ title: Statin Mechanism — HMG-CoA Reductase Inhibition
 aliases: [Statin-Mechanism, HMG-CoA-Reductase, LDL-Receptor-Upregulation]
 domain: 001
 tags: [zettel, statin, mechanism, hmg-coa-reductase, ldl-receptor]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]]
 extraction-date: 2026-03-01
 ---
 
-# Statin [[KEYWORD-Mechanism|mechanism]] — HMG-CoA Reductase Inhibition
+# Statin  — HMG-CoA Reductase Inhibition
 
-> Statins are competitive inhibitors of HMG-CoA reductase, the rate-limiting enzyme in [[KEYWORD-Cholesterol|cholesterol]] synthesis, triggering compensatory upregulation of LDL receptors and enhanced clearance of circulating LDL.
+> Statins are competitive inhibitors of HMG-CoA reductase, the rate-limiting enzyme in  synthesis, triggering compensatory upregulation of LDL receptors and enhanced clearance of circulating LDL.
 
 ## Mechanism
 
@@ -35,7 +35,7 @@ Enhanced LDL clearance
 
 ## Pharmacokinetics
 
-| Statin | Potency | Lipophilicity | Half-life | [[KEYWORD-Metabolism|metabolism]] |
+| Statin | Potency | Lipophilicity | Half-life |  |
 |--------|---------|---------------|-----------|------------|
 | **Atorvastatin** | High | Lipophilic | 14h | CYP3A4 |
 | **Rosuvastatin** | Highest | Hydrophilic | 19h | Minimal |

@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 2
 relevance: High — Evidence base for METHAP protocol; study design rationale
 status: extracted
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 
@@ -216,7 +216,7 @@ extraction-date: 2026-03-01
 - [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]] — Mechanisms
 - [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]] — D in MetS
 - [[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]] — K2 in MetS
-- [[MOC-Metabolic-Syndrome]] — Parent MOC
+-  — Parent MOC
 
 ---
 

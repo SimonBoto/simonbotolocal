@@ -5,13 +5,13 @@ title: Aldose vs Ketose Chemistry
 aliases: [Z-001-0471, aldose, ketose, carbonyl, glucose, fructose]
 domain: 001
 tags: [zettel, aldose, ketose, chemistry, carbonyl, classification]
-parent-moc: [[MOC-Glycolysis-PPP]]
+parent-moc: 
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045E]]
 ---
 
-# Aldose vs Ketose [[KEYWORD-Chemistry|chemistry]]
+# Aldose vs Ketose 
 
 ## Core Distinction
 
@@ -59,11 +59,11 @@ source: [[L-001-0045E]]
 
 ### Glucose (Aldose)
 - Primary energy source
-- Regulated uptake ([[KEYWORD-Insulin|insulin]]-dependent)
+- Regulated uptake (-dependent)
 - Universal cellular utilization
 
 ### Fructose (Ketose)
-- Liver-centric [[KEYWORD-Metabolism|metabolism]]
+- Liver-centric 
 - Unregulated uptake
 - Lipogenic pathway
 

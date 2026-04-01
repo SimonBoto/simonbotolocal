@@ -5,7 +5,7 @@ title: Vitamin A — Retinol, Fat-Soluble Vision & Immune Vitamin
 aliases: [Z-007-0005, Vitamin-A, Retinol, Retinal, Beta-Carotene, Fat-Soluble]
 domain: 007
 tags: [zettel, biomarker, vitamin-a, retinol, vision, immune, fat-soluble]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

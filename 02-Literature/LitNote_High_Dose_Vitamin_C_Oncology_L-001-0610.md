@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: High — IV vitamin C, pro-oxidant mechanisms, epigenetic effects, clinical trials in cancer
 status: extracted
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -72,8 +72,8 @@ extraction-date: 2026-03-08
 3. [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_[Z-001-1127].md]]
 
 ## Related References
-- [[MOC-Cancer-Metabolism]]
-- [[MOC-Vitamin-C-Metabolism]]
+- 
+- 
 
 ---
 

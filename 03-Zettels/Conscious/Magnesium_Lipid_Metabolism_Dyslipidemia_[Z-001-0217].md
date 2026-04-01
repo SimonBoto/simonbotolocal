@@ -5,13 +5,13 @@ title: Magnesium and Lipid Metabolism — Effects on Dyslipidemia
 aliases: [Mg-Lipids, Magnesium-Dyslipidemia, Magnesium-Cholesterol]
 domain: 001
 tags: [zettel, magnesium, lipids, cholesterol, triglycerides, HDL, metabolism]
-parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Magnesium|magnesium]] and Lipid [[KEYWORD-Metabolism|metabolism]] — Effects on Dyslipidemia
+#  and Lipid  — Effects on Dyslipidemia
 
 > Magnesium influences lipid metabolism through enzymatic modulation of cholesterol synthesis, triglyceride clearance, and HDL maturation, offering potential benefits for the dyslipidemia component of metabolic syndrome.
 
@@ -84,7 +84,7 @@ extraction-date: 2026-03-01
 - Metabolic syndrome patients
 - 365 mg Mg × 16 weeks
 - Trend toward improved lipid profile
-- Significant improvement in [[KEYWORD-Insulin|insulin]] sensitivity
+- Significant improvement in  sensitivity
 
 ## Comparison to Standard Lipid-Lowering Therapy
 
@@ -137,6 +137,6 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

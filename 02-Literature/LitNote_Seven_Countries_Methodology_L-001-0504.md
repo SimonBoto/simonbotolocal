@@ -8,7 +8,7 @@ journal: Internal clinical synthesis
 tier: 1
 relevance: Critical — Understanding methodological flaws in nutritional epidemiology, ecological fallacy, and evidence quality assessment
 status: extracted
-parent-moc: [[MOC-Research-Methodology]]
+parent-moc: 
 extraction-date: 2026-03-01
 ---
 

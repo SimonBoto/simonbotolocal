@@ -5,7 +5,7 @@ title: Link Architecture Design — Phase 2 Output
 aliases: [Link-Architecture, Biomarker-Linking-Protocol]
 domain: 006
 tags: [protocol, linking, biomarkers, zettelkasten, architecture]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: complete
 created: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -63,10 +63,10 @@ Child → Parent
 **Pattern:**
 ```markdown
 Iron metabolism:
-[[Dietary_Iron]] → [[Ferritin_[Z-003-0001].md|Ferritin]] → [[Transferrin]] → [[Hemoglobin_[Z-001-1001].md|Hemoglobin]]
+ → [[Ferritin_[Z-003-0001].md|Ferritin]] →  → [[Hemoglobin_[Z-001-1001].md|Hemoglobin]]
 
 Hormone cascade:
-[[Hypothalamus]] → [[Pituitary]] → [[TSH_[Z-010-0001].md|TSH]] → [[Thyroid]] → [[T4_[Z-010-0002].md|T4]] → [[T3_[Z-010-0003].md|T3]]
+ →  → [[TSH_[Z-010-0001].md|TSH]] →  → [[T4_[Z-010-0002].md|T4]] → [[T3_[Z-010-0003].md|T3]]
 
 Krebs cycle:
 [[Citrate_[B-012-0001].md|Citrate]] → [[Isocitrate_[B-012-0002].md|Isocitrate]] → [[Alpha-Ketoglutarate_[B-012-0003].md|α-KG]] → [[Succinate_[B-012-0004].md|Succinate]]
@@ -125,7 +125,7 @@ Krebs cycle:
 - [[CRP_[Z-002-0001].md|CRP]]
 - [[WBC_[Z-001-2001].md|WBC]]
 - [[Ferritin_[Z-003-0001].md|Ferritin]]
-- [[ESR]] (if added)
+-  (if added)
 
 **Peripheral Connections:**
 - WBC differential (neutrophils, lymphocytes)
@@ -308,13 +308,13 @@ Krebs cycle:
 ### Rule 1: Full Filename with Alias
 ```markdown
 ❌ [[Z-003-0001]]
-❌ [[Ferritin]]
+❌ 
 ✅ [[Ferritin_Iron_Storage_[Z-003-0001].md|Ferritin]]
 ```
 
 ### Rule 2: Contextual, Not List
 ```markdown
-❌ Related: [[A]], [[B]], [[C]]
+❌ Related: , , 
 ✅ [[Ferritin_[Z-003-0001].md|Ferritin elevation]] with [[CRP_[Z-002-0001].md|inflammation]] suggests...
 ```
 
@@ -327,10 +327,10 @@ Create reciprocal connections
 ### Rule 4: Link in Flowing Text
 ```markdown
 ❌ ## Related
-- [[A]]
-- [[B]]
+- 
+- 
 
-✅ When [[A]] is elevated, it typically suppresses [[B]] through...
+✅ When  is elevated, it typically suppresses  through...
 ```
 
 ### Rule 5: Descriptive Aliases

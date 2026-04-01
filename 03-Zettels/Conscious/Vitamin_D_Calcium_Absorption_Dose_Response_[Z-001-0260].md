@@ -5,15 +5,15 @@ title: Vitamin D and Calcium Absorption — Dose-Response Relationship
 aliases: [D-Calcium-Absorption, Calbindin, Active-Transport]
 domain: 001
 tags: [zettel, vitamin-d, calcium, absorption, dose-response]
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Vitamin_D|vitamin d]] and [[KEYWORD-Calcium|calcium]] Absorption — Dose-Response Relationship
+#  and  Absorption — Dose-Response Relationship
 
-> Vitamin D increases intestinal calcium absorption from a baseline of 10-15% to a maximum of 30-40% through active transport [[KEYWORD-Mechanism|mechanism]]s, with the degree of enhancement proportional to vitamin D status and 25(OH)D levels.
+> Vitamin D increases intestinal calcium absorption from a baseline of 10-15% to a maximum of 30-40% through active transport s, with the degree of enhancement proportional to vitamin D status and 25(OH)D levels.
 
 ## Mechanism of Absorption
 
@@ -96,5 +96,5 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Vitamin_D_High_Dose_Monitoring_Protocol_[Z-001-0091]|Z-001-0091]]

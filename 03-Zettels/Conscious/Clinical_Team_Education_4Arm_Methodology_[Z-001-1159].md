@@ -4,7 +4,7 @@ type: zettel
 title: Clinical Team Education — 4-Arm Methodology
 domain: 001
 tags: [zettel, education, clinical-team, methodology, metabolomics]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Self_Education_Clinical_Team_L-001-0620]]"
 status: conscious
@@ -22,7 +22,7 @@ Structured approach for clinical teams to analyze topics from complementary pers
 
 | Arm | Focus | Key Questions | Expertise Required |
 |-----|-------|---------------|-------------------|
-| **Diagnostic** | Detection & measurement | How do we identify? What markers? | Lab interpretation, GC-MS, [[KEYWORD-Biomarker|biomarker]]s |
+| **Diagnostic** | Detection & measurement | How do we identify? What markers? | Lab interpretation, GC-MS, s |
 | **Therapeutic Nutrition** | Dietary interventions | What to eat/avoid? Metabolic impact? | Nutritional biochemistry, protocols |
 | **Supplementation** | Targeted therapeutics | What supplements? Dosing? Safety? | Pharmacology, nutrient interactions |
 | **Clinical Cases** | Real-world application | Does it work in practice? Outcomes? | Patient management, pattern recognition |
@@ -47,9 +47,9 @@ Structured approach for clinical teams to analyze topics from complementary pers
 
 ## Application Domains
 
-**[[KEYWORD-Metabolomics|metabolomics]] Clinic:**
+** Clinic:**
 - Insulin resistance protocols
-- [[KEYWORD-Vitamin_D|vitamin d]] optimization
+-  optimization
 - Mitochondrial support strategies
 - Detoxification pathways
 
@@ -73,5 +73,5 @@ Structured approach for clinical teams to analyze topics from complementary pers
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

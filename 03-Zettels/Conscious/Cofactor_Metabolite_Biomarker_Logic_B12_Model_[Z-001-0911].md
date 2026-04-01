@@ -6,7 +6,7 @@ aliases: [Z-001-0911, Z-001-0011-deprecated, Cofactor_Biomarker_Logic, B12_Methy
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, cofactors, coenzymes, biomarkers, B12, methylmalonic-acid, enzyme-function, vitamin-D, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 confidence: high
 created: 2026-02-23
@@ -31,7 +31,7 @@ Methylmalonyl-CoA ──[B12-dependent mutase]──→ Succinyl-CoA
    (blocked pathway)
 ```
 
-**Result:** Normal [[KEYWORD-Metabolism|metabolism]] proceeds; methylmalonyl-CoA efficiently converted to succinyl-CoA for energy production.
+**Result:** Normal  proceeds; methylmalonyl-CoA efficiently converted to succinyl-CoA for energy production.
 
 ### B12 Deficient State
 ```
@@ -69,7 +69,7 @@ Methylmalonyl-CoA ──[enzyme WITHOUT B12]──→ ✗ (blocked)
 
 | Element | B12 Model | VD/Adipic Acid Hypothesis |
 |---------|-----------|---------------------------|
-| **Cofactor** | Vitamin B12 | **[[KEYWORD-Vitamin_D|vitamin d]]** |
+| **Cofactor** | Vitamin B12 | **** |
 | **Enzyme** | Methylmalonyl-CoA mutase | **Fatty acid oxidation enzymes?** (investigational) |
 | **Blocked reaction** | Methylmalonyl-CoA → Succinyl-CoA | **Incomplete fatty acid oxidation?** |
 | **Accumulating precursor** | Methylmalonic acid | **Adipic acid** |
@@ -104,11 +104,11 @@ Methylmalonyl-CoA ──[enzyme WITHOUT B12]──→ ✗ (blocked)
 
 - **Upstream/Prerequisite:** [[Metabotypes_Individual_Metabolic_Phenotypes_[Z-001-0910].md]] — Individual variation in cofactor needs
 - **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_[Z-001-0912].md]] — Enzyme dysfunction markers
-- **Downstream/Consequence:** [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]] — VD as potential cofactor
+- **Downstream/Consequence:** -Mechanisms]] — VD as potential cofactor
 
 ## Context
 
-**Also relevant to:** [[Biomarkers_Taxonomy]] — Biomarker classification framework, [[MOC-PhD-METHAP-Trial]] — Core mechanistic hypothesis
+**Also relevant to:**  — Biomarker classification framework,  — Core mechanistic hypothesis
 
 **Source:** [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
 
@@ -119,5 +119,5 @@ Methylmalonyl-CoA ──[enzyme WITHOUT B12]──→ ✗ (blocked)
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

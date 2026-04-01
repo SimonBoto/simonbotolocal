@@ -111,22 +111,22 @@ Autoimmune diseases represent a loss of immune tolerance leading to attack on se
 ## Key MOC Connections
 
 ### Vitamin D & Immunity
-- [[MOC-Vitamin-D-Metabolism]] — Central role in immune regulation
+-  — Central role in immune regulation
 - VDR polymorphisms and autoimmunity risk
 - Therapeutic vitamin D supplementation
 
 ### Gut-Immune Axis
-- [[MOC-Gut-Microbiome]] — Intestinal barrier, LPS, inflammation
+-  — Intestinal barrier, LPS, inflammation
 - Leaky gut hypothesis
 - Microbiome-diet-autoimmunity triangle
 
 ### Mitochondrial Function
-- [[MOC-Mitochondrial-Function]] — Energy metabolism in immune cells
+-  — Energy metabolism in immune cells
 - Mitochondrial dynamics in T-cell differentiation
 - ROS signaling in inflammation
 
 ### Metabolic Syndrome
-- [[MOC-Metabolic-Syndrome]] — Obesity, inflammation, autoimmunity link
+-  — Obesity, inflammation, autoimmunity link
 - Adipose tissue as immune organ
 - Insulin resistance and immune dysregulation
 
@@ -178,7 +178,7 @@ Autoimmune diseases represent a loss of immune tolerance leading to attack on se
 
 **Status:** Active MOC — under development (seeded March 2026)  
 **Next Review:** 2026-04-08  
-**Related:** [[MOC-Vitamin-D-Metabolism]] | [[MOC-Gut-Microbiome]] | [[MOC-Metabolic-Syndrome]]
+**Related:**  |  | 
 
 ---
 

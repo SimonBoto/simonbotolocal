@@ -5,7 +5,7 @@ title: Kidney Function eGFR Creatinine Interpretation
 aliases: [Z-009-0001, eGFR, Creatinine, Kidney Function, Renal Assessment]
 domain: 009
 tags: [zettel, biomarker, kidney, status/optimal, clinical-protocol]
-parent-moc: [[MOC-Kidney-Metabolism]]
+parent-moc: 
 biomarker-type: kidney-function-panel
 egfr-target: ">90 mL/min/1.73m²"
 creatinine-male: 0.7-1.3 mg/dL
@@ -52,7 +52,7 @@ source-litnote: Synthesized from clinical practice
 
 ## 🔗 Connected Systems
 
-**[[KEYWORD-Insulin|insulin]] Resistance:**
+** Resistance:**
 - [[MAPK_Mitogenic_Pathway_[Z-001-0016]]] — Mitochondrial dysfunction (kidney is metabolically active)
 - [[Metabolic_Syndrome_Criteria_Z-001-0050.md]] — Metabolic syndrome (diabetes is leading cause of CKD)
 - Diabetic nephropathy: Glomerular hyperfiltration → progressive decline
@@ -130,10 +130,10 @@ patient_id,visit,creatinine_mg_dl,egfr_ml_min,urea_mg_dl,uric_acid_mg_dl,kidney_
 
 ---
 
-*Source: [[Ref_Levy_CKD_EPI_2009]], [[Ref_KDIGO_CKD_Guideline_2012]]*
+*Source: , *
 *Created: 2026-02-26 | Domain: 009 | Status: Conscious*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarker]]s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarkers MOC]]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- |Biomarkers MOC]]
 

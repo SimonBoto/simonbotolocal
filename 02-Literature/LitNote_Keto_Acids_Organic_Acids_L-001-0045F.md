@@ -203,8 +203,8 @@ Pyruvate → Oxaloacetate → Glucose
 - [[L-001-0045D]] Triose Metabolism (pyruvate from glycolysis)
 - [[L-001-0045E]] Glucose vs Fructose (aldose/ketose foundation)
 - [[L-001-0046A]] Krebs Cycle Amino Acid Entry (succinyl-CoA link)
-- [[MOC-Glycolysis-PPP]]
-- [[MOC-Vitamin-Metabolism]]
+- 
+- 
 
 ---
 

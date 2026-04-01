@@ -7,8 +7,8 @@ aliases: [Z-001-0007, PI3K, PI3K_Activation]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, mechanism, PI3K, lipid, kinase, PIP3]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: [[Ref_GutierrezRodelo_IR_Mechanisms_2017]]
+parent-moc: 
+source: 
 confidence: high
 created: 2026-02-22
 ---
@@ -29,7 +29,7 @@ Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the sec
 
 **Downstream:** PIP3 recruits Akt and PDK1 to membrane for Akt activation.
 
-**Clinical:** PI3K inhibitors ([[KEYWORD-Cancer|cancer]] therapy) cause severe [[KEYWORD-Insulin|insulin]] resistance.
+**Clinical:** PI3K inhibitors ( therapy) cause severe  resistance.
 
 ## Links
 
@@ -38,6 +38,6 @@ Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the sec
 
 ## Context
 
-**Also in:** [[MOC-Insulin-Signaling]]
+**Also in:** 
 
-**Isoforms:** p110α dominant in [[KEYWORD-Metabolism|metabolism]]; p110β compensates when α lost
+**Isoforms:** p110α dominant in ; p110β compensates when α lost

@@ -5,7 +5,7 @@ type: index
 title: "03-Zettels/Subconscious — Permanent Notes"
 aliases: [Subconscious, Permanent, Ground Truth]
 tags: [index, subconscious, zettels, permanent, immutable, folder]
-parent-index: [[03-Zettels]]
+parent-index: 
 status: active
 ---
 
@@ -45,8 +45,8 @@ If you find an error:
 
 ## 🔗 Navigation
 
-← **Sister: [[03-Zettels-Conscious]]** — Working Notes  
-↑ **Parent: [[03-Zettels]]**
+← **Sister: ** — Working Notes  
+↑ **Parent: **
 
 ---
 

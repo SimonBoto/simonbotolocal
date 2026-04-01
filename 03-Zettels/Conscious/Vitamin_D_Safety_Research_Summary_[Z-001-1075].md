@@ -6,14 +6,14 @@ aliases: [Z-001-1075, VitD-Safety-Biblio]
 domain: 001
 domain-name: Vitamin D Metabolism
 tags: [zettel, vitamin-d, safety, research]
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]]
 source: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]]
 confidence: high
 created: 2026-03-08
 ---
 
-# [[KEYWORD-Vitamin_D|vitamin d]] Safety Research Summary
+#  Safety Research Summary
 
 ## Overview
 Evidence for safety of long-term high-dose vitamin D supplementation.
@@ -85,12 +85,12 @@ Evidence for safety of long-term high-dose vitamin D supplementation.
 
 ## Related
 - [[Vitamin_D_PTH_Calcium_Axis_[Z-001-1059].md]]
-- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-[[KEYWORD-Metabolism|metabolism]]]]
+- -
 
 ---
 *Source: CGPT-0022 — Research bibliography*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Vitamin_D_High_Dose_Monitoring_Protocol_[Z-001-0091]|Z-001-0091]]

@@ -5,7 +5,7 @@ title: OAT Complete Reference — All Metabolites from Clinical Prototype
 aliases: [REF-OAT-002]
 domain: 012
 tags: [oat, reference, optimal-ranges, clinical-prototype, complete]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 extraction-date: 2026-03-31
 source: Old_mail_prototype.pdf (complete extraction)
@@ -177,7 +177,7 @@ High ethylmalonic + methylsuccinic + dicarboxylic acids (adipic, suberic, sebaci
 ---
 
 ## Related Files
-- [[REF-OAT-001|OAT Reference Ranges and Interpretation Framework]]
+- 
 - [[B-012-0001|Citrate — Mitochondrial Dysfunction Marker]]
 - [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition]]
 

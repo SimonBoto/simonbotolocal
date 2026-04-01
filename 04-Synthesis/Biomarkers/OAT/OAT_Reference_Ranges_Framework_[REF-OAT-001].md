@@ -5,7 +5,7 @@ title: OAT Reference Ranges and Interpretation Framework
 aliases: [REF-OAT-001]
 domain: 012
 tags: [oat, reference, optimal-ranges, interpretation, clinical-framework]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: active
 extraction-date: 2026-03-31
 source: Old_mail_prototype.pdf (clinic legacy document)

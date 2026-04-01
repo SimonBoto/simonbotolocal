@@ -17,7 +17,7 @@ status: pending
 aliases: [R-001-0019, Qu_2018, CoQ10_Statin_Myopathy]
 domain: 001
 tags: [reference, coq10, statin, myopathy, mitochondria, tier-3]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 

@@ -5,15 +5,15 @@ title: Mitochondrial Nutrient Deficiency Patterns
 aliases: [Mitochondrial-Cofactors, B-Vitamins, CoQ10, Carnitine]
 domain: 001
 tags: [zettel, mitochondrial-cofactors, magnesium, coq10, b-vitamins, carnitine]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]]
 extraction-date: 2026-03-01
 ---
 
-# [[KEYWORD-Mitochondria|mitochondria]]l Nutrient Deficiency Patterns
+# l Nutrient Deficiency Patterns
 
-> Specific nutrient deficiencies underlie [[KEYWORD-Mitochondria|mitochondrial]] dysfunction, with organic acid patterns revealing which cofactors are lacking.
+> Specific nutrient deficiencies underlie  dysfunction, with organic acid patterns revealing which cofactors are lacking.
 
 ## Critical Cofactors
 
@@ -42,7 +42,7 @@ extraction-date: 2026-03-01
 
 ```
 Citrate + aconitate ↑ → Mg deficiency, Fe-S cluster
-Multiple TCA ↑ → Multiple B-[[KEYWORD-Vitamin_D|vitamin d]]eficiency
+Multiple TCA ↑ → Multiple B-eficiency
 3-HMGA ↑ → Carnitine deficiency
 General dysfunction → CoQ10 deficiency
 ```
@@ -53,6 +53,6 @@ General dysfunction → CoQ10 deficiency
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

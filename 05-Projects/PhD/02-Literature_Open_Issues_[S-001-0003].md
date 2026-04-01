@@ -4,7 +4,7 @@ type: tracking
 title: "02-Literature — Open Issues (Knowledge Gaps)"
 aliases: [OpenIssues, LitGaps, TODO-Literature]
 tags: [tracking, gaps, todo, literature]
-parent-moc: [[02-Literature]]
+parent-moc: 
 status: active
 created: 2026-03-01
 ---

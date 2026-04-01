@@ -5,7 +5,7 @@ title: Glycation Control — HbA1c Targets and Advanced Glycation End-Products
 aliases: [Z-001-1014]
 domain: 001
 tags: [zettel, glycation, hba1c, ages, advanced-glycation-end-products, diabetes, vascular-damage, aging, conscious]
-parent-moc: [[MOC-Metabolic-Health]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]]
 status: conscious
@@ -243,7 +243,7 @@ Average glucose (mg/dL) = (28.7 × HbA1c) - 46.7
 **Approaches:**
 - Low carbohydrate diet
 - Time-restricted eating
-- Exercise (improves [[KEYWORD-Insulin|insulin]] sensitivity)
+- Exercise (improves  sensitivity)
 - Sleep optimization
 - Stress management
 - Medications if needed
@@ -330,7 +330,7 @@ Average glucose (mg/dL) = (28.7 × HbA1c) - 46.7
 
 ### Anti-Aging Medicine
 
-**HbA1c as [[KEYWORD-Biomarker|biomarker]]:**
+**HbA1c as :**
 - Lower = slower aging
 - <5.5% optimal for longevity
 - Glycation accelerates all hallmarks of aging
@@ -369,7 +369,7 @@ Average glucose (mg/dL) = (28.7 × HbA1c) - 46.7
 **Source:** CGPT-0124 — Five Pillars of Metabolic Health
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

@@ -5,7 +5,7 @@ title: Vitamin B12 Cofactor Enzymes
 aliases: [B12-Enzymes, Methionine-Synthase, Methylmalonyl-CoA-Mutase]
 domain: 001
 tags: [zettel, vitamin-b12, enzymes, cofactors, methionine-synthase]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]
 extraction-date: 2026-03-01
@@ -13,7 +13,7 @@ extraction-date: 2026-03-01
 
 # Vitamin B12 Cofactor Enzymes
 
-> Vitamin B12 serves as an essential cofactor for two critical enzymes: methionine synthase (cytosolic, methylation) and methylmalonyl-CoA mutase ([[KEYWORD-Mitochondria|mitochondria]]l, energy [[KEYWORD-Metabolism|metabolism]]).
+> Vitamin B12 serves as an essential cofactor for two critical enzymes: methionine synthase (cytosolic, methylation) and methylmalonyl-CoA mutase (l, energy ).
 
 ## Enzyme 1: Methionine Synthase
 
@@ -26,7 +26,7 @@ Homocysteine + 5-MTHF → Methionine + THF
 **Location:** Cytosol
 **EC Number:** 2.1.1.13
 
-**[[KEYWORD-Mechanism|mechanism]]:**
+**:**
 1. Methylcobalamin accepts methyl from 5-MTHF
 2. Methylcobalamin becomes temporarily demethylated
 3. Methyl transferred to homocysteine
@@ -88,6 +88,6 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 
 - [[Methionine_Essential_Sulfur_Amino_Acid_[Z-001-0432]|Z-001-0432]]
 - [[FRAX_Limitations_Clinical_Gaps_[Z-001-0111]|Z-001-0111]]

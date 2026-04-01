@@ -5,13 +5,13 @@ title: VDR Knockout Mouse Phenotypes — Lessons from Vitamin D Receptor Genetic
 aliases: [Z-001-0987]
 domain: 001
 tags: [zettel, vdr, vitamin-d-receptor, knockout, mouse-model, hypocalcemia, rickets, immunity, cancer, conscious]
-parent-moc: [[MOC-Vitamin-D]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]]
 status: conscious
 ---
 
-# VDR Knockout Mouse Phenotypes — Lessons from [[KEYWORD-Vitamin_D|vitamin d]] Receptor Genetic Models
+# VDR Knockout Mouse Phenotypes — Lessons from  Receptor Genetic Models
 
 ## Overview
 
@@ -50,7 +50,7 @@ Bone demineralization (rickets/osteomalacia)
 
 ## System-by-System Analysis
 
-### 1. Calcium and Bone [[KEYWORD-Metabolism|metabolism]]
+### 1. Calcium and Bone 
 
 **Phenotype:**
 - Severe hypocalcemia
@@ -114,7 +114,7 @@ Bone demineralization (rickets/osteomalacia)
 ### 4. Metabolic Function
 
 **Phenotype:**
-- [[KEYWORD-Insulin|insulin]] resistance
+-  resistance
 - Obesity tendency (on certain diets)
 - Altered lipid metabolism
 - Impaired glucose homeostasis
@@ -273,4 +273,4 @@ Bone demineralization (rickets/osteomalacia)
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

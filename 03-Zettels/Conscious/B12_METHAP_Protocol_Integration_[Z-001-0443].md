@@ -5,7 +5,7 @@ title: B12 METHAP Protocol Integration
 aliases: [B12-METHAP, Protocol, Integration, Synergy]
 domain: 001
 tags: [zettel, b12, methap, protocol, integration]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
 extraction-date: 2026-03-01
@@ -18,7 +18,7 @@ extraction-date: 2026-03-01
 ## METHAP Context
 
 ### High Metabolic Turnover
-- High-dose nutrients increase [[KEYWORD-Metabolism|metabolism]]
+- High-dose nutrients increase 
 - Amino acid processing demands
 - Cell proliferation (DNA synthesis)
 
@@ -26,7 +26,7 @@ extraction-date: 2026-03-01
 
 **Energy Metabolism:**
 - Amino acid oxidation (Ile, Met, Thr, Val)
-- [[KEYWORD-Mitochondria|mitochondria]]l ATP production
+- l ATP production
 - Supports high metabolic rate
 
 **Methylation Support:**
@@ -67,7 +67,7 @@ B12 is foundational for METHAP success, supporting energy, methylation, and cell
 
 ---
 
-*Source: [[LitNote_[[KEYWORD-Mitochondria|mitochondrial]]_B12_Functions_L-001-0407]]*
+*Source: _B12_Functions_L-001-0407]]*
 
 
 ## RELATED FILES

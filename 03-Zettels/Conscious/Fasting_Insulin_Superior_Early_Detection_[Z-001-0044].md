@@ -6,14 +6,14 @@ aliases: [Z-001-0044, Fasting-Insulin-Superiority]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, fasting-insulin, early-detection, superiority, claim]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
 ---
 
-# Fasting [[KEYWORD-Insulin|insulin]] Superior for Early IR Detection
+# Fasting  Superior for Early IR Detection
 
 Fasting insulin alone is superior to HOMA-IR for detecting early insulin resistance because it becomes elevated during the compensatory stage — when beta-cells are still maintaining normal glucose through hyperinsulinemia.
 
@@ -41,14 +41,14 @@ Fasting insulin alone is superior to HOMA-IR for detecting early insulin resista
 ## Links
 
 - **Upstream:** [[Compensatory_IR_Stage_Z-001-0034.md]] — Detects this compensatory stage
-- **Parallel:** [[Adipic_Acid_Early_IR_[[KEYWORD-Biomarker|biomarker]]_Z-001-0041.md]] — Adipic acid detects even earlier
-- **Downstream:** [[MOC-Early-Detection]] — Implementation
+- **Parallel:** _Z-001-0041.md]] — Adipic acid detects even earlier
+- **Downstream:**  — Implementation
 
 ## Context
 
-**Also relevant to:** [[MOC-Clinical-Assessment]], [[MOC-Prevention]]
+**Also relevant to:** , 
 
-**Emerges from:** [[KEYWORD-Biomarker|biomarkers]] Taxonomy synthesis document
+**Emerges from:**  Taxonomy synthesis document
 
 ---
 
@@ -56,5 +56,5 @@ Fasting insulin alone is superior to HOMA-IR for detecting early insulin resista
 
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

@@ -6,7 +6,7 @@ aliases: [Z-001-1133, MM-Staging]
 domain: 001
 domain-name: Hematology Oncology
 tags: [zettel, multiple-myeloma, staging, iss, r-iss]
-parent-moc: [[MOC-Hematology-Oncology]]
+parent-moc: 
 source-litnote: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]]
 source: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]]
 confidence: high
@@ -16,7 +16,7 @@ created: 2026-03-08
 # Multiple Myeloma Staging ISS R-ISS
 
 ## Overview
-Staging in multiple myeloma stratifies patients by prognosis using [[KEYWORD-Biomarker|biomarker]]s—primarily beta-2 microglobulin (tumor burden) and albumin (patient status), with refinement for cytogenetics and LDH.
+Staging in multiple myeloma stratifies patients by prognosis using s—primarily beta-2 microglobulin (tumor burden) and albumin (patient status), with refinement for cytogenetics and LDH.
 
 ## International Staging System (ISS)
 
@@ -149,12 +149,12 @@ Staging in multiple myeloma stratifies patients by prognosis using [[KEYWORD-Bio
 - [[Multiple_Myeloma_CRAB_Features_Diagnosis_[Z-001-1131].md]]
 - [[Multiple_Myeloma_Treatment_Modern_Approach_[Z-001-1134].md]]
 - [[TP53_Multiple_Myeloma_Prognosis_Therapy_[Z-001-1135].md]]
-- [[MOC-Hematology-Oncology]]
+- 
 
 ---
-*Source: CGPT-0264 — Warburg effect and [[KEYWORD-Cancer|cancer]]*
+*Source: CGPT-0264 — Warburg effect and *
 
 ## RELATED FILES
-- [[MOC-[[KEYWORD-Biomarker|biomarkers]]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- |Biomarker Family Guide]]
+- 
 

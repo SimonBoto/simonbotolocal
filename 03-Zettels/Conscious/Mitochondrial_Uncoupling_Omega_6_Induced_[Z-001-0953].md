@@ -5,7 +5,7 @@ title: Mitochondrial Uncoupling — Omega-6 Induced
 aliases: [Z-001-0953]
 domain: 001
 tags: [zettel, mitochondria, omega-6, cardiolipin, uncoupling, ros, oxidative-stress, conscious]
-parent-moc: [[MOC-Mitochondrial-Function]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Mechanisms_Metabolic_Disruption_L-001-0523]]
 status: conscious
@@ -92,7 +92,7 @@ Mitochondrial uncoupling + Apoptosis signaling
 - **Result:** Apoptosis
 
 **Cell Types Affected:**
-- Pancreatic β-cells (impaired [[KEYWORD-Insulin|insulin]] secretion)
+- Pancreatic β-cells (impaired  secretion)
 - Hepatocytes (NAFLD progression)
 - Skeletal muscle cells (insulin resistance)
 - Endothelial cells (vascular dysfunction)
@@ -132,7 +132,7 @@ Mitochondrial uncoupling + Apoptosis signaling
 - General antioxidant support (vitamin E, CoQ10)
 - Caloric restriction (reduces metabolic load)
 
-## [[KEYWORD-Biomarker|biomarker]]s
+## s
 
 - **Plasma F₂-isoprostanes:** Lipid peroxidation marker
 - **Oxidized cardiolipin antibodies:** Research use
@@ -146,7 +146,7 @@ Mitochondrial uncoupling + Apoptosis signaling
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

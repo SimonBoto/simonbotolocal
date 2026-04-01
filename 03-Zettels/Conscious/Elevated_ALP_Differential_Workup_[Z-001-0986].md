@@ -5,7 +5,7 @@ title: Elevated ALP Differential — Systematic Workup for High Alkaline Phospha
 aliases: [Z-001-0986]
 domain: 001
 tags: [zettel, alp, alkaline-phosphatase, differential-diagnosis, workup, liver, bone, cholestasis, algorithm, conscious]
-parent-moc: [[MOC-Clinical-Chemistry]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]]
 status: conscious
@@ -13,7 +13,7 @@ status: conscious
 
 # Elevated ALP Differential — Systematic Workup for High Alkaline Phosphatase
 
-## [[KEYWORD-Clinical|clinical]] Approach
+##  Approach
 
 Elevated alkaline phosphatase (ALP) is a common laboratory finding requiring systematic evaluation to determine source (hepatic vs bone) and underlying etiology.
 
@@ -132,10 +132,10 @@ Elevated alkaline phosphatase (ALP) is a common laboratory finding requiring sys
 - CTX or NTX (resorption)
 - Elevated in high-turnover states
 
-**Calcium [[KEYWORD-Metabolism|metabolism]]:**
+**Calcium :**
 - Calcium, phosphate
 - PTH (hyperparathyroidism)
-- 25-OH [[KEYWORD-Vitamin_D|vitamin d]]
+- 25-OH 
 
 ### Imaging
 

@@ -6,14 +6,14 @@ aliases: [Z-001-1117, Warburg-Effect]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, warburg, glycolysis, cancer, metabolism]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]]
 source: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]]
 confidence: high
 created: 2026-03-08
 ---
 
-# Warburg Effect Aerobic Glycolysis [[KEYWORD-Cancer|cancer]]
+# Warburg Effect Aerobic Glycolysis 
 
 ## Overview
 The Warburg effect is the metabolic shift in cancer cells where glycolysis is preferentially used for energy production even when oxygen is abundant—a phenomenon termed aerobic glycolysis.
@@ -25,7 +25,7 @@ The Warburg effect is the metabolic shift in cancer cells where glycolysis is pr
 
 ## The Metabolic Shift
 
-### Normal Cell [[KEYWORD-Metabolism|metabolism]] (Aerobic)
+### Normal Cell  (Aerobic)
 ```
 Glucose → Pyruvate → Acetyl-CoA → Krebs Cycle → OXPHOS
                 ↓
@@ -59,7 +59,7 @@ Glucose → Pyruvate → Lactate
 | **Biosynthesis** | High | Low |
 | **Oxygen need** | Low | High |
 
-## Molecular [[KEYWORD-Mechanism|mechanism]]s
+## Molecular s
 
 ### Upstream Regulators
 | Pathway | Effect on Warburg |
@@ -95,7 +95,7 @@ Glucose → Pyruvate → Lactate
 ## Related
 - [[Cancer_Metabolic_Reprogramming_Glycolysis_PPP_[Z-001-1118].md]]
 - [[Tumor_Microenvironment_Lactate_Acidification_[Z-001-1119].md]]
-- [[MOC-Cancer-Metabolism]]
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*

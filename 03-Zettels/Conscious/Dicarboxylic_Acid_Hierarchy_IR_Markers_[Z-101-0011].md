@@ -5,7 +5,7 @@ title: Dicarboxylic Acid Hierarchy as Insulin Resistance Markers
 aliases: [Z-101-0011, Dicarboxylic Aciduria, Adipate Suberate Sebacate Pattern]
 domain: 101
 tags: [zettel, dicarboxylic-acid, adipate, suberate, sebacate, urine-organic-acid, IR-marker]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 status: conscious
 source: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]]"
 extraction-date: 2026-03-02
@@ -53,7 +53,7 @@ source-litnote: Synthesized from clinical practice
 
 **Early Detection Advantage:**
 - Adipate elevation may precede glucose abnormalities
-- Potential **leading [[KEYWORD-Biomarker|biomarker]]** for IR risk stratification
+- Potential **leading ** for IR risk stratification
 
 ## Diagnostic Distinction
 
@@ -76,9 +76,9 @@ source-litnote: Synthesized from clinical practice
 
 ---
 
-*See also: [[Adipate_[[KEYWORD-Metabolism|metabolism]]_TCA_Entry_[Z-101-0010]]]*
+*See also: _TCA_Entry_[Z-101-0010]]]*
 
 ## RELATED FILES
-- [[[[KEYWORD-Biomarker|biomarkers]]/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- 
 

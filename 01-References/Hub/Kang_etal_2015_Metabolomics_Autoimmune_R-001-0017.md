@@ -16,7 +16,7 @@ status: pending
 aliases: [R-001-0017, Kang_2015, Metabolomics_Autoimmune]
 domain: 001
 tags: [reference, metabolomics, autoimmunity, biomarkers, tier-2]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 
@@ -47,7 +47,7 @@ Kang J, Zhu L, Lu J, Zhang X. Application of metabolomics in autoimmune diseases
 
 ## Connections
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source citing
-- [[Kang_etal_2015_Autoimmune_Metabolomics_R-001-0017]] — This hub
+-  — This hub
 
 ---
 *Status: Reference hub created — pending relevance scan*  

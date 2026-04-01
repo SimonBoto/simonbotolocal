@@ -11,7 +11,7 @@ pmcid: "N/A"
 tier: 1
 relevance: "High — Historical foundation for modern IRB requirements and METHAP ethics compliance"
 status: extracted
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 extraction-date: 2026-03-27
 ---
 
@@ -96,7 +96,7 @@ METHAP must comply with:
 
 ## Related References
 - [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]] — Modern operationalization of principles
-- [[MOC-Research-Ethics]] — Master map of research ethics concepts
+-  — Master map of research ethics concepts
 - [[Tuskegee_Syphilis_Study_Ethics_Case_[Z-002-0613].md]] — Historical violation leading to Belmont
 
 ---

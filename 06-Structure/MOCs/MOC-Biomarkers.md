@@ -4,7 +4,7 @@ type: moc
 title: MOC — PhD Biomarkers
 aliases: [MOC_Biomarkers, Biomarkers_MOC]
 tags: [moc, phd-biomarker, stub, future]
-parent-moc: [[MOC-INDEX]]
+parent-moc: 
 status: stub
 created: 2026-02-11
 last-updated: 2026-02-22
@@ -21,7 +21,7 @@ last-updated: 2026-02-22
 🟡 **STUB — No dedicated biomarker zettels yet**
 
 Current biomarker content lives in:
-- [[MOC-Insulin-Signaling]] — 17 zettels (adipic acid, metabolic pathways)
+-  — 17 zettels (adipic acid, metabolic pathways)
 
 ---
 
@@ -46,7 +46,7 @@ Current biomarker content lives in:
 
 | MOC | Current Connection |
 |-----|-------------------|
-| [[MOC-Insulin-Signaling]] | 17 existing metabolic zettels |
+|  | 17 existing metabolic zettels |
 
 ---
 

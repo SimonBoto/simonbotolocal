@@ -5,7 +5,7 @@ title: Vitamin D Clinical Guide - High-Dose Therapeutic Protocols
 aliases: [S-001-0002, VitD-Guide, Vitamin-D-Protocol]
 domain: 001
 tags: [synthesis, vitamin-d, clinical-protocol, dosing, safety, k2, metabolic-syndrome, autoimmunity, high-dose]
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: 
 status: active
 created: 2026-03-30
 updated: 2026-03-30

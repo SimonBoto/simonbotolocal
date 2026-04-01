@@ -6,7 +6,7 @@ aliases: [Z-001-1041, Health-Philosophy]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, philosophy, health, definitions]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
 source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
 confidence: high
@@ -16,14 +16,14 @@ created: 2026-03-08
 # Health Philosophy Core Concepts
 
 ## Overview
-14 foundational concepts defining health, disease, and biological function from a [[KEYWORD-Metabolomics|metabolomics]] perspective.
+14 foundational concepts defining health, disease, and biological function from a  perspective.
 
 ## The Terms (Category A)
 
-| Term | Definition | [[KEYWORD-Clinical|clinical]] Relevance |
+| Term | Definition |  Relevance |
 |------|------------|-------------------|
 | **Υγεία (Health)** | Dynamic adaptive capacity, not absence of disease | Measure function, not just pathology |
-| **Νόσος (Disease)** | Failure of adaptive [[KEYWORD-Mechanism|mechanism]]s | Preceded by functional dysfunction |
+| **Νόσος (Disease)** | Failure of adaptive s | Preceded by functional dysfunction |
 | **Λειτουργική Δυσλειτουργία** | Suboptimal function before pathology | Where metabolomics intervenes |
 | **Ομοιόσταση (Homeostasis)** | Dynamic equilibrium maintenance | Not fixed—adaptive range matters |
 | **Προσαρμογή (Adaptation)** | Organism response to environmental load | Health = adaptation capacity |
@@ -42,11 +42,11 @@ created: 2026-03-08
 
 ## Related
 - [[Patient_Communication_Core_Concepts_[Z-001-1047].md]]
-- [[MOC-Metabolomics-Training]]
+- 
 
 ---
 *Source: CGPT-0022 — Tsoukalas Core Vocabulary*
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

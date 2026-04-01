@@ -5,7 +5,7 @@ title: Procter & Gamble and Crisco — Seed Oil Marketing (1911)
 aliases: [Crisco, Procter-Gamble, Seed-Oil-Marketing, 1911]
 domain: 001
 tags: [zettel, nutrition, history, crisco, procter-gamble, marketing]
-parent-moc: [[MOC-Nutrition]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Dietary_Fat_History_L-001-0210]]
 extraction-date: 2026-03-01
@@ -81,7 +81,7 @@ extraction-date: 2026-03-01
 **Dietary Shift:**
 - Animal fat consumption declined
 - Vegetable oil consumption rose
-- [[KEYWORD-Omega_6|omega-6]] intake increased dramatically
+-  intake increased dramatically
 - Traditional fats marginalized
 
 ## Connection to Later Anti-Fat Movement
@@ -90,7 +90,7 @@ extraction-date: 2026-03-01
 - P&G benefited from anti-saturated fat message
 - Vegetable oil industry grew
 - Animal fat competitors weakened
-- [[KEYWORD-Research|research]] funding influenced
+-  funding influenced
 
 **Historical Irony:**
 - Crisco originally marketed as "healthy"
@@ -118,4 +118,4 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

@@ -5,7 +5,7 @@ title: Romosozumab — Anti-Sclerostin Dual Action Therapy
 aliases: [Z-001-0107]
 domain: 001
 tags: [zettel, romosozumab, sclerostin, anabolic, antiresorptive, wnt, monoclonal-antibody, conscious]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: 
 status: conscious
 ---
 
@@ -19,7 +19,7 @@ Humanized monoclonal antibody against **sclerostin** that uniquely stimulates bo
 ### Source and Function
 - **Produced by:** Osteocytes (embedded bone cells)
 - **Target:** Osteoblast precursors and osteocytes
-- **[[KEYWORD-Mechanism|mechanism]]:** Inhibits Wnt/β-catenin signaling pathway
+- **:** Inhibits Wnt/β-catenin signaling pathway
 - **Effect:** Suppresses osteoblast proliferation and differentiation
 
 ### Physiological Role
@@ -51,7 +51,7 @@ Humanized monoclonal antibody against **sclerostin** that uniquely stimulates bo
 - Early (0–6 months): Formation stimulation dominant
 - Late (6–12 months): Resorption suppression more apparent
 
-## [[KEYWORD-Clinical|clinical]] Pharmacology
+##  Pharmacology
 
 ### Administration
 - **Dose:** 210 mg monthly
@@ -130,7 +130,7 @@ Humanized monoclonal antibody against **sclerostin** that uniquely stimulates bo
 
 ### Serious
 - **Cardiovascular events:** Increased risk (see above)
-- **Hypocalcemia:** Rare, especially with severe [[KEYWORD-Vitamin_D|vitamin d]] deficiency
+- **Hypocalcemia:** Rare, especially with severe  deficiency
 
 ## Monitoring
 | Parameter | Timing |

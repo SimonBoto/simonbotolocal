@@ -5,14 +5,14 @@ title: "Micronutrients: Vitamin D as Immunoregulatory Factor"
 aliases: [Z-001-0021, Micronutrients, Vitamin_D_Immune, Immunonutrition]
 domain: 001
 tags: [zettel, micronutrients, vitamin-d, immunomodulation, autoimmunity, inflammation, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
 
-# Micronutrients: [[KEYWORD-Vitamin_D|vitamin d]] as Immunoregulatory Factor
+# Micronutrients:  as Immunoregulatory Factor
 
 ## Core Claim
 **Vitamin D functions as an immunoregulatory micronutrient** alongside Vitamin E, zinc, omega-3 fatty acids, probiotics, and EGCG — modulating immune function through multiple metabolomic pathways.
@@ -58,7 +58,7 @@ source-litnote: Synthesized from clinical practice
 
 #### Metabolite Markers of VitD Status
 - **Primary:** 25-hydroxyvitamin D, 1,25-dihydroxyvitamin D
-- **Functional:** Calcium [[KEYWORD-Metabolism|metabolism]] markers, bone turnover markers
+- **Functional:** Calcium  markers, bone turnover markers
 - **Immune:** Inflammatory cytokine patterns, antimicrobial peptide levels
 
 ## Deficiency Detection via Metabolomics
@@ -98,12 +98,12 @@ The course's inclusion of VitD in immunoregulatory micronutrients supports:
 - [[Environmental_Factors_80_Percent_Chronic_Disease_[Z-001-0903].md]] — Environmental factor (nutrition)
 
 ### Downstream
-- [[MOC-[[KEYWORD-Vitamin_D|vitamin-d]]-Mechanisms]] — Detailed VitD mechanism hub
+- -Mechanisms]] — Detailed VitD mechanism hub
 - [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]] — IR-VitD connection
 
 ### Cross-Domain
-- [[MOC-PhD-METHAP-Trial]] — Trial design
-- [[Z-METHAP-Protocol]] — Protocol specifics
+-  — Trial design
+-  — Protocol specifics
 
 ## Clinical Application
 
@@ -139,5 +139,5 @@ The course's inclusion of VitD in immunoregulatory micronutrients supports:
 *Next Review: After METHAP baseline data collection*
 ## RELATED FILES
 - [[Biomarkers/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- [[MOC-Biomarkers|Biomarkers MOC]]
+- 
 

@@ -5,7 +5,7 @@ title: IRB Communication Best Practices
 aliases: [Z-101-0481]
 domain: 101
 tags: [zettel, irb, ethics-committee, communication, regulatory, phd, practical, conscious]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: 
 source-litnote: [[LitNote_CGPT_0205_Ethics_Communication_L-101-0051.md]]
 status: conscious
 ---
@@ -94,7 +94,7 @@ Sincerely,
 1. Committee administrator
 2. Committee chair
 3. Department head
-4. [[KEYWORD-Research|research]] integrity office
+4.  integrity office
 5. Institutional ombudsman
 
 ## Ongoing Communication
@@ -144,4 +144,4 @@ Best regards,
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

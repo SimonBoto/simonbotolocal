@@ -6,7 +6,7 @@ aliases: [Z-001-1123, Press-Pulse]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, press-pulse, metabolic, cancer, therapy]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: 
 source-litnote: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]]
 source: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]]
 confidence: high
@@ -47,7 +47,7 @@ The Press-Pulse strategy combines chronic metabolic stress (Press) with acute th
 | Outcome | Mechanism |
 |---------|-----------|
 | **Reduce glucose availability** | Starve glycolytic cancer |
-| **Lower [[KEYWORD-Insulin|insulin]]/IGF-1** | Reduce growth signaling |
+| **Lower /IGF-1** | Reduce growth signaling |
 | **Induce metabolic stress** | Weaken cancer cells |
 | **Maintain ketosis** | Nourish normal cells |
 
@@ -102,7 +102,7 @@ The Press-Pulse strategy combines chronic metabolic stress (Press) with acute th
 | Normal Cell | Advantage |
 |-------------|-----------|
 | **Metabolic flexibility** | Switch to ketones during Press |
-| **Healthy [[KEYWORD-Mitochondria|mitochondria]]** | Survive Pulse better |
+| **Healthy ** | Survive Pulse better |
 | **DNA repair** | Functional under stress |
 
 ## Evidence Base
@@ -141,7 +141,7 @@ The Press-Pulse strategy combines chronic metabolic stress (Press) with acute th
 ## Related
 - [[Cancer_Metabolic_Disease_Mitochondrial_Origin_[Z-001-1121].md]]
 - [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_[Z-001-1122].md]]
-- [[MOC-Cancer-[[KEYWORD-Metabolism|metabolism]]]]
+- 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*

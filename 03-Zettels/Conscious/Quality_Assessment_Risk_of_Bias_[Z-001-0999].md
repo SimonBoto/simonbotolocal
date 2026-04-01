@@ -5,7 +5,7 @@ title: Quality Assessment and Risk of Bias — Tools for Systematic Reviews
 aliases: [Z-001-0999]
 domain: 001
 tags: [zettel, systematic-review, quality-assessment, risk-of-bias, rob-2, robins-i, cochrane, grade, newcastle-ottawa, conscious]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: 
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]]
 status: conscious
@@ -319,7 +319,7 @@ Quality assessment evaluates the methodological rigor of included studies. Risk 
 - Incorporate into synthesis via sensitivity analyses
 - GRADE provides overall certainty rating
 
-**[[KEYWORD-Clinical|clinical]] Pearl:** A meta-analysis is only as trustworthy as the studies included. Rigorous risk of bias assessment distinguishes rigorous reviews from simple aggregations.
+** Pearl:** A meta-analysis is only as trustworthy as the studies included. Rigorous risk of bias assessment distinguishes rigorous reviews from simple aggregations.
 
 ---
 

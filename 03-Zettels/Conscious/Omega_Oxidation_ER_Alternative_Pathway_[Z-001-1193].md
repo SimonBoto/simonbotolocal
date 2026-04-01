@@ -4,7 +4,7 @@ type: zettel
 title: Omega-Oxidation — ER Alternative Pathway
 domain: 101
 tags: [zettel, omega-oxidation, er, cyp450, dicarboxylic-acids, phd-research]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: 
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]]"
 status: conscious
@@ -14,7 +14,7 @@ status: conscious
 
 ## Overview
 
-ω-oxidation is an alternative fatty acid [[KEYWORD-Metabolism|metabolism]] pathway in the endoplasmic reticulum. It becomes active when β-oxidation is impaired, producing dicarboxylic acids that can be excreted or further metabolized.
+ω-oxidation is an alternative fatty acid  pathway in the endoplasmic reticulum. It becomes active when β-oxidation is impaired, producing dicarboxylic acids that can be excreted or further metabolized.
 
 **"Omega" (ω) = Terminal methyl carbon (opposite end from carboxyl group)**
 
@@ -59,7 +59,7 @@ R-CHO + NAD⁺ + H₂O → R-COOH + NADH + H⁺
 ### When Activated
 1. **β-Oxidation Impairment**
    - Carnitine deficiency
-   - [[KEYWORD-Mitochondria|mitochondria]]l dysfunction
+   - l dysfunction
    - Genetic defects (MCAD, LCAD)
 
 2. **Fatty Acid Overload**
@@ -96,7 +96,7 @@ R-CHO + NAD⁺ + H₂O → R-COOH + NADH + H⁺
 
 **Causes:**
 - MCAD deficiency (genetic)
-- Severe [[KEYWORD-Insulin|insulin]] resistance
+- Severe  resistance
 - Riboflavin deficiency (FAD cofactor)
 - Fasting in infants
 
@@ -125,4 +125,4 @@ R-CHO + NAD⁺ + H₂O → R-COOH + NADH + H⁺
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

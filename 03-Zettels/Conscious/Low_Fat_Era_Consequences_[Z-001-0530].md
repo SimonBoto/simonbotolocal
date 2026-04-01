@@ -5,7 +5,7 @@ title: Low-Fat Era Consequences
 aliases: [Low-Fat-Era, Obesity-Epidemic, Metabolic-Syndrome]
 domain: 001
 tags: [zettel, low-fat, obesity, metabolic-syndrome]
-parent-moc: [[MOC-Research-Methodology]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]]
 extraction-date: 2026-03-01
@@ -28,7 +28,7 @@ extraction-date: 2026-03-01
 
 **Metabolic Syndrome:**
 - Now 1 in 3 adults
-- Central obesity, [[KEYWORD-Insulin|insulin]] resistance
+- Central obesity,  resistance
 
 ## Mechanism
 
@@ -37,7 +37,7 @@ extraction-date: 2026-03-01
 2. Glucose spikes
 3. Insulin secretion
 4. Fat storage
-5. [[KEYWORD-Insulin_Resistance|insulin resistance]]
+5. 
 
 ## Low-Fat Problems
 
@@ -47,7 +47,7 @@ extraction-date: 2026-03-01
 
 **Displaced Nutrients:**
 - Fat-soluble vitamins reduced
-- Essential [[KEYWORD-Fatty_Acids|fatty acids]] reduced
+- Essential  reduced
 
 **Processed Foods:**
 - Fat removed, sugar added
@@ -70,4 +70,4 @@ Well-intentioned advice caused iatrogenic metabolic harm.
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

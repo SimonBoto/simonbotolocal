@@ -6,7 +6,7 @@ aliases: [Z-001-0901, Z-001-0001-deprecated, Systems_Biology_Integrative]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, systems-biology, metabolomics, integration, conscious]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
 confidence: high
 created: 2026-02-23
@@ -40,22 +40,22 @@ Systems biology studies the totality of biomolecules comprising an organism, the
 
 The METHAP trial applies systems biology principles by:
 1. Measuring multiple metabolite classes (urine OA, plasma TFA)
-2. Correlating with environmental factors ([[KEYWORD-Vitamin_D|vitamin d]] status)
-3. Tracking phenotypic outcomes ([[KEYWORD-Insulin|insulin]] resistance markers)
+2. Correlating with environmental factors ( status)
+3. Tracking phenotypic outcomes ( resistance markers)
 4. Building predictive models from multi-parameter data
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Reductionist_Biology_Limitations_Z-XXX-XXXX]] — Why reductionism fails for chronic disease
-- **Parallel/Related:** [[Multiomics_Integration_Z-XXX-XXXX]] — Technical approaches to integration
+- **Upstream/Prerequisite:**  — Why reductionism fails for chronic disease
+- **Parallel/Related:**  — Technical approaches to integration
 - **Downstream/Consequence:** [[Omics_Cascade_Genotype_Phenotype_[Z-001-0902]]] — Metabolites as closest to phenotype
 
 ## Context
 
-**Also relevant to:** [[MOC-PhD-METHAP-Trial]]
+**Also relevant to:** 
 
-**Emerges from:** [[NKUA_2024_Basics_[[KEYWORD-Metabolomics|metabolomics]]_DE1_L-001-0001]]
-**Supports:** [[IR_Mechanisms_Map]] — Systems view of insulin resistance
+**Emerges from:** _DE1_L-001-0001]]
+**Supports:**  — Systems view of insulin resistance
 
 ---
 

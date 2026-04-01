@@ -118,8 +118,8 @@ frequency: Every Sunday
 
 ## 🔗 Navigation
 
-← **Back to [[01-QUEUE]]** — Current status  
-← **Back to [[02-HANDOFF]]** — Session notes  
+← **Back to ** — Current status  
+← **Back to ** — Session notes  
 ↑ **Up to [[08-Dashboards/Dashboard_Home]]**
 
 ---

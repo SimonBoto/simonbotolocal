@@ -5,7 +5,7 @@ project: Assistant
 title: "Assistant Project — Human-AI Workflow Optimization"
 date: 2026-02-25
 tags: [project, assistant, workflow, ron, personal]
-parent-moc: [[05-Projects/PROJECTS_INDEX]]
+parent-moc: 
 aliases: [RON_Setup, Assistant_Project]
 ---
 
@@ -23,11 +23,11 @@ aliases: [RON_Setup, Assistant_Project]
 
 | Folder | Purpose |
 |--------|---------|
-| **[[Schedule]]/** | Clinic hours, commute patterns, availability windows |
-| **[[Workflows]]/** | Decision trees, SOPs, process documentation |
-| **[[Templates]]/** | Desknet ↔ Obsidian mappings, reusable formats |
-| **[[Session_Log]]/** | What we actually did, decisions made |
-| **[[Analysis]]/** | Efficiency studies, improvement opportunities |
+| **/** | Clinic hours, commute patterns, availability windows |
+| **/** | Decision trees, SOPs, process documentation |
+| **/** | Desknet ↔ Obsidian mappings, reusable formats |
+| **/** | What we actually did, decisions made |
+| **/** | Efficiency studies, improvement opportunities |
 
 ---
 

@@ -5,7 +5,7 @@ title: Methionine — Essential Sulfur Amino Acid
 aliases: [Methionine, Essential-Amino-Acid, Sulfur]
 domain: 001
 tags: [zettel, methionine, essential, amino-acid, sulfur]
-parent-moc: [[MOC-One-Carbon-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Methionine_Catabolism_L-001-0406]]
 extraction-date: 2026-03-01
@@ -66,7 +66,7 @@ extraction-date: 2026-03-01
 
 
 ## Related
-- [[Threonine_Dual_[[KEYWORD-Metabolism|metabolism]]_Glucogenic_Ketogenic_[Z-001-0611]|Z-001-0611]]
+- _Glucogenic_Ketogenic_[Z-001-0611]|Z-001-0611]]
 
 
 ## Related
@@ -130,7 +130,7 @@ extraction-date: 2026-03-01
 
 
 ## Related
-- [[Dysbiosis_Detection_[[KEYWORD-Metabolomics|metabolomics]]_[Z-001-0023]|Z-001-0023]]
+- _[Z-001-0023]|Z-001-0023]]
 
 
 ## Related
@@ -398,7 +398,7 @@ extraction-date: 2026-03-01
 
 
 ## Related
-- [[[[KEYWORD-Insulin|insulin]]_Naming_Islets_Langerhans_[Z-001-0235]|Z-001-0235]]
+- _Naming_Islets_Langerhans_[Z-001-0235]|Z-001-0235]]
 
 
 ## Related

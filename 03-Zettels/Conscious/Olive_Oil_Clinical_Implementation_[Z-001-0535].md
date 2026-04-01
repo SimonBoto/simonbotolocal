@@ -5,13 +5,13 @@ title: Olive Oil — Clinical Implementation
 aliases: [Clinical-Implementation, Dosing, Quality, Storage]
 domain: 001
 tags: [zettel, olive-oil, implementation, dosing, quality]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: 
 status: conscious
 source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]
 extraction-date: 2026-03-01
 ---
 
-# Olive Oil — [[KEYWORD-Clinical|clinical]] Implementation
+# Olive Oil —  Implementation
 
 > Clinical implementation should prioritize extra virgin olive oil as primary dietary fat with specific dosing (2-4 tbsp/day) and quality considerations.
 
@@ -71,4 +71,4 @@ extraction-date: 2026-03-01
 
 
 ## RELATED FILES
-- [[MOC-INDEX|Master Index]]
+- 

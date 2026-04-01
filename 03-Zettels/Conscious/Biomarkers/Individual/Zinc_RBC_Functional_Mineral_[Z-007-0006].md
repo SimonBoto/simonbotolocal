@@ -5,7 +5,7 @@ title: Zinc — RBC Zinc, Functional Mineral Status
 aliases: [Z-007-0006, Zinc, RBC-Zinc, Functional-Zinc, Mineral, Cofactor]
 domain: 007
 tags: [zettel, biomarker, zinc, rbc, functional, mineral, cofactor]
-parent-moc: [[MOC-Biomarkers]]
+parent-moc: 
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

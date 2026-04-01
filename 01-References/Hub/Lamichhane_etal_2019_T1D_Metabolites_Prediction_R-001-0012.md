@@ -16,7 +16,7 @@ status: pending
 aliases: [R-001-0012, Lamichhane_2019, T1D_Metabolomics_Prediction]
 domain: 001
 tags: [reference, t1d, metabolomics, prediction, biomarkers, tier-1]
-parent-moc: [[MOC-Metabolomics-Training]]
+parent-moc: 
 extraction-date: 2026-02-23
 ---
 
@@ -64,7 +64,7 @@ This study demonstrates that **circulating metabolites predict T1D before clinic
 ## Connections
 - [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source citing
 - [[Predictive_Metabolites_T1D_Example_Z-001-0019]] — Zettel using this evidence
-- [[Z-METHAP-Protocol]] — Protocol biomarker rationale
+-  — Protocol biomarker rationale
 
 ---
 *Status: Reference hub created — pending full text review*  
