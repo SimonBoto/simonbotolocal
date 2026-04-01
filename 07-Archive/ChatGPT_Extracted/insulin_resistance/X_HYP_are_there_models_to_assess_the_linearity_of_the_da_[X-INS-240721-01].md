@@ -1,6 +1,13 @@
 ---
 uid: X-INS-240721-01
 type: extracted-hypothesis
+title: "Hypothesis: are there models to assess the linearity of the data in the begining"
+date: 2024-07-21
+status: conscious
+---
+
+uid: X-INS-240721-01
+type: extracted-hypothesis
 title: "Hypothesis: are there models to assess the linearity of the data in the begining?
 ..."
 date: 2024-07-21

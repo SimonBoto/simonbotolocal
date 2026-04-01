@@ -1,6 +1,13 @@
 ---
 uid: X-VIT-241203-01
 type: extracted-hypothesis
+title: "Hypothesis: Should I be detailed in mechanisms of action, production, activation"
+date: 2024-12-03
+status: conscious
+---
+
+uid: X-VIT-241203-01
+type: extracted-hypothesis
 title: "Hypothesis: Should I be detailed in mechanisms of action, production, activation o..."
 date: 2024-12-03
 source: "[[CGPT_0230_Synergy_of_D_and_K2_[CGPT-0230]]]"

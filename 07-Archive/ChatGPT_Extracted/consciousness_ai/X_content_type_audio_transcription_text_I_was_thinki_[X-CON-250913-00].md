@@ -1,6 +1,13 @@
 ---
 uid: X-CON-250913-00
 type: extracted-insight
+title: "{'content_type': 'audio_transcription', 'text': 'I was thinking more about menta"
+date: 2025-09-13
+status: conscious
+---
+
+uid: X-CON-250913-00
+type: extracted-insight
 title: "{'content_type': 'audio_transcription', 'text': 'I was thinking more about menta..."
 date: 2025-09-13
 source: "[[CGPT_0059_Change_conversation_style_[CGPT-0059]]]"

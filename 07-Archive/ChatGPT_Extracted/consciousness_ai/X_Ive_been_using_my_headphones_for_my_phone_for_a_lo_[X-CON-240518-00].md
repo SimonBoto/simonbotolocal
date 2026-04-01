@@ -1,6 +1,13 @@
 ---
 uid: X-CON-240518-00
 type: extracted-insight
+title: "I've been using my headphones for my phone for a long time and long calls and go"
+date: 2024-05-18
+status: conscious
+---
+
+uid: X-CON-240518-00
+type: extracted-insight
 title: "I've been using my headphones for my phone for a long time and long calls and go..."
 date: 2024-05-18
 source: "[[CGPT_0385_Prerequisites_and_Resources_Available_[CGPT-0385]]]"

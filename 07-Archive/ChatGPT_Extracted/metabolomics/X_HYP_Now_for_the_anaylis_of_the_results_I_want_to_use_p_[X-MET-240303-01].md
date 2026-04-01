@@ -1,6 +1,13 @@
 ---
 uid: X-MET-240303-01
 type: extracted-hypothesis
+title: "Hypothesis: Now for the anaylis of the results I want to use pathway analysis, n"
+date: 2024-03-03
+status: conscious
+---
+
+uid: X-MET-240303-01
+type: extracted-hypothesis
 title: "Hypothesis: Now for the anaylis of the results I want to use pathway analysis, net..."
 date: 2024-03-03
 source: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_[CGPT-0475]]]"

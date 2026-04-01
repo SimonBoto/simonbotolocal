@@ -3,6 +3,17 @@ uid: X-MET-231022-00
 type: extracted-insight
 title: "im trying to understand methods in a cost-effectiveness health care study
 
+
+
+..."
+date: 2023-10-22
+status: conscious
+---
+
+uid: X-MET-231022-00
+type: extracted-insight
+title: "im trying to understand methods in a cost-effectiveness health care study
+
 ---
 
 ..."

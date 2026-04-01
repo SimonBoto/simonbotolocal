@@ -1,6 +1,13 @@
 ---
 uid: X-TEC-240506-00
 type: extracted-insight
+title: "In the first page I want to add an easy to understand flow diagrams that explain"
+date: 2024-05-06
+status: conscious
+---
+
+uid: X-TEC-240506-00
+type: extracted-insight
 title: "In the first page I want to add an easy to understand flow diagrams that explain..."
 date: 2024-05-06
 source: "[[CGPT_0403_IV_Therapy_Introduction_[CGPT-0403]]]"

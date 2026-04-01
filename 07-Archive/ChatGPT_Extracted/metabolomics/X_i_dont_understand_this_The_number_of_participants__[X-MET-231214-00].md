@@ -3,6 +3,15 @@ uid: X-MET-231214-00
 type: extracted-insight
 title: "i dont understand this: 
 
+The number of participants from each center was determ"
+date: 2023-12-14
+status: conscious
+---
+
+uid: X-MET-231214-00
+type: extracted-insight
+title: "i dont understand this: 
+
 The number of participants from each center was determ..."
 date: 2023-12-14
 source: "[[CGPT_0515_Methodological_Issues_in_Nutrition_[CGPT-0515]]]"

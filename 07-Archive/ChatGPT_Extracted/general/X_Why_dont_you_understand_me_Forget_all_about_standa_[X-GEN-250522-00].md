@@ -3,6 +3,15 @@ uid: X-GEN-250522-00
 type: extracted-insight
 title: "Why don't you understand me? 
 
+Forget all about standards and regulations, i wil"
+date: 2025-05-22
+status: conscious
+---
+
+uid: X-GEN-250522-00
+type: extracted-insight
+title: "Why don't you understand me? 
+
 Forget all about standards and regulations, i wil..."
 date: 2025-05-22
 source: "[[CGPT_0076_Finding_IV_Infusion_Suppliers_[CGPT-0076]]]"

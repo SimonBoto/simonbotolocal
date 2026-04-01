@@ -1,6 +1,13 @@
 ---
 uid: X-GEN-230823-01
 type: extracted-hypothesis
+title: "Hypothesis: Pathway analysis was performed to identify the top-ranked altered me"
+date: 2023-08-23
+status: conscious
+---
+
+uid: X-GEN-230823-01
+type: extracted-hypothesis
 title: "Hypothesis: Pathway analysis was performed to identify the top-ranked altered meta..."
 date: 2023-08-23
 source: "[[CGPT_0595_Effective_Peer_Review_[CGPT-0595]]]"

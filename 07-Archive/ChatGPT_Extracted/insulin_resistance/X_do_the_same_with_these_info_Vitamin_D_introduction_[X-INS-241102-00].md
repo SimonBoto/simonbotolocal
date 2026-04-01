@@ -5,6 +5,17 @@ title: "do the same with these info:
 
 ## Vitamin D introduction 
 
+ **[[Vitamin D]] is w"
+date: 2024-11-02
+status: conscious
+---
+
+uid: X-INS-241102-00
+type: extracted-insight
+title: "do the same with these info: 
+
+## Vitamin D introduction 
+
  **[[Vitamin D]] is w..."
 date: 2024-11-02
 source: "[[CGPT_0260_Paper_Formatting_Request_[CGPT-0260]]]"

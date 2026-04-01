@@ -1,6 +1,13 @@
 ---
 uid: X-MET-240823-00
 type: extracted-insight
+title: "I Wan you to help me understand what's happening currently at work with the mana"
+date: 2024-08-23
+status: conscious
+---
+
+uid: X-MET-240823-00
+type: extracted-insight
 title: "I Wan you to help me understand what's happening currently at work with the mana..."
 date: 2024-08-23
 source: "[[CGPT_0306_Job_Security_Concerns_[CGPT-0306]]]"

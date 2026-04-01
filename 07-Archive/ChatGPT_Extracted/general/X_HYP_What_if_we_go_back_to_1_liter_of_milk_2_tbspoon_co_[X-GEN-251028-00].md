@@ -5,6 +5,17 @@ title: "Hypothesis: What if we go back to
 
 1 liter of milk 
 2 tbspoon coconut sugar 
+4 "
+date: 2025-10-28
+status: conscious
+---
+
+uid: X-GEN-251028-00
+type: extracted-hypothesis
+title: "Hypothesis: What if we go back to 
+
+1 liter of milk 
+2 tbspoon coconut sugar 
 4 tb..."
 date: 2025-10-28
 source: "[[CGPT_0040_Coconut_custard_recipe_[CGPT-0040]]]"

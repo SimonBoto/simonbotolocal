@@ -1,6 +1,13 @@
 ---
 uid: X-CON-250216-00
 type: extracted-hypothesis
+title: "Hypothesis: Can you use ultrasound to affect brain and maybe through microtubule"
+date: 2025-02-16
+status: conscious
+---
+
+uid: X-CON-250216-00
+type: extracted-hypothesis
 title: "Hypothesis: Can you use ultrasound to affect brain and maybe through microtubules ..."
 date: 2025-02-16
 source: "[[CGPT_0147_AI_Impact_Optimization_[CGPT-0147]]]"

@@ -7,6 +7,19 @@ I see a beautiful woman
 
 I undress her in my mind 
 
+Se"
+date: 2025-04-28
+status: conscious
+---
+
+uid: X-GEN-250428-00
+type: extracted-insight
+title: "Sometimes when outside 
+
+I see a beautiful woman 
+
+I undress her in my mind 
+
 Se..."
 date: 2025-04-28
 source: "[[CGPT_0096_Absolute_Mode_Conversation_[CGPT-0096]]]"

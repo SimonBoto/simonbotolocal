@@ -1,6 +1,13 @@
 ---
 uid: X-PHD-240629-00
 type: extracted-insight
+title: "Is there a study that concludes that the NMT is 200 and the number needed to har"
+date: 2024-06-29
+status: conscious
+---
+
+uid: X-PHD-240629-00
+type: extracted-insight
 title: "Is there a study that concludes that the NMT is 200 and the number needed to har..."
 date: 2024-06-29
 source: "[[CGPT_0337_Cholesterol_Study_Reassessment_Overview_[CGPT-0337]]]"

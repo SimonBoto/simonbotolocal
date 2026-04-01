@@ -1,6 +1,13 @@
 ---
 uid: X-VIT-250223-00
 type: extracted-insight
+title: "We actually want a very simple bot to see if patients follow the guidance they a"
+date: 2025-02-23
+status: conscious
+---
+
+uid: X-VIT-250223-00
+type: extracted-insight
 title: "We actually want a very simple bot to see if patients follow the guidance they a..."
 date: 2025-02-23
 source: "[[CGPT_0138_Chatbot_for_Lifestyle_Changes_[CGPT-0138]]]"

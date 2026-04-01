@@ -1,6 +1,13 @@
 ---
 uid: X-MET-240609-00
 type: extracted-insight
+title: "Please read every word carefully trying to understand the true essense of each s"
+date: 2024-06-09
+status: conscious
+---
+
+uid: X-MET-240609-00
+type: extracted-insight
 title: "Please read every word carefully trying to understand the true essense of each s..."
 date: 2024-06-09
 source: "[[CGPT_0358_Metabolomics_Study_Advancement_[CGPT-0358]]]"

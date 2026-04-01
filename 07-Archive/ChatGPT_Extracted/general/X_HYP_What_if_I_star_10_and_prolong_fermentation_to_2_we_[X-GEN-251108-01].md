@@ -3,6 +3,17 @@ uid: X-GEN-251108-01
 type: extracted-hypothesis
 title: "Hypothesis: What if I star 10% and prolong fermentation to 2 weeks
 
+
+
+### 64"
+date: 2025-11-08
+status: conscious
+---
+
+uid: X-GEN-251108-01
+type: extracted-hypothesis
+title: "Hypothesis: What if I star 10% and prolong fermentation to 2 weeks
+
 ---
 
 ### 64"

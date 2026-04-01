@@ -1,6 +1,13 @@
 ---
 uid: X-MET-240218-00
 type: extracted-hypothesis
+title: "Hypothesis: A more in-depth ontological analysis taking into considaration pathw"
+date: 2024-02-18
+status: conscious
+---
+
+uid: X-MET-240218-00
+type: extracted-hypothesis
 title: "Hypothesis: A more in-depth ontological analysis taking into considaration pathway..."
 date: 2024-02-18
 source: "[[CGPT_0503_Improvements_for_Publishing_[CGPT-0503]]]"

@@ -3,6 +3,15 @@ uid: X-MET-231214-01
 type: extracted-hypothesis
 title: "Hypothesis: what if data were not normal to strart with and then we did this? 
 
+"
+date: 2023-12-14
+status: conscious
+---
+
+uid: X-MET-231214-01
+type: extracted-hypothesis
+title: "Hypothesis: what if data were not normal to strart with and then we did this? 
+
 St..."
 date: 2023-12-14
 source: "[[CGPT_0515_Methodological_Issues_in_Nutrition_[CGPT-0515]]]"

@@ -1,6 +1,13 @@
 ---
 uid: X-MET-240218-01
 type: extracted-hypothesis
+title: "Hypothesis: so they used a pool of patients to create a model and then tested it"
+date: 2024-02-18
+status: conscious
+---
+
+uid: X-MET-240218-01
+type: extracted-hypothesis
 title: "Hypothesis: so they used a pool of patients to create a model and then tested it a..."
 date: 2024-02-18
 source: "[[CGPT_0502_Metabolic_Markers_in_TCM_[CGPT-0502]]]"

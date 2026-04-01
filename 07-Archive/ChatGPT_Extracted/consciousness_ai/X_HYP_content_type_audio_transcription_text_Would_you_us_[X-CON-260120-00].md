@@ -1,6 +1,13 @@
 ---
 uid: X-CON-260120-00
 type: extracted-hypothesis
+title: "Hypothesis: {'content_type': 'audio_transcription', 'text': 'Would you use curre"
+date: 2026-01-20
+status: conscious
+---
+
+uid: X-CON-260120-00
+type: extracted-hypothesis
 title: "Hypothesis: {'content_type': 'audio_transcription', 'text': 'Would you use current..."
 date: 2026-01-20
 source: "[[CGPT_0012_leonardo_da_vinci_[CGPT-0012]]]"

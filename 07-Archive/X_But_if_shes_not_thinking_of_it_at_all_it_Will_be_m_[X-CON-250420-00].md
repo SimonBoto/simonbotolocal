@@ -3,6 +3,13 @@ uid: X-CON-250420-00
 type: extracted-insight
 title: "But if shes not thinking of it at all it Will be my loss again."
 date: 2025-04-20
+status: conscious
+---
+
+uid: X-CON-250420-00
+type: extracted-insight
+title: "But if shes not thinking of it at all it Will be my loss again."
+date: 2025-04-20
 source: "[[CGPT_0095_Conversation_with_Ron_[CGPT-0095]]]"
 aliases: [X-CON-250420-00]
 tags: [extracted, insight, consciousness_ai, chatgpt-archive]

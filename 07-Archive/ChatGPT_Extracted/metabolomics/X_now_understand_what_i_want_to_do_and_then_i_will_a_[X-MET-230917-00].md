@@ -1,6 +1,13 @@
 ---
 uid: X-MET-230917-00
 type: extracted-insight
+title: "now understand what i want to do and  then i will ask you to rewrite this sectio"
+date: 2023-09-17
+status: conscious
+---
+
+uid: X-MET-230917-00
+type: extracted-insight
 title: "now understand what i want to do and  then i will ask you to rewrite this sectio..."
 date: 2023-09-17
 source: "[[CGPT_0558_PhD_Proposal_Insulin_Resistance_[CGPT-0558]]]"

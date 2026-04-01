@@ -4,6 +4,14 @@ type: extracted-insight
 title: "NOW STEP BY STEP LET'S SEE THE THE CLINICAL MANIFESTATIONS 
 2."
 date: 2024-11-16
+status: conscious
+---
+
+uid: X-INS-241116-00
+type: extracted-insight
+title: "NOW STEP BY STEP LET'S SEE THE THE CLINICAL MANIFESTATIONS 
+2."
+date: 2024-11-16
 source: "[[CGPT_0253_Vitamin_D_and_MetS_[CGPT-0253]]]"
 aliases: [X-INS-241116-00]
 tags: [extracted, insight, insulin_resistance, chatgpt-archive]

@@ -1,6 +1,13 @@
 ---
 uid: X-INS-241116-01
 type: extracted-hypothesis
+title: "Hypothesis: “Exploring the Synergy of Vitamin D and Vitamin K2 in Metabolic Synd"
+date: 2024-11-16
+status: conscious
+---
+
+uid: X-INS-241116-01
+type: extracted-hypothesis
 title: "Hypothesis: “Exploring the Synergy of Vitamin D and Vitamin K2 in Metabolic Syndro..."
 date: 2024-11-16
 source: "[[CGPT_0253_Vitamin_D_and_MetS_[CGPT-0253]]]"

@@ -5,6 +5,17 @@ title: "Do you think this is a good answer from you?
 
 To the point?
 
+Using and focusing "
+date: 2025-05-07
+status: conscious
+---
+
+uid: X-INS-250507-00
+type: extracted-insight
+title: "Do you think this is a good answer from you?
+
+To the point?
+
 Using and focusing ..."
 date: 2025-05-07
 source: "[[CGPT_0003_Manager_Control_[CGPT-0003]]]"

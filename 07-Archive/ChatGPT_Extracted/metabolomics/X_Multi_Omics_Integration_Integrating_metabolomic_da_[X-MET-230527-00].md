@@ -1,6 +1,13 @@
 ---
 uid: X-MET-230527-00
 type: extracted-insight
+title: "Multi-Omics Integration: Integrating metabolomic data with other omics data, suc"
+date: 2023-05-27
+status: conscious
+---
+
+uid: X-MET-230527-00
+type: extracted-insight
 title: "Multi-Omics Integration: Integrating metabolomic data with other omics data, suc..."
 date: 2023-05-27
 source: "[[CGPT_0632_Insulin_Resistance_Biomarkers_[CGPT-0632]]]"

@@ -3,6 +3,17 @@ uid: X-MET-251208-00
 type: extracted-insight
 title: "I think we should start by understanding vitamin D metabolism 
 
+
+
+### 28."
+date: 2025-12-08
+status: conscious
+---
+
+uid: X-MET-251208-00
+type: extracted-insight
+title: "I think we should start by understanding vitamin D metabolism 
+
 ---
 
 ### 28."

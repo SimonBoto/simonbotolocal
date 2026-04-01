@@ -1,6 +1,13 @@
 ---
 uid: X-MET-240406-01
 type: extracted-hypothesis
+title: "Hypothesis: I understand that before anything drops into the patient's veins, we"
+date: 2024-04-06
+status: conscious
+---
+
+uid: X-MET-240406-01
+type: extracted-hypothesis
 title: "Hypothesis: I understand that before anything drops into the patient's veins, we w..."
 date: 2024-04-06
 source: "[[CGPT_0434_Wellness_Center_Vision_[CGPT-0434]]]"

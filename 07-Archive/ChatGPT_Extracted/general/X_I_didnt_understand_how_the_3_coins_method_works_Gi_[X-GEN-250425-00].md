@@ -5,6 +5,19 @@ title: "I didn't understand how the 3 coins method works
 
 Give example 
 
+
+
+### 6."
+date: 2025-04-25
+status: conscious
+---
+
+uid: X-GEN-250425-00
+type: extracted-insight
+title: "I didn't understand how the 3 coins method works 
+
+Give example 
+
 ---
 
 ### 6."

@@ -1,6 +1,13 @@
 ---
 uid: X-GRE-251108-00
 type: extracted-insight
+title: "Can we start exploring my supplement regimen together? Step by step and present "
+date: 2025-11-08
+status: conscious
+---
+
+uid: X-GRE-251108-00
+type: extracted-insight
 title: "Can we start exploring my supplement regimen together? Step by step and present ..."
 date: 2025-11-08
 source: "[[CGPT_0031_Supplement_regimen_exploration_[CGPT-0031]]]"

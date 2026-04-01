@@ -1,6 +1,13 @@
 ---
 uid: X-MET-230911-00
 type: extracted-insight
+title: "i want to explore more papers for the role of urine organic acids and plasma fat"
+date: 2023-09-11
+status: conscious
+---
+
+uid: X-MET-230911-00
+type: extracted-insight
 title: "i want to explore more papers for the role of urine organic acids and plasma fat..."
 date: 2023-09-11
 source: "[[CGPT_0571_ChatGPTs_knowledge_is_based_on_information_availab_[CGPT-0571]]]"

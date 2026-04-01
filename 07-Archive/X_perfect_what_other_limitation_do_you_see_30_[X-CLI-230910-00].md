@@ -1,6 +1,13 @@
 ---
 uid: X-CLI-230910-00
 type: extracted-insight
+title: "perfect what other limitation do you see?"
+date: 2023-09-10
+status: conscious
+---
+
+uid: X-CLI-230910-00
+type: extracted-insight
 title: "perfect what other limitation do you see?
 
 ---

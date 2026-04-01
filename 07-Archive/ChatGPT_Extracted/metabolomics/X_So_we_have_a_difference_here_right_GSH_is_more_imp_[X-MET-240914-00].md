@@ -2,6 +2,14 @@
 uid: X-MET-240914-00
 type: extracted-insight
 title: "So we have a difference here right? 
+GSH is more important reduced, while the re"
+date: 2024-09-14
+status: conscious
+---
+
+uid: X-MET-240914-00
+type: extracted-insight
+title: "So we have a difference here right? 
 GSH is more important reduced, while the re..."
 date: 2024-09-14
 source: "[[CGPT_0289_Redox_Reactions_Overview_[CGPT-0289]]]"

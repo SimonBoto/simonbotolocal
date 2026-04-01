@@ -3,6 +3,13 @@ uid: X-MET-240629-00
 type: extracted-insight
 title: "Okay and now let's see the effect of statins."
 date: 2024-06-29
+status: conscious
+---
+
+uid: X-MET-240629-00
+type: extracted-insight
+title: "Okay and now let's see the effect of statins."
+date: 2024-06-29
 source: "[[CGPT_0335_Statins_History_Mechanism_Effects_[CGPT-0335]]]"
 aliases: [X-MET-240629-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]

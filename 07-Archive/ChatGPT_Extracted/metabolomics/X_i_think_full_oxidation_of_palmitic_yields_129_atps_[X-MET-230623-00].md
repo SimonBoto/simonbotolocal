@@ -3,6 +3,17 @@ uid: X-MET-230623-00
 type: extracted-insight
 title: "i think full oxidation of palmitic yields 129 atps
 
+
+
+### 118."
+date: 2023-06-23
+status: conscious
+---
+
+uid: X-MET-230623-00
+type: extracted-insight
+title: "i think full oxidation of palmitic yields 129 atps
+
 ---
 
 ### 118."

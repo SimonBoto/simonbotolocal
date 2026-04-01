@@ -1,6 +1,13 @@
 ---
 uid: X-PHD-240714-01
 type: extracted-hypothesis
+title: "Hypothesis: To validate the robustness of the OPLS-DA model, a permutation test "
+date: 2024-07-14
+status: conscious
+---
+
+uid: X-PHD-240714-01
+type: extracted-hypothesis
 title: "Hypothesis: To validate the robustness of the OPLS-DA model, a permutation test 
 2..."
 date: 2024-07-14

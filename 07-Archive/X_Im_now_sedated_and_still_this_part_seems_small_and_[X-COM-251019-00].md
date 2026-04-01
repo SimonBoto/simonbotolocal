@@ -1,6 +1,13 @@
 ---
 uid: X-COM-251019-00
 type: extracted-insight
+title: "I'm now sedated and still this part seems small and autonomous, as If i keep a h"
+date: 2025-10-19
+status: conscious
+---
+
+uid: X-COM-251019-00
+type: extracted-insight
 title: "I'm now sedated and still this part seems small and autonomous, as If i keep a h..."
 date: 2025-10-19
 source: "[[CGPT_0046_Wake_up_conversation_design_[CGPT-0046]]]"

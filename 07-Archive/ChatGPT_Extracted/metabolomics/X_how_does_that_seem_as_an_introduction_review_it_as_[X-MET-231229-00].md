@@ -1,6 +1,13 @@
 ---
 uid: X-MET-231229-00
 type: extracted-insight
+title: "how does that seem as an introduction? review it as a professional healthcare co"
+date: 2023-12-29
+status: conscious
+---
+
+uid: X-MET-231229-00
+type: extracted-insight
 title: "how does that seem as an introduction? review it as a professional healthcare co..."
 date: 2023-12-29
 source: "[[CGPT_0509_Metabolomics_Collaboration_with_Dr_Berg_[CGPT-0509]]]"

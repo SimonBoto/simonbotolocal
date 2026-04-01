@@ -3,6 +3,15 @@ uid: X-PHD-240714-00
 type: extracted-insight
 title: "Could these be overseen? 
 
+Can size effect be substituted by any other variable?"
+date: 2024-07-14
+status: conscious
+---
+
+uid: X-PHD-240714-00
+type: extracted-insight
+title: "Could these be overseen? 
+
 Can size effect be substituted by any other variable?..."
 date: 2024-07-14
 source: "[[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328]]]"

@@ -1,6 +1,13 @@
 ---
 uid: X-VIT-260125-01
 type: extracted-hypothesis
+title: "Hypothesis: CONTINUE WITH CREATING: 50_Library/Library_Matsuoka_2015_Gut_Microbi"
+date: 2026-01-25
+status: conscious
+---
+
+uid: X-VIT-260125-01
+type: extracted-hypothesis
 title: "Hypothesis: CONTINUE WITH CREATING: 50_Library/Library_Matsuoka_2015_Gut_Microbiot..."
 date: 2026-01-25
 source: "[[CGPT_0006_Κλάδος_Vitamin_D_Optimisation_Titles_[CGPT-0006]]]"

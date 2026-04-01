@@ -1,6 +1,13 @@
 ---
 uid: X-VIT-260117-00
 type: extracted-insight
+title: "We guide reduction of chicken poultry seed oils nuts and supplements 1-3G of fis"
+date: 2026-01-17
+status: conscious
+---
+
+uid: X-VIT-260117-00
+type: extracted-insight
 title: "We guide reduction of chicken poultry seed oils nuts and supplements 1-3G of fis..."
 date: 2026-01-17
 source: "[[CGPT_0009_AI_Question_Optimization_Coach_[CGPT-0009]]]"

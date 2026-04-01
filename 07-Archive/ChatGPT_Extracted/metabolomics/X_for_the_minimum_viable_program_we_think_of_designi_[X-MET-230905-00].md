@@ -3,6 +3,15 @@ uid: X-MET-230905-00
 type: extracted-insight
 title: "for the minimum viable program we think of designing an more simple app: 
 
+the u"
+date: 2023-09-05
+status: conscious
+---
+
+uid: X-MET-230905-00
+type: extracted-insight
+title: "for the minimum viable program we think of designing an more simple app: 
+
 the u..."
 date: 2023-09-05
 source: "[[CGPT_0578_Startup_Guidance_for_MD_[CGPT-0578]]]"

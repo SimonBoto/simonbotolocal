@@ -3,6 +3,16 @@ uid: X-PHD-250306-00
 type: extracted-insight
 title: "I want your first to Study and understand the articles i will provide you 
 
+
+..."
+date: 2025-03-06
+status: conscious
+---
+
+uid: X-PHD-250306-00
+type: extracted-insight
+title: "I want your first to Study and understand the articles i will provide you 
+
 ---
 ..."
 date: 2025-03-06

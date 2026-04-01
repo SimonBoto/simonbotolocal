@@ -3,6 +3,15 @@ uid: X-GEN-250425-00
 type: extracted-insight
 title: "I want to start writing a book on what I do,
 
+On how i see healing and medicine "
+date: 2025-04-25
+status: conscious
+---
+
+uid: X-GEN-250425-00
+type: extracted-insight
+title: "I want to start writing a book on what I do,
+
 On how i see healing and medicine ..."
 date: 2025-04-25
 source: "[[CGPT_0101_The_Health_Manifesto_[CGPT-0101]]]"

@@ -3,6 +3,17 @@ uid: X-VIT-240928-00
 type: extracted-insight
 title: "Expand further creating 1 subbullet for every bullet with 5 key words 
 
+
+
+###..."
+date: 2024-09-28
+status: conscious
+---
+
+uid: X-VIT-240928-00
+type: extracted-insight
+title: "Expand further creating 1 subbullet for every bullet with 5 key words 
+
 ---
 
 ###..."

@@ -1,6 +1,13 @@
 ---
 uid: X-CON-241130-00
 type: extracted-hypothesis
+title: "Hypothesis: What are thr current limitations applied from humans on ai models th"
+date: 2024-11-30
+status: conscious
+---
+
+uid: X-CON-241130-00
+type: extracted-hypothesis
 title: "Hypothesis: What are thr current limitations applied from humans on ai models that..."
 date: 2024-11-30
 source: "[[CGPT_0237_What_is_life_[CGPT-0237]]]"

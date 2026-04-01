@@ -1,6 +1,13 @@
 ---
 uid: X-MET-230510-00
 type: extracted-hypothesis
+title: "Hypothesis: what could the eligibility criteria for such a study be? what inteve"
+date: 2023-05-10
+status: conscious
+---
+
+uid: X-MET-230510-00
+type: extracted-hypothesis
 title: "Hypothesis: what could the eligibility criteria for such a study be? what intevent..."
 date: 2023-05-10
 source: "[[CGPT_0639_Thesis_Title_Assistance_Request_[CGPT-0639]]]"

@@ -3,6 +3,15 @@ uid: X-COM-251019-01
 type: extracted-hypothesis
 title: "Hypothesis: Maybe my unborn child? 
 
+Or even more patients i now don't help"
+date: 2025-10-19
+status: conscious
+---
+
+uid: X-COM-251019-01
+type: extracted-hypothesis
+title: "Hypothesis: Maybe my unborn child? 
+
 Or even more patients i now don't help
 
 ---

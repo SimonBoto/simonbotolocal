@@ -5,6 +5,17 @@ title: "I'm thinking like this:
 
 I have a group of mrtabolically fit
 
+A group of Insulin"
+date: 2024-03-03
+status: conscious
+---
+
+uid: X-MET-240303-00
+type: extracted-insight
+title: "I'm thinking like this:
+
+I have a group of mrtabolically fit
+
 A group of Insulin..."
 date: 2024-03-03
 source: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_[CGPT-0475]]]"

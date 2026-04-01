@@ -5,6 +5,17 @@ title: "Help me understand this
 
 ἤτοι μὲν πρώτιστα Χάος γένετ᾽· αὐτὰρ ἔπειτα
 
+Γαῖ᾽ εὐρύσ"
+date: 2024-07-14
+status: conscious
+---
+
+uid: X-GRE-240714-00
+type: extracted-insight
+title: "Help me understand this
+
+ἤτοι μὲν πρώτιστα Χάος γένετ᾽· αὐτὰρ ἔπειτα
+
 Γαῖ᾽ εὐρύσ..."
 date: 2024-07-14
 source: "[[CGPT_0331_Understand_Request_Ancient_Greek_Understanding_[CGPT-0331]]]"

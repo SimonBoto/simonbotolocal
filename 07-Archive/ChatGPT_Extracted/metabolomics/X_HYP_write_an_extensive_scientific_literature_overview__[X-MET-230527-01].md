@@ -1,6 +1,13 @@
 ---
 uid: X-MET-230527-01
 type: extracted-hypothesis
+title: "Hypothesis: write an extensive scientific literature overview without introudcti"
+date: 2023-05-27
+status: conscious
+---
+
+uid: X-MET-230527-01
+type: extracted-hypothesis
 title: "Hypothesis: write an extensive scientific literature overview without introudction..."
 date: 2023-05-27
 source: "[[CGPT_0630_PhD_Research_Proposal_Assistance_[CGPT-0630]]]"

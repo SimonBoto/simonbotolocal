@@ -3,6 +3,17 @@ uid: X-CON-250404-00
 type: extracted-insight
 title: "I remember being on vacation in Samothrace and thinking to stop 
 
+
+
+### 36."
+date: 2025-04-04
+status: conscious
+---
+
+uid: X-CON-250404-00
+type: extracted-insight
+title: "I remember being on vacation in Samothrace and thinking to stop 
+
 ---
 
 ### 36."

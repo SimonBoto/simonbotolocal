@@ -3,6 +3,15 @@ uid: X-GEN-231105-00
 type: extracted-insight
 title: "part 9/12 
 
+Another resource, the Authors' Submission Toolkit: A practical guide"
+date: 2023-11-05
+status: conscious
+---
+
+uid: X-GEN-231105-00
+type: extracted-insight
+title: "part 9/12 
+
 Another resource, the Authors' Submission Toolkit: A practical guide..."
 date: 2023-11-05
 source: "[[CGPT_0539_Analytical_Guidelines_for_Submission_[CGPT-0539]]]"

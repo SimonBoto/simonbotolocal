@@ -1,6 +1,13 @@
 ---
 uid: X-MET-231118-00
 type: extracted-hypothesis
+title: "Hypothesis: Goal and Evidence of Innovation: This section could be more succinct"
+date: 2023-11-18
+status: conscious
+---
+
+uid: X-MET-231118-00
+type: extracted-hypothesis
 title: "Hypothesis: Goal and Evidence of Innovation: This section could be more succinct o..."
 date: 2023-11-18
 source: "[[CGPT_0529_PhD_Proposal_Review_English_[CGPT-0529]]]"

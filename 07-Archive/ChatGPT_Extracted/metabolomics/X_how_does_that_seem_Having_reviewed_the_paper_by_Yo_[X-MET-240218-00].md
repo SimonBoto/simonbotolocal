@@ -3,6 +3,15 @@ uid: X-MET-240218-00
 type: extracted-insight
 title: "how does that seem: 
 
+Having reviewed the paper by You et al (2024)"
+date: 2024-02-18
+status: conscious
+---
+
+uid: X-MET-240218-00
+type: extracted-insight
+title: "how does that seem: 
+
 Having reviewed the paper by You et al (2024) "Metabolic m..."
 date: 2024-02-18
 source: "[[CGPT_0502_Metabolic_Markers_in_TCM_[CGPT-0502]]]"

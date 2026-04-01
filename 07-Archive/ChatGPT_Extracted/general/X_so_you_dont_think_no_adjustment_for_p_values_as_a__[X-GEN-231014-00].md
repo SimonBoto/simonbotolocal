@@ -4,6 +4,18 @@ type: extracted-insight
 title: "so you dont think no adjustment for p values as a major drawback? 
 
 
+
+
+### 52..."
+date: 2023-10-14
+status: conscious
+---
+
+uid: X-GEN-231014-00
+type: extracted-insight
+title: "so you dont think no adjustment for p values as a major drawback? 
+
+
 ---
 
 ### 52..."

@@ -1,6 +1,13 @@
 ---
 uid: X-MET-230917-00
 type: extracted-insight
+title: "Metabolites are the molecular intermediates of all biochemical reactions, and th"
+date: 2023-09-17
+status: conscious
+---
+
+uid: X-MET-230917-00
+type: extracted-insight
 title: "Metabolites are the molecular intermediates of all biochemical reactions, and th..."
 date: 2023-09-17
 source: "[[CGPT_0557_Research_Proposal_Submission_Protocol_[CGPT-0557]]]"

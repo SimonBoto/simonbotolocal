@@ -1,6 +1,13 @@
 ---
 uid: X-CLI-250429-00
 type: extracted-insight
+title: "What else would be important for you to know?"
+date: 2025-04-29
+status: conscious
+---
+
+uid: X-CLI-250429-00
+type: extracted-insight
 title: "What else would be important for you to know? 
 "
 whats the indicated initial capi..."

@@ -1,6 +1,13 @@
 ---
 uid: X-MET-230527-00
 type: extracted-insight
+title: "Considering all the already given information, write a 400-word introduction pre"
+date: 2023-05-27
+status: conscious
+---
+
+uid: X-MET-230527-00
+type: extracted-insight
 title: "Considering all the already given information, write a 400-word introduction pre..."
 date: 2023-05-27
 source: "[[CGPT_0630_PhD_Research_Proposal_Assistance_[CGPT-0630]]]"

@@ -1,6 +1,13 @@
 ---
 uid: X-CON-240517-01
 type: extracted-hypothesis
+title: "Hypothesis: I like that, but what if the article is not research, so it is a rev"
+date: 2024-05-17
+status: conscious
+---
+
+uid: X-CON-240517-01
+type: extracted-hypothesis
 title: "Hypothesis: I like that, but what if the article is not research, so it is a revie..."
 date: 2024-05-17
 source: "[[CGPT_0388_Talk_Like_4_[CGPT-0388]]]"

@@ -1,6 +1,13 @@
 ---
 uid: X-INS-240721-00
 type: extracted-insight
+title: "explain t would be insightful to see multivariable logistic regression results a"
+date: 2024-07-21
+status: conscious
+---
+
+uid: X-INS-240721-00
+type: extracted-insight
 title: "explain t would be insightful to see multivariable logistic regression results a..."
 date: 2024-07-21
 source: "[[CGPT_0323_Study_Review_Summary_[CGPT-0323]]]"

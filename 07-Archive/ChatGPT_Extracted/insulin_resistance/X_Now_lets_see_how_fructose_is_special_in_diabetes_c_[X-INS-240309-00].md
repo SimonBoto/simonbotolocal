@@ -3,6 +3,17 @@ uid: X-INS-240309-00
 type: extracted-insight
 title: "Now, let's see how fructose is special in diabetes control 
 
+
+
+### 106."
+date: 2024-03-09
+status: conscious
+---
+
+uid: X-INS-240309-00
+type: extracted-insight
+title: "Now, let's see how fructose is special in diabetes control 
+
 ---
 
 ### 106."

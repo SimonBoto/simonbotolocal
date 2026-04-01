@@ -5,6 +5,15 @@ title: "Great!
 
 Provide a detailed outline for the seed oils as toxins."
 date: 2024-09-24
+status: conscious
+---
+
+uid: X-INS-240924-00
+type: extracted-insight
+title: "Great!
+
+Provide a detailed outline for the seed oils as toxins."
+date: 2024-09-24
 source: "[[CGPT_0282_Seed_Oils_and_Chronic_Diseases_[CGPT-0282]]]"
 aliases: [X-INS-240924-00]
 tags: [extracted, insight, insulin_resistance, chatgpt-archive]

@@ -3,6 +3,15 @@ uid: X-GEN-230916-00
 type: extracted-hypothesis
 title: "Hypothesis: what if i start with veve? how does that sound? 
 
+i will join the ne"
+date: 2023-09-16
+status: conscious
+---
+
+uid: X-GEN-230916-00
+type: extracted-hypothesis
+title: "Hypothesis: what if i start with veve? how does that sound? 
+
 i will join the next..."
 date: 2023-09-16
 source: "[[CGPT_0564_Trading_Digital_Collectibles_Guide_[CGPT-0564]]]"

@@ -7,6 +7,19 @@ Citrate high
 Aconitic high 
 Vma high 
 5hiaa high 
+Pyroglut"
+date: 2024-12-15
+status: conscious
+---
+
+uid: X-MET-241215-00
+type: extracted-hypothesis
+title: "Hypothesis: What if 
+
+Citrate high
+Aconitic high 
+Vma high 
+5hiaa high 
 Pyroglutam..."
 date: 2024-12-15
 source: "[[CGPT_0226_Clinical_Metabolomics_and_Enzymes_[CGPT-0226]]]"

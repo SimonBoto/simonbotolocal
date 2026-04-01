@@ -3,6 +3,13 @@ uid: X-MET-250512-00
 type: extracted-insight
 title: "Let's decide upon the needed supplements."
 date: 2025-05-12
+status: conscious
+---
+
+uid: X-MET-250512-00
+type: extracted-insight
+title: "Let's decide upon the needed supplements."
+date: 2025-05-12
 source: "[[CGPT_0092_PrimaVita_[CGPT-0092]]]"
 aliases: [X-MET-250512-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]

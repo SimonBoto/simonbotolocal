@@ -3,6 +3,17 @@ uid: X-VIT-250210-00
 type: extracted-insight
 title: "Yes, lets see the tables and figure 
 
+
+
+### 15."
+date: 2025-02-10
+status: conscious
+---
+
+uid: X-VIT-250210-00
+type: extracted-insight
+title: "Yes, lets see the tables and figure 
+
 ---
 
 ### 15."

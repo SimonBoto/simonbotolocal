@@ -4,6 +4,16 @@ type: extracted-insight
 title: "lets see the objective 
 
 Objectives
+Investigate cost-effectiveness of personaliz"
+date: 2023-11-05
+status: conscious
+---
+
+uid: X-MET-231105-00
+type: extracted-insight
+title: "lets see the objective 
+
+Objectives
 Investigate cost-effectiveness of personaliz..."
 date: 2023-11-05
 source: "[[CGPT_0536_Structured_Abstract_Guidelines_Explained_[CGPT-0536]]]"

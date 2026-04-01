@@ -1,6 +1,13 @@
 ---
 uid: X-CLI-230910-00
 type: extracted-insight
+title: "GPC/PC is the main component of cell biomembrane, and they play key roles in cel"
+date: 2023-09-10
+status: conscious
+---
+
+uid: X-CLI-230910-00
+type: extracted-insight
 title: "GPC/PC is the main component of cell biomembrane, and they play key roles in cel..."
 date: 2023-09-10
 source: "[[CGPT_0577_Article_Review_for_Frontiers_[CGPT-0577]]]"

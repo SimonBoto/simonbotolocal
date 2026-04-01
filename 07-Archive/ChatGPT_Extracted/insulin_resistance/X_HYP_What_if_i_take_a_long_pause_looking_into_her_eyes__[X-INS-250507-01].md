@@ -1,6 +1,13 @@
 ---
 uid: X-INS-250507-01
 type: extracted-hypothesis
+title: "Hypothesis: What if i take a long pause looking into her eyes trying to reach he"
+date: 2025-05-07
+status: conscious
+---
+
+uid: X-INS-250507-01
+type: extracted-hypothesis
 title: "Hypothesis: What if i take a long pause looking into her eyes trying to reach her ..."
 date: 2025-05-07
 source: "[[CGPT_0003_Manager_Control_[CGPT-0003]]]"

@@ -1,6 +1,13 @@
 ---
 uid: X-MET-231022-00
 type: extracted-insight
+title: "Before deciding the personalized multi-micronutrient prescription, various facto"
+date: 2023-10-22
+status: conscious
+---
+
+uid: X-MET-231022-00
+type: extracted-insight
 title: "Before deciding the personalized multi-micronutrient prescription, various facto..."
 date: 2023-10-22
 source: "[[CGPT_0540_User_Request_Summarize_conversation_title_[CGPT-0540]]]"

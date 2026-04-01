@@ -1,6 +1,13 @@
 ---
 uid: X-MET-230910-00
 type: extracted-hypothesis
+title: "Hypothesis: Models: Use appropriate models and methodologies like multivariate a"
+date: 2023-09-10
+status: conscious
+---
+
+uid: X-MET-230910-00
+type: extracted-hypothesis
 title: "Hypothesis: Models: Use appropriate models and methodologies like multivariate ana..."
 date: 2023-09-10
 source: "[[CGPT_0573_PhD_in_Insulin_Resistance_[CGPT-0573]]]"

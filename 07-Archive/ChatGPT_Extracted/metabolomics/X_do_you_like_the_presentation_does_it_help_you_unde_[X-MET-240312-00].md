@@ -5,6 +5,17 @@ title: "do you like the presentation?
 
 does it help you understand and believe in me?
 
+"
+date: 2024-03-12
+status: conscious
+---
+
+uid: X-MET-240312-00
+type: extracted-insight
+title: "do you like the presentation? 
+
+does it help you understand and believe in me?
+
 ..."
 date: 2024-03-12
 source: "[[CGPT_0468_Insulin_Resistance_Economic_Proposal_[CGPT-0468]]]"

@@ -1,6 +1,13 @@
 ---
 uid: X-CON-240517-00
 type: extracted-insight
+title: "Do you think the Atomic is the ideal template, or should we create our own templ"
+date: 2024-05-17
+status: conscious
+---
+
+uid: X-CON-240517-00
+type: extracted-insight
 title: "Do you think the Atomic is the ideal template, or should we create our own templ..."
 date: 2024-05-17
 source: "[[CGPT_0388_Talk_Like_4_[CGPT-0388]]]"

@@ -3,6 +3,15 @@ uid: X-MET-230924-00
 type: extracted-hypothesis
 title: "Hypothesis: PART 6
 
+ the levels of mediators in the cyclooxygenase and lipoxygen"
+date: 2023-09-24
+status: conscious
+---
+
+uid: X-MET-230924-00
+type: extracted-hypothesis
+title: "Hypothesis: PART 6
+
  the levels of mediators in the cyclooxygenase and lipoxygenas..."
 date: 2023-09-24
 source: "[[CGPT_0553_Peer_Review_Evaluation_Request_[CGPT-0553]]]"

@@ -3,6 +3,15 @@ uid: X-MET-230916-00
 type: extracted-insight
 title: "how can this metabolically-at-risk group be decided? 
 
+what type of statistical "
+date: 2023-09-16
+status: conscious
+---
+
+uid: X-MET-230916-00
+type: extracted-insight
+title: "how can this metabolically-at-risk group be decided? 
+
 what type of statistical ..."
 date: 2023-09-16
 source: "[[CGPT_0561_Metabolomics_for_Insulin_Resistance_[CGPT-0561]]]"

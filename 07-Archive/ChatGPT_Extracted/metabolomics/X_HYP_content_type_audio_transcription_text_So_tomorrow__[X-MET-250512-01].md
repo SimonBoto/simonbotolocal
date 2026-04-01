@@ -1,6 +1,13 @@
 ---
 uid: X-MET-250512-01
 type: extracted-hypothesis
+title: "Hypothesis: {'content_type': 'audio_transcription', 'text':"
+date: 2025-05-12
+status: conscious
+---
+
+uid: X-MET-250512-01
+type: extracted-hypothesis
 title: "Hypothesis: {'content_type': 'audio_transcription', 'text': "So tomorrow we are ha..."
 date: 2025-05-12
 source: "[[CGPT_0092_PrimaVita_[CGPT-0092]]]"

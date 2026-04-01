@@ -5,6 +5,17 @@ title: "The phd as I think of it will have these parrs:
 
 Theoretical background 
 
+Organi"
+date: 2024-08-11
+status: conscious
+---
+
+uid: X-MET-240811-00
+type: extracted-insight
+title: "The phd as I think of it will have these parrs:
+
+Theoretical background 
+
 Organi..."
 date: 2024-08-11
 source: "[[CGPT_0313_PhD_Research_Preparation_Guide_[CGPT-0313]]]"

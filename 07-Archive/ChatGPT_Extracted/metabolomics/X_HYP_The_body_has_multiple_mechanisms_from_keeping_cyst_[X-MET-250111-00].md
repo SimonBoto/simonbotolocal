@@ -1,6 +1,13 @@
 ---
 uid: X-MET-250111-00
 type: extracted-hypothesis
+title: "Hypothesis: The body has multiple mechanisms from keeping cysteine and sulfur an"
+date: 2025-01-11
+status: conscious
+---
+
+uid: X-MET-250111-00
+type: extracted-hypothesis
 title: "Hypothesis: The body has multiple mechanisms from keeping cysteine and sulfur and ..."
 date: 2025-01-11
 source: "[[CGPT_0200_Grey_Hair_Supplement_Review_[CGPT-0200]]]"

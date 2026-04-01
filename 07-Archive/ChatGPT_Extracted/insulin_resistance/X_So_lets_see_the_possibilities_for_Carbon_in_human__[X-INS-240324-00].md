@@ -3,6 +3,13 @@ uid: X-INS-240324-00
 type: extracted-insight
 title: "So let's see the possibilities for Carbon in human body."
 date: 2024-03-24
+status: conscious
+---
+
+uid: X-INS-240324-00
+type: extracted-insight
+title: "So let's see the possibilities for Carbon in human body."
+date: 2024-03-24
 source: "[[CGPT_0450_Glucose_Structure_Summary_[CGPT-0450]]]"
 aliases: [X-INS-240324-00]
 tags: [extracted, insight, insulin_resistance, chatgpt-archive]

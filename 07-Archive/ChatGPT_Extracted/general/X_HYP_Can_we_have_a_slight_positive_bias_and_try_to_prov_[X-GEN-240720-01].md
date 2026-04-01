@@ -1,6 +1,13 @@
 ---
 uid: X-GEN-240720-01
 type: extracted-hypothesis
+title: "Hypothesis: Can we have a slight positive bias and try to prove that the money w"
+date: 2024-07-20
+status: conscious
+---
+
+uid: X-GEN-240720-01
+type: extracted-hypothesis
 title: "Hypothesis: Can we have a slight positive bias and try to prove that the money wer..."
 date: 2024-07-20
 source: "[[CGPT_0324_Grant_Legality_Compliance_[CGPT-0324]]]"

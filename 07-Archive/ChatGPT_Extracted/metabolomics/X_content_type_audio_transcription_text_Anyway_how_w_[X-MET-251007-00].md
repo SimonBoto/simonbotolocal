@@ -1,6 +1,13 @@
 ---
 uid: X-MET-251007-00
 type: extracted-insight
+title: "{'content_type': 'audio_transcription', 'text': 'Anyway, how would you think abo"
+date: 2025-10-07
+status: conscious
+---
+
+uid: X-MET-251007-00
+type: extracted-insight
 title: "{'content_type': 'audio_transcription', 'text': 'Anyway, how would you think abo..."
 date: 2025-10-07
 source: "[[CGPT_0052_Greeting_exchange_[CGPT-0052]]]"

@@ -1,6 +1,13 @@
 ---
 uid: X-MET-231022-01
 type: extracted-hypothesis
+title: "Hypothesis: The model was set to provide deterministic and probabilistic analyse"
+date: 2023-10-22
+status: conscious
+---
+
+uid: X-MET-231022-01
+type: extracted-hypothesis
 title: "Hypothesis: The model was set to provide deterministic and probabilistic analyses"
 date: 2023-10-22
 source: "[[CGPT_0542_Incomplete_User_Request_[CGPT-0542]]]"

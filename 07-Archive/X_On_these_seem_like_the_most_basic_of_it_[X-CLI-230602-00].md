@@ -3,6 +3,13 @@ uid: X-CLI-230602-00
 type: extracted-insight
 title: "On these seem like the most basic of it."
 date: 2023-06-02
+status: conscious
+---
+
+uid: X-CLI-230602-00
+type: extracted-insight
+title: "On these seem like the most basic of it."
+date: 2023-06-02
 source: "[[CGPT_0621_Publishing_Meta_Analysis_Guidelines_[CGPT-0621]]]"
 aliases: [X-CLI-230602-00]
 tags: [extracted, insight, clinical, chatgpt-archive]

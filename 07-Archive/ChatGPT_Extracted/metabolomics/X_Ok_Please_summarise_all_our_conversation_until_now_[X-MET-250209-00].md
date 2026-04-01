@@ -5,6 +5,17 @@ title: "Ok!
 
 Please summarise all our conversation until now
 
+Use bullets points and try"
+date: 2025-02-09
+status: conscious
+---
+
+uid: X-MET-250209-00
+type: extracted-insight
+title: "Ok!
+
+Please summarise all our conversation until now
+
 Use bullets points and try..."
 date: 2025-02-09
 source: "[[CGPT_0152_Vitamin_D_Inflammation_Trial_[CGPT-0152]]]"

@@ -3,6 +3,13 @@ uid: X-VIT-250824-00
 type: extracted-insight
 title: "That seems super helpful for consistency."
 date: 2025-08-24
+status: conscious
+---
+
+uid: X-VIT-250824-00
+type: extracted-insight
+title: "That seems super helpful for consistency."
+date: 2025-08-24
 source: "[[CGPT_0069_Obsidian_restart_guide_[CGPT-0069]]]"
 aliases: [X-VIT-250824-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]

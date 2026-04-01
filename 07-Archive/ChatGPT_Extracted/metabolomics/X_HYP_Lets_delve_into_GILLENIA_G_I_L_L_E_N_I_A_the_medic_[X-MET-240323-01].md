@@ -1,6 +1,13 @@
 ---
 uid: X-MET-240323-01
 type: extracted-hypothesis
+title: "Hypothesis: Let's delve into GILLENIA, G-I-L-L-E-N-I-A, the medicine for MS, its"
+date: 2024-03-23
+status: conscious
+---
+
+uid: X-MET-240323-01
+type: extracted-hypothesis
 title: "Hypothesis: Let's delve into GILLENIA, G-I-L-L-E-N-I-A, the medicine for MS, its m..."
 date: 2024-03-23
 source: "[[CGPT_0447_MS_vs_Hernia_Pressure_[CGPT-0447]]]"

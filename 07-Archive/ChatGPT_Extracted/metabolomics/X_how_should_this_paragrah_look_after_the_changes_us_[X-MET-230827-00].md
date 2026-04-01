@@ -2,6 +2,14 @@
 uid: X-MET-230827-00
 type: extracted-insight
 title: "how should this paragrah look after the changes? 
+use added references when need"
+date: 2023-08-27
+status: conscious
+---
+
+uid: X-MET-230827-00
+type: extracted-insight
+title: "how should this paragrah look after the changes? 
 use added references when need..."
 date: 2023-08-27
 source: "[[CGPT_0591_Expert_Metabolomics_Review_[CGPT-0591]]]"

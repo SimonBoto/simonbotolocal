@@ -1,6 +1,13 @@
 ---
 uid: X-MET-230527-01
 type: extracted-hypothesis
+title: "Hypothesis: is there a way to incorporate our knowledge for the dynamics of meta"
+date: 2023-05-27
+status: conscious
+---
+
+uid: X-MET-230527-01
+type: extracted-hypothesis
 title: "Hypothesis: is there a way to incorporate our knowledge for the dynamics of metabo..."
 date: 2023-05-27
 source: "[[CGPT_0632_Insulin_Resistance_Biomarkers_[CGPT-0632]]]"

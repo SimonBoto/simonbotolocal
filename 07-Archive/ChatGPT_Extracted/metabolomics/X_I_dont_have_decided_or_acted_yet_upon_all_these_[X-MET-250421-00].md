@@ -3,6 +3,13 @@ uid: X-MET-250421-00
 type: extracted-insight
 title: "I don't have decided or acted yet upon all these."
 date: 2025-04-21
+status: conscious
+---
+
+uid: X-MET-250421-00
+type: extracted-insight
+title: "I don't have decided or acted yet upon all these."
+date: 2025-04-21
 source: "[[CGPT_0098_Building_the_Master_Throne_[CGPT-0098]]]"
 aliases: [X-MET-250421-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]

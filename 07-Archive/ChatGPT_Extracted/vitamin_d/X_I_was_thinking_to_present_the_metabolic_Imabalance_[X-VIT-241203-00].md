@@ -1,6 +1,13 @@
 ---
 uid: X-VIT-241203-00
 type: extracted-insight
+title: "I was thinking to present the metabolic Imabalances and components of mets, then"
+date: 2024-12-03
+status: conscious
+---
+
+uid: X-VIT-241203-00
+type: extracted-insight
 title: "I was thinking to present the metabolic Imabalances and components of mets, then..."
 date: 2024-12-03
 source: "[[CGPT_0230_Synergy_of_D_and_K2_[CGPT-0230]]]"

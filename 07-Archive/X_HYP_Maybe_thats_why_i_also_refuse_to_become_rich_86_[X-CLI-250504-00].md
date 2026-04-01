@@ -1,6 +1,13 @@
 ---
 uid: X-CLI-250504-00
 type: extracted-hypothesis
+title: "Hypothesis: Maybe that's why i also refuse to become rich"
+date: 2025-05-04
+status: conscious
+---
+
+uid: X-CLI-250504-00
+type: extracted-hypothesis
 title: "Hypothesis: Maybe that's why i also refuse to become rich 
 
 ---

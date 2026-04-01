@@ -1,6 +1,13 @@
 ---
 uid: X-MET-240515-00
 type: extracted-hypothesis
+title: "Hypothesis: The first one was kind of better, but I wanted to elaborate more, ma"
+date: 2024-05-15
+status: conscious
+---
+
+uid: X-MET-240515-00
+type: extracted-hypothesis
 title: "Hypothesis: The first one was kind of better, but I wanted to elaborate more, mayb..."
 date: 2024-05-15
 source: "[[CGPT_0394_Krebs_Cycle_Overview_[CGPT-0394]]]"

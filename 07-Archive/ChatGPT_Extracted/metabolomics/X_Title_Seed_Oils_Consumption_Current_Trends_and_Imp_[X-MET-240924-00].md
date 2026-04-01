@@ -3,6 +3,15 @@ uid: X-MET-240924-00
 type: extracted-insight
 title: "Title: Seed-Oils Consumption: Current Trends and Implications on Human Health 
 
+"
+date: 2024-09-24
+status: conscious
+---
+
+uid: X-MET-240924-00
+type: extracted-insight
+title: "Title: Seed-Oils Consumption: Current Trends and Implications on Human Health 
+
 ..."
 date: 2024-09-24
 source: "[[CGPT_0278_Insulin_Resistance_Toxicology_Review_[CGPT-0278]]]"

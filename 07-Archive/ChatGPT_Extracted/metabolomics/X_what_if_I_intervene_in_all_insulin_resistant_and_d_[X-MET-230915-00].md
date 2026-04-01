@@ -1,6 +1,13 @@
 ---
 uid: X-MET-230915-00
 type: extracted-insight
+title: "what if I intervene in all insulin resistant and diabetic patients and see if th"
+date: 2023-09-15
+status: conscious
+---
+
+uid: X-MET-230915-00
+type: extracted-insight
 title: "what if I intervene in all insulin resistant and diabetic patients and see if th..."
 date: 2023-09-15
 source: "[[CGPT_0565_Metabolomics_and_Sample_Size_[CGPT-0565]]]"

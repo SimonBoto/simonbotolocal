@@ -1,6 +1,13 @@
 ---
 uid: X-INS-240925-00
 type: extracted-insight
+title: "**Objective**: Develop a comprehensive review on the role of seed oils as ultra-"
+date: 2024-09-25
+status: conscious
+---
+
+uid: X-INS-240925-00
+type: extracted-insight
 title: "**Objective**: Develop a comprehensive review on the role of seed oils as ultra-..."
 date: 2024-09-25
 source: "[[CGPT_0281_Seed_Oils_and_Metabolic_Health_[CGPT-0281]]]"

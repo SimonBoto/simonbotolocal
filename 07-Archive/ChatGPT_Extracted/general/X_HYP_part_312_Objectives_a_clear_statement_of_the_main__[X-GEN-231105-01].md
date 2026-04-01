@@ -3,6 +3,15 @@ uid: X-GEN-231105-01
 type: extracted-hypothesis
 title: "Hypothesis: part 3/12 
 
+• Objectives - a clear statement of the main aim of the "
+date: 2023-11-05
+status: conscious
+---
+
+uid: X-GEN-231105-01
+type: extracted-hypothesis
+title: "Hypothesis: part 3/12 
+
 • Objectives - a clear statement of the main aim of the st..."
 date: 2023-11-05
 source: "[[CGPT_0539_Analytical_Guidelines_for_Submission_[CGPT-0539]]]"

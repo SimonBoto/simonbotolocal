@@ -1,6 +1,13 @@
 ---
 uid: X-INS-240519-00
 type: extracted-insight
+title: "OK, now give me the five that provided with the most influential change in the h"
+date: 2024-05-19
+status: conscious
+---
+
+uid: X-INS-240519-00
+type: extracted-insight
 title: "OK, now give me the five that provided with the most influential change in the h..."
 date: 2024-05-19
 source: "[[CGPT_0381_Shall_We_Summarize_[CGPT-0381]]]"

@@ -1,6 +1,13 @@
 ---
 uid: X-MET-230827-00
 type: extracted-insight
+title: "i think of log10, auto-scaling and normalisation of the old to the mean of the y"
+date: 2023-08-27
+status: conscious
+---
+
+uid: X-MET-230827-00
+type: extracted-insight
 title: "i think of log10, auto-scaling and normalisation of the old to the mean of the y..."
 date: 2023-08-27
 source: "[[CGPT_0593_Metabolomics_Analysis_Guidance_[CGPT-0593]]]"

@@ -1,6 +1,13 @@
 ---
 uid: X-MET-240406-00
 type: extracted-insight
+title: "Yes, we will need patient management systems, telemedicine systems so that we ca"
+date: 2024-04-06
+status: conscious
+---
+
+uid: X-MET-240406-00
+type: extracted-insight
 title: "Yes, we will need patient management systems, telemedicine systems so that we ca..."
 date: 2024-04-06
 source: "[[CGPT_0434_Wellness_Center_Vision_[CGPT-0434]]]"

@@ -1,6 +1,13 @@
 ---
 uid: X-MET-231231-00
 type: extracted-insight
+title: "most people at the end of the year have some moments to see what happened ast ye"
+date: 2023-12-31
+status: conscious
+---
+
+uid: X-MET-231231-00
+type: extracted-insight
 title: "most people at the end of the year have some moments to see what happened ast ye..."
 date: 2023-12-31
 source: "[[CGPT_0510_Reflect_and_Plan_Ahead_[CGPT-0510]]]"

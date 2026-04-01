@@ -1,6 +1,13 @@
 ---
 uid: X-MET-240225-00
 type: extracted-insight
+title: "now lets describe in detail what"
+date: 2024-02-25
+status: conscious
+---
+
+uid: X-MET-240225-00
+type: extracted-insight
 title: "now lets describe in detail what 
 "Methodology
 Study Design
