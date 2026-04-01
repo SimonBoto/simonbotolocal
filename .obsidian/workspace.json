@@ -209,6 +209,8 @@
   },
   "active": "f010d4b0e2682ff5",
   "lastOpenFiles": [
+    "08-Dashboards/02-HANDOFF.md",
+    "08-Dashboards",
     "07-Archive/OPTIMAL_LINKING_PLAN.md",
     "Adipic_Acid_Early_IR_Biomarker_[Z-001-0041.md",
     "04-Synthesis/METHAP_Protocol_Living_Document_[S-002-0001].md",
@@ -234,7 +236,6 @@
     "06-Structure/MOCs/Keywords/KEYWORD-Methylation.md",
     "06-Structure/MOCs/Keywords/KEYWORD-Metabolomics.md",
     "06-Structure/MOCs/Keywords/KEYWORD-Metabolism.md",
-    "06-Structure/MOCs/Keywords/KEYWORD-Metabolic_Syndrome.md",
     "06-Structure/MOCs/Keywords",
     "Base File All Notes.base",
     "06-Structure/zettel-forge.js",
@@ -244,7 +245,6 @@
     "09-System/UID_REGISTRY.json",
     "09-System",
     "07-Archive/09-System-OPERATIONAL-2026-04-01/zettel-forge.js",
-    "07-Archive/09-System-OPERATIONAL-2026-04-01/seed-registry.js",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
