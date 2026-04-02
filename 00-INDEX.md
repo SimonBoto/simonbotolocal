@@ -9,9 +9,11 @@ status: active
 
 # Root Index
 
-> **The entry point to the entire vault**
+> **The Master Navigation Hub — entry point to the entire vault**
 > 
 > All folder indexes and subfolder indexes connect here.
+> 
+> For the catalog of MOCs, see [[MOCs Index]].
 
 ---
 
@@ -48,7 +50,7 @@ status: active
 |-----------|-------|-------------|
 | Dashboards | [[Dashboards Index]] | Operational dashboards |
 | Daily | [[Daily Index]] | Date-stamped logs |
-| MOCs | [[MOC-INDEX]] | Maps of Content |
+| MOCs | [[MOCs Index]] | Maps of Content |
 | Protocols | [[Protocols Index]] | Process documentation |
 | System | [[System Index]] | Root notes archive |
 | Templates | [[Templates Index]] | Note templates |
@@ -69,7 +71,7 @@ status: active
 
 **By Type:**
 - Zettels: [[03-Zettels-Conscious]] | [[03-Zettels-Subconscious]]
-- MOCs: [[MOC-INDEX]]
+- MOCs: [[MOCs Index]]
 - Projects: [[07 Projects Index]]
 - Daily: [[Daily Index]]
 

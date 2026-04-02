@@ -30,4 +30,4 @@ Overarching map for 66-Nutrition subs (Vitamins, Gut, etc.) + studies.
 parent-index: [[08 Structure Index]], [[MOCs Index]]
 
 ---
-parent-moc: [[MOC-INDEX]]
+parent-moc: [[MOCs Index]]

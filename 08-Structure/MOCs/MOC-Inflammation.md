@@ -68,4 +68,4 @@ tags: [moc, inflammation, immune, cytokines, chronic-disease]
 parent-index: [[08 Structure Index]], [[MOCs Index]]
 
 ---
-parent-moc: [[MOC-INDEX]]
+parent-moc: [[MOCs Index]]

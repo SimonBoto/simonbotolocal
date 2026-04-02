@@ -153,7 +153,6 @@ The rest is between you and the archive.
 
 ## Related
 
-- [[ChatGPT_Building_Master_Throne_RON-004-0007|Building the Master Throne] — Architecture development
 - [[ChatGPT_Ron_the_3rd_RON-004-0009|Ron the 3rd] — Iteration and deepening
 
 ---

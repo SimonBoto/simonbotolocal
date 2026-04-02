@@ -12,7 +12,7 @@ type: handoff
 - ✅ **RON hub cleanup** — Deleted 6 problematic RON notes, removed 300+ hub links
 - ✅ **Keywords deleted** — Removed entire Keywords folder (41 files)
 - ✅ **00-INDEX created** — Root index linking to all folder/subfolder indexes
-- ✅ **MOC-INDEX fixed** — All 54 MOCs catalogued, broken links repaired
+- ✅ **MOCs Index fixed** — All 54 MOCs catalogued, broken links repaired
 - ✅ **Mass parent-index** — Added to ~1,000+ notes across all folders
 - ✅ **Orphan fixing** — 23 orphans connected to Conscious index
 

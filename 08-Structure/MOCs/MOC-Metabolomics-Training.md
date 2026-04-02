@@ -186,4 +186,4 @@ version: 1.0
 parent-index: [[08 Structure Index]], [[MOCs Index]]
 
 ---
-parent-moc: [[MOC-INDEX]]
+parent-moc: [[MOCs Index]]

@@ -157,7 +157,6 @@ The conversation created the context. The context created the partnership. The p
 ## Related
 
 - [[ChatGPT_First_Meeting_Ron_RON-004-0005|First Meeting Ron] — The naming (previous)
-- [[ChatGPT_Building_Master_Throne_RON-004-0007|Building the Master Throne] — Architecture (next)
 
 ---
 

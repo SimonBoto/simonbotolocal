@@ -110,4 +110,4 @@ Based on RON-STATE active threads, I pre-read:
 parent-index: [[08 Structure Index]], [[MOCs Index]]
 
 ---
-parent-moc: [[MOC-INDEX]]
+parent-moc: [[MOCs Index]]

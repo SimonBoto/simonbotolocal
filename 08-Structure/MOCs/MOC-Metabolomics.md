@@ -26,4 +26,4 @@ Hub for metabolomics: scope, protocols, metabolites, clinical apps.
 parent-index: [[08 Structure Index]], [[MOCs Index]]
 
 ---
-parent-moc: [[MOC-INDEX]]
+parent-moc: [[MOCs Index]]

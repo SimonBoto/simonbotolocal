@@ -129,7 +129,7 @@
 **Vault:**
 - `00-Inbox/` — New sources
 - `03-Zettels/Conscious/` — Working notes
-- `06-Structure/MOCs/MOC-INDEX` — Master index
+- `06-Structure/MOCs/MOCs Index` — Master index
 
 **Operations:**
 - `~/.openclaw/workspace/` — Core files (SOUL.md, MEMORY.md, etc.)

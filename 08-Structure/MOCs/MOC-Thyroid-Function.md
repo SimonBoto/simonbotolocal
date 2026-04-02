@@ -70,4 +70,4 @@ See also: [[MOC-Hashimoto-Thyroiditis] — Deep dive on Hashimoto's
 parent-index: [[08 Structure Index]], [[MOCs Index]]
 
 ---
-parent-moc: [[MOC-INDEX]]
+parent-moc: [[MOCs Index]]

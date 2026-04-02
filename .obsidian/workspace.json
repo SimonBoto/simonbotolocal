@@ -59,10 +59,24 @@
             "id": "4fb536956a6b8b23",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Free fatty acids analysis extended.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Free fatty acids analysis extended"
             }
           },
           {
@@ -88,9 +102,19 @@
               "icon": "lucide-file",
               "title": "MOC-Methylation"
             }
+          },
+          {
+            "id": "4a189b8ff6ae65cd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -266,8 +290,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4fb536956a6b8b23",
+  "active": "4a189b8ff6ae65cd",
   "lastOpenFiles": [
+    "08-Structure/MOCs/MOCs Index.md",
+    "03-Zettels/RON/ChatGPT_Building_Master_Throne_RON-004-0007.md",
+    "00-Inbox/Analysis organic acids extended.md",
+    "00-Inbox/Free fatty acids analysis extended.md",
     "08-Structure/MOCs/MOC-Methylation.md",
     "00-Inbox/ChatGPT/ChatGPT_Extracted/00_Extracted_Insights_MOC.md",
     "06-Structure/Dashboards/02-HANDOFF.md",
@@ -300,10 +328,6 @@
     "07-Projects/sedz0yDPy",
     "09-Archive/08-Dashboards.md",
     "08-Structure/MOCs/MOC-Inflammation.md",
-    "08-Structure/MOCs/MOC-Kidney-Metabolism.md",
-    "08-Structure/MOCs/MOC-Liver-Function.md",
-    "08-Structure/MOCs/MOC-Minerals-Trace.md",
-    "08-Structure/MOCs/MOC-PhD-Research.md",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]

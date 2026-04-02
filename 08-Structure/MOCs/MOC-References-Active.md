@@ -5,7 +5,7 @@ title: MOC-References-Active — Research Pipeline Dashboard
 aliases: [MOC-References, Reference-Dashboard, Research-Pipeline]
 domain: 000
 tags: [moc, references, research, pipeline, dashboard, zotero]
-parent-moc: [[MOC-INDEX]
+parent-moc: [[MOCs Index]
 status: active
 created: 2026-04-01
 ---
