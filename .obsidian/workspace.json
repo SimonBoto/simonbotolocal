@@ -55,7 +55,8 @@
               "title": "Bootcamp_Four_Phase_Structure_Z-001-1035"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,10 +232,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4a189b8ff6ae65cd",
+  "active": "16f64df1f00d3854",
   "lastOpenFiles": [
-    "03-Zettels/Conscious/Bootcamp_Four_Phase_Structure_Z-001-1035.md",
     "01-Literature/LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589.md",
+    "03-Zettels/Conscious/Bootcamp_Four_Phase_Structure_Z-001-1035.md",
+    "08-Structure/MOCs/MOC-Clinical-Training.md",
     "Base File All Notes.base",
     "08-Structure/Templates/Template_LitNote_Assessment_v1.0.md",
     "08-Structure/MOCs/MOC-Metabolic-Syndrome.md",
@@ -261,7 +263,6 @@
     "08-Structure/Templates/sedoJjwX5",
     "08-Structure/Templates/sedclJo0e",
     "08-Structure/Templates/Template_Inbox_Fleeting_v1.0.md",
-    "08-Structure/MOCs/MOCs Index.md",
     "06-Structure/Dashboards",
     "06-Structure",
     "03-Zettels/RON/sedfy7D34",

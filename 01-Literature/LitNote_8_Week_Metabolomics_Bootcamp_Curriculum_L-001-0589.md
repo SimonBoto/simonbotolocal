@@ -10,7 +10,7 @@ doi: "N/A"
 pmid: "N/A"
 tier: "SILVER"
 status: extracted
-parent-moc: "[[MOC-Clinical-Training]]"
+parent-moc: "[[MOC-Metabolomics-Training]]"
 extraction-date: "2026-03-08"
 ---
 
@@ -89,7 +89,7 @@ This curriculum transforms knowledge acquisition into cognitive restructuring—
 ---
 
 ## Structural Links
-- **Up:** [[MOC-Metabolomics]] — Thematic domain
+- **Up:** [[MOC-Metabolomics-Training]] — Thematic domain (Clinical Track)
 - **Inbox:** [[CGPT_0022_Metabolomics_training_role_CGPT-0022]] — Raw origin
 - **Index:** [[02-Literature]] — Container
 

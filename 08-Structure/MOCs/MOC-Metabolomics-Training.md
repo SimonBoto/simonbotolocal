@@ -1,15 +1,29 @@
 ---
-aliases: [MOC-Metabolomics-Training, MOC-Systems-Biology, MOC-Omics-Cascade]
-tags: [moc, map-of-content, metabolomics, training, omics, systems-biology]
+aliases: [MOC-Metabolomics-Training, MOC-Systems-Biology, MOC-Omics-Cascade, MOC-Clinical-Training]
+tags: [moc, map-of-content, metabolomics, training, omics, systems-biology, clinical-education]
 status: real
-version: 1.0
+version: 2.0
 ---
 
-# MOC: Metabolomics Training — NKUA Course
+# MOC: Metabolomics Training
 
-> **Navigation hub for metabolomics training materials**  
-> **Course:** 3174 - Βασικές Αρχές Μεταβολομικής (NKUA 2024)  
-> **Scope:** Systems biology → Omics cascade → Clinical applications
+> **Navigation hub for metabolomics training and education**  
+> **Scope:** Academic courses → Clinical training programs → Educational frameworks
+
+---
+
+## Sub-MOCs
+
+| Track | Focus | Content |
+|-------|-------|---------|
+| **Academic** | NKUA Course 3174 | Systems biology, omics cascade |
+| **Clinical** | Bootcamp & MCI | Practitioner training, competency |
+
+---
+
+## 📚 Academic Track: NKUA Course 3174
+
+> **Course:** 3174 - Βασικές Αρχές Μεταβολομικής (NKUA 2024)
 
 ---
 
@@ -176,6 +190,29 @@ version: 1.0
 ---
 parent-index: [[08 Structure Index]], [[MOCs Index]]
 
+
+---
+
+## 🎓 Clinical Track: Training Programs
+
+### Training Curricula
+Structured learning programs for practitioners:
+- [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]] — 8-week progressive curriculum
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Four-phase training architecture
+
+### Pedagogical Frameworks
+Teaching methodologies:
+- [[Training_Teaching_Style_Framework_Z-001-1040]] — Military vs Socratic vs Hybrid
+
+### Competency Assessment
+Evaluation and progression:
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]] — Foundation assessment
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]] — Pattern recognition competency
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]] — Lipidomics competency
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]] — Integration competency
+
+### Clinical Integration
+- [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]] — MCI role definition
 
 ---
 
