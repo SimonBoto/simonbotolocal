@@ -13,7 +13,7 @@ relevance: High — Premature aging of the immune system in autoimmunity
 aliases: [L-001-0626, Immune Aging, T-Cell Exhaustion, Naive T-Cell Depletion]
 domain: 001
 tags: [litnote, immunosenescence, t-cells, autoimmunity, aging, exhaustion]
-source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]"
+source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08

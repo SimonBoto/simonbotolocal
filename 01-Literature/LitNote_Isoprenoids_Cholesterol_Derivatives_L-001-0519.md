@@ -13,7 +13,7 @@ relevance: High — Diverse products from mevalonate pathway, clinical significa
 aliases: [L-001-0519, Isoprenoids, Terpenes, Steroid Hormones, CoQ10, Vitamin D Synthesis]
 domain: 001
 tags: [litnote, isoprenoids, terpenes, steroids, coq10, vitamin-d, bile-acids, cholesterol-derivatives]
-source: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]"
+source: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-03

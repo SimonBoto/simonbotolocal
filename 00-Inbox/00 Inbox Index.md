@@ -41,9 +41,9 @@ Input → 00-Inbox → Process → [01-Literature | 02-References | 03-Zettels |
 
 ## Connection to Vault
 
-- Up: [[08 Structure Index]
-- Next: [[01 Literature Index]
-- Processed to: [[03 Zettels Index]
+- Up: [[08 Structure Index]]
+- Next: [[01 Literature Index]]
+- Processed to: [[03 Zettels Index]]
 
 ---
 

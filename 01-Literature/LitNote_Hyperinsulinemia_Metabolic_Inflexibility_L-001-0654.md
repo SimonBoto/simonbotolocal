@@ -4,7 +4,7 @@ type: litnote
 title: Hyperinsulinemia and Metabolic Inflexibility — Mechanisms of Beta-Oxidation Inhibition
 aliases: [L-001-0654]
 domain: 001
-source: "[[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]"
+source: "[[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]"
 extraction-date: 2026-03-11
 author: ChatGPT Analysis (CGPT-0647)
 tags: [litnote, insulin-resistance, metabolic-flexibility, beta-oxidation, CPT-1, hyperinsulinemia]

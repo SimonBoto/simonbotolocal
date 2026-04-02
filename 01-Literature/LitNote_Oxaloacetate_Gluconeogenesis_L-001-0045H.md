@@ -13,7 +13,7 @@ tags:
   - pepck
   - krebs-cycle
   - anaplerosis
-source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]"
+source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 status: extracted
 parent-moc:

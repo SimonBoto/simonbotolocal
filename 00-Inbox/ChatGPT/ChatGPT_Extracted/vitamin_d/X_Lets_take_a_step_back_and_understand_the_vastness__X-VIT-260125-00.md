@@ -10,7 +10,7 @@ uid: X-VIT-260125-00
 type: extracted-insight
 title: "Let’s take a step back and understand the vastness of what we are building here."
 date: 2026-01-25
-source: "[[CGPT_0006_Κλάδος_Vitamin_D_Optimisation_Titles_CGPT-0006]"
+source: "[[CGPT_0006_Κλάδος_Vitamin_D_Optimisation_Titles_CGPT-0006]]"
 aliases: [X-VIT-260125-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"

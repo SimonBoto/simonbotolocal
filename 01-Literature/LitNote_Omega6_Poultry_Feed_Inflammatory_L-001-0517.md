@@ -13,7 +13,7 @@ relevance: Medium — Practical nutrition guidance for patient counseling on foo
 aliases: [L-001-0517, Chicken Fatty Acids, Egg Omega-6, Poultry Nutrition, Feed Quality]
 domain: 001
 tags: [litnote, omega-6, omega-3, poultry, fatty-acids, inflammation, nutrition, food-quality, linoleic-acid]
-source: "[[CGPT_0141_Omega_6_in_Chicken_Fat_CGPT-0141]"
+source: "[[CGPT_0141_Omega_6_in_Chicken_Fat_CGPT-0141]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-03

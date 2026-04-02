@@ -12,7 +12,7 @@ type: extracted-insight
 title: "Conduct a comprehensive literature review:
 Examine the current understanding of ..."
 date: 2023-05-04
-source: "[[CGPT_0640_Solutions_for_Precision_Medicine_CGPT-0640]"
+source: "[[CGPT_0640_Solutions_for_Precision_Medicine_CGPT-0640]]"
 aliases: [X-MET-230504-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"

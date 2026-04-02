@@ -14,7 +14,7 @@ title: "how do you find the chapter on the synergy ??
 
 is it innovative, complete, impo..."
 date: 2024-11-23
-source: "[[CGPT_0244_Hello_and_assistance_CGPT-0244]"
+source: "[[CGPT_0244_Hello_and_assistance_CGPT-0244]]"
 aliases: [X-VIT-241123-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"

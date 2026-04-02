@@ -10,7 +10,7 @@ uid: X-VIT-241203-01
 type: extracted-hypothesis
 title: "Hypothesis: Should I be detailed in mechanisms of action, production, activation o..."
 date: 2024-12-03
-source: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]"
+source: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
 aliases: [X-VIT-241203-01]
 tags: [extracted, hypothesis, vitamin_d, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"

@@ -13,7 +13,7 @@ relevance: High — Core cholesterol synthesis pathway, statin mechanism, CoQ10 
 aliases: [L-001-0518, HMG-CoA Reductase, Mevalonate Pathway, Cholesterol Synthesis, Statin Target]
 domain: 001
 tags: [litnote, mevalonate-pathway, cholesterol, hmg-coa-reductase, statins, coq10, isoprenoids, biochemistry]
-source: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]"
+source: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-03

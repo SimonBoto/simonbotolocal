@@ -18,7 +18,7 @@ Theoretical background
 
 Organi..."
 date: 2024-08-11
-source: "[[CGPT_0313_PhD_Research_Preparation_Guide_CGPT-0313]"
+source: "[[CGPT_0313_PhD_Research_Preparation_Guide_CGPT-0313]]"
 aliases: [X-MET-240811-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"

@@ -14,7 +14,7 @@ title: "how can this metabolically-at-risk group be decided?
 
 what type of statistical ..."
 date: 2023-09-16
-source: "[[CGPT_0561_Metabolomics_for_Insulin_Resistance_CGPT-0561]"
+source: "[[CGPT_0561_Metabolomics_for_Insulin_Resistance_CGPT-0561]]"
 aliases: [X-MET-230916-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"

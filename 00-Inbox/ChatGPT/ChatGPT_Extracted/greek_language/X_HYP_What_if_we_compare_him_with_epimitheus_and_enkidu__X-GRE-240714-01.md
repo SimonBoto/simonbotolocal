@@ -14,7 +14,7 @@ title: "Hypothesis: What if we compare him with epimitheus and enkidu with promi
 
 --..."
 date: 2024-07-14
-source: "[[CGPT_0331_Understand_Request_Ancient_Greek_Understanding_CGPT-0331]"
+source: "[[CGPT_0331_Understand_Request_Ancient_Greek_Understanding_CGPT-0331]]"
 aliases: [X-GRE-240714-01]
 tags: [extracted, hypothesis, greek_language, chatgpt-archive]
 related: []

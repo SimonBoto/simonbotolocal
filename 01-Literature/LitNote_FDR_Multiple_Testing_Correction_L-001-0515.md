@@ -13,7 +13,7 @@ relevance: High — Core statistical methodology for PhD metabolomics work
 aliases: [L-001-0515, FDR Correction, Benjamini-Hochberg Procedure, Multiple Testing, Type I Error Control]
 domain: 001
 tags: [litnote, fdr, multiple-testing, benjamini-hochberg, type-1-error, metabolomics, statistics, exploratory-research, confirmatory-research]
-source: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]"
+source: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-03

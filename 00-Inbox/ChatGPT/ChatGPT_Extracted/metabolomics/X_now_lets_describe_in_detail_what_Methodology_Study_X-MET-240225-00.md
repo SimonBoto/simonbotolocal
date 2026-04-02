@@ -13,7 +13,7 @@ title: "now lets describe in detail what
 Study Design
 Cross-Sectional Obse..."
 date: 2024-02-25
-source: "[[CGPT_0496_PhD_Protocol_Refinement_CGPT-0496]"
+source: "[[CGPT_0496_PhD_Protocol_Refinement_CGPT-0496]]"
 aliases: [X-MET-240225-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"

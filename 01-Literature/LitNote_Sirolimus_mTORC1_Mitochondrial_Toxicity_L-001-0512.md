@@ -13,7 +13,7 @@ relevance: High — Drug toxicity mechanisms relevant to metabolic interventions
 aliases: [L-001-0512, Rapamycin Mitochondrial Toxicity, mTORC1 Mitochondrial Dysfunction]
 domain: 001
 tags: [litnote, sirolimus, rapamycin, mtor, mtorc1, mitochondria, mitochondrial-toxicity, pgc-1a, oxphos, ros]
-source: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]"
+source: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-02

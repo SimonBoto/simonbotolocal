@@ -10,7 +10,7 @@ uid: X-MET-230915-00
 type: extracted-insight
 title: "what if I intervene in all insulin resistant and diabetic patients and see if th..."
 date: 2023-09-15
-source: "[[CGPT_0565_Metabolomics_and_Sample_Size_CGPT-0565]"
+source: "[[CGPT_0565_Metabolomics_and_Sample_Size_CGPT-0565]]"
 aliases: [X-MET-230915-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"

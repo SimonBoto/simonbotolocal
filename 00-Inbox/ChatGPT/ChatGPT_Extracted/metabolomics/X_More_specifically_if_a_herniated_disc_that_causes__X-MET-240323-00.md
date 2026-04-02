@@ -10,7 +10,7 @@ uid: X-MET-240323-00
 type: extracted-insight
 title: "More specifically, if a herniated disc that causes pressure could lead to inflam..."
 date: 2024-03-23
-source: "[[CGPT_0447_MS_vs_Hernia_Pressure_CGPT-0447]"
+source: "[[CGPT_0447_MS_vs_Hernia_Pressure_CGPT-0447]]"
 aliases: [X-MET-240323-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"

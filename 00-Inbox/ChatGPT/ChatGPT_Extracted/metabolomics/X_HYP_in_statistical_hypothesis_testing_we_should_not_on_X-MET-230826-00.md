@@ -10,7 +10,7 @@ uid: X-MET-230826-00
 type: extracted-hypothesis
 title: "Hypothesis: in statistical hypothesis testing, we should not only report the P val..."
 date: 2023-08-26
-source: "[[CGPT_0594_MetaboAnalyst_for_Rat_Metabolomics_CGPT-0594]"
+source: "[[CGPT_0594_MetaboAnalyst_for_Rat_Metabolomics_CGPT-0594]]"
 aliases: [X-MET-230826-00]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"

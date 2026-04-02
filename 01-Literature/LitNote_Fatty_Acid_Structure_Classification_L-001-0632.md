@@ -13,7 +13,7 @@ relevance: High — Foundation for understanding fatty acid metabolism and dicar
 aliases: [L-001-0632, Fatty Acids, Omega Classification, Lipid Structure]
 domain: 001
 tags: [litnote, fatty-acids, omega-3, omega-6, lipid-structure, saturation]
-source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]"
+source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08

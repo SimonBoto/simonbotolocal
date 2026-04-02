@@ -18,7 +18,7 @@ To the point?
 
 Using and focusing ..."
 date: 2025-05-07
-source: "[[CGPT_0003_Manager_Control_CGPT-0003]"
+source: "[[CGPT_0003_Manager_Control_CGPT-0003]]"
 aliases: [X-INS-250507-00]
 tags: [extracted, insight, insulin_resistance, chatgpt-archive]
 related: "['RON_Genesis_MOC_[RON-004-0001]', 'ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]']"

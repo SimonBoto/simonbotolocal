@@ -10,7 +10,7 @@ uid: X-MET-251116-00
 type: extracted-insight
 title: "what parameters should be decided."
 date: 2025-11-16
-source: "[[CGPT_0032_Article_review_preparation_CGPT-0032]"
+source: "[[CGPT_0032_Article_review_preparation_CGPT-0032]]"
 aliases: [X-MET-251116-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"

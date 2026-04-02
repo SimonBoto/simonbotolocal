@@ -13,7 +13,7 @@ relevance: High — Drug-induced diabetes mechanisms relevant to transplant pati
 aliases: [L-001-0513, Rapamycin Diabetes, NODAT, mTOR Insulin Signaling]
 domain: 001
 tags: [litnote, sirolimus, rapamycin, diabetes, insulin-resistance, nodat, mtorc1, mtorc2, beta-cell, glut4]
-source: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]"
+source: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-02

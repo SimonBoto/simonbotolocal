@@ -10,7 +10,7 @@ uid: X-GRE-251108-00
 type: extracted-insight
 title: "Can we start exploring my supplement regimen together? Step by step and present ..."
 date: 2025-11-08
-source: "[[CGPT_0031_Supplement_regimen_exploration_CGPT-0031]"
+source: "[[CGPT_0031_Supplement_regimen_exploration_CGPT-0031]]"
 aliases: [X-GRE-251108-00]
 tags: [extracted, insight, greek_language, chatgpt-archive]
 related: []

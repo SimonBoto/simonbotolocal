@@ -10,7 +10,7 @@ uid: X-GEN-240324-00
 type: extracted-insight
 title: "We'll be able to see all of this."
 date: 2024-03-24
-source: "[[CGPT_0446_Forget_Everything_About_Me_CGPT-0446]"
+source: "[[CGPT_0446_Forget_Everything_About_Me_CGPT-0446]]"
 aliases: [X-GEN-240324-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []

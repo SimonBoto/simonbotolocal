@@ -14,7 +14,7 @@ title: "Hypothesis: what if data were not normal to strart with and then we did 
 
 St..."
 date: 2023-12-14
-source: "[[CGPT_0515_Methodological_Issues_in_Nutrition_CGPT-0515]"
+source: "[[CGPT_0515_Methodological_Issues_in_Nutrition_CGPT-0515]]"
 aliases: [X-MET-231214-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"

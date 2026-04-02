@@ -10,7 +10,7 @@ uid: X-VIT-250223-00
 type: extracted-insight
 title: "We actually want a very simple bot to see if patients follow the guidance they a..."
 date: 2025-02-23
-source: "[[CGPT_0138_Chatbot_for_Lifestyle_Changes_CGPT-0138]"
+source: "[[CGPT_0138_Chatbot_for_Lifestyle_Changes_CGPT-0138]]"
 aliases: [X-VIT-250223-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"

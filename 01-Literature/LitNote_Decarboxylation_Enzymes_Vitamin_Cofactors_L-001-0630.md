@@ -13,7 +13,7 @@ relevance: High — Connects B-vitamins to fatty acid and energy metabolism
 aliases: [L-001-0630, Decarboxylases, B-Vitamin Cofactors, TPP, PLP]
 domain: 001
 tags: [litnote, decarboxylases, b-vitamins, tpp, plp, enzyme-cofactors]
-source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]"
+source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08

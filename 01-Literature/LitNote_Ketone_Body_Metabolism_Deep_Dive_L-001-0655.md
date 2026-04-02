@@ -4,7 +4,7 @@ type: litnote
 title: Ketone Body Metabolism Deep Dive — From Beta-Oxidation to ATP Yield
 aliases: [L-001-0655]
 domain: 001
-source: "[[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]"
+source: "[[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]"
 extraction-date: 2026-03-11
 author: ChatGPT Analysis (CGPT-0647)
 tags: [litnote, ketone-bodies, BHB, acetoacetate, ketogenesis, ketolysis, ATP-yield, beta-hydroxybutyrate]

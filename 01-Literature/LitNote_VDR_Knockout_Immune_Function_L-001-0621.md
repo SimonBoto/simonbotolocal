@@ -13,7 +13,7 @@ relevance: Critical — Links Vitamin D to autoimmunity mechanisms
 aliases: [L-001-0621, VDR Immunity, Vitamin D Autoimmune Protection]
 domain: 001
 tags: [litnote, vdr, vitamin-d, immunity, autoimmunity, knockout-studies]
-source: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]"
+source: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08

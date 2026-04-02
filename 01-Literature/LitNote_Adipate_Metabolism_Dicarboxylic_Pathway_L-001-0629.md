@@ -13,7 +13,7 @@ relevance: Critical — Completes adipic acid metabolic fate for PhD biomarker i
 aliases: [L-001-0629, Adipate Metabolism, Dicarboxylic Acid Pathway]
 domain: 101
 tags: [litnote, adipate, dicarboxylic-acids, beta-oxidation, krebs-cycle, succinyl-coa]
-source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]"
+source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
