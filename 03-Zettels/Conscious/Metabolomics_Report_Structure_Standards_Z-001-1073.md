@@ -178,6 +178,7 @@ Before sending any report:
 - [[Patient_Objection_Response_Scripts_Z-001-1071]] — Objection handling
 - [[Difficult_Conversation_Navigation_Z-001-1072]] — Challenge management
 - [[Patient_Communication_Core_Concepts_Z-001-1047]] — Core principles
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]] — Patient flow
 - [[MOC-Metabolomics-Training]] — Training hub
 
 ---

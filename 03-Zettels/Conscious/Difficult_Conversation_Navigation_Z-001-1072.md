@@ -142,6 +142,7 @@ Follow-up: "When you're ready to explore this, I'm here."
 - [[Patient_Objection_Response_Scripts_Z-001-1071]] — Objection handling
 - [[Metabolomics_Report_Structure_Standards_Z-001-1073]] — Report formats
 - [[Patient_Communication_Core_Concepts_Z-001-1047]] — Core principles
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]] — Patient flow
 - [[MOC-Metabolomics-Training]] — Training hub
 
 ---

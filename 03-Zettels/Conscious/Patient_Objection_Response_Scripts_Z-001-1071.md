@@ -135,6 +135,7 @@ Use the script to shift perspective.
 - [[Difficult_Conversation_Navigation_Z-001-1072]] — Challenge management
 - [[Metabolomics_Report_Structure_Standards_Z-001-1073]] — Report formats
 - [[Patient_Communication_Core_Concepts_Z-001-1047]] — Core principles
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]] — Patient flow
 - [[MOC-Metabolomics-Training]] — Training hub
 
 ---
