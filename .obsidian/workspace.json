@@ -64,9 +64,153 @@
               "icon": "lucide-file",
               "title": "LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591"
             }
+          },
+          {
+            "id": "1a4649faa9f7f802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Zettels/Conscious/Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053"
+            }
+          },
+          {
+            "id": "a8728bd3af751646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Zettels/Conscious/Cofactor_Deficiency_OAT_Signatures_Z-001-1052.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cofactor_Deficiency_OAT_Signatures_Z-001-1052"
+            }
+          },
+          {
+            "id": "fe6b00a58491d4ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Zettels/Conscious/Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051"
+            }
+          },
+          {
+            "id": "d0b6fc9eba428377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Zettels/Conscious/Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050"
+            }
+          },
+          {
+            "id": "823d6ac1ef55c2d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Zettels/Conscious/TCA_Intermediates_Clinical_Significance_Z-001-1049.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TCA_Intermediates_Clinical_Significance_Z-001-1049"
+            }
+          },
+          {
+            "id": "494d0a78401a438d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Zettels/Conscious/Krebs_Cycle_Clinical_Biochemistry_Z-001-1048.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Krebs_Cycle_Clinical_Biochemistry_Z-001-1048"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,10 +387,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4a189b8ff6ae65cd",
+  "active": "1a4649faa9f7f802",
   "lastOpenFiles": [
-    "00-Inbox/Processed/metabolomics/CGPT_0022_Metabolomics_training_role_CGPT-0022.md",
     "01-Literature/LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591.md",
+    "03-Zettels/Conscious/Cofactor_Deficiency_OAT_Signatures_Z-001-1052.md",
+    "03-Zettels/Conscious/TCA_Intermediates_Clinical_Significance_Z-001-1049.md",
+    "03-Zettels/Conscious/Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050.md",
+    "03-Zettels/Conscious/Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051.md",
+    "03-Zettels/Conscious/Krebs_Cycle_Clinical_Biochemistry_Z-001-1048.md",
+    "00-Inbox/Processed/metabolomics/CGPT_0022_Metabolomics_training_role_CGPT-0022.md",
     "03-Zettels/Conscious/Bootcamp_Four_Phase_Structure_Z-001-1035.md",
     "03-Zettels/Conscious/Phase_1_Biochemical_Literacy_Foundation_Z-001-1036.md",
     "03-Zettels/Conscious/Phase_2_OAT_Pattern_Mastery_Z-001-1037.md",
@@ -267,11 +416,6 @@
     "08-Structure/Templates/Template_LitNote_Zettelkasten_v1.0.md",
     "08-Structure/Templates/Template_Inbox_Raw_v1.0.md",
     "08-Structure/Templates/Template_Zettel_Optimized_v1.0.md",
-    "08-Structure/Templates/Template_LitNote_Optimized_v1.0.md",
-    "08-Structure/Templates/Template_Inbox_Input_v1.0.md",
-    "03-Zettels/Biomarkers/HbA1c_Glycemic_Control_RBC_Memory_B-005-0003.md",
-    "03-Zettels/Biomarkers/Insulin_Pancreatic_Beta-Cell_Response_B-005-0002.md",
-    "03-Zettels/Biomarkers/Glucose_Blood_Sugar_Energy_B-005-0001.md",
     "08-Structure/Templates/sedoJjwX5",
     "08-Structure/Templates/sedclJo0e",
     "06-Structure/Dashboards",

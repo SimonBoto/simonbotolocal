@@ -1,96 +1,103 @@
 ---
 uid: Z-001-1051
 type: zettel
-title: Redox Cofactors NAD FAD Biochemistry
+title: "Redox Cofactors NAD FAD Biochemistry"
 aliases: ["Redox-Cofactors"]
-domain: 001
-domain-name: Mitochondrial Function
-tags: [zettel, nad, fad, redox, cofactors]
+domain: "001"
+tags: [zettel, nad, fad, redox, cofactors, b-vitamins]
 parent-moc: "[[MOC-Mitochondrial-Function]]"
 source-litnote: "[[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
 # Redox Cofactors NAD FAD Biochemistry
 
-## Overview
-NAD⁺/NADH and FAD/FADH₂ are the primary electron carriers connecting catabolism to oxidative phosphorylation.
+NAD⁺/NADH and FAD/FADH₂ are the primary electron carriers in metabolism. Their balance determines metabolic direction, energy status, and redox health.
+
+## Evidence
+> "Redox balance is not a detail — it is the fundamental axis of metabolic regulation." (Mitochondrial medicine)
 
 ## NAD⁺ / NADH (Nicotinamide Adenine Dinucleotide)
 
-### Structure
-- **Oxidized form:** NAD⁺ (electron acceptor)
-- **Reduced form:** NADH (electron donor)
-- **Synthesis:** From niacin (B3) or tryptophan
+### Function
+| Aspect | Detail |
+|--------|--------|
+| **Role** | Primary electron acceptor in catabolism |
+| **Reduced form** | NADH (carries electrons to ETC) |
+| **Key reactions** | Glycolysis, TCA cycle, β-oxidation |
+| **Precursor** | B3 (niacin/nicotinamide) |
 
-### Metabolic Roles
-| Pathway | Enzyme | NADH Production |
-|---------|--------|-----------------|
-| Glycolysis | GAPDH | 2 NADH per glucose |
-| Pyruvate dehydrogenase | PDH | 1 NADH per pyruvate |
-| TCA cycle | IDH, KGDH, MDH | 3 NADH per acetyl-CoA |
-| β-oxidation | Acyl-CoA dehydrogenases | 1 NADH per 2C removed |
+### Clinical Significance
+- **High NADH/NAD⁺ ratio** → metabolic slowdown, lactic acidosis
+- **Low NAD⁺** → impaired sirtuins, accelerated aging
+- **NAD⁺ depletion** → seen in chronic inflammation, aging, viral infections
 
-### NADH Fate
-- **Enters ETC:** Complex I → 2.5 ATP per NADH
-- **Shuttle systems:** Malate-aspartate, glycerol-3-phosphate
-
-### Clinical Relevance
-- **NAD⁺ depletion:** Aging, DNA damage (PARP consumption)
-- **Low NAD⁺:** Impaired glycolysis, TCA, fatty acid oxidation
-- **Therapeutic:** Niacin, NMN, NR supplementation
+### OAT Markers
+- Elevated lactate/pyruvate → high NADH/NAD⁺
+- Elevated β-hydroxybutyrate/acetoacetate → redox imbalance
 
 ## FAD / FADH₂ (Flavin Adenine Dinucleotide)
 
-### Structure
-- **Oxidized form:** FAD (electron acceptor)
-- **Reduced form:** FADH₂ (electron donor)
-- **Synthesis:** From riboflavin (B2)
+### Function
+| Aspect | Detail |
+|--------|--------|
+| **Role** | Electron acceptor in specific dehydrogenases |
+| **Reduced form** | FADH₂ (enters ETC at Complex II) |
+| **Key reactions** | TCA cycle (succinate DH), β-oxidation, amino acid oxidation |
+| **Precursor** | B2 (riboflavin) |
 
-### Metabolic Roles
-| Pathway | Enzyme | FADH₂ Production |
-|---------|--------|------------------|
-| TCA cycle | Succinate dehydrogenase | 1 FADH₂ per acetyl-CoA |
-| β-oxidation | Acyl-CoA dehydrogenase | 1 FADH₂ per cycle |
-| Amino acid catabolism | Various dehydrogenases | Variable |
+### Clinical Significance
+- **FAD deficiency** → impaired fatty acid oxidation, elevated organic acids
+- **Succinate elevation** → FAD-related Complex II dysfunction
+- **B2 deficiency** → classic cause of FAD/FMN depletion
 
-### FADH₂ Fate
-- **Enters ETC:** Complex II (no proton pumping)
-- **Yield:** 1.5 ATP per FADH₂ (vs. 2.5 for NADH)
+## NAD vs FAD: Key Differences
 
-### Clinical Relevance
-- **B2 deficiency:** Impaired fatty acid oxidation
-- **Elevated succinate:** Marker of FADH₂ utilization issues
-- **Therapeutic:** Riboflavin for migraines, l disease
+| Feature | NAD⁺/NADH | FAD/FADH₂ |
+|---------|-----------|-----------|
+| **Vitamin source** | B3 (niacin) | B2 (riboflavin) |
+| **ETC entry** | Complex I (higher yield) | Complex II (lower yield) |
+| **Proton pumping** | 4 H⁺ | 0 H⁺ |
+| **ATP yield** | ~2.5 ATP | ~1.5 ATP |
+| **Reversibility** | More reversible | Tightly bound to enzymes |
 
-## Redox Balance
-> "NAD⁺/NADH ratio signals metabolic state."
+## Redox Balance in Clinical Practice
 
-| State | NAD⁺/NADH | Implication |
-|-------|-----------|-------------|
-| High NAD⁺ | Oxidized | Catabolism favored |
-| High NADH | Reduced | Energy replete; biosynthesis favored |
-| Low NAD⁺ | Pathological | Metabolic dysfunction |
+### The Redox Equation
+**NAD⁺ + 2H⁺ + 2e⁻ ↔ NADH + H⁺**
 
-## Related
-- s_Z-001-1050]
-- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]
-- -Function]
+- **Right shift (NADH dominant)** → glycolytic, reductive, lower energy
+- **Left shift (NAD⁺ dominant)** → oxidative, higher energy, sirtuin-active
+
+### Clinical Strategies to Optimize Redox
+
+| Goal | Intervention |
+|------|--------------|
+| Increase NAD⁺ | B3, fasting, exercise, NMN/NR precursors |
+| Support FAD | B2, avoid excessive UV/light exposure |
+| Balance ratio | Address inflammation, improve oxygenation |
+| Reduce NADH accumulation | Support ETC function, CoQ10, B-vitamins |
+
+## Context
+Redox cofactors are the **currency of energy metabolism**. Their balance reflects:
+- Nutritional status (B-vitamins)
+- Oxygen availability
+- Mitochondrial health
+- Inflammatory state
+
+Redox imbalance is upstream of most chronic metabolic dysfunction.
 
 ---
-*Source: CGPT-0022 — Mitochondrial biochemistry*
 
+## Structural Links
+- **Up:** [[MOC-Mitochondrial-Function]] — Thematic entry
+- **Source:** [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]] — Origin
 
-## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Lateral Links (Verified Real Zettels)
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]] — ETC context
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] — Deficiency patterns
+- [[B12_Exercise_Performance_Energy_Z-001-0440]] — Energy metabolism
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+*Z-001-1051 | Created: 2026-03-08 | Source: CGPT-0022*

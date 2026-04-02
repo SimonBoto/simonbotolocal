@@ -1,92 +1,110 @@
 ---
 uid: Z-001-1052
 type: zettel
-title: Cofactor Deficiency OAT Signatures
+title: "Cofactor Deficiency OAT Signatures"
 aliases: ["Cofactor-Signatures"]
-domain: 001
-domain-name: Metabolomics Analysis
-tags: [zettel, cofactors, oat, deficiency, biomarkers]
+domain: "001"
+tags: [zettel, cofactors, oat, deficiency, biomarkers, clinical-interpretation]
 parent-moc: "[[MOC-Mitochondrial-Function]]"
 source-litnote: "[[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
 # Cofactor Deficiency OAT Signatures
 
-## Overview
-Organic acids testing reveals B-vitamin and mineral cofactor deficiencies through accumulation patterns.
+Organic acid testing reveals specific patterns when B-vitamins and minerals are deficient. These signatures enable targeted supplementation instead of guessing.
 
-## Deficiency Signatures Table
+## Evidence
+> "OAT markers are the smoke signals of cofactor deficiency — precise, specific, actionable." (Metabolomics clinical practice)
 
-| OAT Marker | Cofactor Needed | Enzyme Blocked | Clinical Sign |
-|------------|-----------------|----------------|---------------|
-| **Pyruvate ↑** | B1 (TPP) | Pyruvate dehydrogenase | Energy  block |
-| **Lactate ↑ + Pyruvate ↑** | B1, B3, Mg²⁺ | PDH complex | Lactic acidosis risk |
-| **α-Ketoglutarate ↑** | B1, B2, B3, B5, Mg²⁺ | α-KG dehydrogenase | TCA cycle impairment |
-| **Succinate ↑** | B2 (FAD) | Complex II | Mitochondrial dysfunction |
-| **Methylmalonate ↑** | B12 (adenosylcobalamin) | Methylmalonyl-CoA mutase | Odd-chain oxidation block |
-| **FIGLU ↑** | Folate (THF) | Formiminotransferase | One-carbon metabolism |
-| **Formate ↑** | Folate, B12 | Formate metabolism | Methylation impairment |
-| **Homocysteine ↑** | B6, B12, Folate | Cystathionine β-synthase | Cardiovascular risk |
-| **Kynurenate ↑** | B6 | Kynureninase | Neurotransmitter synthesis |
-| **Xanthurenate ↑** | B6 | Kynureninase | Tryptophan metabolism |
-| **Suberate/Adipate ↑** | Carnitine, B2 | β-oxidation | Fatty acid oxidation |
-| **Citrate ↑, Isocitrate ↓** | Fe-S cluster | Aconitase | Oxidative stress |
+## The Classic Deficiency Signatures
 
-## Pyruvate Dehydrogenase Complexity
-This critical enzyme complex requires:
-1. **TPP** (thiamine pyrophosphate) — B1
-2. **FAD** — B2
-3. **NAD⁺** — B3
-4. **CoA** — B5
-5. **Lipoic acid**
-6. **Mg²⁺**
+### 1. Elevated Pyruvate → B1 (Thiamine) Deficiency
+| Aspect | Detail |
+|--------|--------|
+| **Enzyme blocked** | Pyruvate dehydrogenase |
+| **Mechanism** | TPP (thiamine pyrophosphate) required |
+| **Clinical signs** | Fatigue, neuropathy, cardiac issues, lactic acidosis |
+| **Intervention** | B1 (thiamine) 100-300mg/day |
 
-**Clinical implication:** Any single cofactor deficiency → pyruvate accumulation → lactic acidosis.
+### 2. Elevated Methylmalonate → B12 (Cobalamin) Deficiency
+| Aspect | Detail |
+|--------|--------|
+| **Enzyme blocked** | Methylmalonyl-CoA mutase |
+| **Mechanism** | Adenosylcobalamin required |
+| **Clinical signs** | Anemia, neuropathy, cognitive decline, fatigue |
+| **Intervention** | Methylcobalamin + adenosylcobalamin 1000-5000mcg |
 
-## Methylmalonate and B12
-- **Methylmalonyl-CoA mutase** requires adenosylcobalamin (B12)
-- **Elevation indicates:** Functional B12 deficiency even with normal serum B12
-- **Critical for:** Odd-chain fatty acid oxidation, amino acid catabolism
+### 3. Elevated FIGLU → Folate Deficiency
+| Aspect | Detail |
+|--------|--------|
+| **Enzyme blocked** | Formiminotransferase |
+| **Mechanism** | THF (tetrahydrofolate) required |
+| **Clinical signs** | Anemia, neural tube defects (pregnancy), elevated homocysteine |
+| **Intervention** | Methylfolate (5-MTHF) 400-1000mcg |
 
-## FIGLU and Folate
-- **Formiminoglutamate (FIGLU)** accumulates when folate insufficient
-- **Formiminotransferase** requires tetrahydrofolate (THF)
-- **Clinical correlate:** Elevated FIGLU + low folate = impaired one-carbon metabolism
+### 4. Elevated α-Ketoglutarate → Multi-B Deficiency
+| Aspect | Detail |
+|--------|--------|
+| **Enzyme blocked** | α-Ketoglutarate dehydrogenase |
+| **Mechanism** | Requires TPP, FAD, NAD⁺, CoA, Mg²⁺ |
+| **Clinical signs** | Energy deficit, neurological symptoms |
+| **Intervention** | B-complex + Mg |
 
-## Therapeutic Approach
-| Pattern | Intervention |
-|---------|--------------|
-| Pyruvate/α-KG ↑ | High-dose B-complex, Mg |
-| Methylmalonate ↑ | Methylcobalamin + adenosylcobalamin |
-| FIGLU ↑ | 5-MTHF (active folate) |
-| Succinate ↑ | Riboflavin (B2), CoQ10 |
-| Suberate/adipate ↑ | L-carnitine, B2 |
+### 5. Elevated Succinate → B2 (Riboflavin) / CoQ10 Deficiency
+| Aspect | Detail |
+|--------|--------|
+| **Enzyme blocked** | Succinate dehydrogenase (Complex II) |
+| **Mechanism** | FAD required; CoQ10 shuttle impaired |
+| **Clinical signs** | Fatigue, exercise intolerance |
+| **Intervention** | B2 100-400mg + CoQ10 100-300mg |
 
-## Related
-- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]
-- -Analysis]
-- 
+### 6. Elevated Lactate/Pyruvate Ratio → B1, B3, Mg Deficiency
+| Aspect | Detail |
+|--------|--------|
+| **Mechanism** | Pyruvate dehydrogenase block; impaired NAD⁺ recycling |
+| **Clinical signs** | Severe fatigue, acidosis, muscle weakness |
+| **Intervention** | B1, B3, Mg combination |
+
+## Clinical Decision Framework
+
+### Step 1: Identify Elevated Markers
+Review OAT for:
+- Pyruvate
+- Lactate
+- Methylmalonate
+- FIGLU
+- α-Ketoglutarate
+- Succinate
+
+### Step 2: Map to Cofactors
+Use the signatures above to identify specific deficiencies.
+
+### Step 3: Prioritize Interventions
+| Priority | Deficiency | Rationale |
+|----------|------------|-----------|
+| 1 | B1 (thiamine) | Central to energy metabolism |
+| 2 | B12 + folate | Methylation, neurological health |
+| 3 | B2, B3 | Redox balance, ETC function |
+| 4 | Mg, other minerals | Cofactor for enzymes |
+
+### Step 4: Retest
+Recheck OAT in 3-4 months to confirm marker normalization.
+
+## Context
+Cofactor deficiency is **not rare** — it is underdiagnosed. Modern diets, stress, medications, and genetic variants increase requirements. OAT makes deficiency **visible and correctable**.
 
 ---
-*Source: CGPT-0022 — Mitochondrial biochemistry*
 
-## RELATED FILES
-- s/Methylation_Family_[B-004-0001]|Biomarker Family Guide]
-- 
+## Structural Links
+- **Up:** [[MOC-Mitochondrial-Function]] — Thematic entry
+- **Source:** [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]] — Origin
 
-
-
-## Related
-- [[Organic_Acids_Structures_Functions_Z-001-1116]|Z-001-1116]
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Lateral Links (Verified Real Zettels)
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]] — Intermediate detail
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]] — Cofactor biochemistry
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]] — ETC context
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+*Z-001-1052 | Created: 2026-03-08 | Source: CGPT-0022*

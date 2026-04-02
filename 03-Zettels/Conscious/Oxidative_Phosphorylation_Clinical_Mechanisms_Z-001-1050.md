@@ -1,95 +1,114 @@
 ---
 uid: Z-001-1050
 type: zettel
-title: Oxidative Phosphorylation Clinical Mechanisms
+title: "Oxidative Phosphorylation Clinical Mechanisms"
 aliases: ["OXPHOS"]
-domain: 001
-domain-name: Mitochondrial Function
-tags: [zettel, oxphos, electron-transport, atp-synthesis]
+domain: "001"
+tags: [zettel, oxphos, electron-transport, atp-synthesis, mitochondria]
 parent-moc: "[[MOC-Mitochondrial-Function]]"
 source-litnote: "[[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
 # Oxidative Phosphorylation Clinical Mechanisms
 
-## Overview
-The l process where electron transport through Complexes I-IV drives ATP synthesis via ATP synthase (Complex V).
+The process where electron transport through Complexes I-IV drives ATP synthesis via ATP synthase (Complex V). OXPHOS generates ~90% of cellular ATP.
 
-## Electron Transport Chain (ETC)
+## Evidence
+> "OXPHOS is where biochemistry meets bioenergetics — the final common pathway of aerobic metabolism." (Mitochondrial medicine)
+
+## Electron Transport Chain (ETC) — Clinical Breakdown
 
 ### Complex I (NADH Dehydrogenase)
-- **Input:** NADH from TCA, β-oxidation, glycolysis
-- **Output:** 4H⁺ pumped to intermembrane space
-- **Inhibitors:** Rotenone, metformin (mild)
-- **Cofactors:** FMN (B2-derived), iron-sulfur clusters
+| Aspect | Detail |
+|--------|--------|
+| **Input** | NADH from TCA, β-oxidation, glycolysis |
+| **Output** | 4H⁺ pumped → ~2.5 ATP per NADH |
+| **Cofactors** | FMN (B2-derived), iron-sulfur clusters |
+| **Inhibitors** | Rotenone, metformin (mild), pesticides |
+| **Clinical marker** | Elevated NADH/NAD⁺ ratio, lactate/pyruvate ↑ |
 
 ### Complex II (Succinate Dehydrogenase)
-- **Input:** FADH₂ from succinate (TCA cycle)
-- **Output:** No proton pumping (FADH₂ → lower yield)
-- **Unique:** Also part of TCA cycle
-- **Inhibitors:** Malonate, 3-nitropropionate
+| Aspect | Detail |
+|--------|--------|
+| **Input** | FADH₂ from succinate (TCA) |
+| **Output** | NO proton pumping (FADH₂ → lower ATP yield) |
+| **Unique** | Also TCA cycle enzyme (dual function) |
+| **Clinical marker** | Succinate ↑ = Complex II dysfunction |
 
 ### Complex III (Cytochrome bc1)
-- **Input:** Reduced CoQ (ubiquinol)
-- **Output:** 4H⁺ pumped
-- **Mechanism:** Q-cycle
-- **Inhibitors:** Antimycin A
+| Aspect | Detail |
+|--------|--------|
+| **Input** | Reduced CoQ (ubiquinol) from Complex I/II |
+| **Output** | 4H⁺ pumped; cytochrome c reduced |
+| **Mechanism** | Q-cycle |
+| **Clinical relevance** | CoQ10 critical here |
 
 ### Complex IV (Cytochrome c Oxidase)
-- **Input:** Reduced cytochrome c
-- **Output:** 2H⁺ pumped; O₂ → H₂O
-- **Terminal oxidase:** Consumes oxygen
-- **Inhibitors:** Cyanide, CO, azide
+| Aspect | Detail |
+|--------|--------|
+| **Input** | Reduced cytochrome c |
+| **Output** | 2H⁺ pumped; O₂ → H₂O |
+| **Oxygen requirement** | Absolute — final electron acceptor |
+| **Clinical marker** | Hypoxia → lactate ↑, energy crisis |
 
-### ATP Synthase (Complex V)
-- **Input:** Proton motive force (ΔpH + ΔΨ)
-- **Output:** ATP from ADP + Pi
-- **Mechanism:** Rotary catalysis
-- **Inhibitors:** Oligomycin
+### Complex V (ATP Synthase)
+| Aspect | Detail |
+|--------|--------|
+| **Mechanism** | Proton gradient drives rotational catalysis |
+| **Output** | ATP from ADP + Pi |
+| **Inhibitors** | Oligomycin (antibiotic) |
+| **Clinical relevance** | Membrane potential required; cardiolipin-dependent |
 
-## Proton Motive Force
-**Δp = ΔΨ + (2.3RT/F) × ΔpH**
-- ~90% from membrane potential (ΔΨ)
-- ~10% from pH gradient
-- **Total:** ~200 mV across inner membrane
+## Clinical Interpretation
 
-## ATP Yield
-| Source | ATP per molecule |
-|--------|-----------------|
-| NADH (matrix) | 2.5 ATP |
-| NADH (cytosolic) | 1.5-2.5 ATP (shuttle-dependent) |
-| FADH₂ | 1.5 ATP |
+### OAT/Metabolic Markers of OXPHOS Dysfunction
 
-## Clinical Dysfunction Patterns
-| Pattern | Cause | Intervention |
-|---------|-------|--------------|
-| Elevated lactate/pyruvate | ETC block | CoQ10, B2, B3 |
-| Low ATP symptoms (fatigue) | Complex V issue | , CoQ10 |
-| Hypoxia markers | Complex IV limitation | Oxygen, B12 |
-| Oxidative stress | Electron leak | Antioxidants |
+| Marker | Interpretation | Clinical Action |
+|--------|----------------|-----------------|
+| Lactate ↑ | Anaerobic shift (OXPHOS failure) | Check oxygenation, CoQ10, B-vitamins |
+| Succinate ↑ | Complex II dysfunction | CoQ10, B2, check hypoxia |
+| Elevated NADH markers | Complex I bottleneck | B2 (FMN), Fe-S support |
+| Low ATP precursors | General OXPHOS impairment | Comprehensive mitochondrial support |
 
-## Related
-- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]
-- -Function]
+### Cofactors Required for OXPHOS
+- **CoQ10** (ubiquinone) — electron shuttle between Complexes I/II → III
+- **B2 (riboflavin)** — FMN (Complex I) and FAD (Complex II) precursor
+- **B3 (niacin)** — NAD⁺ precursor
+- **Iron** — Fe-S clusters (Complex I, II, III)
+- **Copper** — Complex IV (cytochrome c oxidase)
+- **Magnesium** — ATP-Mg complex formation
+- **Cardiolipin** — inner membrane phospholipid essential for Complex IV
+
+## Energy Yield Summary
+
+| Substrate | Entry Point | ATP Yield |
+|-----------|-------------|-----------|
+| NADH | Complex I | ~2.5 ATP |
+| FADH₂ | Complex II | ~1.5 ATP |
+| **Total per glucose** | Full oxidation | ~30-32 ATP |
+
+## Context
+OXPHOS is the **final common pathway** where:
+- All macronutrients converge (carbs, fats, proteins)
+- Oxygen becomes essential
+- Most ATP is generated
+- Mitochondrial disease manifests
+
+OXPHOS dysfunction → **universal energy crisis** affecting all tissues, especially brain, muscle, heart.
 
 ---
-*Source: CGPT-0022 — Mitochondrial biochemistry*
 
+## Structural Links
+- **Up:** [[MOC-Mitochondrial-Function]] — Thematic entry
+- **Source:** [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]] — Origin
 
-## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]
-- 
-- 
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Lateral Links (Verified Real Zettels)
+- [[ATP_Yield_Comparison_Z-001-1258]] — Energy yield comparison
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]] — Cofactor detail
+- [[Cardiolipin_Omega_6_Mitochondrial_Dysfunction_Z-001-0949]] — Membrane component
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] — Deficiency patterns
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+*Z-001-1050 | Created: 2026-03-08 | Source: CGPT-0022*
