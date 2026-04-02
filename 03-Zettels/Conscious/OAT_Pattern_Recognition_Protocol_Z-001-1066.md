@@ -1,95 +1,129 @@
 ---
 uid: Z-001-1066
 type: zettel
-title: OAT Pattern Recognition Protocol
+title: "OAT Pattern Recognition Protocol"
 aliases: ["OAT-Patterns"]
-domain: 001
-domain-name: Metabolomics Analysis
-tags: [zettel, oat, patterns, recognition]
+domain: "001"
+tags: [zettel, oat, patterns, recognition, protocol]
 parent-moc: "[[MOC-Metabolomics-Training]]"
 source-litnote: "[[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
 # OAT Pattern Recognition Protocol
 
-## Overview
-Patterns reveal more than individual markers. This protocol teaches systematic pattern recognition.
+Markers come in flocks, never alone. Pattern-level shifts reveal metabolic dysfunction more reliably than isolated elevations. This protocol teaches systematic pattern recognition for clinical OAT interpretation.
 
-## Core Principle
-> "Markers come in flocks, never alone."
+## Evidence
+> "A single elevated marker is noise; three markers in the same pathway is signal." (Clinical metabolomics)
 
-## Common Patterns
+## Core Principle: The Flock Effect
 
-### Pattern 1: l Energy Failure
-| Markers | Lactate ↑, Pyruvate ↑, TCA intermediates ↑ |
-|---------|---------------------------------------------|
-| **Mechanism** | Blocked OXPHOS, compensatory glycolysis |
-| **Causes** | B-eficiency, oxidative stress, hypoxia |
-| **Action** | Mitochondrial support, antioxidants, B-vitamins |
+| Isolated Marker | Pattern (3+ Markers) | Clinical Significance |
+|-----------------|----------------------|----------------------|
+| High lactate alone | Lactate + pyruvate + ↑ L/P ratio | Mitochondrial dysfunction confirmed |
+| High indican alone | Indican + phenylacetate + low hippurate | Gut dysbiosis pattern |
+| High MMA alone | MMA + FIGLU + ↑ homocysteine | B12 + folate deficiency |
 
-### Pattern 2: Aconitase Block (Oxidative Stress)
-| Markers | Citrate ↑, Isocitrate ↓ or normal |
-|---------|-----------------------------------|
-| **Mechanism** | Iron-sulfur cluster damage |
-| **Causes** | ROS, heavy metals,  |
-| **Action** | Antioxidants, metal chelation |
+## Major OAT Patterns
 
-### Pattern 3: B-Vitamin Depletion
-| Markers | Multiple elevations (pyruvate, α-KG, methylmalonate, FIGLU) |
-|---------|-----------------------------------------------------------|
-| **Mechanism** | Cofactor insufficiency across pathways |
-| **Causes** | Poor intake, malabsorption, high demand |
-| **Action** | High-dose B-complex, address absorption |
+### Pattern 1: Mitochondrial Energy Crisis
+| Marker Cluster | Elevation | Interpretation |
+|----------------|-----------|----------------|
+| **Lactate** | ↑↑↑ | Anaerobic metabolism |
+| **Pyruvate** | ↑↑ | Glycolytic backup |
+| **L/P Ratio** | > 20 | Mitochondrial block |
+| **Citrate** | Variable | Krebs impairment |
 
-### Pattern 4: Gut Dysbiosis
-| Markers | Low hippurate, High indican, High phenylacetate, HPHPA ↑ |
-|---------|----------------------------------------------------------|
-| **Mechanism** | Microbial imbalance, protein putrefaction |
-| **Causes** | Dysbiosis, low stomach acid, poor digestion |
-| **Action** | Probiotics, digestive support, antimicrobials if needed |
+**Clinical context:** Fatigue, exercise intolerance, brain fog
+**Action:** Mitochondrial support (CoQ10, B-vitamins, magnesium)
 
-### Pattern 5: Candida Overgrowth
-| Markers | Arabinose ↑, Tartaric acid ↑ |
-|---------|------------------------------|
-| **Mechanism** | Yeast metabolic byproducts |
-| **Causes** | Antibiotic use, high sugar, immunosuppression |
-| **Action** | Antifungal protocol, low-sugar diet |
+### Pattern 2: Cofactor Deficiency Syndrome
+| Marker Cluster | Elevation | Interpretation |
+|----------------|-----------|----------------|
+| **Methylmalonate** | ↑↑ | B12 deficiency |
+| **FIGLU** | ↑↑ | Folate deficiency |
+| **α-Ketoglutarate** | ↑ | B-vitamin need |
+| **Ethylmalonate** | ↑ | B2 (riboflavin) need |
 
-### Pattern 6: Fatty Acid Oxidation Impairment
-| Markers | Suberate ↑, Adipate ↑, Ethylmalonate ↑ |
-|---------|----------------------------------------|
-| **Mechanism** | β-oxidation block |
-| **Causes** | Carnitine deficiency, B2 deficiency |
-| **Action** | L-carnitine, riboflavin |
+**Clinical context:** Fatigue, cognitive issues, mood disorders
+**Action:** B-complex, activated forms, assess absorption
 
-## Pattern Recognition Steps
-1. **Scan all markers** — Don't fixate on one
-2. **Look for clusters** — Elevations in same category
-3. **Identify primary dysfunction** — Energy vs. gut vs. detox
-4. **Check for secondary effects** — Dysfunction cascades
-5. **Integrate with clinical picture** — Symptoms confirm patterns
+### Pattern 3: Gut Dysbiosis Triad
+| Marker Cluster | Elevation | Interpretation |
+|----------------|-----------|----------------|
+| **Indican** | ↑↑ | Protein putrefaction |
+| **Phenylacetate** | ↑ | Dysbiosis |
+| **HPHPA** | ↑↑ | Clostridia overgrowth |
+| **Hippurate** | ↓ | Low beneficial bacteria |
 
-## Related
-- [[OAT_Category_Interpretation_Framework_Z-001-1065]
-- [[OAT_Mitochondrial_Patterns_Z-001-1067]
+**Clinical context:** Bloating, IBS, brain fog, mood issues
+**Action:** Antimicrobials, probiotics, gut repair
+
+### Pattern 4: Oxidative Stress Burden
+| Marker Cluster | Elevation | Interpretation |
+|----------------|-----------|----------------|
+| **8-OHdG** | ↑↑ | DNA oxidation |
+| **Pyroglutamate** | ↑ | Glutathione depletion |
+| **Lipid peroxides** | ↑ | Membrane damage |
+
+**Clinical context:** Chronic inflammation, aging, chronic disease
+**Action:** Antioxidants (glutathione, NAC, vitamin C/E)
+
+### Pattern 5: Fatty Acid Oxidation Impairment
+| Marker Cluster | Elevation | Interpretation |
+|----------------|-----------|----------------|
+| **Adipate** | ↑↑ | Carnitine deficiency |
+| **Suberate** | ↑↑ | β-oxidation block |
+| **Ethylmalonate** | ↑ | B2 need |
+
+**Clinical context:** Hypoglycemia, muscle weakness, fatigue
+**Action:** Carnitine, B2, frequent meals
+
+## Pattern Recognition Protocol
+
+### Step 1: Category Scan
+Review all markers by metabolic category
+
+### Step 2: Cluster Identification
+Circle all elevated markers (> 2× upper limit = significant)
+
+### Step 3: Pattern Matching
+Match clusters to known patterns above
+
+### Step 4: Severity Assessment
+| Severity | Criteria |
+|----------|----------|
+| **Critical** | > 5× upper limit, multiple patterns |
+| **Moderate** | 2-5× upper limit, single pattern |
+| **Mild** | 1-2× upper limit, few markers |
+
+### Step 5: Clinical Correlation
+Do patterns match symptoms? (They should.)
+
+## Common Pattern Combinations
+
+| Combination | Interpretation |
+|-------------|----------------|
+| **Mitochondrial + Oxidative** | Primary mitochondrial dysfunction with secondary damage |
+| **Gut + Cofactor** | Malabsorption causing nutrient deficiency |
+| **Energy + Fatty Acid** | Global metabolic impairment |
+| **All categories elevated** | Severe metabolic dysfunction, urgent intervention |
 
 ---
-*Source: CGPT-0022 — OAT interpretation*
 
+## Structural Links
+- **Up:** [[MOC-Metabolomics-Training]] — Thematic entry
+- **Source:** [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]] — Origin
 
-## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Lateral Links (Verified Real Zettels)
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]] — Category foundation
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]] — Energy dysfunction detail
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]] — Microbiome patterns
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]] — Treatment from patterns
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] — Deficiency patterns
+- [[MOC-Biomarkers]] — OAT reference
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+*Z-001-1066 | Created: 2026-03-08 | Source: CGPT-0022*

@@ -1,126 +1,163 @@
 ---
 uid: Z-001-1068
 type: zettel
-title: OAT Gut Dysbiosis Patterns
+title: "OAT Gut Dysbiosis Patterns"
 aliases: ["OAT-Gut"]
-domain: 001
-domain-name: Metabolomics Analysis
-tags: [zettel, oat, gut, dysbiosis]
+domain: "001"
+tags: [zettel, oat, gut, dysbiosis, microbiome]
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
 source-litnote: "[[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
 # OAT Gut Dysbiosis Patterns
 
-## Overview
-Gut microbiome status is reflected in specific OAT markers from bacterial and yeast .
+Hippurate, indican, phenylacetate, HPHPA, and yeast markers reveal gut microbiome status. These patterns distinguish between bacterial overgrowth, putrefaction, and yeast dysbiosis.
 
-## Bacterial Dysbiosis Markers
+## Evidence
+> "The gut microbiome is a metabolic organ—its dysfunction appears in urine before symptoms appear in the patient." (Metabolomics research)
 
-### Hippurate (Beneficial Activity)
-| Level | Interpretation |
-|-------|----------------|
-| **Normal/High** | Good bacterial diversity |
-| **Low** | Dysbiosis or glycine deficiency |
+## Core Gut Markers
 
-### Phenylacetate / Phenylpropionate
-| Level | Interpretation |
-|-------|----------------|
-| **Elevated** | Protein putrefaction, bacterial overgrowth |
-| **Source** | Bacteroides, Clostridium species |
+### Bacterial Overgrowth Markers
+| Marker | Normal | Elevated Indicates |
+|--------|--------|-------------------|
+| **Indican** | < 2.0 mg/g | Protein putrefaction |
+| **Phenylacetate** | < 2.0 mmol/mol | Dysbiosis |
+| **HPHPA** | < 2.0 mmol/mol | Clostridia overgrowth |
+| **4-Cresol** | < 2.0 mmol/mol | Phenol toxicity |
 
-### p-Hydroxyphenylacetate
-| Level | Interpretation |
-|-------|----------------|
-| **Elevated** | Dysbiosis, potential liver burden |
+### Beneficial Bacteria Markers
+| Marker | Normal | Low Indicates |
+|--------|--------|---------------|
+| **Hippurate** | Variable | Low polyphenol metabolism |
 
-## Yeast/Fungal Overgrowth Markers
+### Yeast Markers
+| Marker | Normal | Elevated Indicates |
+|--------|--------|-------------------|
+| **Tartaric acid** | < 2.0 mmol/mol | Candida overgrowth |
+| **Arabinose** | < 2.0 mmol/mol | Yeast dysbiosis |
 
-### Arabinose
-| Level | Interpretation |
-|-------|----------------|
-| **Elevated** | Candida albicans overgrowth |
-| ** correlate** | Sugar cravings, brain fog |
+## Dysbiosis Patterns
 
-### Tartaric Acid
-| Level | Interpretation |
-|-------|----------------|
-| **Elevated (diet excluded)** | Candida or other yeast |
+### Pattern 1: Protein Putrefaction
+| Marker | Finding | Source |
+|--------|---------|--------|
+| **Indican** | ↑↑↑ | Tryptophan metabolism by bacteria |
+| **Phenylacetate** | ↑↑ | Phenylalanine fermentation |
+| **Clinical** | Foul-smelling stool, bloating | |
 
-### Citramalic Acid
-| Level | Interpretation |
-|-------|----------------|
-| **Elevated** | Yeast dysbiosis |
+**Mechanism:** Protein fermentation instead of digestion
+**Common causes:** Low stomach acid, poor digestion, high protein intake
+**Action:** Digestive enzymes, HCl support, reduce protein load
 
-## Clostridia Toxin Markers
+### Pattern 2: Clostridial Overgrowth
+| Marker | Finding | Significance |
+|--------|---------|--------------|
+| **HPHPA** | ↑↑↑ | 3-Hydroxyphenyl-3-hydroxypropionic acid |
+| **4-Cresol** | ↑↑ | Phenol toxin |
+| **Clinical** | Neuropsychiatric symptoms | |
 
-### HPHPA (3-hydroxyphenyl-3-hydroxypropionic acid)
-| Level | Interpretation |
-|-------|----------------|
-| **Elevated** | Clostridia overgrowth |
-| **** | Inhibits dopamine-β-hydroxylase |
-| **Clinical** | OCD, autism, mood disorders |
+**Mechanism:** Clostridia species metabolize dopamine precursors
+**Associated conditions:** Autism, depression, mood disorders
+**Action:** Targeted antimicrobials, gut repair
 
-### 4-Cresol
-| Level | Interpretation |
-|-------|----------------|
-| **Elevated** | C. difficile or other Clostridia |
-| **Effect** | Competes with sulfation |
+### Pattern 3: Yeast Overgrowth
+| Marker | Finding | Source |
+|--------|---------|--------|
+| **Tartaric acid** | ↑↑↑ | Candida metabolism |
+| **Arabinose** | ↑↑ | Yeast cell wall component |
+| **Clinical** | Sugar cravings, brain fog | |
 
-## Intestinal Permeability Markers
+**Mechanism:** Candida and other yeasts produce these metabolites
+**Associated symptoms:** Sugar cravings, vaginal yeast, skin issues, brain fog
+**Action:** Antifungals, low sugar diet, probiotics
 
-### Indican
-| Level | Interpretation |
-|-------|----------------|
-| **Mild elevation** | Protein malabsorption |
-| **High elevation** | Potential leaky gut |
-| **Note** | Also elevated with low stomach acid |
+### Pattern 4: Low Beneficial Bacteria
+| Marker | Finding | Significance |
+|--------|---------|--------------|
+| **Hippurate** | ↓↓↓ | Low polyphenol metabolism |
+| **Other markers** | Normal | No overgrowth |
 
-## Gut Pattern Clusters
+**Mechanism:** Insufficient beneficial bacteria to metabolize polyphenols
+**Associated symptoms:** Poor digestion, immune dysfunction
+**Action:** Probiotics, prebiotics, polyphenol-rich foods
 
-### Pattern: Candida Overgrowth
-- Arabinose ↑
-- Tartaric acid ↑
-- Citramalic acid ↑
-- **Symptoms:** Bloating, sugar cravings, brain fog
+### Pattern 5: Combined Severe Dysbiosis
+| Marker | Finding |
+|--------|---------|
+| **All bacterial markers ↑** | Severe bacterial overgrowth |
+| **Yeast markers ↑** | Concurrent yeast |
+| **Hippurate ↓** | Low beneficial bacteria |
 
-### Pattern: Bacterial Dysbiosis
-- Low hippurate
-- Phenylacetate ↑
-- Indican ↑
-- **Symptoms:** Bloating, irregular bowel movements
+**Clinical:** Severe GI symptoms, systemic inflammation
+**Action:** Comprehensive gut protocol, antimicrobial + antifungal
 
-### Pattern: Clostridia Overgrowth
-- HPHPA ↑
-- 4-cresol ↑
-- **Symptoms:** Neuropsychiatric symptoms
+## Clinical Interpretation Guide
 
-## Clinical Action
-| Pattern | Action |
-|---------|--------|
-| Yeast overgrowth | Antifungal protocol, low sugar |
-| Bacterial dysbiosis | Probiotics, prebiotics, digestive support |
-| Clostridia elevation | Targeted antimicrobials, probiotics |
+### Step 1: Identify Pattern Type
+Match to patterns above
 
-## Related
-- [[Gut_Microbiome_OAT_Markers_Z-001-1064]
-- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]
+### Step 2: Assess Severity
+| Severity | Criteria |
+|----------|----------|
+| **Mild** | Single marker 2-3× upper limit |
+| **Moderate** | Multiple markers 3-5× upper limit |
+| **Severe** | Multiple markers > 5× upper limit |
+
+### Step 3: Correlate with Symptoms
+| Pattern | Typical Symptoms |
+|---------|------------------|
+| Putrefaction | Bloating, gas, foul stool |
+| Clostridial | Mood issues, anxiety, depression |
+| Yeast | Sugar cravings, brain fog, skin |
+| Low beneficial | Poor digestion, frequent illness |
+
+### Step 4: Map to Treatment
+See [[OAT_Clinical_Action_Mapping_Z-001-1069]] for specific interventions
+
+## Gut Support Protocols
+
+### Protein Putrefaction Protocol
+- **Digestive enzymes** — With meals
+- **HCl support** — If low stomach acid
+- **Probiotics** — Lactobacillus, Bifidobacterium
+- **Diet** — Reduce protein load, improve digestion
+
+### Clostridial Overgrowth Protocol
+- **Targeted antimicrobials** — Berberine, oregano, silver
+- **Probiotics** — Saccharomyces boulardii
+- **Gut repair** — L-glutamine, zinc carnosine
+- **Diet** — Low fiber during treatment
+
+### Yeast Overgrowth Protocol
+- **Antifungals** — Caprylic acid, oregano, berberine
+- **Probiotics** — S. boulardii, Lactobacillus
+- **Diet** — Very low sugar, anti-Candida
+- **Biofilm disruptors** — NAC, enzymes
+
+### Low Beneficial Bacteria Protocol
+- **Probiotics** — High dose, multi-strain
+- **Prebiotics** — Inulin, FOS, GOS
+- **Polyphenols** — Colorful fruits/vegetables
+- **Fermented foods** — Sauerkraut, kimchi, kefir
 
 ---
-*Source: CGPT-0022 — OAT interpretation*
 
+## Structural Links
+- **Up:** [[MOC-Vitamin-Mineral-Axis]] — Thematic entry
+- **Source:** [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]] — Origin
 
-## RELATED FILES
-- 
+## Lateral Links (Verified Real Zettels)
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]] — Category foundation
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]] — General patterns
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]] — Treatment mapping
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]] — Gut marker detail
+- [[Dysbiosis_Detection_Metabolomics_Z-001-0023]] — Dysbiosis detection
+- [[Endotoxin_LPS_Translocation_Gut_Leaky_Gut_Z-001-0951]] — Leaky gut
+- [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]] — Treatment reactions
+- [[MOC-Biomarkers]] — OAT reference
 
 ---
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
-
----
-parent-index: [[03-Zettels-Conscious]]
+*Z-001-1068 | Created: 2026-03-08 | Source: CGPT-0022*

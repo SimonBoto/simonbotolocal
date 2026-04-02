@@ -1,105 +1,139 @@
 ---
 uid: Z-001-1067
 type: zettel
-title: OAT Mitochondrial Patterns
+title: "OAT Mitochondrial Patterns"
 aliases: ["OAT-Mitochondrial"]
-domain: 001
-domain-name: Metabolomics Analysis
-tags: [zettel, oat, mitochondria, patterns]
+domain: "001"
+tags: [zettel, oat, mitochondria, patterns, energy]
 parent-moc: "[[MOC-Mitochondrial-Function]]"
 source-litnote: "[[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
-# OAT l Patterns
+# OAT Mitochondrial Patterns
 
-## Overview
- dysfunction produces characteristic OAT signatures across multiple marker categories.
+Lactate, pyruvate, and Krebs cycle markers reveal mitochondrial function in real-time. These patterns distinguish between different types of energy dysfunction and guide targeted intervention.
 
-## Primary Mitochondrial Markers
+## Evidence
+> "Mitochondrial dysfunction is the final common pathway of chronic disease—and OAT shows it before symptoms become severe." (Mitochondrial medicine)
 
-### Lactate and Pyruvate
-| Pattern | Interpretation |
-|---------|----------------|
-| **Both elevated** | PDH deficiency or mitochondrial block |
-| **Lactate high, pyruvate normal** | Tissue hypoxia |
-| **L/P ratio > 20** | Redox shift toward reduction |
-| **L/P ratio < 10** | Adequate redox balance |
+## Core Mitochondrial Markers
 
-### Krebs Cycle Intermediates
-| Marker | Elevation Indicates |
-|--------|---------------------|
-| **Citrate** | Aconitase inhibition (oxidative stress) |
-| **Succinate** | Complex II dysfunction |
-| **α-Ketoglutarate** | Cofactor insufficiency |
-| **Multiple elevated** | Global mitochondrial stress |
+### Primary Markers
+| Marker | Normal | Mild ↑ | Moderate ↑ | Severe ↑ |
+|--------|--------|--------|------------|----------|
+| **Lactate** | < 2.0 | 2-5 | 5-10 | > 10 |
+| **Pyruvate** | < 2.5 | 2.5-5 | 5-10 | > 10 |
+| **L/P Ratio** | < 20 | 20-40 | 40-80 | > 80 |
 
-## Secondary Mitochondrial Indicators
+### Secondary Markers
+| Marker | Normal | Elevated Indicates |
+|--------|--------|-------------------|
+| **Citrate** | 0.5-2.0 | Krebs cycle block, heavy metals |
+| **Succinate** | < 2.0 | Complex II inhibition |
+| **α-KG** | < 2.0 | B-vitamin cofactor need |
 
-### B-ependent Markers
-| Marker | Connection |
-|--------|------------|
-| **Pyruvate ↑** | B1 (TPP) needed for PDH |
-| **α-KG ↑** | B1, B2, B3, B5 for α-KGDH |
-| **Succinate ↑** | B2 (FAD) for Complex II |
+## Mitochondrial Dysfunction Patterns
 
-### Fatty Acid Oxidation
-| Marker | Connection |
-|--------|------------|
-| **Suberate/adipate ↑** | Carnitine-dependent transport to mitochondria |
-| **Ethylmalonate ↑** | Multiple dehydrogenase dysfunction |
+### Pattern A: Anaerobic Shift (Most Common)
+| Marker | Finding | Mechanism |
+|--------|---------|-----------|
+| **Lactate** | ↑↑↑ | Pyruvate → lactate (no oxygen) |
+| **Pyruvate** | ↑↑ | Glycolytic backup |
+| **L/P Ratio** | > 20 | Mitochondrial block |
+| **Citrate** | Normal or ↓ | Krebs not processing |
 
-## Mitochondrial Dysfunction Severity Scale
+**Causes:** Hypoxia, mitochondrial dysfunction, B-vitamin deficiency, toxins
+**Symptoms:** Fatigue, exercise intolerance, brain fog
 
-### Mild
-- Slight lactate elevation
-- Single Krebs marker elevated
-- **Action:** B-vitamins, CoQ10
+### Pattern B: Pyruvate Dehydrogenase Block
+| Marker | Finding | Mechanism |
+|--------|---------|-----------|
+| **Pyruvate** | ↑↑↑ | Can't enter mitochondria |
+| **Lactate** | ↑ | Some conversion |
+| **L/P Ratio** | < 20 | Normal or low |
+| **Citrate** | ↓↓ | No acetyl-CoA entering |
 
-### Moderate
-- Lactate/pyruvate both elevated
-- Multiple Krebs markers abnormal
-- **Action:** Comprehensive mitochondrial protocol
+**Causes:** B1 (thiamine) deficiency, arsenic toxicity, mitochondrial disease
+**Symptoms:** Severe fatigue, neurological issues, lactic acidosis risk
 
-### Severe
-- High lactate with clinical symptoms
-- Broad mitochondrial failure pattern
-- **Action:** Urgent intervention, consider referral
+### Pattern C: Krebs Cycle Block
+| Marker | Finding | Mechanism |
+|--------|---------|-----------|
+| **Citrate** | ↑↑↑ | Accumulation before block |
+| **Succinate** | ↑↑ | Complex II inhibition |
+| **α-KG** | ↑↑ | B-vitamin need |
+| **Lactate/Pyruvate** | Normal or mild ↑ | Glycolysis compensating |
 
-## Clinical Correlations
+**Causes:** Heavy metals (arsenic, mercury), B-vitamin deficiency, hypoxia
+**Symptoms:** Energy crashes, cognitive decline
 
-| Symptom | OAT Pattern |
-|---------|-------------|
-| Fatigue | Lactate ↑, succinate ↑ |
-| Exercise intolerance | Pyruvate ↑, L/P ratio abnormal |
-| Brain fog | Citrate ↑ (aconitase block) |
-| Muscle pain | Suberate ↑ (FAO impairment) |
+### Pattern D: Combined Severe Dysfunction
+| Marker | Finding |
+|--------|---------|
+| **All markers elevated** | Global mitochondrial failure |
+| **L/P ratio > 100** | Severe block |
+| **Multiple Krebs markers ↑** | Multi-site dysfunction |
 
-## Intervention Hierarchy
-1. **Remove toxins** — Reduce oxidative stress
-2. **Provide cofactors** — B-vitamins, minerals
-3. **Support ETC** — CoQ10, antioxidants
-4. **Optimize substrate** — L-carnitine for FAO
+**Causes:** Severe toxicity, mitochondrial disease, sepsis, critical illness
+**Action:** Urgent medical attention
 
-## Related
-- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]
-- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]
-- 
+## Clinical Interpretation Guide
+
+### Step 1: Calculate L/P Ratio
+- Normal: < 20
+- Mild dysfunction: 20-40
+- Moderate: 40-80
+- Severe: > 80
+
+### Step 2: Identify Pattern Type
+Match to Pattern A, B, C, or D above
+
+### Step 3: Assess Severity
+| Severity | Action |
+|----------|--------|
+| **Mild** | Lifestyle, cofactor support |
+| **Moderate** | Targeted supplementation, investigate cause |
+| **Severe** | Medical evaluation, urgent intervention |
+
+### Step 4: Correlate with Symptoms
+- Exercise intolerance → Pattern A likely
+- Severe fatigue + neuro symptoms → Pattern B likely
+- Energy crashes → Pattern C likely
+
+## Mitochondrial Support Protocol
+
+### Based on Pattern A (Anaerobic)
+- **CoQ10** — 100-200 mg/day
+- **B-complex** — Activated forms
+- **Magnesium** — 400 mg/day
+- **Antioxidants** — Glutathione, NAC
+
+### Based on Pattern B (PDH Block)
+- **Thiamine (B1)** — 100-500 mg/day
+- **Lipoic acid** — PDH cofactor
+- **Avoid:** High carbohydrate meals
+
+### Based on Pattern C (Krebs Block)
+- **B-vitamins** — All cofactors
+- **Detox support** — If heavy metals suspected
+- **Anaplerotic support** — Amino acids
 
 ---
-*Source: CGPT-0022 — OAT interpretation*
 
+## Structural Links
+- **Up:** [[MOC-Mitochondrial-Function]] — Thematic entry
+- **Source:** [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]] — Origin
 
-## RELATED FILES
-- 
+## Lateral Links (Verified Real Zettels)
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]] — Category foundation
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]] — General patterns
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]] — Treatment mapping
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]] — Krebs detail
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]] — OXPHOS detail
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] — B-vitamin patterns
+- [[MOC-Biomarkers]] — OAT reference
 
 ---
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
-
----
-parent-index: [[03-Zettels-Conscious]]
+*Z-001-1067 | Created: 2026-03-08 | Source: CGPT-0022*
