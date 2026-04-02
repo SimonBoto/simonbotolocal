@@ -5,7 +5,7 @@ title: Biomarker Deep Dive Template v1.1
 aliases: [TEMPLATE-001, Biomarker-Template, Lab-Interpretation-Template]
 domain: template
 tags: [template, biomarker, lab-interpretation, clinical, reference]
-parent-moc: 
+parent-moc: "[[MOC-Biomarkers]]"
 status: template
 created: 2026-03-30
 updated: 2026-04-01
@@ -447,15 +447,15 @@ updated: 2026-04-01
 
 ## RELATED BIOMARKERS
 
-- [[{{Related_Biomarker_1}}_[B-XXX-XXXX]: [Relationship]
-- [[{{Related_Biomarker_2}}_[B-XXX-XXXX]: [Relationship]
-- [[{{Related_Biomarker_3}}_[B-XXX-XXXX]: [Relationship]
+- [[{{Related_Biomarker_1}}_{{B-XXX-XXXX}}]] — [Relationship]
+- [[{{Related_Biomarker_2}}_{{B-XXX-XXXX}}]] — [Relationship]
+- [[{{Related_Biomarker_3}}_{{B-XXX-XXXX}}]] — [Relationship]
 
 ---
 
 ## SYNTHESIS CONNECTIONS
 
-- [[{{Synthesis_Title}}_[S-XXX-XXXX]: [How this biomarker contributes to broader synthesis]
+- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}]] — [How this biomarker contributes to broader synthesis]
 
 ---
 
