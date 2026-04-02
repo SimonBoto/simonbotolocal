@@ -52,8 +52,6 @@ I Want it to be expert in analysisng urine organic acids and serum free fatty ac
 
 ## Connections
 
-- [[03-Zettels/RON/RON_Adipic_Acid_Biomarker_RON-000-0008]]
-- [[03-Zettels/RON/RON_Metabolomics_Phenotype_RON-000-0007]]
 
 ## Status
 

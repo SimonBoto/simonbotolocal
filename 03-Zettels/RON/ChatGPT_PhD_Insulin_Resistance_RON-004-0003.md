@@ -159,7 +159,6 @@ This conversation is the **foundation stone** — everything built on it (30 cyc
 
 - [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001|RON Genesis MOC]] — Complete origin story
 - [[ChatGPT_Metabolomics_PhD_Titles_RON-004-0002|Metabolomics PhD Titles] — The first conversation
-- [[03-Zettels/RON/RON_Adipic_Acid_Biomarker_RON-000-0008|Adipic Acid Biomarker]] — Current research focus
 
 ---
 

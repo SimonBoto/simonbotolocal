@@ -55,8 +55,6 @@ The head of the clinic is Dr Dimitris tsoukalas (search him online). He is innov
 
 ## Connections
 
-- [[03-Zettels/RON/RON_Adipic_Acid_Biomarker_RON-000-0008]]
-- [[03-Zettels/RON/RON_Metabolomics_Phenotype_RON-000-0007]]
 
 ## Status
 

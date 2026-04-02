@@ -64,8 +64,6 @@ The proposed PhD research aims at the advancement of early diagnostic strategies
 
 ## Connections
 
-- [[03-Zettels/RON/RON_Adipic_Acid_Biomarker_RON-000-0008]]
-- [[03-Zettels/RON/RON_Metabolomics_Phenotype_RON-000-0007]]
 
 ## Status
 

@@ -50,7 +50,6 @@ If true, this suggests:
 
 ## Connections
 
-- [[03-Zettels/RON/RON_Adipic_Acid_Biomarker_RON-000-0008]]
 
 ## Validation Log
 

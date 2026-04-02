@@ -52,8 +52,6 @@ it would be nice if you could start by asking questions in a psychoanalytic styl
 
 ## Connections
 
-- [[03-Zettels/RON/RON_Adipic_Acid_Biomarker_RON-000-0008]]
-- [[03-Zettels/RON/RON_Metabolomics_Phenotype_RON-000-0007]]
 
 ## Status
 

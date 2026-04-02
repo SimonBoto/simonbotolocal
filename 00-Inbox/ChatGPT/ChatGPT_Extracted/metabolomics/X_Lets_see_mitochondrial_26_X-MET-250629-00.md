@@ -74,8 +74,6 @@ Let's start by optimising this prompt that will be the basis for all of the rest
 
 ## Connections
 
-- [[03-Zettels/RON/RON_Adipic_Acid_Biomarker_RON-000-0008]]
-- [[03-Zettels/RON/RON_Metabolomics_Phenotype_RON-000-0007]]
 
 ## Status
 

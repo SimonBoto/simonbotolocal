@@ -130,7 +130,6 @@ DISCOVER → VALIDATE → CONNECT → PROMOTE → USE
 ```markdown
 ## Related
 
-- [[03-Zettels/RON/RON_Adipic_Acid_Biomarker_RON-000-0008|RON_Adipic_Acid_Biomarker_RON-000-0008 — Extends this insight]]
 - [[03-Zettels/RON/ChatGPT_PhD_Insulin_Resistance_RON-004-0003|ChatGPT_PhD_Insulin_Resistance_RON-004-0003 — Methodology source]]
 ```
 

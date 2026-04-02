@@ -151,7 +151,6 @@ Your approach in 2023:
 
 - [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001|RON Genesis MOC]] — Complete origin story
 - [[ChatGPT_PhD_Insulin_Resistance_RON-004-0003|PhD in Insulin Resistance] — The foundation deepens
-- [[03-Zettels/RON/RON_Metabolomics_Phenotype_RON-000-0007|Metabolomics as Phenotype Bridge]] — Current expertise
 
 ---
 

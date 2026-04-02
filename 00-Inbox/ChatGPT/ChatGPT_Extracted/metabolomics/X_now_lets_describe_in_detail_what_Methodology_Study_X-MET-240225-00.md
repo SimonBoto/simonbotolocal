@@ -66,8 +66,6 @@ HbA1c<5.5% ΚΑΙ HOMA IR<1.9 ΚΑΙ Τριγλυκερίδια <100 ΚΑΙ φυ
 
 ## Connections
 
-- [[03-Zettels/RON/RON_Adipic_Acid_Biomarker_RON-000-0008]]
-- [[03-Zettels/RON/RON_Metabolomics_Phenotype_RON-000-0007]]
 
 ## Status
 
