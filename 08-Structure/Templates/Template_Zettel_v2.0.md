@@ -2,15 +2,15 @@
 uid: "{{T}}-{{DDD}}-{{SSSS}}"
 type: "zettel | zettel-claim | zettel-mech | zettel-cont | zettel-q"
 title: "{{Concise Title}}"
-aliases: ["{{UID}}", "{{ShortSlug}}"]
+aliases: ["{{ShortSlug}}"]  # Never use bare UID here - creates shadow notes
 domain: "{{DDD}}"
 domain-name: "{{DomainName}}"
 tags: ["zettel", "{{topic}}", "{{subtopic}}"]
 # Structural links (for navigation - digital necessity)
 parent-index: "[[03-Zettels-Conscious]]"
 # Semantic links (for thinking - Luhmann-style)
-parent-moc: ""
-related: []
+parent-moc: "[[MOC-Example]]"  # Change to actual thematic MOC
+related: []  # Add 2-3 lateral connections during review
 source: ""
 confidence: "high | medium | low"
 created: "{{YYYY-MM-DD}}"
@@ -36,7 +36,7 @@ extraction-date: "{{YYYY-MM-DD}}"
 **Purpose:** Lateral thinking, serendipity  
 **Style:** Content-based, Luhmann-style  
 **Examples:**
-- `related: [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]]` — idea connection
+- Content: "This connects to [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]]" — idea connection
 - Inline: "This contrasts with [[Lipotoxicity_Pathway_IR_Z-001-0029]]"
 
 **CRITICAL RULE:**
@@ -48,14 +48,14 @@ Bare UIDs like `[[Z-001-0041]` create empty notes. Always use full format: `Titl
 
 **Goal:** 2-3 lateral connections to *content-related* notes (not hierarchical)
 
-- {{Related_Zettel_1}}_{{Z-XXX-XXXX}} — {{Connection: how ideas relate}}
-- {{Related_Zettel_2}}_{{Z-XXX-XXXX}} — {{Connection: contrast or support}}
+- {{Related_Zettel_1_Z-XXX-XXXX}} — {{Connection: how ideas relate}}
+- {{Related_Zettel_2_Z-XXX-XXXX}} — {{Connection: contrast or support}}
 
 **Principle:** These create the "thinking graph" — serendipity through connection
 
 ## Synthesis Links
 
-- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}] — {{How this zettel contributes}}
+- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}]] — {{How this zettel contributes}}
 
 ## Context
 
