@@ -70,7 +70,7 @@ i will give it to you and i want you to turn it into a great chapter following t
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_RON-000-0008]]
+- [[03-Zettels/RON/RON_Adipic_Acid_Biomarker_RON-000-0008]]
 
 ## Status
 

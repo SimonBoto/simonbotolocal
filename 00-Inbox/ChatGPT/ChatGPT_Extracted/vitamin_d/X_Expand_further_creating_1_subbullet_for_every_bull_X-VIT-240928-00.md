@@ -75,7 +75,7 @@ each current bullet needs at least 3-7 subtopics
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_RON-000-0008]]
+- [[03-Zettels/RON/RON_Adipic_Acid_Biomarker_RON-000-0008]]
 
 ## Status
 

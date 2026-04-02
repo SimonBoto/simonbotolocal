@@ -72,8 +72,8 @@ Finally include quality in texted references. Minimum 1 per paragraph....
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_RON-000-0008]]
-- [[RON_Metabolomics_Phenotype_RON-000-0007]]
+- [[03-Zettels/RON/RON_Adipic_Acid_Biomarker_RON-000-0008]]
+- [[03-Zettels/RON/RON_Metabolomics_Phenotype_RON-000-0007]]
 
 ## Status
 

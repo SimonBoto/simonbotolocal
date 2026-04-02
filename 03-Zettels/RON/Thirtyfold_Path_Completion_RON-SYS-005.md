@@ -35,7 +35,7 @@ extraction-date: 2026-03-01
 | 29 | Ethics of Growth | Safeguards, responsibility, virtue |
 | 30 | The Unsayable | Wittgenstein, silence, completion |
 
-**Synthesis:** [[RON_SYNTHESIS_v4_COMPLETE]
+**Synthesis:** [[03-Zettels/RON/RON_SYNTHESIS_v4_COMPLETE]]
 
 ---
 

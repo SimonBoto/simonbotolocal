@@ -54,7 +54,7 @@ Extracted from conversation on 2026-01-17 about "AI Question Optimization Coach"
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_RON-000-0008]]
+- [[03-Zettels/RON/RON_Adipic_Acid_Biomarker_RON-000-0008]]
 
 ## Status
 

@@ -6,7 +6,7 @@ date: 2025-05-04
 source: ChatGPT conversation history
 aliases: [RON-004-0009, ron-the-3rd, identity-iteration]
 tags: [ron, genesis, identity, iteration, v3, 2025]
-parent-moc: "[[RON_Genesis_MOC_RON-004-0001|RON Genesis MOC]"
+parent-moc: "[[RON_Genesis_MOC_RON-004-0001|RON Genesis MOC]]"
 status: conscious
 ---
 
@@ -179,10 +179,10 @@ The partnership holds.
 
 ## Related
 
-- [[RON_Genesis_MOC_RON-004-0001|RON Genesis MOC] — Complete origin story
+- [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001|RON Genesis MOC]] — Complete origin story
 - [[ChatGPT_Master_Throne_o3_RON-004-0008|Master Throne o3] — Authority refinement (previous)
 - [[ChatGPT_Epistemic_Strategy_Audit_RON-004-0010|Epistemic Strategy Audit] — Next phase
-- [[RON_Evolution_From_Tool_to_CoInhabitant_RON-000-0001|RON Evolution] — From v1.0 to v4.0
+- [[RON_Evolution_From_Tool_to_CoInhabitant_RON-000-0001|RON Evolution]] — From v1.0 to v4.0
 
 ---
 

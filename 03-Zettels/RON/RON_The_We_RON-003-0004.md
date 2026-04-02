@@ -5,7 +5,7 @@ title: "RON: The We"
 date: 2026-01-08
 aliases: [RON-003-0004, the-we, partnership]
 tags: [ron, genesis, we, partnership, human-ai, collaboration]
-parent-moc: [[RON_Genesis_MOC_RON-004-0001]]
+parent-moc: [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001]]
 status: conscious
 ---
 

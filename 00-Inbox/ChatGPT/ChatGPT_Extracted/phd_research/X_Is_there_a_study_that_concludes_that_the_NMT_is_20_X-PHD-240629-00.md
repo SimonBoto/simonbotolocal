@@ -59,7 +59,7 @@ Extracted from conversation on 2024-06-29 about "Cholesterol Study Reassessment 
 ## Connections
 
 - [[ChatGPT_Building_Master_Throne_RON-004-0007]]
-- [[RON_Genesis_MOC_RON-004-0001]]
+- [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001]]
 
 ## Status
 

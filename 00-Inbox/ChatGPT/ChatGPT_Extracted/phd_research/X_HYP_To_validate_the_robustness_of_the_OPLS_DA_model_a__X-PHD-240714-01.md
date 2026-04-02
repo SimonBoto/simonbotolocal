@@ -50,7 +50,7 @@ If true, this suggests:
 ## Connections
 
 - [[ChatGPT_Building_Master_Throne_RON-004-0007]]
-- [[RON_Genesis_MOC_RON-004-0001]]
+- [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001]]
 
 ## Validation Log
 

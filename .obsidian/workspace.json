@@ -8,13 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f659e907c85201ad",
+            "id": "c48509b03e681707",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "3ba0fbbd4b63c07b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RON_Genesis_MOC_[RON-004-0001.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RON_Genesis_MOC_[RON-004-0001"
             }
           }
         ]
@@ -193,8 +217,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f659e907c85201ad",
+  "active": "c48509b03e681707",
   "lastOpenFiles": [
+    "RON_Genesis_MOC_[RON-004-0001.md",
+    "03-Zettels/RON/sedfy7D34",
+    "RON_Adipic_Acid_Biomarker_[RON-000-0008.md",
+    "RON_Adipic_Acid_Biomarker.md",
+    "RON_Metabolomics_Phenotype_[RON-000-0007.md",
     "RON_Adipic_Acid_Biomarker_RON-000-0008.md",
     "03-Zettels/Biomarkers/sedyVyWE1",
     "03-Zettels/Conscious/sedwgwNQx",
@@ -206,7 +235,6 @@
     "07-Projects/sedz0yDPy",
     "01-Literature/sedFTADz5",
     "01-Literature/sedyIQuvX",
-    "01-Literature/sedPSpgfC",
     "09-Archive/08-Dashboards.md",
     "08-Structure/MOCs/MOC-Inflammation.md",
     "08-Structure/MOCs/MOC-Kidney-Metabolism.md",
@@ -226,11 +254,6 @@
     "08-Structure/Keywords/Keywords Index.md",
     "08-Structure/08 Structure Index.md",
     "08-Structure/Daily/Daily Index.md",
-    "08-Structure/Dashboards/Dashboards Index.md",
-    "08-Structure/06-Structure.md",
-    "09-Archive/09 Archive Index.md",
-    "07-Projects/07 Projects Index.md",
-    "01-Literature/LitNote_Aconitase_Enzyme_L-001-0508.md",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
