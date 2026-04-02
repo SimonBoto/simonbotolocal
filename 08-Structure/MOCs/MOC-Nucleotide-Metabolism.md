@@ -17,24 +17,24 @@ created: 2026-03-04
 ## Core Topics
 
 ### Purine Metabolism
-- [[Z-101-0451] ATP as Universal Energy Currency
-- [[Z-101-0453] Purine vs Pyrimidine Structure
-- [[Z-101-0454] HCN Polymerization to Adenine
-- [[Z-101-0462] Amino Acids vs Nucleobases
+- [[ATP_Universal_Energy_Currency_Z-101-0451]] ATP as Universal Energy Currency
+- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]] Purine vs Pyrimidine Structure
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]] HCN Polymerization to Adenine
+- [[Amino_Acids_vs_Nucleobases_Z-101-0462]] Amino Acids vs Nucleobases
 
 ### Pyrimidine Metabolism
-- [[Z-101-0453] Purine vs Pyrimidine Structure (includes cytosine, thymine, uracil)
+- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]] Purine vs Pyrimidine Structure (includes cytosine, thymine, uracil)
 
 ### Nucleotide Formation
-- [[Z-001-0465] Nucleobase Phosphorylation and Nucleotide Formation
-- [[Z-001-0458] Ribose Structure and RNA Backbone
+- [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]] Nucleobase Phosphorylation and Nucleotide Formation
+- [[Ribose_Structure_RNA_Backbone_Z-001-0458]] Ribose Structure and RNA Backbone
 
 ### Energy Currency
-- [[Z-101-0451] ATP
-- [[Z-101-0452] Adenosine Receptors and Sleep
+- [[ATP_Universal_Energy_Currency_Z-101-0451]] ATP
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]] Adenosine Receptors and Sleep
 
 ### Clinical
-- [[Z-001-0461] G6PD Deficiency
+- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]] G6PD Deficiency
 - Lesch-Nyhan syndrome
 - SCID (adenosine deaminase deficiency)
 

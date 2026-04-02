@@ -18,12 +18,12 @@ created: 2026-03-04
 - Citrate → Isocitrate → α-ketoglutarate → Succinyl-CoA → Succinate → Fumarate → Malate → **Oxaloacetate**
 
 ## Entry Points
-- [[Z-001-0469] Pyruvate (acetyl-CoA)
-- [[Z-001-0488] Oxaloacetate (condensation)
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]] Pyruvate (acetyl-CoA)
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]] Oxaloacetate (condensation)
 - Amino acids (see amino acid entry table)
 
 ## Anaplerosis
-- [[Z-001-0492] Anaplerosis: Replenishing Krebs Cycle
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]] Anaplerosis: Replenishing Krebs Cycle
 - Pyruvate carboxylase (biotin)
 - Aminotransferases
 

@@ -17,7 +17,7 @@ created: 2026-03-04
 ## B-Vitamins in Metabolism
 
 ### Energy Metabolism
-- [[Z-001-0479] Vitamin Dependence in Organic Acid Metabolism
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479]] Vitamin Dependence in Organic Acid Metabolism
 - B1 (Thiamine): PDH, α-KGDH, transketolase
 - B2 (Riboflavin): FAD synthesis
 - B3 (Niacin): NAD⁺ synthesis

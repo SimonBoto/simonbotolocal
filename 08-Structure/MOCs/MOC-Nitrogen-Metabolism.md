@@ -15,9 +15,9 @@ created: 2026-03-04
 ---
 
 ## Central Molecules
-- [[Z-001-0501] Glutamate (nitrogen collection)
-- [[Z-001-0502] Glutamine (nitrogen transport)
-- [[Z-001-0503] Glutamate-Arginine-Urea Cycle (disposal)
+- [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]] Glutamate (nitrogen collection)
+- [[Lipoproteins_Transport_System_Z-001-0502]] Glutamine (nitrogen transport)
+- [[LDL_Cholesterol_Structure_Function_Risk_Z-001-0503]] Glutamate-Arginine-Urea Cycle (disposal)
 
 ## Pathways
 1. **Amino acid catabolism** → Ammonia release

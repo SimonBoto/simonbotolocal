@@ -16,8 +16,8 @@ created: 2026-03-04
 ---
 
 ## Pyruvate Entry
-- [[Z-001-0469] Pyruvate Metabolic Crossroads
-- [[Z-001-0477] Pyruvate Central Role
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]] Pyruvate Metabolic Crossroads
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]] Pyruvate Central Role
 - Pyruvate Dehydrogenase Complex (PDH)
 - Acetyl-CoA entry to Krebs cycle
 

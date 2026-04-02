@@ -15,19 +15,19 @@ created: 2026-03-04
 ---
 
 ## Pentose Phosphate Pathway
-- [[Z-001-0457] PPP Oxidative Phase
-- [[Z-001-0460] NADPH Functions
-- [[Z-001-0458] Ribose Structure
+- [[PPP_Oxidative_Phase_Z-001-0457]] PPP Oxidative Phase
+- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]] NADPH Functions
+- [[Ribose_Structure_RNA_Backbone_Z-001-0458]] Ribose Structure
 
 ## Triose Metabolism
-- [[Z-001-0459] Triose Metabolism: G3P and DHAP
-- [[Z-001-0465] Nucleobase Phosphorylation
+- [[Triose_Metabolism_G3P_DHAP_Z-001-0459]] Triose Metabolism: G3P and DHAP
+- [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]] Nucleobase Phosphorylation
 
 ## Glycolysis (Incoming)
 - (To be added from Batch 2)
 
 ## Clinical
-- [[Z-001-0461] G6PD Deficiency
+- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]] G6PD Deficiency
 - Pyruvate kinase deficiency
 
 ## Integration

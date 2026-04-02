@@ -15,15 +15,15 @@ created: 2026-03-04
 ---
 
 ## Oxaloacetate Metabolism
-- [[Z-001-0488] Oxaloacetate Dual Role: Krebs and Gluconeogenesis
-- [[Z-001-0489] Gluconeogenesis from Oxaloacetate
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]] Oxaloacetate Dual Role: Krebs and Gluconeogenesis
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]] Gluconeogenesis from Oxaloacetate
 
 ## Transport and Shuttles
-- [[Z-001-0490] Mitochondrial Shuttles: Malate and Aspartate
+- [[Mitochondrial_Shuttles_Malate_Aspartate_Z-001-0490]] Mitochondrial Shuttles: Malate and Aspartate
 
 ## Regulation
-- [[Z-001-0491] PEPCK and Gluconeogenic Regulation
-- [[Z-001-0492] Anaplerosis: Replenishing Krebs Cycle
+- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491]] PEPCK and Gluconeogenic Regulation
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]] Anaplerosis: Replenishing Krebs Cycle
 
 ## Substrates
 - Lactate (Cori cycle)

@@ -95,9 +95,9 @@ version: 1.0
 -  — Positioning metabolite markers
 
 ### Research Questions Addressed
-1. Why metabolomics over genomics? → [[Z-001-0002]
-2. Environmental vs genetic drivers? → [[Z-001-0003]
-3. Systems approach to IR? → [[Z-001-0001]
+1. Why metabolomics over genomics? → [[Insulin_Hormone_Structure_Z-001-0002]]
+2. Environmental vs genetic drivers? → [[INSR_Autophosphorylation_Mechanism_Z-001-0003]]
+3. Systems approach to IR? → [[Insulin_Receptor_Structure_Z-001-0001]]
 
 ---
 

@@ -15,22 +15,22 @@ created: 2026-03-04
 ---
 
 ## Krebs Cycle Entry Points
-- [[Z-001-0493] Oxaloacetate/Aspartate Entry
-- [[Z-001-0494] α-Ketoglutarate/Glutamate Hub
-- [[Z-001-0495] Succinyl-CoA Entry (B12-dependent)
-- [[Z-001-0496] Fumarate Entry (Phenylalanine/Tyrosine)
-- [[Z-001-0497] Pyruvate Entry (Alanine, Serine, Glycine)
-- [[Z-001-0498] Acetyl-CoA Entry (Ketogenic)
+- [[Amino_Acids_Oxaloacetate_Aspartate_Z-001-0493]] Oxaloacetate/Aspartate Entry
+- [[Amino_Acids_Alpha_Ketoglutarate_Hub_Z-001-0494]] α-Ketoglutarate/Glutamate Hub
+- [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]] Succinyl-CoA Entry (B12-dependent)
+- [[Amino_Acids_Fumarate_Phenylalanine_Tyrosine_Z-001-0496]] Fumarate Entry (Phenylalanine/Tyrosine)
+- [[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_Z-001-0497]] Pyruvate Entry (Alanine, Serine, Glycine)
+- [[Ketogenic_Amino_Acids_Leucine_Lysine_Z-001-0498]] Acetyl-CoA Entry (Ketogenic)
 
 ## Classification
-- [[Z-001-0499] Glucogenic vs Ketogenic Classification
-- [[Z-001-0500] α-Keto Acids as Intermediates
+- [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499]] Glucogenic vs Ketogenic Classification
+- [[Alpha_Keto_Acids_Metabolic_Intermediates_Z-001-0500]] α-Keto Acids as Intermediates
 
 ## Central Hubs
-- [[Z-001-0501] Glutamate Central Hub
-- [[Z-001-0502] Glutamine-Glutamate-Ammonia Cycle
-- [[Z-001-0503] Glutamate-Arginine-Urea Cycle
-- [[Z-001-0504] Aspartate Simple Structure
+- [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]] Glutamate Central Hub
+- [[Lipoproteins_Transport_System_Z-001-0502]] Glutamine-Glutamate-Ammonia Cycle
+- [[LDL_Cholesterol_Structure_Function_Risk_Z-001-0503]] Glutamate-Arginine-Urea Cycle
+- [[HDL_Cholesterol_Reverse_Cholesterol_Transport_Z-001-0504]] Aspartate Simple Structure
 
 ## Clinical
 - PKU (phenylalanine)

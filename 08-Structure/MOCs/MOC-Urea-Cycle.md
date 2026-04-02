@@ -31,9 +31,9 @@ created: 2026-03-04
 - **Second nitrogen:** Aspartate
 
 ## Key Connections
-- [[Z-001-0503] Glutamate-Arginine-Urea Cycle
-- [[Z-001-0493] Aspartate Role
-- [[Z-001-0502] Glutamine-Ammonia Cycle
+- [[LDL_Cholesterol_Structure_Function_Risk_Z-001-0503]] Glutamate-Arginine-Urea Cycle
+- [[Amino_Acids_Oxaloacetate_Aspartate_Z-001-0493]] Aspartate Role
+- [[Lipoproteins_Transport_System_Z-001-0502]] Glutamine-Ammonia Cycle
 
 ## Regulation
 - N-acetylglutamate (NAG) activates CPS I

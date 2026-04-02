@@ -15,8 +15,8 @@ created: 2026-03-04
 ---
 
 ## Adenosine and Sleep
-- [[Z-101-0452] Adenosine Receptors and Sleep Regulation
-- [[Z-101-0451] ATP (source of adenosine)
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]] Adenosine Receptors and Sleep Regulation
+- [[ATP_Universal_Energy_Currency_Z-101-0451]] ATP (source of adenosine)
 
 ## Circadian Clock
 - (To be expanded)

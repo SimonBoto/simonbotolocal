@@ -15,14 +15,14 @@ created: 2026-03-04
 ---
 
 ## NADPH and Reducing Power
-- [[Z-001-0460] NADPH Functions in Anabolism and Antioxidant Defense
-- [[Z-001-0457] PPP Oxidative Phase (NADPH source)
+- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]] NADPH Functions in Anabolism and Antioxidant Defense
+- [[PPP_Oxidative_Phase_Z-001-0457]] PPP Oxidative Phase (NADPH source)
 
 ## Glutathione System
 - (To be expanded: GSH synthesis, recycling, GPx, GST)
 
 ## Clinical
-- [[Z-001-0461] G6PD Deficiency
+- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]] G6PD Deficiency
 - Oxidative stress in disease
 
 ## Connections
