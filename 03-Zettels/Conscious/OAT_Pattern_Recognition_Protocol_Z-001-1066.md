@@ -2,13 +2,12 @@
 uid: Z-001-1066
 type: zettel
 title: OAT Pattern Recognition Protocol
-aliases: [Z-001-1066, OAT-Patterns]
+aliases: ["OAT-Patterns"]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, oat, patterns, recognition]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
-source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
+parent-moc: "[[MOC-Metabolomics-Training]]"
+source-litnote: "[[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]"
 confidence: high
 created: 2026-03-08
 ---

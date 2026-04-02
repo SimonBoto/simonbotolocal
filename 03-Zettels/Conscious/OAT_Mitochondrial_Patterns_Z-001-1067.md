@@ -2,13 +2,12 @@
 uid: Z-001-1067
 type: zettel
 title: OAT Mitochondrial Patterns
-aliases: [Z-001-1067, OAT-Mitochondrial]
+aliases: ["OAT-Mitochondrial"]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, oat, mitochondria, patterns]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
-source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
+parent-moc: "[[MOC-Mitochondrial-Function]]"
+source-litnote: "[[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]"
 confidence: high
 created: 2026-03-08
 ---

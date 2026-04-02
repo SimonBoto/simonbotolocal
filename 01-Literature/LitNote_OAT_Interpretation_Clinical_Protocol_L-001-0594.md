@@ -11,8 +11,9 @@ pmcid: N/A
 tier: 3
 relevance: High — Comprehensive OAT marker interpretation, pattern recognition, clinical decision-making
 status: extracted
-parent-moc: 
-extraction-date: 2026-03-08
+source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
+parent-moc: "[[MOC-Metabolomics-Training]]"
+extraction-date: "2026-03-08"
 ---
 
 # Lit: ChatGPT 2025 — OAT Interpretation Clinical Protocol
@@ -27,27 +28,27 @@ extraction-date: 2026-03-08
 ### 1. OAT by Category Interpretation
 > "Glycolysis, TCA, fatty acid oxidation, B-vitamin markers, mitochondrial distress, gut metabolites, oxidative stress—each category tells a story."
 
-**Zettel extracted:** [[OAT_Category_Interpretation_Framework_Z-001-1065]
+**Zettel extracted:** [[OAT_Category_Interpretation_Framework_Z-001-1065]]
 
 ### 2. Pattern Recognition Protocol
 > "Markers come in flocks, never alone. Pattern-level shifts reveal metabolic dysfunction."
 
-**Zettel extracted:** [[OAT_Pattern_Recognition_Protocol_Z-001-1066]
+**Zettel extracted:** [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
 
 ### 3. Mitochondrial Dysfunction Patterns
 > "Lactate/pyruvate, Krebs markers, redox imbalance—mitochondrial signature recognition."
 
-**Zettel extracted:** [[OAT_Mitochondrial_Patterns_Z-001-1067]
+**Zettel extracted:** [[OAT_Mitochondrial_Patterns_Z-001-1067]]
 
 ### 4. Gut-Dysbiosis OAT Signatures
 > "Hippurate, indican, phenylacetate, HPHPA, yeast markers—gut microbiome status."
 
-**Zettel extracted:** [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]
+**Zettel extracted:** [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
 
 ### 5. OAT to Clinical Action Mapping
 > "From biomarker to treatment: specific markers guide specific interventions."
 
-**Zettel extracted:** [[OAT_Clinical_Action_Mapping_Z-001-1069]
+**Zettel extracted:** [[OAT_Clinical_Action_Mapping_Z-001-1069]]
 
 ## OAT Marker Categories
 
@@ -82,9 +83,8 @@ extraction-date: 2026-03-08
 5. [[OAT_Clinical_Action_Mapping_Z-001-1069]] — Marker → treatment
 
 ## Related References
-- 
-- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]
-- [[Gut_Microbiome_OAT_Markers_Z-001-1064]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
 
 ---
 

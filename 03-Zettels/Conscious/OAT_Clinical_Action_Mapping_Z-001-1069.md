@@ -2,13 +2,12 @@
 uid: Z-001-1069
 type: zettel
 title: OAT Clinical Action Mapping
-aliases: [Z-001-1069, OAT-Actions]
+aliases: ["OAT-Actions"]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, oat, clinical, treatment]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
-source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
+parent-moc: "[[MOC-Metabolomics-Training]]"
+source-litnote: "[[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]"
 confidence: high
 created: 2026-03-08
 ---

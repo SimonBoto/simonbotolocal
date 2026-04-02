@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "efa643184099b29c",
+            "id": "11e93bff208205ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Literature/LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593.md",
+                "file": "01-Literature/LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,131 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593"
-            }
-          },
-          {
-            "id": "667219d92a9f635e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Zettels/Conscious/Gut_Microbiome_OAT_Markers_Z-001-1064.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gut_Microbiome_OAT_Markers_Z-001-1064"
-            }
-          },
-          {
-            "id": "ebc76bba88795843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Zettels/Conscious/One_Carbon_Metabolism_Folate_B12_Z-001-1062.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "One_Carbon_Metabolism_Folate_B12_Z-001-1062"
-            }
-          },
-          {
-            "id": "8776929f1bbac668",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Zettels/Conscious/Vitamin_K2_Calcium_Direction_MGP_Z-001-1061.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vitamin_K2_Calcium_Direction_MGP_Z-001-1061"
-            }
-          },
-          {
-            "id": "14c97a96066395c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Zettels/Conscious/Vitamin_D_PTH_Calcium_Axis_Z-001-1059.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vitamin_D_PTH_Calcium_Axis_Z-001-1059"
-            }
-          },
-          {
-            "id": "63b4111ee9ea4155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Zettels/Conscious/Magnesium_Biochemistry_Clinical_Roles_Z-001-1060.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Magnesium_Biochemistry_Clinical_Roles_Z-001-1060"
+              "title": "LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -353,16 +233,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "14c97a96066395c0",
+  "active": "11e93bff208205ba",
   "lastOpenFiles": [
-    "08-Structure/MOCs/MOC-Vitamin-Mineral-Axis.md",
+    "00-Inbox/Processed/metabolomics/CGPT_0022_Metabolomics_training_role_CGPT-0022.md",
     "03-Zettels/Conscious/Magnesium_Biochemistry_Clinical_Roles_Z-001-1060.md",
+    "03-Zettels/Conscious/Vitamin_D_PTH_Calcium_Axis_Z-001-1059.md",
+    "08-Structure/MOCs/MOC-Vitamin-Mineral-Axis.md",
     "03-Zettels/Conscious/Vitamin_K2_Calcium_Direction_MGP_Z-001-1061.md",
     "03-Zettels/Conscious/One_Carbon_Metabolism_Folate_B12_Z-001-1062.md",
     "03-Zettels/Conscious/Gut_Microbiome_OAT_Markers_Z-001-1064.md",
     "01-Literature/LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593.md",
-    "03-Zettels/Conscious/Vitamin_D_PTH_Calcium_Axis_Z-001-1059.md",
-    "00-Inbox/Processed/metabolomics/CGPT_0022_Metabolomics_training_role_CGPT-0022.md",
     "03-Zettels/Conscious/Krebs_Cycle_Clinical_Biochemistry_Z-001-1048.md",
     "03-Zettels/Conscious/TCA_Intermediates_Clinical_Significance_Z-001-1049.md",
     "03-Zettels/Conscious/Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050.md",

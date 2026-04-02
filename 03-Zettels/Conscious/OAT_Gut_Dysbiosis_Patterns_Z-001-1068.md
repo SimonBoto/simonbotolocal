@@ -2,13 +2,12 @@
 uid: Z-001-1068
 type: zettel
 title: OAT Gut Dysbiosis Patterns
-aliases: [Z-001-1068, OAT-Gut]
+aliases: ["OAT-Gut"]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, oat, gut, dysbiosis]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
-source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
+parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
+source-litnote: "[[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]"
 confidence: high
 created: 2026-03-08
 ---
