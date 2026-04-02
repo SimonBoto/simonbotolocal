@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -328,11 +328,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a4c33ba78f1a9541",
+  "active": "54d2954fc1960606",
   "lastOpenFiles": [
-    "01-Literature/LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589.md",
-    "03-Zettels/Conscious/Phase_3_Lipidomics_Interpretation_Z-001-1038.md",
     "03-Zettels/Conscious/Phase_2_OAT_Pattern_Mastery_Z-001-1037.md",
+    "03-Zettels/Conscious/Phase_3_Lipidomics_Interpretation_Z-001-1038.md",
+    "03-Zettels/Conscious/Training_Teaching_Style_Framework_Z-001-1040.md",
+    "01-Literature/LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589.md",
     "03-Zettels/Conscious/Phase_1_Biochemical_Literacy_Foundation_Z-001-1036.md",
     "03-Zettels/Conscious/Bootcamp_Four_Phase_Structure_Z-001-1035.md",
     "03-Zettels/Conscious/Phase_4_Clinical_Integration_Drills_Z-001-1039.md",
@@ -356,7 +357,6 @@
     "03-Zettels/Biomarkers/Glucose_Blood_Sugar_Energy_B-005-0001.md",
     "03-Zettels/Biomarkers/4-Hydroxyphenylacetic_Acid_Pathogen_B-012-0108.md",
     "03-Zettels/Biomarkers/3-Hydroxyisovaleric_Acid_Biotin_B7_B-012-0017.md",
-    "03-Zettels/Biomarkers/3-Hydroxybutyric_Acid_Ketone_Body_B-012-0011.md",
     "08-Structure/Templates/sedoJjwX5",
     "08-Structure/Templates/sedclJo0e",
     "06-Structure/Dashboards",

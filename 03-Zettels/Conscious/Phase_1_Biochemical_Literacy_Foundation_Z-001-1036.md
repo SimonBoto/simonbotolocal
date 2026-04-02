@@ -75,18 +75,7 @@ Plus: Lactate, ketones, BCAA oxidation, peroxisomes
 - **Citation:** (ChatGPT, 2025)
 
 ## Lateral Links
-
-### Sequential (Bootcamp Chain)
-- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Parent: Overall four-phase architecture
-- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]] — Next: OAT pattern mastery phase
-
-### Cross-Cutting (Metabolic Foundations)
-- [[Mitochondrial_Function_Overview_Z-001-0910]] — Builds on: Mitochondrial decision-making concept
-- [[NAD_Plus_NADH_Redox_Balance_Z-001-0934]] — Extends: Redox tone principles from Week 1
-- [[Pathway_Atlas_Metabolic_Map_Z-001-0920]] — Uses: Pathway megastructure framework
-
-### Clinical Application
-- [[Organic_Acids_Interpretation_Framework_Z-001-0915]] — Leads to: OAT pattern recognition (Phase 2)
+<!-- Add during 30-day review — VERIFY EXISTS before linking -->
 
 ---
 *Z-001-1036 | Created: 2026-03-08 | Source: ChatGPT, 2025*
