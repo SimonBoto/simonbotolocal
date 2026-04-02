@@ -6,7 +6,7 @@ aliases: [Z-101-0483]
 domain: 101
 tags: [zettel, sirolimus, rapamycin, mtor, mitochondria, mitochondrial-biogenesis, oxphos, ros, autophagy, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]]
+source-litnote: [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]
 status: conscious
 ---
 
@@ -159,8 +159,8 @@ mTORC1 inhibited → Autophagy induced → Cellular component clearance
 | **Metabolic disease** | Worsens glucose homeostasis |
 
 ## Related
-- **Source:** [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]]
-- **Diabetes connection:** [[mTOR_Diabetes_Pathophysiology_Z-101-0484]]
+- **Source:** [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]
+- **Diabetes connection:** [[mTOR_Diabetes_Pathophysiology_Z-101-0484]
 - ** signaling:** 
 
 ---
@@ -168,5 +168,5 @@ mTORC1 inhibited → Autophagy induced → Cellular component clearance
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

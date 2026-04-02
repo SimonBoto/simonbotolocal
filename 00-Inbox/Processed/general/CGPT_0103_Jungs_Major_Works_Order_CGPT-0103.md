@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Jung's Major Works Order"
 date: 2025-04-14
 source: ChatGPT conversation history
-aliases: [CGPT-0103]
+aliases: CGPT-0103]
 tags: [chatgpt-archive, general]
 status: archived
 ---

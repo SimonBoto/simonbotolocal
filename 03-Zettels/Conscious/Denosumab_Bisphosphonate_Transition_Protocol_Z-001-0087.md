@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, pharmacology, denosumab]
 parent-moc: 
-source: [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]]
+source: [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -20,8 +20,8 @@ When discontinuing denosumab, guidelines recommend transitioning to bisphosphona
 ## Links
 
 **Parent MOC:** 
-**Source:** _Risks_L-001-0012]]
-**Related:** [[Denosumab_Rebound_Fractures_Discontinuation_Z-001-0086]], -Protocols]]
+**Source:** _Risks_L-001-0012]
+**Related:** [[Denosumab_Rebound_Fractures_Discontinuation_Z-001-0086], -Protocols]
 
 ---
 
@@ -29,5 +29,5 @@ When discontinuing denosumab, guidelines recommend transitioning to bisphosphona
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

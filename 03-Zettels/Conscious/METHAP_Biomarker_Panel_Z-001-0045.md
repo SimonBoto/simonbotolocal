@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, METHAP, biomarker-panel, clinical-trial, integration]
 parent-moc: 
-source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]]
+source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
@@ -40,7 +40,7 @@ The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates mul
 
 ## Links
 
-- **Upstream:** [[Biomarker_Classification_Framework_Z-001-0040.md]] — Classification framework
+- **Upstream:** [[Biomarker_Classification_Framework_Z-001-0040.md] — Classification framework
 - **Parallel:**  — Trial design context
 - **Downstream:**  — Practical application
 
@@ -55,10 +55,10 @@ The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates mul
 *UID: Z-001-0045 | Domain: 001 | Created: 2026-02-24*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

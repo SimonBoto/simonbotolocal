@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, inflammation, oxidative-stress, ros, cytokines, autoimmunity, vicious-cycle]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]]"
+source-litnote: "[[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]"
 status: conscious
 ---
 
@@ -138,17 +138,17 @@ More Inflammation
 
 ## Related
 
-- [[ROS_Mediated_Telomere_Damage_Pathways_Z-001-1178]]
-- [[Immunosenescence_Premature_Immune_Aging_Autoimmunity_Z-001-1172]]
-- [[Antioxidant_Telomere_Protection_Z-001-1181]]
+- [[ROS_Mediated_Telomere_Damage_Pathways_Z-001-1178]
+- [[Immunosenescence_Premature_Immune_Aging_Autoimmunity_Z-001-1172]
+- [[Antioxidant_Telomere_Protection_Z-001-1181]
 
 ---
 
-*Source: [[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]] | 2026-03-08*
+*Source: [[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

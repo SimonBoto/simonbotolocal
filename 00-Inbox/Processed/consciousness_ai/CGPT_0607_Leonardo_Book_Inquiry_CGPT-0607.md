@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Leonardo Book Inquiry"
 date: 2023-07-02
 source: ChatGPT conversation history
-aliases: [CGPT-0607]
+aliases: CGPT-0607]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

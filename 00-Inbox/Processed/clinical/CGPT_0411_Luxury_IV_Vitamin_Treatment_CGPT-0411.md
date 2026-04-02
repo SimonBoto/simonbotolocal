@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Luxury IV Vitamin Treatment"
 date: 2024-04-19
 source: ChatGPT conversation history
-aliases: [CGPT-0411]
+aliases: CGPT-0411]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

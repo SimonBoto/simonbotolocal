@@ -7,8 +7,8 @@ domain: 001
 domain-name: Evolutionary Biochemistry
 tags: [zettel, metabolic-fossils, remnants, evolution]
 parent-moc: 
-source-litnote: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
-source: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
+source-litnote: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]
+source: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]
 confidence: high
 created: 2026-03-08
 ---
@@ -114,8 +114,8 @@ Some metabolic pathways retain features reflecting their evolutionary history—
 - **Alternative chemistries:** Learn from constraints
 
 ## Related
-- [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]]
-| [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]]
+- [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]
+| [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]
 | 
 
 ---
@@ -123,6 +123,6 @@ Some metabolic pathways retain features reflecting their evolutionary history—
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

@@ -19,8 +19,8 @@ Common confusion:
 - “Psychological stress is the only driver.” Often a trigger on top of metabolic/barrier load.
 
 Related:
-[[111_Hub_Gut_Function]]
-[[111_Hub_Neurotransmitters]]
-[[Zettel_GI_Tract_As_Immune_And_Neurotransmitter_Organ]]
-[[[ron__gut_mucosal_barrier]_20260215_019]]
-[[Library_Intestinal_Mucosal_Barrier_Function_In_Health_And_Disease_NatRevImmunol_Placeholder]]
+[[111_Hub_Gut_Function]
+[[111_Hub_Neurotransmitters]
+[[Zettel_GI_Tract_As_Immune_And_Neurotransmitter_Organ]
+[[[ron__gut_mucosal_barrier]_20260215_019]
+[[Library_Intestinal_Mucosal_Barrier_Function_In_Health_And_Disease_NatRevImmunol_Placeholder]

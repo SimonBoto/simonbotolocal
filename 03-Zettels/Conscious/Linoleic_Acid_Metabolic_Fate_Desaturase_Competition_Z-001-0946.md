@@ -115,11 +115,11 @@ GLA (n-6)                                Stearidonic Acid (n-3)
 - Delta-6 desaturase inhibitors (GLA supplements bypass this step)
 
 ## Related Zettels
-- [[Seed_Oil_Fatty_Acid_Composition_Table_Z-001-0945]] — Oil composition
-- [[Omega_6_Tissue_Incorporation_Membrane_Fluidity_Z-001-0947]] — Tissue effects
+- [[Seed_Oil_Fatty_Acid_Composition_Table_Z-001-0945] — Oil composition
+- [[Omega_6_Tissue_Incorporation_Membrane_Fluidity_Z-001-0947] — Tissue effects
 
 ## Source
-[[LitNote_Seed_Oils_Fatty_Acid_Composition_L-001-0522]]
+[[LitNote_Seed_Oils_Fatty_Acid_Composition_L-001-0522]
 
 ---
 
@@ -128,7 +128,7 @@ GLA (n-6)                                Stearidonic Acid (n-3)
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

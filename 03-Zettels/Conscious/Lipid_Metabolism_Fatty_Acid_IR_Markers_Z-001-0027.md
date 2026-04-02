@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, lipid-metabolism, fatty-acids, omega-3, omega-6, desaturase, inflammation, conscious]
 parent-moc: 
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]]
+source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -104,12 +104,12 @@ High-dose VitD → improved omega-6:3 balance (via inflammation reduction) → i
 ## Connections
 
 ### Upstream
-- [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026.md]] — Lipid-induced IR mechanism
+- [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026.md] — Lipid-induced IR mechanism
 -  — IR inflammation link
 
 ### Downstream
-- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]] — Fatty acid oxidation markers
-- -Mechanisms]] — VitD anti-inflammatory effects
+- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md] — Fatty acid oxidation markers
+- -Mechanisms] — VitD anti-inflammatory effects
 
 ### Cross-Domain
 -  — Fatty acid panel as exploratory endpoint
@@ -133,7 +133,7 @@ High-dose VitD → improved omega-6:3 balance (via inflammation reduction) → i
 - Eicosanoid profiling in IR cohorts
 
 ## See Also
-- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] — Source (Subsection 2.3)
+- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004] — Source (Subsection 2.3)
 -  — Desaturase mechanisms
 -  — Omega-6:3 ratio
 -  — Methodology
@@ -142,10 +142,10 @@ High-dose VitD → improved omega-6:3 balance (via inflammation reduction) → i
 *Confidence: High* — Established fatty acid-IR associations  
 *Next Review: After fatty acid panel analysis in METHAP cohort*
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

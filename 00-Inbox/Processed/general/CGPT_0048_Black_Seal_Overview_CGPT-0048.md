@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Black Seal Overview"
 date: 2025-10-10
 source: ChatGPT conversation history
-aliases: [CGPT-0048]
+aliases: CGPT-0048]
 tags: [chatgpt-archive, general]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Telomeres, Autoimmune Diseases Overview"
 date: 2024-07-07
 source: ChatGPT conversation history
-aliases: [CGPT-0334]
+aliases: CGPT-0334]
 tags: [chatgpt-archive, metabolomics]
 status: archived
 ---

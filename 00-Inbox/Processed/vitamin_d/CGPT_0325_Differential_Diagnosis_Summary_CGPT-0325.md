@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Differential Diagnosis Summary"
 date: 2024-07-18
 source: ChatGPT conversation history
-aliases: [CGPT-0325]
+aliases: CGPT-0325]
 tags: [chatgpt-archive, vitamin_d, clinical]
 status: archived
 ---

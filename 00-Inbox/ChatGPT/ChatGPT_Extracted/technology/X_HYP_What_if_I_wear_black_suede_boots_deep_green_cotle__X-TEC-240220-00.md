@@ -10,7 +10,7 @@ uid: X-TEC-240220-00
 type: extracted-hypothesis
 title: "Hypothesis: What if I wear black suede boots, deep green cotle pants, black zivago..."
 date: 2024-02-20
-source: "[[CGPT_0499_Fabulous_Cabaret_Dress_Code_[CGPT-0499]]"
+source: "[[CGPT_0499_Fabulous_Cabaret_Dress_Code_CGPT-0499]"
 aliases: [X-TEC-240220-00]
 tags: [extracted, hypothesis, technology, chatgpt-archive]
 related: []

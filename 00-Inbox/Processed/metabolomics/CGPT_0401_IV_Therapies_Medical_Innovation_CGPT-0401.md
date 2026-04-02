@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "IV Therapies: Medical Innovation"
 date: 2024-05-11
 source: ChatGPT conversation history
-aliases: [CGPT-0401]
+aliases: CGPT-0401]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, greek_language, technology, personal_development]
 status: archived
 ---

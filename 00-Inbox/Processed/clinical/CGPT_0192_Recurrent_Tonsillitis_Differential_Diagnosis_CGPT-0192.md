@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Recurrent Tonsillitis Differential Diagnosis"
 date: 2025-01-13
 source: ChatGPT conversation history
-aliases: [CGPT-0192]
+aliases: CGPT-0192]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

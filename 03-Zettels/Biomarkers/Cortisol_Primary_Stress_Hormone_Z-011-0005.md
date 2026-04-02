@@ -245,9 +245,9 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Z-011-0006|DHEA-S — Adrenal Androgen]]
-- [[Z-005-0002|Insulin — Metabolic Hormone]]
-- [[Z-007-0001|Vitamin D — Steroid Hormone]]
+- [[Z-011-0006|DHEA-S — Adrenal Androgen]
+- [[Z-005-0002|Insulin — Metabolic Hormone]
+- [[Z-007-0001|Vitamin D — Steroid Hormone]
 
 source-litnote: Synthesized from clinical practice
 ---

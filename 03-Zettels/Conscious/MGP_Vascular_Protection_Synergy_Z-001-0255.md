@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mgp, vascular-calcification, vitamin-k2, vitamin-d, arteries]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]
+source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]
 extraction-date: 2026-03-01
 ---
 
@@ -109,8 +109,8 @@ No calcification, flexible arteries
 
 ---
 
-*Source: s_L-001-0212]]*  
-*Related: [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]]*  
+*Source: s_L-001-0212]*  
+*Related: [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES

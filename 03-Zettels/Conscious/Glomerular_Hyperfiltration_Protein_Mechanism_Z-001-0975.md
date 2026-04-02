@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, hyperfiltration, gfr, protein, ckd, mechanism, renal-hemodynamics, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Protein_CKD_Progression_Evidence_L-001-0573]]
+source-litnote: [[LitNote_Protein_CKD_Progression_Evidence_L-001-0573]
 status: conscious
 ---
 
@@ -204,11 +204,11 @@ GFR increases 20-30% above baseline
 
 ---
 
-**Related:** [[MDRD_Study_Protein_Restriction_CKD_Z-001-0973]] | [[Protein_Restriction_CKD_Guidelines_Z-001-0974]] | [[Carbohydrate_Context_Modifies_Renal_Hemodynamics_Z-001-0976]]
+**Related:** [[MDRD_Study_Protein_Restriction_CKD_Z-001-0973] | [[Protein_Restriction_CKD_Guidelines_Z-001-0974] | [[Carbohydrate_Context_Modifies_Renal_Hemodynamics_Z-001-0976]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

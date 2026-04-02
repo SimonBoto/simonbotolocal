@@ -8,7 +8,7 @@ tags: [zettel, fructose, lipogenesis, liver, metabolic-syndrome, nafld]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045E]]
+source: [[L-001-0045E]
 ---
 
 # Fructose  and Lipogenesis
@@ -66,13 +66,13 @@ Fructose consumption linked to:
 - Dyslipidemia
 
 ## Related
-- [[Glucose_Metabolism_Overview_Z-001-0472]] Glucose Metabolism (contrast)
-- [[Fructose_Glycolytic_Intermediate_Z-001-0468]] Fructose as Glycolytic Intermediate (different!)
+- [[Glucose_Metabolism_Overview_Z-001-0472] Glucose Metabolism (contrast)
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468] Fructose as Glycolytic Intermediate (different!)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

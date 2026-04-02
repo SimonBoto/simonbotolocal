@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, monitoring, safety-protocol, clinical-practice]
 parent-moc: 
-source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
+source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -38,8 +38,8 @@ status: conscious
 ## Links
 
 **Parent MOC:** 
-**Source:** [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
-**Related:** [[Gallo_2013_Infant_Vitamin_D_Dose_Response_Z-001-0067]], [[Stoss_Therapy_High_Dose_Rickets_Treatment_Z-001-0069]], 
+**Source:** [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]
+**Related:** [[Gallo_2013_Infant_Vitamin_D_Dose_Response_Z-001-0067], [[Stoss_Therapy_High_Dose_Rickets_Treatment_Z-001-0069], 
 
 ---
 
@@ -47,5 +47,5 @@ status: conscious
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

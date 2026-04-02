@@ -97,9 +97,9 @@ Take 1 capsule daily with water or as directed by your physician.
 | 1 | €0.30 | 200 μg | Standard dose |
 
 ## Biomarker Links
-- [[Selenium_Essential_Trace_Element_Z-007-0010]] — serum/plasma selenium
-- [[TSH_Thyroid_Stimulating_Hormone_Z-010-0001]] — thyroid function
-- [[Anti-TPO_Thyroid_Peroxidase_Antibodies_Z-010-0004]] — Hashimoto's marker |
+- [[Selenium_Essential_Trace_Element_Z-007-0010] — serum/plasma selenium
+- [[TSH_Thyroid_Stimulating_Hormone_Z-010-0001] — thyroid function
+- [[Anti-TPO_Thyroid_Peroxidase_Antibodies_Z-010-0004] — Hashimoto's marker |
 
 ## Comparison with Healthy Thyroid (ND)
 | Feature | Selenium 200 mcg | Healthy Thyroid |

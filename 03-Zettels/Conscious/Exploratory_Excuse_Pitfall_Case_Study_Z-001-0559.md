@@ -7,7 +7,7 @@ domain: 001
 domain-name: Research Methods
 tags: [zettel, claim, research-integrity, exploratory-excuse, biomarkers, case-study, publication-bias]
 parent-moc: 
-source: "[[LitNote_Exploratory_vs_Confirmatory_Research_Design_L-001-0516]]"
+source: "[[LitNote_Exploratory_vs_Confirmatory_Research_Design_L-001-0516]"
 confidence: high
 created: 2026-03-03
 source-litnote: Synthesized from clinical practice
@@ -123,10 +123,10 @@ Before claiming "biomarker identified":
 
 ## Related Zettels
 
-- [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558]] — Proper classification
-- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]] — Validation stages
-- [[Underpowered_Study_Consequences_Z-001-0929]] — Power implications
-- [[Statistical_Issues_Overfitting_Correlation_Z-001-0933]] — Statistical risks
+- [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558] — Proper classification
+- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560] — Validation stages
+- [[Underpowered_Study_Consequences_Z-001-0929] — Power implications
+- [[Statistical_Issues_Overfitting_Correlation_Z-001-0933] — Statistical risks
 
 ---
 
@@ -138,7 +138,7 @@ Before claiming "biomarker identified":
 
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Liver_Function_[B-009-0001]|Biomarker Family Guide]
 - 
 

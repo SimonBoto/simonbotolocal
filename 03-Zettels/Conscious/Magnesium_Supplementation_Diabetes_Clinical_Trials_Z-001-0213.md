@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, magnesium, clinical-trials, supplementation, diabetes, metabolic-syndrome]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]]
+source-litnote: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]
 extraction-date: 2026-03-01
 ---
 
@@ -121,13 +121,13 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]]*  
+*Source: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]*  
 *Extracted: 2026-03-01*
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
-- [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_Z-001-0206]|Z-001-0206]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+- [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_Z-001-0206]|Z-001-0206]

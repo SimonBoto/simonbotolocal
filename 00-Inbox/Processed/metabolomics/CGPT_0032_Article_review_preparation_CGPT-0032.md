@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Article review preparation"
 date: 2025-11-16
 source: ChatGPT conversation history
-aliases: [CGPT-0032]
+aliases: CGPT-0032]
 tags: [chatgpt-archive, metabolomics, clinical, consciousness_ai]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Krebs cycle explained."
 date: 2023-05-03
 source: ChatGPT conversation history
-aliases: [CGPT-0643]
+aliases: CGPT-0643]
 tags: [chatgpt-archive, insulin_resistance, nutrition]
 status: archived
 ---

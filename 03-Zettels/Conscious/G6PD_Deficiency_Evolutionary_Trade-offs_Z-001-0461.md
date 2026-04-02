@@ -8,7 +8,7 @@ tags: [zettel, g6pd, hemolysis, malaria, evolution, enzyme-deficiency]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045C]]
+source: [[L-001-0045C]
 ---
 
 # G6PD Deficiency: Disease and Protection
@@ -60,13 +60,13 @@ source: [[L-001-0045C]]
 - Genetic testing for variants
 
 ## Related
-- [[PPP_Oxidative_Phase_Z-001-0457]] PPP Oxidative Phase (defective enzyme)
-- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]] NADPH Functions (what's compromised)
+- [[PPP_Oxidative_Phase_Z-001-0457] PPP Oxidative Phase (defective enzyme)
+- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460] NADPH Functions (what's compromised)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

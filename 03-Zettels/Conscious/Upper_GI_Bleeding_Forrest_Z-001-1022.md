@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, upper-gi-bleeding, forrest-classification, peptic-ulcer, varices, endoscopy, hemostasis, ppi, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]]
+source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious
 ---
 
@@ -328,11 +328,11 @@ The Forrest classification stratifies risk of rebleeding and guides endoscopic t
 
 ---
 
-**Related:** [[Peptic_Ulcer_Disease_Pathophysiology_Z-001-1033]] | [[Variceal_Bleeding_Management_Z-001-1034]] | [[H_pylori_Diagnosis_Treatment_Z-001-1035]]
+**Related:** [[Peptic_Ulcer_Disease_Pathophysiology_Z-001-1033] | [[Variceal_Bleeding_Management_Z-001-1034] | [[H_pylori_Diagnosis_Treatment_Z-001-1035]
 
 **Source:** CGPT-0209 — Gastroenterology Registrar Assessment
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

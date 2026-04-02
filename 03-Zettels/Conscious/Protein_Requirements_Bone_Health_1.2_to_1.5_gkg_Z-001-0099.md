@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, nutrition, protein]
 parent-moc: 
-source: [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]]
+source: [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -20,8 +20,8 @@ Standard protein: 1.0–1.2 g/kg/day. For sarcopenia or high fracture risk: up t
 ## Links
 
 **Parent MOC:** 
-**Source:** [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]]
-**Related:** [[Sarcopenia_Bone_Loss_Connection_Z-001-0098]], _Absorption_Urinary_Excretion_Z-001-0097]]
+**Source:** [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]
+**Related:** [[Sarcopenia_Bone_Loss_Connection_Z-001-0098], _Absorption_Urinary_Excretion_Z-001-0097]
 
 ---
 
@@ -29,4 +29,4 @@ Standard protein: 1.0–1.2 g/kg/day. For sarcopenia or high fracture risk: up t
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

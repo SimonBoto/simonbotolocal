@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, vitamin-d, vdr, immunology, mechanisms, cytokines]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_VDR_Knockout_Immune_Function_L-001-0621]]"
+source-litnote: "[[LitNote_VDR_Knockout_Immune_Function_L-001-0621]"
 status: conscious
 ---
 
@@ -110,15 +110,15 @@ Vitamin D is not merely a calcium regulator — it's a **steroid hormone with di
 
 ## Related
 
-- [[Autoimmune_Disease_Vitamin_D_Connection_Z-001-1164]]
-- [[Treg_Th17_Balance_VDR_Z-001-1165]]
-- [[Clinical_Team_Education_4Arm_Methodology_Z-001-1159]]
+- [[Autoimmune_Disease_Vitamin_D_Connection_Z-001-1164]
+- [[Treg_Th17_Balance_VDR_Z-001-1165]
+- [[Clinical_Team_Education_4Arm_Methodology_Z-001-1159]
 
 ---
 
-*Source: [[LitNote_VDR_Knockout_Immune_Function_L-001-0621]] | 2026-03-08*
+*Source: [[LitNote_VDR_Knockout_Immune_Function_L-001-0621] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

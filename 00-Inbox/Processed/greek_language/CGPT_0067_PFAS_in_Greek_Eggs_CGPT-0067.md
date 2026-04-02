@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "PFAS in Greek Eggs"
 date: 2025-08-28
 source: ChatGPT conversation history
-aliases: [CGPT-0067]
+aliases: CGPT-0067]
 tags: [chatgpt-archive, greek_language]
 status: archived
 ---

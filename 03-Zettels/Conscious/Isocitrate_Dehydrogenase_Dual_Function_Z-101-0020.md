@@ -7,7 +7,7 @@ domain: 101
 tags: [zettel, isocitrate-dehydrogenase, idh, tca-cycle, cancer, oncometabolite, 2-hg]
 parent-moc: 
 status: conscious
-source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]]"
+source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]"
 extraction-date: 2026-03-02
 ---
 
@@ -129,11 +129,11 @@ While primarily a cancer target, IDH highlights:
 
 ---
 
-*See also: [[Dehydrogenases_vs_Decarboxylases_Z-101-0019]]*
+*See also: [[Dehydrogenases_vs_Decarboxylases_Z-101-0019]*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

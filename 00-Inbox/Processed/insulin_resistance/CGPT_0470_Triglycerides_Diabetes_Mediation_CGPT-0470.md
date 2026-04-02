@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Triglycerides & Diabetes Mediation."
 date: 2024-03-11
 source: ChatGPT conversation history
-aliases: [CGPT-0470]
+aliases: CGPT-0470]
 tags: [chatgpt-archive, insulin_resistance, nutrition]
 status: archived
 ---

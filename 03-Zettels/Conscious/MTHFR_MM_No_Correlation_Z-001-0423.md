@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mthfr, multiple-myeloma, genetics, correlation]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]]
+source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]
 extraction-date: 2026-03-01
 ---
 
@@ -49,9 +49,9 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_B12_MM_Mimicry_L-001-0404]]*
+*Source: [[LitNote_B12_MM_Mimicry_L-001-0404]*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

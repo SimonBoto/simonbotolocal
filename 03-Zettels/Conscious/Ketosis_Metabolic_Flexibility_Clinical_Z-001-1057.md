@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolic Health
 tags: [zettel, ketosis, ketones, metabolic-flexibility]
 parent-moc: 
-source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
-source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
+source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
+source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
 confidence: high
 created: 2026-03-08
 ---
@@ -72,7 +72,7 @@ The ability to switch between carbohydrate and fat oxidation based on availabili
 - **Cancer:** Warburg effect modulation (adjunctive)
 
 ## Related
-- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]]
+- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]
 - 
 - 
 
@@ -81,9 +81,9 @@ The ability to switch between carbohydrate and fat oxidation based on availabili
 
 
 ## Related
-- [[Ketone_vs_Glycolysis_Mitochondrial_Entry_Z-001-1259]|Z-001-1259]]
+- [[Ketone_vs_Glycolysis_Mitochondrial_Entry_Z-001-1259]|Z-001-1259]
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

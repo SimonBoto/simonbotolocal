@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, mthfr, methylation, folate, b12, genetic-polymorphism]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]]"
+source-litnote: "[[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]"
 status: conscious
 ---
 
@@ -149,14 +149,14 @@ MTHFR (methylenetetrahydrofolate reductase) is a critical enzyme in the folate c
 
 ## Related
 
-- [[Iodine_Supplementation_Thyroid_Protocol_Z-001-1230]]
-- [[Selenium_Iodine_Synergy_Toxicity_Z-001-1231]]
-- [[B_Complex_Ratios_Clinical_Analysis_Z-001-1233]]
+- [[Iodine_Supplementation_Thyroid_Protocol_Z-001-1230]
+- [[Selenium_Iodine_Synergy_Toxicity_Z-001-1231]
+- [[B_Complex_Ratios_Clinical_Analysis_Z-001-1233]
 
 ---
 
-*Source: [[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]] | 2026-03-09*
+*Source: [[LitNote_Iodine_Thyroid_MTHFR_L-001-0638] | 2026-03-09*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

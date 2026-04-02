@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Optimizing Patient Communication"
 date: 2025-02-18
 source: ChatGPT conversation history
-aliases: [CGPT-0143]
+aliases: CGPT-0143]
 tags: [chatgpt-archive, metabolomics, vitamin_d, clinical, philosophy, nutrition, communication, personal_development]
 status: archived
 ---

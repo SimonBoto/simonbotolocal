@@ -4,7 +4,7 @@ aliases:
 uid: "20260215_082"
 ---
 #atomic
-parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]]
+parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]
 ---
 id: 202602150140-zettel-mets-rise-reasons
 tags: [zettel, #phd]
@@ -12,7 +12,7 @@ aliases: [MetS Rise Reasons]
 links: []
 created: 2026-02-15
 updated: 2026-02-15
-parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]]
+parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]
 ---
 
 # Zettel MetS Rise Reasons
@@ -22,7 +22,7 @@ MetS rise explained by lifestyle trends, unhealthy diets, obesity, sedentary lif
 
 Kassi et al. (2011). Metabolic syndrome: definitions and controversies. BMC Medicine, 9:48.
 
-[[Metabolic Syndrome MetS]]
+[[Metabolic Syndrome MetS]
 
 ## Context/Chain
 
@@ -34,4 +34,4 @@ Kassi et al. (2011). Metabolic syndrome: definitions and controversies. BMC Medi
 
 ^202602150140-zettel-mets-rise-reasons
 
-**Linked from raw**: [[../Raw/Zettel_MetS_Rise_Reasons.md]]
+**Linked from raw**: [[../Raw/Zettel_MetS_Rise_Reasons.md]

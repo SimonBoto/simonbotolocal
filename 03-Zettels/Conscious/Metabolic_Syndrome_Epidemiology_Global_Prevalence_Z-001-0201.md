@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, metabolic-syndrome, epidemiology, prevalence, public-health]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]]
+source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]
 extraction-date: 2026-03-01
 ---
 
@@ -61,12 +61,12 @@ Understanding epidemiology informs:
 
 ---
 
-*Source: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]]*  
+*Source: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]*  
 *Extracted: 2026-03-01*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- _Dosing_RDA_Therapeutic_Ranges_Z-001-0219]|Z-001-0219]]
+- _Dosing_RDA_Therapeutic_Ranges_Z-001-0219]|Z-001-0219]

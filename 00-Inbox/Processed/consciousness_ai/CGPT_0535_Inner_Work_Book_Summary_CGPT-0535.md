@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Inner Work Book Summary"
 date: 2023-11-10
 source: ChatGPT conversation history
-aliases: [CGPT-0535]
+aliases: CGPT-0535]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

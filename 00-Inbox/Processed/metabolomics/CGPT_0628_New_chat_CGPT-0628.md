@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "New chat"
 date: 2023-05-28
 source: ChatGPT conversation history
-aliases: [CGPT-0628]
+aliases: CGPT-0628]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition, personal_development]
 status: archived
 ---

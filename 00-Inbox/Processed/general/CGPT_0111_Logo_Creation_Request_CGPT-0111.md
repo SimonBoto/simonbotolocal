@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Logo Creation Request"
 date: 2025-03-27
 source: ChatGPT conversation history
-aliases: [CGPT-0111]
+aliases: CGPT-0111]
 tags: [chatgpt-archive, general]
 status: archived
 ---

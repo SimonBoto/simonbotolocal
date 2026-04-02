@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, isoprenol, biochemistry, ketone-bodies, structure, seyfried]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Mitochondrial_Structure_Biology_L-001-0633]]"
+source-litnote: "[[LitNote_Mitochondrial_Structure_Biology_L-001-0633]"
 status: conscious
 ---
 
@@ -152,15 +152,15 @@ Understanding molecular structure helps distinguish:
 
 ## Related
 
-- [[Ketone_Body_Metabolism_Z-001-00XX]]
-- [[Mevalonate_Pathway_Isoprenoids_Z-101-00XX]]
-- [[CoQ10_Synthesis_Pathway_Z-001-00XX]]
+- [[Ketone_Body_Metabolism_Z-001-00XX]
+- [[Mevalonate_Pathway_Isoprenoids_Z-101-00XX]
+- [[CoQ10_Synthesis_Pathway_Z-001-00XX]
 
 ---
 
-*Source: [[LitNote_Mitochondrial_Structure_Biology_L-001-0633]] | 2026-03-09*
+*Source: [[LitNote_Mitochondrial_Structure_Biology_L-001-0633] | 2026-03-09*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

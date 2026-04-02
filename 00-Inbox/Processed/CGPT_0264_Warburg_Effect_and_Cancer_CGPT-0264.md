@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Warburg Effect and Cancer"
 date: 2024-10-27
 source: ChatGPT conversation history
-aliases: [CGPT-0264]
+aliases: CGPT-0264]
 tags: [chatgpt-archive, insulin_resistance, clinical, nutrition]
 status: archived
 ---

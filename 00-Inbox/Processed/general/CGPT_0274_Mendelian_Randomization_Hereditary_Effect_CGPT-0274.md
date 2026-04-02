@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mendelian Randomization Hereditary Effect"
 date: 2024-10-05
 source: ChatGPT conversation history
-aliases: [CGPT-0274]
+aliases: CGPT-0274]
 tags: [chatgpt-archive, general]
 status: archived
 ---

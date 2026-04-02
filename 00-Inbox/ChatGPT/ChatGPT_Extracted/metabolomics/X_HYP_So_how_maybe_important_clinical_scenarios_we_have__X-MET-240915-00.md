@@ -18,7 +18,7 @@ title: "Hypothesis: So how maybe important clinical scenarios we have in the end
 
 #..."
 date: 2024-09-15
-source: [[CGPT_0288_Simplifying_Patient_Reports_[CGPT-0288]]
+source: [[CGPT_0288_Simplifying_Patient_Reports_CGPT-0288]]
 aliases: [X-MET-240915-00]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
@@ -60,8 +60,8 @@ If true, this suggests:
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]
 
 ## Validation Log
 

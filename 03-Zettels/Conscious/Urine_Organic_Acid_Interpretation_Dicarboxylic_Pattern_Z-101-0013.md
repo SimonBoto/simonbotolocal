@@ -7,7 +7,7 @@ domain: 101
 tags: [zettel, urine-organic-acid, dicarboxylic-acid, lab-interpretation, GC-MS, diagnostic]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]]"
+source: "[[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]"
 extraction-date: 2026-03-02
 ---
 
@@ -83,10 +83,10 @@ This hierarchy reflects:
 
 ---
 
-*See also: [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]*
+*See also: [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

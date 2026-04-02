@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, cholecalciferol, calcitriol, safety]
 parent-moc: 
-source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]
+source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -35,8 +35,8 @@ Cholecalciferol (3) and calcitriol (1,25-dihydroxyvitamin D) have dramatically d
 ## Links
 
 **Parent MOC:** 
-**Source:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]
-**Related:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]], -
+**Source:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]
+**Related:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008], -
 
 ---
 
@@ -44,7 +44,7 @@ Cholecalciferol (3) and calcitriol (1,25-dihydroxyvitamin D) have dramatically d
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]]
+- [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Delete ChatGPT account"
 date: 2025-11-01
 source: ChatGPT conversation history
-aliases: [CGPT-0041]
+aliases: CGPT-0041]
 tags: [chatgpt-archive, general]
 status: archived
 ---

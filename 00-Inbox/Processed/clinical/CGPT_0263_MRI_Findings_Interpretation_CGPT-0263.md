@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "MRI Findings Interpretation"
 date: 2024-10-31
 source: ChatGPT conversation history
-aliases: [CGPT-0263]
+aliases: CGPT-0263]
 tags: [chatgpt-archive, clinical, greek_language]
 status: archived
 ---

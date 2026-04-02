@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Baking ceramics at home"
 date: 2025-11-01
 source: ChatGPT conversation history
-aliases: [CGPT-0042]
+aliases: CGPT-0042]
 tags: [chatgpt-archive, general]
 status: archived
 ---

@@ -7,7 +7,7 @@ domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, risk-assessment, emmanuel-seven]
 parent-moc: 
-source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]"
+source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]"
 confidence: high
 created: 2026-03-27
 ---
@@ -50,8 +50,8 @@ METHAP risk assessment:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]  
-**Related:** [[Independent_Review_IRB_Ethics_Z-002-0605]] — External risk assessment
+**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]  
+**Related:** [[Independent_Review_IRB_Ethics_Z-002-0605] — External risk assessment
 
 ---
 
@@ -59,6 +59,6 @@ METHAP risk assessment:
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

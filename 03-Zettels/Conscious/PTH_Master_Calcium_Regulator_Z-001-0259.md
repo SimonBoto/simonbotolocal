@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, pth, parathyroid, calcium, regulator, hormone]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]]
+source-litnote: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]
 extraction-date: 2026-03-01
 ---
 
@@ -121,10 +121,10 @@ CaSR → ↓ PTH secretion
 
 ---
 
-*Source: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]]*  
+*Source: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - 
-- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]|Z-001-1059]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]|Z-001-1059]

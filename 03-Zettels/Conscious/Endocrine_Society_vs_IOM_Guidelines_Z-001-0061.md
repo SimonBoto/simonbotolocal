@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, guidelines, Endocrine-Society, IOM, clinical-practice]
 parent-moc: 
-source: [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
+source: [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -31,8 +31,8 @@ The Endocrine Society (clinical endocrinologists) recommends 1,500-2,000 IU/day 
 ## Links
 
 **Parent MOC:** -
-**Source:** [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
-**Related:** [[Vitamin_D_RDA_10x_Underestimation_Z-001-0059]]
+**Source:** [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]
+**Related:** [[Vitamin_D_RDA_10x_Underestimation_Z-001-0059]
 
 ---
 
@@ -40,5 +40,5 @@ The Endocrine Society (clinical endocrinologists) recommends 1,500-2,000 IU/day 
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

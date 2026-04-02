@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Top Health Queries."
 date: 2023-03-14
 source: ChatGPT conversation history
-aliases: [CGPT-0663]
+aliases: CGPT-0663]
 tags: [chatgpt-archive, clinical, nutrition]
 status: archived
 ---

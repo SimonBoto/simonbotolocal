@@ -6,7 +6,7 @@ aliases: [Z-101-0477]
 domain: 101
 tags: [zettel, clinicaltrials-gov, compliance, nih, regulatory, checklist, methap, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]]
+source-litnote: [[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]
 status: conscious
 ---
 
@@ -138,15 +138,15 @@ status: conscious
 - Webinar training sessions
 
 ## Related
-- **Source:** [[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]]
-- **Registration structure:** [[ClinicalTrials_Gov_Registration_Structure_Z-101-0476]]
-- **Study design:** [[METHAP_Study_Design_Overview_Z-101-0472]]
+- **Source:** [[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]
+- **Registration structure:** [[ClinicalTrials_Gov_Registration_Structure_Z-101-0476]
+- **Study design:** [[METHAP_Study_Design_Overview_Z-101-0472]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

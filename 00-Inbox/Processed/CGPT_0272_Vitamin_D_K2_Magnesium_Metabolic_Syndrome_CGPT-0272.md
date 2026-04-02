@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Vitamin D K2 Magnesium Metabolic Syndrome"
 date: 2024-10-09
 source: ChatGPT conversation history
-aliases: [CGPT-0272]
+aliases: CGPT-0272]
 tags: [chatgpt-archive, vitamin_d, clinical]
 status: archived
 ---

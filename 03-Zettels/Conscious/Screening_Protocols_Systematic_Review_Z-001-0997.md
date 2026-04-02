@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, systematic-review, screening, inclusion-criteria, exclusion-criteria, dual-review, rayyan, covidence, inter-rater-reliability, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]]
+source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]
 status: conscious
 ---
 
@@ -360,11 +360,11 @@ Study screening is the process of evaluating search results against inclusion an
 
 ---
 
-**Related:** [[Systematic_Search_Strategy_Z-001-0996]] | [[Data_Extraction_Systematic_Review_Z-001-0998]] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999]]
+**Related:** [[Systematic_Search_Strategy_Z-001-0996] | [[Data_Extraction_Systematic_Review_Z-001-0998] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999]
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

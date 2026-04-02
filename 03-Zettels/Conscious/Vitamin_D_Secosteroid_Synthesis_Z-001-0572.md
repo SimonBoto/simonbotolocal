@@ -7,7 +7,7 @@ domain: 001
 domain-name: Vitamin Metabolism
 tags: [zettel, vitamin-d, secosteroid, cholesterol, 7-dehydrocholesterol, uv-light, calcitriol]
 parent-moc: 
-source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]]"
+source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]"
 confidence: high
 created: 2026-03-03
 ---
@@ -172,10 +172,10 @@ Gene transcription modulation
 
 ## Related Zettels
 
-- [[Isoprenoids_Terpenes_Overview_Z-001-0569]] — Secosteroid classification
-- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]] — Steroid context
-- -Metabolism]] — Detailed vitamin D MOC
-- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — High-dose safety
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569] — Secosteroid classification
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570] — Steroid context
+- -Metabolism] — Detailed vitamin D MOC
+- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008] — High-dose safety
 
 ---
 
@@ -188,8 +188,8 @@ Gene transcription modulation
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

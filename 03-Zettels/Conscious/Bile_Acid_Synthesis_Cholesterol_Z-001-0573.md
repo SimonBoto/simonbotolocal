@@ -7,7 +7,7 @@ domain: 001
 domain-name: Digestive Metabolism
 tags: [zettel, bile-acids, cholesterol, digestion, fat-absorption, enterohepatic, cyp7a1]
 parent-moc: 
-source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]]"
+source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]"
 confidence: high
 created: 2026-03-03
 ---
@@ -209,10 +209,10 @@ Fecal excretion
 
 ## Related Zettels
 
-- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]] — Other cholesterol uses
-- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]] — Other cholesterol products
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570] — Other cholesterol uses
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571] — Other cholesterol products
 -  — Digestive context (if exists)
-- [[LitNote_Statin_Pharmacology_L-001-0502]] — Alternative cholesterol lowering
+- [[LitNote_Statin_Pharmacology_L-001-0502] — Alternative cholesterol lowering
 
 ---
 
@@ -225,5 +225,5 @@ Fecal excretion
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 

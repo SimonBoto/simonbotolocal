@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, succinyl-coa, krebs-cycle, dicarboxylic-acids, adipate, metabolism]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]]"
+source-litnote: "[[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]"
 status: conscious
 ---
 
@@ -145,16 +145,16 @@ Adipyl-CoA
 
 ## Related
 
-- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
-- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]]
-- _Fatty_Acid_Breakdown_Z-001-1192]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]
+- _Fatty_Acid_Breakdown_Z-001-1192]
 
 ---
 
-*Source: [[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]] | 2026-03-09*
+*Source: [[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629] | 2026-03-09*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_Z-001-0610]|Z-001-0610]]
+- [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_Z-001-0610]|Z-001-0610]

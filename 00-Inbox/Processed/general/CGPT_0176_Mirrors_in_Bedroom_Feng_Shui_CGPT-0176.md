@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mirrors in Bedroom Feng Shui"
 date: 2025-01-25
 source: ChatGPT conversation history
-aliases: [CGPT-0176]
+aliases: CGPT-0176]
 tags: [chatgpt-archive, general]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "What is Parkinson's"
 date: 2025-08-27
 source: ChatGPT conversation history
-aliases: [CGPT-0068]
+aliases: CGPT-0068]
 tags: [chatgpt-archive, consciousness_ai, nutrition]
 status: archived
 ---

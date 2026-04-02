@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Forget everything request"
 date: 2025-03-07
 source: ChatGPT conversation history
-aliases: [CGPT-0132]
+aliases: CGPT-0132]
 tags: [chatgpt-archive, vitamin_d, technology]
 status: archived
 ---

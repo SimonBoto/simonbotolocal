@@ -236,9 +236,9 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Vitamin_D_Calcium_Family_[B-007-0001]|Vitamin D-Calcium Family Guide]]
-- [[Z-007-0001|Vitamin D — Calciferol]]
-- [[Z-007-0002|PTH — Parathyroid Hormone]]
+- [[Vitamin_D_Calcium_Family_[B-007-0001]|Vitamin D-Calcium Family Guide]
+- [[Z-007-0001|Vitamin D — Calciferol]
+- [[Z-007-0002|PTH — Parathyroid Hormone]
 
 source-litnote: Synthesized from clinical practice
 ---

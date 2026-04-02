@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Bilirubin's Role in Lungs"
 date: 2024-04-13
 source: ChatGPT conversation history
-aliases: [CGPT-0416]
+aliases: CGPT-0416]
 tags: [chatgpt-archive, general]
 status: archived
 ---

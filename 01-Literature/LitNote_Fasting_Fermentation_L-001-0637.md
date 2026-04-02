@@ -15,7 +15,7 @@ extraction-date: 2026-03-09
 # Therapeutic Fasting and Fermentation
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0199_Dysbiosis_Treatment_Side_Effects_[CGPT-0199]]
+- **ChatGPT conversation:** [[CGPT_0199_Dysbiosis_Treatment_Side_Effects_CGPT-0199]]
 - **Date:** January 4, 2025
 - **Messages:** 13-50 (kefir, fasting protocols)
 
@@ -68,9 +68,9 @@ extraction-date: 2026-03-09
 - Diversity: Rotate fermented foods
 
 ## Zettels Created
-1. [[Kefir_Grain_Reactivation_Protocol_Z-001-1227]]
-2. [[Kefir_Broth_Coffee_Fast_Protocol_Z-001-1228]]
-3. [[Fermented_Foods_Probiotic_Strategy_Z-001-1229]]
+1. [[Kefir_Grain_Reactivation_Protocol_Z-001-1227]
+2. [[Kefir_Broth_Coffee_Fast_Protocol_Z-001-1228]
+3. [[Fermented_Foods_Probiotic_Strategy_Z-001-1229]
 
 ## Related
 - 

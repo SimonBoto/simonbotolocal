@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabo Approach for Insulin."
 date: 2024-03-30
 source: ChatGPT conversation history
-aliases: [CGPT-0441]
+aliases: CGPT-0441]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, vitamin_d, clinical, nutrition]
 status: archived
 ---

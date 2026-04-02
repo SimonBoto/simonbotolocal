@@ -204,8 +204,8 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Z-007-0006|Zinc — RBC Functional Mineral]]
-- [[Z-003-0001|Ferritin — Iron Storage]]
+- [[Z-007-0006|Zinc — RBC Functional Mineral]
+- [[Z-003-0001|Ferritin — Iron Storage]
 
 ---
 *Complete biomarker foundation — Copper*

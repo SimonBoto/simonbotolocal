@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Condense Request & Response"
 date: 2023-07-01
 source: ChatGPT conversation history
-aliases: [CGPT-0609]
+aliases: CGPT-0609]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, nutrition]
 status: archived
 ---

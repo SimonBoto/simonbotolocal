@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, carbohydrate-context, renal-hemodynamics, insulin, ketones, hyperfiltration, ckd, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Carbohydrate_Context_Protein_CKD_L-001-0574]]
+source-litnote: [[LitNote_Carbohydrate_Context_Protein_CKD_L-001-0574]
 status: conscious
 ---
 
@@ -238,12 +238,12 @@ Attenuated hyperfiltration (?)
 
 ---
 
-**Related:** [[Glomerular_Hyperfiltration_Protein_Mechanism_Z-001-0975]] | [[Protein_Restriction_CKD_Guidelines_Z-001-0974]] | [[Low_Carb_CKD_Safety_Evidence_Z-001-0977]]
+**Related:** [[Glomerular_Hyperfiltration_Protein_Mechanism_Z-001-0975] | [[Protein_Restriction_CKD_Guidelines_Z-001-0974] | [[Low_Carb_CKD_Safety_Evidence_Z-001-0977]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "ChatGPT's knowledge is based on information available up to September 2021, and I do not have access to real-time data or events"
 date: 2023-09-11
 source: ChatGPT conversation history
-aliases: [CGPT-0571]
+aliases: CGPT-0571]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, nutrition]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Chem Differences: AKK."
 date: 2024-03-26
 source: ChatGPT conversation history
-aliases: [CGPT-0444]
+aliases: CGPT-0444]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

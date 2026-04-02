@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Atomic Notes in Obsidian"
 date: 2024-05-12
 source: ChatGPT conversation history
-aliases: [CGPT-0396]
+aliases: CGPT-0396]
 tags: [chatgpt-archive, general]
 status: archived
 ---

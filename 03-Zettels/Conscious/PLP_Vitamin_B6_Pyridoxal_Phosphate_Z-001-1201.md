@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, plp, vitamin-b6, pyridoxal-phosphate, amino-acid-metabolism, neurotransmitters]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630]]"
+source-litnote: "[[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630]"
 status: conscious
 ---
 
@@ -201,15 +201,15 @@ Serine + THF → Glycine + 5,10-CH₂-THF
 
 ## Related
 
-- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]]
-- [[B_Vitamin_Cofactors_Metabolism_Z-001-1202]]
-- [[Homocysteine_Metabolism_B_Vitamins_Z-001-1215]]
+- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]
+- [[B_Vitamin_Cofactors_Metabolism_Z-001-1202]
+- [[Homocysteine_Metabolism_B_Vitamins_Z-001-1215]
 
 ---
 
-*Source: [[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630]] | 2026-03-08*
+*Source: [[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

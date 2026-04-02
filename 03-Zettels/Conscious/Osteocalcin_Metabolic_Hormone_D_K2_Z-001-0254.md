@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, osteocalcin, hormone, insulin, vitamin-k2, metabolism]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]
+source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]
 extraction-date: 2026-03-01
 ---
 
@@ -96,10 +96,10 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]*  
-*Related: [[Osteocalcin_Metabolic_Hormone_D_K2_Z-001-0254]]*  
+*Source: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]*  
+*Related: [[Osteocalcin_Metabolic_Hormone_D_K2_Z-001-0254]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

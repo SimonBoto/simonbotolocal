@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "BMJ Article Review Request"
 date: 2023-11-05
 source: ChatGPT conversation history
-aliases: [CGPT-0537]
+aliases: CGPT-0537]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition]
 status: archived
 ---

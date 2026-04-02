@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, aconitase, iron-sulfur-cluster, krebs-cycle, enzyme-mechanism]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]]"
+source-litnote: "[[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]"
 status: conscious
 ---
 
@@ -128,13 +128,13 @@ Iron depleted → [4Fe-4S] lost → IRP1 active
 
 ## Related
 
-- [[IRP1_Iron_Sensing_Switch_Z-001-1205]]
-- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]]
+- [[IRP1_Iron_Sensing_Switch_Z-001-1205]
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]
 
 ---
 
-*Source: [[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]] | 2026-03-08*
+*Source: [[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]

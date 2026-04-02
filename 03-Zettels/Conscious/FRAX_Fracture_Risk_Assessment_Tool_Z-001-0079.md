@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, vitamin-d, clinical]
 parent-moc: 
-source: [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]]
+source: [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -20,8 +20,8 @@ FRAX® is a fracture risk assessment tool that integrates  risk factors (age, pr
 ## Links
 
 **Parent MOC:** 
-**Source:** [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]]
-**Related:** [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076]], [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]]
+**Source:** [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]
+**Related:** [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076], [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]
 
 ---
 
@@ -29,4 +29,4 @@ FRAX® is a fracture risk assessment tool that integrates  risk factors (age, pr
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, cd28, t-cells, exhaustion, senescence, autoimmunity]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]]"
+source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]"
 status: conscious
 ---
 
@@ -134,15 +134,15 @@ status: conscious
 
 ## Related
 
-- [[Naive_TCell_Depletion_Autoimmunity_Z-001-1182]]
-- [[TCR_Repertoire_Restriction_Z-001-1184]]
+- [[Naive_TCell_Depletion_Autoimmunity_Z-001-1182]
+- [[TCR_Repertoire_Restriction_Z-001-1184]
 
 ---
 
-*Source: [[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]] | 2026-03-08*
+*Source: [[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626] | 2026-03-08*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- /CRP_[B-002-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- /CRP_[B-002-0001]|Biomarker Family Guide]
 - 
 

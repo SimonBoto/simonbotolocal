@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, RDA, dosing, IOM, public-health]
 parent-moc: 
-source: [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
+source: [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -33,8 +33,8 @@ Corrected calculations using proper statistical methods (accounting for variabil
 ## Links
 
 **Parent MOC:** -
-**Source:** [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
-**Related:** [[IOM_Mean_vs_97th_Percentile_Error_Z-001-0058]], [[Endocrine_Society_vs_IOM_Guidelines_Z-001-0061]]
+**Source:** [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]
+**Related:** [[IOM_Mean_vs_97th_Percentile_Error_Z-001-0058], [[Endocrine_Society_vs_IOM_Guidelines_Z-001-0061]
 
 ---
 
@@ -42,4 +42,4 @@ Corrected calculations using proper statistical methods (accounting for variabil
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

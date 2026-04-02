@@ -61,7 +61,7 @@ tags: [reference, metabolomics, autoimmunity
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]] — Autoimmune metabolomics
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913] — Autoimmune metabolomics
 
 ---
 

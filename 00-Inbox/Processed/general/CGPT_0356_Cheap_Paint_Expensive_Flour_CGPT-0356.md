@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Cheap Paint, Expensive Flour"
 date: 2024-06-12
 source: ChatGPT conversation history
-aliases: [CGPT-0356]
+aliases: CGPT-0356]
 tags: [chatgpt-archive, general]
 status: archived
 ---

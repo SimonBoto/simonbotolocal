@@ -154,8 +154,8 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
-- [[Z-012-0101|Indoleacetic Acid — Tryptophan Dysbiosis]]
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
+- [[Z-012-0101|Indoleacetic Acid — Tryptophan Dysbiosis]
 
 source-litnote: Synthesized from clinical practice
 ---

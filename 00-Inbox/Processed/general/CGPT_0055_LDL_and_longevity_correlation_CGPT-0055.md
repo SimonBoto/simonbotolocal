@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "LDL and longevity correlation"
 date: 2025-09-26
 source: ChatGPT conversation history
-aliases: [CGPT-0055]
+aliases: CGPT-0055]
 tags: [chatgpt-archive, general]
 status: archived
 ---

@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vicious-cycle, stress, cortisol, HPA-axis, IR]
 parent-moc: 
-source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
+source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
 confidence: high
 created: 2026-02-24
 ---
@@ -44,8 +44,8 @@ HPA Axis Dysregulation
 
 ## Links
 
-- **Upstream:** [[Compensatory_IR_Stage_Z-001-0034.md]] — Metabolic stress feeds back
-- **Parallel:** [[Vicious_Cycle_IR_Obesity_Z-001-0037.md]], _IR_Z-001-0038.md]] — Other vicious cycles
+- **Upstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — Metabolic stress feeds back
+- **Parallel:** [[Vicious_Cycle_IR_Obesity_Z-001-0037.md], _IR_Z-001-0038.md] — Other vicious cycles
 - **Downstream:**  — Interventions
 
 ## Context
@@ -60,4 +60,4 @@ HPA Axis Dysregulation
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

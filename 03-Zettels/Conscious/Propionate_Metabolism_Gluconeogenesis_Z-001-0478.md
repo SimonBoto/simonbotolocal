@@ -8,7 +8,7 @@ tags: [zettel, propionate, scfa, gluconeogenesis, b12, biotin, gut]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045F]]
+source: [[L-001-0045F]
 ---
 
 # Propionate  and Gluconeogenesis
@@ -59,15 +59,15 @@ source: [[L-001-0045F]]
 | Key vitamins | B1, B2, B3, B5 | B7, B12 |
 
 ## Related
-- [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476]] Keto Acids vs Carboxylic Acids
-- [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479]] Vitamin Dependence
-- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]] Pyruvate Crossroads
+- [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476] Keto Acids vs Carboxylic Acids
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479] Vitamin Dependence
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469] Pyruvate Crossroads
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

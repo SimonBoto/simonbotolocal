@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, metabolic-syndrome, management, lifestyle, pharmacology, treatment]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]]
+source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]
 extraction-date: 2026-03-01
 ---
 
@@ -126,14 +126,14 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]]*  
-*Related: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]*  
+*Source: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]*  
+*Related: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]*  
 *Extracted: 2026-03-01*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]|Z-001-0219]]
+- [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]|Z-001-0219]

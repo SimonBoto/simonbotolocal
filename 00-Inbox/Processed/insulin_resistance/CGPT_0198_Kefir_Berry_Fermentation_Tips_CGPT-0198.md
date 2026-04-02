@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Kefir Berry Fermentation Tips"
 date: 2025-01-12
 source: ChatGPT conversation history
-aliases: [CGPT-0198]
+aliases: CGPT-0198]
 tags: [chatgpt-archive, insulin_resistance]
 status: archived
 ---

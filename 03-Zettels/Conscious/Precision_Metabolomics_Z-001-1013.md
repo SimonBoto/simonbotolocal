@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, metabolomics, organic-acids, urine, plasma, precision-medicine, metabolic-profiling, functional-testing, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]]
+source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]
 status: conscious
 ---
 
@@ -284,16 +284,16 @@ Precision metabolomics moves beyond single s to comprehensive metabolic profilin
 
 ---
 
-**Related:** [[Urine_Organic_Acids_Interpretation_Z-001-0552]] | [[Mitochondrial_Biomarkers_Clinical_Assessment_Z-001-0553]] | [[Pharmacometabolomics_Precision_Dosing_Z-001-0048]]
+**Related:** [[Urine_Organic_Acids_Interpretation_Z-001-0552] | [[Mitochondrial_Biomarkers_Clinical_Assessment_Z-001-0553] | [[Pharmacometabolomics_Precision_Dosing_Z-001-0048]
 
 **Source:** CGPT-0124 — Five Pillars of Metabolic Health
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- [[BCAAs_IR_Risk_Z-001-0042]|Z-001-0042]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[BCAAs_IR_Risk_Z-001-0042]|Z-001-0042]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

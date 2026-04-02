@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Improve prompts for better responses."
 date: 2024-03-18
 source: ChatGPT conversation history
-aliases: [CGPT-0458]
+aliases: CGPT-0458]
 tags: [chatgpt-archive, phd_research]
 status: archived
 ---

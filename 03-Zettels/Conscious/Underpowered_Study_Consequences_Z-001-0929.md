@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, underpowered, false-positives, type-1-error, effect-size-inflation, replication-crisis]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Power_Analysis_Metabolomics_L-001-0514]]"
+source: "[[LitNote_Power_Analysis_Metabolomics_L-001-0514]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
@@ -211,10 +211,10 @@ Observed d = 0.25 (closer to truth)
 
 ---
 
-*See also: [[Power_Analysis_Formula_Metabolomics_Z-001-0928]]*
+*See also: [[Power_Analysis_Formula_Metabolomics_Z-001-0928]*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "User Request, Model Assist"
 date: 2024-07-14
 source: ChatGPT conversation history
-aliases: [CGPT-0329]
+aliases: CGPT-0329]
 tags: [chatgpt-archive, general]
 status: archived
 ---

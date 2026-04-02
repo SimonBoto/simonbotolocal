@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Upload PDF file."
 date: 2023-09-13
 source: ChatGPT conversation history
-aliases: [CGPT-0567]
+aliases: CGPT-0567]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

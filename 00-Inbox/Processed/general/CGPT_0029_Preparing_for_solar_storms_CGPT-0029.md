@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Preparing for solar storms"
 date: 2025-11-28
 source: ChatGPT conversation history
-aliases: [CGPT-0029]
+aliases: CGPT-0029]
 tags: [chatgpt-archive, general]
 status: archived
 ---

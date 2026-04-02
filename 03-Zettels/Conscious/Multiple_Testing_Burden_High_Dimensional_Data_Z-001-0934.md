@@ -7,7 +7,7 @@ domain: 001
 domain-name: Research Methods
 tags: [zettel, statistics, multiple-testing, high-dimensional-data, omics, metabolomics, type-1-error, false-positives]
 parent-moc: 
-source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
+source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]"
 confidence: high
 created: 2026-03-03
 updated: 2026-03-05
@@ -152,11 +152,11 @@ Many "discoveries" in omics fail to replicate because:
 
 ## Related Zettels
 
-- [[Benjamini_Hochberg_Procedure_Z-001-0931]] — Benjamini-Hochberg Procedure Mechanics
-- [[FDR_Threshold_Selection_Z-001-0932]] — FDR 0.1 vs 0.05 Selection Framework
-- [[Power_Analysis_Formula_Metabolomics_Z-001-0928]] — Power Analysis Formula
-- [[Underpowered_Study_Consequences_Z-001-0929]] — Underpowered Study Consequences
-- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — False Discovery Rate and Multiple Testing Correction
+- [[Benjamini_Hochberg_Procedure_Z-001-0931] — Benjamini-Hochberg Procedure Mechanics
+- [[FDR_Threshold_Selection_Z-001-0932] — FDR 0.1 vs 0.05 Selection Framework
+- [[Power_Analysis_Formula_Metabolomics_Z-001-0928] — Power Analysis Formula
+- [[Underpowered_Study_Consequences_Z-001-0929] — Underpowered Study Consequences
+- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515] — False Discovery Rate and Multiple Testing Correction
 
 ---
 
@@ -170,4 +170,4 @@ Many "discoveries" in omics fail to replicate because:
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

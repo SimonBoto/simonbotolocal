@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: History of Glucose Discovery and Metabolic Understanding
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0471_Ada_Dietary_Guidelines_Controversies_[CGPT-0471]]
+- **ChatGPT conversation:** [[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]
 - **Date:** March 10, 2024
 - **Scope:** Historical progression from glucose isolation to understanding of metabolic role
 
@@ -38,7 +38,7 @@ extraction-date: 2026-03-01
 - Physiological role unknown
 - Connection to diabetes not yet made
 
-**Zettels extracted:** [[Glucose_Discovery_Marggraf_1747_Z-001-0237]]
+**Zettels extracted:** [[Glucose_Discovery_Marggraf_1747_Z-001-0237]
 
 ### 2. Chemical Identification (19th Century)
 > "The chemical formula for glucose (C6H12O6) was identified in the 19th century as part of the developing field of organic chemistry."
@@ -55,7 +55,7 @@ extraction-date: 2026-03-01
 - Fischer projections (still used today)
 - Synthesized glucose from glycerol
 
-**Zettels extracted:** [[Glucose_Chemistry_Fischer_19th_Century_Z-001-0238]]
+**Zettels extracted:** [[Glucose_Chemistry_Fischer_19th_Century_Z-001-0238]
 
 ### 3. Claude Bernard and Glycogen (Mid-19th Century)
 > "Claude Bernard discovered that the liver stored glycogen, a form of glucose, and released it into the blood."
@@ -78,7 +78,7 @@ extraction-date: 2026-03-01
 - Foundation for endocrinology
 - Concept of internal secretion (precursor to hormone concept)
 
-**Zettels extracted:** [[Claude_Bernard_Glycogen_Liver_1850s_Z-001-0239]]
+**Zettels extracted:** [[Claude_Bernard_Glycogen_Liver_1850s_Z-001-0239]
 
 ### 4. Glucose-Insulin Connection (1921)
 > "The discovery of insulin in 1921 by Banting and Best helped to clarify the crucial role of glucose in the body's metabolic processes."
@@ -89,7 +89,7 @@ extraction-date: 2026-03-01
 - Connection between pancreas and glucose metabolism
 - Diabetes as failure of glucose regulation
 
-**Zettels extracted:** [[Glucose_Insulin_Connection_1921_Z-001-0240]]
+**Zettels extracted:** [[Glucose_Insulin_Connection_1921_Z-001-0240]
 
 ---
 
@@ -115,10 +115,10 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Glucose_Discovery_Marggraf_1747_Z-001-0237]]
-2. [[Glucose_Chemistry_Fischer_19th_Century_Z-001-0238]]
-3. [[Claude_Bernard_Glycogen_Liver_1850s_Z-001-0239]]
-4. [[Glucose_Insulin_Connection_1921_Z-001-0240]]
+1. [[Glucose_Discovery_Marggraf_1747_Z-001-0237]
+2. [[Glucose_Chemistry_Fischer_19th_Century_Z-001-0238]
+3. [[Claude_Bernard_Glycogen_Liver_1850s_Z-001-0239]
+4. [[Glucose_Insulin_Connection_1921_Z-001-0240]
 
 ---
 

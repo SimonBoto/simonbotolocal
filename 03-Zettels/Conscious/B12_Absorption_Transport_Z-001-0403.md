@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, vitamin-b12, absorption, intrinsic-factor, transport]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]
+source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
 extraction-date: 2026-03-01
 ---
 
@@ -95,10 +95,10 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: _B12_L-001-0401]]*
+*Source: _B12_L-001-0401]*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

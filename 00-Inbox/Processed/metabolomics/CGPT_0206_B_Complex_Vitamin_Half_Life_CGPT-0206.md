@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "B Complex Vitamin Half-Life"
 date: 2025-01-08
 source: ChatGPT conversation history
-aliases: [CGPT-0206]
+aliases: CGPT-0206]
 tags: [chatgpt-archive, metabolomics, phd_research, nutrition, technology]
 status: archived
 ---

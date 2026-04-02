@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Futuristic IV Therapies Illustrations"
 date: 2024-05-11
 source: ChatGPT conversation history
-aliases: [CGPT-0400]
+aliases: CGPT-0400]
 tags: [chatgpt-archive, clinical, technology]
 status: archived
 ---

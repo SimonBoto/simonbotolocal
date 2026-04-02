@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, pharmacology, denosumab]
 parent-moc: 
-source: [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]]
+source: [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -20,8 +20,8 @@ Denosumab is a fully human monoclonal antibody that binds to RANKL, preventing i
 ## Links
 
 **Parent MOC:** 
-**Source:** [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]]
-**Related:** [[RANK_RANKL_OPG_Osteoclast_Regulation_Z-001-0082]], [[Denosumab_Rebound_Fractures_Discontinuation_Z-001-0086]]
+**Source:** [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]
+**Related:** [[RANK_RANKL_OPG_Osteoclast_Regulation_Z-001-0082], [[Denosumab_Rebound_Fractures_Discontinuation_Z-001-0086]
 
 ---
 
@@ -29,4 +29,4 @@ Denosumab is a fully human monoclonal antibody that binds to RANKL, preventing i
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Coconut Pana Cotta Delight"
 date: 2024-03-30
 source: ChatGPT conversation history
-aliases: [CGPT-0440]
+aliases: CGPT-0440]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

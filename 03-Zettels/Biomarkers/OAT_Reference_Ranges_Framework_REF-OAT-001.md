@@ -129,13 +129,13 @@ Blocks in Krebs cycle → metabolic stress → body struggles metabolically → 
 
 | This Framework | B-012 Series Guides |
 |----------------|---------------------|
-| Citric range | [[B-012-0001|Citrate — Mitochondrial Dysfunction Marker]] |
-| Aconitic/Isocitric | [[B-012-0002|Isocitrate — The Aconitase Checkpoint]] |
-| 2-Ketoglutaric | [[B-012-0003|α-Ketoglutarate — Nitrogen & Energy Hub]] |
-| Succinic | [[B-012-0004|Succinate — Complex II Sentinel]] |
-| Fumaric | [[B-012-0005|Fumarate — The Fumarase Checkpoint]] |
-| Malic | [[B-012-0006|Malate — Mitochondrial-Cytosol Shuttle]] |
-| Pattern recognition | [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition]] |
+| Citric range | [[B-012-0001|Citrate — Mitochondrial Dysfunction Marker] |
+| Aconitic/Isocitric | [[B-012-0002|Isocitrate — The Aconitase Checkpoint] |
+| 2-Ketoglutaric | [[B-012-0003|α-Ketoglutarate — Nitrogen & Energy Hub] |
+| Succinic | [[B-012-0004|Succinate — Complex II Sentinel] |
+| Fumaric | [[B-012-0005|Fumarate — The Fumarase Checkpoint] |
+| Malic | [[B-012-0006|Malate — Mitochondrial-Cytosol Shuttle] |
+| Pattern recognition | [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition] |
 
 ---
 *Extracted from legacy clinic prototype — 2026-03-31*

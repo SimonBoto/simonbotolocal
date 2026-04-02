@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Zettelkasten for PhD Research"
 date: 2024-09-29
 source: ChatGPT conversation history
-aliases: [CGPT-0277]
+aliases: CGPT-0277]
 tags: [chatgpt-archive, phd_research]
 status: archived
 ---

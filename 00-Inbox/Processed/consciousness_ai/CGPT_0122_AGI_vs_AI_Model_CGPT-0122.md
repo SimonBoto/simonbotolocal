@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "AGI vs AI Model"
 date: 2025-03-16
 source: ChatGPT conversation history
-aliases: [CGPT-0122]
+aliases: CGPT-0122]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

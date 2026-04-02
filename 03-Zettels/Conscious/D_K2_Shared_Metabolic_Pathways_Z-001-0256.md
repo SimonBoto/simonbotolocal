@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, vitamin-d, vitamin-k2, metabolism, pathways, integration]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]
+source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]
 extraction-date: 2026-03-01
 ---
 
@@ -129,11 +129,11 @@ Result: Greater reduction in chronic inflammation
 
 ---
 
-*Source: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]*  
+*Source: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

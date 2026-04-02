@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mitochondria Name Origin"
 date: 2024-11-02
 source: ChatGPT conversation history
-aliases: [CGPT-0261]
+aliases: CGPT-0261]
 tags: [chatgpt-archive, greek_language]
 status: archived
 ---

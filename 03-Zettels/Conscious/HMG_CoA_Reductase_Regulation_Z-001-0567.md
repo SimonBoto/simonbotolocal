@@ -7,7 +7,7 @@ domain: 001
 domain-name: Lipid Metabolism
 tags: [zettel, hmg-coa-reductase, statins, regulation, cholesterol, srebp, ampk]
 parent-moc: 
-source: "[[LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518]]"
+source: "[[LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518]"
 confidence: high
 created: 2026-03-03
 ---
@@ -181,10 +181,10 @@ Blocking HMG-CoA reductase doesn't just block cholesterol — it blocks **all me
 
 ## Related Zettels
 
-- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]] — Complete pathway
-- [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]] — Energy requirements
-- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]] — CoQ10 from mevalonate
-- [[LitNote_Statin_Pharmacology_L-001-0502]] — Detailed statin coverage
+- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566] — Complete pathway
+- [[Mevalonate_Pathway_Energy_Cost_Z-001-0568] — Energy requirements
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571] — CoQ10 from mevalonate
+- [[LitNote_Statin_Pharmacology_L-001-0502] — Detailed statin coverage
 
 ---
 
@@ -197,7 +197,7 @@ Blocking HMG-CoA reductase doesn't just block cholesterol — it blocks **all me
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

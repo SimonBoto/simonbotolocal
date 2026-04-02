@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Herbs for Gut Health"
 date: 2024-09-21
 source: ChatGPT conversation history
-aliases: [CGPT-0287]
+aliases: CGPT-0287]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

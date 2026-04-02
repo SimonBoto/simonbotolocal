@@ -42,7 +42,7 @@ source-litnote: Synthesized from clinical practice
 | **Risk prediction** | Good | Superior |
 | **Discordance** | Common with metabolic syndrome |
 
-**Related biomarkers:** [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001]|LDL-C]] measures cholesterol mass, while LDL-P counts actual particles — when they disagree, LDL-P predicts risk more accurately. Both are carried by [[ApoB_Apolipoprotein_B_Atherogenic_Particles_Z-006-0005]|ApoB]] particles.
+**Related biomarkers:** [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001]|LDL-C] measures cholesterol mass, while LDL-P counts actual particles — when they disagree, LDL-P predicts risk more accurately. Both are carried by [[ApoB_Apolipoprotein_B_Atherogenic_Particles_Z-006-0005]|ApoB] particles.
 
 **Particle sizes:**
 | Type | Size | Risk |
@@ -189,9 +189,9 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Cholesterol_Lipid_Panel_[B-006-0001].md|Lipid Panel]]
-- [[Z-006-0005|ApoB — Apolipoprotein B]]
-- [[Z-006-0001|LDL Cholesterol]]
+- [[Cholesterol_Lipid_Panel_[B-006-0001].md|Lipid Panel]
+- [[Z-006-0005|ApoB — Apolipoprotein B]
+- [[Z-006-0001|LDL Cholesterol]
 
 ---
 *Complete biomarker foundation — LDL-P*

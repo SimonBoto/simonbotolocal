@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Study Review Summary"
 date: 2024-07-21
 source: ChatGPT conversation history
-aliases: [CGPT-0323]
+aliases: CGPT-0323]
 tags: [chatgpt-archive, insulin_resistance, clinical, phd_research, nutrition]
 status: archived
 ---

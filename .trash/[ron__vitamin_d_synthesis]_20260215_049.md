@@ -19,15 +19,15 @@ Common confusion:
 - “Sunscreen has no effect.” Strong sunscreens can reduce UV-B driven synthesis.
 
 Related:
-[[Hub_Vitamin_D]]
-[[Zettel_Cholesterol_Is_A_Stress_Response_Substrate_For_D_And_Repair]]
-[[Dictionary_Vitamin_D]]
-[[Dictionary_25_OH_Vitamin_D]]
-[[Rule_Vitamin_D_Safety_Gates]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
+[[Hub_Vitamin_D]
+[[Zettel_Cholesterol_Is_A_Stress_Response_Substrate_For_D_And_Repair]
+[[Dictionary_Vitamin_D]
+[[Dictionary_25_OH_Vitamin_D]
+[[Rule_Vitamin_D_Safety_Gates]
+[[111_Hub_Lipids_And_Fatty_Acids]
 
 Open_Loops:
-- Create dictionary notes for [[Dictionary_Vitamin_D]] and [[Dictionary_25_OH_Vitamin_D]] if missing.
+- Create dictionary notes for [[Dictionary_Vitamin_D] and [[Dictionary_25_OH_Vitamin_D] if missing.
 - Attach one authoritative review as library support.
 
 Needs_Evidence: yes

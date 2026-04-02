@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Novel Insight for Humans"
 date: 2025-01-29
 source: ChatGPT conversation history
-aliases: [CGPT-0167]
+aliases: CGPT-0167]
 tags: [chatgpt-archive, general]
 status: archived
 ---

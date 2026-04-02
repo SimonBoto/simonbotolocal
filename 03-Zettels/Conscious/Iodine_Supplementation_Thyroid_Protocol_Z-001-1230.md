@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, iodine, thyroid, halogen-detox, immune, selenium-synergy]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]]"
+source-litnote: "[[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]"
 status: conscious
 ---
 
@@ -132,13 +132,13 @@ Coupling → T3 (triiodothyronine), T4 (thyroxine)
 
 ## Related
 
-- [[Selenium_Iodine_Synergy_Toxicity_Z-001-1231]]
-- [[MTHFR_Methylation_Support_Protocol_Z-001-1232]]
+- [[Selenium_Iodine_Synergy_Toxicity_Z-001-1231]
+- [[MTHFR_Methylation_Support_Protocol_Z-001-1232]
 
 ---
 
-*Source: [[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]] | 2026-03-09*
+*Source: [[LitNote_Iodine_Thyroid_MTHFR_L-001-0638] | 2026-03-09*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

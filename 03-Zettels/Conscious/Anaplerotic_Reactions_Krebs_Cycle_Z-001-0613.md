@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, anaplerosis, krebs-cycle, amino-acids, pyruvate-carboxylase, oxaloacetate, conscious]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]]
+source-litnote: [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]
 extraction-date: 2026-03-05
 ---
 
@@ -96,11 +96,11 @@ During active biosynthesis, intermediates are withdrawn:
 
 ---
 
-*Source: CGPT-0413 (April 16, 2024) via [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]]*
+*Source: CGPT-0413 (April 16, 2024) via [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]|Z-001-1196]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]|Z-001-1196]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Slow Cooker Dropshipping Guide"
 date: 2024-01-27
 source: ChatGPT conversation history
-aliases: [CGPT-0506]
+aliases: CGPT-0506]
 tags: [chatgpt-archive, general]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Seed Oils and Metabolic Health"
 date: 2024-09-25
 source: ChatGPT conversation history
-aliases: [CGPT-0281]
+aliases: CGPT-0281]
 tags: [chatgpt-archive, insulin_resistance, clinical, consciousness_ai, nutrition]
 status: archived
 ---

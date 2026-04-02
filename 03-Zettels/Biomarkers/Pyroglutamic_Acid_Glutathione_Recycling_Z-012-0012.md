@@ -196,8 +196,8 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
-- [[Z-009-0004|GGT — Glutathione Metabolism]]
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
+- [[Z-009-0004|GGT — Glutathione Metabolism]
 
 source-litnote: Synthesized from clinical practice
 ---

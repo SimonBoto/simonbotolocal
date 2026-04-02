@@ -40,12 +40,12 @@ source-litnote: Synthesized from clinical practice
 ## 🔗 Connected Systems
 
 **Insulin Resistance:**
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (hyperinsulinemia ↑ uric acid)
-- [[Metabolic_Syndrome_Criteria_Z-001-0050.md]] — Metabolic syndrome (uric acid is criterion)
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md] — HOMA-IR (hyperinsulinemia ↑ uric acid)
+- [[Metabolic_Syndrome_Criteria_Z-001-0050.md] — Metabolic syndrome (uric acid is criterion)
 - Mechanism: Insulin reduces uric acid renal excretion
 
 **Kidney Function:**
-- [[Kidney_Function_eGFR_Creatinine_Z-009-0001.md]] — eGFR (uric acid ↑ as eGFR declines)
+- [[Kidney_Function_eGFR_Creatinine_Z-009-0001.md] — eGFR (uric acid ↑ as eGFR declines)
 - Uric acid is both marker and mechanism of kidney damage
 
 **Cardiovascular:**
@@ -133,8 +133,8 @@ patient_id,visit,uric_acid_mg_dl,uric_acid_target_status
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- |Biomarkers MOC]]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
+- |Biomarkers MOC]
 

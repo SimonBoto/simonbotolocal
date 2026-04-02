@@ -7,7 +7,7 @@ domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, genomics, genome, DNA, pharmacogenomics, GWAS, conscious]
 parent-moc: 
-source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
+source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
@@ -72,27 +72,27 @@ Study of how DNA/RNA variations affect drug response:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Genomics position in hierarchy
-- **Parallel/Related:** [[Transcriptomics_mRNA_Expression_Z-001-0005.md]] — Next step in cascade
-- **Downstream/Consequence:** [[Metabolomics_Phenotype_Proxy_Z-001-0002.md]] — Why metabolomics is needed
+- **Upstream/Prerequisite:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md] — Genomics position in hierarchy
+- **Parallel/Related:** [[Transcriptomics_mRNA_Expression_Z-001-0005.md] — Next step in cascade
+- **Downstream/Consequence:** [[Metabolomics_Phenotype_Proxy_Z-001-0002.md] — Why metabolomics is needed
 
 ## Context
 
 **Also relevant to:**  — Genetic stratification considerations
 
-**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Subsection 2.1
+**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001] — Subsection 2.1
 
 ---
 
 *UID: Z-001-0904 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
 
 
 ## Related
-- [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]|Z-001-0920]]
+- [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]|Z-001-0920]

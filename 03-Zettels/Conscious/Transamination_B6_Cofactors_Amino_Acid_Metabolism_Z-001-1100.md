@@ -7,8 +7,8 @@ domain: 001
 domain-name: Amino Acid Metabolism
 tags: [zettel, transamination, b6, cofactors, metabolism]
 parent-moc: 
-source-litnote: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
-source: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
+source-litnote: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]
+source: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]
 confidence: high
 created: 2026-03-08
 ---
@@ -105,8 +105,8 @@ Alanine + Alpha-ketoglutarate ↔ Pyruvate + Glutamate
 | **Hydralazine** | B6 antagonist |
 
 ## Related
-- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
-| [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]
+| [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]
 | 
 
 ---
@@ -114,9 +114,9 @@ Alanine + Alpha-ketoglutarate ↔ Pyruvate + Glutamate
 
 
 ## Related
-- [[Dehydrogenases_vs_Decarboxylases_Comparison_Z-001-1203]|Z-001-1203]]
+- [[Dehydrogenases_vs_Decarboxylases_Comparison_Z-001-1203]|Z-001-1203]
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

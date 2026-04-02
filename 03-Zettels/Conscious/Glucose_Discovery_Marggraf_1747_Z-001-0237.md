@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, glucose, history, 1747, marggraf, discovery]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Glucose_History_L-001-0208]]
+source-litnote: [[LitNote_Glucose_History_L-001-0208]
 extraction-date: 2026-03-01
 ---
 
@@ -73,9 +73,9 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Glucose_History_L-001-0208]]*  
+*Source: [[LitNote_Glucose_History_L-001-0208]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

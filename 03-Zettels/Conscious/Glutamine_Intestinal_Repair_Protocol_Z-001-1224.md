@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, glutamine, gut-healing, intestinal-barrier, amino-acids, leaky-gut]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Gut_Healing_Amino_Acids_L-001-0636]]"
+source-litnote: "[[LitNote_Gut_Healing_Amino_Acids_L-001-0636]"
 status: conscious
 ---
 
@@ -116,14 +116,14 @@ Glutamine is the primary fuel source for enterocytes (intestinal epithelial cell
 
 ## Related
 
-- [[Taurine_Bile_Gut_Health_Z-001-1225]]
-- [[Amino_Acids_Gut_Healing_Synergy_Z-001-1226]]
-- [[Kefir_Broth_Coffee_Fast_Protocol_Z-001-1228]]
+- [[Taurine_Bile_Gut_Health_Z-001-1225]
+- [[Amino_Acids_Gut_Healing_Synergy_Z-001-1226]
+- [[Kefir_Broth_Coffee_Fast_Protocol_Z-001-1228]
 
 ---
 
-*Source: [[LitNote_Gut_Healing_Amino_Acids_L-001-0636]] | 2026-03-09*
+*Source: [[LitNote_Gut_Healing_Amino_Acids_L-001-0636] | 2026-03-09*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

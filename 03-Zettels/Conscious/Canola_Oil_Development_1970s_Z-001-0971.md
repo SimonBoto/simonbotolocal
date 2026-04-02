@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, canola, rapeseed, erucic-acid, canada, 1970s, plant-breeding, low-linolenic, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]]
+source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]
 status: conscious
 ---
 
@@ -241,13 +241,13 @@ Canola represents:
 
 ---
 
-**Related:** [[Pre_Industrial_Seed_Oil_Uses_Z-001-0968]] | [[Seed_Oil_Fatty_Acid_Composition_Table_Z-001-0945]] | [[High_Oleic_Varieties_Seed_Oils_Z-001-0972]]
+**Related:** [[Pre_Industrial_Seed_Oil_Uses_Z-001-0968] | [[Seed_Oil_Fatty_Acid_Composition_Table_Z-001-0945] | [[High_Oleic_Varieties_Seed_Oils_Z-001-0972]
 
 **Source:** CGPT-0340 — Seed oils history and process
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 

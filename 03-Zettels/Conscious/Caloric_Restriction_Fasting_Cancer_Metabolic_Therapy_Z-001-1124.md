@@ -7,8 +7,8 @@ domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, fasting, caloric-restriction, cancer, therapy]
 parent-moc: 
-source-litnote: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]]
-source: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]]
+source-litnote: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]
+source: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]
 confidence: high
 created: 2026-03-08
 ---
@@ -157,8 +157,8 @@ Caloric restriction and fasting induce metabolic changes that can inhibit cancer
 | **TRE** | Daily eating window |
 
 ## Related
-- [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_Z-001-1122]]
-- [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]]
+- [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_Z-001-1122]
+- [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]
 - 
 
 ---
@@ -166,5 +166,5 @@ Caloric restriction and fasting induce metabolic changes that can inhibit cancer
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

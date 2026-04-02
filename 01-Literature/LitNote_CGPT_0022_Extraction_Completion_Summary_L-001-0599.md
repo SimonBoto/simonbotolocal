@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 # Lit: CGPT-0022 — Full Extraction Completion Summary
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0022_Metabolomics_training_role_[CGPT-0022]]
+- **ChatGPT conversation:** [[CGPT_0022_Metabolomics_training_role_CGPT-0022]]
 - **Date:** December 08, 2025
 - **Messages:** 179
 - **Lines:** 14,447

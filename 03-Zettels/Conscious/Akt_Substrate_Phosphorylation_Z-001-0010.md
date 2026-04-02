@@ -35,9 +35,9 @@ Fully activated Akt phosphorylates multiple substrates to execute 's metabolic e
 
 ## Links
 
-- **Upstream:** [[Akt_Recruitment_by_PIP3_Z-001-0009]] — Akt activation
-- **Downstream:** [[GLUT4_Vesicle_Translocation_Z-001-0011]] — AS160 
-- **Pathway:** [[GSK3_Inhibition_Glycogen_Synthesis_Z-001-0012]] — Glycogen synthesis
+- **Upstream:** [[Akt_Recruitment_by_PIP3_Z-001-0009] — Akt activation
+- **Downstream:** [[GLUT4_Vesicle_Translocation_Z-001-0011] — AS160 
+- **Pathway:** [[GSK3_Inhibition_Glycogen_Synthesis_Z-001-0012] — Glycogen synthesis
 
 ## Context
 
@@ -47,5 +47,5 @@ Fully activated Akt phosphorylates multiple substrates to execute 's metabolic e
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

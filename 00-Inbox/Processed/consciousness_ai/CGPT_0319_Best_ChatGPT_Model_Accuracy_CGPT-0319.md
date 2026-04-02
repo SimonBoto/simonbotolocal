@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Best ChatGPT Model Accuracy"
 date: 2024-07-28
 source: ChatGPT conversation history
-aliases: [CGPT-0319]
+aliases: CGPT-0319]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

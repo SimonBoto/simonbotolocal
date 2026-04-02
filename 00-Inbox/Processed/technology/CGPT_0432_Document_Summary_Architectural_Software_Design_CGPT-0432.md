@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Document Summary: Architectural Software Design"
 date: 2024-04-08
 source: ChatGPT conversation history
-aliases: [CGPT-0432]
+aliases: CGPT-0432]
 tags: [chatgpt-archive, technology, personal_development]
 status: archived
 ---

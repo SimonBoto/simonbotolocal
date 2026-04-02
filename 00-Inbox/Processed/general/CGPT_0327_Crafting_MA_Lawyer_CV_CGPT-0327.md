@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Crafting M&A Lawyer CV"
 date: 2024-07-17
 source: ChatGPT conversation history
-aliases: [CGPT-0327]
+aliases: CGPT-0327]
 tags: [chatgpt-archive, general]
 status: archived
 ---

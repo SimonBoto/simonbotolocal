@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Stages of Healing Process"
 date: 2024-09-26
 source: ChatGPT conversation history
-aliases: [CGPT-0283]
+aliases: CGPT-0283]
 tags: [chatgpt-archive, general]
 status: archived
 ---

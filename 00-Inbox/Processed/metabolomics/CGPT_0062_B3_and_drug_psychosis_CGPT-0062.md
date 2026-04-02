@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "B3 and drug psychosis"
 date: 2025-09-06
 source: ChatGPT conversation history
-aliases: [CGPT-0062]
+aliases: CGPT-0062]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition, technology]
 status: archived
 ---

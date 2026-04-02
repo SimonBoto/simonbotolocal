@@ -31,8 +31,8 @@ tags: [index, templates, standards]
 
 ## Connection to Vault
 
-- Up: [[08 Structure Index]]
-- Related: [[Protocols Index]], [[03 Zettels Index]]
+- Up: [[08 Structure Index]
+- Related: [[Protocols Index], [[03 Zettels Index]
 
 ---
 

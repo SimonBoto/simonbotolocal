@@ -7,7 +7,7 @@ domain: 001
 domain-name: Nutrition
 tags: [zettel, reference, omega-6, omega-3, poultry, measurements, data-table, fatty-acids]
 parent-moc: 
-source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]]"
+source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]"
 confidence: high
 created: 2026-03-03
 ---
@@ -141,9 +141,9 @@ To achieve 4:1 ratio with this poultry intake:
 
 ## Related Zettels
 
-- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]] — Chicken meat details
-- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563]] — Egg quality comparison
-- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]] —  and clinical significance
+- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562] — Chicken meat details
+- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563] — Egg quality comparison
+- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564] —  and clinical significance
 
 ---
 
@@ -164,5 +164,5 @@ To achieve 4:1 ratio with this poultry intake:
 *Created: 2026-03-03 | Status: Conscious | Domain: 001 | Reference Data*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]

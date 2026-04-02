@@ -94,9 +94,9 @@ Take 1 capsule daily or as directed by your physician.
 | 1 | €0.20 | 1000 μg | Standard dose |
 
 ## Biomarker Links
-- [[Vitamin_B12_Cobalamin_Z-004-0002]] — serum B12 target >400 pg/mL
-- [[Methylmalonic_Acid_MMA_Z-004-0003]] — functional B12 status
-- [[Homocysteine_Methylation_Cardiovascular_Risk_Z-004-0001]] — B12 lowers homocysteine |
+- [[Vitamin_B12_Cobalamin_Z-004-0002] — serum B12 target >400 pg/mL
+- [[Methylmalonic_Acid_MMA_Z-004-0003] — functional B12 status
+- [[Homocysteine_Methylation_Cardiovascular_Risk_Z-004-0001] — B12 lowers homocysteine |
 
 ## Comparison with Be Well Multivitamin
 | Feature | B12 Active | Be Well |

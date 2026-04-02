@@ -221,9 +221,9 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Thyroid Panel Family Guide]]
-- [[Z-010-0001|TSH — Thyroid Stimulating Hormone]]
-- [[Z-010-0002|Free T4 — Thyroxine]]
+- [[Thyroid_Panel_[B-010-0001]|Thyroid Panel Family Guide]
+- [[Z-010-0001|TSH — Thyroid Stimulating Hormone]
+- [[Z-010-0002|Free T4 — Thyroxine]
 
 source-litnote: Synthesized from clinical practice
 ---

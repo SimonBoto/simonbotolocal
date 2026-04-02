@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, phd, sample-size, study-design, targeted-metabolomics, validation, pilot-study]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Power_Analysis_Metabolomics_L-001-0514]]"
+source: "[[LitNote_Power_Analysis_Metabolomics_L-001-0514]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
@@ -208,10 +208,10 @@ Severe T2DM (HbA1c>9) vs. healthy: Effect size f=0.35, need n=100/group
 
 ---
 
-*See also: [[Power_Analysis_Formula_Metabolomics_Z-001-0928]]*
+*See also: [[Power_Analysis_Formula_Metabolomics_Z-001-0928]*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

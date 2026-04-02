@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Breast Cancer Chemo Prediction Study"
 date: 2023-09-10
 source: ChatGPT conversation history
-aliases: [CGPT-0576]
+aliases: CGPT-0576]
 tags: [chatgpt-archive, metabolomics, clinical, personal_development]
 status: archived
 ---

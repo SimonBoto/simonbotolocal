@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Training
 tags: [zettel, clinical-integration, case-based-learning]
 parent-moc: 
-source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
-source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
+source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
+source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
 confidence: high
 created: 2026-03-08
 ---
@@ -77,8 +77,8 @@ By end of Week 8, trainees must demonstrate:
 > "This produces  clinicians, not pathway parrots."
 
 ## Related
-- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
-- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]
 - 
 
 ---
@@ -86,7 +86,7 @@ By end of Week 8, trainees must demonstrate:
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

@@ -61,7 +61,7 @@ tags: [reference, omega-6, omega-3, inflammation, diet,
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Advanced_Lipoxidation_End_Products_ALEs_Z-001-0958]] — Omega-6 health effects
+- [[Advanced_Lipoxidation_End_Products_ALEs_Z-001-0958] — Omega-6 health effects
 
 ---
 

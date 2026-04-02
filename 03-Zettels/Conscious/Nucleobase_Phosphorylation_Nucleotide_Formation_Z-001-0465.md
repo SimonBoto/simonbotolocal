@@ -8,7 +8,7 @@ tags: [zettel, phosphorylation, nucleotides, nucleosides, atp, camp, signaling]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045C]]
+source: [[L-001-0045C]
 ---
 
 # Nucleobase Phosphorylation and Nucleotide Formation
@@ -111,9 +111,9 @@ Builds nucleotides from simple precursors (, CO₂, formate)
 - Alternative activating agents (imidazolides)
 
 ## Related
-- [[ATP_Universal_Energy_Currency_Z-101-0451]] ATP as Universal Energy Currency
-- [[Ribose_Structure_RNA_Backbone_Z-001-0458]] Ribose Structure (sugar component)
-- [[Amino_Acids_vs_Nucleobases_Z-101-0462]] Amino Acids vs Nucleobases (both phosphorylated)
+- [[ATP_Universal_Energy_Currency_Z-101-0451] ATP as Universal Energy Currency
+- [[Ribose_Structure_RNA_Backbone_Z-001-0458] Ribose Structure (sugar component)
+- [[Amino_Acids_vs_Nucleobases_Z-101-0462] Amino Acids vs Nucleobases (both phosphorylated)
 - 
 
 ---
@@ -121,6 +121,6 @@ Builds nucleotides from simple precursors (, CO₂, formate)
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]|Z-001-1086]]
+- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]|Z-001-1086]

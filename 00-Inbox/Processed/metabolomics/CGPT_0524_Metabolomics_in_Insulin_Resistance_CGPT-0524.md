@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolomics in Insulin Resistance"
 date: 2023-12-01
 source: ChatGPT conversation history
-aliases: [CGPT-0524]
+aliases: CGPT-0524]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical]
 status: archived
 ---

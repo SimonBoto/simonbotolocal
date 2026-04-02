@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Contextualized response tailoring"
 date: 2025-08-20
 source: ChatGPT conversation history
-aliases: [CGPT-0070]
+aliases: CGPT-0070]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research]
 status: archived
 ---

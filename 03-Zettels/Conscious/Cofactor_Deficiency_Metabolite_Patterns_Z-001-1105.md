@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, cofactor, deficiency, metabolites, biomarkers]
 parent-moc: 
-source-litnote: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
-source: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
+source-litnote: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]
+source: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]
 confidence: high
 created: 2026-03-08
 ---
@@ -101,17 +101,17 @@ Specific metabolite accumulation patterns in blood or urine can reveal cofactor 
 | **Mg** | 400-800 mg/day | 200-400 mg/day |
 
 ## Related
-- _Z-001-1102]]
-| [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
-| -Analysis]]
+- _Z-001-1102]
+| [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]
+| -Analysis]
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

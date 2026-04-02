@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Training
 tags: [zettel, curriculum, index, master]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0022_Training_Integration_L-001-0598]]
-source: [[LitNote_CGPT_0022_Training_Integration_L-001-0598]]
+source-litnote: [[LitNote_CGPT_0022_Training_Integration_L-001-0598]
+source: [[LitNote_CGPT_0022_Training_Integration_L-001-0598]
 confidence: high
 created: 2026-03-08
 ---
@@ -128,7 +128,7 @@ For new clinicians, follow this sequence:
 8. Reference: Bibliography (L-001-0596)
 
 ## Related
-- [[Metabolomics_Training_MOC_Graph_Z-001-1082]]
+- [[Metabolomics_Training_MOC_Graph_Z-001-1082]
 - 
 
 ---
@@ -136,5 +136,5 @@ For new clinicians, follow this sequence:
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

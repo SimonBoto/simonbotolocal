@@ -136,8 +136,8 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
-- [[Z-012-0111|Adipic Acid — Fatty Acid Oxidation]]
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
+- [[Z-012-0111|Adipic Acid — Fatty Acid Oxidation]
 
 source-litnote: Synthesized from clinical practice
 ---

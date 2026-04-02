@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Building the Master Throne"
 date: 2025-04-21
 source: ChatGPT conversation history
-aliases: [CGPT-0098]
+aliases: CGPT-0098]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research]
 status: archived
 ---

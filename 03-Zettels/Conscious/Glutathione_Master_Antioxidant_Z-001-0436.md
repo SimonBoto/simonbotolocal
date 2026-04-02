@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, glutathione, antioxidant, detoxification, redox]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Methionine_Catabolism_L-001-0406]]
+source-litnote: [[LitNote_Methionine_Catabolism_L-001-0406]
 extraction-date: 2026-03-01
 ---
 
@@ -54,7 +54,7 @@ Glutamate + Cysteine → γ-Glutamylcysteine (GCL enzyme)
 
 ---
 
-*Source: [[LitNote_Methionine_Catabolism_L-001-0406]]*
+*Source: [[LitNote_Methionine_Catabolism_L-001-0406]*
 
 
 ## RELATED FILES

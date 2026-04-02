@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, research-ethics, history, nuremberg-code, declaration-helsinki, belmont-report, nazi-experiments, informed-consent, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]]
+source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]
 status: conscious
 ---
 
@@ -298,11 +298,11 @@ Modern  ethics emerged from responses to atrocities and ethical failures in huma
 
 ---
 
-**Related:** [[Seven_Requirements_Ethical_Research_Z-001-1002]] | [[Tuskegee_Syphilis_Study_Historical_Impact_Z-001-1006]] | [[IRB_Ethics_Committee_Functions_Z-001-1004]]
+**Related:** [[Seven_Requirements_Ethical_Research_Z-001-1002] | [[Tuskegee_Syphilis_Study_Historical_Impact_Z-001-1006] | [[IRB_Ethics_Committee_Functions_Z-001-1004]
 
 **Source:** CGPT-0131 — Medical Ethics Assistance
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

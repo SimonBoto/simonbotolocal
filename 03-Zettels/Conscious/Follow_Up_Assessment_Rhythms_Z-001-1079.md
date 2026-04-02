@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Protocols
 tags: [zettel, follow-up, assessment, schedule]
 parent-moc: 
-source-litnote: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]
-source: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]
+source-litnote: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]
+source: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]
 confidence: high
 created: 2026-03-08
 ---
@@ -111,7 +111,7 @@ Each follow-up must document:
 - Next appointment scheduled
 
 ## Related
-- [[Clinic_Patient_Flow_Operations_Z-001-1077]]
+- [[Clinic_Patient_Flow_Operations_Z-001-1077]
 - 
 
 ---
@@ -119,6 +119,6 @@ Each follow-up must document:
 
 ## RELATED FILES
 - 
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

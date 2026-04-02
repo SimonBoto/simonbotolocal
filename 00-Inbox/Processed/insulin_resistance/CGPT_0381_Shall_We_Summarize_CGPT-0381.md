@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Shall We Summarize?"
 date: 2024-05-19
 source: ChatGPT conversation history
-aliases: [CGPT-0381]
+aliases: CGPT-0381]
 tags: [chatgpt-archive, insulin_resistance, clinical, consciousness_ai]
 status: archived
 ---

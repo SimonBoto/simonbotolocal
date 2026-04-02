@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, ada, funding, pharmaceutical, conflict-of-interest, insulin]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_ADA_History_L-001-0209]]
+source-litnote: [[LitNote_ADA_History_L-001-0209]
 extraction-date: 2026-03-01
 ---
 
@@ -93,9 +93,9 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_ADA_History_L-001-0209]]*  
+*Source: [[LitNote_ADA_History_L-001-0209]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

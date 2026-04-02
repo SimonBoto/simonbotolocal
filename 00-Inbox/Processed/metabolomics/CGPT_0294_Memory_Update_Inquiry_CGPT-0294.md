@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Memory Update Inquiry"
 date: 2024-09-12
 source: ChatGPT conversation history
-aliases: [CGPT-0294]
+aliases: CGPT-0294]
 tags: [chatgpt-archive, metabolomics]
 status: archived
 ---

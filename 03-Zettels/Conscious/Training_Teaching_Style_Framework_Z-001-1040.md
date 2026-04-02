@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Training
 tags: [zettel, pedagogy, teaching, training-style]
 parent-moc: 
-source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
-source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
+source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
+source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
 confidence: high
 created: 2026-03-08
 ---
@@ -104,8 +104,8 @@ Choose based on:
 **Default to Hybrid Precision.** Adjust ratio based on trainee response.
 
 ## Related
-- [[Socratic_Method_Metabolomics_Training_Z-001-1033]]
-- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- [[Socratic_Method_Metabolomics_Training_Z-001-1033]
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]
 - 
 
 ---
@@ -113,5 +113,5 @@ Choose based on:
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
 - 

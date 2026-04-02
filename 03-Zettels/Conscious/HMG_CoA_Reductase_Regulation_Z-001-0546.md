@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, hmgcr, hmg-coa-reductase, statin, regulation]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Mevalonate_Pathway_L-001-0509]]
+source-litnote: [[LitNote_Mevalonate_Pathway_L-001-0509]
 extraction-date: 2026-03-01
 ---
 
@@ -52,9 +52,9 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Mevalonate_Pathway_L-001-0509]]*
+*Source: [[LitNote_Mevalonate_Pathway_L-001-0509]*
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 

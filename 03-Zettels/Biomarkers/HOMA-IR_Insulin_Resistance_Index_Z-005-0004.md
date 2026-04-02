@@ -31,7 +31,7 @@ source-litnote: Synthesized from clinical practice
 
 **Mathematical model:**
 ```
-HOMA-IR = (Fasting [[Glucose_Blood_Sugar_Energy_Z-005-0001]|Glucose]] × Fasting [[Insulin_Pancreatic_Beta-Cell_Response_Z-005-0002]|Insulin]]) / 405
+HOMA-IR = (Fasting [[Glucose_Blood_Sugar_Energy_Z-005-0001]|Glucose] × Fasting [[Insulin_Pancreatic_Beta-Cell_Response_Z-005-0002]|Insulin]) / 405
 ```
 
 *(Glucose in mg/dL, Insulin in μU/mL)*
@@ -45,10 +45,10 @@ HOMA-IR = (Fasting [[Glucose_Blood_Sugar_Energy_Z-005-0001]|Glucose]] × Fasting
 | Method | Description | Utility |
 |--------|-------------|---------|
 | **HOMA-IR** | Calculated from fasting values | Simple, widely used |
-| **QUICKI** | 1 / (log [[Insulin_Pancreatic_Beta-Cell_Response_Z-005-0002]|insulin]] + log [[Glucose_Blood_Sugar_Energy_Z-005-0001]|glucose]]) | Alternative calculation |
+| **QUICKI** | 1 / (log [[Insulin_Pancreatic_Beta-Cell_Response_Z-005-0002]|insulin] + log [[Glucose_Blood_Sugar_Energy_Z-005-0001]|glucose]) | Alternative calculation |
 | **OGTT** | 2-hour glucose challenge | More accurate |
 | **Hyperinsulinemic-euglycemic clamp** | IV insulin/glucose | Gold standard, invasive |
-| **[[HbA1c_Glycemic_Control_RBC_Memory_Z-005-0003]|HbA1c]]** | Long-term glucose | Different information |
+| **[[HbA1c_Glycemic_Control_RBC_Memory_Z-005-0003]|HbA1c]** | Long-term glucose | Different information |
 
 source-litnote: Synthesized from clinical practice
 ---
@@ -208,10 +208,10 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Metabolic_Panel_[B-005-0001].md|Metabolic Panel Guide]]
-- [[Z-005-0001|Glucose — Blood Sugar]]
-- [[Z-005-0002|Insulin — Pancreatic Beta-Cell Response]]
-- [[Z-005-0003|HbA1c — Glycemic Control]]
+- [[Metabolic_Panel_[B-005-0001].md|Metabolic Panel Guide]
+- [[Z-005-0001|Glucose — Blood Sugar]
+- [[Z-005-0002|Insulin — Pancreatic Beta-Cell Response]
+- [[Z-005-0003|HbA1c — Glycemic Control]
 
 source-litnote: Synthesized from clinical practice
 ---

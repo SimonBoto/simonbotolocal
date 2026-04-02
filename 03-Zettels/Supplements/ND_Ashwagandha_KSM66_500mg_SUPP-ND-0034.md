@@ -105,9 +105,9 @@ Take 1-2 capsules daily after breakfast or as directed by your physician.
 | 2 | €1.00 | 1000 mg | Therapeutic |
 
 ## Biomarker Links
-- [[Cortisol_Primary_Stress_Hormone_Z-011-0005]] — target reduction
-- [[Testosterone_Primary_Male_Androgen_Z-011-0001]] — may increase
-- [[TSH_Thyroid_Stimulating_Hormone_Z-010-0001]] — may improve thyroid function |
+- [[Cortisol_Primary_Stress_Hormone_Z-011-0005] — target reduction
+- [[Testosterone_Primary_Male_Androgen_Z-011-0001] — may increase
+- [[TSH_Thyroid_Stimulating_Hormone_Z-010-0001] — may improve thyroid function |
 
 ## Comparison with Healthy Thyroid (ND)
 | Feature | Ashwagandha KSM-66 | Healthy Thyroid |

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "AI Dominance Strategy"
 date: 2025-02-21
 source: ChatGPT conversation history
-aliases: [CGPT-0140]
+aliases: CGPT-0140]
 tags: [chatgpt-archive, consciousness_ai, personal_development]
 status: archived
 ---

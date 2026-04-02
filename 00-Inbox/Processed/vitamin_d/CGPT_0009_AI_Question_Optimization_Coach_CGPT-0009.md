@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "AI Question Optimization Coach"
 date: 2026-01-17
 source: ChatGPT conversation history
-aliases: [CGPT-0009]
+aliases: CGPT-0009]
 tags: [chatgpt-archive, vitamin_d, clinical, consciousness_ai, personal_development]
 status: archived
 ---

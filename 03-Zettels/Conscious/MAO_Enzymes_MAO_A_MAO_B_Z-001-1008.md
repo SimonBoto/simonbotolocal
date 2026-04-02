@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mao, monoamine-oxidase, mao-a, mao-b, dopamine, serotonin, inhibitor, parkinson, depression, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_MAO_DAO_Enzymes_L-001-0582]]
+source-litnote: [[LitNote_MAO_DAO_Enzymes_L-001-0582]
 status: conscious
 ---
 
@@ -263,11 +263,11 @@ R-CH2-NH2 + O2 + H2O → R-CHO + NH3 + H2O2
 
 ---
 
-**Related:** [[DAO_Diamine_Oxidase_Histamine_Metabolism_Z-001-1009]] | [[MAOI_Drug_Interactions_Tyramine_Z-001-0015]] | [[Safinamide_Xadago_Parkinsons_Z-001-0016]]
+**Related:** [[DAO_Diamine_Oxidase_Histamine_Metabolism_Z-001-1009] | [[MAOI_Drug_Interactions_Tyramine_Z-001-0015] | [[Safinamide_Xadago_Parkinsons_Z-001-0016]
 
 **Source:** CGPT-0258 — MAOIs and DAO Interaction
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

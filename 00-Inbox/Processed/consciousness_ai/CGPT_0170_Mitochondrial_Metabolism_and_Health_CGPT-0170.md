@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mitochondrial Metabolism and Health"
 date: 2025-01-29
 source: ChatGPT conversation history
-aliases: [CGPT-0170]
+aliases: CGPT-0170]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

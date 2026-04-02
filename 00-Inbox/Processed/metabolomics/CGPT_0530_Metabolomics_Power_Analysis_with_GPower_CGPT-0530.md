@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolomics Power Analysis with G*Power"
 date: 2023-11-14
 source: ChatGPT conversation history
-aliases: [CGPT-0530]
+aliases: CGPT-0530]
 tags: [chatgpt-archive, metabolomics, technology]
 status: archived
 ---

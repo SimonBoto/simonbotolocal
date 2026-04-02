@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, metabolic-flexibility, mitochondrial-health, rer, respiratory-exchange-ratio, fuel-utilization, insulin-resistance, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]]
+source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]
 status: conscious
 ---
 
@@ -279,12 +279,12 @@ Inability to switch fuels appropriately; persistently glucose-dependent.
 
 ---
 
-**Related:** [[Mitochondrial_Function_Metabolic_Flexibility_Z-001-0554]] | [[Zone_2_Training_Mitochondrial_Biogenesis_Z-001-0555]] | [[Ketone_Bodies_Metabolic_Signaling_Z-001-0028]]
+**Related:** [[Mitochondrial_Function_Metabolic_Flexibility_Z-001-0554] | [[Zone_2_Training_Mitochondrial_Biogenesis_Z-001-0555] | [[Ketone_Bodies_Metabolic_Signaling_Z-001-0028]
 
 **Source:** CGPT-0124 — Five Pillars of Metabolic Health
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

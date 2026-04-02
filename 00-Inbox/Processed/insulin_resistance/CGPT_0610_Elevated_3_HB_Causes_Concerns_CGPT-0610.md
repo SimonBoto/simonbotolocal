@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Elevated 3-HB: Causes & Concerns"
 date: 2023-07-01
 source: ChatGPT conversation history
-aliases: [CGPT-0610]
+aliases: CGPT-0610]
 tags: [chatgpt-archive, insulin_resistance, clinical, nutrition]
 status: archived
 ---

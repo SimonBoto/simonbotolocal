@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Omega-3 App Development Advice"
 date: 2023-10-07
 source: ChatGPT conversation history
-aliases: [CGPT-0550]
+aliases: CGPT-0550]
 tags: [chatgpt-archive, clinical, nutrition, technology]
 status: archived
 ---

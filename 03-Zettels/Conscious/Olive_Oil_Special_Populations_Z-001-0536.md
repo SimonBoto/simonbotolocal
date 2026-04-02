@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, special-populations, metabolic-syndrome, diabetes]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]
+source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]
 extraction-date: 2026-03-01
 ---
 
@@ -70,10 +70,10 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]*
+*Source: [[LitNote_Oleic_Acid_Clinical_L-001-0506]*
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

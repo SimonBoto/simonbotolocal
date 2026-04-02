@@ -25,8 +25,8 @@ Keywords provide:
 
 ## Connection to Vault
 
-- Up: [[08 Structure Index]]
-- Related: [[MOCs Index]], [[03 Zettels Index]]
+- Up: [[08 Structure Index]
+- Related: [[MOCs Index], [[03 Zettels Index]
 
 ---
 

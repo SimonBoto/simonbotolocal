@@ -6,7 +6,7 @@ domain: 101
 tags: [zettel, dicarboxylic-acids, energy-yield, atp, adipate, metabolism]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]]"
+source-litnote: "[[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]"
 status: conscious
 ---
 
@@ -129,13 +129,13 @@ Overflow to urine
 
 ## Related
 
-- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]]
-- [[Urinary_Adipate_Interpretation_Z-001-1199]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]
+- [[Urinary_Adipate_Interpretation_Z-001-1199]
 
 ---
 
-*Source: [[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]] | 2026-03-08*
+*Source: [[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

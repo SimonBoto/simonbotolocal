@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Manus AI Overview"
 date: 2025-04-13
 source: ChatGPT conversation history
-aliases: [CGPT-0106]
+aliases: CGPT-0106]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

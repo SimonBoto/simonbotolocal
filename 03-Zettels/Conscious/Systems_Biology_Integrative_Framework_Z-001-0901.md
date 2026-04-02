@@ -7,7 +7,7 @@ domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, systems-biology, metabolomics, integration, conscious]
 parent-moc: 
-source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
+source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
@@ -48,13 +48,13 @@ The METHAP trial applies systems biology principles by:
 
 - **Upstream/Prerequisite:**  — Why reductionism fails for chronic disease
 - **Parallel/Related:**  — Technical approaches to integration
-- **Downstream/Consequence:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0902]] — Metabolites as closest to phenotype
+- **Downstream/Consequence:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0902] — Metabolites as closest to phenotype
 
 ## Context
 
 **Also relevant to:** 
 
-**Emerges from:** _DE1_L-001-0001]]
+**Emerges from:** _DE1_L-001-0001]
 **Supports:**  — Systems view of insulin resistance
 
 ---
@@ -63,5 +63,5 @@ The METHAP trial applies systems biology principles by:
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

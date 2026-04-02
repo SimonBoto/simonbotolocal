@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Communication
 tags: [zettel, patient-education, communication]
 parent-moc: 
-source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
-source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
+source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
+source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 confidence: high
 created: 2026-03-08
 ---
@@ -47,7 +47,7 @@ These 12 enable patients to:
 - Avoid confusion
 
 ## Related
-- [[Health_Philosophy_Core_Concepts_Z-001-1041]]
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]
 - 
 
 ---
@@ -55,6 +55,6 @@ These 12 enable patients to:
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

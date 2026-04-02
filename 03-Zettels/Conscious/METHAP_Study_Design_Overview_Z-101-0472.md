@@ -6,7 +6,7 @@ aliases: [Z-101-0472]
 domain: 101
 tags: [zettel, methap, phd, study-design, clinical-trial, metabolomics, insulin-resistance, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]]
+source-litnote: [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]
 status: conscious
 ---
 
@@ -86,35 +86,35 @@ Specific patterns of urinary organic acids and plasma free fatty acids can discr
 | 6 | Months 43-48 | Thesis completion |
 
 ## Related
-- **Source:** [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]]
-- **IRB feedback:** [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
-- **Consent framework:** [[METHAP_Informed_Consent_Framework_Z-101-0474]]
-- **Supplement details:** [[METHAP_Supplement_Protocol_Z-101-0475]]
+- **Source:** [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]
+- **IRB feedback:** [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]
+- **Consent framework:** [[METHAP_Informed_Consent_Framework_Z-101-0474]
+- **Supplement details:** [[METHAP_Supplement_Protocol_Z-101-0475]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]|Z-001-0228]]
-- [[D_K2_Production_Activation_Partnership_Z-001-0253]|Z-001-0253]]
-- [[Vascular_Calcification_Prevention_Reversal_Z-001-0272]|Z-001-0272]]
-- [[Vitamin_K2_Vascular_Calcification_Protection_Z-001-0094]|Z-001-0094]]
-- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]|Z-001-0257]]
-- [[VitD_K2_Insulin_Resistance_Z-001-1237]|Z-001-1237]]
-- [[Osteocalcin_Metabolic_Hormone_D_K2_Z-001-0254]|Z-001-0254]]
-- [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]|Z-001-0256]]
-- [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]|Z-001-0263]]
-- [[Activation_Phase_RANKL_MCSF_Osteoclast_Differentiation_Z-001-1027]|Z-001-1027]]
-- [[FRAX_Input_Variables_Clinical_Risk_Factors_Z-001-0109]|Z-001-0109]]
-- [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102]|Z-001-0102]]
-- [[Net_Bone_Loss_Resorption_Exceeds_Formation_Z-001-0084]|Z-001-0084]]
-- [[Fragility_Fractures_Morbidity_Mortality_Z-001-0078]|Z-001-0078]]
-- [[Muscle_Bone_Unit_Mechanical_Loading_Z-001-0096]|Z-001-0096]]
-- [[Osteoblasts_Bone_Forming_Cells_Z-001-0081]|Z-001-0081]]
-- [[Bone_Remodeling_Cycle_Five_Phases_Z-001-0083]|Z-001-0083]]
-- [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]]
-- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]|Z-001-0228]
+- [[D_K2_Production_Activation_Partnership_Z-001-0253]|Z-001-0253]
+- [[Vascular_Calcification_Prevention_Reversal_Z-001-0272]|Z-001-0272]
+- [[Vitamin_K2_Vascular_Calcification_Protection_Z-001-0094]|Z-001-0094]
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]|Z-001-0257]
+- [[VitD_K2_Insulin_Resistance_Z-001-1237]|Z-001-1237]
+- [[Osteocalcin_Metabolic_Hormone_D_K2_Z-001-0254]|Z-001-0254]
+- [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]|Z-001-0256]
+- [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]|Z-001-0263]
+- [[Activation_Phase_RANKL_MCSF_Osteoclast_Differentiation_Z-001-1027]|Z-001-1027]
+- [[FRAX_Input_Variables_Clinical_Risk_Factors_Z-001-0109]|Z-001-0109]
+- [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102]|Z-001-0102]
+- [[Net_Bone_Loss_Resorption_Exceeds_Formation_Z-001-0084]|Z-001-0084]
+- [[Fragility_Fractures_Morbidity_Mortality_Z-001-0078]|Z-001-0078]
+- [[Muscle_Bone_Unit_Mechanical_Loading_Z-001-0096]|Z-001-0096]
+- [[Osteoblasts_Bone_Forming_Cells_Z-001-0081]|Z-001-0081]
+- [[Bone_Remodeling_Cycle_Five_Phases_Z-001-0083]|Z-001-0083]
+- [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]
+- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

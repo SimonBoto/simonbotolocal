@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "EU Informed Consent Guidelines"
 date: 2023-05-28
 source: ChatGPT conversation history
-aliases: [CGPT-0631]
+aliases: CGPT-0631]
 tags: [chatgpt-archive, metabolomics, nutrition]
 status: archived
 ---

@@ -7,7 +7,7 @@ domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, irb, communication, template]
 parent-moc: 
-source-litnote: "[[LitNote_Ethics_Committee_Communication_L-002-0603]]"
+source-litnote: "[[LitNote_Ethics_Committee_Communication_L-002-0603]"
 confidence: high
 created: 2026-03-27
 ---
@@ -81,8 +81,8 @@ For Greek ethics committees:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Ethics_Committee_Communication_L-002-0603]]  
-**Related:** [[IRB_Non_Response_Protocol_Z-002-0613]] — When to use templates
+**Source:** [[LitNote_Ethics_Committee_Communication_L-002-0603]  
+**Related:** [[IRB_Non_Response_Protocol_Z-002-0613] — When to use templates
 
 ---
 
@@ -90,4 +90,4 @@ For Greek ethics committees:
 
 
 ## RELATED FILES
-- [[Questionnaire_Ethics_Approval_Strategies_Z-101-0482]|Z-101-0482]]
+- [[Questionnaire_Ethics_Approval_Strategies_Z-101-0482]|Z-101-0482]

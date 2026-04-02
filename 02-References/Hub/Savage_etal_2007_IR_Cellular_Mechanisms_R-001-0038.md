@@ -35,7 +35,7 @@ domains:
   - "001"
 status: "ref"
 extraction-priority: P1
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: [[MOC-Research-Methods]
 connections:
   extracted-zettels: []
   synthesis-links: []
@@ -61,7 +61,7 @@ quality-score: medium
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[GSK3_Inhibition_Glycogen_Synthesis_Z-001-0012]] — Cellular IR mechanisms
+- [[GSK3_Inhibition_Glycogen_Synthesis_Z-001-0012] — Cellular IR mechanisms
 
 ---
 

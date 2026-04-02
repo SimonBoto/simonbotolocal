@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Review of Narrative Review"
 date: 2024-11-16
 source: ChatGPT conversation history
-aliases: [CGPT-0250]
+aliases: CGPT-0250]
 tags: [chatgpt-archive, vitamin_d]
 status: archived
 ---

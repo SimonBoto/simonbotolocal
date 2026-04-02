@@ -6,15 +6,15 @@ aliases: [S-002-0002, IRB-Checklist, Ethics-Guide, IRB-Submission]
 domain: 002
 domain-name: Research_Ethics
 tags: [synthesis, research-ethics, irb, checklist, compliance, methap, gcp, informed-consent, living-document]
-parent-moc: [[MOC-Research-Ethics]]
+parent-moc: [[MOC-Research-Ethics]
 status: active
 version: 1.1
 created: 2026-03-30
 last-updated: 2026-04-01
 contributing-zettels:
-  - "[[IRB_Submission_Requirements_Z-002-0100]]"
-  - "[[Informed_Consent_Best_Practices_Z-002-0101]]"
-  - "[[GCP_Compliance_Checklist_Z-002-0102]]"
+  - "[[IRB_Submission_Requirements_Z-002-0100]"
+  - "[[Informed_Consent_Best_Practices_Z-002-0101]"
+  - "[[GCP_Compliance_Checklist_Z-002-0102]"
 ---
 
 # Research Ethics and IRB Submission Guide
@@ -47,7 +47,7 @@ contributing-zettels:
 
 ### 1.1 Emanuel Seven Requirements
 
-**Source:** [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]]
+**Source:** [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]
 
 | Requirement | Definition | METHAP Application |
 |-------------|-----------|-------------------|
@@ -68,19 +68,19 @@ contributing-zettels:
 ### 1.2 Historical Ethical Guidelines
 
 **Nuremberg Code (1947)**
-- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]
 - First international research ethics code
 - Key principles: voluntary consent, no unnecessary harm, qualified researchers
 - **METHAP compliance:** Written consent, safety monitoring, PI qualifications documented
 
 **Declaration of Helsinki (1964, revised)**
-- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]
 - Medical research involving human subjects
 - Key additions: independent committee review, vulnerable population protection
 - **METHAP compliance:** IRB review, exclusion of pregnant women (vulnerable)
 
 **Belmont Report (1979)**
-- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]
 - Three principles: Respect for Persons, Beneficence, Justice
 - **METHAP compliance:**
   - Respect: Informed consent, privacy protection
@@ -88,13 +88,13 @@ contributing-zettels:
   - Justice: Fair subject selection
 
 **CIOMS Guidelines (2016)**
-- [[CIOMS_International_Research_Ethics_Z-002-0611]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]
 - International harmonization
 - Special attention to low-resource settings
 - **METHAP compliance:** Applicable to single-site study in Greece
 
 **ICH-GCP (Good Clinical Practice)**
-- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]
 - International standard for clinical trials
 - Covers: design, conduct, recording, reporting
 - **METHAP compliance:**
@@ -105,7 +105,7 @@ contributing-zettels:
 
 ### 1.3 Case Studies in Research Ethics
 
-**Source:** [[Research_Ethics_Case_Studies_Z-101-0480]]
+**Source:** [[Research_Ethics_Case_Studies_Z-101-0480]
 
 **Tuskegee Syphilis Study (1932-1972):**
 - Violation: Withheld treatment, deception
@@ -255,7 +255,7 @@ contributing-zettels:
 - Blood draw risks (pain, bruising, infection)
 - Risk of hypercalcemia (rare)
 - Unknown risks
-- [[Vitamin_D_Toxicity_Myth_Persistence_Z-001-0057]]
+- [[Vitamin_D_Toxicity_Myth_Persistence_Z-001-0057]
 
 **5. Benefits:**
 - Potential benefits to you (improved vitamin D status)
@@ -341,7 +341,7 @@ contributing-zettels:
 | Privacy breach | Very low | Moderate | Data protection; de-identification |
 | Time burden | Certain | Minimal | Clear schedule; compensation if applicable |
 
-**Source:** [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
+**Source:** [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]
 
 ### 3.2 Benefit Assessment
 
@@ -382,7 +382,7 @@ contributing-zettels:
 - Economically disadvantaged
 - Educationally disadvantaged
 
-**Source:** [[Vulnerable_Populations_Research_Z-001-1006]]
+**Source:** [[Vulnerable_Populations_Research_Z-001-1006]
 
 ### 4.2 METHAP Protections
 
@@ -567,7 +567,7 @@ contributing-zettels:
 - Voluntariness (free from coercion)
 - Capacity (ability to consent)
 
-**Source:** [[Informed_Consent_Ethical_Research_Z-002-0606]], [[Informed_Consent_Requirements_Z-001-1005]]
+**Source:** [[Informed_Consent_Ethical_Research_Z-002-0606], [[Informed_Consent_Requirements_Z-001-1005]
 
 ### 7.2 Consent Discussion
 
@@ -817,9 +817,9 @@ Action Taken: [Description]
 ## Section 11: Related Documents
 
 - [[METHAP_Protocol_Living_Document_S-002-0001] — Study protocol using this framework
-- [[IR_Communication_Best_Practices_Z-101-0481]] — Practical communication guidance
-- [[IR_Communication_Template_Z-002-0614]] — Template library
-- [[Questionnaire_Ethics_Approval_Strategies_Z-101-0482]] — Survey/questionnaire ethics
+- [[IR_Communication_Best_Practices_Z-101-0481] — Practical communication guidance
+- [[IR_Communication_Template_Z-002-0614] — Template library
+- [[Questionnaire_Ethics_Approval_Strategies_Z-101-0482] — Survey/questionnaire ethics
 
 ---
 

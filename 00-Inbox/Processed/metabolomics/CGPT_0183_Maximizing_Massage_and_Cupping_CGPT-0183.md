@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Maximizing Massage and Cupping"
 date: 2025-01-18
 source: ChatGPT conversation history
-aliases: [CGPT-0183]
+aliases: CGPT-0183]
 tags: [chatgpt-archive, metabolomics, phd_research, nutrition]
 status: archived
 ---

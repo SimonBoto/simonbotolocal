@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "CSF Metabolites in Rats"
 date: 2023-08-25
 source: ChatGPT conversation history
-aliases: [CGPT-0596]
+aliases: CGPT-0596]
 tags: [chatgpt-archive, metabolomics, nutrition]
 status: archived
 ---

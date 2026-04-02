@@ -38,11 +38,11 @@ source-litnote: Synthesized from clinical practice
 - Transports iron from:
   - Intestine (absorption) to tissues
   - Macrophages (recycling) to erythroid precursors
-  - [[Ferritin_Iron_Storage_Systemic_Status_Z-003-0001]|Liver stores]] to sites of use
+  - [[Ferritin_Iron_Storage_Systemic_Status_Z-003-0001]|Liver stores] to sites of use
 
 **Transferrin Characteristics:**
 - Molecular weight: 80 kDa
-- Synthesized primarily in [[ALT_Alanine_Aminotransferase_Z-009-0001]|liver]]
+- Synthesized primarily in [[ALT_Alanine_Aminotransferase_Z-009-0001]|liver]
 - Two iron-binding sites per molecule
 - Binds Fe³⁺ with high affinity (pH-dependent release)
 
@@ -112,7 +112,7 @@ source-litnote: Synthesized from clinical practice
 ### For Elevated TIBC (Iron Deficiency)
 
 **Address iron deficiency:**
-- See [[Z-003-0001|Ferritin]] interventions
+- See [[Z-003-0001|Ferritin] interventions
 - TIBC will normalize as iron status improves
 
 ### For Reduced TIBC
@@ -206,10 +206,10 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Z-003-0001|Ferritin — Iron Storage]]
-- [[Z-003-0003|Transferrin Saturation]]
-- [[Z-003-0004|Serum Iron]]
-- [[Iron_Family_[B-003-0001]|Iron Studies Family Guide]]
+- [[Z-003-0001|Ferritin — Iron Storage]
+- [[Z-003-0003|Transferrin Saturation]
+- [[Z-003-0004|Serum Iron]
+- [[Iron_Family_[B-003-0001]|Iron Studies Family Guide]
 
 source-litnote: Synthesized from clinical practice
 ---

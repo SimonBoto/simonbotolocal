@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, osteocalcin, metabolic-hormone, insulin, adiponectin, bone-metabolism]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_VitD_K2_Synergy_MetS_L-001-0639]]"
+source-litnote: "[[LitNote_VitD_K2_Synergy_MetS_L-001-0639]"
 status: conscious
 ---
 
@@ -96,13 +96,13 @@ Improved glucose metabolism
 
 ## Related
 
-- [[Vitamin_D_K2_Synergistic_Mechanism_Z-001-1234]]
-- [[Matrix_Gla_Protein_Vascular_Health_Z-001-1235]]
-- [[VitD_K2_Insulin_Resistance_Z-001-1237]]
+- [[Vitamin_D_K2_Synergistic_Mechanism_Z-001-1234]
+- [[Matrix_Gla_Protein_Vascular_Health_Z-001-1235]
+- [[VitD_K2_Insulin_Resistance_Z-001-1237]
 
 ---
 
-*Source: [[LitNote_VitD_K2_Synergy_MetS_L-001-0639]] | 2026-03-09*
+*Source: [[LitNote_VitD_K2_Synergy_MetS_L-001-0639] | 2026-03-09*
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

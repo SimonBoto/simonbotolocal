@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Πρόβλημα σύνδεσης Whatsapp"
 date: 2025-01-26
 source: ChatGPT conversation history
-aliases: [CGPT-0171]
+aliases: CGPT-0171]
 tags: [chatgpt-archive, technology]
 status: archived
 ---

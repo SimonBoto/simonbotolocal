@@ -7,7 +7,7 @@ domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, methotrexate, low-dose, adenosine, AMPK, autoimmunity]
 parent-moc: 
-source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]]
+source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]
 confidence: high
 created: 2026-02-24
 ---
@@ -44,8 +44,8 @@ Low-dose methotrexate (1/100th of  dose) treats autoimmunity through a mechanism
 
 ## Links
 
-- **Upstream:** [[Immunometabolism_Warburg_Inflammation_Z-101-0004.md]] — M2 macrophage differentiation
-- **Parallel:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002.md]] — Also activates AMPK
+- **Upstream:** [[Immunometabolism_Warburg_Inflammation_Z-101-0004.md] — M2 macrophage differentiation
+- **Parallel:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002.md] — Also activates AMPK
 - **Downstream:** , 
 
 ## Context
@@ -60,8 +60,8 @@ Low-dose methotrexate (1/100th of  dose) treats autoimmunity through a mechanism
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - 

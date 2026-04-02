@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Davis L. reuteri Yogurt Recipe"
 date: 2025-04-02
 source: ChatGPT conversation history
-aliases: [CGPT-0110]
+aliases: CGPT-0110]
 tags: [chatgpt-archive, insulin_resistance]
 status: archived
 ---

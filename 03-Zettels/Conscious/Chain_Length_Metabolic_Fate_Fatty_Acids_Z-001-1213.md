@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, chain-length, scfa, mcfa, lcfa, fatty-acid-metabolism, ketones]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]]"
+source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]"
 status: conscious
 ---
 
@@ -212,16 +212,16 @@ The number of carbons in a fatty acid chain determines its absorption, transport
 
 ## Related
 
-- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
-- [[Carnitine_Shuttle_Fatty_Acid_Transport_Z-001-1194]]
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_Z-001-1194]
 
 ---
 
-*Source: [[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]] | 2026-03-08*
+*Source: [[LitNote_Fatty_Acid_Structure_Classification_L-001-0632] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

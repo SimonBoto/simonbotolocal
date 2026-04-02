@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Enipeas in Greek Mythology"
 date: 2024-12-25
 source: ChatGPT conversation history
-aliases: [CGPT-0218]
+aliases: CGPT-0218]
 tags: [chatgpt-archive, greek_language]
 status: archived
 ---

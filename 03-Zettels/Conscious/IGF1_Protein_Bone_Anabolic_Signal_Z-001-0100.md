@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, nutrition, protein]
 parent-moc: 
-source: [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]]
+source: [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -20,8 +20,8 @@ Protein intake stimulates IGF-1 (-like growth factor-1), which promotes osteobla
 ## Links
 
 **Parent MOC:** 
-**Source:** [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]]
-**Related:** [[Muscle_Bone_Unit_Mechanical_Loading_Z-001-0096]], [[Osteoblasts_Bone_Forming_Cells_Z-001-0081]]
+**Source:** [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]
+**Related:** [[Muscle_Bone_Unit_Mechanical_Loading_Z-001-0096], [[Osteoblasts_Bone_Forming_Cells_Z-001-0081]
 
 ---
 
@@ -29,4 +29,4 @@ Protein intake stimulates IGF-1 (-like growth factor-1), which promotes osteobla
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

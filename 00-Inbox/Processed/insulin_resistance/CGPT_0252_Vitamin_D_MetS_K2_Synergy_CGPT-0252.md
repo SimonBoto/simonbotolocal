@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Vitamin D MetS K2 Synergy"
 date: 2024-11-16
 source: ChatGPT conversation history
-aliases: [CGPT-0252]
+aliases: CGPT-0252]
 tags: [chatgpt-archive, insulin_resistance, vitamin_d, nutrition]
 status: archived
 ---

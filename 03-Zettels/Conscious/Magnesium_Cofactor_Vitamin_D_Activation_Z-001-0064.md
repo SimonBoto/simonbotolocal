@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, magnesium, cofactor, hydroxylation]
 parent-moc: 
-source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]
+source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -31,8 +31,8 @@ Magnesium is required as a cofactor for both hydroxylation steps converting vita
 ## Links
 
 **Parent MOC:** -
-**Source:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]
-**Related:** [[Vitamin_K2_Calcium_Direction_Bone_vs_Soft_Tissue_Z-001-0065]], 
+**Source:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]
+**Related:** [[Vitamin_K2_Calcium_Direction_Bone_vs_Soft_Tissue_Z-001-0065], 
 
 ---
 
@@ -40,5 +40,5 @@ Magnesium is required as a cofactor for both hydroxylation steps converting vita
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Bone scan findings cancer"
 date: 2024-11-28
 source: ChatGPT conversation history
-aliases: [CGPT-0239]
+aliases: CGPT-0239]
 tags: [chatgpt-archive, general]
 status: archived
 ---

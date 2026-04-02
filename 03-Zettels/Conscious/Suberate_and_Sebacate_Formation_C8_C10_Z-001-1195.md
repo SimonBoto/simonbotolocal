@@ -6,7 +6,7 @@ domain: 101
 tags: [zettel, suberate, sebacate, dicarboxylic-acids, omega-oxidation, phd-research]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]]"
+source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]"
 status: conscious
 ---
 
@@ -107,13 +107,13 @@ Sebacate → Suberate → Adipate → Succinyl-CoA + 3 Acetyl-CoA
 
 ## Related
 
-- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
-- [[Urinary_Adipate_Interpretation_Z-001-1199]]
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]
+- [[Urinary_Adipate_Interpretation_Z-001-1199]
 
 ---
 
-*Source: [[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]] | 2026-03-08*
+*Source: [[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

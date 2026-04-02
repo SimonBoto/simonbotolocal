@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mendelian Study Vitamin D MetS"
 date: 2024-10-05
 source: ChatGPT conversation history
-aliases: [CGPT-0275]
+aliases: CGPT-0275]
 tags: [chatgpt-archive, vitamin_d]
 status: archived
 ---

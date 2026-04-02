@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Assist with Precision Medicine Project"
 date: 2023-01-29
 source: ChatGPT conversation history
-aliases: [CGPT-0668]
+aliases: CGPT-0668]
 tags: [chatgpt-archive, insulin_resistance, nutrition, personal_development]
 status: archived
 ---

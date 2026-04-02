@@ -7,7 +7,7 @@ domain: 001
 domain-name: Research Methods
 tags: [zettel, statistics, fdr, benjamini-hochberg, multiple-testing, p-value, method]
 parent-moc: 
-source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
+source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]"
 confidence: high
 created: 2026-03-03
 ---
@@ -123,10 +123,10 @@ rejected, corrected, _, _ = multipletests(p_values, alpha=0.1, method='fdr_bh')
 
 ## Related Zettels
 
-- [[FDR_Threshold_Selection_Z-001-0932]] — FDR 0.1 vs 0.05 Selection Framework
-- [[Multiple_Testing_Burden_High_Dimensional_Data_Z-001-0934]] — Multiple Testing Burden in High-Dimensional Data
-- [[Power_Analysis_Formula_Metabolomics_Z-001-0928]] — Power Analysis Formula
-- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — False Discovery Rate and Multiple Testing Correction
+- [[FDR_Threshold_Selection_Z-001-0932] — FDR 0.1 vs 0.05 Selection Framework
+- [[Multiple_Testing_Burden_High_Dimensional_Data_Z-001-0934] — Multiple Testing Burden in High-Dimensional Data
+- [[Power_Analysis_Formula_Metabolomics_Z-001-0928] — Power Analysis Formula
+- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515] — False Discovery Rate and Multiple Testing Correction
 
 ---
 
@@ -134,12 +134,12 @@ rejected, corrected, _, _ = multipletests(p_values, alpha=0.1, method='fdr_bh')
 
 - Benjamini, Y., & Hochberg, Y. (1995). Controlling the false discovery rate: a practical and powerful approach to multiple testing. *Journal of the Royal Statistical Society: Series B*, 57(1), 289-300.
 - Benjamini, Y., & Yekutieli, D. (2001). The control of the false discovery rate in multiple testing under dependency. *Annals of Statistics*, 29(4), 1165-1188.
-- Source: [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]
+- Source: [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]
 
 ---
 
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "ATP yield from palmitic acid"
 date: 2023-06-24
 source: ChatGPT conversation history
-aliases: [CGPT-0612]
+aliases: CGPT-0612]
 tags: [chatgpt-archive, insulin_resistance, nutrition]
 status: archived
 ---

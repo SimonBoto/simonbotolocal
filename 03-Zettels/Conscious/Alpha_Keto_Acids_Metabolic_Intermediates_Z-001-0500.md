@@ -8,7 +8,7 @@ tags: [zettel, alpha-keto-acids, transamination, pyruvate, oxaloacetate, alpha-k
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0046B]]
+source: [[L-001-0046B]
 ---
 
 # α-Keto Acids as Metabolic Intermediates
@@ -84,7 +84,7 @@ Yield acetyl-CoA or acetoacetyl-CoA:
 
 ## Related
 - All amino acid entry zettels
-- [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476]] Keto Acids vs Carboxylic Acids
+- [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476] Keto Acids vs Carboxylic Acids
 - 
 
 ---
@@ -92,6 +92,6 @@ Yield acetyl-CoA or acetoacetyl-CoA:
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
-- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]|Z-001-1100]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]|Z-001-1100]

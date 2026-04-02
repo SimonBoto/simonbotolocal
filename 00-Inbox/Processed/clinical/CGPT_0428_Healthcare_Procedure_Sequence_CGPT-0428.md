@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Healthcare Procedure Sequence"
 date: 2024-04-09
 source: ChatGPT conversation history
-aliases: [CGPT-0428]
+aliases: CGPT-0428]
 tags: [chatgpt-archive, clinical, technology, personal_development]
 status: archived
 ---

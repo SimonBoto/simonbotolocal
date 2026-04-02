@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Insulin Resistance and Complications."
 date: 2023-06-17
 source: ChatGPT conversation history
-aliases: [CGPT-0615]
+aliases: CGPT-0615]
 tags: [chatgpt-archive, insulin_resistance, clinical, consciousness_ai, nutrition]
 status: archived
 ---

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, sah, methylation, inhibitor, ratio]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]]
+source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]
 extraction-date: 2026-03-01
 ---
 
@@ -75,14 +75,14 @@ SAH ↔ Homocysteine + Adenosine
 
 ---
 
-*Source: [[LitNote_Methylation_Cycle_L-001-0402]]*
+*Source: [[LitNote_Methylation_Cycle_L-001-0402]*
 
 
 ## Related
-- _Double_Edged_Sword_Z-001-0411]|Z-001-0411]]
+- _Double_Edged_Sword_Z-001-0411]|Z-001-0411]
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- [[Folate_5MTHF_vs_Folic_Acid_Z-004-0002]|Z-004-0002]]
+- [[Folate_5MTHF_vs_Folic_Acid_Z-004-0002]|Z-004-0002]

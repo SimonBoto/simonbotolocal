@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Investment and Revenue Projections"
 date: 2024-04-08
 source: ChatGPT conversation history
-aliases: [CGPT-0430]
+aliases: CGPT-0430]
 tags: [chatgpt-archive, clinical, technology]
 status: archived
 ---

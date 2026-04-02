@@ -7,8 +7,8 @@ domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, triose, glycolysis, ppp, krebs, integration]
 parent-moc: 
-source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
-source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
+source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]
+source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]
 confidence: high
 created: 2026-03-08
 ---
@@ -77,8 +77,8 @@ Glucose → G3P → Pyruvate → Acetyl-CoA → Krebs
 - **Trioses as conserved interface** between all three
 
 ## Related
-- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]]
-- [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]]
+- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]
+- [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]
 - 
 - 
 
@@ -87,5 +87,5 @@ Glucose → G3P → Pyruvate → Acetyl-CoA → Krebs
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Like Share Subscribe"
 date: 2025-01-25
 source: ChatGPT conversation history
-aliases: [CGPT-0174]
+aliases: CGPT-0174]
 tags: [chatgpt-archive, general]
 status: archived
 ---

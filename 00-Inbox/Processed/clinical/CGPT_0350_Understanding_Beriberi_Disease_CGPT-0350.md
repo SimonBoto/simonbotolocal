@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Understanding Beriberi Disease"
 date: 2024-06-17
 source: ChatGPT conversation history
-aliases: [CGPT-0350]
+aliases: CGPT-0350]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Dianetics Study and Analysis"
 date: 2025-05-11
 source: ChatGPT conversation history
-aliases: [CGPT-0089]
+aliases: CGPT-0089]
 tags: [chatgpt-archive, consciousness_ai, communication, personal_development]
 status: archived
 ---

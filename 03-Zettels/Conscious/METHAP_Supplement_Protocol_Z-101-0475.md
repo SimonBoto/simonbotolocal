@@ -6,7 +6,7 @@ aliases: [Z-101-0475]
 domain: 101
 tags: [zettel, methap, supplements, intervention, vitamin-d, magnesium, omega-3, safety, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]]
+source-litnote: [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]
 status: conscious
 ---
 
@@ -85,7 +85,7 @@ Address micronutrient deficiencies and metabolic dysregulation common in insulin
 - Increases oxalate excretion (relevant to study s)
 - May interfere with certain lab tests
 
-See: [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]]
+See: [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]
 
 ### 6. Probiotics (Multi-strain)
 | Attribute | Specification |
@@ -140,19 +140,19 @@ See: [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]]
 | Simplified regimen | Once or twice daily dosing when possible |
 
 ## Related
-- **Source:** [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]]
-- **IRB action items:** [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
-- **Study design:** [[METHAP_Study_Design_Overview_Z-101-0472]]
-- **Consent framework:** [[METHAP_Informed_Consent_Framework_Z-101-0474]]
+- **Source:** [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]
+- **IRB action items:** [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]
+- **Study design:** [[METHAP_Study_Design_Overview_Z-101-0472]
+- **Consent framework:** [[METHAP_Informed_Consent_Framework_Z-101-0474]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]|Z-001-1142]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]|Z-001-1142]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

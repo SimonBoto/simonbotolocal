@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Beef and soy for isoleucine."
 date: 2024-03-10
 source: ChatGPT conversation history
-aliases: [CGPT-0472]
+aliases: CGPT-0472]
 tags: [chatgpt-archive, insulin_resistance, nutrition]
 status: archived
 ---

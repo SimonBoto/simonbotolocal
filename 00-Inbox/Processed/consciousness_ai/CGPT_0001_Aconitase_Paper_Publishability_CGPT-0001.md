@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Aconitase Paper Publishability"
 date: 2026-02-06
 source: ChatGPT conversation history
-aliases: [CGPT-0001]
+aliases: CGPT-0001]
 tags: [chatgpt-archive, consciousness_ai, greek_language, personal_development]
 status: archived
 ---

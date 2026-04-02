@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Redox Reactions Overview"
 date: 2024-09-14
 source: ChatGPT conversation history
-aliases: [CGPT-0289]
+aliases: CGPT-0289]
 tags: [chatgpt-archive, metabolomics, consciousness_ai]
 status: archived
 ---

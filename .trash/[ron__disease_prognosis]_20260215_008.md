@@ -27,6 +27,6 @@ Prognosis is conditional on:
 Prognosis should be communicated as a starting frame, not an endpoint.
 
 **Related:**  
-- [[Disease_Prognosis_Versus_Modifiable_Risk_Burden]]  
-- [[Personalized_Medicine_Doctrine]]  
-- [[111_Hub_Disease_Specific]]
+- [[Disease_Prognosis_Versus_Modifiable_Risk_Burden]  
+- [[Personalized_Medicine_Doctrine]  
+- [[111_Hub_Disease_Specific]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Shoulder Pain Assessment"
 date: 2023-07-20
 source: ChatGPT conversation history
-aliases: [CGPT-0604]
+aliases: CGPT-0604]
 tags: [chatgpt-archive, clinical, technology]
 status: archived
 ---

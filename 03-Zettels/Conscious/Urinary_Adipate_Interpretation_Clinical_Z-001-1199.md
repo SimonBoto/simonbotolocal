@@ -6,7 +6,7 @@ domain: 101
 tags: [zettel, adipate, urinary, clinical-interpretation, insulin-resistance, biomarker]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]]"
+source-litnote: "[[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]"
 status: conscious
 ---
 
@@ -139,16 +139,16 @@ Consider: Carnitine transport defect
 
 ## Related
 
-- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
-- _Formation_to_Krebs_Z-001-1196]]
-- [[Suberate_and_Sebacate_Formation_C8_C10_Z-001-1195]]
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]
+- _Formation_to_Krebs_Z-001-1196]
+- [[Suberate_and_Sebacate_Formation_C8_C10_Z-001-1195]
 
 ---
 
-*Source: [[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]] | 2026-03-08*
+*Source: [[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629] | 2026-03-08*
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

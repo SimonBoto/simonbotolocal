@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, oat, gut, dysbiosis]
 parent-moc: 
-source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
-source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
+source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
+source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
 confidence: high
 created: 2026-03-08
 ---
@@ -106,8 +106,8 @@ Gut microbiome status is reflected in specific OAT markers from bacterial and ye
 | Clostridia elevation | Targeted antimicrobials, probiotics |
 
 ## Related
-- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
-- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]
 
 ---
 *Source: CGPT-0022 — OAT interpretation*

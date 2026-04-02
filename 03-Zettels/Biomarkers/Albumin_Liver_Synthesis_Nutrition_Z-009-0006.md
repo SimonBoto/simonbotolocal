@@ -202,7 +202,7 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Liver_Function_[B-009-0001]|Liver Function Panel]]
+- [[Liver_Function_[B-009-0001]|Liver Function Panel]
 
 ---
 *Complete biomarker foundation — Albumin*

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Epidemiological Diet Study Challenges"
 date: 2025-03-23
 source: ChatGPT conversation history
-aliases: [CGPT-0116]
+aliases: CGPT-0116]
 tags: [chatgpt-archive, nutrition, technology]
 status: archived
 ---

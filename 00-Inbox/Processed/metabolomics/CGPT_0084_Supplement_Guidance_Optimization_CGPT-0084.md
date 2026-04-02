@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Supplement Guidance Optimization"
 date: 2025-05-27
 source: ChatGPT conversation history
-aliases: [CGPT-0084]
+aliases: CGPT-0084]
 tags: [chatgpt-archive, metabolomics, clinical, philosophy, nutrition]
 status: archived
 ---

@@ -4,7 +4,7 @@ aliases:
 uid: "20260215_072"
 ---
 #atomic
-parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]]
+parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]
 ---
 id: 202602150310-zettel-mc-intro-update
 tags: [zettel, #phd]
@@ -12,7 +12,7 @@ aliases: [MC Intro Update]
 links: []
 created: 2026-02-15
 updated: 2026-02-15
-parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]]
+parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]
 ---
 
 # Zettel MC Intro Update
@@ -34,4 +34,4 @@ Gut is key: microbes, enzymes affected by diet (alcohol, seed oils, fibers, oxal
 
 ^202602150310-zettel-mc-intro-update
 
-**Linked from raw**: [[../Raw/Zettel_MC_Intro_Update.md]]
+**Linked from raw**: [[../Raw/Zettel_MC_Intro_Update.md]

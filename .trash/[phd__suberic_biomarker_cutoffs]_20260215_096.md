@@ -7,7 +7,7 @@ uid: "20260215_096"
 ---
 uid: 20260212074704
 tags: [insulin-resistance, phd-biomarker]
-parent-moc: [[88-Mocs/PhD_IR_MOC]]
+parent-moc: [[88-Mocs/PhD_IR_MOC]
 aliases: [Suberic cutoff]
 references: []
 ---
@@ -18,6 +18,6 @@ Cutoff >10μmol/L plasma indicates IR. Normal <3μmol/L. #gc-ms
 
 **Evidence:** GC-MS data (priority 15/20: IR biomarker).
 
-**Source:** [[00-Inbox/02-Triage/Raw_04_processed]]
+**Source:** [[00-Inbox/02-Triage/Raw_04_processed]
 
-Links: [[Suberic_IR_Biomarker]] | [[88-Mocs/Biomarkers_MOC]]
+Links: [[Suberic_IR_Biomarker] | [[88-Mocs/Biomarkers_MOC]

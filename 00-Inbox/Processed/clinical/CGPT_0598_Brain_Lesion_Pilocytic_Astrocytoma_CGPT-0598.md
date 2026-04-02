@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Brain Lesion: Pilocytic Astrocytoma"
 date: 2023-08-22
 source: ChatGPT conversation history
-aliases: [CGPT-0598]
+aliases: CGPT-0598]
 tags: [chatgpt-archive, clinical, consciousness_ai]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Second Law of Thermodynamics"
 date: 2024-08-01
 source: ChatGPT conversation history
-aliases: [CGPT-0317]
+aliases: CGPT-0317]
 tags: [chatgpt-archive, general]
 status: archived
 ---

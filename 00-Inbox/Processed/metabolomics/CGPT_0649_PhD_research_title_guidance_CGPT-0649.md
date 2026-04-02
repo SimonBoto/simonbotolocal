@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "PhD research title guidance."
 date: 2023-04-29
 source: ChatGPT conversation history
-aliases: [CGPT-0649]
+aliases: CGPT-0649]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition, personal_development]
 status: archived
 ---

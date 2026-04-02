@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolic Markers in TCM"
 date: 2024-02-18
 source: ChatGPT conversation history
-aliases: [CGPT-0502]
+aliases: CGPT-0502]
 tags: [chatgpt-archive, metabolomics]
 status: archived
 ---

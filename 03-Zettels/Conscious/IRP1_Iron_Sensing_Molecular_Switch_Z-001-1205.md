@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, irp1, iron-regulatory-protein, iron-sensing, post-transcriptional]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]]"
+source-litnote: "[[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]"
 status: conscious
 ---
 
@@ -127,13 +127,13 @@ Iron uptake ↑, storage ↓
 
 ## Related
 
-- [[Aconitase_Mechanism_Iron_Sulfur_Cluster_Z-001-1204]]
-- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]]
+- [[Aconitase_Mechanism_Iron_Sulfur_Cluster_Z-001-1204]
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]
 
 ---
 
-*Source: [[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]] | 2026-03-08*
+*Source: [[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]

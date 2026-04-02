@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, pagets-disease, bone, alp, alkaline-phosphatase, osteitis-deformans, bone-scan, bisphosphonates, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]]
+source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]
 status: conscious
 ---
 
@@ -269,12 +269,12 @@ Result: Disorganized woven bone, enlarged, weak
 
 ---
 
-**Related:** [[ALP_Isoenzymes_Tissue_Sources_Z-001-0983]] | [[Breast_Pagets_Disease_Distinct_Entity_Z-001-0985]] | [[Elevated_ALP_Differential_Workup_Z-001-0986]]
+**Related:** [[ALP_Isoenzymes_Tissue_Sources_Z-001-0983] | [[Breast_Pagets_Disease_Distinct_Entity_Z-001-0985] | [[Elevated_ALP_Differential_Workup_Z-001-0986]
 
 **Source:** CGPT-0345 — Alkaline Phosphatase Overview
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolomics for Biomarker Identification"
 date: 2024-07-13
 source: ChatGPT conversation history
-aliases: [CGPT-0332]
+aliases: CGPT-0332]
 tags: [chatgpt-archive, metabolomics, clinical]
 status: archived
 ---

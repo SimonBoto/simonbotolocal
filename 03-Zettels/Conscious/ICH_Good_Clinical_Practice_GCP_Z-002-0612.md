@@ -7,7 +7,7 @@ domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, clinical-trials, regulatory]
 parent-moc: 
-source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]]"
+source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]"
 confidence: high
 created: 2026-03-27
 ---
@@ -68,9 +68,9 @@ While METHAP is not a pharmaceutical trial, GCP principles apply:
 
 ## Links
 
-**Parent MOC:** -Ethics]]  
-**Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]]  
-**Related:** [[Declaration_Helsinki_Research_Ethics_Z-002-0609]] — Ethical foundation
+**Parent MOC:** -Ethics]  
+**Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]  
+**Related:** [[Declaration_Helsinki_Research_Ethics_Z-002-0609] — Ethical foundation
 
 ---
 

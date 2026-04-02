@@ -38,8 +38,8 @@ created: 2026-02-22
 
 ## Links
 
-- **Upstream:** [[Insulin_Receptor_Structure_Z-001-0001]] — Receptor source
-- **Parallel:** _Z-001-0007]] — Metabolic pathway
+- **Upstream:** [[Insulin_Receptor_Structure_Z-001-0001] — Receptor source
+- **Parallel:** _Z-001-0007] — Metabolic pathway
 
 ## Context
 
@@ -49,4 +49,4 @@ created: 2026-02-22
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Study Aim Summary"
 date: 2024-04-13
 source: ChatGPT conversation history
-aliases: [CGPT-0417]
+aliases: CGPT-0417]
 tags: [chatgpt-archive, general]
 status: archived
 ---

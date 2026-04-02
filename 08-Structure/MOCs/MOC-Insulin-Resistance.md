@@ -15,7 +15,7 @@ created: 2026-03-04
 ---
 
 ## Fructose and Insulin Resistance
-- [[Z-001-0473]] Fructose Metabolism and Lipogenesis
+- [[Z-001-0473] Fructose Metabolism and Lipogenesis
 - Unregulated hepatic uptake
 - Lipogenic pathway
 - Uric acid production

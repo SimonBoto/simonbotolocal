@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Oxidation and Oxidative Stress"
 date: 2025-01-22
 source: ChatGPT conversation history
-aliases: [CGPT-0179]
+aliases: CGPT-0179]
 tags: [chatgpt-archive, general]
 status: archived
 ---

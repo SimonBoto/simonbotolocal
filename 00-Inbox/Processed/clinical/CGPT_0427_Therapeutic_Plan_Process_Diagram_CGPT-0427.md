@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Therapeutic Plan Process Diagram"
 date: 2024-04-09
 source: ChatGPT conversation history
-aliases: [CGPT-0427]
+aliases: CGPT-0427]
 tags: [chatgpt-archive, clinical, technology, communication, personal_development]
 status: archived
 ---

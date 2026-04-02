@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Self-Insight and Strength"
 date: 2025-01-02
 source: ChatGPT conversation history
-aliases: [CGPT-0213]
+aliases: CGPT-0213]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition]
 status: archived
 ---

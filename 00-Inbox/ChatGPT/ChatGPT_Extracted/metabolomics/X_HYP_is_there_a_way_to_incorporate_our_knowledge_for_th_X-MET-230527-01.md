@@ -10,7 +10,7 @@ uid: X-MET-230527-01
 type: extracted-hypothesis
 title: "Hypothesis: is there a way to incorporate our knowledge for the dynamics of metabo..."
 date: 2023-05-27
-source: "[[CGPT_0632_Insulin_Resistance_Biomarkers_[CGPT-0632]]"
+source: "[[CGPT_0632_Insulin_Resistance_Biomarkers_CGPT-0632]"
 aliases: [X-MET-230527-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
@@ -48,8 +48,8 @@ If true, this suggests:
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]
 
 ## Validation Log
 

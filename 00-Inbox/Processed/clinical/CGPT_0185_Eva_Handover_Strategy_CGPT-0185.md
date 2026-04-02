@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Eva Handover Strategy"
 date: 2025-01-17
 source: ChatGPT conversation history
-aliases: [CGPT-0185]
+aliases: CGPT-0185]
 tags: [chatgpt-archive, clinical, phd_research, personal_development]
 status: archived
 ---

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, fat-rehabilitation, whi, predimed, meta-analysis]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]]
+source-litnote: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]
 extraction-date: 2026-03-01
 ---
 
@@ -62,10 +62,10 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]]*
+*Source: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]*
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

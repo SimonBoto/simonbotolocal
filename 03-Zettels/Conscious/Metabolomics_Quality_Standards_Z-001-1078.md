@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Protocols
 tags: [zettel, quality, standards, metabolomics]
 parent-moc: 
-source-litnote: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]
-source: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]
+source-litnote: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]
+source: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]
 confidence: high
 created: 2026-03-08
 ---
@@ -102,7 +102,7 @@ Quality checkpoints throughout the metabolomics testing and interpretation proce
 | Patient satisfaction | > 90% |
 
 ## Related
-- [[Clinic_Patient_Flow_Operations_Z-001-1077]]
+- [[Clinic_Patient_Flow_Operations_Z-001-1077]
 - 
 
 ---
@@ -110,5 +110,5 @@ Quality checkpoints throughout the metabolomics testing and interpretation proce
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

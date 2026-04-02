@@ -14,7 +14,7 @@ tags:
   - ketose
   - sugar-metabolism
   - lipogenesis
-source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]"
+source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]"
 extraction-date: 2026-03-04
 status: extracted
 parent-moc:
@@ -168,18 +168,18 @@ Fructose → Fructose-1-P → DHAP + Glyceraldehyde
 
 ## Zettels Extracted
 
-- [[Aldose_vs_Ketose_Chemistry_Z-001-0471]] Aldose vs Ketose Chemistry
-- [[Glucose_Metabolism_Overview_Z-001-0472]] Glucose Metabolism Overview
-- [[Fructose_Metabolism_Lipogenesis_Z-001-0473]] Fructose Metabolism and Lipogenesis
-- [[Common_Aldoses_Roles_Z-001-0474]] Common Aldoses and Their Roles
-- [[Common_Ketoses_Roles_Z-001-0475]] Common Ketoses and Their Roles
+- [[Aldose_vs_Ketose_Chemistry_Z-001-0471] Aldose vs Ketose Chemistry
+- [[Glucose_Metabolism_Overview_Z-001-0472] Glucose Metabolism Overview
+- [[Fructose_Metabolism_Lipogenesis_Z-001-0473] Fructose Metabolism and Lipogenesis
+- [[Common_Aldoses_Roles_Z-001-0474] Common Aldoses and Their Roles
+- [[Common_Ketoses_Roles_Z-001-0475] Common Ketoses and Their Roles
 
 ---
 
 ## Connections
 
-- [[L-001-0045D]] Triose Metabolism (fructose → trioses)
-- [[L-001-0045F]] Keto Acids and Organic Acids
+- [[L-001-0045D] Triose Metabolism (fructose → trioses)
+- [[L-001-0045F] Keto Acids and Organic Acids
 - 
 -  (fructose link)
 

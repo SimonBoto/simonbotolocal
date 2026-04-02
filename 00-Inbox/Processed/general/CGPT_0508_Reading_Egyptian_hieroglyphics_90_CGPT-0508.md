@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Reading Egyptian hieroglyphics 90%"
 date: 2024-01-10
 source: ChatGPT conversation history
-aliases: [CGPT-0508]
+aliases: CGPT-0508]
 tags: [chatgpt-archive, general]
 status: archived
 ---

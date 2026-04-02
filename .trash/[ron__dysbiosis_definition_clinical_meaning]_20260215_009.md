@@ -18,11 +18,11 @@ Common confusion:
 - “Any probiotic fixes dysbiosis” (oversimplification; effect is context-dependent and should be monitored).
 
 Related:
-- [[111_Hub_Gut_Function]]
-- [[111_Hub_Disease_Specific]]
-- [[Zettel_IBD_As_Dysbiosis_Not_Single_Pathogen]]
-- [[Zettel_Inflammation_Driven_Dysbiosis_Bidirectional_Loop]]
-- [[Rule_IBD_Reversible_Triggers_Diet_Stress_Antibiotics_Toxins]]
+- [[111_Hub_Gut_Function]
+- [[111_Hub_Disease_Specific]
+- [[Zettel_IBD_As_Dysbiosis_Not_Single_Pathogen]
+- [[Zettel_Inflammation_Driven_Dysbiosis_Bidirectional_Loop]
+- [[Rule_IBD_Reversible_Triggers_Diet_Stress_Antibiotics_Toxins]
 
 Open_Loops:
 - Define the clinic operational definition: which tests/markers qualify as “dysbiosis” in our workflow?
@@ -30,4 +30,4 @@ Open_Loops:
 
 Needs_Evidence: yes
 Promote_to_stable_when:
-- At least 2 supporting [[Library_...]] notes exist and we add a clinic operational definition.
+- At least 2 supporting [[Library_...] notes exist and we add a clinic operational definition.

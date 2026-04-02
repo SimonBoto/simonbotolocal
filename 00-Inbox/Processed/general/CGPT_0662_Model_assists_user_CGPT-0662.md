@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Model assists user."
 date: 2023-03-16
 source: ChatGPT conversation history
-aliases: [CGPT-0662]
+aliases: CGPT-0662]
 tags: [chatgpt-archive, general]
 status: archived
 ---

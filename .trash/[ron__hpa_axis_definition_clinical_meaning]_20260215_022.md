@@ -19,10 +19,10 @@ Common confusion:
 - “HPA axis explains everything.” (It is one upstream controller; not the only one.)
 
 Related links:
-- [[Zettel_Level4_Thought_Emotion_Hormone_Axis_Cortex_Hypothalamus_Pituitary]]
-- [[Zettel_Psychological_Stress_To_Biological_Stress_Metabolic_Disruption_Trigger]]
-- [[111_Hub_Neurotransmitters]]
-- [[Hub_Insulin_Resistance]]
+- [[Zettel_Level4_Thought_Emotion_Hormone_Axis_Cortex_Hypothalamus_Pituitary]
+- [[Zettel_Psychological_Stress_To_Biological_Stress_Metabolic_Disruption_Trigger]
+- [[111_Hub_Neurotransmitters]
+- [[Hub_Insulin_Resistance]
 
 Needs_Evidence: no (definition-level)
 Open_Loops:

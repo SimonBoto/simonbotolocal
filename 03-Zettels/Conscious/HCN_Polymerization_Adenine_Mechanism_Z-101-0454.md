@@ -8,7 +8,7 @@ tags: [zettel, prebiotic-chemistry, hcn, adenine, origin-of-life, polymerization
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-101-0045B]]
+source: [[L-101-0045B]
 ---
 
 # HCN Polymerization to Adenine
@@ -45,8 +45,8 @@ source: [[L-101-0045B]]
 - Eutectic freezing in ice
 
 ## Related
-- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]] Meteoritic Nucleobases and Panspermia
-- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]] Purine Structure (product)
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455] Meteoritic Nucleobases and Panspermia
+- [[Purine_vs_Pyrimidine_Structure_Z-101-0453] Purine Structure (product)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

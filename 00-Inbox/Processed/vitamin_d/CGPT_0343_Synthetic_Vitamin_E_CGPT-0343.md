@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Synthetic Vitamin E"
 date: 2024-06-29
 source: ChatGPT conversation history
-aliases: [CGPT-0343]
+aliases: CGPT-0343]
 tags: [chatgpt-archive, vitamin_d, phd_research, nutrition]
 status: archived
 ---

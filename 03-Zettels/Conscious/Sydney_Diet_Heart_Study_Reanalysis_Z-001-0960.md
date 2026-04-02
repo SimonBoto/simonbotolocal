@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, sydney-diet-heart, ramsden, omega-6, mortality, clinical-trial, paradox, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Epidemiological_Evidence_L-001-0525]]
+source-litnote: [[LitNote_Epidemiological_Evidence_L-001-0525]
 status: conscious
 ---
 
@@ -187,11 +187,11 @@ status: conscious
 
 ---
 
-**Related:** [[Minnesota_Coronary_Experiment_Reanalysis_Z-001-0961]] | [[Omega_6_Cardiovascular_Controversy_Z-001-0962]] | [[Ramsden_Critique_Diet_Heart_Hypothesis_Z-001-0963]]
+**Related:** [[Minnesota_Coronary_Experiment_Reanalysis_Z-001-0961] | [[Omega_6_Cardiovascular_Controversy_Z-001-0962] | [[Ramsden_Critique_Diet_Heart_Hypothesis_Z-001-0963]
 
 **Source:** CGPT-0282 — Seed Oils and Chronic Diseases
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "HOMA-IR Index Explained"
 date: 2023-04-29
 source: ChatGPT conversation history
-aliases: [CGPT-0650]
+aliases: CGPT-0650]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, phd_research, nutrition]
 status: archived
 ---

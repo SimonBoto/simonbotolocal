@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "No Job Openings"
 date: 2024-07-17
 source: ChatGPT conversation history
-aliases: [CGPT-0326]
+aliases: CGPT-0326]
 tags: [chatgpt-archive, general]
 status: archived
 ---

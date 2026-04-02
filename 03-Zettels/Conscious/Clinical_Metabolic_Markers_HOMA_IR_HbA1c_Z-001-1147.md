@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Assessment
 tags: [zettel, clinical, markers, homa-ir, hba1c, insulin-resistance]
 parent-moc: 
-source-litnote: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]]
-source: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]]
+source-litnote: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
+source: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
 confidence: high
 created: 2026-03-08
 ---
@@ -154,18 +154,18 @@ HOMA-IR = (Fasting insulin μU/mL × Fasting glucose mmol/L) ÷ 22.5
 | **HDL** | >40/50 | <40/50 | <40/50 |
 
 ## Related
-- _Z-001-1145]]
-- [[Plasma_Total_Fatty_Acids_TFA_Profile_Z-001-1146]]
-- [[Novel_vs_Traditional_Markers_Insulin_Resistance_Z-001-1148]]
+- _Z-001-1145]
+- [[Plasma_Total_Fatty_Acids_TFA_Profile_Z-001-1146]
+- [[Novel_vs_Traditional_Markers_Insulin_Resistance_Z-001-1148]
 - 
 
 ---
 *Source: CGPT-0475 — Metabolic  for insulin resistance*
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

@@ -226,9 +226,9 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Methylation Family Guide]]
-- [[Z-004-0002|Methylmalonic Acid (MMA) — Functional B12 Status]]
-- [[Z-004-0004|Folate (5-MTHF) — Active Folate]]
+- [[Methylation_Family_[B-004-0001]|Methylation Family Guide]
+- [[Z-004-0002|Methylmalonic Acid (MMA) — Functional B12 Status]
+- [[Z-004-0004|Folate (5-MTHF) — Active Folate]
 
 source-litnote: Synthesized from clinical practice
 ---

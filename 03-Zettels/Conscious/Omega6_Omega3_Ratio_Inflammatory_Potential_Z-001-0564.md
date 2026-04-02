@@ -7,7 +7,7 @@ domain: 001
 domain-name: Nutrition
 tags: [zettel, claim, omega-6, omega-3, inflammation, eicosanoids, linoleic-acid, arachidonic-acid]
 parent-moc: 
-source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]]"
+source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]"
 confidence: high
 created: 2026-03-03
 ---
@@ -125,10 +125,10 @@ When chicken fat exceeds **36% omega-6 fatty acids** (common in corn-fed birds):
 
 ## Related Zettels
 
-- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]] — Poultry omega-6 content
-- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563]] — Egg quality options
-- [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]] — Complete reference data
-- [[Seed_Oils_Omega6_Omega3_Ratio_Z-001-0503]] — Broader omega-6:3 context
+- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562] — Poultry omega-6 content
+- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563] — Egg quality options
+- [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565] — Complete reference data
+- [[Seed_Oils_Omega6_Omega3_Ratio_Z-001-0503] — Broader omega-6:3 context
 
 ---
 
@@ -141,10 +141,10 @@ When chicken fat exceeds **36% omega-6 fatty acids** (common in corn-fed birds):
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 
 ## Related
-- [[Fatty_Acid_Dietary_Strategies_Z-001-0521]|Z-001-0521]]
+- [[Fatty_Acid_Dietary_Strategies_Z-001-0521]|Z-001-0521]
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

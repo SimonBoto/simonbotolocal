@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "IV Clinic Proposal Optimization"
 date: 2025-04-29
 source: ChatGPT conversation history
-aliases: [CGPT-0099]
+aliases: CGPT-0099]
 tags: [chatgpt-archive, clinical, phd_research, philosophy, personal_development]
 status: archived
 ---

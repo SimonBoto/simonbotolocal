@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, c677t, polymorphism, mthfr, thermolabile]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]]
+source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]
 extraction-date: 2026-03-01
 ---
 
@@ -56,9 +56,9 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_MTHFR_Genetics_L-001-0403]]*
+*Source: [[LitNote_MTHFR_Genetics_L-001-0403]*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

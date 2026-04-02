@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Horizon 2020 Diabetes Proposal"
 date: 2023-09-12
 source: ChatGPT conversation history
-aliases: [CGPT-0569]
+aliases: CGPT-0569]
 tags: [chatgpt-archive, insulin_resistance]
 status: archived
 ---

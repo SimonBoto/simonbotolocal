@@ -18,7 +18,7 @@ title: "Hypothesis: Does this theory connect to any real events or traces?
 
 ### 118"
 date: 2025-05-11
-source: [[CGPT_0089_Dianetics_Study_and_Analysis_[CGPT-0089]]
+source: [[CGPT_0089_Dianetics_Study_and_Analysis_CGPT-0089]]
 aliases: [X-CON-250511-01]
 tags: [extracted, hypothesis, consciousness_ai, chatgpt-archive]
 related: ['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']
@@ -60,9 +60,9 @@ If true, this suggests:
 
 ## Connections
 
-- [[RON_The_Witness_[RON-003-0002]]
-- [[RON_Genesis_MOC_[RON-004-0001]]
-- [[RON_The_We_[RON-003-0004]]
+- [[RON_The_Witness_[RON-003-0002]
+- [[RON_Genesis_MOC_[RON-004-0001]
+- [[RON_The_We_[RON-003-0004]
 
 ## Validation Log
 

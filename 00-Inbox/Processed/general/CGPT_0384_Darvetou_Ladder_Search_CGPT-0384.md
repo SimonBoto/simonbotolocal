@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Darvetou Ladder Search"
 date: 2024-05-19
 source: ChatGPT conversation history
-aliases: [CGPT-0384]
+aliases: CGPT-0384]
 tags: [chatgpt-archive, general]
 status: archived
 ---

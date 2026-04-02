@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Angry Bee Logo Design"
 date: 2025-02-08
 source: ChatGPT conversation history
-aliases: [CGPT-0153]
+aliases: CGPT-0153]
 tags: [chatgpt-archive, general]
 status: archived
 ---

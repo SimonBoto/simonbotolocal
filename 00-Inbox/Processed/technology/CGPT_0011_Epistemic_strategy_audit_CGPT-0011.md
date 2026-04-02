@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Epistemic strategy audit"
 date: 2026-01-22
 source: ChatGPT conversation history
-aliases: [CGPT-0011]
+aliases: CGPT-0011]
 tags: [chatgpt-archive, technology]
 status: archived
 ---

@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Training
 tags: [zettel, competency, training, assessment]
 parent-moc: 
-source-litnote: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]
-source: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]
+source-litnote: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]
+source: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]
 confidence: high
 created: 2026-03-08
 ---
@@ -104,7 +104,7 @@ If competency not achieved:
 4. Re-assessment
 
 ## Related
-- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]
 - 
 
 ---
@@ -112,6 +112,6 @@ If competency not achieved:
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

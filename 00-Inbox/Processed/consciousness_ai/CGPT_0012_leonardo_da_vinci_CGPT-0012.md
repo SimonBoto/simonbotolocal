@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "leonardo da vinci"
 date: 2026-01-20
 source: ChatGPT conversation history
-aliases: [CGPT-0012]
+aliases: CGPT-0012]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

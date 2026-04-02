@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, sirolimus, rapamycin, mitophagy, autophagy, mitochondrial-depletion, quality-control]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]]"
+source: "[[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
 ---
@@ -113,10 +113,10 @@ Mitochondrial Health = Biogenesis - (Damage + Clearance)
 
 ---
 
-*See also: [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]]*
+*See also: [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Sirolimus_Lipotoxicity_Adiponectin_Z-001-0926]|Z-001-0926]]
+- [[Sirolimus_Lipotoxicity_Adiponectin_Z-001-0926]|Z-001-0926]

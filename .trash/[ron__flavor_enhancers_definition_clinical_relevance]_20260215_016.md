@@ -24,9 +24,9 @@ Common confusion:
 - "If it tastes good it’s bad." (Palatability alone isn’t the problem; hyper-palatable ultra-processed patterns are.)
 
 Related:
-- [[Zettel_Flavor_Enhancers_Condition_Preferences_Against_Whole_Foods]]
-- [[[ron__nutrient_density_definition_clinical_meaning]_20260215_039]]
-- [[30_Rules/Rule_Patient_Education_Nutrient_Density_Over_Calorie_Counting_Evidence_Gates]]
+- [[Zettel_Flavor_Enhancers_Condition_Preferences_Against_Whole_Foods]
+- [[[ron__nutrient_density_definition_clinical_meaning]_20260215_039]
+- [[30_Rules/Rule_Patient_Education_Nutrient_Density_Over_Calorie_Counting_Evidence_Gates]
 
 Open_Loops:
 - Decide clinic language: “hyper-palatable foods” vs “flavor enhancers.”

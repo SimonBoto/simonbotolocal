@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Fast Laptop Backup Guide"
 date: 2024-05-18
 source: ChatGPT conversation history
-aliases: [CGPT-0386]
+aliases: CGPT-0386]
 tags: [chatgpt-archive, technology]
 status: archived
 ---

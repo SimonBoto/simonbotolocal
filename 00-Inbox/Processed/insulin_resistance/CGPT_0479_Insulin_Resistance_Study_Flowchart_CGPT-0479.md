@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Insulin Resistance Study Flowchart."
 date: 2024-03-03
 source: ChatGPT conversation history
-aliases: [CGPT-0479]
+aliases: CGPT-0479]
 tags: [chatgpt-archive, insulin_resistance, technology]
 status: archived
 ---

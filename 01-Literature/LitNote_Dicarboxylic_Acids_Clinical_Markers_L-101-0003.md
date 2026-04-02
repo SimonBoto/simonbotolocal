@@ -13,7 +13,7 @@ relevance: High — Clinical diagnostic markers for METHAP protocol
 aliases: [L-101-0003, Dicarboxylic Aciduria, Urine Organic Acid Markers]
 domain: 101
 tags: [litnote, dicarboxylic-aciduria, urine-organic-acid, fatty-acid-oxidation-disorder, clinical-metabolomics, diagnostic-marker]
-source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]"
+source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-02
@@ -38,7 +38,7 @@ extraction-date: 2026-03-02
 - Early warning sign in insulin resistance progression
 - Distinguishable from other organic acidemias
 
-**Zettels extracted:** [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_Z-101-0013]]
+**Zettels extracted:** [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_Z-101-0013]
 
 ### 2. Complete Dicarboxylic Acid Inventory
 > "The pattern of dicarboxylic acid elevation reveals the severity and type of fatty acid oxidation impairment."
@@ -55,7 +55,7 @@ extraction-date: 2026-03-02
 | **Azelaic** | C9 | HOOC-(CH₂)₇-COOH | Minor ω-oxidation product | Uncommon elevation |
 | **Sebacic** | C10 | HOOC-(CH₂)₈-COOH | ω-oxidation (C10-C16 FAs) | Tertiary marker |
 
-**Zettels extracted:** [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+**Zettels extracted:** [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]
 
 ### 3. Differential Diagnosis of Dicarboxylic Aciduria
 > "Primary genetic causes (FAODs) must be distinguished from secondary acquired causes (carnitine deficiency, insulin resistance, medications)."
@@ -78,7 +78,7 @@ extraction-date: 2026-03-02
 - Severe liver disease
 - Pregnancy (physiological stress)
 
-**Zettels extracted:** [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]
+**Zettels extracted:** [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]
 
 ### 4. Laboratory Interpretation Guide
 > "Urine organic acid analysis uses GC-MS or LC-MS/MS to quantify dicarboxylic acids, with pattern recognition distinguishing mild, moderate, and severe metabolic stress."
@@ -114,7 +114,7 @@ extraction-date: 2026-03-02
 - Sebacate: Elevated
 - **Interpretation:** Severe FAOD or metabolic crisis
 
-**Zettels extracted:** [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]]
+**Zettels extracted:** [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]
 
 ### 5. Distinguishing Dicarboxylic Aciduria from Ketone Bodies
 > "Dicarboxylic aciduria occurs in fed states with impaired β-oxidation, while ketonuria occurs in fasting states with accelerated β-oxidation — opposite metabolic contexts requiring different clinical interpretation."
@@ -127,7 +127,7 @@ extraction-date: 2026-03-02
 | **Clinical context** | Fed state possible | Fasting/starvation |
 | **Metabolic state** | β-oxidation impaired | β-oxidation accelerated |
 
-**Zettels extracted:** [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_Z-101-0015]]
+**Zettels extracted:** [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_Z-101-0015]
 
 ---
 
@@ -157,16 +157,16 @@ extraction-date: 2026-03-02
 ---
 
 ## Zettels Created from This Source
-1. [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_Z-101-0013]] — Laboratory analysis
-2. [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]] — Primary vs secondary causes
-3. [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_Z-101-0015]] — Clinical differentiation
-4. [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]] — Diagnostic workflow
+1. [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_Z-101-0013] — Laboratory analysis
+2. [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014] — Primary vs secondary causes
+3. [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_Z-101-0015] — Clinical differentiation
+4. [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016] — Diagnostic workflow
 
 ---
 
 ## Related References
-- [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]] — Mechanistic basis
-- [[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]] — Cofactor connections
+- [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002] — Mechanistic basis
+- [[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004] — Cofactor connections
 -  — Parent MOC
 -  — Diagnostic implementation
 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Learn About Vitamin D"
 date: 2023-09-16
 source: ChatGPT conversation history
-aliases: [CGPT-0563]
+aliases: CGPT-0563]
 tags: [chatgpt-archive, vitamin_d, nutrition]
 status: archived
 ---

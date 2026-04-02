@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, sirolimus, rapamycin, mtorc1, calcium, mptp, mitochondrial-permeability, cell-death]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]]"
+source: "[[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
 ---
@@ -126,9 +126,9 @@ Sirolimus → Mitochondrial dysfunction
 
 ---
 
-*See also: [[Sirolimus_Mitophagy_Dysregulation_Z-001-0921]]*
+*See also: [[Sirolimus_Mitophagy_Dysregulation_Z-001-0921]*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

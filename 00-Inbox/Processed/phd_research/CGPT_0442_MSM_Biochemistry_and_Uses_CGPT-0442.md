@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "MSM: Biochemistry and Uses"
 date: 2024-03-29
 source: ChatGPT conversation history
-aliases: [CGPT-0442]
+aliases: CGPT-0442]
 tags: [chatgpt-archive, phd_research, nutrition]
 status: archived
 ---

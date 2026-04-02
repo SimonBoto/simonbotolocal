@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Clinic Secretary Support Strategy"
 date: 2024-02-29
 source: ChatGPT conversation history
-aliases: [CGPT-0490]
+aliases: CGPT-0490]
 tags: [chatgpt-archive, clinical, phd_research, communication, personal_development]
 status: archived
 ---

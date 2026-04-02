@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Change conversation style"
 date: 2025-09-13
 source: ChatGPT conversation history
-aliases: [CGPT-0059]
+aliases: CGPT-0059]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

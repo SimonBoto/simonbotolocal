@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Elevated AFP in Menopause."
 date: 2024-05-23
 source: ChatGPT conversation history
-aliases: [CGPT-0374]
+aliases: CGPT-0374]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

@@ -8,7 +8,7 @@ tags: [zettel, anaplerosis, krebs-cycle, pyruvate-carboxylase, biotin]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045H]]
+source: [[L-001-0045H]
 ---
 
 # Anaplerosis: Replenishing Krebs Cycle Intermediates
@@ -96,14 +96,14 @@ Anaplerosis < Cataplerosis (OAA depletion → ketogenesis)
 ```
 
 ## Related
-- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]] Oxaloacetate Dual Role
-- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491]] PEPCK Regulation
-- [[Ketogenesis_Pathway_Regulation_Z-001-0481]] Ketogenesis (result of OAA depletion)
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488] Oxaloacetate Dual Role
+- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491] PEPCK Regulation
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481] Ketogenesis (result of OAA depletion)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Diet Intervention Selection Assistance"
 date: 2023-06-01
 source: ChatGPT conversation history
-aliases: [CGPT-0623]
+aliases: CGPT-0623]
 tags: [chatgpt-archive, insulin_resistance, phd_research, nutrition]
 status: archived
 ---

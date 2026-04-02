@@ -9,7 +9,7 @@ parent-moc:
 status: conscious
 created: 2026-03-04
 updated: 2026-03-05
-source: [[L-001-0046B]]
+source: [[L-001-0046B]
 ---
 
 # Glutamate-Arginine-Urea Cycle Connection
@@ -89,9 +89,9 @@ Arginine + H₂O → Urea + Ornithine
 - Ultimate source of first urea nitrogen
 
 ## Related
-- [[Amino_Acids_Oxaloacetate_Aspartate_Z-001-0493]]  to Oxaloacetate (aspartate connection)
-- [[Glutamate_Central_Amino_Acid_Hub_Z-001-0915]] Glutamate Central Hub
-- [[Glutamine_Glutamate_Ammonia_Cycle_Z-001-0916]] Glutamine-Glutamate-Ammonia Cycle
+- [[Amino_Acids_Oxaloacetate_Aspartate_Z-001-0493]  to Oxaloacetate (aspartate connection)
+- [[Glutamate_Central_Amino_Acid_Hub_Z-001-0915] Glutamate Central Hub
+- [[Glutamine_Glutamate_Ammonia_Cycle_Z-001-0916] Glutamine-Glutamate-Ammonia Cycle
 - 
 
 ---
@@ -99,4 +99,4 @@ Arginine + H₂O → Urea + Ornithine
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

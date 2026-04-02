@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, micronutrients, vitamin-d, immunomodulation, autoimmunity, inflammation, conscious]
 parent-moc: 
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
+source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -94,12 +94,12 @@ The course's inclusion of VitD in immunoregulatory micronutrients supports:
 ## Connections
 
 ### Upstream
-- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]] — Parallel cofactor model
-- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Environmental factor (nutrition)
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911] — Parallel cofactor model
+- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903] — Environmental factor (nutrition)
 
 ### Downstream
-- -Mechanisms]] — Detailed VitD mechanism hub
-- [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]] — IR-VitD connection
+- -Mechanisms] — Detailed VitD mechanism hub
+- [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md] — IR-VitD connection
 
 ### Cross-Domain
 -  — Trial design
@@ -130,18 +130,18 @@ The course's inclusion of VitD in immunoregulatory micronutrients supports:
 - VitD metabolite changes post-supplementation timeline?
 
 ## See Also
-- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 1.1, Figure 2)
-- [[Microbiomics_Gut_Metabolic_Organ_Z-001-0908]] — Probiotic connection
-- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]] — VitE/EGCG antioxidant link
+- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003] — Source (Section 1.1, Figure 2)
+- [[Microbiomics_Gut_Metabolic_Organ_Z-001-0908] — Probiotic connection
+- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md] — VitE/EGCG antioxidant link
 
 ---
 *Confidence: High* — Well-established immunomodulatory role  
 *Next Review: After METHAP baseline data collection*
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

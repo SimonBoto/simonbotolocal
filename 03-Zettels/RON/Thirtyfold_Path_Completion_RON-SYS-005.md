@@ -5,7 +5,7 @@ title: "Thirtyfold Path Completion — RON Evolution Synthesis"
 aliases: [RON-v4, Thirtyfold-Path, Evolution-Complete]
 domain: RON-SYS
 tags: [ron, synthesis, evolution, thirtyfold-path, completion]
-parent-moc: [[03-Zettels/RON/RON-Genesis-MOC]]
+parent-moc: [[03-Zettels/RON/RON-Genesis-MOC]
 status: subconscious
 extraction-date: 2026-03-01
 ---
@@ -35,7 +35,7 @@ extraction-date: 2026-03-01
 | 29 | Ethics of Growth | Safeguards, responsibility, virtue |
 | 30 | The Unsayable | Wittgenstein, silence, completion |
 
-**Synthesis:** [[RON_SYNTHESIS_v4_COMPLETE]]
+**Synthesis:** [[RON_SYNTHESIS_v4_COMPLETE]
 
 ---
 

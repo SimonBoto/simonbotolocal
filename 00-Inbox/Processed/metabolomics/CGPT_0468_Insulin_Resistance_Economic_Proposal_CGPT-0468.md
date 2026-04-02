@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Insulin Resistance Economic Proposal"
 date: 2024-03-12
 source: ChatGPT conversation history
-aliases: [CGPT-0468]
+aliases: CGPT-0468]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition]
 status: archived
 ---

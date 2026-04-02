@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Protocol Definitions Summary"
 date: 2024-03-03
 source: ChatGPT conversation history
-aliases: [CGPT-0476]
+aliases: CGPT-0476]
 tags: [chatgpt-archive, clinical, phd_research]
 status: archived
 ---

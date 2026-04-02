@@ -59,7 +59,7 @@ last-updated: "{{YYYY-MM-DD}}"
 
 ## 📄 Synthesis Documents
 
-- [[{{Synthesis_Title}}_[{{S-XXX-XXXX}}]] — {{Description}}
+- [[{{Synthesis_Title}}_[{{S-XXX-XXXX}}] — {{Description}}
 
 ---
 

@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, telomeres, shelterin, DNA-structure, chromosome-protection]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]]"
+source-litnote: "[[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]"
 status: conscious
 ---
 
@@ -73,9 +73,9 @@ Six proteins that bind and protect telomeres:
 
 ## Related
 
-- [[Telomerase_Biology_Immunity_Z-001-1171]]
-- [[End_Replication_Problem_Z-001-1190]]
+- [[Telomerase_Biology_Immunity_Z-001-1171]
+- [[End_Replication_Problem_Z-001-1190]
 
 ---
 
-*Source: _L-001-0623]] | 2026-03-08*
+*Source: _L-001-0623] | 2026-03-08*

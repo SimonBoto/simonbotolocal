@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, glycation, hba1c, ages, advanced-glycation-end-products, diabetes, vascular-damage, aging, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]]
+source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]
 status: conscious
 ---
 
@@ -364,16 +364,16 @@ Average glucose (mg/dL) = (28.7 × HbA1c) - 46.7
 
 ---
 
-**Related:** [[Insulin_Resistance_Metabolic_Syndrome_Z-001-0019]] | [[Advanced_Glycation_End_Products_Dietary_Z-001-0561]] | [[Anti_Aging_Interventions_Metabolic_Z-001-0562]]
+**Related:** [[Insulin_Resistance_Metabolic_Syndrome_Z-001-0019] | [[Advanced_Glycation_End_Products_Dietary_Z-001-0561] | [[Anti_Aging_Interventions_Metabolic_Z-001-0562]
 
 **Source:** CGPT-0124 — Five Pillars of Metabolic Health
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

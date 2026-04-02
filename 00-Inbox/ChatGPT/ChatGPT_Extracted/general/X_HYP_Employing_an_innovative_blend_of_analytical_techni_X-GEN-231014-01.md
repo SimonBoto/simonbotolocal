@@ -10,7 +10,7 @@ uid: X-GEN-231014-01
 type: extracted-hypothesis
 title: "Hypothesis: Employing an innovative blend of analytical techniques, including gene..."
 date: 2023-10-14
-source: "[[CGPT_0543_zhao_et_al_genomics_[CGPT-0543]]"
+source: "[[CGPT_0543_zhao_et_al_genomics_CGPT-0543]"
 aliases: [X-GEN-231014-01]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []

@@ -61,7 +61,7 @@ tags: [reference, metabolism, immunity, autoimmunity, self-
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]] — Metabolic pressure immunity
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912] — Metabolic pressure immunity
 
 ---
 

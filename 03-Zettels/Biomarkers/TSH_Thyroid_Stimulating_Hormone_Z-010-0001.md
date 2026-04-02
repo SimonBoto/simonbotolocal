@@ -241,10 +241,10 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Thyroid Panel Family Guide]]
-- [[Z-010-0002|Free T4 — Thyroxine]]
-- [[Z-010-0003|Free T3 — Triiodothyronine]]
-- [[Z-010-0004|Anti-TPO — Thyroid Peroxidase Antibodies]]
+- [[Thyroid_Panel_[B-010-0001]|Thyroid Panel Family Guide]
+- [[Z-010-0002|Free T4 — Thyroxine]
+- [[Z-010-0003|Free T3 — Triiodothyronine]
+- [[Z-010-0004|Anti-TPO — Thyroid Peroxidase Antibodies]
 
 source-litnote: Synthesized from clinical practice
 ---

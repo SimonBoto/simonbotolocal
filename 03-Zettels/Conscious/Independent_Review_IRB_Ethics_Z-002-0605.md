@@ -7,7 +7,7 @@ domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, irb, oversight, emmanuel-seven]
 parent-moc: 
-source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]"
+source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]"
 confidence: high
 created: 2026-03-27
 ---
@@ -57,8 +57,8 @@ METHAP requires:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]  
-**Related:** [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]] — Risk assessment
+**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]  
+**Related:** [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604] — Risk assessment
 
 ---
 
@@ -66,18 +66,18 @@ METHAP requires:
 
 
 ## Related
-- [[Questionnaire_Ethics_Approval_Strategies_Z-101-0482]|Z-101-0482]]
+- [[Questionnaire_Ethics_Approval_Strategies_Z-101-0482]|Z-101-0482]
 
 
 ## Related
-- [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]|Z-002-0617]]
+- [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]|Z-002-0617]
 
 
 ## Related
-- _Analysis_Plan_Z-002-0620]|Z-002-0620]]
+- _Analysis_Plan_Z-002-0620]|Z-002-0620]
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
-- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]|Z-002-0609]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]|Z-002-0609]

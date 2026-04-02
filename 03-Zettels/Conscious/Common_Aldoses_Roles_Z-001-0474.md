@@ -8,7 +8,7 @@ tags: [zettel, aldoses, glucose, galactose, ribose, sugars]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045E]]
+source: [[L-001-0045E]
 ---
 
 # Common Aldoses and Their Roles
@@ -66,14 +66,14 @@ source: [[L-001-0045E]]
 | Glyceraldehyde | 3 | Glycolysis |
 
 ## Related
-- [[Aldose_vs_Ketose_Chemistry_Z-001-0471]] Aldose vs Ketose Chemistry
-- [[Common_Ketoses_Roles_Z-001-0475]] Common Ketoses (contrast)
+- [[Aldose_vs_Ketose_Chemistry_Z-001-0471] Aldose vs Ketose Chemistry
+- [[Common_Ketoses_Roles_Z-001-0475] Common Ketoses (contrast)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

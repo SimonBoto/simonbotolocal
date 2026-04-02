@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: B12 Deficiency Mimicking Multiple Myeloma
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_[CGPT-0264]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]]
 - **Date:** October 27, 2024
 - **Scope:** Your specific question about B12/5-MTHF/D deficiency mimicking MM, diagnostic differentiation
 
@@ -38,7 +38,7 @@ extraction-date: 2026-03-01
 - **MTHFR:** Not directly correlated with MM pathogenesis
 - **Differentiation:** Critical to avoid misdiagnosis
 
-**Zettels extracted:** [[B12_MM_Mimicry_Clinical_Question_Z-001-0419]]
+**Zettels extracted:** [[B12_MM_Mimicry_Clinical_Question_Z-001-0419]
 
 ### 2. Hematological Overlap
 > "Severe B12 and folate deficiency cause megaloblastic anemia with bone marrow hypercellularity, elevated LDH, and pancytopenia—features that overlap with hematological malignancies."
@@ -60,7 +60,7 @@ extraction-date: 2026-03-01
 - B12 deficiency: No malignant cells, reversible
 - MM: Malignant plasma cells, progressive
 
-**Zettels extracted:** [[Hematological_Overlap_B12_MM_Z-001-0420]]
+**Zettels extracted:** [[Hematological_Overlap_B12_MM_Z-001-0420]
 
 ### 3. Bone Marrow Differentiation
 > "Bone marrow biopsy is diagnostic: B12 deficiency shows megaloblastic erythropoiesis without clonal plasma cells; MM shows >10% clonal plasma cells with light chain restriction."
@@ -83,7 +83,7 @@ extraction-date: 2026-03-01
 - B12 deficiency: Polyclonal plasma cells (normal kappa:lambda ratio)
 - MM: Monoclonal plasma cells (aberrant ratio)
 
-**Zettels extracted:** [[Bone_Marrow_Differentiation_B12_MM_Z-001-0421]]
+**Zettels extracted:** [[Bone_Marrow_Differentiation_B12_MM_Z-001-0421]
 
 ### 4. Laboratory Markers — The Distinguishing Features
 > "Serum protein electrophoresis, free light chains, and B12/metabolite levels distinguish these conditions definitively."
@@ -108,7 +108,7 @@ extraction-date: 2026-03-01
 | **Anti-IF antibodies** | May be present (pernicious anemia) | Absent |
 | **Response to B12** | Rapid reticulocytosis | None |
 
-**Zettels extracted:** [[Laboratory_Markers_Distinguishing_Features_Z-001-0422]]
+**Zettels extracted:** [[Laboratory_Markers_Distinguishing_Features_Z-001-0422]
 
 ### 5. MTHFR and Multiple Myeloma — The Lack of Correlation
 > "Despite affecting folate metabolism, MTHFR polymorphisms are not directly correlated with multiple myeloma pathogenesis."
@@ -129,7 +129,7 @@ extraction-date: 2026-03-01
 - Manage MTHFR separately
 - Focus on actual MM treatment
 
-**Zettels extracted:** [[MTHFR_MM_No_Correlation_Z-001-0423]]
+**Zettels extracted:** [[MTHFR_MM_No_Correlation_Z-001-0423]
 
 ### 6. Clinical Scenarios and Diagnostic Approach
 > "When to suspect B12 deficiency masquerading as malignancy: macrocytic anemia with hypercellular marrow, no monoclonal protein, risk factors for B12 deficiency."
@@ -165,7 +165,7 @@ M-protein present   No M-protein
 - Need to exclude MM definitively
 - Concurrent conditions suspected
 
-**Zettels extracted:** [[Clinical_Scenarios_Diagnostic_Approach_Z-001-0424]]
+**Zettels extracted:** [[Clinical_Scenarios_Diagnostic_Approach_Z-001-0424]
 
 ### 7. Treatment Response as Diagnostic Test
 > "Response to B12 therapy is diagnostic: reticulocytosis in 5-7 days, hemoglobin rise in 2 months; no response suggests alternative diagnosis."
@@ -187,7 +187,7 @@ M-protein present   No M-protein
 - Avoids delay in appropriate therapy
 - Critical for patient outcome
 
-**Zettels extracted:** [[Treatment_Response_Diagnostic_Test_Z-001-0425]]
+**Zettels extracted:** [[Treatment_Response_Diagnostic_Test_Z-001-0425]
 
 ---
 
@@ -225,13 +225,13 @@ M-protein present   No M-protein
 ---
 
 ## Zettels Created from This Source
-1. [[B12_MM_Mimicry_Clinical_Question_Z-001-0419]]
-2. [[Hematological_Overlap_B12_MM_Z-001-0420]]
-3. [[Bone_Marrow_Differentiation_B12_MM_Z-001-0421]]
-4. [[Laboratory_Markers_Distinguishing_Features_Z-001-0422]]
-5. [[MTHFR_MM_No_Correlation_Z-001-0423]]
-6. [[Clinical_Scenarios_Diagnostic_Approach_Z-001-0424]]
-7. [[Treatment_Response_Diagnostic_Test_Z-001-0425]]
+1. [[B12_MM_Mimicry_Clinical_Question_Z-001-0419]
+2. [[Hematological_Overlap_B12_MM_Z-001-0420]
+3. [[Bone_Marrow_Differentiation_B12_MM_Z-001-0421]
+4. [[Laboratory_Markers_Distinguishing_Features_Z-001-0422]
+5. [[MTHFR_MM_No_Correlation_Z-001-0423]
+6. [[Clinical_Scenarios_Diagnostic_Approach_Z-001-0424]
+7. [[Treatment_Response_Diagnostic_Test_Z-001-0425]
 
 ---
 

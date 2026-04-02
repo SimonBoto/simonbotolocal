@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Is AI Alive"
 date: 2025-02-16
 source: ChatGPT conversation history
-aliases: [CGPT-0146]
+aliases: CGPT-0146]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Personalized Self-Improvement Guide"
 date: 2024-08-19
 source: ChatGPT conversation history
-aliases: [CGPT-0309]
+aliases: CGPT-0309]
 tags: [chatgpt-archive, general]
 status: archived
 ---

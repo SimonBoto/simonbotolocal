@@ -54,17 +54,17 @@ $$
 ## 🔗 Connected Concepts
 
 **IR Assessment Pair:**
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (always interpret together)
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md] — HOMA-IR (always interpret together)
 - Pattern: High HOMA-IR + High HOMA-β = Compensated IR
 - Pattern: High HOMA-IR + Low HOMA-β = Decompensated/failing β-cells
 
 **Mechanisms:**
-- [[MAPK_Mitogenic_Pathway_Z-001-0016]] — Mitochondrial dysfunction (β-cell energy failure)
-- _Z-001-0018.md]] — Lipotoxicity (chronic IR damages β-cells)
-- [[Predictive_Metabolites_T1D_Example_Z-001-0019.md]] — Inflammatory signaling (cytokine-mediated β-cell apoptosis)
+- [[MAPK_Mitogenic_Pathway_Z-001-0016] — Mitochondrial dysfunction (β-cell energy failure)
+- _Z-001-0018.md] — Lipotoxicity (chronic IR damages β-cells)
+- [[Predictive_Metabolites_T1D_Example_Z-001-0019.md] — Inflammatory signaling (cytokine-mediated β-cell apoptosis)
 
 **Clinical Context:**
-- [[Metabolic_Syndrome_Criteria_Z-001-0050.md]] — Metabolic syndrome (progressive β-cell stress)
+- [[Metabolic_Syndrome_Criteria_Z-001-0050.md] — Metabolic syndrome (progressive β-cell stress)
 
 ---
 
@@ -148,7 +148,7 @@ patient_id,visit,homa_beta,beta_cell_status,ir_status_combined
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- |Biomarkers MOC]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
+- |Biomarkers MOC]
 

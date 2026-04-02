@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, vitamin-d, clinical]
 parent-moc: 
-source: [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]]
+source: [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -20,8 +20,8 @@ Osteopenia is defined by a T-score between −1.0 and −2.5 on dual-energy X-ra
 ## Links
 
 **Parent MOC:** 
-**Source:** [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]]
-**Related:** [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]], [[FRAX_Fracture_Risk_Assessment_Tool_Z-001-0079]]
+**Source:** [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]
+**Related:** [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077], [[FRAX_Fracture_Risk_Assessment_Tool_Z-001-0079]
 
 ---
 
@@ -29,4 +29,4 @@ Osteopenia is defined by a T-score between −1.0 and −2.5 on dual-energy X-ra
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

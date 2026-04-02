@@ -95,12 +95,12 @@ Studies reporting VIP > 1 without effect sizes:
 - Waste resources on follow-up studies
 
 ## Related Zettels
-- [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935]] — Model validation
-- [[Effect_Size_Practical_Significance_Omics_Z-001-0561]] — Effect size interpretation
-- [[Biomarker_Validation_Requirements_Z-001-0528]] — Validation standards
+- [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935] — Model validation
+- [[Effect_Size_Practical_Significance_Omics_Z-001-0561] — Effect size interpretation
+- [[Biomarker_Validation_Requirements_Z-001-0528] — Validation standards
 
 ## Source
-[[LitNote_Multivariate_Analysis_Pitfalls_L-001-0517]]
+[[LitNote_Multivariate_Analysis_Pitfalls_L-001-0517]
 
 ---
 
@@ -108,8 +108,8 @@ Studies reporting VIP > 1 without effect sizes:
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- [[Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[Liver_Function_[B-009-0001]|Biomarker Family Guide]
 - 
 

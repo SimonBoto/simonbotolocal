@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, dao, diamine-oxidase, histamine, histaminase, histamine-intolerance, intestinal-barrier, h2o2, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_MAO_DAO_Enzymes_L-001-0582]]
+source-litnote: [[LitNote_MAO_DAO_Enzymes_L-001-0582]
 status: conscious
 ---
 
@@ -282,13 +282,13 @@ Histamine + O2 + H2O → Imidazoleacetaldehyde + NH3 + H2O2
 
 ---
 
-**Related:** [[MAO_Enzymes_MAO_A_MAO_B_Z-001-1008]] | [[Histamine_Intolerance_Diagnosis_Management_Z-001-0020]] | [[Intestinal_Permeability_Leaky_Gut_Z-001-0021]]
+**Related:** [[MAO_Enzymes_MAO_A_MAO_B_Z-001-1008] | [[Histamine_Intolerance_Diagnosis_Management_Z-001-0020] | [[Intestinal_Permeability_Leaky_Gut_Z-001-0021]
 
 **Source:** CGPT-0258 — MAOIs and DAO Interaction
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- /CRP_[B-002-0001]|Biomarker Family Guide]]
+- /CRP_[B-002-0001]|Biomarker Family Guide]
 - 
 

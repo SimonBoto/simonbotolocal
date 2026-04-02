@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Alchemy and Cognitive Science"
 date: 2025-04-25
 source: ChatGPT conversation history
-aliases: [CGPT-0104]
+aliases: CGPT-0104]
 tags: [chatgpt-archive, phd_research, consciousness_ai, philosophy, personal_development]
 status: archived
 ---

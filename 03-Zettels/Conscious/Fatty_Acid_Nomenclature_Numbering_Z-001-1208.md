@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, fatty-acids, nomenclature, delta, omega, lipid-chemistry]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]]"
+source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]"
 status: conscious
 ---
 
@@ -122,16 +122,16 @@ CH₃-CH₂-CH₂-...-CH₂-CH₂-COOH
 
 ## Related
 
-- [[Omega_Classification_System_Z-001-1209]]
-- [[Fatty_Acid_Structure_Types_Z-001-1217]]
+- [[Omega_Classification_System_Z-001-1209]
+- [[Fatty_Acid_Structure_Types_Z-001-1217]
 
 ---
 
-*Source: [[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]] | 2026-03-08*
+*Source: [[LitNote_Fatty_Acid_Structure_Classification_L-001-0632] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

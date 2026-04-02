@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Grant Legality Compliance"
 date: 2024-07-20
 source: ChatGPT conversation history
-aliases: [CGPT-0324]
+aliases: CGPT-0324]
 tags: [chatgpt-archive, general]
 status: archived
 ---

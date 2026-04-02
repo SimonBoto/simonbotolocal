@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Summary of Power Laws"
 date: 2024-08-23
 source: ChatGPT conversation history
-aliases: [CGPT-0304]
+aliases: CGPT-0304]
 tags: [chatgpt-archive, general]
 status: archived
 ---

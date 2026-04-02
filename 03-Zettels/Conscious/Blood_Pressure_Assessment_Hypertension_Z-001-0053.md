@@ -43,7 +43,7 @@ source-litnote: Synthesized from clinical practice
 ## 🔗 Connected Systems
 
 **Metabolic Syndrome:**
-- [[Metabolic_Syndrome_Criteria_Z-001-0050.md]] — Metabolic syndrome criteria (BP is 1 of 5)
+- [[Metabolic_Syndrome_Criteria_Z-001-0050.md] — Metabolic syndrome criteria (BP is 1 of 5)
 - Hypertension clusters with IR, dyslipidemia, central obesity
 
 **Insulin Resistance Mechanisms:**
@@ -52,11 +52,11 @@ source-litnote: Synthesized from clinical practice
 - IR → endothelial dysfunction → vascular stiffness
 
 **Uric Acid:**
-- [[Uric_Acid_Metabolic_Marker_Z-001-0052.md]] — Uric acid (elevated uric acid causes endothelial dysfunction)
+- [[Uric_Acid_Metabolic_Marker_Z-001-0052.md] — Uric acid (elevated uric acid causes endothelial dysfunction)
 - Hyperuricemia → HTN independent of metabolic syndrome
 
 **Kidney:**
-- [[Kidney_Function_eGFR_Creatinine_Z-009-0001.md]] — eGFR (hypertension damages kidneys; kidney disease causes HTN)
+- [[Kidney_Function_eGFR_Creatinine_Z-009-0001.md] — eGFR (hypertension damages kidneys; kidney disease causes HTN)
 
 ---
 
@@ -139,9 +139,9 @@ patient_id,visit,sbp_mmhg,dbp_mmhg,bp_status,htn_grade
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- |Biomarkers MOC]]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
+- |Biomarkers MOC]
 

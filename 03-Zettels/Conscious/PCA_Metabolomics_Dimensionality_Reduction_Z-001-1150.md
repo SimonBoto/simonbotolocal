@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, pca, metabolomics, dimensionality-reduction]
 parent-moc: 
-source-litnote: [[LitNote_Statistical_Analysis_Omics_L-001-0617]]
-source: [[LitNote_Statistical_Analysis_Omics_L-001-0617]]
+source-litnote: [[LitNote_Statistical_Analysis_Omics_L-001-0617]
+source: [[LitNote_Statistical_Analysis_Omics_L-001-0617]
 confidence: high
 created: 2026-03-08
 ---
@@ -111,15 +111,15 @@ Principal components = linear combinations of original variables
 | **Interpretation complexity** | Combine with pathway analysis |
 
 ## Related
-- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]]
-- [[Validation_Cross_Validation_Model_Robustness_Z-001-1152]]
+- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]
+- [[Validation_Cross_Validation_Model_Robustness_Z-001-1152]
 - 
 
 ---
 *Source: CGPT-0475 — Metabolic s for insulin resistance*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

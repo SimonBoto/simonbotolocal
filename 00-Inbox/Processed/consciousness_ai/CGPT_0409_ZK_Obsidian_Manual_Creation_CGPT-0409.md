@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "ZK-Obsidian Manual Creation"
 date: 2024-04-18
 source: ChatGPT conversation history
-aliases: [CGPT-0409]
+aliases: CGPT-0409]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Page 1 Review Assessment"
 date: 2024-11-17
 source: ChatGPT conversation history
-aliases: [CGPT-0249]
+aliases: CGPT-0249]
 tags: [chatgpt-archive, vitamin_d]
 status: archived
 ---

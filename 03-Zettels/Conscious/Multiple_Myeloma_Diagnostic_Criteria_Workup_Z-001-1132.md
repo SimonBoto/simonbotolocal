@@ -7,8 +7,8 @@ domain: 001
 domain-name: Hematology Oncology
 tags: [zettel, multiple-myeloma, diagnosis, workup]
 parent-moc: 
-source-litnote: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]]
-source: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]]
+source-litnote: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]
+source: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]
 confidence: high
 created: 2026-03-08
 ---
@@ -136,16 +136,16 @@ Definitive diagnosis of multiple myeloma requires clonal bone marrow plasma cell
 - [ ] Cytogenetics (conventional karyotype)
 
 ## Related
-- [[Multiple_Myeloma_CRAB_Features_Diagnosis_Z-001-1131]]
-- [[Multiple_Myeloma_Staging_ISS_R-ISS_Z-001-1133]]
+- [[Multiple_Myeloma_CRAB_Features_Diagnosis_Z-001-1131]
+- [[Multiple_Myeloma_Staging_ISS_R-ISS_Z-001-1133]
 - 
 
 ---
 *Source: CGPT-0264 — Warburg effect and *
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
 - 
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

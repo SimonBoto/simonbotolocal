@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Manuscript Submission Update"
 date: 2025-01-22
 source: ChatGPT conversation history
-aliases: [CGPT-0180]
+aliases: CGPT-0180]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

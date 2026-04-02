@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, github, knowledge-management, clinical, documentation]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Self_Education_Clinical_Team_L-001-0620]]"
+source-litnote: "[[LitNote_Self_Education_Clinical_Team_L-001-0620]"
 status: conscious
 ---
 
@@ -100,9 +100,9 @@ clinical-knowledge/
 
 ## Related
 
-- [[Clinical_Team_Education_4Arm_Methodology_Z-001-1159]]
-- [[Asynchronous_Learning_Medical_Teams_Z-001-1161]]
+- [[Clinical_Team_Education_4Arm_Methodology_Z-001-1159]
+- [[Asynchronous_Learning_Medical_Teams_Z-001-1161]
 
 ---
 
-*Source: [[LitNote_Self_Education_Clinical_Team_L-001-0620]] | 2026-03-08*
+*Source: [[LitNote_Self_Education_Clinical_Team_L-001-0620] | 2026-03-08*

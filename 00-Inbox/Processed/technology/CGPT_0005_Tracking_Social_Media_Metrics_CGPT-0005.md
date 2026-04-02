@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Tracking Social Media Metrics"
 date: 2026-01-30
 source: ChatGPT conversation history
-aliases: [CGPT-0005]
+aliases: CGPT-0005]
 tags: [chatgpt-archive, technology]
 status: archived
 ---

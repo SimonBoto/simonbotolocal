@@ -5,7 +5,7 @@ title: "MyPlate Dietary Guidelines
 "
 date: 2023-01-28
 source: ChatGPT conversation history
-aliases: [CGPT-0672]
+aliases: CGPT-0672]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Project Nutrients MetS "
 date: 2024-10-09
 source: ChatGPT conversation history
-aliases: [CGPT-0254]
+aliases: CGPT-0254]
 tags: [chatgpt-archive, vitamin_d, clinical, phd_research, consciousness_ai]
 status: archived
 ---

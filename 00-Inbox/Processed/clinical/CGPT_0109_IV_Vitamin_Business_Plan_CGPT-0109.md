@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "IV Vitamin Business Plan"
 date: 2025-04-09
 source: ChatGPT conversation history
-aliases: [CGPT-0109]
+aliases: CGPT-0109]
 tags: [chatgpt-archive, clinical, nutrition, personal_development]
 status: archived
 ---

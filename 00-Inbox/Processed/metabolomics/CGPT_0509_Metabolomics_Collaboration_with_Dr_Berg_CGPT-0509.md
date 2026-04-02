@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolomics Collaboration with Dr. Berg"
 date: 2023-12-29
 source: ChatGPT conversation history
-aliases: [CGPT-0509]
+aliases: CGPT-0509]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition]
 status: archived
 ---

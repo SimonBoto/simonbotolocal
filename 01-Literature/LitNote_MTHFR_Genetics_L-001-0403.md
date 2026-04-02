@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: MTHFR Genetics and Polymorphisms
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_[CGPT-0264]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]]
 - **Date:** October 27, 2024
 - **Scope:** MTHFR gene function, C677T and A1298C polymorphisms, clinical implications
 
@@ -47,7 +47,7 @@ extraction-date: 2026-03-01
 - Activated by phosphorylation
 - Substrate availability dependent
 
-**Zettels extracted:** [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
+**Zettels extracted:** [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]
 
 ### 2. C677T Polymorphism — The Thermolabile Variant
 > "The C677T polymorphism results in an alanine to valine substitution, producing an enzyme with reduced activity and increased thermolability."
@@ -74,7 +74,7 @@ extraction-date: 2026-03-01
 - Recurrent pregnancy loss
 - May affect antidepressant response
 
-**Zettels extracted:** [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+**Zettels extracted:** [[C677T_Polymorphism_Thermolabile_Z-001-0414]
 
 ### 3. A1298C Polymorphism — The Regulatory Variant
 > "The A1298C polymorphism results in a glutamate to alanine substitution in the regulatory domain, affecting enzyme regulation rather than catalytic activity."
@@ -104,7 +104,7 @@ extraction-date: 2026-03-01
 - ~50-60% enzyme activity
 - Significant folate requirement increase
 
-**Zettels extracted:** [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
+**Zettels extracted:** [[A1298C_Polymorphism_Regulatory_Z-001-0415]
 
 ### 4. Clinical Implications and Management
 > "MTHFR polymorphisms increase folate requirements and may necessitate higher supplementation, particularly with 5-MTHF (methylfolate) rather than folic acid."
@@ -132,7 +132,7 @@ extraction-date: 2026-03-01
 - Unmetabolized folic acid may accumulate
 - Use methylfolate instead
 
-**Zettels extracted:** [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
+**Zettels extracted:** [[MTHFR_Clinical_Management_Folate_Z-001-0416]
 
 ### 5. MTHFR and Cancer Association
 > "MTHFR polymorphisms have complex associations with cancer risk, varying by cancer type, folate status, and interaction with other factors."
@@ -157,7 +157,7 @@ extraction-date: 2026-03-01
 - Direct causation not established
 - Part of complex multifactorial risk
 
-**Zettels extracted:** [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+**Zettels extracted:** [[MTHFR_Cancer_Association_Complex_Z-001-0417]
 
 ### 6. Testing and Interpretation
 > "MTHFR genotyping can guide folate supplementation but should be interpreted in clinical context, not as deterministic."
@@ -186,7 +186,7 @@ extraction-date: 2026-03-01
 - Explains homocysteine elevation
 - Part of comprehensive assessment
 
-**Zettels extracted:** [[MTHFR_Testing_Interpretation_Z-001-0418]]
+**Zettels extracted:** [[MTHFR_Testing_Interpretation_Z-001-0418]
 
 ---
 
@@ -212,12 +212,12 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
-2. [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
-3. [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
-4. [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
-5. [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
-6. [[MTHFR_Testing_Interpretation_Z-001-0418]]
+1. [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]
+2. [[C677T_Polymorphism_Thermolabile_Z-001-0414]
+3. [[A1298C_Polymorphism_Regulatory_Z-001-0415]
+4. [[MTHFR_Clinical_Management_Folate_Z-001-0416]
+5. [[MTHFR_Cancer_Association_Complex_Z-001-0417]
+6. [[MTHFR_Testing_Interpretation_Z-001-0418]
 
 ---
 

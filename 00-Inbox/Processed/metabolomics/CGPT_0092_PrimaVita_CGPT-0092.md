@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "PrimaVita"
 date: 2025-05-12
 source: ChatGPT conversation history
-aliases: [CGPT-0092]
+aliases: CGPT-0092]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, nutrition, personal_development]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "ZL Dense Info Extraction"
 date: 2024-05-17
 source: ChatGPT conversation history
-aliases: [CGPT-0389]
+aliases: CGPT-0389]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

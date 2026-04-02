@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Inflammation in Obesity"
 date: 2023-09-03
 source: ChatGPT conversation history
-aliases: [CGPT-0582]
+aliases: CGPT-0582]
 tags: [chatgpt-archive, general]
 status: archived
 ---

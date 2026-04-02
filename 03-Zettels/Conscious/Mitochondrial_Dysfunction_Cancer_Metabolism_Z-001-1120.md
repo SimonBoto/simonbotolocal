@@ -7,8 +7,8 @@ domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, mitochondria, dysfunction, cancer, metabolism]
 parent-moc: 
-source-litnote: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]]
-source: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]]
+source-litnote: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]
+source: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]
 confidence: high
 created: 2026-03-08
 ---
@@ -114,8 +114,8 @@ Metabolites that accumulate due to mitochondrial/TCA defects and promote tumorig
 | **Trigger apoptosis** | Bcl-2 family | BH3 mimetics |
 
 ## Related
-- [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]]
-- [[Tumor_Microenvironment_Lactate_Acidification_Z-001-1119]]
+- [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]
+- [[Tumor_Microenvironment_Lactate_Acidification_Z-001-1119]
 - 
 - 
 
@@ -124,8 +124,8 @@ Metabolites that accumulate due to mitochondrial/TCA defects and promote tumorig
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - 

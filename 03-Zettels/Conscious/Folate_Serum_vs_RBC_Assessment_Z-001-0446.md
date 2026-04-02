@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, folate, serum, rbc, assessment]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]]
+source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]
 extraction-date: 2026-03-01
 ---
 
@@ -51,10 +51,10 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: _Assessment_L-001-0408]]*
+*Source: _Assessment_L-001-0408]*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- [[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_Z-001-0497]|Z-001-0497]]
+- [[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_Z-001-0497]|Z-001-0497]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Cahill Cycle Overview"
 date: 2024-10-20
 source: ChatGPT conversation history
-aliases: [CGPT-0266]
+aliases: CGPT-0266]
 tags: [chatgpt-archive, insulin_resistance, nutrition]
 status: archived
 ---

@@ -206,9 +206,9 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Liver_Function_[B-009-0001]|Liver Function Panel]]
-- [[Z-009-0001|ALT — Alanine Aminotransferase]]
-- [[Z-009-0003|ALP — Alkaline Phosphatase]]
+- [[Liver_Function_[B-009-0001]|Liver Function Panel]
+- [[Z-009-0001|ALT — Alanine Aminotransferase]
+- [[Z-009-0003|ALP — Alkaline Phosphatase]
 
 ---
 *Complete biomarker foundation — Bilirubin*

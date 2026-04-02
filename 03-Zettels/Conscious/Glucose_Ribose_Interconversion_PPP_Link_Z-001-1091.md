@@ -7,8 +7,8 @@ domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, glucose, ribose, ppp, interconversion]
 parent-moc: 
-source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
-source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
+source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]
+source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]
 confidence: high
 created: 2026-03-08
 ---
@@ -95,8 +95,8 @@ Nucleotides (AMP, GMP, etc.)
 - PPP likely evolved as expansion of glycolytic capacity
 
 ## Related
-- [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]]
-- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]]
+- [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]
+- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]
 - 
 
 ---
@@ -104,5 +104,5 @@ Nucleotides (AMP, GMP, etc.)
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "History of Insulin Research"
 date: 2023-11-26
 source: ChatGPT conversation history
-aliases: [CGPT-0525]
+aliases: CGPT-0525]
 tags: [chatgpt-archive, insulin_resistance]
 status: archived
 ---

@@ -7,8 +7,8 @@ domain: 001
 domain-name: Evolutionary Biochemistry
 tags: [zettel, prebiotic, hydrothermal, vents, origins]
 parent-moc: 
-source-litnote: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
-source: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
+source-litnote: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]
+source: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]
 confidence: high
 created: 2026-03-08
 ---
@@ -115,8 +115,8 @@ Hydrothermal vents at the ocean floor provide conditions that may have facilitat
 - Modern metabolism retains ancient features
 
 ## Related
-- [[Iron_Sulfur_Clusters_Ancient_Cofactors_Z-001-1103]]
-| [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]]
+- [[Iron_Sulfur_Clusters_Ancient_Cofactors_Z-001-1103]
+| [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]
 | 
 
 ---
@@ -124,5 +124,5 @@ Hydrothermal vents at the ocean floor provide conditions that may have facilitat
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

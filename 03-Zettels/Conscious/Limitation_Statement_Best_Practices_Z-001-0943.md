@@ -143,11 +143,11 @@ Future Directions: [Specific next steps addressing limitations]
 - Conclusions contradict stated limitations
 
 ## Related Zettels
-- [[Line_by_Line_Critique_Framework_Conclusions_Z-001-0942]] — Critique framework
-- [[Rewriting_Overstated_Claims_Cautious_Language_Z-001-0944]] — Language fixes
+- [[Line_by_Line_Critique_Framework_Conclusions_Z-001-0942] — Critique framework
+- [[Rewriting_Overstated_Claims_Cautious_Language_Z-001-0944] — Language fixes
 
 ## Source
-[[LitNote_Critical_Assessment_Methodology_L-001-0521]]
+[[LitNote_Critical_Assessment_Methodology_L-001-0521]
 
 ---
 
@@ -155,7 +155,7 @@ Future Directions: [Specific next steps addressing limitations]
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- /Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- /Liver_Function_[B-009-0001]|Biomarker Family Guide]
 - 
 

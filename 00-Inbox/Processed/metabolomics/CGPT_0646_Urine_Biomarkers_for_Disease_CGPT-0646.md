@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Urine Biomarkers for Disease"
 date: 2023-05-03
 source: ChatGPT conversation history
-aliases: [CGPT-0646]
+aliases: CGPT-0646]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, nutrition, personal_development]
 status: archived
 ---

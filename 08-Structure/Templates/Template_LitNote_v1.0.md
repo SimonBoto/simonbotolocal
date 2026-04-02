@@ -31,7 +31,7 @@ extraction-date: "{{YYYY-MM-DD}}"
 > "{{Direct quote from paper}}"
 
 **Zettel extracted:** [[{{Zettel_Title}}_{{Zettel_UID}}]
-*CRITICAL: Use FULL filename, never bare UID like `[[Z-001-0001]]`*
+*CRITICAL: Use FULL filename, never bare UID like `[[Z-001-0001]`*
 
 ### 2. {{Concept 2}}
 > "{{Direct quote from paper}}"
@@ -60,9 +60,9 @@ extraction-date: "{{YYYY-MM-DD}}"
 - {{Question 3}}
 
 ## Zettels Created from This Source
-1. [[{{Zettel_1_Title}}_[{{Zettel_1_UID}}]] — {{Zettel_1_description}}
-2. [[{{Zettel_2_Title}}_[{{Zettel_2_UID}}]] — {{Zettel_2_description}}
-3. [[{{Zettel_3_Title}}_[{{Zettel_3_UID}}]] — {{Zettel_3_description}}
+1. [[{{Zettel_1_Title}}_[{{Zettel_1_UID}}] — {{Zettel_1_description}}
+2. [[{{Zettel_2_Title}}_[{{Zettel_2_UID}}] — {{Zettel_2_description}}
+3. [[{{Zettel_3_Title}}_[{{Zettel_3_UID}}] — {{Zettel_3_description}}
 
 ## Related References
 -  — {{Connection}}
@@ -78,7 +78,7 @@ extraction-date: "{{YYYY-MM-DD}}"
 ---
 
 ## Post-Extraction Verification Checklist
-- [ ] All zettel links use FULL format: `[[Title_Z-001-0001]]`
-- [ ] No bare UIDs: `[[Z-001-0001]]` → will create empty notes
+- [ ] All zettel links use FULL format: `[[Title_Z-001-0001]`
+- [ ] No bare UIDs: `[[Z-001-0001]` → will create empty notes
 - [ ] Verify with: `grep -r '\[\[Z-[0-9]\{4\}-[0-9]\{4\}\]\]' this_file.md` (should return nothing)
 - [ ] Concept count matches "Zettels Created from This Source" list

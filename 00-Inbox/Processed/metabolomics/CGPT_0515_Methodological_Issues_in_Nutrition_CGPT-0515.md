@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Methodological Issues in Nutrition"
 date: 2023-12-14
 source: ChatGPT conversation history
-aliases: [CGPT-0515]
+aliases: CGPT-0515]
 tags: [chatgpt-archive, metabolomics, phd_research, nutrition]
 status: archived
 ---

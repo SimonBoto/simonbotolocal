@@ -7,8 +7,8 @@ domain: 001
 domain-name: Ketogenesis
 tags: [zettel, ketones, acetoacetate, bhb, acetone]
 parent-moc: 
-source-litnote: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
-source: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
+source-litnote: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]
+source: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]
 confidence: high
 created: 2026-03-08
 ---
@@ -87,8 +87,8 @@ Acetoacetate ←→ BHB
 | **Breath acetone** | Acetone proxy | Non-invasive, research use |
 
 ## Related
-- _Liver_Mitochondria_Z-001-1094]]
-- [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]]
+- _Liver_Mitochondria_Z-001-1094]
+- [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]
 - 
 
 ---
@@ -96,4 +96,4 @@ Acetoacetate ←→ BHB
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

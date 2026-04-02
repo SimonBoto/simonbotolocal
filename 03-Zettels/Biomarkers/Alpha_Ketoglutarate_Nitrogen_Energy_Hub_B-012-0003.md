@@ -144,10 +144,10 @@ This makes α-KG essential for:
 ### Cross-Domain Links
 | Related Marker | Connection | Clinical Implication |
 |----------------|------------|---------------------|
-| [[B-004-0001|Methylation Panel]] | α-KG drives TET enzymes | Low α-KG impairs demethylation |
-| [[B-009-0001|Liver Function]] | Ammonia detoxification | High ammonia + low α-KG = liver stress |
-| [[B-002-0002|Calprotectin]] | Gut inflammation → ammonia | IBD often shows α-KG depletion |
-| [[B-012-0001|Citrate]] | Upstream partner | Citrate/α-KG ratio indicates cycle efficiency |
+| [[B-004-0001|Methylation Panel] | α-KG drives TET enzymes | Low α-KG impairs demethylation |
+| [[B-009-0001|Liver Function] | Ammonia detoxification | High ammonia + low α-KG = liver stress |
+| [[B-002-0002|Calprotectin] | Gut inflammation → ammonia | IBD often shows α-KG depletion |
+| [[B-012-0001|Citrate] | Upstream partner | Citrate/α-KG ratio indicates cycle efficiency |
 
 ---
 
@@ -258,10 +258,10 @@ This makes α-KG essential for:
 ---
 
 ## Related Files
-- [[B-012-0001|Citrate — Mitochondrial Dysfunction Marker]]
-- [[B-012-0002|Isocitrate — The Aconitase Checkpoint]]
-- [[B-012-0004|Succinate — Complex II Sentinel]]
-- [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition]]
+- [[B-012-0001|Citrate — Mitochondrial Dysfunction Marker]
+- [[B-012-0002|Isocitrate — The Aconitase Checkpoint]
+- [[B-012-0004|Succinate — Complex II Sentinel]
+- [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition]
 
 ---
 *Part of OAT Metabolite Training System — Mitochondrial Markers Module*

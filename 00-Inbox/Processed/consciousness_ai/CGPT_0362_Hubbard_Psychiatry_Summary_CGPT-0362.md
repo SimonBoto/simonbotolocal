@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Hubbard Psychiatry Summary"
 date: 2024-05-31
 source: ChatGPT conversation history
-aliases: [CGPT-0362]
+aliases: CGPT-0362]
 tags: [chatgpt-archive, consciousness_ai, communication]
 status: archived
 ---

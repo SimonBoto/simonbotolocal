@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Insulin and Glucose Uptake"
 date: 2025-03-09
 source: ChatGPT conversation history
-aliases: [CGPT-0129]
+aliases: CGPT-0129]
 tags: [chatgpt-archive, insulin_resistance, nutrition]
 status: archived
 ---

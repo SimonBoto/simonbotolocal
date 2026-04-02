@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "PhD Research Proposal Assistance"
 date: 2023-05-27
 source: ChatGPT conversation history
-aliases: [CGPT-0630]
+aliases: CGPT-0630]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition]
 status: archived
 ---

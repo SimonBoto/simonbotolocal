@@ -26,11 +26,11 @@ Common confusion:
 - “Stress equals cortisol.” Cortisol is one axis; sympathetic tone, inflammation regulation, and perception circuitry matter.
 
 Related:
-- [[[ron__hpa_axis_definition_clinical_meaning]_20260215_022]] (core endocrine pathway framing)
-- [[Rule_Intake_Minimums_Vitality_Sleep_Food_Feedback_Water_Movement]] (where to capture stress proxies)
-- [[Zettel_Stress_As_Trigger_That_Converts_Predisposition_Into_Disease]]
-- [[Zettel_Chronic_Stress_Cortisol_Dysregulates_Inflammation_And_Increases_Infection_Susceptibility]]
-- [[[ron__epigenetics_definition_clinical_use]_20260215_014]] (stress as an exposure shaping expression)
+- [[[ron__hpa_axis_definition_clinical_meaning]_20260215_022] (core endocrine pathway framing)
+- [[Rule_Intake_Minimums_Vitality_Sleep_Food_Feedback_Water_Movement] (where to capture stress proxies)
+- [[Zettel_Stress_As_Trigger_That_Converts_Predisposition_Into_Disease]
+- [[Zettel_Chronic_Stress_Cortisol_Dysregulates_Inflammation_And_Increases_Infection_Susceptibility]
+- [[[ron__epigenetics_definition_clinical_use]_20260215_014] (stress as an exposure shaping expression)
 
 Open_Loops:
 - Define minimal clinic intake fields that best approximate stress load (sleep, HRV, timing, perceived threat).

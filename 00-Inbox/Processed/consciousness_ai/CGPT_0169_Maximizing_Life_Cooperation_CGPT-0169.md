@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Maximizing Life Cooperation"
 date: 2025-01-29
 source: ChatGPT conversation history
-aliases: [CGPT-0169]
+aliases: CGPT-0169]
 tags: [chatgpt-archive, consciousness_ai, communication, personal_development]
 status: archived
 ---

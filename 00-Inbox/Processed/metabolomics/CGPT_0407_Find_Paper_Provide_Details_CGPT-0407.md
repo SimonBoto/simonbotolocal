@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Find Paper - Provide Details"
 date: 2024-04-23
 source: ChatGPT conversation history
-aliases: [CGPT-0407]
+aliases: CGPT-0407]
 tags: [chatgpt-archive, metabolomics, nutrition]
 status: archived
 ---

@@ -8,7 +8,7 @@ tags: [zettel, pyruvate, alanine, serine, glycine, folate, glucose-alanine-cycle
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0046A]]
+source: [[L-001-0046A]
 ---
 
 # Amino Acids to Pyruvate: Alanine and Serine-Glycine
@@ -74,15 +74,15 @@ Serine + Tetrahydrofolate (THF) ↔ Glycine + 5,10-methylene-THF
 - Supplementation
 
 ## Related
-- [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479]] ependence
-- [[Glutamine_Glutamate_Ammonia_Cycle_Z-001-0916]] Glutamine-Glutamate-Ammonia Cycle
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479] ependence
+- [[Glutamine_Glutamate_Ammonia_Cycle_Z-001-0916] Glutamine-Glutamate-Ammonia Cycle
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
-- [[Alpha_Keto_Acids_Metabolic_Intermediates_Z-001-0500]|Z-001-0500]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+- [[Alpha_Keto_Acids_Metabolic_Intermediates_Z-001-0500]|Z-001-0500]

@@ -18,15 +18,15 @@ Common confusion:
 - “Lowering LDL-C always equals fixing cause.” LDL lowering can reduce risk, but may not correct the upstream pathology producing atherogenesis.
 
 Related:
-[[Dictionary_HDL_Cholesterol]]
-[[Dictionary_Dyslipidemia]]
-[[Zettel_Atherosclerosis_Is_Inflammation_Driven_Not_Purely_Cholesterol_Load]]
-[[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
+[[Dictionary_HDL_Cholesterol]
+[[Dictionary_Dyslipidemia]
+[[Zettel_Atherosclerosis_Is_Inflammation_Driven_Not_Purely_Cholesterol_Load]
+[[Rule_Lipid_Panel_Interpretation_Context_First_Ratios_First]
+[[111_Hub_Lipids_And_Fatty_Acids]
 
 Open_Loops:
 - Decide whether you want separate notes for LDL particle number / ApoB (clinic-specific) later.
 
 Needs_Evidence: yes
 Promote_to_stable_when:
-- 1 Mendelian randomization CAD library note + 1 clinical outcomes lipid paper note exist in [[50_Library]].
+- 1 Mendelian randomization CAD library note + 1 clinical outcomes lipid paper note exist in [[50_Library].

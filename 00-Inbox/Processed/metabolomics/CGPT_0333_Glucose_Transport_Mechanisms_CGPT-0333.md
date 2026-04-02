@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Glucose Transport Mechanisms"
 date: 2024-07-10
 source: ChatGPT conversation history
-aliases: [CGPT-0333]
+aliases: CGPT-0333]
 tags: [chatgpt-archive, metabolomics, insulin_resistance]
 status: archived
 ---

@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Magnesium Supplementation — Practical Clinical Guide
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_[CGPT-0272]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]]
 - **Date:** October 09, 2024
 - **Scope:** Chapter 5.4 — Practical recommendations on magnesium intake levels, sources, and clinical implementation
 
@@ -44,7 +44,7 @@ extraction-date: 2026-03-01
 - **Rationale:** Higher than RDA to correct deficiency and achieve therapeutic effects
 - **Safety margin:** Well below UL (350 mg from supplements only applies to non-food sources; actual tolerance higher)
 
-**Zettels extracted:** [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]]
+**Zettels extracted:** [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]
 
 ### 2. Magnesium Forms — Bioavailability and Selection
 > "Discussion of optimal intake levels and sources of magnesium."
@@ -67,7 +67,7 @@ extraction-date: 2026-03-01
 - **Cardiovascular focus:** Magnesium taurate or orotate
 - **Avoid:** Magnesium oxide (poor absorption despite high elemental content)
 
-**Zettels extracted:** [[Magnesium_Forms_Bioavailability_Selection_Z-001-0220]]
+**Zettels extracted:** [[Magnesium_Forms_Bioavailability_Selection_Z-001-0220]
 
 ### 3. Dietary Sources of Magnesium
 > "Discussion of recommended dietary sources and intake levels for optimal health."
@@ -100,7 +100,7 @@ extraction-date: 2026-03-01
 - Processing removes Mg from grains
 - Supplementation necessary for therapeutic effects
 
-**Zettels extracted:** [[Magnesium_Dietary_Sources_Nutrition_Z-001-0221]]
+**Zettels extracted:** [[Magnesium_Dietary_Sources_Nutrition_Z-001-0221]
 
 ### 4. Monitoring and Safety
 > "Practical recommendations for clinicians on dosages and monitoring."
@@ -146,7 +146,7 @@ extraction-date: 2026-03-01
 - Muscle weakness
 - Respiratory depression (severe overdose)
 
-**Zettels extracted:** [[Magnesium_Monitoring_Safety_Side_Effects_Z-001-0222]]
+**Zettels extracted:** [[Magnesium_Monitoring_Safety_Side_Effects_Z-001-0222]
 
 ---
 
@@ -180,15 +180,15 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]]
-2. [[Magnesium_Forms_Bioavailability_Selection_Z-001-0220]]
-3. [[Magnesium_Dietary_Sources_Nutrition_Z-001-0221]]
-4. [[Magnesium_Monitoring_Safety_Side_Effects_Z-001-0222]]
+1. [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]
+2. [[Magnesium_Forms_Bioavailability_Selection_Z-001-0220]
+3. [[Magnesium_Dietary_Sources_Nutrition_Z-001-0221]
+4. [[Magnesium_Monitoring_Safety_Side_Effects_Z-001-0222]
 
 ## Related References
-- [[LitNote_Magnesium_Biochemistry_L-001-0201a]] — Mechanisms
-- [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]] — Metabolic effects
-- [[LitNote_Magnesium_Cardiovascular_L-001-0201c]] — CV benefits
+- [[LitNote_Magnesium_Biochemistry_L-001-0201a] — Mechanisms
+- [[LitNote_Magnesium_IR_Diabetes_L-001-0201b] — Metabolic effects
+- [[LitNote_Magnesium_Cardiovascular_L-001-0201c] — CV benefits
 -  — Parent MOC
 -  — Practical guidance
 

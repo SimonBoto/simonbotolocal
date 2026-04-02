@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Glutamine in Insulin Trials"
 date: 2024-03-16
 source: ChatGPT conversation history
-aliases: [CGPT-0461]
+aliases: CGPT-0461]
 tags: [chatgpt-archive, insulin_resistance, clinical, consciousness_ai, nutrition, technology]
 status: archived
 ---

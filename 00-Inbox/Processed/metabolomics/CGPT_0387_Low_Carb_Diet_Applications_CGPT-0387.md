@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Low-Carb Diet Applications"
 date: 2024-05-18
 source: ChatGPT conversation history
-aliases: [CGPT-0387]
+aliases: CGPT-0387]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, vitamin_d, clinical, phd_research, nutrition]
 status: archived
 ---

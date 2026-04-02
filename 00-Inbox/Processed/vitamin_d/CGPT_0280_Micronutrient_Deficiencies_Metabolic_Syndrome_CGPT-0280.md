@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Micronutrient Deficiencies Metabolic Syndrome"
 date: 2024-09-28
 source: ChatGPT conversation history
-aliases: [CGPT-0280]
+aliases: CGPT-0280]
 tags: [chatgpt-archive, vitamin_d, clinical]
 status: archived
 ---

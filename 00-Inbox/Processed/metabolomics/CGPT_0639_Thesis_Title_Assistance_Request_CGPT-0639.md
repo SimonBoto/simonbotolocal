@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Thesis Title Assistance Request"
 date: 2023-05-10
 source: ChatGPT conversation history
-aliases: [CGPT-0639]
+aliases: CGPT-0639]
 tags: [chatgpt-archive, metabolomics, vitamin_d, clinical, phd_research, consciousness_ai, greek_language, nutrition]
 status: archived
 ---

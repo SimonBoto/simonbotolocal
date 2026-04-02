@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Grouping Criteria for Diabetes"
 date: 2023-09-03
 source: ChatGPT conversation history
-aliases: [CGPT-0579]
+aliases: CGPT-0579]
 tags: [chatgpt-archive, insulin_resistance, clinical, phd_research, nutrition, personal_development]
 status: archived
 ---

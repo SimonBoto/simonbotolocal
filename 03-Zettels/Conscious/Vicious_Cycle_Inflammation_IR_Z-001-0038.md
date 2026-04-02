@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vicious-cycle, inflammation, IR, cytokines, adipokines]
 parent-moc: 
-source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
+source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
 confidence: high
 created: 2026-02-24
 ---
@@ -40,8 +40,8 @@ More Inflammation
 
 ## Links
 
-- **Upstream:** [[Inflammatory_Signaling_IR_Z-001-0031.md]] — Inflammatory signaling mechanism
-- **Parallel:** [[Vicious_Cycle_IR_Obesity_Z-001-0037.md]], [[Vicious_Cycle_Stress_IR_Z-001-0039.md]] — Other vicious cycles
+- **Upstream:** [[Inflammatory_Signaling_IR_Z-001-0031.md] — Inflammatory signaling mechanism
+- **Parallel:** [[Vicious_Cycle_IR_Obesity_Z-001-0037.md], [[Vicious_Cycle_Stress_IR_Z-001-0039.md] — Other vicious cycles
 - **Downstream:**  — Interventions
 
 ## Context
@@ -56,6 +56,6 @@ More Inflammation
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

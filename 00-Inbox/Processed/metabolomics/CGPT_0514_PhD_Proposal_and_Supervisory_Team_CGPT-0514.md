@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "PhD Proposal and Supervisory Team"
 date: 2023-11-15
 source: ChatGPT conversation history
-aliases: [CGPT-0514]
+aliases: CGPT-0514]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, nutrition, communication]
 status: archived
 ---

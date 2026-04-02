@@ -72,11 +72,11 @@ Iron status cannot be assessed by ferritin alone. **Three distinct patterns** re
 ## 🔗 Connected Systems
 
 **Ferritin Interpretation:**
-- [[Ferritin_Interpretation_Iron_Status_Z-003-0001.md]] — Ferritin as dual marker (iron + inflammation)
-- [[Iron_Studies_TIBC_Transferrin_Sat_Z-003-0002.md]] — Transferrin/TIBC dynamics
+- [[Ferritin_Interpretation_Iron_Status_Z-003-0001.md] — Ferritin as dual marker (iron + inflammation)
+- [[Iron_Studies_TIBC_Transferrin_Sat_Z-003-0002.md] — Transferrin/TIBC dynamics
 
 **Inflammation:**
-- [[Inflammation_Markers_CRP_ESR_Z-007-0001.md]] — CRP, hepcidin regulation
+- [[Inflammation_Markers_CRP_ESR_Z-007-0001.md] — CRP, hepcidin regulation
 - Z-003-0014 (Hepcidin in detail) — *link pending*
 
 **Methylation:**
@@ -144,9 +144,9 @@ patient_id,visit,ferritin_ng_ml,iron_ug_dl,tibc_ug_dl,transferrin_sat_pct,crp_mg
 *Created: 2026-02-26 | Domain: 003 | Status: Conscious*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- |Biomarkers MOC]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
+- |Biomarkers MOC]
 

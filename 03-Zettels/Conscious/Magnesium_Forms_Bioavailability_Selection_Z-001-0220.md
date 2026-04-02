@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, magnesium, forms, bioavailability, supplements, citrate, glycinate]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Magnesium_Supplementation_L-001-0201d]]
+source-litnote: [[LitNote_Magnesium_Supplementation_L-001-0201d]
 extraction-date: 2026-03-01
 ---
 
@@ -126,9 +126,9 @@ Yes → Consider Taurate or Orotate
 
 ---
 
-*Source: [[LitNote_Magnesium_Supplementation_L-001-0201d]]*  
+*Source: [[LitNote_Magnesium_Supplementation_L-001-0201d]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

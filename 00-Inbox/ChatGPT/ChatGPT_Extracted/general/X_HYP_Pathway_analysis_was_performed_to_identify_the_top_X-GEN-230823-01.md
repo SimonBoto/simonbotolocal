@@ -10,7 +10,7 @@ uid: X-GEN-230823-01
 type: extracted-hypothesis
 title: "Hypothesis: Pathway analysis was performed to identify the top-ranked altered meta..."
 date: 2023-08-23
-source: "[[CGPT_0595_Effective_Peer_Review_[CGPT-0595]]"
+source: "[[CGPT_0595_Effective_Peer_Review_CGPT-0595]"
 aliases: [X-GEN-230823-01]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []

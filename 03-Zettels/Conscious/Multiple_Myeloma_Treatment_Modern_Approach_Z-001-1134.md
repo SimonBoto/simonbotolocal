@@ -7,8 +7,8 @@ domain: 001
 domain-name: Hematology Oncology
 tags: [zettel, multiple-myeloma, treatment, modern, therapy]
 parent-moc: 
-source-litnote: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]]
-source: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]]
+source-litnote: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]
+source: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]
 confidence: high
 created: 2026-03-08
 ---
@@ -172,9 +172,9 @@ Modern multiple myeloma treatment utilizes novel agents (immunomodulatory drugs,
 | **Novel targets** | CELMoDs, Kinesin inhibitors |
 
 ## Related
-- [[Multiple_Myeloma_CRAB_Features_Diagnosis_Z-001-1131]]
-- [[Multiple_Myeloma_Staging_ISS_R-ISS_Z-001-1133]]
-- [[TP53_Multiple_Myeloma_Prognosis_Therapy_Z-001-1135]]
+- [[Multiple_Myeloma_CRAB_Features_Diagnosis_Z-001-1131]
+- [[Multiple_Myeloma_Staging_ISS_R-ISS_Z-001-1133]
+- [[TP53_Multiple_Myeloma_Prognosis_Therapy_Z-001-1135]
 - 
 
 ---
@@ -182,6 +182,6 @@ Modern multiple myeloma treatment utilizes novel agents (immunomodulatory drugs,
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- [[B12_MM_Mimicry_Clinical_Question_Z-001-0419]|Z-001-0419]]
+- [[B12_MM_Mimicry_Clinical_Question_Z-001-0419]|Z-001-0419]

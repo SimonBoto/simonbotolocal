@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, insulin-resistance, metabolic-disorder, phenotype, metabolomics, chronic-disease, conscious]
 parent-moc: 
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
+source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]
 status: conscious
 ---
 
@@ -95,9 +95,9 @@ The METHAP trial design:
 ## Connections
 
 ### Upstream
-- [[Phenotype_Mapping_Metabolomics_Z-001-0018.md]] — Phenotype framework
-- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]] — Mitochondrial IR markers
-- [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013]] — Lipid-induced IR |
+- [[Phenotype_Mapping_Metabolomics_Z-001-0018.md] — Phenotype framework
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912] — Mitochondrial IR markers
+- [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013] — Lipid-induced IR |
 
 ### Downstream
 -  — Trial design
@@ -105,8 +105,8 @@ The METHAP trial design:
 
 ### Cross-Domain
 -  — Comprehensive IR systems view
-- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Environmental drivers
-- [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021.md]] — VitD-IR link
+- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903] — Environmental drivers
+- [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021.md] — VitD-IR link
 
 ## Clinical Phenotyping Strategy
 
@@ -138,17 +138,17 @@ The METHAP trial design:
 - Adipic acid as predictive vs. diagnostic marker
 
 ## See Also
-- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 1.3)
-- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]] — Lipid metabolism
-- [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]] — Alternative fuel
+- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003] — Source (Section 1.3)
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913] — Lipid metabolism
+- [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914] — Alternative fuel
 
 ---
 *Confidence: High* — Well-established metabolic disorder  
 *Next Review: After METHAP baseline characterization*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

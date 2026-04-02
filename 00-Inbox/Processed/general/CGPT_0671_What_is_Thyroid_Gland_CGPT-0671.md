@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "What is Thyroid Gland?"
 date: 2023-01-29
 source: ChatGPT conversation history
-aliases: [CGPT-0671]
+aliases: CGPT-0671]
 tags: [chatgpt-archive, general]
 status: archived
 ---

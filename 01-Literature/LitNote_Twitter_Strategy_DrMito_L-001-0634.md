@@ -6,7 +6,7 @@ domain: 001
 date: 2026-03-09
 source: CGPT-0318 (Messages 3-155, 163-214)
 tags: [litnote, social-media, twitter, branding, mitochondria, growth]
-aliases: [CGPT-0318-Strategy]
+aliases: CGPT-0318-Strategy]
 status: extracted
 ---
 
@@ -208,9 +208,9 @@ How: [Brief method]
 
 ## Zettels Extracted
 
-1. [[Twitter_Growth_Strategy_Health_Z-001-12XX]] — Platform growth
-2. [[Content_Creation_Framework_Z-001-12XX]] — 4-step system
-3. [[DrMito_Branding_Strategy_Z-001-12XX]] — Profile optimization
+1. [[Twitter_Growth_Strategy_Health_Z-001-12XX] — Platform growth
+2. [[Content_Creation_Framework_Z-001-12XX] — 4-step system
+3. [[DrMito_Branding_Strategy_Z-001-12XX] — Profile optimization
 
 ---
 

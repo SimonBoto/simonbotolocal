@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, omega-6, omega-3, ratio, evolutionary, inflammation]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]]
+source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]
 extraction-date: 2026-03-01
 ---
 
@@ -52,13 +52,13 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]]*
+*Source: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]*
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Omega_6_Cardiovascular_Controversy_Z-001-0962]|Z-001-0962]]
+- [[Omega_6_Cardiovascular_Controversy_Z-001-0962]|Z-001-0962]

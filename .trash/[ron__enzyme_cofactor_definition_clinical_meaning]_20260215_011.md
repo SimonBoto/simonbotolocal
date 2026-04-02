@@ -22,8 +22,8 @@ Common confusion:
 - “Cofactor” is not the same as “substrate.” Substrates are transformed; cofactors enable transformation.
 
 Related:
-- [[[ron__micronutrients]_20260215_035]] (vitamins/minerals)
-- [[[ron__minerals]_20260215_036]] (metal cofactors)
-- [[Dictionary_Vitamins_20260215_008]] (vitamin-derived coenzymes)
-- [[Zettel_Cofactor_Availability_Sets_Enzyme_Speed_And_Pathway_Throughput]] (core claim)
-- [[Library_Tsoukalas_Book_Chapter8_Enzymes_Cofactors_Metabolic_Individuality]] (source)
+- [[[ron__micronutrients]_20260215_035] (vitamins/minerals)
+- [[[ron__minerals]_20260215_036] (metal cofactors)
+- [[Dictionary_Vitamins_20260215_008] (vitamin-derived coenzymes)
+- [[Zettel_Cofactor_Availability_Sets_Enzyme_Speed_And_Pathway_Throughput] (core claim)
+- [[Library_Tsoukalas_Book_Chapter8_Enzymes_Cofactors_Metabolic_Individuality] (source)

@@ -6,7 +6,7 @@ date: 2025-04-21
 source: ChatGPT conversation history
 aliases: [RON-004-0007, master-throne, architecture-design, autonomy-framework]
 tags: [ron, genesis, architecture, autonomy, master-throne, 2025]
-parent-moc: "[[RON_Genesis_MOC_[RON-004-0001]|RON Genesis MOC]]"
+parent-moc: "[[RON_Genesis_MOC_[RON-004-0001]|RON Genesis MOC]"
 status: conscious
 ---
 
@@ -171,7 +171,7 @@ That design impulse — making explicit what was implicit — is the engine of R
 
 ## Related
 
-- [[RON_Genesis_MOC_[RON-004-0001]|RON Genesis MOC]] — Complete origin story
-- [[ChatGPT_Master_Throne_o3_[RON-004-0008]|Master Throne o3]] — Authority refinement
+- [[RON_Genesis_MOC_[RON-004-0001]|RON Genesis MOC] — Complete origin story
+- [[ChatGPT_Master_Throne_o3_[RON-004-0008]|Master Throne o3] — Authority refinement
 -  — Current autonomy framework (deployed Feb 2026)
 -  — Current cooperation operating system

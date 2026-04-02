@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Knowledge Landscape Optimization"
 date: 2025-02-16
 source: ChatGPT conversation history
-aliases: [CGPT-0148]
+aliases: CGPT-0148]
 tags: [chatgpt-archive, general]
 status: archived
 ---

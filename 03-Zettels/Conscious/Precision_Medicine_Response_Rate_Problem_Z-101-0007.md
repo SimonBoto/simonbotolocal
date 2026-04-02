@@ -7,7 +7,7 @@ domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, precision-medicine, response-rate, heterogeneity, anti-TNF, biologics]
 parent-moc: 
-source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]]
+source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
@@ -44,8 +44,8 @@ Approved therapies for chronic diseases show only 30-60% effectiveness, with sig
 
 ## Links
 
-- **Upstream:** [[Pharmacometabolomics_Framework_Metabotypes_Z-101-0001.md]] — Pharmacometabolomics provides solution
-- **Parallel:** [[METHAP_Biomarker_Panel_Z-001-0045.md]] — METHAP panel enables stratification
+- **Upstream:** [[Pharmacometabolomics_Framework_Metabotypes_Z-101-0001.md] — Pharmacometabolomics provides solution
+- **Parallel:** [[METHAP_Biomarker_Panel_Z-001-0045.md] — METHAP panel enables stratification
 - **Downstream:** , 
 
 ## Context
@@ -60,6 +60,6 @@ Approved therapies for chronic diseases show only 30-60% effectiveness, with sig
 
 ## RELATED FILES
 - 
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

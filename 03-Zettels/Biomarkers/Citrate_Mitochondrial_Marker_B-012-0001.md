@@ -179,10 +179,10 @@ When citrate is low and aconitate is very high, **do not analyze** isocitrate, �
 ### Cross-Domain Links
 | Related Marker | Connection | Clinical Implication |
 |----------------|------------|---------------------|
-| [[B-006-0001|Lipid Ratios]] | Citrate → acetyl-CoA → cholesterol | High citrate + high LDL = active lipogenesis |
-| [[B-005-0001|Glucose-Insulin]] | Insulin drives citrate export | IR → chronic citrate shuttle activation |
-| [[B-004-0001|Homocysteine]] | B-vitamin overlap | B12/folate issues often co-occur with citrate elevation |
-| [[B-003-0001|Ferritin]] | Iron for Fe-S clusters | Low ferritin + high citrate = suspect aconitase/SDH impairment |
+| [[B-006-0001|Lipid Ratios] | Citrate → acetyl-CoA → cholesterol | High citrate + high LDL = active lipogenesis |
+| [[B-005-0001|Glucose-Insulin] | Insulin drives citrate export | IR → chronic citrate shuttle activation |
+| [[B-004-0001|Homocysteine] | B-vitamin overlap | B12/folate issues often co-occur with citrate elevation |
+| [[B-003-0001|Ferritin] | Iron for Fe-S clusters | Low ferritin + high citrate = suspect aconitase/SDH impairment |
 
 ---
 
@@ -284,9 +284,9 @@ When citrate is low and aconitate is very high, **do not analyze** isocitrate, �
 ---
 
 ## Related Files
-- [[B-012-0002|Isocitrate — Krebs Cycle Marker]]
-- [[B-012-0003|α-Ketoglutarate — Nitrogen & Energy Hub]]
-- [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition]]
+- [[B-012-0002|Isocitrate — Krebs Cycle Marker]
+- [[B-012-0003|α-Ketoglutarate — Nitrogen & Energy Hub]
+- [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition]
 - 
 
 ---

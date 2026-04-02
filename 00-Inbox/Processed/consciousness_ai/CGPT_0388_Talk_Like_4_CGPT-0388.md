@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Talk Like 4"
 date: 2024-05-17
 source: ChatGPT conversation history
-aliases: [CGPT-0388]
+aliases: CGPT-0388]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

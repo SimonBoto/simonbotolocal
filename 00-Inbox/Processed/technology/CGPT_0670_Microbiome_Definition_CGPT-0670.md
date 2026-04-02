@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Microbiome Definition"
 date: 2023-01-29
 source: ChatGPT conversation history
-aliases: [CGPT-0670]
+aliases: CGPT-0670]
 tags: [chatgpt-archive, technology, personal_development]
 status: archived
 ---

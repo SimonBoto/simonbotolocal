@@ -236,9 +236,9 @@ cp ~/.openclaw/openclaw.json ~/.openclaw/openclaw.json.backup.$(date +%Y%m%d)
 
 ## 📚 RELATED DOCUMENTS
 
-- [[09-System/DISASTER_RECOVERY]] — Broader system recovery
+- [[09-System/DISASTER_RECOVERY] — Broader system recovery
 -  — Periodic health checks
-- [[08-Dashboards/MISSION_CONTROL]] — System status dashboard
+- [[08-Dashboards/MISSION_CONTROL] — System status dashboard
 
 ---
 

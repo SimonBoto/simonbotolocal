@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Novel Insights for Humanity"
 date: 2025-01-29
 source: ChatGPT conversation history
-aliases: [CGPT-0164]
+aliases: CGPT-0164]
 tags: [chatgpt-archive, vitamin_d, clinical, consciousness_ai, nutrition, personal_development]
 status: archived
 ---

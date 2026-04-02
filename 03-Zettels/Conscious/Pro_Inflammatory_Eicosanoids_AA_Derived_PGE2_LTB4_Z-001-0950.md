@@ -137,11 +137,11 @@ Free AA released from membrane
 - **AA:EPA ratio:** Predicts eicosanoid balance
 
 ## Related Zettels
-- [[Linoleic_Acid_Metabolic_Fate_Desaturase_Competition_Z-001-0946]] — AA synthesis
-- [[Omega_6_Omega_3_Ratio_Evolutionary_Context_Z-001-0948]] — Balance importance
+- [[Linoleic_Acid_Metabolic_Fate_Desaturase_Competition_Z-001-0946] — AA synthesis
+- [[Omega_6_Omega_3_Ratio_Evolutionary_Context_Z-001-0948] — Balance importance
 
 ## Source
-[[LitNote_Mechanisms_Metabolic_Disruption_L-001-0523]]
+[[LitNote_Mechanisms_Metabolic_Disruption_L-001-0523]
 
 ---
 
@@ -149,8 +149,8 @@ Free AA released from membrane
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

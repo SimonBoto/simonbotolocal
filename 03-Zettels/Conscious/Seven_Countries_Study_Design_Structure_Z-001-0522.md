@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, seven-countries, study-design, methodology]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]]
+source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]
 extraction-date: 2026-03-01
 ---
 
@@ -45,10 +45,10 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]]*
+*Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]*
 
 
 ## RELATED FILES
 - 
-- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]]
-- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
+- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]

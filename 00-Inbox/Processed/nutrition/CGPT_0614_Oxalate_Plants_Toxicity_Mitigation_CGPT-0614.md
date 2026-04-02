@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Oxalate: Plants, Toxicity, Mitigation"
 date: 2023-06-18
 source: ChatGPT conversation history
-aliases: [CGPT-0614]
+aliases: CGPT-0614]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

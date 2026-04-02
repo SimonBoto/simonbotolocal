@@ -32,6 +32,6 @@ Disease severity and progression correlate more strongly with total modifiable b
 Modifying risk burden does not replace treatment; it alters trajectory.
 
 **Related:**  
-- [[Disease_Prognosis_Versus_Modifiable_Risk_Burden]]  
-- [[Hub_Insulin_Resistance]]  
-- [[111_Hub_Gut_Function]]
+- [[Disease_Prognosis_Versus_Modifiable_Risk_Burden]  
+- [[Hub_Insulin_Resistance]  
+- [[111_Hub_Gut_Function]

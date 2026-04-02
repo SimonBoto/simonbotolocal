@@ -101,12 +101,12 @@ For biomarker claims:
 - Only permutation test, no other validation
 
 ## Related Zettels
-- [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935]] — Overfitting context
-- [[Cross_Validation_Strategies_Omics_Models_Z-001-0938]] — Next validation level
-- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]] — Full pipeline
+- [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935] — Overfitting context
+- [[Cross_Validation_Strategies_Omics_Models_Z-001-0938] — Next validation level
+- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560] — Full pipeline
 
 ## Source
-[[LitNote_Multivariate_Analysis_Pitfalls_L-001-0517]]
+[[LitNote_Multivariate_Analysis_Pitfalls_L-001-0517]
 
 ---
 
@@ -114,7 +114,7 @@ For biomarker claims:
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 - 
 - 

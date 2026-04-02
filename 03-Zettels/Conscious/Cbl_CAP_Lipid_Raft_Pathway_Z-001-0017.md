@@ -38,8 +38,8 @@ An alternative  signaling pathway involves Cbl-CAP complex and lipid raft locali
 
 ## Links
 
-- **Upstream:** [[Insulin_Receptor_Structure_Z-001-0001]] — Receptor activation
-- **Parallel:** [[GLUT4_Vesicle_Translocation_Z-001-0011]] — Canonical GLUT4 mechanism
+- **Upstream:** [[Insulin_Receptor_Structure_Z-001-0001] — Receptor activation
+- **Parallel:** [[GLUT4_Vesicle_Translocation_Z-001-0011] — Canonical GLUT4 mechanism
 
 ## Context
 
@@ -49,7 +49,7 @@ An alternative  signaling pathway involves Cbl-CAP complex and lipid raft locali
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

@@ -8,7 +8,7 @@ tags: [zettel, trioses, g3p, dhap, glycolysis, evolution]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045C]]
+source: [[L-001-0045C]
 ---
 
 # Triose : G3P and DHAP
@@ -51,12 +51,12 @@ G3P connects:
 **G3P as branch point:** Metabolic flexibility allows cells to switch between energy production and biosynthesis based on needs.
 
 ## Related
-- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]] Glycolysis Steps and Regulation
-- [[PPP_Oxidative_Phase_Z-001-0457]] PPP Integration
+- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460] Glycolysis Steps and Regulation
+- [[PPP_Oxidative_Phase_Z-001-0457] PPP Integration
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

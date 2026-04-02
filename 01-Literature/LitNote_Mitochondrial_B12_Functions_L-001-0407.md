@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Mitochondrial B12 Functions
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]]
 - **Date:** November 2024
 - **Scope:** Mitochondrial B12 transport, energy metabolism, exercise performance, clinical assessment
 
@@ -41,7 +41,7 @@ extraction-date: 2026-03-01
 - Associated with methylmalonyl-CoA mutase
 - Tightly bound to enzyme
 
-**Zettels extracted:** [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
+**Zettels extracted:** [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]
 
 ### 2. Methylmalonyl-CoA Mutase — Energy Connection
 > "Methylmalonyl-CoA mutase produces succinyl-CoA, an intermediate of the Krebs cycle, linking amino acid and odd-chain fatty acid metabolism to cellular energy production."
@@ -68,7 +68,7 @@ extraction-date: 2026-03-01
 - Fatty acid (palmitate): ~106 ATP
 - Propionate: ~12 ATP (efficient for 3-carbon molecule)
 
-**Zettels extracted:** [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
+**Zettels extracted:** [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]
 
 ### 3. B12 and Exercise Performance
 > "B12 deficiency impairs energy metabolism, potentially affecting exercise performance through reduced ATP production from amino acids and odd-chain fatty acids."
@@ -94,7 +94,7 @@ extraction-date: 2026-03-01
 - Reduced exercise tolerance
 - Improvement with B12 repletion
 
-**Zettels extracted:** [[B12_Exercise_Performance_Energy_Z-001-0440]]
+**Zettels extracted:** [[B12_Exercise_Performance_Energy_Z-001-0440]
 
 ### 4. Clinical Assessment of B12 Status
 > "Methylmalonic acid (MMA) in serum or urine is the most sensitive and specific marker of B12 deficiency, reflecting functional mitochondrial B12 status."
@@ -125,7 +125,7 @@ extraction-date: 2026-03-01
 - **Elevated Homocysteine only:** Folate deficiency likely
 - **Both elevated:** B12 deficiency
 
-**Zettels extracted:** [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
+**Zettels extracted:** [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]
 
 ### 5. B12 Requirements and Supplementation
 > "B12 requirements increase with high protein intake, vegan diets, malabsorption, and certain medications; supplementation may be oral or parenteral depending on absorption capacity."
@@ -164,7 +164,7 @@ extraction-date: 2026-03-01
 - Bypasses absorption issues
 - Alternative to injections
 
-**Zettels extracted:** [[B12_Requirements_Supplementation_Z-001-0442]]
+**Zettels extracted:** [[B12_Requirements_Supplementation_Z-001-0442]
 
 ### 6. Integration with METHAP Protocol
 > "B12 adequacy supports the high metabolic demands of METHAP's nutrient therapy, ensuring efficient amino acid oxidation, energy production, and methylation capacity."
@@ -193,7 +193,7 @@ extraction-date: 2026-03-01
 - B12 supplementation standard
 - Ensure adequacy throughout
 
-**Zettels extracted:** [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+**Zettels extracted:** [[B12_METHAP_Protocol_Integration_Z-001-0443]
 
 ---
 
@@ -219,12 +219,12 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]]
-2. [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]]
-3. [[B12_Exercise_Performance_Energy_Z-001-0440]]
-4. [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]]
-5. [[B12_Requirements_Supplementation_Z-001-0442]]
-6. [[B12_METHAP_Protocol_Integration_Z-001-0443]]
+1. [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]
+2. [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]
+3. [[B12_Exercise_Performance_Energy_Z-001-0440]
+4. [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]
+5. [[B12_Requirements_Supplementation_Z-001-0442]
+6. [[B12_METHAP_Protocol_Integration_Z-001-0443]
 
 ---
 

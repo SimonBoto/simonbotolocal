@@ -170,9 +170,9 @@ ALA → EPA → DHA (very limited in humans)
 ---
 
 ## RELATED FILES
-- [[Free_Fatty_Acids_Complete_[REF-FFA-001].md|Fatty Acids Reference]]
-- [[Z-006-0102|EPA — Eicosapentaenoic Acid]]
-- [[Z-006-0103|DHA — Docosahexaenoic Acid]]
+- [[Free_Fatty_Acids_Complete_[REF-FFA-001].md|Fatty Acids Reference]
+- [[Z-006-0102|EPA — Eicosapentaenoic Acid]
+- [[Z-006-0103|DHA — Docosahexaenoic Acid]
 
 ---
 *Complete biomarker foundation — ALA*

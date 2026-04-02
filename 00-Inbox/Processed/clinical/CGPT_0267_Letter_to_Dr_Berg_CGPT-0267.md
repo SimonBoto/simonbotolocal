@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Letter to Dr Berg"
 date: 2024-10-17
 source: ChatGPT conversation history
-aliases: [CGPT-0267]
+aliases: CGPT-0267]
 tags: [chatgpt-archive, clinical, nutrition, communication]
 status: archived
 ---

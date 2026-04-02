@@ -22,10 +22,10 @@ Common confusion:
 - “High resolution” improves identification, but interpretation still requires physiology + context.
 
 Related:
-- [[[ron__metabolomics_definition_clinical_use]_20260215_033]]
-- [[[ron__metabolic_pathway_definition_clinical_meaning]_20260215_029]]
-- [[Zettel_Blocked_Pathway_Leads_To_Metabolite_Accumulation_Detectable_In_Blood_Urine]]
-- [[Library_Tsoukalas_Book_Chapter8_Enzymes_Cofactors_Metabolic_Individuality]]
+- [[[ron__metabolomics_definition_clinical_use]_20260215_033]
+- [[[ron__metabolic_pathway_definition_clinical_meaning]_20260215_029]
+- [[Zettel_Blocked_Pathway_Leads_To_Metabolite_Accumulation_Detectable_In_Blood_Urine]
+- [[Library_Tsoukalas_Book_Chapter8_Enzymes_Cofactors_Metabolic_Individuality]
 
 Open_Loops:
 - Add 1 primary-source methods reference used by your lab platforms (GC-MS/LC-MS specifics).

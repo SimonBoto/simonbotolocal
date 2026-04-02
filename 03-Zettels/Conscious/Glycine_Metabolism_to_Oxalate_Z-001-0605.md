@@ -6,7 +6,7 @@ aliases: [Z-001-0605, glycine-oxalate, glyoxylate, amino-acid-metabolism]
 domain: 001
 tags: [zettel, glycine, oxalate, glyoxylate, metabolism]
 parent-moc: 
-source: [[L-001-0060A]]
+source: [[L-001-0060A]
 confidence: high
 created: 2026-03-04
 ---
@@ -70,12 +70,12 @@ Glyoxylate → Oxalate (oxidation)
 - ~10-50% from vitamin C (variable)
 
 ## Related
-- [[Hydroxyproline_Collagen_Oxalate_Production_Z-001-0606]] — Collagen source
-- [[Primary_Hyperoxaluria_Genetic_Z-001-0610]] — PH1 disease
+- [[Hydroxyproline_Collagen_Oxalate_Production_Z-001-0606] — Collagen source
+- [[Primary_Hyperoxaluria_Genetic_Z-001-0610] — PH1 disease
 
 ---
 *Source: CGPT-0413 | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

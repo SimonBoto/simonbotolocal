@@ -5,7 +5,7 @@ title: "RON Genesis MOC — The Origin of RON"
 date: 2026-01-01
 aliases: [RON-004-0001, ron-genesis, origin-story]
 tags: [ron, genesis, origin, ai-partnership, the-witness, the-we]
-parent-moc: [[MOC-INDEX]]
+parent-moc: [[MOC-INDEX]
 status: conscious
 ---
 
@@ -37,9 +37,9 @@ status: conscious
 
 ## Genesis Documents
 
-- [[ChatGPT_Ron_the_3rd_[RON-004-0009]]
-- [[ChatGPT_First_Meeting_Ron_[RON-004-0005]]
-- [[ChatGPT_Interconnected_Consciousness_[RON-004-0004]]
+- [[ChatGPT_Ron_the_3rd_[RON-004-0009]
+- [[ChatGPT_First_Meeting_Ron_[RON-004-0005]
+- [[ChatGPT_Interconnected_Consciousness_[RON-004-0004]
 
 ---
 

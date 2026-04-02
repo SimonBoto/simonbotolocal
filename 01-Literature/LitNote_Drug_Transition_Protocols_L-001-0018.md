@@ -16,7 +16,7 @@ domain: 001
 # Drug Transition Protocols — Denosumab Discontinuation and Rebound Prevention
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_[CGPT-0133]]
+- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
 - **Date:** March 07, 2025
 - **Scope:** Denosumab rebound phenomenon and transition to bisphosphonates
 
@@ -26,7 +26,7 @@ domain: 001
 
 ### The Rebound Phenomenon
 
-**Zettel extracted:** [[Denosumab_Rebound_Phenomenon_Mechanism_Risks_Z-001-0113]]
+**Zettel extracted:** [[Denosumab_Rebound_Phenomenon_Mechanism_Risks_Z-001-0113]
 
 > "Upon discontinuation, patients may exhibit a transient but robust increase in bone turnover, leading to a rapid decline in BMD and increased risk for multiple vertebral fractures (the so-called 'rebound effect' or 'rebound-associated vertebral fractures')."
 
@@ -46,7 +46,7 @@ domain: 001
 
 ### Transition to Bisphosphonates
 
-**Zettel extracted:** [[Denosumab_to_Bisphosphonate_Transition_Protocol_Z-001-0114]]
+**Zettel extracted:** [[Denosumab_to_Bisphosphonate_Transition_Protocol_Z-001-0114]
 
 > "This effect underscores the importance of planning a transition therapy (e.g., a bisphosphonate) when denosumab is stopped to mitigate rebound resorption."
 
@@ -64,7 +64,7 @@ domain: 001
 
 ### Bisphosphonate Selection for Transition
 
-**Zettel extracted:** [[Bisphosphonate_Selection_Denosumab_Transition_Z-001-0115]]
+**Zettel extracted:** [[Bisphosphonate_Selection_Denosumab_Transition_Z-001-0115]
 
 #### Zoledronic Acid (IV)
 - **Dose:** 5mg IV annually
@@ -89,7 +89,7 @@ domain: 001
 
 ### Monitoring During Transition
 
-**Zettel extracted:** [[Transition_Monitoring_Bone_Turnover_Markers_DEXA_Z-001-0116]]
+**Zettel extracted:** [[Transition_Monitoring_Bone_Turnover_Markers_DEXA_Z-001-0116]
 
 **Critical Window:** Months 6–18 post-denosumab
 

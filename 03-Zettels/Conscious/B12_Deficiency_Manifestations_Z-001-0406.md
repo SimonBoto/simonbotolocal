@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, b12-deficiency, anemia, neurological, mimics]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]
+source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
 extraction-date: 2026-03-01
 ---
 
@@ -101,11 +101,11 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: _B12_L-001-0401]]*
+*Source: _B12_L-001-0401]*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- [[Hematological_Overlap_B12_MM_Z-001-0420]|Z-001-0420]]
+- [[Hematological_Overlap_B12_MM_Z-001-0420]|Z-001-0420]

@@ -210,9 +210,9 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Kidney_Function_[B-008-0001]|Kidney Function Guide]]
-- [[Z-008-0001|Creatinine — Muscle Metabolite]]
-- [[Z-005-0001|Glucose — Blood Sugar]]
+- [[Kidney_Function_[B-008-0001]|Kidney Function Guide]
+- [[Z-008-0001|Creatinine — Muscle Metabolite]
+- [[Z-005-0001|Glucose — Blood Sugar]
 
 source-litnote: Synthesized from clinical practice
 ---

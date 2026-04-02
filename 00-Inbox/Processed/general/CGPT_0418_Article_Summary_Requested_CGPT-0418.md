@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Article Summary Requested"
 date: 2024-04-13
 source: ChatGPT conversation history
-aliases: [CGPT-0418]
+aliases: CGPT-0418]
 tags: [chatgpt-archive, general]
 status: archived
 ---

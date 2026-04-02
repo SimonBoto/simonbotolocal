@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Create Personalized Questionnaire Site"
 date: 2023-09-15
 source: ChatGPT conversation history
-aliases: [CGPT-0566]
+aliases: CGPT-0566]
 tags: [chatgpt-archive, technology, personal_development]
 status: archived
 ---

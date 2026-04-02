@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Automate Metabolite Analysis Python"
 date: 2024-04-29
 source: ChatGPT conversation history
-aliases: [CGPT-0405]
+aliases: CGPT-0405]
 tags: [chatgpt-archive, metabolomics, technology]
 status: archived
 ---
@@ -103,7 +103,7 @@ def select_template(metabolite, value):
         return 'normal'
 
 # Applying the templates
-data['Report'] = data.apply(lambda x: templates[x['Metabolite']][select_template(x['Metabolite'], x['Value'])].format(value=x['Value'], units=x['Units']), axis=1)
+data['Report'] = data.apply(lambda x: templates[x['Metabolite'][select_template(x['Metabolite'], x['Value'])].format(value=x['Value'], units=x['Units']), axis=1)
 
 print(data['Report'])
 `‌`‌`

@@ -7,7 +7,7 @@ domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, microbiomics, microbiome, gut-bacteria, dysbiosis, metabolites, butyrate, conscious]
 parent-moc: 
-source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
+source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
@@ -90,15 +90,15 @@ The microbiome maintains homeostasis through:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Proteomics_Protein_Structure_Function_Z-001-0907]] — Bacterial proteins are targets
-- **Parallel/Related:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Environmental factor (diet) shapes microbiome
-- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Mechanism of environmental disease drivers
+- **Upstream/Prerequisite:** [[Proteomics_Protein_Structure_Function_Z-001-0907] — Bacterial proteins are targets
+- **Parallel/Related:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md] — Environmental factor (diet) shapes microbiome
+- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903] — Mechanism of environmental disease drivers
 
 ## Context
 
-**Also relevant to:** -Mechanisms]],  — VD-microbiome interactions
+**Also relevant to:** -Mechanisms],  — VD-microbiome interactions
 
-**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Subsection 2.5
+**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001] — Subsection 2.5
 
 ---
 
@@ -106,7 +106,7 @@ The microbiome maintains homeostasis through:
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

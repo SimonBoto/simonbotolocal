@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Scientific Article Prompt"
 date: 2024-03-18
 source: ChatGPT conversation history
-aliases: [CGPT-0457]
+aliases: CGPT-0457]
 tags: [chatgpt-archive, insulin_resistance, vitamin_d, clinical, nutrition]
 status: archived
 ---

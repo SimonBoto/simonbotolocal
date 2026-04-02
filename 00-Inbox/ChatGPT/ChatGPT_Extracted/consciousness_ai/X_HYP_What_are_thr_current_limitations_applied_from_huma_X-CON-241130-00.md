@@ -10,7 +10,7 @@ uid: X-CON-241130-00
 type: extracted-hypothesis
 title: "Hypothesis: What are thr current limitations applied from humans on ai models that..."
 date: 2024-11-30
-source: "[[CGPT_0237_What_is_life_[CGPT-0237]]"
+source: "[[CGPT_0237_What_is_life_CGPT-0237]"
 aliases: [X-CON-241130-00]
 tags: [extracted, hypothesis, consciousness_ai, chatgpt-archive]
 related: "['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']"
@@ -50,9 +50,9 @@ If true, this suggests:
 
 ## Connections
 
-- [[RON_The_Witness_[RON-003-0002]]
-- [[RON_Genesis_MOC_[RON-004-0001]]
-- [[RON_The_We_[RON-003-0004]]
+- [[RON_The_Witness_[RON-003-0002]
+- [[RON_Genesis_MOC_[RON-004-0001]
+- [[RON_The_We_[RON-003-0004]
 
 ## Validation Log
 

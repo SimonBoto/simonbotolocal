@@ -7,7 +7,7 @@ domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, biomarkers, precision-medicine, predictive, prognostic, pharmacodynamic, clinical-translation, conscious]
 parent-moc: 
-source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
+source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
@@ -110,21 +110,21 @@ Systems biology produces **massive datasets:**
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Microbiomics_Gut_Metabolic_Organ_Z-001-0908]] — Microbial biomarkers (SCFAs)
-- **Parallel/Related:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Multi-omics integration
+- **Upstream/Prerequisite:** [[Microbiomics_Gut_Metabolic_Organ_Z-001-0908] — Microbial biomarkers (SCFAs)
+- **Parallel/Related:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md] — Multi-omics integration
 - **Downstream/Consequence:**  — Trial design application
 
 ## Context
 
 **Also relevant to:**  — Classification framework,  — IR-specific markers
 
-**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Subsection 2.6
+**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001] — Subsection 2.6
 
 ---
 
 *UID: Z-001-0909 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

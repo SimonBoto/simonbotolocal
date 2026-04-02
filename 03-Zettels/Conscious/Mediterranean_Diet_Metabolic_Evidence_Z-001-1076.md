@@ -7,8 +7,8 @@ domain: 001
 domain-name: Nutrition
 tags: [zettel, mediterranean-diet, research, evidence]
 parent-moc: 
-source-litnote: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]]
-source: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]]
+source-litnote: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]
+source: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]
 confidence: high
 created: 2026-03-08
 ---
@@ -92,7 +92,7 @@ Key research supporting Mediterranean diet for metabolic health.
 - Target omega-3 index >8%
 
 ## Related
-- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]]
+- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]
 - 
 
 ---
@@ -100,6 +100,6 @@ Key research supporting Mediterranean diet for metabolic health.
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
-- [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]|Z-001-0263]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+- [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]|Z-001-0263]

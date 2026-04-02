@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Parafinum Liquidum"
 date: 2024-06-29
 source: ChatGPT conversation history
-aliases: [CGPT-0342]
+aliases: CGPT-0342]
 tags: [chatgpt-archive, general]
 status: archived
 ---

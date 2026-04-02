@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, dehydrogenases, decarboxylases, enzyme-mechanism, krebs-cycle, cofactors]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-001-0630]]"
+source-litnote: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-001-0630]"
 status: conscious
 ---
 
@@ -164,17 +164,17 @@ Pyruvate + NAD⁺ + CoA-SH → Acetyl-CoA + NADH + CO₂
 
 ## Related
 
-- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]]
-- [[B_Vitamin_Cofactors_Summary_Z-001-1202]]
-- [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]]
+- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]
+- [[B_Vitamin_Cofactors_Summary_Z-001-1202]
+- [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]
 
 ---
 
-*Source: [[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-001-0630]] | 2026-03-09*
+*Source: [[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-001-0630] | 2026-03-09*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

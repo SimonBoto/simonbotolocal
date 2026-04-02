@@ -16,7 +16,7 @@ domain: 001
 # FRAX Risk Assessment Tool — 10-Year Fracture Probability Calculation
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_[CGPT-0133]]
+- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
 - **Date:** March 07, 2025
 - **Scope:** Risk stratification section mentioning FRAX alongside DXA
 
@@ -33,7 +33,7 @@ domain: 001
 
 ### 1. FRAX Input Variables
 
-**Zettel extracted:** [[FRAX_Input_Variables_Clinical_Risk_Factors_Z-001-0109]]
+**Zettel extracted:** [[FRAX_Input_Variables_Clinical_Risk_Factors_Z-001-0109]
 
 #### Required Variables (Always Included)
 | Variable | Categories/Range |
@@ -65,7 +65,7 @@ domain: 001
 
 ### 2. FRAX Output Interpretation
 
-**Zettel extracted:** [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110]]
+**Zettel extracted:** [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110]
 
 #### 10-Year Probability Outputs
 1. **Major osteoporotic fracture** (clinical spine, hip, forearm, humerus)
@@ -91,7 +91,7 @@ domain: 001
 
 ### 3. FRAX Limitations
 
-**Zettel extracted:** [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]]
+**Zettel extracted:** [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]
 
 #### Known Limitations
 | Limitation | Clinical Impact |
@@ -114,7 +114,7 @@ domain: 001
 
 ### 4. FRAX Adjustments and Enhancements
 
-**Zettel extracted:** [[FRAX_Adjustments_TBS_Falls_Glucocorticoids_Z-001-0112]]
+**Zettel extracted:** [[FRAX_Adjustments_TBS_Falls_Glucocorticoids_Z-001-0112]
 
 #### Trabecular Bone Score (TBS)
 - **Technology:** Texture analysis from lumbar spine DXA
@@ -179,12 +179,12 @@ reassess    TBS, falls    Pharmacologic
 ```
 
 ## Related Zettels
-- [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076]] — BMD component
-- [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]] — Treatment threshold
-- [[Fragility_Fractures_Morbidity_Mortality_Z-001-0078]] — Outcome being predicted
+- [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076] — BMD component
+- [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077] — Treatment threshold
+- [[Fragility_Fractures_Morbidity_Mortality_Z-001-0078] — Outcome being predicted
 
 ## Source
-[[LitNote_FRAX_Risk_Assessment_Tool_L-001-0017]]
+[[LitNote_FRAX_Risk_Assessment_Tool_L-001-0017]
 
 ---
 

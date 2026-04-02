@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, oxidative-stress, ros, telomeres, dna-damage, inflammation]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]]"
+source-litnote: "[[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]"
 status: conscious
 ---
 
@@ -94,16 +94,16 @@ status: conscious
 
 ## Related
 
-- [[Mitochondrial_Dysfunction_Immunity_Z-001-1179]]
-- [[Antioxidant_Telomere_Protection_Z-001-1181]]
+- [[Mitochondrial_Dysfunction_Immunity_Z-001-1179]
+- [[Antioxidant_Telomere_Protection_Z-001-1181]
 
 ---
 
-*Source: [[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]] | 2026-03-08*
+*Source: [[LitNote_Telomere_Biology_Autoimmunity_L-001-0623] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

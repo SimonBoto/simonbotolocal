@@ -44,10 +44,10 @@ domains:
   - "001"
 status: "ref"
 extraction-priority: P1
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: [[MOC-Research-Methods]
 connections:
   extracted-zettels:
-    - "[[Omics_Cascade_Genotype_Phenotype_Z-001-0902]]"
+    - "[[Omics_Cascade_Genotype_Phenotype_Z-001-0902]"
   synthesis-links: []
   related-refs: []
   supports-claims: []
@@ -91,7 +91,7 @@ Greek-language academic textbook covering systems biology foundations, omics tec
 - Potential collaboration with NKUA metabolomics group
 
 ## Links to Atomics
-- [[Systems_Biology_Integrative_Framework_Z-001-0001]] — Theoretical foundation
+- [[Systems_Biology_Integrative_Framework_Z-001-0001] — Theoretical foundation
 - All omics zettels — methodological context
 
 ## Our Use

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, minerals, magnesium, zinc, selenium, copper, manganese, rbc-magnesium, mitochondrial-cofactors, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]]
+source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]
 status: conscious
 ---
 
@@ -464,14 +464,14 @@ Core minerals function as essential cofactors for hundreds of enzymatic reaction
 
 ---
 
-**Related:** [[Mitochondrial_Nutrient_Cofactors_Z-001-0556]] | [[SOD2_Mitochondrial_Antioxidant_Z-001-0557]] | [[Thyroid_Nutrient_Cofactors_Z-001-0029]]
+**Related:** [[Mitochondrial_Nutrient_Cofactors_Z-001-0556] | [[SOD2_Mitochondrial_Antioxidant_Z-001-0557] | [[Thyroid_Nutrient_Cofactors_Z-001-0029]
 
 **Source:** CGPT-0124 — Five Pillars of Metabolic Health
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

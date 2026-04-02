@@ -5,7 +5,7 @@ type: index
 title: "03-Zettels — Atomic Knowledge"
 aliases: [Zettels, Atomic Notes, Knowledge Core]
 tags: [index, zettels, atomic, knowledge, core, navigation, folder]
-parent-index: [[00-MISSION]]
+parent-index: [[00-MISSION]
 child-folders: ", "
 status: active
 ---
@@ -65,7 +65,7 @@ Promotion Criteria Met?
 **Linked:** 2-5 links to other zettels
 **Dated:** Creation date in YAML
 **Sourced:** Link to source (Hub or LitNote)
-**Templated:** Use `[[06-Structure/Templates/Template_Zettel_v2.0]]`
+**Templated:** Use `[[06-Structure/Templates/Template_Zettel_v2.0]`
 
 ### Naming
 ```
@@ -82,7 +82,7 @@ Title_Z-{DDD}-{SSSS}].md
 
 ← **Back to ** — Source Processing  
 → **Next: ** — Living Documents  
-↑ **Parent: [[00-MISSION]]**
+↑ **Parent: [[00-MISSION]**
 
 **Siblings:**
  |  |  |  |  |  |  | 

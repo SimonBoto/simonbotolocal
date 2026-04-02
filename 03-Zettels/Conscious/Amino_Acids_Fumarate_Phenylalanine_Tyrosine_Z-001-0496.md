@@ -8,7 +8,7 @@ tags: [zettel, fumarate, phenylalanine, tyrosine, pku, phenylalanine-hydroxylase
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0046A]]
+source: [[L-001-0046A]
 ---
 
 #  to Fumarate: Phenylalanine and Tyrosine
@@ -74,7 +74,7 @@ Fumarylacetoacetate → Fumarate + Acetoacetate
 - Iron (Fe²⁺) — for hydroxylation chemistry
 
 ## Related
-- [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499]] Glucogenic vs Ketogenic Classification
+- [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499] Glucogenic vs Ketogenic Classification
 - 
 
 ---
@@ -82,7 +82,7 @@ Fumarylacetoacetate → Fumarate + Acetoacetate
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

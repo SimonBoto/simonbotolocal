@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, albumin, ckd, inflammation, prognosis, nutritional-marker, acute-phase, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_CKD_Nutritional_Assessment_L-001-0575]]
+source-litnote: [[LitNote_CKD_Nutritional_Assessment_L-001-0575]
 status: conscious
 ---
 
@@ -282,13 +282,13 @@ Other causes:
 
 ---
 
-**Related:** [[Short_Term_High_Protein_Hypoalbuminemia_Protocol_Z-001-0979]] | [[Protein_Intake_Assessment_Methods_CKD_Z-001-0980]]
+**Related:** [[Short_Term_High_Protein_Hypoalbuminemia_Protocol_Z-001-0979] | [[Protein_Intake_Assessment_Methods_CKD_Z-001-0980]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]

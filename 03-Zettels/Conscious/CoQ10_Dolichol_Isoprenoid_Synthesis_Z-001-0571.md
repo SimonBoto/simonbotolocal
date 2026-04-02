@@ -7,7 +7,7 @@ domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, coq10, ubiquinone, dolichol, isoprenoids, mitochondria, protein-glycosylation, statin-side-effects]
 parent-moc: 
-source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]]"
+source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]"
 confidence: high
 created: 2026-03-03
 ---
@@ -193,10 +193,10 @@ Proper folding, trafficking, function
 
 ## Related Zettels
 
-- [[HMG_CoA_Reductase_Regulation_Z-001-0567]] — Statin mechanism
-- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]] — Pathway overview
-- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]] — Other products
-- [[LitNote_Statin_Pharmacology_L-001-0502]] — Statin details
+- [[HMG_CoA_Reductase_Regulation_Z-001-0567] — Statin mechanism
+- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566] — Pathway overview
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570] — Other products
+- [[LitNote_Statin_Pharmacology_L-001-0502] — Statin details
 
 ---
 
@@ -209,8 +209,8 @@ Proper folding, trafficking, function
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

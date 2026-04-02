@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Enhanced capabilities, smoother interactions"
 date: 2024-05-14
 source: ChatGPT conversation history
-aliases: [CGPT-0395]
+aliases: CGPT-0395]
 tags: [chatgpt-archive, technology]
 status: archived
 ---

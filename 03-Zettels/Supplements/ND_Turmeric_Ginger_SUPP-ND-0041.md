@@ -104,9 +104,9 @@ Take 1 capsule daily or as directed by your physician.
 | 2 | €1.14 | ~332 mg | Therapeutic |
 
 ## Biomarker Links
-- [[CRP_C-Reactive_Protein_Z-002-0001]] — inflammation marker
-- [[ESR_Erythrocyte_Sedimentation_Rate_Z-002-0002]] — inflammation marker
-- [[Oxidative_Stress_Markers_Z-001-XXXX]] — antioxidant status |
+- [[CRP_C-Reactive_Protein_Z-002-0001] — inflammation marker
+- [[ESR_Erythrocyte_Sedimentation_Rate_Z-002-0002] — inflammation marker
+- [[Oxidative_Stress_Markers_Z-001-XXXX] — antioxidant status |
 
 ## Comparison with My Relief (Meetab)
 | Feature | Turmeric & Ginger (ND) | My Relief (Meetab) |

@@ -7,8 +7,8 @@ domain: 001
 domain-name: Nutrition
 tags: [zettel, nutrition, fatty-acids, definitions]
 parent-moc: 
-source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
-source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
+source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
+source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 confidence: high
 created: 2026-03-08
 ---
@@ -45,15 +45,15 @@ created: 2026-03-08
 ## Related
 - 
 - 
-- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]
 
 ---
 *Source: CGPT-0022 — Tsoukalas Core Vocabulary*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Muscle_Bone_Unit_Mechanical_Loading_Z-001-0096]|Z-001-0096]]
+- [[Muscle_Bone_Unit_Mechanical_Loading_Z-001-0096]|Z-001-0096]

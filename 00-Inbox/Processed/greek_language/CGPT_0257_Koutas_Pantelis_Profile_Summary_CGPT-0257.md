@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Koutas Pantelis Profile Summary"
 date: 2024-11-08
 source: ChatGPT conversation history
-aliases: [CGPT-0257]
+aliases: CGPT-0257]
 tags: [chatgpt-archive, greek_language]
 status: archived
 ---

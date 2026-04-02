@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: The Methylation Cycle — SAM, SAH, and Epigenetic Regulation
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_[CGPT-0264]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]]
 - **Date:** October 27, 2024
 - **Scope:** SAM synthesis, methyl donation, DNA/histone methylation, epigenetic regulation
 
@@ -46,7 +46,7 @@ Methionine + ATP → SAM + PPi + Pi
 - **Phosphatidylcholine synthesis:** Membrane integrity
 - **Creatine synthesis:** Energy metabolism
 
-**Zettels extracted:** [[SAM_Synthesis_Universal_Methyl_Donor_Z-001-0407]]
+**Zettels extracted:** [[SAM_Synthesis_Universal_Methyl_Donor_Z-001-0407]
 
 ### 2. S-Adenosylhomocysteine (SAH) — The Inhibitor
 > "After donating its methyl group, SAM becomes SAH, a potent inhibitor of methyltransferases and a marker of methylation capacity."
@@ -72,7 +72,7 @@ SAH → Homocysteine + Adenosine
 - **Low SAM/SAH ratio:** Impaired methylation
 - **Associated with:** Depression, cognitive decline, cardiovascular disease
 
-**Zettels extracted:** [[SAH_Methylation_Inhibitor_Ratio_Z-001-0408]]
+**Zettels extracted:** [[SAH_Methylation_Inhibitor_Ratio_Z-001-0408]
 
 ### 3. DNA Methylation — Epigenetic Regulation
 > "DNA methylation at CpG islands regulates gene expression, with hypermethylation silencing tumor suppressor genes and hypomethylation activating oncogenes."
@@ -99,7 +99,7 @@ SAH → Homocysteine + Adenosine
 - DNMT activity affects DNA methylation patterns
 - Result: Nutrient status → Epigenetic marks
 
-**Zettels extracted:** [[DNA_Methylation_Epigenetic_Regulation_Z-001-0409]]
+**Zettels extracted:** [[DNA_Methylation_Epigenetic_Regulation_Z-001-0409]
 
 ### 4. Histone Methylation — Chromatin Structure
 > "Histone methylation alters chromatin structure, influencing gene accessibility and transcription, with specific marks associated with activation or repression."
@@ -127,7 +127,7 @@ SAH → Homocysteine + Adenosine
 - Reduced SAM → Altered histone methylation
 - Result: Epigenetic dysregulation
 
-**Zettels extracted:** [[Histone_Methylation_Chromatin_Structure_Z-001-0410]]
+**Zettels extracted:** [[Histone_Methylation_Chromatin_Structure_Z-001-0410]
 
 ### 5. Methylation and Cancer — The Double-Edged Sword
 > "Aberrant methylation patterns contribute to carcinogenesis: hypermethylation silences tumor suppressors, hypomethylation activates oncogenes."
@@ -155,7 +155,7 @@ SAH → Homocysteine + Adenosine
 - Target hypermethylated tumor suppressors
 - Restore normal gene expression
 
-**Zettels extracted:** [[Methylation_Cancer_Double_Edged_Sword_Z-001-0411]]
+**Zettels extracted:** [[Methylation_Cancer_Double_Edged_Sword_Z-001-0411]
 
 ### 6. Vitamin D and Methylation — Cross-Talk
 > "Vitamin D influences methylation patterns through regulation of DNMT expression and TET enzyme activity, potentially reversing aberrant methylation in cancer."
@@ -176,7 +176,7 @@ SAH → Homocysteine + Adenosine
 - May correct methylation abnormalities in MetS
 - Synergy with B12/folate for optimal methylation
 
-**Zettels extracted:** [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]]
+**Zettels extracted:** [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]
 
 ---
 
@@ -202,12 +202,12 @@ SAH → Homocysteine + Adenosine
 ---
 
 ## Zettels Created from This Source
-1. [[SAM_Synthesis_Universal_Methyl_Donor_Z-001-0407]]
-2. [[SAH_Methylation_Inhibitor_Ratio_Z-001-0408]]
-3. [[DNA_Methylation_Epigenetic_Regulation_Z-001-0409]]
-4. [[Histone_Methylation_Chromatin_Structure_Z-001-0410]]
-5. [[Methylation_Cancer_Double_Edged_Sword_Z-001-0411]]
-6. [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]]
+1. [[SAM_Synthesis_Universal_Methyl_Donor_Z-001-0407]
+2. [[SAH_Methylation_Inhibitor_Ratio_Z-001-0408]
+3. [[DNA_Methylation_Epigenetic_Regulation_Z-001-0409]
+4. [[Histone_Methylation_Chromatin_Structure_Z-001-0410]
+5. [[Methylation_Cancer_Double_Edged_Sword_Z-001-0411]
+6. [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]
 
 ---
 

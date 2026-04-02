@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, nutrition, history, keys, saturated-fat, 1950s]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Dietary_Fat_History_L-001-0210]]
+source-litnote: [[LitNote_Dietary_Fat_History_L-001-0210]
 extraction-date: 2026-03-01
 ---
 
@@ -117,8 +117,8 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Dietary_Fat_History_L-001-0210]]*  
+*Source: [[LitNote_Dietary_Fat_History_L-001-0210]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]

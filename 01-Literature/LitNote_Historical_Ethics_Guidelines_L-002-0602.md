@@ -29,35 +29,35 @@ extraction-date: 2026-03-27
 
 Established in response to Nazi medical atrocities during the Doctors' Trial. Introduced foundational principles: voluntary informed consent, avoidance of unnecessary harm, scientific validity, and right to withdraw.
 
-**Zettel extracted:** [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
+**Zettel extracted:** [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]
 
 ### 2. Declaration of Helsinki (1964, revised 1975, 1983, 1989, 1996, 2000, 2008, 2013)
 > "The health of my patient will be my first consideration."
 
 World Medical Association's international standard distinguishing therapeutic from non-therapeutic research. Emphasizes informed consent, independent ethical review, and patient welfare prioritization.
 
-**Zettel extracted:** [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
+**Zettel extracted:** [[Declaration_Helsinki_Research_Ethics_Z-002-0609]
 
 ### 3. Belmont Report (1979)
 > "Respect for persons, beneficence, and justice."
 
 U.S. National Commission's foundational document establishing three core principles. Led to IRB establishment and 45 CFR 46 (Common Rule) regulations for federally funded research.
 
-**Zettel extracted:** [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
+**Zettel extracted:** [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]
 
 ### 4. CIOMS International Ethical Guidelines (1982, revised 1993, 2002, 2016)
 > "Ethical guidelines for biomedical research involving human subjects in resource-limited settings."
 
 Council for International Organizations of Medical Sciences and WHO collaboration. Addresses vulnerable populations, international research ethics, and capacity building in developing countries.
 
-**Zettel extracted:** [[CIOMS_International_Research_Ethics_Z-002-0611]]
+**Zettel extracted:** [[CIOMS_International_Research_Ethics_Z-002-0611]
 
 ### 5. ICH Good Clinical Practice (1996)
 > "A standard for the design, conduct, performance, monitoring, auditing, recording, analyses, and reporting of clinical trials."
 
 International Conference on Harmonization unified European, American, and Japanese standards. Now the global standard for pharmaceutical trials with enforceable regulatory requirements.
 
-**Zettel extracted:** [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+**Zettel extracted:** [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]
 
 ## Historical Timeline
 
@@ -88,16 +88,16 @@ METHAP must comply with:
 - **National regulations** — Greek ethics committee requirements
 
 ## Zettels Created from This Source
-1. [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]] — First international ethics code
-2. [[Declaration_Helsinki_Research_Ethics_Z-002-0609]] — WMA international standard
-3. [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]] — Three core principles
-4. [[CIOMS_International_Research_Ethics_Z-002-0611]] — Developing country research
-5. [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]] — Global pharmaceutical standard
+1. [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608] — First international ethics code
+2. [[Declaration_Helsinki_Research_Ethics_Z-002-0609] — WMA international standard
+3. [[Belmont_Report_Ethical_Principles_1979_Z-002-0610] — Three core principles
+4. [[CIOMS_International_Research_Ethics_Z-002-0611] — Developing country research
+5. [[ICH_Good_Clinical_Practice_GCP_Z-002-0612] — Global pharmaceutical standard
 
 ## Related References
-- [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]] — Modern operationalization of principles
+- [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601] — Modern operationalization of principles
 -  — Master map of research ethics concepts
-- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0613]] — Historical violation leading to Belmont
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0613] — Historical violation leading to Belmont
 
 ---
 

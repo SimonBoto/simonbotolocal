@@ -19,10 +19,10 @@ Common confusion:
 - “Acute care solves chronic disease.” (Acute tools can stabilize, but rarely reverse chronic drivers alone.)
 
 Related links:
-- [[Zettel_Level1_Excels_In_Acute_And_Emergency_Care]]
-- [[Zettel_Level1_Limits_In_Chronic_Disease_Symptom_Relief_Not_Cause_Correction]]
-- [[Rule_Select_Medical_Level_By_Timecourse_Structural_Problem_And_Target]]
-- [[Zettel_Four_Levels_Of_Medicine_Framework_Claim_And_Expected_Use]]
+- [[Zettel_Level1_Excels_In_Acute_And_Emergency_Care]
+- [[Zettel_Level1_Limits_In_Chronic_Disease_Symptom_Relief_Not_Cause_Correction]
+- [[Rule_Select_Medical_Level_By_Timecourse_Structural_Problem_And_Target]
+- [[Zettel_Four_Levels_Of_Medicine_Framework_Claim_And_Expected_Use]
 
 Needs_Evidence: no
 Open_Loops:

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mgp, vascular-calcification, inhibitor, protection]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Vascular_Calcification_L-001-0215]]
+source-litnote: [[LitNote_Vascular_Calcification_L-001-0215]
 extraction-date: 2026-03-01
 ---
 
@@ -81,8 +81,8 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Vascular_Calcification_L-001-0215]]*  
-*Related: [[MGP_Vascular_Protection_Synergy_Z-001-0255]]*  
+*Source: [[LitNote_Vascular_Calcification_L-001-0215]*  
+*Related: [[MGP_Vascular_Protection_Synergy_Z-001-0255]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES

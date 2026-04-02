@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Understanding Dalton Units"
 date: 2024-08-29
 source: ChatGPT conversation history
-aliases: [CGPT-0301]
+aliases: CGPT-0301]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

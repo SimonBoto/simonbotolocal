@@ -7,7 +7,7 @@ domain: 101
 tags: [zettel, adipate, palmitate, omega-oxidation, beta-oxidation, fatty-acid-metabolism]
 parent-moc: 
 status: conscious
-source-litnote: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]]"
+source-litnote: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]"
 extraction-date: 2026-03-02
 ---
 
@@ -50,9 +50,9 @@ Elevated adipate in urine = evidence of impaired  fatty acid oxidation
 
 ---
 
-*See also: [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]*
+*See also: [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]*
 
 
 ## RELATED FILES
 - 
-- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]|Z-001-1196]]
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]|Z-001-1196]

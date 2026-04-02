@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, nutrition, history, crisco, procter-gamble, marketing]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Dietary_Fat_History_L-001-0210]]
+source-litnote: [[LitNote_Dietary_Fat_History_L-001-0210]
 extraction-date: 2026-03-01
 ---
 
@@ -114,9 +114,9 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Dietary_Fat_History_L-001-0210]]*  
+*Source: [[LitNote_Dietary_Fat_History_L-001-0210]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
 - 

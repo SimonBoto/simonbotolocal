@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Chemical Type of Ascorbate"
 date: 2023-10-10
 source: ChatGPT conversation history
-aliases: [CGPT-0549]
+aliases: CGPT-0549]
 tags: [chatgpt-archive, adipic_acid]
 status: archived
 ---

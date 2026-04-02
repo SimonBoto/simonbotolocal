@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Time Organization Assistance"
 date: 2024-02-10
 source: ChatGPT conversation history
-aliases: [CGPT-0504]
+aliases: CGPT-0504]
 tags: [chatgpt-archive, general]
 status: archived
 ---

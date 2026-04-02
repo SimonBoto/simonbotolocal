@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Protein and Kidney Disease."
 date: 2024-05-26
 source: ChatGPT conversation history
-aliases: [CGPT-0370]
+aliases: CGPT-0370]
 tags: [chatgpt-archive, clinical, phd_research, nutrition]
 status: archived
 ---

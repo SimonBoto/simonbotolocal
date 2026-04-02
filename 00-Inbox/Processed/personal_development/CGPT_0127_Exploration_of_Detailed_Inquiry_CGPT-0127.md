@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Exploration of Detailed Inquiry"
 date: 2025-03-13
 source: ChatGPT conversation history
-aliases: [CGPT-0127]
+aliases: CGPT-0127]
 tags: [chatgpt-archive, personal_development]
 status: archived
 ---

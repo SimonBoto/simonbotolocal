@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Effective Charts for Data"
 date: 2023-11-25
 source: ChatGPT conversation history
-aliases: [CGPT-0527]
+aliases: CGPT-0527]
 tags: [chatgpt-archive, metabolomics, clinical]
 status: archived
 ---

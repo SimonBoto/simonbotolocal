@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, mitochondria, knockout, POLG, TFAM, disease-models, mtDNA]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]]"
+source-litnote: "[[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]"
 status: conscious
 ---
 
@@ -130,10 +130,10 @@ status: conscious
 
 ## Related
 
-- _Metastasis_Z-001-1167]]
-- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]]
-- [[Respiratory_Chain_Complex_Deficiencies_Z-001-1169]]
+- _Metastasis_Z-001-1167]
+- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]
+- [[Respiratory_Chain_Complex_Deficiencies_Z-001-1169]
 
 ---
 
-*Source: [[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]] | 2026-03-08*
+*Source: [[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622] | 2026-03-08*

@@ -32,7 +32,7 @@ source-litnote: Synthesized from clinical practice
 
 ### What Serum Iron Measures
 
-**Iron in circulation bound to [[TIBC_Total_Iron_Binding_Capacity_Z-003-0002]|transferrin]]:**
+**Iron in circulation bound to [[TIBC_Total_Iron_Binding_Capacity_Z-003-0002]|transferrin]:**
 - Not "free" iron (would be toxic)
 - Represents immediate delivery pool
 - ~0.1% of total body iron
@@ -192,10 +192,10 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Z-003-0001|Ferritin — Iron Storage]]
-- [[Z-003-0002|TIBC — Total Iron Binding Capacity]]
-- [[Z-003-0003|Transferrin Saturation]]
-- [[Iron_Family_[B-003-0001]|Iron Studies Family Guide]]
+- [[Z-003-0001|Ferritin — Iron Storage]
+- [[Z-003-0002|TIBC — Total Iron Binding Capacity]
+- [[Z-003-0003|Transferrin Saturation]
+- [[Iron_Family_[B-003-0001]|Iron Studies Family Guide]
 
 source-litnote: Synthesized from clinical practice
 ---

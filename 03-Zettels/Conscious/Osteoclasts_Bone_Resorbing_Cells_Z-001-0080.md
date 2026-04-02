@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, cellular-mechanisms]
 parent-moc: 
-source: [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]]
+source: [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -20,8 +20,8 @@ Osteoclasts are multinucleated cells originating from the monocyte-macrophage li
 ## Links
 
 **Parent MOC:** 
-**Source:** s_L-001-0011]]
-**Related:** [[RANK_RANKL_OPG_Osteoclast_Regulation_Z-001-0082]], [[Osteoblasts_Bone_Forming_Cells_Z-001-0081]]
+**Source:** s_L-001-0011]
+**Related:** [[RANK_RANKL_OPG_Osteoclast_Regulation_Z-001-0082], [[Osteoblasts_Bone_Forming_Cells_Z-001-0081]
 
 ---
 
@@ -29,5 +29,5 @@ Osteoclasts are multinucleated cells originating from the monocyte-macrophage li
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

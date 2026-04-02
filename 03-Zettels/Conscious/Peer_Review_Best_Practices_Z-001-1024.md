@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, peer-review, manuscript-review, critical-appraisal, scientific-integrity, reviewer-responsibilities, recommendation, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Manuscript_Review_Critical_Concerns_L-001-0586]]
+source-litnote: [[LitNote_Manuscript_Review_Critical_Concerns_L-001-0586]
 status: conscious
 ---
 
@@ -370,12 +370,12 @@ Peer review is the quality control  of scientific publishing. Effective review r
 
 ---
 
-**Related:** [[Meta_Analysis_Statistics_Z-001-1000]] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999]] | [[GRADE_Certainty_Evidence_Z-001-1001]]
+**Related:** [[Meta_Analysis_Statistics_Z-001-1000] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999] | [[GRADE_Certainty_Evidence_Z-001-1001]
 
 **Source:** CGPT-0551 — Manuscript Review Critical Concerns
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "PhD Progress Report Template"
 date: 2024-12-03
 source: ChatGPT conversation history
-aliases: [CGPT-0233]
+aliases: CGPT-0233]
 tags: [chatgpt-archive, insulin_resistance, vitamin_d, clinical, phd_research]
 status: archived
 ---

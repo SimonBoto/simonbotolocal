@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "OK if no ///"
 date: 2023-11-05
 source: ChatGPT conversation history
-aliases: [CGPT-0538]
+aliases: CGPT-0538]
 tags: [chatgpt-archive, general]
 status: archived
 ---

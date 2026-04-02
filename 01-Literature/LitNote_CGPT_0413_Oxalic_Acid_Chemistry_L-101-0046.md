@@ -16,7 +16,7 @@ extraction-date: 2026-03-28
 # Lit: Oxalic Acid — Chemistry, Uses, and Metabolic Pathways
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0413_Oxalic_Acid_Uses_Form_[CGPT-0413]]
+- **ChatGPT conversation:** [[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]
 - **Date:** April 16, 2024
 - **Messages:** 67
 - **ID:** 1a2026b6
@@ -76,20 +76,20 @@ extraction-date: 2026-03-28
 ### Oxalic Acid vs. Ascorbic Acid
 - **Structural similarity:** Both carboxylic acids, both plant-derived
 - **Functional difference:** Vitamin C = essential nutrient; oxalic acid = mineral chelator
-- **Metabolic link:** Ascorbate CAN convert to oxalate (see [[CGPT_0505_Vitamin_C_to_Oxalate_[CGPT-0505]])
+- **Metabolic link:** Ascorbate CAN convert to oxalate (see [[CGPT_0505_Vitamin_C_to_Oxalate_CGPT-0505])
 
 ### Glycolic Acid Connection
 - **Glycine → glyoxylate →** can branch to **glycolic acid** OR **oxalic acid**
 - Metabolic disorders at glyoxylate level affect both pathways
 
 ## Zettels Created
-1. [[Oxalic_Acid_Chemistry_Properties_Z-101-0465]] — Structure, forms, physical properties
-2. [[Oxalic_Acid_Dietary_Sources_Z-101-0466]] — High-oxalate food categories
-3. [[Amino_Acid_to_Oxalate_Metabolism_Z-101-0467]] — Glycine/hydroxyproline pathways
-4. [[Oxalate_Clinical_Relevance_Z-101-0468]] — Mineral binding, stones, absorption
+1. [[Oxalic_Acid_Chemistry_Properties_Z-101-0465] — Structure, forms, physical properties
+2. [[Oxalic_Acid_Dietary_Sources_Z-101-0466] — High-oxalate food categories
+3. [[Amino_Acid_to_Oxalate_Metabolism_Z-101-0467] — Glycine/hydroxyproline pathways
+4. [[Oxalate_Clinical_Relevance_Z-101-0468] — Mineral binding, stones, absorption
 
 ## Connections
-- **Related source:** [[CGPT_0505_Vitamin_C_to_Oxalate_[CGPT-0505]] — Ascorbate conversion chemistry
+- **Related source:** [[CGPT_0505_Vitamin_C_to_Oxalate_CGPT-0505] — Ascorbate conversion chemistry
 - **PhD context:** Adipic acid as alternative marker; oxalate as comparator/endogenous source
 - **Clinical:** Kidney stone prevention, mineral supplementation timing
 

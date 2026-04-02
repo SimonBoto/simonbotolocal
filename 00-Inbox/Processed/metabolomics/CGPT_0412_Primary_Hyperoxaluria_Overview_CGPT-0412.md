@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Primary Hyperoxaluria Overview"
 date: 2024-04-17
 source: ChatGPT conversation history
-aliases: [CGPT-0412]
+aliases: CGPT-0412]
 tags: [chatgpt-archive, metabolomics]
 status: archived
 ---

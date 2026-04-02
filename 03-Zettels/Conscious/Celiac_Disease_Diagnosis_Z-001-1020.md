@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, celiac-disease, gluten, ttg-iga, biopsy, villous-atrophy, hla-dq2, hla-dq8, gluten-free-diet, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]]
+source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious
 ---
 
@@ -360,14 +360,14 @@ Start Gluten-Free Diet
 
 ---
 
-**Related:** [[Gluten_Sensitivity_Non_Celiac_Z-001-1027]] | [[Refractory_Celiac_Disease_Z-001-1028]] | [[Dermatitis_Herpetiformis_Z-001-1029]]
+**Related:** [[Gluten_Sensitivity_Non_Celiac_Z-001-1027] | [[Refractory_Celiac_Disease_Z-001-1028] | [[Dermatitis_Herpetiformis_Z-001-1029]
 
 **Source:** CGPT-0209 — Gastroenterology Registrar Assessment
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

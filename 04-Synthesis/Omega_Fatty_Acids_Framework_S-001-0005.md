@@ -6,15 +6,15 @@ aliases: [S-001-0005, Omega-Framework, Fatty-Acid-Protocol, Seed-Oil-Elimination
 domain: 001
 domain-name: Fatty_Acid_Metabolism
 tags: [synthesis, omega-6, omega-3, fatty-acids, dietary-intervention, inflammation, seed-oils, linoleic-acid, clinical-protocol, living-document]
-parent-moc: [[MOC-Lipid-Metabolism]]
+parent-moc: [[MOC-Lipid-Metabolism]
 status: active
 version: 1.1
 created: 2026-03-30
 last-updated: 2026-04-01
 contributing-zettels:
-  - "[[Omega_6_Bioaccumulation_600_Day_Half_Life_Z-001-0042]]"
-  - "[[Omega_3_Anti_Inflammatory_Resolvins_Z-001-0043]]"
-  - "[[Seed_Oil_Elimination_Protocol_Z-001-0044]]"
+  - "[[Omega_6_Bioaccumulation_600_Day_Half_Life_Z-001-0042]"
+  - "[[Omega_3_Anti_Inflammatory_Resolvins_Z-001-0043]"
+  - "[[Seed_Oil_Elimination_Protocol_Z-001-0044]"
 ---
 
 # Omega Fatty Acids Clinical Framework
@@ -52,18 +52,18 @@ Systematic 3-phase approach over 6-12 months:
 ### 1.1 Historical Context
 
 **Pre-Industrial Era:**
-- [[Pre_Industrial_Seed_Oil_Uses_Z-001-0968]]
+- [[Pre_Industrial_Seed_Oil_Uses_Z-001-0968]
 - Omega-6:Omega-3 ratio: 1-4:1
 - Sources: Whole foods, nuts, seeds (in whole form)
 - No refined seed oils
 
 **The Seed Oil Revolution:**
-- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
+- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]
 - 1911: Procter & Gamble introduces Crisco (cottonseed oil)
 - 1950s-60s: Mass adoption of "vegetable oils"
 - Ancel Keys and the Diet-Heart Hypothesis
-- [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]]
-- [[Ancel_Keys_Scientific_Legacy_Z-001-0527]]
+- [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]
+- [[Ancel_Keys_Scientific_Legacy_Z-001-0527]
 
 **Current State:**
 - Omega-6:Omega-3 ratio: 15-20:1 (average American)
@@ -80,7 +80,7 @@ Systematic 3-phase approach over 6-12 months:
 5. **Storage:** Adipose tissue (major reservoir)
 
 **Rate-Limiting Steps:**
-- [[Fatty_Acid_Subclasses_Desaturase_Pathways_Z-001-1055]]
+- [[Fatty_Acid_Subclasses_Desaturase_Pathways_Z-001-1055]
 - Δ6-desaturase (shared with omega-3 pathway)
 - Δ5-desaturase (shared with omega-3 pathway)
 - Competition between omega-6 and omega-3
@@ -88,7 +88,7 @@ Systematic 3-phase approach over 6-12 months:
 ### 1.3 Bioaccumulation and Half-Life
 
 **Critical Insight:**
-- [[Omega6_Bioaccumulation_Adipose_Half_Life_Z-001-0965]]
+- [[Omega6_Bioaccumulation_Adipose_Half_Life_Z-001-0965]
 - Adipose tissue half-life: 600-680 days (2 years!)
 - This explains why benefits take 6-12 months
 - Adipose serves as slow-release reservoir
@@ -103,7 +103,7 @@ Systematic 3-phase approach over 6-12 months:
 **1. Pro-Inflammatory Eicosanoids:**
 - AA → Prostaglandin E2 (PGE2) — pro-inflammatory
 - AA → Leukotriene B4 (LTB4) — neutrophil chemotaxis
-- [[Proinflammatory_Eicosanoids_AA_Derived_PGE2_LTB4_Z-001-0950]]
+- [[Proinflammatory_Eicosanoids_AA_Derived_PGE2_LTB4_Z-001-0950]
 
 **2. Endocannabinoid System:**
 - AA precursor to anandamide and 2-AG
@@ -111,18 +111,18 @@ Systematic 3-phase approach over 6-12 months:
 - Weight gain
 
 **3. Oxidative Stress:**
-- [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954]]
+- [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954]
 - Polyunsaturated fats prone to oxidation
 - 4-HNE (4-hydroxynonenal) — toxic aldehyde
-- [[Oxidized_LDL_Formation_Atherosclerosis_Z-001-0959]]
+- [[Oxidized_LDL_Formation_Atherosclerosis_Z-001-0959]
 
 **4. Mitochondrial Dysfunction:**
-- [[Omega_6_Mitochondrial_Dysfunction_Z-001-0949]]
+- [[Omega_6_Mitochondrial_Dysfunction_Z-001-0949]
 - Impairs ETC function
 - Increases ROS production
 
 **5. Cardiovascular Controversy:**
-- [[Omega_6_Cardiovascular_Controversy_Z-001-0962]]
+- [[Omega_6_Cardiovascular_Controversy_Z-001-0962]
 - Mixed evidence on heart disease
 - Some studies show harm at high intakes
 
@@ -136,7 +136,7 @@ Systematic 3-phase approach over 6-12 months:
 - Plant source: Flax, chia, walnuts
 - Conversion to EPA: ~5-10%
 - Conversion to DHA: ~2-5%
-- [[Omega_3_Ratio_Evolutionary_Context_Z-001-0948]]
+- [[Omega_3_Ratio_Evolutionary_Context_Z-001-0948]
 
 **Eicosapentaenoic Acid (EPA, 20:5n-3):**
 - Marine source: Fatty fish, fish oil, algae
@@ -156,7 +156,7 @@ Systematic 3-phase approach over 6-12 months:
 - Resolvins, protectins, maresins (specialized pro-resolving mediators)
 
 **Membrane Effects:**
-- [[Omega_3_Incorporation_Membrane_Fluidity_Z-001-0947]]
+- [[Omega_3_Incorporation_Membrane_Fluidity_Z-001-0947]
 - Changes membrane fluidity
 - Affects receptor function
 - Alters lipid raft composition
@@ -168,7 +168,7 @@ Systematic 3-phase approach over 6-12 months:
 ### 2.3 The Ratio Matters
 
 **Evolutionary Ratio:**
-- [[Omega_3_Ratio_Evolutionary_Modern_Z-001-0516]]
+- [[Omega_3_Ratio_Evolutionary_Modern_Z-001-0516]
 - Hunter-gatherers: 1-2:1
 - Pre-industrial: 2-4:1
 - Modern: 15-20:1
@@ -181,7 +181,7 @@ Systematic 3-phase approach over 6-12 months:
 | **10-15:1** | Elevated | Aggressive intervention |
 | **>15:1** | High risk | Maximum intervention |
 
-**Source:** [[Omega6_Omega3_Ratio_Z-001-1016]]
+**Source:** [[Omega6_Omega3_Ratio_Z-001-1016]
 
 ---
 
@@ -190,13 +190,13 @@ Systematic 3-phase approach over 6-12 months:
 ### 3.1 Fatty Acid Testing Options
 
 **1. Plasma Fatty Acids:**
-- [[Plasma_Total_Fatty_Acids_TFA_Profile_Z-001-1146]]
+- [[Plasma_Total_Fatty_Acids_TFA_Profile_Z-001-1146]
 - Reflects recent intake (weeks)
 - Less expensive
 - Good for monitoring short-term changes
 
 **2. RBC Membrane Fatty Acids:**
-- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]]
+- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]
 - Reflects tissue status (months)
 - Gold standard
 - More expensive
@@ -251,11 +251,11 @@ Systematic 3-phase approach over 6-12 months:
 | **Sesame oil** | | Asian cooking (small amounts OK) |
 
 **Why These Are Problematic:**
-- [[Seed_Oil_Refining_Process_RBD_Z-001-0956]]
+- [[Seed_Oil_Refining_Process_RBD_Z-001-0956]
 - Refining, bleaching, deodorizing (RBD process)
 - High heat, chemical solvents
 - Oxidation products
-- [[Extraction_Methods_Expeller_Hexane_Z-001-0955]]
+- [[Extraction_Methods_Expeller_Hexane_Z-001-0955]
 
 **Oils to USE Instead:**
 | Oil | Best For | Notes |
@@ -319,7 +319,7 @@ Systematic 3-phase approach over 6-12 months:
 - Conventional chicken: High omega-6 (grain-fed)
 - Pasture-raised: Better ratio
 - Limit or choose pasture-raised
-- [[Chicken_Poultry_Seed_Oils_Nutrition_Z-001-0517]]
+- [[Chicken_Poultry_Seed_Oils_Nutrition_Z-001-0517]
 
 **Nuts and Seeds (Whole Foods):**
 - Walnuts: ALA source (but high omega-6 too)
@@ -376,7 +376,7 @@ Systematic 3-phase approach over 6-12 months:
 - Reduced triglycerides
 - Improved endothelial function
 - Anti-arrhythmic effects
-- [[Omega_6_Cardiovascular_Controversy_Z-001-0962]]
+- [[Omega_6_Cardiovascular_Controversy_Z-001-0962]
 
 **Protocol:**
 - Omega-3: 2-4 g EPA+DHA
@@ -526,7 +526,7 @@ Systematic 3-phase approach over 6-12 months:
 **Omega-6 Reduction:**
 - Sydney Diet-Heart Study: Re-analysis showed harm from high omega-6
 - Minnesota Coronary Experiment: Re-analysis showed increased mortality with high omega-6
-- [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]] — Reassessment
+- [[Ancel_Keys_Seven_Countries_Study_Z-001-0245] — Reassessment
 
 **Ratio Studies:**
 - Strong epidemiological evidence for low omega-6:3 ratio

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Accessing X Account"
 date: 2024-12-15
 source: ChatGPT conversation history
-aliases: [CGPT-0228]
+aliases: CGPT-0228]
 tags: [chatgpt-archive, metabolomics, vitamin_d]
 status: archived
 ---

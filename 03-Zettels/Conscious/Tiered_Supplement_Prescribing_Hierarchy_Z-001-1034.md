@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Nutrition
 tags: [zettel, supplementation, prescribing, clinical-protocol, hierarchy]
 parent-moc: 
-source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
-source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
+source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
+source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
 confidence: high
 created: 2026-03-08
 ---
@@ -95,7 +95,7 @@ A structured, sequential approach to supplementation that prioritizes foundation
 > "Mechanism-based prescribing, not random supplement shopping."
 
 ## Related
-- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]
 - 
 - 
 
@@ -104,7 +104,7 @@ A structured, sequential approach to supplementation that prioritizes foundation
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- [[Magnesium_Supplementation_Diabetes_Clinical_Trials_Z-001-0213]|Z-001-0213]]
+- [[Magnesium_Supplementation_Diabetes_Clinical_Trials_Z-001-0213]|Z-001-0213]

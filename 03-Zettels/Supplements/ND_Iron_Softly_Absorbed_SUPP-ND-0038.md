@@ -91,10 +91,10 @@ Take 1 capsule daily after food or as directed by your physician.
 | 1 | €0.27 | 25 mg | Standard dose |
 
 ## Biomarker Links
-- [[Ferritin_Iron_Storage_Z-003-0001]] — target 50-100 ng/mL
-- [[Iron_Serum_Transport_Z-003-0002]] — circulating iron
-- [[TIBC_Total_Iron_Binding_Z-003-0003]] — iron transport capacity
-- [[Transferrin_Saturation_Z-003-0004]] — iron availability |
+- [[Ferritin_Iron_Storage_Z-003-0001] — target 50-100 ng/mL
+- [[Iron_Serum_Transport_Z-003-0002] — circulating iron
+- [[TIBC_Total_Iron_Binding_Z-003-0003] — iron transport capacity
+- [[Transferrin_Saturation_Z-003-0004] — iron availability |
 
 ## Comparison with Be Well Multivitamin
 | Feature | Iron Softly Absorbed | Be Well |

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Communal chat explained"
 date: 2025-11-20
 source: ChatGPT conversation history
-aliases: [CGPT-0034]
+aliases: CGPT-0034]
 tags: [chatgpt-archive, technology]
 status: archived
 ---

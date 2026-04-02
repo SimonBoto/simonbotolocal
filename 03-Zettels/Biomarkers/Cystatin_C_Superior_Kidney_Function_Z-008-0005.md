@@ -183,9 +183,9 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Kidney_Function_[B-008-0001]|Kidney Function Panel]]
-- [[Z-008-0001|Creatinine — Muscle Metabolite]]
-- [[Z-008-0002|eGFR — Estimated Glomerular Filtration Rate]]
+- [[Kidney_Function_[B-008-0001]|Kidney Function Panel]
+- [[Z-008-0001|Creatinine — Muscle Metabolite]
+- [[Z-008-0002|eGFR — Estimated Glomerular Filtration Rate]
 
 ---
 *Complete biomarker foundation — Cystatin C*

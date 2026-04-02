@@ -7,8 +7,8 @@ domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, ppp, pentose, ribose, nadph]
 parent-moc: 
-source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
-source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
+source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]
+source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]
 confidence: high
 created: 2026-03-08
 ---
@@ -86,8 +86,8 @@ Glyceraldehyde-3-P + Fructose-6-P (rejoin glycolysis)
 | **** | Upregulates PPP enzymes |
 
 ## Related
-- [[Glucose_Ribose_Interconversion_PPP_Link_Z-001-1091]]
-- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]]
+- [[Glucose_Ribose_Interconversion_PPP_Link_Z-001-1091]
+- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]
 - 
 
 ---
@@ -95,6 +95,6 @@ Glyceraldehyde-3-P + Fructose-6-P (rejoin glycolysis)
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

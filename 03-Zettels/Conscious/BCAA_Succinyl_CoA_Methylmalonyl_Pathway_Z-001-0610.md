@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, bcaa, succinyl-coa, methylmalonyl-coa, vitamin-b12, propionate, amino-acid-metabolism, conscious]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]]
+source-litnote: [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]
 extraction-date: 2026-03-05
 ---
 
@@ -84,14 +84,14 @@ While not directly in this pathway, **MSUD** affects the **earlier step** of BCA
 
 ---
 
-*Source: CGPT-0413 (April 16, 2024) via [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]]*
+*Source: CGPT-0413 (April 16, 2024) via [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]*
 
 
 ## Related
-- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

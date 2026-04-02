@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Find Targeted Metabolomics Data"
 date: 2023-08-27
 source: ChatGPT conversation history
-aliases: [CGPT-0590]
+aliases: CGPT-0590]
 tags: [chatgpt-archive, metabolomics]
 status: archived
 ---

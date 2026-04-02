@@ -86,9 +86,9 @@ Take 1-3 softgels daily after food or as directed by your physician.
 | 3 | €0.97 | 900 mg | Full therapeutic |
 
 ## Biomarker Links
-- [[Triglycerides_Lipid_Status_Z-006-0003]] — omega-3 lowers triglycerides
-- [[Omega_3_Index_RBC_Membrane_Z-006-XXXX]] — target >8%
-- [[Inflammatory_Markers_CRP_IL6_Z-002-XXXX]] — EPA reduces inflammation
+- [[Triglycerides_Lipid_Status_Z-006-0003] — omega-3 lowers triglycerides
+- [[Omega_3_Index_RBC_Membrane_Z-006-XXXX] — target >8%
+- [[Inflammatory_Markers_CRP_IL6_Z-002-XXXX] — EPA reduces inflammation
 
 ## Comparison with My Omega Krill (Meetab)
 | Feature | Clear Omega 3 (ND) | My Omega Krill (Meetab) |

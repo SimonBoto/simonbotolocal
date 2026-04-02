@@ -7,8 +7,8 @@ domain: 001
 domain-name: Hematology Oncology
 tags: [zettel, multiple-myeloma, staging, iss, r-iss]
 parent-moc: 
-source-litnote: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]]
-source: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]]
+source-litnote: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]
+source: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]
 confidence: high
 created: 2026-03-08
 ---
@@ -146,15 +146,15 @@ Staging in multiple myeloma stratifies patients by prognosis using s—primarily
 | **Intensified maintenance** | Proteasome inhibitor + IMiD |
 
 ## Related
-- [[Multiple_Myeloma_CRAB_Features_Diagnosis_Z-001-1131]]
-- [[Multiple_Myeloma_Treatment_Modern_Approach_Z-001-1134]]
-- [[TP53_Multiple_Myeloma_Prognosis_Therapy_Z-001-1135]]
+- [[Multiple_Myeloma_CRAB_Features_Diagnosis_Z-001-1131]
+- [[Multiple_Myeloma_Treatment_Modern_Approach_Z-001-1134]
+- [[TP53_Multiple_Myeloma_Prognosis_Therapy_Z-001-1135]
 - 
 
 ---
 *Source: CGPT-0264 — Warburg effect and *
 
 ## RELATED FILES
-- |Biomarker Family Guide]]
+- |Biomarker Family Guide]
 - 
 

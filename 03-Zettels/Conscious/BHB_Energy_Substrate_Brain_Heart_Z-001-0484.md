@@ -8,7 +8,7 @@ tags: [zettel, bhb, brain, heart, energy, ketones, neuroprotection]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045G]]
+source: [[L-001-0045G]
 ---
 
 # BHB as Energy Substrate for Brain and Heart
@@ -69,8 +69,8 @@ Acetyl-CoA → Krebs cycle → ATP
 ```
 
 ## Related
-- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]] BHB HDAC Inhibition (signaling beyond energy)
-- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]] BHB NLRP3 Inhibition
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485] BHB HDAC Inhibition (signaling beyond energy)
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486] BHB NLRP3 Inhibition
 - 
 
 ---
@@ -78,6 +78,6 @@ Acetyl-CoA → Krebs cycle → ATP
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -15,7 +15,7 @@ extraction-date: 2026-03-09
 # Iodine, Thyroid, and MTHFR Support
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0199_Dysbiosis_Treatment_Side_Effects_[CGPT-0199]]
+- **ChatGPT conversation:** [[CGPT_0199_Dysbiosis_Treatment_Side_Effects_CGPT-0199]]
 - **Date:** January 4, 2025
 - **Messages:** 40-120 (iodine, thyroid, MTHFR)
 
@@ -79,10 +79,10 @@ extraction-date: 2026-03-09
 **My Health:** High niacin, balanced B5/B6 for neurotransmitter support
 
 ## Zettels Created
-1. [[Iodine_Supplementation_Thyroid_Protocol_Z-001-1230]]
-2. [[Selenium_Iodine_Synergy_Toxicity_Z-001-1231]]
-3. [[MTHFR_Methylation_Support_Protocol_Z-001-1232]]
-4. [[B_Complex_Ratios_Clinical_Analysis_Z-001-1233]]
+1. [[Iodine_Supplementation_Thyroid_Protocol_Z-001-1230]
+2. [[Selenium_Iodine_Synergy_Toxicity_Z-001-1231]
+3. [[MTHFR_Methylation_Support_Protocol_Z-001-1232]
+4. [[B_Complex_Ratios_Clinical_Analysis_Z-001-1233]
 
 ## Related
 - 

@@ -40,7 +40,7 @@ source-litnote: Synthesized from clinical practice
 **Metabolic roles:**
 - Energy reserve
 - Insulation/protection
-- [[Vitamin_A_Retinol_Vision_Immune_Z-007-0005]|Fat-soluble vitamin]] transport
+- [[Vitamin_A_Retinol_Vision_Immune_Z-007-0005]|Fat-soluble vitamin] transport
 
 ### Normal Metabolism
 
@@ -230,9 +230,9 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Lipid Ratios Family Guide]]
-- [[Z-006-0001|LDL Cholesterol — Low-Density Lipoprotein]]
-- [[Z-006-0002|HDL Cholesterol — High-Density Lipoprotein]]
+- [[Lipid_Ratios_[B-006-0001]|Lipid Ratios Family Guide]
+- [[Z-006-0001|LDL Cholesterol — Low-Density Lipoprotein]
+- [[Z-006-0002|HDL Cholesterol — High-Density Lipoprotein]
 
 source-litnote: Synthesized from clinical practice
 ---

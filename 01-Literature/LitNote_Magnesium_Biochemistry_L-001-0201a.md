@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Magnesium Biochemistry — Cellular Functions and Metabolic Roles
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_[CGPT-0272]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]]
 - **Date:** October 09, 2024
 - **Scope:** Chapter 5.1 — Detailed magnesium biochemistry for narrative review on micronutrients in metabolic syndrome
 
@@ -39,7 +39,7 @@ Magnesium is an essential cofactor for **over 300 enzymatic reactions** in the h
 - **DNA/RNA polymerases:** Nucleic acid synthesis
 - **Protein kinases:** Signal transduction cascades
 
-**Zettels extracted:** [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_Z-001-0206]]
+**Zettels extracted:** [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_Z-001-0206]
 
 ### 2. Energy Production — Magnesium in Mitochondrial Function
 > "Magnesium's importance in cellular signaling and ion transport."
@@ -59,7 +59,7 @@ Magnesium is indispensable for cellular energy metabolism:
 **β-Oxidation:**
 - Fatty acid activation (acyl-CoA synthetase) requires Mg-ATP
 
-**Zettels extracted:** [[Magnesium_Energy_Production_Mitochondrial_Function_Z-001-0207]]
+**Zettels extracted:** [[Magnesium_Energy_Production_Mitochondrial_Function_Z-001-0207]
 
 ### 3. Ion Transport and Cellular Signaling
 > "Magnesium's importance in cellular signaling and ion transport."
@@ -83,7 +83,7 @@ Magnesium regulates critical ion channels and cellular signaling pathways:
 - Regulates muscle contraction/relaxation
 - Prevents calcium overload and excitotoxicity
 
-**Zettels extracted:** [[Magnesium_Ion_Transport_Cellular_Signaling_Z-001-0208]]
+**Zettels extracted:** [[Magnesium_Ion_Transport_Cellular_Signaling_Z-001-0208]
 
 ### 4. Neuromuscular Function
 > "Magnesium's importance in neuromuscular function."
@@ -102,7 +102,7 @@ Magnesium regulates critical ion channels and cellular signaling pathways:
 - Hypomagnesemia → tetany, seizures, arrhythmias
 - Therapeutic use: Mg sulfate in eclampsia, preterm labor, arrhythmias
 
-**Zettels extracted:** [[Magnesium_Neuromuscular_Function_Neurotransmission_Z-001-0209]]
+**Zettels extracted:** [[Magnesium_Neuromuscular_Function_Neurotransmission_Z-001-0209]
 
 ### 5. Magnesium-Vitamin D Interaction (Critical for METHAP)
 > "Magnesium acts as a cofactor for enzymes involved in the conversion of vitamin D into its active form."
@@ -128,7 +128,7 @@ Magnesium regulates critical ion channels and cellular signaling pathways:
 - Mg deficiency will limit therapeutic response to vitamin D
 - Monitoring: Serum Mg should be optimized before and during high-dose D therapy
 
-**Zettels extracted:** [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+**Zettels extracted:** [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]
 
 ---
 
@@ -159,16 +159,16 @@ Magnesium regulates critical ion channels and cellular signaling pathways:
 ---
 
 ## Zettels Created from This Source
-1. [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_Z-001-0206]]
-2. [[Magnesium_Energy_Production_Mitochondrial_Function_Z-001-0207]]
-3. [[Magnesium_Ion_Transport_Cellular_Signaling_Z-001-0208]]
-4. [[Magnesium_Neuromuscular_Function_Neurotransmission_Z-001-0209]]
-5. [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]
+1. [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_Z-001-0206]
+2. [[Magnesium_Energy_Production_Mitochondrial_Function_Z-001-0207]
+3. [[Magnesium_Ion_Transport_Cellular_Signaling_Z-001-0208]
+4. [[Magnesium_Neuromuscular_Function_Neurotransmission_Z-001-0209]
+5. [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]
 
 ## Related References
-- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — Mg as VitD cofactor
-- [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]] — Pediatric safety (Mg monitoring)
-- [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]] — Clinical context
+- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008] — Mg as VitD cofactor
+- [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009] — Pediatric safety (Mg monitoring)
+- [[LitNote_Metabolic_Syndrome_Overview_L-001-0200] — Clinical context
 -  — Parent MOC
 -  — VitD pathway context
 

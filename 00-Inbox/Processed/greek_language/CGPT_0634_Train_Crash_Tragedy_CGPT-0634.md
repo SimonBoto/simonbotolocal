@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Train Crash Tragedy"
 date: 2023-05-19
 source: ChatGPT conversation history
-aliases: [CGPT-0634]
+aliases: CGPT-0634]
 tags: [chatgpt-archive, greek_language]
 status: archived
 ---

@@ -19,8 +19,8 @@ status: blocked
 
 | Note | Purpose |
 |------|---------|
-| [[PhD Index]] | This index — PhD hub |
-| [[Research_Agenda]] | 62 hypotheses prioritized |
+| [[PhD Index] | This index — PhD hub |
+| [[Research_Agenda] | 62 hypotheses prioritized |
 
 ---
 
@@ -70,7 +70,7 @@ Original IRB target: March 15, 2026 (MISSED)
 
 | Biomarker | Relevance | Status | Source |
 |-----------|-----------|--------|--------|
-| **Adipic acid** | IR early detection | Under investigation | [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]] |
+| **Adipic acid** | IR early detection | Under investigation | [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041] |
 | **miR-21** | Inflammation marker | Literature review | — |
 | **miR-155** | Autoimmune signaling | Literature review | — |
 | **Butyrate** | Gut-thyroid axis | Hypothesis stage | — |
@@ -113,11 +113,11 @@ While waiting for university:
 
 ## 🔗 CONNECTION TO VAULT
 
-- Up: [[07 Projects Index]]
-- Related: [[Clinic Index]] (research feeds clinic)
-- Source: [[Research_Agenda]] — 62 hypotheses from 2 years
-- Biomarkers: [[MOC-Biomarkers]] — Classification system
-- Mechanisms: [[MOC-Insulin-Signaling]] — Mechanism maps
+- Up: [[07 Projects Index]
+- Related: [[Clinic Index] (research feeds clinic)
+- Source: [[Research_Agenda] — 62 hypotheses from 2 years
+- Biomarkers: [[MOC-Biomarkers] — Classification system
+- Mechanisms: [[MOC-Insulin-Signaling] — Mechanism maps
 
 ---
 
@@ -135,7 +135,7 @@ While waiting for university:
 ## 📝 ACTIVE NOTES
 
 From ChatGPT extraction:
-- [[S_ChatGPT_Methodology_Evolution_S-001-0001]] — Methodology development arc
+- [[S_ChatGPT_Methodology_Evolution_S-001-0001] — Methodology development arc
 - Research Agenda — Prioritized hypotheses
 - Partnership Playbook — How we work together
 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Job Security Concerns"
 date: 2024-08-23
 source: ChatGPT conversation history
-aliases: [CGPT-0306]
+aliases: CGPT-0306]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition, communication]
 status: archived
 ---

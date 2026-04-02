@@ -61,7 +61,7 @@ tags: [ref,
 ## 🔗 Connected to Our Work
 
 ### Methods
-- [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620]] — Metabolomics standardization
+- [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620] — Metabolomics standardization
 
 ---
 

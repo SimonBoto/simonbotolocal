@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Article Review for Frontiers"
 date: 2023-09-10
 source: ChatGPT conversation history
-aliases: [CGPT-0577]
+aliases: CGPT-0577]
 tags: [chatgpt-archive, clinical, consciousness_ai]
 status: archived
 ---

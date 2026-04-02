@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, calcium, paradox, vitamin-d, vitamin-k2, bone, arteries]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]
+source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]
 extraction-date: 2026-03-01
 ---
 
@@ -120,6 +120,6 @@ Result: Strong bones + Clear arteries
 
 ---
 
-*Source: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]*  
-*Related: [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]]*  
+*Source: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]*  
+*Related: [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]*  
 *Extracted: 2026-03-01*

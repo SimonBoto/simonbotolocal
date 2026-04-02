@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Optimal Biochemical Ranges Assessment"
 date: 2025-03-26
 source: ChatGPT conversation history
-aliases: [CGPT-0113]
+aliases: CGPT-0113]
 tags: [chatgpt-archive, clinical, personal_development]
 status: archived
 ---

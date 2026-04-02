@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, gut-microbiome, dysbiosis, LPS, metabolic-endotoxemia, tight-junctions]
 parent-moc: 
-source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
+source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
 confidence: high
 created: 2026-02-24
 ---
@@ -33,9 +33,9 @@ Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muc
 
 ## Links
 
-- **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md]] — Diet changes drive dysbiosis
-- **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md]] — LPS activates inflammatory signaling
-- **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md]] — Systemic IR develops
+- **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md] — Diet changes drive dysbiosis
+- **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md] — LPS activates inflammatory signaling
+- **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — Systemic IR develops
 
 ## Context
 
@@ -49,6 +49,6 @@ Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muc
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

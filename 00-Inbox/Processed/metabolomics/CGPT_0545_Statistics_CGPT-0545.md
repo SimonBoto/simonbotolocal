@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Statistics "
 date: 2023-08-21
 source: ChatGPT conversation history
-aliases: [CGPT-0545]
+aliases: CGPT-0545]
 tags: [chatgpt-archive, metabolomics, technology]
 status: archived
 ---

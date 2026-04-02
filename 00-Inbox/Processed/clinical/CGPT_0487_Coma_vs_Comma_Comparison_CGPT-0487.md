@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Coma vs. Comma Comparison"
 date: 2023-10-21
 source: ChatGPT conversation history
-aliases: [CGPT-0487]
+aliases: CGPT-0487]
 tags: [chatgpt-archive, clinical, consciousness_ai]
 status: archived
 ---

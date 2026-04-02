@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mass Blocking Vater Diagnosis"
 date: 2024-08-20
 source: ChatGPT conversation history
-aliases: [CGPT-0308]
+aliases: CGPT-0308]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

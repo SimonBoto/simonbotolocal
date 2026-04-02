@@ -108,9 +108,9 @@ Ketones provide:
 | 3 (15 ml) | €0.96 | 14 g | Full dose |
 
 ## Biomarker Links
-- [[Ketones_BHB_AcAc_Z-005-XXXX]] — blood ketone levels
-- [[Glucose_Blood_Sugar_Energy_Z-005-0001]] — should remain stable |
-- [[Triglycerides_Lipid_Status_Z-006-0003]] — MCTs don't raise triglycerides |
+- [[Ketones_BHB_AcAc_Z-005-XXXX] — blood ketone levels
+- [[Glucose_Blood_Sugar_Energy_Z-005-0001] — should remain stable |
+- [[Triglycerides_Lipid_Status_Z-006-0003] — MCTs don't raise triglycerides |
 
 ## Comparison with Other MCT Products
 | Feature | Keto MCT C8 (ND) | Generic MCT Oil |

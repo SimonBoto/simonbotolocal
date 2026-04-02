@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Laser Gun Blue Exclusion"
 date: 2024-03-03
 source: ChatGPT conversation history
-aliases: [CGPT-0489]
+aliases: CGPT-0489]
 tags: [chatgpt-archive, general]
 status: archived
 ---

@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Communication
 tags: [zettel, objections, scripts, communication]
 parent-moc: 
-source-litnote: [[LitNote_Patient_Communication_Scripts_L-001-0595]]
-source: [[LitNote_Patient_Communication_Scripts_L-001-0595]]
+source-litnote: [[LitNote_Patient_Communication_Scripts_L-001-0595]
+source: [[LitNote_Patient_Communication_Scripts_L-001-0595]
 confidence: high
 created: 2026-03-08
 ---
@@ -71,7 +71,7 @@ Pre-scripted responses to common patient objections—validated, reframed, actio
 > "Great question. Organic acids testing has decades of clinical use. The metabolites we measure—lactate, pyruvate, methylmalonate—are textbook biochemistry. Would you like to see the references?"
 
 ## Related
-- [[Difficult_Conversation_Navigation_Z-001-1072]]
+- [[Difficult_Conversation_Navigation_Z-001-1072]
 - 
 
 ---
@@ -79,4 +79,4 @@ Pre-scripted responses to common patient objections—validated, reframed, actio
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

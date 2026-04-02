@@ -7,7 +7,7 @@ domain: 101
 tags: [zettel, dicarboxylic-acid, adipate, suberate, sebacate, urine-organic-acid, IR-marker]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]]"
+source: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]"
 extraction-date: 2026-03-02
 source-litnote: Synthesized from clinical practice
 ---
@@ -76,10 +76,10 @@ source-litnote: Synthesized from clinical practice
 
 ---
 
-*See also: _TCA_Entry_Z-101-0010]]*
+*See also: _TCA_Entry_Z-101-0010]*
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

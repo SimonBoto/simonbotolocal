@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Protocols
 tags: [zettel, hbot, clinical, safety, contraindications]
 parent-moc: 
-source-litnote: [[LitNote_HBOT_Cancer_L-001-0614]]
-source: [[LitNote_HBOT_Cancer_L-001-0614]]
+source-litnote: [[LitNote_HBOT_Cancer_L-001-0614]
+source: [[LitNote_HBOT_Cancer_L-001-0614]
 confidence: high
 created: 2026-03-08
 ---
@@ -162,8 +162,8 @@ Hyperbaric oxygen therapy has established indications for radiation-related comp
 | **Quality of life** | Ongoing |
 
 ## Related
-- [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]]
-- [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]]
+- [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]
+- [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]
 - 
 
 ---
@@ -171,6 +171,6 @@ Hyperbaric oxygen therapy has established indications for radiation-related comp
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, advanced-markers, apob, ldl-particle, lpa, remnant]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]]
+source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]
 extraction-date: 2026-03-01
 ---
 
@@ -57,10 +57,10 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Cholesterol_Biology_L-001-0501]]*
+*Source: [[LitNote_Cholesterol_Biology_L-001-0501]*
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

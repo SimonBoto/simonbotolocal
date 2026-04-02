@@ -7,7 +7,7 @@ domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, irb, administration, practical]
 parent-moc: 
-source-litnote: "[[LitNote_Ethics_Committee_Communication_L-002-0603]]"
+source-litnote: "[[LitNote_Ethics_Committee_Communication_L-002-0603]"
 confidence: medium
 created: 2026-03-27
 ---
@@ -84,9 +84,9 @@ NKUA ethics committee timeline:
 
 ## Links
 
-**Parent MOC:** -Ethics]]  
-**Source:** [[LitNote_Ethics_Committee_Communication_L-002-0603]]  
-**Related:** [[IRB_Communication_Template_Z-002-0614]] — Message templates
+**Parent MOC:** -Ethics]  
+**Source:** [[LitNote_Ethics_Committee_Communication_L-002-0603]  
+**Related:** [[IRB_Communication_Template_Z-002-0614] — Message templates
 
 ---
 
@@ -94,4 +94,4 @@ NKUA ethics committee timeline:
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

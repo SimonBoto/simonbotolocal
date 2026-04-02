@@ -5,7 +5,7 @@ type: index
 title: "04-Synthesis — Living Documents"
 aliases: [Synthesis, Living Docs, Aggregates]
 tags: [index, synthesis, living-documents, aggregation, navigation, folder]
-parent-index: [[00-MISSION]]
+parent-index: [[00-MISSION]
 status: active
 ---
 
@@ -75,7 +75,7 @@ Topic_Synthesis_[S-{DDD}-{SSSS}].md
 
 ## 📝 Synthesis Template
 
-See: [[06-Structure/Templates/Template_Synthesis_v1.0|Template_Synthesis_v1.0.md]]
+See: [[06-Structure/Templates/Template_Synthesis_v1.0|Template_Synthesis_v1.0.md]
 
 **Standard structure:**
 1. Core Definition (current understanding)
@@ -92,7 +92,7 @@ See: [[06-Structure/Templates/Template_Synthesis_v1.0|Template_Synthesis_v1.0.md
 
 ← **Back to ** — Atomic Knowledge  
 → **Next: ** — Active Work  
-↑ **Parent: [[00-MISSION]]**
+↑ **Parent: [[00-MISSION]**
 
 **Siblings:**
  |  |  |  |  |  |  | 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Seven Countries Study Summary"
 date: 2025-07-14
 source: ChatGPT conversation history
-aliases: [CGPT-0074]
+aliases: CGPT-0074]
 tags: [chatgpt-archive, phd_research, nutrition]
 status: archived
 ---

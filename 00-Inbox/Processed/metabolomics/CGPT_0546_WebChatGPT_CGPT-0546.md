@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "WebChatGPT"
 date: 2023-10-13
 source: ChatGPT conversation history
-aliases: [CGPT-0546]
+aliases: CGPT-0546]
 tags: [chatgpt-archive, metabolomics, insulin_resistance]
 status: archived
 ---

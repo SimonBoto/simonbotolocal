@@ -7,8 +7,8 @@ domain: 001
 domain-name: Nucleotide Metabolism
 tags: [zettel, nucleoside, phosphorylation, metabolism]
 parent-moc: 
-source-litnote: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
-source: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
+source-litnote: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]
+source: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]
 confidence: high
 created: 2026-03-08
 ---
@@ -108,9 +108,9 @@ Level 4: NTP (ATP) - triphosphate, high energy, fully functional
 | **5-Fluorouracil** | Pyrimidine analog, disrupts DNA synthesis |  |
 
 ## Related
-- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]]
-- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]]
-- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]]
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]
+- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]
 - 
 
 ---
@@ -118,4 +118,4 @@ Level 4: NTP (ATP) - triphosphate, high energy, fully functional
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

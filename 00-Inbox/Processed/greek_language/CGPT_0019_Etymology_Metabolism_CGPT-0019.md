@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Etymology Metabolism "
 date: 2025-12-31
 source: ChatGPT conversation history
-aliases: [CGPT-0019]
+aliases: CGPT-0019]
 tags: [chatgpt-archive, greek_language, technology]
 status: archived
 ---

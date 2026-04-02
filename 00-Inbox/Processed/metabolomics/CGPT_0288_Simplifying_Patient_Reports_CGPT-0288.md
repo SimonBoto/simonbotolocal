@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Simplifying Patient Reports"
 date: 2024-09-15
 source: ChatGPT conversation history
-aliases: [CGPT-0288]
+aliases: CGPT-0288]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition, personal_development]
 status: archived
 ---

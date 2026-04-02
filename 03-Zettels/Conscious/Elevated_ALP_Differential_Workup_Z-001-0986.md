@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, alp, alkaline-phosphatase, differential-diagnosis, workup, liver, bone, cholestasis, algorithm, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]]
+source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]
 status: conscious
 ---
 
@@ -297,17 +297,17 @@ Labs            tumor markers    expected
 
 ---
 
-**Related:** [[ALP_Isoenzymes_Tissue_Sources_Z-001-0983]] | [[Pagets_Disease_Bone_Diagnosis_Management_Z-001-0984]] | [[Breast_Pagets_Disease_Distinct_Entity_Z-001-0985]]
+**Related:** [[ALP_Isoenzymes_Tissue_Sources_Z-001-0983] | [[Pagets_Disease_Bone_Diagnosis_Management_Z-001-0984] | [[Breast_Pagets_Disease_Distinct_Entity_Z-001-0985]
 
 **Source:** CGPT-0345 — Alkaline Phosphatase Overview
 
 
 ## Related
-- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]|Z-001-0257]]
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]|Z-001-0257]
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

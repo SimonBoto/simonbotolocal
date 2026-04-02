@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Vitamin D K2 MetS Review"
 date: 2024-11-17
 source: ChatGPT conversation history
-aliases: [CGPT-0248]
+aliases: CGPT-0248]
 tags: [chatgpt-archive, vitamin_d]
 status: archived
 ---

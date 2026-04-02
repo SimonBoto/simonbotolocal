@@ -14,7 +14,7 @@ title: "Title: Seed-Oils Consumption: Current Trends and Implications on Human H
 
 ..."
 date: 2024-09-24
-source: "[[CGPT_0278_Insulin_Resistance_Toxicology_Review_[CGPT-0278]]"
+source: "[[CGPT_0278_Insulin_Resistance_Toxicology_Review_CGPT-0278]"
 aliases: [X-MET-240924-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
@@ -66,8 +66,8 @@ Thank you for your understanding and s...
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]
 
 ## Status
 

@@ -7,8 +7,8 @@ domain: 001
 domain-name: PhD Research
 tags: [zettel, methap, control-group, reference, strategy]
 parent-moc: 
-source-litnote: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]]
-source: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]]
+source-litnote: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]
+source: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]
 ethical-consideration: control-group-receives-standard-care
 ---
 
@@ -119,16 +119,16 @@ Reference          Natural course           Treatment effect
 | **Responder analysis** | % achieving threshold |
 
 ## Related
-- [[METHAP_Study_Population_Recruitment_Strategy_Z-001-1141]]
-- [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]]
+- [[METHAP_Study_Population_Recruitment_Strategy_Z-001-1141]
+- [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]
 - 
 
 ---
 *Source: CGPT-0475 — Metabolic  for insulin resistance*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Diabetes Metabolomics Research Insights"
 date: 2023-09-16
 source: ChatGPT conversation history
-aliases: [CGPT-0562]
+aliases: CGPT-0562]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, nutrition]
 status: archived
 ---

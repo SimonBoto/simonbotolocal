@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mevalonate Pathway: Enzymes & Cofactors"
 date: 2024-05-15
 source: ChatGPT conversation history
-aliases: [CGPT-0391]
+aliases: CGPT-0391]
 tags: [chatgpt-archive, phd_research, consciousness_ai]
 status: archived
 ---

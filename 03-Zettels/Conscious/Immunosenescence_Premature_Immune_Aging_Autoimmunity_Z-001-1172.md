@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, immunosenescence, aging, autoimmunity, inflammaging, immune-dysfunction]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]]"
+source-litnote: "[[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]"
 status: conscious
 ---
 
@@ -106,15 +106,15 @@ More Inflammation / Opportunistic Infections
 
 ## Related
 
-- [[Naive_TCell_Depletion_Autoimmunity_Z-001-1182]]
-- [[Inflammation_Oxidative_Stress_Cycle_Z-001-1180]]
+- [[Naive_TCell_Depletion_Autoimmunity_Z-001-1182]
+- [[Inflammation_Oxidative_Stress_Cycle_Z-001-1180]
 
 ---
 
-*Source: [[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]] | 2026-03-08*
+*Source: [[LitNote_Telomere_Biology_Autoimmunity_L-001-0623] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

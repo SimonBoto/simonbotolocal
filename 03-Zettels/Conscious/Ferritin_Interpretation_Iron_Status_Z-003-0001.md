@@ -44,16 +44,16 @@ source-litnote: Synthesized from clinical practice
 ## 🔗 Connected Systems
 
 **Iron :**
-- [[Iron_Status_Patterns_ACD_Overload_Z-003-0013.md]] — Iron status patterns (deficiency vs anemia of chronic disease)
-- [[Iron_Studies_TIBC_Transferrin_Sat_Z-003-0002.md]] — Transferrin/TIBC (transport capacity)
+- [[Iron_Status_Patterns_ACD_Overload_Z-003-0013.md] — Iron status patterns (deficiency vs anemia of chronic disease)
+- [[Iron_Studies_TIBC_Transferrin_Sat_Z-003-0002.md] — Transferrin/TIBC (transport capacity)
 - Z-003-0003 (Transferrin saturation — functional availability) — *link pending*
 
 **Methylation:**
 - Z-004-0011 (Iron required for methionine synthase) — *link pending*
-- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md]] — Homocysteine (elevated when iron low)
+- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md] — Homocysteine (elevated when iron low)
 
 **Inflammation:**
-- [[Inflammation_Markers_CRP_ESR_Z-007-0001.md]] — CRP (inflammation elevates ferritin)
+- [[Inflammation_Markers_CRP_ESR_Z-007-0001.md] — CRP (inflammation elevates ferritin)
 
 ---
 
@@ -173,9 +173,9 @@ patient_id,visit,ferritin_ng_ml,crp_mg_l,sTfR_mg_l,iron_status
 *Created: 2026-02-26 | Domain: 003 | Status: Conscious*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- |Biomarkers MOC]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
+- |Biomarkers MOC]
 

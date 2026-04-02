@@ -49,13 +49,13 @@ source-litnote: Synthesized from clinical practice
 ## 🔗 Connected Systems
 
 **Iron :**
-- [[Ferritin_Interpretation_Iron_Status_Z-003-0001.md]] — Ferritin (elevated by inflammation)
-- [[Iron_Status_Patterns_ACD_Overload_Z-003-0013.md]] — Anemia of chronic disease (CRP drives hepcidin)
+- [[Ferritin_Interpretation_Iron_Status_Z-003-0001.md] — Ferritin (elevated by inflammation)
+- [[Iron_Status_Patterns_ACD_Overload_Z-003-0013.md] — Anemia of chronic disease (CRP drives hepcidin)
 - High CRP → functional iron deficiency
 
 **Insulin Resistance:**
-- [[Predictive_Metabolites_T1D_Example_Z-001-0019.md]] — Inflammatory signaling (cytokines cause IR)
-- [[Metabolic_Syndrome_Criteria_Z-001-0050.md]] — Metabolic syndrome (chronic low-grade inflammation)
+- [[Predictive_Metabolites_T1D_Example_Z-001-0019.md] — Inflammatory signaling (cytokines cause IR)
+- [[Metabolic_Syndrome_Criteria_Z-001-0050.md] — Metabolic syndrome (chronic low-grade inflammation)
 - Elevated CRP predicts T2DM development
 
 **Methylation:**
@@ -86,7 +86,7 @@ source-litnote: Synthesized from clinical practice
 | ESR | 15-30 mm/hr | Mild elevation |
 | Pattern | | Visceral adiposity cytokine release |
 
-**Link:** [[Metabolic_Syndrome_Criteria_Z-001-0050.md]] — Metabolic syndrome criteria (inflammation component)
+**Link:** [[Metabolic_Syndrome_Criteria_Z-001-0050.md] — Metabolic syndrome criteria (inflammation component)
 
 ### Infection vs Autoimmune vs Metabolic
 | Condition | CRP | ESR | Pattern |
@@ -127,10 +127,10 @@ patient_id,visit,hs_crp_mg_l,esr_mm_hr,inflammation_status
 *Created: 2026-02-26 | Domain: 007 | Status: Conscious*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- |Biomarkers MOC]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
+- |Biomarkers MOC]
 

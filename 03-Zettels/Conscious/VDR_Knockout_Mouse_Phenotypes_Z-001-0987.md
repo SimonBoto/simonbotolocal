@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, vdr, vitamin-d-receptor, knockout, mouse-model, hypocalcemia, rickets, immunity, cancer, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]]
+source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]
 status: conscious
 ---
 
@@ -264,18 +264,18 @@ Bone demineralization (rickets/osteomalacia)
 ---
 
 **Related:**
-- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]] — Deep dive into immune mechanisms (NEW)
-- [[Autoimmune_Disease_Vitamin_D_Connection_Z-001-1164]] — Autoimmunity clinical evidence (NEW)
-- [[Treg_Th17_Balance_VDR_Z-001-1165]] — T-cell regulation mechanisms (NEW)
-- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166]] — Parallel mitochondrial knockout models (NEW)
+- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163] — Deep dive into immune mechanisms (NEW)
+- [[Autoimmune_Disease_Vitamin_D_Connection_Z-001-1164] — Autoimmunity clinical evidence (NEW)
+- [[Treg_Th17_Balance_VDR_Z-001-1165] — T-cell regulation mechanisms (NEW)
+- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166] — Parallel mitochondrial knockout models (NEW)
 
 **Source:** CGPT-0311 — Self-Education Program Plan
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

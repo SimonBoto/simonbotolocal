@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Greek IV Therapy Translation"
 date: 2024-05-26
 source: ChatGPT conversation history
-aliases: [CGPT-0367]
+aliases: CGPT-0367]
 tags: [chatgpt-archive, clinical, phd_research, greek_language, technology]
 status: archived
 ---

@@ -90,9 +90,9 @@ Take 2 capsules daily or as directed by your physician.
 | 2 | €0.53 | 700 mg | Standard dose |
 
 ## Biomarker Links
-- [[Vitamin_C_Calciferol_Steroid_Hormone_Z-007-0001]] — plasma vitamin C
-- [[Collagen_Synthesis_Skin_Health_Z-001-XXXX]] — collagen markers
-- [[Immune_Function_Markers_Z-001-XXXX]] — immune status |
+- [[Vitamin_C_Calciferol_Steroid_Hormone_Z-007-0001] — plasma vitamin C
+- [[Collagen_Synthesis_Skin_Health_Z-001-XXXX] — collagen markers
+- [[Immune_Function_Markers_Z-001-XXXX] — immune status |
 
 ## Comparison with Be Well Multivitamin
 | Feature | Vitamin C Incell | Be Well |

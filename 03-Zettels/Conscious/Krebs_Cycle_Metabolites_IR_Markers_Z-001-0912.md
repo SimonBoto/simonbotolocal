@@ -7,7 +7,7 @@ domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, krebs-cycle, organic-acids, insulin-resistance, malate, succinate, biomarkers, diabetes, conscious]
 parent-moc: 
-source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
+source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
@@ -107,15 +107,15 @@ Both adipic acid and malate relate to **fatty acid metabolism dysregulation**:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]] — Same diagnostic logic
-- **Parallel/Related:** [[Carnitine_Fatty_Acid_Transport_Z-001-0913]] — Fatty acid metabolism pathway
-- **Downstream/Consequence:** _Taxonomy]] — Classification of these markers
+- **Upstream/Prerequisite:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911] — Same diagnostic logic
+- **Parallel/Related:** [[Carnitine_Fatty_Acid_Transport_Z-001-0913] — Fatty acid metabolism pathway
+- **Downstream/Consequence:** _Taxonomy] — Classification of these markers
 
 ## Context
 
 **Also relevant to:** ,  — Specific metabolite markers for IR
 
-**Source:** [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
+**Source:** [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]
 
 ---
 
@@ -123,8 +123,8 @@ Both adipic acid and malate relate to **fatty acid metabolism dysregulation**:
 *Critical insight: Malate elevation directly linked to insulin resistance in course material*
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

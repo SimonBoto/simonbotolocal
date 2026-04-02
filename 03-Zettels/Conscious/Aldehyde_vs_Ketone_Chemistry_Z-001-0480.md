@@ -8,7 +8,7 @@ tags: [zettel, aldehyde, ketone, carbonyl, functional-groups, chemistry]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045F]]
+source: [[L-001-0045F]
 ---
 
 # Aldehyde vs Ketone 
@@ -72,13 +72,13 @@ Both reduce to alcohols:
 - **Ketone groups:** More stable, preferred for energy storage (fructose)
 
 ## Related
-- [[Aldose_vs_Ketose_Chemistry_Z-001-0471]] Aldose vs Ketose Chemistry
-- [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476]] Keto Acids vs Carboxylic Acids
+- [[Aldose_vs_Ketose_Chemistry_Z-001-0471] Aldose vs Ketose Chemistry
+- [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476] Keto Acids vs Carboxylic Acids
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

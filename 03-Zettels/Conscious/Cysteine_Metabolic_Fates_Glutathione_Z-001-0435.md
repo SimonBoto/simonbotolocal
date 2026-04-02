@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, cysteine, glutathione, taurine, metabolism]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Methionine_Catabolism_L-001-0406]]
+source-litnote: [[LitNote_Methionine_Catabolism_L-001-0406]
 extraction-date: 2026-03-01
 ---
 
@@ -60,9 +60,9 @@ Cysteine → Pyruvate → Acetyl-CoA →
 
 ---
 
-*Source: [[LitNote_Methionine_Catabolism_L-001-0406]]*
+*Source: [[LitNote_Methionine_Catabolism_L-001-0406]*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

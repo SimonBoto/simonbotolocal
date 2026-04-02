@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, fasting, kefir, bone-broth, coffee, gut-reset, microbiome]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Fasting_Fermentation_L-001-0637]]"
+source-litnote: "[[LitNote_Fasting_Fermentation_L-001-0637]"
 status: conscious
 ---
 
@@ -154,15 +154,15 @@ Coffee motility → Prevent stagnation/SIBO risk
 
 ## Related
 
-- [[Kefir_Grain_Reactivation_Protocol_Z-001-1227]]
-- [[Glutamine_Intestinal_Repair_Protocol_Z-001-1224]]
-- [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]]
+- [[Kefir_Grain_Reactivation_Protocol_Z-001-1227]
+- [[Glutamine_Intestinal_Repair_Protocol_Z-001-1224]
+- [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]
 
 ---
 
-*Source: [[LitNote_Fasting_Fermentation_L-001-0637]] | 2026-03-09*
+*Source: [[LitNote_Fasting_Fermentation_L-001-0637] | 2026-03-09*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

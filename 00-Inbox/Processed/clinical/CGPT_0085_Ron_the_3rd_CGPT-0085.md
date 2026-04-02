@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Ron the 3rd"
 date: 2025-05-04
 source: ChatGPT conversation history
-aliases: [CGPT-0085]
+aliases: CGPT-0085]
 tags: [chatgpt-archive, clinical, phd_research, consciousness_ai]
 status: archived
 ---

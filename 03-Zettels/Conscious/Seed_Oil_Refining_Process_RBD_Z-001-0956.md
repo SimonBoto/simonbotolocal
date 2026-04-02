@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, seed-oils, refining, degumming, bleaching, deodorizing, rbd, high-heat, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]]
+source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]
 status: conscious
 ---
 
@@ -204,13 +204,13 @@ RBD Oil — neutral, stable, depleted
 
 ---
 
-**Related:** [[Seed_Oil_Extraction_Methods_Expeller_Hexane_Z-001-0955]] | [[Advanced_Lipoxidation_End_Products_ALEs_Z-001-0958]] | [[Hydrogenation_Trans_Fat_Formation_Z-001-0957]]
+**Related:** [[Seed_Oil_Extraction_Methods_Expeller_Hexane_Z-001-0955] | [[Advanced_Lipoxidation_End_Products_ALEs_Z-001-0958] | [[Hydrogenation_Trans_Fat_Formation_Z-001-0957]
 
 **Source:** CGPT-0281, CGPT-0340 — Seed Oils and Metabolic Health; Seed oils history and process
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

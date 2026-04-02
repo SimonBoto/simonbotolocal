@@ -153,11 +153,11 @@ Type 2 diabetes, NAFLD, CVD
 - **sCD14:** <2000 ng/mL
 
 ## Related Zettels
-- [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954]] — Oxidized lipids
-- [[Insulin_Resistance_Mechanisms_Omega_6_Induced_Z-001-0952]] — Downstream effects
+- [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954] — Oxidized lipids
+- [[Insulin_Resistance_Mechanisms_Omega_6_Induced_Z-001-0952] — Downstream effects
 
 ## Source
-[[LitNote_Mechanisms_Metabolic_Disruption_L-001-0523]]
+[[LitNote_Mechanisms_Metabolic_Disruption_L-001-0523]
 
 ---
 
@@ -165,10 +165,10 @@ Type 2 diabetes, NAFLD, CVD
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

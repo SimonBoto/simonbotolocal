@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Insulin Resistance Toxicology Review"
 date: 2024-09-24
 source: ChatGPT conversation history
-aliases: [CGPT-0278]
+aliases: CGPT-0278]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research]
 status: archived
 ---

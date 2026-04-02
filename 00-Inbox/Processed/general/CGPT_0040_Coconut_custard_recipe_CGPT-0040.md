@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Coconut custard recipe"
 date: 2025-10-28
 source: ChatGPT conversation history
-aliases: [CGPT-0040]
+aliases: CGPT-0040]
 tags: [chatgpt-archive, general]
 status: archived
 ---

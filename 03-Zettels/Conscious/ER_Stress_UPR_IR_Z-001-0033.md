@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, ER-stress, UPR, unfolded-protein-response, metabolic-overload]
 parent-moc: 
-source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
+source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
 confidence: high
 created: 2026-02-24
 ---
@@ -33,9 +33,9 @@ Metabolic overload creates endoplasmic reticulum stress when protein synthesis d
 
 ## Links
 
-- **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md]] — Lipotoxicity induces ER stress
-- **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md]] — Shared JNK activation pathway
-- **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md]] — Compensatory hyperinsulinemia
+- **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md] — Lipotoxicity induces ER stress
+- **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md] — Shared JNK activation pathway
+- **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — Compensatory hyperinsulinemia
 
 ## Context
 
@@ -49,9 +49,9 @@ Metabolic overload creates endoplasmic reticulum stress when protein synthesis d
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[ER_Stress_Induced_IR_Z-001-0014]|Z-001-0014]]
+- [[ER_Stress_Induced_IR_Z-001-0014]|Z-001-0014]

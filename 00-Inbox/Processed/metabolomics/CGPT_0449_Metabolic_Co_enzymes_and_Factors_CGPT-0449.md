@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolic Co-enzymes and Factors"
 date: 2024-03-24
 source: ChatGPT conversation history
-aliases: [CGPT-0449]
+aliases: CGPT-0449]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, nutrition]
 status: archived
 ---

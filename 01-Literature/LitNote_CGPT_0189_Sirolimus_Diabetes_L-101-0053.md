@@ -16,7 +16,7 @@ extraction-date: 2026-03-28
 # Lit: Sirolimus — Mitochondrial Toxicity and Metabolic Effects
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_[CGPT-0189]]
+- **ChatGPT conversation:** [[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]
 - **Date:** January 13, 2025
 - **Messages:** 4
 - **ID:** 678509c9
@@ -142,11 +142,11 @@ Sirolimus → mTORC2 inhibition → ↓ Akt phosphorylation → Insulin resistan
 - Potential confounder: medications affecting mTOR
 
 ## Zettels Created
-1. [[Sirolimus_mTOR_Mitochondrial_Mechanisms_Z-101-0483]] — Detailed pathway analysis
-2. [[mTOR_Diabetes_Pathophysiology_Z-101-0484]] — Clinical and mechanistic connections
+1. [[Sirolimus_mTOR_Mitochondrial_Mechanisms_Z-101-0483] — Detailed pathway analysis
+2. [[mTOR_Diabetes_Pathophysiology_Z-101-0484] — Clinical and mechanistic connections
 
 ## Connections
-- **Source:** [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]]
+- **Source:** [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]
 - **Insulin signaling:**  — Broader pathway context
 - **Mitochondrial health:** Relevant to METHAP intervention outcomes
 

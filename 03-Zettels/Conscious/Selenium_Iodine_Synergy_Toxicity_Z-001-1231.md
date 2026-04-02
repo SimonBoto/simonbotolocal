@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, selenium, iodine, thyroid-protection, toxicity, brazil-nuts]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]]"
+source-litnote: "[[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]"
 status: conscious
 ---
 
@@ -155,14 +155,14 @@ Monitor every 6-8 weeks:
 
 ## Related
 
-- [[Iodine_Supplementation_Thyroid_Protocol_Z-001-1230]]
-- [[MTHFR_Methylation_Support_Protocol_Z-001-1232]]
+- [[Iodine_Supplementation_Thyroid_Protocol_Z-001-1230]
+- [[MTHFR_Methylation_Support_Protocol_Z-001-1232]
 
 ---
 
-*Source: [[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]] | 2026-03-09*
+*Source: [[LitNote_Iodine_Thyroid_MTHFR_L-001-0638] | 2026-03-09*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

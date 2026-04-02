@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Necrotic arachnidism overview"
 date: 2025-11-04
 source: ChatGPT conversation history
-aliases: [CGPT-0039]
+aliases: CGPT-0039]
 tags: [chatgpt-archive, clinical, nutrition]
 status: archived
 ---

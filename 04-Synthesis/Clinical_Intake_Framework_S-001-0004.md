@@ -6,15 +6,15 @@ aliases: [S-001-0004, Intake-Framework, Medical-History, Patient-Assessment]
 domain: 001
 domain-name: Clinical_Intake
 tags: [synthesis, clinical, intake, history, assessment, framework, living-document]
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: [[MOC-Clinical-Protocols]
 status: active
 version: 1.1
 created: 2026-03-30
 last-updated: 2026-04-01
 contributing-zettels:
-  - "[[Chief_Complaint_Assessment_Z-001-0400]]"
-  - "[[Medical_History_Structure_Z-001-0401]]"
-  - "[[Lifestyle_Factors_Clinical_Z-001-0402]]"
+  - "[[Chief_Complaint_Assessment_Z-001-0400]"
+  - "[[Medical_History_Structure_Z-001-0401]"
+  - "[[Lifestyle_Factors_Clinical_Z-001-0402]"
 ---
 
 # Clinical Intake Framework — Patient History Structure
@@ -34,7 +34,7 @@ contributing-zettels:
 - Previous treatments and responses
 - Impact on daily function
 
-**Links to:** [[Clinical_Biochemical_Assessment_Framework_S-001-0002|Biochemical Assessment]]
+**Links to:** [[Clinical_Biochemical_Assessment_Framework_S-001-0002|Biochemical Assessment]
 
 ---
 
@@ -42,12 +42,12 @@ contributing-zettels:
 **Focus:** Previous diagnoses and treatments
 
 **Metabolic Conditions to Screen:**
-- [[Diabetes]] / prediabetes history
-- [[Hypertension]]
-- [[Dyslipidemia]]
-- [[Autoimmunity]] patterns
-- [[Thyroid]] disorders
-- [[Bone health]] issues (osteopenia/osteoporosis)
+- [[Diabetes] / prediabetes history
+- [[Hypertension]
+- [[Dyslipidemia]
+- [[Autoimmunity] patterns
+- [[Thyroid] disorders
+- [[Bone health] issues (osteopenia/osteoporosis)
 
 ---
 
@@ -55,11 +55,11 @@ contributing-zettels:
 **Focus:** Genetic predispositions
 
 **Key Patterns:**
-- [[Insulin resistance]] / Type 2 diabetes
-- [[Cardiovascular disease]]
-- [[Autoimmune conditions]]
-- [[Cancer]] history
-- [[Mental health]] disorders
+- [[Insulin resistance] / Type 2 diabetes
+- [[Cardiovascular disease]
+- [[Autoimmune conditions]
+- [[Cancer] history
+- [[Mental health] disorders
 
 **Interpretation:** Family clustering suggests genetic + environmental factors
 
@@ -74,7 +74,7 @@ contributing-zettels:
 - Previous supplement trials (what worked, what didn't)
 - Adverse reactions
 
-**Links to:** [[Supplement_Protocol_Framework_S-001-0003|Supplement Protocols]]
+**Links to:** [[Supplement_Protocol_Framework_S-001-0003|Supplement Protocols]
 
 ---
 
@@ -122,11 +122,11 @@ Intake findings guide testing priorities:
 
 | Intake Finding | Priority Biomarkers |
 |----------------|---------------------|
-| Family diabetes history | [[HOMA_IR_Calculation_Interpretation_Z-001-0046]|HOMA-IR]], HbA1c, adipic acid |
-| Fatigue + weight gain | [[Thyroid_Optimal_Ranges_Z-005-0001]|Thyroid panel]], ferritin, B12 |
-| Bone concerns | [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Vitamin D]], calcium, PTH |
-| Autoimmune symptoms | [[CRP_[B-002-0001]|CRP]], ESR, vitamin D, homocysteine |
-| Cognitive issues | [[Homocysteine_Composite_Methylation_Marker_Z-004-0001]|Homocysteine]], B12, MMA |
+| Family diabetes history | [[HOMA_IR_Calculation_Interpretation_Z-001-0046]|HOMA-IR], HbA1c, adipic acid |
+| Fatigue + weight gain | [[Thyroid_Optimal_Ranges_Z-005-0001]|Thyroid panel], ferritin, B12 |
+| Bone concerns | [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Vitamin D], calcium, PTH |
+| Autoimmune symptoms | [[CRP_[B-002-0001]|CRP], ESR, vitamin D, homocysteine |
+| Cognitive issues | [[Homocysteine_Composite_Methylation_Marker_Z-004-0001]|Homocysteine], B12, MMA |
 
 ---
 
@@ -134,7 +134,7 @@ Intake findings guide testing priorities:
 
 - [[Clinical_Biochemical_Assessment_Framework_S-001-0002]
 - [[Supplement_Protocol_Framework_S-001-0003]
-- [[MOC-Clinical-Protocols]]
+- [[MOC-Clinical-Protocols]
 
 ---
 

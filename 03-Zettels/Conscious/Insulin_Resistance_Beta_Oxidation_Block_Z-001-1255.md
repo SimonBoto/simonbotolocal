@@ -6,7 +6,7 @@ aliases: [Z-001-1255]
 domain: 001
 tags: [zettel, insulin-resistance, beta-oxidation, lipotoxicity, fatty-acids, metabolic-inflexibility]
 parent-moc: ", "
-source-litnote: "[[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]]"
+source-litnote: "[[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]"
 status: conscious
 ---
 
@@ -145,19 +145,19 @@ Worsening Insulin Resistance (vicious cycle)
 
 ## Related Zettels
 
-- [[Z-001-1253_Hyperinsulinemia_Mechanisms]] — Molecular pathways of lipolysis/CPT-1 regulation
-- [[Z-001-1254_Metabolic_Flexibility_Definition]] — Healthy fuel switching capacity
-- [[Z-001-1264_Type1_Diabetes_Ketogenesis]] — Absolute insulin deficiency effects
-- [[Z-001-1265_Type2_Diabetes_Ketone_Utilization]] — Partial impairment patterns
+- [[Z-001-1253_Hyperinsulinemia_Mechanisms] — Molecular pathways of lipolysis/CPT-1 regulation
+- [[Z-001-1254_Metabolic_Flexibility_Definition] — Healthy fuel switching capacity
+- [[Z-001-1264_Type1_Diabetes_Ketogenesis] — Absolute insulin deficiency effects
+- [[Z-001-1265_Type2_Diabetes_Ketone_Utilization] — Partial impairment patterns
 
 ---
 
 ## Source
 
-Extracted from: [[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]]  
+Extracted from: [[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]  
 CGPT-0647 (April 30, 2023) — Messages 13-16, 28
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Hippuric Acid Pathway Elevation"
 date: 2024-03-22
 source: ChatGPT conversation history
-aliases: [CGPT-0451]
+aliases: CGPT-0451]
 tags: [chatgpt-archive, metabolomics, nutrition]
 status: archived
 ---

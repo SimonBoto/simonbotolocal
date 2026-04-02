@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Psora Treatment in Homeopathy"
 date: 2024-04-05
 source: ChatGPT conversation history
-aliases: [CGPT-0435]
+aliases: CGPT-0435]
 tags: [chatgpt-archive, clinical, philosophy, greek_language]
 status: archived
 ---

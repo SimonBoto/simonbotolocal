@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Goat Stew Glucose Levels."
 date: 2024-05-22
 source: ChatGPT conversation history
-aliases: [CGPT-0376]
+aliases: CGPT-0376]
 tags: [chatgpt-archive, insulin_resistance, nutrition]
 status: archived
 ---

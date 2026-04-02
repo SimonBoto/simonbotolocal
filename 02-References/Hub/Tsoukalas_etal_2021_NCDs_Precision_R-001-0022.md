@@ -61,7 +61,7 @@ tags: [reference, ncds, precision-medicine, me
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[METHAP_Study_Design_Overview_Z-101-0472]] — NCDs precision medicine
+- [[METHAP_Study_Design_Overview_Z-101-0472] — NCDs precision medicine
 
 ---
 

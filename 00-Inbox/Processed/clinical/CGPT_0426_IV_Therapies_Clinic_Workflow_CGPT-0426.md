@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "IV Therapies Clinic Workflow"
 date: 2024-04-09
 source: ChatGPT conversation history
-aliases: [CGPT-0426]
+aliases: CGPT-0426]
 tags: [chatgpt-archive, clinical, technology, personal_development]
 status: archived
 ---

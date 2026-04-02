@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Glycolysis, Lactic Acid & Organs"
 date: 2023-06-24
 source: ChatGPT conversation history
-aliases: [CGPT-0613]
+aliases: CGPT-0613]
 tags: [chatgpt-archive, insulin_resistance]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Precision Medicine Revenue Solutions"
 date: 2023-05-31
 source: ChatGPT conversation history
-aliases: [CGPT-0624]
+aliases: CGPT-0624]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

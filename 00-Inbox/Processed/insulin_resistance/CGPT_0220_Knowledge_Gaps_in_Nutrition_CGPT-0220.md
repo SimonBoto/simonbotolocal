@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Knowledge Gaps in Nutrition"
 date: 2024-12-22
 source: ChatGPT conversation history
-aliases: [CGPT-0220]
+aliases: CGPT-0220]
 tags: [chatgpt-archive, insulin_resistance, vitamin_d, clinical, nutrition]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "IV Therapy Introduction"
 date: 2024-05-06
 source: ChatGPT conversation history
-aliases: [CGPT-0403]
+aliases: CGPT-0403]
 tags: [chatgpt-archive, technology]
 status: archived
 ---

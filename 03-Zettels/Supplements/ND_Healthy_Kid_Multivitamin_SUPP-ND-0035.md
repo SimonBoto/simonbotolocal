@@ -110,9 +110,9 @@ Children's multivitamin to replenish nutritional deficiencies from daily diet. C
 | 14+ | 3 | €0.70 | 40 days |
 
 ## Biomarker Links
-- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] — target 40-60 ng/mL
-- [[Zinc_RBC_Functional_Mineral_Z-007-0006]] — pediatric immune function
-- [[Iron_Ferritin_Storage_Z-003-0001]] — growth and development |
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001] — target 40-60 ng/mL
+- [[Zinc_RBC_Functional_Mineral_Z-007-0006] — pediatric immune function
+- [[Iron_Ferritin_Storage_Z-003-0001] — growth and development |
 
 ## Comparison with Be Well Multivitamin (ND)
 | Feature | Healthy Kid | Be Well |

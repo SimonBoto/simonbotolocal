@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Guided Hypnotherapy Session"
 date: 2025-01-26
 source: ChatGPT conversation history
-aliases: [CGPT-0172]
+aliases: CGPT-0172]
 tags: [chatgpt-archive, technology]
 status: archived
 ---

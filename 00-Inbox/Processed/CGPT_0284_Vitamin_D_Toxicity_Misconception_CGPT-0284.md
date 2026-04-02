@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Vitamin D Toxicity Misconception"
 date: 2024-09-26
 source: ChatGPT conversation history
-aliases: [CGPT-0284]
+aliases: CGPT-0284]
 tags: [chatgpt-archive, vitamin_d, clinical]
 status: inbox-pending
 ---

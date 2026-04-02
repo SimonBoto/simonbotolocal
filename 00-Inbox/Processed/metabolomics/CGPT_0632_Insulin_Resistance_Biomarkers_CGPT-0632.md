@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Insulin Resistance Biomarkers"
 date: 2023-05-27
 source: ChatGPT conversation history
-aliases: [CGPT-0632]
+aliases: CGPT-0632]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition]
 status: archived
 ---

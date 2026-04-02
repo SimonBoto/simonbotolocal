@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Quetiapine tapering plan"
 date: 2025-01-02
 source: ChatGPT conversation history
-aliases: [CGPT-0212]
+aliases: CGPT-0212]
 tags: [chatgpt-archive, vitamin_d, clinical, nutrition, technology, personal_development]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Emotional Connections to Diseases"
 date: 2024-09-13
 source: ChatGPT conversation history
-aliases: [CGPT-0291]
+aliases: CGPT-0291]
 tags: [chatgpt-archive, general]
 status: archived
 ---

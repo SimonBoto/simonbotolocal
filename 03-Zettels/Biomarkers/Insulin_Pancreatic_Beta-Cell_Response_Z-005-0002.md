@@ -30,13 +30,13 @@ source-litnote: Synthesized from clinical practice
 ### Biological Function
 
 **Primary anabolic hormone:**
-- Promotes [[Glucose_Blood_Sugar_Energy_Z-005-0001]|glucose uptake]] (muscle, fat)
+- Promotes [[Glucose_Blood_Sugar_Energy_Z-005-0001]|glucose uptake] (muscle, fat)
 - Inhibits hepatic glucose output
 - Promotes glycogen synthesis
-- Inhibits lipolysis — prevents [[Adipic_Acid_Fatty_Acid_Oxidation_IR_Z-012-0111]|fatty acid oxidation]] when elevated
+- Inhibits lipolysis — prevents [[Adipic_Acid_Fatty_Acid_Oxidation_IR_Z-012-0111]|fatty acid oxidation] when elevated
 - Promotes protein synthesis
-- Drives [[Ferritin_Iron_Storage_Systemic_Status_Z-003-0001]|ferritin elevation]] through metabolic inflammation
-- Stimulates [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001]|LDL production]] by liver
+- Drives [[Ferritin_Iron_Storage_Systemic_Status_Z-003-0001]|ferritin elevation] through metabolic inflammation
+- Stimulates [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001]|LDL production] by liver
 
 **Secretion pattern:**
 - **Basal:** Continuous low-level release
@@ -233,10 +233,10 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family Guide]]
-- [[Z-005-0001|Glucose — Blood Sugar]]
-- [[Z-005-0003|HbA1c — Glycemic Control]]
-- [[Z-005-0004|HOMA-IR — Insulin Resistance Index]]
+- [[Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family Guide]
+- [[Z-005-0001|Glucose — Blood Sugar]
+- [[Z-005-0003|HbA1c — Glycemic Control]
+- [[Z-005-0004|HOMA-IR — Insulin Resistance Index]
 
 source-litnote: Synthesized from clinical practice
 ---

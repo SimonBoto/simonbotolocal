@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, olive-oil, implementation, dosing, quality]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]
+source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]
 extraction-date: 2026-03-01
 ---
 
@@ -67,7 +67,7 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]*
+*Source: [[LitNote_Oleic_Acid_Clinical_L-001-0506]*
 
 
 ## RELATED FILES

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "TLP1 Functions in Body"
 date: 2024-05-22
 source: ChatGPT conversation history
-aliases: [CGPT-0377]
+aliases: CGPT-0377]
 tags: [chatgpt-archive, insulin_resistance]
 status: archived
 ---

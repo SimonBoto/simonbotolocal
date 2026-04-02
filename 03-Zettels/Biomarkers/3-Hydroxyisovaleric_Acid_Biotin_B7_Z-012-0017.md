@@ -173,8 +173,8 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
-- [[Z-012-0018|Methylcitric Acid — Biotin (B7) Marker]]
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
+- [[Z-012-0018|Methylcitric Acid — Biotin (B7) Marker]
 
 source-litnote: Synthesized from clinical practice
 ---

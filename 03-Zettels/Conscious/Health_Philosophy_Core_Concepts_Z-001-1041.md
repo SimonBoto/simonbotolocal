@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Training
 tags: [zettel, philosophy, health, definitions]
 parent-moc: 
-source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
-source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
+source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
+source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 confidence: high
 created: 2026-03-08
 ---
@@ -41,7 +41,7 @@ created: 2026-03-08
 > Health is not the absence of disease—it is the capacity to adapt, self-regulate, and self-repair.
 
 ## Related
-- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]
 - 
 
 ---
@@ -49,6 +49,6 @@ created: 2026-03-08
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

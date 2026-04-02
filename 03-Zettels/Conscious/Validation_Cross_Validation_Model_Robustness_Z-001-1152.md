@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, validation, cross-validation, robustness, overfitting]
 parent-moc: 
-source-litnote: [[LitNote_Statistical_Analysis_Omics_L-001-0617]]
-source: [[LitNote_Statistical_Analysis_Omics_L-001-0617]]
+source-litnote: [[LitNote_Statistical_Analysis_Omics_L-001-0617]
+source: [[LitNote_Statistical_Analysis_Omics_L-001-0617]
 confidence: high
 created: 2026-03-08
 ---
@@ -134,15 +134,15 @@ Validation strategies in  ensure that multivariate models are robust, generaliza
 | **Software** | Version, settings |
 
 ## Related
-- [[PCA_Metabolomics_Dimensionality_Reduction_Z-001-1150]]
-- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]]
+- [[PCA_Metabolomics_Dimensionality_Reduction_Z-001-1150]
+- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]
 - 
 
 ---
 *Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

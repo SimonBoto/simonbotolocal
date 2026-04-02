@@ -7,8 +7,8 @@ domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, vitamin-c, pro-oxidant, cancer, h2o2]
 parent-moc: 
-source-litnote: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]]
-source: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]]
+source-litnote: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]
+source: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]
 confidence: high
 created: 2026-03-08
 ---
@@ -122,8 +122,8 @@ Ascorbate + O₂ → Dehydroascorbate + H₂O₂
 | **Fatigue** | Rare | Rest |
 
 ## Related
-- [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]]
-- [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]
+- [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]
+- [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]
 - 
 
 ---
@@ -131,7 +131,7 @@ Ascorbate + O₂ → Dehydroascorbate + H₂O₂
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

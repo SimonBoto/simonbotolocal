@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Gluten-Free Diet Impact"
 date: 2023-09-24
 source: ChatGPT conversation history
-aliases: [CGPT-0552]
+aliases: CGPT-0552]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

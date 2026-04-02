@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Digital Twin of Metabolome"
 date: 2023-06-04
 source: ChatGPT conversation history
-aliases: [CGPT-0620]
+aliases: CGPT-0620]
 tags: [chatgpt-archive, metabolomics, clinical, consciousness_ai, nutrition, personal_development]
 status: archived
 ---

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, cottonseed-oil, gossypol, history, toxic, industry, byproduct, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]]
+source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]
 status: conscious
 ---
 
@@ -298,13 +298,13 @@ Cottonseed oil represents:
 
 ---
 
-**Related:** [[Procter_Gamble_Crisco_Launch_1911_Z-001-0969]] | [[Seed_Oil_Fatty_Acid_Composition_Table_Z-001-0945]] | [[Pre_Industrial_Seed_Oil_Uses_Z-001-0968]]
+**Related:** [[Procter_Gamble_Crisco_Launch_1911_Z-001-0969] | [[Seed_Oil_Fatty_Acid_Composition_Table_Z-001-0945] | [[Pre_Industrial_Seed_Oil_Uses_Z-001-0968]
 
 **Source:** CGPT-0340 — Seed oils history and process
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

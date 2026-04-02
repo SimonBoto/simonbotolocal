@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, policy, guidelines, aha, mccommittee]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]]
+source-litnote: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]
 extraction-date: 2026-03-01
 updated: 2026-03-05
 ---
@@ -48,4 +48,4 @@ Paradigm resistance made correction difficult even as evidence evolved.
 
 ---
 
-*Source: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]]*
+*Source: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]*

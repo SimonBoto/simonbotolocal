@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, procter-gamble, crisco, 1911, marketing, hydrogenation, cottonseed-oil, food-industry, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]]
+source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]
 status: conscious
 ---
 
@@ -260,11 +260,11 @@ Crisco's 1911 launch marked:
 
 ---
 
-**Related:** [[Pre_Industrial_Seed_Oil_Uses_Z-001-0968]] | [[Hydrogenation_Trans_Fat_Formation_Z-001-0957]] | [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]] | [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
+**Related:** [[Pre_Industrial_Seed_Oil_Uses_Z-001-0968] | [[Hydrogenation_Trans_Fat_Formation_Z-001-0957] | [[Ancel_Keys_Seven_Countries_Study_Z-001-0245] | [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]
 
 **Source:** CGPT-0340 — Seed oils history and process
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

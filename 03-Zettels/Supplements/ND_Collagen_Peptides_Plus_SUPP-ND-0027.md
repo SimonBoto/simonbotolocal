@@ -93,9 +93,9 @@ Add 2 scoops (10 g) powder to water, juice, yogurt, or soup. Mix well. Consume o
 | 2 (10 g) | €1.27 | 10 g | Standard dose |
 
 ## Biomarker Links
-- [[Collagen_Synthesis_Skin_Health_Z-001-XXXX]] — skin collagen markers
-- [[Hyaluronic_Acid_Skin_Hydration_Z-001-XXXX]] — works with collagen
-- [[Cartilage_Degradation_Markers_Z-001-XXXX]] — joint health |
+- [[Collagen_Synthesis_Skin_Health_Z-001-XXXX] — skin collagen markers
+- [[Hyaluronic_Acid_Skin_Hydration_Z-001-XXXX] — works with collagen
+- [[Cartilage_Degradation_Markers_Z-001-XXXX] — joint health |
 
 ## Comparison with Regene + (ND)
 | Feature | Collagen Peptides+ | Regene + |

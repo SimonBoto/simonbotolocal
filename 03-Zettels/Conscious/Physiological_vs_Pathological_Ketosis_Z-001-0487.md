@@ -8,7 +8,7 @@ tags: [zettel, ketosis, ketoacidosis, dka, nutritional-ketosis, safety]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045G]]
+source: [[L-001-0045G]
 ---
 
 # Physiological vs Pathological Ketosis
@@ -93,8 +93,8 @@ source: [[L-001-0045G]]
 - **Emergency**
 
 ## Related
-- [[Ketogenesis_Pathway_Regulation_Z-001-0481]] Ketogenesis Pathway
-- [[Three_Ketone_Bodies_Z-001-0482]] Three Ketone Bodies
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481] Ketogenesis Pathway
+- [[Three_Ketone_Bodies_Z-001-0482] Three Ketone Bodies
 - 
 
 ---
@@ -102,5 +102,5 @@ source: [[L-001-0045G]]
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

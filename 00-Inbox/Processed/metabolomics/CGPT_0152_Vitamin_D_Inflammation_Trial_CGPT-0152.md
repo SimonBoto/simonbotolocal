@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Vitamin D Inflammation Trial"
 date: 2025-02-09
 source: ChatGPT conversation history
-aliases: [CGPT-0152]
+aliases: CGPT-0152]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, vitamin_d, clinical, phd_research, nutrition, technology]
 status: archived
 ---

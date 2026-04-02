@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Valencia Floods DANA Impact"
 date: 2024-11-01
 source: ChatGPT conversation history
-aliases: [CGPT-0262]
+aliases: CGPT-0262]
 tags: [chatgpt-archive, general]
 status: archived
 ---

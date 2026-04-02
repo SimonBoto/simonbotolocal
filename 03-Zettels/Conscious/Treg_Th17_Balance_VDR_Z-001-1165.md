@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, treg, th17, vitamin-d, vdr, immune-tolerance, autoimmunity]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_VDR_Knockout_Immune_Function_L-001-0621]]"
+source-litnote: "[[LitNote_VDR_Knockout_Immune_Function_L-001-0621]"
 status: conscious
 ---
 
@@ -159,15 +159,15 @@ Treg Enhancement              Th17 Suppression
 
 ## Related
 
-- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]]
-- [[Autoimmune_Disease_Vitamin_D_Connection_Z-001-1164]]
+- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]
+- [[Autoimmune_Disease_Vitamin_D_Connection_Z-001-1164]
 
 ---
 
-*Source: [[LitNote_VDR_Knockout_Immune_Function_L-001-0621]] | 2026-03-08*
+*Source: [[LitNote_VDR_Knockout_Immune_Function_L-001-0621] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

@@ -61,8 +61,8 @@ tags: [reference, nutrition, immunity, covid-19, micronutrien
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]] — VitD immune support
-- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]] — Nutrition-immunity mechanisms
+- [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091] — VitD immune support
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912] — Nutrition-immunity mechanisms
 
 ---
 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Derren Brown Hypnosis Techniques"
 date: 2024-09-12
 source: ChatGPT conversation history
-aliases: [CGPT-0293]
+aliases: CGPT-0293]
 tags: [chatgpt-archive, consciousness_ai, technology, personal_development]
 status: archived
 ---

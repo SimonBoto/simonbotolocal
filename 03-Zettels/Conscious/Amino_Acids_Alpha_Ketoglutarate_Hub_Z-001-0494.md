@@ -8,7 +8,7 @@ tags: [zettel, alpha-ketoglutarate, glutamate, arginine, proline, histidine, b6]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0046A]]
+source: [[L-001-0046A]
 ---
 
 #  to α-Ketoglutarate: The Glutamate Hub
@@ -54,13 +54,13 @@ Glutamate + NAD⁺ + H₂O → α-ketoglutarate + NH₄⁺ + NADH
 - **Deficiency:** Impaired  of all four amino acids
 
 ## Related
-- [[Glutamate_Central_Amino_Acid_Hub_Z-001-0915]] Glutamate Central Amino Acid Hub
-- [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499]] Glucogenic vs Ketogenic Classification
+- [[Glutamate_Central_Amino_Acid_Hub_Z-001-0915] Glutamate Central Amino Acid Hub
+- [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499] Glucogenic vs Ketogenic Classification
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

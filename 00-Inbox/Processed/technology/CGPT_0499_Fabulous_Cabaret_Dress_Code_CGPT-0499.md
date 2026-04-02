@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Fabulous Cabaret Dress Code"
 date: 2024-02-20
 source: ChatGPT conversation history
-aliases: [CGPT-0499]
+aliases: CGPT-0499]
 tags: [chatgpt-archive, technology]
 status: archived
 ---

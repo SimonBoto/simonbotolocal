@@ -7,8 +7,8 @@ domain: 001
 domain-name: Nutrition
 tags: [zettel, fatty-acids, omega-3, omega-6, desaturase]
 parent-moc: 
-source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
-source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
+source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
+source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
 confidence: high
 created: 2026-03-08
 ---
@@ -61,7 +61,7 @@ ALA (18:3 n-3) ──Δ6D──> SDA (18:4 n-3) ──E──> EPA (20:5 n-3) �
 | **Odd-chain** | Pentadecanoic (C15:0) | Dairy marker |
 
 ## Related
-- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]]
+- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]
 - 
 
 ---
@@ -69,7 +69,7 @@ ALA (18:3 n-3) ──Δ6D──> SDA (18:4 n-3) ──E──> EPA (20:5 n-3) �
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- [[ATP_Yield_Comparison_Z-001-1258]|Z-001-1258]]
+- [[ATP_Yield_Comparison_Z-001-1258]|Z-001-1258]

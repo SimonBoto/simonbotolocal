@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Clinical Trials Gov Protocol"
 date: 2025-04-26
 source: ChatGPT conversation history
-aliases: [CGPT-0102]
+aliases: CGPT-0102]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, vitamin_d, clinical, phd_research, consciousness_ai, nutrition, personal_development]
 status: archived
 ---

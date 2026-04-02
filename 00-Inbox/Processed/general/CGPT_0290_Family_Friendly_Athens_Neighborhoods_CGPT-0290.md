@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Family-Friendly Athens Neighborhoods"
 date: 2024-09-14
 source: ChatGPT conversation history
-aliases: [CGPT-0290]
+aliases: CGPT-0290]
 tags: [chatgpt-archive, general]
 status: archived
 ---

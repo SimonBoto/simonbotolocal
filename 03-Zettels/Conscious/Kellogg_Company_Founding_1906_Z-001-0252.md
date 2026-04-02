@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, nutrition, history, kellogg-company, 1906, business]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Cereal_History_L-001-0211]]
+source-litnote: [[LitNote_Cereal_History_L-001-0211]
 extraction-date: 2026-03-01
 ---
 
@@ -123,7 +123,7 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Cereal_History_L-001-0211]]*  
+*Source: [[LitNote_Cereal_History_L-001-0211]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES

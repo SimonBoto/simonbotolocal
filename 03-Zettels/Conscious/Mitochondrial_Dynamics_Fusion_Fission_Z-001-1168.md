@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, mitochondria, fusion, fission, dynamics, quality-control, Mfn, Drp1]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]]"
+source-litnote: "[[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]"
 status: conscious
 ---
 
@@ -138,15 +138,15 @@ This dynamic balance is essential for cellular health
 
 ## Related
 
-- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166]]
-- [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]]
-- [[Mitophagy_Quality_Control_Z-001-1170]] — To create
+- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166]
+- [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]
+- [[Mitophagy_Quality_Control_Z-001-1170] — To create
 
 ---
 
-*Source: [[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]] | 2026-03-08*
+*Source: [[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

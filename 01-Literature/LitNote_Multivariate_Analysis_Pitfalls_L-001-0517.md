@@ -16,7 +16,7 @@ domain: 001
 # Multivariate Analysis Pitfalls in Omics — OPLS-DA, VIP Scores, and Overfitting
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328]]
+- **ChatGPT conversation:** [[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]
 - **Date:** July 14, 2024
 - **Scope:** Line-by-line critique of gastric cancer metabolomics study methodology
 - **Focus:** OPLS-DA model validation, VIP score interpretation, overfitting risks
@@ -28,7 +28,7 @@ domain: 001
 ### 1. OPLS-DA Overfitting Risks with Small Samples
 > "While permutation tests are useful, relying solely on Q2 and R2 can be misleading without cross-validation... Relying solely on Q2 and R2 can be misleading without cross-validation."
 
-**Zettel extracted:** [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935]]
+**Zettel extracted:** [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935]
 
 **Key Issue:**
 - OPLS-DA maximizes group separation but can overfit to noise in small samples
@@ -45,7 +45,7 @@ domain: 001
 ### 2. VIP Score Limitations and Misinterpretation
 > "VIP scores alone do not account for within-group variability and can be misleading if not complemented with effect sizes... VIP scores alone do not account for within-group variability."
 
-**Zettel extracted:** [[VIP_Score_Limitations_Effect_Size_Necessity_Z-001-0936]]
+**Zettel extracted:** [[VIP_Score_Limitations_Effect_Size_Necessity_Z-001-0936]
 
 **Critical Points:**
 - VIP > 1 is arbitrary threshold
@@ -62,7 +62,7 @@ domain: 001
 ### 3. Permutation Test Interpretation
 > "High Q2 and R2 values close to 1 and a Q2 intercept <0 are indicators of a good model fit and suggest no overfitting... While permutation tests are useful, relying solely on Q2 and R2 can be misleading without cross-validation."
 
-**Zettel extracted:** [[Permutation_Test_Interpretation_Validity_Z-001-0937]]
+**Zettel extracted:** [[Permutation_Test_Interpretation_Validity_Z-001-0937]
 
 **Methodology:**
 - Randomly permute class labels 100-1000 times
@@ -80,7 +80,7 @@ domain: 001
 ### 4. Cross-Validation Requirements
 > "The study should include other validation methods like cross-validation to ensure robustness... Include cross-validation and possibly external validation with an independent dataset."
 
-**Zettel extracted:** [[Cross_Validation_Strategies_Omics_Models_Z-001-0938]]
+**Zettel extracted:** [[Cross_Validation_Strategies_Omics_Models_Z-001-0938]
 
 **Validation Hierarchy:**
 1. **Internal:** 7-fold or 10-fold cross-validation
@@ -97,9 +97,9 @@ domain: 001
 ## Integration with Existing Knowledge
 
 **Links to previous extractions:**
-- [[LitNote_Power_Analysis_Metabolomics_L-001-0514]] — Sample size context
-- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — Statistical correction
-- [[Underpowered_Study_Consequences_Z-001-0929]] — Small sample issues
+- [[LitNote_Power_Analysis_Metabolomics_L-001-0514] — Sample size context
+- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515] — Statistical correction
+- [[Underpowered_Study_Consequences_Z-001-0929] — Small sample issues
 
 **Clinical Translation:**
 - OPLS-DA useful for hypothesis generation only

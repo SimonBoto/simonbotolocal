@@ -191,7 +191,7 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Z-007-0007|Copper — Essential Mineral]]
+- [[Z-007-0007|Copper — Essential Mineral]
 
 ---
 *Complete biomarker foundation — Zinc (RBC)*

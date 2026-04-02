@@ -7,8 +7,8 @@ domain: 001
 domain-name: Amino Acid Metabolism
 tags: [zettel, alpha-keto, transamination, intermediates]
 parent-moc: 
-source-litnote: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
-source: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
+source-litnote: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]
+source: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]
 confidence: high
 created: 2026-03-08
 ---
@@ -99,8 +99,8 @@ Amino Acid + Alpha-ketoglutarate ↔ Alpha-keto acid + Glutamate
 - **Ornithine alpha-ketoglutarate:** Wound healing, immune support
 
 ## Related
-- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
-| [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]
+| [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]
 | 
 
 ---
@@ -108,5 +108,5 @@ Amino Acid + Alpha-ketoglutarate ↔ Alpha-keto acid + Glutamate
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

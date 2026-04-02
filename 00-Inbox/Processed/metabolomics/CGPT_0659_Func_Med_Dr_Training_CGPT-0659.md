@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Func. Med. Dr. Training"
 date: 2023-04-24
 source: ChatGPT conversation history
-aliases: [CGPT-0659]
+aliases: CGPT-0659]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition]
 status: archived
 ---

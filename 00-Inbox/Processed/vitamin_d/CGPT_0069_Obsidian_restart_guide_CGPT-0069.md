@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Obsidian restart guide"
 date: 2025-08-24
 source: ChatGPT conversation history
-aliases: [CGPT-0069]
+aliases: CGPT-0069]
 tags: [chatgpt-archive, vitamin_d, clinical, phd_research, consciousness_ai, personal_development]
 status: archived
 ---

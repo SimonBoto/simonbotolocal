@@ -79,7 +79,7 @@ contributing-zettels:
 - {{Gap 2}} — {{What would fill it}}
 
 **Next zettels to integrate:**
-- [[{{Future_Zettel}}]] — {{Expected contribution}}
+- [[{{Future_Zettel}}] — {{Expected contribution}}
 
 ---
 

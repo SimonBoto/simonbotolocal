@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "MetS Review Improvement"
 date: 2024-12-02
 source: ChatGPT conversation history
-aliases: [CGPT-0235]
+aliases: CGPT-0235]
 tags: [chatgpt-archive, vitamin_d, clinical]
 status: archived
 ---

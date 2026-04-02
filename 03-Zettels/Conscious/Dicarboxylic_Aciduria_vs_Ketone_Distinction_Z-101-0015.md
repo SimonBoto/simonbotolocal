@@ -7,7 +7,7 @@ domain: 101
 tags: [zettel, dicarboxylic-aciduria, ketones, ketonuria, metabolic-differentiation, diagnostic]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]]"
+source: "[[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]"
 extraction-date: 2026-03-02
 ---
 
@@ -111,9 +111,9 @@ IF both elevated:
 
 ---
 
-*See also: [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]]*
+*See also: [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

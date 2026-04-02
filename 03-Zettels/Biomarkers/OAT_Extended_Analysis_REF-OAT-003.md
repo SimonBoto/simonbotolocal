@@ -654,7 +654,7 @@ source: Analysis organic acids extended.md (Greek clinical guide)
 ## Related Files
 - 
 - 
-- [[B-012-0001|Citrate — Mitochondrial Dysfunction Marker]]
+- [[B-012-0001|Citrate — Mitochondrial Dysfunction Marker]
 
 ---
 *Complete extraction from extended clinical guide — 2026-03-31*

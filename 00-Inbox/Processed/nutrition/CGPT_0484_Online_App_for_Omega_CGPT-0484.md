@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Online App for Omega"
 date: 2023-10-07
 source: ChatGPT conversation history
-aliases: [CGPT-0484]
+aliases: CGPT-0484]
 tags: [chatgpt-archive, nutrition, technology]
 status: archived
 ---

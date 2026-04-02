@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, b-vitamins, cofactors, metabolism, summary, clinical]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630]]"
+source-litnote: "[[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630]"
 status: conscious
 ---
 
@@ -161,16 +161,16 @@ Transamination → Decarboxylation → One-carbon
 
 ## Related
 
-- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]]
-- [[PLP_Vitamin_B6_Pyridoxal_Phosphate_Z-001-1201]]
-- [[Methylation_B_Vitamins_Folate_B12_Z-001-1216]]
+- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]
+- [[PLP_Vitamin_B6_Pyridoxal_Phosphate_Z-001-1201]
+- [[Methylation_B_Vitamins_Folate_B12_Z-001-1216]
 
 ---
 
-*Source: [[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630]] | 2026-03-08*
+*Source: [[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

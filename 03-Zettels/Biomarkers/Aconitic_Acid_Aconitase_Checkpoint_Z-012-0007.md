@@ -154,8 +154,8 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
-- [[Citrate_Mitochondrial_Marker_[B-012-0001]|Citrate — Mitochondrial Marker]]
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
+- [[Citrate_Mitochondrial_Marker_[B-012-0001]|Citrate — Mitochondrial Marker]
 
 source-litnote: Synthesized from clinical practice
 ---

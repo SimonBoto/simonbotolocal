@@ -7,7 +7,7 @@ uid: "20260215_053"
 ---
 uid: 20260212081345
 tags: [insulin-resistance, phd-biomarker, oa-pattern, gc-ms]
-parent-moc: [[88-Mocs/PhD_IR_MOC]]
+parent-moc: [[88-Mocs/PhD_IR_MOC]
 aliases: []
 references: [RCT Zotero123]
 ---
@@ -20,4 +20,4 @@ references: [RCT Zotero123]
 
 **Confounders:** Unknown.
 
-Links: [[88-Mocs/Biomarkers_MOC]] [[88-Mocs/PhD_IR_MOC]] [[88-Mocs/Inbox_Sprint_MOC]]
+Links: [[88-Mocs/Biomarkers_MOC] [[88-Mocs/PhD_IR_MOC] [[88-Mocs/Inbox_Sprint_MOC]

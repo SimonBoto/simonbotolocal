@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Hypothalamus: Endocrine Master"
 date: 2024-04-03
 source: ChatGPT conversation history
-aliases: [CGPT-0437]
+aliases: CGPT-0437]
 tags: [chatgpt-archive, general]
 status: archived
 ---

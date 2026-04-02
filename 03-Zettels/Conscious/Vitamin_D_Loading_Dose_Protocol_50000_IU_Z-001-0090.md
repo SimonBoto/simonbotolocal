@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, vitamin-d, vitamin-k2]
 parent-moc: 
-source: [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]]
+source: [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -20,8 +20,8 @@ For severe vitamin D deficiency (25[OH]D < 10 ng/mL), a loading dose of 50,000 I
 ## Links
 
 **Parent MOC:** 
-**Source:** [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]]
-**Related:** [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]], [[Vitamin_D_RDA_10x_Underestimation_Z-001-0059]]
+**Source:** [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]
+**Related:** [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091], [[Vitamin_D_RDA_10x_Underestimation_Z-001-0059]
 
 ---
 
@@ -29,4 +29,4 @@ For severe vitamin D deficiency (25[OH]D < 10 ng/mL), a loading dose of 50,000 I
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

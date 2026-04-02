@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, b12, assessment, mma, biomarker, homocysteine]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
+source-litnote: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]
 extraction-date: 2026-03-01
 ---
 
@@ -67,9 +67,9 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]]*
+*Source: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]*
 
 ## RELATED FILES
-- s/Methylation_Family_[B-004-0001]|Biomarker Family Guide]]
-- |Biomarkers MOC]]
+- s/Methylation_Family_[B-004-0001]|Biomarker Family Guide]
+- |Biomarkers MOC]
 

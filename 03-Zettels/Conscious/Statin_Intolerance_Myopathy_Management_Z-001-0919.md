@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, statin, intolerance, myopathy, myalgia, side-effects]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]]
+source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]
 extraction-date: 2026-03-01
 updated: 2026-03-05
 ---
@@ -57,9 +57,9 @@ updated: 2026-03-05
 
 ---
 
-*Source: [[LitNote_Statin_Pharmacology_L-001-0502]]*
+*Source: [[LitNote_Statin_Pharmacology_L-001-0502]*
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - 

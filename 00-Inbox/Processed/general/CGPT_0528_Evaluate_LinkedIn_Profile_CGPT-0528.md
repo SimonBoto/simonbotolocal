@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Evaluate LinkedIn Profile"
 date: 2023-11-25
 source: ChatGPT conversation history
-aliases: [CGPT-0528]
+aliases: CGPT-0528]
 tags: [chatgpt-archive, general]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mushroom Business Startup Guide"
 date: 2024-05-26
 source: ChatGPT conversation history
-aliases: [CGPT-0369]
+aliases: CGPT-0369]
 tags: [chatgpt-archive, nutrition, personal_development]
 status: archived
 ---

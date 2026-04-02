@@ -6,7 +6,7 @@ aliases: [Z-101-0479]
 domain: 101
 tags: [zettel, research-ethics, nuremberg-code, helsinki-declaration, belmont-report, cioms, history, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]]
+source-litnote: [[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]
 status: conscious
 ---
 
@@ -132,13 +132,13 @@ Ongoing — Revisions adapting to new research contexts
 | **Pandemic research** | Accelerated review; maintained protections |
 
 ## Related
-- **Source:** [[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]]
-- **Seven requirements:** [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]]
-- **Case studies:** [[Research_Ethics_Case_Studies_Z-101-0480]]
+- **Source:** [[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]
+- **Seven requirements:** [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]
+- **Case studies:** [[Research_Ethics_Case_Studies_Z-101-0480]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

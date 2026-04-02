@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Urine markers for diabetes"
 date: 2023-04-29
 source: ChatGPT conversation history
-aliases: [CGPT-0648]
+aliases: CGPT-0648]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, phd_research, nutrition, personal_development]
 status: archived
 ---

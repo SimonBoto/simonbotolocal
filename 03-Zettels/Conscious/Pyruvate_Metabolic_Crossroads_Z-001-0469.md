@@ -8,7 +8,7 @@ tags: [zettel, pyruvate, metabolism, acetyl-coa, lactate, krebs]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045D]]
+source: [[L-001-0045D]
 ---
 
 # Pyruvate: Metabolic Crossroads
@@ -71,13 +71,13 @@ Pyruvate connects:
 - Treat with ketogenic diet (bypasses PDH)
 
 ## Related
-- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]] Pyruvate Central Role (detailed)
-- [[Glycolysis_Steps_Regulation_Z-001-0467]] Glycolysis Steps
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477] Pyruvate Central Role (detailed)
+- [[Glycolysis_Steps_Regulation_Z-001-0467] Glycolysis Steps
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

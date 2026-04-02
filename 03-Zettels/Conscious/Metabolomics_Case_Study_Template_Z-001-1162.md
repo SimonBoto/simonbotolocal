@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, template, case-study, metabolomics, clinical, documentation]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Self_Education_Clinical_Team_L-001-0620]]"
+source-litnote: "[[LitNote_Self_Education_Clinical_Team_L-001-0620]"
 status: conscious
 ---
 
@@ -172,19 +172,19 @@ Standardized template for documenting and presenting clinical cases in metabolom
 
 ## Related
 
-- [[Clinical_Team_Education_4Arm_Methodology_Z-001-1159]]
-- [[GitHub_Clinical_Knowledge_Management_Z-001-1160]]
-- [[Asynchronous_Learning_Medical_Teams_Z-001-1161]]
+- [[Clinical_Team_Education_4Arm_Methodology_Z-001-1159]
+- [[GitHub_Clinical_Knowledge_Management_Z-001-1160]
+- [[Asynchronous_Learning_Medical_Teams_Z-001-1161]
 
 ---
 
-*Source: [[LitNote_Self_Education_Clinical_Team_L-001-0620]] | 2026-03-08*
+*Source: [[LitNote_Self_Education_Clinical_Team_L-001-0620] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[IRB_Communication_Template_Z-002-0614]|Z-002-0614]]
+- [[IRB_Communication_Template_Z-002-0614]|Z-002-0614]

@@ -6,16 +6,16 @@ aliases: [S-001-0002, Clinical-Framework, Biochemical-Assessment, Lab-Interpreta
 domain: 001
 domain-name: Clinical_Assessment
 tags: [synthesis, clinical-protocol, biomarkers, assessment, interpretation, phd-methap, living-document]
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: [[MOC-Clinical-Protocols]
 status: active
 version: 1.1
 created: 2026-03-30
 last-updated: 2026-04-01
 contributing-zettels:
-  - "[[CBC_Interpretation_Clinical_Z-001-0300]]"
-  - "[[Iron_Studies_Assessment_Z-001-0301]]"
-  - "[[Lipid_Panel_Analysis_Z-001-0302]]"
-  - "[[Metabolic_Markers_Integration_Z-001-0303]]"
+  - "[[CBC_Interpretation_Clinical_Z-001-0300]"
+  - "[[Iron_Studies_Assessment_Z-001-0301]"
+  - "[[Lipid_Panel_Analysis_Z-001-0302]"
+  - "[[Metabolic_Markers_Integration_Z-001-0303]"
 ---
 
 # Clinical Biochemical Assessment Framework — Integrated Protocol
@@ -40,7 +40,7 @@ contributing-zettels:
 | Platelets | Thrombocytosis (inflammation), thrombocytopenia |
 
 **Patterns:**
-- [[CBC_Patterns_Interpretation_Z-000-0001]]
+- [[CBC_Patterns_Interpretation_Z-000-0001]
 
 ---
 
@@ -53,7 +53,7 @@ contributing-zettels:
 | **Suboptimal** | 50-80 ng/mL | Increase dose |
 | **Deficient** | <30 ng/mL | High-dose protocol |
 
-**Protocol:** [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]]
+**Protocol:** [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]
 
 ---
 
@@ -149,7 +149,7 @@ contributing-zettels:
 ### 10. PhD Data Export
 **Format:** Standardized CSV for statistical analysis
 
-**Schema:** [[METHAP_PhD_Data_Export_Structure_Z-002-0621]]
+**Schema:** [[METHAP_PhD_Data_Export_Structure_Z-002-0621]
 
 ---
 

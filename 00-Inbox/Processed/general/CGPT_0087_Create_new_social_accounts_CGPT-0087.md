@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Create new social accounts"
 date: 2025-05-20
 source: ChatGPT conversation history
-aliases: [CGPT-0087]
+aliases: CGPT-0087]
 tags: [chatgpt-archive, general]
 status: archived
 ---

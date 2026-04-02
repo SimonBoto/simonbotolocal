@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Research Proposal Submission Protocol"
 date: 2023-09-17
 source: ChatGPT conversation history
-aliases: [CGPT-0557]
+aliases: CGPT-0557]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, greek_language, personal_development]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "PhD Protocol Summary"
 date: 2025-02-04
 source: ChatGPT conversation history
-aliases: [CGPT-0081]
+aliases: CGPT-0081]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Paleo Anti-Inflam Diet"
 date: 2023-07-08
 source: ChatGPT conversation history
-aliases: [CGPT-0606]
+aliases: CGPT-0606]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

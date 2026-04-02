@@ -4,7 +4,7 @@ aliases:
 uid: "20260215_070"
 ---
 #atomic
-parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]]
+parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]
 ---
 id: 202602150290-zettel-linus-pauling-institute-info
 tags: [zettel, #phd]
@@ -12,7 +12,7 @@ aliases: [Linus Pauling Institute Info]
 links: []
 created: 2026-02-15
 updated: 2026-02-15
-parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]]
+parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]
 ---
 
 # Zettel Linus Pauling Institute Info
@@ -20,7 +20,7 @@ parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]]
 ## Core Idea
 https://lpi.oregonstate.edu/mic
 
-[[Linus Pauling]] #Metabolomics #training
+[[Linus Pauling] #Metabolomics #training
 
 ## Context/Chain
 
@@ -32,4 +32,4 @@ https://lpi.oregonstate.edu/mic
 
 ^202602150290-zettel-linus-pauling-institute-info
 
-**Linked from raw**: [[../Raw/Zettel_Linus_Pauling_Institute_Info.md]]
+**Linked from raw**: [[../Raw/Zettel_Linus_Pauling_Institute_Info.md]

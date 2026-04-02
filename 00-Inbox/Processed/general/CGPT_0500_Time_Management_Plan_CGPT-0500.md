@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Time Management Plan"
 date: 2024-02-10
 source: ChatGPT conversation history
-aliases: [CGPT-0500]
+aliases: CGPT-0500]
 tags: [chatgpt-archive, general]
 status: archived
 ---

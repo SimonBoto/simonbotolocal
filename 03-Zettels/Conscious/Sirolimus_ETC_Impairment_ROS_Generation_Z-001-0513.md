@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, sirolimus, rapamycin, etc, electron-transport-chain, ros, oxidative-stress, mitochondrial-damage]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]]"
+source: "[[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]"
 extraction-date: 2026-03-02
 ---
 
@@ -100,12 +100,12 @@ ETC Impairment → ROS Generation
 
 ---
 
-*See also: [[Sirolimus_mTORC1_PGC1a_Mitochondrial_Biogenesis_Z-001-0512]]*
+*See also: [[Sirolimus_mTORC1_PGC1a_Mitochondrial_Biogenesis_Z-001-0512]*
 
 
 ## Related
-- [[mTORC1_Calcium_Homeostasis_mPTP_Z-001-0922]|Z-001-0922]]
+- [[mTORC1_Calcium_Homeostasis_mPTP_Z-001-0922]|Z-001-0922]
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]

@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, Saadi-2009, infants, safety]
 parent-moc: 
-source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
+source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -31,8 +31,8 @@ Saadi et al. (2009) demonstrated safety of 2,000 IU/day in infants over short du
 ## Links
 
 **Parent MOC:** 
-**Source:** _L-001-0009]]
-**Related:** [[Gallo_2013_Infant_Vitamin_D_Dose_Response_Z-001-0067]], [[UL_Conservative_vs_Research_Reality_Z-001-0071]]
+**Source:** _L-001-0009]
+**Related:** [[Gallo_2013_Infant_Vitamin_D_Dose_Response_Z-001-0067], [[UL_Conservative_vs_Research_Reality_Z-001-0071]
 
 ---
 
@@ -40,5 +40,5 @@ Saadi et al. (2009) demonstrated safety of 2,000 IU/day in infants over short du
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

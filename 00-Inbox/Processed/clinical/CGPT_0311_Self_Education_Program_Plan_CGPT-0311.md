@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Self-Education Program Plan"
 date: 2024-08-15
 source: ChatGPT conversation history
-aliases: [CGPT-0311]
+aliases: CGPT-0311]
 tags: [chatgpt-archive, clinical, nutrition, communication]
 status: archived
 ---

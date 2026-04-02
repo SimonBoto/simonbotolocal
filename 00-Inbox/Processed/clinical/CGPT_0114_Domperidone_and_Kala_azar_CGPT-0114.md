@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Domperidone and Kala-azar"
 date: 2025-03-25
 source: ChatGPT conversation history
-aliases: [CGPT-0114]
+aliases: CGPT-0114]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

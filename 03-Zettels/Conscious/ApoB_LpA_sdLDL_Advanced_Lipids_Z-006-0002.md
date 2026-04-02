@@ -55,18 +55,18 @@ connections:
 | **20-30** | 🟡 Intermediate | Moderate |
 | **>30** | 🔴 Pattern B | High |
 
-**Link to IR:** [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md]] — TG/HDL >3.0 strongly predicts elevated sdLDL
+**Link to IR:** [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md] — TG/HDL >3.0 strongly predicts elevated sdLDL
 
 ---
 
 ## 🔗 Connected Systems
 
 **Lipid Patterns:**
-- [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md]] — Lipid Pattern A/B (sdLDL defines Pattern B)
-- [[TG_HDL_Ratio_IR_Marker_Z-001-0049.md]] — TG/HDL ratio (correlates with sdLDL)
+- [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md] — Lipid Pattern A/B (sdLDL defines Pattern B)
+- [[TG_HDL_Ratio_IR_Marker_Z-001-0049.md] — TG/HDL ratio (correlates with sdLDL)
 
 ** Resistance:**
-- [[Metabolic_Syndrome_Criteria_Z-001-0050.md]] — Metabolic syndrome (drives Pattern B, ↑sdLDL)
+- [[Metabolic_Syndrome_Criteria_Z-001-0050.md] — Metabolic syndrome (drives Pattern B, ↑sdLDL)
 - IR → hepatic overproduction of VLDL → CETP-mediated TG exchange → sdLDL
 
 ---
@@ -130,11 +130,11 @@ patient_id,visit,apo_b_mg_dl,lp_a_mg_dl,sdldl_mg_dl,advanced_lipid_status
 > "Lp(a) is the genetic wildcard. I've seen patients with LDL-C 120 but Lp(a) 80 — their actual risk is like LDL-C 180. Always check Lp(a) once, especially if family history of early heart disease."
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
-- s/Lipid_Ratios_[B-006-0001]|Lipid Ratios Family Guide]]
-- /Individual/ApoB_Apolipoprotein_B_Atherogenic_Particles_Z-006-0005]|ApoB — Atherogenic Particles]]
-- [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001]|LDL Cholesterol]]
-- [[Lp-a_Lipoprotein-a_Genetic_CV_Risk_Z-006-0006]|Lp(a) — Genetic CV Risk]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+- s/Lipid_Ratios_[B-006-0001]|Lipid Ratios Family Guide]
+- /Individual/ApoB_Apolipoprotein_B_Atherogenic_Particles_Z-006-0005]|ApoB — Atherogenic Particles]
+- [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001]|LDL Cholesterol]
+- [[Lp-a_Lipoprotein-a_Genetic_CV_Risk_Z-006-0006]|Lp(a) — Genetic CV Risk]
 
 ---
 

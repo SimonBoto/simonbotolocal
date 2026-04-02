@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, sle, lupus, telomeres, disease-activity, biomarker]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]]"
+source-litnote: "[[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]"
 status: conscious
 ---
 
@@ -119,16 +119,16 @@ status: conscious
 
 ## Related
 
-- [[RA_Telomerase_Elevation_Z-001-1175]]
-- [[CD28_Negative_TCells_Pathogenicity_Z-001-1183]]
-- [[Premature_CVD_Autoimmunity_Z-001-1185]]
+- [[RA_Telomerase_Elevation_Z-001-1175]
+- [[CD28_Negative_TCells_Pathogenicity_Z-001-1183]
+- [[Premature_CVD_Autoimmunity_Z-001-1185]
 
 ---
 
-*Source: [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]] | 2026-03-08*
+*Source: [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624] | 2026-03-08*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- /CRP_[B-002-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- /CRP_[B-002-0001]|Biomarker Family Guide]
 - 
 

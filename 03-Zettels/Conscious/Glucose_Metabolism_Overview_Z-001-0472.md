@@ -8,7 +8,7 @@ tags: [zettel, glucose, metabolism, glycolysis, insulin, energy]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045E]]
+source: [[L-001-0045E]
 ---
 
 # Glucose  Overview
@@ -61,13 +61,13 @@ Glucose → Acetyl-CoA →
 - **Epinephrine:** Emergency glucose mobilization
 
 ## Related
-- [[Glycolysis_Steps_Regulation_Z-001-0467]] Glycolysis Steps
-- [[Fructose_Metabolism_Lipogenesis_Z-001-0473]] Fructose Metabolism (contrast)
+- [[Glycolysis_Steps_Regulation_Z-001-0467] Glycolysis Steps
+- [[Fructose_Metabolism_Lipogenesis_Z-001-0473] Fructose Metabolism (contrast)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

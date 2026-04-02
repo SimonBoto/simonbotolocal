@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Medical Ethics Assistance"
 date: 2025-03-07
 source: ChatGPT conversation history
-aliases: [CGPT-0131]
+aliases: CGPT-0131]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

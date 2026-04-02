@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolomics Study Advancement"
 date: 2024-06-09
 source: ChatGPT conversation history
-aliases: [CGPT-0358]
+aliases: CGPT-0358]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, phd_research]
 status: archived
 ---

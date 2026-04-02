@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, compensatory-IR, hyperinsulinemia, early-detection, beta-cell]
 parent-moc: 
-source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
+source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
@@ -38,9 +38,9 @@ The disconnect between normal glucose and elevated insulin is the diagnostic clu
 
 ## Links
 
-- **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md]], [[Mitochondrial_Dysfunction_IR_Z-001-0030.md]], [[Inflammatory_Signaling_IR_Z-001-0031.md]] — All mechanisms converge here
-- **Parallel:** [[Fasting_Insulin_Superior_Early_Detection_Z-001-0044.md]] — Fasting insulin detects this stage
-- **Downstream:** [[Beta_Cell_Exhaustion_Stage_Z-001-0035.md]] — Progresses to beta-cell exhaustion
+- **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md], [[Mitochondrial_Dysfunction_IR_Z-001-0030.md], [[Inflammatory_Signaling_IR_Z-001-0031.md] — All mechanisms converge here
+- **Parallel:** [[Fasting_Insulin_Superior_Early_Detection_Z-001-0044.md] — Fasting insulin detects this stage
+- **Downstream:** [[Beta_Cell_Exhaustion_Stage_Z-001-0035.md] — Progresses to beta-cell exhaustion
 
 ## Context
 
@@ -53,8 +53,8 @@ The disconnect between normal glucose and elevated insulin is the diagnostic clu
 *UID: Z-001-0034 | Domain: 001 | Created: 2026-02-24*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

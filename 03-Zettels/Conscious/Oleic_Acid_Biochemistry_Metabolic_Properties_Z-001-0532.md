@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, oleic-acid, omega-9, biochemistry, stability]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]
+source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]
 extraction-date: 2026-03-01
 ---
 
@@ -59,11 +59,11 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: _L-001-0506]]*
+*Source: _L-001-0506]*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

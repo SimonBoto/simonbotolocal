@@ -160,8 +160,8 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
-- [[Z-012-0301|Oxalate Metabolism]]
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
+- [[Z-012-0301|Oxalate Metabolism]
 
 source-litnote: Synthesized from clinical practice
 ---

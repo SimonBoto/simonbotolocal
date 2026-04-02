@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Professor's Low Grades Solution."
 date: 2023-05-03
 source: ChatGPT conversation history
-aliases: [CGPT-0644]
+aliases: CGPT-0644]
 tags: [chatgpt-archive, phd_research, consciousness_ai]
 status: archived
 ---

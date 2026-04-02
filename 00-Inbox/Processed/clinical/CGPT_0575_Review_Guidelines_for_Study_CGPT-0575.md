@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Review Guidelines for Study"
 date: 2023-09-10
 source: ChatGPT conversation history
-aliases: [CGPT-0575]
+aliases: CGPT-0575]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

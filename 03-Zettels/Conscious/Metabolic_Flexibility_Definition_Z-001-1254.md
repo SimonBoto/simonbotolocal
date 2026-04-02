@@ -6,7 +6,7 @@ aliases: [Z-001-1254]
 domain: 001
 tags: [zettel, metabolic-flexibility, RER, fuel-switching, metabolic-health, insulin-sensitivity]
 parent-moc: ", "
-source-litnote: "[[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]]"
+source-litnote: "[[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]"
 status: conscious
 ---
 
@@ -115,18 +115,18 @@ Inability to appropriately switch fuel sources; persistent dependence on glucose
 
 ## Related Zettels
 
-- [[Z-001-1253_Hyperinsulinemia_Mechanisms]] — How chronic insulin suppresses flexibility
-- [[Z-001-1255_Insulin_Resistance_Beta_Oxidation_Block]] — Pathology of inflexibility in IR
-- [[Z-001-1258_ATP_Yield_Comparison]] — Efficiency of different fuel sources
+- [[Z-001-1253_Hyperinsulinemia_Mechanisms] — How chronic insulin suppresses flexibility
+- [[Z-001-1255_Insulin_Resistance_Beta_Oxidation_Block] — Pathology of inflexibility in IR
+- [[Z-001-1258_ATP_Yield_Comparison] — Efficiency of different fuel sources
 
 ---
 
 ## Source
 
-Extracted from: [[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]]  
+Extracted from: [[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]  
 CGPT-0647 (April 30, 2023) — Messages 19-20
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

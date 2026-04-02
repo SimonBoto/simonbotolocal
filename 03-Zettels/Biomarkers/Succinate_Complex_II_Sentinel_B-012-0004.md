@@ -133,10 +133,10 @@ Succinate accumulation is a **primary hypoxia signal**:
 ### Cross-Domain Links
 | Related Marker | Connection | Clinical Implication |
 |----------------|------------|---------------------|
-| [[B-012-0003|α-Ketoglutarate]] | Upstream partner | α-KG/succinate ratio indicates α-KGDH efficiency |
-| [[B-003-0001|Ferritin]] | SDH requires iron | Check iron with elevated succinate |
-| [[B-002-0001|CRP]] | Inflammation can cause hypoxia | High CRP + high succinate = tissue hypoxia |
-| [[B-012-0001|Citrate]] | Full Krebs pattern | All markers elevated = global dysfunction |
+| [[B-012-0003|α-Ketoglutarate] | Upstream partner | α-KG/succinate ratio indicates α-KGDH efficiency |
+| [[B-003-0001|Ferritin] | SDH requires iron | Check iron with elevated succinate |
+| [[B-002-0001|CRP] | Inflammation can cause hypoxia | High CRP + high succinate = tissue hypoxia |
+| [[B-012-0001|Citrate] | Full Krebs pattern | All markers elevated = global dysfunction |
 
 ---
 
@@ -247,10 +247,10 @@ Succinate accumulation is a **primary hypoxia signal**:
 ---
 
 ## Related Files
-- [[B-012-0003|α-Ketoglutarate — Nitrogen & Energy Hub]]
-- [[B-012-0005|Fumarate — The Fumarase Checkpoint]]
-- [[B-012-0006|Malate — Mitochondrial-Cytosol Shuttle]]
-- [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition]]
+- [[B-012-0003|α-Ketoglutarate — Nitrogen & Energy Hub]
+- [[B-012-0005|Fumarate — The Fumarase Checkpoint]
+- [[B-012-0006|Malate — Mitochondrial-Cytosol Shuttle]
+- [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition]
 
 ---
 *Part of OAT Metabolite Training System — Mitochondrial Markers Module*

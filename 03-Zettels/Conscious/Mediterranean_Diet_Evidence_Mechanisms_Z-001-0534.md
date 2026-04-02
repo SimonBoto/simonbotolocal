@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mediterranean-diet, predimed, evidence]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]
+source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]
 extraction-date: 2026-03-01
 ---
 
@@ -62,10 +62,10 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]*
+*Source: [[LitNote_Oleic_Acid_Clinical_L-001-0506]*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]|Z-001-1076]]
+- [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]|Z-001-1076]

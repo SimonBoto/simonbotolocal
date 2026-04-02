@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Breach of Trust"
 date: 2024-06-20
 source: ChatGPT conversation history
-aliases: [CGPT-0348]
+aliases: CGPT-0348]
 tags: [chatgpt-archive, clinical, nutrition]
 status: archived
 ---

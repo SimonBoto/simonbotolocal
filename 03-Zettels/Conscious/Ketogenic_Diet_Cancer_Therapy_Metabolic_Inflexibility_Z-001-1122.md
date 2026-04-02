@@ -7,8 +7,8 @@ domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, ketogenic-diet, cancer, therapy]
 parent-moc: 
-source-litnote: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]]
-source: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]]
+source-litnote: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]
+source: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]
 confidence: high
 created: 2026-03-08
 ---
@@ -136,9 +136,9 @@ GKI = 70 ÷ 2.0 = 35 → 3.5 (therapeutic range)
 | **Weight loss** | Monitor, adjust calories |
 
 ## Related
-- [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]]
-- [[Caloric_Restriction_Fasting_Cancer_Metabolic_Therapy_Z-001-1124]]
-- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
+- [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]
+- [[Caloric_Restriction_Fasting_Cancer_Metabolic_Therapy_Z-001-1124]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]
 - 
 
 ---
@@ -146,4 +146,4 @@ GKI = 70 ÷ 2.0 = 35 → 3.5 (therapeutic range)
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

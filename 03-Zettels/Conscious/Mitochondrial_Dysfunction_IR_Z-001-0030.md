@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, mitochondria, oxidative-stress, beta-oxidation, insulin-resistance]
 parent-moc: 
-source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
+source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
 confidence: high
 created: 2026-02-24
 ---
@@ -31,9 +31,9 @@ Mitochondrial overload from chronic nutrient excess creates oxidative stress whe
 
 ## Links
 
-- **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md]] — Lipotoxicity creates mitochondrial load
-- **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md]] —  amplifies oxidative stress
-- **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md]] — Compensatory IR develops
+- **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md] — Lipotoxicity creates mitochondrial load
+- **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md] —  amplifies oxidative stress
+- **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — Compensatory IR develops
 
 ## Context
 
@@ -47,7 +47,7 @@ Mitochondrial overload from chronic nutrient excess creates oxidative stress whe
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

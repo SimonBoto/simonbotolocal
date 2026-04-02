@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Grey Hair Supplement Review"
 date: 2025-01-11
 source: ChatGPT conversation history
-aliases: [CGPT-0200]
+aliases: CGPT-0200]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition, technology, personal_development]
 status: archived
 ---

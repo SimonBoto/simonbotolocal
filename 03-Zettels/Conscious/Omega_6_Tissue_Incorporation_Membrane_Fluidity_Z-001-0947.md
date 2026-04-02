@@ -119,11 +119,11 @@ status: conscious
 4. Support membrane repair (phosphatidylcholine)
 
 ## Related Zettels
-- [[Linoleic_Acid_Metabolic_Fate_Desaturase_Competition_Z-001-0946]] — Metabolic pathway
-- [[Cardiolipin_Omega_6_Mitochondrial_Dysfunction_Z-001-0949]] — Mitochondrial effects
+- [[Linoleic_Acid_Metabolic_Fate_Desaturase_Competition_Z-001-0946] — Metabolic pathway
+- [[Cardiolipin_Omega_6_Mitochondrial_Dysfunction_Z-001-0949] — Mitochondrial effects
 
 ## Source
-[[LitNote_Seed_Oils_Fatty_Acid_Composition_L-001-0522]]
+[[LitNote_Seed_Oils_Fatty_Acid_Composition_L-001-0522]
 
 ---
 
@@ -132,7 +132,7 @@ status: conscious
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

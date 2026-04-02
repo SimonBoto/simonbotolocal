@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, insulin, history, diabetes, starvation-treatment, 1920s]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Insulin_History_L-001-0207]]
+source-litnote: [[LitNote_Insulin_History_L-001-0207]
 extraction-date: 2026-03-01
 ---
 
@@ -103,18 +103,18 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Insulin_History_L-001-0207]]*  
+*Source: [[LitNote_Insulin_History_L-001-0207]*  
 *Extracted: 2026-03-01*
 
 ## Related
-- [[Olive_Oil_Special_Populations_Z-001-0536]|Z-001-0536]]
+- [[Olive_Oil_Special_Populations_Z-001-0536]|Z-001-0536]
 
 
 ## Related
-- [[ADA_Founding_Mission_1940_Z-001-0241]|Z-001-0241]]
+- [[ADA_Founding_Mission_1940_Z-001-0241]|Z-001-0241]
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Oleic_Acid_Metabolic_Benefits_Z-001-0533]|Z-001-0533]]
+- [[Oleic_Acid_Metabolic_Benefits_Z-001-0533]|Z-001-0533]

@@ -13,7 +13,7 @@ title: "now lets describe in detail what
 Study Design
 Cross-Sectional Obse..."
 date: 2024-02-25
-source: "[[CGPT_0496_PhD_Protocol_Refinement_[CGPT-0496]]"
+source: "[[CGPT_0496_PhD_Protocol_Refinement_CGPT-0496]"
 aliases: [X-MET-240225-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
@@ -64,8 +64,8 @@ HbA1c<5.5% ΚΑΙ HOMA IR<1.9 ΚΑΙ Τριγλυκερίδια <100 ΚΑΙ φυ
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]
 
 ## Status
 

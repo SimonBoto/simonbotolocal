@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "AI Development Updates & Skills"
 date: 2023-12-10
 source: ChatGPT conversation history
-aliases: [CGPT-0521]
+aliases: CGPT-0521]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

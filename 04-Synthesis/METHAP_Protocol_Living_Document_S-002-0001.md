@@ -6,16 +6,16 @@ aliases: [S-002-0001, METHAP-Protocol, PhD-Study-Protocol, Clinical-Trial-Design
 domain: 002
 domain-name: METHAP_Study
 tags: [synthesis, methap, phd, protocol, irb, study-design, vitamin-d, adipic-acid, metabolomics, clinical-trial, living-document]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: [[MOC-Research-Methods]
 status: active
 version: 1.1
 created: 2026-03-30
 last-updated: 2026-04-01
 contributing-zettels:
-  - "[[METHAP_Study_Design_Z-002-0001]]"
-  - "[[Adipic_Acid_Primary_Endpoint_Z-002-0002]]"
-  - "[[Vitamin_D3_Intervention_Dosing_Z-002-0003]]"
-  - "[[Vitamin_K2_Synergy_Mechanism_Z-002-0004]]"
+  - "[[METHAP_Study_Design_Z-002-0001]"
+  - "[[Adipic_Acid_Primary_Endpoint_Z-002-0002]"
+  - "[[Vitamin_D3_Intervention_Dosing_Z-002-0003]"
+  - "[[Vitamin_K2_Synergy_Mechanism_Z-002-0004]"
 ---
 
 # METHAP Protocol
@@ -52,15 +52,15 @@ contributing-zettels:
 - [[Vitamin_D_Adipose_Tissue_Immunomodulation_Z-001-0226]
 
 **Adipic Acid as Biomarker**
-  [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]]
+  [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]
 - [[Adipate_Formation_Palmitate_Pathway_Z-101-0008] — Metabolic pathway
-- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]] — Clinical interpretation
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011] — Clinical interpretation
 - [[Urinary_Adipate_Interpretation_Clinical_Z-001-1199]— Diagnostic utility
 
 **Mitochondrial Connection**
-- [[Mitochondrial_Dysfunction_IR_Z-001-0015]]
-- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]]
-- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Mitochondrial_Dysfunction_IR_Z-001-0015]
+- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]
 ### 1.2 Knowledge Gap
 
 Current evidence demonstrates:
@@ -134,7 +134,7 @@ Week 16: Follow-up assessment (4 weeks post-intervention)
 - Able to provide informed consent
 
 **Exclusion Criteria:**
-- [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]]
+- [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]
 - Known hypercalcemia or hyperparathyroidism
 - Kidney disease (eGFR <60)
 - Liver disease (ALT/AST >3x ULN)
@@ -146,8 +146,8 @@ Week 16: Follow-up assessment (4 weeks post-intervention)
 - Recent (within 3 months) participation in other intervention studies
 
 **Recruitment Strategy:**
-- [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]]
-- [[METHAP_Population_Recruitment_Strategy_Z-001-1141]]
+- [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]
+- [[METHAP_Population_Recruitment_Strategy_Z-001-1141]
 - Clinic patient database
 - Social media advertising
 - Community partnerships
@@ -168,7 +168,7 @@ Week 16: Follow-up assessment (4 weeks post-intervention)
 - Required per group: 32
 - With dropout: 40 participants
 
-**Software:** G*Power 3.1.9.7 — [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]]
+**Software:** G*Power 3.1.9.7 — [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]
 
 ---
 
@@ -185,7 +185,7 @@ Week 16: Follow-up assessment (4 weeks post-intervention)
 
 **Vitamin K2 (MK-7):**
 - Dose: 200 mcg daily
-- Rationale: [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]]
+- Rationale: [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]
 - Prevents vascular calcification from high-dose D
 - Synergistic effect on metabolic outcomes
 - Timing: Same as D3
@@ -193,15 +193,15 @@ Week 16: Follow-up assessment (4 weeks post-intervention)
 ### 4.2 Dosing Rationale
 
 **Why 10,000 IU?**
-- [[Vitamin_D_RDA_10x_Underestimation_Z-001-0059]]
-- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004]]
+- [[Vitamin_D_RDA_10x_Underestimation_Z-001-0059]
+- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004]
 - Safe upper limit: 10,000 IU/day (Endocrine Society)
 - Required to raise 25(OH)D to optimal range (80-150 nmol/L)
 - Lower doses insufficient for metabolic effects
 
 **Safety Monitoring:**
-- [[High_Dose_Vitamin_D_Monitoring_Protocol_Z-001-0075]]
-- [[Vitamin_D_Safety_Research_Summary_Z-001-1075]]
+- [[High_Dose_Vitamin_D_Monitoring_Protocol_Z-001-0075]
+- [[Vitamin_D_Safety_Research_Summary_Z-001-1075]
 - Calcium levels at weeks 4, 8, 12
 - 25(OH)D at weeks 4, 8, 12
 - Discontinue if 25(OH)D >250 nmol/L or calcium >10.5 mg/dL
@@ -235,19 +235,19 @@ Week 16: Follow-up assessment (4 weeks post-intervention)
 - Method: Organic acids test (GC-MS)
 - Reporting: μmol/mmol creatinine (normalized)
 - Timing: Baseline (Week 0), End (Week 12)
-- [[Urinary_Adipate_Interpretation_Clinical_Z-001-1199]]
+- [[Urinary_Adipate_Interpretation_Clinical_Z-001-1199]
 
 ### 5.3 Secondary Outcome Measures
 
 **Metabolic Flexibility:**
 - Fasting BHB (capillary blood or serum)
-- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
-- [[Metabolic_Flexibility_RER_Z-001-1012]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]
+- [[Metabolic_Flexibility_RER_Z-001-1012]
 
 **Insulin Sensitivity:**
 - Fasting glucose and insulin
-- HOMA-IR calculation — [[HOMA_IR_Calculation_Interpretation_Z-001-0046]]
-- TyG Index — [[TyG_Index_IR_Assessment_Z-001-0048]]
+- HOMA-IR calculation — [[HOMA_IR_Calculation_Interpretation_Z-001-0046]
+- TyG Index — [[TyG_Index_IR_Assessment_Z-001-0048]
 
 **Inflammatory Markers:**
 - High-sensitivity CRP
@@ -273,7 +273,7 @@ Week 16: Follow-up assessment (4 weeks post-intervention)
 **Metabolomics (if funding):**
 - Targeted plasma metabolomics
 - Urine organic acids full panel
-- [[Metabolomics_Preprocessing_Quality_Control_Z-001-1156]]
+- [[Metabolomics_Preprocessing_Quality_Control_Z-001-1156]
 
 **Gut Microbiome (if funding):**
 - Stool sample, 16S rRNA sequencing
@@ -308,7 +308,7 @@ Week 16: Follow-up assessment (4 weeks post-intervention)
 **Correlation Analyses:**
 - Change in 25(OH)D vs change in adipic acid
 - Baseline 25(OH)D vs treatment response
-- [[Multivariate_Analysis_Pitfalls_Z-001-0517]]
+- [[Multivariate_Analysis_Pitfalls_Z-001-0517]
 
 **Subgroup Analyses (exploratory):**
 - Baseline vitamin D status (insufficient vs insufficient)
@@ -344,22 +344,22 @@ Week 16: Follow-up assessment (4 weeks post-intervention)
 | Respect for Subjects | Privacy protection, right to withdraw |
 
 **Source Zettels:**
-- [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]]
-- [[Research_Ethics_Case_Studies_Z-101-0480]]
+- [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]
+- [[Research_Ethics_Case_Studies_Z-101-0480]
 
 ### 7.2 Historical Guidelines
 
-- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]]
-- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]]
-- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]]
-- [[CIOMS_International_Research_Ethics_Z-002-0611]]
-- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]]
+- [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]
+- [[Declaration_Helsinki_Research_Ethics_Z-002-0609]
+- [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]
 
 ### 7.3 Informed Consent
 
 **Elements:**
-- [[Informed_Consent_Ethical_Research_Z-002-0606]]
-- [[METHAP_Informed_Consent_Framework_Z-101-0474]]
+- [[Informed_Consent_Ethical_Research_Z-002-0606]
+- [[METHAP_Informed_Consent_Framework_Z-101-0474]
 - Study purpose and procedures
 - Risks and benefits
 - Confidentiality protections
@@ -378,8 +378,8 @@ Week 16: Follow-up assessment (4 weeks post-intervention)
 ### 7.5 Regulatory Registration
 
 **ClinicalTrials.gov:**
-- [[ClinicalTrials_Gov_Registration_Structure_Z-101-0476]]
-- [[ClinicalTrials_Gov_Compliance_Checklist_Z-101-0477]]
+- [[ClinicalTrials_Gov_Registration_Structure_Z-101-0476]
+- [[ClinicalTrials_Gov_Compliance_Checklist_Z-101-0477]
 - Registration before first participant enrollment
 - Results reporting within 12 months of completion
 
@@ -393,7 +393,7 @@ Week 16: Follow-up assessment (4 weeks post-intervention)
 - 25(OH)D at weeks 4, 8, 12
 - Serum calcium at weeks 4, 8, 12
 - PTH if calcium elevated
-- [[Vitamin_D_Toxicity_Myth_Persistence_Z-001-0057]]
+- [[Vitamin_D_Toxicity_Myth_Persistence_Z-001-0057]
 
 **Stopping Rules:**
 - 25(OH)D >250 nmol/L
@@ -454,7 +454,7 @@ Week 16: Follow-up assessment (4 weeks post-intervention)
 - Training and certification for staff
 - Data entry double-check
 - Source document verification
-- [[Metabolomics_Quality_Standards_Z-001-1078]]
+- [[Metabolomics_Quality_Standards_Z-001-1078]
 
 ---
 

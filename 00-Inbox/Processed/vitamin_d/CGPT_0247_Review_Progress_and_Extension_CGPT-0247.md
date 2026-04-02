@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Review Progress and Extension"
 date: 2024-11-18
 source: ChatGPT conversation history
-aliases: [CGPT-0247]
+aliases: CGPT-0247]
 tags: [chatgpt-archive, vitamin_d]
 status: archived
 ---

@@ -41,17 +41,17 @@ source-litnote: Synthesized from clinical practice
 ## 🔗 Connected s
 
 **IR Core Panel:**
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (typically >2.5-3.0 in metabolic syndrome)
-- [[TyG_Index_IR_Assessment_Z-001-0048.md]] — TyG Index (elevated, often >5.0)
-- [[TG_HDL_Ratio_IR_Marker_Z-001-0049.md]] — TG/HDL ratio (typically >3.0)
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md] — HOMA-IR (typically >2.5-3.0 in metabolic syndrome)
+- [[TyG_Index_IR_Assessment_Z-001-0048.md] — TyG Index (elevated, often >5.0)
+- [[TG_HDL_Ratio_IR_Marker_Z-001-0049.md] — TG/HDL ratio (typically >3.0)
 
 **Individual Components:**
-- Criterion 2,3: [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md]] — Lipid Pattern A/B
-- Criterion 5: [[HOMA_Beta_Beta_Cell_Function_Z-001-0047.md]] — HOMA-β (may show compensation or failure)
+- Criterion 2,3: [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md] — Lipid Pattern A/B
+- Criterion 5: [[HOMA_Beta_Beta_Cell_Function_Z-001-0047.md] — HOMA-β (may show compensation or failure)
 
 **Mechanism:**
-- _Z-001-0018.md]] — Lipotoxicity (central adiposity drives IR)
-- [[Predictive_Metabolites_T1D_Example_Z-001-0019.md]] — Inflammatory signaling (visceral fat cytokines)
+- _Z-001-0018.md] — Lipotoxicity (central adiposity drives IR)
+- [[Predictive_Metabolites_T1D_Example_Z-001-0019.md] — Inflammatory signaling (visceral fat cytokines)
 
 ---
 
@@ -179,13 +179,13 @@ patient_id,visit,waist_cm,tg_mg_dl,hdl_c_mg_dl,sbp,dbp,glucose,criteria_count,me
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
 
 
 ## Related
-- [[Gordon_2008_Adolescent_High_Dose_Protocol_Z-001-0070]|Z-001-0070]]
+- [[Gordon_2008_Adolescent_High_Dose_Protocol_Z-001-0070]|Z-001-0070]

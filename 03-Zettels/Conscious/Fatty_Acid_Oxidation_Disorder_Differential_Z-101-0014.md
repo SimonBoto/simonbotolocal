@@ -7,7 +7,7 @@ domain: 101
 tags: [zettel, FAOD, fatty-acid-oxidation-disorder, MCADD, CPT-deficiency, carnitine, genetic-metabolic]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]]"
+source: "[[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]"
 extraction-date: 2026-03-02
 ---
 
@@ -146,8 +146,8 @@ Persistent? —→ Expanded testing (biotinidase, mitochondrial DNA)
 
 ---
 
-*See also: [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_Z-101-0013]]*
+*See also: [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_Z-101-0013]*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

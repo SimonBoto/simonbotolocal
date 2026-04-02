@@ -86,8 +86,8 @@ Take 2 capsules with water, three times daily (6 total), for up to one week or a
 | 2 | €0.78 | 1 g | Maintenance/prevention |
 
 ## Biomarker Links
-- [[Urinalysis_UTI_Markers_Z-008-XXXX]] — leukocytes, nitrites
-- [[E_Coli_UTI_Pathogen_Z-008-XXXX]] — most common UTI bacteria |
+- [[Urinalysis_UTI_Markers_Z-008-XXXX] — leukocytes, nitrites
+- [[E_Coli_UTI_Pathogen_Z-008-XXXX] — most common UTI bacteria |
 
 ## Comparison with Cranberry Products
 | Feature | D-Mannose & Mastic | Cranberry Extract |

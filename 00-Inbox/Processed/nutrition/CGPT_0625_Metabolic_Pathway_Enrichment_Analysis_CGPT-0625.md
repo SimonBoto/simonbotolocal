@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolic Pathway Enrichment Analysis"
 date: 2023-05-30
 source: ChatGPT conversation history
-aliases: [CGPT-0625]
+aliases: CGPT-0625]
 tags: [chatgpt-archive, nutrition, personal_development]
 status: archived
 ---

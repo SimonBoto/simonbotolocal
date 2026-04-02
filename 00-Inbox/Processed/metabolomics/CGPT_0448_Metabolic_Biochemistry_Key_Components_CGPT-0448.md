@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolic Biochemistry: Key Components"
 date: 2024-03-24
 source: ChatGPT conversation history
-aliases: [CGPT-0448]
+aliases: CGPT-0448]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical]
 status: archived
 ---

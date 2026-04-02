@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Methodology Issues in Study"
 date: 2023-12-14
 source: ChatGPT conversation history
-aliases: [CGPT-0517]
+aliases: CGPT-0517]
 tags: [chatgpt-archive, phd_research]
 status: archived
 ---

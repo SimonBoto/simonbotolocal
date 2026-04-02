@@ -7,7 +7,7 @@ domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, us-regulations, irb]
 parent-moc: 
-source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]]"
+source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]"
 confidence: high
 created: 2026-03-27
 ---
@@ -79,8 +79,8 @@ Belmont principles in METHAP:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]]  
-**Related:** [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0613]] — Triggering event
+**Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]  
+**Related:** [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0613] — Triggering event
 
 ---
 
@@ -88,5 +88,5 @@ Belmont principles in METHAP:
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

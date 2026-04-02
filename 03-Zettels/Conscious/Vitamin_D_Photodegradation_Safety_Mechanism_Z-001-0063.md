@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, photodegradation, sunlight, self-regulation]
 parent-moc: 
-source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]
+source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -27,8 +27,8 @@ The skin has built-in protection against vitamin D toxicity from sun exposure: p
 ## Links
 
 **Parent MOC:** -
-**Source:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]
-**Related:** [[Endogenous_Vitamin_D_Production_Capacity_Z-001-0062]], [[Vitamin_D_Toxicity_Myth_Persistence_Z-001-0057]]
+**Source:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]
+**Related:** [[Endogenous_Vitamin_D_Production_Capacity_Z-001-0062], [[Vitamin_D_Toxicity_Myth_Persistence_Z-001-0057]
 
 ---
 
@@ -36,6 +36,6 @@ The skin has built-in protection against vitamin D toxicity from sun exposure: p
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

@@ -7,8 +7,8 @@ domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, tumor, microenvironment, lactate, acidification]
 parent-moc: 
-source-litnote: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]]
-source: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]]
+source-litnote: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]
+source: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]
 confidence: high
 created: 2026-03-08
 ---
@@ -116,18 +116,18 @@ Cancer cells produce large amounts of lactate through aerobic glycolysis, acidif
 - **Hyperpolarized lactate MRI:** Metabolic imaging
 
 ## Related
-- [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]]
-- _Z-001-1120]]
+- [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]
+- _Z-001-1120]
 - 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

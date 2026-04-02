@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "PhD in Insulin Resistance"
 date: 2023-09-10
 source: ChatGPT conversation history
-aliases: [CGPT-0573]
+aliases: CGPT-0573]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, phd_research, nutrition, personal_development]
 status: archived
 ---

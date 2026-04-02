@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Virus Cultivation in Eggs"
 date: 2025-01-11
 source: ChatGPT conversation history
-aliases: [CGPT-0202]
+aliases: CGPT-0202]
 tags: [chatgpt-archive, clinical, nutrition]
 status: archived
 ---

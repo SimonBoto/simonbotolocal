@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, education, asynchronous-learning, clinical-team, time-management]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Self_Education_Clinical_Team_L-001-0620]]"
+source-litnote: "[[LitNote_Self_Education_Clinical_Team_L-001-0620]"
 status: conscious
 ---
 
@@ -105,13 +105,13 @@ status: conscious
 
 ## Related
 
-- [[Clinical_Team_Education_4Arm_Methodology_Z-001-1159]]
-- [[GitHub_Clinical_Knowledge_Management_Z-001-1160]]
+- [[Clinical_Team_Education_4Arm_Methodology_Z-001-1159]
+- [[GitHub_Clinical_Knowledge_Management_Z-001-1160]
 
 ---
 
-*Source: [[LitNote_Self_Education_Clinical_Team_L-001-0620]] | 2026-03-08*
+*Source: [[LitNote_Self_Education_Clinical_Team_L-001-0620] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

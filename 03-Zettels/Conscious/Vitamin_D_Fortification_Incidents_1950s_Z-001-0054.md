@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, history, fortification, toxicity-myth]
 parent-moc: 
-source: [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
+source: [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -29,8 +29,8 @@ In the 1930s-1950s, widespread vitamin D fortification of milk and cereals to co
 ## Links
 
 **Parent MOC:** 
-**Source:** [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
-**Related:** [[IIH_CYP24A1_Mutation_True_Cause_Z-001-0055]]
+**Source:** [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]
+**Related:** [[IIH_CYP24A1_Mutation_True_Cause_Z-001-0055]
 
 ---
 
@@ -38,5 +38,5 @@ In the 1930s-1950s, widespread vitamin D fortification of milk and cereals to co
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

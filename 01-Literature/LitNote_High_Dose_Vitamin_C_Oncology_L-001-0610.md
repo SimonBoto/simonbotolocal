@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 # Lit: ChatGPT 2024 — High-Dose Vitamin C in Oncology
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_[CGPT-0264]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]]
 - **Date:** October 27, 2024
 
 ## Core Concepts Extracted
@@ -26,17 +26,17 @@ extraction-date: 2026-03-08
 ### 1. Pro-Oxidant Effects at Pharmacological Doses
 > "High-dose IV vitamin C generates hydrogen peroxide, selectively toxic to cancer cells due to their catalase deficiency."
 
-**Zettel extracted:** [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]]
+**Zettel extracted:** [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]
 
 ### 2. Epigenetic Modulation
 > "Vitamin C is a cofactor for DNA and histone demethylases, affecting gene expression in cancer cells."
 
-**Zettel extracted:** [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]]
+**Zettel extracted:** [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]
 
 ### 3. Clinical Evidence and Controversies
 > "Mixed results from clinical trials; promising preclinical data but need for rigorous large-scale studies."
 
-**Zettel extracted:** [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]
+**Zettel extracted:** [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]
 
 ## The Dose Distinction
 
@@ -67,9 +67,9 @@ extraction-date: 2026-03-08
 **Synthesis:** High-dose vitamin C represents a metabolic approach to cancer therapy—generating oxidative stress selectively in cancer cells while potentially enhancing epigenetic regulation. Best evidence supports use as adjunctive therapy, not standalone.
 
 ## Zettels Created from This Source
-1. [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]]
-2. [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]]
-3. [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]
+1. [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]
+2. [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]
+3. [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]
 
 ## Related References
 - 

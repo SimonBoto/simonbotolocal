@@ -7,8 +7,8 @@ domain: 001
 domain-name: Amino Acid Metabolism
 tags: [zettel, amino-acids, classification, reference, table]
 parent-moc: 
-source-litnote: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
-source: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
+source-litnote: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]
+source: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]
 confidence: high
 created: 2026-03-08
 ---
@@ -117,8 +117,8 @@ Comprehensive classification of the 20 proteinogenic  by multiple criteria.
 - Asn, Gln
 
 ## Related
-- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
-| [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]
+| [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]
 | 
 
 ---
@@ -126,5 +126,5 @@ Comprehensive classification of the 20 proteinogenic  by multiple criteria.
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
-- [[BCAAs_IR_Risk_Z-001-0042]|Z-001-0042]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+- [[BCAAs_IR_Risk_Z-001-0042]|Z-001-0042]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "OpenClaw Qwen Ollama Setup"
 date: 2026-02-05
 source: ChatGPT conversation history
-aliases: [CGPT-0002]
+aliases: CGPT-0002]
 tags: [chatgpt-archive, clinical, phd_research, technology]
 status: archived
 ---

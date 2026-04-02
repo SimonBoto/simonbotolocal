@@ -175,7 +175,7 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Vitamin_D_Calcium_Family_[B-007-0001]|Fat-Soluble Vitamins]]
+- [[Vitamin_D_Calcium_Family_[B-007-0001]|Fat-Soluble Vitamins]
 
 ---
 *Complete biomarker foundation — Vitamin E*

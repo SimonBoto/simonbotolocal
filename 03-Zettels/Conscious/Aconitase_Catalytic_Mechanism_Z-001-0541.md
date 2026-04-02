@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, aconitase, krebs-cycle, citrate, isocitrate, mechanism]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]]
+source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]
 extraction-date: 2026-03-01
 ---
 
@@ -42,7 +42,7 @@ Citrate → cis-Aconitate + H₂O → Isocitrate
 
 ---
 
-*Source: [[LitNote_Aconitase_Enzyme_L-001-0508]]*
+*Source: [[LitNote_Aconitase_Enzyme_L-001-0508]*
 
 
 ## RELATED FILES

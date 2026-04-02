@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, vascular-calcification, pathophysiology, mechanisms]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Vascular_Calcification_L-001-0215]]
+source-litnote: [[LitNote_Vascular_Calcification_L-001-0215]
 extraction-date: 2026-03-01
 ---
 
@@ -72,11 +72,11 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Vascular_Calcification_L-001-0215]]*  
+*Source: [[LitNote_Vascular_Calcification_L-001-0215]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

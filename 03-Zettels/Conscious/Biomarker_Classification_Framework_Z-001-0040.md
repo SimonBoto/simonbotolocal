@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, biomarkers, classification, taxonomy, framework]
 parent-moc: 
-source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]]
+source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]
 confidence: high
 created: 2026-02-24
 ---
@@ -35,8 +35,8 @@ created: 2026-02-24
 ## Links
 
 - **Upstream:**  — Overview
-- **Parallel:** [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041.md]] — Adipic acid as example
-- **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045.md]] — METHAP panel applies this framework
+- **Parallel:** [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041.md] — Adipic acid as example
+- **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045.md] — METHAP panel applies this framework
 
 ## Context
 
@@ -45,10 +45,10 @@ created: 2026-02-24
 **Emerges from:** Biomarkers Taxonomy synthesis document
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]|Adipic Acid — Early IR Biomarker]]
+- [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]|Adipic Acid — Early IR Biomarker]
 - 
 
 ---

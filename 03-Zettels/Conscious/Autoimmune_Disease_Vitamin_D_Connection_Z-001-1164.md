@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, autoimmunity, vitamin-d, vdr, clinical-evidence, epidemiology]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_VDR_Knockout_Immune_Function_L-001-0621]]"
+source-litnote: "[[LitNote_VDR_Knockout_Immune_Function_L-001-0621]"
 status: conscious
 ---
 
@@ -119,13 +119,13 @@ status: conscious
 
 ## Related
 
-- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]]
-- [[Treg_Th17_Balance_VDR_Z-001-1165]]
+- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]
+- [[Treg_Th17_Balance_VDR_Z-001-1165]
 
 ---
 
-*Source: [[LitNote_VDR_Knockout_Immune_Function_L-001-0621]] | 2026-03-08*
+*Source: [[LitNote_VDR_Knockout_Immune_Function_L-001-0621] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

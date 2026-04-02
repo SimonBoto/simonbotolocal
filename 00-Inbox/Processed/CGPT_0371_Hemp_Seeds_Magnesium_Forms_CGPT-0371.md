@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Hemp Seeds: Magnesium Forms"
 date: 2024-05-25
 source: ChatGPT conversation history
-aliases: [CGPT-0371]
+aliases: CGPT-0371]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, iron-metabolism, fe-s-assembly, iron-deficiency, aconitase]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]]
+source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]
 extraction-date: 2026-03-01
 ---
 
@@ -53,12 +53,12 @@ Fe²⁺ + H₂O₂ → Fe³⁺ + OH• + OH⁻
 
 ---
 
-*Source: [[LitNote_Aconitase_Enzyme_L-001-0508]]*
+*Source: [[LitNote_Aconitase_Enzyme_L-001-0508]*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]]
-- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
+- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]

@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, regulation, history, public-health]
 parent-moc: 
-source: [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
+source: [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -33,8 +33,8 @@ The 1950s hypercalcemia incidents triggered regulatory overreaction: strict limi
 ## Links
 
 **Parent MOC:** 
-**Source:** [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
-**Related:** [[Vitamin_D_Toxicity_Myth_Persistence_Z-001-0057]], [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
+**Source:** [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]
+**Related:** [[Vitamin_D_Toxicity_Myth_Persistence_Z-001-0057], [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]
 
 ---
 
@@ -42,4 +42,4 @@ The 1950s hypercalcemia incidents triggered regulatory overreaction: strict limi
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

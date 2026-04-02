@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, eus, endoscopic-ultrasound, pancreatic-mass, staging, fiducial-placement, cytopathology, gi-endoscopy, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]]
+source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious
 ---
 
@@ -245,12 +245,12 @@ Endoscopic ultrasound (EUS) combines endoscopy with high-frequency ultrasound im
 
 ---
 
-**Related:** [[Pancreatic_Cancer_Diagnosis_Staging_Z-001-1021]] | [[GI_Cancer_TNM_Staging_Z-001-1022]] | [[Subepithelial_Lesions_EUS_Characterization_Z-001-1023]]
+**Related:** [[Pancreatic_Cancer_Diagnosis_Staging_Z-001-1021] | [[GI_Cancer_TNM_Staging_Z-001-1022] | [[Subepithelial_Lesions_EUS_Characterization_Z-001-1023]
 
 **Source:** CGPT-0209 — Gastroenterology Registrar Assessment
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

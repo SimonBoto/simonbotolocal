@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "First Day in Rome"
 date: 2025-01-31
 source: ChatGPT conversation history
-aliases: [CGPT-0160]
+aliases: CGPT-0160]
 tags: [chatgpt-archive, general]
 status: archived
 ---

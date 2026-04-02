@@ -95,9 +95,9 @@ Part of Natural Doctor's "Reverse Aging" product line:
 - Combining other ND products
 
 ## Biomarker Links
-- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] — cellular health, aging
-- [[Zinc_RBC_Functional_Mineral_Z-007-0006]] — antioxidant defense
-- [[Vitamin_C_Calciferol_Steroid_Hormone_Z-007-0001]] — collagen, antioxidant
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001] — cellular health, aging
+- [[Zinc_RBC_Functional_Mineral_Z-007-0006] — antioxidant defense
+- [[Vitamin_C_Calciferol_Steroid_Hormone_Z-007-0001] — collagen, antioxidant
 
 ---
 *Catalog created: 2026-03-31*  

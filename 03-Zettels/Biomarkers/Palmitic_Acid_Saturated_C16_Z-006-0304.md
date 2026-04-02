@@ -146,7 +146,7 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Free_Fatty_Acids_Complete_[REF-FFA-001].md|Fatty Acids Reference]]
+- [[Free_Fatty_Acids_Complete_[REF-FFA-001].md|Fatty Acids Reference]
 
 source-litnote: Synthesized from clinical practice
 ---

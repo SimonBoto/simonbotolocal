@@ -6,15 +6,15 @@ aliases: [S-001-0003, Supplement-Protocol, Dosing-Schedule, Supplement-Timing]
 domain: 001
 domain-name: Clinical_Supplementation
 tags: [synthesis, supplements, protocol, timing, dosing, clinical, template, living-document]
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: [[MOC-Clinical-Protocols]
 status: active
 version: 1.1
 created: 2026-03-30
 last-updated: 2026-04-01
 contributing-zettels:
-  - "[[Supplement_Timing_Absorption_Z-001-0200]]"
-  - "[[Fat_Soluble_Vitamins_Dosing_Z-001-0201]]"
-  - "[[Mineral_Interactions_Scheduling_Z-001-0202]]"
+  - "[[Supplement_Timing_Absorption_Z-001-0200]"
+  - "[[Fat_Soluble_Vitamins_Dosing_Z-001-0201]"
+  - "[[Mineral_Interactions_Scheduling_Z-001-0202]"
 ---
 
 # Supplement Protocol Framework — Timing & Combinations
@@ -98,9 +98,9 @@ contributing-zettels:
 
 ## Related
 
-- [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]]
-- [[Supplement_Catalog_Meetab_Products_Z-001-1158]]
-- [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]]
+- [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]
+- [[Supplement_Catalog_Meetab_Products_Z-001-1158]
+- [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]
 
 ---
 

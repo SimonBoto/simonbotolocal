@@ -119,10 +119,10 @@ Many people have impaired conversion of LA → GLA due to:
 - Women's hormonal balance
 
 ## Biomarker Links
-- [[Essential_Fatty_Acids_Omega_3_6_Status_Z-006-XXXX]] — fatty acid balance
-- [[Estradiol_Primary_Female_Estrogen_Z-011-0003]] — hormonal balance
-- [[Progesterone_Luteal_Phase_Hormone_Z-011-0004]] — menstrual cycle support
-- [[Cortisol_Primary_Stress_Hormone_Z-011-0005]] — stress affects fatty acid metabolism
+- [[Essential_Fatty_Acids_Omega_3_6_Status_Z-006-XXXX] — fatty acid balance
+- [[Estradiol_Primary_Female_Estrogen_Z-011-0003] — hormonal balance
+- [[Progesterone_Luteal_Phase_Hormone_Z-011-0004] — menstrual cycle support
+- [[Cortisol_Primary_Stress_Hormone_Z-011-0005] — stress affects fatty acid metabolism
 
 ## Comparison with Meetab Omega Products
 | Feature | Evening Primrose Oil (ND) | My Omega Krill (Meetab) |

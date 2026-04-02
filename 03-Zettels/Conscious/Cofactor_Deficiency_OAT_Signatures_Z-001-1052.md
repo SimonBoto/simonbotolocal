@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, cofactors, oat, deficiency, biomarkers]
 parent-moc: 
-source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
-source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
+source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
+source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
 confidence: high
 created: 2026-03-08
 ---
@@ -66,18 +66,18 @@ This critical enzyme complex requires:
 | Suberate/adipate ↑ | L-carnitine, B2 |
 
 ## Related
-- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
-- -Analysis]]
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]
+- -Analysis]
 - 
 
 ---
 *Source: CGPT-0022 — Mitochondrial biochemistry*
 
 ## RELATED FILES
-- s/Methylation_Family_[B-004-0001]|Biomarker Family Guide]]
+- s/Methylation_Family_[B-004-0001]|Biomarker Family Guide]
 - 
 
 
 
 ## Related
-- [[Organic_Acids_Structures_Functions_Z-001-1116]|Z-001-1116]]
+- [[Organic_Acids_Structures_Functions_Z-001-1116]|Z-001-1116]

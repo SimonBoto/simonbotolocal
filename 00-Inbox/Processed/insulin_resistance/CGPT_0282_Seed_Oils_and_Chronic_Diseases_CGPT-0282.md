@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Seed Oils and Chronic Diseases"
 date: 2024-09-24
 source: ChatGPT conversation history
-aliases: [CGPT-0282]
+aliases: CGPT-0282]
 tags: [chatgpt-archive, insulin_resistance, vitamin_d, clinical, nutrition]
 status: archived
 ---

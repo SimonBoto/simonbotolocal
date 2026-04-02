@@ -7,8 +7,8 @@ domain: 001
 domain-name: Hematology Oncology
 tags: [zettel, p53, mdm2, inhibitors, therapy]
 parent-moc: 
-source-litnote: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]]
-source: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]]
+source-litnote: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]
+source: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]
 confidence: high
 created: 2026-03-08
 ---
@@ -122,14 +122,14 @@ Stress/DNA damage → p53 activation → Cell cycle arrest/apoptosis
 | **Advantage** | Remove dominant-negative effect |
 
 ## Related
-- [[TP53_Abnormalities_Multiple_Myeloma_del17p_Z-001-1135]]
-- [[p53_Function_Loss_Cancer_Consequences_Z-001-1136]]
+- [[TP53_Abnormalities_Multiple_Myeloma_del17p_Z-001-1135]
+- [[p53_Function_Loss_Cancer_Consequences_Z-001-1136]
 - 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 ## RELATED FILES
-- /Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- /Liver_Function_[B-009-0001]|Biomarker Family Guide]
 - 
 

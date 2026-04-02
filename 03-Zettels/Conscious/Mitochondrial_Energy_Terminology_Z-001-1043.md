@@ -7,8 +7,8 @@ domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, mitochondria, energy, definitions]
 parent-moc: 
-source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
-source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
+source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
+source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 confidence: high
 created: 2026-03-08
 ---
@@ -49,15 +49,15 @@ These terms form the vocabulary for:
 ## Related
 - 
 - 
-- _Terminology_Z-001-1042]]
+- _Terminology_Z-001-1042]
 
 ---
 *Source: CGPT-0022 — Tsoukalas Core Vocabulary*
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - 
-- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]|Z-001-0439]]
+- [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]|Z-001-0439]

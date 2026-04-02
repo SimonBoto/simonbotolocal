@@ -25,13 +25,13 @@ Common confusion:
 - “One microbiome signature cleanly separates them” (not currently reliable clinically).
 
 Related:
-- [[[ron__inflammatory_bowel_disease_ibd_definition]_20260215_023]]
-- [[Dictionary_Flare_And_Remission_Definition]]
-- [[111_Hub_Disease_Specific]]
-- [[111_Hub_Gut_Function]]
+- [[[ron__inflammatory_bowel_disease_ibd_definition]_20260215_023]
+- [[Dictionary_Flare_And_Remission_Definition]
+- [[111_Hub_Disease_Specific]
+- [[111_Hub_Gut_Function]
 
 Needs_Evidence: yes
 Open_Loops:
 - Add 1–2 library anchors for classic definition and differentiation (review/guideline).
 Promote_to_stable_when:
-- At least 1 linked [[Library_...]] note supports the definitions.
+- At least 1 linked [[Library_...] note supports the definitions.

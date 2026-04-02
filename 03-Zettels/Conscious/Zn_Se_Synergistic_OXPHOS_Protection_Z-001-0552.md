@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, zn-se, synergy, oxphos, ros, antioxidant]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]]
+source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]
 extraction-date: 2026-03-01
 ---
 
@@ -54,9 +54,9 @@ H₂O (water)
 
 ---
 
-*Source: _L-001-0510]]*
+*Source: _L-001-0510]*
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 

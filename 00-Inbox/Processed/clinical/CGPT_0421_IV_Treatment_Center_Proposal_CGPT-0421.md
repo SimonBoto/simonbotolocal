@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "IV Treatment Center Proposal"
 date: 2024-04-05
 source: ChatGPT conversation history
-aliases: [CGPT-0421]
+aliases: CGPT-0421]
 tags: [chatgpt-archive, clinical, nutrition, technology]
 status: archived
 ---

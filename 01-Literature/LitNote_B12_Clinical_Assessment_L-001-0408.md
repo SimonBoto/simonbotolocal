@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: B12 Clinical Assessment and Reference Ranges
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0113_Optimal_Biochemical_Ranges_Assessment_[CGPT-0113]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0113_Optimal_Biochemical_Ranges_Assessment_CGPT-0113]]]
 - **Date:** August 2024
 - **Scope:** Reference ranges, optimal values, B12/folate/homocysteine assessment, clinical interpretation
 
@@ -42,7 +42,7 @@ extraction-date: 2026-03-01
 - Standard: "Not sick"
 - Optimal: "Performing optimally"
 
-**Zettels extracted:** [[Standard_vs_Optimal_Ranges_Philosophy_Z-001-0444]]
+**Zettels extracted:** [[Standard_vs_Optimal_Ranges_Philosophy_Z-001-0444]
 
 ### 2. Vitamin B12 — Reference and Optimal Values
 > "While standard B12 range is 200-900 pg/mL, optimal levels are >400-500 pg/mL... levels <400 may be associated with neurological symptoms even without anemia."
@@ -72,7 +72,7 @@ extraction-date: 2026-03-01
 - Even without anemia
 - Peripheral neuropathy, cognitive issues
 
-**Zettels extracted:** [[B12_Reference_Optimal_Values_Z-001-0445]]
+**Zettels extracted:** [[B12_Reference_Optimal_Values_Z-001-0445]
 
 ### 3. Folate — Serum vs. RBC
 > "Serum folate reflects recent intake, while RBC folate reflects tissue stores over 2-3 months... RBC folate is more reliable for assessing functional status."
@@ -97,7 +97,7 @@ extraction-date: 2026-03-01
 - RBC folate for baseline and follow-up
 - More stable, reflects true status
 
-**Zettels extracted:** [[Folate_Serum_vs_RBC_Assessment_Z-001-0446]]
+**Zettels extracted:** [[Folate_Serum_vs_RBC_Assessment_Z-001-0446]
 
 ### 4. Homocysteine — Cardiovascular and Metabolic Marker
 > "Homocysteine >10-12 μmol/L is associated with increased cardiovascular risk... optimal levels are <8-10 μmol/L."
@@ -136,7 +136,7 @@ extraction-date: 2026-03-01
 - Hypothyroidism
 - Certain medications
 
-**Zettels extracted:** [[Homocysteine_Ranges_Cardiovascular_Risk_Z-001-0447]]
+**Zettels extracted:** [[Homocysteine_Ranges_Cardiovascular_Risk_Z-001-0447]
 
 ### 5. MMA — The Sensitive Marker
 > "Methylmalonic acid >0.4 μmol/L indicates functional B12 deficiency even when serum B12 is normal... most sensitive marker of tissue B12 status."
@@ -166,7 +166,7 @@ extraction-date: 2026-03-01
 - Confirming deficiency
 - Monitoring treatment response
 
-**Zettels extracted:** [[MMA_Sensitive_B12_Marker_Z-001-0448]]
+**Zettels extracted:** [[MMA_Sensitive_B12_Marker_Z-001-0448]
 
 ### 6. Integrated Assessment — The Complete Picture
 > "Comprehensive B12 assessment includes serum B12, MMA, homocysteine, and RBC folate... together they provide complete functional assessment."
@@ -193,7 +193,7 @@ extraction-date: 2026-03-01
 - Frequency: 3-6 months
 - Goal: Optimal ranges
 
-**Zettels extracted:** [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]]
+**Zettels extracted:** [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]
 
 ---
 
@@ -218,12 +218,12 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Standard_vs_Optimal_Ranges_Philosophy_Z-001-0444]]
-2. [[B12_Reference_Optimal_Values_Z-001-0445]]
-3. [[Folate_Serum_vs_RBC_Assessment_Z-001-0446]]
-4. [[Homocysteine_Ranges_Cardiovascular_Risk_Z-001-0447]]
-5. [[MMA_Sensitive_B12_Marker_Z-001-0448]]
-6. [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]]
+1. [[Standard_vs_Optimal_Ranges_Philosophy_Z-001-0444]
+2. [[B12_Reference_Optimal_Values_Z-001-0445]
+3. [[Folate_Serum_vs_RBC_Assessment_Z-001-0446]
+4. [[Homocysteine_Ranges_Cardiovascular_Risk_Z-001-0447]
+5. [[MMA_Sensitive_B12_Marker_Z-001-0448]
+6. [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]
 
 ---
 

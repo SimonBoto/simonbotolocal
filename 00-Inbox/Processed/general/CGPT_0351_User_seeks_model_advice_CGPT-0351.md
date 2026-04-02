@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "User seeks model advice"
 date: 2024-06-14
 source: ChatGPT conversation history
-aliases: [CGPT-0351]
+aliases: CGPT-0351]
 tags: [chatgpt-archive, general]
 status: archived
 ---

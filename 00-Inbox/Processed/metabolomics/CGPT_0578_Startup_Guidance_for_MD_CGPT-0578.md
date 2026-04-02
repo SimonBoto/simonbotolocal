@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Startup Guidance for MD"
 date: 2023-09-05
 source: ChatGPT conversation history
-aliases: [CGPT-0578]
+aliases: CGPT-0578]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition, technology, personal_development]
 status: archived
 ---

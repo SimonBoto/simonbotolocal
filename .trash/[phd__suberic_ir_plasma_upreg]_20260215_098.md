@@ -7,7 +7,7 @@ uid: "20260215_098"
 ---
 uid: 20260212081400
 tags: [insulin-resistance, phd-biomarker, oa-pattern, gc-ms]
-parent-moc: [[88-Mocs/PhD_IR_MOC]]
+parent-moc: [[88-Mocs/PhD_IR_MOC]
 aliases: []
 references: [Tier1 study]
 ---
@@ -20,4 +20,4 @@ references: [Tier1 study]
 
 **Confounders:** 
 
-Links: [[88-Mocs/Biomarkers_MOC]] [[88-Mocs/PhD_IR_MOC]] [[88-Mocs/Inbox_Sprint_MOC]]
+Links: [[88-Mocs/Biomarkers_MOC] [[88-Mocs/PhD_IR_MOC] [[88-Mocs/Inbox_Sprint_MOC]

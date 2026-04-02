@@ -7,7 +7,7 @@ domain: 002
 domain-name: Research Ethics
 tags: [zettel, methap, intervention, low-carb, supplements]
 parent-moc: 
-source-litnote: "[[LitNote_METHAP_Study_Design_Protocol_L-002-0604]]"
+source-litnote: "[[LitNote_METHAP_Study_Design_Protocol_L-002-0604]"
 confidence: high
 created: 2026-03-27
 ---
@@ -74,16 +74,16 @@ IR participants not receiving intervention:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]]  
-**Related:** [[METHAP_Study_Design_Overview_Z-002-0616]] — Full study structure
+**Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]  
+**Related:** [[METHAP_Study_Design_Overview_Z-002-0616] — Full study structure
 
 ---
 
 *UID: Z-002-0619 | Domain: 002 | Created: 2026-03-27*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

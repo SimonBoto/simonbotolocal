@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Reviewing Thesis Proposal"
 date: 2023-09-03
 source: ChatGPT conversation history
-aliases: [CGPT-0580]
+aliases: CGPT-0580]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, phd_research, consciousness_ai, nutrition]
 status: archived
 ---

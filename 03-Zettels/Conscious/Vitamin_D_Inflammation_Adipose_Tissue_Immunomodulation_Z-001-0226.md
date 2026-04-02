@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, vitamin-d, inflammation, adipose, cytokines, macrophages]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]]
+source-litnote: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]
 extraction-date: 2026-03-01
 ---
 
@@ -166,15 +166,15 @@ This provides strong rationale for high-dose vitamin D in METHAP protocol.
 
 ---
 
-*Source: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]]*  
-*Related: [[Metabolic_Syndrome_Pathophysiology_Insulin_Resistance_Z-001-0202]]*  
+*Source: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]*  
+*Related: [[Metabolic_Syndrome_Pathophysiology_Insulin_Resistance_Z-001-0202]*  
 *Extracted: 2026-03-01*
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

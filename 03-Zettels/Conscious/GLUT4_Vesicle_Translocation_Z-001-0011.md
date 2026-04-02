@@ -35,7 +35,7 @@ created: 2026-02-22
 
 ## Links
 
-- **Upstream:** [[Akt_Substrate_Phosphorylation_Z-001-0010]] — AS160 phosphorylation
+- **Upstream:** [[Akt_Substrate_Phosphorylation_Z-001-0010] — AS160 phosphorylation
 
 ## Context
 
@@ -45,5 +45,5 @@ created: 2026-02-22
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

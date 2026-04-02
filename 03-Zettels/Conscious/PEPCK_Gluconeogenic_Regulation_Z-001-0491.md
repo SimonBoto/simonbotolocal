@@ -8,7 +8,7 @@ tags: [zettel, pepck, gluconeogenesis, regulation, glucagon, insulin, cortisol]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045H]]
+source: [[L-001-0045H]
 ---
 
 # PEPCK and Gluconeogenic Regulation
@@ -111,8 +111,8 @@ PEPCK transcription ↓
 - PEPCK control is critical
 
 ## Related
-- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]] Gluconeogenesis from OAA
-- l_Shuttles_Malate_Aspartate_Z-001-0490]] Mitochondrial Shuttles
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489] Gluconeogenesis from OAA
+- l_Shuttles_Malate_Aspartate_Z-001-0490] Mitochondrial Shuttles
 - 
 
 ---
@@ -120,4 +120,4 @@ PEPCK transcription ↓
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

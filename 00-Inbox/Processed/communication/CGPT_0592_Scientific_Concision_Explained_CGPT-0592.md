@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Scientific Concision Explained"
 date: 2023-08-27
 source: ChatGPT conversation history
-aliases: [CGPT-0592]
+aliases: CGPT-0592]
 tags: [chatgpt-archive, communication]
 status: archived
 ---

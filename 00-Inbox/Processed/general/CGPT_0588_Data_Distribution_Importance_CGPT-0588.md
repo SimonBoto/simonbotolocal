@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Data Distribution Importance"
 date: 2023-08-28
 source: ChatGPT conversation history
-aliases: [CGPT-0588]
+aliases: CGPT-0588]
 tags: [chatgpt-archive, general]
 status: archived
 ---

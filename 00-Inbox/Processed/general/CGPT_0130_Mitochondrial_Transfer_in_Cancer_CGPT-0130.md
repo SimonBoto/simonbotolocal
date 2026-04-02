@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mitochondrial Transfer in Cancer"
 date: 2025-03-08
 source: ChatGPT conversation history
-aliases: [CGPT-0130]
+aliases: CGPT-0130]
 tags: [chatgpt-archive, general]
 status: archived
 ---

@@ -223,12 +223,12 @@ Decision: Anabolic therapy indicated
 - **Extreme cases:** Treat regardless of calculation
 
 ## Related Zettels
-- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]] — Why adjustments needed
-- [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110]] — Using adjusted scores
-- [[Glucocorticoid_Induced_Osteoporosis_Pathophysiology_Z-001-XXXX]] — Steroid 
+- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111] — Why adjustments needed
+- [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110] — Using adjusted scores
+- [[Glucocorticoid_Induced_Osteoporosis_Pathophysiology_Z-001-XXXX] — Steroid 
 
 ## Source
-[[LitNote_FRAX_Risk_Assessment_Tool_L-001-0017]]
+[[LitNote_FRAX_Risk_Assessment_Tool_L-001-0017]
 
 ---
 
@@ -237,4 +237,4 @@ Decision: Anabolic therapy indicated
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]

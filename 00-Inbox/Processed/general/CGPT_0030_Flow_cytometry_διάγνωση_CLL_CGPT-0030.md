@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Flow cytometry διάγνωση CLL"
 date: 2025-11-26
 source: ChatGPT conversation history
-aliases: [CGPT-0030]
+aliases: CGPT-0030]
 tags: [chatgpt-archive, general]
 status: archived
 ---

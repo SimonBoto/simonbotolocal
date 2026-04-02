@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mitochondrial Structure and Function"
 date: 2024-07-18
 source: ChatGPT conversation history
-aliases: [CGPT-0318]
+aliases: CGPT-0318]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, nutrition]
 status: archived
 ---

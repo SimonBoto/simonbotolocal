@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, omega-3, omega-6, omega-9, essential-fatty-acids, inflammation]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]]"
+source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]"
 status: conscious
 ---
 
@@ -156,16 +156,16 @@ Better conversion than ω-3
 
 ## Related
 
-- [[Fatty_Acid_Nomenclature_Numbering_Z-001-1208]]
-- [[Omega_3_Supplementation_Clinical_Z-001-1218]]
+- [[Fatty_Acid_Nomenclature_Numbering_Z-001-1208]
+- [[Omega_3_Supplementation_Clinical_Z-001-1218]
 
 ---
 
-*Source: [[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]] | 2026-03-08*
+*Source: [[LitNote_Fatty_Acid_Structure_Classification_L-001-0632] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -8,7 +8,7 @@ tags: [zettel, amino-acids, nucleobases, comparison, evolution, structure]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-101-0045A]]
+source: [[L-101-0045A]
 ---
 
 #  vs Nucleobases: Molecular Building Blocks
@@ -64,14 +64,14 @@ This structural parallel suggests:
 3. Divergent evolution from simple organic molecules
 
 ## Related
-- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]] Purine vs Pyrimidine Structure
-- [[RNA_World_Hypothesis_Evolution_Z-101-0456]] RNA World Hypothesis (before proteins)
-- [[Formamide_Chemistry_Prebiotic_Pathway_Z-101-0463]] Formamide Chemistry (both can form from same precursor)
+- [[Purine_vs_Pyrimidine_Structure_Z-101-0453] Purine vs Pyrimidine Structure
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456] RNA World Hypothesis (before proteins)
+- [[Formamide_Chemistry_Prebiotic_Pathway_Z-101-0463] Formamide Chemistry (both can form from same precursor)
 
 ---
 *Source: CGPT-0445 extraction (Messages 19-20) | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

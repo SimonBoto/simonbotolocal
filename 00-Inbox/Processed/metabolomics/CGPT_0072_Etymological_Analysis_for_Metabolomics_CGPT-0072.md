@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Etymological Analysis for Metabolomics"
 date: 2025-06-29
 source: ChatGPT conversation history
-aliases: [CGPT-0072]
+aliases: CGPT-0072]
 tags: [chatgpt-archive, metabolomics, greek_language]
 status: archived
 ---

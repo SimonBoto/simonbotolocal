@@ -164,9 +164,9 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
-- [[Z-012-0017|3-Hydroxyisovaleric Acid — Biotin (B7)]]
-- [[Z-004-0002|Methylmalonic Acid (MMA) — B12 Status]]
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
+- [[Z-012-0017|3-Hydroxyisovaleric Acid — Biotin (B7)]
+- [[Z-004-0002|Methylmalonic Acid (MMA) — B12 Status]
 
 source-litnote: Synthesized from clinical practice
 ---

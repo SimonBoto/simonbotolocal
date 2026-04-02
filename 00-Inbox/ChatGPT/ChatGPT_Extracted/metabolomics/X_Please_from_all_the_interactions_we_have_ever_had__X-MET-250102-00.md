@@ -10,7 +10,7 @@ uid: X-MET-250102-00
 type: extracted-insight
 title: "Please, from all the interactions we have ever had, can you tell me one thing ab..."
 date: 2025-01-02
-source: "[[CGPT_0213_Self_Insight_and_Strength_[CGPT-0213]]"
+source: "[[CGPT_0213_Self_Insight_and_Strength_CGPT-0213]"
 aliases: [X-MET-250102-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
@@ -58,8 +58,8 @@ What is the most profound finding that we have yet clearly understood
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]
 
 ## Status
 

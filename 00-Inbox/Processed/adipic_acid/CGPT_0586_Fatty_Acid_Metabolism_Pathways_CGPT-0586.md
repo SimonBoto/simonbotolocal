@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Fatty Acid Metabolism Pathways"
 date: 2023-08-30
 source: ChatGPT conversation history
-aliases: [CGPT-0586]
+aliases: CGPT-0586]
 tags: [chatgpt-archive, adipic_acid, nutrition]
 status: archived
 ---

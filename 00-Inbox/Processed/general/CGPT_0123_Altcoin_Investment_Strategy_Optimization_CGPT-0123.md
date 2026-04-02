@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Altcoin Investment Strategy Optimization"
 date: 2025-03-15
 source: ChatGPT conversation history
-aliases: [CGPT-0123]
+aliases: CGPT-0123]
 tags: [chatgpt-archive, general]
 status: archived
 ---

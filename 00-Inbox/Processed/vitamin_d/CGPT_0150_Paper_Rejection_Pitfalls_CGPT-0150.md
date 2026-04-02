@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Paper Rejection Pitfalls"
 date: 2025-02-10
 source: ChatGPT conversation history
-aliases: [CGPT-0150]
+aliases: CGPT-0150]
 tags: [chatgpt-archive, vitamin_d]
 status: archived
 ---

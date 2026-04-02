@@ -47,16 +47,16 @@ source-litnote: Synthesized from clinical practice
 ## 🔗 Connected Systems
 
 **Thyroid Function:**
-- [[Thyroid_Optimal_Ranges_Z-005-0001.md]] — Thyroid optimal ranges (antibodies may precede TSH elevation)
+- [[Thyroid_Optimal_Ranges_Z-005-0001.md] — Thyroid optimal ranges (antibodies may precede TSH elevation)
 - Hashimoto's progression: Antibodies ↑ → TSH ↑ → fT4 ↓
 
 **Inflammation:**
-- [[Inflammation_Markers_CRP_ESR_Z-007-0001.md]] — CRP/ESR (autoimmunity is inflammatory)
-- [[Predictive_Metabolites_T1D_Example_Z-001-0019.md]] — Inflammatory signaling (thyroiditis = organ-specific inflammation)
+- [[Inflammation_Markers_CRP_ESR_Z-007-0001.md] — CRP/ESR (autoimmunity is inflammatory)
+- [[Predictive_Metabolites_T1D_Example_Z-001-0019.md] — Inflammatory signaling (thyroiditis = organ-specific inflammation)
 
 **Metabolic Impact:**
 - Hashimoto's → hypothyroidism → insulin resistance
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (often elevated in hypothyroidism)
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md] — HOMA-IR (often elevated in hypothyroidism)
 
 ---
 
@@ -139,10 +139,10 @@ patient_id,visit,anti_tpo_iu_ml,anti_tg_iu_ml,hashimoto_status
 *Created: 2026-02-26 | Domain: 005 | Status: Conscious*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- |Biomarkers MOC]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
+- |Biomarkers MOC]
 

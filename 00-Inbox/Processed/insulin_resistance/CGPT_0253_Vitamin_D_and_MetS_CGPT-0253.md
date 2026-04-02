@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Vitamin D and MetS"
 date: 2024-11-16
 source: ChatGPT conversation history
-aliases: [CGPT-0253]
+aliases: CGPT-0253]
 tags: [chatgpt-archive, insulin_resistance, vitamin_d, clinical, phd_research, nutrition]
 status: archived
 ---

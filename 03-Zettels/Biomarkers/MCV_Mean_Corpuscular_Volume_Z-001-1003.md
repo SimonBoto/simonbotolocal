@@ -208,9 +208,9 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[CBC_[B-001-0001].md|CBC Comprehensive Guide]]
-- [[Z-001-1001|Hemoglobin — Oxygen Transport Protein]]
-- [[Z-003-0001|Ferritin — Iron Storage]]
+- [[CBC_[B-001-0001].md|CBC Comprehensive Guide]
+- [[Z-001-1001|Hemoglobin — Oxygen Transport Protein]
+- [[Z-003-0001|Ferritin — Iron Storage]
 
 source-litnote: Synthesized from clinical practice
 ---

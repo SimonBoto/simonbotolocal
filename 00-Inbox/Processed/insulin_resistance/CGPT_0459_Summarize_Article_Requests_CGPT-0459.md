@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Summarize Article Requests"
 date: 2024-03-17
 source: ChatGPT conversation history
-aliases: [CGPT-0459]
+aliases: CGPT-0459]
 tags: [chatgpt-archive, insulin_resistance, clinical, nutrition]
 status: archived
 ---

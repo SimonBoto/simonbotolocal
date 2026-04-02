@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Summarize & Simplify: Article Explanation"
 date: 2023-08-21
 source: ChatGPT conversation history
-aliases: [CGPT-0601]
+aliases: CGPT-0601]
 tags: [chatgpt-archive, insulin_resistance, nutrition]
 status: archived
 ---

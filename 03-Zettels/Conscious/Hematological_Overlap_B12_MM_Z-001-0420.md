@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, b12, anemia, multiple-myeloma, hematology]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]]
+source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]
 extraction-date: 2026-03-01
 ---
 
@@ -52,9 +52,9 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_B12_MM_Mimicry_L-001-0404]]*
+*Source: [[LitNote_B12_MM_Mimicry_L-001-0404]*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

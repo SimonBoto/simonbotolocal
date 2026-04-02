@@ -6,7 +6,7 @@ aliases: [Z-101-0473]
 domain: 101
 tags: [zettel, methap, irb, ethics-committee, action-items, regulatory, phd, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]]
+source-litnote: [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]
 status: conscious
 ---
 
@@ -137,13 +137,13 @@ Add emergency contact procedure for adverse effects.
 4. **Revised documents** with tracked changes
 
 ## Related
-- **Source:** [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]]
-- **Study design:** [[METHAP_Study_Design_Overview_Z-101-0472]]
-- **Consent framework:** [[METHAP_Informed_Consent_Framework_Z-101-0474]]
+- **Source:** [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]
+- **Study design:** [[METHAP_Study_Design_Overview_Z-101-0472]
+- **Consent framework:** [[METHAP_Informed_Consent_Framework_Z-101-0474]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

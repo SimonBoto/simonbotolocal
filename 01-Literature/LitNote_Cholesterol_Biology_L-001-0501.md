@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Cholesterol Biology and Lipid Metabolism in Aging
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0086_Twelve_Hallmarks_of_Aging_Full_List_[CGPT-0086]]
+- **ChatGPT conversation:** [[CGPT_0086_Twelve_Hallmarks_of_Aging_Full_List_CGPT-0086]]
 - **Date:** September 2024
 - **Scope:** Cholesterol synthesis, lipoprotein metabolism, cellular functions, aging connection, inflammation
 
@@ -57,7 +57,7 @@ Acetyl-CoA → Acetoacetyl-CoA → HMG-CoA → Mevalonate →
 - 50% from diet (average)
 - Synthesis increases when intake low (compensation)
 
-**Zettels extracted:** [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]]
+**Zettels extracted:** [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]
 
 ### 2. Lipoproteins — The Transport System
 > "Lipoproteins transport hydrophobic lipids through aqueous blood, with distinct classes carrying different lipid cargoes and serving different metabolic functions."
@@ -100,7 +100,7 @@ Liver VLDL → LPL releases TG → IDL →
 Hepatic lipase → LDL → Peripheral cells (LDL receptor)
 ```
 
-**Zettels extracted:** [[Lipoproteins_Transport_System_Z-001-0502]]
+**Zettels extracted:** [[Lipoproteins_Transport_System_Z-001-0502]
 
 ### 3. LDL Cholesterol — Structure, Function, and Risk
 > "LDL delivers cholesterol to peripheral cells via LDL receptor-mediated endocytosis... elevated LDL is primary driver of atherosclerosis."
@@ -142,7 +142,7 @@ Cholesterol released (regulates SREBP-2)
 - Each 1 mmol/L (~40 mg/dL) reduction = ~20-25% risk reduction
 - No "J-curve" at low levels (HPS, IMPROVE-IT)
 
-**Zettels extracted:** [[LDL_Cholesterol_Structure_Function_Risk_Z-001-0503]]
+**Zettels extracted:** [[LDL_Cholesterol_Structure_Function_Risk_Z-001-0503]
 
 ### 4. HDL Cholesterol — Reverse Cholesterol Transport
 > "HDL mediates reverse cholesterol transport, removing excess cholesterol from peripheral tissues and delivering it to the liver for excretion... associated with cardiovascular protection."
@@ -200,7 +200,7 @@ Cholesterol released (regulates SREBP-2)
 - Quality of HDL particles matters
 - Still inverse association in observational studies
 
-**Zettels extracted:** [[HDL_Cholesterol_Reverse_Cholesterol_Transport_Z-001-0504]]
+**Zettels extracted:** [[HDL_Cholesterol_Reverse_Cholesterol_Transport_Z-001-0504]
 
 ### 5. Lipid Peroxidation and Oxidized LDL
 > "Oxidative modification of LDL transforms it from a delivery vehicle to a pro-inflammatory, pro-atherogenic particle that drives macrophage foam cell formation."
@@ -252,7 +252,7 @@ Cholesterol released (regulates SREBP-2)
 - Polyphenols: Direct antioxidant effects
 - Carotenoids: Singlet oxygen quenching
 
-**Zettels extracted:** [[Lipid_Peroxidation_Oxidized_LDL_Z-001-0505]]
+**Zettels extracted:** [[Lipid_Peroxidation_Oxidized_LDL_Z-001-0505]
 
 ### 6. Cholesterol and Cellular Aging
 > "Cholesterol homeostasis is disrupted in aging, with altered membrane composition, reduced synthesis, and impaired reverse cholesterol transport contributing to cellular senescence."
@@ -297,7 +297,7 @@ Cholesterol released (regulates SREBP-2)
 - ApoE4 (cholesterol carrier) major AD risk factor
 - Cholesterol homeostasis critical for myelin, synapses
 
-**Zettels extracted:** [[Cholesterol_Cellular_Aging_Z-001-0506]]
+**Zettels extracted:** [[Cholesterol_Cellular_Aging_Z-001-0506]
 
 ### 7. Inflammation, Cholesterol, and Metabolic Syndrome
 > "Cholesterol metabolism and inflammation are intimately linked... metabolic syndrome represents a pro-inflammatory, pro-atherogenic lipid profile."
@@ -340,7 +340,7 @@ Cholesterol released (regulates SREBP-2)
 - TG reduction (fibrates, omega-3)
 - Address insulin resistance (root cause)
 
-**Zettels extracted:** [[Inflammation_Cholesterol_Metabolic_Syndrome_Z-001-0507]]
+**Zettels extracted:** [[Inflammation_Cholesterol_Metabolic_Syndrome_Z-001-0507]
 
 ### 8. Advanced Lipid Markers — Beyond LDL and HDL
 > "ApoB, LDL particle number, and lipoprotein(a) provide better cardiovascular risk prediction than standard lipid panels alone."
@@ -387,7 +387,7 @@ Cholesterol released (regulates SREBP-2)
 - Diabetes, MetS
 - Statin-treated patients with recurrent events
 
-**Zettels extracted:** [[Advanced_Lipid_Markers_Beyond_LDL_HDL_Z-001-0508]]
+**Zettels extracted:** [[Advanced_Lipid_Markers_Beyond_LDL_HDL_Z-001-0508]
 
 ---
 
@@ -415,14 +415,14 @@ Cholesterol released (regulates SREBP-2)
 ---
 
 ## Zettels Created from This Source
-1. [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]]
-2. [[Lipoproteins_Transport_System_Z-001-0502]]
-3. [[LDL_Cholesterol_Structure_Function_Risk_Z-001-0503]]
-4. [[HDL_Cholesterol_Reverse_Cholesterol_Transport_Z-001-0504]]
-5. [[Lipid_Peroxidation_Oxidized_LDL_Z-001-0505]]
-6. [[Cholesterol_Cellular_Aging_Z-001-0506]]
-7. [[Inflammation_Cholesterol_Metabolic_Syndrome_Z-001-0507]]
-8. [[Advanced_Lipid_Markers_Beyond_LDL_HDL_Z-001-0508]]
+1. [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]
+2. [[Lipoproteins_Transport_System_Z-001-0502]
+3. [[LDL_Cholesterol_Structure_Function_Risk_Z-001-0503]
+4. [[HDL_Cholesterol_Reverse_Cholesterol_Transport_Z-001-0504]
+5. [[Lipid_Peroxidation_Oxidized_LDL_Z-001-0505]
+6. [[Cholesterol_Cellular_Aging_Z-001-0506]
+7. [[Inflammation_Cholesterol_Metabolic_Syndrome_Z-001-0507]
+8. [[Advanced_Lipid_Markers_Beyond_LDL_HDL_Z-001-0508]
 
 ---
 

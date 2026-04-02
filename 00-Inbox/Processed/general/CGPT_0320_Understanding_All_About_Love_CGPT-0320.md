@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Understanding All About Love"
 date: 2024-07-25
 source: ChatGPT conversation history
-aliases: [CGPT-0320]
+aliases: CGPT-0320]
 tags: [chatgpt-archive, general]
 status: archived
 ---

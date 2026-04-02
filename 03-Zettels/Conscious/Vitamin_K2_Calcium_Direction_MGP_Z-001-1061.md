@@ -7,8 +7,8 @@ domain: 001
 domain-name: Vitamin Metabolism
 tags: [zettel, vitamin-k2, mgp, calcium]
 parent-moc: 
-source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
-source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
+source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
+source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
 confidence: high
 created: 2026-03-08
 ---
@@ -81,7 +81,7 @@ K2-activated MGP directs: → BONE (if needed)
 - **Warfarin interaction:** K2 reduces INR (monitor if on warfarin)
 
 ## Related
-- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]
 - 
 
 ---
@@ -89,5 +89,5 @@ K2-activated MGP directs: → BONE (if needed)
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

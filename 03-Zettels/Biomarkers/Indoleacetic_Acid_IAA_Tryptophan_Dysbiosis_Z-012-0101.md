@@ -147,7 +147,7 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
 
 ---
 *Complete biomarker foundation — Indoleacetic Acid*

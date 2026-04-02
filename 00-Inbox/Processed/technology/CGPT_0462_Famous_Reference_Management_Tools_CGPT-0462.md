@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Famous Reference Management Tools"
 date: 2024-03-16
 source: ChatGPT conversation history
-aliases: [CGPT-0462]
+aliases: CGPT-0462]
 tags: [chatgpt-archive, technology]
 status: archived
 ---

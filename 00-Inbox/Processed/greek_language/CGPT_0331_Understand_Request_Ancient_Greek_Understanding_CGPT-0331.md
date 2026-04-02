@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Understand Request: Ancient Greek Understanding"
 date: 2024-07-14
 source: ChatGPT conversation history
-aliases: [CGPT-0331]
+aliases: CGPT-0331]
 tags: [chatgpt-archive, greek_language]
 status: archived
 ---

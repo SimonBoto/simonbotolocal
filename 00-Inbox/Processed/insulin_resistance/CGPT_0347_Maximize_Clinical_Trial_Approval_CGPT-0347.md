@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Maximize Clinical Trial Approval"
 date: 2024-06-16
 source: ChatGPT conversation history
-aliases: [CGPT-0347]
+aliases: CGPT-0347]
 tags: [chatgpt-archive, insulin_resistance, clinical, phd_research, consciousness_ai]
 status: archived
 ---

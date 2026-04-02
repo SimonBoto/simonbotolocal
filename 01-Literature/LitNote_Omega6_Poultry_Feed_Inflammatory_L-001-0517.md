@@ -13,7 +13,7 @@ relevance: Medium — Practical nutrition guidance for patient counseling on foo
 aliases: [L-001-0517, Chicken Fatty Acids, Egg Omega-6, Poultry Nutrition, Feed Quality]
 domain: 001
 tags: [litnote, omega-6, omega-3, poultry, fatty-acids, inflammation, nutrition, food-quality, linoleic-acid]
-source: "[[CGPT_0141_Omega_6_in_Chicken_Fat_[CGPT-0141]]"
+source: "[[CGPT_0141_Omega_6_in_Chicken_Fat_CGPT-0141]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-03
@@ -43,7 +43,7 @@ extraction-date: 2026-03-03
 - Genetic factors and overall health influence deposition efficiency
 - Grain-fed chickens accumulate significantly higher omega-6 than pasture-raised
 
-**Zettels extracted:** [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]]
+**Zettels extracted:** [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]
 
 ### 2. Egg Yolk Fatty Acid Composition by Hen Diet
 > "The fatty acid composition of egg yolks is largely determined by the fatty acid profile of the hen's diet. A diet rich in corn and grains will typically elevate the levels of linoleic acid in the eggs."
@@ -63,7 +63,7 @@ extraction-date: 2026-03-03
 - More balanced omega-6:3 ratio: ~5:1
 - Intermediate between conventional and enriched
 
-**Zettels extracted:** [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563]]
+**Zettels extracted:** [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563]
 
 ### 3. Omega-6:3 Ratio and Inflammatory Potential
 > "While omega-6 fatty acids are essential for various physiological functions, an excessive dietary intake, especially when not balanced with omega-3 fatty acids, may promote a pro-inflammatory milieu."
@@ -88,7 +88,7 @@ extraction-date: 2026-03-03
 | ~5:1 | Pasture-raised (target direction) |
 | ~3-4:1 | Omega-3 enriched (optimal) |
 
-**Zettels extracted:** [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]]
+**Zettels extracted:** [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]
 
 ### 4. Practical Measurements Reference
 > "Studies have reported that broiler chickens raised on corn- and soybean meal–based diets often exhibit muscle or adipose tissue with omega-6 fatty acid levels in the range of approximately 35–40% of total fatty acids."
@@ -108,7 +108,7 @@ extraction-date: 2026-03-03
 - Genetic and metabolic factors introduce variability
 - Dietary input is the most significant factor
 
-**Zettels extracted:** [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]]
+**Zettels extracted:** [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]
 
 ---
 
@@ -151,17 +151,17 @@ For patients with inflammatory conditions (MetS, autoimmune, chronic pain), the 
 ---
 
 ## Zettels Created from This Source
-1. [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]] — Conventional poultry fatty acid composition
-2. [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563]] — Egg quality by hen diet
-3. [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]] — Inflammation biochemistry
-4. [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]] — Reference measurements table
+1. [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562] — Conventional poultry fatty acid composition
+2. [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563] — Egg quality by hen diet
+3. [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564] — Inflammation biochemistry
+4. [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565] — Reference measurements table
 
 ---
 
 ## Related References
 -  — Parent MOC for fatty acid balance
 -  — General nutrition context
-- [[LitNote_Seed_Oils_Omega6_Omega3_Ratio_L-001-0503]] — Broader omega-6:3 context
+- [[LitNote_Seed_Oils_Omega6_Omega3_Ratio_L-001-0503] — Broader omega-6:3 context
 -  — General omega-6:3 balance (if exists)
 
 ---

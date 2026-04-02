@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Ethics Committee Follow-Up"
 date: 2025-01-09
 source: ChatGPT conversation history
-aliases: [CGPT-0205]
+aliases: CGPT-0205]
 tags: [chatgpt-archive, phd_research, greek_language]
 status: archived
 ---

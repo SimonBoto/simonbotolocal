@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 # Lit: ChatGPT 2024 — Nucleotide Metabolism: From Base to Energy
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]]
 - **Date:** March 25, 2024
 - **Messages:** 70
 - **Context:** Advanced biochemistry exploration (Ames/Pauling style)
@@ -28,27 +28,27 @@ extraction-date: 2026-03-08
 ### 1. Adenosine: The Universal Hub
 > "Adenosine is a nucleoside composed of adenine attached to ribose. It plays critical roles in energy transfer, signal transduction, and as a building block of nucleic acids."
 
-**Zettel extracted:** [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]]
+**Zettel extracted:** [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]
 
 ### 2. Adenine: Purine Base Chemistry
 > "Adenine is a purine base, one of four nucleobases in DNA and RNA, essential for all known forms of life."
 
-**Zettel extracted:** [[Adenine_Purine_Base_Structure_Function_Z-001-1084]]
+**Zettel extracted:** [[Adenine_Purine_Base_Structure_Function_Z-001-1084]
 
 ### 3. Ribose: The Pentose Backbone
 > "Ribose (C5H10O5) is a five-carbon sugar forming the backbone of RNA and ATP. Connected metabolically to glucose via the pentose phosphate pathway."
 
-**Zettel extracted:** [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]]
+**Zettel extracted:** [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]
 
 ### 4. Nucleoside Formation & Phosphorylation
 > "The first step in adenine metabolism is combination with a sugar to form a nucleoside, catalyzed by specific enzymes."
 
-**Zettel extracted:** [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]]
+**Zettel extracted:** [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]
 
 ### 5. Purine Salvage Pathway
 > "The salvage pathway recovers bases and nucleosides from nucleotide degradation for reuse in nucleotide synthesis."
 
-**Zettel extracted:** [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]]
+**Zettel extracted:** [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]
 
 ## The Nucleotide Hierarchy
 
@@ -79,11 +79,11 @@ Adenine (base) + Ribose (sugar) → Adenosine (nucleoside)
 **Connection to METHAP/PhD:** Mitochondrial ATP production is core to insulin resistance mechanisms; understanding nucleotide metabolism informs energy dysregulation research.
 
 ## Zettels Created from This Source
-1. [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]] — Universal hub molecule
-2. [[Adenine_Purine_Base_Structure_Function_Z-001-1084]] — Purine chemistry
-3. [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]] — Pentose sugar
-4. [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]] — Formation mechanism
-5. [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]] — Recycling pathway
+1. [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083] — Universal hub molecule
+2. [[Adenine_Purine_Base_Structure_Function_Z-001-1084] — Purine chemistry
+3. [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085] — Pentose sugar
+4. [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086] — Formation mechanism
+5. [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087] — Recycling pathway
 
 ## Related References
 - 
@@ -99,6 +99,6 @@ Adenine (base) + Ribose (sugar) → Adenosine (nucleoside)
 ---
 
 ## Post-Extraction Verification Checklist
-- [x] All zettel links use FULL format: `[[Title_Z-001-0001]]`
-- [x] No bare UIDs: `[[Insulin_Receptor_Structure_Z-001-0001]]`
+- [x] All zettel links use FULL format: `[[Title_Z-001-0001]`
+- [x] No bare UIDs: `[[Insulin_Receptor_Structure_Z-001-0001]`
 - [x] Concept count matches "Zettels Created from This Source" list

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Successful Small-Scale Soap Companies"
 date: 2023-12-28
 source: ChatGPT conversation history
-aliases: [CGPT-0512]
+aliases: CGPT-0512]
 tags: [chatgpt-archive, general]
 status: archived
 ---

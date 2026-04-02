@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, iron-homeostasis, irp, ire, post-transcriptional, gene-regulation]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]]"
+source-litnote: "[[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]"
 status: conscious
 ---
 
@@ -199,17 +199,17 @@ Stop codon ──[IRE]── Poly-A tail
 
 ## Related
 
-- [[IRP1_Iron_Sensing_Molecular_Switch_Z-001-1205]]
-- [[Aconitase_Mechanism_Iron_Sulfur_Cluster_Z-001-1204]]
-- [[IRE_IRP_System_Molecular_Details_Z-001-1207]]
+- [[IRP1_Iron_Sensing_Molecular_Switch_Z-001-1205]
+- [[Aconitase_Mechanism_Iron_Sulfur_Cluster_Z-001-1204]
+- [[IRE_IRP_System_Molecular_Details_Z-001-1207]
 
 ---
 
-*Source: _IRP1_L-001-0631]] | 2026-03-09*
+*Source: _IRP1_L-001-0631] | 2026-03-09*
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

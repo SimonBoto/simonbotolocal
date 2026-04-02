@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, vitamin-b12, enzymes, cofactors, methionine-synthase]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]
+source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
 extraction-date: 2026-03-01
 ---
 
@@ -84,11 +84,11 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 
 ---
 
-*Source: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]*
+*Source: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]]
-- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
+- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]

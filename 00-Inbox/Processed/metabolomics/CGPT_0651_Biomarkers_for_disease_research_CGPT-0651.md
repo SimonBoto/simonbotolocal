@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Biomarkers for disease research."
 date: 2023-04-28
 source: ChatGPT conversation history
-aliases: [CGPT-0651]
+aliases: CGPT-0651]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition, personal_development]
 status: archived
 ---

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mitochondrial-cofactors, magnesium, coq10, b-vitamins, carnitine]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]]
+source-litnote: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]
 extraction-date: 2026-03-01
 ---
 
@@ -49,10 +49,10 @@ General dysfunction → CoQ10 deficiency
 
 ---
 
-*Source: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]]*
+*Source: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]*
 
 
 ## RELATED FILES
 - 
-- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]]
-- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
+- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]

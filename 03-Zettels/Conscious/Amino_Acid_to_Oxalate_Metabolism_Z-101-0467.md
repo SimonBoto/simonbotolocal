@@ -6,7 +6,7 @@ aliases: [Z-101-0467]
 domain: 101
 tags: [zettel, oxalate, metabolism, glycine, hydroxyproline, primary-hyperoxaluria, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]]
+source-litnote: [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]
 status: conscious
 ---
 
@@ -70,8 +70,8 @@ Hydroxyproline → Glyoxylate → Oxalate
 - **Adipic acid advantage:** Primarily exogenous/metabolic intermediate; may offer cleaner signal
 
 ## Related
-- **Source:** [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]]
-- **Chemistry:** [[Oxalic_Acid_Chemistry_Properties_Z-101-0465]]
+- **Source:** [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]
+- **Chemistry:** [[Oxalic_Acid_Chemistry_Properties_Z-101-0465]
 - **Vitamin C connection:** Ascorbate can also convert to oxalate (see CGPT-0505)
 
 ---
@@ -79,13 +79,13 @@ Hydroxyproline → Glyoxylate → Oxalate
 
 
 ## Related
-- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]|Z-001-0435]]
+- [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]|Z-001-0435]
 
 
 ## Related
-- [[Vitamin_C_to_Oxalate_Conversion_Z-001-0607]|Z-001-0607]]
+- [[Vitamin_C_to_Oxalate_Conversion_Z-001-0607]|Z-001-0607]
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

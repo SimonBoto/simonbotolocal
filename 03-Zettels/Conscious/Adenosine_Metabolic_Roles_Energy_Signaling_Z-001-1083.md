@@ -7,8 +7,8 @@ domain: 001
 domain-name: Nucleotide Metabolism
 tags: [zettel, adenosine, nucleoside, atp, signaling]
 parent-moc: 
-source-litnote: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
-source: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
+source-litnote: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]
+source: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]
 confidence: high
 created: 2026-03-08
 ---
@@ -73,8 +73,8 @@ Adenosine is a nucleoside (adenine + ribose) serving as the universal hub connec
 | **Caffeine** | Blocks receptors | Temporarily reverses effect |
 
 ## Related
-- [[Adenine_Purine_Base_Structure_Function_Z-001-1084]]
-- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]]
+- [[Adenine_Purine_Base_Structure_Function_Z-001-1084]
+- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]
 - 
 
 ---
@@ -82,5 +82,5 @@ Adenosine is a nucleoside (adenine + ribose) serving as the universal hub connec
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

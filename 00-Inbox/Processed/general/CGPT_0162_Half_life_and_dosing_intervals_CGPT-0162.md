@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Half-life and dosing intervals"
 date: 2025-01-30
 source: ChatGPT conversation history
-aliases: [CGPT-0162]
+aliases: CGPT-0162]
 tags: [chatgpt-archive, general]
 status: archived
 ---

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, oleic-acid, metabolic-benefits, lipids, insulin]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]]
+source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]
 extraction-date: 2026-03-01
 ---
 
@@ -56,21 +56,21 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: _L-001-0506]]*
+*Source: _L-001-0506]*
 
 
 ## Related
-- [[Banting_Best_Discovery_1921_Z-001-0232]|Z-001-0232]]
+- [[Banting_Best_Discovery_1921_Z-001-0232]|Z-001-0232]
 
 
 ## Related
-- [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]|Z-001-0234]]
+- [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]|Z-001-0234]
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
-- [[Olive_Oil_Mediterranean_Advantage_Z-001-0519]|Z-001-0519]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+- [[Olive_Oil_Mediterranean_Advantage_Z-001-0519]|Z-001-0519]

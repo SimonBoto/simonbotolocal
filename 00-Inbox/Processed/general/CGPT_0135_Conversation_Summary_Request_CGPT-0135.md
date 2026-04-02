@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Conversation Summary Request"
 date: 2025-02-28
 source: ChatGPT conversation history
-aliases: [CGPT-0135]
+aliases: CGPT-0135]
 tags: [chatgpt-archive, general]
 status: archived
 ---

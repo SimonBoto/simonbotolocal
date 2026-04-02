@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, oat, interpretation, categories]
 parent-moc: 
-source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
-source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
+source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
+source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
 confidence: high
 created: 2026-03-08
 ---
@@ -75,13 +75,13 @@ Systematic approach to OAT interpretation by marker category.
 5. **Note oxidative stress** (oxidative markers)
 
 ## Related
-- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
-- -Analysis]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]
+- -Analysis]
 
 ---
 *Source: CGPT-0022 — OAT interpretation*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]

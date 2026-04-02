@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, metabolic-flexibility, fat-adaptation, substrate-switch]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]]
+source-litnote: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]
 extraction-date: 2026-03-01
 ---
 
@@ -47,8 +47,8 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]]*
+*Source: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

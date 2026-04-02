@@ -7,8 +7,8 @@ domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, triose, glyceraldehyde, dihydroxyacetone, sugar]
 parent-moc: 
-source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
-source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
+source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]
+source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]
 confidence: high
 created: 2026-03-08
 ---
@@ -60,7 +60,7 @@ Trioses are the simplest monosaccharides—three-carbon sugars that serve as fun
 - Foundation for more complex carbohydrate metabolism
 
 ## Related
-- [[Triose_Roles_Glycolysis_PPP_Krebs_Integration_Z-001-1089]]
+- [[Triose_Roles_Glycolysis_PPP_Krebs_Integration_Z-001-1089]
 - 
 
 ---
@@ -68,5 +68,5 @@ Trioses are the simplest monosaccharides—three-carbon sugars that serve as fun
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -200,27 +200,27 @@ source-litnote: Synthesized from clinical practice
 **Lipotoxicity:**
 - Excess fatty acids → ceramide accumulation
 - Interferes with insulin signaling (IRS-1, Akt)
-- [[Lipotoxicity_Pathway_IR_Z-001-0029]]
+- [[Lipotoxicity_Pathway_IR_Z-001-0029]
 
 **Mitochondrial Dysfunction:**
 - Impaired fatty acid oxidation
 - Incomplete β-oxidation → adipic acid elevation
-- [[Mitochondrial_Dysfunction_IR_Z-001-0015]]
+- [[Mitochondrial_Dysfunction_IR_Z-001-0015]
 
 **Inflammation:**
 - Adipose tissue macrophages → cytokines (TNF-α, IL-6)
 - Serine phosphorylation of IRS-1
-- [[Inflammatory_Signaling_IR_Z-001-0031]]
+- [[Inflammatory_Signaling_IR_Z-001-0031]
 
 **ER Stress:**
 - Unfolded protein response
 - JNK activation → IRS-1 serine phosphorylation
-- [[ER_Stress_Induced_IR_Z-001-0014]]
+- [[ER_Stress_Induced_IR_Z-001-0014]
 
 **Gut Dysbiosis:**
 - LPS translocation → metabolic endotoxemia
 - TLR4 activation → inflammation
-- [[Gut_Derived_Mechanisms_IR_Z-001-0032]]
+- [[Gut_Derived_Mechanisms_IR_Z-001-0032]
 
 ## 4. METABOLOMICS CONNECTIONS
 
@@ -228,11 +228,11 @@ source-litnote: Synthesized from clinical practice
 
 | Metabolic Finding | OAT Markers | Connection |
 |-------------------|-------------|------------|
-| **High glucose/insulin** | [[Adipic_Acid_Z-001-0041]] | Impaired β-oxidation |
+| **High glucose/insulin** | [[Adipic_Acid_Z-001-0041] | Impaired β-oxidation |
 | **High TG** | ] | Fatty acid transport |
 | **High uric acid** | ] | Lactic acidosis, mitochondrial stress |
-| **IR + fatigue** | [[Mitochondrial_Markers_Z-001-1067]] | Energy failure |
-| **IR + brain fog** | [[BHB_Z-001-0483]] | Metabolic flexibility |
+| **IR + fatigue** | [[Mitochondrial_Markers_Z-001-1067] | Energy failure |
+| **IR + brain fog** | [[BHB_Z-001-0483] | Metabolic flexibility |
 
 **Key OAT-Metabolic Correlations:**
 
@@ -244,7 +244,7 @@ source-litnote: Synthesized from clinical practice
 **Beta-Hydroxybutyrate (BHB):**
 - Low fasting BHB = impaired metabolic flexibility
 - Should be >0.1 mmol/L in fasting state
-- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]
 
 **Organic Acids Pattern in IR:**
 - Elevated adipic, suberic (impaired β-oxidation)
@@ -428,8 +428,8 @@ source-litnote: Synthesized from clinical practice
 ## 11. RELATED BIOMARKERS
 
 - [[IR_Playbook_Clinical_Decision_Tool_S-001-0001]: Complete IR protocol
-- [[Adipic_Acid_Z-001-0041]]: Early IR marker (OAT)
-- [[BHB_Z-001-0483]]: Metabolic flexibility marker
+- [[Adipic_Acid_Z-001-0041]: Early IR marker (OAT)
+- [[BHB_Z-001-0483]: Metabolic flexibility marker
 - [[Mitochondrial_Dysfunction_Action_S-001-0004]: Mitochondrial support
 - [[Omega_Fatty_Acids_Framework_S-001-0005]: TG management
 - [[Vitamin_D_Clinical_Guide_S-001-0002]: D and insulin sensitivity

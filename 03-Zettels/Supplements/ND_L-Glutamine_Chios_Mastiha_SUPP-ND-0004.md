@@ -98,9 +98,9 @@ Take 1-3 capsules daily after food or as directed by your physician.
 - General digestive wellness
 
 ## Biomarker Links
-- [[Glucose_Blood_Sugar_Energy_Z-005-0001]] — glutamine supports gut barrier, metabolic health
-- [[Zonulin_Leaky_Gut_Marker_Z-012-XXXX]] — glutamine reduces zonulin, tightens junctions
-- [[Helicobacter_pylori_Gastric_Pathogen_Z-009-XXXX]] — mastiha has anti-H. pylori activity
+- [[Glucose_Blood_Sugar_Energy_Z-005-0001] — glutamine supports gut barrier, metabolic health
+- [[Zonulin_Leaky_Gut_Marker_Z-012-XXXX] — glutamine reduces zonulin, tightens junctions
+- [[Helicobacter_pylori_Gastric_Pathogen_Z-009-XXXX] — mastiha has anti-H. pylori activity
 
 ## Comparison with Meetab Gut Products
 | Feature | L-Glutamine + Mastiha | My Gut Life | My Postbiotics |

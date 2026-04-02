@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mitochondrial-knockout, polg, tfam, mfn1, mfn2, drp1, sod2, genetics, mouse-models, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]]
+source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]
 status: conscious
 ---
 
@@ -302,13 +302,13 @@ status: conscious
 
 ---
 
-**Related:** [[Mitochondrial_DNA_Mutations_Cancer_Z-001-0989]] | [[VDR_Knockout_Mouse_Phenotypes_Z-001-0987]] | [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-0560]]
+**Related:** [[Mitochondrial_DNA_Mutations_Cancer_Z-001-0989] | [[VDR_Knockout_Mouse_Phenotypes_Z-001-0987] | [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-0560]
 
 **Source:** CGPT-0311 — Self-Education Program Plan
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

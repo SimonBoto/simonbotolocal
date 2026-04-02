@@ -18,7 +18,7 @@ title: "I think I won't open it and just turn off the stove
 
 ### 20."
 date: 2025-11-08
-source: [[CGPT_0035_Yogurt_culture_creation_guide_[CGPT-0035]]
+source: [[CGPT_0035_Yogurt_culture_creation_guide_CGPT-0035]]
 aliases: [X-GEN-251108-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []

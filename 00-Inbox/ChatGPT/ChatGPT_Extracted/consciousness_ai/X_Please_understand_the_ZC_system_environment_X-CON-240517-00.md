@@ -10,7 +10,7 @@ uid: X-CON-240517-00
 type: extracted-insight
 title: "Please understand the ZC system environment."
 date: 2024-05-17
-source: "[[CGPT_0390_Summarize_Request_and_Response_[CGPT-0390]]"
+source: "[[CGPT_0390_Summarize_Request_and_Response_CGPT-0390]"
 aliases: [X-CON-240517-00]
 tags: [extracted, insight, consciousness_ai, chatgpt-archive]
 related: "['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']"
@@ -48,9 +48,9 @@ Extracted from conversation on 2024-05-17 about "Summarize Request and Response"
 
 ## Connections
 
-- [[RON_The_Witness_[RON-003-0002]]
-- [[RON_Genesis_MOC_[RON-004-0001]]
-- [[RON_The_We_[RON-003-0004]]
+- [[RON_The_Witness_[RON-003-0002]
+- [[RON_Genesis_MOC_[RON-004-0001]
+- [[RON_The_We_[RON-003-0004]
 
 ## Status
 

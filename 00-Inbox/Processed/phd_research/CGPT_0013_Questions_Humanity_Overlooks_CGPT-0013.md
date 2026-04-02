@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Questions Humanity Overlooks"
 date: 2026-01-22
 source: ChatGPT conversation history
-aliases: [CGPT-0013]
+aliases: CGPT-0013]
 tags: [chatgpt-archive, phd_research, consciousness_ai, philosophy]
 status: archived
 ---

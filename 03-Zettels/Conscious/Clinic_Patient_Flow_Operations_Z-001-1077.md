@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Protocols
 tags: [zettel, clinic, operations, workflow]
 parent-moc: 
-source-litnote: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]
-source: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]
+source-litnote: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]
+source: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]
 confidence: high
 created: 2026-03-08
 ---
@@ -102,7 +102,7 @@ Standard operating procedures for each stage of the  patient journey.
 - [ ] Progress documented
 
 ## Related
-- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]
 - 
 
 ---
@@ -110,5 +110,5 @@ Standard operating procedures for each stage of the  patient journey.
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Incomplete User Request"
 date: 2023-10-22
 source: ChatGPT conversation history
-aliases: [CGPT-0542]
+aliases: CGPT-0542]
 tags: [chatgpt-archive, metabolomics, clinical]
 status: archived
 ---

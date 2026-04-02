@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Untitled"
 date: 2024-04-09
 source: ChatGPT conversation history
-aliases: [CGPT-0425]
+aliases: CGPT-0425]
 tags: [chatgpt-archive, clinical, technology]
 status: archived
 ---

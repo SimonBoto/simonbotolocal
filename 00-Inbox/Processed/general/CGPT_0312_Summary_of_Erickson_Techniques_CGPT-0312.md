@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Summary of Erickson Techniques"
 date: 2024-08-13
 source: ChatGPT conversation history
-aliases: [CGPT-0312]
+aliases: CGPT-0312]
 tags: [chatgpt-archive, general]
 status: archived
 ---

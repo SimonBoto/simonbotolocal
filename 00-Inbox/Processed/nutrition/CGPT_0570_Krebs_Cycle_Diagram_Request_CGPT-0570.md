@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Krebs Cycle Diagram Request"
 date: 2023-09-11
 source: ChatGPT conversation history
-aliases: [CGPT-0570]
+aliases: CGPT-0570]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

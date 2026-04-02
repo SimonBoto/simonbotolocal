@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, b12, requirements, supplementation, dosing]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]]
+source-litnote: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]
 extraction-date: 2026-03-01
 ---
 
@@ -60,10 +60,10 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: _B12_Functions_L-001-0407]]*
+*Source: _B12_Functions_L-001-0407]*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

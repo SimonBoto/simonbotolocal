@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Latest problem solved"
 date: 2025-11-14
 source: ChatGPT conversation history
-aliases: [CGPT-0037]
+aliases: CGPT-0037]
 tags: [chatgpt-archive, general]
 status: archived
 ---

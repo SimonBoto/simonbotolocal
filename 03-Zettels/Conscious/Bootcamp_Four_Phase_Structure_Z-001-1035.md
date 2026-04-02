@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Training
 tags: [zettel, curriculum, training, bootcamp]
 parent-moc: 
-source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
-source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
+source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
+source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
 confidence: high
 created: 2026-03-08
 ---
@@ -54,14 +54,14 @@ An 8-week, time-bound training curriculum designed to scaffold cognitive transfo
 > "This produces metabolomics clinicians, not pathway parrots."
 
 ## Related
-- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]]
-- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
-- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
-- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]]
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]

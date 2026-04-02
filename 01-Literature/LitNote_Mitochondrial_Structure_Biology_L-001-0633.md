@@ -6,7 +6,7 @@ domain: 001
 date: 2026-03-09
 source: CGPT-0318 (Messages 1-2, 156-214)
 tags: [litnote, mitochondria, structure, biochemistry, ete]
-aliases: [CGPT-0318-Biology]
+aliases: CGPT-0318-Biology]
 status: extracted
 ---
 
@@ -121,12 +121,12 @@ Matrix (Krebs) → Intermembrane Space (ETC) → ATP Synthase (ATP)
 
 ## Zettels Extracted
 
-1. [[Mitochondrial_Membrane_Structure_Z-001-12XX]] — Outer/inner membrane architecture
-2. [[Cristae_Function_ETC_Z-001-12XX]] — Cristae and energy production
-3. [[ATP_Synthase_Mechanism_Z-001-12XX]] — ATP production machinery
-4. [[mtDNA_Genetics_Z-001-12XX]] — Mitochondrial genetics basics
-5. [[Isoprenol_Structure_Function_Z-001-12XX]] — Isoprenol biochemistry
-6. [[CoQ10_Mitochondrial_Support_Z-001-12XX]] — CoQ10 mechanisms
+1. [[Mitochondrial_Membrane_Structure_Z-001-12XX] — Outer/inner membrane architecture
+2. [[Cristae_Function_ETC_Z-001-12XX] — Cristae and energy production
+3. [[ATP_Synthase_Mechanism_Z-001-12XX] — ATP production machinery
+4. [[mtDNA_Genetics_Z-001-12XX] — Mitochondrial genetics basics
+5. [[Isoprenol_Structure_Function_Z-001-12XX] — Isoprenol biochemistry
+6. [[CoQ10_Mitochondrial_Support_Z-001-12XX] — CoQ10 mechanisms
 
 ---
 

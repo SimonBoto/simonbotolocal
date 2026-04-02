@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Enzymes Evolution"
 date: 2025-11-14
 source: ChatGPT conversation history
-aliases: [CGPT-0023]
+aliases: CGPT-0023]
 tags: [chatgpt-archive, general]
 status: archived
 ---

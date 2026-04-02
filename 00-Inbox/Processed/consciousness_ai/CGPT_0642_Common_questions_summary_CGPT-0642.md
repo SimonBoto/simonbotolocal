@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Common questions summary."
 date: 2023-05-03
 source: ChatGPT conversation history
-aliases: [CGPT-0642]
+aliases: CGPT-0642]
 tags: [chatgpt-archive, consciousness_ai, technology]
 status: archived
 ---

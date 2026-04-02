@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mitochondria and Telomeres Connection"
 date: 2023-12-13
 source: ChatGPT conversation history
-aliases: [CGPT-0518]
+aliases: CGPT-0518]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

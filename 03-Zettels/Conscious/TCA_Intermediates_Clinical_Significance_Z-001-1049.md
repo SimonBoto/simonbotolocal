@@ -7,8 +7,8 @@ domain: 001
 domain-name: Krebs Cycle
 tags: [zettel, tca-intermediates, oat, biomarkers]
 parent-moc: 
-source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
-source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
+source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
+source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
 confidence: high
 created: 2026-03-08
 ---
@@ -82,14 +82,14 @@ Each Krebs cycle intermediate has clinical meaning when elevated or depleted on 
 | All low | Substrate limitation (starvation, protein deficiency) |
 
 ## Related
-- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]
 - 
 
 ---
 *Source: CGPT-0022 — Mitochondrial biochemistry*
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- s/Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]]
-- |Biomarkers MOC]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- s/Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]
+- |Biomarkers MOC]
 

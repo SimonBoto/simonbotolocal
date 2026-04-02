@@ -7,8 +7,8 @@ domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, aldoses, ketoses, reference, table]
 parent-moc: 
-source-litnote: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
-source: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
+source-litnote: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]
+source: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]
 confidence: high
 created: 2026-03-08
 ---
@@ -96,8 +96,8 @@ Comprehensive reference of aldose and ketose sugars with their biological signif
 | **** | Ribulose, xylulose | Calvin cycle, PPP |
 
 ## Related
-- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]]
-| [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]]
+- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]
+| [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]
 | 
 
 ---
@@ -105,7 +105,7 @@ Comprehensive reference of aldose and ketose sugars with their biological signif
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

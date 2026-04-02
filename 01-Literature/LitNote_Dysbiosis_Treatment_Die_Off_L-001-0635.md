@@ -15,7 +15,7 @@ extraction-date: 2026-03-09
 # Dysbiosis Treatment and Die-Off Reactions
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0199_Dysbiosis_Treatment_Side_Effects_[CGPT-0199]]
+- **ChatGPT conversation:** [[CGPT_0199_Dysbiosis_Treatment_Side_Effects_CGPT-0199]]
 - **Date:** January 4, 2025
 - **Messages:** 1-30 (clinical case discussion)
 
@@ -62,9 +62,9 @@ extraction-date: 2026-03-09
 - Fever
 
 ## Zettels Created
-1. [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]]
-2. [[Stool_Changes_Dysbiosis_Treatment_Monitoring_Z-001-1222]]
-3. [[Herbal_Antimicrobials_Dysbiosis_Protocol_Z-001-1223]]
+1. [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]
+2. [[Stool_Changes_Dysbiosis_Treatment_Monitoring_Z-001-1222]
+3. [[Herbal_Antimicrobials_Dysbiosis_Protocol_Z-001-1223]
 
 ## Related
 - 

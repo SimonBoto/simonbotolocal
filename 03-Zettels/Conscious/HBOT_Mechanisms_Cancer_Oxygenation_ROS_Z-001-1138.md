@@ -7,8 +7,8 @@ domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, hbot, hyperbaric, oxygen, ros, cancer]
 parent-moc: 
-source-litnote: [[LitNote_HBOT_Cancer_L-001-0614]]
-source: [[LitNote_HBOT_Cancer_L-001-0614]]
+source-litnote: [[LitNote_HBOT_Cancer_L-001-0614]
+source: [[LitNote_HBOT_Cancer_L-001-0614]
 confidence: high
 created: 2026-03-08
 ---
@@ -97,8 +97,8 @@ High O₂ + HBOT → ROS production (superoxide, hydrogen peroxide)
 | **HBOT + Metformin** | Dual mitochondrial targeting |
 
 ## Related
-- [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]]
-- [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]]
+- [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]
+- [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]
 - 
 
 ---
@@ -106,6 +106,6 @@ High O₂ + HBOT → ROS production (superoxide, hydrogen peroxide)
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

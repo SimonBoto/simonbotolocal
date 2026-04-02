@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Online Precision Medicine Business"
 date: 2023-06-16
 source: ChatGPT conversation history
-aliases: [CGPT-0617]
+aliases: CGPT-0617]
 tags: [chatgpt-archive, general]
 status: archived
 ---

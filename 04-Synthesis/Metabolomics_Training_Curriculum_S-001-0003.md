@@ -6,14 +6,14 @@ aliases: [S-001-0003, Metabolomics-Curriculum, Training-Program, MCP-Certificati
 domain: 001
 domain-name: Metabolomics_Training
 tags: [synthesis, metabolomics, training, curriculum, education, certification, clinical, oat, lipidomics, living-document]
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: [[MOC-Clinical-Protocols]
 status: active
 version: 1.1
 created: 2026-03-30
 last-updated: 2026-04-01
 contributing-zettels:
-  - "[[Asynchronous_Learning_Medical_Teams_Z-001-1161]]"
-  - "[[Clinical_Team_Education_4Arm_Methodology_Z-001-1159]]"
+  - "[[Asynchronous_Learning_Medical_Teams_Z-001-1161]"
+  - "[[Clinical_Team_Education_4Arm_Methodology_Z-001-1159]"
 ---
 
 # Metabolomics Training Curriculum
@@ -79,7 +79,7 @@ By program completion, participants will:
 - Supervised report interpretation
 - Patient communication practice
 
-**Source:** [[Asynchronous_Learning_Medical_Teams_Z-001-1161]], [[Clinical_Team_Education_4Arm_Methodology_Z-001-1159]]
+**Source:** [[Asynchronous_Learning_Medical_Teams_Z-001-1161], [[Clinical_Team_Education_4Arm_Methodology_Z-001-1159]
 
 ### 1.3 Assessment Framework
 
@@ -112,7 +112,7 @@ By program completion, participants will:
 ### 2.2 Module 1: Clinical Vocabulary
 
 **Core Concepts:**
-- [[Core_Clinical_Vocabulary_66_Terms_Z-001-0590]]
+- [[Core_Clinical_Vocabulary_66_Terms_Z-001-0590]
 
 **Key Terms to Master:**
 | Category | Terms |
@@ -130,25 +130,25 @@ By program completion, participants will:
 ### 2.3 Module 2: Mitochondrial Biochemistry
 
 **Core Concepts:**
-- [[Mitochondrial_Biochemistry_Clinicians_Z-001-0591]]
-- [[Mitochondrial_Structure_Function_Z-001-1215]]
-- [[Mitochondrial_Energy_Terminology_Z-001-1043]]
+- [[Mitochondrial_Biochemistry_Clinicians_Z-001-0591]
+- [[Mitochondrial_Structure_Function_Z-001-1215]
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]
 
 **Key Pathways:**
 1. **Krebs Cycle (TCA):**
    - Entry points: Acetyl-CoA, glutamate, other amino acids
    - Key intermediates: Citrate, isocitrate, α-ketoglutarate, succinate, fumarate, malate, oxaloacetate
-   - [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]]
+   - [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]
 
 2. **Electron Transport Chain:**
    - Complexes I-IV
    - Proton gradient and ATP synthesis
-   - [[CoQ10_Mitochondrial_Support_Z-001-1217]]
+   - [[CoQ10_Mitochondrial_Support_Z-001-1217]
 
 3. **Fatty Acid Oxidation:**
    - Carnitine shuttle
    - β-oxidation spiral
-   - [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+   - [[Carnitine_Fatty_Acid_Transport_Z-001-0913]
 
 **Clinical Correlations:**
 - Elevated adipic acid → impaired β-oxidation
@@ -158,9 +158,9 @@ By program completion, participants will:
 ### 2.4 Module 3: Vitamin-Mineral Cofactors
 
 **Core Concepts:**
-- [[Vitamin_Mineral_Axis_Biochemistry_Z-001-0593]]
-- [[B_Vitamin_Cofactors_Summary_Z-001-1202]]
-- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1105]]
+- [[Vitamin_Mineral_Axis_Biochemistry_Z-001-0593]
+- [[B_Vitamin_Cofactors_Summary_Z-001-1202]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1105]
 
 **Cofactor-Enzyme Relationships:**
 | Cofactor | Enzyme | Metabolic Role |
@@ -180,15 +180,15 @@ By program completion, participants will:
 ### 2.5 Module 4: Fatty Acid Metabolism
 
 **Core Concepts:**
-- [[Fatty_Acid_Metabolism_Lipid_Signaling_Z-001-0592]]
-- [[Fatty_Acid_Nomenclature_Numbering_Z-001-1208]]
-- [[Fatty_Acid_Metabolism_Enzymatic_Pathways_Z-001-0520]]
+- [[Fatty_Acid_Metabolism_Lipid_Signaling_Z-001-0592]
+- [[Fatty_Acid_Nomenclature_Numbering_Z-001-1208]
+- [[Fatty_Acid_Metabolism_Enzymatic_Pathways_Z-001-0520]
 
 **Fatty Acid Classification:**
 - Saturated vs unsaturated
 - Omega-3, -6, -9 families
 - Essential vs non-essential
-- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]]
+- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]
 
 **Metabolic Pathways:**
 1. **Synthesis (Lipogenesis):**
@@ -199,12 +199,12 @@ By program completion, participants will:
 2. **Oxidation:**
    - β-oxidation (mitochondrial)
    - ω-oxidation (peroxisomal) → dicarboxylic acids
-   - [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]]
+   - [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]
 
 3. **Eicosanoid Synthesis:**
    - Pro-inflammatory (AA → PGE2, LTB4)
    - Anti-inflammatory (EPA → PGE3, LTB5)
-   - [[Proinflammatory_Eicosanoids_AA_Derived_PGE2_LTB4_Z-001-0950]]
+   - [[Proinflammatory_Eicosanoids_AA_Derived_PGE2_LTB4_Z-001-0950]
 
 ### 2.6 Phase 1 Assessment
 
@@ -232,9 +232,9 @@ By program completion, participants will:
 ### 3.2 Module 5: OAT Overview and Collection
 
 **Core Concepts:**
-- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
-- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
-- [[Organic_Acids_OAT_Metabolic_Biomarker_Z-001-1145]]
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]
+- [[Organic_Acids_OAT_Metabolic_Biomarker_Z-001-1145]
 
 **Test Overview:**
 - **Sample:** First morning urine
@@ -243,7 +243,7 @@ By program completion, participants will:
 - **Panels:** 70+ metabolites
 
 **Pre-Analytical Factors:**
-- [[Sample_Preparation_Variability_Control_Z-001-0940]]
+- [[Sample_Preparation_Variability_Control_Z-001-0940]
 - Fasting preferred
 - Avoid high-dose supplements 24h prior
 - Consistent timing for serial testing
@@ -251,8 +251,8 @@ By program completion, participants will:
 ### 3.3 Module 6: Mitochondrial Markers
 
 **Core Concepts:**
-- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
-- [[Mitochondrial_Dysfunction_IR_Z-001-0015]]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]
+- [[Mitochondrial_Dysfunction_IR_Z-001-0015]
 
 **Key Markers:**
 
@@ -273,9 +273,9 @@ By program completion, participants will:
 ### 3.4 Module 7: Gut Dysbiosis Markers
 
 **Core Concepts:**
-- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
-- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
-- [[Dysbiosis_Detection_Metabolomics_Z-001-0023]]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]
+- [[Dysbiosis_Detection_Metabolomics_Z-001-0023]
 
 **Bacterial Markers:**
 | Marker | Source | Clinical Significance |
@@ -289,12 +289,12 @@ By program completion, participants will:
 **Yeast/Fungal Markers:**
 - Arabinose
 - Tartaric acid
-- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]
 
 ### 3.5 Module 8: Neurotransmitter Metabolites
 
 **Core Concepts:**
-- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]
 - HVA (homovanillic acid) — dopamine
 - VMA (vanillylmandelic acid) — norepinephrine
 - 5-HIAA (5-hydroxyindoleacetic acid) — serotonin
@@ -309,7 +309,7 @@ By program completion, participants will:
 
 **Vitamin C:**
 - Oxalic acid (elevated = high C intake or poor metabolism)
-- [[Vitamin_C_to_Oxalate_Conversion_Z-001-0607]]
+- [[Vitamin_C_to_Oxalate_Conversion_Z-001-0607]
 
 **B-Vitamin Status:**
 - Methylmalonic acid (B12)
@@ -317,7 +317,7 @@ By program completion, participants will:
 - α-Ketoglutarate (B-vitamins)
 
 **Amino Acids:**
-- [[Amino_Acids_Metabolic_Intermediates_Z-001-0500]]
+- [[Amino_Acids_Metabolic_Intermediates_Z-001-0500]
 - Markers of protein intake and metabolism
 
 ### 3.7 Phase 2 Assessment
@@ -348,8 +348,8 @@ By program completion, participants will:
 ### 4.2 Module 10: Fatty Acid Profile Analysis
 
 **Core Concepts:**
-- [[Plasma_Total_Fatty_Acids_TFA_Profile_Z-001-1146]]
-- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]]
+- [[Plasma_Total_Fatty_Acids_TFA_Profile_Z-001-1146]
+- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]
 
 **Key Fatty Acids:**
 
@@ -367,9 +367,9 @@ By program completion, participants will:
 ### 4.3 Module 11: Omega-6 to Omega-3 Ratio
 
 **Core Concepts:**
-- [[Omega6_Omega3_Ratio_Z-001-1016]]
-- [[Omega_3_Ratio_Evolutionary_Context_Z-001-0948]]
-- [[Omega6_Bioaccumulation_Adipose_Half_Life_Z-001-0965]]
+- [[Omega6_Omega3_Ratio_Z-001-1016]
+- [[Omega_3_Ratio_Evolutionary_Context_Z-001-0948]
+- [[Omega6_Bioaccumulation_Adipose_Half_Life_Z-001-0965]
 
 **Optimal Ratios:**
 | Ratio | Target | Population Average | Health Implication |
@@ -386,8 +386,8 @@ By program completion, participants will:
 ### 4.4 Module 12: Advanced Lipid Panel
 
 **Core Concepts:**
-- [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001]]
-- [[ApoB_LpA_sdLDL_Advanced_Lipids_Z-006-0002]]
+- [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001]
+- [[ApoB_LpA_sdLDL_Advanced_Lipids_Z-006-0002]
 
 **Beyond Standard Lipid Panel:**
 
@@ -400,7 +400,7 @@ By program completion, participants will:
 | **HDL functionality** | High | Cholesterol efflux capacity |
 
 **TG/HDL Ratio:**
-- [[TG_HDL_Ratio_IR_Marker_Z-001-0049]]
+- [[TG_HDL_Ratio_IR_Marker_Z-001-0049]
 - <1.5: Optimal
 - 1.5-2.0: Acceptable
 - 2.0-4.0: Elevated risk
@@ -409,8 +409,8 @@ By program completion, participants will:
 ### 4.5 Module 13: Lipid-Metabolism Integration
 
 **Core Concepts:**
-- [[Lipid_Metabolism_Enzymatic_Pathways_Z-001-0520]]
-- [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]]
+- [[Lipid_Metabolism_Enzymatic_Pathways_Z-001-0520]
+- [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]
 
 **Synthesis Pathways:**
 1. **De Novo Lipogenesis:**
@@ -420,12 +420,12 @@ By program completion, participants will:
 2. **Mevalonate Pathway:**
    - Cholesterol synthesis
    - Statin target
-   - [[Mevalonate_Pathway_Enzymatic_Steps_Z-001-0545]]
+   - [[Mevalonate_Pathway_Enzymatic_Steps_Z-001-0545]
 
 3. **Fatty Acid Desaturation:**
    - Δ6, Δ5, Δ9 desaturases
    - Rate-limiting steps
-   - [[Fatty_Acid_Subclasses_Desaturase_Pathways_Z-001-1055]]
+   - [[Fatty_Acid_Subclasses_Desaturase_Pathways_Z-001-1055]
 
 ### 4.6 Phase 3 Assessment
 
@@ -448,8 +448,8 @@ By program completion, participants will:
 ### 5.2 Module 14: Patient History Integration
 
 **Core Concepts:**
-- [[Clinic_Patient_Flow_Operations_Z-001-1077]]
-- [[Patient_Communication_Scripts_Z-001-0595]]
+- [[Clinic_Patient_Flow_Operations_Z-001-1077]
+- [[Patient_Communication_Scripts_Z-001-0595]
 
 **Comprehensive Assessment:**
 1. **Chief Complaint:** Why seeking care
@@ -472,8 +472,8 @@ By program completion, participants will:
 ### 5.3 Module 15: Report Structure and Standards
 
 **Core Concepts:**
-- [[Metabolomics_Report_Structure_Standards_Z-001-1073]]
-- [[Metabolomics_Case_Study_Template_Z-001-1162]]
+- [[Metabolomics_Report_Structure_Standards_Z-001-1073]
+- [[Metabolomics_Case_Study_Template_Z-001-1162]
 
 **Report Template:**
 
@@ -517,8 +517,8 @@ REFERENCES
 ### 5.4 Module 16: Intervention Protocol Development
 
 **Core Concepts:**
-- [[OAT_Interpretation_Clinical_Protocol_Z-001-0594]]
-- [[Follow_Up_Assessment_Rhythms_Z-001-1079]]
+- [[OAT_Interpretation_Clinical_Protocol_Z-001-0594]
+- [[Follow_Up_Assessment_Rhythms_Z-001-1079]
 
 **Protocol Framework:**
 
@@ -548,8 +548,8 @@ REFERENCES
 ### 5.5 Module 17: Patient Communication
 
 **Core Concepts:**
-- [[Patient_Communication_Scripts_Z-001-0595]]
-- [[Difficult_Conversation_Navigation_Z-001-1072]]
+- [[Patient_Communication_Scripts_Z-001-0595]
+- [[Difficult_Conversation_Navigation_Z-001-1072]
 
 **Communication Principles:**
 1. **Start with Context:** Why testing was done
@@ -755,21 +755,21 @@ REFERENCES
 ### 10.1 Core Zettel Library
 
 **Biochemistry Foundation:**
-- [[Core_Clinical_Vocabulary_66_Terms_Z-001-0590]]
-- [[Mitochondrial_Biochemistry_Clinicians_Z-001-0591]]
-- [[Vitamin_Mineral_Axis_Biochemistry_Z-001-0593]]
-- [[Fatty_Acid_Metabolism_Lipid_Signaling_Z-001-0592]]
+- [[Core_Clinical_Vocabulary_66_Terms_Z-001-0590]
+- [[Mitochondrial_Biochemistry_Clinicians_Z-001-0591]
+- [[Vitamin_Mineral_Axis_Biochemistry_Z-001-0593]
+- [[Fatty_Acid_Metabolism_Lipid_Signaling_Z-001-0592]
 
 **OAT Interpretation:**
-- [[OAT_Clinical_Action_Mapping_Z-001-1069]]
-- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
-- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]]
-- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]
+- [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]
 
 **Clinical Application:**
-- [[OAT_Interpretation_Clinical_Protocol_Z-001-0594]]
-- [[Patient_Communication_Scripts_Z-001-0595]]
-- [[Metabolomics_Report_Structure_Standards_Z-001-1073]]
+- [[OAT_Interpretation_Clinical_Protocol_Z-001-0594]
+- [[Patient_Communication_Scripts_Z-001-0595]
+- [[Metabolomics_Report_Structure_Standards_Z-001-1073]
 
 ### 10.2 Recommended Reading
 

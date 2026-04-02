@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Func Med vs. Con Med"
 date: 2023-04-24
 source: ChatGPT conversation history
-aliases: [CGPT-0657]
+aliases: CGPT-0657]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition, technology]
 status: archived
 ---

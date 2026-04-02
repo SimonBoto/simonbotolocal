@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Resolve Moral Injury Promptly"
 date: 2024-06-01
 source: ChatGPT conversation history
-aliases: [CGPT-0361]
+aliases: CGPT-0361]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, random-forest, machine-learning, classification, metabolomics, feature-selection]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Machine_Learning_Metabolomics_L-001-0618]]"
+source-litnote: "[[LitNote_Machine_Learning_Metabolomics_L-001-0618]"
 status: conscious
 ---
 
@@ -119,16 +119,16 @@ Aggregate predictions (majority vote)
 
 ## Related
 
-- [[SVM_Kernel_Methods_Metabolomics_Classification_Z-001-1154]]
-- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]]
-- [[Feature_Selection_Metabolomics_Z-001-XXXX]]
+- [[SVM_Kernel_Methods_Metabolomics_Classification_Z-001-1154]
+- [[Multivariate_Analysis_PLS_OPLS_Regression_Z-001-1151]
+- [[Feature_Selection_Metabolomics_Z-001-XXXX]
 
 ---
 
-*Source: [[LitNote_Machine_Learning_Metabolomics_L-001-0618]] | 2026-03-09*
+*Source: [[LitNote_Machine_Learning_Metabolomics_L-001-0618] | 2026-03-09*
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

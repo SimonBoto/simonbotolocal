@@ -7,7 +7,7 @@ domain: 101
 tags: [zettel, adipate, TCA-cycle, beta-oxidation, acetyl-CoA, succinyl-CoA]
 parent-moc: 
 status: conscious
-source-litnote: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]]"
+source-litnote: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]"
 extraction-date: 2026-03-02
 ---
 
@@ -61,11 +61,11 @@ extraction-date: 2026-03-02
 
 ---
 
-*See also: [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]*
+*See also: [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - 

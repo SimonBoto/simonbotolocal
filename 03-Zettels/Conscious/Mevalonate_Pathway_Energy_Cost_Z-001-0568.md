@@ -7,7 +7,7 @@ domain: 001
 domain-name: Lipid Metabolism
 tags: [zettel, energy-metabolism, atp, nadph, mevalonate-pathway, biochemistry, metabolic-cost]
 parent-moc: 
-source: "[[LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518]]"
+source: "[[LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518]"
 confidence: high
 created: 2026-03-03
 ---
@@ -137,9 +137,9 @@ The high cost is justified by cholesterol's critical functions:
 
 ## Related Zettels
 
-- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]] — Pathway overview
-- [[HMG_CoA_Reductase_Regulation_Z-001-0567]] — Regulatory control
-- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]] — Cholesterol products
+- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566] — Pathway overview
+- [[HMG_CoA_Reductase_Regulation_Z-001-0567] — Regulatory control
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570] — Cholesterol products
 
 ---
 
@@ -152,5 +152,5 @@ The high cost is justified by cholesterol's critical functions:
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

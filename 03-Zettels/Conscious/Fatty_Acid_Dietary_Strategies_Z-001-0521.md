@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, fatty-acid-strategy, omega-3, dietary-fats, cooking]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]]
+source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]
 extraction-date: 2026-03-01
 ---
 
@@ -58,7 +58,7 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]]*
+*Source: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]*
 
 
 ## RELATED FILES

@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, nutrition, protein]
 parent-moc: 
-source: [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]]
+source: [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -20,8 +20,8 @@ Protein intake stimulates intestinal calcium absorption. However, extremely high
 ## Links
 
 **Parent MOC:** 
-**Source:** [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]]
-**Related:** [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_Z-001-0099]], [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]]
+**Source:** [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]
+**Related:** [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_Z-001-0099], [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]
 
 ---
 
@@ -29,7 +29,7 @@ Protein intake stimulates intestinal calcium absorption. However, extremely high
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - 
-- [[Bone_Remodeling_Cycle_Five_Phases_Z-001-0083]|Z-001-0083]]
+- [[Bone_Remodeling_Cycle_Five_Phases_Z-001-0083]|Z-001-0083]

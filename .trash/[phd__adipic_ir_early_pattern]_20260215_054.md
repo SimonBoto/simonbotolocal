@@ -7,7 +7,7 @@ uid: "20260215_054"
 ---
 uid: 20260212074601
 tags: [insulin-resistance, phd-biomarker]
-parent-moc: [[88-Mocs/PhD_IR_MOC]]
+parent-moc: [[88-Mocs/PhD_IR_MOC]
 aliases: [Adipic Early IR]
 references: [RCT Zotero123]
 ---
@@ -20,6 +20,6 @@ Adipic >5μmol/L in OA/GC-MS signals early insulin resistance.
 
 **Confounders:** Fasting status.
 
-**Source:** [[00-Inbox/02-Triage/Raw_01_processed]]
+**Source:** [[00-Inbox/02-Triage/Raw_01_processed]
 
-Links: [[Suberic_IR_Biomarker]] | [[88-Mocs/Biomarkers_MOC]]
+Links: [[Suberic_IR_Biomarker] | [[88-Mocs/Biomarkers_MOC]

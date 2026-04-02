@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Ascorbic acid pH"
 date: 2024-12-26
 source: ChatGPT conversation history
-aliases: [CGPT-0217]
+aliases: CGPT-0217]
 tags: [chatgpt-archive, metabolomics]
 status: archived
 ---

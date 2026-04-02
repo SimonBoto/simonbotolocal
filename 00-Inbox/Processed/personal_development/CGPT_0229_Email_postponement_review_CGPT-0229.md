@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Email postponement review"
 date: 2024-12-13
 source: ChatGPT conversation history
-aliases: [CGPT-0229]
+aliases: CGPT-0229]
 tags: [chatgpt-archive, personal_development]
 status: archived
 ---

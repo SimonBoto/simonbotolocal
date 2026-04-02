@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, psoriasis, keratinocytes, telomeres, skin, hyperproliferation]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]]"
+source-litnote: "[[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]"
 status: conscious
 ---
 
@@ -132,15 +132,15 @@ Potential Genomic Instability
 
 ## Related
 
-- [[IBD_Telomere_Cancer_Risk_Z-001-1176]]
-- [[SLE_Telomere_Findings_Disease_Activity_Z-001-1174]]
+- [[IBD_Telomere_Cancer_Risk_Z-001-1176]
+- [[SLE_Telomere_Findings_Disease_Activity_Z-001-1174]
 
 ---
 
-*Source: [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]] | 2026-03-08*
+*Source: [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

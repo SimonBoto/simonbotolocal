@@ -8,7 +8,7 @@ tags: [zettel, pyruvate, metabolism, pdh, acetyl-coa, crossroads]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045F]]
+source: [[L-001-0045F]
 ---
 
 # Pyruvate: Central Metabolic Role
@@ -61,14 +61,14 @@ Pyruvate + Glutamate → Alanine + α-ketoglutarate
 - Treatment: Ketogenic diet (bypasses PDH)
 
 ## Related
-- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]] Pyruvate Metabolic Crossroads
-- [[Glycolysis_Steps_Regulation_Z-001-0467]] Glycolysis Steps
-- _Z-001-0479]] ependence
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469] Pyruvate Metabolic Crossroads
+- [[Glycolysis_Steps_Regulation_Z-001-0467] Glycolysis Steps
+- _Z-001-0479] ependence
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

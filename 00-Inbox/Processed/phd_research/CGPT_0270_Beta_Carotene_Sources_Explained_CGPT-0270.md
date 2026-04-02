@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Beta Carotene Sources Explained"
 date: 2024-10-12
 source: ChatGPT conversation history
-aliases: [CGPT-0270]
+aliases: CGPT-0270]
 tags: [chatgpt-archive, phd_research]
 status: archived
 ---

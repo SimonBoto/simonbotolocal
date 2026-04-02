@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mthfr, testing, genotyping, interpretation]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]]
+source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]
 extraction-date: 2026-03-01
 ---
 
@@ -67,11 +67,11 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_MTHFR_Genetics_L-001-0403]]*
+*Source: [[LitNote_MTHFR_Genetics_L-001-0403]*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- [[Folate_5MTHF_vs_Folic_Acid_Z-004-0002]|Z-004-0002]]
+- [[Folate_5MTHF_vs_Folic_Acid_Z-004-0002]|Z-004-0002]

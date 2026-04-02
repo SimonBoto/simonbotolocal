@@ -99,10 +99,10 @@ Take 2 capsules twice daily after food or as directed by your physician.
 | 4 | €1.27 | Standard dose |
 
 ## Biomarker Links
-- [[Zinc_RBC_Functional_Mineral_Z-007-0006]] — essential for skin healing
-- [[Copper_Essential_Mineral_Iron_Z-007-0007]] — collagen cross-linking
-- [[Vitamin_C_Calciferol_Steroid_Hormone_Z-007-0001]] — collagen synthesis
-- [[Glutathione_Master_Antioxidant_Z-001-0436]] — cysteine is precursor
+- [[Zinc_RBC_Functional_Mineral_Z-007-0006] — essential for skin healing
+- [[Copper_Essential_Mineral_Iron_Z-007-0007] — collagen cross-linking
+- [[Vitamin_C_Calciferol_Steroid_Hormone_Z-007-0001] — collagen synthesis
+- [[Glutathione_Master_Antioxidant_Z-001-0436] — cysteine is precursor
 
 ## Comparison with Meetab Beauty Products
 | Feature | Regene + (ND) | My Antioxidant (Meetab) |

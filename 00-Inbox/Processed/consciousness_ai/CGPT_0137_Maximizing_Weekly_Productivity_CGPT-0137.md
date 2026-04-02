@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Maximizing Weekly Productivity"
 date: 2025-02-24
 source: ChatGPT conversation history
-aliases: [CGPT-0137]
+aliases: CGPT-0137]
 tags: [chatgpt-archive, consciousness_ai, nutrition, personal_development]
 status: archived
 ---

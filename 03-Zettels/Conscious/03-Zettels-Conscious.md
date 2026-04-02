@@ -5,7 +5,7 @@ type: index
 title: "03-Zettels/Conscious — Working Notes"
 aliases: [Conscious, Working Zettels, Review Queue]
 tags: [index, conscious, zettels, working, review, folder]
-parent-index: [[00-MISSION]]
+parent-index: [[00-MISSION]
 source-litnote: Index note for folder structure
 status: active
 ---
@@ -66,4 +66,4 @@ All YES?
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

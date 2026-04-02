@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Using For.io for Web App"
 date: 2023-11-11
 source: ChatGPT conversation history
-aliases: [CGPT-0533]
+aliases: CGPT-0533]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, nutrition, technology]
 status: archived
 ---

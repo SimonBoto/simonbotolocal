@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Training
 tags: [zettel, clinical-workflow, patient-journey, metabolomics]
 parent-moc: 
-source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
-source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
+source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
+source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
 confidence: high
 created: 2026-03-08
 ---
@@ -63,19 +63,19 @@ Each stage becomes a **training module** with:
 - Assessment criteria
 
 ## Related
-- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]]
-- [[MCI_Three_Function_Architecture_Z-001-1030]]
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]
+- [[MCI_Three_Function_Architecture_Z-001-1030]
 - 
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
 
 
 ## Related
-- [[Clinician_Training_Competency_Checklist_Z-001-1080]|Z-001-1080]]
+- [[Clinician_Training_Competency_Checklist_Z-001-1080]|Z-001-1080]

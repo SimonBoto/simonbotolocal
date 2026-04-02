@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, omega-6, cellular-toxicity, comparison, heavy-metals, pops, mechanism, apoptosis, oxidative-stress, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Seed_Oils_Environmental_Toxins_L-001-0526]]
+source-litnote: [[LitNote_Seed_Oils_Environmental_Toxins_L-001-0526]
 status: conscious
 ---
 
@@ -287,16 +287,16 @@ Omega-6 excess shares mechanistic features with classical environmental toxins:
 
 ---
 
-**Related:** [[Linoleic_Acid_Bioaccumulation_Adipose_Half_Life_Z-001-0965]] | [[Seed_Oils_Environmental_Toxin_Framework_Z-001-0966]] | [[4_HNE_Protein_Adducts_Cellular_Damage_Z-001-0010]]
+**Related:** [[Linoleic_Acid_Bioaccumulation_Adipose_Half_Life_Z-001-0965] | [[Seed_Oils_Environmental_Toxin_Framework_Z-001-0966] | [[4_HNE_Protein_Adducts_Cellular_Damage_Z-001-0010]
 
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

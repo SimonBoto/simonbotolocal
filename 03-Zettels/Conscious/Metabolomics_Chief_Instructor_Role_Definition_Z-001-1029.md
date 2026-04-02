@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Training
 tags: [zettel, training, metabolomics, instructor-role, clinic-management]
 parent-moc: 
-source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
-source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
+source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
+source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
 confidence: high
 created: 2026-03-08
 ---
@@ -39,7 +39,7 @@ The **Metabolomics Chief Instructor (MCI)** is a hybrid training role designed s
 This role enables the clinic to evolve from **personality-driven** (single expert interpreting everything) to **scalable, standardized metabolomics service**.
 
 ## Related
-- [[MCI_Three_Function_Architecture_Z-001-1030]]
+- [[MCI_Three_Function_Architecture_Z-001-1030]
 - 
 - 
 
@@ -47,6 +47,6 @@ This role enables the clinic to evolve from **personality-driven** (single exper
 *Source: CGPT-0022 — ChatGPT training synthesis*
 
 ## RELATED FILES
-- /Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- /Liver_Function_[B-009-0001]|Biomarker Family Guide]
 - 
 

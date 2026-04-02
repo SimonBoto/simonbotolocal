@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Ethical Proposal Assistance Request"
 date: 2024-04-22
 source: ChatGPT conversation history
-aliases: [CGPT-0408]
+aliases: CGPT-0408]
 tags: [chatgpt-archive, communication]
 status: archived
 ---

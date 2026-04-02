@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "ChatGPT PhD Assistance"
 date: 2025-02-06
 source: ChatGPT conversation history
-aliases: [CGPT-0156]
+aliases: CGPT-0156]
 tags: [chatgpt-archive, phd_research, personal_development]
 status: archived
 ---

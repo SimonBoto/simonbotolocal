@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Training
 tags: [zettel, training, curriculum-design, clinical-reasoning]
 parent-moc: 
-source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
-source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
+source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
+source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
 confidence: high
 created: 2026-03-08
 ---
@@ -61,13 +61,13 @@ These functions are **not sequential**—they operate simultaneously:
 - Operational integration validates knowledge relevance
 
 ## Related
-- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
-- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*
 
 ## RELATED FILES
-- |Biomarker Family Guide]]
+- |Biomarker Family Guide]
 - 
 

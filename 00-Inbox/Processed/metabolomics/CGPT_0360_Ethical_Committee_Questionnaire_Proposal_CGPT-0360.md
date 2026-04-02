@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Ethical Committee Questionnaire Proposal"
 date: 2024-06-09
 source: ChatGPT conversation history
-aliases: [CGPT-0360]
+aliases: CGPT-0360]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research]
 status: archived
 ---

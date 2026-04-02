@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Explain Article Simply"
 date: 2023-08-21
 source: ChatGPT conversation history
-aliases: [CGPT-0602]
+aliases: CGPT-0602]
 tags: [chatgpt-archive, general]
 status: archived
 ---

@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, vitamin-d, vitamin-k2]
 parent-moc: 
-source: [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]]
+source: [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -20,8 +20,8 @@ Patients on vitamin K antagonists (warfarin) require close supervision when taki
 ## Links
 
 **Parent MOC:** 
-**Source:** [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]]
-**Related:** [[Vitamin_K2_MK4_MK7_Osteocalcin_Activation_Z-001-0092]], -Protocols]]
+**Source:** [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]
+**Related:** [[Vitamin_K2_MK4_MK7_Osteocalcin_Activation_Z-001-0092], -Protocols]
 
 ---
 
@@ -29,5 +29,5 @@ Patients on vitamin K antagonists (warfarin) require close supervision when taki
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

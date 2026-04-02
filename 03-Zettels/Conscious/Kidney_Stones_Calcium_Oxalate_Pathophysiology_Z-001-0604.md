@@ -6,7 +6,7 @@ aliases: [Z-001-0604, kidney-stones, nephrolithiasis, calcium-oxalate]
 domain: 001
 tags: [zettel, kidney-stones, oxalate, hyperoxaluria, urolithiasis]
 parent-moc: 
-source: [[L-001-0060A]]
+source: [[L-001-0060A]
 confidence: high
 created: 2026-03-04
 ---
@@ -64,13 +64,13 @@ Ca²⁺ + C₂O₄²⁻ → CaC₂O₄ (crystal)
 5. **Limit sodium:** Reduces calcium excretion
 
 ## Related
-- [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603]] — Binding mechanism
-- [[Dietary_Sources_Oxalate_Table_Z-001-0602]] — Food management
+- [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603] — Binding mechanism
+- [[Dietary_Sources_Oxalate_Table_Z-001-0602] — Food management
 
 ---
 *Source: CGPT-0413 | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

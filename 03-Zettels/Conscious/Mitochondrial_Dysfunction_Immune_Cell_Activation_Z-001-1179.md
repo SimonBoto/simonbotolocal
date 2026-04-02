@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, mitochondria, immune-cells, t-cells, metabolic-reprogramming, ros]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]]"
+source-litnote: "[[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]"
 status: conscious
 ---
 
@@ -144,14 +144,14 @@ status: conscious
 
 ## Related
 
-- [[ROS_Mediated_Telomere_Damage_Pathways_Z-001-1178]]
-- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]]
+- [[ROS_Mediated_Telomere_Damage_Pathways_Z-001-1178]
+- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]
 
 ---
 
-*Source: [[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]] | 2026-03-08*
+*Source: [[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

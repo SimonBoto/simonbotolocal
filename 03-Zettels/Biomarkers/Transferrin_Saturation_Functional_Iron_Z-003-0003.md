@@ -34,7 +34,7 @@ source-litnote: Synthesized from clinical practice
 
 **Formula:**
 ```
-Transferrin Saturation = ([[Serum_Iron_Circulating_Availability_Z-003-0004]|Serum Iron]] ÷ [[TIBC_Total_Iron_Binding_Capacity_Z-003-0002]|TIBC]]) × 100
+Transferrin Saturation = ([[Serum_Iron_Circulating_Availability_Z-003-0004]|Serum Iron] ÷ [[TIBC_Total_Iron_Binding_Capacity_Z-003-0002]|TIBC]) × 100
 ```
 
 Or:
@@ -116,7 +116,7 @@ source-litnote: Synthesized from clinical practice
 ### For Low Saturation (<20%)
 
 **Iron supplementation:**
-- See [[Z-003-0001|Ferritin]] for protocols
+- See [[Z-003-0001|Ferritin] for protocols
 - Target: >20% saturation
 - Monitor with ferritin
 
@@ -216,10 +216,10 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Z-003-0001|Ferritin — Iron Storage]]
-- [[Z-003-0002|TIBC — Total Iron Binding Capacity]]
-- [[Z-003-0004|Serum Iron]]
-- [[Iron_Family_[B-003-0001]|Iron Studies Family Guide]]
+- [[Z-003-0001|Ferritin — Iron Storage]
+- [[Z-003-0002|TIBC — Total Iron Binding Capacity]
+- [[Z-003-0004|Serum Iron]
+- [[Iron_Family_[B-003-0001]|Iron Studies Family Guide]
 
 source-litnote: Synthesized from clinical practice
 ---

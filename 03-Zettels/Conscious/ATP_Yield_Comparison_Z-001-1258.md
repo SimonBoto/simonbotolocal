@@ -6,7 +6,7 @@ aliases: [Z-001-1258]
 domain: 001
 tags: [zettel, ATP-yield, energy-efficiency, glucose, BHB, fatty-acids, oxidative-phosphorylation]
 parent-moc: ", "
-source-litnote: "[[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]"
+source-litnote: "[[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]"
 status: conscious
 ---
 
@@ -177,19 +177,19 @@ These "non-integer" values account for:
 
 ## Related Zettels
 
-- [[Z-001-1256_BHB_Production_Fatty_Acids]] — Quantification from palmitic acid
-- [[Z-001-1257_Ketolysis_SCOT_Mechanism]] — How BHB is utilized
-- [[Z-001-1270_Palmitic_Acid_Synthesis_Cost]] — ATP cost of fatty acid synthesis
+- [[Z-001-1256_BHB_Production_Fatty_Acids] — Quantification from palmitic acid
+- [[Z-001-1257_Ketolysis_SCOT_Mechanism] — How BHB is utilized
+- [[Z-001-1270_Palmitic_Acid_Synthesis_Cost] — ATP cost of fatty acid synthesis
 
 ---
 
 ## Source
 
-Extracted from: [[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]  
+Extracted from: [[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]  
 CGPT-0647 (April 30, 2023) — Messages 23-26, 31-32
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

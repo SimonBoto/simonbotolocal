@@ -165,8 +165,8 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[CBC_[B-001-0001].md|CBC Comprehensive Guide]]
-- [[Z-001-1006|Platelets — Thrombocytes]]
+- [[CBC_[B-001-0001].md|CBC Comprehensive Guide]
+- [[Z-001-1006|Platelets — Thrombocytes]
 
 source-litnote: Synthesized from clinical practice
 ---

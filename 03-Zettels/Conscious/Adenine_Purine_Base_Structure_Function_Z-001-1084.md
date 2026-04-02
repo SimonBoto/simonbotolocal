@@ -7,8 +7,8 @@ domain: 001
 domain-name: Nucleotide Metabolism
 tags: [zettel, adenine, purine, base-pairing, nucleobase]
 parent-moc: 
-source-litnote: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
-source: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
+source-litnote: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]
+source: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]
 confidence: high
 created: 2026-03-08
 ---
@@ -75,8 +75,8 @@ Adenine is one of four nucleobases in DNA and RNA, essential for genetic informa
 - Core component of cellular energy systems
 
 ## Related
-- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]]
-- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]]
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]
 - 
 
 ---
@@ -84,4 +84,4 @@ Adenine is one of four nucleobases in DNA and RNA, essential for genetic informa
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -7,7 +7,7 @@ domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, metabotypes, metabolome, individual-variation, precision-medicine, phenotype, conscious]
 parent-moc: 
-source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
+source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
@@ -87,23 +87,23 @@ This vast chemical diversity underscores why "one size fits all" approaches fail
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Environment shapes metabotype
-- **Parallel/Related:** _Logic_B12_Model_Z-001-0911]] — Metabotype reflects cofactor status
-- **Downstream/Consequence:** [[Biomarkers_Precision_Medicine_Z-001-0909]] — Metabotype-based biomarker selection
+- **Upstream/Prerequisite:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903] — Environment shapes metabotype
+- **Parallel/Related:** _Logic_B12_Model_Z-001-0911] — Metabotype reflects cofactor status
+- **Downstream/Consequence:** [[Biomarkers_Precision_Medicine_Z-001-0909] — Metabotype-based biomarker selection
 
 ## Context
 
 **Also relevant to:**  — Stratification strategy
 
-**Source:** [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
+**Source:** [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]
 
 ---
 
 *UID: Z-001-0910 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

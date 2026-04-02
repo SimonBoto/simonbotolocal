@@ -19,7 +19,7 @@ Common confusion:
 - “One marker proves leaky gut.” Prefer multi-signal context (symptoms + labs + triggers + response).
 
 Related:
-[[111_Hub_Gut_Function]]
-[[[ron__gut_mucosal_barrier]_20260215_019]]
-[[Zettel_Increased_Intestinal_Permeability_As_Autoimmunity_Trigger]]
-[[Library_Intestinal_Mucosal_Barrier_Function_In_Health_And_Disease_NatRevImmunol_Placeholder]]
+[[111_Hub_Gut_Function]
+[[[ron__gut_mucosal_barrier]_20260215_019]
+[[Zettel_Increased_Intestinal_Permeability_As_Autoimmunity_Trigger]
+[[Library_Intestinal_Mucosal_Barrier_Function_In_Health_And_Disease_NatRevImmunol_Placeholder]

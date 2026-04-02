@@ -7,8 +7,8 @@ domain: 001
 domain-name: Evolutionary Biochemistry
 tags: [zettel, evolution, glycolysis, ancient, origins]
 parent-moc: 
-source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
-source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]]
+source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]
+source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]
 confidence: high
 created: 2026-03-08
 ---
@@ -115,7 +115,7 @@ Glycolysis is one of the most ancient metabolic pathways, conserved across all d
 - All build upon glycolytic foundation
 
 ## Related
-- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]]
+- [[Trioses_Simplest_Sugars_Glyceraldehyde_Dihydroxyacetone_Z-001-1088]
 - 
 - 
 
@@ -124,7 +124,7 @@ Glycolysis is one of the most ancient metabolic pathways, conserved across all d
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

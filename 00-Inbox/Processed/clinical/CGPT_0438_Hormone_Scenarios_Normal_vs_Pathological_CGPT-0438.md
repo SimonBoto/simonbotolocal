@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Hormone Scenarios: Normal vs. Pathological"
 date: 2024-04-02
 source: ChatGPT conversation history
-aliases: [CGPT-0438]
+aliases: CGPT-0438]
 tags: [chatgpt-archive, clinical, nutrition]
 status: archived
 ---

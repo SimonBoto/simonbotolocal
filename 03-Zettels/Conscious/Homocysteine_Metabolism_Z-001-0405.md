@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, homocysteine, methionine, cysteine, b6]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]
+source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
 extraction-date: 2026-03-01
 ---
 
@@ -113,11 +113,11 @@ Cystathionine → Cysteine + α-ketobutyrate
 
 ---
 
-*Source: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]*
+*Source: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]*
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

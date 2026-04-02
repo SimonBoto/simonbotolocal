@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Ways Citrate Enters Krebs"
 date: 2023-09-01
 source: ChatGPT conversation history
-aliases: [CGPT-0584]
+aliases: CGPT-0584]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

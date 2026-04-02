@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Frasi utili a Roma"
 date: 2025-01-31
 source: ChatGPT conversation history
-aliases: [CGPT-0158]
+aliases: CGPT-0158]
 tags: [chatgpt-archive, greek_language, communication]
 status: archived
 ---

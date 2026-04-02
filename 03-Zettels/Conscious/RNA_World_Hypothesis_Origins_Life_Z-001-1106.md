@@ -7,8 +7,8 @@ domain: 001
 domain-name: Evolutionary Biochemistry
 tags: [zettel, rna-world, origins, life, evolution]
 parent-moc: 
-source-litnote: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
-source: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
+source-litnote: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]
+source: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]
 confidence: high
 created: 2026-03-08
 ---
@@ -97,8 +97,8 @@ The RNA world hypothesis proposes that early life was based on RNA as both genet
 - **Drug design:** Targeting ribozymes and RNA structures
 
 ## Related
-- [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]]
-| [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]]
+- [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]
+| [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]
 | 
 
 ---
@@ -106,6 +106,6 @@ The RNA world hypothesis proposes that early life was based on RNA as both genet
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

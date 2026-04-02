@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Final Test Prep: Gastro Q&A"
 date: 2024-05-05
 source: ChatGPT conversation history
-aliases: [CGPT-0404]
+aliases: CGPT-0404]
 tags: [chatgpt-archive, clinical, consciousness_ai, greek_language]
 status: archived
 ---

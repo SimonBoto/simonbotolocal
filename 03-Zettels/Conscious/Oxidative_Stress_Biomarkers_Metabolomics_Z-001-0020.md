@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, oxidative-stress, biomarkers, metabolomics, metabolic-syndrome, inflammation, conscious]
 parent-moc: 
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
+source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -94,16 +94,16 @@ Adipic acid elevation may indicate:
 ## Connections
 
 ### Upstream
-- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]] — Individual OS variation
-- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]] — Mitochondrial-OS link
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910] — Individual OS variation
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912] — Mitochondrial-OS link
 
 ### Downstream
-- [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]] — OS-IR mechanism
-- -Mechanisms]] — VitD antioxidant effects
+- [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md] — OS-IR mechanism
+- -Mechanisms] — VitD antioxidant effects
 
 ### Cross-Domain
-- [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013.md]] — Lipid-induced OS
-- [[Mitochondrial_Dysfunction_IR_Z-001-0015]] — Mitochondrial ROS source
+- [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013.md] — Lipid-induced OS
+- [[Mitochondrial_Dysfunction_IR_Z-001-0015] — Mitochondrial ROS source
 
 ## Research Gaps
 
@@ -131,14 +131,14 @@ Adipic acid elevation may indicate:
 | Multiple elevations | Systemic OS | Comprehensive antioxidant protocol |
 
 ## See Also
-- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 2.4)
+- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003] — Source (Section 2.4)
 -  — Course navigation
-- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]] — Parallel cofactor model
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911] — Parallel cofactor model
 
 ---
 *Confidence: High* — Well-established biomarkers, clinical utility validated  
 *Next Review: After identifying primary reference studies*
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

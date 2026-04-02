@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, hypercalcemia, calcium, toxicity, safety]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]]
+source-litnote: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]
 extraction-date: 2026-03-01
 ---
 
@@ -114,9 +114,9 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]]*  
+*Source: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - 

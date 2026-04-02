@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Help with conversation."
 date: 2024-05-12
 source: ChatGPT conversation history
-aliases: [CGPT-0398]
+aliases: CGPT-0398]
 tags: [chatgpt-archive, general]
 status: archived
 ---

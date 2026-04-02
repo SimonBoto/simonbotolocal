@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, oxalate, ckd, kidney-stones, calcium-oxalate, hyperoxaluria, dietary-management, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_CKD_Nutritional_Assessment_L-001-0575]]
+source-litnote: [[LitNote_CKD_Nutritional_Assessment_L-001-0575]
 status: conscious
 ---
 
@@ -339,12 +339,12 @@ Calcium oxalate is the most common kidney stone type. CKD patients have increase
 
 ---
 
-**Related:** [[Calcium_Oxalate_Stone_Pathophysiology_Z-001-0030]] | [[Nephrolithiasis_CKD_Progression_Z-001-0031]]
+**Related:** [[Calcium_Oxalate_Stone_Pathophysiology_Z-001-0030] | [[Nephrolithiasis_CKD_Progression_Z-001-0031]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 - 

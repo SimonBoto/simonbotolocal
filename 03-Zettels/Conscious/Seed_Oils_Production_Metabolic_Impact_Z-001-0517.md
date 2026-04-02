@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, seed-oils, linoleic-acid, industrial-oils, metabolic-impact]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]]
+source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]
 extraction-date: 2026-03-01
 ---
 
@@ -52,12 +52,12 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]]*
+*Source: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]|Z-001-0564]]
+- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]|Z-001-0564]

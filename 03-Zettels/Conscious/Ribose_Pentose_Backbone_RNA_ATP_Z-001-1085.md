@@ -7,8 +7,8 @@ domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, ribose, pentose, rna, ppp]
 parent-moc: 
-source-litnote: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
-source: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]]
+source-litnote: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]
+source: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]
 confidence: high
 created: 2026-03-08
 ---
@@ -96,8 +96,8 @@ Glucose-6-phosphate (from glycolysis)
 - **:** High PPP activity in tumor cells (need for ribose and NADPH)
 
 ## Related
-- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]]
-- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]]
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]
+- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]
 - 
 
 ---
@@ -105,4 +105,4 @@ Glucose-6-phosphate (from glycolysis)
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

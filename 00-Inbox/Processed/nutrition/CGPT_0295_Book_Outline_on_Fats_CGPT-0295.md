@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Book Outline on Fats"
 date: 2024-08-05
 source: ChatGPT conversation history
-aliases: [CGPT-0295]
+aliases: CGPT-0295]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

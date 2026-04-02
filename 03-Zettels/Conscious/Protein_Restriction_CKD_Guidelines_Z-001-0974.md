@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, protein-restriction, ckd, guidelines, nkf, kdigo, recommendations, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Protein_CKD_Progression_Evidence_L-001-0573]]
+source-litnote: [[LitNote_Protein_CKD_Progression_Evidence_L-001-0573]
 status: conscious
 ---
 
@@ -177,10 +177,10 @@ status: conscious
 
 ---
 
-**Related:** [[MDRD_Study_Protein_Restriction_CKD_Z-001-0973]] | [[Protein_Intake_Assessment_Methods_CKD_Z-001-0980]]
+**Related:** [[MDRD_Study_Protein_Restriction_CKD_Z-001-0973] | [[Protein_Intake_Assessment_Methods_CKD_Z-001-0980]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

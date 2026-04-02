@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Human Tissue Overview"
 date: 2024-05-25
 source: ChatGPT conversation history
-aliases: [CGPT-0372]
+aliases: CGPT-0372]
 tags: [chatgpt-archive, metabolomics]
 status: archived
 ---

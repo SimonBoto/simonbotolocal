@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "BMJ Article Preparation Course"
 date: 2023-11-12
 source: ChatGPT conversation history
-aliases: [CGPT-0532]
+aliases: CGPT-0532]
 tags: [chatgpt-archive, metabolomics]
 status: archived
 ---

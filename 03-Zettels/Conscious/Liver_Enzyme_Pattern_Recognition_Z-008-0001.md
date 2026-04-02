@@ -37,7 +37,7 @@ Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellula
 - Drug/toxin-induced injury
 - Ischemic hepatitis
 
-**Link to IR:** [[MAPK_Mitogenic_Pathway_Z-001-0016]] — Mitochondrial dysfunction in NAFLD
+**Link to IR:** [[MAPK_Mitogenic_Pathway_Z-001-0016] — Mitochondrial dysfunction in NAFLD
 
 ---
 
@@ -72,12 +72,12 @@ Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellula
 ## 🔗 Connected Systems
 
 **Insulin Resistance:**
-- [[MAPK_Mitogenic_Pathway_Z-001-0016]] — Mitochondrial dysfunction (NAFLD mechanism)
-- _Z-001-0018.md]] — Lipotoxicity (hepatic steatosis)
+- [[MAPK_Mitogenic_Pathway_Z-001-0016] — Mitochondrial dysfunction (NAFLD mechanism)
+- _Z-001-0018.md] — Lipotoxicity (hepatic steatosis)
 - NAFLD is the hepatic manifestation of metabolic syndrome
 
 **Lipid :**
-- [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md]] — Lipid Pattern A/B (NAFLD drives Pattern B)
+- [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md] — Lipid Pattern A/B (NAFLD drives Pattern B)
 - Elevated liver enzymes correlate with small dense LDL
 
 ---
@@ -127,8 +127,8 @@ patient_id,visit,ast_u_l,alt_u_l,ggt_u_l,alp_u_l,ast_alt_ratio,liver_pattern
 *Created: 2026-02-26 | Domain: 008 | Status: Conscious*
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

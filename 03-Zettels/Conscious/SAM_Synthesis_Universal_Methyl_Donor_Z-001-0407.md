@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, sam, methionine, methyl-donor, methylation]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]]
+source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]
 extraction-date: 2026-03-01
 ---
 
@@ -76,10 +76,10 @@ Methionine + ATP → SAM + PPi + Pi
 
 ---
 
-*Source: [[LitNote_Methylation_Cycle_L-001-0402]]*
+*Source: [[LitNote_Methylation_Cycle_L-001-0402]*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Vitamin D multilevel effect and ancestral levels"
 date: 2024-06-29
 source: ChatGPT conversation history
-aliases: [CGPT-0339]
+aliases: CGPT-0339]
 tags: [chatgpt-archive, vitamin_d]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Chatbot for Lifestyle Changes"
 date: 2025-02-23
 source: ChatGPT conversation history
-aliases: [CGPT-0138]
+aliases: CGPT-0138]
 tags: [chatgpt-archive, vitamin_d, clinical, nutrition]
 status: archived
 ---

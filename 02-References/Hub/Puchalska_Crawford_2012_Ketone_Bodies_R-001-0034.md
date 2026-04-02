@@ -62,7 +62,7 @@ tags: [reference, ketones, fatty-acid-oxidation, metabolism]
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Batch_Effects_Detection_Correction_Metabolomics_Z-001-0939]] — Ketone body metabolism
+- [[Batch_Effects_Detection_Correction_Metabolomics_Z-001-0939] — Ketone body metabolism
 
 ---
 

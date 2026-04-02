@@ -7,8 +7,8 @@ domain: 001
 domain-name: Cancer Biology
 tags: [zettel, p53, tumor-suppressor, function-loss, consequences]
 parent-moc: 
-source-litnote: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]]
-source: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]]
+source-litnote: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]
+source: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]
 confidence: high
 created: 2026-03-08
 ---
@@ -110,8 +110,8 @@ The p53 protein, encoded by the TP53 gene, is the "guardian of the genome." Loss
 | **Mutant p53 reactivation** | Restore wild-type conformation |
 
 ## Related
-- [[TP53_Abnormalities_Multiple_Myeloma_del17p_Z-001-1135]]
-- [[Targeting_p53_Dysfunction_MDM2_Inhibitors_Z-001-1137]]
+- [[TP53_Abnormalities_Multiple_Myeloma_del17p_Z-001-1135]
+- [[Targeting_p53_Dysfunction_MDM2_Inhibitors_Z-001-1137]
 - 
 
 ---
@@ -119,4 +119,4 @@ The p53 protein, encoded by the TP53 gene, is the "guardian of the genome." Loss
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

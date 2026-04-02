@@ -16,7 +16,7 @@ updated: 2026-02-15
 # Dictionary Metabolomic Medicine
 
 ## Core Idea
-The field of [[Personalized_Medicine_20260215_020]] that focuses on the use of [[Df Metabolomics]] to measure human endogenous [[Metabolites]] to diagnose metabolic imbalances and nutrient deficiencies. Assessing the balance and ratio between metabolites shows enzymatic activity and co-factors efficiency.
+The field of [[Personalized_Medicine_20260215_020] that focuses on the use of [[Df Metabolomics] to measure human endogenous [[Metabolites] to diagnose metabolic imbalances and nutrient deficiencies. Assessing the balance and ratio between metabolites shows enzymatic activity and co-factors efficiency.
 
 #Metabolomics
 
@@ -30,4 +30,4 @@ The field of [[Personalized_Medicine_20260215_020]] that focuses on the use of [
 
 ^202602150040-dictionary-metabolomic-medicine
 
-**Linked from raw**: [[../Raw/Dictionary_Metabolomic_Medicine.md]]
+**Linked from raw**: [[../Raw/Dictionary_Metabolomic_Medicine.md]

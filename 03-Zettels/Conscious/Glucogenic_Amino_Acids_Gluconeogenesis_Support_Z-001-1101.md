@@ -7,8 +7,8 @@ domain: 001
 domain-name: Amino Acid Metabolism
 tags: [zettel, glucogenic, gluconeogenesis, fasting]
 parent-moc: 
-source-litnote: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
-source: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
+source-litnote: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]
+source: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]
 confidence: high
 created: 2026-03-08
 ---
@@ -112,7 +112,7 @@ Muscle: Glycolysis → Pyruvate → Alanine
 | **Epinephrine** | Stimulates (acute stress) |
 
 ## Related
-- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]]
+- [[Glycogenic_Ketogenic_Amino_Acid_Classification_Z-001-1097]
 | 
 | 
 
@@ -121,9 +121,9 @@ Muscle: Glycolysis → Pyruvate → Alanine
 
 
 ## Related
-- [[Alpha_Ketoglutarate_Glutamate_Hub_Z-001-0609]|Z-001-0609]]
+- [[Alpha_Ketoglutarate_Glutamate_Hub_Z-001-0609]|Z-001-0609]
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -7,7 +7,7 @@ domain: 101
 tags: [zettel, carnitine, CPT, omega-oxidation, adipate, mitochondrial-transport]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]]"
+source: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]"
 extraction-date: 2026-03-02
 ---
 
@@ -65,7 +65,7 @@ extraction-date: 2026-03-02
 
 ---
 
-*See also: [[Adipate_Formation_Palmitate_Pathway_Z-101-0008]]*
+*See also: [[Adipate_Formation_Palmitate_Pathway_Z-101-0008]*
 
 
 ## RELATED FILES

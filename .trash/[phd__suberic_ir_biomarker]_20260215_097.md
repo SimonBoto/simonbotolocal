@@ -7,7 +7,7 @@ uid: "20260215_097"
 ---
 uid: 20260212074602
 tags: [insulin-resistance, phd-biomarker]
-parent-moc: [[88-Mocs/PhD_IR_MOC]]
+parent-moc: [[88-Mocs/PhD_IR_MOC]
 aliases: [Suberic OA IR]
 references: [Tier1 study]
 ---
@@ -18,6 +18,6 @@ Suberic ↑ in plasma indicates insulin resistance.
 
 **Evidence:** Tier1 study (priority 16/20: IR biomarker).
 
-**Source:** [[00-Inbox/02-Triage/Raw_02_processed]]
+**Source:** [[00-Inbox/02-Triage/Raw_02_processed]
 
-Links: [[Adipic_IR_Early_Pattern]] | [[88-Mocs/Biomarkers_MOC]]
+Links: [[Adipic_IR_Early_Pattern] | [[88-Mocs/Biomarkers_MOC]

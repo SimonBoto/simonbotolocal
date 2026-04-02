@@ -7,7 +7,7 @@ domain: 001
 domain-name: Lipid Metabolism
 tags: [zettel, isoprenoids, terpenes, terpenoids, ipps, monoterpenes, triterpenes]
 parent-moc: 
-source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]]"
+source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]"
 confidence: high
 created: 2026-03-03
 ---
@@ -120,10 +120,10 @@ All terpenes/isoprenoids are **lipophilic (fat-soluble)** due to:
 
 ## Related Zettels
 
-- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]] — Steroid hormones from cholesterol
-- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]] — Human isoprenoid products
-- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]] — IPP synthesis
-- [[LitNote_Seed_Oils_Omega6_Omega3_Ratio_L-001-0503]] — Plant oil context
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570] — Steroid hormones from cholesterol
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571] — Human isoprenoid products
+- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566] — IPP synthesis
+- [[LitNote_Seed_Oils_Omega6_Omega3_Ratio_L-001-0503] — Plant oil context
 
 ---
 
@@ -136,6 +136,6 @@ All terpenes/isoprenoids are **lipophilic (fat-soluble)** due to:
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

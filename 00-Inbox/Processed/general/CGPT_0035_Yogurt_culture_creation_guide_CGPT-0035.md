@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Yogurt culture creation guide"
 date: 2025-11-08
 source: ChatGPT conversation history
-aliases: [CGPT-0035]
+aliases: CGPT-0035]
 tags: [chatgpt-archive, general]
 status: archived
 ---
@@ -1583,7 +1583,7 @@ When you are treating this as a therapeutic/precision product rather than just �
 ## 🛒 Recommended machines  
 Here are some good options (with pros & cons) that you might consider for your clinic/lab-style fermentation.
 
-products{"selections":[["turn0product1","Probiotic Yogurt Maker with Adjustable Temp & Timer"],["turn0product4","Versatile Dough/Proofer with Temp Control (for fermentation)"],["turn1product0","Moulinex 7 YG231E Yogurt Maker"],["turn1product7","Adler Yoghurt Maker AD4476"],["turn1product15","36-Hour Digital Yogurt Maker 1.2L EU"],["turn1product9","Automatic Yogurt Maker with 8 Glass Jars & Adjustable Time/Temp"],["turn1product17","Greek Yogurt Maker – Home Strainer + Fermenter Set"],["turn1product18","Yogurt Maker 1000ml Automatic Stainless Machine"]],"tags":["high precision adjustable temp/time","dual use proofer/fermenter versatile","mid-brand yogurt maker","budget yogurt maker","long duration digital fermenter","high capacity multi-jar yogurt maker","specialist Greek yogurt set","compact stainless yogurt maker"]}
+products{"selections":[["turn0product1","Probiotic Yogurt Maker with Adjustable Temp & Timer"],["turn0product4","Versatile Dough/Proofer with Temp Control (for fermentation)"],["turn1product0","Moulinex 7 YG231E Yogurt Maker"],["turn1product7","Adler Yoghurt Maker AD4476"],["turn1product15","36-Hour Digital Yogurt Maker 1.2L EU"],["turn1product9","Automatic Yogurt Maker with 8 Glass Jars & Adjustable Time/Temp"],["turn1product17","Greek Yogurt Maker – Home Strainer + Fermenter Set"],["turn1product18","Yogurt Maker 1000ml Automatic Stainless Machine"],"tags":["high precision adjustable temp/time","dual use proofer/fermenter versatile","mid-brand yogurt maker","budget yogurt maker","long duration digital fermenter","high capacity multi-jar yogurt maker","specialist Greek yogurt set","compact stainless yogurt maker"]}
 
 ### Quick breakdown:
 

@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, genetics, CYP24A1, IIH, hypercalcemia]
 parent-moc: 
-source: [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
+source: [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -30,9 +30,9 @@ Idiopathic Infantile Hypercalcemia (IIH) is a rare genetic condition caused by m
 
 ## Links
 
-**Parent MOC:** -Metabolism]]
-**Source:** [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
-**Related:** [[Vitamin_D_Fortification_Incidents_1950s_Z-001-0054]], [[Vitamin_D_Regulatory_Overreaction_Z-001-0056]]
+**Parent MOC:** -Metabolism]
+**Source:** [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]
+**Related:** [[Vitamin_D_Fortification_Incidents_1950s_Z-001-0054], [[Vitamin_D_Regulatory_Overreaction_Z-001-0056]
 
 ---
 
@@ -40,4 +40,4 @@ Idiopathic Infantile Hypercalcemia (IIH) is a rare genetic condition caused by m
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

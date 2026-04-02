@@ -6,7 +6,7 @@ aliases: [Z-101-0471]
 domain: 101
 tags: [zettel, dehydroascorbic-acid, dha, vitamin-c, metabolism, ascorbate, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]]
+source-litnote: [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]
 status: conscious
 ---
 
@@ -43,7 +43,7 @@ Ascorbic acid ⇌ DHA
 - **Carbon loss:** 4 carbons released as CO₂
 - **Clinical relevance:** Kidney stone risk
 
-See: [[Vitamin_C_to_Oxalate_Chemistry_Z-101-0469]]
+See: [[Vitamin_C_to_Oxalate_Chemistry_Z-101-0469]
 
 ### 3. Formation of 2,3-Diketogulonic Acid
 **Alternative degradation**
@@ -93,16 +93,16 @@ See: [[Vitamin_C_to_Oxalate_Chemistry_Z-101-0469]]
 - **Analytical consideration:** Measure both forms for complete assessment
 
 ## Related
-- **Source:** [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]]
-- **Vitamin C→oxalate:** [[Vitamin_C_to_Oxalate_Chemistry_Z-101-0469]]
-- **Measurement issues:** [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]]
+- **Source:** [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]
+- **Vitamin C→oxalate:** [[Vitamin_C_to_Oxalate_Chemistry_Z-101-0469]
+- **Measurement issues:** [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

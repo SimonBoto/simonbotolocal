@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Finalizing Narrative Review"
 date: 2024-11-23
 source: ChatGPT conversation history
-aliases: [CGPT-0243]
+aliases: CGPT-0243]
 tags: [chatgpt-archive, vitamin_d, clinical, phd_research]
 status: archived
 ---

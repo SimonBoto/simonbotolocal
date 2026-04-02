@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Normal Microbiome Candida Albicans"
 date: 2023-01-29
 source: ChatGPT conversation history
-aliases: [CGPT-0669]
+aliases: CGPT-0669]
 tags: [chatgpt-archive, general]
 status: archived
 ---

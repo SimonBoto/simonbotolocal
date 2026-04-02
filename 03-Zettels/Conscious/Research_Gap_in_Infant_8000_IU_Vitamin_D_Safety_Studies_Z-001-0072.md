@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, research-gap, infants, pediatrics]
 parent-moc: 
-source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
+source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -32,8 +32,8 @@ Despite the corrected RDA calculation showing 7,000-8,000 IU/day is needed for 9
 ## Links
 
 **Parent MOC:** -
-**Source:** [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
-**Related:** [[Gallo_2013_Infant_Vitamin_D_Dose_Response_Z-001-0067]], [[Vitamin_D_RDA_10x_Underestimation_Z-001-0059]]
+**Source:** [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]
+**Related:** [[Gallo_2013_Infant_Vitamin_D_Dose_Response_Z-001-0067], [[Vitamin_D_RDA_10x_Underestimation_Z-001-0059]
 
 ---
 
@@ -41,6 +41,6 @@ Despite the corrected RDA calculation showing 7,000-8,000 IU/day is needed for 9
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]]
+- [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]

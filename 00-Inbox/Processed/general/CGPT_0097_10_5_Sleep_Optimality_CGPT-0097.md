@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "10-5 Sleep Optimality"
 date: 2025-05-07
 source: ChatGPT conversation history
-aliases: [CGPT-0097]
+aliases: CGPT-0097]
 tags: [chatgpt-archive, general]
 status: archived
 ---

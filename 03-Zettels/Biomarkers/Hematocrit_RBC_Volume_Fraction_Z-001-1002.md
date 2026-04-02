@@ -180,8 +180,8 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[CBC_[B-001-0001].md|CBC Comprehensive Guide]]
-- [[Z-001-1001|Hemoglobin — Oxygen Transport Protein]]
+- [[CBC_[B-001-0001].md|CBC Comprehensive Guide]
+- [[Z-001-1001|Hemoglobin — Oxygen Transport Protein]
 
 source-litnote: Synthesized from clinical practice
 ---

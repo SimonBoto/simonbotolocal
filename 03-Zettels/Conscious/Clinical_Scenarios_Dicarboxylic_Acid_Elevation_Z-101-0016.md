@@ -7,7 +7,7 @@ domain: 101
 tags: [zettel, clinical-scenarios, dicarboxylic-acid, indications, screening, metabolic-workup]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]]"
+source: "[[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]"
 extraction-date: 2026-03-02
 ---
 
@@ -127,10 +127,10 @@ Suspect FAOD/dicarboxylic aciduria?
 
 ---
 
-*See also: [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_Z-101-0015]]*
+*See also: [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_Z-101-0015]*
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

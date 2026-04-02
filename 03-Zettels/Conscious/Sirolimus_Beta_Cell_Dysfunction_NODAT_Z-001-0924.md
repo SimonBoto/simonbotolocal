@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, sirolimus, rapamycin, beta-cell, insulin-secretion, nodat, mitochondrial-toxicity]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]]"
+source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
 ---
@@ -139,9 +139,9 @@ Glucose enters → Glycolysis → Pyruvate → Mitochondria
 
 ---
 
-*See also: [[Sirolimus_GLUT4_Insulin_Resistance_Z-001-0923]]*
+*See also: [[Sirolimus_GLUT4_Insulin_Resistance_Z-001-0923]*
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

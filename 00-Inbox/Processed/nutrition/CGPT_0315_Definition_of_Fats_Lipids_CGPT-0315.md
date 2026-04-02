@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Definition of Fats Lipids"
 date: 2024-08-03
 source: ChatGPT conversation history
-aliases: [CGPT-0315]
+aliases: CGPT-0315]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

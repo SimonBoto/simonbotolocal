@@ -7,8 +7,8 @@ domain: 001
 domain-name: Hematology Oncology
 tags: [zettel, multiple-myeloma, crab, diagnosis]
 parent-moc: 
-source-litnote: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]]
-source: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]]
+source-litnote: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]
+source: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]
 confidence: high
 created: 2026-03-08
 ---
@@ -107,16 +107,16 @@ Multiple myeloma is characterized by the CRAB features—hyperCalcemia, Renal im
 | **Edema** | Nephrotic syndrome, heart failure |
 
 ## Related
-- [[Multiple_Myeloma_Diagnostic_Criteria_Workup_Z-001-1132]]
-- [[Multiple_Myeloma_Staging_ISS_R-ISS_Z-001-1133]]
+- [[Multiple_Myeloma_Diagnostic_Criteria_Workup_Z-001-1132]
+- [[Multiple_Myeloma_Staging_ISS_R-ISS_Z-001-1133]
 - 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- /CRP_[B-002-0001]|Biomarker Family Guide]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- /CRP_[B-002-0001]|Biomarker Family Guide]
 - 
 

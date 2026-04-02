@@ -7,7 +7,7 @@ domain: 101
 tags: [zettel, decarboxylase, cofactor, vitamin-b1, vitamin-b6, biotin, tpp, plp]
 parent-moc: 
 status: conscious
-source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]]"
+source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]"
 extraction-date: 2026-03-02
 ---
 
@@ -112,10 +112,10 @@ extraction-date: 2026-03-02
 
 ---
 
-*See also: [[Vitamin_B5_CoA_Synthesis_Pathway_Z-101-0017]]*
+*See also: [[Vitamin_B5_CoA_Synthesis_Pathway_Z-101-0017]*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mind Programming Paradigms"
 date: 2025-05-29
 source: ChatGPT conversation history
-aliases: [CGPT-0083]
+aliases: CGPT-0083]
 tags: [chatgpt-archive, consciousness_ai, technology, communication]
 status: archived
 ---

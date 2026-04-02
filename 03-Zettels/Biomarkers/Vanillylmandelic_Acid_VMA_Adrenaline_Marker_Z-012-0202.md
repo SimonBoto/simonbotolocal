@@ -179,9 +179,9 @@ Tyrosine → Dopamine → Noradrenaline → Adrenaline → VMA
 ---
 
 ## RELATED FILES
-- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
-- [[Z-012-0201|HVA — Homovanillic Acid]]
-- [[Z-011-0005|Cortisol — Primary Stress Hormone]]
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
+- [[Z-012-0201|HVA — Homovanillic Acid]
+- [[Z-011-0005|Cortisol — Primary Stress Hormone]
 
 ---
 *Complete biomarker foundation — VMA*

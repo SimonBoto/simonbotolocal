@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Diet Plans and Training"
 date: 2024-10-13
 source: ChatGPT conversation history
-aliases: [CGPT-0268]
+aliases: CGPT-0268]
 tags: [chatgpt-archive, metabolomics, vitamin_d, clinical, phd_research, nutrition, communication, personal_development]
 status: archived
 ---

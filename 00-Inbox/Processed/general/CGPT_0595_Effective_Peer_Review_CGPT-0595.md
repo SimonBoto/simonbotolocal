@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Effective Peer Review"
 date: 2023-08-23
 source: ChatGPT conversation history
-aliases: [CGPT-0595]
+aliases: CGPT-0595]
 tags: [chatgpt-archive, general]
 status: archived
 ---

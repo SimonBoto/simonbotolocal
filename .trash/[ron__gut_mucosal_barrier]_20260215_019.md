@@ -19,8 +19,8 @@ Common confusion:
 - “Leaky gut is a diagnosis.” Better treated as a mechanism with measurable proxies and context.
 
 Related:
-[[111_Hub_Gut_Function]]
-[[[ron__tight_junctions]_20260215_047]]
-[[Zettel_Increased_Intestinal_Permeability_As_Autoimmunity_Trigger]]
-[[[ron__gut_brain_axis]_20260215_018]]
-[[Library_Intestinal_Mucosal_Barrier_Function_In_Health_And_Disease_NatRevImmunol_Placeholder]]
+[[111_Hub_Gut_Function]
+[[[ron__tight_junctions]_20260215_047]
+[[Zettel_Increased_Intestinal_Permeability_As_Autoimmunity_Trigger]
+[[[ron__gut_brain_axis]_20260215_018]
+[[Library_Intestinal_Mucosal_Barrier_Function_In_Health_And_Disease_NatRevImmunol_Placeholder]

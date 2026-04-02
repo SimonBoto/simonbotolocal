@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Folic Acid in Common Foods"
 date: 2024-03-20
 source: ChatGPT conversation history
-aliases: [CGPT-0454]
+aliases: CGPT-0454]
 tags: [chatgpt-archive, general]
 status: archived
 ---

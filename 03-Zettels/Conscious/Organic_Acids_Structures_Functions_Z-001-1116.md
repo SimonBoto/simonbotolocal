@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, organic-acids, structures, functions, oat]
 parent-moc: 
-source-litnote: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
-source: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]
+source-litnote: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]
+source: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]
 confidence: high
 created: 2026-03-08
 ---
@@ -99,15 +99,15 @@ Reference table of key organic acids in —their structures, sources, and clinic
 | **Branching** | Often indicates amino acid origin |
 
 ## Related
-- [[Cofactor_Deficiency_Metabolite_Patterns_Z-001-1105]]
-| [[OAT_Category_Interpretation_Framework_Z-001-1065]]
-| -Analysis]]
+- [[Cofactor_Deficiency_Metabolite_Patterns_Z-001-1105]
+| [[OAT_Category_Interpretation_Framework_Z-001-1065]
+| -Analysis]
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

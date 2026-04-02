@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, coq10, ubiquinol, mitochondria, atp, antioxidants]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Mitochondrial_Structure_Biology_L-001-0633]]"
+source-litnote: "[[LitNote_Mitochondrial_Structure_Biology_L-001-0633]"
 status: conscious
 ---
 
@@ -163,14 +163,14 @@ NADH → Complex I → CoQ10 → Complex III → Cytochrome c → Complex IV →
 
 ## Related
 
-- [[ETC_Complexes_Location_Z-001-1218]]
-- [[Mitochondrial_Membrane_Architecture_Z-001-1214]]
-- [[Antioxidant_Defense_Mitochondria_Z-001-00XX]]
+- [[ETC_Complexes_Location_Z-001-1218]
+- [[Mitochondrial_Membrane_Architecture_Z-001-1214]
+- [[Antioxidant_Defense_Mitochondria_Z-001-00XX]
 
 ---
 
-*Source: [[LitNote_Mitochondrial_Structure_Biology_L-001-0633]] | 2026-03-09*
+*Source: [[LitNote_Mitochondrial_Structure_Biology_L-001-0633] | 2026-03-09*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]

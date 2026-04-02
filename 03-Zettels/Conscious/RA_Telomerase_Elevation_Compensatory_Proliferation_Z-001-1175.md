@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, ra, rheumatoid-arthritis, telomerase, proliferation, synovitis]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]]"
+source-litnote: "[[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]"
 status: conscious
 ---
 
@@ -100,13 +100,13 @@ status: conscious
 
 ## Related
 
-- [[SLE_Telomere_Findings_Disease_Activity_Z-001-1174]]
-- _Risk_Z-001-1176]]
+- [[SLE_Telomere_Findings_Disease_Activity_Z-001-1174]
+- _Risk_Z-001-1176]
 
 ---
 
-*Source: [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]] | 2026-03-08*
+*Source: [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

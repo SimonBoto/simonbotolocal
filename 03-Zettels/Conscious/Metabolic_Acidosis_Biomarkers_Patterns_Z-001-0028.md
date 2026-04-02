@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, metabolic-acidosis, organic-acids, urine-oa, diagnostic-patterns, conscious]
 parent-moc: 
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]]
+source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -90,12 +90,12 @@ Pattern + clinical context → Diagnosis
 ## Connections
 
 ### Upstream
-- [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024.md]] — UOA diagnostic precedent
-- [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026.md]] — Lactate mechanism
-- [[Protein_Metabolism_Disorders_Oxalate_Pathway_Z-001-0025.md]] — Organic acid accumulation
+- [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024.md] — UOA diagnostic precedent
+- [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026.md] — Lactate mechanism
+- [[Protein_Metabolism_Disorders_Oxalate_Pathway_Z-001-0025.md] — Organic acid accumulation
 
 ### Downstream
-- _Z-001-0020.md]] — 2-HBA, pyroglutamate
+- _Z-001-0020.md] — 2-HBA, pyroglutamate
 -  — UOA panel as outcome measure
 
 ### Cross-Domain
@@ -128,7 +128,7 @@ Pattern + clinical context → Diagnosis
 - Cost-effectiveness of full panel vs. targeted markers
 
 ## See Also
-- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] — Source
+- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004] — Source
 -  — Lactic acidosis
 -  — Ketoacidosis
 
@@ -136,6 +136,6 @@ Pattern + clinical context → Diagnosis
 *Confidence: High* — Established UOA methodology  
 *Next Review: After IR-specific UOA pattern validation*
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

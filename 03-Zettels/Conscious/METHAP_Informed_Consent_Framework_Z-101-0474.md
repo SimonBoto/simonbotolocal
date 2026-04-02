@@ -6,7 +6,7 @@ aliases: [Z-101-0474]
 domain: 101
 tags: [zettel, methap, informed-consent, ethics, gdpr, clinical-trial, phd, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]]
+source-litnote: [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]
 status: conscious
 ---
 
@@ -116,16 +116,16 @@ Participants may contact:
 > *"If we discover unexpected health issues in your test results, we will contact you to discuss findings and recommend appropriate follow-up with your physician."*
 
 ## Related
-- **Source:** [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]]
-- **IRB action items:** [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
-- **Study design:** [[METHAP_Study_Design_Overview_Z-101-0472]]
+- **Source:** [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]
+- **IRB action items:** [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]
+- **Study design:** [[METHAP_Study_Design_Overview_Z-101-0472]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

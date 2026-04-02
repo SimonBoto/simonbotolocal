@@ -7,7 +7,7 @@ domain: 001
 domain-name: Nutrition
 tags: [zettel, eggs, omega-6, omega-3, fatty-acids, hen-diet, pasture-raised, omega-3-enriched]
 parent-moc: 
-source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]]"
+source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]"
 confidence: high
 created: 2026-03-03
 ---
@@ -128,10 +128,10 @@ The fatty acid composition of egg yolks is **directly determined by the hen's di
 
 ## Related Zettels
 
-- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]] — Chicken meat comparison
-- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]] — Inflammation biochemistry
-- [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]] — Complete measurements
-- [[Vitamin_K2_Omega3_Synergy_Z-001-0216]] — K2 and omega-3 interactions (if exists)
+- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562] — Chicken meat comparison
+- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564] — Inflammation biochemistry
+- [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565] — Complete measurements
+- [[Vitamin_K2_Omega3_Synergy_Z-001-0216] — K2 and omega-3 interactions (if exists)
 
 ---
 
@@ -144,6 +144,6 @@ The fatty acid composition of egg yolks is **directly determined by the hen's di
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Hospital Apology Letter"
 date: 2024-02-27
 source: ChatGPT conversation history
-aliases: [CGPT-0491]
+aliases: CGPT-0491]
 tags: [chatgpt-archive, clinical, technology]
 status: archived
 ---

@@ -6,7 +6,7 @@ aliases: [Z-101-0482]
 domain: 101
 tags: [zettel, questionnaires, ethics-approval, irb, data-collection, research-methods, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0359_Questionnaire_Compliance_L-101-0052.md]]
+source-litnote: [[LitNote_CGPT_0359_Questionnaire_Compliance_L-101-0052.md]
 status: conscious
 ---
 
@@ -147,70 +147,70 @@ Multi-instrument studies require specific ethical considerations beyond standard
 - Study completion acknowledgment
 
 ## Related
-- **Source:** [[LitNote_CGPT_0359_Questionnaire_Compliance_L-101-0052.md]]
-- **IRB communication:** [[IRB_Communication_Best_Practices_Z-101-0481]]
-- **Consent framework:** [[METHAP_Informed_Consent_Framework_Z-101-0474]]
+- **Source:** [[LitNote_CGPT_0359_Questionnaire_Compliance_L-101-0052.md]
+- **IRB communication:** [[IRB_Communication_Best_Practices_Z-101-0481]
+- **Consent framework:** [[METHAP_Informed_Consent_Framework_Z-101-0474]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 
 ## Related
-- [[MTHFR_Testing_Interpretation_Z-001-0418]|Z-001-0418]]
+- [[MTHFR_Testing_Interpretation_Z-001-0418]|Z-001-0418]
 
 
 ## Related
-- [[CIOMS_International_Research_Ethics_Z-002-0611]|Z-002-0611]]
+- [[CIOMS_International_Research_Ethics_Z-002-0611]|Z-002-0611]
 
 
 ## Related
-- [[Research_Gap_in_Infant_8000_IU_Vitamin_D_Safety_Studies_Z-001-0072]|Z-001-0072]]
+- [[Research_Gap_in_Infant_8000_IU_Vitamin_D_Safety_Studies_Z-001-0072]|Z-001-0072]
 
 
 ## Related
-- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]|Z-002-0612]]
+- [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]|Z-002-0612]
 
 
 ## Related
-- [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]|Z-001-0449]]
+- [[Integrated_B12_Assessment_Complete_Picture_Z-001-0449]|Z-001-0449]
 
 
 ## Related
-- [[High_Dose_Vitamin_D_Monitoring_Protocol_Z-001-0075]|Z-001-0075]]
+- [[High_Dose_Vitamin_D_Monitoring_Protocol_Z-001-0075]|Z-001-0075]
 
 
 ## Related
-- [[Government_Dietary_Guidelines_Shift_1970s_Z-001-0970]|Z-001-0970]]
+- [[Government_Dietary_Guidelines_Shift_1970s_Z-001-0970]|Z-001-0970]
 
 
 ## Related
-- [[IRB_Escalation_Pathways_Z-002-0615]|Z-002-0615]]
+- [[IRB_Escalation_Pathways_Z-002-0615]|Z-002-0615]
 
 
 ## Related
-- [[HbA1c_Targets_Diabetic_CKD_Z-001-0981]|Z-001-0981]]
+- [[HbA1c_Targets_Diabetic_CKD_Z-001-0981]|Z-001-0981]
 
 
 ## Related
-- [[Hypothalamic_Pituitary_Axes_Integration_Z-001-0995]|Z-001-0995]]
+- [[Hypothalamic_Pituitary_Axes_Integration_Z-001-0995]|Z-001-0995]
 
 
 ## Related
-- _Management_CKD_Z-001-0982]|Z-001-0982]]
+- _Management_CKD_Z-001-0982]|Z-001-0982]
 
 
 ## Related
-- [[DMF_Nrf2_Antioxidant_Pathway_Z-101-0006]|Z-101-0006]]
+- [[DMF_Nrf2_Antioxidant_Pathway_Z-101-0006]|Z-101-0006]
 
 
 ## Related
-- [[Omega_Oxidation_vs_Ketogenesis_Distinction_Z-101-0012]|Z-101-0012]]
+- [[Omega_Oxidation_vs_Ketogenesis_Distinction_Z-101-0012]|Z-101-0012]
 
 
 ## Related
-- _Adenosine_Z-101-0005]|Z-101-0005]]
+- _Adenosine_Z-101-0005]|Z-101-0005]
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

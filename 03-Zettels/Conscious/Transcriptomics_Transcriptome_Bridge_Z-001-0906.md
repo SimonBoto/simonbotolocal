@@ -7,7 +7,7 @@ domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, transcriptomics, mRNA, gene-expression, RNA, conscious]
 parent-moc: 
-source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
+source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
@@ -75,15 +75,15 @@ The transcriptome is the **immediate precursor** of the proteome:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Epigenomics_Gene_Regulation_Z-001-0905]] — Regulates transcription
-- **Parallel/Related:** [[Genomics_Structure_Function_Genome_Z-001-0904]] — Source of transcripts
-- **Downstream/Consequence:** [[Proteomics_Protein_Function_Z-001-0007.md]] — What RNA produces
+- **Upstream/Prerequisite:** [[Epigenomics_Gene_Regulation_Z-001-0905] — Regulates transcription
+- **Parallel/Related:** [[Genomics_Structure_Function_Genome_Z-001-0904] — Source of transcripts
+- **Downstream/Consequence:** [[Proteomics_Protein_Function_Z-001-0007.md] — What RNA produces
 
 ## Context
 
 **Also relevant to:**  — Multi-omics considerations
 
-**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Subsection 2.3
+**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001] — Subsection 2.3
 
 ---
 
@@ -91,7 +91,7 @@ The transcriptome is the **immediate precursor** of the proteome:
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

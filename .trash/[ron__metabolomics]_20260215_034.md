@@ -16,15 +16,15 @@ updated: 2026-02-15
 # Dictionary Metabolomics
 
 ## Core Idea
-The use of [[Metabolites]] measurement as an assessment or diagnostic tool. Finds application in various research fields, especially [[Personalized_Medicine_20260215_020]].
+The use of [[Metabolites] measurement as an assessment or diagnostic tool. Finds application in various research fields, especially [[Personalized_Medicine_20260215_020].
 
 Subtypes:
-- [[targeted metabolomics]]
-- [[untargeted metabolomics]]
+- [[targeted metabolomics]
+- [[untargeted metabolomics]
 
 Connections:
-- [[Df Metabolomic Medicine]]
-- [[Df Metabolites]]
+- [[Df Metabolomic Medicine]
+- [[Df Metabolites]
 
 ## Context/Chain
 
@@ -36,4 +36,4 @@ Connections:
 
 ^202602150060-dictionary-metabolomics
 
-**Linked from raw**: [[../Raw/Dictionary_Metabolomics.md]]
+**Linked from raw**: [[../Raw/Dictionary_Metabolomics.md]

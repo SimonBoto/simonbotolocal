@@ -38,9 +38,9 @@ source-litnote: Synthesized from clinical practice
 - Muscle energy (anaerobic and aerobic)
 
 **Regulation:**
-- **High glucose** → [[Insulin_Pancreatic_Beta-Cell_Response_Z-005-0002]|insulin release]] → glucose uptake
+- **High glucose** → [[Insulin_Pancreatic_Beta-Cell_Response_Z-005-0002]|insulin release] → glucose uptake
 - **Low glucose** → Glucagon release → glycogenolysis, gluconeogenesis
-- Dysregulated glucose drives [[HbA1c_Glycemic_Control_RBC_Memory_Z-005-0003]|HbA1c elevation]] through chronic hyperglycemia
+- Dysregulated glucose drives [[HbA1c_Glycemic_Control_RBC_Memory_Z-005-0003]|HbA1c elevation] through chronic hyperglycemia
 
 ### Normal Kinetics
 
@@ -226,10 +226,10 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family Guide]]
-- [[Z-005-0002|Insulin — Pancreatic Response]]
-- [[Z-005-0003|HbA1c — Glycemic Control]]
-- [[Z-005-0004|HOMA-IR — Insulin Resistance Index]]
+- [[Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family Guide]
+- [[Z-005-0002|Insulin — Pancreatic Response]
+- [[Z-005-0003|HbA1c — Glycemic Control]
+- [[Z-005-0004|HOMA-IR — Insulin Resistance Index]
 
 source-litnote: Synthesized from clinical practice
 ---

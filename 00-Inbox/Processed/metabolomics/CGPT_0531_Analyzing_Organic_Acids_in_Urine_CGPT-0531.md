@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Analyzing Organic Acids in Urine"
 date: 2023-11-12
 source: ChatGPT conversation history
-aliases: [CGPT-0531]
+aliases: CGPT-0531]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, nutrition]
 status: archived
 ---

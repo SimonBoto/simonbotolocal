@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, oxidized-ldl, oxldl, atherosclerosis, seed-oils, 4-hne, cardiovascular, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]]
+source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]
 status: conscious
 ---
 
@@ -215,15 +215,15 @@ Fatty streak → Atheroma → Plaque → Thrombosis
 
 ---
 
-**Related:** [[Advanced_Lipoxidation_End_Products_ALEs_Z-001-0958]] | [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954]] | [[Atherosclerosis_Pathophysiology_Z-001-0015]]
+**Related:** [[Advanced_Lipoxidation_End_Products_ALEs_Z-001-0958] | [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954] | [[Atherosclerosis_Pathophysiology_Z-001-0015]
 
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

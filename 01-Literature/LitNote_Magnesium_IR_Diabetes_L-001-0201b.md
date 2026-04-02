@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Magnesium — Role in Insulin Resistance and Type 2 Diabetes
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_[CGPT-0272]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]]
 - **Date:** October 09, 2024
 - **Scope:** Chapter 5.2 — Magnesium's role in metabolic syndrome components, specifically insulin resistance and glucose metabolism
 
@@ -40,7 +40,7 @@ Magnesium deficiency and insulin resistance form a bidirectional, vicious relati
 - **Reduced intracellular Mg:** Insulin required for Mg uptake into cells; IR → impaired cellular Mg status
 - **Dietary factors:** Poor diet (high processed food) causes both IR and Mg deficiency
 
-**Zettels extracted:** [[Magnesium_Insulin_Resistance_Mechanisms_Z-001-0211]]
+**Zettels extracted:** [[Magnesium_Insulin_Resistance_Mechanisms_Z-001-0211]
 
 ### 2. Epidemiological Evidence — Magnesium Intake and Diabetes Risk
 > "Review of studies linking dietary magnesium intake with reduced risks of metabolic syndrome."
@@ -57,7 +57,7 @@ Magnesium deficiency and insulin resistance form a bidirectional, vicious relati
 - Improved β-cell function (preserved insulin secretion)
 - Lower inflammatory markers (CRP, IL-6)
 
-**Zettels extracted:** [[Magnesium_Diabetes_Risk_Epidemiological_Evidence_Z-001-0212]]
+**Zettels extracted:** [[Magnesium_Diabetes_Risk_Epidemiological_Evidence_Z-001-0212]
 
 ### 3. Magnesium Supplementation Studies — Clinical Trials in Diabetes
 > "Analysis of magnesium supplementation studies focusing on metabolic syndrome outcomes."
@@ -81,7 +81,7 @@ Magnesium deficiency and insulin resistance form a bidirectional, vicious relati
 - Baseline Mg status affects response (deficient patients benefit more)
 - Optimal dosing not established
 
-**Zettels extracted:** [[Magnesium_Supplementation_Diabetes_Clinical_Trials_Z-001-0213]]
+**Zettels extracted:** [[Magnesium_Supplementation_Diabetes_Clinical_Trials_Z-001-0213]
 
 ### 4. Population-Level Magnesium Deficiency
 > "Population-level deficiencies and the implications for metabolic health."
@@ -104,7 +104,7 @@ Magnesium deficiency and insulin resistance form a bidirectional, vicious relati
 - Population-level Mg repletion could reduce T2DM incidence
 - Low-cost intervention with favorable safety profile
 
-**Zettels extracted:** [[Magnesium_Deficiency_Population_Prevalence_Z-001-0214]]
+**Zettels extracted:** [[Magnesium_Deficiency_Population_Prevalence_Z-001-0214]
 
 ---
 
@@ -137,15 +137,15 @@ Magnesium deficiency and insulin resistance form a bidirectional, vicious relati
 ---
 
 ## Zettels Created from This Source
-1. [[Magnesium_Insulin_Resistance_Mechanisms_Z-001-0211]]
-2. [[Magnesium_Diabetes_Risk_Epidemiological_Evidence_Z-001-0212]]
-3. [[Magnesium_Supplementation_Diabetes_Clinical_Trials_Z-001-0213]]
-4. [[Magnesium_Deficiency_Population_Prevalence_Z-001-0214]]
+1. [[Magnesium_Insulin_Resistance_Mechanisms_Z-001-0211]
+2. [[Magnesium_Diabetes_Risk_Epidemiological_Evidence_Z-001-0212]
+3. [[Magnesium_Supplementation_Diabetes_Clinical_Trials_Z-001-0213]
+4. [[Magnesium_Deficiency_Population_Prevalence_Z-001-0214]
 
 ## Related References
-- [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]] — MetS context
-- [[LitNote_Magnesium_Biochemistry_L-001-0201a]] — Mg mechanisms
-- [[LitNote_IR_Mechanisms_Map_L-001-0005]] — Deep IR mechanisms
+- [[LitNote_Metabolic_Syndrome_Overview_L-001-0200] — MetS context
+- [[LitNote_Magnesium_Biochemistry_L-001-0201a] — Mg mechanisms
+- [[LitNote_IR_Mechanisms_Map_L-001-0005] — Deep IR mechanisms
 -  — Parent MOC
 -  — Insulin signaling context
 

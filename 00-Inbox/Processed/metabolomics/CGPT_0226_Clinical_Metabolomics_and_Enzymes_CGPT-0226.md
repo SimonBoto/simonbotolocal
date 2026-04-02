@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Clinical Metabolomics and Enzymes"
 date: 2024-12-15
 source: ChatGPT conversation history
-aliases: [CGPT-0226]
+aliases: CGPT-0226]
 tags: [chatgpt-archive, metabolomics, vitamin_d, clinical, nutrition]
 status: archived
 ---

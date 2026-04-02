@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Elevated FSH in Adolescents"
 date: 2025-03-06
 source: ChatGPT conversation history
-aliases: [CGPT-0134]
+aliases: CGPT-0134]
 tags: [chatgpt-archive, general]
 status: archived
 ---

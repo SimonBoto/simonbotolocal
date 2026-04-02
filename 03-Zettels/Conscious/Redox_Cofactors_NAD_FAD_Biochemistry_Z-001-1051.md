@@ -7,8 +7,8 @@ domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, nad, fad, redox, cofactors]
 parent-moc: 
-source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
-source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
+source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
+source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
 confidence: high
 created: 2026-03-08
 ---
@@ -75,13 +75,13 @@ NAD⁺/NADH and FAD/FADH₂ are the primary electron carriers connecting catabol
 | Low NAD⁺ | Pathological | Metabolic dysfunction |
 
 ## Related
-- s_Z-001-1050]]
-- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
-- -Function]]
+- s_Z-001-1050]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]
+- -Function]
 
 ---
 *Source: CGPT-0022 — Mitochondrial biochemistry*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

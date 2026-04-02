@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Start with Zettelkasten"
 date: 2024-05-12
 source: ChatGPT conversation history
-aliases: [CGPT-0397]
+aliases: CGPT-0397]
 tags: [chatgpt-archive, technology]
 status: archived
 ---

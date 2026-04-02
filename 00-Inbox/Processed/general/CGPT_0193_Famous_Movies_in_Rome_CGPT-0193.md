@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Famous Movies in Rome"
 date: 2025-01-12
 source: ChatGPT conversation history
-aliases: [CGPT-0193]
+aliases: CGPT-0193]
 tags: [chatgpt-archive, general]
 status: archived
 ---

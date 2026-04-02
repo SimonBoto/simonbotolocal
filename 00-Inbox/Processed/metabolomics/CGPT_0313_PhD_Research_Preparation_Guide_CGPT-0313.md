@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "PhD Research Preparation Guide"
 date: 2024-08-11
 source: ChatGPT conversation history
-aliases: [CGPT-0313]
+aliases: CGPT-0313]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition]
 status: archived
 ---

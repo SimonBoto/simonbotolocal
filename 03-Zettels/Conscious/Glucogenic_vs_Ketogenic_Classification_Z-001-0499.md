@@ -8,7 +8,7 @@ tags: [zettel, glucogenic, ketogenic, classification, amino-acids]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0046A]]
+source: [[L-001-0046A]
 ---
 
 # Glucogenic vs Ketogenic Classification
@@ -91,7 +91,7 @@ Yield both glucogenic and ketogenic products.
 
 ## Related
 - All amino acid entry zettels
-- [[Ketogenic_Amino_Acids_Leucine_Lysine_Z-001-0498]] Ketogenic Amino Acids (Leucine, Lysine)
+- [[Ketogenic_Amino_Acids_Leucine_Lysine_Z-001-0498] Ketogenic Amino Acids (Leucine, Lysine)
 - 
 
 ---
@@ -99,5 +99,5 @@ Yield both glucogenic and ketogenic products.
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

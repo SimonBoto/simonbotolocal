@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "New chat"
 date: 2023-05-03
 source: ChatGPT conversation history
-aliases: [CGPT-0645]
+aliases: CGPT-0645]
 tags: [chatgpt-archive, communication]
 status: archived
 ---

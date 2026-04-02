@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Liouville Space and Irreversibility"
 date: 2025-03-14
 source: ChatGPT conversation history
-aliases: [CGPT-0126]
+aliases: CGPT-0126]
 tags: [chatgpt-archive, general]
 status: archived
 ---

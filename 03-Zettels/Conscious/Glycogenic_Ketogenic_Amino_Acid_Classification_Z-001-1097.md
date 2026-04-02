@@ -7,8 +7,8 @@ domain: 001
 domain-name: Amino Acid Metabolism
 tags: [zettel, amino-acids, glycogenic, ketogenic, classification]
 parent-moc: 
-source-litnote: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
-source: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
+source-litnote: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]
+source: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]
 confidence: high
 created: 2026-03-08
 ---
@@ -76,8 +76,8 @@ Amino acids are classified by their metabolic fate: glycogenic (can be converted
 - **Consequence:** Toxic accumulation of branched-chain AAs and their ketoacids
 
 ## Related
-- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
-- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]]
+- [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]
+- [[Amino_Acid_Krebs_Entry_Points_Map_Z-001-1098]
 - 
 
 ---
@@ -85,4 +85,4 @@ Amino acids are classified by their metabolic fate: glycogenic (can be converted
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

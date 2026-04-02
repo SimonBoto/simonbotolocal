@@ -7,8 +7,8 @@ domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, vitamin-c, clinical-evidence, cancer, trials]
 parent-moc: 
-source-litnote: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]]
-source: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]]
+source-litnote: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]
+source: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]
 confidence: high
 created: 2026-03-08
 ---
@@ -154,16 +154,16 @@ The clinical use of high-dose vitamin C in cancer has a controversial history—
 | **Realistic expectations** | Expecting miracle cure |
 
 ## Related
-- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]]
-- [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]
+- [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]
 - 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

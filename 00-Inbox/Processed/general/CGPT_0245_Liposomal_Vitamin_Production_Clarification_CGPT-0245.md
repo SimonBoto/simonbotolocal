@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Liposomal Vitamin Production Clarification"
 date: 2024-11-21
 source: ChatGPT conversation history
-aliases: [CGPT-0245]
+aliases: CGPT-0245]
 tags: [chatgpt-archive, general]
 status: archived
 ---

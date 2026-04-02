@@ -175,8 +175,8 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[WBC_[B-001-0001]|WBC Comprehensive Guide]]
-- [[Z-001-2001|WBC — White Blood Cell Count]]
+- [[WBC_[B-001-0001]|WBC Comprehensive Guide]
+- [[Z-001-2001|WBC — White Blood Cell Count]
 
 source-litnote: Synthesized from clinical practice
 ---

@@ -19,7 +19,7 @@ status: active
 
 | Note | Purpose |
 |------|---------|
-| [[Personal Index]] | This index — Personal hub |
+| [[Personal Index] | This index — Personal hub |
 
 ---
 
@@ -75,8 +75,8 @@ All personal projects deprioritized until:
 
 ## 🔗 CONNECTION TO VAULT
 
-- Up: [[07 Projects Index]]
-- Related: [[Clinic Index]], [[PhD Index]]
+- Up: [[07 Projects Index]
+- Related: [[Clinic Index], [[PhD Index]
 
 ---
 

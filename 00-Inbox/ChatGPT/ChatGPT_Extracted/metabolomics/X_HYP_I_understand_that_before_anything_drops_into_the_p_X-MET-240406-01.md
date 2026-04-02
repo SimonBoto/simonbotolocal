@@ -10,7 +10,7 @@ uid: X-MET-240406-01
 type: extracted-hypothesis
 title: "Hypothesis: I understand that before anything drops into the patient's veins, we w..."
 date: 2024-04-06
-source: "[[CGPT_0434_Wellness_Center_Vision_[CGPT-0434]]"
+source: "[[CGPT_0434_Wellness_Center_Vision_CGPT-0434]"
 aliases: [X-MET-240406-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
@@ -44,8 +44,8 @@ If true, this suggests:
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]
 
 ## Validation Log
 

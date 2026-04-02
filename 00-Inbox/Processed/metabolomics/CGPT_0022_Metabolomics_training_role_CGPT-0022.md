@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolomics training role"
 date: 2025-12-08
 source: ChatGPT conversation history
-aliases: [CGPT-0022]
+aliases: CGPT-0022]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition]
 status: archived
 ---

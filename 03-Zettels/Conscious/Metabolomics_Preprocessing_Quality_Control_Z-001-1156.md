@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, metabolomics, preprocessing, quality-control, data-cleaning, methap]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Metabolomics_Data_Processing_L-001-0619]]"
+source-litnote: "[[LitNote_Metabolomics_Data_Processing_L-001-0619]"
 status: conscious
 ---
 
@@ -180,13 +180,13 @@ xdata <- fillChromPeaks(xdata, param = FillChromPeaksParam())
 
 ## Related
 
-- [[Normalization_Scaling_Metabolomics_Data_Z-001-1157]]
-- [[Pathway_Analysis_Network_Metabolomics_Z-001-1158]]
-- [[XCMS_Metabolomics_Pipeline_Z-001-XXXX]]
+- [[Normalization_Scaling_Metabolomics_Data_Z-001-1157]
+- [[Pathway_Analysis_Network_Metabolomics_Z-001-1158]
+- [[XCMS_Metabolomics_Pipeline_Z-001-XXXX]
 
 ---
 
-*Source: [[LitNote_Metabolomics_Data_Processing_L-001-0619]] | 2026-03-09*
+*Source: [[LitNote_Metabolomics_Data_Processing_L-001-0619] | 2026-03-09*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Solutions for Precision Medicine"
 date: 2023-05-04
 source: ChatGPT conversation history
-aliases: [CGPT-0640]
+aliases: CGPT-0640]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition, technology]
 status: archived
 ---

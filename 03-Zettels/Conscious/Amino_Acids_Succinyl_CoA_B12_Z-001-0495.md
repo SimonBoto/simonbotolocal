@@ -8,7 +8,7 @@ tags: [zettel, succinyl-coa, b12, isoleucine, valine, methionine, threonine]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0046A]]
+source: [[L-001-0046A]
 ---
 
 # Amino Acids to Succinyl-CoA: B12 Criticality
@@ -70,17 +70,17 @@ Valine/Isoleucine/Leucine → Branched-chain α-keto acid
 - Non-responsive: Requires dietary restriction of propionate precursors
 
 ## Related
-- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]] Propionate Metabolism (detailed pathway)
-- [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479]] ependence
-- [[Ketogenic_Amino_Acids_Leucine_Lysine_Z-001-0498]] Ketogenic Amino Acids
+- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478] Propionate Metabolism (detailed pathway)
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479] ependence
+- [[Ketogenic_Amino_Acids_Leucine_Lysine_Z-001-0498] Ketogenic Amino Acids
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- _Z-001-0428]|Z-001-0428]]
+- _Z-001-0428]|Z-001-0428]

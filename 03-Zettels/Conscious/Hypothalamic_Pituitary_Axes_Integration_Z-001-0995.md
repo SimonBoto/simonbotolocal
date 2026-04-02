@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, hypothalamus, pituitary, hpa-axis, hpg-axis, hpt-axis, stress, cortisol, endocrine-integration, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_HPG_Axis_Hormone_Cascade_L-001-0579]]
+source-litnote: [[LitNote_HPG_Axis_Hormone_Cascade_L-001-0579]
 status: conscious
 ---
 
@@ -290,13 +290,13 @@ Reversible with recovery
 
 ---
 
-**Related:** [[Primary_Secondary_Hypogonadism_Z-001-0991]] | [[Prolactinoma_Diagnosis_Management_Z-001-0992]] | [[Erectile_Dysfunction_Hormonal_Workup_Z-001-0994]] | [[Cortisol_Stress_Response_Physiology_Z-001-0102]]
+**Related:** [[Primary_Secondary_Hypogonadism_Z-001-0991] | [[Prolactinoma_Diagnosis_Management_Z-001-0992] | [[Erectile_Dysfunction_Hormonal_Workup_Z-001-0994] | [[Cortisol_Stress_Response_Physiology_Z-001-0102]
 
 **Source:** CGPT-0438 — Hormone Scenarios
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

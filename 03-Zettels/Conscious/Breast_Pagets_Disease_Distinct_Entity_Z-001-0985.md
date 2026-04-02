@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, breast-pagets, mammary-pagets, nipple-cancer, dcis, eczema, differential-diagnosis, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]]
+source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]
 status: conscious
 ---
 
@@ -242,11 +242,11 @@ status: conscious
 
 ---
 
-**Related:** [[Pagets_Disease_Bone_Diagnosis_Management_Z-001-0984]] | [[Nipple_Discharge_Differential_Diagnosis_Z-001-0012]] | [[Breast_Cancer_Screening_Guidelines_Z-001-0013]]
+**Related:** [[Pagets_Disease_Bone_Diagnosis_Management_Z-001-0984] | [[Nipple_Discharge_Differential_Diagnosis_Z-001-0012] | [[Breast_Cancer_Screening_Guidelines_Z-001-0013]
 
 **Source:** CGPT-0345 — Alkaline Phosphatase Overview
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

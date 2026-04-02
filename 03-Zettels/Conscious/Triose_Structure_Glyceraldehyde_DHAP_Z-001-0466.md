@@ -8,7 +8,7 @@ tags: [zettel, trioses, glyceraldehyde, dhap, isomers, glycolysis]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045D]]
+source: [[L-001-0045D]
 ---
 
 # Triose Structure: Glyceraldehyde and DHAP
@@ -46,14 +46,14 @@ source: [[L-001-0045D]]
 - Essential for glycolytic flux
 
 ## Related
-- [[Glycolysis_Steps_Regulation_Z-001-0467]] Glycolysis Steps
-- [[Triose_Metabolism_G3P_DHAP_Z-001-0459]] Triose Metabolism Integration
+- [[Glycolysis_Steps_Regulation_Z-001-0467] Glycolysis Steps
+- [[Triose_Metabolism_G3P_DHAP_Z-001-0459] Triose Metabolism Integration
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

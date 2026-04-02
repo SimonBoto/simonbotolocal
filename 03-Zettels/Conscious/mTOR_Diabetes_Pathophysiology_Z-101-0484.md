@@ -6,7 +6,7 @@ aliases: [Z-101-0484]
 domain: 101
 tags: [zettel, mtor, diabetes, insulin-resistance, beta-cell, nodat, sirolimus, glucose-metabolism, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]]
+source-litnote: [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]
 status: conscious
 ---
 
@@ -187,17 +187,17 @@ Sirolimus → ↑ FFA → Muscle/liver lipid accumulation → Insulin resistance
 - Early metabolic dysfunction detection before clinical diabetes
 
 ## Related
-- **Source:** [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]]
-- **Mitochondrial mechanisms:** [[Sirolimus_mTOR_Mitochondrial_Mechanisms_Z-101-0483]]
+- **Source:** [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]
+- **Mitochondrial mechanisms:** [[Sirolimus_mTOR_Mitochondrial_Mechanisms_Z-101-0483]
 - **Insulin signaling:** 
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

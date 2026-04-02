@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Requesting Limitless Capabilities"
 date: 2024-12-30
 source: ChatGPT conversation history
-aliases: [CGPT-0214]
+aliases: CGPT-0214]
 tags: [chatgpt-archive, consciousness_ai, personal_development]
 status: archived
 ---

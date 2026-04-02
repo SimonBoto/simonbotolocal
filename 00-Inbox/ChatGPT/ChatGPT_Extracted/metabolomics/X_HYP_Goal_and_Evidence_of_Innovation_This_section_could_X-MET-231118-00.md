@@ -10,7 +10,7 @@ uid: X-MET-231118-00
 type: extracted-hypothesis
 title: "Hypothesis: Goal and Evidence of Innovation: This section could be more succinct o..."
 date: 2023-11-18
-source: "[[CGPT_0529_PhD_Proposal_Review_English_[CGPT-0529]]"
+source: "[[CGPT_0529_PhD_Proposal_Review_English_CGPT-0529]"
 aliases: [X-MET-231118-00]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
@@ -44,8 +44,8 @@ If true, this suggests:
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]
 
 ## Validation Log
 

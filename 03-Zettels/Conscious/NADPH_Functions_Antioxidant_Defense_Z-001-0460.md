@@ -8,7 +8,7 @@ tags: [zettel, nadph, antioxidant, biosynthesis, gsh, immunity]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045C]]
+source: [[L-001-0045C]
 ---
 
 # NADPH: The Reducing Power
@@ -62,7 +62,7 @@ NADPH + 2O₂ → 2O₂⁻ + NADP⁺ + H⁺
 | Metabolic state | Catabolism | Anabolism |
 
 ## Related
-- [[PPP_Oxidative_Phase_Z-001-0457]] PPP Oxidative Phase (major NADPH source)
+- [[PPP_Oxidative_Phase_Z-001-0457] PPP Oxidative Phase (major NADPH source)
 - 
 
 ---
@@ -70,4 +70,4 @@ NADPH + 2O₂ → 2O₂⁻ + NADP⁺ + H⁺
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

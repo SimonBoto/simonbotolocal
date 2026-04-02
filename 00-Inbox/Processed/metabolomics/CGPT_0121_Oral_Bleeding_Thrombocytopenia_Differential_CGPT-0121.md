@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Oral Bleeding Thrombocytopenia Differential"
 date: 2025-03-08
 source: ChatGPT conversation history
-aliases: [CGPT-0121]
+aliases: CGPT-0121]
 tags: [chatgpt-archive, metabolomics, clinical]
 status: archived
 ---

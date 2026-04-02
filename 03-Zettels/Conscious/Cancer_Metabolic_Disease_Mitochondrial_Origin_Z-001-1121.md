@@ -7,8 +7,8 @@ domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, cancer, metabolic-disease, mitochondrial-origin]
 parent-moc: 
-source-litnote: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]]
-source: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]]
+source-litnote: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]
+source: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]
 confidence: high
 created: 2026-03-08
 ---
@@ -124,8 +124,8 @@ Malignant Transformation
 | **Not standalone treatment** | Agreed—adjunctive therapy |
 
 ## Related
-- [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_Z-001-1122]]
-- [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]]
+- [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_Z-001-1122]
+- [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]
 - 
 
 ---
@@ -133,5 +133,5 @@ Malignant Transformation
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

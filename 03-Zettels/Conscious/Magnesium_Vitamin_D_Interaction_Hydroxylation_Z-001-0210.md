@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, magnesium, vitamin-d, interaction, hydroxylation, cofactor]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]
+source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]
 extraction-date: 2026-03-01
 ---
 
@@ -107,9 +107,9 @@ Result: Low circulating vitamin D despite adequate intake/sun
 
 ---
 
-*Source: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]*  
-*Related: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]*  
-*Related: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]*  
+*Source: [[LitNote_Magnesium_Biochemistry_L-001-0201a]*  
+*Related: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]*  
+*Related: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]*  
 *Extracted: 2026-03-01*
 
 

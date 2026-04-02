@@ -7,8 +7,8 @@ domain: 001
 domain-name: Hematology Oncology
 tags: [zettel, tp53, multiple-myeloma, del17p, prognosis]
 parent-moc: 
-source-litnote: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]]
-source: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]]
+source-litnote: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]
+source: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]
 confidence: high
 created: 2026-03-08
 ---
@@ -101,8 +101,8 @@ TP53 abnormalities, particularly deletion of chromosome 17p (del(17p)) containin
 | **Clinical trial** | Eligibility |
 
 ## Related
-- _Consequences_Z-001-1136]]
-- [[Targeting_p53_Dysfunction_MDM2_Inhibitors_Z-001-1137]]
+- _Consequences_Z-001-1136]
+- [[Targeting_p53_Dysfunction_MDM2_Inhibitors_Z-001-1137]
 - 
 
 ---
@@ -110,4 +110,4 @@ TP53 abnormalities, particularly deletion of chromosome 17p (del(17p)) containin
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

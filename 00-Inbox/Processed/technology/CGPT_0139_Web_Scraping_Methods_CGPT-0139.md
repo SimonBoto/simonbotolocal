@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Web Scraping Methods"
 date: 2025-02-21
 source: ChatGPT conversation history
-aliases: [CGPT-0139]
+aliases: CGPT-0139]
 tags: [chatgpt-archive, technology]
 status: archived
 ---

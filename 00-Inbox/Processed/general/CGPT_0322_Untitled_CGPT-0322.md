@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Untitled"
 date: 2024-07-22
 source: ChatGPT conversation history
-aliases: [CGPT-0322]
+aliases: CGPT-0322]
 tags: [chatgpt-archive, general]
 status: archived
 ---

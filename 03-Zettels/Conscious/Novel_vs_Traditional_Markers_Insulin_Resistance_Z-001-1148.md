@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, novel, traditional, markers, insulin-resistance, comparison]
 parent-moc: 
-source-litnote: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]]
-source: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]]
+source-litnote: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
+source: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
 confidence: high
 created: 2026-03-08
 ---
@@ -143,19 +143,19 @@ Shift in metabolomics profile (OAT + TFA) from IR pattern toward healthy pattern
 | **Personalized medicine** | Individual metabolic profiling |
 
 ## Related
-- [[Urine_Organic_Acids_OAT_Metabolic_Biomarker_Z-001-1145]]
-- [[Plasma_Total_Fatty_Acids_TFA_Profile_Z-001-1146]]
-- [[Clinical_Metabolic_Markers_HOMA_IR_HbA1c_Z-001-1147]]
+- [[Urine_Organic_Acids_OAT_Metabolic_Biomarker_Z-001-1145]
+- [[Plasma_Total_Fatty_Acids_TFA_Profile_Z-001-1146]
+- [[Clinical_Metabolic_Markers_HOMA_IR_HbA1c_Z-001-1147]
 - 
 
 ---
 *Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

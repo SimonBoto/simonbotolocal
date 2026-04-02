@@ -7,7 +7,7 @@ domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, epigenomics, gene-regulation, DNA-methylation, histone-acetylation, environment, conscious]
 parent-moc: 
-source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
+source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
@@ -66,15 +66,15 @@ Epigenetic modifications respond to:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Genomics_Structure_Function_Genome_Z-001-0904]] — DNA as substrate
-- **Parallel/Related:** [[Transcriptomics_mRNA_Expression_Z-001-0006.md]] — Output of epigenetic regulation
-- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Mechanism of environmental impact
+- **Upstream/Prerequisite:** [[Genomics_Structure_Function_Genome_Z-001-0904] — DNA as substrate
+- **Parallel/Related:** [[Transcriptomics_mRNA_Expression_Z-001-0006.md] — Output of epigenetic regulation
+- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903] — Mechanism of environmental impact
 
 ## Context
 
-**Also relevant to:** -Mechanisms]] — Potential epigenetic actions of VD
+**Also relevant to:** -Mechanisms] — Potential epigenetic actions of VD
 
-**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Subsection 2.2
+**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001] — Subsection 2.2
 
 ---
 
@@ -82,7 +82,7 @@ Epigenetic modifications respond to:
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

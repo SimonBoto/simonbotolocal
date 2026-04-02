@@ -182,8 +182,8 @@ Small Dense LDL (atherogenic)
 ```
 
 **Metabolomics Confirmation:**
-- [[Adipic_Acid_Z-001-0041]] elevated = impaired β-oxidation = IR
-- [[BHB_Z-001-0483]] low = poor metabolic flexibility = IR
+- [[Adipic_Acid_Z-001-0041] elevated = impaired β-oxidation = IR
+- [[BHB_Z-001-0483] low = poor metabolic flexibility = IR
 - TG:HDL ratio high = IR confirmed
 
 ### Free Fatty Acids (FFAs) - The Real Driver
@@ -368,9 +368,9 @@ So we fix the insulin resistance (diet, exercise, sleep), and the lipids improve
 
 ## 11. RELATED BIOMARKERS
 
-- [[Metabolic_IR_Family_[B-005-0001]]: Insulin resistance (primary driver)
-- [[Adipic_Acid_Z-001-0041]]: Mitochondrial fatty acid oxidation (metabolic flexibility)
-- [[BHB_Z-001-0483]]: Ketone body (metabolic flexibility marker)
+- [[Metabolic_IR_Family_[B-005-0001]: Insulin resistance (primary driver)
+- [[Adipic_Acid_Z-001-0041]: Mitochondrial fatty acid oxidation (metabolic flexibility)
+- [[BHB_Z-001-0483]: Ketone body (metabolic flexibility marker)
 - [[Omega_Fatty_Acids_Framework_S-001-0005]: Omega-3 for TG lowering
 - [[IR_Playbook_Clinical_Decision_Tool_S-001-0001]: Complete IR protocol
 

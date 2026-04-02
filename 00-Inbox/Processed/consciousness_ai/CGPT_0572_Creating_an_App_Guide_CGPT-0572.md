@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Creating an App Guide"
 date: 2023-09-11
 source: ChatGPT conversation history
-aliases: [CGPT-0572]
+aliases: CGPT-0572]
 tags: [chatgpt-archive, consciousness_ai, technology, personal_development]
 status: archived
 ---

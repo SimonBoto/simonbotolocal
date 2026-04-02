@@ -7,11 +7,11 @@ domain: 001
 tags: [zettel, fe-s-cluster, iron-sulfur, 4fe4s, biochemistry]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]]
+source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]
 extraction-date: 2026-03-01
 ---
 
-# Iron-Sulfur Cluster |biochemistry]]
+# Iron-Sulfur Cluster |biochemistry]
 
 > Aconitase requires a [4Fe-4S]²⁺ iron-sulfur cluster for catalytic activity, with Feₐ coordinating substrate and mediating Lewis acid catalysis.
 
@@ -44,9 +44,9 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Aconitase_Enzyme_L-001-0508]]*
+*Source: [[LitNote_Aconitase_Enzyme_L-001-0508]*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
 - 

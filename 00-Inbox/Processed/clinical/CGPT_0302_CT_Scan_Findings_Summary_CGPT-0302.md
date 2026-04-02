@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "CT Scan Findings Summary"
 date: 2024-08-26
 source: ChatGPT conversation history
-aliases: [CGPT-0302]
+aliases: CGPT-0302]
 tags: [chatgpt-archive, clinical, greek_language]
 status: archived
 ---

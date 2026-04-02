@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, cellular-mechanisms]
 parent-moc: 
-source: [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]]
+source: [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -20,8 +20,8 @@ Bone remodeling is a 5-phase cycle: (1) Activation — osteoclast precursors rec
 ## Links
 
 **Parent MOC:** 
-**Source:** s_L-001-0011]]
-**Related:** [[Osteoclasts_Bone_Resorbing_Cells_Z-001-0080]], [[Osteoblasts_Bone_Forming_Cells_Z-001-0081]]
+**Source:** s_L-001-0011]
+**Related:** [[Osteoclasts_Bone_Resorbing_Cells_Z-001-0080], [[Osteoblasts_Bone_Forming_Cells_Z-001-0081]
 
 ---
 
@@ -29,4 +29,4 @@ Bone remodeling is a 5-phase cycle: (1) Activation — osteoclast precursors rec
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

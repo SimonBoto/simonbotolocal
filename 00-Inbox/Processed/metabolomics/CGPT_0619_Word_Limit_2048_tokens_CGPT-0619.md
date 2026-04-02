@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Word Limit: 2048 tokens"
 date: 2023-06-08
 source: ChatGPT conversation history
-aliases: [CGPT-0619]
+aliases: CGPT-0619]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, consciousness_ai, nutrition]
 status: archived
 ---

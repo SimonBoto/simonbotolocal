@@ -7,8 +7,8 @@ domain: 001
 domain-name: Vitamin D Metabolism
 tags: [zettel, vitamin-d, pth, calcium, axis]
 parent-moc: 
-source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
-source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
+source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
+source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
 confidence: high
 created: 2026-03-08
 ---
@@ -54,13 +54,13 @@ Low Ca²⁺ → PTH release → D activation → ↑ Ca absorption → Ca²⁺ r
 | High D, High PTH | Vitamin D resistance | Investigate cause |
 
 ## Related
-- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
-- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
-- -Metabolism]]
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]
+- -Metabolism]
 
 ---
 *Source: CGPT-0022 — Vitamin-mineral biochemistry*
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]

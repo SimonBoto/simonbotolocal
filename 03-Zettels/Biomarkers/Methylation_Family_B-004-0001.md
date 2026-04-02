@@ -358,11 +358,11 @@ Methionine → SAM (S-adenosylmethionine) → [METHYLATION REACTIONS] → SAH �
 
 ## 11. RELATED BIOMARKERS
 
-- [[Iron_Family_[B-003-0001]]: Macrocytic anemia differential
-- [[Hemoglobin_Family_[B-001-0002]]: MCV, macrocytosis
-- [[B6_[B-003-0003]]: Transsulfuration pathway
-- [[Creatine_[B-007-XXXX]]: Methylation demand (creatine synthesis uses methyl groups)
-| [[SAM_SA_[B-004-0002]]: Ultimate methyl donor status
+- [[Iron_Family_[B-003-0001]: Macrocytic anemia differential
+- [[Hemoglobin_Family_[B-001-0002]: MCV, macrocytosis
+- [[B6_[B-003-0003]: Transsulfuration pathway
+- [[Creatine_[B-007-XXXX]: Methylation demand (creatine synthesis uses methyl groups)
+| [[SAM_SA_[B-004-0002]: Ultimate methyl donor status
 - ]: Genetic polymorphism
 
 source-litnote: Synthesized from clinical practice

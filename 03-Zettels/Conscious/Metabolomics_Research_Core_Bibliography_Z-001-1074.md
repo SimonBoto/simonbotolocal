@@ -7,8 +7,8 @@ domain: 001
 domain-name: Research Methods
 tags: [zettel, bibliography, metabolomics, research]
 parent-moc: 
-source-litnote: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]]
-source: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]]
+source-litnote: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]
+source: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]
 confidence: high
 created: 2026-03-08
 ---
@@ -69,15 +69,15 @@ Essential research papers supporting metabolomics clinical practice.
 | Zhao 2016 | Insulin resistance | Metabolic syndrome |
 
 ## Related
-- [[Vitamin_D_Safety_Research_Summary_Z-001-1075]]
+- [[Vitamin_D_Safety_Research_Summary_Z-001-1075]
 - 
 
 ---
 *Source: CGPT-0022 — Research bibliography*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

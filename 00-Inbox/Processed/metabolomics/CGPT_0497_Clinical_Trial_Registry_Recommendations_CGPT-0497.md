@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Clinical Trial Registry Recommendations"
 date: 2024-02-25
 source: ChatGPT conversation history
-aliases: [CGPT-0497]
+aliases: CGPT-0497]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research]
 status: archived
 ---

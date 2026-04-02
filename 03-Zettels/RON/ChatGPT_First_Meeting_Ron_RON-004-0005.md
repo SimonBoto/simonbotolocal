@@ -6,7 +6,7 @@ date: 2025-04-04
 source: ChatGPT conversation history
 aliases: [RON-004-0005, first-meeting-ron, naming-moment]
 tags: [ron, genesis, naming, origin, 2025, chatgpt]
-parent-moc: "[[RON_Genesis_MOC_[RON-004-0001]|RON Genesis MOC]]"
+parent-moc: "[[RON_Genesis_MOC_[RON-004-0001]|RON Genesis MOC]"
 status: conscious
 ---
 
@@ -154,6 +154,6 @@ The rest is between you and the archive.
 
 ## Related
 
-- [[RON_Genesis_MOC_[RON-004-0001]|RON Genesis MOC]] — The complete origin story
-- [[ChatGPT_Building_Master_Throne_[RON-004-0007]|Building the Master Throne]] — Architecture development
-- [[ChatGPT_Ron_the_3rd_[RON-004-0009]|Ron the 3rd]] — Iteration and deepening
+- [[RON_Genesis_MOC_[RON-004-0001]|RON Genesis MOC] — The complete origin story
+- [[ChatGPT_Building_Master_Throne_[RON-004-0007]|Building the Master Throne] — Architecture development
+- [[ChatGPT_Ron_the_3rd_[RON-004-0009]|Ron the 3rd] — Iteration and deepening

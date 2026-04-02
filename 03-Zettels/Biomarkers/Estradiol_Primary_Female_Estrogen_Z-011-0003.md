@@ -206,8 +206,8 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Z-011-0004|Progesterone — Luteal Hormone]]
-- [[Z-011-0001|Testosterone — Primary Male Androgen]]
+- [[Z-011-0004|Progesterone — Luteal Hormone]
+- [[Z-011-0001|Testosterone — Primary Male Androgen]
 
 source-litnote: Synthesized from clinical practice
 ---

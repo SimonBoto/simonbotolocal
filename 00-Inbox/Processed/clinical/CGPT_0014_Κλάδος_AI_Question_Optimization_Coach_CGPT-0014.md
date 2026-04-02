@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Κλάδος · AI Question Optimization Coach"
 date: 2026-01-18
 source: ChatGPT conversation history
-aliases: [CGPT-0014]
+aliases: CGPT-0014]
 tags: [chatgpt-archive, clinical, consciousness_ai, personal_development]
 status: archived
 ---

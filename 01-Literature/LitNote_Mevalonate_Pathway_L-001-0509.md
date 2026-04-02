@@ -10,14 +10,14 @@ relevance: Critical — Central metabolic pathway connecting energy metabolism t
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
-source-file-location: /03-Zettels/ChatGPT_Archive/metabolomics/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_[CGPT-0393].md
+source-file-location: /03-Zettels/ChatGPT_Archive/metabolomics/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393].md
 source-verified: 2026-03-01
 ---
 
 # Lit: The Mevalonate Pathway — From Acetyl-CoA to Cholesterol and Coenzyme Q10
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_[CGPT-0393]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]]
 - **Date:** May 15, 2024
 - **Scope:** Complete mevalonate pathway, all enzymatic steps, HMG-CoA reductase regulation, branch points, clinical implications
 
@@ -154,7 +154,7 @@ Enzymes: COQ proteins (synthesis)
 Significance: Electron transport chain
 ```
 
-**Zettels extracted:** [[Mevalonate_Pathway_Enzymatic_Steps_Z-001-0545]]
+**Zettels extracted:** [[Mevalonate_Pathway_Enzymatic_Steps_Z-001-0545]
 
 ### 2. HMG-CoA Reductase — Master Control Point
 > "HMG-CoA reductase is the committed, rate-limiting enzyme of the mevalonate pathway, making it the primary therapeutic target for cholesterol reduction and explaining why statin therapy inadvertently depletes Coenzyme Q10."
@@ -213,7 +213,7 @@ HMG-CoA + 2 NADPH + 2 H⁺ → Mevalonate + 2 NADP⁺ + CoA
 - Ubiquinol form preferred
 - Take 2-4 hours away from statin
 
-**Zettels extracted:** [[HMG_CoA_Reductase_Regulation_Z-001-0546]]
+**Zettels extracted:** [[HMG_CoA_Reductase_Regulation_Z-001-0546]
 
 ### 3. Branch Points and Diverse Fates
 > "Farnesyl pyrophosphate represents a critical metabolic crossroads, directing carbon flux toward cholesterol synthesis, Coenzyme Q10 production, or protein prenylation depending on cellular needs."
@@ -281,7 +281,7 @@ FPP + p-Hydroxybenzoic acid → CoQ10
 FPP + IPP → Dolichol (long-chain isoprenoid)
 ```
 
-**Zettels extracted:** [[Mevalonate_Branch_Points_Z-001-0547]]
+**Zettels extracted:** [[Mevalonate_Branch_Points_Z-001-0547]
 
 ### 4. Clinical and Therapeutic Implications
 > "Understanding the mevalonate pathway illuminates the mechanism of statin action, explains their side effects, reveals CoQ10 depletion, and guides rational supplementation strategies."
@@ -352,7 +352,7 @@ FPP + IPP → Dolichol (long-chain isoprenoid)
 - Vitamin D3 (METHAP)
 - Monitor: Lipids, CoQ10 levels, muscle symptoms
 
-**Zettels extracted:** [[Mevalonate_Clinical_Implications_Z-001-0548]]
+**Zettels extracted:** [[Mevalonate_Clinical_Implications_Z-001-0548]
 
 ### 5. Integration with METHAP
 > "The mevalonate pathway connects directly to METHAP through cholesterol-dependent vitamin D synthesis, CoQ10 requirements for mitochondrial function, and shared nutrient cofactors that support both pathways."
@@ -409,7 +409,7 @@ Acetyl-CoA → Mevalonate → Cholesterol → 7-Dehydrocholesterol
 - Lipids, symptom review
 - Adjust supplementation
 
-**Zettels extracted:** [[Mevalonate_METHAP_Integration_Z-001-0549]]
+**Zettels extracted:** [[Mevalonate_METHAP_Integration_Z-001-0549]
 
 ---
 
@@ -437,11 +437,11 @@ Acetyl-CoA → Mevalonate → Cholesterol → 7-Dehydrocholesterol
 ---
 
 ## Zettels Created from This Source (Batch 3/4)
-1. [[Mevalonate_Pathway_Enzymatic_Steps_Z-001-0545]]
-2. [[HMG_CoA_Reductase_Regulation_Z-001-0546]]
-3. [[Mevalonate_Branch_Points_Z-001-0547]]
-4. [[Mevalonate_Clinical_Implications_Z-001-0548]]
-5. [[Mevalonate_METHAP_Integration_Z-001-0549]]
+1. [[Mevalonate_Pathway_Enzymatic_Steps_Z-001-0545]
+2. [[HMG_CoA_Reductase_Regulation_Z-001-0546]
+3. [[Mevalonate_Branch_Points_Z-001-0547]
+4. [[Mevalonate_Clinical_Implications_Z-001-0548]
+5. [[Mevalonate_METHAP_Integration_Z-001-0549]
 
 ---
 

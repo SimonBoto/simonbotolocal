@@ -6,7 +6,7 @@ aliases: [Z-001-1253]
 domain: 001
 tags: [zettel, hyperinsulinemia, lipolysis, HSL, CPT-1, malonyl-CoA, insulin, metabolic-regulation]
 parent-moc: ", "
-source-litnote: "[[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]]"
+source-litnote: "[[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]"
 status: conscious
 ---
 
@@ -98,18 +98,18 @@ Available    Entry
 
 ## Related Zettels
 
-- [[Z-001-1254_Metabolic_Flexibility_Definition]] — Capacity to switch between fuel sources
-- [[Z-001-1255_Insulin_Resistance_Beta_Oxidation_Block]] — Why IR creates paradox of high FFAs but impaired oxidation
-- [[Z-001-1256_BHB_Production_Fatty_Acids]] — Alternative fuel when beta-oxidation is blocked
+- [[Z-001-1254_Metabolic_Flexibility_Definition] — Capacity to switch between fuel sources
+- [[Z-001-1255_Insulin_Resistance_Beta_Oxidation_Block] — Why IR creates paradox of high FFAs but impaired oxidation
+- [[Z-001-1256_BHB_Production_Fatty_Acids] — Alternative fuel when beta-oxidation is blocked
 
 ---
 
 ## Source
 
-Extracted from: [[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]]  
+Extracted from: [[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]  
 CGPT-0647 (April 30, 2023) — Messages 3-4, 15-16
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

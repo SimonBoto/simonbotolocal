@@ -230,12 +230,12 @@ created: 2026-03-30
 
 ## 10. RELATED BIOMARKERS
 
-- [[WBC_[B-001-0001]]: Inflammation correlation
-- [[Hemoglobin_Family_[B-001-0002]]: Pancytopenia workup
-- [[Ferritin_[B-003-0001]]: Iron deficiency thrombocytosis
-- [[CRP_[B-002-0001]]: Inflammatory thrombocytosis
-- [[D-Dimer_[B-006-0001]]: Coagulation activation
-- [[Fibrinogen_[B-006-0002]]: Acute phase reactant
+- [[WBC_[B-001-0001]: Inflammation correlation
+- [[Hemoglobin_Family_[B-001-0002]: Pancytopenia workup
+- [[Ferritin_[B-003-0001]: Iron deficiency thrombocytosis
+- [[CRP_[B-002-0001]: Inflammatory thrombocytosis
+- [[D-Dimer_[B-006-0001]: Coagulation activation
+- [[Fibrinogen_[B-006-0002]: Acute phase reactant
 
 ---
 status: footer

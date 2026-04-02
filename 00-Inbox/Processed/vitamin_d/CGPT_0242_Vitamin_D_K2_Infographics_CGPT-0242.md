@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Vitamin D K2 Infographics"
 date: 2024-11-24
 source: ChatGPT conversation history
-aliases: [CGPT-0242]
+aliases: CGPT-0242]
 tags: [chatgpt-archive, vitamin_d]
 status: archived
 ---

@@ -7,7 +7,7 @@ domain: 001
 domain-name: Research Methods
 tags: [zettel, study-design, exploratory-research, confirmatory-research, biomarkers, validation, research-integrity]
 parent-moc: 
-source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
+source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]"
 confidence: high
 created: 2026-03-03
 source-litnote: Synthesized from clinical practice
@@ -178,11 +178,11 @@ Without explicit "exploratory" framing, readers may interpret findings as more r
 
 ## Related Zettels
 
-- [[FDR_Threshold_Selection_Z-001-0932]] — FDR 0.1 vs 0.05 Selection Framework
-- [[Biomarker_Validation_Requirements_Z-001-0528]] — Validation Requirements for Biomarker Translation
-- [[Underpowered_Study_Consequences_Z-001-0929]] — Underpowered Study Consequences
-- [[Sample_Size_Strategies_PhD_Z-001-0930]] — PhD Sample Size Strategies
-- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — False Discovery Rate and Multiple Testing Correction
+- [[FDR_Threshold_Selection_Z-001-0932] — FDR 0.1 vs 0.05 Selection Framework
+- [[Biomarker_Validation_Requirements_Z-001-0528] — Validation Requirements for Biomarker Translation
+- [[Underpowered_Study_Consequences_Z-001-0929] — Underpowered Study Consequences
+- [[Sample_Size_Strategies_PhD_Z-001-0930] — PhD Sample Size Strategies
+- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515] — False Discovery Rate and Multiple Testing Correction
 
 ---
 
@@ -194,15 +194,15 @@ Without explicit "exploratory" framing, readers may interpret findings as more r
 
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Liver_Function_[B-009-0001]|Biomarker Family Guide]
 - 
 
 
 
 ## Related
-- [[Laboratory_Markers_Distinguishing_Features_Z-001-0422]|Z-001-0422]]
+- [[Laboratory_Markers_Distinguishing_Features_Z-001-0422]|Z-001-0422]
 
 
 ## Related
-- [[Metabolomics_Research_Core_Bibliography_Z-001-1074]|Z-001-1074]]
+- [[Metabolomics_Research_Core_Bibliography_Z-001-1074]|Z-001-1074]

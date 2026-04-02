@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, saturated-fat, unsaturated-fat, cardiovascular, inflammation, diet]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]]"
+source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]"
 status: conscious
 ---
 
@@ -160,17 +160,17 @@ The degree of saturation (number of double bonds) determines fatty acid physical
 
 ## Related
 
-- [[Omega_Classification_System_Explained_Z-001-1209]]
-- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]]
+- [[Omega_Classification_System_Explained_Z-001-1209]
+- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]
 
 ---
 
-*Source: [[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]] | 2026-03-08*
+*Source: [[LitNote_Fatty_Acid_Structure_Classification_L-001-0632] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

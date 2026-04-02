@@ -6,7 +6,7 @@ aliases: [Z-101-0480]
 domain: 101
 tags: [zettel, research-ethics, case-studies, tuskegee, willowbrook, nazi-experiments, henrietta-lacks, lessons-learned, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]]
+source-litnote: [[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]
 status: conscious
 ---
 
@@ -172,14 +172,14 @@ Learn from historical violations to prevent future abuses and strengthen protect
 | **Respect** | Dignity maintained throughout |
 
 ## Related
-- **Source:** [[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]]
-- **Seven requirements:** [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]]
-- **Historical frameworks:** [[Historical_Ethical_Frameworks_Research_Z-101-0479]]
+- **Source:** [[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]
+- **Seven requirements:** [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]
+- **Historical frameworks:** [[Historical_Ethical_Frameworks_Research_Z-101-0479]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

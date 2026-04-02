@@ -21,7 +21,7 @@ Common confusion:
 - Pathways are not isolated. They share substrates/cofactors and cross-talk; one bottleneck can ripple across systems (energy ↔ detox ↔ immune signaling).
 
 Related:
-- [[[ron__enzyme_definition_clinical_meaning]_20260215_012]]
-- [[[ron__metabolomics_definition_clinical_use]_20260215_033]]
-- [[Zettel_Blocked_Pathway_Leads_To_Metabolite_Accumulation_Detectable_In_Blood_Urine]]
-- [[Library_Tsoukalas_Book_Chapter8_Enzymes_Cofactors_Metabolic_Individuality]]
+- [[[ron__enzyme_definition_clinical_meaning]_20260215_012]
+- [[[ron__metabolomics_definition_clinical_use]_20260215_033]
+- [[Zettel_Blocked_Pathway_Leads_To_Metabolite_Accumulation_Detectable_In_Blood_Urine]
+- [[Library_Tsoukalas_Book_Chapter8_Enzymes_Cofactors_Metabolic_Individuality]

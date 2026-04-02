@@ -199,9 +199,9 @@ Hypothalamus (GnRH) → Pituitary (LH/FSH) → Gonads (sex hormones)
 ---
 
 ## RELATED FILES
-- [[Male_Hormones_[B-011-0001]|Male Hormones Panel]]
-- [[Z-011-0001|Testosterone — Primary Male Androgen]]
-- [[Z-011-0003|Estradiol — Primary Female Estrogen]]
+- [[Male_Hormones_[B-011-0001]|Male Hormones Panel]
+- [[Z-011-0001|Testosterone — Primary Male Androgen]
+- [[Z-011-0003|Estradiol — Primary Female Estrogen]
 
 ---
 *Complete biomarker foundation — LH & FSH*

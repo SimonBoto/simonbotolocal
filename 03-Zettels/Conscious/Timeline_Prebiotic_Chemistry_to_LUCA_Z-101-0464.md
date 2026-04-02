@@ -8,7 +8,7 @@ tags: [zettel, timeline, evolution, prebiotic, luca, origin-of-life]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-101-0045B]]
+source: [[L-101-0045B]
 ---
 
 # Timeline: Prebiotic Chemistry to LUCA
@@ -110,9 +110,9 @@ source: [[L-101-0045B]]
 - Interstellar molecule detections
 
 ## Related
-- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]] HCN Polymerization
-- [[RNA_World_Hypothesis_Evolution_Z-101-0456]] RNA World Hypothesis
-- [[Formamide_Chemistry_Prebiotic_Pathway_Z-101-0463]] Formamide Chemistry
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454] HCN Polymerization
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456] RNA World Hypothesis
+- [[Formamide_Chemistry_Prebiotic_Pathway_Z-101-0463] Formamide Chemistry
 - 
 
 ---
@@ -120,7 +120,7 @@ source: [[L-101-0045B]]
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

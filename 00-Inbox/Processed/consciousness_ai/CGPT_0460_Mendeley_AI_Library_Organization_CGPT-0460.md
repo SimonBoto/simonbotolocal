@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mendeley AI Library Organization"
 date: 2024-03-16
 source: ChatGPT conversation history
-aliases: [CGPT-0460]
+aliases: CGPT-0460]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

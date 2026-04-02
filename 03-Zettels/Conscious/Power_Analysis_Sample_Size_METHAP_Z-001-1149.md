@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, power-analysis, sample-size, methap, statistics, clinical-trial]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Statistical_Analysis_Omics_L-001-0617]]"
+source-litnote: "[[LitNote_Statistical_Analysis_Omics_L-001-0617]"
 status: conscious
 ---
 
@@ -82,16 +82,16 @@ METHAP trial designed with 220 participants to provide 80% statistical power to 
 
 ## Related
 
-- [[METHAP_Study_Population_Recruitment_Strategy_Z-001-1141]]
-- [[METHAP_Study_Timeline_Testing_Schedule_Z-001-1144]]
-- [[Sample_Size_Calculation_Methods_Z-001-XXXX]]
+- [[METHAP_Study_Population_Recruitment_Strategy_Z-001-1141]
+- [[METHAP_Study_Timeline_Testing_Schedule_Z-001-1144]
+- [[Sample_Size_Calculation_Methods_Z-001-XXXX]
 
 ---
 
-*Source: [[LitNote_Statistical_Analysis_Omics_L-001-0617]] | 2026-03-09*
+*Source: [[LitNote_Statistical_Analysis_Omics_L-001-0617] | 2026-03-09*
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

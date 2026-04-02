@@ -6,15 +6,15 @@ aliases: [S-001-0002, VitD-Guide, Vitamin-D-Protocol, High-Dose-VitD]
 domain: 001
 domain-name: Vitamin_D_Therapeutics
 tags: [synthesis, vitamin-d, clinical-protocol, dosing, safety, k2, metabolic-syndrome, autoimmunity, high-dose, living-document]
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-moc: [[MOC-Vitamin-D-Metabolism]
 status: active
 version: 1.1
 created: 2026-03-30
 last-updated: 2026-04-01
 contributing-zettels:
-  - "[[Vitamin_D_Receptor_Genomics_Z-001-0050]]"
-  - "[[Vitamin_D_Inflammation_Suppression_Z-001-0051]]"
-  - "[[Vitamin_K2_Synergy_Calcium_Traffic_Z-001-0052]]"
+  - "[[Vitamin_D_Receptor_Genomics_Z-001-0050]"
+  - "[[Vitamin_D_Inflammation_Suppression_Z-001-0051]"
+  - "[[Vitamin_K2_Synergy_Calcium_Traffic_Z-001-0052]"
 ---
 
 # Vitamin D Clinical Guide
@@ -49,11 +49,11 @@ contributing-zettels:
 ### 1.1 Vitamin D Synthesis and Metabolism
 
 **Cutaneous Synthesis:**
-- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]
 - UVB (290-315 nm) converts 7-dehydrocholesterol to previtamin D3
 - Thermal isomerization to vitamin D3 (cholecalciferol)
 - **Self-limiting:** Prolonged UV exposure causes photodegradation
-- [[Vitamin_D_Photodegradation_Safety_Mechanism_Z-001-0063]]
+- [[Vitamin_D_Photodegradation_Safety_Mechanism_Z-001-0063]
 
 **Hydroxylation Pathway:**
 - Liver: Vitamin D → 25(OH)D (calcidiol) — CYP2R1, CYP27A1
@@ -97,7 +97,7 @@ contributing-zettels:
 - Affect vitamin D responsiveness
 - May explain individual variation in requirements
 
-**Source:** [[VDR_Knockout_Mouse_Phenotypes_Z-001-0987]]
+**Source:** [[VDR_Knockout_Mouse_Phenotypes_Z-001-0987]
 
 ---
 
@@ -119,8 +119,8 @@ contributing-zettels:
 **Problem:** IOM RDA based on bone health only, using flawed statistical analysis
 
 **Evidence:**
-- [[IOM_Vitamin_D_RDA_Error_Z-001-0007]]
-- [[Vitamin_D_RDA_10x_Underestimation_Z-001-0059]]
+- [[IOM_Vitamin_D_RDA_Error_Z-001-0007]
+- [[Vitamin_D_RDA_10x_Underestimation_Z-001-0059]
 - Used mean requirement instead of population needs
 - Ignored non-skeletal benefits
 - Assumed zero benefit above 50 nmol/L
@@ -129,7 +129,7 @@ contributing-zettels:
 
 ### 2.3 Optimal Range Justification (80-150 nmol/L)
 
-**Source:** [[Vitamin_D_Optimal_Range_80_150_Z-002-0004]]
+**Source:** [[Vitamin_D_Optimal_Range_80_150_Z-002-0004]
 
 **Supporting Evidence:**
 1. **Immune function:** Maximum antimicrobial peptide production
@@ -155,7 +155,7 @@ contributing-zettels:
 | 75-100 nmol/L | 2,000-5,000 IU | Maintenance | 12 weeks |
 
 **Strategy 2: Loading Dose (Rapid Repletion)**
-- [[Vitamin_D_Loading_Dose_Protocol_50000_IU_Z-001-0090]]
+- [[Vitamin_D_Loading_Dose_Protocol_50000_IU_Z-001-0090]
 - 50,000 IU weekly × 4-8 weeks
 - Then transition to daily maintenance
 - Faster achievement of optimal levels
@@ -187,7 +187,7 @@ contributing-zettels:
 **Obesity (BMI >30):**
 - 2-3× higher doses required
 - Sequestration in adipose tissue
-- [[Vitamin_D_Adipose_Tissue_Immunomodulation_Z-001-0226]]
+- [[Vitamin_D_Adipose_Tissue_Immunomodulation_Z-001-0226]
 
 **Malabsorption:**
 - Celiac disease, Crohn's, post-bariatric surgery
@@ -213,10 +213,10 @@ contributing-zettels:
 - High-dose vitamin D increases calcium absorption
 - Without direction, calcium deposits in soft tissues
 - K2 activates matrix Gla protein (MGP) — vascular calcification inhibitor
-- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]]
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]
 
 **Mechanism:**
-- [[Vitamin_K2_Biochemistry_Forms_MK4_MK7_Z-001-0227]]
+- [[Vitamin_K2_Biochemistry_Forms_MK4_MK7_Z-001-0227]
 - Vitamin K-dependent carboxylation of MGP
 - Carboxylated MGP binds calcium, prevents vascular deposition
 - Directs calcium to bone (via osteocalcin activation)
@@ -261,7 +261,7 @@ contributing-zettels:
 2. **CYP24A1 upregulation:** Increases catabolism at high 1,25(OH)2D
 3. **PTH suppression:** Reduces renal 1α-hydroxylation
 
-**Source:** [[Vitamin_D_Safety_Research_Summary_Z-001-1075]]
+**Source:** [[Vitamin_D_Safety_Research_Summary_Z-001-1075]
 
 ### 5.2 Toxicity (Hypervitaminosis D)
 
@@ -288,13 +288,13 @@ contributing-zettels:
 **Reality:**
 - True toxicity rare at doses ≤10,000 IU/day
 - Most cases: manufacturing errors (dose 1,000× labeled)
-- [[Vitamin_D_Toxicity_Myth_Persistence_Z-001-0057]]
-- [[Vitamin_D_Regulatory_Overreaction_Z-001-0056]]
+- [[Vitamin_D_Toxicity_Myth_Persistence_Z-001-0057]
+- [[Vitamin_D_Regulatory_Overreaction_Z-001-0056]
 
 **Historical Context:**
 - 1950s fortification errors caused infant hypercalcemia
 - Led to conservative regulations
-- [[Vitamin_D_Fortification_Incidents_1950s_Z-001-0054]]
+- [[Vitamin_D_Fortification_Incidents_1950s_Z-001-0054]
 
 ### 5.4 Contraindications
 
@@ -380,8 +380,8 @@ contributing-zettels:
 ### 7.1 Metabolic Syndrome and Diabetes Prevention
 
 **Mechanism:**
-- [[Vitamin_D_Insulin_Sensitivity_Glucose_Metabolism_Z-001-0224]]
-- [[VitD_K2_Insulin_Resistance_Z-001-1237]]
+- [[Vitamin_D_Insulin_Sensitivity_Glucose_Metabolism_Z-001-0224]
+- [[VitD_K2_Insulin_Resistance_Z-001-1237]
 - Improves β-cell function
 - Reduces systemic inflammation
 
@@ -396,14 +396,14 @@ contributing-zettels:
 ### 7.2 Autoimmune Diseases
 
 **Hashimoto's Thyroiditis:**
-- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]]
-- [[Treg_Th17_Balance_VDR_Z-001-1165]]
+- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]
+- [[Treg_Th17_Balance_VDR_Z-001-1165]
 - Target: 100-150 nmol/L
 - Dose: 10,000 IU + K2
 - Monitor: Anti-TPO, anti-TG, TSH, free T4
 
 **Inflammatory Bowel Disease:**
-- [[Vitamin_D_Gut_Microbiome_Crohns_Z-001-0028]]
+- [[Vitamin_D_Gut_Microbiome_Crohns_Z-001-0028]
 - Higher doses often needed (malabsorption)
 - Target: 100-150 nmol/L
 - Consider emulsified D3
@@ -430,7 +430,7 @@ contributing-zettels:
 ### 7.4 Cardiovascular Disease Prevention
 
 **Mechanism:**
-- [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]]
+- [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]
 - Blood pressure reduction
 - Anti-inflammatory effects
 - Improved endothelial function
@@ -446,7 +446,7 @@ contributing-zettels:
 **Evidence:**
 - Inverse association with colorectal, breast, prostate cancer
 - Optimal protection: 100-150 nmol/L
-- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]]
+- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]
 
 **Protocol:**
 - Target: 100-150 nmol/L
@@ -486,7 +486,7 @@ contributing-zettels:
 **Infants:**
 - 400-1,000 IU/day standard
 - Higher if mother deficient
-- [[Saadi_2009_2000IU_Infant_Safety_Z-001-0068]]
+- [[Saadi_2009_2000IU_Infant_Safety_Z-001-0068]
 
 **Children/Adolescents:**
 - 1,000-2,000 IU/day baseline
@@ -510,7 +510,7 @@ contributing-zettels:
 **Pattern:**
 - Levels drop in winter (Northern latitudes)
 - Peak in late summer
-- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
+- [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]
 
 **Strategy:**
 - Increase dose in autumn/winter

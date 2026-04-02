@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Starlink dish options Europe"
 date: 2024-11-19
 source: ChatGPT conversation history
-aliases: [CGPT-0246]
+aliases: CGPT-0246]
 tags: [chatgpt-archive, general]
 status: archived
 ---

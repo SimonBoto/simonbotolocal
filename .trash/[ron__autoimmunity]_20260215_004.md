@@ -20,8 +20,8 @@ Common confusion:
 - “Symptoms = the disease.” Symptoms can lag behind immune dysregulation.
 
 Related:
-[[111_Hub_Disease_Specific]]
-[[Zettel_Three_Stage_Model_Of_Autoimmunity_Genes_Risk_Load_Trigger]]
-[[Zettel_Autoimmune_Diseases_Share_Common_Metabolic_Features]]
-[[[ron__polyautoimmunity]_20260215_041]]
-[[Zettel_Increased_Intestinal_Permeability_As_Autoimmunity_Trigger]]
+[[111_Hub_Disease_Specific]
+[[Zettel_Three_Stage_Model_Of_Autoimmunity_Genes_Risk_Load_Trigger]
+[[Zettel_Autoimmune_Diseases_Share_Common_Metabolic_Features]
+[[[ron__polyautoimmunity]_20260215_041]
+[[Zettel_Increased_Intestinal_Permeability_As_Autoimmunity_Trigger]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Absolute Mode Conversation"
 date: 2025-04-28
 source: ChatGPT conversation history
-aliases: [CGPT-0096]
+aliases: CGPT-0096]
 tags: [chatgpt-archive, general]
 status: archived
 ---

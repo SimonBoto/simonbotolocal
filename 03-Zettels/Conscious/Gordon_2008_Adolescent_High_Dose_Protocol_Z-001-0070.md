@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, Gordon-2008, adolescents, high-dose]
 parent-moc: 
-source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
+source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -29,9 +29,9 @@ Gordon et al. (2008) treated vitamin D-deficient adolescents with 2,000 IU daily
 
 ## Links
 
-**Parent MOC:** -Protocols]]
-**Source:** _L-001-0009]]
-**Related:** [[Stoss_Therapy_High_Dose_Rickets_Treatment_Z-001-0069]], [[UL_Conservative_vs_Research_Reality_Z-001-0071]]
+**Parent MOC:** -Protocols]
+**Source:** _L-001-0009]
+**Related:** [[Stoss_Therapy_High_Dose_Rickets_Treatment_Z-001-0069], [[UL_Conservative_vs_Research_Reality_Z-001-0071]
 
 ---
 
@@ -39,6 +39,6 @@ Gordon et al. (2008) treated vitamin D-deficient adolescents with 2,000 IU daily
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]]
+- [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]

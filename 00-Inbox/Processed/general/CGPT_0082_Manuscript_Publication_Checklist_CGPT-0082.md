@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Manuscript Publication Checklist"
 date: 2025-06-07
 source: ChatGPT conversation history
-aliases: [CGPT-0082]
+aliases: CGPT-0082]
 tags: [chatgpt-archive, general]
 status: archived
 ---

@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, vitamin-d, vitamin-k2, insulin-resistance, mets, inflammation, adiponectin]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_VitD_K2_Synergy_MetS_L-001-0639]]"
+source-litnote: "[[LitNote_VitD_K2_Synergy_MetS_L-001-0639]"
 status: conscious
 ---
 
@@ -127,16 +127,16 @@ Multiple pathways addressed simultaneously
 
 ## Related
 
-- [[Vitamin_D_K2_Synergistic_Mechanism_Z-001-1234]]
-- [[Matrix_Gla_Protein_Vascular_Health_Z-001-1235]]
-- [[Osteocalcin_Metabolic_Hormone_Z-001-1236]]
+- [[Vitamin_D_K2_Synergistic_Mechanism_Z-001-1234]
+- [[Matrix_Gla_Protein_Vascular_Health_Z-001-1235]
+- [[Osteocalcin_Metabolic_Hormone_Z-001-1236]
 
 ---
 
-*Source: [[LitNote_VitD_K2_Synergy_MetS_L-001-0639]] | 2026-03-09*
+*Source: [[LitNote_VitD_K2_Synergy_MetS_L-001-0639] | 2026-03-09*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

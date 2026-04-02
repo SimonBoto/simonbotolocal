@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "zhao et al genomics"
 date: 2023-10-14
 source: ChatGPT conversation history
-aliases: [CGPT-0543]
+aliases: CGPT-0543]
 tags: [chatgpt-archive, general]
 status: archived
 ---

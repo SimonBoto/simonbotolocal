@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mma, methylmalonic-acid, sensitive, b12]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]]
+source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]
 extraction-date: 2026-03-01
 ---
 
@@ -50,10 +50,10 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_B12_Clinical_Assessment_L-001-0408]]*
+*Source: [[LitNote_B12_Clinical_Assessment_L-001-0408]*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]|Z-001-0441]]
+- [[Clinical_Assessment_B12_Status_MMA_Z-001-0441]|Z-001-0441]

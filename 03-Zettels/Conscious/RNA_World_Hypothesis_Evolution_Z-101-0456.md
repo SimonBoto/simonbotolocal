@@ -8,7 +8,7 @@ tags: [zettel, rna-world, evolution, ribozymes, prebiotic, genetic-material]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-101-0045B]]
+source: [[L-101-0045B]
 ---
 
 # RNA World Hypothesis
@@ -49,9 +49,9 @@ Early life relied on **RNA as both genetic material AND catalyst** (ribozymes), 
 - DNA/protein takeover: Gradual transition
 
 ## Related
-- _Z-101-0454]] HCN Polymerization (adenine source)
-- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]] Meteoritic Nucleobases
-- [[Ribose_Structure_RNA_Backbone_Z-001-0458]] Ribose Biosynthesis (RNA backbone)
+- _Z-101-0454] HCN Polymerization (adenine source)
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455] Meteoritic Nucleobases
+- [[Ribose_Structure_RNA_Backbone_Z-001-0458] Ribose Biosynthesis (RNA backbone)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

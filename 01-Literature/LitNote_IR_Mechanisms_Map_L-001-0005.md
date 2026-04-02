@@ -28,27 +28,27 @@ extraction-date: 2026-02-24
 > "Insulin resistance is not a disease. It's an adaptive response gone chronic."
 
 **Zettels extracted:**
-- [[Lipotoxicity_Pathway_IR_Z-001-0029.md]] — Lipotoxicity Pathway
-- [[Mitochondrial_Dysfunction_IR_Z-001-0030.md]] — Mitochondrial Dysfunction
-- [[Inflammatory_Signaling_IR_Z-001-0031.md]] — Inflammatory Signaling
-- [[Gut_Derived_Mechanisms_IR_Z-001-0032.md]] — Gut-Derived Mechanisms
-- [[ER_Stress_UPR_IR_Z-001-0033.md]] — ER Stress and UPR
+- [[Lipotoxicity_Pathway_IR_Z-001-0029.md] — Lipotoxicity Pathway
+- [[Mitochondrial_Dysfunction_IR_Z-001-0030.md] — Mitochondrial Dysfunction
+- [[Inflammatory_Signaling_IR_Z-001-0031.md] — Inflammatory Signaling
+- [[Gut_Derived_Mechanisms_IR_Z-001-0032.md] — Gut-Derived Mechanisms
+- [[ER_Stress_UPR_IR_Z-001-0033.md] — ER Stress and UPR
 
 ### 2. Three Clinical Stages
 > "The question: What converts acute → chronic?"
 
 **Zettels extracted:**
-- [[Compensatory_IR_Stage_Z-001-0034.md]] — Compensatory IR (Stage 1)
-- [[Beta_Cell_Exhaustion_Stage_Z-001-0035.md]] — Beta-Cell Exhaustion (Stage 2)
-- [[Overt_Diabetes_Stage_Z-001-0036.md]] — Overt Diabetes (Stage 3)
+- [[Compensatory_IR_Stage_Z-001-0034.md] — Compensatory IR (Stage 1)
+- [[Beta_Cell_Exhaustion_Stage_Z-001-0035.md] — Beta-Cell Exhaustion (Stage 2)
+- [[Overt_Diabetes_Stage_Z-001-0036.md] — Overt Diabetes (Stage 3)
 
 ### 3. Three Vicious Cycles
 > "Acute IR: Protective. Chronic IR: Pathological."
 
 **Zettels extracted:**
-- [[Vicious_Cycle_IR_Obesity_Z-001-0037.md]] — IR → Obesity → IR
-- [[Vicious_Cycle_Inflammation_IR_Z-001-0038.md]] — Inflammation → IR → Inflammation
-- [[Vicious_Cycle_Stress_IR_Z-001-0039.md]] — Stress → Cortisol → IR → Stress
+- [[Vicious_Cycle_IR_Obesity_Z-001-0037.md] — IR → Obesity → IR
+- [[Vicious_Cycle_Inflammation_IR_Z-001-0038.md] — Inflammation → IR → Inflammation
+- [[Vicious_Cycle_Stress_IR_Z-001-0039.md] — Stress → Cortisol → IR → Stress
 
 ---
 
@@ -84,17 +84,17 @@ extraction-date: 2026-02-24
 
 ## Zettels Created from This Source
 
-1. [[Lipotoxicity_Pathway_IR_Z-001-0029.md]] — Lipotoxicity Pathway in IR
-2. [[Mitochondrial_Dysfunction_IR_Z-001-0030.md]] — Mitochondrial Dysfunction in IR
-3. [[Inflammatory_Signaling_IR_Z-001-0031.md]] — Inflammatory Signaling in IR
-4. [[Gut_Derived_Mechanisms_IR_Z-001-0032.md]] — Gut-Derived Mechanisms in IR
-5. [[ER_Stress_UPR_IR_Z-001-0033.md]] — ER Stress and UPR in IR
-6. [[Compensatory_IR_Stage_Z-001-0034.md]] — Compensatory IR Stage
-7. [[Beta_Cell_Exhaustion_Stage_Z-001-0035.md]] — Beta-Cell Exhaustion Stage
-8. [[Overt_Diabetes_Stage_Z-001-0036.md]] — Overt Diabetes Stage
-9. [[Vicious_Cycle_IR_Obesity_Z-001-0037.md]] — Vicious Cycle: IR → Obesity → IR
-10. [[Vicious_Cycle_Inflammation_IR_Z-001-0038.md]] — Vicious Cycle: Inflammation → IR
-11. [[Vicious_Cycle_Stress_IR_Z-001-0039.md]] — Vicious Cycle: Stress → IR
+1. [[Lipotoxicity_Pathway_IR_Z-001-0029.md] — Lipotoxicity Pathway in IR
+2. [[Mitochondrial_Dysfunction_IR_Z-001-0030.md] — Mitochondrial Dysfunction in IR
+3. [[Inflammatory_Signaling_IR_Z-001-0031.md] — Inflammatory Signaling in IR
+4. [[Gut_Derived_Mechanisms_IR_Z-001-0032.md] — Gut-Derived Mechanisms in IR
+5. [[ER_Stress_UPR_IR_Z-001-0033.md] — ER Stress and UPR in IR
+6. [[Compensatory_IR_Stage_Z-001-0034.md] — Compensatory IR Stage
+7. [[Beta_Cell_Exhaustion_Stage_Z-001-0035.md] — Beta-Cell Exhaustion Stage
+8. [[Overt_Diabetes_Stage_Z-001-0036.md] — Overt Diabetes Stage
+9. [[Vicious_Cycle_IR_Obesity_Z-001-0037.md] — Vicious Cycle: IR → Obesity → IR
+10. [[Vicious_Cycle_Inflammation_IR_Z-001-0038.md] — Vicious Cycle: Inflammation → IR
+11. [[Vicious_Cycle_Stress_IR_Z-001-0039.md] — Vicious Cycle: Stress → IR
 
 **Total: 11 zettels**
 
@@ -102,7 +102,7 @@ extraction-date: 2026-02-24
 
 ## Related References
 -  — Reaven 1988 Banting Lecture — Historical   
-- [[METHAP_Biomarker_Panel_Z-001-0045.md]] — METHAP Panel — Applies this framework
+- [[METHAP_Biomarker_Panel_Z-001-0045.md] — METHAP Panel — Applies this framework
 
 ---
 

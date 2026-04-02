@@ -37,8 +37,8 @@ Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR),
 
 ## Links
 
-- **Mechanism:** [[IRS_Serine_Phosphorylation_Causes_IR_Z-001-0008]] — JNK → IRS serine-P
-- **Parallel:** [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013]] — Nutrient excess mechanism
+- **Mechanism:** [[IRS_Serine_Phosphorylation_Causes_IR_Z-001-0008] — JNK → IRS serine-P
+- **Parallel:** [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013] — Nutrient excess mechanism
 
 ## Context
 
@@ -48,7 +48,7 @@ Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR),
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

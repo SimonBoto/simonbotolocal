@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, methylmalonyl-coa-mutase, b12, radical, mechanism]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]
+source-litnote: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]
 extraction-date: 2026-03-01
 ---
 
@@ -53,34 +53,34 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 
 ---
 
-*Source: _L-001-0405]]*
+*Source: _L-001-0405]*
 
 
 ## Related
-- [[Vitamin_B12_Cofactor_Enzymes_Z-001-0402]|Z-001-0402]]
+- [[Vitamin_B12_Cofactor_Enzymes_Z-001-0402]|Z-001-0402]
 
 
 ## Related
-- [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]|Z-001-0225]]
+- [[Vitamin_D_Lipid_Metabolism_HDL_Triglycerides_Z-001-0225]|Z-001-0225]
 
 
 ## Related
-- [[Treatment_Response_Diagnostic_Test_Z-001-0425]|Z-001-0425]]
+- [[Treatment_Response_Diagnostic_Test_Z-001-0425]|Z-001-0425]
 
 
 ## Related
-- [[Aconitase_Catalytic_Mechanism_Z-001-0541]|Z-001-0541]]
+- [[Aconitase_Catalytic_Mechanism_Z-001-0541]|Z-001-0541]
 
 
 ## Related
-- [[B12_Requirements_Supplementation_Z-001-0442]|Z-001-0442]]
+- [[B12_Requirements_Supplementation_Z-001-0442]|Z-001-0442]
 
 
 ## Related
-- [[Hematological_Overlap_B12_MM_Z-001-0420]|Z-001-0420]]
+- [[Hematological_Overlap_B12_MM_Z-001-0420]|Z-001-0420]
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[B12_METHAP_Protocol_Integration_Z-001-0443]|Z-001-0443]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[B12_METHAP_Protocol_Integration_Z-001-0443]|Z-001-0443]

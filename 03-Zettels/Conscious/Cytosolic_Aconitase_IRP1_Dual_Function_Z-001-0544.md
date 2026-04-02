@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, irp1, iron-regulatory-protein, aco1, dual-function]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]]
+source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]
 extraction-date: 2026-03-01
 ---
 
@@ -49,12 +49,12 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Aconitase_Enzyme_L-001-0508]]*
+*Source: [[LitNote_Aconitase_Enzyme_L-001-0508]*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[IRP1_Iron_Sensing_Molecular_Switch_Z-001-1205]|Z-001-1205]]
+- [[IRP1_Iron_Sensing_Molecular_Switch_Z-001-1205]|Z-001-1205]

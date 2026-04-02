@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Compliance and Approval Process"
 date: 2024-06-09
 source: ChatGPT conversation history
-aliases: [CGPT-0359]
+aliases: CGPT-0359]
 tags: [chatgpt-archive, clinical, phd_research, philosophy, personal_development]
 status: archived
 ---

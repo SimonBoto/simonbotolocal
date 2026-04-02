@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Earth Axis Movements"
 date: 2024-12-05
 source: ChatGPT conversation history
-aliases: [CGPT-0231]
+aliases: CGPT-0231]
 tags: [chatgpt-archive, general]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Morning Greeting: English Translation"
 date: 2024-04-25
 source: ChatGPT conversation history
-aliases: [CGPT-0406]
+aliases: CGPT-0406]
 tags: [chatgpt-archive, greek_language, personal_development]
 status: archived
 ---

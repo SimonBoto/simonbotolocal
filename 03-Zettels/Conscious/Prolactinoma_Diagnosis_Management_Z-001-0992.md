@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, prolactinoma, hyperprolactinemia, pituitary-adenoma, hypogonadism, galactorrhea, dopamine-agonists, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Male_Hormone_Assessment_Scenarios_L-001-0578]]
+source-litnote: [[LitNote_Male_Hormone_Assessment_Scenarios_L-001-0578]
 status: conscious
 ---
 
@@ -272,12 +272,12 @@ Hypogonadism + Infertility
 
 ---
 
-**Related:** [[Primary_Secondary_Hypogonadism_Z-001-0991]] | [[Erectile_Dysfunction_Hormonal_Workup_Z-001-0994]] | [[Pituitary_Macroadenoma_Mass_Effects_Z-001-0015]]
+**Related:** [[Primary_Secondary_Hypogonadism_Z-001-0991] | [[Erectile_Dysfunction_Hormonal_Workup_Z-001-0994] | [[Pituitary_Macroadenoma_Mass_Effects_Z-001-0015]
 
 **Source:** CGPT-0438 — Hormone Scenarios
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

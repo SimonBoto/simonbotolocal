@@ -7,7 +7,7 @@ domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, international, wma]
 parent-moc: 
-source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]]"
+source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]"
 confidence: high
 created: 2026-03-27
 ---
@@ -69,8 +69,8 @@ METHAP must adhere to Helsinki principles:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]]  
-**Related:** [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]] — Predecessor code
+**Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]  
+**Related:** [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608] — Predecessor code
 
 ---
 

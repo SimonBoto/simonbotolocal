@@ -7,8 +7,8 @@ domain: 001
 domain-name: Methylation
 tags: [zettel, folate, b12, methylation, homocysteine]
 parent-moc: 
-source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
-source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
+source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
+source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
 confidence: high
 created: 2026-03-08
 ---
@@ -79,7 +79,7 @@ SAH → Homocysteine
 | Betaine | TMG (trimethylglycine) | 500-3000 mg |
 
 ## Related
-- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]
 - 
 
 ---
@@ -87,6 +87,6 @@ SAH → Homocysteine
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 - 

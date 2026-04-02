@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "New Character Options"
 date: 2026-01-14
 source: ChatGPT conversation history
-aliases: [CGPT-0016]
+aliases: CGPT-0016]
 tags: [chatgpt-archive, vitamin_d, clinical, phd_research]
 status: archived
 ---

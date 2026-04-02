@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "What is procrastination"
 date: 2025-12-06
 source: ChatGPT conversation history
-aliases: [CGPT-0025]
+aliases: CGPT-0025]
 tags: [chatgpt-archive, nutrition, personal_development]
 status: archived
 ---

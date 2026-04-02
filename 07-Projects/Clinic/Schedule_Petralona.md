@@ -6,7 +6,7 @@ folder: Operations
 title: "Clinic Schedule — Petralona"
 date: 2026-04-02
 tags: [clinic, schedule, petralona, operations]
-parent-index: [[01-CLINIC/00-INDEX]]
+parent-index: [[01-CLINIC/00-INDEX]
 ---
 
 # 🗓️ Clinic Schedule — Petralona

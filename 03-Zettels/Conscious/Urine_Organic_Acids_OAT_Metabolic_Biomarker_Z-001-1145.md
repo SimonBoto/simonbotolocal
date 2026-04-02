@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, urine, organic-acids, oat, biomarker, insulin-resistance]
 parent-moc: 
-source-litnote: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]]
-source: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]]
+source-litnote: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
+source: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
 confidence: high
 created: 2026-03-08
 ---
@@ -105,17 +105,17 @@ Urine organic acids testing (OAT) provides a comprehensive metabolic snapshot by
 | **Standardization needed** | Reference ranges for IR specific |
 
 ## Related
-- [[Plasma_Total_Fatty_Acids_TFA_Profile_Z-001-1146]]
-- [[Clinical_Metabolic_Markers_HOMA_IR_HbA1c_Z-001-1147]]
-- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
-- -Analysis]]
+- [[Plasma_Total_Fatty_Acids_TFA_Profile_Z-001-1146]
+- [[Clinical_Metabolic_Markers_HOMA_IR_HbA1c_Z-001-1147]
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]
+- -Analysis]
 
 ---
 *Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

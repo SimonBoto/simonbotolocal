@@ -7,8 +7,8 @@ domain: 001
 domain-name: Amino Acid Metabolism
 tags: [zettel, amino-acids, krebs, entry-points, metabolism]
 parent-moc: 
-source-litnote: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
-source: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]
+source-litnote: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]
+source: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]
 confidence: high
 created: 2026-03-08
 ---
@@ -103,8 +103,8 @@ CARBON SKELETONS
 | **Iron** | Oxidative enzymes (Tyr, Phe) |
 
 ## Related
-- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]]
-- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]]
+- [[Alpha_Keto_Acids_Transamination_Intermediates_Z-001-1099]
+- [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]
 - 
 
 ---
@@ -112,5 +112,5 @@ CARBON SKELETONS
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Smartphone Data Transfer Guide"
 date: 2025-01-16
 source: ChatGPT conversation history
-aliases: [CGPT-0186]
+aliases: CGPT-0186]
 tags: [chatgpt-archive, general]
 status: archived
 ---

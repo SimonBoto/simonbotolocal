@@ -101,11 +101,11 @@ Take 1 capsule daily with water or as directed by your physician.
 | 1 | €0.73 | ~493 mg | Standard dose |
 
 ## Biomarker Links
-- [[Glucose_Blood_Sugar_Energy_Z-005-0001]] — fasting glucose target
-- [[HbA1c_Glycated_Hemoglobin_Z-005-0003]] — 3-month glucose average
-- [[Insulin_Fasting_Pancreatic_Hormone_Z-005-0002]] — insulin sensitivity marker
-- [[HOMA-IR_Insulin_Resistance_Index_Z-005-0004]] — insulin resistance calculation
-- [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001]] — berberine lowers LDL
+- [[Glucose_Blood_Sugar_Energy_Z-005-0001] — fasting glucose target
+- [[HbA1c_Glycated_Hemoglobin_Z-005-0003] — 3-month glucose average
+- [[Insulin_Fasting_Pancreatic_Hormone_Z-005-0002] — insulin sensitivity marker
+- [[HOMA-IR_Insulin_Resistance_Index_Z-005-0004] — insulin resistance calculation
+- [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001] — berberine lowers LDL
 
 ## Comparison with Meetab Metabolic Products
 | Feature | Berberine Complex (ND) | My Shape (Meetab) |

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "IV Vitamin Suppliers Europe"
 date: 2025-05-18
 source: ChatGPT conversation history
-aliases: [CGPT-0093]
+aliases: CGPT-0093]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

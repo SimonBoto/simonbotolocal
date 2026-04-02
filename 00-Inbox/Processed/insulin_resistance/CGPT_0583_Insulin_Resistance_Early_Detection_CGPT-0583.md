@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Insulin Resistance & Early Detection"
 date: 2023-09-02
 source: ChatGPT conversation history
-aliases: [CGPT-0583]
+aliases: CGPT-0583]
 tags: [chatgpt-archive, insulin_resistance, nutrition]
 status: archived
 ---

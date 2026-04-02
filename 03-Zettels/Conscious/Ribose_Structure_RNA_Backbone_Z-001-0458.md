@@ -8,7 +8,7 @@ tags: [zettel, ribose, pentose, rna, nucleotides, structure]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045C]]
+source: [[L-001-0045C]
 ---
 
 # Ribose Structure and Biological Roles
@@ -48,17 +48,17 @@ All contain ribose:
 Primarily via **Pentose Phosphate Pathway** (not directly from glucose).
 
 ## Related
-- [[PPP_Oxidative_Phase_Z-001-0457]] PPP Oxidative Phase (ribose source)
-- [[ATP_Universal_Energy_Currency_Z-101-0451]] ATP Structure (contains ribose)
-- _Z-101-0456]] RNA World Hypothesis
+- [[PPP_Oxidative_Phase_Z-001-0457] PPP Oxidative Phase (ribose source)
+- [[ATP_Universal_Energy_Currency_Z-101-0451] ATP Structure (contains ribose)
+- _Z-101-0456] RNA World Hypothesis
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## Related
-- _Report_Structure_Standards_Z-001-1073]|Z-001-1073]]
+- _Report_Structure_Standards_Z-001-1073]|Z-001-1073]
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

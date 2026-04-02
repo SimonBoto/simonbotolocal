@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Personalized Metabolomics-Based Diet."
 date: 2024-03-31
 source: ChatGPT conversation history
-aliases: [CGPT-0439]
+aliases: CGPT-0439]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition, personal_development]
 status: archived
 ---

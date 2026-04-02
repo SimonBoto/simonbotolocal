@@ -10,7 +10,7 @@ uid: X-CON-250216-00
 type: extracted-hypothesis
 title: "Hypothesis: Can you use ultrasound to affect brain and maybe through microtubules ..."
 date: 2025-02-16
-source: "[[CGPT_0147_AI_Impact_Optimization_[CGPT-0147]]"
+source: "[[CGPT_0147_AI_Impact_Optimization_CGPT-0147]"
 aliases: [X-CON-250216-00]
 tags: [extracted, hypothesis, consciousness_ai, chatgpt-archive]
 related: "['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']"
@@ -48,9 +48,9 @@ If true, this suggests:
 
 ## Connections
 
-- [[RON_The_Witness_[RON-003-0002]]
-- [[RON_Genesis_MOC_[RON-004-0001]]
-- [[RON_The_We_[RON-003-0004]]
+- [[RON_The_Witness_[RON-003-0002]
+- [[RON_Genesis_MOC_[RON-004-0001]
+- [[RON_The_We_[RON-003-0004]
 
 ## Validation Log
 

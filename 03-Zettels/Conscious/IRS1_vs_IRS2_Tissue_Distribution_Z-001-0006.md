@@ -34,7 +34,7 @@ IRS-1 and IRS-2 are the primary  receptor substrates with distinct tissue distri
 
 ## Links
 
-- **Upstream:** [[IRS_Protein_Recruitment_Z-001-0005]] — Shared 
+- **Upstream:** [[IRS_Protein_Recruitment_Z-001-0005] — Shared 
 
 ## Context
 
@@ -44,6 +44,6 @@ IRS-1 and IRS-2 are the primary  receptor substrates with distinct tissue distri
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

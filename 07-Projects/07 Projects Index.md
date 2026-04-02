@@ -18,25 +18,25 @@ status: active
 
 | Domain | Folder | Status | Priority |
 |--------|--------|--------|----------|
-| **🏥 Clinic** | [[Clinic Index]] | ✅ Operational | P1 |
-| **🔬 PhD** | [[PhD Index]] | ⏸️ Blocked | P0 (when unblocked) |
-| **🎯 Personal** | [[Personal Index]] | ⏸️ On hold | P2 |
+| **🏥 Clinic** | [[Clinic Index] | ✅ Operational | P1 |
+| **🔬 PhD** | [[PhD Index] | ⏸️ Blocked | P0 (when unblocked) |
+| **🎯 Personal** | [[Personal Index] | ⏸️ On hold | P2 |
 
 ---
 
 ## 🗂️ ALL PROJECT NOTES
 
 ### Clinic
-- [[Clinic Index]] — Clinic operations hub
-- [[Clinic/Appointment_Types]] — 7 appointment types
-- [[Clinic/Schedule_Petralona]] — Weekly schedule
+- [[Clinic Index] — Clinic operations hub
+- [[Clinic/Appointment_Types] — 7 appointment types
+- [[Clinic/Schedule_Petralona] — Weekly schedule
 
 ### PhD
-- [[PhD Index]] — PhD project hub
-- [[PhD/Research_Agenda]] — 62 hypotheses prioritized
+- [[PhD Index] — PhD project hub
+- [[PhD/Research_Agenda] — 62 hypotheses prioritized
 
 ### Personal
-- [[Personal Index]] — Personal projects hub
+- [[Personal Index] — Personal projects hub
 
 ---
 
@@ -73,9 +73,9 @@ status: active
 
 ## CONNECTION TO VAULT
 
-- Up: [[08 Structure Index]]
-- Down: [[Clinic Index]], [[PhD Index]], [[Personal Index]]
-- Archive: [[09 Archive Index]]
+- Up: [[08 Structure Index]
+- Down: [[Clinic Index], [[PhD Index], [[Personal Index]
+- Archive: [[09 Archive Index]
 
 ---
 

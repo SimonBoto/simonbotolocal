@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, informed-consent, disclosure, comprehension, voluntariness, 45-cfr-46, elements, documentation, waiver, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]]
+source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]
 status: conscious
 ---
 
@@ -351,10 +351,10 @@ Informed consent is the process by which potential participants learn about a  s
 
 ---
 
-**Related:** [[Seven_Requirements_Ethical_Research_Z-001-1002]] | [[IRB_Ethics_Committee_Functions_Z-001-1004]] | [[Vulnerable_Populations_Research_Protections_Z-001-1007]]
+**Related:** [[Seven_Requirements_Ethical_Research_Z-001-1002] | [[IRB_Ethics_Committee_Functions_Z-001-1004] | [[Vulnerable_Populations_Research_Protections_Z-001-1007]
 
 **Source:** CGPT-0131 — Medical Ethics Assistance
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

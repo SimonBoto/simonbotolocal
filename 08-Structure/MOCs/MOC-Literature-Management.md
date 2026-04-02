@@ -13,6 +13,6 @@ confidence: high
 
 **Refs Subfolder**: `LIST FROM "77-Archive/Legacy_20260222/Refs-Legacy/Refs"`
 
-**Key Topirs]] |  |  | 
+**Key Topirs] |  |  | 
 
 **Next**: Dataview queries + atomic links.

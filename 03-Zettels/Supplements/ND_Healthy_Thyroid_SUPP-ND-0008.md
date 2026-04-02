@@ -111,11 +111,11 @@ Take 2 capsules daily or as directed by your physician.
 | 2 capsules | €1.33 | Standard dose |
 
 ## Biomarker Links
-- [[TSH_Thyroid_Stimulating_Hormone_Z-010-0001]] — primary thyroid screening
-- [[Free_T3_Triiodothyronine_Active_Hormone_Z-010-0003]] — active hormone status
-- [[Free_T4_Thyroxine_Prohormone_Z-010-0002]] — prohormone level
-- [[Anti-TPO_Thyroid_Peroxidase_Antibodies_Z-010-0004]] — autoimmune marker
-- [[Selenium_Essential_Trace_Element_Z-007-0010]] — thyroid conversion cofactor
+- [[TSH_Thyroid_Stimulating_Hormone_Z-010-0001] — primary thyroid screening
+- [[Free_T3_Triiodothyronine_Active_Hormone_Z-010-0003] — active hormone status
+- [[Free_T4_Thyroxine_Prohormone_Z-010-0002] — prohormone level
+- [[Anti-TPO_Thyroid_Peroxidase_Antibodies_Z-010-0004] — autoimmune marker
+- [[Selenium_Essential_Trace_Element_Z-007-0010] — thyroid conversion cofactor
 
 ## Comparison with Meetab Thyroid-Related Products
 | Feature | Healthy Thyroid (ND) | My Antistress (Meetab) |

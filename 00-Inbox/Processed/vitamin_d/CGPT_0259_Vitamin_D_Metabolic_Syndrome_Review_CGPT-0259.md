@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Vitamin D Metabolic Syndrome Review"
 date: 2024-11-03
 source: ChatGPT conversation history
-aliases: [CGPT-0259]
+aliases: CGPT-0259]
 tags: [chatgpt-archive, vitamin_d, clinical, nutrition]
 status: archived
 ---

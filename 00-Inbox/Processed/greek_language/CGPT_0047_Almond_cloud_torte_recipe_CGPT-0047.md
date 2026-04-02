@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Almond cloud torte recipe"
 date: 2025-10-18
 source: ChatGPT conversation history
-aliases: [CGPT-0047]
+aliases: CGPT-0047]
 tags: [chatgpt-archive, greek_language, nutrition]
 status: archived
 ---

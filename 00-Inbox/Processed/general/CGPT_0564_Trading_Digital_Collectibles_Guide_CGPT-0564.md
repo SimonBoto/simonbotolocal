@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Trading Digital Collectibles Guide"
 date: 2023-09-16
 source: ChatGPT conversation history
-aliases: [CGPT-0564]
+aliases: CGPT-0564]
 tags: [chatgpt-archive, general]
 status: archived
 ---

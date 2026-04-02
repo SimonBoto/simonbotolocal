@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Bodies Timeline Explanation"
 date: 2025-01-16
 source: ChatGPT conversation history
-aliases: [CGPT-0187]
+aliases: CGPT-0187]
 tags: [chatgpt-archive, general]
 status: archived
 ---

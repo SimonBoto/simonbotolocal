@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, magnesium, mitochondria, ATP, energy, metabolism]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]
+source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]
 extraction-date: 2026-03-01
 ---
 
@@ -74,11 +74,11 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]*  
+*Source: [[LitNote_Magnesium_Biochemistry_L-001-0201a]*  
 *Extracted: 2026-03-01*
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

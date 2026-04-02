@@ -61,9 +61,9 @@ tags: [reference, insulin-resistance, me
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046]] — Foundational IR mechanisms
-- [[GSK3_Inhibition_Glycogen_Synthesis_Z-001-0012]] — Lipid-induced insulin resistance
-- [[Insulin_Receptor_Structure_Z-001-0001]] — Core IR pathway
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046] — Foundational IR mechanisms
+- [[GSK3_Inhibition_Glycogen_Synthesis_Z-001-0012] — Lipid-induced insulin resistance
+- [[Insulin_Receptor_Structure_Z-001-0001] — Core IR pathway
 
 ---
 

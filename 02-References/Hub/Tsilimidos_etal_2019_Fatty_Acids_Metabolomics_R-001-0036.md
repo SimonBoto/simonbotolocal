@@ -56,7 +56,7 @@ tags: [reference, fatty-aci
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]] — FA metabolomics
+- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564] — FA metabolomics
 
 ---
 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Optimizing Metabolomics Workflow"
 date: 2025-01-23
 source: ChatGPT conversation history
-aliases: [CGPT-0178]
+aliases: CGPT-0178]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition]
 status: archived
 ---

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, ebm, lessons, rigor, consensus]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]]
+source-litnote: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]
 extraction-date: 2026-03-01
 ---
 
@@ -71,10 +71,10 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]]*
+*Source: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]*
 
 
 ## RELATED FILES
 - 
-- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]]
-- _Gaps_Z-001-0111]|Z-001-0111]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
+- _Gaps_Z-001-0111]|Z-001-0111]

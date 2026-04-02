@@ -7,7 +7,7 @@ domain: 001
 domain-name: Lipid Metabolism
 tags: [zettel, mevalonate-pathway, cholesterol, hmg-coa, acetyl-coa, biochemistry, enzymes]
 parent-moc: 
-source: "[[LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518]]"
+source: "[[LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518]"
 confidence: high
 created: 2026-03-03
 ---
@@ -158,10 +158,10 @@ Once IPP is formed, it can become:
 
 ## Related Zettels
 
-- [[HMG_CoA_Reductase_Regulation_Z-001-0567]] — Regulatory mechanisms
-- [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]] — Energy requirements
-- [[Isoprenoids_Terpenes_Overview_Z-001-0569]] — IPP products
-- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]] — CoQ10 from IPP
+- [[HMG_CoA_Reductase_Regulation_Z-001-0567] — Regulatory mechanisms
+- [[Mevalonate_Pathway_Energy_Cost_Z-001-0568] — Energy requirements
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569] — IPP products
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571] — CoQ10 from IPP
 
 ---
 
@@ -174,5 +174,5 @@ Once IPP is formed, it can become:
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

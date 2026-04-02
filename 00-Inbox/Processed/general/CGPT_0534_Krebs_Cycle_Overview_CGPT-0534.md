@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Krebs Cycle Overview"
 date: 2023-11-11
 source: ChatGPT conversation history
-aliases: [CGPT-0534]
+aliases: CGPT-0534]
 tags: [chatgpt-archive, general]
 status: archived
 ---

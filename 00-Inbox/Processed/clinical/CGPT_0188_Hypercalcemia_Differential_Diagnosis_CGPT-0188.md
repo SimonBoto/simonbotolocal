@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Hypercalcemia Differential Diagnosis"
 date: 2025-01-16
 source: ChatGPT conversation history
-aliases: [CGPT-0188]
+aliases: CGPT-0188]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

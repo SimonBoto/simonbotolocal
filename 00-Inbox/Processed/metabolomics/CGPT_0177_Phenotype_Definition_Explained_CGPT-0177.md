@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Phenotype Definition Explained"
 date: 2025-01-24
 source: ChatGPT conversation history
-aliases: [CGPT-0177]
+aliases: CGPT-0177]
 tags: [chatgpt-archive, metabolomics]
 status: archived
 ---

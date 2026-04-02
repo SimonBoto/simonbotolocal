@@ -7,8 +7,8 @@ domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, cancer, reprogramming, glycolysis, ppp]
 parent-moc: 
-source-litnote: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]]
-source: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]]
+source-litnote: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]
+source: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]
 confidence: high
 created: 2026-03-08
 ---
@@ -100,8 +100,8 @@ Pyruvate → Acetyl-CoA →  (for membranes)
 | **Redox balance** | G6PD | Block NADPH generation |
 
 ## Related
-- [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]]
-- [[Tumor_Microenvironment_Lactate_Acidification_Z-001-1119]]
+- [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]
+- [[Tumor_Microenvironment_Lactate_Acidification_Z-001-1119]
 - 
 
 ---
@@ -109,8 +109,8 @@ Pyruvate → Acetyl-CoA →  (for membranes)
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]|Z-001-1167]]
+- [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]|Z-001-1167]

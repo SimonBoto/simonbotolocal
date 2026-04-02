@@ -22,10 +22,10 @@ Common confusion:
 - “Health is just absence of disease.” (Too narrow for chronic care.)
 
 Related:
-- [[Rule_Patient_Facing_Health_Definition_Function_Vitality_Sleep_Not_Diagnosis]]
-- [[Rule_Reframing_Disease_Prognosis_In_Clinical_Consults]]
-- [[Zettel_Health_Is_A_Continuum_Not_A_Binary_State]]
-- [[Dashboard_Core_Map_20260215_069]]
+- [[Rule_Patient_Facing_Health_Definition_Function_Vitality_Sleep_Not_Diagnosis]
+- [[Rule_Reframing_Disease_Prognosis_In_Clinical_Consults]
+- [[Zettel_Health_Is_A_Continuum_Not_A_Binary_State]
+- [[Dashboard_Core_Map_20260215_069]
 
 Needs_Evidence: yes
 Promote_to_stable_when:

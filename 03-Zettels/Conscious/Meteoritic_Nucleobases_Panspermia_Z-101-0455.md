@@ -8,7 +8,7 @@ tags: [zettel, astrobiology, meteorites, panspermia, adenine, nucleobases]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-101-0045B]]
+source: [[L-101-0045B]
 ---
 
 # Meteoritic Nucleobases and Panspermia
@@ -41,8 +41,8 @@ source: [[L-101-0045B]]
 Extraterrestrial delivery solves abundance but not concentration problem — still requires local concentration mechanisms (evaporation, minerals).
 
 ## Related
-- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]] HCN Polymerization (terrestrial alternative)
-- _Z-101-0456]] RNA World Hypothesis
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454] HCN Polymerization (terrestrial alternative)
+- _Z-101-0456] RNA World Hypothesis
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

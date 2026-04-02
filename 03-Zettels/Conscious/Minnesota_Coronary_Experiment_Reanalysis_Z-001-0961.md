@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, minnesota-coronary, ramsden, omega-6, mce, unpublished-data, selection-bias, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Epidemiological_Evidence_L-001-0525]]
+source-litnote: [[LitNote_Epidemiological_Evidence_L-001-0525]
 status: conscious
 ---
 
@@ -252,12 +252,12 @@ Saturated fat ↓ (replaced by PUFA) → LDL ↓ → **No change in death**
 
 ---
 
-**Related:** [[Sydney_Diet_Heart_Study_Reanalysis_Z-001-0960]] | [[Industry_Funding_Bias_PUFA_Research_Z-001-0964]] | [[Ancel_Keys_Scientific_Legacy_Z-001-0527]]
+**Related:** [[Sydney_Diet_Heart_Study_Reanalysis_Z-001-0960] | [[Industry_Funding_Bias_PUFA_Research_Z-001-0964] | [[Ancel_Keys_Scientific_Legacy_Z-001-0527]
 
 **Source:** CGPT-0282 — Seed Oils and Chronic Diseases
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]

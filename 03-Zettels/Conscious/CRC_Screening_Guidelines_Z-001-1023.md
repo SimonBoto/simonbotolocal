@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, colorectal-cancer, screening, colonoscopy, fit, colonography, guidelines, prevention, adenoma, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]]
+source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious
 ---
 
@@ -356,11 +356,11 @@ Colorectal cancer (CRC) is the third most common cancer and second leading cause
 
 ---
 
-**Related:** [[Colorectal_Cancer_Pathophysiology_Z-001-1036]] | [[Adenomatous_Polyps_Management_Z-001-1037]] | [[Lynch_Syndrome_Screening_Z-001-1038]]
+**Related:** [[Colorectal_Cancer_Pathophysiology_Z-001-1036] | [[Adenomatous_Polyps_Management_Z-001-1037] | [[Lynch_Syndrome_Screening_Z-001-1038]
 
 **Source:** CGPT-0209 — Gastroenterology Registrar Assessment
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

@@ -5,7 +5,7 @@ title: "User Request: Summarize conversation title
 "
 date: 2023-10-22
 source: ChatGPT conversation history
-aliases: [CGPT-0540]
+aliases: CGPT-0540]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, nutrition, personal_development]
 status: archived
 ---

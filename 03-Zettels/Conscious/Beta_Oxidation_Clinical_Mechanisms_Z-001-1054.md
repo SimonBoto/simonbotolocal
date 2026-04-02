@@ -7,8 +7,8 @@ domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, beta-oxidation, fatty-acids, mitochondria]
 parent-moc: 
-source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
-source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
+source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
+source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
 confidence: high
 created: 2026-03-08
 ---
@@ -63,7 +63,7 @@ Long-chain fatty acids (>12 carbons) require:
 - ** resistance:** Improve metabolic flexibility
 
 ## Related
-- [[Carnitine_Shuttle_Fatty_Acid_Transport_Z-001-1058]]
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_Z-001-1058]
 - 
 
 ---
@@ -71,5 +71,5 @@ Long-chain fatty acids (>12 carbons) require:
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -137,10 +137,10 @@ This generates **NADPH** for:
 ### Cross-Domain Links
 | Related Marker | Connection | Clinical Implication |
 |----------------|------------|---------------------|
-| [[B-012-0005|Fumarate]] | Upstream partner | Fumarate/malate ratio indicates fumarase efficiency |
-| [[B-012-0001|Citrate]] | Cycle partner | Citrate/malate ratio reflects cycle balance |
-| [[B-005-0001|Glucose-Insulin]] | Malate shuttle active in IR | High malate may indicate glycolytic stress |
-| [[B-006-0001|Lipid Ratios]] | NADPH for fatty acid synthesis | Malate supports lipogenesis |
+| [[B-012-0005|Fumarate] | Upstream partner | Fumarate/malate ratio indicates fumarase efficiency |
+| [[B-012-0001|Citrate] | Cycle partner | Citrate/malate ratio reflects cycle balance |
+| [[B-005-0001|Glucose-Insulin] | Malate shuttle active in IR | High malate may indicate glycolytic stress |
+| [[B-006-0001|Lipid Ratios] | NADPH for fatty acid synthesis | Malate supports lipogenesis |
 
 ---
 
@@ -254,9 +254,9 @@ This generates **NADPH** for:
 ---
 
 ## Related Files
-- [[B-012-0005|Fumarate — The Fumarase Checkpoint]]
-- [[B-012-0001|Citrate — Mitochondrial Dysfunction Marker]]
-- [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition]]
+- [[B-012-0005|Fumarate — The Fumarase Checkpoint]
+- [[B-012-0001|Citrate — Mitochondrial Dysfunction Marker]
+- [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition]
 - 
 
 ---

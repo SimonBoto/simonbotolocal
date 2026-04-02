@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, systematic-review, quality-assessment, risk-of-bias, rob-2, robins-i, cochrane, grade, newcastle-ottawa, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]]
+source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]
 status: conscious
 ---
 
@@ -323,10 +323,10 @@ Quality assessment evaluates the methodological rigor of included studies. Risk 
 
 ---
 
-**Related:** [[Systematic_Search_Strategy_Z-001-0996]] | [[Screening_Protocols_Systematic_Review_Z-001-0997]] | [[Data_Extraction_Systematic_Review_Z-001-0998]] | [[Meta_Analysis_Statistics_Forest_Plots_Z-001-1000]]
+**Related:** [[Systematic_Search_Strategy_Z-001-0996] | [[Screening_Protocols_Systematic_Review_Z-001-0997] | [[Data_Extraction_Systematic_Review_Z-001-0998] | [[Meta_Analysis_Statistics_Forest_Plots_Z-001-1000]
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

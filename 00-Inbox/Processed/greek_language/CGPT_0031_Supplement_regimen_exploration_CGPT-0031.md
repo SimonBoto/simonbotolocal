@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Supplement regimen exploration"
 date: 2025-11-08
 source: ChatGPT conversation history
-aliases: [CGPT-0031]
+aliases: CGPT-0031]
 tags: [chatgpt-archive, greek_language, nutrition]
 status: archived
 ---
@@ -2798,7 +2798,7 @@ Find and Ideal one on skroutz.gr
 
 Good choice—here are **8 strong water-flosser options** from Skroutz.gr (or comparable Greek-market listings) that match the specifications we discussed. I’ll then highlight which one I’d mark as “ideal” given your narrow teeth + heavy plaque/coating profile.
 
-products{"selections":[["turn0product0","Xiaomi Water Flosser 2 EUR BHR9682EU"],["turn0product1","Waterpulse V300 Water Flosser"],["turn0product5","Waterpulse V400 Plus Water Flosser"],["turn0product9","Bitvae Water Flosser"],["turn0product3","Oral-B AquaCare 4 Oxyjet Water Flosser"],["turn0product12","Oral-B Oral Health Center Pro Series 1"],["turn0product18","Panasonic EW-DJ26-V303 Irrigator"],["turn0product19","FairyWill FW-F30 Flosser"]],"tags":["budget quick","mid-value","mid-value plus","budget ultra","premium oral-b standard","premium oral-b kit","travel brands","mid-budget specialized"]}
+products{"selections":[["turn0product0","Xiaomi Water Flosser 2 EUR BHR9682EU"],["turn0product1","Waterpulse V300 Water Flosser"],["turn0product5","Waterpulse V400 Plus Water Flosser"],["turn0product9","Bitvae Water Flosser"],["turn0product3","Oral-B AquaCare 4 Oxyjet Water Flosser"],["turn0product12","Oral-B Oral Health Center Pro Series 1"],["turn0product18","Panasonic EW-DJ26-V303 Irrigator"],["turn0product19","FairyWill FW-F30 Flosser"],"tags":["budget quick","mid-value","mid-value plus","budget ultra","premium oral-b standard","premium oral-b kit","travel brands","mid-budget specialized"]}
 
 ### Quick notes on each:
 

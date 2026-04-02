@@ -7,7 +7,7 @@ domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, metformin, AMPK, mTOR, immunometabolism, inflammation]
 parent-moc: 
-source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]]
+source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
@@ -41,9 +41,9 @@ Metformin inhibits mitochondrial Complex I, reducing ATP production and activati
 
 ## Links
 
-- **Upstream:** [[Inflammatory_Signaling_IR_Z-001-0031.md]] — Inflammatory signaling pathways
-- **Parallel:** [[Rapamycin_mTOR_Immune_Tolerance_Z-101-0003.md]] — Rapamycin also targets mTOR
-- **Downstream:** _Panel_Z-001-0045.md]] — Shared pathways in METHAP panel
+- **Upstream:** [[Inflammatory_Signaling_IR_Z-001-0031.md] — Inflammatory signaling pathways
+- **Parallel:** [[Rapamycin_mTOR_Immune_Tolerance_Z-101-0003.md] — Rapamycin also targets mTOR
+- **Downstream:** _Panel_Z-001-0045.md] — Shared pathways in METHAP panel
 
 ## Context
 
@@ -56,8 +56,8 @@ Metformin inhibits mitochondrial Complex I, reducing ATP production and activati
 *UID: Z-101-0002 | Domain: 101 | Created: 2026-02-24*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

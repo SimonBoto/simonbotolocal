@@ -38,7 +38,7 @@ source-litnote: Synthesized from clinical practice
 - Stores iron in soluble, non-toxic form
 - Prevents iron-catalyzed free radical formation
 - Releases iron on demand for:
-  - [[Hemoglobin_Oxygen_Transport_Protein_Z-001-1001]|Hemoglobin]] synthesis
+  - [[Hemoglobin_Oxygen_Transport_Protein_Z-001-1001]|Hemoglobin] synthesis
   - Myoglobin production
   - Mitochondrial enzymes (ETC complexes)
   - DNA synthesis (ribonucleotide reductase)
@@ -52,7 +52,7 @@ source-litnote: Synthesized from clinical practice
 ### Cellular Dynamics
 
 **Iron Entry:**
-Fe²⁺ → (ferroportin export) → Fe³⁺ ([[Copper_Essential_Mineral_Iron_Z-007-0007]|ceruloplasmin]] oxidation) → binds [[TIBC_Total_Iron_Binding_Capacity_Z-003-0002]|transferrin]] → cellular uptake via TfR1 → endosome acidification → Fe²⁺ release (STEAP3) → ferritin storage
+Fe²⁺ → (ferroportin export) → Fe³⁺ ([[Copper_Essential_Mineral_Iron_Z-007-0007]|ceruloplasmin] oxidation) → binds [[TIBC_Total_Iron_Binding_Capacity_Z-003-0002]|transferrin] → cellular uptake via TfR1 → endosome acidification → Fe²⁺ release (STEAP3) → ferritin storage
 
 **Iron Release:**
 Ferritin → lysosomal degradation (ferritinophagy) → Fe²⁺ release via NCOA4 → cellular use or export via ferroportin
@@ -377,13 +377,13 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Iron Studies Family Guide]]
-- [[Z-003-0002|TIBC — Total Iron Binding Capacity]]
-- [[Z-003-0003|Transferrin Saturation]]
-- [[Z-003-0004|Serum Iron]]
-- [[Z-002-0001|CRP — C-Reactive Protein]]
-- [[Z-010-0001|TSH — Thyroid Stimulating Hormone]]
-- [[B-012-0002|Isocitrate — Fe-S Cluster Marker]]
+- [[Iron_Family_[B-003-0001]|Iron Studies Family Guide]
+- [[Z-003-0002|TIBC — Total Iron Binding Capacity]
+- [[Z-003-0003|Transferrin Saturation]
+- [[Z-003-0004|Serum Iron]
+- [[Z-002-0001|CRP — C-Reactive Protein]
+- [[Z-010-0001|TSH — Thyroid Stimulating Hormone]
+- [[B-012-0002|Isocitrate — Fe-S Cluster Marker]
 
 source-litnote: Synthesized from clinical practice
 ---

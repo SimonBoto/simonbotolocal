@@ -7,7 +7,7 @@ domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, clinical-trials, emmanuel-seven]
 parent-moc: 
-source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]"
+source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]"
 confidence: high
 created: 2026-03-27
 ---
@@ -38,16 +38,16 @@ Adipic acid as an insulin resistance  satisfies this requirement:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]  
-**Related:** [[Scientific_Validity_Ethical_Requirement_Z-002-0602]] — Methodological rigor requirement
+**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]  
+**Related:** [[Scientific_Validity_Ethical_Requirement_Z-002-0602] — Methodological rigor requirement
 
 ---
 
 *UID: Z-002-0601 | Domain: 002 | Created: 2026-03-27*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

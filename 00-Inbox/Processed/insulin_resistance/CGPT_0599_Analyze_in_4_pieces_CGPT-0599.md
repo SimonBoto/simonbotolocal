@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Analyze in 4 pieces"
 date: 2023-08-21
 source: ChatGPT conversation history
-aliases: [CGPT-0599]
+aliases: CGPT-0599]
 tags: [chatgpt-archive, insulin_resistance, clinical, phd_research, nutrition]
 status: archived
 ---

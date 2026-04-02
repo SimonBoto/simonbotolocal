@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Alkaline Phosphatase Overview"
 date: 2024-06-28
 source: ChatGPT conversation history
-aliases: [CGPT-0345]
+aliases: CGPT-0345]
 tags: [chatgpt-archive, clinical, nutrition]
 status: archived
 ---

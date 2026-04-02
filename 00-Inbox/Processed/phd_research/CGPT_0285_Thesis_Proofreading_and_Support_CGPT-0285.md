@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Thesis Proofreading and Support"
 date: 2024-09-25
 source: ChatGPT conversation history
-aliases: [CGPT-0285]
+aliases: CGPT-0285]
 tags: [chatgpt-archive, phd_research]
 status: archived
 ---

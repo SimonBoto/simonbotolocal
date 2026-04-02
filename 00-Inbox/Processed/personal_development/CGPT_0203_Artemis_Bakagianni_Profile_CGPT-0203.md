@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Artemis Bakagianni Profile"
 date: 2025-01-09
 source: ChatGPT conversation history
-aliases: [CGPT-0203]
+aliases: CGPT-0203]
 tags: [chatgpt-archive, personal_development]
 status: archived
 ---

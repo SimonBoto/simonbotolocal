@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "L Reuteri Yogurt Recipe"
 date: 2024-11-25
 source: ChatGPT conversation history
-aliases: [CGPT-0240]
+aliases: CGPT-0240]
 tags: [chatgpt-archive, general]
 status: archived
 ---

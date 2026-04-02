@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Insulin Resistance Research Plan"
 date: 2024-03-03
 source: ChatGPT conversation history
-aliases: [CGPT-0477]
+aliases: CGPT-0477]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, consciousness_ai, nutrition]
 status: archived
 ---

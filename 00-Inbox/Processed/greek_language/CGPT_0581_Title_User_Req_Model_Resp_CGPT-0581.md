@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Title: User Req & Model Resp"
 date: 2023-09-03
 source: ChatGPT conversation history
-aliases: [CGPT-0581]
+aliases: CGPT-0581]
 tags: [chatgpt-archive, greek_language]
 status: archived
 ---

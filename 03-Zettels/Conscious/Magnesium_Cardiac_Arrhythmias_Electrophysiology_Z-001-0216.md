@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, magnesium, arrhythmias, electrophysiology, cardiology, emergency]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]]
+source-litnote: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]
 extraction-date: 2026-03-01
 ---
 
@@ -138,11 +138,11 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]]*  
+*Source: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]*  
 *Extracted: 2026-03-01*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
-- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]]
-- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
+- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]

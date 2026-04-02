@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Maniacal Knowledge Synthesis"
 date: 2024-12-15
 source: ChatGPT conversation history
-aliases: [CGPT-0227]
+aliases: CGPT-0227]
 tags: [chatgpt-archive, clinical, phd_research, technology]
 status: archived
 ---

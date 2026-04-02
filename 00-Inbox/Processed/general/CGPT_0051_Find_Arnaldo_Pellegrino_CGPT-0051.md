@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Find Arnaldo Pellegrino"
 date: 2025-10-07
 source: ChatGPT conversation history
-aliases: [CGPT-0051]
+aliases: CGPT-0051]
 tags: [chatgpt-archive, general]
 status: archived
 ---

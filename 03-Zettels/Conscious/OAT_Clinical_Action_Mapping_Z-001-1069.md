@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, oat, clinical, treatment]
 parent-moc: 
-source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
-source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
+source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
+source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
 confidence: high
 created: 2026-03-08
 ---
@@ -76,8 +76,8 @@ Direct translation of OAT markers to clinical interventions.
 | 6 months | Full resolution target |
 
 ## Related
-- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
-- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]
 - 
 
 ---
@@ -85,5 +85,5 @@ Direct translation of OAT markers to clinical interventions.
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

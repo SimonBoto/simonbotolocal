@@ -6,7 +6,7 @@ aliases: [Z-001-1256]
 domain: 001
 tags: [zettel, BHB, ketogenesis, HMG-CoA, beta-hydroxybutyrate, fatty-acids, palmitic-acid]
 parent-moc: ", "
-source-litnote: "[[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]"
+source-litnote: "[[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]"
 status: conscious
 ---
 
@@ -139,19 +139,19 @@ OUTPUT:
 
 ## Related Zettels
 
-- [[Z-001-1257_Ketolysis_SCOT_Mechanism]] — How tissues utilize BHB
-- [[Z-001-1258_ATP_Yield_Comparison]] — Energy efficiency of BHB vs other fuels
-- [[Z-001-1255_Insulin_Resistance_Beta_Oxidation_Block]] — Why insulin blocks ketogenesis
-- [[Z-001-1264_Type1_Diabetes_Ketogenesis]] — Uncontrolled ketogenesis in DKA
+- [[Z-001-1257_Ketolysis_SCOT_Mechanism] — How tissues utilize BHB
+- [[Z-001-1258_ATP_Yield_Comparison] — Energy efficiency of BHB vs other fuels
+- [[Z-001-1255_Insulin_Resistance_Beta_Oxidation_Block] — Why insulin blocks ketogenesis
+- [[Z-001-1264_Type1_Diabetes_Ketogenesis] — Uncontrolled ketogenesis in DKA
 
 ---
 
 ## Source
 
-Extracted from: _Deep_Dive_L-001-0655]]  
+Extracted from: _Deep_Dive_L-001-0655]  
 CGPT-0647 (April 30, 2023) — Messages 27-30
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

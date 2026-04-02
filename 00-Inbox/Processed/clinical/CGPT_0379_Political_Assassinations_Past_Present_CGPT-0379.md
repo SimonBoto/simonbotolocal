@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Political Assassinations: Past & Present"
 date: 2024-05-20
 source: ChatGPT conversation history
-aliases: [CGPT-0379]
+aliases: CGPT-0379]
 tags: [chatgpt-archive, clinical, phd_research, consciousness_ai]
 status: archived
 ---

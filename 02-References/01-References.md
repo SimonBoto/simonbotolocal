@@ -5,7 +5,7 @@ type: index
 title: "02-References — Source Management"
 aliases: [References, Sources, Bibliography]
 tags: [index, references, sources, bibliography, navigation, folder]
-parent-index: [[00-MISSION]]
+parent-index: [[00-MISSION]
 child-folders: ", , , "
 status: active
 ---
@@ -97,7 +97,7 @@ tags: [reference, topic]
 
 ← **Back to ** — Capture & Input  
 → **Next: ** — Source Processing  
-↑ **Parent: [[00-MISSION]]**
+↑ **Parent: [[00-MISSION]**
 
 **Siblings:**
  |  |  |  |  |  |  | 

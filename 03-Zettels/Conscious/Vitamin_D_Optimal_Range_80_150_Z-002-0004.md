@@ -50,11 +50,11 @@ source-litnote: Synthesized from clinical practice
 ## 🔗 Connected Systems
 
 **Insulin Resistance:**
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (VitD supplementation improves insulin sensitivity)
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md] — HOMA-IR (VitD supplementation improves insulin sensitivity)
 - Z-002-0009 (VDR → improved insulin receptor expression) — *link pending*
 
 **Methylation:**
-- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md]] — Homocysteine (VitD supports methylation via calcium signaling)
+- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md] — Homocysteine (VitD supports methylation via calcium signaling)
 
 **Protocol Components:**
 - Z-002-0006 (Dosing tiers by starting level) — *link pending*
@@ -155,7 +155,7 @@ patient_id,visit,vit_d_dose_iu_daily,vit_d_25_oh_ng_ml,vit_d_status
 *Created: 2026-02-26 | Domain: 002 | Status: Conscious*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Vatican Tour Guide"
 date: 2025-02-01
 source: ChatGPT conversation history
-aliases: [CGPT-0157]
+aliases: CGPT-0157]
 tags: [chatgpt-archive, general]
 status: archived
 ---

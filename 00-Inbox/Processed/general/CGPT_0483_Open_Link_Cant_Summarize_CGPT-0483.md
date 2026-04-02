@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Open Link? Can't. Summarize?"
 date: 2024-03-03
 source: ChatGPT conversation history
-aliases: [CGPT-0483]
+aliases: CGPT-0483]
 tags: [chatgpt-archive, general]
 status: archived
 ---

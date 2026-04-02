@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Baking Soda Production Methods"
 date: 2024-08-18
 source: ChatGPT conversation history
-aliases: [CGPT-0310]
+aliases: CGPT-0310]
 tags: [chatgpt-archive, general]
 status: archived
 ---

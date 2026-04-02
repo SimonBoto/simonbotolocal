@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Hi Hello Help Request"
 date: 2023-02-01
 source: ChatGPT conversation history
-aliases: [CGPT-0665]
+aliases: CGPT-0665]
 tags: [chatgpt-archive, insulin_resistance]
 status: archived
 ---

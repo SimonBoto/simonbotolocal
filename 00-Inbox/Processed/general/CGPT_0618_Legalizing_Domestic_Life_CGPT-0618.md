@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Legalizing Domestic Life"
 date: 2023-06-10
 source: ChatGPT conversation history
-aliases: [CGPT-0618]
+aliases: CGPT-0618]
 tags: [chatgpt-archive, general]
 status: archived
 ---

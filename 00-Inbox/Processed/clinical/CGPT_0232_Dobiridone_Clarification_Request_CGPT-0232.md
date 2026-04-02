@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Dobiridone Clarification Request"
 date: 2024-12-05
 source: ChatGPT conversation history
-aliases: [CGPT-0232]
+aliases: CGPT-0232]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

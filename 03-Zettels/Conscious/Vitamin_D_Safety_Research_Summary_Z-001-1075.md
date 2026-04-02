@@ -7,8 +7,8 @@ domain: 001
 domain-name: Vitamin D Metabolism
 tags: [zettel, vitamin-d, safety, research]
 parent-moc: 
-source-litnote: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]]
-source: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]]
+source-litnote: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]
+source: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]
 confidence: high
 created: 2026-03-08
 ---
@@ -84,7 +84,7 @@ Evidence for safety of long-term high-dose vitamin D supplementation.
 - **Monitoring:** Check 25(OH)D at 3 months
 
 ## Related
-- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]
 - -
 
 ---
@@ -92,6 +92,6 @@ Evidence for safety of long-term high-dose vitamin D supplementation.
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]]
+- [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]

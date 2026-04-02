@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Prostate Biopsy Translation"
 date: 2024-12-19
 source: ChatGPT conversation history
-aliases: [CGPT-0225]
+aliases: CGPT-0225]
 tags: [chatgpt-archive, clinical, greek_language]
 status: archived
 ---

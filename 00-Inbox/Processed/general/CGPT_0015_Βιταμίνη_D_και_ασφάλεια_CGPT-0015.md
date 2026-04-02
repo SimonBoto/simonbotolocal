@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Βιταμίνη D και ασφάλεια"
 date: 2026-01-17
 source: ChatGPT conversation history
-aliases: [CGPT-0015]
+aliases: CGPT-0015]
 tags: [chatgpt-archive, general]
 status: archived
 ---

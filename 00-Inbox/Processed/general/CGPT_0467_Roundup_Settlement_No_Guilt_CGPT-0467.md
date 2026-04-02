@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Roundup Settlement: No Guilt"
 date: 2024-03-15
 source: ChatGPT conversation history
-aliases: [CGPT-0467]
+aliases: CGPT-0467]
 tags: [chatgpt-archive, general]
 status: archived
 ---

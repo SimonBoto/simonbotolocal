@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, calcium, homeostasis, regulation, electrolytes]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]]
+source-litnote: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]
 extraction-date: 2026-03-01
 ---
 
@@ -98,9 +98,9 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]]*  
+*Source: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

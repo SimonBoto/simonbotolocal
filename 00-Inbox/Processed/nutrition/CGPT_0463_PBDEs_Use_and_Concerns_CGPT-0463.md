@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "PBDEs Use and Concerns"
 date: 2024-03-16
 source: ChatGPT conversation history
-aliases: [CGPT-0463]
+aliases: CGPT-0463]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

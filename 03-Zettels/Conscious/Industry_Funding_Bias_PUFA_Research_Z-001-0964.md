@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, industry-bias, pufa, seed-oil-industry, funding-bias, suppressed-science, research-integrity, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Epidemiological_Evidence_L-001-0525]]
+source-litnote: [[LitNote_Epidemiological_Evidence_L-001-0525]
 status: conscious
 ---
 
@@ -249,12 +249,12 @@ The seed oil story exemplifies how:
 
 ---
 
-**Related:** [[Sydney_Diet_Heart_Study_Reanalysis_Z-001-0960]] | [[Minnesota_Coronary_Experiment_Reanalysis_Z-001-0961]] | [[Ancel_Keys_Scientific_Legacy_Z-001-0527]] | [[Procter_Gamble_Crisco_Seed_Oil_Marketing_Z-001-0247]]
+**Related:** [[Sydney_Diet_Heart_Study_Reanalysis_Z-001-0960] | [[Minnesota_Coronary_Experiment_Reanalysis_Z-001-0961] | [[Ancel_Keys_Scientific_Legacy_Z-001-0527] | [[Procter_Gamble_Crisco_Seed_Oil_Marketing_Z-001-0247]
 
 **Source:** CGPT-0282 — Seed Oils and Chronic Diseases
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]

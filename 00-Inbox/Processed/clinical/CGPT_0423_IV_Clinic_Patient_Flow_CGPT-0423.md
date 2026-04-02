@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "IV Clinic Patient Flow"
 date: 2024-04-09
 source: ChatGPT conversation history
-aliases: [CGPT-0423]
+aliases: CGPT-0423]
 tags: [chatgpt-archive, clinical, technology]
 status: archived
 ---

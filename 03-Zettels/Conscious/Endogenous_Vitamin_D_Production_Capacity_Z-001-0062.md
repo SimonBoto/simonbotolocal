@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, endogenous-production, sunlight, physiology]
 parent-moc: 
-source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]
+source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -29,8 +29,8 @@ Human skin can synthesize 10,000-20,000 IU of vitamin D3 (cholecalciferol) in 15
 ## Links
 
 **Parent MOC:** -
-**Source:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]
-**Related:** [[Vitamin_D_Photodegradation_Safety_Mechanism_Z-001-0063]], [[Vitamin_D_RDA_10x_Underestimation_Z-001-0059]]
+**Source:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]
+**Related:** [[Vitamin_D_Photodegradation_Safety_Mechanism_Z-001-0063], [[Vitamin_D_RDA_10x_Underestimation_Z-001-0059]
 
 ---
 
@@ -38,4 +38,4 @@ Human skin can synthesize 10,000-20,000 IU of vitamin D3 (cholecalciferol) in 15
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -26,11 +26,11 @@ Common confusion:
 - "Calories are bad." (Calories are required; the issue is calorie surplus without sufficient functional substrates/cofactors.)
 
 Related:
-- [[111_Hub_Diet_Framework]] (why: core framing tool for diet design)
-- [[Zettel_Two_Reasons_We_Eat_Calories_And_Nutrients]] (why: nutrient density operationalizes the "nutrients" side)
-- [[Zettel_Calorie_Density_Increases_Nutrient_Density_Decreases_Modern_Food_Environment]] (why: describes the inversion)
-- [[Zettel_Modern_Malnutrition_Despite_Calorie_Abundance]] (why: clinical consequence framing)
-- [[Dictionary_Hashimoto_Thyroiditis]] (why: persistent symptoms may reflect nutrient density failure despite labs)
+- [[111_Hub_Diet_Framework] (why: core framing tool for diet design)
+- [[Zettel_Two_Reasons_We_Eat_Calories_And_Nutrients] (why: nutrient density operationalizes the "nutrients" side)
+- [[Zettel_Calorie_Density_Increases_Nutrient_Density_Decreases_Modern_Food_Environment] (why: describes the inversion)
+- [[Zettel_Modern_Malnutrition_Despite_Calorie_Abundance] (why: clinical consequence framing)
+- [[Dictionary_Hashimoto_Thyroiditis] (why: persistent symptoms may reflect nutrient density failure despite labs)
 
 Assumptions:
 - Nutrient density is used as a heuristic, not a precise biochemical score unless explicitly defined.

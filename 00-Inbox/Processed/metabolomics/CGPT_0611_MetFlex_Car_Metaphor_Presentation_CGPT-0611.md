@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "MetFlex: Car Metaphor Presentation"
 date: 2023-06-23
 source: ChatGPT conversation history
-aliases: [CGPT-0611]
+aliases: CGPT-0611]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, nutrition]
 status: archived
 ---

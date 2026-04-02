@@ -7,7 +7,7 @@ domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, immunometabolism, Warburg-effect, glycolysis, M1-macrophages, M2-macrophages]
 parent-moc: 
-source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]]
+source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]
 confidence: high
 created: 2026-02-24
 ---
@@ -38,9 +38,9 @@ Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1
 
 ## Links
 
-- **Upstream:** [[Inflammatory_Signaling_IR_Z-001-0031.md]] — Inflammatory signaling mechanisms
-- **Parallel:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002.md]] — Metformin modulates metabolism
-- **Downstream:** [[Vicious_Cycle_Inflammation_IR_Z-001-0038.md]] — Inflammation → IR vicious cycle
+- **Upstream:** [[Inflammatory_Signaling_IR_Z-001-0031.md] — Inflammatory signaling mechanisms
+- **Parallel:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002.md] — Metformin modulates metabolism
+- **Downstream:** [[Vicious_Cycle_Inflammation_IR_Z-001-0038.md] — Inflammation → IR vicious cycle
 
 ## Context
 
@@ -54,7 +54,7 @@ Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

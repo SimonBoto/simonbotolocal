@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, pharmacology, denosumab]
 parent-moc: 
-source: [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]]
+source: [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -20,8 +20,8 @@ Denosumab reduces bone resorption and calcium release from bone, creating risk o
 ## Links
 
 **Parent MOC:** 
-**Source:** _Risks_L-001-0012]]
-**Related:** [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]], [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]]
+**Source:** _Risks_L-001-0012]
+**Related:** [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085], [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]
 
 ---
 
@@ -29,6 +29,6 @@ Denosumab reduces bone resorption and calcium release from bone, creating risk o
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

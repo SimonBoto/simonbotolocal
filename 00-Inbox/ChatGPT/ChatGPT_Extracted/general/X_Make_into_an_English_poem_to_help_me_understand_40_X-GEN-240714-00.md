@@ -18,7 +18,7 @@ title: "Make into an English poem to help me understand
 
 ### 40."
 date: 2024-07-14
-source: [[CGPT_0329_User_Request_Model_Assist_[CGPT-0329]]
+source: [[CGPT_0329_User_Request_Model_Assist_CGPT-0329]]
 aliases: [X-GEN-240714-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []

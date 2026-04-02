@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, vitamin-d, insulin, glucose, insulin-resistance, beta-cells]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]]
+source-litnote: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]
 extraction-date: 2026-03-01
 ---
 
@@ -126,14 +126,14 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]]*  
-*Related: [[LitNote_IR_Mechanisms_Map_L-001-0005]]*  
-*Related: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]*  
+*Source: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]*  
+*Related: [[LitNote_IR_Mechanisms_Map_L-001-0005]*  
+*Related: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

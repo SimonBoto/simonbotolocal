@@ -163,10 +163,10 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Free_Fatty_Acids_Complete_[REF-FFA-001].md|Fatty Acids Reference]]
-- [[Z-006-0204|AA — Arachidonic Acid]]
-- [[Z-006-0102|EPA — Eicosapentaenoic Acid]]
-- [[Z-006-0401|Omega-6:3 Ratio]]
+- [[Free_Fatty_Acids_Complete_[REF-FFA-001].md|Fatty Acids Reference]
+- [[Z-006-0204|AA — Arachidonic Acid]
+- [[Z-006-0102|EPA — Eicosapentaenoic Acid]
+- [[Z-006-0401|Omega-6:3 Ratio]
 
 source-litnote: Synthesized from clinical practice
 ---

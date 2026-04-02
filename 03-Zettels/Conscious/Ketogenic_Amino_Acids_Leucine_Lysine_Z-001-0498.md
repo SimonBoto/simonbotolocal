@@ -8,7 +8,7 @@ tags: [zettel, ketogenic, leucine, lysine, hmg-coa, pure-ketogenic]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0046A]]
+source: [[L-001-0046A]
 ---
 
 # Ketogenic Amino Acids: Leucine and Lysine
@@ -87,13 +87,13 @@ Methylglutaconyl-CoA → HMG-CoA → Acetoacetate + Acetyl-CoA
 | **Inborn error** | MSUD | No common deficiency |
 
 ## Related
-- [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499]] Glucogenic vs Ketogenic Classification
-- [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]] Amino Acids to Succinyl-CoA (isoleucine, valine)
+- [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499] Glucogenic vs Ketogenic Classification
+- [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495] Amino Acids to Succinyl-CoA (isoleucine, valine)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

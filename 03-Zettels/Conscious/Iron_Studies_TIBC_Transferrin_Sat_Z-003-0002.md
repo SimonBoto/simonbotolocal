@@ -60,8 +60,8 @@ $$
 ## 🔗 Connected Systems
 
 **Iron Status:**
-- [[Ferritin_Interpretation_Iron_Status_Z-003-0001.md]] — Ferritin (stores, but confounded by inflammation)
-- [[Iron_Status_Patterns_ACD_Overload_Z-003-0013.md]] — Iron patterns (deficiency vs ACD vs overload)
+- [[Ferritin_Interpretation_Iron_Status_Z-003-0001.md] — Ferritin (stores, but confounded by inflammation)
+- [[Iron_Status_Patterns_ACD_Overload_Z-003-0013.md] — Iron patterns (deficiency vs ACD vs overload)
 - TIBC + transferrin sat clarify ferritin interpretation
 
 **Methylation:**
@@ -126,12 +126,12 @@ patient_id,visit,tibc_ug_dl,transferrin_sat_pct,iron_status_pattern
 
 ---
 
-*Source: _1979]], *
+*Source: _1979], *
 *Created: 2026-02-26 | Domain: 003 | Status: Conscious*
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- s/CRP_[B-002-0001]|Biomarker Family Guide]]
-- |Biomarkers MOC]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- s/CRP_[B-002-0001]|Biomarker Family Guide]
+- |Biomarkers MOC]
 

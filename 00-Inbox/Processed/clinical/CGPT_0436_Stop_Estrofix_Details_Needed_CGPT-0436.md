@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Stop Estrofix - Details Needed"
 date: 2024-04-03
 source: ChatGPT conversation history
-aliases: [CGPT-0436]
+aliases: CGPT-0436]
 tags: [chatgpt-archive, clinical, nutrition]
 status: archived
 ---

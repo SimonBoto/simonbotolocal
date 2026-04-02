@@ -8,7 +8,7 @@ tags: [zettel, aspartate, asparagine, oxaloacetate, transaminase, b6]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0046A]]
+source: [[L-001-0046A]
 ---
 
 # Amino Acids to Oxaloacetate and Aspartate
@@ -59,8 +59,8 @@ Aspartate → Oxaloacetate **replenishes Krebs cycle**
 - Neurological symptoms (neurotransmitter synthesis affected)
 
 ## Related
-- [[Aspartate_Simple_Structure_Central_Role_Z-001-0918]] Aspartate Simple Structure Central Role
-- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]] Oxaloacetate Dual Role
+- [[Aspartate_Simple_Structure_Central_Role_Z-001-0918] Aspartate Simple Structure Central Role
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488] Oxaloacetate Dual Role
 - 
 
 ---
@@ -68,4 +68,4 @@ Aspartate → Oxaloacetate **replenishes Krebs cycle**
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

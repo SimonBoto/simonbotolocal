@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Read word by word"
 date: 2025-11-12
 source: ChatGPT conversation history
-aliases: [CGPT-0038]
+aliases: CGPT-0038]
 tags: [chatgpt-archive, phd_research]
 status: archived
 ---

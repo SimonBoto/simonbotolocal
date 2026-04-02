@@ -56,9 +56,9 @@ source-litnote: Synthesized from clinical practice
 ## 🔗 Connected Systems
 
 **Methylation:**
-- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md]] — Homocysteine (5-MTHF is substrate for remethylation)
+- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md] — Homocysteine (5-MTHF is substrate for remethylation)
 - Z-004-0005 (MTHFR variants — impair conversion of folic acid) — *link pending*
-- [[Functional_B12_Deficiency_MMA_Assessment_Z-004-0019.md]] — Functional B12 deficiency (B12 + 5-MTHF work together)
+- [[Functional_B12_Deficiency_MMA_Assessment_Z-004-0019.md] — Functional B12 deficiency (B12 + 5-MTHF work together)
 
 **Genetics:**
 - **MTHFR C677T:** 40-50% population, ↓ enzyme activity 30-70%
@@ -142,13 +142,13 @@ patient_id,visit,rbc_folate_ng_ml,5_mthf_ng_ml,mthfr_genotype,folate_form_used
 *Created: 2026-02-26 | Domain: 004 | Status: Conscious*
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
-- [[TG_HDL_Ratio_IR_Marker_Z-001-0049]|Z-001-0049]]
-- s/Methylation_Family_[B-004-0001]|Biomarker Family Guide]]
-- |Biomarkers MOC]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+- [[TG_HDL_Ratio_IR_Marker_Z-001-0049]|Z-001-0049]
+- s/Methylation_Family_[B-004-0001]|Biomarker Family Guide]
+- |Biomarkers MOC]
 
 
 
 ## Related
-- [[Retest_Scheduling_Followup_Protocols_Z-004-0003]|Z-004-0003]]
+- [[Retest_Scheduling_Followup_Protocols_Z-004-0003]|Z-004-0003]

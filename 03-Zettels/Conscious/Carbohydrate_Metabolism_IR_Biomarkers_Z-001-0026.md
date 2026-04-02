@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, carbohydrate-metabolism, insulin-resistance, glucose, lactate, biomarkers, tier-1, conscious]
 parent-moc: 
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]]
+source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -83,12 +83,12 @@ source-litnote: Synthesized from clinical practice
 ## Connections
 
 ### Upstream
-- [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024.md]] — Diagnostic precedent
+- [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024.md] — Diagnostic precedent
 -  — IR mechanism source
 
 ### Downstream
-- [[Metabolic_Acidosis_Biomarkers_Patterns_Z-001-0028.md]] — Organic acid integration
-- [[Lipid_Metabolism_Fatty_Acid_IR_Markers_Z-001-0027.md]] — Lipid-induced IR
+- [[Metabolic_Acidosis_Biomarkers_Patterns_Z-001-0028.md] — Organic acid integration
+- [[Lipid_Metabolism_Fatty_Acid_IR_Markers_Z-001-0027.md] — Lipid-induced IR
 
 ### Cross-Domain
 -  — Trial endpoints
@@ -116,7 +116,7 @@ source-litnote: Synthesized from clinical practice
 - Reference ranges for metabolic stress grading
 
 ## See Also
-- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] — Source (Subsection 2.2)
+- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004] — Source (Subsection 2.2)
 -  — Lactate methodology
 -  — IR mechanisms
 
@@ -124,6 +124,6 @@ source-litnote: Synthesized from clinical practice
 *Confidence: High* — Established IR metabolite markers  
 *Next Review: After METHAP baseline biomarker data*
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

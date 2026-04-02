@@ -5,7 +5,7 @@ title: "Hello! How can I assist you today? If you have any questions or need inf
 "
 date: 2023-09-10
 source: ChatGPT conversation history
-aliases: [CGPT-0574]
+aliases: CGPT-0574]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, consciousness_ai, greek_language, nutrition]
 status: archived
 ---

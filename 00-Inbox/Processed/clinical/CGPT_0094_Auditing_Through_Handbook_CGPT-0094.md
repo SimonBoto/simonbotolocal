@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Auditing Through Handbook"
 date: 2025-05-11
 source: ChatGPT conversation history
-aliases: [CGPT-0094]
+aliases: CGPT-0094]
 tags: [chatgpt-archive, clinical, consciousness_ai, communication, personal_development]
 status: archived
 ---

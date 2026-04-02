@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Aluminum: A Post-Transition Metal"
 date: 2024-03-21
 source: ChatGPT conversation history
-aliases: [CGPT-0452]
+aliases: CGPT-0452]
 tags: [chatgpt-archive, insulin_resistance]
 status: archived
 ---

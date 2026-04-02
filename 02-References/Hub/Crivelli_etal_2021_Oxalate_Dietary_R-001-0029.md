@@ -56,7 +56,7 @@ tags: [reference, oxalate,
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Oxalate_Management_CKD_Z-001-0982]] — Dietary oxalate contribution
+- [[Oxalate_Management_CKD_Z-001-0982] — Dietary oxalate contribution
 
 ---
 

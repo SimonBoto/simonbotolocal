@@ -6,7 +6,7 @@ aliases: [Z-101-0469]
 domain: 101
 tags: [zettel, vitamin-c, ascorbic-acid, oxalate, metabolism, chemistry, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]]
+source-litnote: [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]
 status: conscious
 ---
 
@@ -69,15 +69,15 @@ DHA (C₆H₆O₆) → Oxalic Acid (C₂H₂O₄) + 4 carbons (lost)
 - **Adipic acid advantage:** No known conversion from vitamin C; cleaner metabolic signal
 
 ## Related
-- **Source:** [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]]
-- **Measurement issues:** [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]]
-- **DHA pathways:** _Pathways_Z-101-0471]]
-- **Oxalate chemistry:** [[Oxalic_Acid_Chemistry_Properties_Z-101-0465]]
+- **Source:** [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]
+- **Measurement issues:** [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]
+- **DHA pathways:** _Pathways_Z-101-0471]
+- **Oxalate chemistry:** [[Oxalic_Acid_Chemistry_Properties_Z-101-0465]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

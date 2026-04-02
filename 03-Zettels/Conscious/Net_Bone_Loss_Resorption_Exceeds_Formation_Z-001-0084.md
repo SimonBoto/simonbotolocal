@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, cellular-mechanisms]
 parent-moc: 
-source: [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]]
+source: [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -20,8 +20,8 @@ When osteoclastic resorption outpaces osteoblastic formation (or formation is in
 ## Links
 
 **Parent MOC:** 
-**Source:** s_L-001-0011]]
-**Related:** [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076]], [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]]
+**Source:** s_L-001-0011]
+**Related:** [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076], [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]
 
 ---
 
@@ -29,4 +29,4 @@ When osteoclastic resorption outpaces osteoblastic formation (or formation is in
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -127,10 +127,10 @@ Fumarate is an **electrophile** that can:
 ### Cross-Domain Links
 | Related Marker | Connection | Clinical Implication |
 |----------------|------------|---------------------|
-| [[B-012-0004|Succinate]] | Upstream partner | Succinate/fumarate ratio indicates SDH efficiency |
-| [[B-012-0006|Malate]] | Downstream partner | Fumarate/malate ratio indicates fumarase efficiency |
-| [[B-009-0001|Liver Function]] | Urea cycle site | Elevated fumarate + liver stress = check ammonia |
-| [[B-011-0001|Testosterone]] | NO-mediated vascular health | Fumarate supports arginine/NO pathway |
+| [[B-012-0004|Succinate] | Upstream partner | Succinate/fumarate ratio indicates SDH efficiency |
+| [[B-012-0006|Malate] | Downstream partner | Fumarate/malate ratio indicates fumarase efficiency |
+| [[B-009-0001|Liver Function] | Urea cycle site | Elevated fumarate + liver stress = check ammonia |
+| [[B-011-0001|Testosterone] | NO-mediated vascular health | Fumarate supports arginine/NO pathway |
 
 ---
 
@@ -239,10 +239,10 @@ Fumarate is an **electrophile** that can:
 ---
 
 ## Related Files
-- [[B-012-0004|Succinate — Complex II Sentinel]]
-- [[B-012-0006|Malate — Mitochondrial-Cytosol Shuttle]]
-- [[B-012-0003|α-Ketoglutarate — Nitrogen & Energy Hub]]
-- [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition]]
+- [[B-012-0004|Succinate — Complex II Sentinel]
+- [[B-012-0006|Malate — Mitochondrial-Cytosol Shuttle]
+- [[B-012-0003|α-Ketoglutarate — Nitrogen & Energy Hub]
+- [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition]
 
 ---
 *Part of OAT Metabolite Training System — Mitochondrial Markers Module*

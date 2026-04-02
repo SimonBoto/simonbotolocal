@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, meta-analysis, statistics, effect-size, heterogeneity, i2, forest-plot, fixed-effect, random-effects, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]]
+source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]
 status: conscious
 ---
 
@@ -345,11 +345,11 @@ Overall          0.81 (0.71, 0.92)      100%
 
 ---
 
-**Related:** [[Quality_Assessment_Risk_of_Bias_Z-001-0999]] | [[GRADE_Certainty_of_Evidence_Z-001-1001]] | [[PRISMA_Reporting_Guidelines_Z-001-1002]]
+**Related:** [[Quality_Assessment_Risk_of_Bias_Z-001-0999] | [[GRADE_Certainty_of_Evidence_Z-001-1001] | [[PRISMA_Reporting_Guidelines_Z-001-1002]
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

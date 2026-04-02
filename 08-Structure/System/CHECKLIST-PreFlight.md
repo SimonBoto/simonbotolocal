@@ -52,15 +52,15 @@ echo "Zettels:"; ls 03-Zettels/Conscious/*.md | grep -oE "Z-[0-9]+-[0-9]+" | sor
 **Before saving, check for:**
 ```bash
 # Malformed links (brackets inside brackets)
-grep -nE "\[\*\[|\[\][^\]]*\]\]" your_file.md
+grep -nE "\[\*\[|\[\][^\]*\]\]" your_file.md
 ```
 
 **Forbidden patterns:**
-- `[[Name_Z-001-0001]]` → Use `[[Name_Z-001-0011]]`
+- `[[Name_Z-001-0001]` → Use `[[Name_Z-001-0011]`
 
 **Quick context check:**
-- [ ] Review [[PERMANENT_QUESTIONS.md]] — any matches?
-- [ ] Check [[SYNTHESIS_TRIGGERS.md]] — pushing toward critical mass?
+- [ ] Review [[PERMANENT_QUESTIONS.md] — any matches?
+- [ ] Check [[SYNTHESIS_TRIGGERS.md] — pushing toward critical mass?
 
 ---
 

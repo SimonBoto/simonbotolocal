@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Kombucha Recipe Ingredients"
 date: 2026-01-06
 source: ChatGPT conversation history
-aliases: [CGPT-0017]
+aliases: CGPT-0017]
 tags: [chatgpt-archive, general]
 status: archived
 ---

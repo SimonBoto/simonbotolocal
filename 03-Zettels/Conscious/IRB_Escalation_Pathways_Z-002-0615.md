@@ -7,7 +7,7 @@ domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, irb, administration, escalation]
 parent-moc: 
-source-litnote: "[[LitNote_Ethics_Committee_Communication_L-002-0603]]"
+source-litnote: "[[LitNote_Ethics_Committee_Communication_L-002-0603]"
 confidence: medium
 created: 2026-03-27
 ---
@@ -84,9 +84,9 @@ If NKUA delays:
 
 ## Links
 
-**Parent MOC:** -Ethics]]  
-**Source:** [[LitNote_Ethics_Committee_Communication_L-002-0603]]  
-**Related:** [[IRB_Non_Response_Protocol_Z-002-0613]] — Before escalation
+**Parent MOC:** -Ethics]  
+**Source:** [[LitNote_Ethics_Committee_Communication_L-002-0603]  
+**Related:** [[IRB_Non_Response_Protocol_Z-002-0613] — Before escalation
 
 ---
 
@@ -94,5 +94,5 @@ If NKUA delays:
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

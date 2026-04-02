@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Organizing Past Discussions"
 date: 2023-08-30
 source: ChatGPT conversation history
-aliases: [CGPT-0585]
+aliases: CGPT-0585]
 tags: [chatgpt-archive, general]
 status: archived
 ---

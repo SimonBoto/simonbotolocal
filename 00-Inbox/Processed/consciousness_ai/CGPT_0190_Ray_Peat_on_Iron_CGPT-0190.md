@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Ray Peat on Iron"
 date: 2025-01-13
 source: ChatGPT conversation history
-aliases: [CGPT-0190]
+aliases: CGPT-0190]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, dna-methylation, epigenetics, dnmt, gene-regulation]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]]
+source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]
 extraction-date: 2026-03-01
 ---
 
@@ -73,11 +73,11 @@ B12/Folate → Methionine → SAM → DNMT activity → DNA methylation
 
 ---
 
-*Source: [[LitNote_Methylation_Cycle_L-001-0402]]*
+*Source: [[LitNote_Methylation_Cycle_L-001-0402]*
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

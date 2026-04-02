@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, Gallo-2013, infants, RCT, dose-response]
 parent-moc: 
-source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
+source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -29,9 +29,9 @@ Gallo et al. (2013) randomized controlled trial tested 400, 800, 1,200, and 1,60
 
 ## Links
 
-**Parent MOC:** -Protocols]]
-**Source:** _L-001-0009]]
-**Related:** [[Saadi_2009_2000IU_Infant_Safety_Z-001-0068]], [[UL_Conservative_vs_Research_Reality_Z-001-0071]]
+**Parent MOC:** -Protocols]
+**Source:** _L-001-0009]
+**Related:** [[Saadi_2009_2000IU_Infant_Safety_Z-001-0068], [[UL_Conservative_vs_Research_Reality_Z-001-0071]
 
 ---
 
@@ -39,4 +39,4 @@ Gallo et al. (2013) randomized controlled trial tested 400, 800, 1,200, and 1,60
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

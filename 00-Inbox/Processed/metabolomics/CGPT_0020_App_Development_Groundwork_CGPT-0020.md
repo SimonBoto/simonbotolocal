@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "App Development Groundwork"
 date: 2026-01-02
 source: ChatGPT conversation history
-aliases: [CGPT-0020]
+aliases: CGPT-0020]
 tags: [chatgpt-archive, metabolomics, clinical, technology]
 status: archived
 ---

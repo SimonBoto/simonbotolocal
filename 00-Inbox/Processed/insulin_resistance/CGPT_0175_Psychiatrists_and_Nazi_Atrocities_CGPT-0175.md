@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Psychiatrists and Nazi Atrocities"
 date: 2025-01-25
 source: ChatGPT conversation history
-aliases: [CGPT-0175]
+aliases: CGPT-0175]
 tags: [chatgpt-archive, insulin_resistance, technology]
 status: archived
 ---

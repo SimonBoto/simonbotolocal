@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "1984 Time Magazine"
 date: 2024-06-29
 source: ChatGPT conversation history
-aliases: [CGPT-0341]
+aliases: CGPT-0341]
 tags: [chatgpt-archive, consciousness_ai, nutrition]
 status: archived
 ---

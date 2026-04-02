@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, magnesium, ion-transport, signaling, calcium, channels]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]
+source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]
 extraction-date: 2026-03-01
 ---
 
@@ -86,11 +86,11 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]*  
+*Source: [[LitNote_Magnesium_Biochemistry_L-001-0201a]*  
 *Extracted: 2026-03-01*
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

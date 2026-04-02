@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Biggest Night of the Year"
 date: 2025-01-08
 source: ChatGPT conversation history
-aliases: [CGPT-0208]
+aliases: CGPT-0208]
 tags: [chatgpt-archive, general]
 status: archived
 ---

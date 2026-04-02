@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, integrated, assessment, b12, panel]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]]
+source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]
 extraction-date: 2026-03-01
 ---
 
@@ -49,12 +49,12 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_B12_Clinical_Assessment_L-001-0408]]*
+*Source: [[LitNote_B12_Clinical_Assessment_L-001-0408]*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]]
-- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
+- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]

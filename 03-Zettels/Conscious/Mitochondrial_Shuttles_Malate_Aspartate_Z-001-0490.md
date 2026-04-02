@@ -8,7 +8,7 @@ tags: [zettel, malate-shuttle, aspartate-shuttle, mitochondria, oaa, transport]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045H]]
+source: [[L-001-0045H]
 ---
 
 # l Shuttles: Malate and Aspartate
@@ -94,8 +94,8 @@ Aspartate + α-ketoglutarate → OAA + Glutamate
 - Contributes to anti-gluconeogenic effect
 
 ## Related
-- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]] Oxaloacetate Dual Role
-- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]] Gluconeogenesis from OAA
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488] Oxaloacetate Dual Role
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489] Gluconeogenesis from OAA
 - 
 
 ---
@@ -103,4 +103,4 @@ Aspartate + α-ketoglutarate → OAA + Glutamate
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

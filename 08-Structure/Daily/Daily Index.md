@@ -27,8 +27,8 @@ Each daily note captures:
 
 ## Connection to Vault
 
-- Up: [[08 Structure Index]]
-- Related: [[07 Projects Index]], [[PhD Index]]
+- Up: [[08 Structure Index]
+- Related: [[07 Projects Index], [[PhD Index]
 
 ---
 

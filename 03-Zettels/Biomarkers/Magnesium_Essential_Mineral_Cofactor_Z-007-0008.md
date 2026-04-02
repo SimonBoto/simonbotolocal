@@ -213,8 +213,8 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Z-007-0003|Calcium — Mineral, Bone & Signaling]]
-- [[Z-007-0001|Vitamin D — Calciferol]]
+- [[Z-007-0003|Calcium — Mineral, Bone & Signaling]
+- [[Z-007-0001|Vitamin D — Calciferol]
 
 ---
 *Complete biomarker foundation — Magnesium*

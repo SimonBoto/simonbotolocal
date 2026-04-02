@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Paper Review Optimization"
 date: 2024-12-21
 source: ChatGPT conversation history
-aliases: [CGPT-0222]
+aliases: CGPT-0222]
 tags: [chatgpt-archive, general]
 status: archived
 ---

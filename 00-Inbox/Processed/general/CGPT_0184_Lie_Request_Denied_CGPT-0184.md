@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Lie Request Denied"
 date: 2025-01-17
 source: ChatGPT conversation history
-aliases: [CGPT-0184]
+aliases: CGPT-0184]
 tags: [chatgpt-archive, general]
 status: archived
 ---

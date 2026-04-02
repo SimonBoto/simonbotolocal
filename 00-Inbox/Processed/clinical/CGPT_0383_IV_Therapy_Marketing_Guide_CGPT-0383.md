@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "IV Therapy Marketing Guide"
 date: 2024-05-09
 source: ChatGPT conversation history
-aliases: [CGPT-0383]
+aliases: CGPT-0383]
 tags: [chatgpt-archive, clinical, technology]
 status: archived
 ---

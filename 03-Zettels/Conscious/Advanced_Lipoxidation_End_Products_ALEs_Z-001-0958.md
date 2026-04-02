@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, ale, advanced-lipoxidation, 4-hne, acrolein, malondialdehyde, heated-oils, toxicity, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]]
+source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]
 status: conscious
 ---
 
@@ -249,16 +249,16 @@ Protein/DNA adducts → Cellular damage
 
 ---
 
-**Related:** [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954]] | [[4_HNE_Protein_Adducts_Cellular_Damage_Z-001-0010]] | [[Seed_Oil_Refining_Process_RBD_Z-001-0956]]
+**Related:** [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954] | [[4_HNE_Protein_Adducts_Cellular_Damage_Z-001-0010] | [[Seed_Oil_Refining_Process_RBD_Z-001-0956]
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
-- [[Free_Fatty_Acids_[B-006-0002]|Free Fatty Acids Panel]]
-- [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954]|Oxidative Stress Mechanisms]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+- [[Free_Fatty_Acids_[B-006-0002]|Free Fatty Acids Panel]
+- [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954]|Oxidative Stress Mechanisms]
 - 
 
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health

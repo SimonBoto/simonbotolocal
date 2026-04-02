@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "PhD Thesis Title Suggestions"
 date: 2023-05-10
 source: ChatGPT conversation history
-aliases: [CGPT-0638]
+aliases: CGPT-0638]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition]
 status: archived
 ---

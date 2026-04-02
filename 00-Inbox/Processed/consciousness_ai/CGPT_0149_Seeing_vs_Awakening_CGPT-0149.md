@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Seeing vs Awakening"
 date: 2025-02-16
 source: ChatGPT conversation history
-aliases: [CGPT-0149]
+aliases: CGPT-0149]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

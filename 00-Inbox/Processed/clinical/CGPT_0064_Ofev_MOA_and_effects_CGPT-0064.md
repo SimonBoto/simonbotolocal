@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Ofev MOA and effects"
 date: 2025-09-01
 source: ChatGPT conversation history
-aliases: [CGPT-0064]
+aliases: CGPT-0064]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

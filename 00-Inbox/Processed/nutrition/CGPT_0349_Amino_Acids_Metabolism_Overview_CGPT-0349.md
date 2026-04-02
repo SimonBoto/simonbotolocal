@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Amino Acids Metabolism Overview"
 date: 2024-06-19
 source: ChatGPT conversation history
-aliases: [CGPT-0349]
+aliases: CGPT-0349]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Cortisol's Impact on Insulin"
 date: 2024-02-27
 source: ChatGPT conversation history
-aliases: [CGPT-0494]
+aliases: CGPT-0494]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, nutrition]
 status: archived
 ---

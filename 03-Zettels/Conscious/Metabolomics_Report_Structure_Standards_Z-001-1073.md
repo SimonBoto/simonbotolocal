@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Protocols
 tags: [zettel, reports, structure, standards]
 parent-moc: 
-source-litnote: [[LitNote_Patient_Communication_Scripts_L-001-0595]]
-source: [[LitNote_Patient_Communication_Scripts_L-001-0595]]
+source-litnote: [[LitNote_Patient_Communication_Scripts_L-001-0595]
+source: [[LitNote_Patient_Communication_Scripts_L-001-0595]
 confidence: high
 created: 2026-03-08
 ---
@@ -99,7 +99,7 @@ Standardized formats for live and email metabolomics reports ensuring clarity an
 - [ ] Follow-up scheduled
 
 ## Related
-- [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]]
+- [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]
 - 
 
 ---
@@ -107,7 +107,7 @@ Standardized formats for live and email metabolomics reports ensuring clarity an
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - 

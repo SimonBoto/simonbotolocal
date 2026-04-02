@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolites Categorized: Overview"
 date: 2024-03-05
 source: ChatGPT conversation history
-aliases: [CGPT-0473]
+aliases: CGPT-0473]
 tags: [chatgpt-archive, metabolomics]
 status: archived
 ---

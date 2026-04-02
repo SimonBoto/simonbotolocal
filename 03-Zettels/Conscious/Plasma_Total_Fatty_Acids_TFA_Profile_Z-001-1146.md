@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, plasma, fatty-acids, tfa, profile, insulin-resistance]
 parent-moc: 
-source-litnote: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]]
-source: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]]
+source-litnote: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
+source: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
 confidence: high
 created: 2026-03-08
 ---
@@ -123,17 +123,17 @@ Plasma total fatty acid (TFA) analysis provides a comprehensive profile of membr
 | **Low DHA** | Direct DHA supplementation |
 
 ## Related
-- _Z-001-1145]]
-- [[Clinical_Metabolic_Markers_HOMA_IR_HbA1c_Z-001-1147]]
-- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]]
-- -Analysis]]
+- _Z-001-1145]
+- [[Clinical_Metabolic_Markers_HOMA_IR_HbA1c_Z-001-1147]
+- [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]
+- -Analysis]
 
 ---
 *Source: CGPT-0475 — Metabolic  for insulin resistance*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

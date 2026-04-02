@@ -7,7 +7,7 @@ domain: 002
 domain-name: Research Ethics
 tags: [zettel, methap, inclusion-criteria, exclusion-criteria]
 parent-moc: 
-source-litnote: "[[LitNote_METHAP_Study_Design_Protocol_L-002-0604]]"
+source-litnote: "[[LitNote_METHAP_Study_Design_Protocol_L-002-0604]"
 confidence: high
 created: 2026-03-27
 ---
@@ -79,8 +79,8 @@ Clear eligibility criteria ensure scientific validity, participant safety, and e
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]]  
-**Related:** [[Fair_Subject_Selection_Ethics_Z-002-0603]] — Ethical selection principles
+**Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]  
+**Related:** [[Fair_Subject_Selection_Ethics_Z-002-0603] — Ethical selection principles
 
 ---
 
@@ -88,8 +88,8 @@ Clear eligibility criteria ensure scientific validity, participant safety, and e
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

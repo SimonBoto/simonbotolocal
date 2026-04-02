@@ -13,7 +13,7 @@ relevance: High — Diverse products from mevalonate pathway, clinical significa
 aliases: [L-001-0519, Isoprenoids, Terpenes, Steroid Hormones, CoQ10, Vitamin D Synthesis]
 domain: 001
 tags: [litnote, isoprenoids, terpenes, steroids, coq10, vitamin-d, bile-acids, cholesterol-derivatives]
-source: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_[CGPT-0391]]"
+source: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-03
@@ -49,7 +49,7 @@ extraction-date: 2026-03-03
 - **Defense:** Repellents, toxins against herbivores
 - **Medicine:** Taxol (cancer), artemisinin (malaria)
 
-**Zettels extracted:** [[Isoprenoids_Terpenes_Overview_Z-001-0569]]
+**Zettels extracted:** [[Isoprenoids_Terpenes_Overview_Z-001-0569]
 
 ### 2. Cholesterol to Steroid Hormones
 > "Cholesterol is a fundamental component of cell membranes and serves as a precursor for the biosynthesis of steroid hormones, bile acids, and vitamin D."
@@ -87,7 +87,7 @@ Testosterone → Estradiol (aromatase)
 - **Function:** Female reproduction, bone health, cardiovascular
 - **Site:** Ovaries, adipose tissue (aromatase)
 
-**Zettels extracted:** [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]]
+**Zettels extracted:** [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]
 
 ### 3. CoQ10 and Dolichol — Mitochondrial and Glycosylation Functions
 > "Dolichols play roles in the modification of proteins through prenylation, affecting the way proteins interact with cellular membranes."
@@ -114,7 +114,7 @@ Testosterone → Estradiol (aromatase)
 - **Nuclear lamins:** Nuclear structure
 - **Rhodopsin:** Vision (farnesylation)
 
-**Zettels extracted:** [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]]
+**Zettels extracted:** [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]
 
 ### 4. Vitamin D as Secosteroid
 > "Vitamin D is a secosteroid derived from a triterpenoid. It has a steroid backbone but includes a broken ring."
@@ -141,7 +141,7 @@ Pre-vitamin D3 → Vitamin D3 (cholecalciferol)
 - Target 80-150 ng/mL (higher than conventional)
 - Anti-inflammatory, metabolic benefits
 
-**Zettels extracted:** [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]]
+**Zettels extracted:** [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]
 
 ### 5. Bile Acid Synthesis
 > "Bile acids are synthesized from cholesterol in the liver and are essential for digestion and absorption of dietary fats and fat-soluble vitamins."
@@ -175,7 +175,7 @@ Bile salts (secreted into bile)
 - **Bile acid diarrhea:** Malabsorption syndromes
 - **Gallstones:** Cholesterol supersaturation
 
-**Zettels extracted:** [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
+**Zettels extracted:** [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]
 
 ---
 
@@ -222,11 +222,11 @@ The "statin side effect" conversation must include:
 ---
 
 ## Zettels Created from This Source
-1. [[Isoprenoids_Terpenes_Overview_Z-001-0569]] — Isoprenoid classification and functions
-2. [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]] — Steroid hormone pathways
-3. [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]] — CoQ10 and protein glycosylation
-4. [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]] — Vitamin D as cholesterol derivative
-5. [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]] — Bile acid formation and function
+1. [[Isoprenoids_Terpenes_Overview_Z-001-0569] — Isoprenoid classification and functions
+2. [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570] — Steroid hormone pathways
+3. [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571] — CoQ10 and protein glycosylation
+4. [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572] — Vitamin D as cholesterol derivative
+5. [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573] — Bile acid formation and function
 
 ---
 
@@ -234,7 +234,7 @@ The "statin side effect" conversation must include:
 -  — Parent MOC
 -  — Vitamin D details
 -  — Steroid hormone context
-- [[LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518]] — Mevalonate pathway details
+- [[LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518] — Mevalonate pathway details
 
 ---
 

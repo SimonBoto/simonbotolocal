@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolomics Analysis Guidance"
 date: 2023-08-27
 source: ChatGPT conversation history
-aliases: [CGPT-0593]
+aliases: CGPT-0593]
 tags: [chatgpt-archive, metabolomics]
 status: archived
 ---

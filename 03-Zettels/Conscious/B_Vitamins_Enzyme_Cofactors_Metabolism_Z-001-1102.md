@@ -7,8 +7,8 @@ domain: 001
 domain-name: Vitamin Metabolism
 tags: [zettel, b-vitamins, cofactors, metabolism]
 parent-moc: 
-source-litnote: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
-source: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
+source-litnote: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]
+source: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]
 confidence: high
 created: 2026-03-08
 ---
@@ -96,7 +96,7 @@ B-vitamins serve as essential cofactors for hundreds of metabolic enzymes—each
 - **Multiple deficiencies:** More common than single deficiencies
 
 ## Related
-- [[Cofactor_Deficiency_Metabolite_Patterns_Z-001-1105]]
+- [[Cofactor_Deficiency_Metabolite_Patterns_Z-001-1105]
 | 
 
 ---
@@ -104,9 +104,9 @@ B-vitamins serve as essential cofactors for hundreds of metabolic enzymes—each
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - 
-- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]|Z-001-1052]]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]|Z-001-1052]

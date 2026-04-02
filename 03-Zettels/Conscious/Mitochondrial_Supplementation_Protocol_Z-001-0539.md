@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mitochondrial-protocol, supplementation, dosing, carnitine]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]]
+source-litnote: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]
 extraction-date: 2026-03-01
 ---
 
@@ -49,9 +49,9 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]]*
+*Source: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
 - 

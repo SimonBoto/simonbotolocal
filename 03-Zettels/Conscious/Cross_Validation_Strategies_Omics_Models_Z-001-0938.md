@@ -129,12 +129,12 @@ External Validation:
 ```
 
 ## Related Zettels
-- [[Permutation_Test_Interpretation_Validity_Z-001-0937]] — Internal validation
-- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]] — Full pipeline
-- [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935]] — Overfitting context
+- [[Permutation_Test_Interpretation_Validity_Z-001-0937] — Internal validation
+- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560] — Full pipeline
+- [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935] — Overfitting context
 
 ## Source
-[[LitNote_Multivariate_Analysis_Pitfalls_L-001-0517]]
+[[LitNote_Multivariate_Analysis_Pitfalls_L-001-0517]
 
 ---
 
@@ -142,8 +142,8 @@ External Validation:
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- |Biomarker Family Guide]]
+- |Biomarker Family Guide]
 - 
 

@@ -16,7 +16,7 @@ domain: 001
 # MAO and DAO Enzymes — Monoamine and Diamine Oxidase Function and Interactions
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0258_MAOIs_and_DAO_Interaction_[CGPT-0258]] (4 messages)
+- **ChatGPT conversation:** [[CGPT_0258_MAOIs_and_DAO_Interaction_CGPT-0258] (4 messages)
 - **Date:** November 04, 2024
 - **Scope:** MAO (monoamine oxidase) and DAO (diamine oxidase) enzymes, drug interactions
 

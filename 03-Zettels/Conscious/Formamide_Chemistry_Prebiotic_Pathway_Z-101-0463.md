@@ -8,7 +8,7 @@ tags: [zettel, formamide, prebiotic-chemistry, nucleobase-synthesis, alternative
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-101-0045B]]
+source: [[L-101-0045B]
 ---
 
 # Formamide : Alternative Prebiotic Pathway
@@ -90,8 +90,8 @@ Formamide chemistry provides a **robust alternative** to HCN polymerization:
 Multiple pathways (HCN, formamide, meteoritic delivery) increase probability of nucleobase formation on early Earth.
 
 ## Related
-- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]] HCN Polymerization (alternative pathway)
-- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]] Meteoritic Nucleobases (delivery mechanism)
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454] HCN Polymerization (alternative pathway)
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455] Meteoritic Nucleobases (delivery mechanism)
 - 
 
 ---
@@ -99,4 +99,4 @@ Multiple pathways (HCN, formamide, meteoritic delivery) increase probability of 
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]

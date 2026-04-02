@@ -30,9 +30,9 @@ IRS proteins ( Receptor Substrates) are cytosolic adapter proteins that bridge a
 
 ## Links
 
-- **Upstream:** [[INSR_Autophosphorylation_Mechanism_Z-001-0003]] — INSR activation
-- **Downstream:** [[PI3K_Activation_Mechanism_Z-001-0007]] — Lipid kinase activation
-- **Disease:** [[IRS_Serine_Phosphorylation_Causes_IR_Z-001-0008]] — When recruitment fails
+- **Upstream:** [[INSR_Autophosphorylation_Mechanism_Z-001-0003] — INSR activation
+- **Downstream:** [[PI3K_Activation_Mechanism_Z-001-0007] — Lipid kinase activation
+- **Disease:** [[IRS_Serine_Phosphorylation_Causes_IR_Z-001-0008] — When recruitment fails
 
 ## Context
 
@@ -40,5 +40,5 @@ IRS proteins ( Receptor Substrates) are cytosolic adapter proteins that bridge a
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

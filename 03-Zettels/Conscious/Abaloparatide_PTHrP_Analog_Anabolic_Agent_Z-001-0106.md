@@ -6,7 +6,7 @@ aliases: [Z-001-0106]
 domain: 001
 tags: [zettel, abaloparatide, pthrp, anabolic, osteoporosis, pth1-receptor, conscious]
 parent-moc: 
-source-litnote: [[LitNote_Anabolic_Bone_Therapies_L-001-0016]]
+source-litnote: [[LitNote_Anabolic_Bone_Therapies_L-001-0016]
 status: conscious
 ---
 
@@ -120,12 +120,12 @@ Same as teriparatide:
 - Injection device: Pre-filled pen (similar to TPTD pen)
 
 ## Related Zettels
-- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]] — Comparative PTH-based therapy
-- [[Romosozumab_Anti_Sclerostin_Dual_Action_Therapy_Z-001-0107]] — Non-PTH anabolic
-- [[Sequential_Therapy_Anabolic_to_Antiresorptive_Strategy_Z-001-0108]] — Post-anabolic plan
+- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105] — Comparative PTH-based therapy
+- [[Romosozumab_Anti_Sclerostin_Dual_Action_Therapy_Z-001-0107] — Non-PTH anabolic
+- [[Sequential_Therapy_Anabolic_to_Antiresorptive_Strategy_Z-001-0108] — Post-anabolic plan
 
 ## Source
-[[LitNote_Anabolic_Bone_Therapies_L-001-0016]]
+[[LitNote_Anabolic_Bone_Therapies_L-001-0016]
 
 ---
 
@@ -134,6 +134,6 @@ Same as teriparatide:
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

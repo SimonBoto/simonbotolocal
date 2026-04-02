@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Supplements causing white hair"
 date: 2025-10-09
 source: ChatGPT conversation history
-aliases: [CGPT-0049]
+aliases: CGPT-0049]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

@@ -7,7 +7,7 @@ domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, informed-consent, autonomy, emmanuel-seven]
 parent-moc: 
-source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]"
+source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]"
 confidence: high
 created: 2026-03-27
 ---
@@ -61,8 +61,8 @@ METHAP consent requirements:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]  
-**Related:** [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]] — Ongoing obligations
+**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]  
+**Related:** [[Respect_Enrolled_Subjects_Ethics_Z-002-0607] — Ongoing obligations
 
 ---
 
@@ -70,5 +70,5 @@ METHAP consent requirements:
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

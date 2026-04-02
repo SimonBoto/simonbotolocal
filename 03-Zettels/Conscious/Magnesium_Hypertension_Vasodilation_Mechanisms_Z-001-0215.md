@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, magnesium, hypertension, blood-pressure, vasodilation, cardiovascular]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]]
+source-litnote: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]
 extraction-date: 2026-03-01
 ---
 
@@ -123,12 +123,12 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]]*  
+*Source: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]*  
 *Extracted: 2026-03-01*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_Z-001-0206]|Z-001-0206]]
+- [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_Z-001-0206]|Z-001-0206]

@@ -63,11 +63,11 @@ Mature osteoclasts create a **sealed acidic microenvironment** that dissolves bo
 - **Cathepsin K inhibitors** (Odanacatib — discontinued): Block collagen degradation
 
 ## Related Zettels
-- [[Osteoclasts_Bone_Resorbing_Cells_Z-001-0080]] — Cell biology
-- [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102]] — Next phase
+- [[Osteoclasts_Bone_Resorbing_Cells_Z-001-0080] — Cell biology
+- [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102] — Next phase
 
 ## Source
-[[LitNote_Bone_Remodeling_Cycle_Dynamics_L-001-0015]]
+[[LitNote_Bone_Remodeling_Cycle_Dynamics_L-001-0015]
 
 ---
 
@@ -76,5 +76,5 @@ Mature osteoclasts create a **sealed acidic microenvironment** that dissolves bo
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
 - 

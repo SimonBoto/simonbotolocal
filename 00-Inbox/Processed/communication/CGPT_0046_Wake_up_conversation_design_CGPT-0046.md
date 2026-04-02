@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Wake up conversation design"
 date: 2025-10-19
 source: ChatGPT conversation history
-aliases: [CGPT-0046]
+aliases: CGPT-0046]
 tags: [chatgpt-archive, communication]
 status: archived
 ---

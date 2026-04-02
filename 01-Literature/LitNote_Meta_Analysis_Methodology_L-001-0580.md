@@ -16,7 +16,7 @@ domain: 001
 # Meta-Analysis Methodology — From Search Strategy to Publication
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0621_Publishing_Meta_Analysis_Guidelines_[CGPT-0621]] (163 messages)
+- **ChatGPT conversation:** [[CGPT_0621_Publishing_Meta_Analysis_Guidelines_CGPT-0621] (163 messages)
 - **Date:** June 02, 2023
 - **Scope:** Complete 60-day plan for mastering systematic review methodology
 

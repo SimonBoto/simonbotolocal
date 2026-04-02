@@ -7,8 +7,8 @@ domain: 001
 domain-name: Evolutionary Biochemistry
 tags: [zettel, ancient, pathways, conservation, glycolysis]
 parent-moc: 
-source-litnote: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
-source: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]]
+source-litnote: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]
+source: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]
 confidence: high
 created: 2026-03-08
 ---
@@ -115,8 +115,8 @@ The most ancient metabolic pathways—glycolysis, the pentose phosphate pathway,
 - Convergent evolution expected
 
 ## Related
-- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
-| [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]]
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]
+| [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]
 | 
 
 ---
@@ -124,6 +124,6 @@ The most ancient metabolic pathways—glycolysis, the pentose phosphate pathway,
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

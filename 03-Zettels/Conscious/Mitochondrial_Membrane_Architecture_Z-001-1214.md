@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, mitochondria, membranes, structure, porins, compartments]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Mitochondrial_Structure_Biology_L-001-0633]]"
+source-litnote: "[[LitNote_Mitochondrial_Structure_Biology_L-001-0633]"
 status: conscious
 ---
 
@@ -138,15 +138,15 @@ Drives ATP synthesis
 
 ## Related
 
-- [[Cristae_Structure_Function_Z-001-1215]]
-- [[ETC_Complexes_Location_Z-001-1216]]
-- _Z-001-1217]]
+- [[Cristae_Structure_Function_Z-001-1215]
+- [[ETC_Complexes_Location_Z-001-1216]
+- _Z-001-1217]
 
 ---
 
-*Source: [[LitNote_Mitochondrial_Structure_Biology_L-001-0633]] | 2026-03-09*
+*Source: [[LitNote_Mitochondrial_Structure_Biology_L-001-0633] | 2026-03-09*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

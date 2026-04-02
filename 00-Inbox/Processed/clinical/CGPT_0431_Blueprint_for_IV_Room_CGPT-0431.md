@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Blueprint for IV Room"
 date: 2024-04-08
 source: ChatGPT conversation history
-aliases: [CGPT-0431]
+aliases: CGPT-0431]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

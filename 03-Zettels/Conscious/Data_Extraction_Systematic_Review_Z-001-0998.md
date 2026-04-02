@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, systematic-review, data-extraction, extraction-form, covidence, distiller-sr, missing-data, pilot-testing, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]]
+source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]
 status: conscious
 ---
 
@@ -408,10 +408,10 @@ If skewed: More complex formulas available
 
 ---
 
-**Related:** [[Systematic_Search_Strategy_Z-001-0996]] | [[Screening_Protocols_Systematic_Review_Z-001-0997]] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999]]
+**Related:** [[Systematic_Search_Strategy_Z-001-0996] | [[Screening_Protocols_Systematic_Review_Z-001-0997] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999]
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

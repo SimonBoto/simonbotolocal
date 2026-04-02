@@ -54,17 +54,17 @@ $$
 ## 🔗 Connected s
 
 **Core IR Panel:**
-- [[HOMA_Beta_Beta_Cell_Function_Z-001-0047.md]] — HOMA-β (β-cell function companion)
-- [[TyG_Index_IR_Assessment_Z-001-0048.md]] — TyG Index (alternative IR marker)
-- [[TG_HDL_Ratio_IR_Marker_Z-001-0049.md]] — TG/HDL ratio (lipid-based IR proxy)
+- [[HOMA_Beta_Beta_Cell_Function_Z-001-0047.md] — HOMA-β (β-cell function companion)
+- [[TyG_Index_IR_Assessment_Z-001-0048.md] — TyG Index (alternative IR marker)
+- [[TG_HDL_Ratio_IR_Marker_Z-001-0049.md] — TG/HDL ratio (lipid-based IR proxy)
 
 **Metabolic Context:**
-- [[Metabolic_Syndrome_Criteria_Z-001-0050.md]] — Metabolic syndrome criteria (3 of 5)
-- [[HOMA_IR_Late_Marker_Z-001-0043.md]] — HOMA-IR limitations and critique
+- [[Metabolic_Syndrome_Criteria_Z-001-0050.md] — Metabolic syndrome criteria (3 of 5)
+- [[HOMA_IR_Late_Marker_Z-001-0043.md] — HOMA-IR limitations and critique
 
 **Cofactor Dependencies:**
-- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md]] —  optimal range (D improves insulin sensitivity)
-- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md]] — Homocysteine (methylation supports insulin signaling)
+- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md] —  optimal range (D improves insulin sensitivity)
+- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md] — Homocysteine (methylation supports insulin signaling)
 
 ---
 
@@ -132,8 +132,8 @@ patient_id,visit,fasting_glucose_mg_dl,fasting_insulin_uu_ml,homa_ir,homa_ir_sta
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Vitamin D MR Spectroscopy"
 date: 2024-03-29
 source: ChatGPT conversation history
-aliases: [CGPT-0443]
+aliases: CGPT-0443]
 tags: [chatgpt-archive, vitamin_d]
 status: archived
 ---

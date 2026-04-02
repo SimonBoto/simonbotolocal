@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Cholesterol History and Metrics"
 date: 2024-06-29
 source: ChatGPT conversation history
-aliases: [CGPT-0336]
+aliases: CGPT-0336]
 tags: [chatgpt-archive, insulin_resistance, clinical, phd_research, nutrition]
 status: archived
 ---

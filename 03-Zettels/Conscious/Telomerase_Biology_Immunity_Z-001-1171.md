@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, telomerase, TERT, TERC, immune-cells, cellular-immortality]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]]"
+source-litnote: "[[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]"
 status: conscious
 ---
 
@@ -105,14 +105,14 @@ status: conscious
 
 ## Related
 
-- [[Telomere_Structure_Shelterin_Complex_Z-001-1170]]
-- [[CD28_Negative_TCells_Pathogenicity_Z-001-1183]]
+- [[Telomere_Structure_Shelterin_Complex_Z-001-1170]
+- [[CD28_Negative_TCells_Pathogenicity_Z-001-1183]
 
 ---
 
-*Source: [[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]] | 2026-03-08*
+*Source: [[LitNote_Telomere_Biology_Autoimmunity_L-001-0623] | 2026-03-08*
 
 
 ## RELATED FILES
 - 
-- [[RA_Telomerase_Elevation_Compensatory_Proliferation_Z-001-1175]|Z-001-1175]]
+- [[RA_Telomerase_Elevation_Compensatory_Proliferation_Z-001-1175]|Z-001-1175]

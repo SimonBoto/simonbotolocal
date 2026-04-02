@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Shortened message draft"
 date: 2025-10-30
 source: ChatGPT conversation history
-aliases: [CGPT-0043]
+aliases: CGPT-0043]
 tags: [chatgpt-archive, metabolomics, clinical, consciousness_ai]
 status: archived
 ---

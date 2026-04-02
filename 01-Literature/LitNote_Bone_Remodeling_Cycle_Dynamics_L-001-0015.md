@@ -16,7 +16,7 @@ domain: 001
 # Bone Remodeling Cycle Dynamics and Phase Regulation
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_[CGPT-0133]]
+- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
 - **Date:** March 07, 2025
 - **Scope:** Detailed medical review section on bone remodeling phases
 
@@ -27,7 +27,7 @@ domain: 001
 ### 1. Activation Phase (RANKL + M-CSF Signaling)
 > "Osteoclast precursors differentiate under the influence of RANKL (Receptor Activator of Nuclear Factor Kappa-B Ligand) and M-CSF (Macrophage Colony-Stimulating Factor)."
 
-**Zettel extracted:** [[Activation_Phase_RANKL_MCSF_Osteoclast_Differentiation_Z-001-0099]]
+**Zettel extracted:** [[Activation_Phase_RANKL_MCSF_Osteoclast_Differentiation_Z-001-0099]
 
 **Key Mechanism:**
 - RANKL binds to RANK receptor on osteoclast precursors
@@ -40,7 +40,7 @@ domain: 001
 ### 2. Resorption Phase (Acid Microenvironment + Cathepsin K)
 > "Mature osteoclasts attach to bone matrix, creating a resorption lacuna. They secrete proteolytic enzymes and acid, dissolving the mineral and collagen components."
 
-**Zettel extracted:** [[Resorption_Phase_Osteoclast_Acid_Protease_Activity_Z-001-0100]]
+**Zettel extracted:** [[Resorption_Phase_Osteoclast_Acid_Protease_Activity_Z-001-0100]
 
 **Mechanistic Details:**
 - Osteoclasts form sealed ruffled border against bone surface
@@ -53,7 +53,7 @@ domain: 001
 ### 3. Reversal Phase (Mononuclear Preparation)
 > "Once resorption is complete, mononuclear cells prepare the bone surface for new osteoid deposition."
 
-**Zettel extracted:** [[Reversal_Phase_Mononuclear_Bone_Surface_Preparation_Z-001-0101]]
+**Zettel extracted:** [[Reversal_Phase_Mononuclear_Bone_Surface_Preparation_Z-001-0101]
 
 **Function:**
 - Mononuclear cells (pre-osteoblasts, macrophages) clear resorption debris
@@ -66,7 +66,7 @@ domain: 001
 ### 4. Formation Phase (Osteoid Deposition + Mineralization Timeline)
 > "Osteoblasts deposit osteoid (unmineralized bone matrix), which subsequently mineralizes over several months."
 
-**Zettel extracted:** [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102]]
+**Zettel extracted:** [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102]
 
 **Timeline and Process:**
 - Osteoblasts synthesize type I collagen (90% of bone protein)
@@ -80,7 +80,7 @@ domain: 001
 ### 5. Resting Phase (Quiescence Regulation)
 > "The remodeling site enters a quiescent phase until the next remodeling cycle is activated."
 
-**Zettel extracted:** [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103]]
+**Zettel extracted:** [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103]
 
 **Characteristics:**
 - Bone surface covered by bone-lining cells (quiescent osteoblasts)
@@ -93,7 +93,7 @@ domain: 001
 ### 6. Bone Balance Equation
 > "Normal bone homeostasis relies on a balance between osteoclastic resorption and osteoblastic formation. When resorption outpaces formation (or when formation is inadequate to match normal resorption), net bone loss occurs, manifesting as osteopenia or osteoporosis."
 
-**Zettel extracted:** [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]]
+**Zettel extracted:** [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]
 
 **Clinical Significance:**
 - Postmenopausal osteoporosis: Increased activation frequency + resorption depth
@@ -119,9 +119,9 @@ domain: 001
 ## Integration Notes
 
 **Links to Existing Zettels:**
-- [[Osteoclasts_Bone_Resorbing_Cells_Z-001-0080]] — Predecessor extraction
-- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]] — Interferes with Activation phase
-- [[Osteoblasts_Bone_Forming_Cells_Z-001-0081]] — Formation phase execution
+- [[Osteoclasts_Bone_Resorbing_Cells_Z-001-0080] — Predecessor extraction
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085] — Interferes with Activation phase
+- [[Osteoblasts_Bone_Forming_Cells_Z-001-0081] — Formation phase execution
 
 **Clinical Application:**
 - Understanding phases explains timing of therapeutic response

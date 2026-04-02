@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Timeline Reconstruction and Guidance"
 date: 2026-02-08
 source: ChatGPT conversation history
-aliases: [CGPT-0000]
+aliases: CGPT-0000]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research]
 status: archived
 ---

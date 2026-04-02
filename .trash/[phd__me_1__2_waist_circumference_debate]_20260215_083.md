@@ -4,7 +4,7 @@ aliases:
 uid: "20260215_083"
 ---
 #atomic
-parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]]
+parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]
 ---
 id: 202602150010-mets-waist-circumference-debate
 tags: [zettel, #phd]
@@ -12,7 +12,7 @@ aliases: [MetS Waist Circumference Debate]
 links: []
 created: 2026-02-15
 updated: 2026-02-15
-parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]]
+parent-moc: [[[moc_p_1__2_20260215_055]_20260215_109]
 ---
 
 # MetS Waist Circumference Debate
@@ -23,7 +23,7 @@ However, the disagreement on waist circumference to define abdominal obesity rem
 ## Context/Chain
 
 ## Sources
-- [[@eckelMetabolicSyndrome2005]]
+- [[@eckelMetabolicSyndrome2005]
 
 ## Questions/Next
 
@@ -31,4 +31,4 @@ However, the disagreement on waist circumference to define abdominal obesity rem
 
 ^202602150010-mets-waist-circumference-debate
 
-**Linked from raw**: [[../Raw/Zettel_MetS_Waist_Circumference_Debate]]"
+**Linked from raw**: [[../Raw/Zettel_MetS_Waist_Circumference_Debate]"

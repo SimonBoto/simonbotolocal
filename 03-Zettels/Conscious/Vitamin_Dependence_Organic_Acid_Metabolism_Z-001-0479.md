@@ -8,7 +8,7 @@ tags: [zettel, vitamins, b12, biotin, b1, cofactors, metabolism]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045F]]
+source: [[L-001-0045F]
 ---
 
 # ependence in Organic Acid 
@@ -66,8 +66,8 @@ source: [[L-001-0045F]]
 - Lactate/pyruvate ratio (thiamine)
 
 ## Related
-- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]] Pyruvate Central Role (B1-dependent)
-- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]] Propionate Metabolism (B7, B12-dependent)
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477] Pyruvate Central Role (B1-dependent)
+- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478] Propionate Metabolism (B7, B12-dependent)
 - 
 
 ---
@@ -75,6 +75,6 @@ source: [[L-001-0045F]]
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

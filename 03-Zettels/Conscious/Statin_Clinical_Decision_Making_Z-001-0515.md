@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, statin, decision, risk, ascvd, prevention]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]]
+source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]
 extraction-date: 2026-03-01
 ---
 
@@ -57,16 +57,16 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Statin_Pharmacology_L-001-0502]]*
+*Source: [[LitNote_Statin_Pharmacology_L-001-0502]*
 
 
 ## Related
-- [[Statin_Major_Clinical_Trials_Z-001-0510]|Z-001-0510]]
+- [[Statin_Major_Clinical_Trials_Z-001-0510]|Z-001-0510]
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- _HMG_CoA_Reductase_Z-001-0509]|Z-001-0509]]
+- _HMG_CoA_Reductase_Z-001-0509]|Z-001-0509]

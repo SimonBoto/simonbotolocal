@@ -14,7 +14,7 @@ tags:
   - arginine
   - aspartate
   - networks
-source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]"
+source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]"
 extraction-date: 2026-03-04
 status: extracted
 parent-moc:
@@ -184,17 +184,17 @@ Methylglutaconyl-CoA → HMG-CoA → Acetoacetate + Acetyl-CoA
 
 ## Zettels Extracted
 
-- [[Alpha_Keto_Acids_Metabolic_Intermediates_Z-001-0500]] α-Keto Acids as Metabolic Intermediates
-- [[Glutamate_Central_Amino_Acid_Hub_Z-001-0915]] Glutamate: The Central Amino Acid Hub
-- [[Glutamine_Glutamate_Ammonia_Cycle_Z-001-0916]] Glutamine-Glutamate-Ammonia Cycle
-- [[Glutamate_Arginine_Urea_Cycle_Z-001-0917]] Glutamate-Arginine-Urea Cycle Connection
-- [[Aspartate_Simple_Structure_Central_Role_Z-001-0918]] Aspartate: Simple Structure, Central Role
+- [[Alpha_Keto_Acids_Metabolic_Intermediates_Z-001-0500] α-Keto Acids as Metabolic Intermediates
+- [[Glutamate_Central_Amino_Acid_Hub_Z-001-0915] Glutamate: The Central Amino Acid Hub
+- [[Glutamine_Glutamate_Ammonia_Cycle_Z-001-0916] Glutamine-Glutamate-Ammonia Cycle
+- [[Glutamate_Arginine_Urea_Cycle_Z-001-0917] Glutamate-Arginine-Urea Cycle Connection
+- [[Aspartate_Simple_Structure_Central_Role_Z-001-0918] Aspartate: Simple Structure, Central Role
 
 ---
 
 ## Connections
 
-- [[L-001-0046A]] Amino Acids Entering Krebs (entry points)
+- [[L-001-0046A] Amino Acids Entering Krebs (entry points)
 -  (nitrogen disposal)
 - 
 

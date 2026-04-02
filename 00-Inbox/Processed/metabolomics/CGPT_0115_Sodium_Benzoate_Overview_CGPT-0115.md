@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Sodium Benzoate Overview"
 date: 2025-03-25
 source: ChatGPT conversation history
-aliases: [CGPT-0115]
+aliases: CGPT-0115]
 tags: [chatgpt-archive, metabolomics]
 status: archived
 ---

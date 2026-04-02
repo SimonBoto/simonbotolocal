@@ -389,12 +389,12 @@ Q6: Multiple markers low?
 ---
 
 ## Related Files
-- [[B-012-0001|Citrate — Mitochondrial Dysfunction Marker]]
-- [[B-012-0002|Isocitrate — The Aconitase Checkpoint]]
-- [[B-012-0003|α-Ketoglutarate — Nitrogen & Energy Hub]]
-- [[B-012-0004|Succinate — Complex II Sentinel]]
-- [[B-012-0005|Fumarate — The Fumarase Checkpoint]]
-- [[B-012-0006|Malate — Mitochondrial-Cytosol Shuttle]]
+- [[B-012-0001|Citrate — Mitochondrial Dysfunction Marker]
+- [[B-012-0002|Isocitrate — The Aconitase Checkpoint]
+- [[B-012-0003|α-Ketoglutarate — Nitrogen & Energy Hub]
+- [[B-012-0004|Succinate — Complex II Sentinel]
+- [[B-012-0005|Fumarate — The Fumarase Checkpoint]
+- [[B-012-0006|Malate — Mitochondrial-Cytosol Shuttle]
 - 
 
 ---

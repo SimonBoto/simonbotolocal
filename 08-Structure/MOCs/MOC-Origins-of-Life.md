@@ -15,27 +15,27 @@ created: 2026-03-04
 ---
 
 ## Prebiotic Chemistry
-- [[Z-101-0454]] HCN Polymerization to Adenine
-- [[Z-101-0463]] Formamide Chemistry: Alternative Pathway
-- [[Z-101-0455]] Meteoritic Nucleobases and Panspermia
-- [[Z-101-0462]] Amino Acids vs Nucleobases
+- [[Z-101-0454] HCN Polymerization to Adenine
+- [[Z-101-0463] Formamide Chemistry: Alternative Pathway
+- [[Z-101-0455] Meteoritic Nucleobases and Panspermia
+- [[Z-101-0462] Amino Acids vs Nucleobases
 
 ## RNA World
-- [[Z-101-0456]] RNA World Hypothesis
-- [[Z-001-0458]] Ribose Structure
-- [[Z-001-0459]] Triose Metabolism
+- [[Z-101-0456] RNA World Hypothesis
+- [[Z-001-0458] Ribose Structure
+- [[Z-001-0459] Triose Metabolism
 
 ## Timeline
-- [[Z-101-0464]] Timeline: Prebiotic Chemistry to LUCA
+- [[Z-101-0464] Timeline: Prebiotic Chemistry to LUCA
 
 ## Evolutionary Context
-- [[Z-101-0451]] ATP Universal Energy Currency (conserved ~4 BY)
+- [[Z-101-0451] ATP Universal Energy Currency (conserved ~4 BY)
 - 
 
 ---
 
 ## Sources
-- [[L-101-0045B]] Prebiotic Chemistry Deep Dive
+- [[L-101-0045B] Prebiotic Chemistry Deep Dive
 
 ---
 *Created: 2026-03-04 | Status: Active (growing)*

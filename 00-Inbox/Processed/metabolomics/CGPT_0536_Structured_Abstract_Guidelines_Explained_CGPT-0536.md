@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Structured Abstract Guidelines Explained"
 date: 2023-11-05
 source: ChatGPT conversation history
-aliases: [CGPT-0536]
+aliases: CGPT-0536]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition]
 status: archived
 ---

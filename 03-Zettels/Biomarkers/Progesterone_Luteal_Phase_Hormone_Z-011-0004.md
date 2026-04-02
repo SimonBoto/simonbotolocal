@@ -210,8 +210,8 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Z-011-0003|Estradiol — Primary Female Estrogen]]
-- [[Z-011-0001|Testosterone — Primary Male Androgen]]
+- [[Z-011-0003|Estradiol — Primary Female Estrogen]
+- [[Z-011-0001|Testosterone — Primary Male Androgen]
 
 source-litnote: Synthesized from clinical practice
 ---

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, seed-oils, history, pre-industrial, mechanical-pressing, lamp-oil, lubricants, industrial-revolution, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]]
+source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]
 status: conscious
 ---
 
@@ -254,11 +254,11 @@ Oils that polymerize (dry) when exposed to air
 
 ---
 
-**Related:** [[Procter_Gamble_Crisco_Introduction_1911_Z-001-0969]] | [[Seed_Oil_Extraction_Methods_Expeller_Hexane_Z-001-0955]] | [[Industrial_Revolution_Food_Transformation_Z-001-0012]]
+**Related:** [[Procter_Gamble_Crisco_Introduction_1911_Z-001-0969] | [[Seed_Oil_Extraction_Methods_Expeller_Hexane_Z-001-0955] | [[Industrial_Revolution_Food_Transformation_Z-001-0012]
 
 **Source:** CGPT-0340 — Seed oils history and process
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

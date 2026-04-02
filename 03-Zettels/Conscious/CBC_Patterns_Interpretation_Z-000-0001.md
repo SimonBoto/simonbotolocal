@@ -63,15 +63,15 @@ The **CBC** provides baseline hematologic status. Beyond anemia detection, patte
 ## 🔗 Connected Systems
 
 **Iron Status:**
-- [[Ferritin_Interpretation_Iron_Status_Z-003-0001.md]] — Ferritin (low Hct + low ferritin = iron deficiency)
-- [[Iron_Status_Patterns_ACD_Overload_Z-003-0013.md]] — Iron patterns (anemia of chronic disease)
+- [[Ferritin_Interpretation_Iron_Status_Z-003-0001.md] — Ferritin (low Hct + low ferritin = iron deficiency)
+- [[Iron_Status_Patterns_ACD_Overload_Z-003-0013.md] — Iron patterns (anemia of chronic disease)
 
 **Inflammation:**
-- [[Inflammation_Markers_CRP_ESR_Z-007-0001.md]] — CRP/ESR (WBC and platelets rise with inflammation)
+- [[Inflammation_Markers_CRP_ESR_Z-007-0001.md] — CRP/ESR (WBC and platelets rise with inflammation)
 - Platelets as acute phase reactant
 
 **Methylation:**
-- [[Functional_B12_Deficiency_MMA_Assessment_Z-004-0019.md]] — Functional B12 deficiency (macrocytic anemia)
+- [[Functional_B12_Deficiency_MMA_Assessment_Z-004-0019.md] — Functional B12 deficiency (macrocytic anemia)
 - MCV >100 fL suggests B12/folate deficiency
 
 ---
@@ -104,7 +104,7 @@ The **CBC** provides baseline hematologic status. Beyond anemia detection, patte
 | Platelets 400-500 × 10³/μL | Reactive thrombocytosis |
 | Normocytic anemia | Anemia of chronic disease |
 
-**Link:** [[Inflammation_Markers_CRP_ESR_Z-007-0001.md]] — CRP elevation confirms inflammation
+**Link:** [[Inflammation_Markers_CRP_ESR_Z-007-0001.md] — CRP elevation confirms inflammation
 
 ---
 
@@ -146,11 +146,11 @@ patient_id,visit,wbc_k_u_l,hematocrit_pct,hemoglobin_g_dl,platelets_k_u_l,mcv_fl
 *Created: 2026-02-26 | Domain: 000 | Status: Conscious*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- |Biomarkers MOC]]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
+- |Biomarkers MOC]
 

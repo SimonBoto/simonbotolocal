@@ -161,9 +161,9 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Free_Fatty_Acids_Complete_[REF-FFA-001].md|Fatty Acids Reference]]
-- [[Z-006-0102|EPA — Eicosapentaenoic Acid]]
-- [[Z-006-0402|AA:EPA Ratio]]
+- [[Free_Fatty_Acids_Complete_[REF-FFA-001].md|Fatty Acids Reference]
+- [[Z-006-0102|EPA — Eicosapentaenoic Acid]
+- [[Z-006-0402|AA:EPA Ratio]
 
 ---
 *Complete biomarker foundation — AA*

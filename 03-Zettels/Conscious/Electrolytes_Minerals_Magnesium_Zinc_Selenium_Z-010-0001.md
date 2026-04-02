@@ -64,8 +64,8 @@ source-litnote: Synthesized from clinical practice
 - Wound healing
 
 ### Clinical Relevance
-- [[Thyroid_Optimal_Ranges_Z-005-0001.md]] — Thyroid function (zinc required for T3 receptor)
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — Insulin resistance (zinc in β-cell insulin granules)
+- [[Thyroid_Optimal_Ranges_Z-005-0001.md] — Thyroid function (zinc required for T3 receptor)
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md] — Insulin resistance (zinc in β-cell insulin granules)
 
 ### Supplementation
 - **Zinc picolinate or bisglycinate:** 15-30 mg elemental zinc
@@ -89,8 +89,8 @@ source-litnote: Synthesized from clinical practice
 - Immune function
 
 ### Clinical Relevance
-- [[Thyroid_Optimal_Ranges_Z-005-0001.md]] — Thyroid function (selenium required for T3 production)
-- [[Hashimoto_Pattern_Anti_TPO_Anti_TG_Z-005-0002.md]] — Hashimoto's (200 mcg Se may reduce Anti-TPO)
+- [[Thyroid_Optimal_Ranges_Z-005-0001.md] — Thyroid function (selenium required for T3 production)
+- [[Hashimoto_Pattern_Anti_TPO_Anti_TG_Z-005-0002.md] — Hashimoto's (200 mcg Se may reduce Anti-TPO)
 
 ### Supplementation
 | Population | Dose |
@@ -106,15 +106,15 @@ source-litnote: Synthesized from clinical practice
 ## 🔗 Connected Systems
 
 **Thyroid:**
-- [[Thyroid_Optimal_Ranges_Z-005-0001.md]] — T4→T3 conversion requires selenium and zinc
+- [[Thyroid_Optimal_Ranges_Z-005-0001.md] — T4→T3 conversion requires selenium and zinc
 - Deficiency → impaired thyroid function despite adequate hormone
 
 **Vitamin D:**
-- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md]] — VitD activation requires magnesium
+- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md] — VitD activation requires magnesium
 - Low Mg → low 25-OH D despite supplementation
 
 **Methylation:**
-- [[Folate_5MTHF_vs_Folic_Acid_Z-004-0002.md]] — 5-MTHF synthesis requires zinc
+- [[Folate_5MTHF_vs_Folic_Acid_Z-004-0002.md] — 5-MTHF synthesis requires zinc
 - Methionine synthase requires magnesium
 
 ---
@@ -163,16 +163,16 @@ source-litnote: Synthesized from clinical practice
 
 ---
 
-*Source: , _Architecture_v1]]*
+*Source: , _Architecture_v1]*
 *Created: 2026-02-26 | Domain: 010 | Status: Conscious*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- [[TG_HDL_Ratio_IR_Marker_Z-001-0049]|Z-001-0049]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[TG_HDL_Ratio_IR_Marker_Z-001-0049]|Z-001-0049]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

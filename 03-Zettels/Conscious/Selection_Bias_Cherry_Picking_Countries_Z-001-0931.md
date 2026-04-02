@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, selection-bias, cherry-picking, france-paradox]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]]
+source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]
 extraction-date: 2026-03-01
 updated: 2026-03-05
 ---
@@ -48,4 +48,4 @@ Post-hoc selection based on outcome = confirmation bias.
 
 ---
 
-*Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]]*
+*Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]*

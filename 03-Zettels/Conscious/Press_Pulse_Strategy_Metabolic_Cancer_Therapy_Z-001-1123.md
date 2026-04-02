@@ -7,8 +7,8 @@ domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, press-pulse, metabolic, cancer, therapy]
 parent-moc: 
-source-litnote: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]]
-source: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]]
+source-litnote: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]
+source: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]
 confidence: high
 created: 2026-03-08
 ---
@@ -139,8 +139,8 @@ The Press-Pulse strategy combines chronic metabolic stress (Press) with acute th
 | **Cost** | Simple whole foods approach |
 
 ## Related
-- [[Cancer_Metabolic_Disease_Mitochondrial_Origin_Z-001-1121]]
-- [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_Z-001-1122]]
+- [[Cancer_Metabolic_Disease_Mitochondrial_Origin_Z-001-1121]
+- [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_Z-001-1122]
 - 
 
 ---
@@ -148,4 +148,4 @@ The Press-Pulse strategy combines chronic metabolic stress (Press) with acute th
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

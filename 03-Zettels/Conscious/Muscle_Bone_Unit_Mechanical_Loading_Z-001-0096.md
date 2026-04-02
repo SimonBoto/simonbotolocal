@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, nutrition, protein]
 parent-moc: 
-source: [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]]
+source: [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -20,8 +20,8 @@ The muscle-bone unit concept: adequate protein intake enhances muscle strength, 
 ## Links
 
 **Parent MOC:** 
-**Source:** [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]]
-**Related:** [[Sarcopenia_Bone_Loss_Connection_Z-001-0098]], [[IGF1_Protein_Bone_Anabolic_Signal_Z-001-0100]]
+**Source:** [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]
+**Related:** [[Sarcopenia_Bone_Loss_Connection_Z-001-0098], [[IGF1_Protein_Bone_Anabolic_Signal_Z-001-0100]
 
 ---
 
@@ -29,12 +29,12 @@ The muscle-bone unit concept: adequate protein intake enhances muscle strength, 
 
 
 ## Related
-- [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]|Z-001-0249]]
+- [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]|Z-001-0249]
 
 
 ## Related
-- [[Kellogg_Company_Founding_1906_Z-001-0252]|Z-001-0252]]
+- [[Kellogg_Company_Founding_1906_Z-001-0252]|Z-001-0252]
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

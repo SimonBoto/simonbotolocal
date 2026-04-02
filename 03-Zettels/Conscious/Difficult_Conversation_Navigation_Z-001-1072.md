@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Communication
 tags: [zettel, difficult-conversations, challenges]
 parent-moc: 
-source-litnote: [[LitNote_Patient_Communication_Scripts_L-001-0595]]
-source: [[LitNote_Patient_Communication_Scripts_L-001-0595]]
+source-litnote: [[LitNote_Patient_Communication_Scripts_L-001-0595]
+source: [[LitNote_Patient_Communication_Scripts_L-001-0595]
 confidence: high
 created: 2026-03-08
 ---
@@ -95,13 +95,13 @@ Strategies for navigating challenging patient interactions with professionalism 
 4. **Options** — "Would you prefer to talk about X or Y?"
 
 ## Related
-- [[Patient_Objection_Response_Scripts_Z-001-1071]]
-- -Protocols]]
+- [[Patient_Objection_Response_Scripts_Z-001-1071]
+- -Protocols]
 
 ---
 *Source: CGPT-0022 — Patient communication*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

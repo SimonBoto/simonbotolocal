@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "IV Vitamin Therapy Overview"
 date: 2024-05-07
 source: ChatGPT conversation history
-aliases: [CGPT-0402]
+aliases: CGPT-0402]
 tags: [chatgpt-archive, clinical, nutrition, technology]
 status: archived
 ---

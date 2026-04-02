@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Krebs cycle & Mitochondrial Dysfunction"
 date: 2023-04-26
 source: ChatGPT conversation history
-aliases: [CGPT-0655]
+aliases: CGPT-0655]
 tags: [chatgpt-archive, general]
 status: archived
 ---

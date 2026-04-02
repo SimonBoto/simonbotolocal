@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Find payment subscriptions"
 date: 2025-11-29
 source: ChatGPT conversation history
-aliases: [CGPT-0028]
+aliases: CGPT-0028]
 tags: [chatgpt-archive, technology]
 status: archived
 ---

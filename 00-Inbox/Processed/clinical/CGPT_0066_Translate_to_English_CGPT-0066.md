@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Translate to English"
 date: 2025-08-27
 source: ChatGPT conversation history
-aliases: [CGPT-0066]
+aliases: CGPT-0066]
 tags: [chatgpt-archive, clinical, greek_language]
 status: archived
 ---

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, omega-3, omega-6, fatty-acid-ratio, inflammation, epa, dha, linoleic-acid, arachidonic-acid, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]]
+source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]
 status: conscious
 ---
 
@@ -370,14 +370,14 @@ Docosahexaenoic Acid (DHA) — 22:6n-3 (<0.5% conversion)
 
 ---
 
-**Related:** [[Omega_6_Omega_3_Ratio_Evolutionary_Context_Z-001-0948]] | [[Omega_3_Inflammation_Resolution_Z-001-0031]] | [[Seed_Oils_Pro_Inflammatory_Mechanisms_Z-001-0950]]
+**Related:** [[Omega_6_Omega_3_Ratio_Evolutionary_Context_Z-001-0948] | [[Omega_3_Inflammation_Resolution_Z-001-0031] | [[Seed_Oils_Pro_Inflammatory_Mechanisms_Z-001-0950]
 
 **Source:** CGPT-0124 — Five Pillars of Metabolic Health
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

@@ -41,14 +41,14 @@ source-litnote: Synthesized from clinical practice
 ## 🔗 Connected Systems
 
 **Methylation Cycle:**
-- [[Functional_B12_Deficiency_MMA_Assessment_Z-004-0019.md]] — Functional B12 deficiency (MMA + homocysteine together)
+- [[Functional_B12_Deficiency_MMA_Assessment_Z-004-0019.md] — Functional B12 deficiency (MMA + homocysteine together)
 - Z-004-0005 (MTHFR variants — impair folate cycle) — *link pending*
 - Z-004-0006 (MTR/MTRR — B12-dependent remethylation) — *link pending*
 
 **Cofactor Dependencies:**
 - Z-003-0010 (Iron required for methionine synthase) — *link pending*
 - Z-003-0011 (Iron deficiency → elevated homocysteine) — *link pending*
-- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md]] —  supports methylation via calcium signaling
+- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md] —  supports methylation via calcium signaling
 
 **Clinical Outcomes:**
 - Elevated homocysteine → endothelial dysfunction
@@ -100,8 +100,8 @@ Homocysteine ──[BHMT: betaine]──> Methionine
 *Created: 2026-02-26 | Domain: 004 | Status: Conscious*
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

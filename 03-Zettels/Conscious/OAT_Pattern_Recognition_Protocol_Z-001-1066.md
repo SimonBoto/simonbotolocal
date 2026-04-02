@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, oat, patterns, recognition]
 parent-moc: 
-source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
-source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
+source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
+source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
 confidence: high
 created: 2026-03-08
 ---
@@ -73,14 +73,14 @@ Patterns reveal more than individual markers. This protocol teaches systematic p
 5. **Integrate with clinical picture** — Symptoms confirm patterns
 
 ## Related
-- [[OAT_Category_Interpretation_Framework_Z-001-1065]]
-- [[OAT_Mitochondrial_Patterns_Z-001-1067]]
+- [[OAT_Category_Interpretation_Framework_Z-001-1065]
+- [[OAT_Mitochondrial_Patterns_Z-001-1067]
 
 ---
 *Source: CGPT-0022 — OAT interpretation*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

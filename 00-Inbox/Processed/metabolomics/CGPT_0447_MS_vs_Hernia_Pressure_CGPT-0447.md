@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "MS vs. Hernia Pressure"
 date: 2024-03-23
 source: ChatGPT conversation history
-aliases: [CGPT-0447]
+aliases: CGPT-0447]
 tags: [chatgpt-archive, metabolomics, clinical]
 status: archived
 ---

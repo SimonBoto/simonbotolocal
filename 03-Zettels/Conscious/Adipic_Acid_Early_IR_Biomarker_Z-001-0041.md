@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, adipic-acid, biomarker, early-detection, beta-oxidation, organic-acids]
 parent-moc: 
-source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]]
+source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]
 confidence: high
 created: 2026-02-24
 ---
@@ -39,9 +39,9 @@ Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impai
 
 ## Links
 
-- **Upstream:** [[Mitochondrial_Dysfunction_IR_Z-001-0030.md]] — Mitochondrial dysfunction produces this
-- **Parallel:** [[BCAAs_IR_Risk_Z-001-0042.md]] — BCAAs as complementary marker
-- **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045.md]] — Included in METHAP panel
+- **Upstream:** [[Mitochondrial_Dysfunction_IR_Z-001-0030.md] — Mitochondrial dysfunction produces this
+- **Parallel:** [[BCAAs_IR_Risk_Z-001-0042.md] — BCAAs as complementary marker
+- **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045.md] — Included in METHAP panel
 
 ## Context
 
@@ -50,10 +50,10 @@ Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impai
 **Emerges from:**  Taxonomy synthesis document
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family Guide]]
-- [[Glucose_Blood_Sugar_Energy_Z-005-0001]|Glucose — Blood Sugar]]
-- _Pancreatic_Beta-Cell_Response_Z-005-0002]|Insulin — Pancreatic Response]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family Guide]
+- [[Glucose_Blood_Sugar_Energy_Z-005-0001]|Glucose — Blood Sugar]
+- _Pancreatic_Beta-Cell_Response_Z-005-0002]|Insulin — Pancreatic Response]
 - 
 
 ---

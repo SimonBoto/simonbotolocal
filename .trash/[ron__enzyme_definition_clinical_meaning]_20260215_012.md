@@ -22,8 +22,8 @@ Common confusion:
 - Enzymes are not just “digestive enzymes”; they exist in every tissue and pathway.
 
 Related:
-- [[[ron__metabolic_pathway_definition_clinical_meaning]_20260215_029]] (where enzymes act)
-- [[[ron__enzyme_cofactor_definition_clinical_meaning]_20260215_011]] (what enzymes need)
-- [[[ron__micronutrients]_20260215_035]] (cofactor pool context)
-- [[Zettel_Enzymes_Are_Catalysts_That_Dominate_Biochemical_Flux]] (core claim)
-- [[Library_Tsoukalas_Book_Chapter8_Enzymes_Cofactors_Metabolic_Individuality]] (source)
+- [[[ron__metabolic_pathway_definition_clinical_meaning]_20260215_029] (where enzymes act)
+- [[[ron__enzyme_cofactor_definition_clinical_meaning]_20260215_011] (what enzymes need)
+- [[[ron__micronutrients]_20260215_035] (cofactor pool context)
+- [[Zettel_Enzymes_Are_Catalysts_That_Dominate_Biochemical_Flux] (core claim)
+- [[Library_Tsoukalas_Book_Chapter8_Enzymes_Cofactors_Metabolic_Individuality] (source)

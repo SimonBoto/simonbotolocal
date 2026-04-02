@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, HOMA-IR, limitations, late-marker, early-detection, claim]
 parent-moc: 
-source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]]
+source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
@@ -33,8 +33,8 @@ HOMA-IR (Homeostatic Model Assessment for  Resistance) requires elevated glucose
 
 ## Links
 
-- **Upstream:** [[Compensatory_IR_Stage_Z-001-0034.md]] — HOMA-IR misses this stage
-- **Parallel:** [[Fasting_Insulin_Superior_Early_Detection_Z-001-0044.md]] — Fasting insulin detects earlier
+- **Upstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — HOMA-IR misses this stage
+- **Parallel:** [[Fasting_Insulin_Superior_Early_Detection_Z-001-0044.md] — Fasting insulin detects earlier
 - **Downstream:**  — Better alternatives
 
 ## Context
@@ -48,6 +48,6 @@ HOMA-IR (Homeostatic Model Assessment for  Resistance) requires elevated glucose
 *UID: Z-001-0043 | Domain: 001 | Created: 2026-02-24*
 
 ## RELATED FILES
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

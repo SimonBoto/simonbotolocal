@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolic Health
 tags: [zettel, metabolic-flexibility, fuel-switching, insulin]
 parent-moc: 
-source-litnote: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
-source: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
+source-litnote: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]
+source: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]
 confidence: high
 created: 2026-03-08
 ---
@@ -127,7 +127,7 @@ Metabolic flexibility is the ability to switch between fuel sources—glucose, f
 - **Carb loading** exploits flexibility in reverse
 
 ## Related
-- [[Ketosis_Metabolic_Flexibility_Clinical_Z-001-1057]]
+- [[Ketosis_Metabolic_Flexibility_Clinical_Z-001-1057]
 | 
 | 
 
@@ -136,6 +136,6 @@ Metabolic flexibility is the ability to switch between fuel sources—glucose, f
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

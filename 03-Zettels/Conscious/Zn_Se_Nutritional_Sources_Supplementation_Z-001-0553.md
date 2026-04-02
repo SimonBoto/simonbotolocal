@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, zn-se, sources, supplementation, dosing]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]]
+source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]
 extraction-date: 2026-03-01
 ---
 
@@ -56,10 +56,10 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: l_L-001-0510]]*
+*Source: l_L-001-0510]*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 

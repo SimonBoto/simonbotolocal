@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Enzymes and Krebs Cycle"
 date: 2025-07-21
 source: ChatGPT conversation history
-aliases: [CGPT-0071]
+aliases: CGPT-0071]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

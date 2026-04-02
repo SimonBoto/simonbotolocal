@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Real-World Courses in Medicine"
 date: 2023-12-28
 source: ChatGPT conversation history
-aliases: [CGPT-0513]
+aliases: CGPT-0513]
 tags: [chatgpt-archive, general]
 status: archived
 ---

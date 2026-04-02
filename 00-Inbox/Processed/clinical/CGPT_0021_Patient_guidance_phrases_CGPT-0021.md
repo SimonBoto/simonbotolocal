@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Patient guidance phrases"
 date: 2025-12-13
 source: ChatGPT conversation history
-aliases: [CGPT-0021]
+aliases: CGPT-0021]
 tags: [chatgpt-archive, clinical, consciousness_ai, nutrition]
 status: archived
 ---

@@ -6,15 +6,15 @@ aliases: [S-001-0006, Omics_Training_Synthesis, DE1_Synthesis, Systems_Biology_M
 domain: 001
 domain-name: Systems_Biology_Metabolomics
 tags: [synthesis, omics, systems-biology, metabolomics, METHAP, PhD, insulin-resistance, vitamin-D, living-document]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: [[MOC-Research-Methods]
 status: active
 version: 1.1
 created: 2026-02-23
 last-updated: 2026-04-01
 contributing-zettels:
-  - "[[Omics_vs_Genomics_Environmental_Contribution_Z-001-0500]]"
-  - "[[Metabolomics_IR_Research_Advantages_Z-001-0501]]"
-  - "[[Systems_Biology_Integration_Approach_Z-001-0502]]"
+  - "[[Omics_vs_Genomics_Environmental_Contribution_Z-001-0500]"
+  - "[[Metabolomics_IR_Research_Advantages_Z-001-0501]"
+  - "[[Systems_Biology_Integration_Approach_Z-001-0502]"
 ---
 
 # Synthesis: Omics Training Core Insights (DE1 Part 1)

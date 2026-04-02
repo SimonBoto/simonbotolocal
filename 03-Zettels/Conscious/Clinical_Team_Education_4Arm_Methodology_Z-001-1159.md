@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, education, clinical-team, methodology, metabolomics]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Self_Education_Clinical_Team_L-001-0620]]"
+source-litnote: "[[LitNote_Self_Education_Clinical_Team_L-001-0620]"
 status: conscious
 ---
 
@@ -63,15 +63,15 @@ Structured approach for clinical teams to analyze topics from complementary pers
 
 ## Related
 
-- [[GitHub_Clinical_Knowledge_Management_Z-001-1160]]
-- [[Asynchronous_Learning_Medical_Teams_Z-001-1161]]
-- [[Metabolomics_Case_Study_Template_Z-001-1162]]
+- [[GitHub_Clinical_Knowledge_Management_Z-001-1160]
+- [[Asynchronous_Learning_Medical_Teams_Z-001-1161]
+- [[Metabolomics_Case_Study_Template_Z-001-1162]
 
 ---
 
-*Source: [[LitNote_Self_Education_Clinical_Team_L-001-0620]] | 2026-03-08*
+*Source: [[LitNote_Self_Education_Clinical_Team_L-001-0620] | 2026-03-08*
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "GI Microbiome Restoration Guide"
 date: 2025-01-12
 source: ChatGPT conversation history
-aliases: [CGPT-0195]
+aliases: CGPT-0195]
 tags: [chatgpt-archive, vitamin_d, nutrition, personal_development]
 status: archived
 ---

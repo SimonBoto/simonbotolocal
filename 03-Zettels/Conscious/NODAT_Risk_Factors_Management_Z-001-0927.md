@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, nodat, sirolimus, diabetes, management, monitoring, prevention, transplant]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]]"
+source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
 ---
@@ -160,11 +160,11 @@ updated: 2026-03-05
 
 ---
 
-*See also: [[Sirolimus_Lipotoxicity_Adiponectin_Z-001-0926]]*
+*See also: [[Sirolimus_Lipotoxicity_Adiponectin_Z-001-0926]*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Methodology Mistakes Identified"
 date: 2024-07-14
 source: ChatGPT conversation history
-aliases: [CGPT-0328]
+aliases: CGPT-0328]
 tags: [chatgpt-archive, phd_research]
 status: archived
 ---

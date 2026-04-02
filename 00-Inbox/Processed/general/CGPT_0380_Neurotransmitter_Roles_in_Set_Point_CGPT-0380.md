@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Neurotransmitter Roles in Set Point"
 date: 2024-05-20
 source: ChatGPT conversation history
-aliases: [CGPT-0380]
+aliases: CGPT-0380]
 tags: [chatgpt-archive, general]
 status: archived
 ---

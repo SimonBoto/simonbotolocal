@@ -19,12 +19,12 @@ Common confusion:
 - “Metabolomics measures genes.” (It measures chemistry, not DNA—though genetics can influence patterns.)
 
 Related links:
-- [[111_Hub_Mitochondria]]
-- [[111_Hub_Diet_Framework]]
-- [[111_Hub_Vitamins_And_Supplements]]
-- [[Zettel_Pharmacometabolomics_As_Hypothesis_For_Optimizing_Drug_Response_And_Tolerability]]
-- [[Rule_Diet_Personalization_Gates_Current_Metabolism_Context_And_Monitoring]]
-- [[Rule_Medication_Personalization_Benefit_Harm_Tolerability_Monitoring_And_Constraint_Check]]
+- [[111_Hub_Mitochondria]
+- [[111_Hub_Diet_Framework]
+- [[111_Hub_Vitamins_And_Supplements]
+- [[Zettel_Pharmacometabolomics_As_Hypothesis_For_Optimizing_Drug_Response_And_Tolerability]
+- [[Rule_Diet_Personalization_Gates_Current_Metabolism_Context_And_Monitoring]
+- [[Rule_Medication_Personalization_Benefit_Harm_Tolerability_Monitoring_And_Constraint_Check]
 
 Open_Loops:
 - Specify which metabolomics modalities your clinic uses (OAs/FAAs/etc.) and add 1–2 examples of “what it can/can’t do.”

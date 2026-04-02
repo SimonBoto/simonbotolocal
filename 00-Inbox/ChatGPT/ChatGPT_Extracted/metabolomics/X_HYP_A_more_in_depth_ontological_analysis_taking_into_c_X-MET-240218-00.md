@@ -10,7 +10,7 @@ uid: X-MET-240218-00
 type: extracted-hypothesis
 title: "Hypothesis: A more in-depth ontological analysis taking into considaration pathway..."
 date: 2024-02-18
-source: "[[CGPT_0503_Improvements_for_Publishing_[CGPT-0503]]"
+source: "[[CGPT_0503_Improvements_for_Publishing_CGPT-0503]"
 aliases: [X-MET-240218-00]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
@@ -44,8 +44,8 @@ If true, this suggests:
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]
 
 ## Validation Log
 

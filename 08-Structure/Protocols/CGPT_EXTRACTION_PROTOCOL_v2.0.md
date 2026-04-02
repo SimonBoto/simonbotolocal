@@ -55,10 +55,10 @@ grep -r "^uid: Z-001" /home/simon/Workspaces/TheOptimizedBrain/03-Zettels/Consci
 ```
 
 ### □ 5. Permanent Questions Check
-Review [[PERMANENT_QUESTIONS.md]] — does this extraction answer any active questions?
+Review [[PERMANENT_QUESTIONS.md] — does this extraction answer any active questions?
 
 ### □ 6. Synthesis Trigger Check
-Review [[SYNTHESIS_TRIGGERS.md]] — will this push any topic toward critical mass?
+Review [[SYNTHESIS_TRIGGERS.md] — will this push any topic toward critical mass?
 
 ---
 
@@ -92,7 +92,7 @@ Review [[SYNTHESIS_TRIGGERS.md]] — will this push any topic toward critical ma
    - `parent-moc: ` (must exist)
    - `status: extracted` (NOT `conscious`)
 3. Use "Core Concepts Extracted" structure
-4. All zettel links: `[[Title_Z-XXX-XXXX]]`
+4. All zettel links: `[[Title_Z-XXX-XXXX]`
 
 **For each Zettel:**
 1. Filename: `Title_Z-XXX-XXXX].md` (NOT `Z-XXX-XXXX_Title.md`)

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Funding Proposal Design"
 date: 2026-01-30
 source: ChatGPT conversation history
-aliases: [CGPT-0004]
+aliases: CGPT-0004]
 tags: [chatgpt-archive, personal_development]
 status: archived
 ---

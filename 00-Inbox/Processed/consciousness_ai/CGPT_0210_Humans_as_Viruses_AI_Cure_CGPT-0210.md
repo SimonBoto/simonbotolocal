@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Humans as Viruses AI Cure?"
 date: 2025-01-05
 source: ChatGPT conversation history
-aliases: [CGPT-0210]
+aliases: CGPT-0210]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

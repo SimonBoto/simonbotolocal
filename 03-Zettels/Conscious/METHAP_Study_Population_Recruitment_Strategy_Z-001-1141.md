@@ -7,8 +7,8 @@ domain: 001
 domain-name: PhD Research
 tags: [zettel, methap, study-design, recruitment, population]
 parent-moc: 
-source-litnote: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]]
-source: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]]
+source-litnote: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]
+source: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]
 confidence: high
 created: 2026-03-08
 ---
@@ -111,15 +111,15 @@ The METHAP ( and Insulin Resistance) trial recruits 220 participants stratified 
 | **Monitoring** — Safety checks throughout |
 
 ## Related
-- [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]]
-- [[METHAP_Control_Group_Strategy_Reference_Z-001-1143]]
+- [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]
+- [[METHAP_Control_Group_Strategy_Reference_Z-001-1143]
 - 
 
 ---
 *Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

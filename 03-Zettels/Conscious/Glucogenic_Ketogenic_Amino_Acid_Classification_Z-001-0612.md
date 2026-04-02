@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, amino-acids, glucogenic, ketogenic, classification, metabolism, biochemistry, conscious]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]]
+source-litnote: [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]
 extraction-date: 2026-03-05
 ---
 
@@ -100,11 +100,11 @@ The **2 purely ketogenic:**
 
 ---
 
-*Source: CGPT-0413 (April 16, 2024) via [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]]*
+*Source: CGPT-0413 (April 16, 2024) via [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]*
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[BCAAs_IR_Risk_Z-001-0042]|Z-001-0042]]
+- [[BCAAs_IR_Risk_Z-001-0042]|Z-001-0042]

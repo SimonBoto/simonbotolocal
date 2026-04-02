@@ -7,7 +7,7 @@ domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, DMF, dimethyl-fumarate, Nrf2, antioxidant, multiple-sclerosis]
 parent-moc: 
-source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]]
+source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
@@ -49,8 +49,8 @@ Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antiox
 
 ## Links
 
-- **Upstream:** [[Mitochondrial_Dysfunction_IR_Z-001-0030.md]] — Mitochondrial dysfunction and oxidative stress
-- **Parallel:** _Z-001-0020.md]] — Oxidative stress biomarkers
+- **Upstream:** [[Mitochondrial_Dysfunction_IR_Z-001-0030.md] — Mitochondrial dysfunction and oxidative stress
+- **Parallel:** _Z-001-0020.md] — Oxidative stress biomarkers
 - **Downstream:** , 
 
 ## Context
@@ -64,9 +64,9 @@ Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antiox
 *UID: Z-101-0006 | Domain: 101 | Created: 2026-02-24*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

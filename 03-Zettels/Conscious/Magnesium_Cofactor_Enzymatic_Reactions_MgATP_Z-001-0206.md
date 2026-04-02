@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, magnesium, biochemistry, cofactor, ATP, enzymes]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]
+source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]
 extraction-date: 2026-03-01
 ---
 
@@ -67,25 +67,25 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Magnesium_Biochemistry_L-001-0201a]]*  
+*Source: [[LitNote_Magnesium_Biochemistry_L-001-0201a]*  
 *Extracted: 2026-03-01*
 
 
 ## Related
-- [[Glucose_Chemistry_Fischer_19th_Century_Z-001-0238]|Z-001-0238]]
+- [[Glucose_Chemistry_Fischer_19th_Century_Z-001-0238]|Z-001-0238]
 
 
 ## Related
-- [[Magnesium_Diabetes_Risk_Epidemiological_Evidence_Z-001-0212]|Z-001-0212]]
+- [[Magnesium_Diabetes_Risk_Epidemiological_Evidence_Z-001-0212]|Z-001-0212]
 
 
 ## Related
-- [[Magnesium_Ion_Transport_Cellular_Signaling_Z-001-0208]|Z-001-0208]]
+- [[Magnesium_Ion_Transport_Cellular_Signaling_Z-001-0208]|Z-001-0208]
 
 
 ## Related
-- [[Magnesium_Energy_Production_Mitochondrial_Function_Z-001-0207]|Z-001-0207]]
+- [[Magnesium_Energy_Production_Mitochondrial_Function_Z-001-0207]|Z-001-0207]
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

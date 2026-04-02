@@ -13,7 +13,7 @@ tags:
   - pepck
   - krebs-cycle
   - anaplerosis
-source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]"
+source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]"
 extraction-date: 2026-03-04
 status: extracted
 parent-moc:
@@ -175,19 +175,19 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 
 ## Zettels Extracted
 
-- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]] Oxaloacetate Dual Role: Krebs and Gluconeogenesis
-- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]] Gluconeogenesis from Oxaloacetate
-- [[Mitochondrial_Shuttles_Malate_Aspartate_Z-001-0490]] Mitochondrial Shuttles: Malate and Aspartate
-- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491]] PEPCK and Gluconeogenic Regulation
-- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]] Anaplerosis: Replenishing Krebs Cycle
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488] Oxaloacetate Dual Role: Krebs and Gluconeogenesis
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489] Gluconeogenesis from Oxaloacetate
+- [[Mitochondrial_Shuttles_Malate_Aspartate_Z-001-0490] Mitochondrial Shuttles: Malate and Aspartate
+- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491] PEPCK and Gluconeogenic Regulation
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492] Anaplerosis: Replenishing Krebs Cycle
 
 ---
 
 ## Connections
 
-- [[L-001-0045G]] Ketogenesis (competing pathway)
-- [[L-001-0045F]] Keto Acids (pyruvate carboxylase)
-- [[L-001-0046A]] Amino Acid Entry to Krebs (aspartate/alanine)
+- [[L-001-0045G] Ketogenesis (competing pathway)
+- [[L-001-0045F] Keto Acids (pyruvate carboxylase)
+- [[L-001-0046A] Amino Acid Entry to Krebs (aspartate/alanine)
 - 
 - 
 

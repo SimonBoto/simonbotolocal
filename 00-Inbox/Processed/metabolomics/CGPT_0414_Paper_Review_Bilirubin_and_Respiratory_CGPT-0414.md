@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Paper Review: Bilirubin and Respiratory"
 date: 2024-04-13
 source: ChatGPT conversation history
-aliases: [CGPT-0414]
+aliases: CGPT-0414]
 tags: [chatgpt-archive, metabolomics]
 status: archived
 ---

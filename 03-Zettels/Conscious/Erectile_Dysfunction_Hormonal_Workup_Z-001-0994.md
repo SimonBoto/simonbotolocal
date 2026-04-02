@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, erectile-dysfunction, ed, hormonal-workup, testosterone, prolactin, fsh, lh, diagnostic-algorithm, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Male_Hormone_Assessment_Scenarios_L-001-0578]]
+source-litnote: [[LitNote_Male_Hormone_Assessment_Scenarios_L-001-0578]
 status: conscious
 ---
 
@@ -244,14 +244,14 @@ Focused evaluation                  Consider TRT
 
 ---
 
-**Related:** [[Primary_Secondary_Hypogonadism_Z-001-0991]] | [[Prolactinoma_Diagnosis_Management_Z-001-0992]] | [[SHBG_Physiology_Clinical_Significance_Z-001-0993]] | [[Testosterone_Replacement_Therapy_Monitoring_Z-001-0091]]
+**Related:** [[Primary_Secondary_Hypogonadism_Z-001-0991] | [[Prolactinoma_Diagnosis_Management_Z-001-0992] | [[SHBG_Physiology_Clinical_Significance_Z-001-0993] | [[Testosterone_Replacement_Therapy_Monitoring_Z-001-0091]
 
 **Source:** CGPT-0438 — Hormone Scenarios
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

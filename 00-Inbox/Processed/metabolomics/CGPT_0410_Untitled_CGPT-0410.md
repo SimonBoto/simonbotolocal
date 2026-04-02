@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Untitled"
 date: 2024-04-19
 source: ChatGPT conversation history
-aliases: [CGPT-0410]
+aliases: CGPT-0410]
 tags: [chatgpt-archive, metabolomics, clinical, consciousness_ai, nutrition]
 status: archived
 ---

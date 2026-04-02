@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, trans-fat, cis-fat, fatty-acid-geometry, cardiovascular-health]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]]"
+source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]"
 status: conscious
 ---
 
@@ -174,21 +174,21 @@ Note: <0.5g/serving can be labeled "0g trans fat"
 
 ## Related
 
-- [[Saturated_vs_Unsaturated_Fats_Z-001-1210]]
-- [[Omega_Classification_System_Explained_Z-001-1209]]
+- [[Saturated_vs_Unsaturated_Fats_Z-001-1210]
+- [[Omega_Classification_System_Explained_Z-001-1209]
 
 ---
 
-*Source: [[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]] | 2026-03-08*
+*Source: [[LitNote_Fatty_Acid_Structure_Classification_L-001-0632] | 2026-03-08*
 
 
 ## Related
-- [[Oxalic_Acid_Structure_Properties_Z-001-0601]|Z-001-0601]]
+- [[Oxalic_Acid_Structure_Properties_Z-001-0601]|Z-001-0601]
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

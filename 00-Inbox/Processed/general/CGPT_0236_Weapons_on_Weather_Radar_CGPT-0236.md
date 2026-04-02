@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Weapons on Weather Radar"
 date: 2024-12-01
 source: ChatGPT conversation history
-aliases: [CGPT-0236]
+aliases: CGPT-0236]
 tags: [chatgpt-archive, general]
 status: archived
 ---

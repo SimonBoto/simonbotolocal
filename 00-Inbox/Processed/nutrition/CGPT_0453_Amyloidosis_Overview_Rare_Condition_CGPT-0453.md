@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Amyloidosis Overview: Rare Condition"
 date: 2024-03-21
 source: ChatGPT conversation history
-aliases: [CGPT-0453]
+aliases: CGPT-0453]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

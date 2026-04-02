@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "I Ching Reading Guide"
 date: 2025-04-25
 source: ChatGPT conversation history
-aliases: [CGPT-0100]
+aliases: CGPT-0100]
 tags: [chatgpt-archive, general]
 status: archived
 ---

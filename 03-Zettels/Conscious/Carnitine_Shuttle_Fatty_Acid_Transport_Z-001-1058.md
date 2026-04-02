@@ -7,8 +7,8 @@ domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, carnitine, fatty-acids, transport]
 parent-moc: 
-source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
-source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
+source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
+source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
 confidence: high
 created: 2026-03-08
 ---
@@ -85,8 +85,8 @@ Elevated acylcarnitines in blood spot testing indicate:
 | **Propionyl-L-carnitine** | Cardiovascular focus |
 
 ## Related
-- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]]
-- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]
 - 
 
 ---
@@ -94,5 +94,5 @@ Elevated acylcarnitines in blood spot testing indicate:
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 

@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, oat, mitochondria, patterns]
 parent-moc: 
-source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
-source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]]
+source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
+source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
 confidence: high
 created: 2026-03-08
 ---
@@ -84,8 +84,8 @@ created: 2026-03-08
 4. **Optimize substrate** — L-carnitine for FAO
 
 ## Related
-- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]]
-- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]
 - 
 
 ---

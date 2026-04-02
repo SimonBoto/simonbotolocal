@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "MetaboAnalyst Enrichment Analysis"
 date: 2023-08-28
 source: ChatGPT conversation history
-aliases: [CGPT-0587]
+aliases: CGPT-0587]
 tags: [chatgpt-archive, metabolomics, phd_research, consciousness_ai]
 status: archived
 ---

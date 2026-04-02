@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Ξεκινώντας EE Ιατρική Ελλάδα"
 date: 2025-03-18
 source: ChatGPT conversation history
-aliases: [CGPT-0120]
+aliases: CGPT-0120]
 tags: [chatgpt-archive, metabolomics, greek_language]
 status: archived
 ---

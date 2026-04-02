@@ -6,7 +6,7 @@ aliases: [Z-001-0603, oxalate-calcium, oxalate-iron, mineral-binding]
 domain: 001
 tags: [zettel, oxalate, calcium, iron, bioavailability, chelation]
 parent-moc: 
-source: [[L-001-0060A]]
+source: [[L-001-0060A]
 confidence: high
 created: 2026-03-04
 ---
@@ -57,12 +57,12 @@ Also bind oxalate, though less clinically significant than calcium.
 4. Cooking reduces oxalate in some vegetables
 
 ## Related
-- [[Dietary_Sources_Oxalate_Table_Z-001-0602]] — Food sources
-- [[Kidney_Stones_Calcium_Oxalate_Pathophysiology_Z-001-0604]] — Stone disease
+- [[Dietary_Sources_Oxalate_Table_Z-001-0602] — Food sources
+- [[Kidney_Stones_Calcium_Oxalate_Pathophysiology_Z-001-0604] — Stone disease
 
 ---
 *Source: CGPT-0413 | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]

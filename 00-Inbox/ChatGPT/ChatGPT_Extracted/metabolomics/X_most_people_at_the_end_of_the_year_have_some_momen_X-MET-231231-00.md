@@ -10,7 +10,7 @@ uid: X-MET-231231-00
 type: extracted-insight
 title: "most people at the end of the year have some moments to see what happened ast ye..."
 date: 2023-12-31
-source: "[[CGPT_0510_Reflect_and_Plan_Ahead_[CGPT-0510]]"
+source: "[[CGPT_0510_Reflect_and_Plan_Ahead_CGPT-0510]"
 aliases: [X-MET-231231-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
@@ -50,8 +50,8 @@ it would be nice if you could start by asking questions in a psychoanalytic styl
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]
 
 ## Status
 

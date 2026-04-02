@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, dysbiosis, microbiome, gut-health, metabolomics, scfa, autoimmunity, conscious]
 parent-moc: 
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
+source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -115,12 +115,12 @@ Emerging evidence suggests:
 ## Connections
 
 ### Upstream
-- [[Microbiomics_Gut_Metabolic_Organ_Z-001-0908]] — DE1 microbiome foundation
-- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Environmental factor
+- [[Microbiomics_Gut_Metabolic_Organ_Z-001-0908] — DE1 microbiome foundation
+- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903] — Environmental factor
 
 ### Downstream
-- [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]] — Dysbiosis-IR link
-- -Mechanisms]] — VitD-gut axis
+- [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md] — Dysbiosis-IR link
+- -Mechanisms] — VitD-gut axis
 
 ### Cross-Domain
 -  — Trial integration
@@ -150,21 +150,21 @@ Emerging evidence suggests:
 - Longitudinal microbiome changes with IR progression
 
 ## See Also
-- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 1.2)
-- [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021.md]] — Probiotic micronutrient link
-- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]] — LPS-induced OS
+- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003] — Source (Section 1.2)
+- [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021.md] — Probiotic micronutrient link
+- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md] — LPS-induced OS
 
 ---
 *Confidence: High* — Established gut-metabolism connection  
 *Next Review: After microbiome-focused literature review*
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
 - 
-- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]|Z-001-1045]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]|Z-001-1045]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

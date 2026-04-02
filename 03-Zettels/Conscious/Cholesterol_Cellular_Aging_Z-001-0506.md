@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, cholesterol, aging, membrane, lipid-rafts]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]]
+source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]
 extraction-date: 2026-03-01
 ---
 
@@ -56,9 +56,9 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Cholesterol_Biology_L-001-0501]]*
+*Source: [[LitNote_Cholesterol_Biology_L-001-0501]*
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 

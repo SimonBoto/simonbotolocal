@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Finding IV Infusion Suppliers"
 date: 2025-05-22
 source: ChatGPT conversation history
-aliases: [CGPT-0076]
+aliases: CGPT-0076]
 tags: [chatgpt-archive, general]
 status: archived
 ---

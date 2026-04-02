@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, confounding, smoking, socioeconomic, sugar]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]]
+source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]
 extraction-date: 2026-03-01
 ---
 
@@ -49,15 +49,15 @@ Likely captures **Mediterranean pattern** (olive oil, vegetables, lifestyle) not
 
 ---
 
-*Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]]*
+*Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]*
 
 
 ## Related
-- [[Seven_Countries_Study_Design_Structure_Z-001-0522]|Z-001-0522]]
+- [[Seven_Countries_Study_Design_Structure_Z-001-0522]|Z-001-0522]
 
 
 ## Related
-- [[Seven_Countries_Study_Reassessment_Z-001-0518]|Z-001-0518]]
+- [[Seven_Countries_Study_Reassessment_Z-001-0518]|Z-001-0518]
 
 
 ## RELATED FILES

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Clear Hearing, Can Assist"
 date: 2024-05-22
 source: ChatGPT conversation history
-aliases: [CGPT-0373]
+aliases: CGPT-0373]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

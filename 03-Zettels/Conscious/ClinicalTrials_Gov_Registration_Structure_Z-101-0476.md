@@ -6,7 +6,7 @@ aliases: [Z-101-0476]
 domain: 101
 tags: [zettel, clinicaltrials-gov, trial-registration, nih, methap, phd, regulatory, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]]
+source-litnote: [[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]
 status: conscious
 ---
 
@@ -138,15 +138,15 @@ ClinicalTrials.gov is the NIH-maintained registry for clinical studies. Registra
 - Timeframes clearly specified
 
 ## Related
-- **Source:** [[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]]
-- **Compliance:** [[ClinicalTrials_Gov_Compliance_Checklist_Z-101-0477]]
-- **Study design:** [[METHAP_Study_Design_Overview_Z-101-0472]]
+- **Source:** [[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]
+- **Compliance:** [[ClinicalTrials_Gov_Compliance_Checklist_Z-101-0477]
+- **Study design:** [[METHAP_Study_Design_Overview_Z-101-0472]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

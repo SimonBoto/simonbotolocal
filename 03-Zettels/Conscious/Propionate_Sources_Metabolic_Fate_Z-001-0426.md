@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, propionate, scfa, gut, metabolism]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]
+source-litnote: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]
 extraction-date: 2026-03-01
 ---
 
@@ -53,10 +53,10 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: _L-001-0405]]*
+*Source: _L-001-0405]*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
-- [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_Z-001-0610]|Z-001-0610]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+- [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_Z-001-0610]|Z-001-0610]

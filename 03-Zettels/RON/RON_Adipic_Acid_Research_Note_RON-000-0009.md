@@ -29,7 +29,7 @@ domains:
   - "001"
 status: "reference"
 extraction-priority: P1
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: [[MOC-Research-Methods]
 connections:
   extracted-zettels: []
   synthesis-links: []

@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolism
 tags: [zettel, neurotransmitters, dopamine, serotonin, gaba]
 parent-moc: 
-source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
-source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
+source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
+source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
 confidence: high
 created: 2026-03-08
 ---
@@ -88,8 +88,8 @@ Glutamate → GABA
 - **HPHPA** from Clostridia inhibits dopamine conversion
 
 ## Related
-- _Folate_B12_Z-001-1062]]
-- [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
+- _Folate_B12_Z-001-1062]
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]
 - 
 
 ---
@@ -97,6 +97,6 @@ Glutamate → GABA
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

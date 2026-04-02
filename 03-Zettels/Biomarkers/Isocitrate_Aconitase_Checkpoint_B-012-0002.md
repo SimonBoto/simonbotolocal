@@ -119,10 +119,10 @@ The enzyme **isocitrate dehydrogenase (IDH)** is heavily regulated:
 ### Cross-Domain Links
 | Related Marker | Connection | Clinical Implication |
 |----------------|------------|---------------------|
-| [[B-003-0001|Ferritin/Iron]] | Fe-S cluster requirement | Always check iron studies with high isocitrate |
-| [[B-002-0001|CRP]] | Inflammation → oxidative stress | High CRP + high isocitrate = red flag |
-| [[B-004-0001|Homocysteine]] | Methylation supports antioxidant defense | Combined elevation suggests multi-system stress |
-| [[B-012-0001|Citrate]] | Upstream partner | Citrate/isocitrate ratio indicates aconitase efficiency |
+| [[B-003-0001|Ferritin/Iron] | Fe-S cluster requirement | Always check iron studies with high isocitrate |
+| [[B-002-0001|CRP] | Inflammation → oxidative stress | High CRP + high isocitrate = red flag |
+| [[B-004-0001|Homocysteine] | Methylation supports antioxidant defense | Combined elevation suggests multi-system stress |
+| [[B-012-0001|Citrate] | Upstream partner | Citrate/isocitrate ratio indicates aconitase efficiency |
 
 ---
 
@@ -209,7 +209,7 @@ The enzyme **isocitrate dehydrogenase (IDH)** is heavily regulated:
 | Address inflammation | Ferritin high but TIBC low | Anti-inflammatory protocol first |
 
 ### Tier 3: Mitochondrial Support
-(See [[B-012-0001|Citrate guide]] for full mitochondrial protocol)
+(See [[B-012-0001|Citrate guide] for full mitochondrial protocol)
 
 ---
 
@@ -235,10 +235,10 @@ The enzyme **isocitrate dehydrogenase (IDH)** is heavily regulated:
 ---
 
 ## Related Files
-- [[B-012-0001|Citrate — Mitochondrial Dysfunction Marker]]
-- [[B-012-0003|α-Ketoglutarate — Nitrogen & Energy Hub]]
-- [[B-003-0001|Iron Studies Family]]
-- [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition]]
+- [[B-012-0001|Citrate — Mitochondrial Dysfunction Marker]
+- [[B-012-0003|α-Ketoglutarate — Nitrogen & Energy Hub]
+- [[B-003-0001|Iron Studies Family]
+- [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition]
 
 ---
 *Part of OAT Metabolite Training System — Mitochondrial Markers Module*

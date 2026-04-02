@@ -6,7 +6,7 @@ aliases: [Z-101-0466]
 domain: 101
 tags: [zettel, oxalic-acid, nutrition, dietary-sources, kidney-stones, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]]
+source-litnote: [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]
 status: conscious
 ---
 
@@ -70,12 +70,12 @@ Oxalic acid occurs naturally in many plant foods. Content varies dramatically by
 - **Cooking effects:** Boiling can reduce oxalate content (leaches into water)
 
 ## Related
-- **Source:** [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]]
-- **Clinical impact:** [[Oxalate_Clinical_Relevance_Z-101-0468]]
+- **Source:** [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]
+- **Clinical impact:** [[Oxalate_Clinical_Relevance_Z-101-0468]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

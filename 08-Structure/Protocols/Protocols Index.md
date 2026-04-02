@@ -24,8 +24,8 @@ tags: [index, protocols, processes]
 
 ## Connection to Vault
 
-- Up: [[08 Structure Index]]
-- Related: [[Templates Index]], [[07 Projects Index]]
+- Up: [[08 Structure Index]
+- Related: [[Templates Index], [[07 Projects Index]
 
 ---
 

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, power-analysis, sample-size, cohens-f, anova, formula, statistics]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Power_Analysis_Metabolomics_L-001-0514]]"
+source: "[[LitNote_Power_Analysis_Metabolomics_L-001-0514]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
@@ -134,10 +134,10 @@ n = 66 per group
 
 ---
 
-*See also: [[Underpowered_Study_Consequences_Z-001-0929]]*
+*See also: [[Underpowered_Study_Consequences_Z-001-0929]*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

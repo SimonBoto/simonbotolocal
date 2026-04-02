@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, international-research, developing-countries, exploitation, post-trial-access, cioms, benefit-sharing, double-standard, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]]
+source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]
 status: conscious
 ---
 
@@ -330,11 +330,11 @@ Respect for communities affected by research.
 
 ---
 
-**Related:** [[Vulnerable_Populations_Research_Z-001-1006]] | [[Seven_Requirements_Ethical_Research_Z-001-1002]] | [[Historical_Ethical_Guidelines_Z-001-1003]]
+**Related:** [[Vulnerable_Populations_Research_Z-001-1006] | [[Seven_Requirements_Ethical_Research_Z-001-1002] | [[Historical_Ethical_Guidelines_Z-001-1003]
 
 **Source:** CGPT-0131 — Medical Ethics Assistance
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -8,7 +8,7 @@ tags: [zettel, ketoses, fructose, ribulose, xylulose, sorbose]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045E]]
+source: [[L-001-0045E]
 ---
 
 # Common Ketoses and Their Roles
@@ -62,15 +62,15 @@ source: [[L-001-0045E]]
 Ketoses (especially fructose) are generally **sweeter** than aldoses due to structural differences in receptor binding.
 
 ## Related
-- _Z-001-0471]] Aldose vs Ketose Chemistry
-- [[Common_Aldoses_Roles_Z-001-0474]] Common Aldoses (contrast)
+- _Z-001-0471] Aldose vs Ketose Chemistry
+- [[Common_Aldoses_Roles_Z-001-0474] Common Aldoses (contrast)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Fructose_Glycolytic_Intermediate_Z-001-0468]|Z-001-0468]]
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]|Z-001-0468]

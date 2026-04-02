@@ -92,9 +92,9 @@ Take 1 capsule daily with water or as directed by your physician.
 | 1 | €1.25 | 250 mg | Standard maintenance |
 
 ## Biomarker Links
-- [[NAD_Plus_Cellular_Energy_Z-001-XXXX]] — target optimal levels
-- [[Mitochondrial_Function_Markers_Z-001-XXXX]] — improved with NAD+
-- [[Sirtuins_Longevity_Genes_Z-001-XXXX]] — activated by NAD+
+- [[NAD_Plus_Cellular_Energy_Z-001-XXXX] — target optimal levels
+- [[Mitochondrial_Function_Markers_Z-001-XXXX] — improved with NAD+
+- [[Sirtuins_Longevity_Genes_Z-001-XXXX] — activated by NAD+
 
 ## Comparison with Other ND Anti-Aging
 | Feature | Life Energy+ | Reyouth | Senolytics |

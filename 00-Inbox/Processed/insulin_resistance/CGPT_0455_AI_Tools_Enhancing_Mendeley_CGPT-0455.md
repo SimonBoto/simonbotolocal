@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "AI Tools Enhancing Mendeley"
 date: 2024-03-18
 source: ChatGPT conversation history
-aliases: [CGPT-0455]
+aliases: CGPT-0455]
 tags: [chatgpt-archive, insulin_resistance, clinical, consciousness_ai, nutrition, technology]
 status: archived
 ---

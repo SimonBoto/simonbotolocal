@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Designing Doctors' Functional Medicine Course"
 date: 2023-06-01
 source: ChatGPT conversation history
-aliases: [CGPT-0622]
+aliases: CGPT-0622]
 tags: [chatgpt-archive, clinical, phd_research, technology]
 status: archived
 ---

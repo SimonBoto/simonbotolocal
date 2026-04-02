@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Stavroula Hatzios Research Summary"
 date: 2025-06-17
 source: ChatGPT conversation history
-aliases: [CGPT-0077]
+aliases: CGPT-0077]
 tags: [chatgpt-archive, metabolomics, clinical, personal_development]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Is Aluminum Edible"
 date: 2024-10-14
 source: ChatGPT conversation history
-aliases: [CGPT-0269]
+aliases: CGPT-0269]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

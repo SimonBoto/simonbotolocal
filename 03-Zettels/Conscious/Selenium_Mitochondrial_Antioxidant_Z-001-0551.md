@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, selenium, gpx, thioredoxin, antioxidant]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]]
+source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]
 extraction-date: 2026-03-01
 ---
 
@@ -56,10 +56,10 @@ NADPH + Trx-S₂ → NADP⁺ + Trx-(SH)₂
 
 ---
 
-*Source: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]]*
+*Source: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]*
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- _Zinc_Selenium_Z-001-1015]|Z-001-1015]]
+- _Zinc_Selenium_Z-001-1015]|Z-001-1015]

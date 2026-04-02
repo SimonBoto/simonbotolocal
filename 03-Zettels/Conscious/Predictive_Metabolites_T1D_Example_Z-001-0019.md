@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, predictive-biomarkers, t1d, early-detection, metabolomics, clinical-practice, conscious]
 parent-moc: 
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
+source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -71,11 +71,11 @@ Just as T1D metabolites predict disease, **adipic acid may predict insulin resis
 ## Connections
 
 ### Upstream
-- [[Phenotype_Mapping_Metabolomics_Z-001-0018.md]] — Phenotype measurement foundation
-- [[Biomarkers_Precision_Medicine_Z-001-0909]] — Biomarker classification
+- [[Phenotype_Mapping_Metabolomics_Z-001-0018.md] — Phenotype measurement foundation
+- [[Biomarkers_Precision_Medicine_Z-001-0909] — Biomarker classification
 
 ### Downstream
-- [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md]] — IR prediction target
+- [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md] — IR prediction target
 -  — Trial design integration
 
 ### Cross-Domain
@@ -99,16 +99,16 @@ Just as T1D metabolites predict disease, **adipic acid may predict insulin resis
 4. Applicability to T2D/IR prediction?
 
 ## See Also
-- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 2.2)
-- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]] — Individual variation
+- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003] — Source (Section 2.2)
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910] — Individual variation
 -  — Target biomarker [stub]
 
 ---
 *Confidence: Medium* — Framework established, specific metabolites need verification  
 *Next Review: After finding primary T1D metabolomics sources*
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

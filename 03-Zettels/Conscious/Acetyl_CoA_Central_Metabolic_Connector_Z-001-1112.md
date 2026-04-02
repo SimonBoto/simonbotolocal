@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolism
 tags: [zettel, acetyl-coa, connector, metabolism]
 parent-moc: 
-source-litnote: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
-source: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
+source-litnote: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]
+source: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]
 confidence: high
 created: 2026-03-08
 ---
@@ -108,8 +108,8 @@ Acetyl-CoA
 | **Clock proteins** | Circadian rhythm regulation |
 
 ## Related
-- [[Pyruvate_Metabolic_Hub_Multiple_Fates_Z-001-1111]]
-| [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+- [[Pyruvate_Metabolic_Hub_Multiple_Fates_Z-001-1111]
+| [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]
 | 
 
 ---
@@ -117,6 +117,6 @@ Acetyl-CoA
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

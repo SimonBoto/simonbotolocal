@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Vitamin D Upper Limits"
 date: 2024-04-11
 source: ChatGPT conversation history
-aliases: [CGPT-0419]
+aliases: CGPT-0419]
 tags: [chatgpt-archive, vitamin_d, clinical, nutrition]
 status: archived
 ---

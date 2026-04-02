@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, tpp, thiamine, vitamin-b1, decarboxylation, pyruvate-dehydrogenase]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630]]"
+source-litnote: "[[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630]"
 status: conscious
 ---
 
@@ -173,16 +173,16 @@ Degrades branched-chain amino acid derivatives
 
 ## Related
 
-- [[PLP_Vitamin_B6_Cofactor_Z-001-1201]]
-- [[B_Vitamin_Cofactors_Metabolism_Z-001-1202]]
-- [[Pyruvate_Dehydrogenase_Complex_Z-001-1214]]
+- [[PLP_Vitamin_B6_Cofactor_Z-001-1201]
+- [[B_Vitamin_Cofactors_Metabolism_Z-001-1202]
+- [[Pyruvate_Dehydrogenase_Complex_Z-001-1214]
 
 ---
 
-*Source: [[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630]] | 2026-03-08*
+*Source: [[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

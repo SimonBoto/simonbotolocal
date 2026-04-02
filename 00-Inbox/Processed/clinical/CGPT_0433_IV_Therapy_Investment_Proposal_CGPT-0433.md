@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "IV Therapy Investment Proposal"
 date: 2024-04-07
 source: ChatGPT conversation history
-aliases: [CGPT-0433]
+aliases: CGPT-0433]
 tags: [chatgpt-archive, clinical, phd_research]
 status: archived
 ---

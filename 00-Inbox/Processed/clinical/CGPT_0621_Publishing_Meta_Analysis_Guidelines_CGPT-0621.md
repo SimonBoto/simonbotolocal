@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Publishing Meta-Analysis Guidelines"
 date: 2023-06-02
 source: ChatGPT conversation history
-aliases: [CGPT-0621]
+aliases: CGPT-0621]
 tags: [chatgpt-archive, clinical, phd_research]
 status: archived
 ---

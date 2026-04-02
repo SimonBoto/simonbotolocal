@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Wellness Center Vision"
 date: 2024-04-06
 source: ChatGPT conversation history
-aliases: [CGPT-0434]
+aliases: CGPT-0434]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, nutrition, personal_development]
 status: archived
 ---

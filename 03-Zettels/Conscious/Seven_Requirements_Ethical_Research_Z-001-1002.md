@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, research-ethics, emanuel, seven-requirements, informed-consent, scientific-validity, risk-benefit, irb, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]]
+source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]
 status: conscious
 ---
 
@@ -282,11 +282,11 @@ Ethical research requires more than informed consent. All seven requirements mus
 
 ---
 
-**Related:** [[Historical_Ethical_Guidelines_Nuremberg_Helsinki_Z-001-1003]] | [[IRB_Ethics_Committee_Functions_Z-001-1004]] | [[Informed_Consent_Requirements_Z-001-1005]]
+**Related:** [[Historical_Ethical_Guidelines_Nuremberg_Helsinki_Z-001-1003] | [[IRB_Ethics_Committee_Functions_Z-001-1004] | [[Informed_Consent_Requirements_Z-001-1005]
 
 **Source:** CGPT-0131 — Medical Ethics Assistance
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

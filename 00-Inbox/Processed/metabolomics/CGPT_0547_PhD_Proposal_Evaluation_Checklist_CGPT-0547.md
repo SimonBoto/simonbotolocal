@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "PhD Proposal Evaluation Checklist"
 date: 2023-09-17
 source: ChatGPT conversation history
-aliases: [CGPT-0547]
+aliases: CGPT-0547]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition]
 status: archived
 ---

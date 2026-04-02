@@ -13,7 +13,7 @@ relevance: Critical — Links Vitamin D to autoimmunity mechanisms
 aliases: [L-001-0621, VDR Immunity, Vitamin D Autoimmune Protection]
 domain: 001
 tags: [litnote, vdr, vitamin-d, immunity, autoimmunity, knockout-studies]
-source: "[[CGPT_0311_Self_Education_Program_Plan_[CGPT-0311]]"
+source: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
@@ -146,10 +146,10 @@ extraction-date: 2026-03-08
 ## Connections
 
 **Related Zettels:**
-- [[VDR_Knockout_Mouse_Phenotypes_Z-001-0987]] — Existing zettel
-- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]] — To create
-- [[Autoimmune_Disease_Vitamin_D_Connection_Z-001-1164]] — To create
-- [[Treg_Th17_Balance_VDR_Z-001-1165]] — To create
+- [[VDR_Knockout_Mouse_Phenotypes_Z-001-0987] — Existing zettel
+- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163] — To create
+- [[Autoimmune_Disease_Vitamin_D_Connection_Z-001-1164] — To create
+- [[Treg_Th17_Balance_VDR_Z-001-1165] — To create
 
 **MOCs:**
 -  — Primary domain
@@ -157,7 +157,7 @@ extraction-date: 2026-03-08
 -  — Intersection
 
 **LitNotes:**
-- [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]] — Partial overlap
+- [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577] — Partial overlap
 
 ---
 

@@ -7,8 +7,8 @@ domain: 001
 domain-name: Gut Health
 tags: [zettel, microbiome, gut, definitions]
 parent-moc: 
-source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
-source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
+source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
+source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 confidence: high
 created: 2026-03-08
 ---
@@ -42,14 +42,14 @@ The microbiome:
 > "Energy before gut" — l support precedes aggressive gut protocols.
 
 ## Related
-- -Analysis]]
-- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+- -Analysis]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]
 
 ---
 *Source: CGPT-0022 — Tsoukalas Core Vocabulary*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
-- [[Propionate_Sources_Metabolic_Fate_Z-001-0426]|Z-001-0426]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+- [[Propionate_Sources_Metabolic_Fate_Z-001-0426]|Z-001-0426]

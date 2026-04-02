@@ -10,7 +10,7 @@ uid: X-GRE-251217-00
 type: extracted-insight
 title: "review the original and see if have changed something in an important way."
 date: 2025-12-17
-source: "[[CGPT_0010_Μεταφραση_Βιβλιου_Τελομερη_και_Γηρανση_[CGPT-0010]]"
+source: "[[CGPT_0010_Μεταφραση_Βιβλιου_Τελομερη_και_Γηρανση_CGPT-0010]"
 aliases: [X-GRE-251217-00]
 tags: [extracted, insight, greek_language, chatgpt-archive]
 related: []

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Analyzing Organic and Fatty Acids"
 date: 2023-08-27
 source: ChatGPT conversation history
-aliases: [CGPT-0589]
+aliases: CGPT-0589]
 tags: [chatgpt-archive, metabolomics, clinical, greek_language, nutrition]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Insulin Resistance Questionnaire Selection"
 date: 2024-05-26
 source: ChatGPT conversation history
-aliases: [CGPT-0364]
+aliases: CGPT-0364]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition, personal_development]
 status: archived
 ---

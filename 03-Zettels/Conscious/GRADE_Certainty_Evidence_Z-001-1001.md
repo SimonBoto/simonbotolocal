@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, grade, certainty-of-evidence, systematic-review, recommendations, confidence, downgrade, upgrade, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]]
+source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]
 status: conscious
 ---
 
@@ -294,11 +294,11 @@ GRADE (Grading of Recommendations Assessment, Development and Evaluation) provid
 
 ---
 
-**Related:** [[Meta_Analysis_Statistics_Z-001-1000]] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999]] | [[PRISMA_Reporting_Guidelines_Z-001-1002]]
+**Related:** [[Meta_Analysis_Statistics_Z-001-1000] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999] | [[PRISMA_Reporting_Guidelines_Z-001-1002]
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

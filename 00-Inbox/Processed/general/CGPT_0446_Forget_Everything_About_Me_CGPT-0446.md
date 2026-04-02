@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Forget Everything About Me"
 date: 2024-03-24
 source: ChatGPT conversation history
-aliases: [CGPT-0446]
+aliases: CGPT-0446]
 tags: [chatgpt-archive, general]
 status: archived
 ---

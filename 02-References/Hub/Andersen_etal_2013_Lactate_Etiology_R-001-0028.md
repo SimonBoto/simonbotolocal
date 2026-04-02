@@ -59,11 +59,11 @@ notes: |
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Mitochondrial_Energy_Terminology_Z-001-1043]] — Lactate as metabolic stress biomarker
-- [[Mitochondrial_Dysfunction_Cancer_Metabolism_Z-001-1120]] — Mitochondrial dysfunction markers
+- [[Mitochondrial_Energy_Terminology_Z-001-1043] — Lactate as metabolic stress biomarker
+- [[Mitochondrial_Dysfunction_Cancer_Metabolism_Z-001-1120] — Mitochondrial dysfunction markers
 
 ### Methods
-- [[Clinical_Metabolic_Markers_HOMA_IR_HbA1c_Z-001-1147]] — Metabolic assessment methodology
+- [[Clinical_Metabolic_Markers_HOMA_IR_HbA1c_Z-001-1147] — Metabolic assessment methodology
 
 ---
 

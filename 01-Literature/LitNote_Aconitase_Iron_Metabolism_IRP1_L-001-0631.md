@@ -13,7 +13,7 @@ relevance: High — Links energy metabolism to iron homeostasis
 aliases: [L-001-0631, Aconitase, IRP1, Iron Regulatory Protein]
 domain: 001
 tags: [litnote, aconitase, irp1, iron-metabolism, krebs-cycle, fe-s-cluster]
-source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]"
+source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
@@ -208,10 +208,10 @@ Citrate ⇌ cis-Aconitate ⇌ Isocitrate
 ## Connections
 
 **Related Zettels:**
-- [[Aconitase_Mechanism_FeS_Cluster_Z-001-1204]] — To create
-- [[IRP1_Iron_Sensing_Switch_Z-001-1205]] — To create
-- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]] — To create
-- [[IRE_IRP_System_Z-001-1207]] — To create
+- [[Aconitase_Mechanism_FeS_Cluster_Z-001-1204] — To create
+- [[IRP1_Iron_Sensing_Switch_Z-001-1205] — To create
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206] — To create
+- [[IRE_IRP_System_Z-001-1207] — To create
 
 **MOCs:**
 -  — Krebs cycle

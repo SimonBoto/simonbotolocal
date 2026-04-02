@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Peer Review Evaluation Request"
 date: 2023-09-24
 source: ChatGPT conversation history
-aliases: [CGPT-0553]
+aliases: CGPT-0553]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition]
 status: archived
 ---

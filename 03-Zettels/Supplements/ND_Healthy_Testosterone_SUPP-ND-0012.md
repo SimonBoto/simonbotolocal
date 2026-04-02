@@ -104,11 +104,11 @@ Take 2 capsules daily or as directed by your physician.
 | 2 | €2.00 | Standard dose |
 
 ## Biomarker Links
-- [[Testosterone_Primary_Male_Androgen_Z-011-0001]] — target optimal range
-- [[Free_Testosterone_Bioavailable_Androgen_Z-011-0007]] — unbound, active form
-- [[SHBG_Sex_Hormone_Binding_Globulin_Z-011-0009]] — affects free T levels
-- [[Zinc_RBC_Functional_Mineral_Z-007-0006]] — required for T synthesis
-- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] — linked to T levels
+- [[Testosterone_Primary_Male_Androgen_Z-011-0001] — target optimal range
+- [[Free_Testosterone_Bioavailable_Androgen_Z-011-0007] — unbound, active form
+- [[SHBG_Sex_Hormone_Binding_Globulin_Z-011-0009] — affects free T levels
+- [[Zinc_RBC_Functional_Mineral_Z-007-0006] — required for T synthesis
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001] — linked to T levels
 
 ## Comparison with Meetab Male Products
 | Feature | Healthy Testosterone (ND) | My Antistress (Meetab) |

@@ -6,7 +6,7 @@ domain: 101
 tags: [zettel, adipate, adipic-acid, palmitate, beta-oxidation, omega-oxidation, phd-research]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]]"
+source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]"
 status: conscious
 ---
 
@@ -105,15 +105,15 @@ Hexanoyl-CoA + O₂ + NADPH → ω-Hydroxyhexanoyl-CoA + NADP⁺ + H₂O
 
 ## Related
 
-- [[Suberate_Sebacate_Formation_Z-001-1195]]
-- [[Beta_Oxidation_Mitochondrial_Pathway_Z-001-1192]]
-- [[Omega_Oxidation_ER_Pathway_Z-001-1193]]
+- [[Suberate_Sebacate_Formation_Z-001-1195]
+- [[Beta_Oxidation_Mitochondrial_Pathway_Z-001-1192]
+- [[Omega_Oxidation_ER_Pathway_Z-001-1193]
 
 ## RELATED FILES
-- /Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family Guide]]
-- [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]|Adipic Acid — Early IR Biomarker]]
+- /Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family Guide]
+- [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]|Adipic Acid — Early IR Biomarker]
 - 
 
 ---
 
-*Source: [[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]] | 2026-03-08*
+*Source: [[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628] | 2026-03-08*

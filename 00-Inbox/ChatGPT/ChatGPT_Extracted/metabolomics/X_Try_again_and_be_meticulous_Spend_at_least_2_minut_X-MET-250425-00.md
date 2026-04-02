@@ -18,7 +18,7 @@ Spend at least 2 minutes thinking
 
 And provide me..."
 date: 2025-04-25
-source: "[[CGPT_0090_Master_Throne_o3_[CGPT-0090]]"
+source: "[[CGPT_0090_Master_Throne_o3_CGPT-0090]"
 aliases: [X-MET-250425-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
@@ -73,8 +73,8 @@ And provide me with the longest possible answer
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]
 
 ## Status
 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolomics Seminar Planning"
 date: 2024-10-26
 source: ChatGPT conversation history
-aliases: [CGPT-0265]
+aliases: CGPT-0265]
 tags: [chatgpt-archive, metabolomics, vitamin_d, clinical, phd_research, nutrition]
 status: archived
 ---

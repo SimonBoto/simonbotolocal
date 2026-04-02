@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Creamy Egg Yogurt Dressing"
 date: 2024-05-19
 source: ChatGPT conversation history
-aliases: [CGPT-0382]
+aliases: CGPT-0382]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

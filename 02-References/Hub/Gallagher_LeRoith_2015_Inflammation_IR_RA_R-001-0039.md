@@ -35,7 +35,7 @@ domains:
   - "001"
 status: "ref"
 extraction-priority: P1
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: [[MOC-Research-Methods]
 connections:
   extracted-zettels: []
   synthesis-links: []
@@ -61,7 +61,7 @@ quality-score: medium
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013]] — Inflammation-IR connection
+- [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013] — Inflammation-IR connection
 
 ---
 

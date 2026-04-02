@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Company Logos Overview"
 date: 2024-08-31
 source: ChatGPT conversation history
-aliases: [CGPT-0299]
+aliases: CGPT-0299]
 tags: [chatgpt-archive, general]
 status: archived
 ---

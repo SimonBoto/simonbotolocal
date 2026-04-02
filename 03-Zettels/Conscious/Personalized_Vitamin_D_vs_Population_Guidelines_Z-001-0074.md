@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, personalized-medicine, precision-nutrition]
 parent-moc: 
-source: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_[CGPT-0284]]"
+source: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]"
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -35,8 +35,8 @@ Growing recognition that population-wide RDA fails individual needs. Factors cre
 ## Links
 
 **Parent MOC:** 
-**Source:** [[CGPT_0284_Vitamin_D_Toxicity_Misconception_[CGPT-0284]]
-**Related:** -Metabolism]], [[IIH_CYP24A1_Mutation_True_Cause_Z-001-0055]]
+**Source:** [[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]
+**Related:** -Metabolism], [[IIH_CYP24A1_Mutation_True_Cause_Z-001-0055]
 
 ---
 
@@ -44,5 +44,5 @@ Growing recognition that population-wide RDA fails individual needs. Factors cre
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

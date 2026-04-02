@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, cristae, mitochondria, atp, surface-area, etc]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Mitochondrial_Structure_Biology_L-001-0633]]"
+source-litnote: "[[LitNote_Mitochondrial_Structure_Biology_L-001-0633]"
 status: conscious
 ---
 
@@ -175,15 +175,15 @@ More surface area → More ETC complexes → More ATP synthase → Higher ATP ou
 
 ## Related
 
-- [[Mitochondrial_Membrane_Architecture_Z-001-1214]]
-- [[ATP_Synthase_Mechanism_Z-001-1217]]
-- [[ETC_Complexes_Location_Z-001-1216]]
+- [[Mitochondrial_Membrane_Architecture_Z-001-1214]
+- [[ATP_Synthase_Mechanism_Z-001-1217]
+- [[ETC_Complexes_Location_Z-001-1216]
 
 ---
 
-*Source: [[LitNote_Mitochondrial_Structure_Biology_L-001-0633]] | 2026-03-09*
+*Source: [[LitNote_Mitochondrial_Structure_Biology_L-001-0633] | 2026-03-09*
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

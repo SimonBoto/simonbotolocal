@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Neuro Mod Med Effects"
 date: 2024-06-13
 source: ChatGPT conversation history
-aliases: [CGPT-0353]
+aliases: CGPT-0353]
 tags: [chatgpt-archive, general]
 status: archived
 ---

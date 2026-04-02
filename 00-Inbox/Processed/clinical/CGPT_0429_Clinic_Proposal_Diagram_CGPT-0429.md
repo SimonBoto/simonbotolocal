@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Clinic Proposal Diagram"
 date: 2024-04-09
 source: ChatGPT conversation history
-aliases: [CGPT-0429]
+aliases: CGPT-0429]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

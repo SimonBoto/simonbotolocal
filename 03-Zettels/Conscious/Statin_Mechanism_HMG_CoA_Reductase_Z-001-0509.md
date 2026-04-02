@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, statin, mechanism, hmg-coa-reductase, ldl-receptor]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]]
+source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]
 extraction-date: 2026-03-01
 ---
 
@@ -60,15 +60,15 @@ Enhanced LDL clearance
 
 ---
 
-*Source: [[LitNote_Statin_Pharmacology_L-001-0502]]*
+*Source: [[LitNote_Statin_Pharmacology_L-001-0502]*
 
 
 ## Related
-- [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]|Z-001-0501]]
+- [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]|Z-001-0501]
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]|Z-001-0428]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]|Z-001-0428]

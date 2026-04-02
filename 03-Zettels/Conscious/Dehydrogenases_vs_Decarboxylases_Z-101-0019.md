@@ -7,7 +7,7 @@ domain: 101
 tags: [zettel, dehydrogenase, decarboxylase, enzyme-classification, redox, cofactors]
 parent-moc: 
 status: conscious
-source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]]"
+source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]"
 extraction-date: 2026-03-02
 ---
 
@@ -119,9 +119,9 @@ Isocitrate + NAD⁺ → α-ketoglutarate + CO₂ + NADH + H⁺
 
 ---
 
-*See also: [[Isocitrate_Dehydrogenase_Dual_Function_Z-101-0020]]*
+*See also: [[Isocitrate_Dehydrogenase_Dual_Function_Z-101-0020]*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Micronutrients: Vital Building Blocks."
 date: 2023-05-11
 source: ChatGPT conversation history
-aliases: [CGPT-0635]
+aliases: CGPT-0635]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

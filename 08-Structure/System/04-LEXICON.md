@@ -3,7 +3,7 @@ uid: LEXICON-000-0001
 type: lexicon
 title: RON Lexicon — Shared Vocabulary & Loaded Terms
 tags: [lexicon, glossary, commands, vocabulary, definitions]
-parent-moc: [[08-Dashboards/Dashboard_Home]]
+parent-moc: [[08-Dashboards/Dashboard_Home]
 status: active
 created: 2026-02-24
 updated: 2026-02-24

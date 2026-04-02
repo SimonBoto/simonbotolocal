@@ -13,7 +13,7 @@ relevance: High — Core cholesterol synthesis pathway, statin mechanism, CoQ10 
 aliases: [L-001-0518, HMG-CoA Reductase, Mevalonate Pathway, Cholesterol Synthesis, Statin Target]
 domain: 001
 tags: [litnote, mevalonate-pathway, cholesterol, hmg-coa-reductase, statins, coq10, isoprenoids, biochemistry]
-source: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_[CGPT-0391]]"
+source: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-03
@@ -73,7 +73,7 @@ extraction-date: 2026-03-03
 3 Acetyl-CoA + 2 NADPH + 3 ATP → IPP + 3 CoA-SH + 2 NADP⁺ + 3 ADP + CO₂
 ```
 
-**Zettels extracted:** [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]]
+**Zettels extracted:** [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]
 
 ### 2. HMG-CoA Reductase — The Regulatory Master Switch
 > "HMG-CoA reductase is the key regulatory step in the pathway and is where energy is first utilized. This is also where drugs like statins act."
@@ -102,7 +102,7 @@ extraction-date: 2026-03-03
 - Less IPP → Less CoQ10, less dolichol
 - Result: Statin-induced myopathy, fatigue
 
-**Zettels extracted:** [[HMG_CoA_Reductase_Regulation_Z-001-0567]]
+**Zettels extracted:** [[HMG_CoA_Reductase_Regulation_Z-001-0567]
 
 ### 3. Energy Cost of the Mevalonate Pathway
 > "The mevalonate pathway uses energy in the form of ATP and NADPH in the steps catalyzed by mevalonate kinase, phosphomevalonate kinase, and HMG-CoA reductase."
@@ -127,7 +127,7 @@ extraction-date: 2026-03-03
 - Total: ~36 ATP + 16 NADPH for one cholesterol
 - **Evolutionary value justifies the cost:** Membranes, hormones, vitamins
 
-**Zettels extracted:** [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]]
+**Zettels extracted:** [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]
 
 ---
 
@@ -179,16 +179,16 @@ Statin myopathy isn't just "muscle pain" — it's mitochondrial dysfunction from
 ---
 
 ## Zettels Created from This Source
-1. [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]] — Complete pathway walkthrough
-2. [[HMG_CoA_Reductase_Regulation_Z-001-0567]] — Regulatory mechanisms and statin action
-3. [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]] — ATP and NADPH requirements
+1. [[Mevalonate_Pathway_Step_by_Step_Z-001-0566] — Complete pathway walkthrough
+2. [[HMG_CoA_Reductase_Regulation_Z-001-0567] — Regulatory mechanisms and statin action
+3. [[Mevalonate_Pathway_Energy_Cost_Z-001-0568] — ATP and NADPH requirements
 
 ---
 
 ## Related References
 -  — Parent MOC
 -  — Metabolic context
-- [[LitNote_Statin_Pharmacology_L-001-0502]] — Statin mechanism and side effects
+- [[LitNote_Statin_Pharmacology_L-001-0502] — Statin mechanism and side effects
 -  — CoQ10 synthesis (if exists)
 
 ---

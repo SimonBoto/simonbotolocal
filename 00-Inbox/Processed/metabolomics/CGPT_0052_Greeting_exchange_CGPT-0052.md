@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Greeting exchange"
 date: 2025-10-07
 source: ChatGPT conversation history
-aliases: [CGPT-0052]
+aliases: CGPT-0052]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, consciousness_ai]
 status: archived
 ---

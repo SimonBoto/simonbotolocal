@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "New chat"
 date: 2023-04-25
 source: ChatGPT conversation history
-aliases: [CGPT-0656]
+aliases: CGPT-0656]
 tags: [chatgpt-archive, vitamin_d, nutrition]
 status: archived
 ---

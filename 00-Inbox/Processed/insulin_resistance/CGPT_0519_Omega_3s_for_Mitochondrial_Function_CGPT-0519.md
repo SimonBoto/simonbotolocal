@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Omega-3s for Mitochondrial Function"
 date: 2023-12-13
 source: ChatGPT conversation history
-aliases: [CGPT-0519]
+aliases: CGPT-0519]
 tags: [chatgpt-archive, insulin_resistance, nutrition]
 status: archived
 ---

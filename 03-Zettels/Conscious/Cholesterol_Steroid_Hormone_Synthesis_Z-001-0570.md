@@ -7,7 +7,7 @@ domain: 001
 domain-name: Hormone Metabolism
 tags: [zettel, steroid-hormones, cholesterol, cortisol, testosterone, estrogen, aldosterone, steroidogenesis]
 parent-moc: 
-source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]]"
+source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]"
 confidence: high
 created: 2026-03-03
 ---
@@ -175,8 +175,8 @@ Androstenedione → Estrone (via aromatase)
 
 ## Related Zettels
 
-- [[Isoprenoids_Terpenes_Overview_Z-001-0569]] — Isoprenoid context
-- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]] — Other cholesterol products
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569] — Isoprenoid context
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571] — Other cholesterol products
 -  — Hormone MOC (if exists)
 -  — Adrenal context
 
@@ -191,5 +191,5 @@ Androstenedione → Estrone (via aromatase)
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]

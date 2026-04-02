@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, die-off, herxheimer, dysbiosis, herbal-antimicrobials, detox]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]]"
+source-litnote: "[[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]"
 status: conscious
 ---
 
@@ -121,14 +121,14 @@ Inflammatory cytokines → Symptom flare
 
 ## Related
 
-- [[Stool_Changes_Dysbiosis_Treatment_Monitoring_Z-001-1222]]
-- [[Herbal_Antimicrobials_Dysbiosis_Protocol_Z-001-1223]]
-- [[Taurine_Bile_Gut_Health_Z-001-1225]]
+- [[Stool_Changes_Dysbiosis_Treatment_Monitoring_Z-001-1222]
+- [[Herbal_Antimicrobials_Dysbiosis_Protocol_Z-001-1223]
+- [[Taurine_Bile_Gut_Health_Z-001-1225]
 
 ---
 
-*Source: [[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]] | 2026-03-09*
+*Source: [[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635] | 2026-03-09*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, inflammation, cytokines, TLR4, NF-kB, insulin-resistance]
 parent-moc: 
-source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
+source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
 confidence: high
 created: 2026-02-24
 ---
@@ -33,9 +33,9 @@ Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and 
 
 ## Links
 
-- **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md]] — Adipose inflammation produces cytokines
-- **Parallel:** l_Dysfunction_IR_Z-001-0030.md]] — Oxidative stress activates same pathways
-- **Downstream:** [[Vicious_Cycle_Inflammation_IR_Z-001-0038.md]] — Vicious cycle: inflammation ↔ IR
+- **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md] — Adipose inflammation produces cytokines
+- **Parallel:** l_Dysfunction_IR_Z-001-0030.md] — Oxidative stress activates same pathways
+- **Downstream:** [[Vicious_Cycle_Inflammation_IR_Z-001-0038.md] — Vicious cycle: inflammation ↔ IR
 
 ## Context
 
@@ -49,6 +49,6 @@ Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and 
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

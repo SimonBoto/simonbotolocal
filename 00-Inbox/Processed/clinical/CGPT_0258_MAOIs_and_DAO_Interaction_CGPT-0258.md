@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "MAOIs and DAO Interaction"
 date: 2024-11-04
 source: ChatGPT conversation history
-aliases: [CGPT-0258]
+aliases: CGPT-0258]
 tags: [chatgpt-archive, clinical, nutrition]
 status: archived
 ---

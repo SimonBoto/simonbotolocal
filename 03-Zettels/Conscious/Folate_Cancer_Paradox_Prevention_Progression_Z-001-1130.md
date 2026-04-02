@@ -7,8 +7,8 @@ domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, folate, cancer, paradox, prevention]
 parent-moc: 
-source-litnote: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]]
-source: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]]
+source-litnote: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]
+source: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]
 confidence: high
 created: 2026-03-08
 ---
@@ -123,8 +123,8 @@ Folate presents a paradox in cancer: adequate status may prevent cancer initiati
 | **Form of folate** | Folic acid vs food folate vs 5-MTHF? |
 
 ## Related
-- _Cancer_Nucleotide_Synthesis_Z-001-1128]]
-- [[B_Vitamins_Methylation_Epigenetics_Cancer_Z-001-1129]]
+- _Cancer_Nucleotide_Synthesis_Z-001-1128]
+- [[B_Vitamins_Methylation_Epigenetics_Cancer_Z-001-1129]
 - 
 
 ---
@@ -132,5 +132,5 @@ Folate presents a paradox in cancer: adequate status may prevent cancer initiati
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

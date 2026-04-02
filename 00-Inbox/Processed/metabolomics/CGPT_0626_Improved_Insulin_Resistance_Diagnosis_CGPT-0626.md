@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Improved Insulin Resistance Diagnosis"
 date: 2023-05-29
 source: ChatGPT conversation history
-aliases: [CGPT-0626]
+aliases: CGPT-0626]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition, personal_development]
 status: archived
 ---

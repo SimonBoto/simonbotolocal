@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Reflect and Plan Ahead"
 date: 2023-12-31
 source: ChatGPT conversation history
-aliases: [CGPT-0510]
+aliases: CGPT-0510]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, philosophy]
 status: archived
 ---

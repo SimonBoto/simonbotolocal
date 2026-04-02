@@ -19,11 +19,11 @@ Common confusion:
 - “Metabolomics replaces clinical medicine.” (It complements; it does not replace acute/anatomical care.)
 
 Related links:
-- [[Zettel_Level2_Biochemical_Balance_Disruption_Modern_Environment_Deficiency_Toxins]]
-- [[Zettel_Metabolomics_Measures_Metabolites_To_Assess_Biochemical_State]]
-- [[Zettel_Level2_Personalized_Therapy_From_Metabolomic_Profile_Micronutrients_Diet_Meds]]
-- [[111_Hub_Mitochondria]]
-- [[111_Hub_Vitamins_And_Supplements]]
+- [[Zettel_Level2_Biochemical_Balance_Disruption_Modern_Environment_Deficiency_Toxins]
+- [[Zettel_Metabolomics_Measures_Metabolites_To_Assess_Biochemical_State]
+- [[Zettel_Level2_Personalized_Therapy_From_Metabolomic_Profile_Micronutrients_Diet_Meds]
+- [[111_Hub_Mitochondria]
+- [[111_Hub_Vitamins_And_Supplements]
 
 Needs_Evidence: yes (for any “best test / fastest growing” ranking claims)
 Open_Loops:

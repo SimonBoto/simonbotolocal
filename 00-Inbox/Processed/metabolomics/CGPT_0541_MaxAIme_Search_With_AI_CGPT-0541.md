@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "MaxAI.me - Search With AI"
 date: 2023-10-22
 source: ChatGPT conversation history
-aliases: [CGPT-0541]
+aliases: CGPT-0541]
 tags: [chatgpt-archive, metabolomics, clinical, consciousness_ai, greek_language]
 status: archived
 ---

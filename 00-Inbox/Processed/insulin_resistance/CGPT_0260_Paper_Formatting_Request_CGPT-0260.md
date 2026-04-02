@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Paper Formatting Request"
 date: 2024-11-02
 source: ChatGPT conversation history
-aliases: [CGPT-0260]
+aliases: CGPT-0260]
 tags: [chatgpt-archive, insulin_resistance]
 status: archived
 ---

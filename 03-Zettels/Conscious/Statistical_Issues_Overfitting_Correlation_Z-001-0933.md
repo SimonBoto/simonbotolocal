@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, overfitting, correlation, statistical-issues]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]]
+source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]
 extraction-date: 2026-03-01
 updated: 2026-03-05
 ---
@@ -59,9 +59,9 @@ updated: 2026-03-05
 
 ---
 
-*Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]]*
+*Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

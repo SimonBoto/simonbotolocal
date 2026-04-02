@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Vitamin C to Oxalate"
 date: 2024-01-28
 source: ChatGPT conversation history
-aliases: [CGPT-0505]
+aliases: CGPT-0505]
 tags: [chatgpt-archive, adipic_acid, nutrition]
 status: archived
 ---

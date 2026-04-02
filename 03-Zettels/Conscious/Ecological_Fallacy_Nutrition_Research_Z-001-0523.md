@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, ecological-fallacy, methodology, bias]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]]
+source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]
 extraction-date: 2026-03-01
 ---
 
@@ -46,7 +46,7 @@ Interpreted population associations as individual causation, driving flawed poli
 
 ---
 
-*Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]]*
+*Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]*
 
 
 ## RELATED FILES

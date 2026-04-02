@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Krebs Cycle Overview"
 date: 2024-05-15
 source: ChatGPT conversation history
-aliases: [CGPT-0394]
+aliases: CGPT-0394]
 tags: [chatgpt-archive, metabolomics, nutrition]
 status: archived
 ---

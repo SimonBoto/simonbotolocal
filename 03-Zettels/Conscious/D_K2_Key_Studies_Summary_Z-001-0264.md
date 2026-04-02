@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, vitamin-d, vitamin-k2, studies, trials, evidence]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_D_K2_Co_Supplementation_Evidence_L-001-0214]]
+source-litnote: [[LitNote_D_K2_Co_Supplementation_Evidence_L-001-0214]
 extraction-date: 2026-03-01
 ---
 
@@ -90,10 +90,10 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_D_K2_Co_Supplementation_Evidence_L-001-0214]]*  
+*Source: [[LitNote_D_K2_Co_Supplementation_Evidence_L-001-0214]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

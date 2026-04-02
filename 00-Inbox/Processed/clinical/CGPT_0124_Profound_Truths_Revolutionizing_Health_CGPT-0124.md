@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Profound Truths Revolutionizing Health"
 date: 2025-03-15
 source: ChatGPT conversation history
-aliases: [CGPT-0124]
+aliases: CGPT-0124]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

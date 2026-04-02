@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, vulnerable-populations, research-ethics, children, prisoners, pregnant-women, cognitive-impairment, exploitation, 45-cfr-46, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]]
+source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]
 status: conscious
 ---
 
@@ -325,11 +325,11 @@ Can the research be conducted with non-vulnerable populations?
 
 ---
 
-**Related:** [[Seven_Requirements_Ethical_Research_Z-001-1002]] | [[Historical_Ethical_Guidelines_Z-001-1003]] | [[Informed_Consent_Requirements_Z-001-1005]] | [[International_Research_Ethics_Z-001-1007]]
+**Related:** [[Seven_Requirements_Ethical_Research_Z-001-1002] | [[Historical_Ethical_Guidelines_Z-001-1003] | [[Informed_Consent_Requirements_Z-001-1005] | [[International_Research_Ethics_Z-001-1007]
 
 **Source:** CGPT-0131 — Medical Ethics Assistance
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

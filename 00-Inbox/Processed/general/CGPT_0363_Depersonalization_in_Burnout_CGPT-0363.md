@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Depersonalization in Burnout."
 date: 2024-05-30
 source: ChatGPT conversation history
-aliases: [CGPT-0363]
+aliases: CGPT-0363]
 tags: [chatgpt-archive, general]
 status: archived
 ---

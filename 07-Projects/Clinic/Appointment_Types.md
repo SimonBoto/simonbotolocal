@@ -6,7 +6,7 @@ folder: Operations
 title: "Clinic Appointment Types & Workflow"
 date: 2026-04-02
 tags: [clinic, workflow, appointments, operations]
-parent-index: [[01-CLINIC/00-INDEX]]
+parent-index: [[01-CLINIC/00-INDEX]
 ---
 
 # 🏥 Clinic Appointment Types

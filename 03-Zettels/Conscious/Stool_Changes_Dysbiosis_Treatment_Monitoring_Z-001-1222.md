@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, stool-analysis, dysbiosis, die-off, clinical-monitoring, gi-symptoms]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]]"
+source-litnote: "[[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]"
 status: conscious
 ---
 
@@ -114,16 +114,16 @@ Stool characteristics provide critical feedback during dysbiosis treatment, help
 
 ## Related
 
-- [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]]
-- [[Herbal_Antimicrobials_Dysbiosis_Protocol_Z-001-1223]]
+- [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]
+- [[Herbal_Antimicrobials_Dysbiosis_Protocol_Z-001-1223]
 
 ---
 
-*Source: [[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]] | 2026-03-09*
+*Source: [[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635] | 2026-03-09*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

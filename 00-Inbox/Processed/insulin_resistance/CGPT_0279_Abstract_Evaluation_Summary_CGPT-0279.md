@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Abstract Evaluation Summary"
 date: 2024-09-28
 source: ChatGPT conversation history
-aliases: [CGPT-0279]
+aliases: CGPT-0279]
 tags: [chatgpt-archive, insulin_resistance, vitamin_d, clinical]
 status: archived
 ---

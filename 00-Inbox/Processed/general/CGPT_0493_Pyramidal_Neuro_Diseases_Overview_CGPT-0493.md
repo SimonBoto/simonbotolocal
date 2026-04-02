@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Pyramidal Neuro Diseases: Overview"
 date: 2024-02-29
 source: ChatGPT conversation history
-aliases: [CGPT-0493]
+aliases: CGPT-0493]
 tags: [chatgpt-archive, general]
 status: archived
 ---

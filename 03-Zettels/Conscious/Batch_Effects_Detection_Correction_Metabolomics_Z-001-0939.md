@@ -111,12 +111,12 @@ Batch 2: D5, C5, D6, QC, C6, D7, C7, QC, D8, C8...
 - Technical variation reduced to <10% of biological variation
 
 ## Related Zettels
-- [[Sample_Preparation_Variability_Control_Z-001-0940]] — Pre-analytical variation
-- [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941]] — Instrument stability
-- [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935]] — Model validation
+- [[Sample_Preparation_Variability_Control_Z-001-0940] — Pre-analytical variation
+- [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941] — Instrument stability
+- [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935] — Model validation
 
 ## Source
-[[LitNote_Technical_Confounders_Metabolomics_L-001-0520]]
+[[LitNote_Technical_Confounders_Metabolomics_L-001-0520]
 
 ---
 
@@ -124,7 +124,7 @@ Batch 2: D5, C5, D6, QC, C6, D7, C7, QC, D8, C8...
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- /Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- /Liver_Function_[B-009-0001]|Biomarker Family Guide]
 - 
 

@@ -22,7 +22,7 @@ tags: [index, MOCs, maps-of-content]
 - [[MOC-Krebs-Cycle]]
 - [[MOC-Ketogenesis]]
 - [[MOC-Lipid-Metabolism]]
-- [[MOC-Mitochondrial-Function]] / [[MOC-Mitochondria]]
+- [[MOC-Mitochondrial-Function] / [[MOC-Mitochondria]]
 - [[MOC-Nitrogen-Metabolism]]
 - [[MOC-Nucleotide-Metabolism]]
 - [[MOC-Urea-Cycle]]
@@ -48,7 +48,7 @@ tags: [index, MOCs, maps-of-content]
 ### Organs & Systems
 - [[MOC-Liver-Function]]
 - [[MOC-Kidney-Metabolism]]
-- [[MOC-Bone-Health]] (implied from keywords)
+- [[MOC-Bone-Health] (implied from keywords)
 
 ### Biomarkers & Testing
 - [[MOC-Biomarkers]]
@@ -75,13 +75,13 @@ tags: [index, MOCs, maps-of-content]
 - [[MOC-Origins-of-Life]]
 - [[MOC-Sleep-and-Circadian]]
 
-### System MOCs
-- [[MOC-INDEX]] — Master MOC index
-- [[MOC-Inbox-Sprint]] — Processing workflow
-- [[MOC-Clinic-Queue]] — Clinic operations
-- [[MOC-Literature-Management]] — Reference management
-- [[MOC-References-Active]] — Active references
-- [[MOC-RON-Cognition]] — AI system design
+### System & Archive MOCs
+- [[MOC-INDEX] — Master MOC index
+- [[MOC-Inbox-Sprint] — Processing workflow
+- [[MOC-Clinic-Queue] — Clinic operations
+- [[MOC-Literature-Management] — Reference management
+- [[MOC-References-Active] — Active references
+- [[MOC-RON-Cognition] — AI system design
 
 ---
 
@@ -97,9 +97,9 @@ MOCs serve as:
 
 ## Connection to Vault
 
-- Up: [[08 Structure Index]]
+- Up: [[08 Structure Index]
 - Down: Individual MOCs
-- Related: [[Keywords Index]], [[03 Zettels Index]]
+- Related: [[Keywords Index], [[03 Zettels Index]
 
 ---
 

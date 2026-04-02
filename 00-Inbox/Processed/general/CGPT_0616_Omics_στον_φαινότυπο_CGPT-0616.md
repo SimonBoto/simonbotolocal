@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Omics στον φαινότυπο."
 date: 2023-06-16
 source: ChatGPT conversation history
-aliases: [CGPT-0616]
+aliases: CGPT-0616]
 tags: [chatgpt-archive, general]
 status: archived
 ---

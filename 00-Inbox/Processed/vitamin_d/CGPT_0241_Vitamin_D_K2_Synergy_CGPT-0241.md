@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Vitamin D K2 Synergy"
 date: 2024-11-24
 source: ChatGPT conversation history
-aliases: [CGPT-0241]
+aliases: CGPT-0241]
 tags: [chatgpt-archive, vitamin_d]
 status: archived
 ---

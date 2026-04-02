@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, vitamin-d, methylation, tet, dnmt, epigenetics]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]]
+source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]
 extraction-date: 2026-03-01
 ---
 
@@ -81,10 +81,10 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Methylation_Cycle_L-001-0402]]*
+*Source: [[LitNote_Methylation_Cycle_L-001-0402]*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

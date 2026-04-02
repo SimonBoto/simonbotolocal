@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Career help assistance."
 date: 2023-03-14
 source: ChatGPT conversation history
-aliases: [CGPT-0664]
+aliases: CGPT-0664]
 tags: [chatgpt-archive, general]
 status: archived
 ---

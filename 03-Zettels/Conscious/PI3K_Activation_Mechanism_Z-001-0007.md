@@ -33,8 +33,8 @@ Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the sec
 
 ## Links
 
-- **Upstream:** [[IRS_Protein_Recruitment_Z-001-0005]] — Adapter docking
-- **Downstream:** [[Akt_Recruitment_by_PIP3_Z-001-0009]] — Second messenger function
+- **Upstream:** [[IRS_Protein_Recruitment_Z-001-0005] — Adapter docking
+- **Downstream:** [[Akt_Recruitment_by_PIP3_Z-001-0009] — Second messenger function
 
 ## Context
 
@@ -44,5 +44,5 @@ Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the sec
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

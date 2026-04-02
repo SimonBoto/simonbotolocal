@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Uric Acid Metabolism Insights"
 date: 2025-02-07
 source: ChatGPT conversation history
-aliases: [CGPT-0155]
+aliases: CGPT-0155]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition]
 status: archived
 ---

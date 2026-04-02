@@ -37,13 +37,13 @@ source-litnote: Synthesized from clinical practice
 **Key characteristics:**
 | Feature | Description |
 |---------|-------------|
-| **Structure** | [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001]|LDL]] particle + apo(a) |
+| **Structure** | [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001]|LDL] particle + apo(a) |
 | **Apo(a)** | Kringle domains (like plasminogen) |
 | **Size variation** | Genetically determined (isoforms) |
 | **Levels** | 80-90% genetically determined |
 
 **Pathogenic mechanisms:**
-- Atherogenic (like [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001]|LDL]])
+- Atherogenic (like [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001]|LDL])
 - Pro-thrombotic (interferes with fibrinolysis)
 - Pro-inflammatory
 
@@ -192,9 +192,9 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Cholesterol_Lipid_Panel_[B-006-0001].md|Lipid Panel]]
-- [[Z-006-0005|ApoB — Apolipoprotein B]]
-- [[Z-006-0001|LDL Cholesterol]]
+- [[Cholesterol_Lipid_Panel_[B-006-0001].md|Lipid Panel]
+- [[Z-006-0005|ApoB — Apolipoprotein B]
+- [[Z-006-0001|LDL Cholesterol]
 
 ---
 *Complete biomarker foundation — Lp(a)*

@@ -13,7 +13,7 @@ relevance: High — Mechanistic link between metabolism and cellular aging
 aliases: [L-001-0625, Mitochondria Telomere Axis, ROS Autoimmunity]
 domain: 001
 tags: [litnote, mitochondria, telomeres, ros, oxidative-stress, autoimmunity]
-source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_[CGPT-0520]]"
+source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
@@ -163,10 +163,10 @@ More Cell Divisions + More Inflammation
 ## Connections
 
 **Related Zettels:**
-- [[ROS_Telomere_Damage_Mechanisms_Z-001-1178]] — To create
-- [[Mitochondrial_Dysfunction_Immunity_Z-001-1179]] — To create
-- [[Inflammation_Oxidative_Stress_Cycle_Z-001-1180]] — To create
-- [[Antioxidant_Telomere_Protection_Z-001-1181]] — To create
+- [[ROS_Telomere_Damage_Mechanisms_Z-001-1178] — To create
+- [[Mitochondrial_Dysfunction_Immunity_Z-001-1179] — To create
+- [[Inflammation_Oxidative_Stress_Cycle_Z-001-1180] — To create
+- [[Antioxidant_Telomere_Protection_Z-001-1181] — To create
 
 **MOCs:**
 -  — Primary domain
@@ -174,8 +174,8 @@ More Cell Divisions + More Inflammation
 -  — Senescence mechanisms
 
 **LitNotes:**
-- [[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]] — Telomere basics
-- [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]] — Clinical evidence
+- [[LitNote_Telomere_Biology_Autoimmunity_L-001-0623] — Telomere basics
+- [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624] — Clinical evidence
 
 ---
 

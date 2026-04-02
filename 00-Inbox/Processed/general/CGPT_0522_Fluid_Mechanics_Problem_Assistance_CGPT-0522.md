@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Fluid Mechanics Problem Assistance"
 date: 2023-12-08
 source: ChatGPT conversation history
-aliases: [CGPT-0522]
+aliases: CGPT-0522]
 tags: [chatgpt-archive, general]
 status: archived
 ---

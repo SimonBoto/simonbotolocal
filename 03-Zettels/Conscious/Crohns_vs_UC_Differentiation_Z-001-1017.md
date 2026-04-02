@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, crohns-disease, ulcerative-colitis, ibd, granulomas, transmural, mucosal, differential-diagnosis, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]]
+source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious
 ---
 
@@ -251,12 +251,12 @@ status: conscious
 
 ---
 
-**Related:** [[IBD_Serological_Markers_ASCA_pANCA_Z-001-1018]] | [[IBD_Extraintestinal_Manifestations_Z-001-1019]] | [[IBD_Treatment_Biologics_Z-001-1020]]
+**Related:** [[IBD_Serological_Markers_ASCA_pANCA_Z-001-1018] | [[IBD_Extraintestinal_Manifestations_Z-001-1019] | [[IBD_Treatment_Biologics_Z-001-1020]
 
 **Source:** CGPT-0209 — Gastroenterology Registrar Assessment
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

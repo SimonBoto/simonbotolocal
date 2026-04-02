@@ -7,8 +7,8 @@ domain: 001
 domain-name: Krebs Cycle
 tags: [zettel, krebs-cycle, tca, mitochondria]
 parent-moc: 
-source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
-source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
+source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
+source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
 confidence: high
 created: 2026-03-08
 ---
@@ -55,7 +55,7 @@ OAT markers reveal cycle dysfunction:
 - Low intermediates → substrate limitation
 
 ## Related
-- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]
 - 
 
 ---

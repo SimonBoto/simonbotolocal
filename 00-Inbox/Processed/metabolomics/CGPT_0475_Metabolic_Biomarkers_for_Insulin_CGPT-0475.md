@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolic Biomarkers for Insulin"
 date: 2024-03-03
 source: ChatGPT conversation history
-aliases: [CGPT-0475]
+aliases: CGPT-0475]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition]
 status: archived
 ---

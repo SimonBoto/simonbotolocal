@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Ada Dietary Guidelines Controversies"
 date: 2024-03-10
 source: ChatGPT conversation history
-aliases: [CGPT-0471]
+aliases: CGPT-0471]
 tags: [chatgpt-archive, insulin_resistance, clinical, nutrition]
 status: archived
 ---

@@ -27,8 +27,8 @@ tags: [index, system, root-notes]
 
 ## Connection to Vault
 
-- Up: [[08 Structure Index]]
-- Related: [[00 Mission]] (root entry point)
+- Up: [[08 Structure Index]
+- Related: [[00 Mission] (root entry point)
 
 ---
 

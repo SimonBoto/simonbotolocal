@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mdrd, protein-restriction, ckd, clinical-trial, landmark, rct, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Protein_CKD_Progression_Evidence_L-001-0573]]
+source-litnote: [[LitNote_Protein_CKD_Progression_Evidence_L-001-0573]
 status: conscious
 ---
 
@@ -145,10 +145,10 @@ status: conscious
 
 ---
 
-**Related:** [[Protein_Restriction_CKD_Guidelines_Z-001-0974]] | _Z-001-0975]]
+**Related:** [[Protein_Restriction_CKD_Guidelines_Z-001-0974] | _Z-001-0975]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

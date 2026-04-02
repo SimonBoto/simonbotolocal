@@ -7,8 +7,8 @@ domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, one-carbon, metabolism, cancer, nucleotide]
 parent-moc: 
-source-litnote: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]]
-source: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]]
+source-litnote: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]
+source: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]
 confidence: high
 created: 2026-03-08
 ---
@@ -121,8 +121,8 @@ Folate antagonist → Blocks one-carbon transfer
 | **Cancer dependence** | Often upregulated |
 
 ## Related
-- [[B_Vitamins_Methylation_Epigenetics_Cancer_Z-001-1129]]
-- [[Folate_Cancer_Paradox_Prevention_Progression_Z-001-1130]]
+- [[B_Vitamins_Methylation_Epigenetics_Cancer_Z-001-1129]
+- [[Folate_Cancer_Paradox_Prevention_Progression_Z-001-1130]
 - 
 - 
 
@@ -131,5 +131,5 @@ Folate antagonist → Blocks one-carbon transfer
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

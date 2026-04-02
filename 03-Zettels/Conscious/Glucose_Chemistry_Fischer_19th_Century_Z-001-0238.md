@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, glucose, chemistry, fischer, stereochemistry, nobel]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Glucose_History_L-001-0208]]
+source-litnote: [[LitNote_Glucose_History_L-001-0208]
 extraction-date: 2026-03-01
 ---
 
@@ -83,12 +83,12 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Glucose_History_L-001-0208]]*  
+*Source: [[LitNote_Glucose_History_L-001-0208]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]]
-- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
+- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]

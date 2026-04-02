@@ -7,7 +7,7 @@ domain: 002
 domain-name: Research Ethics
 tags: [zettel, methap, sample-size, power-calculation, statistics]
 parent-moc: 
-source-litnote: "[[LitNote_METHAP_Study_Design_Protocol_L-002-0604]]"
+source-litnote: "[[LitNote_METHAP_Study_Design_Protocol_L-002-0604]"
 confidence: high
 created: 2026-03-27
 ---
@@ -76,8 +76,8 @@ At least one must be met:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]]  
-**Related:** [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]] — Detailed criteria
+**Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]  
+**Related:** [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618] — Detailed criteria
 
 ---
 
@@ -85,9 +85,9 @@ At least one must be met:
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

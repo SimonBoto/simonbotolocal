@@ -12,7 +12,7 @@ type: extracted-insight
 title: "help me understand this table 
 upplementary Table 2."
 date: 2023-08-23
-source: "[[CGPT_0595_Effective_Peer_Review_[CGPT-0595]]"
+source: "[[CGPT_0595_Effective_Peer_Review_CGPT-0595]"
 aliases: [X-GEN-230823-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []

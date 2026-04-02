@@ -7,7 +7,7 @@ domain: 001
 domain-name: Nutrition
 tags: [zettel, omega-6, poultry, chicken, fatty-acids, feed-quality, linoleic-acid, meat-quality]
 parent-moc: 
-source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]]"
+source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]"
 confidence: high
 created: 2026-03-03
 ---
@@ -99,10 +99,10 @@ Chickens fed predominantly on corn and grain-based diets accumulate significantl
 
 ## Related Zettels
 
-- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563]] — Egg quality comparison
-- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]] — Inflammation mechanisms
-- [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]] — Complete measurements table
-- [[Seed_Oils_Omega6_Omega3_Ratio_Z-001-0503]] — Broader omega-6:3 context
+- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563] — Egg quality comparison
+- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564] — Inflammation mechanisms
+- [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565] — Complete measurements table
+- [[Seed_Oils_Omega6_Omega3_Ratio_Z-001-0503] — Broader omega-6:3 context
 
 ---
 
@@ -115,6 +115,6 @@ Chickens fed predominantly on corn and grain-based diets accumulate significantl
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

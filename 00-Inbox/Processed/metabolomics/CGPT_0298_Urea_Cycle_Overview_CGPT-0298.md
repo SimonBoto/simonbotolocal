@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Urea Cycle Overview"
 date: 2024-09-08
 source: ChatGPT conversation history
-aliases: [CGPT-0298]
+aliases: CGPT-0298]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, phd_research, nutrition]
 status: archived
 ---

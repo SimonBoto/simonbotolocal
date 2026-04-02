@@ -6,7 +6,7 @@ domain: 101
 tags: [zettel, adipate, metabolism, dicarboxylic-pathway, succinyl-coa, krebs-cycle]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]]"
+source-litnote: "[[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]"
 status: conscious
 ---
 
@@ -158,19 +158,19 @@ Complete oxidation              ADIPATE (C6)
 
 ## Related
 
-- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
-- [[Dicarboxylic_Acid_Energy_Yield_Z-001-1197]]
-- [[Succinyl_CoA_Krebs_Entry_Z-001-1198]]
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]
+- [[Dicarboxylic_Acid_Energy_Yield_Z-001-1197]
+- [[Succinyl_CoA_Krebs_Entry_Z-001-1198]
 
 ---
 
-*Source: [[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]] | 2026-03-08*
+*Source: [[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629] | 2026-03-08*
 
 
 ## Related
-- [[Urine_Organic_Acid_Krebs_Cycle_Markers_Z-001-0537]|Z-001-0537]]
+- [[Urine_Organic_Acid_Krebs_Cycle_Markers_Z-001-0537]|Z-001-0537]
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

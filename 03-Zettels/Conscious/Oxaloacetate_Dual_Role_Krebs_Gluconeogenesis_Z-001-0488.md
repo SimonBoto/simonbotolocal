@@ -8,7 +8,7 @@ tags: [zettel, oxaloacetate, krebs-cycle, gluconeogenesis, oaa]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045H]]
+source: [[L-001-0045H]
 ---
 
 # Oxaloacetate Dual Role: Krebs and Gluconeogenesis
@@ -74,16 +74,16 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 - Malate shuttle
 - Aspartate shuttle
 
-**See:** _Shuttles_Malate_Aspartate_Z-001-0490]] Mitochondrial Shuttles
+**See:** _Shuttles_Malate_Aspartate_Z-001-0490] Mitochondrial Shuttles
 
 ## Related
-- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]] Gluconeogenesis from Oxaloacetate
-- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]] Anaplerosis
-- [[Ketogenesis_Pathway_Regulation_Z-001-0481]] Ketogenesis (competing pathway)
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489] Gluconeogenesis from Oxaloacetate
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492] Anaplerosis
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481] Ketogenesis (competing pathway)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

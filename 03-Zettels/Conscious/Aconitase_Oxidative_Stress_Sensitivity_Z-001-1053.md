@@ -7,8 +7,8 @@ domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, aconitase, oxidative-stress, iron-sulfur]
 parent-moc: 
-source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
-source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]
+source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
+source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
 confidence: high
 created: 2026-03-08
 ---
@@ -73,7 +73,7 @@ Aconitase is the most sensitive TCA cycle enzyme to oxidative stress due to its 
 > "Elevated citrate with normal/low isocitrate is an early warning of mitochondrial oxidative stress—often before other markers appear."
 
 ## Related
-- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
+- [[TCA_Intermediates_Clinical_Significance_Z-001-1049]
 - 
 - 
 
@@ -82,5 +82,5 @@ Aconitase is the most sensitive TCA cycle enzyme to oxidative stress due to its 
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
 - 

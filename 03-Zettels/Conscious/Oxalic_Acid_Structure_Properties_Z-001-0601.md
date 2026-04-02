@@ -6,7 +6,7 @@ aliases: [Z-001-0601, oxalic-acid, dicarboxylic-acid, ethanedioic-acid]
 domain: 001
 tags: [zettel, oxalic-acid, dicarboxylic-acid, chemistry, structure]
 parent-moc: 
-source: [[L-001-0060A]]
+source: [[L-001-0060A]
 confidence: high
 created: 2026-03-04
 ---
@@ -51,15 +51,15 @@ created: 2026-03-04
 | **Adipic** | 6 | C₆H₁₀O₄ | Industrial use, PhD marker |
 
 ## Related
-- _Mineral_Binding_Calcium_Iron_Z-001-0603]] — Biological effects
-- [[Dietary_Sources_Oxalate_Table_Z-001-0602]] — Food sources
-- [[Adipic_Acid_Structure_Properties_Z-001-0620]] — 6-carbon analog
+- _Mineral_Binding_Calcium_Iron_Z-001-0603] — Biological effects
+- [[Dietary_Sources_Oxalate_Table_Z-001-0602] — Food sources
+- [[Adipic_Acid_Structure_Properties_Z-001-0620] — 6-carbon analog
 
 ---
 *Source: CGPT-0413 | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
 - 
-- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]|Z-101-0011]]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]|Z-101-0011]

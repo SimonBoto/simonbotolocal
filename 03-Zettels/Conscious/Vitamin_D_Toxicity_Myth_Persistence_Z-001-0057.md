@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, toxicity-myth, misinformation, clinical-practice]
 parent-moc: 
-source: [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
+source: [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -33,8 +33,8 @@ Despite modern understanding that vitamin D toxicity is rare and requires massiv
 ## Links
 
 **Parent MOC:** 
-**Source:** [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
-**Related:** s_L-001-0008]], [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
+**Source:** [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]
+**Related:** s_L-001-0008], [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]
 
 ---
 
@@ -42,4 +42,4 @@ Despite modern understanding that vitamin D toxicity is rare and requires massiv
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

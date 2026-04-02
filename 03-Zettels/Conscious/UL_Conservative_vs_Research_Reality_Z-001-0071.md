@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, upper-limits, IOM, safety, pediatrics]
 parent-moc: 
-source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
+source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -33,8 +33,8 @@ Current IOM Upper Limits (UL) for  are substantially lower than doses proven saf
 ## Links
 
 **Parent MOC:** 
-**Source:** [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
-**Related:** [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]], [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
+**Source:** [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]
+**Related:** [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007], [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]
 
 ---
 
@@ -42,4 +42,4 @@ Current IOM Upper Limits (UL) for  are substantially lower than doses proven saf
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

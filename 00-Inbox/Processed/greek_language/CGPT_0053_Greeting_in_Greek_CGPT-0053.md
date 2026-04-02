@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Greeting in Greek"
 date: 2025-10-07
 source: ChatGPT conversation history
-aliases: [CGPT-0053]
+aliases: CGPT-0053]
 tags: [chatgpt-archive, greek_language]
 status: archived
 ---

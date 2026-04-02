@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Advanced Biochemistry Exploration"
 date: 2024-03-25
 source: ChatGPT conversation history
-aliases: [CGPT-0445]
+aliases: CGPT-0445]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

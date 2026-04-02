@@ -35,11 +35,11 @@ source-litnote: Synthesized from clinical practice
 ### Biological Mechanism
 
 **Non-enzymatic glycation:**
-- [[Glucose_Blood_Sugar_Energy_Z-005-0001]|Glucose]] in bloodstream binds to [[Hemoglobin_Oxygen_Transport_Protein_Z-001-1001]|hemoglobin]]
+- [[Glucose_Blood_Sugar_Energy_Z-005-0001]|Glucose] in bloodstream binds to [[Hemoglobin_Oxygen_Transport_Protein_Z-001-1001]|hemoglobin]
 - Occurs throughout RBC lifespan (120 days)
 - Irreversible reaction
-- Proportional to average [[Glucose_Blood_Sugar_Energy_Z-005-0001]|glucose]] concentration
-- Reflects integrated [[Insulin_Pancreatic_Beta-Cell_Response_Z-005-0002]|insulin]] exposure over time
+- Proportional to average [[Glucose_Blood_Sugar_Energy_Z-005-0001]|glucose] concentration
+- Reflects integrated [[Insulin_Pancreatic_Beta-Cell_Response_Z-005-0002]|insulin] exposure over time
 
 **Formula:**
 ```
@@ -56,7 +56,7 @@ HbA1c ≈ (Average glucose + 46.7) ÷ 28.7
 |--------|--------|-----------|
 | **RBC lifespan** | Alters result | Short lifespan = lower HbA1c; long lifespan = higher |
 | **Hemoglobin variants** | Interferes | HbF, HbS affect measurement |
-| **Anemia** | Alters result | [[Z-003-0001|Iron deficiency]] may elevate HbA1c |
+| **Anemia** | Alters result | [[Z-003-0001|Iron deficiency] may elevate HbA1c |
 | **Pregnancy** | Lower | Increased RBC turnover |
 
 source-litnote: Synthesized from clinical practice
@@ -243,10 +243,10 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family Guide]]
-- [[Z-005-0001|Glucose — Blood Sugar]]
-- [[Z-005-0002|Insulin — Pancreatic Response]]
-- [[Z-005-0004|HOMA-IR — Insulin Resistance Index]]
+- [[Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family Guide]
+- [[Z-005-0001|Glucose — Blood Sugar]
+- [[Z-005-0002|Insulin — Pancreatic Response]
+- [[Z-005-0004|HOMA-IR — Insulin Resistance Index]
 
 source-litnote: Synthesized from clinical practice
 ---

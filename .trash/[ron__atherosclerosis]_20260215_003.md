@@ -18,11 +18,11 @@ Common confusion:
 - “Normal LDL-C means no risk.” Many events occur at “acceptable” LDL-C when other drivers are present.
 
 Related:
-[[Zettel_Atherosclerosis_Is_Inflammation_Driven_Not_Purely_Cholesterol_Load]]
-[[Dictionary_Dyslipidemia]]
-[[Dictionary_HDL_Cholesterol]]
-[[[ron__ldl_cholesterol]_20260215_025]]
-[[111_Hub_Lipids_And_Fatty_Acids]]
+[[Zettel_Atherosclerosis_Is_Inflammation_Driven_Not_Purely_Cholesterol_Load]
+[[Dictionary_Dyslipidemia]
+[[Dictionary_HDL_Cholesterol]
+[[[ron__ldl_cholesterol]_20260215_025]
+[[111_Hub_Lipids_And_Fatty_Acids]
 
 Open_Loops:
 - Add a zettel on “plaque stability vs plaque burden” once sourced.

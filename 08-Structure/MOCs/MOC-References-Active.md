@@ -5,7 +5,7 @@ title: MOC-References-Active — Research Pipeline Dashboard
 aliases: [MOC-References, Reference-Dashboard, Research-Pipeline]
 domain: 000
 tags: [moc, references, research, pipeline, dashboard, zotero]
-parent-moc: [[MOC-INDEX]]
+parent-moc: [[MOC-INDEX]
 status: active
 created: 2026-04-01
 ---
@@ -33,9 +33,9 @@ created: 2026-04-01
 
 | Reference | Tier | Domain | Why Priority |
 |-----------|------|--------|--------------|
-| [[Branca_etal_2019_Food_System_NCD_R-001-0011]] | 1 | 001 | METHAP rationale source |
-| [[Reaven_1988_Banting_Lecture_Syndrome_X_R-001-0037]] | 1 | 001 | IR foundational |
-| [[Savage_etal_2007_IR_Cellular_Mechanisms_R-001-0038]] | 1 | 001 | Mechanism deep-dive |
+| [[Branca_etal_2019_Food_System_NCD_R-001-0011] | 1 | 001 | METHAP rationale source |
+| [[Reaven_1988_Banting_Lecture_Syndrome_X_R-001-0037] | 1 | 001 | IR foundational |
+| [[Savage_etal_2007_IR_Cellular_Mechanisms_R-001-0038] | 1 | 001 | Mechanism deep-dive |
 
 ---
 
@@ -51,9 +51,9 @@ created: 2026-04-01
 
 | Reference | Relevance | Missing |
 |-----------|-----------|---------|
-| [[Andersen_etal_2013_Lactate_Etiology_R-001-0028]] | Metabolic stress biomarker | Abstract, connections |
-| [[Beebe_etal_2017_Metabolic_Individuality_R-001-0006]] | Precision medicine | Abstract, connections |
-| [[Calder_2020_Nutrition_Immunity_COVID_R-001-0014]] | Immunity-nutrition | Abstract, connections |
+| [[Andersen_etal_2013_Lactate_Etiology_R-001-0028] | Metabolic stress biomarker | Abstract, connections |
+| [[Beebe_etal_2017_Metabolic_Individuality_R-001-0006] | Precision medicine | Abstract, connections |
+| [[Calder_2020_Nutrition_Immunity_COVID_R-001-0014] | Immunity-nutrition | Abstract, connections |
 
 ---
 
@@ -104,11 +104,11 @@ created: 2026-04-01
 
 | Domain | Count | MOC |
 |--------|-------|-----|
-| 001 (Metabolism) | 26 | [[MOC-Insulin-Signaling]] |
-| 002 (Research) | 8 | [[MOC-Research-Methods]] |
-| 003 (Iron) | 2 | [[MOC-Iron-Metabolism]] |
-| 004 (Methylation) | 2 | [[MOC-Methylation-One-Carbon]] |
-| 101 (Pharmaco) | 2 | [[MOC-Pharmacometabolomics]] |
+| 001 (Metabolism) | 26 | [[MOC-Insulin-Signaling] |
+| 002 (Research) | 8 | [[MOC-Research-Methods] |
+| 003 (Iron) | 2 | [[MOC-Iron-Metabolism] |
+| 004 (Methylation) | 2 | [[MOC-Methylation-One-Carbon] |
+| 101 (Pharmaco) | 2 | [[MOC-Pharmacometabolomics] |
 
 ---
 

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Cholesterol Study Reassessment Overview"
 date: 2024-06-29
 source: ChatGPT conversation history
-aliases: [CGPT-0337]
+aliases: CGPT-0337]
 tags: [chatgpt-archive, phd_research]
 status: archived
 ---

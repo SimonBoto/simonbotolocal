@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Personal Growth Strategy Plan"
 date: 2025-05-18
 source: ChatGPT conversation history
-aliases: [CGPT-0088]
+aliases: CGPT-0088]
 tags: [chatgpt-archive, clinical, phd_research, communication]
 status: archived
 ---

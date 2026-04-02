@@ -5,7 +5,7 @@ title: METHAP PhD Data Export Structure — CSV Schema
 aliases: [Z-002-0621, PhD-Data-Export, METHAP-CSV, Data-Schema]
 domain: 002
 tags: [zettel, methap, phd, data-export, csv, schema, research-methods]
-parent-moc: [[MOC-PhD-Research]]
+parent-moc: [[MOC-PhD-Research]
 source-litnote: Extracted from Biochemical Report Template v2.0
 status: conscious
 ---
@@ -68,9 +68,9 @@ patient_id,date,visit_number,age,bmi,waist_hip,vit_d_ng_ml,tsh_ft3_ft4,anti_tpo,
 
 ## Related
 
-- [[METHAP_Study_Design_Overview_Z-002-0616]]
-- [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620]]
-- [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]]
+- [[METHAP_Study_Design_Overview_Z-002-0616]
+- [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620]
+- [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]
 
 ---
 

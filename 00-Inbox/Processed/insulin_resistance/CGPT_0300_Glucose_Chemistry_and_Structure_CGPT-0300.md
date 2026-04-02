@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Glucose Chemistry and Structure"
 date: 2024-08-29
 source: ChatGPT conversation history
-aliases: [CGPT-0300]
+aliases: CGPT-0300]
 tags: [chatgpt-archive, insulin_resistance, consciousness_ai]
 status: archived
 ---

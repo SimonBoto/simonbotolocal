@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, methyl-trap, b12, folate, interdependence]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]
+source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
 extraction-date: 2026-03-01
 ---
 
@@ -87,10 +87,10 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]]*
+*Source: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

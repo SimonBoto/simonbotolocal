@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "The Health Manifesto"
 date: 2025-04-25
 source: ChatGPT conversation history
-aliases: [CGPT-0101]
+aliases: CGPT-0101]
 tags: [chatgpt-archive, general]
 status: archived
 ---

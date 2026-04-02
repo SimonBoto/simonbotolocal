@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Rome Trip Itinerary"
 date: 2025-01-12
 source: ChatGPT conversation history
-aliases: [CGPT-0196]
+aliases: CGPT-0196]
 tags: [chatgpt-archive, general]
 status: archived
 ---

@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, OAT, organic-acids, pattern-recognition]
 parent-moc: 
-source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
-source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
+source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
+source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
 confidence: high
 created: 2026-03-08
 ---
@@ -57,8 +57,8 @@ By end of Week 4:
 Trainees should read OAT patterns instinctively, not analytically.
 
 ## Related
-- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]]
-- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]
 - 
 
 ---
@@ -66,4 +66,4 @@ Trainees should read OAT patterns instinctively, not analytically.
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]

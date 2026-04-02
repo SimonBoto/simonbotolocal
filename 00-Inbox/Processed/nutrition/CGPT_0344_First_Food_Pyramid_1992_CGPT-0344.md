@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "First Food Pyramid 1992"
 date: 2024-06-29
 source: ChatGPT conversation history
-aliases: [CGPT-0344]
+aliases: CGPT-0344]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

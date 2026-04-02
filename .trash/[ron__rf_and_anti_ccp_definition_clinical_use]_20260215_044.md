@@ -21,12 +21,12 @@ Common confusion:
 - “Antibody level equals disease activity” (often imperfect correlation).
 
 Related:
-- [[Dictionary_Rheumatoid_Arthritis_Definition_Clinical_Meaning]]
-- [[111_Hub_Disease_Specific]]
-- [[Zettel_RA_Two_Axis_Management_Inflammation_Control_And_Metabolic_Drivers]]
+- [[Dictionary_Rheumatoid_Arthritis_Definition_Clinical_Meaning]
+- [[111_Hub_Disease_Specific]
+- [[Zettel_RA_Two_Axis_Management_Inflammation_Control_And_Metabolic_Drivers]
 
 Needs_Evidence: yes
 Open_Loops:
 - Add one guideline/review library anchor for diagnostic performance (sensitivity/specificity) and limits.
 Promote_to_stable_when:
-- One [[Library_...]] note extracted with clear diagnostic caveats.
+- One [[Library_...] note extracted with clear diagnostic caveats.

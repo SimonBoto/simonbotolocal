@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, pathway-analysis, network-analysis, metabolomics, kegg, metaboanalyst]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Metabolomics_Data_Processing_L-001-0619]]"
+source-litnote: "[[LitNote_Metabolomics_Data_Processing_L-001-0619]"
 status: conscious
 ---
 
@@ -182,14 +182,14 @@ Connect differential metabolites to known metabolic pathways for biological inte
 
 ## Related
 
-- [[Metabolomics_Preprocessing_Quality_Control_Z-001-1156]]
-- [[Normalization_Scaling_Metabolomics_Data_Z-001-1157]]
-- [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]]
+- [[Metabolomics_Preprocessing_Quality_Control_Z-001-1156]
+- [[Normalization_Scaling_Metabolomics_Data_Z-001-1157]
+- [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]
 
 ---
 
-*Source: [[LitNote_Metabolomics_Data_Processing_L-001-0619]] | 2026-03-09*
+*Source: [[LitNote_Metabolomics_Data_Processing_L-001-0619] | 2026-03-09*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

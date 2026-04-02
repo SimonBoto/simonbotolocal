@@ -35,17 +35,17 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 
 | Domain | MOC | Zettels | Focus |
 |--------|-----|---------|-------|
-| **001** | [[MOC-Insulin-Signaling]] | 675 | Core metabolism, insulin resistance |
-| **002** | [[MOC-Research-Ethics]] | 21 | IRB, study design, ethics |
-| **003** | [[MOC-Iron-Metabolism]] | 3 | Iron studies, ferritin |
-| **004** | [[MOC-Methylation-One-Carbon]] | 4 | B12, folate, homocysteine |
-| **005** | [[MOC-Thyroid-Function]] | 2 | TSH, thyroid hormones |
-| **006** | [[MOC-Lipid-Metabolism]] | 2 | Cholesterol, fatty acids |
-| **007** | [[MOC-Inflammation]] | 1 | CRP, cytokines |
-| **008** | [[MOC-Liver-Function]] | 1 | Liver enzymes |
-| **009** | [[MOC-Kidney-Metabolism]] | 1 | eGFR, creatinine |
-| **010** | [[MOC-Minerals-Trace]] | 1 | Mg, Zn, Se |
-| **101** | [[MOC-Pharmacometabolomics]] | 55 | Drug metabolism |
+| **001** | [[MOC-Insulin-Signaling] | 675 | Core metabolism, insulin resistance |
+| **002** | [[MOC-Research-Ethics] | 21 | IRB, study design, ethics |
+| **003** | [[MOC-Iron-Metabolism] | 3 | Iron studies, ferritin |
+| **004** | [[MOC-Methylation-One-Carbon] | 4 | B12, folate, homocysteine |
+| **005** | [[MOC-Thyroid-Function] | 2 | TSH, thyroid hormones |
+| **006** | [[MOC-Lipid-Metabolism] | 2 | Cholesterol, fatty acids |
+| **007** | [[MOC-Inflammation] | 1 | CRP, cytokines |
+| **008** | [[MOC-Liver-Function] | 1 | Liver enzymes |
+| **009** | [[MOC-Kidney-Metabolism] | 1 | eGFR, creatinine |
+| **010** | [[MOC-Minerals-Trace] | 1 | Mg, Zn, Se |
+| **101** | [[MOC-Pharmacometabolomics] | 55 | Drug metabolism |
 
 ---
 
@@ -68,14 +68,14 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 
 ## 🏥 Biomarker Families
 
-- [[Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family]] — Glucose, Insulin, HbA1c, HOMA-IR
-- [[Lipid_Ratios_[B-006-0001]|Lipid Ratios Family]] — LDL, HDL, TG, ApoB, Lp(a)
-- [[Methylation_Family_[B-004-0001]|Methylation Family]] — Homocysteine, B12, Folate, MMA
-- [[Iron_Family_[B-003-0001]|Iron Family]] — Ferritin, TIBC, Transferrin Sat
-- [[CRP_[B-002-0001]|Inflammation Family]] — CRP, WBC, Calprotectin
-- [[Thyroid_Panel_[B-010-0001]|Thyroid Panel]] — TSH, T4, T3
-- [[Biomarkers/Kidney_Function_[B-009-0001]|Kidney Function]] — eGFR, Creatinine, BUN
-- [[Liver_Function_[B-009-0001]|Liver Function]] — ALT, AST, ALP, GGT
+- [[Metabolic_IR_Family_[B-005-0001]|Metabolic/IR Family] — Glucose, Insulin, HbA1c, HOMA-IR
+- [[Lipid_Ratios_[B-006-0001]|Lipid Ratios Family] — LDL, HDL, TG, ApoB, Lp(a)
+- [[Methylation_Family_[B-004-0001]|Methylation Family] — Homocysteine, B12, Folate, MMA
+- [[Iron_Family_[B-003-0001]|Iron Family] — Ferritin, TIBC, Transferrin Sat
+- [[CRP_[B-002-0001]|Inflammation Family] — CRP, WBC, Calprotectin
+- [[Thyroid_Panel_[B-010-0001]|Thyroid Panel] — TSH, T4, T3
+- [[Biomarkers/Kidney_Function_[B-009-0001]|Kidney Function] — eGFR, Creatinine, BUN
+- [[Liver_Function_[B-009-0001]|Liver Function] — ALT, AST, ALP, GGT
 
 ---
 
@@ -83,22 +83,22 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 
 | Folder | Files | Purpose |
 |--------|-------|---------|
-| [[00-MISSION]] | 2 | Daily priorities, active work |
-| [[02-References]] | 41 | Source materials, Zotero |
-| [[01-Literature]] | 165 | LitNotes in processing |
-| [[03-Zettels]] | 767 | **Main knowledge base** |
-| [[04-Synthesis]] | 23 | Living documents |
-| [[05-Projects]] | 25 | PhD, Assistant, Triangle |
-| [[06-Structure]] | 97 | MOCs, Templates, Keywords |
-| [[07-Archive]] | 174 | Historical, extracted |
-| [[08-Dashboards]] | 21 | COMMAND, QUEUE |
-| [[10-Daily]] | 7 | Daily notes |
+| [[00-MISSION] | 2 | Daily priorities, active work |
+| [[02-References] | 41 | Source materials, Zotero |
+| [[01-Literature] | 165 | LitNotes in processing |
+| [[03-Zettels] | 767 | **Main knowledge base** |
+| [[04-Synthesis] | 23 | Living documents |
+| [[05-Projects] | 25 | PhD, Assistant, Triangle |
+| [[06-Structure] | 97 | MOCs, Templates, Keywords |
+| [[07-Archive] | 174 | Historical, extracted |
+| [[08-Dashboards] | 21 | COMMAND, QUEUE |
+| [[10-Daily] | 7 | Daily notes |
 
 ---
 
 ## 🎯 Current Priorities
 
-→ See [[08-Dashboards/00-COMMAND|COMMAND.md]] for P0/P1/P2
+→ See [[08-Dashboards/00-COMMAND|COMMAND.md] for P0/P1/P2
 
 ---
 

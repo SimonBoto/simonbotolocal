@@ -7,8 +7,8 @@ domain: 001
 domain-name: Ketogenesis
 tags: [zettel, bhb, hydroxyacid, structure, signaling]
 parent-moc: 
-source-litnote: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
-source: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
+source-litnote: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]
+source: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]
 confidence: high
 created: 2026-03-08
 ---
@@ -106,8 +106,8 @@ BHB acts as **signaling molecule** independent of energy :
 - **Recommendation:** Use D-BHB or racemic for best effect
 
 ## Related
-- [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_Z-001-1093]]
-- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
+- [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_Z-001-1093]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]
 - 
 
 ---
@@ -115,5 +115,5 @@ BHB acts as **signaling molecule** independent of energy :
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

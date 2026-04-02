@@ -7,7 +7,7 @@ domain: 001
 domain-name: Research Methods
 tags: [zettel, biomarkers, validation, clinical-translation, study-design, replication, research-standards]
 parent-moc: 
-source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
+source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]"
 confidence: high
 created: 2026-03-03
 source-litnote: Synthesized from clinical practice
@@ -203,11 +203,11 @@ Studies show **<50% replication rate** for omics biomarkers:
 
 ## Related Zettels
 
-- [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526]] — Exploratory vs Confirmatory Research Standards
-- [[FDR_Threshold_Selection_Z-001-0932]] — FDR 0.1 vs 0.05 Selection Framework
-- [[Underpowered_Study_Consequences_Z-001-0929]] — Underpowered Study Consequences
-- [[Sample_Size_Strategies_PhD_Z-001-0930]] — PhD Sample Size Strategies
-- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — False Discovery Rate and Multiple Testing Correction
+- [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526] — Exploratory vs Confirmatory Research Standards
+- [[FDR_Threshold_Selection_Z-001-0932] — FDR 0.1 vs 0.05 Selection Framework
+- [[Underpowered_Study_Consequences_Z-001-0929] — Underpowered Study Consequences
+- [[Sample_Size_Strategies_PhD_Z-001-0930] — PhD Sample Size Strategies
+- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515] — False Discovery Rate and Multiple Testing Correction
 
 ---
 
@@ -219,7 +219,7 @@ Studies show **<50% replication rate** for omics biomarkers:
 
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Liver_Function_[B-009-0001]|Biomarker Family Guide]
 - 
 

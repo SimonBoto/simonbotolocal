@@ -7,8 +7,8 @@ domain: 001
 domain-name: Clinical Training
 tags: [zettel, pedagogy, socratic-method, clinical-reasoning]
 parent-moc: 
-source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
-source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]
+source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
+source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
 confidence: high
 created: 2026-03-08
 ---
@@ -66,8 +66,8 @@ Teaching metabolomics through guided inquiry rather than information delivery. T
 > "Teach your doctors how to *reason* like metabolomics clinicians."
 
 ## Related
-- [[MCI_Three_Function_Architecture_Z-001-1030]]
-- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
+- [[MCI_Three_Function_Architecture_Z-001-1030]
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]
 - 
 
 ---
@@ -75,8 +75,8 @@ Teaching metabolomics through guided inquiry rather than information delivery. T
 
 
 ## Related
-- [[Training_Teaching_Style_Framework_Z-001-1040]|Z-001-1040]]
+- [[Training_Teaching_Style_Framework_Z-001-1040]|Z-001-1040]
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

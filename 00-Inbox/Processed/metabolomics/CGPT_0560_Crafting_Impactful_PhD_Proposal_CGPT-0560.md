@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Crafting Impactful PhD Proposal"
 date: 2023-09-16
 source: ChatGPT conversation history
-aliases: [CGPT-0560]
+aliases: CGPT-0560]
 tags: [chatgpt-archive, metabolomics, phd_research]
 status: archived
 ---

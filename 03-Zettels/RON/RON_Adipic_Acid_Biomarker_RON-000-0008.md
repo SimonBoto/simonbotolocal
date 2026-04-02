@@ -5,7 +5,7 @@ title: "RON: Adipic Acid Biomarker — Origin Story"
 date: 2026-01-15
 aliases: [RON-000-0008, adipic-origin, biomarker-discovery]
 tags: [ron, genesis, adipic-acid, biomarker, insulin-resistance, phd]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: [[MOC-Insulin-Signaling]
 status: conscious
 ---
 
@@ -50,9 +50,9 @@ status: conscious
 
 ## Connected Zettels
 
-- [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]]
-- [[Adipate_Formation_Palmitate_Pathway_Z-101-0008]]
-- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
+- [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]
+- [[Adipate_Formation_Palmitate_Pathway_Z-101-0008]
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]
 
 ---
 

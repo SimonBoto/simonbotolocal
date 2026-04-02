@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Methionine Catabolism and Transsulfuration Pathway
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]]
 - **Date:** November 2024
 - **Scope:** Complete methionine degradation, transsulfuration to cysteine, glutathione synthesis
 
@@ -42,7 +42,7 @@ extraction-date: 2026-03-01
 3. Cysteine synthesis (transsulfuration)
 4. Energy production (complete oxidation)
 
-**Zettels extracted:** [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]]
+**Zettels extracted:** [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]
 
 ### 2. The Methionine Cycle — Activation and Regeneration
 > "Methionine is activated to SAM for methylation reactions, then converted to SAH and homocysteine, which is either remethylated to methionine or enters transsulfuration."
@@ -72,7 +72,7 @@ SAH ↔ Homocysteine + Adenosine
 - **Remethylation:** Homocysteine → Methionine (B12/folate)
 - **Transsulfuration:** Homocysteine → Cysteine (B6-dependent)
 
-**Zettels extracted:** [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
+**Zettels extracted:** [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]
 
 ### 3. Transsulfuration Pathway — Cysteine Synthesis
 > "The transsulfuration pathway converts homocysteine to cysteine via cystathionine, requiring vitamin B6 and providing the sulfur atom for cysteine and glutathione synthesis."
@@ -96,7 +96,7 @@ Cystathionine → Cysteine + α-Ketobutyrate + NH₃
 - **Low SAM:** CBS inhibited (conserves methionine)
 - **Vitamin B6:** Required for both steps
 
-**Zettels extracted:** [[Transsulfuration_Pathway_Cysteine_Synthesis_Z-001-0434]]
+**Zettels extracted:** [[Transsulfuration_Pathway_Cysteine_Synthesis_Z-001-0434]
 
 ### 4. Cysteine — Metabolic Fates
 > "Cysteine serves as precursor for glutathione, taurine, and inorganic sulfate, or is degraded to pyruvate for energy production."
@@ -131,7 +131,7 @@ Cysteine → Pyruvate → Acetyl-CoA → Krebs cycle
 - Glucogenic amino acid
 - Complete oxidation possible
 
-**Zettels extracted:** [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
+**Zettels extracted:** [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]
 
 ### 5. Glutathione — The Master Antioxidant
 > "Glutathione (GSH) is synthesized from cysteine, glutamate, and glycine, serving as the primary intracellular antioxidant and detoxification agent."
@@ -166,7 +166,7 @@ Cysteine + Glutamate → γ-Glutamylcysteine (GCL enzyme)
 - Oxidative stress upregulates synthesis
 - GSH:GSSG ratio indicates redox status
 
-**Zettels extracted:** [[Glutathione_Master_Antioxidant_Z-001-0436]]
+**Zettels extracted:** [[Glutathione_Master_Antioxidant_Z-001-0436]
 
 ### 6. Complete Methionine Oxidation
 > "Methionine can be completely oxidized for energy, producing propionyl-CoA (glucogenic) and sulfate, with B12 required for the propionate pathway."
@@ -196,7 +196,7 @@ Cysteine → Pyruvate + NH₃ + H₂S
 - Glucogenic (produces glucose precursors)
 - Sulfur excreted as sulfate
 
-**Zettels extracted:** [[Complete_Methionine_Oxidation_Energy_Z-001-0437]]
+**Zettels extracted:** [[Complete_Methionine_Oxidation_Energy_Z-001-0437]
 
 ---
 
@@ -222,12 +222,12 @@ Cysteine → Pyruvate + NH₃ + H₂S
 ---
 
 ## Zettels Created from This Source
-1. [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]]
-2. [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]]
-3. [[Transsulfuration_Pathway_Cysteine_Synthesis_Z-001-0434]]
-4. [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]]
-5. [[Glutathione_Master_Antioxidant_Z-001-0436]]
-6. [[Complete_Methionine_Oxidation_Energy_Z-001-0437]]
+1. [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]
+2. [[Methionine_Cycle_Activation_Regeneration_Z-001-0433]
+3. [[Transsulfuration_Pathway_Cysteine_Synthesis_Z-001-0434]
+4. [[Cysteine_Metabolic_Fates_Glutathione_Z-001-0435]
+5. [[Glutathione_Master_Antioxidant_Z-001-0436]
+6. [[Complete_Methionine_Oxidation_Energy_Z-001-0437]
 
 ---
 

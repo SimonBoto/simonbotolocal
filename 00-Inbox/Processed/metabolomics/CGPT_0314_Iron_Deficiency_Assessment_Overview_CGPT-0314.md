@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Iron Deficiency Assessment Overview"
 date: 2024-08-08
 source: ChatGPT conversation history
-aliases: [CGPT-0314]
+aliases: CGPT-0314]
 tags: [chatgpt-archive, metabolomics, phd_research, consciousness_ai]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Spirolactones Mitochondrial Toxicity"
 date: 2025-01-13
 source: ChatGPT conversation history
-aliases: [CGPT-0191]
+aliases: CGPT-0191]
 tags: [chatgpt-archive, general]
 status: archived
 ---

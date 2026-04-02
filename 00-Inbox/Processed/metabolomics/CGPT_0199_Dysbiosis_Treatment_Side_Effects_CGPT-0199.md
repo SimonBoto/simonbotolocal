@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Dysbiosis Treatment Side Effects"
 date: 2025-01-04
 source: ChatGPT conversation history
-aliases: [CGPT-0199]
+aliases: CGPT-0199]
 tags: [chatgpt-archive, metabolomics, clinical]
 status: archived
 ---

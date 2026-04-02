@@ -7,8 +7,8 @@ domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, pyruvate, hub, metabolism, fates]
 parent-moc: 
-source-litnote: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
-source: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
+source-litnote: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]
+source: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]
 confidence: high
 created: 2026-03-08
 ---
@@ -132,8 +132,8 @@ Pyruvate + Glutamate ↔ Alanine + Alpha-ketoglutarate
 - **Therapeutic target:** Reactivate PDH
 
 ## Related
-- [[Acetyl_CoA_Central_Metabolic_Connector_Z-001-1112]]
-| [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]]
+- [[Acetyl_CoA_Central_Metabolic_Connector_Z-001-1112]
+| [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]
 | 
 
 ---
@@ -141,5 +141,5 @@ Pyruvate + Glutamate ↔ Alanine + Alpha-ketoglutarate
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

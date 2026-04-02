@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Understanding Vitamin D Units"
 date: 2024-06-29
 source: ChatGPT conversation history
-aliases: [CGPT-0338]
+aliases: CGPT-0338]
 tags: [chatgpt-archive, vitamin_d, nutrition]
 status: archived
 ---

@@ -7,7 +7,7 @@ domain: "{{DDD}}"
 domain-name: "{{DomainName}}"
 tags: ["zettel", "{{topic}}", "{{subtopic}}"]
 parent-moc: ""
-related: ["[[{{Related_Zettel}}_{{Z-XXX-XXXX}}]]"]
+related: ["[[{{Related_Zettel}}_{{Z-XXX-XXXX}}]"]
 source: ""
 confidence: "high | medium | low"
 created: "{{YYYY-MM-DD}}"
@@ -23,13 +23,13 @@ extraction-date: "{{YYYY-MM-DD}}"
 ## Links (Contextual — Link WHEN Useful)
 
 **ALWAYS Link (FULL FILENAME REQUIRED):**
-- `[[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]]` — NEVER use bare `[[Z-001-0041]]`
+- `[[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]` — NEVER use bare `[[Z-001-0041]`
 - Parent MOC: `` — navigation
 - Cross-domain bridges: Insulin zettel → Vitamin D mechanism
 
 **CRITICAL RULE:**
-Bare UIDs like `[[Z-001-0041]]` create empty Obsidian notes because filenames include titles.
-Always use full format: `[[Title_Z-001-0041]]` or `[[Title_Z-001-0041]|display text]]`
+Bare UIDs like `[[Z-001-0041]` create empty Obsidian notes because filenames include titles.
+Always use full format: `[[Title_Z-001-0041]` or `[[Title_Z-001-0041]|display text]`
 
 **Verification:** `grep -r '\[\[Z-[0-9]\{4\}-[0-9]\{4\}\]\]' 01-Literature/ 03-Zettels/` should return nothing.
 
@@ -39,17 +39,17 @@ Always use full format: `[[Title_Z-001-0041]]` or `[[Title_Z-001-0041]|display t
 - Already linked nearby: no duplicate links
 
 **Examples:**
-- `[[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]|adipic acid]]` — specific, useful
+- `[[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]|adipic acid]` — specific, useful
 - "Insulin resistance develops gradually" — plain, readable
 
 ## Related Zettels
 
-- [[{{Related_Zettel_1}}_{{Z-XXX-XXXX}}]] — {{Connection}}
-- [[{{Related_Zettel_2}}_{{Z-XXX-XXXX}}]] — {{Connection}}
+- [[{{Related_Zettel_1}}_{{Z-XXX-XXXX}}] — {{Connection}}
+- [[{{Related_Zettel_2}}_{{Z-XXX-XXXX}}] — {{Connection}}
 
 ## Synthesis Links
 
-- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}]] — {{How this zettel contributes}}
+- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}] — {{How this zettel contributes}}
 
 ## Context
 

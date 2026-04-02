@@ -13,7 +13,7 @@ relevance: High — Clinical evidence across major autoimmune diseases
 aliases: [L-001-0624, SLE Telomeres, RA Telomeres, Autoimmune Telomere Studies]
 domain: 001
 tags: [litnote, sle, ra, ibd, psoriasis, telomeres, disease-specific]
-source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_[CGPT-0520]]"
+source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
@@ -163,10 +163,10 @@ extraction-date: 2026-03-08
 ## Connections
 
 **Related Zettels:**
-- [[SLE_Telomere_Findings_Z-001-1174]] — To create
-- [[RA_Telomerase_Elevation_Z-001-1175]] — To create
-- [[IBD_Telomere_Cancer_Risk_Z-001-1176]] — To create
-- [[Psoriasis_Keratinocyte_Telomeres_Z-001-1177]] — To create
+- [[SLE_Telomere_Findings_Z-001-1174] — To create
+- [[RA_Telomerase_Elevation_Z-001-1175] — To create
+- [[IBD_Telomere_Cancer_Risk_Z-001-1176] — To create
+- [[Psoriasis_Keratinocyte_Telomeres_Z-001-1177] — To create
 
 **MOCs:**
 -  — Primary domain

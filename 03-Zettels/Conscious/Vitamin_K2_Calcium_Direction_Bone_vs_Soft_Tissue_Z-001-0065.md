@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, vitamin-k2, calcium, vascular-calcification]
 parent-moc: 
-source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]
+source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -30,8 +30,8 @@ Vitamin K2 (menaquinone) activates calcium-binding proteins that direct calcium 
 ## Links
 
 **Parent MOC:** -
-**Source:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]
-**Related:** [[Magnesium_Cofactor_Vitamin_D_Activation_Z-001-0064]], 
+**Source:** [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]
+**Related:** [[Magnesium_Cofactor_Vitamin_D_Activation_Z-001-0064], 
 
 ---
 
@@ -39,5 +39,5 @@ Vitamin K2 (menaquinone) activates calcium-binding proteins that direct calcium 
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

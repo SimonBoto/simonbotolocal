@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Osteopenia Osteoporosis Bone Remodeling"
 date: 2025-03-07
 source: ChatGPT conversation history
-aliases: [CGPT-0133]
+aliases: CGPT-0133]
 tags: [chatgpt-archive, vitamin_d, nutrition]
 status: inbox-pending
 ---

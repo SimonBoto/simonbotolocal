@@ -7,7 +7,7 @@ domain: 001
 domain-name: Research Methods
 tags: [zettel, study-design, exploratory-research, confirmatory-research, methodology, research-standards]
 parent-moc: 
-source: "[[LitNote_Exploratory_vs_Confirmatory_Research_Design_L-001-0516]]"
+source: "[[LitNote_Exploratory_vs_Confirmatory_Research_Design_L-001-0516]"
 confidence: high
 created: 2026-03-03
 source-litnote: Synthesized from clinical practice
@@ -126,11 +126,11 @@ Every publication must state:
 
 ## Related Zettels
 
-- [[Exploratory_Excuse_Pitfall_Case_Study_Z-001-0559]] — Misclassification example
-- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]] — Validation stages
-- [[Effect_Size_Practical_Significance_Omics_Z-001-0561]] — Effect size importance
-- [[FDR_Threshold_Selection_Z-001-0932]] — FDR 0.1 vs 0.05 framework
-- [[Sample_Size_Strategies_PhD_Z-001-0930]] — Power considerations
+- [[Exploratory_Excuse_Pitfall_Case_Study_Z-001-0559] — Misclassification example
+- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560] — Validation stages
+- [[Effect_Size_Practical_Significance_Omics_Z-001-0561] — Effect size importance
+- [[FDR_Threshold_Selection_Z-001-0932] — FDR 0.1 vs 0.05 framework
+- [[Sample_Size_Strategies_PhD_Z-001-0930] — Power considerations
 
 ---
 
@@ -142,7 +142,7 @@ Every publication must state:
 
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Liver_Function_[B-009-0001]|Biomarker Family Guide]
 - 
 

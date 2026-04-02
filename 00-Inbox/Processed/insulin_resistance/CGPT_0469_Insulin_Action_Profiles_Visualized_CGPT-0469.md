@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Insulin Action Profiles Visualized"
 date: 2024-03-09
 source: ChatGPT conversation history
-aliases: [CGPT-0469]
+aliases: CGPT-0469]
 tags: [chatgpt-archive, insulin_resistance, clinical]
 status: archived
 ---

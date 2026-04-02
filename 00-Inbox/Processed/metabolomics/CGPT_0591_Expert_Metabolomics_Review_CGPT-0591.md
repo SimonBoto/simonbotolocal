@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Expert Metabolomics Review"
 date: 2023-08-27
 source: ChatGPT conversation history
-aliases: [CGPT-0591]
+aliases: CGPT-0591]
 tags: [chatgpt-archive, metabolomics, consciousness_ai, nutrition]
 status: archived
 ---

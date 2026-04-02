@@ -7,7 +7,7 @@ domain: 101
 tags: [zettel, omega-oxidation, ketogenesis, ketone-bodies, dicarboxylic-acids, fatty-acid-metabolism]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]]"
+source: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]"
 extraction-date: 2026-03-02
 ---
 
@@ -80,9 +80,9 @@ extraction-date: 2026-03-02
 
 ---
 
-*See also: [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]*
+*See also: [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

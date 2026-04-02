@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Set Up New Smartphone"
 date: 2023-12-02
 source: ChatGPT conversation history
-aliases: [CGPT-0523]
+aliases: CGPT-0523]
 tags: [chatgpt-archive, general]
 status: archived
 ---

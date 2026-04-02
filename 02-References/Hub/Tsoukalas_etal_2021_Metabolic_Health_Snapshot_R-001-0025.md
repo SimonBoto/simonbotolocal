@@ -61,8 +61,8 @@ tags: [reference, metaboli
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Clinical_Biochemical_Assessment_Framework_S-001-0002]] — Metabolic health assessment
-- [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620]] — METHAP analysis framework
+- [[Clinical_Biochemical_Assessment_Framework_S-001-0002] — Metabolic health assessment
+- [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620] — METHAP analysis framework
 
 ---
 

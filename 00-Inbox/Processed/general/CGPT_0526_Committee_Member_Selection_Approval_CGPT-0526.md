@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Committee Member Selection Approval"
 date: 2023-11-24
 source: ChatGPT conversation history
-aliases: [CGPT-0526]
+aliases: CGPT-0526]
 tags: [chatgpt-archive, general]
 status: archived
 ---

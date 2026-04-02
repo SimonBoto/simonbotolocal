@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "PhD Ethical Approval Application"
 date: 2024-03-18
 source: ChatGPT conversation history
-aliases: [CGPT-0456]
+aliases: CGPT-0456]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, vitamin_d, phd_research, nutrition]
 status: archived
 ---

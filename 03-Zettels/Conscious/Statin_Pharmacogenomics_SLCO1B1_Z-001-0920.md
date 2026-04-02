@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, pharmacogenomics, slco1b1, cyp, statin-response]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]]
+source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]
 extraction-date: 2026-03-01
 updated: 2026-03-05
 ---
@@ -56,9 +56,9 @@ updated: 2026-03-05
 
 ---
 
-*Source: [[LitNote_Statin_Pharmacology_L-001-0502]]*
+*Source: [[LitNote_Statin_Pharmacology_L-001-0502]*
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 

@@ -7,8 +7,8 @@ domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, vitamin-c, epigenetic, demethylation, ten-eleven]
 parent-moc: 
-source-litnote: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]]
-source: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]]
+source-litnote: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]
+source: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]
 confidence: high
 created: 2026-03-08
 ---
@@ -131,17 +131,17 @@ Fe²⁺-enzyme + O₂ + α-KG → Oxidized substrate + CO₂ + Succinate
 | **Clinical IV** | Achieves both |
 
 ## Related
-- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]]
-- [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]
+- [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]
+- [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]
 - 
 
 ---
 *Source: CGPT-0264 — Warburg effect and cancer*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

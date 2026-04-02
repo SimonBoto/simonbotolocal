@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Max Protocol Vitamin C"
 date: 2024-12-22
 source: ChatGPT conversation history
-aliases: [CGPT-0221]
+aliases: CGPT-0221]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, nutrition]
 status: archived
 ---

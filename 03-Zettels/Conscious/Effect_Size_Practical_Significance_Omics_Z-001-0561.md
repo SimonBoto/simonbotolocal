@@ -7,7 +7,7 @@ domain: 001
 domain-name: Research Methods
 tags: [zettel, effect-size, statistics, omics, metabolomics, practical-significance, reporting-standards]
 parent-moc: 
-source: "[[LitNote_Exploratory_vs_Confirmatory_Research_Design_L-001-0516]]"
+source: "[[LitNote_Exploratory_vs_Confirmatory_Research_Design_L-001-0516]"
 confidence: high
 created: 2026-03-03
 source-litnote: Synthesized from clinical practice
@@ -159,10 +159,10 @@ Metabolite: [Name]
 
 ## Related Zettels
 
-- [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558]] — Study design phases
-- [[Exploratory_Excuse_Pitfall_Case_Study_Z-001-0559]] — Reporting failures
-- [[Power_Analysis_Formula_Metabolomics_Z-001-0928]] — Sample size and power
-- [[Sample_Size_Strategies_PhD_Z-001-0930]] — Effect size in power calculations
+- [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558] — Study design phases
+- [[Exploratory_Excuse_Pitfall_Case_Study_Z-001-0559] — Reporting failures
+- [[Power_Analysis_Formula_Metabolomics_Z-001-0928] — Sample size and power
+- [[Sample_Size_Strategies_PhD_Z-001-0930] — Effect size in power calculations
 
 ---
 
@@ -174,7 +174,7 @@ Metabolite: [Name]
 
 *Created: 2026-03-03 | Status: Conscious | Domain: 001*
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- /Kidney_Function_[B-008-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- /Kidney_Function_[B-008-0001]|Biomarker Family Guide]
 - 
 

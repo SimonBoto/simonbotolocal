@@ -8,7 +8,7 @@ tags: [zettel, glycolysis, regulation, pfk-1, hexokinase, atp]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045D]]
+source: [[L-001-0045D]
 ---
 
 #  Steps and Regulation
@@ -57,12 +57,12 @@ Glucose + 2 NAD⁺ + 2 ADP + 2 Pi → 2 Pyruvate + 2 NADH + 2 ATP + 2 H⁺ + 2 H
 - Activated by: F1,6BP (feed-forward)
 
 ## Related
-- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]] Pyruvate 
-- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]] Evolutionary Ancient Glycolysis
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469] Pyruvate 
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470] Evolutionary Ancient Glycolysis
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

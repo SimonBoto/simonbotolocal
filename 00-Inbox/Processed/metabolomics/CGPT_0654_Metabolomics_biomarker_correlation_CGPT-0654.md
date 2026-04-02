@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolomics biomarker correlation."
 date: 2023-04-26
 source: ChatGPT conversation history
-aliases: [CGPT-0654]
+aliases: CGPT-0654]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, nutrition]
 status: archived
 ---

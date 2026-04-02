@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "PhD Proposal Follow-Up Reminder"
 date: 2023-09-30
 source: ChatGPT conversation history
-aliases: [CGPT-0548]
+aliases: CGPT-0548]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, consciousness_ai, nutrition, personal_development]
 status: archived
 ---

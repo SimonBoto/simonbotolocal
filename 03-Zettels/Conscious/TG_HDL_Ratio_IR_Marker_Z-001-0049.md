@@ -50,16 +50,16 @@ $$
 ## 🔗 Connected s
 
 **IR Core Panel:**
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (correlates r=0.6-0.7 with TG/HDL)
-- [[TyG_Index_IR_Assessment_Z-001-0048.md]] — TyG Index (similar lipid-glucose approach)
-- [[HOMA_Beta_Beta_Cell_Function_Z-001-0047.md]] — HOMA-β (high TG/HDL + high HOMA-β = compensated IR)
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md] — HOMA-IR (correlates r=0.6-0.7 with TG/HDL)
+- [[TyG_Index_IR_Assessment_Z-001-0048.md] — TyG Index (similar lipid-glucose approach)
+- [[HOMA_Beta_Beta_Cell_Function_Z-001-0047.md] — HOMA-β (high TG/HDL + high HOMA-β = compensated IR)
 
 **Lipid Patterns:**
-- [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md]] — Lipid Pattern A/B (TG/HDL >3.0 strongly predicts Pattern B)
-- [[ApoB_LpA_sdLDL_Advanced_Lipids_Z-006-0002.md]] — ApoB (TG/HDL correlates with small dense LDL particle count)
+- [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md] — Lipid Pattern A/B (TG/HDL >3.0 strongly predicts Pattern B)
+- [[ApoB_LpA_sdLDL_Advanced_Lipids_Z-006-0002.md] — ApoB (TG/HDL correlates with small dense LDL particle count)
 
 **Mechanism:**
-- _Z-001-0018.md]] — Lipotoxicity (elevated TG = hepatic steatosis = IR marker)
+- _Z-001-0018.md] — Lipotoxicity (elevated TG = hepatic steatosis = IR marker)
 
 ---
 
@@ -132,19 +132,19 @@ patient_id,visit,tg_mg_dl,hdl_c_mg_dl,tg_hdl_ratio,lipid_ir_status
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
 
 
 ## Related
-- [[Blood_Pressure_Assessment_Hypertension_Z-001-0053]|Z-001-0053]]
+- [[Blood_Pressure_Assessment_Hypertension_Z-001-0053]|Z-001-0053]
 
 
 ## Related
-- [[CBC_Patterns_Interpretation_Z-000-0001]|Z-000-0001]]
+- [[CBC_Patterns_Interpretation_Z-000-0001]|Z-000-0001]
 
 
 ## Related
-- [[Liver_Enzyme_Pattern_Recognition_Z-008-0001]|Z-008-0001]]
+- [[Liver_Enzyme_Pattern_Recognition_Z-008-0001]|Z-008-0001]

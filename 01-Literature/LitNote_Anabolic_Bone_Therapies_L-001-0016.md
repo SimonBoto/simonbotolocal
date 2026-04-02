@@ -16,7 +16,7 @@ domain: 001
 # Anabolic Bone Therapies — Teriparatide, Abaloparatide, and Romosozumab
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_[CGPT-0133]]
+- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
 - **Date:** March 07, 2025
 - **Scope:** Pharmacological section on anabolic agents vs. antiresorptives
 
@@ -35,7 +35,7 @@ domain: 001
 
 ### 1. Teriparatide (PTH 1-34)
 
-**Zettel extracted:** [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]]
+**Zettel extracted:** [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]
 
 **Mechanism:**
 - Recombinant human parathyroid hormone (1-34 amino acid fragment)
@@ -58,7 +58,7 @@ domain: 001
 
 ### 2. Abaloparatide (PTHrP Analog)
 
-**Zettel extracted:** [[Abaloparatide_PTHrP_Analog_Anabolic_Agent_Z-001-0106]]
+**Zettel extracted:** [[Abaloparatide_PTHrP_Analog_Anabolic_Agent_Z-001-0106]
 
 **Mechanism:**
 - Synthetic analog of parathyroid hormone-related protein (PTHrP)
@@ -77,7 +77,7 @@ domain: 001
 
 ### 3. Romosozumab (Anti-Sclerostin Antibody)
 
-**Zettel extracted:** [[Romosozumab_Anti_Sclerostin_Dual_Action_Therapy_Z-001-0107]]
+**Zettel extracted:** [[Romosozumab_Anti_Sclerostin_Dual_Action_Therapy_Z-001-0107]
 
 **Mechanism:**
 - Humanized monoclonal antibody against sclerostin
@@ -100,7 +100,7 @@ domain: 001
 
 ### 4. Sequential Therapy Strategy
 
-**Zettel extracted:** [[Sequential_Therapy_Anabolic_to_Antiresorptive_Strategy_Z-001-0108]]
+**Zettel extracted:** [[Sequential_Therapy_Anabolic_to_Antiresorptive_Strategy_Z-001-0108]
 
 **Rationale:**
 - Anabolic agents build bone but limited duration
@@ -162,9 +162,9 @@ domain: 001
 ## Integration Notes
 
 **Links to Existing Zettels:**
-- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]] — Antiresorptive comparison
-- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103]] — Sclerostin physiology
-- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]] — Balance restoration
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085] — Antiresorptive comparison
+- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103] — Sclerostin physiology
+- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104] — Balance restoration
 
 **Clinical Decision Framework:**
 - Severe osteoporosis → Anabolic first (not antiresorptive)

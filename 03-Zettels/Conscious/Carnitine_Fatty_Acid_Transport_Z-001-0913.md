@@ -7,7 +7,7 @@ domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, carnitine, fatty-acids, mitochondria, beta-oxidation, plasma-TFA, transport, conscious]
 parent-moc: 
-source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
+source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
@@ -145,15 +145,15 @@ Deficient: Fatty acid → Incomplete oxidation → Adipic acid (excreted)
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]] — β-oxidation produces acetyl-CoA for Krebs cycle
-- **Parallel/Related:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]] — VD may be cofactor for carnitine metabolism
-- **Downstream/Consequence:** [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]] — When fatty acids can't enter mitochondria (carnitine deficiency), alternative metabolism occurs
+- **Upstream/Prerequisite:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912] — β-oxidation produces acetyl-CoA for Krebs cycle
+- **Parallel/Related:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911] — VD may be cofactor for carnitine metabolism
+- **Downstream/Consequence:** [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914] — When fatty acids can't enter mitochondria (carnitine deficiency), alternative metabolism occurs
 
 ## Context
 
 **Also relevant to:**  — Your plasma TFA analysis, carnitine as potential confounder/modifier
 
-**Source:** [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
+**Source:** [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]
 
 ---
 
@@ -161,12 +161,12 @@ Deficient: Fatty acid → Incomplete oxidation → Adipic acid (excreted)
 *Critical insight: Carnitine is the gatekeeper of fatty acid oxidation — connects directly to your plasma TFA research*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
 
 
 ## Related
-- [[Lipoproteins_Transport_System_Z-001-0502]|Z-001-0502]]
+- [[Lipoproteins_Transport_System_Z-001-0502]|Z-001-0502]

@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, gut, microbiome, oat, dysbiosis]
 parent-moc: 
-source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
-source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
+source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
+source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
 confidence: high
 created: 2026-03-08
 ---
@@ -101,15 +101,15 @@ Organic acids testing reveals gut microbial , dysbiosis, and intestinal permeabi
 | High oxalate | Oxalobacter deficiency | Probiotics, calcium citrate |
 
 ## Related
-- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]]
-- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
-- -Analysis]]
+- [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]
+- -Analysis]
 
 ---
 *Source: CGPT-0022 — Vitamin-mineral biochemistry*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Kidney_Function_[B-008-0001]|Biomarker Family Guide]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Kidney_Function_[B-008-0001]|Biomarker Family Guide]
 - 
 

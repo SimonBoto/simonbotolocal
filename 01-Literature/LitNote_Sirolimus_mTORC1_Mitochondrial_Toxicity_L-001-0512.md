@@ -13,7 +13,7 @@ relevance: High — Drug toxicity mechanisms relevant to metabolic interventions
 aliases: [L-001-0512, Rapamycin Mitochondrial Toxicity, mTORC1 Mitochondrial Dysfunction]
 domain: 001
 tags: [litnote, sirolimus, rapamycin, mtor, mtorc1, mitochondria, mitochondrial-toxicity, pgc-1a, oxphos, ros]
-source: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_[CGPT-0189]]"
+source: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-02
@@ -50,7 +50,7 @@ extraction-date: 2026-03-02
 - Skeletal muscle (contraction)
 - Pancreatic β-cells (insulin secretion)
 
-**Zettels extracted:** [[Sirolimus_mTORC1_PGC1a_Mitochondrial_Biogenesis_Z-001-0512]]
+**Zettels extracted:** [[Sirolimus_mTORC1_PGC1a_Mitochondrial_Biogenesis_Z-001-0512]
 
 ### 2. Oxidative Phosphorylation Impairment
 > "mTORC1 promotes translation of electron transport chain components; sirolimus reduces ETC protein expression, decreasing ATP synthesis and causing metabolic stress."
@@ -71,7 +71,7 @@ extraction-date: 2026-03-02
 - Cardiac dysfunction
 - Impaired insulin secretion (β-cells)
 
-**Zettels extracted:** [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]]
+**Zettels extracted:** [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]
 
 ### 3. Reactive Oxygen Species Generation
 > "ETC impairment from sirolimus causes electron leakage and superoxide generation, leading to oxidative damage of mitochondrial membranes, proteins, and mtDNA."
@@ -92,7 +92,7 @@ extraction-date: 2026-03-02
 - Depolarization → cytochrome c release
 - Cytochrome c → caspase activation → apoptosis
 
-**Zettels extracted:** [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]]
+**Zettels extracted:** [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]
 
 ### 4. Autophagy/Mitophagy Dysregulation
 > "Acute sirolimus activates autophagy (beneficial quality control), but chronic inhibition causes excessive mitophagy without matching biogenesis, resulting in net mitochondrial depletion."
@@ -116,7 +116,7 @@ extraction-date: 2026-03-02
 
 Sirolimus disrupts this balance by suppressing biogenesis while promoting clearance.
 
-**Zettels extracted:** [[Sirolimus_Mitophagy_Dysregulation_Z-001-0921]]
+**Zettels extracted:** [[Sirolimus_Mitophagy_Dysregulation_Z-001-0921]
 
 ### 5. Calcium Dysregulation and mPTP
 > "Sirolimus impairs mitochondrial calcium buffering, leading to cytosolic Ca²⁺ overload, mitochondrial calcium accumulation, and mPTP opening with cell death."
@@ -137,7 +137,7 @@ Sirolimus disrupts this balance by suppressing biogenesis while promoting cleara
 - Release of pro-apoptotic factors
 - Cell death (apoptosis or necrosis)
 
-**Zettels extracted:** [[mTORC1_Calcium_Homeostasis_mPTP_Z-001-0922]]
+**Zettels extracted:** [[mTORC1_Calcium_Homeostasis_mPTP_Z-001-0922]
 
 ---
 
@@ -167,15 +167,15 @@ Sirolimus disrupts this balance by suppressing biogenesis while promoting cleara
 ---
 
 ## Zettels Created from This Source
-1. [[Sirolimus_mTORC1_PGC1a_Mitochondrial_Biogenesis_Z-001-0512]] — Biogenesis suppression mechanism
-2. [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]] — OXPHOS and oxidative stress
-3. [[Sirolimus_Mitophagy_Dysregulation_Z-001-0921]] — Autophagy imbalance
-4. [[mTORC1_Calcium_Homeostasis_mPTP_Z-001-0922]] — Calcium dysregulation and cell death
+1. [[Sirolimus_mTORC1_PGC1a_Mitochondrial_Biogenesis_Z-001-0512] — Biogenesis suppression mechanism
+2. [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513] — OXPHOS and oxidative stress
+3. [[Sirolimus_Mitophagy_Dysregulation_Z-001-0921] — Autophagy imbalance
+4. [[mTORC1_Calcium_Homeostasis_mPTP_Z-001-0922] — Calcium dysregulation and cell death
 
 ---
 
 ## Related References
-- [[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]] — Metabolic side effects
+- [[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513] — Metabolic side effects
 -  — Parent MOC
 -  — Toxicity mechanisms
 -  — Patient monitoring

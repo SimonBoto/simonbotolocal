@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Insulin Resistance and Population Health"
 date: 2024-09-23
 source: ChatGPT conversation history
-aliases: [CGPT-0286]
+aliases: CGPT-0286]
 tags: [chatgpt-archive, insulin_resistance]
 status: archived
 ---

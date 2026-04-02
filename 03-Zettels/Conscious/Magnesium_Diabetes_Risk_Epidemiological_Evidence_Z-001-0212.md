@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, magnesium, diabetes, epidemiology, cohort-studies, meta-analysis]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]]
+source-litnote: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]
 extraction-date: 2026-03-01
 ---
 
@@ -100,14 +100,14 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]]*  
+*Source: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

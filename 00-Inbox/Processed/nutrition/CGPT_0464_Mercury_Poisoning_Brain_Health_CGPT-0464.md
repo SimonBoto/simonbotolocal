@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mercury Poisoning Brain Health"
 date: 2024-03-15
 source: ChatGPT conversation history
-aliases: [CGPT-0464]
+aliases: CGPT-0464]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Extended Table of Contents"
 date: 2025-04-11
 source: ChatGPT conversation history
-aliases: [CGPT-0108]
+aliases: CGPT-0108]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, nutrition]
 status: archived
 ---

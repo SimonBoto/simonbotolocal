@@ -7,7 +7,7 @@ domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, pharmacometabolomics, metabotypes, precision-medicine, drug-response]
 parent-moc: 
-source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]]
+source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
@@ -37,9 +37,9 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 
 ## Links
 
-- **Upstream:** _Classification_Framework_Z-001-0040.md]] — Biomarker classification framework
-- **Parallel:** [[Precision_Medicine_Response_Rate_Problem_Z-101-0007.md]] — Response rate problem drives need
-- **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045.md]] — METHAP panel applies this
+- **Upstream:** _Classification_Framework_Z-001-0040.md] — Biomarker classification framework
+- **Parallel:** [[Precision_Medicine_Response_Rate_Problem_Z-101-0007.md] — Response rate problem drives need
+- **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045.md] — METHAP panel applies this
 
 ## Context
 
@@ -53,6 +53,6 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 
 ## RELATED FILES
 - 
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

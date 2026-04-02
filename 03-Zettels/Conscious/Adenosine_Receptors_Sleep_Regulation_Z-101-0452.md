@@ -8,7 +8,7 @@ tags: [zettel, adenosine, sleep, neurotransmission, receptors, circadian]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-101-0045A]]
+source: [[L-101-0045A]
 ---
 
 # Adenosine Receptors and Sleep Regulation
@@ -36,7 +36,7 @@ Adenosine clearance during sleep → reduced inhibition → wakefulness returns.
 **Adenosine IV:** Used for supraventricular tachycardia (slows AV nodal conduction).
 
 ## Related
-- [[ATP_Universal_Energy_Currency_Z-101-0451]] ATP Structure (adenosine backbone)
+- [[ATP_Universal_Energy_Currency_Z-101-0451] ATP Structure (adenosine backbone)
 - 
 
 ---

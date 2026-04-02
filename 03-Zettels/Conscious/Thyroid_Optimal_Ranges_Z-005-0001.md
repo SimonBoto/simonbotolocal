@@ -37,15 +37,15 @@ Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfun
 ## 🔗 Connected Systems
 
 **Insulin Resistance:**
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (hypothyroidism worsens IR via ↓GLUT4, ↓mitochondrial function)
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md] — HOMA-IR (hypothyroidism worsens IR via ↓GLUT4, ↓mitochondrial function)
 - Hypothyroid → weight gain, dyslipidemia, glucose intolerance
 
 **:**
-- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md]] — VitD optimal range (VDR and TR share nuclear receptor mechanisms)
+- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004.md] — VitD optimal range (VDR and TR share nuclear receptor mechanisms)
 - Both affect metabolic rate, immune function
 
 **Methylation:**
-- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md]] — Homocysteine (thyroid affects methylation via B12/folate absorption)
+- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md] — Homocysteine (thyroid affects methylation via B12/folate absorption)
 - Hypothyroid → elevated homocysteine
 
 ---
@@ -127,10 +127,10 @@ patient_id,visit,tsh_miu_l,ft3_pg_ml,ft4_ng_dl,thyroid_status
 *Created: 2026-02-26 | Domain: 005 | Status: Conscious*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
-- |Biomarkers MOC]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
+- |Biomarkers MOC]
 

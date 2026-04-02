@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, IOM, scientific-resistance, institutional-inertia]
 parent-moc: 
-source: [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
+source: [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -33,8 +33,8 @@ Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), 
 ## Links
 
 **Parent MOC:** -
-**Source:** [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]]
-**Related:** [[Vitamin_D_Toxicity_Myth_Persistence_Z-001-0057]], [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]]
+**Source:** [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]
+**Related:** [[Vitamin_D_Toxicity_Myth_Persistence_Z-001-0057], [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]
 
 ---
 
@@ -42,5 +42,5 @@ Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), 
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

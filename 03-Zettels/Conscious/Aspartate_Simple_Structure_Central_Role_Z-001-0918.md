@@ -9,7 +9,7 @@ parent-moc:
 status: conscious
 created: 2026-03-04
 updated: 2026-03-05
-source: [[L-001-0046B]]
+source: [[L-001-0046B]
 ---
 
 # Aspartate: Simple Structure, Central Role
@@ -92,15 +92,15 @@ Citrulline + Aspartate → Argininosuccinate
 - Ancient and conserved
 
 ## Related
-- [[Amino_Acids_Oxaloacetate_Aspartate_Z-001-0493]] Amino Acids to Oxaloacetate
-- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]] Oxaloacetate Dual Role
-- [[Glutamate_Arginine_Urea_Cycle_Z-001-0917]] Glutamate-Arginine-Urea Cycle (aspartate role)
+- [[Amino_Acids_Oxaloacetate_Aspartate_Z-001-0493] Amino Acids to Oxaloacetate
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488] Oxaloacetate Dual Role
+- [[Glutamate_Arginine_Urea_Cycle_Z-001-0917] Glutamate-Arginine-Urea Cycle (aspartate role)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

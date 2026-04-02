@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Aripiprazole Mechanism of Action"
 date: 2024-10-10
 source: ChatGPT conversation history
-aliases: [CGPT-0271]
+aliases: CGPT-0271]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

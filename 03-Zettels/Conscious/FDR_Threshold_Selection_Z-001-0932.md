@@ -7,7 +7,7 @@ domain: 001
 domain-name: Research Methods
 tags: [zettel, statistics, fdr, study-design, exploratory, confirmatory, decision-framework]
 parent-moc: 
-source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]]"
+source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]"
 confidence: high
 created: 2026-03-03
 updated: 2026-03-05
@@ -138,11 +138,11 @@ The choice between FDR thresholds reflects a **fundamental trade-off** between s
 
 ## Related Zettels
 
-- [[Benjamini_Hochberg_Procedure_Z-001-0931]] — Benjamini-Hochberg Procedure Mechanics
-- [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526]] — Exploratory vs Confirmatory Research Standards
-- [[Biomarker_Validation_Requirements_Z-001-0528]] — Validation Requirements for Biomarker Translation
-- [[Underpowered_Study_Consequences_Z-001-0929]] — Underpowered Study Consequences
-- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — False Discovery Rate and Multiple Testing Correction
+- [[Benjamini_Hochberg_Procedure_Z-001-0931] — Benjamini-Hochberg Procedure Mechanics
+- [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526] — Exploratory vs Confirmatory Research Standards
+- [[Biomarker_Validation_Requirements_Z-001-0528] — Validation Requirements for Biomarker Translation
+- [[Underpowered_Study_Consequences_Z-001-0929] — Underpowered Study Consequences
+- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515] — False Discovery Rate and Multiple Testing Correction
 
 ---
 
@@ -155,7 +155,7 @@ The choice between FDR thresholds reflects a **fundamental trade-off** between s
 *Created: 2026-03-03 | Updated: 2026-03-05 | Status: Conscious | Domain: 001*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Liver_Function_[B-009-0001]|Biomarker Family Guide]
 - 
 

@@ -8,7 +8,7 @@ tags: [zettel, evolution, glycolysis, ancient, universal, archaea]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045D]]
+source: [[L-001-0045D]
 ---
 
 # Evolutionary Ancient Glycolysis
@@ -77,8 +77,8 @@ Key enzymes ~30-50% identical across domains:
   - Frozen environments
 
 ## Related
-- [[Timeline_Prebiotic_Chemistry_to_LUCA_Z-101-0464]] Timeline Prebiotic to LUCA
-- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]] Triose Structure
+- [[Timeline_Prebiotic_Chemistry_to_LUCA_Z-101-0464] Timeline Prebiotic to LUCA
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466] Triose Structure
 - 
 
 ---
@@ -86,7 +86,7 @@ Key enzymes ~30-50% identical across domains:
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Glycolysis_Steps_Regulation_Z-001-0467]|Z-001-0467]]
+- [[Glycolysis_Steps_Regulation_Z-001-0467]|Z-001-0467]

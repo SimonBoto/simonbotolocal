@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "MetaboAnalyst for Rat Metabolomics"
 date: 2023-08-26
 source: ChatGPT conversation history
-aliases: [CGPT-0594]
+aliases: CGPT-0594]
 tags: [chatgpt-archive, metabolomics]
 status: archived
 ---

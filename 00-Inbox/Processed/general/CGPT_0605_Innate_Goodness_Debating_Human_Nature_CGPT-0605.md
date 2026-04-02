@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Innate Goodness: Debating Human Nature"
 date: 2023-07-10
 source: ChatGPT conversation history
-aliases: [CGPT-0605]
+aliases: CGPT-0605]
 tags: [chatgpt-archive, general]
 status: archived
 ---

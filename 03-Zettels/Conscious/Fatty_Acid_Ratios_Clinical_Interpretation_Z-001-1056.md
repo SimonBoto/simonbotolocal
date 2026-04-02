@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, fatty-acids, ratios, inflammation]
 parent-moc: 
-source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
-source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]
+source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
+source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
 confidence: high
 created: 2026-03-08
 ---
@@ -68,17 +68,17 @@ Fatty acid ratios provide integrated s of dietary intake, inflammatory status, a
 > "Ratios matter, not absolutes. A patient can have 'normal' absolute levels but dangerous ratios."
 
 ## Related
-- [[Fatty_Acid_Subclasses_Desaturase_Pathways_Z-001-1055]]
+- [[Fatty_Acid_Subclasses_Desaturase_Pathways_Z-001-1055]
 - 
-- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]
 
 ---
 *Source: CGPT-0022 — Fatty acid *
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

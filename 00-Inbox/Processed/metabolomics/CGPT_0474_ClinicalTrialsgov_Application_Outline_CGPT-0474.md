@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "ClinicalTrials.gov Application Outline"
 date: 2024-03-04
 source: ChatGPT conversation history
-aliases: [CGPT-0474]
+aliases: CGPT-0474]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, vitamin_d, clinical, nutrition]
 status: archived
 ---

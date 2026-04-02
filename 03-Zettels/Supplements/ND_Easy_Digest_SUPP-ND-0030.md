@@ -113,9 +113,9 @@ Take 1 capsule before each meal or as directed by your physician.
 | 3 | €1.80 | Heavy meals |
 
 ## Biomarker Links
-- [[Digestive_Enzymes_Pancreatic_Function_Z-009-XXXX]] — elastase, chymotrypsin
-- [[Stool_Analysis_Digestion_Markers_Z-012-XXXX]] — fat, muscle fibers in stool |
-- [[Food_Sensitivities_IGG_Z-012-XXXX]] — incomplete digestion contributes |
+- [[Digestive_Enzymes_Pancreatic_Function_Z-009-XXXX] — elastase, chymotrypsin
+- [[Stool_Analysis_Digestion_Markers_Z-012-XXXX] — fat, muscle fibers in stool |
+- [[Food_Sensitivities_IGG_Z-012-XXXX] — incomplete digestion contributes |
 
 ## Comparison with Be Well Multivitamin (ND)
 | Feature | Easy Digest | Be Well |

@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, mtDNA, cancer, metastasis, mutations, warburg-effect, oncometabolism]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]]"
+source-litnote: "[[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]"
 status: conscious
 ---
 
@@ -114,17 +114,17 @@ status: conscious
 
 ## Related
 
-- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166]]
-- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]]
-- [[Warburg_Effect_Metabolic_Reprogramming_Z-001-1117]] — Already extracted
+- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166]
+- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]
+- [[Warburg_Effect_Metabolic_Reprogramming_Z-001-1117] — Already extracted
 
 ---
 
-*Source: [[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]] | 2026-03-08*
+*Source: [[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622] | 2026-03-08*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

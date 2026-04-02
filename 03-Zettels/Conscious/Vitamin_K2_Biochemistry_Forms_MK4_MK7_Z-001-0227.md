@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, vitamin-k2, mk4, mk7, menaquinone, biochemistry]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]]
+source-litnote: [[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]
 extraction-date: 2026-03-01
 ---
 
@@ -137,12 +137,12 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]]*  
-*Related: [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]]*  
+*Source: [[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]*  
+*Related: [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - 

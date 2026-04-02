@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, beta-cell, exhaustion, IFG, IGT, prediabetes]
 parent-moc: 
-source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
+source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
 confidence: high
 created: 2026-02-24
 ---
@@ -36,9 +36,9 @@ Chronic hyperemia leads to beta-cell burnout through amylin deposition, oxidativ
 
 ## Links
 
-- **Upstream:** [[Compensatory_IR_Stage_Z-001-0034.md]] — Compensatory stage precedes this
-- **Parallel:** [[HOMA_IR_Late_Marker_Z-001-0043.md]] — HOMA-IR becomes unreliable here
-- **Downstream:** [[Overt_Diabetes_Stage_Z-001-0036.md]] — Progresses to overt diabetes
+- **Upstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — Compensatory stage precedes this
+- **Parallel:** [[HOMA_IR_Late_Marker_Z-001-0043.md] — HOMA-IR becomes unreliable here
+- **Downstream:** [[Overt_Diabetes_Stage_Z-001-0036.md] — Progresses to overt diabetes
 
 ## Context
 
@@ -52,4 +52,4 @@ Chronic hyperemia leads to beta-cell burnout through amylin deposition, oxidativ
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

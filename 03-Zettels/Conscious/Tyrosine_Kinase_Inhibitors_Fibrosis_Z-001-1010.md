@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, tyrosine-kinase-inhibitor, tki, fgfr, vegfr, pdgfr, nintedanib, antifibrotic, ipf, cancer, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Nintedanib_Ofev_TKI_L-001-0583]]
+source-litnote: [[LitNote_Nintedanib_Ofev_TKI_L-001-0583]
 status: conscious
 ---
 
@@ -298,11 +298,11 @@ Slowed fibrosis progression
 
 ---
 
-**Related:** [[Nintedanib_Pharmacokinetics_Metabolism_Z-001-1011]] | [[IPF_Pathophysiology_Fibrosis_Z-001-0025]] | [[Pirfenidone_Mechanism_Comparison_Z-001-0026]]
+**Related:** [[Nintedanib_Pharmacokinetics_Metabolism_Z-001-1011] | [[IPF_Pathophysiology_Fibrosis_Z-001-0025] | [[Pirfenidone_Mechanism_Comparison_Z-001-0026]
 
 **Source:** CGPT-0064 — Ofev MOA and effects
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

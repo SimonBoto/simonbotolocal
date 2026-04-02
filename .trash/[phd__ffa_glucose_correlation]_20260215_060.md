@@ -7,7 +7,7 @@ uid: "20260215_060"
 ---
 uid: 20260212074709
 tags: [insulin-resistance, phd-biomarker, phd-note]
-parent-moc: [[88-Mocs/PhD_IR_MOC]]
+parent-moc: [[88-Mocs/PhD_IR_MOC]
 aliases: [FFA IR Glucose]
 references: [Data N=50 GC-MS]
 ---
@@ -16,10 +16,10 @@ references: [Data N=50 GC-MS]
 
 FFA ↑ correlates with IR? PhD analysis on N=50 GC-MS data.
 
-**Next:** [[Data_Raw]] → Analysis_Plan, DOI hunt RCTs.
+**Next:** [[Data_Raw] → Analysis_Plan, DOI hunt RCTs.
 
 **Evidence:** Raw data (priority 18/20: PhD IR biomarker).
 
-**Source:** [[00-Inbox/02-Triage/Raw_09_processed]]
+**Source:** [[00-Inbox/02-Triage/Raw_09_processed]
 
-Links: [[88-Mocs/PhD_IR_MOC]] | [[88-Mocs/Biomarkers_MOC]]
+Links: [[88-Mocs/PhD_IR_MOC] | [[88-Mocs/Biomarkers_MOC]

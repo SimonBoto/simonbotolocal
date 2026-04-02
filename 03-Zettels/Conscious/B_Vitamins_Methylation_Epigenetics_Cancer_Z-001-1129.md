@@ -7,8 +7,8 @@ domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, b-vitamins, methylation, epigenetics, cancer]
 parent-moc: 
-source-litnote: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]]
-source: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]]
+source-litnote: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]
+source: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]
 confidence: high
 created: 2026-03-08
 ---
@@ -132,8 +132,8 @@ B-vitamins (folate, B12, B6, B2) are essential cofactors for methylation reactio
 | **Compound heterozygous** | ~20% | Combined effect |
 
 ## Related
-- [[One_Carbon_Metabolism_Cancer_Nucleotide_Synthesis_Z-001-1128]]
-- [[Folate_Cancer_Paradox_Prevention_Progression_Z-001-1130]]
+- [[One_Carbon_Metabolism_Cancer_Nucleotide_Synthesis_Z-001-1128]
+- [[Folate_Cancer_Paradox_Prevention_Progression_Z-001-1130]
 - 
 - 
 
@@ -142,5 +142,5 @@ B-vitamins (folate, B12, B6, B2) are essential cofactors for methylation reactio
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

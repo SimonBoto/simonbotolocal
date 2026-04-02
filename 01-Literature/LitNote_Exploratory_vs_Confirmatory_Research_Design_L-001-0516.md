@@ -13,7 +13,7 @@ relevance: High — Critical for PhD study design and METHAP trial methodology
 aliases: [L-001-0516, Study Design Standards, Exploratory Research, Confirmatory Research, Omics Methodology]
 domain: 001
 tags: [litnote, study-design, exploratory-research, confirmatory-research, biomarkers, validation, research-standards, omics]
-source: "[[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328]]"
+source: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-03
@@ -48,7 +48,7 @@ extraction-date: 2026-03-03
 - **Validation:** Should stand independently
 - **Communication:** Definitive claims only if robust
 
-**Zettels extracted:** [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558]]
+**Zettels extracted:** [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558]
 
 ### 2. The "Exploratory Excuse" Pitfall
 > "The manuscript does not explicitly emphasize that the findings should be considered preliminary and exploratory, which is crucial given the methodological constraints."
@@ -70,7 +70,7 @@ extraction-date: 2026-03-03
 - Claimed clinical utility without independent validation
 - Sample size 20-100× smaller than required
 
-**Zettels extracted:** [[Exploratory_Excuse_Pitfall_Case_Study_Z-001-0559]]
+**Zettels extracted:** [[Exploratory_Excuse_Pitfall_Case_Study_Z-001-0559]
 
 ### 3. Validation Requirements for Biomarker Translation
 > "We acknowledge that further validation in larger, independent cohorts is necessary to confirm these biomarkers, and we have highlighted this need in our discussion."
@@ -107,7 +107,7 @@ extraction-date: 2026-03-03
 - Clinical laboratory use
 - Output: Approved clinical test
 
-**Zettels extracted:** [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]]
+**Zettels extracted:** [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]
 
 ### 4. Effect Size and Practical Significance
 > "Effect sizes provide context to the statistical significance, helping to discern whether observed differences are practically meaningful. In 'omics' sciences, where large datasets are common, reporting effect sizes alongside P-values is essential to avoid overestimating the importance of statistically significant results."
@@ -126,7 +126,7 @@ extraction-date: 2026-03-03
 | **VIP score** | Variable importance | VIP > 1.0 |
 | **Effect size** | Practical significance | Cohen's d > 0.5 |
 
-**Zettels extracted:** [[Effect_Size_Practical_Significance_Omics_Z-001-0561]]
+**Zettels extracted:** [[Effect_Size_Practical_Significance_Omics_Z-001-0561]
 
 ---
 
@@ -165,16 +165,16 @@ extraction-date: 2026-03-03
 ---
 
 ## Zettels Created from This Source
-1. [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558]] — Phase definitions and standards
-2. [[Exploratory_Excuse_Pitfall_Case_Study_Z-001-0559]] — Methodological misrepresentation example
-3. [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]] — Five-stage validation framework
-4. [[Effect_Size_Practical_Significance_Omics_Z-001-0561]] — Effect size reporting requirements
+1. [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558] — Phase definitions and standards
+2. [[Exploratory_Excuse_Pitfall_Case_Study_Z-001-0559] — Methodological misrepresentation example
+3. [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560] — Five-stage validation framework
+4. [[Effect_Size_Practical_Significance_Omics_Z-001-0561] — Effect size reporting requirements
 
 ---
 
 ## Related References
-- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — FDR thresholds by study phase
-- [[LitNote_Power_Analysis_Metabolomics_L-001-0514]] — Power and sample size requirements
+- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515] — FDR thresholds by study phase
+- [[LitNote_Power_Analysis_Metabolomics_L-001-0514] — Power and sample size requirements
 -  — Parent MOC
 -  — Clinical translation context
 

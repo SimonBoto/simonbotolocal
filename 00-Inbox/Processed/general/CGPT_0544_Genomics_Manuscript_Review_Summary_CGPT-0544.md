@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Genomics Manuscript Review: Summary"
 date: 2023-10-14
 source: ChatGPT conversation history
-aliases: [CGPT-0544]
+aliases: CGPT-0544]
 tags: [chatgpt-archive, general]
 status: archived
 ---

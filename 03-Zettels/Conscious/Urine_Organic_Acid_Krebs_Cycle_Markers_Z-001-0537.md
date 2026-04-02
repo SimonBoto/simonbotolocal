@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, organic-acid, krebs-cycle, mitochondrial-dysfunction, citrate, aconitate]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]]
+source-litnote: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]
 extraction-date: 2026-03-01
 ---
 
@@ -41,7 +41,7 @@ Isocitrate → α-KG → Succinyl-CoA
 
 ---
 
-*Source: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]]*
+*Source: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]*
 
 
 ## RELATED FILES

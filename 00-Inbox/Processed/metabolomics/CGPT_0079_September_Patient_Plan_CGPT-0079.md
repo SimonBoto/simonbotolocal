@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "September Patient Plan"
 date: 2025-06-10
 source: ChatGPT conversation history
-aliases: [CGPT-0079]
+aliases: CGPT-0079]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition]
 status: archived
 ---

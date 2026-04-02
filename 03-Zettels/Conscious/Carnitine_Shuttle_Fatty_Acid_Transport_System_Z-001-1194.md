@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, carnitine, fatty-acid-transport, cpt1, cpt2, mitochondria]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]]"
+source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]"
 status: conscious
 ---
 
@@ -139,14 +139,14 @@ Acetyl-CoA + Carnitine → Acetylcarnitine + CoA
 
 ## Related
 
-- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]]
-- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]]
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]
 
 ---
 
-*Source: [[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]] | 2026-03-08*
+*Source: [[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

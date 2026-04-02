@@ -8,7 +8,7 @@ tags: [zettel, ketogenesis, bhb, hmg-coa, liver, fasting]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045G]]
+source: [[L-001-0045G]
 ---
 
 # Ketogenesis Pathway and Regulation
@@ -49,13 +49,13 @@ Acetoacetate → BHB (β-OHBDH)
 | **Cortisol** | ↑ Ketogenesis | Permissive effect on lipolysis |
 
 ## Related
-- [[Three_Ketone_Bodies_Z-001-0482]] The Three Ketone Bodies
-- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]] BHB is a Hydroxy Acid
-- [[Physiological_vs_Pathological_Ketosis_Z-001-0487]] Physiological vs Pathological Ketosis
+- [[Three_Ketone_Bodies_Z-001-0482] The Three Ketone Bodies
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483] BHB is a Hydroxy Acid
+- [[Physiological_vs_Pathological_Ketosis_Z-001-0487] Physiological vs Pathological Ketosis
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

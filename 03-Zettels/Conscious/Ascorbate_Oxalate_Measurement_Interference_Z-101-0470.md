@@ -6,7 +6,7 @@ aliases: [Z-101-0470]
 domain: 101
 tags: [zettel, vitamin-c, oxalate, laboratory, measurement, interference, clinical-chemistry, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]]
+source-litnote: [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]
 status: conscious
 ---
 
@@ -88,13 +88,13 @@ High vitamin C (ascorbic acid) intake can cause **false positive oxalate measure
 - **Clinical utility:** More reliable marker in supplement users
 
 ## Related
-- **Source:** [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]]
-- **Chemistry:** [[Vitamin_C_to_Oxalate_Chemistry_Z-101-0469]]
-- **DHA :** [[DHA_Metabolism_Pathways_Z-101-0471]]
+- **Source:** [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]
+- **Chemistry:** [[Vitamin_C_to_Oxalate_Chemistry_Z-101-0469]
+- **DHA :** [[DHA_Metabolism_Pathways_Z-101-0471]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

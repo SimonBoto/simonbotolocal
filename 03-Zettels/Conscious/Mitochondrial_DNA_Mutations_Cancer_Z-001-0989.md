@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mtdna, mitochondrial-dna, cancer, mutations, respiratory-chain, ros, warburg-effect, biomarker, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]]
+source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]
 status: conscious
 ---
 
@@ -344,14 +344,14 @@ AMPK activation
 
 ---
 
-**Related:** [[Mitochondrial_Gene_Knockout_Models_Z-001-0988]] | [[Warburg_Effect_Cancer_Metabolism_Z-001-0045]] | [[Metformin_Cancer_Mechanisms_Z-001-0046]]
+**Related:** [[Mitochondrial_Gene_Knockout_Models_Z-001-0988] | [[Warburg_Effect_Cancer_Metabolism_Z-001-0045] | [[Metformin_Cancer_Mechanisms_Z-001-0046]
 
 **Source:** CGPT-0311 — Self-Education Program Plan
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

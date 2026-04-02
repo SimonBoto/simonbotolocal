@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Ethics Approval for Study"
 date: 2024-02-25
 source: ChatGPT conversation history
-aliases: [CGPT-0498]
+aliases: CGPT-0498]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, nutrition]
 status: archived
 ---

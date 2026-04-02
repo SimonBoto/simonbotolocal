@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Insulin Resistance Revolutionized"
 date: 2023-06-17
 source: ChatGPT conversation history
-aliases: [CGPT-0608]
+aliases: CGPT-0608]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, nutrition]
 status: archived
 ---

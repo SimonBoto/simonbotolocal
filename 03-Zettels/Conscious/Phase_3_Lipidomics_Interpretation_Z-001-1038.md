@@ -7,8 +7,8 @@ domain: 001
 domain-name: Fatty Acid Metabolism
 tags: [zettel, fatty-acids, lipidomics, ratios]
 parent-moc: 
-source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
-source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
+source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
+source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
 confidence: high
 created: 2026-03-08
 ---
@@ -63,8 +63,8 @@ Weeks 5-6 of bootcamp: Mastering fatty acid analysis and lipid-based clinical re
 > "How fatty acid patterns reveal diet truths patients lie about."
 
 ## Related
-- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
-- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]
 - 
 - 
 
@@ -73,7 +73,7 @@ Weeks 5-6 of bootcamp: Mastering fatty acid analysis and lipid-based clinical re
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

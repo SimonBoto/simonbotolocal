@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics Training
 tags: [zettel, moc, graph, connections]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0022_Training_Integration_L-001-0598]]
-source: [[LitNote_CGPT_0022_Training_Integration_L-001-0598]]
+source-litnote: [[LitNote_CGPT_0022_Training_Integration_L-001-0598]
+source: [[LitNote_CGPT_0022_Training_Integration_L-001-0598]
 confidence: high
 created: 2026-03-08
 ---
@@ -54,7 +54,7 @@ Knowledge graph showing connections between all CGPT-0022 training materials and
 
 ### Micronutrient Cluster
 **MOCs:**
-- -Metabolism]]
+- -Metabolism]
 - 
 - 
 
@@ -139,7 +139,7 @@ MOC-Metabolomics-Analysis → Categories → Patterns → Mitochondrial → Gut 
 MOC-Clinical-Protocols → Supplement Hierarchy → Cofactor Deficiency → Quality Standards
 
 ## Related
-- [[CGPT_0022_Curriculum_Master_Index_Z-001-1081]]
+- [[CGPT_0022_Curriculum_Master_Index_Z-001-1081]
 - 
 
 ---
@@ -147,6 +147,6 @@ MOC-Clinical-Protocols → Supplement Hierarchy → Cofactor Deficiency → Qual
 
 ## RELATED FILES
 - 
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]
 - 
 

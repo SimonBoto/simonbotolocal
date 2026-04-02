@@ -18,7 +18,7 @@ title: "I think we should start by understanding vitamin D metabolism
 
 ### 28."
 date: 2025-12-08
-source: [[CGPT_0022_Metabolomics_training_role_[CGPT-0022]]
+source: [[CGPT_0022_Metabolomics_training_role_CGPT-0022]]
 aliases: [X-MET-251208-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
@@ -69,8 +69,8 @@ We need two month intense bootcamp truly 😂
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]
 
 ## Status
 

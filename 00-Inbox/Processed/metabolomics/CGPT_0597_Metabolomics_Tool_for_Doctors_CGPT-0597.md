@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolomics Tool for Doctors"
 date: 2023-08-22
 source: ChatGPT conversation history
-aliases: [CGPT-0597]
+aliases: CGPT-0597]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition]
 status: archived
 ---

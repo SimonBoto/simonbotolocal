@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Building AI App for Healthcare"
 date: 2025-09-21
 source: ChatGPT conversation history
-aliases: [CGPT-0057]
+aliases: CGPT-0057]
 tags: [chatgpt-archive, clinical, consciousness_ai, technology]
 status: archived
 ---

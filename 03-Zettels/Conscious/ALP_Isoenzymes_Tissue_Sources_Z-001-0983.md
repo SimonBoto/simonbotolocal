@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, alp, alkaline-phosphatase, isoenzymes, liver, bone, intestinal, placental, clinical-chemistry, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]]
+source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]
 status: conscious
 ---
 
@@ -251,11 +251,11 @@ Consider bone-specific ALP or isoenzyme electrophoresis
 
 ---
 
-**Related:** [[Pagets_Disease_Bone_Diagnosis_Management_Z-001-0984]] | [[Elevated_ALP_Differential_Workup_Z-001-0986]]
+**Related:** [[Pagets_Disease_Bone_Diagnosis_Management_Z-001-0984] | [[Elevated_ALP_Differential_Workup_Z-001-0986]
 
 **Source:** CGPT-0345 — Alkaline Phosphatase Overview
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]

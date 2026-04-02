@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "NMN Powder Stability Bioavailability"
 date: 2025-03-14
 source: ChatGPT conversation history
-aliases: [CGPT-0119]
+aliases: CGPT-0119]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

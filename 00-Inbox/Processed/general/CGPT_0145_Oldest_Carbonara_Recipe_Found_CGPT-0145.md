@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Oldest Carbonara Recipe Found"
 date: 2025-02-16
 source: ChatGPT conversation history
-aliases: [CGPT-0145]
+aliases: CGPT-0145]
 tags: [chatgpt-archive, general]
 status: archived
 ---

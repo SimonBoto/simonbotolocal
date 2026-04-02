@@ -55,17 +55,17 @@ $$
 ## 🔗 Connected s
 
 **IR Core Panel:**
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR (traditional measure)
-- [[HOMA_Beta_Beta_Cell_Function_Z-001-0047.md]] — HOMA-β (β-cell function)
-- [[TG_HDL_Ratio_IR_Marker_Z-001-0049.md]] — TG/HDL ratio (lipid-based IR marker)
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md] — HOMA-IR (traditional measure)
+- [[HOMA_Beta_Beta_Cell_Function_Z-001-0047.md] — HOMA-β (β-cell function)
+- [[TG_HDL_Ratio_IR_Marker_Z-001-0049.md] — TG/HDL ratio (lipid-based IR marker)
 
 **Metabolic Syndrome:**
-- [[Metabolic_Syndrome_Criteria_Z-001-0050.md]] — Metabolic syndrome criteria
-- [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md]] — Triglycerides (TyG numerator)
+- [[Metabolic_Syndrome_Criteria_Z-001-0050.md] — Metabolic syndrome criteria
+- [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001.md] — Triglycerides (TyG numerator)
 
 **Mechanism Context:**
-- _Z-001-0018.md]] — Lipotoxicity (elevated TG → IR)
-- [[MAPK_Mitogenic_Pathway_Z-001-0016]] — Mitochondrial dysfunction (impaired lipid oxidation)
+- _Z-001-0018.md] — Lipotoxicity (elevated TG → IR)
+- [[MAPK_Mitogenic_Pathway_Z-001-0016] — Mitochondrial dysfunction (impaired lipid oxidation)
 
 ---
 
@@ -159,7 +159,7 @@ patient_id,visit,fasting_tg_mg_dl,fasting_glucose_mg_dl,tyg_index,tyg_status
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

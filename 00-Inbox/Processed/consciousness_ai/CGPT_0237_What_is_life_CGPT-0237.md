@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "What is life?"
 date: 2024-11-30
 source: ChatGPT conversation history
-aliases: [CGPT-0237]
+aliases: CGPT-0237]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Understanding Version Benefits"
 date: 2024-09-12
 source: ChatGPT conversation history
-aliases: [CGPT-0292]
+aliases: CGPT-0292]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

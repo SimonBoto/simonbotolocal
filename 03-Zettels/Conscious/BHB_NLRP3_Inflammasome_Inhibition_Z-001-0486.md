@@ -8,7 +8,7 @@ tags: [zettel, bhb, nlrp3, inflammasome, inflammation, il-1b]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045G]]
+source: [[L-001-0045G]
 ---
 
 # BHB NLRP3 Inflammasome Inhibition
@@ -82,8 +82,8 @@ Gasdermin D → Pyroptosis (inflammatory cell death)
 - **Human studies:** Ongoing (ketogenic diet trials)
 
 ## Related
-- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]] BHB HDAC Inhibition
-- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]] BHB Energy Substrate
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485] BHB HDAC Inhibition
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484] BHB Energy Substrate
 - 
 
 ---
@@ -91,7 +91,7 @@ Gasdermin D → Pyroptosis (inflammatory cell death)
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

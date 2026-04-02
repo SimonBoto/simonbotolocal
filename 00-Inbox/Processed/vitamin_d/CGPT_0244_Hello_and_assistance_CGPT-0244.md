@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Hello and assistance"
 date: 2024-11-23
 source: ChatGPT conversation history
-aliases: [CGPT-0244]
+aliases: CGPT-0244]
 tags: [chatgpt-archive, vitamin_d, nutrition]
 status: archived
 ---

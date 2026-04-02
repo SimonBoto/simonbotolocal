@@ -61,7 +61,7 @@ tags: [ref, biomarkers, metabolomics, framework, know
 ## 🔗 Connected to Our Work
 
 ### Methods
-- [[Clinical_Biochemical_Assessment_Framework_S-001-0002]] — Biomarker framework
+- [[Clinical_Biochemical_Assessment_Framework_S-001-0002] — Biomarker framework
 
 ---
 

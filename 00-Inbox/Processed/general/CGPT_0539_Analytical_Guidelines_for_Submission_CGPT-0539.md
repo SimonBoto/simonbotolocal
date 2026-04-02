@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Analytical Guidelines for Submission"
 date: 2023-11-05
 source: ChatGPT conversation history
-aliases: [CGPT-0539]
+aliases: CGPT-0539]
 tags: [chatgpt-archive, general]
 status: archived
 ---

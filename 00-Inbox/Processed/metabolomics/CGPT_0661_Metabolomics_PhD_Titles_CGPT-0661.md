@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolomics PhD Titles."
 date: 2023-04-22
 source: ChatGPT conversation history
-aliases: [CGPT-0661]
+aliases: CGPT-0661]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, technology]
 status: archived
 ---

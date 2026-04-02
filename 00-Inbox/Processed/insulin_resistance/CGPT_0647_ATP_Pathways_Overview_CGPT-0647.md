@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "ATP Pathways Overview"
 date: 2023-04-30
 source: ChatGPT conversation history
-aliases: [CGPT-0647]
+aliases: CGPT-0647]
 tags: [chatgpt-archive, insulin_resistance, nutrition]
 status: archived
 ---

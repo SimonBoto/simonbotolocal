@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, cardiovascular-disease, autoimmunity, sle, inflammation, accelerated-aging]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]]"
+source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]"
 status: conscious
 ---
 
@@ -136,23 +136,23 @@ status: conscious
 
 ## Related
 
-- [[SLE_Telomere_Findings_Disease_Activity_Z-001-1174]]
-- [[Immunosenescence_Premature_Immune_Aging_Autoimmunity_Z-001-1172]]
+- [[SLE_Telomere_Findings_Disease_Activity_Z-001-1174]
+- [[Immunosenescence_Premature_Immune_Aging_Autoimmunity_Z-001-1172]
 
 ---
 
-*Source: [[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]] | 2026-03-08*
+*Source: [[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626] | 2026-03-08*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- [[Treg_Th17_Balance_VDR_Z-001-1165]|Z-001-1165]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Treg_Th17_Balance_VDR_Z-001-1165]|Z-001-1165]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
 
 
 ## Related
-- [[NODAT_Risk_Factors_Management_Z-001-0927]|Z-001-0927]]
+- [[NODAT_Risk_Factors_Management_Z-001-0927]|Z-001-0927]

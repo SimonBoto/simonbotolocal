@@ -5,7 +5,7 @@ type: index
 title: "01-Literature — Source Processing"
 aliases: [Literature, LitNotes, Source Notes]
 tags: [index, literature, litnotes, processing, navigation, folder]
-parent-index: [[00-MISSION]]
+parent-index: [[00-MISSION]
 status: active
 ---
 
@@ -69,7 +69,7 @@ Author_Year_Topic_[L-{DDD}-{SSSS}].md
 
 ## 📝 LitNote Template
 
-See: `[[06-Structure/Templates/Template_LitNote_v1.0]]`
+See: `[[06-Structure/Templates/Template_LitNote_v1.0]`
 
 ```markdown
 ---
@@ -108,7 +108,7 @@ title: Paper Title
 
 ← **Back to ** — Source Management  
 → **Next: ** — Atomic Knowledge  
-↑ **Parent: [[00-MISSION]]**
+↑ **Parent: [[00-MISSION]**
 
 **Siblings:**
  |  |  |  |  |  |  | 

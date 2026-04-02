@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Article Study Request"
 date: 2025-03-06
 source: ChatGPT conversation history
-aliases: [CGPT-0128]
+aliases: CGPT-0128]
 tags: [chatgpt-archive, phd_research, greek_language, nutrition]
 status: archived
 ---

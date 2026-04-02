@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mandarin Honey Meringue Recipe"
 date: 2024-01-13
 source: ChatGPT conversation history
-aliases: [CGPT-0507]
+aliases: CGPT-0507]
 tags: [chatgpt-archive, greek_language]
 status: archived
 ---

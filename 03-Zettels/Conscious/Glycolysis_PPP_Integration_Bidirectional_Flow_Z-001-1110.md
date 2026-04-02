@@ -7,8 +7,8 @@ domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, glycolysis, ppp, integration, flow]
 parent-moc: 
-source-litnote: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
-source: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]]
+source-litnote: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]
+source: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]
 confidence: high
 created: 2026-03-08
 ---
@@ -103,8 +103,8 @@ Ribose-5-P + Xylulose-5-P
 | **RBCs** | 90% | 10% (but essential) |
 
 ## Related
-- [[Pyruvate_Metabolic_Hub_Multiple_Fates_Z-001-1111]]
-| [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]]
+- [[Pyruvate_Metabolic_Hub_Multiple_Fates_Z-001-1111]
+| [[Pentose_Phosphate_Pathway_Ribose_NADPH_Z-001-1090]
 | 
 
 ---
@@ -112,6 +112,6 @@ Ribose-5-P + Xylulose-5-P
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

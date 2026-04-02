@@ -36,7 +36,7 @@ created: 2026-02-22
 
 ## Links
 
-- **Upstream:** [[Akt_Substrate_Phosphorylation_Z-001-0010]] — Akt activation
+- **Upstream:** [[Akt_Substrate_Phosphorylation_Z-001-0010] — Akt activation
 
 ## Context
 
@@ -46,4 +46,4 @@ created: 2026-02-22
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

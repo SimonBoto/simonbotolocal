@@ -194,9 +194,9 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Male_Hormones_[B-011-0001]|Male Hormones Panel]]
-- [[Z-011-0001|Testosterone — Primary Male Androgen]]
-- [[Z-011-0007|Free Testosterone — Bioavailable Androgen]]
+- [[Male_Hormones_[B-011-0001]|Male Hormones Panel]
+- [[Z-011-0001|Testosterone — Primary Male Androgen]
+- [[Z-011-0007|Free Testosterone — Bioavailable Androgen]
 
 ---
 *Complete biomarker foundation — SHBG*

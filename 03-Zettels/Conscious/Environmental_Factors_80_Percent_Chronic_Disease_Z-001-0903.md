@@ -7,7 +7,7 @@ domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, environmental-factors, chronic-disease, autoimmune, 80-percent-statistic, epigenetics, conscious]
 parent-moc: 
-source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
+source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
@@ -65,15 +65,15 @@ If 80% of disease risk comes from **environmental modulation of phenotype**, the
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Why metabolites capture environment
+- **Upstream/Prerequisite:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md] — Why metabolites capture environment
 - **Parallel/Related:**  — Mechanism of environmental influence
 - **Downstream/Consequence:**  — VD as modifiable factor
 
 ## Context
 
-**Also relevant to:** , -Mechanisms]], 
+**Also relevant to:** , -Mechanisms], 
 
-**Emerges from:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
+**Emerges from:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
 **Supports:**  — Environmental drivers of insulin resistance
 
 ---
@@ -82,10 +82,10 @@ If 80% of disease risk comes from **environmental modulation of phenotype**, the
 
 
 ## Related
-- [[DNA_Methylation_Epigenetic_Regulation_Z-001-0409]|Z-001-0409]]
+- [[DNA_Methylation_Epigenetic_Regulation_Z-001-0409]|Z-001-0409]
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

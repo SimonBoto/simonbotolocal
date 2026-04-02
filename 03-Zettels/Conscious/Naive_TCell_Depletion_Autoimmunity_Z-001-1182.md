@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, naive-t-cells, autoimmunity, immunosenescence, t-cell-repertoire]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]]"
+source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]"
 status: conscious
 ---
 
@@ -130,10 +130,10 @@ status: conscious
 
 ## Related
 
-- [[CD28_Negative_TCells_Pathogenicity_Z-001-1183]]
-- [[TCR_Repertoire_Restriction_Z-001-1184]]
-- [[Immunosenescence_Premature_Immune_Aging_Autoimmunity_Z-001-1172]]
+- [[CD28_Negative_TCells_Pathogenicity_Z-001-1183]
+- [[TCR_Repertoire_Restriction_Z-001-1184]
+- [[Immunosenescence_Premature_Immune_Aging_Autoimmunity_Z-001-1172]
 
 ---
 
-*Source: [[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]] | 2026-03-08*
+*Source: [[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626] | 2026-03-08*

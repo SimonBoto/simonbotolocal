@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Effective diet interventions."
 date: 2023-05-04
 source: ChatGPT conversation history
-aliases: [CGPT-0641]
+aliases: CGPT-0641]
 tags: [chatgpt-archive, insulin_resistance, phd_research, consciousness_ai, nutrition, personal_development]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Review past conversations"
 date: 2025-08-15
 source: ChatGPT conversation history
-aliases: [CGPT-0061]
+aliases: CGPT-0061]
 tags: [chatgpt-archive, phd_research]
 status: archived
 ---

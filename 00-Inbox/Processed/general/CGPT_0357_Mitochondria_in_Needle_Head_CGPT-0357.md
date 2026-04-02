@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mitochondria in Needle Head"
 date: 2024-06-11
 source: ChatGPT conversation history
-aliases: [CGPT-0357]
+aliases: CGPT-0357]
 tags: [chatgpt-archive, general]
 status: archived
 ---

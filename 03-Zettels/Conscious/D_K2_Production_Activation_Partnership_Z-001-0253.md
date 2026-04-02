@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, vitamin-d, vitamin-k2, synergy, mechanisms, carboxylation]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]
+source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]
 extraction-date: 2026-03-01
 ---
 
@@ -85,8 +85,8 @@ High Production + High Activity = Maximal Function
 
 ---
 
-*Source: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]*  
+*Source: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]*  
 *Extracted: 2026-03-01*
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

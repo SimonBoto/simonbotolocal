@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, sirolimus, rapamycin, mtorc1, pgc-1a, mitochondrial-biogenesis, mitochondrial-mass]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]]"
+source: "[[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]"
 extraction-date: 2026-03-02
 ---
 
@@ -81,9 +81,9 @@ Sirolimus → mTORC1 inhibition
 
 ---
 
-*See also: [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]]*
+*See also: [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

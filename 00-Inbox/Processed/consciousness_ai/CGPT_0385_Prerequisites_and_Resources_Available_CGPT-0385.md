@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Prerequisites and Resources Available"
 date: 2024-05-18
 source: ChatGPT conversation history
-aliases: [CGPT-0385]
+aliases: CGPT-0385]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

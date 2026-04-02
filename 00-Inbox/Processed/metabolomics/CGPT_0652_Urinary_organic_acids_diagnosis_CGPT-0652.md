@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Urinary organic acids diagnosis."
 date: 2023-04-29
 source: ChatGPT conversation history
-aliases: [CGPT-0652]
+aliases: CGPT-0652]
 tags: [chatgpt-archive, metabolomics, clinical, consciousness_ai, nutrition]
 status: archived
 ---

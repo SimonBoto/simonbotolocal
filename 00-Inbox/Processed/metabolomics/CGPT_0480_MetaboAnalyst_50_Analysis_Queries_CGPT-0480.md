@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "MetaboAnalyst 5.0 Analysis Queries"
 date: 2023-08-21
 source: ChatGPT conversation history
-aliases: [CGPT-0480]
+aliases: CGPT-0480]
 tags: [chatgpt-archive, metabolomics]
 status: archived
 ---

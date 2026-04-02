@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Paget's Bone Disease Overview"
 date: 2024-12-03
 source: ChatGPT conversation history
-aliases: [CGPT-0234]
+aliases: CGPT-0234]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

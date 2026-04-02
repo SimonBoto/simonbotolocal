@@ -16,7 +16,7 @@ domain: 001
 # Protein Intake and CKD Progression — Evidence Synthesis
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0370_Protein_and_Kidney_Disease_[CGPT-0370]] (20 messages)
+- **ChatGPT conversation:** [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370] (20 messages)
 - **Date:** May 26, 2024
 - **Scope:** Clinical evidence for protein effects on kidney disease progression
 

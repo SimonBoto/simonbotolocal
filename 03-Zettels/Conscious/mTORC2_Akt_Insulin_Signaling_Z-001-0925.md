@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mtorc2, sirolimus, rapamycin, akt, insulin-signaling, chronic-dosing]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]]"
+source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
 ---
@@ -127,12 +127,12 @@ updated: 2026-03-05
 
 ---
 
-*See also: [[Sirolimus_Beta_Cell_Dysfunction_NODAT_Z-001-0924]]*
+*See also: [[Sirolimus_Beta_Cell_Dysfunction_NODAT_Z-001-0924]*
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]|Z-001-0513]]
+- [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]|Z-001-0513]

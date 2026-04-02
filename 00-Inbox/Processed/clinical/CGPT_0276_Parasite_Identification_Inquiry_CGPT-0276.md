@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Parasite Identification Inquiry"
 date: 2024-10-04
 source: ChatGPT conversation history
-aliases: [CGPT-0276]
+aliases: CGPT-0276]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

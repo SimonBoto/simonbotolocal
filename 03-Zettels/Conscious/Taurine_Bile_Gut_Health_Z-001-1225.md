@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, taurine, bile-acids, gut-health, detox, amino-acids]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Gut_Healing_Amino_Acids_L-001-0636]]"
+source-litnote: "[[LitNote_Gut_Healing_Amino_Acids_L-001-0636]"
 status: conscious
 ---
 
@@ -136,13 +136,13 @@ Taurine is a sulfur-containing amino acid with critical roles in bile acid conju
 
 ## Related
 
-- [[Glutamine_Intestinal_Repair_Protocol_Z-001-1224]]
-- [[Amino_Acids_Gut_Healing_Synergy_Z-001-1226]]
-- [[Kefir_Broth_Coffee_Fast_Protocol_Z-001-1228]]
+- [[Glutamine_Intestinal_Repair_Protocol_Z-001-1224]
+- [[Amino_Acids_Gut_Healing_Synergy_Z-001-1226]
+- [[Kefir_Broth_Coffee_Fast_Protocol_Z-001-1228]
 
 ---
 
-*Source: [[LitNote_Gut_Healing_Amino_Acids_L-001-0636]] | 2026-03-09*
+*Source: [[LitNote_Gut_Healing_Amino_Acids_L-001-0636] | 2026-03-09*
 
 ## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]

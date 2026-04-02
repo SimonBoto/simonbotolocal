@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Fat percentage calculation"
 date: 2024-11-30
 source: ChatGPT conversation history
-aliases: [CGPT-0238]
+aliases: CGPT-0238]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Elevated Biomarkers in Cancer"
 date: 2024-06-27
 source: ChatGPT conversation history
-aliases: [CGPT-0346]
+aliases: CGPT-0346]
 tags: [chatgpt-archive, metabolomics]
 status: archived
 ---

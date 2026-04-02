@@ -18,7 +18,7 @@ title: "Hypothesis: What if we combine it with huuuge dose of iodine
 
 ### 189"
 date: 2024-03-24
-source: [[CGPT_0446_Forget_Everything_About_Me_[CGPT-0446]]
+source: [[CGPT_0446_Forget_Everything_About_Me_CGPT-0446]]
 aliases: [X-GEN-240324-01]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []

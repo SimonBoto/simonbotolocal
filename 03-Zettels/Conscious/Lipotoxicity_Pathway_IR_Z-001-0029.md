@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, lipotoxicity, insulin-resistance, adipose-tissue, ceramide, mechanisms]
 parent-moc: 
-source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
+source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
@@ -34,9 +34,9 @@ Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capa
 
 ## Links
 
-- **Upstream:** [[Insulin_Receptor_Structure_Z-001-0001]] — Excess nutrient intake triggers pathway
-- **Parallel:** [[Mitochondrial_Dysfunction_IR_Z-001-0030.md]] — Mitochondrial dysfunction co-occurs
-- **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md]] — Compensatory hyperinsulinemia results
+- **Upstream:** [[Insulin_Receptor_Structure_Z-001-0001] — Excess nutrient intake triggers pathway
+- **Parallel:** [[Mitochondrial_Dysfunction_IR_Z-001-0030.md] — Mitochondrial dysfunction co-occurs
+- **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — Compensatory hyperinsulinemia results
 
 ## Context
 
@@ -49,8 +49,8 @@ Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capa
 *UID: Z-001-0029 | Domain: 001 | Created: 2026-02-24*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: History of Dietary Fat Research and Controversies
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0471_Ada_Dietary_Guidelines_Controversies_[CGPT-0471]]
+- **ChatGPT conversation:** [[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]
 - **Date:** March 10, 2024
 - **Scope:** Ancel Keys, Seven Countries Study, saturated fat controversy, seed oil industry, Procter & Gamble
 
@@ -44,7 +44,7 @@ extraction-date: 2026-03-01
 - Promoted vegetable oils
 - Influenced USDA Food Pyramid (1992)
 
-**Zettels extracted:** [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]]
+**Zettels extracted:** [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]
 
 ### 2. The Controversy — Criticisms of Keys' Research
 > "Keys' research and conclusions have been subject to criticism... they oversimplified the relationship between diet and heart disease."
@@ -66,7 +66,7 @@ extraction-date: 2026-03-01
 - Total fat reduction not beneficial
 - Specific fat types matter more
 
-**Zettels extracted:** [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]]
+**Zettels extracted:** [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]
 
 ### 3. Procter & Gamble and Seed Oil Marketing (Crisco)
 > "Procter & Gamble developed Crisco, the first all-vegetable shortening, marketing it as a modern, healthier alternative to animal fats like lard."
@@ -90,7 +90,7 @@ extraction-date: 2026-03-01
 - Shaped dietary recommendations
 - Economic interests aligned with anti-saturated fat message
 
-**Zettels extracted:** [[Procter_Gamble_Crisco_Seed_Oil_Marketing_Z-001-0247]]
+**Zettels extracted:** [[Procter_Gamble_Crisco_Seed_Oil_Marketing_Z-001-0247]
 
 ### 4. Rise of Seed Oils in American Diet
 > "Post-World War II... shift towards seed oils was further propelled by industry lobbying and government guidelines."
@@ -122,7 +122,7 @@ extraction-date: 2026-03-01
 - Potential inflammatory consequences
 - Contribution to obesity/diabetes epidemic?
 
-**Zettels extracted:** [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
+**Zettels extracted:** [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]
 
 ---
 
@@ -148,10 +148,10 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]]
-2. [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]]
-3. [[Procter_Gamble_Crisco_Seed_Oil_Marketing_Z-001-0247]]
-4. [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]]
+1. [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]
+2. [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]
+3. [[Procter_Gamble_Crisco_Seed_Oil_Marketing_Z-001-0247]
+4. [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]
 
 ---
 

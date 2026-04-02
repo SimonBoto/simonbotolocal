@@ -6,7 +6,7 @@ aliases: [Z-001-0607, ascorbate-oxalate, vitamin-c-oxalate]
 domain: 001
 tags: [zettel, vitamin-c, ascorbate, oxalate, metabolism]
 parent-moc: 
-source: [[L-001-0060A]]
+source: [[L-001-0060A]
 confidence: high
 created: 2026-03-04
 ---
@@ -52,13 +52,13 @@ Ascorbate → Dehydroascorbate → Oxalate + Threonate
 - Megadosing (>2000 mg) not recommended
 
 ## Related
-- _to_Oxalate_Z-001-0605]] — Other major source
-- [[Hydroxyproline_Collagen_Oxalate_Production_Z-001-0606]] — Collagen source
+- _to_Oxalate_Z-001-0605] — Other major source
+- [[Hydroxyproline_Collagen_Oxalate_Production_Z-001-0606] — Collagen source
 
 ---
 *Source: CGPT-0413 | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

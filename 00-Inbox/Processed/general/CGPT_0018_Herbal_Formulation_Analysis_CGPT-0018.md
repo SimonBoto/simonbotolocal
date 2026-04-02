@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Herbal Formulation Analysis"
 date: 2026-01-04
 source: ChatGPT conversation history
-aliases: [CGPT-0018]
+aliases: CGPT-0018]
 tags: [chatgpt-archive, general]
 status: archived
 ---

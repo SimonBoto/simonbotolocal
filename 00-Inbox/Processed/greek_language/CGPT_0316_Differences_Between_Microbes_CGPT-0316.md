@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Differences Between Microbes"
 date: 2024-08-04
 source: ChatGPT conversation history
-aliases: [CGPT-0316]
+aliases: CGPT-0316]
 tags: [chatgpt-archive, greek_language, nutrition]
 status: archived
 ---

@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, vitamin-d, vitamin-k2, synergy, vkdp, calcium, metabolism]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_VitD_K2_Synergy_MetS_L-001-0639]]"
+source-litnote: "[[LitNote_VitD_K2_Synergy_MetS_L-001-0639]"
 status: conscious
 ---
 
@@ -110,15 +110,15 @@ Optimal calcium distribution + metabolic signaling
 
 ## Related
 
-- [[Matrix_Gla_Protein_Vascular_Health_Z-001-1235]]
-- [[Osteocalcin_Metabolic_Hormone_Z-001-1236]]
-- [[VitD_K2_Insulin_Resistance_Z-001-1237]]
+- [[Matrix_Gla_Protein_Vascular_Health_Z-001-1235]
+- [[Osteocalcin_Metabolic_Hormone_Z-001-1236]
+- [[VitD_K2_Insulin_Resistance_Z-001-1237]
 
 ---
 
-*Source: [[LitNote_VitD_K2_Synergy_MetS_L-001-0639]] | 2026-03-09*
+*Source: [[LitNote_VitD_K2_Synergy_MetS_L-001-0639] | 2026-03-09*
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

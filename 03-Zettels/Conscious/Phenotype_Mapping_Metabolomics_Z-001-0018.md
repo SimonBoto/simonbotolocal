@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, phenotype, metabolomics, systems-biology, clinical-practice, conscious]
 parent-moc: 
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]]
+source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -46,14 +46,14 @@ Unlike genomics (static) or transcriptomics (intermediate), metabolomics capture
 ## Connections
 
 ### Upstream
-- [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Metabolomics as final phenotype layer
-- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Environmental driver measurement
-- [[Systems_Biology_Integrative_Framework_Z-001-0901]] — Multi-parameter integration
+- [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md] — Metabolomics as final phenotype layer
+- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903] — Environmental driver measurement
+- [[Systems_Biology_Integrative_Framework_Z-001-0901] — Multi-parameter integration
 
 ### Downstream
-- [[Predictive_Metabolites_T1D_Example_Z-001-0019.md]] — Phenotype prediction before symptoms
-- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md]] — Specific phenotype markers
-- -Mechanisms]] — Specific micronutrient phenotype
+- [[Predictive_Metabolites_T1D_Example_Z-001-0019.md] — Phenotype prediction before symptoms
+- [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md] — Specific phenotype markers
+- -Mechanisms] — Specific micronutrient phenotype
 
 ### Parallel
 -  — Systems view of IR phenotype
@@ -72,14 +72,14 @@ Unlike genomics (static) or transcriptomics (intermediate), metabolomics capture
 
 ## See Also
 -  — Course navigation
-- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source literature note
-- [[Omics_Training_Core_Insights_S-001-0001]] — DE1 synthesis
+- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003] — Source literature note
+- [[Omics_Training_Core_Insights_S-001-0001] — DE1 synthesis
 
 ---
 *Confidence: High*  
 *Next Review: After DE4-8 completion*
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

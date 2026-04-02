@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Friendly conversation start"
 date: 2025-11-20
 source: ChatGPT conversation history
-aliases: [CGPT-0033]
+aliases: CGPT-0033]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

@@ -7,8 +7,8 @@ domain: 001
 domain-name: Ketogenesis
 tags: [zettel, ketogenic-diet, epilepsy, neurodegeneration, therapy]
 parent-moc: 
-source-litnote: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
-source: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]
+source-litnote: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]
+source: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]
 confidence: high
 created: 2026-03-08
 ---
@@ -114,8 +114,8 @@ Ketogenic diets and therapeutic ketosis have established benefits for epilepsy a
 - Pregnancy (relative)
 
 ## Related
-- [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]]
-- [[Ketosis_Metabolic_Flexibility_Clinical_Z-001-1057]]
+- [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]
+- [[Ketosis_Metabolic_Flexibility_Clinical_Z-001-1057]
 - 
 
 ---
@@ -123,6 +123,6 @@ Ketogenic diets and therapeutic ketosis have established benefits for epilepsy a
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

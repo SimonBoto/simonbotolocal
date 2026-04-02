@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Glutathione Production Pathway."
 date: 2024-06-13
 source: ChatGPT conversation history
-aliases: [CGPT-0354]
+aliases: CGPT-0354]
 tags: [chatgpt-archive, phd_research, consciousness_ai]
 status: archived
 ---

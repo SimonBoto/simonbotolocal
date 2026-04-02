@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Autoimmune Diseases and Telomeres"
 date: 2023-12-12
 source: ChatGPT conversation history
-aliases: [CGPT-0520]
+aliases: CGPT-0520]
 tags: [chatgpt-archive, metabolomics, insulin_resistance]
 status: archived
 ---

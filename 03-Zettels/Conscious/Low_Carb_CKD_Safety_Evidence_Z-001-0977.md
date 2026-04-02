@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, low-carb, ketogenic, ckd, safety, evidence, review, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Carbohydrate_Context_Protein_CKD_L-001-0574]]
+source-litnote: [[LitNote_Carbohydrate_Context_Protein_CKD_L-001-0574]
 status: conscious
 ---
 
@@ -275,14 +275,14 @@ Safety and efficacy data for low-carbohydrate and ketogenic diets in chronic kid
 
 ---
 
-**Related:** [[Carbohydrate_Context_Modifies_Renal_Hemodynamics_Z-001-0976]] | [[Protein_Restriction_CKD_Guidelines_Z-001-0974]]
+**Related:** [[Carbohydrate_Context_Modifies_Renal_Hemodynamics_Z-001-0976] | [[Protein_Restriction_CKD_Guidelines_Z-001-0974]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Threonine_Dual_Metabolism_Glucogenic_Ketogenic_Z-001-0611]|Z-001-0611]]
+- [[Threonine_Dual_Metabolism_Glucogenic_Ketogenic_Z-001-0611]|Z-001-0611]

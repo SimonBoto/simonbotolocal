@@ -168,12 +168,12 @@ Action: Treat (threshold 10% for glucocorticoids)
 - Offer trial of therapy with reassessment
 
 ## Related Zettels
-- [[FRAX_Input_Variables_Clinical_Risk_Factors_Z-001-0109]] — What's included
-- [[FRAX_Adjustments_TBS_Falls_Glucocorticoids_Z-001-0112]] — How to correct
-- [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110]] — When to override
+- [[FRAX_Input_Variables_Clinical_Risk_Factors_Z-001-0109] — What's included
+- [[FRAX_Adjustments_TBS_Falls_Glucocorticoids_Z-001-0112] — How to correct
+- [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110] — When to override
 
 ## Source
-[[LitNote_FRAX_Risk_Assessment_Tool_L-001-0017]]
+[[LitNote_FRAX_Risk_Assessment_Tool_L-001-0017]
 
 ---
 
@@ -182,38 +182,38 @@ Action: Treat (threshold 10% for glucocorticoids)
 
 
 ## Related
-- [[Net_Bone_Loss_Resorption_Exceeds_Formation_Z-001-0084]|Z-001-0084]]
+- [[Net_Bone_Loss_Resorption_Exceeds_Formation_Z-001-0084]|Z-001-0084]
 
 
 ## Related
-- [[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]|Z-001-0262]]
+- [[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]|Z-001-0262]
 
 
 ## Related
-- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]|Z-001-1044]]
+- [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]|Z-001-1044]
 
 
 ## Related
-- [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]|Z-001-0256]]
+- [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]|Z-001-0256]
 
 
 ## Related
-- [[PTH_Master_Calcium_Regulator_Z-001-0259]|Z-001-0259]]
+- [[PTH_Master_Calcium_Regulator_Z-001-0259]|Z-001-0259]
 
 
 ## Related
-- [[Confounding_Variables_Diet_Studies_Z-001-0525]|Z-001-0525]]
+- [[Confounding_Variables_Diet_Studies_Z-001-0525]|Z-001-0525]
 
 
 ## Related
-- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]|Z-001-0260]]
+- [[Vitamin_D_Calcium_Absorption_Dose_Response_Z-001-0260]|Z-001-0260]
 
 
 ## Related
-- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]|Z-101-0016]]
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]|Z-101-0016]
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

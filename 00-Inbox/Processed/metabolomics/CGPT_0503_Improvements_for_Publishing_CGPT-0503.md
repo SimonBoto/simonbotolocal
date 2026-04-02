@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Improvements for Publishing"
 date: 2024-02-18
 source: ChatGPT conversation history
-aliases: [CGPT-0503]
+aliases: CGPT-0503]
 tags: [chatgpt-archive, metabolomics, nutrition, personal_development]
 status: archived
 ---

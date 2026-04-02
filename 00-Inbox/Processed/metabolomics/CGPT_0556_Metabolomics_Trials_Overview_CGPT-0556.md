@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolomics Trials Overview"
 date: 2023-09-17
 source: ChatGPT conversation history
-aliases: [CGPT-0556]
+aliases: CGPT-0556]
 tags: [chatgpt-archive, metabolomics, clinical]
 status: archived
 ---

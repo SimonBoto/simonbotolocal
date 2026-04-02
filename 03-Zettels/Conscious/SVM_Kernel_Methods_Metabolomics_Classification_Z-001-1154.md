@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, svm, support-vector-machines, kernel-methods, classification, metabolomics]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Machine_Learning_Metabolomics_L-001-0618]]"
+source-litnote: "[[LitNote_Machine_Learning_Metabolomics_L-001-0618]"
 status: conscious
 ---
 
@@ -145,14 +145,14 @@ Optimize hyperparameters:
 
 ## Related
 
-- [[Random_Forest_Classification_Feature_Importance_Z-001-1153]]
-- [[Deep_Learning_Neural_Networks_Metabolomics_Z-001-1155]]
-- [[Validation_Cross_Validation_Model_Robustness_Z-001-1152]]
+- [[Random_Forest_Classification_Feature_Importance_Z-001-1153]
+- [[Deep_Learning_Neural_Networks_Metabolomics_Z-001-1155]
+- [[Validation_Cross_Validation_Model_Robustness_Z-001-1152]
 
 ---
 
-*Source: [[LitNote_Machine_Learning_Metabolomics_L-001-0618]] | 2026-03-09*
+*Source: [[LitNote_Machine_Learning_Metabolomics_L-001-0618] | 2026-03-09*
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

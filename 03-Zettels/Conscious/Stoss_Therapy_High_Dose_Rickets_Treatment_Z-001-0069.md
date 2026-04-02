@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, stoss-therapy, rickets, high-dose, pediatrics]
 parent-moc: 
-source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
+source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -33,9 +33,9 @@ Stoss therapy uses single high-dose vitamin D (50,000-600,000 IU) to rapidly cor
 
 ## Links
 
-**Parent MOC:** -Protocols]]
-**Source:** [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]]
-**Related:** [[UL_Conservative_vs_Research_Reality_Z-001-0071]], 
+**Parent MOC:** -Protocols]
+**Source:** [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]
+**Related:** [[UL_Conservative_vs_Research_Reality_Z-001-0071], 
 
 ---
 
@@ -43,4 +43,4 @@ Stoss therapy uses single high-dose vitamin D (50,000-600,000 IU) to rapidly cor
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

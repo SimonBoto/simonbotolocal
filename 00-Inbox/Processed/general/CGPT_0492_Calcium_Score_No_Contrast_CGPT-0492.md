@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Calcium Score No Contrast"
 date: 2024-02-28
 source: ChatGPT conversation history
-aliases: [CGPT-0492]
+aliases: CGPT-0492]
 tags: [chatgpt-archive, general]
 status: archived
 ---

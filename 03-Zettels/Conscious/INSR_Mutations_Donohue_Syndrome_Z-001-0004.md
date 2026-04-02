@@ -35,8 +35,8 @@ Mutations in the  receptor gene cause extreme  syndromes, revealing the critical
 
 ## Links
 
-- **Mechanism:** [[INSR_Autophosphorylation_Mechanism_Z-001-0003]] — What's broken
-- **Contrast:** [[Insulin_Receptor_Structure_Z-001-0001]] — Normal function
+- **Mechanism:** [[INSR_Autophosphorylation_Mechanism_Z-001-0003] — What's broken
+- **Contrast:** [[Insulin_Receptor_Structure_Z-001-0001] — Normal function
 
 ## Context
 
@@ -46,5 +46,5 @@ Mutations in the  receptor gene cause extreme  syndromes, revealing the critical
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

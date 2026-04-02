@@ -7,7 +7,7 @@ domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, international, developing-countries]
 parent-moc: 
-source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]]"
+source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]"
 confidence: high
 created: 2026-03-27
 ---
@@ -83,8 +83,8 @@ If METHAP involves international collaboration:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]]  
-**Related:** [[Declaration_Helsinki_Research_Ethics_Z-002-0609]] — Complementary international standard
+**Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]  
+**Related:** [[Declaration_Helsinki_Research_Ethics_Z-002-0609] — Complementary international standard
 
 ---
 
@@ -93,4 +93,4 @@ If METHAP involves international collaboration:
 
 ## RELATED FILES
 - 
-- [[Independent_Review_IRB_Ethics_Z-002-0605]|Z-002-0605]]
+- [[Independent_Review_IRB_Ethics_Z-002-0605]|Z-002-0605]

@@ -8,7 +8,7 @@ tags: [zettel, keto-acids, carboxylic-acids, organic-acids, chemistry]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045F]]
+source: [[L-001-0045F]
 ---
 
 # Keto Acids vs Carboxylic Acids
@@ -58,13 +58,13 @@ NOT all carboxylic acids are keto acids
 - **Carboxylic acids:** Often end products or substrates
 
 ## Related
-- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]] Pyruvate Central Role
-- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]] Propionate Metabolism
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477] Pyruvate Central Role
+- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478] Propionate Metabolism
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

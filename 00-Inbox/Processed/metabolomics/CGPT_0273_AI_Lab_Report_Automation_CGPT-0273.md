@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "AI Lab Report Automation"
 date: 2024-10-06
 source: ChatGPT conversation history
-aliases: [CGPT-0273]
+aliases: CGPT-0273]
 tags: [chatgpt-archive, metabolomics, vitamin_d, clinical, consciousness_ai, nutrition, technology]
 status: archived
 ---

@@ -7,8 +7,8 @@ domain: 001
 domain-name: Metabolomics
 tags: [zettel, metabolomics, definitions, biochemistry]
 parent-moc: 
-source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
-source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]
+source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
+source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 confidence: high
 created: 2026-03-08
 ---
@@ -40,7 +40,7 @@ created: 2026-03-08
 Metabolomics sees dysfunction before pathology by reading metabolic information.
 
 ## Related
-- l_Energy_Terminology_Z-001-1043]]
+- l_Energy_Terminology_Z-001-1043]
 - 
 
 ---
@@ -48,6 +48,6 @@ Metabolomics sees dysfunction before pathology by reading metabolic information.
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - 

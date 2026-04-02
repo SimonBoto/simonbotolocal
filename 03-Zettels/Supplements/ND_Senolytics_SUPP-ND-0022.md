@@ -110,9 +110,9 @@ Compounds that selectively clear **senescent cells** ("zombie cells"):
 | 2 (intermittent) | €3.75 | Maintenance |
 
 ## Biomarker Links
-- [[Telomere_Length_Cellular_Aging_Z-001-XXXX]] — senolytics may indirectly support
-- [[Inflammatory_Markers_CRP_IL6_Z-002-XXXX]] — senolytics reduce SASP inflammation
-- [[Oxidative_Stress_Markers_Z-001-XXXX]] — antioxidants in formula
+- [[Telomere_Length_Cellular_Aging_Z-001-XXXX] — senolytics may indirectly support
+- [[Inflammatory_Markers_CRP_IL6_Z-002-XXXX] — senolytics reduce SASP inflammation
+- [[Oxidative_Stress_Markers_Z-001-XXXX] — antioxidants in formula
 
 ## Comparison with Other ND Anti-Aging
 | Feature | Senolytics | Reyouth | Reverse |

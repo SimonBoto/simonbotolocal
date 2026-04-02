@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Statins: History, Mechanism, Effects"
 date: 2024-06-29
 source: ChatGPT conversation history
-aliases: [CGPT-0335]
+aliases: CGPT-0335]
 tags: [chatgpt-archive, metabolomics, clinical]
 status: archived
 ---

@@ -6,7 +6,7 @@ aliases: [Z-001-0602, oxalate-foods, high-oxalate, low-oxalate]
 domain: 001
 tags: [zettel, oxalate, diet, nutrition, kidney-stones]
 parent-moc: 
-source: [[L-001-0060A]]
+source: [[L-001-0060A]
 confidence: high
 created: 2026-03-04
 ---
@@ -60,13 +60,13 @@ created: 2026-03-04
 **Management:** Low-oxalate diet (<50 mg/day) for stone formers; moderate intake for general population.
 
 ## Related
-- [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603]] — Health effects
-- [[Kidney_Stones_Calcium_Oxalate_Pathophysiology_Z-001-0604]] — Stone disease
+- [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603] — Health effects
+- [[Kidney_Stones_Calcium_Oxalate_Pathophysiology_Z-001-0604] — Stone disease
 
 ---
 *Source: CGPT-0413 | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

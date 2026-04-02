@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, protein-metabolism, oxalate, kidney-stones, urine-organic-acids, conscious]
 parent-moc: 
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]]
+source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
@@ -68,15 +68,15 @@ Both oxalate and adipic acid use **identical analytical methodology** — the ur
 ## Connections
 
 ### Upstream
-- [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024.md]] — IMD diagnostic framework
-- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]] — Mitochondrial dysfunction markers
+- [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024.md] — IMD diagnostic framework
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912] — Mitochondrial dysfunction markers
 
 ### Downstream
-- _Patterns_Z-001-0028.md]] — Organic acid pattern recognition
+- _Patterns_Z-001-0028.md] — Organic acid pattern recognition
 -  — Urine OA methodology
 
 ### Cross-Domain
-- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]] — Functional biomarker logic
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911] — Functional biomarker logic
 
 ## Clinical Application
 
@@ -98,14 +98,14 @@ When analyzing urine organic acids, clinicians assess:
 - Kidney stone risk correlation with adipic acid levels
 
 ## See Also
-- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] — Source (Subsection 2.1)
+- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004] — Source (Subsection 2.1)
 -  — Oxalate methodology
 
 ---
 *Confidence: High* — Established urine OA methodology  
 *Next Review: After urine OA panel correlation analysis*
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

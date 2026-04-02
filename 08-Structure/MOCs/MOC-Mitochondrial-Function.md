@@ -11,13 +11,13 @@ created: 2026-03-04
 # MOC — Mitochondrial Function
 
 > **Mitochondrial metabolism, oxidative phosphorylation, and energy production**  
-> Also known as: [[MOC-Mitochondria]] (same MOC)
+> Also known as: [[MOC-Mitochondria] (same MOC)
 
 ---
 
 ## Pyruvate Entry
-- [[Z-001-0469]] Pyruvate Metabolic Crossroads
-- [[Z-001-0477]] Pyruvate Central Role
+- [[Z-001-0469] Pyruvate Metabolic Crossroads
+- [[Z-001-0477] Pyruvate Central Role
 - Pyruvate Dehydrogenase Complex (PDH)
 - Acetyl-CoA entry to Krebs cycle
 

@@ -7,8 +7,8 @@ domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, hbot, radiosensitization, chemotherapy, enhancement]
 parent-moc: 
-source-litnote: [[LitNote_HBOT_Cancer_L-001-0614]]
-source: [[LitNote_HBOT_Cancer_L-001-0614]]
+source-litnote: [[LitNote_HBOT_Cancer_L-001-0614]
+source: [[LitNote_HBOT_Cancer_L-001-0614]
 confidence: high
 created: 2026-03-08
 ---
@@ -140,9 +140,9 @@ HBOT increases tissue O₂ → More DNA damage fixed → Enhanced cell kill
 | **Monitoring** | Tumor response, toxicity |
 
 ## Related
-- [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]]
-- [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]]
-- [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]]
+- [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]
+- [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]
+- [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]
 - 
 
 ---
@@ -150,4 +150,4 @@ HBOT increases tissue O₂ → More DNA damage fixed → Enhanced cell kill
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

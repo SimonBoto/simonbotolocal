@@ -75,13 +75,13 @@ extraction-date: "{{YYYY-MM-DD}}"
 - {{Indication 3}}
 
 ## Biomarker Links
-- [[{{Biomarker_Title}}_[B-XXX-XXXX]] — {{relevance}}
+- [[{{Biomarker_Title}}_[B-XXX-XXXX] — {{relevance}}
 
 ## Related Supplements
-- [[{{Related_Supplement}}_[SUPP-XXX-XXXX]] — {{relationship}}
+- [[{{Related_Supplement}}_[SUPP-XXX-XXXX] — {{relationship}}
 
 ## Business Synthesis
-- [[{{Business_Synthesis}}_[S-XXX-XXXX]] — {{How this product fits business strategy}}
+- [[{{Business_Synthesis}}_[S-XXX-XXXX] — {{How this product fits business strategy}}
 
 ---
 *Catalog created: {{YYYY-MM-DD}} | Last updated: {{YYYY-MM-DD}}*  

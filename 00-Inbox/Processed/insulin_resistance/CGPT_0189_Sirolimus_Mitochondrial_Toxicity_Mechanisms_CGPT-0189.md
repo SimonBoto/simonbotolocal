@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Sirolimus Mitochondrial Toxicity Mechanisms"
 date: 2025-01-13
 source: ChatGPT conversation history
-aliases: [CGPT-0189]
+aliases: CGPT-0189]
 tags: [chatgpt-archive, insulin_resistance, clinical]
 status: archived
 ---

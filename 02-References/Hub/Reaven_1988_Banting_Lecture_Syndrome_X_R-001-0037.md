@@ -35,7 +35,7 @@ domains:
   - "001"
 status: "ref"
 extraction-priority: P1
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: [[MOC-Research-Methods]
 connections:
   extracted-zettels: []
   synthesis-links: []
@@ -61,8 +61,8 @@ quality-score: medium
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Metabolic_Syndrome_Clinical_Manifestations_Presentation_Z-001-0203]] — Original Syndrome X description
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046]] — IR assessment foundation
+- [[Metabolic_Syndrome_Clinical_Manifestations_Presentation_Z-001-0203] — Original Syndrome X description
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046] — IR assessment foundation
 
 ---
 

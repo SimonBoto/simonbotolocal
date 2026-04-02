@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Whey uses and benefits"
 date: 2025-11-15
 source: ChatGPT conversation history
-aliases: [CGPT-0036]
+aliases: CGPT-0036]
 tags: [chatgpt-archive, metabolomics, nutrition]
 status: archived
 ---

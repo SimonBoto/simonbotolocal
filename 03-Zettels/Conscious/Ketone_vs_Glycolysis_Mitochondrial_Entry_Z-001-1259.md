@@ -6,7 +6,7 @@ aliases: [Z-001-1259]
 domain: 001
 tags: [zettel, ketones, glycolysis, mitochondrial-entry, acetyl-CoA, MCT, PDH, cellular-compartmentalization]
 parent-moc: ", "
-source-litnote: "[[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]"
+source-litnote: "[[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]"
 status: conscious
 ---
 
@@ -198,19 +198,19 @@ Pyruvate + NAD⁺ + CoA → Acetyl-CoA + NADH + CO₂
 
 ## Related Zettels
 
-- [[Z-001-1257_Ketolysis_SCOT_Mechanism]] — Detailed ketone utilization pathway
-- [[Z-001-1258_ATP_Yield_Comparison]] — Energy efficiency comparison
-- [[Z-001-1255_Insulin_Resistance_Beta_Oxidation_Block]] — Malonyl-CoA regulation
+- [[Z-001-1257_Ketolysis_SCOT_Mechanism] — Detailed ketone utilization pathway
+- [[Z-001-1258_ATP_Yield_Comparison] — Energy efficiency comparison
+- [[Z-001-1255_Insulin_Resistance_Beta_Oxidation_Block] — Malonyl-CoA regulation
 
 ---
 
 ## Source
 
-Extracted from: [[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]  
+Extracted from: [[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]  
 CGPT-0647 (April 30, 2023) — Messages 21-22
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

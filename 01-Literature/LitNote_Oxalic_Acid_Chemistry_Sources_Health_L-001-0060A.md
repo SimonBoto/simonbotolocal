@@ -16,7 +16,7 @@ extraction-date: 2026-03-04
 - **Conversation:** CGPT-0413 (Oxalic Acid: Uses & Form)
 - **Date:** April 16, 2024
 - **Messages:** 67 (subset: oxalic acid focus)
-- **Archive:** [[CGPT_0413_Oxalic_Acid_Uses_Form_[CGPT-0413]]
+- **Archive:** [[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]
 
 ---
 
@@ -112,13 +112,13 @@ extraction-date: 2026-03-04
 
 ## Zettels Created from This Source
 
-1. [[Oxalic_Acid_Structure_Properties_Z-001-0601]]
-2. [[Dietary_Sources_Oxalate_Table_Z-001-0602]]
-3. [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603]]
-4. [[Kidney_Stones_Calcium_Oxalate_Pathophysiology_Z-001-0604]]
-5. [[Glycine_Metabolism_to_Oxalate_Z-001-0605]]
-6. [[Hydroxyproline_Collagen_Oxalate_Production_Z-001-0606]]
-7. [[Vitamin_C_to_Oxalate_Conversion_Z-001-0607]]
+1. [[Oxalic_Acid_Structure_Properties_Z-001-0601]
+2. [[Dietary_Sources_Oxalate_Table_Z-001-0602]
+3. [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603]
+4. [[Kidney_Stones_Calcium_Oxalate_Pathophysiology_Z-001-0604]
+5. [[Glycine_Metabolism_to_Oxalate_Z-001-0605]
+6. [[Hydroxyproline_Collagen_Oxalate_Production_Z-001-0606]
+7. [[Vitamin_C_to_Oxalate_Conversion_Z-001-0607]
 
 ---
 

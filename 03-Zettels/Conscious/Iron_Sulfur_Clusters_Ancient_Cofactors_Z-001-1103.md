@@ -7,8 +7,8 @@ domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, iron-sulfur, cofactors, electron-transfer]
 parent-moc: 
-source-litnote: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
-source: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
+source-litnote: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]
+source: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]
 confidence: high
 created: 2026-03-08
 ---
@@ -85,7 +85,7 @@ Iron-sulfur (Fe-S) clusters are among the most ancient biological cofactors, ess
 - Aconitase particularly vulnerable
 
 ## Related
-- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]
 | 
 
 ---
@@ -93,6 +93,6 @@ Iron-sulfur (Fe-S) clusters are among the most ancient biological cofactors, ess
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

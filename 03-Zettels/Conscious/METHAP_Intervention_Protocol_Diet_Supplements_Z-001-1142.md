@@ -7,8 +7,8 @@ domain: 001
 domain-name: PhD Research
 tags: [zettel, methap, intervention, diet, supplements]
 parent-moc: 
-source-litnote: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]]
-source: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]]
+source-litnote: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]
+source: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]
 confidence: high
 created: 2026-03-08
 ---
@@ -129,143 +129,143 @@ The METHAP intervention combines targeted dietary modifications with evidence-ba
 | **Lipid improvement** | TG↓, HDL↑ |
 
 ## Related
-- [[METHAP_Study_Population_Recruitment_Strategy_Z-001-1141]]
-- [[METHAP_Study_Timeline_Testing_Schedule_Z-001-1144]]
+- [[METHAP_Study_Population_Recruitment_Strategy_Z-001-1141]
+- [[METHAP_Study_Timeline_Testing_Schedule_Z-001-1144]
 - 
 
 ---
 *Source: CGPT-0475 — Metabolic biomarkers for insulin resistance*
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]|Z-001-0228]]
-- [[D_K2_Production_Activation_Partnership_Z-001-0253]|Z-001-0253]]
-- [[Vascular_Calcification_Prevention_Reversal_Z-001-0272]|Z-001-0272]]
-- [[Vitamin_K2_Vascular_Calcification_Protection_Z-001-0094]|Z-001-0094]]
-- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]|Z-001-0257]]
-- [[VitD_K2_Insulin_Resistance_Z-001-1237]|Z-001-1237]]
-- [[Osteocalcin_Metabolic_Hormone_D_K2_Z-001-0254]|Z-001-0254]]
-- [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]|Z-001-0256]]
-- [[Activation_Phase_RANKL_MCSF_Osteoclast_Differentiation_Z-001-1027]|Z-001-1027]]
-- [[FRAX_Input_Variables_Clinical_Risk_Factors_Z-001-0109]|Z-001-0109]]
-- [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102]|Z-001-0102]]
-- [[Net_Bone_Loss_Resorption_Exceeds_Formation_Z-001-0084]|Z-001-0084]]
-- [[Fragility_Fractures_Morbidity_Mortality_Z-001-0078]|Z-001-0078]]
-- [[Muscle_Bone_Unit_Mechanical_Loading_Z-001-0096]|Z-001-0096]]
-- [[Osteoblasts_Bone_Forming_Cells_Z-001-0081]|Z-001-0081]]
-- [[Bone_Remodeling_Cycle_Five_Phases_Z-001-0083]|Z-001-0083]]
-- [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]]
-- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]|Z-001-0228]
+- [[D_K2_Production_Activation_Partnership_Z-001-0253]|Z-001-0253]
+- [[Vascular_Calcification_Prevention_Reversal_Z-001-0272]|Z-001-0272]
+- [[Vitamin_K2_Vascular_Calcification_Protection_Z-001-0094]|Z-001-0094]
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]|Z-001-0257]
+- [[VitD_K2_Insulin_Resistance_Z-001-1237]|Z-001-1237]
+- [[Osteocalcin_Metabolic_Hormone_D_K2_Z-001-0254]|Z-001-0254]
+- [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]|Z-001-0256]
+- [[Activation_Phase_RANKL_MCSF_Osteoclast_Differentiation_Z-001-1027]|Z-001-1027]
+- [[FRAX_Input_Variables_Clinical_Risk_Factors_Z-001-0109]|Z-001-0109]
+- [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102]|Z-001-0102]
+- [[Net_Bone_Loss_Resorption_Exceeds_Formation_Z-001-0084]|Z-001-0084]
+- [[Fragility_Fractures_Morbidity_Mortality_Z-001-0078]|Z-001-0078]
+- [[Muscle_Bone_Unit_Mechanical_Loading_Z-001-0096]|Z-001-0096]
+- [[Osteoblasts_Bone_Forming_Cells_Z-001-0081]|Z-001-0081]
+- [[Bone_Remodeling_Cycle_Five_Phases_Z-001-0083]|Z-001-0083]
+- [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]
+- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
 
 
 ## Related
-- [[Statin_Clinical_Decision_Making_Z-001-0515]|Z-001-0515]]
+- [[Statin_Clinical_Decision_Making_Z-001-0515]|Z-001-0515]
 
 
 ## Related
-- [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_Z-001-0206]|Z-001-0206]]
+- [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_Z-001-0206]|Z-001-0206]
 
 
 ## Related
-- [[Magnesium_Monitoring_Safety_Side_Effects_Z-001-0222]|Z-001-0222]]
+- [[Magnesium_Monitoring_Safety_Side_Effects_Z-001-0222]|Z-001-0222]
 
 
 ## Related
-- [[Oleic_Acid_Metabolic_Benefits_Z-001-0533]|Z-001-0533]]
+- [[Oleic_Acid_Metabolic_Benefits_Z-001-0533]|Z-001-0533]
 
 
 ## Related
-- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]|Z-001-0514]]
+- [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]|Z-001-0514]
 
 
 ## Related
-- [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]|Z-001-0246]]
+- [[Keys_Criticism_Diet_Heart_Controversy_Z-001-0246]|Z-001-0246]
 
 
 ## Related
-- [[Magnesium_Dietary_Sources_Nutrition_Z-001-0221]|Z-001-0221]]
+- [[Magnesium_Dietary_Sources_Nutrition_Z-001-0221]|Z-001-0221]
 
 
 ## Related
-- [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]|Z-001-0219]]
+- [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]|Z-001-0219]
 
 
 ## Related
-- [[Iron_Metabolism_Aconitase_Function_Z-001-0543]|Z-001-0543]]
+- [[Iron_Metabolism_Aconitase_Function_Z-001-0543]|Z-001-0543]
 
 
 ## Related
-- [[Olive_Oil_Mediterranean_Advantage_Z-001-0519]|Z-001-0519]]
+- [[Olive_Oil_Mediterranean_Advantage_Z-001-0519]|Z-001-0519]
 
 
 ## Related
-- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]|Z-001-0509]]
+- [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]|Z-001-0509]
 
 
 ## Related
-- [[Magnesium_Hypertension_Vasodilation_Mechanisms_Z-001-0215]|Z-001-0215]]
+- [[Magnesium_Hypertension_Vasodilation_Mechanisms_Z-001-0215]|Z-001-0215]
 
 
 ## Related
-- [[Metabolic_Syndrome_Management_Lifestyle_Pharmacology_Z-001-0205]|Z-001-0205]]
+- [[Metabolic_Syndrome_Management_Lifestyle_Pharmacology_Z-001-0205]|Z-001-0205]
 
 
 ## Related
-- [[Canola_Oil_Development_1970s_Z-001-0971]|Z-001-0971]]
+- [[Canola_Oil_Development_1970s_Z-001-0971]|Z-001-0971]
 
 
 ## Related
-- [[Seed_Oils_Production_Metabolic_Impact_Z-001-0517]|Z-001-0517]]
+- [[Seed_Oils_Production_Metabolic_Impact_Z-001-0517]|Z-001-0517]
 
 
 ## Related
-- [[Mevalonate_Branch_Points_Z-001-0547]|Z-001-0547]]
+- [[Mevalonate_Branch_Points_Z-001-0547]|Z-001-0547]
 
 
 ## Related
-- [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]|Z-001-0263]]
+- [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]|Z-001-0263]
 
 
 ## Related
-- [[Cytosolic_Aconitase_IRP1_Dual_Function_Z-001-0544]|Z-001-0544]]
+- [[Cytosolic_Aconitase_IRP1_Dual_Function_Z-001-0544]|Z-001-0544]
 
 
 ## Related
-- [[Metabolic_Syndrome_Epidemiology_Global_Prevalence_Z-001-0201]|Z-001-0201]]
+- [[Metabolic_Syndrome_Epidemiology_Global_Prevalence_Z-001-0201]|Z-001-0201]
 
 
 ## Related
-- [[Mevalonate_Pathway_Enzymatic_Steps_Z-001-0545]|Z-001-0545]]
+- [[Mevalonate_Pathway_Enzymatic_Steps_Z-001-0545]|Z-001-0545]
 
 
 ## Related
-- [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]|Z-001-1076]]
+- [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]|Z-001-1076]
 
 
 ## Related
-- [[Mediterranean_Diet_Evidence_Mechanisms_Z-001-0534]|Z-001-0534]]
+- [[Mediterranean_Diet_Evidence_Mechanisms_Z-001-0534]|Z-001-0534]
 
 
 ## Related
-- [[Omega_6_Omega_3_Ratio_Evolutionary_Modern_Z-001-0516]|Z-001-0516]]
+- [[Omega_6_Omega_3_Ratio_Evolutionary_Modern_Z-001-0516]|Z-001-0516]
 
 
 ## Related
-- [[Evidence_Based_Medicine_Lessons_Z-001-0531]|Z-001-0531]]
+- [[Evidence_Based_Medicine_Lessons_Z-001-0531]|Z-001-0531]
 
 
 ## Related
-- [[Mevalonate_Clinical_Implications_Z-001-0548]|Z-001-0548]]
+- [[Mevalonate_Clinical_Implications_Z-001-0548]|Z-001-0548]
 
 
 ## Related
-- [[Organic_Acid_METHAP_Integration_Z-001-0540]|Z-001-0540]]
+- [[Organic_Acid_METHAP_Integration_Z-001-0540]|Z-001-0540]
 
 
 ## Related
-- [[Mevalonate_METHAP_Integration_Z-001-0549]|Z-001-0549]]
+- [[Mevalonate_METHAP_Integration_Z-001-0549]|Z-001-0549]

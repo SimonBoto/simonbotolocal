@@ -206,8 +206,8 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
-- [[Z-005-0001|Glucose — Blood Sugar]]
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
+- [[Z-005-0001|Glucose — Blood Sugar]
 
 source-litnote: Synthesized from clinical practice
 ---

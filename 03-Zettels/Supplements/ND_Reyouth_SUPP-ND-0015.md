@@ -138,9 +138,9 @@ Take 2 capsules daily, away from meals, or as directed by your physician.
 | Multivitamin | Yes | No | No |
 
 ## Biomarker Links
-- [[Telomere_Length_Cellular_Aging_Z-001-XXXX]] — cycloastragenol may support
-- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] — 2000 IU included
-- [[Glutathione_Master_Antioxidant_Z-001-0436]] — NAC precursor in formula
+- [[Telomere_Length_Cellular_Aging_Z-001-XXXX] — cycloastragenol may support
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001] — 2000 IU included
+- [[Glutathione_Master_Antioxidant_Z-001-0436] — NAC precursor in formula
 
 ---
 *Catalog created: 2026-03-31*  

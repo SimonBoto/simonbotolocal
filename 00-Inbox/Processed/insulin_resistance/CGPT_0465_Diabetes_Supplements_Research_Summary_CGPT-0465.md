@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Diabetes Supplements Research Summary"
 date: 2024-03-16
 source: ChatGPT conversation history
-aliases: [CGPT-0465]
+aliases: CGPT-0465]
 tags: [chatgpt-archive, insulin_resistance, clinical, nutrition]
 status: archived
 ---

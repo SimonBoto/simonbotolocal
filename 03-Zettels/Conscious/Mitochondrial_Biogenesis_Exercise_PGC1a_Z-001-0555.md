@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mitochondrial-biogenesis, pgc-1a, exercise, zone-2]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]]
+source-litnote: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]
 extraction-date: 2026-03-01
 ---
 
@@ -52,7 +52,7 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]]*
+*Source: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]*
 
 
 ## RELATED FILES

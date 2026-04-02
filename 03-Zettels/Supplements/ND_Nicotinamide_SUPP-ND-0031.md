@@ -104,9 +104,9 @@ Take 1 capsule daily after food or as directed by your physician.
 | 1 | €0.21 | 500 mg | Standard dose |
 
 ## Biomarker Links
-- [[NAD_Plus_Cellular_Energy_Z-001-XXXX]] — target for energy metabolism
-- [[Homocysteine_Methylation_Cardiovascular_Risk_Z-004-0001]] — B3 supports methylation
-- [[Energy_Metabolism_Markers_Z-005-XXXX]] — fatigue, mitochondrial function |
+- [[NAD_Plus_Cellular_Energy_Z-001-XXXX] — target for energy metabolism
+- [[Homocysteine_Methylation_Cardiovascular_Risk_Z-004-0001] — B3 supports methylation
+- [[Energy_Metabolism_Markers_Z-005-XXXX] — fatigue, mitochondrial function |
 
 ## Comparison with Be Well Multivitamin
 | Feature | Nicotinamide | Be Well |

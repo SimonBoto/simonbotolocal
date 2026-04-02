@@ -95,7 +95,7 @@ notes: "..."
 ```
 Date: YYYY-MM-DD
 Batch: #N (Theme)
-Conversations: [CGPT-XXXX, ...]
+Conversations: CGPT-XXXX, ...]
 LitNotes created: N
 Zettels created: N
 Commits: N

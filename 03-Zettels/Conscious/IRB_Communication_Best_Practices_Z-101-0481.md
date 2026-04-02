@@ -6,7 +6,7 @@ aliases: [Z-101-0481]
 domain: 101
 tags: [zettel, irb, ethics-committee, communication, regulatory, phd, practical, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0205_Ethics_Communication_L-101-0051.md]]
+source-litnote: [[LitNote_CGPT_0205_Ethics_Communication_L-101-0051.md]
 status: conscious
 ---
 
@@ -135,9 +135,9 @@ Best regards,
 ```
 
 ## Related
-- **Source:** [[LitNote_CGPT_0205_Ethics_Communication_L-101-0051.md]]
-- **Ethics framework:** [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]]
-- **IRB action items:** [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
+- **Source:** [[LitNote_CGPT_0205_Ethics_Communication_L-101-0051.md]
+- **Ethics framework:** [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]
+- **IRB action items:** [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*

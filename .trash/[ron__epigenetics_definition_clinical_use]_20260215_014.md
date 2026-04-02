@@ -20,11 +20,11 @@ Common confusion:
 - “Epigenetics = methylation supplements.” (Epigenetics includes methylation but is much broader.)
 
 Related links:
-- [[Zettel_Epigenetics_Environment_Modulates_Gene_Expression_Health_Trajectory]]
-- [[Zettel_Claim_Genetics_25percent_Epigenetic_External_75percent_Health_Status]]
-- [[[ron__hpa_axis_definition_clinical_meaning]_20260215_022]]
-- [[111_Hub_Methylation]]
-- [[111_Hub_Disease_Specific]]
+- [[Zettel_Epigenetics_Environment_Modulates_Gene_Expression_Health_Trajectory]
+- [[Zettel_Claim_Genetics_25percent_Epigenetic_External_75percent_Health_Status]
+- [[[ron__hpa_axis_definition_clinical_meaning]_20260215_022]
+- [[111_Hub_Methylation]
+- [[111_Hub_Disease_Specific]
 
 Needs_Evidence: yes (for any numeric partitioning like 25/75)
 Open_Loops:

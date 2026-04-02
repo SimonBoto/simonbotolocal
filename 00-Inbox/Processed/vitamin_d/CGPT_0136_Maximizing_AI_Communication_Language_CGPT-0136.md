@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Maximizing AI Communication Language"
 date: 2025-02-24
 source: ChatGPT conversation history
-aliases: [CGPT-0136]
+aliases: CGPT-0136]
 tags: [chatgpt-archive, vitamin_d, consciousness_ai, nutrition, communication]
 status: archived
 ---

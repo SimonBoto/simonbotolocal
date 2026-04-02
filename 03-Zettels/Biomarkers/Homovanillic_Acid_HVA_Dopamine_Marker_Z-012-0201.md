@@ -195,9 +195,9 @@ Tyrosine → L-DOPA → Dopamine → (MAO/COMT) → HVA
 ---
 
 ## RELATED FILES
-- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
-- [[Z-012-0202|VMA — Vanillylmandelic Acid]]
-- [[Z-012-0204|5-HIAA — Serotonin Metabolite]]
+- [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]
+- [[Z-012-0202|VMA — Vanillylmandelic Acid]
+- [[Z-012-0204|5-HIAA — Serotonin Metabolite]
 
 ---
 *Complete biomarker foundation — HVA*

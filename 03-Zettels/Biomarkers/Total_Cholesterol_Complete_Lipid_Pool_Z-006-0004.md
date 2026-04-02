@@ -33,8 +33,8 @@ source-litnote: Synthesized from clinical practice
 | Function | Description |
 |----------|-------------|
 | **Cell membranes** | Structural component, fluidity |
-| **Steroid hormones** | Precursor ([[Cortisol_Primary_Stress_Hormone_Z-011-0005]|cortisol]], aldosterone, [[Testosterone_Primary_Male_Androgen_Z-011-0001]|sex hormones]]) |
-| **[[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]|Vitamin D]]** | Synthesis from 7-dehydrocholesterol |
+| **Steroid hormones** | Precursor ([[Cortisol_Primary_Stress_Hormone_Z-011-0005]|cortisol], aldosterone, [[Testosterone_Primary_Male_Androgen_Z-011-0001]|sex hormones]) |
+| **[[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]|Vitamin D]** | Synthesis from 7-dehydrocholesterol |
 | **Bile acids** | Synthesis in liver |
 | **Myelin** | Nerve insulation |
 
@@ -212,10 +212,10 @@ source-litnote: Synthesized from clinical practice
 ---
 
 ## RELATED FILES
-- [[Cholesterol_Lipid_Panel_[B-006-0001].md|Cholesterol Panel Guide]]
-- [[Z-006-0001|LDL Cholesterol — Low-Density Lipoprotein]]
-- [[Z-006-0002|HDL Cholesterol — High-Density Lipoprotein]]
-- [[Z-006-0005|ApoB — Apolipoprotein B]]
+- [[Cholesterol_Lipid_Panel_[B-006-0001].md|Cholesterol Panel Guide]
+- [[Z-006-0001|LDL Cholesterol — Low-Density Lipoprotein]
+- [[Z-006-0002|HDL Cholesterol — High-Density Lipoprotein]
+- [[Z-006-0005|ApoB — Apolipoprotein B]
 
 source-litnote: Synthesized from clinical practice
 ---

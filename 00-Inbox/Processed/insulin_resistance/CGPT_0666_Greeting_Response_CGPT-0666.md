@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Greeting Response"
 date: 2023-02-01
 source: ChatGPT conversation history
-aliases: [CGPT-0666]
+aliases: CGPT-0666]
 tags: [chatgpt-archive, insulin_resistance, nutrition]
 status: archived
 ---

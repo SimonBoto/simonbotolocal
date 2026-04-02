@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, nintedanib, pharmacokinetics, metabolism, esterase, ugt, glucuronidation, cyp3a4, drug-interactions, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Nintedanib_Ofev_TKI_L-001-0583]]
+source-litnote: [[LitNote_Nintedanib_Ofev_TKI_L-001-0583]
 status: conscious
 ---
 
@@ -294,12 +294,12 @@ BIBF 1202-glucuronide (inactive)
 
 ---
 
-**Related:** [[Tyrosine_Kinase_Inhibitors_Fibrosis_Z-001-1010]] | [[UGT_Enzymes_Glucuronidation_Drug_Metabolism_Z-001-1012]] | [[P_glycoprotein_Drug_Transport_Z-001-1013]]
+**Related:** [[Tyrosine_Kinase_Inhibitors_Fibrosis_Z-001-1010] | [[UGT_Enzymes_Glucuronidation_Drug_Metabolism_Z-001-1012] | [[P_glycoprotein_Drug_Transport_Z-001-1013]
 
 **Source:** CGPT-0064 — Ofev MOA and effects
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

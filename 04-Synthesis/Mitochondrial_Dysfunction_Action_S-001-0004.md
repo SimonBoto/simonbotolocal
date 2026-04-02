@@ -6,15 +6,15 @@ aliases: [S-001-0004, Mitochondrial-Action, Mitochondrial-Protocol, Mito-Clinica
 domain: 001
 domain-name: Mitochondrial_Medicine
 tags: [synthesis, mitochondria, clinical-protocol, testing, intervention, oat, supplementation, metabolic-therapy, living-document]
-parent-moc: [[MOC-Mitochondria]]
+parent-moc: [[MOC-Mitochondria]
 status: active
 version: 1.1
 created: 2026-03-30
 last-updated: 2026-04-01
 contributing-zettels:
-  - "[[Mitochondrial_Dysfunction_IR_Z-001-0015]]"
-  - "[[Citrate_Mitochondrial_Marker_[B-012-0001]]"
-  - "[[Succinate_Complex_II_Sentinel_[B-012-0004]]"
+  - "[[Mitochondrial_Dysfunction_IR_Z-001-0015]"
+  - "[[Citrate_Mitochondrial_Marker_[B-012-0001]"
+  - "[[Succinate_Complex_II_Sentinel_[B-012-0004]"
 ---
 
 # Mitochondrial Dysfunction Clinical Action Protocol
@@ -46,7 +46,7 @@ contributing-zettels:
 ### 1.1 Mitochondrial Structure and Function
 
 **Anatomy:**
-- [[Mitochondrial_Membrane_Architecture_Z-001-1214]]
+- [[Mitochondrial_Membrane_Architecture_Z-001-1214]
 - **Outer membrane:** Permeable to small molecules
 - **Inner membrane:** Impermeable, contains ETC complexes
 - **Cristae:** Folds increasing surface area for ATP synthesis
@@ -70,12 +70,12 @@ contributing-zettels:
 | **β-Oxidation** | Mitochondrial matrix | N/A | Produces acetyl-CoA for Krebs |
 | **ETC/OXPHOS** | Inner membrane | ~28-34 ATP | Primary ATP source; oxygen-dependent |
 
-**Source:** [[ATP_Yield_Comparison_Z-001-1258]]
+**Source:** [[ATP_Yield_Comparison_Z-001-1258]
 
 ### 1.3 Mitochondrial Dynamics
 
 **Fusion and Fission:**
-- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]]
+- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]
 - **Fusion:** Joining mitochondria (health, recovery)
 - **Fission:** Dividing mitochondria (quality control, apoptosis)
 - Imbalance → dysfunction
@@ -89,7 +89,7 @@ contributing-zettels:
 - Creation of new mitochondria
 - PGC-1α master regulator
 - Stimulated by exercise, cold exposure, fasting
-- [[Mitochondrial_Biogenesis_Exercise_PGC1a_Z-001-0555]]
+- [[Mitochondrial_Biogenesis_Exercise_PGC1a_Z-001-0555]
 
 ### 1.4 Mitochondrial DNA (mtDNA)
 
@@ -98,12 +98,12 @@ contributing-zettels:
 - No introns
 - No histone protection
 - Higher mutation rate than nuclear DNA
-- [[Mitochondrial_DNA_Mutations_Cancer_Z-001-0989]]
+- [[Mitochondrial_DNA_Mutations_Cancer_Z-001-0989]
 
 **Clinical Significance:**
 - mtDNA deletions → aging, disease
 - Heteroplasmy → variable expression
-- [[Mitochondrial_Gene_Knockout_Models_Z-001-0988]]
+- [[Mitochondrial_Gene_Knockout_Models_Z-001-0988]
 
 ---
 
@@ -132,7 +132,7 @@ contributing-zettels:
 | **Ethylmalonic acid** | <2 | Complex III dysfunction | ETC impairment |
 | **Methylsuccinic acid** | <2 | B12 deficiency, odd-chain FA oxidation | Neuropathy |
 
-**Source:** [[OAT_Mitochondrial_Patterns_Z-001-1067]], [[Organic_Acid_Krebs_Cycle_Markers_Z-001-0537]]
+**Source:** [[OAT_Mitochondrial_Patterns_Z-001-1067], [[Organic_Acid_Krebs_Cycle_Markers_Z-001-0537]
 
 ### 2.2 Plasma/Serum Markers
 
@@ -145,7 +145,7 @@ contributing-zettels:
 **BHB (Beta-Hydroxybutyrate):**
 - **Fasting:** 0.1-0.5 mmol/L
 - **Low:** <0.1 mmol/L indicates impaired ketogenesis
-- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]]
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]
 
 **Acylcarnitine Profile:**
 - Identifies specific fatty acid oxidation defects
@@ -162,7 +162,7 @@ contributing-zettels:
 - RER (Respiratory Exchange Ratio)
 - RER >0.85 at rest → carbohydrate-dependent
 - Target: RER 0.70-0.75 in fasting ketosis
-- [[Metabolic_Flexibility_RER_Z-001-1012]]
+- [[Metabolic_Flexibility_RER_Z-001-1012]
 
 **Questionnaire-Based:**
 - Fatigue Severity Scale
@@ -276,21 +276,21 @@ contributing-zettels:
 | **B5 (Pantothenate)** | 100-500 mg | CoA synthesis |
 | **B6 (Pyridoxine)** | 50-100 mg | Neurotransmitter synthesis |
 
-**Source:** [[B_Vitamin_Cofactors_Summary_Z-001-1202]], [[Cofactor_Deficiency_OAT_Signatures_Z-001-1105]]
+**Source:** [[B_Vitamin_Cofactors_Summary_Z-001-1202], [[Cofactor_Deficiency_OAT_Signatures_Z-001-1105]
 
 **Minerals:**
 - **Magnesium:** 400-600 mg (ATP-Mg complex)
 - **Zinc:** 15-30 mg (dehydrogenases)
 - **Selenium:** 100-200 mcg (antioxidant defense)
-- [[Magnesium_Metabolic_Cofactor_ATP_Function_Z-001-1104]]
+- [[Magnesium_Metabolic_Cofactor_ATP_Function_Z-001-1104]
 
 **Antioxidants:**
-- **CoQ10 (Ubiquinol):** 200-400 mg — [[CoQ10_Mitochondrial_Support_Z-001-1217]]
+- **CoQ10 (Ubiquinol):** 200-400 mg — [[CoQ10_Mitochondrial_Support_Z-001-1217]
 - **Alpha-lipoic acid:** 300-600 mg
 - **Vitamin E:** 400 IU (mixed tocopherols)
 - **Vitamin C:** 1-2 g
 
-**Source:** [[Mitochondrial_Supplementation_Protocol_Z-001-0539]]
+**Source:** [[Mitochondrial_Supplementation_Protocol_Z-001-0539]
 
 ### 4.2 Targeted Interventions by Pattern
 
@@ -302,7 +302,7 @@ contributing-zettels:
   - Nicotinamide riboside: 300-500 mg
   - or NMN: 250-500 mg
 - PQQ (Pyrroloquinoline quinone): 10-20 mg
-- [[CoQ10_Mitochondrial_Support_Z-001-1217]]
+- [[CoQ10_Mitochondrial_Support_Z-001-1217]
 
 **Supporting:**
 - B-vitamins (especially B2, B3)
@@ -315,7 +315,7 @@ contributing-zettels:
 - L-Carnitine: 1-3 g
 - MCT Oil: 1-2 tablespoons daily
 - Ribose: 5 g twice daily
-- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]]
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]
 
 **Supporting:**
 - B-vitamins
@@ -348,7 +348,7 @@ contributing-zettels:
 - Bypasses impaired glucose metabolism
 - Provides alternative fuel (ketones)
 - Reduces ROS production
-- [[Ketogenic_Therapy_Metabolic_Inflexibility_Z-001-1122]]
+- [[Ketogenic_Therapy_Metabolic_Inflexibility_Z-001-1122]
 
 **Indications:**
 - Moderate to severe mitochondrial dysfunction
@@ -389,7 +389,7 @@ contributing-zettels:
 - Avoid post-exertional malaise
 
 **Key:**
-- [[Mitochondrial_Biogenesis_Exercise_PGC1a_Z-001-0555]]
+- [[Mitochondrial_Biogenesis_Exercise_PGC1a_Z-001-0555]
 - Consistency over intensity
 - Monitor for symptom flare
 
@@ -582,7 +582,7 @@ contributing-zettels:
 - Multiple trials in mitochondrial disease
 - Modest benefit in fatigue
 - Dose: 300-1200 mg/day
-- [[CoQ10_Mitochondrial_Support_Z-001-1217]]
+- [[CoQ10_Mitochondrial_Support_Z-001-1217]
 
 **B-Vitamins:**
 - Case series in mitochondrial dysfunction

@@ -138,11 +138,11 @@ Mass spectrometers are **not stable** over time. Sensitivity, resolution, and ma
 - Regulatory approval (if diagnostic)
 
 ## Related Zettels
-- _Z-001-0939]] — Between-run variation
-- [[Sample_Preparation_Variability_Control_Z-001-0940]] — Pre-analytical variation
+- _Z-001-0939] — Between-run variation
+- [[Sample_Preparation_Variability_Control_Z-001-0940] — Pre-analytical variation
 
 ## Source
-[[LitNote_Technical_Confounders_Metabolomics_L-001-0520]]
+[[LitNote_Technical_Confounders_Metabolomics_L-001-0520]
 
 ---
 
@@ -150,7 +150,7 @@ Mass spectrometers are **not stable** over time. Sensitivity, resolution, and ma
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- |Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- |Biomarker Family Guide]
 - 
 

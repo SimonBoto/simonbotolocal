@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Oxalic Acid: Uses & Form"
 date: 2024-04-16
 source: ChatGPT conversation history
-aliases: [CGPT-0413]
+aliases: CGPT-0413]
 tags: [chatgpt-archive, adipic_acid]
 status: archived
 ---

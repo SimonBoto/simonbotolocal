@@ -6,7 +6,7 @@ aliases: [Z-001-1257]
 domain: 001
 tags: [zettel, ketolysis, SCOT, BDH1, ketone-utilization, extrahepatic, brain-fuel]
 parent-moc: ", "
-source-litnote: "[[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]"
+source-litnote: "[[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]"
 status: conscious
 ---
 
@@ -154,17 +154,17 @@ Ketolysis does NOT provide anaplerotic substrates directly
 
 ## Related Zettels
 
-- [[Z-001-1256_BHB_Production_Fatty_Acids]] — Hepatic ketogenesis
-- [[Z-001-1258_ATP_Yield_Comparison]] — Energy efficiency across fuel types
-- [[Z-001-1260_Adipic_Acid_Clinical_Significance]] — When beta-oxidation fails
+- [[Z-001-1256_BHB_Production_Fatty_Acids] — Hepatic ketogenesis
+- [[Z-001-1258_ATP_Yield_Comparison] — Energy efficiency across fuel types
+- [[Z-001-1260_Adipic_Acid_Clinical_Significance] — When beta-oxidation fails
 
 ---
 
 ## Source
 
-Extracted from: [[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]  
+Extracted from: [[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]  
 CGPT-0647 (April 30, 2023) — Messages 5-8, 21-22
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

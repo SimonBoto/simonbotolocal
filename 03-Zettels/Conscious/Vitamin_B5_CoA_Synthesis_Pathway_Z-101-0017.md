@@ -7,7 +7,7 @@ domain: 101
 tags: [zettel, vitamin-b5, pantothenic-acid, coenzyme-a, coa-synthesis, pkan, biochemistry]
 parent-moc: 
 status: conscious
-source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]]"
+source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]"
 extraction-date: 2026-03-02
 ---
 
@@ -82,9 +82,9 @@ CoA consists of:
 
 ---
 
-*See also: [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]]*
+*See also: [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
 - 

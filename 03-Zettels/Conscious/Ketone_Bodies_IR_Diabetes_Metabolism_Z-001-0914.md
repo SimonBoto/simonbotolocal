@@ -7,7 +7,7 @@ domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, ketones, ketogenesis, insulin-resistance, diabetes, fatty-acid-oxidation, alternative-fuel, conscious]
 parent-moc: 
-source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
+source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
@@ -160,15 +160,15 @@ VD intervention target:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Carnitine_Fatty_Acid_Transport_Z-001-0913]] — Ketones produced when fatty acids enter mitochondria but Krebs saturated
-- **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]] — Alternative fate for acetyl-CoA
+- **Upstream/Prerequisite:** [[Carnitine_Fatty_Acid_Transport_Z-001-0913] — Ketones produced when fatty acids enter mitochondria but Krebs saturated
+- **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912] — Alternative fate for acetyl-CoA
 - **Downstream/Consequence:**  — Potential  for metabolic flexibility
 
 ## Context
 
-**Also relevant to:**  — Fuel selection in IR, -Mechanisms]] — Potential VD-ketone interaction
+**Also relevant to:**  — Fuel selection in IR, -Mechanisms] — Potential VD-ketone interaction
 
-**Source:** [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
+**Source:** [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]
 
 ---
 
@@ -176,6 +176,6 @@ VD intervention target:
 *Key insight: Ketones represent alternative fuel pathway when glucose unavailable — relevant to IR metabolic inflexibility*
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

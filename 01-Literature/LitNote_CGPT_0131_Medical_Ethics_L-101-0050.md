@@ -16,7 +16,7 @@ extraction-date: 2026-03-28
 # Lit: Medical Ethics — Frameworks, Requirements, and Historical Lessons
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0131_Medical_Ethics_Assistance_[CGPT-0131]]
+- **ChatGPT conversation:** [[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]
 - **Date:** March 7, 2025
 - **Messages:** 100
 - **ID:** 67cae6ba
@@ -127,13 +127,13 @@ Informed consent alone is **necessary but not sufficient**. All seven requiremen
 | Respect | Data anonymization; 5-year retention limit |
 
 ## Zettels Created
-1. [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]] — Framework overview
-2. [[Historical_Ethical_Frameworks_Research_Z-101-0479]] — Nuremberg, Helsinki, Belmont, CIOMS
-3. [[Research_Ethics_Case_Studies_Z-101-0480]] — Tuskegee, Willowbrook, lessons learned
+1. [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478] — Framework overview
+2. [[Historical_Ethical_Frameworks_Research_Z-101-0479] — Nuremberg, Helsinki, Belmont, CIOMS
+3. [[Research_Ethics_Case_Studies_Z-101-0480] — Tuskegee, Willowbrook, lessons learned
 
 ## Connections
-- **IRB process:** [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]] — Actionable application
-- **Consent framework:** [[METHAP_Informed_Consent_Framework_Z-101-0474]] — Practical implementation
+- **IRB process:** [[METHAP_IRB_Feedback_Action_Items_Z-101-0473] — Actionable application
+- **Consent framework:** [[METHAP_Informed_Consent_Framework_Z-101-0474] — Practical implementation
 - **PhD context:** Core ethics training for clinical researcher
 
 ## Extraction Notes

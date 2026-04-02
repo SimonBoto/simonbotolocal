@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, seven-countries, keys, saturated-fat, reassessment]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]]
+source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]
 extraction-date: 2026-03-01
 ---
 
@@ -47,11 +47,11 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]]*
+*Source: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
-- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]]
-- _Gaps_Z-001-0111]|Z-001-0111]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
+- _Gaps_Z-001-0111]|Z-001-0111]

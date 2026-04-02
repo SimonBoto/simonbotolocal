@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Τι σημαίνει PLSVC"
 date: 2025-10-06
 source: ChatGPT conversation history
-aliases: [CGPT-0050]
+aliases: CGPT-0050]
 tags: [chatgpt-archive, general]
 status: archived
 ---

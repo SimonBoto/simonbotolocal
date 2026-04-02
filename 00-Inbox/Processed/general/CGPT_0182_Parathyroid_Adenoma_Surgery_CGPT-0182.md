@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Parathyroid Adenoma Surgery"
 date: 2025-01-21
 source: ChatGPT conversation history
-aliases: [CGPT-0182]
+aliases: CGPT-0182]
 tags: [chatgpt-archive, general]
 status: archived
 ---

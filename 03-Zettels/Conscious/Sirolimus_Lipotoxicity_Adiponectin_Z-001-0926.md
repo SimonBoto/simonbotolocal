@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, sirolimus, rapamycin, adipose, adiponectin, lipotoxicity, ffa, insulin-resistance]
 parent-moc: 
 status: conscious
-source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]]"
+source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
@@ -164,13 +164,13 @@ Hepatic IR      Muscle IR       β-cell dysfunction
 
 ---
 
-*See also: [[mTORC2_Akt_Insulin_Signaling_Z-001-0925]]*
+*See also: [[mTORC2_Akt_Insulin_Signaling_Z-001-0925]*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]|Z-001-0513]]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]|Z-001-0513]
+- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

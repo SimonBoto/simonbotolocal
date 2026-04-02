@@ -122,11 +122,11 @@ Break conclusions into individual sentences/claims. Example from CGPT-0328:
 > "The conclusion that [CLAIM] is not sufficiently supported by the evidence presented. The study [ACTUAL LIMITATION]. The authors should revise to state [CAUTIOUS ALTERNATIVE] and acknowledge [SPECIFIC LIMITATION]."
 
 ## Related Zettels
-- [[Limitation_Statement_Best_Practices_Z-001-0943]] — Honest limitations
-- [[Rewriting_Overstated_Claims_Cautious_Language_Z-001-0944]] — Fix strategies
+- [[Limitation_Statement_Best_Practices_Z-001-0943] — Honest limitations
+- [[Rewriting_Overstated_Claims_Cautious_Language_Z-001-0944] — Fix strategies
 
 ## Source
-[[LitNote_Critical_Assessment_Methodology_L-001-0521]]
+[[LitNote_Critical_Assessment_Methodology_L-001-0521]
 
 ---
 
@@ -134,7 +134,7 @@ Break conclusions into individual sentences/claims. Example from CGPT-0328:
 **Extracted:** 2026-03-06
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Liver_Function_[B-009-0001]|Biomarker Family Guide]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Liver_Function_[B-009-0001]|Biomarker Family Guide]
 - 
 

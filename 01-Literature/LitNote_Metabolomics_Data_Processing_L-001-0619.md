@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 # Lit: ChatGPT 2024 — Metabolomics Data Processing: METHAP
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0475_Metabolic_Biomarkers_for_Insulin_[CGPT-0475]]
+- **ChatGPT conversation:** [[CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475]]
 - **Date:** Ongoing PhD consultation
 - **Context:** METHAP data processing and bioinformatics workflow
 
@@ -27,17 +27,17 @@ extraction-date: 2026-03-08
 ### 1. Preprocessing and Quality Control
 > "Raw metabolomics data requires preprocessing: baseline correction, peak detection, alignment, and quality control to ensure reliable downstream analysis."
 
-**Zettel extracted:** [[Metabolomics_Preprocessing_Quality_Control_Z-001-1156]]
+**Zettel extracted:** [[Metabolomics_Preprocessing_Quality_Control_Z-001-1156]
 
 ### 2. Normalization and Scaling
 > "Normalization corrects for technical variation (sample volume, batch effects); scaling ensures variables contribute equally to multivariate analysis."
 
-**Zettel extracted:** [[Normalization_Scaling_Metabolomics_Data_Z-001-1157]]
+**Zettel extracted:** [[Normalization_Scaling_Metabolomics_Data_Z-001-1157]
 
 ### 3. Pathway and Network Analysis
 > "Pathway analysis maps significant metabolites to biological pathways; network analysis reveals metabolic interactions and hub metabolites."
 
-**Zettel extracted:** [[Pathway_Analysis_Network_Metabolomics_Z-001-1158]]
+**Zettel extracted:** [[Pathway_Analysis_Network_Metabolomics_Z-001-1158]
 
 ## Data Processing Workflow
 
@@ -63,9 +63,9 @@ Raw Data → Preprocessing → Normalization → Statistical Analysis
 **Synthesis:** METHAP data processing follows established metabolomics standards—from raw data preprocessing through biological interpretation—ensuring reproducible, biologically meaningful results.
 
 ## Zettels Created from This Source
-1. [[Metabolomics_Preprocessing_Quality_Control_Z-001-1156]]
-2. [[Normalization_Scaling_Metabolomics_Data_Z-001-1157]]
-3. [[Pathway_Analysis_Network_Metabolomics_Z-001-1158]]
+1. [[Metabolomics_Preprocessing_Quality_Control_Z-001-1156]
+2. [[Normalization_Scaling_Metabolomics_Data_Z-001-1157]
+3. [[Pathway_Analysis_Network_Metabolomics_Z-001-1158]
 
 ## Related References
 - 

@@ -94,9 +94,9 @@ Take 2 capsules daily in the evening or as directed by your physician.
 | 2 | €2.07 | Standard dose |
 
 ## Biomarker Links
-- [[CRP_C-Reactive_Protein_Z-002-0001]] — inflammation marker
-- [[ESR_Erythrocyte_Sedimentation_Rate_Z-002-0002]] — inflammation marker
-- [[Cartilage_Degradation_Markers_Z-001-XXXX]] — joint health markers
+- [[CRP_C-Reactive_Protein_Z-002-0001] — inflammation marker
+- [[ESR_Erythrocyte_Sedimentation_Rate_Z-002-0002] — inflammation marker
+- [[Cartilage_Degradation_Markers_Z-001-XXXX] — joint health markers
 
 ## Comparison with Other Joint Products
 | Feature | Anoson (ND) | My Relief (Meetab) |

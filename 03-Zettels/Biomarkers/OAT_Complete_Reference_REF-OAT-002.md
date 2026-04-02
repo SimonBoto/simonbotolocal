@@ -178,8 +178,8 @@ High ethylmalonic + methylsuccinic + dicarboxylic acids (adipic, suberic, sebaci
 
 ## Related Files
 - 
-- [[B-012-0001|Citrate — Mitochondrial Dysfunction Marker]]
-- [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition]]
+- [[B-012-0001|Citrate — Mitochondrial Dysfunction Marker]
+- [[S-012-0001|Mitochondrial Dysfunction Pattern Recognition]
 
 ---
 *Complete extraction from clinical prototype — 2026-03-31*

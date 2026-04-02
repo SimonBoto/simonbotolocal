@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "BI-RADS 2 Benign Probability"
 date: 2025-02-18
 source: ChatGPT conversation history
-aliases: [CGPT-0142]
+aliases: CGPT-0142]
 tags: [chatgpt-archive, personal_development]
 status: archived
 ---

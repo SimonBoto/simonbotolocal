@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Disease X Preparedness Initiative"
 date: 2024-04-11
 source: ChatGPT conversation history
-aliases: [CGPT-0420]
+aliases: CGPT-0420]
 tags: [chatgpt-archive, greek_language]
 status: archived
 ---

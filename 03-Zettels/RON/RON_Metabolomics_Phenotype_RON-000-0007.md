@@ -5,7 +5,7 @@ title: "RON: Metabolomics Phenotype — The METHAP Vision"
 date: 2026-01-10
 aliases: [RON-000-0007, methap-vision, metabolomics-phenotype]
 tags: [ron, genesis, methap, metabolomics, phenotype, precision-medicine]
-parent-moc: [[MOC-Pharmacometabolomics]]
+parent-moc: [[MOC-Pharmacometabolomics]
 status: conscious
 ---
 

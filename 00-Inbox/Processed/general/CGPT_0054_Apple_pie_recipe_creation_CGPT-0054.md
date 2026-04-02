@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Apple pie recipe creation"
 date: 2025-09-27
 source: ChatGPT conversation history
-aliases: [CGPT-0054]
+aliases: CGPT-0054]
 tags: [chatgpt-archive, general]
 status: archived
 ---
@@ -365,7 +365,7 @@ When selecting (or formulating) a toothpaste with therapeutic intent, consider:
 
 Here are a few well-reviewed commercial options you can check (depending on availability in your region). I’m not endorsing them, just listing ones worth evaluating. (Prices, flavors or availability may vary.)  
 
-products{"selections":[["turn0product1","Now Solutions XyliWhite Refreshmint Toothpaste Gel"],["turn0product0","Now Foods XyliWhite Platinum Mint & Baking Soda"],["turn0product4","Now Foods XyliWhite Cinnamon"],["turn0product9","Marvis Ginger Mint with Xylitol"],["turn0product6","Now Foods XyliWhite Baking Soda"],["turn0product11","Now Foods XyliWhite Refreshmint (Greek listing)"],["turn0product13","Now Solutions XyliWhite Platinum Mint"],["turn0product14","NOW XyliWhite Kids Toothpaste"]],"tags":["classic gel","whitening","flavored cinnamon","luxury brand with twist","baking soda variant","same but local listing","larger size","kids version"]}  
+products{"selections":[["turn0product1","Now Solutions XyliWhite Refreshmint Toothpaste Gel"],["turn0product0","Now Foods XyliWhite Platinum Mint & Baking Soda"],["turn0product4","Now Foods XyliWhite Cinnamon"],["turn0product9","Marvis Ginger Mint with Xylitol"],["turn0product6","Now Foods XyliWhite Baking Soda"],["turn0product11","Now Foods XyliWhite Refreshmint (Greek listing)"],["turn0product13","Now Solutions XyliWhite Platinum Mint"],["turn0product14","NOW XyliWhite Kids Toothpaste"],"tags":["classic gel","whitening","flavored cinnamon","luxury brand with twist","baking soda variant","same but local listing","larger size","kids version"]}  
 
 Here are a few standouts:
 

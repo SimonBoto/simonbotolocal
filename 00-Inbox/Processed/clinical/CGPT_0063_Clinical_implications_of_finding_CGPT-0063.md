@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Clinical implications of finding"
 date: 2025-09-03
 source: ChatGPT conversation history
-aliases: [CGPT-0063]
+aliases: CGPT-0063]
 tags: [chatgpt-archive, clinical, nutrition]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "PhD Protocol Refinement."
 date: 2024-02-25
 source: ChatGPT conversation history
-aliases: [CGPT-0496]
+aliases: CGPT-0496]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition]
 status: archived
 ---

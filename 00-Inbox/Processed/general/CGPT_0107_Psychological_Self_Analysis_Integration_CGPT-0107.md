@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Psychological Self-Analysis Integration"
 date: 2025-04-13
 source: ChatGPT conversation history
-aliases: [CGPT-0107]
+aliases: CGPT-0107]
 tags: [chatgpt-archive, general]
 status: archived
 ---

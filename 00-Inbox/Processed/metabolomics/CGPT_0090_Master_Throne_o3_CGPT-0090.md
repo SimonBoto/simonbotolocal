@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Master Throne o3"
 date: 2025-04-25
 source: ChatGPT conversation history
-aliases: [CGPT-0090]
+aliases: CGPT-0090]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition, communication, personal_development]
 status: archived
 ---

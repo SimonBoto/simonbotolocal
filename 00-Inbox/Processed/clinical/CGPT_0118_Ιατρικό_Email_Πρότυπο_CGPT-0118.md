@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Ιατρικό Email Πρότυπο"
 date: 2025-03-12
 source: ChatGPT conversation history
-aliases: [CGPT-0118]
+aliases: CGPT-0118]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

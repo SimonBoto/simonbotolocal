@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Gastroenterology Registrar Assessment"
 date: 2025-01-06
 source: ChatGPT conversation history
-aliases: [CGPT-0209]
+aliases: CGPT-0209]
 tags: [chatgpt-archive, clinical]
 status: archived
 ---

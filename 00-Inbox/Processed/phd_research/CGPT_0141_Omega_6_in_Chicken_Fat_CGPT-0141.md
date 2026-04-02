@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Omega-6 in Chicken Fat"
 date: 2025-02-19
 source: ChatGPT conversation history
-aliases: [CGPT-0141]
+aliases: CGPT-0141]
 tags: [chatgpt-archive, phd_research, nutrition]
 status: archived
 ---

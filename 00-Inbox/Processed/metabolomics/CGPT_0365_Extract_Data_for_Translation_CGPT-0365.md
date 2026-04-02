@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Extract Data for Translation"
 date: 2024-05-26
 source: ChatGPT conversation history
-aliases: [CGPT-0365]
+aliases: CGPT-0365]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, greek_language, nutrition]
 status: archived
 ---

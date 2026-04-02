@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Diet Supplement Compliance Survey"
 date: 2025-01-30
 source: ChatGPT conversation history
-aliases: [CGPT-0161]
+aliases: CGPT-0161]
 tags: [chatgpt-archive, clinical, nutrition]
 status: archived
 ---

@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, ire, irp, iron-sensing, rna-structure, molecular-mechanism]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]]"
+source-litnote: "[[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]"
 status: conscious
 ---
 
@@ -249,16 +249,16 @@ Iron status → [Fe-S] status → IRP conformation
 
 ## Related
 
-- [[IRP1_Iron_Sensing_Molecular_Switch_Z-001-1205]]
-- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]]
-- [[Aconitase_Mechanism_Iron_Sulfur_Cluster_Z-001-1204]]
+- [[IRP1_Iron_Sensing_Molecular_Switch_Z-001-1205]
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]
+- [[Aconitase_Mechanism_Iron_Sulfur_Cluster_Z-001-1204]
 
 ---
 
-*Source: _IRP1_L-001-0631]] | 2026-03-09*
+*Source: _IRP1_L-001-0631] | 2026-03-09*
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

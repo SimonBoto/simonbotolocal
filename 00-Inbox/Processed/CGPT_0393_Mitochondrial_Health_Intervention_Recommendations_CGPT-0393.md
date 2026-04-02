@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mitochondrial Health Intervention Recommendations"
 date: 2024-05-15
 source: ChatGPT conversation history
-aliases: [CGPT-0393]
+aliases: CGPT-0393]
 tags: [chatgpt-archive, metabolomics, nutrition]
 status: archived
 ---

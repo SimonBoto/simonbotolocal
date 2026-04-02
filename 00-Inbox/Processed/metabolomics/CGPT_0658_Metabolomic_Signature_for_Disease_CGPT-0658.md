@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolomic Signature for Disease"
 date: 2023-04-25
 source: ChatGPT conversation history
-aliases: [CGPT-0658]
+aliases: CGPT-0658]
 tags: [chatgpt-archive, metabolomics, phd_research, consciousness_ai, technology]
 status: archived
 ---

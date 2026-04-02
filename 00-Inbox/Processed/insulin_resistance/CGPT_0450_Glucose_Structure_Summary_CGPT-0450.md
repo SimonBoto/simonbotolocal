@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Glucose Structure Summary"
 date: 2024-03-24
 source: ChatGPT conversation history
-aliases: [CGPT-0450]
+aliases: CGPT-0450]
 tags: [chatgpt-archive, insulin_resistance, nutrition]
 status: archived
 ---

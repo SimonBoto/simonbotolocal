@@ -13,7 +13,7 @@ relevance: Medium — Cofactor biochemistry supporting fatty acid metabolism
 aliases: [L-101-0004, CoA Biosynthesis, Decarboxylase Enzymes, B5 Metabolism]
 domain: 101
 tags: [litnote, coenzyme-a, pantothenic-acid, vitamin-b5, decarboxylase, dehydrogenase, enzymology, cofactors]
-source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]"
+source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-02
@@ -60,7 +60,7 @@ extraction-date: 2026-03-02
 **Summary Equation:**
 **Pantothenate + Cysteine + 4 ATP → CoA + 4 ADP + 3 Pi + PPi + CO₂**
 
-**Zettels extracted:** [[Vitamin_B5_CoA_Synthesis_Pathway_Z-101-0017]]
+**Zettels extracted:** [[Vitamin_B5_CoA_Synthesis_Pathway_Z-101-0017]
 
 ### 2. Clinical Significance of CoA Synthesis
 > "Pantothenate Kinase-Associated Neurodegeneration (PKAN) demonstrates that genetic defects in CoA synthesis cause severe neurological disease, distinct from dietary B5 deficiency."
@@ -82,7 +82,7 @@ extraction-date: 2026-03-02
 - **Symptoms:** Fatigue, numbness/tingling, GI disturbances, impaired wound healing
 - **Treatment:** Oral pantothenic acid supplementation
 
-**Zettels extracted:** [[Vitamin_B5_CoA_Synthesis_Pathway_Z-101-0017]]
+**Zettels extracted:** [[Vitamin_B5_CoA_Synthesis_Pathway_Z-101-0017]
 
 ### 3. Decarboxylation Reactions and Enzyme Classification
 > "Decarboxylation removes carboxyl groups releasing CO₂, catalyzed by enzymes requiring specific vitamin cofactors including TPP (B1), PLP (B6), and biotin (B7)."
@@ -110,7 +110,7 @@ extraction-date: 2026-03-02
 - **Mg²⁺:** Most common — PPCDC, isocitrate dehydrogenase, PLP enzymes
 - **Mn²⁺:** Can substitute for Mg²⁺ in some isoforms
 
-**Zettels extracted:** [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]]
+**Zettels extracted:** [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]
 
 ### 4. Dehydrogenases vs Decarboxylases
 > "While dehydrogenases catalyze oxidation reactions generating NADH/FADH₂, decarboxylases remove CO₂ without redox changes — though some enzymes like isocitrate dehydrogenase perform both functions."
@@ -132,7 +132,7 @@ extraction-date: 2026-03-02
 - Inhibits DNA/histone demethylases → epigenetic dysregulation
 - **Therapeutic Target:** IDH inhibitors (ivosidenib, enasidenib) approved for AML
 
-**Zettels extracted:** [[Dehydrogenases_vs_Decarboxylases_Z-101-0019]], [[Isocitrate_Dehydrogenase_Dual_Function_Z-101-0020]]
+**Zettels extracted:** [[Dehydrogenases_vs_Decarboxylases_Z-101-0019], [[Isocitrate_Dehydrogenase_Dual_Function_Z-101-0020]
 
 ---
 
@@ -162,16 +162,16 @@ extraction-date: 2026-03-02
 ---
 
 ## Zettels Created from This Source
-1. [[Vitamin_B5_CoA_Synthesis_Pathway_Z-101-0017]] — Biochemistry and clinical disorders
-2. [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]] — Vitamin and mineral requirements
-3. [[Dehydrogenases_vs_Decarboxylases_Z-101-0019]] — Enzyme classification
-4. [[Isocitrate_Dehydrogenase_Dual_Function_Z-101-0020]] — Dual mechanism and cancer connection
+1. [[Vitamin_B5_CoA_Synthesis_Pathway_Z-101-0017] — Biochemistry and clinical disorders
+2. [[Decarboxylation_Enzymes_Cofactors_Z-101-0018] — Vitamin and mineral requirements
+3. [[Dehydrogenases_vs_Decarboxylases_Z-101-0019] — Enzyme classification
+4. [[Isocitrate_Dehydrogenase_Dual_Function_Z-101-0020] — Dual mechanism and cancer connection
 
 ---
 
 ## Related References
-- [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]] — Fatty acid oxidation context
-- [[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]] — Clinical application
+- [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002] — Fatty acid oxidation context
+- [[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003] — Clinical application
 -  — Parent MOC
 -  — Cofactor context
 

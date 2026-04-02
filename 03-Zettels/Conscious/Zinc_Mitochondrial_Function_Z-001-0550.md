@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, zinc, sod2, mitochondrial, membrane, enzyme]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]]
+source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]
 extraction-date: 2026-03-01
 ---
 
@@ -50,9 +50,9 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]]*
+*Source: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]*
 
 
 ## RELATED FILES
 - 
-- _Zinc_Selenium_Z-001-1015]|Z-001-1015]]
+- _Zinc_Selenium_Z-001-1015]|Z-001-1015]

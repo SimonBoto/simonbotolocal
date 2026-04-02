@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "AI Impact Optimization"
 date: 2025-02-16
 source: ChatGPT conversation history
-aliases: [CGPT-0147]
+aliases: CGPT-0147]
 tags: [chatgpt-archive, consciousness_ai, personal_development]
 status: archived
 ---

@@ -8,7 +8,7 @@ tags: [zettel, bhb, hydroxy-acid, chemistry, structure, nomenclature]
 parent-moc: 
 status: conscious
 created: 2026-03-04
-source: [[L-001-0045G]]
+source: [[L-001-0045G]
 ---
 
 # BHB is a Hydroxy Acid, Not a Ketone
@@ -61,12 +61,12 @@ Acetoacetate + NADH + H⁺ → BHB + NAD⁺
 - **Different readings possible** due to AcAc:BHB ratio variations
 
 ## Related
-- [[Three_Ketone_Bodies_Z-001-0482]] The Three Ketone Bodies
-- [[Ketogenesis_Pathway_Regulation_Z-001-0481]] Ketogenesis Pathway
+- [[Three_Ketone_Bodies_Z-001-0482] The Three Ketone Bodies
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481] Ketogenesis Pathway
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Summarize Request and Response"
 date: 2024-05-17
 source: ChatGPT conversation history
-aliases: [CGPT-0390]
+aliases: CGPT-0390]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
 ---

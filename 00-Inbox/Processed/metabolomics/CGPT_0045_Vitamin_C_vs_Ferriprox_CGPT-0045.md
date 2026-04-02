@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Vitamin C vs Ferriprox"
 date: 2025-10-24
 source: ChatGPT conversation history
-aliases: [CGPT-0045]
+aliases: CGPT-0045]
 tags: [chatgpt-archive, metabolomics, clinical, consciousness_ai, nutrition]
 status: archived
 ---

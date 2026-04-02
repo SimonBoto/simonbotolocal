@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Glycine does not increase glucose"
 date: 2024-03-11
 source: ChatGPT conversation history
-aliases: [CGPT-0466]
+aliases: CGPT-0466]
 tags: [chatgpt-archive, insulin_resistance, phd_research, nutrition]
 status: archived
 ---

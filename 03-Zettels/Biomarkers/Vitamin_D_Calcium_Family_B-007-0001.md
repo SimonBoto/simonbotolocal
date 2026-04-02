@@ -370,10 +370,10 @@ source-litnote: Synthesized from clinical practice
 
 ## 9. RELATED BIOMARKERS
 
-- [[Magnesium_[B-003-XXXX]]: Critical cofactor
-- [[Calcium_Metabolism_[B-007-0002]]: Extended calcium panel
-- [[Bone_Turnover_Markers_[B-007-0003]]: Osteocalcin, CTX, P1NP
-- [[Phosphate_[B-007-0004]]: Partner mineral
+- [[Magnesium_[B-003-XXXX]: Critical cofactor
+- [[Calcium_Metabolism_[B-007-0002]: Extended calcium panel
+- [[Bone_Turnover_Markers_[B-007-0003]: Osteocalcin, CTX, P1NP
+- [[Phosphate_[B-007-0004]: Partner mineral
 - [[Vitamin_D_Clinical_Guide_S-001-0002]: Comprehensive D protocol
 - [[IR_Playbook_Clinical_Decision_Tool_S-001-0001]: D and insulin sensitivity
 

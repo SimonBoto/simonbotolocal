@@ -7,7 +7,7 @@ domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, cofactors, coenzymes, biomarkers, B12, methylmalonic-acid, enzyme-function, vitamin-D, conscious]
 parent-moc: 
-source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
+source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
@@ -102,15 +102,15 @@ Methylmalonyl-CoA ──[enzyme WITHOUT B12]──→ ✗ (blocked)
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]] — Individual variation in cofactor needs
-- **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]] — Enzyme dysfunction markers
-- **Downstream/Consequence:** -Mechanisms]] — VD as potential cofactor
+- **Upstream/Prerequisite:** [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910] — Individual variation in cofactor needs
+- **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912] — Enzyme dysfunction markers
+- **Downstream/Consequence:** -Mechanisms] — VD as potential cofactor
 
 ## Context
 
 **Also relevant to:**  — Biomarker classification framework,  — Core mechanistic hypothesis
 
-**Source:** [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]]
+**Source:** [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]
 
 ---
 
@@ -118,8 +118,8 @@ Methylmalonyl-CoA ──[enzyme WITHOUT B12]──→ ✗ (blocked)
 *Critical insight: B12 model provides mechanistic template for adipic acid as VD-responsive biomarker*
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

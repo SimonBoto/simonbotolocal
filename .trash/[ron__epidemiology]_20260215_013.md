@@ -15,4 +15,4 @@ Common confusion:
 - Epidemiology describes **group patterns**, not a person’s full causal story.
 - A strong population signal can still be weakly predictive for a specific individual if heterogeneity is high.
 
-Related: [[Zettel_Evidence_Based_Medicine_Is_Population_Average]], [[Zettel_Personalized_Medicine_Modifiable_Factors]]
+Related: [[Zettel_Evidence_Based_Medicine_Is_Population_Average], [[Zettel_Personalized_Medicine_Modifiable_Factors]

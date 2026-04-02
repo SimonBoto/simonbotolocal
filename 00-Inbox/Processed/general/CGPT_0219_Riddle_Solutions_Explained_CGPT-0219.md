@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Riddle Solutions Explained"
 date: 2024-12-23
 source: ChatGPT conversation history
-aliases: [CGPT-0219]
+aliases: CGPT-0219]
 tags: [chatgpt-archive, general]
 status: archived
 ---

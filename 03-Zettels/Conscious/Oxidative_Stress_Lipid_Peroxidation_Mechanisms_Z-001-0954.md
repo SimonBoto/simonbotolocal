@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, oxidative-stress, lipid-peroxidation, 4-hne, mda, aldehydes, omega-6, ros, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Mechanisms_Metabolic_Disruption_L-001-0523]]
+source-litnote: [[LitNote_Mechanisms_Metabolic_Disruption_L-001-0523]
 status: conscious
 ---
 
@@ -208,14 +208,14 @@ LOO• + Vitamin E-OH → LOOH + Vitamin E-O• (chain break)
 
 ---
 
-**Related:** [[Mitochondrial_Uncoupling_Omega_6_Induced_Z-001-0953]] | [[Oxidative_Stress_Metabolic_Disease_Z-001-0025]] | [[Antioxidant_Defense_Systems_Z-001-0026]]
+**Related:** [[Mitochondrial_Uncoupling_Omega_6_Induced_Z-001-0953] | [[Oxidative_Stress_Metabolic_Disease_Z-001-0025] | [[Antioxidant_Defense_Systems_Z-001-0026]
 
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

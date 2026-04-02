@@ -14,7 +14,7 @@ title: "I want to start writing a book on what I do,
 
 On how i see healing and medicine ..."
 date: 2025-04-25
-source: "[[CGPT_0101_The_Health_Manifesto_[CGPT-0101]]"
+source: "[[CGPT_0101_The_Health_Manifesto_CGPT-0101]"
 aliases: [X-GEN-250425-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []

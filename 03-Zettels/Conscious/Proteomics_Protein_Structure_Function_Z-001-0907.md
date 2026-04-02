@@ -7,7 +7,7 @@ domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, proteomics, proteins, enzymes, drug-targets, LC-MS, NMR, conscious]
 parent-moc: 
-source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]]
+source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05
@@ -84,24 +84,24 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Transcriptomics_Transcriptome_Bridge_Z-001-0906]] — Produces proteins
-- **Parallel/Related:** [[Genomics_Structure_Function_Genome_Z-001-0904]] — Genes code for proteins
-- **Downstream/Consequence:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] — Metabolome is next
+- **Upstream/Prerequisite:** [[Transcriptomics_Transcriptome_Bridge_Z-001-0906] — Produces proteins
+- **Parallel/Related:** [[Genomics_Structure_Function_Genome_Z-001-0904] — Genes code for proteins
+- **Downstream/Consequence:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md] — Metabolome is next
 
 ## Context
 
 **Also relevant to:** ,  — Protein players in insulin resistance
 
-**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Subsection 2.4
+**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001] — Subsection 2.4
 
 ---
 
 *UID: Z-001-0907 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 

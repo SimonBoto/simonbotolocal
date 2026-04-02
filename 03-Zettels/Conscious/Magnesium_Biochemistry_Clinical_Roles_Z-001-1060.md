@@ -7,8 +7,8 @@ domain: 001
 domain-name: Vitamin Metabolism
 tags: [zettel, magnesium, cofactor, atp]
 parent-moc: 
-source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
-source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]
+source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
+source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
 confidence: high
 created: 2026-03-08
 ---
@@ -67,8 +67,8 @@ Magnesium is a cofactor for >300 enzymes, essential for ATP function, muscle rel
 - **Maximum:** ~800 mg/day (higher causes diarrhea)
 
 ## Related
-- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]]
-- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]
 - 
 
 ---
@@ -76,4 +76,4 @@ Magnesium is a cofactor for >300 enzymes, essential for ATP function, muscle rel
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

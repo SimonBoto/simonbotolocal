@@ -64,7 +64,7 @@ created: 2026-03-30
 
 ## 5. RELATED
 
-- [[CRP_[B-002-0001]]: Systemic inflammation
+- [[CRP_[B-002-0001]: Systemic inflammation
 - ]: Metabolomics gut markers
 
 ---

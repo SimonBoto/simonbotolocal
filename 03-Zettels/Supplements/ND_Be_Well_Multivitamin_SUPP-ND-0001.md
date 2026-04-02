@@ -101,9 +101,9 @@ Take 1 capsule daily after breakfast or as directed by your physician.
 - Patients needing methylated B vitamins
 
 ## Biomarker Links
-- [[Homocysteine_Methylation_Cardiovascular_Risk_Z-004-0001]] — methylated folate/B12 support methylation
-- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] — 2000 IU D3
-- [[Zinc_RBC_Functional_Mineral_Z-007-0006]] — 20 mg zinc bisglycinate
+- [[Homocysteine_Methylation_Cardiovascular_Risk_Z-004-0001] — methylated folate/B12 support methylation
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001] — 2000 IU D3
+- [[Zinc_RBC_Functional_Mineral_Z-007-0006] — 20 mg zinc bisglycinate
 
 ## Comparison with Meetab My Health
 | Feature | Be Well | My Health |

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, systematic-review, search-strategy, pubmed, embase, cochrane, boolean-operators, mesh, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]]
+source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]
 status: conscious
 ---
 
@@ -275,10 +275,10 @@ AND
 
 ---
 
-**Related:** [[Screening_Protocols_Systematic_Review_Z-001-0997]] | [[Data_Extraction_Systematic_Review_Z-001-0998]] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999]]
+**Related:** [[Screening_Protocols_Systematic_Review_Z-001-0997] | [[Data_Extraction_Systematic_Review_Z-001-0998] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999]
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]

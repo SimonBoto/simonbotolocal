@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, twitter, social-media, growth, health-professionals, branding]
 parent-moc: 
 extraction-date: 2026-03-09
-source-litnote: "[[LitNote_Twitter_Strategy_DrMito_L-001-0634]]"
+source-litnote: "[[LitNote_Twitter_Strategy_DrMito_L-001-0634]"
 status: conscious
 ---
 
@@ -239,12 +239,12 @@ Share:
 
 ## Related
 
-- [[Content_Creation_Framework_Z-001-1219]]
-- [[DrMito_Branding_Case_Study_Z-001-1220]]
+- [[Content_Creation_Framework_Z-001-1219]
+- [[DrMito_Branding_Case_Study_Z-001-1220]
 
 ---
 
-*Source: [[LitNote_Twitter_Strategy_DrMito_L-001-0634]] | 2026-03-09*
+*Source: [[LitNote_Twitter_Strategy_DrMito_L-001-0634] | 2026-03-09*
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

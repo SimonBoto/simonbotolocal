@@ -16,7 +16,7 @@ domain: 001
 # Nintedanib (Ofev) — Tyrosine Kinase Inhibitor Mechanism and Clinical Use
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0064_Ofev_MOA_and_effects_[CGPT-0064]] (6 messages)
+- **ChatGPT conversation:** [[CGPT_0064_Ofev_MOA_and_effects_CGPT-0064] (6 messages)
 - **Date:** September 01, 2025
 - **Scope:** Nintedanib mechanism, tyrosine kinase inhibition, antifibrotic effects
 

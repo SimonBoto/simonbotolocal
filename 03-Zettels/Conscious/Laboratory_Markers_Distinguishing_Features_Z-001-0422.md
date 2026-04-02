@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, laboratory, markers, b12, multiple-myeloma]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]]
+source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]
 extraction-date: 2026-03-01
 ---
 
@@ -45,11 +45,11 @@ extraction-date: 2026-03-01
 
 ---
 
-*Source: [[LitNote_B12_MM_Mimicry_L-001-0404]]*
+*Source: [[LitNote_B12_MM_Mimicry_L-001-0404]*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
-- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]]
-- _Gaps_Z-001-0111]|Z-001-0111]]
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
+- _Gaps_Z-001-0111]|Z-001-0111]

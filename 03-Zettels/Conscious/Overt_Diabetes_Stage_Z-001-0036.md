@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, diabetes, T2D, beta-cell-failure, complications]
 parent-moc: 
-source: [[LitNote_IR_Mechanisms_Map_L-001-0005]]
+source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
 confidence: high
 created: 2026-02-24
 ---
@@ -40,8 +40,8 @@ Beta-cell mass becomes insufficient to maintain glycemic control, resulting in a
 
 ## Links
 
-- **Upstream:** [[Beta_Cell_Exhaustion_Stage_Z-001-0035.md]] — Beta-cell exhaustion precedes this
-- **Parallel:** [[HOMA_IR_Late_Marker_Z-001-0043.md]] — HbA1c finally becomes abnormal (late marker)
+- **Upstream:** [[Beta_Cell_Exhaustion_Stage_Z-001-0035.md] — Beta-cell exhaustion precedes this
+- **Parallel:** [[HOMA_IR_Late_Marker_Z-001-0043.md] — HbA1c finally becomes abnormal (late marker)
 - **Downstream:**  — Complications management
 
 ## Context
@@ -56,5 +56,5 @@ Beta-cell mass becomes insufficient to maintain glycemic control, resulting in a
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

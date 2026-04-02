@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, seed-oils, extraction, hexane, expeller-press, industrial-processing, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]]
+source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]
 status: conscious
 ---
 
@@ -156,10 +156,10 @@ Two primary methods for extracting oil from seeds: **mechanical pressing** (trad
 
 ---
 
-**Related:** [[Seed_Oil_Refining_Process_Degumming_Bleaching_Deodorizing_Z-001-0956]] | [[Hydrogenation_Trans_Fat_Formation_Z-001-0957]]
+**Related:** [[Seed_Oil_Refining_Process_Degumming_Bleaching_Deodorizing_Z-001-0956] | [[Hydrogenation_Trans_Fat_Formation_Z-001-0957]
 
 **Source:** CGPT-0340 — Seed oils history and process
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]

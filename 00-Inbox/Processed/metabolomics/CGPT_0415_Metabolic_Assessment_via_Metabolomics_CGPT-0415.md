@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolic Assessment via Metabolomics"
 date: 2024-04-13
 source: ChatGPT conversation history
-aliases: [CGPT-0415]
+aliases: CGPT-0415]
 tags: [chatgpt-archive, metabolomics, clinical, technology]
 status: archived
 ---

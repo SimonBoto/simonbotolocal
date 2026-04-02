@@ -33,7 +33,7 @@ created: 2026-02-22
 
 ## Links
 
-- **Mechanism:** [[IRS_Protein_Recruitment_Z-001-0005]] — Normal function
+- **Mechanism:** [[IRS_Protein_Recruitment_Z-001-0005] — Normal function
 
 ## Context
 
@@ -41,6 +41,6 @@ created: 2026-02-22
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -7,7 +7,7 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, pharmacology, denosumab]
 parent-moc: 
-source: [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]]
+source: [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -20,8 +20,8 @@ Upon discontinuation of denosumab, patients may experience rapid increase in bon
 ## Links
 
 **Parent MOC:** 
-**Source:** _Risks_L-001-0012]]
-**Related:** [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]], [[Denosumab_Bisphosphonate_Transition_Protocol_Z-001-0087]]
+**Source:** _Risks_L-001-0012]
+**Related:** [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085], [[Denosumab_Bisphosphonate_Transition_Protocol_Z-001-0087]
 
 ---
 
@@ -29,4 +29,4 @@ Upon discontinuation of denosumab, patients may experience rapid increase in bon
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

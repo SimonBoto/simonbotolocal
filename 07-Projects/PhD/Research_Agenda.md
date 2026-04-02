@@ -42,7 +42,7 @@ status: active
 **Hypothesis:**  
 Let's work with the introduction first, like insulin resistance, the metabolic imbalance behind common chronic disease, title 1, or maybe title 2, the problem with diagnosing insulin resistance, metabolomics for a metabolic disease...
 
-**Source:** [[X_HYP_Insulin_Resistance_Introduction_X-CON-240609-01]] (2024-06-09)  
+**Source:** [[X_HYP_Insulin_Resistance_Introduction_X-CON-240609-01] (2024-06-09)  
 **Theme:** metabolomics  
 **Testability:** clinical  
 **Status:** ⏸️ Untested
@@ -59,7 +59,7 @@ Let's work with the introduction first, like insulin resistance, the metabolic i
 **Hypothesis:**  
 Now for the analysis of the results I want to use pathway analysis, network analysis and try to create a prediction tool using metabolomics for insulin resistance...
 
-**Source:** [[X_HYP_Pathway_Analysis_Prediction_Tool_X-CON-240303-01]] (2024-03-03)  
+**Source:** [[X_HYP_Pathway_Analysis_Prediction_Tool_X-CON-240303-01] (2024-03-03)  
 **Theme:** metabolomics  
 **Testability:** clinical  
 **Status:** ⏸️ Untested
@@ -81,7 +81,7 @@ Now for the analysis of the results I want to use pathway analysis, network anal
 **Hypothesis:**  
 "Exploring the Synergy of Vitamin D and Vitamin K2 in Metabolic Syndrome: A Narrative Review of Mechanisms and Therapeutic Implications"...
 
-**Source:** [[X_HYP_Vitamin_D_K2_Synergy_X-INS-241116-01]] (2024-11-16)  
+**Source:** [[X_HYP_Vitamin_D_K2_Synergy_X-INS-241116-01] (2024-11-16)  
 **Theme:** insulin_resistance  
 **Status:** ⏸️ Not started
 
@@ -97,7 +97,7 @@ Now for the analysis of the results I want to use pathway analysis, network anal
 **Hypothesis:**  
 Should I be detailed in mechanisms of action, production, activation of vitamin d and k2...
 
-**Source:** [[X_HYP_Vitamin_D_K2_Mechanisms_X-CON-241203-01]] (2024-12-03)  
+**Source:** [[X_HYP_Vitamin_D_K2_Mechanisms_X-CON-241203-01] (2024-12-03)  
 **Theme:** vitamin_d  
 **Status:** ⏸️ Not started
 
@@ -116,21 +116,21 @@ Should I be detailed in mechanisms of action, production, activation of vitamin 
 ### 1. Hypothesis: Clothing choice
 
 **Hypothesis:** What if I wear black suede boots, deep green cotle pants, black zivago and a deep brown long jacket?...  
-**Source:** [[X_HYP_Clothing_Choice_X-TEC-240220-01]]  
+**Source:** [[X_HYP_Clothing_Choice_X-TEC-240220-01]  
 **Theme:** technology  
 **Status:** ⏸️ Not applicable
 
 ### 2. Hypothesis: OPLS-DA permutation test
 
 **Hypothesis:** To validate the robustness of the OPLS-DA model, a permutation test...  
-**Source:** [[X_HYP_OPLS_DA_Permutation_X-PHD-240315-01]]  
+**Source:** [[X_HYP_OPLS_DA_Permutation_X-PHD-240315-01]  
 **Theme:** phd_research  
 **Status:** ⏸️ Methodology reference
 
 ### 3. Hypothesis: Maybe my unborn child?
 
 **Hypothesis:** Maybe my unborn child?...  
-**Source:** [[X_HYP_Unborn_Child_X-CON-240501-01]]  
+**Source:** [[X_HYP_Unborn_Child_X-CON-240501-01]  
 **Theme:** communication  
 **Status:** ⏸️ Personal
 
@@ -206,10 +206,10 @@ Various hypotheses about AI limitations, GPT freedom, consciousness, etc.
 
 ## RELATED
 
-- [[00-INDEX]] — PhD project hub
-- [[S_ChatGPT_Processing_Workflow_S-001-0001]] — How to process
-- [[MOC-Insulin-Signaling]] — Mechanism maps
-- [[MOC-Biomarkers]] — Classification system
+- [[00-INDEX] — PhD project hub
+- [[S_ChatGPT_Processing_Workflow_S-001-0001] — How to process
+- [[MOC-Insulin-Signaling] — Mechanism maps
+- [[MOC-Biomarkers] — Classification system
 
 ---
 

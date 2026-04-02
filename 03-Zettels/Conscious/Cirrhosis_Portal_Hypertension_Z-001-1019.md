@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, cirrhosis, portal-hypertension, meld-na, tips, varices, ascites, hepatic-encephalopathy, liver-failure, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]]
+source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious
 ---
 
@@ -413,13 +413,13 @@ MELD-Na = MELD + 1.32×(137-Na) - [0.033×MELD×(137-Na)]
 
 ---
 
-**Related:** [[Acute_Variceal_Bleeding_Management_Z-001-1024]] | [[TIPS_Procedure_Technique_Complications_Z-001-1025]] | [[Hepatic_Encephalopathy_Precipitants_Z-001-1026]]
+**Related:** [[Acute_Variceal_Bleeding_Management_Z-001-1024] | [[TIPS_Procedure_Technique_Complications_Z-001-1025] | [[Hepatic_Encephalopathy_Precipitants_Z-001-1026]
 
 **Source:** CGPT-0209 — Gastroenterology Registrar Assessment
 
 
 ## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

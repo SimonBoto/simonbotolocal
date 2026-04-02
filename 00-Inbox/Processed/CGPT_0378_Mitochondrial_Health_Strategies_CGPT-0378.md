@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Mitochondrial Health Strategies"
 date: 2024-05-21
 source: ChatGPT conversation history
-aliases: [CGPT-0378]
+aliases: CGPT-0378]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, nutrition]
 status: archived
 ---

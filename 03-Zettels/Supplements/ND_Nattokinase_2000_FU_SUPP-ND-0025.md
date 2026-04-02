@@ -97,9 +97,9 @@ Take 1 capsule daily with water or as directed by your physician.
 | 1 | €0.28 | 2000 FU | Maintenance |
 
 ## Biomarker Links
-- [[D-Dimer_Fibrin_Degradation_Z-008-XXXX]] — clot breakdown marker
-- [[Fibrinogen_Clotting_Factor_Z-008-XXXX]] — clotting protein
-- [[Blood_Pressure_Cardiovascular_Z-008-XXXX]] — nattokinase may modestly lower
+- [[D-Dimer_Fibrin_Degradation_Z-008-XXXX] — clot breakdown marker
+- [[Fibrinogen_Clotting_Factor_Z-008-XXXX] — clotting protein
+- [[Blood_Pressure_Cardiovascular_Z-008-XXXX] — nattokinase may modestly lower
 
 ## Comparison with Other Cardiovascular Supplements
 | Feature | Nattokinase | Omega-3 (Clear Omega 3) |

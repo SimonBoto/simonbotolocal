@@ -18,6 +18,6 @@ Common confusion:
 
 Use pattern:
 - Symptoms/risk + ambiguous serum B12 → MMA is a strong clarifier.
-- Pair with [[Homocysteine]] to map whether the issue is “B12-only” or “network.”
+- Pair with [[Homocysteine] to map whether the issue is “B12-only” or “network.”
 
-Related: [[Cobalamin_Vitamin_B12_20260215_078]], [[Dictionary_One_Carbon_Metabolism]], [[Homocysteine]], [[111_Hub_Methylation]]
+Related: [[Cobalamin_Vitamin_B12_20260215_078], [[Dictionary_One_Carbon_Metabolism], [[Homocysteine], [[111_Hub_Methylation]

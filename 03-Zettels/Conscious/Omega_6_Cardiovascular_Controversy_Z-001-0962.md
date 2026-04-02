@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, omega-6, cardiovascular, controversy, evidence-synthesis, rcts, observational, conscious]
 parent-moc: 
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Epidemiological_Evidence_L-001-0525]]
+source-litnote: [[LitNote_Epidemiological_Evidence_L-001-0525]
 status: conscious
 ---
 
@@ -228,21 +228,21 @@ The omega-6 controversy reflects:
 
 ---
 
-**Related:** [[Sydney_Diet_Heart_Study_Reanalysis_Z-001-0960]] | [[Minnesota_Coronary_Experiment_Reanalysis_Z-001-0961]] | [[Industry_Funding_Bias_PUFA_Research_Z-001-0964]] | [[Omega_6_Omega_3_Ratio_Evolutionary_Context_Z-001-0948]]
+**Related:** [[Sydney_Diet_Heart_Study_Reanalysis_Z-001-0960] | [[Minnesota_Coronary_Experiment_Reanalysis_Z-001-0961] | [[Industry_Funding_Bias_PUFA_Research_Z-001-0964] | [[Omega_6_Omega_3_Ratio_Evolutionary_Context_Z-001-0948]
 
 **Source:** CGPT-0282 — Seed Oils and Chronic Diseases
 
 
 ## Related
-- [[IOM_Defensive_Response_to_Critique_Z-001-0060]|Z-001-0060]]
+- [[IOM_Defensive_Response_to_Critique_Z-001-0060]|Z-001-0060]
 
 
 ## Related
-- [[ADA_Guideline_Controversies_Evolution_Z-001-0243]|Z-001-0243]]
+- [[ADA_Guideline_Controversies_Evolution_Z-001-0243]|Z-001-0243]
 
 
 ## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954]|Z-001-0954]]
+- [[CRP_[B-002-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954]|Z-001-0954]

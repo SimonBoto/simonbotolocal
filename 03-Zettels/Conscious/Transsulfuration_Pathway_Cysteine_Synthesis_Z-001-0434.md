@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, transsulfuration, cbs, cysteine, b6]
 parent-moc: 
 status: conscious
-source-litnote: [[LitNote_Methionine_Catabolism_L-001-0406]]
+source-litnote: [[LitNote_Methionine_Catabolism_L-001-0406]
 extraction-date: 2026-03-01
 ---
 
@@ -54,9 +54,9 @@ Cystathionine → Cysteine + α-Ketobutyrate + NH₃
 
 ---
 
-*Source: [[LitNote_Methionine_Catabolism_L-001-0406]]*
+*Source: [[LitNote_Methionine_Catabolism_L-001-0406]*
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 

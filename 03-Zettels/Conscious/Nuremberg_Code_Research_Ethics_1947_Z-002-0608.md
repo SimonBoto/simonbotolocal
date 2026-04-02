@@ -7,7 +7,7 @@ domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, historical, informed-consent]
 parent-moc: 
-source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]]"
+source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]"
 confidence: high
 created: 2026-03-27
 ---
@@ -53,8 +53,8 @@ The Nuremberg Code established principles later incorporated into:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]]  
-**Related:** [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]] — U.S. implementation
+**Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]  
+**Related:** [[Belmont_Report_Ethical_Principles_1979_Z-002-0610] — U.S. implementation
 
 ---
 

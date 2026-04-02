@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Style and Clothing Strategy"
 date: 2025-05-03
 source: ChatGPT conversation history
-aliases: [CGPT-0091]
+aliases: CGPT-0091]
 tags: [chatgpt-archive, general]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Seed oils history and process"
 date: 2024-06-29
 source: ChatGPT conversation history
-aliases: [CGPT-0340]
+aliases: CGPT-0340]
 tags: [chatgpt-archive, nutrition]
 status: archived
 ---

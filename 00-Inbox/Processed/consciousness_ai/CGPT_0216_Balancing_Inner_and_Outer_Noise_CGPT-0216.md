@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Balancing Inner and Outer Noise"
 date: 2024-12-27
 source: ChatGPT conversation history
-aliases: [CGPT-0216]
+aliases: CGPT-0216]
 tags: [chatgpt-archive, consciousness_ai, communication, personal_development]
 status: archived
 ---

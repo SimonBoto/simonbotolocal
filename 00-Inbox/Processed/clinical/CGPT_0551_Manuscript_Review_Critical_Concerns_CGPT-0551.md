@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Manuscript Review: Critical Concerns"
 date: 2023-09-24
 source: ChatGPT conversation history
-aliases: [CGPT-0551]
+aliases: CGPT-0551]
 tags: [chatgpt-archive, clinical, nutrition]
 status: archived
 ---

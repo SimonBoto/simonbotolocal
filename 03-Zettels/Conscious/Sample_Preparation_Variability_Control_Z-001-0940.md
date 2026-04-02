@@ -119,11 +119,11 @@ Sample preparation introduces **greater variation than biological differences** 
 - Serum and plasma mixed
 
 ## Related Zettels
-- [[Batch_Effects_Detection_Correction_Metabolomics_Z-001-0939]] — Analytical variation
-- [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941]] — Instrument variation
+- [[Batch_Effects_Detection_Correction_Metabolomics_Z-001-0939] — Analytical variation
+- [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941] — Instrument variation
 
 ## Source
-[[LitNote_Technical_Confounders_Metabolomics_L-001-0520]]
+[[LitNote_Technical_Confounders_Metabolomics_L-001-0520]
 
 ---
 
@@ -132,6 +132,6 @@ Sample preparation introduces **greater variation than biological differences** 
 
 
 ## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

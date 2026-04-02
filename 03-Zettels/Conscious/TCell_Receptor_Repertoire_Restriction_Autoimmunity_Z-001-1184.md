@@ -6,7 +6,7 @@ domain: 001
 tags: [zettel, tcr, repertoire, clonality, autoimmunity, oligoclonal]
 parent-moc: 
 extraction-date: 2026-03-08
-source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]]"
+source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]"
 status: conscious
 ---
 
@@ -144,13 +144,13 @@ Reduced Repertoire Diversity
 
 ## Related
 
-- [[Naive_TCell_Depletion_Autoimmunity_Z-001-1182]]
-- [[CD28_Negative_TCells_Exhausted_vs_Senescent_Z-001-1183]]
+- [[Naive_TCell_Depletion_Autoimmunity_Z-001-1182]
+- [[CD28_Negative_TCells_Exhausted_vs_Senescent_Z-001-1183]
 
 ---
 
-*Source: [[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]] | 2026-03-08*
+*Source: [[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626] | 2026-03-08*
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

@@ -6,7 +6,7 @@ aliases: [Z-101-0468]
 domain: 101
 tags: [zettel, oxalate, clinical, kidney-stones, mineral-absorption, nephrology, conscious]
 parent-moc: 
-source-litnote: [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]]
+source-litnote: [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]
 status: conscious
 ---
 
@@ -53,7 +53,7 @@ status: conscious
 - Chronic pancreatitis
 
 ### 4. Primary Hyperoxaluria (Genetic)
-See _Z-101-0467]] for detailed genetics
+See _Z-101-0467] for detailed genetics
 
 ## Clinical Management Strategies
 
@@ -89,17 +89,17 @@ See _Z-101-0467]] for detailed genetics
 - **Analytical challenge:** Both are dicarboxylic acids — need chromatographic separation
 
 ## Related
-- **Source:** [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]]
-- **Metabolism:** [[Amino_Acid_to_Oxalate_Metabolism_Z-101-0467]]
-- **Dietary sources:** [[Oxalic_Acid_Dietary_Sources_Z-101-0466]]
+- **Source:** [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]
+- **Metabolism:** [[Amino_Acid_to_Oxalate_Metabolism_Z-101-0467]
+- **Dietary sources:** [[Oxalic_Acid_Dietary_Sources_Z-101-0466]
 
 ---
 *Created: 2026-03-28 | Domain: 101 | Status: Conscious*
 
 
 ## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]]
-- [[Iron_Family_[B-003-0001]|Biomarker Family]]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+- [[Iron_Family_[B-003-0001]|Biomarker Family]
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 

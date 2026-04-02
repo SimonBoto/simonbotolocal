@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Battery type inquiry"
 date: 2025-01-12
 source: ChatGPT conversation history
-aliases: [CGPT-0194]
+aliases: CGPT-0194]
 tags: [chatgpt-archive, general]
 status: archived
 ---

@@ -4,7 +4,7 @@ type: chatgpt-archive
 title: "Metabolite Imbalance Analysis"
 date: 2024-07-24
 source: ChatGPT conversation history
-aliases: [CGPT-0321]
+aliases: CGPT-0321]
 tags: [chatgpt-archive, metabolomics, nutrition]
 status: archived
 ---

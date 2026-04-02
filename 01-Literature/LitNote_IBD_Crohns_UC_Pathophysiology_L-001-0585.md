@@ -16,7 +16,7 @@ domain: 001
 # Inflammatory Bowel Disease — Crohn's vs Ulcerative Colitis Pathophysiology
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0209_Gastroenterology_Registrar_Assessment_[CGPT-0209]] (Question 1)
+- **ChatGPT conversation:** [[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209] (Question 1)
 - **Date:** November 18, 2025
 - **Scope:** IBD mechanisms, Crohn's vs UC differences
 

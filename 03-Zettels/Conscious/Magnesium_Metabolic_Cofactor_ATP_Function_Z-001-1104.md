@@ -7,8 +7,8 @@ domain: 001
 domain-name: Vitamin Metabolism
 tags: [zettel, magnesium, atp, cofactor, kinase]
 parent-moc: 
-source-litnote: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
-source: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]]
+source-litnote: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]
+source: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]
 confidence: high
 created: 2026-03-08
 ---
@@ -89,7 +89,7 @@ Magnesium is essential for ATP function and serves as cofactor for over 300 enzy
 - **Symptoms:** Often precede lab abnormalities
 
 ## Related
-- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]]
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]
 | 
 
 ---
@@ -97,5 +97,5 @@ Magnesium is essential for ATP function and serves as cofactor for over 300 enzy
 
 
 ## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
