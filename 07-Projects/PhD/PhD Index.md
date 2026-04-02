@@ -1,19 +1,33 @@
 ---
 uid: PRJ-PHD-0001
-type: project-index
-title: "PhD Project — METHAP Trial & Metabolomics Research"
+type: index
+title: "PhD Index"
 date: 2026-04-02
 aliases: [PhD-INDEX, METHAP, PhD-Project]
-tags: [phd, project, methap, metabolomics, research]
+tags: [index, phd, methap, metabolomics, research]
 status: blocked
 ---
 
-# PhD Project — METHAP Trial & Metabolomics Research
+# 🔬 PhD Index
 
-> **Metabolomics and High-dose Vitamin D in Hashimoto's Thyroiditis**  
-> **Lead:** Dr. Simos X  
-> **Status:** ⏸️ BLOCKED — University administrative delays  
-> **Original Timeline:** IRB submission — March 15, 2026 (MISSED)
+> **METHAP Trial & Metabolomics Research**  
+> Metabolomics and High-dose Vitamin D in Hashimoto's Thyroiditis
+
+---
+
+## 📁 ALL PHD NOTES
+
+| Note | Purpose |
+|------|---------|
+| [[PhD Index]] | This index — PhD hub |
+| [[Research_Agenda]] | 62 hypotheses prioritized |
+
+---
+
+## 🚧 STATUS
+
+⏸️ **BLOCKED** — University administrative delays  
+Original IRB target: March 15, 2026 (MISSED)
 
 ---
 
@@ -97,12 +111,13 @@ While waiting for university:
 
 ---
 
-## 🔗 CONNECTIONS
+## 🔗 CONNECTION TO VAULT
 
-**Research Agenda:** [[Research_Agenda]] — 62 hypotheses from 2 years  
-**Biomarker MOC:** [[MOC-Biomarkers]] — Classification system  
-**Insulin Signaling:** [[MOC-Insulin-Signaling]] — Mechanism maps  
-**ChatGPT Synthesis:** [[S_ChatGPT_Methodology_Evolution_S-001-0001]] — Methodology evolution
+- Up: [[07 Projects Index]]
+- Related: [[Clinic Index]] (research feeds clinic)
+- Source: [[Research_Agenda]] — 62 hypotheses from 2 years
+- Biomarkers: [[MOC-Biomarkers]] — Classification system
+- Mechanisms: [[MOC-Insulin-Signaling]] — Mechanism maps
 
 ---
 

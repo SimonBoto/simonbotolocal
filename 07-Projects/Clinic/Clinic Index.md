@@ -1,19 +1,27 @@
 ---
 uid: PRJ-CLN-0001
-type: project-index
-title: "Metabolomic Medicine Clinic — Operations & Training"
+type: index
+title: "Clinic Index"
 date: 2026-04-02
 aliases: [CLINIC-INDEX, Clinic-Project]
-tags: [clinic, project, operations, training, metabolomics]
+tags: [index, clinic, operations, training, metabolomics]
 status: active
 ---
 
-# 🏥 Metabolomic Medicine Clinic
+# 🏥 Clinic Index
 
-> **Functional Holistic Medicine & Metabolomics**  
-> **Location:** Athens, Greece — Petralona area  
-> **Lead:** Dr. Simos X  
-> **Status:** ✅ OPERATIONAL — 4.5 years experience
+> **Metabolomic Medicine Clinic — Operations & Training**  
+> Functional Holistic Medicine & Metabolomics in Athens, Greece
+
+---
+
+## 📁 ALL CLINIC NOTES
+
+| Note | Purpose |
+|------|---------|
+| [[Clinic Index]] | This index — clinic hub |
+| [[Appointment_Types]] | 7 appointment types defined |
+| [[Schedule_Petralona]] | Weekly schedule and rhythm |
 
 ---
 
@@ -26,22 +34,11 @@ status: active
 
 ---
 
-## 📁 PROJECT STRUCTURE
-
-| Folder | Purpose | Status |
-|--------|---------|--------|
-| **Operations/** | Daily workflows, schedules, appointment types | ✅ Active |
-| **Training/** | Doctors curriculum, nutritionists guide | 🟡 To develop |
-| **B2B/** | Partnership pipeline, business development | ⚪ Future |
-| **Patient_Resources/** | Intake forms, educational materials | 🟡 To develop |
-
----
-
 ## 🔧 OPERATIONS
 
 ### Current Workflows
-- [[Operations/Appointment_Types]] — 7 appointment types defined
-- [[Operations/Schedule_Petralona]] — Weekly rhythm and protected time
+- [[Appointment_Types]] — 7 appointment types defined
+- [[Schedule_Petralona]] — Weekly rhythm and protected time
 
 ### Workflow Gaps
 - [ ] Result email templates (Obsidian → Desknet)
@@ -80,9 +77,17 @@ status: active
 | Date | Milestone | Evidence |
 |------|-----------|----------|
 | 2024-05-01 | 4.5 years at clinic | Experience milestone |
-| 2026-02-25 | Appointment types documented | Appointment_Types.md |
-| 2026-02-25 | Schedule documented | Schedule_Petralona.md |
-| 2026-04-02 | Clinic operations folder created | 01-CLINIC/ structure |
+| 2026-02-25 | Appointment types documented | [[Appointment_Types]] |
+| 2026-02-25 | Schedule documented | [[Schedule_Petralona]] |
+| 2026-04-02 | Clinic operations folder created | Clinic/ structure |
+
+---
+
+## 🔗 CONNECTION TO VAULT
+
+- Up: [[07 Projects Index]]
+- Related: [[PhD Index]] (research feeds clinic)
+- Source: [[03 Zettels Index]] (bootcamp materials)
 
 ---
 

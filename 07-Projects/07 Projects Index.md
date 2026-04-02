@@ -1,14 +1,14 @@
 ---
 uid: PRJ-ROOT-0001
-type: project-index
-title: "Projects — Master Dashboard"
+type: index
+title: "07 Projects Index"
 date: 2026-04-02
 aliases: [PROJECTS-INDEX, 07-Projects-INDEX]
-tags: [projects, dashboard, index]
+tags: [index, projects, dashboard]
 status: active
 ---
 
-# 🔺 Projects — Master Dashboard
+# 07 Projects Index
 
 > **Active work across Clinic, PhD, and Personal domains**
 
@@ -18,9 +18,25 @@ status: active
 
 | Domain | Folder | Status | Priority |
 |--------|--------|--------|----------|
-| **🏥 Clinic** | [[01-CLINIC/00-INDEX]] | ✅ Operational | P1 |
-| **🔬 PhD** | [[02-PhD/00-INDEX]] | ⏸️ Blocked | P0 (when unblocked) |
-| **🎯 Personal** | [[03-PERSONAL/00-INDEX]] | ⏸️ On hold | P2 |
+| **🏥 Clinic** | [[Clinic Index]] | ✅ Operational | P1 |
+| **🔬 PhD** | [[PhD Index]] | ⏸️ Blocked | P0 (when unblocked) |
+| **🎯 Personal** | [[Personal Index]] | ⏸️ On hold | P2 |
+
+---
+
+## 🗂️ ALL PROJECT NOTES
+
+### Clinic
+- [[Clinic Index]] — Clinic operations hub
+- [[Clinic/Appointment_Types]] — 7 appointment types
+- [[Clinic/Schedule_Petralona]] — Weekly schedule
+
+### PhD
+- [[PhD Index]] — PhD project hub
+- [[PhD/Research_Agenda]] — 62 hypotheses prioritized
+
+### Personal
+- [[Personal Index]] — Personal projects hub
 
 ---
 
@@ -55,9 +71,11 @@ status: active
 
 ---
 
-## 🗂️ ARCHIVE
+## CONNECTION TO VAULT
 
-Legacy/superseded project files: [[99-ARCHIVE/]]
+- Up: [[08 Structure Index]]
+- Down: [[Clinic Index]], [[PhD Index]], [[Personal Index]]
+- Archive: [[09 Archive Index]]
 
 ---
 

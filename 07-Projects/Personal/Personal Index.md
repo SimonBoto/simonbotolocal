@@ -1,16 +1,29 @@
 ---
 uid: PRJ-PRS-0001
-type: project-index
-title: "Personal Projects — Beyond Medicine"
+type: index
+title: "Personal Index"
 date: 2026-04-02
 aliases: [PERSONAL-INDEX]
-tags: [personal, projects, side-business, skills]
+tags: [index, personal, projects, side-business, skills]
 status: active
 ---
 
-# 🎯 Personal Projects
+# 🎯 Personal Index
 
-> **Side business, skills, and life outside the clinic**
+> **Personal Projects — Beyond Medicine**  
+> Side business, skills, and life outside the clinic
+
+---
+
+## 📁 ALL PERSONAL NOTES
+
+| Note | Purpose |
+|------|---------|
+| [[Personal Index]] | This index — Personal hub |
+
+---
+
+## 🍯 Beeswax-Tallow Edible Cream
 
 ---
 
@@ -57,6 +70,13 @@ All personal projects deprioritized until:
 1. PhD unblocked OR
 2. Clinic training curriculum complete OR
 3. Vacation ends (April 27, 2026) and rhythm established
+
+---
+
+## 🔗 CONNECTION TO VAULT
+
+- Up: [[07 Projects Index]]
+- Related: [[Clinic Index]], [[PhD Index]]
 
 ---
 

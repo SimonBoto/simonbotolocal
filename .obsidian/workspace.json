@@ -11,24 +11,10 @@
             "id": "f010d4b0e2682ff5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Literature/LitNote_Aconitase_Enzyme_L-001-0508.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LitNote_Aconitase_Enzyme_L-001-0508"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"memory/\" ",
+                "query": "path:\"memory/\" [\"aliases\":",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,12 +194,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "0be6d9b90b67060b",
   "lastOpenFiles": [
+    "07-Projects/Personal/Personal Index.md",
+    "07-Projects/PhD/PhD Index.md",
+    "07-Projects/Clinic/Clinic Index.md",
+    "08-Structure/Templates/Templates Index.md",
+    "08-Structure/System/System Index.md",
+    "08-Structure/Protocols/Protocols Index.md",
+    "08-Structure/MOCs/MOCs Index.md",
+    "08-Structure/Keywords/Keywords Index.md",
+    "08-Structure/08 Structure Index.md",
+    "08-Structure/Daily/Daily Index.md",
+    "08-Structure/Dashboards/Dashboards Index.md",
+    "08-Structure/06-Structure.md",
+    "09-Archive/09 Archive Index.md",
+    "07-Projects/07 Projects Index.md",
+    "07-Projects/07 Projects Index.md.bak",
+    "01-Literature/LitNote_Aconitase_Enzyme_L-001-0508.md",
+    "00-Inbox/00 Inbox Index.md",
     "07-Projects/Personal/00-Index.md",
     "07-Projects/PhD/00-Index.md",
     "07-Projects/Clinic/00-Index.md",
-    "07-Projects/07 Projects Index.md",
     "07-Projects/Personal/00-INDEX.md",
     "07-Projects/Personal",
     "07-Projects/PhD/Research_Agenda.md",
@@ -225,26 +228,10 @@
     "07-Projects/Clinic/00-INDEX.md",
     "07-Projects/Clinic",
     "07-Projects/07 Projects index.md",
-    "07-Projects/personal/00-INDEX.md",
     "07-Projects/personal",
-    "07-Projects/phd/Research_Agenda.md",
-    "07-Projects/phd/00-INDEX.md",
     "07-Projects/phd",
     "07-Projects/clinic/Training",
-    "07-Projects/clinic/Schedule_Petralona.md",
     "07-Projects/clinic/B2B",
-    "07-Projects/clinic/Appointment_Types.md",
-    "07-Projects/clinic/00-INDEX.md",
-    "07-Projects/clinic",
-    "07-Projects/CLINIC/Schedule_Petralona.md",
-    "07-Projects/CLINIC/Appointment_Types.md",
-    "07-Projects/PERSONAL/00-INDEX.md",
-    "07-Projects/CLINIC/Operations/Schedule_Petralona.md",
-    "07-Projects/CLINIC/Operations/Appointment_Types.md",
-    "07-Projects/CLINIC/00-INDEX.md",
-    "08-Structure/System/00-INDEX.md",
-    "07-Projects/99-ARCHIVE/METHAP_Baseline_Intake_Form_v1.md",
-    "07-Projects/99-ARCHIVE/02-Literature_Open_Issues_S-001-0003.md",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
