@@ -2,13 +2,12 @@
 uid: Z-001-1078
 type: zettel
 title: Metabolomics Quality Standards
-aliases: [Z-001-1078, Quality-Standards]
+aliases: ["Quality-Standards"]
 domain: 001
 domain-name: Clinical Protocols
 tags: [zettel, quality, standards, metabolomics]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]
-source: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]
+parent-moc: "[[MOC-Metabolomics-Training]]"
+source-litnote: "[[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]"
 confidence: high
 created: 2026-03-08
 ---

@@ -2,13 +2,12 @@
 uid: Z-001-1079
 type: zettel
 title: Follow Up Assessment Rhythms
-aliases: [Z-001-1079, Follow-Up]
+aliases: ["Follow-Up"]
 domain: 001
 domain-name: Clinical Protocols
 tags: [zettel, follow-up, assessment, schedule]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]
-source: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]
+parent-moc: "[[MOC-Metabolomics-Training]]"
+source-litnote: "[[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]"
 confidence: high
 created: 2026-03-08
 ---
