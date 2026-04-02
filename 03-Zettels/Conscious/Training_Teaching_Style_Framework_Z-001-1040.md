@@ -1,21 +1,27 @@
 ---
 uid: Z-001-1040
 type: zettel
-title: Training Teaching Style Framework
-aliases: [Z-001-1040, Teaching-Styles]
-domain: 001
-domain-name: Clinical Training
+title: "Training Teaching Style Framework"
+aliases: ["Teaching-Styles"]
+domain: "001"
 tags: [zettel, pedagogy, teaching, training-style]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: "[[MOC-Metabolomics-Training]]"
 source-litnote: "[[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
 # Training Teaching Style Framework
 
-## Overview
-Three pedagogical approaches for  training, each suited to different trainee personalities and clinic contexts.
+Three pedagogical approaches for metabolomics training, each suited to different trainee personalities and clinic contexts.
+
+## Evidence
+> "Military Instructor vs Socratic Mentor vs Hybrid Precision. Choose based on trainee personality and clinic needs." (ChatGPT, 2025)
+
+## Context
+Teaching style selection significantly impacts trainee outcomes. The framework provides decision criteria for matching approach to context.
+
+---
 
 ## Style A: Military Instructor
 
@@ -65,7 +71,7 @@ Three pedagogical approaches for  training, each suited to different trainee per
 ### Best For
 - Philosophically-minded trainees
 - Long-term development
-- -oriented contexts
+- Research-oriented contexts
 
 ## Style C: Hybrid Precision (Recommended)
 
@@ -84,7 +90,7 @@ Three pedagogical approaches for  training, each suited to different trainee per
 - Define non-negotiables (military)
 - Explore reasoning pathways (Socratic)
 - Correct errors immediately (military)
-- Build  judgment (Socratic)
+- Build clinical judgment (Socratic)
 
 ### Best For
 - Most clinical training contexts
@@ -102,25 +108,16 @@ Choose based on:
 ## Recommendation
 **Default to Hybrid Precision.** Adjust ratio based on trainee response.
 
-## Related
-- [[Socratic_Method_Metabolomics_Training_Z-001-1033]
-- [[Bootcamp_Four_Phase_Structure_Z-001-1035]
-- 
-
----
-*Source: CGPT-0022 — ChatGPT training synthesis*
-
-
-## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]
-- 
-
 ---
 
-## Connection to Vault
+## Structural Links
+- **Up:** [[MOC-Metabolomics-Training]] — Thematic entry (Clinical Track)
+- **Source:** [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]] — LitNote origin
+- **Citation:** (ChatGPT, 2025)
 
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Lateral Links
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Curriculum architecture
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]] — Where teaching style applies
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+*Z-001-1040 | Created: 2026-03-08 | Source: ChatGPT, 2025*

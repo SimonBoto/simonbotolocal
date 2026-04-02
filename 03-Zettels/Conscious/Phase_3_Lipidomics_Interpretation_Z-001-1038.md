@@ -1,24 +1,27 @@
 ---
 uid: Z-001-1038
 type: zettel
-title: Phase 3 Lipidomics Interpretation
-aliases: [Z-001-1038, Phase-3-Lipids]
-domain: 001
-domain-name: Fatty Acid Metabolism
-tags: [zettel, fatty-acids, lipidomics, ratios]
-parent-moc: [[MOC-Insulin-Signaling]]
+title: "Phase 3 Lipidomics Interpretation"
+aliases: ["Phase-3-Lipids"]
+domain: "001"
+tags: [zettel, fatty-acids, lipidomics, ratios, training]
+parent-moc: "[[MOC-Metabolomics-Training]]"
 source-litnote: "[[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
 # Phase 3 Lipidomics Interpretation
 
-## Overview
 Weeks 5-6 of bootcamp: Mastering fatty acid analysis and lipid-based clinical reasoning.
 
-## Core Philosophy
-> "Ratios matter, not absolutes."
+## Evidence
+> "Ratios matter, not absolutes." (ChatGPT, 2025)
+
+## Context
+Lipidomics interpretation requires ratio-based thinking, not absolute values. Fatty acid patterns reveal diet truths and metabolic status.
+
+---
 
 ## Week 5: Physiology + Interpretation
 
@@ -33,11 +36,11 @@ Weeks 5-6 of bootcamp: Mastering fatty acid analysis and lipid-based clinical re
 | Ratio | Target | Meaning |
 |-------|--------|---------|
 | Chol/HDL | < 4 | Cardiometabolic risk |
-| HDL/TG | > 1 |  sensitivity proxy |
+| HDL/TG | > 1 | Insulin sensitivity proxy |
 | LDL/ApoB | > 1.2 | Particle size quality |
 | Omega-3 Index | > 7% | Anti-inflammatory status |
 | Omega-6:3 | 2-4:1 | Pro/anti-inflammatory balance |
-| SFA balance | Context-dependent | l fluidity |
+| SFA balance | Context-dependent | Membrane fluidity |
 
 ### Key Concepts
 - **Delta-5 and delta-6 desaturase logic** — Rate-limiting enzymes in PUFA conversion
@@ -49,7 +52,7 @@ Weeks 5-6 of bootcamp: Mastering fatty acid analysis and lipid-based clinical re
 
 ### Clinical Skills
 1. **Diet truth detection** — Fatty acid patterns reveal what patients don't admit
-2. ** signatures** — Specific lipid patterns flag inflammation
+2. **Inflammation signatures** — Specific lipid patterns flag inflammation
 3. **Intervention matching** — Which supplements correct which patterns
 4. **Lipid-mitochondria-OAT integration** — Cross-panel reasoning
 
@@ -61,28 +64,17 @@ Weeks 5-6 of bootcamp: Mastering fatty acid analysis and lipid-based clinical re
 ## Clinical Pearl
 > "How fatty acid patterns reveal diet truths patients lie about."
 
-## Related
-- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]
-- [[Bootcamp_Four_Phase_Structure_Z-001-1035]
-- 
-- 
-
----
-*Source: CGPT-0022 — ChatGPT training synthesis*
-
-
-## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-
 ---
 
-## Connection to Vault
+## Structural Links
+- **Up:** [[MOC-Metabolomics-Training]] — Thematic entry (Clinical Track)
+- **Source:** [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]] — LitNote origin
+- **Citation:** (ChatGPT, 2025)
 
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Lateral Links
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]] — Previous phase
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]] — Next phase
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Overall architecture
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+*Z-001-1038 | Created: 2026-03-08 | Source: ChatGPT, 2025*

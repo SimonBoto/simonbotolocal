@@ -1,21 +1,27 @@
 ---
 uid: Z-001-1039
 type: zettel
-title: Phase 4 Clinical Integration Drills
-aliases: [Z-001-1039, Phase-4-Integration]
-domain: 001
-domain-name: Clinical Training
-tags: [zettel, clinical-integration, case-based-learning]
-parent-moc: [[MOC-Insulin-Signaling]]
+title: "Phase 4 Clinical Integration Drills"
+aliases: ["Phase-4-Integration"]
+domain: "001"
+tags: [zettel, clinical-integration, case-based-learning, training]
+parent-moc: "[[MOC-Metabolomics-Training]]"
 source-litnote: "[[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
 # Phase 4 Clinical Integration Drills
 
-## Overview
 Weeks 7-8 of bootcamp: Synthesizing all knowledge into independent clinical competence.
+
+## Evidence
+> "The 'metabolomics brain' being formed. Energy-first reasoning, cellular detox, membrane reconstruction." (ChatGPT, 2025)
+
+## Context
+Integration phase produces metabolomics clinicians, not pathway parrots. Trainees must demonstrate independent clinical reasoning.
+
+---
 
 ## Week 7: Integration — The Skill They Actually Need
 
@@ -30,8 +36,8 @@ Trainees learn to integrate simultaneously:
 
 #### Algorithm 1: Energy-First Reasoning
 > "Is this primarily an energy problem?"
-- Check: Lactate, pyruvate, BHB, l markers
-- Priority:  support before other interventions
+- Check: Lactate, pyruvate, BHB, mitochondrial markers
+- Priority: ATP support before other interventions
 - Sequence: ATP before detox, gut, hormones
 
 #### Algorithm 2: Cellular Detox + Methylation
@@ -72,30 +78,17 @@ By end of Week 8, trainees must demonstrate:
 - [ ] Speak patient-friendly language
 - [ ] Fit into clinic workflow without chaos
 
-## The Goal
-> "This produces  clinicians, not pathway parrots."
-
-## Related
-- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]
-- [[Bootcamp_Four_Phase_Structure_Z-001-1035]
-- 
-
----
-*Source: CGPT-0022 — ChatGPT training synthesis*
-
-
-## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-- 
-
 ---
 
-## Connection to Vault
+## Structural Links
+- **Up:** [[MOC-Metabolomics-Training]] — Thematic entry (Clinical Track)
+- **Source:** [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]] — LitNote origin
+- **Citation:** (ChatGPT, 2025)
 
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Lateral Links
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]] — Previous phase
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Overall architecture
+- [[Training_Teaching_Style_Framework_Z-001-1040]] — Pedagogical approach
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+*Z-001-1039 | Created: 2026-03-08 | Source: ChatGPT, 2025*

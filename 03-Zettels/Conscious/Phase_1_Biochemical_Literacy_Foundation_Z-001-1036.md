@@ -1,21 +1,27 @@
 ---
 uid: Z-001-1036
 type: zettel
-title: Phase 1 Biochemical Literacy Foundation
-aliases: [Z-001-1036, Phase-1-Foundation]
-domain: 001
-domain-name: Clinical Training
-tags: [zettel, biochemistry, foundation, metabolism]
-parent-moc: [[MOC-Insulin-Signaling]]
+title: "Phase 1 Biochemical Literacy Foundation"
+aliases: ["Phase-1-Foundation"]
+domain: "001"
+tags: [zettel, biochemistry, foundation, metabolism, training]
+parent-moc: "[[MOC-Metabolomics-Training]]"
 source-litnote: "[[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
 # Phase 1 Biochemical Literacy Foundation
 
-## Overview
-Weeks 1-2 of bootcamp: Rewiring mental models of , energy, and cellular function.
+Weeks 1-2 of bootcamp: Rewiring mental models of metabolism, energy, and cellular function.
+
+## Evidence
+> "Reformat their brain's operating system. Metabolism as information flow. Mitochondria as decision-makers, not furnaces." (ChatGPT, 2025)
+
+## Context
+Foundation phase establishes mental models before pattern recognition. Trainees must see metabolism as information flow, not just chemistry.
+
+---
 
 ## Week 1: Biochemical Literacy Reboot
 
@@ -24,9 +30,9 @@ Weeks 1-2 of bootcamp: Rewiring mental models of , energy, and cellular function
 |---------|---------|
 | **Metabolism** | Information flow, not just chemistry |
 | **ATP** | Ritual of phosphate transfer, not just molecule |
-| **** | Decision-makers, not furnaces |
+| **Mitochondria** | Decision-makers, not furnaces |
 | **Redox tone** | NAD⁺/NADH, FAD/FADH₂, glutathione logic |
-| ** advantage** | Sees dysfunction *before* pathology |
+| **Metabolomics advantage** | Sees dysfunction *before* pathology |
 
 ### Deliverables
 - Interactive diagrams
@@ -61,20 +67,16 @@ Plus: Lactate, ketones, BCAA oxidation, peroxisomes
 - 5 failure pattern recognition guide
 - Mini OSCE-style oral exam
 
-## Related
-- [[Bootcamp_Four_Phase_Structure_Z-001-1035]
-- 
-- 
-
----
-*Source: CGPT-0022 — ChatGPT training synthesis*
-
 ---
 
-## Connection to Vault
+## Structural Links
+- **Up:** [[MOC-Metabolomics-Training]] — Thematic entry (Clinical Track)
+- **Source:** [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]] — LitNote origin
+- **Citation:** (ChatGPT, 2025)
 
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Lateral Links
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Overall architecture
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]] — Next phase
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+*Z-001-1036 | Created: 2026-03-08 | Source: ChatGPT, 2025*

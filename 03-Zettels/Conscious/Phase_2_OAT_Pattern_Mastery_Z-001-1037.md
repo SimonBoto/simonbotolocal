@@ -1,21 +1,27 @@
 ---
 uid: Z-001-1037
 type: zettel
-title: Phase 2 OAT Pattern Mastery
-aliases: [Z-001-1037, Phase-2-OAT]
-domain: 001
-domain-name: Metabolomics Analysis
-tags: [zettel, OAT, organic-acids, pattern-recognition]
-parent-moc: [[MOC-Insulin-Signaling]]
+title: "Phase 2 OAT Pattern Mastery"
+aliases: ["Phase-2-OAT"]
+domain: "001"
+tags: [zettel, OAT, organic-acids, pattern-recognition, training]
+parent-moc: "[[MOC-Metabolomics-Training]]"
 source-litnote: "[[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
 # Phase 2 OAT Pattern Mastery
 
-## Overview
 Weeks 3-4 of bootcamp: From marker knowledge to pattern recognition fluency.
+
+## Evidence
+> "Pattern recognition by category. Markers come in flocks, never alone. Feel metabolomics as a language." (ChatGPT, 2025)
+
+## Context
+OAT mastery requires categorical thinking — individual markers are noise, patterns are signal. Trainees must read OAT patterns instinctively.
+
+---
 
 ## Week 3: Pattern Recognition by Category
 
@@ -23,17 +29,15 @@ Weeks 3-4 of bootcamp: From marker knowledge to pattern recognition fluency.
 | Category | Key Markers | Clinical Meaning |
 |----------|-------------|------------------|
 | **Glycolysis** | Lactate, pyruvate | Energy substrate handling |
-| **TCA markers** | Citrate, succinate, α-ketoglutarate | l efficiency |
+| **TCA markers** | Citrate, succinate, α-ketoglutarate | Mitochondrial efficiency |
 | **Fatty acid oxidation** | Suberate, adipate, ethylmalonate | β-oxidation capacity |
-| **B-ependent** | Methylmalonate, formiminoglutamate | Cofactor status |
+| **B-vitamin dependent** | Methylmalonate, formiminoglutamate | Cofactor status |
 | **Mitochondrial distress** | Lactate/pyruvate ratio, carnitine markers | OXPHOS dysfunction |
 | **Gut-derived** | Hippurate, indican, phenylacetate | Microbiome status |
 | **Oxidative stress** | 8-OHdG, lipid peroxides | Free radical burden |
 
 ### Core Principle
 > "Markers come in flocks, never alone."
-
-Individual markers are noise; patterns are signal.
 
 ## Week 4: Case-Based Immersion
 
@@ -51,28 +55,19 @@ Individual markers are noise; patterns are signal.
 
 ## Competency Goal
 By end of Week 4:
-> "Feel  as a language."
-
-Trainees should read OAT patterns instinctively, not analytically.
-
-## Related
-- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]
-- [[Bootcamp_Four_Phase_Structure_Z-001-1035]
-- 
-
----
-*Source: CGPT-0022 — ChatGPT training synthesis*
-
-
-## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
+> "Feel metabolomics as a language."
 
 ---
 
-## Connection to Vault
+## Structural Links
+- **Up:** [[MOC-Metabolomics-Training]] — Thematic entry (Clinical Track)
+- **Source:** [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]] — LitNote origin
+- **Citation:** (ChatGPT, 2025)
 
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Lateral Links
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]] — Previous phase
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]] — Next phase
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Overall architecture
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+*Z-001-1037 | Created: 2026-03-08 | Source: ChatGPT, 2025*
