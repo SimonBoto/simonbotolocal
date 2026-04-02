@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1218
 type: zettel
 title: Twitter/X Growth Strategy for Health Professionals
@@ -9,6 +10,7 @@ extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Twitter_Strategy_DrMito_L-001-0634]"
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # Twitter/X Growth Strategy for Health Professionals
 
@@ -17,6 +19,7 @@ status: conscious
 Strategic framework for building a health-focused Twitter/X profile from 0 to 1,000+ followers, based on DrMito case study (achieved 115 followers in 5 days from cold start).
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## The 4-Step Framework
 
@@ -36,6 +39,7 @@ Strategic framework for building a health-focused Twitter/X profile from 0 to 1,
 Write 1-sentence purpose statement. Pin to profile.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ### 2) Write with Impact
 
@@ -60,6 +64,7 @@ Write 1-sentence purpose statement. Pin to profile.
 - One idea per tweet
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ### 3) Make Clients Come to You
 
@@ -82,6 +87,7 @@ Write 1-sentence purpose statement. Pin to profile.
 - Thread CTAs: "Follow for more"
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ### 4) Stand Out from Crowd
 
@@ -98,6 +104,7 @@ Write 1-sentence purpose statement. Pin to profile.
 - Contrarian takes (backed by evidence)
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Daily Engagement Protocol
 
@@ -117,6 +124,7 @@ Write 1-sentence purpose statement. Pin to profile.
 **Key:** Be genuine. Add value. Don't treat as chore.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Growth Benchmarks
 
@@ -136,6 +144,7 @@ Write 1-sentence purpose statement. Pin to profile.
 - **Viral potential:** 100+/day
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Content Templates
 
@@ -171,6 +180,7 @@ How: [Brief method]
 8. CTA (follow/bookmark/share)
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Hashtag Strategy
 
@@ -186,6 +196,7 @@ How: [Brief method]
 **Rule:** 2-3 hashtags per tweet max.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Advanced Tactics
 
@@ -211,6 +222,7 @@ Share:
 - Email signature → Twitter handle
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## When to Upgrade to Premium
 
@@ -222,6 +234,7 @@ Share:
 - Priority ranking (visibility)
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Metrics That Matter
 
@@ -236,6 +249,7 @@ Share:
 - Link clicks (if sharing resources)
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Related
 
@@ -243,6 +257,7 @@ Share:
 - [[DrMito_Branding_Case_Study_Z-001-1220]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 *Source: [[LitNote_Twitter_Strategy_DrMito_L-001-0634] | 2026-03-09*
 
@@ -250,6 +265,7 @@ Share:
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

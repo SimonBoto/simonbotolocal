@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1184
 type: zettel
 title: T-Cell Receptor Repertoire Restriction in Autoimmunity
@@ -9,6 +10,7 @@ extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]"
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # T-Cell Receptor Repertoire Restriction in Autoimmunity
 
@@ -26,6 +28,7 @@ status: conscious
 - Robust immune responses
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Repertoire Restriction in Autoimmunity
 
@@ -61,6 +64,7 @@ Reduced Repertoire Diversity
 - Impaired immune surveillance
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Measurement Techniques
 
@@ -81,6 +85,7 @@ Reduced Repertoire Diversity
 - Reduced in autoimmunity
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Disease-Specific Patterns
 
@@ -100,6 +105,7 @@ Reduced Repertoire Diversity
 - Correlate with disease activity
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Telomeres
 
@@ -115,6 +121,7 @@ Reduced Repertoire Diversity
 - Contributes to immunosenescence
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Therapeutic Implications
 
@@ -141,6 +148,7 @@ Reduced Repertoire Diversity
 - Expensive and invasive
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Related
 
@@ -148,6 +156,7 @@ Reduced Repertoire Diversity
 - [[CD28_Negative_TCells_Exhausted_vs_Senescent_Z-001-1183]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 *Source: [[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626] | 2026-03-08*
 

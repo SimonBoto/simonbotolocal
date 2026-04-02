@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1180
 type: zettel
 title: Inflammation-Oxidative Stress Vicious Cycle
@@ -9,6 +10,7 @@ extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]"
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # -Oxidative Stress Vicious Cycle
 
@@ -37,6 +39,7 @@ More Inflammation
 ```
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Cytokine-ROS Connection
 
@@ -67,6 +70,7 @@ More Inflammation
 - "Inflammaging" signature
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## DAMPs: The Molecular Link
 
@@ -85,6 +89,7 @@ More Inflammation
 - Perpetuate inflammation
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Consequences in Autoimmunity
 
@@ -104,6 +109,7 @@ More Inflammation
 - Increased comorbidities
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Breaking the Cycle
 
@@ -135,6 +141,7 @@ More Inflammation
 - Exercise (improves mitochondrial function)
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Related
 
@@ -143,6 +150,7 @@ More Inflammation
 - [[Antioxidant_Telomere_Protection_Z-001-1181]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 *Source: [[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625] | 2026-03-08*
 
@@ -154,6 +162,7 @@ More Inflammation
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

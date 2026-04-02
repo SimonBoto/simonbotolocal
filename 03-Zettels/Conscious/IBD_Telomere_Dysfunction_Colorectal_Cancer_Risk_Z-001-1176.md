@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1176
 type: zettel
 title: IBD Telomere Dysfunction and Colorectal Cancer Risk
@@ -9,6 +10,7 @@ extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]"
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # IBD Telomere Dysfunction and Colorectal Cancer Risk
 
@@ -30,6 +32,7 @@ status: conscious
 - Barrier dysfunction
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Immune Cell Telomeres
 
@@ -46,6 +49,7 @@ status: conscious
 - May affect treatment responses
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Colorectal Cancer Connection
 
@@ -78,6 +82,7 @@ Dysplasia → Carcinoma
 - Inflammation drives proliferation
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Surveillance Implications
 
@@ -102,6 +107,7 @@ Dysplasia → Carcinoma
 **Status:** Research tool, not yet clinical standard
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Crohn's Disease vs Ulcerative Colitis
 
@@ -116,6 +122,7 @@ Dysplasia → Carcinoma
 - Telomere patterns may differ by affected segment
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Therapeutic Considerations
 
@@ -135,6 +142,7 @@ Dysplasia → Carcinoma
 - **Ursodiol (PSC):** Reduces colon cancer risk
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Related
 
@@ -143,6 +151,7 @@ Dysplasia → Carcinoma
 - [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 *Source: [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624] | 2026-03-08*
 
@@ -153,6 +162,7 @@ Dysplasia → Carcinoma
 
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

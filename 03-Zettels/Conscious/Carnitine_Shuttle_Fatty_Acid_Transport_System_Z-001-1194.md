@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1194
 type: zettel
 title: Carnitine Shuttle — Fatty Acid Transport System
@@ -9,6 +10,7 @@ extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]"
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # Carnitine Shuttle — Fatty Acid Transport System
 
@@ -17,6 +19,7 @@ status: conscious
 Long-chain fatty acids cannot cross the inner l membrane directly. The carnitine shuttle transports activated fatty acids into the  matrix for β-oxidation.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## The Five Components
 
@@ -70,6 +73,7 @@ Acetyl-CoA + Carnitine → Acetylcarnitine + CoA
 - Export acetyl groups from mitochondria
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Regulatory Control
 
@@ -86,6 +90,7 @@ Acetyl-CoA + Carnitine → Acetylcarnitine + CoA
 - β-oxidation and ketogenesis active
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Clinical Disorders
 
@@ -120,6 +125,7 @@ Acetyl-CoA + Carnitine → Acetylcarnitine + CoA
 - Elevated acylcarnitines
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Therapeutic Applications
 
@@ -136,6 +142,7 @@ Acetyl-CoA + Carnitine → Acetylcarnitine + CoA
 **Use:** Carnitine disorders, malabsorption
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Related
 
@@ -143,6 +150,7 @@ Acetyl-CoA + Carnitine → Acetylcarnitine + CoA
 - [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 *Source: [[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628] | 2026-03-08*
 
@@ -152,6 +160,7 @@ Acetyl-CoA + Carnitine → Acetylcarnitine + CoA
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

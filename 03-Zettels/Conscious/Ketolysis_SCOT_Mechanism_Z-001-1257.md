@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1257
 type: zettel
 title: Ketolysis and SCOT Mechanism — Extrahepatic Ketone Body Utilization
@@ -9,12 +10,14 @@ parent-moc: ", "
 source-litnote: "[[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]"
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # Ketolysis and SCOT Mechanism
 
 Ketone bodies synthesized in the liver must be converted back to acetyl-CoA in extrahepatic tissues for energy production. This process, called **ketolysis**, requires the critical enzyme **succinyl-CoA:3-oxoacid-CoA transferase (SCOT)**.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Tissue Distribution
 
@@ -34,6 +37,7 @@ Ketone bodies synthesized in the liver must be converted back to acetyl-CoA in e
 | **Adipose** | Minimal SCOT expression; not a major ketone consumer |
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Ketolysis Pathway
 
@@ -77,6 +81,7 @@ Acetoacetyl-CoA + CoA → 2 Acetyl-CoA
 **Result:** 2 acetyl-CoA enter Krebs cycle for complete oxidation
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## The SCOT Enzyme
 
@@ -96,6 +101,7 @@ By excluding SCOT, liver exports ketones to peripheral tissues while maintaining
 - **Regulation:** Not strongly regulated; constitutively active in expressing tissues
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## ATP Yield from Ketolysis
 
@@ -116,6 +122,7 @@ By excluding SCOT, liver exports ketones to peripheral tissues while maintaining
 - BHB is more "energy-dense" per carbon than glucose
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Clinical Relevance
 
@@ -136,6 +143,7 @@ By excluding SCOT, liver exports ketones to peripheral tissues while maintaining
 - Ketones may improve cardiac efficiency (less oxygen consumption per ATP)
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Integration with Other Pathways
 
@@ -151,6 +159,7 @@ Ketolysis does NOT provide anaplerotic substrates directly
 - Requires separate anaplerotic mechanisms (pyruvate carboxylase, etc.)
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Related Zettels
 
@@ -159,6 +168,7 @@ Ketolysis does NOT provide anaplerotic substrates directly
 - [[Z-001-1260_Adipic_Acid_Clinical_Significance] — When beta-oxidation fails
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Source
 
@@ -170,6 +180,7 @@ CGPT-0647 (April 30, 2023) — Messages 5-8, 21-22
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

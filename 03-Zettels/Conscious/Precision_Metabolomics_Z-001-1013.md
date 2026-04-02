@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1013
 type: zettel
 title: Precision Metabolomics — Urine Organic Acids and Plasma Metabolite Profiling
@@ -10,6 +11,7 @@ extraction-date: 2026-03-07
 source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # Precision  — Urine Organic Acids and Plasma Metabolite Profiling
 
@@ -283,6 +285,7 @@ Precision metabolomics moves beyond single s to comprehensive metabolic profilin
 **Clinical Pearl:** Don't treat the test—treat the patient. Use metabolomics to guide, not replace, clinical judgment. Patterns across multiple markers are more meaningful than isolated abnormalities.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 **Related:** [[Urine_Organic_Acids_Interpretation_Z-001-0552] | [[Mitochondrial_Biomarkers_Clinical_Assessment_Z-001-0553] | [[Pharmacometabolomics_Precision_Dosing_Z-001-0048]
 
@@ -299,6 +302,7 @@ Precision metabolomics moves beyond single s to comprehensive metabolic profilin
 
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

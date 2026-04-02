@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-0972
 type: zettel
 title: Cottonseed Oil History — Toxic Gossypol and Industrial Origins
@@ -10,6 +11,7 @@ extraction-date: 2026-03-07
 source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # Cottonseed Oil History — Toxic Gossypol and Industrial Origins
 
@@ -297,6 +299,7 @@ Cottonseed oil represents:
 **Legacy:** Pioneered the model of industrial oil extraction and processing that transformed global food systems — with lasting metabolic consequences.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 **Related:** [[Procter_Gamble_Crisco_Launch_1911_Z-001-0969] | [[Seed_Oil_Fatty_Acid_Composition_Table_Z-001-0945] | [[Pre_Industrial_Seed_Oil_Uses_Z-001-0968]
 
@@ -310,6 +313,7 @@ Cottonseed oil represents:
 - 
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1216
 type: zettel
 title: Isoprenol Biochemistry — Structure and Metabolic Context
@@ -9,6 +10,7 @@ extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Mitochondrial_Structure_Biology_L-001-0633]"
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # Isoprenol Biochemistry — Structure and Metabolic Context
 
@@ -17,6 +19,7 @@ status: conscious
 Isoprenol (3-methyl-3-buten-1-ol) is a five-carbon organic compound with significance in organic chemistry synthesis and metabolic research. Despite its presence in discussions about l , it is distinct from ketone bodies.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Chemical Structure
 
@@ -45,6 +48,7 @@ Carbon 4: =CH₂ (double bond terminal)
 - **Branched structure** (3-methyl)
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Classification
 
@@ -67,6 +71,7 @@ Carbon 4: =CH₂ (double bond terminal)
 - Isoprenol has **alcohol group** (-OH) and no ketone functionality
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Biological Context
 
@@ -101,6 +106,7 @@ Carbon 4: =CH₂ (double bond terminal)
 - Represents building-block nature of metabolism (C5 units)
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Metabolic Pathways
 
@@ -120,6 +126,7 @@ Isoprenoid derivatives (including CoQ10 side chains)
 - Both occur in metabolic flexibility context
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Clinical and Research Relevance
 
@@ -136,6 +143,7 @@ Understanding molecular structure helps distinguish:
 - Signaling molecules
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Summary Table
 
@@ -149,6 +157,7 @@ Understanding molecular structure helps distinguish:
 | **Structure** | Branched chain | Straight chain |
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Related
 
@@ -157,6 +166,7 @@ Understanding molecular structure helps distinguish:
 - [[CoQ10_Synthesis_Pathway_Z-001-00XX]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 *Source: [[LitNote_Mitochondrial_Structure_Biology_L-001-0633] | 2026-03-09*
 

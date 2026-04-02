@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1185
 type: zettel
 title: Premature Cardiovascular Disease in Autoimmunity
@@ -9,6 +10,7 @@ extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]"
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # Premature Cardiovascular Disease in Autoimmunity
 
@@ -42,6 +44,7 @@ status: conscious
 - Autoantibodies (anti-oxLDL)
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Mechanisms of Accelerated Atherosclerosis
 
@@ -88,6 +91,7 @@ status: conscious
 **Net Effect:** Amplifies traditional risk factors
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Clinical Presentation
 
@@ -102,6 +106,7 @@ status: conscious
 - Poor outcomes post-MI
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Prevention and Management
 
@@ -133,6 +138,7 @@ status: conscious
 - Theoretical benefit in autoimmunity
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Related
 
@@ -140,6 +146,7 @@ status: conscious
 - [[Immunosenescence_Premature_Immune_Aging_Autoimmunity_Z-001-1172]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 *Source: [[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626] | 2026-03-08*
 
@@ -158,6 +165,7 @@ status: conscious
 - [[NODAT_Risk_Factors_Management_Z-001-0927]|Z-001-0927]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

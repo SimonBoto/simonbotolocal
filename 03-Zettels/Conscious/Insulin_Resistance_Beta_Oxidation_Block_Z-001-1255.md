@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1255
 type: zettel
 title: Insulin Resistance Beta-Oxidation Block — The Paradox of High FFAs but Impaired Fat Burning
@@ -9,12 +10,14 @@ parent-moc: ", "
 source-litnote: "[[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]"
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 #  Resistance Beta-Oxidation Block
 
  creates a **metabolic paradox:** Elevated circulating free fatty acids (FFAs) coexist with **impaired beta-oxidation capacity**, leading to lipotoxicity and metabolic dysfunction.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## The Paradox Explained
 
@@ -40,6 +43,7 @@ High Insulin → Adipose Insulin Resistant → Unrestrained Lipolysis
 ```
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Mechanism: Tissue-Specific Insulin Resistance
 
@@ -61,6 +65,7 @@ High Insulin → Adipose Insulin Resistant → Unrestrained Lipolysis
 | **Liver** | Sensitive (initially) | Blocked beta-oxidation, increased esterification |
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Consequences: Lipotoxicity
 
@@ -84,6 +89,7 @@ When FFAs are elevated but cannot be oxidized, they are shunted to **alternative
 - Interferes with insulin receptor substrate (IRS) phosphorylation
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Why Beta-Oxidation Remains Blocked
 
@@ -105,6 +111,7 @@ Worsening Insulin Resistance (vicious cycle)
 ```
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Clinical Manifestations
 
@@ -116,6 +123,7 @@ Worsening Insulin Resistance (vicious cycle)
 | **Glucose intolerance** | Randle cycle (glucose-fatty acid competition) | Prediabetes progression |
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## The "Fatty Acid Burn" Problem
 
@@ -128,6 +136,7 @@ Worsening Insulin Resistance (vicious cycle)
 - **Ketogenic diets** bypass the block via ketogenesis
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Comparison: T1DM vs T2DM Ketone Handling
 
@@ -142,6 +151,7 @@ Worsening Insulin Resistance (vicious cycle)
 **Key insight:** T2DM has "relative" insulin deficiency for glucose but "relative" excess for beta-oxidation.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Related Zettels
 
@@ -151,6 +161,7 @@ Worsening Insulin Resistance (vicious cycle)
 - [[Z-001-1265_Type2_Diabetes_Ketone_Utilization] — Partial impairment patterns
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Source
 
@@ -163,6 +174,7 @@ CGPT-0647 (April 30, 2023) — Messages 13-16, 28
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

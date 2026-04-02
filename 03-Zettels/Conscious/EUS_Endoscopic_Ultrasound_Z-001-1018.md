@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1018
 type: zettel
 title: Endoscopic Ultrasound (EUS) — Indications and Clinical Applications
@@ -10,6 +11,7 @@ extraction-date: 2026-03-07
 source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # Endoscopic Ultrasound (EUS) — Indications and  Applications
 
@@ -244,6 +246,7 @@ Endoscopic ultrasound (EUS) combines endoscopy with high-frequency ultrasound im
 **Clinical Pearl:** EUS is the single best test for evaluating pancreatic masses and for T staging of GI cancers. If you need tissue from a pancreatic mass or to stage esophageal/gastric cancer locally, EUS is essential.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 **Related:** [[Pancreatic_Cancer_Diagnosis_Staging_Z-001-1021] | [[GI_Cancer_TNM_Staging_Z-001-1022] | [[Subepithelial_Lesions_EUS_Characterization_Z-001-1023]
 
@@ -256,6 +259,7 @@ Endoscopic ultrasound (EUS) combines endoscopy with high-frequency ultrasound im
 - 
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

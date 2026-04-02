@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1024
 type: zettel
 title: Peer Review Best Practices — Structure, Tone, and Decision Framework
@@ -10,6 +11,7 @@ extraction-date: 2026-03-07
 source-litnote: [[LitNote_Manuscript_Review_Critical_Concerns_L-001-0586]
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # Peer Review Best Practices — Structure, Tone, and Decision Framework
 
@@ -369,6 +371,7 @@ Peer review is the quality control  of scientific publishing. Effective review r
 ** Pearl:** The best reviewers improve science by helping authors make their work better. Be the reviewer you'd want reviewing your work—thorough, fair, constructive, and timely.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 **Related:** [[Meta_Analysis_Statistics_Z-001-1000] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999] | [[GRADE_Certainty_Evidence_Z-001-1001]
 
@@ -381,6 +384,7 @@ Peer review is the quality control  of scientific publishing. Effective review r
 - 
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

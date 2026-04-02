@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1026
 type: zettel
 title: OPLS-DA Overfitting Risks with Small Sample Sizes
@@ -9,6 +10,7 @@ parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # OPLS-DA Overfitting Risks with Small Sample Sizes
 
@@ -84,6 +86,7 @@ Orthogonal Partial Least Squares Discriminant Analysis (OPLS-DA) can achieve **p
 [[LitNote_Multivariate_Analysis_Pitfalls_L-001-0517]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
@@ -96,6 +99,7 @@ Orthogonal Partial Least Squares Discriminant Analysis (OPLS-DA) can achieve **p
 
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

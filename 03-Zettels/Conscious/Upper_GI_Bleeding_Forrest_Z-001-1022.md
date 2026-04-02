@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1022
 type: zettel
 title: Upper GI Bleeding — Forrest Classification and Management
@@ -10,6 +11,7 @@ extraction-date: 2026-03-07
 source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # Upper GI Bleeding — Forrest Classification and Management
 
@@ -327,6 +329,7 @@ The Forrest classification stratifies risk of rebleeding and guides endoscopic t
 ** Pearl:** The Forrest classification is essential for UGIB management. High-risk stigmata (active bleeding, visible vessel) require endoscopic therapy + high-dose PPI. Don't forget H. pylori testing and eradication to prevent recurrence.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 **Related:** [[Peptic_Ulcer_Disease_Pathophysiology_Z-001-1033] | [[Variceal_Bleeding_Management_Z-001-1034] | [[H_pylori_Diagnosis_Treatment_Z-001-1035]
 
@@ -338,6 +341,7 @@ The Forrest classification stratifies risk of rebleeding and guides endoscopic t
 - 
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

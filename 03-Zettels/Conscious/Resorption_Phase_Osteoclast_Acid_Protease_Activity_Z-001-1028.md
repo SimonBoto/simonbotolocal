@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1028
 type: zettel
 title: Resorption Phase — Osteoclast Acid and Protease Activity
@@ -8,6 +9,7 @@ tags: [zettel, bone-remodeling, osteoclasts, resorption, acid, cathepsin-k, mmp9
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # Resorption Phase — Osteoclast Acid and Protease Activity
 
@@ -70,6 +72,7 @@ Mature osteoclasts create a **sealed acidic microenvironment** that dissolves bo
 [[LitNote_Bone_Remodeling_Cycle_Dynamics_L-001-0015]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
@@ -80,6 +83,7 @@ Mature osteoclasts create a **sealed acidic microenvironment** that dissolves bo
 - 
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

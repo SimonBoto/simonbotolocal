@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1021
 type: zettel
 title: Acute Pancreatitis — Revised Atlanta Classification and Management
@@ -10,6 +11,7 @@ extraction-date: 2026-03-07
 source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # Acute Pancreatitis — Revised Atlanta Classification and Management
 
@@ -378,6 +380,7 @@ Acute pancreatitis is acute  of the pancreas with variable involvement of other 
 **Clinical Pearl:** Most acute pancreatitis is mild and self-limited. Identify severe early (BISAP, organ failure), resuscitate appropriately but don't overdo fluids, and remember: "Don't feed the pancreas by mouth in severe cases" is outdated—early enteral feeding is beneficial.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 **Related:** [[Chronic_Pancreatitis_Management_Z-001-1030] | [[Pancreatic_Pseudocyst_Drainage_Z-001-1031] | [[Gallstone_Pancreatitis_ERCP_Z-001-1032]
 
@@ -392,6 +395,7 @@ Acute pancreatitis is acute  of the pancreas with variable involvement of other 
 - 
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

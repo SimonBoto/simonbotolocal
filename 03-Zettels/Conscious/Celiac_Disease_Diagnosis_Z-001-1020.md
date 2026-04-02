@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1020
 type: zettel
 title: Celiac Disease Diagnosis — Serology, Biopsy, and Gluten-Free Diet
@@ -10,6 +11,7 @@ extraction-date: 2026-03-07
 source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # Celiac Disease Diagnosis — Serology, Biopsy, and Gluten-Free Diet
 
@@ -359,6 +361,7 @@ Start Gluten-Free Diet
 **Clinical Pearl:** Don't diagnose celiac disease without biopsy confirmation (except in specific pediatric scenarios). The diagnosis commits patients to lifelong GFD—be certain. Check IgA levels, as deficiency can cause false-negative testing.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 **Related:** [[Gluten_Sensitivity_Non_Celiac_Z-001-1027] | [[Refractory_Celiac_Disease_Z-001-1028] | [[Dermatitis_Herpetiformis_Z-001-1029]
 
@@ -373,6 +376,7 @@ Start Gluten-Free Diet
 - 
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

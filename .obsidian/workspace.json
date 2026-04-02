@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a5fca6b53506f81b",
+        "id": "0dacaf530caf3a1f",
         "type": "tabs",
         "children": [
           {
-            "id": "c48509b03e681707",
+            "id": "2204fae9a8ee82be",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "3ba0fbbd4b63c07b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RON_Genesis_MOC_[RON-004-0001.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "RON_Genesis_MOC_[RON-004-0001"
             }
           }
         ]
@@ -217,14 +193,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c48509b03e681707",
+  "active": "2204fae9a8ee82be",
   "lastOpenFiles": [
-    "RON_Genesis_MOC_[RON-004-0001.md",
-    "03-Zettels/RON/sedfy7D34",
-    "RON_Adipic_Acid_Biomarker_[RON-000-0008.md",
-    "RON_Adipic_Acid_Biomarker.md",
     "RON_Metabolomics_Phenotype_[RON-000-0007.md",
+    "RON_Genesis_MOC_[RON-004-0001.md",
+    "RON_Adipic_Acid_Biomarker_RON-000-0009.md",
     "RON_Adipic_Acid_Biomarker_RON-000-0008.md",
+    "03-Zettels/RON/sedfy7D34",
+    "RON_Adipic_Acid_Biomarker.md",
     "03-Zettels/Biomarkers/sedyVyWE1",
     "03-Zettels/Conscious/sedwgwNQx",
     "03-Zettels/Conscious/sedzTrcrR",

@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1177
 type: zettel
 title: Psoriasis Keratinocyte Telomere Pathology
@@ -9,6 +10,7 @@ extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]"
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # Psoriasis Keratinocyte Telomere Pathology
 
@@ -19,6 +21,7 @@ status: conscious
 **Unique Aspect:** Primary pathology in the cell type most affected by the disease
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Hyperproliferation and Telomere Loss
 
@@ -47,6 +50,7 @@ Potential Genomic Instability
 ```
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Circulating T-Cell Telomeres
 
@@ -61,6 +65,7 @@ Potential Genomic Instability
 - Chronic disease impact on immune system
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Pathogenesis
 
@@ -77,6 +82,7 @@ Potential Genomic Instability
 - Telomere dysfunction worsens barrier
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ##  Risk Considerations
 
@@ -97,6 +103,7 @@ Potential Genomic Instability
 - Chronic inflammation promotes mutations
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Therapeutic Implications
 
@@ -117,6 +124,7 @@ Potential Genomic Instability
 - Patient education on sun protection
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Comparison to Other Barrier Organs
 
@@ -129,6 +137,7 @@ Potential Genomic Instability
 **Pattern:** Chronic inflammation + barrier dysfunction + telomere loss → cancer risk
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Related
 
@@ -136,6 +145,7 @@ Potential Genomic Instability
 - [[SLE_Telomere_Findings_Disease_Activity_Z-001-1174]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 *Source: [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624] | 2026-03-08*
 

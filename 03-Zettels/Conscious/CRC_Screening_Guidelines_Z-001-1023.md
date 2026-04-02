@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1023
 type: zettel
 title: Colorectal Cancer Screening — Guidelines and Modalities
@@ -10,6 +11,7 @@ extraction-date: 2026-03-07
 source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # Colorectal  Screening — Guidelines and Modalities
 
@@ -355,6 +357,7 @@ Colorectal cancer (CRC) is the third most common cancer and second leading cause
 ** Pearl:** The best screening test is the one that gets done. Offer patients choices and encourage completion. FIT is as effective as colonoscopy at the population level due to higher adherence. Don't forget surveillance colonoscopy—missed interval cancers often occur in patients who never returned for follow-up.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 **Related:** [[Colorectal_Cancer_Pathophysiology_Z-001-1036] | [[Adenomatous_Polyps_Management_Z-001-1037] | [[Lynch_Syndrome_Screening_Z-001-1038]
 
@@ -366,6 +369,7 @@ Colorectal cancer (CRC) is the third most common cancer and second leading cause
 - 
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

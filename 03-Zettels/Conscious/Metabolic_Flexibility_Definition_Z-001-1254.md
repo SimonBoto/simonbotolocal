@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1254
 type: zettel
 title: Metabolic Flexibility Definition — The Capacity for Fuel Switching
@@ -9,12 +10,14 @@ parent-moc: ", "
 source-litnote: "[[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]"
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # Metabolic Flexibility Definition
 
 **Metabolic flexibility** is the physiological capacity of an organism to efficiently switch between using different fuel sources (primarily carbohydrates and lipids) for energy production based on availability, demand, and hormonal context.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Core Capabilities
 
@@ -34,6 +37,7 @@ status: conscious
 - Maintain homeostasis across varying conditions
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Measurement: Respiratory Exchange Ratio (RER)
 
@@ -51,6 +55,7 @@ status: conscious
 - **Metabolically inflexible:** RER remains high (>0.90) even after prolonged fasting
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Metabolic Inflexibility — The Disease State
 
@@ -72,6 +77,7 @@ Inability to appropriately switch fuel sources; persistent dependence on glucose
 - **Metabolic Syndrome:** Cluster of inflexibility manifestations
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Determinants of Metabolic Flexibility
 
@@ -90,6 +96,7 @@ Inability to appropriately switch fuel sources; persistent dependence on glucose
 - 
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Molecular Basis
 
@@ -102,6 +109,7 @@ Inability to appropriately switch fuel sources; persistent dependence on glucose
 | **Insulin signaling** | High | Low |
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Clinical Significance
 
@@ -112,6 +120,7 @@ Inability to appropriately switch fuel sources; persistent dependence on glucose
 - **Personalized nutrition:** Flexible individuals tolerate carbohydrate variation; inflexible may benefit from carbohydrate restriction
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Related Zettels
 
@@ -120,6 +129,7 @@ Inability to appropriately switch fuel sources; persistent dependence on glucose
 - [[Z-001-1258_ATP_Yield_Comparison] — Efficiency of different fuel sources
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Source
 
@@ -132,6 +142,7 @@ CGPT-0647 (April 30, 2023) — Messages 19-20
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 

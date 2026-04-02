@@ -1,4 +1,5 @@
 ---
+parent-index: [[03-Zettels-Conscious]]
 uid: Z-001-1198
 type: zettel
 title: Succinyl-CoA Entry into Krebs Cycle — Dicarboxylic Acid Integration
@@ -9,6 +10,7 @@ extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]"
 status: conscious
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 # Succinyl-CoA Entry into Krebs Cycle — Dicarboxylic Acid Integration
 
@@ -17,6 +19,7 @@ status: conscious
 Succinyl-CoA is the critical entry point where dicarboxylic acid  converges with the Krebs cycle. This integration allows adipate and other dicarboxylic acids to contribute to cellular energy production.
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## The Succinyl-CoA Connection
 
@@ -41,6 +44,7 @@ Adipate (C6) ──→ β-oxidation ──→ Succinyl-CoA + 2 Acetyl-CoA
 **Succinyl-CoA location:** Mid-cycle, between α-ketoglutarate and succinate
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Enzymology: Succinyl-CoA Synthetase
 
@@ -59,6 +63,7 @@ Succinyl-CoA + GDP + Pi ⇌ Succinate + GTP + CoA-SH
 | GTP | 1 ATP |
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Dicarboxylic Acid Contribution to Krebs
 
@@ -99,6 +104,7 @@ Adipyl-CoA
 | **Total** | **~40 ATP** |
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Clinical Significance
 
@@ -118,6 +124,7 @@ Adipyl-CoA
 **NOT:** Inability to use these molecules — just rate limitation
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Comparison: Entry Points into Krebs Cycle
 
@@ -130,6 +137,7 @@ Adipyl-CoA
 | **Odd-chain FA** | Succinyl-CoA + Acetyl-CoA | Similar to adipate | Propionate pathway |
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Integration with Other Pathways
 
@@ -142,6 +150,7 @@ Adipyl-CoA
 **Regulatory significance:** Branch point = control point
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Related
 
@@ -150,6 +159,7 @@ Adipyl-CoA
 - _Fatty_Acid_Breakdown_Z-001-1192]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 *Source: [[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629] | 2026-03-09*
 
@@ -160,6 +170,7 @@ Adipyl-CoA
 - [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_Z-001-0610]|Z-001-0610]
 
 ---
+parent-index: [[03-Zettels-Conscious]]
 
 ## Connection to Vault
 
