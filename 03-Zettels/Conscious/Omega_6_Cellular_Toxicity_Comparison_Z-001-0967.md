@@ -290,7 +290,7 @@ Omega-6 excess shares mechanistic features with classical environmental toxins:
 ---
 parent-index: [[03-Zettels-Conscious]]
 
-**Related:** [[Linoleic_Acid_Bioaccumulation_Adipose_Half_Life_Z-001-0965] | [[Seed_Oils_Environmental_Toxin_Framework_Z-001-0966] | [[4_HNE_Protein_Adducts_Cellular_Damage_Z-001-0010]
+**Related:** [[Linoleic_Acid_Bioaccumulation_Adipose_Half_Life_Z-001-0965]] | [[Seed_Oils_Environmental_Toxin_Framework_Z-001-0966]] | [[4_HNE_Protein_Adducts_Cellular_Damage_Z-001-0010]
 
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
 

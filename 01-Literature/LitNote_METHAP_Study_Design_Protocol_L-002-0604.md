@@ -90,15 +90,15 @@ This LitNote documents:
 - ✅ Study value (early IR detection, intervention efficacy)
 
 ## Zettels Created from This Source
-1. [[METHAP_Study_Design_Overview_Z-002-0616] — Dual-phase study structure
-2. [[METHAP_Participant_Selection_Sample_Size_Z-002-0617] — Power calculation, recruitment
-3. [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618] — Eligibility criteria
-4. [[METHAP_Intervention_Protocol_Z-002-0619] — 12-week intervention details
-5. [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620] — GC-MS methodology
+1. [[METHAP_Study_Design_Overview_Z-002-0616]] — Dual-phase study structure
+2. [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]] — Power calculation, recruitment
+3. [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]] — Eligibility criteria
+4. [[METHAP_Intervention_Protocol_Z-002-0619]] — 12-week intervention details
+5. [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620]] — GC-MS methodology
 
 ## Related References
-- [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601] — Ethics framework
-- [[LitNote_Historical_Ethics_Guidelines_L-002-0602] — Regulatory foundation
+- [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]] — Ethics framework
+- [[LitNote_Historical_Ethics_Guidelines_L-002-0602]] — Regulatory foundation
 -  — Ethics master map
 - [[Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002] — Metabolite focus
 

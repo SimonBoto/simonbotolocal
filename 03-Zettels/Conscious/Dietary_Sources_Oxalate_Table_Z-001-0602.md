@@ -60,8 +60,8 @@ created: 2026-03-04
 **Management:** Low-oxalate diet (<50 mg/day) for stone formers; moderate intake for general population.
 
 ## Related
-- [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603] — Health effects
-- [[Kidney_Stones_Calcium_Oxalate_Pathophysiology_Z-001-0604] — Stone disease
+- [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603]] — Health effects
+- [[Kidney_Stones_Calcium_Oxalate_Pathophysiology_Z-001-0604]] — Stone disease
 
 ---
 *Source: CGPT-0413 | Created: 2026-03-04*

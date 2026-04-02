@@ -123,9 +123,9 @@ Total volume of bone currently undergoing active resorption or formation at any 
 
 ## Related Zettels
 - [[Activation_Phase_RANKL_MCSF_Osteoclast_Differentiation_Z-001-0099] — Resorption initiation
-- [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102] — Formation execution
-- [[Reversal_Phase_Mononuclear_Bone_Surface_Preparation_Z-001-0101] — Coupling point
-- [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077] — Clinical consequence
+- [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102]] — Formation execution
+- [[Reversal_Phase_Mononuclear_Bone_Surface_Preparation_Z-001-0101]] — Coupling point
+- [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]] — Clinical consequence
 
 ## Source
 [[LitNote_Bone_Remodeling_Cycle_Dynamics_L-001-0015]

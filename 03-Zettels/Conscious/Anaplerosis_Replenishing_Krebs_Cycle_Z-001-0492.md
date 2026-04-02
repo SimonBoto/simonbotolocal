@@ -96,9 +96,9 @@ Anaplerosis < Cataplerosis (OAA depletion → ketogenesis)
 ```
 
 ## Related
-- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488] Oxaloacetate Dual Role
-- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491] PEPCK Regulation
-- [[Ketogenesis_Pathway_Regulation_Z-001-0481] Ketogenesis (result of OAA depletion)
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]] Oxaloacetate Dual Role
+- [[PEPCK_Gluconeogenic_Regulation_Z-001-0491]] PEPCK Regulation
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]] Ketogenesis (result of OAA depletion)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

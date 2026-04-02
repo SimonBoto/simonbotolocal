@@ -119,8 +119,8 @@ status: conscious
 4. Support membrane repair (phosphatidylcholine)
 
 ## Related Zettels
-- [[Linoleic_Acid_Metabolic_Fate_Desaturase_Competition_Z-001-0946] — Metabolic pathway
-- [[Cardiolipin_Omega_6_Mitochondrial_Dysfunction_Z-001-0949] — Mitochondrial effects
+- [[Linoleic_Acid_Metabolic_Fate_Desaturase_Competition_Z-001-0946]] — Metabolic pathway
+- [[Cardiolipin_Omega_6_Mitochondrial_Dysfunction_Z-001-0949]] — Mitochondrial effects
 
 ## Source
 [[LitNote_Seed_Oils_Fatty_Acid_Composition_L-001-0522]

@@ -172,7 +172,7 @@ Decanoyl-CoA → (ω-oxidation in ER) → Sebacyl-CoA intermediates → Sebacate
 -  — Clinical application
 
 **LitNotes:**
-- [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002] — Existing (partial)
+- [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]] — Existing (partial)
 
 ---
 

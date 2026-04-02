@@ -78,8 +78,8 @@ extraction-date: 2026-03-01
 5. [[IGF1_Protein_Bone_Anabolic_Signal_Z-001-0100]
 
 ## Related References
-- [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013] — Nutritional combination
-- [[LitNote_Denosumab_Mechanism_Risks_L-001-0012] — Drug comparison
+- [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]] — Nutritional combination
+- [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]] — Drug comparison
 -  — Parent MOC
 -  — Nutrition context
 

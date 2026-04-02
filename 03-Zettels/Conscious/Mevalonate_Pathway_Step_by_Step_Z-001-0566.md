@@ -158,10 +158,10 @@ Once IPP is formed, it can become:
 
 ## Related Zettels
 
-- [[HMG_CoA_Reductase_Regulation_Z-001-0567] — Regulatory mechanisms
-- [[Mevalonate_Pathway_Energy_Cost_Z-001-0568] — Energy requirements
-- [[Isoprenoids_Terpenes_Overview_Z-001-0569] — IPP products
-- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571] — CoQ10 from IPP
+- [[HMG_CoA_Reductase_Regulation_Z-001-0567]] — Regulatory mechanisms
+- [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]] — Energy requirements
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]] — IPP products
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]] — CoQ10 from IPP
 
 ---
 

@@ -125,9 +125,9 @@ When chicken fat exceeds **36% omega-6 fatty acids** (common in corn-fed birds):
 
 ## Related Zettels
 
-- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562] — Poultry omega-6 content
-- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563] — Egg quality options
-- [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565] — Complete reference data
+- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]] — Poultry omega-6 content
+- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563]] — Egg quality options
+- [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]] — Complete reference data
 - [[Seed_Oils_Omega6_Omega3_Ratio_Z-001-0503] — Broader omega-6:3 context
 
 ---

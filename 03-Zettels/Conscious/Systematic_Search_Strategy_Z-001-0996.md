@@ -275,7 +275,7 @@ AND
 
 ---
 
-**Related:** [[Screening_Protocols_Systematic_Review_Z-001-0997] | [[Data_Extraction_Systematic_Review_Z-001-0998] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999]
+**Related:** [[Screening_Protocols_Systematic_Review_Z-001-0997]] | [[Data_Extraction_Systematic_Review_Z-001-0998]] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999]
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
 

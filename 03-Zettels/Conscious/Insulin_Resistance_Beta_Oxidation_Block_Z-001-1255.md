@@ -165,7 +165,7 @@ parent-index: [[03-Zettels-Conscious]]
 
 ## Source
 
-Extracted from: [[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]  
+Extracted from: [[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]]  
 CGPT-0647 (April 30, 2023) — Messages 13-16, 28
 
 

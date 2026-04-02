@@ -79,8 +79,8 @@ Clear eligibility criteria ensure scientific validity, participant safety, and e
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]  
-**Related:** [[Fair_Subject_Selection_Ethics_Z-002-0603] — Ethical selection principles
+**Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]]  
+**Related:** [[Fair_Subject_Selection_Ethics_Z-002-0603]] — Ethical selection principles
 
 ---
 

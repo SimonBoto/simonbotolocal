@@ -144,7 +144,7 @@ Drives ATP synthesis
 
 ---
 
-*Source: [[LitNote_Mitochondrial_Structure_Biology_L-001-0633] | 2026-03-09*
+*Source: [[LitNote_Mitochondrial_Structure_Biology_L-001-0633]] | 2026-03-09*
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]

@@ -68,9 +68,9 @@ source: [[L-001-0045E]
 - Lipogenic pathway
 
 ## Related
-- [[Glucose_Metabolism_Overview_Z-001-0472] Glucose Metabolism
-- [[Fructose_Metabolism_Lipogenesis_Z-001-0473] Fructose Metabolism
-- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466] Triose Structure
+- [[Glucose_Metabolism_Overview_Z-001-0472]] Glucose Metabolism
+- [[Fructose_Metabolism_Lipogenesis_Z-001-0473]] Fructose Metabolism
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]] Triose Structure
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

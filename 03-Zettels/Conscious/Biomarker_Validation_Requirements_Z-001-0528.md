@@ -203,11 +203,11 @@ Studies show **<50% replication rate** for omics biomarkers:
 
 ## Related Zettels
 
-- [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526] — Exploratory vs Confirmatory Research Standards
-- [[FDR_Threshold_Selection_Z-001-0932] — FDR 0.1 vs 0.05 Selection Framework
-- [[Underpowered_Study_Consequences_Z-001-0929] — Underpowered Study Consequences
-- [[Sample_Size_Strategies_PhD_Z-001-0930] — PhD Sample Size Strategies
-- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515] — False Discovery Rate and Multiple Testing Correction
+- [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526]] — Exploratory vs Confirmatory Research Standards
+- [[FDR_Threshold_Selection_Z-001-0932]] — FDR 0.1 vs 0.05 Selection Framework
+- [[Underpowered_Study_Consequences_Z-001-0929]] — Underpowered Study Consequences
+- [[Sample_Size_Strategies_PhD_Z-001-0930]] — PhD Sample Size Strategies
+- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — False Discovery Rate and Multiple Testing Correction
 
 ---
 

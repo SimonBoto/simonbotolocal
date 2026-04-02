@@ -263,7 +263,7 @@ status: conscious
 
 ---
 
-**Related:** [[Serum_Albumin_Interpretation_CKD_Z-001-0978] | [[Protein_Intake_Assessment_Methods_CKD_Z-001-0980]
+**Related:** [[Serum_Albumin_Interpretation_CKD_Z-001-0978]] | [[Protein_Intake_Assessment_Methods_CKD_Z-001-0980]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
 

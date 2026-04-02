@@ -127,7 +127,7 @@ Inflammatory cytokines → Symptom flare
 
 ---
 
-*Source: [[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635] | 2026-03-09*
+*Source: [[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]] | 2026-03-09*
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]

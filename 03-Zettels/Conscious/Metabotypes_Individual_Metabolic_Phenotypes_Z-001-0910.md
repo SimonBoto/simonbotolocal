@@ -87,9 +87,9 @@ This vast chemical diversity underscores why "one size fits all" approaches fail
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903] — Environment shapes metabotype
+- **Upstream/Prerequisite:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Environment shapes metabotype
 - **Parallel/Related:** _Logic_B12_Model_Z-001-0911] — Metabotype reflects cofactor status
-- **Downstream/Consequence:** [[Biomarkers_Precision_Medicine_Z-001-0909] — Metabotype-based biomarker selection
+- **Downstream/Consequence:** [[Biomarkers_Precision_Medicine_Z-001-0909]] — Metabotype-based biomarker selection
 
 ## Context
 

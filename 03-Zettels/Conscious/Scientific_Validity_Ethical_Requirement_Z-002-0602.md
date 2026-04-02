@@ -47,8 +47,8 @@ METHAP protocol must demonstrate:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]  
-**Related:** [[Social_Clinical_Value_Ethical_Research_Z-002-0601] — Value requirement
+**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]  
+**Related:** [[Social_Clinical_Value_Ethical_Research_Z-002-0601]] — Value requirement
 
 ---
 

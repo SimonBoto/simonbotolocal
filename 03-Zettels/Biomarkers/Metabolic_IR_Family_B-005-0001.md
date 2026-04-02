@@ -251,7 +251,7 @@ source-litnote: Synthesized from clinical practice
 - Normal or low BHB (impaired ketogenesis)
 - Elevated citric acid (mitochondrial stress)
 
-**See also:** [[IR_Playbook_Clinical_Decision_Tool_S-001-0001] for complete integration
+**See also:** [[IR_Playbook_Clinical_Decision_Tool_S-001-0001]] for complete integration
 
 ## 5. NUTRITIONAL CONNECTIONS
 

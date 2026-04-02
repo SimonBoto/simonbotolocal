@@ -193,10 +193,10 @@ Proper folding, trafficking, function
 
 ## Related Zettels
 
-- [[HMG_CoA_Reductase_Regulation_Z-001-0567] — Statin mechanism
-- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566] — Pathway overview
-- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570] — Other products
-- [[LitNote_Statin_Pharmacology_L-001-0502] — Statin details
+- [[HMG_CoA_Reductase_Regulation_Z-001-0567]] — Statin mechanism
+- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]] — Pathway overview
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]] — Other products
+- [[LitNote_Statin_Pharmacology_L-001-0502]] — Statin details
 
 ---
 

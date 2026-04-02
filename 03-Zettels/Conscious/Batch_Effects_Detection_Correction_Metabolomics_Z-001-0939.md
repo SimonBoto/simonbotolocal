@@ -111,8 +111,8 @@ Batch 2: D5, C5, D6, QC, C6, D7, C7, QC, D8, C8...
 - Technical variation reduced to <10% of biological variation
 
 ## Related Zettels
-- [[Sample_Preparation_Variability_Control_Z-001-0940] — Pre-analytical variation
-- [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941] — Instrument stability
+- [[Sample_Preparation_Variability_Control_Z-001-0940]] — Pre-analytical variation
+- [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941]] — Instrument stability
 - [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935] — Model validation
 
 ## Source

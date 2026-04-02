@@ -106,7 +106,7 @@ Available    Entry
 
 ## Source
 
-Extracted from: [[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]  
+Extracted from: [[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]]  
 CGPT-0647 (April 30, 2023) — Messages 3-4, 15-16
 
 

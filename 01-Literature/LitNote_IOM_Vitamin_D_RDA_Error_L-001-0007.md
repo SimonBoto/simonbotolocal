@@ -75,9 +75,9 @@ extraction-date: 2026-03-01
 4. [[Endocrine_Society_vs_IOM_Guidelines_Z-001-0061]
 
 ## Related References
-- [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006] — Related safety fears
-- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008] — Physiological capacity
-- [[Vitamin_D_Paradigm_Failure_Production_vs_Recommendations_Z-001-0073] — Synthesis of errors
+- [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]] — Related safety fears
+- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — Physiological capacity
+- [[Vitamin_D_Paradigm_Failure_Production_vs_Recommendations_Z-001-0073]] — Synthesis of errors
 -  — Parent MOC
 -  — Trial design implications
 

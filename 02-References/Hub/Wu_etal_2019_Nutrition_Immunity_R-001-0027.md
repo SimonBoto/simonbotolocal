@@ -56,7 +56,7 @@ tags: [reference, nutrition
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912] — Nutrition-immune interactions
+- [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]] — Nutrition-immune interactions
 
 ---
 

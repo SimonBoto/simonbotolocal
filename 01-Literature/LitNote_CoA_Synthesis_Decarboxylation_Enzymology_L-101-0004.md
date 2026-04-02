@@ -162,16 +162,16 @@ extraction-date: 2026-03-02
 ---
 
 ## Zettels Created from This Source
-1. [[Vitamin_B5_CoA_Synthesis_Pathway_Z-101-0017] — Biochemistry and clinical disorders
-2. [[Decarboxylation_Enzymes_Cofactors_Z-101-0018] — Vitamin and mineral requirements
-3. [[Dehydrogenases_vs_Decarboxylases_Z-101-0019] — Enzyme classification
-4. [[Isocitrate_Dehydrogenase_Dual_Function_Z-101-0020] — Dual mechanism and cancer connection
+1. [[Vitamin_B5_CoA_Synthesis_Pathway_Z-101-0017]] — Biochemistry and clinical disorders
+2. [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]] — Vitamin and mineral requirements
+3. [[Dehydrogenases_vs_Decarboxylases_Z-101-0019]] — Enzyme classification
+4. [[Isocitrate_Dehydrogenase_Dual_Function_Z-101-0020]] — Dual mechanism and cancer connection
 
 ---
 
 ## Related References
-- [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002] — Fatty acid oxidation context
-- [[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003] — Clinical application
+- [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]] — Fatty acid oxidation context
+- [[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]] — Clinical application
 -  — Parent MOC
 -  — Cofactor context
 

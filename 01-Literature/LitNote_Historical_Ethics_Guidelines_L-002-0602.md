@@ -88,14 +88,14 @@ METHAP must comply with:
 - **National regulations** — Greek ethics committee requirements
 
 ## Zettels Created from This Source
-1. [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608] — First international ethics code
-2. [[Declaration_Helsinki_Research_Ethics_Z-002-0609] — WMA international standard
-3. [[Belmont_Report_Ethical_Principles_1979_Z-002-0610] — Three core principles
-4. [[CIOMS_International_Research_Ethics_Z-002-0611] — Developing country research
-5. [[ICH_Good_Clinical_Practice_GCP_Z-002-0612] — Global pharmaceutical standard
+1. [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]] — First international ethics code
+2. [[Declaration_Helsinki_Research_Ethics_Z-002-0609]] — WMA international standard
+3. [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]] — Three core principles
+4. [[CIOMS_International_Research_Ethics_Z-002-0611]] — Developing country research
+5. [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]] — Global pharmaceutical standard
 
 ## Related References
-- [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601] — Modern operationalization of principles
+- [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]] — Modern operationalization of principles
 -  — Master map of research ethics concepts
 - [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0613] — Historical violation leading to Belmont
 

@@ -132,7 +132,7 @@ Iron uptake ↑, storage ↓
 
 ---
 
-*Source: [[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631] | 2026-03-08*
+*Source: [[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]] | 2026-03-08*
 
 
 ## RELATED FILES

@@ -204,7 +204,7 @@ GFR increases 20-30% above baseline
 
 ---
 
-**Related:** [[MDRD_Study_Protein_Restriction_CKD_Z-001-0973] | [[Protein_Restriction_CKD_Guidelines_Z-001-0974] | [[Carbohydrate_Context_Modifies_Renal_Hemodynamics_Z-001-0976]
+**Related:** [[MDRD_Study_Protein_Restriction_CKD_Z-001-0973]] | [[Protein_Restriction_CKD_Guidelines_Z-001-0974]] | [[Carbohydrate_Context_Modifies_Renal_Hemodynamics_Z-001-0976]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
 

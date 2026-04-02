@@ -101,9 +101,9 @@ C₆H₆O₆ → C₂H₂O₄ + 4C (lost as CO₂/other)
 | Interpretation | Consider ascorbate-to-oxalate conversion |
 
 ## Zettels Created
-1. [[Vitamin_C_to_Oxalate_Chemistry_Z-101-0469] — Conversion pathway, stoichiometry
-2. [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470] — Clinical lab considerations
-3. [[DHA_Metabolism_Pathways_Z-101-0471] — Multiple fates of dehydroascorbic acid
+1. [[Vitamin_C_to_Oxalate_Chemistry_Z-101-0469]] — Conversion pathway, stoichiometry
+2. [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]] — Clinical lab considerations
+3. [[DHA_Metabolism_Pathways_Z-101-0471]] — Multiple fates of dehydroascorbic acid
 
 ## Connections
 - **Related source:** [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md] — Oxalate chemistry fundamentals

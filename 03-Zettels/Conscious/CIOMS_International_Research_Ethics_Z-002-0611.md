@@ -83,8 +83,8 @@ If METHAP involves international collaboration:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]  
-**Related:** [[Declaration_Helsinki_Research_Ethics_Z-002-0609] — Complementary international standard
+**Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]]  
+**Related:** [[Declaration_Helsinki_Research_Ethics_Z-002-0609]] — Complementary international standard
 
 ---
 

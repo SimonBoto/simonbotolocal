@@ -16,7 +16,7 @@ domain: 001
 # Male Hormone Assessment — Clinical Scenarios and Pattern Recognition
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0438_Hormone_Scenarios_Normal_vs_Pathological_CGPT-0438] (14 messages)
+- **ChatGPT conversation:** [[CGPT_0438_Hormone_Scenarios_Normal_vs_Pathological_CGPT-0438]] (14 messages)
 - **Date:** April 02, 2024
 - **Scope:** Male hormone panels, erectile dysfunction workup, HPA/HPG axis
 

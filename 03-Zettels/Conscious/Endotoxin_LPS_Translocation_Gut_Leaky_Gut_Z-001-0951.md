@@ -153,8 +153,8 @@ Type 2 diabetes, NAFLD, CVD
 - **sCD14:** <2000 ng/mL
 
 ## Related Zettels
-- [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954] — Oxidized lipids
-- [[Insulin_Resistance_Mechanisms_Omega_6_Induced_Z-001-0952] — Downstream effects
+- [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954]] — Oxidized lipids
+- [[Insulin_Resistance_Mechanisms_Omega_6_Induced_Z-001-0952]] — Downstream effects
 
 ## Source
 [[LitNote_Mechanisms_Metabolic_Disruption_L-001-0523]

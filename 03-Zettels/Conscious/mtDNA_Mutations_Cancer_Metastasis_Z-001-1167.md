@@ -120,7 +120,7 @@ status: conscious
 
 ---
 
-*Source: [[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622] | 2026-03-08*
+*Source: [[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]] | 2026-03-08*
 
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]

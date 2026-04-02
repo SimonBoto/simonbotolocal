@@ -96,8 +96,8 @@ Studies reporting VIP > 1 without effect sizes:
 
 ## Related Zettels
 - [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935] — Model validation
-- [[Effect_Size_Practical_Significance_Omics_Z-001-0561] — Effect size interpretation
-- [[Biomarker_Validation_Requirements_Z-001-0528] — Validation standards
+- [[Effect_Size_Practical_Significance_Omics_Z-001-0561]] — Effect size interpretation
+- [[Biomarker_Validation_Requirements_Z-001-0528]] — Validation standards
 
 ## Source
 [[LitNote_Multivariate_Analysis_Pitfalls_L-001-0517]

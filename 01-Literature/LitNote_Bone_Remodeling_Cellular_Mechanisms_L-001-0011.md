@@ -79,8 +79,8 @@ extraction-date: 2026-03-01
 5. [[Net_Bone_Loss_Resorption_Exceeds_Formation_Z-001-0084]
 
 ## Related References
-- [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010] — Clinical context
-- [[LitNote_Denosumab_Mechanism_Risks_L-001-0012] — Pharmacologic targeting
+- [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]] — Clinical context
+- [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]] — Pharmacologic targeting
 -  — Parent MOC
 
 ---

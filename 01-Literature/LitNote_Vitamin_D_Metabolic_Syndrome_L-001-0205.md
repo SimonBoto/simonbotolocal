@@ -136,10 +136,10 @@ extraction-date: 2026-03-01
 4. [[Vitamin_D_Inflammation_Adipose_Tissue_Immunomodulation_Z-001-0226]
 
 ## Related References
-- [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009] — Clinical evidence
-- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008] — Safety framework
-- [[LitNote_Magnesium_Biochemistry_L-001-0201a] — Mg enables D activation
-- [[LitNote_Metabolic_Syndrome_Overview_L-001-0200] — MetS context
+- [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]] — Clinical evidence
+- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — Safety framework
+- [[LitNote_Magnesium_Biochemistry_L-001-0201a]] — Mg enables D activation
+- [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]] — MetS context
 -  — Parent MOC
 -  — Clinical context
 

@@ -215,7 +215,7 @@ Fatty streak → Atheroma → Plaque → Thrombosis
 
 ---
 
-**Related:** [[Advanced_Lipoxidation_End_Products_ALEs_Z-001-0958] | [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954] | [[Atherosclerosis_Pathophysiology_Z-001-0015]
+**Related:** [[Advanced_Lipoxidation_End_Products_ALEs_Z-001-0958]] | [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954]] | [[Atherosclerosis_Pathophysiology_Z-001-0015]
 
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
 

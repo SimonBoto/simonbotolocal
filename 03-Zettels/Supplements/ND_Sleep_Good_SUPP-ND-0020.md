@@ -99,7 +99,7 @@ Take 1 capsule 1-2 hours before bedtime or as directed by your physician.
 - **5-HTP + antidepressants** — risk of serotonin syndrome
 
 ## Biomarker Links
-- [[Cortisol_Primary_Stress_Hormone_Z-011-0005] — elevated cortisol disrupts sleep
+- [[Cortisol_Primary_Stress_Hormone_Z-011-0005]] — elevated cortisol disrupts sleep
 - [[Melatonin_Sleep_Hormone_Z-011-0010] — circadian rhythm marker
 - [[GABA_Neurotransmitter_Inhibitory_Z-001-XXXX] — calming neurotransmitter
 

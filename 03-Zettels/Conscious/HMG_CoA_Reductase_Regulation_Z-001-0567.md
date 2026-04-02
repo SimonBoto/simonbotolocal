@@ -181,10 +181,10 @@ Blocking HMG-CoA reductase doesn't just block cholesterol — it blocks **all me
 
 ## Related Zettels
 
-- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566] — Complete pathway
-- [[Mevalonate_Pathway_Energy_Cost_Z-001-0568] — Energy requirements
-- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571] — CoQ10 from mevalonate
-- [[LitNote_Statin_Pharmacology_L-001-0502] — Detailed statin coverage
+- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]] — Complete pathway
+- [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]] — Energy requirements
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]] — CoQ10 from mevalonate
+- [[LitNote_Statin_Pharmacology_L-001-0502]] — Detailed statin coverage
 
 ---
 

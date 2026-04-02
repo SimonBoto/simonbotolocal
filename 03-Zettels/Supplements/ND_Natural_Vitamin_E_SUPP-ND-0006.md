@@ -83,9 +83,9 @@ Take 1 softgel daily with water or as directed by your physician.
 | 1 softgel | €0.70 | 418 IU | Standard dose |
 
 ## Biomarker Links
-- [[Vitamin_E_Tocopherols_Antioxidant_Z-007-0004] — antioxidant status marker
+- [[Vitamin_E_Tocopherols_Antioxidant_Z-007-0004]] — antioxidant status marker
 - [[Vitamin_C_Calciferol_Steroid_Hormone_Z-007-0001] — works with E in antioxidant network
-- [[Glutathione_Master_Antioxidant_Z-001-0436] — E regenerates glutathione
+- [[Glutathione_Master_Antioxidant_Z-001-0436]] — E regenerates glutathione
 
 ## Comparison with Meetab Vitamin E
 | Feature | Natural Vitamin E (ND) | My Health (Meetab) |

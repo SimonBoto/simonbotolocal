@@ -813,9 +813,9 @@ REFERENCES
 ---
 
 ## Related Documents
-- [[IR_Playbook_Clinical_Decision_Tool_S-001-0001] — Clinical application
-- [[METHAP_Protocol_Living_Document_S-002-0001] — Research methodology
-- [[Vitamin_D_Clinical_Guide_S-001-0002] — Specific nutrient protocol
+- [[IR_Playbook_Clinical_Decision_Tool_S-001-0001]] — Clinical application
+- [[METHAP_Protocol_Living_Document_S-002-0001]] — Research methodology
+- [[Vitamin_D_Clinical_Guide_S-001-0002]] — Specific nutrient protocol
 
 ---
 

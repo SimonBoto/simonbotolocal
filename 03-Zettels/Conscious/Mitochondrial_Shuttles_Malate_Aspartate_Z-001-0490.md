@@ -94,8 +94,8 @@ Aspartate + α-ketoglutarate → OAA + Glutamate
 - Contributes to anti-gluconeogenic effect
 
 ## Related
-- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488] Oxaloacetate Dual Role
-- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489] Gluconeogenesis from OAA
+- [[Oxaloacetate_Dual_Role_Krebs_Gluconeogenesis_Z-001-0488]] Oxaloacetate Dual Role
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]] Gluconeogenesis from OAA
 - 
 
 ---

@@ -167,12 +167,12 @@ Create complete ClinicalTrials.gov registration documents for the METHAP PhD tri
 - Accurate representation of study design
 
 ## Zettels Created
-1. [[ClinicalTrials_Gov_Registration_Structure_Z-101-0476] — Section-by-section guide
-2. [[ClinicalTrials_Gov_Compliance_Checklist_Z-101-0477] — NIH requirements and common pitfalls
+1. [[ClinicalTrials_Gov_Registration_Structure_Z-101-0476]] — Section-by-section guide
+2. [[ClinicalTrials_Gov_Compliance_Checklist_Z-101-0477]] — NIH requirements and common pitfalls
 
 ## Connections
 - **Core protocol:** [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md] — METHAP study design
-- **IRB process:** [[METHAP_IRB_Feedback_Action_Items_Z-101-0473] — Ethics approval pathway
+- **IRB process:** [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]] — Ethics approval pathway
 - **Timing:** Register after IRB approval, before first participant enrollment
 
 ## Next Steps for Registration

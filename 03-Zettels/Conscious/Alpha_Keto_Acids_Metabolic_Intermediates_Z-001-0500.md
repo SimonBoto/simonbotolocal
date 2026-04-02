@@ -84,7 +84,7 @@ Yield acetyl-CoA or acetoacetyl-CoA:
 
 ## Related
 - All amino acid entry zettels
-- [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476] Keto Acids vs Carboxylic Acids
+- [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476]] Keto Acids vs Carboxylic Acids
 - 
 
 ---

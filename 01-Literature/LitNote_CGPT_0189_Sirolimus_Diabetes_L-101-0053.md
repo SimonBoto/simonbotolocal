@@ -142,8 +142,8 @@ Sirolimus → mTORC2 inhibition → ↓ Akt phosphorylation → Insulin resistan
 - Potential confounder: medications affecting mTOR
 
 ## Zettels Created
-1. [[Sirolimus_mTOR_Mitochondrial_Mechanisms_Z-101-0483] — Detailed pathway analysis
-2. [[mTOR_Diabetes_Pathophysiology_Z-101-0484] — Clinical and mechanistic connections
+1. [[Sirolimus_mTOR_Mitochondrial_Mechanisms_Z-101-0483]] — Detailed pathway analysis
+2. [[mTOR_Diabetes_Pathophysiology_Z-101-0484]] — Clinical and mechanistic connections
 
 ## Connections
 - **Source:** [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]

@@ -125,7 +125,7 @@ Aggregate predictions (majority vote)
 
 ---
 
-*Source: [[LitNote_Machine_Learning_Metabolomics_L-001-0618] | 2026-03-09*
+*Source: [[LitNote_Machine_Learning_Metabolomics_L-001-0618]] | 2026-03-09*
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]

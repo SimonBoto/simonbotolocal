@@ -179,9 +179,9 @@ reassess    TBS, falls    Pharmacologic
 ```
 
 ## Related Zettels
-- [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076] — BMD component
-- [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077] — Treatment threshold
-- [[Fragility_Fractures_Morbidity_Mortality_Z-001-0078] — Outcome being predicted
+- [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076]] — BMD component
+- [[Osteoporosis_T_score_Definition_Minus_2.5_Z-001-0077]] — Treatment threshold
+- [[Fragility_Fractures_Morbidity_Mortality_Z-001-0078]] — Outcome being predicted
 
 ## Source
 [[LitNote_FRAX_Risk_Assessment_Tool_L-001-0017]

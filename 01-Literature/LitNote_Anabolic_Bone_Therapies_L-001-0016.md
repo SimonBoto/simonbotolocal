@@ -162,9 +162,9 @@ domain: 001
 ## Integration Notes
 
 **Links to Existing Zettels:**
-- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085] — Antiresorptive comparison
-- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103] — Sclerostin physiology
-- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104] — Balance restoration
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]] — Antiresorptive comparison
+- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103]] — Sclerostin physiology
+- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]] — Balance restoration
 
 **Clinical Decision Framework:**
 - Severe osteoporosis → Anabolic first (not antiresorptive)

@@ -215,7 +215,7 @@ Catalytic Surface Reaction:
 
 ---
 
-**Related:** [[Seed_Oil_Refining_Process_RBD_Z-001-0956] | [[Trans_Fat_Cardiovascular_Mechanisms_Z-001-0050] | [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]
+**Related:** [[Seed_Oil_Refining_Process_RBD_Z-001-0956]] | [[Trans_Fat_Cardiovascular_Mechanisms_Z-001-0050] | [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]
 
 **Source:** CGPT-0281, CGPT-0340 — Seed Oils and Metabolic Health; Seed oils history and process
 

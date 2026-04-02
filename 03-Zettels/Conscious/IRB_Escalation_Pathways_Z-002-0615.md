@@ -85,8 +85,8 @@ If NKUA delays:
 ## Links
 
 **Parent MOC:** -Ethics]  
-**Source:** [[LitNote_Ethics_Committee_Communication_L-002-0603]  
-**Related:** [[IRB_Non_Response_Protocol_Z-002-0613] — Before escalation
+**Source:** [[LitNote_Ethics_Committee_Communication_L-002-0603]]  
+**Related:** [[IRB_Non_Response_Protocol_Z-002-0613]] — Before escalation
 
 ---
 

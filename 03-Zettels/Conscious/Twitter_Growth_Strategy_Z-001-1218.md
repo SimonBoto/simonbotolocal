@@ -259,7 +259,7 @@ parent-index: [[03-Zettels-Conscious]]
 ---
 parent-index: [[03-Zettels-Conscious]]
 
-*Source: [[LitNote_Twitter_Strategy_DrMito_L-001-0634] | 2026-03-09*
+*Source: [[LitNote_Twitter_Strategy_DrMito_L-001-0634]] | 2026-03-09*
 
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]

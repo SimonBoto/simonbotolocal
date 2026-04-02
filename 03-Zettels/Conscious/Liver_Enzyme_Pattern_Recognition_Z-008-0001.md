@@ -37,7 +37,7 @@ Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellula
 - Drug/toxin-induced injury
 - Ischemic hepatitis
 
-**Link to IR:** [[MAPK_Mitogenic_Pathway_Z-001-0016] — Mitochondrial dysfunction in NAFLD
+**Link to IR:** [[MAPK_Mitogenic_Pathway_Z-001-0016]] — Mitochondrial dysfunction in NAFLD
 
 ---
 
@@ -72,7 +72,7 @@ Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellula
 ## 🔗 Connected Systems
 
 **Insulin Resistance:**
-- [[MAPK_Mitogenic_Pathway_Z-001-0016] — Mitochondrial dysfunction (NAFLD mechanism)
+- [[MAPK_Mitogenic_Pathway_Z-001-0016]] — Mitochondrial dysfunction (NAFLD mechanism)
 - _Z-001-0018.md] — Lipotoxicity (hepatic steatosis)
 - NAFLD is the hepatic manifestation of metabolic syndrome
 

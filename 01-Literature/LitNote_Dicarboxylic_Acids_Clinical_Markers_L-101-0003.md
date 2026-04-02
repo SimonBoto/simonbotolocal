@@ -157,16 +157,16 @@ extraction-date: 2026-03-02
 ---
 
 ## Zettels Created from This Source
-1. [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_Z-101-0013] — Laboratory analysis
-2. [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014] — Primary vs secondary causes
-3. [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_Z-101-0015] — Clinical differentiation
-4. [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016] — Diagnostic workflow
+1. [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_Z-101-0013]] — Laboratory analysis
+2. [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]] — Primary vs secondary causes
+3. [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_Z-101-0015]] — Clinical differentiation
+4. [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]] — Diagnostic workflow
 
 ---
 
 ## Related References
-- [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002] — Mechanistic basis
-- [[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004] — Cofactor connections
+- [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]] — Mechanistic basis
+- [[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]] — Cofactor connections
 -  — Parent MOC
 -  — Diagnostic implementation
 

@@ -264,10 +264,10 @@ Bone demineralization (rickets/osteomalacia)
 ---
 
 **Related:**
-- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163] — Deep dive into immune mechanisms (NEW)
-- [[Autoimmune_Disease_Vitamin_D_Connection_Z-001-1164] — Autoimmunity clinical evidence (NEW)
-- [[Treg_Th17_Balance_VDR_Z-001-1165] — T-cell regulation mechanisms (NEW)
-- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166] — Parallel mitochondrial knockout models (NEW)
+- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]] — Deep dive into immune mechanisms (NEW)
+- [[Autoimmune_Disease_Vitamin_D_Connection_Z-001-1164]] — Autoimmunity clinical evidence (NEW)
+- [[Treg_Th17_Balance_VDR_Z-001-1165]] — T-cell regulation mechanisms (NEW)
+- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166]] — Parallel mitochondrial knockout models (NEW)
 
 **Source:** CGPT-0311 — Self-Education Program Plan
 

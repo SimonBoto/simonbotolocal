@@ -129,8 +129,8 @@ External Validation:
 ```
 
 ## Related Zettels
-- [[Permutation_Test_Interpretation_Validity_Z-001-0937] — Internal validation
-- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560] — Full pipeline
+- [[Permutation_Test_Interpretation_Validity_Z-001-0937]] — Internal validation
+- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]] — Full pipeline
 - [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935] — Overfitting context
 
 ## Source

@@ -61,9 +61,9 @@ tags: [reference, desaturase, fatty-acids, t2d
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Advanced_Lipoxidation_End_Products_ALEs_Z-001-0958] — Desaturase enzyme mechanisms
-- [[Olive_Oil_Special_Populations_Z-001-0536] — Genetic variation in desaturases
-- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564] — Fatty acid metabolism
+- [[Advanced_Lipoxidation_End_Products_ALEs_Z-001-0958]] — Desaturase enzyme mechanisms
+- [[Olive_Oil_Special_Populations_Z-001-0536]] — Genetic variation in desaturases
+- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]] — Fatty acid metabolism
 
 ---
 

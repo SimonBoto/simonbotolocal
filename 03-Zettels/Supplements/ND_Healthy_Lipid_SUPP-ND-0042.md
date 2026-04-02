@@ -99,8 +99,8 @@ Take 1 capsule daily after breakfast or as directed by your physician.
 | 1 | €0.57 | 2.9 mg | Standard dose |
 
 ## Biomarker Links
-- [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001] — target <100 mg/dL
-- [[HDL_Cholesterol_High-Density_Lipoprotein_Z-006-0002] — target >40/50 mg/dL
+- [[LDL_Cholesterol_Low-Density_Lipoprotein_Z-006-0001]] — target <100 mg/dL
+- [[HDL_Cholesterol_High-Density_Lipoprotein_Z-006-0002]] — target >40/50 mg/dL
 - [[Total_Cholesterol_Overall_Z-006-0004] — target <200 mg/dL
 - [[Liver_Function_[B-009-0001] — monitor ALT/AST |
 

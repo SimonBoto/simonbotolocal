@@ -99,9 +99,9 @@ Chickens fed predominantly on corn and grain-based diets accumulate significantl
 
 ## Related Zettels
 
-- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563] — Egg quality comparison
-- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564] — Inflammation mechanisms
-- [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565] — Complete measurements table
+- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563]] — Egg quality comparison
+- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]] — Inflammation mechanisms
+- [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]] — Complete measurements table
 - [[Seed_Oils_Omega6_Omega3_Ratio_Z-001-0503] — Broader omega-6:3 context
 
 ---

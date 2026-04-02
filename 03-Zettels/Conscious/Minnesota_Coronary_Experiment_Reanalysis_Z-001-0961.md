@@ -252,7 +252,7 @@ Saturated fat ↓ (replaced by PUFA) → LDL ↓ → **No change in death**
 
 ---
 
-**Related:** [[Sydney_Diet_Heart_Study_Reanalysis_Z-001-0960] | [[Industry_Funding_Bias_PUFA_Research_Z-001-0964] | [[Ancel_Keys_Scientific_Legacy_Z-001-0527]
+**Related:** [[Sydney_Diet_Heart_Study_Reanalysis_Z-001-0960]] | [[Industry_Funding_Bias_PUFA_Research_Z-001-0964]] | [[Ancel_Keys_Scientific_Legacy_Z-001-0527]
 
 **Source:** CGPT-0282 — Seed Oils and Chronic Diseases
 

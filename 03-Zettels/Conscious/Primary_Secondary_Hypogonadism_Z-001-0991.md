@@ -155,7 +155,7 @@ PRIMARY              SECONDARY             Complex/Mixed
 
 ---
 
-**Related:** [[Prolactinoma_Diagnosis_Management_Z-001-0992] | [[Erectile_Dysfunction_Hormonal_Workup_Z-001-0994] | [[SHBG_Physiology_Clinical_Significance_Z-001-0993]
+**Related:** [[Prolactinoma_Diagnosis_Management_Z-001-0992]] | [[Erectile_Dysfunction_Hormonal_Workup_Z-001-0994]] | [[SHBG_Physiology_Clinical_Significance_Z-001-0993]
 
 **Source:** CGPT-0438 — Hormone Scenarios
 

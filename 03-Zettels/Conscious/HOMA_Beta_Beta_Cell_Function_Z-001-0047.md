@@ -59,7 +59,7 @@ $$
 - Pattern: High HOMA-IR + Low HOMA-β = Decompensated/failing β-cells
 
 **Mechanisms:**
-- [[MAPK_Mitogenic_Pathway_Z-001-0016] — Mitochondrial dysfunction (β-cell energy failure)
+- [[MAPK_Mitogenic_Pathway_Z-001-0016]] — Mitochondrial dysfunction (β-cell energy failure)
 - _Z-001-0018.md] — Lipotoxicity (chronic IR damages β-cells)
 - [[Predictive_Metabolites_T1D_Example_Z-001-0019.md] — Inflammatory signaling (cytokine-mediated β-cell apoptosis)
 

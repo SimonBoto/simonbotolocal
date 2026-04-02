@@ -303,7 +303,7 @@ The 1977-1980 dietary guideline shift:
 
 ---
 
-**Related:** [[Ancel_Keys_Seven_Countries_Study_Z-001-0245] | [[Ancel_Keys_Scientific_Legacy_Z-001-0527] | [[Procter_Gamble_Crisco_Launch_1911_Z-001-0969] | [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]
+**Related:** [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]] | [[Ancel_Keys_Scientific_Legacy_Z-001-0527]] | [[Procter_Gamble_Crisco_Launch_1911_Z-001-0969]] | [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]
 
 **Source:** CGPT-0340 — Seed oils history and process
 

@@ -40,8 +40,8 @@ Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid inte
 
 ## Links
 
-- **Mechanism:** [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013] — Lipid intermediate accumulation
-- **Parallel:** [[ER_Stress_Induced_IR_Z-001-0014] — Cellular stress convergence
+- **Mechanism:** [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013]] — Lipid intermediate accumulation
+- **Parallel:** [[ER_Stress_Induced_IR_Z-001-0014]] — Cellular stress convergence
 
 ## Context
 

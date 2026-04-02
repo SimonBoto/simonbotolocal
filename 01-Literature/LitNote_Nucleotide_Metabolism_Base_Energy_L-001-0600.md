@@ -79,11 +79,11 @@ Adenine (base) + Ribose (sugar) → Adenosine (nucleoside)
 **Connection to METHAP/PhD:** Mitochondrial ATP production is core to insulin resistance mechanisms; understanding nucleotide metabolism informs energy dysregulation research.
 
 ## Zettels Created from This Source
-1. [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083] — Universal hub molecule
-2. [[Adenine_Purine_Base_Structure_Function_Z-001-1084] — Purine chemistry
-3. [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085] — Pentose sugar
-4. [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086] — Formation mechanism
-5. [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087] — Recycling pathway
+1. [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]] — Universal hub molecule
+2. [[Adenine_Purine_Base_Structure_Function_Z-001-1084]] — Purine chemistry
+3. [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]] — Pentose sugar
+4. [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]] — Formation mechanism
+5. [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]] — Recycling pathway
 
 ## Related References
 - 

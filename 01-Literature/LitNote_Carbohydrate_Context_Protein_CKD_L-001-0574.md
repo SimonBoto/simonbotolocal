@@ -16,7 +16,7 @@ domain: 001
 # Carbohydrate Context Modifies Protein Effects — The Missing Variable in CKD Research
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370] (messages 3-6, 18)
+- **ChatGPT conversation:** [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]] (messages 3-6, 18)
 - **Date:** May 26, 2024
 - **Scope:** Critical analysis of macronutrient context in protein-CKD studies
 

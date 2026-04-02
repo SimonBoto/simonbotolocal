@@ -81,9 +81,9 @@ extraction-date: 2026-03-01
 5. [[Cholecalciferol_vs_Calcitriol_Safety_Profile_Z-001-0066]
 
 ## Related References
-- [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006] — Why fears are unfounded
-- [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007] — Dosing context
-- [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009] — Clinical evidence
+- [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]] — Why fears are unfounded
+- [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]] — Dosing context
+- [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]] — Clinical evidence
 -  — Parent MOC
 -  — Safety framework
 

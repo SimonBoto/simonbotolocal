@@ -91,7 +91,7 @@ Yield both glucogenic and ketogenic products.
 
 ## Related
 - All amino acid entry zettels
-- [[Ketogenic_Amino_Acids_Leucine_Lysine_Z-001-0498] Ketogenic Amino Acids (Leucine, Lysine)
+- [[Ketogenic_Amino_Acids_Leucine_Lysine_Z-001-0498]] Ketogenic Amino Acids (Leucine, Lysine)
 - 
 
 ---

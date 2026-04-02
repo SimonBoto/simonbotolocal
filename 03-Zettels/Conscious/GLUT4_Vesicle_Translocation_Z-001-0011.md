@@ -35,7 +35,7 @@ created: 2026-02-22
 
 ## Links
 
-- **Upstream:** [[Akt_Substrate_Phosphorylation_Z-001-0010] — AS160 phosphorylation
+- **Upstream:** [[Akt_Substrate_Phosphorylation_Z-001-0010]] — AS160 phosphorylation
 
 ## Context
 

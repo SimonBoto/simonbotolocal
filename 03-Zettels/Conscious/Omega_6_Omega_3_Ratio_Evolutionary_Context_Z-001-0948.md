@@ -124,8 +124,8 @@ INFLAMMATION                          RESOLUTION
 | **EPA+DHA** | 1-2g | 100-200mg |
 
 ## Related Zettels
-- [[Seed_Oil_Fatty_Acid_Composition_Table_Z-001-0945] — Oil comparison
-- [[Linoleic_Acid_Metabolic_Fate_Desaturase_Competition_Z-001-0946] — 
+- [[Seed_Oil_Fatty_Acid_Composition_Table_Z-001-0945]] — Oil comparison
+- [[Linoleic_Acid_Metabolic_Fate_Desaturase_Competition_Z-001-0946]] — 
 
 ## Source
 [[LitNote_Seed_Oils_Fatty_Acid_Composition_L-001-0522]

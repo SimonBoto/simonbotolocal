@@ -122,7 +122,7 @@ Glutamine is the primary fuel source for enterocytes (intestinal epithelial cell
 
 ---
 
-*Source: [[LitNote_Gut_Healing_Amino_Acids_L-001-0636] | 2026-03-09*
+*Source: [[LitNote_Gut_Healing_Amino_Acids_L-001-0636]] | 2026-03-09*
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]

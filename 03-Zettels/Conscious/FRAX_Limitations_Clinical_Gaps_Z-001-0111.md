@@ -168,9 +168,9 @@ Action: Treat (threshold 10% for glucocorticoids)
 - Offer trial of therapy with reassessment
 
 ## Related Zettels
-- [[FRAX_Input_Variables_Clinical_Risk_Factors_Z-001-0109] — What's included
-- [[FRAX_Adjustments_TBS_Falls_Glucocorticoids_Z-001-0112] — How to correct
-- [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110] — When to override
+- [[FRAX_Input_Variables_Clinical_Risk_Factors_Z-001-0109]] — What's included
+- [[FRAX_Adjustments_TBS_Falls_Glucocorticoids_Z-001-0112]] — How to correct
+- [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110]] — When to override
 
 ## Source
 [[LitNote_FRAX_Risk_Assessment_Tool_L-001-0017]

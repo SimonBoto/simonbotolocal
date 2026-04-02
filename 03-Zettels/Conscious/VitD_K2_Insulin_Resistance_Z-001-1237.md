@@ -133,7 +133,7 @@ Multiple pathways addressed simultaneously
 
 ---
 
-*Source: [[LitNote_VitD_K2_Synergy_MetS_L-001-0639] | 2026-03-09*
+*Source: [[LitNote_VitD_K2_Synergy_MetS_L-001-0639]] | 2026-03-09*
 
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]

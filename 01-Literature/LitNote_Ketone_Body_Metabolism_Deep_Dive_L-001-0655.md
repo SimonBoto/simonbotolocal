@@ -16,7 +16,7 @@ status: conscious
 
 > **Source:** ChatGPT CGPT-0647 (April 30, 2023)  
 > **Conversation:** ATP Pathways Overview — Messages 5-8, 21-30  
-> **Archive:** [[CGPT_0647_ATP_Pathways_Overview_CGPT-0647] (38 messages)
+> **Archive:** [[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]] (38 messages)
 
 ---
 

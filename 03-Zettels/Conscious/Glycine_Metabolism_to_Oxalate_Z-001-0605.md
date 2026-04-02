@@ -70,7 +70,7 @@ Glyoxylate → Oxalate (oxidation)
 - ~10-50% from vitamin C (variable)
 
 ## Related
-- [[Hydroxyproline_Collagen_Oxalate_Production_Z-001-0606] — Collagen source
+- [[Hydroxyproline_Collagen_Oxalate_Production_Z-001-0606]] — Collagen source
 - [[Primary_Hyperoxaluria_Genetic_Z-001-0610] — PH1 disease
 
 ---

@@ -42,8 +42,8 @@ G6P + 2 NADP⁺ + H₂O → R5P + CO₂ + 2 NADPH + 2 H⁺
 - **Evolutionary advantage:** Protection against malaria
 
 ## Related
-- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461] NADPH Functions (product of PPP)
-- [[Ribose_Structure_RNA_Backbone_Z-001-0458] Ribose Structure and Function
+- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]] NADPH Functions (product of PPP)
+- [[Ribose_Structure_RNA_Backbone_Z-001-0458]] Ribose Structure and Function
 - _G3P_DHAP_Z-001-0459] Triose Metabolism Integration
 
 ---

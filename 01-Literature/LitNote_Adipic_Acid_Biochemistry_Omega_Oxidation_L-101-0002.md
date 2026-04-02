@@ -134,17 +134,17 @@ When β-oxidation is impaired:
 ---
 
 ## Zettels Created from This Source
-1. [[Adipate_Formation_Palmitate_Pathway_Z-101-0008] — ω-oxidation biochemistry
-2. [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009] — Mechanistic connection to IR
-3. [[Adipate_Metabolism_TCA_Entry_Z-101-0010] — Energy recovery pathway
-4. [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011] — Diagnostic pattern recognition
-5. [[Omega_Oxidation_vs_Ketogenesis_Distinction_Z-101-0012] — Clinical differentiation
+1. [[Adipate_Formation_Palmitate_Pathway_Z-101-0008]] — ω-oxidation biochemistry
+2. [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]] — Mechanistic connection to IR
+3. [[Adipate_Metabolism_TCA_Entry_Z-101-0010]] — Energy recovery pathway
+4. [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]] — Diagnostic pattern recognition
+5. [[Omega_Oxidation_vs_Ketogenesis_Distinction_Z-101-0012]] — Clinical differentiation
 
 ---
 
 ## Related References
-- [[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003] — Clinical interpretation
-- [[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004] — Cofactor biochemistry
+- [[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]] — Clinical interpretation
+- [[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]] — Cofactor biochemistry
 -  — Parent MOC
 -  — Clinical context
 

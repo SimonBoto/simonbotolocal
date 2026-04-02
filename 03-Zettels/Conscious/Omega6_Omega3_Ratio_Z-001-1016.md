@@ -370,7 +370,7 @@ Docosahexaenoic Acid (DHA) — 22:6n-3 (<0.5% conversion)
 
 ---
 
-**Related:** [[Omega_6_Omega_3_Ratio_Evolutionary_Context_Z-001-0948] | [[Omega_3_Inflammation_Resolution_Z-001-0031] | [[Seed_Oils_Pro_Inflammatory_Mechanisms_Z-001-0950]
+**Related:** [[Omega_6_Omega_3_Ratio_Evolutionary_Context_Z-001-0948]] | [[Omega_3_Inflammation_Resolution_Z-001-0031] | [[Seed_Oils_Pro_Inflammatory_Mechanisms_Z-001-0950]
 
 **Source:** CGPT-0124 — Five Pillars of Metabolic Health
 

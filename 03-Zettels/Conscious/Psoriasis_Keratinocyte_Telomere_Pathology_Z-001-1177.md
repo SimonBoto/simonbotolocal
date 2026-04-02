@@ -147,7 +147,7 @@ parent-index: [[03-Zettels-Conscious]]
 ---
 parent-index: [[03-Zettels-Conscious]]
 
-*Source: [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624] | 2026-03-08*
+*Source: [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]] | 2026-03-08*
 
 
 ## RELATED FILES

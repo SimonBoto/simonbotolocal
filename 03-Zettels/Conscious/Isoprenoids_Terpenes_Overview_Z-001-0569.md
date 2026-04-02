@@ -120,9 +120,9 @@ All terpenes/isoprenoids are **lipophilic (fat-soluble)** due to:
 
 ## Related Zettels
 
-- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570] — Steroid hormones from cholesterol
-- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571] — Human isoprenoid products
-- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566] — IPP synthesis
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]] — Steroid hormones from cholesterol
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]] — Human isoprenoid products
+- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]] — IPP synthesis
 - [[LitNote_Seed_Oils_Omega6_Omega3_Ratio_L-001-0503] — Plant oil context
 
 ---

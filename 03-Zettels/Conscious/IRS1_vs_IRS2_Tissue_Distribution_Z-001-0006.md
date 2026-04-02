@@ -34,7 +34,7 @@ IRS-1 and IRS-2 are the primary  receptor substrates with distinct tissue distri
 
 ## Links
 
-- **Upstream:** [[IRS_Protein_Recruitment_Z-001-0005] — Shared 
+- **Upstream:** [[IRS_Protein_Recruitment_Z-001-0005]] — Shared 
 
 ## Context
 

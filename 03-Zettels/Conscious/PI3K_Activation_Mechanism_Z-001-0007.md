@@ -33,8 +33,8 @@ Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the sec
 
 ## Links
 
-- **Upstream:** [[IRS_Protein_Recruitment_Z-001-0005] — Adapter docking
-- **Downstream:** [[Akt_Recruitment_by_PIP3_Z-001-0009] — Second messenger function
+- **Upstream:** [[IRS_Protein_Recruitment_Z-001-0005]] — Adapter docking
+- **Downstream:** [[Akt_Recruitment_by_PIP3_Z-001-0009]] — Second messenger function
 
 ## Context
 

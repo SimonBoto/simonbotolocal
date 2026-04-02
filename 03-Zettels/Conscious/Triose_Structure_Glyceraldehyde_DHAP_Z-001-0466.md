@@ -46,8 +46,8 @@ source: [[L-001-0045D]
 - Essential for glycolytic flux
 
 ## Related
-- [[Glycolysis_Steps_Regulation_Z-001-0467] Glycolysis Steps
-- [[Triose_Metabolism_G3P_DHAP_Z-001-0459] Triose Metabolism Integration
+- [[Glycolysis_Steps_Regulation_Z-001-0467]] Glycolysis Steps
+- [[Triose_Metabolism_G3P_DHAP_Z-001-0459]] Triose Metabolism Integration
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

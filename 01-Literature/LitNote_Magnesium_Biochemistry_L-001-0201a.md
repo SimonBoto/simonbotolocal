@@ -166,9 +166,9 @@ Magnesium regulates critical ion channels and cellular signaling pathways:
 5. [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]
 
 ## Related References
-- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008] — Mg as VitD cofactor
-- [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009] — Pediatric safety (Mg monitoring)
-- [[LitNote_Metabolic_Syndrome_Overview_L-001-0200] — Clinical context
+- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — Mg as VitD cofactor
+- [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]] — Pediatric safety (Mg monitoring)
+- [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]] — Clinical context
 -  — Parent MOC
 -  — VitD pathway context
 

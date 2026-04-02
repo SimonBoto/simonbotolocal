@@ -71,12 +71,12 @@ extraction-date: 2026-03-08
 **Connection to METHAP/PhD:** Vitamin D metabolism directly connects to your research focus.
 
 ## Zettels Created from This Source
-1. [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059] — D-PTH-calcium system
-2. [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060] — Mg roles
-3. [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061] — K2 mechanism
-4. [[One_Carbon_Metabolism_Folate_B12_Z-001-1062] — Methylation
-5. [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063] — Brain chemistry
-6. [[Gut_Microbiome_OAT_Markers_Z-001-1064] — Gut markers
+1. [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]] — D-PTH-calcium system
+2. [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]] — Mg roles
+3. [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]] — K2 mechanism
+4. [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]] — Methylation
+5. [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]] — Brain chemistry
+6. [[Gut_Microbiome_OAT_Markers_Z-001-1064]] — Gut markers
 
 ## Related References
 - 

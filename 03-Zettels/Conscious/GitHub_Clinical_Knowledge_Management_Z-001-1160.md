@@ -105,7 +105,7 @@ clinical-knowledge/
 
 ---
 
-*Source: [[LitNote_Self_Education_Clinical_Team_L-001-0620] | 2026-03-08*
+*Source: [[LitNote_Self_Education_Clinical_Team_L-001-0620]] | 2026-03-08*
 
 ---
 

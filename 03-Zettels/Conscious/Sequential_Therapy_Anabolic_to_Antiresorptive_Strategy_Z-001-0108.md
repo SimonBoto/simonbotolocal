@@ -174,10 +174,10 @@ Duration:      Long-term antiresorptive
 - **Rationale:** Indicates need for formation stimulation
 
 ## Related Zettels
-- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105] — Anabolic phase option
-- [[Romosozumab_Anti_Sclerostin_Dual_Action_Therapy_Z-001-0107] — Anabolic phase option
+- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]] — Anabolic phase option
+- [[Romosozumab_Anti_Sclerostin_Dual_Action_Therapy_Z-001-0107]] — Anabolic phase option
 - _Z-001-0085] — Antiresorptive follow-up option
-- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104] — Physiological basis
+- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]] — Physiological basis
 
 ## Source
 [[LitNote_Anabolic_Bone_Therapies_L-001-0016]

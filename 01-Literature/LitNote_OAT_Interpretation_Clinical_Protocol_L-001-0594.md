@@ -75,11 +75,11 @@ extraction-date: 2026-03-08
 **Connection to METHAP/PhD:** OAT is core to your diagnostic methodology.
 
 ## Zettels Created from This Source
-1. [[OAT_Category_Interpretation_Framework_Z-001-1065] — Systematic approach
-2. [[OAT_Pattern_Recognition_Protocol_Z-001-1066] — Pattern methodology
-3. [[OAT_Mitochondrial_Patterns_Z-001-1067] — Energy dysfunction
-4. [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068] — Microbiome markers
-5. [[OAT_Clinical_Action_Mapping_Z-001-1069] — Marker → treatment
+1. [[OAT_Category_Interpretation_Framework_Z-001-1065]] — Systematic approach
+2. [[OAT_Pattern_Recognition_Protocol_Z-001-1066]] — Pattern methodology
+3. [[OAT_Mitochondrial_Patterns_Z-001-1067]] — Energy dysfunction
+4. [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]] — Microbiome markers
+5. [[OAT_Clinical_Action_Mapping_Z-001-1069]] — Marker → treatment
 
 ## Related References
 - 

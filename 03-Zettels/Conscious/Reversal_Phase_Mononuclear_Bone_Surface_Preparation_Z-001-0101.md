@@ -66,8 +66,8 @@ Factors released during bone degradation signal formation to begin:
 
 ## Related Zettels
 - [[Resorption_Phase_Osteoclast_Acid_Protease_Activity_Z-001-0100] — Preceding phase
-- [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102] — Following phase
-- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104] — System context
+- [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102]] — Following phase
+- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]] — System context
 
 ## Source
 [[LitNote_Bone_Remodeling_Cycle_Dynamics_L-001-0015]

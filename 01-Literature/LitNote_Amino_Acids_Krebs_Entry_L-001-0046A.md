@@ -207,13 +207,13 @@ Isoleucine, Phenylalanine, Tryptophan, Tyrosine
 
 ## Zettels Extracted
 
-- [[Amino_Acids_Oxaloacetate_Aspartate_Z-001-0493] Amino Acids to Oxaloacetate and Aspartate
-- [[Amino_Acids_Alpha_Ketoglutarate_Hub_Z-001-0494] Amino Acids to α-Ketoglutarate: The Glutamate Hub
-- [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495] Amino Acids to Succinyl-CoA: B12 Criticality
-- [[Amino_Acids_Fumarate_Phenylalanine_Tyrosine_Z-001-0496] Amino Acids to Fumarate: Phenylalanine and Tyrosine
-- [[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_Z-001-0497] Amino Acids to Pyruvate: Alanine and Serine-Glycine
-- [[Ketogenic_Amino_Acids_Leucine_Lysine_Z-001-0498] Ketogenic Amino Acids: Leucine and Lysine
-- [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499] Glucogenic vs Ketogenic Classification
+- [[Amino_Acids_Oxaloacetate_Aspartate_Z-001-0493]] Amino Acids to Oxaloacetate and Aspartate
+- [[Amino_Acids_Alpha_Ketoglutarate_Hub_Z-001-0494]] Amino Acids to α-Ketoglutarate: The Glutamate Hub
+- [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]] Amino Acids to Succinyl-CoA: B12 Criticality
+- [[Amino_Acids_Fumarate_Phenylalanine_Tyrosine_Z-001-0496]] Amino Acids to Fumarate: Phenylalanine and Tyrosine
+- [[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_Z-001-0497]] Amino Acids to Pyruvate: Alanine and Serine-Glycine
+- [[Ketogenic_Amino_Acids_Leucine_Lysine_Z-001-0498]] Ketogenic Amino Acids: Leucine and Lysine
+- [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499]] Glucogenic vs Ketogenic Classification
 
 ---
 

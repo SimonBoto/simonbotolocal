@@ -74,8 +74,8 @@ IR participants not receiving intervention:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]  
-**Related:** [[METHAP_Study_Design_Overview_Z-002-0616] — Full study structure
+**Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]]  
+**Related:** [[METHAP_Study_Design_Overview_Z-002-0616]] — Full study structure
 
 ---
 

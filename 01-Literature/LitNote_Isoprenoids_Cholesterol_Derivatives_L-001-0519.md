@@ -222,11 +222,11 @@ The "statin side effect" conversation must include:
 ---
 
 ## Zettels Created from This Source
-1. [[Isoprenoids_Terpenes_Overview_Z-001-0569] — Isoprenoid classification and functions
-2. [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570] — Steroid hormone pathways
-3. [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571] — CoQ10 and protein glycosylation
-4. [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572] — Vitamin D as cholesterol derivative
-5. [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573] — Bile acid formation and function
+1. [[Isoprenoids_Terpenes_Overview_Z-001-0569]] — Isoprenoid classification and functions
+2. [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]] — Steroid hormone pathways
+3. [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]] — CoQ10 and protein glycosylation
+4. [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]] — Vitamin D as cholesterol derivative
+5. [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]] — Bile acid formation and function
 
 ---
 
@@ -234,7 +234,7 @@ The "statin side effect" conversation must include:
 -  — Parent MOC
 -  — Vitamin D details
 -  — Steroid hormone context
-- [[LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518] — Mevalonate pathway details
+- [[LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518]] — Mevalonate pathway details
 
 ---
 

@@ -344,7 +344,7 @@ AMPK activation
 
 ---
 
-**Related:** [[Mitochondrial_Gene_Knockout_Models_Z-001-0988] | [[Warburg_Effect_Cancer_Metabolism_Z-001-0045] | [[Metformin_Cancer_Mechanisms_Z-001-0046]
+**Related:** [[Mitochondrial_Gene_Knockout_Models_Z-001-0988]] | [[Warburg_Effect_Cancer_Metabolism_Z-001-0045] | [[Metformin_Cancer_Mechanisms_Z-001-0046]
 
 **Source:** CGPT-0311 — Self-Education Program Plan
 

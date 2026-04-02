@@ -175,8 +175,8 @@ Androstenedione → Estrone (via aromatase)
 
 ## Related Zettels
 
-- [[Isoprenoids_Terpenes_Overview_Z-001-0569] — Isoprenoid context
-- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571] — Other cholesterol products
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]] — Isoprenoid context
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]] — Other cholesterol products
 -  — Hormone MOC (if exists)
 -  — Adrenal context
 

@@ -145,7 +145,7 @@ status: conscious
 
 ---
 
-**Related:** [[Protein_Restriction_CKD_Guidelines_Z-001-0974] | _Z-001-0975]
+**Related:** [[Protein_Restriction_CKD_Guidelines_Z-001-0974]] | _Z-001-0975]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
 

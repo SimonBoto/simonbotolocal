@@ -170,16 +170,16 @@ dysfunction)    activation)
 ---
 
 ## Zettels Created from This Source
-1. [[Sirolimus_GLUT4_Insulin_Resistance_Z-001-0923] — Peripheral insulin resistance mechanism
-2. [[Sirolimus_Beta_Cell_Dysfunction_NODAT_Z-001-0924] — β-cell toxicity
-3. [[mTORC2_Akt_Insulin_Signaling_Z-001-0925] — mTORC2-mediated resistance
-4. [[Sirolimus_Lipotoxicity_Adiponectin_Z-001-0926] — Adipose tissue dysfunction
-5. [[NODAT_Risk_Factors_Management_Z-001-0927] — Clinical management strategies
+1. [[Sirolimus_GLUT4_Insulin_Resistance_Z-001-0923]] — Peripheral insulin resistance mechanism
+2. [[Sirolimus_Beta_Cell_Dysfunction_NODAT_Z-001-0924]] — β-cell toxicity
+3. [[mTORC2_Akt_Insulin_Signaling_Z-001-0925]] — mTORC2-mediated resistance
+4. [[Sirolimus_Lipotoxicity_Adiponectin_Z-001-0926]] — Adipose tissue dysfunction
+5. [[NODAT_Risk_Factors_Management_Z-001-0927]] — Clinical management strategies
 
 ---
 
 ## Related References
-- [[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512] — Mitochondrial mechanisms
+- [[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]] — Mitochondrial mechanisms
 -  — Parent MOC
 -  — Metabolic context
 -  — Patient management

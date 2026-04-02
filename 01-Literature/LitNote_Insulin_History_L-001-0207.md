@@ -189,8 +189,8 @@ extraction-date: 2026-03-01
 6. [[Nobel_Prize_1923_Controversy_Z-001-0236]
 
 ## Related References
-- [[LitNote_IR_Mechanisms_Map_L-001-0005] — Modern IR understanding
-- [[LitNote_Metabolic_Syndrome_Overview_L-001-0200] — MetS progression context
+- [[LitNote_IR_Mechanisms_Map_L-001-0005]] — Modern IR understanding
+- [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]] — MetS progression context
 -  — Parent MOC
 -  — Historical context
 

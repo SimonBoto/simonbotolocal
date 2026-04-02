@@ -109,7 +109,7 @@ Ketones provide:
 
 ## Biomarker Links
 - [[Ketones_BHB_AcAc_Z-005-XXXX] — blood ketone levels
-- [[Glucose_Blood_Sugar_Energy_Z-005-0001] — should remain stable |
+- [[Glucose_Blood_Sugar_Energy_Z-005-0001]] — should remain stable |
 - [[Triglycerides_Lipid_Status_Z-006-0003] — MCTs don't raise triglycerides |
 
 ## Comparison with Other MCT Products

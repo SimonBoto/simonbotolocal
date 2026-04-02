@@ -126,15 +126,15 @@ extraction-date: 2026-02-23
 ### Subsection 1 (Systems Biology & Metabolomics)
 1. [[Systems_Biology_Integrative_Framework_Z-001-0001.md] - Core definition
 2. [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md] - Flow hierarchy
-3. [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903] - Key statistic
+3. [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] - Key statistic
 
 ### Subsection 2 (Other Omics Sciences)
-4. [[Genomics_Structure_Function_Genome_Z-001-0904] - Genome structure/function
-5. [[Epigenomics_Gene_Regulation_Z-001-0905] - Gene regulation mechanisms
-6. [[Transcriptomics_Transcriptome_Bridge_Z-001-0906] - RNA as proteome precursor
-7. [[Proteomics_Protein_Structure_Function_Z-001-0907] - Protein analysis
-8. [[Microbiomics_Gut_Metabolic_Organ_Z-001-0908] - Gut microbiome metabolism
-9. [[Biomarkers_Precision_Medicine_Z-001-0909] - Biomarker types & applications
+4. [[Genomics_Structure_Function_Genome_Z-001-0904]] - Genome structure/function
+5. [[Epigenomics_Gene_Regulation_Z-001-0905]] - Gene regulation mechanisms
+6. [[Transcriptomics_Transcriptome_Bridge_Z-001-0906]] - RNA as proteome precursor
+7. [[Proteomics_Protein_Structure_Function_Z-001-0907]] - Protein analysis
+8. [[Microbiomics_Gut_Metabolic_Organ_Z-001-0908]] - Gut microbiome metabolism
+9. [[Biomarkers_Precision_Medicine_Z-001-0909]] - Biomarker types & applications
 
 ---
 

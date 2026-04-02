@@ -53,9 +53,9 @@ contributing-zettels:
 
 **Adipic Acid as Biomarker**
   [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]
-- [[Adipate_Formation_Palmitate_Pathway_Z-101-0008] — Metabolic pathway
-- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011] — Clinical interpretation
-- [[Urinary_Adipate_Interpretation_Clinical_Z-001-1199]— Diagnostic utility
+- [[Adipate_Formation_Palmitate_Pathway_Z-101-0008]] — Metabolic pathway
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]] — Clinical interpretation
+- [[Urinary_Adipate_Interpretation_Clinical_Z-001-1199]]— Diagnostic utility
 
 **Mitochondrial Connection**
 - [[Mitochondrial_Dysfunction_IR_Z-001-0015]
@@ -479,7 +479,7 @@ Week 16: Follow-up assessment (4 weeks post-intervention)
 
 ### 10.3 Clinical Integration
 
-- Update [[IR_Playbook_Clinical_Decision_Tool_S-001-0001] with findings
+- Update [[IR_Playbook_Clinical_Decision_Tool_S-001-0001]] with findings
 - Patient education materials
 - Practitioner guidelines
 
@@ -547,9 +547,9 @@ Week 16: Follow-up assessment (4 weeks post-intervention)
 ---
 
 ## Related Documents
-- [[Research_Ethics_IRB_Checklist_S-002-0002] — Ethics compliance
-- [[IR_Playbook_Clinical_Decision_Tool_S-001-0001] — Clinical integration
-- [[Vitamin_D_Clinical_Guide_S-001-0002] — Dosing rationale
+- [[Research_Ethics_IRB_Checklist_S-002-0002]] — Ethics compliance
+- [[IR_Playbook_Clinical_Decision_Tool_S-001-0001]] — Clinical integration
+- [[Vitamin_D_Clinical_Guide_S-001-0002]] — Dosing rationale
 
 ---
 

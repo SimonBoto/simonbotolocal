@@ -50,8 +50,8 @@ METHAP inclusion/exclusion criteria must be justified:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]  
-**Related:** [[Respect_Enrolled_Subjects_Ethics_Z-002-0607] — Ongoing protection
+**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]  
+**Related:** [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]] — Ongoing protection
 
 ---
 

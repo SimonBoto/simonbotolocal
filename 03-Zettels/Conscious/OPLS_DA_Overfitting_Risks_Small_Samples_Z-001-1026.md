@@ -78,9 +78,9 @@ Orthogonal Partial Least Squares Discriminant Analysis (OPLS-DA) can achieve **p
 4. **Report effect sizes:** Fold change + Cohen's d, not just VIP scores
 
 ## Related Zettels
-- [[VIP_Score_Limitations_Effect_Size_Necessity_Z-001-0936] — VIP interpretation
-- [[Underpowered_Study_Consequences_Z-001-0929] — Small sample issues
-- [[Benjamini_Hochberg_Procedure_Z-001-0524] — Multiple testing
+- [[VIP_Score_Limitations_Effect_Size_Necessity_Z-001-0936]] — VIP interpretation
+- [[Underpowered_Study_Consequences_Z-001-0929]] — Small sample issues
+- [[Benjamini_Hochberg_Procedure_Z-001-0524]] — Multiple testing
 
 ## Source
 [[LitNote_Multivariate_Analysis_Pitfalls_L-001-0517]

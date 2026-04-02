@@ -60,8 +60,8 @@ notes: |
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[METHAP_Study_Design_Overview_Z-101-0472] — Metabolic individuality in METHAP
-- [[Biomarkers_Precision_Medicine_Z-001-0909] — Precision medicine biomarkers
+- [[METHAP_Study_Design_Overview_Z-101-0472]] — Metabolic individuality in METHAP
+- [[Biomarkers_Precision_Medicine_Z-001-0909]] — Precision medicine biomarkers
 
 ---
 

@@ -122,9 +122,9 @@
 ## 🔗 QUICK NAVIGATION
 
 **Core:**
-- [[00-COMMAND] — Current priorities
-- [[02-HANDOFF] — Session state
-- [[04-LEXICON] — Vocabulary & terms
+- [[00-COMMAND]] — Current priorities
+- [[02-HANDOFF]] — Session state
+- [[04-LEXICON]] — Vocabulary & terms
 
 **Vault:**
 - `00-Inbox/` — New sources

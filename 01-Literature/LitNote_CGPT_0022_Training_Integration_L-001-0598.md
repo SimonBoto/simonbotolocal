@@ -89,8 +89,8 @@ This curriculum enables:
 **For PhD/METHAP:** The OAT interpretation and fatty acid analysis frameworks directly support research methodology.
 
 ## Zettels Created from This Source
-1. [[CGPT_0022_Curriculum_Master_Index_Z-001-1081] — Complete curriculum map
-2. [[Metabolomics_Training_MOC_Graph_Z-001-1082] — Knowledge graph connections
+1. [[CGPT_0022_Curriculum_Master_Index_Z-001-1081]] — Complete curriculum map
+2. [[Metabolomics_Training_MOC_Graph_Z-001-1082]] — Knowledge graph connections
 
 ## Related References
 - All 10 LitNotes from CGPT-0022 extraction

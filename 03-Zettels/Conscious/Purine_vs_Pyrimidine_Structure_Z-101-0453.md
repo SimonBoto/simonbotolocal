@@ -44,7 +44,7 @@ source: [[L-101-0045A]
 - **G-C:** 3 hydrogen bonds (more stable)
 
 ## Related
-- [[ATP_Universal_Energy_Currency_Z-101-0451] ATP Structure (adenine base)
+- [[ATP_Universal_Energy_Currency_Z-101-0451]] ATP Structure (adenine base)
 - _Z-101-0454] HCN Polymerization to Adenine
 
 ---

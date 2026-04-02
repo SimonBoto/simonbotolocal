@@ -84,15 +84,15 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Transcriptomics_Transcriptome_Bridge_Z-001-0906] — Produces proteins
-- **Parallel/Related:** [[Genomics_Structure_Function_Genome_Z-001-0904] — Genes code for proteins
+- **Upstream/Prerequisite:** [[Transcriptomics_Transcriptome_Bridge_Z-001-0906]] — Produces proteins
+- **Parallel/Related:** [[Genomics_Structure_Function_Genome_Z-001-0904]] — Genes code for proteins
 - **Downstream/Consequence:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md] — Metabolome is next
 
 ## Context
 
 **Also relevant to:** ,  — Protein players in insulin resistance
 
-**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001] — Subsection 2.4
+**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Subsection 2.4
 
 ---
 

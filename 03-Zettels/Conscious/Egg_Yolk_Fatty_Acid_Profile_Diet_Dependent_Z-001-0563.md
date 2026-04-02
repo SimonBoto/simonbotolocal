@@ -128,9 +128,9 @@ The fatty acid composition of egg yolks is **directly determined by the hen's di
 
 ## Related Zettels
 
-- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562] — Chicken meat comparison
-- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564] — Inflammation biochemistry
-- [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565] — Complete measurements
+- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]] — Chicken meat comparison
+- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]] — Inflammation biochemistry
+- [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]] — Complete measurements
 - [[Vitamin_K2_Omega3_Synergy_Z-001-0216] — K2 and omega-3 interactions (if exists)
 
 ---

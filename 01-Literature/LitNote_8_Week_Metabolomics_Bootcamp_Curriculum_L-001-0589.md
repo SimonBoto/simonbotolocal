@@ -87,15 +87,15 @@ By graduation, trainees must:
 - Assessment rubrics for each week's deliverables?
 
 ## Zettels Created from This Source
-1. [[Bootcamp_Four_Phase_Structure_Z-001-1035] — Curriculum architecture overview
-2. [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036] — Weeks 1-2 content
-3. [[Phase_2_OAT_Pattern_Mastery_Z-001-1037] — Weeks 3-4 OAT focus
-4. [[Phase_3_Lipidomics_Interpretation_Z-001-1038] — Weeks 5-6 fatty acids
-5. [[Phase_4_Clinical_Integration_Drills_Z-001-1039] — Weeks 7-8 practice
-6. [[Training_Teaching_Style_Framework_Z-001-1040] — Pedagogical approaches
+1. [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Curriculum architecture overview
+2. [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]] — Weeks 1-2 content
+3. [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]] — Weeks 3-4 OAT focus
+4. [[Phase_3_Lipidomics_Interpretation_Z-001-1038]] — Weeks 5-6 fatty acids
+5. [[Phase_4_Clinical_Integration_Drills_Z-001-1039]] — Weeks 7-8 practice
+6. [[Training_Teaching_Style_Framework_Z-001-1040]] — Pedagogical approaches
 
 ## Related References
-- [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588] — MCI role definition
+- [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]] — MCI role definition
 -  — Curriculum parent map
 -  — Technical analysis content
 

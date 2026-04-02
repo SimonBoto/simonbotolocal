@@ -89,9 +89,9 @@ Arginine + H₂O → Urea + Ornithine
 - Ultimate source of first urea nitrogen
 
 ## Related
-- [[Amino_Acids_Oxaloacetate_Aspartate_Z-001-0493]  to Oxaloacetate (aspartate connection)
-- [[Glutamate_Central_Amino_Acid_Hub_Z-001-0915] Glutamate Central Hub
-- [[Glutamine_Glutamate_Ammonia_Cycle_Z-001-0916] Glutamine-Glutamate-Ammonia Cycle
+- [[Amino_Acids_Oxaloacetate_Aspartate_Z-001-0493]]  to Oxaloacetate (aspartate connection)
+- [[Glutamate_Central_Amino_Acid_Hub_Z-001-0915]] Glutamate Central Hub
+- [[Glutamine_Glutamate_Ammonia_Cycle_Z-001-0916]] Glutamine-Glutamate-Ammonia Cycle
 - 
 
 ---

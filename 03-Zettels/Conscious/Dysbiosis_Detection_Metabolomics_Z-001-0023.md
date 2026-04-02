@@ -115,8 +115,8 @@ Emerging evidence suggests:
 ## Connections
 
 ### Upstream
-- [[Microbiomics_Gut_Metabolic_Organ_Z-001-0908] — DE1 microbiome foundation
-- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903] — Environmental factor
+- [[Microbiomics_Gut_Metabolic_Organ_Z-001-0908]] — DE1 microbiome foundation
+- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Environmental factor
 
 ### Downstream
 - [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022.md] — Dysbiosis-IR link
@@ -150,7 +150,7 @@ Emerging evidence suggests:
 - Longitudinal microbiome changes with IR progression
 
 ## See Also
-- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003] — Source (Section 1.2)
+- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source (Section 1.2)
 - [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021.md] — Probiotic micronutrient link
 - [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020.md] — LPS-induced OS
 

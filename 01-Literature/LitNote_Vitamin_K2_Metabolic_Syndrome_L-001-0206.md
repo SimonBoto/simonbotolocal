@@ -163,9 +163,9 @@ extraction-date: 2026-03-01
 4. [[Vitamin_K2_D_Mg_Synergy_Metabolic_Health_Z-001-0230]
 
 ## Related References
-- [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013] — Bone-vascular axis
-- [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218] — Mg calcification effects
-- [[LitNote_Metabolic_Syndrome_Overview_L-001-0200] — MetS context
+- [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]] — Bone-vascular axis
+- [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]] — Mg calcification effects
+- [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]] — MetS context
 -  — Parent MOC
 -  — Clinical context
 

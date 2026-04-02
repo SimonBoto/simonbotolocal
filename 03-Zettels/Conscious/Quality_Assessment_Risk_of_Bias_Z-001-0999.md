@@ -323,7 +323,7 @@ Quality assessment evaluates the methodological rigor of included studies. Risk 
 
 ---
 
-**Related:** [[Systematic_Search_Strategy_Z-001-0996] | [[Screening_Protocols_Systematic_Review_Z-001-0997] | [[Data_Extraction_Systematic_Review_Z-001-0998] | [[Meta_Analysis_Statistics_Forest_Plots_Z-001-1000]
+**Related:** [[Systematic_Search_Strategy_Z-001-0996]] | [[Screening_Protocols_Systematic_Review_Z-001-0997]] | [[Data_Extraction_Systematic_Review_Z-001-0998]] | [[Meta_Analysis_Statistics_Forest_Plots_Z-001-1000]
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
 

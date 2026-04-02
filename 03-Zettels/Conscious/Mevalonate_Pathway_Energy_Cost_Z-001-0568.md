@@ -137,9 +137,9 @@ The high cost is justified by cholesterol's critical functions:
 
 ## Related Zettels
 
-- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566] — Pathway overview
-- [[HMG_CoA_Reductase_Regulation_Z-001-0567] — Regulatory control
-- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570] — Cholesterol products
+- [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]] — Pathway overview
+- [[HMG_CoA_Reductase_Regulation_Z-001-0567]] — Regulatory control
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]] — Cholesterol products
 
 ---
 

@@ -172,7 +172,7 @@ parent-index: [[03-Zettels-Conscious]]
 
 ## Source
 
-Extracted from: [[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]  
+Extracted from: [[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]  
 CGPT-0647 (April 30, 2023) — Messages 5-8, 21-22
 
 

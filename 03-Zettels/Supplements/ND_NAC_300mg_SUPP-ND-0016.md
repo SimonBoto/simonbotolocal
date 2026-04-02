@@ -105,10 +105,10 @@ Take 1 capsule daily with water or as directed by your physician.
 | 2 | €0.54 | 600 mg | Therapeutic |
 
 ## Biomarker Links
-- [[Glutathione_Master_Antioxidant_Z-001-0436] — NAC is direct precursor
-- [[ALT_Alanine_Aminotransferase_Z-009-0001] — liver enzyme marker
-- [[GGT_Gamma-Glutamyl_Transferase_Z-009-0004] — glutathione-related enzyme
-- [[Homocysteine_Methylation_Cardiovascular_Risk_Z-004-0001] — NAC may lower homocysteine
+- [[Glutathione_Master_Antioxidant_Z-001-0436]] — NAC is direct precursor
+- [[ALT_Alanine_Aminotransferase_Z-009-0001]] — liver enzyme marker
+- [[GGT_Gamma-Glutamyl_Transferase_Z-009-0004]] — glutathione-related enzyme
+- [[Homocysteine_Methylation_Cardiovascular_Risk_Z-004-0001]] — NAC may lower homocysteine
 
 ## Comparison with Meetab NAC
 | Feature | NAC 300 mg (ND) | My Energy (Meetab) |

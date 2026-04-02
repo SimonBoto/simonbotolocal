@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: High-Dose Vitamin D Clinical Research — Safety in Pediatrics
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284] (lines 13-15)
+- **ChatGPT conversation:** [[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]] (lines 13-15)
 - **Gallo et al. (2013):** RCT of vitamin D supplementation in infants (400-1,600 IU)
 - **Saadi et al. (2009):** Safety of 2,000 IU/day in infants
 - **Gordon et al. (2008):** High-dose therapy in adolescents (2,000 IU daily, 50,000 IU weekly)
@@ -96,10 +96,10 @@ extraction-date: 2026-03-01
 7. [[High_Dose_Vitamin_D_Monitoring_Protocol_Z-001-0075]
 
 ## Related References
-- [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006] — Why limits are conservative
-- [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007] — Statistical errors in guidelines
-- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008] — Physiological safeguards
-- [[Personalized_Vitamin_D_vs_Population_Guidelines_Z-001-0074] — Individual variability
+- [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]] — Why limits are conservative
+- [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]] — Statistical errors in guidelines
+- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — Physiological safeguards
+- [[Personalized_Vitamin_D_vs_Population_Guidelines_Z-001-0074]] — Individual variability
 -  — Parent MOC for trial design
 -  — Safety framework
 

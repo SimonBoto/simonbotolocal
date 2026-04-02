@@ -242,7 +242,7 @@ status: conscious
 
 ---
 
-**Related:** [[Pagets_Disease_Bone_Diagnosis_Management_Z-001-0984] | [[Nipple_Discharge_Differential_Diagnosis_Z-001-0012] | [[Breast_Cancer_Screening_Guidelines_Z-001-0013]
+**Related:** [[Pagets_Disease_Bone_Diagnosis_Management_Z-001-0984]] | [[Nipple_Discharge_Differential_Diagnosis_Z-001-0012] | [[Breast_Cancer_Screening_Guidelines_Z-001-0013]
 
 **Source:** CGPT-0345 — Alkaline Phosphatase Overview
 

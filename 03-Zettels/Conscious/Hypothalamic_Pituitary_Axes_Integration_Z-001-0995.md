@@ -290,7 +290,7 @@ Reversible with recovery
 
 ---
 
-**Related:** [[Primary_Secondary_Hypogonadism_Z-001-0991] | [[Prolactinoma_Diagnosis_Management_Z-001-0992] | [[Erectile_Dysfunction_Hormonal_Workup_Z-001-0994] | [[Cortisol_Stress_Response_Physiology_Z-001-0102]
+**Related:** [[Primary_Secondary_Hypogonadism_Z-001-0991]] | [[Prolactinoma_Diagnosis_Management_Z-001-0992]] | [[Erectile_Dysfunction_Hormonal_Workup_Z-001-0994]] | [[Cortisol_Stress_Response_Physiology_Z-001-0102]
 
 **Source:** CGPT-0438 — Hormone Scenarios
 

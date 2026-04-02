@@ -123,10 +123,10 @@ Before claiming "biomarker identified":
 
 ## Related Zettels
 
-- [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558] — Proper classification
-- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560] — Validation stages
-- [[Underpowered_Study_Consequences_Z-001-0929] — Power implications
-- [[Statistical_Issues_Overfitting_Correlation_Z-001-0933] — Statistical risks
+- [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558]] — Proper classification
+- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]] — Validation stages
+- [[Underpowered_Study_Consequences_Z-001-0929]] — Power implications
+- [[Statistical_Issues_Overfitting_Correlation_Z-001-0933]] — Statistical risks
 
 ---
 

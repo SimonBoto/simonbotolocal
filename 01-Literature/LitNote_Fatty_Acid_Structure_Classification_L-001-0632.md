@@ -230,9 +230,9 @@ CH₃(CH₂)₇CH=CH(CH₂)₇COOH  or  C18H34O₂
 **Related Zettels:**
 - [[Fatty_Acid_Structure_Nomenclature_Z-001-1208] — To create
 - [[Omega_Classification_System_Z-001-1209] — To create
-- [[Saturated_vs_Unsaturated_Fats_Z-001-1210] — To create
+- [[Saturated_vs_Unsaturated_Fats_Z-001-1210]] — To create
 - [[Omega_3_6_Ratio_Health_Z-001-1211] — To create
-- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212] — To create
+- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]] — To create
 - [[Chain_Length_Metabolism_Z-001-1213] — To create
 
 **MOCs:**

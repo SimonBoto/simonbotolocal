@@ -17,9 +17,9 @@ domain: 001
 
 ## Source
 - **ChatGPT conversations:** 
-  - [[CGPT_0281_Seed_Oils_and_Metabolic_Health_CGPT-0281] (884 lines)
-  - [[CGPT_0282_Seed_Oils_and_Chronic_Diseases_CGPT-0282] (932 lines)
-  - [[CGPT_0340_Seed_oils_history_and_process_CGPT-0340] (234 lines)
+  - [[CGPT_0281_Seed_Oils_and_Metabolic_Health_CGPT-0281]] (884 lines)
+  - [[CGPT_0282_Seed_Oils_and_Chronic_Diseases_CGPT-0282]] (932 lines)
+  - [[CGPT_0340_Seed_oils_history_and_process_CGPT-0340]] (234 lines)
 - **Dates:** September 2024, June 2024
 - **Scope:** Comprehensive fatty acid analysis, metabolic pathways, health implications
 
@@ -119,8 +119,8 @@ Pro-inflammatory eicosanoids (PGE2, LTB4, TXA2)
 ## Integration Notes
 
 **Links to existing zettels:**
-- [[Omega_6_Omega_3_Ratio_Evolutionary_Modern_Z-001-0516] — Evolutionary perspective
-- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248] — Historical context
+- [[Omega_6_Omega_3_Ratio_Evolutionary_Modern_Z-001-0516]] — Evolutionary perspective
+- [[Seed_Oil_Rise_US_Diet_Government_Role_Z-001-0248]] — Historical context
 
 **Clinical Application:**
 - METHAP protocol implications: Fat quality assessment

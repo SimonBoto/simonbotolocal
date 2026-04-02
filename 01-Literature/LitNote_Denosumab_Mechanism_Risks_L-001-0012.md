@@ -79,8 +79,8 @@ extraction-date: 2026-03-01
 5. [[Denosumab_ONJ_Atypical_Fractures_Z-001-0089]
 
 ## Related References
-- [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011] — RANK/RANKL biology
-- [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013] — Nutritional adjuncts
+- [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]] — RANK/RANKL biology
+- [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]] — Nutritional adjuncts
 -  — Parent MOC
 -  — Discontinuation protocol
 

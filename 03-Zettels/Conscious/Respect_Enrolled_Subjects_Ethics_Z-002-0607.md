@@ -62,8 +62,8 @@ METHAP ongoing protections:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]  
-**Related:** [[Informed_Consent_Ethical_Research_Z-002-0606] — Entry requirements
+**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]  
+**Related:** [[Informed_Consent_Ethical_Research_Z-002-0606]] — Entry requirements
 
 ---
 

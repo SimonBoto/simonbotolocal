@@ -145,7 +145,7 @@ extraction-date: 2026-03-08
 
 **Related Zettels:**
 - [[Telomere_Structure_Function_Z-001-1170] — To create
-- [[Telomerase_Biology_Immunity_Z-001-1171] — To create
+- [[Telomerase_Biology_Immunity_Z-001-1171]] — To create
 - [[Immunosenescence_Autoimmunity_Z-001-1172] — To create
 - [[Oxidative_Stress_Telomere_Shortening_Z-001-1173] — To create
 

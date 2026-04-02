@@ -88,13 +88,13 @@ For first patient contact:
 **Training Application:** New doctors must master all 66; patients need only understand the 12 patient-facing concepts.
 
 ## Zettels Created from This Source
-1. [[Health_Philosophy_Core_Concepts_Z-001-1041] — Foundational health concepts
-2. [[Metabolism_Metabolomics_Terminology_Z-001-1042] — Core methodology terms
-3. [[Mitochondrial_Energy_Terminology_Z-001-1043] — Energy production vocabulary
-4. [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044] — Systemic control terms
-5. [[Microbiome_Gut_Brain_Terminology_Z-001-1045] — Gut ecosystem concepts
-6. [[Nutrition_Macronutrient_Terminology_Z-001-1046] — Dietary biochemistry
-7. [[Patient_Communication_Core_Concepts_Z-001-1047] — Patient-facing subset
+1. [[Health_Philosophy_Core_Concepts_Z-001-1041]] — Foundational health concepts
+2. [[Metabolism_Metabolomics_Terminology_Z-001-1042]] — Core methodology terms
+3. [[Mitochondrial_Energy_Terminology_Z-001-1043]] — Energy production vocabulary
+4. [[Hormonal_Metabolic_Regulation_Terms_Z-001-1044]] — Systemic control terms
+5. [[Microbiome_Gut_Brain_Terminology_Z-001-1045]] — Gut ecosystem concepts
+6. [[Nutrition_Macronutrient_Terminology_Z-001-1046]] — Dietary biochemistry
+7. [[Patient_Communication_Core_Concepts_Z-001-1047]] — Patient-facing subset
 
 ## Related References
 -  — Curriculum context

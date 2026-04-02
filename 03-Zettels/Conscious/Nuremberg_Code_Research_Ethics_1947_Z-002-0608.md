@@ -53,8 +53,8 @@ The Nuremberg Code established principles later incorporated into:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]  
-**Related:** [[Belmont_Report_Ethical_Principles_1979_Z-002-0610] — U.S. implementation
+**Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]]  
+**Related:** [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]] — U.S. implementation
 
 ---
 

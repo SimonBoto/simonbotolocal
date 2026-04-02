@@ -178,11 +178,11 @@ Without explicit "exploratory" framing, readers may interpret findings as more r
 
 ## Related Zettels
 
-- [[FDR_Threshold_Selection_Z-001-0932] — FDR 0.1 vs 0.05 Selection Framework
-- [[Biomarker_Validation_Requirements_Z-001-0528] — Validation Requirements for Biomarker Translation
-- [[Underpowered_Study_Consequences_Z-001-0929] — Underpowered Study Consequences
-- [[Sample_Size_Strategies_PhD_Z-001-0930] — PhD Sample Size Strategies
-- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515] — False Discovery Rate and Multiple Testing Correction
+- [[FDR_Threshold_Selection_Z-001-0932]] — FDR 0.1 vs 0.05 Selection Framework
+- [[Biomarker_Validation_Requirements_Z-001-0528]] — Validation Requirements for Biomarker Translation
+- [[Underpowered_Study_Consequences_Z-001-0929]] — Underpowered Study Consequences
+- [[Sample_Size_Strategies_PhD_Z-001-0930]] — PhD Sample Size Strategies
+- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — False Discovery Rate and Multiple Testing Correction
 
 ---
 

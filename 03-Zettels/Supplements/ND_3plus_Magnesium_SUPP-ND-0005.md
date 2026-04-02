@@ -95,10 +95,10 @@ Take 3 capsules daily after food or as directed by your physician.
 | 3 | €1.70 | 127 mg | Standard dose |
 
 ## Biomarker Links
-- [[Magnesium_Essential_Mineral_Cofactor_Z-007-0008] — RBC Mg optimal >6.0 mg/dL
-- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001] — Mg required for D activation
-- [[Calcium_Mineral_Bone_Signaling_Z-007-0003] — Mg balances calcium
-- [[PTH_Parathyroid_Hormone_Calcium_Regulator_Z-007-0002] — Low Mg elevates PTH
+- [[Magnesium_Essential_Mineral_Cofactor_Z-007-0008]] — RBC Mg optimal >6.0 mg/dL
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] — Mg required for D activation
+- [[Calcium_Mineral_Bone_Signaling_Z-007-0003]] — Mg balances calcium
+- [[PTH_Parathyroid_Hormone_Calcium_Regulator_Z-007-0002]] — Low Mg elevates PTH
 
 ## Comparison with Meetab Magnesium
 | Feature | 3plus Magnesium | My Calmag Tablets | My Calmag Powder |

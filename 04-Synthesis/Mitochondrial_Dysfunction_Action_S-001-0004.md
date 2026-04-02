@@ -668,10 +668,10 @@ contributing-zettels:
 
 ## Section 10: Related Protocols
 
-- [[IR_Playbook_Clinical_Decision_Tool_S-001-0001] — Metabolic syndrome overlap
-- [[Vitamin_D_Clinical_Guide_S-001-0002] — Synergistic intervention
-- [[Metabolomics_Training_Curriculum_S-001-0003] — OAT interpretation training
-- [[Omega_Fatty_Acids_Framework_S-001-0005] — Membrane support
+- [[IR_Playbook_Clinical_Decision_Tool_S-001-0001]] — Metabolic syndrome overlap
+- [[Vitamin_D_Clinical_Guide_S-001-0002]] — Synergistic intervention
+- [[Metabolomics_Training_Curriculum_S-001-0003]] — OAT interpretation training
+- [[Omega_Fatty_Acids_Framework_S-001-0005]] — Membrane support
 
 ---
 

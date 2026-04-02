@@ -87,8 +87,8 @@ Methylglutaconyl-CoA → HMG-CoA → Acetoacetate + Acetyl-CoA
 | **Inborn error** | MSUD | No common deficiency |
 
 ## Related
-- [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499] Glucogenic vs Ketogenic Classification
-- [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495] Amino Acids to Succinyl-CoA (isoleucine, valine)
+- [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499]] Glucogenic vs Ketogenic Classification
+- [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]] Amino Acids to Succinyl-CoA (isoleucine, valine)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

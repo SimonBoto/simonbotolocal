@@ -97,9 +97,9 @@ domain: 001
 ## Integration with Existing Knowledge
 
 **Links to previous extractions:**
-- [[LitNote_Power_Analysis_Metabolomics_L-001-0514] — Sample size context
-- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515] — Statistical correction
-- [[Underpowered_Study_Consequences_Z-001-0929] — Small sample issues
+- [[LitNote_Power_Analysis_Metabolomics_L-001-0514]] — Sample size context
+- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — Statistical correction
+- [[Underpowered_Study_Consequences_Z-001-0929]] — Small sample issues
 
 **Clinical Translation:**
 - OPLS-DA useful for hypothesis generation only

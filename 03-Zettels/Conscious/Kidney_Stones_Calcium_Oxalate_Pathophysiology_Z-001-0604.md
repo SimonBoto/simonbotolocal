@@ -64,8 +64,8 @@ Ca²⁺ + C₂O₄²⁻ → CaC₂O₄ (crystal)
 5. **Limit sodium:** Reduces calcium excretion
 
 ## Related
-- [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603] — Binding mechanism
-- [[Dietary_Sources_Oxalate_Table_Z-001-0602] — Food management
+- [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603]] — Binding mechanism
+- [[Dietary_Sources_Oxalate_Table_Z-001-0602]] — Food management
 
 ---
 *Source: CGPT-0413 | Created: 2026-03-04*

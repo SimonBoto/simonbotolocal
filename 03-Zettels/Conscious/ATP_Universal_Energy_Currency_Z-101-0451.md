@@ -37,9 +37,9 @@ High-energy phosphoanhydride bonds drive:
 Conserved for ~4 billion years — strongest evidence for common ancestry of all life.
 
 ## Related
-- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452] Adenosine Receptors and Sleep Regulation
-- [[Purine_vs_Pyrimidine_Structure_Z-101-0453] Purine vs Pyrimidine 
-- [[Ribose_Structure_RNA_Backbone_Z-001-0458] Pentose Phosphate Pathway (ribose source)
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]] Adenosine Receptors and Sleep Regulation
+- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]] Purine vs Pyrimidine 
+- [[Ribose_Structure_RNA_Backbone_Z-001-0458]] Pentose Phosphate Pathway (ribose source)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

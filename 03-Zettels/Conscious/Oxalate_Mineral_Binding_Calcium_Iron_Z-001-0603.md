@@ -57,8 +57,8 @@ Also bind oxalate, though less clinically significant than calcium.
 4. Cooking reduces oxalate in some vegetables
 
 ## Related
-- [[Dietary_Sources_Oxalate_Table_Z-001-0602] — Food sources
-- [[Kidney_Stones_Calcium_Oxalate_Pathophysiology_Z-001-0604] — Stone disease
+- [[Dietary_Sources_Oxalate_Table_Z-001-0602]] — Food sources
+- [[Kidney_Stones_Calcium_Oxalate_Pathophysiology_Z-001-0604]] — Stone disease
 
 ---
 *Source: CGPT-0413 | Created: 2026-03-04*

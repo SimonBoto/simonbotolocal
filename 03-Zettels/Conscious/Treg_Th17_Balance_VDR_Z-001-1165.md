@@ -164,7 +164,7 @@ Treg Enhancement              Th17 Suppression
 
 ---
 
-*Source: [[LitNote_VDR_Knockout_Immune_Function_L-001-0621] | 2026-03-08*
+*Source: [[LitNote_VDR_Knockout_Immune_Function_L-001-0621]] | 2026-03-08*
 
 
 ## RELATED FILES

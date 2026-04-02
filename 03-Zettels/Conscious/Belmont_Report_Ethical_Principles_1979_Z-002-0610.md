@@ -79,7 +79,7 @@ Belmont principles in METHAP:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]  
+**Source:** [[LitNote_Historical_Ethics_Guidelines_L-002-0602]]  
 **Related:** [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0613] — Triggering event
 
 ---

@@ -47,8 +47,8 @@ Unlike genomics (static) or transcriptomics (intermediate), metabolomics capture
 
 ### Upstream
 - [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md] — Metabolomics as final phenotype layer
-- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903] — Environmental driver measurement
-- [[Systems_Biology_Integrative_Framework_Z-001-0901] — Multi-parameter integration
+- [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Environmental driver measurement
+- [[Systems_Biology_Integrative_Framework_Z-001-0901]] — Multi-parameter integration
 
 ### Downstream
 - [[Predictive_Metabolites_T1D_Example_Z-001-0019.md] — Phenotype prediction before symptoms
@@ -72,8 +72,8 @@ Unlike genomics (static) or transcriptomics (intermediate), metabolomics capture
 
 ## See Also
 -  — Course navigation
-- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003] — Source literature note
-- [[Omics_Training_Core_Insights_S-001-0001] — DE1 synthesis
+- [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] — Source literature note
+- [[Omics_Training_Core_Insights_S-001-0001]] — DE1 synthesis
 
 ---
 *Confidence: High*  

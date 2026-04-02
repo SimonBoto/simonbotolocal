@@ -61,9 +61,9 @@ tags: [reference, b12, biomarkers, cofactor, metab
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041] — MMA biomarker validation
-- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428] — Cofactor→metabolite model
-- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432] — Methylation pathway
+- [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]] — MMA biomarker validation
+- [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]] — Cofactor→metabolite model
+- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]] — Methylation pathway
 
 ---
 

@@ -97,9 +97,9 @@ At any moment:
 - **Forming:** 5–10%
 
 ## Related Zettels
-- [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102] — Preceding phase
+- [[Formation_Phase_Osteoid_Deposition_Mineralization_Z-001-0102]] — Preceding phase
 - [[Activation_Phase_RANKL_MCSF_Osteoclast_Differentiation_Z-001-0099] — Next cycle initiation
-- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104] — System dynamics
+- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]] — System dynamics
 
 ## Source
 [[LitNote_Bone_Remodeling_Cycle_Dynamics_L-001-0015]

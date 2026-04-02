@@ -36,7 +36,7 @@ Excess free  cause  resistance through ceramide generation, disrupting insulin s
 
 ## Links
 
-- **Parallel:** [[IRS_Serine_Phosphorylation_Causes_IR_Z-001-0008] — Serine phosphorylation mechanism
+- **Parallel:** [[IRS_Serine_Phosphorylation_Causes_IR_Z-001-0008]] — Serine phosphorylation mechanism
 
 ## Context
 

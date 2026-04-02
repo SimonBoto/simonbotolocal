@@ -135,7 +135,7 @@ Seeking ethics approval for multiple questionnaires (SF-36, FFQ, Numex, 24-hour 
 | **Alcohol** | Substance use | Sensitivity; confidentiality |
 
 ## Zettels Created
-1. [[Questionnaire_Ethics_Approval_Strategies_Z-101-0482] — Practical guidance for multi-instrument studies
+1. [[Questionnaire_Ethics_Approval_Strategies_Z-101-0482]] — Practical guidance for multi-instrument studies
 
 ## Connections
 - **IRB communication:** [[IRB_Communication_Best_Practices_Z-101-0481]

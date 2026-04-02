@@ -29,9 +29,9 @@ The insulin receptor (INSR) is a tetrameric receptor tyrosine kinase expressed o
 
 ## Links
 
-- **Upstream:** [[Insulin_Hormone_Structure_Z-001-0002] — The ligand
-- **:** [[INSR_Autophosphorylation_Mechanism_Z-001-0003] — Activation cascade  
-- **Disease:** [[INSR_Mutations_Donohue_Syndrome_Z-001-0004] — When structure fails
+- **Upstream:** [[Insulin_Hormone_Structure_Z-001-0002]] — The ligand
+- **:** [[INSR_Autophosphorylation_Mechanism_Z-001-0003]] — Activation cascade  
+- **Disease:** [[INSR_Mutations_Donohue_Syndrome_Z-001-0004]] — When structure fails
 
 ## Context
 

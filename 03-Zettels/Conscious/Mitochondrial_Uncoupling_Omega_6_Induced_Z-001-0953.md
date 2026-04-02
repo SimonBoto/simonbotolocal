@@ -141,7 +141,7 @@ Mitochondrial uncoupling + Apoptosis signaling
 
 ---
 
-**Related:** [[Cardiolipin_Omega_6_Mitochondrial_Dysfunction_Z-001-0949] | [[Mitochondrial_Function_Metabolic_Flexibility_Z-001-0554] | [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954]
+**Related:** [[Cardiolipin_Omega_6_Mitochondrial_Dysfunction_Z-001-0949]] | [[Mitochondrial_Function_Metabolic_Flexibility_Z-001-0554] | [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954]
 
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
 

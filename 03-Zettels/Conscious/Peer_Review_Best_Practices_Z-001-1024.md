@@ -373,7 +373,7 @@ Peer review is the quality control  of scientific publishing. Effective review r
 ---
 parent-index: [[03-Zettels-Conscious]]
 
-**Related:** [[Meta_Analysis_Statistics_Z-001-1000] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999] | [[GRADE_Certainty_Evidence_Z-001-1001]
+**Related:** [[Meta_Analysis_Statistics_Z-001-1000]] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999]] | [[GRADE_Certainty_Evidence_Z-001-1001]
 
 **Source:** CGPT-0551 — Manuscript Review Critical Concerns
 

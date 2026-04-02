@@ -126,11 +126,11 @@ Every publication must state:
 
 ## Related Zettels
 
-- [[Exploratory_Excuse_Pitfall_Case_Study_Z-001-0559] — Misclassification example
-- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560] — Validation stages
-- [[Effect_Size_Practical_Significance_Omics_Z-001-0561] — Effect size importance
-- [[FDR_Threshold_Selection_Z-001-0932] — FDR 0.1 vs 0.05 framework
-- [[Sample_Size_Strategies_PhD_Z-001-0930] — Power considerations
+- [[Exploratory_Excuse_Pitfall_Case_Study_Z-001-0559]] — Misclassification example
+- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]] — Validation stages
+- [[Effect_Size_Practical_Significance_Omics_Z-001-0561]] — Effect size importance
+- [[FDR_Threshold_Selection_Z-001-0932]] — FDR 0.1 vs 0.05 framework
+- [[Sample_Size_Strategies_PhD_Z-001-0930]] — Power considerations
 
 ---
 

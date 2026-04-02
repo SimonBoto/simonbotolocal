@@ -99,16 +99,16 @@ This framework applies universally, though adaptations may be needed for local h
 - How should vulnerable populations (elderly, diabetic) be specifically protected in METHAP?
 
 ## Zettels Created from This Source
-1. [[Social_Clinical_Value_Ethical_Research_Z-002-0601] — Research must answer important questions justifying risk
-2. [[Scientific_Validity_Ethical_Requirement_Z-002-0602] — Methodological rigor is an ethical requirement
-3. [[Fair_Subject_Selection_Ethics_Z-002-0603] — Selection based on science, not vulnerability
-4. [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604] — Benefits must outweigh minimized risks
-5. [[Independent_Review_IRB_Ethics_Z-002-0605] — Neutral body ensures unbiased ethical review
-6. [[Informed_Consent_Ethical_Research_Z-002-0606] — Voluntary, informed participation required
-7. [[Respect_Enrolled_Subjects_Ethics_Z-002-0607] — Ongoing obligations throughout study
+1. [[Social_Clinical_Value_Ethical_Research_Z-002-0601]] — Research must answer important questions justifying risk
+2. [[Scientific_Validity_Ethical_Requirement_Z-002-0602]] — Methodological rigor is an ethical requirement
+3. [[Fair_Subject_Selection_Ethics_Z-002-0603]] — Selection based on science, not vulnerability
+4. [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]] — Benefits must outweigh minimized risks
+5. [[Independent_Review_IRB_Ethics_Z-002-0605]] — Neutral body ensures unbiased ethical review
+6. [[Informed_Consent_Ethical_Research_Z-002-0606]] — Voluntary, informed participation required
+7. [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]] — Ongoing obligations throughout study
 
 ## Related References
-- [[LitNote_Historical_Ethics_Guidelines_L-002-0602] — Evolution of research ethics frameworks
+- [[LitNote_Historical_Ethics_Guidelines_L-002-0602]] — Evolution of research ethics frameworks
 - [[LitNote_Vulnerable_Populations_Research_Ethics_L-002-0603] — Special protections for vulnerable groups
 -  — Master map of research ethics concepts
 

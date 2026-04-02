@@ -210,7 +210,7 @@ Citrate ⇌ cis-Aconitate ⇌ Isocitrate
 **Related Zettels:**
 - [[Aconitase_Mechanism_FeS_Cluster_Z-001-1204] — To create
 - [[IRP1_Iron_Sensing_Switch_Z-001-1205] — To create
-- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206] — To create
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]] — To create
 - [[IRE_IRP_System_Z-001-1207] — To create
 
 **MOCs:**

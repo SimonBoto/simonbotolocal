@@ -190,9 +190,9 @@ High Serum Ca²⁺ → ↓ PTH
 5. [[METHAP_Calcium_Monitoring_Protocol_Z-001-0262]
 
 ## Related References
-- [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205] — D mechanisms
-- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008] — D safety
-- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210] — Mg enables D
+- [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]] — D mechanisms
+- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — D safety
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]] — Mg enables D
 -  — Parent MOC
 
 ---

@@ -74,7 +74,7 @@ Fumarylacetoacetate → Fumarate + Acetoacetate
 - Iron (Fe²⁺) — for hydroxylation chemistry
 
 ## Related
-- [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499] Glucogenic vs Ketogenic Classification
+- [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499]] Glucogenic vs Ketogenic Classification
 - 
 
 ---

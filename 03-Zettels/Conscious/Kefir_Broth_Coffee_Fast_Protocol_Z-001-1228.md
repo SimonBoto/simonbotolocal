@@ -160,7 +160,7 @@ Coffee motility → Prevent stagnation/SIBO risk
 
 ---
 
-*Source: [[LitNote_Fasting_Fermentation_L-001-0637] | 2026-03-09*
+*Source: [[LitNote_Fasting_Fermentation_L-001-0637]] | 2026-03-09*
 
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]

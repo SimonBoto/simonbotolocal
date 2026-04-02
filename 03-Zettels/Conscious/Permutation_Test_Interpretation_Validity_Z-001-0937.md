@@ -102,8 +102,8 @@ For biomarker claims:
 
 ## Related Zettels
 - [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-0935] — Overfitting context
-- [[Cross_Validation_Strategies_Omics_Models_Z-001-0938] — Next validation level
-- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560] — Full pipeline
+- [[Cross_Validation_Strategies_Omics_Models_Z-001-0938]] — Next validation level
+- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]] — Full pipeline
 
 ## Source
 [[LitNote_Multivariate_Analysis_Pitfalls_L-001-0517]

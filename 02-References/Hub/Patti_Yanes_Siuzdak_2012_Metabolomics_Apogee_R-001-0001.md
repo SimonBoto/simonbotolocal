@@ -62,7 +62,7 @@ d
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Biomarkers_Precision_Medicine_Z-001-0909] — Metabolomics as omics apogee
+- [[Biomarkers_Precision_Medicine_Z-001-0909]] — Metabolomics as omics apogee
 
 ---
 

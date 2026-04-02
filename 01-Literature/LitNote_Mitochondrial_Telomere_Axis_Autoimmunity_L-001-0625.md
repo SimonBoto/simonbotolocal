@@ -174,8 +174,8 @@ More Cell Divisions + More Inflammation
 -  — Senescence mechanisms
 
 **LitNotes:**
-- [[LitNote_Telomere_Biology_Autoimmunity_L-001-0623] — Telomere basics
-- [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624] — Clinical evidence
+- [[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]] — Telomere basics
+- [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]] — Clinical evidence
 
 ---
 

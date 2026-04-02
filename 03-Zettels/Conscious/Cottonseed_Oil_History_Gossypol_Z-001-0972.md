@@ -301,7 +301,7 @@ Cottonseed oil represents:
 ---
 parent-index: [[03-Zettels-Conscious]]
 
-**Related:** [[Procter_Gamble_Crisco_Launch_1911_Z-001-0969] | [[Seed_Oil_Fatty_Acid_Composition_Table_Z-001-0945] | [[Pre_Industrial_Seed_Oil_Uses_Z-001-0968]
+**Related:** [[Procter_Gamble_Crisco_Launch_1911_Z-001-0969]] | [[Seed_Oil_Fatty_Acid_Composition_Table_Z-001-0945]] | [[Pre_Industrial_Seed_Oil_Uses_Z-001-0968]
 
 **Source:** CGPT-0340 — Seed oils history and process
 

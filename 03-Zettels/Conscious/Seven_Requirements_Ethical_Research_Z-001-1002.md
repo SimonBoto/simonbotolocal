@@ -282,7 +282,7 @@ Ethical research requires more than informed consent. All seven requirements mus
 
 ---
 
-**Related:** [[Historical_Ethical_Guidelines_Nuremberg_Helsinki_Z-001-1003] | [[IRB_Ethics_Committee_Functions_Z-001-1004] | [[Informed_Consent_Requirements_Z-001-1005]
+**Related:** [[Historical_Ethical_Guidelines_Nuremberg_Helsinki_Z-001-1003] | [[IRB_Ethics_Committee_Functions_Z-001-1004]] | [[Informed_Consent_Requirements_Z-001-1005]
 
 **Source:** CGPT-0131 — Medical Ethics Assistance
 

@@ -50,8 +50,8 @@ Early life relied on **RNA as both genetic material AND catalyst** (ribozymes), 
 
 ## Related
 - _Z-101-0454] HCN Polymerization (adenine source)
-- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455] Meteoritic Nucleobases
-- [[Ribose_Structure_RNA_Backbone_Z-001-0458] Ribose Biosynthesis (RNA backbone)
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]] Meteoritic Nucleobases
+- [[Ribose_Structure_RNA_Backbone_Z-001-0458]] Ribose Biosynthesis (RNA backbone)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

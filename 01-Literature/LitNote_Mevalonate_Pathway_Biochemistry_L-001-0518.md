@@ -179,16 +179,16 @@ Statin myopathy isn't just "muscle pain" — it's mitochondrial dysfunction from
 ---
 
 ## Zettels Created from This Source
-1. [[Mevalonate_Pathway_Step_by_Step_Z-001-0566] — Complete pathway walkthrough
-2. [[HMG_CoA_Reductase_Regulation_Z-001-0567] — Regulatory mechanisms and statin action
-3. [[Mevalonate_Pathway_Energy_Cost_Z-001-0568] — ATP and NADPH requirements
+1. [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]] — Complete pathway walkthrough
+2. [[HMG_CoA_Reductase_Regulation_Z-001-0567]] — Regulatory mechanisms and statin action
+3. [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]] — ATP and NADPH requirements
 
 ---
 
 ## Related References
 -  — Parent MOC
 -  — Metabolic context
-- [[LitNote_Statin_Pharmacology_L-001-0502] — Statin mechanism and side effects
+- [[LitNote_Statin_Pharmacology_L-001-0502]] — Statin mechanism and side effects
 -  — CoQ10 synthesis (if exists)
 
 ---

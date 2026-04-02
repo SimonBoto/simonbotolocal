@@ -101,7 +101,7 @@ Take 1 capsule daily with main meal or as directed by your physician.
 | 1 capsule | €0.97 | 40 billion | Standard maintenance |
 
 ## Biomarker Links
-- [[Gut_Microbiome_OAT_Markers_Z-001-1064] — OAT markers reflect gut health
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]] — OAT markers reflect gut health
 - [[Calprotectin_Gut_Inflammation_[B-002-0002] — probiotics reduce calprotectin
 - [[Immune_System_Gut_Connection_Z-001-XXXX] — gut bacteria modulate immunity
 

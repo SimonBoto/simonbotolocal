@@ -206,7 +206,7 @@ Pyruvate + NAD⁺ + CoA → Acetyl-CoA + NADH + CO₂
 
 ## Source
 
-Extracted from: [[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]  
+Extracted from: [[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]  
 CGPT-0647 (April 30, 2023) — Messages 21-22
 
 

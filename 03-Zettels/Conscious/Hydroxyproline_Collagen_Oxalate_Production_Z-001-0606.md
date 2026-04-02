@@ -73,7 +73,7 @@ Hydroxyproline → 4-Hydroxy-2-oxoglutarate → Glyoxylate → Oxalate
 | **Vitamin C** | ~10-50% | High-dose supplements |
 
 ## Related
-- [[Glycine_Metabolism_to_Oxalate_Z-001-0605] — Main amino acid source
+- [[Glycine_Metabolism_to_Oxalate_Z-001-0605]] — Main amino acid source
 - [[Primary_Hyperoxaluria_Genetic_Z-001-0610] — PH2 disease
 
 ---

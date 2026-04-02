@@ -213,9 +213,9 @@ extraction-date: 2026-03-01
 5. [[METHAP_Evidence_Contribution_Z-001-0267]
 
 ## Related References
-- [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212] — Mechanisms
-- [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205] — D in MetS
-- [[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206] — K2 in MetS
+- [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]] — Mechanisms
+- [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]] — D in MetS
+- [[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]] — K2 in MetS
 -  — Parent MOC
 
 ---

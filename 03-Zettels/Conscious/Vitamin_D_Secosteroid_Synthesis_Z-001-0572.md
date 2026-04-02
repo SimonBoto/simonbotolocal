@@ -172,10 +172,10 @@ Gene transcription modulation
 
 ## Related Zettels
 
-- [[Isoprenoids_Terpenes_Overview_Z-001-0569] — Secosteroid classification
-- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570] — Steroid context
+- [[Isoprenoids_Terpenes_Overview_Z-001-0569]] — Secosteroid classification
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]] — Steroid context
 - -Metabolism] — Detailed vitamin D MOC
-- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008] — High-dose safety
+- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — High-dose safety
 
 ---
 

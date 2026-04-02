@@ -145,11 +145,11 @@ extraction-date: 2026-02-23
 ## Zettels Created from This Source
 
 ### Tier 1 (PhD-Critical)
-1. [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910] — Individual metabolic phenotypes
-2. [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911] — B12→methylmalonic acid model
-3. [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912] — Malate, succinate as IR markers
-4. [[Carnitine_Fatty_Acid_Transport_Z-001-0913] — Fatty acid metabolism
-5. [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914] — Ketogenesis in diabetes
+1. [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]] — Individual metabolic phenotypes
+2. [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]] — B12→methylmalonic acid model
+3. [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]] — Malate, succinate as IR markers
+4. [[Carnitine_Fatty_Acid_Transport_Z-001-0913]] — Fatty acid metabolism
+5. [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]] — Ketogenesis in diabetes
 
 ---
 
@@ -191,7 +191,7 @@ extraction-date: 2026-02-23
 | Z-001-0011 | — | Link to Adipic Acid zettels (when created) |
 | Z-001-0012 | — | Link to [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026.md] (DE4) |
 | Z-001-0013 | — | Link to [[Lipid_Metabolism_Fatty_Acid_IR_Markers_Z-001-0027.md] (DE4) |
-| Z-001-0014 | — | Link to [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914] cross-ref |
+| Z-001-0014 | — | Link to [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]] cross-ref |
 
 ---
 

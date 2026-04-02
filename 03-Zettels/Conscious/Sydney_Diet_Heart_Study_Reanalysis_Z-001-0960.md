@@ -187,7 +187,7 @@ status: conscious
 
 ---
 
-**Related:** [[Minnesota_Coronary_Experiment_Reanalysis_Z-001-0961] | [[Omega_6_Cardiovascular_Controversy_Z-001-0962] | [[Ramsden_Critique_Diet_Heart_Hypothesis_Z-001-0963]
+**Related:** [[Minnesota_Coronary_Experiment_Reanalysis_Z-001-0961]] | [[Omega_6_Cardiovascular_Controversy_Z-001-0962]] | [[Ramsden_Critique_Diet_Heart_Hypothesis_Z-001-0963]
 
 **Source:** CGPT-0282 — Seed Oils and Chronic Diseases
 

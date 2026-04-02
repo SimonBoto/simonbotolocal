@@ -154,8 +154,8 @@ Metabolic syndrome is not merely a collection of risk factors but a progressive 
 6. [[Metabolic_Syndrome_Management_Lifestyle_Pharmacology_Z-001-0205]
 
 ## Related References
-- [[LitNote_IR_Mechanisms_Map_L-001-0005] — Deep dive into IR mechanisms
-- [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009] — VitD as MetS intervention
+- [[LitNote_IR_Mechanisms_Map_L-001-0005]] — Deep dive into IR mechanisms
+- [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]] — VitD as MetS intervention
 -  — Parent MOC
 -  — Mechanistic context
 

@@ -238,7 +238,7 @@ Attenuated hyperfiltration (?)
 
 ---
 
-**Related:** [[Glomerular_Hyperfiltration_Protein_Mechanism_Z-001-0975] | [[Protein_Restriction_CKD_Guidelines_Z-001-0974] | [[Low_Carb_CKD_Safety_Evidence_Z-001-0977]
+**Related:** [[Glomerular_Hyperfiltration_Protein_Mechanism_Z-001-0975]] | [[Protein_Restriction_CKD_Guidelines_Z-001-0974]] | [[Low_Carb_CKD_Safety_Evidence_Z-001-0977]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
 

@@ -16,7 +16,7 @@ domain: 001
 # CKD Nutritional Assessment — Albumin vs Intake, Oxalate, and Glycemic Control
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370] (messages 11-20)
+- **ChatGPT conversation:** [[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]] (messages 11-20)
 - **Date:** May 26, 2024
 - **Scope: Practical assessment and adjunctive considerations in CKD nutrition**
 

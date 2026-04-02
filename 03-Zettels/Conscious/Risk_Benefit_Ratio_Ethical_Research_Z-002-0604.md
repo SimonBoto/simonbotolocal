@@ -50,8 +50,8 @@ METHAP risk assessment:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]  
-**Related:** [[Independent_Review_IRB_Ethics_Z-002-0605] — External risk assessment
+**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]  
+**Related:** [[Independent_Review_IRB_Ethics_Z-002-0605]] — External risk assessment
 
 ---
 

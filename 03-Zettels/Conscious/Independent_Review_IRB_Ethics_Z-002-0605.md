@@ -57,8 +57,8 @@ METHAP requires:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]  
-**Related:** [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604] — Risk assessment
+**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]  
+**Related:** [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]] — Risk assessment
 
 ---
 

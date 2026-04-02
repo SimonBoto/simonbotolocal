@@ -187,9 +187,9 @@ Result: Strong bones + Clear arteries
 5. [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]
 
 ## Related References
-- [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205] — D mechanisms
-- [[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206] — K2 mechanisms
-- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210] — D activation requires Mg
+- [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]] — D mechanisms
+- [[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]] — K2 mechanisms
+- [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]] — D activation requires Mg
 -  — Parent MOC
 
 ---

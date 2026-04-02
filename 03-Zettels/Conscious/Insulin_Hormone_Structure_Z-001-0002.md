@@ -32,7 +32,7 @@ Insulin is a 51-amino acid peptide hormone secreted by pancreatic β-cells in re
 
 ## Links
 
-- **Downstream:** [[Insulin_Receptor_Structure_Z-001-0001] — Receptor binding
+- **Downstream:** [[Insulin_Receptor_Structure_Z-001-0001]] — Receptor binding
 
 ## Context
 

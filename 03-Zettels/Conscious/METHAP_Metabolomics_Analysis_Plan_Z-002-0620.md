@@ -75,7 +75,7 @@ METHAP advances IR diagnostics by:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]  
+**Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]]  
 **Related:** [[Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002] — Related dicarboxylic acid
 
 ---

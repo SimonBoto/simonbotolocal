@@ -77,9 +77,9 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 **See:** _Shuttles_Malate_Aspartate_Z-001-0490] Mitochondrial Shuttles
 
 ## Related
-- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489] Gluconeogenesis from Oxaloacetate
-- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492] Anaplerosis
-- [[Ketogenesis_Pathway_Regulation_Z-001-0481] Ketogenesis (competing pathway)
+- [[Gluconeogenesis_from_Oxaloacetate_Z-001-0489]] Gluconeogenesis from Oxaloacetate
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]] Anaplerosis
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]] Ketogenesis (competing pathway)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

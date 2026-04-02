@@ -207,7 +207,7 @@ Serine + THF → Glycine + 5,10-CH₂-THF
 
 ---
 
-*Source: [[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630] | 2026-03-08*
+*Source: [[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630]] | 2026-03-08*
 
 
 ## RELATED FILES

@@ -323,7 +323,7 @@ Independent review protects participants when investigator self-interest could c
 
 ---
 
-**Related:** [[Seven_Requirements_Ethical_Research_Z-001-1002] | [[Informed_Consent_Requirements_Z-001-1005] | [[Vulnerable_Populations_Research_Protections_Z-001-1007]
+**Related:** [[Seven_Requirements_Ethical_Research_Z-001-1002]] | [[Informed_Consent_Requirements_Z-001-1005]] | [[Vulnerable_Populations_Research_Protections_Z-001-1007]
 
 **Source:** CGPT-0131 — Medical Ethics Assistance
 

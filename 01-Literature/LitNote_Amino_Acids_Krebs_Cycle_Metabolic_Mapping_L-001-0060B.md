@@ -124,13 +124,13 @@ Threonine → propionyl-CoA → methylmalonyl-CoA → succinyl-CoA
 
 ## Zettels Created from This Source ✅ COMPLETE
 
-1. [[Amino_Acids_Krebs_Cycle_Complete_Table_Z-001-0608] — Master metabolic mapping table
-2. [[Alpha_Ketoglutarate_Glutamate_Hub_Z-001-0609] — Four amino acid convergence point
-3. [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_Z-001-0610] — B12-dependent pathway
-4. [[Threonine_Dual_Metabolism_Glucogenic_Ketogenic_Z-001-0611] — Both metabolic fates
-5. [[Glucogenic_Ketogenic_Amino_Acid_Classification_Z-001-0612] — Complete classification
-6. [[Anaplerotic_Reactions_Krebs_Cycle_Z-001-0613] — Filling the cycle
-7. [[Malate_Aspartate_Connection_Z-001-0614] — Shuttle mechanism
+1. [[Amino_Acids_Krebs_Cycle_Complete_Table_Z-001-0608]] — Master metabolic mapping table
+2. [[Alpha_Ketoglutarate_Glutamate_Hub_Z-001-0609]] — Four amino acid convergence point
+3. [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_Z-001-0610]] — B12-dependent pathway
+4. [[Threonine_Dual_Metabolism_Glucogenic_Ketogenic_Z-001-0611]] — Both metabolic fates
+5. [[Glucogenic_Ketogenic_Amino_Acid_Classification_Z-001-0612]] — Complete classification
+6. [[Anaplerotic_Reactions_Krebs_Cycle_Z-001-0613]] — Filling the cycle
+7. [[Malate_Aspartate_Connection_Z-001-0614]] — Shuttle mechanism
 
 **Extraction completed:** 2026-03-05
 

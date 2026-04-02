@@ -294,7 +294,7 @@ BIBF 1202-glucuronide (inactive)
 
 ---
 
-**Related:** [[Tyrosine_Kinase_Inhibitors_Fibrosis_Z-001-1010] | [[UGT_Enzymes_Glucuronidation_Drug_Metabolism_Z-001-1012] | [[P_glycoprotein_Drug_Transport_Z-001-1013]
+**Related:** [[Tyrosine_Kinase_Inhibitors_Fibrosis_Z-001-1010]] | [[UGT_Enzymes_Glucuronidation_Drug_Metabolism_Z-001-1012] | [[P_glycoprotein_Drug_Transport_Z-001-1013]
 
 **Source:** CGPT-0064 — Ofev MOA and effects
 

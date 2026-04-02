@@ -151,10 +151,10 @@ Magnesium has emerged as a key factor in preventing vascular calcification, part
 4. [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]
 
 ## Related References
-- [[LitNote_Magnesium_Biochemistry_L-001-0201a] — Mg mechanisms
-- [[LitNote_Magnesium_IR_Diabetes_L-001-0201b] — Metabolic effects
-- [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013] — Vascular calcification context
-- [[LitNote_Denosumab_Mechanism_Risks_L-001-0012] — Bone-vascular axis
+- [[LitNote_Magnesium_Biochemistry_L-001-0201a]] — Mg mechanisms
+- [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]] — Metabolic effects
+- [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]] — Vascular calcification context
+- [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]] — Bone-vascular axis
 -  — Parent MOC
 -  — CV context
 

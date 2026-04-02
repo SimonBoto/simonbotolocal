@@ -91,7 +91,7 @@ $$
 
 **Mechanism:**
 - _Z-001-0018.md] — Lipotoxicity (IR → hepatic overproduction of VLDL → Pattern B)
-- [[MAPK_Mitogenic_Pathway_Z-001-0016] — Mitochondrial dysfunction (impaired lipid oxidation)
+- [[MAPK_Mitogenic_Pathway_Z-001-0016]] — Mitochondrial dysfunction (impaired lipid oxidation)
 
 ---
 

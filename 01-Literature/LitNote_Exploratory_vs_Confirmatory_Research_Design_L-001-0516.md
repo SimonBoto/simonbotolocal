@@ -165,16 +165,16 @@ extraction-date: 2026-03-03
 ---
 
 ## Zettels Created from This Source
-1. [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558] — Phase definitions and standards
-2. [[Exploratory_Excuse_Pitfall_Case_Study_Z-001-0559] — Methodological misrepresentation example
-3. [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560] — Five-stage validation framework
-4. [[Effect_Size_Practical_Significance_Omics_Z-001-0561] — Effect size reporting requirements
+1. [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558]] — Phase definitions and standards
+2. [[Exploratory_Excuse_Pitfall_Case_Study_Z-001-0559]] — Methodological misrepresentation example
+3. [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]] — Five-stage validation framework
+4. [[Effect_Size_Practical_Significance_Omics_Z-001-0561]] — Effect size reporting requirements
 
 ---
 
 ## Related References
-- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515] — FDR thresholds by study phase
-- [[LitNote_Power_Analysis_Metabolomics_L-001-0514] — Power and sample size requirements
+- [[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]] — FDR thresholds by study phase
+- [[LitNote_Power_Analysis_Metabolomics_L-001-0514]] — Power and sample size requirements
 -  — Parent MOC
 -  — Clinical translation context
 

@@ -97,9 +97,9 @@ Take 1-2 capsules daily with water or as directed by your physician. Drink plent
 | 2 | €2.30 | 1000 mg | Therapeutic |
 
 ## Biomarker Links
-- [[Glutathione_Master_Antioxidant_Z-001-0436] — primary marker
-- [[GGT_Gamma-Glutamyl_Transferase_Z-009-0004] — glutathione metabolism enzyme
-- [[ALT_Alanine_Aminotransferase_Z-009-0001] — liver function marker
+- [[Glutathione_Master_Antioxidant_Z-001-0436]] — primary marker
+- [[GGT_Gamma-Glutamyl_Transferase_Z-009-0004]] — glutathione metabolism enzyme
+- [[ALT_Alanine_Aminotransferase_Z-009-0001]] — liver function marker
 
 ---
 *Catalog created: 2026-03-31*  

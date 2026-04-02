@@ -56,7 +56,7 @@ tags: [reference, t1d, beta
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910] — T1D beta-cell mechanisms
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]] — T1D beta-cell mechanisms
 
 ---
 

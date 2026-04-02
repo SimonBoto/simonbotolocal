@@ -56,8 +56,8 @@ METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-section
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]  
-**Related:** [[METHAP_Intervention_Protocol_Z-002-0619] — Phase 2 details
+**Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]]  
+**Related:** [[METHAP_Intervention_Protocol_Z-002-0619]] — Phase 2 details
 
 ---
 

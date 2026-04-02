@@ -81,8 +81,8 @@ For Greek ethics committees:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Ethics_Committee_Communication_L-002-0603]  
-**Related:** [[IRB_Non_Response_Protocol_Z-002-0613] — When to use templates
+**Source:** [[LitNote_Ethics_Committee_Communication_L-002-0603]]  
+**Related:** [[IRB_Non_Response_Protocol_Z-002-0613]] — When to use templates
 
 ---
 

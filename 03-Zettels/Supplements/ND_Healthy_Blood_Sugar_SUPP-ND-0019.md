@@ -103,10 +103,10 @@ Take 4 capsules daily or as directed by your physician.
 | 4 | €1.78 | Standard dose |
 
 ## Biomarker Links
-- [[Glucose_Blood_Sugar_Energy_Z-005-0001] — fasting glucose
+- [[Glucose_Blood_Sugar_Energy_Z-005-0001]] — fasting glucose
 - [[HbA1c_Glycated_Hemoglobin_Z-005-0003] — 3-month average
 - [[Insulin_Fasting_Pancreatic_Hormone_Z-005-0002] — insulin levels
-- [[HOMA-IR_Insulin_Resistance_Index_Z-005-0004] — insulin resistance
+- [[HOMA-IR_Insulin_Resistance_Index_Z-005-0004]] — insulin resistance
 
 ## Comparison with Other ND Metabolic Products
 | Feature | Healthy Blood Sugar | Berberine Complex | ACV & Berberine |

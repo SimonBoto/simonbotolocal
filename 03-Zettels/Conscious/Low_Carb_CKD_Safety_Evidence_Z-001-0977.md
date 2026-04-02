@@ -275,7 +275,7 @@ Safety and efficacy data for low-carbohydrate and ketogenic diets in chronic kid
 
 ---
 
-**Related:** [[Carbohydrate_Context_Modifies_Renal_Hemodynamics_Z-001-0976] | [[Protein_Restriction_CKD_Guidelines_Z-001-0974]
+**Related:** [[Carbohydrate_Context_Modifies_Renal_Hemodynamics_Z-001-0976]] | [[Protein_Restriction_CKD_Guidelines_Z-001-0974]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
 

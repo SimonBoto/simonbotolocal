@@ -82,10 +82,10 @@ Take 1 capsule daily after food or as directed by your physician.
 | 1 capsule | €0.63 | Standard dose |
 
 ## Biomarker Links
-- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001] — target 25(OH)D 50-80 ng/mL
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] — target 25(OH)D 50-80 ng/mL
 - [[Vitamin_K2_MK7_Calcium_Direction_Z-007-0005] — K2 directs calcium to bone
-- [[Magnesium_Essential_Mineral_Cofactor_Z-007-0008] — Mg required for D activation
-- [[Calcium_Mineral_Bone_Signaling_Z-007-0003] — D3 + K2 optimize calcium metabolism
+- [[Magnesium_Essential_Mineral_Cofactor_Z-007-0008]] — Mg required for D activation
+- [[Calcium_Mineral_Bone_Signaling_Z-007-0003]] — D3 + K2 optimize calcium metabolism
 
 ## Comparison with Meetab Calmag Products
 | Feature | Complete D3/K2/Mg | My Calmag Tablets | My Calmag Powder |

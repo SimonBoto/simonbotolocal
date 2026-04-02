@@ -38,7 +38,7 @@ created: 2026-02-22
 
 ## Links
 
-- **Upstream:** [[Insulin_Receptor_Structure_Z-001-0001] — Receptor source
+- **Upstream:** [[Insulin_Receptor_Structure_Z-001-0001]] — Receptor source
 - **Parallel:** _Z-001-0007] — Metabolic pathway
 
 ## Context

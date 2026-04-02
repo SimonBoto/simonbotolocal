@@ -108,7 +108,7 @@ not transformed into bone-like tissue
 
 ---
 
-*Source: [[LitNote_VitD_K2_Synergy_MetS_L-001-0639] | 2026-03-09*
+*Source: [[LitNote_VitD_K2_Synergy_MetS_L-001-0639]] | 2026-03-09*
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]

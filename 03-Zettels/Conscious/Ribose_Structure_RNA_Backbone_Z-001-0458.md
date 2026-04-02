@@ -48,8 +48,8 @@ All contain ribose:
 Primarily via **Pentose Phosphate Pathway** (not directly from glucose).
 
 ## Related
-- [[PPP_Oxidative_Phase_Z-001-0457] PPP Oxidative Phase (ribose source)
-- [[ATP_Universal_Energy_Currency_Z-101-0451] ATP Structure (contains ribose)
+- [[PPP_Oxidative_Phase_Z-001-0457]] PPP Oxidative Phase (ribose source)
+- [[ATP_Universal_Energy_Currency_Z-101-0451]] ATP Structure (contains ribose)
 - _Z-101-0456] RNA World Hypothesis
 
 ---

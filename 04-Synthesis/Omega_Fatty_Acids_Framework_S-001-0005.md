@@ -526,7 +526,7 @@ Systematic 3-phase approach over 6-12 months:
 **Omega-6 Reduction:**
 - Sydney Diet-Heart Study: Re-analysis showed harm from high omega-6
 - Minnesota Coronary Experiment: Re-analysis showed increased mortality with high omega-6
-- [[Ancel_Keys_Seven_Countries_Study_Z-001-0245] — Reassessment
+- [[Ancel_Keys_Seven_Countries_Study_Z-001-0245]] — Reassessment
 
 **Ratio Studies:**
 - Strong epidemiological evidence for low omega-6:3 ratio
@@ -620,9 +620,9 @@ Systematic 3-phase approach over 6-12 months:
 
 ## Section 10: Related Protocols
 
-- [[IR_Playbook_Clinical_Decision_Tool_S-001-0001] — Metabolic syndrome integration
-- [[Mitochondrial_Dysfunction_Action_S-001-0004] — Synergistic intervention
-- [[Vitamin_D_Clinical_Guide_S-001-0002] — Anti-inflammatory synergy
+- [[IR_Playbook_Clinical_Decision_Tool_S-001-0001]] — Metabolic syndrome integration
+- [[Mitochondrial_Dysfunction_Action_S-001-0004]] — Synergistic intervention
+- [[Vitamin_D_Clinical_Guide_S-001-0002]] — Anti-inflammatory synergy
 
 ---
 

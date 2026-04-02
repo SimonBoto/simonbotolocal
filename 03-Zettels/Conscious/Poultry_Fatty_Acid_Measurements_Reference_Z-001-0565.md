@@ -141,9 +141,9 @@ To achieve 4:1 ratio with this poultry intake:
 
 ## Related Zettels
 
-- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562] — Chicken meat details
-- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563] — Egg quality comparison
-- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564] —  and clinical significance
+- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]] — Chicken meat details
+- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563]] — Egg quality comparison
+- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]] —  and clinical significance
 
 ---
 

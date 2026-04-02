@@ -249,7 +249,7 @@ Protein/DNA adducts → Cellular damage
 
 ---
 
-**Related:** [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954] | [[4_HNE_Protein_Adducts_Cellular_Damage_Z-001-0010] | [[Seed_Oil_Refining_Process_RBD_Z-001-0956]
+**Related:** [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954]] | [[4_HNE_Protein_Adducts_Cellular_Damage_Z-001-0010] | [[Seed_Oil_Refining_Process_RBD_Z-001-0956]
 
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]

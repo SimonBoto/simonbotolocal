@@ -71,49 +71,49 @@ contributing-zettels:
 The insulin signaling cascade begins at the receptor and propagates through multiple nodes:
 
 **Step 1: Receptor Activation**
-- [[Insulin_Receptor_Structure_Z-001-0001] — Tyrosine kinase receptor, α2β2 structure
-- [[INSR_Autophosphorylation_Mechanism_Z-001-0003] — Ligand binding triggers trans-autophosphorylation
-- [[INSR_Mutations_Donohue_Syndrome_Z-001-0004] — Extreme insulin resistance phenotype
+- [[Insulin_Receptor_Structure_Z-001-0001]] — Tyrosine kinase receptor, α2β2 structure
+- [[INSR_Autophosphorylation_Mechanism_Z-001-0003]] — Ligand binding triggers trans-autophosphorylation
+- [[INSR_Mutations_Donohue_Syndrome_Z-001-0004]] — Extreme insulin resistance phenotype
 
 **Step 2: IRS Recruitment**
-- [[IRS_Protein_Recruitment_Z-001-0005] — IRS1/IRS2 as adaptor proteins
-- [[IRS1_vs_IRS2_Tissue_Distribution_Z-001-0006] — Tissue-specific roles
-- [[IRS_Serine_Phosphorylation_Causes_IR_Z-001-0008] — Key mechanism of resistance
+- [[IRS_Protein_Recruitment_Z-001-0005]] — IRS1/IRS2 as adaptor proteins
+- [[IRS1_vs_IRS2_Tissue_Distribution_Z-001-0006]] — Tissue-specific roles
+- [[IRS_Serine_Phosphorylation_Causes_IR_Z-001-0008]] — Key mechanism of resistance
 
 **Step 3: PI3K-Akt Pathway**
-- [[PI3K_Activation_Mechanism_Z-001-0007] — Lipid kinase generates PIP3
-- [[Akt_Recruitment_by_PIP3_Z-001-0009] — Pleckstrin homology domain binding
-- [[Akt_Substrate_Phosphorylation_Z-001-0010] — Multiple downstream targets
+- [[PI3K_Activation_Mechanism_Z-001-0007]] — Lipid kinase generates PIP3
+- [[Akt_Recruitment_by_PIP3_Z-001-0009]] — Pleckstrin homology domain binding
+- [[Akt_Substrate_Phosphorylation_Z-001-0010]] — Multiple downstream targets
 
 **Step 4: GLUT4 Translocation**
-- [[GLUT4_Vesicle_Translocation_Z-001-0011] — Insulin-stimulated glucose uptake
-- [[GSK3_Inhibition_Glycogen_Synthesis_Z-001-0012] — Glycogen storage activation
+- [[GLUT4_Vesicle_Translocation_Z-001-0011]] — Insulin-stimulated glucose uptake
+- [[GSK3_Inhibition_Glycogen_Synthesis_Z-001-0012]] — Glycogen storage activation
 
 **Step 5: mTOR Integration**
-- [[mTORC2_Akt_Insulin_Signaling_Z-001-0925] — Feedback regulation
-- [[Cbl_CAP_Lipid_Raft_Pathway_Z-001-0017] — Alternative signaling route
+- [[mTORC2_Akt_Insulin_Signaling_Z-001-0925]] — Feedback regulation
+- [[Cbl_CAP_Lipid_Raft_Pathway_Z-001-0017]] — Alternative signaling route
 
 ### 1.2 Mechanisms of Resistance
 
 **Lipotoxicity Pathway**
-- [[Lipotoxicity_Pathway_IR_Z-001-0029] — Ceramide and DAG accumulation
-- [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013] — Direct inhibition of Akt
-- [[ER_Stress_Induced_IR_Z-001-0014] — Unfolded protein response activation
-- [[ER_Stress_UPR_IR_Z-001-0033] — JNK-mediated serine phosphorylation
+- [[Lipotoxicity_Pathway_IR_Z-001-0029]] — Ceramide and DAG accumulation
+- [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013]] — Direct inhibition of Akt
+- [[ER_Stress_Induced_IR_Z-001-0014]] — Unfolded protein response activation
+- [[ER_Stress_UPR_IR_Z-001-0033]] — JNK-mediated serine phosphorylation
 
 **Mitochondrial Dysfunction**
-- [[Mitochondrial_Dysfunction_IR_Z-001-0015] — Reduced oxidative capacity
-- [[Mitochondrial_Dysfunction_IR_Z-001-0030] — Incomplete fatty acid oxidation
-- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054] — Adipic acid as marker
+- [[Mitochondrial_Dysfunction_IR_Z-001-0015]] — Reduced oxidative capacity
+- [[Mitochondrial_Dysfunction_IR_Z-001-0030]] — Incomplete fatty acid oxidation
+- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]] — Adipic acid as marker
 
 **Inflammatory Signaling**
-- [[Inflammatory_Signaling_IR_Z-001-0031] — Cytokine-mediated resistance
-- [[Gut_Derived_Mechanisms_IR_Z-001-0032] — LPS translocation
-- [[Vicious_Cycle_Inflammation_IR_Z-001-0038] — Self-amplifying loop
+- [[Inflammatory_Signaling_IR_Z-001-0031]] — Cytokine-mediated resistance
+- [[Gut_Derived_Mechanisms_IR_Z-001-0032]] — LPS translocation
+- [[Vicious_Cycle_Inflammation_IR_Z-001-0038]] — Self-amplifying loop
 
 **Hormonal/Metabolic**
-- [[Vicious_Cycle_IR_Obesity_Z-001-0037] — Adipokine dysregulation
-- [[Vicious_Cycle_Stress_IR_Z-001-0039] — Cortisol-mediated glucose elevation
+- [[Vicious_Cycle_IR_Obesity_Z-001-0037]] — Adipokine dysregulation
+- [[Vicious_Cycle_Stress_IR_Z-001-0039]] — Cortisol-mediated glucose elevation
 
 ---
 
@@ -123,16 +123,16 @@ The insulin signaling cascade begins at the receptor and propagates through mult
 
 | Biomarker | Normal | Early IR | Compensatory | Overt T2D | Source |
 |-----------|--------|----------|--------------|-----------|--------|
-| **HOMA-IR** | <2.0 | 2.0-2.5 | 2.5-4.5 | >4.5 | [[HOMA_IR_Calculation_Interpretation_Z-001-0046] |
-| **HOMA-β** | >80% | 80-100% | 100-150% | <80% or >200% | [[HOMA_Beta_Beta_Cell_Function_Z-001-0047] |
-| **Adipic Acid (OAT)** | <15 | 15-30 | 30-60 | >60 | [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041] |
-| **Suberic Acid (OAT)** | <10 | 10-20 | 20-40 | >40 | [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011] |
-| **BHB (fasting)** | 0.1-0.5 | 0.05-0.1 | <0.05 | <0.05 | [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483] |
-| **TG/HDL Ratio** | <1.5 | 1.5-2.0 | 2.0-4.0 | >4.0 | [[TG_HDL_Ratio_IR_Marker_Z-001-0049] |
-| **TyG Index** | <8.0 | 8.0-8.5 | 8.5-9.5 | >9.5 | [[TyG_Index_IR_Assessment_Z-001-0048] |
-| **HbA1c** | <5.5% | 5.5-5.7% | 5.7-6.4% | >6.4% | [[Glycation_Control_HbA1c_AGEs_Z-001-1014] |
-| **Fasting Insulin** | <6 μU/mL | 6-10 | 10-20 | >20 | [[Hyperinsulinemia_Mechanisms_Z-001-1253] |
-| **Fasting Glucose** | <90 | 90-100 | 100-125 | >125 | [[Glucose_Metabolism_Overview_Z-001-0472] |
+| **HOMA-IR** | <2.0 | 2.0-2.5 | 2.5-4.5 | >4.5 | [[HOMA_IR_Calculation_Interpretation_Z-001-0046]] |
+| **HOMA-β** | >80% | 80-100% | 100-150% | <80% or >200% | [[HOMA_Beta_Beta_Cell_Function_Z-001-0047]] |
+| **Adipic Acid (OAT)** | <15 | 15-30 | 30-60 | >60 | [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]] |
+| **Suberic Acid (OAT)** | <10 | 10-20 | 20-40 | >40 | [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]] |
+| **BHB (fasting)** | 0.1-0.5 | 0.05-0.1 | <0.05 | <0.05 | [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]] |
+| **TG/HDL Ratio** | <1.5 | 1.5-2.0 | 2.0-4.0 | >4.0 | [[TG_HDL_Ratio_IR_Marker_Z-001-0049]] |
+| **TyG Index** | <8.0 | 8.0-8.5 | 8.5-9.5 | >9.5 | [[TyG_Index_IR_Assessment_Z-001-0048]] |
+| **HbA1c** | <5.5% | 5.5-5.7% | 5.7-6.4% | >6.4% | [[Glycation_Control_HbA1c_AGEs_Z-001-1014]] |
+| **Fasting Insulin** | <6 μU/mL | 6-10 | 10-20 | >20 | [[Hyperinsulinemia_Mechanisms_Z-001-1253]] |
+| **Fasting Glucose** | <90 | 90-100 | 100-125 | >125 | [[Glucose_Metabolism_Overview_Z-001-0472]] |
 
 ### 2.2 Organic Acids Panel (Metabolic Flexibility)
 
@@ -147,19 +147,19 @@ The insulin signaling cascade begins at the receptor and propagates through mult
 - [[Mitochondrial_Dysfunction_IR_Z-001-0015]
 
 **Ketone Body Assessment:**
-- [[Three_Ketone_Bodies_Z-001-0482] — Acetoacetate, BHB, acetone
-- [[Ketogenesis_Pathway_Regulation_Z-001-0481] — HMG-CoA pathway
-- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484] — Alternative fuel
+- [[Three_Ketone_Bodies_Z-001-0482]] — Acetoacetate, BHB, acetone
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]] — HMG-CoA pathway
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]] — Alternative fuel
 
 ### 2.3 Advanced Markers
 
 | Marker | Interpretation | Zettel |
 |--------|---------------|--------|
-| **BCAAs** (valine, leucine, isoleucine) | Elevated in IR | [[BCAAs_IR_Risk_Z-001-0042] |
-| **Uric Acid** | >5.5 mg/dL associated | [[Uric_Acid_Metabolic_Marker_Z-001-0052] |
-| **Ferritin** | Elevated in metabolic syndrome | [[Ferritin_Interpretation_Iron_Status_Z-003-0001] |
-| **CRP** | Low-grade inflammation | [[Inflammation_Markers_CRP_ESR_Z-007-0001] |
-| **Adiponectin** | Low in IR | [[Sirolimus_Lipotoxicity_Adiponectin_Z-001-0926] |
+| **BCAAs** (valine, leucine, isoleucine) | Elevated in IR | [[BCAAs_IR_Risk_Z-001-0042]] |
+| **Uric Acid** | >5.5 mg/dL associated | [[Uric_Acid_Metabolic_Marker_Z-001-0052]] |
+| **Ferritin** | Elevated in metabolic syndrome | [[Ferritin_Interpretation_Iron_Status_Z-003-0001]] |
+| **CRP** | Low-grade inflammation | [[Inflammation_Markers_CRP_ESR_Z-007-0001]] |
+| **Adiponectin** | Low in IR | [[Sirolimus_Lipotoxicity_Adiponectin_Z-001-0926]] |
 
 ---
 
@@ -338,13 +338,13 @@ Calculate HOMA-IR + TyG Index
 
 | Clinical Claim | Supporting Zettels | Evidence Quality |
 |----------------|-------------------|------------------|
-| Adipic acid predicts IR before glucose rises | [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041], [[Adipate_Formation_Palmitate_Pathway_Z-101-0008] | High |
-| BHB <0.05 indicates impaired metabolic flexibility | [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483], [[Metabolic_Flexibility_RER_Z-001-1012] | High |
-| TG/HDL >2 predicts cardiovascular risk | [[TG_HDL_Ratio_IR_Marker_Z-001-0049], [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001] | High |
-| Ketogenic diet reverses early IR | [[Ketogenic_Therapy_Metabolic_Inflexibility_Z-001-1122], [[Low_Carb_CKD_Safety_Evidence_Z-001-0977] | Moderate |
+| Adipic acid predicts IR before glucose rises | [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041], [[Adipate_Formation_Palmitate_Pathway_Z-101-0008]] | High |
+| BHB <0.05 indicates impaired metabolic flexibility | [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483], [[Metabolic_Flexibility_RER_Z-001-1012]] | High |
+| TG/HDL >2 predicts cardiovascular risk | [[TG_HDL_Ratio_IR_Marker_Z-001-0049], [[Lipid_Pattern_A_vs_B_Assessment_Z-006-0001]] | High |
+| Ketogenic diet reverses early IR | [[Ketogenic_Therapy_Metabolic_Inflexibility_Z-001-1122], [[Low_Carb_CKD_Safety_Evidence_Z-001-0977]] | Moderate |
 | Magnesium improves insulin sensitivity | [[Magnesium_Insulin_Resistance_Mechanisms_Z-001-0211], [[Magnesium_IR_Diabetes_Z-001-0201b] | Moderate |
-| BCAAs elevated in IR | [[BCAAs_IR_Risk_Z-001-0042] | Moderate |
-| TyG index superior to HOMA-IR in some populations | [[TyG_Index_IR_Assessment_Z-001-0048] | Emerging |
+| BCAAs elevated in IR | [[BCAAs_IR_Risk_Z-001-0042]] | Moderate |
+| TyG index superior to HOMA-IR in some populations | [[TyG_Index_IR_Assessment_Z-001-0048]] | Emerging |
 
 ---
 
@@ -487,10 +487,10 @@ Calculate HOMA-IR + TyG Index
 ---
 
 ## Related Syntheses
-- [[Vitamin_D_Clinical_Guide_S-001-0002] — Synergistic with IR protocol
-- [[Mitochondrial_Dysfunction_Action_S-001-0004] — Mechanism-specific interventions
-- [[Omega_Fatty_Acids_Framework_S-001-0005] — Dietary foundation
-- [[METHAP_Protocol_Living_Document_S-002-0001] — Research validation
+- [[Vitamin_D_Clinical_Guide_S-001-0002]] — Synergistic with IR protocol
+- [[Mitochondrial_Dysfunction_Action_S-001-0004]] — Mechanism-specific interventions
+- [[Omega_Fatty_Acids_Framework_S-001-0005]] — Dietary foundation
+- [[METHAP_Protocol_Living_Document_S-002-0001]] — Research validation
 
 ---
 

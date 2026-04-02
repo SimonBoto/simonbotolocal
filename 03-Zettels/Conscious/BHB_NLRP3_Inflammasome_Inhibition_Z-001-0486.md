@@ -82,8 +82,8 @@ Gasdermin D → Pyroptosis (inflammatory cell death)
 - **Human studies:** Ongoing (ketogenic diet trials)
 
 ## Related
-- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485] BHB HDAC Inhibition
-- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484] BHB Energy Substrate
+- [[BHB_HDAC_Inhibition_Epigenetics_Z-001-0485]] BHB HDAC Inhibition
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]] BHB Energy Substrate
 - 
 
 ---

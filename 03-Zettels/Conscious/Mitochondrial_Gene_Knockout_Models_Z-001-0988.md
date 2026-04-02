@@ -302,7 +302,7 @@ status: conscious
 
 ---
 
-**Related:** [[Mitochondrial_DNA_Mutations_Cancer_Z-001-0989] | [[VDR_Knockout_Mouse_Phenotypes_Z-001-0987] | [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-0560]
+**Related:** [[Mitochondrial_DNA_Mutations_Cancer_Z-001-0989]] | [[VDR_Knockout_Mouse_Phenotypes_Z-001-0987]] | [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-0560]
 
 **Source:** CGPT-0311 — Self-Education Program Plan
 

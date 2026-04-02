@@ -71,11 +71,11 @@ extraction-date: 2026-03-08
 - What assessment metrics define "competence" at each stage?
 
 ## Zettels Created from This Source
-1. [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029] — Core MCI role definition
-2. [[MCI_Three_Function_Architecture_Z-001-1030] — Architect, Coach, Integrator
-3. [[Six_Stage_Patient_Flow_Framework_Z-001-1031] — Complete patient journey
+1. [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]] — Core MCI role definition
+2. [[MCI_Three_Function_Architecture_Z-001-1030]] — Architect, Coach, Integrator
+3. [[Six_Stage_Patient_Flow_Framework_Z-001-1031]] — Complete patient journey
 4. [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032] — Treatment sequencing
-5. [[Socratic_Method_Metabolomics_Training_Z-001-1033] — Pedagogical approach
+5. [[Socratic_Method_Metabolomics_Training_Z-001-1033]] — Pedagogical approach
 
 ## Related References
 -  — Parent curriculum map

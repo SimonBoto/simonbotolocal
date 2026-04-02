@@ -208,9 +208,9 @@ extraction-date: 2026-03-01
 5. [[Vascular_Calcification_Prevention_Reversal_Z-001-0272]
 
 ## Related References
-- [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212] — Synergy mechanisms
-- [[MGP_Vascular_Protection_Synergy_Z-001-0255] — MGP details
-- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257] — Calcium paradox
+- [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]] — Synergy mechanisms
+- [[MGP_Vascular_Protection_Synergy_Z-001-0255]] — MGP details
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]] — Calcium paradox
 -  — Parent MOC
 
 ---

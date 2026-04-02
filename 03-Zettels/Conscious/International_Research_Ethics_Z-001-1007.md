@@ -330,7 +330,7 @@ Respect for communities affected by research.
 
 ---
 
-**Related:** [[Vulnerable_Populations_Research_Z-001-1006] | [[Seven_Requirements_Ethical_Research_Z-001-1002] | [[Historical_Ethical_Guidelines_Z-001-1003]
+**Related:** [[Vulnerable_Populations_Research_Z-001-1006]] | [[Seven_Requirements_Ethical_Research_Z-001-1002]] | [[Historical_Ethical_Guidelines_Z-001-1003]
 
 **Source:** CGPT-0131 — Medical Ethics Assistance
 

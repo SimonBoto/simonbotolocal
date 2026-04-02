@@ -160,8 +160,8 @@ VD intervention target:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Carnitine_Fatty_Acid_Transport_Z-001-0913] — Ketones produced when fatty acids enter mitochondria but Krebs saturated
-- **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912] — Alternative fate for acetyl-CoA
+- **Upstream/Prerequisite:** [[Carnitine_Fatty_Acid_Transport_Z-001-0913]] — Ketones produced when fatty acids enter mitochondria but Krebs saturated
+- **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]] — Alternative fate for acetyl-CoA
 - **Downstream/Consequence:**  — Potential  for metabolic flexibility
 
 ## Context

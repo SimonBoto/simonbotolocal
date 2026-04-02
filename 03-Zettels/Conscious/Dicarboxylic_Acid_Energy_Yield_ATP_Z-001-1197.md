@@ -134,7 +134,7 @@ Overflow to urine
 
 ---
 
-*Source: [[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629] | 2026-03-08*
+*Source: [[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]] | 2026-03-08*
 
 
 ## RELATED FILES

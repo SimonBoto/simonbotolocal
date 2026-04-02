@@ -33,7 +33,7 @@ created: 2026-02-22
 
 ## Links
 
-- **Mechanism:** [[IRS_Protein_Recruitment_Z-001-0005] — Normal function
+- **Mechanism:** [[IRS_Protein_Recruitment_Z-001-0005]] — Normal function
 
 ## Context
 

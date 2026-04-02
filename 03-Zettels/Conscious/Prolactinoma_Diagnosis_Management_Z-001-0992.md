@@ -272,7 +272,7 @@ Hypogonadism + Infertility
 
 ---
 
-**Related:** [[Primary_Secondary_Hypogonadism_Z-001-0991] | [[Erectile_Dysfunction_Hormonal_Workup_Z-001-0994] | [[Pituitary_Macroadenoma_Mass_Effects_Z-001-0015]
+**Related:** [[Primary_Secondary_Hypogonadism_Z-001-0991]] | [[Erectile_Dysfunction_Hormonal_Workup_Z-001-0994]] | [[Pituitary_Macroadenoma_Mass_Effects_Z-001-0015]
 
 **Source:** CGPT-0438 — Hormone Scenarios
 

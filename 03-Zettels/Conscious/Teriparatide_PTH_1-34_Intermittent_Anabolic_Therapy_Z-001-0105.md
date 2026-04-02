@@ -117,9 +117,9 @@ Recombinant human parathyroid hormone (1-34 fragment) given as **daily subcutane
 - **vs. Romosozumab:** Slower onset, no CV risk signal, daily vs. monthly
 
 ## Related Zettels
-- [[Abaloparatide_PTHrP_Analog_Anabolic_Agent_Z-001-0106] — Alternative PTH-based
-- [[Sequential_Therapy_Anabolic_to_Antiresorptive_Strategy_Z-001-0108] — Post-anabolic plan
-- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104] — Mechanism context
+- [[Abaloparatide_PTHrP_Analog_Anabolic_Agent_Z-001-0106]] — Alternative PTH-based
+- [[Sequential_Therapy_Anabolic_to_Antiresorptive_Strategy_Z-001-0108]] — Post-anabolic plan
+- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]] — Mechanism context
 
 ## Source
 [[LitNote_Anabolic_Bone_Therapies_L-001-0016]

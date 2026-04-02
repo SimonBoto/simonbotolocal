@@ -51,8 +51,8 @@ Acetone + CO₂ (spontaneous)
 | Ketoacidosis | 1:1 or higher | Elevated |
 
 ## Related
-- [[Ketogenesis_Pathway_Regulation_Z-001-0481] Ketogenesis Pathway
-- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483] BHB is a Hydroxy Acid
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]] Ketogenesis Pathway
+- [[BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483]] BHB is a Hydroxy Acid
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

@@ -288,7 +288,7 @@ A focused panel of metabolic biomarkers provides insight into nutritional status
 
 ---
 
-**Related:** [[Vitamin_D_Optimization_Guidelines_Z-001-0231] | [[Omega3_Index_Cardiovascular_Protection_Z-001-0032] | [[Glycation_Control_HbA1c_AGEs_Z-001-1014] | [[Homocysteine_Methylation_Status_Z-001-0033]
+**Related:** [[Vitamin_D_Optimization_Guidelines_Z-001-0231] | [[Omega3_Index_Cardiovascular_Protection_Z-001-0032] | [[Glycation_Control_HbA1c_AGEs_Z-001-1014]] | [[Homocysteine_Methylation_Status_Z-001-0033]
 
 **Source:** CGPT-0384 — Biomarkers Briefing
 

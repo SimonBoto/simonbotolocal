@@ -181,7 +181,7 @@ More surface area → More ETC complexes → More ATP synthase → Higher ATP ou
 
 ---
 
-*Source: [[LitNote_Mitochondrial_Structure_Biology_L-001-0633] | 2026-03-09*
+*Source: [[LitNote_Mitochondrial_Structure_Biology_L-001-0633]] | 2026-03-09*
 
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]

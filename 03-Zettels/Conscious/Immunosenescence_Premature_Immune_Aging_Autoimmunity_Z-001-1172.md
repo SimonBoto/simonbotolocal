@@ -111,7 +111,7 @@ More Inflammation / Opportunistic Infections
 
 ---
 
-*Source: [[LitNote_Telomere_Biology_Autoimmunity_L-001-0623] | 2026-03-08*
+*Source: [[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]] | 2026-03-08*
 
 
 ## RELATED FILES

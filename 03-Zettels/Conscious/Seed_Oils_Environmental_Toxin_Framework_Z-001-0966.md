@@ -291,7 +291,7 @@ Seed oils meet criteria for environmental toxin consideration:
 
 ---
 
-**Related:** [[Linoleic_Acid_Bioaccumulation_Adipose_Half_Life_Z-001-0965] | [[Omega_6_Cellular_Toxicity_Mechanisms_Z-001-0967] | [[Public_Health_Interventions_Seed_Oils_Z-001-0968]
+**Related:** [[Linoleic_Acid_Bioaccumulation_Adipose_Half_Life_Z-001-0965]] | [[Omega_6_Cellular_Toxicity_Mechanisms_Z-001-0967] | [[Public_Health_Interventions_Seed_Oils_Z-001-0968]
 
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
 

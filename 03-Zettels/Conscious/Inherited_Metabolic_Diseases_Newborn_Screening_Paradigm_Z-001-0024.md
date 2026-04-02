@@ -78,7 +78,7 @@ Genetic mutation → Enzyme deficiency
 ## Connections
 
 ### Upstream
-- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911] — B12→methylmalonic diagnostic model
+- [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]] — B12→methylmalonic diagnostic model
 - [[Phenotype_Mapping_Metabolomics_Z-001-0018.md] — Phenotype measurement framework
 
 ### Downstream
@@ -108,7 +108,7 @@ Genetic mutation → Enzyme deficiency
 - Multi-metabolite panel validation (like NBS panels)
 
 ## See Also
-- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004] — Source (Subsection 1)
+- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] — Source (Subsection 1)
 -  — Course navigation
 -  — Protocol biomarker validation
 

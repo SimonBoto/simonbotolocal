@@ -76,8 +76,8 @@ At least one must be met:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]  
-**Related:** [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618] — Detailed criteria
+**Source:** [[LitNote_METHAP_Study_Design_Protocol_L-002-0604]]  
+**Related:** [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]] — Detailed criteria
 
 ---
 

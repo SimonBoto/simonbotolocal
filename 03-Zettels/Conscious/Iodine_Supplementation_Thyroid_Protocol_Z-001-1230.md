@@ -137,7 +137,7 @@ Coupling → T3 (triiodothyronine), T4 (thyroxine)
 
 ---
 
-*Source: [[LitNote_Iodine_Thyroid_MTHFR_L-001-0638] | 2026-03-09*
+*Source: [[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]] | 2026-03-09*
 
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]

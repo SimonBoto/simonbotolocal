@@ -80,8 +80,8 @@ status: conscious
 - **Result:** Tissue omega-6 levels increased 3-5×
 
 ## Related Zettels
-- [[Linoleic_Acid_Metabolic_Fate_Desaturase_Competition_Z-001-0946] — Metabolic fate
-- [[Omega_6_Omega_3_Ratio_Evolutionary_Context_Z-001-0948] — Ratio importance
+- [[Linoleic_Acid_Metabolic_Fate_Desaturase_Competition_Z-001-0946]] — Metabolic fate
+- [[Omega_6_Omega_3_Ratio_Evolutionary_Context_Z-001-0948]] — Ratio importance
 
 ## Source
 [[LitNote_Seed_Oils_Fatty_Acid_Composition_L-001-0522]

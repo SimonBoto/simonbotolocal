@@ -214,7 +214,7 @@ X_scaled = scaler.fit_transform(X_norm)
 
 ---
 
-*Source: [[LitNote_Metabolomics_Data_Processing_L-001-0619] | 2026-03-09*
+*Source: [[LitNote_Metabolomics_Data_Processing_L-001-0619]] | 2026-03-09*
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]

@@ -68,10 +68,10 @@ extraction-date: 2026-03-08
 **Training Application:** New doctors must demonstrate competence at each stage before progression.
 
 ## Zettels Created from This Source
-1. [[Clinic_Patient_Flow_Operations_Z-001-1077] — Stage-by-stage procedures
-2. [[Metabolomics_Quality_Standards_Z-001-1078] — Quality checkpoints
-3. [[Follow_Up_Assessment_Rhythms_Z-001-1079] — Follow-up schedule
-4. [[Clinician_Training_Competency_Checklist_Z-001-1080] — Competency verification
+1. [[Clinic_Patient_Flow_Operations_Z-001-1077]] — Stage-by-stage procedures
+2. [[Metabolomics_Quality_Standards_Z-001-1078]] — Quality checkpoints
+3. [[Follow_Up_Assessment_Rhythms_Z-001-1079]] — Follow-up schedule
+4. [[Clinician_Training_Competency_Checklist_Z-001-1080]] — Competency verification
 
 ## Related References
 - 

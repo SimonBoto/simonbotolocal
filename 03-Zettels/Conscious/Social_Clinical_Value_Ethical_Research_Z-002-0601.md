@@ -38,8 +38,8 @@ Adipic acid as an insulin resistance  satisfies this requirement:
 ## Links
 
 **Parent MOC:**   
-**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]  
-**Related:** [[Scientific_Validity_Ethical_Requirement_Z-002-0602] — Methodological rigor requirement
+**Source:** [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]]  
+**Related:** [[Scientific_Validity_Ethical_Requirement_Z-002-0602]] — Methodological rigor requirement
 
 ---
 

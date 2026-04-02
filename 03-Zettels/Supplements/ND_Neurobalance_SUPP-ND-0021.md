@@ -100,8 +100,8 @@ Take 1-2 capsules once daily after food or as directed by your physician.
 ## Biomarker Links
 - [[Serotonin_Neurotransmitter_Mood_Z-001-XXXX] — 5-HTP raises serotonin
 - [[Dopamine_Motivation_Neurotransmitter_Z-001-XXXX] — tyrosine supports dopamine
-- [[Cortisol_Primary_Stress_Hormone_Z-011-0005] — chronic stress depletes neurotransmitters
-- [[Zinc_RBC_Functional_Mineral_Z-007-0006] — required for neurotransmitter synthesis
+- [[Cortisol_Primary_Stress_Hormone_Z-011-0005]] — chronic stress depletes neurotransmitters
+- [[Zinc_RBC_Functional_Mineral_Z-007-0006]] — required for neurotransmitter synthesis
 
 ## Comparison with Sleep Good
 | Feature | Neurobalance | Sleep Good |

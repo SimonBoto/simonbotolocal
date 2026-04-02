@@ -408,7 +408,7 @@ If skewed: More complex formulas available
 
 ---
 
-**Related:** [[Systematic_Search_Strategy_Z-001-0996] | [[Screening_Protocols_Systematic_Review_Z-001-0997] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999]
+**Related:** [[Systematic_Search_Strategy_Z-001-0996]] | [[Screening_Protocols_Systematic_Review_Z-001-0997]] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999]
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
 

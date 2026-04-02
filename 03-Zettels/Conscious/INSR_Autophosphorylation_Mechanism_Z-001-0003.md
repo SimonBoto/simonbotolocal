@@ -28,8 +28,8 @@ created: 2026-02-22
 
 ## Links
 
-- **Prerequisite:** [[Insulin_Receptor_Structure_Z-001-0001] — Receptor architecture
-- **Downstream:** [[IRS_Protein_Recruitment_Z-001-0005] — Adapter binding
+- **Prerequisite:** [[Insulin_Receptor_Structure_Z-001-0001]] — Receptor architecture
+- **Downstream:** [[IRS_Protein_Recruitment_Z-001-0005]] — Adapter binding
 
 ## Context
 

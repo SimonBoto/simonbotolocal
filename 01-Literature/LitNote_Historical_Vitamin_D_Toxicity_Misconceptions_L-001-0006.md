@@ -74,9 +74,9 @@ extraction-date: 2026-03-01
 4. [[Vitamin_D_Toxicity_Myth_Persistence_Z-001-0057]
 
 ## Related References
-- [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007] — Related statistical errors in dosing
-- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008] — Protective mechanisms (Mg, K2)
-- [[Vitamin_D_Paradigm_Failure_Production_vs_Recommendations_Z-001-0073] — Systemic failure synthesis
+- [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]] — Related statistical errors in dosing
+- [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — Protective mechanisms (Mg, K2)
+- [[Vitamin_D_Paradigm_Failure_Production_vs_Recommendations_Z-001-0073]] — Systemic failure synthesis
 -  — Parent MOC
 -  — Metabolic pathways
 

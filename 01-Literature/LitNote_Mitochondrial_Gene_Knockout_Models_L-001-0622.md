@@ -199,9 +199,9 @@ extraction-date: 2026-03-08
 ## Connections
 
 **Related Zettels:**
-- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166] — To create
-- [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167] — To create
-- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168] — To create
+- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166]] — To create
+- [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]] — To create
+- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]] — To create
 - [[Respiratory_Chain_Complex_Deficiencies_Z-001-1169] — To create
 
 **MOCs:**
@@ -211,7 +211,7 @@ extraction-date: 2026-03-08
 -  — Neurodegeneration models
 
 **LitNotes:**
-- [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577] — Partial overlap
+- [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]] — Partial overlap
 - [[LitNote_Mitochondrial_Structure_Function_L-001-0515] — Related
 
 ---

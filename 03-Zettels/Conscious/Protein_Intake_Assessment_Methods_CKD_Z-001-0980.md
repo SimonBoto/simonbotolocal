@@ -284,7 +284,7 @@ Nitrogen Balance ≈ Protein Intake/6.25 - (UUN + 4)
 
 ---
 
-**Related:** [[Serum_Albumin_Interpretation_CKD_Z-001-0978] | [[Short_Term_High_Protein_Hypoalbuminemia_Protocol_Z-001-0979]
+**Related:** [[Serum_Albumin_Interpretation_CKD_Z-001-0978]] | [[Short_Term_High_Protein_Hypoalbuminemia_Protocol_Z-001-0979]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
 

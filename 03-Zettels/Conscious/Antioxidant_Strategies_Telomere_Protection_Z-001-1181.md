@@ -153,7 +153,7 @@ status: conscious
 
 ---
 
-*Source: [[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625] | 2026-03-08*
+*Source: [[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]] | 2026-03-08*
 
 
 ## RELATED FILES

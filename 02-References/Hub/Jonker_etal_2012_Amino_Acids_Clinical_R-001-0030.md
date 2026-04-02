@@ -56,8 +56,8 @@ tags: [reference, amino-aci
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[IOM_Defensive_Response_to_Critique_Z-001-0060] — AA clinical roles
-- [[BCAAs_IR_Risk_Z-001-0042] — BCAA metabolism
+- [[IOM_Defensive_Response_to_Critique_Z-001-0060]] — AA clinical roles
+- [[BCAAs_IR_Risk_Z-001-0042]] — BCAA metabolism
 
 ---
 

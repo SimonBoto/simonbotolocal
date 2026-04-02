@@ -143,9 +143,9 @@ Magnesium deficiency and insulin resistance form a bidirectional, vicious relati
 4. [[Magnesium_Deficiency_Population_Prevalence_Z-001-0214]
 
 ## Related References
-- [[LitNote_Metabolic_Syndrome_Overview_L-001-0200] — MetS context
-- [[LitNote_Magnesium_Biochemistry_L-001-0201a] — Mg mechanisms
-- [[LitNote_IR_Mechanisms_Map_L-001-0005] — Deep IR mechanisms
+- [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]] — MetS context
+- [[LitNote_Magnesium_Biochemistry_L-001-0201a]] — Mg mechanisms
+- [[LitNote_IR_Mechanisms_Map_L-001-0005]] — Deep IR mechanisms
 -  — Parent MOC
 -  — Insulin signaling context
 

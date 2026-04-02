@@ -123,9 +123,9 @@ FRAX algorithm integrates **demographic, clinical, and BMD variables** to estima
 4. **Not verifying BMD site:** Ensure femoral neck measured
 
 ## Related Zettels
-- [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110] — Using the calculated score
-- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111] — What's missing
-- [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076] — BMD component
+- [[FRAX_Output_Thresholds_Treatment_Decisions_Z-001-0110]] — Using the calculated score
+- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]] — What's missing
+- [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076]] — BMD component
 
 ## Source
 [[LitNote_FRAX_Risk_Assessment_Tool_L-001-0017]

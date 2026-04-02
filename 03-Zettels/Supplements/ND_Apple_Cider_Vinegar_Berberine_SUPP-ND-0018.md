@@ -94,7 +94,7 @@ Take 1 capsule with water before meals, twice daily, or as directed by your phys
 | 2 | €1.47 | Standard dose (1 before each main meal) |
 
 ## Biomarker Links
-- [[Glucose_Blood_Sugar_Energy_Z-005-0001] — post-prandial glucose
+- [[Glucose_Blood_Sugar_Energy_Z-005-0001]] — post-prandial glucose
 - [[HbA1c_Glycated_Hemoglobin_Z-005-0003] — long-term glucose control
 - [[Insulin_Fasting_Pancreatic_Hormone_Z-005-0002] — insulin levels
 - [[Chromium_Essential_Trace_Glucose_Z-007-0009] — chromium status

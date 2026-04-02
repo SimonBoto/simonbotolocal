@@ -74,8 +74,8 @@ Chromatin relaxation → Gene expression changes
 - **Autophagy:** HDAC inhibition promotes cellular cleanup
 
 ## Related
-- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484] BHB Energy Substrate
-- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486] BHB NLRP3 Inhibition
+- [[BHB_Energy_Substrate_Brain_Heart_Z-001-0484]] BHB Energy Substrate
+- [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]] BHB NLRP3 Inhibition
 -  (if exists)
 
 ---

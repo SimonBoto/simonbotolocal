@@ -61,8 +61,8 @@ Glucose → Acetyl-CoA →
 - **Epinephrine:** Emergency glucose mobilization
 
 ## Related
-- [[Glycolysis_Steps_Regulation_Z-001-0467] Glycolysis Steps
-- [[Fructose_Metabolism_Lipogenesis_Z-001-0473] Fructose Metabolism (contrast)
+- [[Glycolysis_Steps_Regulation_Z-001-0467]] Glycolysis Steps
+- [[Fructose_Metabolism_Lipogenesis_Z-001-0473]] Fructose Metabolism (contrast)
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

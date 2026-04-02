@@ -53,7 +53,7 @@ Ascorbate → Dehydroascorbate → Oxalate + Threonate
 
 ## Related
 - _to_Oxalate_Z-001-0605] — Other major source
-- [[Hydroxyproline_Collagen_Oxalate_Production_Z-001-0606] — Collagen source
+- [[Hydroxyproline_Collagen_Oxalate_Production_Z-001-0606]] — Collagen source
 
 ---
 *Source: CGPT-0413 | Created: 2026-03-04*

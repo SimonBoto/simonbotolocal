@@ -204,7 +204,7 @@ RBD Oil — neutral, stable, depleted
 
 ---
 
-**Related:** [[Seed_Oil_Extraction_Methods_Expeller_Hexane_Z-001-0955] | [[Advanced_Lipoxidation_End_Products_ALEs_Z-001-0958] | [[Hydrogenation_Trans_Fat_Formation_Z-001-0957]
+**Related:** [[Seed_Oil_Extraction_Methods_Expeller_Hexane_Z-001-0955]] | [[Advanced_Lipoxidation_End_Products_ALEs_Z-001-0958]] | [[Hydrogenation_Trans_Fat_Formation_Z-001-0957]
 
 **Source:** CGPT-0281, CGPT-0340 — Seed Oils and Metabolic Health; Seed oils history and process
 

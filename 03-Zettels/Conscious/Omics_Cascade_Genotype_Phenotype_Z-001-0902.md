@@ -61,9 +61,9 @@ Metabolites reflect the **integration** of:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Systems_Biology_Integrative_Framework_Z-001-0901] — Theoretical foundation
+- **Upstream/Prerequisite:** [[Systems_Biology_Integrative_Framework_Z-001-0901]] — Theoretical foundation
 - **Parallel/Related:**  — Classic genetics view
-- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903] — Why environment matters more than genes
+- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Why environment matters more than genes
 
 ## Context
 

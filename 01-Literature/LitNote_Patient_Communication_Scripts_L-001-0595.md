@@ -70,10 +70,10 @@ extraction-date: 2026-03-08
 **Training Application:** Role-play these scripts until responses become automatic.
 
 ## Zettels Created from This Source
-1. [[Metabolic_Storytelling_Patient_Framework_Z-001-1070] — Communication framework
-2. [[Patient_Objection_Response_Scripts_Z-001-1071] — 25+ scripted responses
-3. [[Difficult_Conversation_Navigation_Z-001-1072] — Challenge management
-4. [[Metabolomics_Report_Structure_Standards_Z-001-1073] — Report formats
+1. [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]] — Communication framework
+2. [[Patient_Objection_Response_Scripts_Z-001-1071]] — 25+ scripted responses
+3. [[Difficult_Conversation_Navigation_Z-001-1072]] — Challenge management
+4. [[Metabolomics_Report_Structure_Standards_Z-001-1073]] — Report formats
 
 ## Related References
 - 

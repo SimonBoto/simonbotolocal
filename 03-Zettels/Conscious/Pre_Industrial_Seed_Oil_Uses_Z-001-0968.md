@@ -254,7 +254,7 @@ Oils that polymerize (dry) when exposed to air
 
 ---
 
-**Related:** [[Procter_Gamble_Crisco_Introduction_1911_Z-001-0969] | [[Seed_Oil_Extraction_Methods_Expeller_Hexane_Z-001-0955] | [[Industrial_Revolution_Food_Transformation_Z-001-0012]
+**Related:** [[Procter_Gamble_Crisco_Introduction_1911_Z-001-0969] | [[Seed_Oil_Extraction_Methods_Expeller_Hexane_Z-001-0955]] | [[Industrial_Revolution_Food_Transformation_Z-001-0012]
 
 **Source:** CGPT-0340 — Seed oils history and process
 

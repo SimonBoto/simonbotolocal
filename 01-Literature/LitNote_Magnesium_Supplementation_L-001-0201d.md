@@ -186,9 +186,9 @@ extraction-date: 2026-03-01
 4. [[Magnesium_Monitoring_Safety_Side_Effects_Z-001-0222]
 
 ## Related References
-- [[LitNote_Magnesium_Biochemistry_L-001-0201a] — Mechanisms
-- [[LitNote_Magnesium_IR_Diabetes_L-001-0201b] — Metabolic effects
-- [[LitNote_Magnesium_Cardiovascular_L-001-0201c] — CV benefits
+- [[LitNote_Magnesium_Biochemistry_L-001-0201a]] — Mechanisms
+- [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]] — Metabolic effects
+- [[LitNote_Magnesium_Cardiovascular_L-001-0201c]] — CV benefits
 -  — Parent MOC
 -  — Practical guidance
 

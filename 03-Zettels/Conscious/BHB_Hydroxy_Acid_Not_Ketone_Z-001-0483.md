@@ -61,8 +61,8 @@ Acetoacetate + NADH + H⁺ → BHB + NAD⁺
 - **Different readings possible** due to AcAc:BHB ratio variations
 
 ## Related
-- [[Three_Ketone_Bodies_Z-001-0482] The Three Ketone Bodies
-- [[Ketogenesis_Pathway_Regulation_Z-001-0481] Ketogenesis Pathway
+- [[Three_Ketone_Bodies_Z-001-0482]] The Three Ketone Bodies
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]] Ketogenesis Pathway
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

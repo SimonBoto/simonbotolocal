@@ -83,13 +83,13 @@ extraction-date: 2026-03-28
 - Metabolic disorders at glyoxylate level affect both pathways
 
 ## Zettels Created
-1. [[Oxalic_Acid_Chemistry_Properties_Z-101-0465] — Structure, forms, physical properties
-2. [[Oxalic_Acid_Dietary_Sources_Z-101-0466] — High-oxalate food categories
-3. [[Amino_Acid_to_Oxalate_Metabolism_Z-101-0467] — Glycine/hydroxyproline pathways
-4. [[Oxalate_Clinical_Relevance_Z-101-0468] — Mineral binding, stones, absorption
+1. [[Oxalic_Acid_Chemistry_Properties_Z-101-0465]] — Structure, forms, physical properties
+2. [[Oxalic_Acid_Dietary_Sources_Z-101-0466]] — High-oxalate food categories
+3. [[Amino_Acid_to_Oxalate_Metabolism_Z-101-0467]] — Glycine/hydroxyproline pathways
+4. [[Oxalate_Clinical_Relevance_Z-101-0468]] — Mineral binding, stones, absorption
 
 ## Connections
-- **Related source:** [[CGPT_0505_Vitamin_C_to_Oxalate_CGPT-0505] — Ascorbate conversion chemistry
+- **Related source:** [[CGPT_0505_Vitamin_C_to_Oxalate_CGPT-0505]] — Ascorbate conversion chemistry
 - **PhD context:** Adipic acid as alternative marker; oxalate as comparator/endogenous source
 - **Clinical:** Kidney stone prevention, mineral supplementation timing
 

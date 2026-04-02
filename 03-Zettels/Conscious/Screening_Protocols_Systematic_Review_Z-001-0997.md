@@ -360,7 +360,7 @@ Study screening is the process of evaluating search results against inclusion an
 
 ---
 
-**Related:** [[Systematic_Search_Strategy_Z-001-0996] | [[Data_Extraction_Systematic_Review_Z-001-0998] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999]
+**Related:** [[Systematic_Search_Strategy_Z-001-0996]] | [[Data_Extraction_Systematic_Review_Z-001-0998]] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999]
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
 

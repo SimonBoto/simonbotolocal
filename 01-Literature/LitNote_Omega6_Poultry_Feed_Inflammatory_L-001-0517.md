@@ -151,10 +151,10 @@ For patients with inflammatory conditions (MetS, autoimmune, chronic pain), the 
 ---
 
 ## Zettels Created from This Source
-1. [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562] — Conventional poultry fatty acid composition
-2. [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563] — Egg quality by hen diet
-3. [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564] — Inflammation biochemistry
-4. [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565] — Reference measurements table
+1. [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]] — Conventional poultry fatty acid composition
+2. [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563]] — Egg quality by hen diet
+3. [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]] — Inflammation biochemistry
+4. [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]] — Reference measurements table
 
 ---
 

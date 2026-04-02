@@ -167,15 +167,15 @@ Sirolimus disrupts this balance by suppressing biogenesis while promoting cleara
 ---
 
 ## Zettels Created from This Source
-1. [[Sirolimus_mTORC1_PGC1a_Mitochondrial_Biogenesis_Z-001-0512] — Biogenesis suppression mechanism
-2. [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513] — OXPHOS and oxidative stress
-3. [[Sirolimus_Mitophagy_Dysregulation_Z-001-0921] — Autophagy imbalance
-4. [[mTORC1_Calcium_Homeostasis_mPTP_Z-001-0922] — Calcium dysregulation and cell death
+1. [[Sirolimus_mTORC1_PGC1a_Mitochondrial_Biogenesis_Z-001-0512]] — Biogenesis suppression mechanism
+2. [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]] — OXPHOS and oxidative stress
+3. [[Sirolimus_Mitophagy_Dysregulation_Z-001-0921]] — Autophagy imbalance
+4. [[mTORC1_Calcium_Homeostasis_mPTP_Z-001-0922]] — Calcium dysregulation and cell death
 
 ---
 
 ## Related References
-- [[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513] — Metabolic side effects
+- [[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]] — Metabolic side effects
 -  — Parent MOC
 -  — Toxicity mechanisms
 -  — Patient monitoring

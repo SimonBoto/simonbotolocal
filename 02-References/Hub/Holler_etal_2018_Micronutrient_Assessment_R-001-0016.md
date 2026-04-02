@@ -61,7 +61,7 @@ tags: [reference, micronutrients, assessment, me
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041] — Micronutrient biomarkers
+- [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]] — Micronutrient biomarkers
 
 ---
 

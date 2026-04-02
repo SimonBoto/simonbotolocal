@@ -17,10 +17,10 @@ version: 1.0
 
 | Part | Title | Status | LitNote |
 |------|-------|--------|---------|
-| ΔΕ 1 | Εισαγωγή στα Omics | ✅ Complete (9 zettels) | [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001] |
-| ΔΕ 2 | Τι είναι οι μεταβολίτες | ✅ Complete (5 zettels) | [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002] |
-| ΔΕ 3 | Μεταβολίτες και Φαινότυπος | ✅ Complete (6 zettels) | [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003] |
-| ΔΕ 4 | Μεταβολικές Διαταραχές και Διάγνωση | ✅ Complete (5 zettels) | [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004] |
+| ΔΕ 1 | Εισαγωγή στα Omics | ✅ Complete (9 zettels) | [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] |
+| ΔΕ 2 | Τι είναι οι μεταβολίτες | ✅ Complete (5 zettels) | [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]] |
+| ΔΕ 3 | Μεταβολίτες και Φαινότυπος | ✅ Complete (6 zettels) | [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]] |
+| ΔΕ 4 | Μεταβολικές Διαταραχές και Διάγνωση | ✅ Complete (5 zettels) | [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] |
 | ΔΕ 5-8 | *(Pending)* | ⏳ Not started | — |
 
 **Asset Location:** 
@@ -62,23 +62,23 @@ version: 1.0
 ### DE3 Tier 1: Phenotype & Clinical Applications (New)
 | UID | Zettel | Status | Key Concept |
 |-----|--------|--------|-------------|
-| Z-001-0018 | [[Phenotype_Mapping_Metabolomics_Z-001-0018] | ✅ Created | Metabolomics as phenotype decoder |
-| Z-001-0019 | [[Predictive_Metabolites_T1D_Example_Z-001-0019] | ✅ Created | Early disease prediction proof-of-concept |
-| Z-001-0020 | [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020] | ✅ Created | 5 OS markers (8-OHdG, 2-HBA, etc.) |
-| Z-001-0021 | [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021] | ✅ Created | VitD as immune-modulatory micronutrient |
-| Z-001-0022 | [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022] | ✅ Created | IR as core metabolic phenotype |
-| Z-001-0023 | [[Dysbiosis_Detection_Metabolomics_Z-001-0023] | ✅ Created | Gut microbiome metabolite markers |
+| Z-001-0018 | [[Phenotype_Mapping_Metabolomics_Z-001-0018]] | ✅ Created | Metabolomics as phenotype decoder |
+| Z-001-0019 | [[Predictive_Metabolites_T1D_Example_Z-001-0019]] | ✅ Created | Early disease prediction proof-of-concept |
+| Z-001-0020 | [[Oxidative_Stress_Biomarkers_Metabolomics_Z-001-0020]] | ✅ Created | 5 OS markers (8-OHdG, 2-HBA, etc.) |
+| Z-001-0021 | [[Micronutrients_Vitamin_D_Immunoregulation_Z-001-0021]] | ✅ Created | VitD as immune-modulatory micronutrient |
+| Z-001-0022 | [[Insulin_Resistance_Metabolic_Disorder_Phenotype_Z-001-0022]] | ✅ Created | IR as core metabolic phenotype |
+| Z-001-0023 | [[Dysbiosis_Detection_Metabolomics_Z-001-0023]] | ✅ Created | Gut microbiome metabolite markers |
 
 **Total DE3: 6 Tier 1 zettels** ✅
 
 ### DE4 Tier 1: Metabolic Disorders & Diagnosis (New)
 | UID | Zettel | Status | Key Concept |
 |-----|--------|--------|-------------|
-| Z-001-0024 | [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024] | ✅ Created | 49 IMDs via newborn screening (adipic acid precedent) |
-| Z-001-0025 | [[Protein_Metabolism_Disorders_Oxalate_Pathway_Z-001-0025] | ✅ Created | Oxalate pathway (urine OA methodology) |
-| Z-001-0026 | [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026] | ✅ Created | Glucose/lactate IR markers (Savage 2005) |
-| Z-001-0027 | [[Lipid_Metabolism_Fatty_Acid_IR_Markers_Z-001-0027] | ✅ Created | Omega-3/6, desaturases in IR |
-| Z-001-0028 | [[Metabolic_Acidosis_Biomarkers_Patterns_Z-001-0028] | ✅ Created | Organic acid patterns (diagnostic algorithm) |
+| Z-001-0024 | [[Inherited_Metabolic_Diseases_Newborn_Screening_Paradigm_Z-001-0024]] | ✅ Created | 49 IMDs via newborn screening (adipic acid precedent) |
+| Z-001-0025 | [[Protein_Metabolism_Disorders_Oxalate_Pathway_Z-001-0025]] | ✅ Created | Oxalate pathway (urine OA methodology) |
+| Z-001-0026 | [[Carbohydrate_Metabolism_IR_Biomarkers_Z-001-0026]] | ✅ Created | Glucose/lactate IR markers (Savage 2005) |
+| Z-001-0027 | [[Lipid_Metabolism_Fatty_Acid_IR_Markers_Z-001-0027]] | ✅ Created | Omega-3/6, desaturases in IR |
+| Z-001-0028 | [[Metabolic_Acidosis_Biomarkers_Patterns_Z-001-0028]] | ✅ Created | Organic acid patterns (diagnostic algorithm) |
 
 **Total DE4: 5 Tier 1 zettels** ✅
 
@@ -104,7 +104,7 @@ version: 1.0
 ## 📊 Synthesis
 
 ### Course Synthesis Document
-**Status:** ✅ Created — [[Omics_Training_Core_Insights_S-001-0001]  
+**Status:** ✅ Created — [[Omics_Training_Core_Insights_S-001-0001]]  
 **Scope:** Aggregates 9 zettels into METHAP trial design framework  
 **Key Outputs:**
 - Omics hierarchy positioning metabolomics

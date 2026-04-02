@@ -153,9 +153,9 @@ Humanized monoclonal antibody against **sclerostin** that uniquely stimulates bo
 | **Injection burden** | Lower | Higher |
 
 ## Related Zettels
-- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103] — Sclerostin physiology
-- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105] — Alternative anabolic
-- [[Sequential_Therapy_Anabolic_to_Antiresorptive_Strategy_Z-001-0108] — Required transition
+- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103]] — Sclerostin physiology
+- [[Teriparatide_PTH_1-34_Intermittent_Anabolic_Therapy_Z-001-0105]] — Alternative anabolic
+- [[Sequential_Therapy_Anabolic_to_Antiresorptive_Strategy_Z-001-0108]] — Required transition
 
 ## Source
 [[LitNote_Anabolic_Bone_Therapies_L-001-0016]

@@ -86,8 +86,8 @@ extraction-date: 2026-03-01
 6. [[Vitamin_K2_Warfarin_Interaction_Caution_Z-001-0095]
 
 ## Related References
-- [[LitNote_Denosumab_Mechanism_Risks_L-001-0012] — Drug comparison
-- [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014] — Nutritional synergy
+- [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]] — Drug comparison
+- [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]] — Nutritional synergy
 -  — Parent MOC
 -  — D metabolism context
 

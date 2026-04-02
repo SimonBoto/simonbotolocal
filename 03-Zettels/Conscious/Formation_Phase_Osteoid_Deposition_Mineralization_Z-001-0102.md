@@ -83,9 +83,9 @@ Osteoblasts synthesize and deposit **osteoid** (unmineralized bone matrix), whic
 - **Trabecular bone:** Turns over faster, responds sooner to therapy
 
 ## Related Zettels
-- [[Osteoblasts_Bone_Forming_Cells_Z-001-0081] — Cell biology
-- [[Reversal_Phase_Mononuclear_Bone_Surface_Preparation_Z-001-0101] — Preceding phase
-- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103] — Following phase
+- [[Osteoblasts_Bone_Forming_Cells_Z-001-0081]] — Cell biology
+- [[Reversal_Phase_Mononuclear_Bone_Surface_Preparation_Z-001-0101]] — Preceding phase
+- [[Resting_Phase_Bone_Remodeling_Quiescence_Z-001-0103]] — Following phase
 
 ## Source
 [[LitNote_Bone_Remodeling_Cycle_Dynamics_L-001-0015]

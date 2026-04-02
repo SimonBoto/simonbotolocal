@@ -16,7 +16,7 @@ domain: 001
 # Five Pillars of Metabolic Health — Clinical Conference Framework
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0124_Profound_Truths_Revolutionizing_Health_CGPT-0124] (39 messages)
+- **ChatGPT conversation:** [[CGPT_0124_Profound_Truths_Revolutionizing_Health_CGPT-0124]] (39 messages)
 - **Date:** July 15, 2025
 - **Scope:** Comprehensive metabolic health framework from clinical conference
 

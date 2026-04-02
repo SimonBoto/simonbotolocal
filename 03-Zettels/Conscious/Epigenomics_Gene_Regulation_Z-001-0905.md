@@ -66,15 +66,15 @@ Epigenetic modifications respond to:
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Genomics_Structure_Function_Genome_Z-001-0904] — DNA as substrate
+- **Upstream/Prerequisite:** [[Genomics_Structure_Function_Genome_Z-001-0904]] — DNA as substrate
 - **Parallel/Related:** [[Transcriptomics_mRNA_Expression_Z-001-0006.md] — Output of epigenetic regulation
-- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903] — Mechanism of environmental impact
+- **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Mechanism of environmental impact
 
 ## Context
 
 **Also relevant to:** -Mechanisms] — Potential epigenetic actions of VD
 
-**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001] — Subsection 2.2
+**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Subsection 2.2
 
 ---
 

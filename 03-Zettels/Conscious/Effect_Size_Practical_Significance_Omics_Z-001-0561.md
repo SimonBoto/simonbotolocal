@@ -159,10 +159,10 @@ Metabolite: [Name]
 
 ## Related Zettels
 
-- [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558] — Study design phases
-- [[Exploratory_Excuse_Pitfall_Case_Study_Z-001-0559] — Reporting failures
-- [[Power_Analysis_Formula_Metabolomics_Z-001-0928] — Sample size and power
-- [[Sample_Size_Strategies_PhD_Z-001-0930] — Effect size in power calculations
+- [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558]] — Study design phases
+- [[Exploratory_Excuse_Pitfall_Case_Study_Z-001-0559]] — Reporting failures
+- [[Power_Analysis_Formula_Metabolomics_Z-001-0928]] — Sample size and power
+- [[Sample_Size_Strategies_PhD_Z-001-0930]] — Effect size in power calculations
 
 ---
 

@@ -259,7 +259,7 @@ Free T = Total T / (1 + [SHBG binding constant] × [SHBG])
 
 ---
 
-**Related:** [[Primary_Secondary_Hypogonadism_Z-001-0991] | [[Erectile_Dysfunction_Hormonal_Workup_Z-001-0994] | [[Metabolic_Syndrome_Hormonal_Changes_Z-001-0090]
+**Related:** [[Primary_Secondary_Hypogonadism_Z-001-0991]] | [[Erectile_Dysfunction_Hormonal_Workup_Z-001-0994]] | [[Metabolic_Syndrome_Hormonal_Changes_Z-001-0090]
 
 **Source:** CGPT-0438 — Hormone Scenarios
 

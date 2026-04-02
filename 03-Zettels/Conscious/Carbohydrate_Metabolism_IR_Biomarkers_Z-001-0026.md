@@ -116,7 +116,7 @@ source-litnote: Synthesized from clinical practice
 - Reference ranges for metabolic stress grading
 
 ## See Also
-- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004] — Source (Subsection 2.2)
+- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] — Source (Subsection 2.2)
 -  — Lactate methodology
 -  — IR mechanisms
 

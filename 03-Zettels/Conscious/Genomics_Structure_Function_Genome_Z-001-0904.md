@@ -80,7 +80,7 @@ Study of how DNA/RNA variations affect drug response:
 
 **Also relevant to:**  — Genetic stratification considerations
 
-**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001] — Subsection 2.1
+**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Subsection 2.1
 
 ---
 

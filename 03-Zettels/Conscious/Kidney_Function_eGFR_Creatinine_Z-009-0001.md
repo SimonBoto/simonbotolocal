@@ -53,7 +53,7 @@ source-litnote: Synthesized from clinical practice
 ## 🔗 Connected Systems
 
 ** Resistance:**
-- [[MAPK_Mitogenic_Pathway_Z-001-0016] — Mitochondrial dysfunction (kidney is metabolically active)
+- [[MAPK_Mitogenic_Pathway_Z-001-0016]] — Mitochondrial dysfunction (kidney is metabolically active)
 - [[Metabolic_Syndrome_Criteria_Z-001-0050.md] — Metabolic syndrome (diabetes is leading cause of CKD)
 - Diabetic nephropathy: Glomerular hyperfiltration → progressive decline
 

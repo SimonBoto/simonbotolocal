@@ -185,7 +185,7 @@ These "non-integer" values account for:
 
 ## Source
 
-Extracted from: [[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]  
+Extracted from: [[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]  
 CGPT-0647 (April 30, 2023) — Messages 23-26, 31-32
 
 

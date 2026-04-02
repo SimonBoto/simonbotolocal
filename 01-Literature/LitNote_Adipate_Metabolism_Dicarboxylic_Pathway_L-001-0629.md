@@ -178,8 +178,8 @@ Succinyl-CoA + GDP + Pi → Succinate + GTP + CoA
 -  — Energy metabolism
 
 **LitNotes:**
-- [[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628] — Formation pathway
-- [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002] — Existing partial
+- [[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]] — Formation pathway
+- [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]] — Existing partial
 
 ---
 

@@ -294,7 +294,7 @@ GRADE (Grading of Recommendations Assessment, Development and Evaluation) provid
 
 ---
 
-**Related:** [[Meta_Analysis_Statistics_Z-001-1000] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999] | [[PRISMA_Reporting_Guidelines_Z-001-1002]
+**Related:** [[Meta_Analysis_Statistics_Z-001-1000]] | [[Quality_Assessment_Risk_of_Bias_Z-001-0999]] | [[PRISMA_Reporting_Guidelines_Z-001-1002]
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
 

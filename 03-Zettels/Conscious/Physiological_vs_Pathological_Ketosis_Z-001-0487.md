@@ -93,8 +93,8 @@ source: [[L-001-0045G]
 - **Emergency**
 
 ## Related
-- [[Ketogenesis_Pathway_Regulation_Z-001-0481] Ketogenesis Pathway
-- [[Three_Ketone_Bodies_Z-001-0482] Three Ketone Bodies
+- [[Ketogenesis_Pathway_Regulation_Z-001-0481]] Ketogenesis Pathway
+- [[Three_Ketone_Bodies_Z-001-0482]] Three Ketone Bodies
 - 
 
 ---

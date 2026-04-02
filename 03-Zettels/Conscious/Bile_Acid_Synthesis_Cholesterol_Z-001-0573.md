@@ -209,10 +209,10 @@ Fecal excretion
 
 ## Related Zettels
 
-- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570] — Other cholesterol uses
-- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571] — Other cholesterol products
+- [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]] — Other cholesterol uses
+- [[CoQ10_Dolichol_Isoprenoid_Synthesis_Z-001-0571]] — Other cholesterol products
 -  — Digestive context (if exists)
-- [[LitNote_Statin_Pharmacology_L-001-0502] — Alternative cholesterol lowering
+- [[LitNote_Statin_Pharmacology_L-001-0502]] — Alternative cholesterol lowering
 
 ---
 

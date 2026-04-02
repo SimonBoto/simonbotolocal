@@ -71,9 +71,9 @@ Take 1 drop daily with water, juice, or as directed by your physician. Shake wel
 - High-dose vitamin D protocols
 
 ## Biomarker Links
-- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001] — target 25(OH)D levels
-- [[PTH_Parathyroid_Hormone_Calcium_Regulator_Z-007-0002] — D3 suppresses PTH
-- [[Calcium_Mineral_Bone_Signaling_Z-007-0003] — D3 enhances calcium absorption
+- [[Vitamin_D_Calciferol_Steroid_Hormone_Z-007-0001]] — target 25(OH)D levels
+- [[PTH_Parathyroid_Hormone_Calcium_Regulator_Z-007-0002]] — D3 suppresses PTH
+- [[Calcium_Mineral_Bone_Signaling_Z-007-0003]] — D3 enhances calcium absorption
 
 ## Comparison with Meetab Vitamin D Products
 | Feature | Pure D3 | My Health (Meetab) | My Calmag |

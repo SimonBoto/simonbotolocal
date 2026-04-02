@@ -217,7 +217,7 @@ The number of carbons in a fatty acid chain determines its absorption, transport
 
 ---
 
-*Source: [[LitNote_Fatty_Acid_Structure_Classification_L-001-0632] | 2026-03-08*
+*Source: [[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]] | 2026-03-08*
 
 
 ## RELATED FILES

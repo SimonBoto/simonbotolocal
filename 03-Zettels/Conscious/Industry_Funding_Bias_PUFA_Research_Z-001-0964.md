@@ -249,7 +249,7 @@ The seed oil story exemplifies how:
 
 ---
 
-**Related:** [[Sydney_Diet_Heart_Study_Reanalysis_Z-001-0960] | [[Minnesota_Coronary_Experiment_Reanalysis_Z-001-0961] | [[Ancel_Keys_Scientific_Legacy_Z-001-0527] | [[Procter_Gamble_Crisco_Seed_Oil_Marketing_Z-001-0247]
+**Related:** [[Sydney_Diet_Heart_Study_Reanalysis_Z-001-0960]] | [[Minnesota_Coronary_Experiment_Reanalysis_Z-001-0961]] | [[Ancel_Keys_Scientific_Legacy_Z-001-0527]] | [[Procter_Gamble_Crisco_Seed_Oil_Marketing_Z-001-0247]
 
 **Source:** CGPT-0282 — Seed Oils and Chronic Diseases
 

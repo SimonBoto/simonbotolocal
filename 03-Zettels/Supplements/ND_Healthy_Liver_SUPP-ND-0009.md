@@ -112,9 +112,9 @@ Milk thistle/silymarin has been studied for:
 | 2 capsules | €0.86 | Higher support needs |
 
 ## Biomarker Links
-- [[ALT_Alanine_Aminotransferase_Z-009-0001] — liver enzyme marker
-- [[AST_Aspartate_Aminotransferase_Z-009-0002] — liver enzyme marker
-- [[GGT_Gamma-Glutamyl_Transferase_Z-009-0004] — liver/biliary marker
+- [[ALT_Alanine_Aminotransferase_Z-009-0001]] — liver enzyme marker
+- [[AST_Aspartate_Aminotransferase_Z-009-0002]] — liver enzyme marker
+- [[GGT_Gamma-Glutamyl_Transferase_Z-009-0004]] — liver/biliary marker
 - [[Liver_Function_[B-009-0001] — comprehensive liver panel
 
 ## Comparison with Meetab Liver-Related Products

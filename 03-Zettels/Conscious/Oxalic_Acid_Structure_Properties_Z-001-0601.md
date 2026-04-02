@@ -52,7 +52,7 @@ created: 2026-03-04
 
 ## Related
 - _Mineral_Binding_Calcium_Iron_Z-001-0603] — Biological effects
-- [[Dietary_Sources_Oxalate_Table_Z-001-0602] — Food sources
+- [[Dietary_Sources_Oxalate_Table_Z-001-0602]] — Food sources
 - [[Adipic_Acid_Structure_Properties_Z-001-0620] — 6-carbon analog
 
 ---

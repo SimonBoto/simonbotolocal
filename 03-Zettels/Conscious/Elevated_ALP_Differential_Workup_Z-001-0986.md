@@ -297,7 +297,7 @@ Labs            tumor markers    expected
 
 ---
 
-**Related:** [[ALP_Isoenzymes_Tissue_Sources_Z-001-0983] | [[Pagets_Disease_Bone_Diagnosis_Management_Z-001-0984] | [[Breast_Pagets_Disease_Distinct_Entity_Z-001-0985]
+**Related:** [[ALP_Isoenzymes_Tissue_Sources_Z-001-0983]] | [[Pagets_Disease_Bone_Diagnosis_Management_Z-001-0984]] | [[Breast_Pagets_Disease_Distinct_Entity_Z-001-0985]
 
 **Source:** CGPT-0345 — Alkaline Phosphatase Overview
 

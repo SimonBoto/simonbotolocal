@@ -242,7 +242,7 @@ If not oxidized: May contribute to ectopic fat/insulin resistance
 
 ---
 
-**Related:** [[Omega_6_Tissue_Incorporation_Membrane_Fluidity_Z-001-0947] | [[Seed_Oils_Environmental_Toxin_Framework_Z-001-0966] | [[Omega_6_Omega_3_Ratio_Evolutionary_Context_Z-001-0948]
+**Related:** [[Omega_6_Tissue_Incorporation_Membrane_Fluidity_Z-001-0947]] | [[Seed_Oils_Environmental_Toxin_Framework_Z-001-0966]] | [[Omega_6_Omega_3_Ratio_Evolutionary_Context_Z-001-0948]
 
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
 

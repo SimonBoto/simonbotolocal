@@ -46,9 +46,9 @@ Bone remodeling begins with **activation** of dormant bone surfaces, triggering 
 - **Glucocorticoid-induced bone loss**: Increases RANKL, decreases OPG → activation bias
 
 ## Related Zettels
-- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085] — Therapeutic interference
-- [[Osteoclasts_Bone_Resorbing_Cells_Z-001-0080] — Terminal differentiation
-- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104] — System context
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]] — Therapeutic interference
+- [[Osteoclasts_Bone_Resorbing_Cells_Z-001-0080]] — Terminal differentiation
+- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]] — System context
 
 ## Source
 [[LitNote_Bone_Remodeling_Cycle_Dynamics_L-001-0015]

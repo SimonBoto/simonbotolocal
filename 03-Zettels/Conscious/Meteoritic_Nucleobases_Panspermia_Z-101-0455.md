@@ -41,7 +41,7 @@ source: [[L-101-0045B]
 Extraterrestrial delivery solves abundance but not concentration problem — still requires local concentration mechanisms (evaporation, minerals).
 
 ## Related
-- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454] HCN Polymerization (terrestrial alternative)
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]] HCN Polymerization (terrestrial alternative)
 - _Z-101-0456] RNA World Hypothesis
 
 ---

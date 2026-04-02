@@ -64,9 +64,9 @@ extraction-date: 2026-03-08
 **Training Application:** Reference database for evidence-based practice and patient education.
 
 ## Zettels Created from This Source
-1. [[Metabolomics_Research_Core_Bibliography_Z-001-1074] — Key papers by domain
-2. [[Vitamin_D_Safety_Research_Summary_Z-001-1075] — High-dose D evidence
-3. [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076] — Dietary intervention studies
+1. [[Metabolomics_Research_Core_Bibliography_Z-001-1074]] — Key papers by domain
+2. [[Vitamin_D_Safety_Research_Summary_Z-001-1075]] — High-dose D evidence
+3. [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]] — Dietary intervention studies
 
 ## Related References
 - 

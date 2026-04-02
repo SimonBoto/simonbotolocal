@@ -66,8 +66,8 @@ source: [[L-001-0045F]
 - Lactate/pyruvate ratio (thiamine)
 
 ## Related
-- [[Pyruvate_Central_Metabolic_Role_Z-001-0477] Pyruvate Central Role (B1-dependent)
-- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478] Propionate Metabolism (B7, B12-dependent)
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]] Pyruvate Central Role (B1-dependent)
+- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]] Propionate Metabolism (B7, B12-dependent)
 - 
 
 ---

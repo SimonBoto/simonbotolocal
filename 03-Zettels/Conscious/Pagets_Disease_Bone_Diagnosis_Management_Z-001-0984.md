@@ -269,7 +269,7 @@ Result: Disorganized woven bone, enlarged, weak
 
 ---
 
-**Related:** [[ALP_Isoenzymes_Tissue_Sources_Z-001-0983] | [[Breast_Pagets_Disease_Distinct_Entity_Z-001-0985] | [[Elevated_ALP_Differential_Workup_Z-001-0986]
+**Related:** [[ALP_Isoenzymes_Tissue_Sources_Z-001-0983]] | [[Breast_Pagets_Disease_Distinct_Entity_Z-001-0985]] | [[Elevated_ALP_Differential_Workup_Z-001-0986]
 
 **Source:** CGPT-0345 — Alkaline Phosphatase Overview
 

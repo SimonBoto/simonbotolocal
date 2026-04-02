@@ -325,7 +325,7 @@ Can the research be conducted with non-vulnerable populations?
 
 ---
 
-**Related:** [[Seven_Requirements_Ethical_Research_Z-001-1002] | [[Historical_Ethical_Guidelines_Z-001-1003] | [[Informed_Consent_Requirements_Z-001-1005] | [[International_Research_Ethics_Z-001-1007]
+**Related:** [[Seven_Requirements_Ethical_Research_Z-001-1002]] | [[Historical_Ethical_Guidelines_Z-001-1003]] | [[Informed_Consent_Requirements_Z-001-1005]] | [[International_Research_Ethics_Z-001-1007]
 
 **Source:** CGPT-0131 — Medical Ethics Assistance
 

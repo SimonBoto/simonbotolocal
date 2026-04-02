@@ -36,7 +36,7 @@ created: 2026-02-22
 
 ## Links
 
-- **Upstream:** [[Akt_Substrate_Phosphorylation_Z-001-0010] — Akt activation
+- **Upstream:** [[Akt_Substrate_Phosphorylation_Z-001-0010]] — Akt activation
 
 ## Context
 

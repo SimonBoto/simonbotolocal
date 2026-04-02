@@ -298,7 +298,7 @@ Modern  ethics emerged from responses to atrocities and ethical failures in huma
 
 ---
 
-**Related:** [[Seven_Requirements_Ethical_Research_Z-001-1002] | [[Tuskegee_Syphilis_Study_Historical_Impact_Z-001-1006] | [[IRB_Ethics_Committee_Functions_Z-001-1004]
+**Related:** [[Seven_Requirements_Ethical_Research_Z-001-1002]] | [[Tuskegee_Syphilis_Study_Historical_Impact_Z-001-1006] | [[IRB_Ethics_Committee_Functions_Z-001-1004]
 
 **Source:** CGPT-0131 — Medical Ethics Assistance
 

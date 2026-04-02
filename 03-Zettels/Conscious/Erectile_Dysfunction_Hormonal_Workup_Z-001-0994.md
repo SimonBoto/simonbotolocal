@@ -244,7 +244,7 @@ Focused evaluation                  Consider TRT
 
 ---
 
-**Related:** [[Primary_Secondary_Hypogonadism_Z-001-0991] | [[Prolactinoma_Diagnosis_Management_Z-001-0992] | [[SHBG_Physiology_Clinical_Significance_Z-001-0993] | [[Testosterone_Replacement_Therapy_Monitoring_Z-001-0091]
+**Related:** [[Primary_Secondary_Hypogonadism_Z-001-0991]] | [[Prolactinoma_Diagnosis_Management_Z-001-0992]] | [[SHBG_Physiology_Clinical_Significance_Z-001-0993]] | [[Testosterone_Replacement_Therapy_Monitoring_Z-001-0091]
 
 **Source:** CGPT-0438 — Hormone Scenarios
 

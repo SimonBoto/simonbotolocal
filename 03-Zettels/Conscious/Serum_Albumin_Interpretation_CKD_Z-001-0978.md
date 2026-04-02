@@ -282,7 +282,7 @@ Other causes:
 
 ---
 
-**Related:** [[Short_Term_High_Protein_Hypoalbuminemia_Protocol_Z-001-0979] | [[Protein_Intake_Assessment_Methods_CKD_Z-001-0980]
+**Related:** [[Short_Term_High_Protein_Hypoalbuminemia_Protocol_Z-001-0979]] | [[Protein_Intake_Assessment_Methods_CKD_Z-001-0980]
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
 

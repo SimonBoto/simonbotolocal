@@ -119,9 +119,9 @@ domain: 001
 ## Integration Notes
 
 **Links to Existing Zettels:**
-- [[Osteoclasts_Bone_Resorbing_Cells_Z-001-0080] — Predecessor extraction
-- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085] — Interferes with Activation phase
-- [[Osteoblasts_Bone_Forming_Cells_Z-001-0081] — Formation phase execution
+- [[Osteoclasts_Bone_Resorbing_Cells_Z-001-0080]] — Predecessor extraction
+- [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]] — Interferes with Activation phase
+- [[Osteoblasts_Bone_Forming_Cells_Z-001-0081]] — Formation phase execution
 
 **Clinical Application:**
 - Understanding phases explains timing of therapeutic response

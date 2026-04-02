@@ -17,11 +17,11 @@ tags: [moc, research-ethics, ethics, irb]
 
 | Framework | Year | Key Principle |
 |-----------|------|---------------|
-| [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608] | 1947 | Voluntary consent |
-| [[Declaration_Helsinki_Research_Ethics_Z-002-0609] | 1964 | Beneficence, justice |
-| [[Belmont_Report_Ethical_Principles_1979_Z-002-0610] | 1979 | Respect, beneficence, justice |
-| [[CIOMS_International_Research_Ethics_Z-002-0611] | — | International standards |
-| [[ICH_Good_Clinical_Practice_GCP_Z-002-0612] | — | Clinical trial standards |
+| [[Nuremberg_Code_Research_Ethics_1947_Z-002-0608]] | 1947 | Voluntary consent |
+| [[Declaration_Helsinki_Research_Ethics_Z-002-0609]] | 1964 | Beneficence, justice |
+| [[Belmont_Report_Ethical_Principles_1979_Z-002-0610]] | 1979 | Respect, beneficence, justice |
+| [[CIOMS_International_Research_Ethics_Z-002-0611]] | — | International standards |
+| [[ICH_Good_Clinical_Practice_GCP_Z-002-0612]] | — | Clinical trial standards |
 
 ---
 

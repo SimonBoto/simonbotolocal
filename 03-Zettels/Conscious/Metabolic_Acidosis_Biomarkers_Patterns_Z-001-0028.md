@@ -128,7 +128,7 @@ Pattern + clinical context → Diagnosis
 - Cost-effectiveness of full panel vs. targeted markers
 
 ## See Also
-- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004] — Source
+- [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]] — Source
 -  — Lactic acidosis
 -  — Ketoacidosis
 

@@ -110,7 +110,7 @@ Systems biology produces **massive datasets:**
 
 ## Links
 
-- **Upstream/Prerequisite:** [[Microbiomics_Gut_Metabolic_Organ_Z-001-0908] — Microbial biomarkers (SCFAs)
+- **Upstream/Prerequisite:** [[Microbiomics_Gut_Metabolic_Organ_Z-001-0908]] — Microbial biomarkers (SCFAs)
 - **Parallel/Related:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md] — Multi-omics integration
 - **Downstream/Consequence:**  — Trial design application
 
@@ -118,7 +118,7 @@ Systems biology produces **massive datasets:**
 
 **Also relevant to:**  — Classification framework,  — IR-specific markers
 
-**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001] — Subsection 2.6
+**Source:** [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]] — Subsection 2.6
 
 ---
 
