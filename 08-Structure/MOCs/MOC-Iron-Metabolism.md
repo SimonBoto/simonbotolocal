@@ -25,8 +25,8 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 ## 🔄 The Iron Cycle
 
 ### Absorption & Transport
-- [[Z-003-0001]] — **Ferritin interpretation** (30-150 ng/mL storage range)
-- [[Z-003-0002]] — Transferrin and TIBC (iron transport capacity)
+- [[Ferritin_Interpretation_Iron_Status_Z-003-0001]] — **Ferritin interpretation** (30-150 ng/mL storage range)
+- [[Iron_Studies_TIBC_Transferrin_Sat_Z-003-0002]] — Transferrin and TIBC (iron transport capacity)
 - [[Z-003-0003]] — Transferrin saturation (20-50% optimal)
 - [[Z-003-0004]] — Hepcidin regulation (master regulator)
 
@@ -50,7 +50,7 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 
 **Cross-link to Methylation:**
 -  — Full methylation cycle
-- [[Z-004-0001]] — Homocysteine as composite marker
+- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001]] — Homocysteine as composite marker
 
 ---
 
@@ -62,7 +62,7 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 - **This is NOT iron overload — it's functional deficiency**
 
 **Zettels:**
-- [[Z-003-0013]] — Anemia of chronic disease vs iron deficiency
+- [[Iron_Status_Patterns_ACD_Overload_Z-003-0013]] — Anemia of chronic disease vs iron deficiency
 - [[Z-003-0014]] — Ferritin as acute phase marker (cutoffs by inflammation)
 - [[Z-003-0015]] — Hepcidin elevation in inflammation
 

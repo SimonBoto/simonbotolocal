@@ -25,9 +25,9 @@ The methylation cycle is the body's methyl group (CH3) supply system. It powers 
 ## 🔄 The Methylation Cycle
 
 ### Input Pathways
-- [[Z-004-0001]] — **Homocysteine as composite marker** (<10 μmol/L target)
-- [[Z-004-0002]] — Dietary folate (5-MTHF) entry
-- [[Z-004-0003]] — Dietary B12 (methylcobalamin) entry
+- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001]] — **Homocysteine as composite marker** (<10 μmol/L target)
+- [[Folate_5MTHF_vs_Folic_Acid_Z-004-0002]] — Dietary folate (5-MTHF) entry
+- [[Retest_Scheduling_Followup_Protocols_Z-004-0003]] — Dietary B12 (methylcobalamin) entry
 - [[Z-004-0004]] — Choline/betaine alternate pathway
 
 ### Core Enzymes
@@ -51,7 +51,7 @@ The methylation cycle is the body's methyl group (CH3) supply system. It powers 
 
 **Cross-link to Iron:**
 -  — Full iron cycle
-- [[Z-003-0001]] — Ferritin interpretation
+- [[Ferritin_Interpretation_Iron_Status_Z-003-0001]] — Ferritin interpretation
 
 ---
 
@@ -75,7 +75,7 @@ The methylation cycle is the body's methyl group (CH3) supply system. It powers 
 
 **Cross-link to IR:**
 -  — Full insulin pathway
-- [[Z-001-0046]] — HOMA-IR assessment
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046]] — HOMA-IR assessment
 
 ---
 
@@ -87,7 +87,7 @@ The methylation cycle is the body's methyl group (CH3) supply system. It powers 
 - Homocysteine >10 μmol/L = impaired methylation
 
 **Zettels:**
-- [[Z-004-0019]] — Functional B12 deficiency (MMA + homocysteine)
+- [[Functional_B12_Deficiency_MMA_Assessment_Z-004-0019]] — Functional B12 deficiency (MMA + homocysteine)
 - [[Z-004-0020]] — Serum B12 vs functional status
 
 ---

@@ -30,7 +30,7 @@ Vitamin D is a secosteroid hormone regulating calcium homeostasis, immune functi
 - [[Z-002-0003]] — Renal 1α-hydroxylation (25-OH → 1,25-OH)
 
 ### Step 2: Target Ranges
-- [[Z-002-0004]] — **Optimal range 80-150 ng/mL** (vs standard 30-100)
+- [[Vitamin_D_Optimal_Range_80_150_Z-002-0004]] — **Optimal range 80-150 ng/mL** (vs standard 30-100)
 - [[Z-002-0005]] — Deficiency, insufficiency, toxicity thresholds
 
 ### Step 3: High-Dose Protocol
@@ -53,7 +53,7 @@ Vitamin D is a secosteroid hormone regulating calcium homeostasis, immune functi
 
 **Cross-link to IR Core:**
 -  — Full insulin signaling pathway
-- [[Z-001-0046]] — HOMA-IR calculation
+- [[HOMA_IR_Calculation_Interpretation_Z-001-0046]] — HOMA-IR calculation
 
 ---
 
@@ -65,7 +65,7 @@ Vitamin D is a secosteroid hormone regulating calcium homeostasis, immune functi
 
 **Cross-link to Methylation:**
 -  — Full methylation cycle
-- [[Z-004-0001]] — Homocysteine as composite marker
+- [[Homocysteine_Composite_Methylation_Marker_Z-004-0001]] — Homocysteine as composite marker
 
 ---
 
