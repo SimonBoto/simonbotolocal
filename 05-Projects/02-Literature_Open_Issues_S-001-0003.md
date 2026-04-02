@@ -1,7 +1,7 @@
 ---
 uid: S-001-0003
 type: tracking
-title: "02-Literature — Open Issues (Knowledge Gaps)"
+title: "01-Literature — Open Issues (Knowledge Gaps)"
 aliases: [OpenIssues, LitGaps, TODO-Literature]
 tags: [tracking, gaps, todo, literature]
 parent-moc: 
@@ -9,7 +9,7 @@ status: active
 created: 2026-03-01
 ---
 
-# 🔴 Open Issues — 02-Literature Knowledge Gaps
+# 🔴 Open Issues — 01-Literature Knowledge Gaps
 
 > *"What's mentioned but not documented. What's assumed but not sourced."*
 

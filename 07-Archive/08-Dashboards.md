@@ -63,7 +63,7 @@ status: active
 **Vault Navigation:**
 - `00-Inbox/` — Drop new sources (folder)
 - `03-Zettels/Conscious/` — Atomic notes (folder)
-- `01-References/Hub/` — Reference notes (folder)
+- `02-References/Hub/` — Reference notes (folder)
 - [[06-Structure/MOCs/MOC-INDEX]] — Master MOC index (note)
 
 ---

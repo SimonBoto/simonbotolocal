@@ -23,7 +23,7 @@ status: active
 **Command to run:**
 ```bash
 # Find highest existing UID in domain
-grep -r "^uid: [ZL]-001-" /home/simon/Workspaces/TheOptimizedBrain/02-Literature/ /home/simon/Workspaces/TheOptimizedBrain/03-Zettels/Conscious/ | grep -oE "[0-9]+-?[0-9]*$" | sort -t- -k1 -n | tail -5
+grep -r "^uid: [ZL]-001-" /home/simon/Workspaces/TheOptimizedBrain/01-Literature/ /home/simon/Workspaces/TheOptimizedBrain/03-Zettels/Conscious/ | grep -oE "[0-9]+-?[0-9]*$" | sort -t- -k1 -n | tail -5
 ```
 
 **What to record:**
@@ -50,7 +50,7 @@ grep -r "^uid: [ZL]-001-" /home/simon/Workspaces/TheOptimizedBrain/02-Literature
 ---
 
 ### ☐ Step 3: Verify Source Exists
-- [ ] PDF/asset is in `01-References/Assets/`
+- [ ] PDF/asset is in `02-References/Assets/`
 - [ ] Filename is descriptive (no Greek characters if possible)
 - [ ] File is extractable (pdftotext test)
 
@@ -174,7 +174,7 @@ grep -oE "\[\+\]\]" /path/to/new/files | sort | uniq
 **Before commit, verify:**
 ```bash
 # Check for duplicate UIDs across vault
-grep -r "^uid: " /home/simon/Workspaces/TheOptimizedBrain/02-Literature/ /home/simon/Workspaces/TheOptimizedBrain/03-Zettels/ | sort | uniq -d
+grep -r "^uid: " /home/simon/Workspaces/TheOptimizedBrain/01-Literature/ /home/simon/Workspaces/TheOptimizedBrain/03-Zettels/ | sort | uniq -d
 ```
 
 **Expected result:** Empty (no duplicates)

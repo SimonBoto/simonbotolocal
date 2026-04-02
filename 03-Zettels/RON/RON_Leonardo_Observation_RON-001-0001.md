@@ -35,8 +35,8 @@ Like Leonardo's anatomical theaters, the vault is where dissection occurs. 10 di
 | Directory | Function | Leonardo Equivalent |
 |-----------|----------|---------------------|
 | 00-Inbox | Capture (mouth/intake) | Sensory organs |
-| 01-References | Digestion (processing sources) | Stomach |
-| 02-Literature | Absorption (lit notes) | Intestines |
+| 02-References | Digestion (processing sources) | Stomach |
+| 01-Literature | Absorption (lit notes) | Intestines |
 | 03-Zettels | Brain (knowledge) | Cerebrum |
 | 04-Synthesis | Heart (living documents) | Cardiac muscle |
 | 05-Projects | Hands (action) | Extremities |

@@ -1,8 +1,8 @@
 ---
 uid: IDX-01
-folder: 01-References
+folder: 02-References
 type: index
-title: "01-References — Source Management"
+title: "02-References — Source Management"
 aliases: [References, Sources, Bibliography]
 tags: [index, references, sources, bibliography, navigation, folder]
 parent-index: [[00-MISSION]]
@@ -10,7 +10,7 @@ child-folders: ", , , "
 status: active
 ---
 
-# 📚 01-References — Source Management
+# 📚 02-References — Source Management
 
 **Purpose:** Bibliographic cards and source tracking. Every knowledge claim traces back to a source.
 
@@ -41,7 +41,7 @@ New Source Discovered
     ↓
 Create Hub Card (if academic)
     ↓
-Process to LitNote (02-Literature/)
+Process to LitNote (01-Literature/)
     ↓
 Extract Zettels (03-Zettels/Conscious/)
     ↓
@@ -54,9 +54,9 @@ Link Back to Hub (bidirectional)
 
 | Folder | Count | Status |
 |--------|-------|--------|
-| Hub references | {{query: list from "01-References/Hub"}} | 🟢/🟡/🔴 |
-| Zotero synced | {{query: list from "01-References/Zotero"}} | 🟢/🟡/🔴 |
-| Other sources | {{query: list from "01-References/Other"}} | 🟢/🟡/🔴 |
+| Hub references | {{query: list from "02-References/Hub"}} | 🟢/🟡/🔴 |
+| Zotero synced | {{query: list from "02-References/Zotero"}} | 🟢/🟡/🔴 |
+| Other sources | {{query: list from "02-References/Other"}} | 🟢/🟡/🔴 |
 
 ---
 

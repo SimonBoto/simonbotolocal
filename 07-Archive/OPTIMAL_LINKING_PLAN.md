@@ -22,7 +22,7 @@ created: 2026-02-23
 ```
 00-MISSION (Root)
     ↓
-00-Inbox → 01-References → 02-Literature → 03-Zettels → 04-Synthesis → 05-Projects
+00-Inbox → 02-References → 01-Literature → 03-Zettels → 04-Synthesis → 05-Projects
     ↓                                    ↓
 06-Structure ← ← ← ← ← ← ← ← ← ← ← ← ← ← ← ← ← ← ← ← ← ← ← ← ← ← ← ← ← ← ↓
     ↓
@@ -99,7 +99,7 @@ related: ,
 
 **Key Nodes:**
 - 00-MISSION (root)
-- 00-Inbox, 01-References, 02-Literature...
+- 00-Inbox, 02-References, 01-Literature...
 - 08-Dashboards/MISSION_CONTROL (ops hub)
 
 ### Layer 2: MOCs (Knowledge Maps)

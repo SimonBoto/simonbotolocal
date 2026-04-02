@@ -1,7 +1,7 @@
 ---
 uid: S-001-0002
 type: strategy
-title: "02-Literature — Quality Expansion Strategy"
+title: "01-Literature — Quality Expansion Strategy"
 aliases: [LitStrategy, Literature-Plan, Open-Issues]
 tags: [strategy, literature, workflow, gaps, planning]
 parent-moc: 
@@ -9,7 +9,7 @@ status: active
 created: 2026-03-01
 ---
 
-# 📚 02-Literature — Quality Expansion Strategy
+# 📚 01-Literature — Quality Expansion Strategy
 
 > *"A literature folder is only as strong as its weakest source. Quality over quantity, but quantity matters for coverage."*
 
@@ -216,7 +216,7 @@ Next available: L-001-0015, L-101-0002
 - [ ] All 15 gaps filled with LitNotes
 - [ ] 50 ChatGPT conversations processed
 - [ ] 10 primary papers integrated
-- [ ] 02-Literature.md index updated with queries
+- [ ] 01-Literature.md index updated with queries
 - [ ] Cross-links between clusters established
 - [ ] IRB Section 1 fully supported by citations
 

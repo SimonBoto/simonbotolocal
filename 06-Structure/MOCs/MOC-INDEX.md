@@ -84,8 +84,8 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 | Folder | Files | Purpose |
 |--------|-------|---------|
 | [[00-MISSION]] | 2 | Daily priorities, active work |
-| [[01-References]] | 41 | Source materials, Zotero |
-| [[02-Literature]] | 165 | LitNotes in processing |
+| [[02-References]] | 41 | Source materials, Zotero |
+| [[01-Literature]] | 165 | LitNotes in processing |
 | [[03-Zettels]] | 767 | **Main knowledge base** |
 | [[04-Synthesis]] | 23 | Living documents |
 | [[05-Projects]] | 25 | PhD, Assistant, Triangle |

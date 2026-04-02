@@ -35,8 +35,8 @@ Fleeting Note Created
 [Within 48 hours]
     ↓
 Decision:
-    ├─→ Source material? → 01-References/Hub/
-    ├─→ Literature note? → 02-Literature/
+    ├─→ Source material? → 02-References/Hub/
+    ├─→ Literature note? → 01-Literature/
     ├─→ Atomic insight? → 03-Zettels/Conscious/
     ├─→ Project task? → 05-Projects/
     └─→ Not valuable? → Delete

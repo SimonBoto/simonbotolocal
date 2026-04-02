@@ -159,7 +159,7 @@ Quick check (2 min):
 ```bash
 cd /home/simon/Workspaces/TheOptimizedBrain
 ls 03-Zettels/Conscious/ | grep "Z-XXX-" | wc -l
-ls 01-References/Hub/ | grep "R-XXX-" | wc -l
+ls 02-References/Hub/ | grep "R-XXX-" | wc -l
 git diff --stat HEAD~1
 ```
 

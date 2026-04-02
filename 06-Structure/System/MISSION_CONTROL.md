@@ -10,13 +10,13 @@
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| **Total LitNotes** | ~100 | `02-Literature/` |
+| **Total LitNotes** | ~100 | `01-Literature/` |
 | **Total Zettels** | ~600+ | `03-Zettels/Conscious/` + `Subconscious/` |
 | **Git Commits** | 20+ today | `git log` |
 | **Active MOCs** | 41+ | `06-Structure/MOCs/` |
 | **Pending Inbox** | 27 sources | `00-Inbox/` |
 | **Keyword Links** | 2,138 | Across vault |
-| **Reference Connections** | 55 | `01-References/Hub/` |
+| **Reference Connections** | 55 | `02-References/Hub/` |
 
 ---
 

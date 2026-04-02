@@ -87,7 +87,7 @@ created: 2026-04-01
 
 ### From Zotero (Future)
 - Full library sync
-- Auto-import to 01-References/Hub/
+- Auto-import to 02-References/Hub/
 
 ---
 

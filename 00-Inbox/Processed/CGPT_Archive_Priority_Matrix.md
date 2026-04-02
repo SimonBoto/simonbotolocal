@@ -90,7 +90,7 @@ For each CGPT-XXXX:
 
 ### Step 3: Verification
 Before extracting any conversation:
-- Check if already in 02-Literature/
+- Check if already in 01-Literature/
 - Check if zettels already exist
 - Confirm novelty value
 

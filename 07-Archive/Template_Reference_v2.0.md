@@ -17,7 +17,7 @@ pmcid: "{{PMCID}}"
 zotero-select: "zotero://select/items/{{ZOTERO_KEY}}"
 zotero-key: "{{ZOTERO_KEY}}"
 url: "{{URL}}"
-pdf-path: "01-References/Assets/PDFs/{{FILENAME}}.pdf"
+pdf-path: "02-References/Assets/PDFs/{{FILENAME}}.pdf"
 tier: "{{1|2|3}}"
 relevance: |
   {{Why this matters for our work — 2-3 sentences}}

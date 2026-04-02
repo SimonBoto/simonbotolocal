@@ -20,7 +20,7 @@ status: active
 **Run:**
 ```bash
 cd /home/simon/Workspaces/TheOptimizedBrain
-echo "LitNotes:"; ls 02-Literature/*.md | grep -oE "L-[0-9]+-[0-9]+" | sort -t- -k2 -n | tail -1
+echo "LitNotes:"; ls 01-Literature/*.md | grep -oE "L-[0-9]+-[0-9]+" | sort -t- -k2 -n | tail -1
 echo "Zettels:"; ls 03-Zettels/Conscious/*.md | grep -oE "Z-[0-9]+-[0-9]+" | sort -t- -k3 -n | tail -1
 ```
 
@@ -81,7 +81,7 @@ grep -nE "\[\*\[|\[\][^\]]*\]\]" your_file.md
 
 **Check all UIDs for duplicates:**
 ```bash
-grep -r "^uid: " 02-Literature/ 03-Zettels/ | sort | uniq -d
+grep -r "^uid: " 01-Literature/ 03-Zettels/ | sort | uniq -d
 ```
 
 **Find malformed links:**

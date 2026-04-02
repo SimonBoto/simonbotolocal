@@ -31,7 +31,7 @@ extraction-date: "{{YYYY-MM-DD}}"
 Bare UIDs like `[[Z-001-0041]]` create empty Obsidian notes because filenames include titles.
 Always use full format: `[[Title_Z-001-0041]]` or `[[Title_Z-001-0041]|display text]]`
 
-**Verification:** `grep -r '\[\[Z-[0-9]\{4\}-[0-9]\{4\}\]\]' 02-Literature/ 03-Zettels/` should return nothing.
+**Verification:** `grep -r '\[\[Z-[0-9]\{4\}-[0-9]\{4\}\]\]' 01-Literature/ 03-Zettels/` should return nothing.
 
 **Use Plain Text WHEN:**
 - Generic concepts: "insulin resistance" (not ``)

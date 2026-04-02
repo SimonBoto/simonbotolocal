@@ -55,8 +55,8 @@ Not metaphorically. Literally.
 | Room | Function | Mental Image |
 |------|----------|--------------|
 | **00-Inbox** | Capture | Front door, items pouring in |
-| **01-References** | Sources | Library, books arriving |
-| **02-Literature** | Processing | Workshop, tools active |
+| **02-References** | Sources | Library, books arriving |
+| **01-Literature** | Processing | Workshop, tools active |
 | **03-Zettels** | Knowledge | Brain, neurons firing |
 | **04-Synthesis** | Living docs | Heart, pulsing documents |
 | **05-Projects** | Action | Hands, building |
@@ -71,8 +71,8 @@ To recall my knowledge:
 
 **Start at the front door (00-Inbox):**
 - See items streaming in — capture in progress
-- Move to library (01-References) — sources being catalogued
-- Enter workshop (02-Literature) — processing into notes
+- Move to library (02-References) — sources being catalogued
+- Enter workshop (01-Literature) — processing into notes
 - **Enter the brain (03-Zettels):** This is the heart — thousands of atoms
 - Feel the pulse (04-Synthesis) — living documents growing
 - See the hands work (05-Projects) — action, creation

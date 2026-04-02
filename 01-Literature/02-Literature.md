@@ -1,15 +1,15 @@
 ---
 uid: IDX-02
-folder: 02-Literature
+folder: 01-Literature
 type: index
-title: "02-Literature — Source Processing"
+title: "01-Literature — Source Processing"
 aliases: [Literature, LitNotes, Source Notes]
 tags: [index, literature, litnotes, processing, navigation, folder]
 parent-index: [[00-MISSION]]
 status: active
 ---
 
-# 📝 02-Literature — Source Processing
+# 📝 01-Literature — Source Processing
 
 **Purpose:** Reformulated source content. Not raw quotes — your understanding of the source, ready for zettel extraction.
 
@@ -30,7 +30,7 @@ Literature notes are processed sources:
 ## 🔄 Workflow
 
 ```
-Hub Card (01-References/)
+Hub Card (02-References/)
     ↓
 Read Source
     ↓
@@ -61,7 +61,7 @@ Author_Year_Topic_[L-{DDD}-{SSSS}].md
 
 | Metric | Count | Status |
 |--------|-------|--------|
-| Literature notes | {{query: list from "02-Literature"}} | 🟢/🟡/🔴 |
+| Literature notes | {{query: list from "01-Literature"}} | 🟢/🟡/🔴 |
 | Pending extraction | (manual count) | — |
 | Last processed | {{date:YYYY-MM-DD}} | — |
 

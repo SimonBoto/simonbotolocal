@@ -74,8 +74,8 @@ All templates versioned and actively maintained.
 **Vault Navigation:**
 - `03-Zettels/Conscious/` — Working notes
 - `06-Structure/MOCs/` — Knowledge maps
-- `02-Literature/` — Processed sources
-- `01-References/Hub/` — Reference notes
+- `01-Literature/` — Processed sources
+- `02-References/Hub/` — Reference notes
 
 ---
 
