@@ -64,11 +64,21 @@ extraction-date: "{{YYYY-MM-DD}}"
 
 ---
 
+## Snowball References (New Inputs)
+
+| Reference | Why Follow Up | Priority | Status |
+|-----------|---------------|----------|--------|
+| [[{{Ref1_Author}}_{{Year}}_R-XXX-XXXX]] | {{Promise}} | {{P0|P1|P2}} | {{pending|inbox|processing}} |
+| [[{{Ref2_Author}}_{{Year}}_R-XXX-XXXX]] | {{Promise}} | {{P0|P1|P2}} | {{pending|inbox|processing}} |
+
+---
+
 ## Status
 - [ ] All zettels created
 - [ ] All reference notes created
 - [ ] In-text citations verified
 - [ ] Reference-zettel links functional
+- [ ] Snowball references queued
 
 ---
-*L-XXX-XXXX | Created: {{YYYY-MM-DD}} | Tier: {{GOLD/SILVER/BRONZE}}*
+*L-XXX-XXXX | Created: {{YYYY-MM-DD}} | Tier: {{GOLD/SILVER/BRONZE}} | Snowball: {{N}} new refs*
