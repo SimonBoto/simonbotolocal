@@ -2,13 +2,12 @@
 uid: Z-001-1047
 type: zettel
 title: Patient Communication Core Concepts
-aliases: [Z-001-1047, Patient-Concepts]
+aliases: ["Patient-Concepts"]
 domain: 001
 domain-name: Clinical Communication
 tags: [zettel, patient-education, communication]
 parent-moc: "[[MOC-Metabolomics-Training]]"
-source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
-source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
+source-litnote: "[[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]"
 confidence: high
 created: 2026-03-08
 ---

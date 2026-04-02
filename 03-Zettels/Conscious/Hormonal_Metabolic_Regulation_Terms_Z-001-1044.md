@@ -2,13 +2,12 @@
 uid: Z-001-1044
 type: zettel
 title: Hormonal Metabolic Regulation Terms
-aliases: [Z-001-1044, Hormonal-Terms]
+aliases: ["Hormonal-Terms"]
 domain: 001
 domain-name: Endocrinology
 tags: [zettel, hormones, insulin, definitions]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
-source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
+parent-moc: "[[MOC-Metabolomics-Training]]"
+source-litnote: "[[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]"
 confidence: high
 created: 2026-03-08
 ---

@@ -2,13 +2,12 @@
 uid: Z-001-1045
 type: zettel
 title: Microbiome Gut Brain Terminology
-aliases: [Z-001-1045, Microbiome-Terms]
+aliases: ["Microbiome-Terms"]
 domain: 001
 domain-name: Gut Health
 tags: [zettel, microbiome, gut, definitions]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
-source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
+parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
+source-litnote: "[[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]"
 confidence: high
 created: 2026-03-08
 ---
