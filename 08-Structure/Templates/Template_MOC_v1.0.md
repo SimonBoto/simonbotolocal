@@ -6,7 +6,7 @@ aliases: ["MOC_{{ShortName}}", "{{ShortName}}_MOC"]
 domain: "{{001|101|system}}"
 description: "{{One-line description of what this MOC covers}}"
 tags: ["moc", "{{topic-tag}}", "{{status-tag}}"]
-parent-moc: ""
+parent-moc: "[[MOCs Index]]"  # Link to MOC catalog
 status: "active"
 created: "{{YYYY-MM-DD}}"
 last-updated: "{{YYYY-MM-DD}}"
@@ -21,20 +21,20 @@ last-updated: "{{YYYY-MM-DD}}"
 ## 🎯 Entry Points (Start Here)
 
 **Core Concepts:**
--  — {{Brief description}}
--  — {{Brief description}}
+- [[{{Core_Zettel_1}}_{{Z-XXX-XXXX}}]] — {{Brief description}}
+- [[{{Core_Zettel_2}}_{{Z-XXX-XXXX}}]] — {{Brief description}}
 
 ---
 
 ## 📊 Core Content
 
 ### {{Section 1}}
--  — {{Description}}
--  — {{Description}}
+- [[{{Zettel_1}}_{{Z-XXX-XXXX}}]] — {{Description}}
+- [[{{Zettel_2}}_{{Z-XXX-XXXX}}]] — {{Description}}
 
 ### {{Section 2}}
--  — {{Description}}
--  — {{Description}}
+- [[{{Zettel_3}}_{{Z-XXX-XXXX}}]] — {{Description}}
+- [[{{Zettel_4}}_{{Z-XXX-XXXX}}]] — {{Description}}
 
 ---
 
@@ -42,8 +42,8 @@ last-updated: "{{YYYY-MM-DD}}"
 
 | MOC | Connection |
 |-----|------------|
-|  | {{Why related}} |
-|  | {{Why related}} |
+| [[{{Related_MOC_1}}]] | {{Why related}} |
+| [[{{Related_MOC_2}}]] | {{Why related}} |
 
 ---
 
@@ -59,7 +59,7 @@ last-updated: "{{YYYY-MM-DD}}"
 
 ## 📄 Synthesis Documents
 
-- [[{{Synthesis_Title}}_[{{S-XXX-XXXX}}] — {{Description}}
+- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}]] — {{Description}}
 
 ---
 
@@ -82,4 +82,4 @@ last-updated: "{{YYYY-MM-DD}}"
 
 *Last updated: {{YYYY-MM-DD}} | Status: {{status}}*
 ---
-parent-index: [[08 Structure Index]], [[Templates Index]]
+parent-index: [[08 Structure Index]], [[MOCs Index]]
