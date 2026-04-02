@@ -5,7 +5,7 @@ title: "Bootcamp Four Phase Structure"
 aliases: ["Bootcamp-Phases"]
 domain: "001"
 tags: [zettel, curriculum, training, bootcamp]
-parent-moc: "[[MOC-Clinical-Training]]"
+parent-moc: "[[MOC-Metabolomics-Training]]"
 source-litnote: "[[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]"
 confidence: high
 created: "2026-03-08"
@@ -48,7 +48,7 @@ This architecture produces metabolomics clinicians, not pathway parrots. Each ph
 ---
 
 ## Structural Links
-- **Up:** [[MOC-Clinical-Training]] — Thematic entry point
+- **Up:** [[MOC-Metabolomics-Training]] — Thematic entry point
 - **Source:** [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]] — LitNote origin
 - **Citation:** (ChatGPT, 2025)
 
