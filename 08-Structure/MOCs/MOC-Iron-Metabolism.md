@@ -31,22 +31,14 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 - [[Serum_Iron_Circulating_Availability_Z-003-0004]] — Hepcidin regulation (master regulator)
 
 ### Utilization
-- [[Z-003-0005]] — Heme synthesis (for hemoglobin, myoglobin)
-- [[Z-003-0006]] — Iron-sulfur clusters (mitochondrial enzymes)
-- [[Z-003-0007]] — Cytochromes (electron transport chain)
 
 ### Recycling
-- [[Z-003-0008]] — Macrophage iron recycling (erythrophagocytosis)
-- [[Z-003-0009]] — Hepatocyte iron storage (ferritin synthesis)
 
 ---
 
 ## 🔗 Iron ↔ Methylation
 
 **Mechanistic Links:**
-- [[Z-003-0010]] — Iron required for methionine synthase (B12 enzyme)
-- [[Z-003-0011]] — Iron deficiency → elevated homocysteine
-- [[Z-003-0012]] — Functional B12 deficiency masked by iron deficiency
 
 **Cross-link to Methylation:**
 -  — Full methylation cycle
@@ -63,8 +55,6 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 
 **Zettels:**
 - [[Iron_Status_Patterns_ACD_Overload_Z-003-0013]] — Anemia of chronic disease vs iron deficiency
-- [[Z-003-0014]] — Ferritin as acute phase marker (cutoffs by inflammation)
-- [[Z-003-0015]] — Hepcidin elevation in inflammation
 
 **Cross-link to Inflammation:**
 -  — CRP, cytokines, acute phase
@@ -74,9 +64,6 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 ## 🔗 Iron ↔ Insulin Resistance
 
 **Mechanistic Links:**
-- [[Z-003-0016]] — Iron overload → oxidative stress → β-cell damage
-- [[Z-003-0017]] — Hemochromatosis → diabetes risk
-- [[Z-003-0018]] — Iron deficiency → reduced exercise capacity → metabolic dysfunction
 
 **Cross-link to IR:**
 -  — β-cell function, oxidative stress
@@ -110,7 +97,7 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 | Transferrin Sat | >50% |
 | Consider | Hemochromatosis screening |
 
-**Zettel:** [[Z-003-0019]] — Iron status pattern recognition
+**Zettel:** Z-003-0019 — Iron status pattern recognition
 
 ---
 

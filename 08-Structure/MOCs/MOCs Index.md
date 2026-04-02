@@ -70,14 +70,6 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 
 ## 🏥 Biomarker Families
 
-- [[Metabolic_IR_Family_B-005-0001|Metabolic/IR Family]] — Glucose, Insulin, HbA1c, HOMA-IR
-- [[Lipid_Ratios_B-006-0001|Lipid Ratios Family]] — LDL, HDL, TG, ApoB, Lp(a)
-- [[Methylation_Family_B-004-0001|Methylation Family]] — Homocysteine, B12, Folate, MMA
-- [[Iron_Family_B-003-0001|Iron Family]] — Ferritin, TIBC, Transferrin Sat
-- [[CRP_B-002-0001|Inflammation Family]] — CRP, WBC, Calprotectin
-- [[Thyroid_Panel_B-010-0001|Thyroid Panel]] — TSH, T4, T3
-- [[Biomarkers/Kidney_Function_B-009-0001|Kidney Function]] — eGFR, Creatinine, BUN
-- [[Liver_Function_B-009-0001|Liver Function]] — ALT, AST, ALP, GGT
 
 ---
 
@@ -85,13 +77,13 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 
 | Folder | Files | Purpose |
 |--------|-------|---------|
-| [[02-References]] | 41 | Source materials, Zotero |
-| [[01-Literature]] | 165 | LitNotes in processing |
+| 02-References | 41 | Source materials, Zotero |
+| 01-Literature | 165 | LitNotes in processing |
 | [[03-Zettels]] | 767 | **Main knowledge base** |
 | [[04-Synthesis]] | 23 | Living documents |
-| [[07-Projects]] | 25 | PhD, Assistant, Triangle |
-| [[08-Structure]] | 97 | MOCs, Templates, System |
-| [[09-Archive]] | 174 | Historical, extracted |
+| 07-Projects | 25 | PhD, Assistant, Triangle |
+| 08-Structure | 97 | MOCs, Templates, System |
+| 09-Archive | 174 | Historical, extracted |
 
 ---
 

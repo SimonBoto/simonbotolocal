@@ -40,7 +40,6 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 - [[Akt_Substrate_Phosphorylation_Z-001-0010]] — Central metabolic kinase
 
 ### Step 5: Effector Mechanisms
-- [[GLUT4_Translocation_Mechanism_Z-001-0011]] — Muscle/adipose glucose uptake
 - [[GSK3_Inhibition_Glycogen_Synthesis_Z-001-0012]] — Hepatic glycogen synthesis
 
 ---
@@ -55,18 +54,12 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 
 **Clinical Connections:**
 -  — Disease-level MOC
-- [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041.md]] — Metabolomic proxy
 
 ---
 
 ## 🔬 Biomarker Assessment
 
 **Core IR Metrics:**
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — **HOMA-IR calculation** (<2.0 target)
-- [[HOMA_Beta_Beta_Cell_Function_Z-001-0047.md]] — HOMA-β (β-cell function)
-- [[TyG_Index_IR_Assessment_Z-001-0048.md]] — TyG Index (triglyceride-glucose index)
-- [[TG_HDL_Ratio_IR_Marker_Z-001-0049.md]] — TG/HDL ratio (<2.0 target)
-- [[Metabolic_Syndrome_Criteria_Assessment_Z-001-0050.md]] — Metabolic syndrome criteria (3 of 5)
 
 **Supporting Biomarkers:**
 -  — Vitamin D (target 80-150 ng/mL)
@@ -84,10 +77,8 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 ## 🔗 Alternative Signaling Pathways
 
 **Mitogenic (Growth) Pathway:**
-- [[MAPK_Pathway_Growth_Signaling_Z-001-0016]] — Ras/MAPK cascade
 
 **Lipid Raft Pathway:**
-- [[Cbl_CAP_Caveolin_Pathway_Z-001-0017]] — Non-canonical glucose transport
 
 ---
 
@@ -97,7 +88,6 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 **Receptor & Activation:**
 - [[Insulin_Receptor_Structure_Z-001-0001]] — INSR structure
 - [[Insulin_Hormone_Structure_Z-001-0002]] — Ligand structure
-- [[Insulin_Receptor_Mutations_Donohue_Z-001-0004]] — Disease mutations
 
 **Adapter Proteins:**
 - [[IRS_Protein_Recruitment_Z-001-0005]] — IRS recruitment
@@ -109,7 +99,6 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 - [[Akt_Substrate_Phosphorylation_Z-001-0010]] — Substrate phosphorylation
 
 **Effectors:**
-- [[GLUT4_Translocation_Mechanism_Z-001-0011]] — Glucose uptake
 - [[GSK3_Inhibition_Glycogen_Synthesis_Z-001-0012]] — Glycogen synthesis
 
 ### Insulin Resistance Mechanisms (5)
@@ -117,18 +106,10 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 - [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013]] — Lipotoxicity
 - [[ER_Stress_UPR_IR_Z-001-0033]] — ER stress
 - [[Mitochondrial_Dysfunction_IR_Z-001-0030]] — Mitochondrial dysfunction
-- [[Vicious_Cycle_IR_Obesity_Z-001-0037.md]] — Obesity-IR cycle
 
 ### Alternative Pathways (2)
-- [[MAPK_Pathway_Growth_Signaling_Z-001-0016]] — Mitogenic signaling
-- [[Cbl_CAP_Caveolin_Pathway_Z-001-0017]] — Lipid raft pathway
 
 ### Clinical Assessment (5)
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR
-- [[HOMA_Beta_Beta_Cell_Function_Z-001-0047.md]] — HOMA-β
-- [[TyG_Index_IR_Assessment_Z-001-0048.md]] — TyG Index
-- [[TG_HDL_Ratio_IR_Marker_Z-001-0049.md]] — TG/HDL ratio
-- [[Metabolic_Syndrome_Criteria_Assessment_Z-001-0050.md]] — MetS criteria
 
 **Total: 22 zettels | Status: Active research**
 
@@ -144,9 +125,7 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 
 ## 🔗 Recently Added (CGPT-0328 Batch 2)
 - [[Benjamini_Hochberg_Procedure_Z-001-0524]] — Multiple testing correction
-- [[FDR_Threshold_Selection_Z-001-0525]] — FDR 0.1 vs 0.05 selection
 - [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526]] — Study design standards
-- [[Multiple_Testing_Burden_High_Dimensional_Data_Z-001-0527]] — High-dimensional statistics
 - [[Biomarker_Validation_Requirements_Z-001-0528]] — Validation requirements
 
 ---

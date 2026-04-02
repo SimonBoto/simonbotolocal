@@ -32,8 +32,6 @@ tags: [moc, chatgpt, archive, cgpt, extracted]
 See: [[Research_Agenda]]] — Prioritized hypotheses from 2 years of conversations
 
 ### Methodology Evolution
-- [[S_ChatGPT_Methodology_Evolution_S-001-0001]]] — How our approach developed
-- [[S_ChatGPT_Processing_Workflow_S-001-0001]]] — Extraction workflow
 
 ### High-Yield Conversations
 - CGPT-0281 — Seed Oils (6 LitNotes, 27 zettels)

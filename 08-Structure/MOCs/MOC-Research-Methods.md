@@ -17,14 +17,9 @@ Statistical methodology, study design, and clinical research standards for metab
 ## 🎯 Core Statistical Methods
 
 ### Power Analysis & Sample Size
-- [[Power_Analysis_Formula_Metabolomics_Z-001-0521]] — Sample size calculation for omics
-- [[Underpowered_Study_Consequences_Z-001-0522]] — Risks of insufficient power
-- [[Sample_Size_Strategies_PhD_Z-001-0523]] — Practical PhD strategies
 
 ### Multiple Testing Correction
 - [[Benjamini_Hochberg_Procedure_Z-001-0524]] — FDR control mechanics
-- [[FDR_Threshold_Selection_Z-001-0525]] — 0.1 vs 0.05 selection framework
-- [[Multiple_Testing_Burden_High_Dimensional_Data_Z-001-0527]] — High-dimensional data challenges
 
 ### Study Design
 - [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526]] — Research phase standards
