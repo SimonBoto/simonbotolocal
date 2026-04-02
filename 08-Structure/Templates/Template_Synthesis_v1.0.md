@@ -12,8 +12,8 @@ version: "{{1.0}}"
 created: "{{YYYY-MM-DD}}"
 last-updated: "{{YYYY-MM-DD}}"
 contributing-zettels:
-  - "[[{{Zettel_Title}}_{{Z-XXX-XXXX}}]"
-  - "[[{{Zettel_Title}}_{{Z-XXX-XXXX}}]"
+  - "[[{{Zettel_Title}}_{{Z-XXX-XXXX}}]]"
+  - "[[{{Zettel_Title}}_{{Z-XXX-XXXX}}]]"
 ---
 
 # {{Topic}} — Synthesis
@@ -33,16 +33,16 @@ contributing-zettels:
 {{The most important takeaway from all contributing zettels}}
 
 **Key entities:**
-- [[{{Zettel_Title}}_{{Z-XXX-XXXX}}] — {{Role in synthesis}}
-- [[{{Zettel_Title}}_{{Z-XXX-XXXX}}] — {{Role in synthesis}}
-- [[{{Zettel_Title}}_{{Z-XXX-XXXX}}] — {{Role in synthesis}}
+- [[{{Zettel_Title}}_{{Z-XXX-XXXX}}]] — {{Role in synthesis}}
+- [[{{Zettel_Title}}_{{Z-XXX-XXXX}}]] — {{Role in synthesis}}
+- [[{{Zettel_Title}}_{{Z-XXX-XXXX}}]] — {{Role in synthesis}}
 
 ---
 
 ## 2. Source Evolution
 
 ### Initial Understanding ({{Source 1}})
-**Source:** [[{{LitNote_Title}}_{{L-XXX-XXXX}}]
+**Source:** [[{{LitNote_Title}}_{{L-XXX-XXXX}}]]
 **Key insight:** {{What this source established}}
 **Zettels extracted:** {{N}}
 **Impact:** {{How it shaped the synthesis}}
@@ -63,9 +63,9 @@ contributing-zettels:
 
 | Zettel | Contribution | Date Added | Status |
 |--------|--------------|------------|--------|
-| [[{{Zettel_1}}_{{Z-XXX-XXXX}}] | {{What it adds}} | {{YYYY-MM-DD}} | ✅ Integrated |
-| [[{{Zettel_2}}_{{Z-XXX-XXXX}}] | {{What it adds}} | {{YYYY-MM-DD}} | ✅ Integrated |
-| [[{{Zettel_3}}_{{Z-XXX-XXXX}}] | {{What it adds}} | {{YYYY-MM-DD}} | 🟡 Pending review |
+| [[{{Zettel_1}}_{{Z-XXX-XXXX}}]] | {{What it adds}} | {{YYYY-MM-DD}} | ✅ Integrated |
+| [[{{Zettel_2}}_{{Z-XXX-XXXX}}]] | {{What it adds}} | {{YYYY-MM-DD}} | ✅ Integrated |
+| [[{{Zettel_3}}_{{Z-XXX-XXXX}}]] | {{What it adds}} | {{YYYY-MM-DD}} | 🟡 Pending review |
 
 **Total contributing zettels:** {{N}}  
 **Coverage:** {{Percentage}}% of domain knowledge
@@ -93,8 +93,8 @@ contributing-zettels:
 
 ## 6. Related Syntheses
 
-- [[{{Related_Synthesis}}_{{S-XXX-XXXX}}] — {{Connection}}
-- [[{{Related_Synthesis}}_{{S-XXX-XXXX}}] — {{Connection}}
+- [[{{Related_Synthesis}}_{{S-XXX-XXXX}}]] — {{Connection}}
+- [[{{Related_Synthesis}}_{{S-XXX-XXXX}}]] — {{Connection}}
 
 ---
 
