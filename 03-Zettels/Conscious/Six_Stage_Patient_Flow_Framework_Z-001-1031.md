@@ -1,90 +1,208 @@
 ---
 uid: Z-001-1031
 type: zettel
-title: Six Stage Patient Flow Framework
+title: "Six Stage Patient Flow Framework"
 aliases: ["Patient-Flow-6"]
-domain: 001
-domain-name: Clinical Training
-tags: [zettel, clinical-workflow, patient-journey, metabolomics]
+domain: "001"
+tags: [zettel, clinical-workflow, patient-journey, metabolomics, framework]
 parent-moc: "[[MOC-Metabolomics-Training]]"
 source-litnote: "[[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
 # Six Stage Patient Flow Framework
 
-## Overview
-The complete  patient journey, structured as six sequential stages with distinct learning objectives for clinician training.
+The complete patient journey in metabolomics practice: Assessment → Sample Logistics → Analysis → Reporting → Treatment → Follow-up. Each stage has specific learning objectives and Socratic challenges for trainees.
 
-## The Six Stages
+## Evidence
+> "The patient journey is the curriculum. Each stage teaches different skills, and together they form the complete metabolomics clinical experience." (Clinical training)
 
-### STAGE 1 — Assessment (The Intake Ritual)
-**Goal:** Understand patient as metabolic story
-**Learning:** Clinical history, symptom mapping, metabolic hypothesis generation
-**Socratic Challenge:** *"What's the metabolic story this patient is telling?"*
+## Stage 1: Assessment
 
-### STAGE 1a — Sample Logistics
-**Goal:** Pre-analytical discipline ensures diagnostic accuracy
-**Learning:** Proper collection, handling, timing, quality control
-**Socratic Challenge:** *"What pre-analytical variables could invalidate this result?"*
+### Clinical Goal
+Understand patient as metabolic story, not just collection of symptoms.
 
-### STAGE 2 — Sample Analysis (The Interpretive Arena)
-**Goal:** Create coherent metabolic narrative from OAT + fatty acids
-**Learning:** Pattern recognition, pathway integration,  triangulation
-**Socratic Challenge:** *"You see elevated lactate + BHB. Is this mitochondrial blockage or ketogenic physiology?"*
+### Learning Objectives
+| Skill | Competency |
+|-------|------------|
+| **History taking** | Elicit metabolic narrative |
+| **Symptom clustering** | Group by system |
+| **Goal identification** | Define patient success |
+| **Expectation setting** | Establish timeline |
 
-### STAGE 3a — Live or Email Report
-**Goal:** Metabolic storytelling in human language
-**Learning:** 2-minute summaries, visual cues, bullet recommendations
-**Socratic Challenge:** *"How would you explain 'mitochondrial redox imbalance' to a 78-year-old farmer?"*
+### Socratic Challenges
+- "What do you notice about when the fatigue occurs?"
+- "How do the digestive symptoms relate to the energy crashes?"
+- "What has the patient already tried? What does that tell us?"
 
-### STAGE 4a — Treatment (The Therapeutic Algorithm)
-**Goal:** Mechanism-based prescribing
-**Learning:** Tiered supplement architecture, diet integration, sequencing
-**Socratic Challenge:** *"You identified impaired β-oxidation. Begin with carnitine, diet, or mitochondrial cofactors — and why?"*
+### Key Questions to Ask
+1. When did symptoms start?
+2. What makes them better/worse?
+3. What else was happening at that time?
+4. What have you tried?
+5. What does success look like for you?
 
-### STAGE 5 — The Pillars / Next Step Explanation
-**Goal:** Understand philosophy of ongoing care
-**Learning:** Sequential repair (energy → gut → detox → hormones → membranes)
-**Socratic Challenge:** *"Why must energy repair come before gut repair?"*
+## Stage 2: Sample Logistics
 
-### STAGE 6 — Follow-Up Assessments
-**Goal:** Longitudinal metabolic management
-**Learning:** 4-8-16-28 week rhythm, marker trends, compliance evaluation
-**Socratic Challenge:** *"At 4 weeks, what should you evaluate? At 16 weeks, which markers truly change?"*
+### Clinical Goal
+Ensure diagnostic accuracy through proper collection and handling.
 
-## Training Architecture
-Each stage becomes a **training module** with:
-- Defined competencies
-- Socratic drill questions
-- Common error patterns
-- Assessment criteria
+### Learning Objectives
+| Skill | Competency |
+|-------|------------|
+| **Patient education** | Clear collection instructions |
+| **Pre-analytical variables** | Identify confounders |
+| **Quality assurance** | Ensure sample integrity |
+| **Troubleshooting** | Address collection issues |
 
-## Related
-- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]
-- [[MCI_Three_Function_Architecture_Z-001-1030]
-- 
+### Socratic Challenges
+- "What could affect the OAT results if the patient didn't follow instructions?"
+- "How would you know if a sample was compromised?"
+- "What pre-analytical variables are most important to control?"
+
+### Quality Checkpoints
+- [ ] Fasting confirmed
+- [ ] First morning urine
+- [ ] No strenuous exercise 24h prior
+- [ ] Medications documented
+- [ ] Collection instructions understood
+
+## Stage 3: Analysis
+
+### Clinical Goal
+Create coherent metabolic narrative from biomarker patterns.
+
+### Learning Objectives
+| Skill | Competency |
+|-------|------------|
+| **Systematic review** | Category-by-category analysis |
+| **Pattern recognition** | Identify dysfunction clusters |
+| **Severity assessment** | Prioritize findings |
+| **Clinical correlation** | Match markers to symptoms |
+
+### Socratic Challenges
+- "What pattern do you see in the energy metabolism markers?"
+- "How do the gut markers relate to the patient's bloating?"
+- "Which findings are most clinically significant?"
+
+### Analysis Protocol
+1. Review by category (glycolysis, TCA, fatty acids, etc.)
+2. Identify elevated markers (> 2× upper limit)
+3. Look for patterns (mitochondrial, gut, cofactor)
+4. Assess severity
+5. Correlate with clinical picture
+
+## Stage 4: Reporting
+
+### Clinical Goal
+Explain findings in human language that drives action.
+
+### Learning Objectives
+| Skill | Competency |
+|-------|------------|
+| **Metabolic storytelling** | Translate biochemistry |
+| **Visual communication** | Use traffic lights, diagrams |
+| **Action orientation** | Clear recommendations |
+| **Expectation management** | Set realistic timelines |
+
+### Socratic Challenges
+- "How would you explain elevated lactate to a patient?"
+- "What's the story these markers tell?"
+- "How do you present findings without overwhelming the patient?"
+
+### Report Structure
+1. **Summary** — One-sentence metabolic story
+2. **Visual overview** — Traffic light system
+3. **Category details** — Specific findings
+4. **Interpretation** — What it means
+5. **Action plan** — What to do
+6. **Timeline** — When to expect changes
+
+## Stage 5: Treatment
+
+### Clinical Goal
+Mechanism-based prescribing with clear rationale.
+
+### Learning Objectives
+| Skill | Competency |
+|-------|------------|
+| **Treatment mapping** | Match markers to interventions |
+| **Tiered prescribing** | Logical sequencing |
+| **Dose optimization** | Individualize based on need |
+| **Interaction awareness** | Check contraindications |
+
+### Socratic Challenges
+- "Why CoQ10 for this pattern?"
+- "What's the mechanism linking this marker to this supplement?"
+- "How would you prioritize if the patient can only afford 3 supplements?"
+
+### Prescribing Hierarchy
+1. **Foundation** — D, Mg, omega-3, B-complex, probiotic
+2. **Targeted** — Based on specific patterns
+3. **Advanced** — Complex cases, multiple systems
+
+## Stage 6: Follow-up
+
+### Clinical Goal
+Evaluate trends, adjust plan, ensure compliance.
+
+### Learning Objectives
+| Skill | Competency |
+|-------|------------|
+| **Progress assessment** | Track symptom changes |
+| **Adherence evaluation** | Identify barriers |
+| **Plan adjustment** | Modify based on response |
+| **Long-term monitoring** — Retest timing |
+
+### Socratic Challenges
+- "How do you know if the treatment is working?"
+- "What if the patient hasn't improved at 8 weeks?"
+- "When would you retest the OAT?"
+
+### Follow-up Schedule
+| Visit | Timing | Focus |
+|-------|--------|-------|
+| **1** | 4 weeks | Tolerance, early response |
+| **2** | 8 weeks | Adherence, symptom change |
+| **3** | 12-16 weeks | Retest, progress assessment |
+| **4** | 6 months | Maintenance, optimization |
+
+## Integration Across Stages
+
+### How Stages Connect
+| Transition | Connection |
+|------------|------------|
+| **Assessment → Sample** | History informs testing strategy |
+| **Sample → Analysis** | Quality affects interpretation |
+| **Analysis → Reporting** | Findings drive communication |
+| **Reporting → Treatment** | Understanding enables compliance |
+| **Treatment → Follow-up** | Plan requires monitoring |
+| **Follow-up → Assessment** | Cycle continues |
+
+### Training Progression
+| Stage | Trainee Level |
+|-------|---------------|
+| **Assessment** | Week 1-2 |
+| **Sample** | Week 2-3 |
+| **Analysis** | Week 4-8 |
+| **Reporting** | Week 6-10 |
+| **Treatment** | Week 8-12 |
+| **Follow-up** | Week 10-16 |
 
 ---
-*Source: CGPT-0022 — ChatGPT training synthesis*
 
-## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
-- 
+## Structural Links
+- **Up:** [[MOC-Metabolomics-Training]] — Thematic entry
+- **Source:** [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]] — Origin
 
-
-
-## Related
-- [[Clinician_Training_Competency_Checklist_Z-001-1080]|Z-001-1080]
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Lateral Links (Verified Real Zettels)
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]] — MCI role
+- [[MCI_Three_Function_Architecture_Z-001-1030]] — Three functions
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]] — Prescribing
+- [[Socratic_Method_Metabolomics_Training_Z-001-1033]] — Socratic method
+- [[Clinic_Patient_Flow_Operations_Z-001-1077]] — Operations detail
+- [[MOC-Metabolomics-Training]] — Training hub
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+*Z-001-1031 | Created: 2026-03-08 | Source: CGPT-0022*
