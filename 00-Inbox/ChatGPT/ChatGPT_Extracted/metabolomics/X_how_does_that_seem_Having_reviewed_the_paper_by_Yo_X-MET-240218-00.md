@@ -18,7 +18,7 @@ date: 2024-02-18
 source: "[[CGPT_0502_Metabolic_Markers_in_TCM_CGPT-0502]]"
 aliases: [X-MET-240218-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
-related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
+related: "['RON_Adipic_Acid_Biomarker_RON-000-0008', 'RON_Metabolomics_Phenotype_RON-000-0007']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -64,8 +64,8 @@ we want to make a predictive tool for insulin resistance diagnosis from urine or
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]
+- [[RON_Adipic_Acid_Biomarker_RON-000-0008]]
+- [[RON_Metabolomics_Phenotype_RON-000-0007]]
 
 ## Status
 

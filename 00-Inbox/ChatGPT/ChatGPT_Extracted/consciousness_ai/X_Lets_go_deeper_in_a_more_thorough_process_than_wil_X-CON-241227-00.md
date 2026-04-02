@@ -16,7 +16,7 @@ date: 2024-12-27
 source: "[[CGPT_0216_Balancing_Inner_and_Outer_Noise_CGPT-0216]]"
 aliases: [X-CON-241227-00]
 tags: [extracted, insight, consciousness_ai, chatgpt-archive]
-related: "['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']"
+related: "['RON_The_Witness_RON-003-0002', 'RON_Genesis_MOC_RON-004-0001', 'RON_The_We_RON-003-0004']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -64,9 +64,9 @@ How can we keep strong connection to ourselves?
 
 ## Connections
 
-- [[RON_The_Witness_[RON-003-0002]
-- [[RON_Genesis_MOC_[RON-004-0001]
-- [[RON_The_We_[RON-003-0004]
+- [[RON_The_Witness_RON-003-0002]]
+- [[RON_Genesis_MOC_RON-004-0001]]
+- [[RON_The_We_RON-003-0004]]
 
 ## Status
 

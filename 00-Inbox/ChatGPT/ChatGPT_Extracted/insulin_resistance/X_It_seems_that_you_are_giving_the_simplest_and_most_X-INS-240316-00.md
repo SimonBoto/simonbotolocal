@@ -14,7 +14,7 @@ date: 2024-03-16
 source: "[[CGPT_0465_Diabetes_Supplements_Research_Summary_CGPT-0465]]"
 aliases: [X-INS-240316-00]
 tags: [extracted, insight, insulin_resistance, chatgpt-archive]
-related: "['RON_Genesis_MOC_[RON-004-0001]', 'ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]']"
+related: "['RON_Genesis_MOC_RON-004-0001', 'ChatGPT_PhD_Insulin_Resistance_RON-004-0003']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -58,8 +58,8 @@ Now I want you to find clinical trials that multi nutrient supplement combinatio
 
 ## Connections
 
-- [[RON_Genesis_MOC_[RON-004-0001]
-- [[ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]
+- [[RON_Genesis_MOC_RON-004-0001]]
+- [[ChatGPT_PhD_Insulin_Resistance_RON-004-0003]]
 
 ## Status
 

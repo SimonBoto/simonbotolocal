@@ -153,7 +153,7 @@ When RON-Session zettels accumulate, archive here:
 ```
 05-Projects/RON/Session_Archive/
 ├── 2026-02/
-│   └── RON_Session_20260227_[RON-000-0002].md
+│   └── RON_Session_20260227_RON-000-0002.md
 ```
 
 ---

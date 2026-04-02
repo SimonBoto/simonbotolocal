@@ -14,7 +14,7 @@ date: 2023-09-17
 source: "[[CGPT_0557_Research_Proposal_Submission_Protocol_CGPT-0557]]"
 aliases: [X-MET-230917-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
-related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
+related: "['RON_Adipic_Acid_Biomarker_RON-000-0008', 'RON_Metabolomics_Phenotype_RON-000-0007']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -59,8 +59,8 @@ The proposal should include:
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]
+- [[RON_Adipic_Acid_Biomarker_RON-000-0008]]
+- [[RON_Metabolomics_Phenotype_RON-000-0007]]
 
 ## Status
 

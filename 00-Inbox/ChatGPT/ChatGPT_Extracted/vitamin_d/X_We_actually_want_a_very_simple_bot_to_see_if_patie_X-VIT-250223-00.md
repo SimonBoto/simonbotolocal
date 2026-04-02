@@ -14,7 +14,7 @@ date: 2025-02-23
 source: "[[CGPT_0138_Chatbot_for_Lifestyle_Changes_CGPT-0138]]"
 aliases: [X-VIT-250223-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
-related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
+related: "['RON_Adipic_Acid_Biomarker_RON-000-0008']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -54,7 +54,7 @@ Extracted from conversation on 2025-02-23 about "Chatbot for Lifestyle Changes".
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
+- [[RON_Adipic_Acid_Biomarker_RON-000-0008]]
 
 ## Status
 

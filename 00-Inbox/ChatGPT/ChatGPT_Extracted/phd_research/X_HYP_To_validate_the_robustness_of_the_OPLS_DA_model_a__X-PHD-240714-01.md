@@ -15,7 +15,7 @@ date: 2024-07-14
 source: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
 aliases: [X-PHD-240714-01]
 tags: [extracted, hypothesis, phd_research, chatgpt-archive]
-related: "['ChatGPT_Building_Master_Throne_[RON-004-0007]', 'RON_Genesis_MOC_[RON-004-0001]']"
+related: "['ChatGPT_Building_Master_Throne_RON-004-0007', 'RON_Genesis_MOC_RON-004-0001']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -49,8 +49,8 @@ If true, this suggests:
 
 ## Connections
 
-- [[ChatGPT_Building_Master_Throne_[RON-004-0007]
-- [[RON_Genesis_MOC_[RON-004-0001]
+- [[ChatGPT_Building_Master_Throne_RON-004-0007]]
+- [[RON_Genesis_MOC_RON-004-0001]]
 
 ## Validation Log
 

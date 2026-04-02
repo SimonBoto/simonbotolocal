@@ -14,7 +14,7 @@ date: 2024-06-29
 source: "[[CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]"
 aliases: [X-PHD-240629-00]
 tags: [extracted, insight, phd_research, chatgpt-archive]
-related: "['ChatGPT_Building_Master_Throne_[RON-004-0007]', 'RON_Genesis_MOC_[RON-004-0001]']"
+related: "['ChatGPT_Building_Master_Throne_RON-004-0007', 'RON_Genesis_MOC_RON-004-0001']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -58,8 +58,8 @@ Extracted from conversation on 2024-06-29 about "Cholesterol Study Reassessment 
 
 ## Connections
 
-- [[ChatGPT_Building_Master_Throne_[RON-004-0007]
-- [[RON_Genesis_MOC_[RON-004-0001]
+- [[ChatGPT_Building_Master_Throne_RON-004-0007]]
+- [[RON_Genesis_MOC_RON-004-0001]]
 
 ## Status
 

@@ -14,7 +14,7 @@ date: 2023-10-22
 source: "[[CGPT_0542_Incomplete_User_Request_CGPT-0542]]"
 aliases: [X-MET-231022-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
-related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
+related: "['RON_Adipic_Acid_Biomarker_RON-000-0008', 'RON_Metabolomics_Phenotype_RON-000-0007']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -46,8 +46,8 @@ If true, this suggests:
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]
+- [[RON_Adipic_Acid_Biomarker_RON-000-0008]]
+- [[RON_Metabolomics_Phenotype_RON-000-0007]]
 
 ## Validation Log
 

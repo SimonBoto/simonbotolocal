@@ -14,7 +14,7 @@ date: 2023-09-10
 source: "[[CGPT_0577_Article_Review_for_Frontiers_CGPT-0577]]"
 aliases: [X-CLI-230910-00]
 tags: [extracted, insight, clinical, chatgpt-archive]
-related: "['ChatGPT_Clinical_Cognition_[RON-002-0007]']"
+related: "['ChatGPT_Clinical_Cognition_RON-002-0007']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -58,7 +58,7 @@ practice. In this stud...
 
 ## Connections
 
-- [[ChatGPT_Clinical_Cognition_[RON-002-0007]
+- [[ChatGPT_Clinical_Cognition_RON-002-0007]]
 
 ## Status
 

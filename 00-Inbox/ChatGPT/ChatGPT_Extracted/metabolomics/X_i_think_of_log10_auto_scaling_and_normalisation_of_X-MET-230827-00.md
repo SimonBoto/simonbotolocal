@@ -14,7 +14,7 @@ date: 2023-08-27
 source: "[[CGPT_0593_Metabolomics_Analysis_Guidance_CGPT-0593]]"
 aliases: [X-MET-230827-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
-related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
+related: "['RON_Adipic_Acid_Biomarker_RON-000-0008', 'RON_Metabolomics_Phenotype_RON-000-0007']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -53,8 +53,8 @@ i think of log10, auto-scaling and normalisation of the old to ...
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]
+- [[RON_Adipic_Acid_Biomarker_RON-000-0008]]
+- [[RON_Metabolomics_Phenotype_RON-000-0007]]
 
 ## Status
 

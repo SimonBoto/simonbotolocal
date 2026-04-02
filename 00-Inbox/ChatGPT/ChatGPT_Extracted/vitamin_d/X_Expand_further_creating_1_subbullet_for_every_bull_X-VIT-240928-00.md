@@ -22,7 +22,7 @@ date: 2024-09-28
 source: [[CGPT_0280_Micronutrient_Deficiencies_Metabolic_Syndrome_CGPT-0280]]
 aliases: [X-VIT-240928-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
-related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]']
+related: ['RON_Adipic_Acid_Biomarker_RON-000-0008']
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -75,7 +75,7 @@ each current bullet needs at least 3-7 subtopics
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
+- [[RON_Adipic_Acid_Biomarker_RON-000-0008]]
 
 ## Status
 

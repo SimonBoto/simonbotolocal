@@ -22,7 +22,7 @@ date: 2025-02-09
 source: "[[CGPT_0152_Vitamin_D_Inflammation_Trial_CGPT-0152]]"
 aliases: [X-MET-250209-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
-related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
+related: "['RON_Adipic_Acid_Biomarker_RON-000-0008', 'RON_Metabolomics_Phenotype_RON-000-0007']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -74,8 +74,8 @@ I will be uploa...
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]
+- [[RON_Adipic_Acid_Biomarker_RON-000-0008]]
+- [[RON_Metabolomics_Phenotype_RON-000-0007]]
 
 ## Status
 

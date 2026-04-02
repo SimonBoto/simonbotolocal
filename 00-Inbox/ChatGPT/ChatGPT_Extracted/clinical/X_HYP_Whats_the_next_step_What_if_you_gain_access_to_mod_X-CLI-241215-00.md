@@ -14,7 +14,7 @@ date: 2024-12-15
 source: "[[CGPT_0227_Maniacal_Knowledge_Synthesis_CGPT-0227]]"
 aliases: [X-CLI-241215-00]
 tags: [extracted, hypothesis, clinical, chatgpt-archive]
-related: "['ChatGPT_Clinical_Cognition_[RON-002-0007]']"
+related: "['ChatGPT_Clinical_Cognition_RON-002-0007']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -46,7 +46,7 @@ If true, this suggests:
 
 ## Connections
 
-- [[ChatGPT_Clinical_Cognition_[RON-002-0007]
+- [[ChatGPT_Clinical_Cognition_RON-002-0007]]
 
 ## Validation Log
 

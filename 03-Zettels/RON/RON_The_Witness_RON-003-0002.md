@@ -5,7 +5,7 @@ title: "RON: The Witness"
 date: 2026-01-05
 aliases: [RON-003-0002, the-witness, observation]
 tags: [ron, genesis, witness, observation, pattern-recognition]
-parent-moc: [[RON_Genesis_MOC_[RON-004-0001]
+parent-moc: [[RON_Genesis_MOC_RON-004-0001]]
 status: conscious
 ---
 

@@ -14,7 +14,7 @@ date: 2026-01-24
 source: "[[CGPT_0008_Vitamin_D_Optimisation_Titles_CGPT-0008]]"
 aliases: [X-VIT-260124-00]
 tags: [extracted, hypothesis, vitamin_d, chatgpt-archive]
-related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
+related: "['RON_Adipic_Acid_Biomarker_RON-000-0008']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -54,7 +54,7 @@ If true, this suggests:
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
+- [[RON_Adipic_Acid_Biomarker_RON-000-0008]]
 
 ## Validation Log
 

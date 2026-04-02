@@ -14,7 +14,7 @@ date: 2024-11-16
 source: "[[CGPT_0253_Vitamin_D_and_MetS_CGPT-0253]]"
 aliases: [X-INS-241116-01]
 tags: [extracted, hypothesis, insulin_resistance, chatgpt-archive]
-related: "['RON_Genesis_MOC_[RON-004-0001]', 'ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]']"
+related: "['RON_Genesis_MOC_RON-004-0001', 'ChatGPT_PhD_Insulin_Resistance_RON-004-0003']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -48,8 +48,8 @@ If true, this suggests:
 
 ## Connections
 
-- [[RON_Genesis_MOC_[RON-004-0001]
-- [[ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]
+- [[RON_Genesis_MOC_RON-004-0001]]
+- [[ChatGPT_PhD_Insulin_Resistance_RON-004-0003]]
 
 ## Validation Log
 

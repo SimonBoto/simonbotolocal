@@ -22,7 +22,7 @@ date: 2025-06-29
 source: [[CGPT_0072_Etymological_Analysis_for_Metabolomics_CGPT-0072]]
 aliases: [X-MET-250629-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
-related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
+related: ['RON_Adipic_Acid_Biomarker_RON-000-0008', 'RON_Metabolomics_Phenotype_RON-000-0007']
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -74,8 +74,8 @@ Let's start by optimising this prompt that will be the basis for all of the rest
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]
+- [[RON_Adipic_Acid_Biomarker_RON-000-0008]]
+- [[RON_Metabolomics_Phenotype_RON-000-0007]]
 
 ## Status
 

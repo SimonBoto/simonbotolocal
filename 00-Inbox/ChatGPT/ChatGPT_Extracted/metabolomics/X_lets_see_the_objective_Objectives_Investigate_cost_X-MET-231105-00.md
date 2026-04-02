@@ -20,7 +20,7 @@ date: 2023-11-05
 source: "[[CGPT_0536_Structured_Abstract_Guidelines_Explained_CGPT-0536]]"
 aliases: [X-MET-231105-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
-related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
+related: "['RON_Adipic_Acid_Biomarker_RON-000-0008', 'RON_Metabolomics_Phenotype_RON-000-0007']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -63,8 +63,8 @@ Non-communicable diseases (NCDs) are a significant challenge for patients, as th
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]
+- [[RON_Adipic_Acid_Biomarker_RON-000-0008]]
+- [[RON_Metabolomics_Phenotype_RON-000-0007]]
 
 ## Status
 

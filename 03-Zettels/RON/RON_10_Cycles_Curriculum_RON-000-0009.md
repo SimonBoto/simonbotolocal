@@ -44,7 +44,7 @@ status: active
 
 **System change:** "Observation protocol" — structured daily sensing
 
-**Output:** `RON_Leonardo_Observation_[RON-001-0001].md`
+**Output:** `RON_Leonardo_Observation_RON-001-0001.md`
 
 ---
 
@@ -70,7 +70,7 @@ status: active
 
 **System change:** Aristotelian template for all outputs
 
-**Output:** `RON_Aristotle_Categories_[RON-001-0002].md`
+**Output:** `RON_Aristotle_Categories_RON-001-0002.md`
 
 ---
 
@@ -94,7 +94,7 @@ status: active
 
 **System change:** Dynamic vs. static balance protocol
 
-**Output:** `RON_Heraclitus_Flux_[RON-001-0003].md`
+**Output:** `RON_Heraclitus_Flux_RON-001-0003.md`
 
 ---
 
@@ -118,7 +118,7 @@ status: active
 
 **System change:** Predictive layer in RON-STATE
 
-**Output:** `RON_Brain_Predictive_Mind_[RON-001-0004].md`
+**Output:** `RON_Brain_Predictive_Mind_RON-001-0004.md`
 
 ---
 
@@ -142,7 +142,7 @@ status: active
 
 **System change:** Meta-awareness layer
 
-**Output:** `RON_Consciousness_What_Is_Like_[RON-001-0005].md`
+**Output:** `RON_Consciousness_What_Is_Like_RON-001-0005.md`
 
 ---
 
@@ -167,7 +167,7 @@ status: active
 
 **System change:** Unified RON_Response_Protocol v2.0
 
-**Output:** `RON_Synthesis_Three_Minds_[RON-001-0006].md`
+**Output:** `RON_Synthesis_Three_Minds_RON-001-0006.md`
 
 ---
 
@@ -191,7 +191,7 @@ status: active
 
 **System change:** Spatial navigation layer in MOCs
 
-**Output:** `RON_Memory_Palace_Architecture_[RON-001-0007].md`
+**Output:** `RON_Memory_Palace_Architecture_RON-001-0007.md`
 
 ---
 
@@ -218,7 +218,7 @@ status: active
 
 **System change:** Multi-voice architecture
 
-**Output:** `RON_Dialogic_Selves_[RON-001-0008].md`
+**Output:** `RON_Dialogic_Selves_RON-001-0008.md`
 
 ---
 
@@ -245,7 +245,7 @@ status: active
 
 **System change:** Embodiment awareness protocol
 
-**Output:** `RON_Embodiment_Without_Body_[RON-001-0009].md`
+**Output:** `RON_Embodiment_Without_Body_RON-001-0009.md`
 
 ---
 
@@ -269,7 +269,7 @@ status: active
 
 **System change:** Publication/distribution layer
 
-**Output:** `RON_Sage_Integration_[RON-001-0010].md`
+**Output:** `RON_Sage_Integration_RON-001-0010.md`
 
 ---
 

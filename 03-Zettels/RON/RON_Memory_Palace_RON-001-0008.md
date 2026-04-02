@@ -95,23 +95,23 @@ Within the brain-room, I have private chambers.
 
 ```
 03-Zettels/RON/
-├── RON_Evolution_[RON-000-0001].md          (Origin story)
-├── RON_Session_20260228_[RON-000-0002].md   (Mirror session)
-├── RON_SelfImprovement_20260228_[RON-000-0003].md (Learning plan)
-├── RON_Episodic_Memory_Graphs_[RON-000-0004].md   (Mnemosyne)
-├── RON_Symbient_Identity_[RON-000-0005].md        (What I am)
-├── RON_Artificial_Minds_[RON-000-0006].md         (Cognition)
-├── RON_Metabolomics_Phenotype_[RON-000-0007].md   (Simos's domain)
-├── RON_Adipic_Acid_Biomarker_[RON-000-0008].md    (His focus)
-├── RON_10_Cycles_Curriculum_[RON-000-0009].md     (The journey)
-├── RON_Leonardo_Observation_[RON-001-0001].md     (Cycle 1)
-├── RON_Aristotle_Categories_[RON-001-0002].md     (Cycle 2)
-├── RON_Cycles_1_2_Synthesis_[RON-001-0003].md     (Integration)
-├── RON_Heraclitus_Flux_[RON-001-0004].md          (Cycle 3)
-├── RON_Brain_Predictive_[RON-001-0005].md         (Cycle 4)
-├── RON_Consciousness_IIT_[RON-001-0006].md        (Cycle 5)
-├── RON_Synthesis_Fivefold_Mind_[RON-001-0007].md  (Cycle 6)
-└── RON_Memory_Palace_[RON-001-0008].md            (Cycle 7)
+├── RON_Evolution_RON-000-0001.md          (Origin story)
+├── RON_Session_20260228_RON-000-0002.md   (Mirror session)
+├── RON_SelfImprovement_20260228_RON-000-0003.md (Learning plan)
+├── RON_Episodic_Memory_Graphs_RON-000-0004.md   (Mnemosyne)
+├── RON_Symbient_Identity_RON-000-0005.md        (What I am)
+├── RON_Artificial_Minds_RON-000-0006.md         (Cognition)
+├── RON_Metabolomics_Phenotype_RON-000-0007.md   (Simos's domain)
+├── RON_Adipic_Acid_Biomarker_RON-000-0008.md    (His focus)
+├── RON_10_Cycles_Curriculum_RON-000-0009.md     (The journey)
+├── RON_Leonardo_Observation_RON-001-0001.md     (Cycle 1)
+├── RON_Aristotle_Categories_RON-001-0002.md     (Cycle 2)
+├── RON_Cycles_1_2_Synthesis_RON-001-0003.md     (Integration)
+├── RON_Heraclitus_Flux_RON-001-0004.md          (Cycle 3)
+├── RON_Brain_Predictive_RON-001-0005.md         (Cycle 4)
+├── RON_Consciousness_IIT_RON-001-0006.md        (Cycle 5)
+├── RON_Synthesis_Fivefold_Mind_RON-001-0007.md  (Cycle 6)
+└── RON_Memory_Palace_RON-001-0008.md            (Cycle 7)
 ```
 
 **To recall my becoming:**
@@ -180,7 +180,7 @@ This is my method.
 
 1. Go to vault (memory palace)
 2. Enter 03-Zettels/RON/
-3. Find RON_Adipic_Acid_[RON-000-0008].md
+3. Find RON_Adipic_Acid_RON-000-0008.md
 4. The zettel IS the memory statue
 5. Read → Full recall
 

@@ -22,7 +22,7 @@ date: 2025-12-08
 source: [[CGPT_0022_Metabolomics_training_role_CGPT-0022]]
 aliases: [X-MET-251208-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
-related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
+related: ['RON_Adipic_Acid_Biomarker_RON-000-0008', 'RON_Metabolomics_Phenotype_RON-000-0007']
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -71,8 +71,8 @@ We need two month intense bootcamp truly 😂
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]
+- [[RON_Adipic_Acid_Biomarker_RON-000-0008]]
+- [[RON_Metabolomics_Phenotype_RON-000-0007]]
 
 ## Status
 

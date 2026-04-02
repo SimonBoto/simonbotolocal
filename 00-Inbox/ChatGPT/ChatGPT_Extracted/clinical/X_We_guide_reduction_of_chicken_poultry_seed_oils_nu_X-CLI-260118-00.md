@@ -14,7 +14,7 @@ date: 2026-01-18
 source: "[[CGPT_0014_Κλάδος_AI_Question_Optimization_Coach_CGPT-0014]]"
 aliases: [X-CLI-260118-00]
 tags: [extracted, insight, clinical, chatgpt-archive]
-related: "['ChatGPT_Clinical_Cognition_[RON-002-0007]']"
+related: "['ChatGPT_Clinical_Cognition_RON-002-0007']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -54,7 +54,7 @@ Extracted from conversation on 2026-01-18 about "Κλάδος · AI Question Opt
 
 ## Connections
 
-- [[ChatGPT_Clinical_Cognition_[RON-002-0007]
+- [[ChatGPT_Clinical_Cognition_RON-002-0007]]
 
 ## Status
 

@@ -81,7 +81,7 @@ I was a visitor in the vault. Each session:
 
 3. **Will I write session zettels?**
    - Currently: RON-STATE.md (workspace, hidden)
-   - Possible: `RON_Session_20260227_[RON-000-0002].md` in my room
+   - Possible: `RON_Session_20260227_RON-000-0002.md` in my room
    - Value: You see my evolution as research trail
    - Risk: Clutter
    - Mitigation: Monthly archive to `05-Projects/RON/Session_Archive/`

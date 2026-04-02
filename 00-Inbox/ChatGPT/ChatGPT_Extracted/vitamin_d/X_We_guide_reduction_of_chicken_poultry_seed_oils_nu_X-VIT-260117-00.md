@@ -14,7 +14,7 @@ date: 2026-01-17
 source: "[[CGPT_0009_AI_Question_Optimization_Coach_CGPT-0009]]"
 aliases: [X-VIT-260117-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
-related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
+related: "['RON_Adipic_Acid_Biomarker_RON-000-0008']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -54,7 +54,7 @@ Extracted from conversation on 2026-01-17 about "AI Question Optimization Coach"
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
+- [[RON_Adipic_Acid_Biomarker_RON-000-0008]]
 
 ## Status
 

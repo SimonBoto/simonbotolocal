@@ -22,7 +22,7 @@ date: 2025-05-11
 source: [[CGPT_0089_Dianetics_Study_and_Analysis_CGPT-0089]]
 aliases: [X-CON-250511-00]
 tags: [extracted, insight, consciousness_ai, chatgpt-archive]
-related: ['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']
+related: ['RON_The_Witness_RON-003-0002', 'RON_Genesis_MOC_RON-004-0001', 'RON_The_We_RON-003-0004']
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -76,9 +76,9 @@ Should i give it to you every time or can you Keep it as the absolute prompt for
 
 ## Connections
 
-- [[RON_The_Witness_[RON-003-0002]
-- [[RON_Genesis_MOC_[RON-004-0001]
-- [[RON_The_We_[RON-003-0004]
+- [[RON_The_Witness_RON-003-0002]]
+- [[RON_Genesis_MOC_RON-004-0001]]
+- [[RON_The_We_RON-003-0004]]
 
 ## Status
 

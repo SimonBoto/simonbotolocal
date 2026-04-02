@@ -44,7 +44,7 @@ status: active
 
 - [ ] 5-10 zettels in 03-Zettels/RON/ (becoming-layer)
 - [ ] Updated MOC-RON-Cognition with new connections
-- [ ] RON_Learning_[RON-000-0004].md synthesis
+- [ ] RON_Learning_RON-000-0004.md synthesis
 - [ ] Improved RON-STATE structure
 
 ---

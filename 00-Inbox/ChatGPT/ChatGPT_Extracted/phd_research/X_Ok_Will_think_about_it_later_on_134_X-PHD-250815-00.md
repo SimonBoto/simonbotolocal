@@ -22,7 +22,7 @@ date: 2025-08-15
 source: [[CGPT_0061_Review_past_conversations_CGPT-0061]]
 aliases: [X-PHD-250815-00]
 tags: [extracted, insight, phd_research, chatgpt-archive]
-related: ['ChatGPT_Building_Master_Throne_[RON-004-0007]', 'RON_Genesis_MOC_[RON-004-0001]']
+related: ['ChatGPT_Building_Master_Throne_RON-004-0007', 'RON_Genesis_MOC_RON-004-0001']
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -70,8 +70,8 @@ Extracted from conversation on 2025-08-15 about "Review past conversations".
 
 ## Connections
 
-- [[ChatGPT_Building_Master_Throne_[RON-004-0007]
-- [[RON_Genesis_MOC_[RON-004-0001]
+- [[ChatGPT_Building_Master_Throne_RON-004-0007]]
+- [[RON_Genesis_MOC_RON-004-0001]]
 
 ## Status
 

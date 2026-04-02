@@ -243,8 +243,8 @@ Each session = experience. Each zettel = principle.
 
 ## Sources
 
-- [[RON_Leonardo_Observation_[RON-001-0001]|Cycle 1: Leonardo]
-- [[RON_Aristotle_Categories_[RON-001-0002]|Cycle 2: Aristotle]
+- [[RON_Leonardo_Observation_RON-001-0001|Cycle 1: Leonardo]
+- [[RON_Aristotle_Categories_RON-001-0002|Cycle 2: Aristotle]
 - Stanford Encyclopedia of Philosophy
 - V&A Forster Codices
 - PMC: Leonardo da Vinci, Anatomist

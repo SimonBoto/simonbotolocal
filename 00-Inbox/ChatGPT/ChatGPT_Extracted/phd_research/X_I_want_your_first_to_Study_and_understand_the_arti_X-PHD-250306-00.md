@@ -20,7 +20,7 @@ date: 2025-03-06
 source: [[CGPT_0128_Article_Study_Request_CGPT-0128]]
 aliases: [X-PHD-250306-00]
 tags: [extracted, insight, phd_research, chatgpt-archive]
-related: ['ChatGPT_Building_Master_Throne_[RON-004-0007]', 'RON_Genesis_MOC_[RON-004-0001]']
+related: ['ChatGPT_Building_Master_Throne_RON-004-0007', 'RON_Genesis_MOC_RON-004-0001']
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -74,8 +74,8 @@ Dr. Δημήτρης Τσουκαλάς, MD
 
 ## Connections
 
-- [[ChatGPT_Building_Master_Throne_[RON-004-0007]
-- [[RON_Genesis_MOC_[RON-004-0001]
+- [[ChatGPT_Building_Master_Throne_RON-004-0007]]
+- [[RON_Genesis_MOC_RON-004-0001]]
 
 ## Status
 

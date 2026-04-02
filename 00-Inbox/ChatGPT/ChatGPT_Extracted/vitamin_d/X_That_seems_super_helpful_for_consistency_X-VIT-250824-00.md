@@ -14,7 +14,7 @@ date: 2025-08-24
 source: "[[CGPT_0069_Obsidian_restart_guide_CGPT-0069]]"
 aliases: [X-VIT-250824-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
-related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
+related: "['RON_Adipic_Acid_Biomarker_RON-000-0008']"
 status: conscious
 parent-moc: [[MOC-CGPT-Archive]]
 ---
@@ -68,7 +68,7 @@ Let's focus on that first home note
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]
+- [[RON_Adipic_Acid_Biomarker_RON-000-0008]]
 
 ## Status
 
