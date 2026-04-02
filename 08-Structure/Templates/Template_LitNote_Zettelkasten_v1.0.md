@@ -58,9 +58,9 @@ extraction-date: "{{YYYY-MM-DD}}"
 ---
 
 ## Structural Links
-- **Up:** [[MOC-Example]] — Thematic domain
+- **Up:** [[MOC-Example]] — Thematic domain ⚠️ VERIFY EXISTS
 - **Inbox:** [[Inbox_{{Title}}_{{YYYY-MM-DD}}]] — Raw origin
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[02-Literature]] — Container (verify: 02-Literature.md exists)
 
 ---
 

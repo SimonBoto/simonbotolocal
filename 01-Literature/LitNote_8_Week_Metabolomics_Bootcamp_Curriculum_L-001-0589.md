@@ -89,9 +89,9 @@ This curriculum transforms knowledge acquisition into cognitive restructuring—
 ---
 
 ## Structural Links
-- **Up:** [[MOC-Clinical-Training]] — Thematic domain
+- **Up:** [[MOC-Metabolomics]] — Thematic domain
 - **Inbox:** [[CGPT_0022_Metabolomics_training_role_CGPT-0022]] — Raw origin
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[02-Literature]] — Container
 
 ---
 

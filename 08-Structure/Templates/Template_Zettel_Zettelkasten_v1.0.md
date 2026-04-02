@@ -26,7 +26,7 @@ created: "{{YYYY-MM-DD}}"
 ---
 
 ## Structural Links
-- **Up:** [[MOC-Example]] — Thematic entry
+- **Up:** [[MOC-Example]] — Thematic entry ⚠️ VERIFY EXISTS
 - **Source LitNote:** [[Lit_{{Title}}_{{L-XXX-XXXX}}]] — Origin
 - **Reference:** [[{{Author}}_{{Year}}_R-XXX-XXXX]] — Evidence
 - **Citation:** ({{Author, Year}})
