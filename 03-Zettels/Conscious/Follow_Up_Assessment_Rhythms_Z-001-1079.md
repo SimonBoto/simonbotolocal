@@ -204,6 +204,7 @@ Next retest: ___
 - [[Clinic_Patient_Flow_Operations_Z-001-1077]] — Patient flow
 - [[Metabolomics_Quality_Standards_Z-001-1078]] — Quality
 - [[Clinician_Training_Competency_Checklist_Z-001-1080]] — Competency
+- [[OAT_Clinical_Action_Mapping_Z-001-1069]] — Treatment mapping
 - [[MOC-Metabolomics-Training]] — Training hub
 
 ---

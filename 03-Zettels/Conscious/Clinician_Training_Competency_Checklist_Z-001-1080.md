@@ -172,6 +172,7 @@ Competency verification at each training stage before independent practice. Ensu
 - [[Metabolomics_Quality_Standards_Z-001-1078]] — Quality
 - [[Follow_Up_Assessment_Rhythms_Z-001-1079]] — Follow-up
 - [[Training_Teaching_Style_Framework_Z-001-1040]] — Teaching
+- [[Socratic_Method_Metabolomics_Training_Z-001-1033]] — Teaching method
 - [[MOC-Metabolomics-Training]] — Training hub
 
 ---

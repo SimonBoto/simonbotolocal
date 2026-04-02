@@ -157,6 +157,7 @@ Pre-analytical variables, sample integrity, interpretation consistency, and repo
 - [[Follow_Up_Assessment_Rhythms_Z-001-1079]] — Follow-up
 - [[Clinician_Training_Competency_Checklist_Z-001-1080]] — Competency
 - [[OAT_Category_Interpretation_Framework_Z-001-1065]] — Interpretation
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]] — Pattern recognition
 - [[MOC-Metabolomics-Training]] — Training hub
 
 ---

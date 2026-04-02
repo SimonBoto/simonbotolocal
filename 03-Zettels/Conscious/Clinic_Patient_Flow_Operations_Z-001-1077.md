@@ -175,6 +175,7 @@ Six-stage patient flow operationalized: Assessment → Sample → Analysis → R
 - [[Follow_Up_Assessment_Rhythms_Z-001-1079]] — Follow-up schedule
 - [[Clinician_Training_Competency_Checklist_Z-001-1080]] — Competency
 - [[Six_Stage_Patient_Flow_Framework_Z-001-1031]] — Framework
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1034]] — Prescribing
 - [[MOC-Metabolomics-Training]] — Training hub
 
 ---
