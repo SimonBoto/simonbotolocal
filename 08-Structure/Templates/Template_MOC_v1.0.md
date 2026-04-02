@@ -29,12 +29,12 @@ last-updated: "{{YYYY-MM-DD}}"
 ## 📊 Core Content
 
 ### {{Section 1}}
-- [[{{Zettel_1}}_{{Z-XXX-XXXX}}]] — {{Description}}
-- [[{{Zettel_2}}_{{Z-XXX-XXXX}}]] — {{Description}}
+- `{{Zettel_1}}_{{Z-XXX-XXXX}}` — {{Description}}
+- `{{Zettel_2}}_{{Z-XXX-XXXX}}` — {{Description}}
 
 ### {{Section 2}}
-- [[{{Zettel_3}}_{{Z-XXX-XXXX}}]] — {{Description}}
-- [[{{Zettel_4}}_{{Z-XXX-XXXX}}]] — {{Description}}
+- `{{Zettel_3}}_{{Z-XXX-XXXX}}` — {{Description}}
+- `{{Zettel_4}}_{{Z-XXX-XXXX}}` — {{Description}}
 
 ---
 
@@ -42,8 +42,8 @@ last-updated: "{{YYYY-MM-DD}}"
 
 | MOC | Connection |
 |-----|------------|
-| [[{{Related_MOC_1}}]] | {{Why related}} |
-| [[{{Related_MOC_2}}]] | {{Why related}} |
+| `{{Related_MOC_1}}` | {{Why related}} |
+| `{{Related_MOC_2}}` | {{Why related}} |
 
 ---
 

@@ -67,15 +67,15 @@ Current biomarker content lives in:
 
 | MOC | Connection |
 |-----|------------|
-| [[MOC-Example]] | {{Why related}} |
-| [[MOC-Example]] | {{Why related}} |
+| [[MOC-Metabolomics-Training]] | Training integration |
+| [[MOC-Vitamin-Mineral-Axis]] | Nutrient biomarkers |
 
 
 ---
 
 ## 📄 Synthesis Documents
 
-- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}]] — {{Description}}
+- `{{Synthesis_Title}}_{{S-XXX-XXXX}}` — {{Description}}
 
 
 ---
@@ -84,7 +84,7 @@ Current biomarker content lives in:
 
 | LitNote | Zettels Extracted | Status |
 |---------|-------------------|--------|
-| [[{{LitNote_Title}}_{{L-XXX-XXXX}}]] | {{N}} zettels | {{status}} |
+| `{{LitNote_Title}}_{{L-XXX-XXXX}}` | {{N}} zettels | {{status}} |
 
 
 ---
@@ -95,7 +95,7 @@ Current biomarker content lives in:
 - [ ] {{Zettel idea}} — {{Why needed}}
 
 **Zettels to review for promotion:**
-- [ ] [[{{Zettel_Title}}_{{Z-XXX-XXXX}}]] — {{Why ready}}
+- [ ] `{{Zettel_Title}}_{{Z-XXX-XXXX}}` — {{Why ready}}
 
 
 ---

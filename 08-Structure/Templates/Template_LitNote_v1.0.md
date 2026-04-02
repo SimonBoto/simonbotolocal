@@ -61,14 +61,14 @@ extraction-date: "{{YYYY-MM-DD}}"
 - {{Question 3}}
 
 ## Zettels Created from This Source
-1. [[{{Zettel_1_Title}}_{{Zettel_1_UID}}]] — {{Zettel_1_description}}
-2. [[{{Zettel_2_Title}}_{{Zettel_2_UID}}]] — {{Zettel_2_description}}
-3. [[{{Zettel_3_Title}}_{{Zettel_3_UID}}]] — {{Zettel_3_description}}
+1. `{{Zettel_1_Title}}_{{Zettel_1_UID}}` — {{Zettel_1_description}}
+2. `{{Zettel_2_Title}}_{{Zettel_2_UID}}` — {{Zettel_2_description}}
+3. `{{Zettel_3_Title}}_{{Zettel_3_UID}}` — {{Zettel_3_description}}
 
 ## Related References
-- [[{{Related_Ref_1}}]] — {{Connection}}
-- [[{{Related_Ref_2}}]] — {{Connection}}
-- [[{{Related_Ref_3}}]] — {{Connection}}
+- `{{Related_Ref_1}}` — {{Connection}}
+- `{{Related_Ref_2}}` — {{Connection}}
+- `{{Related_Ref_3}}` — {{Connection}}
 
 ---
 
