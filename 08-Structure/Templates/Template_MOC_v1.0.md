@@ -63,8 +63,35 @@ last-updated: "{{YYYY-MM-DD}}"
 
 ---
 
+## 📚 Source LitNotes
+
+| LitNote | Zettels Extracted | Status |
+|---------|-------------------|--------|
+| [[{{LitNote_1}}_{{L-XXX-XXXX}}]] | {{N}} zettels | ✅ Integrated |
+| [[{{LitNote_2}}_{{L-XXX-XXXX}}]] | {{N}} zettels | 🟡 Processing |
+
+---
+
+## 🆕 Zettel Backlog
+
+**Zettels to create:**
+- [ ] {{Zettel idea 1}} — {{Why needed}}
+- [ ] {{Zettel idea 2}} — {{Why needed}}
+
+**Zettels to review for promotion:**
+- [ ] [[{{Zettel_Title}}_{{Z-XXX-XXXX}}]] — {{Why ready for subconscious}}
+
+---
+
 ## ✅ Progress & Tasks
 
+### MOC Maintenance
+- [ ] Review new zettels for inclusion
+- [ ] Update zettel counts
+- [ ] Check related MOCs for new connections
+- [ ] Archive completed tasks
+
+### Content Development
 - [ ] {{Task 1}}
 - [ ] {{Task 2}}
 - [ ] {{Task 3}}
