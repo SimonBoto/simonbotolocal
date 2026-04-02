@@ -4,7 +4,7 @@ type: index
 title: "Templates Index"
 date: 2026-04-02
 tags: [index, templates, standards]
-parent-moc: [[08 Structure Index]]]
+parent-moc: [[08 Structure Index]]
 ---
 
 # Templates Index
@@ -18,14 +18,14 @@ parent-moc: [[08 Structure Index]]]
 
 | Template | Use |
 |----------|-----|
+| Template_Inbox_Fleeting_v1.0.md | Quick capture (Luhmann-style) |
 | Template_LitNote_v1.0.md | Processed sources |
 | Template_Zettel_v2.0.md | Atomic knowledge |
 | Template_Synthesis_v1.0.md | Living documents |
 | Template_Daily_v1.0.md | Date-stamped logs |
 | Template_MOC_v1.0.md | Maps of Content |
 | Template_Biomarker_Deep_Dive_v1.0.md | Biomarker analysis |
-| Template_Reference_v2.0.md | Reference notes |
-| Template_Reference_v3.0.md | Updated reference format |
+| Template_Reference_v3.0.md | Scientific references |
 | Template_Supplement_v1.0.md | Supplement guides |
 
 ---
