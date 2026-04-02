@@ -202,6 +202,7 @@ Evaluate trends, adjust plan, ensure compliance.
 - [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]] — Prescribing
 - [[Socratic_Method_Metabolomics_Training_Z-001-1033]] — Socratic method
 - [[Clinic_Patient_Flow_Operations_Z-001-1077]] — Operations detail
+- [[Follow_Up_Assessment_Rhythms_Z-001-1079]] — Follow-up
 - [[MOC-Metabolomics-Training]] — Training hub
 
 ---

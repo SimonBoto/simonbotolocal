@@ -191,6 +191,7 @@ Training stages mirror clinical stages:
 - [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]] — Prescribing
 - [[Socratic_Method_Metabolomics_Training_Z-001-1033]] — Socratic method
 - [[Clinician_Training_Competency_Checklist_Z-001-1080]] — Competency
+- [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]] — Communication
 - [[MOC-Metabolomics-Training]] — Training hub
 
 ---

@@ -210,6 +210,8 @@ Teaching through guided discovery: Let the trainee make a common error, model th
 - [[Six_Stage_Patient_Flow_Framework_Z-001-1031]] — Patient flow
 - [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]] — Prescribing
 - [[Clinician_Training_Competency_Checklist_Z-001-1080]] — Competency
+- [[Training_Teaching_Style_Framework_Z-001-1040]] — Teaching styles
+- [[Difficult_Conversation_Navigation_Z-001-1072]] — Challenges
 - [[MOC-Metabolomics-Training]] — Training hub
 
 ---

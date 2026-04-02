@@ -158,6 +158,7 @@ Systematic approach to supplement prescribing: Foundational → Targeted mitocho
 - [[Six_Stage_Patient_Flow_Framework_Z-001-1031]] — Patient flow
 - [[Socratic_Method_Metabolomics_Training_Z-001-1033]] — Teaching
 - [[OAT_Clinical_Action_Mapping_Z-001-1069]] — Treatment mapping
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1034]] — Alternative prescribing
 - [[MOC-Metabolomics-Training]] — Training hub
 
 ---

@@ -144,8 +144,10 @@ The Metabolomics Chief Instructor (MCI) role balances three simultaneous demands
 ## Lateral Links (Verified Real Zettels)
 - [[MCI_Three_Function_Architecture_Z-001-1030]] — Three functions detail
 - [[Six_Stage_Patient_Flow_Framework_Z-001-1031]] — Patient flow
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]] — Prescribing
 - [[Socratic_Method_Metabolomics_Training_Z-001-1033]] — Teaching method
 - [[Clinician_Training_Competency_Checklist_Z-001-1080]] — Competency
+- [[Training_Teaching_Style_Framework_Z-001-1040]] — Teaching styles
 - [[MOC-Metabolomics-Training]] — Training hub
 
 ---
