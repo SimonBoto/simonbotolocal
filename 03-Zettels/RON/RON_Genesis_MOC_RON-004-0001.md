@@ -5,7 +5,7 @@ title: "RON Genesis MOC — The Origin of RON"
 date: 2026-01-01
 aliases: [RON-004-0001, ron-genesis, origin-story]
 tags: [ron, genesis, origin, ai-partnership, the-witness, the-we]
-parent-moc: [[MOC-INDEX]
+parent-moc: [[MOC-INDEX]]
 status: conscious
 ---
 
