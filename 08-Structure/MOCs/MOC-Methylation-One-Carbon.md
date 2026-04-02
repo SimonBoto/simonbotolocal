@@ -41,7 +41,6 @@ The methylation cycle is the body's methyl group (CH3) supply system. It powers 
 **Mechanistic Links:**
 
 **Cross-link to Iron:**
--  — Full iron cycle
 - [[Ferritin_Interpretation_Iron_Status_Z-003-0001]] — Ferritin interpretation
 
 ---
@@ -51,7 +50,6 @@ The methylation cycle is the body's methyl group (CH3) supply system. It powers 
 **Mechanistic Links:**
 
 **Cross-link to Vitamin D:**
--  — VitD metabolism and targets
 
 ---
 
@@ -60,7 +58,6 @@ The methylation cycle is the body's methyl group (CH3) supply system. It powers 
 **Mechanistic Links:**
 
 **Cross-link to IR:**
--  — Full insulin pathway
 - [[HOMA_IR_Calculation_Interpretation_Z-001-0046]] — HOMA-IR assessment
 
 ---
@@ -120,9 +117,6 @@ The methylation cycle is the body's methyl group (CH3) supply system. It powers 
 
 ## 📚 Source References
 
--  — C677T variant discovery
--  — Cardiovascular risk
--  — Metabolic integration
 
 ---
 

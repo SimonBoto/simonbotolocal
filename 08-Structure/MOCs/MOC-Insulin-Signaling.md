@@ -5,7 +5,7 @@ type: moc
 title: MOC — Insulin Signaling
 aliases: [MOC_Insulin, MOC_INSR, MOC_Insulin_Signaling]
 tags: [moc, insulin, signaling, metabolism, phd]
-parent-moc: 
+parent-moc: "[[MOCs Index]]"
 created: 2026-02-22
 ---
 
@@ -53,7 +53,6 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 - [[Mitochondrial_Dysfunction_IR_Z-001-0030]] — Energy stress → IR
 
 **Clinical Connections:**
--  — Disease-level MOC
 
 ---
 
@@ -62,9 +61,6 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 **Core IR Metrics:**
 
 **Supporting Biomarkers:**
--  — Vitamin D (target 80-150 ng/mL)
--  — Homocysteine (<10 μmol/L)
--  — Ferritin (30-150 ng/mL, context-dependent)
 
 **PhD-METHAP Panel:**
 - Fasting glucose, fasting insulin → HOMA-IR
@@ -117,9 +113,6 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 
 ## 📚 Source References
 
--  — Primary literature note (9 zettels extracted)
--  — Signaling pathways review
--  — Insulin resistance mechanisms (Samuel & Shulman)
 
 ---
 

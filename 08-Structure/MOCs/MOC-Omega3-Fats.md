@@ -4,7 +4,7 @@ type: moc
 title: MOC — Omega-3 Fats and Fatty Acid Balance
 aliases: [MOC_Omega3, MOC_Fatty_Acids, MOC_Omega6_Omega3, MOC_Lipid_Quality]
 tags: [moc, omega-3, omega-6, fatty-acids, inflammation, nutrition, poultry, fish-oil]
-parent-moc: 
+parent-moc: "[[MOCs Index]]"
 created: 2026-02-15
 updated: 2026-03-03
 ---
@@ -116,10 +116,6 @@ Omega-3 and omega-6 fatty acid balance, food quality, and inflammatory potential
 
 ## 🔗 Related MOCs
 
--  — Broader lipid context
--  — Omega-6:3 and IR mechanisms
--  — General nutrition guidance
--  — Inflammatory pathways
 
 ---
 

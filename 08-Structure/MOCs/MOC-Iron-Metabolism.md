@@ -41,7 +41,6 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 **Mechanistic Links:**
 
 **Cross-link to Methylation:**
--  — Full methylation cycle
 - [[Homocysteine_Composite_Methylation_Marker_Z-004-0001]] — Homocysteine as composite marker
 
 ---
@@ -57,7 +56,6 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 - [[Iron_Status_Patterns_ACD_Overload_Z-003-0013]] — Anemia of chronic disease vs iron deficiency
 
 **Cross-link to Inflammation:**
--  — CRP, cytokines, acute phase
 
 ---
 
@@ -66,7 +64,6 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 **Mechanistic Links:**
 
 **Cross-link to IR:**
--  — β-cell function, oxidative stress
 
 ---
 
@@ -141,9 +138,6 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 
 ## 📚 Source References
 
--  — Classic text
--  — Master regulator discovery
--  — Functional deficiency
 
 ---
 

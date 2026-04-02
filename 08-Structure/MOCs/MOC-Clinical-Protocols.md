@@ -4,7 +4,7 @@ type: moc
 title: MOC — Clinical Protocols
 aliases: [MOC_Clinical_Protocols, Clinical_Protocols]
 tags: [moc, clinical, protocols]
-parent-moc: 
+parent-moc: "[[MOCs Index]]"
 status: active
 created: 2026-02-15
 last-updated: 2026-02-22
@@ -18,19 +18,14 @@ last-updated: 2026-02-22
 
 ## 🎯 Entry Points
 
--  — IR testing protocols
--  — Patient journey
 
 ---
 
 ## 📊 Core Protocols
 
 ### Metabolic Assessment
--  — Diet protocols
--  — Magnesium testing
 
 ### Therapeutic Protocols
--  — Micronutrient therapy
 
 ---
 

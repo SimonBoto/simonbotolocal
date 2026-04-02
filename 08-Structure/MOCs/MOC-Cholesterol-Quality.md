@@ -4,7 +4,7 @@ type: moc
 title: MOC — Cholesterol Quality
 aliases: [MOC_Cholesterol_Quality, Cholesterol_MOC]
 tags: [moc, dt-clinic, cholesterol, hdl-ldl, phd-biomarker, archived]
-parent-moc: 
+parent-moc: "[[MOCs Index]]"
 status: archived-content
 created: 2026-02-15
 last-updated: 2026-02-22

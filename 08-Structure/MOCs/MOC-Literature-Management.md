@@ -3,7 +3,7 @@
 uid: 20260215144800
 tags: [moc literature]
 status: atomic
-parent-moc: 
+parent-moc: "[[MOCs Index]]"
 confidence: high
 ---
 

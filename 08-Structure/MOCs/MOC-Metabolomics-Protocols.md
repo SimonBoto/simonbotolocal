@@ -4,7 +4,7 @@
 uid: 20260214141600
 tags: [moc #protocol #metabolomics #phd clinic]
 status: active
-parent-moc: 
+parent-moc: "[[MOCs Index]]"
 aliases: [Metabolomics_Protocols_MOC]
 ---
 

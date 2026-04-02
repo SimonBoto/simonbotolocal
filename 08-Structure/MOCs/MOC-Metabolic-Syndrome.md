@@ -4,7 +4,7 @@ type: moc
 title: MOC — Metabolic Syndrome
 aliases: [MOC_MetS, Metabolic_Syndrome]
 tags: [moc, metabolic-syndrome, stub, future]
-parent-moc: 
+parent-moc: "[[MOCs Index]]"
 status: stub
 created: 2026-02-15
 last-updated: 2026-02-22
@@ -21,8 +21,6 @@ last-updated: 2026-02-22
 🟡 **STUB — No MetS-specific zettels yet**
 
 Related content exists in:
--  — Mechanistic basis
--  — Dietary factors
 
 ---
 

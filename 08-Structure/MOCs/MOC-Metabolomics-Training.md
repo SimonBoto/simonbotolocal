@@ -89,10 +89,6 @@ version: 1.0
 ## 🔗 Connections to PhD Work
 
 ### Direct METHAP Links
--  — Trial design integration
--  — VD as environmental modulator
--  — Insulin resistance systems view
--  — Positioning metabolite markers
 
 ### Research Questions Addressed
 1. Why metabolomics over genomics? → [[Insulin_Hormone_Structure_Z-001-0002]]
@@ -125,13 +121,8 @@ version: 1.0
 ## 📖 Reference Hubs
 
 ### Created (Tier 1)
--  — Nature Reviews: Metabolomics as apogee of omics
--  — Nature: Pharmaco-metabonomic phenotyping
--  — Mol Syst Biol: Systems biology & personalized medicine
 
 ### Created (Tier 2)
--  — Clinical translation focus
--  — Biomarker-pharmacology integration
 
 ### Pending (From Bibliography)
 - [ ] Beebe K et al. (2017) — Computational metabolomics

@@ -4,7 +4,7 @@ type: moc
 title: MOC — PhD Biomarkers
 aliases: [MOC_Biomarkers, Biomarkers_MOC]
 tags: [moc, phd-biomarker, stub, future]
-parent-moc: 
+parent-moc: "[[MOCs Index]]"
 status: stub
 created: 2026-02-11
 last-updated: 2026-02-22
@@ -21,7 +21,6 @@ last-updated: 2026-02-22
 🟡 **STUB — No dedicated biomarker zettels yet**
 
 Current biomarker content lives in:
--  — 17 zettels (adipic acid, metabolic pathways)
 
 ---
 

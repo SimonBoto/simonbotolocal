@@ -40,7 +40,6 @@ Vitamin D is a secosteroid hormone regulating calcium homeostasis, immune functi
 **Clinical Evidence:**
 
 **Cross-link to IR Core:**
--  — Full insulin signaling pathway
 - [[HOMA_IR_Calculation_Interpretation_Z-001-0046]] — HOMA-IR calculation
 
 ---
@@ -50,7 +49,6 @@ Vitamin D is a secosteroid hormone regulating calcium homeostasis, immune functi
 **Mechanistic Links:**
 
 **Cross-link to Methylation:**
--  — Full methylation cycle
 - [[Homocysteine_Composite_Methylation_Marker_Z-004-0001]] — Homocysteine as composite marker
 
 ---
@@ -60,7 +58,6 @@ Vitamin D is a secosteroid hormone regulating calcium homeostasis, immune functi
 **Mechanistic Links:**
 
 **Cross-link to Thyroid:**
--  — Thyroid hormone metabolism
 
 ---
 
@@ -108,9 +105,6 @@ vit_d_baseline_ng_ml, vit_d_3mo_ng_ml, vit_d_6mo_ng_ml, vit_d_dose_iu_daily
 
 ## 📚 Source References
 
--  — Deficiency pandemic
--  — RCT evidence
--  — Target ranges debate
 
 ---
 
