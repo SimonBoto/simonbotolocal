@@ -5,7 +5,6 @@ title: "{{Atomic Claim}}"
 aliases: ["{{ShortSlug}}"]
 domain: "{{XXX}}"
 tags: [zettel, "{{topic}}"]
-parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Example]]"
 source: "[[LitNote_{{Title}}_{{L-XXX-XXXX}}]]"
 confidence: high
@@ -14,7 +13,7 @@ created: "{{YYYY-MM-DD}}"
 
 # {{Atomic Claim}}
 
-{{Single idea, 50-200 words. Written for permanence.}}
+{{Single idea, 50-200 words. Written for permanence. No context required.}}
 
 ## Evidence
 {{Key supporting data from source}}
@@ -22,10 +21,19 @@ created: "{{YYYY-MM-DD}}"
 ## Context
 {{Why this matters — clinical or research significance}}
 
-## Connections
-- **Source:** [[LitNote_{{Title}}_{{L-XXX-XXXX}}]]
-- **Related:** [[{{Related_Zettel}}_{{Z-XXX-XXXX}}]]
-- **MOC:** [[MOC-Example]]
+---
+
+## Structural Links (Navigation)
+- **Up:** [[MOC-Example]] — Thematic entry point
+- **Source:** [[LitNote_{{Title}}_{{L-XXX-XXXX}}]] — Origin
+- **Index:** [[03-Zettels-Conscious]] — Container
+
+## Lateral Links (Thinking)
+<!-- Add 2-3 during review — NOT at creation -->
+<!-- Examples: -->
+<!-- - [[Related_Concept_Z-XXX-XXXX]] — Contrasts with -->
+<!-- - [[Supporting_Evidence_Z-XXX-XXXX]] — Supported by -->
+<!-- - [[Opposite_View_Z-XXX-XXXX]] — Differs from -->
 
 ---
-parent-index: [[03-Zettels-Conscious]], [[MOC-Example]]
+*Z-XXX-XXXX | Created: {{YYYY-MM-DD}} | Domain: {{XXX}}*

@@ -24,6 +24,8 @@ extraction-date: "{{YYYY-MM-DD}}"
 ## Core Claim
 {{One sentence — what does this source establish?}}
 
+---
+
 ## Zettels Extracted
 
 ### 1. {{Zettel 1 Title}}
@@ -41,8 +43,19 @@ extraction-date: "{{YYYY-MM-DD}}"
 - **Evidence:** {{Key data/quote}}
 - **Zettel:** [[{{Zettel_3_Title}}_{{Z-XXX-XXXX}}]]
 
+---
+
 ## References (100% from input)
 {{All references from source — formatted perfectly}}
+
+---
+
+## Structural Links
+- **Up:** [[MOC-Example]] — Thematic domain
+- **Inbox:** [[Inbox_{{Title}}_{{YYYY-MM-DD}}]] — Origin
+- **Index:** [[01-Literature]] — Container
+
+---
 
 ## Status
 - [ ] All zettels created
@@ -51,4 +64,4 @@ extraction-date: "{{YYYY-MM-DD}}"
 - [ ] Ready for synthesis
 
 ---
-parent-index: [[01-Literature]], [[MOC-Example]]
+*L-XXX-XXXX | Created: {{YYYY-MM-DD}} | Tier: {{GOLD/SILVER/BRONZE}}*
