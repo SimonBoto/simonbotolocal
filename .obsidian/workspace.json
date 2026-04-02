@@ -210,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -387,13 +387,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1a4649faa9f7f802",
+  "active": "494d0a78401a438d",
   "lastOpenFiles": [
-    "01-Literature/LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591.md",
-    "03-Zettels/Conscious/Cofactor_Deficiency_OAT_Signatures_Z-001-1052.md",
     "03-Zettels/Conscious/TCA_Intermediates_Clinical_Significance_Z-001-1049.md",
     "03-Zettels/Conscious/Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050.md",
     "03-Zettels/Conscious/Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051.md",
+    "03-Zettels/Conscious/Cofactor_Deficiency_OAT_Signatures_Z-001-1052.md",
+    "03-Zettels/Conscious/Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053.md",
+    "01-Literature/LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591.md",
     "03-Zettels/Conscious/Krebs_Cycle_Clinical_Biochemistry_Z-001-1048.md",
     "00-Inbox/Processed/metabolomics/CGPT_0022_Metabolomics_training_role_CGPT-0022.md",
     "03-Zettels/Conscious/Bootcamp_Four_Phase_Structure_Z-001-1035.md",
@@ -415,7 +416,6 @@
     "08-Structure/Templates/Template_Zettel_Zettelkasten_v1.0.md",
     "08-Structure/Templates/Template_LitNote_Zettelkasten_v1.0.md",
     "08-Structure/Templates/Template_Inbox_Raw_v1.0.md",
-    "08-Structure/Templates/Template_Zettel_Optimized_v1.0.md",
     "08-Structure/Templates/sedoJjwX5",
     "08-Structure/Templates/sedclJo0e",
     "06-Structure/Dashboards",
