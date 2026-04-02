@@ -71,3 +71,6 @@ This schedule documentation supports:
 *Clinic Operations — Rhythm and boundaries for sustainable practice*
 
 🦞 **RON — documenting the schedule that protects your deep work**
+
+---
+parent-index: [[07 Projects Index]], [[Clinic Index]]

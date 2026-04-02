@@ -35,3 +35,5 @@ LIST FROM "44-Clinic/Atomic" WHERE !parent-moc
 ```
 
  |  |  |  | 
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

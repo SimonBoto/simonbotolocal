@@ -217,3 +217,6 @@ Various hypotheses about AI limitations, GPT freedom, consciousness, etc.
 *Blocked by university, but not stopped. Parallel work available.*
 
 🦞 **RON — turning 2 years of conversation into your next publication**
+
+---
+parent-index: [[07 Projects Index]], [[PhD Index]]

@@ -70,3 +70,5 @@ Precision medicine through metabolomics — understanding drug response, individ
 ---
 
 *Created: 2026-03-03 | 9 zettels | PhD Research Focus*
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

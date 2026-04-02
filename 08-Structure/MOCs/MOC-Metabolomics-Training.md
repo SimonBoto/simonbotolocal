@@ -181,3 +181,6 @@ version: 1.0
 *Last updated: 2026-02-23*  
 *Status: Active — DE1-DE4 Complete (25 zettels), awaiting DE5-8*  
 *Next review: After ΔΕ 5-8 extraction*
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

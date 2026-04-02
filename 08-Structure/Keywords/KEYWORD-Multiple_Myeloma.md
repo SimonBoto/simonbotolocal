@@ -25,3 +25,6 @@ created: 2026-04-01
 ---
 
 *This MOC automatically collects backlinks from all zettels containing "multiple-myeloma".*
+
+---
+parent-index: [[08 Structure Index]], [[Keywords Index]]

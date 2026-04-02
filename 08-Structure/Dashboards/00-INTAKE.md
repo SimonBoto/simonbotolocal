@@ -28,3 +28,6 @@ status: active
 
 ---
 *Last updated: 2026-04-02*
+
+---
+parent-index: [[08 Structure Index]], [[Dashboards Index]]

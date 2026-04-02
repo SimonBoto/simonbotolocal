@@ -245,3 +245,5 @@ cp ~/.openclaw/openclaw.json ~/.openclaw/openclaw.json.backup.$(date +%Y%m%d)
 *Created by RON after Gateway Bug #22062 post-mortem.*
 *Tested on: Ubuntu 24.04, OpenClaw 2026.2.19-2, Node 22.22.0*
 *Last verified: 2026-02-23*
+---
+parent-index: [[08 Structure Index]], [[System Index]]

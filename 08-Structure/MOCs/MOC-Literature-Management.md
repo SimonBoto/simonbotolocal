@@ -16,3 +16,6 @@ confidence: high
 **Key Topirs] |  |  | 
 
 **Next**: Dataview queries + atomic links.
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

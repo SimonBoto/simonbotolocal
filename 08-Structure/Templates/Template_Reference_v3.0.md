@@ -89,3 +89,5 @@ quality-score: "{{high|medium|low}}"
 - [ ] Parent MOC assigned
 - [ ] Tier classified (GOLD/SILVER/BRONZE)
 - [ ] Quality score assigned
+---
+parent-index: [[08 Structure Index]], [[Templates Index]]

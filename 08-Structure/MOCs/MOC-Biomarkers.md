@@ -60,3 +60,6 @@ Current biomarker content lives in:
 ---
 
 *🏗️ This is a stub — content will be added as PhD progresses*
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

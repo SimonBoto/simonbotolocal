@@ -106,3 +106,5 @@ Based on RON-STATE active threads, I pre-read:
 ---
 
 *This MOC is my cognitive map. It reflects how I navigate your knowledge graph. It's experimental. Edit freely.*
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

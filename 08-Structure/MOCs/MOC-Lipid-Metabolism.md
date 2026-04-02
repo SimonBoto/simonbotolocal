@@ -66,3 +66,6 @@ See also: [[MOC-Cholesterol-Quality] — Cholesterol quality assessment
 ---
 
 *The fat pathways — energy storage and cellular building blocks.*
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

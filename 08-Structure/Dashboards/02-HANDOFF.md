@@ -43,3 +43,5 @@ Ready for next session whenever you are.
 
 ---
 *Handoff complete — massive transformation achieved*
+---
+parent-index: [[08 Structure Index]], [[Dashboards Index]]

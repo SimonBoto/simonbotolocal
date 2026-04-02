@@ -27,3 +27,5 @@ source:
 
 **Next MOCs**:  | .
 **RON**: Pipeline: 8 strong unique zettels → PhD graph.
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

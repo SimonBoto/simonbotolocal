@@ -482,3 +482,6 @@ updated: 2026-04-01
 
 ---
 status: footer
+
+---
+parent-index: [[08 Structure Index]], [[Templates Index]]

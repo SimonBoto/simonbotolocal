@@ -42,3 +42,6 @@ LIST FROM "33-Atomic" WHERE contains(tags, "hidden-hunger")
 **Next MOCs**:  →  | PhD: Adipic/VitD proxy?
 
 **RON Ledger**: Pipeline complete → MOC hubbed. Audit: 15 notes chained.
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

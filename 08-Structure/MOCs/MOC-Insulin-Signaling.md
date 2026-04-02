@@ -153,3 +153,5 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 
 *Last updated: 2026-03-03 | 22 zettels | Phantom links fixed, orphaned zettels linked*  
 *Maintainer: RON | Status: Active*
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

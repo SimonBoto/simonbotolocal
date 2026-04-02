@@ -23,3 +23,5 @@ source:
 
 **Next MOCs**:  | .
 **RON**: Pipeline: 8 strong zettels → PhD graph. VERIFY before hub.
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

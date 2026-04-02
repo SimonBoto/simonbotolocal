@@ -87,3 +87,5 @@ extraction-date: "{{YYYY-MM-DD}}"
 *Catalog created: {{YYYY-MM-DD}} | Last updated: {{YYYY-MM-DD}}*  
 *Data source: {{source}}*  
 *Status: {{status}} | Priority: {{tier}}*
+---
+parent-index: [[08 Structure Index]], [[Templates Index]]

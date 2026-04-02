@@ -62,3 +62,5 @@ tags: [moc, nutrition]
 - 
 
 *Rebuilt 2026-02-15 from session history. No  names. 35+ atomics.*
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

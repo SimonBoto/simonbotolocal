@@ -139,3 +139,5 @@
 
 *TheOptimizedBrain v4.1 — Metabolic Knowledge System*  
 *Last transformation: 2026-04-01 — 2,138 keyword links, 55 reference connections, pristine vault*
+---
+parent-index: [[08 Structure Index]], [[System Index]]

@@ -62,3 +62,6 @@ tags: [moc, liver, hepatology, metabolism, detoxification]
 ---
 
 *The chemical plant — processing, synthesizing, detoxifying.*
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

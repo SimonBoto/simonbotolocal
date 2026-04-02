@@ -19,3 +19,5 @@ LIST FROM \"00-Inbox/01-Capture\"
 Sub-MOCs:  
 
 Graph: #sprint | 
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

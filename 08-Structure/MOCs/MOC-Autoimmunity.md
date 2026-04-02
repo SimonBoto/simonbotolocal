@@ -183,3 +183,6 @@ Autoimmune diseases represent a loss of immune tolerance leading to attack on se
 ---
 
 *MOC-Autoimmunity v1.0 | Created: 2026-03-08 | RON v2.5*
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

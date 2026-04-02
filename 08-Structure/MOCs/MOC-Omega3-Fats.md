@@ -127,3 +127,5 @@ Omega-3 and omega-6 fatty acid balance, food quality, and inflammatory potential
 
 *Created: 2026-02-15 | Updated: 2026-03-03 | 4 zettels added from CGPT-0141*  
 *Maintainer: RON | Status: Active*
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

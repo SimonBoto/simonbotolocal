@@ -69,3 +69,6 @@ Related content exists in:
 ---
 
 *🏗️ This is a stub — content will be added from literature extraction*
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

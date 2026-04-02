@@ -27,3 +27,5 @@ source:
 
 **Next MOCs**:  | .
 **RON**: Pipeline: 10 strong zettels → PhD T2D graph.
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

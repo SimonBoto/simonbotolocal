@@ -124,3 +124,6 @@ created: 2026-04-01
 
 *This dashboard tracks the research pipeline from reference acquisition to zettel extraction.*  
 *Update frequency: Daily | Next update: Auto-generated*
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

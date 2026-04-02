@@ -253,3 +253,5 @@ NEXT: [Next batch or completion]
 *Updated: 2026-04-01 — Added GOLD/SILVER/BRONZE tiers, L4 autonomy, synthesis triggers, permanent questions check*
 *For: Thirtyfold Path — CGPT Archive synthesis*
 *Enforced by: RON (Research & Operations Navigator)*
+---
+parent-index: [[08 Structure Index]], [[Protocols Index]]

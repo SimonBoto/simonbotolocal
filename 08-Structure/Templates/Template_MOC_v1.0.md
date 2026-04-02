@@ -81,3 +81,5 @@ last-updated: "{{YYYY-MM-DD}}"
 ---
 
 *Last updated: {{YYYY-MM-DD}} | Status: {{status}}*
+---
+parent-index: [[08 Structure Index]], [[Templates Index]]

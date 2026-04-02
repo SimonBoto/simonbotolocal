@@ -113,3 +113,5 @@ git add -A && git commit -m "checkpoint: batch N complete"
 *Pre-flight prevents crash-landing*  
 *Created: 2026-02-23*  
 *Updated: 2026-04-01 — Added GOLD/SILVER/BRONZE tiers, synthesis triggers, permanent questions*
+---
+parent-index: [[08 Structure Index]], [[System Index]]

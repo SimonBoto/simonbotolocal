@@ -169,3 +169,6 @@ git diff --stat HEAD~1
 *Created: 2026-02-24*
 *Updated: 2026-04-01 — Aligned with CGPT v2.1: tiers, L4 autonomy, synthesis triggers*
 *For: NKUA 3174/3175 + future extractions*
+
+---
+parent-index: [[08 Structure Index]], [[Protocols Index]]

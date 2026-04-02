@@ -87,3 +87,5 @@ Statistical methodology, study design, and clinical research standards for metab
 ---
 
 *Created: 2026-03-03 | 5 zettels | Status: Active*
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

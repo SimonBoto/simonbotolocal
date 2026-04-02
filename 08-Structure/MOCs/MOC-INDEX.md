@@ -111,3 +111,6 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 ---
 
 *This MOC is the single entry point for vault navigation. Updated automatically with vault stats.*
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

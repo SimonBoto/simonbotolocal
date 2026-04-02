@@ -62,3 +62,6 @@ tags: [moc, kidney, nephrology, renal, metabolism]
 ---
 
 *The filter — balancing acids, electrolytes, and waste.*
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

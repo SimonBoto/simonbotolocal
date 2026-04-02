@@ -161,3 +161,6 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 ---
 
 *Created: 2026-02-26 | Domain: 003 | Status: Foundation MOC*
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

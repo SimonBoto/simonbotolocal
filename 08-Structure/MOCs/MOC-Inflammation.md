@@ -63,3 +63,6 @@ tags: [moc, inflammation, immune, cytokines, chronic-disease]
 ---
 
 *The double-edged sword — protection vs. chronic damage.*
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

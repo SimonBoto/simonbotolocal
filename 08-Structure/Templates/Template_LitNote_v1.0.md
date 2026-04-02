@@ -82,3 +82,6 @@ extraction-date: "{{YYYY-MM-DD}}"
 - [ ] No bare UIDs: `[[Z-001-0001]` → will create empty notes
 - [ ] Verify with: `grep -r '\[\[Z-[0-9]\{4\}-[0-9]\{4\}\]\]' this_file.md` (should return nothing)
 - [ ] Concept count matches "Zettels Created from This Source" list
+
+---
+parent-index: [[08 Structure Index]], [[Templates Index]]

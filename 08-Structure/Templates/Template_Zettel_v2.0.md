@@ -81,3 +81,5 @@ Always use full format: `[[Title_Z-001-0041]` or `[[Title_Z-001-0041]|display te
 ## Status Footer (NOT in YAML)
 
 Status: conscious | Reviewed: {{YYYY-MM-DD}} | Promoted to Subconscious: {{YYYY-MM-DD}}
+---
+parent-index: [[08 Structure Index]], [[Templates Index]]

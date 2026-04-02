@@ -60,3 +60,6 @@ See also: [[MOC-Iron-Metabolism] — Deep dive on iron
 ---
 
 *The spark plugs — trace minerals catalyze life.*
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

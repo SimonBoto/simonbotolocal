@@ -62,3 +62,6 @@ This MOC references pre-v4.0 content. To integrate into v4.1:
 ---
 
 *📦 Content exists but requires migration from legacy archive*
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

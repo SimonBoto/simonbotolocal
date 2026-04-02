@@ -65,3 +65,6 @@ See also: [[MOC-Hashimoto-Thyroiditis] — Deep dive on Hashimoto's
 ---
 
 *The metabolic regulator — thyroid controls the pace.*
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

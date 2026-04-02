@@ -58,3 +58,6 @@ From [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]:
 ---
 
 *The guardrails — ethics enable trustworthy science.*
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

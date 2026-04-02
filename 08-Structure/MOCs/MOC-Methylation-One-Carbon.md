@@ -142,3 +142,6 @@ The methylation cycle is the body's methyl group (CH3) supply system. It powers 
 ---
 
 *Created: 2026-02-26 | Domain: 004 | Status: Foundation MOC*
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]

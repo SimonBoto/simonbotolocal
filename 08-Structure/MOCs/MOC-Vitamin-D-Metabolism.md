@@ -131,3 +131,6 @@ vit_d_baseline_ng_ml, vit_d_3mo_ng_ml, vit_d_6mo_ng_ml, vit_d_dose_iu_daily
 ---
 
 *Created: 2026-02-26 | Domain: 002 | Status: Foundation MOC*
+
+---
+parent-index: [[08 Structure Index]], [[MOCs Index]]
