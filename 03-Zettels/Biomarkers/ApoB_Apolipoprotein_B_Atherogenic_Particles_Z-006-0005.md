@@ -6,7 +6,7 @@ title: ApoB — Apolipoprotein B, Atherogenic Particle Count
 aliases: [Z-006-0005, ApoB, Apolipoprotein-B, Particle-Count, LDL-P]
 domain: 006
 tags: [zettel, biomarker, apob, apolipoprotein-b, ldl-particles, cardiovascular]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -212,3 +212,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — ApoB*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

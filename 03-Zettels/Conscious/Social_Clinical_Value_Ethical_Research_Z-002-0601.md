@@ -6,7 +6,7 @@ aliases: [Z-002-0601, ethics-social-value]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, clinical-trials, emmanuel-seven]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]"
 confidence: high
 created: 2026-03-27
@@ -51,3 +51,10 @@ Adipic acid as an insulin resistance  satisfies this requirement:
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

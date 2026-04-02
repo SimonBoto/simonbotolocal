@@ -6,7 +6,7 @@ title: Estradiol — Primary Female Estrogen
 aliases: [Z-011-0003, Estradiol, E2, Estrogen, Female-Hormone]
 domain: 011
 tags: [zettel, biomarker, estradiol, estrogen, e2, female-hormone]
-parent-moc: 
+parent-moc: [[MOC-Bone-Health]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -213,3 +213,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Estradiol*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Bone-Health]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

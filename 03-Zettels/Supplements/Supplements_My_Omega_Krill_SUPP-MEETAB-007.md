@@ -114,3 +114,10 @@ Take 2 softgels daily.
 |-------|------------|----------|
 | 1 softgel | €0.82 | Maintenance |
 | 2 softgels | €1.63 | Standard anti-inflammatory dose |
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Lipid-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

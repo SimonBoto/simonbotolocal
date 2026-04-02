@@ -5,7 +5,7 @@ title: Iron Studies Panel TIBC Transferrin Saturation
 aliases: [Z-003-0002, TIBC, Transferrin, Transferrin Saturation, Iron Binding]
 domain: 003
 tags: [zettel, biomarker, iron, status/optimal, clinical-protocol]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 biomarker-type: iron-transport-panel
 tibc-range: 250-400 μg/dL
 transferrin-sat-optimal: 20-50%
@@ -135,3 +135,10 @@ patient_id,visit,tibc_ug_dl,transferrin_sat_pct,iron_status_pattern
 - s/CRP_[B-002-0001]|Biomarker Family Guide]
 - |Biomarkers MOC]
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

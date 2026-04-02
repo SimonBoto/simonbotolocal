@@ -6,7 +6,7 @@ title: Free Fatty Acids Panel (RBC Membrane) - Deep Metabolic Assessment
 aliases: [B-006-0002, Fatty-Acids, RBC-Fatty-Acids, Omega-Index, Insulin-Index, Inflammation-Index]
 domain: 006
 tags: [biomarker, fatty-acids, omega-3, omega-6, rbc-membrane, insulin, inflammation, cortisol]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: active
 created: 2026-03-30
 source-litnote: Synthesized from clinical practice
@@ -661,3 +661,10 @@ source-litnote: Synthesized from clinical practice
 source-litnote: Synthesized from clinical practice
 ---
 status: footer
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -5,7 +5,7 @@ title: Hashimoto Pattern Anti-TPO Anti-TG Thyroid Autoimmunity
 aliases: [Z-005-0002, Hashimoto, Anti-TPO, Anti-TG, Thyroid Autoimmunity]
 domain: 005
 tags: [zettel, biomarker, thyroid, autoimmune, clinical-protocol]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 biomarker-type: thyroid-autoimmune-panel
 anti-tpo-threshold: <34 IU/mL
 anti-tg-threshold: <40 IU/mL
@@ -146,3 +146,10 @@ patient_id,visit,anti_tpo_iu_ml,anti_tg_iu_ml,hashimoto_status
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - |Biomarkers MOC]
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

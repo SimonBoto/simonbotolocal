@@ -113,3 +113,10 @@ Take 2 capsules daily in the evening or as directed by your physician.
 *Catalog created: 2026-03-31*  
 *Data source: naturaldoctor.gr*  
 *EOF notification: 105557/10-12-2014*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Inflammation]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

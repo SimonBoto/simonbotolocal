@@ -6,7 +6,7 @@ aliases: [Z-002-0608, nuremberg-code, ethics-nuremberg]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, historical, informed-consent]
-parent-moc: 
+parent-moc: [[MOC-Lipid-Metabolism]]
 source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]"
 confidence: high
 created: 2026-03-27
@@ -63,3 +63,10 @@ The Nuremberg Code established principles later incorporated into:
 
 ## RELATED FILES
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Lipid-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

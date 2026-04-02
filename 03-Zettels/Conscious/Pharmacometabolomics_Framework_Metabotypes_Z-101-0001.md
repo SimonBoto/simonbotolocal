@@ -6,7 +6,7 @@ aliases: [Z-101-0001, Pharmacometabolomics, Metabotypes]
 domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, pharmacometabolomics, metabotypes, precision-medicine, drug-response]
-parent-moc: 
+parent-moc: [[MOC-Gut-Microbiome]]
 source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]
 confidence: high
 created: 2026-02-24
@@ -56,3 +56,10 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Gut-Microbiome]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

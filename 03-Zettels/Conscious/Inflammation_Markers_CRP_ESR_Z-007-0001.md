@@ -5,7 +5,7 @@ title: Inflammation Markers CRP ESR Clinical Interpretation
 aliases: [Z-007-0001, CRP, ESR, Inflammation, Acute Phase]
 domain: 007
 tags: [zettel, biomarker, inflammation, status/optimal, clinical-protocol]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 biomarker-type: inflammation-panel
 crp-optimal: <1 mg/L
 crp-target: <3 mg/L
@@ -134,3 +134,10 @@ patient_id,visit,hs_crp_mg_l,esr_mm_hr,inflammation_status
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - |Biomarkers MOC]
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

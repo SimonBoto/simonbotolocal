@@ -6,7 +6,7 @@ title: Lactic Acid — Anaerobic Glycolysis Marker
 aliases: [Z-012-0009, Lactic-Acid, Lactate, Anaerobic-Glycolysis, B1-Deficiency]
 domain: 012
 tags: [zettel, biomarker, lactic, lactate, anaerobic, glycolysis, b1]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -204,3 +204,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Lactic Acid*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

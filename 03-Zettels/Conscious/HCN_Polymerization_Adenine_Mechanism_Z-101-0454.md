@@ -5,7 +5,7 @@ title: HCN Polymerization to Adenine Mechanism
 aliases: [Z-101-0454, hcn-polymerization, prebiotic-adenine]
 domain: 101
 tags: [zettel, prebiotic-chemistry, hcn, adenine, origin-of-life, polymerization]
-parent-moc: 
+parent-moc: [[MOC-Metabolomics]]
 status: conscious
 created: 2026-03-04
 source: [[L-101-0045B]
@@ -50,3 +50,10 @@ source: [[L-101-0045B]
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Metabolomics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

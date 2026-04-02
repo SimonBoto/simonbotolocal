@@ -6,7 +6,7 @@ aliases: [Z-101-0006, DMF, Nrf2, Antioxidant, Dimethyl-Fumarate]
 domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, DMF, dimethyl-fumarate, Nrf2, antioxidant, multiple-sclerosis]
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
 source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]
 confidence: high
 created: 2026-02-24
@@ -70,3 +70,10 @@ Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antiox
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

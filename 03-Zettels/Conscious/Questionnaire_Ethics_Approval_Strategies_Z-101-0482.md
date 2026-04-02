@@ -5,7 +5,7 @@ title: Questionnaire Ethics Approval Strategies
 aliases: [Z-101-0482]
 domain: 101
 tags: [zettel, questionnaires, ethics-approval, irb, data-collection, research-methods, conscious]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 source-litnote: [[LitNote_CGPT_0359_Questionnaire_Compliance_L-101-0052.md]
 status: conscious
 ---
@@ -214,3 +214,10 @@ Multi-instrument studies require specific ethical considerations beyond standard
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -6,7 +6,7 @@ title: Thyroid Panel (TSH, FT3, FT4, Anti-TPO, Anti-TG) - Clinical Guide
 aliases: [B-010-0001, Thyroid, TSH, FT3, FT4, Anti-TPO, Anti-TG, TPO-Antibodies, Thyroglobulin-Antibodies]
 domain: 010
 tags: [biomarker, thyroid, tsh, ft3, ft4, hashimotos, autoimmune, metabolism]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: active
 created: 2026-03-30
 source-litnote: Synthesized from clinical practice
@@ -262,3 +262,10 @@ source-litnote: Synthesized from clinical practice
 source-litnote: Synthesized from clinical practice
 ---
 status: footer
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

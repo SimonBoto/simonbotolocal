@@ -5,7 +5,7 @@ title: Dicarboxylic Acid Hierarchy as Insulin Resistance Markers
 aliases: [Z-101-0011, Dicarboxylic Aciduria, Adipate Suberate Sebacate Pattern]
 domain: 101
 tags: [zettel, dicarboxylic-acid, adipate, suberate, sebacate, urine-organic-acid, IR-marker]
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
 status: conscious
 source: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]"
 extraction-date: 2026-03-02
@@ -83,3 +83,10 @@ source-litnote: Synthesized from clinical practice
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

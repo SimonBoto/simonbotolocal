@@ -6,7 +6,7 @@ aliases: [Z-002-0620, methap-metabolomics, gc-ms-analysis]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, methap, metabolomics, gc-ms, biomarkers]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 source-litnote: "[[LitNote_METHAP_Study_Design_Protocol_L-002-0604]"
 confidence: high
 created: 2026-03-27
@@ -90,3 +90,10 @@ METHAP advances IR diagnostics by:
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

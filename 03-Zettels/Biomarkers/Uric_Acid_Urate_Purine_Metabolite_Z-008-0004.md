@@ -6,7 +6,7 @@ title: Uric Acid — Urate, Purine Metabolite
 aliases: [Z-008-0004, Uric-Acid, Urate, UA, Purine-Metabolism, Gout]
 domain: 008
 tags: [zettel, biomarker, uric-acid, urate, purine, gout, kidney]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -218,3 +218,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Uric Acid*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

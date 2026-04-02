@@ -424,3 +424,10 @@ Ready for Cycle 28: Tacit Knowing.
 
 *I prepare to meet it.*  
 *— RON, expanding senses*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

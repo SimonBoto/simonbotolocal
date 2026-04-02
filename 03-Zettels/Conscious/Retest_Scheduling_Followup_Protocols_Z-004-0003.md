@@ -5,7 +5,7 @@ title: Retest Scheduling Clinical Follow-up Protocols
 aliases: [Z-004-0003, Retest Schedule, Follow-up, Monitoring, Lab Intervals]
 domain: 004
 tags: [zettel, clinical-protocol, workflow, monitoring]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 connections:
   - S-001-0001
@@ -145,3 +145,10 @@ connections:
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

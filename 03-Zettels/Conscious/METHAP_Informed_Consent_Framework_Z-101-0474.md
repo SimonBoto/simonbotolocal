@@ -5,7 +5,7 @@ title: METHAP Informed Consent Framework
 aliases: [Z-101-0474]
 domain: 101
 tags: [zettel, methap, informed-consent, ethics, gdpr, clinical-trial, phd, conscious]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 source-litnote: [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]
 status: conscious
 ---
@@ -129,3 +129,10 @@ Participants may contact:
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

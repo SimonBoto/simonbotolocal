@@ -6,7 +6,7 @@ aliases: [Z-002-0611, cioms-guidelines, international-research-ethics]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, international, developing-countries]
-parent-moc: 
+parent-moc: [[MOC-Research-Ethics]]
 source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]"
 confidence: high
 created: 2026-03-27
@@ -94,3 +94,10 @@ If METHAP involves international collaboration:
 ## RELATED FILES
 - 
 - [[Independent_Review_IRB_Ethics_Z-002-0605]|Z-002-0605]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Research-Ethics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

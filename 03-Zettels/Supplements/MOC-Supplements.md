@@ -138,3 +138,10 @@ Reference collection of all Meetab supplements with full ingredient profiles, pr
 **Total files:** 18 (17 supplements + 1 MOC)  
 **Data source:** meetabstore.ch  
 **Update policy:** These are reference zettels — do not modify. Update only when product formulations change.
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

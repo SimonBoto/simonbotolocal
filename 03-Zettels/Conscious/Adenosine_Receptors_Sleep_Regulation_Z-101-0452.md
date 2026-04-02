@@ -5,7 +5,7 @@ title: Adenosine Receptors and Sleep Regulation
 aliases: [Z-101-0452, adenosine-sleep, purinergic-signaling]
 domain: 101
 tags: [zettel, adenosine, sleep, neurotransmission, receptors, circadian]
-parent-moc: 
+parent-moc: [[MOC-Inflammation]]
 status: conscious
 created: 2026-03-04
 source: [[L-101-0045A]
@@ -45,3 +45,10 @@ Adenosine clearance during sleep → reduced inhibition → wakefulness returns.
 
 ## RELATED FILES
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Inflammation]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

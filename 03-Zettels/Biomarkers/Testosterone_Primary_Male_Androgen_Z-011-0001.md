@@ -6,7 +6,7 @@ title: Testosterone — Primary Male Androgen
 aliases: [Z-011-0001, Testosterone, Total-Testosterone, Free-Testosterone, Androgen]
 domain: 011
 tags: [zettel, biomarker, testosterone, androgen, male-hormone, libido, muscle]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -253,3 +253,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Testosterone*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

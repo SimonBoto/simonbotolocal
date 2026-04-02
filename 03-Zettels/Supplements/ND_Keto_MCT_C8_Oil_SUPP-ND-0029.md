@@ -126,3 +126,10 @@ Ketones provide:
 *Catalog created: 2026-03-31*  
 *Data source: naturaldoctor.gr*  
 *EOF notification: 86185/02-08-2022*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

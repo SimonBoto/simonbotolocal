@@ -5,7 +5,7 @@ title: Vitamin D Optimal Range 80-150 High Dose Protocol
 aliases: [Z-002-0004, VitD-80-150, Vitamin D Target, High Dose Vitamin D]
 domain: 002
 tags: [zettel, biomarker, vitamin-d, status/optimal, clinical-protocol, phd-methap]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 biomarker-type: fat-soluble-vitamin
 target-range: 80-150 ng/mL
 standard-range: 30-100 ng/mL
@@ -159,3 +159,10 @@ patient_id,visit,vit_d_dose_iu_daily,vit_d_25_oh_ng_ml,vit_d_status
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

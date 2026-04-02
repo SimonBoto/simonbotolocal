@@ -5,7 +5,7 @@ title: Free Fatty Acids Complete Analysis — Extended Clinical Guide
 aliases: [REF-FFA-001, Fatty-Acids-Complete, FFA-Extended]
 domain: 006
 tags: [reference, fatty-acids, omega-3, omega-6, lipids, complete-analysis]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: active
 extraction-date: 2026-03-31
 source: Free fatty acids analysis extended.md (Greek clinical guide)
@@ -425,3 +425,10 @@ This dramatic shift contributes to:
 
 ---
 *Complete extraction from extended clinical guide — 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -6,7 +6,7 @@ aliases: [Z-101-0005, Methotrexate, Adenosine, AMPK]
 domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, methotrexate, low-dose, adenosine, AMPK, autoimmunity]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]
 confidence: high
 created: 2026-02-24
@@ -65,3 +65,10 @@ Low-dose methotrexate (1/100th of  dose) treats autoimmunity through a mechanism
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

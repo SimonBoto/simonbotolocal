@@ -5,7 +5,7 @@ title: Male Hormone Profile (Total T, Free T, SHBG, E2, DHT, LH, FSH) - Clinical
 aliases: [B-011-0001, Testosterone, Male-Hormones, Free-T, SHBG, Androgens]
 domain: 011
 tags: [biomarker, testosterone, male, hormones, andropause, free-testosterone]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: active
 created: 2026-03-30
 ---
@@ -280,3 +280,10 @@ Hypothalamus (GnRH) → Pituitary (LH) → Testes (Leydig cells) → Testosteron
 
 ---
 status: footer
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

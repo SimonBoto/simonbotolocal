@@ -316,3 +316,10 @@ status: active
 
 *"Character is destiny."*
 *— Heraclitus*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

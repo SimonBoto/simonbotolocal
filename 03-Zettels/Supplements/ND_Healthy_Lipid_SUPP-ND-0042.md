@@ -118,3 +118,10 @@ Take 1 capsule daily after breakfast or as directed by your physician.
 *Catalog created: 2026-03-31*  
 *Data source: naturaldoctor.gr*  
 *EOF notification: 135248/4-12-2023*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

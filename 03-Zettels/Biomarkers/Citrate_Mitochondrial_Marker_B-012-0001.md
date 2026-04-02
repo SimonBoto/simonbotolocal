@@ -5,7 +5,7 @@ title: Citrate — Mitochondrial Dysfunction Marker
 aliases: [B-012-0001]
 domain: 012
 tags: [oat, metabolite, mitochondrial, citrate, krebs-cycle, biomarker]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: active
 extraction-date: 2026-03-31
 ---
@@ -292,3 +292,10 @@ When citrate is low and aconitate is very high, **do not analyze** isocitrate, �
 ---
 *Part of OAT Metabolite Training System — Mitochondrial Markers Module*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

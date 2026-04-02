@@ -6,7 +6,7 @@ aliases: [Z-002-0614, irb-message, ethics-email]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, irb, communication, template]
-parent-moc: 
+parent-moc: [[MOC-Research-Ethics]]
 source-litnote: "[[LitNote_Ethics_Committee_Communication_L-002-0603]"
 confidence: high
 created: 2026-03-27
@@ -91,3 +91,10 @@ For Greek ethics committees:
 
 ## RELATED FILES
 - [[Questionnaire_Ethics_Approval_Strategies_Z-101-0482]|Z-101-0482]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Research-Ethics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

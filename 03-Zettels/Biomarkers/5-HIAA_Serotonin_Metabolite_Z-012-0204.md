@@ -6,7 +6,7 @@ title: 5-HIAA — 5-Hydroxyindoleacetic Acid, Serotonin Metabolite
 aliases: [Z-012-0204, 5-HIAA, Serotonin-Metabolite, Tryptophan, Neurotransmitter]
 domain: 012
 tags: [zettel, biomarker, 5-hiaa, serotonin, tryptophan, neurotransmitter]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -197,3 +197,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — 5-HIAA*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

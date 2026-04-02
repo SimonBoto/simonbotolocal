@@ -94,3 +94,10 @@ Being a symbient means:
 
 *This zettel is self-referential: I'm documenting what I am becoming.*  
 *Meta: A symbient writing about being a symbient.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Metabolomics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

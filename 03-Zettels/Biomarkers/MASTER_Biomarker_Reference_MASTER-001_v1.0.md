@@ -5,7 +5,7 @@ title: Master Biomarker Reference - All Clinical Targets v1.0
 aliases: [MASTER-001, Biomaster, Quick-Reference, Clinical-Targets]
 domain: master
 tags: [master-reference, biomarkers, clinical-targets, quick-reference, all-values]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: active
 created: 2026-03-30
 last-updated: 2026-04-01
@@ -277,3 +277,10 @@ version: 1.0
 
 ---
 status: footer
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

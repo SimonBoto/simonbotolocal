@@ -6,7 +6,7 @@ title: Insulin — Pancreatic Beta-Cell Response
 aliases: [Z-005-0002, Insulin, Fasting-Insulin, Beta-Cell, Pancreatic]
 domain: 005
 tags: [zettel, biomarker, insulin, beta-cell, diabetes, insulin-resistance]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -242,3 +242,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Insulin*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

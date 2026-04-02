@@ -6,7 +6,7 @@ title: Methylsuccinic Acid — Riboflavin (B2) Deficiency Marker
 aliases: [Z-012-0014, Methylsuccinic-Acid, B2-Deficiency, Riboflavin, Methylmalonate-Analog]
 domain: 012
 tags: [zettel, biomarker, methylsuccinic, b2, riboflavin, deficiency]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -177,3 +177,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Methylsuccinic Acid*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -6,7 +6,7 @@ title: Palmitic Acid — Saturated Fat, C16:0
 aliases: [Z-006-0304, Palmitic-Acid, Saturated-Fat, C16-0, Palmitate]
 domain: 006
 tags: [zettel, biomarker, palmitic, saturated, c16]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -152,3 +152,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Palmitic Acid*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

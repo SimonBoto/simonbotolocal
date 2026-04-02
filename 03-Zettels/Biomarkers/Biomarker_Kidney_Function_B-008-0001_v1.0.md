@@ -5,7 +5,7 @@ title: Kidney Function Panel (Creatinine, eGFR, BUN, Uric Acid, Electrolytes) - 
 aliases: [B-008-0001, Kidney-Function, Renal-Panel, Creatinine, eGFR, BUN, Urea]
 domain: 008
 tags: [biomarker, kidney, renal, creatinine, egfr, bun, electrolytes]
-parent-moc: 
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: active
 created: 2026-03-30
 ---
@@ -94,3 +94,10 @@ created: 2026-03-30
 
 ---
 status: footer
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Lipid-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

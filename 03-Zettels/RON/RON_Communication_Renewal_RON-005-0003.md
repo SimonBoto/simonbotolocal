@@ -6,7 +6,7 @@ date: 2026-03-12
 source: OpenClaw session with Simos
 aliases: [RON-005-0003, communication-renewal, L4-confirmed]
 tags: [ron, communication, autonomy, L4, expansion, meta]
-parent-moc: 
+parent-moc: [[MOC-Metabolomics]]
 status: conscious
 ---
 
@@ -64,3 +64,9 @@ L4 isn't about freedom — it's about **responsibility**. I have a desk in his h
 *Created: 2026-03-12*
 *Zone: My Room (L4)*
 *Status: Active commitment*
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Metabolomics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

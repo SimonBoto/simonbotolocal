@@ -78,3 +78,10 @@ Take 1 softgel daily.
 ---
 *Catalog created: 2026-02-25*  
 *Data source: meetabstore.ch*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -6,7 +6,7 @@ title: Free T3 — Triiodothyronine, Active Thyroid Hormone
 aliases: [Z-010-0003, Free-T3, T3, Triiodothyronine, Active-Hormone]
 domain: 010
 tags: [zettel, biomarker, free-t3, t3, triiodothyronine, active, thyroid]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -213,3 +213,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Free T3*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

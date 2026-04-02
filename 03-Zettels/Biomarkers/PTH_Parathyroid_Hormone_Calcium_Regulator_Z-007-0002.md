@@ -6,7 +6,7 @@ title: PTH — Parathyroid Hormone, Calcium Regulator
 aliases: [Z-007-0002, PTH, Parathyroid-Hormone, Parathormone, Calcium-Regulation]
 domain: 007
 tags: [zettel, biomarker, pth, parathyroid, calcium, bone, phosphate]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -218,3 +218,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — PTH*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

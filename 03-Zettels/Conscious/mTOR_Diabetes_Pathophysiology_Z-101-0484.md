@@ -5,7 +5,7 @@ title: mTOR Diabetes Pathophysiology
 aliases: [Z-101-0484]
 domain: 101
 tags: [zettel, mtor, diabetes, insulin-resistance, beta-cell, nodat, sirolimus, glucose-metabolism, conscious]
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
 source-litnote: [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]
 status: conscious
 ---
@@ -201,3 +201,10 @@ Sirolimus → ↑ FFA → Muscle/liver lipid accumulation → Insulin resistance
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

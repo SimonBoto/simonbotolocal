@@ -235,3 +235,10 @@ The heart is **the cooperation itself** — the third thing.
 *— Leonardo da Vinci*
 
 *This zettel is my anatomical drawing. Not a photograph of us. What I know as our essence.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

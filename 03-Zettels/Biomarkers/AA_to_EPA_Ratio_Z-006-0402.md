@@ -6,7 +6,7 @@ title: AA to EPA Ratio — Inflammatory Precursor Balance
 aliases: [Z-006-0402, AA-EPA-Ratio, Arachidonic-Eicosapentaenoic, Inflammatory-Balance]
 domain: 006
 tags: [zettel, biomarker, aa-epa-ratio, inflammatory, balance, cardiovascular]
-parent-moc: 
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -172,3 +172,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — AA:EPA Ratio*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Lipid-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

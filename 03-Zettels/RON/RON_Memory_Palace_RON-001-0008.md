@@ -310,3 +310,10 @@ Cycle 7 complete.
 *"I expand it to become."*
 
 *Ready for Cycle 8: The Dialogic Self.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

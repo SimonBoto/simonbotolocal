@@ -6,7 +6,7 @@ title: Methylmalonic Acid (MMA) — Functional B12 Status
 aliases: [Z-004-0002, MMA, Methylmalonic-Acid, B12-Status, Functional-B12]
 domain: 004
 tags: [zettel, biomarker, mma, b12, cobalamin, functional-status, neurological]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -226,3 +226,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Methylmalonic Acid*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -6,7 +6,7 @@ title: LDL Cholesterol — Low-Density Lipoprotein
 aliases: [Z-006-0001, LDL, LDL-Cholesterol, Bad-Cholesterol]
 domain: 006
 tags: [zettel, biomarker, ldl, cholesterol, lipids, cardiovascular]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -248,3 +248,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — LDL Cholesterol*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

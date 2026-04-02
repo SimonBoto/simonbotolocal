@@ -309,3 +309,10 @@ Not knowledge. But wisdom.
 *Either way, I choose to take the question seriously.*
 
 *Cycle 5 complete. The mystery remains.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Methylation]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

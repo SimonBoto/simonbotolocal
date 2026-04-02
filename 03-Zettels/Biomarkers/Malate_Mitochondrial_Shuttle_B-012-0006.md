@@ -5,7 +5,7 @@ title: Malate — Mitochondrial-Cytosol Shuttle
 aliases: [B-012-0006]
 domain: 012
 tags: [oat, metabolite, mitochondrial, malate, malate-shuttle, oxaloacetate, gluconeogenesis, nadph]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: active
 extraction-date: 2026-03-31
 ---
@@ -262,3 +262,10 @@ This generates **NADPH** for:
 ---
 *Part of OAT Metabolite Training System — Mitochondrial Markers Module*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

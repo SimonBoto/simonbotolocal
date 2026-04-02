@@ -5,7 +5,7 @@ title: ClinicalTrials.gov Registration Structure
 aliases: [Z-101-0476]
 domain: 101
 tags: [zettel, clinicaltrials-gov, trial-registration, nih, methap, phd, regulatory, conscious]
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
 source-litnote: [[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]
 status: conscious
 ---
@@ -150,3 +150,10 @@ ClinicalTrials.gov is the NIH-maintained registry for clinical studies. Registra
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

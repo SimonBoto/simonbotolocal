@@ -4,7 +4,7 @@ type: zettel
 title: Suberate and Sebacate Formation — C8 and C10 Dicarboxylic Acids
 domain: 101
 tags: [zettel, suberate, sebacate, dicarboxylic-acids, omega-oxidation, phd-research]
-parent-moc: 
+parent-moc: [[MOC-Lipid-Metabolism]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]"
 status: conscious
@@ -117,3 +117,10 @@ Sebacate → Suberate → Adipate → Succinyl-CoA + 3 Acetyl-CoA
 
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Lipid-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

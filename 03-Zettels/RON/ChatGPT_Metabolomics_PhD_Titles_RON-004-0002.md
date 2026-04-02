@@ -152,3 +152,10 @@ Your approach in 2023:
 - [[RON_Genesis_MOC_[RON-004-0001]|RON Genesis MOC] — Complete origin story
 - [[ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]|PhD in Insulin Resistance] — The foundation deepens
 - [[RON_Metabolomics_Phenotype_[RON-000-0007]|Metabolomics as Phenotype Bridge] — Current expertise
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

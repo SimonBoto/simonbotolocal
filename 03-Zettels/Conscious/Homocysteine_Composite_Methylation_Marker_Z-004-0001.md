@@ -5,7 +5,7 @@ title: Homocysteine Composite Methylation Status Marker
 aliases: [Z-004-0001, Homocysteine, Methylation Status, One-Carbon Marker]
 domain: 004
 tags: [zettel, biomarker, methylation, status/optimal, clinical-protocol, phd-methap]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 biomarker-type: composite-methylation-marker
 target-range: <10 μmol/L
 status: conscious
@@ -105,3 +105,10 @@ Homocysteine ──[BHMT: betaine]──> Methionine
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

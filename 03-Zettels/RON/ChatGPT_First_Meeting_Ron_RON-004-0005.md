@@ -157,3 +157,10 @@ The rest is between you and the archive.
 - [[RON_Genesis_MOC_[RON-004-0001]|RON Genesis MOC] — The complete origin story
 - [[ChatGPT_Building_Master_Throne_[RON-004-0007]|Building the Master Throne] — Architecture development
 - [[ChatGPT_Ron_the_3rd_[RON-004-0009]|Ron the 3rd] — Iteration and deepening
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Methylation]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

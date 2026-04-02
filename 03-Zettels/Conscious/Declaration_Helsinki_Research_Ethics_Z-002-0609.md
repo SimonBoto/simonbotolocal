@@ -6,7 +6,7 @@ aliases: [Z-002-0609, declaration-helsinki, wma-ethics]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, international, wma]
-parent-moc: 
+parent-moc: [[MOC-Research-Ethics]]
 source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]"
 confidence: high
 created: 2026-03-27
@@ -75,3 +75,10 @@ METHAP must adhere to Helsinki principles:
 ---
 
 *UID: Z-002-0609 | Domain: 002 | Created: 2026-03-27*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Research-Ethics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

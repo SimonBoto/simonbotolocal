@@ -5,7 +5,7 @@ title: Vitamin B5 Coenzyme A Synthesis Pathway
 aliases: [Z-101-0017, Pantothenic Acid CoA, CoA Biosynthesis]
 domain: 101
 tags: [zettel, vitamin-b5, pantothenic-acid, coenzyme-a, coa-synthesis, pkan, biochemistry]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]"
 extraction-date: 2026-03-02
@@ -88,3 +88,10 @@ CoA consists of:
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

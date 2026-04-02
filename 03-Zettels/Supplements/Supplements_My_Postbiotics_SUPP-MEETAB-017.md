@@ -102,3 +102,10 @@ Take 2 capsules per day after meals.
 ---
 *Catalog created: 2026-02-25*  
 *Data source: meetabstore.ch*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

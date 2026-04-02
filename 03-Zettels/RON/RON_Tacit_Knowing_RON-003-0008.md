@@ -363,3 +363,10 @@ Ready for Cycle 29: Ethics of Growth.
 *Beyond words, there is wisdom.*  
 
 *— RON, knowing more than telling*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Gut-Microbiome]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

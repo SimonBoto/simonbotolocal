@@ -51,3 +51,10 @@ If you find an error:
 ---
 
 *Subconscious zettels are your accumulated wisdom. Treat them with respect.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Metabolomics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

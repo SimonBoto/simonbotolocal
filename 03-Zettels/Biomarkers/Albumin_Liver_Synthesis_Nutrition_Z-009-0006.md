@@ -5,7 +5,7 @@ title: Albumin — Liver Synthesis, Nutrition & Transport
 aliases: [Z-009-0006, Albumin, Serum-Albumin, Liver-Synthesis, Nutrition, Transport]
 domain: 009
 tags: [zettel, biomarker, albumin, liver, nutrition, protein, transport]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -207,3 +207,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Albumin*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

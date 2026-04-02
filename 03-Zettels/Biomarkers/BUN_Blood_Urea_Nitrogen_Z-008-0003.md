@@ -6,7 +6,7 @@ title: BUN — Blood Urea Nitrogen
 aliases: [Z-008-0003, BUN, Blood-Urea-Nitrogen, Urea]
 domain: 008
 tags: [zettel, biomarker, bun, urea, nitrogen, kidney, protein-metabolism]
-parent-moc: 
+parent-moc: [[MOC-Metabolomics]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -218,3 +218,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — BUN*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Metabolomics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

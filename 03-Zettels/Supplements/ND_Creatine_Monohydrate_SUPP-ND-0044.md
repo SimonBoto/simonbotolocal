@@ -102,3 +102,10 @@ Take 6 capsules daily with water or as directed by your physician. Drink plenty 
 *Catalog created: 2026-03-31*  
 *Data source: naturaldoctor.gr*  
 *EOF notification: 7019/22-01-2025*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Research-Ethics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

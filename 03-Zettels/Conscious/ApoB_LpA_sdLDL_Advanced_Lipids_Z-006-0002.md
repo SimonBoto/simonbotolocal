@@ -5,7 +5,7 @@ title: ApoB Lp(a) sdLDL Advanced Lipid Risk Markers
 aliases: [Z-006-0002, ApoB, Lp(a), sdLDL, Advanced Lipids]
 domain: 006
 tags: [zettel, biomarker, lipid-metabolism, status/optimal, phd-methap]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 biomarker-type: advanced-lipid-panel
 apo-b-target: <90 mg/dL
 lp-a-target: <30 mg/dL
@@ -140,3 +140,10 @@ patient_id,visit,apo_b_mg_dl,lp_a_mg_dl,sdldl_mg_dl,advanced_lipid_status
 
 *Source: , *
 *Created: 2026-02-26 | Domain: 006 | Status: Conscious*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

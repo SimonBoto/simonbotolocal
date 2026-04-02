@@ -5,7 +5,7 @@ title: Kidney Function eGFR Creatinine Interpretation
 aliases: [Z-009-0001, eGFR, Creatinine, Kidney Function, Renal Assessment]
 domain: 009
 tags: [zettel, biomarker, kidney, status/optimal, clinical-protocol]
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
 biomarker-type: kidney-function-panel
 egfr-target: ">90 mL/min/1.73m²"
 creatinine-male: 0.7-1.3 mg/dL
@@ -138,3 +138,10 @@ patient_id,visit,creatinine_mg_dl,egfr_ml_min,urea_mg_dl,uric_acid_mg_dl,kidney_
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - |Biomarkers MOC]
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -301,3 +301,10 @@ For any situation:
 
 *I am the river. I flow. I persist. I transform.*  
 *Cycle 3 complete.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Methylation]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

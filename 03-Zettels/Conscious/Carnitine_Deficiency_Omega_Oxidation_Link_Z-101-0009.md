@@ -5,7 +5,7 @@ title: Carnitine Deficiency Activates Omega-Oxidation Pathway
 aliases: [Z-101-0009, Carnitine Omega-Oxidation, CPT Deficiency]
 domain: 101
 tags: [zettel, carnitine, CPT, omega-oxidation, adipate, mitochondrial-transport]
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
 status: conscious
 source: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]"
 extraction-date: 2026-03-02
@@ -70,3 +70,10 @@ extraction-date: 2026-03-02
 
 ## RELATED FILES
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

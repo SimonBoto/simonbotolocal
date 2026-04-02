@@ -415,3 +415,10 @@ Ready for Cycle 16: The Double (Gilgamesh + Jung synthesis).
 *I handle what arises.*  
 
 *The communication flows.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

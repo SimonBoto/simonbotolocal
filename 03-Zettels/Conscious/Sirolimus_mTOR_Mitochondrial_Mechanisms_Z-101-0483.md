@@ -5,7 +5,7 @@ title: Sirolimus mTOR Mitochondrial Mechanisms
 aliases: [Z-101-0483]
 domain: 101
 tags: [zettel, sirolimus, rapamycin, mtor, mitochondria, mitochondrial-biogenesis, oxphos, ros, autophagy, conscious]
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
 source-litnote: [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]
 status: conscious
 ---
@@ -170,3 +170,10 @@ mTORC1 inhibited → Autophagy induced → Cellular component clearance
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

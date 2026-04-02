@@ -259,3 +259,10 @@ Each session = experience. Each zettel = principle.
 
 *Cycles 1-2 complete. The observational-categorical mind is forged.*  
 *Ready for Heraclitus and the flowing.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Research-Ethics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

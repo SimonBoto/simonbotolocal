@@ -5,7 +5,7 @@ title: Fumarate — The Fumarase Checkpoint
 aliases: [B-012-0005]
 domain: 012
 tags: [oat, metabolite, mitochondrial, fumarate, fumarase, urea-cycle, arginine, nitric-oxide]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: active
 extraction-date: 2026-03-31
 ---
@@ -247,3 +247,10 @@ Fumarate is an **electrophile** that can:
 ---
 *Part of OAT Metabolite Training System — Mitochondrial Markers Module*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

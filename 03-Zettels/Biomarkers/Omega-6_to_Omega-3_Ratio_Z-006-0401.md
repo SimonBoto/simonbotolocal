@@ -6,7 +6,7 @@ title: Omega-6 to Omega-3 Ratio — Inflammatory Balance Index
 aliases: [Z-006-0401, Omega-6-3-Ratio, N6-N3-Ratio, Inflammatory-Balance]
 domain: 006
 tags: [zettel, biomarker, omega-6-3-ratio, n6-n3, inflammatory, balance]
-parent-moc: 
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -170,3 +170,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Omega-6:3 Ratio*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Lipid-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

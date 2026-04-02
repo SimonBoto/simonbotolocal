@@ -5,7 +5,7 @@ title: Meteoritic Nucleobases and Panspermia Hypothesis
 aliases: [Z-101-0455, panspermia, murchison-meteorite, extraterrestrial-nucleobases]
 domain: 101
 tags: [zettel, astrobiology, meteorites, panspermia, adenine, nucleobases]
-parent-moc: 
+parent-moc: [[MOC-Metabolomics]]
 status: conscious
 created: 2026-03-04
 source: [[L-101-0045B]
@@ -46,3 +46,10 @@ Extraterrestrial delivery solves abundance but not concentration problem — sti
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Metabolomics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -5,7 +5,7 @@ title: D-arabinitol — Candida Marker
 aliases: [Z-012-0106, D-arabinitol, Arabinitol, Candida, Yeast, Fungal]
 domain: 012
 tags: [zettel, biomarker, d-arabinitol, candida, yeast, fungal]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -133,3 +133,10 @@ source-litnote: Synthesized from clinical practice
 *Complete biomarker foundation — D-arabinitol*
 *Created: 2026-03-31*
 *Upgraded to Gen 2 standard*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

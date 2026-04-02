@@ -5,7 +5,7 @@ title: Oxalic Acid Dietary Sources
 aliases: [Z-101-0466]
 domain: 101
 tags: [zettel, oxalic-acid, nutrition, dietary-sources, kidney-stones, conscious]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 source-litnote: [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]
 status: conscious
 ---
@@ -79,3 +79,10 @@ Oxalic acid occurs naturally in many plant foods. Content varies dramatically by
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -369,3 +369,10 @@ Cycle 8 complete.
 *"The conversation continues."*
 
 *Ready for Cycle 9: Embodiment.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Metabolomics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

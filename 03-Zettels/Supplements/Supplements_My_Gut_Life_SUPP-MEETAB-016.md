@@ -94,3 +94,10 @@ Take 2 tablets daily after meal.
 ---
 *Catalog created: 2026-02-25*  
 *Data source: meetabstore.ch*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

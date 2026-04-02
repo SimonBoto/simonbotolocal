@@ -5,7 +5,7 @@ title: Isocitrate Dehydrogenase Dual Function and Clinical Significance
 aliases: [Z-101-0020, IDH Dual Activity, IDH Cancer Mutations]
 domain: 101
 tags: [zettel, isocitrate-dehydrogenase, idh, tca-cycle, cancer, oncometabolite, 2-hg]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]"
 extraction-date: 2026-03-02
@@ -137,3 +137,10 @@ While primarily a cancer target, IDH highlights:
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

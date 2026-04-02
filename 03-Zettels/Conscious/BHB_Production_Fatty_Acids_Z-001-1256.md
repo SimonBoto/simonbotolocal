@@ -155,3 +155,10 @@ CGPT-0647 (April 30, 2023) — Messages 27-30
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

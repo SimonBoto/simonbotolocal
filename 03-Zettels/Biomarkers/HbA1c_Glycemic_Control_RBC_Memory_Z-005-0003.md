@@ -6,7 +6,7 @@ title: HbA1c — Glycemic Control & Red Blood Cell Memory
 aliases: [Z-005-0003, HbA1c, Glycated-Hemoglobin, A1c, Glycemic-Control]
 domain: 005
 tags: [zettel, biomarker, hba1c, glycemic-control, diabetes, glucose-memory]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -252,3 +252,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — HbA1c*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

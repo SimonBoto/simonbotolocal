@@ -5,7 +5,7 @@ title: Folate 5-MTHF vs Folic Acid Methylation Forms
 aliases: [Z-004-0002, Folate, 5-MTHF, Methylfolate, Folic Acid]
 domain: 004
 tags: [zettel, biomarker, methylation, folate, mthfr, clinical-protocol]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 biomarker-type: folate-status
 form-5mthf: Active
 form-folic-acid: Synthetic
@@ -152,3 +152,10 @@ patient_id,visit,rbc_folate_ng_ml,5_mthf_ng_ml,mthfr_genotype,folate_form_used
 
 ## Related
 - [[Retest_Scheduling_Followup_Protocols_Z-004-0003]|Z-004-0003]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -5,7 +5,7 @@ title: DHA Metabolism Pathways
 aliases: [Z-101-0471]
 domain: 101
 tags: [zettel, dehydroascorbic-acid, dha, vitamin-c, metabolism, ascorbate, conscious]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 source-litnote: [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]
 status: conscious
 ---
@@ -106,3 +106,10 @@ See: [[Vitamin_C_to_Oxalate_Chemistry_Z-101-0469]
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

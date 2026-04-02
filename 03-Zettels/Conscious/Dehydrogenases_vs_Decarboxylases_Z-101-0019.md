@@ -5,7 +5,7 @@ title: Dehydrogenases vs Decarboxylases Distinction
 aliases: [Z-101-0019, Dehydrogenase Decarboxylase Difference, Enzyme Classification]
 domain: 101
 tags: [zettel, dehydrogenase, decarboxylase, enzyme-classification, redox, cofactors]
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
 status: conscious
 source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]"
 extraction-date: 2026-03-02
@@ -125,3 +125,10 @@ Isocitrate + NAD⁺ → α-ketoglutarate + CO₂ + NADH + H⁺
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

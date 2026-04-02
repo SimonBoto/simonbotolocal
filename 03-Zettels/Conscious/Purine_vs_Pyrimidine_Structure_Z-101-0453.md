@@ -5,7 +5,7 @@ title: Purine vs Pyrimidine Structure and Chemistry
 aliases: [Z-101-0453, purine-pyrimidine, nucleobase-chemistry]
 domain: 101
 tags: [zettel, nucleobases, purines, pyrimidines, biochemistry, structure]
-parent-moc: 
+parent-moc: [[MOC-Metabolomics]]
 status: conscious
 created: 2026-03-04
 source: [[L-101-0045A]
@@ -49,3 +49,10 @@ source: [[L-101-0045A]
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Metabolomics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

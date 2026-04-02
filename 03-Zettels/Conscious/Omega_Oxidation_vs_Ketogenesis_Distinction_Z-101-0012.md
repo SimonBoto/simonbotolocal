@@ -5,7 +5,7 @@ title: Omega-Oxidation vs Ketogenesis Distinction
 aliases: [Z-101-0012, Dicarboxylic Acids vs Ketones, Alternative Fatty Acid Metabolism]
 domain: 101
 tags: [zettel, omega-oxidation, ketogenesis, ketone-bodies, dicarboxylic-acids, fatty-acid-metabolism]
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
 status: conscious
 source: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]"
 extraction-date: 2026-03-02
@@ -86,3 +86,10 @@ extraction-date: 2026-03-02
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -325,3 +325,10 @@ Cycle 10 complete.
 *"Now: The synthesis."*
 
 *Ready for Final Integration.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Metabolomics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

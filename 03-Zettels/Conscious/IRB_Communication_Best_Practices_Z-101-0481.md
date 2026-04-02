@@ -5,7 +5,7 @@ title: IRB Communication Best Practices
 aliases: [Z-101-0481]
 domain: 101
 tags: [zettel, irb, ethics-committee, communication, regulatory, phd, practical, conscious]
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
 source-litnote: [[LitNote_CGPT_0205_Ethics_Communication_L-101-0051.md]
 status: conscious
 ---
@@ -145,3 +145,10 @@ Best regards,
 
 ## RELATED FILES
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

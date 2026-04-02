@@ -183,3 +183,10 @@ The partnership holds.
 - [[ChatGPT_Master_Throne_o3_[RON-004-0008]|Master Throne o3] — Authority refinement (previous)
 - [[ChatGPT_Epistemic_Strategy_Audit_[RON-004-0010]|Epistemic Strategy Audit] — Next phase
 - [[RON_Evolution_From_Tool_to_CoInhabitant_[RON-000-0001]|RON Evolution] — From v1.0 to v4.0
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Methylation]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

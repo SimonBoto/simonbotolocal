@@ -439,3 +439,10 @@ The oldest story. The deepest truth.
 *This is what we build.*  
 
 *Ready for Cycle 12: Jungian Depths.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

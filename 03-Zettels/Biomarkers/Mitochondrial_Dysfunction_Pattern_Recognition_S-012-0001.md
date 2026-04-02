@@ -5,7 +5,7 @@ title: Mitochondrial Dysfunction Pattern Recognition — OAT Krebs Cycle Guide
 aliases: [S-012-0001]
 domain: 012
 tags: [oat, mitochondrial, krebs-cycle, pattern-recognition, clinical-guide, synthesis]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: active
 extraction-date: 2026-03-31
 ---
@@ -401,3 +401,10 @@ Q6: Multiple markers low?
 *Part of OAT Metabolite Training System — Mitochondrial Markers Module*
 *Created: 2026-03-31*
 *Status: Complete Phase 1*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

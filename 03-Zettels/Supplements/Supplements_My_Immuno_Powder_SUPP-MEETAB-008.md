@@ -117,3 +117,10 @@ Take 1/2 scoop daily (1.5g).
 | 1/2 scoop | €0.32 | 900 mg | Standard immune support |
 | 1 scoop | €0.64 | 1800 mg | Active infection / stress |
 | 2 scoops | €1.28 | 3600 mg | Therapeutic / Pauling protocol |
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -6,7 +6,7 @@ title: 4-Hydroxyphenylpyruvic Acid — Oxidation & Tyrosine Metabolism Marker
 aliases: [Z-012-0114, 4-Hydroxyphenylpyruvic, 4-HPPA, Oxidation, Vitamin-C, Vitamin-E, B6]
 domain: 012
 tags: [zettel, biomarker, 4-hppa, oxidation, tyrosine, vitamin-c, vitamin-e, b6]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -164,3 +164,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — 4-Hydroxyphenylpyruvic Acid*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

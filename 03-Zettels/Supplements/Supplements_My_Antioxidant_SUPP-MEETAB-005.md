@@ -104,3 +104,10 @@ Very similar formula to My Shape — possibly the same base formula with differe
 | 2 tablets | €2.10 | Moderate antioxidant support |
 | 3 tablets | €3.15 | High oxidative stress |
 | 4 tablets | €4.20 | Maximum therapeutic dose |
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -6,7 +6,7 @@ aliases: [Z-002-0616, methap-design, study-overview]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, methap, study-design, clinical-trial, metabolomics]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: "[[LitNote_METHAP_Study_Design_Protocol_L-002-0604]"
 confidence: high
 created: 2026-03-27
@@ -68,3 +68,10 @@ METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-section
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

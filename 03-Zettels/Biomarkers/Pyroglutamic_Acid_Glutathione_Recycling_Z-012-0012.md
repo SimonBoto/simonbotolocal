@@ -6,7 +6,7 @@ title: Pyroglutamic Acid — Glutathione Recycling Marker
 aliases: [Z-012-0012, Pyroglutamic-Acid, 5-Oxoproline, Glutathione-Recycling, GSH-Synthesis]
 domain: 012
 tags: [zettel, biomarker, pyroglutamic, 5-oxoproline, glutathione, gsh, recycling]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -203,3 +203,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Pyroglutamic Acid*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

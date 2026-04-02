@@ -5,7 +5,7 @@ title: METHAP Supplement Protocol
 aliases: [Z-101-0475]
 domain: 101
 tags: [zettel, methap, supplements, intervention, vitamin-d, magnesium, omega-3, safety, conscious]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 source-litnote: [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]
 status: conscious
 ---
@@ -156,3 +156,10 @@ See: [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

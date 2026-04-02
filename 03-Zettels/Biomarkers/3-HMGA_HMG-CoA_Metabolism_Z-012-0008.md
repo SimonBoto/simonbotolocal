@@ -6,7 +6,7 @@ title: 3-HMGA — 3-Hydroxy-3-methylglutaric Acid, HMG-CoA Metabolism
 aliases: [Z-012-0008, 3-HMGA, HMG-CoA, Ketogenesis, Leucine-Metabolism]
 domain: 012
 tags: [zettel, biomarker, 3-hmga, hmg-coa, ketogenesis, leucine]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -158,3 +158,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — 3-HMGA*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

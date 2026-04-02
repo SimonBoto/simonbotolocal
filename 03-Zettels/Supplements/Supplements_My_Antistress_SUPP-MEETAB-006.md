@@ -117,3 +117,10 @@ Take 1 tablet daily.
 | Units | Daily Cost | Use Case |
 |-------|------------|----------|
 | 1 tablet | €1.05 | Standard adaptogen dose |
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

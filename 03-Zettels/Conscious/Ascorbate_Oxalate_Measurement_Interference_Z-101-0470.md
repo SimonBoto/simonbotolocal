@@ -5,7 +5,7 @@ title: Ascorbate Oxalate Measurement Interference
 aliases: [Z-101-0470]
 domain: 101
 tags: [zettel, vitamin-c, oxalate, laboratory, measurement, interference, clinical-chemistry, conscious]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 source-litnote: [[LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md]
 status: conscious
 ---
@@ -98,3 +98,10 @@ High vitamin C (ascorbic acid) intake can cause **false positive oxalate measure
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

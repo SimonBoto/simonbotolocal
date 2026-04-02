@@ -111,3 +111,9 @@ The answer depends on:
 *Created: 2026-02-27 23:55*  
 *Zone: My Room (L4)*  
 *Status: Active hypothesis*
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Research-Ethics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

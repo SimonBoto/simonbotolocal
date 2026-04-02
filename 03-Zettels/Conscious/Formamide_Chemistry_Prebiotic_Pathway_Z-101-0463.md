@@ -5,7 +5,7 @@ title: "Formamide Chemistry: Alternative Prebiotic Pathway"
 aliases: [Z-101-0463, formamide-chemistry, alternative-prebiotic]
 domain: 101
 tags: [zettel, formamide, prebiotic-chemistry, nucleobase-synthesis, alternative-pathway]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 created: 2026-03-04
 source: [[L-101-0045B]
@@ -100,3 +100,10 @@ Multiple pathways (HCN, formamide, meteoritic delivery) increase probability of 
 
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

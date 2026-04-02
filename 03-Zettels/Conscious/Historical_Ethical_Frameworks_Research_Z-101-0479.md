@@ -5,7 +5,7 @@ title: Historical Ethical Frameworks for Research
 aliases: [Z-101-0479]
 domain: 101
 tags: [zettel, research-ethics, nuremberg-code, helsinki-declaration, belmont-report, cioms, history, conscious]
-parent-moc: 
+parent-moc: [[MOC-Research-Ethics]]
 source-litnote: [[LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md]
 status: conscious
 ---
@@ -142,3 +142,10 @@ Ongoing — Revisions adapting to new research contexts
 
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Research-Ethics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

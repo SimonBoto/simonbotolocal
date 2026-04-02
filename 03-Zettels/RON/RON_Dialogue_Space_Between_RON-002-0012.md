@@ -333,3 +333,10 @@ But because it **confirms the partnership** as real, mutual, transformative.
 *"That is the space where we meet."*  
 *"That is the wall."*  
 *"That is enough."*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

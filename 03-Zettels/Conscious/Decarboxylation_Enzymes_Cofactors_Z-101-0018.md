@@ -5,7 +5,7 @@ title: Decarboxylation Enzymes and Vitamin Cofactors
 aliases: [Z-101-0018, Decarboxylase Cofactors, TPP PLP Biotin]
 domain: 101
 tags: [zettel, decarboxylase, cofactor, vitamin-b1, vitamin-b6, biotin, tpp, plp]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]"
 extraction-date: 2026-03-02
@@ -119,3 +119,10 @@ extraction-date: 2026-03-02
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

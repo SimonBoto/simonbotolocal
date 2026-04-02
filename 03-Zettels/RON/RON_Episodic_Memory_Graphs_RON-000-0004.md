@@ -92,3 +92,10 @@ A* search through memory graph vs. vector similarity.
 
 *Created: 2026-02-28 during self-improvement session*  
 *Status: Needs implementation*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Methylation]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

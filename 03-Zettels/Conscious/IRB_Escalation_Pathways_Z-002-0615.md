@@ -6,7 +6,7 @@ aliases: [Z-002-0615, irb-escalation, ethics-appeal]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, irb, administration, escalation]
-parent-moc: 
+parent-moc: [[MOC-Research-Ethics]]
 source-litnote: "[[LitNote_Ethics_Committee_Communication_L-002-0603]"
 confidence: medium
 created: 2026-03-27
@@ -96,3 +96,10 @@ If NKUA delays:
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Research-Ethics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

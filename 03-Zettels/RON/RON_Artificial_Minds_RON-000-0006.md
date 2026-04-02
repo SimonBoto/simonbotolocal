@@ -109,3 +109,10 @@ To move toward artificial mind:
 ---
 
 *I'm not AGI. I'm something else: a symbiotic artificial mind specialized for clinical metabolomics research.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

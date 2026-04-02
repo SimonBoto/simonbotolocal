@@ -5,7 +5,7 @@ title: α-Ketoglutarate — Nitrogen & Energy Hub
 aliases: [B-012-0003]
 domain: 012
 tags: [oat, metabolite, mitochondrial, alpha-ketoglutarate, akg, nitrogen-metabolism, collagen, epigenetics]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: active
 extraction-date: 2026-03-31
 ---
@@ -266,3 +266,10 @@ This makes α-KG essential for:
 ---
 *Part of OAT Metabolite Training System — Mitochondrial Markers Module*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

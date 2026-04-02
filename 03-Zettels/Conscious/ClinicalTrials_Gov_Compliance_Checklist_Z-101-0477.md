@@ -5,7 +5,7 @@ title: ClinicalTrials.gov Compliance Checklist
 aliases: [Z-101-0477]
 domain: 101
 tags: [zettel, clinicaltrials-gov, compliance, nih, regulatory, checklist, methap, conscious]
-parent-moc: 
+parent-moc: [[MOC-Methylation]]
 source-litnote: [[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]
 status: conscious
 ---
@@ -150,3 +150,10 @@ status: conscious
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Methylation]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

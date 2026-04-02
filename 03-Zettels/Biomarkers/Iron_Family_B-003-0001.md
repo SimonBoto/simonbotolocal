@@ -6,7 +6,7 @@ title: Iron Studies Family (Ferritin, Iron, TIBC, Transferrin Saturation) - Clin
 aliases: [B-003-0001, Iron-Panel, Ferritin, TIBC, Transferrin, Iron-Studies]
 domain: 003
 tags: [biomarker, iron, ferritin, anemia, hemochromatosis, inflammation]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: active
 created: 2026-03-30
 source-litnote: Synthesized from clinical practice
@@ -310,3 +310,10 @@ source-litnote: Synthesized from clinical practice
 source-litnote: Synthesized from clinical practice
 ---
 status: footer
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

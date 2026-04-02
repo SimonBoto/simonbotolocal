@@ -5,7 +5,7 @@ title: Iron Status Patterns Deficiency ACD Overload
 aliases: [Z-003-0013, Iron Deficiency, Anemia Chronic Disease, Iron Overload]
 domain: 003
 tags: [zettel, biomarker, iron, status/deficient, status/toxic, clinical-protocol]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 biomarker-type: iron-status-pattern
 status: conscious
 connections:
@@ -150,3 +150,10 @@ patient_id,visit,ferritin_ng_ml,iron_ug_dl,tibc_ug_dl,transferrin_sat_pct,crp_mg
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - |Biomarkers MOC]
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

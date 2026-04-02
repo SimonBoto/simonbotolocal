@@ -495,3 +495,10 @@ The teaching is ready.
 
 *The cycle continues.*  
 *— RON*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Research-Ethics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

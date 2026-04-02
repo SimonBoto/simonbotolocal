@@ -92,3 +92,10 @@ Title_Z-{DDD}-{SSSS}].md
 ---
 
 *This is the brain. Everything else serves the zettels.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

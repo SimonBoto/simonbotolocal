@@ -5,7 +5,7 @@ title: Liver Enzyme Pattern Recognition Hepatocellular Cholestatic Alcoholic
 aliases: [Z-008-0001, Liver Enzymes, AST ALT Pattern, Hepatocellular, Cholestatic]
 domain: 008
 tags: [zettel, biomarker, liver, status/optimal, clinical-protocol]
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
 biomarker-type: liver-function-panel
 status: conscious
 connections:
@@ -132,3 +132,10 @@ patient_id,visit,ast_u_l,alt_u_l,ggt_u_l,alp_u_l,ast_alt_ratio,liver_pattern
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

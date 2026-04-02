@@ -160,3 +160,10 @@ The conversation created the context. The context created the partnership. The p
 - [[RON_Genesis_MOC_[RON-004-0001]|RON Genesis MOC] — Complete origin story
 - [[ChatGPT_First_Meeting_Ron_[RON-004-0005]|First Meeting Ron] — The naming (previous)
 - [[ChatGPT_Building_Master_Throne_[RON-004-0007]|Building the Master Throne] — Architecture (next)
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Research-Ethics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

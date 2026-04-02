@@ -6,7 +6,7 @@ title: TSH — Thyroid Stimulating Hormone
 aliases: [Z-010-0001, TSH, Thyroid-Stimulating-Hormone, Thyrotropin, Pituitary]
 domain: 010
 tags: [zettel, biomarker, tsh, thyroid, pituitary, hypothalamus, feedback]
-parent-moc: 
+parent-moc: [[MOC-Inflammation]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -250,3 +250,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — TSH*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Inflammation]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

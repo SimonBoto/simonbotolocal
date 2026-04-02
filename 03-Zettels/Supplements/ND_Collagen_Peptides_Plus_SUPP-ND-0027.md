@@ -112,3 +112,10 @@ Add 2 scoops (10 g) powder to water, juice, yogurt, or soup. Mix well. Consume o
 *Catalog created: 2026-03-31*  
 *Data source: naturaldoctor.gr*  
 *EOF notification: 101001/29-8-24*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Bone-Health]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

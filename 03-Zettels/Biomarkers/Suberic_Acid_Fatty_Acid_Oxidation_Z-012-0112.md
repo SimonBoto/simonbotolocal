@@ -6,7 +6,7 @@ title: Suberic Acid — Fatty Acid Oxidation Marker (8-Carbon)
 aliases: [Z-012-0112, Suberic-Acid, Suberate, Octanedioic-Acid, Fatty-Acid-Oxidation]
 domain: 012
 tags: [zettel, biomarker, suberic, fatty-acid-oxidation, dicarboxylic]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -143,3 +143,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Suberic Acid*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

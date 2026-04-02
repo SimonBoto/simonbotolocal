@@ -5,7 +5,7 @@ title: DHA — Docosahexaenoic Acid, Brain Omega-3
 aliases: [Z-006-0103, DHA, Docosahexaenoic, Omega-3, Brain, Retina]
 domain: 006
 tags: [zettel, biomarker, dha, omega-3, brain, retina, neurological]
-parent-moc: 
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -136,3 +136,10 @@ source-litnote: Synthesized from clinical practice
 *Complete biomarker foundation — DHA*
 *Created: 2026-03-31*
 *Upgraded to Gen 2 standard*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Lipid-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

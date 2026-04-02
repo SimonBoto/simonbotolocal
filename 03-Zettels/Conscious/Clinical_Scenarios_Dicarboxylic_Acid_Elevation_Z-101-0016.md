@@ -5,7 +5,7 @@ title: Clinical Scenarios Causing Dicarboxylic Acid Elevation
 aliases: [Z-101-0016, When to Test Dicarboxylic Acids, Clinical Indications]
 domain: 101
 tags: [zettel, clinical-scenarios, dicarboxylic-acid, indications, screening, metabolic-workup]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source: "[[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]"
 extraction-date: 2026-03-02
@@ -134,3 +134,10 @@ Suspect FAOD/dicarboxylic aciduria?
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

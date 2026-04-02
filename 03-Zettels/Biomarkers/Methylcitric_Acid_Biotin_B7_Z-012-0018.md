@@ -6,7 +6,7 @@ title: Methylcitric Acid — Biotin (B7) & Propionate Metabolism Marker
 aliases: [Z-012-0018, Methylcitric-Acid, Biotin, B7, Propionate, Odd-Chain-Fatty-Acids]
 domain: 012
 tags: [zettel, biomarker, methylcitric, biotin, b7, propionate, deficiency]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -172,3 +172,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Methylcitric Acid*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

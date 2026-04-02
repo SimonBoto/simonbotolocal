@@ -103,3 +103,10 @@ Take 2 capsules with water, three times daily (6 total), for up to one week or a
 *Catalog created: 2026-03-31*  
 *Data source: naturaldoctor.gr*  
 *EOF notification: 31138/29-3-2023*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Methylation]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

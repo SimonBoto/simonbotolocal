@@ -6,7 +6,7 @@ title: Vitamin B12 (Serum) — Cobalamin Status
 aliases: [Z-004-0003, B12, Vitamin-B12, Cobalamin, Serum-B12]
 domain: 004
 tags: [zettel, biomarker, b12, cobalamin, vitamin, methylation, neurological]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -234,3 +234,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Vitamin B12 (Serum)*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

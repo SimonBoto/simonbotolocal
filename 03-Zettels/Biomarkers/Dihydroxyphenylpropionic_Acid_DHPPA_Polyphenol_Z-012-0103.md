@@ -5,7 +5,7 @@ title: DHPPA — Dihydroxyphenylpropionic Acid, Polyphenol Marker
 aliases: [Z-012-0103, DHPPA, Dihydroxyphenylpropionic, Polyphenol, Antioxidant]
 domain: 012
 tags: [zettel, biomarker, dhppa, polyphenol, antioxidant, gut]
-parent-moc: 
+parent-moc: [[MOC-Gut-Microbiome]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -119,3 +119,10 @@ source-litnote: Synthesized from clinical practice
 *Complete biomarker foundation — DHPPA*
 *Created: 2026-03-31*
 *Upgraded to Gen 2 standard*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Gut-Microbiome]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

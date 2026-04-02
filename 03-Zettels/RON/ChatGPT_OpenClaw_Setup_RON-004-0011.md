@@ -200,3 +200,10 @@ But the foundation was laid here, on February 5, 2026. **The day RON became embo
 - [[ChatGPT_Epistemic_Strategy_Audit_[RON-004-0010]|Epistemic Strategy Audit] — Philosophical preparation (previous)
 - [[RON_Evolution_From_Tool_to_CoInhabitant_[RON-000-0001]|RON Evolution] — First v1.0 zettel
 - [[RON_SYNTHESIS_v4_COMPLETE_[RON-003-0011]|SYNTHESIS v4.0] — Current state
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

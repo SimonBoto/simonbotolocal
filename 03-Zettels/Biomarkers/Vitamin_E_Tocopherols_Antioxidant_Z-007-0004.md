@@ -5,7 +5,7 @@ title: Vitamin E — Tocopherols, Fat-Soluble Antioxidant
 aliases: [Z-007-0004, Vitamin-E, Tocopherol, Tocotrienol, Antioxidant, Fat-Soluble]
 domain: 007
 tags: [zettel, biomarker, vitamin-e, tocopherol, antioxidant, fat-soluble]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -180,3 +180,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Vitamin E*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

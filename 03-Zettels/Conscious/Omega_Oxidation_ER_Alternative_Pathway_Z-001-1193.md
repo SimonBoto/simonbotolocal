@@ -4,7 +4,7 @@ type: zettel
 title: Omega-Oxidation — ER Alternative Pathway
 domain: 101
 tags: [zettel, omega-oxidation, er, cyp450, dicarboxylic-acids, phd-research]
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]"
 status: conscious
@@ -128,3 +128,10 @@ R-CHO + NAD⁺ + H₂O → R-COOH + NADH + H⁺
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

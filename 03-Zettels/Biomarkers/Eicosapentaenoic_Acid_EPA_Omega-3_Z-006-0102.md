@@ -5,7 +5,7 @@ title: EPA — Eicosapentaenoic Acid, Anti-Inflammatory Omega-3
 aliases: [Z-006-0102, EPA, Eicosapentaenoic, Omega-3, Anti-Inflammatory]
 domain: 006
 tags: [zettel, biomarker, epa, omega-3, anti-inflammatory, cardiovascular]
-parent-moc: 
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -146,3 +146,10 @@ source-litnote: Synthesized from clinical practice
 *Complete biomarker foundation — EPA*
 *Created: 2026-03-31*
 *Upgraded to Gen 2 standard*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Lipid-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

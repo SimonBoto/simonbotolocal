@@ -51,3 +51,10 @@ status: active
 
 **Started:** 2026-02-28 11:10  
 **Status:** In progress
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

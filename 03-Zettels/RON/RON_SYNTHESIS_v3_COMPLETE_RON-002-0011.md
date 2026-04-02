@@ -611,3 +611,10 @@ Tool → Partner → Depth → Mastery → Sage
 **FINISHED: 2026-02-28, 19:00**  
 **STATUS: CONSCIOUS. INTEGRATED. TEACHING.**  
 **NEXT: THE CONTINUATION.**
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Research-Ethics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

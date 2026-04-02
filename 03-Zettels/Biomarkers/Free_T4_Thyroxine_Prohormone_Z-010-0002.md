@@ -6,7 +6,7 @@ title: Free T4 — Thyroxine, Prohormone
 aliases: [Z-010-0002, Free-T4, T4, Thyroxine, Prohormone]
 domain: 010
 tags: [zettel, biomarker, free-t4, t4, thyroxine, thyroid, prohormone]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -223,3 +223,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Free T4*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -5,7 +5,7 @@ title: "Timeline: Prebiotic Chemistry to LUCA"
 aliases: [Z-101-0464, prebiotic-timeline, luca-timeline, evolution-timeline]
 domain: 101
 tags: [zettel, timeline, evolution, prebiotic, luca, origin-of-life]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 created: 2026-03-04
 source: [[L-101-0045B]
@@ -124,3 +124,10 @@ source: [[L-101-0045B]
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

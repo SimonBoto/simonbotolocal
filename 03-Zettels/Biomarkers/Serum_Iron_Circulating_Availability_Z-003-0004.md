@@ -6,7 +6,7 @@ title: Serum Iron — Circulating Iron Availability
 aliases: [Z-003-0004, Serum-Iron, Circulating-Iron, Iron-Level]
 domain: 003
 tags: [zettel, biomarker, iron, serum-iron, circulating, acute-phase]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -201,3 +201,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Serum Iron*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

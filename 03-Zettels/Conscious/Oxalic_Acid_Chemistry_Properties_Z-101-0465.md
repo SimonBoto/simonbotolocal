@@ -5,7 +5,7 @@ title: Oxalic Acid Chemistry and Properties
 aliases: [Z-101-0465]
 domain: 101
 tags: [zettel, oxalic-acid, chemistry, dicarboxylic-acid, adipic-acid-domain, conscious]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 source-litnote: [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]
 status: conscious
 ---
@@ -57,3 +57,10 @@ status: conscious
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

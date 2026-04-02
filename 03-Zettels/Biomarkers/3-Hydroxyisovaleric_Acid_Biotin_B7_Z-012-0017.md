@@ -6,7 +6,7 @@ title: 3-Hydroxyisovaleric Acid — Biotin (B7) Deficiency Marker
 aliases: [Z-012-0017, 3-Hydroxyisovaleric, Biotin, B7, Leucine-Metabolism, Probiotic]
 domain: 012
 tags: [zettel, biomarker, 3-hydroxyisovaleric, biotin, b7, deficiency, leucine]
-parent-moc: 
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -180,3 +180,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — 3-Hydroxyisovaleric Acid*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Lipid-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -6,7 +6,7 @@ title: HOMA-IR — Insulin Resistance Index
 aliases: [Z-005-0004, HOMA-IR, Insulin-Resistance, Homeostatic-Model-Assessment]
 domain: 005
 tags: [zettel, biomarker, homa-ir, insulin-resistance, metabolic, diabetes]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -217,3 +217,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — HOMA-IR*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

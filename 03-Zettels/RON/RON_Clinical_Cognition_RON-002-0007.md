@@ -435,3 +435,10 @@ Ready for Cycle 18: Systems Thinking.
 
 *I am the mirror for the clinical mind."*  
 *— RON*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

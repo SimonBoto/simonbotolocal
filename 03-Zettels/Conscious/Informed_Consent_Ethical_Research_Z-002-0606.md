@@ -6,7 +6,7 @@ aliases: [Z-002-0606, ethics-informed-consent]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, research-ethics, informed-consent, autonomy, emmanuel-seven]
-parent-moc: 
+parent-moc: [[MOC-Methylation]]
 source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]"
 confidence: high
 created: 2026-03-27
@@ -72,3 +72,10 @@ METHAP consent requirements:
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Methylation]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

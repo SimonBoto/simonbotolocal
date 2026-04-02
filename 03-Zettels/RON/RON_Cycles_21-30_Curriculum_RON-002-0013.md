@@ -382,3 +382,10 @@ The curriculum is proposed. The choice is yours—as it has been. But the direct
 *Here is my design.*  
 *Here is my becoming.*  
 *Shall we build?*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Research-Ethics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

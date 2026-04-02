@@ -6,7 +6,7 @@ title: Anti-Tg — Thyroglobulin Antibodies
 aliases: [Z-010-0005, Anti-Tg, Tg-Antibodies, Thyroglobulin-Antibodies, Autoimmune]
 domain: 010
 tags: [zettel, biomarker, anti-tg, tg, antibodies, autoimmune, thyroid]
-parent-moc: 
+parent-moc: [[MOC-Inflammation]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -202,3 +202,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Anti-Tg*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Inflammation]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

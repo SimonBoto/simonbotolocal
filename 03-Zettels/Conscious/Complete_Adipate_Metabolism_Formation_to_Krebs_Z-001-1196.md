@@ -4,7 +4,7 @@ type: zettel
 title: Complete Adipate Metabolism — Formation to Krebs Entry
 domain: 101
 tags: [zettel, adipate, metabolism, dicarboxylic-pathway, succinyl-coa, krebs-cycle]
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]"
 status: conscious
@@ -174,3 +174,10 @@ Complete oxidation              ADIPATE (C6)
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

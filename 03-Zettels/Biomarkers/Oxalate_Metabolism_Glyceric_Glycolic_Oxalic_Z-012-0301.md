@@ -5,7 +5,7 @@ title: Oxalate Metabolism — Glyceric, Glycolic & Oxalic Acids
 aliases: [Z-012-0301, Oxalate, Oxalic-Acid, Glyceric-Acid, Glycolic-Acid, Kidney-Stones]
 domain: 012
 tags: [zettel, biomarker, oxalate, oxalic, kidney-stones, toxicity]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -149,3 +149,10 @@ source-litnote: Synthesized from clinical practice
 *Complete biomarker foundation — Oxalate Metabolism*
 *Created: 2026-03-31*
 *Upgraded to Gen 2 standard*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

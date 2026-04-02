@@ -5,7 +5,7 @@ title: Ferritin Interpretation Iron Status and Inflammation
 aliases: [Z-003-0001, Ferritin, Iron Storage, Acute Phase Reactant]
 domain: 003
 tags: [zettel, biomarker, iron, status/optimal, clinical-protocol]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 biomarker-type: iron-storage-inflammation-composite
 target-range: 30-150 ng/mL (storage iron)
 status: conscious
@@ -179,3 +179,10 @@ patient_id,visit,ferritin_ng_ml,crp_mg_l,sTfR_mg_l,iron_status
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - |Biomarkers MOC]
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

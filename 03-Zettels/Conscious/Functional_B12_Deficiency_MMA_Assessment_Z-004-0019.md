@@ -5,7 +5,7 @@ title: Functional B12 Deficiency MMA and Homocysteine Assessment
 aliases: [Z-004-0019, Functional B12 Deficiency, MMA, Methylmalonic Acid]
 domain: 004
 tags: [zettel, biomarker, methylation, b12, status/deficient, clinical-protocol]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 biomarker-type: functional-nutrient-status
 mma-threshold: <271 nmol/L
 homocysteine-threshold: <10 μmol/L
@@ -208,3 +208,10 @@ patient_id,visit,serum_b12_pg_ml,mma_nmol_l,homocysteine_umol_l,functional_statu
 - s/Iron_Family_[B-003-0001]|Biomarker Family Guide]
 - |Biomarkers MOC]
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

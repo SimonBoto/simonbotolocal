@@ -5,7 +5,7 @@ title: Adipate Metabolism and TCA Cycle Entry
 aliases: [Z-101-0010, Adipate to Acetyl-CoA, Dicarboxylic Acid Catabolism]
 domain: 101
 tags: [zettel, adipate, TCA-cycle, beta-oxidation, acetyl-CoA, succinyl-CoA]
-parent-moc: 
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
 source-litnote: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]"
 extraction-date: 2026-03-02
@@ -69,3 +69,10 @@ extraction-date: 2026-03-02
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Lipid-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

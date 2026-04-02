@@ -74,3 +74,10 @@ Dissolve 1/2 dose in cold or room temperature water. **DO NOT USE IN HOT OR BOIL
 ---
 *Catalog created: 2026-02-25*  
 *Data source: meetabstore.ch*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

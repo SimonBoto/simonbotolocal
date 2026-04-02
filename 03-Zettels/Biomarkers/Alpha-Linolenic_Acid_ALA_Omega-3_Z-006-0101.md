@@ -5,7 +5,7 @@ title: ALA — Alpha-Linolenic Acid, Plant Omega-3
 aliases: [Z-006-0101, ALA, Alpha-Linolenic, Omega-3, Plant-Based]
 domain: 006
 tags: [zettel, biomarker, ala, omega-3, plant, essential]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -178,3 +178,10 @@ ALA → EPA → DHA (very limited in humans)
 *Complete biomarker foundation — ALA*
 *Created: 2026-03-31*
 *Upgraded to Gen 2 standard*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

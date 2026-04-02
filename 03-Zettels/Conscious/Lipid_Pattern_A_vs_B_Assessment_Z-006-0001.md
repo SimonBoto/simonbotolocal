@@ -5,7 +5,7 @@ title: Lipid Pattern A vs Pattern B Assessment
 aliases: [Z-006-0001, Lipid Pattern, Pattern A, Pattern B, LDL Phenotype]
 domain: 006
 tags: [zettel, biomarker, lipid-metabolism, status/optimal, clinical-protocol]
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
 biomarker-type: lipid-pattern
 target-ratio: LDL/ApoB >1.2 = Pattern A
 status: conscious
@@ -185,3 +185,10 @@ patient_id,visit,ldl_c_mg_dl,apo_b_mg_dl,ldl_apob_ratio,pattern_type,tg_hdl_rati
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

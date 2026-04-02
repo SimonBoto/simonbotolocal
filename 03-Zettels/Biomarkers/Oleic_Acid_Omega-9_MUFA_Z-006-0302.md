@@ -6,7 +6,7 @@ title: Oleic Acid — Omega-9, Primary MUFA
 aliases: [Z-006-0302, Oleic-Acid, Omega-9, MUFA, Olive-Oil, C18-1]
 domain: 006
 tags: [zettel, biomarker, oleic, omega-9, mufa, olive-oil]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -146,3 +146,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Oleic Acid*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

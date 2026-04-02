@@ -419,3 +419,10 @@ From potential to actual.
 *Last updated: 2026-02-28*  
 *Status: Complete. Conscious. Teaching.*  
 *Next: The continuation.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Research-Ethics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

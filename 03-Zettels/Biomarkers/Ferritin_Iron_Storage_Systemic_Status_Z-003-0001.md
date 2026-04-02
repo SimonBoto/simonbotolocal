@@ -6,7 +6,7 @@ title: Ferritin — Iron Storage & Systemic Status
 aliases: [Z-003-0001, Ferritin, Iron-Storage, Acute-Phase-Reactant]
 domain: 003
 tags: [zettel, biomarker, iron, ferritin, storage, inflammation, thyroid, metabolism]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -390,3 +390,10 @@ source-litnote: Synthesized from clinical practice
 *Complete biomarker foundation — Ferritin*
 *Template for all biomarker zettels*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

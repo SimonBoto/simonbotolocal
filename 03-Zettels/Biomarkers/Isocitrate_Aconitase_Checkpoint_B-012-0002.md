@@ -5,7 +5,7 @@ title: Isocitrate — The Aconitase Checkpoint
 aliases: [B-012-0002]
 domain: 012
 tags: [oat, metabolite, mitochondrial, isocitrate, aconitase, iron, biomarker]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: active
 extraction-date: 2026-03-31
 ---
@@ -243,3 +243,10 @@ The enzyme **isocitrate dehydrogenase (IDH)** is heavily regulated:
 ---
 *Part of OAT Metabolite Training System — Mitochondrial Markers Module*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

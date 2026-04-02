@@ -6,7 +6,7 @@ title: Calprotectin - Gut Inflammation Marker
 aliases: [B-002-0002, Calprotectin, Fecal-Calprotectin, Gut-Inflammation]
 domain: 002
 tags: [biomarker, gut, inflammation, ibd, intestinal]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: active
 created: 2026-03-30
 source-litnote: Synthesized from clinical practice
@@ -72,3 +72,10 @@ source-litnote: Synthesized from clinical practice
 source-litnote: Synthesized from clinical practice
 ---
 status: footer
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

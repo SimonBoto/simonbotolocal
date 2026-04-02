@@ -5,7 +5,7 @@ title: Thyroid Optimal Ranges TSH fT3 fT4 Beyond Standard
 aliases: [Z-005-0001, Thyroid Optimal, TSH Target, fT3 fT4]
 domain: 005
 tags: [zettel, biomarker, thyroid, status/optimal, clinical-protocol]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 biomarker-type: thyroid-function-panel
 tsh-optimal: 0.5-2.5 mIU/L
 tsh-standard: 0.4-4.0 mIU/L
@@ -134,3 +134,10 @@ patient_id,visit,tsh_miu_l,ft3_pg_ml,ft4_ng_dl,thyroid_status
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - |Biomarkers MOC]
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -6,7 +6,7 @@ title: Glycolic Acid — Protein Digestion & SIBO Marker
 aliases: [Z-012-0110, Glycolic-Acid, Glycolate, Protein-Digestion, SIBO, Oxalate-Precursor]
 domain: 012
 tags: [zettel, biomarker, glycolic, protein-digestion, sibo, oxalate]
-parent-moc: 
+parent-moc: [[MOC-Gut-Microbiome]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -167,3 +167,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Glycolic Acid*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Gut-Microbiome]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

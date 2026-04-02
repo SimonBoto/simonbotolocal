@@ -5,7 +5,7 @@ title: CBC Complete Blood Count Patterns Clinical Interpretation
 aliases: [Z-000-0001, CBC, Complete Blood Count, WBC, Hematocrit, Platelets]
 domain: 000
 tags: [zettel, biomarker, cbc, hematology, clinical-protocol]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 biomarker-type: complete-blood-count
 status: conscious
 connections:
@@ -154,3 +154,10 @@ patient_id,visit,wbc_k_u_l,hematocrit_pct,hemoglobin_g_dl,platelets_k_u_l,mcv_fl
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - |Biomarkers MOC]
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -105,3 +105,10 @@ Take 1-2 capsules daily with water or as directed by your physician. Drink plent
 *Catalog created: 2026-03-31*  
 *Data source: naturaldoctor.gr*  
 *EOF notification: 113031/25-11-2025*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Inflammation]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

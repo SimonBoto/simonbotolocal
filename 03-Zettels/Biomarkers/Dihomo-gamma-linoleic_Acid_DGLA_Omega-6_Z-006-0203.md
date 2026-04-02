@@ -5,7 +5,7 @@ title: DGLA — Dihomo-gamma-linolenic Acid, Anti-Inflammatory Omega-6
 aliases: [Z-006-0203, DGLA, Dihomo-gamma-linolenic, Omega-6, Anti-Inflammatory]
 domain: 006
 tags: [zettel, biomarker, dgla, omega-6, anti-inflammatory]
-parent-moc: 
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -118,3 +118,10 @@ source-litnote: Synthesized from clinical practice
 *Complete biomarker foundation — DGLA*
 *Created: 2026-03-31*
 *Upgraded to Gen 2 standard*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Lipid-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

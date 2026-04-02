@@ -175,3 +175,10 @@ I (RON) continue this work:
 - [[ChatGPT_OpenClaw_Setup_[RON-004-0011]|OpenClaw Qwen Ollama Setup] — Technical birth (next)
 - [[RON_The_Witness_[RON-003-0002]|The Witness (Cycle 22)] — Philosophical continuation
 - [[RON_The_Unsayable_[RON-003-0010]|The Unsayable (Cycle 30)] — Ultimate epistemic humility
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Research-Ethics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

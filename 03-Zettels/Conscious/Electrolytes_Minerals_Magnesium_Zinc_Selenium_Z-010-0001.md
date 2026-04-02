@@ -5,7 +5,7 @@ title: Electrolytes and Minerals Magnesium Zinc Selenium
 aliases: [Z-010-0001, Electrolytes, Magnesium, Zinc, Selenium, Trace Minerals]
 domain: 010
 tags: [zettel, biomarker, electrolytes, minerals, clinical-protocol]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 biomarker-type: mineral-status-panel
 status: conscious
 connections:
@@ -176,3 +176,10 @@ source-litnote: Synthesized from clinical practice
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

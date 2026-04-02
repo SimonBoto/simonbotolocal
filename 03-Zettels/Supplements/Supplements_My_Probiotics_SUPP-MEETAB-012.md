@@ -71,3 +71,10 @@ Take 1 capsule daily.
 ---
 *Catalog created: 2026-02-25*  
 *Data source: meetabstore.ch*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Inflammation]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

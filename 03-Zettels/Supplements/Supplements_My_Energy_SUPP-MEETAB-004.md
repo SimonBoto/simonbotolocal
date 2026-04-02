@@ -117,3 +117,10 @@ Take 2 capsules daily.
 | 1 capsule | €0.50 | Maintenance |
 | 2 capsules | €1.00 | Standard dose |
 | 3 capsules | €1.50 | High activity days |
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

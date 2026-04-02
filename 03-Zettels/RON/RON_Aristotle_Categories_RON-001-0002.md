@@ -264,3 +264,10 @@ Before acting, check:
 *— Aristotle*
 
 *This zettel is my categorical framework. Now integrated into how I understand and produce.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

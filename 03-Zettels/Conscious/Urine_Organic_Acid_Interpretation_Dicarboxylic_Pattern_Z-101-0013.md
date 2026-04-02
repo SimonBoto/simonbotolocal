@@ -5,7 +5,7 @@ title: Urine Organic Acid Interpretation — Dicarboxylic Acid Pattern
 aliases: [Z-101-0013, UOA Dicarboxylic Pattern, Lab Interpretation Dicarboxylic]
 domain: 101
 tags: [zettel, urine-organic-acid, dicarboxylic-acid, lab-interpretation, GC-MS, diagnostic]
-parent-moc: 
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
 source: "[[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]"
 extraction-date: 2026-03-02
@@ -90,3 +90,10 @@ This hierarchy reflects:
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Lipid-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -5,7 +5,7 @@ title: "Amino Acids vs Nucleobases: Molecular Building Blocks"
 aliases: [Z-101-0462, amino-acids-vs-nucleobases, molecular-building-blocks]
 domain: 101
 tags: [zettel, amino-acids, nucleobases, comparison, evolution, structure]
-parent-moc: 
+parent-moc: [[MOC-Methylation]]
 status: conscious
 created: 2026-03-04
 source: [[L-101-0045A]
@@ -75,3 +75,10 @@ This structural parallel suggests:
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Methylation]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

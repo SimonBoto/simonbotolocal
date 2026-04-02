@@ -6,7 +6,7 @@ aliases: [Z-002-0617, methap-sample-size, power-calculation]
 domain: 002
 domain-name: Research Ethics
 tags: [zettel, methap, sample-size, power-calculation, statistics]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 source-litnote: "[[LitNote_METHAP_Study_Design_Protocol_L-002-0604]"
 confidence: high
 created: 2026-03-27
@@ -91,3 +91,10 @@ At least one must be met:
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

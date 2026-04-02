@@ -5,7 +5,7 @@ title: Succinate — Complex II Sentinel
 aliases: [B-012-0004]
 domain: 012
 tags: [oat, metabolite, mitochondrial, succinate, complex-ii, sdh, tumor-marker, hypoxia]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: active
 extraction-date: 2026-03-31
 ---
@@ -255,3 +255,10 @@ Succinate accumulation is a **primary hypoxia signal**:
 ---
 *Part of OAT Metabolite Training System — Mitochondrial Markers Module*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

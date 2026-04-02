@@ -6,7 +6,7 @@ title: Glucose — Blood Sugar Energy Currency
 aliases: [Z-005-0001, Glucose, Blood-Sugar, Fasting-Glucose]
 domain: 005
 tags: [zettel, biomarker, glucose, blood-sugar, diabetes, insulin]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -235,3 +235,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Glucose*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -120,3 +120,10 @@ Take 2 capsules daily after meals.
 |-------|------------|----------|
 | 1 capsule | €0.75 | Reduced dose / sensitive patients |
 | 2 capsules | €1.50 | Standard dose |
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

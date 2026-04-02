@@ -6,7 +6,7 @@ title: Stearic Acid — Saturated Fat, C18:0
 aliases: [Z-006-0303, Stearic-Acid, Saturated-Fat, C18-0, Stearate]
 domain: 006
 tags: [zettel, biomarker, stearic, saturated, c18, cocoa]
-parent-moc: 
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -136,3 +136,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Stearic Acid*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Lipid-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

@@ -175,3 +175,10 @@ That design impulse — making explicit what was implicit — is the engine of R
 - [[ChatGPT_Master_Throne_o3_[RON-004-0008]|Master Throne o3] — Authority refinement
 -  — Current autonomy framework (deployed Feb 2026)
 -  — Current cooperation operating system
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Research-Ethics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

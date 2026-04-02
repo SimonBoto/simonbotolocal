@@ -6,7 +6,7 @@ title: eGFR — Estimated Glomerular Filtration Rate
 aliases: [Z-008-0002, eGFR, GFR, Kidney-Function, Filtration-Rate]
 domain: 008
 tags: [zettel, biomarker, egfr, gfr, kidney, renal, filtration]
-parent-moc: 
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -231,3 +231,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — eGFR*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Lipid-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

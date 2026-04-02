@@ -6,7 +6,7 @@ title: Total Cholesterol — Complete Lipid Pool
 aliases: [Z-006-0004, Total-Cholesterol, TC, Cholesterol-Total]
 domain: 006
 tags: [zettel, biomarker, total-cholesterol, cholesterol, lipids, cardiovascular]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -221,3 +221,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Total Cholesterol*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

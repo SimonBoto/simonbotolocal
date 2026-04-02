@@ -5,7 +5,7 @@ title: Dicarboxylic Aciduria vs Ketone Distinction
 aliases: [Z-101-0015, Dicarboxylic vs Ketones, Metabolic Pattern Differentiation]
 domain: 101
 tags: [zettel, dicarboxylic-aciduria, ketones, ketonuria, metabolic-differentiation, diagnostic]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source: "[[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]"
 extraction-date: 2026-03-02
@@ -117,3 +117,10 @@ IF both elevated:
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

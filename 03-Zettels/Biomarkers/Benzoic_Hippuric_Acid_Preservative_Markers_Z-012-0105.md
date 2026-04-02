@@ -5,7 +5,7 @@ title: Benzoic & Hippuric Acids — Preservative & Gut Markers
 aliases: [Z-012-0105, Benzoic-Acid, Hippuric-Acid, Preservative, Gut, SIBO]
 domain: 012
 tags: [zettel, biomarker, benzoic, hippuric, preservative, gut, sibo]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -137,3 +137,10 @@ source-litnote: Synthesized from clinical practice
 *Complete biomarker foundation — Benzoic & Hippuric Acids*
 *Created: 2026-03-31*
 *Upgraded to Gen 2 standard*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

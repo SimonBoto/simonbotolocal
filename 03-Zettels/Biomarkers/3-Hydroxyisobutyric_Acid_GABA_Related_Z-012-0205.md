@@ -6,7 +6,7 @@ title: 3-Hydroxyisobutyric Acid — Valine Metabolite, GABA Cofactor-Related
 aliases: [Z-012-0205, 3-Hydroxyisobutyric, Valine-Metabolism, GABA-Related, B-Vitamins]
 domain: 012
 tags: [zettel, biomarker, 3-hydroxyisobutyric, valine, gaba, b-vitamins]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -179,3 +179,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — 3-Hydroxyisobutyric Acid*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

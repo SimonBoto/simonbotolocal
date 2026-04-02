@@ -5,7 +5,7 @@ title: OAT Complete Reference — All Metabolites from Clinical Prototype
 aliases: [REF-OAT-002]
 domain: 012
 tags: [oat, reference, optimal-ranges, clinical-prototype, complete]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: active
 extraction-date: 2026-03-31
 source: Old_mail_prototype.pdf (complete extraction)
@@ -183,3 +183,10 @@ High ethylmalonic + methylsuccinic + dicarboxylic acids (adipic, suberic, sebaci
 
 ---
 *Complete extraction from clinical prototype — 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

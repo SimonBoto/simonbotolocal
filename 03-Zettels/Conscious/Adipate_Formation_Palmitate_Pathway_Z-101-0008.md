@@ -5,7 +5,7 @@ title: Adipate Formation from Palmitate via Omega-Oxidation
 aliases: [Z-101-0008, Adipate Pathway, Palmitate to Adipate]
 domain: 101
 tags: [zettel, adipate, palmitate, omega-oxidation, beta-oxidation, fatty-acid-metabolism]
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
 status: conscious
 source-litnote: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]"
 extraction-date: 2026-03-02
@@ -56,3 +56,10 @@ Elevated adipate in urine = evidence of impaired  fatty acid oxidation
 ## RELATED FILES
 - 
 - [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]|Z-001-1196]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Mitochondrial-Function]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

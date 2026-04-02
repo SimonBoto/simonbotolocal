@@ -6,7 +6,7 @@ aliases: [Z-101-0007, Response-Rate-Problem, Therapy-Heterogeneity]
 domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, precision-medicine, response-rate, heterogeneity, anti-TNF, biologics]
-parent-moc: 
+parent-moc: [[MOC-Metabolomics]]
 source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]
 confidence: high
 created: 2026-02-24
@@ -63,3 +63,10 @@ Approved therapies for chronic diseases show only 30-60% effectiveness, with sig
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Metabolomics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

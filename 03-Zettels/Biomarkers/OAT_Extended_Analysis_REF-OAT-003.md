@@ -5,7 +5,7 @@ title: OAT Extended Analysis — Complete Extraction from Greek Clinical Guide
 aliases: [REF-OAT-003]
 domain: 012
 tags: [oat, reference, extended-analysis, complete-extraction, clinical-guide]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: active
 extraction-date: 2026-03-31
 source: Analysis organic acids extended.md (Greek clinical guide)
@@ -658,3 +658,10 @@ source: Analysis organic acids extended.md (Greek clinical guide)
 
 ---
 *Complete extraction from extended clinical guide — 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

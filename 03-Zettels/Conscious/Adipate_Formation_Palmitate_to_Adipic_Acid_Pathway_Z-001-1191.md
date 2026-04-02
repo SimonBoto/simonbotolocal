@@ -4,7 +4,7 @@ type: zettel
 title: Adipate Formation — Palmitate to Adipic Acid Pathway
 domain: 101
 tags: [zettel, adipate, adipic-acid, palmitate, beta-oxidation, omega-oxidation, phd-research]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]"
 status: conscious
@@ -117,3 +117,10 @@ Hexanoyl-CoA + O₂ + NADPH → ω-Hydroxyhexanoyl-CoA + NADP⁺ + H₂O
 ---
 
 *Source: [[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628] | 2026-03-08*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

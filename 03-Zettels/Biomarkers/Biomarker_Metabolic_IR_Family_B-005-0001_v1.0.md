@@ -5,7 +5,7 @@ title: Metabolic / Insulin Resistance Family (Glucose, Insulin, HbA1c, TG, Uric 
 aliases: [B-005-0001, Metabolic-Panel, IR-Panel, Glucose, Insulin, HbA1c, Triglycerides, Uric-Acid, HOMA-IR]
 domain: 005
 tags: [biomarker, metabolic, insulin-resistance, diabetes, cardiovascular, obesity, Metabolomics-connection]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 status: active
 created: 2026-03-30
 ---
@@ -434,3 +434,10 @@ created: 2026-03-30
 
 ---
 status: footer
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

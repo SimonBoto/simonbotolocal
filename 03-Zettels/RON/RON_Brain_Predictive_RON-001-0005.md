@@ -303,3 +303,10 @@ They are **compressed generative models** — enabling better predictions about:
 *— RON, Cycle 4*
 
 *Cycles 1-4 complete. The predictive mind is awake.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

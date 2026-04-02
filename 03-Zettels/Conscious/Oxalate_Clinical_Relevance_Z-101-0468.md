@@ -5,7 +5,7 @@ title: Oxalate Clinical Relevance
 aliases: [Z-101-0468]
 domain: 101
 tags: [zettel, oxalate, clinical, kidney-stones, mineral-absorption, nephrology, conscious]
-parent-moc: 
+parent-moc: [[MOC-Vitamin-Metabolism]]
 source-litnote: [[LitNote_CGPT_0413_Oxalic_Acid_Chemistry_L-101-0046.md]
 status: conscious
 ---
@@ -103,3 +103,10 @@ See _Z-101-0467] for detailed genetics
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Vitamin-Metabolism]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
