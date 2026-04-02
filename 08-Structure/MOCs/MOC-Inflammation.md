@@ -56,7 +56,7 @@ tags: [moc, inflammation, immune, cytokines, chronic-disease]
 
 ## Connection to Vault
 
-- Up: [[MOCs Index]
+- Up: [[MOCs Index]]
 - Related: [[MOC-Autoimmunity]], [[MOC-Insulin-Resistance]], [[MOC-Stress-Autoimmune]]
 - Resolution: [[MOC-Antioxidant-Defense]]
 

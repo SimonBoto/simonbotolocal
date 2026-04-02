@@ -5,7 +5,7 @@ title: "Personal Index"
 date: 2026-04-02
 aliases: [PERSONAL-INDEX]
 tags: [index, personal, projects, side-business, skills]
-parent-moc: [[07 Projects Index]]
+parent-moc: [[07 Projects Index]]]
 status: active
 ---
 
@@ -20,7 +20,7 @@ status: active
 
 | Note | Purpose |
 |------|---------|
-| [[Personal Index] | This index — Personal hub |
+| [[Personal Index]] | This index — Personal hub |
 
 ---
 
@@ -76,8 +76,8 @@ All personal projects deprioritized until:
 
 ## 🔗 CONNECTION TO VAULT
 
-- Up: [[07 Projects Index]
-- Related: [[Clinic Index], [[PhD Index]
+- Up: [[07 Projects Index]]
+- Related: [[Clinic Index]], [[PhD Index]]
 
 ---
 

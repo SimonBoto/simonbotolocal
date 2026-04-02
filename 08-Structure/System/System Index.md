@@ -4,7 +4,7 @@ type: index
 title: "System Index"
 date: 2026-04-02
 tags: [index, system, root-notes]
-parent-moc: [[08 Structure Index]]
+parent-moc: [[08 Structure Index]]]
 ---
 
 # System Index
@@ -28,7 +28,7 @@ parent-moc: [[08 Structure Index]]
 
 ## Connection to Vault
 
-- Up: [[08 Structure Index]
+- Up: [[08 Structure Index]]
 - Related: [[00 Mission] (root entry point)
 
 ---

@@ -5,7 +5,7 @@ title: "Clinic Index"
 date: 2026-04-02
 aliases: [CLINIC-INDEX, Clinic-Project]
 tags: [index, clinic, operations, training, metabolomics]
-parent-moc: [[07 Projects Index]]
+parent-moc: [[07 Projects Index]]]
 status: active
 ---
 
@@ -20,9 +20,9 @@ status: active
 
 | Note | Purpose |
 |------|---------|
-| [[Clinic Index] | This index — clinic hub |
-| [[Appointment_Types] | 7 appointment types defined |
-| [[Schedule_Petralona] | Weekly schedule and rhythm |
+| [[Clinic Index]] | This index — clinic hub |
+| [[Appointment_Types]] | 7 appointment types defined |
+| [[Schedule_Petralona]] | Weekly schedule and rhythm |
 
 ---
 
@@ -38,8 +38,8 @@ status: active
 ## 🔧 OPERATIONS
 
 ### Current Workflows
-- [[Appointment_Types] — 7 appointment types defined
-- [[Schedule_Petralona] — Weekly rhythm and protected time
+- [[Appointment_Types]] — 7 appointment types defined
+- [[Schedule_Petralona]] — Weekly rhythm and protected time
 
 ### Workflow Gaps
 - [ ] Result email templates (Obsidian → Desknet)
@@ -78,17 +78,17 @@ status: active
 | Date | Milestone | Evidence |
 |------|-----------|----------|
 | 2024-05-01 | 4.5 years at clinic | Experience milestone |
-| 2026-02-25 | Appointment types documented | [[Appointment_Types] |
-| 2026-02-25 | Schedule documented | [[Schedule_Petralona] |
+| 2026-02-25 | Appointment types documented | [[Appointment_Types]] |
+| 2026-02-25 | Schedule documented | [[Schedule_Petralona]] |
 | 2026-04-02 | Clinic operations folder created | Clinic/ structure |
 
 ---
 
 ## 🔗 CONNECTION TO VAULT
 
-- Up: [[07 Projects Index]
-- Related: [[PhD Index] (research feeds clinic)
-- Source: [[03 Zettels Index] (bootcamp materials)
+- Up: [[07 Projects Index]]
+- Related: [[PhD Index]] (research feeds clinic)
+- Source: [[03 Zettels Index]] (bootcamp materials)
 
 ---
 

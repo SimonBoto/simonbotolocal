@@ -53,7 +53,7 @@ See also: [[MOC-Iron-Metabolism] — Deep dive on iron
 
 ## Connection to Vault
 
-- Up: [[MOCs Index]
+- Up: [[MOCs Index]]
 - Related: [[MOC-Iron-Metabolism]], [[MOC-Mitochondrial-Function]], [[MOC-Antioxidant-Defense]]
 - Supplements: [[MOC-Vitamin-Metabolism]]
 

@@ -30,7 +30,7 @@ tags: [moc, phd, research, methap, metabolomics]
 ### Biomarkers
 - [[METHAP_Biomarker_Panel_Z-001-0045]
 - [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620]
-- [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]
+- [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]]
 
 ---
 
@@ -41,7 +41,7 @@ See also: [[MOC-Research-Methods] — General methodology
 - [[METHAP_PhD_Data_Export_Structure_Z-002-0621]
 - [[Sample_Size_Strategies_PhD_Z-001-0930]
 - [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]
-- [[Research_Agenda] — 62 hypotheses
+- [[Research_Agenda]] — 62 hypotheses
 
 ---
 
@@ -56,9 +56,9 @@ See also: [[MOC-Research-Methods] — General methodology
 
 ## Connection to Vault
 
-- Up: [[MOCs Index]
+- Up: [[MOCs Index]]
 - Related: [[MOC-Research-Methods]], [[MOC-Research-Ethics]], [[MOC-Metabolomics]]
-- Project: [[PhD Index]
+- Project: [[PhD Index]]
 
 ---
 

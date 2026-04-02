@@ -4,7 +4,7 @@ type: index
 title: "Keywords Index"
 date: 2026-04-02
 tags: [index, keywords, MOCs]
-parent-moc: [[08 Structure Index]]
+parent-moc: [[08 Structure Index]]]
 ---
 
 # Keywords Index
@@ -26,8 +26,8 @@ Keywords provide:
 
 ## Connection to Vault
 
-- Up: [[08 Structure Index]
-- Related: [[MOCs Index], [[03 Zettels Index]
+- Up: [[08 Structure Index]]
+- Related: [[MOCs Index]], [[03 Zettels Index]]
 
 ---
 

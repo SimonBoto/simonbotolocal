@@ -52,15 +52,15 @@ See also: [[MOC-Hashimoto-Thyroiditis] — Deep dive on Hashimoto's
 
 - [[METHAP_Study_Design_Overview_Z-002-0616] — METHAP trial
 - [[METHAP_Study_Population_Recruitment_Strategy_Z-001-1141]
-- [[PhD Index] — All PhD work
+- [[PhD Index]] — All PhD work
 
 ---
 
 ## Connection to Vault
 
-- Up: [[MOCs Index]
+- Up: [[MOCs Index]]
 - Related: [[MOC-Hashimoto-Thyroiditis]], [[MOC-Autoimmunity]], [[MOC-Metabolic-Syndrome]]
-- PhD: [[PhD Index]
+- PhD: [[PhD Index]]
 
 ---
 

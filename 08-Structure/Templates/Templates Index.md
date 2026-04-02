@@ -4,7 +4,7 @@ type: index
 title: "Templates Index"
 date: 2026-04-02
 tags: [index, templates, standards]
-parent-moc: [[08 Structure Index]]
+parent-moc: [[08 Structure Index]]]
 ---
 
 # Templates Index
@@ -32,8 +32,8 @@ parent-moc: [[08 Structure Index]]
 
 ## Connection to Vault
 
-- Up: [[08 Structure Index]
-- Related: [[Protocols Index], [[03 Zettels Index]
+- Up: [[08 Structure Index]]
+- Related: [[Protocols Index]], [[03 Zettels Index]]
 
 ---
 

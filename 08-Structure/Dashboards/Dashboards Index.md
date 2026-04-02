@@ -4,7 +4,7 @@ type: index
 title: "Dashboards Index"
 date: 2026-04-02
 tags: [index, dashboards, operations]
-parent-moc: [[08 Structure Index]]
+parent-moc: [[08 Structure Index]]]
 ---
 
 # Dashboards Index
@@ -29,8 +29,8 @@ parent-moc: [[08 Structure Index]]
 
 ## Connection to Vault
 
-- Up: [[08 Structure Index]
-- Related: [[07 Projects Index]
+- Up: [[08 Structure Index]]
+- Related: [[07 Projects Index]]
 
 ---
 

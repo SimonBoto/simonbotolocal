@@ -35,7 +35,7 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 
 | Domain | MOC | Zettels | Focus |
 |--------|-----|---------|-------|
-| **001** | [[MOC-Insulin-Signaling] | 675 | Core metabolism, insulin resistance |
+| **001** | [[MOC-Insulin-Signaling]] | 675 | Core metabolism, insulin resistance |
 | **002** | [[MOC-Research-Ethics] | 21 | IRB, study design, ethics |
 | **003** | [[MOC-Iron-Metabolism] | 3 | Iron studies, ferritin |
 | **004** | [[MOC-Methylation-One-Carbon] | 4 | B12, folate, homocysteine |

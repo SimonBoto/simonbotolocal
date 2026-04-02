@@ -51,9 +51,9 @@ From [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]:
 
 ## Connection to Vault
 
-- Up: [[MOCs Index]
+- Up: [[MOCs Index]]
 - Related: [[MOC-Research-Methods]], [[MOC-Clinical-Protocols]]
-- PhD: [[PhD Index]
+- PhD: [[PhD Index]]
 
 ---
 

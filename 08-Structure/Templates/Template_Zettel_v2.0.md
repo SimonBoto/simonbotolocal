@@ -23,7 +23,7 @@ extraction-date: "{{YYYY-MM-DD}}"
 ## Links (Contextual — Link WHEN Useful)
 
 **ALWAYS Link (FULL FILENAME REQUIRED):**
-- `[[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]` — NEVER use bare `[[Z-001-0041]`
+- `[[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]]` — NEVER use bare `[[Z-001-0041]`
 - Parent MOC: `` — navigation
 - Cross-domain bridges: Insulin zettel → Vitamin D mechanism
 
@@ -39,7 +39,7 @@ Always use full format: `[[Title_Z-001-0041]` or `[[Title_Z-001-0041]|display te
 - Already linked nearby: no duplicate links
 
 **Examples:**
-- `[[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]|adipic acid]` — specific, useful
+- `[[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]]|adipic acid]` — specific, useful
 - "Insulin resistance develops gradually" — plain, readable
 
 ## Related Zettels

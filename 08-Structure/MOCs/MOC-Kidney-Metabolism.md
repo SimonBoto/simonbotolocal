@@ -48,15 +48,15 @@ tags: [moc, kidney, nephrology, renal, metabolism]
 - [[HbA1c_Targets_Diabetic_CKD_Z-001-0981]
 
 ### Related Systems
-- [[MOC-Biomarkers] — Renal markers
+- [[MOC-Biomarkers]] — Renal markers
 - [[MOC-Metabolic-Syndrome] — Kidney-metabolic axis
 
 ---
 
 ## Connection to Vault
 
-- Up: [[MOCs Index]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Biomarkers]]
+- Up: [[MOCs Index]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Biomarkers]]]
 - Minerals: [[MOC-Minerals-Trace] — Electrolyte balance
 
 ---

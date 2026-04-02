@@ -4,7 +4,7 @@ type: index
 title: "MOCs Index"
 date: 2026-04-02
 tags: [index, MOCs, maps-of-content]
-parent-moc: [[08 Structure Index]]
+parent-moc: [[08 Structure Index]]]
 ---
 
 # MOCs Index
@@ -36,7 +36,7 @@ parent-moc: [[08 Structure Index]]
 - [[MOC-Iron-Metabolism]]
 
 ### Clinical
-- [[MOC-Insulin-Signaling]]
+- [[MOC-Insulin-Signaling]]]
 - [[MOC-Insulin-Resistance]]
 - [[MOC-Diabetes-T2D]]
 - [[MOC-Metabolic-Syndrome]]
@@ -52,7 +52,7 @@ parent-moc: [[08 Structure Index]]
 - [[MOC-Bone-Health] (implied from keywords)
 
 ### Biomarkers & Testing
-- [[MOC-Biomarkers]]
+- [[MOC-Biomarkers]]]
 - [[MOC-Metabolomics]]
 - [[MOC-Metabolomics-Analysis]]
 - [[MOC-Metabolomics-Protocols]]
@@ -98,9 +98,9 @@ MOCs serve as:
 
 ## Connection to Vault
 
-- Up: [[08 Structure Index]
+- Up: [[08 Structure Index]]
 - Down: Individual MOCs
-- Related: [[Keywords Index], [[03 Zettels Index]
+- Related: [[Keywords Index]], [[03 Zettels Index]]
 
 ---
 
