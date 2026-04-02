@@ -148,6 +148,7 @@ The Metabolomics Chief Instructor (MCI) role balances three simultaneous demands
 - [[Socratic_Method_Metabolomics_Training_Z-001-1033]] — Teaching method
 - [[Clinician_Training_Competency_Checklist_Z-001-1080]] — Competency
 - [[Training_Teaching_Style_Framework_Z-001-1040]] — Teaching styles
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] — OAT patterns
 - [[MOC-Metabolomics-Training]] — Training hub
 
 ---

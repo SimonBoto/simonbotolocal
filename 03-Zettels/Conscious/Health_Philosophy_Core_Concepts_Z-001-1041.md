@@ -168,6 +168,7 @@ Optimal Health ←→ Suboptimal ←→ Dysfunction ←→ Disease ←→ Crisis
 - [[Microbiome_Gut_Brain_Terminology_Z-001-1045]] — Gut terms
 - [[Nutrition_Macronutrient_Terminology_Z-001-1046]] — Nutrition terms
 - [[Patient_Communication_Core_Concepts_Z-001-1047]] — Patient concepts
+- [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]] — MCI role
 - [[MOC-Metabolomics-Training]] — Training hub
 
 ---

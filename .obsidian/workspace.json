@@ -35,24 +35,10 @@
             "id": "4babb119d6d7cb98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Literature/LitNote_Patient_Communication_Scripts_L-001-0595.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LitNote_Patient_Communication_Scripts_L-001-0595"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -257,11 +243,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0be6d9b90b67060b",
+  "active": "4babb119d6d7cb98",
   "lastOpenFiles": [
+    "01-Literature/LitNote_Patient_Communication_Scripts_L-001-0595.md",
     "03-Zettels/Conscious/Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032.md",
     "03-Zettels/Conscious/Metabolic_Storytelling_Patient_Framework_Z-001-1070.md",
-    "01-Literature/LitNote_Patient_Communication_Scripts_L-001-0595.md",
     "00-Inbox/Processed/metabolomics/CGPT_0022_Metabolomics_training_role_CGPT-0022.md",
     "01-Literature/LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594.md",
     "03-Zettels/Conscious/Magnesium_Biochemistry_Clinical_Roles_Z-001-1060.md",
