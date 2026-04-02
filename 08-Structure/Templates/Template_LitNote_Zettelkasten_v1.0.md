@@ -63,14 +63,14 @@ CRITICAL: NEVER create links to imaginary notes. Shadow notes pollute the vault.
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| [[{{Author}}_{{Year}}_R-XXX-XXXX]] | Zettel A, Zettel B | 2 |
-| [[{{Other_Author}}_{{Year}}_R-XXX-XXXX]] | Zettel C | 1 |
+| `{{Author}}_{{Year}}_R-XXX-XXXX` | Zettel A, Zettel B | 2 |
+| `{{Other_Author}}_{{Year}}_R-XXX-XXXX` | Zettel C | 1 |
 
 ---
 
 ## Structural Links
-- **Up:** [[MOC-Example]] — Thematic domain ⚠️ VERIFY EXISTS
-- **Inbox:** [[Inbox_{{Title}}_{{YYYY-MM-DD}}]] — Raw origin
+- **Up:** [[MOC-Metabolomics-Training]] — Thematic domain
+- **Inbox:** `Inbox_{{Title}}_{{YYYY-MM-DD}}` — Raw origin
 - **Index:** [[02-Literature]] — Container (verify: 02-Literature.md exists)
 
 ---

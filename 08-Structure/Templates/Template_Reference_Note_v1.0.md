@@ -29,14 +29,14 @@ parent-moc: "[[MOC-References-Active]]"
 
 | Zettel | Claim | Context |
 |--------|-------|---------|
-| [[Zettel_A_Z-XXX-XXXX]] | {{Claim from zettel}} | {{How it uses this ref}} |
-| [[Zettel_B_Z-XXX-XXXX]] | {{Claim from zettel}} | {{How it uses this ref}} |
-| [[Zettel_C_Z-XXX-XXXX]] | {{Claim from zettel}} | {{How it uses this ref}} |
+| `Zettel_A_Z-XXX-XXXX` | {{Claim from zettel}} | {{How it uses this ref}} |
+| `Zettel_B_Z-XXX-XXXX` | {{Claim from zettel}} | {{How it uses this ref}} |
+| `Zettel_C_Z-XXX-XXXX` | {{Claim from zettel}} | {{How it uses this ref}} |
 
 ---
 
 ## LitNotes Using This Reference
-- [[LitNote_{{Title}}_{{L-XXX-XXXX}}]] — {{Context}}
+- `LitNote_{{Title}}_{{L-XXX-XXXX}}` — {{Context}}
 
 ---
 
