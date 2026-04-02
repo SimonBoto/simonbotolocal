@@ -45,5 +45,41 @@ last-updated: 2026-02-22
 ---
 
 *Last updated: 2026-02-22 | Status: Active*
+
+---
+
+## 📄 Synthesis Documents
+
+- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}]] — {{Description}}
+
+
+---
+
+## 📚 Source LitNotes
+
+| LitNote | Zettels Extracted | Status |
+|---------|-------------------|--------|
+| [[{{LitNote_Title}}_{{L-XXX-XXXX}}]] | {{N}} zettels | {{status}} |
+
+
+---
+
+## 🆕 Zettel Backlog
+
+**Zettels to create:**
+- [ ] {{Zettel idea}} — {{Why needed}}
+
+**Zettels to review for promotion:**
+- [ ] [[{{Zettel_Title}}_{{Z-XXX-XXXX}}]] — {{Why ready}}
+
+
+---
+
+## 📝 Status History
+
+| Date | Status | Notes |
+|------|--------|-------|
+| {{YYYY-MM-DD}} | created | Initial MOC setup |
+
 ---
 parent-index: [[08 Structure Index]], [[MOCs Index]]

@@ -110,5 +110,51 @@ vit_d_baseline_ng_ml, vit_d_3mo_ng_ml, vit_d_6mo_ng_ml, vit_d_dose_iu_daily
 
 *Created: 2026-02-26 | Domain: 002 | Status: Foundation MOC*
 
+
+---
+
+## 🔗 Related MOCs
+
+| MOC | Connection |
+|-----|------------|
+| [[MOC-Example]] | {{Why related}} |
+| [[MOC-Example]] | {{Why related}} |
+
+
+---
+
+## 📄 Synthesis Documents
+
+- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}]] — {{Description}}
+
+
+---
+
+## 📚 Source LitNotes
+
+| LitNote | Zettels Extracted | Status |
+|---------|-------------------|--------|
+| [[{{LitNote_Title}}_{{L-XXX-XXXX}}]] | {{N}} zettels | {{status}} |
+
+
+---
+
+## 🆕 Zettel Backlog
+
+**Zettels to create:**
+- [ ] {{Zettel idea}} — {{Why needed}}
+
+**Zettels to review for promotion:**
+- [ ] [[{{Zettel_Title}}_{{Z-XXX-XXXX}}]] — {{Why ready}}
+
+
+---
+
+## 📝 Status History
+
+| Date | Status | Notes |
+|------|--------|-------|
+| {{YYYY-MM-DD}} | created | Initial MOC setup |
+
 ---
 parent-index: [[08 Structure Index]], [[MOCs Index]]
