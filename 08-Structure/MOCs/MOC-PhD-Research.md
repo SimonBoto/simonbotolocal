@@ -41,7 +41,7 @@ See also: [[MOC-Research-Methods]] — General methodology
 - [[METHAP_PhD_Data_Export_Structure_Z-002-0621]
 - [[Sample_Size_Strategies_PhD_Z-001-0930]
 - [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]
-- [[Research_Agenda]]] — 62 hypotheses
+- [[Research_Agenda]] — 62 hypotheses
 
 ---
 

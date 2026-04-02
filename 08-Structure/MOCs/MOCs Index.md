@@ -98,67 +98,67 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 ## 📋 All MOCs (54 Total)
 
 ### Metabolism & Biochemistry
-- [[MOC-Amino-Acid-Metabolism]]] — Amino acid pathways
-- [[MOC-Antioxidant-Defense]]] — Oxidative stress, antioxidants
-- [[MOC-Evolutionary-Biochemistry]]] — Ancient pathways
-- [[MOC-Gluconeogenesis]]] — Glucose synthesis
-- [[MOC-Glycolysis-PPP]]] — Glycolysis, pentose phosphate
-- [[MOC-Ketogenesis]]] — Ketone body metabolism
-- [[MOC-Krebs-Cycle]]] — TCA cycle
-- [[MOC-Nitrogen-Metabolism]]] — Nitrogen balance
-- [[MOC-Nucleotide-Metabolism]]] — Purine, pyrimidine
-- [[MOC-Urea-Cycle]]] — Ammonia detox
+- [[MOC-Amino-Acid-Metabolism]] — Amino acid pathways
+- [[MOC-Antioxidant-Defense]] — Oxidative stress, antioxidants
+- [[MOC-Evolutionary-Biochemistry]] — Ancient pathways
+- [[MOC-Gluconeogenesis]] — Glucose synthesis
+- [[MOC-Glycolysis-PPP]] — Glycolysis, pentose phosphate
+- [[MOC-Ketogenesis]] — Ketone body metabolism
+- [[MOC-Krebs-Cycle]] — TCA cycle
+- [[MOC-Nitrogen-Metabolism]] — Nitrogen balance
+- [[MOC-Nucleotide-Metabolism]] — Purine, pyrimidine
+- [[MOC-Urea-Cycle]] — Ammonia detox
 
 ### Clinical & Disease
-- [[MOC-Autoimmunity]]] — Autoimmune mechanisms
-- [[MOC-Biomarkers]]] — Biomarker framework
-- [[MOC-Cholesterol-Quality]]] — Cholesterol particles
-- [[MOC-Clinical-Protocols]]] — Clinical workflows
-- [[MOC-Diabetes-T2D]]] — Type 2 diabetes
-- [[MOC-Hashimoto-Thyroiditis]]] — Autoimmune thyroid
-- [[MOC-Hidden-Hunger]]] — Micronutrient deficiencies
-- [[MOC-Insulin-Resistance]]] — IR mechanisms
-- [[MOC-Metabolic-Syndrome]]] — MetS criteria
-- [[MOC-Stress-Autoimmune]]] — Stress-immune axis
+- [[MOC-Autoimmunity]] — Autoimmune mechanisms
+- [[MOC-Biomarkers]] — Biomarker framework
+- [[MOC-Cholesterol-Quality]] — Cholesterol particles
+- [[MOC-Clinical-Protocols]] — Clinical workflows
+- [[MOC-Diabetes-T2D]] — Type 2 diabetes
+- [[MOC-Hashimoto-Thyroiditis]] — Autoimmune thyroid
+- [[MOC-Hidden-Hunger]] — Micronutrient deficiencies
+- [[MOC-Insulin-Resistance]] — IR mechanisms
+- [[MOC-Metabolic-Syndrome]] — MetS criteria
+- [[MOC-Stress-Autoimmune]] — Stress-immune axis
 
 ### Organs & Systems
-- [[MOC-Inflammation]]] — Inflammatory markers
-- [[MOC-Iron-Metabolism]]] — Iron homeostasis
-- [[MOC-Kidney-Metabolism]]] — Renal function
-- [[MOC-Lipid-Metabolism]]] — Fatty acids, lipids
-- [[MOC-Liver-Function]]] — Hepatic markers
-- [[MOC-Methylation-One-Carbon]]] — B12, folate, methylation
-- [[MOC-Mitochondrial-Function]]] — ETC, OXPHOS
-- [[MOC-Thyroid-Function]]] — Thyroid hormones
-- [[MOC-Minerals-Trace]]] — Mg, Zn, Se
+- [[MOC-Inflammation]] — Inflammatory markers
+- [[MOC-Iron-Metabolism]] — Iron homeostasis
+- [[MOC-Kidney-Metabolism]] — Renal function
+- [[MOC-Lipid-Metabolism]] — Fatty acids, lipids
+- [[MOC-Liver-Function]] — Hepatic markers
+- [[MOC-Methylation-One-Carbon]] — B12, folate, methylation
+- [[MOC-Mitochondrial-Function]] — ETC, OXPHOS
+- [[MOC-Thyroid-Function]] — Thyroid hormones
+- [[MOC-Minerals-Trace]] — Mg, Zn, Se
 
 ### Research & Methods
-- [[MOC-CGPT-Archive]]] — ChatGPT extraction system
-- [[MOC-Inbox-Sprint]]] — Processing workflow
-- [[MOC-Literature-Management]]] — Zotero, sources
-- [[MOC-Metabolomics]]] — Metabolomics overview
-- [[MOC-Metabolomics-Analysis]]] — Data analysis
-- [[MOC-Metabolomics-Protocols]]] — Lab protocols
-- [[MOC-Metabolomics-Training]]] — Education framework
-- [[MOC-Pharmacometabolomics]]] — Drug metabolism
-- [[MOC-PhD-Research]]] — PhD project hub
-- [[MOC-Research-Ethics]]] — IRB, ethics
-- [[MOC-Research-Methods]]] — Study design
+- [[MOC-CGPT-Archive]] — ChatGPT extraction system
+- [[MOC-Inbox-Sprint]] — Processing workflow
+- [[MOC-Literature-Management]] — Zotero, sources
+- [[MOC-Metabolomics]] — Metabolomics overview
+- [[MOC-Metabolomics-Analysis]] — Data analysis
+- [[MOC-Metabolomics-Protocols]] — Lab protocols
+- [[MOC-Metabolomics-Training]] — Education framework
+- [[MOC-Pharmacometabolomics]] — Drug metabolism
+- [[MOC-PhD-Research]] — PhD project hub
+- [[MOC-Research-Ethics]] — IRB, ethics
+- [[MOC-Research-Methods]] — Study design
 
 ### Nutrition & Lifestyle
-- [[MOC-Nutrition]]] — Nutritional biochemistry
-- [[MOC-Nutrition-Risks]]] — Dietary risks
-- [[MOC-Omega3-Fats]]] — Omega-3 fatty acids
-- [[MOC-Origins-of-Life]]] — Prebiotic chemistry, evolution
-- [[MOC-Sleep-and-Circadian]]] — Sleep, circadian
-- [[MOC-Vitamin-D-Metabolism]]] — Vitamin D
-- [[MOC-Vitamin-Metabolism]]] — All vitamins
-- [[MOC-Vitamin-Safety]]] — Vitamin toxicity
+- [[MOC-Nutrition]] — Nutritional biochemistry
+- [[MOC-Nutrition-Risks]] — Dietary risks
+- [[MOC-Omega3-Fats]] — Omega-3 fatty acids
+- [[MOC-Origins-of-Life]] — Prebiotic chemistry, evolution
+- [[MOC-Sleep-and-Circadian]] — Sleep, circadian
+- [[MOC-Vitamin-D-Metabolism]] — Vitamin D
+- [[MOC-Vitamin-Metabolism]] — All vitamins
+- [[MOC-Vitamin-Safety]] — Vitamin toxicity
 
 ### Operations
-- [[MOC-Clinic-Queue]]] — Patient flow
-- [[MOC-References-Active]]] — Active references
-- [[MOC-RON-Cognition]]] — RON system notes
+- [[MOC-Clinic-Queue]] — Patient flow
+- [[MOC-References-Active]] — Active references
+- [[MOC-RON-Cognition]] — RON system notes
 
 ## 🎯 Current Priorities
 

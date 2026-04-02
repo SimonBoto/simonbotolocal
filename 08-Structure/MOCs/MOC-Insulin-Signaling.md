@@ -18,15 +18,15 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 ## 🎯 Entry Points (Start Here)
 
 **Core Concepts:**
-- [[Insulin_Receptor_Structure_Z-001-0001]]] — The receptor
-- [[Insulin_Hormone_Structure_Z-001-0002]]] — The ligand
+- [[Insulin_Receptor_Structure_Z-001-0001]] — The receptor
+- [[Insulin_Hormone_Structure_Z-001-0002]] — The ligand
 
 ---
 
 ## 🔄 The Signaling Cascade
 
 ### Step 1: Receptor Activation
-- [[Insulin_Receptor_Structure_Z-001-0001]]] — Receptor structure and autophosphorylation
+- [[Insulin_Receptor_Structure_Z-001-0001]] — Receptor structure and autophosphorylation
 
 ### Step 2: Adapter Recruitment  
 - [[IRS_Protein_Recruitment_Z-001-0005]] — IRS proteins as bridges
@@ -95,8 +95,8 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 
 ### Core Signaling (10)
 **Receptor & Activation:**
-- [[Insulin_Receptor_Structure_Z-001-0001]]] — INSR structure
-- [[Insulin_Hormone_Structure_Z-001-0002]]] — Ligand structure
+- [[Insulin_Receptor_Structure_Z-001-0001]] — INSR structure
+- [[Insulin_Hormone_Structure_Z-001-0002]] — Ligand structure
 - [[Insulin_Receptor_Mutations_Donohue_Z-001-0004]] — Disease mutations
 
 **Adapter Proteins:**
