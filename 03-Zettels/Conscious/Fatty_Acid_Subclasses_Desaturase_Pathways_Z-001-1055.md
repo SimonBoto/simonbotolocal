@@ -151,6 +151,7 @@ ALA (18:3) → D6D → Stearidonic acid (18:4) → Elongase → EPA (20:5) → D
 - [[Ketosis_Metabolic_Flexibility_Clinical_Z-001-1057]] — Ketosis
 - [[Carnitine_Shuttle_Fatty_Acid_Transport_Z-001-1058]] — Transport
 - [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]] — Diet
+- [[Cardiolipin_Omega_6_Mitochondrial_Dysfunction_Z-001-0949]] — Membrane lipids
 - [[MOC-Mitochondrial-Function]] — Mitochondrial hub
 
 ---

@@ -163,6 +163,7 @@ Free carnitine transported back to cytosol via CACT
 - [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]] — Ratios
 - [[Ketosis_Metabolic_Flexibility_Clinical_Z-001-1057]] — Ketosis
 - [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]] — Krebs cycle
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] — Cofactor support
 - [[MOC-Mitochondrial-Function]] — Mitochondrial hub
 
 ---

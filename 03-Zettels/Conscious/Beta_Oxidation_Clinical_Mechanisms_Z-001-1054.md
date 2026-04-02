@@ -134,6 +134,7 @@ Ability to switch between glucose and fat burning
 - [[Carnitine_Shuttle_Fatty_Acid_Transport_Z-001-1058]] — Transport
 - [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]] — Krebs cycle
 - [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]] — OXPHOS
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]] — Extended beta-oxidation
 - [[MOC-Mitochondrial-Function]] — Mitochondrial hub
 
 ---

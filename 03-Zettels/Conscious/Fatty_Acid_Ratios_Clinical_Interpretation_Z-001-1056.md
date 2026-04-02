@@ -174,6 +174,7 @@ AA/EPA ratio as inflammation index; omega-6:3 ratio as dietary balance marker. T
 - [[Ketosis_Metabolic_Flexibility_Clinical_Z-001-1057]] — Ketosis
 - [[Carnitine_Shuttle_Fatty_Acid_Transport_Z-001-1058]] — Transport
 - [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]] — Diet
+- [[Gut_Derived_Mechanisms_IR_Z-001-0032]] — Inflammation connection
 - [[MOC-Mitochondrial-Function]] — Mitochondrial hub
 
 ---

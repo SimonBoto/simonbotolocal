@@ -174,6 +174,7 @@ The ability to switch between glucose and fat oxidation based on availability an
 - [[Fatty_Acid_Ratios_Clinical_Interpretation_Z-001-1056]] — Ratios
 - [[Carnitine_Shuttle_Fatty_Acid_Transport_Z-001-1058]] — Transport
 - [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]] — Diet
+- [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]] — Krebs cycle support
 - [[MOC-Mitochondrial-Function]] — Mitochondrial hub
 
 ---
