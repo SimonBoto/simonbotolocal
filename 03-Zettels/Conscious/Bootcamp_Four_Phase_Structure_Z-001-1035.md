@@ -7,8 +7,7 @@ domain: 001
 domain-name: Clinical Training
 tags: [zettel, curriculum, training, bootcamp]
 parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
-source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
+source-litnote: "[[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]"
 confidence: high
 created: 2026-03-08
 ---

@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-Structure/MOCs/MOC-Metabolic-Syndrome.md",
+                "file": "01-Literature/LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC-Metabolic-Syndrome"
+              "title": "LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589"
             }
           }
         ],
@@ -306,6 +306,9 @@
   },
   "active": "4a189b8ff6ae65cd",
   "lastOpenFiles": [
+    "Base File All Notes.base",
+    "08-Structure/Templates/Template_LitNote_Assessment_v1.0.md",
+    "08-Structure/MOCs/MOC-Metabolic-Syndrome.md",
     "08-Structure/Templates/Template_LitNote_Scalable_v1.0.md",
     "08-Structure/Templates/Template_Zettel_Direct_v1.0.md",
     "08-Structure/Templates/Template_Inbox_Adaptive_v1.0.md",
@@ -331,9 +334,6 @@
     "08-Structure/Templates/Template_Inbox_Fleeting_v1.0.md",
     "08-Structure/MOCs/MOCs Index.md",
     "03-Zettels/RON/ChatGPT_Building_Master_Throne_RON-004-0007.md",
-    "00-Inbox/Analysis organic acids extended.md",
-    "00-Inbox/Free fatty acids analysis extended.md",
-    "08-Structure/MOCs/MOC-Methylation.md",
     "06-Structure/Dashboards",
     "06-Structure",
     "03-Zettels/RON/sedfy7D34",

@@ -11,7 +11,8 @@ pmcid: N/A
 tier: 3
 relevance: High — Complete 2-month training syllabus for metabolomics clinician development; week-by-week progression
 status: extracted
-parent-moc: 
+source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
+parent-moc: "[[MOC-Clinical-Training]]"
 extraction-date: 2026-03-08
 ---
 
@@ -27,32 +28,32 @@ extraction-date: 2026-03-08
 ### 1. Four-Phase Training Architecture
 > "Time-bound, progressive, modular, clinically relevant, designed to scaffold cognitive transformation."
 
-**Zettel extracted:** [[Bootcamp_Four_Phase_Structure_Z-001-1035]
+**Zettel extracted:** [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
 
 ### 2. Foundation and Mental Rewiring (Weeks 1-2)
 > "Reformat their brain's operating system. Metabolism as information flow. Mitochondria as decision-makers, not furnaces."
 
-**Zettel extracted:** [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]
+**Zettel extracted:** [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]]
 
 ### 3. Organic Acids Mastery (Weeks 3-4)
 > "Pattern recognition by category. Markers come in flocks, never alone. Feel metabolomics as a language."
 
-**Zettel extracted:** [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]
+**Zettel extracted:** [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]]
 
 ### 4. Fatty Acids and Lipid Signaling (Weeks 5-6)
 > "Ratios matter, not absolutes. Seed oil collapse as clinical insult."
 
-**Zettel extracted:** [[Phase_3_Lipidomics_Interpretation_Z-001-1038]
+**Zettel extracted:** [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
 
 ### 5. Integration and Clinical Practice (Weeks 7-8)
 > "The 'metabolomics brain' being formed. Energy-first reasoning, cellular detox, membrane reconstruction."
 
-**Zettel extracted:** [[Phase_4_Clinical_Integration_Drills_Z-001-1039]
+**Zettel extracted:** [[Phase_4_Clinical_Integration_Drills_Z-001-1039]]
 
 ### 6. Teaching Style Selection
 > "Military Instructor vs Socratic Mentor vs Hybrid Precision. Choose based on trainee personality and clinic needs."
 
-**Zettel extracted:** [[Training_Teaching_Style_Framework_Z-001-1040]
+**Zettel extracted:** [[Training_Teaching_Style_Framework_Z-001-1040]]
 
 ## Week-by-Week Syllabus
 
@@ -96,8 +97,6 @@ By graduation, trainees must:
 
 ## Related References
 - [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]] — MCI role definition
--  — Curriculum parent map
--  — Technical analysis content
 
 ---
 
