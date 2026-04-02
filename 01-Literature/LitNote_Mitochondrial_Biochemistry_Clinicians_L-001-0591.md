@@ -28,32 +28,32 @@ extraction-date: "2026-03-08"
 ### 1. Krebs Cycle Architecture
 > "Central mitochondrial pathway oxidizing acetyl-CoA to CO₂ while producing NADH, FADH₂, GTP, and biosynthetic intermediates."
 
-**Zettel extracted:** [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]
+**Zettel extracted:** [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]]
 
 ### 2. TCA Intermediates and Enzymes
 > "Citrate, isocitrate, α-ketoglutarate, succinate, fumarate, malate, oxaloacetate—each with clinical significance."
 
-**Zettel extracted:** [[TCA_Intermediates_Clinical_Significance_Z-001-1049]
+**Zettel extracted:** [[TCA_Intermediates_Clinical_Significance_Z-001-1049]]
 
 ### 3. Oxidative Phosphorylation System
 > "Electron transport Complexes I-IV + ATP synthase; requires NADH, FADH₂, oxygen, membrane potential."
 
-**Zettel extracted:** [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]
+**Zettel extracted:** [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]]
 
 ### 4. Redox Balance and Cofactors
 > "NAD+/NADH and FAD/FADH₂ as electron carriers; B-vitamin derived, rate-limiting for metabolism."
 
-**Zettel extracted:** [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]
+**Zettel extracted:** [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]]
 
 ### 5. Cofactor Deficiency Signatures
 > "OAT patterns revealing B-vitamin and mineral deficiencies: pyruvate→B1, methylmalonate→B12, FIGLU→folate."
 
-**Zettel extracted:** [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]
+**Zettel extracted:** [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
 
 ### 6. Aconitase and Oxidative Stress
 > "Iron-sulfur enzyme sensitive to oxidative stress; marker of mitochondrial damage."
 
-**Zettel extracted:** [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]
+**Zettel extracted:** [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]]
 
 ## Clinical Integration Points
 
