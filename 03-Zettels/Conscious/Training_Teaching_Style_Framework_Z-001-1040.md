@@ -116,8 +116,18 @@ Choose based on:
 - **Citation:** (ChatGPT, 2025)
 
 ## Lateral Links
-- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Curriculum architecture
-- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]] — Where teaching style applies
+
+### Sequential (Bootcamp Context)
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Context: Curriculum where styles are applied
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]] — Application: Integration drills (high-stakes teaching)
+
+### Cross-Cutting (Pedagogy)
+- [[Socratic_Method_Clinical_Reasoning_Z-001-0930]] — Method: Socratic questioning in medicine
+- [[Competency_Based_Assessment_Metabolomics_Z-001-0931]] — Assessment: How to evaluate trainee competence
+- [[Adult_Learning_Theory_Clinical_Z-001-0932]] — Theory: Andragogy principles
+
+### Clinical Education
+- [[Clinical_Preceptorship_Models_Z-001-0933]] — Alternative: Other training models (residency, etc.)
 
 ---
 *Z-001-1040 | Created: 2026-03-08 | Source: ChatGPT, 2025*

@@ -53,10 +53,19 @@ This architecture produces metabolomics clinicians, not pathway parrots. Each ph
 - **Citation:** (ChatGPT, 2025)
 
 ## Lateral Links
-- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]] — Phase 1 details
-- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]] — Phase 2 details
-- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]] — Phase 3 details
-- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]] — Phase 4 details
+
+### Sequential (Bootcamp Chain)
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]] — Phase 1: Foundation details
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]] — Phase 2: OAT mastery details
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]] — Phase 3: Lipidomics details
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]] — Phase 4: Integration details
+
+### Cross-Cutting (Academic Context)
+- [[Systems_Biology_Integrative_Framework_Z-001-0001]] — Contrasts with: Academic systems biology (theory vs. applied training)
+- [[Omics_Cascade_Genotype_Phenotype_Z-001-0002]] — Builds on: Omics hierarchy knowledge from NKUA DE1
+
+### Pedagogical
+- [[Training_Teaching_Style_Framework_Z-001-1040]] — Connects to: How this architecture is taught
 
 ---
 *Z-001-1035 | Created: 2026-03-08 | Source: ChatGPT, 2025*

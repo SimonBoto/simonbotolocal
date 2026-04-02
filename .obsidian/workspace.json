@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "a4c33ba78f1a9541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Zettels/Conscious/Training_Teaching_Style_Framework_Z-001-1040.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Training_Teaching_Style_Framework_Z-001-1040"
+            }
+          },
+          {
+            "id": "200d97ffa4465d19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Zettels/Conscious/Phase_3_Lipidomics_Interpretation_Z-001-1038.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Phase_3_Lipidomics_Interpretation_Z-001-1038"
+            }
+          },
+          {
             "id": "1fde807224ae9dd6",
             "type": "leaf",
             "state": {
@@ -280,14 +328,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1fde807224ae9dd6",
+  "active": "a4c33ba78f1a9541",
   "lastOpenFiles": [
     "01-Literature/LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589.md",
+    "03-Zettels/Conscious/Phase_3_Lipidomics_Interpretation_Z-001-1038.md",
+    "03-Zettels/Conscious/Phase_2_OAT_Pattern_Mastery_Z-001-1037.md",
     "03-Zettels/Conscious/Phase_1_Biochemical_Literacy_Foundation_Z-001-1036.md",
     "03-Zettels/Conscious/Bootcamp_Four_Phase_Structure_Z-001-1035.md",
     "03-Zettels/Conscious/Phase_4_Clinical_Integration_Drills_Z-001-1039.md",
-    "03-Zettels/Conscious/Phase_3_Lipidomics_Interpretation_Z-001-1038.md",
-    "03-Zettels/Conscious/Phase_2_OAT_Pattern_Mastery_Z-001-1037.md",
     "08-Structure/MOCs/MOC-Clinical-Training.md",
     "Base File All Notes.base",
     "08-Structure/Templates/Template_LitNote_Assessment_v1.0.md",

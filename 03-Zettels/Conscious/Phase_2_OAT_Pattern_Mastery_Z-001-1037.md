@@ -65,9 +65,19 @@ By end of Week 4:
 - **Citation:** (ChatGPT, 2025)
 
 ## Lateral Links
-- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]] — Previous phase
-- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]] — Next phase
-- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Overall architecture
+
+### Sequential (Bootcamp Chain)
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]] — Previous: Foundation phase
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]] — Next: Lipidomics phase
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Parent: Overall architecture
+
+### Cross-Cutting (Pattern Recognition)
+- [[Pattern_Recognition_Metabolomics_Z-001-0916]] — Method: Pattern-based interpretation methodology
+- [[Biomarkers_Precision_Medicine_Z-001-0909]] — Context: Where OAT fits in precision medicine
+- [[Gut_Microbiome_Metabolite_Markers_Z-001-0912]] — Extends: Gut-derived marker interpretation
+
+### Clinical Application
+- [[Mitochondrial_Dysfunction_Markers_Z-001-0914]] — Diagnoses: Mitochondrial distress patterns
 
 ---
 *Z-001-1037 | Created: 2026-03-08 | Source: ChatGPT, 2025*

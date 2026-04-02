@@ -72,9 +72,20 @@ Lipidomics interpretation requires ratio-based thinking, not absolute values. Fa
 - **Citation:** (ChatGPT, 2025)
 
 ## Lateral Links
-- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]] — Previous phase
-- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]] — Next phase
-- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Overall architecture
+
+### Sequential (Bootcamp Chain)
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]] — Previous: OAT mastery phase
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]] — Next: Integration phase
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Parent: Overall architecture
+
+### Cross-Cutting (Fatty Acid Science)
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]] — Mechanism: Fatty acid oxidation pathway
+- [[Cardiolipin_Omega_6_Mitochondrial_Dysfunction_Z-001-0949]] — Clinical: Omega-6 in mitochondrial health
+- [[Omega_3_Index_Cardiovascular_Risk_Z-001-0939]] — Marker: Omega-3 Index interpretation
+- [[Delta_5_Delta_6_Desaturase_Enzymes_Z-001-0940]] — Biochemistry: PUFA conversion enzymes
+
+### Clinical Application
+- [[ApoB_LpA_sdLDL_Advanced_Lipids_Z-006-0002]] — Complements: Advanced lipid marker integration
 
 ---
 *Z-001-1038 | Created: 2026-03-08 | Source: ChatGPT, 2025*

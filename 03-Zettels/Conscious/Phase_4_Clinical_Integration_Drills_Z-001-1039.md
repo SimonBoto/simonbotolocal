@@ -86,9 +86,20 @@ By end of Week 8, trainees must demonstrate:
 - **Citation:** (ChatGPT, 2025)
 
 ## Lateral Links
-- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]] — Previous phase
-- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Overall architecture
-- [[Training_Teaching_Style_Framework_Z-001-1040]] — Pedagogical approach
+
+### Sequential (Bootcamp Chain)
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]] — Previous: Lipidomics phase
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Parent: Overall architecture
+- [[Training_Teaching_Style_Framework_Z-001-1040]] — Method: How integration is taught
+
+### Cross-Cutting (Integration Science)
+- [[Multi_Omic_Integration_Clinical_Z-001-0925]] — Method: Multi-modal data integration
+- [[Energy_First_Reasoning_Clinical_Z-001-0926]] — Framework: Energy-first clinical approach
+- [[Detoxification_Pathway_Support_Z-001-0927]] — Protocol: Cellular detox strategies
+- [[Membrane_Repair_Phospholipid_Therapy_Z-001-0928]] — Intervention: Membrane reconstruction
+
+### Clinical Application
+- [[Case_Based_Learning_Metabolomics_Z-001-0929]] — Method: Clinical case methodology
 
 ---
 *Z-001-1039 | Created: 2026-03-08 | Source: ChatGPT, 2025*
