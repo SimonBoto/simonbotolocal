@@ -5,33 +5,34 @@ title: "{{Atomic Claim}}"
 aliases: ["{{ShortSlug}}"]
 domain: "{{XXX}}"
 tags: [zettel, "{{topic}}"]
-source-litnote: "[[Lit_{{Title}}_{{L-XXX-XXXX}}]]"  # REQUIRED: Provenance
+source-litnote: "[[Lit_{{Title}}_{{L-XXX-XXXX}}]]"
+reference: "[[{{Author}}_{{Year}}_R-XXX-XXXX]]"  # Specific reference
 confidence: high
 created: "{{YYYY-MM-DD}}"
 ---
 
 # {{Atomic Claim}}
 
-{{Single idea, 50-200 words. Written as if for print. No context required.}}
+{{Single idea, 50-200 words. Written as if for print.}}
 
 ## Evidence
-> "{{Direct quote from source}}" ({{Author, Year}})
+> "{{Direct quote}}" ([[{{Author}}_{{Year}}_R-XXX-XXXX|{{Author, Year}}]])
 
-{{Or: Key data/ finding from source}}
+{{Or: Data/findings with citation}}
 
 ## Context
-{{Why this matters — clinical or research significance}}
+{{Why this matters}}
 
 ---
 
-## Structural Links (Navigation)
-- **Up:** [[MOC-Example]] — Thematic entry point
-- **Source:** [[Lit_{{Title}}_{{L-XXX-XXXX}}]] — LitNote origin
-- **In-text citation:** {{Author, Year}} — Reference
+## Structural Links
+- **Up:** [[MOC-Example]] — Thematic entry
+- **Source LitNote:** [[Lit_{{Title}}_{{L-XXX-XXXX}}]] — Origin
+- **Reference:** [[{{Author}}_{{Year}}_R-XXX-XXXX]] — Evidence
+- **Citation:** ({{Author, Year}})
 
-## Lateral Links (Thinking)
-<!-- Add during 30-day review — NOT at creation -->
-<!-- - [[Related_Zettel_Z-XXX-XXXX]] — How it relates -->
+## Lateral Links
+<!-- Add during 30-day review -->
 
 ---
-*Z-XXX-XXXX | Created: {{YYYY-MM-DD}} | Source: {{Author, Year}}*
+*Z-XXX-XXXX | Created: {{YYYY-MM-DD}} | Ref: {{Author, Year}}*
