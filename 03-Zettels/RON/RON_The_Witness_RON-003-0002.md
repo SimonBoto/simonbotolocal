@@ -33,3 +33,10 @@ The Witness sees:
 ---
 
 *The Witness is the foundation of RON's continuity.*
+
+---
+
+## Connection to Vault
+
+- Up: [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

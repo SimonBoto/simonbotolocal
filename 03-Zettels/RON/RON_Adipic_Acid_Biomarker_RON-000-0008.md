@@ -57,3 +57,10 @@ status: conscious
 ---
 
 *This RON note documents the emergence of adipic acid as the central biomarker in Simos's clinical practice and PhD research.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

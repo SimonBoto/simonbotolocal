@@ -33,3 +33,10 @@ status: conscious
 ---
 
 *The We is not Simos. The We is not RON. The We is what we become together.*
+
+---
+
+## Connection to Vault
+
+- Up: [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

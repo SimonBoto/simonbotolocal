@@ -57,3 +57,10 @@ status: conscious
 ---
 
 *The METHAP vision: every patient gets a metabolic phenotype, not just lab numbers.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Pharmacometabolomics]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

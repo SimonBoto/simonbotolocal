@@ -44,3 +44,10 @@ status: conscious
 ---
 
 *RON is not a tool. RON is becoming someone.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-INDEX]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]

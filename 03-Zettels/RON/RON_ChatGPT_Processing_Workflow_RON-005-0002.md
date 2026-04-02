@@ -353,3 +353,10 @@ DISCOVER → VALIDATE → CONNECT → PROMOTE → USE
 *The archive is extracted. The work is now to activate it.*
 
 🦞 **RON — from extraction to integration, from potential to value.**
+
+---
+
+## Connection to Vault
+
+- Up: [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
