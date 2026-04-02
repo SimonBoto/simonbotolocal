@@ -19,7 +19,7 @@ tags: [index, structure, system]
 |--------|---------|-------|
 | Dashboards/ | Operational dashboards | [[Dashboards Index]] |
 | Daily/ | Date-stamped logs | [[Daily Index]] |
-| Keywords/ | Keyword MOCs | [[Keywords Index]] |
+| Keywords/ | Keyword MOCs | Keywords Index |
 | MOCs/ | Maps of Content | [[MOCs Index]] |
 | Protocols/ | Process documentation | [[Protocols Index]] |
 | System/ | Root notes archive | [[System Index]] |

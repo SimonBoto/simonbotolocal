@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 # Lit: ChatGPT 2024 — High-Dose Vitamin C in Oncology
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]]
+- **ChatGPT conversation:** 00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]
 - **Date:** October 27, 2024
 
 ## Core Concepts Extracted

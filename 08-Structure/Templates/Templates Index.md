@@ -33,7 +33,7 @@ parent-moc: [[08 Structure Index]]]
 ## Connection to Vault
 
 - Up: [[08 Structure Index]]
-- Related: [[Protocols Index]], [[03 Zettels Index]]
+- Related: [[Protocols Index]], 03 Zettels Index
 
 ---
 

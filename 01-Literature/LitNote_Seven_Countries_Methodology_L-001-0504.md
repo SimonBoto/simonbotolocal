@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Seven Countries Study Methodology and Scientific Critique
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]]]
+- **ChatGPT conversation:** 00-Inbox/Processed/CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]
 - **Date:** Deep methodological analysis
 - **Scope:** Study design, ecological fallacy, selection bias, statistical issues, confounding
 

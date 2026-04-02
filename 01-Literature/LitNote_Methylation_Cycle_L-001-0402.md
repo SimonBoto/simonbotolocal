@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: The Methylation Cycle — SAM, SAH, and Epigenetic Regulation
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]]
+- **ChatGPT conversation:** 00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]
 - **Date:** October 27, 2024
 - **Scope:** SAM synthesis, methyl donation, DNA/histone methylation, epigenetic regulation
 

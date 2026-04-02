@@ -88,7 +88,7 @@ status: active
 
 - Up: [[07 Projects Index]]
 - Related: [[PhD Index]] (research feeds clinic)
-- Source: [[03 Zettels Index]] (bootcamp materials)
+- Source: 03 Zettels Index (bootcamp materials)
 
 ---
 

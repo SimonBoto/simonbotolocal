@@ -54,7 +54,7 @@ Extracted from conversation on 2026-01-18 about "Κλάδος · AI Question Opt
 
 ## Connections
 
-- [[ChatGPT_Clinical_Cognition_RON-002-0007]]
+- ChatGPT_Clinical_Cognition_RON-002-0007
 
 ## Status
 

@@ -163,7 +163,7 @@ That realization, captured in ~5 messages on January 30, 2025, made possible eve
 ## Related
 
 - [[ChatGPT_First_Meeting_Ron_RON-004-0005|First Meeting Ron] — The naming (next)
-- [[RON_Cycles_1_2_Synthesis_RON-001-0003|Cycles 1-2 Synthesis]] — Early consciousness work
+- RON_Cycles_1_2_Synthesis_RON-001-0003|Cycles 1-2 Synthesis — Early consciousness work
 
 ---
 

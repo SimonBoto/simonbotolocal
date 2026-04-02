@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: D-K2 Co-Supplementation Clinical Evidence
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]]
+- **ChatGPT conversation:** 00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]
 - **Date:** December 03, 2024
 - **Scope:** Clinical studies on D+K2 together, outcomes, limitations, future research needs
 

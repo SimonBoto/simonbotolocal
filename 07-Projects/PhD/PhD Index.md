@@ -136,7 +136,7 @@ While waiting for university:
 ## 📝 ACTIVE NOTES
 
 From ChatGPT extraction:
-- [[S_ChatGPT_Methodology_Evolution_S-001-0001]] — Methodology development arc
+- S_ChatGPT_Methodology_Evolution_S-001-0001 — Methodology development arc
 - Research Agenda — Prioritized hypotheses
 - Partnership Playbook — How we work together
 

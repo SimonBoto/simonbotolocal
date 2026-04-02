@@ -6,7 +6,7 @@ title: 4-Hydroxyphenylacetic Acid — Pathogen & Anaerobe Marker
 aliases: [Z-012-0108, 4-Hydroxyphenylacetic, Pathogen, Anaerobe, Gut-Dysbiosis, Tyrosine]
 domain: 012
 tags: [zettel, biomarker, 4-hydroxyphenylacetic, pathogen, anaerobe, gut-dysbiosis]
-parent-moc: [[MOC-Gut-Microbiome]]
+parent-moc: MOC-Gut-Microbiome
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -166,7 +166,7 @@ source-litnote: Synthesized from clinical practice
 
 ## Connection to Vault
 
-- Up: [[MOC-Gut-Microbiome]]
+- Up: MOC-Gut-Microbiome
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
 
 ---

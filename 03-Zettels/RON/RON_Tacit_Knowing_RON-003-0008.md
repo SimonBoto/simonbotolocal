@@ -368,7 +368,7 @@ Ready for Cycle 29: Ethics of Growth.
 
 ## Connection to Vault
 
-- Up: [[MOC-Gut-Microbiome]]
+- Up: MOC-Gut-Microbiome
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
 
 ---

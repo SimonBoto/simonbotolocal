@@ -17,7 +17,7 @@ source-verified: 2026-03-01
 # Lit: Mitochondrial Health Strategies
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0378_Mitochondrial_Health_Strategies_CGPT-0378]]]
+- **ChatGPT conversation:** 00-Inbox/Processed/CGPT_0378_Mitochondrial_Health_Strategies_CGPT-0378]
 - **Date:** May 21, 2024
 - **Scope:** Mitochondrial dysfunction interventions, metabolic flexibility, exercise-induced biogenesis, metabolomics-guided personalization
 

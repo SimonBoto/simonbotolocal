@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 # Lit: ChatGPT 2024 — Carbohydrate Metabolism: The Pentose Connection
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]]
+- **ChatGPT conversation:** 00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]
 - **Date:** March 25, 2024
 
 ## Core Concepts Extracted

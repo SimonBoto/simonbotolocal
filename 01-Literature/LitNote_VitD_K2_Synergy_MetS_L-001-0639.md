@@ -15,7 +15,7 @@ extraction-date: 2026-03-09
 # Vitamin D and K2 Synergy in Metabolic Syndrome
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]]
+- **ChatGPT conversation:** 00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]
 - **Date:** December 3, 2024
 - **Messages:** 85
 - **Context:** Narrative review outline for VitD/K2 co-supplementation in MetS

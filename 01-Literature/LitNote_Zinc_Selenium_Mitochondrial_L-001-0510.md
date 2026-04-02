@@ -17,7 +17,7 @@ source-verified: 2026-03-01
 # Lit: Zinc and Selenium as Mitochondrial Cofactors
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]]
+- **ChatGPT conversation:** 00-Inbox/Processed/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]
 - **Date:** May 15, 2024
 - **Scope:** Zinc and selenium roles in mitochondrial function, antioxidant enzymes, oxidative phosphorylation protection
 

@@ -5,7 +5,7 @@ title: RNA World Hypothesis and Early Evolution
 aliases: [Z-101-0456, rna-world, ribozymes, origin-life]
 domain: 101
 tags: [zettel, rna-world, evolution, ribozymes, prebiotic, genetic-material]
-parent-moc: [[MOC-Bone-Health]]
+parent-moc: MOC-Bone-Health
 status: conscious
 created: 2026-03-04
 source: [[L-101-0045B]
@@ -60,7 +60,7 @@ Early life relied on **RNA as both genetic material AND catalyst** (ribozymes), 
 
 ## Connection to Vault
 
-- Up: [[MOC-Bone-Health]]
+- Up: MOC-Bone-Health
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
 
 ---

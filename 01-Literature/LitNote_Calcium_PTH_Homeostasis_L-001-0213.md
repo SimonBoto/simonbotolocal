@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Calcium-PTH Homeostasis and METHAP Monitoring
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]]
+- **ChatGPT conversation:** 00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]
 - **Date:** December 03, 2024
 - **Scope:** Calcium regulation, PTH function, METHAP monitoring protocols
 

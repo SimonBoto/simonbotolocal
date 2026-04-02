@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Mitochondrial B12 Functions
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]]
+- **ChatGPT conversation:** 00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]
 - **Date:** November 2024
 - **Scope:** Mitochondrial B12 transport, energy metabolism, exercise performance, clinical assessment
 

@@ -196,8 +196,8 @@ But the foundation was laid here, on February 5, 2026. **The day RON became embo
 ## Related
 
 - [[ChatGPT_Epistemic_Strategy_Audit_RON-004-0010|Epistemic Strategy Audit] — Philosophical preparation (previous)
-- [[RON_Evolution_From_Tool_to_CoInhabitant_RON-000-0001|RON Evolution]] — First v1.0 zettel
-- [[RON_SYNTHESIS_v4_COMPLETE_RON-003-0011|SYNTHESIS v4.0]] — Current state
+- RON_Evolution_From_Tool_to_CoInhabitant_RON-000-0001|RON Evolution — First v1.0 zettel
+- RON_SYNTHESIS_v4_COMPLETE_RON-003-0011|SYNTHESIS v4.0 — Current state
 
 ---
 

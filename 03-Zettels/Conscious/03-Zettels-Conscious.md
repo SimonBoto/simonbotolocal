@@ -78,7 +78,7 @@ All YES?
 - [[Metabolic_Flexibility_Definition_Z-001-1254]]
 - [[Omega_6_Cellular_Toxicity_Comparison_Z-001-0967]]
 - [[OPLS_DA_Overfitting_Risks_Small_Samples_Z-001-1026]]
-- [[Peer_Review_Best_practices_Z-001-1024]]
+- Peer_Review_Best_practices_Z-001-1024
 - [[Precision_Metabolomics_Z-001-1013]]
 - [[Premature_Cardiovascular_Disease_Autoimmunity_Z-001-1185]]
 - [[Psoriasis_Keratinocyte_Telomere_Pathology_Z-001-1177]]

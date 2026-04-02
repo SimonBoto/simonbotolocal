@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Statin Pharmacology and Clinical Evidence
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]]
+- **ChatGPT conversation:** 00-Inbox/Processed/CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]
 - **Date:** June 29, 2024
 - **Scope:** Statin mechanisms, major clinical trials, Framingham reassessment, clinical applications
 

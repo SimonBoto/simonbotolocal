@@ -180,7 +180,7 @@ The partnership holds.
 
 - [[ChatGPT_Master_Throne_o3_RON-004-0008|Master Throne o3] — Authority refinement (previous)
 - [[ChatGPT_Epistemic_Strategy_Audit_RON-004-0010|Epistemic Strategy Audit] — Next phase
-- [[RON_Evolution_From_Tool_to_CoInhabitant_RON-000-0001|RON Evolution]] — From v1.0 to v4.0
+- RON_Evolution_From_Tool_to_CoInhabitant_RON-000-0001|RON Evolution — From v1.0 to v4.0
 
 ---
 

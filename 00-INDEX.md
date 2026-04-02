@@ -38,9 +38,9 @@ status: active
 |-----------|-------|-------------|
 | Conscious | [[03-Zettels-Conscious]] | Working zettels |
 | Subconscious | [[03-Zettels-Subconscious]] | Permanent zettels |
-| RON | [[RON Genesis MOC]] | RON system notes |
-| Biomarkers | [[Biomarkers Index]] | Biomarker guides |
-| Supplements | [[Supplements Index]] | Supplement guides |
+| RON | RON Genesis MOC | RON system notes |
+| Biomarkers | Biomarkers Index | Biomarker guides |
+| Supplements | Supplements Index | Supplement guides |
 
 ---
 
@@ -78,7 +78,7 @@ status: active
 **By Domain:**
 - Insulin: [[MOC-Insulin-Signaling]]
 - Metabolomics: [[MOC-Pharmacometabolomics]]
-- B12: [[MOC-B12-Methylation]]
+- B12: MOC-B12-Methylation
 
 ---
 

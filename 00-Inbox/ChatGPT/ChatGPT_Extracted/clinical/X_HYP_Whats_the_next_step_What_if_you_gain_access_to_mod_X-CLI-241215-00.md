@@ -46,7 +46,7 @@ If true, this suggests:
 
 ## Connections
 
-- [[ChatGPT_Clinical_Cognition_RON-002-0007]]
+- ChatGPT_Clinical_Cognition_RON-002-0007
 
 ## Validation Log
 

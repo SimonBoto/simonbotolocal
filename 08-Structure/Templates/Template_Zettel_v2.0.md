@@ -40,7 +40,7 @@ extraction-date: "{{YYYY-MM-DD}}"
 - Inline: "This contrasts with [[Lipotoxicity_Pathway_IR_Z-001-0029]]"
 
 **CRITICAL RULE:**
-Bare UIDs like `[[Z-001-0041]` create empty notes. Always use full format: `[[Title_Z-001-0041]]`
+Bare UIDs like `[[Z-001-0041]` create empty notes. Always use full format: `Title_Z-001-0041`
 
 **Verification:** `grep -r '\[\[Z-[0-9]\{4\}-[0-9]\{4\}\]\]' 03-Zettels/` should return nothing.
 
@@ -48,8 +48,8 @@ Bare UIDs like `[[Z-001-0041]` create empty notes. Always use full format: `[[Ti
 
 **Goal:** 2-3 lateral connections to *content-related* notes (not hierarchical)
 
-- [[{{Related_Zettel_1}}_{{Z-XXX-XXXX}}]] — {{Connection: how ideas relate}}
-- [[{{Related_Zettel_2}}_{{Z-XXX-XXXX}}]] — {{Connection: contrast or support}}
+- {{Related_Zettel_1}}_{{Z-XXX-XXXX}} — {{Connection: how ideas relate}}
+- {{Related_Zettel_2}}_{{Z-XXX-XXXX}} — {{Connection: contrast or support}}
 
 **Principle:** These create the "thinking graph" — serendipity through connection
 

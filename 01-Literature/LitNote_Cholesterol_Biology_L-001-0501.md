@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Cholesterol Biology and Lipid Metabolism in Aging
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0086_Twelve_Hallmarks_of_Aging_Full_List_CGPT-0086]]
+- **ChatGPT conversation:** CGPT_0086_Twelve_Hallmarks_of_Aging_Full_List_CGPT-0086
 - **Date:** September 2024
 - **Scope:** Cholesterol synthesis, lipoprotein metabolism, cellular functions, aging connection, inflammation
 
