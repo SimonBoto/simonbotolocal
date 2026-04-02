@@ -49,3 +49,6 @@ The insulin receptor (INSR) is a tetrameric receptor tyrosine kinase expressed o
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

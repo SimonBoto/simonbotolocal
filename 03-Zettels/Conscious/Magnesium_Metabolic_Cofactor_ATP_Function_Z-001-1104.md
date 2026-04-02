@@ -106,3 +106,6 @@ Magnesium is essential for ATP function and serves as cofactor for over 300 enzy
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

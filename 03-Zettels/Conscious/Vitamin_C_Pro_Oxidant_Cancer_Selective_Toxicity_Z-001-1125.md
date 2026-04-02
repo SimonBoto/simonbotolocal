@@ -142,3 +142,6 @@ Ascorbate + O₂ → Dehydroascorbate + H₂O₂
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

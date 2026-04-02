@@ -215,3 +215,5 @@ How: [Brief method]
 ---
 
 *Extracted: 2026-03-09 | Strategic content | Phase 1, Item 1*
+---
+parent-index: [[00-MISSION]]

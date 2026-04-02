@@ -48,3 +48,6 @@ Three convergent facts reveal systemic failure in vitamin D public health policy
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

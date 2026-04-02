@@ -193,3 +193,6 @@ Degrades branched-chain amino acid derivatives
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

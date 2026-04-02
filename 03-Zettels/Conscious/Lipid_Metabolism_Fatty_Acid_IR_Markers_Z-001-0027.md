@@ -156,3 +156,6 @@ High-dose VitD → improved omega-6:3 balance (via inflammation reduction) → i
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -60,3 +60,6 @@ An alternative  signaling pathway involves Cbl-CAP complex and lipid raft locali
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

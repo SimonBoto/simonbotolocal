@@ -37,3 +37,6 @@ For severe vitamin D deficiency (25[OH]D < 10 ng/mL), a loading dose of 50,000 I
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

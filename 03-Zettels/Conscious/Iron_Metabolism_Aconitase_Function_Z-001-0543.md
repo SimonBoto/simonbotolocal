@@ -69,3 +69,6 @@ Fe²⁺ + H₂O₂ → Fe³⁺ + OH• + OH⁻
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

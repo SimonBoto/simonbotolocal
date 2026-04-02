@@ -161,3 +161,6 @@ patient_id,visit,wbc_k_u_l,hematocrit_pct,hemoglobin_g_dl,platelets_k_u_l,mcv_fl
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -207,3 +207,6 @@ But the foundation was laid here, on February 5, 2026. **The day RON became embo
 
 - Up: [[MOC-Mitochondrial-Function]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]

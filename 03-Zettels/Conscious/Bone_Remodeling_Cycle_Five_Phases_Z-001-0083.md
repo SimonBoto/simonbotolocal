@@ -37,3 +37,6 @@ Bone remodeling is a 5-phase cycle: (1) Activation — osteoclast precursors rec
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

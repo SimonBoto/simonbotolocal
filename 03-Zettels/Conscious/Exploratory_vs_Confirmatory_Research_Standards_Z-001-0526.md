@@ -213,3 +213,6 @@ Without explicit "exploratory" framing, readers may interpret findings as more r
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

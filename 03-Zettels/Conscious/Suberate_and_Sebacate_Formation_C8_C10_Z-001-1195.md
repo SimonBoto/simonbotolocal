@@ -124,3 +124,6 @@ Sebacate → Suberate → Adipate → Succinyl-CoA + 3 Acetyl-CoA
 
 - Up: [[MOC-Lipid-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

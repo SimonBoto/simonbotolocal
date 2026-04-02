@@ -108,3 +108,6 @@ domain: 001
 **Status:** Complete
 
 **Source:** CGPT-0258 — MAOIs and DAO Interaction
+
+---
+parent-index: [[00-MISSION]]

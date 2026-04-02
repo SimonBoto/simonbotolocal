@@ -192,3 +192,6 @@ patient_id,visit,ldl_c_mg_dl,apo_b_mg_dl,ldl_apob_ratio,pattern_type,tg_hdl_rati
 
 - Up: [[MOC-Mitochondrial-Function]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

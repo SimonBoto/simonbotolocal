@@ -75,3 +75,6 @@ patient_id,date,visit_number,age,bmi,waist_hip,vit_d_ng_ml,tsh_ft3_ft4,anti_tpo,
 ---
 
 *Standardized export for statistical analysis in R/Python*
+
+---
+parent-index: [[03-Zettels-Conscious]]

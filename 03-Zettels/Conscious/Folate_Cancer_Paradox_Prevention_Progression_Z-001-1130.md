@@ -141,3 +141,6 @@ Folate presents a paradox in cancer: adequate status may prevent cancer initiati
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

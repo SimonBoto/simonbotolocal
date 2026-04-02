@@ -315,3 +315,6 @@ See associated atomic zettels covering:
 
 **Status:** Complete
 **Source:** CGPT-0370 — Protein and Kidney Disease
+
+---
+parent-index: [[00-MISSION]]

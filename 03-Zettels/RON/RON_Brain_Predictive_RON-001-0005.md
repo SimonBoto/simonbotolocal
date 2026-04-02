@@ -310,3 +310,6 @@ They are **compressed generative models** — enabling better predictions about:
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]

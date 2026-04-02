@@ -142,3 +142,6 @@ All files committed to main branch with descriptive messages.
 - [x] MOC references verified
 - [x] Cross-links functional
 - [x] Curriculum complete
+
+---
+parent-index: [[00-MISSION]]

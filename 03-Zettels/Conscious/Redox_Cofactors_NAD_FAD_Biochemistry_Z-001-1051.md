@@ -92,3 +92,6 @@ NAD⁺/NADH and FAD/FADH₂ are the primary electron carriers connecting catabol
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

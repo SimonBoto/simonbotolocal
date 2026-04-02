@@ -217,3 +217,6 @@ Acetyl-CoA → Krebs cycle → ATP
 ---
 
 *Extracted: 2026-03-04 | Batch 3 of 5 from CGPT-0445*
+
+---
+parent-index: [[00-MISSION]]

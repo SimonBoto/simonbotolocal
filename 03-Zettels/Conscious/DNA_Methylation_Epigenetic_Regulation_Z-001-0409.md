@@ -88,3 +88,6 @@ B12/Folate → Methionine → SAM → DNMT activity → DNA methylation
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

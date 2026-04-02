@@ -304,3 +304,6 @@ A focused panel of metabolic biomarkers provides insight into nutritional status
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

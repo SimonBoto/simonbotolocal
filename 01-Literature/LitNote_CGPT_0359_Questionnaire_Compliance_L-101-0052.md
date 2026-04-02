@@ -149,3 +149,6 @@ Seeking ethics approval for multiple questionnaires (SF-36, FFQ, Numex, 24-hour 
 
 ---
 *Extracted: 2026-03-28 | 1 zettel | Domain: 101 (Research Ethics)*
+
+---
+parent-index: [[00-MISSION]]

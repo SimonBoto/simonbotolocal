@@ -75,3 +75,6 @@ METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-section
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

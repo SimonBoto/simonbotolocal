@@ -221,3 +221,6 @@ See associated atomic zettels covering:
 
 **Status:** Complete
 **Source:** CGPT-0345 — Alkaline Phosphatase Overview
+
+---
+parent-index: [[00-MISSION]]

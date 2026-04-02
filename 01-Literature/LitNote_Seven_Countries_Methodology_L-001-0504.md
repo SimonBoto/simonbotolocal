@@ -411,3 +411,6 @@ Ratio likely captures **Mediterranean dietary pattern** — not mechanistic effe
 ---
 
 *Literature note processed: 2026-03-01*
+
+---
+parent-index: [[00-MISSION]]

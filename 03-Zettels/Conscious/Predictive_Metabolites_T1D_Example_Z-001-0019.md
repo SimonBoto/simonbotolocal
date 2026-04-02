@@ -119,3 +119,6 @@ Just as T1D metabolites predict disease, **adipic acid may predict insulin resis
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

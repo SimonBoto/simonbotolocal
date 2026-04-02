@@ -138,3 +138,6 @@ Cancer cells produce large amounts of lactate through aerobic glycolysis, acidif
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

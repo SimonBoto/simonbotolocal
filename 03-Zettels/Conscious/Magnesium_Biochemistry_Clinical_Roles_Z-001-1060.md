@@ -84,3 +84,6 @@ Magnesium is a cofactor for >300 enzymes, essential for ATP function, muscle rel
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

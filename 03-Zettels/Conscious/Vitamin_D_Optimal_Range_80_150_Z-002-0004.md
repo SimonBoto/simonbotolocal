@@ -166,3 +166,6 @@ patient_id,visit,vit_d_dose_iu_daily,vit_d_25_oh_ng_ml,vit_d_status
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

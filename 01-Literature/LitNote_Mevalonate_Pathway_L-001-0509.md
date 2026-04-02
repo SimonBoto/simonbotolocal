@@ -446,3 +446,6 @@ Acetyl-CoA → Mevalonate → Cholesterol → 7-Dehydrocholesterol
 ---
 
 *Batch 3 complete. Continue to Batch 4: Zinc and Selenium Cofactors?* ⛏️
+
+---
+parent-index: [[00-MISSION]]

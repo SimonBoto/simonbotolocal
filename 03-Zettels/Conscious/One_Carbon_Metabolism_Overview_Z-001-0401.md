@@ -90,3 +90,6 @@ THF ↔ 5,10-Methylene-THF ↔ 5-Methyl-THF
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

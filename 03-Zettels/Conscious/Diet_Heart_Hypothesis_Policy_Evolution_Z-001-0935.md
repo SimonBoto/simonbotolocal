@@ -56,3 +56,6 @@ Paradigm resistance made correction difficult even as evidence evolved.
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

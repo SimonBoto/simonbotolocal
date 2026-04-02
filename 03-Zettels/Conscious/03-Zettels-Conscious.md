@@ -101,3 +101,6 @@ All YES?
 
 - Up: [[MOC-Metabolomics]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

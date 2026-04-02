@@ -37,3 +37,6 @@ Sarcopenia (age-related muscle loss) and bone loss are connected. Low muscle mas
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

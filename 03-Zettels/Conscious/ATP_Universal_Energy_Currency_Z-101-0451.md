@@ -54,3 +54,6 @@ Conserved for ~4 billion years — strongest evidence for common ancestry of all
 
 - Up: [[MOC-Bone-Health]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

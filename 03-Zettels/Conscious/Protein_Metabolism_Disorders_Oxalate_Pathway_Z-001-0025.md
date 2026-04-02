@@ -116,3 +116,6 @@ When analyzing urine organic acids, clinicians assess:
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -120,3 +120,6 @@ Organic acids testing reveals gut microbial , dysbiosis, and intestinal permeabi
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

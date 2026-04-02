@@ -47,3 +47,6 @@ In the 1930s-1950s, widespread vitamin D fortification of milk and cereals to co
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

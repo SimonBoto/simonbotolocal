@@ -55,3 +55,6 @@ Mutations in the  receptor gene cause extreme  syndromes, revealing the critical
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -177,3 +177,6 @@ Deficient: Fatty acid → Incomplete oxidation → Adipic acid (excreted)
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

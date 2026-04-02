@@ -58,3 +58,6 @@ HOMA-IR (Homeostatic Model Assessment for  Resistance) requires elevated glucose
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -50,3 +50,6 @@ Corrected calculations using proper statistical methods (accounting for variabil
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

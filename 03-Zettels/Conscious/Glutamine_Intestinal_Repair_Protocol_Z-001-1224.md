@@ -134,3 +134,6 @@ Glutamine is the primary fuel source for enterocytes (intestinal epithelial cell
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

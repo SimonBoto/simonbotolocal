@@ -37,3 +37,6 @@ Osteopenia is defined by a T-score between −1.0 and −2.5 on dual-energy X-ra
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

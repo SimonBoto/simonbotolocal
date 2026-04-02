@@ -100,3 +100,6 @@ Each Krebs cycle intermediate has clinical meaning when elevated or depleted on 
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

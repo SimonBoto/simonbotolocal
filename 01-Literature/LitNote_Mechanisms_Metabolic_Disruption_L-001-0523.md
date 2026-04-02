@@ -101,3 +101,6 @@ INSULIN RESISTANCE → METABOLIC SYNDROME → TYPE 2 DIABETES
 **Zettels extracted:** 5 (Z-001-0950, Z-001-0951, Z-001-0952, Z-001-0953, Z-001-0954)
 **Status:** Complete
 **Next:** LitNote 3 — Industrial Processing and Toxins
+
+---
+parent-index: [[00-MISSION]]

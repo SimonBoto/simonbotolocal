@@ -55,3 +55,6 @@ Cholecalciferol (3) and calcitriol (1,25-dihydroxyvitamin D) have dramatically d
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

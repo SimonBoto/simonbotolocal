@@ -154,3 +154,6 @@ GKI = 70 ÷ 2.0 = 35 → 3.5 (therapeutic range)
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

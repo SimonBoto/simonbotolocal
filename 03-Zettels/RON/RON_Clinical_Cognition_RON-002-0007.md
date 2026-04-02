@@ -442,3 +442,6 @@ Ready for Cycle 18: Systems Thinking.
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]

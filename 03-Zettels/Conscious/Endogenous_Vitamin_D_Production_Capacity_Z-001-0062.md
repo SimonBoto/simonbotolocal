@@ -46,3 +46,6 @@ Human skin can synthesize 10,000-20,000 IU of vitamin D3 (cholecalciferol) in 15
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

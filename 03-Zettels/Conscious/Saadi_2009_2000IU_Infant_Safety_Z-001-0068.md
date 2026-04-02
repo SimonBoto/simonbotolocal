@@ -49,3 +49,6 @@ Saadi et al. (2009) demonstrated safety of 2,000 IU/day in infants over short du
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

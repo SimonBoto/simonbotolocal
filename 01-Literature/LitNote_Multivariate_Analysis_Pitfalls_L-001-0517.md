@@ -121,3 +121,6 @@ domain: 001
 ---
 
 **AUDIT NOTE:** These zettels address the gap between "significant" multivariate results and biologically meaningful findings. Critical for avoiding overfitting in METHAP analysis plan.
+
+---
+parent-index: [[00-MISSION]]

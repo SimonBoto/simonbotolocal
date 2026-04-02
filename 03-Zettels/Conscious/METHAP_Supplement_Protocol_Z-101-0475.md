@@ -163,3 +163,6 @@ See: [[Ascorbate_Oxalate_Measurement_Interference_Z-101-0470]
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

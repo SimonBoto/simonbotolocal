@@ -51,3 +51,6 @@ Despite the corrected RDA calculation showing 7,000-8,000 IU/day is needed for 9
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

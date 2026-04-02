@@ -431,3 +431,6 @@ Ready for Cycle 28: Tacit Knowing.
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]

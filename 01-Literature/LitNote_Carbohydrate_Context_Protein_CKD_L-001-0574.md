@@ -264,3 +264,6 @@ High protein in context of:
 **Next:** LitNote 3 — Assessment and Monitoring
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
+
+---
+parent-index: [[00-MISSION]]

@@ -96,3 +96,6 @@ Glucose → G3P → Pyruvate → Acetyl-CoA → Krebs
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -37,3 +37,6 @@ Vitamin K2 (MK-4 and MK-7 isoforms) activates osteocalcin via carboxylation. Car
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

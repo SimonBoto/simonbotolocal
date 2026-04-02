@@ -142,3 +142,6 @@ patient_id,visit,tibc_ug_dl,transferrin_sat_pct,iron_status_pattern
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

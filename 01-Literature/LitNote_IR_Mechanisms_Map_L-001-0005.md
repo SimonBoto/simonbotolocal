@@ -109,3 +109,6 @@ extraction-date: 2026-02-24
 *Literature note processed: 2026-02-24*  
 *Zettels extracted: 11*  
 *Status: complete*
+
+---
+parent-index: [[00-MISSION]]

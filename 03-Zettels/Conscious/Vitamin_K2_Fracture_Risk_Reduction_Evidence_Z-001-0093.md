@@ -38,3 +38,6 @@ Several Asian studies demonstrate fracture risk reduction with MK-4 supplementat
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

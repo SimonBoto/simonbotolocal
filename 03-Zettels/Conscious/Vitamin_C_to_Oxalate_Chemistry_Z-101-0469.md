@@ -88,3 +88,6 @@ DHA (C₆H₆O₆) → Oxalic Acid (C₂H₂O₄) + 4 carbons (lost)
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

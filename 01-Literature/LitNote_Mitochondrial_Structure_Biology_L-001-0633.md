@@ -138,3 +138,5 @@ Matrix (Krebs) → Intermembrane Space (ETC) → ATP Synthase (ATP)
 ---
 
 *Extracted: 2026-03-09 | 4,281 lines | Phase 1, Item 1*
+---
+parent-index: [[00-MISSION]]

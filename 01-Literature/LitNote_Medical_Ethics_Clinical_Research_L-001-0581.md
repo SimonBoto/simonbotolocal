@@ -165,3 +165,6 @@ domain: 001
 **Status:** Complete
 
 **Source:** CGPT-0131 — Medical Ethics Assistance
+
+---
+parent-index: [[00-MISSION]]

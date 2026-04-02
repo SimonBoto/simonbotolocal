@@ -72,3 +72,6 @@ Low-dose methotrexate (1/100th of  dose) treats autoimmunity through a mechanism
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

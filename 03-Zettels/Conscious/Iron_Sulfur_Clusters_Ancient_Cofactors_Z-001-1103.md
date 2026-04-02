@@ -103,3 +103,6 @@ Iron-sulfur (Fe-S) clusters are among the most ancient biological cofactors, ess
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

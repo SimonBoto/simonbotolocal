@@ -96,3 +96,6 @@ If 80% of disease risk comes from **environmental modulation of phenotype**, the
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -125,3 +125,6 @@ Chickens fed predominantly on corn and grain-based diets accumulate significantl
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

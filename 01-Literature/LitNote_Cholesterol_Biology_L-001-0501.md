@@ -427,3 +427,6 @@ Cholesterol released (regulates SREBP-2)
 ---
 
 *Literature note processed: 2026-03-01*
+
+---
+parent-index: [[00-MISSION]]

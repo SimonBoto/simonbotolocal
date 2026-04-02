@@ -62,3 +62,6 @@ Early life relied on **RNA as both genetic material AND catalyst** (ribozymes), 
 
 - Up: [[MOC-Bone-Health]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

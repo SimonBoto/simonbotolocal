@@ -145,3 +145,6 @@ patient_id,visit,creatinine_mg_dl,egfr_ml_min,urea_mg_dl,uric_acid_mg_dl,kidney_
 
 - Up: [[MOC-Mitochondrial-Function]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

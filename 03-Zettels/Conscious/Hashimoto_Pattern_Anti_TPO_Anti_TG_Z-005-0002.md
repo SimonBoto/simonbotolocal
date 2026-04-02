@@ -153,3 +153,6 @@ patient_id,visit,anti_tpo_iu_ml,anti_tg_iu_ml,hashimoto_status
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

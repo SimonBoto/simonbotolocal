@@ -171,3 +171,6 @@ Humanized monoclonal antibody against **sclerostin** that uniquely stimulates bo
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -72,3 +72,6 @@ quality-score: medium
 ## Our Use
 **METHAP Trial**: Include adipic/suberic in metabolomics panel for IR assessment.  
 **Clinic**: Screen Hashimoto's patients for adipic elevation as IR early warning.
+
+---
+parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]

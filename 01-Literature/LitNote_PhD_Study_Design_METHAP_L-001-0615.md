@@ -77,3 +77,6 @@ Shift in metabolic biomarkers (urine OA, plasma TFA) from insulin-resistant patt
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 4*
 *Status: extracted*
+
+---
+parent-index: [[00-MISSION]]

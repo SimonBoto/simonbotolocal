@@ -155,3 +155,6 @@ When chicken fat exceeds **36% omega-6 fatty acids** (common in corn-fed birds):
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -37,3 +37,6 @@ When osteoclastic resorption outpaces osteoblastic formation (or formation is in
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

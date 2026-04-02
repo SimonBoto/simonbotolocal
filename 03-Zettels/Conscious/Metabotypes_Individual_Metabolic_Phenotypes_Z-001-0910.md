@@ -114,3 +114,6 @@ This vast chemical diversity underscores why "one size fits all" approaches fail
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -114,3 +114,6 @@ This LitNote documents:
 - [x] All zettel links use FULL format
 - [x] No bare UIDs
 - [x] Concept count matches "Zettels Created from This Source" list
+
+---
+parent-index: [[00-MISSION]]

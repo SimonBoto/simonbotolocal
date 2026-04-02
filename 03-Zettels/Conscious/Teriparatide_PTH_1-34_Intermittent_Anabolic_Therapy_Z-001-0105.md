@@ -139,3 +139,6 @@ Recombinant human parathyroid hormone (1-34 fragment) given as **daily subcutane
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

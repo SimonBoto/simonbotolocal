@@ -337,3 +337,6 @@ Quality assessment evaluates the methodological rigor of included studies. Risk 
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

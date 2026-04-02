@@ -47,3 +47,6 @@ Gallo et al. (2013) randomized controlled trial tested 400, 800, 1,200, and 1,60
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

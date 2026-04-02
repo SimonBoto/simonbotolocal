@@ -135,3 +135,6 @@ Glycolysis is one of the most ancient metabolic pathways, conserved across all d
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

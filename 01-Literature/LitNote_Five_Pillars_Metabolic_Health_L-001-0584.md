@@ -112,3 +112,6 @@ Move beyond single markers to comprehensive metabolic profiling for personalized
 **Status:** Complete
 
 **Source:** CGPT-0124 — Profound Truths Revolutionizing Health
+
+---
+parent-index: [[00-MISSION]]

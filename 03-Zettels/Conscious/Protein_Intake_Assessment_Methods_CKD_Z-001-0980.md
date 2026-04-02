@@ -300,3 +300,6 @@ Nitrogen Balance ≈ Protein Intake/6.25 - (UUN + 4)
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

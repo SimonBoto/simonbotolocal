@@ -48,3 +48,6 @@ The IOM (Institute of Medicine, now National Academy of Medicine) made a fundame
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

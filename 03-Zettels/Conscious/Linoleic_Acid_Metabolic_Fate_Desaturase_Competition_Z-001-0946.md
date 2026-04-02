@@ -139,3 +139,6 @@ GLA (n-6)                                Stearidonic Acid (n-3)
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

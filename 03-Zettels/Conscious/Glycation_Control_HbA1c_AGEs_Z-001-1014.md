@@ -384,3 +384,6 @@ Average glucose (mg/dL) = (28.7 × HbA1c) - 46.7
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -146,3 +146,6 @@ All terpenes/isoprenoids are **lipophilic (fat-soluble)** due to:
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

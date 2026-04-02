@@ -89,3 +89,6 @@ Fatty acid ratios provide integrated s of dietary intake, inflammatory status, a
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

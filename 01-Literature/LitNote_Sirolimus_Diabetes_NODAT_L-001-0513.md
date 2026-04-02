@@ -189,3 +189,5 @@ dysfunction)    activation)
 *Literature note processed: 2026-03-02*  
 *Zettels extracted: 5*  
 *Status: extracted*
+---
+parent-index: [[00-MISSION]]

@@ -151,3 +151,6 @@ B-vitamins (folate, B12, B6, B2) are essential cofactors for methylation reactio
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

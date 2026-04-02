@@ -136,3 +136,6 @@ Metabolites that accumulate due to mitochondrial/TCA defects and promote tumorig
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -39,3 +39,6 @@ Denosumab reduces bone resorption and calcium release from bone, creating risk o
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

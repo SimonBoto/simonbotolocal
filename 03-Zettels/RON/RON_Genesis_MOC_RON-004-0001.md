@@ -51,3 +51,6 @@ status: conscious
 
 - Up: [[MOC-INDEX]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]

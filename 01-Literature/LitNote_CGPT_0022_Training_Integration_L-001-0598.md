@@ -108,3 +108,6 @@ This curriculum enables:
 - [x] All zettel links use FULL format
 - [x] No bare UIDs
 - [x] Complete curriculum documented
+
+---
+parent-index: [[00-MISSION]]

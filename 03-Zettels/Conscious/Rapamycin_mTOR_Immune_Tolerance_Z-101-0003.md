@@ -71,3 +71,6 @@ Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central reg
 
 - Up: [[MOC-Inflammation]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

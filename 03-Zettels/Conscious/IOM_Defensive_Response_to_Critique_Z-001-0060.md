@@ -51,3 +51,6 @@ Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), 
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

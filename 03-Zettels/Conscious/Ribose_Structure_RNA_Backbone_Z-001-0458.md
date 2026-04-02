@@ -69,3 +69,6 @@ Primarily via **Pentose Phosphate Pathway** (not directly from glucose).
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

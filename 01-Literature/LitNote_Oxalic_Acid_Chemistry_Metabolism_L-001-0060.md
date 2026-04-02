@@ -178,3 +178,6 @@ This is critical for understanding branched-chain amino acid metabolism.
 - [ ] All zettel links use FULL format
 - [ ] No bare UIDs
 - [ ] Concept count matches list
+
+---
+parent-index: [[00-MISSION]]

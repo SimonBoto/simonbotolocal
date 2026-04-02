@@ -74,3 +74,6 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

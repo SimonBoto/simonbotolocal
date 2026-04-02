@@ -144,3 +144,6 @@ patient_id,visit,fasting_glucose_mg_dl,fasting_insulin_uu_ml,homa_ir,homa_ir_sta
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

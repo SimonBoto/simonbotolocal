@@ -205,3 +205,6 @@ domain: 001
 **Status:** Complete
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
+
+---
+parent-index: [[00-MISSION]]

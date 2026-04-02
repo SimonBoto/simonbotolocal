@@ -71,3 +71,6 @@ Low Ca²⁺ → PTH release → D activation → ↑ Ca absorption → Ca²⁺ r
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

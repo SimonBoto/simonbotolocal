@@ -157,3 +157,6 @@ Sirolimus → mTORC2 inhibition → ↓ Akt phosphorylation → Insulin resistan
 
 ---
 *Extracted: 2026-03-28 | 2 zettels | Domain: 101 (Insulin Signaling)*
+
+---
+parent-index: [[00-MISSION]]

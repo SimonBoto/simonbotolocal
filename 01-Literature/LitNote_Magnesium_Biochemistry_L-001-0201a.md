@@ -177,3 +177,6 @@ Magnesium regulates critical ion channels and cellular signaling pathways:
 *Literature note processed: 2026-03-01*  
 *Zettels extracted: 5*  
 *Status: extracted*
+
+---
+parent-index: [[00-MISSION]]

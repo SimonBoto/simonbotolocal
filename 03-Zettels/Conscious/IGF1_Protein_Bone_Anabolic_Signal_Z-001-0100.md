@@ -37,3 +37,6 @@ Protein intake stimulates IGF-1 (-like growth factor-1), which promotes osteobla
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

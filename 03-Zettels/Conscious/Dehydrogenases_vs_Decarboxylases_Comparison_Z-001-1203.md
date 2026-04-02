@@ -185,3 +185,6 @@ Pyruvate + NAD⁺ + CoA-SH → Acetyl-CoA + NADH + CO₂
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

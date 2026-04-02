@@ -135,3 +135,6 @@ Comprehensive classification of the 20 proteinogenic  by multiple criteria.
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

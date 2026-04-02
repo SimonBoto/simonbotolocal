@@ -53,3 +53,6 @@ Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the sec
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

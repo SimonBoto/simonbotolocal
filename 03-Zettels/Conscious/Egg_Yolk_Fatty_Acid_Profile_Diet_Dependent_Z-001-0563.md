@@ -154,3 +154,6 @@ The fatty acid composition of egg yolks is **directly determined by the hen's di
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

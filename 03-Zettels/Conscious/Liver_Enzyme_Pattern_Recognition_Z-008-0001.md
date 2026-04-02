@@ -139,3 +139,6 @@ patient_id,visit,ast_u_l,alt_u_l,ggt_u_l,alp_u_l,ast_alt_ratio,liver_pattern
 
 - Up: [[MOC-Mitochondrial-Function]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -48,3 +48,6 @@ Input → 00-Inbox → Process → [01-Literature | 02-References | 03-Zettels |
 ---
 
 *The capture point — where signal begins.*
+
+---
+parent-index: [[00-MISSION]]

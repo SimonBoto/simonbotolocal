@@ -59,3 +59,6 @@ G6P + 2 NADP⁺ + H₂O → R5P + CO₂ + 2 NADPH + 2 H⁺
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

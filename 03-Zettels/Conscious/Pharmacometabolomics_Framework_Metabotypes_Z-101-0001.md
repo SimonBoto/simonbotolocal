@@ -63,3 +63,6 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 
 - Up: [[MOC-Gut-Microbiome]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

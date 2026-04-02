@@ -332,3 +332,6 @@ Cycle 10 complete.
 
 - Up: [[MOC-Metabolomics]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]

@@ -134,3 +134,6 @@ The most ancient metabolic pathways—glycolysis, the pentose phosphate pathway,
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

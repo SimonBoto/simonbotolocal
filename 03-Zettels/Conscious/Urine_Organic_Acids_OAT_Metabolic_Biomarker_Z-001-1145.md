@@ -126,3 +126,6 @@ Urine organic acids testing (OAT) provides a comprehensive metabolic snapshot by
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

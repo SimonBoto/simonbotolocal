@@ -124,3 +124,6 @@ extraction-date: 2026-03-04
 
 *LitNote A: Oxalic acid focus — 7 zettels*
 *Processed: 2026-03-04*
+
+---
+parent-index: [[00-MISSION]]

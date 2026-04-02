@@ -48,3 +48,6 @@ Insulin is a 51-amino acid peptide hormone secreted by pancreatic β-cells in re
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

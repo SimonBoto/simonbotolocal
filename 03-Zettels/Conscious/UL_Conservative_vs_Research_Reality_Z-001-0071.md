@@ -50,3 +50,6 @@ Current IOM Upper Limits (UL) for  are substantially lower than doses proven saf
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -156,3 +156,6 @@ Definitive diagnosis of multiple myeloma requires clonal bone marrow plasma cell
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

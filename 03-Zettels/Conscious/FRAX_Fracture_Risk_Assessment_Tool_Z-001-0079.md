@@ -37,3 +37,6 @@ FRAX® is a fracture risk assessment tool that integrates  risk factors (age, pr
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

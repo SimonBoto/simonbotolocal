@@ -147,3 +147,6 @@ Negative feedback to hypothalamus and pituitary
 **Status:** Complete
 
 **Source:** CGPT-0438 — Hormone Scenarios
+
+---
+parent-index: [[00-MISSION]]

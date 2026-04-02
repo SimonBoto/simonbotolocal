@@ -141,3 +141,6 @@ patient_id,visit,hs_crp_mg_l,esr_mm_hr,inflammation_status
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

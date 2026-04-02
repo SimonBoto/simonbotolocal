@@ -78,3 +78,6 @@ NADPH + 2O₂ → 2O₂⁻ + NADP⁺ + H⁺
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

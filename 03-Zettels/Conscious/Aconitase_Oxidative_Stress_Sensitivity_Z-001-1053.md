@@ -91,3 +91,6 @@ Aconitase is the most sensitive TCA cycle enzyme to oxidative stress due to its 
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

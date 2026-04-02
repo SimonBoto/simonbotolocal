@@ -153,3 +153,6 @@ Validation strategies in  ensure that multivariate models are robust, generaliza
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

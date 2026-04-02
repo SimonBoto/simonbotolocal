@@ -99,3 +99,6 @@ Both use the **propionyl-CoA → succinyl-CoA** pathway but differ in ketogenic 
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

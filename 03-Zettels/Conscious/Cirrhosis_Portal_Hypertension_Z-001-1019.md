@@ -430,3 +430,6 @@ MELD-Na = MELD + 1.32×(137-Na) - [0.033×MELD×(137-Na)]
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

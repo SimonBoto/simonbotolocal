@@ -37,3 +37,6 @@ The RANK/RANKL/OPG system is the master regulator of osteoclast differentiation.
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

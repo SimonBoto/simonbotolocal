@@ -192,3 +192,6 @@ Modern multiple myeloma treatment utilizes novel agents (immunomodulatory drugs,
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

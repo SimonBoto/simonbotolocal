@@ -222,3 +222,6 @@ Severe T2DM (HbA1c>9) vs. healthy: Effect size f=0.35, need n=100/group
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

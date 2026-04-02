@@ -60,3 +60,6 @@ Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid inte
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

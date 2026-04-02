@@ -135,3 +135,6 @@ Batch 2: D5, C5, D6, QC, C6, D7, C7, QC, D8, C8...
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

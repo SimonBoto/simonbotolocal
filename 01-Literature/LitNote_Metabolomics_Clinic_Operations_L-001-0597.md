@@ -90,3 +90,6 @@ extraction-date: 2026-03-08
 - [x] All zettel links use FULL format
 - [x] No bare UIDs
 - [x] Concept count matches list
+
+---
+parent-index: [[00-MISSION]]

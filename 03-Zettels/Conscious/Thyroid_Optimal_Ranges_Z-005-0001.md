@@ -141,3 +141,6 @@ patient_id,visit,tsh_miu_l,ft3_pg_ml,ft4_ng_dl,thyroid_status
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

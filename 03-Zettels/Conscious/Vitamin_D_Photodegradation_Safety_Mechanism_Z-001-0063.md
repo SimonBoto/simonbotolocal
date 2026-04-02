@@ -46,3 +46,6 @@ The skin has built-in protection against vitamin D toxicity from sun exposure: p
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

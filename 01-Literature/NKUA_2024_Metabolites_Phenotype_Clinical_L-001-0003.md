@@ -376,3 +376,5 @@ This unit bridges foundational metabolomics (DE1-DE2) to **clinical application*
 *Zettels extracted: 6 (Tier 1)*  
 *Status: complete*  
 *Quality: Upgraded to DE1 standard*
+---
+parent-index: [[00-MISSION]]

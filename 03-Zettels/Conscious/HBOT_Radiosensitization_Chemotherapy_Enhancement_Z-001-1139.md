@@ -158,3 +158,6 @@ HBOT increases tissue O₂ → More DNA damage fixed → Enhanced cell kill
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

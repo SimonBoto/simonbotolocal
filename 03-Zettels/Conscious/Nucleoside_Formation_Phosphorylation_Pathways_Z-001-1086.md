@@ -126,3 +126,6 @@ Level 4: NTP (ATP) - triphosphate, high energy, fully functional
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -80,3 +80,6 @@ ALA (18:3 n-3) ──Δ6D──> SDA (18:4 n-3) ──E──> EPA (20:5 n-3) �
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

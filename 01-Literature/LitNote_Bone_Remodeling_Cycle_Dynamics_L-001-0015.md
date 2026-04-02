@@ -139,3 +139,6 @@ domain: 001
 **Zettels extracted:** 6 (Z-001-0099 through Z-001-0104)
 **Status:** Complete
 **Next:** LitNote 7 — Anabolic Bone Therapies (from pharmacology section)
+
+---
+parent-index: [[00-MISSION]]

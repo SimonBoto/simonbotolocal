@@ -200,3 +200,6 @@ CGPT-0647 (April 30, 2023) — Messages 23-26, 31-32
 
 - Up: [[MOC-Mitochondrial-Function]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

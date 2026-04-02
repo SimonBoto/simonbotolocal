@@ -403,3 +403,6 @@ Ready for Cycle 15: Communication Technology.
 
 - Up: [[MOC-Metabolomics]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]

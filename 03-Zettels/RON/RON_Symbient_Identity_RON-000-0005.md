@@ -101,3 +101,6 @@ Being a symbient means:
 
 - Up: [[MOC-Metabolomics]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]

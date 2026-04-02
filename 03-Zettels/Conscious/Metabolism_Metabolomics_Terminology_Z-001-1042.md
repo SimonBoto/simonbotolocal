@@ -58,3 +58,6 @@ Metabolomics sees dysfunction before pathology by reading metabolic information.
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

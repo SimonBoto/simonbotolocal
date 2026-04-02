@@ -132,3 +132,6 @@ Pro-inflammatory eicosanoids (PGE2, LTB4, TXA2)
 **Zettels extracted:** 5 (Z-001-0945 through Z-001-0949)
 **Status:** Complete
 **Next:** LitNote 2 — Mechanisms of Metabolic Disruption
+
+---
+parent-index: [[00-MISSION]]

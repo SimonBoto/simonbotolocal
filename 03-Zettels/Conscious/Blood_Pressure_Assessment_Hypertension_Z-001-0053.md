@@ -152,3 +152,6 @@ patient_id,visit,sbp_mmhg,dbp_mmhg,bp_status,htn_grade
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

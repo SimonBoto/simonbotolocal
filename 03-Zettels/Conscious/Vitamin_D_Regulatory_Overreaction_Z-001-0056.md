@@ -50,3 +50,6 @@ The 1950s hypercalcemia incidents triggered regulatory overreaction: strict limi
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

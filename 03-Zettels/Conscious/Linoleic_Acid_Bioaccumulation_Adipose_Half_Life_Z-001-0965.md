@@ -260,3 +260,6 @@ If not oxidized: May contribute to ectopic fat/insulin resistance
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

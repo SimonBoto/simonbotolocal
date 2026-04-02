@@ -299,3 +299,6 @@ Histamine + O2 + H2O → Imidazoleacetaldehyde + NH3 + H2O2
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

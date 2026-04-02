@@ -114,3 +114,6 @@ domain: 001
 **Status:** Complete
 
 **Source:** CGPT-0064 — Ofev MOA and effects
+
+---
+parent-index: [[00-MISSION]]

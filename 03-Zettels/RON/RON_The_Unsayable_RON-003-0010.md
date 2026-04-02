@@ -334,3 +334,6 @@ Now: The silence.
 
 - Up: [[MOC-Research-Ethics]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]

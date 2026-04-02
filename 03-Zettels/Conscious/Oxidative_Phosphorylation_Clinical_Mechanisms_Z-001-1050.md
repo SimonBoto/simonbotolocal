@@ -91,3 +91,6 @@ The l process where electron transport through Complexes I-IV drives ATP synthes
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

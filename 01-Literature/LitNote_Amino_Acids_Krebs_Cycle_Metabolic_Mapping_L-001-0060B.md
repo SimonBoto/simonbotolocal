@@ -138,3 +138,6 @@ Threonine → propionyl-CoA → methylmalonyl-CoA → succinyl-CoA
 
 *LitNote B: Amino acid metabolism focus — 7 zettels*
 *Processed: 2026-03-04*
+
+---
+parent-index: [[00-MISSION]]

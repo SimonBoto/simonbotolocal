@@ -167,3 +167,6 @@ MTHFR (methylenetetrahydrofolate reductase) is a critical enzyme in the folate c
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

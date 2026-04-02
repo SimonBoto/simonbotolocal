@@ -102,3 +102,6 @@ While not directly in this pathway, **MSUD** affects the **earlier step** of BCA
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

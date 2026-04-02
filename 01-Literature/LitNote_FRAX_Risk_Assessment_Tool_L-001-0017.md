@@ -195,3 +195,6 @@ reassess    TBS, falls    Pharmacologic
 ---
 
 **⚠️ EXTRACTION NOTE:** FRAX content in source was brief (single mention). This LitNote synthesizes standard FRAX knowledge contextualized to the source's clinical review framework. Detailed FRAX algorithm internals (coefficients, country-specific databases) not available in source.
+
+---
+parent-index: [[00-MISSION]]

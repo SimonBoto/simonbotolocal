@@ -81,3 +81,6 @@ Ketoses (especially fructose) are generally **sweeter** than aldoses due to stru
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

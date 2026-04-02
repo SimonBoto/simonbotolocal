@@ -105,3 +105,6 @@ Glyceraldehyde-3-P + Fructose-6-P (rejoin glycolysis)
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

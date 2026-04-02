@@ -163,3 +163,6 @@ All seven requirements must be satisfied for research to be ethical. No single r
 
 - Up: [[MOC-Methylation]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

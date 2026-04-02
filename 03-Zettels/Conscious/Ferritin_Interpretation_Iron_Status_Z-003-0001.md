@@ -186,3 +186,6 @@ patient_id,visit,ferritin_ng_ml,crp_mg_l,sTfR_mg_l,iron_status
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

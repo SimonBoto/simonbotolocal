@@ -234,3 +234,6 @@ Fe²⁺ + H₂O₂ → Fe³⁺ + OH• + OH⁻
 ---
 
 *Batch 2 complete. Continue to Batch 3: Mevalonate Pathway?* ⛏️
+
+---
+parent-index: [[00-MISSION]]

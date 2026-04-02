@@ -169,3 +169,5 @@ For patients with inflammatory conditions (MetS, autoimmune, chronic pain), the 
 *Literature note processed: 2026-03-03*  
 *Zettels extracted: 4*  
 *Status: extracted*
+---
+parent-index: [[00-MISSION]]

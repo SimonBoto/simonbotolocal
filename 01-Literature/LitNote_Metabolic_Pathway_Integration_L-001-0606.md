@@ -92,3 +92,6 @@ Glycolysis       Beta-oxidation     Deamination
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 4*
 *Status: extracted*
+
+---
+parent-index: [[00-MISSION]]

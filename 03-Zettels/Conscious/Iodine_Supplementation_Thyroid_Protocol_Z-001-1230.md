@@ -149,3 +149,6 @@ Coupling → T3 (triiodothyronine), T4 (thyroxine)
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

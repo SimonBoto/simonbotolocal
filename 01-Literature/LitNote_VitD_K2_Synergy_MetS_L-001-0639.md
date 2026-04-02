@@ -56,3 +56,5 @@ Combined → Functional matrix Gla-protein, osteocalcin
 
 ---
 *Extracted: 2026-03-09*
+---
+parent-index: [[00-MISSION]]

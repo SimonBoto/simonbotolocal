@@ -164,3 +164,6 @@ Metabolic syndrome is not merely a collection of risk factors but a progressive 
 *Literature note processed: 2026-03-01*  
 *Zettels extracted: 6*  
 *Status: extracted*
+
+---
+parent-index: [[00-MISSION]]

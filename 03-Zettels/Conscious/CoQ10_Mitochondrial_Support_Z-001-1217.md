@@ -181,3 +181,6 @@ NADH → Complex I → CoQ10 → Complex III → Cytochrome c → Complex IV →
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

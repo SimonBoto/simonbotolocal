@@ -663,3 +663,6 @@ status: footer
 version: 1.0
 last-reviewed: 2026-03-30
 next-review: 2026-06-30
+
+---
+parent-index: [[00-MISSION]]

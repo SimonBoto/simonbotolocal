@@ -40,3 +40,6 @@ Protein intake stimulates intestinal calcium absorption. However, extremely high
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

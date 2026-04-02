@@ -116,3 +116,6 @@ The RNA world hypothesis proposes that early life was based on RNA as both genet
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

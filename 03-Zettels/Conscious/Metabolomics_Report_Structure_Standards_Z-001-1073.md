@@ -118,3 +118,6 @@ Standardized formats for live and email metabolomics reports ensuring clarity an
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -51,3 +51,6 @@ Stoss therapy uses single high-dose vitamin D (50,000-600,000 IU) to rapidly cor
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

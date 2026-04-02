@@ -185,3 +185,5 @@ Sirolimus disrupts this balance by suppressing biogenesis while promoting cleara
 *Literature note processed: 2026-03-02*  
 *Zettels extracted: 4*  
 *Status: extracted*
+---
+parent-index: [[00-MISSION]]

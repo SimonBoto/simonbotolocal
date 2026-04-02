@@ -65,3 +65,6 @@ The disconnect between normal glucose and elevated insulin is the diagnostic clu
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

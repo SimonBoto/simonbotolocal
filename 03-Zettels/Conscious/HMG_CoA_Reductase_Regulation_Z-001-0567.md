@@ -208,3 +208,6 @@ Blocking HMG-CoA reductase doesn't just block cholesterol — it blocks **all me
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

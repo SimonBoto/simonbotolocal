@@ -149,3 +149,6 @@ Ongoing — Revisions adapting to new research contexts
 
 - Up: [[MOC-Research-Ethics]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

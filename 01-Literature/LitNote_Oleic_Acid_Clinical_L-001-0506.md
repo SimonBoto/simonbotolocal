@@ -411,3 +411,6 @@ extraction-date: 2026-03-01
 ---
 
 *Literature note processed: 2026-03-01*
+
+---
+parent-index: [[00-MISSION]]

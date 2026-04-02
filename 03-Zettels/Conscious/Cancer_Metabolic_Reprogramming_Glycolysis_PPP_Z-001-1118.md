@@ -121,3 +121,6 @@ Pyruvate → Acetyl-CoA →  (for membranes)
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

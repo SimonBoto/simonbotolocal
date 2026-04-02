@@ -113,3 +113,6 @@ Hyperinsulinemia systematically suppresses fatty acid oxidation through dual mec
 - **Zettels:** 3
 - **Status:** Complete
 - **Next:** L-001-0655 (Ketone Body Metabolism)
+
+---
+parent-index: [[00-MISSION]]

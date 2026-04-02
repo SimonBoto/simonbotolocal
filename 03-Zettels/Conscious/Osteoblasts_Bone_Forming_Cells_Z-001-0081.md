@@ -37,3 +37,6 @@ Osteoblasts are derived from mesenchymal stem cells. They synthesize new bone ma
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

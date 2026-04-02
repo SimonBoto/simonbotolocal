@@ -52,3 +52,6 @@ Adenosine clearance during sleep → reduced inhibition → wakefulness returns.
 
 - Up: [[MOC-Inflammation]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

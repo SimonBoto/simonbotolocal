@@ -41,3 +41,6 @@ Fragility fractures—especially of the hip and vertebra—are associated with s
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

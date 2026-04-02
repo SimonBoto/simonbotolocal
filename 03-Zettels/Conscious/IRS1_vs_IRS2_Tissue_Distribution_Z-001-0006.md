@@ -54,3 +54,6 @@ IRS-1 and IRS-2 are the primary  receptor substrates with distinct tissue distri
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

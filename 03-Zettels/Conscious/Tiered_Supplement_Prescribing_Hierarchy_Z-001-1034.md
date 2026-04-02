@@ -115,3 +115,6 @@ A structured, sequential approach to supplementation that prioritizes foundation
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

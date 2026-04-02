@@ -59,3 +59,6 @@ Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muc
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

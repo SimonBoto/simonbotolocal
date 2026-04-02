@@ -53,3 +53,6 @@ Growing recognition that population-wide RDA fails individual needs. Factors cre
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

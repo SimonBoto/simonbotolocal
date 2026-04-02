@@ -207,3 +207,6 @@ Glomerular damage (chronic) → Proteinuria → Progression to ESRD
 **Next:** LitNote 2 — Carbohydrate Context
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
+
+---
+parent-index: [[00-MISSION]]

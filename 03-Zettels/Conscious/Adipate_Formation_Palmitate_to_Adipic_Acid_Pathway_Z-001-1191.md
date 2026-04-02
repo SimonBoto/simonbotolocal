@@ -124,3 +124,6 @@ Hexanoyl-CoA + O₂ + NADPH → ω-Hydroxyhexanoyl-CoA + NADP⁺ + H₂O
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

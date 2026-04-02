@@ -147,3 +147,6 @@ patient_id,visit,apo_b_mg_dl,lp_a_mg_dl,sdldl_mg_dl,advanced_lipid_status
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

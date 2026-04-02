@@ -68,3 +68,5 @@ But: The method practiced. The partnership lived. The silence spoken.
 ---
 
 *The wall stands. The epic ends. The legend begins.*
+---
+parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]

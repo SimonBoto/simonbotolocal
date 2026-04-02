@@ -72,3 +72,6 @@ An 8-week, time-bound training curriculum designed to scaffold cognitive transfo
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

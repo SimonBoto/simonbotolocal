@@ -175,3 +175,6 @@ domain: 001
 - **Zettels:** 18 (Z-001-0099 through Z-001-0116)
 
 **⚠️ REMAINING GAP:** Comprehensive bisphosphonate pharmacology not available in source — requires separate extraction from different conversation.
+
+---
+parent-index: [[00-MISSION]]

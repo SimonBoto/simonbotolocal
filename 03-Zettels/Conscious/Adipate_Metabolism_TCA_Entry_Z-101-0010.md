@@ -76,3 +76,6 @@ extraction-date: 2026-03-02
 
 - Up: [[MOC-Lipid-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

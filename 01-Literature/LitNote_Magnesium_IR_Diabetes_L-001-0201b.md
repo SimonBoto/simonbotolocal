@@ -154,3 +154,6 @@ Magnesium deficiency and insulin resistance form a bidirectional, vicious relati
 *Literature note processed: 2026-03-01*  
 *Zettels extracted: 4*  
 *Status: extracted*
+
+---
+parent-index: [[00-MISSION]]

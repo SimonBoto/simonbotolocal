@@ -92,3 +92,6 @@ Adenine is one of four nucleobases in DNA and RNA, essential for genetic informa
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

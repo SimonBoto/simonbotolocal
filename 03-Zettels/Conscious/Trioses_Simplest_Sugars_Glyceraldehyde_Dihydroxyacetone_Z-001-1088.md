@@ -77,3 +77,6 @@ Trioses are the simplest monosaccharides—three-carbon sugars that serve as fun
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

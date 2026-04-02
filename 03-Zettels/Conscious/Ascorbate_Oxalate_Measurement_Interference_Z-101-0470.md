@@ -105,3 +105,6 @@ High vitamin C (ascorbic acid) intake can cause **false positive oxalate measure
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

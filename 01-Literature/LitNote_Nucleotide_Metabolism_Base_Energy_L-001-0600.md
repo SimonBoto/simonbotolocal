@@ -102,3 +102,6 @@ Adenine (base) + Ribose (sugar) → Adenosine (nucleoside)
 - [x] All zettel links use FULL format: `[[Title_Z-001-0001]`
 - [x] No bare UIDs: `[[Insulin_Receptor_Structure_Z-001-0001]`
 - [x] Concept count matches "Zettels Created from This Source" list
+
+---
+parent-index: [[00-MISSION]]

@@ -241,3 +241,5 @@ The "statin side effect" conversation must include:
 *Literature note processed: 2026-03-03*  
 *Zettels extracted: 5*  
 *Status: extracted*
+---
+parent-index: [[00-MISSION]]

@@ -125,3 +125,6 @@ This framework applies universally, though adaptations may be needed for local h
 - [x] No bare UIDs: `[[Social_Clinical_Value_Ethical_Research_Z-002-0601]` → will create empty notes
 - [x] Verify with: `grep -r '\[\[Z-[0-9]\{4\}-[0-9]\{4\}\]\]' this_file.md` (should return nothing)
 - [x] Concept count matches "Zettels Created from This Source" list
+
+---
+parent-index: [[00-MISSION]]

@@ -94,3 +94,6 @@ The ability to switch between carbohydrate and fat oxidation based on availabili
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -194,3 +194,6 @@ More surface area → More ETC complexes → More ATP synthase → Higher ATP ou
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

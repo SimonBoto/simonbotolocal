@@ -119,3 +119,6 @@ Quality checkpoints throughout the metabolomics testing and interpretation proce
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

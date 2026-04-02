@@ -93,3 +93,6 @@ Amino acids are classified by their metabolic fate: glycogenic (can be converted
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -152,3 +152,6 @@ The course's inclusion of VitD in immunoregulatory micronutrients supports:
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

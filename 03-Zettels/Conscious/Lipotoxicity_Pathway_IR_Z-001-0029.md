@@ -61,3 +61,6 @@ Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capa
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

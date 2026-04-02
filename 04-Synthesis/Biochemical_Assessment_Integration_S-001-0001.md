@@ -153,3 +153,6 @@ patient_id,date,visit,homa_ir,tyg_index,tg_hdl_ratio,met_syn_count,vit_d_ng_ml,h
 
 *Integrates: 20+ biomarker zettels from Batches 1-4*
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
+
+---
+parent-index: [[00-MISSION]]

@@ -135,3 +135,6 @@ Both adipic acid and malate relate to **fatty acid metabolism dysregulation**:
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

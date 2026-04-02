@@ -49,3 +49,6 @@ Magnesium is required as a cofactor for both hydroxylation steps converting vita
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

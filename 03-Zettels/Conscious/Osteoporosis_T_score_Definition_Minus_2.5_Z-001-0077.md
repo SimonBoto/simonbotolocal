@@ -37,3 +37,6 @@ Osteoporosis is diagnosed when the T-score is ≤ −2.5 on DXA. It is a skeleta
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

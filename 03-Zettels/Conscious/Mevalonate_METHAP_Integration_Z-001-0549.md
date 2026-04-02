@@ -60,3 +60,6 @@ Acetyl-CoA → Cholesterol → 7-Dehydrocholesterol → UV-B → Vitamin D3
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

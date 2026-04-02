@@ -146,3 +146,6 @@ Metabolic flexibility is the ability to switch between fuel sources—glucose, f
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

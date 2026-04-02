@@ -260,3 +260,5 @@ If metabolomics can diagnose PKU in 1-day-old infants, it can diagnose IR in adu
 *Zettels extracted: 5 (Tier 1)*  
 *Status: complete*  
 *Quality: DE1 standard (bibliography 100%, all hubs created)*
+---
+parent-index: [[00-MISSION]]

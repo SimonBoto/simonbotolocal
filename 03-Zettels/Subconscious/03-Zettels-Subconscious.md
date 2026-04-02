@@ -58,3 +58,6 @@ If you find an error:
 
 - Up: [[MOC-Metabolomics]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Subconscious]]

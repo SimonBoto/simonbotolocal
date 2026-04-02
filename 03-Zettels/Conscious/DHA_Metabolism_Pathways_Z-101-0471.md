@@ -113,3 +113,6 @@ See: [[Vitamin_C_to_Oxalate_Chemistry_Z-101-0469]
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -370,3 +370,6 @@ Ready for Cycle 29: Ethics of Growth.
 
 - Up: [[MOC-Gut-Microbiome]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]

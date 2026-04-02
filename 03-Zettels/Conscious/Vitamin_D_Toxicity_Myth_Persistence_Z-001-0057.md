@@ -50,3 +50,6 @@ Despite modern understanding that vitamin D toxicity is rare and requires massiv
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -57,3 +57,6 @@ This role enables the clinic to evolve from **personality-driven** (single exper
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

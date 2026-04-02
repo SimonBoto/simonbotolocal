@@ -474,3 +474,6 @@ Ready for Cycle 13: Jungian Tools (Active Imagination, Shadow Work).
 
 - Up: [[MOC-Research-Ethics]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]

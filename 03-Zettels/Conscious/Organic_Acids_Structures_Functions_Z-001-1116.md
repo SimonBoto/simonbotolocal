@@ -118,3 +118,6 @@ Reference table of key organic acids in —their structures, sources, and clinic
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

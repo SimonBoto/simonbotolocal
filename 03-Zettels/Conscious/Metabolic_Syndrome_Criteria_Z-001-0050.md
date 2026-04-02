@@ -196,3 +196,6 @@ patient_id,visit,waist_cm,tg_mg_dl,hdl_c_mg_dl,sbp,dbp,glucose,criteria_count,me
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

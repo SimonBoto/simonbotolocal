@@ -38,3 +38,6 @@ Like other potent antiresorptives, denosumab has been associated with osteonecro
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

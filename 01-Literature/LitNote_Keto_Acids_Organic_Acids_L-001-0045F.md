@@ -209,3 +209,6 @@ Pyruvate → Oxaloacetate → Glucose
 ---
 
 *Extracted: 2026-03-04 | Batch 2 of 5 from CGPT-0445*
+
+---
+parent-index: [[00-MISSION]]

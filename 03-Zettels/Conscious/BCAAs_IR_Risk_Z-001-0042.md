@@ -71,3 +71,6 @@ Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

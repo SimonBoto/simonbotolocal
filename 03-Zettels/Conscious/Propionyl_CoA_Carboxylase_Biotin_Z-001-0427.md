@@ -65,3 +65,6 @@ Propionyl-CoA + HCO₃⁻ + ATP → D-Methylmalonyl-CoA + ADP + Pi
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

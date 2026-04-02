@@ -355,3 +355,6 @@ Calcium oxalate is the most common kidney stone type. CKD patients have increase
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -82,3 +82,6 @@ Structured approach for clinical teams to analyze topics from complementary pers
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

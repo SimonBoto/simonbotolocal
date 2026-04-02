@@ -331,3 +331,6 @@ domain: 001
 **Status:** Complete
 
 **Source:** CGPT-0551 — Manuscript Review Critical Concerns
+
+---
+parent-index: [[00-MISSION]]

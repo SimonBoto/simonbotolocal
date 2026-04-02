@@ -185,3 +185,6 @@ This provides strong rationale for high-dose vitamin D in METHAP protocol.
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

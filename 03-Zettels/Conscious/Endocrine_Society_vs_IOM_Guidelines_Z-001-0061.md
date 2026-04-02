@@ -49,3 +49,6 @@ The Endocrine Society (clinical endocrinologists) recommends 1,500-2,000 IU/day 
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

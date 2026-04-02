@@ -226,3 +226,6 @@ LOO• + Vitamin E-OH → LOOH + Vitamin E-O• (chain break)
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

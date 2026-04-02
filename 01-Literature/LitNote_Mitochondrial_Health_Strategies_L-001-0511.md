@@ -380,3 +380,6 @@ Fatty Acid Adaptation (Restored):
 ---
 
 *CGPT-0378 extraction complete — 1 LitNote, 4 zettels*
+
+---
+parent-index: [[00-MISSION]]

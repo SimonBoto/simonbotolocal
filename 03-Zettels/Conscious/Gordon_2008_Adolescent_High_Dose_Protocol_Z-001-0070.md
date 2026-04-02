@@ -49,3 +49,6 @@ Gordon et al. (2008) treated vitamin D-deficient adolescents with 2,000 IU daily
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

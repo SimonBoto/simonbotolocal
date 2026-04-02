@@ -129,3 +129,6 @@ Vitamin D is not merely a calcium regulator — it's a **steroid hormone with di
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

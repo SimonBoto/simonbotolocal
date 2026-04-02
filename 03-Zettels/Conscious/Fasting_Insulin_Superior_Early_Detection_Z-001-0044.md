@@ -65,3 +65,6 @@ Fasting insulin alone is superior to HOMA-IR for detecting early insulin resista
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -388,3 +388,6 @@ Docosahexaenoic Acid (DHA) — 22:6n-3 (<0.5% conversion)
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

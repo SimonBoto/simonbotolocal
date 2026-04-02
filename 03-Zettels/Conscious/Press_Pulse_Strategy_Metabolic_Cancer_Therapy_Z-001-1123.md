@@ -156,3 +156,6 @@ The Press-Pulse strategy combines chronic metabolic stress (Press) with acute th
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

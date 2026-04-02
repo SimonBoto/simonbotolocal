@@ -67,3 +67,6 @@ Cystathionine → Cysteine + α-Ketobutyrate + NH₃
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

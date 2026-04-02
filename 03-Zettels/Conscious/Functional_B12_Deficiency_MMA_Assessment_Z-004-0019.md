@@ -215,3 +215,6 @@ patient_id,visit,serum_b12_pg_ml,mma_nmol_l,homocysteine_umol_l,functional_statu
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -145,3 +145,6 @@ patient_id,visit,uric_acid_mg_dl,uric_acid_target_status
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

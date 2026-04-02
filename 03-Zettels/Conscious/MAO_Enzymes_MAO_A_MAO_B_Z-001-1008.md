@@ -278,3 +278,6 @@ R-CH2-NH2 + O2 + H2O → R-CHO + NH3 + H2O2
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -144,3 +144,6 @@ Plasma total fatty acid (TFA) analysis provides a comprehensive profile of membr
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

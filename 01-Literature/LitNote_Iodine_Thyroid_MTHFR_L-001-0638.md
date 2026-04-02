@@ -90,3 +90,5 @@ extraction-date: 2026-03-09
 
 ---
 *Extracted: 2026-03-09*
+---
+parent-index: [[00-MISSION]]

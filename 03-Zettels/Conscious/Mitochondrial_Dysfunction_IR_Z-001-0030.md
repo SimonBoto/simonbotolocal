@@ -58,3 +58,6 @@ Mitochondrial overload from chronic nutrient excess creates oxidative stress whe
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -85,3 +85,6 @@ The gastric cancer study showed "clear separation" between groups, but:
 **Zettels extracted:** 3 (Z-001-0939 through Z-001-0941)
 **Status:** Complete
 **Next:** LitNote 6 — Critical Assessment Methodology
+
+---
+parent-index: [[00-MISSION]]

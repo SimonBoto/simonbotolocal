@@ -133,3 +133,6 @@ Ketogenic diets and therapeutic ketosis have established benefits for epilepsy a
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

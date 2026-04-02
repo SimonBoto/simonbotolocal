@@ -86,3 +86,6 @@ While METHAP is not a pharmaceutical trial, GCP principles apply:
 
 - Up: [[MOC-Research-Ethics]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

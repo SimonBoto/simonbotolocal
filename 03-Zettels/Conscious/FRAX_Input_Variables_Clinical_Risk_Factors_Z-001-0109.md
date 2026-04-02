@@ -146,3 +146,6 @@ FRAX algorithm integrates **demographic, clinical, and BMD variables** to estima
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

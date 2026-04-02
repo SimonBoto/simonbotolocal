@@ -70,3 +70,6 @@ Approved therapies for chronic diseases show only 30-60% effectiveness, with sig
 
 - Up: [[MOC-Metabolomics]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -199,3 +199,6 @@ Note: <0.5g/serving can be labeled "0g trans fat"
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

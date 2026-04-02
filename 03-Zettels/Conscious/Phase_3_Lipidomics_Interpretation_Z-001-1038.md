@@ -84,3 +84,6 @@ Weeks 5-6 of bootcamp: Mastering fatty acid analysis and lipid-based clinical re
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

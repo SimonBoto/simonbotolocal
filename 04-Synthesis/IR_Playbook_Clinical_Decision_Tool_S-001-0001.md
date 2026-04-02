@@ -500,3 +500,6 @@ Calculate HOMA-IR + TyG Index
 status: footer
 last-reviewed: 2026-03-30
 next-review: 2026-04-30
+
+---
+parent-index: [[00-MISSION]]

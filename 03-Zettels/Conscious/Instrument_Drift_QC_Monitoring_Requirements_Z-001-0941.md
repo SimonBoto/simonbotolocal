@@ -161,3 +161,6 @@ Mass spectrometers are **not stable** over time. Sensitivity, resolution, and ma
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

@@ -83,3 +83,6 @@ High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hy
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

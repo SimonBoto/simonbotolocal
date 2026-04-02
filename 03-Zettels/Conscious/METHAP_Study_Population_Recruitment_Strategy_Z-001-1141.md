@@ -130,3 +130,6 @@ The METHAP ( and Insulin Resistance) trial recruits 220 participants stratified 
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

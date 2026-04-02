@@ -116,3 +116,6 @@ Comprehensive reference of aldose and ketose sugars with their biological signif
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

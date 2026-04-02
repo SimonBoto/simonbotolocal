@@ -37,3 +37,6 @@ Vitamin K2 activates matrix GLA protein (MGP), which inhibits calcium deposition
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

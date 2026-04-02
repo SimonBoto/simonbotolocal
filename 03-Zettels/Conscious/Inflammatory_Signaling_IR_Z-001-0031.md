@@ -59,3 +59,6 @@ Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and 
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

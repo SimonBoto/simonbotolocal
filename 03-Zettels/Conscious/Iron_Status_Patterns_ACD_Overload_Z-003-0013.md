@@ -157,3 +157,6 @@ patient_id,visit,ferritin_ng_ml,iron_ug_dl,tibc_ug_dl,transferrin_sat_pct,crp_mg
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

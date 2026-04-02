@@ -122,3 +122,6 @@ Specific metabolite accumulation patterns in blood or urine can reveal cofactor 
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]

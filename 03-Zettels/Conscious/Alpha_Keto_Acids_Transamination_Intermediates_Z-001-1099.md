@@ -117,3 +117,6 @@ Amino Acid + Alpha-ketoglutarate ↔ Alpha-keto acid + Glutamate
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+
+---
+parent-index: [[03-Zettels-Conscious]]
