@@ -6,7 +6,7 @@ aliases: [Z-001-1073, Report-Standards]
 domain: 001
 domain-name: Clinical Protocols
 tags: [zettel, reports, structure, standards]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Patient_Communication_Scripts_L-001-0595]
 source: [[LitNote_Patient_Communication_Scripts_L-001-0595]
 confidence: high

@@ -5,7 +5,7 @@ title: "Oxaloacetate Dual Role: Krebs Cycle and Gluconeogenesis"
 aliases: [Z-001-0488, oxaloacetate, krebs-cycle, gluconeogenesis, oaa]
 domain: 001
 tags: [zettel, oxaloacetate, krebs-cycle, gluconeogenesis, oaa]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045H]

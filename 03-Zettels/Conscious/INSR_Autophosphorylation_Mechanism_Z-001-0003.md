@@ -7,7 +7,7 @@ aliases: [Z-001-0003, INSR_Autophosphorylation, INSR_Activation]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, mechanism, insulin, phosphorylation, activation, kinase]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: 
 confidence: high
 created: 2026-02-22

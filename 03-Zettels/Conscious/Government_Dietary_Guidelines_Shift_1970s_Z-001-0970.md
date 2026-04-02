@@ -5,7 +5,7 @@ title: Government Dietary Guidelines Shift 1970s-1980s — Demonization of Satur
 aliases: [Z-001-0970]
 domain: 001
 tags: [zettel, dietary-guidelines, usda, mcgovern, ancel-keys, saturated-fat, 1977, food-policy, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]
 status: conscious

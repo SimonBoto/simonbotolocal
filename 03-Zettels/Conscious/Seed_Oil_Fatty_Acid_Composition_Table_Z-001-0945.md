@@ -5,7 +5,7 @@ title: Seed Oil Fatty Acid Composition Comparison Table
 aliases: [Z-001-0945]
 domain: 001
 tags: [zettel, seed-oils, fatty-acids, linoleic-acid, oleic-acid, composition, comparison, reference, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 

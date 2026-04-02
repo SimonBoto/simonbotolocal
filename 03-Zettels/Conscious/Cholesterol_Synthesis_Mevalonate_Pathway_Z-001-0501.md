@@ -5,7 +5,7 @@ title: Cholesterol Synthesis — Mevalonate Pathway
 aliases: [Cholesterol-Synthesis, Mevalonate, HMG-CoA-Reductase]
 domain: 001
 tags: [zettel, cholesterol, synthesis, mevalonate, hmg-coa-reductase]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]
 extraction-date: 2026-03-01

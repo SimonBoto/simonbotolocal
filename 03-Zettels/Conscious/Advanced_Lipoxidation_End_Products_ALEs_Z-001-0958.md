@@ -5,7 +5,7 @@ title: Advanced Lipoxidation End-Products (ALEs) — Toxic Aldehydes from Heated
 aliases: [Z-001-0958]
 domain: 001
 tags: [zettel, ale, advanced-lipoxidation, 4-hne, acrolein, malondialdehyde, heated-oils, toxicity, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]
 status: conscious

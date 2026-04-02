@@ -5,7 +5,7 @@ title: Serum Albumin Interpretation CKD — Beyond Nutrition
 aliases: [Z-001-0978]
 domain: 001
 tags: [zettel, albumin, ckd, inflammation, prognosis, nutritional-marker, acute-phase, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_CKD_Nutritional_Assessment_L-001-0575]
 status: conscious

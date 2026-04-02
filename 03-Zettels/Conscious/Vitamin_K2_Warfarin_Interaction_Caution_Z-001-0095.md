@@ -6,7 +6,7 @@ aliases: [Z-001-0095, Vitamin_K2_Warfarin_Interaction_Caution]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, vitamin-d, vitamin-k2]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]
 confidence: high
 created: 2026-03-01

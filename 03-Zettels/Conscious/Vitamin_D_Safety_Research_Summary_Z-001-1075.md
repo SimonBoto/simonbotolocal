@@ -6,7 +6,7 @@ aliases: [Z-001-1075, VitD-Safety-Biblio]
 domain: 001
 domain-name: Vitamin D Metabolism
 tags: [zettel, vitamin-d, safety, research]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]
 source: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]
 confidence: high

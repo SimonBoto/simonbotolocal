@@ -5,7 +5,7 @@ title: Magnesium and Vascular Calcification Prevention
 aliases: [Mg-Vascular-Calcification, Magnesium-Arteries, Mg-K2-Synergy]
 domain: 001
 tags: [zettel, magnesium, vascular-calcification, arteries, MGP, K2, synergy]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]
 extraction-date: 2026-03-01

@@ -4,7 +4,7 @@ type: zettel
 title: Die-Off Reaction (Herxheimer) — Gut Treatment Management
 domain: 001
 tags: [zettel, die-off, herxheimer, dysbiosis, herbal-antimicrobials, detox]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]"
 status: conscious

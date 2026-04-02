@@ -5,7 +5,7 @@ title: Mevalonate Pathway — Clinical Implications
 aliases: [Statin-Side-Effects, CoQ10-Depletion, Myopathy]
 domain: 001
 tags: [zettel, statin, side-effects, coq10-depletion, myopathy]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Mevalonate_Pathway_L-001-0509]
 extraction-date: 2026-03-01

@@ -7,7 +7,7 @@ aliases: [Z-001-0016, MAPK, Ras_MAPK, Mitogenic_Pathway]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, mechanism, MAPK, Ras, mitogenic, growth]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: 
 confidence: high
 created: 2026-02-22

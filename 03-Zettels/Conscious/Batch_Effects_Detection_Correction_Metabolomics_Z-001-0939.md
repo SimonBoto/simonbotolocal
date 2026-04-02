@@ -5,7 +5,7 @@ title: Batch Effects Detection and Correction in Metabolomics
 aliases: [Z-001-0939]
 domain: 001
 tags: [zettel, batch-effects, technical-confounders, metabolomics, quality-control, combat, normalization, study-design, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---

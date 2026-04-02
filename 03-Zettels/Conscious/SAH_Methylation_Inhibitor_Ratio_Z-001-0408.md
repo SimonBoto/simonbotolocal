@@ -5,7 +5,7 @@ title: SAH — Methylation Inhibitor and SAM/SAH Ratio
 aliases: [SAH, S-Adenosylhomocysteine, Methylation-Capacity]
 domain: 001
 tags: [zettel, sah, methylation, inhibitor, ratio]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]
 extraction-date: 2026-03-01

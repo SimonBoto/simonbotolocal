@@ -5,7 +5,7 @@ title: Sirolimus Dysregulates Mitophagy Causing Mitochondrial Depletion
 aliases: [Z-001-0921, Z-001-0514-deprecated, Sirolimus Mitophagy, Autophagy Dysregulation Rapamycin]
 domain: 001
 tags: [zettel, sirolimus, rapamycin, mitophagy, autophagy, mitochondrial-depletion, quality-control]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source: "[[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]"
 extraction-date: 2026-03-02

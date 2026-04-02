@@ -6,7 +6,7 @@ aliases: [Z-001-1054, Beta-Oxidation]
 domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, beta-oxidation, fatty-acids, mitochondria]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
 source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
 confidence: high

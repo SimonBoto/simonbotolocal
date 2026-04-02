@@ -4,7 +4,7 @@ type: zettel
 title: Kefir-Broth-Coffee Fast — Therapeutic Gut Reset Protocol
 domain: 001
 tags: [zettel, fasting, kefir, bone-broth, coffee, gut-reset, microbiome]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Fasting_Fermentation_L-001-0637]"
 status: conscious

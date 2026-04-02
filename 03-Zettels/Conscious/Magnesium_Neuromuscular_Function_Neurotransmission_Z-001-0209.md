@@ -5,7 +5,7 @@ title: Magnesium in Neuromuscular Function and Neurotransmission
 aliases: [Mg-Neuromuscular, Magnesium-Neurotransmission, NMDA-Receptor]
 domain: 001
 tags: [zettel, magnesium, neuromuscular, neurotransmission, NMDA, muscle]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]
 extraction-date: 2026-03-01

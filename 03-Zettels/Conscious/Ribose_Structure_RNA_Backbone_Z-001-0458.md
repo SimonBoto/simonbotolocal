@@ -5,7 +5,7 @@ title: Ribose Structure and RNA Backbone Role
 aliases: [Z-001-0458, ribose-structure, rna-backbone]
 domain: 001
 tags: [zettel, ribose, pentose, rna, nucleotides, structure]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045C]

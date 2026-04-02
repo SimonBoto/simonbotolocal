@@ -5,7 +5,7 @@ title: Zn and Se — Nutritional Sources and Supplementation
 aliases: [Zn-Se-Sources, Supplementation, Brazil-Nuts, Oysters]
 domain: 001
 tags: [zettel, zn-se, sources, supplementation, dosing]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]
 extraction-date: 2026-03-01

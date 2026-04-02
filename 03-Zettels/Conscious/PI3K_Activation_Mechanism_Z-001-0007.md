@@ -7,7 +7,7 @@ aliases: [Z-001-0007, PI3K, PI3K_Activation]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, mechanism, PI3K, lipid, kinase, PIP3]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: 
 confidence: high
 created: 2026-02-22

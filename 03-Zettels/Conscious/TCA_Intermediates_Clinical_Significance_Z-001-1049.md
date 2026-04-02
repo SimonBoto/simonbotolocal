@@ -6,7 +6,7 @@ aliases: [Z-001-1049, TCA-Intermediates]
 domain: 001
 domain-name: Krebs Cycle
 tags: [zettel, tca-intermediates, oat, biomarkers]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
 source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
 confidence: high

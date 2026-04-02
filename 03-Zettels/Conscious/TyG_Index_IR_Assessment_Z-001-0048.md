@@ -5,7 +5,7 @@ title: TyG Index Triglyceride Glucose Index for IR Assessment
 aliases: [Z-001-0048, TyG, TyG Index, Triglyceride Glucose Index]
 domain: 001
 tags: [zettel, biomarker, ir-core, calculation-formula, phd-methap]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 biomarker-type: insulin-resistance-index
 formula: ln(Fasting TG [mg/dL] × Fasting Glucose [mg/dL] / 2)
 target-range: <4.5

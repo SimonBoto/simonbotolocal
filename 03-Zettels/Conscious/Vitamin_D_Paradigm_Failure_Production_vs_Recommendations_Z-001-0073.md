@@ -6,7 +6,7 @@ aliases: [Z-001-0073, VitD-Paradigm-Failure]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, paradigm-failure, synthesis, clinical-practice]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
 confidence: high
 created: 2026-03-01

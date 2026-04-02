@@ -5,7 +5,7 @@ title: Oxalate Management in CKD — Kidney Stone Prevention and Progression
 aliases: [Z-001-0982]
 domain: 001
 tags: [zettel, oxalate, ckd, kidney-stones, calcium-oxalate, hyperoxaluria, dietary-management, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_CKD_Nutritional_Assessment_L-001-0575]
 status: conscious

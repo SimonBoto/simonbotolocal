@@ -5,7 +5,7 @@ title: Mevalonate Pathway — Enzymatic Steps
 aliases: [Mevalonate-Pathway, Isoprenoid, Cholesterol-Synthesis, Acetyl-CoA]
 domain: 001
 tags: [zettel, mevalonate-pathway, cholesterol, acetyl-coa, enzymatic-steps]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Mevalonate_Pathway_L-001-0509]
 extraction-date: 2026-03-01

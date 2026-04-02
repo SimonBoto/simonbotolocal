@@ -6,7 +6,7 @@ aliases: [Z-001-1037, Phase-2-OAT]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, OAT, organic-acids, pattern-recognition]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
 source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
 confidence: high

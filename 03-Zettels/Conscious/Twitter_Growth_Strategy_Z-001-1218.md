@@ -4,7 +4,7 @@ type: zettel
 title: Twitter/X Growth Strategy for Health Professionals
 domain: 001
 tags: [zettel, twitter, social-media, growth, health-professionals, branding]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Twitter_Strategy_DrMito_L-001-0634]"
 status: conscious

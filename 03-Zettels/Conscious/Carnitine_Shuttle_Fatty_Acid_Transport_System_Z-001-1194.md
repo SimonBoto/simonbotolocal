@@ -4,7 +4,7 @@ type: zettel
 title: Carnitine Shuttle — Fatty Acid Transport System
 domain: 001
 tags: [zettel, carnitine, fatty-acid-transport, cpt1, cpt2, mitochondria]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]"
 status: conscious

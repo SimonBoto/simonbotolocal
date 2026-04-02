@@ -5,7 +5,7 @@ title: "Amino Acids to Pyruvate: Alanine and Serine-Glycine"
 aliases: [Z-001-0497, pyruvate, alanine, serine, glycine, folate, b6]
 domain: 001
 tags: [zettel, pyruvate, alanine, serine, glycine, folate, glucose-alanine-cycle]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0046A]

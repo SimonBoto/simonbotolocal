@@ -5,7 +5,7 @@ title: "Micronutrients: Vitamin D as Immunoregulatory Factor"
 aliases: [Z-001-0021, Micronutrients, Vitamin_D_Immune, Immunonutrition]
 domain: 001
 tags: [zettel, micronutrients, vitamin-d, immunomodulation, autoimmunity, inflammation, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]
 status: conscious

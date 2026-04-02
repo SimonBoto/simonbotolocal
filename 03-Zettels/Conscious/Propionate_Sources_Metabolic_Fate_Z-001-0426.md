@@ -5,7 +5,7 @@ title: Propionate — Sources and Metabolic Fate
 aliases: [Propionate, SCFA, Gut-Microbiome, Gluconeogenesis]
 domain: 001
 tags: [zettel, propionate, scfa, gut, metabolism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]
 extraction-date: 2026-03-01

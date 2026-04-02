@@ -6,7 +6,7 @@ aliases: [Z-001-1150, PCA-Metabolomics]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, pca, metabolomics, dimensionality-reduction]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Statistical_Analysis_Omics_L-001-0617]
 source: [[LitNote_Statistical_Analysis_Omics_L-001-0617]
 confidence: high

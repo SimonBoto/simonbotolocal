@@ -6,7 +6,7 @@ aliases: [Z-001-0057, VitD-Myth-Persistence]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, toxicity-myth, misinformation, clinical-practice]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]
 confidence: high
 created: 2026-03-01

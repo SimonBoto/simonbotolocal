@@ -4,7 +4,7 @@ type: zettel
 title: Oxidative Stress and Telomere Damage Mechanisms
 domain: 001
 tags: [zettel, oxidative-stress, ros, telomeres, dna-damage, inflammation]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]"
 status: conscious

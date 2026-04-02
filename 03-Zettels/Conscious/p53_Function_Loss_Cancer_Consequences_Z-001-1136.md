@@ -6,7 +6,7 @@ aliases: [Z-001-1136, p53-Loss]
 domain: 001
 domain-name: Cancer Biology
 tags: [zettel, p53, tumor-suppressor, function-loss, consequences]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]
 source: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]
 confidence: high

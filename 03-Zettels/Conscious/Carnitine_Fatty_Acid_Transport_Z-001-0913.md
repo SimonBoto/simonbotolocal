@@ -6,7 +6,7 @@ aliases: [Z-001-0913, Z-001-0013-deprecated, Carnitine, Fatty_Acid_Transport, Ca
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, carnitine, fatty-acids, mitochondria, beta-oxidation, plasma-TFA, transport, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]
 confidence: high
 created: 2026-02-23

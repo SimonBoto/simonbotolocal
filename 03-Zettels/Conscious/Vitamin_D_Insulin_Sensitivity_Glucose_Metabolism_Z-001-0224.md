@@ -5,7 +5,7 @@ title: Vitamin D and Insulin Sensitivity — Glucose Metabolism Mechanisms
 aliases: [VitD-Insulin, Vitamin-D-Glucose, Vitamin-D-IR]
 domain: 001
 tags: [zettel, vitamin-d, insulin, glucose, insulin-resistance, beta-cells]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]
 extraction-date: 2026-03-01

@@ -4,7 +4,7 @@ type: zettel
 title: Cis vs Trans Fatty Acids — Structure and Health Impact
 domain: 001
 tags: [zettel, trans-fat, cis-fat, fatty-acid-geometry, cardiovascular-health]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]"
 status: conscious

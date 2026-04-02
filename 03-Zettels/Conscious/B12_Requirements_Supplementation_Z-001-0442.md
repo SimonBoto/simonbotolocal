@@ -5,7 +5,7 @@ title: B12 Requirements and Supplementation
 aliases: [B12-Requirements, Supplementation, Dosing, Forms]
 domain: 001
 tags: [zettel, b12, requirements, supplementation, dosing]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]
 extraction-date: 2026-03-01

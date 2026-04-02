@@ -6,7 +6,7 @@ aliases: [Z-001-0902, Z-001-0002-deprecated, Omics_Cascade, Genotype_Phenotype_F
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, omics, genotype, phenotype, metabolomics, hierarchy, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
 confidence: high
 created: 2026-02-23

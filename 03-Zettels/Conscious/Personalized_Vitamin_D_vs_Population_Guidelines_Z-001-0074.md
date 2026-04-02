@@ -6,7 +6,7 @@ aliases: [Z-001-0074, Personalized-Vitamin-D]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, personalized-medicine, precision-nutrition]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
 confidence: high
 created: 2026-03-01

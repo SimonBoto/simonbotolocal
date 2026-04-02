@@ -5,7 +5,7 @@ title: Vitamin D and Calcium Absorption — Dose-Response Relationship
 aliases: [D-Calcium-Absorption, Calbindin, Active-Transport]
 domain: 001
 tags: [zettel, vitamin-d, calcium, absorption, dose-response]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]
 extraction-date: 2026-03-01

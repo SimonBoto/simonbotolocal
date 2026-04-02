@@ -5,7 +5,7 @@ title: D-K2 Shared Metabolic Pathways
 aliases: [Shared-Pathways, Metabolic-Integration, D-K2-Mechanisms]
 domain: 001
 tags: [zettel, vitamin-d, vitamin-k2, metabolism, pathways, integration]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]
 extraction-date: 2026-03-01

@@ -6,7 +6,7 @@ aliases: [Z-001-0528, Biomarker Validation Pipeline, Clinical Translation Standa
 domain: 001
 domain-name: Research Methods
 tags: [zettel, biomarkers, validation, clinical-translation, study-design, replication, research-standards]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]"
 confidence: high
 created: 2026-03-03

@@ -6,7 +6,7 @@ aliases: [Z-001-1065, OAT-Categories]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, oat, interpretation, categories]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
 source: [[LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594]
 confidence: high

@@ -4,7 +4,7 @@ type: zettel
 title: Stool Changes During Dysbiosis Treatment — Clinical Monitoring
 domain: 001
 tags: [zettel, stool-analysis, dysbiosis, die-off, clinical-monitoring, gi-symptoms]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Dysbiosis_Treatment_Die_Off_L-001-0635]"
 status: conscious

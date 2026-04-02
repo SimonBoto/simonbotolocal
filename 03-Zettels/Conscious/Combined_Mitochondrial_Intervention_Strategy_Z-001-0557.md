@@ -5,7 +5,7 @@ title: Combined Mitochondrial Intervention Strategy
 aliases: [Mitochondrial-Strategy, Diet-Exercise-Supplements, Triad-Approach]
 domain: 001
 tags: [zettel, mitochondrial-strategy, diet, exercise, supplements]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]
 extraction-date: 2026-03-01

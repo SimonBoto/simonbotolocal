@@ -5,7 +5,7 @@ title: Elevated ALP Differential — Systematic Workup for High Alkaline Phospha
 aliases: [Z-001-0986]
 domain: 001
 tags: [zettel, alp, alkaline-phosphatase, differential-diagnosis, workup, liver, bone, cholestasis, algorithm, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]
 status: conscious

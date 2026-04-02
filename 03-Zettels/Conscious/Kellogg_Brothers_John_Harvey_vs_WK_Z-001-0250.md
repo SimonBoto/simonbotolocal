@@ -5,7 +5,7 @@ title: The Kellogg Brothers — John Harvey vs. Will Keith
 aliases: [Kellogg-Brothers, John-Harvey, WK-Kellogg]
 domain: 001
 tags: [zettel, nutrition, history, kellogg, brothers, business]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Cereal_History_L-001-0211]
 extraction-date: 2026-03-01

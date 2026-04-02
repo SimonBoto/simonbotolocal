@@ -6,7 +6,7 @@ aliases: [Z-001-1060, Magnesium]
 domain: 001
 domain-name: Vitamin Metabolism
 tags: [zettel, magnesium, cofactor, atp]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
 source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
 confidence: high

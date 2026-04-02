@@ -5,7 +5,7 @@ title: Cottonseed Oil History — Toxic Gossypol and Industrial Origins
 aliases: [Z-001-0972]
 domain: 001
 tags: [zettel, cottonseed-oil, gossypol, history, toxic, industry, byproduct, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]
 status: conscious

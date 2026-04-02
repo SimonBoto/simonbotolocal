@@ -6,7 +6,7 @@ aliases: [Z-001-1038, Phase-3-Lipids]
 domain: 001
 domain-name: Fatty Acid Metabolism
 tags: [zettel, fatty-acids, lipidomics, ratios]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
 source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
 confidence: high

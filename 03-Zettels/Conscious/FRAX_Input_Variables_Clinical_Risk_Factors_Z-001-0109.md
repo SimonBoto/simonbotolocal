@@ -5,7 +5,7 @@ title: FRAX Input Variables — Clinical Risk Factors for Fracture Prediction
 aliases: [Z-001-0109]
 domain: 001
 tags: [zettel, frax, risk-factors, osteoporosis, fracture-prediction, clinical-assessment, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 

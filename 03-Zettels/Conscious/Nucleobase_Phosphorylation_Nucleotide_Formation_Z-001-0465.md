@@ -5,7 +5,7 @@ title: Nucleobase Phosphorylation and Nucleotide Formation
 aliases: [Z-001-0465, nucleobase-phosphorylation, nucleotide-formation, nucleoside]
 domain: 001
 tags: [zettel, phosphorylation, nucleotides, nucleosides, atp, camp, signaling]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045C]

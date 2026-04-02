@@ -5,7 +5,7 @@ title: Mitochondrial Uncoupling — Omega-6 Induced
 aliases: [Z-001-0953]
 domain: 001
 tags: [zettel, mitochondria, omega-6, cardiolipin, uncoupling, ros, oxidative-stress, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Mechanisms_Metabolic_Disruption_L-001-0523]
 status: conscious

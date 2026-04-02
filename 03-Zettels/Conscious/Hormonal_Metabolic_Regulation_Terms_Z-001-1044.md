@@ -6,7 +6,7 @@ aliases: [Z-001-1044, Hormonal-Terms]
 domain: 001
 domain-name: Endocrinology
 tags: [zettel, hormones, insulin, definitions]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 confidence: high

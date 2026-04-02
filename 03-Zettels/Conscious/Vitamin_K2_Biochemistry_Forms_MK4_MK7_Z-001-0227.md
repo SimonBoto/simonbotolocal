@@ -5,7 +5,7 @@ title: Vitamin K2 Biochemistry — MK-4 vs. MK-7 Forms
 aliases: [VitK2-Forms, MK4-MK7, Menaquinones]
 domain: 001
 tags: [zettel, vitamin-k2, mk4, mk7, menaquinone, biochemistry]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]
 extraction-date: 2026-03-01

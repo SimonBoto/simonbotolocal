@@ -6,7 +6,7 @@ aliases: [Z-001-1116, Organic-Acids]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, organic-acids, structures, functions, oat]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]
 source: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]
 confidence: high

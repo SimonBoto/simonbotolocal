@@ -5,7 +5,7 @@ title: Pyruvate Central Metabolic Role
 aliases: [Z-001-0477, pyruvate, central-metabolism, pdh, krebs]
 domain: 001
 tags: [zettel, pyruvate, metabolism, pdh, acetyl-coa, crossroads]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045F]

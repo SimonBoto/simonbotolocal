@@ -5,7 +5,7 @@ title: Oxalate Mineral Binding and Bioavailability
 aliases: [Z-001-0603, oxalate-calcium, oxalate-iron, mineral-binding]
 domain: 001
 tags: [zettel, oxalate, calcium, iron, bioavailability, chelation]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[L-001-0060A]
 confidence: high
 created: 2026-03-04

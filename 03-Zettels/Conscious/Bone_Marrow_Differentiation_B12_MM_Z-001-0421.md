@@ -5,7 +5,7 @@ title: Bone Marrow Differentiation — B12 vs MM
 aliases: [Bone-Marrow, Biopsy, Clonal-Plasma-Cells]
 domain: 001
 tags: [zettel, bone-marrow, biopsy, b12, multiple-myeloma]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]
 extraction-date: 2026-03-01

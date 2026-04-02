@@ -6,7 +6,7 @@ aliases: [Z-001-0076, Osteopenia_T_score_Definition_Minus_1_to_2.5]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, vitamin-d, clinical]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]
 confidence: high
 created: 2026-03-01

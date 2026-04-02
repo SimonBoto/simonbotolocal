@@ -5,7 +5,7 @@ title: Magnesium Supplementation — Clinical Trials in Diabetes and Metabolic S
 aliases: [Mg-Supplementation-Trials, Magnesium-Clinical-Trials, Mg-Intervention]
 domain: 001
 tags: [zettel, magnesium, clinical-trials, supplementation, diabetes, metabolic-syndrome]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]
 extraction-date: 2026-03-01

@@ -6,7 +6,7 @@ aliases: [Z-001-0042, BCAAs-IR-Risk]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, BCAAs, amino-acids, mTOR, insulin-resistance, metabolomics]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Biomarkers_Taxonomy_L-001-0006]
 confidence: high
 created: 2026-02-24

@@ -5,7 +5,7 @@ title: Methionine Cycle — Activation and Regeneration
 aliases: [Methionine-Cycle, SAM, SAH, Regeneration]
 domain: 001
 tags: [zettel, methionine-cycle, sam, sah, activation]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Methionine_Catabolism_L-001-0406]
 extraction-date: 2026-03-01

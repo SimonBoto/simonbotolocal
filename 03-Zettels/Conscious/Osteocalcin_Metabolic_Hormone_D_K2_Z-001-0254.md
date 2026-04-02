@@ -5,7 +5,7 @@ title: Osteocalcin as Metabolic Hormone — D-K2 Regulation
 aliases: [Osteocalcin, Metabolic-Hormone, Undercarboxylated-OC]
 domain: 001
 tags: [zettel, osteocalcin, hormone, insulin, vitamin-k2, metabolism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]
 extraction-date: 2026-03-01

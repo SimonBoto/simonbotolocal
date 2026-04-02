@@ -5,7 +5,7 @@ title: Folate Serum vs RBC Assessment
 aliases: [Folate, Serum, RBC, Tissue-Stores]
 domain: 001
 tags: [zettel, folate, serum, rbc, assessment]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]
 extraction-date: 2026-03-01

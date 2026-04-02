@@ -5,7 +5,7 @@ title: "Amino Acids to Succinyl-CoA: B12 Criticality"
 aliases: [Z-001-0495, succinyl-coa, b12, bcaas, methylmalonyl-coa]
 domain: 001
 tags: [zettel, succinyl-coa, b12, isoleucine, valine, methionine, threonine]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0046A]

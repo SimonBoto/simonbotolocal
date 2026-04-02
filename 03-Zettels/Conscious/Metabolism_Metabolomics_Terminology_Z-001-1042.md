@@ -6,7 +6,7 @@ aliases: [Z-001-1042, Metabolism-Terms]
 domain: 001
 domain-name: Metabolomics
 tags: [zettel, metabolomics, definitions, biochemistry]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 confidence: high

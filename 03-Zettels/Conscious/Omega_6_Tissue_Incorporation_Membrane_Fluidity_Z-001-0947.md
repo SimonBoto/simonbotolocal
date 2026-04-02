@@ -5,7 +5,7 @@ title: Omega-6 Tissue Incorporation and Cell Membrane Effects
 aliases: [Z-001-0947]
 domain: 001
 tags: [zettel, omega-6, tissue-incorporation, adipose, membrane, phospholipids, cardiolipin, half-life, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 

@@ -5,7 +5,7 @@ title: Selenium Mitochondrial Antioxidant
 aliases: [Selenium, GPx, Thioredoxin, Selenocysteine]
 domain: 001
 tags: [zettel, selenium, gpx, thioredoxin, antioxidant]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]
 extraction-date: 2026-03-01

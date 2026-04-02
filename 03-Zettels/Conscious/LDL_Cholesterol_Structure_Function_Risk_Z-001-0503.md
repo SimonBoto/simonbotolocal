@@ -5,7 +5,7 @@ title: LDL Cholesterol — Structure, Function, and Risk
 aliases: [LDL, LDL-Cholesterol, Small-Dense-LDL, Atherosclerosis]
 domain: 001
 tags: [zettel, ldl, cholesterol, atherosclerosis, risk]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]
 extraction-date: 2026-03-01

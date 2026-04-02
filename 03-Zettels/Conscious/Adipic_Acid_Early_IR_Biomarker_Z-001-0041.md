@@ -6,7 +6,7 @@ aliases: [Z-001-0041, Adipic-Acid-Biomarker]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, adipic-acid, biomarker, early-detection, beta-oxidation, organic-acids]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]
 confidence: high
 created: 2026-02-24

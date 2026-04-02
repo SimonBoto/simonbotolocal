@@ -5,7 +5,7 @@ title: ADA Guideline Controversies — Evolution and Criticism
 aliases: [ADA-Guidelines, HbA1c-Targets, Standards-of-Care]
 domain: 001
 tags: [zettel, ada, guidelines, controversy, hba1c, targets]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_ADA_History_L-001-0209]
 extraction-date: 2026-03-01

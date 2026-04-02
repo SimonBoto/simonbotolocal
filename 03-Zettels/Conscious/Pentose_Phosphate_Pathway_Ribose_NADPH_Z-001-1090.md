@@ -6,7 +6,7 @@ aliases: [Z-001-1090, PPP]
 domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, ppp, pentose, ribose, nadph]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]
 source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]
 confidence: high

@@ -5,7 +5,7 @@ title: Magnesium in Ion Transport and Cellular Signaling
 aliases: [Mg-Ion-Transport, Magnesium-Signaling, Mg-Calcium-Antagonism]
 domain: 001
 tags: [zettel, magnesium, ion-transport, signaling, calcium, channels]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]
 extraction-date: 2026-03-01

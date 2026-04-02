@@ -5,7 +5,7 @@ title: Homocysteine Metabolism Pathways
 aliases: [Homocysteine, Remethylation, Transsulfuration, B6]
 domain: 001
 tags: [zettel, homocysteine, methionine, cysteine, b6]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
 extraction-date: 2026-03-01

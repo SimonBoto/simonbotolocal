@@ -6,7 +6,7 @@ aliases: [Z-001-1144, METHAP-Timeline]
 domain: 001
 domain-name: PhD Research
 tags: [zettel, methap, timeline, testing, schedule]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]
 source: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]
 confidence: high

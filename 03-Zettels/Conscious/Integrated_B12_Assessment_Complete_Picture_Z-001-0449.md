@@ -5,7 +5,7 @@ title: Integrated B12 Assessment — Complete Picture
 aliases: [Integrated-Assessment, Complete-Picture, Panel]
 domain: 001
 tags: [zettel, integrated, assessment, b12, panel]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]
 extraction-date: 2026-03-01

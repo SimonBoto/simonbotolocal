@@ -5,7 +5,7 @@ title: Statin Clinical Decision Making
 aliases: [Statin-Decision, Risk-Stratification, ASCVD, Primary-Prevention]
 domain: 001
 tags: [zettel, statin, decision, risk, ascvd, prevention]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]
 extraction-date: 2026-03-01

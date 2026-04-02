@@ -6,7 +6,7 @@ aliases: [Z-001-0056, VitD-Regulatory-Overreaction]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, regulation, history, public-health]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]
 confidence: high
 created: 2026-03-01

@@ -4,7 +4,7 @@ type: zettel
 title: Saturated vs Unsaturated Fats — Health Effects
 domain: 001
 tags: [zettel, saturated-fat, unsaturated-fat, cardiovascular, inflammation, diet]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]"
 status: conscious

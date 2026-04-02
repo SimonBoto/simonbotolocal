@@ -5,7 +5,7 @@ title: Blood Pressure Assessment Hypertension Metabolic Connection
 aliases: [Z-001-0053, Blood Pressure, Hypertension, BP, Metabolic Hypertension]
 domain: 001
 tags: [zettel, biomarker, blood-pressure, status/optimal, clinical-protocol]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 biomarker-type: cardiovascular-vital-sign
 optimal-systolic: <120 mmHg
 optimal-diastolic: <80 mmHg

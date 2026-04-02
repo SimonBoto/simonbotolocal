@@ -5,7 +5,7 @@ title: HOMA-Beta Beta Cell Function Assessment
 aliases: [Z-001-0047, HOMA-β, Beta Cell Function, Insulin Secretion Index]
 domain: 001
 tags: [zettel, biomarker, ir-core, calculation-formula, phd-methap]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 biomarker-type: beta-cell-function-index
 formula: (360 × Fasting Insulin) / (Fasting Glucose - 63)
 target-range: 100-200

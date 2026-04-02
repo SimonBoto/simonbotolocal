@@ -4,7 +4,7 @@ type: zettel
 title: PLP — Vitamin B6 Pyridoxal Phosphate Cofactor
 domain: 001
 tags: [zettel, plp, vitamin-b6, pyridoxal-phosphate, amino-acid-metabolism, neurotransmitters]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630]"
 status: conscious

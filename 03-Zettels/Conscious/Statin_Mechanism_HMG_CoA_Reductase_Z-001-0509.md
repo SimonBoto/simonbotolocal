@@ -5,7 +5,7 @@ title: Statin Mechanism — HMG-CoA Reductase Inhibition
 aliases: [Statin-Mechanism, HMG-CoA-Reductase, LDL-Receptor-Upregulation]
 domain: 001
 tags: [zettel, statin, mechanism, hmg-coa-reductase, ldl-receptor]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]
 extraction-date: 2026-03-01

@@ -5,7 +5,7 @@ title: Methylmalonyl-CoA Mutase — B12 and Radical Mechanism
 aliases: [Methylmalonyl-CoA-Mutase, B12, Adenosylcobalamin, Radical]
 domain: 001
 tags: [zettel, methylmalonyl-coa-mutase, b12, radical, mechanism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]
 extraction-date: 2026-03-01

@@ -6,7 +6,7 @@ aliases: [Z-001-1083, Adenosine]
 domain: 001
 domain-name: Nucleotide Metabolism
 tags: [zettel, adenosine, nucleoside, atp, signaling]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]
 source: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]
 confidence: high

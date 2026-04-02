@@ -6,7 +6,7 @@ aliases: [Z-001-0078, Fragility_Fractures_Morbidity_Mortality]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, vitamin-d, clinical]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]
 confidence: high
 created: 2026-03-01

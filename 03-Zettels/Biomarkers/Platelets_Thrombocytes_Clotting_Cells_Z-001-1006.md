@@ -6,7 +6,7 @@ title: Platelets — Thrombocytes, Clotting Cells
 aliases: [Z-001-1006, Platelets, Thrombocytes, PLT, Clotting]
 domain: 001
 tags: [zettel, biomarker, platelets, plt, thrombocytes, clotting, bleeding]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

@@ -4,7 +4,7 @@ type: zettel
 title: Vitamin D Immunomodulation Mechanisms
 domain: 001
 tags: [zettel, vitamin-d, vdr, immunology, mechanisms, cytokines]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_VDR_Knockout_Immune_Function_L-001-0621]"
 status: conscious

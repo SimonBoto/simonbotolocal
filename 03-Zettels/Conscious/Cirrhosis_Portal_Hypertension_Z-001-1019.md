@@ -5,7 +5,7 @@ title: Cirrhosis and Portal Hypertension — MELD-Na, TIPS, and Complications
 aliases: [Z-001-1019]
 domain: 001
 tags: [zettel, cirrhosis, portal-hypertension, meld-na, tips, varices, ascites, hepatic-encephalopathy, liver-failure, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious

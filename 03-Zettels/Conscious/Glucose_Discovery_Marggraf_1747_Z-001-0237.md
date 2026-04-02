@@ -5,7 +5,7 @@ title: Glucose Discovery — Andreas Marggraf (1747)
 aliases: [Marggraf, Glucose-1747, Sugar-Isolation]
 domain: 001
 tags: [zettel, glucose, history, 1747, marggraf, discovery]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Glucose_History_L-001-0208]
 extraction-date: 2026-03-01

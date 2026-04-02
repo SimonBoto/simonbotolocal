@@ -6,7 +6,7 @@ aliases: [Z-001-1113, Metabolic-Flexibility]
 domain: 001
 domain-name: Metabolic Health
 tags: [zettel, metabolic-flexibility, fuel-switching, insulin]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]
 source: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]
 confidence: high

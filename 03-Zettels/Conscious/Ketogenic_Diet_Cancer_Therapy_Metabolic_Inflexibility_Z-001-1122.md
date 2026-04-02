@@ -6,7 +6,7 @@ aliases: [Z-001-1122, Keto-Cancer]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, ketogenic-diet, cancer, therapy]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]
 source: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]
 confidence: high

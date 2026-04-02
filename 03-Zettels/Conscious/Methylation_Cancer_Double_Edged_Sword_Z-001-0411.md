@@ -5,7 +5,7 @@ title: Methylation and Cancer — Double-Edged Sword
 aliases: [Methylation-Cancer, Hypermethylation, Hypomethylation, Oncogenes]
 domain: 001
 tags: [zettel, methylation, cancer, tumor-suppressor, oncogenes]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]
 extraction-date: 2026-03-01

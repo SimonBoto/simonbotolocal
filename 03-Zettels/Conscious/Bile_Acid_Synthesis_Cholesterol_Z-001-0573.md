@@ -6,7 +6,7 @@ aliases: [Z-001-0573, Bile Salts, Cholesterol Excretion, Enterohepatic Circulati
 domain: 001
 domain-name: Digestive Metabolism
 tags: [zettel, bile-acids, cholesterol, digestion, fat-absorption, enterohepatic, cyp7a1]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]"
 confidence: high
 created: 2026-03-03

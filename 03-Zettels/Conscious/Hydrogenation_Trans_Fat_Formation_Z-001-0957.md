@@ -5,7 +5,7 @@ title: Hydrogenation and Trans Fat Formation in Seed Oils
 aliases: [Z-001-0957]
 domain: 001
 tags: [zettel, hydrogenation, trans-fats, seed-oils, partial-hydrogenation, cardiovascular-disease, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]
 status: conscious

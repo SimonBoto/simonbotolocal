@@ -6,7 +6,7 @@ aliases: [Z-001-1041, Health-Philosophy]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, philosophy, health, definitions]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 confidence: high

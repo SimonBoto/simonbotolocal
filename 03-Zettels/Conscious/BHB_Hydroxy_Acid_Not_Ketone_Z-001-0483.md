@@ -5,7 +5,7 @@ title: BHB is a Hydroxy Acid Not a Ketone
 aliases: [Z-001-0483, bhb, hydroxy-acid, ketone, structure]
 domain: 001
 tags: [zettel, bhb, hydroxy-acid, chemistry, structure, nomenclature]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045G]

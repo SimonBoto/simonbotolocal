@@ -5,7 +5,7 @@ title: Glycine Metabolism to Oxalate
 aliases: [Z-001-0605, glycine-oxalate, glyoxylate, amino-acid-metabolism]
 domain: 001
 tags: [zettel, glycine, oxalate, glyoxylate, metabolism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[L-001-0060A]
 confidence: high
 created: 2026-03-04

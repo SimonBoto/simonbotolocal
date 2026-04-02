@@ -6,7 +6,7 @@ aliases: [Z-001-1131, MM-CRAB]
 domain: 001
 domain-name: Hematology Oncology
 tags: [zettel, multiple-myeloma, crab, diagnosis]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]
 source: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]
 confidence: high

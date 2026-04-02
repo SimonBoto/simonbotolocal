@@ -6,7 +6,7 @@ aliases: [Z-001-0089, Denosumab_ONJ_Atypical_Fractures]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, pharmacology, denosumab]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]
 confidence: high
 created: 2026-03-01

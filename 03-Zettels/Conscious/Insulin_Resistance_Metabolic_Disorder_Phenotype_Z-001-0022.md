@@ -5,7 +5,7 @@ title: "Insulin Resistance as Metabolic Disorder Phenotype"
 aliases: [Z-001-0022, IR_Metabolic_Disorder, IR_Phenotype, Metabolic_Syndrome_IR]
 domain: 001
 tags: [zettel, insulin-resistance, metabolic-disorder, phenotype, metabolomics, chronic-disease, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]
 status: conscious

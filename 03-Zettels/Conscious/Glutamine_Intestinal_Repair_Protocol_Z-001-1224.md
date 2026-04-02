@@ -4,7 +4,7 @@ type: zettel
 title: Glutamine — Intestinal Repair Protocol
 domain: 001
 tags: [zettel, glutamine, gut-healing, intestinal-barrier, amino-acids, leaky-gut]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Gut_Healing_Amino_Acids_L-001-0636]"
 status: conscious

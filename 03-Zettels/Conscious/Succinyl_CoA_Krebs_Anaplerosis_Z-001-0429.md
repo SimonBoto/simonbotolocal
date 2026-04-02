@@ -5,7 +5,7 @@ title: Succinyl-CoA — Krebs Cycle Anaplerosis
 aliases: [Succinyl-CoA, Krebs-Cycle, Anaplerosis, Energy]
 domain: 001
 tags: [zettel, succinyl-coa, krebs, anaplerosis, energy]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]
 extraction-date: 2026-03-01

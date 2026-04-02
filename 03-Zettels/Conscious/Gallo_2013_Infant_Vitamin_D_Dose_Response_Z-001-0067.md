@@ -6,7 +6,7 @@ aliases: [Z-001-0067, Gallo-2013-VitD-Infants]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, Gallo-2013, infants, RCT, dose-response]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]
 confidence: high
 created: 2026-03-01

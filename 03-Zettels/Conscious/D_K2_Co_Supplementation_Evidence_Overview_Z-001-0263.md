@@ -5,7 +5,7 @@ title: D-K2 Co-Supplementation Evidence Overview
 aliases: [D-K2-Evidence, Clinical-Trials, Co-Supplementation]
 domain: 001
 tags: [zettel, vitamin-d, vitamin-k2, evidence, clinical-trials, research]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_D_K2_Co_Supplementation_Evidence_L-001-0214]
 extraction-date: 2026-03-01

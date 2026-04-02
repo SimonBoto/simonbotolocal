@@ -6,7 +6,7 @@ aliases: [Z-001-0934, Z-001-0527-deprecated, Multiple Comparisons Problem, High-
 domain: 001
 domain-name: Research Methods
 tags: [zettel, statistics, multiple-testing, high-dimensional-data, omics, metabolomics, type-1-error, false-positives]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]"
 confidence: high
 created: 2026-03-03

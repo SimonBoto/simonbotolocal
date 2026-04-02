@@ -5,7 +5,7 @@ title: "Oxidative Stress Biomarkers in Metabolomics"
 aliases: [Z-001-0020, Oxidative_Stress, OS_Biomarkers, Metabolomics_OS]
 domain: 001
 tags: [zettel, oxidative-stress, biomarkers, metabolomics, metabolic-syndrome, inflammation, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]
 status: conscious

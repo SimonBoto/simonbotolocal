@@ -5,7 +5,7 @@ title: Circulating Cell-Free mtDNA — Cancer Biomarker and Prognostic Tool
 aliases: [Z-001-0990]
 domain: 001
 tags: [zettel, circulating-mtdna, liquid-biopsy, cancer-biomarker, prognosis, early-detection, monitoring, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]
 status: conscious

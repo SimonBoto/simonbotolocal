@@ -5,7 +5,7 @@ title: METHAP Calcium Monitoring Protocol
 aliases: [METHAP-Monitoring, Calcium-Safety, Protocol]
 domain: 001
 tags: [zettel, methap, monitoring, calcium, safety, protocol]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]
 extraction-date: 2026-03-01

@@ -5,7 +5,7 @@ title: Acute Pancreatitis — Revised Atlanta Classification and Management
 aliases: [Z-001-1021]
 domain: 001
 tags: [zettel, acute-pancreatitis, atlanta-criteria, interstitial-edematous, necrotizing, severity, biliary, alcohol, fluid-resuscitation, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious

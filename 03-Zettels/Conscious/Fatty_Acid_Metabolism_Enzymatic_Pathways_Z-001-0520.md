@@ -5,7 +5,7 @@ title: Fatty Acid Metabolism — Enzymatic Pathways
 aliases: [Fatty-Acid-Metabolism, Desaturase, Elongase, Eicosanoids]
 domain: 001
 tags: [zettel, fatty-acid-metabolism, desaturase, elongase, eicosanoids]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]
 extraction-date: 2026-03-01

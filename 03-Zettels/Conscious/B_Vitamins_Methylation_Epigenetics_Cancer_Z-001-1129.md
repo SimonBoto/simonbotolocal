@@ -6,7 +6,7 @@ aliases: [Z-001-1129, B-Vitamins-Methylation]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, b-vitamins, methylation, epigenetics, cancer]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]
 source: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]
 confidence: high

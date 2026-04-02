@@ -5,7 +5,7 @@ title: Mitochondrial DNA Mutations in Cancer — Oncogenic Mechanisms and Clinic
 aliases: [Z-001-0989]
 domain: 001
 tags: [zettel, mtdna, mitochondrial-dna, cancer, mutations, respiratory-chain, ros, warburg-effect, biomarker, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]
 status: conscious

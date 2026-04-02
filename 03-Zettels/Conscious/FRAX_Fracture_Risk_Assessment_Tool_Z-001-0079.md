@@ -6,7 +6,7 @@ aliases: [Z-001-0079, FRAX_Fracture_Risk_Assessment_Tool]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, vitamin-d, clinical]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010]
 confidence: high
 created: 2026-03-01

@@ -5,7 +5,7 @@ title: NADPH Functions in Anabolism and Antioxidant Defense
 aliases: [Z-001-0460, nadph, antioxidant, biosynthesis, reducing-power]
 domain: 001
 tags: [zettel, nadph, antioxidant, biosynthesis, gsh, immunity]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045C]

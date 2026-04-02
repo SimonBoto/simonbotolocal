@@ -4,7 +4,7 @@ type: zettel
 title: Dehydrogenases vs Decarboxylases — Oxidative Strategy Comparison
 domain: 001
 tags: [zettel, dehydrogenases, decarboxylases, enzyme-mechanism, krebs-cycle, cofactors]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-001-0630]"
 status: conscious

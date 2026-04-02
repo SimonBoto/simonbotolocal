@@ -5,7 +5,7 @@ title: "Triose Metabolism: G3P and DHAP Integration"
 aliases: [Z-001-0459, triose-metabolism, g3p, dhap, glycolysis]
 domain: 001
 tags: [zettel, trioses, g3p, dhap, glycolysis, evolution]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045C]

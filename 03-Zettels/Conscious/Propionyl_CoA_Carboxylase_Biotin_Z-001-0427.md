@@ -5,7 +5,7 @@ title: Propionyl-CoA Carboxylase — Biotin-Dependent Step
 aliases: [PCC, Propionyl-CoA-Carboxylase, Biotin]
 domain: 001
 tags: [zettel, pcc, biotin, carboxylase, propionyl-coa]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]
 extraction-date: 2026-03-01

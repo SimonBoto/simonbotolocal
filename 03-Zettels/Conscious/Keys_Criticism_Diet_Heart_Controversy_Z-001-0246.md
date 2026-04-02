@@ -5,7 +5,7 @@ title: Criticisms of Keys' Research — Diet-Heart Controversy
 aliases: [Keys-Criticism, Diet-Heart-Debate, Saturated-Fat-Controversy]
 domain: 001
 tags: [zettel, nutrition, controversy, keys, criticism, saturated-fat]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Dietary_Fat_History_L-001-0210]
 extraction-date: 2026-03-01

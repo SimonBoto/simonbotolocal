@@ -4,7 +4,7 @@ type: zettel
 title: Power Analysis and Sample Size — METHAP Trial
 domain: 001
 tags: [zettel, power-analysis, sample-size, methap, statistics, clinical-trial]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Statistical_Analysis_Omics_L-001-0617]"
 status: conscious

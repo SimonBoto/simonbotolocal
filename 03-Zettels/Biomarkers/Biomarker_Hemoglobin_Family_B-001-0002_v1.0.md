@@ -5,7 +5,7 @@ title: Hemoglobin Family (Hb, Hct, MCV, MCH, MCHC, RDW) - Clinical Guide
 aliases: [B-001-0002, Hb, Hemoglobin, Hct, Hematocrit, MCV, MCH, MCHC, RDW, RBC-Indices]
 domain: 001
 tags: [biomarker, hematology, anemia, hemoglobin, iron, b12, folate]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: active
 created: 2026-03-30
 ---

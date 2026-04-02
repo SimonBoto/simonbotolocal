@@ -5,7 +5,7 @@ title: Methylmalonyl-CoA Mutase — Energy Connection
 aliases: [Methylmalonyl-CoA-Mutase, Energy, Krebs-Cycle, Succinyl-CoA]
 domain: 001
 tags: [zettel, methylmalonyl-coa-mutase, energy, krebs, atp]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]
 extraction-date: 2026-03-01

@@ -6,7 +6,7 @@ aliases: [Z-001-0571, Coenzyme Q10, Ubiquinone, Protein Prenylation, Dolichol]
 domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, coq10, ubiquinone, dolichol, isoprenoids, mitochondria, protein-glycosylation, statin-side-effects]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]"
 confidence: high
 created: 2026-03-03

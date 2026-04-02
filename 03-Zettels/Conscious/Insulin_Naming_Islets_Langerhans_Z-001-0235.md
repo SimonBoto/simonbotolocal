@@ -5,7 +5,7 @@ title: Insulin Naming and the Islets of Langerhans
 aliases: [Insulin-Etymology, Islets-Langerhans, Insula]
 domain: 001
 tags: [zettel, insulin, history, etymology, islets, pancreas]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Insulin_History_L-001-0207]
 extraction-date: 2026-03-01

@@ -6,7 +6,7 @@ aliases: [Z-001-0029, Lipotoxicity-IR]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, lipotoxicity, insulin-resistance, adipose-tissue, ceramide, mechanisms]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
 confidence: high
 created: 2026-02-24

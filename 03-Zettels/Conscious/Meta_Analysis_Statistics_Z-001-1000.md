@@ -5,7 +5,7 @@ title: Meta-Analysis Statistics — Effect Sizes, Heterogeneity, and Forest Plot
 aliases: [Z-001-1000]
 domain: 001
 tags: [zettel, meta-analysis, statistics, effect-size, heterogeneity, i2, forest-plot, fixed-effect, random-effects, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]
 status: conscious

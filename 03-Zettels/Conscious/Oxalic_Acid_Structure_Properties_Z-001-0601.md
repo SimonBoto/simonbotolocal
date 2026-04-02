@@ -5,7 +5,7 @@ title: Oxalic Acid Structure and Properties
 aliases: [Z-001-0601, oxalic-acid, dicarboxylic-acid, ethanedioic-acid]
 domain: 001
 tags: [zettel, oxalic-acid, dicarboxylic-acid, chemistry, structure]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[L-001-0060A]
 confidence: high
 created: 2026-03-04

@@ -6,7 +6,7 @@ aliases: [Z-001-0039, Stress-IR-Cycle, HPA-IR-Cycle]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vicious-cycle, stress, cortisol, HPA-axis, IR]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
 confidence: high
 created: 2026-02-24

@@ -5,7 +5,7 @@ title: Vitamin D and Lipid Metabolism — HDL and Triglyceride Effects
 aliases: [VitD-Lipids, Vitamin-D-HDL, Vitamin-D-Cholesterol]
 domain: 001
 tags: [zettel, vitamin-d, lipids, HDL, triglycerides, cholesterol]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]
 extraction-date: 2026-03-01

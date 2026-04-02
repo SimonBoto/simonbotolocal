@@ -5,7 +5,7 @@ title: Vulnerable Populations in Research — Special Protections and Considerat
 aliases: [Z-001-1006]
 domain: 001
 tags: [zettel, vulnerable-populations, research-ethics, children, prisoners, pregnant-women, cognitive-impairment, exploitation, 45-cfr-46, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]
 status: conscious

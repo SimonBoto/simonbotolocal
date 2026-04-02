@@ -5,7 +5,7 @@ title: Dietary Sources of Oxalate
 aliases: [Z-001-0602, oxalate-foods, high-oxalate, low-oxalate]
 domain: 001
 tags: [zettel, oxalate, diet, nutrition, kidney-stones]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[L-001-0060A]
 confidence: high
 created: 2026-03-04

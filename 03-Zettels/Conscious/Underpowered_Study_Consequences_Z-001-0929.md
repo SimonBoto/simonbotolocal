@@ -5,7 +5,7 @@ title: Consequences of Underpowered Studies in Omics Research
 aliases: [Z-001-0929, Z-001-0522-deprecated, Underpowered Studies, Type I Error, False Positives, Winners Curse]
 domain: 001
 tags: [zettel, underpowered, false-positives, type-1-error, effect-size-inflation, replication-crisis]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source: "[[LitNote_Power_Analysis_Metabolomics_L-001-0514]"
 extraction-date: 2026-03-02

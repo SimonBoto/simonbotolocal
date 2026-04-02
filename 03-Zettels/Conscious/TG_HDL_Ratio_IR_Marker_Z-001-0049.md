@@ -5,7 +5,7 @@ title: TG HDL Ratio Insulin Resistance Lipid Marker
 aliases: [Z-001-0049, TG/HDL, Triglyceride HDL Ratio, Lipid IR Marker]
 domain: 001
 tags: [zettel, biomarker, ir-core, calculation-formula, phd-methap]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 biomarker-type: insulin-resistance-lipid-proxy
 formula: Triglycerides (mg/dL) / HDL-C (mg/dL)
 target-range: <2.0

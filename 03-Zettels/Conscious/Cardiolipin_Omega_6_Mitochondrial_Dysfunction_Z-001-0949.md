@@ -5,7 +5,7 @@ title: Cardiolipin Omega-6 Enrichment and Mitochondrial Dysfunction
 aliases: [Z-001-0949]
 domain: 001
 tags: [zettel, cardiolipin, mitochondria, omega-6, oxidation, cytochrome-c, apoptosis, electron-transport-chain, insulin-resistance, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 

@@ -5,7 +5,7 @@ title: Aldehyde vs Ketone Chemistry
 aliases: [Z-001-0480, aldehyde, ketone, carbonyl, chemistry]
 domain: 001
 tags: [zettel, aldehyde, ketone, carbonyl, functional-groups, chemistry]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045F]

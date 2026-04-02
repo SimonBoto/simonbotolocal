@@ -6,7 +6,7 @@ aliases: [Z-001-1080, Competency-Checklist]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, competency, training, assessment]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]
 source: [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]
 confidence: high

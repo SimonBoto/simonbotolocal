@@ -6,7 +6,7 @@ aliases: [Z-001-0908, Z-001-0008-deprecated, Microbiomics, Microbiome, Gut_Bacte
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, microbiomics, microbiome, gut-bacteria, dysbiosis, metabolites, butyrate, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
 confidence: high
 created: 2026-02-23

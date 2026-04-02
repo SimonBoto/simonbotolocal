@@ -5,7 +5,7 @@ title: Reversal Phase — Mononuclear Cells Prepare Bone Surface
 aliases: [Z-001-0101]
 domain: 001
 tags: [zettel, bone-remodeling, reversal, mononuclear-cells, coupling, cement-line, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 

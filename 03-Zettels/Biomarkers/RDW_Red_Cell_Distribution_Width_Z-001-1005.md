@@ -6,7 +6,7 @@ title: RDW — Red Cell Distribution Width
 aliases: [Z-001-1005, RDW, Red-Cell-Distribution-Width, Anisocytosis]
 domain: 001
 tags: [zettel, biomarker, rdw, rbc-variation, anemia]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

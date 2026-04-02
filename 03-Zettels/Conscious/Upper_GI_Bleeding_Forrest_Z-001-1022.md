@@ -5,7 +5,7 @@ title: Upper GI Bleeding — Forrest Classification and Management
 aliases: [Z-001-1022]
 domain: 001
 tags: [zettel, upper-gi-bleeding, forrest-classification, peptic-ulcer, varices, endoscopy, hemostasis, ppi, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious

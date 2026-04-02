@@ -5,7 +5,7 @@ title: Vitamin D and Methylation Cross-Talk
 aliases: [Vitamin-D-Methylation, TET, DNMT, Epigenetic-Vitamin-D]
 domain: 001
 tags: [zettel, vitamin-d, methylation, tet, dnmt, epigenetics]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]
 extraction-date: 2026-03-01

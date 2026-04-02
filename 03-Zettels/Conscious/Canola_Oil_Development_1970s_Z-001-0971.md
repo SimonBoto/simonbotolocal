@@ -5,7 +5,7 @@ title: Canola Oil Development 1970s — Canadian Low-Erucic Acid Rapeseed
 aliases: [Z-001-0971]
 domain: 001
 tags: [zettel, canola, rapeseed, erucic-acid, canada, 1970s, plant-breeding, low-linolenic, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]
 status: conscious

@@ -5,7 +5,7 @@ title: Statistical Issues — Overfitting and Correlation Inflation
 aliases: [Z-001-0933, Z-001-0526-deprecated, Overfitting, Correlation-Inflation, Statistical-Issues]
 domain: 001
 tags: [zettel, overfitting, correlation, statistical-issues]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Seven_Countries_Methodology_L-001-0504]
 extraction-date: 2026-03-01

@@ -5,7 +5,7 @@ title: Metabolic Syndrome — Management (Lifestyle and Pharmacology)
 aliases: [MetS-Management, Metabolic-Syndrome-Treatment, MetS-Intervention]
 domain: 001
 tags: [zettel, metabolic-syndrome, management, lifestyle, pharmacology, treatment]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]
 extraction-date: 2026-03-01

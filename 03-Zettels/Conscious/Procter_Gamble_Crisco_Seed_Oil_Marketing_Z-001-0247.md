@@ -5,7 +5,7 @@ title: Procter & Gamble and Crisco — Seed Oil Marketing (1911)
 aliases: [Crisco, Procter-Gamble, Seed-Oil-Marketing, 1911]
 domain: 001
 tags: [zettel, nutrition, history, crisco, procter-gamble, marketing]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Dietary_Fat_History_L-001-0210]
 extraction-date: 2026-03-01

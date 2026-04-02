@@ -5,7 +5,7 @@ title: The Three Ketone Bodies
 aliases: [Z-001-0482, acetoacetate, bhb, acetone, ketones]
 domain: 001
 tags: [zettel, acetoacetate, bhb, acetone, ketone-bodies, structure]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045G]

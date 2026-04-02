@@ -7,7 +7,7 @@ aliases: [Z-001-0012, GSK3, Glycogen_Synthesis]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, mechanism, GSK3, glycogen, liver, insulin]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: 
 confidence: high
 created: 2026-02-22

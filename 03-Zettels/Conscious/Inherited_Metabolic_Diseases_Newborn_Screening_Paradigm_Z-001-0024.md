@@ -5,7 +5,7 @@ title: "Inherited Metabolic Diseases & Newborn Screening Paradigm"
 aliases: [Z-001-0024, IMD_Newborn_Screening, Metabolic_Diagnosis_Precedent]
 domain: 001
 tags: [zettel, inherited-metabolic-diseases, newborn-screening, diagnosis, metabolomics, precedent, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]
 status: conscious

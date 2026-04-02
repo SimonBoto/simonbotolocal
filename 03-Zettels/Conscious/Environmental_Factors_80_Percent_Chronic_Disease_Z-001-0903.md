@@ -6,7 +6,7 @@ aliases: [Z-001-0903, Z-001-0003-deprecated, Environmental_Factors_80_Percent, C
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, environmental-factors, chronic-disease, autoimmune, 80-percent-statistic, epigenetics, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
 confidence: high
 created: 2026-02-23

@@ -6,7 +6,7 @@ aliases: [Z-001-1097, AA-Classification]
 domain: 001
 domain-name: Amino Acid Metabolism
 tags: [zettel, amino-acids, glycogenic, ketogenic, classification]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]
 source: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]
 confidence: high

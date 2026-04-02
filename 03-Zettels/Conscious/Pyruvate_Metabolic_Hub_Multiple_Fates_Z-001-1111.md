@@ -6,7 +6,7 @@ aliases: [Z-001-1111, Pyruvate-Hub]
 domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, pyruvate, hub, metabolism, fates]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]
 source: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]
 confidence: high

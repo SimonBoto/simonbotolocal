@@ -5,7 +5,7 @@ title: MTHFR Enzyme Function — Rate-Limiting Step
 aliases: [MTHFR, Methylenetetrahydrofolate-Reductase, Rate-Limiting]
 domain: 001
 tags: [zettel, mthfr, enzyme, folate, rate-limiting]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]
 extraction-date: 2026-03-01

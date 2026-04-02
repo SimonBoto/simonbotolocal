@@ -6,7 +6,7 @@ aliases: [Z-001-0060, IOM-Defensive-Response]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, IOM, scientific-resistance, institutional-inertia]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]
 confidence: high
 created: 2026-03-01

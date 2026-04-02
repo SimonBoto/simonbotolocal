@@ -4,7 +4,7 @@ type: zettel
 title: Matrix Gla-Protein (MGP) — Vascular Calcification Inhibitor
 domain: 001
 tags: [zettel, mgp, matrix-gla-protein, vascular-calcification, vitamin-k2, cvd]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_VitD_K2_Synergy_MetS_L-001-0639]"
 status: conscious

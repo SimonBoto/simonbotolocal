@@ -6,7 +6,7 @@ aliases: [Z-001-1108, Prebiotic-Chemistry]
 domain: 001
 domain-name: Evolutionary Biochemistry
 tags: [zettel, prebiotic, hydrothermal, vents, origins]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]
 source: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]
 confidence: high

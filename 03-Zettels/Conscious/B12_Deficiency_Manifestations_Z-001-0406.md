@@ -5,7 +5,7 @@ title: B12 Deficiency Manifestations and Mimics
 aliases: [B12-Deficiency, Megaloblastic-Anemia, Subacute-Combined-Degeneration]
 domain: 001
 tags: [zettel, b12-deficiency, anemia, neurological, mimics]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
 extraction-date: 2026-03-01

@@ -6,7 +6,7 @@ aliases: [Z-001-0099, Protein_Requirements_Bone_Health_1.2_to_1.5_gkg]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, bone-health, nutrition, protein]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]
 confidence: high
 created: 2026-03-01

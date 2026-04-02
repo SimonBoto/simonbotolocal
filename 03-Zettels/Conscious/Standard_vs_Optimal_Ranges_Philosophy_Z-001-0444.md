@@ -5,7 +5,7 @@ title: Standard vs Optimal Ranges — Clinical Philosophy
 aliases: [Standard-Ranges, Optimal-Ranges, Functional-Medicine]
 domain: 001
 tags: [zettel, standard-ranges, optimal-ranges, functional-medicine, philosophy]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]
 extraction-date: 2026-03-01

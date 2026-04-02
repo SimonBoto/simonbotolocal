@@ -5,7 +5,7 @@ title: One-Carbon Metabolism Overview
 aliases: [One-Carbon, Folate-Cycle, Methyl-Transfer]
 domain: 001
 tags: [zettel, one-carbon, folate, metabolism, biochemistry]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
 extraction-date: 2026-03-01

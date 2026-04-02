@@ -6,7 +6,7 @@ aliases: [Z-001-1045, Microbiome-Terms]
 domain: 001
 domain-name: Gut Health
 tags: [zettel, microbiome, gut, definitions]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 confidence: high

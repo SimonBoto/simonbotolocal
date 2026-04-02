@@ -4,7 +4,7 @@ type: zettel
 title: B-Vitamin Cofactors — Summary and Clinical Connections
 domain: 001
 tags: [zettel, b-vitamins, cofactors, metabolism, summary, clinical]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630]"
 status: conscious

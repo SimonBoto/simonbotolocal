@@ -5,7 +5,7 @@ title: "Ketogenic Amino Acids: Leucine and Lysine"
 aliases: [Z-001-0498, ketogenic, leucine, lysine, hmg-coa, acetyl-coa]
 domain: 001
 tags: [zettel, ketogenic, leucine, lysine, hmg-coa, pure-ketogenic]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0046A]

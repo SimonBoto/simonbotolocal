@@ -5,7 +5,7 @@ title: Minnesota Coronary Experiment Reanalysis — Unpublished Data Recovery
 aliases: [Z-001-0961]
 domain: 001
 tags: [zettel, minnesota-coronary, ramsden, omega-6, mce, unpublished-data, selection-bias, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Epidemiological_Evidence_L-001-0525]
 status: conscious

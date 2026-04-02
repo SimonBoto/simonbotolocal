@@ -5,7 +5,7 @@ title: Vascular Calcification Pathophysiology
 aliases: [Calcification-Mechanism, VSMC-Transformation, Hydroxyapatite]
 domain: 001
 tags: [zettel, vascular-calcification, pathophysiology, mechanisms]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Vascular_Calcification_L-001-0215]
 extraction-date: 2026-03-01

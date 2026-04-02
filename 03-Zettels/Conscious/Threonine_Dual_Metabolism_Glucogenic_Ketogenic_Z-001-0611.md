@@ -5,7 +5,7 @@ title: "Threonine Dual Metabolism: Glucogenic and Ketogenic"
 aliases: [Z-001-0611]
 domain: 001
 tags: [zettel, threonine, glucogenic, ketogenic, amino-acid-metabolism, dual-metabolism, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]
 extraction-date: 2026-03-05

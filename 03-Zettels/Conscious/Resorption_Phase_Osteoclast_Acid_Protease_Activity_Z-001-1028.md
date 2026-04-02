@@ -5,7 +5,7 @@ title: Resorption Phase — Osteoclast Acid and Protease Activity
 aliases: [Z-001-1028]
 domain: 001
 tags: [zettel, bone-remodeling, osteoclasts, resorption, acid, cathepsin-k, mmp9, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 

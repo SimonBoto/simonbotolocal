@@ -6,7 +6,7 @@ aliases: [Z-001-1114, Aldoses-Ketoses]
 domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, aldoses, ketoses, reference, table]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]
 source: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]
 confidence: high

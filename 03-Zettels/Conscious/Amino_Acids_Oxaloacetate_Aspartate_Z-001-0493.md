@@ -5,7 +5,7 @@ title: Amino Acids to Oxaloacetate and Aspartate
 aliases: [Z-001-0493, oxaloacetate, aspartate, asparagine, b6]
 domain: 001
 tags: [zettel, aspartate, asparagine, oxaloacetate, transaminase, b6]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0046A]

@@ -5,7 +5,7 @@ title: Glutamate-Arginine-Urea Cycle Connection
 aliases: [Z-001-0917, Z-001-0503-deprecated, glutamate, arginine, urea-cycle, nitrogen-disposal]
 domain: 001
 tags: [zettel, glutamate, arginine, urea-cycle, ornithine, citrulline, nags]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 updated: 2026-03-05

@@ -5,7 +5,7 @@ title: HMG-CoA Reductase — Regulation and Inhibition
 aliases: [HMGCR, Statin-Target, Rate-Limiting, Cholesterol]
 domain: 001
 tags: [zettel, hmgcr, hmg-coa-reductase, statin, regulation]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Mevalonate_Pathway_L-001-0509]
 extraction-date: 2026-03-01

@@ -5,7 +5,7 @@ title: Fructose as Glycolytic Intermediate
 aliases: [Z-001-0468, fructose-intermediate, f6p, f16bp]
 domain: 001
 tags: [zettel, fructose, glycolysis, f6p, evolution, metabolism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045D]

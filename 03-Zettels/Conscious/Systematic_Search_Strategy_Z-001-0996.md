@@ -5,7 +5,7 @@ title: Systematic Search Strategy — Database Selection and Search String Const
 aliases: [Z-001-0996]
 domain: 001
 tags: [zettel, systematic-review, search-strategy, pubmed, embase, cochrane, boolean-operators, mesh, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Meta_Analysis_Methodology_L-001-0580]
 status: conscious

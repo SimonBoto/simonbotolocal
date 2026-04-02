@@ -7,7 +7,7 @@ aliases: [Z-001-0017, Cbl_CAP, Lipid_Raft, Alternative_Pathway]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, mechanism, Cbl, CAP, caveolin, alternative]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: 
 confidence: medium
 created: 2026-02-22

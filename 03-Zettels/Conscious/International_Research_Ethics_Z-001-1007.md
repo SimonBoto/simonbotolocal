@@ -5,7 +5,7 @@ title: International Research Ethics — Developing Countries and Collaborative 
 aliases: [Z-001-1007]
 domain: 001
 tags: [zettel, international-research, developing-countries, exploitation, post-trial-access, cioms, benefit-sharing, double-standard, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]
 status: conscious

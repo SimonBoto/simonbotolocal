@@ -4,7 +4,7 @@ type: zettel
 title: Immunosenescence — Premature Immune Aging in Autoimmunity
 domain: 001
 tags: [zettel, immunosenescence, aging, autoimmunity, inflammaging, immune-dysfunction]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]"
 status: conscious

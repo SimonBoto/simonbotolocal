@@ -6,7 +6,7 @@ aliases: [Z-001-1099, Alpha-Keto-Acids]
 domain: 001
 domain-name: Amino Acid Metabolism
 tags: [zettel, alpha-keto, transamination, intermediates]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]
 source: [[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]
 confidence: high

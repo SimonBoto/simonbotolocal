@@ -5,7 +5,7 @@ title: FRAX Adjustments — TBS Falls and Glucocorticoid Dose Modifications
 aliases: [Z-001-0112]
 domain: 001
 tags: [zettel, frax, adjustments, tbs, falls, glucocorticoids, risk-modification, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 

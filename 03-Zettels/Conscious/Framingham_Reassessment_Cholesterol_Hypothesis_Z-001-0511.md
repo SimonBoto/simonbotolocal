@@ -5,7 +5,7 @@ title: Framingham Reassessment — Cholesterol Hypothesis Evolution
 aliases: [Framingham, Cholesterol-Hypothesis, Reassessment]
 domain: 001
 tags: [zettel, framingham, cholesterol, hypothesis, reassessment]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]
 extraction-date: 2026-03-01

@@ -6,7 +6,7 @@ aliases: [Z-001-1135, TP53-MM]
 domain: 001
 domain-name: Hematology Oncology
 tags: [zettel, tp53, multiple-myeloma, del17p, prognosis]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]
 source: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]
 confidence: high

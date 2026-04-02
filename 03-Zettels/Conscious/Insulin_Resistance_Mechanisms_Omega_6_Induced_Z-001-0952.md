@@ -5,7 +5,7 @@ title: Insulin Resistance Mechanisms — Omega-6 Induced
 aliases: [Z-001-0952]
 domain: 001
 tags: [zettel, insulin-resistance, omega-6, inflammation, signaling, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Mechanisms_Metabolic_Disruption_L-001-0523]
 status: conscious

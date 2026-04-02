@@ -6,7 +6,7 @@ aliases: [Z-001-1036, Phase-1-Foundation]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, biochemistry, foundation, metabolism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
 source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
 confidence: high

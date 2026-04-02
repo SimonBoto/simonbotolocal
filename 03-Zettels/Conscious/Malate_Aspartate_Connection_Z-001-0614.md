@@ -5,7 +5,7 @@ title: "Malate-Aspartate Connection: Krebs Cycle Link"
 aliases: [Z-001-0614]
 domain: 001
 tags: [zettel, malate, aspartate, oxaloacetate, krebs-cycle, shuttle, transamination, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]
 extraction-date: 2026-03-05

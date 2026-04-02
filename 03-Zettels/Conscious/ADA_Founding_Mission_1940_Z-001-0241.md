@@ -5,7 +5,7 @@ title: American Diabetes Association — Founding and Mission (1940)
 aliases: [ADA-Founding, Diabetes-Association-1940]
 domain: 001
 tags: [zettel, ada, history, diabetes, 1940, organization]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_ADA_History_L-001-0209]
 extraction-date: 2026-03-01

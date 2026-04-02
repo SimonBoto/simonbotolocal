@@ -5,7 +5,7 @@ title: Pentose Phosphate Pathway Oxidative Phase
 aliases: [Z-001-0457, ppp-oxidative, g6p-dehydrogenase]
 domain: 001
 tags: [zettel, ppp, pentose-phosphate, g6pd, nadph, metabolism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045C]

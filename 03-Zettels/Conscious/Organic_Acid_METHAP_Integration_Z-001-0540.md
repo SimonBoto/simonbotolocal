@@ -5,7 +5,7 @@ title: Organic Acid METHAP Integration
 aliases: [METHAP-Organic-Acid, Biomarkers, Mitochondrial-Screening]
 domain: 001
 tags: [zettel, methap, organic-acid, biomarkers, screening]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]
 extraction-date: 2026-03-01

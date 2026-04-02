@@ -6,7 +6,7 @@ aliases: [Z-001-0063, VitD-Photodegradation]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, photodegradation, sunlight, self-regulation]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]
 confidence: high
 created: 2026-03-01

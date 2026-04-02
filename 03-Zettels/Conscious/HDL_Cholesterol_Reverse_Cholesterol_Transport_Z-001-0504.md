@@ -5,7 +5,7 @@ title: HDL Cholesterol — Reverse Cholesterol Transport
 aliases: [HDL, Reverse-Cholesterol-Transport, RCT, ABCA1]
 domain: 001
 tags: [zettel, hdl, reverse-cholesterol-transport, rct, abca1]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]
 extraction-date: 2026-03-01

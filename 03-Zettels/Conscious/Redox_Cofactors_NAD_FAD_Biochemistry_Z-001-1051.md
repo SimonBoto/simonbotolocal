@@ -6,7 +6,7 @@ aliases: [Z-001-1051, Redox-Cofactors]
 domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, nad, fad, redox, cofactors]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
 source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
 confidence: high

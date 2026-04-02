@@ -5,7 +5,7 @@ title: Vitamin C to Oxalate Conversion
 aliases: [Z-001-0607, ascorbate-oxalate, vitamin-c-oxalate]
 domain: 001
 tags: [zettel, vitamin-c, ascorbate, oxalate, metabolism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[L-001-0060A]
 confidence: high
 created: 2026-03-04

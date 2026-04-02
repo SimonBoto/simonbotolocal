@@ -5,7 +5,7 @@ title: Glucose Metabolism Overview
 aliases: [Z-001-0472, glucose-metabolism, blood-sugar, glycolysis]
 domain: 001
 tags: [zettel, glucose, metabolism, glycolysis, insulin, energy]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045E]

@@ -5,7 +5,7 @@ title: G6PD Deficiency and Evolutionary Trade-offs
 aliases: [Z-101-0461, g6pd-deficiency, malaria-resistance, hemolysis]
 domain: 001
 tags: [zettel, g6pd, hemolysis, malaria, evolution, enzyme-deficiency]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045C]

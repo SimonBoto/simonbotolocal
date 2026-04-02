@@ -6,7 +6,7 @@ aliases: [Z-001-0062, Endogenous-VitD-Production]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, endogenous-production, sunlight, physiology]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]
 confidence: high
 created: 2026-03-01

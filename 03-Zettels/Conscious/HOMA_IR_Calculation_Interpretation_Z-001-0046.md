@@ -5,7 +5,7 @@ title: HOMA-IR Calculation and Clinical Interpretation
 aliases: [Z-001-0046, HOMA-IR, Insulin Resistance Index]
 domain: 001
 tags: [zettel, biomarker, ir-core, status/optimal, calculation-formula, phd-methap]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 biomarker-type: insulin-resistance-index
 formula: (Fasting Glucose × Fasting Insulin) / 405
 target-range: <2.0

@@ -5,7 +5,7 @@ title: Sydney Diet-Heart Study Reanalysis — Omega-6 and Mortality
 aliases: [Z-001-0960]
 domain: 001
 tags: [zettel, sydney-diet-heart, ramsden, omega-6, mortality, clinical-trial, paradox, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Epidemiological_Evidence_L-001-0525]
 status: conscious

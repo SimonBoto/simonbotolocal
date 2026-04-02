@@ -6,7 +6,7 @@ aliases: [Z-001-0075, VitD-High-Dose-Monitoring]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, monitoring, safety-protocol, clinical-practice]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]
 confidence: high
 created: 2026-03-01

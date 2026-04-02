@@ -5,7 +5,7 @@ title: B12 METHAP Protocol Integration
 aliases: [B12-METHAP, Protocol, Integration, Synergy]
 domain: 001
 tags: [zettel, b12, methap, protocol, integration]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]
 extraction-date: 2026-03-01

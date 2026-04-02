@@ -4,7 +4,7 @@ type: zettel
 title: Deep Learning and Neural Networks — Metabolomics Applications
 domain: 001
 tags: [zettel, deep-learning, neural-networks, metabolomics, emerging-methods]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Machine_Learning_Metabolomics_L-001-0618]"
 status: conscious

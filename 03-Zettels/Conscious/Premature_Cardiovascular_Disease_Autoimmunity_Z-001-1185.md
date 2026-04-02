@@ -4,7 +4,7 @@ type: zettel
 title: Premature Cardiovascular Disease in Autoimmunity
 domain: 001
 tags: [zettel, cardiovascular-disease, autoimmunity, sle, inflammation, accelerated-aging]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]"
 status: conscious

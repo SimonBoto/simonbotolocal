@@ -4,7 +4,7 @@ type: zettel
 title: SVM Kernel Methods — Metabolomics Classification
 domain: 001
 tags: [zettel, svm, support-vector-machines, kernel-methods, classification, metabolomics]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Machine_Learning_Metabolomics_L-001-0618]"
 status: conscious

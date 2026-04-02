@@ -5,7 +5,7 @@ title: Endotoxin LPS Translocation — Gut Barrier Disruption by High Fat Diet
 aliases: [Z-001-0951]
 domain: 001
 tags: [zettel, endotoxin, LPS, gut-barrier, leaky-gut, inflammation, TLR4, metabolic-endotoxemia, seed-oils, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---

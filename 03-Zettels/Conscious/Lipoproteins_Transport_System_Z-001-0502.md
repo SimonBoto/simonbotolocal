@@ -5,7 +5,7 @@ title: Lipoproteins — The Transport System
 aliases: [Lipoproteins, Chylomicrons, VLDL, LDL, HDL, Transport]
 domain: 001
 tags: [zettel, lipoproteins, transport, chylomicrons, vldl, ldl, hdl]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]
 extraction-date: 2026-03-01

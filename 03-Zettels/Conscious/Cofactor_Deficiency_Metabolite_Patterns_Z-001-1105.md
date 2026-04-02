@@ -6,7 +6,7 @@ aliases: [Z-001-1105, Cofactor-Patterns]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, cofactor, deficiency, metabolites, biomarkers]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]
 source: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]
 confidence: high

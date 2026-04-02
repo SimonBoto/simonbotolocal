@@ -6,7 +6,7 @@ aliases: [Z-001-1125, VitC-Pro-Oxidant]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, vitamin-c, pro-oxidant, cancer, h2o2]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]
 source: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]
 confidence: high

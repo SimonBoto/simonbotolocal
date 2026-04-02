@@ -5,7 +5,7 @@ title: Common Ketoses and Their Roles
 aliases: [Z-001-0475, ketoses, fructose, ribulose, xylulose, sorbose]
 domain: 001
 tags: [zettel, ketoses, fructose, ribulose, xylulose, sorbose]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045E]

@@ -5,7 +5,7 @@ title: Oleic Acid — Biochemistry and Metabolic Properties
 aliases: [Oleic-Acid, Omega-9, Monounsaturated-Fat]
 domain: 001
 tags: [zettel, oleic-acid, omega-9, biochemistry, stability]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]
 extraction-date: 2026-03-01

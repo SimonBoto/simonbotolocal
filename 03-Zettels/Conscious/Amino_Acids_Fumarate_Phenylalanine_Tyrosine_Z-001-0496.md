@@ -5,7 +5,7 @@ title: "Amino Acids to Fumarate: Phenylalanine and Tyrosine"
 aliases: [Z-001-0496, fumarate, phenylalanine, tyrosine, pku, folate, iron]
 domain: 001
 tags: [zettel, fumarate, phenylalanine, tyrosine, pku, phenylalanine-hydroxylase]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0046A]

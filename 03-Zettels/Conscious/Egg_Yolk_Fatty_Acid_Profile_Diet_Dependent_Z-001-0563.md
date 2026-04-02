@@ -6,7 +6,7 @@ aliases: [Z-001-0563, Egg Quality, Hen Diet, Omega-3 Eggs, Pasture Eggs]
 domain: 001
 domain-name: Nutrition
 tags: [zettel, eggs, omega-6, omega-3, fatty-acids, hen-diet, pasture-raised, omega-3-enriched]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]"
 confidence: high
 created: 2026-03-03

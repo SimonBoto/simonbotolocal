@@ -5,7 +5,7 @@ title: Metabolomics-Guided Personalization
 aliases: [Metabolomics, Organic-Acids, Personalization, Biomarkers]
 domain: 001
 tags: [zettel, metabolomics, organic-acids, personalization, biomarkers]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]
 extraction-date: 2026-03-01

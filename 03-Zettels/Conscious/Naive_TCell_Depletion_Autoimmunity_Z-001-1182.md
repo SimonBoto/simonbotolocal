@@ -4,7 +4,7 @@ type: zettel
 title: Naive T-Cell Depletion in Autoimmunity
 domain: 001
 tags: [zettel, naive-t-cells, autoimmunity, immunosenescence, t-cell-repertoire]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]"
 status: conscious

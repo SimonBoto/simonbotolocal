@@ -5,7 +5,7 @@ title: FRAX Limitations — Clinical Gaps and Underestimation Risks
 aliases: [Z-001-0111]
 domain: 001
 tags: [zettel, frax, limitations, risk-assessment, underestimation, clinical-judgment, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 

@@ -6,7 +6,7 @@ aliases: [Z-001-1117, Warburg-Effect]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, warburg, glycolysis, cancer, metabolism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]
 source: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]
 confidence: high

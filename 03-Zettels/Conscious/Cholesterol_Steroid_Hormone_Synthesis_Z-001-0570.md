@@ -6,7 +6,7 @@ aliases: [Z-001-0570, Steroidogenesis, Steroid Hormones, Cholesterol Conversion]
 domain: 001
 domain-name: Hormone Metabolism
 tags: [zettel, steroid-hormones, cholesterol, cortisol, testosterone, estrogen, aldosterone, steroidogenesis]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]"
 confidence: high
 created: 2026-03-03

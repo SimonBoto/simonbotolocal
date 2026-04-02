@@ -4,7 +4,7 @@ type: zettel
 title: Clinical Team Education — 4-Arm Methodology
 domain: 001
 tags: [zettel, education, clinical-team, methodology, metabolomics]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Self_Education_Clinical_Team_L-001-0620]"
 status: conscious

@@ -6,7 +6,7 @@ aliases: [Z-001-1071, Objection-Scripts]
 domain: 001
 domain-name: Clinical Communication
 tags: [zettel, objections, scripts, communication]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Patient_Communication_Scripts_L-001-0595]
 source: [[LitNote_Patient_Communication_Scripts_L-001-0595]
 confidence: high

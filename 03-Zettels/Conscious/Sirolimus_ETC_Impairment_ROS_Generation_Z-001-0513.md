@@ -5,7 +5,7 @@ title: Sirolimus Impairs ETC Function and Increases ROS Generation
 aliases: [Z-001-0513, Sirolimus ROS, ETC Dysfunction Rapamycin]
 domain: 001
 tags: [zettel, sirolimus, rapamycin, etc, electron-transport-chain, ros, oxidative-stress, mitochondrial-damage]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source: "[[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]"
 extraction-date: 2026-03-02

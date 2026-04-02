@@ -7,7 +7,7 @@ aliases: [Z-001-0004, INSR_Mutations, Donohue_Syndrome]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, insulin, receptor, mutation, disease, leprechaunism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: 
 confidence: high
 created: 2026-02-22

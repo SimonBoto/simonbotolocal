@@ -5,7 +5,7 @@ title: Sequential Therapy — Anabolic to Antiresorptive Strategy
 aliases: [Z-001-0108]
 domain: 001
 tags: [zettel, sequential-therapy, anabolic, antiresorptive, osteoporosis, treatment-strategy, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 

@@ -5,7 +5,7 @@ title: BHB HDAC Inhibition and Epigenetic Effects
 aliases: [Z-001-0485, bhb, hdac, epigenetics, histone-acetylation]
 domain: 001
 tags: [zettel, bhb, hdac, epigenetics, histone, gene-expression, signaling]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045G]

@@ -6,7 +6,7 @@ aliases: [Z-001-1050, OXPHOS]
 domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, oxphos, electron-transport, atp-synthesis]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
 source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
 confidence: high

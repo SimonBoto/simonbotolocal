@@ -6,7 +6,7 @@ aliases: [Z-001-1046, Nutrition-Terms]
 domain: 001
 domain-name: Nutrition
 tags: [zettel, nutrition, fatty-acids, definitions]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 confidence: high

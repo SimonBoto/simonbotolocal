@@ -5,7 +5,7 @@ title: MAO Enzymes MAO-A and MAO-B — Functions, Inhibitors, and Clinical Signi
 aliases: [Z-001-1008]
 domain: 001
 tags: [zettel, mao, monoamine-oxidase, mao-a, mao-b, dopamine, serotonin, inhibitor, parkinson, depression, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_MAO_DAO_Enzymes_L-001-0582]
 status: conscious

@@ -6,7 +6,7 @@ aliases: [Z-001-1119, Tumor-Acidification]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, tumor, microenvironment, lactate, acidification]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]
 source: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]
 confidence: high

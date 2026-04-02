@@ -5,7 +5,7 @@ title: Amino Acid Sources of Propionyl-CoA
 aliases: [Amino-Acids, Propionyl-CoA, Catabolism, BCAAs]
 domain: 001
 tags: [zettel, amino-acids, propionyl-coa, catabolism, isoleucine, methionine, valine]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]
 extraction-date: 2026-03-01

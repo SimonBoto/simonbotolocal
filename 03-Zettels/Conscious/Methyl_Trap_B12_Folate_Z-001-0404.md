@@ -5,7 +5,7 @@ title: The Methyl Trap — B12-Folate Interdependence
 aliases: [Methyl-Trap, Functional-Folate-Deficiency, B12-Folate-Link]
 domain: 001
 tags: [zettel, methyl-trap, b12, folate, interdependence]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
 extraction-date: 2026-03-01

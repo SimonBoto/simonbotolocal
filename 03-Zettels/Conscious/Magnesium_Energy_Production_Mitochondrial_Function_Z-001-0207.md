@@ -5,7 +5,7 @@ title: Magnesium in Energy Production — Mitochondrial Function and ATP Synthes
 aliases: [Mg-Energy, Magnesium-Mitochondria, ATP-Synthesis]
 domain: 001
 tags: [zettel, magnesium, mitochondria, ATP, energy, metabolism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Magnesium_Biochemistry_L-001-0201a]
 extraction-date: 2026-03-01

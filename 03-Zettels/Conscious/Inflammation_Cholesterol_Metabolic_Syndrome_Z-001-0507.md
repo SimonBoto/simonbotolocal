@@ -5,7 +5,7 @@ title: Inflammation, Cholesterol, and Metabolic Syndrome
 aliases: [Inflammation, Cholesterol, Metabolic-Syndrome, Insulin-Resistance]
 domain: 001
 tags: [zettel, inflammation, cholesterol, metabolic-syndrome, insulin-resistance]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]
 extraction-date: 2026-03-01

@@ -5,7 +5,7 @@ title: Clinical Assessment of B12 Status — MMA
 aliases: [B12-Assessment, MMA, Methylmalonic-Acid, Biomarker]
 domain: 001
 tags: [zettel, b12, assessment, mma, biomarker, homocysteine]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]
 extraction-date: 2026-03-01

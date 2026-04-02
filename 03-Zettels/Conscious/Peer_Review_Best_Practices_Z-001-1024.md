@@ -5,7 +5,7 @@ title: Peer Review Best Practices — Structure, Tone, and Decision Framework
 aliases: [Z-001-1024]
 domain: 001
 tags: [zettel, peer-review, manuscript-review, critical-appraisal, scientific-integrity, reviewer-responsibilities, recommendation, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Manuscript_Review_Critical_Concerns_L-001-0586]
 status: conscious

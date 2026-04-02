@@ -7,7 +7,7 @@ aliases: [Z-001-0008, IRS_Serine_Phosphorylation_IR, SerinePhos_IR]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, claim, insulin-resistance, mechanism, serine, inflammation]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: 
 confidence: high
 created: 2026-02-22

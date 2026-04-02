@@ -7,7 +7,7 @@ aliases: [Z-001-0002, Insulin, Insulin_Peptide]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, insulin, hormone, peptide, structure]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: 
 confidence: high
 created: 2026-02-22

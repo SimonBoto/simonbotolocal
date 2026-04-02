@@ -6,7 +6,7 @@ aliases: [Z-001-0564, Omega6 Omega3 Balance, Inflammatory Eicosanoids, Fatty Aci
 domain: 001
 domain-name: Nutrition
 tags: [zettel, claim, omega-6, omega-3, inflammation, eicosanoids, linoleic-acid, arachidonic-acid]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]"
 confidence: high
 created: 2026-03-03

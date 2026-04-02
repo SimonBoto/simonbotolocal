@@ -5,7 +5,7 @@ title: Glycolysis Steps and Regulation
 aliases: [Z-001-0467, glycolysis-steps, pfk-1, hexokinase]
 domain: 001
 tags: [zettel, glycolysis, regulation, pfk-1, hexokinase, atp]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045D]

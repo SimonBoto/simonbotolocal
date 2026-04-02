@@ -5,7 +5,7 @@ title: Instrument Drift and QC Monitoring Requirements in Mass Spectrometry
 aliases: [Z-001-0941]
 domain: 001
 tags: [zettel, instrument-drift, qc-monitoring, mass-spectrometry, metabolomics, quality-control, internal-standards, sensitivity, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---

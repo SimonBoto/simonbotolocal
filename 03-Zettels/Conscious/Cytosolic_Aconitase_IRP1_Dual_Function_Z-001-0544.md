@@ -5,7 +5,7 @@ title: Cytosolic Aconitase — IRP1 Dual Function
 aliases: [IRP1, Iron-Regulatory-Protein, ACO1, Dual-Function]
 domain: 001
 tags: [zettel, irp1, iron-regulatory-protein, aco1, dual-function]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]
 extraction-date: 2026-03-01

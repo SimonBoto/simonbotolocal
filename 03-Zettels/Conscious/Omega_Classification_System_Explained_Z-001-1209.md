@@ -4,7 +4,7 @@ type: zettel
 title: Omega Classification System Explained
 domain: 001
 tags: [zettel, omega-3, omega-6, omega-9, essential-fatty-acids, inflammation]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]"
 status: conscious

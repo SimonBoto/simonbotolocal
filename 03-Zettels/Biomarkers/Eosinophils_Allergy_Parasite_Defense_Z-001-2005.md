@@ -6,7 +6,7 @@ title: Eosinophils — Allergy & Parasite Defense
 aliases: [Z-001-2005, Eosinophils, Allergy, Parasites, Hypersensitivity]
 domain: 001
 tags: [zettel, biomarker, eosinophils, allergy, parasites, hypersensitivity]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

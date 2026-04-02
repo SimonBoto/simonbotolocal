@@ -5,7 +5,7 @@ title: Endoscopic Ultrasound (EUS) — Indications and Clinical Applications
 aliases: [Z-001-1018]
 domain: 001
 tags: [zettel, eus, endoscopic-ultrasound, pancreatic-mass, staging, fiducial-placement, cytopathology, gi-endoscopy, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious

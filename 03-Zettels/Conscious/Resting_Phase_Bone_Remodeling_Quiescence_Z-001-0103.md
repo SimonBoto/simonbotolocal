@@ -5,7 +5,7 @@ title: Resting Phase — Bone Remodeling Quiescence and Reactivation
 aliases: [Z-001-0103]
 domain: 001
 tags: [zettel, bone-remodeling, resting, quiescence, bone-lining-cells, sclerostin, mechanotransduction, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 

@@ -6,7 +6,7 @@ aliases: [Z-001-1145, Urine-OA-Biomarker]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, urine, organic-acids, oat, biomarker, insulin-resistance]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
 source: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
 confidence: high

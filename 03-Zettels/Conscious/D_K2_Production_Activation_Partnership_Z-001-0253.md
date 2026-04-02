@@ -5,7 +5,7 @@ title: D-K2 Production-Activation Partnership
 aliases: [D-K2-Synergy, Production-Activation, Vitamin-Partnership]
 domain: 001
 tags: [zettel, vitamin-d, vitamin-k2, synergy, mechanisms, carboxylation]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]
 extraction-date: 2026-03-01

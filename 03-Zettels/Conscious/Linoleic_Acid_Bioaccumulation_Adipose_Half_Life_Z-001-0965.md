@@ -5,7 +5,7 @@ title: Linoleic Acid Bioaccumulation — Adipose Tissue Half-Life 600-680 Days
 aliases: [Z-001-0965]
 domain: 001
 tags: [zettel, linoleic-acid, bioaccumulation, adipose-tissue, half-life, omega-6, body-burden, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Seed_Oils_Environmental_Toxins_L-001-0526]
 status: conscious

@@ -5,7 +5,7 @@ title: Histone Methylation — Chromatin Structure
 aliases: [Histone-Methylation, Chromatin, HMT, Epigenetic-Marks]
 domain: 001
 tags: [zettel, histone, methylation, chromatin, gene-expression]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]
 extraction-date: 2026-03-01

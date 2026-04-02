@@ -5,7 +5,7 @@ title: Advanced Lipid Markers — Beyond LDL and HDL
 aliases: [Advanced-Markers, ApoB, LDL-Particle, Lp(a), Remnant-Cholesterol]
 domain: 001
 tags: [zettel, advanced-markers, apob, ldl-particle, lpa, remnant]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]
 extraction-date: 2026-03-01

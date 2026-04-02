@@ -5,7 +5,7 @@ title: Tyrosine Kinase Inhibitors — FGFR, VEGFR, PDGFR Blockade in Fibrosis
 aliases: [Z-001-1010]
 domain: 001
 tags: [zettel, tyrosine-kinase-inhibitor, tki, fgfr, vegfr, pdgfr, nintedanib, antifibrotic, ipf, cancer, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Nintedanib_Ofev_TKI_L-001-0583]
 status: conscious

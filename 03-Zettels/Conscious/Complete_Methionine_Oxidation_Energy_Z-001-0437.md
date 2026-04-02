@@ -5,7 +5,7 @@ title: Complete Methionine Oxidation — Energy Production
 aliases: [Methionine-Oxidation, Energy, Propionyl-CoA, Pyruvate]
 domain: 001
 tags: [zettel, methionine, oxidation, energy, catabolism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Methionine_Catabolism_L-001-0406]
 extraction-date: 2026-03-01

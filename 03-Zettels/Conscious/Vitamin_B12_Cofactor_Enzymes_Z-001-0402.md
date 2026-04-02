@@ -5,7 +5,7 @@ title: Vitamin B12 Cofactor Enzymes
 aliases: [B12-Enzymes, Methionine-Synthase, Methylmalonyl-CoA-Mutase]
 domain: 001
 tags: [zettel, vitamin-b12, enzymes, cofactors, methionine-synthase]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]
 extraction-date: 2026-03-01

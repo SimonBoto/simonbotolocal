@@ -5,7 +5,7 @@ title: Oleic Acid Metabolic Benefits
 aliases: [Metabolic-Benefits, Lipid-Profile, Insulin-Sensitivity]
 domain: 001
 tags: [zettel, oleic-acid, metabolic-benefits, lipids, insulin]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Oleic_Acid_Clinical_L-001-0506]
 extraction-date: 2026-03-01

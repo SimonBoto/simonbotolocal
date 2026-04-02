@@ -5,7 +5,7 @@ title: Iron Metabolism and Aconitase Function
 aliases: [Iron-Metabolism, Fe-S-Assembly, Iron-Deficiency, Iron-Overload]
 domain: 001
 tags: [zettel, iron-metabolism, fe-s-assembly, iron-deficiency, aconitase]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]
 extraction-date: 2026-03-01

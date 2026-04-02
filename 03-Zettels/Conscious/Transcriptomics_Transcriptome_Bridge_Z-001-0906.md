@@ -6,7 +6,7 @@ aliases: [Z-001-0906, Z-001-0006-deprecated, Transcriptomics, mRNA, Transcriptom
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, transcriptomics, mRNA, gene-expression, RNA, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
 confidence: high
 created: 2026-02-23

@@ -4,7 +4,7 @@ type: zettel
 title: MTHFR — Methylation Support Protocol
 domain: 001
 tags: [zettel, mthfr, methylation, folate, b12, genetic-polymorphism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]"
 status: conscious

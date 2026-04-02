@@ -7,7 +7,7 @@ aliases: [Z-001-0015, Mitochondrial_Dysfunction, Mito_IR]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, mechanism, mitochondria, dysfunction, oxidative, IR]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: 
 confidence: medium
 created: 2026-02-22

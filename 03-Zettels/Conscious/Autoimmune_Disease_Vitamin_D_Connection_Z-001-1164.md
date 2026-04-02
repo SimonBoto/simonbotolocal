@@ -4,7 +4,7 @@ type: zettel
 title: Autoimmune Disease — Vitamin D Connection
 domain: 001
 tags: [zettel, autoimmunity, vitamin-d, vdr, clinical-evidence, epidemiology]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_VDR_Knockout_Immune_Function_L-001-0621]"
 status: conscious

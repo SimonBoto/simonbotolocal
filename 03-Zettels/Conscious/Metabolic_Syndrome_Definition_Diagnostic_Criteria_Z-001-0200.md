@@ -5,7 +5,7 @@ title: Metabolic Syndrome — Definition and Diagnostic Criteria
 aliases: [MetS-Definition, Metabolic-Syndrome-Criteria]
 domain: 001
 tags: [zettel, metabolic-syndrome, definition, diagnosis, clinical]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]
 extraction-date: 2026-03-01

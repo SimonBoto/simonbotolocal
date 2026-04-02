@@ -4,7 +4,7 @@ type: zettel
 title: CD28-Negative T Cells — Exhausted vs. Senescent
 domain: 001
 tags: [zettel, cd28, t-cells, exhaustion, senescence, autoimmunity]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626]"
 status: conscious

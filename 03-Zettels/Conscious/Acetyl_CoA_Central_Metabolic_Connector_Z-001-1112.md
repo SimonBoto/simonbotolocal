@@ -6,7 +6,7 @@ aliases: [Z-001-1112, Acetyl-CoA]
 domain: 001
 domain-name: Metabolism
 tags: [zettel, acetyl-coa, connector, metabolism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]
 source: [[LitNote_Metabolic_Pathway_Integration_L-001-0606]
 confidence: high

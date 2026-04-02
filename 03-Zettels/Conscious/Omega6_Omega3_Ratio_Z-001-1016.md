@@ -5,7 +5,7 @@ title: Omega-6 to Omega-3 Ratio — Fatty Acid Balance for Inflammation Control
 aliases: [Z-001-1016]
 domain: 001
 tags: [zettel, omega-3, omega-6, fatty-acid-ratio, inflammation, epa, dha, linoleic-acid, arachidonic-acid, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]
 status: conscious

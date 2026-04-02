@@ -6,7 +6,7 @@ aliases: [Z-001-0567, HMGCR, Statin Target, Cholesterol Regulation]
 domain: 001
 domain-name: Lipid Metabolism
 tags: [zettel, hmg-coa-reductase, statins, regulation, cholesterol, srebp, ampk]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518]"
 confidence: high
 created: 2026-03-03

@@ -5,7 +5,7 @@ title: Cholesterol and Cellular Aging
 aliases: [Cholesterol, Cellular-Aging, Membrane, Lipid-Rafts, SREBP]
 domain: 001
 tags: [zettel, cholesterol, aging, membrane, lipid-rafts]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]
 extraction-date: 2026-03-01

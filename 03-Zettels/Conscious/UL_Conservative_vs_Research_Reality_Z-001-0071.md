@@ -6,7 +6,7 @@ aliases: [Z-001-0071, UL-Conservative-vs-Research]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, upper-limits, IOM, safety, pediatrics]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]
 confidence: high
 created: 2026-03-01

@@ -5,7 +5,7 @@ title: "Aspartate: Simple Structure, Central Role"
 aliases: [Z-001-0918, Z-001-0504-deprecated, aspartate, simple, evolution, urea-cycle, krebs]
 domain: 001
 tags: [zettel, aspartate, simple-structure, evolution, urea-cycle, krebs, oxaloacetate]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 updated: 2026-03-05

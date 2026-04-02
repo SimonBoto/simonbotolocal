@@ -5,7 +5,7 @@ title: Adenosylcobalamin — The Mitochondrial B12 Form
 aliases: [Adenosylcobalamin, Mitochondrial-B12, Co-C-Bond]
 domain: 001
 tags: [zettel, adenosylcobalamin, mitochondrial, b12, cobalamin]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Mitochondrial_B12_Functions_L-001-0407]
 extraction-date: 2026-03-01

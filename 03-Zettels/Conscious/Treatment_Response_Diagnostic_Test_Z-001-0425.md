@@ -5,7 +5,7 @@ title: Treatment Response — Diagnostic Test
 aliases: [Treatment-Response, Reticulocytosis, Diagnostic-Test]
 domain: 001
 tags: [zettel, treatment, response, b12, diagnosis]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]
 extraction-date: 2026-03-01

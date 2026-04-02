@@ -5,7 +5,7 @@ title: Vitamin K2 and Vascular Calcification — MGP Mechanism
 aliases: [VitK2-Vascular, MGP, Matrix-Gla-Protein, Calcification]
 domain: 001
 tags: [zettel, vitamin-k2, vascular-calcification, mgp, cardiovascular]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]
 extraction-date: 2026-03-01

@@ -5,7 +5,7 @@ title: Magnesium and Insulin Resistance — Mechanistic Connection
 aliases: [Mg-Insulin-Resistance, Magnesium-IR-Mechanisms]
 domain: 001
 tags: [zettel, magnesium, insulin-resistance, mechanisms, GLUT4, signaling]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]
 extraction-date: 2026-03-01

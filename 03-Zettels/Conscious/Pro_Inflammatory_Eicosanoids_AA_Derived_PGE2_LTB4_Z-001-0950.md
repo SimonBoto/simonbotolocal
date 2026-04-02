@@ -5,7 +5,7 @@ title: Pro-Inflammatory Eicosanoids — Arachidonic Acid Derived PGE2 and LTB4
 aliases: [Z-001-0950]
 domain: 001
 tags: [zettel, eicosanoids, prostaglandins, leukotrienes, arachidonic-acid, PGE2, LTB4, inflammation, COX, LOX, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---

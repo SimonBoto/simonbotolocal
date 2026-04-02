@@ -5,7 +5,7 @@ title: Glutamine-Glutamate-Ammonia Cycle
 aliases: [Z-001-0916, Z-001-0502-deprecated, glutamine, glutamate, ammonia, cycle, nitrogen-transport]
 domain: 001
 tags: [zettel, glutamine, glutamate, ammonia, nitrogen-transport, detoxification]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 updated: 2026-03-05

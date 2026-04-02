@@ -6,7 +6,7 @@ aliases: [Z-001-1040, Teaching-Styles]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, pedagogy, teaching, training-style]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
 source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]
 confidence: high

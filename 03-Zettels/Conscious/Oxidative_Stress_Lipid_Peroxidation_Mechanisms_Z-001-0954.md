@@ -5,7 +5,7 @@ title: Oxidative Stress — Lipid Peroxidation Mechanisms
 aliases: [Z-001-0954]
 domain: 001
 tags: [zettel, oxidative-stress, lipid-peroxidation, 4-hne, mda, aldehydes, omega-6, ros, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Mechanisms_Metabolic_Disruption_L-001-0523]
 status: conscious

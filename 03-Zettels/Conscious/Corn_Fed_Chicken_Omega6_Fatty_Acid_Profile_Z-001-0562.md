@@ -6,7 +6,7 @@ aliases: [Z-001-0562, Poultry Fatty Acids, Grain-Fed Chicken, Linoleic Acid Chic
 domain: 001
 domain-name: Nutrition
 tags: [zettel, omega-6, poultry, chicken, fatty-acids, feed-quality, linoleic-acid, meat-quality]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]"
 confidence: high
 created: 2026-03-03

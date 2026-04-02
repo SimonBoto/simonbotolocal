@@ -6,7 +6,7 @@ aliases: [Z-001-0054, VitD-Fortification-1950s]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, history, fortification, toxicity-myth]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]
 confidence: high
 created: 2026-03-01

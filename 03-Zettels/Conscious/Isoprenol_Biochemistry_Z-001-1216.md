@@ -4,7 +4,7 @@ type: zettel
 title: Isoprenol Biochemistry — Structure and Metabolic Context
 domain: 001
 tags: [zettel, isoprenol, biochemistry, ketone-bodies, structure, seyfried]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Mitochondrial_Structure_Biology_L-001-0633]"
 status: conscious

@@ -4,7 +4,7 @@ type: zettel
 title: Metabolomics Preprocessing and Quality Control
 domain: 001
 tags: [zettel, metabolomics, preprocessing, quality-control, data-cleaning, methap]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Metabolomics_Data_Processing_L-001-0619]"
 status: conscious

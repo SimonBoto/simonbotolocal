@@ -5,7 +5,7 @@ title: Sample Size Strategies for PhD Metabolomics Studies
 aliases: [Z-001-0930, Z-001-0523-deprecated, PhD Sample Size, Feasible Power, Strategic Design]
 domain: 001
 tags: [zettel, phd, sample-size, study-design, targeted-metabolomics, validation, pilot-study]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source: "[[LitNote_Power_Analysis_Metabolomics_L-001-0514]"
 extraction-date: 2026-03-02

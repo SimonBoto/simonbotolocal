@@ -5,7 +5,7 @@ title: Cross-Validation Strategies for Omics Prediction Models
 aliases: [Z-001-0938]
 domain: 001
 tags: [zettel, cross-validation, cv, opls-da, metabolomics, prediction, model-validation, q2-score, external-validation, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---

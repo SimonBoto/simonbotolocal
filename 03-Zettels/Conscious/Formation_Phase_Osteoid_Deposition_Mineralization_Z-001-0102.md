@@ -5,7 +5,7 @@ title: Formation Phase — Osteoid Deposition and Mineralization Timeline
 aliases: [Z-001-0102]
 domain: 001
 tags: [zettel, bone-remodeling, osteoblasts, formation, osteoid, mineralization, collagen, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 

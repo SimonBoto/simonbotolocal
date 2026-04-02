@@ -5,7 +5,7 @@ title: Omega-6 Cardiovascular Controversy — Conflicting Evidence Synthesis
 aliases: [Z-001-0962]
 domain: 001
 tags: [zettel, omega-6, cardiovascular, controversy, evidence-synthesis, rcts, observational, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Epidemiological_Evidence_L-001-0525]
 status: conscious

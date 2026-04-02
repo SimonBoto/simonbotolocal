@@ -5,7 +5,7 @@ title: Homocysteine Ranges and Cardiovascular Risk
 aliases: [Homocysteine, Ranges, Cardiovascular, Risk]
 domain: 001
 tags: [zettel, homocysteine, ranges, cardiovascular, risk]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_B12_Clinical_Assessment_L-001-0408]
 extraction-date: 2026-03-01

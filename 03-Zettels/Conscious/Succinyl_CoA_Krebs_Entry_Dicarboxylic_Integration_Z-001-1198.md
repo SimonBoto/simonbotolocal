@@ -4,7 +4,7 @@ type: zettel
 title: Succinyl-CoA Entry into Krebs Cycle — Dicarboxylic Acid Integration
 domain: 001
 tags: [zettel, succinyl-coa, krebs-cycle, dicarboxylic-acids, adipate, metabolism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629]"
 status: conscious

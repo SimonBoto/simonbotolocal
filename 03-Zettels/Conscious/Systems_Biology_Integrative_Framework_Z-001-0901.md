@@ -6,7 +6,7 @@ aliases: [Z-001-0901, Z-001-0001-deprecated, Systems_Biology_Integrative]
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, systems-biology, metabolomics, integration, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
 confidence: high
 created: 2026-02-23

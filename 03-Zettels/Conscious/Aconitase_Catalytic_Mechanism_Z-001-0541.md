@@ -5,7 +5,7 @@ title: Aconitase Catalytic Mechanism
 aliases: [Aconitase, Krebs-Cycle, Citrate, Isocitrate]
 domain: 001
 tags: [zettel, aconitase, krebs-cycle, citrate, isocitrate, mechanism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]
 extraction-date: 2026-03-01

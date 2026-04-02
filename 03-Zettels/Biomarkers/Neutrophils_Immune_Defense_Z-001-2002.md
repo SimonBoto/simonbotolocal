@@ -5,7 +5,7 @@ title: Neutrophils — Immune Defense, Phagocytic Warriors
 aliases: [Z-001-2002, Neutrophils, PMN, Polymorphonuclear, Phagocytes]
 domain: 001
 tags: [zettel, biomarker, neutrophils, pmn, phagocytes, bacterial-defense]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

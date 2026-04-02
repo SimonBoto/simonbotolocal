@@ -6,7 +6,7 @@ aliases: [Z-001-1096, Therapeutic-Ketosis]
 domain: 001
 domain-name: Ketogenesis
 tags: [zettel, ketogenic-diet, epilepsy, neurodegeneration, therapy]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]
 source: [[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]
 confidence: high

@@ -4,7 +4,7 @@ type: zettel
 title: ROS-Mediated Telomere Damage Pathways
 domain: 001
 tags: [zettel, ros, telomeres, oxidative-damage, 8-oxoguanine, dna-repair]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]"
 status: conscious

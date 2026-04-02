@@ -5,7 +5,7 @@ title: MTHFR and Multiple Myeloma — No Correlation
 aliases: [MTHFR-MM, No-Correlation, Genetics]
 domain: 001
 tags: [zettel, mthfr, multiple-myeloma, genetics, correlation]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_B12_MM_Mimicry_L-001-0404]
 extraction-date: 2026-03-01

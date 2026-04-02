@@ -4,7 +4,7 @@ type: zettel
 title: Vitamin D and K2 — Synergistic Mechanism
 domain: 001
 tags: [zettel, vitamin-d, vitamin-k2, synergy, vkdp, calcium, metabolism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_VitD_K2_Synergy_MetS_L-001-0639]"
 status: conscious

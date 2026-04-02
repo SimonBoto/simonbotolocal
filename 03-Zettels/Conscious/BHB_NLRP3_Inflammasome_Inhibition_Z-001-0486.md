@@ -5,7 +5,7 @@ title: BHB NLRP3 Inflammasome Inhibition
 aliases: [Z-001-0486, bhb, nlrp3, inflammasome, inflammation, anti-inflammatory]
 domain: 001
 tags: [zettel, bhb, nlrp3, inflammasome, inflammation, il-1b]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045G]

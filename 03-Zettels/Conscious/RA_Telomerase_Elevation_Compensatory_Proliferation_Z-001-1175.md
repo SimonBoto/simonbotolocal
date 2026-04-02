@@ -4,7 +4,7 @@ type: zettel
 title: RA Telomerase Elevation and Compensatory Proliferation
 domain: 001
 tags: [zettel, ra, rheumatoid-arthritis, telomerase, proliferation, synovitis]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]"
 status: conscious

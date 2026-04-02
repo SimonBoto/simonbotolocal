@@ -5,7 +5,7 @@ title: Magnesium Dosing — RDA vs. Therapeutic Ranges for Metabolic Syndrome
 aliases: [Mg-Dosing, Magnesium-RDA, Mg-Therapeutic-Dose]
 domain: 001
 tags: [zettel, magnesium, dosing, RDA, therapeutic, metabolic-syndrome]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Magnesium_Supplementation_L-001-0201d]
 extraction-date: 2026-03-01

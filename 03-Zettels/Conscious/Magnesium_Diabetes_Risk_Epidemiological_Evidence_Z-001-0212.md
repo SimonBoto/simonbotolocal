@@ -5,7 +5,7 @@ title: Magnesium and Diabetes Risk — Epidemiological Evidence
 aliases: [Mg-Diabetes-Epidemiology, Magnesium-Diabetes-Risk]
 domain: 001
 tags: [zettel, magnesium, diabetes, epidemiology, cohort-studies, meta-analysis]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]
 extraction-date: 2026-03-01

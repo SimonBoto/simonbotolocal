@@ -5,7 +5,7 @@ title: Glutathione — The Master Antioxidant
 aliases: [Glutathione, GSH, Antioxidant, Detoxification]
 domain: 001
 tags: [zettel, glutathione, antioxidant, detoxification, redox]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Methionine_Catabolism_L-001-0406]
 extraction-date: 2026-03-01

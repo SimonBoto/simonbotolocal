@@ -4,7 +4,7 @@ type: zettel
 title: Fatty Acid Nomenclature and Numbering Systems
 domain: 001
 tags: [zettel, fatty-acids, nomenclature, delta, omega, lipid-chemistry]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Fatty_Acid_Structure_Classification_L-001-0632]"
 status: conscious

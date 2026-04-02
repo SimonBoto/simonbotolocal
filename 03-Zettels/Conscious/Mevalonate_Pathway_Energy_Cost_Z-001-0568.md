@@ -6,7 +6,7 @@ aliases: [Z-001-0568, ATP Cost, NADPH Requirement, Metabolic Cost]
 domain: 001
 domain-name: Lipid Metabolism
 tags: [zettel, energy-metabolism, atp, nadph, mevalonate-pathway, biochemistry, metabolic-cost]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518]"
 confidence: high
 created: 2026-03-03

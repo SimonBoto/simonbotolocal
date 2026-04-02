@@ -6,7 +6,7 @@ aliases: [Z-001-0066, Cholecalciferol-Calcitriol-Safety]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, cholecalciferol, calcitriol, safety]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]
 confidence: high
 created: 2026-03-01

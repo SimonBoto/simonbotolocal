@@ -6,7 +6,7 @@ aliases: [Z-001-0061, Endocrine-Society-IOM-Comparison]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, vitamin-d, guidelines, Endocrine-Society, IOM, clinical-practice]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]
 confidence: high
 created: 2026-03-01

@@ -5,7 +5,7 @@ title: Ancel Keys — Scientific Legacy
 aliases: [Ancel-Keys, Lipid-Hypothesis, Seven-Countries]
 domain: 001
 tags: [zettel, ancel-keys, legacy, lipid-hypothesis]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]
 extraction-date: 2026-03-01

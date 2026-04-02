@@ -5,7 +5,7 @@ title: "Triose Structure: Glyceraldehyde and Dihydroxyacetone"
 aliases: [Z-001-0466, triose-structure, g3p, dhap, glyceraldehyde]
 domain: 001
 tags: [zettel, trioses, glyceraldehyde, dhap, isomers, glycolysis]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045D]

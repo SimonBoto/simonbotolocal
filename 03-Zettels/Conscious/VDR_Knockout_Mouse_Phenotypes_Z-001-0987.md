@@ -5,7 +5,7 @@ title: VDR Knockout Mouse Phenotypes — Lessons from Vitamin D Receptor Genetic
 aliases: [Z-001-0987]
 domain: 001
 tags: [zettel, vdr, vitamin-d-receptor, knockout, mouse-model, hypocalcemia, rickets, immunity, cancer, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]
 status: conscious

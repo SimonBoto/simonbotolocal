@@ -4,7 +4,7 @@ type: zettel
 title: Beta-Oxidation — Mitochondrial Fatty Acid Breakdown
 domain: 001
 tags: [zettel, beta-oxidation, mitochondria, fatty-acids, acetyl-coa, carnitine]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]"
 status: conscious

@@ -6,7 +6,7 @@ aliases: [Z-001-0907, Z-001-0007-deprecated, Proteomics, Proteins, Enzymes, Drug
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, proteomics, proteins, enzymes, drug-targets, LC-MS, NMR, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
 confidence: high
 created: 2026-02-23

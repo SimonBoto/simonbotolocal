@@ -6,7 +6,7 @@ aliases: [Z-001-1055, Fatty-Acid-Classes]
 domain: 001
 domain-name: Nutrition
 tags: [zettel, fatty-acids, omega-3, omega-6, desaturase]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
 source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
 confidence: high

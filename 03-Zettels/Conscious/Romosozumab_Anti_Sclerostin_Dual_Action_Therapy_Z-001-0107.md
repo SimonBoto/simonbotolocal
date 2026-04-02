@@ -5,7 +5,7 @@ title: Romosozumab — Anti-Sclerostin Dual Action Therapy
 aliases: [Z-001-0107]
 domain: 001
 tags: [zettel, romosozumab, sclerostin, anabolic, antiresorptive, wnt, monoclonal-antibody, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 

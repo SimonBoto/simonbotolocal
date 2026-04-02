@@ -5,7 +5,7 @@ title: Limitation Statement Best Practices in Scientific Writing
 aliases: [Z-001-0943]
 domain: 001
 tags: [zettel, limitations, scientific-writing, transparency, research-integrity, methodology, exploratory-research, confirmatory-research, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---

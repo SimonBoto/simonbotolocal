@@ -5,7 +5,7 @@ title: "Anaplerosis: Replenishing Krebs Cycle Intermediates"
 aliases: [Z-001-0492, anaplerosis, krebs-cycle, pyruvate-carboxylase, oaa]
 domain: 001
 tags: [zettel, anaplerosis, krebs-cycle, pyruvate-carboxylase, biotin]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045H]

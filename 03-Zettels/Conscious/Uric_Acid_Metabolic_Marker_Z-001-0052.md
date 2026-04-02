@@ -5,7 +5,7 @@ title: Uric Acid Metabolic Marker Gout Cardiovascular Risk
 aliases: [Z-001-0052, Uric Acid, Urate, Metabolic Syndrome Uric Acid]
 domain: 001
 tags: [zettel, biomarker, uric-acid, status/optimal, clinical-protocol]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 biomarker-type: purine-metabolism-marker
 target-range: <5.5 mg/dL
 status: conscious

@@ -5,7 +5,7 @@ title: Informed Consent Requirements — Elements, Documentation, and Exceptions
 aliases: [Z-001-1005]
 domain: 001
 tags: [zettel, informed-consent, disclosure, comprehension, voluntariness, 45-cfr-46, elements, documentation, waiver, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Medical_Ethics_Clinical_Research_L-001-0581]
 status: conscious

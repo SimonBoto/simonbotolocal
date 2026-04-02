@@ -5,7 +5,7 @@ title: Metabolic Syndrome — Clinical Manifestations and Presentation
 aliases: [MetS-Clinical, Metabolic-Syndrome-Symptoms, MetS-Presentation]
 domain: 001
 tags: [zettel, metabolic-syndrome, clinical, diagnosis, physical-exam]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]
 extraction-date: 2026-03-01

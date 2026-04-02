@@ -6,7 +6,7 @@ aliases: [Z-001-0045, METHAP-Panel]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, METHAP, biomarker-panel, clinical-trial, integration]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]
 confidence: high
 created: 2026-02-24

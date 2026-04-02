@@ -5,7 +5,7 @@ title: Sirolimus mTORC1 Inhibition Suppresses PGC-1α and Mitochondrial Biogenes
 aliases: [Z-001-0512, Sirolimus PGC-1a, mTORC1 Mitochondrial Biogenesis]
 domain: 001
 tags: [zettel, sirolimus, rapamycin, mtorc1, pgc-1a, mitochondrial-biogenesis, mitochondrial-mass]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source: "[[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]"
 extraction-date: 2026-03-02

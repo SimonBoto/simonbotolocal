@@ -5,7 +5,7 @@ title: Odd-Chain Fatty Acid Oxidation
 aliases: [Odd-Chain-Fatty-Acids, Pentadecanoic, Margaric, Beta-Oxidation]
 domain: 001
 tags: [zettel, odd-chain, fatty-acids, beta-oxidation, b12]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]
 extraction-date: 2026-03-01

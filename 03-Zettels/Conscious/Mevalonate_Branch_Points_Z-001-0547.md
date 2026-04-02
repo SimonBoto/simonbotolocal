@@ -5,7 +5,7 @@ title: Mevalonate Branch Points — Diverse Fates
 aliases: [Branch-Points, FPP, Cholesterol, CoQ10, Prenylation]
 domain: 001
 tags: [zettel, branch-points, fpp, cholesterol, coq10, prenylation]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Mevalonate_Pathway_L-001-0509]
 extraction-date: 2026-03-01

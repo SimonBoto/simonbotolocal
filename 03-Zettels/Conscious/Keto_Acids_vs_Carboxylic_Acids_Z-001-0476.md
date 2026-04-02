@@ -5,7 +5,7 @@ title: Keto Acids vs Carboxylic Acids
 aliases: [Z-001-0476, keto-acids, carboxylic-acids, pyruvate, chemistry]
 domain: 001
 tags: [zettel, keto-acids, carboxylic-acids, organic-acids, chemistry]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045F]

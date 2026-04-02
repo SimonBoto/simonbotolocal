@@ -5,7 +5,7 @@ title: VIP Score Limitations — Why Effect Sizes Are Necessary
 aliases: [Z-001-0936]
 domain: 001
 tags: [zettel, vip-score, variable-importance, effect-size, cohens-d, metabolomics, multivariate, limitations, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---

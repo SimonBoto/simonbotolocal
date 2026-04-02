@@ -5,7 +5,7 @@ title: Vitamin D and Inflammation in Adipose Tissue
 aliases: [VitD-Inflammation, Vitamin-D-Adipose, VitD-Immunomodulation]
 domain: 001
 tags: [zettel, vitamin-d, inflammation, adipose, cytokines, macrophages]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]
 extraction-date: 2026-03-01

@@ -5,7 +5,7 @@ title: Hypercalcemia — Recognition and Management
 aliases: [Hypercalcemia, High-Calcium, Toxicity]
 domain: 001
 tags: [zettel, hypercalcemia, calcium, toxicity, safety]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]
 extraction-date: 2026-03-01

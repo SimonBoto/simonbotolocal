@@ -5,7 +5,7 @@ title: Ketogenesis Pathway and Regulation
 aliases: [Z-001-0481, ketogenesis, hmg-coa, liver, ketones]
 domain: 001
 tags: [zettel, ketogenesis, bhb, hmg-coa, liver, fasting]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045G]

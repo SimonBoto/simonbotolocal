@@ -5,7 +5,7 @@ title: Primary vs Secondary Hypogonadism — Laboratory Differentiation
 aliases: [Z-001-0991]
 domain: 001
 tags: [zettel, hypogonadism, primary, secondary, testosterone, lh, fsh, differential-diagnosis, male, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Male_Hormone_Assessment_Scenarios_L-001-0578]
 status: conscious

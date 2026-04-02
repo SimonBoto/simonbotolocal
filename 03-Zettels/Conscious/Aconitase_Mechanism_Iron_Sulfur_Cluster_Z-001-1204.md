@@ -4,7 +4,7 @@ type: zettel
 title: Aconitase Mechanism and Iron-Sulfur Cluster
 domain: 001
 tags: [zettel, aconitase, iron-sulfur-cluster, krebs-cycle, enzyme-mechanism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]"
 status: conscious

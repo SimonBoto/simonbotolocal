@@ -5,7 +5,7 @@ title: Metabolic Syndrome — Complications (CVD, Diabetes, NAFLD)
 aliases: [MetS-Complications, Metabolic-Syndrome-Outcomes, MetS-Prognosis]
 domain: 001
 tags: [zettel, metabolic-syndrome, complications, CVD, diabetes, NAFLD, prognosis]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Metabolic_Syndrome_Overview_L-001-0200]
 extraction-date: 2026-03-01

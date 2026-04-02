@@ -5,7 +5,7 @@ title: Magnesium Deficiency — Population Prevalence and Causes
 aliases: [Mg-Deficiency-Prevalence, Magnesium-Epidemiology]
 domain: 001
 tags: [zettel, magnesium, deficiency, prevalence, population, dietary]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]
 extraction-date: 2026-03-01

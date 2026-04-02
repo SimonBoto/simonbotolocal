@@ -4,7 +4,7 @@ type: zettel
 title: Inflammation-Oxidative Stress Vicious Cycle
 domain: 001
 tags: [zettel, inflammation, oxidative-stress, ros, cytokines, autoimmunity, vicious-cycle]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]"
 status: conscious

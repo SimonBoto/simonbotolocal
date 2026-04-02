@@ -4,7 +4,7 @@ type: zettel
 title: TPP — Thiamine Pyrophosphate Mechanism and Enzymes
 domain: 001
 tags: [zettel, tpp, thiamine, vitamin-b1, decarboxylation, pyruvate-dehydrogenase]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Decarboxylation_Enzymes_Vitamin_Cofactors_L-001-0630]"
 status: conscious

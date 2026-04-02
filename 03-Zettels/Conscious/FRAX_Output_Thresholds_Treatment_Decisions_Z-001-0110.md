@@ -5,7 +5,7 @@ title: FRAX Output Thresholds — Treatment Decision Guidelines
 aliases: [Z-001-0110]
 domain: 001
 tags: [zettel, frax, treatment-thresholds, osteoporosis, guidelines, intervention, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 

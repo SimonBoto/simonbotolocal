@@ -5,7 +5,7 @@ title: "Pyruvate: Metabolic Crossroads"
 aliases: [Z-001-0469, pyruvate, crossroads, pdc, lactate]
 domain: 001
 tags: [zettel, pyruvate, metabolism, acetyl-coa, lactate, krebs]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045D]

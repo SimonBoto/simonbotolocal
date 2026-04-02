@@ -6,7 +6,7 @@ aliases: [Z-001-1102, B-Vitamins]
 domain: 001
 domain-name: Vitamin Metabolism
 tags: [zettel, b-vitamins, cofactors, metabolism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]
 source: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]
 confidence: high

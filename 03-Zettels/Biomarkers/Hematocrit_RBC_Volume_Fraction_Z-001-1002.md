@@ -6,7 +6,7 @@ title: Hematocrit — RBC Volume Fraction
 aliases: [Z-001-1002, Hematocrit, Hct, HCT, Packed-Cell-Volume, PCV]
 domain: 001
 tags: [zettel, biomarker, hematocrit, hct, rbc, volume, dehydration]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

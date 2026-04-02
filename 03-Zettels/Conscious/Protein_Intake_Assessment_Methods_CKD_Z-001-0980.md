@@ -5,7 +5,7 @@ title: Protein Intake Assessment Methods — CKD Clinical vs Research Standards
 aliases: [Z-001-0980]
 domain: 001
 tags: [zettel, protein-intake, assessment, uun, dietary-recall, biomarkers, ckd, validity, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_CKD_Nutritional_Assessment_L-001-0575]
 status: conscious

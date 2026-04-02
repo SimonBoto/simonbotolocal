@@ -5,7 +5,7 @@ title: Core Mineral Status — Magnesium, Zinc, Selenium, Copper Clinical Assess
 aliases: [Z-001-1015]
 domain: 001
 tags: [zettel, minerals, magnesium, zinc, selenium, copper, manganese, rbc-magnesium, mitochondrial-cofactors, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Five_Pillars_Metabolic_Health_L-001-0584]
 status: conscious

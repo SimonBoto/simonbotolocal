@@ -5,7 +5,7 @@ title: Rise of Seed Oils in US Diet — Government and Industry Role
 aliases: [Seed-Oil-Rise, Government-Guidelines, Food-Pyramid]
 domain: 001
 tags: [zettel, nutrition, history, seed-oil, government, usda]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Dietary_Fat_History_L-001-0210]
 extraction-date: 2026-03-01

@@ -6,7 +6,7 @@ aliases: [Z-001-1085, Ribose]
 domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, ribose, pentose, rna, ppp]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]
 source: [[LitNote_Nucleotide_Metabolism_Base_Energy_L-001-0600]
 confidence: high

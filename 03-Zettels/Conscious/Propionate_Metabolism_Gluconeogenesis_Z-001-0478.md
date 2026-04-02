@@ -5,7 +5,7 @@ title: Propionate Metabolism and Gluconeogenesis
 aliases: [Z-001-0478, propionate, gluconeogenesis, b12, gut-microbiome]
 domain: 001
 tags: [zettel, propionate, scfa, gluconeogenesis, b12, biotin, gut]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045F]

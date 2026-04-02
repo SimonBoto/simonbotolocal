@@ -5,7 +5,7 @@ title: MTHFR Cancer Association — Complex Relationship
 aliases: [MTHFR-Cancer, Protective, Risk, Complex]
 domain: 001
 tags: [zettel, mthfr, cancer, association, folate]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]
 extraction-date: 2026-03-01

@@ -5,7 +5,7 @@ title: Zn and Se Synergistic OXPHOS Protection
 aliases: [Zn-Se-Synergy, OXPHOS, Antioxidant-Network, ROS]
 domain: 001
 tags: [zettel, zn-se, synergy, oxphos, ros, antioxidant]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]
 extraction-date: 2026-03-01

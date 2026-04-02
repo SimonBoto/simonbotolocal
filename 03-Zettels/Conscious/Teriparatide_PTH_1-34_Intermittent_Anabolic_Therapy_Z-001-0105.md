@@ -5,7 +5,7 @@ title: Teriparatide — PTH 1-34 Intermittent Anabolic Therapy
 aliases: [Z-001-0105]
 domain: 001
 tags: [zettel, teriparatide, pth, anabolic, osteoporosis, osteoblasts, intermittent, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 

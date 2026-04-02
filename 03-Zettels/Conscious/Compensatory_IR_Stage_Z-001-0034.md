@@ -6,7 +6,7 @@ aliases: [Z-001-0034, Compensatory-IR, Hidden-IR]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, compensatory-IR, hyperinsulinemia, early-detection, beta-cell]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
 confidence: high
 created: 2026-02-24

@@ -6,7 +6,7 @@ aliases: [Z-001-1148, Novel-vs-Traditional]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, novel, traditional, markers, insulin-resistance, comparison]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
 source: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
 confidence: high

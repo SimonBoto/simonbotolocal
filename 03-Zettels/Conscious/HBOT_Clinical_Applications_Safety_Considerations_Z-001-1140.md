@@ -6,7 +6,7 @@ aliases: [Z-001-1140, HBOT-Safety]
 domain: 001
 domain-name: Clinical Protocols
 tags: [zettel, hbot, clinical, safety, contraindications]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_HBOT_Cancer_L-001-0614]
 source: [[LitNote_HBOT_Cancer_L-001-0614]
 confidence: high

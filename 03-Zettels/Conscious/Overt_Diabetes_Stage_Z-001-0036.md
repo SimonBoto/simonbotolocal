@@ -6,7 +6,7 @@ aliases: [Z-001-0036, Overt-Diabetes, Stage-3-IR, T2D]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, diabetes, T2D, beta-cell-failure, complications]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
 confidence: high
 created: 2026-02-24

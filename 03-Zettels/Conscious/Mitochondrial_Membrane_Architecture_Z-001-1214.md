@@ -4,7 +4,7 @@ type: zettel
 title: Mitochondrial Membrane Architecture — Double Membrane System
 domain: 001
 tags: [zettel, mitochondria, membranes, structure, porins, compartments]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Mitochondrial_Structure_Biology_L-001-0633]"
 status: conscious

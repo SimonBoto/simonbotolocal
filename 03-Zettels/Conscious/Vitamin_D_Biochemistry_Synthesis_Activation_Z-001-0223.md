@@ -5,7 +5,7 @@ title: Vitamin D Biochemistry — Synthesis, Activation, and VDR Mechanisms
 aliases: [VitD-Biochemistry, Vitamin-D-Synthesis, VDR]
 domain: 001
 tags: [zettel, vitamin-d, biochemistry, synthesis, VDR, metabolism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]
 extraction-date: 2026-03-01

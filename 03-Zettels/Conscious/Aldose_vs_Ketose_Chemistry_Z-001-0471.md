@@ -5,7 +5,7 @@ title: Aldose vs Ketose Chemistry
 aliases: [Z-001-0471, aldose, ketose, carbonyl, glucose, fructose]
 domain: 001
 tags: [zettel, aldose, ketose, chemistry, carbonyl, classification]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045E]

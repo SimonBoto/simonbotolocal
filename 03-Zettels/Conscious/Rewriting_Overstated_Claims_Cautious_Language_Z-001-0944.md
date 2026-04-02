@@ -5,7 +5,7 @@ title: Rewriting Overstated Claims Using Cautious Scientific Language
 aliases: [Z-001-0944]
 domain: 001
 tags: [zettel, scientific-writing, cautious-language, claims, overstatement, evidence-based, conclusions, revision, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---

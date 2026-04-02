@@ -5,7 +5,7 @@ title: Oxidized LDL Formation — Seed Oil Consumption and Atherosclerosis
 aliases: [Z-001-0959]
 domain: 001
 tags: [zettel, oxidized-ldl, oxldl, atherosclerosis, seed-oils, 4-hne, cardiovascular, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]
 status: conscious

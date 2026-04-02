@@ -6,7 +6,7 @@ aliases: [Z-001-1109, Metabolic-Fossils]
 domain: 001
 domain-name: Evolutionary Biochemistry
 tags: [zettel, metabolic-fossils, remnants, evolution]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]
 source: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]
 confidence: high

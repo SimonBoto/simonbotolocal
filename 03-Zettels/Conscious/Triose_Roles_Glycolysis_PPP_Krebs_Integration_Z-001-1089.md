@@ -6,7 +6,7 @@ aliases: [Z-001-1089, Triose-Integration]
 domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, triose, glycolysis, ppp, krebs, integration]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]
 source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]
 confidence: high

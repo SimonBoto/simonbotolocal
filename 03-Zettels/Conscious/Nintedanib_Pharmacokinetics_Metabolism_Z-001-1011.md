@@ -5,7 +5,7 @@ title: Nintedanib Pharmacokinetics and Metabolism — Esterases, UGTs, and CYP3A
 aliases: [Z-001-1011]
 domain: 001
 tags: [zettel, nintedanib, pharmacokinetics, metabolism, esterase, ugt, glucuronidation, cyp3a4, drug-interactions, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Nintedanib_Ofev_TKI_L-001-0583]
 status: conscious

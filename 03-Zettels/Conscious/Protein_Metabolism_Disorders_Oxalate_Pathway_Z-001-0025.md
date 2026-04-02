@@ -5,7 +5,7 @@ title: "Protein Metabolism Disorders & Oxalate Pathway"
 aliases: [Z-001-0025, Protein_Metabolism, Oxalate_Pathway, Urine_OA]
 domain: 001
 tags: [zettel, protein-metabolism, oxalate, kidney-stones, urine-organic-acids, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]
 status: conscious

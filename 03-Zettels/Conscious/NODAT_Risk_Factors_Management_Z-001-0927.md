@@ -5,7 +5,7 @@ title: NODAT Risk Factors Clinical Monitoring and Management
 aliases: [Z-001-0927, Z-001-0520-deprecated, NODAT Management, Sirolimus Diabetes Prevention]
 domain: 001
 tags: [zettel, nodat, sirolimus, diabetes, management, monitoring, prevention, transplant]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]"
 extraction-date: 2026-03-02

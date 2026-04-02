@@ -4,7 +4,7 @@ type: zettel
 title: Taurine — Bile Flow and Gut Health Support
 domain: 001
 tags: [zettel, taurine, bile-acids, gut-health, detox, amino-acids]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Gut_Healing_Amino_Acids_L-001-0636]"
 status: conscious

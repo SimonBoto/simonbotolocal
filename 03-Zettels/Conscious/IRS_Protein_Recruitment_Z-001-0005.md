@@ -7,7 +7,7 @@ aliases: [Z-001-0005, IRS, IRS_Recruitment]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, insulin, IRS, adapter, PI3K, signaling]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: 
 confidence: high
 created: 2026-02-22

@@ -5,7 +5,7 @@ title: Activation Phase — RANKL and M-CSF Drive Osteoclast Differentiation
 aliases: [Z-001-1027]
 domain: 001
 tags: [zettel, bone-remodeling, osteoclasts, rankl, m-csf, activation, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 

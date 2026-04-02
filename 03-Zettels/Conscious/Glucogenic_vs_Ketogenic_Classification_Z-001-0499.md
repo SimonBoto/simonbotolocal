@@ -5,7 +5,7 @@ title: Glucogenic vs Ketogenic Classification of Amino Acids
 aliases: [Z-001-0499, glucogenic, ketogenic, classification, 20-amino-acids]
 domain: 001
 tags: [zettel, glucogenic, ketogenic, classification, amino-acids]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0046A]

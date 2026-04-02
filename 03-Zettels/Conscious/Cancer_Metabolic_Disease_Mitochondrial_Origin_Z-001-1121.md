@@ -6,7 +6,7 @@ aliases: [Z-001-1121, Cancer-Metabolic-Origin]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, cancer, metabolic-disease, mitochondrial-origin]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]
 source: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]
 confidence: high

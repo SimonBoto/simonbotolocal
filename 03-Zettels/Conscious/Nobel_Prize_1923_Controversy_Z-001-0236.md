@@ -5,7 +5,7 @@ title: Nobel Prize 1923 — Award and Controversy
 aliases: [Nobel-1923, Insulin-Nobel, Prize-Controversy]
 domain: 001
 tags: [zettel, insulin, nobel, history, 1923, controversy]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Insulin_History_L-001-0207]
 extraction-date: 2026-03-01

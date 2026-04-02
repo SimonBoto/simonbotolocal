@@ -6,7 +6,7 @@ aliases: [Z-001-1106, RNA-World]
 domain: 001
 domain-name: Evolutionary Biochemistry
 tags: [zettel, rna-world, origins, life, evolution]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]
 source: [[LitNote_Evolutionary_Biochemistry_Metabolism_L-001-0605]
 confidence: high

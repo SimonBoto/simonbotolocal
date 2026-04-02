@@ -5,7 +5,7 @@ title: Kidney Stones — Calcium Oxalate Pathophysiology
 aliases: [Z-001-0604, kidney-stones, nephrolithiasis, calcium-oxalate]
 domain: 001
 tags: [zettel, kidney-stones, oxalate, hyperoxaluria, urolithiasis]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[L-001-0060A]
 confidence: high
 created: 2026-03-04

@@ -5,7 +5,7 @@ title: Mitochondrial Nutrient Deficiency Patterns
 aliases: [Mitochondrial-Cofactors, B-Vitamins, CoQ10, Carnitine]
 domain: 001
 tags: [zettel, mitochondrial-cofactors, magnesium, coq10, b-vitamins, carnitine]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]
 extraction-date: 2026-03-01

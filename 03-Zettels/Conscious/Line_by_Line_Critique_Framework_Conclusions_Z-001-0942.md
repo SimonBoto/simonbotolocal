@@ -5,7 +5,7 @@ title: Line-by-Line Critique Framework for Conclusions Sections
 aliases: [Z-001-0942]
 domain: 001
 tags: [zettel, critical-assessment, conclusions, scientific-writing, peer-review, methodology, evidence-evaluation, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---

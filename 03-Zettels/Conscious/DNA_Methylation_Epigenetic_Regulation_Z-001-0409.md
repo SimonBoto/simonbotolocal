@@ -5,7 +5,7 @@ title: DNA Methylation — Epigenetic Regulation
 aliases: [DNA-Methylation, CpG, DNMT, Epigenetics]
 domain: 001
 tags: [zettel, dna-methylation, epigenetics, dnmt, gene-regulation]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Methylation_Cycle_L-001-0402]
 extraction-date: 2026-03-01

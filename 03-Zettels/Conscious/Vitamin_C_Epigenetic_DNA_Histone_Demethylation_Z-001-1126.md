@@ -6,7 +6,7 @@ aliases: [Z-001-1126, VitC-Epigenetic]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, vitamin-c, epigenetic, demethylation, ten-eleven]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]
 source: [[LitNote_High_Dose_Vitamin_C_Oncology_L-001-0610]
 confidence: high

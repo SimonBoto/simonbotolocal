@@ -6,7 +6,7 @@ aliases: [Z-001-1091, Glucose-Ribose]
 domain: 001
 domain-name: Carbohydrate Metabolism
 tags: [zettel, glucose, ribose, ppp, interconversion]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]
 source: [[LitNote_Carbohydrate_Metabolism_Pentose_Connection_L-001-0601]
 confidence: high

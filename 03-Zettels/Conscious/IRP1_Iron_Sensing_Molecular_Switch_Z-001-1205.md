@@ -4,7 +4,7 @@ type: zettel
 title: IRP1 — The Iron-Sensing Molecular Switch
 domain: 001
 tags: [zettel, irp1, iron-regulatory-protein, iron-sensing, post-transcriptional]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]"
 status: conscious

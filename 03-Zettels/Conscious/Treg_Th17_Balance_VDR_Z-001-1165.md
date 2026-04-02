@@ -4,7 +4,7 @@ type: zettel
 title: Treg/Th17 Balance and VDR Signaling
 domain: 001
 tags: [zettel, treg, th17, vitamin-d, vdr, immune-tolerance, autoimmunity]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_VDR_Knockout_Immune_Function_L-001-0621]"
 status: conscious

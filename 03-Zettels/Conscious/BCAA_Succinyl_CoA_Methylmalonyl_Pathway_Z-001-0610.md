@@ -5,7 +5,7 @@ title: "BCAA to Succinyl-CoA: The Methylmalonyl Pathway"
 aliases: [Z-001-0610]
 domain: 001
 tags: [zettel, bcaa, succinyl-coa, methylmalonyl-coa, vitamin-b12, propionate, amino-acid-metabolism, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]
 extraction-date: 2026-03-05

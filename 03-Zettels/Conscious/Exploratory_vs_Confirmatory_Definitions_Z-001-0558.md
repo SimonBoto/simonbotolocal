@@ -6,7 +6,7 @@ aliases: [Z-001-0558, Study Design Classification, Research Phase Definitions]
 domain: 001
 domain-name: Research Methods
 tags: [zettel, study-design, exploratory-research, confirmatory-research, methodology, research-standards]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[LitNote_Exploratory_vs_Confirmatory_Research_Design_L-001-0516]"
 confidence: high
 created: 2026-03-03

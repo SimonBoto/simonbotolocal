@@ -5,7 +5,7 @@ title: Breast Paget's Disease — Nipple Cancer Distinct from Bone Paget's
 aliases: [Z-001-0985]
 domain: 001
 tags: [zettel, breast-pagets, mammary-pagets, nipple-cancer, dcis, eczema, differential-diagnosis, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_Alkaline_Phosphatase_Overview_L-001-0576]
 status: conscious

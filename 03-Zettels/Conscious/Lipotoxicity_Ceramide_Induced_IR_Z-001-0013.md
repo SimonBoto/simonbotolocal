@@ -7,7 +7,7 @@ aliases: [Z-001-0013, Lipotoxicity, Ceramide_IR]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, mechanism, lipotoxicity, ceramide, fatty-acids, IR]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: 
 confidence: high
 created: 2026-02-22

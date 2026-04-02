@@ -6,7 +6,7 @@ aliases: [Z-001-0043, HOMA-IR-Limitations]
 domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, HOMA-IR, limitations, late-marker, early-detection, claim]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]
 confidence: high
 created: 2026-02-24

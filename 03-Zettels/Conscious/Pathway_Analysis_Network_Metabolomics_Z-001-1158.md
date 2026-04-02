@@ -4,7 +4,7 @@ type: zettel
 title: Pathway and Network Analysis — Metabolomics Interpretation
 domain: 001
 tags: [zettel, pathway-analysis, network-analysis, metabolomics, kegg, metaboanalyst]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Metabolomics_Data_Processing_L-001-0619]"
 status: conscious

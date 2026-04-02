@@ -5,7 +5,7 @@ title: Zinc Mitochondrial Function
 aliases: [Zinc, SOD2, Mitochondrial-Enzymes, Membrane-Stabilization]
 domain: 001
 tags: [zettel, zinc, sod2, mitochondrial, membrane, enzyme]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]
 extraction-date: 2026-03-01

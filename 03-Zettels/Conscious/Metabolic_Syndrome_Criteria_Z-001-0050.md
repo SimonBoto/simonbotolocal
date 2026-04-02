@@ -5,7 +5,7 @@ title: Metabolic Syndrome Criteria ATP III Definition
 aliases: [Z-001-0050, Metabolic Syndrome, Syndrome X, ATP III, Insulin Resistance Syndrome]
 domain: 001
 tags: [zettel, biomarker, ir-core, clinical-protocol, phd-methap]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 biomarker-type: clinical-syndrome-definition
 criteria: 3 of 5 ATP III factors
 target: <3 criteria

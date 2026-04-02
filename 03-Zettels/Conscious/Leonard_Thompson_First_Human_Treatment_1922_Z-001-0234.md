@@ -5,7 +5,7 @@ title: Leonard Thompson — First Human Insulin Treatment (1922)
 aliases: [Leonard-Thompson, First-Insulin-Patient, 1922-Treatment]
 domain: 001
 tags: [zettel, insulin, history, leonard-thompson, 1922, first-patient]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Insulin_History_L-001-0207]
 extraction-date: 2026-03-01

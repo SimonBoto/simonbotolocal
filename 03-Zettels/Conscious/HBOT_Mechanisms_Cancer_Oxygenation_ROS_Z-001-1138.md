@@ -6,7 +6,7 @@ aliases: [Z-001-1138, HBOT-Mechanisms]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, hbot, hyperbaric, oxygen, ros, cancer]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_HBOT_Cancer_L-001-0614]
 source: [[LitNote_HBOT_Cancer_L-001-0614]
 confidence: high

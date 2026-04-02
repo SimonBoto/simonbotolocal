@@ -6,7 +6,7 @@ aliases: [Z-001-1115, AA-Classification-Table]
 domain: 001
 domain-name: Amino Acid Metabolism
 tags: [zettel, amino-acids, classification, reference, table]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]
 source: [[LitNote_Comparative_Biochemistry_Tables_L-001-0607]
 confidence: high

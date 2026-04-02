@@ -5,7 +5,7 @@ title: "α-Ketoglutarate Entry: The Glutamate Hub"
 aliases: [Z-001-0609]
 domain: 001
 tags: [zettel, alpha-ketoglutarate, glutamate, amino-acid-metabolism, transamination, krebs-cycle, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Amino_Acids_Krebs_Cycle_Metabolic_Mapping_L-001-0060B]
 extraction-date: 2026-03-05

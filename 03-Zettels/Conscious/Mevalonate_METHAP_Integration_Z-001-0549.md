@@ -5,7 +5,7 @@ title: Mevalonate Pathway — METHAP Integration
 aliases: [METHAP-CoQ10, Cholesterol-D3, Mitochondrial-Support]
 domain: 001
 tags: [zettel, methap, coq10, cholesterol, d3, mitochondrial]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Mevalonate_Pathway_L-001-0509]
 extraction-date: 2026-03-01

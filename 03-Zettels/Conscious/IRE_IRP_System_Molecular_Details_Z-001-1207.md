@@ -4,7 +4,7 @@ type: zettel
 title: IRE-IRP System — Molecular Mechanism of Iron Sensing
 domain: 001
 tags: [zettel, ire, irp, iron-sensing, rna-structure, molecular-mechanism]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631]"
 status: conscious

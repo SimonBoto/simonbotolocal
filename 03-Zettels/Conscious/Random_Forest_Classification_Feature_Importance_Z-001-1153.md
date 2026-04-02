@@ -4,7 +4,7 @@ type: zettel
 title: Random Forest Classification — Feature Importance in Metabolomics
 domain: 001
 tags: [zettel, random-forest, machine-learning, classification, metabolomics, feature-selection]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-09
 source-litnote: "[[LitNote_Machine_Learning_Metabolomics_L-001-0618]"
 status: conscious

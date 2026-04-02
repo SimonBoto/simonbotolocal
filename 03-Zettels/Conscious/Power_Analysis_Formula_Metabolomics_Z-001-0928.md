@@ -5,7 +5,7 @@ title: Power Analysis Formula and Sample Size Calculation for Metabolomics
 aliases: [Z-001-0928, Z-001-0521-deprecated, Sample Size Formula, Cohen's f, ANOVA Power]
 domain: 001
 tags: [zettel, power-analysis, sample-size, cohens-f, anova, formula, statistics]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source: "[[LitNote_Power_Analysis_Metabolomics_L-001-0514]"
 extraction-date: 2026-03-02

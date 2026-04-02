@@ -5,7 +5,7 @@ title: Chronic Sirolimus Inhibits mTORC2 Disrupting Akt Insulin Signaling
 aliases: [Z-001-0925, Z-001-0518-deprecated, mTORC2 Inhibition, Akt Phosphorylation, Chronic Rapamycin]
 domain: 001
 tags: [zettel, mtorc2, sirolimus, rapamycin, akt, insulin-signaling, chronic-dosing]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]"
 extraction-date: 2026-03-02

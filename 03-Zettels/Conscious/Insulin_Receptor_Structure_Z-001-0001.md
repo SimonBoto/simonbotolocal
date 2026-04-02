@@ -7,7 +7,7 @@ aliases: [Z-001-0001, INSR, Insulin_Receptor]
 domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, insulin, receptor, structure, membrane, tyrosine-kinase]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: 
 confidence: high
 created: 2026-02-22

@@ -5,7 +5,7 @@ title: Statin Major Clinical Trials
 aliases: [Statin-Trials, 4S, WOSCOPS, JUPITER, TNT]
 domain: 001
 tags: [zettel, statin, trials, evidence, 4s, woscops, jupiter]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]
 extraction-date: 2026-03-01

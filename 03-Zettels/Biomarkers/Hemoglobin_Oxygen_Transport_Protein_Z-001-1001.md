@@ -6,7 +6,7 @@ title: Hemoglobin — Oxygen Transport Protein
 aliases: [Z-001-1001, Hemoglobin, Hb, HGB, Oxygen-Carrier]
 domain: 001
 tags: [zettel, biomarker, hemoglobin, hb, oxygen, rbc, anemia]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice

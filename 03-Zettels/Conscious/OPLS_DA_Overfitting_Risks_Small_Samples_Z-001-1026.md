@@ -5,7 +5,7 @@ title: OPLS-DA Overfitting Risks with Small Sample Sizes
 aliases: [Z-001-1026]
 domain: 001
 tags: [zettel, opls-da, overfitting, small-samples, multivariate-analysis, metabolomics, q2-score, r2-score, validation, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---

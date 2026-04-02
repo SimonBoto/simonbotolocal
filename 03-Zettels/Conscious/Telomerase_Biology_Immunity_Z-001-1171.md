@@ -4,7 +4,7 @@ type: zettel
 title: Telomerase Biology and Immune Cell Regulation
 domain: 001
 tags: [zettel, telomerase, TERT, TERC, immune-cells, cellular-immortality]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]"
 status: conscious

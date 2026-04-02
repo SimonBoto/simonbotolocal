@@ -5,7 +5,7 @@ title: Non-Statin Lipid-Lowering Options
 aliases: [Non-Statin, Ezetimibe, PCSK9, Bempedoic-Acid, Fibrate]
 domain: 001
 tags: [zettel, non-statin, ezetimibe, pcsk9, bempedoic-acid]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]
 extraction-date: 2026-03-01

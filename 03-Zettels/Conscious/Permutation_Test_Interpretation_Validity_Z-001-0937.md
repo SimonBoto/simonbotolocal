@@ -5,7 +5,7 @@ title: Permutation Test Interpretation — Validating OPLS-DA Models
 aliases: [Z-001-0937]
 domain: 001
 tags: [zettel, permutation-test, opls-da, model-validation, q2-intercept, overfitting, metabolomics, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---

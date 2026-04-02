@@ -5,7 +5,7 @@ title: Colorectal Cancer Screening — Guidelines and Modalities
 aliases: [Z-001-1023]
 domain: 001
 tags: [zettel, colorectal-cancer, screening, colonoscopy, fit, colonography, guidelines, prevention, adenoma, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
 status: conscious

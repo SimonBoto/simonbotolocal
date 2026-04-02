@@ -5,7 +5,7 @@ title: Physiological vs Pathological Ketosis
 aliases: [Z-001-0487, ketosis, ketoacidosis, dka, nutritional-ketosis]
 domain: 001
 tags: [zettel, ketosis, ketoacidosis, dka, nutritional-ketosis, safety]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045G]

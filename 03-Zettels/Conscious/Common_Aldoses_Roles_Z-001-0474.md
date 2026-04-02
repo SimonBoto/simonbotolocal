@@ -5,7 +5,7 @@ title: Common Aldoses and Their Roles
 aliases: [Z-001-0474, aldoses, glucose, galactose, ribose, mannose]
 domain: 001
 tags: [zettel, aldoses, glucose, galactose, ribose, sugars]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 created: 2026-03-04
 source: [[L-001-0045E]

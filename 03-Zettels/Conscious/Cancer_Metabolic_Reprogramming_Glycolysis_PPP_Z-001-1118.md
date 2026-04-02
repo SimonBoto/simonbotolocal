@@ -6,7 +6,7 @@ aliases: [Z-001-1118, Cancer-Reprogramming]
 domain: 001
 domain-name: Cancer Metabolism
 tags: [zettel, cancer, reprogramming, glycolysis, ppp]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]
 source: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]
 confidence: high

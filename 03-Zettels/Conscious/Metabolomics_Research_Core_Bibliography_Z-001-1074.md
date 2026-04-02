@@ -6,7 +6,7 @@ aliases: [Z-001-1074, Metabolomics-Biblio]
 domain: 001
 domain-name: Research Methods
 tags: [zettel, bibliography, metabolomics, research]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]
 source: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]
 confidence: high

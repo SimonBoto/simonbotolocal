@@ -5,7 +5,7 @@ title: Linoleic Acid Metabolic Fate — Delta-6 Desaturase Competition
 aliases: [Z-001-0946]
 domain: 001
 tags: [zettel, linoleic-acid, omega-6, delta-6-desaturase, metabolic-pathway, arachidonic-acid, eicosanoids, competition, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 

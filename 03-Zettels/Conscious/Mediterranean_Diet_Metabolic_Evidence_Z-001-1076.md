@@ -6,7 +6,7 @@ aliases: [Z-001-1076, Mediterranean-Biblio]
 domain: 001
 domain-name: Nutrition
 tags: [zettel, mediterranean-diet, research, evidence]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]
 source: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]
 confidence: high

@@ -6,7 +6,7 @@ aliases: [Z-001-1048, Krebs-Cycle]
 domain: 001
 domain-name: Krebs Cycle
 tags: [zettel, krebs-cycle, tca, mitochondria]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
 source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
 confidence: high

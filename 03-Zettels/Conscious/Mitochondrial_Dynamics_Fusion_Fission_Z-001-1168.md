@@ -4,7 +4,7 @@ type: zettel
 title: Mitochondrial Dynamics — Fusion and Fission
 domain: 001
 tags: [zettel, mitochondria, fusion, fission, dynamics, quality-control, Mfn, Drp1]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622]"
 status: conscious

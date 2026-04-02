@@ -5,7 +5,7 @@ title: Glucose Chemistry — Emil Fischer and 19th Century Structure
 aliases: [Fischer, Glucose-Stereochemistry, Carbohydrate-Chemistry]
 domain: 001
 tags: [zettel, glucose, chemistry, fischer, stereochemistry, nobel]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Glucose_History_L-001-0208]
 extraction-date: 2026-03-01

@@ -6,7 +6,7 @@ aliases: [Z-001-1052, Cofactor-Signatures]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, cofactors, oat, deficiency, biomarkers]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
 source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
 confidence: high

@@ -5,7 +5,7 @@ title: Procter & Gamble Crisco Launch 1911 — Marketing Revolution in Food
 aliases: [Z-001-0969]
 domain: 001
 tags: [zettel, procter-gamble, crisco, 1911, marketing, hydrogenation, cottonseed-oil, food-industry, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
 source-litnote: [[LitNote_History_Industrial_Development_L-001-0527]
 status: conscious

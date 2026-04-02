@@ -6,7 +6,7 @@ aliases: [Z-001-1047, Patient-Concepts]
 domain: 001
 domain-name: Clinical Communication
 tags: [zettel, patient-education, communication]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 source: [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]
 confidence: high

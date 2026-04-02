@@ -6,7 +6,7 @@ aliases: [Z-001-0566, Cholesterol Synthesis, HMG-CoA Pathway, Acetyl-CoA to IPP]
 domain: 001
 domain-name: Lipid Metabolism
 tags: [zettel, mevalonate-pathway, cholesterol, hmg-coa, acetyl-coa, biochemistry, enzymes]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518]"
 confidence: high
 created: 2026-03-03

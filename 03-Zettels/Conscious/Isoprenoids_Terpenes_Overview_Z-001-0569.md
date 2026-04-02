@@ -6,7 +6,7 @@ aliases: [Z-001-0569, Terpenoids, IPP Products, Isoprene Units]
 domain: 001
 domain-name: Lipid Metabolism
 tags: [zettel, isoprenoids, terpenes, terpenoids, ipps, monoterpenes, triterpenes]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]"
 confidence: high
 created: 2026-03-03

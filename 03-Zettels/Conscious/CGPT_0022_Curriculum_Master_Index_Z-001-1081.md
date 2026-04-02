@@ -6,7 +6,7 @@ aliases: [Z-001-1081, CGPT-0022-Index]
 domain: 001
 domain-name: Metabolomics Training
 tags: [zettel, curriculum, index, master]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_CGPT_0022_Training_Integration_L-001-0598]
 source: [[LitNote_CGPT_0022_Training_Integration_L-001-0598]
 confidence: high

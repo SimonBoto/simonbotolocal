@@ -5,7 +5,7 @@ title: Magnesium and Cardiac Arrhythmias — Electrophysiological Stability
 aliases: [Mg-Arrhythmias, Magnesium-Cardiac, Torsades-De-Pointes]
 domain: 001
 tags: [zettel, magnesium, arrhythmias, electrophysiology, cardiology, emergency]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Magnesium_Cardiovascular_L-001-0201c]
 extraction-date: 2026-03-01

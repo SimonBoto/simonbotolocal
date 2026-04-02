@@ -6,7 +6,7 @@ aliases: [Z-001-0912, Z-001-0012-deprecated, Krebs_Cycle_Metabolites, Organic_Ac
 domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, krebs-cycle, organic-acids, insulin-resistance, malate, succinate, biomarkers, diabetes, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: [[NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002]
 confidence: high
 created: 2026-02-23

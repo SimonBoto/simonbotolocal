@@ -5,7 +5,7 @@ title: Vascular Calcification Prevention and Reversal
 aliases: [Calcification-Prevention, K2-Reversal, Prevention-Strategies]
 domain: 001
 tags: [zettel, vascular-calcification, prevention, reversal, vitamin-k2]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Vascular_Calcification_L-001-0215]
 extraction-date: 2026-03-01

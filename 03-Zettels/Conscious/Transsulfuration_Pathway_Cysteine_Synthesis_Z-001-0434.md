@@ -5,7 +5,7 @@ title: Transsulfuration Pathway — Cysteine Synthesis
 aliases: [Transsulfuration, CBS, Cystathionine, Cysteine]
 domain: 001
 tags: [zettel, transsulfuration, cbs, cysteine, b6]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Methionine_Catabolism_L-001-0406]
 extraction-date: 2026-03-01

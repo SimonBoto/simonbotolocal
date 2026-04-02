@@ -5,7 +5,7 @@ title: Lipid Peroxidation and Oxidized LDL
 aliases: [Lipid-Peroxidation, Oxidized-LDL, oxLDL, 4-HNE, MDA]
 domain: 001
 tags: [zettel, lipid-peroxidation, oxidized-ldl, oxldl, inflammation]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]
 extraction-date: 2026-03-01

@@ -6,7 +6,7 @@ aliases: [Z-001-1103, Fe-S-Clusters]
 domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, iron-sulfur, cofactors, electron-transfer]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]
 source: [[LitNote_Metabolic_Cofactors_Vitamins_Minerals_L-001-0604]
 confidence: high

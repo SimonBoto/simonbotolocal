@@ -6,7 +6,7 @@ aliases: [Z-001-1029, MCI-Role]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, training, metabolomics, instructor-role, clinic-management]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
 source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
 confidence: high

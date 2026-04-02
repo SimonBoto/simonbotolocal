@@ -5,7 +5,7 @@ title: Sample Preparation Variability Control in Metabolomics
 aliases: [Z-001-0940]
 domain: 001
 tags: [zettel, sample-preparation, preanalytical, variability, metabolomics, quality-control, plasma, serum, storage, freeze-thaw, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 ---
 

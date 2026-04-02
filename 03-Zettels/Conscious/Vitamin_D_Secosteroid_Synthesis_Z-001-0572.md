@@ -6,7 +6,7 @@ aliases: [Z-001-0572, Vitamin D Synthesis, Cholecalciferol, Secosteroid, UV Conv
 domain: 001
 domain-name: Vitamin Metabolism
 tags: [zettel, vitamin-d, secosteroid, cholesterol, 7-dehydrocholesterol, uv-light, calcitriol]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519]"
 confidence: high
 created: 2026-03-03

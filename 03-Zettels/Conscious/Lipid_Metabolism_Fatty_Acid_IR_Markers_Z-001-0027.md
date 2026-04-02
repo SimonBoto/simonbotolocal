@@ -5,7 +5,7 @@ title: "Lipid Metabolism & Fatty Acid Insulin Resistance Markers"
 aliases: [Z-001-0027, Lipid_Metabolism, Fatty_Acids, Omega3_Omega6, Desaturases]
 domain: 001
 tags: [zettel, lipid-metabolism, fatty-acids, omega-3, omega-6, desaturase, inflammation, conscious]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-02-23
 source: [[NKUA_2024_Metabolic_Disorders_Diagnosis_DE4_L-001-0004]
 status: conscious

@@ -6,7 +6,7 @@ aliases: [Z-001-1133, MM-Staging]
 domain: 001
 domain-name: Hematology Oncology
 tags: [zettel, multiple-myeloma, staging, iss, r-iss]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]
 source: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]
 confidence: high

@@ -6,7 +6,7 @@ aliases: [Z-001-1057, Ketosis]
 domain: 001
 domain-name: Metabolic Health
 tags: [zettel, ketosis, ketones, metabolic-flexibility]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
 source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
 confidence: high

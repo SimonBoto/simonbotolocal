@@ -5,7 +5,7 @@ title: Statin Intolerance — Myopathy Management
 aliases: [Z-001-0919, Z-001-0512-deprecated, Statin-Intolerance, Myopathy, Myalgia, Rhabdomyolysis]
 domain: 001
 tags: [zettel, statin, intolerance, myopathy, myalgia, side-effects]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]
 extraction-date: 2026-03-01

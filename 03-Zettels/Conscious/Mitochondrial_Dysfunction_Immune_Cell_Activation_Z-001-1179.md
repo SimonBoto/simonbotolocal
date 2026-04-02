@@ -4,7 +4,7 @@ type: zettel
 title: Mitochondrial Dysfunction in Immune Cell Activation
 domain: 001
 tags: [zettel, mitochondria, immune-cells, t-cells, metabolic-reprogramming, ros]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-08
 source-litnote: "[[LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625]"
 status: conscious

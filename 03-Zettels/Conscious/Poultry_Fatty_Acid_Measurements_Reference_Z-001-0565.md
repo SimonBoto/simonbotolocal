@@ -6,7 +6,7 @@ aliases: [Z-001-0565, Fatty Acid Data, Poultry Measurements, Reference Table]
 domain: 001
 domain-name: Nutrition
 tags: [zettel, reference, omega-6, omega-3, poultry, measurements, data-table, fatty-acids]
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
 source: "[[LitNote_Omega6_Poultry_Feed_Inflammatory_L-001-0517]"
 confidence: high
 created: 2026-03-03
