@@ -2,13 +2,12 @@
 uid: Z-001-1056
 type: zettel
 title: Fatty Acid Ratios Clinical Interpretation
-aliases: [Z-001-1056, FA-Ratios]
+aliases: ["FA-Ratios"]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, fatty-acids, ratios, inflammation]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
-source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
+parent-moc: "[[MOC-Mitochondrial-Function]]"
+source-litnote: "[[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]"
 confidence: high
 created: 2026-03-08
 ---

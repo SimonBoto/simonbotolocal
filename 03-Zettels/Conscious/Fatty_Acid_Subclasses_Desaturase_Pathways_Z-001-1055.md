@@ -2,13 +2,12 @@
 uid: Z-001-1055
 type: zettel
 title: Fatty Acid Subclasses Desaturase Pathways
-aliases: [Z-001-1055, Fatty-Acid-Classes]
+aliases: ["Fatty-Acid-Classes"]
 domain: 001
 domain-name: Nutrition
 tags: [zettel, fatty-acids, omega-3, omega-6, desaturase]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
-source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
+parent-moc: "[[MOC-Mitochondrial-Function]]"
+source-litnote: "[[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]"
 confidence: high
 created: 2026-03-08
 ---

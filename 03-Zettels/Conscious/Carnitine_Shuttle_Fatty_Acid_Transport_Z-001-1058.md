@@ -2,13 +2,12 @@
 uid: Z-001-1058
 type: zettel
 title: Carnitine Shuttle Fatty Acid Transport
-aliases: [Z-001-1058, Carnitine-Shuttle]
+aliases: ["Carnitine-Shuttle"]
 domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, carnitine, fatty-acids, transport]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
-source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
+parent-moc: "[[MOC-Mitochondrial-Function]]"
+source-litnote: "[[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]"
 confidence: high
 created: 2026-03-08
 ---

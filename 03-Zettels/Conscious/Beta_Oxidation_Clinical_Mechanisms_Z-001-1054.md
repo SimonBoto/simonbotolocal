@@ -2,13 +2,12 @@
 uid: Z-001-1054
 type: zettel
 title: Beta Oxidation Clinical Mechanisms
-aliases: [Z-001-1054, Beta-Oxidation]
+aliases: ["Beta-Oxidation"]
 domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, beta-oxidation, fatty-acids, mitochondria]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
-source: [[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]
+parent-moc: "[[MOC-Mitochondrial-Function]]"
+source-litnote: "[[LitNote_Fatty_Acid_Metabolism_Lipid_Signaling_L-001-0592]]"
 confidence: high
 created: 2026-03-08
 ---
