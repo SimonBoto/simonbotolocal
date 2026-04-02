@@ -50,15 +50,15 @@ LIST FROM "33-Atomic" WHERE contains(tags, "hidden-hunger")
 
 | MOC | Connection |
 |-----|------------|
-| [[MOC-Example]] | {{Why related}} |
-| [[MOC-Example]] | {{Why related}} |
+| MOC-Example | {{Why related}} |
+| MOC-Example | {{Why related}} |
 
 
 ---
 
 ## 📄 Synthesis Documents
 
-- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}]] — {{Description}}
+- {{Synthesis_Title}}_{{S-XXX-XXXX}} — {{Description}}
 
 
 ---
@@ -67,7 +67,7 @@ LIST FROM "33-Atomic" WHERE contains(tags, "hidden-hunger")
 
 | LitNote | Zettels Extracted | Status |
 |---------|-------------------|--------|
-| [[{{LitNote_Title}}_{{L-XXX-XXXX}}]] | {{N}} zettels | {{status}} |
+| {{LitNote_Title}}_{{L-XXX-XXXX}} | {{N}} zettels | {{status}} |
 
 
 ---
@@ -78,7 +78,7 @@ LIST FROM "33-Atomic" WHERE contains(tags, "hidden-hunger")
 - [ ] {{Zettel idea}} — {{Why needed}}
 
 **Zettels to review for promotion:**
-- [ ] [[{{Zettel_Title}}_{{Z-XXX-XXXX}}]] — {{Why ready}}
+- [ ] {{Zettel_Title}}_{{Z-XXX-XXXX}} — {{Why ready}}
 
 
 ---

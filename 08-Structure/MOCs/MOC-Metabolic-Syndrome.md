@@ -75,15 +75,15 @@ Related content exists in:
 
 | MOC | Connection |
 |-----|------------|
-| [[MOC-Example]] | {{Why related}} |
-| [[MOC-Example]] | {{Why related}} |
+| MOC-Example | {{Why related}} |
+| MOC-Example | {{Why related}} |
 
 
 ---
 
 ## 📄 Synthesis Documents
 
-- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}]] — {{Description}}
+- {{Synthesis_Title}}_{{S-XXX-XXXX}} — {{Description}}
 
 
 ---
@@ -92,7 +92,7 @@ Related content exists in:
 
 | LitNote | Zettels Extracted | Status |
 |---------|-------------------|--------|
-| [[{{LitNote_Title}}_{{L-XXX-XXXX}}]] | {{N}} zettels | {{status}} |
+| {{LitNote_Title}}_{{L-XXX-XXXX}} | {{N}} zettels | {{status}} |
 
 
 ---
@@ -103,7 +103,7 @@ Related content exists in:
 - [ ] {{Zettel idea}} — {{Why needed}}
 
 **Zettels to review for promotion:**
-- [ ] [[{{Zettel_Title}}_{{Z-XXX-XXXX}}]] — {{Why ready}}
+- [ ] {{Zettel_Title}}_{{Z-XXX-XXXX}} — {{Why ready}}
 
 
 ---
