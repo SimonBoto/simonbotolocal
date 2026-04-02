@@ -127,6 +127,7 @@ Evidence for high-dose vitamin D safety and efficacy. Addresses patient and phys
 - [[Metabolomics_Research_Core_Bibliography_Z-001-1074]] — General research
 - [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]] — Dietary evidence
 - [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]] — D metabolism
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]] — K2 partnership
 - [[MOC-Vitamin-Mineral-Axis]] — Vitamin hub
 
 ---

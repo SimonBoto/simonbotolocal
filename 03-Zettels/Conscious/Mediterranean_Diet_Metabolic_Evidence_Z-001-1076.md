@@ -142,6 +142,7 @@ Clinical trial evidence for Mediterranean diet in metabolic health, cardiovascul
 ## Lateral Links (Verified Real Zettels)
 - [[Metabolomics_Research_Core_Bibliography_Z-001-1074]] — General research
 - [[Vitamin_D_Safety_Research_Summary_Z-001-1075]] — Vitamin D evidence
+- [[Gut_Derived_Mechanisms_IR_Z-001-0032]] — Gut-metabolic connection
 - [[MOC-Metabolomics-Training]] — Training hub
 
 ---

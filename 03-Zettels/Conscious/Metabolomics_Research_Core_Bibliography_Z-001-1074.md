@@ -92,6 +92,7 @@ Curated research papers on metabolomics, organic acids testing, and clinical app
 - [[Vitamin_D_Safety_Research_Summary_Z-001-1075]] — Vitamin D evidence
 - [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]] — Dietary evidence
 - [[OAT_Category_Interpretation_Framework_Z-001-1065]] — OAT interpretation
+- [[OAT_Pattern_Recognition_Protocol_Z-001-1066]] — Pattern methodology
 - [[MOC-Metabolomics-Training]] — Training hub
 
 ---
