@@ -6,7 +6,7 @@ aliases: [Z-001-1033, Socratic-Training]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, pedagogy, socratic-method, clinical-reasoning]
-parent-moc: [[MOC-Insulin-Signaling]]
+parent-moc: "[[MOC-Metabolomics-Training]]"
 source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
 source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
 confidence: high

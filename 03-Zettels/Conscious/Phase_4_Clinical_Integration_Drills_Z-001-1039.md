@@ -6,6 +6,7 @@ aliases: ["Phase-4-Integration"]
 domain: "001"
 tags: [zettel, clinical-integration, case-based-learning, training]
 parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-index: "[[03-Zettels-Conscious]]"
 source-litnote: "[[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]"
 confidence: high
 created: "2026-03-08"

@@ -6,6 +6,7 @@ aliases: ["Redox-Cofactors"]
 domain: "001"
 tags: [zettel, nad, fad, redox, cofactors, b-vitamins]
 parent-moc: "[[MOC-Mitochondrial-Function]]"
+parent-index: "[[03-Zettels-Conscious]]"
 source-litnote: "[[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]"
 confidence: high
 created: "2026-03-08"
