@@ -66,7 +66,7 @@ source-litnote: Synthesized from clinical practice
 
 ## 5. RELATED
 
-- [[CRP_[B-002-0001]: Systemic inflammation
+- [[CRP_B-002-0001]] — Systemic inflammation
 - ]: Metabolomics gut markers
 
 source-litnote: Synthesized from clinical practice

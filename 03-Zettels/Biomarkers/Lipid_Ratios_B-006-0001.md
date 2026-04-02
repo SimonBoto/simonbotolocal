@@ -381,7 +381,7 @@ source-litnote: Synthesized from clinical practice
 
 ## 11. RELATED BIOMARKERS
 
-- [[Metabolic_IR_Family_[B-005-0001]: Insulin resistance (primary driver)
+- [[Metabolic_IR_Family_B-005-0001]] — Insulin resistance (primary driver)
 - [[Adipic_Acid_Z-001-0041]: Mitochondrial fatty acid oxidation (metabolic flexibility)
 - [[BHB_Z-001-0483]: Ketone body (metabolic flexibility marker)
 - [[Omega_Fatty_Acids_Framework_S-001-0005]: Omega-3 for TG lowering

@@ -298,12 +298,12 @@ created: 2026-03-30
 
 ## 10. RELATED BIOMARKERS
 
-- [[Hemoglobin_Family_[B-001-0002]: Anemia workup
-- [[CRP_[B-002-0001]: Inflammation confounder
-- [[MCV_[B-001-0002]: Microcytic anemia
-- [[Platelets_[B-001-0003]: Reactive thrombocytosis
-- [[Liver_Enzymes_[B-004-0003]: Iron overload liver damage
-- [[GGT_[B-004-0004]: Alcohol (iron absorption) |
+- [[Hemoglobin_Family_B-001-0002]] — Anemia workup
+- [[CRP_B-002-0001]] — Inflammation confounder
+- [[MCV_B-001-0002]] — Microcytic anemia
+- [[Platelets_B-001-0003]] — Reactive thrombocytosis
+- [[Liver_Enzymes_B-004-0003]] — Iron overload liver damage
+- [[GGT_B-004-0004]] — Alcohol (iron absorption) |
 
 ---
 status: footer

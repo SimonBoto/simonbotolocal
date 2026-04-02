@@ -66,8 +66,8 @@ created: 2026-03-30
 
 ## 5. RELATED
 
-- [[Calprotectin_[B-002-0002]: Gut inflammation
-- [[ESR_[B-002-0003]: Alternative inflammation marker (slower)
+- [[Calprotectin_B-002-0002]] — Gut inflammation
+- [[ESR_B-002-0003]] — Alternative inflammation marker (slower)
 
 ---
 status: footer

@@ -220,12 +220,12 @@ created: 2026-03-30
 
 ## 8. RELATED BIOMARKERS
 
-- [[Ferritin_[B-003-0001]: Iron stores
-- [[Transferrin_Saturation_[B-003-0002]: Iron transport
-- [[TIBC_[B-003-0003]: Total iron binding capacity
+- [[Ferritin_B-003-0001]] — Iron stores
+- [[Transferrin_Saturation_B-003-0002]] — Iron transport
+- [[TIBC_B-003-0003]] — Total iron binding capacity
 - [[Methylmalonic_Acid_Z-001-0431]: Functional B12
-- [[Homocysteine_[B-004-0002]: B12/folate/methylation
-- [[Reticulocyte_Count_[B-001-0007]: Bone marrow response
+- [[Homocysteine_B-004-0002]] — B12/folate/methylation
+- [[Reticulocyte_Count_B-001-0007]] — Bone marrow response
 
 ---
 status: footer
