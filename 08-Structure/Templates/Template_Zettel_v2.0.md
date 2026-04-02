@@ -6,8 +6,11 @@ aliases: ["{{UID}}", "{{ShortSlug}}"]
 domain: "{{DDD}}"
 domain-name: "{{DomainName}}"
 tags: ["zettel", "{{topic}}", "{{subtopic}}"]
+# Structural links (for navigation - digital necessity)
+parent-index: "[[03-Zettels-Conscious]]"
+# Semantic links (for thinking - Luhmann-style)
 parent-moc: ""
-related: ["[[{{Related_Zettel}}_{{Z-XXX-XXXX}}]"]
+related: []
 source: ""
 confidence: "high | medium | low"
 created: "{{YYYY-MM-DD}}"
@@ -20,32 +23,35 @@ extraction-date: "{{YYYY-MM-DD}}"
 
 {{Key details: bullets, mini-table, or key-value pairs}}
 
-## Links (Contextual — Link WHEN Useful)
+## Links — Two Types (Digital Zettelkasten)
 
-**ALWAYS Link (FULL FILENAME REQUIRED):**
-- `[[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]]` — NEVER use bare `[[Z-001-0041]`
-- Parent MOC: `` — navigation
-- Cross-domain bridges: Insulin zettel → Vitamin D mechanism
+### 1. Structural Links (Navigation)
+**Purpose:** Findability in digital space  
+**Style:** Hierarchical, folder-based  
+**Examples:**
+- `parent-index: [[03-Zettels-Conscious]]` — container
+- `parent-moc: [[MOC-Insulin-Signaling]]` — thematic entry point
+
+### 2. Semantic Links (Thinking)
+**Purpose:** Lateral thinking, serendipity  
+**Style:** Content-based, Luhmann-style  
+**Examples:**
+- `related: [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]]` — idea connection
+- Inline: "This contrasts with [[Lipotoxicity_Pathway_IR_Z-001-0029]]"
 
 **CRITICAL RULE:**
-Bare UIDs like `[[Z-001-0041]` create empty Obsidian notes because filenames include titles.
-Always use full format: `[[Title_Z-001-0041]` or `[[Title_Z-001-0041]|display text]`
+Bare UIDs like `[[Z-001-0041]` create empty notes. Always use full format: `[[Title_Z-001-0041]]`
 
-**Verification:** `grep -r '\[\[Z-[0-9]\{4\}-[0-9]\{4\}\]\]' 01-Literature/ 03-Zettels/` should return nothing.
+**Verification:** `grep -r '\[\[Z-[0-9]\{4\}-[0-9]\{4\}\]\]' 03-Zettels/` should return nothing.
 
-**Use Plain Text WHEN:**
-- Generic concepts: "insulin resistance" (not ``)
-- Flow narrative: reading should be smooth
-- Already linked nearby: no duplicate links
+## Related Zettels (Lateral Connections — Luhmann-Style)
 
-**Examples:**
-- `[[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]]|adipic acid]` — specific, useful
-- "Insulin resistance develops gradually" — plain, readable
+**Goal:** 2-3 lateral connections to *content-related* notes (not hierarchical)
 
-## Related Zettels
+- [[{{Related_Zettel_1}}_{{Z-XXX-XXXX}}]] — {{Connection: how ideas relate}}
+- [[{{Related_Zettel_2}}_{{Z-XXX-XXXX}}]] — {{Connection: contrast or support}}
 
-- [[{{Related_Zettel_1}}_{{Z-XXX-XXXX}}] — {{Connection}}
-- [[{{Related_Zettel_2}}_{{Z-XXX-XXXX}}] — {{Connection}}
+**Principle:** These create the "thinking graph" — serendipity through connection
 
 ## Synthesis Links
 
