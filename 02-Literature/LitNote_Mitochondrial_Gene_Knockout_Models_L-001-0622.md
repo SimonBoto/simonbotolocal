@@ -13,7 +13,7 @@ relevance: High — Mitochondrial dysfunction in metabolic disease and neurodege
 aliases: [L-001-0622, Mitochondrial Knockout, mtDNA Mutations, Energy Failure]
 domain: 001
 tags: [litnote, mitochondria, knockout, mtDNA, oxidative-phosphorylation, disease-models]
-source: "[[CGPT_0311_Self_Education_Program_Plan_[CGPT-0311]]]"
+source: "[[CGPT_0311_Self_Education_Program_Plan_[CGPT-0311]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
@@ -199,10 +199,10 @@ extraction-date: 2026-03-08
 ## Connections
 
 **Related Zettels:**
-- [[Mitochondrial_Knockout_Models_Disease_[Z-001-1166].md]] — To create
-- [[mtDNA_Mutations_Cancer_Metastasis_[Z-001-1167].md]] — To create
-- [[Mitochondrial_Dynamics_Fusion_Fission_[Z-001-1168].md]] — To create
-- [[Respiratory_Chain_Complex_Deficiencies_[Z-001-1169].md]] — To create
+- [[Mitochondrial_Knockout_Models_Disease_Z-001-1166]] — To create
+- [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]] — To create
+- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]] — To create
+- [[Respiratory_Chain_Complex_Deficiencies_Z-001-1169]] — To create
 
 **MOCs:**
 -  — Primary domain

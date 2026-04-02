@@ -10,7 +10,7 @@ uid: X-VIT-241203-00
 type: extracted-insight
 title: "I was thinking to present the metabolic Imabalances and components of mets, then..."
 date: 2024-12-03
-source: "[[CGPT_0230_Synergy_of_D_and_K2_[CGPT-0230]]]"
+source: "[[CGPT_0230_Synergy_of_D_and_K2_[CGPT-0230]]"
 aliases: [X-VIT-241203-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
@@ -56,7 +56,7 @@ And use bullets to provide the info that must be included
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
 
 ## Status
 

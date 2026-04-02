@@ -15,7 +15,7 @@ extraction-date: 2026-03-09
 # Vitamin D and K2 Synergy in Metabolic Syndrome
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_[CGPT-0230]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_[CGPT-0230]]
 - **Date:** December 3, 2024
 - **Messages:** 85
 - **Context:** Narrative review outline for VitD/K2 co-supplementation in MetS
@@ -45,10 +45,10 @@ Combined → Functional matrix Gla-protein, osteocalcin
 - **Osteocalcin:** Metabolic hormone (insulin sensitivity, adiponectin)
 
 ## Zettels Created
-1. [[Vitamin_D_K2_Synergistic_Mechanism_[Z-001-1234].md]]
-2. [[Matrix_Gla_Protein_Vascular_Health_[Z-001-1235].md]]
-3. [[Osteocalcin_Metabolic_Hormone_[Z-001-1236].md]]
-4. [[VitD_K2_Insulin_Resistance_[Z-001-1237].md]]
+1. [[Vitamin_D_K2_Synergistic_Mechanism_Z-001-1234]]
+2. [[Matrix_Gla_Protein_Vascular_Health_Z-001-1235]]
+3. [[Osteocalcin_Metabolic_Hormone_Z-001-1236]]
+4. [[VitD_K2_Insulin_Resistance_Z-001-1237]]
 
 ## Related
 - 

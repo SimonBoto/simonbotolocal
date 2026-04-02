@@ -122,11 +122,11 @@ related: ,
 ```
 MOC-Insulin-Signaling
     ↓
-Insulin_Receptor_Structure_[Z-001-0001]
+Insulin_Receptor_Structure_Z-001-0001]
     ↓
-INSR_Autophosphorylation_Mechanism_[Z-001-0003]
+INSR_Autophosphorylation_Mechanism_Z-001-0003]
     ↓
-IRS_Protein_Recruitment_[Z-001-0005]
+IRS_Protein_Recruitment_Z-001-0005]
 ```
 
 ### Layer 4: Projects (Active Work)

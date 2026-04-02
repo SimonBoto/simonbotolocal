@@ -1,0 +1,92 @@
+---
+uid: Z-001-1039
+type: zettel
+title: Phase 4 Clinical Integration Drills
+aliases: [Z-001-1039, Phase-4-Integration]
+domain: 001
+domain-name: Clinical Training
+tags: [zettel, clinical-integration, case-based-learning]
+parent-moc: 
+source-litnote: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
+source: [[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]
+confidence: high
+created: 2026-03-08
+---
+
+# Phase 4 Clinical Integration Drills
+
+## Overview
+Weeks 7-8 of bootcamp: Synthesizing all knowledge into independent clinical competence.
+
+## Week 7: Integration — The Skill They Actually Need
+
+### Multi-Modal Data Merge
+Trainees learn to integrate simultaneously:
+- OAT (organic acids)
+- Total fatty acids
+- Basic labs (CBC, CMP, lipids)
+- Clinical picture (symptoms, history)
+
+### Three Integration Algorithms
+
+#### Algorithm 1: Energy-First Reasoning
+> "Is this primarily an energy problem?"
+- Check: Lactate, pyruvate, BHB, l markers
+- Priority:  support before other interventions
+- Sequence: ATP before detox, gut, hormones
+
+#### Algorithm 2: Cellular Detox + Methylation
+> "Are detoxification or methylation blocked?"
+- Check: Organic acid toxin markers, homocysteine, MTHFR status
+- Priority: Support clearance pathways
+- Caution: Don't stimulate detox without energy base
+
+#### Algorithm 3: Membrane Reconstruction
+> "Is membrane dysfunction driving symptoms?"
+- Check: Omega-3 index, omega-6:3 ratio, phospholipid markers
+- Priority: Lipid repair through diet + targeted supplements
+- Timeline: Months, not weeks
+
+## Week 8: Clinical Practice Drills
+
+### Daily Structure
+| Component | Purpose |
+|-----------|---------|
+| One case | Pattern recognition speed |
+| One treatment plan | Prescribing logic |
+| One follow-up scenario | Longitudinal thinking |
+| One communication rehearsal | Patient interaction |
+
+### Presentation Standards
+Cases must be:
+- **Concise** — No rambling, structured format
+- **Mechanistic** — Explain *why*, not just *what*
+- **Human** — Connect to patient's life
+- **Personalized** — No cookie-cutter approaches
+
+## Competency Targets (Graduation Checklist)
+By end of Week 8, trainees must demonstrate:
+- [ ] Interpret OAT without drowning
+- [ ] Read fatty acids like an x-ray
+- [ ] Build personalized, mechanistic regimens
+- [ ] Understand patient's metabolic story
+- [ ] Speak patient-friendly language
+- [ ] Fit into clinic workflow without chaos
+
+## The Goal
+> "This produces  clinicians, not pathway parrots."
+
+## Related
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]]
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]]
+- 
+
+---
+*Source: CGPT-0022 — ChatGPT training synthesis*
+
+
+## RELATED FILES
+- [[Methylation_Family_[B-004-0001]|Biomarker Family]]
+- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]]
+- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]]
+- 

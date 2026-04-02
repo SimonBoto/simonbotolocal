@@ -121,12 +121,12 @@ Matrix (Krebs) → Intermembrane Space (ETC) → ATP Synthase (ATP)
 
 ## Zettels Extracted
 
-1. [[Mitochondrial_Membrane_Structure_[Z-001-12XX].md]] — Outer/inner membrane architecture
-2. [[Cristae_Function_ETC_[Z-001-12XX].md]] — Cristae and energy production
-3. [[ATP_Synthase_Mechanism_[Z-001-12XX].md]] — ATP production machinery
-4. [[mtDNA_Genetics_[Z-001-12XX].md]] — Mitochondrial genetics basics
-5. [[Isoprenol_Structure_Function_[Z-001-12XX].md]] — Isoprenol biochemistry
-6. [[CoQ10_Mitochondrial_Support_[Z-001-12XX].md]] — CoQ10 mechanisms
+1. [[Mitochondrial_Membrane_Structure_Z-001-12XX]] — Outer/inner membrane architecture
+2. [[Cristae_Function_ETC_Z-001-12XX]] — Cristae and energy production
+3. [[ATP_Synthase_Mechanism_Z-001-12XX]] — ATP production machinery
+4. [[mtDNA_Genetics_Z-001-12XX]] — Mitochondrial genetics basics
+5. [[Isoprenol_Structure_Function_Z-001-12XX]] — Isoprenol biochemistry
+6. [[CoQ10_Mitochondrial_Support_Z-001-12XX]] — CoQ10 mechanisms
 
 ---
 

@@ -4,7 +4,7 @@ type: litnote
 title: Hyperinsulinemia and Metabolic Inflexibility — Mechanisms of Beta-Oxidation Inhibition
 aliases: [L-001-0654]
 domain: 001
-source: "[[CGPT_0647_ATP_Pathways_Overview_[CGPT-0647].md]]"
+source: "[[CGPT_0647_ATP_Pathways_Overview_[CGPT-0647]]"
 extraction-date: 2026-03-11
 author: ChatGPT Analysis (CGPT-0647)
 tags: [litnote, insulin-resistance, metabolic-flexibility, beta-oxidation, CPT-1, hyperinsulinemia]
@@ -16,7 +16,7 @@ status: conscious
 
 > **Source:** ChatGPT CGPT-0647 (April 30, 2023)  
 > **Conversation:** ATP Pathways Overview — Messages 3-4, 15-16  
-> **Archive:** [[CGPT_0647_ATP_Pathways_Overview_[CGPT-0647].md]] (38 messages)
+> **Archive:** [[CGPT_0647_ATP_Pathways_Overview_[CGPT-0647]] (38 messages)
 
 ---
 
@@ -102,7 +102,7 @@ Hyperinsulinemia systematically suppresses fatty acid oxidation through dual mec
 
 - **Next in series:** [[L-001-0655_Ketone_Body_Metabolism_Deep_Dive]] — Alternative fuel pathways
 - **PhD Connection:** [[L-001-0656_Dicarboxylic_Acids_Beta_Oxidation_Defects]] — Adipic acid clinical significance
-- **Source conversation:** [[CGPT_0647_ATP_Pathways_Overview_[CGPT-0647].md]]
+- **Source conversation:** [[CGPT_0647_ATP_Pathways_Overview_[CGPT-0647]]
 
 ---
 

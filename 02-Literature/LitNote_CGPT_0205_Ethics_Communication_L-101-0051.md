@@ -16,7 +16,7 @@ extraction-date: 2026-03-28
 # Lit: Ethics Committee Communication — Practical Guidance
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0205_Ethics_Committee_Follow_Up_[CGPT-0205].md]]
+- **ChatGPT conversation:** [[CGPT_0205_Ethics_Committee_Follow_Up_[CGPT-0205]]
 - **Date:** January 9, 2025
 - **Messages:** 4
 - **ID:** 677fa135
@@ -72,11 +72,11 @@ PhD candidate experiencing 6-month delay in ethics committee response; seeking g
 - Maintain professional relationship with committee
 
 ## Zettels Created
-1. [[IRB_Communication_Best_Practices_[Z-101-0481].md]] — Practical guidance for ethics committee interaction
+1. [[IRB_Communication_Best_Practices_Z-101-0481]] — Practical guidance for ethics committee interaction
 
 ## Connections
-- **Ethics framework:** [[Emanuel_Seven_Requirements_Ethical_Research_[Z-101-0478].md]]
-- **IRB action items:** [[METHAP_IRB_Feedback_Action_Items_[Z-101-0473].md]]
+- **Ethics framework:** [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]]
+- **IRB action items:** [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]]
 
 ## Extraction Notes
 - **Focus:** Practical communication guidance

@@ -61,7 +61,7 @@ tags: [ref, biomarker-discovery, clinical-pharma
 ## 🔗 Connected to Our Work
 
 ### Methods
-- [[METHAP_Intervention_Protocol_Diet_Supplements_[Z-001-1142]]] — Pharmacometabolomics integration
+- [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]] — Pharmacometabolomics integration
 
 ---
 

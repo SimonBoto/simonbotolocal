@@ -17,7 +17,7 @@ source-verified: 2026-03-01
 # Lit: Aconitase Enzyme — Structure, Mechanism, and Iron-Sulfur Cluster
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_[CGPT-0393]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_[CGPT-0393]]
 - **Date:** May 15, 2024
 - **Scope:** Aconitase enzymology, iron-sulfur cluster biochemistry, clinical implications
 
@@ -63,7 +63,7 @@ Overall: Citrate ⇌ Isocitrate
 - **Pull mechanism:** Rapid consumption of isocitrate by isocitrate dehydrogenase drives forward flux
 - **Control point:** Not rate-limiting, but essential for cycle continuity
 
-**Zettels extracted:** [[Aconitase_Catalytic_Mechanism_[Z-001-0541].md]]
+**Zettels extracted:** [[Aconitase_Catalytic_Mechanism_Z-001-0541]]
 
 ### 2. Iron-Sulfur Cluster — The Catalytic Heart
 > "Aconitase requires a [4Fe-4S]²⁺ iron-sulfur cluster for catalytic activity, with the unique iron atom (Feₐ) coordinating substrate and mediating the Lewis acid catalysis essential for citrate isomerization."
@@ -122,7 +122,7 @@ Overall: Citrate ⇌ Isocitrate
 - Ancient biochemistry (pre-oxygen Earth)
 - Essential for anaerobic metabolism
 
-**Zettels extracted:** [[Iron_Sulfur_Cluster_Biochemistry_[Z-001-0542].md]]
+**Zettels extracted:** [[Iron_Sulfur_Cluster_Biochemistry_Z-001-0542]]
 
 ### 3. Iron Requirement and Clinical Deficiency
 > "Adequate iron status is essential for aconitase function, with iron deficiency impairing Fe-S cluster assembly and leading to citrate accumulation, while iron overload causes oxidative damage through Fenton chemistry."
@@ -167,7 +167,7 @@ Fe²⁺ + H₂O₂ → Fe³⁺ + OH• + OH⁻
 - Monitor ferritin, transferrin saturation
 - Individual variation in iron requirements
 
-**Zettels extracted:** [[Iron_Metabolism_Aconitase_Function_[Z-001-0543].md]]
+**Zettels extracted:** [[Iron_Metabolism_Aconitase_Function_Z-001-0543]]
 
 ### 4. Cytosolic Aconitase — Dual Function
 > "Mammalian cells express two aconitase isoforms: mitochondrial aconitase (m-aconitase) essential for the Krebs cycle, and cytosolic aconitase (c-aconitase), which functions both as a metabolic enzyme and as the iron regulatory protein IRP1."
@@ -200,7 +200,7 @@ Fe²⁺ + H₂O₂ → Fe³⁺ + OH• + OH⁻
 - Explains why iron deficiency affects both
 - Therapeutic target for iron disorders
 
-**Zettels extracted:** [[Cytosolic_Aconitase_IRP1_Dual_Function_[Z-001-0544].md]]
+**Zettels extracted:** [[Cytosolic_Aconitase_IRP1_Dual_Function_Z-001-0544]]
 
 ---
 
@@ -226,10 +226,10 @@ Fe²⁺ + H₂O₂ → Fe³⁺ + OH• + OH⁻
 ---
 
 ## Zettels Created from This Source (Batch 2/4)
-1. [[Aconitase_Catalytic_Mechanism_[Z-001-0541].md]]
-2. [[Iron_Sulfur_Cluster_Biochemistry_[Z-001-0542].md]]
-3. [[Iron_Metabolism_Aconitase_Function_[Z-001-0543].md]]
-4. [[Cytosolic_Aconitase_IRP1_Dual_Function_[Z-001-0544].md]]
+1. [[Aconitase_Catalytic_Mechanism_Z-001-0541]]
+2. [[Iron_Sulfur_Cluster_Biochemistry_Z-001-0542]]
+3. [[Iron_Metabolism_Aconitase_Function_Z-001-0543]]
+4. [[Cytosolic_Aconitase_IRP1_Dual_Function_Z-001-0544]]
 
 ---
 

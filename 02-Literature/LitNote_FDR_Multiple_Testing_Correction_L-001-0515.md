@@ -13,7 +13,7 @@ relevance: High — Core statistical methodology for PhD metabolomics work
 aliases: [L-001-0515, FDR Correction, Benjamini-Hochberg Procedure, Multiple Testing, Type I Error Control]
 domain: 001
 tags: [litnote, fdr, multiple-testing, benjamini-hochberg, type-1-error, metabolomics, statistics, exploratory-research, confirmatory-research]
-source: "[[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328]]]"
+source: "[[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-03
@@ -194,11 +194,11 @@ Every metabolomics study should report:
 
 ## 8. Related Zettels
 
-- [[Benjamini_Hochberg_Procedure_[Z-001-0524]]] — Benjamini-Hochberg Procedure Mechanics
-- [[FDR_Threshold_Selection_[Z-001-0932]]] — FDR 0.1 vs 0.05 Selection Framework
-- [[Exploratory_vs_Confirmatory_Research_Standards_[Z-001-0526]]] — Exploratory vs Confirmatory Research Standards
-- [[Multiple_Testing_Burden_High_Dimensional_Data_[Z-001-0934]]] — Multiple Testing Burden in High-Dimensional Data
-- [[Biomarker_Validation_Requirements_[Z-001-0528]]] — Validation Requirements for Biomarker Translation
+- [[Benjamini_Hochberg_Procedure_Z-001-0524]] — Benjamini-Hochberg Procedure Mechanics
+- [[FDR_Threshold_Selection_Z-001-0932]] — FDR 0.1 vs 0.05 Selection Framework
+- [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526]] — Exploratory vs Confirmatory Research Standards
+- [[Multiple_Testing_Burden_High_Dimensional_Data_Z-001-0934]] — Multiple Testing Burden in High-Dimensional Data
+- [[Biomarker_Validation_Requirements_Z-001-0528]] — Validation Requirements for Biomarker Translation
 - [[LitNote_Power_Analysis_Metabolomics_L-001-0514]] — Power Analysis and Sample Size Requirements
 
 ---
@@ -212,4 +212,4 @@ Every metabolomics study should report:
 
 ---
 
-*Source: [[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328]]] | Part of CGPT-0328 Batch 2/3*
+*Source: [[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328]] | Part of CGPT-0328 Batch 2/3*

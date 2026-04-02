@@ -50,16 +50,16 @@ quality-score: "{{high|medium|low}}"
 ## 🔗 Connections
 
 ### Extracted Zettels
-- [[{{Zettel_Title}}_[{{Zettel_UID}}]]] — {{Description}}
+- [[{{Zettel_Title}}_[{{Zettel_UID}}]] — {{Description}}
 
 ### Supports Claims
-- [[{{Zettel_Title}}_[{{Zettel_UID}}]]] — {{How it supports}}
+- [[{{Zettel_Title}}_[{{Zettel_UID}}]] — {{How it supports}}
 
 ### Methods Source
-- [[{{Zettel_Title}}_[{{Zettel_UID}}]]] — {{Methodology}}
+- [[{{Zettel_Title}}_[{{Zettel_UID}}]] — {{Methodology}}
 
 ### Related References
-- [[{{Reference_Title}}_[{{Reference_UID}}]]] — {{Connection}}
+- [[{{Reference_Title}}_[{{Reference_UID}}]] — {{Connection}}
 
 ---
 

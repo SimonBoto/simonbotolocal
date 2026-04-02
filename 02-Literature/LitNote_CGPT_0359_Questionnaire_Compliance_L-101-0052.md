@@ -16,7 +16,7 @@ extraction-date: 2026-03-28
 # Lit: Questionnaire Compliance — Ethics Application Strategies
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0359_Compliance_and_Approval_Process_[CGPT-0359].md]]
+- **ChatGPT conversation:** [[CGPT_0359_Compliance_and_Approval_Process_[CGPT-0359]]
 - **Date:** June 9, 2024
 - **Messages:** 27
 - **ID:** f2fe6b3a
@@ -135,12 +135,12 @@ Seeking ethics approval for multiple questionnaires (SF-36, FFQ, Numex, 24-hour 
 | **Alcohol** | Substance use | Sensitivity; confidentiality |
 
 ## Zettels Created
-1. [[Questionnaire_Ethics_Approval_Strategies_[Z-101-0482].md]] — Practical guidance for multi-instrument studies
+1. [[Questionnaire_Ethics_Approval_Strategies_Z-101-0482]] — Practical guidance for multi-instrument studies
 
 ## Connections
-- **IRB communication:** [[IRB_Communication_Best_Practices_[Z-101-0481].md]]
-- **Consent framework:** [[METHAP_Informed_Consent_Framework_[Z-101-0474].md]]
-- **Seven requirements:** [[Emanuel_Seven_Requirements_Ethical_Research_[Z-101-0478].md]]
+- **IRB communication:** [[IRB_Communication_Best_Practices_Z-101-0481]]
+- **Consent framework:** [[METHAP_Informed_Consent_Framework_Z-101-0474]]
+- **Seven requirements:** [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]]
 
 ## Extraction Notes
 - **Focus:** Practical application strategies

@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Seed Oils, Omega-6/Omega-3 Ratio, and Inflammation
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0074_Seven_Countries_Study_Summary_[CGPT-0074]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0074_Seven_Countries_Study_Summary_[CGPT-0074]]
 - **Date:** Analysis of Seven Countries Study and dietary fat research
 - **Scope:** Seed oils, omega-6/omega-3 ratio, fatty acid metabolism, inflammation, metabolic disease
 
@@ -80,7 +80,7 @@ Docosahexaenoic Acid (DHA, 22:6 n-3)
 - **5:1:** Positive impact on asthma
 - **10:1:** Upper limit of acceptability
 
-**Zettels extracted:** [[Omega_6_Omega_3_Ratio_Evolutionary_Modern_[Z-001-0516].md]]
+**Zettels extracted:** [[Omega_6_Omega_3_Ratio_Evolutionary_Modern_Z-001-0516]]
 
 ### 2. Seed Oils — Production, Composition, and Metabolic Impact
 > "Industrial seed oils (soybean, corn, canola, safflower, sunflower) became dietary staples in the late 20th century, displacing traditional fats and dramatically increasing linoleic acid consumption."
@@ -147,7 +147,7 @@ Docosahexaenoic Acid (DHA, 22:6 n-3)
 - Type 2 diabetes risk
 - Cardiovascular disease
 
-**Zettels extracted:** [[Seed_Oils_Production_Metabolic_Impact_[Z-001-0517].md]]
+**Zettels extracted:** [[Seed_Oils_Production_Metabolic_Impact_Z-001-0517]]
 
 ### 3. The Seven Countries Study — Reassessment
 > "Ancel Keys' Seven Countries Study (1958-1964) shaped global dietary guidelines, but modern reassessment reveals complexities in the saturated fat-heart disease hypothesis."
@@ -212,7 +212,7 @@ Docosahexaenoic Acid (DHA, 22:6 n-3)
 - Metabolic syndrome common
 - Questionable cardiovascular benefit
 
-**Zettels extracted:** [[Seven_Countries_Study_Reassessment_[Z-001-0518].md]]
+**Zettels extracted:** [[Seven_Countries_Study_Reassessment_Z-001-0518]]
 
 ### 4. Olive Oil — The Mediterranean Advantage
 > "Olive oil, rich in monounsaturated oleic acid, appears to be the true protective factor in Mediterranean diets, offering metabolic stability and anti-inflammatory benefits."
@@ -264,7 +264,7 @@ Docosahexaenoic Acid (DHA, 22:6 n-3)
 **Clinical Recommendation:**
 > "Build your fat base around stable, monounsaturated-rich fats — especially olive oil — rather than seed oils or processed animal fats."
 
-**Zettels extracted:** [[Olive_Oil_Mediterranean_Advantage_[Z-001-0519].md]]
+**Zettels extracted:** [[Olive_Oil_Mediterranean_Advantage_Z-001-0519]]
 
 ### 5. Fatty Acid Metabolism — Enzymatic Pathways
 > "The desaturase and elongase enzymes that process essential fatty acids are shared between omega-6 and omega-3 pathways, creating metabolic competition that determines inflammatory output."
@@ -324,7 +324,7 @@ Docosahexaenoic Acid (DHA, 22:6 n-3)
 - Some populations better converters
 - May explain individual variation in response
 
-**Zettels extracted:** [[Fatty_Acid_Metabolism_Enzymatic_Pathways_[Z-001-0520].md]]
+**Zettels extracted:** [[Fatty_Acid_Metabolism_Enzymatic_Pathways_Z-001-0520]]
 
 ### 6. Practical Dietary Strategies
 > "Optimizing fatty acid intake requires reducing seed oils, increasing omega-3s, favoring monounsaturated fats, and understanding cooking stability of different fats."
@@ -412,7 +412,7 @@ Docosahexaenoic Acid (DHA, 22:6 n-3)
 - Anti-inflammatory combined effect
 - Consider purity (molecular distillation)
 
-**Zettels extracted:** [[Fatty_Acid_Dietary_Strategies_[Z-001-0521].md]]
+**Zettels extracted:** [[Fatty_Acid_Dietary_Strategies_Z-001-0521]]
 
 ---
 
@@ -441,12 +441,12 @@ Docosahexaenoic Acid (DHA, 22:6 n-3)
 ---
 
 ## Zettels Created from This Source
-1. [[Omega_6_Omega_3_Ratio_Evolutionary_Modern_[Z-001-0516].md]]
-2. [[Seed_Oils_Production_Metabolic_Impact_[Z-001-0517].md]]
-3. [[Seven_Countries_Study_Reassessment_[Z-001-0518].md]]
-4. [[Olive_Oil_Mediterranean_Advantage_[Z-001-0519].md]]
-5. [[Fatty_Acid_Metabolism_Enzymatic_Pathways_[Z-001-0520].md]]
-6. [[Fatty_Acid_Dietary_Strategies_[Z-001-0521].md]]
+1. [[Omega_6_Omega_3_Ratio_Evolutionary_Modern_Z-001-0516]]
+2. [[Seed_Oils_Production_Metabolic_Impact_Z-001-0517]]
+3. [[Seven_Countries_Study_Reassessment_Z-001-0518]]
+4. [[Olive_Oil_Mediterranean_Advantage_Z-001-0519]]
+5. [[Fatty_Acid_Metabolism_Enzymatic_Pathways_Z-001-0520]]
+6. [[Fatty_Acid_Dietary_Strategies_Z-001-0521]]
 
 ---
 

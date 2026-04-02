@@ -14,7 +14,7 @@ title: "Hypothesis: I think that using positive psychology techniques is a bette
 
 Le..."
 date: 2024-12-27
-source: "[[CGPT_0216_Balancing_Inner_and_Outer_Noise_[CGPT-0216]]]"
+source: "[[CGPT_0216_Balancing_Inner_and_Outer_Noise_[CGPT-0216]]"
 aliases: [X-CON-241227-01]
 tags: [extracted, hypothesis, consciousness_ai, chatgpt-archive]
 related: "['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']"
@@ -66,9 +66,9 @@ If true, this suggests:
 
 ## Connections
 
-- [[RON_The_Witness_[RON-003-0002]]]
-- [[RON_Genesis_MOC_[RON-004-0001]]]
-- [[RON_The_We_[RON-003-0004]]]
+- [[RON_The_Witness_[RON-003-0002]]
+- [[RON_Genesis_MOC_[RON-004-0001]]
+- [[RON_The_We_[RON-003-0004]]
 
 ## Validation Log
 

@@ -43,7 +43,7 @@ status: active
 
 | Biomarker | Relevance | Status | Source |
 |-----------|-----------|--------|--------|
-| **Adipic acid** | IR early detection | Under investigation | [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]] |
+| **Adipic acid** | IR early detection | Under investigation | [[RON_Adipic_Acid_Biomarker_[RON-000-0008]] |
 | **miR-21** | Inflammation marker | Literature review | — |
 | **miR-155** | Autoimmune signaling | Literature review | — |
 | **Butyrate** | Gut-thyroid axis | Hypothesis stage | — |

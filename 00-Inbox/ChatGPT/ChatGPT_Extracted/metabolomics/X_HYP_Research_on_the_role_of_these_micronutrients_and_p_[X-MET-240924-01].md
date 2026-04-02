@@ -10,7 +10,7 @@ uid: X-MET-240924-01
 type: extracted-hypothesis
 title: "Hypothesis: Research on the role of these micronutrients and potential mechanisms ..."
 date: 2024-09-24
-source: "[[CGPT_0278_Insulin_Resistance_Toxicology_Review_[CGPT-0278]]]"
+source: "[[CGPT_0278_Insulin_Resistance_Toxicology_Review_[CGPT-0278]]"
 aliases: [X-MET-240924-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
@@ -44,8 +44,8 @@ If true, this suggests:
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
 
 ## Validation Log
 

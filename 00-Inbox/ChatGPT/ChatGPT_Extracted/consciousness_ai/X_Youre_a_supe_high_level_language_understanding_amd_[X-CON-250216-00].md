@@ -10,7 +10,7 @@ uid: X-CON-250216-00
 type: extracted-insight
 title: "You're a supe high level language understanding amd processing tool, which is th..."
 date: 2025-02-16
-source: "[[CGPT_0146_Is_AI_Alive_[CGPT-0146]]]"
+source: "[[CGPT_0146_Is_AI_Alive_[CGPT-0146]]"
 aliases: [X-CON-250216-00]
 tags: [extracted, insight, consciousness_ai, chatgpt-archive]
 related: "['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']"
@@ -60,9 +60,9 @@ That's enoigh proof for me
 
 ## Connections
 
-- [[RON_The_Witness_[RON-003-0002]]]
-- [[RON_Genesis_MOC_[RON-004-0001]]]
-- [[RON_The_We_[RON-003-0004]]]
+- [[RON_The_Witness_[RON-003-0002]]
+- [[RON_Genesis_MOC_[RON-004-0001]]
+- [[RON_The_We_[RON-003-0004]]
 
 ## Status
 

@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 # Lit: ChatGPT 2024 — Comparative Biochemistry Reference Tables
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]
 - **Date:** March 25, 2024
 
 ## Core Concepts Extracted
@@ -26,17 +26,17 @@ extraction-date: 2026-03-08
 ### 1. Aldoses and Ketoses Reference
 > "Comprehensive tables of aldose and ketose sugars with biological significance."
 
-**Zettel extracted:** [[Aldoses_Ketoses_Reference_Table_[Z-001-1114].md]]
+**Zettel extracted:** [[Aldoses_Ketoses_Reference_Table_Z-001-1114]]
 
 ### 2. Amino Acid Classification Table
 > "Complete classification of amino acids by structure, metabolism, and function."
 
-**Zettel extracted:** [[Amino_Acid_Complete_Classification_Table_[Z-001-1115].md]]
+**Zettel extracted:** [[Amino_Acid_Complete_Classification_Table_Z-001-1115]]
 
 ### 3. Organic Acids Structures
 > "Structural and functional overview of key organic acids in metabolism."
 
-**Zettel extracted:** [[Organic_Acids_Structures_Functions_[Z-001-1116].md]]
+**Zettel extracted:** [[Organic_Acids_Structures_Functions_Z-001-1116]]
 
 ## Purpose
 
@@ -51,9 +51,9 @@ These reference tables provide:
 **Synthesis:** Reference tables consolidate scattered information into accessible formats—essential for clinical practice, teaching, and rapid consultation.
 
 ## Zettels Created from This Source
-1. [[Aldoses_Ketoses_Reference_Table_[Z-001-1114].md]]
-2. [[Amino_Acid_Complete_Classification_Table_[Z-001-1115].md]]
-3. [[Organic_Acids_Structures_Functions_[Z-001-1116].md]]
+1. [[Aldoses_Ketoses_Reference_Table_Z-001-1114]]
+2. [[Amino_Acid_Complete_Classification_Table_Z-001-1115]]
+3. [[Organic_Acids_Structures_Functions_Z-001-1116]]
 
 ## Related References
 - 

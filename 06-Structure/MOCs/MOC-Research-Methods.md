@@ -17,30 +17,30 @@ Statistical methodology, study design, and clinical research standards for metab
 ## 🎯 Core Statistical Methods
 
 ### Power Analysis & Sample Size
-- [[Power_Analysis_Formula_Metabolomics_[Z-001-0521].md]] — Sample size calculation for omics
-- [[Underpowered_Study_Consequences_[Z-001-0522].md]] — Risks of insufficient power
-- [[Sample_Size_Strategies_PhD_[Z-001-0523].md]] — Practical PhD strategies
+- [[Power_Analysis_Formula_Metabolomics_Z-001-0521]] — Sample size calculation for omics
+- [[Underpowered_Study_Consequences_Z-001-0522]] — Risks of insufficient power
+- [[Sample_Size_Strategies_PhD_Z-001-0523]] — Practical PhD strategies
 
 ### Multiple Testing Correction
-- [[Benjamini_Hochberg_Procedure_[Z-001-0524].md]] — FDR control mechanics
-- [[FDR_Threshold_Selection_[Z-001-0525].md]] — 0.1 vs 0.05 selection framework
-- [[Multiple_Testing_Burden_High_Dimensional_Data_[Z-001-0527].md]] — High-dimensional data challenges
+- [[Benjamini_Hochberg_Procedure_Z-001-0524]] — FDR control mechanics
+- [[FDR_Threshold_Selection_Z-001-0525]] — 0.1 vs 0.05 selection framework
+- [[Multiple_Testing_Burden_High_Dimensional_Data_Z-001-0527]] — High-dimensional data challenges
 
 ### Study Design
-- [[Exploratory_vs_Confirmatory_Research_Standards_[Z-001-0526].md]] — Research phase standards
-- [[Biomarker_Validation_Requirements_[Z-001-0528].md]] — Validation pipeline
+- [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526]] — Research phase standards
+- [[Biomarker_Validation_Requirements_Z-001-0528]] — Validation pipeline
 
 ---
 
 ## 🔍 Exploratory vs Confirmatory Research
 
 ### Phase Definitions
-- [[Exploratory_vs_Confirmatory_Definitions_[Z-001-0558].md]] — Distinction and standards
-- [[Exploratory_Excuse_Pitfall_Case_Study_[Z-001-0559].md]] — Misclassification example
+- [[Exploratory_vs_Confirmatory_Definitions_Z-001-0558]] — Distinction and standards
+- [[Exploratory_Excuse_Pitfall_Case_Study_Z-001-0559]] — Misclassification example
 
 ### Validation Framework
-- [[Biomarker_Validation_Pipeline_Requirements_[Z-001-0560].md]] — Five-stage pipeline
-- [[Effect_Size_Practical_Significance_Omics_[Z-001-0561].md]] — Effect size requirements
+- [[Biomarker_Validation_Pipeline_Requirements_Z-001-0560]] — Five-stage pipeline
+- [[Effect_Size_Practical_Significance_Omics_Z-001-0561]] — Effect size requirements
 
 ---
 

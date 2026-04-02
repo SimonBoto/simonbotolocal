@@ -115,7 +115,7 @@ grep -nE "\[\+\[|\[\+\][^\]]*\]\]" /path/to/file.md
 - [ ] Wrong format: `[Link]` instead of `` ❌
 
 **Fix pattern:**
-- `[[Name_[Z-001-0001]]]` → `[[Name_Z-001-0001]]`
+- `[[Name_Z-001-0001]]` → `[[Name_Z-001-0001]]`
 
 **Why:** Prevents broken graph connections (Z-001-0020 error)
 

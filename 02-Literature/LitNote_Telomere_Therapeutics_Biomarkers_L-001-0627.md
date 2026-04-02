@@ -13,7 +13,7 @@ relevance: High — Clinical translation potential
 aliases: [L-001-0627, Telomere Therapeutics, Biomarkers, Treatment Strategies]
 domain: 001
 tags: [litnote, therapeutics, biomarkers, telomeres, autoimmunity, precision-medicine]
-source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_[CGPT-0520]]]"
+source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_[CGPT-0520]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
@@ -214,10 +214,10 @@ extraction-date: 2026-03-08
 ## Connections
 
 **Related Zettels:**
-- [[Exercise_Telomere_Protection_[Z-001-1186].md]] — To create
-- [[Stress_Telomere_Shortening_[Z-001-1187].md]] — To create
-- [[Nutritional_Telomere_Support_[Z-001-1188].md]] — To create
-- [[Telomere_Biomarker_Clinical_Use_[Z-001-1189].md]] — To create
+- [[Exercise_Telomere_Protection_Z-001-1186]] — To create
+- [[Stress_Telomere_Shortening_Z-001-1187]] — To create
+- [[Nutritional_Telomere_Support_Z-001-1188]] — To create
+- [[Telomere_Biomarker_Clinical_Use_Z-001-1189]] — To create
 
 **MOCs:**
 -  — Primary domain

@@ -30,49 +30,49 @@ extraction-date: 2026-03-27
 
 Research without social or clinical value is unethical regardless of other safeguards. The question must be important enough to justify exposing participants to risk.
 
-**Zettel extracted:** [[Social_Clinical_Value_Ethical_Research_[Z-002-0601].md]]
+**Zettel extracted:** [[Social_Clinical_Value_Ethical_Research_Z-002-0601]]
 
 ### 2. Scientific Validity (Professional Competence)
 > "The methodology must be scientifically sound and rigorous. Poorly designed research that cannot reliably yield useful knowledge is unethical, as it exposes participants to risk without potential benefit."
 
 Invalid research wastes resources and exploits participants. Methodological rigor is an ethical requirement, not merely a scientific preference.
 
-**Zettel extracted:** [[Scientific_Validity_Ethical_Requirement_[Z-002-0602].md]]
+**Zettel extracted:** [[Scientific_Validity_Ethical_Requirement_Z-002-0602]]
 
 ### 3. Fair Subject Selection
 > "Subjects should be chosen based on scientific objectives rather than vulnerability or convenience. Risks and benefits must be fairly distributed, avoiding exploitation of vulnerable groups."
 
 Selection must be scientifically justified, not based on ease of access or social vulnerability. Vulnerable populations require additional protections.
 
-**Zettel extracted:** [[Fair_Subject_Selection_Ethics_[Z-002-0603].md]]
+**Zettel extracted:** [[Fair_Subject_Selection_Ethics_Z-002-0603]]
 
 ### 4. Favorable Risk-Benefit Ratio (Risk Minimization)
 > "Potential benefits must outweigh risks. This assessment must be systematic and thorough, minimizing risks as far as possible."
 
 Risks to participants must be minimized and reasonable in relation to anticipated benefits. Both individual and societal benefits count in this calculation.
 
-**Zettel extracted:** [[Risk_Benefit_Ratio_Ethical_Research_[Z-002-0604].md]]
+**Zettel extracted:** [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]]
 
 ### 5. Independent Review (Accountability, Transparency)
 > "A neutral body (like an Institutional Review Board, IRB) must independently review and approve the research protocol to ensure unbiased judgment and ethical adherence."
 
 Independent review prevents conflicts of interest and ensures community representation in ethical decisions. IRBs serve as gatekeepers.
 
-**Zettel extracted:** [[Independent_Review_IRB_Ethics_[Z-002-0605].md]]
+**Zettel extracted:** [[Independent_Review_IRB_Ethics_Z-002-0605]]
 
 ### 6. Informed Consent (Voluntary Participation)
 > "Participants should provide voluntary, informed consent. They should understand the risks, benefits, and purpose of the study clearly before participating."
 
 Informed consent is necessary but not sufficient for ethical research. Participants must understand and voluntarily agree without coercion.
 
-**Zettel extracted:** [[Informed_Consent_Ethical_Research_[Z-002-0606].md]]
+**Zettel extracted:** [[Informed_Consent_Ethical_Research_Z-002-0606]]
 
 ### 7. Respect for Enrolled Subjects (Non-exploitation, Confidentiality)
 > "Ethical obligations continue after enrollment. Participants' privacy must be protected, their confidentiality maintained, and their well-being monitored during and after the study."
 
 Ongoing obligations include monitoring for adverse events, maintaining confidentiality, and allowing withdrawal without penalty.
 
-**Zettel extracted:** [[Respect_Enrolled_Subjects_Ethics_[Z-002-0607].md]]
+**Zettel extracted:** [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]]
 
 ## Key Framework Insight
 
@@ -99,13 +99,13 @@ This framework applies universally, though adaptations may be needed for local h
 - How should vulnerable populations (elderly, diabetic) be specifically protected in METHAP?
 
 ## Zettels Created from This Source
-1. [[Social_Clinical_Value_Ethical_Research_[Z-002-0601].md]] — Research must answer important questions justifying risk
-2. [[Scientific_Validity_Ethical_Requirement_[Z-002-0602].md]] — Methodological rigor is an ethical requirement
-3. [[Fair_Subject_Selection_Ethics_[Z-002-0603].md]] — Selection based on science, not vulnerability
-4. [[Risk_Benefit_Ratio_Ethical_Research_[Z-002-0604].md]] — Benefits must outweigh minimized risks
-5. [[Independent_Review_IRB_Ethics_[Z-002-0605].md]] — Neutral body ensures unbiased ethical review
-6. [[Informed_Consent_Ethical_Research_[Z-002-0606].md]] — Voluntary, informed participation required
-7. [[Respect_Enrolled_Subjects_Ethics_[Z-002-0607].md]] — Ongoing obligations throughout study
+1. [[Social_Clinical_Value_Ethical_Research_Z-002-0601]] — Research must answer important questions justifying risk
+2. [[Scientific_Validity_Ethical_Requirement_Z-002-0602]] — Methodological rigor is an ethical requirement
+3. [[Fair_Subject_Selection_Ethics_Z-002-0603]] — Selection based on science, not vulnerability
+4. [[Risk_Benefit_Ratio_Ethical_Research_Z-002-0604]] — Benefits must outweigh minimized risks
+5. [[Independent_Review_IRB_Ethics_Z-002-0605]] — Neutral body ensures unbiased ethical review
+6. [[Informed_Consent_Ethical_Research_Z-002-0606]] — Voluntary, informed participation required
+7. [[Respect_Enrolled_Subjects_Ethics_Z-002-0607]] — Ongoing obligations throughout study
 
 ## Related References
 - [[LitNote_Historical_Ethics_Guidelines_L-002-0602]] — Evolution of research ethics frameworks
@@ -121,7 +121,7 @@ This framework applies universally, though adaptations may be needed for local h
 ---
 
 ## Post-Extraction Verification Checklist
-- [x] All zettel links use FULL format: `[[Title_[Z-002-0601].md]]`
-- [x] No bare UIDs: `[[Social_Clinical_Value_Ethical_Research_[Z-002-0601]]]` → will create empty notes
+- [x] All zettel links use FULL format: `[[Title_Z-002-0601]]`
+- [x] No bare UIDs: `[[Social_Clinical_Value_Ethical_Research_Z-002-0601]]` → will create empty notes
 - [x] Verify with: `grep -r '\[\[Z-[0-9]\{4\}-[0-9]\{4\}\]\]' this_file.md` (should return nothing)
 - [x] Concept count matches "Zettels Created from This Source" list

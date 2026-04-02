@@ -10,7 +10,7 @@ uid: X-PER-250313-00
 type: extracted-insight
 title: "I believe we need more harsh solutions."
 date: 2025-03-13
-source: "[[CGPT_0127_Exploration_of_Detailed_Inquiry_[CGPT-0127]]]"
+source: "[[CGPT_0127_Exploration_of_Detailed_Inquiry_[CGPT-0127]]"
 aliases: [X-PER-250313-00]
 tags: [extracted, insight, personal_development, chatgpt-archive]
 related: []

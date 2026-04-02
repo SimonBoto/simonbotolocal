@@ -16,7 +16,7 @@ domain: 001
 # Technical Confounders in Metabolomics — Batch Effects and Artifacts
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328].md]]
+- **ChatGPT conversation:** [[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328]]
 - **Date:** July 14, 2024
 - **Scope:** Line-by-line methodology critique
 - **Focus:** Technical artifacts masquerading as biological signals
@@ -28,7 +28,7 @@ domain: 001
 ### 1. Batch Effects Drive False Discoveries
 > "Separation in OPLS-DA alone doesn't confirm biological relevance. The separation might be due to technical or batch effects... Ensure that potential confounding factors (e.g., batch effects) are accounted for."
 
-**Zettel extracted:** [[Batch_Effects_Detection_Correction_Metabolomics_[Z-001-0939].md]]
+**Zettel extracted:** [[Batch_Effects_Detection_Correction_Metabolomics_Z-001-0939]]
 
 **Reality:**
 - Samples run on different days = different peak intensities
@@ -41,7 +41,7 @@ domain: 001
 ### 2. Sample Preparation Variability
 > "Visual consistency doesn't necessarily confirm statistical significance or biological relevance."
 
-**Zettel extracted:** [[Sample_Preparation_Variability_Control_[Z-001-0940].md]]
+**Zettel extracted:** [[Sample_Preparation_Variability_Control_Z-001-0940]]
 
 **Sources of Variation:**
 - Protein precipitation efficiency
@@ -52,7 +52,7 @@ domain: 001
 ---
 
 ### 3. Instrument Drift and QC Requirements
-**Zettel extracted:** [[Instrument_Drift_QC_Monitoring_Requirements_[Z-001-0941].md]]
+**Zettel extracted:** [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941]]
 
 **The Problem:**
 - Mass spec sensitivity drifts over hours/days

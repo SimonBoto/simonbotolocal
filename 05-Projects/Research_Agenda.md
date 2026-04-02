@@ -81,7 +81,7 @@ Now for the anaylis of the results I want to use pathway analysis, network analy
 **Hypothesis:**  
 “Exploring the Synergy of Vitamin D and Vitamin K2 in Metabolic Syndrome: A Narrative Review of Mechanisms and Therapeutic Implications”...
 
-**Source:** [[X_HYP_Exploring_the_Synergy_of_Vitamin_D_and_Vitamin_K2__[X-INS-241116-01]]] (2024-11-16)  
+**Source:** [[X_HYP_Exploring_the_Synergy_of_Vitamin_D_and_Vitamin_K2__[X-INS-241116-01]] (2024-11-16)  
 **Theme:** insulin_resistance
 
 **Next Steps:**
@@ -271,7 +271,7 @@ Should I be detailed in mechanisms of action, production, activation of vitamin 
 -  — High-level synthesis
 - ] — Theme evolution
 - ] — Methodology development
-- [[RON_ChatGPT_Processing_Workflow_[RON-005-0002]]] — How to process
+- [[RON_ChatGPT_Processing_Workflow_[RON-005-0002]] — How to process
 
 ---
 

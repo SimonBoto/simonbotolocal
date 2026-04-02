@@ -18,7 +18,7 @@ title: "i think full oxidation of palmitic yields 129 atps
 
 ### 118."
 date: 2023-06-23
-source: [[CGPT_0611_MetFlex_Car_Metaphor_Presentation_[CGPT-0611]]]
+source: [[CGPT_0611_MetFlex_Car_Metaphor_Presentation_[CGPT-0611]]
 aliases: [X-MET-230623-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
@@ -70,8 +70,8 @@ Finally include quality in texted references. Minimum 1 per paragraph....
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
 
 ## Status
 

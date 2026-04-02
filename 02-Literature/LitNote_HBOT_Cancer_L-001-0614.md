@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 # Lit: ChatGPT 2024 — Hyperbaric Oxygen Therapy in Cancer
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_[CGPT-0264]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_[CGPT-0264]]
 - **Date:** October 27, 2024
 
 ## Core Concepts Extracted
@@ -26,17 +26,17 @@ extraction-date: 2026-03-08
 ### 1. HBOT Mechanisms in Cancer
 > "Hyperbaric oxygen increases tissue oxygenation, enhances ROS generation, and improves drug delivery and radiation efficacy."
 
-**Zettel extracted:** [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_[Z-001-1138].md]]
+**Zettel extracted:** [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]]
 
 ### 2. Radiosensitization and Treatment Enhancement
 > "HBOT overcomes tumor hypoxia—a major cause of radiation resistance—and may enhance chemotherapy."
 
-**Zettel extracted:** [[HBOT_Radiosensitization_Chemotherapy_Enhancement_[Z-001-1139].md]]
+**Zettel extracted:** [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]]
 
 ### 3. Clinical Applications and Safety
 > "HBOT used for osteoradionecrosis, radiation cystitis, and as adjunctive cancer therapy; generally safe with specific contraindications."
 
-**Zettel extracted:** [[HBOT_Clinical_Applications_Safety_Considerations_[Z-001-1140].md]]
+**Zettel extracted:** [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]]
 
 ## HBOT Parameters
 
@@ -60,13 +60,13 @@ extraction-date: 2026-03-08
 **Synthesis:** HBOT represents an adjunctive metabolic approach to cancer therapy—enhancing oxygen delivery to overcome hypoxia-induced treatment resistance while potentially generating oxidative stress in cancer cells.
 
 ## Zettels Created from This Source
-1. [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_[Z-001-1138].md]]
-2. [[HBOT_Radiosensitization_Chemotherapy_Enhancement_[Z-001-1139].md]]
-3. [[HBOT_Clinical_Applications_Safety_Considerations_[Z-001-1140].md]]
+1. [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]]
+2. [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]]
+3. [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]]
 
 ## Related References
 - 
-- [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_[Z-001-1123].md]]
+- [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]]
 - 
 
 ---

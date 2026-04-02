@@ -20,7 +20,7 @@ status: active
 ## Immediate Next Actions (if needed)
 1. **CRITICAL: Fix filename brackets** — `[` `]` in titles BREAK ALL OBSIDIAN LINKS (RED ALERT)
    - **Scope:** 767 zettels + 100 LitNotes + all templates
-   - **Rename:** `Title_[Z-001-0001].md` → `Title_Z-001-0001.md`
+   - **Rename:** `Title_Z-001-0001].md` → `Title_Z-001-0001.md`
    - **Update:** 3,007+ wiki links across vault
    - **Fix:** All 8 templates
    - **Verify:** Every link works in Obsidian before proceeding

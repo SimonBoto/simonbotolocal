@@ -14,7 +14,7 @@ title: "Hypothesis: what if i start with veve? how does that sound?
 
 i will join the next..."
 date: 2023-09-16
-source: "[[CGPT_0564_Trading_Digital_Collectibles_Guide_[CGPT-0564]]]"
+source: "[[CGPT_0564_Trading_Digital_Collectibles_Guide_[CGPT-0564]]"
 aliases: [X-GEN-230916-00]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []

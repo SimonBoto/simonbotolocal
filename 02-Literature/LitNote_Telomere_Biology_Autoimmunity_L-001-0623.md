@@ -13,7 +13,7 @@ relevance: High — Foundational for understanding accelerated aging in autoimmu
 aliases: [L-001-0623, Telomere Basics, Cellular Senescence]
 domain: 001
 tags: [litnote, telomeres, aging, autoimmunity, telomerase, immunosenescence]
-source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_[CGPT-0520]]]"
+source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_[CGPT-0520]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
@@ -144,10 +144,10 @@ extraction-date: 2026-03-08
 ## Connections
 
 **Related Zettels:**
-- [[Telomere_Structure_Function_[Z-001-1170].md]] — To create
-- [[Telomerase_Biology_Immunity_[Z-001-1171].md]] — To create
-- [[Immunosenescence_Autoimmunity_[Z-001-1172].md]] — To create
-- [[Oxidative_Stress_Telomere_Shortening_[Z-001-1173].md]] — To create
+- [[Telomere_Structure_Function_Z-001-1170]] — To create
+- [[Telomerase_Biology_Immunity_Z-001-1171]] — To create
+- [[Immunosenescence_Autoimmunity_Z-001-1172]] — To create
+- [[Oxidative_Stress_Telomere_Shortening_Z-001-1173]] — To create
 
 **MOCs:**
 -  — Primary domain

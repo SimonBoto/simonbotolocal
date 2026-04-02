@@ -16,7 +16,7 @@ domain: 001
 # Hypothalamic-Pituitary-Gonadal Axis — Hormone Cascade and Regulation
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0438_Hormone_Scenarios_Normal_vs_Pathological_[CGPT-0438].md]] (messages 7-14)
+- **ChatGPT conversation:** [[CGPT_0438_Hormone_Scenarios_Normal_vs_Pathological_[CGPT-0438]] (messages 7-14)
 - **Date:** April 02, 2024
 - **Scope:** HPA/HPG axis, hormone production sites, regulatory feedback
 

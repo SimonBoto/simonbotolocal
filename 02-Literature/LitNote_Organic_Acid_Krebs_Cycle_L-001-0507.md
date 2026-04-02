@@ -17,7 +17,7 @@ source-verified: 2026-03-01
 # Lit: Urine Organic Acid Test Interpretation — Krebs Cycle Markers
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_[CGPT-0393]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_[CGPT-0393]]
 - **Date:** May 15, 2024
 - **Scope:** Clinical case of elevated Krebs cycle metabolites, nutrient deficiency analysis, targeted supplementation
 
@@ -64,7 +64,7 @@ When aconitase is impaired:
 - Elevation suggests backup in multiple pathways
 - Links to cholesterol synthesis and CoQ10 production
 
-**Zettels extracted:** [[Urine_Organic_Acid_Krebs_Cycle_Markers_[Z-001-0537].md]]
+**Zettels extracted:** [[Urine_Organic_Acid_Krebs_Cycle_Markers_Z-001-0537]]
 
 ### 2. Nutrient Deficiency Patterns
 > "Specific nutrient deficiencies underlie mitochondrial dysfunction, with organic acid patterns revealing which cofactors are lacking for optimal enzyme function."
@@ -119,7 +119,7 @@ Multiple TCA elevations → Multiple B-vitamin deficiencies
 General mitochondrial dysfunction → CoQ10 deficiency
 ```
 
-**Zettels extracted:** [[Mitochondrial_Nutrient_Deficiency_Patterns_[Z-001-0538].md]]
+**Zettels extracted:** [[Mitochondrial_Nutrient_Deficiency_Patterns_Z-001-0538]]
 
 ### 3. Clinical Management Strategy
 > "Targeted supplementation based on organic acid patterns, combined with dietary modifications, can restore mitochondrial function and normalize metabolic markers."
@@ -175,7 +175,7 @@ General mitochondrial dysfunction → CoQ10 deficiency
 - If new elevations → Reassess pathway blocks
 - Long-term → Maintenance dosing once normalized
 
-**Zettels extracted:** [[Mitochondrial_Supplementation_Protocol_[Z-001-0539].md]]
+**Zettels extracted:** [[Mitochondrial_Supplementation_Protocol_Z-001-0539]]
 
 ### 4. Integration with METHAP
 > "Organic acid testing provides objective biomarkers for mitochondrial dysfunction in metabolic syndrome, guiding targeted nutrient therapy as part of comprehensive metabolic optimization."
@@ -200,7 +200,7 @@ General mitochondrial dysfunction → CoQ10 deficiency
   - Inflammatory markers (CRP)
   - Energy/exercise tolerance (subjective)
 
-**Zettels extracted:** [[Organic_Acid_METHAP_Integration_[Z-001-0540].md]]
+**Zettels extracted:** [[Organic_Acid_METHAP_Integration_Z-001-0540]]
 
 ---
 
@@ -227,10 +227,10 @@ General mitochondrial dysfunction → CoQ10 deficiency
 ---
 
 ## Zettels Created from This Source (Batch 1/4)
-1. [[Urine_Organic_Acid_Krebs_Cycle_Markers_[Z-001-0537].md]]
-2. [[Mitochondrial_Nutrient_Deficiency_Patterns_[Z-001-0538].md]]
-3. [[Mitochondrial_Supplementation_Protocol_[Z-001-0539].md]]
-4. [[Organic_Acid_METHAP_Integration_[Z-001-0540].md]]
+1. [[Urine_Organic_Acid_Krebs_Cycle_Markers_Z-001-0537]]
+2. [[Mitochondrial_Nutrient_Deficiency_Patterns_Z-001-0538]]
+3. [[Mitochondrial_Supplementation_Protocol_Z-001-0539]]
+4. [[Organic_Acid_METHAP_Integration_Z-001-0540]]
 
 ---
 

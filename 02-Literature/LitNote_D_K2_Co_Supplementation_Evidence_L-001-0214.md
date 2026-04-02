@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: D-K2 Co-Supplementation Clinical Evidence
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_[CGPT-0230]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_[CGPT-0230]]
 - **Date:** December 03, 2024
 - **Scope:** Clinical studies on D+K2 together, outcomes, limitations, future research needs
 
@@ -45,7 +45,7 @@ extraction-date: 2026-03-01
 - Multiple metabolic parameters improve
 - Safety profile favorable
 
-**Zettels extracted:** [[D_K2_Co_Supplementation_Evidence_Overview_[Z-001-0263].md]]
+**Zettels extracted:** [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]]
 
 ### 2. Key Study Findings
 
@@ -90,7 +90,7 @@ extraction-date: 2026-03-01
 - High D + High K = Best outcomes
 - Synergistic association
 
-**Zettels extracted:** [[D_K2_Key_Studies_Summary_[Z-001-0264].md]]
+**Zettels extracted:** [[D_K2_Key_Studies_Summary_Z-001-0264]]
 
 ### 3. Metabolic Outcomes with Co-Supplementation
 > "Improved insulin sensitivity, lipid profiles, reduced inflammation, better vascular health."
@@ -119,7 +119,7 @@ extraction-date: 2026-03-01
 - Improved endothelial function
 - Mechanism: MGP activation
 
-**Zettels extracted:** [[D_K2_Metabolic_Outcomes_Co_Supplementation_[Z-001-0265].md]]
+**Zettels extracted:** [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
 
 ### 4. Limitations of Current Research
 > "Small sample sizes, short duration, homogeneous populations, variable dosing."
@@ -144,7 +144,7 @@ extraction-date: 2026-03-01
 - Null results underreported
 - Need for registry of trials
 
-**Zettels extracted:** [[D_K2_Research_Limitations_Gaps_[Z-001-0266].md]]
+**Zettels extracted:** [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
 
 ### 5. METHAP Contribution to Evidence
 > "METHAP trial addresses multiple gaps: MetS population, systematic monitoring, high-dose protocol."
@@ -174,7 +174,7 @@ extraction-date: 2026-03-01
 - Establishes safety profile
 - Informs clinical practice
 
-**Zettels extracted:** [[METHAP_Evidence_Contribution_[Z-001-0267].md]]
+**Zettels extracted:** [[METHAP_Evidence_Contribution_Z-001-0267]]
 
 ---
 
@@ -206,11 +206,11 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[D_K2_Co_Supplementation_Evidence_Overview_[Z-001-0263].md]]
-2. [[D_K2_Key_Studies_Summary_[Z-001-0264].md]]
-3. [[D_K2_Metabolic_Outcomes_Co_Supplementation_[Z-001-0265].md]]
-4. [[D_K2_Research_Limitations_Gaps_[Z-001-0266].md]]
-5. [[METHAP_Evidence_Contribution_[Z-001-0267].md]]
+1. [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]]
+2. [[D_K2_Key_Studies_Summary_Z-001-0264]]
+3. [[D_K2_Metabolic_Outcomes_Co_Supplementation_Z-001-0265]]
+4. [[D_K2_Research_Limitations_Gaps_Z-001-0266]]
+5. [[METHAP_Evidence_Contribution_Z-001-0267]]
 
 ## Related References
 - [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]] — Mechanisms

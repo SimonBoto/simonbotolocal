@@ -61,7 +61,7 @@ tags: [reference, t1d, metabolomics, islet-autoimmun
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Metabotypes_Individual_Metabolic_Phenotypes_[Z-001-0910]]] — T1D metabolomics prediction
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]] — T1D metabolomics prediction
 
 ---
 

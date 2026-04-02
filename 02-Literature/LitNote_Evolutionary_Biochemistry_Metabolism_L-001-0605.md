@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 # Lit: ChatGPT 2024 — Evolutionary Biochemistry of Metabolism
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]
 - **Date:** March 25, 2024
 
 ## Core Concepts Extracted
@@ -26,22 +26,22 @@ extraction-date: 2026-03-08
 ### 1. RNA World Hypothesis
 > "Life may have initially been RNA-based before DNA and proteins became the primary genetic and functional molecules."
 
-**Zettel extracted:** [[RNA_World_Hypothesis_Origins_Life_[Z-001-1106].md]]
+**Zettel extracted:** [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]]
 
 ### 2. Ancient Metabolic Pathways
 > "Glycolysis is one of the most ancient pathways, conserved across all domains of life."
 
-**Zettel extracted:** [[Ancient_Metabolic_Pathways_Conservation_[Z-001-1107].md]]
+**Zettel extracted:** [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]]
 
 ### 3. Prebiotic Chemistry
 > "Iron-sulfur minerals at hydrothermal vents may have catalyzed prebiotic reactions."
 
-**Zettel extracted:** [[Prebiotic_Chemistry_Hydrothermal_Vents_[Z-001-1108].md]]
+**Zettel extracted:** [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]]
 
 ### 4. Metabolic Fossils
 > "Some pathways retain archaic features reflecting their evolutionary history."
 
-**Zettel extracted:** [[Metabolic_Fossils_Ancient_Pathway_Remants_[Z-001-1109].md]]
+**Zettel extracted:** [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]]
 
 ## Evolutionary Timeline
 
@@ -60,15 +60,15 @@ extraction-date: 2026-03-08
 **Synthesis:** Modern metabolism carries the imprint of billions of years of evolutionary optimization—the most ancient pathways (glycolysis, PPP) are conserved across all life, while newer pathways (aerobic respiration) built upon these foundations.
 
 ## Zettels Created from This Source
-1. [[RNA_World_Hypothesis_Origins_Life_[Z-001-1106].md]]
-2. [[Ancient_Metabolic_Pathways_Conservation_[Z-001-1107].md]]
-3. [[Prebiotic_Chemistry_Hydrothermal_Vents_[Z-001-1108].md]]
-4. [[Metabolic_Fossils_Ancient_Pathway_Remants_[Z-001-1109].md]]
+1. [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]]
+2. [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]]
+3. [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]]
+4. [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]]
 
 ## Related References
 - 
-- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_[Z-001-1092].md]]
-- [[Iron_Sulfur_Clusters_Ancient_Cofactors_[Z-001-1103].md]]
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Iron_Sulfur_Clusters_Ancient_Cofactors_Z-001-1103]]
 
 ---
 

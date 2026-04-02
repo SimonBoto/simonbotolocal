@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 # Lit: ChatGPT 2024 — Ketone Body Biochemistry and Clinical Applications
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]
 - **Date:** March 25, 2024
 
 ## Core Concepts Extracted
@@ -26,22 +26,22 @@ extraction-date: 2026-03-08
 ### 1. The Three Ketone Bodies
 > "Acetoacetate, beta-hydroxybutyrate (BHB), and acetone—the metabolic products of fatty acid oxidation in the liver."
 
-**Zettel extracted:** [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_[Z-001-1093].md]]
+**Zettel extracted:** [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_Z-001-1093]]
 
 ### 2. Ketogenesis Mechanism
 > "Ketogenesis occurs in liver mitochondria when acetyl-CoA accumulates beyond TCA cycle capacity."
 
-**Zettel extracted:** [[Ketogenesis_Mechanism_Liver_Mitochondria_[Z-001-1094].md]]
+**Zettel extracted:** [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
 
 ### 3. BHB: Not Technically a Ketone
 > "Beta-hydroxybutyrate is a hydroxyacid, not a true ketone, but functions as the primary circulating ketone body."
 
-**Zettel extracted:** [[BHB_Hydroxyacid_Not_True_Ketone_[Z-001-1095].md]]
+**Zettel extracted:** [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]]
 
 ### 4. Therapeutic Ketosis
 > "Ketogenic diets used for epilepsy, neurodegenerative diseases, metabolic disorders."
 
-**Zettel extracted:** [[Therapeutic_Ketosis_Clinical_Applications_[Z-001-1096].md]]
+**Zettel extracted:** [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
 
 ## The Ketone Body Hierarchy
 
@@ -69,15 +69,15 @@ Fatty acids → Acetyl-CoA → Acetoacetate (primary ketone)
 **Connection to METHAP/PhD:** Ketone metabolism directly connects to insulin resistance research; impaired ketone utilization seen in metabolic syndrome.
 
 ## Zettels Created from This Source
-1. [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_[Z-001-1093].md]]
-2. [[Ketogenesis_Mechanism_Liver_Mitochondria_[Z-001-1094].md]]
-3. [[BHB_Hydroxyacid_Not_True_Ketone_[Z-001-1095].md]]
-4. [[Therapeutic_Ketosis_Clinical_Applications_[Z-001-1096].md]]
+1. [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_Z-001-1093]]
+2. [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+3. [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]]
+4. [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
 
 ## Related References
 - 
-- [[Beta_Oxidation_Clinical_Mechanisms_[Z-001-1054].md]]
-- [[Ketosis_Metabolic_Flexibility_Clinical_[Z-001-1057].md]]
+- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]]
+- [[Ketosis_Metabolic_Flexibility_Clinical_Z-001-1057]]
 
 ---
 

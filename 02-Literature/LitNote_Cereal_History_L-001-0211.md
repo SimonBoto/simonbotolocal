@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: History of Breakfast Cereal and the Kellogg Brothers
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0471_Ada_Dietary_Guidelines_Controversies_[CGPT-0471].md]]
+- **ChatGPT conversation:** [[CGPT_0471_Ada_Dietary_Guidelines_Controversies_[CGPT-0471]]
 - **Date:** March 10, 2024
 - **Scope:** Battle Creek Sanitarium, John Harvey Kellogg vs. W.K. Kellogg, cornflakes invention, breakfast revolution
 
@@ -49,7 +49,7 @@ extraction-date: 2026-03-01
 - Yogurt enemas
 - Electrical stimulation
 
-**Zettels extracted:** [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_[Z-001-0249].md]]
+**Zettels extracted:** [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]
 
 ### 2. The Kellogg Brothers
 > "John Harvey Kellogg and his brother Will Keith Kellogg."
@@ -76,7 +76,7 @@ extraction-date: 2026-03-01
 - Estrangement over cornflakes commercialization
 - Different legacies
 
-**Zettels extracted:** [[Kellogg_Brothers_John_Harvey_vs_WK_[Z-001-0250].md]]
+**Zettels extracted:** [[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]
 
 ### 3. Invention of Cornflakes (1894)
 > "John Harvey Kellogg, with his brother Will Keith Kellogg, accidentally discovered the process of creating flaked cereal."
@@ -102,7 +102,7 @@ extraction-date: 2026-03-01
 - Cornflakes even more popular
 - Became signature product
 
-**Zettels extracted:** [[Cornflakes_Invention_Accident_1894_[Z-001-0251].md]]
+**Zettels extracted:** [[Cornflakes_Invention_Accident_1894_Z-001-0251]]
 
 ### 4. The Kellogg Company (1906)
 > "Will Keith Kellogg founded the Kellogg Company to mass-produce cornflakes."
@@ -133,7 +133,7 @@ extraction-date: 2026-03-01
 - Seasonal/local → Industrial/processed
 - "Convenience" prioritized
 
-**Zettels extracted:** [[Kellogg_Company_Founding_1906_[Z-001-0252].md]]
+**Zettels extracted:** [[Kellogg_Company_Founding_1906_Z-001-0252]]
 
 ---
 
@@ -160,10 +160,10 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_[Z-001-0249].md]]
-2. [[Kellogg_Brothers_John_Harvey_vs_WK_[Z-001-0250].md]]
-3. [[Cornflakes_Invention_Accident_1894_[Z-001-0251].md]]
-4. [[Kellogg_Company_Founding_1906_[Z-001-0252].md]]
+1. [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]]
+2. [[Kellogg_Brothers_John_Harvey_vs_WK_Z-001-0250]]
+3. [[Cornflakes_Invention_Accident_1894_Z-001-0251]]
+4. [[Kellogg_Company_Founding_1906_Z-001-0252]]
 
 ---
 

@@ -55,7 +55,7 @@ extraction-date: 2026-02-23
 
 **Clinical application:** Diabetes as polyfactorial disease requiring combined analysis of genes, enzymes, lifestyle factors.
 
-**Zettel extracted:** [[Insulin_Receptor_Structure_[Z-001-0001].md]]
+**Zettel extracted:** [[Insulin_Receptor_Structure_Z-001-0001]]
 
 ---
 
@@ -69,7 +69,7 @@ extraction-date: 2026-02-23
 - Environmental factors (diet, smoking, alcohol, exercise, toxins, drugs, stress)
 - Real-time physiological state
 
-**Zettel extracted:** [[Insulin_Hormone_Structure_[Z-001-0002].md]]
+**Zettel extracted:** [[Insulin_Hormone_Structure_Z-001-0002]]
 
 ---
 
@@ -84,7 +84,7 @@ extraction-date: 2026-02-23
 - Therapeutic intervention targeting
 - Vitamin D as environmental modulator
 
-**Zettel extracted:** [[Environmental_Factors_80_Percent_Chronic_Disease_[Z-001-0903].md]]
+**Zettel extracted:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]]
 
 ---
 
@@ -126,15 +126,15 @@ extraction-date: 2026-02-23
 ### Subsection 1 (Systems Biology & Metabolomics)
 1. [[Systems_Biology_Integrative_Framework_Z-001-0001.md]] - Core definition
 2. [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md]] - Flow hierarchy
-3. [[Environmental_Factors_80_Percent_Chronic_Disease_[Z-001-0903].md]] - Key statistic
+3. [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] - Key statistic
 
 ### Subsection 2 (Other Omics Sciences)
-4. [[Genomics_Structure_Function_Genome_[Z-001-0904].md]] - Genome structure/function
-5. [[Epigenomics_Gene_Regulation_[Z-001-0905].md]] - Gene regulation mechanisms
-6. [[Transcriptomics_Transcriptome_Bridge_[Z-001-0906].md]] - RNA as proteome precursor
-7. [[Proteomics_Protein_Structure_Function_[Z-001-0907].md]] - Protein analysis
-8. [[Microbiomics_Gut_Metabolic_Organ_[Z-001-0908].md]] - Gut microbiome metabolism
-9. [[Biomarkers_Precision_Medicine_[Z-001-0909].md]] - Biomarker types & applications
+4. [[Genomics_Structure_Function_Genome_Z-001-0904]] - Genome structure/function
+5. [[Epigenomics_Gene_Regulation_Z-001-0905]] - Gene regulation mechanisms
+6. [[Transcriptomics_Transcriptome_Bridge_Z-001-0906]] - RNA as proteome precursor
+7. [[Proteomics_Protein_Structure_Function_Z-001-0907]] - Protein analysis
+8. [[Microbiomics_Gut_Metabolic_Organ_Z-001-0908]] - Gut microbiome metabolism
+9. [[Biomarkers_Precision_Medicine_Z-001-0909]] - Biomarker types & applications
 
 ---
 

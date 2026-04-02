@@ -14,7 +14,7 @@ tags:
   - dhap
   - evolution
   - energy-metabolism
-source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]"
+source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]"
 extraction-date: 2026-03-04
 status: extracted
 parent-moc:
@@ -154,11 +154,11 @@ Cells can switch between:
 
 ## Zettels Extracted
 
-- [[Triose_Structure_Glyceraldehyde_DHAP_[Z-001-0466]]] Triose Structure: Glyceraldehyde and DHAP
-- [[Glycolysis_Steps_Regulation_[Z-001-0467]]] Glycolysis Steps and Regulation
-- [[Fructose_Glycolytic_Intermediate_[Z-001-0468]]] Fructose as Glycolytic Intermediate
-- [[Pyruvate_Metabolic_Crossroads_[Z-001-0469]]] Pyruvate: Metabolic Crossroads
-- [[Evolutionary_Ancient_Glycolysis_[Z-001-0470]]] Evolutionary Ancient Glycolysis
+- [[Triose_Structure_Glyceraldehyde_DHAP_Z-001-0466]] Triose Structure: Glyceraldehyde and DHAP
+- [[Glycolysis_Steps_Regulation_Z-001-0467]] Glycolysis Steps and Regulation
+- [[Fructose_Glycolytic_Intermediate_Z-001-0468]] Fructose as Glycolytic Intermediate
+- [[Pyruvate_Metabolic_Crossroads_Z-001-0469]] Pyruvate: Metabolic Crossroads
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]] Evolutionary Ancient Glycolysis
 
 ---
 

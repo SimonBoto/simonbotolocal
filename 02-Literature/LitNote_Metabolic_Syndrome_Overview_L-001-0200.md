@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Metabolic Syndrome — Comprehensive Overview
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_[CGPT-0272]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_[CGPT-0272]]
 - **Date:** October 09, 2024
 - **Scope:** Foundational chapter structure for narrative review on MetS definition, epidemiology, pathophysiology, clinical manifestations, and management
 
@@ -33,7 +33,7 @@ Metabolic syndrome represents a cluster of interrelated metabolic risk factors t
 - Elevated blood pressure (≥130/85 mmHg or on therapy)
 - Elevated fasting glucose (≥100 mg/dL)
 
-**Zettels extracted:** [[Metabolic_Syndrome_Definition_Diagnostic_Criteria_[Z-001-0200].md]]
+**Zettels extracted:** [[Metabolic_Syndrome_Definition_Diagnostic_Criteria_Z-001-0200]]
 
 ### 2. Epidemiology of Metabolic Syndrome
 > "Discuss the prevalence and incidence of metabolic syndrome globally, including demographic variations and risk factors."
@@ -45,7 +45,7 @@ Metabolic syndrome has reached epidemic proportions worldwide, affecting approxi
 - **Ethnicity:** Higher rates in South Asian, Hispanic, and African American populations
 - **Socioeconomic factors:** Associated with urbanization, sedentary lifestyle, Western dietary patterns
 
-**Zettels extracted:** [[Metabolic_Syndrome_Epidemiology_Global_Prevalence_[Z-001-0201].md]]
+**Zettels extracted:** [[Metabolic_Syndrome_Epidemiology_Global_Prevalence_Z-001-0201]]
 
 ### 3. Pathophysiology — Insulin Resistance as Central Mechanism
 > "Detailed examination of the underlying mechanisms and pathways that contribute to metabolic syndrome, such as insulin resistance, adipose tissue dysfunction, and chronic inflammation."
@@ -60,7 +60,7 @@ The pathophysiology of metabolic syndrome is multifactorial, with insulin resist
 - **Oxidative Stress:** ROS generation, mitochondrial dysfunction
 - **Dyslipidemia:** Overproduction of VLDL, small dense LDL particles, HDL reduction
 
-**Zettels extracted:** [[Metabolic_Syndrome_Pathophysiology_Insulin_Resistance_[Z-001-0202].md]]
+**Zettels extracted:** [[Metabolic_Syndrome_Pathophysiology_Insulin_Resistance_Z-001-0202]]
 
 ### 4. Clinical Manifestations
 > "Description of the signs and symptoms that typically present in metabolic syndrome, including hypertension, hyperglycemia, central obesity, and dyslipidemia."
@@ -74,7 +74,7 @@ Clinical presentation is often subtle until complications develop:
 - **Acanthosis Nigricans:** Hyperpigmented skin folds indicating insulin resistance
 - **Polycystic Ovary Syndrome (PCOS):** In women, menstrual irregularities, hirsutism
 
-**Zettels extracted:** [[Metabolic_Syndrome_Clinical_Manifestations_Presentation_[Z-001-0203].md]]
+**Zettels extracted:** [[Metabolic_Syndrome_Clinical_Manifestations_Presentation_Z-001-0203]]
 
 ### 5. Complications and Long-Term Consequences
 > "Explore the long-term health consequences of untreated or poorly managed metabolic syndrome, such as cardiovascular disease, type 2 diabetes, and non-alcoholic fatty liver disease."
@@ -98,7 +98,7 @@ Metabolic syndrome is not merely a collection of risk factors but a progressive 
 - Obstructive sleep apnea
 - Gout, hyperuricemia
 
-**Zettels extracted:** [[Metabolic_Syndrome_Complications_CVD_Diabetes_NAFLD_[Z-001-0204].md]]
+**Zettels extracted:** [[Metabolic_Syndrome_Complications_CVD_Diabetes_NAFLD_Z-001-0204]]
 
 ### 6. Current Management Strategies
 > "Review the standard approaches to managing metabolic syndrome, focusing on lifestyle interventions, pharmacological treatments, and the role of dietary modifications."
@@ -115,7 +115,7 @@ Metabolic syndrome is not merely a collection of risk factors but a progressive 
 - **Hyperglycemia:** Metformin (insulin sensitizer), SGLT2 inhibitors, GLP-1 agonists
 - **Thrombosis prophylaxis:** Low-dose aspirin in high-risk individuals
 
-**Zettels extracted:** [[Metabolic_Syndrome_Management_Lifestyle_Pharmacology_[Z-001-0205].md]]
+**Zettels extracted:** [[Metabolic_Syndrome_Management_Lifestyle_Pharmacology_Z-001-0205]]
 
 ---
 
@@ -146,12 +146,12 @@ Metabolic syndrome is not merely a collection of risk factors but a progressive 
 ---
 
 ## Zettels Created from This Source
-1. [[Metabolic_Syndrome_Definition_Diagnostic_Criteria_[Z-001-0200].md]]
-2. [[Metabolic_Syndrome_Epidemiology_Global_Prevalence_[Z-001-0201].md]]
-3. [[Metabolic_Syndrome_Pathophysiology_Insulin_Resistance_[Z-001-0202].md]]
-4. [[Metabolic_Syndrome_Clinical_Manifestations_Presentation_[Z-001-0203].md]]
-5. [[Metabolic_Syndrome_Complications_CVD_Diabetes_NAFLD_[Z-001-0204].md]]
-6. [[Metabolic_Syndrome_Management_Lifestyle_Pharmacology_[Z-001-0205].md]]
+1. [[Metabolic_Syndrome_Definition_Diagnostic_Criteria_Z-001-0200]]
+2. [[Metabolic_Syndrome_Epidemiology_Global_Prevalence_Z-001-0201]]
+3. [[Metabolic_Syndrome_Pathophysiology_Insulin_Resistance_Z-001-0202]]
+4. [[Metabolic_Syndrome_Clinical_Manifestations_Presentation_Z-001-0203]]
+5. [[Metabolic_Syndrome_Complications_CVD_Diabetes_NAFLD_Z-001-0204]]
+6. [[Metabolic_Syndrome_Management_Lifestyle_Pharmacology_Z-001-0205]]
 
 ## Related References
 - [[LitNote_IR_Mechanisms_Map_L-001-0005]] — Deep dive into IR mechanisms

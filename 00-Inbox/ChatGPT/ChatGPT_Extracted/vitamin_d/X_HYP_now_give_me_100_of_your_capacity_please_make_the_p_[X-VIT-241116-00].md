@@ -10,7 +10,7 @@ uid: X-VIT-241116-00
 type: extracted-hypothesis
 title: "Hypothesis: now give me 100% of your capacity - please make the perfect last chapt..."
 date: 2024-11-16
-source: "[[CGPT_0251_Review_Feedback_and_Suggestions_[CGPT-0251]]]"
+source: "[[CGPT_0251_Review_Feedback_and_Suggestions_[CGPT-0251]]"
 aliases: [X-VIT-241116-00]
 tags: [extracted, hypothesis, vitamin_d, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
@@ -55,7 +55,7 @@ If true, this suggests:
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
 
 ## Validation Log
 

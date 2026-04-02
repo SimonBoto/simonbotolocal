@@ -10,7 +10,7 @@ uid: X-MET-240515-00
 type: extracted-hypothesis
 title: "Hypothesis: The first one was kind of better, but I wanted to elaborate more, mayb..."
 date: 2024-05-15
-source: "[[CGPT_0394_Krebs_Cycle_Overview_[CGPT-0394]]]"
+source: "[[CGPT_0394_Krebs_Cycle_Overview_[CGPT-0394]]"
 aliases: [X-MET-240515-00]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
@@ -44,8 +44,8 @@ If true, this suggests:
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
 
 ## Validation Log
 

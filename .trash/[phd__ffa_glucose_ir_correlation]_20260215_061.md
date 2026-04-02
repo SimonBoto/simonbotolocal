@@ -9,7 +9,7 @@ uid: 20260212081445
 tags: [insulin-resistance, phd-biomarker, phd-note, gc-ms]
 parent-moc: [[88-Mocs/PhD_IR_MOC]]
 aliases: []
-references: [GC-MS Data N=50 [[Data_Raw]]]
+references: [GC-MS Data N=50 [[Data_Raw]]
 ---
 
 # FFA Elevation Correlates with Glucose in IR?

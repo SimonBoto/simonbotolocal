@@ -17,7 +17,7 @@ source-verified: 2026-03-01
 # Lit: Mitochondrial Health Strategies
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0378_Mitochondrial_Health_Strategies_[CGPT-0378]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0378_Mitochondrial_Health_Strategies_[CGPT-0378]]
 - **Date:** May 21, 2024
 - **Scope:** Mitochondrial dysfunction interventions, metabolic flexibility, exercise-induced biogenesis, metabolomics-guided personalization
 
@@ -89,7 +89,7 @@ Fatty Acid Adaptation (Restored):
 - Reduced hunger/satiety normalization
 - Cognitive clarity
 
-**Zettels extracted:** [[Metabolic_Flexibility_Substrate_Switch_[Z-001-0554].md]]
+**Zettels extracted:** [[Metabolic_Flexibility_Substrate_Switch_Z-001-0554]]
 
 ### 2. Mitochondrial Biogenesis — Exercise-Induced Adaptation
 > "Moderate exercise serves as a potent stimulator of mitochondrial biogenesis through activation of PGC-1α and adaptive stress responses, enhancing both mitochondrial quantity and quality."
@@ -176,7 +176,7 @@ Fatty Acid Adaptation (Restored):
 - Organic acid normalization
 - Subjective energy levels
 
-**Zettels extracted:** [[Mitochondrial_Biogenesis_Exercise_PGC1a_[Z-001-0555].md]]
+**Zettels extracted:** [[Mitochondrial_Biogenesis_Exercise_PGC1a_Z-001-0555]]
 
 ### 3. Metabolomics-Guided Personalization
 > "Targeted metabolomic profiling of urinary organic acids provides objective biomarkers for assessing mitochondrial function, enabling personalized interventions tailored to individual metabolic derangements."
@@ -268,7 +268,7 @@ Fatty Acid Adaptation (Restored):
 - Dynamic (multiple timepoints needed)
 - Complement to standard labs
 
-**Zettels extracted:** [[Metabolomics_Guided_Personalization_[Z-001-0556].md]]
+**Zettels extracted:** [[Metabolomics_Guided_Personalization_Z-001-0556]]
 
 ### 4. Combined Intervention Strategy
 > "Optimal mitochondrial health restoration requires a multi-modal approach integrating dietary modification, exercise-induced biogenesis, and targeted supplementation, guided by metabolomic monitoring."
@@ -345,7 +345,7 @@ Fatty Acid Adaptation (Restored):
 - CoQ10 → mitochondrial (new)
 - Exercise + IF → biogenesis + flexibility
 
-**Zettels extracted:** [[Combined_Mitochondrial_Intervention_Strategy_[Z-001-0557].md]]
+**Zettels extracted:** [[Combined_Mitochondrial_Intervention_Strategy_Z-001-0557]]
 
 ---
 
@@ -372,10 +372,10 @@ Fatty Acid Adaptation (Restored):
 ---
 
 ## Zettels Created from This Source
-1. [[Metabolic_Flexibility_Substrate_Switch_[Z-001-0554].md]]
-2. [[Mitochondrial_Biogenesis_Exercise_PGC1a_[Z-001-0555].md]]
-3. [[Metabolomics_Guided_Personalization_[Z-001-0556].md]]
-4. [[Combined_Mitochondrial_Intervention_Strategy_[Z-001-0557].md]]
+1. [[Metabolic_Flexibility_Substrate_Switch_Z-001-0554]]
+2. [[Mitochondrial_Biogenesis_Exercise_PGC1a_Z-001-0555]]
+3. [[Metabolomics_Guided_Personalization_Z-001-0556]]
+4. [[Combined_Mitochondrial_Intervention_Strategy_Z-001-0557]]
 
 ---
 

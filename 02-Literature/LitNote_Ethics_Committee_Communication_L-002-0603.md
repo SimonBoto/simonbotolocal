@@ -33,7 +33,7 @@ When ethics committees don't respond:
 - Mobile/direct contact as last resort
 - Maintain professionalism regardless of frustration
 
-**Zettel extracted:** [[IRB_Non_Response_Protocol_[Z-002-0613].md]]
+**Zettel extracted:** [[IRB_Non_Response_Protocol_Z-002-0613]]
 
 ### 2. Professional Communication Template
 > Formal message structure: greeting → context → concern → request → closing
@@ -46,7 +46,7 @@ Key elements:
 - Offer additional information
 - Maintain respectful tone
 
-**Zettel extracted:** [[IRB_Communication_Template_[Z-002-0614].md]]
+**Zettel extracted:** [[IRB_Communication_Template_Z-002-0614]]
 
 ### 3. Administrative Persistence
 Six months without response requires escalation:
@@ -55,7 +55,7 @@ Six months without response requires escalation:
 - Alternative pathways (supervisor, department)
 - Consider institutional ombudsman
 
-**Zettel extracted:** [[IRB_Escalation_Pathways_[Z-002-0615].md]]
+**Zettel extracted:** [[IRB_Escalation_Pathways_Z-002-0615]]
 
 ## Key Insight
 
@@ -71,13 +71,13 @@ If NKUA ethics committee delays:
 4. Consider whether delay indicates substantive concerns
 
 ## Zettels Created from This Source
-1. [[IRB_Non_Response_Protocol_[Z-002-0613].md]] — Handling ethics committee silence
-2. [[IRB_Communication_Template_[Z-002-0614].md]] — Professional follow-up messaging
-3. [[IRB_Escalation_Pathways_[Z-002-0615].md]] — When and how to escalate
+1. [[IRB_Non_Response_Protocol_Z-002-0613]] — Handling ethics committee silence
+2. [[IRB_Communication_Template_Z-002-0614]] — Professional follow-up messaging
+3. [[IRB_Escalation_Pathways_Z-002-0615]] — When and how to escalate
 
 ## Related References
 - [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]] — Substantive ethics framework
-- [[Independent_Review_IRB_Ethics_[Z-002-0605].md]] — IRB function and role
+- [[Independent_Review_IRB_Ethics_Z-002-0605]] — IRB function and role
 -  — Master ethics map
 
 ---

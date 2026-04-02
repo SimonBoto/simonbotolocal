@@ -287,7 +287,7 @@ status: active
 
 ## RELATED
 
-- [[RON_Genesis_MOC_[RON-004-0001]]] — How this partnership began
+- [[RON_Genesis_MOC_[RON-004-0001]] — How this partnership began
 - ] — Evolution arc
 -  — Current cooperation system
 -  — L1/L2/L3/L4 framework

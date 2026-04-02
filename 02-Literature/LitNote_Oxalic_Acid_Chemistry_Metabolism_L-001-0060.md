@@ -17,7 +17,7 @@ extraction-date: 2026-03-04
 - **Conversation:** CGPT-0413 (Oxalic Acid: Uses & Form)
 - **Date:** April 16, 2024
 - **Messages:** 67
-- **Archive:** [[CGPT_0413_Oxalic_Acid_Uses_Form_[CGPT-0413]]]
+- **Archive:** [[CGPT_0413_Oxalic_Acid_Uses_Form_[CGPT-0413]]
 
 ---
 
@@ -148,23 +148,23 @@ This is critical for understanding branched-chain amino acid metabolism.
 
 *[To be populated as we extract]*
 
-1. [[Oxalic_Acid_Structure_Properties_[Z-001-0601]]]
-2. [[Dietary_Sources_Oxalate_High_Low_[Z-001-0602]]]
-3. [[Oxalate_Mineral_Binding_Calcium_Iron_[Z-001-0603]]]
-4. [[Glycine_Metabolism_Oxalate_Pathway_[Z-001-0604]]]
-5. [[Hydroxyproline_Collagen_Oxalate_[Z-001-0605]]]
-6. [[Vitamin_C_to_Oxalate_Conversion_[Z-001-0606]]]
-7. [[Amino_Acids_Krebs_Cycle_Map_[Z-001-0607]]]
-8. [[BCAA_Succinyl_CoA_Connection_[Z-001-0608]]]
-9. [[Threonine_Metabolism_Glucogenic_Ketogenic_[Z-001-0609]]]
-10. [[Primary_Hyperoxaluria_Genetic_[Z-001-0610]]]
+1. [[Oxalic_Acid_Structure_Properties_Z-001-0601]]
+2. [[Dietary_Sources_Oxalate_High_Low_Z-001-0602]]
+3. [[Oxalate_Mineral_Binding_Calcium_Iron_Z-001-0603]]
+4. [[Glycine_Metabolism_Oxalate_Pathway_Z-001-0604]]
+5. [[Hydroxyproline_Collagen_Oxalate_Z-001-0605]]
+6. [[Vitamin_C_to_Oxalate_Conversion_Z-001-0606]]
+7. [[Amino_Acids_Krebs_Cycle_Map_Z-001-0607]]
+8. [[BCAA_Succinyl_CoA_Connection_Z-001-0608]]
+9. [[Threonine_Metabolism_Glucogenic_Ketogenic_Z-001-0609]]
+10. [[Primary_Hyperoxaluria_Genetic_Z-001-0610]]
 
 ---
 
 ## Related References
 - [[L-001-0046A]] — Amino Acids Entering Krebs Cycle (complementary table)
 -  — Parent MOC for amino acid pathways
-- [[Amino_Acids_Succinyl_CoA_B12_[Z-001-0495]]] — Amino Acids to Succinyl-CoA (B12 criticality)
+- [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]] — Amino Acids to Succinyl-CoA (B12 criticality)
 
 ---
 

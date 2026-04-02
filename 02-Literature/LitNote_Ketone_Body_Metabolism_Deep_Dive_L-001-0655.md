@@ -4,7 +4,7 @@ type: litnote
 title: Ketone Body Metabolism Deep Dive — From Beta-Oxidation to ATP Yield
 aliases: [L-001-0655]
 domain: 001
-source: "[[CGPT_0647_ATP_Pathways_Overview_[CGPT-0647].md]]"
+source: "[[CGPT_0647_ATP_Pathways_Overview_[CGPT-0647]]"
 extraction-date: 2026-03-11
 author: ChatGPT Analysis (CGPT-0647)
 tags: [litnote, ketone-bodies, BHB, acetoacetate, ketogenesis, ketolysis, ATP-yield, beta-hydroxybutyrate]
@@ -16,7 +16,7 @@ status: conscious
 
 > **Source:** ChatGPT CGPT-0647 (April 30, 2023)  
 > **Conversation:** ATP Pathways Overview — Messages 5-8, 21-30  
-> **Archive:** [[CGPT_0647_ATP_Pathways_Overview_[CGPT-0647].md]] (38 messages)
+> **Archive:** [[CGPT_0647_ATP_Pathways_Overview_[CGPT-0647]] (38 messages)
 
 ---
 
@@ -147,7 +147,7 @@ Ketone bodies (beta-hydroxybutyrate and acetoacetate) serve as water-soluble, tr
 
 - **Previous:** [[L-001-0654_Hyperinsulinemia_Metabolic_Inflexibility]] — How insulin blocks ketogenesis
 - **Next:** [[L-001-0656_Dicarboxylic_Acids_Beta_Oxidation_Defects]] — When beta-oxidation fails
-- **Source conversation:** [[CGPT_0647_ATP_Pathways_Overview_[CGPT-0647].md]]
+- **Source conversation:** [[CGPT_0647_ATP_Pathways_Overview_[CGPT-0647]]
 
 ---
 

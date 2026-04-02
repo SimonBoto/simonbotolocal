@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 # Lit: ChatGPT 2024 — Warburg Effect and Cancer Metabolism
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_[CGPT-0264]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_[CGPT-0264]]
 - **Date:** October 27, 2024
 - **Messages:** 33
 
@@ -27,22 +27,22 @@ extraction-date: 2026-03-08
 ### 1. Warburg Effect Fundamentals
 > "Cancer cells preferentially utilize glycolysis for energy production, even in the presence of adequate oxygen—aerobic glycolysis."
 
-**Zettel extracted:** [[Warburg_Effect_Aerobic_Glycolysis_Cancer_[Z-001-1117].md]]
+**Zettel extracted:** [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]]
 
 ### 2. Metabolic Reprogramming in Cancer
 > "Shift from oxidative phosphorylation to glycolysis supports rapid cell proliferation by providing biosynthetic precursors."
 
-**Zettel extracted:** [[Cancer_Metabolic_Reprogramming_Glycolysis_PPP_[Z-001-1118].md]]
+**Zettel extracted:** [[Cancer_Metabolic_Reprogramming_Glycolysis_PPP_Z-001-1118]]
 
 ### 3. Tumor Microenvironment Acidification
 > "Lactate production acidifies the tumor microenvironment, promoting invasion and metastasis."
 
-**Zettel extracted:** [[Tumor_Microenvironment_Lactate_Acidification_[Z-001-1119].md]]
+**Zettel extracted:** [[Tumor_Microenvironment_Lactate_Acidification_Z-001-1119]]
 
 ### 4. Mitochondrial Dysfunction in Cancer
 > "Mitochondrial defects contribute to the Warburg phenotype and apoptotic resistance."
 
-**Zettel extracted:** [[Mitochondrial_Dysfunction_Cancer_Metabolism_[Z-001-1120].md]]
+**Zettel extracted:** [[Mitochondrial_Dysfunction_Cancer_Metabolism_Z-001-1120]]
 
 ## The Warburg Paradox
 
@@ -72,14 +72,14 @@ extraction-date: 2026-03-08
 **Synthesis:** The Warburg effect is not merely a metabolic curiosity but a fundamental feature of cancer biology that enables rapid proliferation and creates therapeutic vulnerabilities.
 
 ## Zettels Created from This Source
-1. [[Warburg_Effect_Aerobic_Glycolysis_Cancer_[Z-001-1117].md]]
-2. [[Cancer_Metabolic_Reprogramming_Glycolysis_PPP_[Z-001-1118].md]]
-3. [[Tumor_Microenvironment_Lactate_Acidification_[Z-001-1119].md]]
-4. [[Mitochondrial_Dysfunction_Cancer_Metabolism_[Z-001-1120].md]]
+1. [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]]
+2. [[Cancer_Metabolic_Reprogramming_Glycolysis_PPP_Z-001-1118]]
+3. [[Tumor_Microenvironment_Lactate_Acidification_Z-001-1119]]
+4. [[Mitochondrial_Dysfunction_Cancer_Metabolism_Z-001-1120]]
 
 ## Related References
 - 
-- [[Therapeutic_Ketosis_Clinical_Applications_[Z-001-1096].md]]
+- [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
 - 
 
 ---

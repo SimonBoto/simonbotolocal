@@ -19,15 +19,15 @@ Autoimmune diseases represent a loss of immune tolerance leading to attack on se
 ## Core Concepts
 
 ### 1. Immunological Foundations
-- [[VDR_Knockout_Mouse_Phenotypes_[Z-001-0987].md]] — VDR knockout immune phenotypes
-- [[Vitamin_D_Immunomodulation_Mechanisms_[Z-001-1163].md]] — Vitamin D immune modulation
-- [[Treg_Th17_Balance_VDR_[Z-001-1165].md]] — Regulatory vs. pathogenic T-cell balance
+- [[VDR_Knockout_Mouse_Phenotypes_Z-001-0987]] — VDR knockout immune phenotypes
+- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]] — Vitamin D immune modulation
+- [[Treg_Th17_Balance_VDR_Z-001-1165]] — Regulatory vs. pathogenic T-cell balance
 - Central Tolerance — Thymic selection (AIRE, negative selection)
 - Peripheral Tolerance — Treg, anergy, deletion
 - Molecular Mimicry — Environmental triggers
 
 ### 2. Autoimmune Disease Mechanisms
-- [[Autoimmune_Disease_Vitamin_D_Connection_[Z-001-1164].md]] — Vitamin D protective role
+- [[Autoimmune_Disease_Vitamin_D_Connection_Z-001-1164]] — Vitamin D protective role
 - Loss of Tolerance — Breakdown mechanisms
 - Epitope Spreading — Disease progression
 - Bystander Activation — Inflammatory amplification
@@ -72,7 +72,7 @@ Autoimmune diseases represent a loss of immune tolerance leading to attack on se
 ## Metabolic & Environmental Factors
 
 ### Immunometabolism
-- [[Mitochondrial_Dynamics_Fusion_Fission_[Z-001-1168].md]] — Mitochondrial function in immunity
+- [[Mitochondrial_Dynamics_Fusion_Fission_Z-001-1168]] — Mitochondrial function in immunity
 - Warburg Effect in Immune Cells — Metabolic reprogramming
 - Amino Acid Sensing — mTOR, GCN2 pathways
 - Ketones and Immunity — Metabolic therapy
@@ -95,7 +95,7 @@ Autoimmune diseases represent a loss of immune tolerance leading to attack on se
 - JAK Inhibitors — Intracellular signaling
 
 ### Metabolic Interventions
-- [[Vitamin_D_Immunomodulation_Mechanisms_[Z-001-1163].md]] — High-dose vitamin D
+- [[Vitamin_D_Immunomodulation_Mechanisms_Z-001-1163]] — High-dose vitamin D
 - Ketogenic Diet — Metabolic therapy
 - Fasting/Time-Restricted Eating — Autophagy induction
 - Omega-3 Fatty Acids — Anti-inflammatory lipids
@@ -170,7 +170,7 @@ Autoimmune diseases represent a loss of immune tolerance leading to attack on se
 - Genetic risk scores
 
 ### Protocol Templates
-- [[Metabolomics_Case_Study_Template_[Z-001-1162].md]] — Case documentation
+- [[Metabolomics_Case_Study_Template_Z-001-1162]] — Case documentation
 - Treatment algorithms
 - Monitoring guidelines
 

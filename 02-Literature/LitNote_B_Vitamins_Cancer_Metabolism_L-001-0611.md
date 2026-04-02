@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 # Lit: ChatGPT 2024 — B-Vitamins and Cancer Metabolism
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_[CGPT-0264]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_[CGPT-0264]]
 - **Date:** October 27, 2024
 
 ## Core Concepts Extracted
@@ -26,17 +26,17 @@ extraction-date: 2026-03-08
 ### 1. One-Carbon Metabolism in Cancer
 > "Rapidly dividing cancer cells have high demand for one-carbon units for nucleotide synthesis and methylation reactions."
 
-**Zettel extracted:** [[One_Carbon_Metabolism_Cancer_Nucleotide_Synthesis_[Z-001-1128].md]]
+**Zettel extracted:** [[One_Carbon_Metabolism_Cancer_Nucleotide_Synthesis_Z-001-1128]]
 
 ### 2. Methylation and Epigenetics
 > "B-vitamins (folate, B12) influence DNA methylation patterns—both deficiency and excess may affect cancer risk."
 
-**Zettel extracted:** [[B_Vitamins_Methylation_Epigenetics_Cancer_[Z-001-1129].md]]
+**Zettel extracted:** [[B_Vitamins_Methylation_Epigenetics_Cancer_Z-001-1129]]
 
 ### 3. Clinical Evidence and Paradox
 > "High folate intake may reduce cancer incidence but potentially promote growth in existing tumors."
 
-**Zettel extracted:** [[Folate_Cancer_Paradox_Prevention_Progression_[Z-001-1130].md]]
+**Zettel extracted:** [[Folate_Cancer_Paradox_Prevention_Progression_Z-001-1130]]
 
 ## The B-Vitamin-Cancer Connection
 
@@ -61,14 +61,14 @@ extraction-date: 2026-03-08
 **Synthesis:** The B-vitamin-cancer relationship is complex and context-dependent—adequate status may prevent cancer initiation, but high intake during active cancer growth may fuel proliferation. This mirrors the methylation paradox in cancer epigenetics.
 
 ## Zettels Created from This Source
-1. [[One_Carbon_Metabolism_Cancer_Nucleotide_Synthesis_[Z-001-1128].md]]
-2. [[B_Vitamins_Methylation_Epigenetics_Cancer_[Z-001-1129].md]]
-3. [[Folate_Cancer_Paradox_Prevention_Progression_[Z-001-1130].md]]
+1. [[One_Carbon_Metabolism_Cancer_Nucleotide_Synthesis_Z-001-1128]]
+2. [[B_Vitamins_Methylation_Epigenetics_Cancer_Z-001-1129]]
+3. [[Folate_Cancer_Paradox_Prevention_Progression_Z-001-1130]]
 
 ## Related References
 - 
 - 
-- [[One_Carbon_Metabolism_Folate_B12_[Z-001-1062].md]]
+- [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]]
 
 ---
 

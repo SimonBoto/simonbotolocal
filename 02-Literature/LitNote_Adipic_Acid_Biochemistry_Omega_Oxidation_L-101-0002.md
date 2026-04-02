@@ -13,7 +13,7 @@ relevance: High — Primary PhD research marker for insulin resistance detection
 aliases: [L-101-0002, Adipate Formation, Omega-Oxidation]
 domain: 101
 tags: [litnote, adipic-acid, fatty-acid-metabolism, omega-oxidation, beta-oxidation, carnitine, pharmacometabolomics, insulin-resistance]
-source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]]"
+source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-02
@@ -48,7 +48,7 @@ When β-oxidation is impaired:
 
 **Result:** Adipic acid (hexanedioic acid, C6 dicarboxylic acid) formed as ω-oxidation end product
 
-**Zettels extracted:** [[Adipate_Formation_Palmitate_Pathway_[Z-101-0008].md]]
+**Zettels extracted:** [[Adipate_Formation_Palmitate_Pathway_Z-101-0008]]
 
 ### 2. Carnitine Deficiency: The Mechanistic Link to IR
 > "Carnitine deficiency prevents long-chain fatty acids from entering mitochondria, triggering compensatory ω-oxidation and dicarboxylic acid accumulation."
@@ -68,7 +68,7 @@ When β-oxidation is impaired:
 - Carnitine deficiency seen in insulin resistance, obesity, type 2 diabetes
 - Adipic acid elevation → early biomarker before glucose dysregulation manifests
 
-**Zettels extracted:** [[Carnitine_Deficiency_Omega_Oxidation_Link_[Z-101-0009].md]]
+**Zettels extracted:** [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]]
 
 ### 3. Adipate Metabolism: Entry into TCA Cycle
 > "Adipate is not merely an endpoint — it can be further metabolized to succinyl-CoA and acetyl-CoA for energy recovery."
@@ -81,7 +81,7 @@ When β-oxidation is impaired:
 
 **Yield:** 1 adipate → 1 succinyl-CoA + 2 acetyl-CoA (energy recovery pathway)
 
-**Zettels extracted:** [[Adipate_Metabolism_TCA_Entry_[Z-101-0010].md]]
+**Zettels extracted:** [[Adipate_Metabolism_TCA_Entry_Z-101-0010]]
 
 ### 4. Dicarboxylic Acid Hierarchy
 > "The pattern of dicarboxylic acid elevation (adipate > suberate > sebacate) indicates severity of β-oxidation impairment."
@@ -94,7 +94,7 @@ When β-oxidation is impaired:
 
 **Pattern Recognition:** Elevated adipate > suberate > sebacate indicates severity of β-oxidation impairment
 
-**Zettels extracted:** [[Dicarboxylic_Acid_Hierarchy_IR_Markers_[Z-101-0011].md]]
+**Zettels extracted:** [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]]
 
 ### 5. Omega-Oxidation vs Ketogenesis Distinction
 > "Dicarboxylic acids and ketone bodies represent different physiological responses — ω-oxidation reflects peripheral β-oxidation impairment, while ketogenesis reflects hepatic glucose scarcity."
@@ -104,7 +104,7 @@ When β-oxidation is impaired:
 - **Dicarboxylic acids** (adipate, suberate, sebacate) = peripheral tissue response to β-oxidation impairment
 - **Different pathways, different physiological contexts**
 
-**Zettels extracted:** [[Omega_Oxidation_vs_Ketogenesis_Distinction_[Z-101-0012].md]]
+**Zettels extracted:** [[Omega_Oxidation_vs_Ketogenesis_Distinction_Z-101-0012]]
 
 ---
 
@@ -134,11 +134,11 @@ When β-oxidation is impaired:
 ---
 
 ## Zettels Created from This Source
-1. [[Adipate_Formation_Palmitate_Pathway_[Z-101-0008].md]] — ω-oxidation biochemistry
-2. [[Carnitine_Deficiency_Omega_Oxidation_Link_[Z-101-0009].md]] — Mechanistic connection to IR
-3. [[Adipate_Metabolism_TCA_Entry_[Z-101-0010].md]] — Energy recovery pathway
-4. [[Dicarboxylic_Acid_Hierarchy_IR_Markers_[Z-101-0011].md]] — Diagnostic pattern recognition
-5. [[Omega_Oxidation_vs_Ketogenesis_Distinction_[Z-101-0012].md]] — Clinical differentiation
+1. [[Adipate_Formation_Palmitate_Pathway_Z-101-0008]] — ω-oxidation biochemistry
+2. [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]] — Mechanistic connection to IR
+3. [[Adipate_Metabolism_TCA_Entry_Z-101-0010]] — Energy recovery pathway
+4. [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]] — Diagnostic pattern recognition
+5. [[Omega_Oxidation_vs_Ketogenesis_Distinction_Z-101-0012]] — Clinical differentiation
 
 ---
 

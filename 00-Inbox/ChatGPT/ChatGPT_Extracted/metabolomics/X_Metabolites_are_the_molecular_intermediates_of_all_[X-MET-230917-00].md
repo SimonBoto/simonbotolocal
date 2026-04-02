@@ -10,7 +10,7 @@ uid: X-MET-230917-00
 type: extracted-insight
 title: "Metabolites are the molecular intermediates of all biochemical reactions, and th..."
 date: 2023-09-17
-source: "[[CGPT_0557_Research_Proposal_Submission_Protocol_[CGPT-0557]]]"
+source: "[[CGPT_0557_Research_Proposal_Submission_Protocol_[CGPT-0557]]"
 aliases: [X-MET-230917-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
@@ -57,8 +57,8 @@ The proposal should include:
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
 
 ## Status
 

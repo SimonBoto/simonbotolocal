@@ -28,8 +28,8 @@ source-litnote: Synthesized from clinical practice
 **Pattern:**
 ```markdown
 Child → Parent
-[[Ferritin_[Z-003-0001].md|Ferritin]] → [[Iron_Panel_Family_[B-003-0001].md|Iron Panel]]
-[[WBC_[Z-001-2001].md|WBC]] → [[CBC_Complete_[B-001-0001].md|CBC Family]]
+[[Ferritin_Z-003-0001].md|Ferritin]] → [[Iron_Panel_Family_[B-003-0001].md|Iron Panel]]
+[[WBC_Z-001-2001].md|WBC]] → [[CBC_Complete_[B-001-0001].md|CBC Family]]
 ```
 
 **Usage:**
@@ -44,9 +44,9 @@ Child → Parent
 
 **Pattern:**
 ```markdown
-[[Ferritin_[Z-003-0001].md|Ferritin]] ↔ [[CRP_[Z-002-0001].md|CRP]] (acute phase connection)
-[[Insulin_[Z-005-0002].md|Insulin]] ↔ [[Glucose_[Z-005-0001].md|Glucose]] (metabolic pair)
-[[LDL_[Z-006-0001].md|LDL]] ↔ [[HDL_[Z-006-0002].md|HDL]] (lipid balance)
+[[Ferritin_Z-003-0001].md|Ferritin]] ↔ [[CRP_Z-002-0001].md|CRP]] (acute phase connection)
+[[Insulin_Z-005-0002].md|Insulin]] ↔ [[Glucose_Z-005-0001].md|Glucose]] (metabolic pair)
+[[LDL_Z-006-0001].md|LDL]] ↔ [[HDL_Z-006-0002].md|HDL]] (lipid balance)
 ```
 
 **Usage:**
@@ -63,10 +63,10 @@ Child → Parent
 **Pattern:**
 ```markdown
 Iron metabolism:
- → [[Ferritin_[Z-003-0001].md|Ferritin]] →  → [[Hemoglobin_[Z-001-1001].md|Hemoglobin]]
+ → [[Ferritin_Z-003-0001].md|Ferritin]] →  → [[Hemoglobin_Z-001-1001].md|Hemoglobin]]
 
 Hormone cascade:
- →  → [[TSH_[Z-010-0001].md|TSH]] →  → [[T4_[Z-010-0002].md|T4]] → [[T3_[Z-010-0003].md|T3]]
+ →  → [[TSH_Z-010-0001].md|TSH]] →  → [[T4_Z-010-0002].md|T4]] → [[T3_Z-010-0003].md|T3]]
 
 Krebs cycle:
 [[Citrate_[B-012-0001].md|Citrate]] → [[Isocitrate_[B-012-0002].md|Isocitrate]] → [[Alpha-Ketoglutarate_[B-012-0003].md|α-KG]] → [[Succinate_[B-012-0004].md|Succinate]]
@@ -85,9 +85,9 @@ Krebs cycle:
 
 **Pattern:**
 ```markdown
-[[Omega-6_[Z-006-0201].md|Omega-6]] vs [[Omega-3_[Z-006-0102].md|Omega-3]] (inflammatory balance)
-[[LDL_[Z-006-0001].md|LDL]] vs [[HDL_[Z-006-0002].md|HDL]] (atherogenic vs protective)
-[[Cortisol_[Z-011-0005].md|Cortisol]] vs [[DHEA-S_[Z-011-0002].md|DHEA-S]] (stress vs vitality)
+[[Omega-6_Z-006-0201].md|Omega-6]] vs [[Omega-3_Z-006-0102].md|Omega-3]] (inflammatory balance)
+[[LDL_Z-006-0001].md|LDL]] vs [[HDL_Z-006-0002].md|HDL]] (atherogenic vs protective)
+[[Cortisol_Z-011-0005].md|Cortisol]] vs [[DHEA-S_Z-011-0002].md|DHEA-S]] (stress vs vitality)
 ```
 
 **Usage:**
@@ -102,10 +102,10 @@ Krebs cycle:
 
 ### Cluster 1: Metabolic Core
 **Central Nodes:**
-- [[Glucose_[Z-005-0001].md|Glucose]]
-- [[Insulin_[Z-005-0002].md|Insulin]]
-- [[HbA1c_[Z-005-0003].md|HbA1c]]
-- [[HOMA-IR_[Z-005-0004].md|HOMA-IR]]
+- [[Glucose_Z-005-0001].md|Glucose]]
+- [[Insulin_Z-005-0002].md|Insulin]]
+- [[HbA1c_Z-005-0003].md|HbA1c]]
+- [[HOMA-IR_Z-005-0004].md|HOMA-IR]]
 
 **Peripheral Connections:**
 - Lipids (triglycerides, LDL, HDL)
@@ -122,9 +122,9 @@ Krebs cycle:
 
 ### Cluster 2: Inflammation & Immunity
 **Central Nodes:**
-- [[CRP_[Z-002-0001].md|CRP]]
-- [[WBC_[Z-001-2001].md|WBC]]
-- [[Ferritin_[Z-003-0001].md|Ferritin]]
+- [[CRP_Z-002-0001].md|CRP]]
+- [[WBC_Z-001-2001].md|WBC]]
+- [[Ferritin_Z-003-0001].md|Ferritin]]
 -  (if added)
 
 **Peripheral Connections:**
@@ -143,11 +143,11 @@ Krebs cycle:
 
 ### Cluster 3: Lipid Metabolism
 **Central Nodes:**
-- [[LDL_[Z-006-0001].md|LDL]]
-- [[HDL_[Z-006-0002].md|HDL]]
-- [[Triglycerides_[Z-006-0003].md|Triglycerides]]
-- [[ApoB_[Z-006-0005].md|ApoB]]
-- [[LDL-P_[Z-006-0007].md|LDL-P]]
+- [[LDL_Z-006-0001].md|LDL]]
+- [[HDL_Z-006-0002].md|HDL]]
+- [[Triglycerides_Z-006-0003].md|Triglycerides]]
+- [[ApoB_Z-006-0005].md|ApoB]]
+- [[LDL-P_Z-006-0007].md|LDL-P]]
 
 **Peripheral Connections:**
 - Advanced markers (Lp(a), small dense LDL)
@@ -165,9 +165,9 @@ Krebs cycle:
 
 ### Cluster 4: Thyroid Axis
 **Central Nodes:**
-- [[TSH_[Z-010-0001].md|TSH]]
-- [[Free-T4_[Z-010-0002].md|Free T4]]
-- [[Free-T3_[Z-010-0003].md|Free T3]]
+- [[TSH_Z-010-0001].md|TSH]]
+- [[Free-T4_Z-010-0002].md|Free T4]]
+- [[Free-T3_Z-010-0003].md|Free T3]]
 
 **Peripheral Connections:**
 - Antibodies (Anti-TPO, Anti-Tg)
@@ -185,11 +185,11 @@ Krebs cycle:
 
 ### Cluster 5: Hormonal Balance
 **Central Nodes:**
-- [[Testosterone_[Z-011-0001].md|Testosterone]]
-- [[Estradiol_[Z-011-0003].md|Estradiol]]
-- [[Progesterone_[Z-011-0004].md|Progesterone]]
-- [[Cortisol_[Z-011-0005].md|Cortisol]]
-- [[DHEA-S_[Z-011-0002].md|DHEA-S]]
+- [[Testosterone_Z-011-0001].md|Testosterone]]
+- [[Estradiol_Z-011-0003].md|Estradiol]]
+- [[Progesterone_Z-011-0004].md|Progesterone]]
+- [[Cortisol_Z-011-0005].md|Cortisol]]
+- [[DHEA-S_Z-011-0002].md|DHEA-S]]
 
 **Peripheral Connections:**
 - Pituitary regulators (LH, FSH)
@@ -207,9 +207,9 @@ Krebs cycle:
 
 ### Cluster 6: Iron & Oxygen Transport
 **Central Nodes:**
-- [[Ferritin_[Z-003-0001].md|Ferritin]]
-- [[Hemoglobin_[Z-001-1001].md|Hemoglobin]]
-- [[Transferrin-Saturation_[Z-003-0003].md|Transferrin Sat]]
+- [[Ferritin_Z-003-0001].md|Ferritin]]
+- [[Hemoglobin_Z-001-1001].md|Hemoglobin]]
+- [[Transferrin-Saturation_Z-003-0003].md|Transferrin Sat]]
 
 **Peripheral Connections:**
 - CBC (MCV, MCH, RDW)
@@ -227,11 +227,11 @@ Krebs cycle:
 
 ### Cluster 7: Mineral Balance
 **Central Nodes:**
-- [[Calcium_[Z-007-0003].md|Calcium]]
-- [[Magnesium_[Z-007-0008].md|Magnesium]]
-- [[Phosphate_[Z-007-0009].md|Phosphate]]
-- [[Zinc-RBC_[Z-007-0006].md|Zinc (RBC)]]
-- [[Copper_[Z-007-0007].md|Copper]]
+- [[Calcium_Z-007-0003].md|Calcium]]
+- [[Magnesium_Z-007-0008].md|Magnesium]]
+- [[Phosphate_Z-007-0009].md|Phosphate]]
+- [[Zinc-RBC_Z-007-0006].md|Zinc (RBC)]]
+- [[Copper_Z-007-0007].md|Copper]]
 
 **Peripheral Connections:**
 - Vitamin D
@@ -252,8 +252,8 @@ Krebs cycle:
 - [[Citrate_[B-012-0001].md|Citrate]]
 - [[Alpha-Ketoglutarate_[B-012-0003].md|α-KG]]
 - [[Succinate_[B-012-0004].md|Succinate]]
-- [[Pyruvate_[Z-012-0010].md|Pyruvate]]
-- [[Lactate_[Z-012-0009].md|Lactate]]
+- [[Pyruvate_Z-012-0010].md|Pyruvate]]
+- [[Lactate_Z-012-0009].md|Lactate]]
 
 **Peripheral Connections:**
 - B-vitamin cofactors
@@ -274,32 +274,32 @@ Krebs cycle:
 ### Bridge 1: Iron ↔ Thyroid
 **Mechanism:** Iron required for thyroid peroxidase (TPO)
 **Pattern:** Low ferritin + hypothyroid symptoms
-**Link:** [[Ferritin_[Z-003-0001].md|Ferritin]] ↔ [[TSH_[Z-010-0001].md|TSH]]
+**Link:** [[Ferritin_Z-003-0001].md|Ferritin]] ↔ [[TSH_Z-010-0001].md|TSH]]
 
 ### Bridge 2: Inflammation ↔ Metabolism
 **Mechanism:** CRP elevates, insulin resistance increases
 **Pattern:** High CRP + high glucose/insulin
-**Link:** [[CRP_[Z-002-0001].md|CRP]] ↔ [[Insulin_[Z-005-0002].md|Insulin]]
+**Link:** [[CRP_Z-002-0001].md|CRP]] ↔ [[Insulin_Z-005-0002].md|Insulin]]
 
 ### Bridge 3: Lipids ↔ Hormones
 **Mechanism:** Steroid hormones from cholesterol
 **Pattern:** Low cholesterol + hormonal deficiency
-**Link:** [[Total-Cholesterol_[Z-006-0004].md|Cholesterol]] ↔ [[Testosterone_[Z-011-0001].md|Testosterone]]
+**Link:** [[Total-Cholesterol_Z-006-0004].md|Cholesterol]] ↔ [[Testosterone_Z-011-0001].md|Testosterone]]
 
 ### Bridge 4: Magnesium ↔ Energy
 **Mechanism:** Mg required for ATP-Mg complex
 **Pattern:** Low Mg + fatigue + mitochondrial dysfunction
-**Link:** [[Magnesium_[Z-007-0008].md|Magnesium]] ↔ [[Citrate_[B-012-0001].md|Citrate]]
+**Link:** [[Magnesium_Z-007-0008].md|Magnesium]] ↔ [[Citrate_[B-012-0001].md|Citrate]]
 
 ### Bridge 5: Zinc ↔ Immunity
 **Mechanism:** Zinc required for T-cell function
 **Pattern:** Low zinc + recurrent infections
-**Link:** [[Zinc-RBC_[Z-007-0006].md|Zinc]] ↔ [[Lymphocytes_[Z-001-2003].md|Lymphocytes]]
+**Link:** [[Zinc-RBC_Z-007-0006].md|Zinc]] ↔ [[Lymphocytes_Z-001-2003].md|Lymphocytes]]
 
 ### Bridge 6: Vitamin D ↔ Calcium ↔ PTH
 **Mechanism:** Classic endocrine axis
 **Pattern:** Low D → low calcium → high PTH
-**Link:** [[Vitamin-D_[Z-007-0001].md|Vitamin D]] ↔ [[Calcium_[Z-007-0003].md|Calcium]] ↔ [[PTH_[Z-007-0002].md|PTH]]
+**Link:** [[Vitamin-D_Z-007-0001].md|Vitamin D]] ↔ [[Calcium_Z-007-0003].md|Calcium]] ↔ [[PTH_Z-007-0002].md|PTH]]
 
 ---
 
@@ -309,13 +309,13 @@ Krebs cycle:
 ```markdown
 ❌ [[Z-003-0001]]
 ❌ 
-✅ [[Ferritin_Iron_Storage_[Z-003-0001].md|Ferritin]]
+✅ [[Ferritin_Iron_Storage_Z-003-0001].md|Ferritin]]
 ```
 
 ### Rule 2: Contextual, Not List
 ```markdown
 ❌ Related: , , 
-✅ [[Ferritin_[Z-003-0001].md|Ferritin elevation]] with [[CRP_[Z-002-0001].md|inflammation]] suggests...
+✅ [[Ferritin_Z-003-0001].md|Ferritin elevation]] with [[CRP_Z-002-0001].md|inflammation]] suggests...
 ```
 
 ### Rule 3: Bi-directional Requirement
@@ -335,8 +335,8 @@ Create reciprocal connections
 
 ### Rule 5: Descriptive Aliases
 ```markdown
-✅ [[Ferritin_[Z-003-0001].md|acute phase reactant]]
-✅ [[Insulin_[Z-005-0002].md|pancreatic beta-cell response]]
+✅ [[Ferritin_Z-003-0001].md|acute phase reactant]]
+✅ [[Insulin_Z-005-0002].md|pancreatic beta-cell response]]
 ```
 
 ### Rule 6: Cross-Domain Bridges
@@ -357,12 +357,12 @@ Example: Iron marker → Thyroid marker (iron-TPO relationship)
 ### Example:
 **In Ferritin zettel:**
 ```markdown
-Ferritin acts as an [[CRP_[Z-002-0001].md|acute phase reactant]]...
+Ferritin acts as an [[CRP_Z-002-0001].md|acute phase reactant]]...
 ```
 
 **In CRP zettel:**
 ```markdown
-CRP elevation often parallels [[Ferritin_[Z-003-0001].md|ferritin rise]]...
+CRP elevation often parallels [[Ferritin_Z-003-0001].md|ferritin rise]]...
 ```
 
 ---

@@ -10,7 +10,7 @@ uid: X-GEN-250428-01
 type: extracted-hypothesis
 title: "Hypothesis: What if this radical choice leads to full relapse instead of full reso..."
 date: 2025-04-28
-source: "[[CGPT_0096_Absolute_Mode_Conversation_[CGPT-0096]]]"
+source: "[[CGPT_0096_Absolute_Mode_Conversation_[CGPT-0096]]"
 aliases: [X-GEN-250428-01]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []

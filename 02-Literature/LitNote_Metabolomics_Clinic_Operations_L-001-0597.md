@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 # Lit: ChatGPT 2025 — Metabolomics Clinic Operations Manual
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0022_Metabolomics_training_role_[CGPT-0022].md]]
+- **ChatGPT conversation:** [[CGPT_0022_Metabolomics_training_role_[CGPT-0022]]
 - **Date:** December 08, 2025
 - **Context:** Clinic workflow and operational standards
 
@@ -27,22 +27,22 @@ extraction-date: 2026-03-08
 ### 1. Six-Stage Patient Flow Operationalized
 > "Assessment → Sample → Analysis → Reporting → Treatment → Follow-up. Each stage has standard operating procedures."
 
-**Zettel extracted:** [[Clinic_Patient_Flow_Operations_[Z-001-1077].md]]
+**Zettel extracted:** [[Clinic_Patient_Flow_Operations_Z-001-1077]]
 
 ### 2. Quality Standards and Checkpoints
 > "Pre-analytical variables, sample integrity, interpretation consistency, reporting accuracy."
 
-**Zettel extracted:** [[Metabolomics_Quality_Standards_[Z-001-1078].md]]
+**Zettel extracted:** [[Metabolomics_Quality_Standards_Z-001-1078]]
 
 ### 3. Follow-Up Assessment Rhythms
 > "4-8-16-28 week schedule; what to evaluate at each checkpoint."
 
-**Zettel extracted:** [[Follow_Up_Assessment_Rhythms_[Z-001-1079].md]]
+**Zettel extracted:** [[Follow_Up_Assessment_Rhythms_Z-001-1079]]
 
 ### 4. New Doctor Training Checklist
 > "Competency verification at each training stage before independent practice."
 
-**Zettel extracted:** [[Clinician_Training_Competency_Checklist_[Z-001-1080].md]]
+**Zettel extracted:** [[Clinician_Training_Competency_Checklist_Z-001-1080]]
 
 ## The Six Stages Operationalized
 
@@ -68,15 +68,15 @@ extraction-date: 2026-03-08
 **Training Application:** New doctors must demonstrate competence at each stage before progression.
 
 ## Zettels Created from This Source
-1. [[Clinic_Patient_Flow_Operations_[Z-001-1077].md]] — Stage-by-stage procedures
-2. [[Metabolomics_Quality_Standards_[Z-001-1078].md]] — Quality checkpoints
-3. [[Follow_Up_Assessment_Rhythms_[Z-001-1079].md]] — Follow-up schedule
-4. [[Clinician_Training_Competency_Checklist_[Z-001-1080].md]] — Competency verification
+1. [[Clinic_Patient_Flow_Operations_Z-001-1077]] — Stage-by-stage procedures
+2. [[Metabolomics_Quality_Standards_Z-001-1078]] — Quality checkpoints
+3. [[Follow_Up_Assessment_Rhythms_Z-001-1079]] — Follow-up schedule
+4. [[Clinician_Training_Competency_Checklist_Z-001-1080]] — Competency verification
 
 ## Related References
 - 
-- [[Six_Stage_Patient_Flow_Framework_[Z-001-1031].md]]
-- [[Tiered_Supplement_Prescribing_Hierarchy_[Z-001-1034].md]]
+- [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
+- [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1034]]
 
 ---
 

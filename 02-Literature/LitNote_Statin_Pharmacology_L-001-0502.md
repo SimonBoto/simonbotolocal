@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Statin Pharmacology and Clinical Evidence
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0337_Cholesterol_Study_Reassessment_Overview_[CGPT-0337]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0337_Cholesterol_Study_Reassessment_Overview_[CGPT-0337]]
 - **Date:** June 29, 2024
 - **Scope:** Statin mechanisms, major clinical trials, Framingham reassessment, clinical applications
 
@@ -93,7 +93,7 @@ Reduced circulating LDL-C
 - Increases fibrous cap thickness
 - Decreases inflammation
 
-**Zettels extracted:** [[Statin_Mechanism_HMG_CoA_Reductase_[Z-001-0509].md]]
+**Zettels extracted:** [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
 
 ### 2. Major Clinical Trials — The Evidence Foundation
 > "Landmark statin trials established the efficacy of these agents in both primary and secondary prevention, demonstrating consistent reductions in cardiovascular events and mortality across diverse populations."
@@ -185,7 +185,7 @@ Reduced circulating LDL-C
   - Consistent across age, sex, baseline risk
 - **Conclusion:** Log-linear relationship, no threshold
 
-**Zettels extracted:** [[Statin_Major_Clinical_Trials_[Z-001-0510].md]]
+**Zettels extracted:** [[Statin_Major_Clinical_Trials_Z-001-0510]]
 
 ### 3. Framingham Reassessment — Cholesterol Hypothesis Evolution
 > "The Framingham Heart Study's initial findings have undergone reassessment, revealing complexities in the cholesterol-CVD relationship that inform modern precision medicine approaches."
@@ -228,7 +228,7 @@ Reduced circulating LDL-C
 - **To:** Risk-stratified, individualized therapy
 - **Future:** Genetic profiling, inflammation markers, plaque imaging
 
-**Zettels extracted:** [[Framingham_Reassessment_Cholesterol_Hypothesis_[Z-001-0511].md]]
+**Zettels extracted:** [[Framingham_Reassessment_Cholesterol_Hypothesis_Z-001-0511]]
 
 ### 4. Statin Intolerance and Side Effects
 > "Statin intolerance affects 5-10% of patients, with myopathy being the most common concern; understanding mechanisms and management strategies is essential for optimal patient care."
@@ -280,7 +280,7 @@ Reduced circulating LDL-C
 - **Lifestyle intensification:** Diet, exercise, weight loss
 - **Accept residual risk:** If all options exhausted
 
-**Zettels extracted:** [[Statin_Intolerance_Myopathy_Management_[Z-001-0919].md]]
+**Zettels extracted:** [[Statin_Intolerance_Myopathy_Management_Z-001-0919]]
 
 ### 5. Statin Response Variability — Pharmacogenomics
 > "Statin response varies substantially between individuals due to genetic polymorphisms affecting pharmacokinetics and pharmacodynamics, enabling precision dosing strategies."
@@ -319,7 +319,7 @@ Reduced circulating LDL-C
 - **Precision dosing:** SLCO1B1 for simvastatin
 - **Therapy selection:** Rosuvastatin less affected by SLCO1B1
 
-**Zettels extracted:** [[Statin_Pharmacogenomics_SLCO1B1_[Z-001-0920].md]]
+**Zettels extracted:** [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]]
 
 ### 6. Non-Statin Lipid-Lowering Options
 > "For patients who cannot tolerate statins or require additional LDL reduction, several non-statin agents provide complementary or alternative pathways to achieve lipid goals."
@@ -375,7 +375,7 @@ Reduced circulating LDL-C
 - **Trial evidence:** AIM-HIGH, HPS2-THRIVE showed no outcome benefit
 - **Use:** Limited role; not first-line
 
-**Zettels extracted:** [[Non_Statin_Lipid_Lowering_Options_[Z-001-0514].md]]
+**Zettels extracted:** [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
 
 ### 7. Clinical Decision Making — Who and When
 > "Statin therapy decisions should integrate absolute cardiovascular risk, baseline LDL, comorbidities, age, and patient preferences, with treatment intensity matched to risk level."
@@ -430,7 +430,7 @@ Reduced circulating LDL-C
 - **6-12 weeks:** Response, adherence, side effects
 - **Annually:** Lipids, safety
 
-**Zettels extracted:** [[Statin_Clinical_Decision_Making_[Z-001-0515].md]]
+**Zettels extracted:** [[Statin_Clinical_Decision_Making_Z-001-0515]]
 
 ---
 
@@ -458,13 +458,13 @@ Reduced circulating LDL-C
 ---
 
 ## Zettels Created from This Source
-1. [[Statin_Mechanism_HMG_CoA_Reductase_[Z-001-0509].md]]
-2. [[Statin_Major_Clinical_Trials_[Z-001-0510].md]]
-3. [[Framingham_Reassessment_Cholesterol_Hypothesis_[Z-001-0511].md]]
-4. [[Statin_Intolerance_Myopathy_Management_[Z-001-0919].md]]
-5. [[Statin_Pharmacogenomics_SLCO1B1_[Z-001-0920].md]]
-6. [[Non_Statin_Lipid_Lowering_Options_[Z-001-0514].md]]
-7. [[Statin_Clinical_Decision_Making_[Z-001-0515].md]]
+1. [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]]
+2. [[Statin_Major_Clinical_Trials_Z-001-0510]]
+3. [[Framingham_Reassessment_Cholesterol_Hypothesis_Z-001-0511]]
+4. [[Statin_Intolerance_Myopathy_Management_Z-001-0919]]
+5. [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]]
+6. [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]]
+7. [[Statin_Clinical_Decision_Making_Z-001-0515]]
 
 ---
 

@@ -32,14 +32,14 @@ Dual-phase design:
 - **Phase 1:** Cross-sectional biomarker identification (N=200)
 - **Phase 2:** 12-week randomized intervention (N=100 insulin resistant)
 
-**Zettel extracted:** [[METHAP_Study_Design_Overview_[Z-002-0616].md]]
+**Zettel extracted:** [[METHAP_Study_Design_Overview_Z-002-0616]]
 
 ### 2. Participant Selection and Sample Size
 > "Συνολικά, 200 συμμετέχοντες... επάρκεια μεγέθους δείγματος έχει επικυρωθεί στατιστικά χρησιμοποιώντας το πακέτο 'MetSizeR'"
 
 Power calculation validated with MetSizeR (R 4.3.2), FDR 5%, 65 metabolites, 20% significant.
 
-**Zettel extracted:** [[METHAP_Participant_Selection_Sample_Size_[Z-002-0617].md]]
+**Zettel extracted:** [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]]
 
 ### 3. Inclusion/Exclusion Criteria
 > "Κριτήρια ένταξης για την ομάδα ελέγχου: Γλυκόζη νηστείας < 100, HbA1c<5.6% & HOMA IR<2 & Τριγλυκερίδια <150"
@@ -47,7 +47,7 @@ Power calculation validated with MetSizeR (R 4.3.2), FDR 5%, 65 metabolites, 20%
 Control group: Healthy metabolic parameters  
 Intervention group: At least one IR marker elevated
 
-**Zettel extracted:** [[METHAP_Inclusion_Exclusion_Criteria_[Z-002-0618].md]]
+**Zettel extracted:** [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]]
 
 ### 4. Intervention Protocol
 > "Οι μισοί (n=50) θα συστηθεί δίαιτα χαμηλή σε υδατάνθρακες μαζί με συγκεκριμένα συμπληρώματα διατροφής"
@@ -57,7 +57,7 @@ Intervention group: At least one IR marker elevated
 - Supplements: Multivitamin, Vitamin D, Vitamin C, Magnesium, Glutamine
 - Control group: No intervention
 
-**Zettel extracted:** [[METHAP_Intervention_Protocol_[Z-002-0619].md]]
+**Zettel extracted:** [[METHAP_Intervention_Protocol_Z-002-0619]]
 
 ### 5. Metabolomics Analysis Plan
 > "Αέρια χρωματογραφία - φασματομετρία μάζας (GC-MS) για τον βιοχημικό έλεγχο και την μεταβολομική ανάλυση"
@@ -67,7 +67,7 @@ Intervention group: At least one IR marker elevated
 - Laboratory: University of Crete Toxicology Lab
 - Supervisor: Prof. Tsatsakis
 
-**Zettel extracted:** [[METHAP_Metabolomics_Analysis_Plan_[Z-002-0620].md]]
+**Zettel extracted:** [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620]]
 
 ## Key Study Parameters
 
@@ -90,11 +90,11 @@ This LitNote documents:
 - ✅ Study value (early IR detection, intervention efficacy)
 
 ## Zettels Created from This Source
-1. [[METHAP_Study_Design_Overview_[Z-002-0616].md]] — Dual-phase study structure
-2. [[METHAP_Participant_Selection_Sample_Size_[Z-002-0617].md]] — Power calculation, recruitment
-3. [[METHAP_Inclusion_Exclusion_Criteria_[Z-002-0618].md]] — Eligibility criteria
-4. [[METHAP_Intervention_Protocol_[Z-002-0619].md]] — 12-week intervention details
-5. [[METHAP_Metabolomics_Analysis_Plan_[Z-002-0620].md]] — GC-MS methodology
+1. [[METHAP_Study_Design_Overview_Z-002-0616]] — Dual-phase study structure
+2. [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]] — Power calculation, recruitment
+3. [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]] — Eligibility criteria
+4. [[METHAP_Intervention_Protocol_Z-002-0619]] — 12-week intervention details
+5. [[METHAP_Metabolomics_Analysis_Plan_Z-002-0620]] — GC-MS methodology
 
 ## Related References
 - [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]] — Ethics framework

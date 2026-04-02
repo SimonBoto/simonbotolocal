@@ -10,7 +10,7 @@ uid: X-MET-230911-00
 type: extracted-insight
 title: "i want to explore more papers for the role of urine organic acids and plasma fat..."
 date: 2023-09-11
-source: "[[CGPT_0571_ChatGPTs_knowledge_is_based_on_information_availab_[CGPT-0571]]]"
+source: "[[CGPT_0571_ChatGPTs_knowledge_is_based_on_information_availab_[CGPT-0571]]"
 aliases: [X-MET-230911-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
@@ -56,8 +56,8 @@ Extracted from conversation on 2023-09-11 about "ChatGPT's knowledge is based on
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
 
 ## Status
 

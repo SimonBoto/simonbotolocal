@@ -16,7 +16,7 @@ domain: 001
 # Scientific Writing — Critical Assessment Methodology for Study Evaluation
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328].md]]
+- **ChatGPT conversation:** [[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328]]
 - **Date:** July 14, 2024
 - **Scope:** Line-by-line critique of gastric cancer metabolomics study conclusions
 - **Focus:** Methodology for deconstructing overstated claims
@@ -28,7 +28,7 @@ domain: 001
 ### 1. Line-by-Line Conclusion Critique Framework
 > Systematic deconstruction of each conclusion statement to identify unsupported claims
 
-**Zettel extracted:** [[Line_by_Line_Critique_Framework_Conclusions_[Z-001-0942].md]]
+**Zettel extracted:** [[Line_by_Line_Critique_Framework_Conclusions_Z-001-0942]]
 
 **Process:**
 - Break down each sentence of conclusions section
@@ -41,7 +41,7 @@ domain: 001
 ### 2. Limitation Statement Best Practices
 > Honest limitation sections strengthen credibility; hidden limitations destroy trust
 
-**Zettel extracted:** [[Limitation_Statement_Best_Practices_[Z-001-0943].md]]
+**Zettel extracted:** [[Limitation_Statement_Best_Practices_Z-001-0943]]
 
 **Principles:**
 - State limitations before conclusions
@@ -54,7 +54,7 @@ domain: 001
 ### 3. Rewriting Overstated Claims
 > Convert premature conclusions to appropriately cautious statements
 
-**Zettel extracted:** [[Rewriting_Overstated_Claims_Cautious_Language_[Z-001-0944].md]]
+**Zettel extracted:** [[Rewriting_Overstated_Claims_Cautious_Language_Z-001-0944]]
 
 **Examples from source:**
 - ❌ "Successfully validated biomarkers" → ✅ "Identified candidate biomarkers requiring validation"

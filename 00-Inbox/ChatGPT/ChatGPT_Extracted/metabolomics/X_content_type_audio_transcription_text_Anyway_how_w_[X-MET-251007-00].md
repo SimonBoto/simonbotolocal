@@ -10,7 +10,7 @@ uid: X-MET-251007-00
 type: extracted-insight
 title: "{'content_type': 'audio_transcription', 'text': 'Anyway, how would you think abo..."
 date: 2025-10-07
-source: "[[CGPT_0052_Greeting_exchange_[CGPT-0052]]]"
+source: "[[CGPT_0052_Greeting_exchange_[CGPT-0052]]"
 aliases: [X-MET-251007-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
@@ -44,8 +44,8 @@ Extracted from conversation on 2025-10-07 about "Greeting exchange".
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
 
 ## Status
 

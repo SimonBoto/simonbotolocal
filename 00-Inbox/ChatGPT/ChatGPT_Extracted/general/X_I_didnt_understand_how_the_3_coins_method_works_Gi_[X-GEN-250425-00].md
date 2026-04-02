@@ -22,7 +22,7 @@ Give example
 
 ### 6."
 date: 2025-04-25
-source: [[CGPT_0100_I_Ching_Reading_Guide_[CGPT-0100]]]
+source: [[CGPT_0100_I_Ching_Reading_Guide_[CGPT-0100]]
 aliases: [X-GEN-250425-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []

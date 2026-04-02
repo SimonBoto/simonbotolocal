@@ -14,7 +14,7 @@ tags:
   - nadph
   - nucleotide-synthesis
   - glycolysis
-source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]"
+source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]"
 extraction-date: 2026-03-04
 status: extracted
 parent-moc:
@@ -176,12 +176,12 @@ F6P + G3P (PPP non-oxidative) → re-enter glycolysis
 
 ## Zettels Extracted
 
-- [[PPP_Oxidative_Phase_[Z-001-0457]]] Pentose Phosphate Pathway Oxidative Phase
-- [[Ribose_Structure_RNA_Backbone_[Z-001-0458]]] Ribose Structure and RNA Backbone Role
-- [[Triose_Metabolism_G3P_DHAP_[Z-001-0459]]] Triose Metabolism: G3P and DHAP Integration
-- [[NADPH_Functions_Antioxidant_Defense_[Z-001-0460]]] NADPH Functions in Anabolism and Antioxidant Defense
-- [[G6PD_Deficiency_Evolutionary_Trade-offs_[Z-001-0461]]] G6PD Deficiency and Evolutionary Trade-offs
-- [[Nucleobase_Phosphorylation_Nucleotide_Formation_[Z-001-0465]]] Nucleobase Phosphorylation and Nucleotide Formation
+- [[PPP_Oxidative_Phase_Z-001-0457]] Pentose Phosphate Pathway Oxidative Phase
+- [[Ribose_Structure_RNA_Backbone_Z-001-0458]] Ribose Structure and RNA Backbone Role
+- [[Triose_Metabolism_G3P_DHAP_Z-001-0459]] Triose Metabolism: G3P and DHAP Integration
+- [[NADPH_Functions_Antioxidant_Defense_Z-001-0460]] NADPH Functions in Anabolism and Antioxidant Defense
+- [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]] G6PD Deficiency and Evolutionary Trade-offs
+- [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]] Nucleobase Phosphorylation and Nucleotide Formation
 
 ---
 

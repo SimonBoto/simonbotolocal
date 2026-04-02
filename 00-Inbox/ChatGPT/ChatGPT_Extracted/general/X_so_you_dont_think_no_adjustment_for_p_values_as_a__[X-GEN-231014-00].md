@@ -20,7 +20,7 @@ title: "so you dont think no adjustment for p values as a major drawback?
 
 ### 52..."
 date: 2023-10-14
-source: [[CGPT_0543_zhao_et_al_genomics_[CGPT-0543]]]
+source: [[CGPT_0543_zhao_et_al_genomics_[CGPT-0543]]
 aliases: [X-GEN-231014-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []

@@ -10,7 +10,7 @@ uid: X-GEN-240720-00
 type: extracted-insight
 title: "Only thinking about it revives a very stressful feeling."
 date: 2024-07-20
-source: "[[CGPT_0324_Grant_Legality_Compliance_[CGPT-0324]]]"
+source: "[[CGPT_0324_Grant_Legality_Compliance_[CGPT-0324]]"
 aliases: [X-GEN-240720-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []

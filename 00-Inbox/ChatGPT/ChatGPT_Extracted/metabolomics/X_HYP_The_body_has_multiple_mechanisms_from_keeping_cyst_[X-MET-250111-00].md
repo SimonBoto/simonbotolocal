@@ -10,7 +10,7 @@ uid: X-MET-250111-00
 type: extracted-hypothesis
 title: "Hypothesis: The body has multiple mechanisms from keeping cysteine and sulfur and ..."
 date: 2025-01-11
-source: "[[CGPT_0200_Grey_Hair_Supplement_Review_[CGPT-0200]]]"
+source: "[[CGPT_0200_Grey_Hair_Supplement_Review_[CGPT-0200]]"
 aliases: [X-MET-250111-00]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
@@ -48,8 +48,8 @@ If true, this suggests:
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
 
 ## Validation Log
 

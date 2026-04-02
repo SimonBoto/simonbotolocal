@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Ancel Keys and the Diet-Heart Hypothesis
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0074_Seven_Countries_Study_Summary_[CGPT-0074]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0074_Seven_Countries_Study_Summary_[CGPT-0074]]
 - **Date:** Historical and policy analysis
 - **Scope:** Ancel Keys' influence, diet-heart hypothesis, policy evolution, consequences
 
@@ -82,7 +82,7 @@ extraction-date: 2026-03-01
 - Lived to age 100
 - Practiced what he preached
 
-**Zettels extracted:** [[Ancel_Keys_Scientific_Legacy_[Z-001-0527].md]]
+**Zettels extracted:** [[Ancel_Keys_Scientific_Legacy_Z-001-0527]]
 
 ### 2. From Hypothesis to Policy — The Diet-Heart Era
 > "Keys' hypothesis moved rapidly from scientific conjecture to public health policy, driven by a compelling narrative, charismatic advocacy, and premature institutional endorsement."
@@ -153,7 +153,7 @@ extraction-date: 2026-03-01
 - Career paths established
 - Paradigm resistance
 
-**Zettels extracted:** [[Diet_Heart_Hypothesis_Policy_Evolution_[Z-001-0935].md]]
+**Zettels extracted:** [[Diet_Heart_Hypothesis_Policy_Evolution_Z-001-0935]]
 
 ### 3. Scientific Revolutions — The Shift Away from Fat Phobia
 > "Starting in the 2000s, accumulating evidence challenged the diet-heart hypothesis, leading to gradual rehabilitation of dietary fat and recognition that carbohydrate quality matters more than fat quantity."
@@ -244,7 +244,7 @@ extraction-date: 2026-03-01
 - Less emphasis on single nutrients
 - Recognition of healthy fat sources
 
-**Zettels extracted:** [[Scientific_Revolution_Fat_Rehabilitation_[Z-001-0529].md]]
+**Zettels extracted:** [[Scientific_Revolution_Fat_Rehabilitation_Z-001-0529]]
 
 ### 4. Consequences of the Low-Fat Era
 > "The widespread adoption of low-fat dietary guidelines had unintended consequences, including increased refined carbohydrate consumption, metabolic syndrome prevalence, and questionable cardiovascular benefit."
@@ -320,7 +320,7 @@ extraction-date: 2026-03-01
 - Unintended metabolic consequences
 - Difficult to reverse course
 
-**Zettels extracted:** [[Low_Fat_Era_Consequences_[Z-001-0530].md]]
+**Zettels extracted:** [[Low_Fat_Era_Consequences_Z-001-0530]]
 
 ### 5. Lessons for Evidence-Based Medicine
 > "The diet-heart saga offers crucial lessons about scientific rigor, the dangers of premature consensus, institutional inertia, and the need for continuous evidence reassessment."
@@ -394,7 +394,7 @@ extraction-date: 2026-03-01
 - Living systematic reviews
 - Rapid guideline updates
 
-**Zettels extracted:** [[Evidence_Based_Medicine_Lessons_[Z-001-0531].md]]
+**Zettels extracted:** [[Evidence_Based_Medicine_Lessons_Z-001-0531]]
 
 ---
 
@@ -422,11 +422,11 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Ancel_Keys_Scientific_Legacy_[Z-001-0527].md]]
-2. [[Diet_Heart_Hypothesis_Policy_Evolution_[Z-001-0935].md]]
-3. [[Scientific_Revolution_Fat_Rehabilitation_[Z-001-0529].md]]
-4. [[Low_Fat_Era_Consequences_[Z-001-0530].md]]
-5. [[Evidence_Based_Medicine_Lessons_[Z-001-0531].md]]
+1. [[Ancel_Keys_Scientific_Legacy_Z-001-0527]]
+2. [[Diet_Heart_Hypothesis_Policy_Evolution_Z-001-0935]]
+3. [[Scientific_Revolution_Fat_Rehabilitation_Z-001-0529]]
+4. [[Low_Fat_Era_Consequences_Z-001-0530]]
+5. [[Evidence_Based_Medicine_Lessons_Z-001-0531]]
 
 ---
 

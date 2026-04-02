@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 # Lit: ChatGPT 2025 — Metabolomics Chief Instructor Framework
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0022_Metabolomics_training_role_[CGPT-0022].md]]
+- **ChatGPT conversation:** [[CGPT_0022_Metabolomics_training_role_[CGPT-0022]]
 - **Date:** December 08, 2025
 - **Messages:** 179
 
@@ -27,27 +27,27 @@ extraction-date: 2026-03-08
 ### 1. Metabolomics Chief Instructor (MCI) Role
 > "The role I adopt needs to match three simultaneous demands: Absolute scientific precision, Cognitive scaffolding, Operational discipline."
 
-**Zettel extracted:** [[Metabolomics_Chief_Instructor_Role_Definition_[Z-001-1029].md]]
+**Zettel extracted:** [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
 
 ### 2. Three-Function Architecture of MCI
 > "Architect of Knowledge — Maps entire metabolomics curriculum into modular, teachable, cumulative blocks. Cognitive Coach — Teaches doctors how to reason like metabolomics clinicians. Operational Integrator — Links training to real clinical flow."
 
-**Zettel extracted:** [[MCI_Three_Function_Architecture_[Z-001-1030].md]]
+**Zettel extracted:** [[MCI_Three_Function_Architecture_Z-001-1030]]
 
 ### 3. Six-Stage Patient Flow Framework
 > "Assessment → Sample Logistics → Analysis → Reporting → Treatment → Follow-up. Each stage has specific learning objectives and Socratic challenges."
 
-**Zettel extracted:** [[Six_Stage_Patient_Flow_Framework_[Z-001-1031].md]]
+**Zettel extracted:** [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
 
 ### 4. Tiered Supplement Prescribing Architecture
 > "Foundational (Vit D, Mg, Omega-3, B-complex, gut basics) → Targeted mitochondrial support → Detox + methylation → Gut rebalancing → Lipid repair → Lifestyle directives"
 
-**Zettel extracted:** [[Tiered_Supplement_Prescribing_Hierarchy_[Z-001-1032].md]]
+**Zettel extracted:** [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]]
 
 ### 5. Training Through Socratic Method
 > "Let the trainee make a common error → Model the correction → Explain why their pattern leads to mistakes."
 
-**Zettel extracted:** [[Socratic_Method_Metabolomics_Training_[Z-001-1033].md]]
+**Zettel extracted:** [[Socratic_Method_Metabolomics_Training_Z-001-1033]]
 
 ## Key Training Stages
 
@@ -71,11 +71,11 @@ extraction-date: 2026-03-08
 - What assessment metrics define "competence" at each stage?
 
 ## Zettels Created from This Source
-1. [[Metabolomics_Chief_Instructor_Role_Definition_[Z-001-1029].md]] — Core MCI role definition
-2. [[MCI_Three_Function_Architecture_[Z-001-1030].md]] — Architect, Coach, Integrator
-3. [[Six_Stage_Patient_Flow_Framework_[Z-001-1031].md]] — Complete patient journey
-4. [[Tiered_Supplement_Prescribing_Hierarchy_[Z-001-1032].md]] — Treatment sequencing
-5. [[Socratic_Method_Metabolomics_Training_[Z-001-1033].md]] — Pedagogical approach
+1. [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]] — Core MCI role definition
+2. [[MCI_Three_Function_Architecture_Z-001-1030]] — Architect, Coach, Integrator
+3. [[Six_Stage_Patient_Flow_Framework_Z-001-1031]] — Complete patient journey
+4. [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]] — Treatment sequencing
+5. [[Socratic_Method_Metabolomics_Training_Z-001-1033]] — Pedagogical approach
 
 ## Related References
 -  — Parent curriculum map
@@ -91,6 +91,6 @@ extraction-date: 2026-03-08
 ---
 
 ## Post-Extraction Verification Checklist
-- [x] All zettel links use FULL format: `[[Title_[Z-001-0001].md]]`
-- [x] No bare UIDs: `[[Insulin_Receptor_Structure_[Z-001-0001]]]`
+- [x] All zettel links use FULL format: `[[Title_Z-001-0001]]`
+- [x] No bare UIDs: `[[Insulin_Receptor_Structure_Z-001-0001]]`
 - [x] Concept count matches "Zettels Created from This Source" list

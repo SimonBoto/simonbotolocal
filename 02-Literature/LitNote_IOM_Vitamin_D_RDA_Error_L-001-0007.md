@@ -27,22 +27,22 @@ extraction-date: 2026-03-01
 ### 1. IOM Used Mean Instead of 97.5th Percentile
 > "Critics claimed that the IOM misapplied statistical methods in calculating the RDA. Specifically, they argued that the IOM used the average (mean) vitamin D intake required to achieve the target serum level, rather than accounting for the variability (standard deviation) in individual responses."
 
-**Zettels extracted:** [[IOM_Mean_vs_97th_Percentile_Error_[Z-001-0058].md]]
+**Zettels extracted:** [[IOM_Mean_vs_97th_Percentile_Error_Z-001-0058]]
 
 ### 2. Result Was 10x Underestimation
 > "By focusing on the mean, the IOM's RDA would only ensure that about 50% of the population reaches the desired serum level, not the intended 97.5%. When recalculating using proper statistical methods to cover 97.5% of the population, the required intake appeared to be closer to 7,000 to 8,000 IU per day, not 600-800 IU."
 
-**Zettels extracted:** [[Vitamin_D_RDA_10x_Underestimation_[Z-001-0059].md]]
+**Zettels extracted:** [[Vitamin_D_RDA_10x_Underestimation_Z-001-0059]]
 
 ### 3. IOM Defended Methodology Despite Evidence
 > "The IOM has maintained that their calculations were appropriate and based on the available evidence at the time. The IOM expressed caution over higher vitamin D intakes due to potential risks like hypercalcemia."
 
-**Zettels extracted:** [[IOM_Defensive_Response_to_Critique_[Z-001-0060].md]]
+**Zettels extracted:** [[IOM_Defensive_Response_to_Critique_Z-001-0060]]
 
 ### 4. Alternative Guidelines Are Higher
 > "Organizations like the Endocrine Society have recommended higher daily intakes of vitamin D (1,500-2,000 IU for adults) to achieve optimal serum levels."
 
-**Zettels extracted:** [[Endocrine_Society_vs_IOM_Guidelines_[Z-001-0061].md]]
+**Zettels extracted:** [[Endocrine_Society_vs_IOM_Guidelines_Z-001-0061]]
 
 ---
 
@@ -69,15 +69,15 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[IOM_Mean_vs_97th_Percentile_Error_[Z-001-0058].md]]
-2. [[Vitamin_D_RDA_10x_Underestimation_[Z-001-0059].md]]
-3. [[IOM_Defensive_Response_to_Critique_[Z-001-0060].md]]
-4. [[Endocrine_Society_vs_IOM_Guidelines_[Z-001-0061].md]]
+1. [[IOM_Mean_vs_97th_Percentile_Error_Z-001-0058]]
+2. [[Vitamin_D_RDA_10x_Underestimation_Z-001-0059]]
+3. [[IOM_Defensive_Response_to_Critique_Z-001-0060]]
+4. [[Endocrine_Society_vs_IOM_Guidelines_Z-001-0061]]
 
 ## Related References
 - [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]] — Related safety fears
 - [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — Physiological capacity
-- [[Vitamin_D_Paradigm_Failure_Production_vs_Recommendations_[Z-001-0073].md]] — Synthesis of errors
+- [[Vitamin_D_Paradigm_Failure_Production_vs_Recommendations_Z-001-0073]] — Synthesis of errors
 -  — Parent MOC
 -  — Trial design implications
 

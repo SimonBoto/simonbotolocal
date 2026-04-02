@@ -47,7 +47,7 @@ extraction-priority: P1
 parent-moc: [[MOC-Research-Methods]]
 connections:
   extracted-zettels:
-    - "[[Omics_Cascade_Genotype_Phenotype_[Z-001-0902]]]"
+    - "[[Omics_Cascade_Genotype_Phenotype_Z-001-0902]]"
   synthesis-links: []
   related-refs: []
   supports-claims: []

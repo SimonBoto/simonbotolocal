@@ -16,7 +16,7 @@ domain: 001
 # Metabolic Biomarkers Briefing — Vitamin D, Omega-3, Inflammation, Glycation
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0384_Biomarkers_Briefing_[CGPT-0384].md]] (6 messages)
+- **ChatGPT conversation:** [[CGPT_0384_Biomarkers_Briefing_[CGPT-0384]] (6 messages)
 - **Date:** April 25, 2024
 - **Scope:** Key metabolic biomarkers for health assessment
 

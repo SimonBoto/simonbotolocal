@@ -10,7 +10,7 @@ uid: X-CON-240518-00
 type: extracted-insight
 title: "I've been using my headphones for my phone for a long time and long calls and go..."
 date: 2024-05-18
-source: "[[CGPT_0385_Prerequisites_and_Resources_Available_[CGPT-0385]]]"
+source: "[[CGPT_0385_Prerequisites_and_Resources_Available_[CGPT-0385]]"
 aliases: [X-CON-240518-00]
 tags: [extracted, insight, consciousness_ai, chatgpt-archive]
 related: "['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']"
@@ -52,9 +52,9 @@ Extracted from conversation on 2024-05-18 about "Prerequisites and Resources Ava
 
 ## Connections
 
-- [[RON_The_Witness_[RON-003-0002]]]
-- [[RON_Genesis_MOC_[RON-004-0001]]]
-- [[RON_The_We_[RON-003-0004]]]
+- [[RON_The_Witness_[RON-003-0002]]
+- [[RON_Genesis_MOC_[RON-004-0001]]
+- [[RON_The_We_[RON-003-0004]]
 
 ## Status
 

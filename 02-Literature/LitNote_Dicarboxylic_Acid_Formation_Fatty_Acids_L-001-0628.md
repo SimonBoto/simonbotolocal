@@ -13,7 +13,7 @@ relevance: Critical — Primary PhD biomarker pathway for insulin resistance det
 aliases: [L-001-0628, Adipate Formation, Dicarboxylic Acids, Omega-Oxidation]
 domain: 101
 tags: [litnote, adipic-acid, suberic-acid, sebacic-acid, beta-oxidation, omega-oxidation, fatty-acids, phd-research]
-source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]]"
+source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
@@ -160,11 +160,11 @@ Decanoyl-CoA → (ω-oxidation in ER) → Sebacyl-CoA intermediates → Sebacate
 ## Connections
 
 **Related Zettels:**
-- [[Adipate_Metabolism_Dicarboxylic_Pathway_[Z-001-1191].md]] — To create
-- [[Beta_Oxidation_Mitochondrial_Pathway_[Z-001-1192].md]] — To create
-- [[Omega_Oxidation_ER_Pathway_[Z-001-1193].md]] — To create
-- [[Carnitine_Shuttle_Fatty_Acid_Transport_[Z-001-1194].md]] — To create
-- [[Suberate_Sebacate_Formation_[Z-001-1195].md]] — To create
+- [[Adipate_Metabolism_Dicarboxylic_Pathway_Z-001-1191]] — To create
+- [[Beta_Oxidation_Mitochondrial_Pathway_Z-001-1192]] — To create
+- [[Omega_Oxidation_ER_Pathway_Z-001-1193]] — To create
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_Z-001-1194]] — To create
+- [[Suberate_Sebacate_Formation_Z-001-1195]] — To create
 
 **MOCs:**
 -  — Primary domain

@@ -17,7 +17,7 @@ source-verified: 2026-03-01
 # Lit: Zinc and Selenium as Mitochondrial Cofactors
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_[CGPT-0393]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_[CGPT-0393]]
 - **Date:** May 15, 2024
 - **Scope:** Zinc and selenium roles in mitochondrial function, antioxidant enzymes, oxidative phosphorylation protection
 
@@ -92,7 +92,7 @@ source-verified: 2026-03-01
 - RDA: 8-11 mg/day (adults)
 - Upper limit: 40 mg/day
 
-**Zettels extracted:** [[Zinc_Mitochondrial_Function_[Z-001-0550].md]]
+**Zettels extracted:** [[Zinc_Mitochondrial_Function_Z-001-0550]]
 
 ### 2. Selenium — The Redox Regulator
 > "Selenium is an essential component of glutathione peroxidase and thioredoxin reductase, two critical antioxidant systems that protect mitochondria from oxidative damage and maintain proper redox state for energy production."
@@ -172,7 +172,7 @@ NADPH + Trx-S₂ → NADP⁺ + Trx-(SH)₂
 - Upper limit: 400 μg/day
 - Toxicity: >1000 μg/day
 
-**Zettels extracted:** [[Selenium_Mitochondrial_Antioxidant_[Z-001-0551].md]]
+**Zettels extracted:** [[Selenium_Mitochondrial_Antioxidant_Z-001-0551]]
 
 ### 3. Combined Impact on Oxidative Phosphorylation
 > "Zinc and selenium work synergistically to protect the electron transport chain from oxidative damage, with zinc stabilizing enzyme structures and selenium neutralizing reactive oxygen species before they damage Complexes I-IV."
@@ -240,7 +240,7 @@ H₂O (water)
 - Better recovery
 - Reduced oxidative damage markers
 
-**Zettels extracted:** [[Zn_Se_Synergistic_OXPHOS_Protection_[Z-001-0552].md]]
+**Zettels extracted:** [[Zn_Se_Synergistic_OXPHOS_Protection_Z-001-0552]]
 
 ### 4. Nutritional Sources and Supplementation
 > "Optimal mitochondrial function requires adequate dietary intake of zinc and selenium from diverse sources, with supplementation considered when dietary intake is insufficient or oxidative stress is elevated."
@@ -333,7 +333,7 @@ H₂O (water)
 - Adjust based on levels, symptoms
 - Watch for excess (especially selenium)
 
-**Zettels extracted:** [[Zn_Se_Nutritional_Sources_Supplementation_[Z-001-0553].md]]
+**Zettels extracted:** [[Zn_Se_Nutritional_Sources_Supplementation_Z-001-0553]]
 
 ---
 
@@ -361,10 +361,10 @@ H₂O (water)
 ---
 
 ## Zettels Created from This Source (Batch 4/4 — COMPLETE)
-1. [[Zinc_Mitochondrial_Function_[Z-001-0550].md]]
-2. [[Selenium_Mitochondrial_Antioxidant_[Z-001-0551].md]]
-3. [[Zn_Se_Synergistic_OXPHOS_Protection_[Z-001-0552].md]]
-4. [[Zn_Se_Nutritional_Sources_Supplementation_[Z-001-0553].md]]
+1. [[Zinc_Mitochondrial_Function_Z-001-0550]]
+2. [[Selenium_Mitochondrial_Antioxidant_Z-001-0551]]
+3. [[Zn_Se_Synergistic_OXPHOS_Protection_Z-001-0552]]
+4. [[Zn_Se_Nutritional_Sources_Supplementation_Z-001-0553]]
 
 ---
 

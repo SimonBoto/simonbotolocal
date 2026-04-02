@@ -69,12 +69,12 @@ Promotion Criteria Met?
 
 ### Naming
 ```
-Title_[Z-{DDD}-{SSSS}].md
+Title_Z-{DDD}-{SSSS}].md
 ```
 
 **Examples:**
-- `Insulin_Receptor_Structure_[Z-001-0001].md`
-- `IRS1_Phosphorylation_Mechanism_[Z-001-0005].md`
+- `Insulin_Receptor_Structure_Z-001-0001].md`
+- `IRS1_Phosphorylation_Mechanism_Z-001-0005].md`
 
 ---
 

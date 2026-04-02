@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 # Lit: ChatGPT 2025 — CGPT-0022 Training Curriculum Integration
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0022_Metabolomics_training_role_[CGPT-0022].md]]
+- **ChatGPT conversation:** [[CGPT_0022_Metabolomics_training_role_[CGPT-0022]]
 - **Date:** December 08, 2025
 - **Messages:** 179
 - **Lines:** 14,447
@@ -89,8 +89,8 @@ This curriculum enables:
 **For PhD/METHAP:** The OAT interpretation and fatty acid analysis frameworks directly support research methodology.
 
 ## Zettels Created from This Source
-1. [[CGPT_0022_Curriculum_Master_Index_[Z-001-1081].md]] — Complete curriculum map
-2. [[Metabolomics_Training_MOC_Graph_[Z-001-1082].md]] — Knowledge graph connections
+1. [[CGPT_0022_Curriculum_Master_Index_Z-001-1081]] — Complete curriculum map
+2. [[Metabolomics_Training_MOC_Graph_Z-001-1082]] — Knowledge graph connections
 
 ## Related References
 - All 10 LitNotes from CGPT-0022 extraction

@@ -11,7 +11,7 @@ type: extracted-hypothesis
 title: "Hypothesis: To validate the robustness of the OPLS-DA model, a permutation test 
 2..."
 date: 2024-07-14
-source: "[[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328]]]"
+source: "[[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328]]"
 aliases: [X-PHD-240714-01]
 tags: [extracted, hypothesis, phd_research, chatgpt-archive]
 related: "['ChatGPT_Building_Master_Throne_[RON-004-0007]', 'RON_Genesis_MOC_[RON-004-0001]']"
@@ -47,8 +47,8 @@ If true, this suggests:
 
 ## Connections
 
-- [[ChatGPT_Building_Master_Throne_[RON-004-0007]]]
-- [[RON_Genesis_MOC_[RON-004-0001]]]
+- [[ChatGPT_Building_Master_Throne_[RON-004-0007]]
+- [[RON_Genesis_MOC_[RON-004-0001]]
 
 ## Validation Log
 

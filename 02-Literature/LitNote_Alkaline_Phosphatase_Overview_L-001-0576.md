@@ -16,7 +16,7 @@ domain: 001
 # Alkaline Phosphatase Overview — Isoenzymes, Paget's Disease, and Clinical Interpretation
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0345_Alkaline_Phosphatase_Overview_[CGPT-0345].md]] (8 messages)
+- **ChatGPT conversation:** [[CGPT_0345_Alkaline_Phosphatase_Overview_[CGPT-0345]] (8 messages)
 - **Date:** June 28, 2024
 - **Scope:** ALP biology, isoenzymes, Paget's disease of bone vs breast, clinical interpretation
 

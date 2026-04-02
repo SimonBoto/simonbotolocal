@@ -12,9 +12,9 @@ version: 1.1
 created: 2026-02-23
 last-updated: 2026-04-01
 contributing-zettels:
-  - "[[Omics_vs_Genomics_Environmental_Contribution_[Z-001-0500]]]"
-  - "[[Metabolomics_IR_Research_Advantages_[Z-001-0501]]]"
-  - "[[Systems_Biology_Integration_Approach_[Z-001-0502]]]"
+  - "[[Omics_vs_Genomics_Environmental_Contribution_Z-001-0500]]"
+  - "[[Metabolomics_IR_Research_Advantages_Z-001-0501]]"
+  - "[[Systems_Biology_Integration_Approach_Z-001-0502]]"
 ---
 
 # Synthesis: Omics Training Core Insights (DE1 Part 1)

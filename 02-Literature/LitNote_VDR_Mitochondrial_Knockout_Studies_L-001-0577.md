@@ -16,7 +16,7 @@ domain: 001
 # VDR and Mitochondrial Knockout Studies — Genetic Models of Vitamin D and Mitochondrial Dysfunction
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0311_Self_Education_Program_Plan_[CGPT-0311].md]] (messages 7-12)
+- **ChatGPT conversation:** [[CGPT_0311_Self_Education_Program_Plan_[CGPT-0311]] (messages 7-12)
 - **Date:** August 15, 2024
 - **Scope:** Genetic knockout studies of Vitamin D receptor (VDR) and mitochondrial genes
 

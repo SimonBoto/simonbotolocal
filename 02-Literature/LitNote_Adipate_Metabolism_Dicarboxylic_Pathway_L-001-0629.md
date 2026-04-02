@@ -13,7 +13,7 @@ relevance: Critical — Completes adipic acid metabolic fate for PhD biomarker i
 aliases: [L-001-0629, Adipate Metabolism, Dicarboxylic Acid Pathway]
 domain: 101
 tags: [litnote, adipate, dicarboxylic-acids, beta-oxidation, krebs-cycle, succinyl-coa]
-source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]]"
+source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
@@ -167,10 +167,10 @@ Succinyl-CoA + GDP + Pi → Succinate + GTP + CoA
 ## Connections
 
 **Related Zettels:**
-- [[Adipate_Complete_Metabolism_Pathway_[Z-001-1196].md]] — To create
-- [[Dicarboxylic_Acid_Energy_Yield_[Z-001-1197].md]] — To create
-- [[Succinyl_CoA_Krebs_Entry_[Z-001-1198].md]] — To create
-- [[Urinary_Adipate_Interpretation_[Z-001-1199].md]] — To create
+- [[Adipate_Complete_Metabolism_Pathway_Z-001-1196]] — To create
+- [[Dicarboxylic_Acid_Energy_Yield_Z-001-1197]] — To create
+- [[Succinyl_CoA_Krebs_Entry_Z-001-1198]] — To create
+- [[Urinary_Adipate_Interpretation_Z-001-1199]] — To create
 
 **MOCs:**
 -  — Primary domain

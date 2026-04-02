@@ -16,7 +16,7 @@ domain: 001
 # Manuscript Review Critical Concerns — Peer Review and Research Appraisal
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0551_Manuscript_Review_Critical_Concerns_[CGPT-0551].md]] (21 messages)
+- **ChatGPT conversation:** [[CGPT_0551_Manuscript_Review_Critical_Concerns_[CGPT-0551]] (21 messages)
 - **Date:** April 03, 2025
 - **Scope:** Peer review process, critical appraisal of research claims, conflicts of interest
 

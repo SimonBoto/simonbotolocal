@@ -13,7 +13,7 @@ relevance: High — Foundation for understanding fatty acid metabolism and dicar
 aliases: [L-001-0632, Fatty Acids, Omega Classification, Lipid Structure]
 domain: 001
 tags: [litnote, fatty-acids, omega-3, omega-6, lipid-structure, saturation]
-source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]]"
+source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_[CGPT-0586]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
@@ -228,12 +228,12 @@ CH₃(CH₂)₇CH=CH(CH₂)₇COOH  or  C18H34O₂
 ## Connections
 
 **Related Zettels:**
-- [[Fatty_Acid_Structure_Nomenclature_[Z-001-1208].md]] — To create
-- [[Omega_Classification_System_[Z-001-1209].md]] — To create
-- [[Saturated_vs_Unsaturated_Fats_[Z-001-1210].md]] — To create
-- [[Omega_3_6_Ratio_Health_[Z-001-1211].md]] — To create
-- [[Cis_vs_Trans_Fatty_Acids_[Z-001-1212].md]] — To create
-- [[Chain_Length_Metabolism_[Z-001-1213].md]] — To create
+- [[Fatty_Acid_Structure_Nomenclature_Z-001-1208]] — To create
+- [[Omega_Classification_System_Z-001-1209]] — To create
+- [[Saturated_vs_Unsaturated_Fats_Z-001-1210]] — To create
+- [[Omega_3_6_Ratio_Health_Z-001-1211]] — To create
+- [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]] — To create
+- [[Chain_Length_Metabolism_Z-001-1213]] — To create
 
 **MOCs:**
 -  — Primary domain

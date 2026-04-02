@@ -13,7 +13,7 @@ relevance: High — Essential for PhD trial design and METHAP methodology
 aliases: [L-001-0514, Metabolomics Power Analysis, Sample Size Calculation, High-Dimensional Data]
 domain: 001
 tags: [litnote, power-analysis, sample-size, metabolomics, statistics, study-design, effect-size, type-1-error, type-2-error]
-source: "[[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328]]]"
+source: "[[CGPT_0328_Methodology_Mistakes_Identified_[CGPT-0328]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-02
@@ -268,9 +268,9 @@ Confirm findings
 
 ## Zettels Created
 
-1. [[Power_Analysis_Formula_Metabolomics_[Z-001-0928]]]
-2. [[Underpowered_Study_Consequences_[Z-001-0929]]]
-3. [[Sample_Size_Strategies_PhD_[Z-001-0930]]]
+1. [[Power_Analysis_Formula_Metabolomics_Z-001-0928]]
+2. [[Underpowered_Study_Consequences_Z-001-0929]]
+3. [[Sample_Size_Strategies_PhD_Z-001-0930]]
 
 ---
 

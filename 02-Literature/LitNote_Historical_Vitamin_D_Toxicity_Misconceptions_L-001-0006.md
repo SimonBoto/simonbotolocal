@@ -27,22 +27,22 @@ extraction-date: 2026-03-01
 ### 1. 1950s Fortification Incidents Created Foundation for Toxicity Myth
 > "In the 1950s in the United Kingdom and parts of Europe, where infants developed hypercalcemia after consuming over-fortified milk products... These incidents were widely publicized and led to public concern over vitamin D toxicity."
 
-**Zettels extracted:** [[Vitamin_D_Fortification_Incidents_1950s_[Z-001-0054].md]]
+**Zettels extracted:** [[Vitamin_D_Fortification_Incidents_1950s_Z-001-0054]]
 
 ### 2. Idiopathic Infantile Hypercalcemia (IIH) Was the True Culprit
 > "Recent research has indeed shown that hypercalcemia in some infants during the mid-20th century was due to a rare genetic condition rather than solely from vitamin D over-fortification. The condition, known as Idiopathic Infantile Hypercalcemia (IIH), has been linked to mutations in genes like CYP24A1 and SLC34A1."
 
-**Zettels extracted:** [[IIH_CYP24A1_Mutation_True_Cause_[Z-001-0055].md]]
+**Zettels extracted:** [[IIH_CYP24A1_Mutation_True_Cause_Z-001-0055]]
 
 ### 3. Regulatory Overreaction Cemented the Misconception
 > "In response to these health scares, some countries imposed strict regulations or outright bans on vitamin D fortification in certain foods... The negative media coverage and regulatory actions contributed to a growing public perception that vitamin D supplementation could be dangerous."
 
-**Zettels extracted:** [[Vitamin_D_Regulatory_Overreaction_[Z-001-0056].md]]
+**Zettels extracted:** [[Vitamin_D_Regulatory_Overreaction_Z-001-0056]]
 
 ### 4. The Misconception Persists Despite Modern Understanding
 > "The misconception about vitamin D toxicity arose from early fortification efforts that, due to insufficient regulation and quality control, led to overexposure in some populations. These historical events left a lasting impression that has contributed to ongoing caution and confusion regarding vitamin D intake."
 
-**Zettels extracted:** [[Vitamin_D_Toxicity_Myth_Persistence_[Z-001-0057].md]]
+**Zettels extracted:** [[Vitamin_D_Toxicity_Myth_Persistence_Z-001-0057]]
 
 ---
 
@@ -68,15 +68,15 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Vitamin_D_Fortification_Incidents_1950s_[Z-001-0054].md]]
-2. [[IIH_CYP24A1_Mutation_True_Cause_[Z-001-0055].md]]
-3. [[Vitamin_D_Regulatory_Overreaction_[Z-001-0056].md]]
-4. [[Vitamin_D_Toxicity_Myth_Persistence_[Z-001-0057].md]]
+1. [[Vitamin_D_Fortification_Incidents_1950s_Z-001-0054]]
+2. [[IIH_CYP24A1_Mutation_True_Cause_Z-001-0055]]
+3. [[Vitamin_D_Regulatory_Overreaction_Z-001-0056]]
+4. [[Vitamin_D_Toxicity_Myth_Persistence_Z-001-0057]]
 
 ## Related References
 - [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]] — Related statistical errors in dosing
 - [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]] — Protective mechanisms (Mg, K2)
-- [[Vitamin_D_Paradigm_Failure_Production_vs_Recommendations_[Z-001-0073].md]] — Systemic failure synthesis
+- [[Vitamin_D_Paradigm_Failure_Production_vs_Recommendations_Z-001-0073]] — Systemic failure synthesis
 -  — Parent MOC
 -  — Metabolic pathways
 

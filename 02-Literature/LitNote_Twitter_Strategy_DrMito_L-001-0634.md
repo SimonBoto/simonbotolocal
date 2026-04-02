@@ -208,9 +208,9 @@ How: [Brief method]
 
 ## Zettels Extracted
 
-1. [[Twitter_Growth_Strategy_Health_[Z-001-12XX].md]] — Platform growth
-2. [[Content_Creation_Framework_[Z-001-12XX].md]] — 4-step system
-3. [[DrMito_Branding_Strategy_[Z-001-12XX].md]] — Profile optimization
+1. [[Twitter_Growth_Strategy_Health_Z-001-12XX]] — Platform growth
+2. [[Content_Creation_Framework_Z-001-12XX]] — 4-step system
+3. [[DrMito_Branding_Strategy_Z-001-12XX]] — Profile optimization
 
 ---
 

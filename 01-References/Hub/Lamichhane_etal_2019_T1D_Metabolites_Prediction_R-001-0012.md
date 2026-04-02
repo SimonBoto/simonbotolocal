@@ -61,8 +61,8 @@ tags: [reference, t1d, metabolomics, prediction,
 ## 🔗 Connected to Our Work
 
 ### Supports
-- [[Biomarkers_Precision_Medicine_[Z-001-0909]]] — Metabolite prediction models
-- [[Metabotypes_Individual_Metabolic_Phenotypes_[Z-001-0910]]] — T1D metabolic patterns
+- [[Biomarkers_Precision_Medicine_Z-001-0909]] — Metabolite prediction models
+- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]] — T1D metabolic patterns
 
 ---
 

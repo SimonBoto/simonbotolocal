@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: One-Carbon Metabolism and Vitamin B12 Biochemistry
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_[CGPT-0264]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_[CGPT-0264]]
 - **Date:** October 27, 2024
 - **Scope:** One-carbon metabolism, folate cycle, B12 as cofactor, methyl group donation
 
@@ -47,7 +47,7 @@ Donates methyl group to B12 → Methionine synthesis
 | **5,10-Methylene-THF** | Methylene (-CH₂-) | Thymidylate synthesis |
 | **10-Formyl-THF** | Formyl (-CHO) | Purine synthesis |
 
-**Zettels extracted:** [[One_Carbon_Metabolism_Overview_[Z-001-0401].md]]
+**Zettels extracted:** [[One_Carbon_Metabolism_Overview_Z-001-0401]]
 
 ### 2. Vitamin B12 — The Cobalamin Cofactor
 > "Vitamin B12 serves as a cofactor for two critical enzymes: methionine synthase and methylmalonyl-CoA mutase."
@@ -70,7 +70,7 @@ Donates methyl group to B12 → Methionine synthesis
 - **Location:** Mitochondria
 - **Function:** Odd-chain fatty acid metabolism
 
-**Zettels extracted:** [[Vitamin_B12_Cofactor_Enzymes_[Z-001-0402].md]]
+**Zettels extracted:** [[Vitamin_B12_Cofactor_Enzymes_Z-001-0402]]
 
 ### 3. B12 Absorption and Transport
 > "Vitamin B12 absorption requires intrinsic factor and occurs in the terminal ileum."
@@ -85,7 +85,7 @@ Donates methyl group to B12 → Methionine synthesis
 - **Storage:** Liver (2-5 mg, 2-5 year reserve)
 - **Daily requirement:** 2.4 mcg
 
-**Zettels extracted:** [[B12_Absorption_Transport_[Z-001-0403].md]]
+**Zettels extracted:** [[B12_Absorption_Transport_Z-001-0403]]
 
 ### 4. The Methyl Trap
 > "B12 deficiency leads to functional folate deficiency as 5-MTHF accumulates and cannot be converted back to THF."
@@ -101,7 +101,7 @@ Donates methyl group to B12 → Methionine synthesis
 - But neurological damage continues
 - Always check B12 before folate supplementation
 
-**Zettels extracted:** [[Methyl_Trap_B12_Folate_[Z-001-0404].md]]
+**Zettels extracted:** [[Methyl_Trap_B12_Folate_Z-001-0404]]
 
 ### 5. Homocysteine Metabolism
 > "Homocysteine sits at a metabolic crossroads: remethylation or transsulfuration."
@@ -114,7 +114,7 @@ Donates methyl group to B12 → Methionine synthesis
 
 **Clinical:** Elevated homocysteine = CVD risk factor
 
-**Zettels extracted:** [[Homocysteine_Metabolism_[Z-001-0405].md]]
+**Zettels extracted:** [[Homocysteine_Metabolism_Z-001-0405]]
 
 ### 6. B12 Deficiency Manifestations
 > "Severe B12 deficiency causes megaloblastic anemia, neurological damage, and may mimic hematological malignancies."
@@ -125,17 +125,17 @@ Donates methyl group to B12 → Methionine synthesis
 
 **Diagnosis:** Low serum B12, elevated MMA (specific), elevated homocysteine
 
-**Zettels extracted:** [[B12_Deficiency_Manifestations_[Z-001-0406].md]]
+**Zettels extracted:** [[B12_Deficiency_Manifestations_Z-001-0406]]
 
 ---
 
 ## Zettels Created
-1. [[One_Carbon_Metabolism_Overview_[Z-001-0401].md]]
-2. [[Vitamin_B12_Cofactor_Enzymes_[Z-001-0402].md]]
-3. [[B12_Absorption_Transport_[Z-001-0403].md]]
-4. [[Methyl_Trap_B12_Folate_[Z-001-0404].md]]
-5. [[Homocysteine_Metabolism_[Z-001-0405].md]]
-6. [[B12_Deficiency_Manifestations_[Z-001-0406].md]]
+1. [[One_Carbon_Metabolism_Overview_Z-001-0401]]
+2. [[Vitamin_B12_Cofactor_Enzymes_Z-001-0402]]
+3. [[B12_Absorption_Transport_Z-001-0403]]
+4. [[Methyl_Trap_B12_Folate_Z-001-0404]]
+5. [[Homocysteine_Metabolism_Z-001-0405]]
+6. [[B12_Deficiency_Manifestations_Z-001-0406]]
 
 ---
 

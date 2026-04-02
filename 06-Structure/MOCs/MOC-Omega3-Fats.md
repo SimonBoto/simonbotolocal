@@ -18,13 +18,13 @@ Omega-3 and omega-6 fatty acid balance, food quality, and inflammatory potential
 ## 🎯 Core Concepts
 
 ### Omega-6:3 Ratio Fundamentals
-- [[Omega6_Omega3_Ratio_Inflammatory_Potential_[Z-001-0564].md]] — Ratio and inflammation biochemistry
+- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]] — Ratio and inflammation biochemistry
 - [[Seed_Oils_Omega6_Omega3_Ratio_Z-001-0503.md]] — Seed oils and ratio imbalance
 
 ### Poultry Fatty Acid Quality
-- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_[Z-001-0562].md]] — Conventional chicken omega-6 content
-- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_[Z-001-0563].md]] — Egg quality by hen diet
-- [[Poultry_Fatty_Acid_Measurements_Reference_[Z-001-0565].md]] — Reference measurements table
+- [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]] — Conventional chicken omega-6 content
+- [[Egg_Yolk_Fatty_Acid_Profile_Diet_Dependent_Z-001-0563]] — Egg quality by hen diet
+- [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]] — Reference measurements table
 
 ---
 

@@ -13,7 +13,7 @@ relevance: High — Team education framework for personalized medicine practice
 aliases: [L-001-0620, Clinical Team Education, Metabolomics Learning Program]
 domain: 001
 tags: [litnote, education, clinical-team, metabolomics, personalized-medicine, workflow]
-source: "[[CGPT_0311_Self_Education_Program_Plan_[CGPT-0311]]]"
+source: "[[CGPT_0311_Self_Education_Program_Plan_[CGPT-0311]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
@@ -120,9 +120,9 @@ extraction-date: 2026-03-08
 ## Connections
 
 **Related Zettels:**
-- [[Chief_Instructor_Metabolomics_[Z-001-1030].md]] — Training methodology
-- [[VDR_Knockout_Immune_Function_[Z-001-0988].md]] — Immune modulation
-- [[Socratic_Method_Clinical_Reasoning_[Z-001-1033].md]] — Learning approach
+- [[Chief_Instructor_Metabolomics_Z-001-1030]] — Training methodology
+- [[VDR_Knockout_Immune_Function_Z-001-0988]] — Immune modulation
+- [[Socratic_Method_Clinical_Reasoning_Z-001-1033]] — Learning approach
 
 **MOCs:**
 -  — Primary training domain

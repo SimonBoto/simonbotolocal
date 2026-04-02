@@ -14,7 +14,7 @@ tags:
   - propionate
   - gluconeogenesis
   - b12
-source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]"
+source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]"
 extraction-date: 2026-03-04
 status: extracted
 parent-moc:
@@ -190,11 +190,11 @@ Pyruvate → Oxaloacetate → Glucose
 
 ## Zettels Extracted
 
-- [[Keto_Acids_vs_Carboxylic_Acids_[Z-001-0476]]] Keto Acids vs Carboxylic Acids
-- [[Pyruvate_Central_Metabolic_Role_[Z-001-0477]]] Pyruvate: Central Metabolic Role
-- [[Propionate_Metabolism_Gluconeogenesis_[Z-001-0478]]] Propionate Metabolism and Gluconeogenesis
-- [[Vitamin_Dependence_Organic_Acid_Metabolism_[Z-001-0479]]] Vitamin Dependence in Organic Acid Metabolism
-- [[Aldehyde_vs_Ketone_Chemistry_[Z-001-0480]]] Aldehyde vs Ketone Chemistry
+- [[Keto_Acids_vs_Carboxylic_Acids_Z-001-0476]] Keto Acids vs Carboxylic Acids
+- [[Pyruvate_Central_Metabolic_Role_Z-001-0477]] Pyruvate: Central Metabolic Role
+- [[Propionate_Metabolism_Gluconeogenesis_Z-001-0478]] Propionate Metabolism and Gluconeogenesis
+- [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479]] Vitamin Dependence in Organic Acid Metabolism
+- [[Aldehyde_vs_Ketone_Chemistry_Z-001-0480]] Aldehyde vs Ketone Chemistry
 
 ---
 

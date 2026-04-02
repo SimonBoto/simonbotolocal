@@ -14,7 +14,7 @@ tags:
   - adenine
   - astrobiology
   - panspermia
-source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]"
+source: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]"
 extraction-date: 2026-03-04
 status: extracted
 parent-moc:
@@ -157,11 +157,11 @@ parent-moc:
 
 ## Zettels Extracted
 
-- [[HCN_Polymerization_Adenine_Mechanism_[Z-101-0454]]] HCN Polymerization to Adenine Mechanism
-- [[Meteoritic_Nucleobases_Panspermia_[Z-101-0455]]] Meteoritic Nucleobases and Panspermia
-- [[RNA_World_Hypothesis_Evolution_[Z-101-0456]]] RNA World Hypothesis and Early Evolution
-- [[Formamide_Chemistry_Prebiotic_Pathway_[Z-101-0463]]] Formamide Chemistry: Alternative Prebiotic Pathway
-- [[Timeline_Prebiotic_Chemistry_to_LUCA_[Z-101-0464]]] Timeline Prebiotic Chemistry to LUCA
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]] HCN Polymerization to Adenine Mechanism
+- [[Meteoritic_Nucleobases_Panspermia_Z-101-0455]] Meteoritic Nucleobases and Panspermia
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]] RNA World Hypothesis and Early Evolution
+- [[Formamide_Chemistry_Prebiotic_Pathway_Z-101-0463]] Formamide Chemistry: Alternative Prebiotic Pathway
+- [[Timeline_Prebiotic_Chemistry_to_LUCA_Z-101-0464]] Timeline Prebiotic Chemistry to LUCA
 
 ---
 

@@ -18,40 +18,40 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 ## 🎯 Entry Points (Start Here)
 
 **Core Concepts:**
-- [[Insulin_Receptor_Structure_[Z-001-0001].md]] — The receptor
-- [[Insulin_Hormone_Structure_[Z-001-0002].md]] — The ligand
+- [[Insulin_Receptor_Structure_Z-001-0001]] — The receptor
+- [[Insulin_Hormone_Structure_Z-001-0002]] — The ligand
 
 ---
 
 ## 🔄 The Signaling Cascade
 
 ### Step 1: Receptor Activation
-- [[Insulin_Receptor_Structure_[Z-001-0001].md]] — Receptor structure and autophosphorylation
+- [[Insulin_Receptor_Structure_Z-001-0001]] — Receptor structure and autophosphorylation
 
 ### Step 2: Adapter Recruitment  
-- [[IRS_Protein_Recruitment_[Z-001-0005].md]] — IRS proteins as bridges
-- [[IRS1_vs_IRS2_Tissue_Distribution_[Z-001-0006].md]] — Isoform differences
+- [[IRS_Protein_Recruitment_Z-001-0005]] — IRS proteins as bridges
+- [[IRS1_vs_IRS2_Tissue_Distribution_Z-001-0006]] — Isoform differences
 
 ### Step 3: PI3K Pathway
-- [[PI3K_Activation_Mechanism_[Z-001-0007].md]] — Lipid kinase activation
-- [[Akt_Recruitment_by_PIP3_[Z-001-0009].md]] — Second messenger generation
+- [[PI3K_Activation_Mechanism_Z-001-0007]] — Lipid kinase activation
+- [[Akt_Recruitment_by_PIP3_Z-001-0009]] — Second messenger generation
 
 ### Step 4: Akt Kinase
-- [[Akt_Substrate_Phosphorylation_[Z-001-0010].md]] — Central metabolic kinase
+- [[Akt_Substrate_Phosphorylation_Z-001-0010]] — Central metabolic kinase
 
 ### Step 5: Effector Mechanisms
-- [[GLUT4_Translocation_Mechanism_[Z-001-0011].md]] — Muscle/adipose glucose uptake
-- [[GSK3_Inhibition_Glycogen_Synthesis_[Z-001-0012].md]] — Hepatic glycogen synthesis
+- [[GLUT4_Translocation_Mechanism_Z-001-0011]] — Muscle/adipose glucose uptake
+- [[GSK3_Inhibition_Glycogen_Synthesis_Z-001-0012]] — Hepatic glycogen synthesis
 
 ---
 
 ## 🚨 When Signaling Fails: Insulin Resistance
 
 **Mechanisms of Resistance:**
-- [[IRS_Serine_Phosphorylation_Causes_IR_[Z-001-0008].md]] — Serine phosphorylation blocks signaling
-- [[Lipotoxicity_Ceramide_Induced_IR_[Z-001-0013].md]] — Lipid-induced insulin resistance
-- [[ER_Stress_UPR_IR_[Z-001-0033].md]] — Endoplasmic reticulum stress pathway
-- [[Mitochondrial_Dysfunction_IR_[Z-001-0030].md]] — Energy stress → IR
+- [[IRS_Serine_Phosphorylation_Causes_IR_Z-001-0008]] — Serine phosphorylation blocks signaling
+- [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013]] — Lipid-induced insulin resistance
+- [[ER_Stress_UPR_IR_Z-001-0033]] — Endoplasmic reticulum stress pathway
+- [[Mitochondrial_Dysfunction_IR_Z-001-0030]] — Energy stress → IR
 
 **Clinical Connections:**
 -  — Disease-level MOC
@@ -84,10 +84,10 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 ## 🔗 Alternative Signaling Pathways
 
 **Mitogenic (Growth) Pathway:**
-- [[MAPK_Pathway_Growth_Signaling_[Z-001-0016].md]] — Ras/MAPK cascade
+- [[MAPK_Pathway_Growth_Signaling_Z-001-0016]] — Ras/MAPK cascade
 
 **Lipid Raft Pathway:**
-- [[Cbl_CAP_Caveolin_Pathway_[Z-001-0017].md]] — Non-canonical glucose transport
+- [[Cbl_CAP_Caveolin_Pathway_Z-001-0017]] — Non-canonical glucose transport
 
 ---
 
@@ -95,33 +95,33 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 
 ### Core Signaling (10)
 **Receptor & Activation:**
-- [[Insulin_Receptor_Structure_[Z-001-0001].md]] — INSR structure
-- [[Insulin_Hormone_Structure_[Z-001-0002].md]] — Ligand structure
-- [[Insulin_Receptor_Mutations_Donohue_[Z-001-0004].md]] — Disease mutations
+- [[Insulin_Receptor_Structure_Z-001-0001]] — INSR structure
+- [[Insulin_Hormone_Structure_Z-001-0002]] — Ligand structure
+- [[Insulin_Receptor_Mutations_Donohue_Z-001-0004]] — Disease mutations
 
 **Adapter Proteins:**
-- [[IRS_Protein_Recruitment_[Z-001-0005].md]] — IRS recruitment
-- [[IRS1_vs_IRS2_Tissue_Distribution_[Z-001-0006].md]] — Tissue specificity
+- [[IRS_Protein_Recruitment_Z-001-0005]] — IRS recruitment
+- [[IRS1_vs_IRS2_Tissue_Distribution_Z-001-0006]] — Tissue specificity
 
 **Kinase Cascade:**
-- [[PI3K_Activation_Mechanism_[Z-001-0007].md]] — PI3K activation
-- [[Akt_Recruitment_by_PIP3_[Z-001-0009].md]] — Akt recruitment
-- [[Akt_Substrate_Phosphorylation_[Z-001-0010].md]] — Substrate phosphorylation
+- [[PI3K_Activation_Mechanism_Z-001-0007]] — PI3K activation
+- [[Akt_Recruitment_by_PIP3_Z-001-0009]] — Akt recruitment
+- [[Akt_Substrate_Phosphorylation_Z-001-0010]] — Substrate phosphorylation
 
 **Effectors:**
-- [[GLUT4_Translocation_Mechanism_[Z-001-0011].md]] — Glucose uptake
-- [[GSK3_Inhibition_Glycogen_Synthesis_[Z-001-0012].md]] — Glycogen synthesis
+- [[GLUT4_Translocation_Mechanism_Z-001-0011]] — Glucose uptake
+- [[GSK3_Inhibition_Glycogen_Synthesis_Z-001-0012]] — Glycogen synthesis
 
 ### Insulin Resistance Mechanisms (5)
-- [[IRS_Serine_Phosphorylation_Causes_IR_[Z-001-0008].md]] — Serine phosphorylation
-- [[Lipotoxicity_Ceramide_Induced_IR_[Z-001-0013].md]] — Lipotoxicity
-- [[ER_Stress_UPR_IR_[Z-001-0033].md]] — ER stress
-- [[Mitochondrial_Dysfunction_IR_[Z-001-0030].md]] — Mitochondrial dysfunction
+- [[IRS_Serine_Phosphorylation_Causes_IR_Z-001-0008]] — Serine phosphorylation
+- [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013]] — Lipotoxicity
+- [[ER_Stress_UPR_IR_Z-001-0033]] — ER stress
+- [[Mitochondrial_Dysfunction_IR_Z-001-0030]] — Mitochondrial dysfunction
 - [[Vicious_Cycle_IR_Obesity_Z-001-0037.md]] — Obesity-IR cycle
 
 ### Alternative Pathways (2)
-- [[MAPK_Pathway_Growth_Signaling_[Z-001-0016].md]] — Mitogenic signaling
-- [[Cbl_CAP_Caveolin_Pathway_[Z-001-0017].md]] — Lipid raft pathway
+- [[MAPK_Pathway_Growth_Signaling_Z-001-0016]] — Mitogenic signaling
+- [[Cbl_CAP_Caveolin_Pathway_Z-001-0017]] — Lipid raft pathway
 
 ### Clinical Assessment (5)
 - [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md]] — HOMA-IR
@@ -143,11 +143,11 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 ---
 
 ## 🔗 Recently Added (CGPT-0328 Batch 2)
-- [[Benjamini_Hochberg_Procedure_[Z-001-0524].md]] — Multiple testing correction
-- [[FDR_Threshold_Selection_[Z-001-0525].md]] — FDR 0.1 vs 0.05 selection
-- [[Exploratory_vs_Confirmatory_Research_Standards_[Z-001-0526].md]] — Study design standards
-- [[Multiple_Testing_Burden_High_Dimensional_Data_[Z-001-0527].md]] — High-dimensional statistics
-- [[Biomarker_Validation_Requirements_[Z-001-0528].md]] — Validation requirements
+- [[Benjamini_Hochberg_Procedure_Z-001-0524]] — Multiple testing correction
+- [[FDR_Threshold_Selection_Z-001-0525]] — FDR 0.1 vs 0.05 selection
+- [[Exploratory_vs_Confirmatory_Research_Standards_Z-001-0526]] — Study design standards
+- [[Multiple_Testing_Burden_High_Dimensional_Data_Z-001-0527]] — High-dimensional statistics
+- [[Biomarker_Validation_Requirements_Z-001-0528]] — Validation requirements
 
 ---
 

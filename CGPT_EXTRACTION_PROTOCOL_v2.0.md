@@ -92,10 +92,10 @@ Review [[SYNTHESIS_TRIGGERS.md]] — will this push any topic toward critical ma
    - `parent-moc: ` (must exist)
    - `status: extracted` (NOT `conscious`)
 3. Use "Core Concepts Extracted" structure
-4. All zettel links: `[[Title_[Z-XXX-XXXX].md]]`
+4. All zettel links: `[[Title_Z-XXX-XXXX]]`
 
 **For each Zettel:**
-1. Filename: `Title_[Z-XXX-XXXX].md` (NOT `Z-XXX-XXXX_Title.md`)
+1. Filename: `Title_Z-XXX-XXXX].md` (NOT `Z-XXX-XXXX_Title.md`)
 2. Fill ALL YAML fields:
    - `domain-name: [Human Readable]`
    - `confidence: high|medium|low`
@@ -117,7 +117,7 @@ grep "^type: litnote" /path/to/LitNote*.md
 
 # Check 3: Filename format correct
 ls | grep "Z-[0-9]\{3\}-[0-9]\{4\}_.*\.md"
-# EXPECTED: Nothing (should be "Title_[Z-XXX-XXXX].md")
+# EXPECTED: Nothing (should be "Title_Z-XXX-XXXX].md")
 
 # Check 4: Required YAML fields present
 grep -L "^tier:" /path/to/LitNote*.md
@@ -205,7 +205,7 @@ created: 2026-MM-DD
 | Missing `tier` | Template checklist | grep -L "^tier:" |
 | Missing `parent-moc` | Verify MOC exists first | ls MOCs/MOC-XXX.md |
 | Bare UID links | Full filename only | grep '\[\[Z-[0-9]\{3\}-[0-9]\{4\}\]\]' |
-| Wrong filename | Title_[Z-XXX-XXXX].md | ls \| grep "^_Z-" |
+| Wrong filename | Title_Z-XXX-XXXX].md | ls \| grep "^_Z-" |
 | `status: conscious` in YAML | Footer only | grep "^status: conscious" |
 
 ---

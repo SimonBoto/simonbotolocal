@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Magnesium — Role in Cardiovascular Health
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_[CGPT-0272]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_[CGPT-0272]]
 - **Date:** October 09, 2024
 - **Scope:** Chapter 5.2 — Magnesium's role in metabolic syndrome components, specifically cardiovascular risk factors
 
@@ -43,7 +43,7 @@ Magnesium functions as a natural calcium antagonist, promoting vascular relaxati
 - **Dose-response:** Greater effects at higher doses (>370 mg/day)
 - **Hypertensive patients:** Greater BP reduction than normotensives
 
-**Zettels extracted:** [[Magnesium_Hypertension_Vasodilation_Mechanisms_[Z-001-0215].md]]
+**Zettels extracted:** [[Magnesium_Hypertension_Vasodilation_Mechanisms_Z-001-0215]]
 
 ### 2. Magnesium and Cardiac Arrhythmias — Electrophysiological Stability
 > "Role in hypertension and cardiovascular risk."
@@ -67,7 +67,7 @@ Magnesium is critical for cardiac electrophysiology and is a first-line therapy 
 - Stabilizes ventricular repolarization
 - May reduce sudden cardiac death risk
 
-**Zettels extracted:** [[Magnesium_Cardiac_Arrhythmias_Electrophysiology_[Z-001-0216].md]]
+**Zettels extracted:** [[Magnesium_Cardiac_Arrhythmias_Electrophysiology_Z-001-0216]]
 
 ### 3. Magnesium and Lipid Metabolism
 > "Influence on lipid metabolism."
@@ -90,7 +90,7 @@ Magnesium influences lipid profiles through metabolic and enzymatic effects:
 - Mg improves multiple CV risk factors simultaneously
 - Synergistic with statin therapy
 
-**Zettels extracted:** [[Magnesium_Lipid_Metabolism_Dyslipidemia_[Z-001-0217].md]]
+**Zettels extracted:** [[Magnesium_Lipid_Metabolism_Dyslipidemia_Z-001-0217]]
 
 ### 4. Magnesium and Vascular Calcification Prevention
 > Implied in cardiovascular protection context
@@ -113,7 +113,7 @@ Magnesium has emerged as a key factor in preventing vascular calcification, part
 - Mg supports MGP function and prevents calcification
 - Combined supplementation may be superior for vascular health
 
-**Zettels extracted:** [[Magnesium_Vascular_Calcification_Prevention_[Z-001-0218].md]]
+**Zettels extracted:** [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]]
 
 ---
 
@@ -145,10 +145,10 @@ Magnesium has emerged as a key factor in preventing vascular calcification, part
 ---
 
 ## Zettels Created from This Source
-1. [[Magnesium_Hypertension_Vasodilation_Mechanisms_[Z-001-0215].md]]
-2. [[Magnesium_Cardiac_Arrhythmias_Electrophysiology_[Z-001-0216].md]]
-3. [[Magnesium_Lipid_Metabolism_Dyslipidemia_[Z-001-0217].md]]
-4. [[Magnesium_Vascular_Calcification_Prevention_[Z-001-0218].md]]
+1. [[Magnesium_Hypertension_Vasodilation_Mechanisms_Z-001-0215]]
+2. [[Magnesium_Cardiac_Arrhythmias_Electrophysiology_Z-001-0216]]
+3. [[Magnesium_Lipid_Metabolism_Dyslipidemia_Z-001-0217]]
+4. [[Magnesium_Vascular_Calcification_Prevention_Z-001-0218]]
 
 ## Related References
 - [[LitNote_Magnesium_Biochemistry_L-001-0201a]] — Mg mechanisms

@@ -18,7 +18,7 @@ title: "Expand further creating 1 subbullet for every bullet with 5 key words
 
 ###..."
 date: 2024-09-28
-source: [[CGPT_0280_Micronutrient_Deficiencies_Metabolic_Syndrome_[CGPT-0280]]]
+source: [[CGPT_0280_Micronutrient_Deficiencies_Metabolic_Syndrome_[CGPT-0280]]
 aliases: [X-VIT-240928-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
 related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]']
@@ -73,7 +73,7 @@ each current bullet needs at least 3-7 subtopics
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
 
 ## Status
 

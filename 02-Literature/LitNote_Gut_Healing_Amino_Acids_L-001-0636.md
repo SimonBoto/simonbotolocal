@@ -15,7 +15,7 @@ extraction-date: 2026-03-09
 # Gut Healing Nutrients and Amino Acids
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0199_Dysbiosis_Treatment_Side_Effects_[CGPT-0199].md]]
+- **ChatGPT conversation:** [[CGPT_0199_Dysbiosis_Treatment_Side_Effects_[CGPT-0199]]
 - **Date:** January 4, 2025
 - **Messages:** 3-12 (glutamine, taurine discussion)
 
@@ -67,9 +67,9 @@ extraction-date: 2026-03-09
 | Inflammation | ✓ | ✓ |
 
 ## Zettels Created
-1. [[Glutamine_Intestinal_Repair_Protocol_[Z-001-1224].md]]
-2. [[Taurine_Bile_Gut_Health_[Z-001-1225].md]]
-3. [[Amino_Acids_Gut_Healing_Synergy_[Z-001-1226].md]]
+1. [[Glutamine_Intestinal_Repair_Protocol_Z-001-1224]]
+2. [[Taurine_Bile_Gut_Health_Z-001-1225]]
+3. [[Amino_Acids_Gut_Healing_Synergy_Z-001-1226]]
 
 ## Related
 - 

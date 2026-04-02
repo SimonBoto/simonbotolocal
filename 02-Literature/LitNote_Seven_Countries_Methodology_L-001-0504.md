@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: Seven Countries Study Methodology and Scientific Critique
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0074_Seven_Countries_Study_Summary_[CGPT-0074]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0074_Seven_Countries_Study_Summary_[CGPT-0074]]
 - **Date:** Deep methodological analysis
 - **Scope:** Study design, ecological fallacy, selection bias, statistical issues, confounding
 
@@ -81,7 +81,7 @@ extraction-date: 2026-03-01
 - Stroke mortality
 - 25-year and 50-year follow-up data
 
-**Zettels extracted:** [[Seven_Countries_Study_Design_Structure_[Z-001-0522].md]]
+**Zettels extracted:** [[Seven_Countries_Study_Design_Structure_Z-001-0522]]
 
 ### 2. The Ecological Fallacy Problem
 > "The study's most fundamental flaw: population-level associations were interpreted as individual-level causation, committing the ecological fallacy that undermines causal inference."
@@ -139,7 +139,7 @@ extraction-date: 2026-03-01
 - Policy recommendations made despite design
 - Causal claims overstated
 
-**Zettels extracted:** [[Ecological_Fallacy_Nutrition_Research_[Z-001-0523].md]]
+**Zettels extracted:** [[Ecological_Fallacy_Nutrition_Research_Z-001-0523]]
 
 ### 3. Selection Bias — Cherry-Picking Countries
 > "Countries were not randomly selected but chosen based on preliminary data review, introducing selection bias that favored the saturated fat hypothesis."
@@ -213,7 +213,7 @@ extraction-date: 2026-03-01
 - Transparent reporting of all data
 - **Seven Countries would not meet modern standards**
 
-**Zettels extracted:** [[Selection_Bias_Cherry_Picking_Countries_[Z-001-0931].md]]
+**Zettels extracted:** [[Selection_Bias_Cherry_Picking_Countries_Z-001-0931]]
 
 ### 4. Confounding Variables — Uncontrolled Factors
 > "The study inadequately controlled for multiple confounding factors that likely explained observed associations better than saturated fat intake alone."
@@ -294,7 +294,7 @@ extraction-date: 2026-03-01
 **Conclusion:**
 Ratio likely captures **Mediterranean dietary pattern** — not mechanistic effect of SFA vs. MUFA per se.
 
-**Zettels extracted:** [[Confounding_Variables_Diet_Studies_[Z-001-0525].md]]
+**Zettels extracted:** [[Confounding_Variables_Diet_Studies_Z-001-0525]]
 
 ### 5. Statistical Issues — Overfitting and Correlation Inflation
 > "The study's statistical models suffered from overfitting, small sample sizes at country level, and correlation inflation inherent to ecological data aggregation."
@@ -373,7 +373,7 @@ Ratio likely captures **Mediterranean dietary pattern** — not mechanistic effe
 - Non-significant results downplayed
 - Contradictory data (France) excluded
 
-**Zettels extracted:** [[Statistical_Issues_Overfitting_Correlation_[Z-001-0933].md]]
+**Zettels extracted:** [[Statistical_Issues_Overfitting_Correlation_Z-001-0933]]
 
 ---
 
@@ -402,11 +402,11 @@ Ratio likely captures **Mediterranean dietary pattern** — not mechanistic effe
 ---
 
 ## Zettels Created from This Source
-1. [[Seven_Countries_Study_Design_Structure_[Z-001-0522].md]]
-2. [[Ecological_Fallacy_Nutrition_Research_[Z-001-0523].md]]
-3. [[Selection_Bias_Cherry_Picking_Countries_[Z-001-0931].md]]
-4. [[Confounding_Variables_Diet_Studies_[Z-001-0525].md]]
-5. [[Statistical_Issues_Overfitting_Correlation_[Z-001-0933].md]]
+1. [[Seven_Countries_Study_Design_Structure_Z-001-0522]]
+2. [[Ecological_Fallacy_Nutrition_Research_Z-001-0523]]
+3. [[Selection_Bias_Cherry_Picking_Countries_Z-001-0931]]
+4. [[Confounding_Variables_Diet_Studies_Z-001-0525]]
+5. [[Statistical_Issues_Overfitting_Correlation_Z-001-0933]]
 
 ---
 

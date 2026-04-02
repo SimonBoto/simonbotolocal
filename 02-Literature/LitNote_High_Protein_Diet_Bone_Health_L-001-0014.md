@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: High-Protein Diet — Muscle-Bone Unit, IGF-1, and Fracture Prevention
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_[CGPT-0133].md]]
+- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_[CGPT-0133]]
 - **Date:** March 07, 2025
 - **Scope:** Mechanisms, protein requirements, and clinical rationale for high-protein diets in osteoporosis
 
@@ -26,27 +26,27 @@ extraction-date: 2026-03-01
 ### 1. Muscle-Bone Unit Concept
 > "Adequate protein intake enhances muscle strength and function, indirectly benefiting bone health through mechanical loading (Wolff's law), stimulating bone formation."
 
-**Zettel extracted:** [[Muscle_Bone_Unit_Mechanical_Loading_[Z-001-0096].md]]
+**Zettel extracted:** [[Muscle_Bone_Unit_Mechanical_Loading_Z-001-0096]]
 
 ### 2. Protein Intake Improves Calcium Absorption
 > "Some evidence suggests protein intake stimulates intestinal calcium absorption, although extremely high protein may increase urinary calcium excretion."
 
-**Zettel extracted:** [[Protein_Calcium_Absorption_Urinary_Excretion_[Z-001-0097].md]]
+**Zettel extracted:** [[Protein_Calcium_Absorption_Urinary_Excretion_Z-001-0097]]
 
 ### 3. Sarcopenia and Bone Loss Connection
 > "In older adults with sarcopenia and frailty, ensuring sufficient protein intake helps maintain both muscle mass and bone density."
 
-**Zettel extracted:** [[Sarcopenia_Bone_Loss_Connection_[Z-001-0098].md]]
+**Zettel extracted:** [[Sarcopenia_Bone_Loss_Connection_Z-001-0098]]
 
 ### 4. Protein Requirements for Bone Health (1.2-1.5 g/kg)
 > "Current guidelines suggest 1.0–1.2 g/kg/day, though experts recommend up to ~1.5 g/kg in individuals with sarcopenia or high fracture risk."
 
-**Zettel extracted:** [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_[Z-001-0099].md]]
+**Zettel extracted:** [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_Z-001-0099]]
 
 ### 5. IGF-1 as Bone Anabolic Signal
 > "Protein intake stimulates IGF-1 (insulin-like growth factor-1), which promotes osteoblast proliferation and bone matrix synthesis."
 
-**Zettel extracted:** [[IGF1_Protein_Bone_Anabolic_Signal_[Z-001-0100].md]]
+**Zettel extracted:** [[IGF1_Protein_Bone_Anabolic_Signal_Z-001-0100]]
 
 ---
 
@@ -71,11 +71,11 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Muscle_Bone_Unit_Mechanical_Loading_[Z-001-0096].md]]
-2. [[Protein_Calcium_Absorption_Urinary_Excretion_[Z-001-0097].md]]
-3. [[Sarcopenia_Bone_Loss_Connection_[Z-001-0098].md]]
-4. [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_[Z-001-0099].md]]
-5. [[IGF1_Protein_Bone_Anabolic_Signal_[Z-001-0100].md]]
+1. [[Muscle_Bone_Unit_Mechanical_Loading_Z-001-0096]]
+2. [[Protein_Calcium_Absorption_Urinary_Excretion_Z-001-0097]]
+3. [[Sarcopenia_Bone_Loss_Connection_Z-001-0098]]
+4. [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_Z-001-0099]]
+5. [[IGF1_Protein_Bone_Anabolic_Signal_Z-001-0100]]
 
 ## Related References
 - [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]] — Nutritional combination

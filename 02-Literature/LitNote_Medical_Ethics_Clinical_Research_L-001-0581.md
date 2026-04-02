@@ -16,7 +16,7 @@ domain: 001
 # Medical Ethics in Clinical Research — Frameworks, Guidelines, and Requirements
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0131_Medical_Ethics_Assistance_[CGPT-0131].md]] (100 messages)
+- **ChatGPT conversation:** [[CGPT_0131_Medical_Ethics_Assistance_[CGPT-0131]] (100 messages)
 - **Date:** March 07, 2025
 - **Scope:** Clinical research ethics frameworks, historical guidelines, requirements
 

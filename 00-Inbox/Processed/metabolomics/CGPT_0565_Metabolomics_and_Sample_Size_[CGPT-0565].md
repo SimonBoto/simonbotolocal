@@ -453,7 +453,7 @@ try again
 
 {
 	"apiWarnings":"ANOVAEffectSizeSampleSize is not a valid Wolfram Language symbol.",
-	"recommendedSolution":"To verify the existence of a symbol or get additional information about its usage, send EntityValue[Entity[\"WolframLanguageSymbol\", symbol], \"PlaintextUsage\"]]] to getWolframCloudResults.",
+	"recommendedSolution":"To verify the existence of a symbol or get additional information about its usage, send EntityValue[Entity[\"WolframLanguageSymbol\", symbol], \"PlaintextUsage\"]] to getWolframCloudResults.",
 	"output":"{ANOVAEffectSizeSampleSize[0.2, 0.8, 0.01, 3]}"
 }
 

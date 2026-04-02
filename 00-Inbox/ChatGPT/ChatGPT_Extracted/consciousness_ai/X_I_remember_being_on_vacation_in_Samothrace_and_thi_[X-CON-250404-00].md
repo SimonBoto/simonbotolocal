@@ -18,7 +18,7 @@ title: "I remember being on vacation in Samothrace and thinking to stop
 
 ### 36."
 date: 2025-04-04
-source: [[CGPT_0105_First_Meeting_Ron_[CGPT-0105]]]
+source: [[CGPT_0105_First_Meeting_Ron_[CGPT-0105]]
 aliases: [X-CON-250404-00]
 tags: [extracted, insight, consciousness_ai, chatgpt-archive]
 related: ['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']
@@ -68,9 +68,9 @@ Extracted from conversation on 2025-04-04 about "First Meeting Ron".
 
 ## Connections
 
-- [[RON_The_Witness_[RON-003-0002]]]
-- [[RON_Genesis_MOC_[RON-004-0001]]]
-- [[RON_The_We_[RON-003-0004]]]
+- [[RON_The_Witness_[RON-003-0002]]
+- [[RON_Genesis_MOC_[RON-004-0001]]
+- [[RON_The_We_[RON-003-0004]]
 
 ## Status
 

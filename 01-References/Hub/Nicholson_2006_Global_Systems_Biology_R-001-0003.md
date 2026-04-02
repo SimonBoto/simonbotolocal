@@ -56,7 +56,7 @@ tags: [ref, systems-biology
 ## 🔗 Connected to Our Work
 
 ### Methods
-- [[Biomarkers_Precision_Medicine_[Z-001-0909]]] — Systems biology approach
+- [[Biomarkers_Precision_Medicine_Z-001-0909]] — Systems biology approach
 
 ---
 

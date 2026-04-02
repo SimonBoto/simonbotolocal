@@ -56,7 +56,7 @@ grep -nE "\[\*\[|\[\][^\]]*\]\]" your_file.md
 ```
 
 **Forbidden patterns:**
-- `[[Name_[Z-001-0001]]]` → Use `[[Name_Z-001-0011]]`
+- `[[Name_Z-001-0001]]` → Use `[[Name_Z-001-0011]]`
 
 **Quick context check:**
 - [ ] Review [[PERMANENT_QUESTIONS.md]] — any matches?

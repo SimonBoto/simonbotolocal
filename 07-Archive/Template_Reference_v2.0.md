@@ -36,18 +36,18 @@ extraction-priority: "P0" | "P1" | "P2"
 parent-moc: "[[MOC-Research-Methods]]"
 connections:
   extracted-zettels:
-    - "[[{{Zettel_Title}}_[{{Zettel_UID}}]]]"
-    - "[[{{Zettel_Title}}_[{{Zettel_UID}}]]]"
+    - "[[{{Zettel_Title}}_[{{Zettel_UID}}]]"
+    - "[[{{Zettel_Title}}_[{{Zettel_UID}}]]"
   synthesis-links:
-    - "[[{{Synthesis_Title}}_[{{Synthesis_UID}}]]]"
+    - "[[{{Synthesis_Title}}_[{{Synthesis_UID}}]]"
   related-refs:
-    - "[[{{Reference_Title}}_[{{Reference_UID}}]]]"
+    - "[[{{Reference_Title}}_[{{Reference_UID}}]]"
   supports-claims:
-    - "[[{{Zettel_Title}}_[{{Zettel_UID}}]]]"
+    - "[[{{Zettel_Title}}_[{{Zettel_UID}}]]"
   contradicts-claims:
-    - "[[{{Zettel_Title}}_[{{Zettel_UID}}]]]"
+    - "[[{{Zettel_Title}}_[{{Zettel_UID}}]]"
   methods-source:
-    - "[[{{Zettel_Title}}_[{{Zettel_UID}}]]]"
+    - "[[{{Zettel_Title}}_[{{Zettel_UID}}]]"
 litnotes-created:
   - "[[LitNote_{{Short_Title}}_{{L-XXX-XXXX}}]]"
 extraction-date: "{{YYYY-MM-DD}}"
@@ -98,19 +98,19 @@ quality-score: "high" | "medium" | "low"
 ## 🔗 Connections
 
 ### Extracted Zettels
-- [[{{Zettel_Title}}_[{{Zettel_UID}}]]] — {{Description}}
-- [[{{Zettel_Title}}_[{{Zettel_UID}}]]] — {{Description}}
+- [[{{Zettel_Title}}_[{{Zettel_UID}}]] — {{Description}}
+- [[{{Zettel_Title}}_[{{Zettel_UID}}]] — {{Description}}
 
 ### Synthesis Links
-- [[{{Synthesis_Title}}_[{{Synthesis_UID}}]]] — {{How it fits}}
+- [[{{Synthesis_Title}}_[{{Synthesis_UID}}]] — {{How it fits}}
 
 ### Related References
-- [[{{Reference_Title}}_[{{Reference_UID}}]]] — {{Connection type}}
+- [[{{Reference_Title}}_[{{Reference_UID}}]] — {{Connection type}}
 
 ### Evidence Relationships
-- **Supports:** [[{{Zettel_Title}}_[{{Zettel_UID}}]]]
-- **Contradicts:** [[{{Zettel_Title}}_[{{Zettel_UID}}]]]
-- **Methods:** [[{{Zettel_Title}}_[{{Zettel_UID}}]]]
+- **Supports:** [[{{Zettel_Title}}_[{{Zettel_UID}}]]
+- **Contradicts:** [[{{Zettel_Title}}_[{{Zettel_UID}}]]
+- **Methods:** [[{{Zettel_Title}}_[{{Zettel_UID}}]]
 
 ---
 

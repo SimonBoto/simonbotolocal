@@ -10,7 +10,7 @@ uid: X-VIT-241009-00
 type: extracted-insight
 title: "after hard work and using your template, the final form of introduction is this:..."
 date: 2024-10-09
-source: "[[CGPT_0254_Project_Nutrients_MetS_[CGPT-0254]]]"
+source: "[[CGPT_0254_Project_Nutrients_MetS_[CGPT-0254]]"
 aliases: [X-VIT-241009-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
@@ -68,7 +68,7 @@ Brief introduction to the roles of Vitamin D, K2, and magnesium.
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
 
 ## Status
 

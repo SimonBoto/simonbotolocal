@@ -10,7 +10,7 @@ uid: X-MET-231022-00
 type: extracted-insight
 title: "Before deciding the personalized multi-micronutrient prescription, various facto..."
 date: 2023-10-22
-source: "[[CGPT_0540_User_Request_Summarize_conversation_title_[CGPT-0540]]]"
+source: "[[CGPT_0540_User_Request_Summarize_conversation_title_[CGPT-0540]]"
 aliases: [X-MET-231022-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
@@ -55,8 +55,8 @@ just mention it if you think a reference is needed to support a state.
 
 ## Connections
 
-- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]]
-- [[RON_Metabolomics_Phenotype_[RON-000-0007]]]
+- [[RON_Adipic_Acid_Biomarker_[RON-000-0008]]
+- [[RON_Metabolomics_Phenotype_[RON-000-0007]]
 
 ## Status
 

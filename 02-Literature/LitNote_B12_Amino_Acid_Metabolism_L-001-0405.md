@@ -15,7 +15,7 @@ extraction-date: 2026-03-01
 # Lit: B12 in Amino Acid Metabolism — The Propionate Pathway
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]
 - **Date:** November 2024
 - **Scope:** Propionate metabolism, methylmalonyl-CoA mutase, odd-chain fatty acid catabolism, Krebs cycle integration
 
@@ -41,7 +41,7 @@ extraction-date: 2026-03-01
 - Gut health signaling (local effects)
 - Substrate for glucose synthesis
 
-**Zettels extracted:** [[Propionate_Sources_Metabolic_Fate_[Z-001-0426].md]]
+**Zettels extracted:** [[Propionate_Sources_Metabolic_Fate_Z-001-0426]]
 
 ### 2. The Propionyl-CoA Carboxylase Step
 > "Propionyl-CoA is carboxylated to methylmalonyl-CoA by propionyl-CoA carboxylase, an enzyme requiring biotin as cofactor."
@@ -66,7 +66,7 @@ Propionyl-CoA + CO₂ + ATP → D-Methylmalonyl-CoA + ADP + Pi
 - Biotin deficiency affects function
 - Organic acid accumulation
 
-**Zettels extracted:** [[Propionyl_CoA_Carboxylase_Biotin_[Z-001-0427].md]]
+**Zettels extracted:** [[Propionyl_CoA_Carboxylase_Biotin_Z-001-0427]]
 
 ### 3. Methylmalonyl-CoA Mutase — The B12 Connection
 > "Methylmalonyl-CoA is converted to succinyl-CoA by methylmalonyl-CoA mutase. This enzyme requires vitamin B12 (adenosylcobalamin) as cofactor."
@@ -94,7 +94,7 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 4. Carbon skeleton rearrangement occurs
 5. Radical returned to regenerate cofactor
 
-**Zettels extracted:** [[Methylmalonyl_CoA_Mutase_B12_Mechanism_[Z-001-0428].md]]
+**Zettels extracted:** [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]]
 
 ### 4. Succinyl-CoA Entry into Krebs Cycle
 > "Succinyl-CoA is an intermediate in the citric acid cycle... propionate metabolism provides an anaplerotic input to the Krebs cycle."
@@ -119,7 +119,7 @@ Citrate → Isocitrate → α-Ketoglutarate → Succinyl-CoA
 - Net energy positive
 - Can generate glucose (gluconeogenesis)
 
-**Zettels extracted:** [[Succinyl_CoA_Krebs_Anaplerosis_[Z-001-0429].md]]
+**Zettels extracted:** [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
 
 ### 5. Amino Acid Sources of Propionyl-CoA
 > "Isoleucine, methionine, threonine, and valine catabolism produce propionyl-CoA, requiring B12 for complete oxidation."
@@ -143,7 +143,7 @@ Citrate → Isocitrate → α-Ketoglutarate → Succinyl-CoA
 - B12 deficiency impairs amino acid oxidation
 - Protein metabolism compromised
 
-**Zettels extracted:** [[Amino_Acid_Sources_Propionyl_CoA_[Z-001-0430].md]]
+**Zettels extracted:** [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
 
 ### 6. Odd-Chain Fatty Acid Oxidation
 > "Odd-chain fatty acids (15:0, 17:0) undergo beta-oxidation, producing acetyl-CoA and propionyl-CoA as final products."
@@ -175,7 +175,7 @@ C17:0 (margaric acid)
 - Marker of dairy intake
 - B12-dependent energy extraction
 
-**Zettels extracted:** [[Odd_Chain_Fatty_Acid_Oxidation_[Z-001-0431].md]]
+**Zettels extracted:** [[Odd_Chain_Fatty_Acid_Oxidation_Z-001-0431]]
 
 ---
 
@@ -201,12 +201,12 @@ C17:0 (margaric acid)
 ---
 
 ## Zettels Created from This Source
-1. [[Propionate_Sources_Metabolic_Fate_[Z-001-0426].md]]
-2. [[Propionyl_CoA_Carboxylase_Biotin_[Z-001-0427].md]]
-3. [[Methylmalonyl_CoA_Mutase_B12_Mechanism_[Z-001-0428].md]]
-4. [[Succinyl_CoA_Krebs_Anaplerosis_[Z-001-0429].md]]
-5. [[Amino_Acid_Sources_Propionyl_CoA_[Z-001-0430].md]]
-6. [[Odd_Chain_Fatty_Acid_Oxidation_[Z-001-0431].md]]
+1. [[Propionate_Sources_Metabolic_Fate_Z-001-0426]]
+2. [[Propionyl_CoA_Carboxylase_Biotin_Z-001-0427]]
+3. [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]]
+4. [[Succinyl_CoA_Krebs_Anaplerosis_Z-001-0429]]
+5. [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]]
+6. [[Odd_Chain_Fatty_Acid_Oxidation_Z-001-0431]]
 
 ---
 

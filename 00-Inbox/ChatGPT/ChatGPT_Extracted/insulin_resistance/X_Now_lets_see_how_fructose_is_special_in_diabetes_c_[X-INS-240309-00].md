@@ -18,7 +18,7 @@ title: "Now, let's see how fructose is special in diabetes control
 
 ### 106."
 date: 2024-03-09
-source: [[CGPT_0469_Insulin_Action_Profiles_Visualized_[CGPT-0469]]]
+source: [[CGPT_0469_Insulin_Action_Profiles_Visualized_[CGPT-0469]]
 aliases: [X-INS-240309-00]
 tags: [extracted, insight, insulin_resistance, chatgpt-archive]
 related: ['RON_Genesis_MOC_[RON-004-0001]', 'ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]']
@@ -72,8 +72,8 @@ I Want to know onset time, peak, how long it lasts. Practically
 
 ## Connections
 
-- [[RON_Genesis_MOC_[RON-004-0001]]]
-- [[ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]]]
+- [[RON_Genesis_MOC_[RON-004-0001]]
+- [[ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]]
 
 ## Status
 

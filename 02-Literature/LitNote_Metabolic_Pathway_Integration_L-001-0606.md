@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 # Lit: ChatGPT 2024 — Metabolic Pathway Integration
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_[CGPT-0445]]
 - **Date:** March 25, 2024
 
 ## Core Concepts Extracted
@@ -26,22 +26,22 @@ extraction-date: 2026-03-08
 ### 1. Glycolysis-PPP Integration
 > "The pentose phosphate pathway branches from glycolysis and can feed back into it."
 
-**Zettel extracted:** [[Glycolysis_PPP_Integration_Bidirectional_Flow_[Z-001-1110].md]]
+**Zettel extracted:** [[Glycolysis_PPP_Integration_Bidirectional_Flow_Z-001-1110]]
 
 ### 2. Pyruvate as Metabolic Hub
 > "Pyruvate sits at the crossroads of multiple pathways: lactate, acetyl-CoA, oxaloacetate."
 
-**Zettel extracted:** [[Pyruvate_Metabolic_Hub_Multiple_Fates_[Z-001-1111].md]]
+**Zettel extracted:** [[Pyruvate_Metabolic_Hub_Multiple_Fates_Z-001-1111]]
 
 ### 3. Acetyl-CoA Central Role
 > "Acetyl-CoA connects carbohydrate, fat, and protein metabolism."
 
-**Zettel extracted:** [[Acetyl_CoA_Central_Metabolic_Connector_[Z-001-1112].md]]
+**Zettel extracted:** [[Acetyl_CoA_Central_Metabolic_Connector_Z-001-1112]]
 
 ### 4. Metabolic Flexibility
 > "The ability to switch between fuel sources—glucose, fatty acids, ketones, amino acids."
 
-**Zettel extracted:** [[Metabolic_Flexibility_Fuel_Switching_Capacity_[Z-001-1113].md]]
+**Zettel extracted:** [[Metabolic_Flexibility_Fuel_Switching_Capacity_Z-001-1113]]
 
 ## The Integrated Metabolic Network
 
@@ -77,10 +77,10 @@ Glycolysis       Beta-oxidation     Deamination
 **Synthesis:** Metabolism is not a collection of isolated pathways but an integrated network—substrates flow between pathways based on cellular needs, hormonal signals, and substrate availability.
 
 ## Zettels Created from This Source
-1. [[Glycolysis_PPP_Integration_Bidirectional_Flow_[Z-001-1110].md]]
-2. [[Pyruvate_Metabolic_Hub_Multiple_Fates_[Z-001-1111].md]]
-3. [[Acetyl_CoA_Central_Metabolic_Connector_[Z-001-1112].md]]
-4. [[Metabolic_Flexibility_Fuel_Switching_Capacity_[Z-001-1113].md]]
+1. [[Glycolysis_PPP_Integration_Bidirectional_Flow_Z-001-1110]]
+2. [[Pyruvate_Metabolic_Hub_Multiple_Fates_Z-001-1111]]
+3. [[Acetyl_CoA_Central_Metabolic_Connector_Z-001-1112]]
+4. [[Metabolic_Flexibility_Fuel_Switching_Capacity_Z-001-1113]]
 
 ## Related References
 - 

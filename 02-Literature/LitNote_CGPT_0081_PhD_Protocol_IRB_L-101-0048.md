@@ -16,7 +16,7 @@ extraction-date: 2026-03-28
 # Lit: PhD Protocol Summary — METHAP Study Design and Ethics Review
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0081_PhD_Protocol_Summary_[CGPT-0081].md]]
+- **ChatGPT conversation:** [[CGPT_0081_PhD_Protocol_Summary_[CGPT-0081]]
 - **Date:** February 4, 2025
 - **Messages:** 63
 - **ID:** 67a1c57b
@@ -108,15 +108,15 @@ extraction-date: 2026-03-28
 | Lay summary | Add brief overview at beginning |
 
 ## Zettels Created
-1. [[METHAP_Study_Design_Overview_[Z-101-0472].md]] — Protocol structure, phases, endpoints
-2. [[METHAP_IRB_Feedback_Action_Items_[Z-101-0473].md]] — Committee concerns and responses
-3. [[METHAP_Informed_Consent_Framework_[Z-101-0474].md]] — Consent elements and best practices
-4. [[METHAP_Supplement_Protocol_[Z-101-0475].md]] — Intervention details, dosages, safety
+1. [[METHAP_Study_Design_Overview_Z-101-0472]] — Protocol structure, phases, endpoints
+2. [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]] — Committee concerns and responses
+3. [[METHAP_Informed_Consent_Framework_Z-101-0474]] — Consent elements and best practices
+4. [[METHAP_Supplement_Protocol_Z-101-0475]] — Intervention details, dosages, safety
 
 ## Connections
-- **Related:** [[CGPT_0359_Compliance_and_Approval_Process_[CGPT-0359].md]] — IRB procedures
-- **Related:** [[CGPT_0131_Medical_Ethics_Assistance_[CGPT-0131].md]] — Ethics frameworks
-- **Related:** [[CGPT_0205_Ethics_Committee_Follow_Up_[CGPT-0205].md]] — Committee interaction
+- **Related:** [[CGPT_0359_Compliance_and_Approval_Process_[CGPT-0359]] — IRB procedures
+- **Related:** [[CGPT_0131_Medical_Ethics_Assistance_[CGPT-0131]] — Ethics frameworks
+- **Related:** [[CGPT_0205_Ethics_Committee_Follow_Up_[CGPT-0205]] — Committee interaction
 - **Domain:** Adipic acid biomarker validation within METHAP framework
 
 ## Extraction Notes
