@@ -546,7 +546,7 @@ contributing-zettels:
 - Adipic acid marker shared
 
 **Integration:**
-- Use [[IR_Playbook_Clinical_Decision_Tool_[S-001-0001]]
+- Use [[IR_Playbook_Clinical_Decision_Tool_S-001-0001]
 - Add mitochondrial support to IR protocol
 - Monitor both OAT and HOMA-IR
 
@@ -668,10 +668,10 @@ contributing-zettels:
 
 ## Section 10: Related Protocols
 
-- [[IR_Playbook_Clinical_Decision_Tool_[S-001-0001]] — Metabolic syndrome overlap
-- [[Vitamin_D_Clinical_Guide_[S-001-0002]] — Synergistic intervention
-- [[Metabolomics_Training_Curriculum_[S-001-0003]] — OAT interpretation training
-- [[Omega_Fatty_Acids_Framework_[S-001-0005]] — Membrane support
+- [[IR_Playbook_Clinical_Decision_Tool_S-001-0001] — Metabolic syndrome overlap
+- [[Vitamin_D_Clinical_Guide_S-001-0002] — Synergistic intervention
+- [[Metabolomics_Training_Curriculum_S-001-0003] — OAT interpretation training
+- [[Omega_Fatty_Acids_Framework_S-001-0005] — Membrane support
 
 ---
 

@@ -198,7 +198,7 @@ source-litnote: Synthesized from clinical practice
 
 ## RELATED FILES
 - [[OAT_Reference_[B-012-0001].md|OAT Complete Reference]]
-- [[Mitochondrial_Dysfunction_Pattern_[S-012-0001].md|Mitochondrial Dysfunction Patterns]]
+- [[Mitochondrial_Dysfunction_Pattern_S-012-0001.md|Mitochondrial Dysfunction Patterns]]
 
 source-litnote: Synthesized from clinical practice
 ---

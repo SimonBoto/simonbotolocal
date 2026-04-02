@@ -816,7 +816,7 @@ Action Taken: [Description]
 
 ## Section 11: Related Documents
 
-- [[METHAP_Protocol_Living_Document_[S-002-0001]] — Study protocol using this framework
+- [[METHAP_Protocol_Living_Document_S-002-0001] — Study protocol using this framework
 - [[IR_Communication_Best_Practices_Z-101-0481]] — Practical communication guidance
 - [[IR_Communication_Template_Z-002-0614]] — Template library
 - [[Questionnaire_Ethics_Approval_Strategies_Z-101-0482]] — Survey/questionnaire ethics

@@ -479,7 +479,7 @@ Week 16: Follow-up assessment (4 weeks post-intervention)
 
 ### 10.3 Clinical Integration
 
-- Update [[IR_Playbook_Clinical_Decision_Tool_[S-001-0001]] with findings
+- Update [[IR_Playbook_Clinical_Decision_Tool_S-001-0001] with findings
 - Patient education materials
 - Practitioner guidelines
 
@@ -547,9 +547,9 @@ Week 16: Follow-up assessment (4 weeks post-intervention)
 ---
 
 ## Related Documents
-- [[Research_Ethics_IRB_Checklist_[S-002-0002]] — Ethics compliance
-- [[IR_Playbook_Clinical_Decision_Tool_[S-001-0001]] — Clinical integration
-- [[Vitamin_D_Clinical_Guide_[S-001-0002]] — Dosing rationale
+- [[Research_Ethics_IRB_Checklist_S-002-0002] — Ethics compliance
+- [[IR_Playbook_Clinical_Decision_Tool_S-001-0001] — Clinical integration
+- [[Vitamin_D_Clinical_Guide_S-001-0002] — Dosing rationale
 
 ---
 

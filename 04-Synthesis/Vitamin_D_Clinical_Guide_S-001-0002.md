@@ -629,10 +629,10 @@ A: Yes, with monitoring. Studies show safety up to 40,000 IU/day short-term. 10,
 
 ## Section 12: Related Protocols
 
-- [[IR_Playbook_Clinical_Decision_Tool_[S-001-0001]] — Metabolic syndrome application
-- [[METHAP_Protocol_Living_Document_[S-002-0001]] — Research protocol using high-dose D
-- [[Mitochondrial_Dysfunction_Action_[S-001-0004]] — Synergistic interventions
-- [[Omega_Fatty_Acids_Framework_[S-001-0005]] — Anti-inflammatory synergy
+- [[IR_Playbook_Clinical_Decision_Tool_S-001-0001] — Metabolic syndrome application
+- [[METHAP_Protocol_Living_Document_S-002-0001] — Research protocol using high-dose D
+- [[Mitochondrial_Dysfunction_Action_S-001-0004] — Synergistic interventions
+- [[Omega_Fatty_Acids_Framework_S-001-0005] — Anti-inflammatory synergy
 
 ---
 

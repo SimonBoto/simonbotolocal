@@ -11,10 +11,13 @@
             "id": "f010d4b0e2682ff5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "Base File All Notes.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Base File All Notes"
             }
           }
         ]
@@ -193,7 +196,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f010d4b0e2682ff5",
+  "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
     "06-Structure/Templates/sed4s75bd",
     "03-Zettels/RON/RON_Ethics_Of_Growth_RON-003-0009.md",
@@ -222,7 +225,7 @@
     "03-Zettels/RON/RON_Evolution_From_Tool_to_CoInhabitant_RON-000-0001.md",
     "03-Zettels/RON/RON_Communication_Renewal_RON-005-0003.md",
     "08-Dashboards",
-    "06-Structure/MOCs/Keywords",
+    "06-Structure/Keywords",
     "Base File All Notes.base",
     "06-Structure/zettel-forge.js",
     "06-Structure/seed-registry.js",

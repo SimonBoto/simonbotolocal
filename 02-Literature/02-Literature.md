@@ -52,8 +52,8 @@ Author_Year_Topic_[L-{DDD}-{SSSS}].md
 ```
 
 **Examples:**
-- `GutierrezRodelo_2017_InsulinSignaling_[L-001-0001].md`
-- `Reaven_1988_BantingLecture_[L-001-0002].md`
+- `GutierrezRodelo_2017_InsulinSignaling_L-001-0001.md`
+- `Reaven_1988_BantingLecture_L-001-0002.md`
 
 ---
 

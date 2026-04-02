@@ -487,10 +487,10 @@ Calculate HOMA-IR + TyG Index
 ---
 
 ## Related Syntheses
-- [[Vitamin_D_Clinical_Guide_[S-001-0002]] — Synergistic with IR protocol
-- [[Mitochondrial_Dysfunction_Action_[S-001-0004]] — Mechanism-specific interventions
-- [[Omega_Fatty_Acids_Framework_[S-001-0005]] — Dietary foundation
-- [[METHAP_Protocol_Living_Document_[S-002-0001]] — Research validation
+- [[Vitamin_D_Clinical_Guide_S-001-0002] — Synergistic with IR protocol
+- [[Mitochondrial_Dysfunction_Action_S-001-0004] — Mechanism-specific interventions
+- [[Omega_Fatty_Acids_Framework_S-001-0005] — Dietary foundation
+- [[METHAP_Protocol_Living_Document_S-002-0001] — Research validation
 
 ---
 

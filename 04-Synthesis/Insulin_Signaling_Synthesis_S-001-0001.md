@@ -57,7 +57,7 @@ Insulin signaling is a receptor tyrosine kinase cascade initiated by insulin bin
 ## 2. Source Evolution
 
 ### Initial Understanding (Gutiérrez-Rodelo 2017)
-**Source:** [[Lit_GutierrezRodelo_IR_Mechanisms_[L-001-0001]]
+**Source:** [[Lit_GutierrezRodelo_IR_Mechanisms_L-001-0001]
 **Key insight:** IRS serine phosphorylation is a convergent mechanism of insulin resistance. Multiple insults (inflammation, lipotoxicity, ER stress) converge on IRS serine kinases.
 **Zettels extracted:** 9
 **Impact:** Established core cascade + IR mechanisms
@@ -133,10 +133,10 @@ Insulin signaling is a receptor tyrosine kinase cascade initiated by insulin bin
 
 | Synthesis | Topic | Connection |
 |-----------|-------|------------|
-| [[Mitochondrial_Function_Synthesis_[S-005-0001]] | Energy metabolism | ATP production for insulin signaling |
-| [[Adipose_Tissue_Biology_[S-004-0001]] | Endocrine function | Adipokines modulate insulin sensitivity |
-| [[Adipic_Acid_Metabolism_[S-101-0001]] | Biomarker interpretation | Mitochondrial dysfunction marker |
-| [[Vitamin_D_Mechanisms_[S-110-0001]] | Cross-talk | Vitamin D improves insulin sensitivity |
+| [[Mitochondrial_Function_Synthesis_S-005-0001] | Energy metabolism | ATP production for insulin signaling |
+| [[Adipose_Tissue_Biology_S-004-0001] | Endocrine function | Adipokines modulate insulin sensitivity |
+| [[Adipic_Acid_Metabolism_S-101-0001] | Biomarker interpretation | Mitochondrial dysfunction marker |
+| [[Vitamin_D_Mechanisms_S-110-0001] | Cross-talk | Vitamin D improves insulin sensitivity |
 
 ---
 

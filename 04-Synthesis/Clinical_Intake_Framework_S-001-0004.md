@@ -34,7 +34,7 @@ contributing-zettels:
 - Previous treatments and responses
 - Impact on daily function
 
-**Links to:** [[Clinical_Biochemical_Assessment_Framework_[S-001-0002]|Biochemical Assessment]]
+**Links to:** [[Clinical_Biochemical_Assessment_Framework_S-001-0002|Biochemical Assessment]]
 
 ---
 
@@ -74,7 +74,7 @@ contributing-zettels:
 - Previous supplement trials (what worked, what didn't)
 - Adverse reactions
 
-**Links to:** [[Supplement_Protocol_Framework_[S-001-0003]|Supplement Protocols]]
+**Links to:** [[Supplement_Protocol_Framework_S-001-0003|Supplement Protocols]]
 
 ---
 
@@ -132,8 +132,8 @@ Intake findings guide testing priorities:
 
 ## Related
 
-- [[Clinical_Biochemical_Assessment_Framework_[S-001-0002]]
-- [[Supplement_Protocol_Framework_[S-001-0003]]
+- [[Clinical_Biochemical_Assessment_Framework_S-001-0002]
+- [[Supplement_Protocol_Framework_S-001-0003]
 - [[MOC-Clinical-Protocols]]
 
 ---

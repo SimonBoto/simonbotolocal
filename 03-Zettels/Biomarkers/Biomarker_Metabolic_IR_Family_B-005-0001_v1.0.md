@@ -249,7 +249,7 @@ created: 2026-03-30
 - Normal or low BHB (impaired ketogenesis)
 - Elevated citric acid (mitochondrial stress)
 
-**See also:** [[IR_Playbook_Clinical_Decision_Tool_[S-001-0001]] for complete integration
+**See also:** [[IR_Playbook_Clinical_Decision_Tool_S-001-0001] for complete integration
 
 ## 5. NUTRITIONAL CONNECTIONS
 
@@ -425,12 +425,12 @@ created: 2026-03-30
 
 ## 11. RELATED BIOMARKERS
 
-- [[IR_Playbook_Clinical_Decision_Tool_[S-001-0001]]: Complete IR protocol
+- [[IR_Playbook_Clinical_Decision_Tool_S-001-0001]: Complete IR protocol
 - [[Adipic_Acid_Z-001-0041]]: Early IR marker (OAT)
 - [[BHB_Z-001-0483]]: Metabolic flexibility marker
-- [[Mitochondrial_Dysfunction_Action_[S-001-0004]]: Mitochondrial support
-- [[Omega_Fatty_Acids_Framework_[S-001-0005]]: TG management
-- [[Vitamin_D_Clinical_Guide_[S-001-0002]]: D and insulin sensitivity
+- [[Mitochondrial_Dysfunction_Action_S-001-0004]: Mitochondrial support
+- [[Omega_Fatty_Acids_Framework_S-001-0005]: TG management
+- [[Vitamin_D_Clinical_Guide_S-001-0002]: D and insulin sensitivity
 
 ---
 status: footer

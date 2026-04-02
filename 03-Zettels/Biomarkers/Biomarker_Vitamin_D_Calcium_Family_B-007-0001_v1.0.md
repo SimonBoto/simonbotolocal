@@ -364,8 +364,8 @@ Low Calcium → PTH release →
 - [[Calcium_Metabolism_[B-007-0002]]: Extended calcium panel
 - [[Bone_Turnover_Markers_[B-007-0003]]: Osteocalcin, CTX, P1NP
 - [[Phosphate_[B-007-0004]]: Partner mineral
-- [[Vitamin_D_Clinical_Guide_[S-001-0002]]: Comprehensive D protocol
-- [[IR_Playbook_Clinical_Decision_Tool_[S-001-0001]]: D and insulin sensitivity
+- [[Vitamin_D_Clinical_Guide_S-001-0002]: Comprehensive D protocol
+- [[IR_Playbook_Clinical_Decision_Tool_S-001-0001]: D and insulin sensitivity
 
 ---
 status: footer

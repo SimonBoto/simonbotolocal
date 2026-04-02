@@ -391,7 +391,7 @@ Systematic 3-phase approach over 6-12 months:
 - Better lipid profiles
 
 **Protocol:**
-- Combine with [[IR_Playbook_Clinical_Decision_Tool_[S-001-0001]]
+- Combine with [[IR_Playbook_Clinical_Decision_Tool_S-001-0001]
 - Omega-3: 2-4 g
 - Aggressive omega-6 elimination
 
@@ -620,9 +620,9 @@ Systematic 3-phase approach over 6-12 months:
 
 ## Section 10: Related Protocols
 
-- [[IR_Playbook_Clinical_Decision_Tool_[S-001-0001]] — Metabolic syndrome integration
-- [[Mitochondrial_Dysfunction_Action_[S-001-0004]] — Synergistic intervention
-- [[Vitamin_D_Clinical_Guide_[S-001-0002]] — Anti-inflammatory synergy
+- [[IR_Playbook_Clinical_Decision_Tool_S-001-0001] — Metabolic syndrome integration
+- [[Mitochondrial_Dysfunction_Action_S-001-0004] — Synergistic intervention
+- [[Vitamin_D_Clinical_Guide_S-001-0002] — Anti-inflammatory synergy
 
 ---
 

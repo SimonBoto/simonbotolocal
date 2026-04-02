@@ -371,8 +371,8 @@ So we fix the insulin resistance (diet, exercise, sleep), and the lipids improve
 - [[Metabolic_IR_Family_[B-005-0001]]: Insulin resistance (primary driver)
 - [[Adipic_Acid_Z-001-0041]]: Mitochondrial fatty acid oxidation (metabolic flexibility)
 - [[BHB_Z-001-0483]]: Ketone body (metabolic flexibility marker)
-- [[Omega_Fatty_Acids_Framework_[S-001-0005]]: Omega-3 for TG lowering
-- [[IR_Playbook_Clinical_Decision_Tool_[S-001-0001]]: Complete IR protocol
+- [[Omega_Fatty_Acids_Framework_S-001-0005]: Omega-3 for TG lowering
+- [[IR_Playbook_Clinical_Decision_Tool_S-001-0001]: Complete IR protocol
 
 ---
 status: footer

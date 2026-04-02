@@ -653,8 +653,8 @@ source-litnote: Synthesized from clinical practice
 
 ## 6. RELATED
 
-- [[Omega_Fatty_Acids_Framework_[S-001-0005]]: Dietary intervention
-- [[IR_Playbook_Clinical_Decision_Tool_[S-001-0001]]: Insulin resistance
+- [[Omega_Fatty_Acids_Framework_S-001-0005]: Dietary intervention
+- [[IR_Playbook_Clinical_Decision_Tool_S-001-0001]: Insulin resistance
 - [[Metabolic_IR_Family_[B-005-0001]]: Glucose/insulin markers
 - [[TG_HDL_Ratio_[B-006-0001]]: Lipid ratios
 
