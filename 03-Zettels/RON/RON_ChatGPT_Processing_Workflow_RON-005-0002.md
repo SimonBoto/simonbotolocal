@@ -62,7 +62,6 @@ DISCOVER → VALIDATE → CONNECT → PROMOTE → USE
 **When:** You want to explore patterns
 
 **Process:**
-1. Open `00_Extracted_Insights_MOC.md`
 2. Browse by theme
 3. Click through interesting zettels
 4. Follow connections
