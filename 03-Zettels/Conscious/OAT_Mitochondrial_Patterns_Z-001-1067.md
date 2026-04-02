@@ -133,6 +133,8 @@ Match to Pattern A, B, C, or D above
 - [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]] — Krebs detail
 - [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]] — OXPHOS detail
 - [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] — B-vitamin patterns
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]] — Redox balance
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]] — Oxidative stress
 - [[MOC-Biomarkers]] — OAT reference
 
 ---

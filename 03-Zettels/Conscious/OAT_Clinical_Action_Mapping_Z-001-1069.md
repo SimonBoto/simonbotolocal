@@ -141,6 +141,7 @@ Track symptoms and plan retest
 - [[OAT_Mitochondrial_Patterns_Z-001-1067]] — Energy dysfunction detail
 - [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]] — Microbiome patterns
 - [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] — Deficiency patterns
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]] — Gut markers
 - [[MOC-Biomarkers]] — OAT reference
 
 ---

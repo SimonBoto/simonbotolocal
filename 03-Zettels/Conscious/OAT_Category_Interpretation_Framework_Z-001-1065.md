@@ -119,6 +119,8 @@ Each pattern → specific treatment protocol
 - [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]] — Microbiome patterns
 - [[OAT_Clinical_Action_Mapping_Z-001-1069]] — Treatment mapping
 - [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] — B-vitamin patterns
+- [[Krebs_Cycle_Clinical_Biochemistry_Z-001-1048]] — TCA cycle detail
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]] — OXPHOS detail
 - [[MOC-Biomarkers]] — OAT biomarker reference
 
 ---

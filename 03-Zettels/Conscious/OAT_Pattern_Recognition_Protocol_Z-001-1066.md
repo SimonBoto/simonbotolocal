@@ -123,6 +123,7 @@ Do patterns match symptoms? (They should.)
 - [[OAT_Gut_Dysbiosis_Patterns_Z-001-1068]] — Microbiome patterns
 - [[OAT_Clinical_Action_Mapping_Z-001-1069]] — Treatment from patterns
 - [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] — Deficiency patterns
+- [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]] — Oxidative stress
 - [[MOC-Biomarkers]] — OAT reference
 
 ---
