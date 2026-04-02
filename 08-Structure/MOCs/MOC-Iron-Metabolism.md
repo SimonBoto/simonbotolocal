@@ -27,8 +27,8 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 ### Absorption & Transport
 - [[Ferritin_Interpretation_Iron_Status_Z-003-0001]] — **Ferritin interpretation** (30-150 ng/mL storage range)
 - [[Iron_Studies_TIBC_Transferrin_Sat_Z-003-0002]] — Transferrin and TIBC (iron transport capacity)
-- [[Z-003-0003]] — Transferrin saturation (20-50% optimal)
-- [[Z-003-0004]] — Hepcidin regulation (master regulator)
+- [[Transferrin_Saturation_Functional_Iron_Z-003-0003]] — Transferrin saturation (20-50% optimal)
+- [[Serum_Iron_Circulating_Availability_Z-003-0004]] — Hepcidin regulation (master regulator)
 
 ### Utilization
 - [[Z-003-0005]] — Heme synthesis (for hemoglobin, myoglobin)

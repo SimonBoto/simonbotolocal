@@ -28,7 +28,7 @@ The methylation cycle is the body's methyl group (CH3) supply system. It powers 
 - [[Homocysteine_Composite_Methylation_Marker_Z-004-0001]] — **Homocysteine as composite marker** (<10 μmol/L target)
 - [[Folate_5MTHF_vs_Folic_Acid_Z-004-0002]] — Dietary folate (5-MTHF) entry
 - [[Retest_Scheduling_Followup_Protocols_Z-004-0003]] — Dietary B12 (methylcobalamin) entry
-- [[Z-004-0004]] — Choline/betaine alternate pathway
+- [[Folate_5-MTHF_Active_Folate_Z-004-0004]] — Choline/betaine alternate pathway
 
 ### Core Enzymes
 - [[Z-004-0005]] — MTHFR (C677T, A1298C variants)
