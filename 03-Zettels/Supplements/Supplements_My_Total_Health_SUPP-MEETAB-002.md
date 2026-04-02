@@ -17,6 +17,7 @@ target: ideal weight
 distinguishing_feature: alkaline vitamin C forms
 source_url: https://meetabstore.ch/en/for-the-weight/35-my-total-health.html
 tags: [multivitamin, amino-acids, foundational, weight-management]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # My Total Health (Meetab)

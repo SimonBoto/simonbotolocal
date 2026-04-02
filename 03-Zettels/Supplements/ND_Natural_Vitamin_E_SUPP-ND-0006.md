@@ -17,6 +17,7 @@ target: antioxidant-protection, cellular-defense
 key_ingredients: [natural-vitamin-e, d-alpha-tocopherol, mixed-tocopherols]
 source_url: https://naturaldoctor.gr/el/catalogue/natural-vitamin-e-73/
 tags: [vitamin-e, antioxidant, tocopherols, natural-form, cellular-protection]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Natural Vitamin E (Natural Doctor)

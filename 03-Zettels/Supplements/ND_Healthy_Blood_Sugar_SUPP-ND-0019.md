@@ -17,6 +17,7 @@ target: glucose-metabolism, insulin-sensitivity, glycogen-metabolism
 key_ingredients: [alpha-lipoic-acid, cinnamon, carnitine, glutamine, chromium, inositol]
 source_url: https://naturaldoctor.gr/el/catalogue/healthy-blood-sugar-55/
 tags: [blood-sugar, glucose, alpha-lipoic-acid, cinnamon, chromium, metabolic]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Healthy Blood Sugar (Natural Doctor)

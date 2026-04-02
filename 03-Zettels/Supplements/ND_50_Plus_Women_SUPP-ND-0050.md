@@ -17,6 +17,7 @@ target: fertility, womens-vitality, hormonal-balance, reproductive-health
 key_ingredients: [ashwagandha, maca, ginkgo, ginseng, cordyceps, arginine, taurine, carnitine, selenium, zinc, vitamin-d3]
 source_url: https://naturaldoctor.gr/el/catalogue/female-libido-92/
 tags: [womens-health, fertility, vitality, ashwagandha, maca, ginkgo, hormonal]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # 50+ Women (Natural Doctor)

@@ -17,6 +17,7 @@ target: mood-support, cognitive-function, nervous-system
 key_ingredients: [glutamine, niacin, tyrosine, 5-htp, vitamin-b6, zinc, iodine]
 source_url: https://naturaldoctor.gr/el/catalogue/neurobalance-28/
 tags: [mood, cognitive, neurotransmitter, 5-htp, tyrosine, glutamine, stress]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Neurobalance (Natural Doctor)

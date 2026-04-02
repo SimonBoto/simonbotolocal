@@ -17,6 +17,7 @@ target: inflammation, joint-health, digestion, antioxidant
 key_ingredients: [turmeric, curcumin, ginger, piperine, black-pepper]
 source_url: https://naturaldoctor.gr/el/catalogue/turmeric-ginger-65/
 tags: [turmeric, curcumin, ginger, anti-inflammatory, piperine, joints]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Turmeric & Ginger (Natural Doctor)

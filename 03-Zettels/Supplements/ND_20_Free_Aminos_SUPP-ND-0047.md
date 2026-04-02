@@ -17,6 +17,7 @@ target: complete-amino-acid-profile, protein-synthesis, recovery
 key_ingredients: [all-20-amino-acids, plant-based, fermented]
 source_url: https://naturaldoctor.gr/el/catalogue/20-free-aminos-2/
 tags: [amino-acids, complete-profile, plant-based, fermented, protein, recovery]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # 20 Free Aminos (Natural Doctor)

@@ -17,6 +17,7 @@ target: glutathione-status, antioxidant-defense, cellular-protection
 key_ingredients: [setria-glutathione, l-glutathione, reduced-glutathione]
 source_url: https://naturaldoctor.gr/el/catalogue/setria-glutathione-102/
 tags: [glutathione, setria, antioxidant, detox, master-antioxidant]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Setria® Glutathione (Natural Doctor)

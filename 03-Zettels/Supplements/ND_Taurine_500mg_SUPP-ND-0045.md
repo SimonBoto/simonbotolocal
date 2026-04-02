@@ -17,6 +17,7 @@ target: cardiovascular, exercise-performance, electrolyte-balance
 key_ingredients: [taurine, amino-acid]
 source_url: https://naturaldoctor.gr/el/catalogue/taurine-500-mg-79/
 tags: [taurine, amino-acid, cardiovascular, exercise, electrolytes, calming]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Taurine 500 mg (Natural Doctor)

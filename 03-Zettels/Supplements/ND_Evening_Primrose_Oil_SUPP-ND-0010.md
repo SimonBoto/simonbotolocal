@@ -17,6 +17,7 @@ target: womens-health, skin-health, pms-support, anti-inflammatory
 key_ingredients: [evening-primrose-oil, gla, linoleic-acid]
 source_url: https://naturaldoctor.gr/el/catalogue/evening-primrose-oil-63/
 tags: [evening-primrose, gla, omega-6, linoleic-acid, womens-health, skin]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Evening Primrose Oil (Natural Doctor)

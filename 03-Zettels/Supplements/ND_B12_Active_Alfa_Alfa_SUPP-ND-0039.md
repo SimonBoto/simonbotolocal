@@ -17,6 +17,7 @@ target: b12-deficiency, nervous-system, energy, methylation
 key_ingredients: [methylcobalamin, b12, alfalfa]
 source_url: https://naturaldoctor.gr/el/catalogue/b12-active-alfa-alfa-68/
 tags: [b12, methylcobalamin, active-b12, alfalfa, methylation, vegan]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # B12 Active & Alfa Alfa (Natural Doctor)

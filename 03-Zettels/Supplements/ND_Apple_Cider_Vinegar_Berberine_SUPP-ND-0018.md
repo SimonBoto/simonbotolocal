@@ -17,6 +17,7 @@ target: glucose-metabolism, digestion, metabolic-health
 key_ingredients: [apple-cider-vinegar, berberine, chromium, choline, carnitine]
 source_url: https://naturaldoctor.gr/el/catalogue/apple-cider-vinegar-berberine-104/
 tags: [apple-cider-vinegar, berberine, chromium, metabolic, glucose, digestion]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Apple Cider Vinegar & Berberine (Natural Doctor)

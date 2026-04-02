@@ -17,6 +17,7 @@ target: glutathione-production, detoxification, liver-health, respiratory-health
 key_ingredients: [nac, n-acetyl-cysteine]
 source_url: https://naturaldoctor.gr/el/catalogue/nac-300-mg-103/
 tags: [nac, glutathione, antioxidant, detox, liver, respiratory]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # NAC 300 mg (Natural Doctor)

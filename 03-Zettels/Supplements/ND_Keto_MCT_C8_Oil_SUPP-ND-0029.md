@@ -17,6 +17,7 @@ target: ketosis, energy, cognitive-function, metabolic-support
 key_ingredients: [mct-oil, caprylic-acid, c8, coconut-oil]
 source_url: https://naturaldoctor.gr/el/catalogue/keto-mct-c8-oil-66/
 tags: [mct, c8, caprylic-acid, ketosis, keto, energy, brain]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Keto MCT C8 Oil (Natural Doctor)

@@ -15,6 +15,7 @@ target: bone-health, vitamin-d, magnesium
 key_ingredients: [magnesium, calcium, vitamin-d3]
 source_url: https://meetabstore.ch/en/for-stress/17-my-calmag.html
 tags: [bone-health, vitamin-d, magnesium, calcium, electrolytes]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # My Calmag Powder (Meetab)

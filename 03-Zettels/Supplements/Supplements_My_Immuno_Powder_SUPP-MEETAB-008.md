@@ -18,6 +18,7 @@ target: immune-defense, collagen-support
 key_ingredients: [vitamin-c, lysine, proline, bioflavonoids]
 source_url: https://meetabstore.ch/en/for-defenses/12-my-immuno.html
 tags: [vitamin-c, immune, collagen, cardiovascular, powder]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # My Immuno Powder (Meetab)

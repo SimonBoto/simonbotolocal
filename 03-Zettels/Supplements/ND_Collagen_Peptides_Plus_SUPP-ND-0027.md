@@ -17,6 +17,7 @@ target: skin-elasticity, hair-nails, joint-tendon-support
 key_ingredients: [collagen-peptides, type-i-collagen, type-iii-collagen]
 source_url: https://naturaldoctor.gr/el/catalogue/collagen-peptides-plus-80/
 tags: [collagen, peptides, type-i, type-iii, skin, hair, nails, joints]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Collagen Peptides+ (Natural Doctor)

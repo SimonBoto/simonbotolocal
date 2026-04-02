@@ -17,6 +17,7 @@ target: energy-metabolism, nervous-system, psychological-function
 key_ingredients: [nicotinamide, niacinamide, vitamin-b3]
 source_url: https://naturaldoctor.gr/el/catalogue/nicotinamide-40/
 tags: [nicotinamide, niacinamide, vitamin-b3, energy, nervous-system]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Nicotinamide (Natural Doctor)

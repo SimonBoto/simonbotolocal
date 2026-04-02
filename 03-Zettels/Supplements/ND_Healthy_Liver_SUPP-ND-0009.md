@@ -17,6 +17,7 @@ target: liver-function, detoxification, hepatoprotection
 key_ingredients: [milk-thistle, silymarin, alpha-lipoic-acid, choline]
 source_url: https://naturaldoctor.gr/el/catalogue/healthy-liver-60/
 tags: [liver, milk-thistle, silymarin, alpha-lipoic-acid, choline, detox]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Healthy Liver (Natural Doctor)

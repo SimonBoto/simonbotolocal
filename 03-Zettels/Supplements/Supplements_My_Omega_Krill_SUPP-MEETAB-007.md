@@ -17,6 +17,7 @@ target: inflammation, cardiovascular, brain-health
 key_ingredients: [fish-oil, krill-oil, borage-oil, omega-3-6-9]
 source_url: https://meetabstore.ch/en/for-inflammation/24-my-omega-krill.html
 tags: [omega-3, epa, dha, krill, anti-inflammatory, cardiovascular]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # My Omega Krill (Meetab)

@@ -17,6 +17,7 @@ target: immune-support, collagen-synthesis, antioxidant
 key_ingredients: [vitamin-c, ascorbyl-palmitate, magnesium-ascorbate, calcium-ascorbate, lysine, proline]
 source_url: https://naturaldoctor.gr/el/catalogue/vitamin-c-incell-15/
 tags: [vitamin-c, buffered, lysine, proline, collagen, immune]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Vitamin C Incell (Natural Doctor)

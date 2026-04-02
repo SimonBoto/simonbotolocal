@@ -17,6 +17,7 @@ target: energy-metabolism, nervous-system, methylation
 key_ingredients: [b-complex, methylated-b-vitamins, folate, b12, b6]
 source_url: https://naturaldoctor.gr/el/catalogue/b-complex-active-64/
 tags: [b-complex, methylated, b-vitamins, energy, methylation, active-forms]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # B-Complex Active (Natural Doctor)

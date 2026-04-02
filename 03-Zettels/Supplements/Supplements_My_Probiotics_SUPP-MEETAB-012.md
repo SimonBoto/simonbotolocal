@@ -15,6 +15,7 @@ target: gut-microbiome, probiotics
 key_ingredients: [probiotics, lactobacillus, bifidobacterium, l-glutamine]
 source_url: https://meetabstore.ch/en/for-the-gut/18-my-probiotics.html
 tags: [probiotics, gut-health, microbiome, immune]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # My Probiotics (Meetab)

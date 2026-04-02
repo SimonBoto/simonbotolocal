@@ -17,6 +17,7 @@ target: pediatric-nutrition, immune-support, growth-development
 key_ingredients: [multivitamin, minerals, beta-carotene, methylated-b-vitamins]
 source_url: https://naturaldoctor.gr/el/catalogue/healthy-kid-29/
 tags: [pediatric, children, multivitamin, immune, growth, development]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Healthy Kid Multivitamin (Natural Doctor)

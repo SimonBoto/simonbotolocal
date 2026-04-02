@@ -15,6 +15,7 @@ target: gut-microbiome, antimicrobial, digestive
 key_ingredients: [black-garlic, cinnamon, olive-leaf, oregano, fennel]
 source_url: https://meetabstore.ch/en/for-the-gut/29-my-gut-life.html
 tags: [gut-health, antimicrobial, herbs, digestive, microbiome]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # My Gut Life (Meetab)

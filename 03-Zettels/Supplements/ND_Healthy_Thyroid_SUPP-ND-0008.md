@@ -17,6 +17,7 @@ target: thyroid-function, hormone-regulation, metabolic-support
 key_ingredients: [ashwagandha, l-tyrosine, selenium, zinc, vitamin-d3, alpha-lipoic-acid]
 source_url: https://naturaldoctor.gr/el/catalogue/healthy-thyroid-61/
 tags: [thyroid, ashwagandha, tyrosine, selenium, iodine, hormone-balance]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Healthy Thyroid (Natural Doctor)

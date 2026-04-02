@@ -17,6 +17,7 @@ target: nad-plus-production, cellular-energy, longevity
 key_ingredients: [nicotinamide-riboside, nad-precursor]
 source_url: https://naturaldoctor.gr/el/catalogue/life-energy-70/
 tags: [nad-plus, nicotinamide-riboside, nr, longevity, cellular-energy, anti-aging]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Life Energy+ (Natural Doctor)

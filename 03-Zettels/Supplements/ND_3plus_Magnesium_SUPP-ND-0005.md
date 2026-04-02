@@ -17,6 +17,7 @@ target: muscle-function, nervous-system, energy-production, electrolyte-balance
 key_ingredients: [magnesium-malate, magnesium-bisglycinate, magnesium-citrate]
 source_url: https://naturaldoctor.gr/el/catalogue/plus-magnesium-22/
 tags: [magnesium, malate, bisglycinate, citrate, multi-form, high-absorption]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # 3plus Magnesium (Natural Doctor)

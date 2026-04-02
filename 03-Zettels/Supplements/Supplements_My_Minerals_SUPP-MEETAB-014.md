@@ -15,6 +15,7 @@ target: hydration, electrolytes, exercise-recovery
 key_ingredients: [potassium, sodium, magnesium, vitamin-c, glycine]
 source_url: https://meetabstore.ch/en/for-energy/25-my-minerals-7640167810550.html
 tags: [electrolytes, hydration, minerals, exercise, trace-minerals]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # My Minerals (Meetab)

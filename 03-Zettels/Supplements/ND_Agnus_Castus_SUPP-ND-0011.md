@@ -17,6 +17,7 @@ target: hormonal-balance, pms, menstrual-regularity
 key_ingredients: [agnus-castus, chaste-tree, vitex]
 source_url: https://naturaldoctor.gr/el/catalogue/agnus-castus-71/
 tags: [agnus-castus, vitex, chaste-tree, womens-health, pms, progesterone]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Agnus Castus (Natural Doctor)

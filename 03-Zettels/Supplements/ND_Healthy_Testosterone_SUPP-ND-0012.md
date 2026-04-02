@@ -17,6 +17,7 @@ target: testosterone-support, fertility, male-vitality
 key_ingredients: [ashwagandha-ksm66, l-arginine, ginkgo, ginseng, cordyceps, zinc, selenium]
 source_url: https://naturaldoctor.gr/el/catalogue/healthy-testosterone-94/
 tags: [testosterone, mens-health, fertility, ashwagandha, libido, vitality]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Healthy Testosterone (Natural Doctor)

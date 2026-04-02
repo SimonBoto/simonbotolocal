@@ -17,6 +17,7 @@ target: muscle-recovery, exercise-recovery, immune-support
 key_ingredients: [l-glutamine, amino-acid]
 source_url: https://naturaldoctor.gr/el/catalogue/glutamine-sport-54/
 tags: [glutamine, sport, recovery, exercise, muscle, amino-acid]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Glutamine Sport (Natural Doctor)

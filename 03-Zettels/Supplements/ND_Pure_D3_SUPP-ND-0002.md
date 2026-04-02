@@ -17,6 +17,7 @@ target: vitamin-d-deficiency, immune-support, bone-health
 key_ingredients: [vitamin-d3, cholecalciferol]
 source_url: https://naturaldoctor.gr/el/catalogue/pure-d3-25/
 tags: [vitamin-d, d3, cholecalciferol, liquid, high-dose]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Pure D3 (Natural Doctor)

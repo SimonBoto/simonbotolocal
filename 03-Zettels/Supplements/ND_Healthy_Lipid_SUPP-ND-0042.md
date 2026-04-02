@@ -17,6 +17,7 @@ target: cholesterol-regulation, lipid-metabolism, cardiovascular
 key_ingredients: [red-yeast-rice, monacolins, choline, magnesium, vitamin-d3, b-vitamins]
 source_url: https://naturaldoctor.gr/el/catalogue/healthy-Lipid-21/
 tags: [cholesterol, red-yeast-rice, monacolins, lipid, cardiovascular, statin-alternative]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Healthy Lipid (Natural Doctor)

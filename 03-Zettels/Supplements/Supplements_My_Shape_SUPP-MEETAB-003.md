@@ -17,6 +17,7 @@ target: ideal weight, metabolic syndrome
 key_ingredients: [alpha-lipoic-acid, cinnamon, carnitine, chromium]
 source_url: https://meetabstore.ch/en/for-the-weight/10-my-shape.html
 tags: [weight-management, glucose-control, insulin-sensitivity, metabolic-syndrome]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # My Shape (Meetab)

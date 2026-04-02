@@ -17,6 +17,7 @@ target: joint-health, cartilage-support, inflammation
 key_ingredients: [uc-ii, msm, glucosamine, niacin]
 source_url: https://naturaldoctor.gr/el/catalogue/anoson-4/
 tags: [joints, uc-ii, msm, glucosamine, cartilage, collagen]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Anoson (Natural Doctor)

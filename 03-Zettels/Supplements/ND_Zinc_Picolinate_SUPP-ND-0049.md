@@ -17,6 +17,7 @@ target: immune-support, antioxidant, skin-hair-nails, cognitive
 key_ingredients: [zinc, picolinate]
 source_url: https://naturaldoctor.gr/el/catalogue/zinc-picolinate-72/
 tags: [zinc, picolinate, immune, antioxidant, skin, hair, nails]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Zinc Picolinate (Natural Doctor)

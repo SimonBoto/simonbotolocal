@@ -17,6 +17,7 @@ target: digestion, nutrient-absorption, bloating, enzyme-support
 key_ingredients: [protease, amylase, lipase, bromelain, cellulase, amyloglucosidase]
 source_url: https://naturaldoctor.gr/el/catalogue/easy-digest-30/
 tags: [digestive-enzymes, protease, amylase, lipase, bromelain, digestion]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Easy Digest (Natural Doctor)

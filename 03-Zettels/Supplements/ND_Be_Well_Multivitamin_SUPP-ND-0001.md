@@ -17,6 +17,7 @@ target: complete-nutritional-support, fatigue-reduction
 key_ingredients: [multivitamin, b-complex, minerals, digestive-enzymes, food-blend]
 source_url: https://naturaldoctor.gr/el/catalogue/be-well-multivitamin-24/
 tags: [multivitamin, b-vitamins, minerals, digestive-enzymes, methylated]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Be Well Multivitamin (Natural Doctor)

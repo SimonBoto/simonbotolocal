@@ -17,6 +17,7 @@ target: gut-barrier, gastric-health, intestinal-repair
 key_ingredients: [l-glutamine, chios-mastiha, inulin]
 source_url: https://naturaldoctor.gr/el/catalogue/glutamine-chios-mastiha-13/
 tags: [gut-health, glutamine, mastiha, gastric, intestinal-barrier, h-pylori]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # L-Glutamine & Chios Mastiha (Natural Doctor)

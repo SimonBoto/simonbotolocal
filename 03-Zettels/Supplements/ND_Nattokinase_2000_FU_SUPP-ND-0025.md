@@ -17,6 +17,7 @@ target: cardiovascular-health, fibrinolysis, circulation
 key_ingredients: [nattokinase, fermented-soybean-extract]
 source_url: https://naturaldoctor.gr/el/catalogue/nattokinase-2000-fu-84/
 tags: [nattokinase, cardiovascular, fibrinolytic, enzyme, circulation]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Nattokinase 2000 FU (Natural Doctor)

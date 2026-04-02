@@ -17,6 +17,7 @@ target: glucose-metabolism, insulin-sensitivity, metabolic-health
 key_ingredients: [berberine, phytosomal-berberine]
 source_url: https://naturaldoctor.gr/el/catalogue/berberine-complex-89/
 tags: [berberine, phytosomal, glucose, insulin, metabolic, ampk]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Berberine Complex (Natural Doctor)

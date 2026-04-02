@@ -17,6 +17,7 @@ target: stress, adrenal-support, cortisol-regulation
 key_ingredients: [rhodiola, ashwagandha, siberian-ginseng, b-vitamins]
 source_url: https://meetabstore.ch/en/for-stress/26-my-antistress.html
 tags: [adaptogens, stress, adrenal, cortisol, anxiety, energy]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # My Antistress (Meetab)

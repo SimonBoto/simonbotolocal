@@ -17,6 +17,7 @@ target: sleep-onset, sleep-quality, relaxation
 key_ingredients: [melatonin, tryptophan, theanine, gaba, 5-htp, magnolia, chamomile]
 source_url: https://naturaldoctor.gr/el/catalogue/sleep-good-31/
 tags: [sleep, melatonin, tryptophan, theanine, gaba, 5-htp, relaxation]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Sleep Good (Natural Doctor)

@@ -17,6 +17,7 @@ target: energy-production, amino-acid-support
 key_ingredients: [amino-acids, carnitine, vitamin-c]
 source_url: https://meetabstore.ch/en/for-energy/34-my-energy.html
 tags: [energy, amino-acids, protein-synthesis, mitochondrial-support]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # My Energy (Meetab)

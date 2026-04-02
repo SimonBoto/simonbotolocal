@@ -17,6 +17,7 @@ target: cellular-protection, anti-aging, skin-health
 key_ingredients: [centella-asiatica, vitamin-d3, vitamin-c, zinc]
 source_url: https://naturaldoctor.gr/el/catalogue/reverse-35/
 tags: [anti-aging, premium, centella, vitamin-d, oxidative-stress]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Reverse (Natural Doctor)

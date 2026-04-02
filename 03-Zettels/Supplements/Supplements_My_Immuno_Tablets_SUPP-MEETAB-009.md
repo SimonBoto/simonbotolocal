@@ -15,6 +15,7 @@ target: immune-defense, cardiovascular
 key_ingredients: [vitamin-c, lysine, proline, bioflavonoids]
 source_url: https://meetabstore.ch/en/for-defenses/36-my-immuno-tablets.html
 tags: [vitamin-c, immune, pauling-protocol, cardiovascular]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # My Immuno Tablets (Meetab)

@@ -17,6 +17,7 @@ target: uti-prevention, urinary-tract-health, antimicrobial
 key_ingredients: [d-mannose, chios-mastiha, cranberry-alternative]
 source_url: https://naturaldoctor.gr/el/catalogue/d-mannose-chios-mastiha-69/
 tags: [d-mannose, uti, urinary-tract, chios-mastiha, antimicrobial]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # D-Mannose & Chios Mastic (Natural Doctor)

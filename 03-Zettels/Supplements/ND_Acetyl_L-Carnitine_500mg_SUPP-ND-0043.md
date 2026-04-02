@@ -17,6 +17,7 @@ target: cognitive-function, energy-metabolism, antioxidant
 key_ingredients: [acetyl-l-carnitine, alc, amino-acid]
 source_url: https://naturaldoctor.gr/el/catalogue/acetyl-l-carnitine-500mg-85/
 tags: [acetyl-l-carnitine, alc, cognitive, energy, brain, antioxidant]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Acetyl L-Carnitine 500mg (Natural Doctor)

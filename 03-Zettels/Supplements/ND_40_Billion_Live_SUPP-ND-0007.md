@@ -17,6 +17,7 @@ target: gut-microbiome, digestive-health, immune-support
 key_ingredients: [probiotics, lactobacillus, bifidobacterium, streptococcus-thermophilus]
 source_url: https://naturaldoctor.gr/el/catalogue/probiotics-36/
 tags: [probiotics, gut-health, microbiome, 13-strains, enteric-coated]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # 40 Billion Live (Natural Doctor)

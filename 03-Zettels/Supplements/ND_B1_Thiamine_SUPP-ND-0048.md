@@ -17,6 +17,7 @@ target: nervous-system, energy-metabolism, heart-function
 key_ingredients: [thiamine, vitamin-b1]
 source_url: https://naturaldoctor.gr/el/catalogue/b1-thiamine-77/
 tags: [b1, thiamine, b-vitamin, nervous-system, energy, heart]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # B1 Thiamine (Natural Doctor)

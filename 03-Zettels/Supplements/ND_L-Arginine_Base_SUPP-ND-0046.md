@@ -17,6 +17,7 @@ target: nitric-oxide, circulation, exercise-performance
 key_ingredients: [l-arginine, amino-acid]
 source_url: https://naturaldoctor.gr/el/catalogue/l-arginine-base-91/
 tags: [arginine, nitric-oxide, circulation, exercise, amino-acid]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # L-Arginine Base (Natural Doctor)

@@ -17,6 +17,7 @@ target: stress-relief, energy, vitality, cognitive-function
 key_ingredients: [ashwagandha, ksm-66, withania-somnifera]
 source_url: https://naturaldoctor.gr/el/catalogue/ashwagandha-ksm66-500mg-82/
 tags: [ashwagandha, ksm-66, adaptogen, stress, cortisol, ayurveda]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Ashwagandha KSM-66 500mg (Natural Doctor)

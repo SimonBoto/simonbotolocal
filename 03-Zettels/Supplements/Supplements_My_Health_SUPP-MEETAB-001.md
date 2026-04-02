@@ -15,6 +15,7 @@ price_per_day: 0.98
 target: global wellbeing
 source_url: https://meetabstore.ch/en/global-wellbeing/6-my-health.html
 tags: [multivitamin, amino-acids, foundational, metabolic-support]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # My Health (Meetab)

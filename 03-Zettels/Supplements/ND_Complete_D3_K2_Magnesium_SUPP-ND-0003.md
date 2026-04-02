@@ -17,6 +17,7 @@ target: bone-health, vitamin-d-activation, cardiovascular
 key_ingredients: [vitamin-d3, vitamin-k2, magnesium-bisglycinate]
 source_url: https://naturaldoctor.gr/el/catalogue/complete-d3-26/
 tags: [vitamin-d, k2, magnesium, bone-health, calcium-regulation]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Complete D3, K2 & Magnesium (Natural Doctor)

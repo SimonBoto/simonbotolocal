@@ -17,6 +17,7 @@ target: thyroid-health, immune-support, antioxidant
 key_ingredients: [selenium, l-selenomethionine]
 source_url: https://naturaldoctor.gr/el/catalogue/selenium-200-mcg-78/
 tags: [selenium, selenomethionine, thyroid, immune, antioxidant]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Selenium 200 mcg (Natural Doctor)

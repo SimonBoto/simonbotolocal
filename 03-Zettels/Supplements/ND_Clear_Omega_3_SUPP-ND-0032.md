@@ -17,6 +17,7 @@ target: cardiovascular-health, brain-function, vision
 key_ingredients: [fish-oil, epa, dha, omega-3, vitamin-e]
 source_url: https://naturaldoctor.gr/el/catalogue/clear-omega-3-14/
 tags: [omega-3, epa, dha, fish-oil, cardiovascular, brain, vision]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Clear Omega 3 (Natural Doctor)

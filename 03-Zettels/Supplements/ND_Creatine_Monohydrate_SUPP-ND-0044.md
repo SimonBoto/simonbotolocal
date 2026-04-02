@@ -17,6 +17,7 @@ target: strength, power, muscle-performance, atp-production
 key_ingredients: [creatine-monohydrate]
 source_url: https://naturaldoctor.gr/el/catalogue/creative-monohydrate-88/
 tags: [creatine, monohydrate, athletic, strength, power, atp, muscle]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Creatine Monohydrate (Natural Doctor)

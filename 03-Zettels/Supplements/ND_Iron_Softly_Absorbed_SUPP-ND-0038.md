@@ -17,6 +17,7 @@ target: iron-deficiency, anemia-prevention, energy
 key_ingredients: [iron-bisglycinate, ferrochel]
 source_url: https://naturaldoctor.gr/el/catalogue/iron-softly-absorbed-3/
 tags: [iron, bisglycinate, ferrochel, anemia, ferritin]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Iron Softly Absorbed (Natural Doctor)

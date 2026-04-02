@@ -17,6 +17,7 @@ target: senescent-cell-clearance, longevity, antioxidant
 key_ingredients: [fisetin, resveratrol, quercetin, grape-seed-extract]
 source_url: https://naturaldoctor.gr/el/catalogue/senolytics-74/
 tags: [senolytics, fisetin, resveratrol, quercetin, longevity, anti-aging]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Senolytics (Natural Doctor)

@@ -17,6 +17,7 @@ target: longevity, cellular-protection, immune-support, energy
 key_ingredients: [cycloastragenol, amino-acid-blend, vitamins, minerals, centella]
 source_url: https://naturaldoctor.gr/el/catalogue/reyouth-34/
 tags: [anti-aging, longevity, cycloastragenol, telomeres, premium, comprehensive]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Reyouth (Natural Doctor)

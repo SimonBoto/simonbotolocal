@@ -15,6 +15,7 @@ target: mitochondrial-energy, heart-health, antioxidant
 key_ingredients: [ubiquinol, coq10, kaneka]
 source_url: https://meetabstore.ch/en/for-your-youth/19-my-q10.html
 tags: [coq10, ubiquinol, mitochondrial, heart, antioxidant]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # My Q10 (Meetab)

@@ -17,6 +17,7 @@ target: cellular-protection, oxidative-stress
 key_ingredients: [alpha-lipoic-acid, cinnamon, green-tea-egcg, carnitine]
 source_url: https://meetabstore.ch/en/for-your-youth/1-my-antioxidant.html
 tags: [antioxidant, metabolic-syndrome, glucose-control, anti-aging]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # My Antioxidant (Meetab)

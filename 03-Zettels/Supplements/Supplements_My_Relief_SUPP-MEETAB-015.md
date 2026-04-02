@@ -15,6 +15,7 @@ target: inflammation, water-retention, anti-edema
 key_ingredients: [hibiscus, blackcurrant, alisma, diuretic]
 source_url: https://meetabstore.ch/en/for-inflammation/23-my-relief.html
 tags: [anti-inflammatory, diuretic, water-retention, herbal]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # My Relief (Meetab)

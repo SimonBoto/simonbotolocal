@@ -15,6 +15,7 @@ target: gut-barrier, inflammation, insulin-resistance, immune-regulation
 key_ingredients: [butyric-acid, butyrate, postbiotics, pomegranate, ellagic-acid]
 source_url: https://meetabstore.ch/en/for-the-gut/37-my-postbiotics.html
 tags: [postbiotics, butyrate, gut-barrier, inflammation, immune]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # My Postbiotics (Meetab)

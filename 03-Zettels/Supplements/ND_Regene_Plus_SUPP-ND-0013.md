@@ -17,6 +17,7 @@ target: skin-health, hair-health, nail-health, collagen-support
 key_ingredients: [centella-asiatica, vitamin-c, zinc, biotin, copper, l-cysteine]
 source_url: https://naturaldoctor.gr/el/catalogue/regene-6/
 tags: [beauty, skin, hair, nails, collagen, centella, biotin]
+parent-moc: "[[MOC-Supplements]]"
 ---
 
 # Regene + (Natural Doctor)
