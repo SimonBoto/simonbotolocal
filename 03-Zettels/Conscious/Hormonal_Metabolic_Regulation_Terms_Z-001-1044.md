@@ -1,69 +1,167 @@
 ---
 uid: Z-001-1044
 type: zettel
-title: Hormonal Metabolic Regulation Terms
+title: "Hormonal Metabolic Regulation Terms"
 aliases: ["Hormonal-Terms"]
-domain: 001
-domain-name: Endocrinology
-tags: [zettel, hormones, insulin, definitions]
+domain: "001"
+tags: [zettel, hormones, insulin, definitions, terminology]
 parent-moc: "[[MOC-Metabolomics-Training]]"
 source-litnote: "[[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
 # Hormonal Metabolic Regulation Terms
 
-## Overview
-10 terms defining hormonal control of  and clinical markers.
+Systemic control terms for metabolomics practice: Insulin, Insulin Resistance, Cortisol, PTH-VitD Axis, Lipid Regulation, AA/EPA Ratio. These 10 terms define hormonal-metabolic integration.
 
-## The Terms (Category D)
+## Evidence
+> "Hormones are the conductors of metabolism. Understanding their language is essential for interpreting metabolomics data." (Endocrine-metabolic medicine)
 
-| Term | Definition | Clinical Relevance |
-|------|------------|-------------------|
-| **Ινσουλίνη** | Energy storage hormone | Central metabolic regulator |
-| **Αντίσταση Ινσουλίνης** | Cellular  insensitivity | Core of metabolic syndrome |
-| **Γλυκογονόλυση** | Glycogen → glucose | Emergency fuel release |
-| **Γλυκονεογένεση** | Glucose synthesis | Liver fuel production |
-| **Κορτιζόλη** | Stress hormone | Chronically elevated → metabolic damage |
-| **PTH-VitD Axis** | Calcium homeostasis | Bone, immune, metabolic regulation |
-| **Λιπιδαιμική Ρύθμιση** | Lipid metabolism control | Cholesterol, fatty acid balance |
-| **Χοληστερίνη** | Sterol substrate | Total, LDL, HDL patterns |
-| **ApoB** | Atherogenic particle count | Better risk marker than LDL-C |
-| **TG/HDL ratio** | Triglyceride/HDL ratio | Insulin resistance proxy |
-| **AA/EPA ratio** | Arachidonic/eicosapentaenoic ratio | Inflammation index |
+## Core Definitions
 
-## Key Ratios
-| Ratio | Target | Interpretation |
-|-------|--------|----------------|
-| Chol/HDL | < 4 | Cardiometabolic risk |
-| HDL/TG | > 1 | Insulin sensitivity |
-| LDL/ApoB | > 1.2 | Particle quality |
-| AA/EPA | < 3 | Anti-inflammatory status |
+### Insulin
+**Definition:** Pancreatic hormone regulating glucose uptake and metabolism.
 
-## Related
-- 
-- -Metabolism]
-- 
+**Primary functions:**
+| Function | Mechanism |
+|----------|-----------|
+| **Glucose uptake** | Translocates GLUT4 to cell membrane |
+| **Glycogen synthesis** | Activates glycogen synthase |
+| **Lipogenesis** | Promotes fat storage |
+| **Protein synthesis** | Anabolic signaling |
+| **Inhibits lipolysis** | Blocks hormone-sensitive lipase |
+
+**Clinical relevance:** Insulin dysregulation → metabolic disease
+
+### Insulin Resistance
+**Definition:** Reduced cellular response to insulin, requiring higher levels for same effect.
+
+**Mechanisms:**
+- Receptor downregulation
+- Post-receptor signaling defects
+- Inflammation-mediated interference
+- Lipotoxicity
+
+**Consequences:**
+| System | Effect |
+|--------|--------|
+| **Glucose** | Hyperglycemia |
+| **Lipids** | Dyslipidemia |
+| **Blood pressure** | Hypertension |
+| **Endothelium** | Dysfunction |
+
+**Clinical relevance:** Core feature of metabolic syndrome, T2D, PCOS
+
+### Cortisol
+**Definition:** Adrenal glucocorticoid regulating stress response and metabolism.
+
+**Metabolic effects:**
+| Effect | Mechanism |
+|--------|-----------|
+| **↑ Glucose** | Gluconeogenesis, insulin resistance |
+| **↑ Lipolysis** | Acute: fat release |
+| **↑ Lipogenesis** | Chronic: visceral fat storage |
+| **↓ Protein synthesis** | Muscle breakdown |
+| **Immunosuppression** | Anti-inflammatory |
+
+**Clinical relevance:** Chronic elevation → metabolic dysfunction, immune suppression
+
+### PTH-Vitamin D Axis
+**Definition:** Hormonal system regulating calcium homeostasis.
+
+**Components:**
+| Hormone | Source | Function |
+|---------|--------|----------|
+| **PTH** | Parathyroid | ↑ Calcium (bone resorption, kidney retention) |
+| **Vitamin D** | Skin/liver/kidney | ↑ Calcium absorption, bone mineralization |
+| **Calcitonin** | Thyroid | ↓ Calcium (bone deposition) |
+
+**Clinical relevance:** Dysregulation → osteoporosis, vascular calcification
+
+### Lipid Regulation
+**Definition:** Hormonal and enzymatic control of lipid metabolism.
+
+**Key regulators:**
+| Factor | Effect |
+|--------|--------|
+| **Insulin** | ↑ Lipogenesis, ↓ lipolysis |
+| **Glucagon** | ↓ Lipogenesis, ↑ lipolysis |
+| **Cortisol** | ↑ Visceral fat storage |
+| **Thyroid** | ↑ LDL receptor, ↑ lipolysis |
+| **Estrogen** | ↑ HDL, cardioprotective |
+
+**Clinical relevance:** Lipid dysregulation → cardiovascular disease
+
+### AA/EPA Ratio
+**Definition:** Ratio of arachidonic acid (pro-inflammatory) to eicosapentaenoic acid (anti-inflammatory).
+
+**Interpretation:**
+| Ratio | Status |
+|-------|--------|
+| **< 3** | Optimal, low inflammation |
+| **3-6** | Mild elevation |
+| **6-15** | Elevated, increased CV risk |
+| **> 15** | High inflammation |
+
+**Clinical relevance:** Inflammatory index, cardiovascular risk marker
+
+## Additional Key Terms
+
+### Glucagon
+**Definition:** Pancreatic hormone opposing insulin; raises blood glucose.
+
+### Thyroid Hormones (T3/T4)
+**Definition:** Regulators of metabolic rate; affect virtually all tissues.
+
+### Leptin
+**Definition:** Adipokine signaling energy sufficiency; regulates appetite.
+
+### Ghrelin
+**Definition:** "Hunger hormone" from stomach; stimulates appetite.
+
+### Adiponectin
+**Definition:** Adipokine improving insulin sensitivity; anti-inflammatory.
+
+### Sex Hormones
+**Definition:** Estrogen, progesterone, testosterone; affect metabolism, body composition.
+
+### Growth Hormone
+**Definition:** Anabolic hormone; promotes lipolysis, protein synthesis.
+
+## Clinical Integration
+
+### Hormonal Hierarchy
+```
+Insulin/Glucagon → Acute glucose control
+Cortisol → Stress adaptation
+Thyroid → Basal metabolic rate
+Sex hormones → Long-term metabolism
+```
+
+### Metabolic Syndrome Pattern
+| Hormone | Change | Effect |
+|---------|--------|--------|
+| **Insulin** | ↑ (resistance) | Hyperglycemia |
+| **Cortisol** | ↑ (chronic) | Visceral fat |
+| **Adiponectin** | ↓ | Insulin resistance |
+| **Leptin** | ↑ (resistance) | Obesity |
 
 ---
-*Source: CGPT-0022 — Tsoukalas Core Vocabulary*
 
+## Structural Links
+- **Up:** [[MOC-Metabolomics-Training]] — Thematic entry
+- **Source:** [[LitNote_Core_Clinical_Vocabulary_66_Terms_L-001-0590]] — Origin
 
-## RELATED FILES
-- [[CRP_[B-002-0001]|Biomarker Family]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-- 
-- [[Oleic_Acid_Metabolic_Benefits_Z-001-0533]|Z-001-0533]
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Lateral Links (Verified Real Zettels)
+- [[Health_Philosophy_Core_Concepts_Z-001-1041]] — Philosophy
+- [[Metabolism_Metabolomics_Terminology_Z-001-1042]] — Core terms
+- [[Mitochondrial_Energy_Terminology_Z-001-1043]] — Energy terms
+- [[Microbiome_Gut_Brain_Terminology_Z-001-1045]] — Gut terms
+- [[Nutrition_Macronutrient_Terminology_Z-001-1046]] — Nutrition terms
+- [[Patient_Communication_Core_Concepts_Z-001-1047]] — Patient concepts
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]] — VitD axis detail
+- [[MOC-Metabolomics-Training]] — Training hub
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+*Z-001-1044 | Created: 2026-03-08 | Source: CGPT-0022*
