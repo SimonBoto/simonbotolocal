@@ -10,9 +10,17 @@ doi: "{{DOI}}"
 pmid: "{{PMID}}"
 tier: "{{GOLD|SILVER|BRONZE}}"
 status: extracting
-parent-moc: "[[MOC-Example]]"
+parent-moc: "[[MOC-Example]]"  # ⚠️ VERIFY: ls 08-Structure/MOCs/MOC-*.md
 extraction-date: "{{YYYY-MM-DD}}"
 ---
+
+<!--
+PRE-FLIGHT CHECKLIST:
+- [ ] MOC exists: ls 08-Structure/MOCs/MOC-*.md | grep {{MOC}}
+- [ ] Index link correct: [[02-Literature]] (not 01)
+- [ ] All [[links]] have closing ]]
+- [ ] Zettel links use full filenames
+-->
 
 # Lit: {{Source Title}}
 

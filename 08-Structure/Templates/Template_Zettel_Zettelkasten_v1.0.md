@@ -6,10 +6,18 @@ aliases: ["{{ShortSlug}}"]
 domain: "{{XXX}}"
 tags: [zettel, "{{topic}}"]
 source-litnote: "[[Lit_{{Title}}_{{L-XXX-XXXX}}]]"
-reference: "[[{{Author}}_{{Year}}_R-XXX-XXXX]]"  # Specific reference
+reference: "[[{{Author}}_{{Year}}_R-XXX-XXXX]]"
 confidence: high
 created: "{{YYYY-MM-DD}}"
 ---
+
+<!--
+PRE-FLIGHT CHECKLIST:
+- [ ] parent-moc exists in 08-Structure/MOCs/
+- [ ] source-litnote uses full filename with ]]
+- [ ] All [[links]] have closing ]]
+- [ ] No non-standard sections (RELATED FILES, etc.)
+-->
 
 # {{Atomic Claim}}
 
