@@ -86,7 +86,15 @@ By end of Week 8, trainees must demonstrate:
 - **Citation:** (ChatGPT, 2025)
 
 ## Lateral Links
-<!-- Add during 30-day review — VERIFY EXISTS before linking -->
+
+### Sequential (Bootcamp Chain)
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]] — Previous: Lipidomics phase
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Parent: Overall architecture
+- [[Training_Teaching_Style_Framework_Z-001-1040]] — Method: How integration is taught
+
+### Cross-Cutting (Verified Real Zettels)
+- [[Clinical_Scenarios_Diagnostic_Approach_Z-001-0424]] — Method: Clinical case methodology (Week 8 drills)
+- [[Clinical_Team_Education_4Arm_Methodology_Z-001-1159]] — Framework: Structured clinical approach
 
 ---
 *Z-001-1039 | Created: 2026-03-08 | Source: ChatGPT, 2025*

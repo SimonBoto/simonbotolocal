@@ -75,7 +75,14 @@ Plus: Lactate, ketones, BCAA oxidation, peroxisomes
 - **Citation:** (ChatGPT, 2025)
 
 ## Lateral Links
-<!-- Add during 30-day review — VERIFY EXISTS before linking -->
+
+### Sequential (Bootcamp Chain)
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Parent: Overall four-phase architecture
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]] — Next: OAT pattern mastery phase
+
+### Cross-Cutting (Verified Real Zettels)
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]] — Builds on: Beta-oxidation pathway (Week 2 content)
+- [[Carnitine_Fatty_Acid_Transport_Z-001-0913]] — Extends: Fatty acid transport (pathway megastructure)
 
 ---
 *Z-001-1036 | Created: 2026-03-08 | Source: ChatGPT, 2025*

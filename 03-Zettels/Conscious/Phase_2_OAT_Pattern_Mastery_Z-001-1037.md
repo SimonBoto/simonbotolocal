@@ -65,7 +65,14 @@ By end of Week 4:
 - **Citation:** (ChatGPT, 2025)
 
 ## Lateral Links
-<!-- Add during 30-day review — VERIFY EXISTS before linking -->
+
+### Sequential (Bootcamp Chain)
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]] — Previous: Foundation phase
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]] — Next: Lipidomics phase
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Parent: Overall architecture
+
+### Cross-Cutting (Verified Real Zettels)
+- [[Clinical_Scenarios_Diagnostic_Approach_Z-001-0424]] — Method: Case-based diagnostic approach (Week 4 cases)
 
 ---
 *Z-001-1037 | Created: 2026-03-08 | Source: ChatGPT, 2025*

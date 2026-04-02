@@ -116,7 +116,13 @@ Choose based on:
 - **Citation:** (ChatGPT, 2025)
 
 ## Lateral Links
-<!-- Add during 30-day review — VERIFY EXISTS before linking -->
+
+### Sequential (Bootcamp Context)
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Context: Curriculum where styles are applied
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]] — Application: Integration drills (high-stakes teaching)
+
+### Cross-Cutting (Verified Real Zettels)
+- [[Clinical_Team_Education_4Arm_Methodology_Z-001-1159]] — Related: Clinical education methodology (alternative framework)
 
 ---
 *Z-001-1040 | Created: 2026-03-08 | Source: ChatGPT, 2025*

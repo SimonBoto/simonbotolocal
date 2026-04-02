@@ -53,7 +53,15 @@ This architecture produces metabolomics clinicians, not pathway parrots. Each ph
 - **Citation:** (ChatGPT, 2025)
 
 ## Lateral Links
-<!-- Add during 30-day review — VERIFY EXISTS before linking -->
+
+### Sequential (Bootcamp Chain)
+- [[Phase_1_Biochemical_Literacy_Foundation_Z-001-1036]] — Phase 1: Foundation details
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]] — Phase 2: OAT mastery details
+- [[Phase_3_Lipidomics_Interpretation_Z-001-1038]] — Phase 3: Lipidomics details
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]] — Phase 4: Integration details
+
+### Cross-Cutting (Verified Real Zettels)
+- [[Clinical_Team_Education_4Arm_Methodology_Z-001-1159]] — Contrasts with: Team education methodology (4-Arm vs. bootcamp)
 
 ---
 *Z-001-1035 | Created: 2026-03-08 | Source: ChatGPT, 2025*

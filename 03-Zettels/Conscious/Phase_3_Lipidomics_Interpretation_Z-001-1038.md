@@ -72,7 +72,17 @@ Lipidomics interpretation requires ratio-based thinking, not absolute values. Fa
 - **Citation:** (ChatGPT, 2025)
 
 ## Lateral Links
-<!-- Add during 30-day review — VERIFY EXISTS before linking -->
+
+### Sequential (Bootcamp Chain)
+- [[Phase_2_OAT_Pattern_Mastery_Z-001-1037]] — Previous: OAT mastery phase
+- [[Phase_4_Clinical_Integration_Drills_Z-001-1039]] — Next: Integration phase
+- [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Parent: Overall architecture
+
+### Cross-Cutting (Verified Real Zettels)
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]] — Mechanism: Fatty acid oxidation (Week 5)
+- [[Cardiolipin_Omega_6_Mitochondrial_Dysfunction_Z-001-0949]] — Clinical: Omega-6 in mitochondrial health
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]] — Transport: Carnitine shuttle system
+- [[ApoB_LpA_sdLDL_Advanced_Lipids_Z-006-0002]] — Advanced: Lipid marker interpretation (ratios)
 
 ---
 *Z-001-1038 | Created: 2026-03-08 | Source: ChatGPT, 2025*
