@@ -1,8 +1,8 @@
 ---
 uid: MOC-MITO-001
 type: moc
-title: MOC — Mitochondrial Function
-aliases: [MOC-Mitochondrial-Function, mitochondria, oxidative-phosphorylation]
+title: "MOC — Mitochondrial Function"
+aliases: [MOC-Mitochondrial-Function, MOC-Mitochondria, mitochondria, oxidative-phosphorylation]
 tags: [moc, mitochondria, krebs-cycle, etc, oxidative-phosphorylation]
 status: active
 created: 2026-03-04
@@ -10,7 +10,8 @@ created: 2026-03-04
 
 # MOC — Mitochondrial Function
 
-> Mitochondrial metabolism, oxidative phosphorylation, and energy production
+> **Mitochondrial metabolism, oxidative phosphorylation, and energy production**  
+> Also known as: [[MOC-Mitochondria]] (same MOC)
 
 ---
 
