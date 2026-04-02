@@ -16,9 +16,9 @@ tags: [moc, lipids, metabolism, fatty-acids, cholesterol]
 ## Fatty Acid Metabolism
 
 ### Pathways
-- [[MOC-Ketogenesis] — Liver ketone body production
-- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192] — Energy from fats
-- [[Omega_Oxidation_ER_Alternative_Pathway_Z-001-1193] — Alternative pathway
+- [[MOC-Ketogenesis]] — Liver ketone body production
+- [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]] — Energy from fats
+- [[Omega_Oxidation_ER_Alternative_Pathway_Z-001-1193]] — Alternative pathway
 
 ### Key Concepts
 - [[Fatty_Acid_Nomenclature_Numbering_Z-001-1208]
@@ -30,7 +30,7 @@ tags: [moc, lipids, metabolism, fatty-acids, cholesterol]
 
 ## Cholesterol Metabolism
 
-See also: [[MOC-Cholesterol-Quality] — Cholesterol quality assessment
+See also: [[MOC-Cholesterol-Quality]] — Cholesterol quality assessment
 
 - [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]
 - [[Cholesterol_Steroid_Hormone_Synthesis_Z-001-0570]

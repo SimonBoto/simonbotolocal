@@ -17,31 +17,31 @@ Precision medicine through metabolomics — understanding drug response, individ
 ## 🎯 Adipic Acid & Fatty Acid Metabolism
 
 ### Omega-Oxidation Pathway
-- [[Adipate_Formation_Palmitate_Pathway_Z-101-0008] — Adipate biochemistry
-- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009] — Carnitine connection
-- [[Adipate_Metabolism_TCA_Entry_Z-101-0010] — TCA cycle integration
+- [[Adipate_Formation_Palmitate_Pathway_Z-101-0008]] — Adipate biochemistry
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]] — Carnitine connection
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]] — TCA cycle integration
 
 ### Clinical Markers
-- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011] — Pattern recognition
-- [[Omega_Oxidation_vs_Ketogenesis_Distinction_Z-101-0012] — Clinical differentiation
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]] — Pattern recognition
+- [[Omega_Oxidation_vs_Ketogenesis_Distinction_Z-101-0012]] — Clinical differentiation
 
 ### Diagnostic Application
-- [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_Z-101-0013] — Lab interpretation
-- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014] — FAOD differential
-- [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_Z-101-0015] — Pattern distinction
-- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016] — Clinical workflow
+- [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_Z-101-0013]] — Lab interpretation
+- [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]] — FAOD differential
+- [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_Z-101-0015]] — Pattern distinction
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]] — Clinical workflow
 
 ---
 
 ## 🔄 Coenzyme A & Cofactor Metabolism
 
 ### CoA Synthesis
-- [[Vitamin_B5_CoA_Synthesis_Pathway_Z-101-0017] — B5 to CoA pathway
-- [[Decarboxylation_Enzymes_Cofactors_Z-101-0018] — Enzymology
+- [[Vitamin_B5_CoA_Synthesis_Pathway_Z-101-0017]] — B5 to CoA pathway
+- [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]] — Enzymology
 
 ### Enzyme Classification
-- [[Dehydrogenases_vs_Decarboxylases_Z-101-0019] — Mechanism comparison
-- [[Isocitrate_Dehydrogenase_Dual_Function_Z-101-0020] — Dual-function enzymes
+- [[Dehydrogenases_vs_Decarboxylases_Z-101-0019]] — Mechanism comparison
+- [[Isocitrate_Dehydrogenase_Dual_Function_Z-101-0020]] — Dual-function enzymes
 
 ---
 
@@ -63,9 +63,9 @@ Precision medicine through metabolomics — understanding drug response, individ
 
 ## 📚 Source References
 
-- [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002] — Adipic acid biochemistry
-- [[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003] — Clinical markers
-- [[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004] — CoA synthesis
+- [[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]] — Adipic acid biochemistry
+- [[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]] — Clinical markers
+- [[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]] — CoA synthesis
 
 ---
 

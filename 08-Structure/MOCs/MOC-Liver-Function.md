@@ -30,14 +30,14 @@ tags: [moc, liver, hepatology, metabolism, detoxification]
 ## Detoxification
 
 ### Phase I & II
-- [[MAO_Enzymes_MAO_A_MAO_B_Z-001-1008] — Monoamine oxidases
-- [[DAO_Diamine_Oxidase_Histamine_Z-001-1009] — Histamine metabolism
-- [[Cytosolic_Aconitase_IRP1_Dual_Function_Z-001-0544] — Iron sensing
+- [[MAO_Enzymes_MAO_A_MAO_B_Z-001-1008]] — Monoamine oxidases
+- [[DAO_Diamine_Oxidase_Histamine_Z-001-1009]] — Histamine metabolism
+- [[Cytosolic_Aconitase_IRP1_Dual_Function_Z-001-0544]] — Iron sensing
 
 ### Ammonia Handling
 - [[Glutamine_Glutamate_Ammonia_Cycle_Z-001-0916]
 - [[Glutamate_Central_Amino_Acid_Hub_Z-001-0915]
-- [[MOC-Urea-Cycle] — Ammonia detoxification
+- [[MOC-Urea-Cycle]] — Ammonia detoxification
 
 ---
 

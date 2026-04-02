@@ -25,55 +25,55 @@ Vitamin D is a secosteroid hormone regulating calcium homeostasis, immune functi
 ## 🔄 The Metabolic Cascade
 
 ### Step 1: Synthesis & Activation
-- [[Z-002-0001] — Skin synthesis (UVB → D3)
-- [[Z-002-0002] — Hepatic 25-hydroxylation (D3 → 25-OH-D)
-- [[Z-002-0003] — Renal 1α-hydroxylation (25-OH → 1,25-OH)
+- [[Z-002-0001]] — Skin synthesis (UVB → D3)
+- [[Z-002-0002]] — Hepatic 25-hydroxylation (D3 → 25-OH-D)
+- [[Z-002-0003]] — Renal 1α-hydroxylation (25-OH → 1,25-OH)
 
 ### Step 2: Target Ranges
-- [[Z-002-0004] — **Optimal range 80-150 ng/mL** (vs standard 30-100)
-- [[Z-002-0005] — Deficiency, insufficiency, toxicity thresholds
+- [[Z-002-0004]] — **Optimal range 80-150 ng/mL** (vs standard 30-100)
+- [[Z-002-0005]] — Deficiency, insufficiency, toxicity thresholds
 
 ### Step 3: High-Dose Protocol
-- [[Z-002-0006] — Dosing tiers by starting level
-- [[Z-002-0007] — Vitamin K2 synergy (MK-4, MK-7)
-- [[Z-002-0008] — Magnesium cofactor requirement
+- [[Z-002-0006]] — Dosing tiers by starting level
+- [[Z-002-0007]] — Vitamin K2 synergy (MK-4, MK-7)
+- [[Z-002-0008]] — Magnesium cofactor requirement
 
 ---
 
 ## 🔗 Vitamin D ↔ Insulin Resistance
 
 **Mechanistic Links:**
-- [[Z-002-0009] — VitD-VDR → improved insulin receptor expression
-- [[Z-002-0010] — VitD → reduced inflammation (↓ TNF-α, ↓ IL-6)
-- [[Z-002-0011] — VitD → improved β-cell function
+- [[Z-002-0009]] — VitD-VDR → improved insulin receptor expression
+- [[Z-002-0010]] — VitD → reduced inflammation (↓ TNF-α, ↓ IL-6)
+- [[Z-002-0011]] — VitD → improved β-cell function
 
 **Clinical Evidence:**
-- [[Z-002-0012] — RCTs: VitD supplementation → improved HOMA-IR
-- [[Z-002-0013] — Population studies: D levels predict T2DM incidence
+- [[Z-002-0012]] — RCTs: VitD supplementation → improved HOMA-IR
+- [[Z-002-0013]] — Population studies: D levels predict T2DM incidence
 
 **Cross-link to IR Core:**
 -  — Full insulin signaling pathway
-- [[Z-001-0046] — HOMA-IR calculation
+- [[Z-001-0046]] — HOMA-IR calculation
 
 ---
 
 ## 🔗 Vitamin D ↔ Methylation
 
 **Mechanistic Links:**
-- [[Z-002-0014] — Calcium metabolism → intracellular signaling
-- [[Z-002-0015] — VitD receptor → MTHFR expression regulation
+- [[Z-002-0014]] — Calcium metabolism → intracellular signaling
+- [[Z-002-0015]] — VitD receptor → MTHFR expression regulation
 
 **Cross-link to Methylation:**
 -  — Full methylation cycle
-- [[Z-004-0001] — Homocysteine as composite marker
+- [[Z-004-0001]] — Homocysteine as composite marker
 
 ---
 
 ## 🔗 Vitamin D ↔ Thyroid
 
 **Mechanistic Links:**
-- [[Z-002-0016] — VDR and TR crosstalk (nuclear receptors)
-- [[Z-002-0017] — Shared deiodinase regulation
+- [[Z-002-0016]] — VDR and TR crosstalk (nuclear receptors)
+- [[Z-002-0017]] — Shared deiodinase regulation
 
 **Cross-link to Thyroid:**
 -  — Thyroid hormone metabolism

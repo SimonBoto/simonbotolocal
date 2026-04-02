@@ -36,18 +36,18 @@ tags: [moc, phd, research, methap, metabolomics]
 
 ## Research Methods
 
-See also: [[MOC-Research-Methods] — General methodology
+See also: [[MOC-Research-Methods]] — General methodology
 
 - [[METHAP_PhD_Data_Export_Structure_Z-002-0621]
 - [[Sample_Size_Strategies_PhD_Z-001-0930]
 - [[Power_Analysis_Sample_Size_METHAP_Z-001-1149]
-- [[Research_Agenda]] — 62 hypotheses
+- [[Research_Agenda]]] — 62 hypotheses
 
 ---
 
 ## Ethics & IRB
 
-- [[MOC-Research-Ethics] — Ethical framework
+- [[MOC-Research-Ethics]] — Ethical framework
 - [[METHAP_Informed_Consent_Framework_Z-101-0474]
 - [[METHAP_IRB_Feedback_Action_Items_Z-101-0473]
 - [[METHAP_Inclusion_Exclusion_Criteria_Z-002-0618]

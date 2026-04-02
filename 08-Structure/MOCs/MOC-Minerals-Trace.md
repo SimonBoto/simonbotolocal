@@ -15,7 +15,7 @@ tags: [moc, minerals, trace-elements, micronutrients]
 
 ## Iron Metabolism
 
-See also: [[MOC-Iron-Metabolism] — Deep dive on iron
+See also: [[MOC-Iron-Metabolism]] — Deep dive on iron
 
 - [[Iron_Metabolism_Aconitase_Function_Z-001-0543]
 - [[Iron_Sulfur_Cluster_Biochemistry_Z-001-0542]
