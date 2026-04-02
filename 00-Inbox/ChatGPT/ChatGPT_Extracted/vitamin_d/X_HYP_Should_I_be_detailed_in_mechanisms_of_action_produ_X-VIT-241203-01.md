@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: Should I be detailed in mechanisms of action, production, activation"
 date: 2024-12-03
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-VIT-241203-01
@@ -15,6 +16,7 @@ aliases: [X-VIT-241203-01]
 tags: [extracted, hypothesis, vitamin_d, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: Should I be detailed in mechanisms of action, production, activation o...

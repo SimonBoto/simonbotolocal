@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0569]
 tags: [chatgpt-archive, insulin_resistance]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Horizon 2020 Diabetes Proposal

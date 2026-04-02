@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0306]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition, communication]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Job Security Concerns

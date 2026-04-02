@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0074]
 tags: [chatgpt-archive, phd_research, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Seven Countries Study Summary

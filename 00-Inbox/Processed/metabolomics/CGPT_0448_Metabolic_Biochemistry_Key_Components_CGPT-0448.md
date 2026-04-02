@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0448]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Metabolic Biochemistry: Key Components

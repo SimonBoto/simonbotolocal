@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0101]
 tags: [chatgpt-archive, general]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # The Health Manifesto

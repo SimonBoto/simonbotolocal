@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0358]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, phd_research]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Metabolomics Study Advancement

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0509]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Metabolomics Collaboration with Dr. Berg

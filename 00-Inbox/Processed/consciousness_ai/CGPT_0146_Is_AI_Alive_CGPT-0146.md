@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0146]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Is AI Alive

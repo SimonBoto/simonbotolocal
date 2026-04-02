@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: “Exploring the Synergy of Vitamin D and Vitamin K2 in Metabolic Synd"
 date: 2024-11-16
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-INS-241116-01
@@ -15,6 +16,7 @@ aliases: [X-INS-241116-01]
 tags: [extracted, hypothesis, insulin_resistance, chatgpt-archive]
 related: "['RON_Genesis_MOC_[RON-004-0001]', 'ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: “Exploring the Synergy of Vitamin D and Vitamin K2 in Metabolic Syndro...

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0427]
 tags: [chatgpt-archive, clinical, technology, communication, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Therapeutic Plan Process Diagram

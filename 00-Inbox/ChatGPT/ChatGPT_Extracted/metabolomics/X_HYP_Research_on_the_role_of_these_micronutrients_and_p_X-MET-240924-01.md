@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: Research on the role of these micronutrients and potential mechanism"
 date: 2024-09-24
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-240924-01
@@ -15,6 +16,7 @@ aliases: [X-MET-240924-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: Research on the role of these micronutrients and potential mechanisms ...

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0406]
 tags: [chatgpt-archive, greek_language, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Morning Greeting: English Translation

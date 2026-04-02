@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: What are thr current limitations applied from humans on ai models th"
 date: 2024-11-30
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-CON-241130-00
@@ -15,6 +16,7 @@ aliases: [X-CON-241130-00]
 tags: [extracted, hypothesis, consciousness_ai, chatgpt-archive]
 related: "['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: What are thr current limitations applied from humans on ai models that...

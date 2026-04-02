@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: Employing an innovative blend of analytical techniques, including ge"
 date: 2023-10-14
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-231014-01
@@ -15,6 +16,7 @@ aliases: [X-GEN-231014-01]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: Employing an innovative blend of analytical techniques, including gene...

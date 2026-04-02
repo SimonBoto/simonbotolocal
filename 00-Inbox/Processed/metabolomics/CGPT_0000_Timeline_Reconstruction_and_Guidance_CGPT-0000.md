@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0000]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Timeline Reconstruction and Guidance

@@ -4,6 +4,7 @@ type: extracted-insight
 title: "I've been using my headphones for my phone for a long time and long calls and go"
 date: 2024-05-18
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-CON-240518-00
@@ -15,6 +16,7 @@ aliases: [X-CON-240518-00]
 tags: [extracted, insight, consciousness_ai, chatgpt-archive]
 related: "['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # I've been using my headphones for my phone for a long time and long calls and go...

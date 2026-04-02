@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0514]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, nutrition, communication]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # PhD Proposal and Supervisory Team

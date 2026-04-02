@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0591]
 tags: [chatgpt-archive, metabolomics, consciousness_ai, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Expert Metabolomics Review

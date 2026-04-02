@@ -5,6 +5,7 @@ title: "help me understand this table
 upplementary Table 2."
 date: 2023-08-23
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-230823-00
@@ -17,6 +18,7 @@ aliases: [X-GEN-230823-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # help me understand this table 

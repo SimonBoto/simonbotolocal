@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0003]
 tags: [chatgpt-archive, insulin_resistance, clinical, communication]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Manager Control

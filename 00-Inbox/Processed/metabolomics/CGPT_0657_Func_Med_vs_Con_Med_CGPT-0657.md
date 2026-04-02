@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0657]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Func Med vs. Con Med

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0127]
 tags: [chatgpt-archive, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Exploration of Detailed Inquiry

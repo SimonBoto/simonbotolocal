@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0417]
 tags: [chatgpt-archive, general]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Study Aim Summary

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0476]
 tags: [chatgpt-archive, clinical, phd_research]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Protocol Definitions Summary

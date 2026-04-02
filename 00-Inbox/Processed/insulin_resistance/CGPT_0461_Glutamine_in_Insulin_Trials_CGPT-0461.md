@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0461]
 tags: [chatgpt-archive, insulin_resistance, clinical, consciousness_ai, nutrition, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Glutamine in Insulin Trials

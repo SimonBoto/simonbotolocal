@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0650]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, phd_research, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # HOMA-IR Index Explained

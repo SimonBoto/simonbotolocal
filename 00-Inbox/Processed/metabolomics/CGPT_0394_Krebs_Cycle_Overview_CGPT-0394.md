@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0394]
 tags: [chatgpt-archive, metabolomics, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Krebs Cycle Overview

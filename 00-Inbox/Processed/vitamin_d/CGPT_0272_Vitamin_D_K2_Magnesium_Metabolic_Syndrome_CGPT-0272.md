@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0272]
 tags: [chatgpt-archive, vitamin_d, clinical]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Vitamin D K2 Magnesium Metabolic Syndrome

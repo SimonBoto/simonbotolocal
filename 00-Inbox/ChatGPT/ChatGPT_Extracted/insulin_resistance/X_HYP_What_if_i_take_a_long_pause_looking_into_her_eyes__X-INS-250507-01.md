@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: What if i take a long pause looking into her eyes trying to reach he"
 date: 2025-05-07
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-INS-250507-01
@@ -15,6 +16,7 @@ aliases: [X-INS-250507-01]
 tags: [extracted, hypothesis, insulin_resistance, chatgpt-archive]
 related: "['RON_Genesis_MOC_[RON-004-0001]', 'ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: What if i take a long pause looking into her eyes trying to reach her ...

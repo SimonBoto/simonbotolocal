@@ -8,6 +8,7 @@ title: "Hypothesis: What if we combine it with huuuge dose of iodine
 ### 189"
 date: 2024-03-24
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-240324-01
@@ -23,6 +24,7 @@ aliases: [X-GEN-240324-01]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: What if we combine it with huuuge dose of iodine 

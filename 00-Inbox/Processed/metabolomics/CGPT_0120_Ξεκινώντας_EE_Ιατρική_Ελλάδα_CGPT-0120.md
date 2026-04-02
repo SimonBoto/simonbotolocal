@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0120]
 tags: [chatgpt-archive, metabolomics, greek_language]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Ξεκινώντας EE Ιατρική Ελλάδα

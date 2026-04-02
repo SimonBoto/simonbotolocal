@@ -4,6 +4,7 @@ type: extracted-insight
 title: "Metabolites are the molecular intermediates of all biochemical reactions, and th"
 date: 2023-09-17
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-230917-00
@@ -15,6 +16,7 @@ aliases: [X-MET-230917-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Metabolites are the molecular intermediates of all biochemical reactions, and th...

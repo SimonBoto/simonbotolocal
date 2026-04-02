@@ -6,6 +6,7 @@ title: "Hypothesis: part 3/12
 • Objectives - a clear statement of the main aim of the "
 date: 2023-11-05
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-231105-01
@@ -19,6 +20,7 @@ aliases: [X-GEN-231105-01]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: part 3/12 

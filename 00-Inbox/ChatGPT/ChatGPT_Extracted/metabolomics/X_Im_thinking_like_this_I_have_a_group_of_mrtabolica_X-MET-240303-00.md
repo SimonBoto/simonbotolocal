@@ -8,6 +8,7 @@ I have a group of mrtabolically fit
 A group of Insulin"
 date: 2024-03-03
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-240303-00
@@ -23,6 +24,7 @@ aliases: [X-MET-240303-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # I'm thinking like this:

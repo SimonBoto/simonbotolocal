@@ -5,6 +5,7 @@ title: "PhD Index"
 date: 2026-04-02
 aliases: [PhD-INDEX, METHAP, PhD-Project]
 tags: [index, phd, methap, metabolomics, research]
+parent-moc: [[07 Projects Index]]
 status: blocked
 ---
 

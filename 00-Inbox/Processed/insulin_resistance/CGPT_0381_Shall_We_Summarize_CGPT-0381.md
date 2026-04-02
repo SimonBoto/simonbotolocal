@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0381]
 tags: [chatgpt-archive, insulin_resistance, clinical, consciousness_ai]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Shall We Summarize?

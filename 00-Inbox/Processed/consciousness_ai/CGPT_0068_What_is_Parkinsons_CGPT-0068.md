@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0068]
 tags: [chatgpt-archive, consciousness_ai, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # What is Parkinson's

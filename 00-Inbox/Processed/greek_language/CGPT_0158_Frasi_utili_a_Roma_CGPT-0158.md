@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0158]
 tags: [chatgpt-archive, greek_language, communication]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Frasi utili a Roma

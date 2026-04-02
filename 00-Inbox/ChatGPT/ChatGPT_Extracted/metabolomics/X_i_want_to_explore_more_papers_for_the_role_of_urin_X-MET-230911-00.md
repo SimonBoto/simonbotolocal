@@ -4,6 +4,7 @@ type: extracted-insight
 title: "i want to explore more papers for the role of urine organic acids and plasma fat"
 date: 2023-09-11
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-230911-00
@@ -15,6 +16,7 @@ aliases: [X-MET-230911-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # i want to explore more papers for the role of urine organic acids and plasma fat...

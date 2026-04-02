@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0161]
 tags: [chatgpt-archive, clinical, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Diet Supplement Compliance Survey

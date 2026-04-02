@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0227]
 tags: [chatgpt-archive, clinical, phd_research, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Maniacal Knowledge Synthesis

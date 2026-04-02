@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0487]
 tags: [chatgpt-archive, clinical, consciousness_ai]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Coma vs. Comma Comparison

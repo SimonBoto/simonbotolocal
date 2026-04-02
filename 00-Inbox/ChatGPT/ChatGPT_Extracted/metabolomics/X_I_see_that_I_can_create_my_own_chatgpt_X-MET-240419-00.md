@@ -4,6 +4,7 @@ type: extracted-insight
 title: "I see that I can create my own chatgpt."
 date: 2024-04-19
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-240419-00
@@ -15,6 +16,7 @@ aliases: [X-MET-240419-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # I see that I can create my own chatgpt.

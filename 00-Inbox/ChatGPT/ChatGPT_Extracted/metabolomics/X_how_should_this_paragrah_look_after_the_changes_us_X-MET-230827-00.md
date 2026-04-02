@@ -5,6 +5,7 @@ title: "how should this paragrah look after the changes?
 use added references when need"
 date: 2023-08-27
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-230827-00
@@ -17,6 +18,7 @@ aliases: [X-MET-230827-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # how should this paragrah look after the changes? 

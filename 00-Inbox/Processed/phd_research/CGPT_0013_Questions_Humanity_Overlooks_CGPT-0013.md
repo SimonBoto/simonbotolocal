@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0013]
 tags: [chatgpt-archive, phd_research, consciousness_ai, philosophy]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Questions Humanity Overlooks

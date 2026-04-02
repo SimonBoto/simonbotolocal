@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0321]
 tags: [chatgpt-archive, metabolomics, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Metabolite Imbalance Analysis

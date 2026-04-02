@@ -4,6 +4,7 @@ type: extracted-insight
 title: "OK, now give me the five that provided with the most influential change in the h"
 date: 2024-05-19
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-INS-240519-00
@@ -15,6 +16,7 @@ aliases: [X-INS-240519-00]
 tags: [extracted, insight, insulin_resistance, chatgpt-archive]
 related: "['RON_Genesis_MOC_[RON-004-0001]', 'ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # OK, now give me the five that provided with the most influential change in the h...

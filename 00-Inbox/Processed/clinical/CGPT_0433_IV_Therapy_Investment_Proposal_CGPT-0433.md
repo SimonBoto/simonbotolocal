@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0433]
 tags: [chatgpt-archive, clinical, phd_research]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # IV Therapy Investment Proposal

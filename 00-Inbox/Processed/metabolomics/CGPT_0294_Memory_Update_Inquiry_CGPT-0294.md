@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0294]
 tags: [chatgpt-archive, metabolomics]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Memory Update Inquiry

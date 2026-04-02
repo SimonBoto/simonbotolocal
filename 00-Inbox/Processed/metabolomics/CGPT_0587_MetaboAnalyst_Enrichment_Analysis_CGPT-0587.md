@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0587]
 tags: [chatgpt-archive, metabolomics, phd_research, consciousness_ai]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # MetaboAnalyst Enrichment Analysis

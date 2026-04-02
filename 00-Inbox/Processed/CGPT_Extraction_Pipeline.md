@@ -40,6 +40,7 @@ themes: [theme1, theme2]
 quality_score: 1-5  # Content density/novelty
 priority: P0/P1/P2/P3/SKIP
 status: pending/extracted/skipped
+parent-moc: [[MOC-CGPT-Archive]]
 estimated_zettels: N
 estimated_litnotes: N
 domain: 001/101/etc

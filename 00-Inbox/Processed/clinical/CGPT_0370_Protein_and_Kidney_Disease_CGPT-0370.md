@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0370]
 tags: [chatgpt-archive, clinical, phd_research, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Protein and Kidney Disease.

@@ -4,6 +4,7 @@ type: extracted-insight
 title: "Can we start exploring my supplement regimen together? Step by step and present "
 date: 2025-11-08
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GRE-251108-00
@@ -15,6 +16,7 @@ aliases: [X-GRE-251108-00]
 tags: [extracted, insight, greek_language, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Can we start exploring my supplement regimen together? Step by step and present ...

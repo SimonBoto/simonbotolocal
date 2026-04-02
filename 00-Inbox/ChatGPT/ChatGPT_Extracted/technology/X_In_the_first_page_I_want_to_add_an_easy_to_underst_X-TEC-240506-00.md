@@ -4,6 +4,7 @@ type: extracted-insight
 title: "In the first page I want to add an easy to understand flow diagrams that explain"
 date: 2024-05-06
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-TEC-240506-00
@@ -15,6 +16,7 @@ aliases: [X-TEC-240506-00]
 tags: [extracted, insight, technology, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # In the first page I want to add an easy to understand flow diagrams that explain...

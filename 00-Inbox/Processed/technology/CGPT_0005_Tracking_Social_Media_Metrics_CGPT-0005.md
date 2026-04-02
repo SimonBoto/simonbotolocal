@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0005]
 tags: [chatgpt-archive, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Tracking Social Media Metrics

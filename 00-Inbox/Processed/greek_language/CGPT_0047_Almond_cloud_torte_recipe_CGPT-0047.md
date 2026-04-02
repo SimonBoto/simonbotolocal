@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0047]
 tags: [chatgpt-archive, greek_language, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Almond cloud torte recipe

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0312]
 tags: [chatgpt-archive, general]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Summary of Erickson Techniques

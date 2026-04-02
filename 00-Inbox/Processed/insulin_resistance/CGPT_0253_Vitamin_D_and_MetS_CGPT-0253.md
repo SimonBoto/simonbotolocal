@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0253]
 tags: [chatgpt-archive, insulin_resistance, vitamin_d, clinical, phd_research, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Vitamin D and MetS

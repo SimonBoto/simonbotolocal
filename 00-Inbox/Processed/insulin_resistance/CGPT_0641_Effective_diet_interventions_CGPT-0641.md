@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0641]
 tags: [chatgpt-archive, insulin_resistance, phd_research, consciousness_ai, nutrition, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Effective diet interventions.

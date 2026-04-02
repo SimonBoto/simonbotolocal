@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: What if we sleep 11? But from 10-11 it's the most wasted time of the"
 date: 2025-05-07
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-250507-00
@@ -15,6 +16,7 @@ aliases: [X-GEN-250507-00]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: What if we sleep 11? But from 10-11 it's the most wasted time of the d...

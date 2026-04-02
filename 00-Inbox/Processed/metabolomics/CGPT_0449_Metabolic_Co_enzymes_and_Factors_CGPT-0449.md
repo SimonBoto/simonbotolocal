@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0449]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Metabolic Co-enzymes and Factors

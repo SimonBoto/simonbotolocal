@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0662]
 tags: [chatgpt-archive, general]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Model assists user.

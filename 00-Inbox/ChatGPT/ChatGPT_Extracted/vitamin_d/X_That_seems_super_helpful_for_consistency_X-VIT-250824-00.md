@@ -4,6 +4,7 @@ type: extracted-insight
 title: "That seems super helpful for consistency."
 date: 2025-08-24
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-VIT-250824-00
@@ -15,6 +16,7 @@ aliases: [X-VIT-250824-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # That seems super helpful for consistency.

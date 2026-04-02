@@ -8,6 +8,7 @@ title: "i think full oxidation of palmitic yields 129 atps
 ### 118."
 date: 2023-06-23
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-230623-00
@@ -23,6 +24,7 @@ aliases: [X-MET-230623-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # i think full oxidation of palmitic yields 129 atps

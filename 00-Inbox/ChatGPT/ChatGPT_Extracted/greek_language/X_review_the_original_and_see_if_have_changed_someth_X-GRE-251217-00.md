@@ -4,6 +4,7 @@ type: extracted-insight
 title: "review the original and see if have changed something in an important way."
 date: 2025-12-17
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GRE-251217-00
@@ -15,6 +16,7 @@ aliases: [X-GRE-251217-00]
 tags: [extracted, insight, greek_language, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # review the original and see if have changed something in an important way.

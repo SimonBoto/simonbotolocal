@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0137]
 tags: [chatgpt-archive, consciousness_ai, nutrition, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Maximizing Weekly Productivity

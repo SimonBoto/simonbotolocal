@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0099]
 tags: [chatgpt-archive, clinical, phd_research, philosophy, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # IV Clinic Proposal Optimization

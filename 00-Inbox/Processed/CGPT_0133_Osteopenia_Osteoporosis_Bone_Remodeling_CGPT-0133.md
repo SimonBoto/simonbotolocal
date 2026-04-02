@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0133]
 tags: [chatgpt-archive, vitamin_d, nutrition]
 status: inbox-pending
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Osteopenia Osteoporosis Bone Remodeling

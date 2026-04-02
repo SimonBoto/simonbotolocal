@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0510]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, philosophy]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Reflect and Plan Ahead

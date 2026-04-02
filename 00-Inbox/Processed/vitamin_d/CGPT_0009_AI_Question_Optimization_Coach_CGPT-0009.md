@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0009]
 tags: [chatgpt-archive, vitamin_d, clinical, consciousness_ai, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # AI Question Optimization Coach
@@ -12144,6 +12145,7 @@ series: MetabolomicMedicine
 episode: 12
 date: 2025-03-26
 status: captured
+parent-moc: [[MOC-CGPT-Archive]]
 tags: [vitamin-d, insulin-resistance, decision-rules]
 `‌`‌`
 
@@ -12153,6 +12155,7 @@ type: protocol
 domain: vitamin-d
 version: 0.1
 status: draft
+parent-moc: [[MOC-CGPT-Archive]]
 depends_on: [DR - Vitamin D - Core]
 `‌`‌`
 
@@ -12163,6 +12166,7 @@ patient_id: 25264
 phenotypes: [mitochondrial, dysbiosis, methylation, oxalate]
 timeline: [2025-03-18, 2025-12-09]
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 `‌`‌`
 
 That’s enough. The rest goes in links.
@@ -12597,6 +12601,7 @@ I will output notes like this:
 id: 20260118-2031
 type: zettel
 status: seed
+parent-moc: [[MOC-CGPT-Archive]]
 domain: clinic
 topics: [vitamin-d, immunoregulation]
 tags: [zettel, protocol, vitaminD]
@@ -13405,6 +13410,7 @@ Create a folder: `00_SYSTEM/Templates/` and make one note per template with the 
 ---
 type: dictionary
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated: 
 aliases: []
@@ -13445,6 +13451,7 @@ aliases: []
 ---
 type: lab
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 unit: 
@@ -13490,6 +13497,7 @@ sample: blood|urine|stool|other
 ---
 type: rule
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 confidence: high|medium|low
@@ -13534,6 +13542,7 @@ confidence: high|medium|low
 ---
 type: module
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 scope: foundation|therapeutic|acute
@@ -13598,6 +13607,7 @@ scope: foundation|therapeutic|acute
 ---
 type: phenotype
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -13647,6 +13657,7 @@ updated:
 ---
 type: source
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 source_kind: podcast|paper|video|book|website
@@ -13695,6 +13706,7 @@ link:
 ---
 type: comms
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 audience: patient
@@ -13740,6 +13752,7 @@ format: one_liner|short|long
 ---
 type: output
 status: draft
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 audience: patient|public|doctor
@@ -13845,6 +13858,7 @@ Create the folders first, then create each note inside the matching folder with 
 ---
 type: system
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -13879,6 +13893,7 @@ updated:
 ---
 type: system
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -13913,6 +13928,7 @@ Drop anything here: rough ideas, episode notes, screenshots, draft rules.
 ---
 type: system
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -13940,6 +13956,7 @@ updated:
 ---
 type: system
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -13975,6 +13992,7 @@ updated:
 ---
 type: moc
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -14006,6 +14024,7 @@ Purpose: locked terminology so we speak precisely.
 ---
 type: moc
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -14045,6 +14064,7 @@ updated:
 ---
 type: moc
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -14080,6 +14100,7 @@ updated:
 ---
 type: moc
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -14111,6 +14132,7 @@ updated:
 ---
 type: moc
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -14137,6 +14159,7 @@ updated:
 ---
 type: moc
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -14164,6 +14187,7 @@ updated:
 ---
 type: moc
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -14200,6 +14224,7 @@ updated:
 ---
 type: moc
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -14233,6 +14258,7 @@ updated:
 ---
 type: moc
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -14258,6 +14284,7 @@ updated:
 ---
 type: moc
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -14291,6 +14318,7 @@ Next I’ll create the 7 Patient Flow “Stage” notes (copy-paste ready) with 
 type: stage
 stage: pre-visit
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -14351,6 +14379,7 @@ Collect the minimum data to make the first appointment high-signal (history, phe
 type: stage
 stage: first-visit
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -14395,6 +14424,7 @@ Convert the story into a structured problem list + decide testing + set expectat
 type: stage
 stage: testing
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -14439,6 +14469,7 @@ Get the data needed to assign phenotype(s) and build an intervention plan.
 type: stage
 stage: interpretation
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -14480,6 +14511,7 @@ Turn results into a ranked causal map: “what blocks healing right now?”
 type: stage
 stage: intervention
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -14528,6 +14560,7 @@ Deliver a plan the patient can execute: diet ladder + supplement stack + expecta
 type: stage
 stage: followup
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -14579,6 +14612,7 @@ Keep adherence high, detect predictable dips, and adjust dosing/modules.
 type: stage
 stage: retesting
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 created: {{date}}
 updated:
 ---
@@ -14639,6 +14673,7 @@ Perfect — I’ll “fill the scaffolding” now so your vault can start behavi
 ---
 type: rule
 status: draft
+parent-moc: [[MOC-CGPT-Archive]]
 domain: #domain/   # e.g. #domain/vitamin-d #domain/insulin #domain/gut #domain/lipids
 priority: medium
 safety_level: normal   # normal | caution | high
@@ -14687,6 +14722,7 @@ updated:
 ---
 type: module
 status: draft
+parent-moc: [[MOC-CGPT-Archive]]
 domain: #domain/
 stage_fit: pre-visit, interpretation, intervention, followup
 complexity: 2   # 1–5
@@ -14745,6 +14781,7 @@ updated:
 ---
 type: phenotype
 status: draft
+parent-moc: [[MOC-CGPT-Archive]]
 domain: #domain/
 created: {{date}}
 updated:
@@ -14797,6 +14834,7 @@ updated:
 type: source
 source_type: podcast
 status: to_process
+parent-moc: [[MOC-CGPT-Archive]]
 speaker:
 date:
 episode_id:
@@ -14842,6 +14880,7 @@ updated:
 ---
 type: product
 status: draft
+parent-moc: [[MOC-CGPT-Archive]]
 brand:   # NaturalDoctor | Meetab | other
 form:    # capsule | liquid | powder
 created: {{date}}
@@ -14883,6 +14922,7 @@ updated:
 ---
 type: case
 status: draft
+parent-moc: [[MOC-CGPT-Archive]]
 date:
 age:
 sex:
@@ -14936,6 +14976,7 @@ updated:
 ---
 type: output
 status: draft
+parent-moc: [[MOC-CGPT-Archive]]
 audience: patient
 format: email   # email | pdf | message
 created: {{date}}
@@ -14978,6 +15019,7 @@ updated:
 ---
 type: term
 status: draft
+parent-moc: [[MOC-CGPT-Archive]]
 language: el/en
 created: {{date}}
 updated:
@@ -15947,6 +15989,7 @@ Rule of sanity: **frontmatter does the filtering, tags do the vibe.**
 type: zettel
 domain: 
 status: draft
+parent-moc: [[MOC-CGPT-Archive]]
 created: <% tp.date.now("YYYY-MM-DD") %>
 source: 
 ---
@@ -15975,6 +16018,7 @@ source:
 type: protocol
 domain: 
 status: draft
+parent-moc: [[MOC-CGPT-Archive]]
 created: <% tp.date.now("YYYY-MM-DD") %>
 source: 
 ---
@@ -16017,6 +16061,7 @@ source:
 type: rule
 domain: 
 status: draft
+parent-moc: [[MOC-CGPT-Archive]]
 created: <% tp.date.now("YYYY-MM-DD") %>
 source: 
 ---
@@ -16045,6 +16090,7 @@ source:
 type: case
 domain: 
 status: draft
+parent-moc: [[MOC-CGPT-Archive]]
 created: <% tp.date.now("YYYY-MM-DD") %>
 source: clinic
 ---
@@ -16091,6 +16137,7 @@ Put this in `111_Domain Hubs/_template_hub.md`
 type: hub
 domain: 
 status: canon
+parent-moc: [[MOC-CGPT-Archive]]
 created: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
@@ -16134,6 +16181,7 @@ SORT file.mtime desc
 ---
 type: dashboard
 status: canon
+parent-moc: [[MOC-CGPT-Archive]]
 created: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
@@ -16170,6 +16218,7 @@ LIMIT 15
 ---
 type: dashboard
 status: canon
+parent-moc: [[MOC-CGPT-Archive]]
 created: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
@@ -16216,6 +16265,7 @@ A note is “done” when it has:
 type: folder-guide
 folder: 00_Inbox
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 00_Inbox — What belongs here
@@ -16254,6 +16304,7 @@ Every item in Inbox must be **processed → moved** or **deleted**.
 type: folder-guide
 folder: 10_Zettels
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 10_Zettels — One idea per note
@@ -16291,6 +16342,7 @@ Short, descriptive:
 type: folder-guide
 folder: 20_Protocols
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 20_Protocols — What we do clinically
@@ -16320,6 +16372,7 @@ Protocols should link to:
 type: folder-guide
 folder: 30_Rules
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 30_Rules — IF/THEN decision rules
@@ -16353,6 +16406,7 @@ Every rule should link to at least one:
 type: folder-guide
 folder: 40_Cases
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 40_Cases — Real patient timelines
@@ -16385,6 +16439,7 @@ Cases should link to:
 type: folder-guide
 folder: 50_Library
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 50_Library — Sources & reference material
@@ -16413,6 +16468,7 @@ But they should have:
 type: folder-guide
 folder: 60_Dashboards
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 60_Dashboards — Control panels
@@ -16437,6 +16493,7 @@ They are views, lists, queues.
 type: folder-guide
 folder: 99_Archive
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 99_Archive — Cold storage
@@ -16457,6 +16514,7 @@ If revived → move back to the correct folder.
 type: folder-guide
 folder: 111_Domain Hubs
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 111_Domain Hubs — Maps of content (MOCs)
@@ -16488,6 +16546,7 @@ Each hub should point to:
 type: folder-guide
 folder: 100_Templates
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 100_Templates — Templates used by Templater
@@ -16537,6 +16596,7 @@ Got it. Below are **Obsidian-safe titles** (no emojis, no `:` no quotes, no weir
 ---
 type: hub
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # START HERE - Vault Rules
@@ -16570,6 +16630,7 @@ Fast capture -> clean processing -> reusable knowledge.
 type: folder_guide
 folder: 00_Inbox
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 00_Inbox - About
@@ -16603,6 +16664,7 @@ Everything in 00_Inbox must be moved or deleted.
 type: folder_guide
 folder: 10_Zettels
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 10_Zettels - About
@@ -16631,6 +16693,7 @@ If you write "and", split.
 type: folder_guide
 folder: 20_Protocols
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 20_Protocols - About
@@ -16658,6 +16721,7 @@ Protocols link to supporting:
 type: folder_guide
 folder: 30_Rules
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 30_Rules - About
@@ -16684,6 +16748,7 @@ Each rule links to at least one:
 type: folder_guide
 folder: 40_Cases
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 40_Cases - About
@@ -16711,6 +16776,7 @@ Cases link to:
 type: folder_guide
 folder: 50_Library
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 50_Library - About
@@ -16734,6 +16800,7 @@ Library can be messy, but each entry should have:
 type: folder_guide
 folder: 60_Dashboards
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 60_Dashboards - About
@@ -16758,6 +16825,7 @@ Minimal prose, mostly lists.
 type: folder_guide
 folder: 99_Archive
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 99_Archive - About
@@ -16778,6 +16846,7 @@ If revived, move back to the correct folder.
 type: folder_guide
 folder: 111_Domain_Hubs
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 111_Domain_Hubs - About
@@ -16804,6 +16873,7 @@ Curated structure plus links.
 type: folder_guide
 folder: 100_Templates
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 100_Templates - About
@@ -17444,6 +17514,7 @@ Put these notes in your Hubs folder (whatever you named it). Filenames avoid spe
 type: hub
 domain: vitamin_d
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 tags: [type/hub, domain/vitamin_d]
 ---
 
@@ -17500,6 +17571,7 @@ SORT file.name asc
 type: hub
 domain: insulin_resistance
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 tags: [type/hub, domain/insulin_resistance]
 ---
 
@@ -17559,6 +17631,7 @@ SORT file.mtime desc
 type: hub
 domain: gut
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 tags: [type/hub, domain/gut]
 ---
 
@@ -17612,6 +17685,7 @@ SORT file.mtime desc
 type: hub
 domain: lipids
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 tags: [type/hub, domain/lipids]
 ---
 
@@ -17666,6 +17740,7 @@ SORT file.mtime desc
 type: hub
 domain: diet
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 tags: [type/hub, domain/diet]
 ---
 
@@ -17717,6 +17792,7 @@ SORT file.mtime desc
 type: hub
 domain: micronutrients
 status: stable
+parent-moc: [[MOC-CGPT-Archive]]
 tags: [type/hub, domain/micronutrients]
 ---
 
@@ -17767,6 +17843,7 @@ SORT file.mtime desc
 type: hub
 domain: methylation
 status: draft
+parent-moc: [[MOC-CGPT-Archive]]
 tags: [type/hub, domain/methylation]
 ---
 

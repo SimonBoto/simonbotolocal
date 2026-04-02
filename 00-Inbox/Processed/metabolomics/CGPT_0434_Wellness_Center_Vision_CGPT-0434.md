@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0434]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, nutrition, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Wellness Center Vision

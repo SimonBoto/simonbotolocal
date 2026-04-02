@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0226]
 tags: [chatgpt-archive, metabolomics, vitamin_d, clinical, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Clinical Metabolomics and Enzymes

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0014]
 tags: [chatgpt-archive, clinical, consciousness_ai, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Κλάδος · AI Question Optimization Coach

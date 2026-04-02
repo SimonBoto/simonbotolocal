@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0295]
 tags: [chatgpt-archive, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Book Outline on Fats

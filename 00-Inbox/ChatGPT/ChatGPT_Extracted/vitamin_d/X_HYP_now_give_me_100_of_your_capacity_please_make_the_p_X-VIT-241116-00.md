@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: now give me 100% of your capacity - please make the perfect last cha"
 date: 2024-11-16
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-VIT-241116-00
@@ -15,6 +16,7 @@ aliases: [X-VIT-241116-00]
 tags: [extracted, hypothesis, vitamin_d, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: now give me 100% of your capacity - please make the perfect last chapt...

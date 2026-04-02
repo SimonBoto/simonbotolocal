@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0304]
 tags: [chatgpt-archive, general]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Summary of Power Laws

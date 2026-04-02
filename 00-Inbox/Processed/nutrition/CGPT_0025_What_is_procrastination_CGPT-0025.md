@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0025]
 tags: [chatgpt-archive, nutrition, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # What is procrastination

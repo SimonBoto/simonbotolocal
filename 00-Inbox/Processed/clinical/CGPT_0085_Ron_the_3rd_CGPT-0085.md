@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0085]
 tags: [chatgpt-archive, clinical, phd_research, consciousness_ai]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Ron the 3rd

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0083]
 tags: [chatgpt-archive, consciousness_ai, technology, communication]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Mind Programming Paradigms

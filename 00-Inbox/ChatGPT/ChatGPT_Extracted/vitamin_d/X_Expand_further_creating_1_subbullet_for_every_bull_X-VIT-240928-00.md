@@ -8,6 +8,7 @@ title: "Expand further creating 1 subbullet for every bullet with 5 key words
 ###..."
 date: 2024-09-28
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-VIT-240928-00
@@ -23,6 +24,7 @@ aliases: [X-VIT-240928-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
 related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]']
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Expand further creating 1 subbullet for every bullet with 5 key words 

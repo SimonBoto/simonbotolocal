@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0477]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, consciousness_ai, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Insulin Resistance Research Plan

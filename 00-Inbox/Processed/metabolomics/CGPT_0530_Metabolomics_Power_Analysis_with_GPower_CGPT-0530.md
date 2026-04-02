@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0530]
 tags: [chatgpt-archive, metabolomics, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Metabolomics Power Analysis with G*Power

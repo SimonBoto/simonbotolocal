@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0052]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, consciousness_ai]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Greeting exchange

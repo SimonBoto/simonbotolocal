@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0139]
 tags: [chatgpt-archive, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Web Scraping Methods

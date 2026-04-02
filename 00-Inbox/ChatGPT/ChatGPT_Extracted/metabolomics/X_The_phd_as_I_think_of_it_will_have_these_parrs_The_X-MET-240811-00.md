@@ -8,6 +8,7 @@ Theoretical background
 Organi"
 date: 2024-08-11
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-240811-00
@@ -23,6 +24,7 @@ aliases: [X-MET-240811-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # The phd as I think of it will have these parrs:

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0589]
 tags: [chatgpt-archive, metabolomics, clinical, greek_language, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Analyzing Organic and Fatty Acids

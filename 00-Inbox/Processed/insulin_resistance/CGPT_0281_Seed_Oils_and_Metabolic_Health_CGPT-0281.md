@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0281]
 tags: [chatgpt-archive, insulin_resistance, clinical, consciousness_ai, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Seed Oils and Metabolic Health

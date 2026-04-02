@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0411]
 tags: [chatgpt-archive, clinical]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Luxury IV Vitamin Treatment

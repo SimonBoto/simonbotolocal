@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0444]
 tags: [chatgpt-archive, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Chem Differences: AKK.

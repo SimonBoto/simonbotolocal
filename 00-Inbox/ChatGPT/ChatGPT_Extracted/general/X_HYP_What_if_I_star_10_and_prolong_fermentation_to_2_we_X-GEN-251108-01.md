@@ -8,6 +8,7 @@ title: "Hypothesis: What if I star 10% and prolong fermentation to 2 weeks
 ### 64"
 date: 2025-11-08
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-251108-01
@@ -23,6 +24,7 @@ aliases: [X-GEN-251108-01]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: What if I star 10% and prolong fermentation to 2 weeks

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0599]
 tags: [chatgpt-archive, insulin_resistance, clinical, phd_research, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Analyze in 4 pieces

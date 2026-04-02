@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0622]
 tags: [chatgpt-archive, clinical, phd_research, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Designing Doctors' Functional Medicine Course

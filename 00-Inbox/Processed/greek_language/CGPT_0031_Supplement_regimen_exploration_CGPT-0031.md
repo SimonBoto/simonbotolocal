@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0031]
 tags: [chatgpt-archive, greek_language, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Supplement regimen exploration

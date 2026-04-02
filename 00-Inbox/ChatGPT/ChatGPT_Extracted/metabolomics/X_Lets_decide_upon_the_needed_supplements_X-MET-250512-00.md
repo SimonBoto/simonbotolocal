@@ -4,6 +4,7 @@ type: extracted-insight
 title: "Let's decide upon the needed supplements."
 date: 2025-05-12
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-250512-00
@@ -15,6 +16,7 @@ aliases: [X-MET-250512-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Let's decide upon the needed supplements.

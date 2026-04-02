@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0508]
 tags: [chatgpt-archive, general]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Reading Egyptian hieroglyphics 90%

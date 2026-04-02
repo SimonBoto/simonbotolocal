@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0497]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Clinical Trial Registry Recommendations

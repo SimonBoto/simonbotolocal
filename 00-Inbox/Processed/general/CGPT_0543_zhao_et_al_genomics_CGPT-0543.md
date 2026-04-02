@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0543]
 tags: [chatgpt-archive, general]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # zhao et al genomics

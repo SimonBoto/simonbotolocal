@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0560]
 tags: [chatgpt-archive, metabolomics, phd_research]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Crafting Impactful PhD Proposal

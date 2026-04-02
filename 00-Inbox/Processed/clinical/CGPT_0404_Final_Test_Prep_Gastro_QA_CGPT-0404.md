@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0404]
 tags: [chatgpt-archive, clinical, consciousness_ai, greek_language]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Final Test Prep: Gastro Q&A

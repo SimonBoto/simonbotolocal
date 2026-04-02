@@ -4,6 +4,7 @@ type: index
 title: "System Index"
 date: 2026-04-02
 tags: [index, system, root-notes]
+parent-moc: [[08 Structure Index]]
 ---
 
 # System Index

@@ -4,6 +4,7 @@ type: extracted-insight
 title: "what parameters should be decided."
 date: 2025-11-16
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-251116-00
@@ -15,6 +16,7 @@ aliases: [X-MET-251116-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # what parameters should be decided.

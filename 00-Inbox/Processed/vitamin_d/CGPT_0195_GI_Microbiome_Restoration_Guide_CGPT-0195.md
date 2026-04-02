@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0195]
 tags: [chatgpt-archive, vitamin_d, nutrition, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # GI Microbiome Restoration Guide

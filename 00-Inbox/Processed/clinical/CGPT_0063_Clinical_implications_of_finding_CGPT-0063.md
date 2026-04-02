@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0063]
 tags: [chatgpt-archive, clinical, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Clinical implications of finding

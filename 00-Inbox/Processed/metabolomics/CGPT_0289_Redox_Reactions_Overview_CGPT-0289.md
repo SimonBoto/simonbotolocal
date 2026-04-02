@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0289]
 tags: [chatgpt-archive, metabolomics, consciousness_ai]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Redox Reactions Overview

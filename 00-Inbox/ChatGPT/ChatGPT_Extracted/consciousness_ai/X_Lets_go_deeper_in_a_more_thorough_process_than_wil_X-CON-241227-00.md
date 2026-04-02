@@ -5,6 +5,7 @@ title: "Let's go deeper in a more thorough process than will help you first unde
 "
 date: 2024-12-27
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-CON-241227-00
@@ -17,6 +18,7 @@ aliases: [X-CON-241227-00]
 tags: [extracted, insight, consciousness_ai, chatgpt-archive]
 related: "['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Let's go deeper in a more thorough process than will help you first understand 

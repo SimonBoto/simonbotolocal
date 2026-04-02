@@ -9,6 +9,7 @@ title: "so you dont think no adjustment for p values as a major drawback?
 ### 52..."
 date: 2023-10-14
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-231014-00
@@ -25,6 +26,7 @@ aliases: [X-GEN-231014-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # so you dont think no adjustment for p values as a major drawback? 

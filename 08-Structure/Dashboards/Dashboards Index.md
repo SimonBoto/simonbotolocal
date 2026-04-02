@@ -4,6 +4,7 @@ type: index
 title: "Dashboards Index"
 date: 2026-04-02
 tags: [index, dashboards, operations]
+parent-moc: [[08 Structure Index]]
 ---
 
 # Dashboards Index

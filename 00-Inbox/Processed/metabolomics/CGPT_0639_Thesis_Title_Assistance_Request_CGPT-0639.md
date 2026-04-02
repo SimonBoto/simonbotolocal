@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0639]
 tags: [chatgpt-archive, metabolomics, vitamin_d, clinical, phd_research, consciousness_ai, greek_language, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Thesis Title Assistance Request

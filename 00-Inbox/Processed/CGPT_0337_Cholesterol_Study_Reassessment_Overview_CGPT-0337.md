@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0337]
 tags: [chatgpt-archive, phd_research]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Cholesterol Study Reassessment Overview

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0667]
 tags: [chatgpt-archive, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # New chat

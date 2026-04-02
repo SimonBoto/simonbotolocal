@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0459]
 tags: [chatgpt-archive, insulin_resistance, clinical, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Summarize Article Requests

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0147]
 tags: [chatgpt-archive, consciousness_ai, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # AI Impact Optimization

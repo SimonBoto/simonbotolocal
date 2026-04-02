@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0572]
 tags: [chatgpt-archive, consciousness_ai, technology, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Creating an App Guide

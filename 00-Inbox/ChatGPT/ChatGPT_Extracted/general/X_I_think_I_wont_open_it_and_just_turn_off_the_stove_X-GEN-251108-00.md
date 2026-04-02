@@ -8,6 +8,7 @@ title: "I think I won't open it and just turn off the stove
 ### 20."
 date: 2025-11-08
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-251108-00
@@ -23,6 +24,7 @@ aliases: [X-GEN-251108-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # I think I won't open it and just turn off the stove 

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0298]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, phd_research, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Urea Cycle Overview

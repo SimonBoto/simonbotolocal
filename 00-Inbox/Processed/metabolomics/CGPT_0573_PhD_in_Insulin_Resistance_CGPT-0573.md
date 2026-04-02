@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0573]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, phd_research, nutrition, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # PhD in Insulin Resistance

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0028]
 tags: [chatgpt-archive, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Find payment subscriptions

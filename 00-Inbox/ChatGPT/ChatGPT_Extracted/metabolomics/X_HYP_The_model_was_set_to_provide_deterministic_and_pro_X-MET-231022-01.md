@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: The model was set to provide deterministic and probabilistic analyse"
 date: 2023-10-22
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-231022-01
@@ -15,6 +16,7 @@ aliases: [X-MET-231022-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: The model was set to provide deterministic and probabilistic analyses

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0104]
 tags: [chatgpt-archive, phd_research, consciousness_ai, philosophy, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Alchemy and Cognitive Science

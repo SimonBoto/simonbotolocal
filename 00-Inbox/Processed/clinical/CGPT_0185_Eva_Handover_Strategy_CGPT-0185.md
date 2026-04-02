@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0185]
 tags: [chatgpt-archive, clinical, phd_research, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Eva Handover Strategy

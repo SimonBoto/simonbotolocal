@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0285]
 tags: [chatgpt-archive, phd_research]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Thesis Proofreading and Support

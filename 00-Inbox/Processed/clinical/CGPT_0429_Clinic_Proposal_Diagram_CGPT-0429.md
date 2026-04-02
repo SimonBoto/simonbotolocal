@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0429]
 tags: [chatgpt-archive, clinical]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Clinic Proposal Diagram

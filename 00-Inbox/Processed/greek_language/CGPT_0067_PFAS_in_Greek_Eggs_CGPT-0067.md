@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0067]
 tags: [chatgpt-archive, greek_language]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # PFAS in Greek Eggs

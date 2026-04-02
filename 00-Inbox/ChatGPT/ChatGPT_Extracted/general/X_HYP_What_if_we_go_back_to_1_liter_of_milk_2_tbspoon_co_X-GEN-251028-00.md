@@ -8,6 +8,7 @@ title: "Hypothesis: What if we go back to
 4 "
 date: 2025-10-28
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-251028-00
@@ -23,6 +24,7 @@ aliases: [X-GEN-251028-00]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: What if we go back to 

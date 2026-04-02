@@ -10,6 +10,7 @@ I undress her in my mind
 Se"
 date: 2025-04-28
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-250428-00
@@ -27,6 +28,7 @@ aliases: [X-GEN-250428-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Sometimes when outside 

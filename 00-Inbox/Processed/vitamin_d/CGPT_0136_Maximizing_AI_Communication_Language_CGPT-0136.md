@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0136]
 tags: [chatgpt-archive, vitamin_d, consciousness_ai, nutrition, communication]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Maximizing AI Communication Language

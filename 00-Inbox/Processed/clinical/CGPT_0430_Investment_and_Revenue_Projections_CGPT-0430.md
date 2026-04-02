@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0430]
 tags: [chatgpt-archive, clinical, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Investment and Revenue Projections

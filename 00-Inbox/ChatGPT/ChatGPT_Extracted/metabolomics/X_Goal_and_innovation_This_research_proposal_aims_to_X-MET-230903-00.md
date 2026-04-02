@@ -7,6 +7,7 @@ title: "Goal and innovation
 This research proposal aims to revolutionize our understa"
 date: 2023-09-03
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-230903-00
@@ -21,6 +22,7 @@ aliases: [X-MET-230903-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Goal and innovation 

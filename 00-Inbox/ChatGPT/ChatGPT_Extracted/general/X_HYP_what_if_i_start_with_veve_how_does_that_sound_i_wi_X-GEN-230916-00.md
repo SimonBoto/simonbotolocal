@@ -6,6 +6,7 @@ title: "Hypothesis: what if i start with veve? how does that sound?
 i will join the ne"
 date: 2023-09-16
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-230916-00
@@ -19,6 +20,7 @@ aliases: [X-GEN-230916-00]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: what if i start with veve? how does that sound? 

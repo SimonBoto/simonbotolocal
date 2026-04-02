@@ -10,6 +10,7 @@ Give example
 ### 6."
 date: 2025-04-25
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-250425-00
@@ -27,6 +28,7 @@ aliases: [X-GEN-250425-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # I didn't understand how the 3 coins method works 

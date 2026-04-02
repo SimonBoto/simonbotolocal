@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0128]
 tags: [chatgpt-archive, phd_research, greek_language, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Article Study Request

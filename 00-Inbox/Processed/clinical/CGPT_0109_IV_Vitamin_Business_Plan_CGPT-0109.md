@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0109]
 tags: [chatgpt-archive, clinical, nutrition, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # IV Vitamin Business Plan

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0198]
 tags: [chatgpt-archive, insulin_resistance]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Kefir Berry Fermentation Tips

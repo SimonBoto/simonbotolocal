@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: I understand you are worried and that maybe for the average person a"
 date: 2025-04-04
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-CON-250404-01
@@ -15,6 +16,7 @@ aliases: [X-CON-250404-01]
 tags: [extracted, hypothesis, consciousness_ai, chatgpt-archive]
 related: "['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: I understand you are worried and that maybe for the average person an ...

@@ -4,6 +4,7 @@ type: extracted-insight
 title: "I don't have decided or acted yet upon all these."
 date: 2025-04-21
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-250421-00
@@ -15,6 +16,7 @@ aliases: [X-MET-250421-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # I don't have decided or acted yet upon all these.

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0206]
 tags: [chatgpt-archive, metabolomics, phd_research, nutrition, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # B Complex Vitamin Half-Life

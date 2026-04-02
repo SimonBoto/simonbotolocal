@@ -6,6 +6,7 @@ title: "for the minimum viable program we think of designing an more simple app:
 the u"
 date: 2023-09-05
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-230905-00
@@ -19,6 +20,7 @@ aliases: [X-MET-230905-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # for the minimum viable program we think of designing an more simple app: 

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0207]
 tags: [chatgpt-archive, clinical, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Radiomics Overview

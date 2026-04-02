@@ -4,6 +4,7 @@ type: extracted-insight
 title: "I Wan you to help me understand what's happening currently at work with the mana"
 date: 2024-08-23
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-240823-00
@@ -15,6 +16,7 @@ aliases: [X-MET-240823-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # I Wan you to help me understand what's happening currently at work with the mana...

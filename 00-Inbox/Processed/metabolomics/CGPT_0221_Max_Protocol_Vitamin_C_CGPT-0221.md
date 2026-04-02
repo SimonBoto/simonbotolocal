@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0221]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Max Protocol Vitamin C

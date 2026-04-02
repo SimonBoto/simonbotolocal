@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0287]
 tags: [chatgpt-archive, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Herbs for Gut Health

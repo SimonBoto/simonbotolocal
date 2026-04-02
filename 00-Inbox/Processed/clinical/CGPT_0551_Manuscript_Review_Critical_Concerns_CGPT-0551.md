@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0551]
 tags: [chatgpt-archive, clinical, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Manuscript Review: Critical Concerns

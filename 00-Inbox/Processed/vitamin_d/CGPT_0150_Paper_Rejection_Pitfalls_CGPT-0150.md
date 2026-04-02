@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0150]
 tags: [chatgpt-archive, vitamin_d]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Paper Rejection Pitfalls

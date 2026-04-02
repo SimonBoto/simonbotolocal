@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0288]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Simplifying Patient Reports

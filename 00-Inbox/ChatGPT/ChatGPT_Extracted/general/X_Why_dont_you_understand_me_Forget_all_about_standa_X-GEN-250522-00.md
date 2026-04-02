@@ -6,6 +6,7 @@ title: "Why don't you understand me?
 Forget all about standards and regulations, i wil"
 date: 2025-05-22
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-250522-00
@@ -19,6 +20,7 @@ aliases: [X-GEN-250522-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Why don't you understand me? 

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0064]
 tags: [chatgpt-archive, clinical]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Ofev MOA and effects

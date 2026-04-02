@@ -8,6 +8,7 @@ title: "Help me understand this
 Γαῖ᾽ εὐρύσ"
 date: 2024-07-14
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GRE-240714-00
@@ -23,6 +24,7 @@ aliases: [X-GRE-240714-00]
 tags: [extracted, insight, greek_language, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Help me understand this

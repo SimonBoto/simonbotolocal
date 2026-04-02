@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0668]
 tags: [chatgpt-archive, insulin_resistance, nutrition, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Assist with Precision Medicine Project

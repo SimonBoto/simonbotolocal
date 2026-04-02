@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0001]
 tags: [chatgpt-archive, consciousness_ai, greek_language, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Aconitase Paper Publishability

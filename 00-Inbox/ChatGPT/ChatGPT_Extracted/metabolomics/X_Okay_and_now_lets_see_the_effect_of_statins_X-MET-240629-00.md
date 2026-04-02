@@ -4,6 +4,7 @@ type: extracted-insight
 title: "Okay and now let's see the effect of statins."
 date: 2024-06-29
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-240629-00
@@ -15,6 +16,7 @@ aliases: [X-MET-240629-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Okay and now let's see the effect of statins.

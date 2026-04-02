@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0584]
 tags: [chatgpt-archive, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Ways Citrate Enters Krebs

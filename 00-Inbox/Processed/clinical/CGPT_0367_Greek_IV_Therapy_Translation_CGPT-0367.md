@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0367]
 tags: [chatgpt-archive, clinical, phd_research, greek_language, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Greek IV Therapy Translation

@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: so they used a pool of patients to create a model and then tested it"
 date: 2024-02-18
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-240218-01
@@ -15,6 +16,7 @@ aliases: [X-MET-240218-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: so they used a pool of patients to create a model and then tested it a...

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0343]
 tags: [chatgpt-archive, vitamin_d, phd_research, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Synthetic Vitamin E

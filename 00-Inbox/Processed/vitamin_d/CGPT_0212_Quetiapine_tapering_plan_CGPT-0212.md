@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0212]
 tags: [chatgpt-archive, vitamin_d, clinical, nutrition, technology, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Quetiapine tapering plan

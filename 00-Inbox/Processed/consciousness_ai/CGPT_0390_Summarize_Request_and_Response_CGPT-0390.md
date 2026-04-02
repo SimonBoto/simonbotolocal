@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0390]
 tags: [chatgpt-archive, consciousness_ai]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Summarize Request and Response

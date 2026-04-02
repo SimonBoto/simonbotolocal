@@ -4,6 +4,7 @@ type: extracted-insight
 title: "{'content_type': 'audio_transcription', 'text': 'Anyway, how would you think abo"
 date: 2025-10-07
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-251007-00
@@ -15,6 +16,7 @@ aliases: [X-MET-251007-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # {'content_type': 'audio_transcription', 'text': 'Anyway, how would you think abo...

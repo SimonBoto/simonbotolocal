@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0586]
 tags: [chatgpt-archive, adipic_acid, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Fatty Acid Metabolism Pathways

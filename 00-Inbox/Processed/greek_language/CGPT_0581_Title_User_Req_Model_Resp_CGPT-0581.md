@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0581]
 tags: [chatgpt-archive, greek_language]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Title: User Req & Model Resp

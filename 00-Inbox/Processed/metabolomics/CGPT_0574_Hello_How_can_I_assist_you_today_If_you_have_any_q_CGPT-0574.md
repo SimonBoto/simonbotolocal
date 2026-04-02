@@ -8,6 +8,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0574]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, consciousness_ai, greek_language, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hello! How can I assist you today? If you have any questions or need information, feel free to ask.

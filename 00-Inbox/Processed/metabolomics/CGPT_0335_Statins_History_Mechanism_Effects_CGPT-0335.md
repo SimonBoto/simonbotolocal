@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0335]
 tags: [chatgpt-archive, metabolomics, clinical]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Statins: History, Mechanism, Effects

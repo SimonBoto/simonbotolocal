@@ -8,6 +8,7 @@ title: "I remember being on vacation in Samothrace and thinking to stop
 ### 36."
 date: 2025-04-04
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-CON-250404-00
@@ -23,6 +24,7 @@ aliases: [X-CON-250404-00]
 tags: [extracted, insight, consciousness_ai, chatgpt-archive]
 related: ['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # I remember being on vacation in Samothrace and thinking to stop 

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0088]
 tags: [chatgpt-archive, clinical, phd_research, communication]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Personal Growth Strategy Plan

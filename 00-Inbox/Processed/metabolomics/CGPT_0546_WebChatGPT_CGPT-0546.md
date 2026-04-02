@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0546]
 tags: [chatgpt-archive, metabolomics, insulin_resistance]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # WebChatGPT

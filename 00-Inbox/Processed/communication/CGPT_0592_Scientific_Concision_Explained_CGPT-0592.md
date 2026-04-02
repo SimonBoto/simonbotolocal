@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0592]
 tags: [chatgpt-archive, communication]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Scientific Concision Explained

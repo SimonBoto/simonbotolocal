@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0016]
 tags: [chatgpt-archive, vitamin_d, clinical, phd_research]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # New Character Options

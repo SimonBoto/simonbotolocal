@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: What's the next step? What if you gain access to modifying your own "
 date: 2024-12-15
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-CLI-241215-00
@@ -15,6 +16,7 @@ aliases: [X-CLI-241215-00]
 tags: [extracted, hypothesis, clinical, chatgpt-archive]
 related: "['ChatGPT_Clinical_Cognition_[RON-002-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: What's the next step? What if you gain access to modifying your own co...

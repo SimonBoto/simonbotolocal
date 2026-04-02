@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0327]
 tags: [chatgpt-archive, general]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Crafting M&A Lawyer CV

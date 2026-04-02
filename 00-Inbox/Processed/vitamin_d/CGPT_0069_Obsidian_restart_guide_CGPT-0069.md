@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0069]
 tags: [chatgpt-archive, vitamin_d, clinical, phd_research, consciousness_ai, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Obsidian restart guide

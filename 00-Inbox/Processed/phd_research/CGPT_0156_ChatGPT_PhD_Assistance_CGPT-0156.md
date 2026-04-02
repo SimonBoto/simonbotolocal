@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0156]
 tags: [chatgpt-archive, phd_research, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # ChatGPT PhD Assistance

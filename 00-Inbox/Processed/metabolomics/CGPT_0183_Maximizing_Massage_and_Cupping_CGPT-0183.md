@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0183]
 tags: [chatgpt-archive, metabolomics, phd_research, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Maximizing Massage and Cupping

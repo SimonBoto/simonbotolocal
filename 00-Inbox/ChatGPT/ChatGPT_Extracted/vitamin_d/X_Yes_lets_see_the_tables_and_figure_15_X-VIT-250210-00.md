@@ -8,6 +8,7 @@ title: "Yes, lets see the tables and figure
 ### 15."
 date: 2025-02-10
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-VIT-250210-00
@@ -23,6 +24,7 @@ aliases: [X-VIT-250210-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
 related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]']
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Yes, lets see the tables and figure 

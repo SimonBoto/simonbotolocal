@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0062]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # B3 and drug psychosis

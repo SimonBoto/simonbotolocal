@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0032]
 tags: [chatgpt-archive, metabolomics, clinical, consciousness_ai]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Article review preparation

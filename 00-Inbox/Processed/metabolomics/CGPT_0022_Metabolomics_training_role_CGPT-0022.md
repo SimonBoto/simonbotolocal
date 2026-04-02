@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0022]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Metabolomics training role

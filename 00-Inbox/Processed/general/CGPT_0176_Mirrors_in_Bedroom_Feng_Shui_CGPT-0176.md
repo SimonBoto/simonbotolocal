@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0176]
 tags: [chatgpt-archive, general]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Mirrors in Bedroom Feng Shui

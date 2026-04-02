@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0189]
 tags: [chatgpt-archive, insulin_resistance, clinical]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Sirolimus Mitochondrial Toxicity Mechanisms

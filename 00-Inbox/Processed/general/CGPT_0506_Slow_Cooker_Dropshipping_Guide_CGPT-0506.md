@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0506]
 tags: [chatgpt-archive, general]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Slow Cooker Dropshipping Guide

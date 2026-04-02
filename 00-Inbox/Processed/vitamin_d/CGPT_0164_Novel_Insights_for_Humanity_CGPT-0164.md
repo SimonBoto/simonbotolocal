@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0164]
 tags: [chatgpt-archive, vitamin_d, clinical, consciousness_ai, nutrition, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Novel Insights for Humanity

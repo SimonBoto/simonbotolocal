@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0072]
 tags: [chatgpt-archive, metabolomics, greek_language]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Etymological Analysis for Metabolomics

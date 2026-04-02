@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0549]
 tags: [chatgpt-archive, adipic_acid]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Chemical Type of Ascorbate

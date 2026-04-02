@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0090]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition, communication, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Master Throne o3

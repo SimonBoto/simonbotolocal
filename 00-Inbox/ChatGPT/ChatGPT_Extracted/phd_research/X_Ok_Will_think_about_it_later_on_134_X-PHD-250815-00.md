@@ -8,6 +8,7 @@ title: "Ok! Will think about it later on
 ### 134."
 date: 2025-08-15
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-PHD-250815-00
@@ -23,6 +24,7 @@ aliases: [X-PHD-250815-00]
 tags: [extracted, insight, phd_research, chatgpt-archive]
 related: ['ChatGPT_Building_Master_Throne_[RON-004-0007]', 'RON_Genesis_MOC_[RON-004-0001]']
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Ok! Will think about it later on 

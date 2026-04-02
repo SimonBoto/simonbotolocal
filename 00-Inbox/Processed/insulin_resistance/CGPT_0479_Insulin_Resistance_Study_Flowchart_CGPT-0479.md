@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0479]
 tags: [chatgpt-archive, insulin_resistance, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Insulin Resistance Study Flowchart.

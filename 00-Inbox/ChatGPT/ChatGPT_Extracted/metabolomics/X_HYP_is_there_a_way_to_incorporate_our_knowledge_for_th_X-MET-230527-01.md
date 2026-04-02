@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: is there a way to incorporate our knowledge for the dynamics of meta"
 date: 2023-05-27
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-230527-01
@@ -15,6 +16,7 @@ aliases: [X-MET-230527-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: is there a way to incorporate our knowledge for the dynamics of metabo...

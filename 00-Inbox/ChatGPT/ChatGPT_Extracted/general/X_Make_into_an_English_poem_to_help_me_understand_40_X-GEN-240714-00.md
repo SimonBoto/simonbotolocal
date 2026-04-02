@@ -8,6 +8,7 @@ title: "Make into an English poem to help me understand
 ### 40."
 date: 2024-07-14
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-240714-00
@@ -23,6 +24,7 @@ aliases: [X-GEN-240714-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Make into an English poem to help me understand 

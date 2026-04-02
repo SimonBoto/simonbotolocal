@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0019]
 tags: [chatgpt-archive, greek_language, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Etymology Metabolism 

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0252]
 tags: [chatgpt-archive, insulin_resistance, vitamin_d, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Vitamin D MetS K2 Synergy

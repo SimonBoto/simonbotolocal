@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0520]
 tags: [chatgpt-archive, metabolomics, insulin_resistance]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Autoimmune Diseases and Telomeres

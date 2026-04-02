@@ -8,6 +8,7 @@ title: "Let's see mitochondrial
 ### 26."
 date: 2025-06-29
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-250629-00
@@ -23,6 +24,7 @@ aliases: [X-MET-250629-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Let's see mitochondrial 

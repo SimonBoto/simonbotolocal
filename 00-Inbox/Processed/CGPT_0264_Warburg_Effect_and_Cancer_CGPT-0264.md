@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0264]
 tags: [chatgpt-archive, insulin_resistance, clinical, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Warburg Effect and Cancer

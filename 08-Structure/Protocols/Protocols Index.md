@@ -4,6 +4,7 @@ type: index
 title: "Protocols Index"
 date: 2026-04-02
 tags: [index, protocols, processes]
+parent-moc: [[08 Structure Index]]
 ---
 
 # Protocols Index

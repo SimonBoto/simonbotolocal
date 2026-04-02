@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0545]
 tags: [chatgpt-archive, metabolomics, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Statistics 

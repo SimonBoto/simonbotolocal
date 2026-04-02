@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0218]
 tags: [chatgpt-archive, greek_language]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Enipeas in Greek Mythology

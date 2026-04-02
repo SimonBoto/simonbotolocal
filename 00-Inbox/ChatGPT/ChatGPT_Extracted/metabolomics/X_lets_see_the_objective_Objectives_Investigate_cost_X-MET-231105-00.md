@@ -7,6 +7,7 @@ Objectives
 Investigate cost-effectiveness of personaliz"
 date: 2023-11-05
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-231105-00
@@ -21,6 +22,7 @@ aliases: [X-MET-231105-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # lets see the objective 

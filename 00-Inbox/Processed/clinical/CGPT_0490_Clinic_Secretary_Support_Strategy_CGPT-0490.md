@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0490]
 tags: [chatgpt-archive, clinical, phd_research, communication, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Clinic Secretary Support Strategy

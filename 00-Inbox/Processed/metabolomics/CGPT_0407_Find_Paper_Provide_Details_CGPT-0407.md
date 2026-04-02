@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0407]
 tags: [chatgpt-archive, metabolomics, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Find Paper - Provide Details

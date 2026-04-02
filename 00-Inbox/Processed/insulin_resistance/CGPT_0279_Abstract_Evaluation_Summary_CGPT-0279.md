@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0279]
 tags: [chatgpt-archive, insulin_resistance, vitamin_d, clinical]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Abstract Evaluation Summary

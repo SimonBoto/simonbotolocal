@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0021]
 tags: [chatgpt-archive, clinical, consciousness_ai, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Patient guidance phrases

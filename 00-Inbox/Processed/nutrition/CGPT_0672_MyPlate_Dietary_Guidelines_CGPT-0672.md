@@ -8,6 +8,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0672]
 tags: [chatgpt-archive, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # MyPlate Dietary Guidelines

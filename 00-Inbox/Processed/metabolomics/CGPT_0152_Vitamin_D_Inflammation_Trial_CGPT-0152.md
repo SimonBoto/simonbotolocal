@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0152]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, vitamin_d, clinical, phd_research, nutrition, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Vitamin D Inflammation Trial

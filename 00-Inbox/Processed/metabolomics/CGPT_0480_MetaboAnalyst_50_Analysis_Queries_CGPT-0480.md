@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0480]
 tags: [chatgpt-archive, metabolomics]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # MetaboAnalyst 5.0 Analysis Queries

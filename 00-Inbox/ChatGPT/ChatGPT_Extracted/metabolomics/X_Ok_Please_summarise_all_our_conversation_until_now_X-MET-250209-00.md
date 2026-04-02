@@ -8,6 +8,7 @@ Please summarise all our conversation until now
 Use bullets points and try"
 date: 2025-02-09
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-250209-00
@@ -23,6 +24,7 @@ aliases: [X-MET-250209-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Ok!

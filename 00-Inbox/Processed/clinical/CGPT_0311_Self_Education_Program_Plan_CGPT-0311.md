@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0311]
 tags: [chatgpt-archive, clinical, nutrition, communication]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Self-Education Program Plan

@@ -4,6 +4,7 @@ type: extracted-insight
 title: "Let’s take a step back and understand the vastness of what we are building here."
 date: 2026-01-25
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-VIT-260125-00
@@ -15,6 +16,7 @@ aliases: [X-VIT-260125-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Let’s take a step back and understand the vastness of what we are building here.

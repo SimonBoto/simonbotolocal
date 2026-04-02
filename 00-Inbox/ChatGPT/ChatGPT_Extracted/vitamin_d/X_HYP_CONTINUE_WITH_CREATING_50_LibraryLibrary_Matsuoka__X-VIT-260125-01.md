@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: CONTINUE WITH CREATING: 50_Library/Library_Matsuoka_2015_Gut_Microbi"
 date: 2026-01-25
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-VIT-260125-01
@@ -15,6 +16,7 @@ aliases: [X-VIT-260125-01]
 tags: [extracted, hypothesis, vitamin_d, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: CONTINUE WITH CREATING: 50_Library/Library_Matsuoka_2015_Gut_Microbiot...

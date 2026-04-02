@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: Can we have a slight positive bias and try to prove that the money w"
 date: 2024-07-20
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-240720-01
@@ -15,6 +16,7 @@ aliases: [X-GEN-240720-01]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: Can we have a slight positive bias and try to prove that the money wer...

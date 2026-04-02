@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0273]
 tags: [chatgpt-archive, metabolomics, vitamin_d, clinical, consciousness_ai, nutrition, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # AI Lab Report Automation

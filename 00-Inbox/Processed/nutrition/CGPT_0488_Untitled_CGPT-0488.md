@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0488]
 tags: [chatgpt-archive, nutrition, technology, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Untitled

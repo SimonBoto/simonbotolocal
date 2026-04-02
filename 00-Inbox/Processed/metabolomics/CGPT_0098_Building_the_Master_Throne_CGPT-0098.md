@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0098]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Building the Master Throne

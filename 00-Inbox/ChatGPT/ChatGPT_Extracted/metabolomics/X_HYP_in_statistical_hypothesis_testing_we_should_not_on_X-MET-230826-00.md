@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: in statistical hypothesis testing, we should not only report the P v"
 date: 2023-08-26
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-230826-00
@@ -15,6 +16,7 @@ aliases: [X-MET-230826-00]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: in statistical hypothesis testing, we should not only report the P val...

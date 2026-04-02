@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0250]
 tags: [chatgpt-archive, vitamin_d]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Review of Narrative Review

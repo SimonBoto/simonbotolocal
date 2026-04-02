@@ -6,6 +6,7 @@ title: "LET'S REVIEW THIS ORGANISATION REFERENCE BY REFERCE OR LINE BY LINE
 ANIMAL STU"
 date: 2024-11-16
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-INS-241116-00
@@ -19,6 +20,7 @@ aliases: [X-INS-241116-00]
 tags: [extracted, insight, insulin_resistance, chatgpt-archive]
 related: "['RON_Genesis_MOC_[RON-004-0001]', 'ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # LET'S REVIEW THIS ORGANISATION REFERENCE BY REFERCE OR LINE BY LINE 

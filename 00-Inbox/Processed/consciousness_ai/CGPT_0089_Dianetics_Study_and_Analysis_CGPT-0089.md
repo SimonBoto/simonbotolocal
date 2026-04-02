@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0089]
 tags: [chatgpt-archive, consciousness_ai, communication, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Dianetics Study and Analysis

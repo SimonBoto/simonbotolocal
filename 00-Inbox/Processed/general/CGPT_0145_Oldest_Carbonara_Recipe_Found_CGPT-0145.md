@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0145]
 tags: [chatgpt-archive, general]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Oldest Carbonara Recipe Found

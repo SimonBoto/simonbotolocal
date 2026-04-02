@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: What if this radical choice leads to full relapse instead of full re"
 date: 2025-04-28
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-250428-01
@@ -15,6 +16,7 @@ aliases: [X-GEN-250428-01]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: What if this radical choice leads to full relapse instead of full reso...

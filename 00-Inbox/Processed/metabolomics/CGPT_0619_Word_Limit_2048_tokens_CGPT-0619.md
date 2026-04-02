@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0619]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, consciousness_ai, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Word Limit: 2048 tokens

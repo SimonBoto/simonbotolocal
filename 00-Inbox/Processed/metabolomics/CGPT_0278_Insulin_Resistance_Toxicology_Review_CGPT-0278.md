@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0278]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Insulin Resistance Toxicology Review

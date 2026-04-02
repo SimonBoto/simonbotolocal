@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0515]
 tags: [chatgpt-archive, metabolomics, phd_research, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Methodological Issues in Nutrition

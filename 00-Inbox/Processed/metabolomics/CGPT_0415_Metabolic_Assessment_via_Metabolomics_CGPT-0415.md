@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0415]
 tags: [chatgpt-archive, metabolomics, clinical, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Metabolic Assessment via Metabolomics

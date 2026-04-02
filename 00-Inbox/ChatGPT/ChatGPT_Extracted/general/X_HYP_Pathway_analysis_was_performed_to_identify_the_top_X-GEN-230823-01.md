@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: Pathway analysis was performed to identify the top-ranked altered me"
 date: 2023-08-23
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-230823-01
@@ -15,6 +16,7 @@ aliases: [X-GEN-230823-01]
 tags: [extracted, hypothesis, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: Pathway analysis was performed to identify the top-ranked altered meta...

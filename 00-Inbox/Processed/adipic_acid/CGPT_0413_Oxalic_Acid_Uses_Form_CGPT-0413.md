@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0413]
 tags: [chatgpt-archive, adipic_acid]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Oxalic Acid: Uses & Form

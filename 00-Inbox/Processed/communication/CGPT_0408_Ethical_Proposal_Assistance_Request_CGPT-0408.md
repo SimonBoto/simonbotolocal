@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0408]
 tags: [chatgpt-archive, communication]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Ethical Proposal Assistance Request

@@ -4,6 +4,7 @@ type: index
 title: "MOCs Index"
 date: 2026-04-02
 tags: [index, MOCs, maps-of-content]
+parent-moc: [[08 Structure Index]]
 ---
 
 # MOCs Index

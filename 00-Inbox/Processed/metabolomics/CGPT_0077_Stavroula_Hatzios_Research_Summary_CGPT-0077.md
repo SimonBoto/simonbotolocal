@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0077]
 tags: [chatgpt-archive, metabolomics, clinical, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Stavroula Hatzios Research Summary

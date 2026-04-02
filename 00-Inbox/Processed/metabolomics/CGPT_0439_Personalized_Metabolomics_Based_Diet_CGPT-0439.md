@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0439]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Personalized Metabolomics-Based Diet.

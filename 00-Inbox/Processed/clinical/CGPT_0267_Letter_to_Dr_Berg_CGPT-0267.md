@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0267]
 tags: [chatgpt-archive, clinical, nutrition, communication]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Letter to Dr Berg

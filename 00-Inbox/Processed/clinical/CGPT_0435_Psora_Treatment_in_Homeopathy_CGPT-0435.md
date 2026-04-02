@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0435]
 tags: [chatgpt-archive, clinical, philosophy, greek_language]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Psora Treatment in Homeopathy

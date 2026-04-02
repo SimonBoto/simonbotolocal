@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0441]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, vitamin_d, clinical, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Metabo Approach for Insulin.

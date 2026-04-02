@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0620]
 tags: [chatgpt-archive, metabolomics, clinical, consciousness_ai, nutrition, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Digital Twin of Metabolome

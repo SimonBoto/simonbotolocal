@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0205]
 tags: [chatgpt-archive, phd_research, greek_language]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Ethics Committee Follow-Up

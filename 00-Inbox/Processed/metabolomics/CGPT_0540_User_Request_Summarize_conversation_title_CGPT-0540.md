@@ -8,6 +8,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0540]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, nutrition, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # User Request: Summarize conversation title

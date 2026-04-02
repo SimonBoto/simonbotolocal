@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0582]
 tags: [chatgpt-archive, general]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Inflammation in Obesity

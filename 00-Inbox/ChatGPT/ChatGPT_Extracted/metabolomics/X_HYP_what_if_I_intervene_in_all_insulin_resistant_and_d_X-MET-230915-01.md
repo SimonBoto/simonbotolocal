@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: what if I intervene in all insulin resistant and diabetic patients a"
 date: 2023-09-15
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-230915-01
@@ -15,6 +16,7 @@ aliases: [X-MET-230915-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: what if I intervene in all insulin resistant and diabetic patients and...

@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: A more in-depth ontological analysis taking into considaration pathw"
 date: 2024-02-18
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-240218-00
@@ -15,6 +16,7 @@ aliases: [X-MET-240218-00]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: A more in-depth ontological analysis taking into considaration pathway...

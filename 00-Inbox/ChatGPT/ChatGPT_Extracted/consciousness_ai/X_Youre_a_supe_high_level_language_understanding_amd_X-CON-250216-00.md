@@ -4,6 +4,7 @@ type: extracted-insight
 title: "You're a supe high level language understanding amd processing tool, which is th"
 date: 2025-02-16
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-CON-250216-00
@@ -15,6 +16,7 @@ aliases: [X-CON-250216-00]
 tags: [extracted, insight, consciousness_ai, chatgpt-archive]
 related: "['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # You're a supe high level language understanding amd processing tool, which is th...

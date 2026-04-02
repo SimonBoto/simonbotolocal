@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: “Exploring the Synergistic Potential of Vitamin D and Vitamin K2 in "
 date: 2024-11-17
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-VIT-241117-00
@@ -15,6 +16,7 @@ aliases: [X-VIT-241117-00]
 tags: [extracted, hypothesis, vitamin_d, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: “Exploring the Synergistic Potential of Vitamin D and Vitamin K2 in Me...

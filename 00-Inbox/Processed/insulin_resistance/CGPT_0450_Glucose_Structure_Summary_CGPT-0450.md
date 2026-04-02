@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0450]
 tags: [chatgpt-archive, insulin_resistance, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Glucose Structure Summary

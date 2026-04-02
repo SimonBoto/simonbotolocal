@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0456]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, vitamin_d, phd_research, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # PhD Ethical Approval Application

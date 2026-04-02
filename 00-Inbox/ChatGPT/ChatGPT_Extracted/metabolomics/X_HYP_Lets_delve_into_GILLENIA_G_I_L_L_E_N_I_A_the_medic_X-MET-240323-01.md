@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: Let's delve into GILLENIA, G-I-L-L-E-N-I-A, the medicine for MS, its"
 date: 2024-03-23
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-240323-01
@@ -15,6 +16,7 @@ aliases: [X-MET-240323-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: Let's delve into GILLENIA, G-I-L-L-E-N-I-A, the medicine for MS, its m...

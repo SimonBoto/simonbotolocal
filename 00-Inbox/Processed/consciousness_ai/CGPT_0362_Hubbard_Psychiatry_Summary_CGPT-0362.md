@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0362]
 tags: [chatgpt-archive, consciousness_ai, communication]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hubbard Psychiatry Summary

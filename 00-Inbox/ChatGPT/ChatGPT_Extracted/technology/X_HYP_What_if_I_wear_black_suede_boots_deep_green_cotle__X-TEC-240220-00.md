@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: What if I wear black suede boots, deep green cotle pants, black ziva"
 date: 2024-02-20
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-TEC-240220-00
@@ -15,6 +16,7 @@ aliases: [X-TEC-240220-00]
 tags: [extracted, hypothesis, technology, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: What if I wear black suede boots, deep green cotle pants, black zivago...

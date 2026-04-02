@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0268]
 tags: [chatgpt-archive, metabolomics, vitamin_d, clinical, phd_research, nutrition, communication, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Diet Plans and Training

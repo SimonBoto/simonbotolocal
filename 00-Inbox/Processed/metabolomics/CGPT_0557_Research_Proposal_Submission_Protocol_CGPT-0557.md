@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0557]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, greek_language, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Research Proposal Submission Protocol

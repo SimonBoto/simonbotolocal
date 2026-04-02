@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0057]
 tags: [chatgpt-archive, clinical, consciousness_ai, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Building AI App for Healthcare

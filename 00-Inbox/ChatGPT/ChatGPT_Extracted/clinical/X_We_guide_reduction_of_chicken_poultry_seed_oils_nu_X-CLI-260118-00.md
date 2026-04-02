@@ -4,6 +4,7 @@ type: extracted-insight
 title: "We guide reduction of chicken poultry seed oils nuts and supplements 1-3G of fis"
 date: 2026-01-18
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-CLI-260118-00
@@ -15,6 +16,7 @@ aliases: [X-CLI-260118-00]
 tags: [extracted, insight, clinical, chatgpt-archive]
 related: "['ChatGPT_Clinical_Cognition_[RON-002-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # We guide reduction of chicken poultry seed oils nuts and supplements 1-3G of fis...

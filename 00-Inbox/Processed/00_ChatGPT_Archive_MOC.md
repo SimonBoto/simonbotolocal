@@ -11,6 +11,7 @@ tags:
   - chatgpt-archive
   - index
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # ChatGPT Archive — Master Index

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0132]
 tags: [chatgpt-archive, vitamin_d, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Forget everything request

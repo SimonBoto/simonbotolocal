@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0354]
 tags: [chatgpt-archive, phd_research, consciousness_ai]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Glutathione Production Pathway.

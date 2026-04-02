@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0140]
 tags: [chatgpt-archive, consciousness_ai, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # AI Dominance Strategy

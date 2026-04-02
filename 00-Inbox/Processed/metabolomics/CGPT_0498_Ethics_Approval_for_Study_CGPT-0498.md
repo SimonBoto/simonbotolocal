@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0498]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Ethics Approval for Study

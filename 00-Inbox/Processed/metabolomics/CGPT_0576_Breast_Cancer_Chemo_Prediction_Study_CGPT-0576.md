@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0576]
 tags: [chatgpt-archive, metabolomics, clinical, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Breast Cancer Chemo Prediction Study

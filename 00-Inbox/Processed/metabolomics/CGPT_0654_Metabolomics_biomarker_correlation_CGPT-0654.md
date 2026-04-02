@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0654]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Metabolomics biomarker correlation.

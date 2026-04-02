@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0255]
 tags: [chatgpt-archive, vitamin_d, clinical, phd_research, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # MetS Vitamin D K2 Review

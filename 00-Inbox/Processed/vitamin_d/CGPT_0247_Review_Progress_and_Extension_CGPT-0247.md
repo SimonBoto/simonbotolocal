@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0247]
 tags: [chatgpt-archive, vitamin_d]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Review Progress and Extension

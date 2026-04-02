@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0580]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, phd_research, consciousness_ai, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Reviewing Thesis Proposal

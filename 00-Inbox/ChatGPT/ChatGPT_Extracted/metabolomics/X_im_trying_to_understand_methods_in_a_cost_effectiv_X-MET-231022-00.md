@@ -8,6 +8,7 @@ title: "im trying to understand methods in a cost-effectiveness health care stud
 ..."
 date: 2023-10-22
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-231022-00
@@ -23,6 +24,7 @@ aliases: [X-MET-231022-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: ['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # im trying to understand methods in a cost-effectiveness health care study

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0656]
 tags: [chatgpt-archive, vitamin_d, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # New chat

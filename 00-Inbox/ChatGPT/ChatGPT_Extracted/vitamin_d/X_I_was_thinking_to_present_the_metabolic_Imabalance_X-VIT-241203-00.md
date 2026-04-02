@@ -4,6 +4,7 @@ type: extracted-insight
 title: "I was thinking to present the metabolic Imabalances and components of mets, then"
 date: 2024-12-03
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-VIT-241203-00
@@ -15,6 +16,7 @@ aliases: [X-VIT-241203-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # I was thinking to present the metabolic Imabalances and components of mets, then...

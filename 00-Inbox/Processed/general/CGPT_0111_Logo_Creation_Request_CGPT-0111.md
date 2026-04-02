@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0111]
 tags: [chatgpt-archive, general]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Logo Creation Request

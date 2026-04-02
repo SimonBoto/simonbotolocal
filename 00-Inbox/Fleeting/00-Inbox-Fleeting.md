@@ -7,6 +7,7 @@ aliases: [Fleeting, Quick Notes, Captures]
 tags: [index, fleeting, captures, inbox, folder]
 parent-index: 
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # ⚡ 00-Inbox/Fleeting — Quick Captures

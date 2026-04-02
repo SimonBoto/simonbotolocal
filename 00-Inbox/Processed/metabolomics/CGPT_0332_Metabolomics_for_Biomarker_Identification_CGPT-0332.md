@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0332]
 tags: [chatgpt-archive, metabolomics, clinical]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Metabolomics for Biomarker Identification

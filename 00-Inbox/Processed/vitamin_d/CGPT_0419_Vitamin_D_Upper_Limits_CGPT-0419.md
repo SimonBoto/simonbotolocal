@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0419]
 tags: [chatgpt-archive, vitamin_d, clinical, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Vitamin D Upper Limits

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0325]
 tags: [chatgpt-archive, vitamin_d, clinical]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Differential Diagnosis Summary

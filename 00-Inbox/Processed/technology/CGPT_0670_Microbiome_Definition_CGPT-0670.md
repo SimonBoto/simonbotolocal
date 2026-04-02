@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0670]
 tags: [chatgpt-archive, technology, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Microbiome Definition

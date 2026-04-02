@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0110]
 tags: [chatgpt-archive, insulin_resistance]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Davis L. reuteri Yogurt Recipe

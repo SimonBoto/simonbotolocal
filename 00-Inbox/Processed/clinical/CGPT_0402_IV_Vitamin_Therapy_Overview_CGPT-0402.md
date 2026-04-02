@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0402]
 tags: [chatgpt-archive, clinical, nutrition, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # IV Vitamin Therapy Overview

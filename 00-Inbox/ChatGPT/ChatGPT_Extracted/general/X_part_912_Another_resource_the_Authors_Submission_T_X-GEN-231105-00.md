@@ -6,6 +6,7 @@ title: "part 9/12
 Another resource, the Authors' Submission Toolkit: A practical guide"
 date: 2023-11-05
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-231105-00
@@ -19,6 +20,7 @@ aliases: [X-GEN-231105-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # part 9/12 

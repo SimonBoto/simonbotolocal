@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0541]
 tags: [chatgpt-archive, metabolomics, clinical, consciousness_ai, greek_language]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # MaxAI.me - Search With AI

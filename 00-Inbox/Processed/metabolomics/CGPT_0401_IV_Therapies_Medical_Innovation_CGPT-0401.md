@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0401]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, greek_language, technology, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # IV Therapies: Medical Innovation

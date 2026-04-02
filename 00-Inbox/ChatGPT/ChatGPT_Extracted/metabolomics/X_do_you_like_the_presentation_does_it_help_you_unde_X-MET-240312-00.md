@@ -8,6 +8,7 @@ does it help you understand and believe in me?
 "
 date: 2024-03-12
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-240312-00
@@ -23,6 +24,7 @@ aliases: [X-MET-240312-00]
 tags: [extracted, insight, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # do you like the presentation? 

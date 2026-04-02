@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0428]
 tags: [chatgpt-archive, clinical, technology, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Healthcare Procedure Sequence

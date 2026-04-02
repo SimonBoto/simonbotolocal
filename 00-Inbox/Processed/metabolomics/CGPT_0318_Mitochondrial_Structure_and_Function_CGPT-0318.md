@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0318]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Mitochondrial Structure and Function

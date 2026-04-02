@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0265]
 tags: [chatgpt-archive, metabolomics, vitamin_d, clinical, phd_research, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Metabolomics Seminar Planning

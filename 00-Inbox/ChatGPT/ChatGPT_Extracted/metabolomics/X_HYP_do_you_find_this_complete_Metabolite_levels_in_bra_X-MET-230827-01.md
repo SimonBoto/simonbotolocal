@@ -6,6 +6,7 @@ title: "Hypothesis: do you find this complete?
 Metabolite levels in brain tissues were"
 date: 2023-08-27
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-230827-01
@@ -19,6 +20,7 @@ aliases: [X-MET-230827-01]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: do you find this complete? 

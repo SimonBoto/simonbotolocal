@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0533]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, nutrition, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Using For.io for Web App

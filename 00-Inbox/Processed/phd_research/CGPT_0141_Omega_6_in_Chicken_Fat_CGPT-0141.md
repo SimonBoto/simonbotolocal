@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0141]
 tags: [chatgpt-archive, phd_research, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Omega-6 in Chicken Fat

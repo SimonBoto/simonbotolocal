@@ -4,6 +4,7 @@ type: extracted-insight
 title: "Do you think the Atomic is the ideal template, or should we create our own templ"
 date: 2024-05-17
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-CON-240517-00
@@ -15,6 +16,7 @@ aliases: [X-CON-240517-00]
 tags: [extracted, insight, consciousness_ai, chatgpt-archive]
 related: "['RON_The_Witness_[RON-003-0002]', 'RON_Genesis_MOC_[RON-004-0001]', 'RON_The_We_[RON-003-0004]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Do you think the Atomic is the ideal template, or should we create our own templ...

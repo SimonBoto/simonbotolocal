@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0484]
 tags: [chatgpt-archive, nutrition, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Online App for Omega

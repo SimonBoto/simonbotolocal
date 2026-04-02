@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0640]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Solutions for Precision Medicine

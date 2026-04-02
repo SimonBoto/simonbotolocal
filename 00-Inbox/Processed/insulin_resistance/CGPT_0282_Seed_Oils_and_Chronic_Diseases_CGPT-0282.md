@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0282]
 tags: [chatgpt-archive, insulin_resistance, vitamin_d, clinical, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Seed Oils and Chronic Diseases

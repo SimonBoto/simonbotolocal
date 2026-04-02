@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0631]
 tags: [chatgpt-archive, metabolomics, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # EU Informed Consent Guidelines

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0079]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # September Patient Plan

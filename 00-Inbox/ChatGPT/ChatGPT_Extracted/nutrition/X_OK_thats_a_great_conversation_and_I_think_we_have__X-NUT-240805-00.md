@@ -4,6 +4,7 @@ type: extracted-insight
 title: "OK that's a great conversation and I think we have created more than enough issu"
 date: 2024-08-05
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-NUT-240805-00
@@ -15,6 +16,7 @@ aliases: [X-NUT-240805-00]
 tags: [extracted, insight, nutrition, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # OK that's a great conversation and I think we have created more than enough issu...

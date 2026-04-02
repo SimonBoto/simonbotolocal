@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0228]
 tags: [chatgpt-archive, metabolomics, vitamin_d]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Accessing X Account

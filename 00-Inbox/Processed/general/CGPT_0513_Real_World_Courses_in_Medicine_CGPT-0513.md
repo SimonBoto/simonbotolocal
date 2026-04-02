@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0513]
 tags: [chatgpt-archive, general]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Real-World Courses in Medicine

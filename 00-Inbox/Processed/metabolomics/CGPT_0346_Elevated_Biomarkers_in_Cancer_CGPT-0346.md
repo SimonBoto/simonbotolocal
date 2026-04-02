@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0346]
 tags: [chatgpt-archive, metabolomics]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Elevated Biomarkers in Cancer

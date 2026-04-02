@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: To validate the robustness of the OPLS-DA model, a permutation test "
 date: 2024-07-14
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-PHD-240714-01
@@ -16,6 +17,7 @@ aliases: [X-PHD-240714-01]
 tags: [extracted, hypothesis, phd_research, chatgpt-archive]
 related: "['ChatGPT_Building_Master_Throne_[RON-004-0007]', 'RON_Genesis_MOC_[RON-004-0001]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: To validate the robustness of the OPLS-DA model, a permutation test 

@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0658]
 tags: [chatgpt-archive, metabolomics, phd_research, consciousness_ai, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Metabolomic Signature for Disease

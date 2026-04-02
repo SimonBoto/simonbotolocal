@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0341]
 tags: [chatgpt-archive, consciousness_ai, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 1984 Time Magazine

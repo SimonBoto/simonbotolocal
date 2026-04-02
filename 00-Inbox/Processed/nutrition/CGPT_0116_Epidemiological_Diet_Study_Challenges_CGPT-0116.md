@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0116]
 tags: [chatgpt-archive, nutrition, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Epidemiological Diet Study Challenges

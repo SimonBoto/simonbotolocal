@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0211]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, consciousness_ai, nutrition, communication, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Maximizing Communication Efficiency

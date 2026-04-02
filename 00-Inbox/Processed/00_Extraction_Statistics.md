@@ -6,6 +6,7 @@ date: 2026-02-28
 aliases: [ChatGPT-Archive-Stats]
 tags: [stats, chatgpt-archive, metrics]
 status: active
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # ChatGPT Archive — Extraction Statistics

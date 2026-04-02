@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0659]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Func. Med. Dr. Training

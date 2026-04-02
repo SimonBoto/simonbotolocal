@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0333]
 tags: [chatgpt-archive, metabolomics, insulin_resistance]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Glucose Transport Mechanisms

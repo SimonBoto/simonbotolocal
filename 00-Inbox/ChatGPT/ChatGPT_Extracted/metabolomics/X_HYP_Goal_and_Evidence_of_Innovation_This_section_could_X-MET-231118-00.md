@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: Goal and Evidence of Innovation: This section could be more succinct"
 date: 2023-11-18
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-231118-00
@@ -15,6 +16,7 @@ aliases: [X-MET-231118-00]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: Goal and Evidence of Innovation: This section could be more succinct o...

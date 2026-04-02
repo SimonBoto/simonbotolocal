@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0163]
 tags: [chatgpt-archive, consciousness_ai, communication]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Interconnected Consciousness Insight

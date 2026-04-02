@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0225]
 tags: [chatgpt-archive, clinical, greek_language]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Prostate Biopsy Translation

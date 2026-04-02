@@ -4,6 +4,7 @@ type: extracted-insight
 title: "I believe we need more harsh solutions."
 date: 2025-03-13
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-PER-250313-00
@@ -15,6 +16,7 @@ aliases: [X-PER-250313-00]
 tags: [extracted, insight, personal_development, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # I believe we need more harsh solutions.

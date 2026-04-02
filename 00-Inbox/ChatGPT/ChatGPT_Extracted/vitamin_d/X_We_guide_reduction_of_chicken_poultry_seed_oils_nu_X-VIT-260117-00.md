@@ -4,6 +4,7 @@ type: extracted-insight
 title: "We guide reduction of chicken poultry seed oils nuts and supplements 1-3G of fis"
 date: 2026-01-17
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-VIT-260117-00
@@ -15,6 +16,7 @@ aliases: [X-VIT-260117-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # We guide reduction of chicken poultry seed oils nuts and supplements 1-3G of fis...

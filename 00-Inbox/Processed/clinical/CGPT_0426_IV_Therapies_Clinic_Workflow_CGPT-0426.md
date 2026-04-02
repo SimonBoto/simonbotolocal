@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0426]
 tags: [chatgpt-archive, clinical, technology, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # IV Therapies Clinic Workflow

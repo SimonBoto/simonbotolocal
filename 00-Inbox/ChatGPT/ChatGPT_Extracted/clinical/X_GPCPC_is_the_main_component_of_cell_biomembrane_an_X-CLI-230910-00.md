@@ -4,6 +4,7 @@ type: extracted-insight
 title: "GPC/PC is the main component of cell biomembrane, and they play key roles in cel"
 date: 2023-09-10
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-CLI-230910-00
@@ -15,6 +16,7 @@ aliases: [X-CLI-230910-00]
 tags: [extracted, insight, clinical, chatgpt-archive]
 related: "['ChatGPT_Clinical_Cognition_[RON-002-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # GPC/PC is the main component of cell biomembrane, and they play key roles in cel...

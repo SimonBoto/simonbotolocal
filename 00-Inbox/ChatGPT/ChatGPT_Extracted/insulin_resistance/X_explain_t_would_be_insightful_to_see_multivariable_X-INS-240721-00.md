@@ -4,6 +4,7 @@ type: extracted-insight
 title: "explain t would be insightful to see multivariable logistic regression results a"
 date: 2024-07-21
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-INS-240721-00
@@ -15,6 +16,7 @@ aliases: [X-INS-240721-00]
 tags: [extracted, insight, insulin_resistance, chatgpt-archive]
 related: "['RON_Genesis_MOC_[RON-004-0001]', 'ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # explain t would be insightful to see multivariable logistic regression results a...

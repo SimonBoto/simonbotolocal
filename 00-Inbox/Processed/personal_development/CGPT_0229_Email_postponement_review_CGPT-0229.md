@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0229]
 tags: [chatgpt-archive, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Email postponement review

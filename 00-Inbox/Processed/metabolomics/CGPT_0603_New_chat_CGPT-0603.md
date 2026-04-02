@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0603]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, phd_research, greek_language, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # New chat

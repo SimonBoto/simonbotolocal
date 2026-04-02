@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0651]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Biomarkers for disease research.

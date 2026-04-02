@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0661]
 tags: [chatgpt-archive, metabolomics, clinical, phd_research, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Metabolomics PhD Titles.

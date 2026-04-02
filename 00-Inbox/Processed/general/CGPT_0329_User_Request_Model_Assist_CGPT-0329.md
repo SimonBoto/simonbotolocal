@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0329]
 tags: [chatgpt-archive, general]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # User Request, Model Assist

@@ -4,6 +4,7 @@ type: extracted-insight
 title: "We actually want a very simple bot to see if patients follow the guidance they a"
 date: 2025-02-23
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-VIT-250223-00
@@ -15,6 +16,7 @@ aliases: [X-VIT-250223-00]
 tags: [extracted, insight, vitamin_d, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # We actually want a very simple bot to see if patients follow the guidance they a...

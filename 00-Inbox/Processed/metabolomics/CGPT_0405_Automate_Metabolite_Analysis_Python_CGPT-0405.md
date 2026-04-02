@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0405]
 tags: [chatgpt-archive, metabolomics, technology]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Automate Metabolite Analysis Python

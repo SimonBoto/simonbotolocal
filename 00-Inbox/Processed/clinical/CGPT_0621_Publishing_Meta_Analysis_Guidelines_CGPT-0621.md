@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0621]
 tags: [chatgpt-archive, clinical, phd_research]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Publishing Meta-Analysis Guidelines

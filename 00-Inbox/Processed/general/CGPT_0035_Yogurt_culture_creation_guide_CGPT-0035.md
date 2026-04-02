@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0035]
 tags: [chatgpt-archive, general]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Yogurt culture creation guide

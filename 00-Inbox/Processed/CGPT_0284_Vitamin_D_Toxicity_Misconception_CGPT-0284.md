@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0284]
 tags: [chatgpt-archive, vitamin_d, clinical]
 status: inbox-pending
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Vitamin D Toxicity Misconception

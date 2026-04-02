@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0142]
 tags: [chatgpt-archive, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # BI-RADS 2 Benign Probability

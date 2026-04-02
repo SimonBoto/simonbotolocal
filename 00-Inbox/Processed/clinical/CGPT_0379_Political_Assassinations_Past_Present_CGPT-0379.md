@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0379]
 tags: [chatgpt-archive, clinical, phd_research, consciousness_ai]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Political Assassinations: Past & Present

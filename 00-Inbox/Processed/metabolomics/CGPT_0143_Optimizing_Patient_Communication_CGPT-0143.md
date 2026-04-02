@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0143]
 tags: [chatgpt-archive, metabolomics, vitamin_d, clinical, philosophy, nutrition, communication, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Optimizing Patient Communication

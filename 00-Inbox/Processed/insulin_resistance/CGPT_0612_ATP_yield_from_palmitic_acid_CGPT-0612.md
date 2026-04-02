@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0612]
 tags: [chatgpt-archive, insulin_resistance, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # ATP yield from palmitic acid

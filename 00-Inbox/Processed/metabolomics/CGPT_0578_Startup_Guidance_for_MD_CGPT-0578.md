@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0578]
 tags: [chatgpt-archive, metabolomics, clinical, nutrition, technology, personal_development]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Startup Guidance for MD

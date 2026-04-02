@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0536]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, clinical, phd_research, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Structured Abstract Guidelines Explained

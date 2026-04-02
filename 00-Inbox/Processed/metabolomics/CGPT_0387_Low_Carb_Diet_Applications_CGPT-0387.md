@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0387]
 tags: [chatgpt-archive, metabolomics, insulin_resistance, vitamin_d, clinical, phd_research, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Low-Carb Diet Applications

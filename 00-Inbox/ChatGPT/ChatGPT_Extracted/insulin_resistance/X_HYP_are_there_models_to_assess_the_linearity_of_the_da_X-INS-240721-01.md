@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: are there models to assess the linearity of the data in the begining"
 date: 2024-07-21
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-INS-240721-01
@@ -16,6 +17,7 @@ aliases: [X-INS-240721-01]
 tags: [extracted, hypothesis, insulin_resistance, chatgpt-archive]
 related: "['RON_Genesis_MOC_[RON-004-0001]', 'ChatGPT_PhD_Insulin_Resistance_[RON-004-0003]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: are there models to assess the linearity of the data in the begining?

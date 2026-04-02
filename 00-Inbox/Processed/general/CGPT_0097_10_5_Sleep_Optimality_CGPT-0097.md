@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0097]
 tags: [chatgpt-archive, general]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # 10-5 Sleep Optimality

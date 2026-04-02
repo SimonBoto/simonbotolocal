@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0347]
 tags: [chatgpt-archive, insulin_resistance, clinical, phd_research, consciousness_ai]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Maximize Clinical Trial Approval

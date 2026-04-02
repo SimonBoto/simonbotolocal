@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: CGPT-0344]
 tags: [chatgpt-archive, nutrition]
 status: archived
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # First Food Pyramid 1992

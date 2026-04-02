@@ -4,6 +4,7 @@ type: extracted-hypothesis
 title: "Hypothesis: what could the eligibility criteria for such a study be? what inteve"
 date: 2023-05-10
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-MET-230510-00
@@ -15,6 +16,7 @@ aliases: [X-MET-230510-00]
 tags: [extracted, hypothesis, metabolomics, chatgpt-archive]
 related: "['RON_Adipic_Acid_Biomarker_[RON-000-0008]', 'RON_Metabolomics_Phenotype_[RON-000-0007]']"
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # Hypothesis: what could the eligibility criteria for such a study be? what intevent...

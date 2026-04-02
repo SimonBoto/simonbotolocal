@@ -6,6 +6,7 @@ title: "I want to start writing a book on what I do,
 On how i see healing and medicine "
 date: 2025-04-25
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 uid: X-GEN-250425-00
@@ -19,6 +20,7 @@ aliases: [X-GEN-250425-00]
 tags: [extracted, insight, general, chatgpt-archive]
 related: []
 status: conscious
+parent-moc: [[MOC-CGPT-Archive]]
 ---
 
 # I want to start writing a book on what I do,
