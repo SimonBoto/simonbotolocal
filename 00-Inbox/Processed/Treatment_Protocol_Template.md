@@ -95,3 +95,6 @@ tags: [fleeting, template, clinic, treatment, protocol, supplements]
 
 *Template extracted from: ΠΡΟΤ ΑΓΩΓΗ.docx*  
 *Translation date: 2026-02-25*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

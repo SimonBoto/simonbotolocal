@@ -261,4 +261,6 @@ CH₃(CH₂)₇CH=CH(CH₂)₇COOH  or  C18H34O₂
 *Extracted: 2026-03-08 | Source: CGPT-0586 | RON v2.5*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

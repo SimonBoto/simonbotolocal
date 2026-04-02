@@ -128,3 +128,6 @@ By using a combination of these tests, clinicians can achieve a more accurate as
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

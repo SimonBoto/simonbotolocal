@@ -190,4 +190,6 @@ dysfunction)    activation)
 *Zettels extracted: 5*  
 *Status: extracted*
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

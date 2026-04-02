@@ -1726,3 +1726,6 @@ In summary, your review seems appropriately rigorous given the issues at stake. 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

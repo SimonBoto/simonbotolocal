@@ -559,3 +559,6 @@ To support the selection of specific micronutrients in your document, you can:
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

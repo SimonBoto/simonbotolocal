@@ -1128,3 +1128,6 @@ Would you like me to **propose a safe Anticipated Enrollment strategy** next (ba
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

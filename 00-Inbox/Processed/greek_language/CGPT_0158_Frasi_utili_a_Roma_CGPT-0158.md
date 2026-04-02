@@ -218,3 +218,6 @@ By familiarizing yourself with these key phrases, you will be able to navigate c
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

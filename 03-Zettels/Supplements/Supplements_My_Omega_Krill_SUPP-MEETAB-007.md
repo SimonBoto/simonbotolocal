@@ -121,3 +121,6 @@ Take 2 softgels daily.
 
 - Up: [[MOC-Lipid-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

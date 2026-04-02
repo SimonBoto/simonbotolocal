@@ -1494,3 +1494,6 @@ Would you like me to give you the **full final recipe card (with cream included,
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

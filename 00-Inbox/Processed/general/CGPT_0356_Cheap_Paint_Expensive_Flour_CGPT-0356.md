@@ -57,3 +57,6 @@ Good morning! It sounds like you might be referring to the prices of different i
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

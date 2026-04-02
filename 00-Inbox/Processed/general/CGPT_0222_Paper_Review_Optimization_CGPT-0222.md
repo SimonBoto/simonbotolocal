@@ -364,3 +364,6 @@ This detailed approach sets a solid foundation for rigorously analyzing and disc
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

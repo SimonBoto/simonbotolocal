@@ -179,3 +179,6 @@ Sirolimus is strongly linked to impaired glucose metabolism and an increased ris
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

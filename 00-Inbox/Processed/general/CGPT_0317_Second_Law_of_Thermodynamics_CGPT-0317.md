@@ -308,3 +308,6 @@ While the core of Darwinian theory—evolution through natural selection—remai
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

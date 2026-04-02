@@ -150,3 +150,6 @@ All the files uploaded by the user have been fully loaded. Searching won't provi
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

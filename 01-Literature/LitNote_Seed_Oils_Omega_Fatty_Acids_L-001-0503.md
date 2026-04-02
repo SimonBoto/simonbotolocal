@@ -453,4 +453,6 @@ Docosahexaenoic Acid (DHA, 22:6 n-3)
 *Literature note processed: 2026-03-01*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

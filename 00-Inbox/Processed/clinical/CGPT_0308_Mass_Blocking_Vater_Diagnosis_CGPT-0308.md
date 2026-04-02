@@ -69,3 +69,6 @@ Given the complexity of this area and the potential for serious conditions, a mu
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

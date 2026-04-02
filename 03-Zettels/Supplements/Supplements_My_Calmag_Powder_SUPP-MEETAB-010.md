@@ -81,3 +81,6 @@ Dissolve 1/2 dose in cold or room temperature water. **DO NOT USE IN HOT OR BOIL
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

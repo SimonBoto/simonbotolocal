@@ -438,3 +438,6 @@ The parts of the thesis that could potentially lead to rejection typically invol
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

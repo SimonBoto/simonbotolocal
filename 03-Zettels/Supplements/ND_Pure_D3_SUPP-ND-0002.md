@@ -95,3 +95,6 @@ Take 1 drop daily with water, juice, or as directed by your physician. Shake wel
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

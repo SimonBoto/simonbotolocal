@@ -229,4 +229,6 @@ Isoleucine, Phenylalanine, Tryptophan, Tyrosine
 *Extracted: 2026-03-04 | Batch 4 of 5 from CGPT-0445*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

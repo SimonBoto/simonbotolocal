@@ -159,3 +159,6 @@ In conclusion, while PCA can be useful for visualizing the overall differences i
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

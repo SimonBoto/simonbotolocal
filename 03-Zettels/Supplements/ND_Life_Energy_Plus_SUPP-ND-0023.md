@@ -117,3 +117,6 @@ Take 1 capsule daily with water or as directed by your physician.
 
 - Up: [[MOC-Mitochondrial-Function]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

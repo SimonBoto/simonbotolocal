@@ -51,3 +51,6 @@ If sth has pH 1, how much should it be diluted with water to get to 6
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

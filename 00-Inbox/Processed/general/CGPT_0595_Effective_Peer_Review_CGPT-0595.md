@@ -3162,3 +3162,6 @@ Without the raw data or the sum of ranks for each group, calculating the U stati
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

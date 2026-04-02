@@ -165,4 +165,6 @@ Magnesium has emerged as a key factor in preventing vascular calcification, part
 *Status: extracted*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

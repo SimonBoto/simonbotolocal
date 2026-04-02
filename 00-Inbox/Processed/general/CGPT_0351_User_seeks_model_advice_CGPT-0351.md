@@ -103,3 +103,6 @@ For example, if you have 1 mL of the original solution, you would need to add 99
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

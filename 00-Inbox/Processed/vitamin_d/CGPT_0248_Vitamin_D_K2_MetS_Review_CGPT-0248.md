@@ -2395,3 +2395,6 @@ Could you please clarify your last message? It seems there might be a typo or in
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

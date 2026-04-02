@@ -117,3 +117,6 @@ By incorporating enrichment analysis into your metabolomics research, you can tr
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

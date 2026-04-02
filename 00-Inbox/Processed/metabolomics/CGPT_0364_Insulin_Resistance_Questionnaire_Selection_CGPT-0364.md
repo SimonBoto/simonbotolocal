@@ -2031,3 +2031,6 @@ If you can provide specific text or sections from the PDF, I can give more detai
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

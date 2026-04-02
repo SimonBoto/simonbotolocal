@@ -69,3 +69,6 @@ And use bullets to provide the info that must be included
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 8.9/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

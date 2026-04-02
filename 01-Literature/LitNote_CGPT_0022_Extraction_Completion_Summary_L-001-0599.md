@@ -144,4 +144,6 @@ All files committed to main branch with descriptive messages.
 - [x] Curriculum complete
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

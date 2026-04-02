@@ -140,4 +140,6 @@ Threonine → propionyl-CoA → methylmalonyl-CoA → succinyl-CoA
 *Processed: 2026-03-04*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

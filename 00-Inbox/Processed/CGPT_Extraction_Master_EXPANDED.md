@@ -438,3 +438,6 @@
 *Expanded: 2026-03-04*  
 *Total tracked: 150 P0-P1 conversations with full metadata*  
 *Method: 15 batches × 10, systematic extraction*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -86,4 +86,6 @@ Fatty acids → Acetyl-CoA → Acetoacetate (primary ketone)
 *Status: extracted*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

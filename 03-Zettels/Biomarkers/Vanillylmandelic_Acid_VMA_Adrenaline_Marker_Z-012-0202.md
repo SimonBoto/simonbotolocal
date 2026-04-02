@@ -194,3 +194,6 @@ Tyrosine → Dopamine → Noradrenaline → Adrenaline → VMA
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

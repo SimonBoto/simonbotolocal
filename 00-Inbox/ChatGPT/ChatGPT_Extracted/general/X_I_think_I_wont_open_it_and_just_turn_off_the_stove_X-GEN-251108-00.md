@@ -81,3 +81,6 @@ Extracted from conversation on 2025-11-08 about "Yogurt culture creation guide".
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 9.8/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -828,4 +828,6 @@ last-reviewed: 2026-03-30
 next-review: Prior to program launch
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[04-Synthesis]]

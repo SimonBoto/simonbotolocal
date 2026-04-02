@@ -324,3 +324,6 @@ Remember, the key to being fashionably late is to do it with grace and considera
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

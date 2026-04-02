@@ -86,3 +86,6 @@ each current bullet needs at least 3-7 subtopics
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 9.0/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

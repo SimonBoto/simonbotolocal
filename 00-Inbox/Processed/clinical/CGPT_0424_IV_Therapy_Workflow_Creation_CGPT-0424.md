@@ -112,3 +112,6 @@ Objective: Conclude the treatment session and plan for subsequent care or treatm
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

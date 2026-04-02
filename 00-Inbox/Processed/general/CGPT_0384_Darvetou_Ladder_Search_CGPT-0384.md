@@ -57,3 +57,6 @@ It sounds like you might be referencing something specific, but I'm not familiar
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

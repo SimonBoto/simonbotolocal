@@ -325,3 +325,6 @@ Whether you're dealing with a chronic health condition, looking to optimize your
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

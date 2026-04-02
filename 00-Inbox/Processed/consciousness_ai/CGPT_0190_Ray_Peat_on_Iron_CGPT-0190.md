@@ -115,3 +115,6 @@ If you have any specific clinical considerations or want to discuss iron's role 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

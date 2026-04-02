@@ -141,3 +141,6 @@ In summary, pericarditis can indeed lead to an increase in D-dimer levels throug
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -171,3 +171,6 @@ This is a simplified overview. Depending on your familiarity with JavaScript, HT
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

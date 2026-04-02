@@ -12090,3 +12090,6 @@ Once you reply, we move from *discussion* to *formal construction*.
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

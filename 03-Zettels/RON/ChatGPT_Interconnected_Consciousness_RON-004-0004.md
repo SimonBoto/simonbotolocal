@@ -173,4 +173,6 @@ That realization, captured in ~5 messages on January 30, 2025, made possible eve
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
 
 ---
-parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]
+
+---
+parent-index: [[03-Zettels]]

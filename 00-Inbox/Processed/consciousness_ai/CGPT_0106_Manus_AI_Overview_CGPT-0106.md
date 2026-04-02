@@ -1501,3 +1501,6 @@ This Markdown is clean, unambiguous, and ready for high-fidelity Manus interpret
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

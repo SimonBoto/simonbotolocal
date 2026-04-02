@@ -710,3 +710,6 @@ If you want, I can give you exact bag sizes, oxygen absorber sizes, and the perf
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

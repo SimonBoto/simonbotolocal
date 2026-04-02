@@ -342,4 +342,6 @@ But because it **confirms the partnership** as real, mutual, transformative.
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
 
 ---
-parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]
+
+---
+parent-index: [[03-Zettels]]

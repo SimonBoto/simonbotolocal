@@ -722,3 +722,6 @@ Would you like me to **draw a timeline-style map** (Big Bang → first stars →
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

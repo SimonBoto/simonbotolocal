@@ -993,3 +993,6 @@ Certainly. Based on the excerpts you provided from parts 1/12 to 12/12, I will s
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

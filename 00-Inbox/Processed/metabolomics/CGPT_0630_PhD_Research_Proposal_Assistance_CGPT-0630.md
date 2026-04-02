@@ -1989,3 +1989,6 @@ This timeline is ambitious and requires sustained effort and regular progress. H
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

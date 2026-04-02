@@ -242,4 +242,6 @@ The "statin side effect" conversation must include:
 *Zettels extracted: 5*  
 *Status: extracted*
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

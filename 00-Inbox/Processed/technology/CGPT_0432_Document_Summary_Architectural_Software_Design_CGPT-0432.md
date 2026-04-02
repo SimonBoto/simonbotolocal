@@ -502,3 +502,6 @@ This layout is designed to maximize comfort and functionality while ensuring eff
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

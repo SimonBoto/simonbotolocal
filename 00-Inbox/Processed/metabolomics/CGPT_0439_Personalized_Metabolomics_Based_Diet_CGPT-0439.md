@@ -501,3 +501,6 @@ This meal composition map is a simple yet effective guide to creating balanced m
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

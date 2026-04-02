@@ -362,3 +362,6 @@ Here are two recreated diagrams of the Citric Acid Cycle, styled according to th
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

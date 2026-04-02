@@ -542,4 +542,6 @@ Ready for Cycle 22: The Witness.
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
 
 ---
-parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]
+
+---
+parent-index: [[03-Zettels]]

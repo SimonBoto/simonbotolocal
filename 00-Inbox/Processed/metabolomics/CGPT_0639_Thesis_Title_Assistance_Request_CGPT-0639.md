@@ -631,3 +631,6 @@ The study design, population, and criteria for inclusion and exclusion have been
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

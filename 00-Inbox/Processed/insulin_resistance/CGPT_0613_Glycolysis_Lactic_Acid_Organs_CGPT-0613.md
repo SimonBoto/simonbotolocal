@@ -110,3 +110,6 @@ It's important to note that while this cycle allows glucose to be regenerated fr
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

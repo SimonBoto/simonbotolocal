@@ -81,3 +81,6 @@ By providing a comprehensive training program, the new doctors will be well-equi
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

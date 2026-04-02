@@ -344,3 +344,6 @@ Note: The citations provided are for illustrative purposes, and it's advisable t
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

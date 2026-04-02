@@ -193,3 +193,6 @@ Given these factors, focusing on diabetes is both relevant and significant. Whet
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

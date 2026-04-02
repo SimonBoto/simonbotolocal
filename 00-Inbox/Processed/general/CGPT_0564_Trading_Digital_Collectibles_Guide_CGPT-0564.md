@@ -610,3 +610,6 @@ Remember, while these strategies can enhance the chances of early profit, there'
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

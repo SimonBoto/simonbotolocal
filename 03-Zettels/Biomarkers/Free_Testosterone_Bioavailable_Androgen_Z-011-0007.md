@@ -189,3 +189,6 @@ source-litnote: Synthesized from clinical practice
 
 - Up: [[MOC-Thyroid-Function]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

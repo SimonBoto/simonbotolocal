@@ -940,3 +940,6 @@ By following these steps, you can ensure your CV is concise, impactful, and alig
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

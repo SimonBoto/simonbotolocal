@@ -207,4 +207,6 @@ domain: 001
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

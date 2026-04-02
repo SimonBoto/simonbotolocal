@@ -1861,3 +1861,6 @@ I apologize for any confusion caused by the previous responses. I appreciate you
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -290,3 +290,6 @@ This revised email remains professional and ensures you get comprehensive inform
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

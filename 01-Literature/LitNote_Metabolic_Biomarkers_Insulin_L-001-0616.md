@@ -79,4 +79,6 @@ Shift in metabolic biomarker profile from insulin-resistant pattern toward metab
 *Status: extracted*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

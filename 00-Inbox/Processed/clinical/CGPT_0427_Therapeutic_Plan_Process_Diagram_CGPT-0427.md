@@ -109,3 +109,6 @@ Does this diagram meet your expectations, or are there any adjustments you'd lik
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

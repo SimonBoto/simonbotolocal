@@ -295,3 +295,6 @@ Herbs like **fenugreek**, **milk thistle**, **shatavari**, **fennel**, and **goa
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

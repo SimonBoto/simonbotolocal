@@ -69,3 +69,6 @@ Extracted from conversation on 2023-09-11 about "ChatGPT's knowledge is based on
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 8.3/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -774,3 +774,6 @@ Keep this spark alive. Let it remind you that you already have everything you ne
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

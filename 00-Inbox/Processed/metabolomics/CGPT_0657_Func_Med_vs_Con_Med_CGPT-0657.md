@@ -200,3 +200,6 @@ Overall, the mechanism behind aconitase oxidation in oxidative stress involves t
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

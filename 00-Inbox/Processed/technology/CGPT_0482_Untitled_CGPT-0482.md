@@ -160,3 +160,6 @@ The specific meaning of "capital" in a given context depends on the subject matt
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

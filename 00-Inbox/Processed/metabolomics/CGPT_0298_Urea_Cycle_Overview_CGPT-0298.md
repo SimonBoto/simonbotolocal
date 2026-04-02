@@ -130,3 +130,6 @@ Thus, **increased glycogen synthesis** is a major anabolic effect of insulin in 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

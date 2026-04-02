@@ -1416,3 +1416,6 @@ Using these summaries as a starting point, you can create your own daily one-pag
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

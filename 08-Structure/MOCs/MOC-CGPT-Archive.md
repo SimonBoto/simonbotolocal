@@ -67,3 +67,6 @@ See: [[Research_Agenda]]] — Prioritized hypotheses from 2 years of conversatio
 
 ---
 parent-index: [[08 Structure Index]], [[MOCs Index]]
+
+---
+parent-moc: [[MOC-INDEX]]

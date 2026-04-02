@@ -854,4 +854,6 @@ last-reviewed: 2026-03-30
 next-review: Upon regulatory changes or new study initiation
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[04-Synthesis]]

@@ -673,3 +673,6 @@ The process of emulsification by bile salts and acids is a key aspect of the dig
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

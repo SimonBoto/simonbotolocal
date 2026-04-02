@@ -195,4 +195,6 @@ Decanoyl-CoA → (ω-oxidation in ER) → Sebacyl-CoA intermediates → Sebacate
 *Extracted: 2026-03-08 | Source: CGPT-0586 | RON v2.5*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

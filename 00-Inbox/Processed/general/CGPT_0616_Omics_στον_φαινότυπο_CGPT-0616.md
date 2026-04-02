@@ -353,3 +353,6 @@ So, the conversion of nitrogen in the form of an amino group (NH2) into ammonia 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

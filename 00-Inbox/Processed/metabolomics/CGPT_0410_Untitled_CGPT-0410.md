@@ -138,3 +138,6 @@ If you are asking whether you can use a service like ChatGPT provided by OpenAI 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

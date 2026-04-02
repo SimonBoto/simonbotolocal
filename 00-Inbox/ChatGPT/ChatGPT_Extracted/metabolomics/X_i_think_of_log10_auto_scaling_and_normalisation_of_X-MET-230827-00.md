@@ -64,3 +64,6 @@ i think of log10, auto-scaling and normalisation of the old to ...
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 10.0/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

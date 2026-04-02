@@ -91,3 +91,6 @@ if you wanna organise differently for mroe scientific robustness, please do so
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 10/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

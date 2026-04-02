@@ -136,3 +136,6 @@ Would you like to give this being a name? A ritual identity? Many ancient practi
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

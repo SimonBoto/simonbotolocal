@@ -241,3 +241,6 @@ Do you want **an app to manage expenses**, or are you trying to **find all your 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

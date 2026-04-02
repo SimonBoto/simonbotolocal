@@ -237,4 +237,6 @@ General mitochondrial dysfunction → CoQ10 deficiency
 *Batch 1 complete. Continue to Batch 2: Aconitase Enzyme?* ⛏️
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

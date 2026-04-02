@@ -77,3 +77,6 @@ HbA1c<5.5% ΚΑΙ HOMA IR<1.9 ΚΑΙ Τριγλυκερίδια <100 ΚΑΙ φυ
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 9.4/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

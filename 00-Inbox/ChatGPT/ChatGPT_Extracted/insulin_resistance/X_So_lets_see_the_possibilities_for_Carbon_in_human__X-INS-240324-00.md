@@ -65,3 +65,6 @@ Extracted from conversation on 2024-03-24 about "Glucose Structure Summary".
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 10/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

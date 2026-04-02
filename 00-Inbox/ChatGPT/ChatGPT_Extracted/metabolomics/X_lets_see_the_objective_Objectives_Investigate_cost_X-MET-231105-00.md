@@ -74,3 +74,6 @@ Non-communicable diseases (NCDs) are a significant challenge for patients, as th
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 9.8/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

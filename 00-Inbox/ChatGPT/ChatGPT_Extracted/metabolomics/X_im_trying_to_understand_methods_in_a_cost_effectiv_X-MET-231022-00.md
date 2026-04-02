@@ -75,3 +75,6 @@ Subject characteristics and demographics are reported in Table 1. Questionnaire 
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 8.5/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -1270,3 +1270,6 @@ Thank you! I'm glad you found the information helpful. If you have any more ques
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

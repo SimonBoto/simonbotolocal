@@ -219,3 +219,6 @@ Would you like me to prepare that as a **concise handout** (PDF/Word), so you ca
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

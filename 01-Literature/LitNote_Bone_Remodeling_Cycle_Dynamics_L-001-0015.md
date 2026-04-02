@@ -141,4 +141,6 @@ domain: 001
 **Next:** LitNote 7 — Anabolic Bone Therapies (from pharmacology section)
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

@@ -83,3 +83,6 @@ If you want, I can extract effect sizes (HRs, CIs) from each primary paper and t
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

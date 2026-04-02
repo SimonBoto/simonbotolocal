@@ -1007,3 +1007,6 @@ If you need further assistance during any of these steps, JotForm’s extensive 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

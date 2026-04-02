@@ -1534,3 +1534,6 @@ If the second still shows an Ollama timeout, we’ll adjust one thing (the disco
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -69,3 +69,6 @@ I'm currently unable to open and read the file directly. However, you can descri
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

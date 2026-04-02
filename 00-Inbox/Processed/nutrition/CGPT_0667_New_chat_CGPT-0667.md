@@ -59,3 +59,6 @@ Explain in detail 2-hydroxybutyrate metabolism. Give me a step by step analysis 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

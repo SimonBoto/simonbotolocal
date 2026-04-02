@@ -4814,3 +4814,6 @@ If you want, I can draw you a **text-diagram** showing the exact angles for your
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

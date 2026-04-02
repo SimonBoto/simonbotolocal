@@ -98,3 +98,6 @@ Here is the professional diagram that outlines the different phases of a clinic 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

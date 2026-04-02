@@ -285,3 +285,6 @@ In summary, while the Seven Countries Study significantly influenced dietary gui
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

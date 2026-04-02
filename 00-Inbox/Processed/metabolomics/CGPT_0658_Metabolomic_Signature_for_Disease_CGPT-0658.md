@@ -147,3 +147,6 @@ As an AI language model, I cannot directly access current databases or calculate
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

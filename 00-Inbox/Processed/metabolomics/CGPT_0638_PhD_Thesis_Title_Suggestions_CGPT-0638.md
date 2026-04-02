@@ -105,3 +105,6 @@ In this thesis, we will first review the current literature on insulin resistanc
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

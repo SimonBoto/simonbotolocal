@@ -138,3 +138,6 @@ The proposed PhD research aims at the advancement of early diagnostic strategies
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

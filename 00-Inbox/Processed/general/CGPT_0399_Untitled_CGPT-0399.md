@@ -51,3 +51,6 @@ Recently there have been major shifts in food supply and buying. How can we stud
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

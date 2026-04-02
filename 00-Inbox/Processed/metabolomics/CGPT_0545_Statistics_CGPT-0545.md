@@ -1164,3 +1164,6 @@ In summary, Spearman's rank correlation is a valuable tool for assessing associa
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -285,4 +285,6 @@ Confirm findings
 *Last reviewed: 2026-03-02*  
 *Status: extracted — review in 30 days*
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

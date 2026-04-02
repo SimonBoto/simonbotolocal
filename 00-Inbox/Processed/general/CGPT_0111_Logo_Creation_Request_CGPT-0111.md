@@ -287,3 +287,6 @@ No fills, no pastels, just what you asked for: **pure linework** and subtle symb
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

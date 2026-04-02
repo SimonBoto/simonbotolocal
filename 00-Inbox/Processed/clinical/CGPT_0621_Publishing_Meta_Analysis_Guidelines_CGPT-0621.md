@@ -3007,3 +3007,6 @@ Please let me know if you'd like to expand on any of these areas or if there's a
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

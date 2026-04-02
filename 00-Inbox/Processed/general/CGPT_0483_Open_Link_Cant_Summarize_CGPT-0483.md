@@ -69,3 +69,6 @@ I'm sorry, but I can't directly open or access links. However, if you could prov
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

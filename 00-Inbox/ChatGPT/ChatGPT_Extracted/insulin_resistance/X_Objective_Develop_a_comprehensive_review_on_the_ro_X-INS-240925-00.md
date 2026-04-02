@@ -69,3 +69,6 @@ Extract in pdf
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 8.5/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

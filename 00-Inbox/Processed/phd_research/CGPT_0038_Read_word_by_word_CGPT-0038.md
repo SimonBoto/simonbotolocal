@@ -361,3 +361,6 @@ Some 2018–2024 reviews (including in nephrology and diabetology) take a balanc
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

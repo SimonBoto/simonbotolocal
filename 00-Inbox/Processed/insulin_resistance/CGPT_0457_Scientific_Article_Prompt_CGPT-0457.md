@@ -1166,3 +1166,6 @@ I’ll continue with the subsequent parts, ensuring that the references are list
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

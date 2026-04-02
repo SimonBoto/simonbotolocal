@@ -146,3 +146,6 @@ Blocks in Krebs cycle → metabolic stress → body struggles metabolically → 
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

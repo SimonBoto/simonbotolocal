@@ -85,3 +85,6 @@ i want to create 7 core powerpoint slides. help me with their title, outline and
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 10/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

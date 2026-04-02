@@ -308,3 +308,6 @@ Would you like me to **script a short “emergency routine”** (like a 5–10 m
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

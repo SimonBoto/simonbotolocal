@@ -140,3 +140,6 @@ For any modifications, please describe them or [edit with code](https://diagrams
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

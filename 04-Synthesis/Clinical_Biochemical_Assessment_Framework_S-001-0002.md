@@ -166,4 +166,6 @@ Each panel connects to:
 *This synthesis integrates 10 assessment panels into a coherent clinical framework for metabolic health evaluation.*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[04-Synthesis]]

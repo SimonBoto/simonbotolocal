@@ -202,4 +202,6 @@ High Serum Ca²⁺ → ↓ PTH
 *Status: extracted*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

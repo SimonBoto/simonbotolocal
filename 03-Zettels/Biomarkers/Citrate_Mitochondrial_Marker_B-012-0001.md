@@ -299,3 +299,6 @@ When citrate is low and aconitate is very high, **do not analyze** isocitrate, Î
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

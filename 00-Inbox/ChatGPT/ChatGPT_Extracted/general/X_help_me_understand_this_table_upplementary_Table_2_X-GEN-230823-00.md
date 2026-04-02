@@ -61,3 +61,6 @@ Extracted from conversation on 2023-08-23 about "Effective Peer Review".
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 9.3/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

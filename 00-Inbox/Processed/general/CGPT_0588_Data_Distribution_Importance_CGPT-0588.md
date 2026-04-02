@@ -410,3 +410,6 @@ Choosing the appropriate method depends not only on the type of data but also th
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

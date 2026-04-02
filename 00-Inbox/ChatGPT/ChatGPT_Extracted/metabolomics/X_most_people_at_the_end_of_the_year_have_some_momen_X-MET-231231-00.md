@@ -63,3 +63,6 @@ it would be nice if you could start by asking questions in a psychoanalytic styl
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 10/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

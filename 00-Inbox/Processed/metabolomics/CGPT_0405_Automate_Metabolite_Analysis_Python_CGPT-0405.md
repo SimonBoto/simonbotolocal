@@ -312,3 +312,6 @@ It seems that the latest attempt still did not correctly capture the metabolite 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

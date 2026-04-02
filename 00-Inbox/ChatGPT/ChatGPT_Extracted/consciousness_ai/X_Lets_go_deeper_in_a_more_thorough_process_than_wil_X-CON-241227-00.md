@@ -64,7 +64,6 @@ How can we keep strong connection to ourselves?
 
 ## Connections
 
-- [[03-Zettels/RON/RON_The_Witness_RON-003-0002]]
 
 ## Status
 
@@ -76,3 +75,6 @@ How can we keep strong connection to ourselves?
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 10/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -816,3 +816,6 @@ These unifying theories and concepts illustrate how Heraclitus' philosophical in
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

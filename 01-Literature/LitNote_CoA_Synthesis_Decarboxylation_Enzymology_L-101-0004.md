@@ -181,4 +181,6 @@ extraction-date: 2026-03-02
 *Zettels extracted: 4*  
 *Status: extracted*
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

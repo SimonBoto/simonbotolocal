@@ -309,4 +309,6 @@ Based on this synthesis, IRB Section 1 should include:
 *Synthesis v1.0 | Created: 2026-02-23 | Status: Draft for review*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[04-Synthesis]]

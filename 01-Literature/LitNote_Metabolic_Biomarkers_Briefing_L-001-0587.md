@@ -155,4 +155,6 @@ domain: 001
 **Source:** CGPT-0384 — Biomarkers Briefing
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

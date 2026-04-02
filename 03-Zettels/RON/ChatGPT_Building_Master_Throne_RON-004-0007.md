@@ -182,4 +182,6 @@ That design impulse — making explicit what was implicit — is the engine of R
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
 
 ---
-parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]
+
+---
+parent-index: [[03-Zettels]]

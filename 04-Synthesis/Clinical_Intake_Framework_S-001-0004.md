@@ -141,4 +141,6 @@ Intake findings guide testing priorities:
 *Structured intake ensures comprehensive assessment and guides targeted biomarker testing.*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[04-Synthesis]]

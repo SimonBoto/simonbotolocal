@@ -65,3 +65,6 @@ Extracted from conversation on 2026-01-17 about "AI Question Optimization Coach"
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 10/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

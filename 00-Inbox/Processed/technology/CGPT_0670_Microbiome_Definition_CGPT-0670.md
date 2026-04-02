@@ -367,3 +367,6 @@ This is just a sample structure and the exact chapters, subtopics, and titles ca
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

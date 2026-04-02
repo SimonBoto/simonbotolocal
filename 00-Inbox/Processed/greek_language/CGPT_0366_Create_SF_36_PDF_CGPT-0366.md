@@ -499,3 +499,6 @@ This text provides a comprehensive overview of the questions in the Greek versio
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

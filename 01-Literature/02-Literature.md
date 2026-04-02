@@ -5,7 +5,6 @@ type: index
 title: "01-Literature — Source Processing"
 aliases: [Literature, LitNotes, Source Notes]
 tags: [index, literature, litnotes, processing, navigation, folder]
-parent-index: [[00-MISSION]
 status: active
 ---
 
@@ -108,7 +107,6 @@ title: Paper Title
 
 ← **Back to ** — Source Management  
 → **Next: ** — Atomic Knowledge  
-↑ **Parent: [[00-MISSION]**
 
 **Siblings:**
  |  |  |  |  |  |  | 
@@ -116,3 +114,6 @@ title: Paper Title
 ---
 
 *LitNotes bridge sources and zettels. Don't skip this step.*
+
+---
+parent-index: [[02-Literature]]

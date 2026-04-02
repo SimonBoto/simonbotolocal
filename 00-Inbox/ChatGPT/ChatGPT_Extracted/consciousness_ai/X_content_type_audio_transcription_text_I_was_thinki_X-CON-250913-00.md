@@ -46,7 +46,6 @@ Extracted from conversation on 2025-09-13 about "Change conversation style".
 
 ## Connections
 
-- [[03-Zettels/RON/RON_The_Witness_RON-003-0002]]
 
 ## Status
 
@@ -58,3 +57,6 @@ Extracted from conversation on 2025-09-13 about "Change conversation style".
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 10/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

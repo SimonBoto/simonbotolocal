@@ -180,3 +180,6 @@ In summary, homeostasis is the dynamic process by which biological systems maint
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

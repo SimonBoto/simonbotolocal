@@ -272,3 +272,6 @@ patient_id,date,visit_number,age,bmi,waist_hip,vit_d_ng_ml,tsh_ft3_ft4,anti_tpo,
 *Template v2.0 — Enhanced for clinical practice and PhD research*  
 *Auto-calculations included*  
 *High-dose Vitamin D protocol: Target 80-150 ng/mL*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

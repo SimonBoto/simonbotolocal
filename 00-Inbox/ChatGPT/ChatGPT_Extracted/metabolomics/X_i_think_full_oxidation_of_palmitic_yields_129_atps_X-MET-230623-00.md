@@ -83,3 +83,6 @@ Finally include quality in texted references. Minimum 1 per paragraph....
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 9.5/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

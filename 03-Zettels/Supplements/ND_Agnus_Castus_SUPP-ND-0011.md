@@ -111,3 +111,6 @@ Take 2 capsules daily or as directed by your physician.
 
 - Up: [[MOC-Inflammation]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

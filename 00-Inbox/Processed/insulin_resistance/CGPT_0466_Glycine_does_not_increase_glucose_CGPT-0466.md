@@ -71,3 +71,6 @@ Glycine supplementation typically does not significantly increase blood glucose 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

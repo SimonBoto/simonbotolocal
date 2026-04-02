@@ -1256,3 +1256,6 @@ Tell me that and I’ll give you the exact optimization for that specific setup.
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

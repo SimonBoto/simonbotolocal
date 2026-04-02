@@ -629,3 +629,6 @@ Please note that these values are approximate, as the actual ATP yield and consu
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

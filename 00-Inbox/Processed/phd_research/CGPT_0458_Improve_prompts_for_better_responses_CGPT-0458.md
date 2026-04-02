@@ -224,3 +224,6 @@ I'm glad to hear that you found the response helpful and improved! If you have a
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

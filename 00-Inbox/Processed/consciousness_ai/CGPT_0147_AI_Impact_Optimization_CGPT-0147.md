@@ -474,3 +474,6 @@ This conceptualization of a Quex Ed machine for quantum's low-frequency stimulat
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -1061,3 +1061,6 @@ Want me to give you the marmalade topping instructions *now*, or should we wait 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

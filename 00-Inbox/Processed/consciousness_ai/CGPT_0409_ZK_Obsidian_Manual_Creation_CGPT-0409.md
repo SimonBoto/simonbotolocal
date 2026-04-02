@@ -1911,3 +1911,6 @@ By integrating these advanced tools and strategies in Obsidian, you can create a
 *See  for navigation.*
 
 ```
+
+---
+parent-index: [[00-Inbox-Fleeting]]

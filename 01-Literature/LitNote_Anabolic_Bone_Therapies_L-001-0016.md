@@ -188,4 +188,6 @@ domain: 001
 **⚠️ EXTRACTION NOTE:** Detailed bisphosphonate pharmacology content insufficient in source. Only passing mentions (transition therapy, dental precautions). Requires separate source for comprehensive bisphosphonate LitNote.
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

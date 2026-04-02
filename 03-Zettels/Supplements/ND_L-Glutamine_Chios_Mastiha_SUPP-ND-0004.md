@@ -123,3 +123,6 @@ Take 1-3 capsules daily after food or as directed by your physician.
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

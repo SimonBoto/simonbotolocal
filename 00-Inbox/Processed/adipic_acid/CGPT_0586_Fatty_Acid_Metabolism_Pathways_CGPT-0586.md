@@ -816,3 +816,6 @@ You're welcome! If you have any more questions or need further clarification, fe
 
 *This conversation was automatically extracted from ChatGPT history.*
 *See  for navigation.*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

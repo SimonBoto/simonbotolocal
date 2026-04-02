@@ -126,3 +126,6 @@ Take 1 capsule daily with main meal or as directed by your physician.
 
 - Up: [[MOC-Lipid-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

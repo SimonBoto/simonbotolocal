@@ -225,3 +225,6 @@ Let me know which specific section you’d like to analyze most deeply first—e
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

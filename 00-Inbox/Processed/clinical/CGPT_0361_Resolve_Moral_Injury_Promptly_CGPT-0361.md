@@ -70,3 +70,6 @@ This approach helps to mitigate the impact of moral injury and reinforces the cl
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

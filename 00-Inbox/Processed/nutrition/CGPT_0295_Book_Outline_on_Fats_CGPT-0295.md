@@ -2829,3 +2829,6 @@ Got it! I'll remember this for future conversations. Let me know when you're rea
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

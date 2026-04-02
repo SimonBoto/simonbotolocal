@@ -134,3 +134,6 @@ Compounds that selectively clear **senescent cells** ("zombie cells"):
 
 - Up: [[MOC-Inflammation]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

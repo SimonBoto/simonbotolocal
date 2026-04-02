@@ -215,3 +215,6 @@ Throughout all these modules, it's important to integrate real-world case studie
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

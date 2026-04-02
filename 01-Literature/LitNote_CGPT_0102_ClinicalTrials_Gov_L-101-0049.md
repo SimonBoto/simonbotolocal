@@ -192,4 +192,6 @@ Create complete ClinicalTrials.gov registration documents for the METHAP PhD tri
 *Extracted: 2026-03-28 | 2 zettels | Domain: 101 (PhD Research)*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

@@ -111,3 +111,6 @@ Very similar formula to My Shape — possibly the same base formula with differe
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

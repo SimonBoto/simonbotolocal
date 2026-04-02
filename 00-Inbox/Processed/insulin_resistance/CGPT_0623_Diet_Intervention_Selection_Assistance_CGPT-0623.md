@@ -366,3 +366,6 @@ If you can find an existing app that meets your needs, this could certainly be a
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

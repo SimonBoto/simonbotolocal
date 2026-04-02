@@ -429,3 +429,6 @@ Given the presence of a subechoic nodule in the breast with BI-RADS category C, 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

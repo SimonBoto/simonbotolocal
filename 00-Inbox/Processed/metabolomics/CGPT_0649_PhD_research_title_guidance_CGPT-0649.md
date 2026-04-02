@@ -813,3 +813,6 @@ Metabolomic profiling is a powerful tool for understanding the molecular basis o
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

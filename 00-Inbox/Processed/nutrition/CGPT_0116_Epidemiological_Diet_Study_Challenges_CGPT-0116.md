@@ -131,3 +131,6 @@ Would you like a summarized version of this explanation for patient use, or a sc
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

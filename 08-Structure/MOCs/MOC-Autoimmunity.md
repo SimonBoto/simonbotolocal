@@ -186,3 +186,6 @@ Autoimmune diseases represent a loss of immune tolerance leading to attack on se
 
 ---
 parent-index: [[08 Structure Index]], [[MOCs Index]]
+
+---
+parent-moc: [[MOC-INDEX]]

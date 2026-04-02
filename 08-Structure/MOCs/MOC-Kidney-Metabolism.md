@@ -65,3 +65,6 @@ tags: [moc, kidney, nephrology, renal, metabolism]
 
 ---
 parent-index: [[08 Structure Index]], [[MOCs Index]]
+
+---
+parent-moc: [[MOC-INDEX]]

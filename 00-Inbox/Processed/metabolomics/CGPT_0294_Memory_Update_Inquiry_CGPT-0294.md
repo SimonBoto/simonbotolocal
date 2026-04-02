@@ -248,3 +248,6 @@ Thank you for sharing that! Knowing about your clinical practice helps me unders
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

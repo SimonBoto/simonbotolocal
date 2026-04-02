@@ -442,3 +442,6 @@ Would you like this transformed into a formal model or guide—perhaps as a prot
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

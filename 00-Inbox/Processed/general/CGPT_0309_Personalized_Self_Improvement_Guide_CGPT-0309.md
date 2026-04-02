@@ -104,3 +104,6 @@ This summary should help you grasp the key concepts and lessons from the book in
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -111,4 +111,6 @@ extraction-date: 2026-02-24
 *Status: complete*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

@@ -409,3 +409,6 @@ HPA AXIS DYSREGULATION
 *Map version: 1.0*  
 *Last updated: 2026-02-21*  
 *Based on: 35+ IR-related atomic notes*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

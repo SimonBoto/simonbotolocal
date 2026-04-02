@@ -240,3 +240,6 @@ Implementing the above before submission will pre-empt most “major revision”
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

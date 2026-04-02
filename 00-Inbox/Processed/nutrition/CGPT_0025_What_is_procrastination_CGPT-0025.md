@@ -520,3 +520,6 @@ If you don’t want to choose, I’ll choose the entry point for you.
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

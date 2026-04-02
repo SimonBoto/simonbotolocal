@@ -70,3 +70,6 @@ Vitamin D requires magnesium as a cofactor for activation. This formula provides
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

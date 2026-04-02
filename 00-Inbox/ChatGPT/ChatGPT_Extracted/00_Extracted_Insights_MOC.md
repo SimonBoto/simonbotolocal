@@ -210,3 +210,6 @@ Strategic questions for ongoing exploration.
 ---
 
 *This MOC connects raw ChatGPT archive to ultimate quality zettels.*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

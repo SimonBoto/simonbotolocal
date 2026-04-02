@@ -90,3 +90,6 @@ GC-MS is widely used in fields such as metabolomics, pharmacology, environmental
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

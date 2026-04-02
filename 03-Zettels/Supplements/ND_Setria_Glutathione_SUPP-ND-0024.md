@@ -112,3 +112,6 @@ Take 1-2 capsules daily with water or as directed by your physician. Drink plent
 
 - Up: [[MOC-Inflammation]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

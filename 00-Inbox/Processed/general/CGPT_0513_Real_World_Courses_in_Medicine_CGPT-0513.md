@@ -342,3 +342,6 @@ Given the range of potential startup costs, starting with a smaller scale operat
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

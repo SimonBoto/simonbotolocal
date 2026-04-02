@@ -153,4 +153,6 @@ domain: 001
 **Source:** CGPT-0311 — Self-Education Program Plan
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

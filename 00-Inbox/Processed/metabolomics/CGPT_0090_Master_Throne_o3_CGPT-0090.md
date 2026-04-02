@@ -2292,3 +2292,6 @@ With those two clarifications in place, no remaining gaps are likely to trigger 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

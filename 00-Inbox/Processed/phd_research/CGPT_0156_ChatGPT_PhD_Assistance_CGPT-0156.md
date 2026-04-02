@@ -341,3 +341,6 @@ By following these guidelines, you can effectively harness ChatGPT’s capabilit
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

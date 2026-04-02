@@ -353,3 +353,6 @@ Both of these metabolomic markers, the gut microbiome for IBS/IBD and the omega-
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

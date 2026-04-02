@@ -87,4 +87,6 @@ The gastric cancer study showed "clear separation" between groups, but:
 **Next:** LitNote 6 — Critical Assessment Methodology
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

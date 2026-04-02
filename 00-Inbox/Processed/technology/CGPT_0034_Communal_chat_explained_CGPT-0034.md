@@ -101,3 +101,6 @@ If the two of you want, you can even switch voices mid-message—just let me kno
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

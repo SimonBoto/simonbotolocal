@@ -119,4 +119,6 @@ C₆H₆O₆ → C₂H₂O₄ + 4C (lost as CO₂/other)
 *Extracted: 2026-03-28 | 3 zettels | Domain: 101 (Adipic Acid)*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

@@ -792,3 +792,6 @@ Fermenting boiled eggs is an innovative way to preserve and flavor eggs while en
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

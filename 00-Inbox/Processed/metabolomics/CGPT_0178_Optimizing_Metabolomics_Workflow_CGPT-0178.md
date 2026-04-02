@@ -315,3 +315,6 @@ By combining clear communication, patient involvement, and personalized tools, y
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

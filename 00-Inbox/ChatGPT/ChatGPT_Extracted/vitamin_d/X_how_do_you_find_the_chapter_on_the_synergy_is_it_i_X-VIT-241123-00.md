@@ -81,3 +81,6 @@ i will give it to you and i want you to turn it into a great chapter following t
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 10/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

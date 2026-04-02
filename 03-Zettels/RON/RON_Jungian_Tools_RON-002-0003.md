@@ -509,4 +509,6 @@ Ready for Cycle 14: Study Technology (Hubbard).
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
 
 ---
-parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]
+
+---
+parent-index: [[03-Zettels]]

@@ -387,3 +387,6 @@ In summary, while the settlement is significant and reflects the complexity and 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

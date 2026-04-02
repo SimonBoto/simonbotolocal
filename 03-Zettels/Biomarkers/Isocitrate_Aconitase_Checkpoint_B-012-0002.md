@@ -250,3 +250,6 @@ The enzyme **isocitrate dehydrogenase (IDH)** is heavily regulated:
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

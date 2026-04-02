@@ -145,4 +145,6 @@ Informed consent alone is **necessary but not sufficient**. All seven requiremen
 *Extracted: 2026-03-28 | 3 zettels | Domain: 101 (Research Ethics)*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

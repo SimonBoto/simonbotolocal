@@ -160,4 +160,6 @@ Ketone bodies (beta-hydroxybutyrate and acetoacetate) serve as water-soluble, tr
 - **Next:** L-001-0656 (Dicarboxylic Acids — PhD Core!)
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

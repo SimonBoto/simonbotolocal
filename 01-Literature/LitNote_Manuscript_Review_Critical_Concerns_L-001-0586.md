@@ -333,4 +333,6 @@ domain: 001
 **Source:** CGPT-0551 — Manuscript Review Critical Concerns
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

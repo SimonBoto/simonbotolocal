@@ -345,3 +345,6 @@ Would you prefer a **directly edited draft**, or do you want a **detailed restru
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

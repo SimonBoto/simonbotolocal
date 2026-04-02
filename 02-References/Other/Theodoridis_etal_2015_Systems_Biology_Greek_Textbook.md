@@ -103,3 +103,6 @@ Greek-language academic textbook covering systems biology foundations, omics tec
 ---
 
 *Tier 3 Reference | Greek Academic Textbook | Educational context*
+
+---
+parent-index: [[01-References]]

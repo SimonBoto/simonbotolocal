@@ -424,4 +424,6 @@ Ready for Cycle 16: The Double (Gilgamesh + Jung synthesis).
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
 
 ---
-parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]
+
+---
+parent-index: [[03-Zettels]]

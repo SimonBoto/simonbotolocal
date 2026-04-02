@@ -506,3 +506,6 @@ In general, any fatty acyl-CoA could have a carbon chain length anywhere from 2 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

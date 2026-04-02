@@ -77,3 +77,6 @@ step 1 will be to find people that are health with homa-ir and hba1c and other m
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 8.0/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

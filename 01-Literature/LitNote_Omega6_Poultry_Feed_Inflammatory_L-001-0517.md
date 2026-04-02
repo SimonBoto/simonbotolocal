@@ -170,4 +170,6 @@ For patients with inflammatory conditions (MetS, autoimmune, chronic pain), the 
 *Zettels extracted: 4*  
 *Status: extracted*
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

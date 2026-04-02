@@ -191,4 +191,6 @@ domain: 001
 **Source:** CGPT-0209 — Gastroenterology Registrar Assessment
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

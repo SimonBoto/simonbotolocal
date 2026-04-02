@@ -153,4 +153,6 @@ Insulin signaling is a receptor tyrosine kinase cascade initiated by insulin bin
 *UID: S-001-0001 | Domain: 001 | Status: evolving | Version: 1.1*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[04-Synthesis]]

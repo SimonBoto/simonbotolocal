@@ -576,3 +576,6 @@ Act II uses the **Chart of Attitudes** (a detailed table of emotional “attitu
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

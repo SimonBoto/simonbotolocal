@@ -58,3 +58,6 @@ The link you provided leads to the ClinicalTrials.gov policy page, specifically 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

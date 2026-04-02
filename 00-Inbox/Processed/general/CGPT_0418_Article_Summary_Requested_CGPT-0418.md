@@ -117,3 +117,6 @@ It seems there was a misunderstanding—I can't directly access files to read or
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

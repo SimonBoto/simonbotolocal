@@ -197,4 +197,6 @@ Statin myopathy isn't just "muscle pain" — it's mitochondrial dysfunction from
 *Zettels extracted: 3*  
 *Status: extracted*
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

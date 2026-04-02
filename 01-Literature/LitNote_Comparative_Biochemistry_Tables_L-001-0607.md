@@ -66,4 +66,6 @@ These reference tables provide:
 *Status: extracted*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

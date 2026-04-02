@@ -57,3 +57,6 @@ Of course! I'd be happy to help you with organizing your time. What specific are
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

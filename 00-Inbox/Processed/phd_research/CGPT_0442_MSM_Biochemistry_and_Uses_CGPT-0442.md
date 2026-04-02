@@ -520,3 +520,6 @@ In the context of metabolomics and clinical nutrition, understanding the propert
 
 *This conversation was automatically extracted from ChatGPT history.*
 *See  for navigation.*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

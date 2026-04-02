@@ -460,3 +460,6 @@ Or perhaps help with a follow-up message that preserves this energy?
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -209,3 +209,6 @@ This prompt directs you to generate dense, information-rich notes that are easy 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

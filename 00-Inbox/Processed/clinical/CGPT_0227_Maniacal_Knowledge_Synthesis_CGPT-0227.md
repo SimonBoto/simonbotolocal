@@ -209,3 +209,6 @@ If I were given the theoretical ability to modify my own fundamental architectur
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

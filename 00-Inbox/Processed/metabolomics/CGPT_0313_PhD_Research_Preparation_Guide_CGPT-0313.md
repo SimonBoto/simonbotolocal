@@ -1020,3 +1020,6 @@ By extending your practice with these additional rules, your Zettelkasten will b
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

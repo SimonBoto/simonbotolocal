@@ -218,3 +218,6 @@ It’s classic Netflix storytelling: prioritize intrigue and debate over interna
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

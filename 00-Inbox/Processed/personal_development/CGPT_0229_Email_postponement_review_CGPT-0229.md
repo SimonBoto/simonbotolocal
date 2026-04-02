@@ -176,3 +176,6 @@ This version ensures clarity and maintains a professional, respectful tone. It a
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

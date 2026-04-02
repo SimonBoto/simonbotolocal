@@ -978,3 +978,6 @@ Would you like me to quickly provide an overview on this topic to complete the g
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

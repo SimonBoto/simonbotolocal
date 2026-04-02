@@ -512,3 +512,6 @@ As a result, possible mechanistic insights and therapeutic targets are highlight
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

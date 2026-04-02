@@ -691,3 +691,6 @@ Because it heard they needed someone with a lot of energy, and it had "mitochond
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

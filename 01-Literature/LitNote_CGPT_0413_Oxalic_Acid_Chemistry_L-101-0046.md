@@ -102,4 +102,6 @@ extraction-date: 2026-03-28
 *Extracted: 2026-03-28 | 4 zettels | Domain: 101 (Adipic Acid)*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

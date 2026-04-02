@@ -103,4 +103,6 @@ INSULIN RESISTANCE → METABOLIC SYNDROME → TYPE 2 DIABETES
 **Next:** LitNote 3 — Industrial Processing and Toxins
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

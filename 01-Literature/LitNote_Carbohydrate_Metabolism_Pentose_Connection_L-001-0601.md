@@ -88,4 +88,6 @@ Hexoses (6C): Glucose-6-P, Fructose-6-P, Glucose, Fructose
 *Status: extracted*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

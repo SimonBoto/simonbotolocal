@@ -144,3 +144,6 @@ As always, it's a good idea to talk to a healthcare professional or a dietitian 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

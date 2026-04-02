@@ -630,3 +630,6 @@ Yes, I can search the internet to provide real-time information or gather specif
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

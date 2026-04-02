@@ -120,3 +120,6 @@ Take 1 capsule with water before meals, twice daily, or as directed by your phys
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

@@ -51,3 +51,6 @@ Please helpful undesterstand Whats the truly most novel insight for Humans"
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -75,3 +75,6 @@ we want to make a predictive tool for insulin resistance diagnosis from urine or
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 8.0/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -97,3 +97,6 @@ In essence, the insight of interconnected consciousness challenges humanity to t
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

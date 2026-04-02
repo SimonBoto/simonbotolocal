@@ -109,3 +109,6 @@ It sounds like you're asking whether I'm better than the GPT-4 model. Actually, 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

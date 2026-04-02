@@ -1424,3 +1424,6 @@ Certainly, I can help modify the provided sample proposal to fit the research yo
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -50,7 +50,6 @@ If true, this suggests:
 
 ## Connections
 
-- [[03-Zettels/RON/RON_The_Witness_RON-003-0002]]
 
 ## Validation Log
 
@@ -62,3 +61,6 @@ If true, this suggests:
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 10/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

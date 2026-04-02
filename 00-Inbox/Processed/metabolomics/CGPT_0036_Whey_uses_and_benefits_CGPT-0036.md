@@ -2674,3 +2674,6 @@ Tell me which direction you want to push it, and I’ll craft your signature ver
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

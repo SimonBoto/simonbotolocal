@@ -1562,3 +1562,6 @@ The translated text primarily focuses on the ethical considerations of the resea
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

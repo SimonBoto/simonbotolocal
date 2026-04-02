@@ -2353,3 +2353,6 @@ While the Ebers Papyrus is one of the oldest and most comprehensive medical text
 
 *This conversation was automatically extracted from ChatGPT history.*
 *See  for navigation.*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

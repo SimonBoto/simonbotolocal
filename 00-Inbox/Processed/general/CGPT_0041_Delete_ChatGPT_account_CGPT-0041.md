@@ -196,3 +196,6 @@ Would you like me to prepare a concise “final archive” of everything essenti
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

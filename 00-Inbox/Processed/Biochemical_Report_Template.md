@@ -108,3 +108,6 @@ From your screening, the following are noted:
 
 *Template extracted from: Biochemichal Report.docx*  
 *Translation date: 2026-02-25*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

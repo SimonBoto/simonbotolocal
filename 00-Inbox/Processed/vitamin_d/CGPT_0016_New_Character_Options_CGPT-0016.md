@@ -389,3 +389,6 @@ If you want, I can rerun this with a *tight* target definition (primary vs secon
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

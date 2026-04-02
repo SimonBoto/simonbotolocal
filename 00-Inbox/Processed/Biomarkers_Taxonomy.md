@@ -321,3 +321,6 @@ parent-moc: [[06-Structure/MOCs/MOC-Biomarkers]
 *Taxonomy version: 1.0*  
 *Last updated: 2026-02-21*  
 *Based on: 220 atomic notes, 128 references*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

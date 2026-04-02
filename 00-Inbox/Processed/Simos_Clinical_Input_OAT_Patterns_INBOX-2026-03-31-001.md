@@ -182,3 +182,6 @@ Contact if fatigue/symptoms are intense.
 ---
 *Inbox item — awaiting processing into zettels*
 *Received: 2026-03-31*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

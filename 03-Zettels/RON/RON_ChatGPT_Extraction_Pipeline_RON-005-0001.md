@@ -383,4 +383,6 @@ Date: [original date]
 *This pipeline transforms archival hoarding into knowledge compounding.*
 
 ---
-parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]
+
+---
+parent-index: [[03-Zettels]]

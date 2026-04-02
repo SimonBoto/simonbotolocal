@@ -36,16 +36,16 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 | Domain | MOC | Zettels | Focus |
 |--------|-----|---------|-------|
 | **001** | [[MOC-Insulin-Signaling]] | 675 | Core metabolism, insulin resistance |
-| **002** | [[MOC-Research-Ethics] | 21 | IRB, study design, ethics |
-| **003** | [[MOC-Iron-Metabolism] | 3 | Iron studies, ferritin |
-| **004** | [[MOC-Methylation-One-Carbon] | 4 | B12, folate, homocysteine |
-| **005** | [[MOC-Thyroid-Function] | 2 | TSH, thyroid hormones |
-| **006** | [[MOC-Lipid-Metabolism] | 2 | Cholesterol, fatty acids |
-| **007** | [[MOC-Inflammation] | 1 | CRP, cytokines |
-| **008** | [[MOC-Liver-Function] | 1 | Liver enzymes |
-| **009** | [[MOC-Kidney-Metabolism] | 1 | eGFR, creatinine |
-| **010** | [[MOC-Minerals-Trace] | 1 | Mg, Zn, Se |
-| **101** | [[MOC-Pharmacometabolomics] | 55 | Drug metabolism |
+| **002** | [[MOC-Research-Ethics]] | 21 | IRB, study design, ethics |
+| **003** | [[MOC-Iron-Metabolism]] | 3 | Iron studies, ferritin |
+| **004** | [[MOC-Methylation-One-Carbon]] | 4 | B12, folate, homocysteine |
+| **005** | [[MOC-Thyroid-Function]] | 2 | TSH, thyroid hormones |
+| **006** | [[MOC-Lipid-Metabolism]] | 2 | Cholesterol, fatty acids |
+| **007** | [[MOC-Inflammation]] | 1 | CRP, cytokines |
+| **008** | [[MOC-Liver-Function]] | 1 | Liver enzymes |
+| **009** | [[MOC-Kidney-Metabolism]] | 1 | eGFR, creatinine |
+| **010** | [[MOC-Minerals-Trace]] | 1 | Mg, Zn, Se |
+| **101** | [[MOC-Pharmacometabolomics]] | 55 | Drug metabolism |
 
 ---
 
@@ -83,22 +83,83 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 
 | Folder | Files | Purpose |
 |--------|-------|---------|
-| [[00-MISSION] | 2 | Daily priorities, active work |
-| [[02-References] | 41 | Source materials, Zotero |
-| [[01-Literature] | 165 | LitNotes in processing |
-| [[03-Zettels] | 767 | **Main knowledge base** |
-| [[04-Synthesis] | 23 | Living documents |
-| [[05-Projects] | 25 | PhD, Assistant, Triangle |
-| [[06-Structure] | 97 | MOCs, Templates, Keywords |
-| [[07-Archive] | 174 | Historical, extracted |
-| [[08-Dashboards] | 21 | COMMAND, QUEUE |
-| [[10-Daily] | 7 | Daily notes |
+| [[02-References]] | 41 | Source materials, Zotero |
+| [[01-Literature]] | 165 | LitNotes in processing |
+| [[03-Zettels]] | 767 | **Main knowledge base** |
+| [[04-Synthesis]] | 23 | Living documents |
+| [[07-Projects]] | 25 | PhD, Assistant, Triangle |
+| [[08-Structure]] | 97 | MOCs, Templates, System |
+| [[09-Archive]] | 174 | Historical, extracted |
 
 ---
 
+## 📋 All MOCs (54 Total)
+
+### Metabolism & Biochemistry
+- [[MOC-Amino-Acid-Metabolism]] — Amino acid pathways
+- [[MOC-Antioxidant-Defense]] — Oxidative stress, antioxidants
+- [[MOC-Evolutionary-Biochemistry]] — Ancient pathways
+- [[MOC-Gluconeogenesis]] — Glucose synthesis
+- [[MOC-Glycolysis-PPP]] — Glycolysis, pentose phosphate
+- [[MOC-Ketogenesis]] — Ketone body metabolism
+- [[MOC-Krebs-Cycle]] — TCA cycle
+- [[MOC-Nitrogen-Metabolism]] — Nitrogen balance
+- [[MOC-Nucleotide-Metabolism]] — Purine, pyrimidine
+- [[MOC-Urea-Cycle]] — Ammonia detox
+
+### Clinical & Disease
+- [[MOC-Autoimmunity]] — Autoimmune mechanisms
+- [[MOC-Biomarkers]] — Biomarker framework
+- [[MOC-Cholesterol-Quality]] — Cholesterol particles
+- [[MOC-Clinical-Protocols]] — Clinical workflows
+- [[MOC-Diabetes-T2D]] — Type 2 diabetes
+- [[MOC-Hashimoto-Thyroiditis]] — Autoimmune thyroid
+- [[MOC-Hidden-Hunger]] — Micronutrient deficiencies
+- [[MOC-Insulin-Resistance]] — IR mechanisms
+- [[MOC-Metabolic-Syndrome]] — MetS criteria
+- [[MOC-Stress-Autoimmune]] — Stress-immune axis
+
+### Organs & Systems
+- [[MOC-Inflammation]] — Inflammatory markers
+- [[MOC-Iron-Metabolism]] — Iron homeostasis
+- [[MOC-Kidney-Metabolism]] — Renal function
+- [[MOC-Lipid-Metabolism]] — Fatty acids, lipids
+- [[MOC-Liver-Function]] — Hepatic markers
+- [[MOC-Methylation-One-Carbon]] — B12, folate, methylation
+- [[MOC-Mitochondrial-Function]] — ETC, OXPHOS
+- [[MOC-Thyroid-Function]] — Thyroid hormones
+- [[MOC-Minerals-Trace]] — Mg, Zn, Se
+
+### Research & Methods
+- [[MOC-CGPT-Archive]] — ChatGPT extraction system
+- [[MOC-Inbox-Sprint]] — Processing workflow
+- [[MOC-Literature-Management]] — Zotero, sources
+- [[MOC-Metabolomics]] — Metabolomics overview
+- [[MOC-Metabolomics-Analysis]] — Data analysis
+- [[MOC-Metabolomics-Protocols]] — Lab protocols
+- [[MOC-Metabolomics-Training]] — Education framework
+- [[MOC-Pharmacometabolomics]] — Drug metabolism
+- [[MOC-PhD-Research]] — PhD project hub
+- [[MOC-Research-Ethics]] — IRB, ethics
+- [[MOC-Research-Methods]] — Study design
+
+### Nutrition & Lifestyle
+- [[MOC-Nutrition]] — Nutritional biochemistry
+- [[MOC-Nutrition-Risks]] — Dietary risks
+- [[MOC-Omega3-Fats]] — Omega-3 fatty acids
+- [[MOC-Sleep-and-Circadian]] — Sleep, circadian
+- [[MOC-Vitamin-D-Metabolism]] — Vitamin D
+- [[MOC-Vitamin-Metabolism]] — All vitamins
+- [[MOC-Vitamin-Safety]] — Vitamin toxicity
+
+### Operations
+- [[MOC-Clinic-Queue]] — Patient flow
+- [[MOC-References-Active]] — Active references
+- [[MOC-RON-Cognition]] — RON system notes
+
 ## 🎯 Current Priorities
 
-→ See [[08-Dashboards/00-COMMAND|COMMAND.md] for P0/P1/P2
+→ See [[00-COMMAND]] for P0/P1/P2
 
 ---
 
@@ -113,4 +174,4 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 *This MOC is the single entry point for vault navigation. Updated automatically with vault stats.*
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08 Structure Index]], [[MOC-INDEX]]

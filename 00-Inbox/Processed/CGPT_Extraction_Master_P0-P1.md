@@ -119,3 +119,6 @@
 *Created: 2026-03-04*  
 *Method: Theme-coherent batches, 10 per session, perfect tracking*  
 *Goal: 150 P0-P1 conversations extracted with continuity*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

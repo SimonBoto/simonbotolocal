@@ -2048,3 +2048,6 @@ Heatmaps are a powerful tool for visualizing complex datasets, but as with any v
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

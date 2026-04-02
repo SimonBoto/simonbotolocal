@@ -208,3 +208,6 @@ Certainly! When considering Candida colonization in the large bowel, it's essent
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

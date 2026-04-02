@@ -893,3 +893,6 @@ If you decide to invest, proceed **cautiously**, keep a **long-term perspective*
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

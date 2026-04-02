@@ -86,3 +86,6 @@ Let me know if you'd like specific instructions for any of the steps!
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

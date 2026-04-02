@@ -68,3 +68,6 @@ just mention it if you think a reference is needed to support a state.
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 10/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

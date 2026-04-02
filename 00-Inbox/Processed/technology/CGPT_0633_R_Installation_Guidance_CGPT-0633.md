@@ -112,3 +112,6 @@ By applying one of these solutions, you should be able to access the "knn" and "
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

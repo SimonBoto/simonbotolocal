@@ -85,3 +85,6 @@ Let's start by optimising this prompt that will be the basis for all of the rest
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 10/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -361,3 +361,6 @@ Research on mtDNA in cancer highlights its critical role in cancer biology, from
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -231,3 +231,6 @@ Would you like me to prepare a **clear patient-friendly explanation** (like for 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

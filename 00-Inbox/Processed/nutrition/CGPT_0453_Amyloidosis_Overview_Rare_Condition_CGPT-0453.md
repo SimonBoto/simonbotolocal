@@ -143,3 +143,6 @@ In clinical practice, the management of these conditions is distinct, and their 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

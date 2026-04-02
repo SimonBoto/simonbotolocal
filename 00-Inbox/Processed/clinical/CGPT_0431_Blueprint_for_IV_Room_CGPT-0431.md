@@ -336,3 +336,6 @@ We've now created a blueprint for the IV Therapy Multi-Infusion Room, along with
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

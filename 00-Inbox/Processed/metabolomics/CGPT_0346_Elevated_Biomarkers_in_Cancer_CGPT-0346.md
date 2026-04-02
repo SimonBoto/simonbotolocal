@@ -85,3 +85,6 @@ Cancers commonly associated with concurrent elevation of calcium, ALP, GGT, and 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

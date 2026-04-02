@@ -1881,3 +1881,6 @@ The document you've shared outlines a comprehensive approach to your PhD researc
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

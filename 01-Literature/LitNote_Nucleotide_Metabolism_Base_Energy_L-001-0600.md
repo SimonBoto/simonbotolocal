@@ -104,4 +104,6 @@ Adenine (base) + Ribose (sugar) → Adenosine (nucleoside)
 - [x] Concept count matches "Zettels Created from This Source" list
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

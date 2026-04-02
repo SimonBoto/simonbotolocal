@@ -115,3 +115,6 @@ This moment has stayed with me throughout my life, and I often find myself refle
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

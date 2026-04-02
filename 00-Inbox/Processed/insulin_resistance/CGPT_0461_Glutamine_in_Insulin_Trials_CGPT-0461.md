@@ -97,3 +97,6 @@ Always keep an eye on updates from Mendeley and AI tool developers, as integrati
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

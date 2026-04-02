@@ -6747,3 +6747,6 @@ Overall, ANNEX CP5 portrays a well-thought-out and professionally planned ventur
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

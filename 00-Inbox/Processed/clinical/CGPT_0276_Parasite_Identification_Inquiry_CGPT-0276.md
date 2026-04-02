@@ -61,3 +61,6 @@ I recommend discussing your concerns with a healthcare professional who can orde
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

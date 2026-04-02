@@ -1892,3 +1892,6 @@ I can also create a **visual icon** or **liturgical poem** based on this theme.
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

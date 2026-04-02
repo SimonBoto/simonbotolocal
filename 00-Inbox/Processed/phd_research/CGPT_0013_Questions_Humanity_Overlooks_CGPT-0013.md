@@ -1224,3 +1224,6 @@ That’s the optimized form: it turns your frames from a nice essay into a set o
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

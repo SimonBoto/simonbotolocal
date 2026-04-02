@@ -186,3 +186,6 @@ Given your specialized background in clinical metabolomics, insulin resistance, 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -199,4 +199,6 @@ Result: Strong bones + Clear arteries
 *Status: extracted*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

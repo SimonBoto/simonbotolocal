@@ -283,3 +283,6 @@ P_{mix} = \frac{154}{1300} \times 100 = 11.85\%
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -5,7 +5,6 @@ type: index
 title: "04-Synthesis — Living Documents"
 aliases: [Synthesis, Living Docs, Aggregates]
 tags: [index, synthesis, living-documents, aggregation, navigation, folder]
-parent-index: [[00-MISSION]
 status: active
 ---
 
@@ -92,7 +91,6 @@ See: [[06-Structure/Templates/Template_Synthesis_v1.0|Template_Synthesis_v1.0.md
 
 ← **Back to ** — Atomic Knowledge  
 → **Next: ** — Active Work  
-↑ **Parent: [[00-MISSION]**
 
 **Siblings:**
  |  |  |  |  |  |  | 
@@ -100,3 +98,6 @@ See: [[06-Structure/Templates/Template_Synthesis_v1.0|Template_Synthesis_v1.0.md
 ---
 
 *Synthesis is where zettels become wisdom.*
+
+---
+parent-index: [[04-Synthesis]]

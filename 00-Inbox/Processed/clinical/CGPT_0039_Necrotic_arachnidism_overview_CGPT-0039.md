@@ -305,3 +305,6 @@ Would you like me to provide a **structured clinical protocol (triage → diagno
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -82,3 +82,6 @@ Extracted from conversation on 2025-08-15 about "Review past conversations".
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 10/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

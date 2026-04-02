@@ -98,3 +98,6 @@ This scenario warrants **rapid evaluation and intervention**, given the high ris
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -177,4 +177,6 @@ domain: 001
 **⚠️ REMAINING GAP:** Comprehensive bisphosphonate pharmacology not available in source — requires separate extraction from different conversation.
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

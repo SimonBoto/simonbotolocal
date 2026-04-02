@@ -1101,3 +1101,6 @@ Would you like more details on any of these questionnaires or further exploratio
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

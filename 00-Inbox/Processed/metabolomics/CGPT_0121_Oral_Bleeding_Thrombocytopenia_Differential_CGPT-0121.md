@@ -606,3 +606,6 @@ Would you like a recipe for homemade **nutrient-dense recovery food**?
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

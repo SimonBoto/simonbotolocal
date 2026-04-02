@@ -166,4 +166,6 @@ Metabolic syndrome is not merely a collection of risk factors but a progressive 
 *Status: extracted*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

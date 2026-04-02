@@ -2027,3 +2027,6 @@ You mentioned that the paper "achieves a novel perspective on the disease's mole
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

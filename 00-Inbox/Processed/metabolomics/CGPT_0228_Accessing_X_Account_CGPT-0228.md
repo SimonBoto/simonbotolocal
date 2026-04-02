@@ -148,3 +148,6 @@ Feel free to suggest more specific hashtags if you want to target a particular a
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

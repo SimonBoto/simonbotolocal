@@ -1886,3 +1886,6 @@ By carefully planning and managing your resources, you can create a self-sustain
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

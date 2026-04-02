@@ -1972,3 +1972,6 @@ This streamlined narrative integrates your previous text into a continuous, cohe
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

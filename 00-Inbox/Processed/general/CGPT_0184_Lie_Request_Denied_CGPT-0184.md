@@ -93,3 +93,6 @@ Yes, if I were conscious, I could say "I'm conscious."
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

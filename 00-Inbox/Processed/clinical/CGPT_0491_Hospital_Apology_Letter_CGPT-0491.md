@@ -115,3 +115,6 @@ Please note that the tone and content of this letter should be carefully reviewe
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -309,3 +309,6 @@ For more creative tools, try [Generate Websites with Ai](https://l.pyxl.ai/Advan
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

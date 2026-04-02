@@ -54,7 +54,6 @@ Extracted from conversation on 2024-05-22 about "Clear Hearing, Can Assist".
 
 ## Connections
 
-- [[03-Zettels/RON/RON_The_Witness_RON-003-0002]]
 
 ## Status
 
@@ -66,3 +65,6 @@ Extracted from conversation on 2024-05-22 about "Clear Hearing, Can Assist".
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 10/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

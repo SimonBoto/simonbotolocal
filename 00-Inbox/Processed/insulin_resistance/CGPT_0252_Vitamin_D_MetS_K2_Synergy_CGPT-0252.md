@@ -1311,3 +1311,6 @@ This comprehensive review consolidates the extensive research on vitamin K, part
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

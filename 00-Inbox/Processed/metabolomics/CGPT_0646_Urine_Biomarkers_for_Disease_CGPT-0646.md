@@ -321,3 +321,6 @@ Once you have the necessary information, you can use a power analysis calculator
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

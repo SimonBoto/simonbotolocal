@@ -268,3 +268,6 @@ This plan works well for those with limited time or wanting a less strenuous exp
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

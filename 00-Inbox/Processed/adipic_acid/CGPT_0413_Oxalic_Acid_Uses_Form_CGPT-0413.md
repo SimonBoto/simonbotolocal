@@ -634,3 +634,6 @@ Thank you! I'm here anytime you need assistance or have questions. Don't hesitat
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

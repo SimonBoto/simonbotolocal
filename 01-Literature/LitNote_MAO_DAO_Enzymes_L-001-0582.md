@@ -110,4 +110,6 @@ domain: 001
 **Source:** CGPT-0258 — MAOIs and DAO Interaction
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

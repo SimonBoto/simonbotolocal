@@ -141,3 +141,6 @@ Would you like any additional guidance on follow-up or fertility considerations?
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

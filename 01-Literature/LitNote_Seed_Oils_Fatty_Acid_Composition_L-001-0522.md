@@ -134,4 +134,6 @@ Pro-inflammatory eicosanoids (PGE2, LTB4, TXA2)
 **Next:** LitNote 2 — Mechanisms of Metabolic Disruption
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

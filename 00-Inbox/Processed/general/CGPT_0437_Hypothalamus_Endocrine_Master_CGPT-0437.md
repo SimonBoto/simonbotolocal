@@ -136,3 +136,6 @@ Your expertise in metabolomics and insulin resistance would be particularly rele
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

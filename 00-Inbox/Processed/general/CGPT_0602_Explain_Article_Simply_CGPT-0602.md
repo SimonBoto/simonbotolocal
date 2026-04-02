@@ -57,3 +57,6 @@ Of course! Please provide the article, and I'll do my best to explain it in simp
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -129,3 +129,6 @@ _______________________________________________
 
 *Template extracted from: ΑΝΑΝΕΩΣΗ ΙΣΤΟΡΙΚΟ.docx*  
 *Translation date: 2026-02-25*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -334,3 +334,6 @@ A clinician with a PhD in metabolomics and strong data/automation skills can lev
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

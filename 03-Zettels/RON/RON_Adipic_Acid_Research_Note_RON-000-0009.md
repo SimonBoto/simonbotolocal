@@ -74,4 +74,6 @@ quality-score: medium
 **Clinic**: Screen Hashimoto's patients for adipic elevation as IR early warning.
 
 ---
-parent-index: [[03-Zettels-Conscious]], [[RON Genesis MOC]]
+
+---
+parent-index: [[03-Zettels]]

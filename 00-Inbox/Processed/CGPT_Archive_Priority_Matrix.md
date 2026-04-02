@@ -129,3 +129,6 @@ Before extracting any conversation:
 
 *Created: 2026-03-04*  
 *Purpose: End extraction circles, maximize value per hour*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -665,3 +665,6 @@ source: Analysis organic acids extended.md (Greek clinical guide)
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

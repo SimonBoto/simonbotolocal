@@ -507,3 +507,6 @@ I've created a new image that should clearly illustrate the DNA, telomeres, and 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

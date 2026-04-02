@@ -1914,3 +1914,6 @@ Overall, your letter clearly communicates why the study's findings cannot be str
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

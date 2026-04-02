@@ -150,3 +150,6 @@ In conclusion, there is a correlation between free plasma fatty acids and HOMA-I
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

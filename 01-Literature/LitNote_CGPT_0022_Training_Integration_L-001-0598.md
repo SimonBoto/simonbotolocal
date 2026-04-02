@@ -110,4 +110,6 @@ This curriculum enables:
 - [x] Complete curriculum documented
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

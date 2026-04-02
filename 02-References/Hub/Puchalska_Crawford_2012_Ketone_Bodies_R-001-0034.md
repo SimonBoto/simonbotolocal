@@ -78,3 +78,6 @@ tags: [reference, ketones, fatty-acid-oxidation, metabolism]
 ---
 
 *Added: 2026-04-01 | Last reviewed: 2026-04-01*
+
+---
+parent-index: [[01-References]]

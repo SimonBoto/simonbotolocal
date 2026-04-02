@@ -116,4 +116,6 @@ domain: 001
 **Source:** CGPT-0064 — Ofev MOA and effects
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

@@ -87,4 +87,6 @@ PhD candidate experiencing 6-month delay in ethics committee response; seeking g
 *Extracted: 2026-03-28 | 1 zettel | Domain: 101 (Research Ethics)*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

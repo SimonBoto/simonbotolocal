@@ -57,3 +57,6 @@ Extracted from conversation on 2025-10-07 about "Greeting exchange".
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 9.0/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

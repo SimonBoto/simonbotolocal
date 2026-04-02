@@ -174,3 +174,6 @@ Addressing such issues promptly and effectively is crucial in a clinical setting
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

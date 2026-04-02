@@ -96,4 +96,6 @@ extraction-date: 2026-03-08
 - [x] Concept count matches "Zettels Created from This Source" list
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

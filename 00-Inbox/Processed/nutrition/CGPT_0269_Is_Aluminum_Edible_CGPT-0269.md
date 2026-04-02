@@ -79,3 +79,6 @@ Aluminum in the Earth's crust is largely locked up in stable compounds, so while
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

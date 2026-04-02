@@ -86,3 +86,6 @@ As a medical doctor specializing in metabolomics and with a background in insuli
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

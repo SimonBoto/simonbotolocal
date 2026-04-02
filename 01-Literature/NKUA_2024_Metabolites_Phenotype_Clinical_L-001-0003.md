@@ -377,4 +377,6 @@ This unit bridges foundational metabolomics (DE1-DE2) to **clinical application*
 *Status: complete*  
 *Quality: Upgraded to DE1 standard*
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

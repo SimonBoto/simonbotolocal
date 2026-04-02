@@ -665,3 +665,6 @@ Perhaps the most profound question isn’t just *why construct reality?* but:
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -79,3 +79,6 @@ Feel free to share any specific parts of your profile or questions you have, and
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -942,3 +942,6 @@ By leveraging these more advanced topical, procedural, and systemic intervention
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

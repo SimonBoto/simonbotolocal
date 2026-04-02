@@ -180,4 +180,6 @@ This is critical for understanding branched-chain amino acid metabolism.
 - [ ] Concept count matches list
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

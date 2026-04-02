@@ -1100,3 +1100,6 @@ Feel free to modify any sections to better fit your specific details and needs.
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

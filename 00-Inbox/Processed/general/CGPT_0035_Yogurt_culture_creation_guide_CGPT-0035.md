@@ -5653,3 +5653,6 @@ If you want, I can design a **minimal-dosing protocol** where you take only the 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

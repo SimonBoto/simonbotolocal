@@ -5,7 +5,6 @@ type: index
 title: "03-Zettels — Atomic Knowledge"
 aliases: [Zettels, Atomic Notes, Knowledge Core]
 tags: [index, zettels, atomic, knowledge, core, navigation, folder]
-parent-index: [[00-MISSION]
 child-folders: ", "
 status: active
 ---
@@ -82,7 +81,6 @@ Title_Z-{DDD}-{SSSS}].md
 
 ← **Back to ** — Source Processing  
 → **Next: ** — Living Documents  
-↑ **Parent: [[00-MISSION]**
 
 **Siblings:**
  |  |  |  |  |  |  | 
@@ -99,3 +97,6 @@ Title_Z-{DDD}-{SSSS}].md
 
 - Up: [[MOC-Insulin-Signaling]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

@@ -176,3 +176,6 @@ Let me know if you'd like help creating a **separate bio, profile pic, niche ide
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

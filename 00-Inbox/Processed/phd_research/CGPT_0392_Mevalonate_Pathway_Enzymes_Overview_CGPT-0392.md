@@ -100,3 +100,6 @@ This pathway is highly regulated at the level of HMG-CoA Reductase, which is the
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -110,3 +110,6 @@ Take 2-4 capsules daily with water or as directed by your physician.
 
 - Up: [[MOC-Vitamin-Metabolism]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+
+---
+parent-index: [[03-Zettels]]

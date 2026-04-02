@@ -89,3 +89,6 @@ GSH is more important reduced, while the rest are more important in the oxidized
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 9.8/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

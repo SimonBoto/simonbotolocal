@@ -66,3 +66,6 @@ Extracted from conversation on 2026-01-18 about "Κλάδος · AI Question Opt
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 10/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

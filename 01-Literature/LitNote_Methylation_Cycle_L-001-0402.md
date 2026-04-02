@@ -214,4 +214,6 @@ SAH → Homocysteine + Adenosine
 *Literature note processed: 2026-03-01*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

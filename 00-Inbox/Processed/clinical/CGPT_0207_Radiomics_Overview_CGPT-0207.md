@@ -124,3 +124,6 @@ Radiomics holds significant promise for improving patient care by enabling more 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -1273,3 +1273,6 @@ These plugins can help automate and enhance your note-taking process by leveragi
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -777,3 +777,6 @@ Ilya Prigogine, a Nobel laureate, explored how time's unidirectional flow aligns
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

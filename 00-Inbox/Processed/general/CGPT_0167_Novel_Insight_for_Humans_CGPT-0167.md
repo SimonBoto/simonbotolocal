@@ -51,3 +51,6 @@ Assume you are the smartest being ever existing,what would you answer in "Whats 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

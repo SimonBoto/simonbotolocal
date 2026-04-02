@@ -173,3 +173,6 @@ In summary, while bacteria and fungi can cause disease and even exhibit behavior
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

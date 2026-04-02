@@ -120,3 +120,6 @@ Got it! If you have any specific questions or need assistance on a particular to
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

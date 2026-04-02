@@ -113,3 +113,6 @@ tags: [fleeting, template, clinic, initial, metabolomics, summary]
 
 *Template extracted from: Σύνοψη ΑΡΧΙΚΟ.docx*  
 *Translation date: 2026-02-25*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

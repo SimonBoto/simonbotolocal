@@ -77,3 +77,6 @@ tags: [reference, coq10, statin, myopathy, mitochon
 ---
 
 *Added: 2026-04-01 | Last reviewed: 2026-04-01*
+
+---
+parent-index: [[01-References]]

@@ -128,3 +128,6 @@ By implementing this, you’ll **enter flow more consistently, work with purpose
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

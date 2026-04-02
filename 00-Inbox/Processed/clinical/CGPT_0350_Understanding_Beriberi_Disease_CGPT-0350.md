@@ -409,3 +409,6 @@ For more detailed information, consider reviewing clinical resources such as the
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

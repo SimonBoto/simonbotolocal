@@ -185,3 +185,6 @@ Using these approaches, you can convincingly present yourself as a team player w
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

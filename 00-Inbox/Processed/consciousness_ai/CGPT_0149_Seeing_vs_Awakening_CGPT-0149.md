@@ -814,3 +814,6 @@ The question of why we overlook profound knowledge and cling to small-minded pro
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

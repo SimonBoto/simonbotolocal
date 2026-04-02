@@ -214,4 +214,6 @@ Every metabolomics study should report:
 
 *Source: [[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328] | Part of CGPT-0328 Batch 2/3*
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

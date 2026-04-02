@@ -116,4 +116,6 @@ This LitNote documents:
 - [x] Concept count matches "Zettels Created from This Source" list
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

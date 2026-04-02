@@ -2226,3 +2226,6 @@ This version maintains the core elements of your feedback while ensuring clarity
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

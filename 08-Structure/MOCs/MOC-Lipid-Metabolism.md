@@ -69,3 +69,6 @@ See also: [[MOC-Cholesterol-Quality] — Cholesterol quality assessment
 
 ---
 parent-index: [[08 Structure Index]], [[MOCs Index]]
+
+---
+parent-moc: [[MOC-INDEX]]

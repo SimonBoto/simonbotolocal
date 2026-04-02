@@ -1079,3 +1079,6 @@ Each question is followed by four options (A–D). The correct answer is highlig
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

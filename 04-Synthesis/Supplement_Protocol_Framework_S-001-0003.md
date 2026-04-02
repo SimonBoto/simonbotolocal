@@ -107,4 +107,6 @@ contributing-zettels:
 *Framework for personalized supplement protocols. Individualize based on lab results and patient needs.*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[04-Synthesis]]

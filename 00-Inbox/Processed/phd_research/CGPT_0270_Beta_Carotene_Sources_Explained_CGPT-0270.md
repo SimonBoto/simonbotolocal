@@ -308,3 +308,6 @@ This study showed a significant increase in lung cancer incidence and overall mo
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

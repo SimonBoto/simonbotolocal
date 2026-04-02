@@ -274,3 +274,6 @@ You're very welcome! If you ever need more information or have more questions, d
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -331,3 +331,6 @@ Lactate is not mentioned in the main glycolysis pathway because it is not a dire
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -375,3 +375,6 @@ This recipe provides a delicious and hearty way to enjoy chopped boiled eggs wra
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

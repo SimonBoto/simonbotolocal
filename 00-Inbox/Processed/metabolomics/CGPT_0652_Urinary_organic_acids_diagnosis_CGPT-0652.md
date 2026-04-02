@@ -136,3 +136,6 @@ Values higher or lower than the reference range should be interpreted in the con
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

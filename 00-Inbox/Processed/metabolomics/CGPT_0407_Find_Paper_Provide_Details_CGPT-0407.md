@@ -374,3 +374,6 @@ This case report is structured to clearly present the problem, assessment, inter
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

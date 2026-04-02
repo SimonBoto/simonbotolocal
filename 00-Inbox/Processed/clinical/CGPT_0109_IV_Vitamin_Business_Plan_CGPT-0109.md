@@ -570,3 +570,6 @@ We can also include **exit clauses**, tax notes, or co-ownership offers if you p
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

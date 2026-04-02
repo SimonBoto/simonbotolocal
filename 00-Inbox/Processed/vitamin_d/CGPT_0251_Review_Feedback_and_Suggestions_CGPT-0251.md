@@ -697,3 +697,6 @@ By advancing our understanding and application of nutrient synergy, we can move 
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

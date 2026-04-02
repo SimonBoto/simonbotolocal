@@ -50,7 +50,6 @@ Extracted from conversation on 2024-05-17 about "Summarize Request and Response"
 
 ## Connections
 
-- [[03-Zettels/RON/RON_The_Witness_RON-003-0002]]
 
 ## Status
 
@@ -62,3 +61,6 @@ Extracted from conversation on 2024-05-17 about "Summarize Request and Response"
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 10/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

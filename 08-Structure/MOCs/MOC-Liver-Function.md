@@ -65,3 +65,6 @@ tags: [moc, liver, hepatology, metabolism, detoxification]
 
 ---
 parent-index: [[08 Structure Index]], [[MOCs Index]]
+
+---
+parent-moc: [[MOC-INDEX]]

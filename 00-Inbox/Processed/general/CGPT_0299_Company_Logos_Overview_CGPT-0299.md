@@ -916,3 +916,6 @@ While AI has clear advantages in many technical and repetitive tasks, human invo
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -5,7 +5,6 @@ type: index
 title: "02-References — Source Management"
 aliases: [References, Sources, Bibliography]
 tags: [index, references, sources, bibliography, navigation, folder]
-parent-index: [[00-MISSION]
 child-folders: ", , , "
 status: active
 ---
@@ -97,7 +96,6 @@ tags: [reference, topic]
 
 ← **Back to ** — Capture & Input  
 → **Next: ** — Source Processing  
-↑ **Parent: [[00-MISSION]**
 
 **Siblings:**
  |  |  |  |  |  |  | 
@@ -105,3 +103,6 @@ tags: [reference, topic]
 ---
 
 *Every claim needs a source. Every source needs a home.*
+
+---
+parent-index: [[01-References]]

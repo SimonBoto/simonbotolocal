@@ -376,3 +376,6 @@ This comprehensive approach aims to restore balance and promote healing within t
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

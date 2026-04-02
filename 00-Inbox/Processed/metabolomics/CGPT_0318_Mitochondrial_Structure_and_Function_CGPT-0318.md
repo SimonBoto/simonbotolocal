@@ -4287,3 +4287,6 @@ Keep leveraging these strategies to sustain and grow your engagement.
 
 - Up: [[MOC-CGPT-Archive]]
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+
+---
+parent-index: [[00-Inbox-Fleeting]]

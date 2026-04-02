@@ -224,4 +224,6 @@ extraction-date: 2026-02-23
 *Quality: DE1 standard (all cross-connections mapped)*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

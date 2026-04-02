@@ -195,4 +195,6 @@ More Cell Divisions + More Inflammation
 *Extracted: 2026-03-08 | Source: CGPT-0520 | RON v2.5*
 
 ---
-parent-index: [[00-MISSION]]
+
+---
+parent-index: [[02-Literature]]

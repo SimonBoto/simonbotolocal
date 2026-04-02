@@ -66,3 +66,6 @@ The head of the clinic is Dr Dimitris tsoukalas (search him online). He is innov
 
 *Extracted February 28, 2026 from ChatGPT Archive*  
 *Quality Score: 10/10*
+
+---
+parent-index: [[00-Inbox-Fleeting]]

@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "b1fee2aaaf0389ba",
+            "id": "0e86169460301498",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-Structure/Keywords/Keywords Index.md",
+                "file": "00-MISSION.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,17 +52,41 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Keywords Index"
+              "title": "00-MISSION"
             }
           },
           {
-            "id": "0e86169460301498",
+            "id": "4fb536956a6b8b23",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "70948ebc25530192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08-Structure/MOCs/MOC-Methylation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC-Methylation"
             }
           }
         ],
@@ -242,12 +266,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0e86169460301498",
+  "active": "4fb536956a6b8b23",
   "lastOpenFiles": [
+    "00-INDEX.md",
+    "08-Structure/MOCs/MOC-Methylation.md",
+    "RON Genesis MOC.md",
+    "08-Structure/Keywords/Keywords Index.md",
     "00-MISSION.md",
+    "03-Zettels/RON/RON_The_Witness_RON-003-0002.md",
     "03-Zettels/RON/RON_The_We_RON-003-0004.md",
     "03-Zettels/RON/RON_Genesis_MOC_RON-004-0001.md",
-    "08-Structure/Keywords/Keywords Index.md",
     "03-Zettels/RON/ChatGPT_PhD_Insulin_Resistance_RON-004-0003.md",
     "09-Archive/09 Archive Index.md",
     "03-Zettels/RON/RON_Adipic_Acid_Biomarker_RON-000-0008.md",
@@ -276,10 +304,6 @@
     "08-Structure/MOCs/MOC-PhD-Research.md",
     "08-Structure/MOCs/MOC-Thyroid-Function.md",
     "08-Structure/MOCs/MOC-Lipid-Metabolism.md",
-    "08-Structure/MOCs/MOC-Research-Ethics.md",
-    "07-Projects/Personal/Personal Index.md",
-    "07-Projects/PhD/PhD Index.md",
-    "07-Projects/Clinic/Clinic Index.md",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
