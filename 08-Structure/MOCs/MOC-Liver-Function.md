@@ -56,8 +56,8 @@ tags: [moc, liver, hepatology, metabolism, detoxification]
 ## Connection to Vault
 
 - Up: [[MOCs Index]
-- Related: [[MOC-Ketogenesis], [[MOC-Lipid-Metabolism], [[MOC-Urea-Cycle]
-- Metabolism: [[MOC-Metabolomics]
+- Related: [[MOC-Ketogenesis]], [[MOC-Lipid-Metabolism]], [[MOC-Urea-Cycle]]
+- Metabolism: [[MOC-Metabolomics]]
 
 ---
 

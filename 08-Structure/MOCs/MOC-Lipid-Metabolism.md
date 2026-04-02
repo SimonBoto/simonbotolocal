@@ -60,8 +60,8 @@ See also: [[MOC-Cholesterol-Quality] — Cholesterol quality assessment
 ## Connection to Vault
 
 - Up: [[MOCs Index]
-- Related: [[MOC-Cholesterol-Quality], [[MOC-Ketogenesis], [[MOC-Metabolic-Syndrome]
-- Metabolism: [[MOC-Mitochondrial-Function]
+- Related: [[MOC-Cholesterol-Quality]], [[MOC-Ketogenesis]], [[MOC-Metabolic-Syndrome]]
+- Metabolism: [[MOC-Mitochondrial-Function]]
 
 ---
 

@@ -59,7 +59,7 @@ See also: [[MOC-Hashimoto-Thyroiditis] — Deep dive on Hashimoto's
 ## Connection to Vault
 
 - Up: [[MOCs Index]
-- Related: [[MOC-Hashimoto-Thyroiditis], [[MOC-Autoimmunity], [[MOC-Metabolic-Syndrome]
+- Related: [[MOC-Hashimoto-Thyroiditis]], [[MOC-Autoimmunity]], [[MOC-Metabolic-Syndrome]]
 - PhD: [[PhD Index]
 
 ---

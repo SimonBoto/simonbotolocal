@@ -57,7 +57,7 @@ See also: [[MOC-Research-Methods] — General methodology
 ## Connection to Vault
 
 - Up: [[MOCs Index]
-- Related: [[MOC-Research-Methods], [[MOC-Research-Ethics], [[MOC-Metabolomics]
+- Related: [[MOC-Research-Methods]], [[MOC-Research-Ethics]], [[MOC-Metabolomics]]
 - Project: [[PhD Index]
 
 ---

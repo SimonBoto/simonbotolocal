@@ -56,7 +56,7 @@ tags: [moc, kidney, nephrology, renal, metabolism]
 ## Connection to Vault
 
 - Up: [[MOCs Index]
-- Related: [[MOC-Metabolic-Syndrome], [[MOC-Biomarkers]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Biomarkers]]
 - Minerals: [[MOC-Minerals-Trace] — Electrolyte balance
 
 ---
