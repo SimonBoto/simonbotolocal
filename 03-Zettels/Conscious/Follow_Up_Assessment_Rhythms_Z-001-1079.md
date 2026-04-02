@@ -1,133 +1,210 @@
 ---
 uid: Z-001-1079
 type: zettel
-title: Follow Up Assessment Rhythms
+title: "Follow Up Assessment Rhythms"
 aliases: ["Follow-Up"]
-domain: 001
-domain-name: Clinical Protocols
-tags: [zettel, follow-up, assessment, schedule]
+domain: "001"
+tags: [zettel, follow-up, assessment, schedule, monitoring]
 parent-moc: "[[MOC-Metabolomics-Training]]"
 source-litnote: "[[LitNote_Metabolomics_Clinic_Operations_L-001-0597]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
 # Follow Up Assessment Rhythms
 
-## Overview
-Structured follow-up schedule for  patients with specific assessment criteria at each checkpoint.
+4-8-16-28 week schedule for systematic patient monitoring. Each checkpoint has specific assessment goals and decision points.
+
+## Evidence
+> "Follow-up is where clinical outcomes are made or lost. Systematic monitoring catches problems early and celebrates wins." (Chronic care management)
 
 ## The 4-8-16-28 Week Rhythm
 
-### Week 4: Early Response Check
-**Focus:** Tolerance, compliance, early symptoms
+### Week 4: Tolerance Check
+**Primary Goal:** Ensure supplement tolerance
 
-#### Assessment
+**Assessment Focus:**
 | Domain | Questions |
 |--------|-----------|
-| **Symptoms** | Any improvement? New symptoms? |
-| **Compliance** | Taking supplements as directed? |
 | **Side effects** | Any adverse reactions? |
-| **Diet** | Implementing dietary changes? |
+| **Compliance** | Taking supplements as directed? |
+| **Early response** | Any symptom changes? |
+| **Questions** | New concerns since start? |
 
-#### Actions
-- Adjust supplement dosing if needed
-- Address side effects
-- Reinforce dietary recommendations
-- **NO lab testing** (too early for  changes)
+**Decision Tree:**
+- **Tolerating well** → Continue, schedule Week 8
+- **Minor side effects** → Adjust dose, recheck in 2 weeks
+- **Significant issues** → Stop, investigate, reschedule
 
-### Week 8: Early Progress Assessment
-**Focus:** Clinical trends, compliance refinement
+### Week 8: Adherence & Early Response
+**Primary Goal:** Assess adherence and early clinical response
 
-#### Assessment
+**Assessment Focus:**
 | Domain | Evaluation |
 |--------|------------|
-| **Energy** | 0-10 scale, compare to baseline |
-| **Sleep** | Quality and duration |
-| **Digestion** | Bowel function, bloating |
-| **Cognition** | Brain fog, clarity |
+| **Adherence** | Pill count, patient report |
+| **Symptom tracking** | Compare to baseline |
+| **Diet changes** | Compliance with recommendations |
+| **Lifestyle** | Sleep, movement, stress |
 
-#### Actions
-- Intensify or modify protocol based on response
-- Address remaining barriers
-- Consider additional testing if indicated
+**Positive Early Indicators:**
+- Improved energy (often first to respond)
+- Better sleep quality
+- Reduced brain fog
+- Improved digestion
 
-### Week 16: Mid-Point Evaluation
-**Focus:** Significant clinical changes, lab correlation
+**If No Response:**
+- Verify adherence
+- Check supplement quality
+- Consider dose adjustment
+- Review for confounders
 
-#### Assessment
-| Domain | Evaluation |
-|--------|------------|
-| **Symptom scores** | Quantified improvement |
-| **Functional status** | Activity level, exercise tolerance |
-| **Quality of life** | Overall wellbeing |
-| **Lab markers** (if indicated) | Key  improving? |
+### Week 12-16: Retest & Progress Assessment
+**Primary Goal:** Objective assessment via retest
 
-#### Actions
-- Consider repeat OAT if major protocol changes made
-- Adjust long-term maintenance plan
-- Plan for 6-month assessment
+**Assessment Components:**
+| Component | Purpose |
+|-----------|---------|
+| **OAT retest** | Objective marker improvement |
+| **Symptom review** | Subjective progress |
+| **Physical exam** | Clinical signs |
+| **Plan adjustment** | Based on results |
 
-### Week 28: Comprehensive Review
-**Focus:** Outcome assessment, maintenance planning
+**Retest Decision Matrix:**
+| Scenario | Action |
+|----------|--------|
+| **Markers improved + symptoms better** → Continue current plan |
+| **Markers improved + symptoms unchanged** → Explore other causes |
+| **Markers unchanged + symptoms better** → Patient perception matters |
+| **Both unchanged** → Major plan revision |
 
-#### Assessment
-| Domain | Evaluation |
-|--------|------------|
-| **Full symptom review** | System-by-system |
-| **Functional capacity** | Compared to baseline |
-| **Repeat OAT** | Expected: 50%+ improvement in key markers |
-| **Fatty acids** (if indicated) | Omega-3 index, ratio improvements |
+### Week 24-28: Optimization & Maintenance
+**Primary Goal:** Transition to maintenance or continue optimization
 
-#### Actions
-- Transition to maintenance protocol
-- Reduce supplement intensity where appropriate
-- Schedule annual follow-up
-- Celebrate progress with patient
+**Assessment Focus:**
+- Long-term symptom stability
+- Maintenance dose determination
+- Lifestyle habit consolidation
+- Prevention focus
 
-## Annual Maintenance
-**Focus:** Long-term metabolic health
+**Transition Criteria:**
+| Status | Path |
+|--------|------|
+| **Resolved** → Maintenance protocol, annual monitoring |
+| **Improved** → Continue optimization, reduce intensity |
+| **Stable** → Maintenance, periodic reassessment |
+| **Regressed** → Re-evaluate, possible retest |
 
-### Assessment
-- Full OAT and fatty acids
-- Symptom review
-- Lifestyle adherence
-- Preventive adjustments
+## Follow-Up Visit Structure
 
-## Urgent Follow-Up Triggers
-Contact patient immediately if:
-- Severe adverse reaction reported
-- Significant symptom worsening
-- Non-compliance concerns
-- New medical diagnosis
+### Opening (5 min)
+- Welcome, rapport building
+- "What's better since we last met?"
 
-## Documentation Standards
-Each follow-up must document:
-- Date and duration
-- Symptoms assessed
-- Compliance evaluation
-- Protocol adjustments
-- Next appointment scheduled
+### Review (10 min)
+- Symptom tracking review
+- Supplement compliance
+- Diet and lifestyle adherence
+- Side effects or concerns
 
-## Related
-- [[Clinic_Patient_Flow_Operations_Z-001-1077]
-- 
+### Assessment (10 min)
+- Physical exam if indicated
+- New symptoms or changes
+- External stressors (life events)
+
+### Planning (5 min)
+- Continue, adjust, or change plan
+- Set next follow-up
+- Define goals until next visit
+
+## Documentation Template
+
+### Week 4
+```
+Date: ___
+Supplements tolerated: Y / N
+Side effects: ___
+Compliance: ___%
+Early changes: ___
+Plan: Continue / Adjust / Stop
+Next visit: ___
+```
+
+### Week 8
+```
+Date: ___
+Adherence: ___%
+Symptom change: Better / Same / Worse
+Specific improvements: ___
+Diet compliance: ___
+Plan: Continue / Intensify / Modify
+Next visit: ___
+```
+
+### Week 12-16 (Retest)
+```
+Date: ___
+OAT results: Improved / Same / Worse
+Key marker changes: ___
+Symptom correlation: Y / N
+Plan adjustment: ___
+Next retest: ___
+```
+
+## Special Populations
+
+### Complex Cases
+| Characteristic | Follow-Up Frequency |
+|----------------|---------------------|
+| **Multiple conditions** | Every 4 weeks initially |
+| **Severe symptoms** | Weekly until stable |
+| **Polypharmacy** | Every 4 weeks, drug monitoring |
+| **History of non-adherence** | Weekly check-ins |
+
+### Maintenance Phase
+| Stability | Follow-Up |
+|-----------|-----------|
+| **Resolved, stable 6+ months** → Annual |
+| **Improved, stable 3+ months** → Every 6 months |
+| **Ongoing optimization** → Every 8-12 weeks |
+
+## Red Flags: Accelerate Follow-Up
+
+| Situation | Action |
+|-----------|--------|
+| **Severe side effects** → Immediate contact, possible stop |
+| **Significant symptom worsening** → Within 1 week |
+| **New concerning symptoms** → Within 1 week |
+| **Life stressors affecting adherence** → Supportive contact |
+
+## Success Metrics
+
+### Patient-Level
+| Metric | Target |
+|--------|--------|
+| **Symptom improvement** | > 50% reduction in top 3 symptoms |
+| **Quality of life** | Improved on standardized measure |
+| **Adherence** | > 80% supplement compliance |
+| **Satisfaction** | > 90% satisfied with care |
+
+### System-Level
+| Metric | Target |
+|--------|--------|
+| **Follow-up completion rate** | > 85% |
+| **Time to retest** | 12-16 weeks |
+| **No-show rate** | < 10% |
 
 ---
-*Source: CGPT-0022 — Clinic operations*
 
-## RELATED FILES
-- 
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
-- 
+## Structural Links
+- **Up:** [[MOC-Metabolomics-Training]] — Thematic entry
+- **Source:** [[LitNote_Metabolomics_Clinic_Operations_L-001-0597]] — Origin
 
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Lateral Links (Verified Real Zettels)
+- [[Clinic_Patient_Flow_Operations_Z-001-1077]] — Patient flow
+- [[Metabolomics_Quality_Standards_Z-001-1078]] — Quality
+- [[Clinician_Training_Competency_Checklist_Z-001-1080]] — Competency
+- [[MOC-Metabolomics-Training]] — Training hub
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+*Z-001-1079 | Created: 2026-03-08 | Source: CGPT-0022*
