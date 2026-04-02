@@ -92,9 +92,9 @@ Hyperinsulinemia systematically suppresses fatty acid oxidation through dual mec
 
 ## Zettels Generated
 
-- [[Z-001-1253_Hyperinsulinemia_Mechanisms] — Molecular pathways of insulin-mediated lipolysis suppression
-- [[Z-001-1254_Metabolic_Flexibility_Definition] — RER, fuel switching capacity, metabolic health marker
-- [[Z-001-1255_Insulin_Resistance_Beta_Oxidation_Block] — Why IR prevents fat burning, malonyl-CoA role
+- [[Z-001-1253_Hyperinsulinemia_Mechanisms]] — Molecular pathways of insulin-mediated lipolysis suppression
+- [[Z-001-1254_Metabolic_Flexibility_Definition]] — RER, fuel switching capacity, metabolic health marker
+- [[Z-001-1255_Insulin_Resistance_Beta_Oxidation_Block]] — Why IR prevents fat burning, malonyl-CoA role
 
 ---
 

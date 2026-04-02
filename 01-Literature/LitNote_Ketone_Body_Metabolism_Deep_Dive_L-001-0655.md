@@ -136,10 +136,10 @@ Ketone bodies (beta-hydroxybutyrate and acetoacetate) serve as water-soluble, tr
 
 ## Zettels Generated
 
-- [[Z-001-1256_BHB_Production_Fatty_Acids] — Quantification from palmitic acid, HMG-CoA pathway
-- [[Z-001-1257_Ketolysis_SCOT_Mechanism] — Extrahepatic utilization, tissue-specific expression
-- [[Z-001-1258_ATP_Yield_Comparison] — Glucose vs BHB vs fatty acids energy efficiency
-- [[Z-001-1259_Ketone_vs_Glycolysis_Mitochondrial_Entry] — Different cellular routes to acetyl-CoA
+- [[Z-001-1256_BHB_Production_Fatty_Acids]] — Quantification from palmitic acid, HMG-CoA pathway
+- [[Z-001-1257_Ketolysis_SCOT_Mechanism]] — Extrahepatic utilization, tissue-specific expression
+- [[Z-001-1258_ATP_Yield_Comparison]] — Glucose vs BHB vs fatty acids energy efficiency
+- [[Z-001-1259_Ketone_vs_Glycolysis_Mitochondrial_Entry]] — Different cellular routes to acetyl-CoA
 
 ---
 
