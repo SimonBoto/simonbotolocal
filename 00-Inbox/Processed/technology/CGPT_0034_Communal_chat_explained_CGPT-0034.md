@@ -94,3 +94,10 @@ If the two of you want, you can even switch voices mid-message—just let me kno
 
 *This conversation was automatically extracted from ChatGPT history.*
 *See  for navigation.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-CGPT-Archive]]
+- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]

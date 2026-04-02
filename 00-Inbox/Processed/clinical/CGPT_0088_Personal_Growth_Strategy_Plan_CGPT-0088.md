@@ -327,3 +327,10 @@ A clinician with a PhD in metabolomics and strong data/automation skills can lev
 
 *This conversation was automatically extracted from ChatGPT history.*
 *See  for navigation.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-CGPT-Archive]]
+- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]

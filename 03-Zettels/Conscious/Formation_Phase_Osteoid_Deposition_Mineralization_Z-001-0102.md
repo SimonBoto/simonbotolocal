@@ -94,3 +94,10 @@ Osteoblasts synthesize and deposit **osteoid** (unmineralized bone matrix), whic
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

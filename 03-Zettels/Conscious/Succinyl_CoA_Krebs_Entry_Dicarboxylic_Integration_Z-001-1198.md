@@ -158,3 +158,10 @@ Adipyl-CoA
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[BCAA_Succinyl_CoA_Methylmalonyl_Pathway_Z-001-0610]|Z-001-0610]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

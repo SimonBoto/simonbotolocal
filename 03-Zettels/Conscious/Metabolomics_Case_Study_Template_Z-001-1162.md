@@ -188,3 +188,10 @@ Standardized template for documenting and presenting clinical cases in metabolom
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[IRB_Communication_Template_Z-002-0614]|Z-002-0614]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

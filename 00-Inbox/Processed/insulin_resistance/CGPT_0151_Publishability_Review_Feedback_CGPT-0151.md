@@ -338,3 +338,10 @@ Would you prefer a **directly edited draft**, or do you want a **detailed restru
 
 *This conversation was automatically extracted from ChatGPT history.*
 *See  for navigation.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-CGPT-Archive]]
+- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]

@@ -58,3 +58,10 @@ Beta-cell mass becomes insufficient to maintain glycemic control, resulting in a
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

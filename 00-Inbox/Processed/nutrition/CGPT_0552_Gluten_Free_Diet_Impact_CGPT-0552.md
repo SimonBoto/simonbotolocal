@@ -216,3 +216,10 @@ While the fT4/fT3 ratio is not a standard measure in routine thyroid function te
 
 *This conversation was automatically extracted from ChatGPT history.*
 *See  for navigation.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-CGPT-Archive]]
+- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]

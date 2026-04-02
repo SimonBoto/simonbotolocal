@@ -133,3 +133,10 @@ Stress/DNA damage → p53 activation → Cell cycle arrest/apoptosis
 - /Liver_Function_[B-009-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

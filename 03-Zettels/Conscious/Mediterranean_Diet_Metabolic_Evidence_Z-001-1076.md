@@ -103,3 +103,10 @@ Key research supporting Mediterranean diet for metabolic health.
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - [[D_K2_Co_Supplementation_Evidence_Overview_Z-001-0263]|Z-001-0263]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

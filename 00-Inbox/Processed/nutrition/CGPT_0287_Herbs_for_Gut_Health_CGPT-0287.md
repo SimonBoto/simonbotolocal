@@ -369,3 +369,10 @@ This comprehensive approach aims to restore balance and promote healing within t
 
 *This conversation was automatically extracted from ChatGPT history.*
 *See  for navigation.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-CGPT-Archive]]
+- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]

@@ -148,3 +148,10 @@ extraction-date: 2026-03-01
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - 
 - [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]|Z-001-1142]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -59,3 +59,10 @@ Glutamate + Cysteine → γ-Glutamylcysteine (GCL enzyme)
 
 ## RELATED FILES
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

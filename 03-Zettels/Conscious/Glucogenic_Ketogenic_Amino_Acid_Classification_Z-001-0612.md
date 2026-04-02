@@ -108,3 +108,10 @@ The **2 purely ketogenic:**
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[BCAAs_IR_Risk_Z-001-0042]|Z-001-0042]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -115,3 +115,10 @@ Gut microbiome status is reflected in specific OAT markers from bacterial and ye
 
 ## RELATED FILES
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

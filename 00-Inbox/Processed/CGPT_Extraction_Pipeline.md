@@ -189,3 +189,10 @@ Notes: ...
 ---
 
 *Goal: Extract all 675 systematically, 10 at a time, with quality.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-CGPT-Archive]]
+- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]

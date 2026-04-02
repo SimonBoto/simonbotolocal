@@ -74,3 +74,10 @@ Ketoses (especially fructose) are generally **sweeter** than aldoses due to stru
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[Fructose_Glycolytic_Intermediate_Z-001-0468]|Z-001-0468]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

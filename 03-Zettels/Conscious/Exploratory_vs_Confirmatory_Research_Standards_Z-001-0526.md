@@ -206,3 +206,10 @@ Without explicit "exploratory" framing, readers may interpret findings as more r
 
 ## Related
 - [[Metabolomics_Research_Core_Bibliography_Z-001-1074]|Z-001-1074]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

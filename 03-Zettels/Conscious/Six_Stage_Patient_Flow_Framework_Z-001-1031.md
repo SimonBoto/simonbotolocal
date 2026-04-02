@@ -79,3 +79,10 @@ Each stage becomes a **training module** with:
 
 ## Related
 - [[Clinician_Training_Competency_Checklist_Z-001-1080]|Z-001-1080]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

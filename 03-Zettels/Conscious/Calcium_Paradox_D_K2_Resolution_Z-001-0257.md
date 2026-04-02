@@ -123,3 +123,9 @@ Result: Strong bones + Clear arteries
 *Source: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]*  
 *Related: [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]*  
 *Extracted: 2026-03-01*
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

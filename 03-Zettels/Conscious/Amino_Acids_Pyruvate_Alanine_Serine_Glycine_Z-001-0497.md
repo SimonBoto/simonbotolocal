@@ -86,3 +86,10 @@ Serine + Tetrahydrofolate (THF) ↔ Glycine + 5,10-methylene-THF
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - [[Alpha_Keto_Acids_Metabolic_Intermediates_Z-001-0500]|Z-001-0500]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

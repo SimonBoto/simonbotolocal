@@ -286,3 +286,10 @@ Safety and efficacy data for low-carbohydrate and ketogenic diets in chronic kid
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[Threonine_Dual_Metabolism_Glucogenic_Ketogenic_Z-001-0611]|Z-001-0611]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

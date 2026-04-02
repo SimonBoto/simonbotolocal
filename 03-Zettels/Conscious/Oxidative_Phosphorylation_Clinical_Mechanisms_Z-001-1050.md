@@ -84,3 +84,10 @@ The l process where electron transport through Complexes I-IV drives ATP synthes
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

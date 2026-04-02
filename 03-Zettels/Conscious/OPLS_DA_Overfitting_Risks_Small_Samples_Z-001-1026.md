@@ -94,3 +94,10 @@ Orthogonal Partial Least Squares Discriminant Analysis (OPLS-DA) can achieve **p
 - /Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

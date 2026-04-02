@@ -72,3 +72,10 @@ Cholesterol released (regulates SREBP-2)
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
 - [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -92,3 +92,10 @@ Both use the **propionyl-CoA → succinyl-CoA** pathway but differ in ketogenic 
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]|Z-001-1101]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

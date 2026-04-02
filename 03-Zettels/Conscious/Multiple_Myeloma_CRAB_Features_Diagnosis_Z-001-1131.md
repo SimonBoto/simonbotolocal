@@ -120,3 +120,10 @@ Multiple myeloma is characterized by the CRAB features—hyperCalcemia, Renal im
 - /CRP_[B-002-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

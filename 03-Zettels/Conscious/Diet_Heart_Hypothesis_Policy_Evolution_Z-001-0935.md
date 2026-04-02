@@ -49,3 +49,10 @@ Paradigm resistance made correction difficult even as evidence evolved.
 ---
 
 *Source: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

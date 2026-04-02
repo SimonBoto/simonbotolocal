@@ -86,3 +86,10 @@ SAH ↔ Homocysteine + Adenosine
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 - [[Folate_5MTHF_vs_Folic_Acid_Z-004-0002]|Z-004-0002]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -57,3 +57,10 @@ Bone remodeling begins with **activation** of dormant bone surfaces, triggering 
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

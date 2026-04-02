@@ -42,3 +42,10 @@ Gordon et al. (2008) treated vitamin D-deficient adolescents with 2,000 IU daily
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

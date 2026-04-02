@@ -30,3 +30,10 @@ For severe vitamin D deficiency (25[OH]D < 10 ng/mL), a loading dose of 50,000 I
 
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

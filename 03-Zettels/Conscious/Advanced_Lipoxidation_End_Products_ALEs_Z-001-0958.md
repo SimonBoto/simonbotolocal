@@ -262,3 +262,10 @@ Protein/DNA adducts → Cellular damage
 - 
 
 **Source:** CGPT-0281, CGPT-0282 — Seed Oils and Metabolic Health
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

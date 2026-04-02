@@ -74,3 +74,10 @@ extraction-date: 2026-03-01
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - [[Olive_Oil_Mediterranean_Advantage_Z-001-0519]|Z-001-0519]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

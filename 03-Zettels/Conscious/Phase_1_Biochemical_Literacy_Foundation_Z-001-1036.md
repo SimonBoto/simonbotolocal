@@ -69,3 +69,10 @@ Plus: Lactate, ketones, BCAA oxidation, peroxisomes
 
 ---
 *Source: CGPT-0022 — ChatGPT training synthesis*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

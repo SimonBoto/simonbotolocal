@@ -128,3 +128,10 @@ CaSR → ↓ PTH secretion
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - 
 - [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]|Z-001-1059]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -124,3 +124,10 @@ Builds nucleotides from simple precursors (, CO₂, formate)
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]|Z-001-1086]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

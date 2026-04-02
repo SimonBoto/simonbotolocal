@@ -246,3 +246,10 @@ The omega-6 controversy reflects:
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Oxidative_Stress_Lipid_Peroxidation_Mechanisms_Z-001-0954]|Z-001-0954]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

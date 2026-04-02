@@ -148,3 +148,10 @@ patient_id,visit,tg_mg_dl,hdl_c_mg_dl,tg_hdl_ratio,lipid_ir_status
 
 ## Related
 - [[Liver_Enzyme_Pattern_Recognition_Z-008-0001]|Z-008-0001]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

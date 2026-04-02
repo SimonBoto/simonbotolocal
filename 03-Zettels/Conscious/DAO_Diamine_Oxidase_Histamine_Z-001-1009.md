@@ -292,3 +292,10 @@ Histamine + O2 + H2O → Imidazoleacetaldehyde + NH3 + H2O2
 - /CRP_[B-002-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -58,3 +58,10 @@ extraction-date: 2026-03-01
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[IRP1_Iron_Sensing_Molecular_Switch_Z-001-1205]|Z-001-1205]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

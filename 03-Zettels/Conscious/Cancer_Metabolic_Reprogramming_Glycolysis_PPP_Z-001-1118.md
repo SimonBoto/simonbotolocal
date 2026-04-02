@@ -114,3 +114,10 @@ Pyruvate → Acetyl-CoA →  (for membranes)
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]|Z-001-1167]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

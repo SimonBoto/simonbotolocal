@@ -1105,3 +1105,10 @@ Starting with ready-to-use bags (ready-to-fruit bags) for your first batch is a 
 
 *This conversation was automatically extracted from ChatGPT history.*
 *See  for navigation.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-CGPT-Archive]]
+- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]

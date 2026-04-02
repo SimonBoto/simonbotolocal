@@ -116,3 +116,10 @@ status: conscious
 ## RELATED FILES
 - 
 - [[RA_Telomerase_Elevation_Compensatory_Proliferation_Z-001-1175]|Z-001-1175]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

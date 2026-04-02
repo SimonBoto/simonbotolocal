@@ -113,3 +113,10 @@ Organic acids testing reveals gut microbial , dysbiosis, and intestinal permeabi
 - [[Kidney_Function_[B-008-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

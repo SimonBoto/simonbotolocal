@@ -64,3 +64,10 @@ Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin
 
 ## Related
 - [[MMA_Sensitive_B12_Marker_Z-001-0448]|Z-001-0448]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

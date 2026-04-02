@@ -110,3 +110,10 @@ B-vitamins serve as essential cofactors for hundreds of metabolic enzymes—each
 - 
 - 
 - [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]|Z-001-1052]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

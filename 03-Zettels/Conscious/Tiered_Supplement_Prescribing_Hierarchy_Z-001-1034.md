@@ -108,3 +108,10 @@ A structured, sequential approach to supplementation that prioritizes foundation
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
 - [[Magnesium_Supplementation_Diabetes_Clinical_Trials_Z-001-0213]|Z-001-0213]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

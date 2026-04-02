@@ -79,3 +79,10 @@ Six proteins that bind and protect telomeres:
 ---
 
 *Source: _L-001-0623] | 2026-03-08*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -58,3 +58,10 @@ created: 2026-03-08
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[Oleic_Acid_Metabolic_Benefits_Z-001-0533]|Z-001-0533]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

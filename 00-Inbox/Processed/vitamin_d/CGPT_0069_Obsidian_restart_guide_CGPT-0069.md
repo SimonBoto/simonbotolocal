@@ -3449,3 +3449,10 @@ WHERE contains(text, "#expense")
 *See  for navigation.*
 
 ```
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-CGPT-Archive]]
+- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]

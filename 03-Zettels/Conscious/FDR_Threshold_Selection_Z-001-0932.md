@@ -159,3 +159,10 @@ The choice between FDR thresholds reflects a **fundamental trade-off** between s
 - [[Liver_Function_[B-009-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -136,3 +136,10 @@ updated: 2026-03-05
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]|Z-001-0513]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -55,3 +55,10 @@ extraction-date: 2026-03-01
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
 - [[Mevalonate_Branch_Points_Z-001-0547]|Z-001-0547]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

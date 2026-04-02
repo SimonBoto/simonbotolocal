@@ -55,3 +55,10 @@ Metabolic overload creates endoplasmic reticulum stress when protein synthesis d
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[ER_Stress_Induced_IR_Z-001-0014]|Z-001-0014]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

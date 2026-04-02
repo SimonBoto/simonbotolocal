@@ -49,3 +49,10 @@ Post-hoc selection based on outcome = confirmation bias.
 ---
 
 *Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -63,3 +63,10 @@ NADPH + Trx-S₂ → NADP⁺ + Trx-(SH)₂
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
 - _Zinc_Selenium_Z-001-1015]|Z-001-1015]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

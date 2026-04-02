@@ -120,3 +120,10 @@ Mitochondrial Health = Biogenesis - (Damage + Clearance)
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[Sirolimus_Lipotoxicity_Adiponectin_Z-001-0926]|Z-001-0926]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -58,3 +58,10 @@ extraction-date: 2026-03-01
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 - [[Amino_Acids_Pyruvate_Alanine_Serine_Glycine_Z-001-0497]|Z-001-0497]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

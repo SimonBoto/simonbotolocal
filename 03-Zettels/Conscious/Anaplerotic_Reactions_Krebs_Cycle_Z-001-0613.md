@@ -104,3 +104,10 @@ During active biosynthesis, intermediates are withdrawn:
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]|Z-001-1196]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

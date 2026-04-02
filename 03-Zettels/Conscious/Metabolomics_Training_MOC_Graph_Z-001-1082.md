@@ -150,3 +150,10 @@ MOC-Clinical-Protocols → Supplement Hierarchy → Cofactor Deficiency → Qual
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

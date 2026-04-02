@@ -182,3 +182,10 @@ source-litnote: Synthesized from clinical practice
 ---
 *Complete biomarker foundation — Monocytes*
 *Created: 2026-03-31*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

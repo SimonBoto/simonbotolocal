@@ -84,3 +84,10 @@ Valine/Isoleucine/Leucine → Branched-chain α-keto acid
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - _Z-001-0428]|Z-001-0428]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -51,3 +51,10 @@ Omega-3 polyunsaturated fatty acids (PUFAs) are crucial for mitochondrial functi
 
 *This conversation was automatically extracted from ChatGPT history.*
 *See  for navigation.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-CGPT-Archive]]
+- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]

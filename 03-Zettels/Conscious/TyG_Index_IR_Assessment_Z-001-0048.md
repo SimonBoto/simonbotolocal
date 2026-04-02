@@ -163,3 +163,10 @@ patient_id,visit,fasting_tg_mg_dl,fasting_glucose_mg_dl,tyg_index,tyg_status
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

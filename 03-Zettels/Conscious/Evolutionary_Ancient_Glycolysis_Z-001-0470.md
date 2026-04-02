@@ -90,3 +90,10 @@ Key enzymes ~30-50% identical across domains:
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[Glycolysis_Steps_Regulation_Z-001-0467]|Z-001-0467]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

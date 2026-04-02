@@ -55,3 +55,10 @@ Robert Greene's book, "The 48 Laws of Power," outlines 48 strategic laws that ai
 
 *This conversation was automatically extracted from ChatGPT history.*
 *See  for navigation.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-CGPT-Archive]]
+- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]

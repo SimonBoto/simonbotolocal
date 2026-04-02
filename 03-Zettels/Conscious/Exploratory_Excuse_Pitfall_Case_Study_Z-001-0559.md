@@ -142,3 +142,10 @@ Before claiming "biomarker identified":
 - [[Liver_Function_[B-009-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

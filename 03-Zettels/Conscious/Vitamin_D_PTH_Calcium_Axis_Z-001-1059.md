@@ -64,3 +64,10 @@ Low Ca²⁺ → PTH release → D activation → ↑ Ca absorption → Ca²⁺ r
 
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

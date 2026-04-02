@@ -61,3 +61,10 @@ These terms form the vocabulary for:
 - 
 - 
 - [[Methylmalonyl_CoA_Mutase_Energy_Connection_Z-001-0439]|Z-001-0439]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

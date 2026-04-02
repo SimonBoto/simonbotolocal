@@ -229,3 +229,10 @@ created: 2026-03-30
 
 ---
 status: footer
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

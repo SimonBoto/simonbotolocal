@@ -109,3 +109,10 @@ extraction-date: 2026-03-01
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 - [[Hematological_Overlap_B12_MM_Z-001-0420]|Z-001-0420]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -156,3 +156,10 @@ status: conscious
 
 ## Related
 - [[NODAT_Risk_Factors_Management_Z-001-0927]|Z-001-0927]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

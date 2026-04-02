@@ -137,3 +137,10 @@ status: conscious
 ---
 
 *Source: [[LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622] | 2026-03-08*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

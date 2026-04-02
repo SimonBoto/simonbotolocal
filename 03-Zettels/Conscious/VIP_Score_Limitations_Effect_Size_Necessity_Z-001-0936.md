@@ -113,3 +113,10 @@ Studies reporting VIP > 1 without effect sizes:
 - [[Liver_Function_[B-009-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

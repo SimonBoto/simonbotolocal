@@ -346,3 +346,10 @@ Both of these metabolomic markers, the gut microbiome for IBS/IBD and the omega-
 
 *This conversation was automatically extracted from ChatGPT history.*
 *See  for navigation.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-CGPT-Archive]]
+- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]

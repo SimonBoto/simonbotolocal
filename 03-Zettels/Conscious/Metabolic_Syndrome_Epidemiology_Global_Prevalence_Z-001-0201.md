@@ -70,3 +70,10 @@ Understanding epidemiology informs:
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - _Dosing_RDA_Therapeutic_Ranges_Z-001-0219]|Z-001-0219]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

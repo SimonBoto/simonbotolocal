@@ -56,3 +56,10 @@ extraction-date: 2026-03-01
 ## RELATED FILES
 - 
 - _Zinc_Selenium_Z-001-1015]|Z-001-1015]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

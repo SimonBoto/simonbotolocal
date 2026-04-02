@@ -137,3 +137,10 @@ status: conscious
 ---
 
 *Source: [[LitNote_Immunosenescence_Patterns_Autoimmunity_L-001-0626] | 2026-03-08*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

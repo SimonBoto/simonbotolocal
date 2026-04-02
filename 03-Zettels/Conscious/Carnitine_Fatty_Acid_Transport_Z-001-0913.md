@@ -170,3 +170,10 @@ Deficient: Fatty acid → Incomplete oxidation → Adipic acid (excreted)
 
 ## Related
 - [[Lipoproteins_Transport_System_Z-001-0502]|Z-001-0502]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

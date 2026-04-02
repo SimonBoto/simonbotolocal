@@ -128,3 +128,10 @@ Batch 2: D5, C5, D6, QC, C6, D7, C7, QC, D8, C8...
 - /Liver_Function_[B-009-0001]|Biomarker Family Guide]
 - 
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

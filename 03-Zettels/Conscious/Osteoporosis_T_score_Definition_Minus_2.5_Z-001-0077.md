@@ -30,3 +30,10 @@ Osteoporosis is diagnosed when the T-score is ≤ −2.5 on DXA. It is a skeleta
 
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -269,3 +269,10 @@ The METHAP intervention combines targeted dietary modifications with evidence-ba
 
 ## Related
 - [[Mevalonate_METHAP_Integration_Z-001-0549]|Z-001-0549]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -164,3 +164,10 @@ Humanized monoclonal antibody against **sclerostin** that uniquely stimulates bo
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -82,3 +82,10 @@ Glutamate + NH₄⁺ + ATP → Glutamine + ADP + Pi
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -84,3 +84,10 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[B12_METHAP_Protocol_Integration_Z-001-0443]|Z-001-0443]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

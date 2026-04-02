@@ -54,3 +54,10 @@ created: 2026-02-24
 ---
 
 *UID: Z-001-0040 | Domain: 001 | Created: 2026-02-24*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

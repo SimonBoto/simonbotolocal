@@ -96,3 +96,10 @@ Study of how DNA/RNA variations affect drug response:
 
 ## Related
 - [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]|Z-001-0920]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

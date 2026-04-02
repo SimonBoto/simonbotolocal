@@ -145,3 +145,10 @@ extraction-date: 2026-03-01
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
 - [[Omega_6_Cardiovascular_Controversy_Z-001-0962]|Z-001-0962]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

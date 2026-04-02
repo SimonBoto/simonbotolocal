@@ -189,3 +189,10 @@ patient_id,visit,waist_cm,tg_mg_dl,hdl_c_mg_dl,sbp,dbp,glucose,criteria_count,me
 
 ## Related
 - [[Gordon_2008_Adolescent_High_Dose_Protocol_Z-001-0070]|Z-001-0070]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

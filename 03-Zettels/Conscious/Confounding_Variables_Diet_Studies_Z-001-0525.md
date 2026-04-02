@@ -62,3 +62,10 @@ Likely captures **Mediterranean pattern** (olive oil, vegetables, lifestyle) not
 
 ## RELATED FILES
 - 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

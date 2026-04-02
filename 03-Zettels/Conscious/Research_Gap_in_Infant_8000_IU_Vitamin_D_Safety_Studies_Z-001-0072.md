@@ -44,3 +44,10 @@ Despite the corrected RDA calculation showing 7,000-8,000 IU/day is needed for 9
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

@@ -449,3 +449,10 @@ parent-moc: [[MOC-CGPT-Archive]]
 *Archive extracted February 28, 2026*  
 *Total conversations: 673*  
 *See  for detailed metrics*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-CGPT-Archive]]
+- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]

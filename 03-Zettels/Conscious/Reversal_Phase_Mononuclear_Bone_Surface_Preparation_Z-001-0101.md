@@ -76,3 +76,10 @@ Factors released during bone degradation signal formation to begin:
 
 **Status:** Conscious (reviewable)
 **Extracted:** 2026-03-06
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

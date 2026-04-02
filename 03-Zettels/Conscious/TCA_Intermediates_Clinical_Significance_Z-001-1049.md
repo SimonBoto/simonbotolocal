@@ -93,3 +93,10 @@ Each Krebs cycle intermediate has clinical meaning when elevated or depleted on 
 - s/Lipid_Ratios_[B-006-0001]|Biomarker Family Guide]
 - |Biomarkers MOC]
 
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

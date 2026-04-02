@@ -81,3 +81,10 @@ This critical enzyme complex requires:
 
 ## Related
 - [[Organic_Acids_Structures_Functions_Z-001-1116]|Z-001-1116]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

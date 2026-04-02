@@ -30,3 +30,10 @@ Standard protein: 1.0–1.2 g/kg/day. For sarcopenia or high fracture risk: up t
 
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

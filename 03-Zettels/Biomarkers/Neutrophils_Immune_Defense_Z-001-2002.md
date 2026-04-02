@@ -211,3 +211,10 @@ source-litnote: Synthesized from clinical practice
 *Complete biomarker foundation — Neutrophils*
 *Created: 2026-03-31*
 *Upgraded to Gen 2 standard*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

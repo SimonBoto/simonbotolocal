@@ -33,3 +33,10 @@ Protein intake stimulates intestinal calcium absorption. However, extremely high
 - 
 - 
 - [[Bone_Remodeling_Cycle_Five_Phases_Z-001-0083]|Z-001-0083]
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-Insulin-Signaling]]
+- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]

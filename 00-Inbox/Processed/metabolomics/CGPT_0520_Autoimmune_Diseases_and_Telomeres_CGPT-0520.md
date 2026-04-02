@@ -549,3 +549,10 @@ as you can see i am trying to add a small chapter MITOCHONDRIAL-TARGETED INTERVE
 
 *This conversation was automatically extracted from ChatGPT history.*
 *See  for navigation.*
+
+---
+
+## Connection to Vault
+
+- Up: [[MOC-CGPT-Archive]]
+- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
