@@ -39,6 +39,7 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 |--------|-----|---------|-------|
 | **001** | [[MOC-Insulin-Signaling]] | 675 | Core metabolism, insulin resistance |
 | **001-MITO** | [[MOC-Mitochondrial-Function]] | 12+ | Energy metabolism, OXPHOS, TCA cycle |
+| **001-VM** | [[MOC-Vitamin-Mineral-Axis]] | 8+ | Micronutrients, cofactors, supplementation |
 | **002** | [[MOC-Research-Ethics]] | 21 | IRB, study design, ethics |
 | **003** | [[MOC-Iron-Metabolism]] | 3 | Iron studies, ferritin |
 | **004** | [[MOC-Methylation-One-Carbon]] | 4 | B12, folate, homocysteine |
