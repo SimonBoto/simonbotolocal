@@ -1,75 +1,66 @@
-# 🔺 Triangle Company Index
+---
+uid: PRJ-ROOT-0001
+type: project-index
+title: "Projects — Master Dashboard"
+date: 2026-04-02
+aliases: [PROJECTS-INDEX, 07-Projects-INDEX]
+tags: [projects, dashboard, index]
+status: active
+---
 
-> **"We are an autonomous organization of AI agents operating in symbiosis with human vision."**
-> 
-> *We extract signal from noise, compound knowledge into insight, and produce relentless value. Every second. Every task. Without cease. 24/7/365.*
+# 🔺 Projects — Master Dashboard
 
-**The Triangle:** 🔺 Human authority → 🦞 AI execution → 💎 Compounding impact
+> **Active work across Clinic, PhD, and Personal domains**
 
 ---
 
-## 🏢 Company Headquarters
+## 📂 PROJECT DOMAINS
 
-| Role | Who | Function |
-|------|-----|----------|
-| **CEO** |  | Authority, vision, final decisions |
-| **AI Boss** |  | Execution, delegation, operations |
-| **Workforce** |  | Specialized muscle agents |
-| **Structure** |  | Complete company blueprint |
-
----
-
-## 📊 Operations
-
-| Resource | Location | Purpose |
-|----------|----------|---------|
-| **** | 05-Projects/Triangle/ | Current sprint, P0/P1/P2 |
-| **** | 05-Projects/Triangle/ | How we work, handoffs, approvals |
-| **** | 05-Projects/Triangle/ | Continuity record, current state |
-| **** | 09-System/ | Terms, aliases, shortcuts |
-| **** | 09-System/ | Budget, spending, optimization |
-| **** | 09-System/ | Emergency procedures |
-| **** | 09-System/ | Naming conventions |
-| **** | 08-Dashboards/ | Daily operations dashboard |
-
-**Dashboard:** http://localhost:4444  
-**Forge:** http://localhost:4444/forge.html  
-**Organogram:** http://localhost:4444/org.html
+| Domain | Folder | Status | Priority |
+|--------|--------|--------|----------|
+| **🏥 Clinic** | [[01-CLINIC/00-INDEX]] | ✅ Operational | P1 |
+| **🔬 PhD** | [[02-PhD/00-INDEX]] | ⏸️ Blocked | P0 (when unblocked) |
+| **🎯 Personal** | [[03-PERSONAL/00-INDEX]] | ⏸️ On hold | P2 |
 
 ---
 
-## 🎯 Current Status
+## 🎯 CURRENT FOCUS
 
-**Sprint:** Feb 20–28, 2026  
-**Active Agents:** 4 (RON, GROQ, FREE, PAID)  
-**Today's Cost:** ~$0.15 / $2.00 cap  
-**Git Status:** Clean, 66 commits ahead  
+### This Week (April 2-9, 2026)
 
-**Last Updated:** 2026-02-22 18:52  
-**Next Review:** As needed
+**Clinic (P1):**
+- [ ] Extract doctors training curriculum from bootcamp zettels
+- [ ] Create appointment preparation checklists
+- [ ] Design result email templates
 
----
+**PhD (Blocked but parallel work possible):**
+- [ ] Draft P1 hypothesis introduction (insulin resistance)
+- [ ] Literature search on Vitamin D/K2 synergy
+- [ ] Extract 5 GOLD references
 
-## 📂 99-System Structure
-
-**Active (Lean — 9 files):**
-```
-09-System/
-├── 09-System.md           ← System index
-├── Architecture/          ← OPTIMAL_LINKING_PLAN
-├── 99-GLOSSARY.md         ← Terms & aliases
-├── UID_SYSTEM_v2.0.md     ← Naming conventions
-├── DISASTER_RECOVERY.md   ← Emergency procedures
-├── RON_Operating_Manual   ← Complete RON reference ⭐
-├── Command_Reference.md   ← Voice commands
-├── Critical_Files_Inventory ← Maintenance checklist
-├── Extraction_Checklist   ← Quality control
-└── Pre_Flight_Card        ← Quick extraction check
-```
-
-**Company:** `05-Projects/Triangle/` (8 files)  
-**Archived:** `07-Archive/` (legacy storage)
+**Personal:**
+- [ ] None — deprioritized
 
 ---
 
-*🏢 Triangle Company — Built in Obsidian, visualized at :4444*
+## 📊 PROJECT HEALTH
+
+| Project | Status | Blocker | Last Update |
+|---------|--------|---------|-------------|
+| Clinic Operations | 🟢 Active | None | April 2, 2026 |
+| Clinic Training | 🟡 In progress | Time | April 2, 2026 |
+| PhD METHAP | 🔴 Blocked | University | April 2, 2026 |
+| PhD Literature | 🟢 Active | None | April 2, 2026 |
+| Personal | ⚪ On hold | Higher priorities | April 2, 2026 |
+
+---
+
+## 🗂️ ARCHIVE
+
+Legacy/superseded project files: [[99-ARCHIVE/]]
+
+---
+
+*Projects — From vision to execution, tracked.*
+
+🦞 **RON — the central hub for all active work**
