@@ -2,13 +2,12 @@
 uid: Z-001-1075
 type: zettel
 title: Vitamin D Safety Research Summary
-aliases: [Z-001-1075, VitD-Safety-Biblio]
+aliases: ["VitD-Safety-Biblio"]
 domain: 001
 domain-name: Vitamin D Metabolism
 tags: [zettel, vitamin-d, safety, research]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]
-source: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]
+parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
+source-litnote: "[[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]]"
 confidence: high
 created: 2026-03-08
 ---

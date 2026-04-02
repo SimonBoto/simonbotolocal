@@ -2,13 +2,12 @@
 uid: Z-001-1076
 type: zettel
 title: Mediterranean Diet Metabolic Evidence
-aliases: [Z-001-1076, Mediterranean-Biblio]
+aliases: ["Mediterranean-Biblio"]
 domain: 001
 domain-name: Nutrition
 tags: [zettel, mediterranean-diet, research, evidence]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]
-source: [[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]
+parent-moc: "[[MOC-Metabolomics-Training]]"
+source-litnote: "[[LitNote_Tsoukalas_Research_Bibliography_L-001-0596]]"
 confidence: high
 created: 2026-03-08
 ---

@@ -11,8 +11,9 @@ pmcid: N/A
 tier: 3
 relevance: High — 50+ curated papers on metabolomics, Vitamin D safety, fatty acids, metabolic syndrome
 status: extracted
-parent-moc: 
-extraction-date: 2026-03-08
+source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
+parent-moc: "[[MOC-Metabolomics-Training]]"
+extraction-date: "2026-03-08"
 ---
 
 # Lit: ChatGPT 2025 — Tsoukalas Research Bibliography Curated Studies
@@ -69,9 +70,6 @@ extraction-date: 2026-03-08
 3. [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]] — Dietary intervention studies
 
 ## Related References
-- 
-- 
-- 
 
 ---
 
