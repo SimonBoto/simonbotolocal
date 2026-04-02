@@ -2,13 +2,12 @@
 uid: Z-001-1071
 type: zettel
 title: Patient Objection Response Scripts
-aliases: [Z-001-1071, Objection-Scripts]
+aliases: ["Objection-Scripts"]
 domain: 001
 domain-name: Clinical Communication
 tags: [zettel, objections, scripts, communication]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Patient_Communication_Scripts_L-001-0595]
-source: [[LitNote_Patient_Communication_Scripts_L-001-0595]
+parent-moc: "[[MOC-Metabolomics-Training]]"
+source-litnote: "[[LitNote_Patient_Communication_Scripts_L-001-0595]]"
 confidence: high
 created: 2026-03-08
 ---

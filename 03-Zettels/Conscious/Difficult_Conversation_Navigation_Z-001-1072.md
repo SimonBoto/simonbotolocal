@@ -2,13 +2,12 @@
 uid: Z-001-1072
 type: zettel
 title: Difficult Conversation Navigation
-aliases: [Z-001-1072, Difficult-Conversations]
+aliases: ["Difficult-Conversations"]
 domain: 001
 domain-name: Clinical Communication
 tags: [zettel, difficult-conversations, challenges]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Patient_Communication_Scripts_L-001-0595]
-source: [[LitNote_Patient_Communication_Scripts_L-001-0595]
+parent-moc: "[[MOC-Metabolomics-Training]]"
+source-litnote: "[[LitNote_Patient_Communication_Scripts_L-001-0595]]"
 confidence: high
 created: 2026-03-08
 ---

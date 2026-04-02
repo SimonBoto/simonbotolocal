@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "11e93bff208205ba",
+            "id": "4babb119d6d7cb98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Literature/LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594.md",
+                "file": "01-Literature/LitNote_Patient_Communication_Scripts_L-001-0595.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594"
+              "title": "LitNote_Patient_Communication_Scripts_L-001-0595"
+            }
+          },
+          {
+            "id": "440a3c4c7f63e2fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Zettels/Conscious/Metabolic_Storytelling_Patient_Framework_Z-001-1070.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Metabolic_Storytelling_Patient_Framework_Z-001-1070"
             }
           }
         ],
@@ -233,9 +257,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "11e93bff208205ba",
+  "active": "4babb119d6d7cb98",
   "lastOpenFiles": [
+    "03-Zettels/Conscious/Metabolic_Storytelling_Patient_Framework_Z-001-1070.md",
+    "01-Literature/LitNote_Patient_Communication_Scripts_L-001-0595.md",
     "00-Inbox/Processed/metabolomics/CGPT_0022_Metabolomics_training_role_CGPT-0022.md",
+    "01-Literature/LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594.md",
     "03-Zettels/Conscious/Magnesium_Biochemistry_Clinical_Roles_Z-001-1060.md",
     "03-Zettels/Conscious/Vitamin_D_PTH_Calcium_Axis_Z-001-1059.md",
     "08-Structure/MOCs/MOC-Vitamin-Mineral-Axis.md",
@@ -259,9 +286,6 @@
     "03-Zettels/Conscious/Phase_4_Clinical_Integration_Drills_Z-001-1039.md",
     "08-Structure/MOCs/MOC-Clinical-Training.md",
     "Base File All Notes.base",
-    "08-Structure/Templates/Template_LitNote_Assessment_v1.0.md",
-    "08-Structure/MOCs/MOC-Metabolic-Syndrome.md",
-    "08-Structure/Templates/Template_LitNote_Scalable_v1.0.md",
     "08-Structure/Templates/sedoJjwX5",
     "08-Structure/Templates/sedclJo0e",
     "06-Structure/Dashboards",

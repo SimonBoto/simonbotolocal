@@ -11,8 +11,9 @@ pmcid: N/A
 tier: 3
 relevance: High — 25+ patient objection responses, metabolic storytelling, reframing techniques
 status: extracted
-parent-moc: 
-extraction-date: 2026-03-08
+source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
+parent-moc: "[[MOC-Metabolomics-Training]]"
+extraction-date: "2026-03-08"
 ---
 
 # Lit: ChatGPT 2025 — Patient Communication Scripts and Objection Handling
@@ -27,22 +28,22 @@ extraction-date: 2026-03-08
 ### 1. Metabolic Storytelling Framework
 > "Explain findings in human language—no pathobabble. Build trust through clarity."
 
-**Zettel extracted:** [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]
+**Zettel extracted:** [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]]
 
 ### 2. Common Objection Responses
 > "25+ scripted responses to patient objections—nutrition, supplements, cost, skepticism."
 
-**Zettel extracted:** [[Patient_Objection_Response_Scripts_Z-001-1071]
+**Zettel extracted:** [[Patient_Objection_Response_Scripts_Z-001-1071]]
 
 ### 3. Difficult Conversation Navigation
 > "How to handle 'My doctor says this is quackery' and similar challenges."
 
-**Zettel extracted:** [[Difficult_Conversation_Navigation_Z-001-1072]
+**Zettel extracted:** [[Difficult_Conversation_Navigation_Z-001-1072]]
 
 ### 4. Report Structure Standards
 > "Live and email report formats—concise, visual, actionable."
 
-**Zettel extracted:** [[Metabolomics_Report_Structure_Standards_Z-001-1073]
+**Zettel extracted:** [[Metabolomics_Report_Structure_Standards_Z-001-1073]]
 
 ## The 25 Objections Covered
 
@@ -76,9 +77,8 @@ extraction-date: 2026-03-08
 4. [[Metabolomics_Report_Structure_Standards_Z-001-1073]] — Report formats
 
 ## Related References
-- 
-- [[Patient_Communication_Core_Concepts_Z-001-1047]
-- [[MCI_Three_Function_Architecture_Z-001-1030]
+- [[Patient_Communication_Core_Concepts_Z-001-1047]]
+- [[MCI_Three_Function_Architecture_Z-001-1030]]
 
 ---
 
