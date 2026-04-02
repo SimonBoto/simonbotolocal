@@ -2,13 +2,12 @@
 uid: Z-001-1062
 type: zettel
 title: One Carbon Metabolism Folate B12
-aliases: [Z-001-1062, One-Carbon]
+aliases: ["One-Carbon"]
 domain: 001
 domain-name: Methylation
 tags: [zettel, folate, b12, methylation, homocysteine]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
-source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
+parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
+source-litnote: "[[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]"
 confidence: high
 created: 2026-03-08
 ---

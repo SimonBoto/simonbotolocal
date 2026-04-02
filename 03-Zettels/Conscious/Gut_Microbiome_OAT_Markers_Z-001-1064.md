@@ -2,13 +2,12 @@
 uid: Z-001-1064
 type: zettel
 title: Gut Microbiome OAT Markers
-aliases: [Z-001-1064, Gut-OAT]
+aliases: ["Gut-OAT"]
 domain: 001
 domain-name: Metabolomics Analysis
 tags: [zettel, gut, microbiome, oat, dysbiosis]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
-source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
+parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
+source-litnote: "[[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]"
 confidence: high
 created: 2026-03-08
 ---

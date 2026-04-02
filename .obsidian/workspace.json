@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b9ce7f9effb19d1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "65c9339abede9d22",
             "type": "leaf",
             "state": {
@@ -42,36 +32,12 @@
             }
           },
           {
-            "id": "4a189b8ff6ae65cd",
+            "id": "efa643184099b29c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Literature/LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591"
-            }
-          },
-          {
-            "id": "1a4649faa9f7f802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Zettels/Conscious/Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053.md",
+                "file": "01-Literature/LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053"
+              "title": "LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593"
             }
           },
           {
-            "id": "a8728bd3af751646",
+            "id": "667219d92a9f635e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Zettels/Conscious/Cofactor_Deficiency_OAT_Signatures_Z-001-1052.md",
+                "file": "03-Zettels/Conscious/Gut_Microbiome_OAT_Markers_Z-001-1064.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cofactor_Deficiency_OAT_Signatures_Z-001-1052"
+              "title": "Gut_Microbiome_OAT_Markers_Z-001-1064"
             }
           },
           {
-            "id": "fe6b00a58491d4ce",
+            "id": "ebc76bba88795843",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Zettels/Conscious/Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051.md",
+                "file": "03-Zettels/Conscious/One_Carbon_Metabolism_Folate_B12_Z-001-1062.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -134,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051"
+              "title": "One_Carbon_Metabolism_Folate_B12_Z-001-1062"
             }
           },
           {
-            "id": "d0b6fc9eba428377",
+            "id": "8776929f1bbac668",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Zettels/Conscious/Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050.md",
+                "file": "03-Zettels/Conscious/Vitamin_K2_Calcium_Direction_MGP_Z-001-1061.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -158,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050"
+              "title": "Vitamin_K2_Calcium_Direction_MGP_Z-001-1061"
             }
           },
           {
-            "id": "823d6ac1ef55c2d7",
+            "id": "14c97a96066395c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Zettels/Conscious/TCA_Intermediates_Clinical_Significance_Z-001-1049.md",
+                "file": "03-Zettels/Conscious/Vitamin_D_PTH_Calcium_Axis_Z-001-1059.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -182,16 +148,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TCA_Intermediates_Clinical_Significance_Z-001-1049"
+              "title": "Vitamin_D_PTH_Calcium_Axis_Z-001-1059"
             }
           },
           {
-            "id": "494d0a78401a438d",
+            "id": "63b4111ee9ea4155",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Zettels/Conscious/Krebs_Cycle_Clinical_Biochemistry_Z-001-1048.md",
+                "file": "03-Zettels/Conscious/Magnesium_Biochemistry_Clinical_Roles_Z-001-1060.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -206,11 +172,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Krebs_Cycle_Clinical_Biochemistry_Z-001-1048"
+              "title": "Magnesium_Biochemistry_Clinical_Roles_Z-001-1060"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -387,16 +353,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "494d0a78401a438d",
+  "active": "14c97a96066395c0",
   "lastOpenFiles": [
+    "03-Zettels/Conscious/Magnesium_Biochemistry_Clinical_Roles_Z-001-1060.md",
+    "03-Zettels/Conscious/Vitamin_K2_Calcium_Direction_MGP_Z-001-1061.md",
+    "03-Zettels/Conscious/One_Carbon_Metabolism_Folate_B12_Z-001-1062.md",
+    "03-Zettels/Conscious/Gut_Microbiome_OAT_Markers_Z-001-1064.md",
+    "01-Literature/LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593.md",
+    "03-Zettels/Conscious/Vitamin_D_PTH_Calcium_Axis_Z-001-1059.md",
+    "00-Inbox/Processed/metabolomics/CGPT_0022_Metabolomics_training_role_CGPT-0022.md",
+    "03-Zettels/Conscious/Krebs_Cycle_Clinical_Biochemistry_Z-001-1048.md",
     "03-Zettels/Conscious/TCA_Intermediates_Clinical_Significance_Z-001-1049.md",
     "03-Zettels/Conscious/Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050.md",
     "03-Zettels/Conscious/Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051.md",
     "03-Zettels/Conscious/Cofactor_Deficiency_OAT_Signatures_Z-001-1052.md",
     "03-Zettels/Conscious/Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053.md",
     "01-Literature/LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591.md",
-    "03-Zettels/Conscious/Krebs_Cycle_Clinical_Biochemistry_Z-001-1048.md",
-    "00-Inbox/Processed/metabolomics/CGPT_0022_Metabolomics_training_role_CGPT-0022.md",
     "03-Zettels/Conscious/Bootcamp_Four_Phase_Structure_Z-001-1035.md",
     "03-Zettels/Conscious/Phase_1_Biochemical_Literacy_Foundation_Z-001-1036.md",
     "03-Zettels/Conscious/Phase_2_OAT_Pattern_Mastery_Z-001-1037.md",
@@ -410,12 +382,6 @@
     "08-Structure/MOCs/MOC-Metabolic-Syndrome.md",
     "08-Structure/Templates/Template_LitNote_Scalable_v1.0.md",
     "08-Structure/Templates/Template_Zettel_Direct_v1.0.md",
-    "08-Structure/Templates/Template_Inbox_Adaptive_v1.0.md",
-    "08-Structure/Templates/Template_Reference_Queue_v1.0.md",
-    "08-Structure/Templates/Template_Reference_Note_v1.0.md",
-    "08-Structure/Templates/Template_Zettel_Zettelkasten_v1.0.md",
-    "08-Structure/Templates/Template_LitNote_Zettelkasten_v1.0.md",
-    "08-Structure/Templates/Template_Inbox_Raw_v1.0.md",
     "08-Structure/Templates/sedoJjwX5",
     "08-Structure/Templates/sedclJo0e",
     "06-Structure/Dashboards",

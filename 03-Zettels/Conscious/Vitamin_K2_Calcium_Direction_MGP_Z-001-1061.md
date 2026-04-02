@@ -2,13 +2,12 @@
 uid: Z-001-1061
 type: zettel
 title: Vitamin K2 Calcium Direction MGP
-aliases: [Z-001-1061, K2-MGP]
+aliases: ["K2-MGP"]
 domain: 001
 domain-name: Vitamin Metabolism
 tags: [zettel, vitamin-k2, mgp, calcium]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
-source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
+parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
+source-litnote: "[[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]"
 confidence: high
 created: 2026-03-08
 ---

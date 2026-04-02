@@ -2,13 +2,12 @@
 uid: Z-001-1059
 type: zettel
 title: Vitamin D PTH Calcium Axis
-aliases: [Z-001-1059, D-PTH-Ca]
+aliases: ["D-PTH-Ca"]
 domain: 001
 domain-name: Vitamin D Metabolism
 tags: [zettel, vitamin-d, pth, calcium, axis]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
-source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
+parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
+source-litnote: "[[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]"
 confidence: high
 created: 2026-03-08
 ---

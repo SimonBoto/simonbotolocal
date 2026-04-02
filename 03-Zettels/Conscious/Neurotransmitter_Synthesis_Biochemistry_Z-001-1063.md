@@ -2,13 +2,12 @@
 uid: Z-001-1063
 type: zettel
 title: Neurotransmitter Synthesis Biochemistry
-aliases: [Z-001-1063, Neurotransmitters]
+aliases: ["Neurotransmitters"]
 domain: 001
 domain-name: Metabolism
 tags: [zettel, neurotransmitters, dopamine, serotonin, gaba]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
-source: [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]
+parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
+source-litnote: "[[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]"
 confidence: high
 created: 2026-03-08
 ---
