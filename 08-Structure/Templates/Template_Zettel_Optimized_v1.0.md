@@ -5,8 +5,8 @@ title: "{{Atomic Claim}}"
 aliases: ["{{ShortSlug}}"]
 domain: "{{XXX}}"
 tags: [zettel, "{{topic}}"]
-parent-moc: "[[MOC-Example]]"
-source: "[[LitNote_{{Title}}_{{L-XXX-XXXX}}]]"
+parent-moc: "[[MOC-Metabolomics-Training]]"
+source-litnote: "LitNote_{{Title}}_{{L-XXX-XXXX}}"
 confidence: high
 created: "{{YYYY-MM-DD}}"
 ---
@@ -24,8 +24,8 @@ created: "{{YYYY-MM-DD}}"
 ---
 
 ## Structural Links (Navigation)
-- **Up:** [[MOC-Example]] — Thematic entry point
-- **Source:** [[LitNote_{{Title}}_{{L-XXX-XXXX}}]] — Origin
+- **Up:** [[MOC-Metabolomics-Training]] — Thematic entry point
+- **Source:** `LitNote_{{Title}}_{{L-XXX-XXXX}}` — Origin
 - **Index:** [[03-Zettels-Conscious]] — Container
 
 ## Lateral Links (Thinking)

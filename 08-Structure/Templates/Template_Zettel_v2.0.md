@@ -9,9 +9,9 @@ tags: ["zettel", "{{topic}}", "{{subtopic}}"]
 # Structural links (for navigation - digital necessity)
 parent-index: "[[03-Zettels-Conscious]]"
 # Semantic links (for thinking - Luhmann-style)
-parent-moc: "[[MOC-Example]]"  # Change to actual thematic MOC
+parent-moc: "[[MOC-Metabolomics-Training]]"
 related: []  # Add 2-3 lateral connections during review
-source: "[[{{LitNote_Title}}_{{L-XXX-XXXX}}]]"  # Link to source LitNote (if applicable)
+source-litnote: "{{LitNote_Title}}_{{L-XXX-XXXX}}"
 fleeting-origin: ""  # Link to originating Fleeting note (if applicable)
 confidence: "high | medium | low"
 created: "{{YYYY-MM-DD}}"

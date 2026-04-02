@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,8 +267,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "31662859b2ed04c6",
+  "active": "4babb119d6d7cb98",
   "lastOpenFiles": [
+    "08-Structure/MOCs/MOC-Biomarkers.md",
     "01-Literature/LitNote_Patient_Communication_Scripts_L-001-0595.md",
     "03-Zettels/Conscious/Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032.md",
     "03-Zettels/Conscious/Metabolic_Storytelling_Patient_Framework_Z-001-1070.md",
@@ -294,7 +295,6 @@
     "03-Zettels/Conscious/Phase_3_Lipidomics_Interpretation_Z-001-1038.md",
     "03-Zettels/Conscious/Training_Teaching_Style_Framework_Z-001-1040.md",
     "01-Literature/LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589.md",
-    "03-Zettels/Conscious/Phase_4_Clinical_Integration_Drills_Z-001-1039.md",
     "Base File All Notes.base",
     "08-Structure/Templates/sedoJjwX5",
     "08-Structure/Templates/sedclJo0e",

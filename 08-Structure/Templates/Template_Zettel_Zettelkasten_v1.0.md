@@ -38,9 +38,9 @@ Lateral links added ONLY during 30-day review when targets are verified.
 ---
 
 ## Structural Links
-- **Up:** [[MOC-Example]] — Thematic entry ⚠️ VERIFY EXISTS
-- **Source LitNote:** [[Lit_{{Title}}_{{L-XXX-XXXX}}]] — Origin
-- **Reference:** [[{{Author}}_{{Year}}_R-XXX-XXXX]] — Evidence
+- **Up:** [[MOC-Metabolomics-Training]] — Thematic entry
+- **Source LitNote:** `Lit_{{Title}}_{{L-XXX-XXXX}}` — Origin
+- **Reference:** `{{Author}}_{{Year}}_R-XXX-XXXX` — Evidence
 - **Citation:** ({{Author, Year}})
 
 ## Lateral Links
