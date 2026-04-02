@@ -6,7 +6,7 @@ aliases: ["{{S-XXX-XXXX}}", "{{ShortSlug}}"]
 domain: "{{XXX}}"
 domain-name: "{{DomainName}}"
 tags: ["synthesis", "{{topic}}", "living-document"]
-parent-moc: ""
+parent-moc: "[[MOC-Example]]"  # Link to thematic MOC
 status: "{{evolving|draft|active|archived}}"
 version: "{{1.0}}"
 created: "{{YYYY-MM-DD}}"

@@ -11,7 +11,8 @@ parent-index: "[[03-Zettels-Conscious]]"
 # Semantic links (for thinking - Luhmann-style)
 parent-moc: "[[MOC-Example]]"  # Change to actual thematic MOC
 related: []  # Add 2-3 lateral connections during review
-source: ""
+source: "[[{{LitNote_Title}}_{{L-XXX-XXXX}}]]"  # Link to source LitNote (if applicable)
+fleeting-origin: ""  # Link to originating Fleeting note (if applicable)
 confidence: "high | medium | low"
 created: "{{YYYY-MM-DD}}"
 extraction-date: "{{YYYY-MM-DD}}"

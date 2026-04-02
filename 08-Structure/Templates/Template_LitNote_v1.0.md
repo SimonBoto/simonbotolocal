@@ -13,6 +13,7 @@ tier-classification: "{{GOLD|SILVER|BRONZE}}"
 relevance: "{{High|Medium|Low}} — {{Why relevant}}"
 status: "{{stub|processing|extracted|complete}}"
 parent-moc: "[[MOC-Example]]"  # Link to thematic MOC
+fleeting-origin: ""  # Link to originating Fleeting note (if started there)
 extraction-date: "{{YYYY-MM-DD}}"
 ---
 
