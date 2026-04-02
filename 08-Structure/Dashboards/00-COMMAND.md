@@ -10,7 +10,7 @@ status: active
 | Priority | Item | Status | Next Action |
 |----------|------|--------|-------------|
 | P0 | Bracket removal from filenames | ✅ Complete | All 1,900+ files renamed |
-| P0 | Vault structure cleanup | 🔄 Active | 06, 08, 00, root |
+| P0 | Vault structure cleanup | ✅ Complete | 06-Structure removed, 08-Structure consolidated |
 | P0 | PhD ClinicalTrials.gov | ⏸️ Blocked | University delays |
 
 ## P1 — High Value
