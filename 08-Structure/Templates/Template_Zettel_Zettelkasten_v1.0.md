@@ -17,6 +17,10 @@ PRE-FLIGHT CHECKLIST:
 - [ ] source-litnote uses full filename with ]]
 - [ ] All [[links]] have closing ]]
 - [ ] No non-standard sections (RELATED FILES, etc.)
+- [ ] VERIFY BEFORE LINKING: ls 03-Zettels/Conscious/{{filename}}.md
+
+CRITICAL: NEVER create links to imaginary notes. Shadow notes pollute the vault.
+Lateral links added ONLY during 30-day review when targets are verified.
 -->
 
 # {{Atomic Claim}}

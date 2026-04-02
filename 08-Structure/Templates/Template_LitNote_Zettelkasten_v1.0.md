@@ -20,6 +20,9 @@ PRE-FLIGHT CHECKLIST:
 - [ ] Index link correct: [[02-Literature]] (not 01)
 - [ ] All [[links]] have closing ]]
 - [ ] Zettel links use full filenames
+- [ ] VERIFY BEFORE LINKING: ls 03-Zettels/Conscious/{{filename}}.md
+
+CRITICAL: NEVER create links to imaginary notes. Shadow notes pollute the vault.
 -->
 
 # Lit: {{Source Title}}
