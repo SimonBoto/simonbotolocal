@@ -77,6 +77,8 @@ Vitamin K2 directs calcium into bone and away from vasculature by activating Mat
 ## Lateral Links (Verified Real Zettels)
 - [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]] — D partner
 - [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]] — Mineral cofactor
+- [[Bone_Balance_Equation_Resorption_Formation_Coupling_Z-001-0104]] — Bone remodeling
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]] — Calcium paradox
 - [[MOC-Biomarkers]] — Cardiovascular biomarkers
 
 ---

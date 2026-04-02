@@ -88,6 +88,8 @@ Magnesium is a cofactor for >300 enzymes, essential for ATP function, muscle rel
 ## Lateral Links (Verified Real Zettels)
 - [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]] — D-Mg interaction
 - [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] — Deficiency patterns
+- [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]] — Energy cofactors
+- [[Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050]] — ATP production
 - [[MOC-Biomarkers]] — Mineral biomarkers
 
 ---

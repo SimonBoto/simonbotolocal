@@ -109,6 +109,9 @@ Microbiome markers on organic acids testing: indican, hippurate, phenylacetate, 
 ## Lateral Links (Verified Real Zettels)
 - [[Neurotransmitter_Synthesis_Biochemistry_Z-001-1063]] — Gut-brain axis
 - [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] — OAT interpretation
+- [[Dysbiosis_Detection_Metabolomics_Z-001-0023]] — Dysbiosis detection
+- [[Endotoxin_LPS_Translocation_Gut_Leaky_Gut_Z-001-0951]] — Leaky gut
+- [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]] — Treatment reactions
 - [[MOC-Biomarkers]] — Gut biomarkers
 
 ---

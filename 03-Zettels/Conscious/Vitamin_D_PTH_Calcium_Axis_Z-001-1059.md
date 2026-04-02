@@ -90,6 +90,9 @@ Hormonal system regulating calcium homeostasis, bone metabolism, immune function
 ## Lateral Links (Verified Real Zettels)
 - [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]] — Cofactor detail
 - [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]] — Calcium directionality
+- [[Calcium_Homeostasis_Tight_Regulation_Z-001-0258]] — Calcium regulation mechanisms
+- [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]] — D-K2 partnership
+- [[Bone_Remodeling_Cycle_Five_Phases_Z-001-0083]] — Bone metabolism
 - [[MOC-Biomarkers]] — Biomarker reference
 
 ---

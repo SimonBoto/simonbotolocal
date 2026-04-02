@@ -89,6 +89,8 @@ The folate-B12-methionine-homocysteine pathway for methylation, DNA synthesis, a
 
 ## Lateral Links (Verified Real Zettels)
 - [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] — OAT markers
+- [[B12_Deficiency_Manifestations_Z-001-0406]] — B12 deficiency signs
+- [[B12_Absorption_Transport_Z-001-0403]] — B12 biochemistry
 - [[MOC-Methylation-One-Carbon]] — Extended methylation pathway
 - [[MOC-Biomarkers]] — Homocysteine, MMA biomarkers
 

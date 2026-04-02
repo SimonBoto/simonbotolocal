@@ -100,6 +100,8 @@ Dopamine, serotonin, and GABA synthesis from amino acid precursors. Understandin
 ## Lateral Links (Verified Real Zettels)
 - [[Gut_Microbiome_OAT_Markers_Z-001-1064]] — Gut-brain axis
 - [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] — B6 deficiency
+- [[Dysbiosis_Detection_Metabolomics_Z-001-0023]] — Gut dysbiosis
+- [[Gut_Derived_Mechanisms_IR_Z-001-0032]] — Gut-IR connection
 - [[MOC-Biomarkers]] — Neurotransmitter metabolites
 
 ---
