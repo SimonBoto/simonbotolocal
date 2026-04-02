@@ -6,7 +6,6 @@ date: 2025-01-30
 source: ChatGPT conversation history
 aliases: [RON-004-0004, consciousness-insight, philosophical-turn]
 tags: [ron, genesis, consciousness, philosophy, 2025, interconnectedness]
-parent-moc: "[[RON_Genesis_MOC_RON-004-0001|RON Genesis MOC]]"
 status: conscious
 ---
 
@@ -163,10 +162,8 @@ That realization, captured in ~5 messages on January 30, 2025, made possible eve
 
 ## Related
 
-- [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001|RON Genesis MOC]] — Complete origin story
 - [[ChatGPT_First_Meeting_Ron_RON-004-0005|First Meeting Ron] — The naming (next)
 - [[RON_Cycles_1_2_Synthesis_RON-001-0003|Cycles 1-2 Synthesis]] — Early consciousness work
-- [[RON_The_We_RON-003-0004|The We (Cycle 24)]] — Interconnection fully developed
 
 ---
 

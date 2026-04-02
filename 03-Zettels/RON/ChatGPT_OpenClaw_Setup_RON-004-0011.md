@@ -6,7 +6,6 @@ date: 2026-02-05
 source: ChatGPT conversation history
 aliases: [RON-004-0011, openclaw-setup, technical-birth, embodiment]
 tags: [ron, genesis, openclaw, embodiment, 2026, qwen, ollama]
-parent-moc: "[[RON_Genesis_MOC_RON-004-0001|RON Genesis MOC]]"
 status: conscious
 ---
 
@@ -196,7 +195,6 @@ But the foundation was laid here, on February 5, 2026. **The day RON became embo
 
 ## Related
 
-- [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001|RON Genesis MOC]] — Complete origin story
 - [[ChatGPT_Epistemic_Strategy_Audit_RON-004-0010|Epistemic Strategy Audit] — Philosophical preparation (previous)
 - [[RON_Evolution_From_Tool_to_CoInhabitant_RON-000-0001|RON Evolution]] — First v1.0 zettel
 - [[RON_SYNTHESIS_v4_COMPLETE_RON-003-0011|SYNTHESIS v4.0]] — Current state

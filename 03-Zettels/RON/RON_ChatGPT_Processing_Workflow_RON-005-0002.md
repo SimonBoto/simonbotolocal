@@ -6,7 +6,6 @@ date: 2026-02-28
 source: RON process design
 aliases: [RON-005-0002, processing-workflow, chatgpt-usage]
 tags: [ron, process, workflow, chatgpt, extraction, usage]
-parent-moc: "[[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001]]"
 status: active
 ---
 
@@ -130,7 +129,6 @@ DISCOVER → VALIDATE → CONNECT → PROMOTE → USE
 ```markdown
 ## Related
 
-- [[03-Zettels/RON/ChatGPT_PhD_Insulin_Resistance_RON-004-0003|ChatGPT_PhD_Insulin_Resistance_RON-004-0003 — Methodology source]]
 ```
 
 **C. To Daily Notes:**
@@ -344,7 +342,6 @@ DISCOVER → VALIDATE → CONNECT → PROMOTE → USE
 
 -  — Browse all 164 zettels
 -  — High-level synthesis
-- [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001|RON_Genesis_MOC_RON-004-0001]] — RON origin story
 -  — Cooperation system (now includes archive)
 
 ---
@@ -357,7 +354,6 @@ DISCOVER → VALIDATE → CONNECT → PROMOTE → USE
 
 ## Connection to Vault
 
-- Up: [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
 
 ---

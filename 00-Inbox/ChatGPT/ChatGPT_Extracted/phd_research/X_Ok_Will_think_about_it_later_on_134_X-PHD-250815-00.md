@@ -71,7 +71,6 @@ Extracted from conversation on 2025-08-15 about "Review past conversations".
 ## Connections
 
 - [[ChatGPT_Building_Master_Throne_RON-004-0007]]
-- [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001]]
 
 ## Status
 

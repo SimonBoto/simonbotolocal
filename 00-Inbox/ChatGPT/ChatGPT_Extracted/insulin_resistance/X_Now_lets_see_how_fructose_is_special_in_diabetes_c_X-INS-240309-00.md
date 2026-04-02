@@ -74,8 +74,6 @@ I Want to know onset time, peak, how long it lasts. Practically
 
 ## Connections
 
-- [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001]]
-- [[ChatGPT_PhD_Insulin_Resistance_RON-004-0003]]
 
 ## Status
 

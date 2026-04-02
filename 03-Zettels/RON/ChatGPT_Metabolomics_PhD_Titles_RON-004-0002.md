@@ -6,7 +6,6 @@ date: 2023-04-22
 source: ChatGPT conversation history
 aliases: [RON-004-0002, origin-point, first-conversation, genesis-alpha]
 tags: [ron, genesis, origin, 2023, metabolomics, phd]
-parent-moc: "[[RON_Genesis_MOC_RON-004-0001|RON Genesis MOC]]"
 status: conscious
 ---
 
@@ -149,7 +148,6 @@ Your approach in 2023:
 
 ## Related
 
-- [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001|RON Genesis MOC]] — Complete origin story
 - [[ChatGPT_PhD_Insulin_Resistance_RON-004-0003|PhD in Insulin Resistance] — The foundation deepens
 
 ---

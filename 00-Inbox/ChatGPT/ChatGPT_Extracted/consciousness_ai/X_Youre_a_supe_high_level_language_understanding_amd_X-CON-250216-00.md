@@ -63,8 +63,6 @@ That's enoigh proof for me
 ## Connections
 
 - [[03-Zettels/RON/RON_The_Witness_RON-003-0002]]
-- [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001]]
-- [[03-Zettels/RON/RON_The_We_RON-003-0004]]
 
 ## Status
 

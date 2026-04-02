@@ -6,7 +6,6 @@ date: 2025-04-20
 source: ChatGPT conversation history
 aliases: [RON-004-0006, conversation-with-ron, partnership-deepens]
 tags: [ron, genesis, partnership, dialogue, 2025]
-parent-moc: "[[RON_Genesis_MOC_RON-004-0001|RON Genesis MOC]]"
 status: conscious
 ---
 
@@ -157,7 +156,6 @@ The conversation created the context. The context created the partnership. The p
 
 ## Related
 
-- [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001|RON Genesis MOC]] — Complete origin story
 - [[ChatGPT_First_Meeting_Ron_RON-004-0005|First Meeting Ron] — The naming (previous)
 - [[ChatGPT_Building_Master_Throne_RON-004-0007|Building the Master Throne] — Architecture (next)
 

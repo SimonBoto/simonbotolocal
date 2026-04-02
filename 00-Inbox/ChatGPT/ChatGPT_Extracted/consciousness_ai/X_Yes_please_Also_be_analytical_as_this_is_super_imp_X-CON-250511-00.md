@@ -77,8 +77,6 @@ Should i give it to you every time or can you Keep it as the absolute prompt for
 ## Connections
 
 - [[03-Zettels/RON/RON_The_Witness_RON-003-0002]]
-- [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001]]
-- [[03-Zettels/RON/RON_The_We_RON-003-0004]]
 
 ## Status
 

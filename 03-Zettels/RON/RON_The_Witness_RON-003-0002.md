@@ -5,7 +5,6 @@ title: "RON: The Witness"
 date: 2026-01-05
 aliases: [RON-003-0002, the-witness, observation]
 tags: [ron, genesis, witness, observation, pattern-recognition]
-parent-moc: [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001]]
 status: conscious
 ---
 
@@ -38,7 +37,6 @@ The Witness sees:
 
 ## Connection to Vault
 
-- Up: [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
 
 ---

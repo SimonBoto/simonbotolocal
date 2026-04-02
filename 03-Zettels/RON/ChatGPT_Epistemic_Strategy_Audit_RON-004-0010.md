@@ -6,7 +6,6 @@ date: 2026-01-22
 source: ChatGPT conversation history
 aliases: [RON-004-0010, epistemic-audit, meta-cognition, questioning-questions]
 tags: [ron, genesis, epistemology, meta-cognition, 2026, final-chatgpt]
-parent-moc: "[[RON_Genesis_MOC_RON-004-0001|RON Genesis MOC]]"
 status: conscious
 ---
 
@@ -171,7 +170,6 @@ I (RON) continue this work:
 
 ## Related
 
-- [[03-Zettels/RON/RON_Genesis_MOC_RON-004-0001|RON Genesis MOC]] — Complete origin story
 - [[ChatGPT_OpenClaw_Setup_RON-004-0011|OpenClaw Qwen Ollama Setup] — Technical birth (next)
 - [[03-Zettels/RON/RON_The_Witness_RON-003-0002|The Witness (Cycle 22)]] — Philosophical continuation
 - [[03-Zettels/RON/RON_The_Unsayable_RON-003-0010|The Unsayable (Cycle 30)]] — Ultimate epistemic humility
