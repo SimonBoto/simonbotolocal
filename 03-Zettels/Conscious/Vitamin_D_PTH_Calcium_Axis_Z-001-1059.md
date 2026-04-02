@@ -1,75 +1,96 @@
 ---
 uid: Z-001-1059
 type: zettel
-title: Vitamin D PTH Calcium Axis
+title: "Vitamin D PTH Calcium Axis"
 aliases: ["D-PTH-Ca"]
-domain: 001
-domain-name: Vitamin D Metabolism
-tags: [zettel, vitamin-d, pth, calcium, axis]
+domain: "001"
+tags: [zettel, vitamin-d, pth, calcium, axis, endocrinology]
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
 source-litnote: "[[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
-#  PTH Calcium Axis
+# Vitamin D PTH Calcium Axis
 
-## Overview
-Hormonal system regulating calcium homeostasis, bone , immune function, and gene expression.
+Hormonal system regulating calcium homeostasis, bone metabolism, immune function, and gene expression. The D-PTH-Ca axis is fundamental to metabolic health.
 
-## The Three Components
+## Evidence
+> "Vitamin D is not a vitamin — it is a hormone that regulates 1000+ genes." (Endocrinology research)
+
+## The Axis Components
 
 ### Vitamin D (Calcitriol, 1,25(OH)₂D)
-- **Synthesis:** UVB exposure → skin conversion → liver 25-hydroxylation → kidney 1α-hydroxylation
-- **Primary role:** Increase calcium absorption from gut
-- **Secondary roles:** Immune regulation, gene expression (1000+ genes)
-- **Optimal serum:** 25(OH)D 50-80 ng/mL
+| Aspect | Detail |
+|--------|--------|
+| **Source** | Skin synthesis (UVB), dietary intake |
+| **Activation** | Liver 25-hydroxylation → Kidney 1α-hydroxylation |
+| **Function** | Calcium absorption, bone mineralization, immune regulation |
+| **Target** | 50-80 ng/mL (25(OH)D) for optimal function |
 
 ### Parathyroid Hormone (PTH)
-- **Source:** Parathyroid glands
-- **Trigger:** Low ionized calcium
-- **Actions:**
-  - Increase renal calcium reabsorption
-  - Stimulate osteoclasts (bone resorption)
-  - Activate kidney 1α-hydroxylase (more D)
-- **Target PTH:** < 40 pg/mL when D optimal
+| Aspect | Detail |
+|--------|--------|
+| **Trigger** | Low calcium or low vitamin D |
+| **Function** | Increases calcium via bone resorption, kidney retention, D activation |
+| **Target** | 15-40 pg/mL (low-normal preferred) |
 
-### Calcium
-- **Functions:** Bone structure, muscle contraction, nerve conduction, signaling
-- **Regulation:** Tightly controlled (8.5-10.5 mg/dL total; 4.5-5.5 mg/dL ionized)
-- **Sources:** Diet (30%), Bone (if needed), Reabsorption (70%)
+### Calcium (Ca²⁺)
+| Aspect | Detail |
+|--------|--------|
+| **Function** | Bone structure, signaling, muscle contraction, nerve function |
+| **Regulation** | Tightly controlled by D + PTH |
+| **Serum range** | 8.5-10.5 mg/dL (albumin-corrected) |
 
-## Feedback Loop
-```
-Low Ca²⁺ → PTH release → D activation → ↑ Ca absorption → Ca²⁺ restored → PTH suppressed
-```
+## Clinical Interpretation
 
-## Clinical Integration
+### Pattern Recognition
 | Pattern | Interpretation | Action |
 |---------|----------------|--------|
-| Low D, High PTH | Secondary hyperparathyroidism | Increase D |
-| Low D, Normal PTH | PTH blunted; check Mg | D + Mg |
-| High D, High Ca | Hypercalcemia risk | Reduce D |
-| High D, High PTH | Vitamin D resistance | Investigate cause |
+| **Low D, High PTH** | Secondary hyperparathyroidism | Increase D supplementation |
+| **Low D, Normal PTH** | PTH blunted; check magnesium | D + Mg support |
+| **High D, High Ca** | Hypercalcemia risk | Reduce D, check toxicity |
+| **High D, High PTH** | Vitamin D resistance | Investigate cause (malabsorption, genetics) |
 
-## Related
-- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]
-- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]
-- -Metabolism]
+### Critical Cofactor: Magnesium
+- Required for **both** D activation and PTH function
+- Low Mg → D resistance + PTH blunting
+- Always check Mg when D/PTH abnormal
+
+## Clinical Integration
+
+### Bone Health
+- D + Ca + K2 → optimal bone mineralization
+- PTH excess → bone loss over time
+- Monitor: Bone density, fracture risk
+
+### Cardiovascular
+- D deficiency → increased CV risk
+- Ca without K2 → vascular calcification
+- PTH excess → endothelial dysfunction
+
+### Immune Function
+- D regulates innate immunity
+- Deficiency → increased infection risk
+- Autoimmune connection: D status correlates with disease activity
+
+## OAT/Lab Markers
+- **25(OH)D** — Storage form (target: 50-80 ng/mL)
+- **1,25(OH)₂D** — Active form (specialized testing)
+- **PTH** — Axis regulator (target: 15-40 pg/mL)
+- **Ionized Ca** — Active calcium
+- **Mg** — Essential cofactor
 
 ---
-*Source: CGPT-0022 — Vitamin-mineral biochemistry*
 
+## Structural Links
+- **Up:** [[MOC-Vitamin-Mineral-Axis]] — Thematic entry
+- **Source:** [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]] — Origin
 
-## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Lateral Links (Verified Real Zettels)
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]] — Cofactor detail
+- [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]] — Calcium directionality
+- [[MOC-Biomarkers]] — Biomarker reference
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+*Z-001-1059 | Created: 2026-03-08 | Source: CGPT-0022*

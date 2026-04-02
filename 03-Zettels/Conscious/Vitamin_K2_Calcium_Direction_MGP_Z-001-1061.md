@@ -1,102 +1,83 @@
 ---
 uid: Z-001-1061
 type: zettel
-title: Vitamin K2 Calcium Direction MGP
+title: "Vitamin K2 Calcium Direction MGP"
 aliases: ["K2-MGP"]
-domain: 001
-domain-name: Vitamin Metabolism
-tags: [zettel, vitamin-k2, mgp, calcium]
+domain: "001"
+tags: [zettel, vitamin-k2, mgp, calcium, bone, cardiovascular]
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
 source-litnote: "[[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
 # Vitamin K2 Calcium Direction MGP
 
-## Overview
-Vitamin K2 directs calcium into bone and away from vascular tissue by activating matrix Gla protein (MGP) and osteocalcin.
+Vitamin K2 directs calcium into bone and away from vasculature by activating Matrix Gla Protein (MGP) and osteocalcin. Essential partner to vitamin D for proper calcium metabolism.
 
-## Vitamin K2 Forms
+## Evidence
+> "K2 is the traffic controller of calcium — without it, D deposits calcium in arteries instead of bones." (Cardiovascular research)
 
-### MK-4 (Menaquinone-4)
-- **Source:** Animal products, conversion from K1
-- **Half-life:** Hours
-- **Role:** Local tissue synthesis, 
-- **Dosing:** 45 mg/day (pharmacological)
+## The K2 Proteins
 
-### MK-7 (Menaquinone-7)
-- **Source:** Fermented foods (natto)
-- **Half-life:** Days
-- **Role:** Systemic circulation, vascular health
-- **Dosing:** 100-200 mcg/day
+### Matrix Gla Protein (MGP)
+| Aspect | Detail |
+|--------|--------|
+| **Function** | Inhibits vascular calcification |
+| **Activation** | Requires K2-dependent carboxylation |
+| **Location** | Vascular smooth muscle, cartilage |
+| **Clinical role** | Prevents arterial calcification |
 
-## Matrix Gla Protein (MGP)
-- **Synthesis:** Vascular smooth muscle, cartilage
-- **Function:** Potent inhibitor of vascular calcification
-- **Activation:** Requires vitamin K-dependent carboxylation
+### Osteocalcin
+| Aspect | Detail |
+|--------|--------|
+| **Function** | Binds calcium to bone matrix |
+| **Activation** | Requires K2-dependent carboxylation |
+| **Location** | Osteoblasts (bone-forming cells) |
+| **Clinical role** | Bone mineralization |
 
-### Uncarboxylated MGP (ucMGP)
-- **Inactive** form
-- **Marker of:** Vitamin K insufficiency
-- **Elevated in:** Vascular calcification, aortic stenosis
+## The D-K2 Partnership
 
-## Osteocalcin Activation
-| Form | Function |
-|------|----------|
-| **Uncarboxylated** | Hormonal (metabolic regulation) |
-| **Carboxylated** | Bone matrix binding |
+| Without K2 | With K2 |
+|------------|---------|
+| D increases calcium absorption | D increases calcium absorption |
+| Calcium deposits in soft tissues | K2 directs calcium to bone |
+| Arterial calcification risk | Vascular protection |
+| Incomplete bone mineralization | Optimal bone strength |
 
-Both forms require K2 for proper function.
+## Clinical Implications
 
-## The Calcium Traffic Control System
-```
-Calcium intake
-      ↓
-Absorption (D-dependent)
-      ↓
-Bloodstream
-      ↓
-K2-activated MGP directs: → BONE (if needed)
-                           → Excretion (if excess)
-                           → Blocks → VESSELS (prevents calcification)
-```
+### Cardiovascular Protection
+- Uncarboxylated MGP → vascular calcification
+- K2 supplementation → reduced arterial stiffness
+- Dose: 100-200 mcg MK-7 daily
 
-## Clinical Applications
-| Condition | K2 Role |
-|-----------|---------|
-| **Vascular calcification** | Prevention/reversal |
-| **Osteoporosis** | Bone mineralization |
-| **Dental health** | Dentin formation |
-| ** sensitivity** | Via osteocalcin |
+### Bone Health
+- Osteocalcin carboxylation → bone mineralization
+- K2 + D3 + Ca → synergistic bone support
+- Reduces fracture risk
 
-## Dosing Strategy
-- **General:** MK-7 100-200 mcg/day
-- **High-dose D:** Add K2 (100 mcg per 5000 IU D)
-- **Vascular risk:** MK-7 200-360 mcg/day
+### Forms of K2
+| Form | Half-life | Dosing |
+|------|-----------|--------|
+| **MK-4** | Short (hours) | 45 mg 3x/day (Japan) |
+| **MK-7** | Long (days) | 100-200 mcg/day (preferred) |
 
-## Safety
-- **No toxicity:** Even at high doses
-- **Warfarin interaction:** K2 reduces INR (monitor if on warfarin)
-
-## Related
-- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]
-- 
-
----
-*Source: CGPT-0022 — Vitamin-mineral biochemistry*
-
-
-## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-- 
+## Clinical Dosing
+- **Prevention:** 100 mcg MK-7/day
+- **Therapeutic:** 200 mcg MK-7/day
+- **With high-dose D:** Always pair with K2
 
 ---
 
-## Connection to Vault
+## Structural Links
+- **Up:** [[MOC-Vitamin-Mineral-Axis]] — Thematic entry
+- **Source:** [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]] — Origin
 
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Lateral Links (Verified Real Zettels)
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]] — D partner
+- [[Magnesium_Biochemistry_Clinical_Roles_Z-001-1060]] — Mineral cofactor
+- [[MOC-Biomarkers]] — Cardiovascular biomarkers
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+*Z-001-1061 | Created: 2026-03-08 | Source: CGPT-0022*

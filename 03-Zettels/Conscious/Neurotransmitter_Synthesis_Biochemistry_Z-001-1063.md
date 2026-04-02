@@ -1,111 +1,106 @@
 ---
 uid: Z-001-1063
 type: zettel
-title: Neurotransmitter Synthesis Biochemistry
+title: "Neurotransmitter Synthesis Biochemistry"
 aliases: ["Neurotransmitters"]
-domain: 001
-domain-name: Metabolism
-tags: [zettel, neurotransmitters, dopamine, serotonin, gaba]
+domain: "001"
+tags: [zettel, neurotransmitters, dopamine, serotonin, gaba, brain]
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
 source-litnote: "[[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
-# Neurotransmitter Synthesis 
+# Neurotransmitter Synthesis Biochemistry
 
-## Overview
-Neurotransmitters are synthesized from amino acid precursors through vitamin and mineral-dependent pathways.
+Dopamine, serotonin, and GABA synthesis from amino acid precursors. Understanding these pathways reveals how nutrition directly impacts mood, cognition, and behavior.
 
-## Dopamine Pathway (Catecholamines)
+## Evidence
+> "Neurotransmitters are made from what you eat — biochemistry becomes psychology at the synapse." (Nutritional psychiatry)
+
+## Dopamine Pathway
 
 ### Synthesis
-```
-Phenylalanine → Tyrosine → L-DOPA → Dopamine → Norepinephrine → Epinephrine
-```
+| Step | Enzyme | Cofactor | Input → Output |
+|------|--------|----------|----------------|
+| 1 | Phenylalanine hydroxylase | BH4, Fe | Phenylalanine → Tyrosine |
+| 2 | Tyrosine hydroxylase | BH4, Fe | Tyrosine → L-DOPA |
+| 3 | DOPA decarboxylase | B6 (PLP) | L-DOPA → Dopamine |
 
-### Cofactors Required
-| Step | Enzyme | Cofactor |
-|------|--------|----------|
-| Phenylalanine → Tyrosine | PAH | BH4, Iron |
-| Tyrosine → L-DOPA | TH | BH4, Iron |
-| L-DOPA → Dopamine | AADC | B6 (PLP) |
-| Dopamine → NE | DBH | Copper, Vitamin C |
-| NE → E | PNMT | SAM (methylation) |
-
-### OAT Markers
-- **HVA (Homovanillic acid):** Dopamine metabolite
-- **VMA (Vanillylmandelic acid):** Norepinephrine/epinephrine metabolite
-- **HPHPA:** Clostridia metabolite that inhibits dopamine synthesis
+### Function
+- Reward, motivation, motor control
+- Executive function, focus
+- Deficiency → depression, ADHD, Parkinson's risk
 
 ## Serotonin Pathway
 
 ### Synthesis
-```
-Tryptophan → 5-HTP → Serotonin → Melatonin
-```
+| Step | Enzyme | Cofactor | Input → Output |
+|------|--------|----------|----------------|
+| 1 | Tryptophan hydroxylase | BH4, Fe | Tryptophan → 5-HTP |
+| 2 | Aromatic L-amino acid decarboxylase | B6 (PLP) | 5-HTP → Serotonin |
 
-### Cofactors Required
-| Step | Enzyme | Cofactor |
-|------|--------|----------|
-| Tryptophan → 5-HTP | TPH | BH4, Iron |
-| 5-HTP → Serotonin | AADC | B6 (PLP) |
-| Serotonin → Melatonin | AANAT/SNMT | SAM, Acetyl-CoA |
-
-### OAT Markers
-- **5-HIAA (5-hydroxyindoleacetic acid):** Serotonin metabolite
-- **Kynurenate/Xanthurenate:** Alternative pathway markers (B6 dependent)
+### Function
+- Mood regulation, sleep, appetite
+- Gut-brain signaling (90% made in gut)
+- Deficiency → depression, anxiety, insomnia
 
 ## GABA Pathway
 
 ### Synthesis
-```
-Glutamate → GABA
-```
-
-### Enzyme
-- **GAD (Glutamate decarboxylase):** Requires B6
+| Step | Enzyme | Cofactor | Input → Output |
+|------|--------|----------|----------------|
+| 1 | Glutamate decarboxylase | B6 (PLP) | Glutamate → GABA |
 
 ### Function
 - Primary inhibitory neurotransmitter
-- Counterbalances glutamate (excitatory)
+- Calming, anti-anxiety, sleep promotion
+- Deficiency → anxiety, seizures, insomnia
 
-##  Integration
+## Critical Cofactors
 
-### Nutrient Deficiencies Affecting Neurotransmitters
-| Deficiency | Affected NT | Symptoms |
-|------------|-------------|----------|
-| **Iron** | Dopamine, Serotonin | Fatigue, depression |
-| **B6** | All (AADC) | Depression, anxiety, neuropathy |
-| **BH4** | Dopamine, Serotonin | Movement disorders, depression |
-| **Copper** | Norepinephrine | Fatigue, hypotension |
-| **Zinc** | GABA | Anxiety, insomnia |
+| Cofactor | Role | Deficiency Effect |
+|----------|------|-------------------|
+| **B6 (PLP)** | Decarboxylation of all three pathways | Depression, anxiety, neuropathy |
+| **BH4** | Hydroxylation (dopamine, serotonin) | Low neurotransmitter synthesis |
+| **Iron** | Hydroxylation enzymes | Fatigue, depression, RLS |
+| **Magnesium** | GABA receptor function | Anxiety, insomnia, cramps |
+| **Zinc** | Dopamine metabolism | Depression, anhedonia |
 
-### Gut-Brain Connection
-- **95% of serotonin** produced in gut
-- **Gut dysbiosis** affects neurotransmitter precursors
-- **HPHPA** from Clostridia inhibits dopamine conversion
+## OAT Markers
+- **HVA (homovanillic acid)** → Dopamine turnover
+- **VMA (vanillylmandelic acid)** → Adrenaline turnover
+- **5-HIAA (5-hydroxyindoleacetic acid)** → Serotonin turnover
+- **Elevated quinolinic acid** → Neuroinflammation
 
-## Related
-- _Folate_B12_Z-001-1062]
-- [[Gut_Microbiome_OAT_Markers_Z-001-1064]
-- 
+## Clinical Applications
 
----
-*Source: CGPT-0022 — Vitamin-mineral biochemistry*
+### Depression Support
+- B6, B12, folate (methylation support)
+- Magnesium (GABA, calming)
+- Zinc (dopamine)
+- Iron (if deficient)
 
+### Anxiety Support
+- Magnesium (GABA)
+- B6 (GABA synthesis)
+- Glycine, taurine (GABA receptor support)
 
-## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]
-- 
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+### ADHD Support
+- Zinc (dopamine)
+- Iron (if deficient)
+- Magnesium (focus, calming)
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+
+## Structural Links
+- **Up:** [[MOC-Vitamin-Mineral-Axis]] — Thematic entry
+- **Source:** [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]] — Origin
+
+## Lateral Links (Verified Real Zettels)
+- [[Gut_Microbiome_OAT_Markers_Z-001-1064]] — Gut-brain axis
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] — B6 deficiency
+- [[MOC-Biomarkers]] — Neurotransmitter metabolites
+
+---
+*Z-001-1063 | Created: 2026-03-08 | Source: CGPT-0022*

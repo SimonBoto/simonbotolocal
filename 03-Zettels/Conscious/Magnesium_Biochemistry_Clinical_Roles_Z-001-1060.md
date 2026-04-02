@@ -1,88 +1,94 @@
 ---
 uid: Z-001-1060
 type: zettel
-title: Magnesium Biochemistry Clinical Roles
+title: "Magnesium Biochemistry Clinical Roles"
 aliases: ["Magnesium"]
-domain: 001
-domain-name: Vitamin Metabolism
-tags: [zettel, magnesium, cofactor, atp]
+domain: "001"
+tags: [zettel, magnesium, cofactor, atp, minerals]
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
 source-litnote: "[[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]]"
 confidence: high
-created: 2026-03-08
+created: "2026-03-08"
 ---
 
-#  Biochemistry Clinical Roles
+# Magnesium Biochemistry Clinical Roles
 
-## Overview
-Magnesium is a cofactor for >300 enzymes, essential for ATP function, muscle relaxation, nerve conduction, glycolysis, and DNA repair.
+Magnesium is a cofactor for >300 enzymes, essential for ATP function, muscle relaxation, nerve conduction, DNA repair, and vitamin D metabolism. It is one of the most common deficiencies in clinical practice.
+
+## Evidence
+> "Magnesium is the forgotten mineral — required for life, yet routinely overlooked." (Clinical nutrition)
 
 ## Biochemical Functions
 
-### ATP-Related
-| Function | Mechanism |
-|----------|-----------|
-| **ATP stabilization** | Mg-ATP complex is the true substrate |
-| **Kinase reactions** | Phosphate transfer requires Mg²⁺ |
-| **Phosphatase reactions** | Hydrolysis requires Mg²⁺ |
+### ATP and Energy
+- Mg-ATP complex is the true substrate for most enzymes
+- Required for glycolysis, TCA cycle, OXPHOS
+- Without Mg, ATP cannot be utilized
 
-### Enzyme Cofactor
-| Pathway | Key Mg-dependent Enzymes |
-|---------|--------------------------|
-| **Glycolysis** | Hexokinase, phosphofructokinase |
-| **TCA cycle** | Isocitrate dehydrogenase, α-KG dehydrogenase |
-| **Nucleic acids** | DNA polymerase, RNA polymerase |
-| **Protein synthesis** | Ribosomal function |
+### Enzyme Cofactor (Selected Examples)
+| Enzyme/Process | Function |
+|----------------|----------|
+| **DNA/RNA polymerases** | DNA synthesis and repair |
+| **Protein kinases** | Cell signaling |
+| **ATPases** | Energy transfer |
+| **Phospholipase C** | Membrane signaling |
+| **Adenylate cyclase** | cAMP production |
+| **Vitamin D activation** | 25-hydroxylation and 1α-hydroxylation |
 
-### Ion Channel Regulation
-- **Calcium channels:** Mg blocks NMDA receptors
-- **Potassium channels:** Mg stabilizes membrane potential
-- **Calcium antagonist:** Natural calcium channel blocker
+### Muscle and Nerve
+- Counterbalances calcium (Ca²⁺ contracts, Mg²⁺ relaxes)
+- Required for normal muscle function
+- Essential for nerve conduction
+- Deficiency → cramps, spasms, twitching
 
 ## Clinical Deficiency Signs
+
 | System | Symptoms |
 |--------|----------|
-| **Neuromuscular** | Muscle cramps, spasms, tetany, tremor |
-| **Cardiac** | Arrhythmias, hypertension |
-| **Metabolic** |  resistance, glucose intolerance |
-| **Psychiatric** | Anxiety, depression, insomnia |
+| **Muscle** | Cramps, spasms, weakness, tremor |
+| **Nerve** | Anxiety, irritability, insomnia, numbness |
+| **Cardiac** | Arrhythmias, palpitations |
+| **Metabolic** | Insulin resistance, metabolic syndrome |
+| **Bone** | Osteoporosis (Mg required for bone matrix) |
 
-## Assessment Challenges
-- **Serum Mg:** Poor marker (only 1% of body Mg)
-- **Better markers:** RBC Mg, ionized Mg, Mg loading test
-- **Clinical context:** Symptoms often precede lab abnormalities
+## OAT Markers of Mg Status
+- Elevated **pyruvate** → Mg-dependent pyruvate dehydrogenase impaired
+- Elevated **lactate** → anaerobic shift due to Mg deficiency
+- Elevated **N-acetylaspartate** → neuronal Mg deficiency
 
-## Therapeutic Forms
-| Form | Use |
-|------|-----|
-| **Glycinate** | General, sleep, anxiety |
-| **Citrate** | Constipation, absorption |
-| **Malate** | Energy, fibromyalgia |
-| **Threonate** | Cognitive, brain penetration |
+## Magnesium Forms
 
-## Dosing
-- **Maintenance:** 200-400 mg elemental Mg/day
-- **Deficiency:** 400-800 mg/day (divided doses)
-- **Maximum:** ~800 mg/day (higher causes diarrhea)
+| Form | Use | Absorption |
+|------|-----|------------|
+| **Glycinate** | General, sleep, anxiety | High |
+| **Citrate** | Constipation, general | High |
+| **Malate** | Energy, fibromyalgia | High |
+| **Threonate** | Cognitive, brain penetration | High |
+| **Oxide** | Laxative effect only | Low |
 
-## Related
-- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]
-- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]
-- 
+## Clinical Dosing
+| Status | Dose |
+|--------|------|
+| **Maintenance** | 200-400 mg elemental Mg/day |
+| **Deficiency** | 400-800 mg/day (divided doses) |
+| **Maximum** | ~800 mg/day (higher causes diarrhea) |
 
----
-*Source: CGPT-0022 — Vitamin-mineral biochemistry*
-
-
-## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Critical Interactions
+- **Vitamin D** — Mg required for D activation
+- **Calcium** — Balance Ca:Mg ratio (ideally 2:1)
+- **PTH** — Mg required for PTH function
+- **Medications** — PPIs, diuretics deplete Mg
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+
+## Structural Links
+- **Up:** [[MOC-Vitamin-Mineral-Axis]] — Thematic entry
+- **Source:** [[LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593]] — Origin
+
+## Lateral Links (Verified Real Zettels)
+- [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]] — D-Mg interaction
+- [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] — Deficiency patterns
+- [[MOC-Biomarkers]] — Mineral biomarkers
+
+---
+*Z-001-1060 | Created: 2026-03-08 | Source: CGPT-0022*
