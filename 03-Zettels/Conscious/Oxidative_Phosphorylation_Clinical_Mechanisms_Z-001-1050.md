@@ -2,13 +2,12 @@
 uid: Z-001-1050
 type: zettel
 title: Oxidative Phosphorylation Clinical Mechanisms
-aliases: [Z-001-1050, OXPHOS]
+aliases: ["OXPHOS"]
 domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, oxphos, electron-transport, atp-synthesis]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
-source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
+parent-moc: "[[MOC-Mitochondrial-Function]]"
+source-litnote: "[[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]"
 confidence: high
 created: 2026-03-08
 ---

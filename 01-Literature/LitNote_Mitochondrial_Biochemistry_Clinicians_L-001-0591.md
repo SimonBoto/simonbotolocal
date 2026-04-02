@@ -11,8 +11,9 @@ pmcid: N/A
 tier: 3
 relevance: High — Comprehensive mitochondrial mechanisms, Krebs cycle, OXPHOS, cofactors, OAT interpretation
 status: extracted
-parent-moc: 
-extraction-date: 2026-03-08
+source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
+parent-moc: "[[MOC-Mitochondrial-Function]]"
+extraction-date: "2026-03-08"
 ---
 
 # Lit: ChatGPT 2025 — Mitochondrial Biochemistry for Clinicians
@@ -89,8 +90,7 @@ This single enzyme requires:
 6. [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]] — Oxidative stress marker
 
 ## Related References
--  — Parent domain
--  — Pathway specific
+
 - [[Mitochondrial_Energy_Terminology_Z-001-1043]] — Vocabulary foundation
 
 ---

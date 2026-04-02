@@ -2,13 +2,12 @@
 uid: Z-001-1051
 type: zettel
 title: Redox Cofactors NAD FAD Biochemistry
-aliases: [Z-001-1051, Redox-Cofactors]
+aliases: ["Redox-Cofactors"]
 domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, nad, fad, redox, cofactors]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
-source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
+parent-moc: "[[MOC-Mitochondrial-Function]]"
+source-litnote: "[[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]"
 confidence: high
 created: 2026-03-08
 ---

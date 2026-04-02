@@ -4,16 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "0dacaf530caf3a1f",
+        "id": "74acc8d22cc8eb44",
         "type": "tabs",
         "children": [
+          {
+            "id": "8b9ce7f9effb19d1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "65c9339abede9d22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Processed/metabolomics/CGPT_0022_Metabolomics_training_role_CGPT-0022.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CGPT_0022_Metabolomics_training_role_CGPT-0022"
+            }
+          },
           {
             "id": "4a189b8ff6ae65cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Literature/LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589.md",
+                "file": "01-Literature/LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,131 +62,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589"
-            }
-          },
-          {
-            "id": "a4c33ba78f1a9541",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Zettels/Conscious/Training_Teaching_Style_Framework_Z-001-1040.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Training_Teaching_Style_Framework_Z-001-1040"
-            }
-          },
-          {
-            "id": "200d97ffa4465d19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Zettels/Conscious/Phase_3_Lipidomics_Interpretation_Z-001-1038.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Phase_3_Lipidomics_Interpretation_Z-001-1038"
-            }
-          },
-          {
-            "id": "1fde807224ae9dd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Zettels/Conscious/Phase_2_OAT_Pattern_Mastery_Z-001-1037.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Phase_2_OAT_Pattern_Mastery_Z-001-1037"
-            }
-          },
-          {
-            "id": "54d2954fc1960606",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Zettels/Conscious/Phase_1_Biochemical_Literacy_Foundation_Z-001-1036.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Phase_1_Biochemical_Literacy_Foundation_Z-001-1036"
-            }
-          },
-          {
-            "id": "16f64df1f00d3854",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Zettels/Conscious/Bootcamp_Four_Phase_Structure_Z-001-1035.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bootcamp_Four_Phase_Structure_Z-001-1035"
+              "title": "LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"title\": ]",
+                "query": "mitochndrial biochemistry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +119,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -328,13 +243,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "200d97ffa4465d19",
+  "active": "4a189b8ff6ae65cd",
   "lastOpenFiles": [
-    "03-Zettels/Conscious/Training_Teaching_Style_Framework_Z-001-1040.md",
+    "00-Inbox/Processed/metabolomics/CGPT_0022_Metabolomics_training_role_CGPT-0022.md",
+    "01-Literature/LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591.md",
     "03-Zettels/Conscious/Bootcamp_Four_Phase_Structure_Z-001-1035.md",
     "03-Zettels/Conscious/Phase_1_Biochemical_Literacy_Foundation_Z-001-1036.md",
     "03-Zettels/Conscious/Phase_2_OAT_Pattern_Mastery_Z-001-1037.md",
     "03-Zettels/Conscious/Phase_3_Lipidomics_Interpretation_Z-001-1038.md",
+    "03-Zettels/Conscious/Training_Teaching_Style_Framework_Z-001-1040.md",
     "01-Literature/LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589.md",
     "03-Zettels/Conscious/Phase_4_Clinical_Integration_Drills_Z-001-1039.md",
     "08-Structure/MOCs/MOC-Clinical-Training.md",
@@ -355,8 +272,6 @@
     "03-Zettels/Biomarkers/HbA1c_Glycemic_Control_RBC_Memory_B-005-0003.md",
     "03-Zettels/Biomarkers/Insulin_Pancreatic_Beta-Cell_Response_B-005-0002.md",
     "03-Zettels/Biomarkers/Glucose_Blood_Sugar_Energy_B-005-0001.md",
-    "03-Zettels/Biomarkers/4-Hydroxyphenylacetic_Acid_Pathogen_B-012-0108.md",
-    "03-Zettels/Biomarkers/3-Hydroxyisovaleric_Acid_Biotin_B7_B-012-0017.md",
     "08-Structure/Templates/sedoJjwX5",
     "08-Structure/Templates/sedclJo0e",
     "06-Structure/Dashboards",

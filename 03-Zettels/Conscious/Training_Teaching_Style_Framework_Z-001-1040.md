@@ -1,14 +1,19 @@
 ---
 uid: Z-001-1040
 type: zettel
-title: "Training Teaching Style Framework"
-aliases: ["Teaching-Styles"]
+title: Training Teaching Style Framework
+aliases:
+  - Teaching-Styles
 domain: "001"
-tags: [zettel, pedagogy, teaching, training-style]
+tags:
+  - zettel
+  - pedagogy
+  - teaching
+  - training-style
 parent-moc: "[[MOC-Metabolomics-Training]]"
 source-litnote: "[[LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589]]"
 confidence: high
-created: "2026-03-08"
+created: 2026-03-08
 ---
 
 # Training Teaching Style Framework

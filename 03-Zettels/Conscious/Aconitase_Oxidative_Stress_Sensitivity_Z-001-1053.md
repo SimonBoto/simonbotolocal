@@ -2,13 +2,12 @@
 uid: Z-001-1053
 type: zettel
 title: Aconitase Oxidative Stress Sensitivity
-aliases: [Z-001-1053, Aconitase]
+aliases: ["Aconitase"]
 domain: 001
 domain-name: Mitochondrial Function
 tags: [zettel, aconitase, oxidative-stress, iron-sulfur]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
-source: [[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]
+parent-moc: "[[MOC-Mitochondrial-Function]]"
+source-litnote: "[[LitNote_Mitochondrial_Biochemistry_Clinicians_L-001-0591]]"
 confidence: high
 created: 2026-03-08
 ---
