@@ -47,4 +47,4 @@ status: "unprocessed"
 *Luhmann rule: "What is not processed is lost."*
 
 ---
-parent-index: [[00-Inbox-Fleeting]], [[Templates Index]]
+parent-index: "[[03-Zettels-Conscious]]"

@@ -42,6 +42,30 @@
             }
           },
           {
+            "id": "31662859b2ed04c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08-Structure/MOCs/MOC-Biomarkers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC-Biomarkers"
+            }
+          },
+          {
             "id": "440a3c4c7f63e2fc",
             "type": "leaf",
             "state": {
@@ -66,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,7 +267,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4babb119d6d7cb98",
+  "active": "31662859b2ed04c6",
   "lastOpenFiles": [
     "01-Literature/LitNote_Patient_Communication_Scripts_L-001-0595.md",
     "03-Zettels/Conscious/Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032.md",

@@ -1,6 +1,6 @@
 ---
 type: assessment
-litnote: "[[LitNote_{{Title}}_{{L-XXX-XXXX}}]]"
+litnote: "LitNote_{{Title}}_{{L-XXX-XXXX}}"
 domain: "{{XXX}}"
 tier: "{{GOLD|SILVER|BRONZE}}"
 assessor: "RON"
@@ -11,13 +11,13 @@ status: "{{pending|in-progress|complete}}"
 # Assessment: {{Title}}
 
 ## LitNote
-[[LitNote_{{Title}}_{{L-XXX-XXXX}}]]
+`LitNote_{{Title}}_{{L-XXX-XXXX}}`
 
 ---
 
 ## Upstream Connection (Inbox)
 
-- [ ] **Inbox exists:** [[Inbox_{{Title}}_{{YYYY-MM-DD}}]]
+- [ ] **Inbox exists:** `Inbox_{{Title}}_{{YYYY-MM-DD}}`
 - [ ] **LitNote links to Inbox:** `source-inbox:` field present
 - [ ] **Inbox characterizes source:** Size, quality, yield assessed
 
