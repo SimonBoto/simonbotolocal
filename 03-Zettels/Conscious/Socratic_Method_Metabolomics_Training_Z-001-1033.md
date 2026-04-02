@@ -2,13 +2,12 @@
 uid: Z-001-1033
 type: zettel
 title: Socratic Method Metabolomics Training
-aliases: [Z-001-1033, Socratic-Training]
+aliases: ["Socratic-Training"]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, pedagogy, socratic-method, clinical-reasoning]
 parent-moc: "[[MOC-Metabolomics-Training]]"
-source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
-source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
+source-litnote: "[[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]"
 confidence: high
 created: 2026-03-08
 ---

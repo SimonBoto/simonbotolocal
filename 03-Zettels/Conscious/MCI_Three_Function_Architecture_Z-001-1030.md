@@ -2,13 +2,12 @@
 uid: Z-001-1030
 type: zettel
 title: MCI Three Function Architecture
-aliases: [Z-001-1030, MCI-Functions]
+aliases: ["MCI-Functions"]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, training, curriculum-design, clinical-reasoning]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
-source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
+parent-moc: "[[MOC-Metabolomics-Training]]"
+source-litnote: "[[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]"
 confidence: high
 created: 2026-03-08
 ---

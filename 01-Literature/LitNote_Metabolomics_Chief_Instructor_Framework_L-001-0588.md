@@ -11,8 +11,9 @@ pmcid: N/A
 tier: 3
 relevance: High — Foundational training philosophy for metabolomics clinic; defines instructor role and 6-stage patient flow
 status: extracted
-parent-moc: 
-extraction-date: 2026-03-08
+source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
+parent-moc: "[[MOC-Metabolomics-Training]]"
+extraction-date: "2026-03-08"
 ---
 
 # Lit: ChatGPT 2025 — Metabolomics Chief Instructor Framework
@@ -27,27 +28,27 @@ extraction-date: 2026-03-08
 ### 1. Metabolomics Chief Instructor (MCI) Role
 > "The role I adopt needs to match three simultaneous demands: Absolute scientific precision, Cognitive scaffolding, Operational discipline."
 
-**Zettel extracted:** [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]
+**Zettel extracted:** [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]]
 
 ### 2. Three-Function Architecture of MCI
 > "Architect of Knowledge — Maps entire metabolomics curriculum into modular, teachable, cumulative blocks. Cognitive Coach — Teaches doctors how to reason like metabolomics clinicians. Operational Integrator — Links training to real clinical flow."
 
-**Zettel extracted:** [[MCI_Three_Function_Architecture_Z-001-1030]
+**Zettel extracted:** [[MCI_Three_Function_Architecture_Z-001-1030]]
 
 ### 3. Six-Stage Patient Flow Framework
 > "Assessment → Sample Logistics → Analysis → Reporting → Treatment → Follow-up. Each stage has specific learning objectives and Socratic challenges."
 
-**Zettel extracted:** [[Six_Stage_Patient_Flow_Framework_Z-001-1031]
+**Zettel extracted:** [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
 
 ### 4. Tiered Supplement Prescribing Architecture
 > "Foundational (Vit D, Mg, Omega-3, B-complex, gut basics) → Targeted mitochondrial support → Detox + methylation → Gut rebalancing → Lipid repair → Lifestyle directives"
 
-**Zettel extracted:** [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]
+**Zettel extracted:** [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]]
 
 ### 5. Training Through Socratic Method
 > "Let the trainee make a common error → Model the correction → Explain why their pattern leads to mistakes."
 
-**Zettel extracted:** [[Socratic_Method_Metabolomics_Training_Z-001-1033]
+**Zettel extracted:** [[Socratic_Method_Metabolomics_Training_Z-001-1033]]
 
 ## Key Training Stages
 
@@ -78,9 +79,6 @@ extraction-date: 2026-03-08
 5. [[Socratic_Method_Metabolomics_Training_Z-001-1033]] — Pedagogical approach
 
 ## Related References
--  — Parent curriculum map
--  — Operational implementation
--  — Technical analysis stage
 
 ---
 

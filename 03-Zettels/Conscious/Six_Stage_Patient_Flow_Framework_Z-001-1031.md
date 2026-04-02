@@ -2,13 +2,12 @@
 uid: Z-001-1031
 type: zettel
 title: Six Stage Patient Flow Framework
-aliases: [Z-001-1031, Patient-Flow-6]
+aliases: ["Patient-Flow-6"]
 domain: 001
 domain-name: Clinical Training
 tags: [zettel, clinical-workflow, patient-journey, metabolomics]
 parent-moc: "[[MOC-Metabolomics-Training]]"
-source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
-source: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
+source-litnote: "[[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]]"
 confidence: high
 created: 2026-03-08
 ---
