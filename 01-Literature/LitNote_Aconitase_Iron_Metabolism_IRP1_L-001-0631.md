@@ -1,21 +1,17 @@
 ---
 uid: L-001-0631
 type: lit-note
-title: Aconitase Dual Function — Krebs Cycle and Iron Metabolism (IRP1)
-authors: ChatGPT Analysis
+title: "Lit — Aconitase Dual Function: Krebs Cycle and Iron Metabolism (IRP1)"
+authors: [ChatGPT Analysis]
 year: 2023
-journal: ChatGPT Archive
-doi: N/A
-pmid: N/A
-pmcid: N/A
-tier: 2
-relevance: High — Links energy metabolism to iron homeostasis
+parent-moc: [[MOC-Iron-Metabolism]]
+tier: SILVER
+status: extracted
+parent-index: [[02-Literature]]
 aliases: [L-001-0631, Aconitase, IRP1, Iron Regulatory Protein]
 domain: 001
 tags: [litnote, aconitase, irp1, iron-metabolism, krebs-cycle, fe-s-cluster]
 source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
-status: extracted
-parent-moc: 
 extraction-date: 2026-03-08
 ---
 
@@ -208,15 +204,14 @@ Citrate ⇌ cis-Aconitate ⇌ Isocitrate
 ## Connections
 
 **Related Zettels:**
-- [[Aconitase_Mechanism_FeS_Cluster_Z-001-1204] — To create
-- [[IRP1_Iron_Sensing_Switch_Z-001-1205] — To create
-- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]] — To create
-- [[IRE_IRP_System_Z-001-1207] — To create
+- [[Aconitase_Mechanism_Iron_Sulfur_Cluster_Z-001-1204]] — Created
+- [[IRP1_Iron_Sensing_Molecular_Switch_Z-001-1205]] — Created
+- [[Iron_Homeostasis_Post_Transcriptional_Z-001-1206]] — Created
+- [[IRE_IRP_System_Molecular_Details_Z-001-1207]] — Created
 
 **MOCs:**
--  — Krebs cycle
--  — Iron metabolism
--  — Anemia/iron overload
+- [[MOC-Iron-Metabolism]] — Iron metabolism
+- [[MOC-Krebs-Cycle]] — Krebs cycle
 
 ---
 
@@ -237,6 +232,3 @@ Citrate ⇌ cis-Aconitate ⇌ Isocitrate
 *Extracted: 2026-03-08 | Source: CGPT-0586 | RON v2.5*
 
 ---
-
----
-parent-index: [[02-Literature]]
