@@ -1,16 +1,14 @@
----
 uid: L-001-0200
-type: lit-note
+type: litnote
 title: "Lit — Metabolic Syndrome Overview (Definition, Epidemiology, Pathophysiology)"
 authors: ChatGPT synthesis from narrative review planning (CGPT-0272)
 year: 2024
 journal: Internal clinical synthesis
-tier: 2
+tier: SILVER
 relevance: High — Foundational context for all nutrient-MetS research; METHAP trial background
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
----
 
 # Lit: Metabolic Syndrome — Comprehensive Overview
 
@@ -19,7 +17,6 @@ extraction-date: 2026-03-01
 - **Date:** October 09, 2024
 - **Scope:** Foundational chapter structure for narrative review on MetS definition, epidemiology, pathophysiology, clinical manifestations, and management
 
----
 
 ## Core Concepts Extracted
 
@@ -117,7 +114,6 @@ Metabolic syndrome is not merely a collection of risk factors but a progressive 
 
 **Zettels extracted:** [[Metabolic_Syndrome_Management_Lifestyle_Pharmacology_Z-001-0205]
 
----
 
 ## Key Figures & Data
 - **Global prevalence:** ~25% of adults worldwide
@@ -126,7 +122,6 @@ Metabolic syndrome is not merely a collection of risk factors but a progressive 
 - **Weight loss target:** 5-10% for clinical improvement
 - **Exercise recommendation:** 150 min/week moderate intensity
 
----
 
 ## My Notes
 
@@ -143,7 +138,6 @@ Metabolic syndrome is not merely a collection of risk factors but a progressive 
 - Does magnesium status correlate with MetS severity independent of other factors?
 - Can we stratify MetS patients by dominant mechanism (lipotoxicity vs. inflammation vs. oxidative stress) for targeted intervention?
 
----
 
 ## Zettels Created from This Source
 1. [[Metabolic_Syndrome_Definition_Diagnostic_Criteria_Z-001-0200]
@@ -159,13 +153,9 @@ Metabolic syndrome is not merely a collection of risk factors but a progressive 
 -  — Parent MOC
 -  — Mechanistic context
 
----
 
 *Literature note processed: 2026-03-01*  
 *Zettels extracted: 6*  
 *Status: extracted*
 
----
 
----
-parent-index: [[02-Literature]]

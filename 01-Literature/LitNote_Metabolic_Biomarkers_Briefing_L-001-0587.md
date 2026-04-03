@@ -1,17 +1,15 @@
----
 uid: L-001-0587
-type: lit-note
+type: litnote
 title: Metabolic Biomarkers Briefing — Vitamin D, Omega-3, Inflammation, Glycation
 authors: ChatGPT synthesis from CGPT-0384
 year: 2024
 journal: Internal clinical synthesis
-tier: 2
+tier: SILVER
 relevance: Core metabolic biomarkers for clinical assessment
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-07
 domain: 001
----
 
 # Metabolic Biomarkers Briefing — Vitamin D, Omega-3, Inflammation, Glycation
 
@@ -20,7 +18,6 @@ domain: 001
 - **Date:** April 25, 2024
 - **Scope:** Key metabolic biomarkers for health assessment
 
----
 
 ## Core Biomarkers
 
@@ -147,14 +144,10 @@ domain: 001
 - Kidney function
 - Complete blood count
 
----
 
 **Zettels extracted:** See associated zettels
 **Status:** Complete
 
 **Source:** CGPT-0384 — Biomarkers Briefing
 
----
 
----
-parent-index: [[02-Literature]]

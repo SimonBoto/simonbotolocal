@@ -1,6 +1,5 @@
----
 uid: L-001-0609
-type: lit-note
+type: litnote
 title: Metabolic Therapy for Cancer Seyfried Protocol
 authors: ChatGPT Analysis (CGPT-0264)
 year: 2024
@@ -8,12 +7,11 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Ketogenic diet for cancer, caloric restriction, Press-Pulse protocol, mitochondrial dysfunction exploitation
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
----
 
 # Lit: ChatGPT 2024 — Metabolic Therapy for Cancer: Seyfried Protocol
 
@@ -92,13 +90,9 @@ extraction-date: 2026-03-08
 - [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]
 - [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]
 
----
 
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 4*
 *Status: extracted*
 
----
 
----
-parent-index: [[02-Literature]]

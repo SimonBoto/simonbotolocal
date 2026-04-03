@@ -1,17 +1,15 @@
----
 uid: L-001-0523
-type: lit-note
+type: litnote
 title: Mechanisms of Metabolic Disruption — Inflammation, Oxidative Stress, and Insulin Resistance
 authors: ChatGPT synthesis from CGPT-0281, CGPT-0282
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Critical — Core pathophysiology linking seed oils to metabolic disease
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-06
 domain: 001
----
 
 # Mechanisms of Metabolic Disruption — Inflammation, Oxidative Stress, and Insulin Resistance
 
@@ -21,7 +19,6 @@ domain: 001
   - [[CGPT_0282_Seed_Oils_and_Chronic_Diseases_CGPT-0282]]
 - **Scope:** Biochemical mechanisms connecting seed oil consumption to metabolic dysfunction
 
----
 
 ## Core Concepts Extracted
 
@@ -38,7 +35,6 @@ domain: 001
 
 **Result:** Chronic low-grade inflammation, tissue damage, insulin resistance
 
----
 
 ### 2. Lipid Peroxidation and 4-HNE Formation
 > "Oxidative stress: Explore the susceptibility of PUFAs to oxidation and the formation of harmful compounds like lipid peroxides and aldehydes."
@@ -50,7 +46,6 @@ domain: 001
 - **MDA (malondialdehyde):** Cross-links proteins, mutagenic
 - **Acrolein:** Highly toxic, respiratory irritant
 
----
 
 ### 3. Endotoxin/LPS Translocation from Gut
 > "Increased intestinal permeability allows endotoxins (lipopolysaccharides, LPS) to enter circulation, triggering systemic inflammation."
@@ -59,7 +54,6 @@ domain: 001
 
 **Mechanism:** High fat (especially oxidized PUFAs) → Gut barrier disruption → LPS entry → TLR4 activation → Inflammation
 
----
 
 ### 4. Insulin Resistance Pathways
 > "Chronic inflammation and oxidative stress impair insulin signaling pathways."
@@ -72,14 +66,12 @@ domain: 001
 3. **PKCθ activation** → Serine phosphorylation of IRS-1
 4. **SOCS proteins** → Degradation of IRS-1 and IRS-2
 
----
 
 ### 5. Mitochondrial Uncoupling and ROS
 **Zettel extracted:** [[Mitochondrial_Uncoupling_Omega_6_Induced_Z-001-0953]
 
 **Mechanism:** High omega-6 → Cardiolipin oxidation → ETC dysfunction → ROS generation → Further damage
 
----
 
 ## Integration
 
@@ -96,13 +88,9 @@ JNK/IKKβ activation + Mitochondrial dysfunction
 INSULIN RESISTANCE → METABOLIC SYNDROME → TYPE 2 DIABETES
 ```
 
----
 
 **Zettels extracted:** 5 (Z-001-0950, Z-001-0951, Z-001-0952, Z-001-0953, Z-001-0954)
 **Status:** Complete
 **Next:** LitNote 3 — Industrial Processing and Toxins
 
----
 
----
-parent-index: [[02-Literature]]

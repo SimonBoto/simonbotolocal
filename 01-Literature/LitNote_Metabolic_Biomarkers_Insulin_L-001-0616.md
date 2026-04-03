@@ -1,6 +1,5 @@
----
 uid: L-001-0616
-type: lit-note
+type: litnote
 title: Metabolic Biomarkers for Insulin Resistance METHAP
 authors: ChatGPT Analysis (CGPT-0475)
 year: 2024
@@ -8,12 +7,11 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: Critical — Urine organic acids, plasma total fatty acids, clinical markers (HbA1c, HOMA-IR, lipids) for PhD biomarker validation
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
----
 
 # Lit: ChatGPT 2024 — Metabolic Biomarkers for Insulin Resistance: METHAP
 
@@ -72,13 +70,9 @@ Shift in metabolic biomarker profile from insulin-resistant pattern toward metab
 - 
 - [[OAT_Category_Interpretation_Framework_Z-001-1065]
 
----
 
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 4*
 *Status: extracted*
 
----
 
----
-parent-index: [[02-Literature]]

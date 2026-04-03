@@ -1,6 +1,5 @@
----
 uid: L-001-0588
-type: lit-note
+type: litnote
 title: Metabolomics Chief Instructor Framework
 authors: ChatGPT Analysis (CGPT-0022)
 year: 2025
@@ -8,13 +7,12 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Foundational training philosophy for metabolomics clinic; defines instructor role and 6-stage patient flow
 status: extracted
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 parent-moc: "[[MOC-Metabolomics-Training]]"
 extraction-date: "2026-03-08"
----
 
 # Lit: ChatGPT 2025 — Metabolomics Chief Instructor Framework
 
@@ -80,20 +78,15 @@ extraction-date: "2026-03-08"
 
 ## Related References
 
----
 
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 5*
 *Status: extracted*
 
----
 
 ## Post-Extraction Verification Checklist
 - [x] All zettel links use FULL format: `[[Title_Z-001-0001]`
 - [x] No bare UIDs: `[[Insulin_Receptor_Structure_Z-001-0001]`
 - [x] Concept count matches "Zettels Created from This Source" list
 
----
 
----
-parent-index: [[02-Literature]]

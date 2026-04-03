@@ -1,17 +1,15 @@
----
 uid: L-001-0580
-type: lit-note
+type: litnote
 title: Meta-Analysis Methodology — From Search Strategy to Publication
 authors: ChatGPT synthesis from CGPT-0621
 year: 2023
 journal: Internal methodology synthesis
-tier: 1
+tier: GOLD
 relevance: Core systematic review and meta-analysis methodology for PhD research
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-07
 domain: 001
----
 
 # Meta-Analysis Methodology — From Search Strategy to Publication
 
@@ -20,7 +18,6 @@ domain: 001
 - **Date:** June 02, 2023
 - **Scope:** Complete 60-day plan for mastering systematic review methodology
 
----
 
 ## 60-Day Learning Framework
 
@@ -108,7 +105,6 @@ domain: 001
 - Cover letter
 - Response to reviewers
 
----
 
 ## Core Methodology Components
 
@@ -144,7 +140,6 @@ domain: 001
 - STROBE guidelines
 - GRADE approach
 
----
 
 ## Statistical Analysis
 
@@ -177,7 +172,6 @@ domain: 001
 - Egger's test
 - Trim-and-fill method
 
----
 
 ## Journal Selection Strategy
 
@@ -199,14 +193,10 @@ domain: 001
 - Publication speed
 - Open access options
 
----
 
 **Zettels extracted:** See associated zettels Z-001-0996 through Z-001-1000
 **Status:** Complete
 
 **Source:** CGPT-0621 — Publishing Meta-Analysis Guidelines
 
----
 
----
-parent-index: [[02-Literature]]

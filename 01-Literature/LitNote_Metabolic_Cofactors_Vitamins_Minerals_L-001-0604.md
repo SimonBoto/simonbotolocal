@@ -1,6 +1,5 @@
----
 uid: L-001-0604
-type: lit-note
+type: litnote
 title: Metabolic Cofactors Vitamins and Minerals
 authors: ChatGPT Analysis (CGPT-0445)
 year: 2024
@@ -8,12 +7,11 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — B-vitamins in metabolism, iron-sulfur clusters, magnesium, cofactor deficiency impacts
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
----
 
 # Lit: ChatGPT 2024 — Metabolic Cofactors: Vitamins and Minerals
 
@@ -71,13 +69,9 @@ extraction-date: 2026-03-08
 - [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]
 - [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]
 
----
 
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 4*
 *Status: extracted*
 
----
 
----
-parent-index: [[02-Literature]]

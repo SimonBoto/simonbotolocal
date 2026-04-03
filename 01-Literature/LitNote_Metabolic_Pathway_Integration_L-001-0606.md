@@ -1,6 +1,5 @@
----
 uid: L-001-0606
-type: lit-note
+type: litnote
 title: Metabolic Pathway Integration
 authors: ChatGPT Analysis (CGPT-0445)
 year: 2024
@@ -8,12 +7,11 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Glycolysis-PPP-Krebs connections, fuel switching, metabolic flexibility, substrate channeling
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
----
 
 # Lit: ChatGPT 2024 — Metabolic Pathway Integration
 
@@ -87,13 +85,9 @@ Glycolysis       Beta-oxidation     Deamination
 - 
 - 
 
----
 
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 4*
 *Status: extracted*
 
----
 
----
-parent-index: [[02-Literature]]

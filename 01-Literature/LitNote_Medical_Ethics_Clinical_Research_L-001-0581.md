@@ -1,17 +1,15 @@
----
 uid: L-001-0581
-type: lit-note
+type: litnote
 title: Medical Ethics in Clinical Research — Frameworks, Guidelines, and Requirements
 authors: ChatGPT synthesis from CGPT-0131
 year: 2025
 journal: Internal ethics synthesis
-tier: 1
+tier: GOLD
 relevance: Core medical ethics framework for clinical research
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-07
 domain: 001
----
 
 # Medical Ethics in Clinical Research — Frameworks, Guidelines, and Requirements
 
@@ -20,7 +18,6 @@ domain: 001
 - **Date:** March 07, 2025
 - **Scope:** Clinical research ethics frameworks, historical guidelines, requirements
 
----
 
 ## Seven Requirements for Ethical Research (Emanuel et al.)
 
@@ -47,7 +44,6 @@ domain: 001
 - May require adaptation to local conditions
 - Forms basis for ethical evaluation
 
----
 
 ## Historical Ethical Guidelines
 
@@ -127,7 +123,6 @@ domain: 001
 - Resource-limited settings
 - Collaborative partnerships
 
----
 
 ## Regulatory Frameworks
 
@@ -159,14 +154,10 @@ domain: 001
 - Legally binding in ratifying countries
 - Comprehensive bioethical framework
 
----
 
 **Zettels extracted:** See associated zettels Z-001-1002 through Z-001-1006
 **Status:** Complete
 
 **Source:** CGPT-0131 — Medical Ethics Assistance
 
----
 
----
-parent-index: [[02-Literature]]
