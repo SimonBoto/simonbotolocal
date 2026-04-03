@@ -1,22 +1,23 @@
 ---
 uid: L-001-0629
 type: lit-note
-title: Adipate Metabolism — Dicarboxylic Acid Pathway to Krebs Cycle
-authors: ChatGPT Analysis
+title: "Lit — Adipate Metabolism: Dicarboxylic Acid Pathway to Krebs Cycle"
+authors: [ChatGPT Analysis]
 year: 2023
 journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 1
+tier: GOLD
 relevance: Critical — Completes adipic acid metabolic fate for PhD biomarker interpretation
 aliases: [L-001-0629, Adipate Metabolism, Dicarboxylic Acid Pathway]
 domain: 101
 tags: [litnote, adipate, dicarboxylic-acids, beta-oxidation, krebs-cycle, succinyl-coa]
 source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
 extraction-date: 2026-03-08
+parent-index: [[02-Literature]]
 ---
 
 # Adipate Metabolism — Dicarboxylic Acid Pathway to Krebs Cycle
@@ -167,15 +168,15 @@ Succinyl-CoA + GDP + Pi → Succinate + GTP + CoA
 ## Connections
 
 **Related Zettels:**
-- [[Adipate_Complete_Metabolism_Pathway_Z-001-1196] — To create
-- [[Dicarboxylic_Acid_Energy_Yield_Z-001-1197] — To create
-- [[Succinyl_CoA_Krebs_Entry_Z-001-1198] — To create
-- [[Urinary_Adipate_Interpretation_Z-001-1199] — To create
+- [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]] — Created
+- [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]] — Created
+- [[Succinyl_CoA_Krebs_Entry_Dicarboxylic_Integration_Z-001-1198]] — Created
+- [[Urinary_Adipate_Interpretation_Clinical_Z-001-1199]] — Created
 
 **MOCs:**
--  — Primary domain
--  — β-oxidation
--  — Energy metabolism
+- [[MOC-Mitochondrial-Function]] — Primary domain
+- [[MOC-Lipid-Metabolism]] — β-oxidation
+- [[MOC-Krebs-Cycle]] — Energy metabolism
 
 **LitNotes:**
 - [[LitNote_Dicarboxylic_Acid_Formation_Fatty_Acids_L-001-0628]] — Formation pathway
@@ -185,21 +186,16 @@ Succinyl-CoA + GDP + Pi → Succinate + GTP + CoA
 
 ## Extraction Notes
 
-**Zettels to Create:**
-1. Complete adipate metabolism (formation + degradation)
-2. Energy yield calculations
-3. Clinical interpretation of urinary levels
-4. Comparison with other dicarboxylic acids (suberate, sebacate)
-5. Metabolic fate: adipate vs glucose
-6. Dicarboxylic acid pathway capacity limits
+**Zettels Created:**
+1. [[Complete_Adipate_Metabolism_Formation_to_Krebs_Z-001-1196]] — Complete adipate metabolism (formation + degradation)
+2. [[Dicarboxylic_Acid_Energy_Yield_ATP_Z-001-1197]] — Energy yield calculations
+3. [[Urinary_Adipate_Interpretation_Clinical_Z-001-1199]] — Clinical interpretation of urinary levels
+4. [[Succinyl_CoA_Krebs_Entry_Dicarboxylic_Integration_Z-001-1198]] — Succinyl-CoA Krebs entry
 
-**Status:** Conscious — completes metabolic picture for PhD
+**Status:** Extracted — completes metabolic picture for PhD
 
 ---
 
 *Extracted: 2026-03-08 | Source: CGPT-0586 | RON v2.5*
 
----
 
----
-parent-index: [[02-Literature]]
