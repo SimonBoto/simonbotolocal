@@ -9,6 +9,7 @@ relevance: Core metabolic biomarkers for clinical assessment
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-07
+source: "[[CGPT_0384_Biomarkers_Briefing_CGPT-0384]]"
 domain: 001
 
 # Metabolic Biomarkers Briefing — Vitamin D, Omega-3, Inflammation, Glycation

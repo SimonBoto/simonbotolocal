@@ -12,6 +12,7 @@ relevance: "Critical — Complete IRB application for METHAP trial, study design
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-27
+source: "[[CGPT_0359_Compliance_and_Approval_Process_CGPT-0359]]"
 
 # Lit: METHAP Study Design and Protocol (CGPT-0359)
 

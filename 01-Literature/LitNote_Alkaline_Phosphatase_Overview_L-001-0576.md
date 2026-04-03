@@ -11,6 +11,7 @@ status: extracted
 parent-moc: [[MOC-Biomarkers]]
 parent-index: [[02-Literature]]
 extraction-date: 2026-03-07
+source: "[[CGPT_0345_Alkaline_Phosphatase_Overview_CGPT-0345]]"
 domain: 001
 ---
 

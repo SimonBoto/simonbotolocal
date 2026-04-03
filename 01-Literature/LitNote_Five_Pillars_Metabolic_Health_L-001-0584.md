@@ -10,6 +10,7 @@ relevance: Core metabolic medicine framework for clinical practice
 status: extracted
 parent-moc: [[MOC-Metabolic-Health]]
 extraction-date: 2026-03-07
+source: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_CGPT-0124]]"
 domain: 001
 ---
 

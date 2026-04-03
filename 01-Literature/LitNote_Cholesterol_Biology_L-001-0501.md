@@ -11,6 +11,7 @@ status: extracted
 parent-moc: [[MOC-Lipid-Metabolism]]
 parent-index: [[02-Literature]]
 extraction-date: 2026-03-01
+source: "[[CGPT_0086_Twelve_Hallmarks_of_Aging_Full_List_CGPT-0086]]"
 ---
 
 # Lit: Cholesterol Biology and Lipid Metabolism in Aging

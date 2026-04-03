@@ -10,6 +10,7 @@ relevance: Medium — Foundation for carbohydrate metabolism understanding
 status: extracted
 parent-moc: [[MOC-Glucose-History]]
 extraction-date: 2026-03-01
+source: "[[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]"
 ---
 
 # Lit: History of Glucose Discovery and Metabolic Understanding

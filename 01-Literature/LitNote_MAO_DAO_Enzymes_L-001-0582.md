@@ -11,6 +11,7 @@ status: extracted
 parent-moc: [[MOC-Pharmacology]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-07
+source: "[[CGPT_0258_MAOIs_and_DAO_Interaction_CGPT-0258]]"
 domain: 001
 ---
 

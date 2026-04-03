@@ -13,6 +13,7 @@ relevance: High — IV vitamin C, pro-oxidant mechanisms, epigenetic effects, cl
 status: extracted
 parent-moc: [[MOC-Cancer-Therapy]]
 extraction-date: 2026-03-08
+source: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 ---
 
 # Lit: ChatGPT 2024 — High-Dose Vitamin C in Oncology

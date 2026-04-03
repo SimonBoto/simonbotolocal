@@ -9,6 +9,7 @@ relevance: Core systematic review and meta-analysis methodology for PhD research
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-07
+source: "[[CGPT_0621_Publishing_Meta_Analysis_Guidelines_CGPT-0621]]"
 domain: 001
 
 # Meta-Analysis Methodology — From Search Strategy to Publication

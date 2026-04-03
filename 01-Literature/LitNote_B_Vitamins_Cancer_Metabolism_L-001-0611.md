@@ -14,6 +14,7 @@ status: extracted
 parent-moc: [[MOC-Methylation-One-Carbon]]
 parent-index: [[02-Literature]]
 extraction-date: 2026-03-08
+source: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 ---
 
 # Lit: ChatGPT 2024 — B-Vitamins and Cancer Metabolism

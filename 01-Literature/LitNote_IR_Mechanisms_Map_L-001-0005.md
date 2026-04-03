@@ -11,6 +11,7 @@ status: extracted
 parent-moc: [[MOC-Insulin-Signaling]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-02-24
+source: "[[Internal_Synthesis_IR_Mechanisms]]"
 ---
 
 # Lit: IR Mechanisms Map — Causal Pathways from Trigger to Disease

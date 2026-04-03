@@ -9,6 +9,7 @@ relevance: Critical — Understanding methodological flaws in nutritional epidem
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
+source: "[[CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]]"
 
 # Lit: Seven Countries Study Methodology and Scientific Critique
 

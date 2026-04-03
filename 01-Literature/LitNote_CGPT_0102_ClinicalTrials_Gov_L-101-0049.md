@@ -12,6 +12,7 @@ status: extracted
 parent-moc: [[MOC-PhD-Research]]
 parent-index: [[02-Literature]]
 extraction-date: 2026-03-28
+source: "[[CGPT_0102_Clinical_Trials_Gov_Protocol_CGPT-0102]]"
 ---
 
 # Lit: ClinicalTrials.gov Registration — METHAP Trial Enrollment

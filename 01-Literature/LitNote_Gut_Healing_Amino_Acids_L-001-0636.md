@@ -10,6 +10,7 @@ relevance: High — Clinical protocols for intestinal barrier repair, glutamine,
 status: extracted
 parent-moc: [[MOC-Gut-Health]]
 extraction-date: 2026-03-09
+source: "[[CGPT_0199_Dysbiosis_Treatment_Side_Effects_CGPT-0199]]"
 ---
 
 # Gut Healing Nutrients and Amino Acids

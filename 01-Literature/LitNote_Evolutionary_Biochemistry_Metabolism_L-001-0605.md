@@ -13,6 +13,7 @@ relevance: High — Ancient pathways, RNA world hypothesis, origins of metabolis
 status: extracted
 parent-moc: [[MOC-Evolutionary-Biochemistry]]
 extraction-date: 2026-03-08
+source: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 ---
 
 # Lit: ChatGPT 2024 — Evolutionary Biochemistry of Metabolism

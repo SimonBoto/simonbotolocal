@@ -10,6 +10,7 @@ relevance: High — Corrects foundational public health misconceptions about vit
 status: extracted
 parent-moc: [[MOC-Vitamin-D]]
 extraction-date: 2026-03-01
+source: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
 ---
 
 # Lit: Historical Vitamin D Toxicity Misconceptions — From Fortification Fear to Genetic Truth

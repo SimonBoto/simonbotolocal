@@ -9,6 +9,7 @@ relevance: Foundational genetic research on VDR and mitochondrial function
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-07
+source: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]"
 domain: 001
 
 # VDR and Mitochondrial Knockout Studies — Genetic Models of Vitamin D and Mitochondrial Dysfunction

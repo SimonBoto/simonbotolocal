@@ -11,6 +11,7 @@ status: extracted
 parent-moc: [[MOC-Methylation-One-Carbon]]
 parent-index: [[02-Literature]]
 extraction-date: 2026-03-01
+source: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 ---
 
 # Lit: B12 in Amino Acid Metabolism — The Propionate Pathway

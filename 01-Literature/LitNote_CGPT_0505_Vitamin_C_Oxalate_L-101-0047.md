@@ -12,6 +12,7 @@ status: extracted
 parent-moc: [[MOC-Kidney-Metabolism]]
 parent-index: [[02-Literature]]
 extraction-date: 2026-03-28
+source: "[[CGPT_0505_Vitamin_C_to_Oxalate_CGPT-0505]]"
 ---
 
 # Lit: Vitamin C → Oxalate — Chemical Conversion and Clinical Implications

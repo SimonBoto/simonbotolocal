@@ -9,6 +9,7 @@ relevance: High — Critical for PhD metabolomics methodology and METHAP design
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-06
+source: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
 domain: 001
 
 # Multivariate Analysis Pitfalls in Omics — OPLS-DA, VIP Scores, and Overfitting

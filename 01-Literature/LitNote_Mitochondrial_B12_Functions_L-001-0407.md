@@ -9,6 +9,7 @@ relevance: High — Mitochondrial energy production, exercise implications, clin
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
+source: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 
 # Lit: Mitochondrial B12 Functions
 

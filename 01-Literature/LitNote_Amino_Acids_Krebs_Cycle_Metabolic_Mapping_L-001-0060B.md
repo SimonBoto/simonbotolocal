@@ -10,6 +10,7 @@ tier: SILVER
 parent-moc: [[MOC-Amino-Acid-Metabolism]]
 parent-index: [[02-Literature]]
 extraction-date: 2026-03-04
+source: "[[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]"
 ---
 
 # Lit: Amino Acids to Krebs Cycle — Metabolic Mapping

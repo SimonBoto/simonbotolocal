@@ -11,6 +11,7 @@ status: extracted
 parent-moc: [[MOC-Vitamin-D-Metabolism]]
 parent-index: [[02-Literature]]
 extraction-date: 2026-03-01
+source: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
 ---
 
 # Lit: Calcium-PTH Homeostasis and METHAP Monitoring

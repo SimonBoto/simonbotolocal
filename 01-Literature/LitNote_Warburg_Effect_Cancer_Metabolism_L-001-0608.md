@@ -12,6 +12,7 @@ relevance: High — Aerobic glycolysis in cancer, metabolic reprogramming, tumor
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
+source: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 
 # Lit: ChatGPT 2024 — Warburg Effect and Cancer Metabolism
 

@@ -11,6 +11,7 @@ status: extracted
 parent-moc: [[MOC-Nutrition]]
 parent-index: [[02-Literature]]
 extraction-date: 2026-03-01
+source: "[[CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]]"
 ---
 
 # Lit: Ancel Keys and the Diet-Heart Hypothesis

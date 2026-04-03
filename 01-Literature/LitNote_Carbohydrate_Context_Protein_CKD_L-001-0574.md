@@ -11,6 +11,7 @@ status: extracted
 parent-moc: [[MOC-Kidney-Metabolism]]
 parent-index: [[02-Literature]]
 extraction-date: 2026-03-07
+source: "[[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]"
 domain: 001
 ---
 

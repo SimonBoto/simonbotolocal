@@ -10,6 +10,7 @@ relevance: Foundational endocrine physiology for clinical practice
 status: extracted
 parent-moc: [[MOC-Endocrinology]]
 extraction-date: 2026-03-07
+source: "[[CGPT_0438_Hormone_Scenarios_Normal_vs_Pathological_CGPT-0438]]"
 domain: 001
 ---
 

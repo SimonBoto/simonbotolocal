@@ -9,6 +9,7 @@ relevance: Critical — Clinical application of organic acid testing for mitocho
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
+source: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]"
 source-file-location: /03-Zettels/ChatGPT_Archive/metabolomics/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393].md
 source-verified: 2026-03-01
 

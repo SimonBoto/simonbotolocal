@@ -9,6 +9,7 @@ relevance: Critical — Understanding dietary fat quality, omega-6/omega-3 balan
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
+source: "[[CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]]"
 
 # Lit: Seed Oils, Omega-6/Omega-3 Ratio, and Inflammation
 

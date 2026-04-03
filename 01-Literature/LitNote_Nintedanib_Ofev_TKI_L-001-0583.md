@@ -9,6 +9,7 @@ relevance: Tyrosine kinase inhibitors, antifibrotic therapy, IPF treatment
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-07
+source: "[[CGPT_0064_Ofev_MOA_and_effects_CGPT-0064]]"
 domain: 001
 
 # Nintedanib (Ofev) — Tyrosine Kinase Inhibitor Mechanism and Clinical Use

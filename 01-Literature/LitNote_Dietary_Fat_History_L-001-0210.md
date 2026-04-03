@@ -10,6 +10,7 @@ relevance: High — Foundation of modern dietary guidelines; seed oil industry i
 status: extracted
 parent-moc: [[MOC-Nutrition-History]]
 extraction-date: 2026-03-01
+source: "[[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]"
 ---
 
 # Lit: History of Dietary Fat Research and Controversies

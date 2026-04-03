@@ -9,6 +9,7 @@ relevance: Critical — Foundation for methylation, DNA synthesis, METHAP cofact
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
+source: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 
 # Lit: One-Carbon Metabolism and Vitamin B12 Biochemistry
 

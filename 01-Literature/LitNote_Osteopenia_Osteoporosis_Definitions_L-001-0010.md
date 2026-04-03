@@ -9,6 +9,7 @@ relevance: High — Foundational for bone health clinical assessment
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
+source: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
 
 # Lit: Osteopenia vs Osteoporosis — DXA, T-Scores, and Fracture Risk
 

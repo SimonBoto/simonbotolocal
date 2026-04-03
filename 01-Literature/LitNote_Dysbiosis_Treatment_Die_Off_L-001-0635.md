@@ -10,6 +10,7 @@ relevance: Critical — Clinical management of dysbiosis, herbal antimicrobials,
 status: extracted
 parent-moc: [[MOC-Gut-Health]]
 extraction-date: 2026-03-09
+source: "[[CGPT_0199_Dysbiosis_Treatment_Side_Effects_CGPT-0199]]"
 ---
 
 # Dysbiosis Treatment and Die-Off Reactions

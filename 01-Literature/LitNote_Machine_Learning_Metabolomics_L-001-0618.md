@@ -14,6 +14,7 @@ status: extracted
 parent-moc: [[MOC-Metabolomics]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-08
+source: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475]]"
 ---
 
 # Lit: ChatGPT 2024 — Machine Learning in Metabolomics: METHAP

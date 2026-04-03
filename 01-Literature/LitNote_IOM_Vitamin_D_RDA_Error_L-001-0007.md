@@ -11,6 +11,7 @@ status: extracted
 parent-moc: [[MOC-Vitamin-D]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-01
+source: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
 ---
 
 # Lit: IOM Vitamin D RDA Statistical Error — The Factor of 10 Mistake

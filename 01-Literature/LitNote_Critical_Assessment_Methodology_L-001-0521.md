@@ -11,6 +11,7 @@ status: extracted
 parent-moc: [[MOC-Research-Methods]]
 parent-index: [[02-Literature]]
 extraction-date: 2026-03-06
+source: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
 domain: 001
 ---
 

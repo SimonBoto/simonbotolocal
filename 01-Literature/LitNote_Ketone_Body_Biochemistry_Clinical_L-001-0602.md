@@ -14,6 +14,7 @@ status: extracted
 parent-moc: [[MOC-Ketogenesis]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-08
+source: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 ---
 
 # Lit: ChatGPT 2024 — Ketone Body Biochemistry and Clinical Applications

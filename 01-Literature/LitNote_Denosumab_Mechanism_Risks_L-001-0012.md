@@ -10,6 +10,7 @@ relevance: High — Critical safety knowledge for clinical practice
 status: extracted
 parent-moc: [[MOC-Bone-Health]]
 extraction-date: 2026-03-01
+source: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
 ---
 
 # Lit: Denosumab — RANKL Inhibition, Rebound Fractures, and Transition Strategy

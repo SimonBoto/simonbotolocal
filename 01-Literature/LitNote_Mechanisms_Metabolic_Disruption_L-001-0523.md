@@ -9,6 +9,7 @@ relevance: Critical — Core pathophysiology linking seed oils to metabolic dise
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-06
+source: "[[CGPT_0281_Seed_Oils_and_Metabolic_Health_CGPT-0281]]"
 domain: 001
 
 # Mechanisms of Metabolic Disruption — Inflammation, Oxidative Stress, and Insulin Resistance

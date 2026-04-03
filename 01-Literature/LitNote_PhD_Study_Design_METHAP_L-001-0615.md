@@ -12,6 +12,7 @@ relevance: Critical — RCT structure, inclusion criteria, intervention protocol
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
+source: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475]]"
 
 # Lit: ChatGPT 2024 — PhD Study Design and Methodology: METHAP Trial
 

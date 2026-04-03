@@ -10,6 +10,7 @@ relevance: High — Underutilized nutritional intervention for osteoporosis
 status: extracted
 parent-moc: [[MOC-Bone-Health]]
 extraction-date: 2026-03-01
+source: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
 ---
 
 # Lit: High-Protein Diet — Muscle-Bone Unit, IGF-1, and Fracture Prevention

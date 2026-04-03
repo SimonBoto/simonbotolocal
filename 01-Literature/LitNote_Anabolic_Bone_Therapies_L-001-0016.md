@@ -11,6 +11,7 @@ status: extracted
 parent-moc: [[MOC-Clinical-Protocols]]
 parent-index: [[02-Literature]]
 extraction-date: 2026-03-06
+source: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
 domain: 001
 ---
 

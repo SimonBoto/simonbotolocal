@@ -9,6 +9,7 @@ relevance: High — Essential for METHAP quality control and study design
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-06
+source: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
 domain: 001
 
 # Technical Confounders in Metabolomics — Batch Effects and Artifacts

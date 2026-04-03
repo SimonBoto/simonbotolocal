@@ -9,6 +9,7 @@ relevance: High — Core nutritional intervention for osteoporosis
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
+source: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
 
 # Lit: Vitamin D and K2 Co-Supplementation — Bone Mineralization and Fracture Prevention
 

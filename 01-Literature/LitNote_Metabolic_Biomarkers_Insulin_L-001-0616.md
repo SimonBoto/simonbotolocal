@@ -12,6 +12,7 @@ relevance: Critical — Urine organic acids, plasma total fatty acids, clinical 
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
+source: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475]]"
 
 # Lit: ChatGPT 2024 — Metabolic Biomarkers for Insulin Resistance: METHAP
 

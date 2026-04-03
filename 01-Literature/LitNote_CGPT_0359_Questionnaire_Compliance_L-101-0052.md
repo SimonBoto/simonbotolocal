@@ -12,6 +12,7 @@ status: extracted
 parent-moc: [[MOC-PhD-Research]]
 parent-index: [[02-Literature]]
 extraction-date: 2026-03-28
+source: "[[CGPT_0359_Compliance_and_Approval_Process_CGPT-0359]]"
 ---
 
 # Lit: Questionnaire Compliance — Ethics Application Strategies

@@ -13,6 +13,7 @@ status: extracted
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
 extraction-date: "2026-03-08"
+source: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 
 # Lit: ChatGPT 2025 — Vitamin Mineral Axis Clinical Biochemistry
 

@@ -12,6 +12,7 @@ tier: "SILVER"
 status: extracted
 parent-moc: "[[MOC-Metabolomics-Training]]"
 extraction-date: "2026-03-08"
+source: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 ---
 
 # Lit: 8-Week Metabolomics Bootcamp Curriculum

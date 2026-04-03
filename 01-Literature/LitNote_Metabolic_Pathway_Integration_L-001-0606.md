@@ -12,6 +12,7 @@ relevance: High — Glycolysis-PPP-Krebs connections, fuel switching, metabolic 
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
+source: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 
 # Lit: ChatGPT 2024 — Metabolic Pathway Integration
 

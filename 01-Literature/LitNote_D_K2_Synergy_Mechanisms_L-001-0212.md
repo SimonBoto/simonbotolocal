@@ -10,6 +10,7 @@ relevance: Critical — METHAP protocol synergy rationale; biochemical foundatio
 status: extracted
 parent-moc: [[MOC-Vitamin-D-K2]]
 extraction-date: 2026-03-01
+source: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
 ---
 
 # Lit: Vitamin D and K2 Synergy — Mechanistic Integration

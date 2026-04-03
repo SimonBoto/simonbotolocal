@@ -10,6 +10,7 @@ relevance: High — Evidence base for METHAP protocol; study design rationale
 status: extracted
 parent-moc: [[MOC-Vitamin-D-K2]]
 extraction-date: 2026-03-01
+source: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
 ---
 
 # Lit: D-K2 Co-Supplementation Clinical Evidence

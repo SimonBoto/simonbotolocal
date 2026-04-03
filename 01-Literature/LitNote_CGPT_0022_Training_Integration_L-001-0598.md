@@ -14,6 +14,7 @@ status: extracted
 parent-moc: [[MOC-Metabolomics-Training]]
 parent-index: [[02-Literature]]
 extraction-date: 2026-03-08
+source: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 ---
 
 # Lit: ChatGPT 2025 — CGPT-0022 Training Curriculum Integration

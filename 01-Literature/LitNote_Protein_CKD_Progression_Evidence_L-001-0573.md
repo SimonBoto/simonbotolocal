@@ -9,6 +9,7 @@ relevance: Core clinical evidence for protein restriction in kidney disease
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-07
+source: "[[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]"
 domain: 001
 
 # Protein Intake and CKD Progression — Evidence Synthesis

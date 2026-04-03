@@ -10,6 +10,7 @@ relevance: High — Evidence base for high-dose protocols in infants, children, 
 status: extracted
 parent-moc: [[MOC-Vitamin-D]]
 extraction-date: 2026-03-01
+source: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
 ---
 
 # Lit: High-Dose Vitamin D Clinical Research — Safety in Pediatrics

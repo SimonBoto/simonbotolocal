@@ -11,6 +11,7 @@ status: extracted
 parent-moc: [[MOC-Biomarkers]]
 parent-index: [[02-Literature]]
 extraction-date: 2026-03-01
+source: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 ---
 
 # Lit: B12 Deficiency Mimicking Multiple Myeloma

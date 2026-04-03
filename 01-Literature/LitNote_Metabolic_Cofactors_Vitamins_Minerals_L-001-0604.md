@@ -12,6 +12,7 @@ relevance: High — B-vitamins in metabolism, iron-sulfur clusters, magnesium, c
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
+source: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 
 # Lit: ChatGPT 2024 — Metabolic Cofactors: Vitamins and Minerals
 

@@ -13,6 +13,7 @@ relevance: High — HBOT mechanisms, radiosensitization, bone healing, therapeut
 status: extracted
 parent-moc: [[MOC-Cancer-Therapy]]
 extraction-date: 2026-03-08
+source: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 ---
 
 # Lit: ChatGPT 2024 — Hyperbaric Oxygen Therapy in Cancer

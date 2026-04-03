@@ -11,6 +11,7 @@ status: extracted
 parent-moc: [[MOC-Gastroenterology]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-07
+source: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]"
 domain: 001
 ---
 

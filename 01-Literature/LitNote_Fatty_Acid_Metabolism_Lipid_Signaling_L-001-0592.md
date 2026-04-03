@@ -14,6 +14,7 @@ status: extracted
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 parent-moc: "[[MOC-Mitochondrial-Function]]"
 extraction-date: "2026-03-08"
+source: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 ---
 
 # Lit: ChatGPT 2025 — Fatty Acid Metabolism and Lipid Signaling

@@ -7,6 +7,7 @@ relevance: High — PhD marker, oxalate biochemistry, kidney stone pathophysiolo
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-04
+source: "[[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]"
 
 # Lit: Oxalic Acid — Chemistry, Sources, and Health
 

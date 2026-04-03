@@ -11,6 +11,7 @@ status: extracted
 parent-moc: [[MOC-Research-Methods]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-07
+source: "[[CGPT_0551_Manuscript_Review_Critical_Concerns_CGPT-0551]]"
 domain: 001
 ---
 

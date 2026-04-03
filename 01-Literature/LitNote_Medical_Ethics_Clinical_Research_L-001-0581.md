@@ -9,6 +9,7 @@ relevance: Core medical ethics framework for clinical research
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-07
+source: "[[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]"
 domain: 001
 
 # Medical Ethics in Clinical Research — Frameworks, Guidelines, and Requirements

@@ -13,6 +13,7 @@ relevance: "High — Historical foundation for modern IRB requirements and METHA
 status: extracted
 parent-moc: [[MOC-Research-Ethics]]
 extraction-date: 2026-03-27
+source: "[[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]"
 ---
 
 # Lit: Historical Ethics Guidelines — From Nuremberg to ICH-GCP

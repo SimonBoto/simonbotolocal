@@ -9,6 +9,7 @@ relevance: Critical — Epigenetic regulation, DNA methylation, METHAP gene expr
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
+source: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 
 # Lit: The Methylation Cycle — SAM, SAH, and Epigenetic Regulation
 

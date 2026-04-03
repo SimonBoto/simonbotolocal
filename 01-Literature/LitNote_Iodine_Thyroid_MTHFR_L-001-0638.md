@@ -11,6 +11,7 @@ status: extracted
 parent-moc: [[MOC-Thyroid]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-09
+source: "[[CGPT_0199_Dysbiosis_Treatment_Side_Effects_CGPT-0199]]"
 ---
 
 # Iodine, Thyroid, and MTHFR Support

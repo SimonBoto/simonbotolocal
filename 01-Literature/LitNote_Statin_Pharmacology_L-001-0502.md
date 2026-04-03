@@ -9,6 +9,7 @@ relevance: Critical — Foundation for lipid management, cardiovascular risk red
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
+source: "[[CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]"
 
 # Lit: Statin Pharmacology and Clinical Evidence
 

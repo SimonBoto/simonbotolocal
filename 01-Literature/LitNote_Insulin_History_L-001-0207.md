@@ -11,6 +11,7 @@ status: extracted
 parent-moc: [[MOC-Insulin-Signaling]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-01
+source: "[[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]"
 ---
 
 # Lit: History of Insulin Discovery (1921-1923)

@@ -11,6 +11,7 @@ status: extracted
 parent-moc: [[MOC-Magnesium]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-01
+source: "[[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
 ---
 
 # Lit: Magnesium Supplementation — Practical Clinical Guide
