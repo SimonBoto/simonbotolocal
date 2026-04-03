@@ -1,6 +1,5 @@
----
 uid: L-001-0597
-type: lit-note
+type: litnote
 title: Metabolomics Clinic Operations Manual
 authors: ChatGPT Analysis (CGPT-0022)
 year: 2025
@@ -8,13 +7,12 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Patient flow, quality standards, follow-up rhythms, operational protocols
 status: extracted
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 parent-moc: "[[MOC-Metabolomics-Training]]"
 extraction-date: "2026-03-08"
----
 
 # Lit: ChatGPT 2025 — Metabolomics Clinic Operations Manual
 
@@ -78,20 +76,15 @@ extraction-date: "2026-03-08"
 - [[Six_Stage_Patient_Flow_Framework_Z-001-1031]]
 - [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1034]]
 
----
 
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 4*
 *Status: extracted*
 
----
 
 ## Post-Extraction Verification Checklist
 - [x] All zettel links use FULL format
 - [x] No bare UIDs
 - [x] Concept count matches list
 
----
 
----
-parent-index: [[02-Literature]]

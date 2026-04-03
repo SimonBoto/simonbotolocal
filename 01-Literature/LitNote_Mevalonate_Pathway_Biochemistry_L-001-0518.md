@@ -1,6 +1,5 @@
----
 uid: L-001-0518
-type: lit-note
+type: litnote
 title: Mevalonate Pathway Biochemistry — Enzymes, Cofactors, and Energy Requirements
 authors: ChatGPT Analysis
 year: 2024
@@ -8,7 +7,7 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Core cholesterol synthesis pathway, statin mechanism, CoQ10 production
 aliases: [L-001-0518, HMG-CoA Reductase, Mevalonate Pathway, Cholesterol Synthesis, Statin Target]
 domain: 001
@@ -17,7 +16,6 @@ source: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-03
----
 
 # Mevalonate Pathway Biochemistry — Enzymes, Cofactors, and Energy Requirements
 
@@ -25,7 +23,6 @@ extraction-date: 2026-03-03
 > **Key Theme:** Complete mevalonate pathway from acetyl-CoA to isopentenyl pyrophosphate  
 > **Clinical Relevance:** Statin mechanism, CoQ10 synthesis, therapeutic targets
 
----
 
 ## Core Concepts Extracted
 
@@ -129,7 +126,6 @@ extraction-date: 2026-03-03
 
 **Zettels extracted:** [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]
 
----
 
 ## Key Figures & Data
 
@@ -150,7 +146,6 @@ extraction-date: 2026-03-03
 | **1 Cholesterol** | 18 | 16 NADPH, 18 ATP | ~250+ ATP equiv |
 | **1 Palmitate** | 8 | 14 NADPH, 7 ATP | ~100 ATP equiv |
 
----
 
 ## My Notes
 
@@ -176,14 +171,12 @@ The mevalonate pathway doesn't just make cholesterol — it makes:
 
 Statin myopathy isn't just "muscle pain" — it's mitochondrial dysfunction from CoQ10 depletion.
 
----
 
 ## Zettels Created from This Source
 1. [[Mevalonate_Pathway_Step_by_Step_Z-001-0566]] — Complete pathway walkthrough
 2. [[HMG_CoA_Reductase_Regulation_Z-001-0567]] — Regulatory mechanisms and statin action
 3. [[Mevalonate_Pathway_Energy_Cost_Z-001-0568]] — ATP and NADPH requirements
 
----
 
 ## Related References
 -  — Parent MOC
@@ -191,12 +184,8 @@ Statin myopathy isn't just "muscle pain" — it's mitochondrial dysfunction from
 - [[LitNote_Statin_Pharmacology_L-001-0502]] — Statin mechanism and side effects
 -  — CoQ10 synthesis (if exists)
 
----
 
 *Literature note processed: 2026-03-03*  
 *Zettels extracted: 3*  
 *Status: extracted*
----
 
----
-parent-index: [[02-Literature]]

@@ -1,6 +1,5 @@
----
 uid: L-001-0591
-type: lit-note
+type: litnote
 title: Mitochondrial Biochemistry for Clinicians
 authors: ChatGPT Analysis (CGPT-0022)
 year: 2025
@@ -8,13 +7,12 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Comprehensive mitochondrial mechanisms, Krebs cycle, OXPHOS, cofactors, OAT interpretation
 status: extracted
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 parent-moc: "[[MOC-Mitochondrial-Function]]"
 extraction-date: "2026-03-08"
----
 
 # Lit: ChatGPT 2025 — Mitochondrial Biochemistry for Clinicians
 
@@ -93,20 +91,15 @@ This single enzyme requires:
 
 - [[Mitochondrial_Energy_Terminology_Z-001-1043]] — Vocabulary foundation
 
----
 
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 6*
 *Status: extracted*
 
----
 
 ## Post-Extraction Verification Checklist
 - [x] All zettel links use FULL format
 - [x] No bare UIDs
 - [x] Concept count matches list
 
----
 
----
-parent-index: [[02-Literature]]

@@ -1,6 +1,5 @@
----
 uid: L-002-0604
-type: lit-note
+type: litnote
 title: "METHAP Study Design and Protocol — IRB Application"
 authors: "Simos Xenidis, PhD Candidate"
 year: 2024
@@ -8,12 +7,11 @@ journal: "NKUA Ethics Committee Application"
 doi: "N/A"
 pmid: "N/A"
 pmcid: "N/A"
-tier: 1
+tier: GOLD
 relevance: "Critical — Complete IRB application for METHAP trial, study design, participant selection, intervention protocol"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-27
----
 
 # Lit: METHAP Study Design and Protocol (CGPT-0359)
 
@@ -102,20 +100,15 @@ This LitNote documents:
 -  — Ethics master map
 - [[Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002] — Metabolite focus
 
----
 
 *Literature note processed: 2026-03-27*  
 *Zettels extracted: 5*  
 *Status: extracted*
 
----
 
 ## Post-Extraction Verification Checklist
 - [x] All zettel links use FULL format
 - [x] No bare UIDs
 - [x] Concept count matches "Zettels Created from This Source" list
 
----
 
----
-parent-index: [[02-Literature]]

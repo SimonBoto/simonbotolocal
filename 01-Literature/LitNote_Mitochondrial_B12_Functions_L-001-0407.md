@@ -1,16 +1,14 @@
----
 uid: L-001-0407
-type: lit-note
+type: litnote
 title: "Lit — Mitochondrial B12 Functions (Energy Metabolism, Exercise Performance)"
 authors: ChatGPT synthesis from Advanced Biochemistry (CGPT-0445)
 year: 2024
 journal: Internal clinical synthesis
-tier: 2
+tier: SILVER
 relevance: High — Mitochondrial energy production, exercise implications, clinical B12 assessment
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
----
 
 # Lit: Mitochondrial B12 Functions
 
@@ -19,7 +17,6 @@ extraction-date: 2026-03-01
 - **Date:** November 2024
 - **Scope:** Mitochondrial B12 transport, energy metabolism, exercise performance, clinical assessment
 
----
 
 ## Core Concepts Extracted
 
@@ -195,7 +192,6 @@ extraction-date: 2026-03-01
 
 **Zettels extracted:** [[B12_METHAP_Protocol_Integration_Z-001-0443]
 
----
 
 ## Key Figures & Data
 - **B12 form:** Adenosylcobalamin (mitochondrial)
@@ -204,7 +200,6 @@ extraction-date: 2026-03-01
 - **Daily need:** 2.4 mcg (increased with high protein)
 - **Deficiency:** Affects exercise performance
 
----
 
 ## My Notes
 
@@ -216,7 +211,6 @@ extraction-date: 2026-03-01
 - **Supplementation:** Ensure adequacy
 - **Synergy:** Enables other nutrients to function
 
----
 
 ## Zettels Created from This Source
 1. [[Adenosylcobalamin_Mitochondrial_B12_Form_Z-001-0438]
@@ -226,11 +220,7 @@ extraction-date: 2026-03-01
 5. [[B12_Requirements_Supplementation_Z-001-0442]
 6. [[B12_METHAP_Protocol_Integration_Z-001-0443]
 
----
 
 *Literature note processed: 2026-03-01*
 
----
 
----
-parent-index: [[02-Literature]]

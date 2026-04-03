@@ -1,18 +1,16 @@
----
 uid: L-001-0509
-type: lit-note
+type: litnote
 title: "Lit — The Mevalonate Pathway — From Acetyl-CoA to Cholesterol and Coenzyme Q10 (Enzymatic Steps, Regulation, and Clinical Significance)"
 authors: ChatGPT synthesis from CGPT-0393
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Critical — Central metabolic pathway connecting energy metabolism to cholesterol synthesis, CoQ10 production, and protein prenylation
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
 source-file-location: /03-Zettels/ChatGPT_Archive/metabolomics/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393].md
 source-verified: 2026-03-01
----
 
 # Lit: The Mevalonate Pathway — From Acetyl-CoA to Cholesterol and Coenzyme Q10
 
@@ -21,7 +19,6 @@ source-verified: 2026-03-01
 - **Date:** May 15, 2024
 - **Scope:** Complete mevalonate pathway, all enzymatic steps, HMG-CoA reductase regulation, branch points, clinical implications
 
----
 
 ## Core Concepts Extracted
 
@@ -411,7 +408,6 @@ Acetyl-CoA → Mevalonate → Cholesterol → 7-Dehydrocholesterol
 
 **Zettels extracted:** [[Mevalonate_METHAP_Integration_Z-001-0549]
 
----
 
 ## Key Figures & Data
 - **Enzymatic steps:** 13 (acetyl-CoA to cholesterol)
@@ -422,7 +418,6 @@ Acetyl-CoA → Mevalonate → Cholesterol → 7-Dehydrocholesterol
 - **Statins reduce CoQ10:** 40-50%
 - **CoQ10 supplementation:** 100-200 mg/day
 
----
 
 ## My Notes
 
@@ -434,7 +429,6 @@ Acetyl-CoA → Mevalonate → Cholesterol → 7-Dehydrocholesterol
 - **Monitoring:** Organic acids, lipids, symptom assessment
 - **Personalization:** Adjust based on medication status
 
----
 
 ## Zettels Created from This Source (Batch 3/4)
 1. [[Mevalonate_Pathway_Enzymatic_Steps_Z-001-0545]
@@ -443,11 +437,7 @@ Acetyl-CoA → Mevalonate → Cholesterol → 7-Dehydrocholesterol
 4. [[Mevalonate_Clinical_Implications_Z-001-0548]
 5. [[Mevalonate_METHAP_Integration_Z-001-0549]
 
----
 
 *Batch 3 complete. Continue to Batch 4: Zinc and Selenium Cofactors?* ⛏️
 
----
 
----
-parent-index: [[02-Literature]]

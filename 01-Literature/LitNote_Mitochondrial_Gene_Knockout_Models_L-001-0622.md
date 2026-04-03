@@ -1,6 +1,5 @@
----
 uid: L-001-0622
-type: lit-note
+type: litnote
 title: Mitochondrial Gene Knockout Models — Energy Dysfunction and Disease
 authors: ChatGPT Analysis
 year: 2024
@@ -8,7 +7,7 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 2
+tier: SILVER
 relevance: High — Mitochondrial dysfunction in metabolic disease and neurodegeneration
 aliases: [L-001-0622, Mitochondrial Knockout, mtDNA Mutations, Energy Failure]
 domain: 001
@@ -17,7 +16,6 @@ source: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
----
 
 # Mitochondrial Gene Knockout Models — Energy Dysfunction and Disease
 
@@ -25,7 +23,6 @@ extraction-date: 2026-03-08
 > **Key Themes:** Mitochondrial gene essentiality, disease modeling, metabolic dysfunction  
 > **Clinical Relevance:** Understanding mitochondrial disorders, metabolic syndrome mechanisms
 
----
 
 ## Core Concepts Extracted
 
@@ -48,7 +45,6 @@ extraction-date: 2026-03-08
 - Progressive external ophthalmoplegia
 - Ataxia-neuropathy syndromes
 
----
 
 ### 2. TFAM Knockout — Transcription/Maintainance Failure
 
@@ -65,7 +61,6 @@ extraction-date: 2026-03-08
 
 **Mechanism:** TFAM essential for mtDNA transcription and maintenance — loss = rapid mtDNA depletion
 
----
 
 ### 3. Mitochondrial Dynamics — Fusion/Fission
 
@@ -96,7 +91,6 @@ extraction-date: 2026-03-08
 
 **Mechanism:** Cannot divide mitochondria → oversized, dysfunctional organelles → impaired distribution to daughter cells
 
----
 
 ### 4. Respiratory Chain Complex Knockouts
 
@@ -122,7 +116,6 @@ extraction-date: 2026-03-08
 
 **Mechanism:** Cannot assemble Complex IV → complete respiratory chain failure
 
----
 
 ### 5. mtDNA Mutations in Cancer (Somatic)
 
@@ -144,7 +137,6 @@ extraction-date: 2026-03-08
 - May drive metabolic reprogramming for invasion
 - Target for therapeutic intervention
 
----
 
 ## Key Studies & References
 
@@ -173,7 +165,6 @@ extraction-date: 2026-03-08
 - Comprehensive review of POLG-related diseases
 - Clinical spectrum from childhood to adult onset
 
----
 
 ## Clinical Translation
 
@@ -194,7 +185,6 @@ extraction-date: 2026-03-08
 - Reduced OXPHOS capacity in insulin resistance
 - Potential therapeutic target
 
----
 
 ## Connections
 
@@ -214,7 +204,6 @@ extraction-date: 2026-03-08
 - [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]] — Partial overlap
 - [[LitNote_Mitochondrial_Structure_Function_L-001-0515] — Related
 
----
 
 ## Extraction Notes
 
@@ -228,11 +217,7 @@ extraction-date: 2026-03-08
 
 **Research Gap:** Therapeutic translation remains limited; gene therapy promising
 
----
 
 *Extracted: 2026-03-08 | Source: CGPT-0311 | RON v2.5*
 
----
 
----
-parent-index: [[02-Literature]]

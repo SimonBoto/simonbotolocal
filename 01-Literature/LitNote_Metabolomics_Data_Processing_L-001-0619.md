@@ -1,6 +1,5 @@
----
 uid: L-001-0619
-type: lit-note
+type: litnote
 title: Metabolomics Data Processing METHAP
 authors: ChatGPT Analysis (CGPT-0475)
 year: 2024
@@ -8,12 +7,11 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Preprocessing, normalization, pathway analysis, network analysis for PhD metabolomics workflow
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
----
 
 # Lit: ChatGPT 2024 — Metabolomics Data Processing: METHAP
 
@@ -71,13 +69,9 @@ Raw Data → Preprocessing → Normalization → Statistical Analysis
 - 
 - 
 
----
 
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 3*
 *Status: extracted*
 
----
 
----
-parent-index: [[02-Literature]]

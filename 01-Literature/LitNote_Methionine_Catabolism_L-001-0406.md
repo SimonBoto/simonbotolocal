@@ -1,16 +1,14 @@
----
 uid: L-001-0406
-type: lit-note
+type: litnote
 title: "Lit — Methionine Catabolism and Transsulfuration Pathway"
 authors: ChatGPT synthesis from Advanced Biochemistry (CGPT-0445)
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: High — Complete methionine degradation, cysteine synthesis, glutathione production
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
----
 
 # Lit: Methionine Catabolism and Transsulfuration Pathway
 
@@ -19,7 +17,6 @@ extraction-date: 2026-03-01
 - **Date:** November 2024
 - **Scope:** Complete methionine degradation, transsulfuration to cysteine, glutathione synthesis
 
----
 
 ## Core Concepts Extracted
 
@@ -198,7 +195,6 @@ Cysteine → Pyruvate + NH₃ + H₂S
 
 **Zettels extracted:** [[Complete_Methionine_Oxidation_Energy_Z-001-0437]
 
----
 
 ## Key Figures & Data
 - **Methionine:** Essential, sulfur-containing
@@ -207,7 +203,6 @@ Cysteine → Pyruvate + NH₃ + H₂S
 - **Cysteine:** Rate-limiting for glutathione
 - **Glutathione:** Most abundant intracellular antioxidant (1-10 mM)
 
----
 
 ## My Notes
 
@@ -219,7 +214,6 @@ Cysteine → Pyruvate + NH₃ + H₂S
 - **Methylation-transsulfuration balance:** Affects homocysteine levels
 - **Monitoring:** Glutathione status (if available)
 
----
 
 ## Zettels Created from This Source
 1. [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]
@@ -229,11 +223,7 @@ Cysteine → Pyruvate + NH₃ + H₂S
 5. [[Glutathione_Master_Antioxidant_Z-001-0436]
 6. [[Complete_Methionine_Oxidation_Energy_Z-001-0437]
 
----
 
 *Literature note processed: 2026-03-01*
 
----
 
----
-parent-index: [[02-Literature]]

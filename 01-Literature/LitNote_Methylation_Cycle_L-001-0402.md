@@ -1,16 +1,14 @@
----
 uid: L-001-0402
-type: lit-note
+type: litnote
 title: "Lit — The Methylation Cycle (SAM, SAH, Epigenetic Regulation)"
 authors: ChatGPT synthesis from Warburg Effect conversation (CGPT-0264)
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Critical — Epigenetic regulation, DNA methylation, METHAP gene expression effects
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
----
 
 # Lit: The Methylation Cycle — SAM, SAH, and Epigenetic Regulation
 
@@ -19,7 +17,6 @@ extraction-date: 2026-03-01
 - **Date:** October 27, 2024
 - **Scope:** SAM synthesis, methyl donation, DNA/histone methylation, epigenetic regulation
 
----
 
 ## Core Concepts Extracted
 
@@ -178,7 +175,6 @@ SAH → Homocysteine + Adenosine
 
 **Zettels extracted:** [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]
 
----
 
 ## Key Figures & Data
 - **SAM-dependent reactions:** >100
@@ -187,7 +183,6 @@ SAH → Homocysteine + Adenosine
 - **DNMTs:** 3 active enzymes (DNMT1, 3A, 3B)
 - **Histone marks:** >60 distinct modifications
 
----
 
 ## My Notes
 
@@ -199,7 +194,6 @@ SAH → Homocysteine + Adenosine
 - **Synergy:** D + B12/folate = Comprehensive methylation support
 - **Monitoring:** SAM/SAH ratio (research use)
 
----
 
 ## Zettels Created from This Source
 1. [[SAM_Synthesis_Universal_Methyl_Donor_Z-001-0407]
@@ -209,11 +203,7 @@ SAH → Homocysteine + Adenosine
 5. [[Methylation_Cancer_Double_Edged_Sword_Z-001-0411]
 6. [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]
 
----
 
 *Literature note processed: 2026-03-01*
 
----
 
----
-parent-index: [[02-Literature]]
