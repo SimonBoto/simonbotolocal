@@ -8,10 +8,10 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — HBOT mechanisms, radiosensitization, bone healing, therapeutic benefits and risks
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Cancer-Therapy]]
 extraction-date: 2026-03-08
 ---
 
@@ -60,9 +60,9 @@ extraction-date: 2026-03-08
 **Synthesis:** HBOT represents an adjunctive metabolic approach to cancer therapy—enhancing oxygen delivery to overcome hypoxia-induced treatment resistance while potentially generating oxidative stress in cancer cells.
 
 ## Zettels Created from This Source
-1. [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]
-2. [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]
-3. [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]
+1. [[HBOT_Mechanisms_Cancer_Oxygenation_ROS_Z-001-1138]]
+2. [[HBOT_Radiosensitization_Chemotherapy_Enhancement_Z-001-1139]]
+3. [[HBOT_Clinical_Applications_Safety_Considerations_Z-001-1140]]
 
 ## Related References
 - 

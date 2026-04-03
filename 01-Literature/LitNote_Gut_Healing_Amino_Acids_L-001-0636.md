@@ -1,14 +1,14 @@
 ---
 uid: L-001-0636
-type: litnote
+type: lit-note
 title: LitNote — Gut Healing Nutrients and Amino Acids (CGPT-0199)
 authors: ChatGPT Analysis (CGPT-0199)
 year: 2025
 journal: ChatGPT Archive
-tier: 2
+tier: SILVER
 relevance: High — Clinical protocols for intestinal barrier repair, glutamine, taurine dosing
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Gut-Health]]
 extraction-date: 2026-03-09
 ---
 
@@ -67,9 +67,9 @@ extraction-date: 2026-03-09
 | Inflammation | ✓ | ✓ |
 
 ## Zettels Created
-1. [[Glutamine_Intestinal_Repair_Protocol_Z-001-1224]
-2. [[Taurine_Bile_Gut_Health_Z-001-1225]
-3. [[Amino_Acids_Gut_Healing_Synergy_Z-001-1226]
+1. [[Glutamine_Intestinal_Repair_Protocol_Z-001-1224]]
+2. [[Taurine_Bile_Gut_Health_Z-001-1225]]
+3. [[Amino_Acids_Gut_Healing_Synergy_Z-001-1226]]
 
 ## Related
 - 

@@ -8,10 +8,10 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — IV vitamin C, pro-oxidant mechanisms, epigenetic effects, clinical trials in cancer
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Cancer-Therapy]]
 extraction-date: 2026-03-08
 ---
 
@@ -67,9 +67,9 @@ extraction-date: 2026-03-08
 **Synthesis:** High-dose vitamin C represents a metabolic approach to cancer therapy—generating oxidative stress selectively in cancer cells while potentially enhancing epigenetic regulation. Best evidence supports use as adjunctive therapy, not standalone.
 
 ## Zettels Created from This Source
-1. [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]
-2. [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]
-3. [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]
+1. [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]]
+2. [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]]
+3. [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]
 
 ## Related References
 - 

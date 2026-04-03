@@ -5,10 +5,10 @@ title: Lit — Historical Vitamin D Toxicity Misconceptions
 authors: Synthesized from ChatGPT CGPT-0284 conversation
 year: 2024
 journal: Internal synthesis from historical analysis
-tier: 2
+tier: SILVER
 relevance: High — Corrects foundational public health misconceptions about vitamin D safety
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Vitamin-D]]
 extraction-date: 2026-03-01
 ---
 
@@ -68,10 +68,10 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Vitamin_D_Fortification_Incidents_1950s_Z-001-0054]
-2. [[IIH_CYP24A1_Mutation_True_Cause_Z-001-0055]
-3. [[Vitamin_D_Regulatory_Overreaction_Z-001-0056]
-4. [[Vitamin_D_Toxicity_Myth_Persistence_Z-001-0057]
+1. [[Vitamin_D_Fortification_Incidents_1950s_Z-001-0054]]
+2. [[IIH_CYP24A1_Mutation_True_Cause_Z-001-0055]]
+3. [[Vitamin_D_Regulatory_Overreaction_Z-001-0056]]
+4. [[Vitamin_D_Toxicity_Myth_Persistence_Z-001-0057]]
 
 ## Related References
 - [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]] — Related statistical errors in dosing

@@ -5,10 +5,10 @@ title: Hypothalamic-Pituitary-Gonadal Axis — Hormone Cascade and Regulation
 authors: ChatGPT synthesis from CGPT-0438
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Foundational endocrine physiology for clinical practice
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Endocrinology]]
 extraction-date: 2026-03-07
 domain: 001
 ---

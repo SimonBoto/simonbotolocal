@@ -5,10 +5,10 @@ title: "Lit — History of Glucose Discovery and Metabolic Understanding"
 authors: ChatGPT synthesis from historical research (CGPT-0471)
 year: 2024
 journal: Historical clinical synthesis
-tier: 2
+tier: SILVER
 relevance: Medium — Foundation for carbohydrate metabolism understanding
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Glucose-History]]
 extraction-date: 2026-03-01
 ---
 
@@ -115,10 +115,10 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Glucose_Discovery_Marggraf_1747_Z-001-0237]
-2. [[Glucose_Chemistry_Fischer_19th_Century_Z-001-0238]
-3. [[Claude_Bernard_Glycogen_Liver_1850s_Z-001-0239]
-4. [[Glucose_Insulin_Connection_1921_Z-001-0240]
+1. [[Glucose_Discovery_Marggraf_1747_Z-001-0237]]
+2. [[Glucose_Chemistry_Fischer_19th_Century_Z-001-0238]]
+3. [[Claude_Bernard_Glycogen_Liver_1850s_Z-001-0239]]
+4. [[Glucose_Insulin_Connection_1921_Z-001-0240]]
 
 ---
 

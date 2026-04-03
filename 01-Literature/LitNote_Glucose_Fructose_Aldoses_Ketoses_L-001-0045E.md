@@ -14,11 +14,10 @@ tags:
   - ketose
   - sugar-metabolism
   - lipogenesis
-source: "00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445"
+source: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 status: extracted
-parent-moc:
-  - - MOC-Glycolysis-PPP
+parent-moc: [[MOC-Glycolysis-PPP]]
 ---
 
 # Glucose vs Fructose: Aldoses vs Ketoses
@@ -178,8 +177,8 @@ Fructose → Fructose-1-P → DHAP + Glyceraldehyde
 
 ## Connections
 
-- [[L-001-0045D] Triose Metabolism (fructose → trioses)
-- [[L-001-0045F] Keto Acids and Organic Acids
+- [[L-001-0045D]] Triose Metabolism (fructose → trioses)
+- [[L-001-0045F]] Keto Acids and Organic Acids
 - 
 -  (fructose link)
 

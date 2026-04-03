@@ -5,10 +5,10 @@ title: Lit — High-Protein Diet and Bone Health (Muscle-Bone Unit)
 authors: ChatGPT synthesis from clinical review (CGPT-0133)
 year: 2025
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: High — Underutilized nutritional intervention for osteoporosis
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Bone-Health]]
 extraction-date: 2026-03-01
 ---
 
@@ -71,11 +71,11 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Muscle_Bone_Unit_Mechanical_Loading_Z-001-0096]
-2. [[Protein_Calcium_Absorption_Urinary_Excretion_Z-001-0097]
-3. [[Sarcopenia_Bone_Loss_Connection_Z-001-0098]
-4. [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_Z-001-0099]
-5. [[IGF1_Protein_Bone_Anabolic_Signal_Z-001-0100]
+1. [[Muscle_Bone_Unit_Mechanical_Loading_Z-001-0096]]
+2. [[Protein_Calcium_Absorption_Urinary_Excretion_Z-001-0097]]
+3. [[Sarcopenia_Bone_Loss_Connection_Z-001-0098]]
+4. [[Protein_Requirements_Bone_Health_1.2_to_1.5_gkg_Z-001-0099]]
+5. [[IGF1_Protein_Bone_Anabolic_Signal_Z-001-0100]]
 
 ## Related References
 - [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]] — Nutritional combination

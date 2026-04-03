@@ -8,10 +8,10 @@ journal: "International Guidelines"
 doi: "N/A"
 pmid: "N/A"
 pmcid: "N/A"
-tier: 1
+tier: GOLD
 relevance: "High — Historical foundation for modern IRB requirements and METHAP ethics compliance"
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Research-Ethics]]
 extraction-date: 2026-03-27
 ---
 
@@ -97,7 +97,7 @@ METHAP must comply with:
 ## Related References
 - [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]] — Modern operationalization of principles
 -  — Master map of research ethics concepts
-- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0613] — Historical violation leading to Belmont
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0613]] — Historical violation leading to Belmont
 
 ---
 

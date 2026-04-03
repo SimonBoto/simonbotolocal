@@ -5,10 +5,10 @@ title: Lit — High-Dose Vitamin D Clinical Research
 authors: Gallo et al., Saadi et al., Gordon et al., Munns et al. (Global Consensus)
 year: 2008-2016
 journal: JAMA, J Clin Endocrinol Metab, JAMA, J Clin Endocrinol Metab
-tier: 1
+tier: GOLD
 relevance: High — Evidence base for high-dose protocols in infants, children, adolescents
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Vitamin-D]]
 extraction-date: 2026-03-01
 ---
 
@@ -87,13 +87,13 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Gallo_2013_Infant_Vitamin_D_Dose_Response_Z-001-0067]
-2. [[Saadi_2009_2000IU_Infant_Safety_Z-001-0068]
-3. [[Stoss_Therapy_High_Dose_Rickets_Treatment_Z-001-0069]
-4. [[Gordon_2008_Adolescent_High_Dose_Protocol_Z-001-0070]
-5. [[UL_Conservative_vs_Research_Reality_Z-001-0071]
-6. [[Research_Gap_in_Infant_8000_IU_Vitamin_D_Safety_Studies_Z-001-0072]
-7. [[High_Dose_Vitamin_D_Monitoring_Protocol_Z-001-0075]
+1. [[Gallo_2013_Infant_Vitamin_D_Dose_Response_Z-001-0067]]
+2. [[Saadi_2009_2000IU_Infant_Safety_Z-001-0068]]
+3. [[Stoss_Therapy_High_Dose_Rickets_Treatment_Z-001-0069]]
+4. [[Gordon_2008_Adolescent_High_Dose_Protocol_Z-001-0070]]
+5. [[UL_Conservative_vs_Research_Reality_Z-001-0071]]
+6. [[Research_Gap_in_Infant_8000_IU_Vitamin_D_Safety_Studies_Z-001-0072]]
+7. [[High_Dose_Vitamin_D_Monitoring_Protocol_Z-001-0075]]
 
 ## Related References
 - [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]] — Why limits are conservative
