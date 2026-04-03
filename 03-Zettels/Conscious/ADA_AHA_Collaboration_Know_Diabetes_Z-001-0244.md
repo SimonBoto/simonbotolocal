@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, ada, aha, collaboration, cardiovascular, diabetes]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
-source-litnote: [[LitNote_ADA_History_L-001-0209]
+source-litnote: [[LitNote_ADA_History_L-001-0209]]
 extraction-date: 2026-03-01
 ---
 

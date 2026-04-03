@@ -2,13 +2,14 @@
 uid: L-001-0209
 type: lit-note
 title: "Lit — American Diabetes Association History and Controversies"
-authors: ChatGPT synthesis from research (CGPT-0471)
+authors: [ChatGPT synthesis from research (CGPT-0471)]
 year: 2024
 journal: Historical/institutional analysis
-tier: 2
+tier: SILVER
 relevance: Medium — Institutional context for diabetes guidelines; pharma funding issues
 status: extracted
 parent-moc: [[MOC-Metabolic-Syndrome]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-01
 ---
 
@@ -39,7 +40,7 @@ extraction-date: 2026-03-01
 - Professional training
 - Advocacy and policy
 
-**Zettels extracted:** [[ADA_Founding_Mission_1940_Z-001-0241]
+**Zettels extracted:** [[ADA_Founding_Mission_1940_Z-001-0241]]
 
 ### 2. Pharmaceutical Funding — $53.6M+ from Industry
 > "Corporate sponsors have cumulatively contributed over $53.6 million. Notable sponsors include Lilly, Novo Nordisk, Sanofi, Merck, Abbott, Dexcom, Pfizer."
@@ -62,7 +63,7 @@ extraction-date: 2026-03-01
 - Pricing controversies (insulin costs)
 - Independence questions
 
-**Zettels extracted:** [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]
+**Zettels extracted:** [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
 
 ### 3. Guideline Controversies
 > "The ADA has occasionally faced controversies regarding its guidelines, particularly around the targets for glucose control in Type 2 Diabetes."
@@ -84,7 +85,7 @@ extraction-date: 2026-03-01
 - Slow adoption of evidence
 - Industry influence concerns
 
-**Zettels extracted:** [[ADA_Guideline_Controversies_Evolution_Z-001-0243]
+**Zettels extracted:** [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
 
 ### 4. Know Diabetes by Heart™ — AHA Collaboration
 > "The ADA and the American Heart Association (AHA) collaborate through the joint initiative 'Know Diabetes by Heart™.'"
@@ -100,7 +101,7 @@ extraction-date: 2026-03-01
 - Combined approach needed
 - Shared patient populations
 
-**Zettels extracted:** [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]
+**Zettels extracted:** [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
 
 ---
 
@@ -126,10 +127,10 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[ADA_Founding_Mission_1940_Z-001-0241]
-2. [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]
-3. [[ADA_Guideline_Controversies_Evolution_Z-001-0243]
-4. [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]
+1. [[ADA_Founding_Mission_1940_Z-001-0241]]
+2. [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]]
+3. [[ADA_Guideline_Controversies_Evolution_Z-001-0243]]
+4. [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]]
 
 ---
 
@@ -139,5 +140,4 @@ extraction-date: 2026-03-01
 
 ---
 
----
-parent-index: [[01-Literature]]
+
