@@ -98,7 +98,7 @@ METHAP must comply with:
 ## Related References
 - [[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]] — Modern operationalization of principles
 -  — Master map of research ethics concepts
-- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0617]] — Historical violation leading to Belmont
+- [[Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0622]] — Historical violation leading to Belmont
 
 ---
 

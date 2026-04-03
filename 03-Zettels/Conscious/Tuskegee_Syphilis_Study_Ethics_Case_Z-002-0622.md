@@ -1,5 +1,5 @@
 ---
-uid: Z-002-0617
+uid: Z-002-0622
 type: zettel
 title: "Tuskegee Syphilis Study — Ethics Case Study"
 aliases: ["Tuskegee Ethics", "USPHS Syphilis Study"]
@@ -77,4 +77,4 @@ This case demonstrates why ethics oversight is not bureaucratic obstruction but 
 
 ---
 
-*Z-002-0617 | Created: 2026-04-03 | Domain: 002 | Status: conscious*
+*Z-002-0622 | Created: 2026-04-03 | Domain: 002 | Status: conscious*

@@ -160,9 +160,9 @@ Decanoyl-CoA → (ω-oxidation in ER) → Sebacyl-CoA intermediates → Sebacate
 ## Connections
 
 **Related Zettels:**
-- [[Adipate_Metabolism_Dicarboxylic_Pathway_Z-001-1191]] — To create
+- [[Adipate_Formation_Palmitate_to_Adipic_Acid_Pathway_Z-001-1191]] — Palmitate to adipate pathway
 - [[Beta_Oxidation_Mitochondrial_Fatty_Acid_Breakdown_Z-001-1192]] — Mitochondrial fatty acid oxidation
-- [[Omega_Oxidation_ER_Pathway_Z-001-1193]] — To create
+- [[Omega_Oxidation_ER_Alternative_Pathway_Z-001-1193]] — ER-based fatty acid oxidation
 - [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]] — Long-chain fatty acid transport
 - [[Suberate_and_Sebacate_Formation_C8_C10_Z-001-1195]] — C8-C10 dicarboxylic acids
 

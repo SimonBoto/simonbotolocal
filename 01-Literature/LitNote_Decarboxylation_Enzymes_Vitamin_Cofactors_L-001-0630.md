@@ -183,8 +183,8 @@ extraction-date: 2026-03-08
 **Related Zettels:**
 - [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]] — To create
 - [[PLP_Vitamin_B6_Cofactor_Z-001-1201]] — To create
-- [[B_Vitamin_Cofactors_Metabolism_Z-001-1202]] — To create
-- [[Dehydrogenase_vs_Decarboxylase_Z-001-1203]] — To create
+- [[B_Vitamin_Cofactors_Summary_Z-001-1202]] — B-vitamin cofactor overview
+- [[Dehydrogenases_vs_Decarboxylases_Comparison_Z-001-1203]] — Enzyme type comparison
 
 **MOCs:**
 -  — B-vitamins
