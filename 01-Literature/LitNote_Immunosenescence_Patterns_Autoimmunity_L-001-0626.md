@@ -169,7 +169,7 @@ extraction-date: 2026-03-08
 - [[Naive_TCell_Depletion_Autoimmunity_Z-001-1182]] — To create
 - [[CD28_Negative_TCells_Pathogenicity_Z-001-1183]] — To create
 - [[TCell_Receptor_Repertoire_Restriction_Autoimmunity_Z-001-1184]] — Clonal expansion in autoimmunity
-- [[Premature_CVD_Autoimmunity_Z-001-1185]] — To create
+- [[Premature_Cardiovascular_Disease_Autoimmunity_Z-001-1185]] — CVD risk in autoimmune diseases
 
 **MOCs:**
 -  — Primary domain
