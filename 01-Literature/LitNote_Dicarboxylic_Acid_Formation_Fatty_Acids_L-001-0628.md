@@ -8,14 +8,14 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 1
+tier: GOLD
 relevance: Critical — Primary PhD biomarker pathway for insulin resistance detection
 aliases: [L-001-0628, Adipate Formation, Dicarboxylic Acids, Omega-Oxidation]
 domain: 101
 tags: [litnote, adipic-acid, suberic-acid, sebacic-acid, beta-oxidation, omega-oxidation, fatty-acids, phd-research]
 source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-PhD-Research]]
 extraction-date: 2026-03-08
 ---
 
@@ -160,11 +160,11 @@ Decanoyl-CoA → (ω-oxidation in ER) → Sebacyl-CoA intermediates → Sebacate
 ## Connections
 
 **Related Zettels:**
-- [[Adipate_Metabolism_Dicarboxylic_Pathway_Z-001-1191] — To create
-- [[Beta_Oxidation_Mitochondrial_Pathway_Z-001-1192] — To create
-- [[Omega_Oxidation_ER_Pathway_Z-001-1193] — To create
-- [[Carnitine_Shuttle_Fatty_Acid_Transport_Z-001-1194] — To create
-- [[Suberate_Sebacate_Formation_Z-001-1195] — To create
+- [[Adipate_Metabolism_Dicarboxylic_Pathway_Z-001-1191]] — To create
+- [[Beta_Oxidation_Mitochondrial_Pathway_Z-001-1192]] — To create
+- [[Omega_Oxidation_ER_Pathway_Z-001-1193]] — To create
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_Z-001-1194]] — To create
+- [[Suberate_Sebacate_Formation_Z-001-1195]] — To create
 
 **MOCs:**
 -  — Primary domain

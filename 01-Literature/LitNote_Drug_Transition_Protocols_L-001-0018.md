@@ -5,10 +5,10 @@ title: Drug Transition Protocols — Denosumab Discontinuation and Rebound Preve
 authors: ChatGPT synthesis from clinical review (CGPT-0133)
 year: 2025
 journal: Internal clinical synthesis
-tier: 2
+tier: SILVER
 relevance: High — Critical safety protocol for denosumab cessation
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Bone-Health]]
 extraction-date: 2026-03-06
 domain: 001
 ---

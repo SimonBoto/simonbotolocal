@@ -8,14 +8,14 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 2
+tier: SILVER
 relevance: High — Connects B-vitamins to fatty acid and energy metabolism
 aliases: [L-001-0630, Decarboxylases, B-Vitamin Cofactors, TPP, PLP]
 domain: 001
 tags: [litnote, decarboxylases, b-vitamins, tpp, plp, enzyme-cofactors]
 source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-B-Vitamins]]
 extraction-date: 2026-03-08
 ---
 
@@ -182,9 +182,9 @@ extraction-date: 2026-03-08
 
 **Related Zettels:**
 - [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]] — To create
-- [[PLP_Vitamin_B6_Cofactor_Z-001-1201] — To create
-- [[B_Vitamin_Cofactors_Metabolism_Z-001-1202] — To create
-- [[Dehydrogenase_vs_Decarboxylase_Z-001-1203] — To create
+- [[PLP_Vitamin_B6_Cofactor_Z-001-1201]] — To create
+- [[B_Vitamin_Cofactors_Metabolism_Z-001-1202]] — To create
+- [[Dehydrogenase_vs_Decarboxylase_Z-001-1203]] — To create
 
 **MOCs:**
 -  — B-vitamins

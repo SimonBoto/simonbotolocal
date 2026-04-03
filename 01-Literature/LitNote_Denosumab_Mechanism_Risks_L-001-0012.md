@@ -5,10 +5,10 @@ title: Lit — Denosumab Mechanism, Rebound Effect, and Discontinuation Protocol
 authors: Cummings et al., ChatGPT synthesis (CGPT-0133)
 year: 2018/2025
 journal: Lancet Diabetes Endocrinol / Internal synthesis
-tier: 1
+tier: GOLD
 relevance: High — Critical safety knowledge for clinical practice
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Bone-Health]]
 extraction-date: 2026-03-01
 ---
 
@@ -26,27 +26,27 @@ extraction-date: 2026-03-01
 ### 1. Denosumab Mechanism — RANKL Antibody
 > "Denosumab is a fully human monoclonal antibody targeting RANKL, preventing it from binding to its receptor RANK on osteoclasts. This leads to decreased osteoclast differentiation, activity, and survival."
 
-**Zettel extracted:** [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]
+**Zettel extracted:** [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
 
 ### 2. Rebound Bone Loss Upon Discontinuation
 > "A well-recognized phenomenon is the rapid increase in bone turnover and decline in BMD after stopping denosumab. Some patients experience rebound-associated vertebral fractures."
 
-**Zettel extracted:** [[Denosumab_Rebound_Fractures_Discontinuation_Z-001-0086]
+**Zettel extracted:** [[Denosumab_Rebound_Fractures_Discontinuation_Z-001-0086]]
 
 ### 3. Bisphosphonate Transition Protocol
 > "Guidelines recommend transitioning to another therapy (e.g., a bisphosphonate) when discontinuing denosumab to mitigate rebound effects."
 
-**Zettel extracted:** [[Denosumab_Bisphosphonate_Transition_Protocol_Z-001-0087]
+**Zettel extracted:** [[Denosumab_Bisphosphonate_Transition_Protocol_Z-001-0087]]
 
 ### 4. Hypocalcemia Risk
 > "Because denosumab reduces bone resorption (thereby reducing calcium release from bone), there is a risk of hypocalcemia, particularly in patients with pre-existing hypoparathyroidism, vitamin D deficiency, or severe renal impairment."
 
-**Zettel extracted:** [[Denosumab_Hypocalcemia_Risk_Z-001-0088]
+**Zettel extracted:** [[Denosumab_Hypocalcemia_Risk_Z-001-0088]]
 
 ### 5. ONJ and Atypical Fractures
 > "Similar to other potent antiresorptive therapies, there have been case reports of atypical femoral fractures and osteonecrosis of the jaw."
 
-**Zettel extracted:** [[Denosumab_ONJ_Atypical_Fractures_Z-001-0089]
+**Zettel extracted:** [[Denosumab_ONJ_Atypical_Fractures_Z-001-0089]]
 
 ---
 
@@ -72,11 +72,11 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]
-2. [[Denosumab_Rebound_Fractures_Discontinuation_Z-001-0086]
-3. [[Denosumab_Bisphosphonate_Transition_Protocol_Z-001-0087]
-4. [[Denosumab_Hypocalcemia_Risk_Z-001-0088]
-5. [[Denosumab_ONJ_Atypical_Fractures_Z-001-0089]
+1. [[Denosumab_RANKL_Antibody_Mechanism_Z-001-0085]]
+2. [[Denosumab_Rebound_Fractures_Discontinuation_Z-001-0086]]
+3. [[Denosumab_Bisphosphonate_Transition_Protocol_Z-001-0087]]
+4. [[Denosumab_Hypocalcemia_Risk_Z-001-0088]]
+5. [[Denosumab_ONJ_Atypical_Fractures_Z-001-0089]]
 
 ## Related References
 - [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]] — RANK/RANKL biology

@@ -5,10 +5,10 @@ title: "Lit — Vitamin D and K2 Synergy Mechanisms (Protein Synthesis, Carboxyl
 authors: ChatGPT synthesis from narrative review development (CGPT-0230)
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Critical — METHAP protocol synergy rationale; biochemical foundation for co-supplementation
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Vitamin-D-K2]]
 extraction-date: 2026-03-01
 ---
 
@@ -45,7 +45,7 @@ VitK2 → ← Activation of proteins
 Result: ↑↑ Functional, active calcium-regulating proteins
 ```
 
-**Zettels extracted:** [[D_K2_Production_Activation_Partnership_Z-001-0253]
+**Zettels extracted:** [[D_K2_Production_Activation_Partnership_Z-001-0253]]
 
 ### 2. Osteocalcin — Metabolic Hormone
 > "Osteocalcin affects bone formation and insulin secretion... carboxylated osteocalcin binds calcium, while undercarboxylated osteocalcin acts as a hormone."
@@ -71,7 +71,7 @@ Result: ↑↑ Functional, active calcium-regulating proteins
 - Partial carboxylation leaves some as ucOC (hormonal)
 - Balance determines metabolic vs. structural function
 
-**Zettels extracted:** [[Osteocalcin_Metabolic_Hormone_D_K2_Z-001-0254]
+**Zettels extracted:** [[Osteocalcin_Metabolic_Hormone_D_K2_Z-001-0254]]
 
 ### 3. Matrix Gla Protein (MGP) — Vascular Protection
 > "MGP inhibits vascular calcification... vitamin D promotes MGP synthesis, vitamin K2 activates it."
@@ -94,7 +94,7 @@ Result: ↑↑ Functional, active calcium-regulating proteins
 - K2 ensures calcium goes to bone, not arteries
 - Synergy prevents "calcium paradox"
 
-**Zettels extracted:** [[MGP_Vascular_Protection_Synergy_Z-001-0255]
+**Zettels extracted:** [[MGP_Vascular_Protection_Synergy_Z-001-0255]]
 
 ### 4. Shared Metabolic Pathways
 > "Vitamins D and K2 influence genes related to metabolism... interconnected roles in bone, vascular, and metabolic health."
@@ -121,7 +121,7 @@ Result: ↑↑ Functional, active calcium-regulating proteins
 - K2: May improve lipid profiles
 - Together: Comprehensive metabolic support
 
-**Zettels extracted:** [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]
+**Zettels extracted:** [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]]
 
 ### 5. The Calcium Paradox Resolution
 > "Combined effects prevent ectopic calcification while enhancing bone mineralization."
@@ -149,7 +149,7 @@ Result: Strong bones + Clear arteries
 - Intervention trials: Co-supplementation reduces arterial stiffness
 - Mechanistic: Explains why calcium alone is insufficient
 
-**Zettels extracted:** [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]
+**Zettels extracted:** [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
 
 ---
 
@@ -180,11 +180,11 @@ Result: Strong bones + Clear arteries
 ---
 
 ## Zettels Created from This Source
-1. [[D_K2_Production_Activation_Partnership_Z-001-0253]
-2. [[Osteocalcin_Metabolic_Hormone_D_K2_Z-001-0254]
-3. [[MGP_Vascular_Protection_Synergy_Z-001-0255]
-4. [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]
-5. [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]
+1. [[D_K2_Production_Activation_Partnership_Z-001-0253]]
+2. [[Osteocalcin_Metabolic_Hormone_D_K2_Z-001-0254]]
+3. [[MGP_Vascular_Protection_Synergy_Z-001-0255]]
+4. [[D_K2_Shared_Metabolic_Pathways_Z-001-0256]]
+5. [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]
 
 ## Related References
 - [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]] — D mechanisms

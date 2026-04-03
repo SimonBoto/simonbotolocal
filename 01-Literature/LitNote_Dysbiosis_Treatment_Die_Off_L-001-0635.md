@@ -1,14 +1,14 @@
 ---
 uid: L-001-0635
-type: litnote
+type: lit-note
 title: LitNote — Dysbiosis Treatment and Die-Off Reactions (CGPT-0199)
 authors: ChatGPT Analysis (CGPT-0199)
 year: 2025
 journal: ChatGPT Archive
-tier: 2
+tier: SILVER
 relevance: Critical — Clinical management of dysbiosis, herbal antimicrobials, patient monitoring
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Gut-Health]]
 extraction-date: 2026-03-09
 ---
 
@@ -62,9 +62,9 @@ extraction-date: 2026-03-09
 - Fever
 
 ## Zettels Created
-1. [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]
-2. [[Stool_Changes_Dysbiosis_Treatment_Monitoring_Z-001-1222]
-3. [[Herbal_Antimicrobials_Dysbiosis_Protocol_Z-001-1223]
+1. [[Die_Off_Reaction_Herxheimer_Gut_Treatment_Z-001-1221]]
+2. [[Stool_Changes_Dysbiosis_Treatment_Monitoring_Z-001-1222]]
+3. [[Herbal_Antimicrobials_Dysbiosis_Protocol_Z-001-1223]]
 
 ## Related
 - 

@@ -8,14 +8,14 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Clinical diagnostic markers for METHAP protocol
 aliases: [L-101-0003, Dicarboxylic Aciduria, Urine Organic Acid Markers]
 domain: 101
 tags: [litnote, dicarboxylic-aciduria, urine-organic-acid, fatty-acid-oxidation-disorder, clinical-metabolomics, diagnostic-marker]
 source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Clinical-Metabolomics]]
 extraction-date: 2026-03-02
 ---
 
