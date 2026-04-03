@@ -8,10 +8,11 @@ journal: OpenClaw Archive Extraction
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Final extraction summary, batch inventory, git commits, quality verification
-status: complete
-parent-moc: 
+status: extracted
+parent-moc: [[MOC-Metabolomics-Training]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-08
 ---
 

@@ -5,10 +5,11 @@ title: Carbohydrate Context Modifies Protein Effects — The Missing Variable in
 authors: ChatGPT synthesis from CGPT-0370
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Critical insight — metabolic context determines protein effects
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Kidney-Metabolism]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-07
 domain: 001
 ---

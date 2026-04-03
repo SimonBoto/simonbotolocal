@@ -6,10 +6,11 @@ authors: ChatGPT / Simos X Dialog
 year: 2025
 journal: ChatGPT Archive
 pmid: N/A
-tier: 2
+tier: SILVER
 relevance: High — Clinical trial registration, NIH compliance, trial transparency requirements
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-PhD-Research]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-28
 ---
 

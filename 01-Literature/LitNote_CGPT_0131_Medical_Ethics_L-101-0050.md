@@ -6,10 +6,11 @@ authors: ChatGPT / Simos X Dialog
 year: 2025
 journal: ChatGPT Archive
 pmid: N/A
-tier: 2
+tier: SILVER
 relevance: High — Research ethics fundamentals, IRB preparation, historical context
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Research-Ethics]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-28
 ---
 

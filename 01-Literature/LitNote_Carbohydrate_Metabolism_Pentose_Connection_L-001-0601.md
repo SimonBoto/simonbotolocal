@@ -8,10 +8,11 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Trioses, glycolysis, pentose phosphate pathway, glucose-ribose interconversion, evolutionary origins of carbohydrate metabolism
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Glycolysis-PPP]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-08
 ---
 

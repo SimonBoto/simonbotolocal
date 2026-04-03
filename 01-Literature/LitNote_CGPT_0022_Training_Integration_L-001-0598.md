@@ -8,10 +8,11 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Synthesis of 8-week bootcamp, integration of all training modules, MOC connections
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Metabolomics-Training]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-08
 ---
 

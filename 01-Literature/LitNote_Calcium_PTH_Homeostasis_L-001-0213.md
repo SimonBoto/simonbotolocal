@@ -5,10 +5,11 @@ title: "Lit — Calcium-PTH Homeostasis (Regulation, Monitoring, METHAP Safety)"
 authors: ChatGPT synthesis from narrative review development (CGPT-0230)
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Critical — METHAP safety monitoring; hypercalcemia prevention
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Vitamin-D-Metabolism]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-01
 ---
 

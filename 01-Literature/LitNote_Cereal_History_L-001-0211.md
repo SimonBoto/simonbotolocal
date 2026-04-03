@@ -5,10 +5,11 @@ title: "Lit — History of Breakfast Cereal and the Kellogg Brothers"
 authors: ChatGPT synthesis from research (CGPT-0471)
 year: 2024
 journal: Historical/nutritional analysis
-tier: 3
+tier: BRONZE
 relevance: Low-Medium — Cultural nutrition history; sanitarium movement
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Nutrition]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-01
 ---
 
