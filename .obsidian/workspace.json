@@ -35,10 +35,24 @@
             "id": "4babb119d6d7cb98",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01-Literature/LitNote_Adenosine_Adenine_Biochemistry_L-101-0045A.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LitNote_Adenosine_Adenine_Biochemistry_L-101-0045A"
             }
           },
           {
@@ -143,8 +157,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -269,32 +282,33 @@
   },
   "active": "4babb119d6d7cb98",
   "lastOpenFiles": [
+    "01-Literature/LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629.md",
+    "01-Literature/LitNote_Adenosine_Adenine_Biochemistry_L-101-0045A.md",
+    "01-Literature/LitNote_Aconitase_Enzyme_L-001-0508.md",
+    "01-Literature/LitNote_ADA_History_L-001-0209.md",
+    "01-Literature/LitNote_Alkaline_Phosphatase_Overview_L-001-0576.md",
+    "08-Structure/Templates/Archive/Template_Zettel_Zettelkasten_v1.0.md",
+    "08-Structure/Templates/Archive/Template_Zettel_Optimized_v1.0.md",
+    "08-Structure/Templates/Archive/Template_Zettel_Direct_v1.0.md",
+    "08-Structure/Templates/Archive/Template_LitNote_Zettelkasten_v1.0.md",
+    "08-Structure/Templates/Archive/Template_LitNote_Scalable_v1.0.md",
+    "08-Structure/Templates/Archive/Template_LitNote_Optimized_v1.0.md",
+    "08-Structure/Templates/Archive/Template_LitNote_Assessment_v1.0.md",
+    "08-Structure/Templates/Archive/Template_Inbox_Raw_v1.0.md",
+    "08-Structure/Templates/Archive/Template_Inbox_Input_v1.0.md",
+    "08-Structure/Templates/Archive/Template_Inbox_Adaptive_v1.0.md",
+    "08-Structure/Templates/Archive",
+    "08-Structure/Templates/Template_Daily_v1.0.md",
+    "08-Structure/Templates/Template_Inbox_v2.0.md",
+    "08-Structure/Templates/Template_LitNote_v2.0.md",
+    "08-Structure/Daily/2026/2026-04-03.md",
+    "08-Structure/Daily/2026/2026-04-02.md",
     "08-Structure/System/threekeys.md",
     "08-Structure/System/System Index.md",
     "08-Structure/Dashboards/VAULT_HEALTH_L3.md",
     "04-Synthesis/Amino_Acid_Metabolism_Integrated_Synthesis_S-001-0003.md",
     "MOC-Example.md",
     "{{Synthesis_Title}}_{{S-XXX-XXXX}}.md",
-    "00-Inbox/Processed/metabolomics/CGPT_0022_Metabolomics_training_role_CGPT-0022.md",
-    "{{LitNote_Title}}_{{L-XXX-XXXX}}.md",
-    "{{Zettel_Title}}_{{Z-XXX-XXXX}}.md",
-    "08-Structure/MOCs/MOC-Biomarkers.md",
-    "01-Literature/LitNote_Patient_Communication_Scripts_L-001-0595.md",
-    "03-Zettels/Conscious/Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032.md",
-    "03-Zettels/Conscious/Metabolic_Storytelling_Patient_Framework_Z-001-1070.md",
-    "01-Literature/LitNote_OAT_Interpretation_Clinical_Protocol_L-001-0594.md",
-    "03-Zettels/Conscious/Magnesium_Biochemistry_Clinical_Roles_Z-001-1060.md",
-    "03-Zettels/Conscious/Vitamin_D_PTH_Calcium_Axis_Z-001-1059.md",
-    "08-Structure/MOCs/MOC-Vitamin-Mineral-Axis.md",
-    "03-Zettels/Conscious/Vitamin_K2_Calcium_Direction_MGP_Z-001-1061.md",
-    "03-Zettels/Conscious/One_Carbon_Metabolism_Folate_B12_Z-001-1062.md",
-    "03-Zettels/Conscious/Gut_Microbiome_OAT_Markers_Z-001-1064.md",
-    "01-Literature/LitNote_Vitamin_Mineral_Axis_Biochemistry_L-001-0593.md",
-    "03-Zettels/Conscious/Krebs_Cycle_Clinical_Biochemistry_Z-001-1048.md",
-    "03-Zettels/Conscious/TCA_Intermediates_Clinical_Significance_Z-001-1049.md",
-    "03-Zettels/Conscious/Oxidative_Phosphorylation_Clinical_Mechanisms_Z-001-1050.md",
-    "03-Zettels/Conscious/Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051.md",
-    "03-Zettels/Conscious/Cofactor_Deficiency_OAT_Signatures_Z-001-1052.md",
     "Base File All Notes.base",
     "08-Structure/Templates/sedoJjwX5",
     "08-Structure/Templates/sedclJo0e",
@@ -304,7 +318,6 @@
     "03-Zettels/Biomarkers/sedyVyWE1",
     "03-Zettels/Conscious/sedwgwNQx",
     "03-Zettels/Conscious/sedzTrcrR",
-    "03-Zettels/Conscious/sedyfctzu",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]

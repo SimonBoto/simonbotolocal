@@ -8,7 +8,7 @@ tags: [zettel, prebiotic-chemistry, hcn, adenine, origin-of-life, polymerization
 parent-moc: [[MOC-Metabolomics]]
 status: conscious
 created: 2026-03-04
-source: [[L-101-0045B]
+source-litnote: [[LitNote_Prebiotic_Chemistry_Deep_Dive_L-101-0045B]]
 ---
 
 # HCN Polymerization to Adenine

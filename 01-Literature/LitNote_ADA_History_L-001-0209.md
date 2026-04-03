@@ -1,15 +1,18 @@
 ---
 uid: L-001-0209
 type: lit-note
-title: "Lit — American Diabetes Association History and Controversies"
-authors: [ChatGPT synthesis from research (CGPT-0471)]
+title: Lit — American Diabetes Association History and Controversies
+authors:
+  - ChatGPT synthesis from research (CGPT-0471)
 year: 2024
 journal: Historical/institutional analysis
 tier: SILVER
 relevance: Medium — Institutional context for diabetes guidelines; pharma funding issues
 status: extracted
-parent-moc: [[MOC-Metabolic-Syndrome]]
-parent-index: [[02-Literature]]
+parent-moc:
+  - - MOC-Metabolic-Syndrome
+parent-index:
+  - - 02-Literature
 extraction-date: 2026-03-01
 ---
 

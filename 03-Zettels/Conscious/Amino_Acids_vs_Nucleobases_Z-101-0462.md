@@ -8,7 +8,7 @@ tags: [zettel, amino-acids, nucleobases, comparison, evolution, structure]
 parent-moc: [[MOC-Methylation]]
 status: conscious
 created: 2026-03-04
-source: [[L-101-0045A]
+source-litnote: [[LitNote_Adenosine_Adenine_Biochemistry_L-101-0045A]]
 ---
 
 #  vs Nucleobases: Molecular Building Blocks

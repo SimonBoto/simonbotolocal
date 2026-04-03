@@ -1,7 +1,9 @@
 ---
 uid: L-101-0045A
 type: lit-note
-title: "Adenosine & Adenine Biochemistry: Energy, Signal, and Disease"
+title: "Lit — Adenosine & Adenine Biochemistry: Energy, Signal, and Disease"
+authors: [ChatGPT]
+year: 2024
 aliases:
   - L-101-0045A
   - CGPT-0445-Batch1
@@ -18,8 +20,9 @@ tags:
 source: "00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445"
 extraction-date: 2026-03-04
 status: extracted
-parent-moc:
-  - - MOC-Nucleotide-Metabolism
+tier: GOLD
+parent-moc: MOC-Nucleotide-Metabolism
+parent-index: [[02-Literature]]
 ---
 
 # Adenosine & Adenine Biochemistry: Energy, Signal, and Disease
@@ -156,17 +159,9 @@ Hydrogen cyanide (HCN) polymerization → Adenine
 
 ## Connections
 
-- [[L-101-0045B] Prebiotic Chemistry Deep Dive
-- [[L-101-0045C] Ribose and Pentose Phosphate Pathway
-- 
--  (ATP synthesis)
--  (adenosine signaling)
+- [[LitNote_Prebiotic_Chemistry_Deep_Dive_L-101-0045B]] Prebiotic Chemistry Deep Dive
+- [[LitNote_Ribose_Pentose_Phosphate_Pathway_L-101-0045C]] Ribose and Pentose Phosphate Pathway
 
 ---
 
 *Extracted: 2026-03-04 | Batch 1 of 5 from CGPT-0445*
-
----
-
----
-parent-index: [[02-Literature]]

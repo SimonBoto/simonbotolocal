@@ -8,7 +8,7 @@ tags: [zettel, nucleobases, purines, pyrimidines, biochemistry, structure]
 parent-moc: [[MOC-Metabolomics]]
 status: conscious
 created: 2026-03-04
-source: [[L-101-0045A]
+source-litnote: [[LitNote_Adenosine_Adenine_Biochemistry_L-101-0045A]]
 ---
 
 # Purine vs Pyrimidine Structure
@@ -45,7 +45,7 @@ source: [[L-101-0045A]
 
 ## Related
 - [[ATP_Universal_Energy_Currency_Z-101-0451]] ATP Structure (adenine base)
-- _Z-101-0454] HCN Polymerization to Adenine
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]] HCN Polymerization to Adenine
 
 ---
 *Source: CGPT-0445 extraction | Created: 2026-03-04*

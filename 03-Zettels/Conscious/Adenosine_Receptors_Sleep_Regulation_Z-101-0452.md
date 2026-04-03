@@ -8,7 +8,7 @@ tags: [zettel, adenosine, sleep, neurotransmission, receptors, circadian]
 parent-moc: [[MOC-Inflammation]]
 status: conscious
 created: 2026-03-04
-source: [[L-101-0045A]
+source-litnote: [[LitNote_Adenosine_Adenine_Biochemistry_L-101-0045A]]
 ---
 
 # Adenosine Receptors and Sleep Regulation
