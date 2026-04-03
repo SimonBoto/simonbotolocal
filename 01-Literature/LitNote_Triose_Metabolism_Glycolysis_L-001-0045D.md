@@ -1,6 +1,5 @@
----
 uid: L-001-0045D
-type: lit-note
+type: litnote
 title: "Triose Metabolism and Glycolysis: The Ancient Energy Pathway"
 aliases:
   - L-001-0045D
@@ -19,7 +18,6 @@ extraction-date: 2026-03-04
 status: extracted
 parent-moc:
   - - MOC-Glycolysis-PPP
----
 
 # Triose Metabolism and Glycolysis
 
@@ -28,7 +26,6 @@ parent-moc:
 > **Messages:** 27-32, 35-38  
 > **Focus:** Trioses, glycolytic steps, evolutionary ancient pathway
 
----
 
 ## Trioses: The Simplest Sugars
 
@@ -42,7 +39,6 @@ parent-moc:
 
 **Isomeric pair:** Same formula, different structure.
 
----
 
 ## Glycolysis: The 10-Step Pathway
 
@@ -69,7 +65,6 @@ Glucose (6C) → 2 Pyruvate (3C) + 2 ATP + 2 NADH
 - G3P oxidation → yields 2 ATP per G3P
 - **Total yield:** 4 ATP - 2 ATP = **2 ATP per glucose**
 
----
 
 ## The Fructose Intermediary
 
@@ -87,7 +82,6 @@ Glucose-6-P → Fructose-6-P (isomerization)
 - **Key intermediate:** Split by aldolase into two trioses
 - **Regulatory significance:** PFK-1 commits glucose to glycolysis
 
----
 
 ## Evolutionary Significance
 
@@ -108,7 +102,6 @@ Glucose-6-P → Fructose-6-P (isomerization)
 - No oxygen requirement
 - Central to energy metabolism
 
----
 
 ## Pyruvate: The Metabolic Crossroads
 
@@ -131,7 +124,6 @@ Pyruvate connects:
 - Gluconeogenesis (glucose synthesis)
 - Amino acid metabolism (transamination)
 
----
 
 ## Clinical Relevance
 
@@ -150,7 +142,6 @@ Cells can switch between:
 - Aerobic glycolysis (Warburg effect in cancer)
 - Anaerobic glycolysis (rapid energy, hypoxia)
 
----
 
 ## Zettels Extracted
 
@@ -160,7 +151,6 @@ Cells can switch between:
 - [[Pyruvate_Metabolic_Crossroads_Z-001-0469]] Pyruvate: Metabolic Crossroads
 - [[Evolutionary_Ancient_Glycolysis_Z-001-0470]] Evolutionary Ancient Glycolysis
 
----
 
 ## Connections
 
@@ -169,11 +159,7 @@ Cells can switch between:
 - 
 -  (pyruvate entry)
 
----
 
 *Extracted: 2026-03-04 | Batch 2 of 5 from CGPT-0445*
 
----
 
----
-parent-index: [[02-Literature]]

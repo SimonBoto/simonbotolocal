@@ -1,6 +1,5 @@
----
 uid: L-001-0621
-type: lit-note
+type: litnote
 title: VDR Knockout Studies — Immune Function and Autoimmune Implications
 authors: ChatGPT Analysis
 year: 2024
@@ -8,7 +7,7 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 2
+tier: SILVER
 relevance: Critical — Links Vitamin D to autoimmunity mechanisms
 aliases: [L-001-0621, VDR Immunity, Vitamin D Autoimmune Protection]
 domain: 001
@@ -17,7 +16,6 @@ source: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
----
 
 # VDR Knockout Studies — Immune Function and Autoimmune Implications
 
@@ -25,7 +23,6 @@ extraction-date: 2026-03-08
 > **PhD Relevance:** VDR signaling as protective factor against autoimmune conditions  
 > **Key Themes:** T-cell regulation, cytokine modulation, autoimmune susceptibility
 
----
 
 ## Core Concepts Extracted
 
@@ -39,7 +36,6 @@ extraction-date: 2026-03-08
 
 **Mechanism:** Vitamin D signaling through VDR modulates both innate and adaptive immunity
 
----
 
 ### 2. T-Cell Function in VDR Knockout
 
@@ -51,7 +47,6 @@ extraction-date: 2026-03-08
 
 **Clinical Implication:** VDR signaling promotes immune tolerance — loss leads to autoimmunity
 
----
 
 ### 3. Autoimmune Disease Susceptibility
 
@@ -67,7 +62,6 @@ extraction-date: 2026-03-08
 
 **Key Finding:** VDR absence increases autoimmune susceptibility across multiple models
 
----
 
 ### 4. Cytokine Modulation by VDR
 
@@ -86,7 +80,6 @@ extraction-date: 2026-03-08
 
 **Mechanism:** VDR binds response elements in cytokine gene promoters, modulating transcription
 
----
 
 ### 5. Therapeutic Implications
 
@@ -108,7 +101,6 @@ extraction-date: 2026-03-08
 - Optimal dosing unclear (may need high-dose)
 - Timing matters (prevention vs. treatment)
 
----
 
 ## Key Studies & References
 
@@ -141,7 +133,6 @@ extraction-date: 2026-03-08
 - Dendritic cell maturation affected
 - NK cell function modulated
 
----
 
 ## Connections
 
@@ -159,7 +150,6 @@ extraction-date: 2026-03-08
 **LitNotes:**
 - [[LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577]] — Partial overlap
 
----
 
 ## Extraction Notes
 
@@ -173,11 +163,7 @@ extraction-date: 2026-03-08
 
 **Research Gap:** Human VDR polymorphism studies needed to translate mouse findings
 
----
 
 *Extracted: 2026-03-08 | Source: CGPT-0311 | RON v2.5*
 
----
 
----
-parent-index: [[02-Literature]]

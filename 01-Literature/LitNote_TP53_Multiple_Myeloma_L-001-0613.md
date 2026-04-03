@@ -1,6 +1,5 @@
----
 uid: L-001-0613
-type: lit-note
+type: litnote
 title: TP53 Multiple Myeloma Prognosis and Therapy
 authors: ChatGPT Analysis (CGPT-0264)
 year: 2024
@@ -8,12 +7,11 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — TP53 abnormalities, del(17p), p53 dysfunction, MDM2 inhibitors, therapeutic strategies
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
----
 
 # Lit: ChatGPT 2024 — TP53 Multiple Myeloma Prognosis and Therapy
 
@@ -68,13 +66,9 @@ extraction-date: 2026-03-08
 - [[Multiple_Myeloma_Staging_ISS_R-ISS_Z-001-1133]
 - [[Multiple_Myeloma_Treatment_Modern_Approach_Z-001-1134]
 
----
 
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 3*
 *Status: extracted*
 
----
 
----
-parent-index: [[02-Literature]]

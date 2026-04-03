@@ -1,16 +1,14 @@
----
 uid: L-001-0215
-type: lit-note
+type: litnote
 title: "Lit — Vascular Calcification Deep Dive (Mechanisms, MGP, Clinical Consequences)"
 authors: ChatGPT synthesis from narrative review development (CGPT-0230)
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: High — METHAP safety rationale; cardiovascular protection mechanisms
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
----
 
 # Lit: Vascular Calcification — Mechanisms and Protection
 
@@ -19,7 +17,6 @@ extraction-date: 2026-03-01
 - **Date:** December 03, 2024
 - **Scope:** Vascular calcification mechanisms, MGP role, clinical consequences, prevention
 
----
 
 ## Core Concepts Extracted
 
@@ -172,7 +169,6 @@ extraction-date: 2026-03-01
 
 **Zettels extracted:** [[Vascular_Calcification_Prevention_Reversal_Z-001-0272]
 
----
 
 ## Key Figures & Data
 - **Prevalence:** 90% of elderly have some calcification
@@ -180,7 +176,6 @@ extraction-date: 2026-03-01
 - **MGP:** Strongest calcification inhibitor
 - **K2 intervention:** Slows progression 40-50%
 
----
 
 ## My Notes
 
@@ -198,7 +193,6 @@ extraction-date: 2026-03-01
 - Does Mg enhance MGP function beyond enabling D?
 - Time to calcification progression halt with K2?
 
----
 
 ## Zettels Created from This Source
 1. [[Vascular_Calcification_Silent_Killer_Z-001-0268]
@@ -213,13 +207,9 @@ extraction-date: 2026-03-01
 - [[Calcium_Paradox_D_K2_Resolution_Z-001-0257]] — Calcium paradox
 -  — Parent MOC
 
----
 
 *Literature note processed: 2026-03-01*  
 *Zettels extracted: 5*  
 *Status: extracted*
 
----
 
----
-parent-index: [[02-Literature]]

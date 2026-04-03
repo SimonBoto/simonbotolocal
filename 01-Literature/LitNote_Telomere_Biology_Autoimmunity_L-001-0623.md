@@ -1,6 +1,5 @@
----
 uid: L-001-0623
-type: lit-note
+type: litnote
 title: Telomere Biology and Cellular Aging in Autoimmunity
 authors: ChatGPT Analysis / Georgin-Lavialle et al.
 year: 2023
@@ -8,7 +7,7 @@ journal: ChatGPT Archive / Autoimmunity Reviews
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 2
+tier: SILVER
 relevance: High — Foundational for understanding accelerated aging in autoimmunity
 aliases: [L-001-0623, Telomere Basics, Cellular Senescence]
 domain: 001
@@ -17,7 +16,6 @@ source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
----
 
 # Telomere Biology and Cellular Aging in Autoimmunity
 
@@ -25,7 +23,6 @@ extraction-date: 2026-03-08
 > **Reference:** Georgin-Lavialle S et al. The telomere/telomerase system in autoimmune diseases. *Autoimmunity Reviews*.  
 > **Key Themes:** Telomere structure, shortening mechanisms, telomerase, immunosenescence
 
----
 
 ## Core Concepts Extracted
 
@@ -43,7 +40,6 @@ extraction-date: 2026-03-08
 - Protect from end-to-end fusion
 - Maintain genomic stability
 
----
 
 ### 2. The End Replication Problem
 
@@ -59,7 +55,6 @@ extraction-date: 2026-03-08
 
 **Biological Clock:** Telomere length serves as mitotic clock — counts cell divisions
 
----
 
 ### 3. Telomerase — The Immortality Enzyme
 
@@ -76,7 +71,6 @@ extraction-date: 2026-03-08
 
 **Regulation:** Transcriptional, post-translational, telomere length feedback
 
----
 
 ### 4. Factors Accelerating Telomere Shortening
 
@@ -95,7 +89,6 @@ extraction-date: 2026-03-08
 - Autoimmune attack drives tissue regeneration cycles
 - Each cycle costs telomere length
 
----
 
 ### 5. Telomere Dysfunction and DNA Damage Response
 
@@ -110,7 +103,6 @@ extraction-date: 2026-03-08
 - Impaired immune responses
 - **Immunosenescence** — immune system aging
 
----
 
 ## Autoimmunity Connection
 
@@ -126,7 +118,6 @@ extraction-date: 2026-03-08
 
 **Result:** Accelerated immune cell aging → functional defects → disease susceptibility/complications
 
----
 
 ## Key Studies & References
 
@@ -139,7 +130,6 @@ extraction-date: 2026-03-08
 - **SLE studies:** Telomere shortening in T cells, correlation with disease activity
 - **RA studies:** Telomerase elevation, altered T-cell homeostasis
 
----
 
 ## Connections
 
@@ -157,7 +147,6 @@ extraction-date: 2026-03-08
 **LitNotes:**
 - Subsequent CGPT-0520 LitNotes on specific diseases
 
----
 
 ## Extraction Notes
 
@@ -170,11 +159,7 @@ extraction-date: 2026-03-08
 
 **Status:** Conscious — foundational concepts for autoimmune domain
 
----
 
 *Extracted: 2026-03-08 | Source: CGPT-0520 | RON v2.5*
 
----
 
----
-parent-index: [[02-Literature]]

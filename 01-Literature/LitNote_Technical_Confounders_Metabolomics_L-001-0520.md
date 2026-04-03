@@ -1,17 +1,15 @@
----
 uid: L-001-0520
-type: lit-note
+type: litnote
 title: Technical Confounders in Metabolomics — Batch Effects and Artifacts
 authors: ChatGPT Analysis from CGPT-0328
 year: 2024
 journal: ChatGPT Archive
-tier: 2
+tier: SILVER
 relevance: High — Essential for METHAP quality control and study design
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-06
 domain: 001
----
 
 # Technical Confounders in Metabolomics — Batch Effects and Artifacts
 
@@ -21,7 +19,6 @@ domain: 001
 - **Scope:** Line-by-line methodology critique
 - **Focus:** Technical artifacts masquerading as biological signals
 
----
 
 ## Core Concepts Extracted
 
@@ -36,7 +33,6 @@ domain: 001
 - Different reagent lots = different background noise
 - Result: "Significant" metabolites reflect technical variation, not biology
 
----
 
 ### 2. Sample Preparation Variability
 > "Visual consistency doesn't necessarily confirm statistical significance or biological relevance."
@@ -49,7 +45,6 @@ domain: 001
 - Storage conditions (freeze-thaw cycles)
 - Time between collection and processing
 
----
 
 ### 3. Instrument Drift and QC Requirements
 **Zettel extracted:** [[Instrument_Drift_QC_Monitoring_Requirements_Z-001-0941]
@@ -60,7 +55,6 @@ domain: 001
 - Ionization efficiency changes
 - Without QC monitoring, drift appears as biological signal
 
----
 
 ## Integration with METHAP Design
 
@@ -70,7 +64,6 @@ domain: 001
 - Randomize samples across runs (don't run all controls first)
 - Monitor instrument drift with internal standards
 
----
 
 ## Key Insight from Source
 
@@ -80,13 +73,9 @@ The gastric cancer study showed "clear separation" between groups, but:
 - Samples likely run in non-randomized order
 - Conclusion: Separation likely driven by technical artifacts, not disease biology
 
----
 
 **Zettels extracted:** 3 (Z-001-0939 through Z-001-0941)
 **Status:** Complete
 **Next:** LitNote 6 — Critical Assessment Methodology
 
----
 
----
-parent-index: [[02-Literature]]

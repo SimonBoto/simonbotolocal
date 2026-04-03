@@ -1,6 +1,5 @@
----
 uid: L-001-0617
-type: lit-note
+type: litnote
 title: Statistical Analysis for Omics Research METHAP
 authors: ChatGPT Analysis (CGPT-0475)
 year: 2024
@@ -8,12 +7,11 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Power analysis, PCA, multivariate analysis, regression, validation methods for PhD metabolomics data
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
----
 
 # Lit: ChatGPT 2024 — Statistical Analysis for Omics Research: METHAP
 
@@ -68,13 +66,9 @@ extraction-date: 2026-03-08
 - 
 - 
 
----
 
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 4*
 *Status: extracted*
 
----
 
----
-parent-index: [[02-Literature]]

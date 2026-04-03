@@ -1,4 +1,3 @@
----
 uid: L-001-0634
 type: litnote
 title: LitNote — Twitter/X Strategy for DrMito (CGPT-0318)
@@ -8,7 +7,6 @@ source: CGPT-0318 (Messages 3-155, 163-214)
 tags: [litnote, social-media, twitter, branding, mitochondria, growth]
 aliases: CGPT-0318-Strategy]
 status: extracted
----
 
 # Twitter/X Strategy — DrMito Profile Development
 
@@ -18,7 +16,6 @@ status: extracted
 **Messages:** 214 total (strategy focus: 3-155, 163-214)  
 **Context:** Building "DrMito" health influencer profile
 
----
 
 ## Profile Identity
 
@@ -49,7 +46,6 @@ status: extracted
 **Final Bio:**
 "Exploring and restoring mitochondrial function through clinical metabolomics and therapeutic nutrition. Join the journey to better cellular health and longevity."
 
----
 
 ## Content Strategy Framework
 
@@ -100,7 +96,6 @@ status: extracted
 - Share wins/losses
 - Journey documentation
 
----
 
 ## Growth Metrics & Benchmarks
 
@@ -123,7 +118,6 @@ status: extracted
 - **Threads:** 2-3 per week
 - **Engagement:** 1-3 hours daily on other profiles
 
----
 
 ## Engagement Strategy
 
@@ -148,7 +142,6 @@ status: extracted
 **Secondary:** #Longevity #Wellness #CellularHealth #Biohacking  
 **Trending:** #VitaminD #LowCarb #FunctionalMedicine
 
----
 
 ## Content Templates
 
@@ -177,7 +170,6 @@ Now: [Achievement].
 How: [Brief method]  
 [CTA]"
 
----
 
 ## Advanced Tactics
 
@@ -204,7 +196,6 @@ How: [Brief method]
 3. Add value to conversations
 4. Do 1-3x daily
 
----
 
 ## Zettels Extracted
 
@@ -212,10 +203,6 @@ How: [Brief method]
 2. [[Content_Creation_Framework_Z-001-12XX] — 4-step system
 3. [[DrMito_Branding_Strategy_Z-001-12XX] — Profile optimization
 
----
 
 *Extracted: 2026-03-09 | Strategic content | Phase 1, Item 1*
----
 
----
-parent-index: [[02-Literature]]
