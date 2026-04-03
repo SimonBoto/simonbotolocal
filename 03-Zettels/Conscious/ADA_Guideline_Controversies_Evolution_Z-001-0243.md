@@ -91,9 +91,13 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_ADA_History_L-001-0209]*  
 *Extracted: 2026-03-01*
 
+## Related
+- [[ADA_Founding_Mission_1940_Z-001-0241]] — Organizational history
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]] — Funding influence
+- [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]] — Joint initiatives
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-- 
 
 ---
 

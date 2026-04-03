@@ -77,10 +77,14 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_ADA_History_L-001-0209]*  
 *Extracted: 2026-03-01*
 
+## Related
+- [[ADA_Founding_Mission_1940_Z-001-0241]] — Founding organization
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]] — Funding context
+- [[ADA_Guideline_Controversies_Evolution_Z-001-0243]] — Guideline history
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-- 
 
 ---
 

@@ -73,9 +73,10 @@ Adenosine is a nucleoside (adenine + ribose) serving as the universal hub connec
 | **Caffeine** | Blocks receptors | Temporarily reverses effect |
 
 ## Related
-- [[Adenine_Purine_Base_Structure_Function_Z-001-1084]
-- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]
-- 
+- [[Adenine_Purine_Base_Structure_Function_Z-001-1084]] — Purine base chemistry
+- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]] — Pentose sugar backbone
+- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]] — Nucleoside synthesis
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]] — Recycling pathway
 
 ---
 *Source: CGPT-0445 — Advanced *

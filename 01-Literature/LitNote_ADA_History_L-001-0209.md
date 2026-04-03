@@ -8,7 +8,7 @@ journal: Historical/institutional analysis
 tier: 2
 relevance: Medium — Institutional context for diabetes guidelines; pharma funding issues
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Metabolic-Syndrome]]
 extraction-date: 2026-03-01
 ---
 
@@ -140,4 +140,4 @@ extraction-date: 2026-03-01
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]

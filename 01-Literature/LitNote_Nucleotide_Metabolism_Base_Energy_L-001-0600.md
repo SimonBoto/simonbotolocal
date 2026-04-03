@@ -11,7 +11,7 @@ pmcid: N/A
 tier: 3
 relevance: "High — Foundational nucleotide biochemistry: adenosine, adenine, ribose, nucleoside formation, salvage pathway, evolutionary origins"
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
 extraction-date: 2026-03-08
 ---
 
@@ -106,4 +106,4 @@ Adenine (base) + Ribose (sugar) → Adenosine (nucleoside)
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]

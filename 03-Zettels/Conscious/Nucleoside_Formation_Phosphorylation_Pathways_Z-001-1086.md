@@ -108,10 +108,10 @@ Level 4: NTP (ATP) - triphosphate, high energy, fully functional
 | **5-Fluorouracil** | Pyrimidine analog, disrupts DNA synthesis |  |
 
 ## Related
-- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]
-- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]
-- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]
-- 
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]] — Energy molecule
+- [[Adenine_Purine_Base_Structure_Function_Z-001-1084]] — Purine base
+- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]] — Sugar backbone
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]] — Recycling pathway
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

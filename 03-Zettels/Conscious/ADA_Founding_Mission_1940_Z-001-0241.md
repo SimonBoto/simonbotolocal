@@ -65,9 +65,13 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_ADA_History_L-001-0209]*  
 *Extracted: 2026-03-01*
 
+## Related
+- [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]] — Industry influence context
+- [[ADA_Guideline_Controversies_Evolution_Z-001-0243]] — Guideline development
+- [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]] — Current initiatives
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-- 
 
 ---
 

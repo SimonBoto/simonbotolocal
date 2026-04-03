@@ -75,9 +75,10 @@ Adenine is one of four nucleobases in DNA and RNA, essential for genetic informa
 - Core component of cellular energy systems
 
 ## Related
-- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]
-- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]
-- 
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]] — Universal hub molecule
+- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]] — Pentose backbone
+- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]] — Phosphorylation steps
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]] — Recycling mechanism
 
 ---
 *Source: CGPT-0445 — Advanced *

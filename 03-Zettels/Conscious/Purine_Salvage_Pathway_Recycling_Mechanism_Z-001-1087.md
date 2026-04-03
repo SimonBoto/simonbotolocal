@@ -123,9 +123,10 @@ AMP → Adenosine → Inosine → Hypoxanthine → Xanthine → Uric acid
 - Increases salvage substrates (hypoxanthine, xanthine)
 
 ## Related
-- [[Adenine_Purine_Base_Structure_Function_Z-001-1084]
-- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]
-- 
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]] — Energy recycling
+- [[Adenine_Purine_Base_Structure_Function_Z-001-1084]] — Purine base source
+- [[Ribose_Pentose_Backbone_RNA_ATP_Z-001-1085]] — Backbone recycling
+- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]] — Formation pathway
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

@@ -96,9 +96,10 @@ Glucose-6-phosphate (from glycolysis)
 - **:** High PPP activity in tumor cells (need for ribose and NADPH)
 
 ## Related
-- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]
-- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]
-- 
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]] — Energy transfer
+- [[Adenine_Purine_Base_Structure_Function_Z-001-1084]] — Purine base
+- [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]] — Formation pathways
+- [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]] — Recycling
 
 ---
 *Source: CGPT-0445 — Advanced biochemistry*

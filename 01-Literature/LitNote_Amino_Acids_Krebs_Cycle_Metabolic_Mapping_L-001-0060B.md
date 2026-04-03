@@ -6,7 +6,7 @@ authors: ChatGPT CGPT-0413
 year: 2024
 relevance: High — Core biochemistry for PhD, amino acid catabolism, energy metabolism
 status: complete
-parent-moc: 
+parent-moc: [[MOC-Amino-Acid-Metabolism]]
 extraction-date: 2026-03-04
 ---
 
@@ -142,4 +142,4 @@ Threonine → propionyl-CoA → methylmalonyl-CoA → succinyl-CoA
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]

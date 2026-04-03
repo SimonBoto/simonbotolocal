@@ -205,4 +205,5 @@ Methylglutaconyl-CoA → HMG-CoA → Acetoacetate + Acetyl-CoA
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-index: [[01-Literature]]
