@@ -5,10 +5,11 @@ title: "Lit — B12 Clinical Assessment and Reference Ranges (Optimal vs. Standa
 authors: ChatGPT synthesis from Optimal Biochemical Ranges (CGPT-0113)
 year: 2024
 journal: Internal clinical synthesis
-tier: 2
+tier: SILVER
 relevance: High — Clinical decision-making, optimal vs. standard ranges, METHAP monitoring
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Biomarkers]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-01
 ---
 

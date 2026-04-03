@@ -5,10 +5,11 @@ title: Lit — Bone Remodeling Cellular Mechanisms (Osteoclasts/Osteoblasts)
 authors: ChatGPT synthesis from clinical review (CGPT-0133)
 year: 2025
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: High — Core mechanistic biology for bone therapeutics
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Clinical-Protocols]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-01
 ---
 

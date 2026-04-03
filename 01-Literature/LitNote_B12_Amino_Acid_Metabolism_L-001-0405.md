@@ -5,10 +5,11 @@ title: "Lit — B12 in Amino Acid Metabolism (Propionate Pathway, Odd-Chain Fatt
 authors: ChatGPT synthesis from Advanced Biochemistry (CGPT-0445)
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: High — B12 mitochondrial function, energy metabolism, odd-chain fatty acid catabolism
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Methylation-One-Carbon]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-01
 ---
 

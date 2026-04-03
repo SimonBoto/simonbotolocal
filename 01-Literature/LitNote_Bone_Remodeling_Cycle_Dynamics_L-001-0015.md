@@ -5,10 +5,11 @@ title: Bone Remodeling Cycle Dynamics and Phase Regulation
 authors: ChatGPT synthesis from clinical review (CGPT-0133)
 year: 2025
 journal: Internal clinical synthesis
-tier: 2
+tier: SILVER
 relevance: High — Mechanistic foundation for osteoporosis pathophysiology
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Clinical-Protocols]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-06
 domain: 001
 ---

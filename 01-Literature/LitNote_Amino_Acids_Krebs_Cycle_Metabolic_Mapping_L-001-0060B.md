@@ -5,8 +5,10 @@ title: "Amino Acids to Krebs Cycle: Complete Metabolic Mapping"
 authors: ChatGPT CGPT-0413
 year: 2024
 relevance: High — Core biochemistry for PhD, amino acid catabolism, energy metabolism
-status: complete
+status: extracted
+tier: SILVER
 parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-04
 ---
 

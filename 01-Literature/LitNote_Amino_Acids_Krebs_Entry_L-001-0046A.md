@@ -18,8 +18,8 @@ tags:
 source: "00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445"
 extraction-date: 2026-03-04
 status: extracted
-parent-moc:
-  - - MOC-Amino-Acid-Metabolism
+parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-index: [[02-Literature]]
 ---
 
 # Amino Acids Entering Krebs Cycle: The Complete Map

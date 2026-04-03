@@ -5,10 +5,11 @@ title: "Lit — B12 Deficiency Mimicking Multiple Myeloma (Diagnostic Differenti
 authors: ChatGPT synthesis from Warburg Effect conversation (CGPT-0264)
 year: 2024
 journal: Internal clinical synthesis
-tier: 2
+tier: SILVER
 relevance: High — Diagnostic challenge, clinical pearls, bone marrow interpretation
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Biomarkers]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-01
 ---
 
