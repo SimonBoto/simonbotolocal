@@ -9,6 +9,7 @@ tier: SILVER
 relevance: Clinical chemistry fundamentals, bone and liver pathology
 status: extracted
 parent-moc: [[MOC-Biomarkers]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-07
 domain: 001
 ---

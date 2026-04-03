@@ -8,10 +8,11 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Glycogenic/ketogenic amino acids, Krebs entry points, alpha-keto acids, transamination, cofactors
 status: extracted
 parent-moc: [[MOC-Amino-Acid-Metabolism]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-08
 ---
 

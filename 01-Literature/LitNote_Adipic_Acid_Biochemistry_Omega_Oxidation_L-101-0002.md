@@ -8,14 +8,15 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Primary PhD research marker for insulin resistance detection
 aliases: [L-101-0002, Adipate Formation, Omega-Oxidation]
 domain: 101
 tags: [litnote, adipic-acid, fatty-acid-metabolism, omega-oxidation, beta-oxidation, carnitine, pharmacometabolomics, insulin-resistance]
 source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-02
 ---
 
