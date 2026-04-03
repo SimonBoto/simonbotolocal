@@ -1,6 +1,5 @@
----
 uid: L-001-0625
-type: lit-note
+type: litnote
 title: Mitochondrial Dysfunction and Telomere Shortening in Autoimmunity
 authors: ChatGPT Analysis / Georgin-Lavialle et al.
 year: 2023
@@ -8,7 +7,7 @@ journal: ChatGPT Archive / Autoimmunity Reviews
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 2
+tier: SILVER
 relevance: High — Mechanistic link between metabolism and cellular aging
 aliases: [L-001-0625, Mitochondria Telomere Axis, ROS Autoimmunity]
 domain: 001
@@ -17,14 +16,12 @@ source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
----
 
 # Mitochondrial Dysfunction and Telomere Shortening in Autoimmunity
 
 > **Source:** ChatGPT Conversation CGPT-0520 (December 12, 2023)  
 > **Key Themes:** Mitochondrial dysfunction, ROS production, oxidative damage, telomere shortening mechanisms
 
----
 
 ## Core Concepts Extracted
 
@@ -36,7 +33,6 @@ extraction-date: 2026-03-08
 
 **Key Insight:** This axis represents a vicious cycle driving accelerated aging in autoimmune diseases.
 
----
 
 ### 2. Mitochondrial Dysfunction in Autoimmunity
 
@@ -57,7 +53,6 @@ extraction-date: 2026-03-08
 - Impair respiratory chain function
 - Reduce ATP production, increase ROS
 
----
 
 ### 3. ROS-Mediated Telomere Damage
 
@@ -76,7 +71,6 @@ extraction-date: 2026-03-08
 - Telomeres accumulate oxidative damage at 4-5x the rate of other genomic regions
 - Chronic inflammation multiplies this effect
 
----
 
 ### 4. The Vicious Cycle
 
@@ -102,7 +96,6 @@ More Cell Divisions + More Inflammation
 
 **Result:** Accelerated immunosenescence, tissue damage, disease progression
 
----
 
 ### 5. T-Cell Specific Mechanisms
 
@@ -122,7 +115,6 @@ More Cell Divisions + More Inflammation
 - Impaired vaccine responses
 - Increased infection risk
 
----
 
 ### 6. Therapeutic Implications
 
@@ -146,7 +138,6 @@ More Cell Divisions + More Inflammation
 - Reduce glycolytic stress
 - Promote mitochondrial biogenesis
 
----
 
 ## Key Studies & References
 
@@ -158,7 +149,6 @@ More Cell Divisions + More Inflammation
 - SLE patients show both mitochondrial dysfunction and telomere shortening
 - Correlation between oxidative stress markers and telomere length
 
----
 
 ## Connections
 
@@ -177,7 +167,6 @@ More Cell Divisions + More Inflammation
 - [[LitNote_Telomere_Biology_Autoimmunity_L-001-0623]] — Telomere basics
 - [[LitNote_Disease_Specific_Telomere_Findings_L-001-0624]] — Clinical evidence
 
----
 
 ## Extraction Notes
 
@@ -190,11 +179,7 @@ More Cell Divisions + More Inflammation
 
 **Status:** Conscious — mechanistic insights
 
----
 
 *Extracted: 2026-03-08 | Source: CGPT-0520 | RON v2.5*
 
----
 
----
-parent-index: [[02-Literature]]

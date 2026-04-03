@@ -1,18 +1,16 @@
----
 uid: L-001-0511
-type: lit-note
+type: litnote
 title: "Lit — Mitochondrial Health Strategies — Metabolic Flexibility, Biogenesis, and Metabolomics-Guided Interventions"
 authors: ChatGPT synthesis from CGPT-0378
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: High — Clinical application of mitochondrial optimization through diet, exercise, and metabolomics monitoring
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
 source-file-location: /03-Zettels/ChatGPT_Archive/metabolomics/CGPT_0378_Mitochondrial_Health_Strategies_CGPT-0378].md
 source-verified: 2026-03-01
----
 
 # Lit: Mitochondrial Health Strategies
 
@@ -21,7 +19,6 @@ source-verified: 2026-03-01
 - **Date:** May 21, 2024
 - **Scope:** Mitochondrial dysfunction interventions, metabolic flexibility, exercise-induced biogenesis, metabolomics-guided personalization
 
----
 
 ## Core Concepts Extracted
 
@@ -347,7 +344,6 @@ Fatty Acid Adaptation (Restored):
 
 **Zettels extracted:** [[Combined_Mitochondrial_Intervention_Strategy_Z-001-0557]
 
----
 
 ## Key Figures & Data
 - **Zone 2 exercise:** 60-70% max HR, optimal for fat oxidation
@@ -356,7 +352,6 @@ Fatty Acid Adaptation (Restored):
 - **Intermittent fasting:** 16:8 common protocol
 - **Protein target:** 1.2-1.6 g/kg for mitochondrial support
 
----
 
 ## My Notes
 
@@ -369,7 +364,6 @@ Fatty Acid Adaptation (Restored):
 - **Personalization:** Move beyond one-size-fits-all
 - **Monitoring:** Organic acids as outcome measure
 
----
 
 ## Zettels Created from This Source
 1. [[Metabolic_Flexibility_Substrate_Switch_Z-001-0554]
@@ -377,11 +371,7 @@ Fatty Acid Adaptation (Restored):
 3. [[Metabolomics_Guided_Personalization_Z-001-0556]
 4. [[Combined_Mitochondrial_Intervention_Strategy_Z-001-0557]
 
----
 
 *CGPT-0378 extraction complete — 1 LitNote, 4 zettels*
 
----
 
----
-parent-index: [[02-Literature]]

@@ -1,17 +1,15 @@
----
 uid: L-001-0517
-type: lit-note
+type: litnote
 title: Multivariate Analysis Pitfalls in Omics — OPLS-DA, VIP Scores, and Overfitting
 authors: ChatGPT Analysis from CGPT-0328
 year: 2024
 journal: ChatGPT Archive
-tier: 2
+tier: SILVER
 relevance: High — Critical for PhD metabolomics methodology and METHAP design
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-06
 domain: 001
----
 
 # Multivariate Analysis Pitfalls in Omics — OPLS-DA, VIP Scores, and Overfitting
 
@@ -21,7 +19,6 @@ domain: 001
 - **Scope:** Line-by-line critique of gastric cancer metabolomics study methodology
 - **Focus:** OPLS-DA model validation, VIP score interpretation, overfitting risks
 
----
 
 ## Core Concepts Extracted
 
@@ -40,7 +37,6 @@ domain: 001
 - Clear separation in score plots but no biological validation
 - No external validation cohort
 
----
 
 ### 2. VIP Score Limitations and Misinterpretation
 > "VIP scores alone do not account for within-group variability and can be misleading if not complemented with effect sizes... VIP scores alone do not account for within-group variability."
@@ -57,7 +53,6 @@ domain: 001
 - VIP > 1 AND |Cohen's d| > 0.5 AND FDR < 0.05
 - Model importance + biological magnitude + statistical significance
 
----
 
 ### 3. Permutation Test Interpretation
 > "High Q2 and R2 values close to 1 and a Q2 intercept <0 are indicators of a good model fit and suggest no overfitting... While permutation tests are useful, relying solely on Q2 and R2 can be misleading without cross-validation."
@@ -75,7 +70,6 @@ domain: 001
 - Does not validate biological relevance
 - Internal validation only, not external
 
----
 
 ### 4. Cross-Validation Requirements
 > "The study should include other validation methods like cross-validation to ensure robustness... Include cross-validation and possibly external validation with an independent dataset."
@@ -92,7 +86,6 @@ domain: 001
 - External validation on >30 independent samples
 - Temporal validation if batch effects suspected
 
----
 
 ## Integration with Existing Knowledge
 
@@ -106,23 +99,17 @@ domain: 001
 - Biomarker claims require univariate validation
 - Effect sizes more important than multivariate separation
 
----
 
 ## References (from source)
 - Internal critique of gastric cancer metabolomics study
 - Methodology best practices from transcriptomics/metabolomics literature
 
----
 
 **Zettels extracted:** 4 (Z-001-0935 through Z-001-0938)
 **Status:** Complete
 **Next:** LitNote 5 — Technical Confounders
 
----
 
 **AUDIT NOTE:** These zettels address the gap between "significant" multivariate results and biologically meaningful findings. Critical for avoiding overfitting in METHAP analysis plan.
 
----
 
----
-parent-index: [[02-Literature]]

@@ -1,6 +1,5 @@
----
 uid: L-001-0612
-type: lit-note
+type: litnote
 title: Multiple Myeloma Comprehensive
 authors: ChatGPT Analysis (CGPT-0264)
 year: 2024
@@ -8,12 +7,11 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Multiple myeloma diagnosis, CRAB features, staging, prognosis, treatment overview
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
----
 
 # Lit: ChatGPT 2024 — Multiple Myeloma Comprehensive
 
@@ -67,13 +65,9 @@ extraction-date: 2026-03-08
 - 
 - [[TP53_Multiple_Myeloma_Prognosis_Therapy_Z-001-1135] (next LitNote)
 
----
 
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 4*
 *Status: extracted*
 
----
 
----
-parent-index: [[02-Literature]]

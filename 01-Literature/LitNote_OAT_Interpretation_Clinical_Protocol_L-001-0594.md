@@ -1,6 +1,5 @@
----
 uid: L-001-0594
-type: lit-note
+type: litnote
 title: OAT Interpretation Clinical Protocol
 authors: ChatGPT Analysis (CGPT-0022)
 year: 2025
@@ -8,13 +7,12 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Comprehensive OAT marker interpretation, pattern recognition, clinical decision-making
 status: extracted
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 parent-moc: "[[MOC-Metabolomics-Training]]"
 extraction-date: "2026-03-08"
----
 
 # Lit: ChatGPT 2025 — OAT Interpretation Clinical Protocol
 
@@ -86,20 +84,15 @@ extraction-date: "2026-03-08"
 - [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]]
 - [[Gut_Microbiome_OAT_Markers_Z-001-1064]]
 
----
 
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 5*
 *Status: extracted*
 
----
 
 ## Post-Extraction Verification Checklist
 - [x] All zettel links use FULL format
 - [x] No bare UIDs
 - [x] Concept count matches list
 
----
 
----
-parent-index: [[02-Literature]]

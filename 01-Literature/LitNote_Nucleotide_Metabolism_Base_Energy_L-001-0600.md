@@ -1,6 +1,5 @@
----
 uid: L-001-0600
-type: lit-note
+type: litnote
 title: Nucleotide Metabolism From Base to Energy
 authors: ChatGPT Analysis (CGPT-0445)
 year: 2024
@@ -8,12 +7,11 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: "High — Foundational nucleotide biochemistry: adenosine, adenine, ribose, nucleoside formation, salvage pathway, evolutionary origins"
 status: extracted
 parent-moc: [[MOC-Mitochondrial-Function]]
 extraction-date: 2026-03-08
----
 
 # Lit: ChatGPT 2024 — Nucleotide Metabolism: From Base to Energy
 
@@ -90,20 +88,16 @@ Adenine (base) + Ribose (sugar) → Adenosine (nucleoside)
 - 
 - 
 
----
 
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 5*
 *Status: extracted*
 
----
 
 ## Post-Extraction Verification Checklist
 - [x] All zettel links use FULL format: `[[Title_Z-001-0001]`
 - [x] No bare UIDs: `[[Insulin_Receptor_Structure_Z-001-0001]`
 - [x] Concept count matches "Zettels Created from This Source" list
 
----
 
----
 parent-index: [[01-Literature]]

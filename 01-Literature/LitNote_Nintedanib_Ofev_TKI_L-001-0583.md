@@ -1,17 +1,15 @@
----
 uid: L-001-0583
-type: lit-note
+type: litnote
 title: Nintedanib (Ofev) — Tyrosine Kinase Inhibitor Mechanism and Clinical Use
 authors: ChatGPT synthesis from CGPT-0064
 year: 2025
 journal: Internal clinical synthesis
-tier: 2
+tier: SILVER
 relevance: Tyrosine kinase inhibitors, antifibrotic therapy, IPF treatment
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-07
 domain: 001
----
 
 # Nintedanib (Ofev) — Tyrosine Kinase Inhibitor Mechanism and Clinical Use
 
@@ -20,7 +18,6 @@ domain: 001
 - **Date:** September 01, 2025
 - **Scope:** Nintedanib mechanism, tyrosine kinase inhibition, antifibrotic effects
 
----
 
 ## Drug Overview
 
@@ -108,14 +105,10 @@ domain: 001
 - Anti-angiogenic (theoretically beneficial)
 - Monitor usual parameters
 
----
 
 **Zettels extracted:** See associated zettels
 **Status:** Complete
 
 **Source:** CGPT-0064 — Ofev MOA and effects
 
----
 
----
-parent-index: [[02-Literature]]

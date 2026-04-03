@@ -1,16 +1,14 @@
----
 uid: L-001-0506
-type: lit-note
+type: litnote
 title: "Lit — Oleic Acid and Clinical Applications (Monounsaturated Fat, Mediterranean Pattern, and Metabolic Benefits)"
 authors: ChatGPT synthesis from Seven Countries Study analysis (CGPT-0074)
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Critical — Practical implementation of olive oil-based interventions, metabolic benefits, METHAP dietary guidance
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
----
 
 # Lit: Oleic Acid and Clinical Applications
 
@@ -19,7 +17,6 @@ extraction-date: 2026-03-01
 - **Date:** Clinical applications focus
 - **Scope:** Oleic acid mechanisms, Mediterranean pattern, clinical recommendations, implementation
 
----
 
 ## Core Concepts Extracted
 
@@ -376,7 +373,6 @@ extraction-date: 2026-03-01
 
 **Zettels extracted:** [[Olive_Oil_Special_Populations_Z-001-0536]
 
----
 
 ## Key Figures & Data
 - **Oleic acid:** 18:1, omega-9
@@ -386,7 +382,6 @@ extraction-date: 2026-03-01
 - **EPIC:** 2 tbsp/day mortality benefit
 - **Optimal dose:** 3-4 tbsp/day
 
----
 
 ## My Notes
 
@@ -399,7 +394,6 @@ extraction-date: 2026-03-01
 - **Implementation:** Practical counseling strategies
 - **Monitoring:** Track lipids, inflammatory markers
 
----
 
 ## Zettels Created from This Source
 1. [[Oleic_Acid_Biochemistry_Metabolic_Properties_Z-001-0532]
@@ -408,11 +402,7 @@ extraction-date: 2026-03-01
 4. [[Olive_Oil_Clinical_Implementation_Z-001-0535]
 5. [[Olive_Oil_Special_Populations_Z-001-0536]
 
----
 
 *Literature note processed: 2026-03-01*
 
----
 
----
-parent-index: [[02-Literature]]

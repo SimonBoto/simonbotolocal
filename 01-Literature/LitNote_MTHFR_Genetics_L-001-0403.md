@@ -1,16 +1,14 @@
----
 uid: L-001-0403
-type: lit-note
+type: litnote
 title: "Lit — MTHFR Genetics and Polymorphisms (C677T, A1298C, Clinical Implications)"
 authors: ChatGPT synthesis from Warburg Effect conversation (CGPT-0264)
 year: 2024
 journal: Internal clinical synthesis
-tier: 2
+tier: SILVER
 relevance: High — Genetic variation affecting methylation, folate requirements, METHAP personalization
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
----
 
 # Lit: MTHFR Genetics and Polymorphisms
 
@@ -19,7 +17,6 @@ extraction-date: 2026-03-01
 - **Date:** October 27, 2024
 - **Scope:** MTHFR gene function, C677T and A1298C polymorphisms, clinical implications
 
----
 
 ## Core Concepts Extracted
 
@@ -188,7 +185,6 @@ extraction-date: 2026-03-01
 
 **Zettels extracted:** [[MTHFR_Testing_Interpretation_Z-001-0418]
 
----
 
 ## Key Figures & Data
 - **C677T frequency:** 10-15% TT genotype
@@ -197,7 +193,6 @@ extraction-date: 2026-03-01
 - **Folate increase needed:** 2-3x standard for variants
 - **Population tested:** 40-50% have at least one variant
 
----
 
 ## My Notes
 
@@ -209,7 +204,6 @@ extraction-date: 2026-03-01
 - **Dosing:** Higher folate for variant carriers
 - **Outcome:** May predict methylation response
 
----
 
 ## Zettels Created from This Source
 1. [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]
@@ -219,11 +213,7 @@ extraction-date: 2026-03-01
 5. [[MTHFR_Cancer_Association_Complex_Z-001-0417]
 6. [[MTHFR_Testing_Interpretation_Z-001-0418]
 
----
 
 *Literature note processed: 2026-03-01*
 
----
 
----
-parent-index: [[02-Literature]]
