@@ -168,7 +168,7 @@ extraction-date: 2026-03-08
 **Related Zettels:**
 - [[Naive_TCell_Depletion_Autoimmunity_Z-001-1182]] — To create
 - [[CD28_Negative_TCells_Pathogenicity_Z-001-1183]] — To create
-- [[TCR_Repertoire_Restriction_Z-001-1184]] — To create
+- [[TCell_Receptor_Repertoire_Restriction_Autoimmunity_Z-001-1184]] — Clonal expansion in autoimmunity
 - [[Premature_CVD_Autoimmunity_Z-001-1185]] — To create
 
 **MOCs:**
