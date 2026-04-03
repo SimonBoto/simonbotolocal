@@ -223,5 +223,5 @@ Alkaline phosphatase (ALP) is a family of isoenzymes with tissue-specific distri
 
 ---
 
----
 parent-index: [[02-Literature]]
+---

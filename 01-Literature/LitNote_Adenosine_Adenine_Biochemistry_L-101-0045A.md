@@ -21,7 +21,7 @@ source: "00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-044
 extraction-date: 2026-03-04
 status: extracted
 tier: GOLD
-parent-moc: MOC-Nucleotide-Metabolism
+parent-moc: [[MOC-Nucleotide-Metabolism]]
 parent-index: [[02-Literature]]
 ---
 
