@@ -1,16 +1,14 @@
----
 uid: L-001-0639
 type: litnote
 title: LitNote — Vitamin D and K2 Synergy in Metabolic Syndrome (CGPT-0230)
 authors: ChatGPT Analysis (CGPT-0230)
 year: 2024
 journal: ChatGPT Archive
-tier: 1
+tier: GOLD
 relevance: Critical — Core PhD literature on VitD/K2 mechanisms in MetS
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-09
----
 
 # Vitamin D and K2 Synergy in Metabolic Syndrome
 
@@ -54,9 +52,5 @@ Combined → Functional matrix Gla-protein, osteocalcin
 - 
 - 
 
----
 *Extracted: 2026-03-09*
----
 
----
-parent-index: [[02-Literature]]

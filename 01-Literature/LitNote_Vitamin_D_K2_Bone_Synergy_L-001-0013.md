@@ -1,16 +1,14 @@
----
 uid: L-001-0013
-type: lit-note
+type: litnote
 title: Lit — Vitamin D and K2 Synergy for Bone Health
 authors: Holick, Cockayne et al., ChatGPT synthesis (CGPT-0133)
 year: 2006-2025
 journal: N Engl J Med, Arch Intern Med / Internal synthesis
-tier: 1
+tier: GOLD
 relevance: High — Core nutritional intervention for osteoporosis
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
----
 
 # Lit: Vitamin D and K2 Co-Supplementation — Bone Mineralization and Fracture Prevention
 
@@ -21,7 +19,6 @@ extraction-date: 2026-03-01
   - Cockayne S, et al. Vitamin K and prevention of fractures. *Arch Intern Med.* 2006;166(12):1256–1261.
 - **Scope:** Mechanisms, dosing, monitoring, and clinical evidence for D+K2 synergy
 
----
 
 ## Core Concepts Extracted
 
@@ -55,7 +52,6 @@ extraction-date: 2026-03-01
 
 **Zettel extracted:** [[Vitamin_K2_Warfarin_Interaction_Caution_Z-001-0095]
 
----
 
 ## Key Figures & Data
 - **Vitamin D target:** >30 ng/mL (some advocate >40 ng/mL)
@@ -63,7 +59,6 @@ extraction-date: 2026-03-01
 - **K2 forms:** MK-4 (short half-life), MK-7 (longer half-life)
 - **Evidence:** Asian studies show fracture reduction with MK-4
 
----
 
 ## My Notes
 
@@ -75,7 +70,6 @@ extraction-date: 2026-03-01
 - What's the optimal D:K2 dose ratio?
 - Does K2 status correlate with adipic acid levels?
 
----
 
 ## Zettels Created from This Source
 1. [[Vitamin_D_Loading_Dose_Protocol_50000_IU_Z-001-0090]
@@ -91,13 +85,9 @@ extraction-date: 2026-03-01
 -  — Parent MOC
 -  — D metabolism context
 
----
 
 *Literature note processed: 2026-03-01*  
 *Zettels extracted: 6*  
 *Status: extracted*
 
----
 
----
-parent-index: [[02-Literature]]

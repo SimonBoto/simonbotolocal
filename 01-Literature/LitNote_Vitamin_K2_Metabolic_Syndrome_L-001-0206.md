@@ -1,16 +1,14 @@
----
 uid: L-001-0206
-type: lit-note
+type: litnote
 title: "Lit — Vitamin K2 in Metabolic Syndrome (Calcium, Vascular Health, Insulin Sensitivity)"
 authors: ChatGPT synthesis from narrative review planning (CGPT-0272)
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: High — Vascular calcification prevention; synergy with VitD and Mg
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
----
 
 # Lit: Vitamin K2 — Role in Metabolic Syndrome and Vascular Health
 
@@ -19,7 +17,6 @@ extraction-date: 2026-03-01
 - **Date:** October 09, 2024
 - **Scope:** Chapter 4 — Vitamin K2 mechanisms in metabolic syndrome: calcium metabolism, vascular health, and emerging roles in glucose metabolism
 
----
 
 ## Core Concepts Extracted
 
@@ -126,7 +123,6 @@ extraction-date: 2026-03-01
 
 **Zettels extracted:** [[Vitamin_K2_D_Mg_Synergy_Metabolic_Health_Z-001-0230]
 
----
 
 ## Key Figures & Data
 - **MK-7 half-life:** 72 hours (vs. 1 hour for MK-4)
@@ -135,7 +131,6 @@ extraction-date: 2026-03-01
 - **MK-7 dosing:** 100-200 mcg/day effective for vascular health
 - **Synergy:** D+K2+Mg provides comprehensive calcium metabolism support
 
----
 
 ## My Notes
 
@@ -154,7 +149,6 @@ extraction-date: 2026-03-01
 - Does K2 enhance metabolic benefits of D independent of calcification?
 - How long until vascular benefits manifest (weeks vs. months)?
 
----
 
 ## Zettels Created from This Source
 1. [[Vitamin_K2_Biochemistry_Forms_MK4_MK7_Z-001-0227]
@@ -169,13 +163,9 @@ extraction-date: 2026-03-01
 -  — Parent MOC
 -  — Clinical context
 
----
 
 *Literature note processed: 2026-03-01*  
 *Zettels extracted: 4*  
 *Status: extracted*
 
----
 
----
-parent-index: [[02-Literature]]

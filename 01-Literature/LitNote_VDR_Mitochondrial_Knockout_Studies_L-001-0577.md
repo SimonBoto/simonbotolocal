@@ -1,17 +1,15 @@
----
 uid: L-001-0577
-type: lit-note
+type: litnote
 title: VDR and Mitochondrial Knockout Studies — Genetic Models of Vitamin D and Mitochondrial Dysfunction
 authors: ChatGPT synthesis from CGPT-0311
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Foundational genetic research on VDR and mitochondrial function
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-07
 domain: 001
----
 
 # VDR and Mitochondrial Knockout Studies — Genetic Models of Vitamin D and Mitochondrial Dysfunction
 
@@ -20,7 +18,6 @@ domain: 001
 - **Date:** August 15, 2024
 - **Scope:** Genetic knockout studies of Vitamin D receptor (VDR) and mitochondrial genes
 
----
 
 ## Part 1: Vitamin D Receptor (VDR) Knockout
 
@@ -47,7 +44,6 @@ domain: 001
 **Bouillon R et al. (2008):** Comprehensive VDR review
 **Feldman D et al. (2014):** VDR in cancer and immune regulation
 
----
 
 ## Part 2: Mitochondrial Gene Knockouts
 
@@ -94,7 +90,6 @@ domain: 001
 - Knockout: Neonatal lethality from oxidative stress
 - Tissue-specific models: Cancer, neurodegeneration, cardiovascular disease
 
----
 
 ## Part 3: Mitochondrial DNA in Cancer
 
@@ -135,7 +130,6 @@ domain: 001
 - Non-invasive detection
 - Prognostic significance
 
----
 
 ## Integration with Clinical Metabolomics
 
@@ -145,14 +139,10 @@ domain: 001
 - mtDNA damage measurable in clinical practice
 - Therapeutic implications for personalized medicine
 
----
 
 **Zettels extracted:** See associated zettels Z-001-0987 through Z-001-0992
 **Status:** Complete
 
 **Source:** CGPT-0311 — Self-Education Program Plan
 
----
 
----
-parent-index: [[02-Literature]]

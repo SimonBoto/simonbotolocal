@@ -1,18 +1,16 @@
----
 uid: L-001-0510
-type: lit-note
+type: litnote
 title: "Lit — Zinc and Selenium as Mitochondrial Cofactors (Antioxidant Defense, OXPHOS Protection, and Trace Mineral Requirements)"
 authors: ChatGPT synthesis from CGPT-0393
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Critical — Essential trace minerals for mitochondrial antioxidant defense, enzyme function, and oxidative phosphorylation protection
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
 source-file-location: /03-Zettels/ChatGPT_Archive/metabolomics/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393].md
 source-verified: 2026-03-01
----
 
 # Lit: Zinc and Selenium as Mitochondrial Cofactors
 
@@ -21,7 +19,6 @@ source-verified: 2026-03-01
 - **Date:** May 15, 2024
 - **Scope:** Zinc and selenium roles in mitochondrial function, antioxidant enzymes, oxidative phosphorylation protection
 
----
 
 ## Core Concepts Extracted
 
@@ -335,7 +332,6 @@ H₂O (water)
 
 **Zettels extracted:** [[Zn_Se_Nutritional_Sources_Supplementation_Z-001-0553]
 
----
 
 ## Key Figures & Data
 - **Zinc RDA:** 8-11 mg/day (adults)
@@ -346,7 +342,6 @@ H₂O (water)
 - **GPx4 function:** Reduces lipid peroxides
 - **ETC ROS leak:** 1-2% of electrons
 
----
 
 ## My Notes
 
@@ -358,7 +353,6 @@ H₂O (water)
 - **Exercise performance:** Critical for ATP production
 - **Personalization:** Adjust based on dietary pattern, geography
 
----
 
 ## Zettels Created from This Source (Batch 4/4 — COMPLETE)
 1. [[Zinc_Mitochondrial_Function_Z-001-0550]
@@ -366,11 +360,7 @@ H₂O (water)
 3. [[Zn_Se_Synergistic_OXPHOS_Protection_Z-001-0552]
 4. [[Zn_Se_Nutritional_Sources_Supplementation_Z-001-0553]
 
----
 
 *CGPT-0393 EXTRACTION COMPLETE — 4 LitNotes, 17 Zettels Total*
 
----
 
----
-parent-index: [[02-Literature]]

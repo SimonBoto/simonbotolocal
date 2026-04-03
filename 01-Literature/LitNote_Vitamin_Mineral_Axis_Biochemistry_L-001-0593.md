@@ -1,6 +1,5 @@
----
 uid: L-001-0593
-type: lit-note
+type: litnote
 title: Vitamin Mineral Axis Clinical Biochemistry
 authors: ChatGPT Analysis (CGPT-0022)
 year: 2025
@@ -8,13 +7,12 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Vitamin D/PTH/Ca/Mg/K2 axis, micronutrient cofactors, deficiency patterns
 status: extracted
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
 extraction-date: "2026-03-08"
----
 
 # Lit: ChatGPT 2025 — Vitamin Mineral Axis Clinical Biochemistry
 
@@ -82,20 +80,15 @@ extraction-date: "2026-03-08"
 ## Related References
 - [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
 
----
 
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 6*
 *Status: extracted*
 
----
 
 ## Post-Extraction Verification Checklist
 - [x] All zettel links use FULL format
 - [x] No bare UIDs
 - [x] Concept count matches list
 
----
 
----
-parent-index: [[02-Literature]]

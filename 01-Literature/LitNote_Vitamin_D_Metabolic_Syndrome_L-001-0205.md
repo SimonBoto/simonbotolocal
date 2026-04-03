@@ -1,16 +1,14 @@
----
 uid: L-001-0205
-type: lit-note
+type: litnote
 title: "Lit — Vitamin D in Metabolic Syndrome (Mechanisms, Glucose, Lipids, Inflammation)"
 authors: ChatGPT synthesis from narrative review planning (CGPT-0272)
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: High — Core METHAP mechanism; high-dose VitD rationale for IR
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
----
 
 # Lit: Vitamin D — Role in Metabolic Syndrome
 
@@ -19,7 +17,6 @@ extraction-date: 2026-03-01
 - **Date:** October 09, 2024
 - **Scope:** Chapter 3 — Vitamin D mechanisms in metabolic syndrome: biochemistry, IR, glucose, lipids, inflammation
 
----
 
 ## Core Concepts Extracted
 
@@ -99,7 +96,6 @@ extraction-date: 2026-03-01
 
 **Zettels extracted:** [[Vitamin_D_Inflammation_Adipose_Tissue_Immunomodulation_Z-001-0226]
 
----
 
 ## Key Figures & Data
 - **VDR expression:** Pancreas, muscle, fat, immune cells
@@ -108,7 +104,6 @@ extraction-date: 2026-03-01
 - **Anti-inflammatory:** Reduces IL-6, TNF-α, CRP
 - **Renin suppression:** 20-50% reduction in activity
 
----
 
 ## My Notes
 
@@ -127,7 +122,6 @@ extraction-date: 2026-03-01
 - How does baseline status affect response to high-dose therapy?
 - Can we predict responders vs. non-responders?
 
----
 
 ## Zettels Created from This Source
 1. [[Vitamin_D_Biochemistry_Synthesis_Activation_Z-001-0223]
@@ -143,13 +137,9 @@ extraction-date: 2026-03-01
 -  — Parent MOC
 -  — Clinical context
 
----
 
 *Literature note processed: 2026-03-01*  
 *Zettels extracted: 4*  
 *Status: extracted*
 
----
 
----
-parent-index: [[02-Literature]]

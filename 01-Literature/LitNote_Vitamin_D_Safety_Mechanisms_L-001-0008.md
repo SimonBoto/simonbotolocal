@@ -1,16 +1,14 @@
----
 uid: L-001-0008
-type: lit-note
+type: litnote
 title: Lit — Vitamin D Safety Mechanisms
 authors: Synthesized from ChatGPT CGPT-0284 + Holick, Uwitonze & Razzaque, Schwalfenberg
 year: 2007-2018
 journal: JAMA, JAOA, J Nutr Metab
-tier: 1
+tier: GOLD
 relevance: High — Mechanisms enabling safe high-dose vitamin D protocols
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
----
 
 # Lit: Vitamin D Safety Mechanisms — Endogenous Production, Mg, and K2
 
@@ -21,7 +19,6 @@ extraction-date: 2026-03-01
 - **Schwalfenberg (2017):** Vitamin K2 in calcium regulation
 - **Scope:** Physiological mechanisms that enable safe high-dose vitamin D
 
----
 
 ## Core Concepts Extracted
 
@@ -50,7 +47,6 @@ extraction-date: 2026-03-01
 
 **Zettels extracted:** [[Cholecalciferol_vs_Calcitriol_Safety_Profile_Z-001-0066]
 
----
 
 ## Key Figures & Data
 - **Endogenous production:** 10,000-20,000 IU in 15-30 minutes midday sun
@@ -58,7 +54,6 @@ extraction-date: 2026-03-01
 - **K2-dependent proteins:** Osteocalcin (bone), Matrix Gla Protein (vascular)
 - **Safety margin:** Oral intake bypasses photodegradation; Mg/K2 provide secondary safeguards
 
----
 
 ## My Notes
 
@@ -71,7 +66,6 @@ extraction-date: 2026-03-01
 - What Mg form and dose for optimal hydroxylation?
 - K2 MK-4 vs MK-7 for vascular protection?
 
----
 
 ## Zettels Created from This Source
 1. [[Endogenous_Vitamin_D_Production_Capacity_Z-001-0062]
@@ -87,13 +81,9 @@ extraction-date: 2026-03-01
 -  — Parent MOC
 -  — Safety framework
 
----
 
 *Literature note processed: 2026-03-01*  
 *Zettels extracted: 5*  
 *Status: extracted*
 
----
 
----
-parent-index: [[02-Literature]]
