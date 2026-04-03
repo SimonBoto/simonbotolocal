@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Literature/LitNote_Adenosine_Adenine_Biochemistry_L-101-0045A.md",
+                "file": "08-Structure/System/CGPT_LitNote_Zettel_Map_2026-04-03.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LitNote_Adenosine_Adenine_Biochemistry_L-101-0045A"
+              "title": "CGPT_LitNote_Zettel_Map_2026-04-03"
             }
           },
           {
@@ -282,13 +282,21 @@
   },
   "active": "4babb119d6d7cb98",
   "lastOpenFiles": [
+    "03-Zettels/Conscious/Tuskegee_Syphilis_Study_Ethics_Case_Z-002-0613.md",
+    "03-Zettels/Conscious/Herbal_Antimicrobials_Dysbiosis_Protocol_Z-001-1223.md",
+    "03-Zettels/Conscious/Kefir_Grain_Reactivation_Protocol_Z-001-1227.md",
+    "03-Zettels/Conscious/Fermented_Foods_Probiotic_Strategy_Z-001-1229.md",
+    "08-Structure/System/CGPT_Extraction_Table_2026-04-03.md",
+    "01-Literature/LitNote_Adenosine_Adenine_Biochemistry_L-101-0045A.md",
+    "08-Structure/System/CGPT_LitNote_Zettel_Map_2026-04-03.md",
+    "08-Structure/System/CGPT_LitNote_Zettel_Map_2026-04-03.txt",
+    "08-Structure/System/knowledge_extraction_map_2026-04-03.json",
     "01-Literature/sedOc5H05",
     "01-Literature/sedP002r6",
     "01-Literature/seddomUmC",
     "01-Literature/sedwzqd9j",
     "01-Literature/sedJjmt0Q",
     "01-Literature/LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629.md",
-    "01-Literature/LitNote_Adenosine_Adenine_Biochemistry_L-101-0045A.md",
     "01-Literature/LitNote_Aconitase_Enzyme_L-001-0508.md",
     "01-Literature/LitNote_ADA_History_L-001-0209.md",
     "01-Literature/LitNote_Alkaline_Phosphatase_Overview_L-001-0576.md",
@@ -308,16 +316,8 @@
     "08-Structure/Templates/Template_LitNote_v2.0.md",
     "08-Structure/Daily/2026/2026-04-03.md",
     "08-Structure/Daily/2026/2026-04-02.md",
-    "08-Structure/System/threekeys.md",
-    "08-Structure/System/System Index.md",
-    "08-Structure/Dashboards/VAULT_HEALTH_L3.md",
-    "04-Synthesis/Amino_Acid_Metabolism_Integrated_Synthesis_S-001-0003.md",
-    "MOC-Example.md",
     "Base File All Notes.base",
     "08-Structure/Templates/sedoJjwX5",
-    "08-Structure/Templates/sedclJo0e",
-    "06-Structure/Dashboards",
-    "06-Structure",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
