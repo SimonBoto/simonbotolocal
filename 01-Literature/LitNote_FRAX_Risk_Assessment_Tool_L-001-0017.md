@@ -5,10 +5,10 @@ title: FRAX Risk Assessment Tool — 10-Year Fracture Probability Calculation
 authors: ChatGPT synthesis from clinical review (CGPT-0133)
 year: 2025
 journal: Internal clinical synthesis
-tier: 2
+tier: SILVER
 relevance: High — Clinical decision tool for osteoporosis treatment thresholds
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Bone-Health]]
 extraction-date: 2026-03-06
 domain: 001
 ---

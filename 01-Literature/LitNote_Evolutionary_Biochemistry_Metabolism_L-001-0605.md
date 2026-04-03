@@ -8,10 +8,10 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Ancient pathways, RNA world hypothesis, origins of metabolism, metabolic fossils
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Evolutionary-Biochemistry]]
 extraction-date: 2026-03-08
 ---
 
@@ -60,15 +60,15 @@ extraction-date: 2026-03-08
 **Synthesis:** Modern metabolism carries the imprint of billions of years of evolutionary optimization—the most ancient pathways (glycolysis, PPP) are conserved across all life, while newer pathways (aerobic respiration) built upon these foundations.
 
 ## Zettels Created from This Source
-1. [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]
-2. [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]
-3. [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]
-4. [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]
+1. [[RNA_World_Hypothesis_Origins_Life_Z-001-1106]]
+2. [[Ancient_Metabolic_Pathways_Conservation_Z-001-1107]]
+3. [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]]
+4. [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]]
 
 ## Related References
 - 
-- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]
-- [[Iron_Sulfur_Clusters_Ancient_Cofactors_Z-001-1103]
+- [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]]
+- [[Iron_Sulfur_Clusters_Ancient_Cofactors_Z-001-1103]]
 
 ---
 

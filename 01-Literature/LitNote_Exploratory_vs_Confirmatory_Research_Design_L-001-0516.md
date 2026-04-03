@@ -8,14 +8,14 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Critical for PhD study design and METHAP trial methodology
 aliases: [L-001-0516, Study Design Standards, Exploratory Research, Confirmatory Research, Omics Methodology]
 domain: 001
 tags: [litnote, study-design, exploratory-research, confirmatory-research, biomarkers, validation, research-standards, omics]
 source: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Research-Methods]]
 extraction-date: 2026-03-03
 ---
 

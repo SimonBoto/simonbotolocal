@@ -1,14 +1,14 @@
 ---
 uid: L-001-0637
-type: litnote
+type: lit-note
 title: LitNote — Therapeutic Fasting and Fermentation (CGPT-0199)
 authors: ChatGPT Analysis (CGPT-0199)
 year: 2025
 journal: ChatGPT Archive
-tier: 2
+tier: SILVER
 relevance: High — Kefir fermentation, therapeutic fasting protocols, gut reset strategies
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Gut-Health]]
 extraction-date: 2026-03-09
 ---
 
@@ -68,9 +68,9 @@ extraction-date: 2026-03-09
 - Diversity: Rotate fermented foods
 
 ## Zettels Created
-1. [[Kefir_Grain_Reactivation_Protocol_Z-001-1227]
-2. [[Kefir_Broth_Coffee_Fast_Protocol_Z-001-1228]
-3. [[Fermented_Foods_Probiotic_Strategy_Z-001-1229]
+1. [[Kefir_Grain_Reactivation_Protocol_Z-001-1227]]
+2. [[Kefir_Broth_Coffee_Fast_Protocol_Z-001-1228]]
+3. [[Fermented_Foods_Probiotic_Strategy_Z-001-1229]]
 
 ## Related
 - 

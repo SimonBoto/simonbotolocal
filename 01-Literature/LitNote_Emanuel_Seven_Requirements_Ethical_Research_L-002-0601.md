@@ -8,10 +8,10 @@ journal: "JAMA"
 doi: "10.1001/jama.283.20.2701"
 pmid: "10819955"
 pmcid: "N/A"
-tier: 1
+tier: GOLD
 relevance: "High — Foundational framework for IRB approval and METHAP trial design"
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Research-Ethics]]
 extraction-date: 2026-03-27
 ---
 
@@ -109,7 +109,7 @@ This framework applies universally, though adaptations may be needed for local h
 
 ## Related References
 - [[LitNote_Historical_Ethics_Guidelines_L-002-0602]] — Evolution of research ethics frameworks
-- [[LitNote_Vulnerable_Populations_Research_Ethics_L-002-0603] — Special protections for vulnerable groups
+- [[LitNote_Vulnerable_Populations_Research_Ethics_L-002-0603]] — Special protections for vulnerable groups
 -  — Master map of research ethics concepts
 
 ---

@@ -5,10 +5,10 @@ title: Five Pillars of Metabolic Health — Clinical Conference Framework
 authors: ChatGPT synthesis from CGPT-0124
 year: 2025
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Core metabolic medicine framework for clinical practice
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Metabolic-Health]]
 extraction-date: 2026-03-07
 domain: 001
 ---

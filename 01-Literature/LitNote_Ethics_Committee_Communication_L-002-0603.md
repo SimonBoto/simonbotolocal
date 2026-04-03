@@ -8,10 +8,10 @@ journal: "ChatGPT Archive"
 doi: "N/A"
 pmid: "N/A"
 pmcid: "N/A"
-tier: 3
+tier: BRONZE
 relevance: "Medium — Practical guidance for IRB navigation, administrative rather than substantive ethics"
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Research-Ethics]]
 extraction-date: 2026-03-27
 ---
 
