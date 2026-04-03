@@ -5,10 +5,11 @@ title: Scientific Writing — Critical Assessment Methodology for Study Evaluati
 authors: ChatGPT Analysis from CGPT-0328
 year: 2024
 journal: ChatGPT Archive
-tier: 2
+tier: SILVER
 relevance: High — Critical thinking framework for PhD research evaluation
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Research-Methods]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-06
 domain: 001
 ---

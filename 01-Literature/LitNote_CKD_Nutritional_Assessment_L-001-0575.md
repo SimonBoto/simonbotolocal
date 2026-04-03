@@ -5,10 +5,11 @@ title: CKD Nutritional Assessment — Albumin vs Intake, Oxalate, and Glycemic C
 authors: ChatGPT synthesis from CGPT-0370
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Practical clinical assessment framework for CKD nutrition
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Kidney-Metabolism]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-07
 domain: 001
 ---

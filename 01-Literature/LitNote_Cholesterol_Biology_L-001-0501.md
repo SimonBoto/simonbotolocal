@@ -5,10 +5,11 @@ title: "Lit — Cholesterol Biology and Lipid Metabolism in Aging (Synthesis, Tr
 authors: ChatGPT synthesis from Twelve Hallmarks of Aging (CGPT-0086)
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Critical — Foundation for lipid management, cardiovascular risk, METHAP metabolic support
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Lipid-Metabolism]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-01
 ---
 

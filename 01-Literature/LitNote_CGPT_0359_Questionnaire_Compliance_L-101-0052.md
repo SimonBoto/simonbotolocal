@@ -6,10 +6,11 @@ authors: ChatGPT / Simos X Dialog
 year: 2024
 journal: ChatGPT Archive
 pmid: N/A
-tier: 3
+tier: BRONZE
 relevance: Moderate — Practical strategies for questionnaire ethics approval
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-PhD-Research]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-28
 ---
 

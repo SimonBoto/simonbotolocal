@@ -6,10 +6,11 @@ authors: ChatGPT / Simos X Dialog
 year: 2024
 journal: ChatGPT Archive
 pmid: N/A
-tier: 2
+tier: SILVER
 relevance: High — Ascorbate metabolism, oxalate measurement confounders, PhD analytical considerations
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Kidney-Metabolism]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-28
 ---
 

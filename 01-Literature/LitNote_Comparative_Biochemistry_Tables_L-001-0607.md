@@ -8,10 +8,11 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Aldoses/ketoses reference, amino acid classification, organic acids, Krebs intermediates
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Krebs-Cycle]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-08
 ---
 

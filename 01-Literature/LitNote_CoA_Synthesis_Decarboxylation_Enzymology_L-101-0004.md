@@ -8,14 +8,15 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: Medium — Cofactor biochemistry supporting fatty acid metabolism
 aliases: [L-101-0004, CoA Biosynthesis, Decarboxylase Enzymes, B5 Metabolism]
 domain: 101
 tags: [litnote, coenzyme-a, pantothenic-acid, vitamin-b5, decarboxylase, dehydrogenase, enzymology, cofactors]
 source: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Mitochondrial-Function]]
+parent-index: [[02-Literature]]
 extraction-date: 2026-03-02
 ---
 
