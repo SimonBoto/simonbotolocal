@@ -1,14 +1,14 @@
 ---
 uid: L-001-0576
 type: lit-note
-title: Alkaline Phosphatase Overview — Isoenzymes, Paget's Disease, and Clinical Interpretation
+title: "Lit — Alkaline Phosphatase Overview — Isoenzymes, Paget's Disease, and Clinical Interpretation"
 authors: ChatGPT synthesis from CGPT-0345
 year: 2024
 journal: Internal clinical synthesis
-tier: 2
+tier: SILVER
 relevance: Clinical chemistry fundamentals, bone and liver pathology
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Biomarkers]]
 extraction-date: 2026-03-07
 domain: 001
 ---
@@ -211,11 +211,10 @@ Alkaline phosphatase (ALP) is a family of isoenzymes with tissue-specific distri
 
 ## Zettels Extracted
 
-See associated atomic zettels covering:
-- ALP isoenzymes in detail
-- Paget's disease of bone
-- Breast Paget's disease (naming confusion)
-- ALP differential diagnosis
+- [[ALP_Isoenzymes_Tissue_Sources_Z-001-0983]] — ALP isoenzymes in detail
+- [[Pagets_Disease_Bone_Diagnosis_Management_Z-001-0984]] — Paget's disease of bone
+- [[Breast_Pagets_Disease_Distinct_Entity_Z-001-0985]] — Breast Paget's disease (naming confusion)
+- [[Elevated_ALP_Differential_Workup_Z-001-0986]] — ALP differential diagnosis
 
 ---
 
@@ -225,4 +224,4 @@ See associated atomic zettels covering:
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]
