@@ -1,2 +1,12 @@
-node_modules/\n.next/\nout/\n.env.local\n
+node_modules/
+.next/
+out/
+.env.local
+
 threekeys.md
+
+# Obsidian UI state (changes constantly, not meaningful to track)
+.obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/plugins/*/data.json
+.obsidian/cache
