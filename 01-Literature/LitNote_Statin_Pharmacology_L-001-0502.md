@@ -1,16 +1,14 @@
----
 uid: L-001-0502
-type: lit-note
+type: litnote
 title: "Lit — Statin Pharmacology and Clinical Evidence (Mechanisms, Major Trials, and Precision Use)"
 authors: ChatGPT synthesis from Cholesterol Study Reassessment (CGPT-0337)
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Critical — Foundation for lipid management, cardiovascular risk reduction, METHAP context
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
----
 
 # Lit: Statin Pharmacology and Clinical Evidence
 
@@ -19,7 +17,6 @@ extraction-date: 2026-03-01
 - **Date:** June 29, 2024
 - **Scope:** Statin mechanisms, major clinical trials, Framingham reassessment, clinical applications
 
----
 
 ## Core Concepts Extracted
 
@@ -432,7 +429,6 @@ Reduced circulating LDL-C
 
 **Zettels extracted:** [[Statin_Clinical_Decision_Making_Z-001-0515]
 
----
 
 ## Key Figures & Data
 - **4S trial:** 30% mortality reduction
@@ -442,7 +438,6 @@ Reduced circulating LDL-C
 - **PCSK9 inhibitors:** 50-60% additional LDL reduction
 - **JUPITER:** 44% event reduction in CRP-positive, normal LDL
 
----
 
 ## My Notes
 
@@ -455,7 +450,6 @@ Reduced circulating LDL-C
 - **Inflammation reduction:** Complements METHAP anti-inflammatory goals
 - **Risk stratification:** Identify high-risk patients for intensive monitoring
 
----
 
 ## Zettels Created from This Source
 1. [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]
@@ -466,11 +460,7 @@ Reduced circulating LDL-C
 6. [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]
 7. [[Statin_Clinical_Decision_Making_Z-001-0515]
 
----
 
 *Literature note processed: 2026-03-01*
 
----
 
----
-parent-index: [[02-Literature]]

@@ -1,6 +1,5 @@
----
 uid: L-001-0512
-type: lit-note
+type: litnote
 title: Sirolimus mTORC1 Inhibition and Mitochondrial Toxicity Mechanisms
 authors: ChatGPT Analysis
 year: 2025
@@ -8,7 +7,7 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Drug toxicity mechanisms relevant to metabolic interventions
 aliases: [L-001-0512, Rapamycin Mitochondrial Toxicity, mTORC1 Mitochondrial Dysfunction]
 domain: 001
@@ -17,7 +16,6 @@ source: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-02
----
 
 # Sirolimus mTORC1 Inhibition and Mitochondrial Toxicity Mechanisms
 
@@ -26,7 +24,6 @@ extraction-date: 2026-03-02
 > **Clinical Context:** Immunosuppression, transplant, longevity research  
 > **Key Risk:** Mitochondrial dysfunction, metabolic side effects
 
----
 
 ## Core Concepts Extracted
 
@@ -139,7 +136,6 @@ Sirolimus disrupts this balance by suppressing biogenesis while promoting cleara
 
 **Zettels extracted:** [[mTORC1_Calcium_Homeostasis_mPTP_Z-001-0922]
 
----
 
 ## Key Figures & Data
 - **Five mechanisms:** Biogenesis suppression, OXPHOS impairment, ROS generation, mitophagy dysregulation, calcium dysregulation
@@ -147,7 +143,6 @@ Sirolimus disrupts this balance by suppressing biogenesis while promoting cleara
 - **Dose-response:** Toxic at high/chronic, potentially beneficial at low/intermittent
 - **Paradox:** Mitochondrial dysfunction harmful in most contexts but selectively toxic to cancer cells
 
----
 
 ## My Notes
 
@@ -164,7 +159,6 @@ Sirolimus disrupts this balance by suppressing biogenesis while promoting cleara
 - Are there biomarkers predictive of sirolimus mitochondrial toxicity?
 - How does sirolimus affect adipate levels (our IR marker)?
 
----
 
 ## Zettels Created from This Source
 1. [[Sirolimus_mTORC1_PGC1a_Mitochondrial_Biogenesis_Z-001-0512]] — Biogenesis suppression mechanism
@@ -172,7 +166,6 @@ Sirolimus disrupts this balance by suppressing biogenesis while promoting cleara
 3. [[Sirolimus_Mitophagy_Dysregulation_Z-001-0921]] — Autophagy imbalance
 4. [[mTORC1_Calcium_Homeostasis_mPTP_Z-001-0922]] — Calcium dysregulation and cell death
 
----
 
 ## Related References
 - [[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]] — Metabolic side effects
@@ -180,12 +173,8 @@ Sirolimus disrupts this balance by suppressing biogenesis while promoting cleara
 -  — Toxicity mechanisms
 -  — Patient monitoring
 
----
 
 *Literature note processed: 2026-03-02*  
 *Zettels extracted: 4*  
 *Status: extracted*
----
 
----
-parent-index: [[02-Literature]]

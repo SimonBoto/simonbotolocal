@@ -1,6 +1,5 @@
----
 uid: L-001-0620
-type: lit-note
+type: litnote
 title: Self-Education Program for Clinical Metabolomics Team
 authors: ChatGPT Analysis
 year: 2024
@@ -8,7 +7,7 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Team education framework for personalized medicine practice
 aliases: [L-001-0620, Clinical Team Education, Metabolomics Learning Program]
 domain: 001
@@ -17,7 +16,6 @@ source: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
----
 
 # Self-Education Program for Clinical Metabolomics Team
 
@@ -25,7 +23,6 @@ extraction-date: 2026-03-08
 > **Context:** 4-doctor metabolomics clinic with GC-MS diagnostics  
 > **Key Themes:** Team education, knowledge management, clinical collaboration
 
----
 
 ## Core Concepts Extracted
 
@@ -48,7 +45,6 @@ extraction-date: 2026-03-08
 | **Arm 3** | Supplementation & Therapeutics | Personalized supplement strategies, emerging therapies |
 | **Arm 4** | Clinical Case Studies | Real-world implementation, patient outcomes, protocol refinement |
 
----
 
 ### 2. Recommended Technology Platforms
 
@@ -67,7 +63,6 @@ extraction-date: 2026-03-08
 - **Trello:** Visual project management, card-based workflow
 - **Slack:** Asynchronous communication with tool integrations
 
----
 
 ### 3. Topic Selection Strategy
 
@@ -85,7 +80,6 @@ extraction-date: 2026-03-08
 - Controversial issues for critical thinking
 - Team member rotation for topic selection
 
----
 
 ### 4. Implementation Workflow
 
@@ -107,7 +101,6 @@ extraction-date: 2026-03-08
 - Version history tracking
 - Periodic program effectiveness review
 
----
 
 ## Key Citations & References
 
@@ -115,7 +108,6 @@ extraction-date: 2026-03-08
 - Bouillon R et al. (2008) — Comprehensive VDR review
 - Feldman D et al. (2014) — VDR in cancer/immune regulation
 
----
 
 ## Connections
 
@@ -129,7 +121,6 @@ extraction-date: 2026-03-08
 -  — Education methodology
 -  — Implementation frameworks
 
----
 
 ## Extraction Notes
 
@@ -143,11 +134,7 @@ extraction-date: 2026-03-08
 
 **Next Review:** 2026-04-08 (30-day cycle)
 
----
 
 *Extracted: 2026-03-08 | Source: CGPT-0311 | RON v2.5*
 
----
 
----
-parent-index: [[02-Literature]]

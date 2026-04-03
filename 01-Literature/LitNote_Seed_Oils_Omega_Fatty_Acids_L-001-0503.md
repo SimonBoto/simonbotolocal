@@ -1,16 +1,14 @@
----
 uid: L-001-0503
-type: lit-note
+type: litnote
 title: "Lit — Seed Oils, Omega-6/Omega-3 Ratio, and Inflammation (Dietary Fat Quality and Cardiovascular Risk)"
 authors: ChatGPT synthesis from Seven Countries Study analysis (CGPT-0074)
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Critical — Understanding dietary fat quality, omega-6/omega-3 balance, and metabolic impact for METHAP protocol
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
----
 
 # Lit: Seed Oils, Omega-6/Omega-3 Ratio, and Inflammation
 
@@ -19,7 +17,6 @@ extraction-date: 2026-03-01
 - **Date:** Analysis of Seven Countries Study and dietary fat research
 - **Scope:** Seed oils, omega-6/omega-3 ratio, fatty acid metabolism, inflammation, metabolic disease
 
----
 
 ## Core Concepts Extracted
 
@@ -414,7 +411,6 @@ Docosahexaenoic Acid (DHA, 22:6 n-3)
 
 **Zettels extracted:** [[Fatty_Acid_Dietary_Strategies_Z-001-0521]
 
----
 
 ## Key Figures & Data
 - **Evolutionary omega-6:omega-3:** 1-4:1
@@ -425,7 +421,6 @@ Docosahexaenoic Acid (DHA, 22:6 n-3)
 - **Omega-3 conversion:** <5% ALA→EPA
 - **Omega-3 index target:** >8%
 
----
 
 ## My Notes
 
@@ -438,7 +433,6 @@ Docosahexaenoic Acid (DHA, 22:6 n-3)
 - **Inflammation markers:** May improve with dietary intervention
 - **Insulin sensitivity:** Fatty acid balance affects glucose metabolism
 
----
 
 ## Zettels Created from This Source
 1. [[Omega_6_Omega_3_Ratio_Evolutionary_Modern_Z-001-0516]
@@ -448,11 +442,7 @@ Docosahexaenoic Acid (DHA, 22:6 n-3)
 5. [[Fatty_Acid_Metabolism_Enzymatic_Pathways_Z-001-0520]
 6. [[Fatty_Acid_Dietary_Strategies_Z-001-0521]
 
----
 
 *Literature note processed: 2026-03-01*
 
----
 
----
-parent-index: [[02-Literature]]

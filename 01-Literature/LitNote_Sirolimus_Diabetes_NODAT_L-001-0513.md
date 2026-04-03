@@ -1,6 +1,5 @@
----
 uid: L-001-0513
-type: lit-note
+type: litnote
 title: Sirolimus-Induced Diabetes and Insulin Resistance Mechanisms
 authors: ChatGPT Analysis
 year: 2025
@@ -8,7 +7,7 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Drug-induced diabetes mechanisms relevant to transplant patients
 aliases: [L-001-0513, Rapamycin Diabetes, NODAT, mTOR Insulin Signaling]
 domain: 001
@@ -17,7 +16,6 @@ source: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-02
----
 
 # Sirolimus-Induced Diabetes and Insulin Resistance Mechanisms
 
@@ -26,7 +24,6 @@ extraction-date: 2026-03-02
 > **Drug:** Sirolimus (Rapamycin)  
 > **Risk:** Significant — dose-dependent (10-30% vs. 5-10% with other immunosuppressants)
 
----
 
 ## Core Concepts Extracted
 
@@ -142,7 +139,6 @@ dysfunction)    activation)
 
 **Zettels extracted:** [[Sirolimus_Lipotoxicity_Adiponectin_Z-001-0926]
 
----
 
 ## Key Figures & Data
 - **NODAT prevalence:** 10-30% sirolimus vs. 5-10% other immunosuppressants
@@ -150,7 +146,6 @@ dysfunction)    activation)
 - **Mechanisms:** GLUT4 defect, β-cell dysfunction, mTORC2 inhibition, lipotoxicity
 - **Management:** Dose reduction, metformin, SGLT2 inhibitors, GLP-1 agonists
 
----
 
 ## My Notes
 
@@ -167,7 +162,6 @@ dysfunction)    activation)
 - Can METHAP principles (carnitine, CoQ10) mitigate sirolimus metabolic toxicity?
 - Should we exclude transplant patients on sirolimus from METHAP trial?
 
----
 
 ## Zettels Created from This Source
 1. [[Sirolimus_GLUT4_Insulin_Resistance_Z-001-0923]] — Peripheral insulin resistance mechanism
@@ -176,7 +170,6 @@ dysfunction)    activation)
 4. [[Sirolimus_Lipotoxicity_Adiponectin_Z-001-0926]] — Adipose tissue dysfunction
 5. [[NODAT_Risk_Factors_Management_Z-001-0927]] — Clinical management strategies
 
----
 
 ## Related References
 - [[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]] — Mitochondrial mechanisms
@@ -184,12 +177,8 @@ dysfunction)    activation)
 -  — Metabolic context
 -  — Patient management
 
----
 
 *Literature note processed: 2026-03-02*  
 *Zettels extracted: 5*  
 *Status: extracted*
----
 
----
-parent-index: [[02-Literature]]

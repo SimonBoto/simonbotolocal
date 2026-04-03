@@ -1,16 +1,14 @@
----
 uid: L-001-0504
-type: lit-note
+type: litnote
 title: "Lit — Seven Countries Study Methodology and Scientific Critique (Ecological Fallacy, Selection Bias, and Statistical Limitations)"
 authors: ChatGPT synthesis from Seven Countries Study analysis (CGPT-0074)
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Critical — Understanding methodological flaws in nutritional epidemiology, ecological fallacy, and evidence quality assessment
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
----
 
 # Lit: Seven Countries Study Methodology and Scientific Critique
 
@@ -19,7 +17,6 @@ extraction-date: 2026-03-01
 - **Date:** Deep methodological analysis
 - **Scope:** Study design, ecological fallacy, selection bias, statistical issues, confounding
 
----
 
 ## Core Concepts Extracted
 
@@ -375,7 +372,6 @@ Ratio likely captures **Mediterranean dietary pattern** — not mechanistic effe
 
 **Zettels extracted:** [[Statistical_Issues_Overfitting_Correlation_Z-001-0933]
 
----
 
 ## Key Figures & Data
 - **Countries:** 7 selected from 22 considered
@@ -386,7 +382,6 @@ Ratio likely captures **Mediterranean dietary pattern** — not mechanistic effe
 - **Realistic individual R²:** <10%
 - **Inflation factor:** 5-10x
 
----
 
 ## My Notes
 
@@ -399,7 +394,6 @@ Ratio likely captures **Mediterranean dietary pattern** — not mechanistic effe
 - **Statistical rigor:** Demand high standards
 - **Nutritional advice:** Question simplistic narratives
 
----
 
 ## Zettels Created from This Source
 1. [[Seven_Countries_Study_Design_Structure_Z-001-0522]
@@ -408,11 +402,7 @@ Ratio likely captures **Mediterranean dietary pattern** — not mechanistic effe
 4. [[Confounding_Variables_Diet_Studies_Z-001-0525]
 5. [[Statistical_Issues_Overfitting_Correlation_Z-001-0933]
 
----
 
 *Literature note processed: 2026-03-01*
 
----
 
----
-parent-index: [[02-Literature]]

@@ -1,6 +1,5 @@
----
 uid: L-101-0045B
-type: lit-note
+type: litnote
 title: "Prebiotic Chemistry: HCN to Adenine and the Origins of Genetic Material"
 aliases:
   - L-101-0045B
@@ -19,7 +18,6 @@ extraction-date: 2026-03-04
 status: extracted
 parent-moc:
   - - MOC-Origins-of-Life
----
 
 # Prebiotic Chemistry: HCN to Adenine
 
@@ -27,7 +25,6 @@ parent-moc:
 > **Domain:** Pharmacometabolomics / Astrobiology (101)  
 > **Focus:** Prebiotic synthesis pathways, HCN polymerization, extraterrestrial origins
 
----
 
 ## The HCN Polymerization Hypothesis
 
@@ -46,7 +43,6 @@ parent-moc:
 - **Energy sources:** UV radiation, lightning, volcanic heat
 - **Aqueous medium:** For concentration and reaction
 
----
 
 ## Extraterrestrial Origins: The Panspermia Connection
 
@@ -69,7 +65,6 @@ parent-moc:
 - **Hydrothermal vents:** Mineral surfaces catalyze reactions
 - **Ice chemistry:** Eutectic freezing concentrates HCN
 
----
 
 ## The Adenine Complexity Problem
 
@@ -90,7 +85,6 @@ parent-moc:
 3. **Signaling:** Adenosine receptors modulate physiology
 4. **Catalysis:** RNA ribozymes use adenine-rich regions
 
----
 
 ## Alternative Pathways
 
@@ -109,7 +103,6 @@ parent-moc:
 - Yielded adenine and other purines
 - Confirms plausibility of prebiotic synthesis
 
----
 
 ## Astrobiological Significance
 
@@ -125,7 +118,6 @@ parent-moc:
 - **Homochirality:** Biotic signature
 - **Adenine alone:** Ambiguous (abiotic pathways exist)
 
----
 
 ## Evolutionary Timeline
 
@@ -140,7 +132,6 @@ parent-moc:
 
 **Key insight:** Adenine predates oxygen by ~1.5 billion years.
 
----
 
 ## Connections to Modern Metabolism
 
@@ -153,7 +144,6 @@ parent-moc:
 - ATP's structure unchanged for ~4 billion years
 - Universal across all life (strongest evidence for common ancestry)
 
----
 
 ## Zettels Extracted
 
@@ -163,7 +153,6 @@ parent-moc:
 - [[Formamide_Chemistry_Prebiotic_Pathway_Z-101-0463]] Formamide Chemistry: Alternative Prebiotic Pathway
 - [[Timeline_Prebiotic_Chemistry_to_LUCA_Z-101-0464]] Timeline Prebiotic Chemistry to LUCA
 
----
 
 ## Connections
 
@@ -172,11 +161,7 @@ parent-moc:
 - 
 - 
 
----
 
 *Extracted: 2026-03-04 | Batch 1 of 5 from CGPT-0445*
 
----
 
----
-parent-index: [[02-Literature]]

@@ -1,6 +1,5 @@
----
 uid: L-001-0045C
-type: lit-note
+type: litnote
 title: "Ribose Biosynthesis: Pentose Phosphate Pathway and Metabolic Integration"
 aliases:
   - L-001-0045C
@@ -19,7 +18,6 @@ extraction-date: 2026-03-04
 status: extracted
 parent-moc:
   - - MOC-Glycolysis-PPP
----
 
 # Ribose Biosynthesis: Pentose Phosphate Pathway
 
@@ -27,7 +25,6 @@ parent-moc:
 > **Domain:** Insulin/Metabolism (001)  
 > **Focus:** Ribose structure, PPP, NADPH production, metabolic integration
 
----
 
 ## Ribose: The 5-Carbon Keystone
 
@@ -44,7 +41,6 @@ parent-moc:
 3. **Coenzymes:** NAD⁺, NADP⁺, FAD, CoA (all contain ribose)
 4. **Second messengers:** cAMP, cGMP
 
----
 
 ## The Pentose Phosphate Pathway (PPP)
 
@@ -77,7 +73,6 @@ Glucose-6-phosphate → Ribose-5-phosphate + NADPH + CO₂
 - High NADPH → inhibits G6P dehydrogenase
 - Insulin → upregulates PPP enzymes (anabolic signal)
 
----
 
 ## NADPH: The Reducing Power
 
@@ -100,7 +95,6 @@ Glucose-6-phosphate → Ribose-5-phosphate + NADPH + CO₂
 - **NADPH production:** ~60% from PPP
 - **Remainder:** Malic enzyme, isocitrate dehydrogenase, folate metabolism
 
----
 
 ## Metabolic Integration
 
@@ -125,7 +119,6 @@ F6P + G3P (PPP non-oxidative) → re-enter glycolysis
 
 **Clinical note:** Ribose supplements marketed for fatigue/CVD — evidence mixed, but biochemically plausible (rate-limiting step bypass).
 
----
 
 ## Evolutionary Perspective
 
@@ -141,7 +134,6 @@ F6P + G3P (PPP non-oxidative) → re-enter glycolysis
 - **Calvin cycle** intermediate (photosynthesis)
 - Convergence point: energy metabolism across domains
 
----
 
 ## Trioses: The Simplest Sugars
 
@@ -156,7 +148,6 @@ F6P + G3P (PPP non-oxidative) → re-enter glycolysis
 - **Universal:** All life uses triose intermediates
 - **Efficiency:** Splitting 6C sugar into 2×3C = more ATP per glucose
 
----
 
 ## Clinical Relevance
 
@@ -172,7 +163,6 @@ F6P + G3P (PPP non-oxidative) → re-enter glycolysis
 - **Fibromyalgia:** Some trials show benefit
 - **Exercise recovery:** May enhance nucleotide resynthesis
 
----
 
 ## Zettels Extracted
 
@@ -183,7 +173,6 @@ F6P + G3P (PPP non-oxidative) → re-enter glycolysis
 - [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]] G6PD Deficiency and Evolutionary Trade-offs
 - [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]] Nucleobase Phosphorylation and Nucleotide Formation
 
----
 
 ## Connections
 
@@ -193,11 +182,7 @@ F6P + G3P (PPP non-oxidative) → re-enter glycolysis
 - 
 -  (NADPH link)
 
----
 
 *Extracted: 2026-03-04 | Batch 1 of 5 from CGPT-0445*
 
----
 
----
-parent-index: [[02-Literature]]

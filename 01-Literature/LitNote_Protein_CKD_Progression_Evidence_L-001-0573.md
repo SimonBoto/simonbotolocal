@@ -1,17 +1,15 @@
----
 uid: L-001-0573
-type: lit-note
+type: litnote
 title: Protein Intake and CKD Progression — Evidence Synthesis
 authors: ChatGPT synthesis from CGPT-0370
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Core clinical evidence for protein restriction in kidney disease
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-07
 domain: 001
----
 
 # Protein Intake and CKD Progression — Evidence Synthesis
 
@@ -20,7 +18,6 @@ domain: 001
 - **Date:** May 26, 2024
 - **Scope:** Clinical evidence for protein effects on kidney disease progression
 
----
 
 ## Core Hypothesis: Protein-Induced Hyperfiltration
 
@@ -44,7 +41,6 @@ Glomerular damage (chronic) → Proteinuria → Progression to ESRD
 - Long-term concern: sustained hyperfiltration damages glomeruli
 - Applies primarily to existing CKD (not necessarily healthy kidneys)
 
----
 
 ## Landmark Evidence
 
@@ -76,7 +72,6 @@ Glomerular damage (chronic) → Proteinuria → Progression to ESRD
 - Benefit most consistent in advanced CKD (stages 4-5)
 - Less clear benefit in early CKD (stages 1-3)
 
----
 
 ## Evidence Strength by CKD Stage
 
@@ -87,7 +82,6 @@ Glomerular damage (chronic) → Proteinuria → Progression to ESRD
 | **3b** | 30-44 | Moderate | Consider restriction |
 | **4-5** | <30 | **Strong** | Recommended (0.6-0.8 g/kg) |
 
----
 
 ## Current Guidelines
 
@@ -109,7 +103,6 @@ Glomerular damage (chronic) → Proteinuria → Progression to ESRD
 - Emphasis on quality (high biological value)
 - Regular monitoring essential
 
----
 
 ## Critical Limitations of Current Evidence
 
@@ -140,7 +133,6 @@ Glomerular damage (chronic) → Proteinuria → Progression to ESRD
 - Source matters (acid load, amino acid profile)
 - Recent data favors plant protein for CKD
 
----
 
 ## Practical Clinical Application
 
@@ -168,7 +160,6 @@ Glomerular damage (chronic) → Proteinuria → Progression to ESRD
 - Muscle wasting
 - Functional decline
 
----
 
 ## Controversies and Evolving Views
 
@@ -191,7 +182,6 @@ Glomerular damage (chronic) → Proteinuria → Progression to ESRD
 - May be acceptable if metabolic syndrome/diabetes controlled
 - Lower carb context may modify risk
 
----
 
 ## Integration with Metabolic Health
 
@@ -200,7 +190,6 @@ Glomerular damage (chronic) → Proteinuria → Progression to ESRD
 - Very low protein + high carb may worsen metabolic syndrome
 - Individualized approach considering whole metabolic profile
 
----
 
 **Zettels extracted:** See associated zettels Z-001-0XXX through Z-001-0XXX
 **Status:** Complete
@@ -208,7 +197,4 @@ Glomerular damage (chronic) → Proteinuria → Progression to ESRD
 
 **Source:** CGPT-0370 — Protein and Kidney Disease
 
----
 
----
-parent-index: [[02-Literature]]

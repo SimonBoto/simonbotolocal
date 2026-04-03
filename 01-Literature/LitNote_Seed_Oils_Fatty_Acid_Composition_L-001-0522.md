@@ -1,17 +1,15 @@
----
 uid: L-001-0522
-type: lit-note
+type: litnote
 title: Seed Oils — Fatty Acid Composition and Metabolic Fate
 authors: ChatGPT synthesis from CGPT-0281, CGPT-0282, CGPT-0340
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Critical — Foundational knowledge for lipid metabolism and metabolic disease
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-06
 domain: 001
----
 
 # Seed Oils — Fatty Acid Composition and Metabolic Fate
 
@@ -23,7 +21,6 @@ domain: 001
 - **Dates:** September 2024, June 2024
 - **Scope:** Comprehensive fatty acid analysis, metabolic pathways, health implications
 
----
 
 ## Core Concepts Extracted
 
@@ -42,7 +39,6 @@ domain: 001
 | **Canola** | 20-25% | 55-60% | 7% | ~2:1 |
 | **Olive** | 10% | 70-75% | 15% | ~10:1 |
 
----
 
 ### 2. Linoleic Acid Metabolic Fate — The Delta-6 Desaturase Bottleneck
 > "Excessive intake of omega-6 fatty acids can lead to an imbalance in the omega-6 to omega-3 ratio, promoting the synthesis of pro-inflammatory eicosanoids."
@@ -68,7 +64,6 @@ Pro-inflammatory eicosanoids (PGE2, LTB4, TXA2)
 - Reduced conversion of ALA (omega-3) to EPA/DHA
 - Result: Pro-inflammatory AA-derived products dominate
 
----
 
 ### 3. Tissue Incorporation and Membrane Composition
 **Zettel extracted:** [[Omega_6_Tissue_Incorporation_Membrane_Fluidity_Z-001-0947]
@@ -84,7 +79,6 @@ Pro-inflammatory eicosanoids (PGE2, LTB4, TXA2)
 - Increased susceptibility to lipid peroxidation
 - Endothelial dysfunction → Atherosclerosis risk
 
----
 
 ### 4. Omega-6 to Omega-3 Ratio — Evolutionary Context
 **Zettel extracted:** [[Omega_6_Omega_3_Ratio_Evolutionary_Context_Z-001-0948]
@@ -102,7 +96,6 @@ Pro-inflammatory eicosanoids (PGE2, LTB4, TXA2)
 - 5:1: Positive outcomes in asthma
 - 10:1: Upper limit of metabolic safety
 
----
 
 ### 5. Cardiolipin and Mitochondrial Function
 **Zettel extracted:** [[Cardiolipin_Omega_6_Mitochondrial_Dysfunction_Z-001-0949]
@@ -114,7 +107,6 @@ Pro-inflammatory eicosanoids (PGE2, LTB4, TXA2)
 - Oxidized cardiolipin → Cytochrome c release → Apoptosis
 - Result: Mitochondrial dysfunction, insulin resistance
 
----
 
 ## Integration Notes
 
@@ -127,13 +119,9 @@ Pro-inflammatory eicosanoids (PGE2, LTB4, TXA2)
 - Patient counseling: Oil selection guidance
 - Research design: Tissue fatty acid analysis
 
----
 
 **Zettels extracted:** 5 (Z-001-0945 through Z-001-0949)
 **Status:** Complete
 **Next:** LitNote 2 — Mechanisms of Metabolic Disruption
 
----
 
----
-parent-index: [[02-Literature]]
