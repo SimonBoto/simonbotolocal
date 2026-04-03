@@ -1,6 +1,5 @@
----
 uid: L-001-0045H
-type: lit-note
+type: litnote
 title: "Oxaloacetate and Gluconeogenesis: The Anti-Ketogenic Switch"
 aliases:
   - L-001-0045H
@@ -18,7 +17,6 @@ extraction-date: 2026-03-04
 status: extracted
 parent-moc:
   - - MOC-Gluconeogenesis
----
 
 # Oxaloacetate and Gluconeogenesis
 
@@ -27,7 +25,6 @@ parent-moc:
 > **Messages:** 53-56  
 > **Focus:** Oxaloacetate role, gluconeogenesis, Krebs cycle integration
 
----
 
 ## Oxaloacetate: The Critical Junction
 
@@ -48,7 +45,6 @@ parent-moc:
 - Bypasses irreversible pyruvate kinase step
 - Essential for glucose synthesis
 
----
 
 ## The Oxaloacetate-Ketogenesis Connection
 
@@ -71,7 +67,6 @@ parent-moc:
 - Oxaloacetate is separate pathway
 - However, OAA availability **indirectly influences** ketogenesis by determining acetyl-CoA fate
 
----
 
 ## Gluconeogenesis from Oxaloacetate
 
@@ -110,7 +105,6 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 - **Induced by:** Glucagon, cortisol, fasting
 - **Repressed by:** Insulin
 
----
 
 ## Regulation of Gluconeogenesis
 
@@ -134,7 +128,6 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 - 4 ATP + 2 GTP per glucose (from lactate)
 - Must be tightly regulated
 
----
 
 ## Anaplerosis: Replenishing OAA
 
@@ -154,7 +147,6 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 - Activated by acetyl-CoA
 - Key anaplerotic enzyme
 
----
 
 ## Clinical Relevance
 
@@ -171,7 +163,6 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 - **Reduced gluconeogenesis:** Ketones spare glucose
 - **Preserved:** Minimum needed for obligate glucose users (RBCs, brain partially)
 
----
 
 ## Zettels Extracted
 
@@ -181,7 +172,6 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 - [[PEPCK_Gluconeogenic_Regulation_Z-001-0491]] PEPCK and Gluconeogenic Regulation
 - [[Anaplerosis_Replenishing_Krebs_Cycle_Z-001-0492]] Anaplerosis: Replenishing Krebs Cycle
 
----
 
 ## Connections
 
@@ -191,11 +181,7 @@ Oxaloacetate + GTP → Phosphoenolpyruvate + GDP + CO₂
 - 
 - 
 
----
 
 *Extracted: 2026-03-04 | Batch 3 of 5 from CGPT-0445*
 
----
 
----
-parent-index: [[02-Literature]]

@@ -1,18 +1,16 @@
----
 uid: L-001-0507
-type: lit-note
+type: litnote
 title: "Lit — Urine Organic Acid Test Interpretation — Krebs Cycle Markers (Clinical Metabolomics for Mitochondrial Dysfunction)"
 authors: ChatGPT synthesis from CGPT-0393
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Critical — Clinical application of organic acid testing for mitochondrial dysfunction diagnosis and nutrient-targeted therapy
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
 source-file-location: /03-Zettels/ChatGPT_Archive/metabolomics/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393].md
 source-verified: 2026-03-01
----
 
 # Lit: Urine Organic Acid Test Interpretation — Krebs Cycle Markers
 
@@ -21,7 +19,6 @@ source-verified: 2026-03-01
 - **Date:** May 15, 2024
 - **Scope:** Clinical case of elevated Krebs cycle metabolites, nutrient deficiency analysis, targeted supplementation
 
----
 
 ## Core Concepts Extracted
 
@@ -202,7 +199,6 @@ General mitochondrial dysfunction → CoQ10 deficiency
 
 **Zettels extracted:** [[Organic_Acid_METHAP_Integration_Z-001-0540]
 
----
 
 ## Key Figures & Data
 - **Mg²⁺:** Cofactor for 6+ Krebs cycle enzymes
@@ -211,7 +207,6 @@ General mitochondrial dysfunction → CoQ10 deficiency
 - **B-vitamins:** Required for all PDH, KGDH, and multiple dehydrogenases
 - **Retesting:** 6-8 weeks post-intervention
 
----
 
 ## My Notes
 
@@ -224,7 +219,6 @@ General mitochondrial dysfunction → CoQ10 deficiency
 - **Synergy:** Builds on existing Mg, B-vitamin, D/K2 protocol
 - **Research:** Potential outcome measure for metabolic improvement
 
----
 
 ## Zettels Created from This Source (Batch 1/4)
 1. [[Urine_Organic_Acid_Krebs_Cycle_Markers_Z-001-0537]
@@ -232,11 +226,7 @@ General mitochondrial dysfunction → CoQ10 deficiency
 3. [[Mitochondrial_Supplementation_Protocol_Z-001-0539]
 4. [[Organic_Acid_METHAP_Integration_Z-001-0540]
 
----
 
 *Batch 1 complete. Continue to Batch 2: Aconitase Enzyme?* ⛏️
 
----
 
----
-parent-index: [[02-Literature]]

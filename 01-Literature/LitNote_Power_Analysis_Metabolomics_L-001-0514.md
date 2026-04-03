@@ -1,6 +1,5 @@
----
 uid: L-001-0514
-type: lit-note
+type: litnote
 title: Power Analysis and Sample Size Requirements in Metabolomics Studies
 authors: ChatGPT Analysis
 year: 2024
@@ -8,7 +7,7 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Essential for PhD trial design and METHAP methodology
 aliases: [L-001-0514, Metabolomics Power Analysis, Sample Size Calculation, High-Dimensional Data]
 domain: 001
@@ -17,7 +16,6 @@ source: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-02
----
 
 # Power Analysis and Sample Size Requirements in Metabolomics Studies
 
@@ -25,7 +23,6 @@ extraction-date: 2026-03-02
 > **Case Study:** Gastric cancer metabolomics study (57 subjects, ~3000 metabolites)  
 > **Critical Finding:** Study underpowered by 20-100× for detecting meaningful effects
 
----
 
 ## 1. The Power Analysis Problem in High-Dimensional Omics
 
@@ -44,7 +41,6 @@ extraction-date: 2026-03-02
 
 **Conclusion:** The study was severely underpowered, making any "significant" findings highly suspect.
 
----
 
 ## 2. Why Metabolomics Requires Large Sample Sizes
 
@@ -77,7 +73,6 @@ With small samples:
 - Multiple metabolites affected modestly
 - Large single-metabolite effects uncommon
 
----
 
 ## 3. Calculating Required Sample Size
 
@@ -118,7 +113,6 @@ Where:
 - n = 7.84 × 3 / 0.16
 - **n = 147 per group**
 
----
 
 ## 4. The Underpowered Study Consequences
 
@@ -152,7 +146,6 @@ Where:
 - Subsequent studies show "decline effect"
 - Literature becomes unreliable
 
----
 
 ## 5. Practical Solutions for PhD Studies
 
@@ -218,7 +211,6 @@ Confirm findings
    - Standardize protocols
    - Reach adequate power
 
----
 
 ## 6. Reporting Standards for Power
 
@@ -240,7 +232,6 @@ Confirm findings
 
 > "This exploratory study was not powered for definitive conclusions due to limited sample availability (n=15/group vs. required n=200). Findings should be considered hypothesis-generating and require validation."
 
----
 
 ## 7. METHAP Application
 
@@ -264,7 +255,6 @@ Confirm findings
 - ✅ Phased discovery/validation approach
 - ✅ Transparent reporting of limitations
 
----
 
 ## Zettels Created
 
@@ -272,7 +262,6 @@ Confirm findings
 2. [[Underpowered_Study_Consequences_Z-001-0929]
 3. [[Sample_Size_Strategies_PhD_Z-001-0930]
 
----
 
 ## References
 
@@ -280,11 +269,7 @@ Confirm findings
 - Case study: Gastric cancer metabolomics (n=57, 3000 metabolites)
 - Domain: , 
 
----
 
 *Last reviewed: 2026-03-02*  
 *Status: extracted — review in 30 days*
----
 
----
-parent-index: [[02-Literature]]

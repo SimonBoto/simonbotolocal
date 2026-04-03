@@ -1,6 +1,5 @@
----
 uid: L-001-0615
-type: lit-note
+type: litnote
 title: PhD Study Design and Methodology METHAP Trial
 authors: ChatGPT Analysis (CGPT-0475)
 year: 2024
@@ -8,12 +7,11 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: Critical — RCT structure, inclusion criteria, intervention protocol, timeline for PhD research on metabolic biomarkers and insulin resistance
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-08
----
 
 # Lit: ChatGPT 2024 — PhD Study Design and Methodology: METHAP Trial
 
@@ -72,13 +70,9 @@ Shift in metabolic biomarkers (urine OA, plasma TFA) from insulin-resistant patt
 - 
 - 
 
----
 
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 4*
 *Status: extracted*
 
----
 
----
-parent-index: [[02-Literature]]

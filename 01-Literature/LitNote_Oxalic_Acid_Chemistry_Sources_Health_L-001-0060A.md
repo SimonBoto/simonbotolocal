@@ -1,14 +1,12 @@
----
 uid: L-001-0060A
-type: lit-note
+type: litnote
 title: "Oxalic Acid: Chemistry, Dietary Sources, and Health Implications"
 authors: ChatGPT CGPT-0413
 year: 2024
 relevance: High — PhD marker, oxalate biochemistry, kidney stone pathophysiology
-status: complete
+status: extracted
 parent-moc: 
 extraction-date: 2026-03-04
----
 
 # Lit: Oxalic Acid — Chemistry, Sources, and Health
 
@@ -18,7 +16,6 @@ extraction-date: 2026-03-04
 - **Messages:** 67 (subset: oxalic acid focus)
 - **Archive:** [[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]
 
----
 
 ## Core Concepts
 
@@ -94,7 +91,6 @@ extraction-date: 2026-03-04
 - **Hydroxyproline** (from collagen) → glyoxylate → oxalate
 - Vitamin C (ascorbate) → oxalate (secondary pathway)
 
----
 
 ## My Notes
 
@@ -108,7 +104,6 @@ extraction-date: 2026-03-04
 - Mineral absorption optimization — oxalate-calcium interactions
 - High-dose vitamin C safety — oxalate production consideration
 
----
 
 ## Zettels Created from This Source
 
@@ -120,12 +115,8 @@ extraction-date: 2026-03-04
 6. [[Hydroxyproline_Collagen_Oxalate_Production_Z-001-0606]
 7. [[Vitamin_C_to_Oxalate_Conversion_Z-001-0607]
 
----
 
 *LitNote A: Oxalic acid focus — 7 zettels*
 *Processed: 2026-03-04*
 
----
 
----
-parent-index: [[02-Literature]]

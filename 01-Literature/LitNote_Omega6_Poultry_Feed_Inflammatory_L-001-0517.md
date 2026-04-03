@@ -1,6 +1,5 @@
----
 uid: L-001-0517
-type: lit-note
+type: litnote
 title: Omega-6 Fatty Acids in Poultry — Feed Dependence and Inflammatory Potential
 authors: ChatGPT Analysis
 year: 2025
@@ -8,7 +7,7 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: Medium — Practical nutrition guidance for patient counseling on food quality
 aliases: [L-001-0517, Chicken Fatty Acids, Egg Omega-6, Poultry Nutrition, Feed Quality]
 domain: 001
@@ -17,7 +16,6 @@ source: "[[CGPT_0141_Omega_6_in_Chicken_Fat_CGPT-0141]]"
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-03
----
 
 # Omega-6 Fatty Acids in Poultry — Feed Dependence and Inflammatory Potential
 
@@ -25,7 +23,6 @@ extraction-date: 2026-03-03
 > **Key Theme:** Dietary feed composition dramatically alters poultry fatty acid profiles  
 > **Clinical Relevance:** Food sourcing affects patient omega-6:3 ratio and inflammatory potential
 
----
 
 ## Core Concepts Extracted
 
@@ -110,7 +107,6 @@ extraction-date: 2026-03-03
 
 **Zettels extracted:** [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]
 
----
 
 ## Key Figures & Data
 
@@ -127,7 +123,6 @@ extraction-date: 2026-03-03
 | Omega-3 enriched | 15-18% | Reduced | 3-4:1 |
 | Pasture-raised | Variable | Variable | ~5:1 |
 
----
 
 ## My Notes
 
@@ -148,7 +143,6 @@ extraction-date: 2026-03-03
 **Practical Application:**
 For patients with inflammatory conditions (MetS, autoimmune, chronic pain), the ~15:1 omega-6:3 ratio from conventional chicken represents a significant inflammatory load. Switching to pasture-raised (5:1) or omega-3 enriched eggs (3-4:1) provides a simple dietary intervention with measurable biochemical impact.
 
----
 
 ## Zettels Created from This Source
 1. [[Corn_Fed_Chicken_Omega6_Fatty_Acid_Profile_Z-001-0562]] — Conventional poultry fatty acid composition
@@ -156,7 +150,6 @@ For patients with inflammatory conditions (MetS, autoimmune, chronic pain), the 
 3. [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]] — Inflammation biochemistry
 4. [[Poultry_Fatty_Acid_Measurements_Reference_Z-001-0565]] — Reference measurements table
 
----
 
 ## Related References
 -  — Parent MOC for fatty acid balance
@@ -164,12 +157,8 @@ For patients with inflammatory conditions (MetS, autoimmune, chronic pain), the 
 - [[LitNote_Seed_Oils_Omega6_Omega3_Ratio_L-001-0503] — Broader omega-6:3 context
 -  — General omega-6:3 balance (if exists)
 
----
 
 *Literature note processed: 2026-03-03*  
 *Zettels extracted: 4*  
 *Status: extracted*
----
 
----
-parent-index: [[02-Literature]]

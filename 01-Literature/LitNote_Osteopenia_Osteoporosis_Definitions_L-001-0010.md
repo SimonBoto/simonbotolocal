@@ -1,16 +1,14 @@
----
 uid: L-001-0010
-type: lit-note
+type: litnote
 title: Lit — Osteopenia vs Osteoporosis Definitions and Diagnosis
 authors: ChatGPT synthesis from clinical review (CGPT-0133)
 year: 2025
 journal: Internal clinical synthesis
-tier: 2
+tier: SILVER
 relevance: High — Foundational for bone health clinical assessment
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
----
 
 # Lit: Osteopenia vs Osteoporosis — DXA, T-Scores, and Fracture Risk
 
@@ -19,7 +17,6 @@ extraction-date: 2026-03-01
 - **Date:** March 07, 2025
 - **Scope:** Diagnostic criteria, classification, and clinical significance of bone mineral density disorders
 
----
 
 ## Core Concepts Extracted
 
@@ -43,7 +40,6 @@ extraction-date: 2026-03-01
 
 **Zettel extracted:** [[FRAX_Fracture_Risk_Assessment_Tool_Z-001-0079]
 
----
 
 ## Key Figures & Data
 - **Osteopenia:** T-score -1.0 to -2.5
@@ -51,7 +47,6 @@ extraction-date: 2026-03-01
 - **Global impact:** 1 in 3 women, 1 in 5 men over 50 affected
 - **Gold standard:** DXA (dual-energy X-ray absorptiometry)
 
----
 
 ## My Notes
 
@@ -63,7 +58,6 @@ extraction-date: 2026-03-01
 - How does adipic acid correlate with bone turnover markers?
 - Can metabolomics predict fracture risk independent of BMD?
 
----
 
 ## Zettels Created from This Source
 1. [[Osteopenia_T_score_Definition_Minus_1_to_2.5_Z-001-0076]
@@ -77,13 +71,9 @@ extraction-date: 2026-03-01
 - [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]] — Nutritional interventions
 -  — Parent MOC
 
----
 
 *Literature note processed: 2026-03-01*  
 *Zettels extracted: 4*  
 *Status: extracted*
 
----
 
----
-parent-index: [[02-Literature]]

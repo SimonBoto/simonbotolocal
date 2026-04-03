@@ -1,15 +1,13 @@
----
 uid: L-001-0060
-type: lit-note
+type: litnote
 title: "Oxalic Acid: Chemistry, Dietary Sources, and Metabolic Connections"
 authors: ChatGPT CGPT-0413
 year: 2024
 journal: ChatGPT Archive
 relevance: High — PhD marker for adipic acid metabolism, oxalate biochemistry
-status: complete
+status: extracted
 parent-moc: 
 extraction-date: 2026-03-04
----
 
 # Lit: Oxalic Acid — Chemistry, Sources, and Metabolism
 
@@ -19,7 +17,6 @@ extraction-date: 2026-03-04
 - **Messages:** 67
 - **Archive:** [[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]
 
----
 
 ## Core Concepts
 
@@ -107,7 +104,6 @@ extraction-date: 2026-03-04
 
 This is critical for understanding branched-chain amino acid metabolism.
 
----
 
 ## Key Figures & Data
 
@@ -126,7 +122,6 @@ This is critical for understanding branched-chain amino acid metabolism.
 - **Ketogenic:** Produce acetyl-CoA or acetoacetyl-CoA
 - **Both:** Produce both glucogenic and ketogenic intermediates
 
----
 
 ## My Notes
 
@@ -142,7 +137,6 @@ This is critical for understanding branched-chain amino acid metabolism.
 - How does adipic acid (hexanedioic) relate to oxalic (ethanedioic) metabolism?
 - Can we measure oxalate in urine organic acids as a metabolic marker?
 
----
 
 ## Zettels Created from This Source
 
@@ -159,27 +153,21 @@ This is critical for understanding branched-chain amino acid metabolism.
 9. [[Threonine_Metabolism_Glucogenic_Ketogenic_Z-001-0609]
 10. [[Primary_Hyperoxaluria_Genetic_Z-001-0610]
 
----
 
 ## Related References
 - [[L-001-0046A] — Amino Acids Entering Krebs Cycle (complementary table)
 -  — Parent MOC for amino acid pathways
 - [[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]] — Amino Acids to Succinyl-CoA (B12 criticality)
 
----
 
 *Literature note processed: 2026-03-04*  
 *Zettels extracted: [in progress]*  
 *Status: extracting*
 
----
 
 ## Post-Extraction Verification Checklist
 - [ ] All zettel links use FULL format
 - [ ] No bare UIDs
 - [ ] Concept count matches list
 
----
 
----
-parent-index: [[02-Literature]]

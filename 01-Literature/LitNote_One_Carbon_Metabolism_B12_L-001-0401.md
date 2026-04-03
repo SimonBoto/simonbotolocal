@@ -1,16 +1,14 @@
----
 uid: L-001-0401
-type: lit-note
+type: litnote
 title: "Lit — One-Carbon Metabolism and Vitamin B12 Biochemistry"
 authors: ChatGPT synthesis from Warburg Effect conversation (CGPT-0264)
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Critical — Foundation for methylation, DNA synthesis, METHAP cofactor understanding
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
----
 
 # Lit: One-Carbon Metabolism and Vitamin B12 Biochemistry
 
@@ -19,7 +17,6 @@ extraction-date: 2026-03-01
 - **Date:** October 27, 2024
 - **Scope:** One-carbon metabolism, folate cycle, B12 as cofactor, methyl group donation
 
----
 
 ## Core Concepts Extracted
 
@@ -127,7 +124,6 @@ Donates methyl group to B12 → Methionine synthesis
 
 **Zettels extracted:** [[B12_Deficiency_Manifestations_Z-001-0406]
 
----
 
 ## Zettels Created
 1. [[One_Carbon_Metabolism_Overview_Z-001-0401]
@@ -137,11 +133,7 @@ Donates methyl group to B12 → Methionine synthesis
 5. [[Homocysteine_Metabolism_Z-001-0405]
 6. [[B12_Deficiency_Manifestations_Z-001-0406]
 
----
 
 *Literature note processed: 2026-03-01*
 
----
 
----
-parent-index: [[02-Literature]]
