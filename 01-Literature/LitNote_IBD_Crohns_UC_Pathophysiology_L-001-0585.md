@@ -1,14 +1,15 @@
 ---
 uid: L-001-0585
-type: lit-note
+type: litnote
 title: Inflammatory Bowel Disease — Crohn's vs Ulcerative Colitis Pathophysiology
 authors: ChatGPT synthesis from CGPT-0209
 year: 2025
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Core GI pathology, IBD differential diagnosis
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Gastroenterology]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-07
 domain: 001
 ---
@@ -192,5 +193,4 @@ domain: 001
 
 ---
 
----
-parent-index: [[02-Literature]]
+

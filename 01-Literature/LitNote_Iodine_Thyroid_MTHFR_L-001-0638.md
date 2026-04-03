@@ -5,10 +5,11 @@ title: LitNote — Iodine, Thyroid, and MTHFR Support (CGPT-0199)
 authors: ChatGPT Analysis (CGPT-0199)
 year: 2025
 journal: ChatGPT Archive
-tier: 2
+tier: SILVER
 relevance: Critical — Iodine dosing, selenium synergy, MTHFR considerations, supplement interactions
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Thyroid]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-09
 ---
 
@@ -79,10 +80,10 @@ extraction-date: 2026-03-09
 **My Health:** High niacin, balanced B5/B6 for neurotransmitter support
 
 ## Zettels Created
-1. [[Iodine_Supplementation_Thyroid_Protocol_Z-001-1230]
-2. [[Selenium_Iodine_Synergy_Toxicity_Z-001-1231]
-3. [[MTHFR_Methylation_Support_Protocol_Z-001-1232]
-4. [[B_Complex_Ratios_Clinical_Analysis_Z-001-1233]
+1. [[Iodine_Supplementation_Thyroid_Protocol_Z-001-1230]]
+2. [[Selenium_Iodine_Synergy_Toxicity_Z-001-1231]]
+3. [[MTHFR_Methylation_Support_Protocol_Z-001-1232]]
+4. [[B_Complex_Ratios_Clinical_Analysis_Z-001-1233]]
 
 ## Related
 - 
@@ -92,5 +93,4 @@ extraction-date: 2026-03-09
 *Extracted: 2026-03-09*
 ---
 
----
-parent-index: [[02-Literature]]
+

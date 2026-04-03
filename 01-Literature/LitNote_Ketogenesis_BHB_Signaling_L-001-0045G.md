@@ -1,11 +1,11 @@
 ---
 uid: L-001-0045G
-type: lit-note
+type: litnote
 title: "Ketogenesis and BHB: Energy Substrate and Signaling Molecule"
 aliases:
   - L-001-0045G
   - CGPT-0445-Batch3-Ketogenesis
-domain: 1
+domain: 001
 tags:
   - litnote
   - ketogenesis
@@ -15,11 +15,12 @@ tags:
   - hdac
   - nlrp3
   - insulin-resistance
-source: "00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445"
+source: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 status: extracted
-parent-moc:
-  - - MOC-Ketogenesis
+tier: SILVER
+parent-moc: [[MOC-Ketogenesis]]
+parent-index: [[01-Literature]]
 ---
 
 # Ketogenesis and BHB: Energy and Signaling
@@ -209,8 +210,8 @@ Acetyl-CoA → Krebs cycle → ATP
 
 ## Connections
 
-- [[L-001-0045D] Triose Metabolism (acetyl-CoA source)
-- [[L-001-0045H] Oxaloacetate and Gluconeogenesis (competing pathway)
+- [[LitNote_Triose_Metabolism_Glycolysis_L-001-0045D]] Triose Metabolism (acetyl-CoA source)
+- [[LitNote_Oxaloacetate_Gluconeogenesis_L-001-0045H]] Oxaloacetate and Gluconeogenesis (competing pathway)
 - 
 -  (BHB therapeutic potential)
 
@@ -220,5 +221,4 @@ Acetyl-CoA → Krebs cycle → ATP
 
 ---
 
----
-parent-index: [[02-Literature]]
+

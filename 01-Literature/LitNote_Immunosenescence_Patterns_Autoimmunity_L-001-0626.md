@@ -1,6 +1,6 @@
 ---
 uid: L-001-0626
-type: lit-note
+type: litnote
 title: Immunosenescence Patterns in Autoimmune Diseases
 authors: ChatGPT Analysis / Georgin-Lavialle et al.
 year: 2023
@@ -8,14 +8,15 @@ journal: ChatGPT Archive / Autoimmunity Reviews
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 2
+tier: SILVER
 relevance: High — Premature aging of the immune system in autoimmunity
 aliases: [L-001-0626, Immune Aging, T-Cell Exhaustion, Naive T-Cell Depletion]
 domain: 001
 tags: [litnote, immunosenescence, t-cells, autoimmunity, aging, exhaustion]
 source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]]"
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Immunology]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-08
 ---
 
@@ -166,9 +167,9 @@ extraction-date: 2026-03-08
 
 **Related Zettels:**
 - [[Naive_TCell_Depletion_Autoimmunity_Z-001-1182]] — To create
-- [[CD28_Negative_TCells_Pathogenicity_Z-001-1183] — To create
-- [[TCR_Repertoire_Restriction_Z-001-1184] — To create
-- [[Premature_CVD_Autoimmunity_Z-001-1185] — To create
+- [[CD28_Negative_TCells_Pathogenicity_Z-001-1183]] — To create
+- [[TCR_Repertoire_Restriction_Z-001-1184]] — To create
+- [[Premature_CVD_Autoimmunity_Z-001-1185]] — To create
 
 **MOCs:**
 -  — Primary domain
@@ -194,5 +195,4 @@ extraction-date: 2026-03-08
 
 ---
 
----
-parent-index: [[02-Literature]]
+

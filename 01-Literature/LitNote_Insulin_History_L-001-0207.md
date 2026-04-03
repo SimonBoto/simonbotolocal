@@ -1,14 +1,15 @@
 ---
 uid: L-001-0207
-type: lit-note
+type: litnote
 title: "Lit — History of Insulin Discovery (1921-1923)"
 authors: ChatGPT synthesis from historical research (CGPT-0471)
 year: 2024
 journal: Historical clinical synthesis
-tier: 2
+tier: SILVER
 relevance: High — Foundational understanding of diabetes treatment; historical context for IR research
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Insulin-Signaling]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-01
 ---
 
@@ -43,7 +44,7 @@ extraction-date: 2026-03-01
 - Death from diabetic ketoacidosis (DKA) or complications
 - No effective therapy existed
 
-**Zettels extracted:** [[Pre_Insulin_Era_Starvation_Treatment_Z-001-0231]
+**Zettels extracted:** [[Pre_Insulin_Era_Starvation_Treatment_Z-001-0231]]
 
 ### 2. The Discovery — Banting and Best (1921)
 > "Insulin was first discovered in 1921 by Frederick Banting and Charles Best, two researchers at the University of Toronto."
@@ -65,7 +66,7 @@ extraction-date: 2026-03-01
 - Observed reduction in blood sugar
 - Proved the existence of an "anti-diabetic" substance
 
-**Zettels extracted:** [[Banting_Best_Discovery_1921_Z-001-0232]
+**Zettels extracted:** [[Banting_Best_Discovery_1921_Z-001-0232]]
 
 ### 3. Purification — James Collip's Critical Contribution
 > "Biochemist James Collip joined the team to refine the extract, which was initially impure and caused adverse reactions."
@@ -86,7 +87,7 @@ extraction-date: 2026-03-01
 - Often underappreciated in popular accounts
 - Critical for human trials
 
-**Zettels extracted:** [[James_Collip_Purification_Contribution_Z-001-0233]
+**Zettels extracted:** [[James_Collip_Purification_Contribution_Z-001-0233]]
 
 ### 4. First Human Treatment — Leonard Thompson (1922)
 > "The first successful administration of insulin to a human patient with diabetes was in 1922."
@@ -112,7 +113,7 @@ extraction-date: 2026-03-01
 - Marked beginning of effective diabetes treatment
 - News spread rapidly through medical community
 
-**Zettels extracted:** [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]
+**Zettels extracted:** [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]]
 
 ### 5. Naming and Mechanism
 > "The refined extract was called 'insulin,' from the Latin 'insula,' meaning island, referring to the insulin-producing Islets of Langerhans in the pancreas."
@@ -129,7 +130,7 @@ extraction-date: 2026-03-01
 - Inhibits hepatic glucose release
 - Essential for life
 
-**Zettels extracted:** [[Insulin_Naming_Islets_Langerhans_Z-001-0235]
+**Zettels extracted:** [[Insulin_Naming_Islets_Langerhans_Z-001-0235]]
 
 ### 6. Nobel Prize and Controversy (1923)
 > "This discovery earned Banting and John Macleod the Nobel Prize in Physiology or Medicine in 1923."
@@ -150,7 +151,7 @@ extraction-date: 2026-03-01
 - One of fastest Nobel awards (discovery to prize: 2 years)
 - Reflects immediate recognition of life-saving importance
 
-**Zettels extracted:** [[Nobel_Prize_1923_Controversy_Z-001-0236]
+**Zettels extracted:** [[Nobel_Prize_1923_Controversy_Z-001-0236]]
 
 ---
 
@@ -181,12 +182,12 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Pre_Insulin_Era_Starvation_Treatment_Z-001-0231]
-2. [[Banting_Best_Discovery_1921_Z-001-0232]
-3. [[James_Collip_Purification_Contribution_Z-001-0233]
-4. [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]
-5. [[Insulin_Naming_Islets_Langerhans_Z-001-0235]
-6. [[Nobel_Prize_1923_Controversy_Z-001-0236]
+1. [[Pre_Insulin_Era_Starvation_Treatment_Z-001-0231]]
+2. [[Banting_Best_Discovery_1921_Z-001-0232]]
+3. [[James_Collip_Purification_Contribution_Z-001-0233]]
+4. [[Leonard_Thompson_First_Human_Treatment_1922_Z-001-0234]]
+5. [[Insulin_Naming_Islets_Langerhans_Z-001-0235]]
+6. [[Nobel_Prize_1923_Controversy_Z-001-0236]]
 
 ## Related References
 - [[LitNote_IR_Mechanisms_Map_L-001-0005]] — Modern IR understanding
@@ -202,5 +203,4 @@ extraction-date: 2026-03-01
 
 ---
 
----
-parent-index: [[02-Literature]]
+

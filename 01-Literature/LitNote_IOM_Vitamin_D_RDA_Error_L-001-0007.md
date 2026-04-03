@@ -1,14 +1,15 @@
 ---
 uid: L-001-0007
-type: lit-note
+type: litnote
 title: Lit — IOM Vitamin D RDA Statistical Error
 authors: Veugelers, Ekwaru, IOM Committee (critiqued)
 year: 2010/2015
 journal: Institute of Medicine Report / Critiques in peer review
-tier: 1
+tier: GOLD
 relevance: High — 10x underestimation of vitamin D requirements affects global public health
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Vitamin-D]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-01
 ---
 
@@ -17,7 +18,7 @@ extraction-date: 2026-03-01
 ## Source
 - **Primary:** Institute of Medicine. (2010). Dietary Reference Intakes for Calcium and Vitamin D.
 - **Critique:** Veugelers, P.J., & Ekwaru, J.P. (2014). Statistical error. *Nutrients*.
-- **ChatGPT conversation:** [CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284] (lines 7-9)
+- **ChatGPT conversation:** [[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]] (lines 7-9)
 - **Scope:** Mathematical/statistical error in calculating RDA led to 10x underestimation
 
 ---
@@ -69,10 +70,10 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[IOM_Mean_vs_97th_Percentile_Error_Z-001-0058]
-2. [[Vitamin_D_RDA_10x_Underestimation_Z-001-0059]
-3. [[IOM_Defensive_Response_to_Critique_Z-001-0060]
-4. [[Endocrine_Society_vs_IOM_Guidelines_Z-001-0061]
+1. [[IOM_Mean_vs_97th_Percentile_Error_Z-001-0058]]
+2. [[Vitamin_D_RDA_10x_Underestimation_Z-001-0059]]
+3. [[IOM_Defensive_Response_to_Critique_Z-001-0060]]
+4. [[Endocrine_Society_vs_IOM_Guidelines_Z-001-0061]]
 
 ## Related References
 - [[LitNote_Historical_Vitamin_D_Toxicity_Misconceptions_L-001-0006]] — Related safety fears
@@ -89,5 +90,4 @@ extraction-date: 2026-03-01
 
 ---
 
----
-parent-index: [[02-Literature]]
+

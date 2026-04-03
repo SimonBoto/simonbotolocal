@@ -1,6 +1,6 @@
 ---
 uid: L-001-0519
-type: lit-note
+type: litnote
 title: Isoprenoids and Cholesterol-Derived Biomolecules — Steroids, Vitamins, and Cell Signals
 authors: ChatGPT Analysis
 year: 2024
@@ -8,14 +8,15 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — Diverse products from mevalonate pathway, clinical significance
 aliases: [L-001-0519, Isoprenoids, Terpenes, Steroid Hormones, CoQ10, Vitamin D Synthesis]
 domain: 001
 tags: [litnote, isoprenoids, terpenes, steroids, coq10, vitamin-d, bile-acids, cholesterol-derivatives]
 source: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Cholesterol-Metabolism]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-03
 ---
 
@@ -243,5 +244,4 @@ The "statin side effect" conversation must include:
 *Status: extracted*
 ---
 
----
-parent-index: [[02-Literature]]
+

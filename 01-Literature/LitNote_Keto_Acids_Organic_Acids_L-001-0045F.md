@@ -1,11 +1,11 @@
 ---
 uid: L-001-0045F
-type: lit-note
+type: litnote
 title: "Keto Acids and Organic Acids: Pyruvate, Propionate, and Metabolic Integration"
 aliases:
   - L-001-0045F
   - CGPT-0445-Batch2-Acids
-domain: 1
+domain: 001
 tags:
   - litnote
   - keto-acids
@@ -14,11 +14,12 @@ tags:
   - propionate
   - gluconeogenesis
   - b12
-source: "00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445"
+source: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 extraction-date: 2026-03-04
 status: extracted
-parent-moc:
-  - - MOC-Glycolysis-PPP
+tier: SILVER
+parent-moc: [[MOC-Glycolysis-PPP]]
+parent-index: [[01-Literature]]
 ---
 
 # Keto Acids and Organic Acids
@@ -200,9 +201,9 @@ Pyruvate → Oxaloacetate → Glucose
 
 ## Connections
 
-- [[L-001-0045D] Triose Metabolism (pyruvate from glycolysis)
-- [[L-001-0045E] Glucose vs Fructose (aldose/ketose foundation)
-- [[L-001-0046A] Krebs Cycle Amino Acid Entry (succinyl-CoA link)
+- [[LitNote_Triose_Metabolism_Glycolysis_L-001-0045D]] Triose Metabolism (pyruvate from glycolysis)
+- [[LitNote_Glucose_vs_Fructose_Aldose_Ketose_L-001-0045E]] Glucose vs Fructose (aldose/ketose foundation)
+- [[LitNote_Krebs_Cycle_Amino_Acid_Entry_L-001-0046A]] Krebs Cycle Amino Acid Entry (succinyl-CoA link)
 - 
 - 
 
@@ -212,5 +213,4 @@ Pyruvate → Oxaloacetate → Glucose
 
 ---
 
----
-parent-index: [[02-Literature]]
+
