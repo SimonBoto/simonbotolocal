@@ -1,92 +1,82 @@
 ---
-uid: "{{T}}-{{DDD}}-{{SSSS}}"
-type: "zettel | zettel-claim | zettel-mech | zettel-cont | zettel-q"
-title: "{{Concise Title}}"
-aliases: ["{{ShortSlug}}"]  # Never use bare UID here - creates shadow notes
-domain: "{{DDD}}"
-domain-name: "{{DomainName}}"
-tags: ["zettel", "{{topic}}", "{{subtopic}}"]
-# Structural links (for navigation - digital necessity)
-parent-index: "[[03-Zettels-Conscious]]"
-# Semantic links (for thinking - Luhmann-style)
-parent-moc: "[[MOC-Metabolomics-Training]]"
-related: []  # Add 2-3 lateral connections during review
-source-litnote: "{{LitNote_Title}}_{{L-XXX-XXXX}}"
-fleeting-origin: ""  # Link to originating Fleeting note (if applicable)
-confidence: "high | medium | low"
-created: "{{YYYY-MM-DD}}"
-extraction-date: "{{YYYY-MM-DD}}"
+uid: TEMPLATE-ZET-003
+type: template
+title: "Template — Zettel (Unified)"
+description: "Single zettel template for all atomic knowledge"
+version: "2.0"
 ---
 
-# {{Title}}
+<!--
+PRE-FLIGHT CHECKLIST:
+- [ ] parent-moc exists: ls 08-Structure/MOCs/MOC-*.md | grep {{MOC}}
+- [ ] source-litnote uses full filename
+- [ ] All [[links]] have closing ]]
+- [ ] No bare UIDs: [[Z-001-0001]] → [[Title_Z-001-0001]]
+- [ ] VERIFY BEFORE LINKING: ls 03-Zettels/Conscious/{{filename}}.md
 
-{{Single idea, 50-200 words, written as if for print. No context required.}}
+CRITICAL: NEVER create links to imaginary notes. Shadow notes pollute the vault.
+-->
+
+---
+uid: "{{Z-XXX-XXXX}}"
+type: zettel
+title: "{{Atomic Claim}}"
+aliases: ["{{ShortSlug}}"]
+domain: "{{001|101|XXX}}"
+tags: [zettel, "{{topic}}"]
+parent-index: "[[03-Zettels-Conscious]]"
+parent-moc: "[[MOC-Example]]"  # ⚠️ VERIFY exists
+source-litnote: "[[Lit_{{Title}}_{{L-XXX-XXXX}}]]"  # If from LitNote
+reference: "[[{{Author}}_{{Year}}_R-XXX-XXXX]]"  # Primary evidence
+confidence: high
+created: "{{YYYY-MM-DD}}"
+extraction-date: "{{YYYY-MM-DD}}"
+status: conscious
+---
+
+# {{Atomic Claim}}
+
+{{Single idea, 50-200 words. Written as if for print. No context required.}}
 
 {{Key details: bullets, mini-table, or key-value pairs}}
 
-## Links — Two Types (Digital Zettelkasten)
+## Evidence
+> "{{Direct quote}}" ([[{{Author}}_{{Year}}_R-XXX-XXXX|{{Author, Year}}]])
 
-### 1. Structural Links (Navigation)
-**Purpose:** Findability in digital space  
-**Style:** Hierarchical, folder-based  
-**Examples:**
-- `parent-index: [[03-Zettels-Conscious]]` — container
-- `parent-moc: [[MOC-Insulin-Signaling]]` — thematic entry point
-
-### 2. Semantic Links (Thinking)
-**Purpose:** Lateral thinking, serendipity  
-**Style:** Content-based, Luhmann-style  
-**Examples:**
-- Content: "This connects to [[Adipic_Acid_Early_IR_Biomarker_Z-001-0041]]" — idea connection
-- Inline: "This contrasts with [[Lipotoxicity_Pathway_IR_Z-001-0029]]"
-
-**CRITICAL RULE:**
-Bare UIDs like `[[Z-001-0041]` create empty notes. Always use full format: `Title_Z-001-0041`
-
-**Verification:** `grep -r '\[\[Z-[0-9]\{4\}-[0-9]\{4\}\]\]' 03-Zettels/` should return nothing.
-
-## Related Zettels (Lateral Connections — Luhmann-Style)
-
-**Goal:** 2-3 lateral connections to *content-related* notes (not hierarchical)
-
-- {{Related_Zettel_1_Z-XXX-XXXX}} — {{Connection: how ideas relate}}
-- {{Related_Zettel_2_Z-XXX-XXXX}} — {{Connection: contrast or support}}
-
-**Principle:** These create the "thinking graph" — serendipity through connection
-
-## Synthesis Links
-
-- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}]] — {{How this zettel contributes}}
+{{Or: Data/findings with citation}}
 
 ## Context
-
-**Also relevant to:**  (optional)
-
-**Emerges from:** 
-**Supports:**  or 
+{{Why this matters — clinical or research significance}}
 
 ---
 
-*UID: {{UID}} | Domain: {{DDD}} | Created: {{YYYY-MM-DD}}*
+## Links — Two Types
+
+### Structural (Navigation)
+- **Up:** [[MOC-Example]] — Thematic entry (⚠️ VERIFY exists)
+- **Source:** [[Lit_{{Title}}_{{L-XXX-XXXX}}]] — Origin (if applicable)
+- **Reference:** [[{{Author}}_{{Year}}_R-XXX-XXXX]] — Evidence
+- **Index:** [[03-Zettels-Conscious]] — Container
+
+### Semantic (Thinking)
+<!-- Add 2-3 during 30-day review — NOT at creation -->
+<!-- - [[Related_Zettel_Z-XXX-XXXX]] — Connection description -->
 
 ---
 
-## Naming Discipline (v2.2 Protocol)
+## Synthesis Links
+- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}]] — {{How this contributes}}
 
-**MANDATORY:** `Title_Z-001-0041.md` (no brackets)
-- **T:** Type (Z=zettel, S=synthesis, L=LitNote)
+---
+
+*Z-XXX-XXXX | Created: {{YYYY-MM-DD}} | Domain: {{001|101}} | Status: conscious*
+
+---
+
+## Naming Discipline
+**MANDATORY:** `Title_Z-001-0041.md` (no brackets in filename)
+- **T:** Type (Z=zettel, S=synthesis, L=LitNote, B=biomarker, R=reference)
 - **DDD:** Domain (001=Insulin, 101=Pharmacometabolomics)
 - **SSSS:** Sequence (0001, 0002...)
 
-**Continuity guaranteed through:**
-1. UID uniqueness (no duplicates)
-2. Searchable naming (find instantly)
-3. Contextual linking (graph grows organically)
-
----
-
-## Status Footer (NOT in YAML)
-
-Status: conscious | Reviewed: {{YYYY-MM-DD}} | Promoted to Subconscious: {{YYYY-MM-DD}}
----
-parent-index: [[08 Structure Index]], [[Templates Index]]
+**Verification:** `grep -r '\[\[Z-[0-9]\{4\}-[0-9]\{4\}\]\]' this_file.md` should return nothing.
