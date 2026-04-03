@@ -1,21 +1,22 @@
 ---
 uid: L-001-0201d
-type: lit-note
+type: litnote
 title: "Lit — Magnesium Supplementation (Forms, Dosing, Sources, Monitoring)"
 authors: ChatGPT synthesis from narrative review planning (CGPT-0272)
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Critical — METHAP protocol implementation; practical dosing guidance
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Magnesium]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-01
 ---
 
 # Lit: Magnesium Supplementation — Practical Clinical Guide
 
 ## Source
-- **ChatGPT conversation:** 00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]
+- **ChatGPT conversation:** [[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]
 - **Date:** October 09, 2024
 - **Scope:** Chapter 5.4 — Practical recommendations on magnesium intake levels, sources, and clinical implementation
 
@@ -180,10 +181,10 @@ extraction-date: 2026-03-01
 ---
 
 ## Zettels Created from This Source
-1. [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]
-2. [[Magnesium_Forms_Bioavailability_Selection_Z-001-0220]
-3. [[Magnesium_Dietary_Sources_Nutrition_Z-001-0221]
-4. [[Magnesium_Monitoring_Safety_Side_Effects_Z-001-0222]
+1. [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]]
+2. [[Magnesium_Forms_Bioavailability_Selection_Z-001-0220]]
+3. [[Magnesium_Dietary_Sources_Nutrition_Z-001-0221]]
+4. [[Magnesium_Monitoring_Safety_Side_Effects_Z-001-0222]]
 
 ## Related References
 - [[LitNote_Magnesium_Biochemistry_L-001-0201a]] — Mechanisms
@@ -200,5 +201,4 @@ extraction-date: 2026-03-01
 
 ---
 
----
-parent-index: [[02-Literature]]
+

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0602
-type: lit-note
+type: litnote
 title: Ketone Body Biochemistry and Clinical Applications
 authors: ChatGPT Analysis (CGPT-0445)
 year: 2024
@@ -8,17 +8,18 @@ journal: ChatGPT Archive
 doi: N/A
 pmid: N/A
 pmcid: N/A
-tier: 3
+tier: BRONZE
 relevance: High — BHB, acetoacetate, acetone, ketogenesis, therapeutic ketosis, neurological applications
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Ketogenesis]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-08
 ---
 
 # Lit: ChatGPT 2024 — Ketone Body Biochemistry and Clinical Applications
 
 ## Source
-- **ChatGPT conversation:** 00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]
+- **ChatGPT conversation:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Date:** March 25, 2024
 
 ## Core Concepts Extracted
@@ -26,22 +27,22 @@ extraction-date: 2026-03-08
 ### 1. The Three Ketone Bodies
 > "Acetoacetate, beta-hydroxybutyrate (BHB), and acetone—the metabolic products of fatty acid oxidation in the liver."
 
-**Zettel extracted:** [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_Z-001-1093]
+**Zettel extracted:** [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_Z-001-1093]]
 
 ### 2. Ketogenesis Mechanism
 > "Ketogenesis occurs in liver mitochondria when acetyl-CoA accumulates beyond TCA cycle capacity."
 
-**Zettel extracted:** [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]
+**Zettel extracted:** [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
 
 ### 3. BHB: Not Technically a Ketone
 > "Beta-hydroxybutyrate is a hydroxyacid, not a true ketone, but functions as the primary circulating ketone body."
 
-**Zettel extracted:** [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]
+**Zettel extracted:** [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]]
 
 ### 4. Therapeutic Ketosis
 > "Ketogenic diets used for epilepsy, neurodegenerative diseases, metabolic disorders."
 
-**Zettel extracted:** [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]
+**Zettel extracted:** [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
 
 ## The Ketone Body Hierarchy
 
@@ -69,15 +70,15 @@ Fatty acids → Acetyl-CoA → Acetoacetate (primary ketone)
 **Connection to METHAP/PhD:** Ketone metabolism directly connects to insulin resistance research; impaired ketone utilization seen in metabolic syndrome.
 
 ## Zettels Created from This Source
-1. [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_Z-001-1093]
-2. [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]
-3. [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]
-4. [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]
+1. [[Three_Ketone_Bodies_Acetoacetate_BHB_Acetone_Z-001-1093]]
+2. [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]]
+3. [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]]
+4. [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]]
 
 ## Related References
 - 
-- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]
-- [[Ketosis_Metabolic_Flexibility_Clinical_Z-001-1057]
+- [[Beta_Oxidation_Clinical_Mechanisms_Z-001-1054]]
+- [[Ketosis_Metabolic_Flexibility_Clinical_Z-001-1057]]
 
 ---
 
@@ -87,5 +88,4 @@ Fatty acids → Acetyl-CoA → Acetoacetate (primary ketone)
 
 ---
 
----
-parent-index: [[02-Literature]]
+

@@ -1,14 +1,15 @@
 ---
 uid: L-001-0578
-type: lit-note
+type: litnote
 title: Male Hormone Assessment — Clinical Scenarios and Pattern Recognition
 authors: ChatGPT synthesis from CGPT-0438
 year: 2024
 journal: Internal clinical synthesis
-tier: 1
+tier: GOLD
 relevance: Core clinical approach to male hypogonadism and hormone disorders
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Hormones]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-07
 domain: 001
 ---
@@ -125,5 +126,4 @@ domain: 001
 
 ---
 
----
-parent-index: [[02-Literature]]
+

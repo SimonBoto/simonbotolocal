@@ -9,7 +9,10 @@ extraction-date: 2026-03-11
 author: ChatGPT Analysis (CGPT-0647)
 tags: [litnote, ketone-bodies, BHB, acetoacetate, ketogenesis, ketolysis, ATP-yield, beta-hydroxybutyrate]
 related: [L-001-0654, L-001-0656, Z-001-1256, Z-001-1257, Z-001-1258, Z-001-1259]
-status: conscious
+status: extracted
+tier: SILVER
+parent-moc: [[MOC-Ketogenesis]]
+parent-index: [[01-Literature]]
 ---
 
 # LitNote — Ketone Body Metabolism Deep Dive
@@ -136,17 +139,17 @@ Ketone bodies (beta-hydroxybutyrate and acetoacetate) serve as water-soluble, tr
 
 ## Zettels Generated
 
-- [[Z-001-1256_BHB_Production_Fatty_Acids]] — Quantification from palmitic acid, HMG-CoA pathway
-- [[Z-001-1257_Ketolysis_SCOT_Mechanism]] — Extrahepatic utilization, tissue-specific expression
-- [[Z-001-1258_ATP_Yield_Comparison]] — Glucose vs BHB vs fatty acids energy efficiency
-- [[Z-001-1259_Ketone_vs_Glycolysis_Mitochondrial_Entry]] — Different cellular routes to acetyl-CoA
+- [[BHB_Production_Fatty_Acids_Z-001-1256]] — Quantification from palmitic acid, HMG-CoA pathway
+- [[Ketolysis_SCOT_Mechanism_Z-001-1257]] — Extrahepatic utilization, tissue-specific expression
+- [[ATP_Yield_Comparison_Z-001-1258]] — Glucose vs BHB vs fatty acids energy efficiency
+- [[Ketone_vs_Glycolysis_Mitochondrial_Entry_Z-001-1259]] — Different cellular routes to acetyl-CoA
 
 ---
 
 ## Related Notes
 
-- **Previous:** [[L-001-0654_Hyperinsulinemia_Metabolic_Inflexibility] — How insulin blocks ketogenesis
-- **Next:** [[L-001-0656_Dicarboxylic_Acids_Beta_Oxidation_Defects] — When beta-oxidation fails
+- **Previous:** [[LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654]] — How insulin blocks ketogenesis
+- **Next:** [[LitNote_Dicarboxylic_Acids_Beta_Oxidation_Defects_L-001-0656]] — When beta-oxidation fails
 - **Source conversation:** [[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]
 
 ---
@@ -161,5 +164,4 @@ Ketone bodies (beta-hydroxybutyrate and acetoacetate) serve as water-soluble, tr
 
 ---
 
----
-parent-index: [[02-Literature]]
+

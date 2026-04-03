@@ -1,14 +1,15 @@
 ---
 uid: L-001-0582
-type: lit-note
+type: litnote
 title: MAO and DAO Enzymes — Monoamine and Diamine Oxidase Function and Interactions
 authors: ChatGPT synthesis from CGPT-0258
 year: 2024
 journal: Internal clinical synthesis
-tier: 2
+tier: SILVER
 relevance: Enzyme pharmacology, histamine metabolism, neurotransmitter degradation
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Pharmacology]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-07
 domain: 001
 ---
@@ -111,5 +112,4 @@ domain: 001
 
 ---
 
----
-parent-index: [[02-Literature]]
+

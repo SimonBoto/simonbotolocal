@@ -1,14 +1,15 @@
 ---
 uid: L-001-0586
-type: lit-note
+type: litnote
 title: Manuscript Review Critical Concerns — Peer Review and Research Appraisal
 authors: ChatGPT synthesis from CGPT-0551
 year: 2025
 journal: Internal methodology synthesis
-tier: 1
+tier: GOLD
 relevance: Peer review skills, critical appraisal of research, scientific integrity
 status: extracted
-parent-moc: 
+parent-moc: [[MOC-Research-Methods]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-07
 domain: 001
 ---
@@ -334,5 +335,4 @@ domain: 001
 
 ---
 
----
-parent-index: [[02-Literature]]
+
