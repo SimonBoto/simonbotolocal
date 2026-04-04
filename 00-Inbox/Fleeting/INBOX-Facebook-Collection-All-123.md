@@ -315,10 +315,72 @@ P1 — Neurodegeneration, Nutrition, Genetics, APOE4
 ---
 *Created: 2026-04-04 | Article 5 of 123*
 
+---
 
 ---
--
 type: inbox-item
+source: Facebook Posts Collection
+original-language: Greek
+translated: complete
+priority: P1
+topic: autoimmune, nutrition, vitamin-d, microbiome
+original-title: "Αυτοάνοσα Νοσήματα: Ο Ρόλος της Διατροφής και του Τρόπου Ζωής"
+article-number: 6
+---
+
+# Article 6: Autoimmune Diseases — The Role of Diet and Lifestyle
+
+## Translated Title
+Autoimmune Diseases: The Role of Diet and Lifestyle
+
+## Category
+P1 — Autoimmune Disease, Nutrition, Vitamin D, Microbiome
+
+## Source Studies
+1. **The Lancet** (2023) — Conrad et al. Autoimmune epidemiology (n=22 million UK)
+2. **Nature Immunology** (2017) — De Rosa et al. Metabolic pressure on immune system
+3. **BMJ** (2022) — Hahn et al. VITAL trial Vitamin D3
+4. **BMJ Nutrition** (2021) — Tsoukalas et al. Metabolic intervention outcomes
+
+## Key Findings
+
+### Genetic vs. Environmental
+- **Genetic predisposition:** Only ~30% of autoimmune risk (twin studies)
+- **Modifiable factors:** ~70% of risk — diet, lifestyle, micronutrients
+
+### Vitamin D Evidence
+- Mendelian randomization: Vitamin D deficiency **causally linked** to MS and SLE
+- VITAL trial: Vitamin D3 supplementation **reduced autoimmune disease incidence**
+- Selenium, zinc, magnesium deficiencies also disrupt immune regulation
+
+### Gut Microbiome Connection
+- Western diet (processed foods, sugar, industrial fats) → increased intestinal permeability
+- Dysbiosis facilitates autoimmune reactions
+- Low-processed diet protective — better microbiome function, reduced inflammation
+
+### Clinical Outcomes
+- Standard pharmaceutical response: ~40% improvement
+- Tsoukalas metabolic intervention: **95.7% improvement** with targeted diet/lifestyle changes
+
+## Key References
+- [[Conrad_2023_Autoimmune_Epidemiology_R-002-0016]] — Population study
+- [[DeRosa_2017_Nat_Immunol_Metabolic_Pressure_R-002-0017]] — Mechanism
+- [[Hahn_2022_BMJ_Vitamin_D3_VITAL_R-002-0018]] — RCT evidence
+- [[Tsoukalas_2021_BMJ_Metabolic_Intervention_R-002-0019]] — Clinical outcomes
+
+## Extraction Status
+- [x] SPARK check: Autoimmune zettels exist; 95.7% improvement figure is NEW
+- [x] Priority: P1 (high clinical impact, modifiable factors)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [x] References: Ready in Hub (linked)
+
+---
+*Created: 2026-04-04 | Article 6 of 123*
+
+
+---
+ype: inbox-item
 source: Facebook Posts Collection
 original-language: Greek
 translated: complete
