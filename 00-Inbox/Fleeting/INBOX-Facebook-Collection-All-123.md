@@ -1006,9 +1006,281 @@ P0 — Cancer, Fasting, Immunotherapy, Metabolism
 ---
 *Created: 2026-04-04 | Article 14 of 123*
 
+---
 
 ---
-inbox-item
+type: inbox-item
+source: Facebook Posts Collection
+original-language: Greek
+translated: complete
+priority: P1
+topic: inflammation, crp, cardiovascular, chronic-disease
+original-title: "Η φλεγμονή στο σώμα αυξάνει τον κίνδυνο για καρδιακά επεισόδια και θάνατο"
+article-number: 15
+---
+
+# Article 15: Inflammation Increases Risk for Heart Attacks and Death
+
+## Translated Title
+Inflammation in the Body Increases Risk for Heart Attacks and Death
+
+## Category
+P1 — Inflammation, CRP, Cardiovascular Disease, Chronic Disease
+
+## Source Study
+- **European Heart Journal** (December 11, 2025) — Kurt et al.
+
+## Key Findings
+
+### Main Result
+**Elevated high-sensitivity CRP (hsCRP) predicts cardiovascular events even in people without known CVD.**
+
+### CRP as Predictor
+- hsCRP measures low-grade systemic inflammation
+- Predicts heart attack and cardiovascular problems
+- Risk predictor independent of other known factors
+- Relevant even in apparently healthy individuals
+
+### Two Causes of Chronic Inflammation
+
+**1. Ongoing Damage**
+- Ultra-processed foods
+- Smoking
+- Excessive alcohol intake
+- Environmental toxins
+
+**2. Healing Deficiencies**
+- Vitamin deficiencies
+- Mineral deficiencies
+- Omega-3 fatty acid deficiency
+- Protein deficiency
+- Other nutrient gaps
+
+### Consequences of Persistent Inflammation
+When inflammation remains unresolved, it increases risk of:
+- Cardiovascular disease
+- Insulin resistance
+- Autoimmune diseases
+- Type 2 diabetes
+- Cancer
+
+### Clinical Implication
+**Resolving chronic inflammation is central to preventing and managing chronic diseases.**
+
+## Key References
+- [[Kurt_2025_CRP_CVD_Risk_R-002-0025]] — Primary study
+
+## Extraction Status
+- [x] SPARK check: Inflammation-CVD zettels exist; hsCRP as general population predictor is NEW
+- [x] Priority: P1 (important biomarker, clinical relevance)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [x] References: Ready in Hub (linked)
+
+---
+*Created: 2026-04-04 | Article 15 of 123*
+
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+original-language: Greek
+translated: complete
+priority: P1
+topic: exercise, mortality, cardiovascular, dose-response
+original-title: "Ακόμη και 15–20 λεπτά έντονης άσκησης την εβδομάδα συνδέονται με 16–40% χαμηλότερο κίνδυνο θανάτου"
+article-number: 16
+---
+
+# Article 16: Even 15-20 Minutes of Intense Exercise Weekly Reduces Death Risk
+
+## Translated Title
+Even 15-20 Minutes of Intense Exercise per Week Linked to 16-40% Lower Death Risk
+
+## Category
+P1 — Exercise, Mortality, Cardiovascular Health, Dose-Response
+
+## Source Study
+- **Search needed:** VIGOROUS exercise dose-mortality study (likely BMJ or JAMA)
+
+## Key Findings
+
+### Main Result
+**Minimal effective dose: 15-20 minutes of vigorous exercise per week reduces all-cause mortality by 16-40%.**
+
+### Dose-Response Relationship
+- Small amounts of exercise provide significant benefit
+- 15-20 min/week = substantial risk reduction
+- Benefit increases with more exercise but with diminishing returns
+
+### Exercise Type
+- **Vigorous intensity** required (not just moderate)
+- Activities that significantly elevate heart rate
+- Examples: Running, fast cycling, swimming, HIIT
+
+### Clinical Implications
+- **Minimal effective dose** concept validated
+- Even small amounts of exercise meaningful
+- Removes barrier of "not enough time"
+- 15 min/week achievable for most people
+
+### Comparison to Guidelines
+- Standard guidelines: 150 min moderate OR 75 min vigorous per week
+- This study: 15-20 min vigorous shows benefit
+- Suggests guidelines may be conservative
+
+## Key References
+- (Search and add reference)
+
+## Extraction Status
+- [x] SPARK check: Exercise-mortality zettels exist; minimal dose (15-20 min) is NEW
+- [x] Priority: P1 (actionable, behavior change potential)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [ ] References: Pending web search
+
+---
+*Created: 2026-04-04 | Article 16 of 123*
+
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+original-language: Greek
+translated: complete
+priority: P0
+topic: glucose, insulin, metabolic-health, biomarkers
+original-title: "Υψηλή Γλυκόζη ή Υψηλή Ινσουλίνη; Τι Έχει Μεγαλύτερη Σημασία;"
+article-number: 17
+---
+
+# Article 17: High Glucose or High Insulin — Which Matters More?
+
+## Translated Title
+High Glucose or High Insulin? Which Has Greater Significance?
+
+## Category
+P0 — Glucose, Insulin, Metabolic Health, Biomarkers
+
+## Source Study
+- **Search needed:** Glucose vs. insulin CVD risk comparison
+
+## Key Findings
+
+### The Central Question
+Is elevated glucose the problem, or is elevated insulin the deeper issue?
+
+### Insulin-Centric View
+- **Insulin resistance precedes hyperglycemia**
+- High insulin (hyperinsulinemia) occurs years before high glucose
+- Insulin drives metabolic dysfunction independent of glucose
+
+### Glucose vs. Insulin Timing
+| Stage | Glucose | Insulin |
+|-------|---------|---------|
+| Early | Normal | Elevated |
+| Mid | Borderline | High |
+| Late | Diabetic | Very high or failing |
+
+### Clinical Significance
+- **Insulin levels** better early predictor of metabolic disease
+- Fasting glucose can remain normal while insulin skyrockets
+- Insulin drives inflammation, lipogenesis, vascular damage
+
+### Testing Implications
+- Fasting insulin + HOMA-IR more sensitive than glucose alone
+- Glucose tolerance test with insulin measurements ideal
+- HbA1c misses early insulin resistance
+
+### Paradigm Shift
+- Traditional: Focus on glucose (diabetes threshold)
+- Emerging: Focus on insulin (metabolic health continuum)
+
+## Key References
+- (Search and add reference)
+
+## Extraction Status
+- [x] SPARK check: Insulin resistance zettels exist; insulin-vs-glucose primacy is NEW
+- [x] Priority: P0 (paradigm shift in metabolic medicine)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [ ] References: Pending web search
+
+---
+*Created: 2026-04-04 | Article 17 of 123*
+
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+original-language: Greek
+translated: complete
+priority: P1
+topic: sugar, carbohydrates, metabolic-adaptation, withdrawal
+original-title: "Αν Διακόψουμε τη Ζάχαρη και τους Υδατάνθρακες Πώς Θα Μπορούσαμε να Λειτουργήσουμε;"
+article-number: 18
+---
+
+# Article 18: If We Stop Sugar and Carbs, How Could We Function?
+
+## Translated Title
+If We Stop Sugar and Carbs, How Could We Function?
+
+## Category
+P1 — Sugar, Carbohydrates, Metabolic Adaptation, Withdrawal
+
+## Source Study
+- **Search needed:** Carbohydrate withdrawal, metabolic adaptation
+
+## Key Findings
+
+### The Common Concern
+"Without sugar and carbs, won't I have no energy?"
+
+### Metabolic Adaptation
+- Body can use **both glucose and fat** for energy
+- 80-90% of population has **mitochondrial damage** from:
+  - Processed foods
+  - Alcohol
+  - Air pollution
+  - Smoking
+  - Low water intake
+  - Low sun exposure
+  - Toxin exposure (pesticides, medications, endotoxins)
+  - Vitamin/mineral deficiencies
+
+### Mitochondrial Dysfunction
+- Damaged mitochondria can't convert glucose to energy properly
+- Leads to chronic health problems
+- Cardiovascular, autoimmune, cancer, diabetes, obesity all linked
+
+### Low-Carb Solution
+- **Reducing carbs unloads mitochondria**
+- Allows energy production to resume
+- Enhances repair mechanisms
+
+### Individual Variation
+- Some improve by just eliminating processed foods
+- Others need stricter low-carb (<50g/day) for ketosis
+- Ketosis bypasses dysfunctional Complex I in mitochondria
+- Once restored, carbs can be gradually reintroduced
+
+## Key References
+- (Search and add reference)
+
+## Extraction Status
+- [x] SPARK check: Low-carb adaptation zettels exist; mitochondrial unloading concept is NEW
+- [x] Priority: P1 (common patient question, practical guidance)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [ ] References: Pending web search
+
+---
+*Created: 2026-04-04 | Article 18 of 123*
+
+
+---
+ox-item
 source: Facebook Posts Collection
 original-language: Greek
 translated: partial
