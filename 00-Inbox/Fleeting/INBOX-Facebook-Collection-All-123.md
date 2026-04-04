@@ -129,67 +129,65 @@ type: inbox-item
 source: Facebook Posts Collection
 original-language: Greek
 translated: complete
-priority: P0
-topic: metabolic-health, cardiovascular, GLP1, lifestyle-medicine
-original-title: "Η μεταβολική υγεία ως αφετηρία..."
+priority: P1
+topic: low-carb, mitochondria, ketosis, metabolic-health
+original-title: "Γιατί η Μείωση των Υδατανθράκων Αυξάνει την Παραγωγή Ενέργειας σε Άτομα με Αντίσταση στην Ινσουλίνη"
 article-number: 7
 ---
 
-# Article 7: Metabolic Health as the Foundation - Beyond GLP-1 Drugs
+# Article 7: Why Carbohydrate Reduction Increases Energy Production in Insulin Resistance
 
 ## Translated Title
-Metabolic Health as the Starting Point: Addressing Root Causes vs. Pharmaceutical Management
+Why Carbohydrate Reduction Increases Energy Production in Insulin Resistance
 
 ## Category
-P0 - Metabolic Health, Cardiovascular Disease, GLP-1, Lifestyle Medicine
+P1 — Metabolic Health, Mitochondrial Function, Ketosis, Low-Carbohydrate Diets
 
 ## Source Studies
-1. **European Heart Journal** (March 6, 2026) - ESC Scientific Statement on Metabolic Risk Factors
-2. **Journal of Clinical Medicine** (May 2025) - Weight Regain After GLP-1 Interruption
+1. **Cell** (2023) — López-Otín C et al. Mitochondrial dysfunction in aging and disease
+2. **Cell Metabolism** (2017) — Puchalska P, Crawford PA. Ketone body metabolism
+3. **Circulation Research** (2023) — Matsuura TR et al. Mitochondrial Complex I in cardiac metabolism
 
 ## Key Findings
 
-### The ESC Paradigm Shift
-- European Society of Cardiology now recognizes metabolic factors as central to CVD
-- Shift from "cholesterol problem" to "metabolic health problem"
-- Coincides with GLP-1 drugs becoming highest-selling pharmaceutical category (Q4 2025)
+### The Mitochondrial Energy Crisis
+- **80-90% of the population** has some degree of mitochondrial damage
+- Causes: processed foods, alcohol, air pollution, smoking, low water intake, insufficient sunlight, toxin exposure (pesticides, medications, endotoxins), micronutrient deficiencies
+- Mitochondrial dysfunction impairs glucose-to-energy conversion → chronic health problems
 
-### GLP-1 Limitations
-- **Require permanent use** - Weight returns quickly after discontinuation
-- **Significant side effects:** Muscle loss, bone density reduction, persistent nausea, neuropsychiatric effects (under FDA/EMA investigation)
-- **Do not address root causes** - Patients continue same diet, sedentary lifestyle, micronutrient deficiencies
+### Insulin Resistance and Energy Production
+Symptoms of reduced energy production:
+- Low energy levels, easy fatigue, poor sleep
+- Mood swings, increased body weight
+- Hypertension, insulin resistance, elevated uric acid
+- Elevated triglycerides, accelerated aging
+- Chronic diseases: cardiovascular, autoimmune, diabetes, obesity, cancer
 
-### The Real Solution
-Metabolic disorders are reversible through:
-- Unprocessed whole foods
-- Regular physical activity
-- Quality sleep
-- Micronutrient repletion
-- Healthy lifestyle adoption
+### The Ketosis Bypass Mechanism
+- **Ketosis bypasses dysfunctional mitochondrial pathways** (Complex I)
+- Allows energy production when glucose metabolism is impaired
+- Very low carbohydrate intake (<50g) often required for ketosis in patients with autoimmune and chronic inflammatory conditions
+- Once mitochondrial function is restored, carbohydrates can be gradually reintroduced
 
-These are not "alternative" approaches - they address the original cause.
+### Carbohydrate Reduction Benefits
+- Significant carbohydrate reduction **unloads mitochondria**
+- Enables energy production and enhances repair mechanisms
+- Individual variation: some improve with elimination of processed foods only; others need strict low-carb or ketogenic approaches
 
 ## Key References
-- [[Evans_2026_ESC_Metabolic_Risk_R-002-0013]] - ESC scientific statement
-- [[Quarenghi_2025_GLP1_Weight_Regain_R-002-0014]] - GLP-1 interruption study
+- [[Lopez_Otin_2023_Cell_Mitochondrial_Aging_R-001-0001]] — Mitochondrial dysfunction mechanisms
+- [[Puchalska_2017_Cell_Metab_Ketone_Bodies_R-001-0002]] — Ketone body metabolism
+- [[Matsuura_2023_Circ_Res_Complex_I_R-001-0003]] — Cardiac mitochondrial function
 
 ## Extraction Status
-- [x] SPARK check: Metabolic CVD links exist; GLP-1 critique is NEW
-- [x] Priority: P0 (timely, clinical relevance, guideline shift)
+- [x] SPARK check: Mitochondrial/ketosis zettels exist; insulin resistance energy link is NEW
+- [x] Priority: P1 (core metabolic mechanism, clinical relevance)
 - [ ] LitNote created
 - [ ] Zettels extracted
-- [x] References: Ready in Hub (linked)
-- [Extract from full text]
-
-## Extraction Status
-- [ ] SPARK check (vault search)
-- [ ] Priority assigned (P0/P1/P2/P3)
-- [ ] LitNote created
-- [ ] Zettels extracted
-- [ ] References deduplicated
+- [x] References: Ready in Hub (to be linked)
 
 ---
-*Created: 2026-04-04 | Article 3 of 123*
+*Created: 2026-04-04 | Article 7 of 123*
 
 
 ---
@@ -529,28 +527,77 @@ type: inbox-item
 source: Facebook Posts Collection
 original-language: Greek
 translated: complete
-priority: P1
-topic: neuro, nutrition, genetics, apoe4
-original-title: "Η Κατανάλωση Κρέατος Εξάλειψε τον Γενετικό Κίνδυνο για τη Νόσο Alzheimer"
+priority: P0
+topic: ultra-processed-foods, cardiovascular-disease, metabolic-health
+original-title: "Τα Υψηλά Επεξεργασμένα Τρόφιμα Αυξάνουν τον Καρδιαγγειακό Κίνδυνο, Ανεξάρτητα από Χοληστερίνη και Διαβήτη"
 article-number: 8
 ---
 
-# Article 8: [DUPLICATE — See Article 5]
+# Article 8: Ultra-Processed Foods Increase CVD Risk Independent of Cholesterol and Diabetes
 
-## Status
-**This article is a duplicate of Article 5.**
+## Translated Title
+Ultra-Processed Foods Increase Cardiovascular Risk Independent of Cholesterol and Diabetes
 
-Same source content: Meat consumption and APOE4 genetic risk for Alzheimer's.
+## Category
+P0 — Ultra-Processed Foods, Cardiovascular Disease, Metabolic Health
 
-## Redirect
-→ **See [[Article 5: Meat Consumption Eliminates Genetic Risk for Alzheimer's Disease]]**
+## Source Study
+- **JACC: Advances** (2025) — Haidar A et al. UPF and cardiovascular outcomes
+
+## Key Findings
+
+### Study Design
+- **7,000 participants** followed for over 10 years
+- Ages 45-84 years, no CVD at baseline
+- Multi-ethnic study of atherosclerosis (MESA)
+
+### Main Results
+- **Each additional serving of UPF per day → +5% increased CVD risk**
+- **Highest UPF consumers: 67% higher risk** compared to lowest consumers
+- Association remained significant **after controlling for traditional risk factors** (cholesterol, blood pressure, diabetes)
+- UPF affects cardiovascular risk **independently** of these factors
+
+### What Counts as UPF (Ultra-Processed Foods)
+Examples of one serving:
+- Slice of industrially produced bread
+- Soft drink (regular or diet)
+- Bowl of breakfast cereal
+- Serving of french fries
+- Packet of chips
+
+Full UPF category includes:
+- Sausages, industrially produced sweets, breakfast cereals
+- White and whole grain industrial bread, cakes, muffins
+- Margarine, potato chips, crackers, instant noodles
+- Pizza, burgers, fried chicken, processed meat
+- Hot dogs, deli meats, fried fish, ice cream
+- Donuts, sweet pies, creams, desserts, candies
+- Chocolate snacks, soy milk, instant breakfast drinks
+- Alcoholic beverages
+
+### Why UPF is Harmful
+- Products that **bypass physiological mechanisms** regulating digestion, satiety, hunger, energy production, and microbiome status
+- Lead to **addiction and uncontrolled intake**
+- Provide **high calories without corresponding nutrients** (empty calories)
+- Account for **40-60% of caloric intake** in Western diets
+
+### Not an Isolated Finding
+- Previous meta-analysis of 45 studies (Lane et al., BMJ 2024) showed UPF linked to:
+  - All-cause mortality
+  - Obesity
+  - Type 2 diabetes
+  - Mental health disorders
 
 ## Key References
-- [[Norgren_2026_Meat_APOE4_Cognitive_R-002-0015]]
+- [[Haidar_2025_JACC_Advances_UPF_CVD_R-002-0020]] — Primary study
+- [[Lane_2024_BMJ_UPF_Metaanalysis_R-002-0021]] — BMJ meta-analysis
 
 ## Extraction Status
-- [x] DUPLICATE — Content processed in Article 5
-- [x] Redirected to Article 5
+- [x] SPARK check: UPF zettels exist; independent CVD risk is NEW
+- [x] Priority: P0 (major public health finding, JACC publication)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [x] References: Ready in Hub (to be linked)
 
 ---
 *Created: 2026-04-04 | Article 8 of 123*
@@ -562,34 +609,71 @@ Same source content: Meat consumption and APOE4 genetic risk for Alzheimer's.
 type: inbox-item
 source: Facebook Posts Collection
 original-language: Greek
-translated: partial
-priority: TBD
-topic: cardiovascular, metabolism
-original-title: "Η Μείωση της LDL Χοληστερίνης δεν Σημαίνει Πάντα Μεγαλύτερη Προστασία"
+translated: complete
+priority: P0
+topic: ultra-processed-foods, stroke, heart-attack, meta-analysis
+original-title: "Τα υψηλά επεξεργασμένα τρόφιμα συνδέονται για ακόμη μια φορά με αυξημένο κίνδυνο για έμφραγμα και εγκεφαλικό"
 article-number: 9
 ---
 
-# [EL] Η Μείωση της LDL Χοληστερίνης δεν Σημαίνει Πάντα Μεγαλύτερη
+# Article 9: UPF Linked to Heart Attack and Stroke Risk (BMJ 2024 Meta-analysis)
 
-## Original Title (Greek)
-Η Μείωση της LDL Χοληστερίνης δεν Σημαίνει Πάντα Μεγαλύτερη Προστασία
+## Translated Title
+Ultra-Processed Foods Linked to Heart Attack and Stroke Risk — BMJ 2024 Meta-analysis
 
 ## Category
-cardiovascular, metabolism, nutrition
+P0 — Ultra-Processed Foods, Stroke, Myocardial Infarction, Meta-analysis
 
 ## Source Study
-- **Journal:** European Heart Journal
-- **Year:** 2025
+- **BMJ** (2024) — Lane MM et al. Ultra-processed food exposure and adverse health outcomes: umbrella review
+
+## Key Findings
+
+### The BMJ Meta-analysis
+- **45 studies** included in comprehensive umbrella review
+- Direct dose-response relationship between UPF consumption and adverse outcomes
+
+### Key Outcomes Associated with High UPF Intake
+- **All-cause mortality** — increased risk
+- **Cardiovascular disease mortality** — increased risk
+- **Mental health disorders** — increased risk
+- **Weight gain and obesity** — increased risk
+- **Type 2 diabetes** — increased risk
+
+### Mechanism of Harm
+UPF emerges as **one of the main drivers** of:
+- Metabolic disorders
+- Chronic health problems
+- Cardiovascular disease
+- Autoimmune conditions
+- Diabetes
+- Hypertension
+- Insulin resistance
+- Obesity
+- Cancer
+
+### The UPF Problem
+- Industrial processing bypasses natural regulatory mechanisms
+- Creates addiction-like eating patterns
+- Provides calories without nutrients (empty calories)
+- Disrupts gut microbiome
+- Promotes chronic inflammation
+- Alters glucose and lipid metabolism
+
+### Clinical Implications
+- UPF consumption is a **modifiable risk factor**
+- Even small reductions in UPF intake may yield significant health benefits
+- Focus on whole, unprocessed foods: meat, fish, dairy, eggs, olives, olive oil, vegetables, fruits, nuts, legumes
 
 ## Key References
-- [Extract from full text]
+- [[Lane_2024_BMJ_UPF_Metaanalysis_R-002-0021]] — BMJ umbrella review
 
 ## Extraction Status
-- [ ] SPARK check (vault search)
-- [ ] Priority assigned (P0/P1/P2/P3)
+- [x] SPARK check: UPF zettels exist; BMJ meta-analysis confirms prior findings
+- [x] Priority: P0 (high-impact meta-analysis, confirms UPF as major risk factor)
 - [ ] LitNote created
 - [ ] Zettels extracted
-- [ ] References deduplicated
+- [x] References: Ready in Hub (to be linked)
 
 ---
 *Created: 2026-04-04 | Article 9 of 123*
