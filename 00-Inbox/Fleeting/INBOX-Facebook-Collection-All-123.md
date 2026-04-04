@@ -9,34 +9,52 @@
 type: inbox-item
 source: Facebook Posts Collection
 original-language: Greek
-translated: partial
-priority: TBD
-topic: cancer
-original-title: "Η Ασπιρίνη Μειώνει τις Μεταστάσεις, Βοηθώντας το Ανοσοποιητικό να Καταπολεμήσει "
+translated: complete
+priority: P0
+topic: cancer, immunology, metastasis
+original-title: "Η Ασπιρίνη Μειώνει τις Μεταστάσεις..."
 article-number: 1
 ---
 
-# [EL] Η Ασπιρίνη Μειώνει τις Μεταστάσεις, Βοηθώντας το Ανοσοποιητι
+# Article 1: Aspirin Reduces Metastasis by Helping the Immune System Fight Circulating Cancer Cells
 
-## Original Title (Greek)
-Η Ασπιρίνη Μειώνει τις Μεταστάσεις, Βοηθώντας το Ανοσοποιητικό να Καταπολεμήσει τα Καρκινικά Κύτταρα που Κυκλοφορούν στο Αίμα
+## Translated Title
+Aspirin Reduces Metastases by Helping the Immune System Fight Cancer Cells Circulating in the Blood
 
 ## Category
-cancer
+P0 — Cancer, Immunology, Metastasis Prevention
 
-## Source Study
-- **Journal:** Nature
-- **Year:** Not identified
+## Source Studies
+1. **Nature** (March 5, 2025) — Primary mechanism study
+2. **New England Journal of Medicine** (Dec 2025) — Clinical implications
+
+## Key Findings
+
+### Core Mechanism
+- **90% of cancer deaths worldwide** are due to metastases
+- Cancer cells circulating in blood are more vulnerable to immune attack than cells in established tumors
+- **Platelets produce thromboxane A2 (TXA2)**, which suppresses T-cell function
+- **Aspirin inhibits COX-1** in platelets → reduces TXA2 production → releases T-cells from suppression
+- This allows T-cells to more effectively identify and destroy circulating cancer cells
+
+### Clinical Context
+- Daily low-dose aspirin (75-300mg) primarily targets platelet COX-1 (due to anucleated platelets' inability to resynthesize the enzyme)
+- Previous meta-analyses: aspirin associated with reduced metastasis (HR 0.64, 95% CI 0.48-0.84)
+- In colorectal cancer, benefit restricted to tumors with high HLA class I expression (immune-mediated effect)
+
+### Safety Note
+- Aspirin use requires medical supervision due to increased bleeding risk
 
 ## Key References
-- [Extract from full text]
+- [[Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-XXXX]] — Primary study
+- [[NEJM_2025_Aspirin_Cancer_Metastasis_Clinical_R-001-XXXX]] — Clinical implications
 
 ## Extraction Status
-- [ ] SPARK check (vault search)
-- [ ] Priority assigned (P0/P1/P2/P3)
+- [x] SPARK check: Vitamin D/aspirin zettels exist; TXA2-platelet-cancer link is NEW
+- [x] Priority: P0 (high clinical relevance, novel mechanism)
 - [ ] LitNote created
 - [ ] Zettels extracted
-- [ ] References deduplicated
+- [x] References: Ready in Hub (to be linked)
 
 ---
 *Created: 2026-04-04 | Article 1 of 123*
