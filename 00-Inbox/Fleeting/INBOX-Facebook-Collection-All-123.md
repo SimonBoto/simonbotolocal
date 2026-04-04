@@ -685,42 +685,136 @@ UPF emerges as **one of the main drivers** of:
 type: inbox-item
 source: Facebook Posts Collection
 original-language: Greek
-translated: partial
-priority: TBD
-topic: cancer, cardiovascular
-original-title: "Βιβλιογραφικές αναφορές"
+translated: complete
+priority: P0
+topic: cardiovascular, cholesterol, metabolic-health, glp1, esc
+original-title: "Η Χοληστερίνη Δεν Ήταν Ποτέ το Πραγματικό Πρόβλημα"
 article-number: 10
 ---
 
-# [EL] Βιβλιογραφικές αναφορές
+# Article 10: Cholesterol Was Never the Real Problem
 
-## Original Title (Greek)
-Βιβλιογραφικές αναφορές
+## Translated Title
+Cholesterol Was Never the Real Problem
 
 ## Category
-cancer, cardiovascular, metabolism, vitamin-d, autoimmune, nutrition
+P0 — Cardiovascular Disease, Cholesterol Paradox, Metabolic Health, GLP-1 Agonists, ESC Scientific Statement
 
-## Source Study
-- **Journal:** JAMA
-- **Year:** 2025
+## Source Studies
+1. **European Heart Journal** (March 6, 2026) — Evans PC et al. Novel cardiovascular metabolic risk factor mechanisms and therapeutic opportunities
+2. **Journal of Clinical Medicine** (May 2025) — Quarenghi M et al. Weight Regain After Liraglutide, Semaglutide or Tirzepatide Interruption: A Narrative Review
+
+## Key Findings
+
+### The Cholesterol Narrative Shift
+For decades, cholesterol became the primary measure of cardiovascular risk. The message was simple: "Your cholesterol is high. You need medication to lower it." However, this view was always incomplete.
+
+### What Research Has Shown for Years
+- People with high LDL but good metabolic profiles did NOT have increased cardiovascular risk
+- Conversely, people with "normal" cholesterol but obesity, insulin resistance, chronic inflammation, and oxidative stress developed atherosclerosis and heart attacks
+- LDL is just one link in a much larger chain
+
+### The ESC 2026 Scientific Statement
+In March 2026, the European Society of Cardiology published an extensive scientific report with a clear message:
+
+> "Cardiovascular disease is the result of deeper metabolic dysfunction affecting the organism as a whole. Obesity, insulin resistance, type 2 diabetes, chronic inflammation, elevated triglycerides, low HDL cholesterol, and oxidative stress are primary causes. Even with 'ideal' cholesterol levels, cardiovascular risk remains."
+
+### The GLP-1 Paradox
+The official proposal remains pharmaceutical: GLP-1 agonists (Ozempic, Mounjaro, Wegovy) became the top-selling drugs globally in Q4 2025. However:
+- These drugs cause significant side effects: muscle mass loss, reduced bone density, persistent nausea, and potential neuropsychiatric effects under FDA/EMA investigation
+- Weight loss returns quickly after discontinuation, regardless of treatment duration
+- They do NOT address root causes (diet, lifestyle, micronutrient deficiencies)
+
+### Root Cause Reversibility
+Metabolic disorders leading to cardiovascular disease are reversible through:
+- Consumption of unprocessed foods
+- Regular physical activity
+- Quality sleep
+- Correction of micronutrient deficiencies
+- Healthy lifestyle adoption
+
+These are not "alternative" approaches — they address the original cause and provide substantial treatment.
 
 ## Key References
-- 1. Liaigre et al. Eur Heart J Cardiovasc Pharmacother. (2025)
-- 2. Byrne et al. JAMA Intern Med. (2022)
-- 3. Abramson et al. BMJ. (2013)
-- 4. Szilveszter B. et al., JACC Cardiovasc Imaging 2025
-- 5. Evans PC et al. Eur Heart J. (2026)
+- [[Evans_2026_Eur_Heart_J_Metabolic_CVD_R-002-0022]] — Primary ESC scientific statement
+- [[Quarenghi_2025_J_Clin_Med_Weight_Regain_R-002-0023]] — GLP-1 weight regain review
 
 ## Extraction Status
-- [ ] SPARK check (vault search)
-- [ ] Priority assigned (P0/P1/P2/P3)
+- [x] SPARK check: Cholesterol-CVD zettels exist; ESC 2026 metabolic reframing is NEW
+- [x] Priority: P0 (major paradigm shift, challenges conventional practice, high clinical relevance)
 - [ ] LitNote created
 - [ ] Zettels extracted
-- [ ] References deduplicated
+- [x] References: Ready in Hub (to be linked)
 
 ---
 *Created: 2026-04-04 | Article 10 of 123*
+---
+type: inbox-item
+source: Facebook Posts Collection
+original-language: Greek
+translated: complete
+priority: P0
+topic: cardiovascular, cholesterol, metabolic-health, glp1, pharmaceutical-market, esc
+original-title: "Καρδιαγγειακή νόσος και χοληστερόλη: Η αφήγηση αλλάζει ή μήπως αλλάζει η αγορά;"
+article-number: 11
+---
 
+# Article 11: CVD and Cholesterol — Does the Narrative Change or Does the Market?
+
+## Translated Title
+CVD and Cholesterol: Does the Narrative Change or Does the Market?
+
+## Category
+P0 — Cardiovascular Disease, Cholesterol, Metabolic Health, Pharmaceutical Market Analysis, GLP-1 Agonists
+
+## Source Studies
+1. **European Heart Journal** (March 6, 2026) — Evans PC et al. Novel cardiovascular metabolic risk factor mechanisms and therapeutic opportunities (same as Article 10)
+
+## Key Findings
+
+### The Market-Driven Narrative Shift
+For decades: "The problem is cholesterol." Conveniently, there were extremely profitable statins to manage it.
+
+Now, with the rise of GLP-1 drugs (Mounjaro, Ozempic, Wegovy, Zepbound) for metabolic diseases, the official narrative suddenly shifts: "The problem is metabolic health."
+
+### Timeline of Pharmaceutical Dominance
+- **Statins:** For decades, the most prescribed and profitable drugs in medical history
+- **Q4 2025:** GLP-1 agonists became the highest-selling drug category ever recorded
+- **March 2026:** European Society of Cardiology presents new scientific position — metabolic factors play central role in cardiovascular disease
+
+### The ESC Statement
+On March 6, 2026, the ESC recognized that metabolic factors play a central role in cardiovascular disease:
+- Obesity, insulin resistance, type 2 diabetes, elevated triglycerides, low HDL, chronic inflammation, and oxidative stress directly affect vessels and heart
+- These contribute to atherosclerosis development and increase risk for ischemic heart disease, heart failure, and arrhythmias
+
+### The Pharmaceutical Bias
+However, instead of focusing on root causes (lifestyle, diet, micronutrient deficiencies), the new narrative primarily points toward new, highly profitable pharmaceutical products.
+
+Taking medication for metabolic disorders without parallel lifestyle, dietary, and deficiency interventions cannot lead to substantial health improvement.
+
+### Clinical Reality
+In clinical practice, patients experience side effects from new therapies while continuing the same diet, lifestyle, and having deficiencies in essential nutrients that no pharmaceutical can replace.
+
+### The Critical Question
+> "How much does research follow the data, and how much does it follow the market?"
+
+These approaches increasingly affect medical credibility and steadily reduce public and physician trust in guidelines.
+
+### Cardiovascular Disease Reality
+Cardiovascular disease has always been multifactorial. The question is whether treatment focuses on root causes or pharmaceutical management.
+
+## Key References
+- [[Evans_2026_Eur_Heart_J_Metabolic_CVD_R-002-0022]] — ESC scientific statement (linked to Article 10, not duplicated)
+
+## Extraction Status
+- [x] SPARK check: Pharmaceutical market influence zettels exist; GLP-1 market dominance timing is NEW
+- [x] Priority: P0 (highlights market-science tension, critical analysis of guideline evolution)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [x] References: Ready in Hub (linked to Article 10 reference)
+
+---
+*Created: 2026-04-04 | Article 11 of 123*
 
 ---
 
@@ -728,43 +822,119 @@ cancer, cardiovascular, metabolism, vitamin-d, autoimmune, nutrition
 type: inbox-item
 source: Facebook Posts Collection
 original-language: Greek
-translated: partial
-priority: TBD
-topic: cancer, cardiovascular
-original-title: "Τα Υψηλά Επεξεργασμένα Τρόφιμα Αυξάνουν τον Καρδιαγγειακό Κίνδυνο, Ανεξάρτητα απ"
-article-number: 11
+translated: complete
+priority: P1
+topic: aging, multivitamins, epigenetics, longevity
+original-title: "Η Καθημερινή Λήψη Πολυβιταμίνης Επιβραδύνει τη Βιολογική Γήρανση"
+article-number: 12
 ---
 
-# [EL] Τα Υψηλά Επεξεργασμένα Τρόφιμα Αυξάνουν τον Καρδιαγγειακό Κί
+# Article 12: Daily Multivitamin Slows Biological Aging
 
-## Original Title (Greek)
-Τα Υψηλά Επεξεργασμένα Τρόφιμα Αυξάνουν τον Καρδιαγγειακό Κίνδυνο, Ανεξάρτητα από Χοληστερίνη και Διαβήτη
+## Translated Title
+Daily Multivitamin Intake Slows Biological Aging
 
 ## Category
-cancer, cardiovascular, metabolism
+P1 — Aging, Multivitamins, Epigenetics, Longevity
 
 ## Source Study
-- **Journal:** BMJ
-- **Year:** 2024
+- **Nature Medicine** (March 9, 2026) — COSMOS randomized clinical trial
+
+## Key Findings
+
+### Main Result
+Daily multivitamin supplementation for 2 years **slowed biological aging by ~4 months** compared to placebo.
+
+### Epigenetic Clocks Method
+- Used **5 DNA methylation clocks** (biological aging biomarkers)
+- DNA methylation = "bookmarks" on DNA that change with age
+- Measures biological vs. chronological age
+
+### Enhanced Effect in Accelerated Aging
+- Stronger benefit in those with biological age > chronological age
+- Suggests multivitamins most beneficial when nutrient gaps exist
+
+### Clinical Context
+- First large-scale RCT on supplements + epigenetic aging
+- Supports micronutrient repletion for healthy aging
+- Goal: "Not just to live longer, but to live better"
 
 ## Key References
-- 1. Haidar A, et al. JACC: Advances, 2025
+- [[Sesso_2026_Multivitamin_Epigenetic_Aging_R-002-0022]] — Primary study
 
 ## Extraction Status
-- [ ] SPARK check (vault search)
-- [ ] Priority assigned (P0/P1/P2/P3)
+- [x] SPARK check: Aging zettels exist; multivitamin-epigenetics link is NEW
+- [x] Priority: P1 (important preventive evidence)
 - [ ] LitNote created
 - [ ] Zettels extracted
-- [ ] References deduplicated
+- [x] References: Ready in Hub (linked)
 
 ---
-*Created: 2026-04-04 | Article 11 of 123*
+*Created: 2026-04-04 | Article 12 of 123*
 
-
----
 
 ---
 type: inbox-item
+source: Facebook Posts Collection
+original-language: Greek
+translated: complete
+priority: P1
+topic: pediatrics, upf, behavior, mental-health
+original-title: "Τα παιδιά που καταναλώνουν πολλά υψηλά επεξεργασμένα τρόφιμα..."
+article-number: 13
+---
+
+# Article 13: UPF Consumption in Children Linked to Behavioral Problems
+
+## Translated Title
+Children Who Consume Many Ultra-Processed Foods Show More Behavioral Problems
+
+## Category
+P1 — Pediatrics, UPF, Behavior, Mental Health
+
+## Source Study
+- **JAMA Network Open** (March 3, 2026) — Canadian children cohort
+
+## Key Findings
+
+### Main Result
+High UPF consumption at age 3 → more behavioral problems at age 5.
+
+### Behavioral Issues
+- **Internalizing:** Anxiety, fear, depressive mood
+- **Externalizing:** Aggression, hyperactivity
+
+### Top UPF Contributors
+- Sweets, desserts, packaged bread, breakfast cereals
+- Processed meats (cold cuts, nuggets, burgers)
+- Ready meals, sugary drinks, sauces
+- Salty snacks, plant-based substitutes with additives
+
+### Dose-Response: 10% Substitution
+- Even **10% replacement** of UPF with minimally processed foods improved behavior
+- Small dietary changes have measurable impact
+
+### Clinical Implications
+- UPF restriction critical for child mental/emotional/behavioral development
+- Early dietary patterns shape later outcomes
+- Modifiable risk factor for pediatric mental health
+
+## Key References
+- [[Kavanagh_2026_UPF_Children_Behavior_R-002-0023]] — Primary study
+
+## Extraction Status
+- [x] SPARK check: UPF zettels exist; pediatric behavior link is NEW
+- [x] Priority: P1 (clinical relevance for pediatric counseling)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [x] References: Ready in Hub (linked)
+
+---
+*Created: 2026-04-04 | Article 13 of 123*
+
+
+---
+e: inbox-item
 source: Facebook Posts Collection
 original-language: Greek
 translated: partial
