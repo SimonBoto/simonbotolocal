@@ -400,3 +400,190 @@ All major factors are modifiable through:
 ---
 *Article ID: Παράγοντες-Νόσου-Τρόπος-Ζωής-Διατροφή | Created: 2026-04-04*
 
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+article-title: "Αυξημένο Ουρικό Οξύ: Μειώστε την Πρόσληψη Φρουκτόζης, Αλκοόλ & Επεξεργασμένων Τροφών"
+english-title: "Elevated Uric Acid: Reduce Fructose, Alcohol & Processed Food Intake"
+original-language: Greek
+translated: complete
+priority: P1
+topic: uric-acid, gout, fructose, metabolic-health
+---
+
+# Article: Uric Acid and Diet
+
+## Key Findings
+
+### Uric Acid Elevation Causes
+- **Fructose metabolism** produces uric acid
+- **Alcohol** increases uric acid production
+- **Processed foods** contribute to metabolic dysfunction
+
+### Health Consequences
+- Gout (painful joint inflammation)
+- Kidney stones
+- Metabolic syndrome
+- Cardiovascular disease risk
+
+### Dietary Solutions
+- Eliminate high-fructose corn syrup
+- Reduce alcohol consumption
+- Avoid processed foods
+- Focus on whole, unprocessed foods
+
+## Key References
+- (Search and add primary studies)
+
+## Extraction Status
+- [x] SPARK check: Uric acid zettels exist; fructose connection emphasized
+- [x] Priority: P1 (metabolic management)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [ ] References: Pending search
+
+---
+*Article ID: Αυξημένο-Ουρικό-Οξύ-Φρουκτόζη | Created: 2026-04-04*
+
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+article-title: "Μια Ιστορική Αναστροφή: Για Πρώτη Φορά Παγκοσμίως, τα Παιδιά με Παχυσαρκία είναι Περισσότερα από τα Παιδιά με Υποσιτισμό"
+english-title: "Historic Reversal: For the First Time Worldwide, Obese Children Outnumber Undernourished Children"
+original-language: Greek
+translated: complete
+priority: P0
+topic: obesity, pediatric, global-health, nutrition-transition
+---
+
+# Article: Childhood Obesity vs. Undernutrition
+
+## Key Findings
+
+### Historic Shift
+- **First time in human history:** Obese children > undernourished children globally
+- Marker of nutrition transition
+- Reflects global spread of processed foods
+
+### Drivers
+- Ultra-processed food availability
+- Sedentary lifestyles
+- Loss of traditional diets
+- Food industry marketing to children
+
+### Health Implications
+- Early onset metabolic disease
+- Type 2 diabetes in children
+- Cardiovascular risk at young age
+- Reduced life expectancy
+
+### Reversibility
+- Childhood obesity is reversible
+- Requires family-based interventions
+- Dietary quality more important than calories
+
+## Key References
+- Dr. Dimitris Tsoukalas. Micronutrient Deficiency: A Hidden Epidemic
+
+## Extraction Status
+- [x] SPARK check: Pediatric obesity zettels exist; global shift milestone is NEW
+- [x] Priority: P0 (public health paradigm shift)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [x] References: Ready in Hub
+
+---
+*Article ID: Παιδιά-Παχυσαρκία-Υποσιτισμός | Created: 2026-04-04*
+
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+article-title: "Η Αυξημένη Πρόσληψη Τυριών Υψηλών Λιπαρών Συνδέεται με Μειωμένο Κίνδυνο Άνοιας & Νόσο Alzheimer"
+english-title: "High-Fat Cheese Consumption Linked to Reduced Dementia & Alzheimer's Risk"
+original-language: Greek
+translated: complete
+priority: P1
+topic: cheese, saturated-fat, dementia, alzheimer, dairy
+---
+
+# Article: High-Fat Cheese and Dementia Risk
+
+## Key Findings
+
+### Protective Effect
+- High-fat cheese consumption associated with **reduced dementia risk**
+- Counter to low-fat dietary recommendations
+- Supports saturated fat reconsideration
+
+### Potential Mechanisms
+- Saturated fats support brain structure
+- Cheese contains bioactive peptides
+- Vitamin K2 (MK-4, MK-7) content
+- Conjugated linoleic acid (CLA)
+
+### Context
+- Challenges low-fat dogma
+- Traditional foods often protective
+- Nutrient density matters more than fat content
+
+## Key References
+- (Search and add primary study)
+
+## Extraction Status
+- [x] SPARK check: Dementia nutrition zettels exist; cheese protection is NEW
+- [x] Priority: P1 (dietary pattern evidence)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [ ] References: Pending search
+
+---
+*Article ID: Τυριά-Υψηλών-Λιπαρών-Άνοια | Created: 2026-04-04*
+
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+article-title: "Ο κίνδυνος εμφράγματος μειώθηκε στο μισό σε ενήλικες με καρδιαγγειακή νόσο που λάμβαναν εξατομικευμένη διατροφική παρέμβαση"
+english-title: "Heart Attack Risk Cut in Half in Adults with CVD Receiving Personalized Nutritional Intervention"
+original-language: Greek
+translated: complete
+priority: P0
+topic: personalized-nutrition, cvd, intervention, heart-attack
+---
+
+# Article: Personalized Nutrition Halves Heart Attack Risk
+
+## Key Findings
+
+### Intervention Impact
+- **50% reduction** in heart attack risk
+- Personalized approach based on individual metabolic profile
+- Targeted micronutrient repletion
+
+### Personalization Elements
+- Metabolomic assessment
+- Individual deficiency correction
+- Diet tailored to metabolic status
+- Not one-size-fits-all
+
+### Clinical Significance
+- Demonstrates power of precision nutrition
+- Beyond generic dietary guidelines
+- Requires assessment and monitoring
+
+## Key References
+- (Search and add primary study)
+
+## Extraction Status
+- [x] SPARK check: Personalized nutrition zettels exist; CVD outcome data is NEW
+- [x] Priority: P0 (precision medicine evidence)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [ ] References: Pending search
+
+---
+*Article ID: Εξατομικευμένη-Διατροφή-Έμφραγμα | Created: 2026-04-04*
+
