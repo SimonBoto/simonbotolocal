@@ -47,12 +47,12 @@ parent-moc: [[08 Structure Index]]
 | Template_Biomarker_Deep_Dive_v1.0.md | Lab interpretation | v1.0 |
 | Template_Supplement_v1.0.md | Product catalog | v1.0 |
 
-## Archive (Legacy Templates)
+## Template Consolidation History
 
-Redundant templates archived in `Archive/` folder:
-- Inbox variants (consolidated to v2.0)
-- LitNote variants (consolidated to v2.0)
-- Zettel variants (consolidated to v2.0)
+- **v1.0 variants** — Consolidated into v2.0 (2026-04-03)
+- **v2.0 unified** — Single template per note type (current)
+
+**No Archive folder** — Previous versions removed to prevent confusion.
 
 ---
 
