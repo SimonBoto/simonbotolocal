@@ -128,26 +128,57 @@ P0 — Public Health, Corporate Influence, Chronic Disease Prevention
 type: inbox-item
 source: Facebook Posts Collection
 original-language: Greek
-translated: partial
-priority: TBD
-topic: cancer, cardiovascular
-original-title: "Πέντε κατηγορίες προϊόντων ευθύνονται για το 31% όλων των θανάτων παγκοσμίως κάθ"
-article-number: 3
+translated: complete
+priority: P0
+topic: metabolic-health, cardiovascular, GLP1, lifestyle-medicine
+original-title: "Η μεταβολική υγεία ως αφετηρία..."
+article-number: 7
 ---
 
-# [EL] Πέντε κατηγορίες προϊόντων ευθύνονται για το 31% όλων των θα
+# Article 7: Metabolic Health as the Foundation — Beyond GLP-1 Drugs
 
-## Original Title (Greek)
-Πέντε κατηγορίες προϊόντων ευθύνονται για το 31% όλων των θανάτων παγκοσμίως κάθε χρόνο:
+## Translated Title
+Metabolic Health as the Starting Point: Addressing Root Causes vs. Pharmaceutical Management
 
 ## Category
-cancer, cardiovascular, neuro, nutrition
+P0 — Metabolic Health, Cardiovascular Disease, GLP-1, Lifestyle Medicine
 
-## Source Study
-- **Journal:** New England Journal of Medicine
-- **Year:** 2026
+## Source Studies
+1. **European Heart Journal** (March 6, 2026) — ESC Scientific Statement on Metabolic Risk Factors
+2. **Journal of Clinical Medicine** (May 2025) — Weight Regain After GLP-1 Interruption
+
+## Key Findings
+
+### The ESC Paradigm Shift
+- European Society of Cardiology now recognizes metabolic factors as central to CVD
+- Shift from "cholesterol problem" to "metabolic health problem"
+- Coincides with GLP-1 drugs becoming highest-selling pharmaceutical category (Q4 2025)
+
+### GLP-1 Limitations
+- **Require permanent use** — Weight returns quickly after discontinuation
+- **Significant side effects:** Muscle loss, bone density reduction, persistent nausea, neuropsychiatric effects (under FDA/EMA investigation)
+- **Do not address root causes** — Patients continue same diet, sedentary lifestyle, micronutrient deficiencies
+
+### The Real Solution
+Metabolic disorders are reversible through:
+- Unprocessed whole foods
+- Regular physical activity
+- Quality sleep
+- Micronutrient repletion
+- Healthy lifestyle adoption
+
+These are not "alternative" approaches — they address the original cause.
 
 ## Key References
+- [[Evans_2026_ESC_Metabolic_Risk_R-002-0013]] — ESC scientific statement
+- [[Quarenghi_2025_GLP1_Weight_Regain_R-002-0014]] — GLP-1 interruption study
+
+## Extraction Status
+- [x] SPARK check: Metabolic CVD links exist; GLP-1 critique is NEW
+- [x] Priority: P0 (timely, clinical relevance, guideline shift)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [x] References: Ready in Hub (linked)
 - [Extract from full text]
 
 ## Extraction Status

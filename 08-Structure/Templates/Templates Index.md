@@ -23,15 +23,22 @@ parent-moc: [[08 Structure Index]]
 | Template_Zettel_v2.0.md | Atomic knowledge (unified) | v2.0 |
 | Template_Daily_v1.0.md | Date-stamped daily logs | v1.0 |
 
+## Reference Templates (USE CORRECT ONE)
+
+| Template | Use | When to Use |
+|----------|-----|-------------|
+| **Template_Reference_Note_v1.0.md** | Hub-style reference | **DEFAULT** — Most references, citation hub |
+| Template_Reference_v3.0.md | Science workflow tracking | Deep research, PhD sources, method tracking |
+| Template_Reference_Queue_v1.0.md | Snowball tracking | Reading queue, not yet extracted |
+
+**⚠️ CRITICAL:** Use `Template_Reference_Note_v1.0.md` for FB-Posts batch unless source is PhD-level scientific paper.
+
 ## Supporting Templates
 
 | Template | Use | Version |
 |----------|-----|---------|
 | Template_MOC_v1.0.md | Maps of Content | v1.0 |
 | Template_Synthesis_v1.0.md | Living documents | v1.0 |
-| Template_Reference_v3.0.md | Scientific references | v3.0 |
-| Template_Reference_Note_v1.0.md | Reference-as-hub | v1.0 |
-| Template_Reference_Queue_v1.0.md | Snowball tracking | v1.0 |
 
 ## Domain-Specific Templates
 
