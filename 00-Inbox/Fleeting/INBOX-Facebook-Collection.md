@@ -587,3 +587,464 @@ topic: personalized-nutrition, cvd, intervention, heart-attack
 ---
 *Article ID: Εξατομικευμένη-Διατροφή-Έμφραγμα | Created: 2026-04-04*
 
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+article-title: "Η Νηστεία Ενισχύει την Αποτελεσματικότητα της Ανοσοθεραπείας σε Ασθενείς με Καρκίνο"
+english-title: "Fasting Enhances Immunotherapy Effectiveness in Cancer Patients"
+original-language: Greek
+translated: complete
+priority: P0
+topic: fasting, immunotherapy, cancer, metabolism
+---
+
+# Article: Fasting Enhances Cancer Immunotherapy
+
+## Key Findings
+
+### 16-Hour Fasting Protocol
+- **16-hour fasting** before immunotherapy enhances T-cell function
+- Increases cancer cell destruction capability
+- Synergistic effect with immunotherapy drugs
+
+### Mechanism
+- Fasting alters metabolism and immune cell function
+- Makes immunotherapy more effective at destroying cancer cells
+- Metabolic changes improve anti-cancer response
+
+### Fast-Mimicking Diet (FMD)
+- Low-protein, low-carbohydrate plant-based protocol
+- 2-4 day cycles alongside pharmaceutical treatment
+- Mimics metabolic changes of fasting without complete food abstinence
+
+### Clinical Evidence
+- Multiple clinical trials and meta-analyses support safety and efficacy
+- Enhances anti-cancer treatments and immune function
+- Safe when properly monitored
+
+## Key References
+- Chen S, et al. Cell Metabolism 2026 (16-h fasting optimizes cancer immunotherapy)
+- Vernieri C, et al. Cancer Discovery 2022 (Fasting-mimicking diet safety and metabolism)
+- Vernieri C, et al. Cell Metabolism 2024 (Cyclic fasting-mimicking diet in cancer)
+- Pereira IC, et al. European Journal of Nutrition 2026 (FMD systematic review)
+
+## Extraction Status
+- [x] SPARK check: Fasting/immunotherapy zettels exist; 16-hour protocol timing is NEW
+- [x] Priority: P0 (cancer treatment enhancement)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [x] References: Ready in source
+
+---
+*Article ID: Νηστεία-Ανοσοθεραπεία-Καρκίνος | Created: 2026-04-04*
+
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+article-title: "Η φλεγμονή στο σώμα αυξάνει τον κίνδυνο για καρδιακά επεισόδια και θάνατο"
+english-title: "Inflammation Increases Risk for Heart Attacks and Death"
+original-language: Greek
+translated: complete
+priority: P1
+topic: inflammation, crp, cardiovascular-risk, biomarkers
+---
+
+# Article: Inflammation and CVD Risk (hsCRP)
+
+## Key Findings
+
+### CRP as Predictor
+- **High CRP** linked to greater heart attack probability
+- Predicts risk even in people without known CVD
+- hsCRP measurement valuable for risk stratification
+
+### Chronic Inflammation Causes
+1. **Ongoing damage:** UPF, smoking, excess alcohol
+2. **Deficiencies:** Vitamins, minerals, omega-3s preventing healing completion
+
+### Consequences of Chronic Inflammation
+- Increased CVD risk
+- Insulin resistance
+- Autoimmune diseases
+- Diabetes
+- Cancer
+
+### Clinical Approach
+- Resolving chronic inflammation is central to prevention
+- Address root causes, not just symptoms
+
+## Key References
+- Kurt B, et al. European Heart Journal 2025 (C-reactive protein and cardiovascular risk)
+
+## Extraction Status
+- [x] SPARK check: CRP/CVD zettels exist; population-level risk data is NEW
+- [x] Priority: P1 (important biomarker confirmation)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [x] References: R-002-0025 created
+
+---
+*Article ID: Φλεγμονή-CRP-Καρδιαγγειακός | Created: 2026-04-04*
+
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+article-title: "Ακόμη και 15–20 λεπτά έντονης άσκησης την εβδομάδα συνδέονται με 16–40% χαμηλότερο κίνδυνο θανάτου"
+english-title: "Even 15-20 Minutes of Vigorous Exercise Weekly Linked to 16-40% Lower Death Risk"
+original-language: Greek
+translated: complete
+priority: P1
+topic: exercise, mortality, physical-activity, dose-response
+---
+
+# Article: Minimal Exercise Dose for Mortality Reduction
+
+## Key Findings
+
+### Dose-Response Relationship
+| Exercise Amount | Mortality Reduction |
+|-----------------|---------------------|
+| 15-20 min/week vigorous | 16-40% lower risk |
+| ~25 min/week optimal | 46% lower all-cause mortality |
+| ~25 min/week | 58% lower CVD mortality |
+| ~45 min/week | 37% lower cancer mortality |
+
+### Key Insight
+- **Diminishing returns:** Biggest benefits at low doses
+- Small amounts provide most protection
+- Additional exercise continues to help but at gentler rate
+
+### Practical Example
+- Walk 1 hour, 4×/week
+- Add 15-30 min vigorous exercise 2×/week (weights, sprint, bodyweight)
+
+### Study Design
+- 72,000 participants
+- 6-year follow-up
+- European Heart Journal publication
+
+## Key References
+- Ahmadi MN, et al. European Heart Journal 2022 (Vigorous physical activity and mortality)
+- Polo-López A, et al. Progress in Cardiovascular Diseases 2024 (10-15 min minimal dose)
+
+## Extraction Status
+- [x] SPARK check: Exercise/mortality zettels exist; minimal dose threshold is NEW
+- [x] Priority: P1 (practical clinical guidance)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [x] References: R-002-0032 created
+
+---
+*Article ID: Άσκηση-15-20-λεπτά-Θνησιμότητα | Created: 2026-04-04*
+
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+article-title: "Υψηλή Γλυκόζη ή Υψηλή Ινσουλίνη; Τι Έχει Μεγαλύτερη Σημασία;"
+english-title: "High Glucose or High Insulin: What Matters More?"
+original-language: Greek
+translated: complete
+priority: P0
+topic: glucose, insulin, diabetes, cardiovascular-risk, metabolic-health
+---
+
+# Article: Glucose vs Insulin in CVD Risk
+
+## Key Findings
+
+### The ACCORD Study Lesson (2008)
+- **Intensive glucose control increased deaths**
+- Did not significantly reduce CVD events
+- Challenged "lower is always better" paradigm
+
+### Different Vascular Effects
+| Factor | Primary Damage |
+|--------|----------------|
+| **High glucose** | Small vessels (kidneys, eyes, peripheral nerves) |
+| **High insulin** | Large vessels (heart attack, stroke risk) |
+
+### Insulin Resistance Markers
+| Fasting Insulin | Interpretation |
+|-----------------|----------------|
+| <5 μIU/mL | Good insulin sensitivity |
+| 5-10 μIU/mL | Acceptable range |
+| >10-12 μIU/mL | Possible insulin resistance |
+| >15 μIU/mL | Significant insulin resistance likely |
+
+### Ideal Approach
+- Target best glucose control with **lowest possible insulin**
+- Metformin and lifestyle improve insulin action
+- Reduce mortality and CVD risk
+
+### Insulin Resistance Causes
+- Mitochondrial dysfunction (UPF, deficiencies, toxins)
+- Increased oxidation
+- Vitamin/mineral deficiencies
+- Gut dysbiosis
+- Chronic inflammation
+- High glycemic load diet
+
+## Key References
+- ACCORD Study. NHLBI 2008
+- Liao J, et al. Scientific Reports 2025 (Insulin resistance surrogates and mortality)
+- Zhou Z, et al. Food Science & Nutrition 2025 (Insulin resistance and CVD mortality)
+- Gast KB, et al. PLoS One 2012 (Insulin resistance and incident CVD meta-analysis)
+- Feng S, et al. American Journal of Clinical Nutrition 2025 (Carb-restricted diets and CVD)
+
+## Extraction Status
+- [x] SPARK check: Glucose/insulin zettels exist; vascular differentiation is NEW
+- [x] Priority: P0 (paradigm shift in diabetes management)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [x] References: Multiple studies identified
+
+---
+*Article ID: Γλυκόζη-Ινσουλίνη-Καρδιαγγειακός | Created: 2026-04-04*
+
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+article-title: "Αν Διακόψουμε τη Ζάχαρη και τους Υδατάνθρακες Πώς Θα Μπορούσε αυτό να Επηρεάσει την Υγεία Μας;"
+english-title: "If We Stop Sugar and Carbs: How Would This Affect Our Health?"
+original-language: Greek
+translated: complete
+priority: P1
+topic: low-carb, ketogenic, carbohydrate-withdrawal, metabolic-adaptation
+---
+
+# Article: Stopping Sugar and Carbs — Metabolic Effects
+
+## Key Findings
+
+### Prevalence of Metabolic Dysfunction
+- **90% of population** has some degree of metabolic dysfunction
+- Impaired glucose/carbohydrate metabolism
+- Low-carb helps increase energy production and reduce chronic inflammation
+
+### Ketogenic Diet Myths vs Facts
+
+**Myth:** Low-carb increases heart disease risk
+**Fact:** Largest study (135,335 people, 18 countries) found **higher carb intake linked to increased mortality**
+
+**Myth:** "Keto flu" is unavoidable and dangerous
+**Fact:** Symptoms (fatigue, dizziness, cramps, headache, brain fog) caused by fluid/electrolyte loss. **Preventable** with salt, electrolytes, magnesium
+
+**Myth:** Low-carb is unbalanced long-term
+**Fact:** Can be nutritionally complete when properly formulated
+
+### Carbohydrates Are Not Essential
+- No deficiency symptoms from complete carbohydrate absence
+- Brain, RBCs, eyes can get glucose via gluconeogenesis
+- Proteins and fats ARE essential; carbs are not
+
+### Clinical Applications
+Low-carb/ketogenic diets are powerful tools for:
+- Chronic inflammation
+- Autoimmune diseases
+- Metabolic disorders (insulin resistance, obesity, hypertension, diabetes)
+
+### Reintroduction Protocol
+After metabolic function restored, can gradually reintroduce "good" unprocessed carbs:
+- Fruits, honey, legumes
+- Barley rusks, sourdough breads
+- Mediterranean diet pattern
+
+## Key References
+- Teicholz N, et al. Nutrients 2025 (Myths and Facts Regarding Low-Carbohydrate Diets)
+- Harvey CJC, et al. Nutrition 2019 (Carbohydrate withdrawal symptoms study)
+
+## Extraction Status
+- [x] SPARK check: Low-carb/keto zettels exist; myth-busting compilation is NEW
+- [x] Priority: P1 (patient education resource)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [x] References: R-002-0033 created
+
+---
+*Article ID: Διακοπή-Ζάχαρης-Υδατανθράκων | Created: 2026-04-04*
+
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+article-title: "Οι κύριοι παράγοντες κινδύνου για την ανάπτυξη καρδιαγγειακής νόσου"
+english-title: "Main Risk Factors for Cardiovascular Disease Development"
+original-language: Greek
+translated: complete
+priority: P1
+topic: cardiovascular-risk-factors, metabolic-syndrome, prevention
+---
+
+# Article: CVD Risk Factors — Priority Ranking
+
+## Key Findings
+
+### Risk Factors by Importance
+1. **Diabetes**
+2. **Insulin resistance**
+3. **Hypertension**
+4. **Smoking**
+5. **Low HDL cholesterol**
+6. **Elevated triglycerides**
+7. **Small dense LDL (sdLDL)**
+8. **Increased body weight**
+9. **Elevated Lp(a)**
+10. **Elevated LDL cholesterol**
+11. **High total cholesterol**
+
+### Critical Insight
+**LDL is #10 on the list** — yet receives disproportionate focus in guidelines
+
+### Metabolic Cluster
+Hypertension + high triglycerides + low HDL + sdLDL + obesity = **insulin resistance manifestations**
+
+### The Problem with LDL-Only Focus
+- Leads to restricting nutritious foods (meat, eggs, dairy)
+- Increases processed food consumption
+- Diverts attention from factors covering ~80% of CVD risk
+
+### sdLDL (Small Dense LDL)
+- More atherogenic than regular LDL
+- Created by glucose exposure and oxidation
+- Quality of LDL matters more than quantity
+
+### True Prevention
+- Unprocessed whole foods
+- Avoid UPF
+- Outdoor physical activity
+- Quality sleep
+- Correct micronutrient deficiencies
+
+## Key References
+- Dugani SB, et al. JAMA Cardiology 2021 (Lipid, inflammatory, metabolic biomarkers in women)
+- Ikezaki H, et al. Journal of the American Heart Association 2021 (Small dense LDL most atherogenic)
+- Diamond DM, et al. Current Opinion in Endocrinology & Diabetes and Obesity 2022 (Statin therapy not warranted on low-carb diet)
+
+## Extraction Status
+- [x] SPARK check: CVD risk factor zettels exist; prioritized ranking is NEW
+- [x] Priority: P1 (clinical prioritization framework)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [x] References: Multiple studies identified
+
+---
+*Article ID: Παράγοντες-Κινδύνου-Καρδιαγγειακής | Created: 2026-04-04*
+
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+article-title: "Μεταβολισμός & Υγεία της Καρδιάς"
+english-title: "Metabolism & Heart Health"
+original-language: Greek
+translated: complete
+priority: P1
+topic: metabolism, cardiovascular-health, insulin-resistance, endothelial-function
+---
+
+# Article: Metabolism and Cardiovascular Health
+
+## Key Findings
+
+### Beyond Cholesterol
+- Cholesterol is only one part of the problem
+- **NOT the primary determinant** for most people
+
+### Metabolic Factors Dominance
+- Insulin resistance associated with **14× greater increase** in coronary artery disease risk vs isolated cholesterol elevation
+- Metabolic processes (energy production, nutrient adequacy, insulin action, inflammation management) play central role
+
+### Conditions Increasing CVD Risk
+- Type 2 diabetes
+- Hypertension
+- Obesity
+- Kidney dysfunction
+
+### Silent Progression
+These factors act for years before symptoms appear, creating ground for CVD
+
+### Key Principles
+- Everyone's metabolism is unique
+- Insulin resistance, diabetes, obesity are metabolic disorders increasing risk
+- Correcting deficiencies and addressing chronic inflammation + insulin resistance substantially improves heart health
+
+## Key References
+- Dugani SB, et al. JAMA Cardiology 2021
+- Pasut A, et al. Nature Reviews Cardiology 2025 (Endothelial cell metabolism in CVD)
+
+## Extraction Status
+- [x] SPARK check: Metabolism/CVD zettels exist; endothelial metabolism focus is NEW
+- [x] Priority: P1 (mechanistic understanding)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [x] References: Studies identified
+
+---
+*Article ID: Μεταβολισμός-Υγεία-Καρδιάς | Created: 2026-04-04*
+
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+article-title: "Λιποπρωτεΐνη Άλφα ή Lp(a), τι Είναι και τι Μπορούμε να Κάνουμε"
+english-title: "Lipoprotein(a) or Lp(a): What It Is and What We Can Do"
+original-language: Greek
+translated: complete
+priority: P0
+topic: lpa, lipoprotein-a, cardiovascular-risk, thrombosis
+---
+
+# Article: Lipoprotein(a) — Mechanism and Management
+
+## Key Findings
+
+### What is Lp(a)?
+- LDL-like particle with extra protein piece (apolipoprotein(a))
+- Extra component promotes **clot formation**
+- Clots cause heart attacks and strokes
+
+### Evolutionary Origin
+- Helped survival through faster bleeding cessation
+- Now, with longer lifespans and less trauma risk, becomes liability
+
+### Risk Levels
+| Lp(a) Level | Risk Interpretation |
+|-------------|---------------------|
+| <30 mg/dL | Not associated with increased risk |
+| 30-50 mg/dL | Moderate risk increase |
+| >50 mg/dL | Significant risk increase (50% or more) |
+
+### Dose-Response
+- Risk increases ~10% for every 20 mg/dL increase
+- Multiplicative effect on existing risk
+
+### Current Treatment Landscape
+- **No drugs currently available** to lower Lp(a)
+- Clinical trials underway (drugs can reduce Lp(a) up to 95%)
+- Unknown if reduction translates to health outcomes
+- More data expected in coming years
+
+### Clinical Approach Now
+- Measure Lp(a) once in lifetime (genetically determined, doesn't change much)
+- Factor into overall risk assessment
+- Aggressively manage other modifiable risk factors
+- Consider earlier/more intensive prevention strategies if Lp(a) elevated
+
+## Key References
+- (Primary Lp(a) studies to be added)
+
+## Extraction Status
+- [x] SPARK check: Lp(a) zettels exist; mechanistic explanation is NEW
+- [x] Priority: P0 (emerging risk factor)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [ ] References: Pending search
+
+---
+*Article ID: Λιποπρωτεΐνη-Άλφα-Lp(a) | Created: 2026-04-04*
+
