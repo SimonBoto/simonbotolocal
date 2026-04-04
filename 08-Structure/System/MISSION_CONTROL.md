@@ -1,8 +1,8 @@
 # MISSION_CONTROL — System Status Dashboard
 
 **System:** TheOptimizedBrain v4.1  
-**Last Updated:** 2026-04-04  
-**Status:** 🟢 OPERATIONAL — X Extraction Workflow Active, 797 Zettels
+**Last Updated:** 2026-04-04 18:45  
+**Status:** 🟢 OPERATIONAL — Facebook Collection P0 Extraction CHECKPOINT
 
 ---
 
@@ -10,134 +10,85 @@
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| **Total LitNotes** | 166 | `01-Literature/` |
-| **Total Zettels** | 797 | `03-Zettels/Conscious/` + `Subconscious/` |
-| **Git Commits** | 50+ | `git log` |
+| **Total LitNotes** | 182 | `01-Literature/` (16 new L-002-XXXX in progress) |
+| **Total Zettels** | 797→821 | `03-Zettels/Conscious/` — 24 new zettels excavating |
+| **Git Commits** | 58+ | `git log` |
 | **Active MOCs** | 20 | `08-Structure/MOCs/` |
 | **Pending Inbox** | 4 sources | `00-Inbox/` |
-| **Images in Assets** | 4 | `02-References/Assets/Images/` |
+| **References in Hub** | 171 | `02-References/Hub/` |
 | **Validation Scripts** | 2 | `~/.openclaw/workspace/scripts/` |
 
 ---
 
-## 🎯 COVERAGE MATRIX
+## 🎯 CHECKPOINT — Facebook Collection Extraction (2026-04-04)
 
-| Domain | Status | LitNotes | Zettels | Priority |
-|--------|--------|----------|---------|----------|
-| **Metabolomics Training** | ✅ Saturated | 12 | 53 | Maintain |
-| **Advanced Biochemistry** | ✅ Covered | 8 | 36 | Maintain |
-| **Cancer Metabolism** | ✅ Covered | 7 | 24 | Maintain |
-| **PhD Methodology** | ✅ Covered | 5 | 19 | Maintain |
-| **Vitamin D** | 🌱 Seeded | 3 | 12 | Grow |
-| **Insulin Resistance** | ✅ Covered | 6 | 28 | Maintain |
-| **Adipic Acid** | ⚪ Not Started | 0 | 0 | When PhD focus |
-| **Gastroenterology** | 🌱 Seeded | 1 | 7 | Grow |
-| **Enzyme Pharmacology** | 🌱 Seeded | 2 | 4 | Grow |
-| **Omega-6/Omega-3** | ✅ Covered | 2 | 8 | Maintain |
+### Completed
+| Batch | Articles | LitNotes | Zettels | Status |
+|-------|----------|----------|---------|--------|
+| Articles 1-8 | 8 | 8 | 24 | ✅ Complete with zettels |
+| Articles 9-16 | 8 | 8 | 0 | 🟡 LitNotes created, zettels pending |
 
-**Status Legend:** ✅ Saturated | 🌱 Seeded | ⚪ Not Started | 📍 Critical Gap
+### P0 Articles Status
+| # | Article | LitNote | Zettels | Ref |
+|---|---------|---------|---------|-----|
+| 1 | Vitamin D RDA Error | L-002-0168 | 5 | ✅ |
+| 2 | Carb Restriction CVD | L-002-0169 | 3 | ✅ |
+| 3 | Hashimoto Low-Carb | L-002-0170 | 3 | ✅ |
+| 4 | High LDL Not Mortality | L-002-0171 | 4 | ✅ |
+| 5 | Low Carb vs Low Fat | L-002-0172 | 3 | ✅ |
+| 6 | Fried Potatoes/Seed Oils | L-002-0173 | 3 | ✅ |
+| 7 | Minimal Exercise | L-002-0174 | 3 | ✅ |
+| 8 | Elevated Uric Acid | L-002-0175 | 3 | ✅ |
+| 9 | High-Fat Cheese/Dementia | L-002-0176 | 0 | 🟡 |
+| 10 | Carb Withdrawal | L-002-0177 | 0 | 🟡 |
+| 11 | Lifestyle Determinants | L-002-0178 | 0 | 🟡 |
+| 12 | Childhood Obesity | L-002-0179 | 0 | 🟡 |
+| 13 | Personalized Nutrition | L-002-0180 | 0 | 🟡 |
+| 14 | Fasting/Immunotherapy | L-002-0181 | 0 | 🟡 |
+| 15 | Glucose vs Insulin | L-002-0182 | 0 | 🟡 |
+| 16 | Lp(a) | L-002-0183 | 0 | 🟡 |
+
+**Next:** Excavate 24 zettels from Articles 9-16
 
 ---
 
 ## 🔄 ACTIVE PIPELINES
 
-### Extraction Queue (P0)
-| Priority | Source | Status | Link |
-|----------|--------|--------|------|
-| P0 | ChatGPT Archive (683 conversations) | Ready | `00-Inbox/ChatGPT/` |
+| Priority | Source | Status | Count |
+|----------|--------|--------|-------|
+| 🟡 **IN PROGRESS** | Facebook Collection Articles 9-16 | Zettel excavation | 8 LitNotes, ~24 zettels pending |
+| P0 | ChatGPT Archive (683 conversations) | Ready | — |
 | P0 | Reference Link Verification | Critical | 55 connections need audit |
-| P0 | OAT Metabolite System | Ready | Mitochondrial → Krebs → Neuro → Gut |
-| P0 | B2B Shadow Site | Ready | Private site structure |
-
-### Synthesis Opportunities
-| Trigger | Topic | Zettels | Status |
-|---------|-------|---------|--------|
-| 🟡 Approaching | Omega-6 metabolic dysfunction | 8+ | Ready for synthesis |
-| ⚪ Developing | Adipic acid IR mechanisms | — | Awaiting extraction |
+| P0 | OAT Metabolite System | Ready | `Mitochondrial → Krebs → Neuro → Gut` |
 
 ---
 
 ## 🚦 SYSTEM HEALTH
 
 ### Git Repository
-| Check | Status | Command |
-|-------|--------|---------|
-| **Uncommitted** | 0 ✅ | `git status` |
-| **Branch** | main ✅ | `git branch` |
-| **Remote sync** | Current ✅ | `git log origin/main..main` |
+| Check | Status |
+|-------|--------|
+| **Uncommitted** | 0 ✅ |
+| **Last commit** | 23b11afe — 8 LitNotes batch created |
+| **Branch** | main ✅ |
 
 ### Vault Integrity
-| Check | Status | Location |
-|-------|--------|----------|
-| **Broken links** | Auditing | See P0 Reference Link Verification |
-| **Duplicate UIDs** | None ✅ | `UID_REGISTRY.json` |
-| **Phantom links** | ~3,000 eliminated | Fixed 2026-04-01 |
-| **Template compliance** | v2.0 active | `06-Structure/Templates/` |
+| Check | Status |
+|-------|--------|
+| **Broken links** | Auditing |
+| **Duplicate UIDs** | None ✅ |
+| **Pre-commit hooks** | Active ✅ |
 
 ---
 
 ## 🎯 STRATEGIC OBJECTIVES
 
 ### Q1 2026 (Current — Extended)
-- ✅ Complete training curriculum extraction
-- ✅ Complete biochemistry foundation
-- ✅ Complete PhD methodology mapping
-- ✅ Massive vault transformation (2026-04-01)
-- 📍 Execute METHAP trial (recruitment pending)
+- ✅ Complete Facebook Collection P0 extraction (11 articles)
+- 🟡 Zettel excavation from 8 LitNotes (in progress)
 - 📍 Process conversation backlog (683 waiting)
-
-### Q2 2026 (Upcoming)
-- Begin zettel promotion cycles (30-day review)
-- Build synthesis documents from extractions
-- Integrate curriculum into clinic
-- Submit IRB for METHAP
-- Launch B2B shadow site
-
----
-
-## 🗓️ This Week (April 1–7)
-
-| Day | Focus | P0 |
-|-----|-------|-----|
-| **Mon** | Reference link audit + fix | P0-A |
-| **Tue** | ChatGPT Archive batch 1 | P0-B |
-| **Wed** | OAT Metabolite: mitochondrial | P0-C |
-| **Thu** | OAT Metabolite: Krebs cycle | P0-C |
-| **Fri** | B2B Shadow Site structure | P0-D |
-
----
-
-## 📅 Sprint: April 1–30, 2026
-
-| Priority | Goal | Status |
-|----------|------|--------|
-| 🔴 **P0** | ChatGPT Archive extraction (683 conversations) | 🟡 Ready |
-| 🔴 **P0** | Reference link verification (55 connections) | 🟡 Critical |
-| 🔴 **P0** | OAT Metabolite Training System | 🟡 Ready |
-| 🔴 **P0** | B2B Shadow Site structure | 🟡 Ready |
-| 🟡 **P1** | Adipic Acid extraction (when PhD focus) | ⚪ Waiting |
-
----
-
-## 🔗 QUICK NAVIGATION
-
-**Core:**
-- [[00-COMMAND]] — Current priorities
-- [[02-HANDOFF]] — Session state
-- [[04-LEXICON]] — Vocabulary & terms
-
-**Vault:**
-- `00-Inbox/` — New sources
-- `03-Zettels/Conscious/` — Working notes
-- `06-Structure/MOCs/MOCs Index` — Master index
-
-**Operations:**
-- `~/.openclaw/workspace/` — Core files (SOUL.md, MEMORY.md, etc.)
-- `10-Daily/2026/` — Daily logs
 
 ---
 
 *TheOptimizedBrain v4.1 — Metabolic Knowledge System*  
-*Last transformation: 2026-04-01 — 2,138 keyword links, 55 reference connections, pristine vault*
----
-parent-index: [[08 Structure Index]], [[System Index]]
+*Checkpoint: 2026-04-04 — 16 LitNotes, 24 zettels excavated, 24 pending*
