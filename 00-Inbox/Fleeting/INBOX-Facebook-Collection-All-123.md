@@ -256,10 +256,68 @@ Cardiovascular risk requires assessment beyond isolated LDL:
 ---
 *Created: 2026-04-04 | Article 4 of 123*
 
-
 ---
 
 ---
+type: inbox-item
+source: Facebook Posts Collection
+original-language: Greek
+translated: complete
+priority: P1
+topic: neuro, nutrition, genetics, apoe4
+original-title: "Η Κατανάλωση Κρέατος Εξάλειψε τον Γενετικό Κίνδυνο για τη Νόσο Alzheimer"
+article-number: 5
+---
+
+# Article 5: Meat Consumption Eliminates Genetic Risk for Alzheimer's Disease
+
+## Translated Title
+Meat Consumption Eliminates the Genetic Risk for Alzheimer's Disease
+
+## Category
+P1 — Neurodegeneration, Nutrition, Genetics, APOE4
+
+## Source Study
+- **JAMA Network Open** (March 19, 2026) — Swedish cohort study (n=2,157)
+
+## Key Findings
+
+### APOE4 Background
+- **APOE ε4 allele** in ~25% of population
+- Normally increases Alzheimer's risk ~2.5×
+- Genetic risk modifiable by diet
+
+### Main Result
+**High unprocessed meat consumption completely eliminated APOE4 dementia risk.**
+
+- Low meat + APOE4: 2.5× increased dementia risk
+- High unprocessed meat + APOE4: **Risk eliminated**, cognition matched non-APOE4 individuals
+
+### Processed vs. Unprocessed
+- **Unprocessed meat:** Protective (B12, iron, zinc, omega-3s)
+- **Processed meat:** Negative effects regardless of genotype
+
+### Clinical Implications
+- Dietary intervention can overcome genetic predisposition
+- Nutrient-dense animal foods critical for cognitive health
+- Distinguish processed from unprocessed meat in recommendations
+
+## Key References
+- [[Norgren_2026_Meat_APOE4_Cognitive_R-002-0015]] — Primary study
+
+## Extraction Status
+- [x] SPARK check: APOE4 zettels exist; meat-cognition protection is NEW
+- [x] Priority: P1 (challenges dietary dogma, genetic-nutrition interaction)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [x] References: Ready in Hub (linked)
+
+---
+*Created: 2026-04-04 | Article 5 of 123*
+
+
+---
+-
 type: inbox-item
 source: Facebook Posts Collection
 original-language: Greek
@@ -408,34 +466,29 @@ other
 type: inbox-item
 source: Facebook Posts Collection
 original-language: Greek
-translated: partial
-priority: TBD
-topic: neuro
+translated: complete
+priority: P1
+topic: neuro, nutrition, genetics, apoe4
 original-title: "Η Κατανάλωση Κρέατος Εξάλειψε τον Γενετικό Κίνδυνο για τη Νόσο Alzheimer"
 article-number: 8
 ---
 
-# Η Meat Consumption Εξάλειψε τον Genetic Risk για τη Alzheimer's Disease
+# Article 8: [DUPLICATE — See Article 5]
 
-## Original Title (Greek)
-Η Κατανάλωση Κρέατος Εξάλειψε τον Γενετικό Κίνδυνο για τη Νόσο Alzheimer
+## Status
+**This article is a duplicate of Article 5.**
 
-## Category
-neuro
+Same source content: Meat consumption and APOE4 genetic risk for Alzheimer's.
 
-## Source Study
-- **Journal:** JAMA
-- **Year:** 2026
+## Redirect
+→ **See [[Article 5: Meat Consumption Eliminates Genetic Risk for Alzheimer's Disease]]**
 
 ## Key References
-- [Extract from full text]
+- [[Norgren_2026_Meat_APOE4_Cognitive_R-002-0015]]
 
 ## Extraction Status
-- [ ] SPARK check (vault search)
-- [ ] Priority assigned (P0/P1/P2/P3)
-- [ ] LitNote created
-- [ ] Zettels extracted
-- [ ] References deduplicated
+- [x] DUPLICATE — Content processed in Article 5
+- [x] Redirected to Article 5
 
 ---
 *Created: 2026-04-04 | Article 8 of 123*
