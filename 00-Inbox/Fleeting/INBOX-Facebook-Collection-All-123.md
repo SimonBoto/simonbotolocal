@@ -1197,14 +1197,15 @@ Is elevated glucose the problem, or is elevated insulin the deeper issue?
 - Emerging: Focus on insulin (metabolic health continuum)
 
 ## Key References
-- (Search and add reference)
+- [[Zhao_2019_Insulin_CVD_Mortality_R-002-0026]] — HOMA-IR meta-analysis (111% CVD mortality increase)
+- [[Pereira_2023_Exercise_Dose_Mortality_R-002-XXXX]] — TODO: Search for 15-min exercise study
 
 ## Extraction Status
 - [x] SPARK check: Insulin resistance zettels exist; insulin-vs-glucose primacy is NEW
 - [x] Priority: P0 (paradigm shift in metabolic medicine)
 - [ ] LitNote created
 - [ ] Zettels extracted
-- [ ] References: Pending web search
+- [x] References: Partial (Zhao 2019 added, exercise ref pending)
 
 ---
 *Created: 2026-04-04 | Article 17 of 123*
