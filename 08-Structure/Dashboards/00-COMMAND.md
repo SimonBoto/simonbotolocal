@@ -9,9 +9,9 @@ status: active
 ## P0 — Critical Path
 | Priority | Item | Status | Next Action |
 |----------|------|--------|-------------|
-| P0 | X post extractions | ✅ Active | High-yield source — continue daily |
-| P0 | AURA implementation (SOLARIS adaptation) | 🟡 Planned | Create synthesis system for pattern detection |
-| P0 | RON-CARE schedule | 🟡 Planned | Automated vault maintenance (weekly/monthly/quarterly) |
+| P0 | Article extraction marathon | ✅ Active | Articles 65-90 remaining (26 to complete) |
+| P1 | AURA implementation (SOLARIS adaptation) | ⏸️ On hold | After article extraction complete |
+| P1 | RON-CARE schedule | ⏸️ On hold | After article extraction complete |
 | P0 | PhD ClinicalTrials.gov | ⏸️ Blocked | University delays |
 
 ## P1 — High Value
