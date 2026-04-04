@@ -27,10 +27,12 @@ created: 2026-03-04
 - [[Alpha_Keto_Acids_Metabolic_Intermediates_Z-001-0500]] α-Keto Acids as Intermediates
 
 ## Central Hubs
-- [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]] Glutamate Central Hub
-- [[Lipoproteins_Transport_System_Z-001-0502]] Glutamine-Glutamate-Ammonia Cycle
-- [[LDL_Cholesterol_Structure_Function_Risk_Z-001-0503]] Glutamate-Arginine-Urea Cycle
-- [[HDL_Cholesterol_Reverse_Cholesterol_Transport_Z-001-0504]] Aspartate Simple Structure
+- [[Glutamate_Central_Hub_Amino_Acid_Metabolism_Z-001-XXXX]] Glutamate Central Hub — *PENDING CREATION*
+- [[Glutamine_Glutamate_Ammonia_Cycle_Z-001-XXXX]] Glutamine-Glutamate-Ammonia Cycle — *PENDING CREATION*
+- [[Glutamate_Arginine_Urea_Cycle_Z-001-XXXX]] Glutamate-Arginine-Urea Cycle — *PENDING CREATION*
+- [[Aspartate_Simple_Structure_Amino_Acid_Z-001-XXXX]] Aspartate Simple Structure — *PENDING CREATION*
+
+> ⚠️ **Note:** Zettels 0501-0504 in this range are cholesterol-related, not amino acid. Central hub zettels need creation.
 
 ## Clinical
 - PKU (phenylalanine)

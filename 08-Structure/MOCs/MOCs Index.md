@@ -24,12 +24,13 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 
 | Metric | Value |
 |--------|-------|
-| **Total Zettels** | 767 |
+| **Total Zettels** | 797 |
+| **Domain MOCs** | 63 |
 | **Keyword MOCs** | 41 |
-| **Total Links** | 3,007 |
-| **Avg Links/Zettel** | 3.92 |
-| **Domains** | 12 |
-| **Last Updated** | 2026-04-01 |
+| **Total Links** | 3,500+ |
+| **Avg Links/Zettel** | 4.4 |
+| **Domains** | 15+ |
+| **Last Updated** | 2026-04-04 |
 
 ---
 
@@ -48,6 +49,15 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 | **007** | [[MOC-Inflammation]] | 1 | CRP, cytokines |
 | **008** | [[MOC-Liver-Function]] | 1 | Liver enzymes |
 | **009** | [[MOC-Kidney-Metabolism]] | 1 | eGFR, creatinine |
+| **Methodology** | [[MOC-Research-Methodology]] | 1 | Experimental design, methods |
+| **Genetics** | [[MOC-Genetic-Variation]] | 1 | Mutations, polymorphisms |
+| **Cell Biology** | [[MOC-Cellular-Compartmentalization]] | 1 | Organelles, transport |
+| **Enzymes** | [[MOC-Enzyme-Mechanisms]] | 1 | Catalysis, kinetics |
+| **Pathways** | [[MOC-Metabolic-Pathways]] | 4 | Biosynthesis, catabolism |
+| **SynBio** | [[MOC-Synthetic-Biology]] | 1 | Engineering, heterologous |
+| **Plants** | [[MOC-Plant-Biochemistry]] | 8 | Alkaloids, secondary metabolites |
+| **Regeneration** | [[MOC-Cellular-Regeneration]] | 1 | Tissue turnover, healing |
+| **Vitamins** | [[MOC-Vitamin-C]] | 8 | Ascorbate, Pauling, functions |
 | **010** | [[MOC-Minerals-Trace]] | 1 | Mg, Zn, Se |
 | **101** | [[MOC-Pharmacometabolomics]] | 55 | Drug metabolism |
 
@@ -89,7 +99,7 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 
 ---
 
-## 📋 All MOCs (54 Total)
+## 📋 All MOCs (63 Total)
 
 ### Metabolism & Biochemistry
 - [[MOC-Amino-Acid-Metabolism]] — Amino acid pathways
@@ -172,3 +182,18 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 
 ---
 parent-index: [[08 Structure Index]], [[MOCs Index]]
+
+### Recently Added MOCs (2026-04-04)
+| MOC | Focus | Zettels |
+|-----|-------|---------|
+| [[MOC-Diabetes-T2D]] | Type 2 diabetes mechanisms | — |
+| [[MOC-Methylation]] | Methylation overview | — |
+| [[MOC-Omega3-Fats]] | Omega-3 fatty acids | — |
+| [[MOC-Cellular-Regeneration]] | Tissue turnover, healing | 1 |
+| [[MOC-Enzyme-Mechanisms]] | Catalysis, kinetics | 1 |
+| [[MOC-Genetic-Variation]] | Mutations, polymorphisms | 1 |
+| [[MOC-Metabolic-Pathways]] | Biosynthesis, catabolism | 4 |
+| [[MOC-Plant-Biochemistry]] | Alkaloids, secondary metabolites | 8 |
+| [[MOC-Research-Methodology]] | Experimental design, methods | 1 |
+| [[MOC-Synthetic-Biology]] | Engineering, heterologous | 1 |
+| [[MOC-Vitamin-C]] | Ascorbate, Pauling, functions | 8 |

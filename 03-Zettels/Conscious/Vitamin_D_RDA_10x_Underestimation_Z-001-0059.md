@@ -30,6 +30,18 @@ Corrected calculations using proper statistical methods (accounting for variabil
 
 **Clinical translation:** What appears "high dose" (4,000-8,000 IU) is actually physiological replacement.
 
+## Social Proof & Current Awareness
+
+**X Post Validation (Dec 9, 2025):**
+- **Author:** Nicolas Hulscher, MPH (@NicHulscher) — 227.8K views, 2,753 likes, 1,295 bookmarks
+- **Claim:** 8,895 IU/day needed for 97.5% to reach ≥50 nmol/L
+- **Key quote:** "The error: The Institute of Medicine 'misread' its own analysis — using values meant for group averages instead of individuals"
+- **Public response:** 930 reposts, widespread discussion of "schoolboy error"
+- **Engagement quality:** High — medical professionals, researchers, public health advocates
+- **Link:** https://x.com/nichulscher/status/1998225231366738203
+
+**Why this matters:** The same statistical error we documented in March 2026 is now viral in December 2025, validating the research and showing persistent public health impact.
+
 ## Links
 
 **Parent MOC:** -

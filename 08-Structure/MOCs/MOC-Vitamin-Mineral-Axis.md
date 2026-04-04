@@ -5,6 +5,7 @@ description: "Master navigation for micronutrient biochemistry, cofactors, defic
 domain: "micronutrients"
 created: "2026-04-02"
 status: active
+parent-moc: "[[MOCs Index]]"
 parent-index: "[[08-Structure/MOCs/MOCs-Index]]"
 ---
 
@@ -34,6 +35,16 @@ This MOC covers:
 |--------|-------|--------------|
 | [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]] | D-PTH-calcium hormonal system | D dosing, PTH interpretation |
 | [[Vitamin_K2_Calcium_Direction_MGP_Z-001-1061]] | K2, MGP, calcium trafficking | Vascular protection, bone health |
+
+### Vitamin C (Dedicated MOC)
+| MOC | Coverage |
+|-----|----------|
+| [[MOC-Vitamin-C]] | Biochemistry, Pauling, history, therapeutic use |
+
+### Other Vitamins
+| Zettel | Focus | Clinical Use |
+|--------|-------|--------------|
+| [[Vitamin_Functions_Overview_Z-001-0618]] | All essential vitamins with deficiency signs | Patient education, quick reference |
 
 ### Minerals
 | Zettel | Focus | Clinical Use |

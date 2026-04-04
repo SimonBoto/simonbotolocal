@@ -96,3 +96,51 @@ extraction-date: "{{YYYY-MM-DD}}"
 
 ---
 *L-XXX-XXXX | Created: {{YYYY-MM-DD}} | Tier: {{GOLD/SILVER/BRONZE}}*
+
+---
+
+## EXAMPLE: X Post / Social Media Thread
+
+### YAML for X Posts
+```yaml
+---
+uid: "L-001-0656"
+type: lit-note
+title: "Lit — KingOfVitamins_Pauling_Vitamin_C_2025"
+source-inbox: "[[INBOX-2026-04-04-002_Pauling_Vitamin_C_Thread]]"
+authors: "Vitamin King (@KingOfVitamins)"
+year: "2025"
+source: "X thread"
+url: "https://x.com/kingofvitamins/status/1998757396425093470"
+tier: "GOLD"
+status: extracting
+parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
+extraction-date: "2026-04-04"
+---
+```
+
+### Source Section for X Posts
+```markdown
+## Source
+- **Full citation:** Vitamin King (@KingOfVitamins) (2025). *Linus Pauling and Vitamin C* [X thread]. https://x.com/kingofvitamins/status/1998757396425093470
+- **Engagement:** 1,481 likes, 2,118 bookmarks, 165.9K views
+- **Inbox origin:** [[INBOX-2026-04-04-002_Pauling_Vitamin_C_Thread]]
+- **Image:** [[2025-12-13_X_DrWilliamWallac_Vitamin_Functions.jpg]]
+- **Reference note:** [[KingOfVitamins_2025_R-001-0656]]
+```
+
+### Zettel Extraction from Threads
+| Thread Depth | Zettel Count | Example |
+|--------------|--------------|---------|
+| Single image + caption | 1 zettel | Mitochondrial functions diagram |
+| 4-6 post thread | 4-8 zettels | Body regeneration timeline |
+| 10+ post deep dive | 8-12 zettels | Pauling vitamin C thread |
+
+### X Post Workflow
+1. **Browser fetch** — Navigate to X post URL
+2. **Image capture** — User sends screenshot (bypasses download limits)
+3. **Save immediately** — Copy to `02-References/Assets/Images/`
+4. **Create Inbox** — Raw thread content with engagement metrics
+5. **Create LitNote** — This template with X-specific fields
+6. **Extract zettels** — 1 per major claim/theme
+7. **Connect to MOCs** — Link to relevant knowledge domains

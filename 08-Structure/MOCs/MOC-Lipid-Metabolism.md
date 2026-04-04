@@ -25,6 +25,7 @@ tags: [moc, lipids, metabolism, fatty-acids, cholesterol]
 - [[Chain_Length_Metabolic_Fate_Fatty_Acids_Z-001-1213]
 - [[Cis_vs_Trans_Fatty_Acids_Z-001-1212]
 - [[Saturated_vs_Unsaturated_Fats_Z-001-1210]
+- [[Linoleic_Acid_Oxylipins_Metabolic_Dysfunction_Z-001-0619]] — Seed oils, inflammation, obesity
 
 ---
 

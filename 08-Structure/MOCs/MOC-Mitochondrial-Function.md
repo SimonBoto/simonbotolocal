@@ -5,6 +5,7 @@ description: "Master navigation hub for mitochondrial biochemistry, energy metab
 domain: "mitochondria"
 created: "2026-04-02"
 status: active
+parent-moc: "[[MOCs Index]]"
 parent-index: "[[08-Structure/MOCs/MOCs-Index]]"
 ---
 
@@ -48,6 +49,11 @@ This MOC covers:
 |--------|-------|--------------|
 | [[Redox_Cofactors_NAD_FAD_Biochemistry_Z-001-1051]] | NAD/FAD mechanisms | Redox balance optimization |
 | [[Cofactor_Deficiency_OAT_Signatures_Z-001-1052]] | B-vitamin deficiency patterns | Targeted supplementation |
+
+### Beyond ATP — Signaling Functions
+| Zettel | Focus | Clinical Use |
+|--------|-------|--------------|
+| [[Mitochondrial_Functions_Beyond_ATP_Diagram_Z-001-0616]] | Visual summary of 6 functions | Patient education, systems view |
 | [[Aconitase_Oxidative_Stress_Sensitivity_Z-001-1053]] | Oxidative stress sentinel | Early mitochondrial damage |
 
 ### Related Metabolism
