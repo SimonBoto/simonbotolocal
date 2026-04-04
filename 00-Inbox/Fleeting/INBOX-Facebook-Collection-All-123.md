@@ -932,9 +932,83 @@ High UPF consumption at age 3 → more behavioral problems at age 5.
 ---
 *Created: 2026-04-04 | Article 13 of 123*
 
+---
 
 ---
-e: inbox-item
+type: inbox-item
+source: Facebook Posts Collection
+original-language: Greek
+translated: complete
+priority: P0
+topic: cancer, fasting, immunotherapy, metabolism
+original-title: "Η Νηστεία Ενισχύει την Αποτελεσματικότητα της Ανοσοθεραπείας σε Ασθενείς με Καρκίνο"
+article-number: 14
+---
+
+# Article 14: Fasting Enhances Cancer Immunotherapy Effectiveness
+
+## Translated Title
+Fasting Enhances the Effectiveness of Immunotherapy in Cancer Patients
+
+## Category
+P0 — Cancer, Fasting, Immunotherapy, Metabolism
+
+## Source Studies
+1. **Cell Metabolism** (February 19, 2026) — Chen et al. 16-hour fasting study
+2. **Cancer Discovery** (2022) — Vernieri et al. Fasting-mimicking diet
+3. **Cell Metabolism** (2024) — Vernieri et al. Cyclic FMD review
+4. **European Journal of Nutrition** (2026) — Pereira et al. FMD systematic review
+
+## Key Findings
+
+### Core Mechanism
+**16-hour fasting before immunotherapy enhances T-cell cytotoxicity and improves tumor response.**
+
+### How It Works
+- Fasting induces metabolic trade-offs in tumor cells
+- Increases intratumoral **isoleucine** (amino acid)
+- Isoleucine fuels CD8+ T-cell cytotoxicity
+- Acetyl-CoA-driven epigenetic and lipid reprogramming in T-cells
+
+### Asparagine Restriction Effects
+- Asn restriction suppresses early T-cell activation
+- Engages **NRF2-dependent stress response**
+- NRF2 rewires T-cell metabolism:
+  - Reduces glucose/glutamine consumption
+  - Increases intracellular nucleotides
+  - Promotes T-cell proliferation and effector function
+
+### Fasting-Mimicking Diet (FMD)
+- Duration: 2-4 days
+- Composition: Low protein, low carbohydrate
+- Foods: Plant-based, olive oil, nuts
+- Timing: Parallel with pharmaceutical treatment
+- Goal: Mimics metabolic changes of complete fasting without full food abstinence
+
+### Clinical Evidence
+- Both intermittent fasting and FMD are safe
+- Cause metabolic changes that enhance anticancer treatments
+- Improve immune system function
+- **NOT a cancer cure** — enhances immunotherapy effectiveness
+
+## Key References
+- [[Chen_2026_Fasting_Immunotherapy_R-002-0024]] — Primary mechanism study
+- [[Vernieri_2022_Cancer_Discov_FMD_R-002-0025]] — FMD safety/efficacy
+- [[Vernieri_2024_Cell_Metab_FMD_Review_R-002-0026]] — Clinical evidence review
+
+## Extraction Status
+- [x] SPARK check: Fasting zettels exist; 16-h immunotherapy protocol is NEW
+- [x] Priority: P0 (major clinical application, actionable protocol)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [x] References: Ready in Hub (linked)
+
+---
+*Created: 2026-04-04 | Article 14 of 123*
+
+
+---
+inbox-item
 source: Facebook Posts Collection
 original-language: Greek
 translated: partial
