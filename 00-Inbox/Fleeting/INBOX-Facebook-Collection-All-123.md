@@ -1279,9 +1279,297 @@ P1 — Sugar, Carbohydrates, Metabolic Adaptation, Withdrawal
 ---
 *Created: 2026-04-04 | Article 18 of 123*
 
+---
 
 ---
-ox-item
+type: inbox-item
+source: Facebook Posts Collection
+original-language: Greek
+translated: complete
+priority: P1
+topic: cvd, risk-factors, prevention, lifestyle
+original-title: "Οι κύριοι παράγοντες κινδύνου για την ανάπτυξη καρδιαγγειακής νόσου"
+article-number: 19
+---
+
+# Article 19: The Main Risk Factors for Developing Cardiovascular Disease
+
+## Translated Title
+The Main Risk Factors for Developing Cardiovascular Disease
+
+## Category
+P1 — CVD, Risk Factors, Prevention, Lifestyle Medicine
+
+## Source Study
+- **Multiple sources** — ACCORD 2008, NHANES analyses 2025, meta-analyses
+
+## Key Findings
+
+### ACCORD Study 2008 — Critical Evidence
+- **Intensive glucose control INCREASED deaths**
+- Did NOT significantly reduce cardiovascular events
+- Challenged "lower is better" glucose paradigm
+
+### Insulin Excess vs. Glucose Control
+- Excess insulin (from insulin resistance) linked to:
+  - Increased cardiovascular risk
+  - Increased all-cause mortality
+- Metformin and lifestyle interventions that improve insulin action:
+  - Reduce overall death risk
+  - Reduce cardiovascular death risk
+
+### Different Vascular Damage Patterns
+
+**High Glucose damages:**
+- Small vessels primarily
+- Kidneys, vision, peripheral nerves
+
+**High Insulin damages:**
+- Large vessels primarily
+- Increases heart attack and stroke risk
+
+### Ideal Metabolic Regulation
+Target BOTH:
+- Best possible glucose control
+- LOWEST possible insulin levels
+
+### Fasting Insulin Interpretation (with normal glucose)
+| Level | Interpretation |
+|-------|----------------|
+| <5 μIU/mL | Good insulin sensitivity |
+| 5-10 μIU/mL | Acceptable range |
+| >10-12 μIU/mL | Possible insulin resistance |
+| >15 μIU/mL | Significant insulin resistance likely |
+
+### Common Insulin Resistance Drivers
+- **Mitochondrial dysfunction:** UPF, micronutrient deficiencies, low sun, low water, heavy metals, medications (statins, chemotherapy, antibiotics, antipsychotics, paracetamol), pesticides, toxins, alcohol, air pollution
+- **Increased oxidation:** UPF, oxidized seed oils, smoking, alcohol, low antioxidants
+- **Micronutrient deficiencies:** UPF, low nutrient-dense foods
+- **Gut microbiome alteration:** UPF, sugar, smoking, alcohol, antibiotic overuse, low vitamin D, low fermented foods
+- **Chronic inflammation and elevated cortisol:** micronutrient deficiencies, poor sleep, alcohol, excess omega-6/insufficient omega-3, seed oils, inappropriate exercise levels
+- **High glycemic load diet:** excess processed carbs, frequent insulin spikes, liver lipogenesis, increased visceral fat
+
+### Reversibility
+**Insulin resistance is likely the main disease factor worldwide** — but it is:
+- Modifiable
+- Improvable
+- Resolvable through lifestyle, diet, and micronutrient correction
+
+## Key References
+- [[ACCORD_2008_NHLBI_Intensive_Glucose_R-002-XXXX]] — TODO: Add reference
+- [[Liao_2025_Sci_Rep_Insulin_Mortality_R-002-XXXX]] — TODO: Add reference
+- [[Feng_2025_AJCN_Carb_Restricted_CVD_R-002-XXXX]] — TODO: Add reference
+
+## Extraction Status
+- [x] SPARK check: CVD risk factor zettels exist; insulin-centric view is NEW
+- [x] Priority: P1 (comprehensive risk factor overview)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [ ] References: Multiple TODOs pending
+
+---
+*Created: 2026-04-04 | Article 19 of 123*
+
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+original-language: Greek
+translated: complete
+priority: P0
+topic: lipids, biomarkers, cvd, prediction
+original-title: "Βιβλιογραφικές αναφορές (Lipid Biomarkers)"
+article-number: 20
+---
+
+# Article 20: Lipid Biomarkers and Cardiovascular Risk Prediction
+
+## Translated Title
+Bibliographic References — Lipid Biomarkers and CVD Prediction
+
+## Category
+P0 — Lipids, Biomarkers, CVD, Risk Prediction
+
+## Source Studies
+Multiple key studies on lipids, inflammation, and CVD:
+
+1. **Dugani 2021 JAMA Cardiol** — Lipid/inflammatory biomarkers and CHD onset in women
+2. **Gast 2012 PLoS One** — Insulin resistance and incident CVD meta-analysis
+3. **Zhou 2025 Food Sci Nutr** — Insulin resistance indices and CVD mortality (NHANES)
+4. **Lane 2024 BMJ** — UPF exposure and adverse health outcomes
+5. **Feng 2025 Am J Clin Nutr** — Carb-restricted diets and CVD outcomes meta-analysis
+
+## Key Findings
+
+### Beyond LDL: Multifactorial Risk
+- Lipid biomarkers alone insufficient
+- Inflammatory markers (CRP, IL-6) add predictive value
+- Metabolic syndrome components critical
+
+### Insulin Resistance as Central Hub
+- Connects dyslipidemia, inflammation, hypertension, obesity
+- Better predictor than isolated lipid measures
+- HOMA-IR integrates fasting glucose + insulin
+
+### UPF and Lipid Dysfunction
+- Ultra-processed foods disrupt lipid metabolism
+- Independent of calorie content
+- Affects triglycerides, HDL, small dense LDL
+
+### Carbohydrate Restriction Effects
+- Low-carb diets improve lipid profile in metabolic syndrome
+- Reduces triglycerides, increases HDL
+- More effective than low-fat for dyslipidemia
+
+## Key References
+- [[Dugani_2021_JAMA_Cardiol_Lipid_Biomarkers_R-002-0001]] — Primary lipid study
+- [[Gast_2012_PLoS_One_IR_CVD_Meta_R-002-XXXX]] — TODO: Add
+- [[Lane_2024_BMJ_UPF_Health_Outcomes_R-002-0021]] — UPF meta-analysis
+
+## Extraction Status
+- [x] SPARK check: Lipid biomarker zettels exist; multifactorial approach is emphasized
+- [x] Priority: P0 (integrates multiple biomarker systems)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [x] References: Partial (Dugani, Lane added)
+
+---
+*Created: 2026-04-04 | Article 20 of 123*
+
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+original-language: Greek
+translated: complete
+priority: P1
+topic: metabolism, heart-health, mitochondria
+original-title: "Μεταβολισμός & Υγεία της Καρδιάς"
+article-number: 21
+---
+
+# Article 21: Metabolism & Heart Health
+
+## Translated Title
+Metabolism & Heart Health
+
+## Category
+P1 — Metabolism, Heart Health, Mitochondrial Function
+
+## Source Study
+- **Search needed:** Mitochondrial function and cardiac metabolism
+
+## Key Findings
+
+### The Metabolic-Cardiac Connection
+- Heart is highly metabolically active
+- Requires constant ATP production
+- Mitochondrial function critical for cardiac health
+
+### Fuel Sources for the Heart
+- **Fatty acids:** Primary fuel at rest (60-90%)
+- **Glucose:** Increases during exercise, stress
+- **Ketones:** Alternative fuel during fasting/low-carb
+- **Lactate:** Important during exercise
+
+### Metabolic Flexibility
+- Healthy heart can switch between fuel sources
+- Metabolic inflexibility = early sign of dysfunction
+- Insulin resistance impairs fuel switching
+
+### Mitochondrial Dysfunction in CVD
+- Reduced mitochondrial biogenesis
+- Increased oxidative stress
+- Impaired electron transport chain
+- Contributors: UPF, nutrient deficiencies, toxins, sedentary lifestyle
+
+### Therapeutic Implications
+- Improve mitochondrial function → improve cardiac function
+- Strategies: Exercise, nutrient repletion, reduce UPF, ketogenic diets
+
+## Key References
+- (Search and add reference)
+
+## Extraction Status
+- [x] SPARK check: Mitochondrial zettels exist; cardiac-specific metabolism is NEW
+- [x] Priority: P1 (links metabolism to cardiac function)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [ ] References: Pending search
+
+---
+*Created: 2026-04-04 | Article 21 of 123*
+
+
+---
+type: inbox-item
+source: Facebook Posts Collection
+original-language: Greek
+translated: complete
+priority: P0
+topic: lipoprotein, lp(a), cardiovascular, genetics
+original-title: "Λιποπρωτεΐνη Άλφα ή Lp(a), τι Είναι και τι Μπορούμε να Κάνουμε"
+article-number: 22
+---
+
+# Article 22: Lipoprotein(a) — What It Is and What We Can Do
+
+## Translated Title
+Lipoprotein(a) or Lp(a) — What It Is and What We Can Do
+
+## Category
+P0 — Lipoprotein(a), Cardiovascular Genetics, Risk Factors
+
+## Source Study
+- **Search needed:** Lp(a) mechanism and management
+
+## Key Findings
+
+### What is Lp(a)?
+- **Genetically determined** lipoprotein
+- LDL-like particle + apolipoprotein(a)
+- Independent CVD risk factor
+- Not affected by standard lipid-lowering therapies
+
+### Lp(a) and CVD Risk
+- Elevated Lp(a) = increased atherosclerosis risk
+- Thrombotic risk (pro-clotting)
+- Aortic stenosis risk
+- Independent of LDL levels
+
+### Genetic Determination
+- ~90% determined by genetics (LPA gene)
+- Lifestyle has minimal effect on levels
+- Testing once in lifetime sufficient
+
+### Management Strategies
+- **Cannot lower Lp(a) directly** with statins
+- Niacin can reduce ~20% (limited use due to side effects)
+- PCSK9 inhibitors modest effect
+- **Focus on other modifiable risk factors**
+- Aggressive management of LDL, BP, smoking, diabetes
+
+### Emerging Therapies
+- Antisense oligonucleotides (ASOs) — in development
+- siRNA therapies — promising clinical trials
+- Not yet standard of care
+
+## Key References
+- (Search and add reference)
+
+## Extraction Status
+- [x] SPARK check: Lp(a) zettels exist; comprehensive management approach is NEW
+- [x] Priority: P0 (genetic risk factor, emerging therapies)
+- [ ] LitNote created
+- [ ] Zettels extracted
+- [ ] References: Pending search
+
+---
+*Created: 2026-04-04 | Article 22 of 123*
+
+
+---
+item
 source: Facebook Posts Collection
 original-language: Greek
 translated: partial
