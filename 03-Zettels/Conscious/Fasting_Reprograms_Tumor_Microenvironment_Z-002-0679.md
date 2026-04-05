@@ -7,8 +7,9 @@ domain: 002
 status: conscious
 tags: [zettel, fasting, tumor-microenvironment, metabolism, ketones, immunosuppression]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Cancer-Metabolism]]"
+parent-moc: "[[MOC-Cancer-Immunology]]"
 source-litnote: "[[L-002-0181_Fasting_Enhances_Immunotherapy]]"
+source-reference: "[[Chen_2026_16h_Fasting_Immunotherapy_R-002-0038]]"
 related: []
 ---
 
