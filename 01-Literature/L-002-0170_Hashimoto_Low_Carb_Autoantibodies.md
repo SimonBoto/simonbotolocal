@@ -14,6 +14,14 @@ parent-moc: "[[MOC-Hashimoto-Thyroiditis]]"
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1
+tags:
+  - lit-note
+  - hashimoto
+  - thyroid
+  - autoantibodies
+  - low-carb
+  - autoimmune
+  - huang-2024
 ---
 
 # Lit: Hashimoto's Low-Carb Diet Reduces Autoantibodies

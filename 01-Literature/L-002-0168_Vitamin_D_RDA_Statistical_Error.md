@@ -14,6 +14,14 @@ parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
 extraction-date: "2026-04-04"
 zettel-count: 5
 reference-count: 4
+tags:
+  - lit-note
+  - vitamin-d
+  - rda
+  - statistical-error
+  - public-health
+  - iom
+  - nutrients
 ---
 
 # Lit: Vitamin D RDA Statistical Error

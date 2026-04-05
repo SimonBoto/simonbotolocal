@@ -13,6 +13,13 @@ parent-moc: "[[MOC-Metabolic-Syndrome]]"
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1
+tags:
+  - lit-note
+  - low-carb
+  - metabolic-syndrome
+  - cardiovascular
+  - meta-analysis
+  - zheng-2025
 ---
 
 # Lit: Carbohydrate Restriction Reduces CVD Risk
