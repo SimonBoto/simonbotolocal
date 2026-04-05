@@ -8,7 +8,8 @@ status: conscious
 tags: [zettel, lpa, genetics, heritable, lifestyle, statins, fixed]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Cholesterol-Lipid]]"
-source-litnote: "[[L-002-0183_Lipoprotein_a_Lpa_Risk]]"
+source-litnote: "[[L-002-0183_Lipoprotein_a_Lp(a)_Genetic_Risk]]"
+source-reference: "[[Kamstrup_2009_Lp(a)_Genetic_MI_Risk_R-002-0039]]"
 related: []
 ---
 

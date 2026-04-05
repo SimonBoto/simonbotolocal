@@ -12,6 +12,13 @@ tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Insulin-Signaling]]"
 extraction-date: "2026-04-04"
+tags:
+  - lit-note
+  - insulin
+  - glucose
+  - cvd
+  - metabolic-health
+  - zhao-2019
 ---
 
 # Lit: High Glucose vs High Insulin — What Matters More
