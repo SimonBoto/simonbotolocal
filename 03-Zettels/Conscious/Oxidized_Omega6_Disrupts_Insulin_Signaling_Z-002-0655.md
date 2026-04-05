@@ -9,6 +9,7 @@ tags: [zettel, oxidized-omega6, insulin-signaling, frying, seed-oils, 4-hne]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0173_Fried_Potatoes_Seed_Oil_T2D_Risk]]"
+source-reference: "[[Mousavi_2025_Potato_T2D_BMJ_R-002-0029]]"
 related: []
 ---
 

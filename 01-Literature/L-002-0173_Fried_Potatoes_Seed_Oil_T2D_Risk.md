@@ -2,22 +2,33 @@
 uid: L-002-0173
 type: lit-note
 title: "Fried Potatoes in Seed Oils Increase T2D Risk by 20% (Mousavi 2025)"
-source-inbox: "[[Τηγανητές-Πατάτες-Σπορέλαιο-Διαβήτης]]"
+source-inbox: "[[INBOX-Article-7-Fried-Potatoes]]"
 authors: "Mousavi SM, et al."
 year: "2025"
 journal: "BMJ"
-doi: "10.1136/bmj-2024-080245"
+doi: "10.1136/bmj-2024-082121"
+pmid: "40769531"
 tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 extraction-date: "2026-04-04"
+zettel-count: 3
+reference-count: 1
+tags:
+  - lit-note
+  - seed-oils
+  - omega-6
+  - diabetes
+  - fried-foods
+  - potatoes
+  - mousavi-2025
 ---
 
 # Lit: Fried Potatoes in Seed Oils Increase T2D Risk
 
 ## Source
-- **Full citation:** Mousavi SM, et al. (2025). Fried potato consumption and risk of type 2 diabetes: prospective cohort studies. *BMJ*. doi:10.1136/bmj-2024-080245
-- **Inbox origin:** [[Τηγανητές-Πατάτες-Σπορέλαιο-Διαβήτης]]
+- **Full citation:** Mousavi SM, et al. (2025). Fried potato consumption and risk of type 2 diabetes: prospective cohort studies. *BMJ*. doi:10.1136/bmj-2024-082121
+- **Inbox origin:** [[INBOX-Article-7-Fried-Potatoes]]
 - **Reference note:** [[Mousavi_2025_Potato_T2D_BMJ_R-002-0029]]
 
 ## Core Claim
@@ -51,34 +62,29 @@ Consumption of fried potatoes in seed oils increases type 2 diabetes risk by app
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| Mousavi_2025_R-002-0029 | Zettel 1, Zettel 2, Zettel 3 | 3 |
-
----
-
-## Snowball References (New Inputs)
-
-| Reference | Why Follow Up | Priority | Status |
-|-----------|---------------|----------|--------|
-| Other fried food + T2D studies | Confirm mechanism | P1 | pending |
-| Oxidized linoleic acid research | Mechanism depth | P1 | pending |
-| Alternative fat comparison | Clinical guidance | P2 | pending |
+| [[Mousavi_2025_Potato_T2D_BMJ_R-002-0029]] | Z-002-0654, Z-002-0655, Z-002-0656 | 3 |
 
 ---
 
 ## Structural Links
 - **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **Inbox:** [[Τηγανητές-Πατάτες-Σπορέλαιο-Διαβήτης]] — Raw origin
+- **Inbox:** [[INBOX-Article-7-Fried-Potatoes]] — Raw origin
 - **Index:** [[01-Literature]] — Container
 
 ---
 
 ## Status
 - [x] LitNote created
-- [ ] Zettels created (3 planned)
-- [ ] All reference notes created
-- [ ] In-text citations verified
-- [ ] Reference-zettel links functional
-- [ ] Snowball references queued
+- [x] Zettels created (3 complete)
+- [x] All reference notes created
+- [x] In-text citations verified
+- [x] Reference-zettel links functional
+- [x] All structural links verified
+
+## Connections
+- [[MOC-Metabolic-Syndrome]]
+- [[INBOX-Article-7-Fried-Potatoes]]
+- [[Mousavi_2025_Potato_T2D_BMJ_R-002-0029]]
 
 ---
 *L-002-0173 | Created: 2026-04-04 | Tier: GOLD*
