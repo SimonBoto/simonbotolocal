@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Literature/L-002-0203_Diet_11_Million_Deaths_Annually.md",
+                "file": "01-Literature/L-002-0205_Alcohol_1.8_Million_Deaths.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,7 +196,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "L-002-0203_Diet_11_Million_Deaths_Annually"
+              "title": "L-002-0205_Alcohol_1.8_Million_Deaths"
             }
           },
           {
@@ -402,6 +402,12 @@
   },
   "active": "9f3ade9b85f76439",
   "lastOpenFiles": [
+    "01-Literature/L-002-0204_Tobacco_Sugar_Industry_Tactics.md",
+    "02-References/Hub/Kearns_2016_Sugar_Industry_Documents_R-002-0044.md",
+    "00-Inbox/Fleeting/INBOX-Article-23-Industry-Tactics.md",
+    "01-Literature/L-002-0203_Diet_11_Million_Deaths_Annually.md",
+    "memory/2026-04-05-session-handoff.md",
+    "memory",
     "02-References/Hub/GBD_2017_Diet_11_Million_Deaths_R-002-0043.md",
     "00-Inbox/Fleeting/INBOX-Article-22-Diet-Mortality.md",
     "01-Literature/L-002-0202_Chronic_Disease_74pct_Global_Deaths.md",
@@ -423,11 +429,6 @@
     "01-Literature/L-002-0172_Low_Carb_vs_Low_Fat_Comparison.md",
     "01-Literature/L-002-0178_Lifestyle_Diet_Disease_Determinants.md",
     "00-Inbox/Fleeting/Facebook Posts Collection.md",
-    "01-Literature/L-002-0174_Minimal_Exercise_Mortality_Reduction.md",
-    "00-Inbox/Fleeting/INBOX-Article-17-Uric-Acid.md",
-    "01-Literature/L-002-0219_Inflammation_CVD_Risk.md",
-    "00-Inbox/Fleeting/INBOX-Article-16-Minimal-Exercise.md",
-    "01-Literature/L-002-0183_Lipoprotein_a_Lp(a)_Genetic_Risk.md",
     "02-Literature",
     "00-Inbox/Fleeting/INBOX-Facebook-Collection-All-123.md.backup",
     "00-Inbox/Fleeting/INBOX-Facebook-Collection-All-123.md.tmp",
@@ -441,7 +442,6 @@
     "01-Literature/sednIJD0d",
     "08-Structure/System/CGPT_LitNote_Zettel_Map_2026-04-03.txt",
     "08-Structure/System/knowledge_extraction_map_2026-04-03.json",
-    "01-Literature/sedOc5H05",
     "_QUARANTINE/tsoukalas-full-20260217/Tsoukalas-Metabolomics.canvas",
     "55-MOCs/Tsoukalas-Metabolomics.canvas"
   ]
