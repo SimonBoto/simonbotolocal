@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Literature/L-002-0178_Lifestyle_Diet_Disease_Determinants.md",
+                "file": "01-Literature/L-002-0246_Aspirin_Metastasis_Immune_Mechanism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,7 +196,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "L-002-0178_Lifestyle_Diet_Disease_Determinants"
+              "title": "L-002-0246_Aspirin_Metastasis_Immune_Mechanism"
             }
           },
           {
@@ -402,6 +402,9 @@
   },
   "active": "9f3ade9b85f76439",
   "lastOpenFiles": [
+    "01-Literature/L-002-0245_Walking_Mortality_Reduction.md",
+    "01-Literature/L-002-0246_Aspirin_Metastasis_Immune_Mechanism.md",
+    "01-Literature/L-002-0178_Lifestyle_Diet_Disease_Determinants.md",
     "01-Literature/L-002-0173_Fried_Potatoes_Seed_Oil_T2D_Risk.md",
     "00-Inbox/Fleeting/INBOX-Article-8-Lifestyle-Determinants.md",
     "02-References/Hub/NEJM_2025_Global_CV_Risk_Lifetime_Estimates_R-002-0037.md",
@@ -414,7 +417,6 @@
     "08-Structure/Vault_Status_Article_1-2_Rollout.md",
     "01-Literature/L-002-0169_Carb_Restriction_CVD_Risk.md",
     "01-Literature/L-002-0168_Vitamin_D_RDA_Statistical_Error.md",
-    "01-Literature/L-002-0246_Aspirin_Metastasis_Immune_Mechanism.md",
     "00-Inbox/Fleeting/INBOX-Article-4-Hashimoto.md",
     "00-Inbox/Fleeting/INBOX-Article-3-Carb-Restriction.md",
     "00-Inbox/Fleeting/INBOX-Article-2-Vitamin-D.md",
@@ -426,8 +428,6 @@
     "01-Literature/LitNote_Triose_Metabolism_Glycolysis_L-001-0045D.md",
     "01-Literature/L-002-0244_Animal_Saturated_Fat_Not_Mortality.md",
     "00-Inbox/Fleeting/INBOX-Batch-B-H-Queued.md",
-    "00-Inbox/Fleeting/INBOX-Master-Index.md",
-    "01-Literature.md",
     "02-Literature",
     "00-Inbox/Fleeting/INBOX-Facebook-Collection-All-123.md.backup",
     "00-Inbox/Fleeting/INBOX-Facebook-Collection-All-123.md.tmp",
