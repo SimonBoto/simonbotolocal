@@ -9,6 +9,7 @@ tags: [zettel, smoking-cessation, blood-pressure, longevity, risk-factors, hiera
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0178_Lifestyle_Diet_Disease_Determinants]]"
+source-reference: "[[NEJM_2025_Global_CV_Risk_Lifetime_Estimates_R-002-0037]]"
 related: []
 ---
 

@@ -2,23 +2,34 @@
 uid: L-002-0178
 type: lit-note
 title: "Lifestyle and Diet as Primary Disease Determinants (NEJM 2025)"
-source-inbox: "[[Παράγοντες-Νόσου-Τρόπος-Ζωής-Διατροφή]]"
-authors: "Global Burden of Disease Collaborators"
+source-inbox: "[[INBOX-Article-8-Lifestyle-Determinants]]"
+authors: "Global Cardiovascular Risk Consortium"
 year: "2025"
 journal: "New England Journal of Medicine"
-doi: "(pending full DOI)"
+doi: "10.1056/NEJMoa2415879"
+pmid: "40162648"
 tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 extraction-date: "2026-04-04"
+zettel-count: 3
+reference-count: 1
+tags:
+  - lit-note
+  - lifestyle
+  - diet
+  - modifiable-risk-factors
+  - longevity
+  - prevention
+  - nejm-2025
 ---
 
 # Lit: Lifestyle and Diet as Primary Disease Determinants
 
 ## Source
 - **Full citation:** Global Effect of Cardiovascular Risk Factors on Lifetime Estimates. *New England Journal of Medicine*. March 2025.
-- **Inbox origin:** [[Παράγοντες-Νόσου-Τρόπος-Ζωής-Διατροφή]]
-- **Reference note:** (NEJM 2025 study — pending full reference note)
+- **Inbox origin:** [[INBOX-Article-8-Lifestyle-Determinants]]
+- **Reference note:** [[NEJM_2025_Global_CV_Risk_Lifetime_Estimates_R-002-0037]]
 
 ## Core Claim
 Five modifiable risk factors — high blood pressure, cholesterol, body weight, diabetes, and smoking — collectively account for **14.5 extra years of life for women and 11.8 extra years for men** when absent, demonstrating that lifestyle and dietary interventions targeting these factors are the primary determinants of longevity and disease prevention.
@@ -51,34 +62,29 @@ Five modifiable risk factors — high blood pressure, cholesterol, body weight, 
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| NEJM 2025 | Zettel 1, Zettel 2, Zettel 3 | 3 |
-
----
-
-## Snowball References (New Inputs)
-
-| Reference | Why Follow Up | Priority | Status |
-|-----------|---------------|----------|--------|
-| Full NEJM 2025 paper | Complete citation | P0 | pending |
-| Individual risk factor trials | Intervention evidence | P1 | pending |
-| Combined lifestyle intervention studies | Synergy data | P1 | pending |
+| [[NEJM_2025_Global_CV_Risk_Lifetime_Estimates_R-002-0037]] | Z-002-0669, Z-002-0670, Z-002-0671 | 3 |
 
 ---
 
 ## Structural Links
 - **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **Inbox:** [[Παράγοντες-Νόσου-Τρόπος-Ζωής-Διατροφή]] — Raw origin
+- **Inbox:** [[INBOX-Article-8-Lifestyle-Determinants]] — Raw origin
 - **Index:** [[01-Literature]] — Container
 
 ---
 
 ## Status
 - [x] LitNote created
-- [ ] Zettels created (3 planned)
-- [ ] All reference notes created
-- [ ] In-text citations verified
-- [ ] Reference-zettel links functional
-- [ ] Snowball references queued
+- [x] Zettels created (3 complete)
+- [x] All reference notes created
+- [x] In-text citations verified
+- [x] Reference-zettel links functional
+- [x] All structural links verified
+
+## Connections
+- [[MOC-Metabolic-Syndrome]]
+- [[INBOX-Article-8-Lifestyle-Determinants]]
+- [[NEJM_2025_Global_CV_Risk_Lifetime_Estimates_R-002-0037]]
 
 ---
 *L-002-0178 | Created: 2026-04-04 | Tier: GOLD*
