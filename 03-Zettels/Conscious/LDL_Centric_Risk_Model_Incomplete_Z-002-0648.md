@@ -9,6 +9,7 @@ tags: [zettel, ldl, risk-model, cardiovascular, paradigm, cholesterol]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Cardiovascular-Disease]]"
 source-litnote: "[[L-002-0171_High_LDL_Not_Mortality_Healthy]]"
+source-reference: "[[Kip_2024_LDL_Mortality_Primary_Prevention_R-002-0028]]"
 related: []
 ---
 

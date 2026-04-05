@@ -2,22 +2,33 @@
 uid: L-002-0171
 type: lit-note
 title: "High LDL Not Linked to Mortality in Healthy People (Kip 2024)"
-source-inbox: "[[Υψηλά-LDL-Χωρίς-CVD]]"
+source-inbox: "[[INBOX-Article-5-LDL-Mortality]]"
 authors: "Kip KE, Diamond D, Mulukutla S, Marroquin OC"
 year: "2024"
 journal: "BMJ Open"
 doi: "10.1136/bmjopen-2023-077949"
+pmid: "38548371"
 tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Cardiovascular-Disease]]"
 extraction-date: "2026-04-04"
+zettel-count: 4
+reference-count: 1
+tags:
+  - lit-note
+  - ldl
+  - cholesterol
+  - mortality
+  - primary-prevention
+  - statins
+  - kip-2024
 ---
 
 # Lit: High LDL Not Linked to Mortality in Healthy People
 
 ## Source
 - **Full citation:** Kip KE, Diamond D, Mulukutla S, Marroquin OC (2024). Is LDL cholesterol associated with long-term mortality among primary prevention adults? A retrospective cohort study from a large healthcare system. *BMJ Open*. 14(3):e077949. doi:10.1136/bmjopen-2023-077949
-- **Inbox origin:** [[Υψηλά-LDL-Χωρίς-CVD]]
+- **Inbox origin:** [[INBOX-Article-5-LDL-Mortality]]
 - **Reference note:** [[Kip_2024_LDL_Mortality_Primary_Prevention_R-002-0028]]
 
 ## Core Claim
@@ -57,34 +68,29 @@ High LDL cholesterol is **not associated with increased all-cause or cardiovascu
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| Kip_2024_R-002-0028 | Zettel 1, Zettel 2, Zettel 3, Zettel 4 | 4 |
-
----
-
-## Snowball References (New Inputs)
-
-| Reference | Why Follow Up | Priority | Status |
-|-----------|---------------|----------|--------|
-| Diamond & Ravnskov (cholesterol skepticism) | Historical context | P2 | pending |
-| Other primary prevention statin studies | Confirmatory evidence | P1 | pending |
-| Metabolic syndrome mortality studies | Alternative risk model | P1 | pending |
+| [[Kip_2024_LDL_Mortality_Primary_Prevention_R-002-0028]] | Z-002-0647, Z-002-0648, Z-002-0649, Z-002-0650 | 4 |
 
 ---
 
 ## Structural Links
 - **Up:** [[MOC-Cardiovascular-Disease]] — Thematic domain
-- **Inbox:** [[Υψηλά-LDL-Χωρίς-CVD]] — Raw origin
+- **Inbox:** [[INBOX-Article-5-LDL-Mortality]] — Raw origin
 - **Index:** [[01-Literature]] — Container
 
 ---
 
 ## Status
 - [x] LitNote created
-- [ ] Zettels created (4 planned)
-- [ ] All reference notes created
-- [ ] In-text citations verified
-- [ ] Reference-zettel links functional
-- [ ] Snowball references queued
+- [x] Zettels created (4 complete)
+- [x] All reference notes created
+- [x] In-text citations verified
+- [x] Reference-zettel links functional
+- [x] All structural links verified
+
+## Connections
+- [[MOC-Cardiovascular-Disease]]
+- [[INBOX-Article-5-LDL-Mortality]]
+- [[Kip_2024_LDL_Mortality_Primary_Prevention_R-002-0028]]
 
 ---
 *L-002-0171 | Created: 2026-04-04 | Tier: GOLD*
