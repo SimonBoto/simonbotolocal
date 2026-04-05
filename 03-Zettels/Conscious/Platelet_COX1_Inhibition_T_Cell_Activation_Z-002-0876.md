@@ -8,6 +8,7 @@ status: conscious
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Immunology]]"
 source-litnote: "[[L-002-0246_Aspirin_Metastasis_Immune_Mechanism]]"
+source-reference: "[[Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100]]"
 ---
 
 # Platelet COX-1 Inhibition Leads to T-Cell Activation
