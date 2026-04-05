@@ -10,7 +10,7 @@ doi: "10.1001/jama.2009.801"
 pmid: "19509380"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Cardiovascular-Disease]]"
+parent-moc: "[[MOC-Cholesterol-Quality]]"
 extraction-date: "2026-04-04"
 tags:
   - lit-note
@@ -64,7 +64,7 @@ tags:
 ---
 
 ## Connections
-- **MOC:** [[MOC-Cardiovascular-Disease]] — Thematic domain
+- **MOC:** [[MOC-Cholesterol-Quality]] — Thematic domain
 - **INBOX:** [[INBOX-Article-14-Lp(a)-Genetic-Risk]] — Article source
 - **Reference:** [[Kamstrup_2009_Lp(a)_Genetic_MI_Risk_R-002-0039]] — Primary source
 - **Index:** [[01-Literature]] — Container

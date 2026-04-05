@@ -11,7 +11,7 @@ pmid: "19509380"
 url: "https://jamanetwork.com/journals/jama/fullarticle/184874"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Cardiovascular-Disease]]"
+parent-moc: "[[MOC-Cholesterol-Quality]]"
 ---
 
 # Kamstrup et al. 2009 — Genetically Elevated Lp(a) and MI Risk
