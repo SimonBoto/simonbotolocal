@@ -60,13 +60,13 @@ The Institute of Medicine's 2011 RDA of 600 IU/day for vitamin D was based on a 
 ### 2. Corrected Vitamin D RDA ~8900 IU
 - **Claim:** Proper statistical analysis shows ~8,900 IU/day is needed to achieve 25(OH)D >20 ng/mL in 97.5% of the population, not 600 IU/day.
 - **Evidence:** "When using the correct 97.5th percentile approach, the RDA should be approximately 8,895 IU/day to ensure 97.5% of the population reaches 20 ng/mL."
-- **Reference:** Veugelers & Ekwaru 2014 — cited as (Veugelers & Ekwaru, 2014)
+- **Reference:** [[Veugelers_Ekwaru_2014_Vitamin_D_Statistical_Error_R-002-0004]] — cited as (Veugelers & Ekwaru, 2014)
 - **Zettel:** [[Corrected_Vitamin_D_RDA_8900_IU_Z-002-0637]]
 
 ### 3. Vitamin D Requirements for 30 ng/mL
 - **Claim:** To achieve the higher target of 30 ng/mL (associated with optimal health outcomes), approximately 6,201 IU/day is required.
 - **Evidence:** Heaney et al. confirmed through dose-response analysis that 6,201 IU/day is needed for 97.5% of adults to achieve serum 25(OH)D >30 ng/mL.
-- **Reference:** Heaney et al. 2015 — cited as (Heaney et al., 2015)
+- **Reference:** [[Heaney_2015_Vitamin_D_Requirements_R-002-0005]] — cited as (Heaney et al., 2015)
 - **Zettel:** [[Vitamin_D_Requirements_30_ng_mL_6201_IU_Z-002-0638]]
 
 ### 4. Vitamin D as Hormone Not Vitamin
