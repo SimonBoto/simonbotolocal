@@ -1,17 +1,30 @@
 ---
 type: inbox-master
 source: Facebook Posts Collection
-date: 2026-04-04
-total-articles: ~90
-status: indexed
+date: 2026-04-05
+total-articles: 59
+status: audited
 ---
 
 # Facebook Collection — Master Inbox Index
 
+## AUDIT RESULTS (2026-04-05)
+
+### Duplicates Removed
+- **22 duplicate LitNotes** identified and deleted
+- Articles 2-17 were extracted twice (L-002-0168-0183 and L-002-0184-0199)
+- Additional duplicates: L-002-0214, 0216, 0218, 0232, 0241, 0243
+
+### Current Status
+- **57 unique L-002 LitNotes** (down from 79)
+- **All duplicates resolved**
+- **All LitNotes status: active**
+
 ## Already Processed (Articles 1-21)
-✅ **Batch A (Articles 1-16):** 16 LitNotes + 48 zettels — COMPLETE  
-✅ **Batch B start (Articles 17-21):** 5 LitNotes + 15 zettels — COMPLETE  
-**Total zettels from processed:** ~900
+✅ **Articles 1-21:** 21 unique LitNotes — COMPLETE  
+✅ **Article 1 (Aspirin):** MOC created, zettels complete, references fixed  
+✅ **Articles 2-21:** Cleaned, duplicates removed, status active  
+**Total zettels from Articles 1-21:** ~60+
 
 ## Queued for Processing (Articles 22-90)
 
@@ -52,25 +65,33 @@ status: indexed
 | 45 | Lipoprotein(a) mechanism | Genetics |
 | 46-90 | [Additional articles in source] | Various |
 
-## Processing Status
+## Processing Status (CORRECTED)
 
 | Batch | Articles | LitNotes | Zettels | Status |
 |-------|----------|----------|---------|--------|
-| A | 1-16 | 16 | 48 | ✅ Done |
-| B start | 17-21 | 5 | 15 | ✅ Done |
-| B cont | 22-31 | 10 | 30 | ⏳ Queued |
-| C | 32-41 | 10 | 30 | ⏳ Queued |
-| D | 42-51 | 10 | 30 | ⏳ Queued |
-| E | 52-61 | 10 | 30 | ⏳ Queued |
-| F | 62-71 | 10 | 30 | ⏳ Queued |
-| G | 72-81 | 10 | 30 | ⏳ Queued |
-| H | 82-90 | 9 | 27 | ⏳ Queued |
-| **Total** | **90** | **90** | **270** | **~1,170 zettels** |
+| 1 | 1-21 | 21 | ~60+ | ✅ COMPLETE (audited, duplicates removed) |
+| 2 | 22-38 | 17 | TBD | ⏳ LitNotes exist, need zettel extraction |
+| 3 | 39-59 | 19 | TBD | ⏳ LitNotes exist, need zettel extraction |
+| **Total** | **59** | **57** | **~60+** | **~500-600 zettels target** |
+
+## LitNote Quality Status
+
+| UID Range | Count | Status |
+|-----------|-------|--------|
+| L-002-0168 to 0183 | 16 | ✅ Cleaned, active |
+| L-002-0200 to 0246 | 41 | ✅ Active (22 duplicates removed) |
+| **Total** | **57** | **✅ All unique, no duplicates** |
 
 ## Next Actions
-1. Process Batch B continuation (Articles 22-31)
-2. Continue through H
-3. Target: 1,000+ zettels
+1. ✅ AUDIT COMPLETE — 22 duplicates removed, 57 unique LitNotes confirmed
+2. Extract zettels from Articles 22-38 (17 LitNotes → ~50 zettels)
+3. Extract zettels from Articles 39-59 (19 LitNotes → ~60 zettels)
+4. Target: 170 total zettels from Facebook Collection
+
+## Audit Log
+- **2026-04-05:** Removed 22 duplicate LitNotes
+- **2026-04-05:** Fixed Article 1 (Aspirin) — added NEJM reference, created MOC
+- **2026-04-05:** All L-002 LitNotes status updated to "active"
 
 ---
 *Master index created: 2026-04-04*
