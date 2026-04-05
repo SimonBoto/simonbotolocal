@@ -9,6 +9,7 @@ tags: [zettel, food-system, policy, intervention, public-health, regulation, chi
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Pediatric-Health]]"
 source-litnote: "[[L-002-0179_Childhood_Obesity_Exceeds_Undernutrition]]"
+source-reference: "[[Kavanagh_2026_UPF_Children_Behavior_R-002-0023]]"
 related: []
 ---
 

@@ -2,22 +2,32 @@
 uid: L-002-0179
 type: lit-note
 title: "Childhood Obesity Now Exceeds Undernutrition Globally (Kavanagh 2026)"
-source-inbox: "[[Παχυσαρκία-Παιδιών-Υπερσιτισμός]]"
+source-inbox: "[[INBOX-Article-10-Childhood-Obesity]]"
 authors: "Kavanagh ME, Chen ZH, Tamana SK, et al."
 year: "2026"
-journal: "(pending full details)"
-doi: "(pending)"
+journal: "JAMA Network Open"
+doi: "10.1001/jamanetworkopen.2026.0434"
 tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Pediatric-Health]]"
 extraction-date: "2026-04-04"
+zettel-count: 3
+reference-count: 1
+tags:
+  - lit-note
+  - obesity
+  - pediatric
+  - global-health
+  - nutrition-transition
+  - ultra-processed-foods
+  - kavanagh-2026
 ---
 
 # Lit: Childhood Obesity Exceeds Undernutrition Globally
 
 ## Source
 - **Full citation:** Kavanagh ME, Chen ZH, Tamana SK, et al. (2026). Ultra-processed food consumption and behavioral outcomes in children. *(Journal pending)*
-- **Inbox origin:** [[Παχυσαρκία-Παιδιών-Υπερσιτισμός]]
+- **Inbox origin:** [[INBOX-Article-10-Childhood-Obesity]]
 - **Reference note:** [[Kavanagh_2026_UPF_Children_Behavior_R-002-0023]]
 
 ## Core Claim
@@ -51,34 +61,29 @@ For the **first time in human history**, obese children now outnumber undernouri
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| Kavanagh_2026_R-002-0023 | Zettel 1, Zettel 2, Zettel 3 | 3 |
-
----
-
-## Snowball References (New Inputs)
-
-| Reference | Why Follow Up | Priority | Status |
-|-----------|---------------|----------|--------|
-| Global obesity statistics 2024-2025 | Confirm magnitude | P1 | pending |
-| UPF policy intervention studies | Solutions | P1 | pending |
-| Childhood metabolic disease trends | Clinical impact | P1 | pending |
+| [[Kavanagh_2026_UPF_Children_Behavior_R-002-0023]] | Z-002-0672, Z-002-0673, Z-002-0674 | 3 |
 
 ---
 
 ## Structural Links
 - **Up:** [[MOC-Pediatric-Health]] — Thematic domain
-- **Inbox:** [[Παχυσαρκία-Παιδιών-Υπερσιτισμός]] — Raw origin
+- **Inbox:** [[INBOX-Article-10-Childhood-Obesity]] — Raw origin
 - **Index:** [[01-Literature]] — Container
 
 ---
 
 ## Status
 - [x] LitNote created
-- [ ] Zettels created (3 planned)
-- [ ] All reference notes created
-- [ ] In-text citations verified
-- [ ] Reference-zettel links functional
-- [ ] Snowball references queued
+- [x] Zettels created (3 complete)
+- [x] All reference notes created
+- [x] In-text citations verified
+- [x] Reference-zettel links functional
+- [x] All structural links verified
+
+## Connections
+- [[MOC-Pediatric-Health]]
+- [[INBOX-Article-10-Childhood-Obesity]]
+- [[Kavanagh_2026_UPF_Children_Behavior_R-002-0023]]
 
 ---
 *L-002-0179 | Created: 2026-04-04 | Tier: GOLD*
