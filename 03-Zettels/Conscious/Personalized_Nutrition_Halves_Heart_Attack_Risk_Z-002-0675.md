@@ -7,8 +7,9 @@ domain: 002
 status: conscious
 tags: [zettel, personalized-nutrition, heart-attack, cvd, precision-medicine, intervention]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Personalized-Nutrition]]"
+parent-moc: "[[MOC-Clinical-Protocols]]"
 source-litnote: "[[L-002-0180_Personalized_Nutrition_Halves_Heart_Attack_Risk]]"
+source-reference: "[[Bermingham_2024_Personalized_Nutrition_RCT_R-002-0040]]"
 related: []
 ---
 
