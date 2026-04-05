@@ -2,22 +2,32 @@
 uid: L-002-0177
 type: lit-note
 title: "Carbohydrate Withdrawal Symptoms and Keto-Adaptation Timeline (Harvey 2019)"
-source-inbox: "[[Διακοπή-Υδατανθράκων-Συμπτώματα-Ανάλυση]]"
-authors: "Harvey CJC, Schofield GM, Zinn C, Thornley S, et al."
+source-inbox: "[[INBOX-Article-18-Carb-Withdrawal]]"
+authors: "Harvey CJDC, Schofield GM, Zinn C, Thornley S, et al."
 year: "2019"
-journal: "Nutrition (Elsevier)"
+journal: "Nutrition"
 doi: "10.1016/j.nut.2019.06.007"
+pmid: "34332710"
 tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 extraction-date: "2026-04-04"
+zettel-count: 3
+reference-count: 1
+tags:
+  - lit-note
+  - carbohydrate-withdrawal
+  - keto-adaptation
+  - ketogenic
+  - low-carb
+  - harvey-2019
 ---
 
 # Lit: Carbohydrate Withdrawal and Keto-Adaptation
 
 ## Source
-- **Full citation:** Harvey CJC, Schofield GM, Zinn C, Thornley S, et al. (2019). Effects of differing levels of carbohydrate restriction on mood, achievement of nutritional ketosis, and symptoms of carbohydrate withdrawal in healthy adults: a randomized clinical trial. *Nutrition*. doi:10.1016/j.nut.2019.06.007
-- **Inbox origin:** [[Διακοπή-Υδατανθράκων-Συμπτώματα-Ανάλυση]]
+- **Full citation:** Harvey CJDC, Schofield GM, Zinn C, Thornley S, et al. "Effects of differing levels of carbohydrate restriction on mood, achievement of nutritional ketosis, and symptoms of carbohydrate withdrawal in healthy adults: a randomized clinical trial." *Nutrition*. 2019;67-68:110-116. doi:10.1016/j.nut.2019.06.007. PMID: 34332710.
+- **Inbox origin:** [[INBOX-Article-18-Carb-Withdrawal]]
 - **Reference note:** [[Harvey_2019_Carb_Withdrawal_KetoAdaptation_R-002-0033]]
 
 ## Core Claim
@@ -55,30 +65,23 @@ Carbohydrate restriction produces transient withdrawal symptoms (fatigue, irrita
 
 ---
 
-## Snowball References (New Inputs)
-
-| Reference | Why Follow Up | Priority | Status |
-|-----------|---------------|----------|--------|
-| Other keto-adaptation studies | Timeline confirmation | P1 | pending |
-| Mitochondrial adaptation research | Mechanism depth | P2 | pending |
-| Strategies to minimize withdrawal | Clinical utility | P1 | pending |
-
 ---
 
-## Structural Links
-- **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **Inbox:** [[Διακοπή-Υδατανθράκων-Συμπτώματα-Ανάλυση]] — Raw origin
+## Connections
+- **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
+- **INBOX:** [[INBOX-Article-18-Carb-Withdrawal]] — Article source
+- **Reference:** [[Harvey_2019_Carb_Withdrawal_KetoAdaptation_R-002-0033]] — Primary source
 - **Index:** [[01-Literature]] — Container
 
 ---
 
 ## Status
 - [x] LitNote created
-- [ ] Zettels created (3 planned)
-- [ ] All reference notes created
-- [ ] In-text citations verified
-- [ ] Reference-zettel links functional
-- [ ] Snowball references queued
+- [x] Zettels created (3 zettels: Z-002-0666 to Z-002-0668)
+- [x] All reference notes created
+- [x] In-text citations verified
+- [x] Reference-zettel links functional
+- [x] Source references added to all zettels
 
 ---
 *L-002-0177 | Created: 2026-04-04 | Tier: GOLD*

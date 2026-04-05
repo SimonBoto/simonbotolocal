@@ -9,6 +9,7 @@ tags: [zettel, carb-withdrawal, keto-adaptation, symptoms, low-carb, transition]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0177_Carb_Withdrawal_Keto_Adaptation]]"
+source-reference: "[[Harvey_2019_Carb_Withdrawal_KetoAdaptation_R-002-0033]]"
 related: []
 ---
 
