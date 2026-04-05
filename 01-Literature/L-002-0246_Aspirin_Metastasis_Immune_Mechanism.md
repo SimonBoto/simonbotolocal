@@ -5,7 +5,7 @@ title: Aspirin Reduces Cancer Metastasis via Platelet TXA2-T-Cell Mechanism
 aliases:
   - L-002-0246
   - Article-1-Aspirin-Metastasis
-domain: 2
+domain: "002"
 status: active
 tags:
   - litnote
@@ -21,7 +21,7 @@ tags:
   - nejm-2025
   - facebook-collection
 parent-index: "[[01-Literature]]"
-parent-moc: "[[MOC-Cancer-Immunology|MOC-Cancer-Immunology]]"
+parent-moc: "[[MOC-Cancer-Immunology]]"
 source-inbox: "[[INBOX-Article-1-Aspirin-Metastasis]]"
 extraction-date: 2026-04-05
 reference-count: 2
@@ -114,10 +114,9 @@ zettel-count: 5
 
 ## Connections
 - [[MOC-Cancer-Immunology]]
-- [[MOC-Platelet-Biology]]
-- [[MOC-Pharmacology]]
 - [[INBOX-Article-1-Aspirin-Metastasis]]
 - [[Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100]]
+- [[Patrono_Rocca_2025_NEJM_Aspirin_Metastasis_R-002-0036]]
 
 ---
 *Extracted: 2026-04-05 | Article 1 | Facebook Collection*

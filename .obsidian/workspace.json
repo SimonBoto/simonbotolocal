@@ -131,24 +131,10 @@
             "id": "99d00e25f4bd6109",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Literature/LitNote_Triose_Metabolism_Glycolysis_L-001-0045D.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LitNote_Triose_Metabolism_Glycolysis_L-001-0045D"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -354,6 +340,8 @@
   },
   "active": "99d00e25f4bd6109",
   "lastOpenFiles": [
+    "01-Literature/L-002-0246_Aspirin_Metastasis_Immune_Mechanism.md",
+    "01-Literature/LitNote_Triose_Metabolism_Glycolysis_L-001-0045D.md",
     "01-Literature/L-002-0183_Lipoprotein_a_Lp(a)_Genetic_Risk.md",
     "01-Literature/L-002-0244_Animal_Saturated_Fat_Not_Mortality.md",
     "01-Literature/L-002-0168_Vitamin_D_RDA_Statistical_Error.md",
@@ -361,7 +349,6 @@
     "00-Inbox/Fleeting/INBOX-Facebook-Collection.md",
     "00-Inbox/Fleeting/INBOX-Batch-B-H-Queued.md",
     "00-Inbox/Fleeting/INBOX-Master-Index.md",
-    "01-Literature/L-002-0246_Aspirin_Metastasis_Immune_Mechanism.md",
     "02-References/Hub/Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100.md",
     "01-Literature.md",
     "08-Structure/MOCs/MOC-Cancer-Immunology.md",
@@ -379,7 +366,6 @@
     "01-Literature/L-002-0243_High_Fat_Dairy_Dementia.md",
     "01-Literature/L-002-0242_Obese_Children_Outnumber_Underweight.md",
     "01-Literature/L-002-0241_Uric_Acid_Fructose_Alcohol.md",
-    "01-Literature/L-002-0240_Lifestyle_Diet_Modifiable_Factors.md",
     "02-Literature",
     "00-Inbox/Fleeting/INBOX-Facebook-Collection-All-123.md.backup",
     "00-Inbox/Fleeting/INBOX-Facebook-Collection-All-123.md.tmp",
