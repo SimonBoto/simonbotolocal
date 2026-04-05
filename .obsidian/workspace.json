@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Literature/LitNote_Zinc_Selenium_Mitochondrial_L-001-0510.md",
+                "file": "01-Literature/LitNote_Oleic_Acid_Clinical_L-001-0506.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LitNote_Zinc_Selenium_Mitochondrial_L-001-0510"
+              "title": "LitNote_Oleic_Acid_Clinical_L-001-0506"
             }
           },
           {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -280,34 +280,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "931be2a8dab197cf",
+  "active": "59eed1475e021f8d",
   "lastOpenFiles": [
-    "00-Inbox/Processed/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393.md",
+    "03-Zettels/Conscious/Quality_Not_Quantity_Meat_Health_Z-002-0767.md",
+    "01-Literature/LitNote_Oxalic_Acid_Chemistry_Metabolism_L-001-0060.md",
+    "01-Literature/LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010.md",
+    "01-Literature/LitNote_Organic_Acid_Krebs_Cycle_L-001-0507.md",
+    "01-Literature/LitNote_One_Carbon_Metabolism_B12_L-001-0401.md",
+    "01-Literature/LitNote_Protein_CKD_Progression_Evidence_L-001-0573.md",
     "00-Inbox/anchor cgpt conversations to exctract as priority.md",
-    "01-Literature/LitNote_Zinc_Selenium_Mitochondrial_L-001-0510.md",
-    "01-Literature/LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608.md",
-    "00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264.md",
-    "01-Literature/LitNote_Adenosine_Adenine_Biochemistry_L-101-0045A.md",
-    "01-Literature/LitNote_Amino_Acids_Krebs_Entry_L-001-0046A.md",
-    "01-Literature/LitNote_Prebiotic_Chemistry_HCN_Adenine_L-101-0045B.md",
-    "01-Literature/LitNote_Triose_Metabolism_Glycolysis_L-001-0045D.md",
-    "01-Literature/LitNote_Amino_Acid_Networks_L-001-0046B.md",
-    "01-Literature/LitNote_Oxaloacetate_Gluconeogenesis_L-001-0045H.md",
-    "03-Zettels/Conscious/Leaky_Gut_Autoimmune_Connection_Z-002-0764.md",
-    "03-Zettels/Conscious/Elimination_Diets_Autoimmune_Improvement_Z-002-0763.md",
-    "03-Zettels/Conscious/Autoimmune_Root_Causes_Diet_Lifestyle_Z-002-0762.md",
-    "02-References/Hub/Autoimmune_Diet_Lifestyle_R-002-0048.md",
-    "00-Inbox/Fleeting/INBOX-Article-27-Autoimmune.md",
-    "00-Inbox/Processed/phd_research/CGPT_0141_Omega_6_in_Chicken_Fat_CGPT-0141.md",
-    "00-Inbox/Processed/metabolomics/CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520.md",
-    "00-Inbox/Processed/clinical/CGPT_0311_Self_Education_Program_Plan_CGPT-0311.md",
-    "00-Inbox/Processed/insulin_resistance/CGPT_0647_ATP_Pathways_Overview_CGPT-0647.md",
-    "00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445.md",
-    "00-Inbox/Processed/phd_research/CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328.md",
-    "00-Inbox/Processed/adipic_acid/CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586.md",
-    "01-Literature/L-002-0207_LDL_Lowering_Not_Always_Protection.md",
-    "01-Literature/L-002-0168_Vitamin_D_RDA_Statistical_Error.md",
-    "01-Literature/LitNote_8_Week_Metabolomics_Bootcamp_Curriculum_L-001-0589.md",
+    "01-Literature/LitNote_PhD_Study_Design_METHAP_L-001-0615.md",
+    "03-Zettels/Conscious/Meat_Paradox_Not_Harmful_Context_Z-002-0766.md",
+    "01-Literature/LitNote_Patient_Communication_Scripts_L-001-0595.md",
+    "01-Literature/LitNote_Oxalic_Acid_Chemistry_Sources_Health_L-001-0060A.md",
+    "01-Literature/LitNote_Statin_Pharmacology_L-001-0502.md",
+    "03-Zettels/Conscious/Hong_Kong_Highest_Meat_Longest_Life_Z-002-0765.md",
+    "01-Literature/LitNote_Seven_Countries_Methodology_L-001-0504.md",
+    "01-Literature/LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503.md",
+    "01-Literature/LitNote_Seed_Oils_Fatty_Acid_Composition_L-001-0522.md",
+    "02-References/Hub/Hong_Kong_Meat_Longevity_Paradox_R-002-0049.md",
+    "01-Literature/LitNote_Tsoukalas_Research_Bibliography_L-001-0596.md",
+    "01-Literature/LitNote_Technical_Confounders_Metabolomics_L-001-0520.md",
+    "01-Literature/LitNote_TP53_Multiple_Myeloma_L-001-0613.md",
+    "01-Literature/LitNote_Statistical_Analysis_Omics_L-001-0617.md",
+    "01-Literature/LitNote_Vascular_Calcification_L-001-0215.md",
+    "00-Inbox/Fleeting/INBOX-Article-28-Hong-Kong.md",
+    "01-Literature/LitNote_VDR_Mitochondrial_Knockout_Studies_L-001-0577.md",
+    "01-Literature/LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205.md",
+    "01-Literature/LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013.md",
     "memory",
     "02-Literature",
     "00-Inbox/Fleeting/INBOX-Facebook-Collection-All-123.md.backup",
