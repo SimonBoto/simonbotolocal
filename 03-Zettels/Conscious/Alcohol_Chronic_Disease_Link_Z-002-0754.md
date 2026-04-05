@@ -7,8 +7,9 @@ domain: 002
 status: conscious
 tags: [zettel]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Global-Health]]"
+parent-moc: "[[MOC-Diabetes-T2D]]"
 source-litnote: "[[L-002-0205_Alcohol_1.8_Million_Deaths]]"
+source-reference: "[[GBD_2019_Alcohol_1.8M_Deaths_R-002-0045]]"
 related: []
 ---
 
