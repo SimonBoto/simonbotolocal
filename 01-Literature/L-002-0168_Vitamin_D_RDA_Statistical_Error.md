@@ -3,7 +3,7 @@ uid: L-002-0168
 type: lit-note
 title: "Vitamin D RDA Statistical Error (Veugelers 2014, Heaney 2015)"
 aliases: ["L-002-0168", "Vitamin-D-RDA-Error"]
-source-inbox: "[[Το-Στατιστικό-Λάθος-βιταμίνης-D]]"
+source-inbox: "[[INBOX-Facebook-Collection]]"
 authors: "Veugelers PJ, Ekwaru JP; Heaney RP et al."
 year: "2014, 2015"
 journal: "Nutrients"
@@ -87,12 +87,6 @@ The Institute of Medicine's 2011 RDA of 600 IU/day for vitamin D was based on a 
 ---
 
 ## Snowball References (New Inputs)
-
-| Reference | Why Follow Up | Priority | Status |
-|-----------|---------------|----------|--------|
-| Sha S et al. J Intern Med 2023 | Vitamin D and mortality data | P1 | pending |
-| Hahn J et al. BMJ 2022 | Autoimmune disease prevention | P0 | pending |
-| Institute of Medicine 2011 original report | Context for error | P2 | pending |
 
 ---
 
