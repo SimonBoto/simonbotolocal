@@ -20,9 +20,13 @@ parent-moc: "[[MOC-Autoimmune-Disease]]"
 Conrad N, Misra S, Verbakel JY, et al. Incidence, prevalence, and co-occurrence of autoimmune disorders over time and by age, sex, and socioeconomic status: a population-based cohort study of 22 million individuals in the UK. *Lancet*. 2023;401(10391):1878-1890. doi:10.1016/S0140-6736(23)00922-6
 
 ## Source
+- **Primary source:** The Lancet
+- **Citation extracted from:** Facebook Posts Collection, Article 27 (L-002-0208)
+- **DOI:** 10.1016/S0140-6736(23)00922-6
 - **Journal:** The Lancet
 - **Year:** 2023
 - **Study:** UK population-based cohort (n=22 million)
+- **Status:** Verified DOI, citation from source
 
 ---
 

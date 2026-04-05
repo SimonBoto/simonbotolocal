@@ -19,9 +19,12 @@ parent-moc: "[[MOC-References-Active]]"
 Tsoukalas D, et al. Metabolomics-based treatment for chronic diseases: results from a multidisciplinary clinical study. BMJ Nutr Prev Health. 2021;4(2):414-424. doi:10.1136/bmjnph-2021-000281
 
 ## Source
+- **Primary source:** BMJ Nutrition, Prevention & Health
+- **Citation extracted from:** Facebook Posts Collection, Article 27 (L-002-0208) and Article 32 (L-002-0213)
 - **DOI:** 10.1136/bmjnph-2021-000281
 - **PMID:** 34308102
 - **URL:** https://nutrition.bmj.com/content/4/2/414
+- **Status:** Verified PMID/DOI, citation from source
 
 ---
 

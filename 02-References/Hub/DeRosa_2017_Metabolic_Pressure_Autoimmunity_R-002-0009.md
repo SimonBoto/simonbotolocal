@@ -19,9 +19,12 @@ parent-moc: "[[MOC-References-Active]]"
 De Rosa V, Procaccini C, Calì G, et al. Diet-induced metabolic perturbations and autoimmunity. Nat Immunol. 2017;18(11):1164-1167. doi:10.1038/ni.3714
 
 ## Source
+- **Primary source:** Nature Immunology
+- **Citation extracted from:** Facebook Posts Collection, Article 27 (L-002-0208)
 - **DOI:** 10.1038/ni.3714
 - **PMID:** 27798632
 - **URL:** https://www.nature.com/articles/ni.3714
+- **Status:** Verified PMID/DOI, citation from source
 
 ---
 
@@ -53,4 +56,4 @@ De Rosa V, Procaccini C, Calì G, et al. Diet-induced metabolic perturbations an
 - **Impact:** Key mechanistic paper linking metabolism to autoimmunity
 
 ---
-*R-002-0009 | Added: 2026-04-04 | Tier: SILVER*
+*R-002-0009 | Added: 2026-04-04 | Merged: 2026-04-05 | Tier: SILVER | Status: Verified PMID/DOI, citation from source*

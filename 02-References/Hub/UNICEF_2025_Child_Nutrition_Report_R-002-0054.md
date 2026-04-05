@@ -22,9 +22,10 @@ The 2025 Child Nutrition Report, 'Feeding Profit: How food environments are fail
 Obesity exceeds underweight for the first time among school-age children and adolescents globally – UNICEF, press release 9 Sept 2025
 
 ## Source
-- **Citation from:** Facebook Posts Collection, Article 33 (L-002-0215)
+- **Primary source:** UNICEF Report
+- **Citation extracted from:** Facebook Posts Collection, Article 33 (L-002-0215)
 - **Type:** Global health organization report + press release
-- **Status:** Citation extracted from source
+- **Status:** Citation from source
 - **Note:** Policy/epidemiological report, not peer-reviewed study
 
 ## Key Claims from Source

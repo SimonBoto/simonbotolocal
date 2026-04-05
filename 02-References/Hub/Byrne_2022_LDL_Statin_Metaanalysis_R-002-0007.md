@@ -19,9 +19,12 @@ parent-moc: "[[MOC-References-Active]]"
 Byrne P, Demasi M, Jones M, et al. Evaluating the association between low-density lipoprotein cholesterol reduction and relative and absolute effects of statin treatment: a systematic review and meta-analysis. JAMA Intern Med. 2022;182(5):512-522. doi:10.1001/jamainternmed.2022.0134
 
 ## Source
+- **Primary source:** JAMA Internal Medicine
+- **Citation extracted from:** Facebook Posts Collection, Article 26 (L-002-0207)
 - **DOI:** 10.1001/jamainternmed.2022.0134
 - **PMID:** 35285850
 - **URL:** https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2790055
+- **Status:** Verified PMID/DOI, citation from source
 
 ---
 
@@ -55,4 +58,4 @@ Byrne P, Demasi M, Jones M, et al. Evaluating the association between low-densit
 - **Impact:** Questions LDL-centric approach to cardiovascular prevention
 
 ---
-*R-002-0007 | Added: 2026-04-04 | Tier: GOLD*
+*R-002-0007 | Added: 2026-04-04 | Merged: 2026-04-05 | Tier: GOLD | Status: Verified PMID/DOI, citation from source*

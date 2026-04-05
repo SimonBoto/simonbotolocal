@@ -19,10 +19,13 @@ parent-moc: "[[MOC-Diabetes-T2D]]"
 Mousavi SM, Gu X, Imamura F, et al. Total and specific potato intake and risk of type 2 diabetes: results from three US cohort studies and a substitution meta-analysis of prospective cohorts. *BMJ*. 2025;390:e082121. doi:10.1136/bmj-2024-082121
 
 ## Source
+- **Primary source:** BMJ
+- **Citation extracted from:** Facebook Posts Collection, Article 30 (L-002-0211)
 - **Journal:** BMJ
 - **Year:** 2025
 - **Type:** Prospective cohort study + meta-analysis
 - **DOI:** [10.1136/bmj-2024-082121](https://doi.org/10.1136/bmj-2024-082121)
+- **Status:** Verified DOI, citation from source
 
 ---
 

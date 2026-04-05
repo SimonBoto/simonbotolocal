@@ -19,9 +19,10 @@ parent-moc: "[[MOC-Clinical-Protocols]]"
 Tsoukalas D, Sarandi E, Fragoulakis V, Xenidis S, Mhliopoulou M, Charta M, Paramera E, Papakonstantinou E, Tsatsakis A. Metabolomics-based treatment for chronic diseases: results from a multidisciplinary clinical study. BMJ Nutrition, Prevention & Health. December 2024.
 
 ## Source
-- **Citation from:** Facebook Posts Collection, Article 32 (L-002-0213)
+- **Primary source:** BMJ Nutrition, Prevention & Health
+- **Citation extracted from:** Facebook Posts Collection, Article 32 (L-002-0213)
 - **Full citation:** Tsoukalas D et al. BMJ Nutr Prev Health. December 2024.
-- **Status:** Citation extracted from source; full text pending
+- **Status:** Citation from source; full text pending
 
 ## Key Claims from Source
 - 95.7% improvement in health and quality of life

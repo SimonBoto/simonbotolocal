@@ -19,10 +19,12 @@ parent-moc: "[[MOC-Metabolic-Syndrome]]"
 Ebbeling CB, Feldman HA, Klein GL, Wong JMW, Bielak L, Steltz SK, et al. Effects of a low carbohydrate diet on energy expenditure during weight loss maintenance: randomized trial. BMJ. 2018;363:k4583. doi:10.1136/bmj.k4583
 
 ## Source
-- **Citation from:** Facebook Posts Collection, Article 29 (L-002-0210)
+- **Primary source:** BMJ
+- **Citation extracted from:** Facebook Posts Collection, Article 29 (L-002-0210)
 - **DOI:** 10.1136/bmj.k4583
 - **PMID:** 30403709
 - **URL:** https://www.bmj.com/content/363/bmj.k4583
+- **Status:** Verified PMID/DOI, citation from source
 
 ## Key Claims from Source
 - Low-carb diet (20% carbs): +278 kcal/day energy expenditure vs high-carb (60%)

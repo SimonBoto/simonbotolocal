@@ -20,9 +20,12 @@ parent-moc: "[[MOC-Cardiovascular-Disease]]"
 Evans PC, Vilahur G, Kleinbongard P, et al. Novel cardiovascular metabolic risk factor mechanisms and therapeutic opportunities: A scientific statement of the ESC Council on Basic Cardiovascular Science. *European Heart Journal*. 2026. doi:10.1093/eurheartj/ehag116
 
 ## Source
+- **Primary source:** European Heart Journal
+- **Citation extracted from:** Facebook Posts Collection, Article 26 (L-002-0207)
 - **DOI:** [10.1093/eurheartj/ehag116](https://doi.org/10.1093/eurheartj/ehag116)
 - **Journal:** European Heart Journal
 - **Type:** ESC Scientific Statement (multi-working group)
+- **Status:** Verified DOI, citation from source
 
 ---
 

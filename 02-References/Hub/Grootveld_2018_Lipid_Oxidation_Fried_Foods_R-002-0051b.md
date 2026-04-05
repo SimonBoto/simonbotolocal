@@ -19,9 +19,10 @@ parent-moc: "[[MOC-Metabolic-Syndrome]]"
 Grootveld M, Percival BC, Grootveld KL. Chronic non-communicable disease risks presented by lipid oxidation products in fried foods. Hepatobiliary Surg Nutr. 2018.
 
 ## Source
-- **Citation from:** Facebook Posts Collection, Article 30 (L-002-0211)
+- **Primary source:** Hepatobiliary Surgery and Nutrition
+- **Citation extracted from:** Facebook Posts Collection, Article 30 (L-002-0211)
 - **Full citation:** Grootveld M, Percival BC, Grootveld KL. Hepatobiliary Surg Nutr. 2018.
-- **Status:** Citation extracted from source; full text pending
+- **Status:** Citation from source; full text pending
 
 ## Key Claims from Source
 - Toxic aldehydes in fried potatoes comparable to 25 cigarettes
