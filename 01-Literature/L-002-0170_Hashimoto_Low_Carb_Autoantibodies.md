@@ -7,9 +7,10 @@ authors: "Huang XS, et al."
 year: "2024"
 journal: "Endocrine Connections"
 doi: "10.1530/EC-23-0477"
+pmid: "38552311"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Autoimmune-Disease]]"
+parent-moc: "[[MOC-Hashimoto-Thyroiditis]]"
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1
@@ -58,7 +59,7 @@ Low-carbohydrate diets reduce thyroid autoantibodies and inflammation in Hashimo
 ---
 
 ## Structural Links
-- **Up:** [[MOC-Autoimmune-Disease]] — Thematic domain
+- **Up:** [[MOC-Hashimoto-Thyroiditis]] — Thematic domain
 - **Inbox:** [[INBOX-Article-4-Hashimoto]] — Raw origin
 - **Index:** [[01-Literature]] — Container
 
@@ -73,7 +74,7 @@ Low-carbohydrate diets reduce thyroid autoantibodies and inflammation in Hashimo
 - [x] All structural links verified
 
 ## Connections
-- [[MOC-Autoimmune-Disease]]
+- [[MOC-Hashimoto-Thyroiditis]]
 - [[INBOX-Article-4-Hashimoto]]
 - [[Huang_2024_Hashimoto_LowCarb_MRI_R-002-0027]]
 

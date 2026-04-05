@@ -12,7 +12,7 @@ pmcid: "PMC11046326"
 url: "https://ec.bioscientifica.com/doi/10.1530/EC-23-0477"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Autoimmune-Disease]]"
+parent-moc: "[[MOC-Hashimoto-Thyroiditis]]"
 ---
 
 # Huang et al. 2024 — Low-Carb Diet and Hashimoto's Thyroiditis
