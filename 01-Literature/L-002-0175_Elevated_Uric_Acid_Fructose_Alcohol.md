@@ -2,7 +2,7 @@
 uid: L-002-0175
 type: lit-note
 title: "Elevated Uric Acid: Fructose, Alcohol & Processed Foods (Chi 2024)"
-source-inbox: "[[INBOX-Article-9-Uric-Acid]]"
+source-inbox: "[[INBOX-Article-17-Uric-Acid]]"
 authors: "Chi X, Cen Y, Yang B, et al."
 year: "2024"
 journal: "International Journal of Food Sciences and Nutrition"
@@ -27,8 +27,8 @@ tags:
 # Lit: Elevated Uric Acid — Fructose, Alcohol & Processed Foods
 
 ## Source
-- **Full citation:** Chi X, Cen Y, Yang B, et al. (2024). Effects of dietary factors on hyperuricaemia and gout: a systematic review and meta-analysis of observational studies. *Int J Food Sci Nutr*. doi:10.1080/09637486.2024.2400489
-- **Inbox origin:** [[INBOX-Article-9-Uric-Acid]]
+- **Full citation:** Chi X, Cen Y, Yang B, et al. "Effects of dietary factors on hyperuricaemia and gout: a systematic review and meta-analysis of observational studies." *Int J Food Sci Nutr*. 2024. doi:10.1080/09637486.2024.2400489. PMID: 39289820.
+- **Inbox origin:** [[INBOX-Article-17-Uric-Acid]]
 - **Reference note:** [[Chi_2024_Fructose_UricAcid_Meta_R-002-0030]]
 
 ## Core Claim
@@ -66,25 +66,21 @@ High fructose intake significantly increases hyperuricemia and gout risk through
 
 ---
 
-## Structural Links
-- **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **Inbox:** [[INBOX-Article-9-Uric-Acid]] — Raw origin
+## Connections
+- **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
+- **INBOX:** [[INBOX-Article-17-Uric-Acid]] — Article source
+- **Reference:** [[Chi_2024_Fructose_UricAcid_Meta_R-002-0030]] — Primary source
 - **Index:** [[01-Literature]] — Container
 
 ---
 
 ## Status
 - [x] LitNote created
-- [x] Zettels created (3 complete)
+- [x] Zettels created (3 zettels: Z-002-0660 to Z-002-0662)
 - [x] All reference notes created
 - [x] In-text citations verified
 - [x] Reference-zettel links functional
-- [x] All structural links verified
-
-## Connections
-- [[MOC-Metabolic-Syndrome]]
-- [[INBOX-Article-9-Uric-Acid]]
-- [[Chi_2024_Fructose_UricAcid_Meta_R-002-0030]]
+- [x] Source references added to all zettels
 
 ---
 *L-002-0175 | Created: 2026-04-04 | Tier: GOLD*
