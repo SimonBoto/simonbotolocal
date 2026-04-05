@@ -68,9 +68,14 @@ Low-carbohydrate diets may reduce Hashimoto's inflammation through:
 
 | Zettel | Claim | Context |
 |--------|-------|---------|
-| (pending) | Low-carb reduces Hashimoto's autoantibodies | Article 3 |
-| (pending) | MRI quantifiable inflammation reduction | Methods |
-| (pending) | Dietary intervention for autoimmune thyroid | Clinical application |
+| [[Low_Carb_Reduces_Thyroid_Autoantibodies_Z-002-0644]] | Low-carb reduces TPOAb/TgAb | Primary finding |
+| [[Insulin_Resistance_Autoimmune_Thyroid_Z-002-0645]] | Insulin resistance mechanism | Mechanism |
+| [[Dietary_Intervention_First_Line_Hashimotos_Z-002-0646]] | First-line therapy | Clinical application |
+
+## References Cited in Paper
+
+1. **Sarandi E, Tsoukalas D, Tsatsakis A, et al.** Metabolic profile of Hashimoto's thyroiditis. *Sci Rep*. 2025.
+2. **Groenewegen KL, Mooij CF.** Persisting symptoms in Hashimoto's disease. *J Transl Autoimmun*. 2021.
 
 ---
 

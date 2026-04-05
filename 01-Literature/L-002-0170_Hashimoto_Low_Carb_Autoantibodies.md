@@ -26,6 +26,28 @@ reference-count: 1
 ## Core Claim
 Low-carbohydrate diets reduce thyroid autoantibodies and inflammation in Hashimoto's thyroiditis through mechanisms involving reduced insulin resistance, decreased systemic inflammation, improved gut barrier function, and reduced oxidative stress.
 
+## Clinical Context
+
+### Antibody-Quality of Life Connection
+Elevated autoantibodies (TPOAb, TgAb) are associated with:
+- Chronic fatigue
+- Difficulty managing body weight
+- Dry hair
+- Throat tightness sensation
+- Irritability and nervousness
+- Diffuse muscle pain
+
+> Through clinical experience, reduction of thyroid antibodies is consistently associated with **improved health and quality of life** in patients.
+
+### Comprehensive Approach
+Beyond low-carb diet, additional improvements from:
+
+| Intervention | Target |
+|--------------|--------|
+| **Micronutrient repletion** | Vitamin D, magnesium, selenium, zinc |
+| **Metabolic correction** | Insulin resistance, gut dysbiosis |
+| **Adequate protein** | Thyroid hormone synthesis support |
+
 ---
 
 ## Zettels Extracted
