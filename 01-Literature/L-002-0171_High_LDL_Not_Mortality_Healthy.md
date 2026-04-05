@@ -10,7 +10,7 @@ doi: "10.1136/bmjopen-2023-077949"
 pmid: "38548371"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Cardiovascular-Disease]]"
+parent-moc: "[[MOC-Cholesterol-Quality]]"
 extraction-date: "2026-04-04"
 zettel-count: 4
 reference-count: 1
@@ -73,7 +73,7 @@ High LDL cholesterol is **not associated with increased all-cause or cardiovascu
 ---
 
 ## Structural Links
-- **Up:** [[MOC-Cardiovascular-Disease]] — Thematic domain
+- **Up:** [[MOC-Cholesterol-Quality]] — Thematic domain
 - **Inbox:** [[INBOX-Article-5-LDL-Mortality]] — Raw origin
 - **Index:** [[01-Literature]] — Container
 
@@ -88,7 +88,7 @@ High LDL cholesterol is **not associated with increased all-cause or cardiovascu
 - [x] All structural links verified
 
 ## Connections
-- [[MOC-Cardiovascular-Disease]]
+- [[MOC-Cholesterol-Quality]]
 - [[INBOX-Article-5-LDL-Mortality]]
 - [[Kip_2024_LDL_Mortality_Primary_Prevention_R-002-0028]]
 

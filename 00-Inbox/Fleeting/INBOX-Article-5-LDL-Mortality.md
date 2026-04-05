@@ -38,7 +38,7 @@ topic: ldl, cholesterol, mortality, paradox, primary-prevention, statins
 - [x] LitNote created: [[L-002-0171_High_LDL_Not_Mortality_Healthy]]
 - [x] Zettels extracted: 4 zettels (Z-002-0647 to 0650)
 - [x] Reference note: R-002-0028
-- [x] MOC: [[MOC-Cardiovascular-Disease]]
+- [x] MOC: [[MOC-Cholesterol-Quality]]
 - [x] All connections verified
 
 ---
