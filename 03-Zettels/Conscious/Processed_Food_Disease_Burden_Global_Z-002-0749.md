@@ -7,8 +7,9 @@ domain: 002
 status: conscious
 tags: [zettel, processed-food, disease-burden]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Global-Health]]"
+parent-moc: "[[MOC-Diabetes-T2D]]"
 source-litnote: "[[L-002-0203_Diet_11_Million_Deaths_Annually]]"
+source-reference: "[[GBD_2017_Diet_11_Million_Deaths_R-002-0043]]"
 related: []
 ---
 
