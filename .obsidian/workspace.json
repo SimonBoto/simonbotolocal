@@ -176,36 +176,12 @@
             }
           },
           {
-            "id": "9f3ade9b85f76439",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Literature/L-002-0206_Meat_Consumption_Eliminates_Alzheimer_Genetic_Risk.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "L-002-0206_Meat_Consumption_Eliminates_Alzheimer_Genetic_Risk"
-            }
-          },
-          {
             "id": "c23d6ca2088f2589",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Literature.md",
+                "file": "01-Literature/LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,11 +196,155 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01-Literature"
+              "title": "LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622"
+            }
+          },
+          {
+            "id": "6d4fea7b4cab9a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Processed/clinical/CGPT_0311_Self_Education_Program_Plan_CGPT-0311.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CGPT_0311_Self_Education_Program_Plan_CGPT-0311"
+            }
+          },
+          {
+            "id": "5b7eca24a7800f15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Processed/phd_research/CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391"
+            }
+          },
+          {
+            "id": "aad7edd8279a3141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Processed/insulin_resistance/CGPT_0647_ATP_Pathways_Overview_CGPT-0647.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CGPT_0647_ATP_Pathways_Overview_CGPT-0647"
+            }
+          },
+          {
+            "id": "dd51fbde35034728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445"
+            }
+          },
+          {
+            "id": "c7b436e7ed93ffc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Processed/phd_research/CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328"
+            }
+          },
+          {
+            "id": "9f3ade9b85f76439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Processed/adipic_acid/CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -400,35 +520,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9f3ade9b85f76439",
+  "active": "6d4fea7b4cab9a62",
   "lastOpenFiles": [
-    "03-Zettels/Conscious/B12_Critical_Brain_Health_Z-002-0758.md",
-    "03-Zettels/Conscious/APOE4_Meat_Protective_Effect_Z-002-0757.md",
-    "03-Zettels/Conscious/Meat_Eliminates_Alzheimer_Genetic_Risk_Z-002-0756.md",
-    "02-References/Hub/Norgren_2026_Meat_APOE4_Dementia_R-002-0046.md",
-    "00-Inbox/Fleeting/INBOX-Article-25-Meat-Alzheimer.md",
-    "01-Literature/L-002-0205_Alcohol_1.8_Million_Deaths.md",
-    "02-References/Hub/GBD_2019_Alcohol_1.8M_Deaths_R-002-0045.md",
-    "00-Inbox/Fleeting/INBOX-Article-24-Alcohol.md",
-    "01-Literature/L-002-0204_Tobacco_Sugar_Industry_Tactics.md",
-    "02-References/Hub/Kearns_2016_Sugar_Industry_Documents_R-002-0044.md",
-    "00-Inbox/Fleeting/INBOX-Article-23-Industry-Tactics.md",
-    "01-Literature/L-002-0203_Diet_11_Million_Deaths_Annually.md",
-    "memory/2026-04-05-session-handoff.md",
+    "01-Literature/LitNote_Mitochondrial_Gene_Knockout_Models_L-001-0622.md",
+    "01-Literature/LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518.md",
+    "01-Literature/LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655.md",
+    "01-Literature/LitNote_Ketogenesis_BHB_Signaling_L-001-0045G.md",
+    "01-Literature/LitNote_Keto_Acids_Organic_Acids_L-001-0045F.md",
+    "01-Literature/LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519.md",
+    "00-Inbox/Processed/phd_research/CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391.md",
+    "01-Literature/LitNote_Hyperinsulinemia_Metabolic_Inflexibility_L-001-0654.md",
+    "00-Inbox/Processed/insulin_resistance/CGPT_0647_ATP_Pathways_Overview_CGPT-0647.md",
+    "01-Literature/LitNote_Glucose_Fructose_Aldoses_Ketoses_L-001-0045E.md",
+    "00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445.md",
+    "03-Zettels/Conscious/Statin_Benefit_Context_Dependent_Z-002-0761.md",
+    "01-Literature/LitNote_Fatty_Acid_Structure_Classification_L-001-0632.md",
+    "01-Literature/LitNote_FDR_Multiple_Testing_Correction_L-001-0515.md",
+    "00-Inbox/Processed/phd_research/CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328.md",
+    "03-Zettels/Conscious/Triglycerides_HDL_More_Predictive_Than_LDL_Z-002-0760.md",
+    "01-Literature/LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003.md",
+    "01-Literature/LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004.md",
+    "01-Literature/LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002.md",
+    "01-Literature/LitNote_Adipate_Metabolism_Dicarboxylic_Pathway_L-001-0629.md",
+    "01-Literature.md",
+    "00-Inbox/Processed/adipic_acid/CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586.md",
+    "03-Zettels/Conscious/LDL_Lowering_Not_Always_CVD_Protection_Z-002-0759.md",
+    "01-Literature/LitNote_Aconitase_Iron_Metabolism_IRP1_L-001-0631.md",
+    "01-Literature/NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002.md",
+    "01-Literature/NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003.md",
     "memory",
-    "02-References/Hub/GBD_2017_Diet_11_Million_Deaths_R-002-0043.md",
-    "00-Inbox/Fleeting/INBOX-Article-22-Diet-Mortality.md",
-    "01-Literature/L-002-0202_Chronic_Disease_74pct_Global_Deaths.md",
-    "02-References/Hub/GBD_2019_NCD_Global_Burden_R-002-0042.md",
-    "00-Inbox/Fleeting/INBOX-Article-21-Chronic-Disease.md",
-    "01-Literature/L-002-0201_Artificial_Sweeteners_Increase_Body_Fat.md",
-    "02-References/Hub/Steffen_2023_Artificial_Sweeteners_CARDIA_R-002-0041.md",
-    "00-Inbox/Fleeting/INBOX-Article-20-Artificial-Sweeteners.md",
-    "01-Literature/L-002-0180_Personalized_Nutrition_Halves_Heart_Attack_Risk.md",
-    "01-Literature/L-002-0200_Fasting_Immunotherapy_Cancer.md",
-    "02-References/Hub/Bermingham_2024_Personalized_Nutrition_RCT_R-002-0040.md",
-    "00-Inbox/Fleeting/INBOX-Article-19-Personalized-Nutrition.md",
-    "01-Literature/L-002-0177_Carb_Withdrawal_Keto_Adaptation.md",
     "02-Literature",
     "00-Inbox/Fleeting/INBOX-Facebook-Collection-All-123.md.backup",
     "00-Inbox/Fleeting/INBOX-Facebook-Collection-All-123.md.tmp",
