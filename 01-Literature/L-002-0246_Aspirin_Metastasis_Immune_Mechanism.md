@@ -6,7 +6,7 @@ aliases:
   - L-002-0246
   - Article-1-Aspirin-Metastasis
 domain: 2
-status: extracted
+status: active
 tags:
   - litnote
   - aspirin

@@ -4,7 +4,7 @@ type: litnote
 title: "Walking Reduces All-Cause Mortality Risk by More Than Half — JAMA 2023"
 aliases: ["L-002-0245", "Article 65"]
 domain: 002
-status: extracted
+status: active
 tags: [litnote, batch-f, physical-activity, mortality, walking, exercise, metabolic-health]
 parent-index: "[[01-Literature]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
