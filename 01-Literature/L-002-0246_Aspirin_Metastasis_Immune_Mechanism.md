@@ -26,8 +26,8 @@ zettel-count: 5
 1. **[[Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100]]** — Primary mechanism study
    - Yang J et al. Aspirin prevents metastasis by limiting platelet TXA2 suppression of T cell immunity. *Nature*. March 2025. doi:10.1038/s41586-025-08626-7
    
-2. **NEJM 2025** — Clinical implications (reference note needed)
-   - New England Journal of Medicine. Clinical implications of aspirin in cancer metastasis. Dec 2025.
+2. **[[Patrono_Rocca_2025_NEJM_Aspirin_Metastasis_R-002-0036]]** — Clinical implications commentary
+   - Patrono C, Rocca B. Understanding How Aspirin Prevents Metastasis. *N Engl J Med*. 2025;392:e47. doi:10.1056/NEJMcibr2502386
 
 ## Core Finding
 

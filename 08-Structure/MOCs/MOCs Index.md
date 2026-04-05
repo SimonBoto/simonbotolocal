@@ -60,6 +60,7 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 | **Vitamins** | [[MOC-Vitamin-C]] | 8 | Ascorbate, Pauling, functions |
 | **010** | [[MOC-Minerals-Trace]] | 1 | Mg, Zn, Se |
 | **101** | [[MOC-Pharmacometabolomics]] | 55 | Drug metabolism |
+| **Cancer** | [[MOC-Cancer-Immunology]] | 5 | Cancer-immune interactions, immunotherapy |
 
 ---
 

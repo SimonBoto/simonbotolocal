@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "74acc8d22cc8eb44",
+        "id": "cf94f10e14f5d54e",
         "type": "tabs",
         "children": [
           {
-            "id": "65c9339abede9d22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/Processed/metabolomics/CGPT_0022_Metabolomics_training_role_CGPT-0022.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CGPT_0022_Metabolomics_training_role_CGPT-0022"
-            }
-          },
-          {
-            "id": "4babb119d6d7cb98",
+            "id": "48c1de703a991dab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "01-Literature/L-002-0246_Aspirin_Metastasis_Immune_Mechanism.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -56,12 +32,12 @@
             }
           },
           {
-            "id": "a9eeaacbba8d4608",
+            "id": "a2bfc31491f6ee8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Fleeting/INBOX-Article-1-Aspirin-Metastasis.md",
+                "file": "03-Zettels/Conscious/Aspirin_Dosing_Cancer_Prevention_Low_Dose_Sufficient_Z-002-0879.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "INBOX-Article-1-Aspirin-Metastasis"
+              "title": "Aspirin_Dosing_Cancer_Prevention_Low_Dose_Sufficient_Z-002-0879"
             }
           },
           {
-            "id": "31662859b2ed04c6",
+            "id": "25ea19d0974fdba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-Structure/MOCs/MOC-Biomarkers.md",
+                "file": "03-Zettels/Conscious/Aspirin_Cancer_Immunomodulator_Not_Just_Anti_Platelet_Z-002-0877.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOC-Biomarkers"
+              "title": "Aspirin_Cancer_Immunomodulator_Not_Just_Anti_Platelet_Z-002-0877"
             }
           },
           {
-            "id": "440a3c4c7f63e2fc",
+            "id": "8449d3e3d317aaaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Zettels/Conscious/Metabolic_Storytelling_Patient_Framework_Z-001-1070.md",
+                "file": "03-Zettels/Conscious/Platelet_COX1_Inhibition_T_Cell_Activation_Z-002-0876.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +100,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Metabolic_Storytelling_Patient_Framework_Z-001-1070"
+              "title": "Platelet_COX1_Inhibition_T_Cell_Activation_Z-002-0876"
+            }
+          },
+          {
+            "id": "33ff67e5eae5ee56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Zettels/Conscious/Aspirin_TXA2_Mechanism_Metastasis_Prevention_Z-002-0875.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Aspirin_TXA2_Mechanism_Metastasis_Prevention_Z-002-0875"
+            }
+          },
+          {
+            "id": "99d00e25f4bd6109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-References/Hub/Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100"
+            }
+          },
+          {
+            "id": "c23d6ca2088f2589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Literature/L-002-0246_Aspirin_Metastasis_Immune_Mechanism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "L-002-0246_Aspirin_Metastasis_Immune_Mechanism"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -304,17 +352,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a9eeaacbba8d4608",
+  "active": "c23d6ca2088f2589",
   "lastOpenFiles": [
+    "08-Structure/MOCs/MOC-Cancer-Immunology.md",
+    "02-References/Hub/Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100.md",
+    "02-References/Hub/Patrono_Rocca_2025_NEJM_Aspirin_Metastasis_R-002-0036.md",
+    "01-Literature/L-002-0246_Aspirin_Metastasis_Immune_Mechanism.md",
+    "00-Inbox/Fleeting/INBOX-Article-1-Aspirin-Metastasis.md",
+    "03-Zettels/Conscious/Aspirin_TXA2_Mechanism_Metastasis_Prevention_Z-002-0875.md",
+    "03-Zettels/Conscious/Platelet_COX1_Inhibition_T_Cell_Activation_Z-002-0876.md",
     "03-Zettels/Conscious/Aspirin_Cancer_Immunomodulator_Not_Just_Anti_Platelet_Z-002-0877.md",
     "03-Zettels/Conscious/Aspirin_Dosing_Cancer_Prevention_Low_Dose_Sufficient_Z-002-0879.md",
-    "03-Zettels/Conscious/Micrometastases_Immune_Vulnerability_Window_Z-002-0878.md",
-    "03-Zettels/Conscious/Platelet_COX1_Inhibition_T_Cell_Activation_Z-002-0876.md",
-    "01-Literature/L-002-0246_Aspirin_Metastasis_Immune_Mechanism.md",
-    "00-Inbox/Fleeting/Facebook Posts Collection.md",
-    "03-Zettels/Conscious/Aspirin_TXA2_Mechanism_Metastasis_Prevention_Z-002-0875.md",
-    "00-Inbox/Fleeting/INBOX-Article-1-Aspirin-Metastasis.md",
     "01-Literature/L-002-0245_Walking_Mortality_Reduction.md",
+    "03-Zettels/Conscious/Metabolic_Storytelling_Patient_Framework_Z-001-1070.md",
+    "08-Structure/MOCs/MOC-Biomarkers.md",
+    "00-Inbox/Processed/metabolomics/CGPT_0022_Metabolomics_training_role_CGPT-0022.md",
+    "03-Zettels/Conscious/Micrometastases_Immune_Vulnerability_Window_Z-002-0878.md",
+    "00-Inbox/Fleeting/Facebook Posts Collection.md",
     "01-Literature/L-002-0244_Animal_Saturated_Fat_Not_Mortality.md",
     "01-Literature/L-002-0243_High_Fat_Dairy_Dementia.md",
     "01-Literature/L-002-0242_Obese_Children_Outnumber_Underweight.md",
@@ -326,12 +380,6 @@
     "01-Literature/L-002-0236_Hong_Kong_Meat_Longevity.md",
     "01-Literature/L-002-0235_Low_Carb_vs_Low_Fat_39_RCTs.md",
     "01-Literature/L-002-0234_Saturated_Fat_Stability_Health.md",
-    "01-Literature/L-002-0233_Fatigue_Mitochondrial_Dysfunction.md",
-    "01-Literature/L-002-0232_High_LDL_Not_Mortality_Healthy.md",
-    "01-Literature/L-002-0231_Low_Carb_Hashimoto_Thyroiditis.md",
-    "01-Literature/L-002-0230_Five_Risk_Factors_14_Years_NEJM.md",
-    "01-Literature/L-002-0229_Calcium_Score_Statin_Benefit.md",
-    "01-Literature/L-002-0228_UPF_Death_CVD_Obesity_Diabetes.md",
     "02-Literature",
     "00-Inbox/Fleeting/INBOX-Facebook-Collection-All-123.md.backup",
     "00-Inbox/Fleeting/INBOX-Facebook-Collection-All-123.md.tmp",
