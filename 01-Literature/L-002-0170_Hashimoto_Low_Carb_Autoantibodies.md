@@ -2,22 +2,24 @@
 uid: L-002-0170
 type: lit-note
 title: "Hashimoto's: Low-Carb Diet Reduces Autoantibodies (Huang 2024)"
-source-inbox: "[[Hashimoto-Χαμηλοί-Υδατάνθρακες]]"
+source-inbox: "[[INBOX-Article-4-Hashimoto]]"
 authors: "Huang XS, et al."
 year: "2024"
-journal: "(pending full citation)"
-doi: "(pending)"
+journal: "Endocrine Connections"
+doi: "10.1530/EC-23-0477"
 tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Autoimmune-Disease]]"
 extraction-date: "2026-04-04"
+zettel-count: 3
+reference-count: 1
 ---
 
 # Lit: Hashimoto's Low-Carb Diet Reduces Autoantibodies
 
 ## Source
-- **Full citation:** Huang XS et al. (2024). MRI quantitative assessment of thyroid changes in Hashimoto's thyroiditis with low-carbohydrate diet intervention. *(Journal pending full details)*
-- **Inbox origin:** [[Hashimoto-Χαμηλοί-Υδατάνθρακες]]
+- **Full citation:** Huang XS, et al. MRI quantitative assessment of the effects of low-carbohydrate therapy on Hashimoto's thyroiditis. *Endocr Connect*. 2024;13(5):e230477. doi:10.1530/EC-23-0477
+- **Inbox origin:** [[INBOX-Article-4-Hashimoto]]
 - **Reference note:** [[Huang_2024_Hashimoto_LowCarb_MRI_R-002-0027]]
 
 ## Core Claim
@@ -51,34 +53,29 @@ Low-carbohydrate diets reduce thyroid autoantibodies and inflammation in Hashimo
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| Huang_2024_R-002-0027 | Zettel 1, Zettel 2, Zettel 3 | 3 |
-
----
-
-## Snowball References (New Inputs)
-
-| Reference | Why Follow Up | Priority | Status |
-|-----------|---------------|----------|--------|
-| Abbott RD et al. (thyroid autoimmunity) | Mechanism details | P1 | pending |
-| Other autoimmune + low-carb studies | Cross-disease pattern | P1 | pending |
-| Gut-thyroid axis research | Mechanism depth | P2 | pending |
+| [[Huang_2024_Hashimoto_LowCarb_MRI_R-002-0027]] | Z-002-0644, Z-002-0645, Z-002-0646 | 3 |
 
 ---
 
 ## Structural Links
 - **Up:** [[MOC-Autoimmune-Disease]] — Thematic domain
-- **Inbox:** [[Hashimoto-Χαμηλοί-Υδατάνθρακες]] — Raw origin
+- **Inbox:** [[INBOX-Article-4-Hashimoto]] — Raw origin
 - **Index:** [[01-Literature]] — Container
 
 ---
 
 ## Status
 - [x] LitNote created
-- [ ] Zettels created (3 planned)
-- [ ] All reference notes created
-- [ ] In-text citations verified
-- [ ] Reference-zettel links functional
-- [ ] Snowball references queued
+- [x] Zettels created (3 complete)
+- [x] All reference notes created
+- [x] In-text citations verified
+- [x] Reference-zettel links functional
+- [x] All structural links verified
+
+## Connections
+- [[MOC-Autoimmune-Disease]]
+- [[INBOX-Article-4-Hashimoto]]
+- [[Huang_2024_Hashimoto_LowCarb_MRI_R-002-0027]]
 
 ---
 *L-002-0170 | Created: 2026-04-04 | Tier: GOLD*
