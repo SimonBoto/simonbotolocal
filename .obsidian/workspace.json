@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Literature/LitNote_Oleic_Acid_Clinical_L-001-0506.md",
+                "file": "01-Literature/LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LitNote_Oleic_Acid_Clinical_L-001-0506"
+              "title": "LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/anchor cgpt conversations to exctract as priority.md",
+                "file": "01-Literature/LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "anchor cgpt conversations to exctract as priority"
+              "title": "LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -280,34 +280,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "59eed1475e021f8d",
+  "active": "931be2a8dab197cf",
   "lastOpenFiles": [
-    "03-Zettels/Conscious/Thermic_Effect_Macronutrients_Differ_Z-002-0770.md",
-    "03-Zettels/Conscious/Low_Carb_Increases_Energy_Expenditure_Z-002-0769.md",
-    "03-Zettels/Conscious/Calories_Not_Equal_Metabolic_Effect_Z-002-0768.md",
-    "02-References/Hub/Calories_Not_Equal_Metabolic_R-002-0050.md",
-    "00-Inbox/Fleeting/INBOX-Article-29-Calories.md",
-    "03-Zettels/Conscious/Quality_Not_Quantity_Meat_Health_Z-002-0767.md",
-    "01-Literature/LitNote_Oxalic_Acid_Chemistry_Metabolism_L-001-0060.md",
-    "01-Literature/LitNote_Osteopenia_Osteoporosis_Definitions_L-001-0010.md",
-    "01-Literature/LitNote_Organic_Acid_Krebs_Cycle_L-001-0507.md",
-    "01-Literature/LitNote_One_Carbon_Metabolism_B12_L-001-0401.md",
-    "01-Literature/LitNote_Protein_CKD_Progression_Evidence_L-001-0573.md",
     "00-Inbox/anchor cgpt conversations to exctract as priority.md",
-    "01-Literature/LitNote_PhD_Study_Design_METHAP_L-001-0615.md",
-    "03-Zettels/Conscious/Meat_Paradox_Not_Harmful_Context_Z-002-0766.md",
-    "01-Literature/LitNote_Patient_Communication_Scripts_L-001-0595.md",
-    "01-Literature/LitNote_Oxalic_Acid_Chemistry_Sources_Health_L-001-0060A.md",
-    "01-Literature/LitNote_Statin_Pharmacology_L-001-0502.md",
-    "03-Zettels/Conscious/Hong_Kong_Highest_Meat_Longest_Life_Z-002-0765.md",
-    "01-Literature/LitNote_Seven_Countries_Methodology_L-001-0504.md",
-    "01-Literature/LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503.md",
-    "01-Literature/LitNote_Seed_Oils_Fatty_Acid_Composition_L-001-0522.md",
-    "02-References/Hub/Hong_Kong_Meat_Longevity_Paradox_R-002-0049.md",
-    "01-Literature/LitNote_Tsoukalas_Research_Bibliography_L-001-0596.md",
-    "01-Literature/LitNote_Technical_Confounders_Metabolomics_L-001-0520.md",
-    "01-Literature/LitNote_TP53_Multiple_Myeloma_L-001-0613.md",
-    "01-Literature/LitNote_Statistical_Analysis_Omics_L-001-0617.md",
+    "01-Literature/LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md",
+    "01-Literature/LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md",
+    "01-Literature/LitNote_CGPT_0359_Questionnaire_Compliance_L-101-0052.md",
+    "01-Literature/LitNote_CGPT_0131_Medical_Ethics_L-101-0050.md",
+    "01-Literature/LitNote_CGPT_0022_Training_Integration_L-001-0598.md",
+    "01-Literature/LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md",
+    "01-Literature/LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md",
+    "03-Zettels/Conscious/Healthier_Fat_Alternatives_Frying_Z-002-0773.md",
+    "03-Zettels/Conscious/Oxidized_Omega6_Metabolic_Damage_Z-002-0772.md",
+    "01-Literature/LitNote_CGPT_0205_Ethics_Communication_L-101-0051.md",
+    "03-Zettels/Conscious/Seed_Oil_Fried_Potatoes_20pct_Diabetes_Risk_Z-002-0771.md",
+    "01-Literature/NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002.md",
+    "01-Literature/LitNote_Exploratory_vs_Confirmatory_Research_Design_L-001-0516.md",
+    "01-Literature/LitNote_Glucose_Fructose_Aldoses_Ketoses_L-001-0045E.md",
+    "01-Literature/LitNote_Ketogenesis_BHB_Signaling_L-001-0045G.md",
+    "01-Literature/LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519.md",
+    "01-Literature/LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518.md",
+    "01-Literature/LitNote_Mitochondrial_Structure_Biology_L-001-0633.md",
+    "01-Literature/LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625.md",
+    "01-Literature/LitNote_Power_Analysis_Metabolomics_L-001-0514.md",
+    "01-Literature/LitNote_Self_Education_Clinical_Team_L-001-0620.md",
+    "01-Literature/LitNote_Sirolimus_Diabetes_NODAT_L-001-0513.md",
+    "02-References/Hub/Fried_Potatoes_Seed_Oils_Diabetes_R-002-0051.md",
+    "01-Literature/LitNote_VDR_Knockout_Immune_Function_L-001-0621.md",
+    "01-Literature/LitNote_Anabolic_Bone_Therapies_L-001-0016.md",
     "memory",
     "02-Literature",
     "00-Inbox/Fleeting/INBOX-Facebook-Collection-All-123.md.backup",
