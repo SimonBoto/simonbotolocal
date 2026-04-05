@@ -9,7 +9,7 @@ journal: "JAMA Network Open"
 doi: "10.1001/jamanetworkopen.2026.0434"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Pediatric-Health]]"
+parent-moc: "[[MOC-Metabolic-Syndrome]]"
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1
@@ -66,7 +66,7 @@ For the **first time in human history**, obese children now outnumber undernouri
 ---
 
 ## Structural Links
-- **Up:** [[MOC-Pediatric-Health]] — Thematic domain
+- **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
 - **Inbox:** [[INBOX-Article-10-Childhood-Obesity]] — Raw origin
 - **Index:** [[01-Literature]] — Container
 
@@ -81,7 +81,7 @@ For the **first time in human history**, obese children now outnumber undernouri
 - [x] All structural links verified
 
 ## Connections
-- [[MOC-Pediatric-Health]]
+- [[MOC-Metabolic-Syndrome]]
 - [[INBOX-Article-10-Childhood-Obesity]]
 - [[Kavanagh_2026_UPF_Children_Behavior_R-002-0023]]
 

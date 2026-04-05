@@ -11,7 +11,7 @@ pmid: ""
 url: ""
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Pediatric-Health]]"
+parent-moc: "[[MOC-Metabolic-Syndrome]]"
 ---
 
 # Kavanagh et al. 2026 — UPF and Childhood Behavioral Outcomes

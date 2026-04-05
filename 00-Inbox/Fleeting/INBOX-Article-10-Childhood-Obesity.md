@@ -45,7 +45,7 @@ topic: obesity, pediatric, global-health, nutrition-transition, ultra-processed-
 - [x] LitNote created: [[L-002-0179_Childhood_Obesity_Exceeds_Undernutrition]]
 - [x] Zettels extracted: 3 zettels (Z-002-0672 to 0674)
 - [x] Reference note: R-002-0023
-- [x] MOC: [[MOC-Pediatric-Health]]
+- [x] MOC: [[MOC-Metabolic-Syndrome]]
 - [x] All connections verified
 
 ---
