@@ -11,7 +11,7 @@ volume: "392"
 pages: "e47"
 doi: "10.1056/NEJMcibr2502386"
 url: "https://www.nejm.org/doi/full/10.1056/NEJMcibr2502386"
-pubmed: ""
+pubmed: "41370804"
 published-date: "2025-03-06"
 accessed: 2026-04-05
 tags: [reference, cancer, metastasis, aspirin, platelets, TXA2, COX-1, immunology, T-cells, clinical-implications, nejm-2025, facebook-collection]

@@ -11,7 +11,7 @@ volume: ""
 pages: ""
 doi: "10.1038/s41586-025-08626-7"
 url: "https://www.nature.com/articles/s41586-025-08626-7"
-pubmed: ""
+pubmed: "40044852"
 published-date: "2025-03-05"
 accessed: 2026-04-04
 tags: [reference, cancer, metastasis, aspirin, platelets, TXA2, COX-1, immunology, T-cells, facebook-collection]
@@ -42,8 +42,8 @@ Cyclooxygenase-1 (COX-1) inhibitors, including aspirin, enhance anti-metastatic 
 - **Original context:** Greek health post summarizing Nature + NEJM publications
 
 ## Related Notes
-- [[LitNote_Article_1_Aspirin_Metastasis_L-001-XXXX]]
-- [[NEJM_2025_Aspirin_Clinical_Implications_R-001-XXXX]]
+- [[L-002-0246_Aspirin_Metastasis_Immune_Mechanism]] — LitNote
+- [[Patrono_Rocca_2025_NEJM_Aspirin_Metastasis_R-002-0036]] — NEJM clinical commentary
 
 ## Zettel Candidates
 - COX-1 inhibition → platelet TXA2 ↓ → T-cell activation → anti-metastatic immunity
