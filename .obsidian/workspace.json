@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Fleeting/Facebook Posts Collection.md",
+                "file": "01-Literature/L-002-0246_Aspirin_Metastasis_Immune_Mechanism.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Facebook Posts Collection"
+              "title": "L-002-0246_Aspirin_Metastasis_Immune_Mechanism"
+            }
+          },
+          {
+            "id": "a9eeaacbba8d4608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Fleeting/INBOX-Article-1-Aspirin-Metastasis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "INBOX-Article-1-Aspirin-Metastasis"
             }
           },
           {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -280,8 +304,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "a9eeaacbba8d4608",
   "lastOpenFiles": [
+    "03-Zettels/Conscious/Aspirin_Cancer_Immunomodulator_Not_Just_Anti_Platelet_Z-002-0877.md",
+    "03-Zettels/Conscious/Aspirin_Dosing_Cancer_Prevention_Low_Dose_Sufficient_Z-002-0879.md",
+    "03-Zettels/Conscious/Micrometastases_Immune_Vulnerability_Window_Z-002-0878.md",
+    "03-Zettels/Conscious/Platelet_COX1_Inhibition_T_Cell_Activation_Z-002-0876.md",
+    "01-Literature/L-002-0246_Aspirin_Metastasis_Immune_Mechanism.md",
+    "00-Inbox/Fleeting/Facebook Posts Collection.md",
+    "03-Zettels/Conscious/Aspirin_TXA2_Mechanism_Metastasis_Prevention_Z-002-0875.md",
+    "00-Inbox/Fleeting/INBOX-Article-1-Aspirin-Metastasis.md",
     "01-Literature/L-002-0245_Walking_Mortality_Reduction.md",
     "01-Literature/L-002-0244_Animal_Saturated_Fat_Not_Mortality.md",
     "01-Literature/L-002-0243_High_Fat_Dairy_Dementia.md",
@@ -300,14 +332,6 @@
     "01-Literature/L-002-0230_Five_Risk_Factors_14_Years_NEJM.md",
     "01-Literature/L-002-0229_Calcium_Score_Statin_Benefit.md",
     "01-Literature/L-002-0228_UPF_Death_CVD_Obesity_Diabetes.md",
-    "01-Literature/L-002-0227_Carb_Restriction_CVD_Meta_Analysis.md",
-    "01-Literature/L-002-0226_Coffee_Dementia_Risk.md",
-    "01-Literature/L-002-0225_Lpa_Mechanism_Management.md",
-    "01-Literature/L-002-0224_Metabolism_Heart_Health.md",
-    "01-Literature/L-002-0223_CVD_Risk_Factors_Ranking.md",
-    "01-Literature/L-002-0222_Stopping_Sugar_Carbs_Metabolic_Effects.md",
-    "01-Literature/L-002-0221_Glucose_vs_Insulin_CVD.md",
-    "01-Literature/L-002-0220_Exercise_Minimal_Dose_Mortality.md",
     "02-Literature",
     "00-Inbox/Fleeting/INBOX-Facebook-Collection-All-123.md.backup",
     "00-Inbox/Fleeting/INBOX-Facebook-Collection-All-123.md.tmp",
