@@ -63,16 +63,39 @@ status: audited
 | 43 | CVD risk factor ranking | Cardiovascular |
 | 44 | Metabolism & heart health | Metabolic |
 | 45 | Lipoprotein(a) mechanism | Genetics |
-| 46-90 | [Additional articles in source] | Various |
+| 46 | Coffee reduces dementia risk | Neuroprotection |
+| 47 | Carb restriction CVD meta-analysis | Cardiovascular |
+| 48 | Ultra-processed foods mortality | Public health |
+| 49 | Calcium score statin benefit | Cardiology |
+| 50 | 5 risk factors 14 years NEJM | Longevity |
+| 51 | Low-carb Hashimoto thyroiditis | Autoimmune |
+| 52 | High LDL not mortality healthy | Cholesterol |
+| 53 | Fatigue mitochondrial dysfunction | Energy |
+| 54 | Saturated fat stability health | Lipids |
+| 55 | Low-carb vs low-fat 39 RCTs | Weight loss |
+| 56 | Hong Kong meat longevity | Diet paradox |
+| 57 | Not all calories equal Harvard | Metabolism |
+| 58 | Seed oils traditional fats | Lipids |
+| 59 | Twelve actions better health 2026 | Lifestyle |
 
 ## Processing Status (CORRECTED)
 
-| Batch | Articles | LitNotes | Zettels | Status |
-|-------|----------|----------|---------|--------|
-| 1 | 1-21 | 21 | ~60+ | ✅ COMPLETE (audited, duplicates removed) |
+| Batch | Articles | LitNotes | Zettels | Quality Status |
+|-------|----------|----------|---------|----------------|
+| 1 | 1-2 | 2 | 10 | ✅ ARTICLE 1 STANDARD (verified) |
+| 1b | 3-21 | 19 | ~50 | ⏳ Pending quality audit |
 | 2 | 22-38 | 17 | TBD | ⏳ LitNotes exist, need zettel extraction |
 | 3 | 39-59 | 19 | TBD | ⏳ LitNotes exist, need zettel extraction |
 | **Total** | **59** | **57** | **~60+** | **~500-600 zettels target** |
+
+### Quality Audit Progress
+
+| Article | LitNote | Ref Notes | Zettels | MOC | Status |
+|---------|---------|-----------|---------|-----|--------|
+| 1 (Aspirin) | L-002-0246 | ✅ 2 refs | ✅ 5 zettels | ✅ Created | ✅ Complete |
+| 2 (Vitamin D) | L-002-0168 | ✅ 2 refs | ✅ 5 zettels | ✅ Exists | ✅ Complete |
+| 3-21 | Various | ⏳ Audit needed | ⏳ Audit needed | ⏳ Check | ⏳ Pending |
+| 22-59 | Various | ⏳ Unknown | ⏳ Unknown | ⏳ Unknown | ⏳ Not started |
 
 ## LitNote Quality Status
 
