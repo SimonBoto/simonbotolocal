@@ -66,25 +66,21 @@ High-fat dairy consumption, particularly cheese, is associated with **reduced lo
 
 ---
 
-## Structural Links
-- **Up:** [[MOC-Lipid-Metabolism]] — Thematic domain
-- **Inbox:** [[INBOX-Article-11-Cheese-Dementia]] — Raw origin
+## Connections
+- **MOC:** [[MOC-Lipid-Metabolism]] — Thematic domain
+- **INBOX:** [[INBOX-Article-11-Cheese-Dementia]] — Article source
+- **Reference:** [[Du_2026_HighFat_Dairy_Dementia_25yr_R-002-0031]] — Primary source
 - **Index:** [[01-Literature]] — Container
 
 ---
 
 ## Status
 - [x] LitNote created
-- [x] Zettels created (3 complete)
+- [x] Zettels created (3 zettels: Z-002-0663 to Z-002-0665)
 - [x] All reference notes created
 - [x] In-text citations verified
 - [x] Reference-zettel links functional
-- [x] All structural links verified
-
-## Connections
-- [[MOC-Lipid-Metabolism]]
-- [[INBOX-Article-11-Cheese-Dementia]]
-- [[Du_2026_HighFat_Dairy_Dementia_25yr_R-002-0031]]
+- [x] Source references added to all zettels
 
 ---
 *L-002-0176 | Created: 2026-04-04 | Tier: GOLD*
