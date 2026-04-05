@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Literature/L-002-0213_Lifestyle_Factors_Modifiable.md",
+                "file": "02-References/Hub/Fried_Potatoes_Seed_Oils_Diabetes_R-002-0051.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "L-002-0213_Lifestyle_Factors_Modifiable"
+              "title": "Fried_Potatoes_Seed_Oils_Diabetes_R-002-0051"
             }
           }
         ],
@@ -282,8 +282,16 @@
   },
   "active": "931be2a8dab197cf",
   "lastOpenFiles": [
-    "01-Literature/LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656.md",
+    "01-Literature/L-002-0211_Fried_Potatoes_Seed_Oils_Diabetes.md",
     "02-References/Hub/Twelve_Actions_Better_Health_R-002-0052.md",
+    "01-Literature/L-002-0212_Twelve_Actions_Better_Health.md",
+    "03-Zettels/Conscious/Health_Not_Determined_Genetics_Alone_Z-002-0779.md",
+    "01-Literature/L-002-0213_Lifestyle_Factors_Modifiable.md",
+    "03-Zettels/Conscious/Prevention_Through_Lifestyle_Change_Z-002-0778.md",
+    "03-Zettels/Conscious/Disease_Factors_Lifestyle_Modifiable_Z-002-0777.md",
+    "02-References/Hub/Lifestyle_Factors_Modifiable_R-002-0053.md",
+    "00-Inbox/Fleeting/INBOX-Article-32-Modifiable.md",
+    "01-Literature/LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656.md",
     "00-Inbox/Fleeting/INBOX-Article-31-Twelve-Actions.md",
     "00-Inbox/anchor cgpt conversations to exctract as priority.md",
     "01-Literature/LitNote_CGPT_0505_Vitamin_C_Oxalate_L-101-0047.md",
@@ -300,14 +308,6 @@
     "01-Literature/NKUA_2024_Metabolites_Basic_Biochem_DE2_L-001-0002.md",
     "01-Literature/LitNote_Exploratory_vs_Confirmatory_Research_Design_L-001-0516.md",
     "01-Literature/LitNote_Glucose_Fructose_Aldoses_Ketoses_L-001-0045E.md",
-    "01-Literature/LitNote_Ketogenesis_BHB_Signaling_L-001-0045G.md",
-    "01-Literature/LitNote_Isoprenoids_Cholesterol_Derivatives_L-001-0519.md",
-    "01-Literature/LitNote_Mevalonate_Pathway_Biochemistry_L-001-0518.md",
-    "01-Literature/LitNote_Mitochondrial_Structure_Biology_L-001-0633.md",
-    "01-Literature/LitNote_Mitochondrial_Telomere_Axis_Autoimmunity_L-001-0625.md",
-    "01-Literature/LitNote_Power_Analysis_Metabolomics_L-001-0514.md",
-    "01-Literature/LitNote_Self_Education_Clinical_Team_L-001-0620.md",
-    "01-Literature/LitNote_Sirolimus_Diabetes_NODAT_L-001-0513.md",
     "memory",
     "02-Literature",
     "00-Inbox/Fleeting/INBOX-Facebook-Collection-All-123.md.backup",
