@@ -22,7 +22,7 @@ reference-count: 4
 - **Full citation:** 
   - Veugelers PJ, Ekwaru JP (2014). A Statistical Error in the Estimation of the Recommended Dietary Allowance for Vitamin D. *Nutrients*. 6(10):4472-4475. doi:10.3390/nu6104472
   - Heaney RP et al. (2015). Letter to Veugelers and Ekwaru, "A Statistical Error in the Estimation of the Recommended Dietary Allowance for Vitamin D". *Nutrients*. 7(3):1688-1690. doi:10.3390/nu7031688
-- **Inbox origin:** [[Το-Στατιστικό-Λάθος-βιταμίνης-D]]
+- **Inbox origin:** [[INBOX-Article-2-Vitamin-D]]
 - **Reference notes:** 
   - [[Veugelers_Ekwaru_2014_Vitamin_D_Statistical_Error_R-002-0004]] — Primary statistical error study
   - [[Heaney_2015_Vitamin_D_Requirements_R-002-0005]] — Confirmation and 30 ng/mL analysis

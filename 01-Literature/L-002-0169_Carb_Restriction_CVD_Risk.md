@@ -53,7 +53,7 @@ Low-carbohydrate diets reduce cardiovascular disease risk by improving all compo
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| Zheng_2025_R-002-0035 | Zettel 1, Zettel 2, Zettel 3 | 3 |
+| [[Zheng_2025_LCD_Metabolic_Syndrome_Meta_R-002-0035]] | Z-002-0641, Z-002-0642, Z-002-0643 | 3 |
 
 ---
 
