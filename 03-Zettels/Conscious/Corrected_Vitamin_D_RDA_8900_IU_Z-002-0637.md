@@ -9,6 +9,7 @@ tags: [zettel, vitamin-d, rda, dosage, public-health]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
 source-litnote: "[[L-002-0168_Vitamin_D_RDA_Statistical_Error]]"
+source-reference: "[[Veugelers_Ekwaru_2014_Vitamin_D_Statistical_Error_R-002-0004]]"
 related: []
 ---
 
