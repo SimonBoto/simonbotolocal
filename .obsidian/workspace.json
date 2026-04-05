@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-Structure/System/CGPT_LitNote_Zettel_Map_2026-04-03.md",
+                "file": "00-Inbox/Fleeting/Facebook Posts Collection.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CGPT_LitNote_Zettel_Map_2026-04-03"
+              "title": "Facebook Posts Collection"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -280,34 +280,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4babb119d6d7cb98",
+  "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
-    "03-Zettels/Conscious/Movement_Human_Body_Function_Z-002-0855.md",
-    "03-Zettels/Conscious/Walking_8000_Steps_Mortality_Reduction_Z-002-0853.md",
-    "03-Zettels/Conscious/Physical_Activity_Minimum_Effective_Dose_Z-002-0854.md",
-    "02-Literature/L-002-0245_Walking_Mortality_Reduction.md",
-    "02-Literature/L-002-0244_Animal_Saturated_Fat_Not_Mortality.md",
-    "02-Literature/L-002-0243_High_Fat_Dairy_Dementia.md",
-    "02-Literature/L-002-0242_Obese_Children_Outnumber_Underweight.md",
-    "02-Literature/L-002-0241_Uric_Acid_Fructose_Alcohol.md",
-    "02-Literature/L-002-0240_Lifestyle_Diet_Modifiable_Factors.md",
-    "02-Literature/L-002-0270_Article_90_Complete.md",
-    "02-Literature/L-002-0269_Article_89_Complete.md",
-    "02-Literature/L-002-0268_Article_88_Complete.md",
-    "02-Literature/L-002-0267_Article_87_Complete.md",
-    "02-Literature/L-002-0266_Article_86_Complete.md",
-    "02-Literature/L-002-0265_Article_85_Complete.md",
-    "02-Literature/L-002-0264_Article_84_Complete.md",
-    "02-Literature/L-002-0263_Article_83_Complete.md",
-    "02-Literature/L-002-0262_Article_82_Complete.md",
-    "02-Literature/L-002-0261_Article_81_Complete.md",
-    "02-Literature/L-002-0260_Article_80_Complete.md",
-    "02-Literature/L-002-0259_Article_79_Complete.md",
-    "02-Literature/L-002-0258_Article_78_Complete.md",
-    "02-Literature/L-002-0257_Article_77_Complete.md",
-    "02-Literature/L-002-0256_Article_76_Complete.md",
-    "02-Literature/L-002-0255_Article_75_Complete.md",
-    "02-Literature/L-002-0254_Article_74_Complete.md",
+    "01-Literature/L-002-0245_Walking_Mortality_Reduction.md",
+    "01-Literature/L-002-0244_Animal_Saturated_Fat_Not_Mortality.md",
+    "01-Literature/L-002-0243_High_Fat_Dairy_Dementia.md",
+    "01-Literature/L-002-0242_Obese_Children_Outnumber_Underweight.md",
+    "01-Literature/L-002-0241_Uric_Acid_Fructose_Alcohol.md",
+    "01-Literature/L-002-0240_Lifestyle_Diet_Modifiable_Factors.md",
+    "01-Literature/L-002-0239_Twelve_Actions_Better_Health_2026.md",
+    "01-Literature/L-002-0238_Seed_Oils_Traditional_Fats.md",
+    "01-Literature/L-002-0237_Not_All_Calories_Equal_Harvard.md",
+    "01-Literature/L-002-0236_Hong_Kong_Meat_Longevity.md",
+    "01-Literature/L-002-0235_Low_Carb_vs_Low_Fat_39_RCTs.md",
+    "01-Literature/L-002-0234_Saturated_Fat_Stability_Health.md",
+    "01-Literature/L-002-0233_Fatigue_Mitochondrial_Dysfunction.md",
+    "01-Literature/L-002-0232_High_LDL_Not_Mortality_Healthy.md",
+    "01-Literature/L-002-0231_Low_Carb_Hashimoto_Thyroiditis.md",
+    "01-Literature/L-002-0230_Five_Risk_Factors_14_Years_NEJM.md",
+    "01-Literature/L-002-0229_Calcium_Score_Statin_Benefit.md",
+    "01-Literature/L-002-0228_UPF_Death_CVD_Obesity_Diabetes.md",
+    "01-Literature/L-002-0227_Carb_Restriction_CVD_Meta_Analysis.md",
+    "01-Literature/L-002-0226_Coffee_Dementia_Risk.md",
+    "01-Literature/L-002-0225_Lpa_Mechanism_Management.md",
+    "01-Literature/L-002-0224_Metabolism_Heart_Health.md",
+    "01-Literature/L-002-0223_CVD_Risk_Factors_Ranking.md",
+    "01-Literature/L-002-0222_Stopping_Sugar_Carbs_Metabolic_Effects.md",
+    "01-Literature/L-002-0221_Glucose_vs_Insulin_CVD.md",
+    "01-Literature/L-002-0220_Exercise_Minimal_Dose_Mortality.md",
     "02-Literature",
     "00-Inbox/Fleeting/INBOX-Facebook-Collection-All-123.md.backup",
     "00-Inbox/Fleeting/INBOX-Facebook-Collection-All-123.md.tmp",
