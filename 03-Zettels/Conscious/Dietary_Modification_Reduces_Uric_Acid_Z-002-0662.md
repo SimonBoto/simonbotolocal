@@ -9,6 +9,7 @@ tags: [zettel, dietary-modification, uric-acid, hyperuricemia, gout, fructose, a
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0175_Elevated_Uric_Acid_Fructose_Alcohol]]"
+source-reference: "[[Chi_2024_Fructose_UricAcid_Meta_R-002-0030]]"
 related: []
 ---
 

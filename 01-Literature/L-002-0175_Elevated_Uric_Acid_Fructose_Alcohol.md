@@ -2,22 +2,33 @@
 uid: L-002-0175
 type: lit-note
 title: "Elevated Uric Acid: Fructose, Alcohol & Processed Foods (Chi 2024)"
-source-inbox: "[[Αυξημένο-Ουρικό-Οξύ-Φρουκτόζη]]"
+source-inbox: "[[INBOX-Article-9-Uric-Acid]]"
 authors: "Chi X, Cen Y, Yang B, et al."
 year: "2024"
 journal: "International Journal of Food Sciences and Nutrition"
 doi: "10.1080/09637486.2024.2400489"
+pmid: "39289820"
 tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 extraction-date: "2026-04-04"
+zettel-count: 3
+reference-count: 1
+tags:
+  - lit-note
+  - uric-acid
+  - gout
+  - fructose
+  - alcohol
+  - metabolic-health
+  - chi-2024
 ---
 
 # Lit: Elevated Uric Acid — Fructose, Alcohol & Processed Foods
 
 ## Source
 - **Full citation:** Chi X, Cen Y, Yang B, et al. (2024). Effects of dietary factors on hyperuricaemia and gout: a systematic review and meta-analysis of observational studies. *Int J Food Sci Nutr*. doi:10.1080/09637486.2024.2400489
-- **Inbox origin:** [[Αυξημένο-Ουρικό-Οξύ-Φρουκτόζη]]
+- **Inbox origin:** [[INBOX-Article-9-Uric-Acid]]
 - **Reference note:** [[Chi_2024_Fructose_UricAcid_Meta_R-002-0030]]
 
 ## Core Claim
@@ -51,34 +62,29 @@ High fructose intake significantly increases hyperuricemia and gout risk through
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| Chi_2024_R-002-0030 | Zettel 1, Zettel 2, Zettel 3 | 3 |
-
----
-
-## Snowball References (New Inputs)
-
-| Reference | Why Follow Up | Priority | Status |
-|-----------|---------------|----------|--------|
-| Johnson RJ et al. (uric acid hypothesis) | Mechanism depth | P1 | pending |
-| Other purine metabolism studies | Complete picture | P2 | pending |
-| Coffee/uric acid relationship | Protective factors | P2 | pending |
+| [[Chi_2024_Fructose_UricAcid_Meta_R-002-0030]] | Z-002-0660, Z-002-0661, Z-002-0662 | 3 |
 
 ---
 
 ## Structural Links
 - **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **Inbox:** [[Αυξημένο-Ουρικό-Οξύ-Φρουκτόζη]] — Raw origin
+- **Inbox:** [[INBOX-Article-9-Uric-Acid]] — Raw origin
 - **Index:** [[01-Literature]] — Container
 
 ---
 
 ## Status
 - [x] LitNote created
-- [ ] Zettels created (3 planned)
-- [ ] All reference notes created
-- [ ] In-text citations verified
-- [ ] Reference-zettel links functional
-- [ ] Snowball references queued
+- [x] Zettels created (3 complete)
+- [x] All reference notes created
+- [x] In-text citations verified
+- [x] Reference-zettel links functional
+- [x] All structural links verified
+
+## Connections
+- [[MOC-Metabolic-Syndrome]]
+- [[INBOX-Article-9-Uric-Acid]]
+- [[Chi_2024_Fructose_UricAcid_Meta_R-002-0030]]
 
 ---
 *L-002-0175 | Created: 2026-04-04 | Tier: GOLD*
