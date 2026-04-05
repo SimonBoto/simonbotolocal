@@ -20,9 +20,14 @@ parent-moc: "[[MOC-Cancer-Therapy]]"
 Chen S, Hu T, Zhu K, et al. 16-h fasting optimizes cancer immunotherapy in mice and humans. *Cell Metab*. 2026. doi:10.1016/j.cmet.2026.02.001
 
 ## Source
+- **Primary source:** Cell Metabolism
+- **Citation extracted from:** Facebook Posts Collection, Article 12 (L-002-0181)
 - **Journal:** Cell Metabolism
 - **Date:** February 19, 2026
 - **Study:** Mouse models + human patients
+- **PMID:** 41720105
+- **DOI:** 10.1016/j.cmet.2026.01.014
+- **Status:** Verified PMID, citation from source
 
 ---
 

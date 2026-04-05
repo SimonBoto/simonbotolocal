@@ -19,9 +19,12 @@ parent-moc: "[[MOC-References-Active]]"
 Steffen BT, Jacobs DR Jr, Yi SY, et al. Long-term aspartame and saccharin intakes are related to greater volumes of visceral, intermuscular, and subcutaneous adipose tissue: the CARDIA study. Int J Obes (Lond). 2023;47(11):939-947. doi:10.1038/s41366-023-01336-y
 
 ## Source
+- **Primary source:** International Journal of Obesity
+- **Citation extracted from:** Facebook Posts Collection, Article 20 (L-002-0201)
 - **DOI:** 10.1038/s41366-023-01336-y
 - **PMID:** 37443272
 - **URL:** https://www.nature.com/articles/s41366-023-01336-y
+- **Status:** Verified PMID/DOI, citation from source
 
 ---
 
@@ -56,4 +59,4 @@ Steffen BT, Jacobs DR Jr, Yi SY, et al. Long-term aspartame and saccharin intake
 - **Impact:** Challenges conventional wisdom on artificial sweeteners and weight management
 
 ---
-*R-002-0003 | Added: 2026-04-04 | Tier: SILVER*
+*R-002-0003 | Added: 2026-04-04 | Merged: 2026-04-05 | Tier: GOLD | Status: Verified PMID/DOI, citation from source*
