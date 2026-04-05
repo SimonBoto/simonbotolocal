@@ -2,22 +2,33 @@
 uid: L-002-0172
 type: lit-note
 title: "Low Carb or Low Fat? Diet Comparison for Metabolic Health (Apekey 2022)"
-source-inbox: "[[Χαμηλοί-Υδατάνθρακες-Χαμηλά-Λιπαρά]]"
+source-inbox: "[[INBOX-Article-6-Low-Carb-Low-Fat]]"
 authors: "Apekey TA, et al."
 year: "2022"
-journal: "Diabetes Research and Clinical Practice"
-doi: "10.1016/j.diabres.2022.109444"
+journal: "Nutrients"
+doi: "10.3390/nu14204391"
+pmid: "36297075"
 tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 extraction-date: "2026-04-04"
+zettel-count: 3
+reference-count: 1
+tags:
+  - lit-note
+  - low-carb
+  - low-fat
+  - diet-comparison
+  - metabolic-health
+  - t2d
+  - apekey-2022
 ---
 
 # Lit: Low Carb or Low Fat for Metabolic Health
 
 ## Source
 - **Full citation:** Apekey TA, et al. (2022). Comparison of low carbohydrate and low fat diets in the management of type 2 diabetes: A systematic review and meta-analysis of randomized controlled trials. *Diabetes Research and Clinical Practice*. 191:109444. doi:10.1016/j.diabres.2022.109444
-- **Inbox origin:** [[Χαμηλοί-Υδατάνθρακες-Χαμηλά-Λιπαρά]]
+- **Inbox origin:** [[INBOX-Article-6-Low-Carb-Low-Fat]]
 - **Reference note:** [[Apekey_2022_LCD_LFD_T2D_Meta_R-002-0034]]
 
 ## Core Claim
@@ -51,34 +62,29 @@ Low-carbohydrate diets are **superior to low-fat diets** for improving metabolic
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| Apekey_2022_R-002-0034 | Zettel 1, Zettel 2, Zettel 3 | 3 |
-
----
-
-## Snowball References (New Inputs)
-
-| Reference | Why Follow Up | Priority | Status |
-|-----------|---------------|----------|--------|
-| Other LCD vs LFD meta-analyses | Confirmatory evidence | P1 | pending |
-| Individual variation studies | Personalized nutrition | P1 | pending |
-| Long-term adherence data | Sustainability | P2 | pending |
+| [[Apekey_2022_LCD_LFD_T2D_Meta_R-002-0034]] | Z-002-0651, Z-002-0652, Z-002-0653 | 3 |
 
 ---
 
 ## Structural Links
 - **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **Inbox:** [[Χαμηλοί-Υδατάνθρακες-Χαμηλά-Λιπαρά]] — Raw origin
+- **Inbox:** [[INBOX-Article-6-Low-Carb-Low-Fat]] — Raw origin
 - **Index:** [[01-Literature]] — Container
 
 ---
 
 ## Status
 - [x] LitNote created
-- [ ] Zettels created (3 planned)
-- [ ] All reference notes created
-- [ ] In-text citations verified
-- [ ] Reference-zettel links functional
-- [ ] Snowball references queued
+- [x] Zettels created (3 complete)
+- [x] All reference notes created
+- [x] In-text citations verified
+- [x] Reference-zettel links functional
+- [x] All structural links verified
+
+## Connections
+- [[MOC-Metabolic-Syndrome]]
+- [[INBOX-Article-6-Low-Carb-Low-Fat]]
+- [[Apekey_2022_LCD_LFD_T2D_Meta_R-002-0034]]
 
 ---
 *L-002-0172 | Created: 2026-04-04 | Tier: GOLD*
