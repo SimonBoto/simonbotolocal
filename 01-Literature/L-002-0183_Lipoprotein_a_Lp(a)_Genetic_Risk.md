@@ -1,14 +1,14 @@
 ---
 uid: L-002-0183
 type: lit-note
-title: "Lit — Lipoprotein(a) [Lp(a)]: Genetic Risk Factor and Management Strategies"
+title: "Lipoprotein(a) [Lp(a)]: Genetic Risk Factor and Management Strategies"
 source-inbox: "[[Λιποπρωτεΐνη-Άλφα-Lp(a)-Τι-Είναι]]"
 authors: "(pending primary study identification)"
 year: "(pending)"
 journal: "(pending)"
 doi: "(pending)"
 tier: "GOLD"
-status: extracting
+status: active
 parent-moc: "[[MOC-Cardiovascular-Disease]]"
 extraction-date: "2026-04-04"
 ---

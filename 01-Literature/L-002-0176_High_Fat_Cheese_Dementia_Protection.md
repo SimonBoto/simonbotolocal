@@ -1,14 +1,14 @@
 ---
 uid: L-002-0176
 type: lit-note
-title: "Lit — High-Fat Cheese Linked to Reduced Dementia Risk (Du 2026)"
+title: "High-Fat Cheese Linked to Reduced Dementia Risk (Du 2026)"
 source-inbox: "[[Τυρί-Υψηλών-Λιπαρών-Προστασία-Άνοιας]]"
 authors: "Du Y, Borné Y, Samuelsson J, Glans I, Hu X, Nägga K, et al."
 year: "2026"
 journal: "Neurology"
 doi: "10.1212/WNL.0000000000214343"
 tier: "GOLD"
-status: extracting
+status: active
 parent-moc: "[[MOC-Neurological-Health]]"
 extraction-date: "2026-04-04"
 ---

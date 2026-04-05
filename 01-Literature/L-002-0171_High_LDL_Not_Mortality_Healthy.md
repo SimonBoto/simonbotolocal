@@ -1,14 +1,14 @@
 ---
 uid: L-002-0171
 type: lit-note
-title: "Lit — High LDL Not Linked to Mortality in Healthy People (Kip 2024)"
+title: "High LDL Not Linked to Mortality in Healthy People (Kip 2024)"
 source-inbox: "[[Υψηλά-LDL-Χωρίς-CVD]]"
 authors: "Kip KE, Diamond D, Mulukutla S, Marroquin OC"
 year: "2024"
 journal: "BMJ Open"
 doi: "10.1136/bmjopen-2023-077949"
 tier: "GOLD"
-status: extracting
+status: active
 parent-moc: "[[MOC-Cardiovascular-Disease]]"
 extraction-date: "2026-04-04"
 ---

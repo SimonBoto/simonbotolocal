@@ -1,14 +1,14 @@
 ---
 uid: L-002-0179
 type: lit-note
-title: "Lit — Childhood Obesity Now Exceeds Undernutrition Globally (Kavanagh 2026)"
+title: "Childhood Obesity Now Exceeds Undernutrition Globally (Kavanagh 2026)"
 source-inbox: "[[Παχυσαρκία-Παιδιών-Υπερσιτισμός]]"
 authors: "Kavanagh ME, Chen ZH, Tamana SK, et al."
 year: "2026"
 journal: "(pending full details)"
 doi: "(pending)"
 tier: "GOLD"
-status: extracting
+status: active
 parent-moc: "[[MOC-Pediatric-Health]]"
 extraction-date: "2026-04-04"
 ---

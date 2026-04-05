@@ -1,14 +1,14 @@
 ---
 uid: L-002-0173
 type: lit-note
-title: "Lit — Fried Potatoes in Seed Oils Increase T2D Risk by 20% (Mousavi 2025)"
+title: "Fried Potatoes in Seed Oils Increase T2D Risk by 20% (Mousavi 2025)"
 source-inbox: "[[Τηγανητές-Πατάτες-Σπορέλαιο-Διαβήτης]]"
 authors: "Mousavi SM, et al."
 year: "2025"
 journal: "BMJ"
 doi: "10.1136/bmj-2024-080245"
 tier: "GOLD"
-status: extracting
+status: active
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 extraction-date: "2026-04-04"
 ---

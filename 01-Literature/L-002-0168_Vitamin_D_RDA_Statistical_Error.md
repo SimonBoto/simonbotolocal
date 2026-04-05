@@ -1,16 +1,19 @@
 ---
 uid: L-002-0168
 type: lit-note
-title: "Lit — Vitamin D RDA Statistical Error (Veugelers 2014, Heaney 2015)"
+title: "Vitamin D RDA Statistical Error (Veugelers 2014, Heaney 2015)"
+aliases: ["L-002-0168", "Vitamin-D-RDA-Error"]
 source-inbox: "[[Το-Στατιστικό-Λάθος-βιταμίνης-D]]"
 authors: "Veugelers PJ, Ekwaru JP; Heaney RP et al."
 year: "2014, 2015"
 journal: "Nutrients"
 doi: "10.3390/nu6104472; 10.3390/nu7031688"
 tier: "GOLD"
-status: extracting
+status: active
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
 extraction-date: "2026-04-04"
+zettel-count: 5
+reference-count: 4
 ---
 
 # Lit: Vitamin D RDA Statistical Error
@@ -26,6 +29,15 @@ extraction-date: "2026-04-04"
 
 ## Core Claim
 The Institute of Medicine's 2011 RDA of 600 IU/day for vitamin D was based on a statistical error (using mean instead of 97.5th percentile), leading to an underestimate of actual population needs by approximately 15-fold (~8,900 IU/day required for 97.5% coverage).
+
+## Summary Table
+
+| Aspect | IOM 2011 | Corrected |
+|--------|----------|-----------|
+| **RDA** | 600 IU/day | ~8,900 IU/day |
+| **Statistical method** | Mean | 97.5th percentile |
+| **Population coverage** | Inadequate | 97.5% reach 20 ng/mL |
+| **Error magnitude** | — | 15× underestimate |
 
 ---
 

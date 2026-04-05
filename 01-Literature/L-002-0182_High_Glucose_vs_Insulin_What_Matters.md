@@ -1,14 +1,14 @@
 ---
 uid: L-002-0182
 type: lit-note
-title: "Lit — High Glucose vs High Insulin: Insulin Matters More for CVD (Zhao 2019)"
+title: "High Glucose vs High Insulin: Insulin Matters More for CVD (Zhao 2019)"
 source-inbox: "[[Υψηλή-Γλυκόζη-Ινσουλίνη-Σημασία]]"
 authors: "Zhao Y, et al."
 year: "2019"
 journal: "(pending full details)"
 doi: "(pending)"
 tier: "GOLD"
-status: extracting
+status: active
 parent-moc: "[[MOC-Insulin-Signaling]]"
 extraction-date: "2026-04-04"
 ---

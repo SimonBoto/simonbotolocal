@@ -1,14 +1,14 @@
 ---
 uid: L-002-0178
 type: lit-note
-title: "Lit — Lifestyle and Diet as Primary Disease Determinants (NEJM 2025)"
+title: "Lifestyle and Diet as Primary Disease Determinants (NEJM 2025)"
 source-inbox: "[[Παράγοντες-Νόσου-Τρόπος-Ζωής-Διατροφή]]"
 authors: "Global Burden of Disease Collaborators"
 year: "2025"
 journal: "New England Journal of Medicine"
 doi: "(pending full DOI)"
 tier: "GOLD"
-status: extracting
+status: active
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 extraction-date: "2026-04-04"
 ---

@@ -1,14 +1,14 @@
 ---
 uid: L-002-0172
 type: lit-note
-title: "Lit — Low Carb or Low Fat? Diet Comparison for Metabolic Health (Apekey 2022)"
+title: "Low Carb or Low Fat? Diet Comparison for Metabolic Health (Apekey 2022)"
 source-inbox: "[[Χαμηλοί-Υδατάνθρακες-Χαμηλά-Λιπαρά]]"
 authors: "Apekey TA, et al."
 year: "2022"
 journal: "Diabetes Research and Clinical Practice"
 doi: "10.1016/j.diabres.2022.109444"
 tier: "GOLD"
-status: extracting
+status: active
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 extraction-date: "2026-04-04"
 ---

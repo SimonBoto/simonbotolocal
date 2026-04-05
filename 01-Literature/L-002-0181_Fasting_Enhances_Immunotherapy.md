@@ -1,14 +1,14 @@
 ---
 uid: L-002-0181
 type: lit-note
-title: "Lit — Fasting Enhances Immunotherapy Effectiveness in Cancer Patients"
+title: "Fasting Enhances Immunotherapy Effectiveness in Cancer Patients"
 source-inbox: "[[Νηστεία-Ανοσοθεραπεία-Καρκίνος]]"
 authors: "(pending primary study — Cell Metabolism 2026)"
 year: "2026"
 journal: "Cell Metabolism"
 doi: "(pending)"
 tier: "GOLD"
-status: extracting
+status: active
 parent-moc: "[[MOC-Cancer-Metabolism]]"
 extraction-date: "2026-04-04"
 ---

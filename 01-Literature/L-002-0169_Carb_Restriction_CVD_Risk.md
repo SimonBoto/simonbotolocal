@@ -1,14 +1,14 @@
 ---
 uid: L-002-0169
 type: lit-note
-title: "Lit — Carbohydrate Restriction Reduces CVD Risk (Zheng 2025)"
+title: "Carbohydrate Restriction Reduces CVD Risk (Zheng 2025)"
 source-inbox: "[[Περιορισμός-Υδατανθράκων-CVD]]"
 authors: "Zheng Q, Gao X, Ruan X, et al."
 year: "2025"
 journal: "International Journal of Obesity (Nature)"
 doi: "10.1038/s41366-025-01822-5"
 tier: "GOLD"
-status: extracting
+status: active
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 extraction-date: "2026-04-04"
 ---

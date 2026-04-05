@@ -1,14 +1,14 @@
 ---
 uid: L-002-0180
 type: lit-note
-title: "Lit — Personalized Nutrition Halves Heart Attack Risk in CVD Patients"
+title: "Personalized Nutrition Halves Heart Attack Risk in CVD Patients"
 source-inbox: "[[Εξατομικευμένη-Διατροφή-Έμφραγμα]]"
 authors: "(pending primary study identification)"
 year: "(pending)"
 journal: "(pending)"
 doi: "(pending)"
 tier: "GOLD"
-status: extracting
+status: active
 parent-moc: "[[MOC-Personalized-Nutrition]]"
 extraction-date: "2026-04-04"
 ---

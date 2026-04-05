@@ -1,14 +1,14 @@
 ---
 uid: L-002-0174
 type: lit-note
-title: "Lit — 15-20 Min Exercise Weekly Reduces Mortality 16-40% (Polo-López 2024)"
+title: "15-20 Min Exercise Weekly Reduces Mortality 16-40% (Polo-López 2024)"
 source-inbox: "[[Ακόμη-15-20-Λεπτά-Άσκησης]]"
 authors: "Polo-López A, et al."
 year: "2024"
 journal: "Progress in Cardiovascular Diseases"
 doi: "(pending full DOI)"
 tier: "GOLD"
-status: extracting
+status: active
 parent-moc: "[[MOC-Physical-Activity]]"
 extraction-date: "2026-04-04"
 ---

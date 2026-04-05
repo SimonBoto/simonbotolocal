@@ -1,14 +1,14 @@
 ---
 uid: L-002-0175
 type: lit-note
-title: "Lit — Elevated Uric Acid: Fructose, Alcohol & Processed Foods (Chi 2024)"
+title: "Elevated Uric Acid: Fructose, Alcohol & Processed Foods (Chi 2024)"
 source-inbox: "[[Αυξημένο-Ουρικό-Οξύ-Φρουκτόζη]]"
 authors: "Chi X, Cen Y, Yang B, et al."
 year: "2024"
 journal: "International Journal of Food Sciences and Nutrition"
 doi: "10.1080/09637486.2024.2400489"
 tier: "GOLD"
-status: extracting
+status: active
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 extraction-date: "2026-04-04"
 ---

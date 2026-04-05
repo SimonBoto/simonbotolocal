@@ -1,13 +1,27 @@
 ---
 uid: L-002-0246
 type: lit-note
-title: "Aspirin Reduces Cancer Metastasis via Platelet TXA2-T-Cell Mechanism"
-aliases: ["L-002-0246", "Article-1-Aspirin-Metastasis"]
-domain: 002
+title: Aspirin Reduces Cancer Metastasis via Platelet TXA2-T-Cell Mechanism
+aliases:
+  - L-002-0246
+  - Article-1-Aspirin-Metastasis
+domain: 2
 status: extracted
-tags: [litnote, aspirin, cancer, metastasis, immunology, platelets, TXA2, COX-1, T-cells, nature-2025, nejm-2025, facebook-collection]
+tags:
+  - litnote
+  - aspirin
+  - cancer
+  - metastasis
+  - immunology
+  - platelets
+  - TXA2
+  - COX-1
+  - T-cells
+  - nature-2025
+  - nejm-2025
+  - facebook-collection
 parent-index: "[[01-Literature]]"
-parent-moc: "[[MOC-Cancer-Immunology]]"
+parent-moc: "[[MOC-Cancer-Immunology|MOC-Cancer-Immunology]]"
 source-inbox: "[[INBOX-Article-1-Aspirin-Metastasis]]"
 extraction-date: 2026-04-05
 reference-count: 2
