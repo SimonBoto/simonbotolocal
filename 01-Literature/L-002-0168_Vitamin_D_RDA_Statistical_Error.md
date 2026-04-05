@@ -8,6 +8,7 @@ authors: "Veugelers PJ, Ekwaru JP; Heaney RP et al."
 year: "2014, 2015"
 journal: "Nutrients"
 doi: "10.3390/nu6104472; 10.3390/nu7031688"
+pmid: "25333201; 25763527"
 tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"

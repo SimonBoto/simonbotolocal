@@ -26,6 +26,7 @@ source-inbox: "[[INBOX-Article-1-Aspirin-Metastasis]]"
 extraction-date: 2026-04-05
 reference-count: 2
 zettel-count: 5
+pmid: "40044852"
 ---
 
 # Lit: Aspirin Reduces Cancer Metastasis via Immune Mechanism
