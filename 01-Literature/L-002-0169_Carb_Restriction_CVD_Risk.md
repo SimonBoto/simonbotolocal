@@ -2,7 +2,7 @@
 uid: L-002-0169
 type: lit-note
 title: "Carbohydrate Restriction Reduces CVD Risk (Zheng 2025)"
-source-inbox: "[[Περιορισμός-Υδατανθράκων-CVD]]"
+source-inbox: "[[INBOX-Article-3-Carb-Restriction]]"
 authors: "Zheng Q, Gao X, Ruan X, et al."
 year: "2025"
 journal: "International Journal of Obesity (Nature)"
@@ -11,13 +11,15 @@ tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 extraction-date: "2026-04-04"
+zettel-count: 3
+reference-count: 1
 ---
 
 # Lit: Carbohydrate Restriction Reduces CVD Risk
 
 ## Source
 - **Full citation:** Zheng Q, Gao X, Ruan X, et al. (2025). Are low carbohydrate diet interventions beneficial for metabolic syndrome and its components? A systematic review and meta-analysis of randomized controlled trials. *International Journal of Obesity*. doi:10.1038/s41366-025-01822-5
-- **Inbox origin:** [[Περιορισμός-Υδατανθράκων-CVD]]
+- **Inbox origin:** [[INBOX-Article-3-Carb-Restriction]]
 - **Reference note:** [[Zheng_2025_LCD_Metabolic_Syndrome_Meta_R-002-0035]]
 
 ## Core Claim
@@ -55,30 +57,25 @@ Low-carbohydrate diets reduce cardiovascular disease risk by improving all compo
 
 ---
 
-## Snowball References (New Inputs)
-
-| Reference | Why Follow Up | Priority | Status |
-|-----------|---------------|----------|--------|
-| Tian W et al. Front Nutr 2025 (glucose/lipid meta-analysis) | Specific mechanisms | P1 | pending |
-| Khodarahmi M et al. Food Sci Nutr 2025 (CRP meta-analysis) | Inflammation reduction | P1 | pending |
-| Ichikawa T et al. J Diabetes Invest 2024 (long-term LCD) | Sustainability data | P2 | pending |
-
----
-
 ## Structural Links
 - **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **Inbox:** [[Περιορισμός-Υδατανθράκων-CVD]] — Raw origin
+- **Inbox:** [[INBOX-Article-3-Carb-Restriction]] — Raw origin
 - **Index:** [[01-Literature]] — Container
 
 ---
 
 ## Status
 - [x] LitNote created
-- [ ] Zettels created (3 planned)
-- [ ] All reference notes created
-- [ ] In-text citations verified
-- [ ] Reference-zettel links functional
-- [ ] Snowball references queued
+- [x] Zettels created (3 complete)
+- [x] All reference notes created
+- [x] In-text citations verified
+- [x] Reference-zettel links functional
+- [x] All structural links verified
+
+## Connections
+- [[MOC-Metabolic-Syndrome]]
+- [[INBOX-Article-3-Carb-Restriction]]
+- [[Zheng_2025_LCD_Metabolic_Syndrome_Meta_R-002-0035]]
 
 ---
 *L-002-0169 | Created: 2026-04-04 | Tier: GOLD*

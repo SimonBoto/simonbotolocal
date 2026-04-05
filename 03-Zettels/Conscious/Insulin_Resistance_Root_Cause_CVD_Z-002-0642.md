@@ -9,6 +9,7 @@ tags: [zettel, insulin-resistance, cardiovascular-disease, root-cause, metabolic
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0169_Carb_Restriction_CVD_Risk]]"
+source-reference: "[[Zheng_2025_LCD_Metabolic_Syndrome_Meta_R-002-0035]]"
 related: []
 ---
 
