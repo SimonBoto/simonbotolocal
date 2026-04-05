@@ -3,7 +3,7 @@ uid: L-002-0168
 type: lit-note
 title: "Vitamin D RDA Statistical Error (Veugelers 2014, Heaney 2015)"
 aliases: ["L-002-0168", "Vitamin-D-RDA-Error"]
-source-inbox: "[[INBOX-Facebook-Collection]]"
+source-inbox: "[[INBOX-Article-2-Vitamin-D]]"
 authors: "Veugelers PJ, Ekwaru JP; Heaney RP et al."
 year: "2014, 2015"
 journal: "Nutrients"
@@ -86,13 +86,9 @@ The Institute of Medicine's 2011 RDA of 600 IU/day for vitamin D was based on a 
 
 ---
 
-## Snowball References (New Inputs)
-
----
-
 ## Structural Links
 - **Up:** [[MOC-Vitamin-Mineral-Axis]] — Thematic domain
-- **Inbox:** [[INBOX-Facebook-Collection]] — Raw origin (Article 2)
+- **Inbox:** [[INBOX-Article-2-Vitamin-D]] — Raw origin
 - **Index:** [[01-Literature]] — Container
 
 ---
@@ -107,7 +103,7 @@ The Institute of Medicine's 2011 RDA of 600 IU/day for vitamin D was based on a 
 
 ## Connections
 - [[MOC-Vitamin-Mineral-Axis]]
-- [[INBOX-Facebook-Collection]]
+- [[INBOX-Article-2-Vitamin-D]]
 - [[Veugelers_Ekwaru_2014_Vitamin_D_Statistical_Error_R-002-0004]]
 - [[Heaney_2015_Vitamin_D_Requirements_R-002-0005]]
 
