@@ -11,7 +11,7 @@ pmid: "41378999"
 url: "https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaf937/8377304"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Cardiovascular-Disease]]"
+parent-moc: "[[MOC-Inflammation]]"
 ---
 
 # Kurt et al. 2025 — CRP and Cardiovascular Risk
