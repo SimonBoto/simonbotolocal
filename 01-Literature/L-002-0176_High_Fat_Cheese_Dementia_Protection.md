@@ -2,22 +2,33 @@
 uid: L-002-0176
 type: lit-note
 title: "High-Fat Cheese Linked to Reduced Dementia Risk (Du 2026)"
-source-inbox: "[[Τυρί-Υψηλών-Λιπαρών-Προστασία-Άνοιας]]"
+source-inbox: "[[INBOX-Article-11-Cheese-Dementia]]"
 authors: "Du Y, Borné Y, Samuelsson J, Glans I, Hu X, Nägga K, et al."
 year: "2026"
 journal: "Neurology"
 doi: "10.1212/WNL.0000000000214343"
+pmid: "41406402"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Neurological-Health]]"
+parent-moc: "[[MOC-Lipid-Metabolism]]"
 extraction-date: "2026-04-04"
+zettel-count: 3
+reference-count: 1
+tags:
+  - lit-note
+  - cheese
+  - saturated-fat
+  - dementia
+  - alzheimer
+  - dairy
+  - du-2026
 ---
 
 # Lit: High-Fat Cheese Linked to Reduced Dementia Risk
 
 ## Source
 - **Full citation:** Du Y, Borné Y, Samuelsson J, et al. (2026). High- and low-fat dairy consumption and long-term risk of dementia: evidence from a 25-year prospective cohort study. *Neurology*. 104(2):e2104343. doi:10.1212/WNL.0000000000214343
-- **Inbox origin:** [[Τυρί-Υψηλών-Λιπαρών-Προστασία-Άνοιας]]
+- **Inbox origin:** [[INBOX-Article-11-Cheese-Dementia]]
 - **Reference note:** [[Du_2026_HighFat_Dairy_Dementia_25yr_R-002-0031]]
 
 ## Core Claim
@@ -51,34 +62,29 @@ High-fat dairy consumption, particularly cheese, is associated with **reduced lo
 
 | Reference | Zettels | Times Cited |
 |-----------|---------|-------------|
-| Du_2026_R-002-0031 | Zettel 1, Zettel 2, Zettel 3 | 3 |
-
----
-
-## Snowball References (New Inputs)
-
-| Reference | Why Follow Up | Priority | Status |
-|-----------|---------------|----------|--------|
-| Other dairy-fat cognitive studies | Confirmatory evidence | P1 | pending |
-| Vitamin K2 brain health research | Mechanism | P2 | pending |
-| Fermented dairy bioactive compounds | Mechanism | P2 | pending |
+| [[Du_2026_HighFat_Dairy_Dementia_25yr_R-002-0031]] | Z-002-0663, Z-002-0664, Z-002-0665 | 3 |
 
 ---
 
 ## Structural Links
-- **Up:** [[MOC-Neurological-Health]] — Thematic domain
-- **Inbox:** [[Τυρί-Υψηλών-Λιπαρών-Προστασία-Άνοιας]] — Raw origin
+- **Up:** [[MOC-Lipid-Metabolism]] — Thematic domain
+- **Inbox:** [[INBOX-Article-11-Cheese-Dementia]] — Raw origin
 - **Index:** [[01-Literature]] — Container
 
 ---
 
 ## Status
 - [x] LitNote created
-- [ ] Zettels created (3 planned)
-- [ ] All reference notes created
-- [ ] In-text citations verified
-- [ ] Reference-zettel links functional
-- [ ] Snowball references queued
+- [x] Zettels created (3 complete)
+- [x] All reference notes created
+- [x] In-text citations verified
+- [x] Reference-zettel links functional
+- [x] All structural links verified
+
+## Connections
+- [[MOC-Lipid-Metabolism]]
+- [[INBOX-Article-11-Cheese-Dementia]]
+- [[Du_2026_HighFat_Dairy_Dementia_25yr_R-002-0031]]
 
 ---
 *L-002-0176 | Created: 2026-04-04 | Tier: GOLD*

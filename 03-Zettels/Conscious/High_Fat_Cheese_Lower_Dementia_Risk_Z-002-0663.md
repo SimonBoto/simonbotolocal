@@ -9,6 +9,7 @@ tags: [zettel, high-fat-cheese, dementia, saturated-fat, dairy, neurological-hea
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Neurological-Health]]"
 source-litnote: "[[L-002-0176_High_Fat_Cheese_Dementia_Protection]]"
+source-reference: "[[Du_2026_HighFat_Dairy_Dementia_25yr_R-002-0031]]"
 related: []
 ---
 
