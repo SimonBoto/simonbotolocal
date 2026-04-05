@@ -10,7 +10,7 @@ doi: "10.1016/j.pcad.2024.04.001"
 url: "https://www.sciencedirect.com/science/article/pii/S0033062024001282"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Metabolic-Syndrome]]"
+parent-moc: "[[MOC-Clinical-Protocols]]"
 ---
 
 # Polo-López et al. 2024 — Minimal Exercise Dose for Mortality Reduction

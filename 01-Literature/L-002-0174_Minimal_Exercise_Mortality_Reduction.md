@@ -2,22 +2,32 @@
 uid: L-002-0174
 type: lit-note
 title: "15-20 Min Exercise Weekly Reduces Mortality 16-40% (Polo-López 2024)"
-source-inbox: "[[Ακόμη-15-20-Λεπτά-Άσκησης]]"
-authors: "Polo-López A, et al."
+source-inbox: "[[INBOX-Article-16-Minimal-Exercise]]"
+authors: "Polo-López A, Calatayud J, López-Bueno L, et al."
 year: "2024"
 journal: "Progress in Cardiovascular Diseases"
-doi: "(pending full DOI)"
+doi: "10.1016/j.pcad.2024.04.001"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Physical-Activity]]"
+parent-moc: "[[MOC-Clinical-Protocols]]"
 extraction-date: "2026-04-04"
+zettel-count: 3
+reference-count: 1
+tags:
+  - lit-note
+  - exercise
+  - physical-activity
+  - mortality
+  - dose-response
+  - minimal-dose
+  - polo-lopez-2024
 ---
 
 # Lit: Minimal Exercise Dose for Mortality Reduction
 
 ## Source
-- **Full citation:** Polo-López A, et al. (2024). Minimal physical activity and mortality risk. *Progress in Cardiovascular Diseases*. (DOI pending)
-- **Inbox origin:** [[Ακόμη-15-20-Λεπτά-Άσκησης]]
+- **Full citation:** Polo-López A, Calatayud J, López-Bueno L, et al. "Dose-response association of accelerometer-measured physical activity with all-cause mortality and cardiovascular disease incidence: Prospective cohort study." *Prog Cardiovasc Dis*. 2024. doi:10.1016/j.pcad.2024.04.001
+- **Inbox origin:** [[INBOX-Article-16-Minimal-Exercise]]
 - **Reference note:** [[PoloLopez_2024_Minimal_Exercise_Mortality_R-002-0032]]
 
 ## Core Claim
@@ -55,30 +65,23 @@ Even **15-20 minutes of vigorous exercise per week** is associated with **16-40%
 
 ---
 
-## Snowball References (New Inputs)
-
-| Reference | Why Follow Up | Priority | Status |
-|-----------|---------------|----------|--------|
-| Ahmadi MN et al. European Heart Journal 2022 | Confirmatory evidence | P1 | pending |
-| Other minimal dose exercise studies | Dose optimization | P1 | pending |
-| HIIT vs moderate intensity comparisons | Efficiency data | P2 | pending |
-
 ---
 
-## Structural Links
-- **Up:** [[MOC-Physical-Activity]] — Thematic domain
-- **Inbox:** [[Ακόμη-15-20-Λεπτά-Άσκησης]] — Raw origin
+## Connections
+- **MOC:** [[MOC-Clinical-Protocols]] — Thematic domain
+- **INBOX:** [[INBOX-Article-16-Minimal-Exercise]] — Article source
+- **Reference:** [[PoloLopez_2024_Minimal_Exercise_Mortality_R-002-0032]] — Primary source
 - **Index:** [[01-Literature]] — Container
 
 ---
 
 ## Status
 - [x] LitNote created
-- [ ] Zettels created (3 planned)
-- [ ] All reference notes created
-- [ ] In-text citations verified
-- [ ] Reference-zettel links functional
-- [ ] Snowball references queued
+- [x] Zettels created (3 zettels: Z-002-0657 to Z-002-0659)
+- [x] All reference notes created
+- [x] In-text citations verified
+- [x] Reference-zettel links functional
+- [x] Source references added to all zettels
 
 ---
 *L-002-0174 | Created: 2026-04-04 | Tier: GOLD*

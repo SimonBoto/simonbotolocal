@@ -7,8 +7,9 @@ domain: 002
 status: conscious
 tags: [zettel, vigorous-exercise, moderate-exercise, efficiency, time, intensity, mortality]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Physical-Activity]]"
+parent-moc: "[[MOC-Clinical-Protocols]]"
 source-litnote: "[[L-002-0174_Minimal_Exercise_Mortality_Reduction]]"
+source-reference: "[[PoloLopez_2024_Minimal_Exercise_Mortality_R-002-0032]]"
 related: []
 ---
 
