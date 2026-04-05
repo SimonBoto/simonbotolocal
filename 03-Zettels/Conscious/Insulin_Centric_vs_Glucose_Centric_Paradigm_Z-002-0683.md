@@ -9,6 +9,7 @@ tags: [zettel, insulin-centric, glucose-centric, paradigm, diabetes, treatment, 
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Insulin-Signaling]]"
 source-litnote: "[[L-002-0182_High_Glucose_vs_Insulin_What_Matters]]"
+source-reference: "[[Zhao_2019_Insulin_CVD_Mortality_R-002-0026]]"
 related: []
 ---
 

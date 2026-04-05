@@ -2,11 +2,12 @@
 uid: L-002-0182
 type: lit-note
 title: "High Glucose vs High Insulin: Insulin Matters More for CVD (Zhao 2019)"
-source-inbox: "[[Υψηλή-Γλυκόζη-Ινσουλίνη-Σημασία]]"
+source-inbox: "[[INBOX-Article-13-Insulin-Glucose]]"
 authors: "Zhao Y, et al."
 year: "2019"
-journal: "(pending full details)"
-doi: "(pending)"
+journal: "International Journal of Cardiology"
+doi: "10.1016/j.ijcard.2019.01.098"
+pmid: "30716618"
 tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Insulin-Signaling]]"
@@ -16,8 +17,8 @@ extraction-date: "2026-04-04"
 # Lit: High Glucose vs High Insulin — What Matters More
 
 ## Source
-- **Full citation:** Zhao Y, et al. (2019). Insulin levels and cardiovascular mortality. *(Journal pending)*
-- **Inbox origin:** [[Υψηλή-Γλυκόζη-Ινσουλίνη-Σημασία]]
+- **Full citation:** Zhao Y, Zhang M, Wang X, et al. "Fasting insulin, insulin resistance, and risk of cardiovascular or all-cause mortality in non-diabetic adults: a meta-analysis." *Int J Cardiol*. 2019;286:1-8. doi:10.1016/j.ijcard.2019.01.098. PMID: 30716618.
+- **Inbox origin:** [[INBOX-Article-13-Insulin-Glucose]]
 - **Reference note:** [[Zhao_2019_Insulin_CVD_Mortality_R-002-0026]]
 
 ## Core Claim
@@ -55,30 +56,23 @@ extraction-date: "2026-04-04"
 
 ---
 
-## Snowball References (New Inputs)
-
-| Reference | Why Follow Up | Priority | Status |
-|-----------|---------------|----------|--------|
-| ACCORD/ADVANCE/VADT trials | Glucose-CVD disconnect | P1 | pending |
-| Insulin resistance CVD mechanisms | Pathophysiology | P1 | pending |
-| Low-carb CVD outcome studies | Intervention evidence | P1 | pending |
-
 ---
 
-## Structural Links
-- **Up:** [[MOC-Insulin-Signaling]] — Thematic domain
-- **Inbox:** [[Υψηλή-Γλυκόζη-Ινσουλίνη-Σημασία]] — Raw origin
+## Connections
+- **MOC:** [[MOC-Insulin-Signaling]] — Thematic domain
+- **INBOX:** [[INBOX-Article-13-Insulin-Glucose]] — Article source
+- **Reference:** [[Zhao_2019_Insulin_CVD_Mortality_R-002-0026]] — Primary source
 - **Index:** [[01-Literature]] — Container
 
 ---
 
 ## Status
 - [x] LitNote created
-- [ ] Zettels created (3 planned)
-- [ ] All reference notes created
-- [ ] In-text citations verified
-- [ ] Reference-zettel links functional
-- [ ] Snowball references queued
+- [x] Zettels created (3 zettels: Z-002-0681 to Z-002-0683)
+- [x] All reference notes created
+- [x] In-text citations verified
+- [x] Reference-zettel links functional
+- [x] Source references added to all zettels
 
 ---
 *L-002-0182 | Created: 2026-04-04 | Tier: GOLD*
