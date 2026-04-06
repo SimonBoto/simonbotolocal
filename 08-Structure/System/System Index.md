@@ -5,6 +5,7 @@ title: "System Index"
 date: 2026-04-06
 tags: [index, system, infrastructure]
 parent-moc: [[08 Structure Index]]
+parent-index: [[08 Structure Index]]
 ---
 
 # System Index
