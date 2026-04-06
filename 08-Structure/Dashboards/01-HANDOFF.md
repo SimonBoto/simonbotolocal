@@ -1,6 +1,7 @@
 ---
+uid: HANDOFF-2026-04-06
 date: 2026-04-06
-type: handoff
+type: handoff-dashboard
 status: active
 ---
 

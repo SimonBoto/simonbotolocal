@@ -1,12 +1,16 @@
 ---
-uid: pre-flight-v1.1
+uid: SYS-001-0001
 type: system
 title: "RON Pre-Flight Card — 30-Second Checklist"
 aliases: [Pre_Flight_Card, PreFlight, Quick_Check]
-domain: system
-tags: [checklist, quick-reference]
-parent-moc: 
+domain: 001
+domain-name: System
+tags: [checklist, quick-reference, system]
+parent-moc: [[System Index]]
+parent-index: [[08 Structure Index]]
 status: active
+created: 2026-02-23
+updated: 2026-04-06
 ---
 
 # 🚀 RON Pre-Flight Card (30 Seconds)
@@ -32,8 +36,8 @@ echo "Zettels:"; ls 03-Zettels/Conscious/*.md | grep -oE "Z-[0-9]+-[0-9]+" | sor
 ## ☐ 2. Load Templates + Classify Tier (10 sec)
 
 **Read before creating files:**
-- [ ] `06-Structure/Templates/Template_LitNote_v1.0.md`
-- [ ] `06-Structure/Templates/Template_Zettel_v1.0.md`
+- [ ] `08-Structure/Templates/Template_LitNote_v2.0.md`
+- [ ] `08-Structure/Templates/Template_Zettel_v2.0.md`
 
 **Classify this extraction:**
 - [ ] **GOLD:** Deep, 3-4 atomics, high value
@@ -56,11 +60,11 @@ grep -nE "\[\*\[|\[\][^\]*\]\]" your_file.md
 ```
 
 **Forbidden patterns:**
-- `[[Name_Z-001-0001]` → Use `[[Name_Z-001-0011]`
+- `[[Name_Z-001-0001]` → Use `[[Name_Z-001-0011]]`
 
 **Quick context check:**
-- [ ] Review [[PERMANENT_QUESTIONS.md] — any matches?
-- [ ] Check [[SYNTHESIS_TRIGGERS.md] — pushing toward critical mass?
+- [ ] Review [[PERMANENT_QUESTIONS]] — any matches?
+- [ ] Check [[SYNTHESIS_TRIGGERS]] — pushing toward critical mass?
 
 ---
 
@@ -71,7 +75,7 @@ grep -nE "\[\*\[|\[\][^\]*\]\]" your_file.md
 | Duplicate UID | Always check Step 1 |
 | `type: litnote` (no hyphen) | Copy template exactly |
 | Missing tier classification | Step 2 — GOLD/SILVER/BRONZE |
-| Malformed `]` | Search/replace `[` and `]` in filenames before linking |
+| Malformed `]]` | Search/replace `[` and `]` in filenames before linking |
 | Status: processing left | Change to `complete` before commit |
 | Forgot synthesis check | Step 3 — check triggers |
 
@@ -112,6 +116,4 @@ git add -A && git commit -m "checkpoint: batch N complete"
 
 *Pre-flight prevents crash-landing*  
 *Created: 2026-02-23*  
-*Updated: 2026-04-01 — Added GOLD/SILVER/BRONZE tiers, synthesis triggers, permanent questions*
----
-parent-index: [[08 Structure Index]], [[System Index]]
+*Updated: 2026-04-06 — Aligned with workspace standards*

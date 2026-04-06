@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/ChatGPT/metabolomics/CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520.md",
+                "file": "03-Zettels/Conscious/03-Zettels-Subconscious.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520"
+              "title": "03-Zettels-Subconscious"
             }
           }
         ],
@@ -304,8 +304,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "64120ee807f0bd00",
+  "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "03-Zettels/Conscious/Pyridine_Ring_Biosynthesis_Z-001-0630.md",
+    "03-Zettels/Conscious/Pyrrolidine_Ring_Biosynthesis_Z-001-0629.md",
+    "03-Zettels/Conscious/Nicotine_Two_Ring_Structure_Z-001-0615A.md",
+    "03-Zettels/Conscious/Tiered_Supplement_Prescribing_Hierarchy_Z-001-1034.md",
+    "03-Zettels/Conscious/BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483.md",
+    "03-Zettels/Conscious/B12_Requirements_Supplementation_Z-001-0442.md",
+    "03-Zettels/Conscious/B12_Exercise_Performance_Energy_Z-001-0440.md",
+    "03-Zettels/Conscious/Ancient_Metabolic_Pathways_Conservation_Z-001-1107.md",
+    "03-Zettels/Conscious/Amino_Acid_Complete_Classification_Table_Z-001-1115.md",
+    "03-Zettels/Conscious/Seed_Oil_Fried_Potatoes_20pct_Diabetes_Risk_Z-002-0771.md",
+    "03-Zettels/Conscious/Meat_Paradox_Not_Harmful_Context_Z-002-0766.md",
+    "03-Zettels/Conscious/Quality_Not_Quantity_Meat_Health_Z-002-0767.md",
+    "03-Zettels/Conscious/B_Vitamin_Cofactors_Summary_Z-001-1202.md",
+    "03-Zettels/Conscious/03-Zettels-Subconscious.md",
+    "00-Inbox/ChatGPT/metabolomics/CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520.md",
     "08-Structure/Archive/Vault_Status_Article_1-2_Rollout.md",
     "08-Structure/Archive/VAULT_HEALTH_L3.md",
     "08-Structure/Archive/REFERENCE_MERGE_PLAN.md",
@@ -318,20 +333,6 @@
     "08-Structure/Archive/Archive Index.md",
     "08-Structure/Archive",
     "08-Structure/System/00-INDEX.md",
-    "03-Zettels/RON/RON-Project-Index.md",
-    "04-Synthesis/threekeys.md",
-    "04-Synthesis/04-LEXICON.md",
-    "08-Structure/Protocols/Protocols Index.md",
-    "08-Structure/Protocols/EXTRACTION_PROTOCOL_v1.0.md",
-    "08-Structure/Protocols/CGPT_EXTRACTION_PROTOCOL_v2.0.md",
-    "08-Structure/Dashboards/01-PIPELINE.md",
-    "08-Structure/Dashboards/02-LOG.md",
-    "08-Structure/Dashboards/01-HANDOFF.md",
-    "08-Structure/System/EXTRACTION_PROTOCOL_v1.0.md",
-    "08-Structure/System/Vault_Status_Article_1-2_Rollout.md",
-    "08-Structure/System/VAULT_HEALTH_L3.md",
-    "08-Structure/System/REFERENCE_MERGE_PLAN.md",
-    "08-Structure/System/REFERENCE_AUDIT_REPORT_2026-04-05.md",
     "Base File All Notes.base",
     "01-Literature/LitSubconcious",
     "03-Zettels/Conscious/sedouFaur",
