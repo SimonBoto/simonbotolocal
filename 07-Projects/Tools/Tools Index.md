@@ -20,6 +20,7 @@ status: active
 | Tool | Status | Purpose |
 |------|--------|---------|
 | [[ZettelForge_Concept_S-001-0001]] | 🟡 Concept | Assisted CGPT extraction with Worker model |
+| [[QMD_Activation_S-001-0002]] | 🟡 In Progress | Hybrid search for vault (60-90% context reduction) |
 
 ---
 
