@@ -1,5 +1,5 @@
 ---
-uid: COMMAND-2026-04-04
+uid: COMMAND-2026-04-06
 type: command-dashboard
 status: active
 ---
@@ -9,35 +9,44 @@ status: active
 ## P0 — Critical Path
 | Priority | Item | Status | Next Action |
 |----------|------|--------|-------------|
-| P0 | Article extraction marathon | ✅ Active | Articles 65-90 remaining (26 to complete) |
-| P1 | AURA implementation (SOLARIS adaptation) | ⏸️ On hold | After article extraction complete |
-| P1 | RON-CARE schedule | ⏸️ On hold | After article extraction complete |
-| P0 | PhD ClinicalTrials.gov | ⏸️ Blocked | University delays |
+| P0 | Facebook collection | ✅ COMPLETE | 158/158 articles extracted |
+| P0 | CGPT_0264 processing | 🟡 5/11 done | 6 LitNotes paused, resume after infrastructure |
+| P0 | Infrastructure build | 🟡 IN PROGRESS | Tracking system, team coordination |
+| P1 | PhD ClinicalTrials.gov | ⏸️ Blocked | University delays |
 
-## P1 — High Value
+## P1 — High Value (Paused)
 | Priority | Item | Status | Next Action |
 |----------|------|--------|-------------|
-| P1 | CGPT Archive extraction | 🟡 Ready | 628 unextracted conversations prioritized |
-| P1 | Cost optimization | ✅ Active | Performance tracking + validation scripts working |
-| P1 | Website/posts presence | ⏸️ Not started | Awaiting extraction completion |
+| P1 | CGPT Archive extraction | ⏸️ Paused | 671 unprocessed in inbox, 17 processed |
+| P1 | Major anchors | ⏸️ Ready | CGPT-0133 (28), CGPT-0272 (21), CGPT-0328 (20) |
+| P1 | Cost optimization | ✅ Active | Performance tracking working |
 
-## P2 — Growth
+## P2 — Growth (On Hold)
 | Priority | Item | Status | Next Action |
 |----------|------|--------|-------------|
-| P2 | Guitar practice | ⏸️ Ongoing | Not tracked |
-| P2 | Beeswax-tallow business | ⏸️ Research | Awaiting P0 completion |
+| P2 | AURA implementation | ⏸️ On hold | After infrastructure |
+| P2 | RON-CARE schedule | ⏸️ On hold | After infrastructure |
+| P2 | Website/posts presence | ⏸️ Not started | After infrastructure |
 
 ## Active Systems
-| System | Status | Trigger |
-|--------|--------|---------|
+| System | Status | Notes |
+|--------|--------|-------|
 | Performance Tracking | ✅ Logging | Every task |
-| RON-ERRORS directory | ✅ Active | 8 errors logged, patterns tracked |
-| Validation scripts | ✅ Working | vault-validate.sh, extract-workflow.sh |
-| "REPORT" word | ✅ Active | Say "REPORT" for immediate scan |
-| X extraction workflow | ✅ Documented | Template_LitNote_v2.0.md |
+| Validation scripts | ✅ Working | vault-validate.sh |
+| Workflows documented | ✅ Complete | Facebook + CGPT extraction |
+| Infrastructure handoff | ✅ Ready | 5 documentation files |
+
+## Vault Metrics
+| Metric | Count | Status |
+|--------|-------|--------|
+| LitNotes | 183 | 12 optimal, 59 need upgrade |
+| Zettels | ~1,095 | 706 Conscious, 310 Subconscious |
+| CGPT anchors | 688 | 17 processed, 671 pending |
+| Git commits | 85+ | Clean working tree |
 
 ---
-*Last updated: 2026-04-04 00:15*
+*Last updated: 2026-04-06 20:45*
+*Next: Infrastructure build*
 
 ---
 parent-index: [[08 Structure Index]], [[Dashboards Index]]
