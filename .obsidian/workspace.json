@@ -104,30 +104,6 @@
             }
           },
           {
-            "id": "891f5bafa3e31481",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08-Structure/System/00-INDEX.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "00-INDEX"
-            }
-          },
-          {
             "id": "64120ee807f0bd00",
             "type": "leaf",
             "state": {
@@ -328,8 +304,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "891f5bafa3e31481",
+  "active": "64120ee807f0bd00",
   "lastOpenFiles": [
+    "08-Structure/Archive/Archive Index.md",
+    "08-Structure/System/00-INDEX.md",
+    "03-Zettels/RON/RON-Project-Index.md",
+    "04-Synthesis/threekeys.md",
+    "04-Synthesis/04-LEXICON.md",
+    "08-Structure/Protocols/Protocols Index.md",
+    "08-Structure/Protocols/EXTRACTION_PROTOCOL_v1.0.md",
+    "08-Structure/Protocols/CGPT_EXTRACTION_PROTOCOL_v2.0.md",
+    "08-Structure/Archive/Vault_Status_Article_1-2_Rollout.md",
+    "08-Structure/Archive/VAULT_HEALTH_L3.md",
+    "08-Structure/Archive/REFERENCE_MERGE_PLAN.md",
+    "08-Structure/Archive/REFERENCE_AUDIT_REPORT_2026-04-05.md",
+    "08-Structure/Archive/LITNOTE_STATUS_REPORT_2026-04-05.md",
+    "08-Structure/Archive/CLEANUP_PLAN.md",
+    "08-Structure/Archive/Audit_Review_Articles_1-8.md",
+    "08-Structure/Archive/CGPT_LitNote_Zettel_Map_2026-04-03.md",
+    "08-Structure/Archive/CGPT_Extraction_Table_2026-04-03.md",
+    "08-Structure/Archive",
     "08-Structure/Dashboards/01-PIPELINE.md",
     "08-Structure/Dashboards/02-LOG.md",
     "08-Structure/Dashboards/01-HANDOFF.md",
@@ -339,23 +333,6 @@
     "08-Structure/System/REFERENCE_MERGE_PLAN.md",
     "08-Structure/System/REFERENCE_AUDIT_REPORT_2026-04-05.md",
     "08-Structure/System/LITNOTE_STATUS_REPORT_2026-04-05.md",
-    "08-Structure/System/CLEANUP_PLAN.md",
-    "08-Structure/System/Audit_Review_Articles_1-8.md",
-    "08-Structure/Daily/Daily Index.md",
-    "08-Structure/Dashboards/Vault_Status_Article_1-2_Rollout.md",
-    "08-Structure/Dashboards/Audit_Review_Articles_1-8.md",
-    "08-Structure/Dashboards/REFERENCE_MERGE_PLAN.md",
-    "08-Structure/Dashboards/04-MISSION_CONTROL.md",
-    "03-Zettels/Conscious/Vitamin_K2_Biochemistry_Forms_MK4_MK7_Z-001-0227.md",
-    "03-Zettels/Subconscious/Coffee_2-3_Cups_Dementia_Protection_Z-002-0816.md",
-    "03-Zettels/Subconscious/Caffeine_Key_Neuroprotective_Component_Z-002-0817.md",
-    "03-Zettels/Subconscious/Lpa_Risk_Levels_Dose_Response_Interpretation_Z-002-0814.md",
-    "03-Zettels/Subconscious/Lpa_Promotes_Thrombosis_Evolutionary_Origin_Z-002-0813.md",
-    "03-Zettels/Subconscious/Lpa_No_Current_Drugs_Trials_Underway_Z-002-0815.md",
-    "03-Zettels/Subconscious/Silent_CVD_Progression_Metabolic_Disorders_Z-002-0812.md",
-    "03-Zettels/Subconscious/Insulin_Resistance_14x_CAD_Risk_vs_Cholesterol_Alone_Z-002-0810.md",
-    "03-Zettels/Subconscious/Endothelial_Metabolism_Central_CVD_Protection_Z-002-0811.md",
-    "03-Zettels/Subconscious/sdLDL_Quality_Matters_More_Than_LDL_Quantity_Z-002-0809.md",
     "Base File All Notes.base",
     "01-Literature/LitSubconcious",
     "03-Zettels/Conscious/sedouFaur",
@@ -365,7 +342,6 @@
     "03-Zettels/Conscious/sedRWWN67",
     "03-Zettels/Conscious/sedcesKZ5",
     "03-Zettels/Conscious/sedFIyzTs",
-    "03-Zettels/Conscious/sede1qcOO",
     "02-References/Assets/Images/2025-12-12_X_Pungao_Seed_Oils_Oxylipins_1.jpg",
     "02-References/Assets/Images/2025-12-13_X_DrWilliamWallac_Vitamin_Functions.jpg",
     "02-References/Assets/Images/2025-12-26_X_BrettBoettcher_Body_Regeneration_Timeline.jpg",

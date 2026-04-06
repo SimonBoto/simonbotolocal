@@ -2,15 +2,14 @@
 uid: IDX-SYSTEM
 type: index
 title: "System Index"
-date: 2026-04-02
-tags: [index, system, root-notes]
-parent-moc: [[08 Structure Index]]]
+date: 2026-04-06
+tags: [index, system, infrastructure]
+parent-moc: [[08 Structure Index]]
 ---
 
 # System Index
 
-> **Root notes archive**  
-| Navigation files and system documentation moved from vault root.
+> **Active system infrastructure** — operational files for vault management.
 
 ---
 
@@ -18,19 +17,28 @@ parent-moc: [[08 Structure Index]]]
 
 | File | Purpose |
 |------|---------|
-| 04-LEXICON.md | Terminology reference |
-| CHECKLIST-PreFlight.md | Pre-flight validation |
-| EMERGENCY-Recovery.md | Recovery procedures |
-| MISSION_CONTROL.md | Master dashboard |
-| threekeys.md | Core principles |
+| [[CHECKLIST-PreFlight]] | Pre-flight validation checklist |
+| [[EMERGENCY-Recovery]] | OpenClaw gateway recovery procedures |
+
+---
+
+## Related Locations
+
+| Folder | Contents |
+|--------|----------|
+| [[08-Structure/Protocols]] | Extraction protocols and workflows |
+| [[08-Structure/Archive]] | Historical reports and audits |
+| [[08-Structure/Dashboards]] | Operational dashboards |
+| [[04-Synthesis]] | Terminology (LEXICON, threekeys) |
+| [[03-Zettels/RON]] | RON project index |
 
 ---
 
 ## Connection to Vault
 
 - Up: [[08 Structure Index]]
-- Related: [[00 Mission] (root entry point)
+- Related: [[Dashboards Index]], [[Protocols Index]]
 
 ---
 
-*The engine room — system infrastructure.*
+*The engine room — minimal, active infrastructure only.*
