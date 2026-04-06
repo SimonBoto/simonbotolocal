@@ -4,9 +4,16 @@ type: command-dashboard
 status: active
 ---
 
-# COMMAND — Current Priorities
+# COMMAND — Current Priorities & System Status
 
-## P0 — Critical Path
+**System:** TheOptimizedBrain v4.1  
+**Last Updated:** 2026-04-06 20:55  
+**Status:** ⏸️ PAUSED — Infrastructure Build
+
+---
+
+## 🎯 P0 — Critical Path
+
 | Priority | Item | Status | Next Action |
 |----------|------|--------|-------------|
 | P0 | Facebook collection | ✅ COMPLETE | 158/158 articles extracted |
@@ -14,39 +21,74 @@ status: active
 | P0 | Infrastructure build | 🟡 IN PROGRESS | Tracking system, team coordination |
 | P1 | PhD ClinicalTrials.gov | ⏸️ Blocked | University delays |
 
-## P1 — High Value (Paused)
-| Priority | Item | Status | Next Action |
-|----------|------|--------|-------------|
-| P1 | CGPT Archive extraction | ⏸️ Paused | 671 unprocessed in inbox, 17 processed |
-| P1 | Major anchors | ⏸️ Ready | CGPT-0133 (28), CGPT-0272 (21), CGPT-0328 (20) |
-| P1 | Cost optimization | ✅ Active | Performance tracking working |
+---
 
-## P2 — Growth (On Hold)
-| Priority | Item | Status | Next Action |
-|----------|------|--------|-------------|
-| P2 | AURA implementation | ⏸️ On hold | After infrastructure |
-| P2 | RON-CARE schedule | ⏸️ On hold | After infrastructure |
-| P2 | Website/posts presence | ⏸️ Not started | After infrastructure |
+## 📊 System Vitals
 
-## Active Systems
-| System | Status | Notes |
-|--------|--------|-------|
-| Performance Tracking | ✅ Logging | Every task |
-| Validation scripts | ✅ Working | vault-validate.sh |
-| Workflows documented | ✅ Complete | Facebook + CGPT extraction |
-| Infrastructure handoff | ✅ Ready | 5 documentation files |
-
-## Vault Metrics
-| Metric | Count | Status |
+| Metric | Value | Status |
 |--------|-------|--------|
-| LitNotes | 183 | 12 optimal, 59 need upgrade |
-| Zettels | ~1,095 | 706 Conscious, 310 Subconscious |
-| CGPT anchors | 688 | 17 processed, 671 pending |
-| Git commits | 85+ | Clean working tree |
+| **LitNotes** | 183 | 12 optimal, 59 need upgrade, 98 in LitSubconcious |
+| **Zettels** | ~1,095 | 706 Conscious, 310 Subconscious, 56 RON |
+| **CGPT Anchors** | 688 | 17 processed, 671 pending |
+| **L-002 Facebook** | 55 | In LitSubconcious (need YAML upgrade) |
+| **Git Commits** | 85+ | Clean working tree |
+| **MOCs** | 20+ | Active |
 
 ---
-*Last updated: 2026-04-06 20:45*
-*Next: Infrastructure build*
+
+## 🔄 Processing Pipeline
+
+| Stage | Count | Status | Next Action |
+|-------|-------|--------|-------------|
+| **Inbox** | ~700 items | 🟡 Triage needed | Daily check |
+| **LitSubconcious** | 98 LitNotes | 🟡 Ready | YAML upgrade (21 done) |
+| **Literature** | 183 total | 🟡 Processing | Extraction to zettels |
+| **Zettels/Conscious** | 706 | 🟡 Review | Promotion to Subconscious |
+| **Zettels/Subconscious** | 310 | ✅ Connected | Permanent |
 
 ---
-parent-index: [[08 Structure Index]], [[Dashboards Index]]
+
+## 📋 Opportunity Backlog
+
+### Ready (Paused)
+| Item | Value | Effort | Blocker |
+|------|-------|--------|---------|
+| CGPT archive extraction | High | Medium | Infrastructure |
+| L-002 YAML upgrade | Medium | Low | — |
+| Zettel promotion review | Medium | Low | — |
+
+### Waiting on External
+| Item | Value | Blocker | ETA |
+|------|-------|---------|-----|
+| PhD ClinicalTrials.gov | Critical | University | Unknown |
+
+### Future
+| Item | Value | Notes |
+|------|-------|-------|
+| Website launch | High | After vault stable |
+| Book writing | High | After PhD complete |
+
+---
+
+## 🎯 Resume Protocol
+
+When infrastructure ready:
+1. Read `memory/2026-04-06_VAULT_PAUSE_STATUS.md`
+2. Complete CGPT_0264 (6 LitNotes, ~20 zettels)
+3. Continue litnote-by-litnote with documented workflow
+4. Next major anchor: CGPT-0133 (Bone/Calcium, 28 LitNotes)
+
+---
+
+## 📚 Key Documentation
+
+| File | Purpose |
+|------|---------|
+| `memory/2026-04-06_VAULT_PAUSE_STATUS.md` | Resume guide |
+| `memory/2026-04-06_CGPT_Processing_Workflows.md` | Perfected workflows |
+| `INFRASTRUCTURE_HANDOFF.md` | Team handoff |
+
+---
+
+*TheOptimizedBrain v4.1 — Infrastructure pause checkpoint*  
+*Next: Resume after tracking system ready*

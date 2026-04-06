@@ -2,28 +2,32 @@
 uid: IDX-DASHBOARDS
 type: index
 title: "Dashboards Index"
-date: 2026-04-02
+date: 2026-04-06
 tags: [index, dashboards, operations]
-parent-moc: [[08 Structure Index]]]
+parent-moc: [[08 Structure Index]]
 ---
 
 # Dashboards Index
 
-> **Operational dashboards for project management**  
-> Command center, intake, queue, log, and lexicon.
+> **Operational dashboards — command center for vault work**
 
 ---
 
 ## Dashboards
 
-| File | Purpose |
-|------|---------|
-| 00-COMMAND.md | Current P0/P1/P2 priorities |
-| 00-INTAKE.md | New item processing |
-| 01-QUEUE.md | Opportunity backlog |
-| 02-HANDOFF.md | Session state |
-| 03-LOG.md | Activity log |
-| 04-MISSION_CONTROL.md | System status & metrics |
+| File | Purpose | When to Check |
+|------|---------|---------------|
+| [[00-COMMAND]] | Priorities, metrics, pipeline, backlog | Daily |
+| [[01-HANDOFF]] | Session state, what just happened | Per session |
+| [[02-LOG]] | Activity history | As needed |
+
+---
+
+## Quick Navigation
+
+**Starting work?** → Read [[00-COMMAND]]  
+**Ending session?** → Update [[01-HANDOFF]]  
+**What happened?** → Check [[02-LOG]]
 
 ---
 
@@ -34,4 +38,4 @@ parent-moc: [[08 Structure Index]]]
 
 ---
 
-*The control room — visibility into all active work.*
+*The control room — simplified to 3 dashboards*
