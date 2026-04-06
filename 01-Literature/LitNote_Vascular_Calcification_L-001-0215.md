@@ -9,7 +9,7 @@ relevance: High — METHAP safety rationale; cardiovascular protection mechanism
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
-source: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
+source: "[[00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
 
 # Lit: Vascular Calcification — Mechanisms and Protection
 

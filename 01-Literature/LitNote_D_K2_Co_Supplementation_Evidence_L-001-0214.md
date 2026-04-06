@@ -1,16 +1,17 @@
 ---
 uid: L-001-0214
 type: lit-note
-title: "Lit — D-K2 Co-Supplementation Clinical Evidence (Studies, Outcomes, Limitations)"
+title: Lit — D-K2 Co-Supplementation Clinical Evidence (Studies, Outcomes, Limitations)
 authors: ChatGPT synthesis from narrative review development (CGPT-0230)
 year: 2024
 journal: Internal clinical synthesis
 tier: SILVER
 relevance: High — Evidence base for METHAP protocol; study design rationale
 status: extracted
-parent-moc: [[MOC-Vitamin-D-K2]]
+parent-moc:
+  - - MOC-Vitamin-D-K2
 extraction-date: 2026-03-01
-source: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
+source: "[[00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
 ---
 
 # Lit: D-K2 Co-Supplementation Clinical Evidence

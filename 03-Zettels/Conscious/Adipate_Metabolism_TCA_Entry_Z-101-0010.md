@@ -1,81 +1,78 @@
 ---
 uid: Z-101-0010
 type: zettel
-title: Adipate Metabolism and TCA Cycle Entry
-aliases: [Z-101-0010, Adipate to Acetyl-CoA, Dicarboxylic Acid Catabolism]
+title: "Adipate Metabolism and TCA Entry"
+aliases: ["Z-101-0010", "Adipate-Metabolism", "TCA-Entry", "Succinyl-CoA"]
 domain: 101
-tags: [zettel, adipate, TCA-cycle, beta-oxidation, acetyl-CoA, succinyl-CoA]
-parent-moc: [[MOC-Lipid-Metabolism]]
+tags: [zettel, adipate, metabolism, tca-cycle, succinyl-coa, beta-oxidation]
+parent-moc: "[[MOC-Mitochondrial-Function]]"
 status: conscious
-source-litnote: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]"
+source-litnote: "[[L-101-0002_Adipic_Acid_Biochemistry_Omega_Oxidation_CGPT-0586]]"
+source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 extraction-date: 2026-03-02
 ---
 
-# Adipate  and TCA Cycle Entry
+# Adipate Metabolism and TCA Entry
 
-**Key Point:** Adipate is not a metabolic endpoint — it can be catabolized to enter the TCA cycle for energy production.
+## Core Claim
+**Adipate (C6 dicarboxylic acid) undergoes two cycles of mitochondrial β-oxidation — producing glutaryl-CoA (C5) then succinyl-CoA (C4) plus two acetyl-CoA molecules — with succinyl-CoA directly entering the TCA cycle at the succinyl-CoA synthetase step, demonstrating that adipate is metabolically active and not merely a waste product, though urinary excretion occurs when metabolic capacity is overwhelmed.**
 
-## Adipate → TCA Pathway
+## Evidence
 
-### Step 1: Activation
-**Adipate + CoA + ATP → Adipyl-CoA + AMP + PPi**
-- Catalyzed by: Acyl-CoA synthetase
-- Location:  (adipate is water-soluble, enters without carnitine)
+### Metabolic Pathway
+| Step | Input | Output | ATP Yield |
+|------|-------|--------|-----------|
+| **1** | Adipate | Adipyl-CoA | -2 (activation cost) |
+| **2** | Adipyl-CoA (C6) | Glutaryl-CoA (C5) + Acetyl-CoA | +5 (1 NADH, 1 FADH₂) |
+| **3** | Glutaryl-CoA (C5) | Succinyl-CoA (C4) + Acetyl-CoA | +5 (1 NADH, 1 FADH₂) |
+| **4** | Succinyl-CoA | TCA cycle completion | +12 (GTP, NADH, FADH₂) |
+| **5** | 2 Acetyl-CoA | TCA cycle | +20 (2 × 10 ATP) |
 
-### Step 2: First β-Oxidation Round
-**Adipyl-CoA (C6) → Glutaryl-CoA (C5) + Acetyl-CoA (C2)**
-- Standard β-oxidation cycle
-- FAD → FADH₂, NAD⁺ → NADH
+**Net ATP Yield:** ~32-40 ATP per adipate
 
-### Step 3: Second β-Oxidation Round
-**Glutaryl-CoA (C5) → Succinyl-CoA (C4) + Acetyl-CoA (C2)**
-- Requires decarboxylation step (glutaryl-CoA dehydrogenase + decarboxylase)
+### Detailed Reactions
+**First β-Oxidation Cycle:**
+```
+Adipyl-CoA + FAD → Trans-enoyl-adipyl-CoA + FADH₂
+↓ + H₂O
+L-3-Hydroxyadipyl-CoA
+↓ + NAD⁺
+3-Ketoadipyl-CoA
+↓ + CoA
+Glutaryl-CoA + Acetyl-CoA
+```
 
-### Step 4: TCA Cycle Entry
-**Succinyl-CoA:** Direct TCA intermediate (produces GTP)
-**Acetyl-CoA (×2):** Condenses with oxaloacetate → citrate
+**Second β-Oxidation Cycle:**
+```
+Glutaryl-CoA + FAD → Trans-enoyl-glutaryl-CoA + FADH₂
+↓ + H₂O
+L-3-Hydroxyglutaryl-CoA
+↓ + NAD⁺
+3-Ketoglutaryl-CoA
+↓ + CoA
+Succinyl-CoA + Acetyl-CoA
+```
 
-## Energy Yield Summary
+### TCA Entry
+```
+Succinyl-CoA → Succinate (via succinyl-CoA synthetase, GTP formed)
+↓
+[Continues through TCA cycle]
+```
 
-**1 Adipate → 1 Succinyl-CoA + 2 Acetyl-CoA**
-
-- Succinyl-CoA → GTP + succinate → fumarate → malate → oxaloacetate
-- 2 Acetyl-CoA → complete TCA cycles (6 NADH, 2 FADH₂, 2 GTP)
-
-**Net yield:** Significant ATP production possible from adipate catabolism
-
-## Physiological Significance
-
-**Metabolic Flexibility:**
-- When ω-oxidation produces adipate, the body can still extract energy
-- Alternative route for fatty acid metabolism during β-oxidation impairment
-
-**Why Adipate Accumulates Anyway:**
-- ω-oxidation rate may exceed adipate catabolism capacity
-- Renal excretion provides elimination pathway
-
-## Contrast with Other Dicarboxylic Acids
-
-- **Adipate (C6):** Efficiently catabolized to TCA intermediates
-- **Suberate (C8), Sebacate (C10):** Longer chain = more β-oxidation rounds required
-
----
-
-*See also: [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]*
-
-
-## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-- 
-- 
+## Clinical Implication
+- **Not waste:** Adipate is metabolically active
+- **Energy recovery:** ~80% efficiency vs complete oxidation
+- **Capacity indicator:** Urinary excretion = overwhelmed system
+- **Anaplerotic:** Succinyl-CoA replenishes TCA intermediates
+- **METHAP relevance:** Adipate metabolism demonstrates metabolic flexibility capacity
 
 ---
 
-## Connection to Vault
-
-- Up: [[MOC-Lipid-Metabolism]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+## Related
+- [[Adipate_Formation_Palmitate_Pathway_Z-101-0008]] — Formation
+- [[Carnitine_Deficiency_Omega_Oxidation_Link_Z-101-0009]] — Deficiency link
+- [[Succinyl_CoA_Krebs_Entry_Dicarboxylic_Integration_Z-001-1198]] — TCA integration
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+*Source: [[L-101-0002_Adipic_Acid_Biochemistry_Omega_Oxidation_CGPT-0586]] | Inbox: [[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]*

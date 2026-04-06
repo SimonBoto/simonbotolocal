@@ -20,11 +20,13 @@ parent-moc: "[[MOC-Metabolic-Syndrome]]"
 Zhao Y, Zhang M, Wang X, et al. Fasting insulin, insulin resistance, and risk of cardiovascular or all-cause mortality in non-diabetic adults: a meta-analysis. *Int J Cardiol*. 2019;286:1-8. doi:10.1016/j.ijcard.2019.01.098
 
 ## Source
-- **Journal:** International Journal of Cardiology
+- **Primary source:** International Journal of Cardiology
+- **External source:** Not from Facebook Collection
 - **Year:** 2019
 - **Type:** Meta-analysis
 - **PMID:** [30716618](https://pubmed.ncbi.nlm.nih.gov/30716618/)
 - **PMC:** [PMC6448479](https://pmc.ncbi.nlm.nih.gov/articles/PMC6448479/)
+- **Status:** Verified PMID/DOI, external reference
 
 ---
 

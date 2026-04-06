@@ -1,82 +1,76 @@
 ---
 uid: Z-101-0009
 type: zettel
-title: Carnitine Deficiency Activates Omega-Oxidation Pathway
-aliases: [Z-101-0009, Carnitine Omega-Oxidation, CPT Deficiency]
+title: "Carnitine Deficiency and Omega-Oxidation Link"
+aliases: ["Z-101-0009", "Carnitine-Deficiency", "Omega-Oxidation", "Fatty-Acid-Transport"]
 domain: 101
-tags: [zettel, carnitine, CPT, omega-oxidation, adipate, mitochondrial-transport]
-parent-moc: [[MOC-Mitochondrial-Function]]
+tags: [zettel, carnitine, deficiency, omega-oxidation, cpt1, cpt2, fatty-acids]
+parent-moc: "[[MOC-Mitochondrial-Function]]"
 status: conscious
-source: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]"
+source-litnote: "[[L-101-0002_Adipic_Acid_Biochemistry_Omega_Oxidation_CGPT-0586]]"
+source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 extraction-date: 2026-03-02
 ---
 
-# Carnitine Deficiency Activates Omega-Oxidation Pathway
+# Carnitine Deficiency and Omega-Oxidation Link
 
-**Critical Insight:** Carnitine deficiency blocks long-chain fatty acid entry into , triggering compensatory ω-oxidation and adipate formation.
+## Core Claim
+**Carnitine deficiency prevents long-chain fatty acids from entering mitochondria via the carnitine shuttle (CPT1/CPT2), causing accumulation of acyl-CoAs in the cytoplasm that are diverted to ω-oxidation in the endoplasmic reticulum — resulting in dicarboxylic aciduria (elevated adipate, suberate) and hypoketotic hypoglycemia, with urinary adipate serving as a diagnostic marker for this transport defect.**
 
-## Carnitine Shuttle System
+## Evidence
 
-**CPT I** (outer  membrane):
-- Catalyzes: Fatty acyl-CoA + Carnitine → Acylcarnitine + CoA
-- Rate-limiting step for β-oxidation
+### Carnitine Shuttle Function
+| Component | Location | Function |
+|-----------|----------|----------|
+| **CPT1** | Outer mitochondrial membrane | Conjugates fatty acids with carnitine |
+| **CACT** | Inner mitochondrial membrane | Transports acylcarnitine across |
+| **CPT2** | Inner mitochondrial membrane | Releases carnitine, regenerates acyl-CoA |
 
-**CPT II** (inner mitochondrial membrane):
-- Reverses the reaction
-- Releases carnitine, allows β-oxidation to proceed
+### Deficiency Consequences
+```
+Carnitine deficiency
+    ↓
+CPT1/CPT2 impaired
+    ↓
+Long-chain fatty acids cannot enter mitochondria
+    ↓
+Acyl-CoA accumulation in cytoplasm
+    ↓
+Diversion to ω-oxidation (ER)
+    ↓
+Dicarboxylic acid formation and excretion
+```
 
-## Deficiency → ω-Oxidation Cascade
+### Clinical Presentation
+| Feature | Manifestation |
+|---------|--------------|
+| **Metabolic** | Hypoketotic hypoglycemia |
+| **Cardiac** | Cardiomyopathy |
+| **Muscle** | Weakness, myopathy |
+| **Hepatic** | Hepatomegaly, elevated transaminases |
+| **Urine** | Elevated dicarboxylic acids (adipate, suberate) |
 
-1. **Impaired transport:**
-   - Long-chain fatty acids cannot enter mitochondria
-   - β-oxidation blocked despite intact mitochondrial machinery
+### Diagnostic Markers
+| Marker | Finding |
+|--------|---------|
+| **Free carnitine** | Low |
+| **Acylcarnitines** | Elevated long-chain |
+| **Urinary adipate** | Elevated |
+| **Ketones** | Low (hypoketotic) |
 
-2. **Accumulation:**
-   - Partially oxidized fatty acids (medium-chain) build up
-
-3. **Compensatory upregulation:**
-   - Cytochrome P450 enzymes in ER increase ω-hydroxylation
-
-4. **Dicarboxylic acid formation:**
-   - Adipate, suberate, sebacate accumulate
-   - Excreted in urine
-
-## Clinical Conditions
-
-**Primary carnitine deficiency:** OCTN2 transporter defect
-**Secondary carnitine deficiency:**
--  resistance
-- Obesity
-- Type 2 diabetes
-- Aging
-- Certain medications (valproate, zidovudine)
-
-## Diagnostic Pattern
-
-**Urine organic acids:**
-- Elevated adipate (C6) — primary marker
-- Elevated suberate (C8) — secondary
-- Elevated sebacate (C10) — tertiary
-- Normal or low ketones (different pathway)
-
-## Therapeutic Implication
-
-**Carnitine supplementation** can restore β-oxidation, reducing ω-oxidation burden and normalizing adipate levels.
-
----
-
-*See also: [[Adipate_Formation_Palmitate_Pathway_Z-101-0008]*
-
-
-## RELATED FILES
-- 
+## Clinical Implication
+- **Transport defect:** Not β-oxidation enzyme deficiency
+- **Treatment:** L-carnitine supplementation
+- **Prognosis:** Good with early treatment
+- **Screening:** Newborn screening includes acylcarnitine profile
+- **METHAP relevance:** Carnitine status affects metabolic flexibility; secondary deficiency common in insulin resistance
 
 ---
 
-## Connection to Vault
-
-- Up: [[MOC-Mitochondrial-Function]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+## Related
+- [[Adipate_Formation_Palmitate_Pathway_Z-101-0008]] — Formation mechanism
+- [[Adipate_Metabolism_TCA_Entry_Z-101-0010]] — Metabolic fate
+- [[Carnitine_Shuttle_Fatty_Acid_Transport_System_Z-001-1194]] — Transport details
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+*Source: [[L-101-0002_Adipic_Acid_Biochemistry_Omega_Oxidation_CGPT-0586]] | Inbox: [[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]*

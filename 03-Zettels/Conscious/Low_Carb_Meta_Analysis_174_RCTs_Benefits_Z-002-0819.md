@@ -1,56 +1,61 @@
 ---
 uid: Z-002-0819
 type: zettel
-title: "Low Carb Meta-Analysis 174 RCTs Shows Multiple Benefits"
-aliases: ["Z-002-0819", "Low-Carb-Meta-Analysis-174-RCTs"]
+title: "Low-Carb Meta-Analysis of 174 RCTs Shows Consistent Metabolic Benefits"
+aliases: ["Z-002-0819", "Low-Carb-174-RCTs-Benefits"]
 domain: 002
 status: conscious
-tags: [zettel, low-carb, meta-analysis, 174-rcts, triglycerides, hdl, blood-pressure]
+tags: [zettel, low-carb, meta-analysis, 174-rcts, metabolic-benefits, cvd]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0227_Carb_Restriction_CVD_Meta_Analysis]]"
+source-reference: "[[Low_Carb_Meta_Analysis_174_RCTs_R-002-0059]]"
 related: []
 ---
 
-# Low Carb Meta-Analysis 174 RCTs Shows Multiple Benefits
+# Low-Carb Meta-Analysis of 174 RCTs Shows Consistent Metabolic Benefits
 
 ## Core Claim
-**Largest meta-analysis to date (174 RCTs)** demonstrates low-carbohydrate diets significantly improve metabolic health: reduce triglycerides, blood pressure, inflammation, and improve lipid ratios.
+**The largest meta-analysis of carbohydrate restriction to date — 174 randomized controlled trials — demonstrates consistent and significant metabolic benefits** across diverse populations and study designs.
 
-## Documented Benefits
+## The Evidence Summary
 
-| Marker | Effect |
+### Lipid Improvements
+| Marker | Change |
 |--------|--------|
 | **Triglycerides** | ↓ Reduced |
-| **Systolic BP** | ↓ Reduced |
-| **Diastolic BP** | ↓ Reduced |
+| **HDL cholesterol** | ↑ Increased |
 | **TG/HDL ratio** | ↓ Improved |
 | **LDL/HDL ratio** | ↓ Improved |
-| **ApoB/ApoA1** | ↓ Improved |
-| **Inflammation markers** | ↓ Reduced (CRP, TNF-α, IL-6) |
-| **HDL cholesterol** | ↑ Increased |
+| **ApoB/ApoA1 ratio** | ↓ Improved |
 
-## Scale of Evidence
-
-| Metric | Detail |
+### Cardiovascular
+| Marker | Change |
 |--------|--------|
-| **Studies included** | 174 RCTs |
-| **Study type** | Randomized controlled trials |
-| **Scope** | Largest meta-analysis to date |
+| **Systolic BP** | ↓ Reduced |
+| **Diastolic BP** | ↓ Reduced |
 
-## Body Composition
+### Inflammation
+| Marker | Change |
+|--------|--------|
+| **CRP** | ↓ Reduced |
+| **TNF-α** | ↓ Reduced |
+| **IL-6** | ↓ Reduced |
+
+### Body Composition
 | Measure | Change |
 |---------|--------|
-| **Weight** | ↓ |
-| **Body fat** | ↓ |
-| **BMI** | ↓ |
-| **Waist circumference** | ↓ |
+| **Body weight** | ↓ Reduced |
+| **Body fat** | ↓ Reduced |
+| **BMI** | ↓ Reduced |
+| **Waist circumference** | ↓ Reduced |
 
-## Clinical Significance
-Multiple metabolic improvements occur simultaneously, creating **synergistic CVD risk reduction**.
-
-## Source
-- **LitNote:** [[L-002-0227_Carb_Restriction_CVD_Meta_Analysis]]
+## Carbohydrate Restriction Categories
+| Category | Carb Intake |
+|----------|-------------|
+| **Moderate reduction** | 26-45% of calories |
+| **Low-carb** | 10-26% of calories |
+| **Ketogenic** | <10% of calories |
 
 ---
-*Z-002-0819 | Created: 2026-04-04 | Status: conscious*
+*Source: [[Low_Carb_Meta_Analysis_174_RCTs_R-002-0059]]*

@@ -20,10 +20,13 @@ parent-moc: "[[MOC-Metabolic-Syndrome]]"
 Quarenghi M, Capelli S, Galligani G, Giana A, Preatoni G, Turri Quarenghi R. Weight Regain After Liraglutide, Semaglutide or Tirzepatide Interruption: A Narrative Review of Randomized Studies. *J Clin Med*. 2025;14(12):3791. doi:10.3390/jcm14123791
 
 ## Source
+- **Primary source:** Journal of Clinical Medicine
+- **External source:** Not from Facebook Collection
 - **DOI:** [10.3390/jcm14123791](https://doi.org/10.3390/jcm14123791)
 - **PMID:** [40507553](https://pubmed.ncbi.nlm.nih.gov/40507553/)
 - **Journal:** Journal of Clinical Medicine
 - **Date:** May 28, 2025
+- **Status:** Verified PMID/DOI, external reference
 
 ---
 

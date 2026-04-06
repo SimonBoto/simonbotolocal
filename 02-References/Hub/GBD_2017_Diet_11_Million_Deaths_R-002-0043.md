@@ -20,11 +20,15 @@ parent-moc: "[[MOC-Diabetes-T2D]]"
 GBD 2017 Diet Collaborators. "Health effects of dietary risks in 195 countries, 1990-2017: a systematic analysis for the Global Burden of Disease Study 2017." *Lancet*. 2019;393(10184):1958-1972. doi:10.1016/S0140-6736(19)30041-8
 
 ## Source
+- **Primary source:** The Lancet
+- **Citation extracted from:** Facebook Posts Collection
 - **Study:** Global Burden of Disease 2017 Dietary Risk Analysis
 - **Year:** 1990-2017 data, published 2019
 - **Type:** Global health systematic analysis
+- **DOI:** 10.1016/S0140-6736(19)30041-8
 - **PMID:** [30954305](https://pubmed.ncbi.nlm.nih.gov/30954305/)
 - **Full text:** [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30041-8/fulltext)
+- **Status:** Verified PMID/DOI, citation from source
 
 ---
 

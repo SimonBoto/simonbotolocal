@@ -1,23 +1,25 @@
 ---
 uid: L-001-0201c
 type: litnote
-title: "Lit — Magnesium in Cardiovascular Health (Hypertension, Arrhythmias, Lipid Metabolism)"
+title: Lit — Magnesium in Cardiovascular Health (Hypertension, Arrhythmias, Lipid Metabolism)
 authors: ChatGPT synthesis from narrative review planning (CGPT-0272)
 year: 2024
 journal: Internal clinical synthesis
 tier: GOLD
 relevance: High — CV risk reduction rationale for METHAP; Mg mechanisms in hypertension
 status: extracted
-parent-moc: [[MOC-Magnesium]]
-parent-index: [[01-Literature]]
+parent-moc:
+  - - MOC-Magnesium
+parent-index:
+  - - 01-Literature
 extraction-date: 2026-03-01
-source: "[[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
+source: "[[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
 ---
 
 # Lit: Magnesium — Role in Cardiovascular Health
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]
 - **Date:** October 09, 2024
 - **Scope:** Chapter 5.2 — Magnesium's role in metabolic syndrome components, specifically cardiovascular risk factors
 

@@ -1,17 +1,19 @@
 ---
 uid: L-001-0213
 type: lit-note
-title: "Lit — Calcium-PTH Homeostasis (Regulation, Monitoring, METHAP Safety)"
+title: Lit — Calcium-PTH Homeostasis (Regulation, Monitoring, METHAP Safety)
 authors: ChatGPT synthesis from narrative review development (CGPT-0230)
 year: 2024
 journal: Internal clinical synthesis
 tier: GOLD
 relevance: Critical — METHAP safety monitoring; hypercalcemia prevention
 status: extracted
-parent-moc: [[MOC-Vitamin-D-Metabolism]]
-parent-index: [[02-Literature]]
+parent-moc:
+  - - MOC-Vitamin-D-Metabolism
+parent-index:
+  - - 02-Literature
 extraction-date: 2026-03-01
-source: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
+source: "[[00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
 ---
 
 # Lit: Calcium-PTH Homeostasis and METHAP Monitoring

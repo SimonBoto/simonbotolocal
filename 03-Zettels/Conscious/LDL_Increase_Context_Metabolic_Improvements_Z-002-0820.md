@@ -1,63 +1,56 @@
 ---
 uid: Z-002-0820
 type: zettel
-title: "LDL Increase in Context of Metabolic Improvements"
+title: "LDL Increase in Context of Metabolic Improvements — Not Harmful"
 aliases: ["Z-002-0820", "LDL-Increase-Context-Metabolic"]
 domain: 002
 status: conscious
-tags: [zettel, ldl, increase, context, metabolic-improvements, net-benefit]
+tags: [zettel, ldl, low-carb, metabolic-context, not-harmful, lipid-ratios]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Cholesterol-Lipid]]"
+parent-moc: "[[MOC-Lipid-Metabolism]]"
 source-litnote: "[[L-002-0227_Carb_Restriction_CVD_Meta_Analysis]]"
+source-reference: "[[Low_Carb_Meta_Analysis_174_RCTs_R-002-0059]]"
 related: []
 ---
 
-# LDL Increase in Context of Metabolic Improvements
+# LDL Increase in Context of Metabolic Improvements — Not Harmful
 
 ## Core Claim
-**Minor LDL increases (+5 mg/dL) on low-carb diets do not increase CVD risk** when accompanied by improvements in TG, HDL, BP, and inflammation — the net metabolic effect is beneficial.
+**Low-carbohydrate diets produce minor increases in LDL cholesterol (+5 mg/dL) and total cholesterol (+4 mg/dL), but these increases do NOT negate overall metabolic benefits or increase CVD risk** when accompanied by improvements in triglycerides, HDL, blood pressure, and inflammation.
 
 ## The Numbers
 
-| Marker | Change | Significance |
-|--------|--------|--------------|
-| **LDL** | ↑ +5 mg/dL | Minor |
-| **Total cholesterol** | ↑ +4 mg/dL | Minor |
-| **TG/HDL ratio** | ↓ Improved | Major |
-| **Blood pressure** | ↓ Reduced | Major |
-| **Inflammation** | ↓ Reduced | Major |
-
-## Context Matters
-
-| Isolated View | Contextual View |
-|---------------|-----------------|
-| "LDL went up = bad" | "LDL pattern improved" |
-| Focus on single number | Consider metabolic milieu |
-| Ignore other markers | Holistic assessment |
-
-## Net Effect
-
-| Factor | Impact |
+### Minor Increases
+| Marker | Change |
 |--------|--------|
-| **Minor LDL increase** | Small potential harm |
-| **Major metabolic improvements** | Large confirmed benefit |
-| **Net result** | CVD risk reduction |
+| **LDL cholesterol** | ↑ +5 mg/dL |
+| **Total cholesterol** | ↑ +4 mg/dL |
 
-## Clinical Implication
+### Context: Major Improvements
+| Marker | Change |
+|--------|--------|
+| **Triglycerides** | ↓ Reduced |
+| **HDL** | ↑ Increased |
+| **Blood pressure** | ↓ Reduced |
+| **Inflammation** | ↓ Reduced |
 
-| Approach | Action |
-|----------|--------|
-| **Don't stop low-carb** | Due to LDL alone |
-| **Assess full panel** | TG, HDL, BP, inflammation |
-| **Consider LDL pattern** | Large buoyant vs small dense |
+## Why Context Matters
 
-## Evidence
+### Lipid Ratios Improve
+| Ratio | Change | Significance |
+|-------|--------|--------------|
+| **TG/HDL** | ↓ Improved | Strong CVD predictor |
+| **LDL/HDL** | ↓ Improved | Better than LDL alone |
+| **ApoB/ApoA1** | ↓ Improved | Best CVD predictor |
 
-> "LDL and total cholesterol increased slightly (5 mg/dL and 4 mg/dL respectively), but this does not negate overall metabolic benefits."
-> — Meta-analysis of 174 RCTs
+### Clinical Interpretation
+- LDL increase on low-carb ≠ LDL increase on standard diet
+- **Particle quality** changes (larger, fluffier LDL)
+- **Metabolic context** improves (insulin sensitivity, inflammation)
+- **Overall risk profile** improves despite higher LDL
 
-## Source
-- **LitNote:** [[L-002-0227_Carb_Restriction_CVD_Meta_Analysis]]
+## Conclusion
+Statin-like LDL reduction is **not necessary** when metabolic markers improve. The net effect is **CVD risk reduction**.
 
 ---
-*Z-002-0820 | Created: 2026-04-04 | Status: conscious*
+*Source: [[Low_Carb_Meta_Analysis_174_RCTs_R-002-0059]]*

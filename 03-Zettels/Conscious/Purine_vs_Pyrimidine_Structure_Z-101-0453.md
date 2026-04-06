@@ -1,61 +1,65 @@
 ---
 uid: Z-101-0453
 type: zettel
-title: Purine vs Pyrimidine Structure and Chemistry
-aliases: [Z-101-0453, purine-pyrimidine, nucleobase-chemistry]
+title: "Purine vs Pyrimidine Structure and Chemistry"
+aliases: ["Z-101-0453", "Purine-Pyrimidine", "Nucleobase-Chemistry", "Base-Pairing"]
 domain: 101
-tags: [zettel, nucleobases, purines, pyrimidines, biochemistry, structure]
-parent-moc: [[MOC-Metabolomics]]
+tags: [zettel, nucleobases, purines, pyrimidines, biochemistry, structure, dna, rna]
+parent-moc: "[[MOC-Nucleotide-Metabolism]]"
 status: conscious
-created: 2026-03-04
-source-litnote: [[LitNote_Adenosine_Adenine_Biochemistry_L-101-0045A]]
+source-litnote: "[[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]]"
+source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+extraction-date: 2026-03-04
 ---
 
-# Purine vs Pyrimidine Structure
+# Purine vs Pyrimidine Structure and Chemistry
 
-## Structural Classes
+## Core Claim
+**Purines (adenine, guanine) are larger double-ring structures that pair with smaller single-ring pyrimidines (cytosine, thymine/uracil) through specific hydrogen bonding — A-T pairs form 2 hydrogen bonds while G-C pairs form 3, making G-C rich DNA more stable** — purines are harder to synthesize prebiotically (require HCN polymerization) while pyrimidines form more readily.
 
-### Purines (Two Fused Rings)
-| Base | Formula | Rings | Atoms |
-|------|---------|-------|-------|
-| **Adenine** | C₅H₅N₅ | Imidazole + Pyrimidine | 15 |
-| **Guanine** | C₅H₅N₅O | Imidazole + Pyrimidine | 16 |
+## Evidence
 
-**Imidazole:** 5-membered, 2 nitrogens  
-**Pyrimidine:** 6-membered, 2 nitrogens
+### Structural Classes
+| Class | Structure | Examples | Size |
+|-------|-----------|----------|------|
+| **Purines** | Two fused rings (imidazole + pyrimidine) | Adenine, Guanine | Larger |
+| **Pyrimidines** | Single ring | Cytosine, Uracil, Thymine | Smaller |
 
-### Pyrimidines (Single Ring)
-| Base | Formula | Ring |
-|------|---------|------|
-| **Cytosine** | C₄H₅N₃O | Pyrimidine |
-| **Uracil** | C₄H₄N₂O₂ | Pyrimidine |
-| **Thymine** | C₅H₆N₂O₂ | Pyrimidine |
+### Base Pairing
+| Pair | H-Bonds | Stability | Function |
+|------|---------|-----------|----------|
+| **A-T** | 2 | Lower | Easier to separate (transcription) |
+| **G-C** | 3 | Higher | More stable (structural regions) |
 
-## Key Differences
+### Chemical Properties
 | Feature | Purines | Pyrimidines |
 |---------|---------|-------------|
-| Size | Larger | Smaller |
-| H-bonds | A-T (2), G-C (3) | - |
-| Prebiotic synthesis | Harder (HCN polymerization) | Easier |
-| Stability | Less stable | More stable |
+| **Formula** | C₅H₅N₅ (adenine) | C₄H₅N₃O (cytosine) |
+| **Prebiotic synthesis** | Harder (HCN polymerization) | Easier |
+| **Stability** | Less stable | More stable |
+| **Oxygen content** | Mostly anoxic | Uracil/thymine have oxygen |
 
-## Base Pairing
-- **A-T:** 2 hydrogen bonds (easier to separate)
-- **G-C:** 3 hydrogen bonds (more stable)
+### DNA vs RNA Bases
+| Base | DNA | RNA |
+|------|-----|-----|
+| **Adenine** | ✓ | ✓ |
+| **Guanine** | ✓ | ✓ |
+| **Cytosine** | ✓ | ✓ |
+| **Thymine** | ✓ | — |
+| **Uracil** | — | ✓ |
+
+## Clinical Implication
+- **DNA stability:** G-C content affects melting temperature
+- **PCR design:** Primer G-C content critical
+- **Mutations:** Deamination of cytosine → uracil (DNA repair) |
+- **METHAP relevance:** Purine/pyrimidine balance in diet affects nucleotide synthesis; folate supports thymidylate synthesis
+
+---
 
 ## Related
-- [[ATP_Universal_Energy_Currency_Z-101-0451]] ATP Structure (adenine base)
-- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]] HCN Polymerization to Adenine
+- [[ATP_Universal_Energy_Currency_Z-101-0451]] — ATP (adenine base)
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]] — Purine synthesis
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]] — Base pairing origins
 
 ---
-*Source: CGPT-0445 extraction | Created: 2026-03-04*
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Metabolomics]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
-
----
-parent-index: [[03-Zettels-Conscious]]
+*Source: [[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

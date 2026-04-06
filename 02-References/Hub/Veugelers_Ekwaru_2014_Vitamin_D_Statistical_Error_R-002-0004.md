@@ -19,9 +19,12 @@ parent-moc: "[[MOC-References-Active]]"
 Veugelers PJ, Ekwaru JP. A statistical error in the estimation of the recommended dietary allowance for vitamin D. Nutrients. 2014;6(10):4472-4475. doi:10.3390/nu6104472
 
 ## Source
+- **Primary source:** Nutrients
+- **External source:** Not from Facebook Collection
 - **DOI:** 10.3390/nu6104472
 - **PMID:** 25243764
 - **URL:** https://www.mdpi.com/2072-6643/6/10/4472
+- **Status:** Verified PMID/DOI, external reference
 
 ---
 

@@ -9,7 +9,7 @@ relevance: Critical — Core PhD literature on VitD/K2 mechanisms in MetS
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-09
-source: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
+source: "[[00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
 
 # Vitamin D and K2 Synergy in Metabolic Syndrome
 

@@ -19,9 +19,12 @@ parent-moc: "[[MOC-References-Active]]"
 Puchalska P, Crawford PA. Multi-dimensional roles of ketone bodies in fuel metabolism, signaling, and therapeutics. Cell Metabolism. 2017;25(2):262-284.
 
 ## Source
+- **Primary source:** Cell Metabolism
+- **External source:** Not from Facebook Collection
 - **DOI:** 10.1016/j.cmet.2016.12.004
 - **PMID:** 28162949
 - **URL:** https://www.cell.com/cell-metabolism/fulltext/S1550-4131(16)30565-7
+- **Status:** Verified PMID/DOI, external reference
 
 ---
 

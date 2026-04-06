@@ -2,12 +2,25 @@
 uid: Z-001-0920
 type: zettel
 title: Statin Pharmacogenomics — SLCO1B1
-aliases: [Z-001-0920, Z-001-0513-deprecated, Pharmacogenomics, SLCO1B1, CYP3A4, Statin-Response]
-domain: 001
-tags: [zettel, pharmacogenomics, slco1b1, cyp, statin-response]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+  - Z-001-0920
+  - Z-001-0513-deprecated
+  - Pharmacogenomics
+  - SLCO1B1
+  - CYP3A4
+  - Statin-Response
+domain: 1
+tags:
+  - zettel
+  - pharmacogenomics
+  - slco1b1
+  - cyp
+  - statin-response
+parent-moc:
+  - - MOC-Insulin-Signaling
 status: conscious
-source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]
+source-litnote: "[[LitNote_Statin_Pharmacology_L-001-0502]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]"
 extraction-date: 2026-03-01
 updated: 2026-03-05
 ---

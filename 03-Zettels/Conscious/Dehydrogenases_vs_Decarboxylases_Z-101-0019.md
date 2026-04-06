@@ -1,137 +1,68 @@
 ---
 uid: Z-101-0019
 type: zettel
-title: Dehydrogenases vs Decarboxylases Distinction
-aliases: [Z-101-0019, Dehydrogenase Decarboxylase Difference, Enzyme Classification]
+title: "Dehydrogenases vs Decarboxylases"
+aliases: ["Z-101-0019", "Dehydrogenases", "Decarboxylases", "Enzyme-Comparison"]
 domain: 101
-tags: [zettel, dehydrogenase, decarboxylase, enzyme-classification, redox, cofactors]
-parent-moc: [[MOC-Mitochondrial-Function]]
+tags: [zettel, dehydrogenases, decarboxylases, enzyme-mechanisms, redox, cofactors]
+parent-moc: "[[MOC-Enzyme-Mechanisms]]"
 status: conscious
-source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]"
+source-litnote: "[[L-101-0004_CoA_Synthesis_Decarboxylation_Enzymology_CGPT-0586]]"
+source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 extraction-date: 2026-03-02
 ---
 
-# Dehydrogenases vs Decarboxylases Distinction
+# Dehydrogenases vs Decarboxylases
 
-**Fundamental Difference:** These enzyme classes catalyze different chemical reactions with distinct s and cofactors.
+## Core Claim
+**Dehydrogenases and decarboxylases represent two fundamental enzyme classes in metabolism — with dehydrogenases catalyzing oxidation-reduction reactions by transferring electrons to NAD⁺ or FAD, while decarboxylases remove carboxyl groups as CO₂ — and many critical enzymes combining both activities (oxidative decarboxylation) to maximize energy extraction, as exemplified by pyruvate dehydrogenase, isocitrate dehydrogenase, and α-ketoglutarate dehydrogenase in the Krebs cycle.**
 
-## Core Distinctions
+## Evidence
 
+### Enzyme Class Comparison
 | Feature | Dehydrogenases | Decarboxylases |
 |---------|---------------|----------------|
-| **Primary reaction** | **Oxidation** — removal of hydrogen (H⁻) | **Decarboxylation** — removal of COOH |
-| **Byproduct** | NADH, FADH₂ (reduced cofactors) | CO₂ |
-| **Redox chemistry?** | **Yes** — electron transfer | **Usually no** — C-C bond cleavage |
-| **Typical cofactors** | NAD⁺, NADP⁺, FAD | TPP, PLP, biotin |
-| **Energy captured?** | Yes (reduced cofactors enter ETC) | No direct energy capture |
-| **Reaction type** | Redox | Lyase (C-C bond cleavage) |
+| **Reaction** | Oxidation-reduction | CO₂ removal |
+| **Cofactors** | NAD⁺, FAD | TPP, PLP, biotin |
+| **Products** | NADH/FADH₂ | CO₂ |
+| **Energy yield** | ATP via ETC | None directly |
+| **Examples** | LDH, MDH, PDH | Pyruvate decarboxylase, GAD |
 
-## Dehydrogenases — Examples
+### Oxidative Decarboxylation (Combined)
+| Enzyme | Dehydrogenation | Decarboxylation | Net Reaction |
+|--------|-----------------|-----------------|--------------|
+| **Pyruvate DH** | Pyruvate → Acetyl-lipoamide | → Acetyl-CoA + CO₂ | Pyruvate → Acetyl-CoA + CO₂ + NADH |
+| **Isocitrate DH** | Isocitrate → Oxalosuccinate | → α-KG + CO₂ | Isocitrate → α-KG + CO₂ + NADH |
+| **α-KG DH** | α-KG → Succinyl-lipoamide | → Succinyl-CoA + CO₂ | α-KG → Succinyl-CoA + CO₂ + NADH |
 
-**Alcohol Dehydrogenase:**
-```
-Ethanol + NAD⁺ → Acetaldehyde + NADH + H⁺
-```
-- Removes H⁻ from ethanol carbon
-- No CO₂ released
-- NAD⁺ reduced to NADH
+### Cofactor Requirements
+| Activity | Cofactors | Function |
+|----------|-----------|----------|
+| **Simple dehydrogenase** | NAD⁺ or FAD | Electron transfer |
+| **Simple decarboxylase** | TPP or PLP | Carbanion stabilization |
+| **Oxidative decarboxylase** | NAD⁺, TPP, lipoate, CoA, FAD | Both activities |
 
-**Lactate Dehydrogenase:**
-```
-Pyruvate + NADH + H⁺ → Lactate + NAD⁺
-```
-- Reversible reaction
-- No decarboxylation
-- Critical for anaerobic 
+### Clinical Relevance
+| Deficiency | Affected Enzyme | Manifestation |
+|------------|-----------------|---------------|
+| **B1 (Thiamine)** | PDH, α-KG DH, BCKDH | Lactic acidosis, neurological |
+| **B2 (Riboflavin)** | Multiple dehydrogenases | Fatigue, dermatitis |
+| **B3 (Niacin)** | NAD⁺-dependent DHs | Pellagra |
+| **B6 (Pyridoxine)** | Amino acid decarboxylases | Neuropathy, seizures |
 
-**Glucose-6-Phosphate Dehydrogenase:**
-```
-G6P + NADP⁺ → 6-Phosphogluconolactone + NADPH + H⁺
-```
-- First step of pentose phosphate pathway
-- Generates NADPH for biosynthesis and antioxidant defense
-
-## Decarboxylases — Examples
-
-**Pyruvate Decarboxylase (yeast):**
-```
-Pyruvate → Acetaldehyde + CO₂
-```
-- No redox chemistry
-- TPP-dependent
-- CO₂ released, no NADH formed
-
-**Glutamate Decarboxylase:**
-```
-Glutamate → GABA + CO₂
-```
-- PLP-dependent
-- Neurotransmitter synthesis
-- No electron transfer
-
-**Phosphopanthenoylcysteine Decarboxylase (PPCDC):**
-```
-4'-phosphopantothenoylcysteine → 4'-phosphopantetheine + CO₂
-```
-- CoA synthesis pathway
-- Mg²⁺-dependent
-- No redox chemistry
-
-## The Exception — Dual-Function Enzymes
-
-**Isocitrate Dehydrogenase (IDH):**
-
-**Step 1 — Dehydrogenation:**
-```
-Isocitrate + NAD⁺ → Oxalosuccinate + NADH + H⁺
-```
-- Oxidation of isocitrate
-- NAD⁺ reduced
-
-**Step 2 — Decarboxylation:**
-```
-Oxalosuccinate → α-ketoglutarate + CO₂
-```
-- CO₂ released
-- No redox chemistry
-
-**Overall:**
-```
-Isocitrate + NAD⁺ → α-ketoglutarate + CO₂ + NADH + H⁺
-```
-
-**Classification:** Called "dehydrogenase" because:
-1. Dehydrogenation step is mechanistically coupled to decarboxylation
-2. Redox chemistry is the energetically significant event
-3. Historical naming convention
-
-## Mnemonic for Distinction
-
-**"De-HYDROGEN-ase"** → removes **HYDROGEN**
-**"De-CARBOXYL-ase"** → removes **CARBOXYL (COOH)**
-
-##  Relevance
-
-**Understanding the distinction matters for:**
-1. **Interpreting metabolic panels:** Lactic acidosis (LDH-related) vs organic aciduria (decarboxylase-related)
-2. **Cofactor therapy:** B1/B2 for dehydrogenases vs B6 for decarboxylases
-3. **Enzyme defects:** Different inheritance patterns and clinical presentations
+## Clinical Implication
+- **Dual-function enzymes:** Maximize energy efficiency
+- **Cofactor overlap:** B vitamins support both reaction types
+- **Deficiency consequences:** Affect multiple pathways
+- **Diagnostic patterns:** Specific metabolites indicate blocks
+- **METHAP relevance:** Understanding enzyme mechanisms enables rational metabolic support
 
 ---
 
-*See also: [[Isocitrate_Dehydrogenase_Dual_Function_Z-101-0020]*
-
-
-## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-- 
+## Related
+- [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]] — Decarboxylase mechanism
+- [[CoA_Synthesis_Vitamin_B5_Pathway_Z-101-0017]] — CoA synthesis
+- [[Dehydrogenases_vs_Decarboxylases_Comparison_Z-001-1203]] — Domain 001 version
 
 ---
-
-## Connection to Vault
-
-- Up: [[MOC-Mitochondrial-Function]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
-
----
-parent-index: [[03-Zettels-Conscious]]
+*Source: [[L-101-0004_CoA_Synthesis_Decarboxylation_Enzymology_CGPT-0586]] | Inbox: [[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]*

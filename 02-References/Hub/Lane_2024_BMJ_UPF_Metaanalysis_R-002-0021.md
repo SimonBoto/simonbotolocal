@@ -19,9 +19,12 @@ parent-moc: "[[MOC-References-Active]]"
 Lane MM, Gamage E, Du S, et al. Ultra-processed food exposure and adverse health outcomes: umbrella review of epidemiological meta-analyses. BMJ. 2024;384:e077310.
 
 ## Source
+- **Primary source:** BMJ
+- **External source:** Not from Facebook Collection
 - **DOI:** 10.1136/bmj-2023-077310
 - **PMID:** 38355169
 - **URL:** https://www.bmj.com/content/384/bmj-2023-077310
+- **Status:** Verified PMID/DOI, external reference
 
 ---
 

@@ -19,10 +19,13 @@ parent-moc: "[[MOC-Clinical-Protocols]]"
 Polo-López A, Calatayud J, López-Bueno L, et al. Dose-response association of an accelerometer-measured physical activity with all-cause mortality and cardiovascular disease incidence: Prospective cohort study. *Prog Cardiovasc Dis*. 2024. doi:10.1016/j.pcad.2024.04.001
 
 ## Source
+- **Primary source:** Progress in Cardiovascular Diseases
+- **External source:** Not from Facebook Collection
 - **Journal:** Progress in Cardiovascular Diseases
 - **Year:** 2024
 - **Type:** Prospective cohort study
 - **DOI:** [10.1016/j.pcad.2024.04.001](https://doi.org/10.1016/j.pcad.2024.04.001)
+- **Status:** Verified DOI, external reference
 
 ---
 

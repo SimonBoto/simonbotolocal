@@ -1,67 +1,97 @@
 ---
 uid: Z-001-0545
 type: zettel
-title: Mevalonate Pathway — Enzymatic Steps
-aliases: [Mevalonate-Pathway, Isoprenoid, Cholesterol-Synthesis, Acetyl-CoA]
+title: Mevalonate Pathway Enzymatic Steps
+aliases: [Mevalonate-Pathway, Enzymatic-Steps, Cholesterol-Synthesis, Acetyl-CoA]
 domain: 001
-tags: [zettel, mevalonate-pathway, cholesterol, acetyl-coa, enzymatic-steps]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags: [zettel, mevalonate-pathway, enzymatic-steps, cholesterol-synthesis, acetyl-coa, hmg-coa-reductase]
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
-source-litnote: [[LitNote_Mevalonate_Pathway_L-001-0509]
+source-litnote: [[L-001-0509_Mevalonate_Pathway_CGPT-0393]]
 extraction-date: 2026-03-01
 ---
 
-# Mevalonate Pathway — Enzymatic Steps
+# Mevalonate Pathway Enzymatic Steps
 
-> The mevalonate pathway transforms acetyl-CoA into isoprenoid precursors through 13 enzymatic reactions.
+## Core Claim
+The mevalonate pathway converts acetyl-CoA to cholesterol through 13 discrete enzymatic steps across four phases, with HMG-CoA reductase serving as the committed rate-limiting enzyme that controls flux into all downstream isoprenoid products including cholesterol, CoQ10, and protein prenylation substrates.
 
-## Phase 1: Acetyl-CoA to HMG-CoA
+## Evidence
 
-| Step | Enzyme | Reaction |
-|------|--------|----------|
-| 1 | Thiolase | 2 Acetyl-CoA → Acetoacetyl-CoA |
-| 2 | HMG-CoA Synthase | + Acetyl-CoA → HMG-CoA |
-| 3 | **HMG-CoA Reductase** | + NADPH → Mevalonate (RATE-LIMITING) |
+### Phase 1: Acetyl-CoA to Mevalonate (Steps 1-3)
 
-## Phase 2: Mevalonate to IPP
+| Step | Reaction | Enzyme | Significance |
+|------|----------|--------|--------------|
+| 1 | 2 Acetyl-CoA → Acetoacetyl-CoA + CoA | Thiolase | Condensation of 2C units |
+| 2 | Acetoacetyl-CoA + Acetyl-CoA → HMG-CoA + CoA | HMG-CoA Synthase | Forms 6C backbone |
+| 3 | HMG-CoA + 2 NADPH → Mevalonate + 2 NADP⁺ + CoA | **HMG-CoA Reductase** | **RATE-LIMITING STEP** |
 
-| Step | Enzyme | Product |
-|------|--------|---------|
-| 4 | Mevalonate Kinase | Mevalonate-5-Phosphate |
-| 5 | Phosphomevalonate Kinase | Mevalonate-5-Pyrophosphate |
-| 6 | Decarboxylase | **IPP** (5-carbon) |
+**HMG-CoA Reductase Characteristics:**
+- Location: ER membrane (cytosolic domain active)
+- Regulation: SREBP-2 transcriptional, AMPK phosphorylation, sterol-dependent degradation
+- Inhibition: Statins (competitive, 10,000x affinity)
 
-## Phase 3: Isoprenoid Assembly
+### Phase 2: Mevalonate to IPP (Steps 4-6)
 
-| Step | Enzyme | Product |
-|------|--------|---------|
-| 7 | IPP Isomerase | DMAPP |
-| 8 | Geranyl Transferase | GPP (C10) |
-| 9 | FDPS | **FPP** (C15) — BRANCH POINT |
+| Step | Reaction | Enzyme | Significance |
+|------|----------|--------|--------------|
+| 4 | Mevalonate + ATP → Mevalonate-5-P + ADP | Mevalonate Kinase (MVK) | First phosphorylation |
+| 5 | Mevalonate-5-P + ATP → Mevalonate-5-PP + ADP | PMVK | Second phosphorylation |
+| 6 | Mevalonate-5-PP + ATP → IPP + ADP + CO₂ | MVD | Forms 5C isoprenoid unit |
 
-## Phase 4: To Products
+**Clinical Note:** MVK deficiency causes mevalonate kinase deficiency (periodic fever syndrome).
 
-| Step | Enzyme | Product |
-|------|--------|---------|
-| 10 | Squalene Synthase | Squalene (C30) |
-| 11-13 | Multiple | **** (C27) |
+### Phase 3: Isoprenoid Assembly (Steps 7-9)
+
+| Step | Reaction | Enzyme | Product |
+|------|----------|--------|---------|
+| 7 | IPP ↔ DMAPP | IPP Isomerase | Isomerization |
+| 8 | DMAPP + IPP → GPP + PPi | FDPS | Geranyl pyrophosphate (C10) |
+| 9 | GPP + IPP → FPP + PPi | FDPS | Farnesyl pyrophosphate (C15) |
+
+**FPP is the critical branch point** for all downstream products.
+
+### Phase 4: Final Products (Steps 10-13)
+
+| Step | Reaction | Product |
+|------|----------|---------|
+| 10 | 2 FPP + NADPH → Squalene + 2 PPi | Squalene (C30) |
+| 11 | Squalene + O₂ + NADPH → Squalene-2,3-epoxide | Epoxidation |
+| 12 | Squalene-2,3-epoxide → Lanosterol | Cyclization |
+| 13 | Lanosterol → Cholesterol (19+ steps) | Cholesterol (C27) |
+
+**Energetic Cost:** 18 ATP equivalents, 14 NADPH per cholesterol molecule.
+
+## Clinical Implication
+
+**Statin Therapy:**
+- Blocks Step 3 (HMG-CoA reductase)
+- Reduces ALL downstream products
+- Cholesterol ↓ 30-60%
+- CoQ10 ↓ 40-50% (unintended consequence)
+
+**Monitoring:**
+- Lipid panel for cholesterol response
+- CoQ10 level (optional)
+- Muscle symptoms (myopathy indicator)
+
+## METHAP Relevance
+
+**Protocol Integration:**
+- CoQ10 supplementation mandatory with statins
+- Vitamin D3 synthesis requires cholesterol substrate
+- Nutrient cofactors support pathway: Mg, B3 (NADPH), B5 (CoA), Zn
 
 ---
 
-*Source: [[LitNote_Mevalonate_Pathway_L-001-0509]*
+## Related Zettels
+- [[HMG_CoA_Reductase_Regulation_Z-001-0546]] — HMGCR regulation
+- [[Mevalonate_Branch_Points_Z-001-0547]] — FPP branch point
+- [[Mevalonate_Clinical_Implications_Z-001-0548]] — Statin pharmacology
+- [[Mevalonate_METHAP_Integration_Z-001-0549]] — METHAP integration
 
-
-## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
-- 
-- [[Mevalonate_Branch_Points_Z-001-0547]|Z-001-0547]
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Source
+[[L-001-0509_Mevalonate_Pathway_CGPT-0393]]
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+parent-index: [[03-Zettels]]

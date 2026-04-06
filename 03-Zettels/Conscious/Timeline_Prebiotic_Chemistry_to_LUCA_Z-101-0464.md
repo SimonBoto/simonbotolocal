@@ -1,136 +1,70 @@
 ---
 uid: Z-101-0464
 type: zettel
-title: "Timeline: Prebiotic Chemistry to LUCA"
-aliases: [Z-101-0464, prebiotic-timeline, luca-timeline, evolution-timeline]
+title: "Timeline — Prebiotic Chemistry to LUCA"
+aliases: ["Z-101-0464", "Prebiotic-Timeline", "LUCA-Timeline", "Evolution-Timeline"]
 domain: 101
-tags: [zettel, timeline, evolution, prebiotic, luca, origin-of-life]
-parent-moc: [[MOC-Vitamin-Metabolism]]
+tags: [zettel, timeline, evolution, prebiotic, luca, origin-of-life, deep-time]
+parent-moc: "[[MOC-Origins-of-Life]]"
 status: conscious
-created: 2026-03-04
-source: [[L-101-0045B]
+source-litnote: "[[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]]"
+source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+extraction-date: 2026-03-04
 ---
 
-# Timeline: Prebiotic Chemistry to LUCA
+# Timeline — Prebiotic Chemistry to LUCA
 
-## The Deep Time Scale
+## Core Claim
+**Life emerged through distinct phases over ~1 billion years: prebiotic chemistry (4.2-4.0 BYA) produced nucleobases and organic molecules; the RNA world (4.0-3.8 BYA) established self-replicating genetic systems; and LUCA (Last Universal Common Ancestor, 3.8-3.5 BYA) possessed the core metabolic pathways conserved across all life** — ATP as energy currency and the genetic code were established by LUCA and remain unchanged for ~3.5-4 billion years.
 
-```
-4.5 BYA ────────────────────────────────────────────────► Present
-  │
-  ├── 4.5 BYA: Earth forms (Hadean Eon begins)
-  │
-  ├── 4.4 BYA: Oceans condense (zircon evidence)
-  │
-  ├── 4.2-4.0 BYA: PREBIOTIC CHEMISTRY PEAK
-  │   ├── HCN polymerization → adenine
-  │   ├── Formamide chemistry → nucleobases
-  │   ├── Ribose formation (formose reaction?)
-  │   └── Meteoritic delivery of organics
-  │
-  ├── 4.0-3.8 BYA: RNA WORLD EMERGENCE
-  │   ├── First ribozymes (self-replicating RNA?)
-  │   ├── Proto-
-  │   └── Compartmentalization (lipid vesicles)
-  │
-  ├── 3.8-3.5 BYA: LAST UNIVERSAL COMMON ANCESTORS (LUCA)
-  │   ├── DNA emerges (more stable than RNA)
-  │   ├── Protein enzymes take over catalysis
-  │   ├── Universal genetic code established
-  │   └── Core metabolism (, Krebs cycle)
-  │
-  ├── 3.5 BYA: Earliest fossil evidence (stromatolites)
-  │
-  ├── 2.4 BYA: GREAT OXYGENATION EVENT
-  │   └── Cyanobacteria oxygenate atmosphere
-  │
-  └── 1.5 BYA: Eukaryotes emerge (endosymbiosis)
-```
+## Evidence
 
-## Key Milestones
+### Deep Time Scale
+| Time | Event | Evidence |
+|------|-------|----------|
+| **4.5 BYA** | Earth forms | Hadean Eon begins |
+| **4.4 BYA** | Oceans condense | Zircon crystals |
+| **4.2-4.0 BYA** | **PREBIOTIC CHEMISTRY** | HCN/formamide → nucleobases |
+| **4.0-3.8 BYA** | **RNA WORLD** | First ribozymes, proto-metabolism |
+| **3.8-3.5 BYA** | **LUCA** | DNA, protein enzymes, core metabolism |
 
-### Prebiotic Chemistry (4.2-4.0 BYA)
-**Key insight:** Adenine predates oxygen by ~1.5 billion years
+### Prebiotic Chemistry Phase (4.2-4.0 BYA)
+| Process | Products |
+|---------|----------|
+| HCN polymerization | Adenine |
+| Formamide chemistry | All nucleobases |
+| Meteoritic delivery | Organic inventory |
+| Ribose formation | RNA backbone |
 
-**Required conditions:**
-- Anoxic atmosphere (CH₄, NH₃, H₂O, H₂)
-- Energy sources (UV, lightning, volcanism)
-- Liquid water
-- Concentration s (evaporation, minerals)
+### RNA World Phase (4.0-3.8 BYA)
+| Development | Significance |
+|-------------|--------------|
+| Self-replicating RNA | First genetic system |
+| Ribozymes | First catalysts |
+| Compartmentalization | Lipid vesicles |
+| Proto-metabolism | Energy capture |
 
-### RNA World (4.0-3.8 BYA)
-**Transition from chemistry to biology:**
-- Self-replicating molecules
-- Natural selection begins
-- Metabolic networks emerge
+### LUCA Phase (3.8-3.5 BYA)
+| Innovation | Modern Legacy |
+|------------|---------------|
+| **DNA genome** | Stable information storage |
+| **Protein enzymes** | Efficient catalysis |
+| **Core metabolism** | Glycolysis, Krebs cycle |
+| **ATP energy** | Universal currency |
+| **Genetic code** | Universal translation |
 
-### LUCA (3.8-3.5 BYA)
-**Last Universal Common Ancestor characteristics:**
-- DNA genome
-- Protein enzymes
-- Membrane-bound
-- Core metabolic pathways:
-  - Glycolysis
-  - Pentose phosphate pathway
-  - Amino acid biosynthesis
-- ATP as energy currency
+## Clinical Implication
+- **Deep conservation:** Core metabolism unchanged for billions of years
+- **ATP universality:** Structure optimized by 4 billion years of evolution
+- **Evolutionary medicine:** Understanding origins informs disease mechanisms
+- **METHAP relevance:** Metabolic pathways are ancient and highly conserved — supporting them with optimal nutrition honors this deep evolutionary heritage
 
-## Uncertainties
-
-### Major Questions
-1. **Where did life originate?**
-   - Deep sea vents?
-   - Evaporating ponds?
-   - Wet-dry cycles on volcanic islands?
-
-2. **What came first?**
-   - Metabolism first (self-sustaining reactions)?
-   - Genetics first (self-replicating molecules)?
-   - Compartments first (lipid vesicles)?
-
-3. **Was LUCA alone?**
-   - Multiple origins (failed lineages)?
-   - Horizontal gene transfer blurred boundaries?
-
-## Evidence Sources
-
-### Geological
-- Zircon crystals (4.4 BYA)
-- Banded iron formations (2.4 BYA)
-- Stromatolites (3.5 BYA)
-
-### Molecular
-- Ribosome structure (ancient core)
-- Universal metabolic pathways
-- Genetic code near-universality
-
-### Astrobiological
-- Martian meteorites (ALH 84001)
-- Comet 67P organic compounds
-- Interstellar molecule detections
+---
 
 ## Related
-- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]] HCN Polymerization
-- [[RNA_World_Hypothesis_Evolution_Z-101-0456]] RNA World Hypothesis
-- [[Formamide_Chemistry_Prebiotic_Pathway_Z-101-0463]] Formamide Chemistry
-- 
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]] — Prebiotic chemistry
+- [[RNA_World_Hypothesis_Evolution_Z-101-0456]] — RNA world
+- [[Evolutionary_Ancient_Glycolysis_Z-001-0470]] — Conserved metabolism
 
 ---
-*Source: CGPT-0445 extraction | Created: 2026-03-04*
-
-
-## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-- 
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Vitamin-Metabolism]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
-
----
-parent-index: [[03-Zettels-Conscious]]
+*Source: [[L-101-0045B_Prebiotic_Chemistry_HCN_Adenine_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

@@ -2,74 +2,141 @@
 uid: Z-001-0551
 type: zettel
 title: Selenium Mitochondrial Antioxidant
-aliases: [Selenium, GPx, Thioredoxin, Selenocysteine]
+aliases: [Selenium, GPx, Glutathione-Peroxidase, Thioredoxin-Reductase, Selenocysteine]
 domain: 001
-tags: [zettel, selenium, gpx, thioredoxin, antioxidant]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags: [zettel, selenium, gpx, glutathione-peroxidase, thioredoxin-reductase, selenocysteine, antioxidant]
+parent-moc: [[MOC-Mitochondrial-Function]]
 status: conscious
-source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]
+source-litnote: [[L-001-0510_Zinc_Selenium_Mitochondrial_CGPT-0393]]
 extraction-date: 2026-03-01
 ---
 
-# Selenium l Antioxidant
+# Selenium Mitochondrial Antioxidant
 
-> Selenium is essential component of GPx and thioredoxin reductase, protecting mitochondria from oxidative damage.
+## Core Claim
+Selenium, incorporated as selenocysteine (the 21st amino acid) into glutathione peroxidase (GPx) and thioredoxin reductase (TrxR), provides critical antioxidant defense in mitochondria by reducing hydrogen peroxide to water and maintaining protein redox status, with deficiency causing severe oxidative stress and cardiomyopathy (Keshan disease).
 
-## Glutathione Peroxidase (GPx)
+## Evidence
 
-**Active Site:** Selenocysteine (21st amino acid)
+### Glutathione Peroxidase (GPx) Family
 
-**Reaction:**
+**Selenocysteine at Active Site:**
+- Sec encoded by UGA codon (usually stop codon)
+- Requires selenium for protein synthesis
+- More reactive than cysteine due to lower pKa
+- Essential for catalytic activity
+
+**GPx1 (Cytosolic and Mitochondrial):**
 ```
 2 GSH + H₂O₂ → GSSG + 2 H₂O
 ```
+- Reduces hydrogen peroxide to water
+- Uses glutathione as electron donor
+- Protects against oxidative damage
 
-**GPx4 Special Role:**
-- Reduces lipid peroxides
-- Protects  membranes
-- Prevents ferroptosis
+**GPx4 (Phospholipid Hydroperoxide GPx):**
+- Unique: Reduces lipid hydroperoxides
+- Protects mitochondrial membranes
+- Prevents ferroptosis (iron-dependent cell death)
+- Essential for cell survival
 
-## Thioredoxin Reductase (TrxR)
+### Thioredoxin Reductase (TrxR)
 
-**Function:**
+**Structure and Function:**
+- Contains selenocysteine at C-terminus
+- FAD cofactor, NADPH-dependent
+- Maintains thioredoxin in reduced state
+
+**Catalytic Cycle:**
 ```
-NADPH + Trx-S₂ → NADP⁺ + Trx-(SH)₂
+NADPH + TrxR → NADP⁺ + TrxR-reduced
+TrxR-reduced + Trx-oxidized → TrxR + Trx-reduced
 ```
 
-**Roles:**
-- Maintains protein redox status
-- DNA synthesis/repair
-- Apoptosis regulation
+**Thioredoxin System Roles:**
+- Regulates metabolic enzyme activity
+- Protects against oxidative stress
+- Controls cell proliferation
+- Mitochondrial biogenesis signaling
 
-## Deficiency
+### Mitochondrial Selenoproteins
 
-- Reduced GPx activity
-- H₂O₂ accumulation
-- Lipid peroxidation
-- Keshan disease (cardiomyopathy)
+| Selenoprotein | Location | Function |
+|---------------|----------|----------|
+| **GPx1** | Matrix | General H₂O₂ reduction |
+| **GPx4** | Membranes | Lipid peroxide reduction |
+| **TrxR2** | Matrix | Thioredoxin reduction |
+| **Selenoprotein H** | Nucleus/mitochondria | Transcription regulation |
+| **Selenoprotein O** | Mitochondria | Unknown (redox sensing?) |
 
-## Status
+### Selenium Deficiency Consequences
 
-- **RDA:** 55-70 μg/day
-- **Upper limit:** 400 μg/day
-- **Plasma:** 70-150 μg/L
+**Molecular Effects:**
+- Reduced GPx activity (40-50% with mild deficiency)
+- Accumulation of H₂O₂
+- Lipid peroxidation of membranes
+- Mitochondrial dysfunction
+
+**Systemic Manifestations:**
+- **Keshan disease:** Endemic cardiomyopathy (China)
+- Muscle weakness and pain
+- Immune dysfunction
+- Thyroid dysfunction (selenium required for deiodinases)
+- Increased viral virulence
+
+### Selenium Toxicity (Selenosis)
+
+**Symptoms:**
+- Garlic breath odor
+- Hair and nail brittleness/loss
+- Gastrointestinal distress
+- Neurological abnormalities
+- Fatigue
+
+**Threshold:** >1000 μg/day (chronic)
+
+## Clinical Implication
+
+**Assessment:**
+- Plasma selenium: 70-150 μg/L
+- RBC selenium (longer-term status)
+- GPx activity (functional assessment)
+- Geographic considerations (soil content varies)
+
+**Supplementation:**
+- Form: Selenomethionine or selenocysteine
+- Dose: 100-200 μg daily
+- Upper limit: 400 μg/day
+- **Caution:** Brazil nuts vary wildly (50-500 μg/nut)
+
+**Dietary Sources:**
+- **Brazil nuts:** Highest (but variable)
+- **Seafood:** Tuna, sardines, shrimp
+- **Animal:** Turkey, chicken, eggs
+- **Plant:** Highly variable by soil content
+
+**Regional Variation:**
+- Keshan disease areas: Severe deficiency
+- Some regions: Excess (selenosis)
+- Testing important in high-risk areas
+
+## METHAP Relevance
+
+**Protocol Integration:**
+- Include selenium in micronutrient panel
+- Supplement if deficient or in low-selenium regions
+- Balance with other antioxidants (vitamin E, C)
+- Support thyroid function alongside iodine
 
 ---
 
-*Source: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]*
+## Related Zettels
+- [[Zinc_Mitochondrial_Function_Z-001-0550]] — Zinc mitochondrial roles
+- [[Zn_Se_Synergistic_OXPHOS_Protection_Z-001-0552]] — Combined protection
+- [[Zn_Se_Nutritional_Sources_Supplementation_Z-001-0553]] — Sources and dosing
 
-
-## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
-- 
-- _Zinc_Selenium_Z-001-1015]|Z-001-1015]
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Source
+[[L-001-0510_Zinc_Selenium_Mitochondrial_CGPT-0393]]
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+parent-index: [[03-Zettels]]

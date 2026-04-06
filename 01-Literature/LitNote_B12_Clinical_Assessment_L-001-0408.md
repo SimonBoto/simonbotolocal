@@ -1,17 +1,19 @@
 ---
 uid: L-001-0408
 type: lit-note
-title: "Lit — B12 Clinical Assessment and Reference Ranges (Optimal vs. Standard)"
+title: Lit — B12 Clinical Assessment and Reference Ranges (Optimal vs. Standard)
 authors: ChatGPT synthesis from Optimal Biochemical Ranges (CGPT-0113)
 year: 2024
 journal: Internal clinical synthesis
 tier: SILVER
 relevance: High — Clinical decision-making, optimal vs. standard ranges, METHAP monitoring
 status: extracted
-parent-moc: [[MOC-Biomarkers]]
-parent-index: [[02-Literature]]
+parent-moc:
+  - - MOC-Biomarkers
+parent-index:
+  - - 02-Literature
 extraction-date: 2026-03-01
-source: "[[CGPT_0113_Optimal_Biochemical_Ranges_Assessment_CGPT-0113]]"
+source: "[[00-Inbox/Processed/CGPT_0113_Optimal_Biochemical_Ranges_Assessment_CGPT-0113]]"
 ---
 
 # Lit: B12 Clinical Assessment and Reference Ranges

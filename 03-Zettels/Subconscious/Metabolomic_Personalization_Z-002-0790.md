@@ -1,0 +1,48 @@
+---
+uid: Z-002-0790
+type: zettel
+title: "Standard Vitamin D Dosing Is Inadequate for Most Patients"
+aliases: ["Z-002-0790", "Standard-Vitamin-D-Inadequate"]
+domain: 002
+status: conscious
+tags: [zettel, vitamin-d, dosing, inadequacy, target-d, rda]
+parent-index: "[[03-Zettels-Conscious]]"
+parent-moc: "[[MOC-Nutrition]]"
+source-litnote: "[[L-002-0217_Personalized_Nutrition_Halves_CVD]]"
+source-reference: "[[May_2025_TARGET_D_Vitamin_D_Personalized_R-002-0055]]"
+related: []
+---
+
+# Standard Vitamin D Dosing Is Inadequate for Most Patients
+
+## Core Claim
+**Standard fixed-dose vitamin D supplementation (e.g., 800 IU/day) is inadequate for most patients to reach optimal levels** — the TARGET-D study found 85% of participants started below 40 ng/mL, and nearly half needed >5,000 IU/day to reach target, suggesting current FDA recommendations are insufficient for many individuals.
+
+## The Evidence
+
+### Baseline Deficiency
+- **85% below 40 ng/mL** at study entry
+- Despite levels considered "adequate" by conventional standards
+- Widespread suboptimal status in CVD patients
+
+### Dosing Requirements
+| Metric | Finding |
+|--------|---------|
+| **FDA recommendation** | 800 IU/day |
+| **Required for many** | >5,000 IU/day |
+| **Ratio** | 6x FDA recommendation |
+| **Adjustment frequency** | Every 3 months |
+
+### Why Standard Dosing Fails
+- Individual variation in absorption and metabolism
+- Baseline status varies dramatically
+- Fixed doses cannot account for individual needs
+- Blood testing required to assess adequacy
+
+## Clinical Implications
+- RDA may be insufficient for high-risk populations
+- Individualized dosing based on blood levels is necessary
+- "Test, don't guess" approach to micronutrient repletion
+
+---
+*Source: [[May_2025_TARGET_D_Vitamin_D_Personalized_R-002-0055]]*

@@ -2,131 +2,67 @@
 uid: Z-001-1131
 type: zettel
 title: Multiple Myeloma CRAB Features Diagnosis
-aliases: [Z-001-1131, MM-CRAB]
+aliases: [Multiple-Myeloma, CRAB, Diagnosis, Hypercalcemia, Renal, Anemia, Bone]
 domain: 001
-domain-name: Hematology Oncology
-tags: [zettel, multiple-myeloma, crab, diagnosis]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]
-source: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]
-confidence: high
-created: 2026-03-08
+tags: [zettel, multiple-myeloma, crab, diagnosis, hypercalcemia, renal, anemia, bone]
+parent-moc: [[MOC-Cancer-Therapy]]
+status: conscious
+source-litnote: [[L-001-0612_Multiple_Myeloma_Comprehensive_CGPT-0264]]
+extraction-date: 2026-03-08
 ---
 
 # Multiple Myeloma CRAB Features Diagnosis
 
-## Overview
-Multiple myeloma is characterized by the CRAB features—hyperCalcemia, Renal impairment, Anemia, and Bone lesions—reflecting end-organ damage from malignant plasma cell proliferation.
+## Core Claim
+Multiple myeloma is characterized by CRAB features—hypercalcemia, renal dysfunction, anemia, and bone lesions—resulting from clonal plasma cell proliferation and monoclonal protein production, with these clinical manifestations serving as key diagnostic criteria and indicators of end-organ damage requiring treatment.
 
-## The CRAB Criteria
+## Evidence
 
-### C - HyperCalcemia
-| Cause | Mechanism |
-|-------|-----------|
-| **Osteoclast activation** | RANKL-driven bone resorption |
-| **Bone destruction** | Cytokines (IL-6, TNF-α) |
-| **Symptoms** | Constipation, confusion, polyuria, dehydration |
+### CRAB Features
 
-**Threshold:** Serum calcium >11 mg/dL or >1 mg/dL above upper limit
+| Feature | Mechanism | Clinical Manifestation |
+|---------|-----------|------------------------|
+| **C**alcium (hypercalcemia) | Osteoclast activation | Fatigue, confusion, constipation, polyuria |
+| **R**enal dysfunction | Light chain toxicity, hypercalcemia | Proteinuria, elevated creatinine |
+| **A**nemia | Bone marrow infiltration | Fatigue, weakness, pallor |
+| **B**one lesions | Osteoclast activation, osteoblast inhibition | Pain, fractures, lytic lesions |
 
-### R - Renal Impairment
-| Cause | Mechanism |
-|-------|-----------|
-| **Light chain cast nephropathy** | Bence Jones proteins (myeloma kidney) |
-| **Hypercalcemia** | Dehydration, nephrocalcinosis |
-| **Amyloidosis** | Light chain deposition |
+### Pathophysiology
 
-**Manifestations:**
-- Elevated creatinine
-- Proteinuria (often monoclonal)
-- Tubular dysfunction
+**Plasma Cell Proliferation:**
+- Clonal expansion in bone marrow
+- Monoclonal protein (M-spike) production
+- Cytokine release (IL-6, RANKL)
+- Bone destruction
 
-### A - Anemia
-| Cause | Mechanism |
-|-------|-----------|
-| **Bone marrow infiltration** | Plasma cells crowd out erythropoiesis |
-| **EPO deficiency** | Kidney damage reduces production |
-| **Chronic disease** | Inflammatory cytokines |
+**Bone Disease:**
+- Lytic lesions on X-ray
+- Pathologic fractures
+- Hypercalcemia from bone resorption
+- Bone pain (most common symptom)
 
-**Typical:** Normocytic, normochromic
+## Clinical Implication
 
-### B - Bone Lesions
-| Characteristic | Description |
-|----------------|-------------|
-| **Lytic lesions** | Punched-out appearance on X-ray |
-| **Osteoporosis** | Diffuse bone loss |
-| **Pathologic fractures** | Vertebrae, ribs, long bones |
-| **Bone pain** | Back pain most common |
+**Diagnosis:**
+- CRAB features = symptomatic myeloma
+- Requires treatment
+- Differentiate from MGUS, smoldering
 
-**Mechanism:** RANKL/OPG imbalance → osteoclast activation
-
-## Related Conditions
-
-### SLiM Criteria (s of Malignancy)
-| Feature | Threshold |
-|---------|-----------|
-| **S**ixty percent plasma cells | ≥60% clonal BM plasma cells |
-| **Li**ght chain ratio | Involved/uninvolved FLC ratio ≥100 |
-| **M**RI lesions | >1 focal lesion (≥5mm) |
-
-**Note:** SLiM CRAB = Myeloma-defining events
-
-## Smoldering Multiple Myeloma (SMM)
-| Feature | Criteria |
-|---------|----------|
-| **Asymptomatic** | No CRAB features |
-| **Plasma cells** | ≥10% but no end-organ damage |
-| **M-protein** | ≥3 g/dL |
-| **Risk** | 10% per year progression to active MM |
-
-## Monoclonal Gammopathy of Undetermined Significance (MGUS)
-| Feature | Criteria |
-|---------|----------|
-| **M-protein** | <3 g/dL |
-| **Plasma cells** | <10% BM |
-| **No CRAB** | No end-organ damage |
-| **Risk** | 1% per year progression |
-
-## Clinical Presentation
-
-### Common Symptoms
-| Symptom | Mechanism |
-|---------|-----------|
-| **Bone pain** | Lytic lesions, fractures |
-| **Fatigue** | Anemia |
-| **Weight loss** | Cytokines, hyper |
-| **Infections** | Immunodeficiency (hypogammaglobulinemia) |
-| **Neuropathy** | Amyloidosis, vertebral compression |
-
-### Physical Findings
-| Finding | Significance |
-|---------|--------------|
-| **Bone tenderness** | Active disease |
-| **Hepatosplenomegaly** | Extramedullary disease |
-| **Pallor** | Anemia |
-| **Edema** | Nephrotic syndrome, heart failure |
-
-## Related
-- [[Multiple_Myeloma_Diagnostic_Criteria_Workup_Z-001-1132]
-- [[Multiple_Myeloma_Staging_ISS_R-ISS_Z-001-1133]
-- 
-
----
-*Source: CGPT-0264 — Warburg effect and cancer*
-
-## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]
-- /CRP_[B-002-0001]|Biomarker Family Guide]
-- 
-
+**Management:**
+- Treat underlying myeloma
+- Supportive care for complications
+- Bisphosphonates for bone disease
+- Hydration for renal protection
 
 ---
 
-## Connection to Vault
+## Related Zettels
+- [[Multiple_Myeloma_Diagnostic_Criteria_Workup_Z-001-1132]] — Diagnostic criteria
+- [[Multiple_Myeloma_Staging_ISS_R-ISS_Z-001-1133]] — Staging
+- [[Multiple_Myeloma_Treatment_Modern_Approach_Z-001-1134]] — Treatment
 
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Source
+[[L-001-0612_Multiple_Myeloma_Comprehensive_CGPT-0264]]
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+parent-index: [[03-Zettels]]

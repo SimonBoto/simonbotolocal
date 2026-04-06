@@ -1,17 +1,19 @@
 ---
 uid: L-001-0404
 type: lit-note
-title: "Lit — B12 Deficiency Mimicking Multiple Myeloma (Diagnostic Differentiation)"
+title: Lit — B12 Deficiency Mimicking Multiple Myeloma (Diagnostic Differentiation)
 authors: ChatGPT synthesis from Warburg Effect conversation (CGPT-0264)
 year: 2024
 journal: Internal clinical synthesis
 tier: SILVER
 relevance: High — Diagnostic challenge, clinical pearls, bone marrow interpretation
 status: extracted
-parent-moc: [[MOC-Biomarkers]]
-parent-index: [[02-Literature]]
+parent-moc:
+  - - MOC-Biomarkers
+parent-index:
+  - - 02-Literature
 extraction-date: 2026-03-01
-source: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+source: "[[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 ---
 
 # Lit: B12 Deficiency Mimicking Multiple Myeloma

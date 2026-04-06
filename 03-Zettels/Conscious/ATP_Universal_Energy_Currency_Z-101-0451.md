@@ -1,59 +1,66 @@
 ---
 uid: Z-101-0451
 type: zettel
-title: ATP as Universal Energy Currency
-aliases: [Z-101-0451, ATP-energy-currency]
+title: "ATP as Universal Energy Currency"
+aliases: ["Z-101-0451", "ATP", "Energy-Currency", "Evolution", "Adenosine"]
 domain: 101
 tags: [zettel, atp, energy-metabolism, adenosine, evolution, universal-biochemistry]
-parent-moc: MOC-Bone-Health
+parent-moc: "[[MOC-Energy-Metabolism]]"
 status: conscious
-created: 2026-03-04
-source-litnote: [[LitNote_Adenosine_Adenine_Biochemistry_L-101-0045A]]
+source-litnote: "[[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]]"
+source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+extraction-date: 2026-03-04
 ---
 
 # ATP as Universal Energy Currency
 
-## Core Principle
-ATP (adenosine triphosphate) serves as the **universal energy currency** across all domains of life — from archaea to mammals.
+## Core Claim
+**ATP (adenosine triphosphate) serves as the universal energy currency across all domains of life — its structure (adenine + ribose + three phosphates) has been conserved for ~4 billion years, with high-energy phosphoanhydride bonds providing ~30.5 kJ/mol upon hydrolysis to drive all cellular work** — this universality is among the strongest evidence for common ancestry of all life.
 
-## Structure
-- **Adenine** (nitrogenous base)
-- **Ribose** (5-carbon sugar)
-- **Three phosphate groups** (α, β, γ)
+## Evidence
 
-## Energy Release
-```
-ATP + H₂O → ADP + Pi    ΔG°' = -30.5 kJ/mol
-ATP + H₂O → AMP + PPi   ΔG°' = -45.6 kJ/mol
-```
+### Structure
+| Component | Function |
+|-----------|----------|
+| **Adenine** | Nitrogenous base (purine) |
+| **Ribose** | 5-carbon sugar backbone |
+| **α-phosphate** | Links to ribose |
+| **β-phosphate** | High-energy bond |
+| **γ-phosphate** | High-energy bond (primary hydrolysis site) |
 
-High-energy phosphoanhydride bonds drive:
-- Muscle contraction
-- Nerve impulse propagation  
-- Chemical synthesis
-- Active transport
+### Energy Release
+| Reaction | ΔG°' | Use |
+|----------|------|-----|
+| **ATP → ADP + Pi** | -30.5 kJ/mol | Most cellular work |
+| **ATP → AMP + PPi** | -45.6 kJ/mol | Biosynthesis |
 
-## ary Significance
-Conserved for ~4 billion years — strongest evidence for common ancestry of all life.
+### Cellular Work Powered
+| Process | ATP Function |
+|---------|--------------|
+| **Muscle contraction** | Myosin ATPase |
+| **Nerve impulses** | Na⁺/K⁺-ATPase |
+| **Biosynthesis** | Phosphorylation, condensation |
+| **Active transport** | Ion pumps |
+
+### Evolutionary Conservation
+| Domain | ATP Use |
+|--------|---------|
+| **Archaea** | Universal |
+| **Bacteria** | Universal |
+| **Eukaryotes** | Universal |
+
+## Clinical Implication
+- **Mitochondrial disease:** Impaired ATP production
+- **Ischemia:** ATP depletion → cell death
+- **Exercise:** ATP turnover increases 100-fold
+- **METHAP relevance:** ATP production depends on B-vitamins (B1, B2, B3, B5) for oxidative metabolism; supporting mitochondria supports ATP synthesis
+
+---
 
 ## Related
-- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]] Adenosine Receptors and Sleep Regulation
-- [[Purine_vs_Pyrimidine_Structure_Z-101-0453]] Purine vs Pyrimidine 
-- [[Ribose_Structure_RNA_Backbone_Z-001-0458]] Pentose Phosphate Pathway (ribose source)
+- [[Adenosine_Receptors_Sleep_Regulation_Z-101-0452]] — Adenosine signaling
+- [[Ribose_Structure_RNA_Backbone_Z-001-0458]] — Ribose component
+- [[HCN_Polymerization_Adenine_Mechanism_Z-101-0454]] — Adenine origins
 
 ---
-*Source: CGPT-0445 extraction | Created: 2026-03-04*
-
-
-## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]
-
----
-
-## Connection to Vault
-
-- Up: MOC-Bone-Health
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
-
----
-parent-index: [[03-Zettels-Conscious]]
+*Source: [[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

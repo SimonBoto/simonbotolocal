@@ -1,82 +1,43 @@
 ---
-uid: "R-001-0004"
+uid: R-001-0004
 type: reference
-title: "Metabolomics: an emerging but powerful tool for precision medicine"
+title: "Clish 2015 — Metabolomics: An Emerging Tool for Precision Medicine"
+aliases: ["Clish2015", "Metabolomics-Precision-Medicine", "Mol-Case-Stud-2015"]
 authors: "Clish CB"
 year: "2015"
 journal: "Molecular Case Studies"
 doi: "10.1101/mcs.a000588"
 pmid: "27158616"
-zotero: ""
-tier: "2"
-status: "ref"
+tier: "GOLD"
+status: active
+parent-moc: "[[MOC-Metabolomics]]"
 ---
 
-# Metabolomics: an emerging but powerful tool for precision me
+# Clish 2015 — Metabolomics: An Emerging Tool for Precision Medicine
 
-> **Clish CB et al. (2015)**  
-> *Molecular Case Studies*  
-> DOI: [10.1101/mcs.a000588](https://doi.org/10.1101/mcs.a000588) | PMID: [27158616](https://pubmed.ncbi.nlm.nih.gov/27158616)
+## Citation
+Clish CB. Metabolomics: an emerging but powerful tool for precision medicine. Mol Case Stud. 2015;1(1):a000588. doi:10.1101/mcs.a000588
 
----
+## Source
+- **Primary source:** Molecular Case Studies
+- **External source:** Not from Facebook Collection
+- **DOI:** 10.1101/mcs.a000588
+- **PMID:** 27158616
+- **Status:** Verified PMID/DOI, external reference
 
-## 🎯 Why This Matters
+## Key Findings
+- Metabolomics as precision medicine tool
+- Clinical applications of metabolic profiling
+- Emerging field with high potential
 
-To be added
+## Clinical Relevance
+High relevance to metabolic medicine practice and precision health approaches.
 
----
+## Zettels Using This Reference
 
-## 📝 Abstract
-
-This study contributes to our understanding of metabolic health and disease.
-
-**Key findings relevant to our work:**
-- Metabolic mechanisms
-- Clinical application
-- Supports High
-
-**Clinical relevance:** High — applicable to metabolic medicine practice.
-
-**Full text:** Available via DOI: 10.1101/mcs.a000588
-
-**Notes for extraction:**
-- [ ] Core concepts identified
-- [ ] Zettel candidates noted
-- [ ] Synthesis connections mapped
-
-notes: |
-  
-tags: [ref, metabolomics, precision-medicine, clinical-
+| Zettel | Claim |
+|--------|-------|
+| [[Biomarkers_Precision_Medicine_Z-001-0909]] | Precision metabolomics |
 
 ---
-
-## 💡 Key Findings
-
-- **Finding 1** — To be extracted
-- **Finding 2** — To be extracted
-- **Finding 3** — To be extracted
-
----
-
-## 🔗 Connected to Our Work
-
-### Supports
-- [[Biomarkers_Precision_Medicine_Z-001-0909]] — Precision metabolomics
-
----
-
-## ✅ Extraction Status
-
-- [ ] Abstract reviewed
-- [ ] Key findings extracted
-- [ ] Zettels created
-- [ ] Synthesis integrated
-
-**Status:** ref | **Priority:** P1
-
----
-
-*Added: 2026-04-01 | Last reviewed: 2026-04-01*
-
----
-parent-index: [[01-References]]
+*R-001-0004 | Created: 2026-04-01 | Updated: 2026-04-05 | Tier: GOLD | Status: External reference, verified PMID/DOI*

@@ -4,73 +4,88 @@ type: zettel
 title: HDL Cholesterol — Reverse Cholesterol Transport
 aliases: [HDL, Reverse-Cholesterol-Transport, RCT, ABCA1]
 domain: 001
-tags: [zettel, hdl, reverse-cholesterol-transport, rct, abca1]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags: [zettel, hdl, reverse-cholesterol-transport, rct, abca1, cholesterol-efflux]
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
-source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]
+source-litnote: [[L-001-0501_Cholesterol_Biology_Lipid_Metabolism_CGPT-0086]]
 extraction-date: 2026-03-01
 ---
 
-# HDL  — Reverse Cholesterol Transport
+# HDL Cholesterol — Reverse Cholesterol Transport
 
-> HDL mediates reverse cholesterol transport, removing excess cholesterol from peripheral tissues and delivering it to the liver for excretion.
+## Core Claim
+HDL mediates reverse cholesterol transport (RCT) by accepting cholesterol from peripheral tissues via ABCA1/ABCG1 transporters, esterifying it via LCAT, and delivering it to the liver for excretion, with HDL functionality (cholesterol efflux capacity) being more cardioprotective than HDL-C concentration alone.
 
-## Structure
+## Evidence
 
-- **Core:** Cholesteryl esters, TG
-- **Surface:** Phospholipids, free cholesterol, ApoA-I
-- **Subclasses:** HDL2 (larger), HDL3 (smaller)
+### Reverse Cholesterol Transport Steps
 
-## Reverse Cholesterol Transport
+| Step | Process | Key Molecules |
+|------|---------|---------------|
+| **1. Efflux** | Cholesterol removal from cells | ABCA1 (ApoA-I dependent), ABCG1 (mature HDL) |
+| **2. Esterification** | Free cholesterol → cholesteryl esters | LCAT (lecithin-cholesterol acyltransferase) |
+| **3. Maturation** | HDL3 → HDL2 | Accumulation of cholesteryl esters |
+| **4. Transfer** | CE exchange for TG | CETP (controversial — inhibitors failed) |
+| **5. Hepatic uptake** | Selective CE delivery | SR-B1 (scavenger receptor B1) |
+| **6. Excretion** | Biliary elimination | ABCG5/G8 transporters |
 
-**Step 1 — Efflux:**
-- ABCA1 transporter (ApoA-I dependent)
-- ABCG1 transporter (mature HDL)
-- Removes cholesterol from macrophages
+### HDL Structure and Subclasses
 
-**Step 2 — LCAT Esterification:**
-- Lecithin-cholesterol acyltransferase
-- Converts free cholesterol to cholesteryl esters
-- Matures HDL
+| Subclass | Size | Characteristics |
+|----------|------|-----------------|
+| **Pre-β-HDL** | Smallest | Discoidal, lipid-poor, primary acceptor |
+| **HDL3** | Small | Denser, nascent from efflux |
+| **HDL2** | Larger | Mature, CE-rich, cardioprotective |
 
-**Step 3 — CETP Transfer:**
-- Exchanges HDL cholesteryl esters for VLDL/LDL TG
-- Controversial (CETP inhibitors failed)
+### HDL Functions Beyond RCT
 
-**Step 4 — Hepatic Uptake:**
-- SR-B1 mediates selective uptake
-- Cholesterol excreted as bile
+| Function | Mechanism | Clinical Relevance |
+|----------|-----------|-------------------|
+| **Antioxidant** | PON1 (paraoxonase-1) reduces oxidized lipids | Protects LDL from oxidation |
+| **Anti-inflammatory** | Reduces adhesion molecules | Decreases monocyte recruitment |
+| **Endothelial protection** | Maintains NO production | Preserves vascular function |
+| **Antithrombotic** | Reduces platelet activation | Decreases clot formation |
 
-## Beyond RCT
+### HDL-C Levels
 
-- **Antioxidant:** PON1 reduces oxidized lipids
-- **Anti-inflammatory:** Reduces adhesion molecules
-- **Endothelial protection:** Maintains NO production
+| Population | Optimal | Low | High |
+|------------|---------|-----|------|
+| Men | ≥40 mg/dL | <40 | >60 (protective) |
+| Women | ≥50 mg/dL | <50 | >60 (protective) |
 
-## Optimal Levels
+## Clinical Implication
 
-- **Men:** ≥40 mg/dL
-- **Women:** ≥50 mg/dL
-- **High:** >60 mg/dL (protective)
+**The HDL Paradox:**
+- Epidemiology: Low HDL-C associated with increased CVD risk
+- Pharmacology: Drugs that raise HDL-C (niacin, CETP inhibitors) did not reduce events
+- **Conclusion:** HDL functionality (efflux capacity) matters more than concentration
 
-**Controversy:** HDL raising drugs didn't reduce events; function > quantity
+**Assessment:**
+- HDL-C alone insufficient for risk stratification
+- Cholesterol efflux capacity (CEC) testing emerging as functional marker
+- HDL particle number (HDL-P) may be more informative than HDL-C
+
+**Therapeutic Approach:**
+- Focus on improving HDL quality (exercise, weight loss, smoking cessation)
+- Niacin no longer recommended solely for HDL raising
+
+## METHAP Relevance
+
+**Functional Assessment:**
+- Cholesterol efflux capacity as integrative marker of metabolic health
+- HDL dysfunction in insulin resistance (pro-inflammatory HDL)
+- Combined assessment with other biomarkers for comprehensive risk
 
 ---
 
-*Source: [[LitNote_Cholesterol_Biology_L-001-0501]*
+## Related Zettels
+- [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]] — Cholesterol synthesis
+- [[Lipoproteins_Transport_System_Z-001-0502]] — Lipoprotein transport
+- [[LDL_Cholesterol_Structure_Function_Risk_Z-001-0503]] — LDL biology
+- [[Cholesterol_Cellular_Aging_Z-001-0506]] — Aging effects
 
-
-## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
-- 
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Source
+[[L-001-0501_Cholesterol_Biology_Lipid_Metabolism_CGPT-0086]]
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+parent-index: [[03-Zettels]]

@@ -2,58 +2,106 @@
 uid: Z-001-0541
 type: zettel
 title: Aconitase Catalytic Mechanism
-aliases: [Aconitase, Krebs-Cycle, Citrate, Isocitrate]
+aliases: [Aconitase, Krebs-Cycle, Citrate, Isocitrate, Stereospecific]
 domain: 001
-tags: [zettel, aconitase, krebs-cycle, citrate, isocitrate, mechanism]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags: [zettel, aconitase, krebs-cycle, citrate, isocitrate, mechanism, stereospecific]
+parent-moc: [[MOC-Mitochondrial-Function]]
 status: conscious
-source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]
+source-litnote: [[L-001-0508_Aconitase_Enzyme_CGPT-0393]]
 extraction-date: 2026-03-01
 ---
 
-# Aconitase Catalytic 
+# Aconitase Catalytic Mechanism
 
-> Aconitase catalyzes the stereospecific isomerization of citrate to isocitrate via cis-aconitate, a critical control point in the .
+## Core Claim
+Aconitase catalyzes the stereospecific isomerization of citrate to isocitrate via cis-aconitate through a dehydration-rehydration mechanism, with the Fe-S cluster's unique iron (Feₐ) acting as a Lewis acid to coordinate substrate and facilitate the precise stereochemical rearrangement required for subsequent oxidative decarboxylations in the Krebs cycle.
 
-## Reaction
+## Evidence
 
+### The Catalytic Reaction
+
+**Two-Step Mechanism:**
 ```
-Citrate → cis-Aconitate + H₂O → Isocitrate
+Step 1: Dehydration
+Citrate → cis-Aconitate + H₂O
+
+Step 2: Rehydration  
+cis-Aconitate + H₂O → Isocitrate
+
+Overall: Citrate ⇌ Isocitrate
 ```
 
-## Why It Matters
+**Stereochemical Transformation:**
 
-**Structural transformation:**
-- Citrate: Prochiral (no stereo)
-- cis-Aconitate: Intermediate with reactive double bond
-- Isocitrate: Chiral product for next enzyme
+| Species | Structure | Significance |
+|---------|-----------|--------------|
+| **Citrate** | Prochiral (no stereochemistry) | Cannot undergo oxidative decarboxylation |
+| **cis-Aconitate** | Intermediate with C=C double bond | Reactive intermediate, stereospecific addition |
+| **Isocitrate** | Chiral (specific 3D configuration) | Required substrate for isocitrate dehydrogenase |
 
-## Mechanism
+### Catalytic Mechanism Details
 
-1. **Dehydration:** Citrate loses water → cis-aconitate
-2. **Rehydration:** Water adds back → isocitrate (different position)
-3. **Stereospecific:** Precise 3D configuration required
+**Substrate Binding:**
+1. Citrate coordinates to Feₐ via hydroxyl and carboxyl groups
+2. Fe²⁺ acts as Lewis acid, polarizing C-OH bond
+3. Nearby amino acid residues participate in acid-base catalysis
 
-## Thermodynamics
+**Dehydration:**
+- Hydroxyl group leaves as water
+- Double bond forms between C-2 and C-3
+- Intermediate remains bound to Feₐ
 
-- **Equilibrium:** 90% citrate / 10% isocitrate
-- **Pull:** Next enzyme consumes isocitrate, drives forward
-- **Essential:** Cycle stalls without this step
+**Rehydration:**
+- Water adds to different position of double bond
+- Stereospecific addition creates isocitrate configuration
+- Product release
+
+### Thermodynamics and Kinetics
+
+| Parameter | Value | Significance |
+|-----------|-------|--------------|
+| **Equilibrium** | ~90% citrate / ~10% isocitrate | Favors substrate |
+| **Forward flux** | Driven by rapid isocitrate consumption | "Pull" mechanism |
+| **Rate-limiting** | No — not a control point | Essential but not regulatory |
+
+**Why Equilibrium Favors Citrate:**
+- Citrate is more thermodynamically stable
+- No problem — next enzyme (isocitrate dehydrogenase) rapidly consumes isocitrate
+- Mass action drives net forward flux
+
+## Clinical Implication
+
+**Enzyme Deficiency (Rare):**
+- Genetic defects in aconitase extremely rare (lethal if complete)
+- Partial defects cause developmental delays, neurological issues
+- Organic acids show citrate/aconitate accumulation
+
+**Iron Deficiency:**
+- More common cause of impaired aconitase
+- Fe-S cluster cannot form without iron
+- Results in citrate accumulation, fatigue
+
+**Therapeutic Relevance:**
+- Not a direct drug target
+- Support via iron repletion if deficient
+- Magnesium cofactor for adjacent enzymes
+
+## METHAP Relevance
+
+**Clinical Assessment:**
+- OAT citrate/aconitate elevations indicate aconitase impairment
+- Differential: Iron deficiency vs. magnesium deficiency vs. toxin exposure
+- Targeted nutrient therapy restores function
 
 ---
 
-*Source: [[LitNote_Aconitase_Enzyme_L-001-0508]*
+## Related Zettels
+- [[Iron_Sulfur_Cluster_Biochemistry_Z-001-0542]] — Fe-S cluster structure
+- [[Iron_Metabolism_Aconitase_Function_Z-001-0543]] — Iron deficiency effects
+- [[Cytosolic_Aconitase_IRP1_Dual_Function_Z-001-0544]] — IRP1 dual function
 
-
-## RELATED FILES
-- 
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Source
+[[L-001-0508_Aconitase_Enzyme_CGPT-0393]]
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+parent-index: [[03-Zettels]]

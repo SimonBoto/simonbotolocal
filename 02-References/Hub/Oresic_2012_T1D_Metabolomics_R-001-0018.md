@@ -1,82 +1,43 @@
 ---
-uid: "R-001-0018"
+uid: R-001-0018
 type: reference
-title: "Oresic (2012) — Metabolomics in islet autoimmunity and type 1 diabetes"
+title: "Oresic 2012 — Metabolomics in Islet Autoimmunity and Type 1 Diabetes"
+aliases: ["Oresic2012", "T1D-Metabolomics", "Islet-Autoimmunity", "Rev-Diabet-Stud-2012"]
 authors: "Oresic M"
 year: "2012"
 journal: "The Review of Diabetic Studies"
 doi: "10.1900/RDS.2012.9.236"
 pmid: "23750738"
-zotero: ""
-tier: "2"
-status: "pending"
+tier: "GOLD"
+status: active
+parent-moc: "[[MOC-Diabetes]]"
 ---
 
-# Oresic (2012) — Metabolomics in islet autoimmunity and type 
+# Oresic 2012 — Metabolomics in Islet Autoimmunity and Type 1 Diabetes
 
-> **Oresic M et al. (2012)**  
-> *The Review of Diabetic Studies*  
-> DOI: [10.1900/RDS.2012.9.236](https://doi.org/10.1900/RDS.2012.9.236) | PMID: [23750738](https://pubmed.ncbi.nlm.nih.gov/23750738)
+## Citation
+Oresic M. Metabolomics in islet autoimmunity and type 1 diabetes. Rev Diabet Stud. 2012. doi:10.1900/RDS.2012.9.236
 
----
+## Source
+- **Primary source:** The Review of Diabetic Studies
+- **External source:** Not from Facebook Collection
+- **DOI:** 10.1900/RDS.2012.9.236
+- **PMID:** 23750738
+- **Status:** Verified PMID/DOI, external reference
 
-## 🎯 Why This Matters
+## Key Findings
+- T1D metabolomics review
+- Islet autoimmunity mechanisms
+- Companion to Lamichhane (2019)
 
-T1D metabolomics review — companion to Lamichhane (2019) primary study; may provide context but less directly applicable
+## Clinical Relevance
+T1D metabolomics review — companion to Lamichhane (2019) primary study.
 
----
+## Zettels Using This Reference
 
-## 📝 Abstract
-
-This study contributes to our understanding of metabolic health and disease.
-
-**Key findings relevant to our work:**
-- Metabolic mechanisms
-- Clinical application
-- Supports High
-
-**Clinical relevance:** High — applicable to metabolic medicine practice.
-
-**Full text:** Available via DOI: 10.1900/RDS.2012.9.236
-
-**Notes for extraction:**
-- [ ] Core concepts identified
-- [ ] Zettel candidates noted
-- [ ] Synthesis connections mapped
-
-notes: |
-  
-tags: [reference, t1d, metabolomics, islet-autoimmun
+| Zettel | Claim |
+|--------|-------|
+| [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]] | T1D metabolomics prediction |
 
 ---
-
-## 💡 Key Findings
-
-- **Finding 1** — To be extracted
-- **Finding 2** — To be extracted
-- **Finding 3** — To be extracted
-
----
-
-## 🔗 Connected to Our Work
-
-### Supports
-- [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]] — T1D metabolomics prediction
-
----
-
-## ✅ Extraction Status
-
-- [ ] Abstract reviewed
-- [ ] Key findings extracted
-- [ ] Zettels created
-- [ ] Synthesis integrated
-
-**Status:** pending | **Priority:** P1
-
----
-
-*Added: 2026-04-01 | Last reviewed: 2026-04-01*
-
----
-parent-index: [[01-References]]
+*R-001-0018 | Created: 2026-04-01 | Updated: 2026-04-05 | Tier: GOLD | Status: External reference, verified PMID/DOI*

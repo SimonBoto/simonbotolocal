@@ -20,12 +20,16 @@ parent-moc: "[[MOC-Nutrition-Risks]]"
 Kearns CE, Schmidt LA, Glantz SA. "Sugar Industry and Coronary Heart Disease Research: A Historical Analysis of Internal Industry Documents." *JAMA Intern Med*. 2016;176(11):1680-1685. doi:10.1001/jamainternmed.2016.5394
 
 ## Source
+- **Primary source:** JAMA Internal Medicine
+- **External source:** Not from Facebook Collection
 - **Journal:** JAMA Internal Medicine
 - **Year:** 2016
 - **Type:** Historical analysis of internal industry documents
+- **DOI:** 10.1001/jamainternmed.2016.5394
 - **PMID:** [27630110](https://pubmed.ncbi.nlm.nih.gov/27630110/)
 - **Full text:** [JAMA Network](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2548250)
 - **Documents:** UCSF Sugar Papers archive
+- **Status:** Verified PMID/DOI, external reference
 
 ---
 

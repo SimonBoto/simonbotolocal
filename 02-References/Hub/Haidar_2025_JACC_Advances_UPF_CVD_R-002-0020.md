@@ -19,9 +19,12 @@ parent-moc: "[[MOC-References-Active]]"
 Haidar A, et al. Association of ultra-processed food consumption with cardiovascular disease risk: The Multi-Ethnic Study of Atherosclerosis (MESA). JACC: Advances. 2025.
 
 ## Source
+- **Primary source:** JACC: Advances (American College of Cardiology)
+- **Citation extracted from:** Facebook Posts Collection
 - **DOI:** Pending publication
-- **Journal:** JACC: Advances (American College of Cardiology)
+- **Journal:** JACC: Advances
 - **Study:** MESA — Multi-Ethnic Study of Atherosclerosis
+- **Status:** Citation from source; awaiting full publication
 
 ---
 

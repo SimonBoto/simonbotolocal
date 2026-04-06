@@ -1,19 +1,24 @@
 ---
 uid: Z-001-0553
 type: zettel
-title: Zn and Se — Nutritional Sources and Supplementation
-aliases: [Zn-Se-Sources, Supplementation, Brazil-Nuts, Oysters]
+title: Zn Se Nutritional Sources Supplementation
+aliases: [Zn-Se-Sources, Zinc-Sources, Selenium-Sources, Supplementation]
 domain: 001
-tags: [zettel, zn-se, sources, supplementation, dosing]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags: [zettel, zn-se-sources, zinc-sources, selenium-sources, supplementation]
+parent-moc: [[MOC-Mitochondrial-Function]]
 status: conscious
-source-litnote: [[LitNote_Zinc_Selenium_Mitochondrial_L-001-0510]
+source-litnote: [[L-001-0510_Zinc_Selenium_Mitochondrial_CGPT-0393]]
 extraction-date: 2026-03-01
 ---
 
-# Zn and Se — al Sources and Supplementation
+# Zn Se Nutritional Sources Supplementation
 
-## Zinc Sources
+## Core Claim
+Optimal zinc and selenium status requires adequate dietary intake from diverse sources, with supplementation indicated for documented deficiency, vegan/vegetarian diets, or malabsorption; zinc supplementation requires caution to avoid copper deficiency (>40 mg/day), while selenium supplementation requires attention to narrow therapeutic window and dramatic regional soil variation affecting food content.
+
+## Evidence
+
+### Zinc Sources
 
 **Animal (High Bioavailability):**
 | Food | Zinc (mg/100g) |
@@ -22,54 +27,72 @@ extraction-date: 2026-03-01
 | Beef | 4-12 |
 | Lamb | 4-8 |
 
-**Plant:**
-- Pumpkin seeds: 7-10 mg
-- Hemp seeds: 7-12 mg
-- Phytates reduce absorption
+**Plant (Moderate Bioavailability):**
+| Food | Zinc (mg/100g) |
+|------|----------------|
+| Pumpkin seeds | 7-10 |
+| Hemp seeds | 7-12 |
+| Cashews | 5-6 |
 
-## Selenium Sources
+**Absorption Factors:**
+- **Enhancers:** Animal protein, amino acids
+- **Inhibitors:** Phytates, iron supplements, calcium
 
-**Brazil Nuts:** 1917 μg/100g (VARIES BY SOIL!)
-**Animal:**
-- Tuna: 90-110 μg
-- Sardines: 50-70 μg
-- Eggs: 15-20 μg
+### Selenium Sources
 
-## Supplementation
+| Food | Selenium (μg/100g) | Notes |
+|------|---------------------|-------|
+| Brazil nuts | 1917* | *Varies by soil! |
+| Tuna | 90-110 | Reliable |
+| Eggs | 15-20 | Varies by hen diet |
 
-**Zinc:**
-- 15-30 mg elemental
-- Forms: Picolinate, glycinate
-- Away from iron, copper
+**Regional Variation:**
+- Keshan disease areas: Severe deficiency
+- Some US regions: Excess possible
 
-**Selenium:**
-- 100-200 μg
-- Forms: Selenomethionine
-- Caution: Brazil nuts vary wildly
+### Supplementation Guidelines
 
-## Testing
+| Mineral | Form | Dose | Upper Limit | Caution |
+|---------|------|------|-------------|---------|
+| **Zinc** | Picolinate, glycinate | 15-30 mg | 40 mg | Copper deficiency |
+| **Selenium** | Selenomethionine | 100-200 μg | 400 μg | Brazil nut variation |
 
-- Serum zinc (fasting)
-- Plasma selenium
-- RBC zinc (long-term)
-- GPx activity (functional)
+### Testing
+
+| Mineral | Test | Reference Range |
+|---------|------|-----------------|
+| **Zinc** | Serum (fasting) | 70-120 μg/dL |
+| **Selenium** | Plasma | 70-150 μg/L |
+
+## Clinical Implication
+
+**Indications:**
+- Documented deficiency
+- Vegan/vegetarian diet
+- Malabsorption conditions
+- Increased requirements (pregnancy, athletes)
+
+**Monitoring:**
+- Baseline testing
+- Recheck 3-6 months
+- Adjust based on levels
+
+## METHAP Relevance
+
+- Include in micronutrient panel
+- Supplement if deficient
+- Balance with copper (zinc)
+- Geographic considerations (selenium)
 
 ---
 
-*Source: l_L-001-0510]*
+## Related Zettels
+- [[Zinc_Mitochondrial_Function_Z-001-0550]]
+- [[Selenium_Mitochondrial_Antioxidant_Z-001-0551]]
+- [[Zn_Se_Synergistic_OXPHOS_Protection_Z-001-0552]]
 
-
-## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
-- 
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Source
+[[L-001-0510_Zinc_Selenium_Mitochondrial_CGPT-0393]]
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+parent-index: [[03-Zettels]]

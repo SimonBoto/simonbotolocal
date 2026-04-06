@@ -9,7 +9,7 @@ relevance: High — Vascular calcification prevention; synergy with VitD and Mg
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
-source: "[[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
+source: "[[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
 
 # Lit: Vitamin K2 — Role in Metabolic Syndrome and Vascular Health
 

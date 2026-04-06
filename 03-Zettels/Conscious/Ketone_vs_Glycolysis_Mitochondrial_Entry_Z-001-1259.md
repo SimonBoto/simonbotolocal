@@ -1,226 +1,126 @@
 ---
 uid: Z-001-1259
 type: zettel
-title: Ketone vs Glycolysis Mitochondrial Entry — Different Routes to Acetyl-CoA
-aliases: [Z-001-1259]
+title: Ketone vs Glycolysis — Mitochondrial Entry Differences
 domain: 001
-tags: [zettel, ketones, glycolysis, mitochondrial-entry, acetyl-CoA, MCT, PDH, cellular-compartmentalization]
-parent-moc: ", "
-source-litnote: "[[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]"
+tags: [zettel, ketone-entry, glycolysis, mitochondrial-transport, MCT, GLUT, acetyl-CoA]
+parent-moc: [[MOC-Ketogenesis]]
 status: conscious
+source-litnote: [[L-001-0655_Ketone_Body_Metabolism_Deep_Dive_CGPT-0647]]
+extraction-date: 2026-03-11
 ---
 
-# Ketone vs Glycolysis l Entry
+# Ketone vs Glycolysis — Mitochondrial Entry Differences
 
-Ketone bodies and glucose-derived pyruvate both ultimately produce mitochondrial acetyl-CoA for Krebs cycle entry, but they follow fundamentally different cellular routes that reflect their distinct metabolic origins and regulatory requirements.
+## Core Claim
+Ketone bodies and glucose follow distinct cellular routes to mitochondrial acetyl-CoA: ketones enter mitochondria directly via monocarboxylate transporters (MCTs) and are converted to acetyl-CoA intramitochondrially, while glucose requires cytosolic glycolysis to pyruvate, mitochondrial pyruvate transport, and PDH-mediated conversion to acetyl-CoA, with ketones bypassing glycolytic regulation and entering the energy production pathway more directly.
 
----
+## Evidence
 
-## Overview Comparison
+### Entry Pathway Comparison
 
-| Feature | Ketone Body Utilization | Glycolysis → Pyruvate |
-|---------|------------------------|----------------------|
-| **Starting substrate** | BHB or acetoacetate (liver-derived) | Glucose (dietary or stored glycogen) |
-| **Initial location** | Extracellular (blood) → Cytoplasm | Extracellular → Cytoplasm |
-| **Pathway location** | Entirely mitochondrial | Cytoplasm + Mitochondria |
-| **Transport protein** | MCT1/MCT2 (Monocarboxylate transporters) | GLUT transporters (glucose), mitochondrial pyruvate carrier (pyruvate) |
-| **Key enzyme** | SCOT (succinyl-CoA:3-oxoacid-CoA transferase) | PDH (pyruvate dehydrogenase) |
-| **ATP generated directly** | 0 (from conversion steps) | 2 ATP (substrate-level glycolysis) |
-| **Reducing equivalents** | BDH1 produces NADH (mitochondrial) | GAPDH produces NADH (cytoplasmic) |
+| Feature | Ketone Utilization | Glycolysis |
+|---------|-------------------|------------|
+| **Cellular entry** | MCTs (monocarboxylate transporters) | GLUT transporters |
+| **Initial metabolism** | Cytosolic (BDH1 for BHB) | Cytosolic (glycolysis) |
+| **Mitochondrial entry** | Direct (acetoacetate) | Pyruvate transporters |
+| **Conversion to acetyl-CoA** | Mitochondrial (SCOT + thiolase) | Mitochondrial (PDH) |
+| **ATP from entry steps** | BDH1 produces NADH (+2.5 ATP) | Glycolysis: net +2 ATP, +2 NADH |
+| **Regulation point** | SCOT (constitutive) | PDH (highly regulated) |
 
----
+### Ketone Body Transport and Entry
 
-## Ketone Body Pathway
+**Monocarboxylate Transporters (MCTs):**
+- MCT1: Ubiquitous, high affinity
+- MCT2: Liver, kidney (higher affinity)
+- MCT4: Muscle (export during exercise)
+- Proton-coupled symport (lactate, ketones, pyruvate)
 
-### Step 1: Cellular Uptake
-**Monocarboxylate Transporters (MCTs)**
-- **MCT1:** Widely expressed; high affinity (heart, muscle, brain)
-- **MCT2:** Liver, kidney; lower affinity, higher capacity
-- **Mechanism:** H⁺-symport (follows proton gradient)
-- **Km:** ~5-10 mM for BHB (well below typical ketotic levels of 1-5 mM)
-
-### Step 2: Mitochondrial Entry
-**MCT1 also localizes to inner mitochondrial membrane**
-- BHB/acetoacetate enter mitochondrial matrix directly
-- No separate transport system needed (unlike pyruvate)
-
-### Step 3: Conversion to Acetyl-CoA (All Mitochondrial)
-
+**Intracellular Route:**
 ```
-BHB ──BDH1──→ Acetoacetate + NADH
-    │
-    └──SCOT──→ Acetoacetyl-CoA (using succinyl-CoA)
-           │
-           └──Thiolase──→ 2 Acetyl-CoA
+Blood BHB → MCT → Cytosol
+    ↓ BDH1 (cytosolic or mitochondrial)
+Acetoacetate → Mitochondrial MCT or direct diffusion
+    ↓ SCOT (mitochondrial matrix)
+Acetoacetyl-CoA → Thiolase → 2 Acetyl-CoA → Krebs
 ```
 
-**Compartment:** All reactions occur in **mitochondrial matrix**
+### Glucose Transport and Entry
 
-**Energy investment:** Uses succinyl-CoA high-energy thioester bond
+**Glucose Transporters (GLUTs):**
+- GLUT1: Basal uptake (brain, erythrocytes)
+- GLUT2: Liver, pancreas (high Km, glucose sensing)
+- GLUT3: Neurons (high affinity)
+- GLUT4: Muscle, adipose (insulin-dependent)
 
----
-
-## Glycolysis → Pyruvate Pathway
-
-### Step 1: Cellular Uptake
-**GLUT Transporters**
-- **GLUT1:** Basal glucose uptake (brain, erythrocytes)
-- **GLUT2:** Liver, pancreas (high Km, "glucose sensor")
-- **GLUT4:** -responsive (muscle, adipose)
-
-### Step 2: Cytoplasmic Glycolysis
-
+**Intracellular Route:**
 ```
-Glucose → G6P → F6P → F1,6BP → ... → Pyruvate
+Blood glucose → GLUT → Cytosol
+    ↓ Glycolysis
+Pyruvate → Mitochondrial pyruvate carrier (MPC)
+    ↓ PDH (pyruvate dehydrogenase)
+Acetyl-CoA → Krebs cycle
 ```
 
-**Key features:**
-- **10-step pathway** in cytoplasm
-- **2 ATP invested** (hexokinase, PFK-1)
-- **4 ATP produced** (substrate-level: 2× phosphoglycerate kinase, 2× pyruvate kinase)
-- **Net: 2 ATP**
-- **2 NADH produced** (glyceraldehyde-3-phosphate dehydrogenase)
+### Key Regulatory Differences
 
-### Step 3: Pyruvate Mitochondrial Transport
-**Mitochondrial Pyruvate Carrier (MPC)**
-- Inner mitochondrial membrane transporter
-- Symport with H⁺ or antiport with OH⁻
-- Rate-limiting for pyruvate oxidation
-- **Inhibited by:** Cyanide, certain drugs
+**PDH Regulation (Glycolysis):**
+| Factor | Effect | Rationale |
+|--------|--------|-----------|
+| High acetyl-CoA | Inhibits | Prevents overproduction |
+| High NADH | Inhibits | Signals energy sufficiency |
+| High ATP | Inhibits | Energy surplus |
+| Pyruvate | Activates | Substrate availability |
+| Insulin | Activates | Fed state, promote glucose use |
 
-### Step 4: PDH Reaction (Mitochondrial Matrix)
+**SCOT Regulation (Ketolysis):**
+- Constitutively active in ketone-utilizing tissues
+- Not subject to acute energy status regulation
+- Activity determined by substrate availability (ketone concentration)
 
+### Convergence Point
+
+**Both pathways ultimately produce mitochondrial acetyl-CoA:**
 ```
-Pyruvate + NAD⁺ + CoA → Acetyl-CoA + NADH + CO₂
-            (PDH — Pyruvate Dehydrogenase Complex)
+Glucose → Pyruvate → PDH → Acetyl-CoA → Krebs
+Ketones → Acetoacetate → SCOT/Thiolase → Acetyl-CoA → Krebs
+                              ↓
+                    Common downstream metabolism
 ```
 
-**Multi-enzyme complex:**
-- E1: Pyruvate dehydrogenase (thiamine pyrophosphate)
-- E2: Dihydrolipoyl transacetylase (lipoic acid)
-- E3: Dihydrolipoyl dehydrogenase (FAD → NAD⁺)
+## Clinical Implication
 
-**Regulation:**
-- **Inhibited by:** Acetyl-CoA, NADH, ATP (product inhibition)
-- **Activated by:** Pyruvate, insulin (via PDP phosphatase)
+**Metabolic Flexibility Implications:**
+- Ketones bypass insulin-dependent GLUT4 transport
+- Ketones bypass PDH regulation (bypasses insulin resistance at PDH)
+- Provides alternative fuel when glucose metabolism impaired
 
----
+**Therapeutic Relevance:**
+- Type 2 diabetes: Ketones provide insulin-independent fuel
+- Neurodegeneration: Brain can use ketones when glucose metabolism impaired
+- Cardiac metabolism: Heart efficiently uses ketones during stress
 
-## Key Differences
+**Exercise Context:**
+- Lactate and ketones share MCTs (competitive transport)
+- High lactate during exercise may transiently reduce ketone uptake
+- Training increases MCT expression, enhancing ketone utilization
 
-### 1. Compartmentalization
+## METHAP Relevance
 
-| Aspect | Ketones | Pyruvate |
-|--------|---------|----------|
-| **Cytoplasmic ** | None | Entire glycolytic pathway |
-| **Mitochondrial entry** | Direct (MCT) | Requires MPC transporter |
-| **NADH production site** | Mitochondrial (BDH1) | Cytoplasmic (GAPDH) |
-| **NADH shuttle needed?** | No (already mitochondrial) | Yes (malate-aspartate or glycerol-3-phosphate) |
-
-### 2. Reducing Equivalent Handling
-
-**Ketones:**
-- BDH1 produces NADH **directly in mitochondria**
-- No shuttle required
-- Full 2.5 ATP per NADH captured
-
-**Pyruvate/Glycolysis:**
-- GAPDH produces NADH in **cytoplasm**
-- Must shuttle into mitochondria:
-  - **Malate-aspartate shuttle:** Preserves NADH (2.5 ATP)
-  - **Glycerol-3-phosphate shuttle:** Converts to FADH₂ (1.5 ATP)
-- **Cost:** 0-1 ATP equivalent depending on shuttle used
-
-### 3. Regulatory Control Points
-
-**Ketones:**
-- Limited regulation at entry/utilization level
-- Primary control is **hepatic production** (ketogenesis)
-- SCOT expression determines tissue capacity
-
-**Pyruvate:**
-- Multiple control points:
-  - Glucose uptake (GLUT4 translocation — insulin-dependent)
-  - Glycolysis (PFK-1 — allosterically regulated)
-  - Pyruvate transport (MPC activity)
-  - PDH complex (phosphorylation state — insulin/Pyruvate regulated)
-
-### 4. ATP Production Timing
-
-**Ketones:**
-- No ATP from conversion steps
-- All ATP from subsequent Krebs/OxPhos
-
-**Pyruvate/Glycolysis:**
-- **2 ATP produced in cytoplasm** (anaerobic)
-- Can provide ATP independent of oxygen (short-term)
-- Complete oxidation requires mitochondrial function
-
----
-
-## Physiological Significance
-
-### Why Two Different Pathways?
-
-**Ketones:**
-- **Water-soluble** transport form of fat-derived energy
-- **Cross blood-brain barrier** (unlike fatty acids)
-- **Bypass cytoplasmic regulation** for rapid utilization
-- **Exportable fuel:** Liver produces for peripheral use
-
-**Pyruvate/Glycolysis:**
-- **Rapid ATP production** (substrate-level, no oxygen needed)
-- **Anaerobic capacity** for high-intensity efforts
-- **Glucose conservation** via reciprocal regulation with fatty acids
-
-### Tissue Preferences
-
-| Tissue | Preferred Fuel | Rationale |
-|--------|---------------|-----------|
-| **Brain (normal)** | Glucose | High metabolic demand, GLUT1/3 constitutive |
-| **Brain (fasting)** | Ketones | Sparing glucose, BHB crosses BBB efficiently |
-| **Heart** | Fatty acids > Ketones > Glucose | High oxidative capacity, continuous work |
-| **Muscle (rest)** | Fatty acids | Efficiency, abundance |
-| **Muscle (exercise)** | Glucose | Speed of ATP production |
-| **Erythrocytes** | Glucose only | No mitochondria; depend on glycolysis |
-
----
-
-## Integration: The Randle Cycle
-
-**Glucose-Fatty Acid Cycle:**
-- High fatty acid oxidation → ↑Acetyl-CoA → ↑Citrate → Inhibits PFK-1 → ↓Glycolysis
-- High glucose → ↑Pyruvate → ↑Malonyl-CoA → Inhibits CPT-1 → ↓Fatty acid oxidation
-
-**Metabolic logic:** Prevents simultaneous high rates of both pathways (futile cycling).
+**Clinical Assessment:**
+- Understanding fuel entry informs metabolic intervention design
+- MCT expression may vary with metabolic health status
+- Integration with metabolomics for comprehensive fuel utilization assessment
 
 ---
 
 ## Related Zettels
-
-- [[Z-001-1257_Ketolysis_SCOT_Mechanism] — Detailed ketone utilization pathway
-- [[Z-001-1258_ATP_Yield_Comparison] — Energy efficiency comparison
-- [[Z-001-1255_Insulin_Resistance_Beta_Oxidation_Block] — Malonyl-CoA regulation
-
----
+- [[BHB_Production_Fatty_Acids_Z-001-1256]] — Ketone production
+- [[Ketolysis_SCOT_Mechanism_Z-001-1257]] — Ketone utilization
+- [[ATP_Yield_Comparison_Z-001-1258]] — Energy efficiency
 
 ## Source
-
-Extracted from: [[LitNote_Ketone_Body_Metabolism_Deep_Dive_L-001-0655]]  
-CGPT-0647 (April 30, 2023) — Messages 21-22
-
-
-## RELATED FILES
-- [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-- 
+[[L-001-0655_Ketone_Body_Metabolism_Deep_Dive_CGPT-0647]]
 
 ---
-
-## Connection to Vault
-
-- Up: [[MOC-Mitochondrial-Function]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
-
----
-parent-index: [[03-Zettels-Conscious]]
+parent-index: [[03-Zettels]]

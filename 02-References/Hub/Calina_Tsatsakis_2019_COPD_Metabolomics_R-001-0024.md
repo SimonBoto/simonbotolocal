@@ -1,82 +1,43 @@
 ---
-uid: "R-001-0024"
+uid: R-001-0024
 type: reference
-title: "Calina & Tsatsakis (2019) — Metabolic Fingerprint of COPD"
+title: "Calina & Tsatsakis 2019 — Metabolic Fingerprint of COPD"
+aliases: ["Calina2019", "Tsatsakis2019", "COPD-Metabolomics", "Metabolites-2019"]
 authors: "Calina D, Tsatsakis A"
 year: "2019"
 journal: "Metabolites"
 doi: "10.3390/metabo9120290"
 pmid: "31739568"
-zotero: ""
-tier: "2"
-status: "pending"
+tier: "GOLD"
+status: active
+parent-moc: "[[MOC-Metabolomics]]"
 ---
 
-# Calina & Tsatsakis (2019) — Metabolic Fingerprint of COPD
+# Calina & Tsatsakis 2019 — Metabolic Fingerprint of COPD
 
-> **Calina D et al. (2019)**  
-> *Metabolites*  
-> DOI: [10.3390/metabo9120290](https://doi.org/10.3390/metabo9120290) | PMID: [31739568](https://pubmed.ncbi.nlm.nih.gov/31739568)
+## Citation
+Calina D, Tsatsakis A. Metabolic Fingerprint of COPD. Metabolites. 2019;9(12):290. doi:10.3390/metabo9120290
 
----
+## Source
+- **Primary source:** Metabolites
+- **External source:** Not from Facebook Collection
+- **DOI:** 10.3390/metabo9120290
+- **PMID:** 31739568
+- **Status:** Verified PMID/DOI, external reference
 
-## 🎯 Why This Matters
+## Key Findings
+- Metabolomics biomarker approach in COPD
+- Metabolic fingerprinting methodology
+- Demonstrates metabolomics application in chronic disease
 
-Metabolomics in chronic lung disease — demonstrates metabolomics biomarker approach but COPD-specific; methodology may transfer to IR
+## Clinical Relevance
+Methodology may transfer to insulin resistance and metabolic syndrome assessment. COPD-specific but principles broadly applicable.
 
----
+## Zettels Using This Reference
 
-## 📝 Abstract
-
-This study contributes to our understanding of metabolic health and disease.
-
-**Key findings relevant to our work:**
-- Metabolic mechanisms
-- Clinical application
-- Supports High
-
-**Clinical relevance:** High — applicable to metabolic medicine practice.
-
-**Full text:** Available via DOI: 10.3390/metabo9120290
-
-**Notes for extraction:**
-- [ ] Core concepts identified
-- [ ] Zettel candidates noted
-- [ ] Synthesis connections mapped
-
-notes: |
-  
-tags: [reference, copd, metabolomics, metabolic-finge
+| Zettel | Claim |
+|--------|-------|
+| [[Biomarkers_Precision_Medicine_Z-001-0909]] | COPD metabolic fingerprint |
 
 ---
-
-## 💡 Key Findings
-
-- **Finding 1** — To be extracted
-- **Finding 2** — To be extracted
-- **Finding 3** — To be extracted
-
----
-
-## 🔗 Connected to Our Work
-
-### Supports
-- [[Biomarkers_Precision_Medicine_Z-001-0909]] — COPD metabolic fingerprint
-
----
-
-## ✅ Extraction Status
-
-- [ ] Abstract reviewed
-- [ ] Key findings extracted
-- [ ] Zettels created
-- [ ] Synthesis integrated
-
-**Status:** pending | **Priority:** P1
-
----
-
-*Added: 2026-04-01 | Last reviewed: 2026-04-01*
-
----
-parent-index: [[01-References]]
+*R-001-0024 | Created: 2026-04-01 | Updated: 2026-04-05 | Tier: GOLD | Status: External reference, verified PMID/DOI*

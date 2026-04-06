@@ -4,71 +4,101 @@ type: zettel
 title: Cholesterol and Cellular Aging
 aliases: [Cholesterol, Cellular-Aging, Membrane, Lipid-Rafts, SREBP]
 domain: 001
-tags: [zettel, cholesterol, aging, membrane, lipid-rafts]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags: [zettel, cholesterol, aging, membrane, lipid-rafts, cellular-senescence]
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
-source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]
+source-litnote: [[L-001-0501_Cholesterol_Biology_Lipid_Metabolism_CGPT-0086]]
 extraction-date: 2026-03-01
 ---
 
-#  and Cellular Aging
+# Cholesterol and Cellular Aging
 
-> Cholesterol homeostasis is disrupted in aging, with altered membrane composition and impaired reverse cholesterol transport contributing to cellular senescence.
+## Core Claim
+Aging disrupts cholesterol homeostasis through altered membrane composition (increased plasma membrane cholesterol, decreased ER cholesterol), impaired reverse cholesterol transport, and dysregulated SREBP-2/LXR signaling, contributing to cellular senescence and age-related diseases.
 
-## Membrane Changes
+## Evidence
 
-**Cholesterol Content:**
-- Increased in plasma membrane
-- Decreased in ER
-- Altered membrane fluidity
+### Membrane Changes with Aging
 
-**Consequences:**
-- Reduced receptor function
-- Impaired signaling
-- Altered protein activity
+| Compartment | Change with Age | Functional Consequence |
+|-------------|-----------------|------------------------|
+| **Plasma membrane** | ↑ Cholesterol content | Reduced membrane fluidity, impaired receptor function |
+| **ER membrane** | ↓ Cholesterol content | Altered protein processing, UPR activation |
+| **Mitochondria** | Alterated membrane composition | Impaired oxidative phosphorylation |
+| **Lysosomes** | Cholesterol accumulation | Impaired autophagy, lysosomal dysfunction |
 
-## Lipid Rafts
+### Lipid Rafts and Signaling
 
 **Function:**
-- Cholesterol-rich microdomains
-- Organize signaling molecules
+- Cholesterol-rich microdomains in plasma membrane
+- Organize signaling molecules (receptors, kinases)
+- Facilitate efficient signal transduction
 
-**Aging Effect:**
-- Disrupted in aging
-- Impaired  signaling
-- Reduced immune responses
+**Aging Effects:**
+- Lipid raft disruption
+- Impaired insulin signaling
+- Reduced immune cell responses
+- Altered neurotransmitter signaling
 
-## Homeostasis Dysregulation
+### Cholesterol Homeostasis Dysregulation
 
-**SREBP-2:**
-- Senses cellular cholesterol
+**SREBP-2 Pathway:**
+- Senses cellular cholesterol levels
 - Dysregulated in aging
+- Reduced feedback sensitivity
 
-**LXR:**
-- Promotes cholesterol efflux
+**LXR (Liver X Receptor) Pathway:**
+- Promotes cholesterol efflux via ABCA1/ABCG1
 - Function declines with age
+- Reduced reverse cholesterol transport
 
-## Aging Connection
+### Cellular Senescence Connection
 
-- Cholesterol accumulation in senescent cells
-- SASP components lipid-modified
-- Amplified 
+| Feature | Role of Cholesterol |
+|---------|---------------------|
+| **Cholesterol accumulation** | Enriched in senescent cells |
+| **SASP** (Senescence-Associated Secretory Phenotype) | Components lipid-modified (e.g., IL-6 signaling) |
+| **Inflammation amplification** | Cholesterol crystals activate NLRP3 inflammasome |
+| **Autophagy impairment** | Lysosomal cholesterol accumulation blocks autophagic flux |
+
+### Age-Related Diseases
+
+| Disease | Cholesterol Connection |
+|---------|------------------------|
+| **Atherosclerosis** | Major age-related disease; cholesterol accumulation in arteries |
+| **Alzheimer's disease** | Cholesterol involved in amyloid processing; ApoE4 risk |
+| **Macular degeneration** | Lipid accumulation in retina (drusen) |
+| **Osteoarthritis** | Cholesterol crystals in synovial fluid |
+
+## Clinical Implication
+
+**Statin Therapy in Elderly:**
+- Benefits extend into advanced age (evidence up to age 75-80)
+- Absolute benefit greater due to higher baseline risk
+- Consider frailty and life expectancy for individual decisions
+- PCSK9 inhibitors more effective in elderly (higher baseline LDL)
+
+**Lifestyle Interventions:**
+- Remain effective at all ages
+- Dietary changes can modify cholesterol synthesis
+- Exercise improves HDL function and RCT
+
+## METHAP Relevance
+
+**Aging Metabolism Integration:**
+- Cholesterol metabolism as hallmark of aging
+- Combined assessment with other aging biomarkers
+- Therapeutic targeting of cholesterol in age-related metabolic dysfunction
 
 ---
 
-*Source: [[LitNote_Cholesterol_Biology_L-001-0501]*
+## Related Zettels
+- [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]] — Cholesterol synthesis
+- [[HDL_Cholesterol_Reverse_Cholesterol_Transport_Z-001-0504]] — RCT function
+- [[Inflammation_Cholesterol_Metabolic_Syndrome_Z-001-0507]] — Inflammation link
 
-
-## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
-- 
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Source
+[[L-001-0501_Cholesterol_Biology_Lipid_Metabolism_CGPT-0086]]
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+parent-index: [[03-Zettels]]

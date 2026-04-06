@@ -38,14 +38,14 @@ updated: 2026-04-03
 
 | Rank | CGPT Code | Title | LitNotes | Est. Zettels |
 |------|-----------|-------|----------|--------------|
-| 1 | [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]] | Advanced Biochemistry Exploration | 21 | ~50 |
+| 1 | [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]] | Advanced Biochemistry Exploration | 21 | ~50 |
 | 2 | [[CGPT_0022_Metabolomics_training_role_CGPT-0022]] | Metabolomics Training Role | 12 | ~40 |
-| 3 | [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]] | Warburg Effect and Cancer | 11 | ~15 |
-| 4 | [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]] | Osteopenia Osteoporosis Bone Remodeling | 9 | ~15 |
+| 3 | [[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]] | Warburg Effect and Cancer | 11 | ~15 |
+| 4 | [[00-Inbox/Processed/CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]] | Osteopenia Osteoporosis Bone Remodeling | 9 | ~15 |
 | 5 | [[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]] | Fatty Acid Metabolism Pathways | 8 | ~20 |
-| 6 | [[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]] | Vitamin D K2 Magnesium Metabolic Syndrome | 7 | ~20 |
+| 6 | [[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]] | Vitamin D K2 Magnesium Metabolic Syndrome | 7 | ~20 |
 | 7 | [[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]] | Methodology Mistakes Identified | 6 | ~15 |
-| 8 | [[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]] | Synergy of D and K2 | 5 | ~10 |
+| 8 | [[00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]] | Synergy of D and K2 | 5 | ~10 |
 | 9 | [[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]] | ADA Dietary Guidelines Controversies | 5 | ~10 |
 | 10 | [[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]] | Autoimmune Diseases and Telomeres | 5 | ~10 |
 

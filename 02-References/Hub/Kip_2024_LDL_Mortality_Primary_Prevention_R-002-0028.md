@@ -19,10 +19,13 @@ parent-moc: "[[MOC-Cardiovascular-Disease]]"
 Kip KE, Diamond D, Mulukutla S, Marroquin OC. Is LDL cholesterol associated with long-term mortality among primary prevention adults? A retrospective cohort study from a large healthcare system. *BMJ Open*. 2024;14(3):e077949. doi:10.1136/bmjopen-2023-077949
 
 ## Source
+- **Primary source:** BMJ Open
+- **External source:** Not from Facebook Collection
 - **Journal:** BMJ Open
 - **Year:** 2024
 - **Type:** Retrospective cohort study
 - **DOI:** [10.1136/bmjopen-2023-077949](https://doi.org/10.1136/bmjopen-2023-077949)
+- **Status:** Verified DOI, external reference
 
 ---
 

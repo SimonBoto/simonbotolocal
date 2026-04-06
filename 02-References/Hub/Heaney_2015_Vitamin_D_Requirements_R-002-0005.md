@@ -19,9 +19,12 @@ parent-moc: "[[MOC-References-Active]]"
 Heaney RP, Armas LAG. Quantifying the vitamin D requirement. Nutrients. 2015;7(3):1688-1690. doi:10.3390/nu7031688
 
 ## Source
+- **Primary source:** Nutrients
+- **Citation extracted from:** Facebook Posts Collection
 - **DOI:** 10.3390/nu7031688
 - **PMID:** 25763705
 - **URL:** https://www.mdpi.com/2072-6643/7/3/1688
+- **Status:** Verified PMID/DOI, citation from source
 
 ---
 

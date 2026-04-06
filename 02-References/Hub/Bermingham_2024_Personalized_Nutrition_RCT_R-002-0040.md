@@ -20,12 +20,15 @@ parent-moc: "[[MOC-Clinical-Protocols]]"
 Bermingham KM, Linenberg I, Polidori L, et al. "Effects of a personalized nutrition program on cardiometabolic health: a randomized controlled trial." *Nat Med*. 2024;30(7):1888-1897. doi:10.1038/s41591-024-02951-6
 
 ## Source
+- **Primary source:** Nature Medicine
+- **External source:** Not from Facebook Collection
 - **Journal:** Nature Medicine
 - **Year:** 2024
 - **Type:** Randomized controlled trial
 - **PMID:** [38714898](https://pubmed.ncbi.nlm.nih.gov/38714898/)
 - **PMCID:** [PMC11271409](https://pmc.ncbi.nlm.nih.gov/articles/PMC11271409/)
 - **Full text:** [Nature Medicine](https://www.nature.com/articles/s41591-024-02951-6)
+- **Status:** Verified PMID/DOI, external reference
 
 ---
 

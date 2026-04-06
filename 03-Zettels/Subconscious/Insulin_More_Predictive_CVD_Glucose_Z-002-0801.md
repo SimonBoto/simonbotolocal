@@ -1,0 +1,48 @@
+---
+uid: Z-002-0801
+type: zettel
+title: "Insulin More Predictive of CVD Than Glucose — The Paradigm Shift"
+aliases: ["Z-002-0801", "Insulin-More-Predictive-CVD"]
+domain: 002
+status: conscious
+tags: [zettel, insulin, glucose, cvd, paradigm, accord, mortality]
+parent-index: "[[03-Zettels-Conscious]]"
+parent-moc: "[[MOC-Insulin-Signaling]]"
+source-litnote: "[[L-002-0221_Glucose_vs_Insulin_CVD]]"
+source-reference: "[[Glucose_vs_Insulin_CVD_Literature_R-002-0056]]"
+related: []
+---
+
+# Insulin More Predictive of CVD Than Glucose — The Paradigm Shift
+
+## Core Claim
+**Insulin levels and insulin resistance are more predictive of cardiovascular disease and mortality than glucose levels** — the ACCORD study showed intensive glucose control increased deaths, while metformin and lifestyle interventions that improve insulin sensitivity reduce mortality, indicating that the insulin-centric paradigm better explains CVD risk than the glucose-centric paradigm.
+
+## The Evidence
+
+### ACCORD Study Findings
+| Outcome | Intensive Glucose Control |
+|---------|---------------------------|
+| **Mortality** | 22% INCREASE |
+| **CVD events** | No significant reduction |
+| **Harm** | Study stopped early |
+
+### What Works
+- **Metformin** — improves insulin sensitivity, reduces mortality
+- **Lifestyle** — improves insulin sensitivity, reduces mortality
+- **Insulin resistance** — strongly associated with CVD and all-cause death
+
+## The Paradigm Shift
+| Old Paradigm (Glucose-Centric) | New Paradigm (Insulin-Centric) |
+|--------------------------------|--------------------------------|
+| Lower glucose = better | Lower insulin = better |
+| Focus on HbA1c | Focus on insulin resistance |
+| Aggressive glucose lowering | Improve insulin sensitivity |
+
+## Clinical Implications
+- Targeting insulin resistance more important than aggressive glucose lowering
+- Metformin and lifestyle preferred over insulin-promoting therapies
+- Fasting insulin assessment essential for CVD risk stratification
+
+---
+*Source: [[Glucose_vs_Insulin_CVD_Literature_R-002-0056]]*

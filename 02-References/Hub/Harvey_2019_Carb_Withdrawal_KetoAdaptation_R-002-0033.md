@@ -19,10 +19,13 @@ parent-moc: "[[MOC-Metabolic-Syndrome]]"
 Harvey CJC, Schofield GM, Zinn C, Thornley S, et al. Effects of differing levels of carbohydrate restriction on mood, achievement of nutritional ketosis, and symptoms of carbohydrate withdrawal in healthy adults: a randomized clinical trial. *Nutrition*. 2019. doi:10.1016/j.nut.2019.06.007
 
 ## Source
+- **Primary source:** Nutrition (Elsevier)
+- **External source:** Not from Facebook Collection
 - **Journal:** Nutrition (Elsevier)
 - **Year:** 2019
 - **Type:** Randomized clinical trial
 - **DOI:** [10.1016/j.nut.2019.06.007](https://doi.org/10.1016/j.nut.2019.06.007)
+- **Status:** Verified DOI, external reference
 
 ---
 

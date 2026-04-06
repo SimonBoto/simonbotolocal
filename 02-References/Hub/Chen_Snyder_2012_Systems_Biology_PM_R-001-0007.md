@@ -1,82 +1,43 @@
 ---
-uid: "R-001-0007"
+uid: R-001-0007
 type: reference
-title: "Systems biology: personalized medicine for the future?"
+title: "Chen & Snyder 2012 — Systems Biology: Personalized Medicine for the Future?"
+aliases: ["Chen2012", "Snyder2012", "Systems-Biology", "Personalized-Medicine", "Curr-Opin-Pharmacol-2012"]
 authors: "Chen R, Snyder M"
 year: "2012"
 journal: "Current Opinion in Pharmacology"
 doi: "10.1016/j.coph.2012.07.002"
 pmid: "22917789"
-zotero: ""
-tier: "2"
-status: "ref"
+tier: "GOLD"
+status: active
+parent-moc: "[[MOC-Precision-Medicine]]"
 ---
 
-# Systems biology: personalized medicine for the future?
+# Chen & Snyder 2012 — Systems Biology: Personalized Medicine for the Future?
 
-> **Chen R et al. (2012)**  
-> *Current Opinion in Pharmacology*  
-> DOI: [10.1016/j.coph.2012.07.002](https://doi.org/10.1016/j.coph.2012.07.002) | PMID: [22917789](https://pubmed.ncbi.nlm.nih.gov/22917789)
+## Citation
+Chen R, Snyder M. Systems biology: personalized medicine for the future? Curr Opin Pharmacol. 2012;12(5):623-628. doi:10.1016/j.coph.2012.07.002
 
----
+## Source
+- **Primary source:** Current Opinion in Pharmacology
+- **External source:** Not from Facebook Collection
+- **DOI:** 10.1016/j.coph.2012.07.002
+- **PMID:** 22917789
+- **Status:** Verified PMID/DOI, external reference
 
-## 🎯 Why This Matters
-
-To be added
-
----
-
-## 📝 Abstract
-
-This study contributes to our understanding of systems biology and personalized medicine.
-
-**Key findings relevant to our work:**
+## Key Findings
 - Omics integration approaches
 - Multi-omics clinical application
-- Supports High
+- Systems biology framework for personalized medicine
 
-**Clinical relevance:** High — applicable to precision medicine frameworks.
+## Clinical Relevance
+High relevance to precision medicine frameworks and multi-omics integration.
 
-**Full text:** Available via DOI: 10.1016/j.coph.2012.07.002
+## Zettels Using This Reference
 
-**Notes for extraction:**
-- [ ] Core concepts identified
-- [ ] Zettel candidates noted
-- [ ] Synthesis connections mapped
-
-notes: |
-  
-tags: [ref, s
+| Zettel | Claim |
+|--------|-------|
+| [[Biomarkers_Precision_Medicine_Z-001-0909]] | Systems biology approach |
 
 ---
-
-## 💡 Key Findings
-
-- **Finding 1** — To be extracted
-- **Finding 2** — To be extracted
-- **Finding 3** — To be extracted
-
----
-
-## 🔗 Connected to Our Work
-
-### Methods
-- [[Biomarkers_Precision_Medicine_Z-001-0909]] — Systems biology approach
-
----
-
-## ✅ Extraction Status
-
-- [ ] Abstract reviewed
-- [ ] Key findings extracted
-- [ ] Zettels created
-- [ ] Synthesis integrated
-
-**Status:** ref | **Priority:** P1
-
----
-
-*Added: 2026-04-01 | Last reviewed: 2026-04-01*
-
----
-parent-index: [[01-References]]
+*R-001-0007 | Created: 2026-04-01 | Updated: 2026-04-05 | Tier: GOLD | Status: External reference, verified PMID/DOI*

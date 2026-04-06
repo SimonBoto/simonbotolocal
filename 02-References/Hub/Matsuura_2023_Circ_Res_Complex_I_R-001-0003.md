@@ -19,9 +19,12 @@ parent-moc: "[[MOC-References-Active]]"
 Matsuura TR, Shao D, Tian R. Mitochondrial Complex I in cardiac metabolism and disease. Circulation Research. 2023;132(7):882-898.
 
 ## Source
+- **Primary source:** Circulation Research
+- **External source:** Not from Facebook Collection
 - **DOI:** 10.1161/CIRCRESAHA.122.321666
 - **PMID:** 36912345
 - **URL:** https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.122.321666
+- **Status:** Verified PMID/DOI, external reference
 
 ---
 

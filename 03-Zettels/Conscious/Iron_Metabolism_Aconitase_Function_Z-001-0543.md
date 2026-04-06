@@ -2,73 +2,126 @@
 uid: Z-001-0543
 type: zettel
 title: Iron Metabolism and Aconitase Function
-aliases: [Iron-Metabolism, Fe-S-Assembly, Iron-Deficiency, Iron-Overload]
+aliases: [Iron-Metabolism, Aconitase, Iron-Deficiency, Fe-S-Cluster]
 domain: 001
-tags: [zettel, iron-metabolism, fe-s-assembly, iron-deficiency, aconitase]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags: [zettel, iron-metabolism, aconitase, iron-deficiency, fe-s-cluster, ferritin]
+parent-moc: [[MOC-Iron-Metabolism]]
 status: conscious
-source-litnote: [[LitNote_Aconitase_Enzyme_L-001-0508]
+source-litnote: [[L-001-0508_Aconitase_Enzyme_CGPT-0393]]
 extraction-date: 2026-03-01
 ---
 
-# Iron  and Aconitase Function
+# Iron Metabolism and Aconitase Function
 
-> Adequate iron is essential for Fe-S cluster assembly, with deficiency impairing aconitase and causing citrate accumulation, while excess causes oxidative damage.
+## Core Claim
+Adequate iron status is essential for aconitase function because iron is a structural and catalytic component of the [4Fe-4S] cluster; iron deficiency impairs Fe-S cluster assembly, leading to accumulation of citrate and aconitate, while iron overload causes oxidative damage through Fenton chemistry, establishing a narrow therapeutic window for optimal mitochondrial function.
 
-## Fe-S Cluster Assembly
+## Evidence
 
-**Requirements:**
-- Iron import into 
-- Sulfur from cysteine (NFS1)
-- Scaffold proteins (ISCU)
-- Chaperones for transfer
+### Iron Requirement for Fe-S Assembly
 
-## Iron Deficiency Effects
+**Fe-S Cluster Biogenesis:**
+1. **Iron import:** Mitochondrial iron via mitoferrin transporters
+2. **Sulfur mobilization:** Cysteine desulfurase (NFS1) generates sulfide
+3. **Scaffold assembly:** ISCU protein assembles nascent [4Fe-4S] cluster
+4. **Chaperone transfer:** HSC20 delivers cluster to apo-aconitase
+5. **Insertion:** Cluster integrates into enzyme active site
 
-**Molecular:**
-- Reduced Fe-S cluster synthesis
-- Apo-aconitase (inactive)
-- Citrate accumulation
+**Iron Trafficking:**
+- Plasma iron bound to transferrin
+- Transferrin receptor mediates cellular uptake
+- Ferritin stores intracellular iron
+- Mitochondria import iron via mitoferrin
 
-**Systemic:**
-- Fatigue
+### Iron Deficiency Effects
+
+**Molecular Consequences:**
+| Level | Effect | Result |
+|-------|--------|--------|
+| **Fe-S assembly** | Reduced cluster synthesis | Apo-aconitase (inactive) |
+| **Enzyme activity** | Impaired catalysis | Citrate accumulation |
+| **Organic acids** | Elevated citrate, aconitate | OAT abnormalities |
+| **Energy metabolism** | Impaired Krebs cycle | Reduced ATP production |
+
+**Systemic Manifestations:**
+- Fatigue (impaired ATP synthesis)
 - Exercise intolerance
-- Impaired ATP production
+- Cold intolerance
+- Cognitive impairment
+- Pica (eating non-food items)
 
-## Iron Overload Dangers
+**Laboratory Findings:**
+- Low ferritin (<30 ng/mL)
+- Low serum iron
+- High TIBC
+- Low transferrin saturation (<20%)
+- Elevated citrate/aconitate on OAT
+
+### Iron Overload Dangers
 
 **Fenton Chemistry:**
 ```
 Fe²⁺ + H₂O₂ → Fe³⁺ + OH• + OH⁻
 ```
-- Hydroxyl radicals
--  damage
-- Lipid peroxidation
+- Hydroxyl radicals (OH•) extremely reactive
+- Damage lipids, proteins, DNA
+- Mitochondria particularly vulnerable
 
-## Clinical Balance
+**Clinical Conditions:**
+| Condition | Mechanism | Manifestation |
+|-----------|-----------|---------------|
+| **Hemochromatosis** | Genetic iron overload | Liver damage, diabetes, cardiomyopathy |
+| **Transfusion overload** | Repeated transfusions | Organ iron deposition |
+| **Sideroblastic anemia** | Ineffective erythropoiesis | Iron overload despite anemia |
 
-- **Sufficient:** For Fe-S clusters
-- **Not excessive:** Avoid oxidative stress
-- **Monitor:** Ferritin, transferrin saturation
+### The Iron Balance
+
+**Optimal Ferritin:**
+- General population: 30-100 ng/mL
+- Athletes: 50-100 ng/mL
+- Inflammation: Higher thresholds (acute phase reactant)
+
+**Clinical Balance Required:**
+- Deficiency: Impaired Fe-S enzymes, anemia
+- Sufficiency: Optimal enzyme function
+- Excess: Oxidative damage, organ toxicity
+
+## Clinical Implication
+
+**Assessment:**
+- Ferritin (stores)
+- Serum iron, TIBC, transferrin saturation (transport)
+- CBC (anemia)
+- OAT citrate/aconitate (functional)
+
+**Supplementation:**
+- Oral iron: Ferrous sulfate, bisglycinate
+- Vitamin C enhances absorption
+- Avoid with calcium, PPIs
+- Monitor ferritin response
+
+**Caution:**
+- Do not supplement without documented deficiency
+- Iron overload more common than appreciated
+- Hereditary hemochromatosis screening
+
+## METHAP Relevance
+
+**Clinical Integration:**
+- Iron status part of comprehensive metabolic assessment
+- OAT functional marker complements serum studies
+- Targeted repletion based on objective data
+- Monitor for both deficiency and overload
 
 ---
 
-*Source: [[LitNote_Aconitase_Enzyme_L-001-0508]*
+## Related Zettels
+- [[Aconitase_Catalytic_Mechanism_Z-001-0541]] — Aconitase mechanism
+- [[Iron_Sulfur_Cluster_Biochemistry_Z-001-0542]] — Fe-S cluster structure
+- [[Cytosolic_Aconitase_IRP1_Dual_Function_Z-001-0544]] — IRP1 dual function
 
-
-## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
-- 
-- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
-- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
+## Source
+[[L-001-0508_Aconitase_Enzyme_CGPT-0393]]
 
 ---
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
-
----
-parent-index: [[03-Zettels-Conscious]]
+parent-index: [[03-Zettels]]

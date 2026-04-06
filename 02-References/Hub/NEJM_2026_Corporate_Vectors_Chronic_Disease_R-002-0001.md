@@ -19,9 +19,12 @@ parent-moc: "[[MOC-References-Active]]"
 New England Journal of Medicine. Corporate Vectors of Chronic Disease. N Engl J Med. 2026;[Volume]:[Pages]. Published March 25, 2026.
 
 ## Source
+- **Primary source:** New England Journal of Medicine
+- **Citation extracted from:** Facebook Posts Collection
 - **DOI:** TBD (awaiting formal publication indexing)
 - **PMID:** TBD
 - **URL:** https://www.nejm.org/
+- **Status:** Citation from source; awaiting full publication
 
 ---
 

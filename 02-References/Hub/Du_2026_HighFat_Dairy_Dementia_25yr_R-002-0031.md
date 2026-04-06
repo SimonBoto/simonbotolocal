@@ -19,10 +19,13 @@ parent-moc: "[[MOC-Metabolic-Syndrome]]"
 Du Y, Borné Y, Samuelsson J, et al. High- and low-fat dairy consumption and long-term risk of dementia: evidence from a 25-year prospective cohort study. *Neurology*. 2026;104(2):e2104343. doi:10.1212/WNL.0000000000214343
 
 ## Source
+- **Primary source:** Neurology (American Academy of Neurology)
+- **External source:** Not from Facebook Collection
 - **Journal:** Neurology (American Academy of Neurology)
 - **Year:** 2026
 - **Type:** 25-year prospective cohort study
 - **DOI:** [10.1212/WNL.0000000000214343](https://doi.org/10.1212/WNL.0000000000214343)
+- **Status:** Verified DOI, external reference
 
 ---
 

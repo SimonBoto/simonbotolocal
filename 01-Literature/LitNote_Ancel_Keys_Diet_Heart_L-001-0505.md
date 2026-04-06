@@ -1,17 +1,19 @@
 ---
 uid: L-001-0505
 type: lit-note
-title: "Lit — Ancel Keys and the Diet-Heart Hypothesis (Scientific Legacy, Policy Impact, and Modern Reassessment)"
+title: Lit — Ancel Keys and the Diet-Heart Hypothesis (Scientific Legacy, Policy Impact, and Modern Reassessment)
 authors: ChatGPT synthesis from Seven Countries Study analysis (CGPT-0074)
 year: 2024
 journal: Internal clinical synthesis
 tier: GOLD
 relevance: Critical — Understanding how scientific ideas become policy, the history of dietary guidelines, and lessons for evidence-based medicine
 status: extracted
-parent-moc: [[MOC-Nutrition]]
-parent-index: [[02-Literature]]
+parent-moc:
+  - - MOC-Nutrition
+parent-index:
+  - - 02-Literature
 extraction-date: 2026-03-01
-source: "[[CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]]"
+source: "[[00-Inbox/Processed/CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]]"
 ---
 
 # Lit: Ancel Keys and the Diet-Heart Hypothesis

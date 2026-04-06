@@ -2,125 +2,121 @@
 uid: Z-001-1118
 type: zettel
 title: Cancer Metabolic Reprogramming Glycolysis PPP
-aliases: [Z-001-1118, Cancer-Reprogramming]
+aliases: [Cancer-Metabolic-Reprogramming, Glycolysis, Pentose-Phosphate-Pathway, Biosynthesis]
 domain: 001
-domain-name: Cancer Metabolism
-tags: [zettel, cancer, reprogramming, glycolysis, ppp]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]
-source: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]
-confidence: high
-created: 2026-03-08
+tags: [zettel, cancer-metabolic-reprogramming, glycolysis, pentose-phosphate-pathway, biosynthesis]
+parent-moc: [[MOC-Cancer-Metabolism]]
+status: conscious
+source-litnote: [[L-001-0608_Warburg_Effect_Cancer_Metabolism_CGPT-0264]]
+extraction-date: 2026-03-08
 ---
 
 # Cancer Metabolic Reprogramming Glycolysis PPP
 
-## Overview
-Cancer cells reprogram  to support rapid proliferation—prioritizing biosynthesis over energy efficiency through glycolysis and the pentose phosphate pathway.
+## Core Claim
+Cancer cells reprogram metabolism to prioritize glycolysis and the pentose phosphate pathway (PPP), generating not just ATP but essential biosynthetic precursors—ribose for nucleotides, NADPH for reductive biosynthesis, and glycolytic intermediates for amino acids and lipids—supporting the high anabolic demands of rapid proliferation.
 
-## The Proliferation Requirement
+## Evidence
 
-### Building Blocks Needed
-| Molecule | Use | Metabolic Source |
-|----------|-----|------------------|
-| **Nucleotides** | DNA/RNA synthesis | PPP (ribose-5-phosphate) |
-| **Amino acids** | Protein synthesis | Glycolysis intermediates |
-| **Lipids** | Membranes | Citrate export (lipogenesis) |
-| **NADPH** | Reducing power | PPP oxidative phase |
+### Metabolic Shift in Cancer
 
-### Cancer vs Normal Cell Priorities
-| Priority | Normal Cell | Cancer Cell |
-|----------|-------------|-------------|
-| **Primary** | Energy (ATP) | Biosynthesis |
-| **Secondary** | Maintenance | Proliferation |
-| **Efficiency** | Maximized | Sacrificed for speed |
+**From Energy Production to Biosynthesis:**
 
-## Pentose Phosphate Pathway in Cancer
+| Normal Cells | Cancer Cells |
+|--------------|--------------|
+| Maximize ATP efficiency | Maximize biomass production |
+| OXPHOS dominant | Glycolysis + PPP dominant |
+| Catabolic focus | Anabolic focus |
+| Maintain homeostasis | Support proliferation |
 
-### Why Upregulated?
-| Function | Cancer Need |
-|----------|-------------|
-| **Ribose-5-phosphate** | Nucleotide synthesis for replication |
-| **NADPH** | Reductive biosynthesis, antioxidant defense |
-| **Erythrose-4-phosphate** | Aromatic amino acid synthesis |
+### Glycolytic Intermediates for Biosynthesis
 
-### PPP Enzymes in Cancer
-| Enzyme | Change | Effect |
-|--------|--------|--------|
-| **G6PD** | Overexpressed | Increased NADPH and ribose |
-| **Transketolase** | Overexpressed | Enhanced non-oxidative PPP |
-| **TKTL1** | Expressed (cancer-specific) | Alternative transketolase |
-
-## Metabolic Shunting
-
-### Glycolytic Intermediates as Precursors
+**Glucose-6-Phosphate Branch Points:**
 ```
-Glucose-6-P → Ribose-5-P (for DNA/RNA)
-     ↓
-Fructose-6-P → Amino sugars (for glycosylation)
-     ↓
-Glyceraldehyde-3-P → Serine, glycine (for proteins)
-     ↓
-3-phosphoglycerate → Serine (for proteins, nucleotides)
-     ↓
-Pyruvate → Acetyl-CoA →  (for membranes)
+G6P
+├──→ Glycolysis → Pyruvate → Lactate (ATP)
+├──→ PPP → Ribose-5-P (nucleotides)
+└──→ PPP → NADPH (reductive biosynthesis)
 ```
 
-### Citrate Export
-- ** → Cytosol:** Citrate shuttle
-- **ATP-citrate lyase:** Cleaves to acetyl-CoA
-- **Acetyl-CoA carboxylase:** Initiates fatty acid synthesis
-- **Result:** Lipid synthesis for membranes
+**Key Intermediates:**
 
-## Oncogenes and Metabolism
+| Intermediate | Product | Purpose |
+|--------------|---------|---------|
+| **Glucose-6-P** | Ribose-5-P (via PPP) | Nucleotide synthesis |
+| **Fructose-6-P** | Amino sugars | Glycosylation |
+| **Glyceraldehyde-3-P** | Glycerol-3-P | Lipid synthesis |
+| **3-Phosphoglycerate** | Serine, glycine | Amino acids |
+| **Pyruvate** | Acetyl-CoA | Fatty acid synthesis |
+
+### Pentose Phosphate Pathway (PPP) Upregulation
+
+**Oxidative Branch:**
+```
+Glucose-6-P + 2 NADP⁺ → Ribose-5-P + 2 NADPH + CO₂
+```
+
+**Functions:**
+- **Ribose-5-phosphate:** Backbone for nucleotides (DNA/RNA synthesis)
+- **NADPH:** Reducing power for:
+  - Fatty acid synthesis
+  - Cholesterol synthesis
+  - Antioxidant defense (glutathione reduction)
+  - Nitric oxide synthesis
+
+**Non-Oxidative Branch:**
+- Interconverts sugar phosphates
+- Connects to glycolysis
+- Flexible response to cellular needs
+
+### Regulatory Mechanisms
+
+**Oncogene-Driven Reprogramming:**
 
 | Oncogene | Metabolic Effect |
 |----------|------------------|
-| **MYC** | Drives glycolysis, glutaminolysis |
-| **RAS** | Enhances glycolysis, autophagy |
-| **PI3K/Akt** | Stimulates glucose uptake, glycolysis |
-| **HIF-1α** | Induces glycolytic genes (even in normoxia) |
+| **Myc** | Upregulates glycolysis, glutaminolysis |
+| **Ras** | Enhances glucose uptake, glycolysis |
+| **PI3K/Akt** | Activates glycolysis, inhibits apoptosis |
+| **HIF-1α** | Master regulator of hypoxic glycolysis |
 
-## Tumor Suppressors and Metabolism
+**Tumor Suppressor Loss:**
+- **p53:** Normally inhibits glycolysis, promotes OXPHOS
+- Mutant p53 loses this function
+- Contributes to Warburg effect
 
-| Suppressor | Metabolic Function |
-|------------|-------------------|
-| **p53** | Suppresses glycolysis, promotes OXPHOS |
-| **PTEN** | Inhibits PI3K/Akt (glycolysis driver) |
-| **LKB1** | Activates AMPK (energy sensor) |
+## Clinical Implication
 
-## Therapeutic Implications
+**Therapeutic Targets:**
 
-### Targeting Biosynthesis
-| Pathway | Target | Rationale |
-|---------|--------|-----------|
-| **Nucleotide synthesis** | DHFR, TS | Block DNA replication |
-| **Lipid synthesis** | FASN, ACC | Block membrane synthesis |
-| **Amino acid metabolism** | Glutaminase | Glutamine addiction |
-| **Redox balance** | G6PD | Block NADPH generation |
+| Target | Rationale | Approach |
+|--------|-----------|----------|
+| **G6PD** (PPP rate-limiting) | Blocks NADPH and ribose | Inhibitors under development |
+| **PKM2** | Regulates glycolytic flux | Activators shift to OXPHOS |
+| **Glutaminase** | Cancer cells addicted to glutamine | Inhibitors in trials |
 
-## Related
-- [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]
-- [[Tumor_Microenvironment_Lactate_Acidification_Z-001-1119]
-- 
+**Metabolic Imaging:**
+- **FDG-PET:** Measures glucose uptake
+- **FLT-PET:** Measures thymidine uptake (proliferation)
+- Combined assessment of metabolism + growth
 
----
-*Source: CGPT-0264 — Warburg effect and cancer*
+## METHAP Relevance
 
-
-## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-- 
-- [[mtDNA_Mutations_Cancer_Metastasis_Z-001-1167]|Z-001-1167]
+**Dietary Interventions:**
+- Low-carbohydrate/ketogenic approaches
+- Limit glucose availability to cancer cells
+- Combine with standard therapies
+- Personalized based on metabolic profile
 
 ---
 
-## Connection to Vault
+## Related Zettels
+- [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]] — Warburg effect
+- [[Tumor_Microenvironment_Lactate_Acidification_Z-001-1119]] — Tumor microenvironment
+- [[Mitochondrial_Dysfunction_Cancer_Metabolism_Z-001-1120]] — Mitochondrial dysfunction
 
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Source
+[[L-001-0608_Warburg_Effect_Cancer_Metabolism_CGPT-0264]]
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+parent-index: [[03-Zettels]]

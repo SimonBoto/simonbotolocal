@@ -8,9 +8,10 @@ journal: Internal synthesis from historical analysis
 tier: SILVER
 relevance: High — Corrects foundational public health misconceptions about vitamin D safety
 status: extracted
-parent-moc: [[MOC-Vitamin-D]]
+parent-moc:
+  - - MOC-Vitamin-D
 extraction-date: 2026-03-01
-source: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
+source: "[[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
 ---
 
 # Lit: Historical Vitamin D Toxicity Misconceptions — From Fortification Fear to Genetic Truth

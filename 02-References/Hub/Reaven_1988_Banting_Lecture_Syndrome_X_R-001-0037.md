@@ -1,83 +1,45 @@
 ---
-uid: "R-001-0037"
+uid: R-001-0037
 type: reference
-title: ""
-authors: ""
-year: ""
-journal: ""
+title: "Reaven 1988 — Banting Lecture: Role of Insulin Resistance in Human Disease (Syndrome X)"
+aliases: ["Reaven1988", "Banting-Lecture", "Syndrome-X", "Metabolic-Syndrome", "Diabetes-1988"]
+authors: "Reaven GM"
+year: "1988"
+journal: "Diabetes"
 doi: "10.2337/diab.37.12.1595"
 pmid: "3056759"
-zotero: ""
-tier: "1"
-status: "ref"
+tier: "GOLD"
+status: active
+parent-moc: "[[MOC-Metabolic-Syndrome]]"
 ---
 
-# Reference
+# Reaven 1988 — Banting Lecture: Role of Insulin Resistance in Human Disease (Syndrome X)
 
-> **Author et al. (Year)**  
-> *Journal*  
-> DOI: [10.2337/diab.37.12.1595](https://doi.org/10.2337/diab.37.12.1595) | PMID: [3056759](https://pubmed.ncbi.nlm.nih.gov/3056759)
+## Citation
+Reaven GM. Banting Lecture 1988: Role of insulin resistance in human disease. Diabetes. 1988;37(12):1595-607. doi:10.2337/diab.37.12.1595
 
----
+## Source
+- **Primary source:** Diabetes
+- **External source:** Not from Facebook Collection
+- **DOI:** 10.2337/diab.37.12.1595
+- **PMID:** 3056759
+- **Status:** Verified PMID/DOI, external reference
 
-## 🎯 Why This Matters
+## Key Findings
+- Original description of Syndrome X (Metabolic Syndrome)
+- Insulin resistance as central pathophysiology
+- Clustering of metabolic abnormalities
+- Foundation for modern metabolic syndrome concept
 
-To be added
+## Clinical Relevance
+Classic Banting Lecture — foundational for understanding insulin resistance and metabolic syndrome.
 
----
+## Zettels Using This Reference
 
-## 📝 Abstract
-
-notes: |
-  
-tags: [ref, insulin-resistance, syndrome-x, metabolic-syndrome, classic]
-domains:
-  - "001"
-status: "ref"
-extraction-priority: P1
-parent-moc: [[MOC-Research-Methods]
-connections:
-  extracted-zettels: []
-  synthesis-links: []
-  related-refs: []
-  supports-claims: []
-  contradicts-claims: []
-  methods-source: []
-litnotes-created: []
-extraction-date: ""
-extracted-by: ""
-quality-score: medium
+| Zettel | Claim |
+|--------|-------|
+| [[Metabolic_Syndrome_Clinical_Manifestations_Presentation_Z-001-0203]] | Original Syndrome X description |
+| [[HOMA_IR_Calculation_Interpretation_Z-001-0046]] | IR assessment foundation |
 
 ---
-
-## 💡 Key Findings
-
-- **Finding 1** — To be extracted
-- **Finding 2** — To be extracted
-- **Finding 3** — To be extracted
-
----
-
-## 🔗 Connected to Our Work
-
-### Supports
-- [[Metabolic_Syndrome_Clinical_Manifestations_Presentation_Z-001-0203]] — Original Syndrome X description
-- [[HOMA_IR_Calculation_Interpretation_Z-001-0046]] — IR assessment foundation
-
----
-
-## ✅ Extraction Status
-
-- [ ] Abstract reviewed
-- [ ] Key findings extracted
-- [ ] Zettels created
-- [ ] Synthesis integrated
-
-**Status:** ref | **Priority:** P1
-
----
-
-*Added: 2026-04-01 | Last reviewed: 2026-04-01*
-
----
-parent-index: [[01-References]]
+*R-001-0037 | Created: 2026-04-01 | Updated: 2026-04-05 | Tier: GOLD | Status: External reference, verified PMID/DOI*

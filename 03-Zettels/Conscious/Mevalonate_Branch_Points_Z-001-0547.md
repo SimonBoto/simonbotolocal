@@ -1,63 +1,127 @@
 ---
 uid: Z-001-0547
 type: zettel
-title: Mevalonate Branch Points — Diverse Fates
-aliases: [Branch-Points, FPP, Cholesterol, CoQ10, Prenylation]
+title: Mevalonate Branch Points
+aliases: [Mevalonate-Branch, FPP, Farnesyl-Pyrophosphate, Prenylation, CoQ10]
 domain: 001
-tags: [zettel, branch-points, fpp, cholesterol, coq10, prenylation]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags: [zettel, mevalonate-branch, fpp, farnesyl-pyrophosphate, prenylation, coq10, cholesterol]
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
-source-litnote: [[LitNote_Mevalonate_Pathway_L-001-0509]
+source-litnote: [[L-001-0509_Mevalonate_Pathway_CGPT-0393]]
 extraction-date: 2026-03-01
 ---
 
-# Mevalonate Branch Points — Diverse Fates
+# Mevalonate Branch Points
 
-> Farnesyl pyrophosphate (FPP) is the critical metabolic crossroads directing flux to , CoQ10, or protein prenylation.
+## Core Claim
+Farnesyl pyrophosphate (FPP, C15) represents a critical metabolic crossroads directing carbon flux toward four distinct fates: cholesterol synthesis (via squalene), Coenzyme Q10 production, protein prenylation (farnesylation and geranylgeranylation), and dolichol synthesis for N-glycosylation, with cellular needs determining branch point utilization.
 
-## Branch 1: Cholesterol
+## Evidence
 
-**Route:** FPP → Squalene → Cholesterol
-**Purpose:** Cell membranes, hormones, bile acids
-**Regulation:** SREBP-2, 
+### Branch Point 1: Cholesterol Synthesis
 
-## Branch 2: Coenzyme Q10
+**Pathway:**
+```
+FPP → Squalene (C30) → Lanosterol → Cholesterol (C27)
+```
 
-**Route:** FPP + p-Hydroxybenzoate → CoQ10
-**Purpose:** ETC (Complexes I-III), antioxidant
-**Synthesis:** COQ1-COQ9 enzymes
+**Enzyme:** Squalene synthase (FDFT1)
+**Regulation:** SREBP-2 activates transcription
 
-## Branch 3: Protein Prenylation
+**Cholesterol Functions:**
+- Cell membrane fluidity and stability
+- Precursor for steroid hormones (cortisol, aldosterone, sex steroids)
+- Bile acid synthesis
+- Vitamin D3 synthesis (7-dehydrocholesterol intermediate)
 
-| Type | Isoprenoid | Targets |
-|------|------------|---------|
-| **Farnesylation** | FPP (C15) | Ras, lamin B |
-| **Geranylgeranylation** | GGPP (C20) | Rho, Rac, Rap |
+**Clinical Note:** Statins block HMG-CoA reductase upstream, reducing FPP availability for ALL branches.
 
-**Function:** Lipid membrane anchor, signaling
+### Branch Point 2: Coenzyme Q10 Synthesis
 
-## Branch 4: Dolichol
+**Pathway:**
+```
+FPP + p-Hydroxybenzoic acid → CoQ10 (Ubiquinone)
+(9 enzymatic steps, COQ1-COQ9)
+```
 
-**Route:** FPP → Long-chain isoprenoid
-**Purpose:** N-glycosylation, ER function
+**CoQ10 Functions:**
+- Electron transport chain (Complexes I-III shuttle)
+- Lipid-soluble antioxidant
+- Membrane stabilizer
+- Required for uncoupling protein function
+
+**Tissue Distribution:**
+| Tissue | CoQ10 Level | Rationale |
+|--------|-------------|-----------|
+| Heart | Highest | High oxidative demand |
+| Liver | High | Metabolic activity |
+| Kidney | High | Energy-dependent transport |
+| Brain | Moderate | Oxidative protection |
+| Muscle | Variable | Exercise-dependent |
+
+**Statin Effect:** 40-50% reduction in CoQ10 synthesis.
+
+### Branch Point 3: Protein Prenylation
+
+**Farnesylation (C15):**
+- Target: Ras, lamin B, nuclear lamins
+- Enzyme: Farnesyltransferase
+- Function: Membrane targeting, protein-protein interactions
+
+**Geranylgeranylation (C20):**
+- Target: Rho, Rac, Rap, most small GTPases
+- Enzyme: Geranylgeranyltransferase
+- Function: Cytoskeletal regulation, signal transduction
+
+**Clinical Significance:**
+- Ras oncogenes require farnesylation for activity
+- Anti-cancer target: Farnesyltransferase inhibitors
+- Bisphosphonates inhibit protein prenylation (bone metastases)
+
+### Branch Point 4: Dolichol Synthesis
+
+**Pathway:**
+```
+FPP + IPP → Dolichol (long-chain isoprenoid, C80-C100)
+```
+
+**Function:**
+- N-glycosylation of proteins (ER membrane)
+- Protein quality control
+- Membrane fluidity maintenance
+
+**Clinical:** Defects cause congenital disorders of glycosylation.
+
+## Clinical Implication
+
+**Statin Consequences Beyond Cholesterol:**
+- CoQ10 depletion (mitochondrial dysfunction)
+- Impaired protein prenylation (cell signaling)
+- Reduced dolichol (glycosylation)
+
+**Therapeutic Considerations:**
+- CoQ10 supplementation addresses mitochondrial side effects
+- Protein prenylation effects less clinically apparent
+- Individual variation in branch point utilization
+
+## METHAP Relevance
+
+**Personalized Approach:**
+- Assess CoQ10 need based on statin use, symptoms
+- Monitor mitochondrial function (OAT, symptoms)
+- Support all branches with adequate FPP precursor
+- Consider CoQ10 as core supplement for metabolic health
 
 ---
 
-*Source: [[LitNote_Mevalonate_Pathway_L-001-0509]*
+## Related Zettels
+- [[Mevalonate_Pathway_Enzymatic_Steps_Z-001-0545]] — Complete pathway
+- [[HMG_CoA_Reductase_Regulation_Z-001-0546]] — HMGCR regulation
+- [[Mevalonate_Clinical_Implications_Z-001-0548]] — Statin effects
+- [[Mevalonate_METHAP_Integration_Z-001-0549]] — METHAP protocol
 
-
-## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
-- _Gaps_Z-001-0111]|Z-001-0111]
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Source
+[[L-001-0509_Mevalonate_Pathway_CGPT-0393]]
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+parent-index: [[03-Zettels]]

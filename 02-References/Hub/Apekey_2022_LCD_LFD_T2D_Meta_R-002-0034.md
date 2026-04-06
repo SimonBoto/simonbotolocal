@@ -19,11 +19,14 @@ parent-moc: "[[MOC-Diabetes-T2D]]"
 Apekey TA, Maynard MJ, Kittana M, Kunutsor SK. Comparison of the effectiveness of low carbohydrate versus low fat diets in type 2 diabetes: systematic review and meta-analysis of randomized controlled trials. *Nutrients*. 2022;14(20):4391. doi:10.3390/nu14204391
 
 ## Source
+- **Primary source:** Nutrients (MDPI)
+- **External source:** Not from Facebook Collection
 - **Journal:** Nutrients (MDPI)
 - **Year:** 2022
 - **Type:** Systematic review and meta-analysis
 - **Studies:** 22 unique RCTs
 - **DOI:** [10.3390/nu14204391](https://doi.org/10.3390/nu14204391)
+- **Status:** Verified DOI, external reference
 
 ---
 

@@ -1,16 +1,17 @@
 ---
 uid: L-001-0212
 type: lit-note
-title: "Lit — Vitamin D and K2 Synergy Mechanisms (Protein Synthesis, Carboxylation, Metabolic Integration)"
+title: Lit — Vitamin D and K2 Synergy Mechanisms (Protein Synthesis, Carboxylation, Metabolic Integration)
 authors: ChatGPT synthesis from narrative review development (CGPT-0230)
 year: 2024
 journal: Internal clinical synthesis
 tier: GOLD
 relevance: Critical — METHAP protocol synergy rationale; biochemical foundation for co-supplementation
 status: extracted
-parent-moc: [[MOC-Vitamin-D-K2]]
+parent-moc:
+  - - MOC-Vitamin-D-K2
 extraction-date: 2026-03-01
-source: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
+source: "[[00-Inbox/Processed/CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
 ---
 
 # Lit: Vitamin D and K2 Synergy — Mechanistic Integration

@@ -20,11 +20,14 @@ parent-moc: "[[MOC-Metabolic-Syndrome]]"
 Global Cardiovascular Risk Consortium. Global effect of cardiovascular risk factors on lifetime estimates. *N Engl J Med*. 2025;392(15):e47. doi:10.1056/NEJMoa2415879
 
 ## Source
+- **Primary source:** New England Journal of Medicine
+- **External source:** Not from Facebook Collection
 - **Journal:** New England Journal of Medicine
 - **Date:** March 2025
 - **Type:** Prospective cohort analysis (2 million people, 39 countries)
 - **PMID:** [40162648](https://pubmed.ncbi.nlm.nih.gov/40162648/)
 - **DOI:** [10.1056/NEJMoa2415879](https://www.nejm.org/doi/full/10.1056/NEJMoa2415879)
+- **Status:** Verified PMID/DOI, external reference
 
 ## Key Findings
 

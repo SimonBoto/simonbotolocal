@@ -1,95 +1,69 @@
 ---
 uid: Z-101-0011
 type: zettel
-title: Dicarboxylic Acid Hierarchy as Insulin Resistance Markers
-aliases: [Z-101-0011, Dicarboxylic Aciduria, Adipate Suberate Sebacate Pattern]
+title: "Dicarboxylic Acid Hierarchy as Insulin Resistance Markers"
+aliases: ["Z-101-0011", "Dicarboxylic-Acids", "IR-Markers", "Biomarker-Hierarchy"]
 domain: 101
-tags: [zettel, dicarboxylic-acid, adipate, suberate, sebacate, urine-organic-acid, IR-marker]
-parent-moc: [[MOC-Mitochondrial-Function]]
+tags: [zettel, dicarboxylic-acids, insulin-resistance, biomarkers, adipate, suberate, sebacate]
+parent-moc: "[[MOC-PhD-Research]]"
 status: conscious
-source: "[[LitNote_Adipic_Acid_Biochemistry_Omega_Oxidation_L-101-0002]"
+source-litnote: "[[L-101-0002_Adipic_Acid_Biochemistry_Omega_Oxidation_CGPT-0586]]"
+source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 extraction-date: 2026-03-02
-source-litnote: Synthesized from clinical practice
 ---
 
 # Dicarboxylic Acid Hierarchy as Insulin Resistance Markers
 
-**Clinical Pattern:** Elevated urinary dicarboxylic acids form a characteristic hierarchy indicating severity of β-oxidation impairment.
+## Core Claim
+**Dicarboxylic acids form a hierarchical biomarker panel for assessing insulin resistance severity — with adipate (C6) as the primary and most sensitive marker, suberate (C8) as a secondary indicator of more significant impairment, and sebacate (C10) appearing only in severe or prolonged metabolic dysfunction — enabling graded assessment of β-oxidation capacity and metabolic flexibility in the METHAP research protocol.**
 
-## The Dicarboxylic Acid Series
+## Evidence
 
-| Acid | Carbon Chain | Typical Urine Level | Indicator Severity |
-|------|--------------|---------------------|-------------------|
-| **Adipate** | C6 | First to elevate | Early/mild impairment |
-| **Suberate** | C8 | Elevates with adipate | Moderate impairment |
-| **Sebacate** | C10 | Elevates last | More severe impairment |
+### Marker Hierarchy
+| Marker | Carbons | Sensitivity | Specificity | Clinical Stage |
+|--------|---------|-------------|-------------|----------------|
+| **Adipate** | C6 | Highest | Moderate | Early IR |
+| **Suberate** | C8 | Moderate | Moderate | Established IR |
+| **Sebacate** | C10 | Lowest | High | Severe IR |
 
-## Origin from Fatty Acid ω-Oxidation
+### Pattern Interpretation
+| Pattern | Interpretation | Clinical Stage |
+|---------|---------------|----------------|
+| **Adipate only ↑** | Mild β-oxidation impairment | Early/pre-diabetes |
+| **Adipate + Suberate ↑** | Moderate impairment | Established IR |
+| **All three ↑↑** | Severe β-oxidation block | Advanced metabolic dysfunction |
+| **Adipate > Suberate > Sebacate** | Typical progression | Standard pattern |
 
-- **Adipate (C6):** From medium-chain fatty acids (C6-C10)
-- **Suberate (C8):** From medium-long-chain fatty acids (C8-C12)
-- **Sebacate (C10):** From long-chain fatty acids (C10-C16+)
+### Reference Ranges
+| Marker | Normal | Mild | Moderate | Severe |
+|--------|--------|------|----------|--------|
+| **Adipate** | <2 | 2-5 | 5-10 | >10 |
+| **Suberate** | <1 | 1-3 | 3-6 | >6 |
+| **Sebacate** | Undetectable | Trace | 1-2 | >2 |
 
-## Pattern Interpretation
+*(mmol/mol creatinine)*
 
-**Mild β-oxidation impairment:**
-- Adipate slightly elevated
-- Suberate/sebacate normal
+### METHAP Application
+| Use Case | Marker Strategy |
+|----------|----------------|
+| **Screening** | Adipate alone |
+| **Staging** | Adipate + Suberate |
+| **Severe cases** | Full panel (all three) |
+| **Monitoring** | Adipate trend |
 
-**Moderate impairment:**
-- Adipate ↑↑, suberate ↑
-- Sebacate normal or mildly elevated
-
-**Severe impairment:**
-- All three elevated (adipate > suberate > sebacate)
-- Indicates widespread fatty acid oxidation dysfunction
-
-## Insulin Resistance Connection
-
-**Mechanism:**
-- IR → impaired mitochondrial function → reduced β-oxidation capacity
-- Compensatory ω-oxidation increases
-- Dicarboxylic aciduria develops
-
-**Early Detection Advantage:**
-- Adipate elevation may precede glucose abnormalities
-- Potential **leading ** for IR risk stratification
-
-## Diagnostic Distinction
-
-**vs. Ketone Bodies:**
-- **Ketones:** Hepatic response to glucose scarcity (starvation, ketoacidosis)
-- **Dicarboxylic acids:** Peripheral tissue response to β-oxidation impairment
-- **Different pathways, different clinical contexts**
-
-**vs. Organic Acidemias:**
-- Inherited disorders show specific patterns (methylmalonate, propionate)
-- Dicarboxylic aciduria = acquired mitochondrial dysfunction
-
-## METHAP Application
-
-**Screening Protocol:**
-1. Urine organic acid panel
-2. Quantify adipate/suberate/sebacate ratio
-3. Correlate with insulin sensitivity indices
-4. Track response to mitochondrial/carnitine interventions
+## Clinical Implication
+- **Graded assessment:** Hierarchy enables severity staging
+- **Early detection:** Adipate most sensitive
+- **Specificity increases:** With longer chain markers
+- **Tracking:** Serial measurements monitor progression
+- **METHAP relevance:** Hierarchical panel optimizes diagnostic accuracy for insulin resistance
 
 ---
 
-*See also: _TCA_Entry_Z-101-0010]*
-
-## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
-- /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
-- 
-
+## Related
+- [[Adipate_Formation_Palmitate_Pathway_Z-101-0008]] — Primary marker
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]] — Clinical cases
+- [[Urine_Organic_Acid_Interpretation_Dicarboxylic_Pattern_Z-101-0013]] — Lab interpretation
 
 ---
-
-## Connection to Vault
-
-- Up: [[MOC-Mitochondrial-Function]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
-
----
-parent-index: [[03-Zettels-Conscious]]
+*Source: [[L-101-0002_Adipic_Acid_Biochemistry_Omega_Oxidation_CGPT-0586]] | Inbox: [[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]*

@@ -11,9 +11,10 @@ pmcid: N/A
 tier: BRONZE
 relevance: High — HBOT mechanisms, radiosensitization, bone healing, therapeutic benefits and risks
 status: extracted
-parent-moc: [[MOC-Cancer-Therapy]]
+parent-moc:
+  - - MOC-Cancer-Therapy
 extraction-date: 2026-03-08
-source: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+source: "[[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 ---
 
 # Lit: ChatGPT 2024 — Hyperbaric Oxygen Therapy in Cancer

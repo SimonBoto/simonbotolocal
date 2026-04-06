@@ -19,10 +19,12 @@ parent-moc: "[[MOC-Metabolic-Syndrome]]"
 Zheng Q, Gao X, Ruan X, et al. Are low carbohydrate diet interventions beneficial for metabolic syndrome and its components? A systematic review and meta-analysis of randomized controlled trials. *Int J Obes*. 2025. doi:10.1038/s41366-025-01822-5
 
 ## Source
-- **Journal:** International Journal of Obesity (Nature Portfolio)
+- **Primary source:** International Journal of Obesity (Nature Portfolio)
+- **External source:** Not from Facebook Collection
 - **Year:** 2025
 - **Type:** Systematic review and meta-analysis of RCTs
 - **DOI:** [10.1038/s41366-025-01822-5](https://doi.org/10.1038/s41366-025-01822-5)
+- **Status:** Verified DOI, external reference
 
 ---
 

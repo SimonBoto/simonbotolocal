@@ -1,57 +1,61 @@
 ---
 uid: Z-101-0452
 type: zettel
-title: Adenosine Receptors and Sleep Regulation
-aliases: [Z-101-0452, adenosine-sleep, purinergic-signaling]
+title: "Adenosine Receptors and Sleep Regulation"
+aliases: ["Z-101-0452", "Adenosine-Sleep", "Purinergic-Signaling", "Caffeine"]
 domain: 101
-tags: [zettel, adenosine, sleep, neurotransmission, receptors, circadian]
-parent-moc: [[MOC-Inflammation]]
+tags: [zettel, adenosine, sleep, neurotransmission, receptors, circadian, caffeine]
+parent-moc: "[[MOC-Neurotransmission]]"
 status: conscious
-created: 2026-03-04
-source-litnote: [[LitNote_Adenosine_Adenine_Biochemistry_L-101-0045A]]
+source-litnote: "[[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]]"
+source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+extraction-date: 2026-03-04
 ---
 
 # Adenosine Receptors and Sleep Regulation
 
-## The Adenosine Sleep Drive
-**Adenosine accumulates during wakefulness** and promotes sleepiness by inhibiting neuronal activity.
+## Core Claim
+**Adenosine accumulates in the brain during wakefulness, acting as a homeostatic sleep drive signal — it promotes sleepiness by activating A1 and A2A receptors, which inhibit neuronal activity and increase sleep pressure; caffeine promotes wakefulness by antagonizing these receptors** — adenosine clearance during sleep restores wakefulness potential.
 
-### Receptor Subtypes
-| Receptor | Effect | Location |
-|----------|--------|----------|
-| **A1** | Inhibitory | Brain, heart |
-| **A2A** | Inhibitory | Striatum (sleep promotion) |
-| **A2B** | Stimulatory | Low affinity |
-| **A3** | Variable | Immune cells |
+## Evidence
 
-### 
-- A1 receptors → Gi protein → ↓cAMP → ↓neuronal firing
-- Accumulation in basal forebrain → sleep drive
-- **Caffeine antagonist:** Blocks A1/A2A → wakefulness
+### Receptor Subtypes and Effects
+| Receptor | G-Protein | Effect | Location |
+|----------|-----------|--------|----------|
+| **A1** | Gi/o | Inhibitory (↓cAMP) | Brain, heart, adipose |
+| **A2A** | Gs | Inhibitory (↑cAMP in striatum) | Striatum (sleep promotion) |
+| **A2B** | Gs | Stimulatory (low affinity) | Immune cells, vasculature |
+| **A3** | Gi/o | Variable | Immune cells, testis |
 
-## Breakdown During Sleep
-Adenosine clearance during sleep → reduced inhibition → wakefulness returns.
+### Sleep Drive Mechanism
+| State | Adenosine Level | Effect |
+|-------|-----------------|--------|
+| **Wakefulness** | Accumulates (especially basal forebrain) | Sleep pressure increases |
+| **Sleep** | Cleared | Sleep pressure decreases |
+| **Sleep deprivation** | Elevated | Increased sleep drive |
 
-##  Application
-**Adenosine IV:** Used for supraventricular tachycardia (slows AV nodal conduction).
+### Caffeine Antagonism
+```
+Caffeine blocks A1/A2A receptors → prevents adenosine signaling → wakefulness
+```
+
+### Clinical Application
+| Use | Mechanism |
+|-----|-----------|
+| **Adenosine IV** | Supraventricular tachycardia (slows AV node) |
+| **Caffeine** | Alertness, headache treatment |
+
+## Clinical Implication
+- **Sleep hygiene:** Adenosine accumulation explains sleep need
+- **Caffeine timing:** Afternoon caffeine disrupts sleep drive
+- **Adenosine agonists:** Potential hypnotics
+- **METHAP relevance:** Understanding adenosine biology informs sleep optimization and caffeine use for metabolic health
+
+---
 
 ## Related
-- [[ATP_Universal_Energy_Currency_Z-101-0451]] ATP Structure (adenosine backbone)
-- 
+- [[ATP_Universal_Energy_Currency_Z-101-0451]] — ATP (adenosine backbone)
+- [[Adenosine_Metabolic_Roles_Energy_Signaling_Z-001-1083]] — Extended adenosine roles
 
 ---
-*Source: CGPT-0445 extraction | Created: 2026-03-04*
-
-
-## RELATED FILES
-- 
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Inflammation]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
-
----
-parent-index: [[03-Zettels-Conscious]]
+*Source: [[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]] | Inbox: [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]*

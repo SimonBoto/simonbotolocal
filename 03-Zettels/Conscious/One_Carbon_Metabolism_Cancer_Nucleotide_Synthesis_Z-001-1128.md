@@ -2,144 +2,86 @@
 uid: Z-001-1128
 type: zettel
 title: One Carbon Metabolism Cancer Nucleotide Synthesis
-aliases: [Z-001-1128, One-Carbon-Cancer]
+aliases: [One-Carbon-Metabolism, Cancer, Nucleotide-Synthesis, Folate, B12]
 domain: 001
-domain-name: Cancer Metabolism
-tags: [zettel, one-carbon, metabolism, cancer, nucleotide]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]
-source: [[LitNote_B_Vitamins_Cancer_Metabolism_L-001-0611]
-confidence: high
-created: 2026-03-08
+tags: [zettel, one-carbon-metabolism, cancer, nucleotide-synthesis, folate, b12]
+parent-moc: [[MOC-Methylation-One-Carbon]]
+status: conscious
+source-litnote: [[L-001-0611_B_Vitamins_Cancer_Metabolism_CGPT-0264]]
+extraction-date: 2026-03-08
 ---
 
-# One Carbon  Cancer Nucleotide Synthesis
+# One Carbon Metabolism Cancer Nucleotide Synthesis
 
-## Overview
-Cancer cells have an exceptionally high demand for one-carbon units to support rapid nucleotide synthesis, amino acid metabolism, and methylation reactions—making one-carbon metabolism a critical pathway for proliferation.
+## Core Claim
+One-carbon metabolism, powered by folate and B12, provides essential one-carbon units for nucleotide synthesis and methylation reactions; rapidly dividing cancer cells have exceptionally high demand for these pathways, creating both a metabolic vulnerability and a potential therapeutic target.
 
-## The One-Carbon Pathway
+## Evidence
 
-### Folate Cycle
+### One-Carbon Metabolism Overview
+
+**Pathway:**
 ```
-Dietary folate → Dihydrofolate (DHF) → Tetrahydrofolate (THF)
-                                         ↓
-                    5,10-methylene-THF ←→ 5-methyl-THF (5-MTHF)
-                           ↓
-                    Thymidylate synthesis (DNA)
-                           ↓
-                    Purine synthesis (DNA/RNA)
+Serine/Glycine → One-carbon units → THF → Nucleotides, Methylation
 ```
 
-### Methionine Cycle
-```
-Homocysteine + 5-MTHF → Methionine (B12-dependent)
-                              ↓
-                         SAM (methyl donor)
-                              ↓
-                    DNA methylation, histone methylation
-                              ↓
-                         SAH → Homocysteine (recycled)
-```
+**Key Enzymes:**
+| Enzyme | Function | Cofactor |
+|--------|----------|----------|
+| **SHMT** | Serine → Glycine + one-carbon | PLP (B6) |
+| **MTHFR** | 5,10-CH₂-THF → 5-CH₃-THF | FAD (B2) |
+| **MTR** | Homocysteine → Methionine | B12 |
+| **TYMS** | dUMP → dTMP (thymidylate) | 5,10-CH₂-THF |
 
-## Cancer Cell Requirements
+### High Demand in Cancer
 
-### Why High Demand?
-| Need | Rate in Cancer |
-|------|----------------|
-| **DNA synthesis** | High (rapid division) |
-| **RNA synthesis** | High (protein production) |
-| **Methylation** | High (epigenetic regulation) |
-| **Amino acid synthesis** | Elevated |
+**Why Cancer Cells Need More:**
+- Rapid DNA replication
+- Constant nucleotide synthesis
+- Epigenetic reprogramming
+- High methylation turnover
 
-### Key Enzymes Upregulated
-| Enzyme | Function | Cancer Status |
-|--------|----------|---------------|
-| **DHFR** | Dihydrofolate reductase | Often overexpressed |
-| **TYMS** | Thymidylate synthase | Target for 5-FU |
-| **MTHFR** | Methylene-THF reductase | Polymorphisms affect risk |
-| **SHMT** | Serine hydroxymethyltransferase | Alternative folate pathway |
+**Rate-Limiting:**
+- TYMS (thymidylate synthase) often overexpressed
+- Target for 5-fluorouracil (5-FU) chemotherapy
+- Inhibition blocks DNA synthesis
 
-## Therapeutic Targeting
+### Therapeutic Targeting
 
-### Antifolate Drugs
+**Antifolate Drugs:**
 | Drug | Target | Use |
 |------|--------|-----|
 | **Methotrexate** | DHFR | Leukemia, lymphoma |
-| **5-Fluorouracil (5-FU)** | TYMS | Colorectal, breast |
-| **Pemetrexed** | Multiple | Mesothelioma, lung |
-| **Pralatrexate** | DHFR | T-cell lymphoma |
+| **Pemetrexed** | Multiple enzymes | Mesothelioma, lung cancer |
+| **5-Fluorouracil** | TYMS | Colorectal cancer |
 
-### Mechanism of Action
-```
-Folate antagonist → Blocks one-carbon transfer
-                           ↓
-              Depleted nucleotide pools
-                           ↓
-                "Thymineless death"
-                           ↓
-              Replication fork collapse
-                           ↓
-                 Apoptosis
-```
+## Clinical Implication
 
-## B-Vitamin Requirements
+**Diagnostic:**
+- Serum homocysteine (functional marker)
+- RBC folate (long-term status)
+- Serum B12
 
-### Folate (B9)
-| Function | Cancer Relevance |
-|----------|------------------|
-| **THF synthesis** | Essential for one-carbon units |
-| **5-MTHF** | Methyl donor, nucleotide precursor |
-| **Formyl-THF** | Purine synthesis |
+**Therapeutic:**
+- Antifolates standard in oncology
+- Resistance develops via TYMS amplification
+- Folinic acid rescue after high-dose methotrexate
 
-### Vitamin B12
-| Function | Cancer Relevance |
-|----------|------------------|
-| **Methionine synthase** | Regenerates methionine from homocysteine |
-| **Methyl-THF trap** | Without B12, folate trapped as 5-MTHF |
+## METHAP Relevance
 
-### Vitamin B6
-| Function | Cancer Relevance |
-|----------|------------------|
-| **Glycine cleavage** | One-carbon release |
-| **Serine hydroxymethyltransferase** | Serine ↔ glycine + one-carbon |
-
-## Metabolic Dependencies
-
-### Serine-Glycine Pathway
-| Metabolite | Role |
-|------------|------|
-| **Serine** | Major one-carbon donor |
-| **Glycine** | Accepts one-carbon |
-| **Cancer adaptation** | Upregulate serine synthesis |
-
-### l One-Carbon
-| Feature | Significance |
-|---------|--------------|
-| ** SHMT** | Alternative source |
-| **Formate overflow** | Supports cytosolic synthesis |
-| **Cancer dependence** | Often upregulated |
-
-## Related
-- [[B_Vitamins_Methylation_Epigenetics_Cancer_Z-001-1129]
-- [[Folate_Cancer_Paradox_Prevention_Progression_Z-001-1130]
-- 
-- 
-
----
-*Source: CGPT-0264 — Warburg effect and cancer*
-
-
-## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
+**Integration:**
+- B-vitamin status affects chemotherapy response
+- Methylation support for normal cells
+- Monitor during treatment
 
 ---
 
-## Connection to Vault
+## Related Zettels
+- [[B_Vitamins_Methylation_Epigenetics_Cancer_Z-001-1129]] — Methylation
+- [[Folate_Cancer_Paradox_Prevention_Progression_Z-001-1130]] — Folate paradox
 
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Source
+[[L-001-0611_B_Vitamins_Cancer_Metabolism_CGPT-0264]]
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+parent-index: [[03-Zettels]]

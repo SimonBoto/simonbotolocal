@@ -2,160 +2,74 @@
 uid: Z-001-1132
 type: zettel
 title: Multiple Myeloma Diagnostic Criteria Workup
-aliases: [Z-001-1132, MM-Diagnosis]
+aliases: [Multiple-Myeloma, Diagnostic-Criteria, Workup, SLiM-CRAB, M-Spike]
 domain: 001
-domain-name: Hematology Oncology
-tags: [zettel, multiple-myeloma, diagnosis, workup]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]
-source: [[LitNote_Multiple_Myeloma_Comprehensive_L-001-0612]
-confidence: high
-created: 2026-03-08
+tags: [zettel, multiple-myeloma, diagnostic-criteria, workup, slim-crab, m-spike]
+parent-moc: [[MOC-Cancer-Therapy]]
+status: conscious
+source-litnote: [[L-001-0612_Multiple_Myeloma_Comprehensive_CGPT-0264]]
+extraction-date: 2026-03-08
 ---
 
 # Multiple Myeloma Diagnostic Criteria Workup
 
-## Overview
-Definitive diagnosis of multiple myeloma requires clonal bone marrow plasma cells ≥10% plus CRAB features OR s of malignancy (SLiM criteria).
+## Core Claim
+Multiple myeloma diagnosis requires either clonal plasma cells ≥10% plus CRAB features, or clonal plasma cells ≥10% plus SLiM biomarkers of malignancy (Sixty percent plasma cells, Light chain ratio ≥100, or >1 MRI focal lesion), necessitating a comprehensive workup including serum/urine protein electrophoresis, free light chain assay, bone marrow biopsy, and skeletal imaging.
 
-## Diagnostic Criteria (IMWG 2014)
+## Evidence
 
-### Clonal Plasma Cells
-| Requirement | Threshold |
-|-------------|-----------|
-| **Bone marrow biopsy** | ≥10% clonal plasma cells |
-| **Or** | Biopsy-proven plasmacytoma |
+### Diagnostic Criteria (IMWG 2014)
 
-### Plus One Myeloma-Defining Event
+**Clonal Plasma Cells ≥10% + One of:**
 
-#### CRAB Features
-| Feature | Threshold |
-|---------|-----------|
-| **C**alcium | >11 mg/dL or >1 mg/dL above ULN |
-| **R**enal | Creatinine >2 mg/dL or eGFR <40 |
-| **A**nemia | Hgb <10 g/dL or >2 g/dL below LLN |
-| **B**one | ≥1 osteolytic lesion on imaging |
+| CRAB | SLiM |
+|------|------|
+| Calcium >11 mg/dL | Sixty percent plasma cells |
+| Renal (Cr >2 or GFR <40) | Light chain ratio ≥100 |
+| Anemia (Hb <10) | MRI >1 focal lesion |
+| Bone lesions (lytic) | |
 
-#### SLiM 
-| Feature | Threshold |
-|---------|-----------|
-| **S**ixty | ≥60% clonal plasma cells in BM |
-| **Li**ght chain ratio | Involved/uninvolved FLC ≥100 |
-| **M**RI | >1 focal lesion ≥5 mm |
+### Essential Workup
 
-## Laboratory Workup
+**Laboratory:**
+- Serum protein electrophoresis (SPEP)
+- Urine protein electrophoresis (UPEP)
+- Serum free light chain assay
+- CBC, CMP
+- Beta-2 microglobulin
 
-### Serum Tests
-| Test | Purpose |
-|------|---------|
-| **CBC** | Anemia, thrombocytopenia |
-| **CMP** | Calcium, creatinine, albumin |
-| **SPEP** | M-protein quantification |
-| **Immunofixation** | Monoclonal protein type |
-| **Serum FLC** | Light chain quantification |
-| **Beta-2 microglobulin** | Prognostic marker |
-| **LDH** | Prognostic marker |
+**Bone Marrow:**
+- Aspirate and biopsy
+- Flow cytometry
+- Cytogenetics/FISH
 
-### Urine Tests
-| Test | Purpose |
-|------|---------|
-| **UPEP** | Bence Jones protein detection |
-| **Immunofixation** | Light chain type |
-| **24-hour urine collection** | Total protein, creatinine |
+**Imaging:**
+- Skeletal survey or low-dose CT
+- MRI (if indicated)
+- PET/CT (for staging)
 
-### Bone Marrow Examination
-| Component | Information |
-|-----------|-------------|
-| **Morphology** | Plasma cell percentage |
-| **Flow cytometry** | Clonality (CD138+, CD56, CD117) |
-| **Cytogenetics/FISH** | Risk stratification |
-| **Gene expression** | Molecular profiling |
+## Clinical Implication
 
-## Imaging Studies
+**Differential:**
+- MGUS (monoclonal gammopathy of undetermined significance)
+- Smoldering myeloma
+- AL amyloidosis
+- Lymphoma
 
-### Skeletal Survey (Traditional)
-| Finding | Sensitivity |
-|---------|-------------|
-| **Lytic lesions** | ~80% |
-| **Sites** | Skull, spine, pelvis, long bones |
-| **Limitation** | Misses early lesions |
-
-### Advanced Imaging (Preferred)
-| Modality | Advantages |
-|----------|------------|
-| **Whole-body CT** | Higher sensitivity than X-ray |
-| **MRI** | Detects marrow infiltration |
-| **PET/CT** | Functional + anatomical |
-
-### Recommended Initial Imaging
-| Patient | Study |
-|---------|-------|
-| **All patients** | Whole-body CT or MRI |
-| **Suspected solitary plasmacytoma** | MRI of affected area |
-| **Follow-up** | PET/CT for response assessment |
-
-## Differential Diagnosis
-
-| Condition | Distinguishing Features |
-|-----------|------------------------|
-| **MGUS** | <10% plasma cells, no CRAB |
-| **Smoldering MM** | ≥10% cells, no CRAB, <60% cells |
-| **AL Amyloidosis** | Tissue biopsy positive for amyloid |
-| **Waldenström macroglobulinemia** | IgM, lymphoplasmacytic infiltration |
-| **Lymphoma** | CD45+, different morphology |
-
-## Prognostic Workup
-
-### Cytogenetics/FISH
-| Abnormality | Risk Category |
-|-------------|---------------|
-| **Standard risk** | Trisomies, t(11;14) |
-| **High risk** | del(17p), t(4;14), t(14;16) |
-| **Very high risk** | Amp(1q21), del(1p) |
-
-### Molecular Profiling
-| Test | Purpose |
-|------|---------|
-| **Gene expression profiling (GEP)** | Risk stratification |
-| **Next-generation sequencing** | Mutational analysis |
-
-## Initial Assessment Checklist
-
-### Required
-- [ ] Bone marrow biopsy with FISH
-- [ ] Serum/urine protein electrophoresis with immunofixation
-- [ ] Serum free light chains
-- [ ] Complete blood count
-- [ ] Comprehensive metabolic panel
-- [ ] Skeletal survey or whole-body imaging
-- [ ] Beta-2 microglobulin
-
-### Recommended
-- [ ] LDH
-- [ ] PET/CT
-- [ ] Cytogenetics (conventional karyotype)
-
-## Related
-- [[Multiple_Myeloma_CRAB_Features_Diagnosis_Z-001-1131]
-- [[Multiple_Myeloma_Staging_ISS_R-ISS_Z-001-1133]
-- 
-
----
-*Source: CGPT-0264 — Warburg effect and *
-
-## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]
-- 
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
-- 
-
+**Prognostic Factors:**
+- Cytogenetics (del(17p), t(4;14), t(14;16))
+- ISS/R-ISS stage
+- LDH
 
 ---
 
-## Connection to Vault
+## Related Zettels
+- [[Multiple_Myeloma_CRAB_Features_Diagnosis_Z-001-1131]] — CRAB features
+- [[Multiple_Myeloma_Staging_ISS_R-ISS_Z-001-1133]] — Staging
+- [[Multiple_Myeloma_Treatment_Modern_Approach_Z-001-1134]] — Treatment
 
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Source
+[[L-001-0612_Multiple_Myeloma_Comprehensive_CGPT-0264]]
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+parent-index: [[03-Zettels]]

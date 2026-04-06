@@ -2,12 +2,20 @@
 uid: Z-001-0073
 type: zettel
 title: Vitamin D Paradigm Failure — Production vs Recommendations
-aliases: [Z-001-0073, VitD-Paradigm-Failure]
-domain: 001
+aliases:
+  - Z-001-0073
+  - VitD-Paradigm-Failure
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, vitamin-d, paradigm-failure, synthesis, clinical-practice]
-parent-moc: [[MOC-Insulin-Signaling]]
-source: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
+tags:
+  - zettel
+  - vitamin-d
+  - paradigm-failure
+  - synthesis
+  - clinical-practice
+parent-moc:
+  - - MOC-Insulin-Signaling
+source: "[[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -30,7 +38,7 @@ Three convergent facts reveal systemic failure in vitamin D public health policy
 ## Links
 
 **Parent MOC:** -
-**Source:** [[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]
+**Source:** [[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]
 **Related:** [[Endogenous_Vitamin_D_Production_Capacity_Z-001-0062], [[IIH_CYP24A1_Mutation_True_Cause_Z-001-0055], [[Vitamin_D_RDA_10x_Underestimation_Z-001-0059]
 
 ---

@@ -20,11 +20,15 @@ parent-moc: "[[MOC-Diabetes-T2D]]"
 GBD 2019 Alcohol Collaborators. "Alcohol use and burden for 195 countries and territories, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019." *Lancet*. 2020;396(10252):1051-1063. doi:10.1016/S0140-6736(20)31344-5
 
 ## Source
+- **Primary source:** The Lancet
+- **External source:** Not from Facebook Collection
 - **Study:** Global Burden of Disease 2019 Alcohol Analysis
 - **Year:** 1990-2019 data, published 2020
 - **Type:** Global health systematic analysis
+- **DOI:** 10.1016/S0140-6736(20)31344-5
 - **PMID:** [32894885](https://pubmed.ncbi.nlm.nih.gov/32894885/)
 - **Full text:** [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31344-5/fulltext)
+- **Status:** Verified PMID/DOI, external reference
 
 ---
 

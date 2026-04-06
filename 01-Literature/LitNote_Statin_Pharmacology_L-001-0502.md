@@ -1,15 +1,26 @@
 uid: L-001-0502
-type: litnote
-title: "Lit — Statin Pharmacology and Clinical Evidence (Mechanisms, Major Trials, and Precision Use)"
-authors: ChatGPT synthesis from Cholesterol Study Reassessment (CGPT-0337)
-year: 2024
-journal: Internal clinical synthesis
-tier: GOLD
-relevance: Critical — Foundation for lipid management, cardiovascular risk reduction, METHAP context
-status: extracted
-parent-moc: 
-extraction-date: 2026-03-01
-source: "[[CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]"
+type: lit-note
+title: "Statin Pharmacology and Clinical Evidence — Mechanisms, Major Trials, and Precision Use"
+aliases: ["L-001-0502", "Statin-Pharmacology", "Statin-Evidence"]
+source-inbox: "[[00-Inbox/Processed/CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]"
+authors: "ChatGPT synthesis from CGPT-0337"
+year: "2024"
+journal: "ChatGPT Clinical Synthesis"
+doi: "N/A"
+pmid: "N/A"
+tier: "SILVER"
+status: active
+parent-moc: "[[MOC-Cholesterol-Lipid]]"
+extraction-date: "2026-03-01"
+zettel-count: 7
+reference-count: 0
+tags:
+  - lit-note
+  - statin
+  - pharmacology
+  - clinical-trials
+  - cholesterol
+  - lipid-management
 
 # Lit: Statin Pharmacology and Clinical Evidence
 
@@ -452,16 +463,37 @@ Reduced circulating LDL-C
 - **Risk stratification:** Identify high-risk patients for intensive monitoring
 
 
-## Zettels Created from This Source
-1. [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]
-2. [[Statin_Major_Clinical_Trials_Z-001-0510]
-3. [[Framingham_Reassessment_Cholesterol_Hypothesis_Z-001-0511]
-4. [[Statin_Intolerance_Myopathy_Management_Z-001-0919]
-5. [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]
-6. [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]
-7. [[Statin_Clinical_Decision_Making_Z-001-0515]
+---
 
+## Zettels Extracted
 
-*Literature note processed: 2026-03-01*
+| # | Zettel | Core Claim |
+|---|--------|------------|
+| 1 | [[Statin_Mechanism_HMG_CoA_Reductase_Z-001-0509]] | HMG-CoA reductase inhibition → LDL receptor upregulation |
+| 2 | [[Statin_Major_Clinical_Trials_Z-001-0510]] | Landmark trials show consistent CV event reduction |
+| 3 | [[Framingham_Reassessment_Cholesterol_Hypothesis_Z-001-0511]] | Cholesterol-CVD relationship age-dependent |
+| 4 | [[Statin_Intolerance_Myopathy_Management_Z-001-0919]] | 5-10% intolerance, manageable with strategies |
+| 5 | [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]] | SLCO1B1 variants affect response and myopathy risk |
+| 6 | [[Non_Statin_Lipid_Lowering_Options_Z-001-0514]] | Ezetimibe, PCSK9, bempedoic acid as alternatives |
+| 7 | [[Statin_Clinical_Decision_Making_Z-001-0515]] | Risk-stratified therapy matching intensity to risk |
+
+---
+
+## Connections
+- **MOC:** [[MOC-Cholesterol-Lipid]] — Thematic domain
+- **INBOX:** [[00-Inbox/Processed/CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]] — Source conversation
+- **Index:** [[01-Literature]] — Container
+
+---
+
+## Status
+- [x] LitNote created
+- [x] Zettels created (7 zettels)
+- [x] Source inbox linked
+- [x] All zettels have source-inbox
+- [x] MOC assigned
+
+---
+*L-001-0502 | Created: 2026-03-01 | Updated: 2026-04-05 | Tier: SILVER*
 
 

@@ -20,9 +20,12 @@ parent-moc: "[[MOC-Metabolic-Syndrome]]"
 Kavanagh ME, Chen ZH, Tamana SK, et al. Ultraprocessed Food Consumption and Behavioral Outcomes in Canadian Children. *JAMA Netw Open*. 2026;9(3):eXXXXXX. doi:10.1001/jamanetworkopen.2026.xxxx
 
 ## Source
+- **Primary source:** JAMA Network Open
+- **Citation extracted from:** Facebook Posts Collection
 - **Journal:** JAMA Network Open
 - **Date:** March 3, 2026
 - **Study:** Canadian children cohort
+- **Status:** Citation from source; awaiting full publication
 
 ---
 

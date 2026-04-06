@@ -1,102 +1,69 @@
 ---
 uid: Z-101-0013
 type: zettel
-title: Urine Organic Acid Interpretation — Dicarboxylic Acid Pattern
-aliases: [Z-101-0013, UOA Dicarboxylic Pattern, Lab Interpretation Dicarboxylic]
+title: "Urine Organic Acid Interpretation — Dicarboxylic Pattern"
+aliases: ["Z-101-0013", "Urine-Organic-Acids", "Dicarboxylic-Pattern", "Lab-Interpretation"]
 domain: 101
-tags: [zettel, urine-organic-acid, dicarboxylic-acid, lab-interpretation, GC-MS, diagnostic]
-parent-moc: [[MOC-Lipid-Metabolism]]
+tags: [zettel, urine-organic-acids, dicarboxylic-acids, lab-interpretation, biomarkers]
+parent-moc: "[[MOC-Clinical-Metabolomics]]"
 status: conscious
-source: "[[LitNote_Dicarboxylic_Acids_Clinical_Markers_L-101-0003]"
+source-litnote: "[[L-101-0003_Dicarboxylic_Acids_Clinical_Markers_CGPT-0586]]"
+source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 extraction-date: 2026-03-02
 ---
 
-# Urine Organic Acid Interpretation — Dicarboxylic Acid Pattern
+# Urine Organic Acid Interpretation — Dicarboxylic Pattern
 
-**Core Skill:** Recognizing and interpreting dicarboxylic acid elevation on urine organic acid (UOA) analysis.
+## Core Claim
+**Urine organic acid analysis revealing elevated dicarboxylic acids (adipate, suberate, sebacate) with a characteristic pattern of adipate > suberate > sebacate indicates impaired mitochondrial β-oxidation — distinguishing physiological fasting adaptation (where ketones are elevated) from pathological fatty acid oxidation disorders (where dicarboxylic acids are elevated without corresponding ketosis), and serving as a diagnostic tool for insulin resistance, carnitine deficiency, and MCAD deficiency in clinical and research settings.**
 
-## Normal vs Abnormal Reference Ranges
+## Evidence
 
-| Analyte | Normal Range | Mild Elevation | Moderate | Severe |
-|---------|-------------|----------------|----------|--------|
-| **Adipate** | <5 mmol/mol Cr | 5-25 | 25-100 | >100 |
-| **Suberate** | <3 mmol/mol Cr | 3-15 | 15-50 | >50 |
-| **Sebacate** | <2 mmol/mol Cr | 2-10 | 10-30 | >30 |
+### Normal vs Abnormal Patterns
+| Pattern | Adipate | Suberate | Sebacate | Ketones | Interpretation |
+|---------|---------|----------|----------|---------|----------------|
+| **Normal** | <2 | <1 | Undetectable | Variable | Healthy metabolism |
+| **Fasting** | <2 | <1 | Undetectable | ↑↑ | Physiological adaptation |
+| **Mild IR** | 2-5 | 1-2 | Trace | Normal | Early insulin resistance |
+| **Moderate IR** | 5-10 | 2-4 | 1-2 | Variable | Established IR |
+| **Severe/Carnitine def** | >10 | >4 | >2 | Low | Pathological block |
 
-*Note: Reference ranges vary by laboratory — use local standards*
+### Key Dicarboxylic Acids in Urine
+| Acid | Carbons | Normal | Elevated In |
+|------|---------|--------|-------------|
+| **Adipic** | C6 | <2 mmol/mol | IR, carnitine deficiency, MCAD |
+| **Suberic** | C8 | <1 mmol/mol | More severe impairment |
+| **Sebacic** | C10 | Undetectable | Severe/prolonged dysfunction |
 
-## Pattern Recognition Hierarchy
+### Pattern Recognition
+| Pattern | Clinical Significance |
+|---------|----------------------|
+| **Adipate only** | Early/mild impairment |
+| **Adipate + Suberate** | Moderate impairment |
+| **All three elevated** | Severe dysfunction |
+| **High adipate, low ketones** | β-oxidation block (not fasting) |
 
-### The Classic Pattern
-**Adipate > Suberate > Sebacate**
+### METHAP Application
+| Use | Interpretation |
+|-----|---------------|
+| **Screening** | Adipate >2 suggests IR risk |
+| **Staging** | Higher values = more severe |
+| **Monitoring** | Trend over time |
+| **Intervention** | Decrease with treatment |
 
-This hierarchy reflects:
-- **Adipate (C6)** — first and most sensitive marker
-- **Suberate (C8)** — elevates with increasing severity
-- **Sebacate (C10)** — appears in more severe/prolonged impairment
-
-### Severity Grading
-
-**Grade 1 (Mild):**
-- Adipate: 2-5× ULN
-- Suberate: Normal or <2× ULN
-- Sebacate: Normal
-- **Interpretation:** Sub l stress
-
-**Grade 2 (Moderate):**
-- Adipate: 5-20× ULN
-- Suberate: 2-5× ULN
-- Sebacate: Normal to 2× ULN
-- **Interpretation:** Significant β-oxidation impairment
-
-**Grade 3 (Severe):**
-- Adipate: >20× ULN
-- Suberate: >10× ULN
-- Sebacate: >5× ULN
-- **Interpretation:** Severe FAOD or metabolic crisis
-
-## Technical Considerations
-
-**GC-MS Detection:**
-- Dicarboxylic acids require derivatization (silylation)
-- Characteristic mass spectra for each chain length
-- Retention time increases with chain length (adipate < suberate < sebacate)
-
-**False Positives:**
-- Keto diet (minimal effect on dicarboxylics)
-- Certain medications (valproate)
-- Sample contamination
-
-**False Negatives:**
-- Dilute urine (creatinine <10 mg/dL)
-- Recent high-carbohydrate meal (suppressed lipolysis)
-- Improper storage (bacterial degradation)
-
-## Clinical Correlation Required
-
-**Always correlate with:**
-- Patient feeding status (fasting vs fed)
-- Concurrent ketone status
-- Carnitine profile
-- Clinical symptoms
-- Medication history
+## Clinical Implication
+- **Non-invasive:** Urine sample sufficient
+- **Early detection:** Elevates before glucose changes
+- **Differential:** Pattern distinguishes conditions
+- **Monitoring:** Tracks treatment response
+- **METHAP relevance:** Core diagnostic tool for metabolic dysfunction assessment
 
 ---
 
-*See also: [[Fatty_Acid_Oxidation_Disorder_Differential_Z-101-0014]*
-
-
-## RELATED FILES
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-- 
+## Related
+- [[Dicarboxylic_Acid_Hierarchy_IR_Markers_Z-101-0011]] — Marker hierarchy
+- [[Dicarboxylic_Aciduria_vs_Ketone_Distinction_Z-101-0015]] — Differential
+- [[Clinical_Scenarios_Dicarboxylic_Acid_Elevation_Z-101-0016]] — Clinical cases
 
 ---
-
-## Connection to Vault
-
-- Up: [[MOC-Lipid-Metabolism]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
-
----
-parent-index: [[03-Zettels-Conscious]]
+*Source: [[L-101-0003_Dicarboxylic_Acids_Clinical_Markers_CGPT-0586]] | Inbox: [[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]*

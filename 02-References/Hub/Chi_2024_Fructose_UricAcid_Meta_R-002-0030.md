@@ -19,10 +19,13 @@ parent-moc: "[[MOC-Metabolic-Syndrome]]"
 Chi X, Cen Y, Yang B, et al. Effects of dietary factors on hyperuricaemia and gout: a systematic review and meta-analysis of observational studies. *Int J Food Sci Nutr*. 2024. doi:10.1080/09637486.2024.2400489
 
 ## Source
+- **Primary source:** International Journal of Food Sciences and Nutrition
+- **External source:** Not from Facebook Collection
 - **Journal:** International Journal of Food Sciences and Nutrition
 - **Year:** 2024
 - **Type:** Systematic review and meta-analysis
 - **DOI:** [10.1080/09637486.2024.2400489](https://doi.org/10.1080/09637486.2024.2400489)
+- **Status:** Verified DOI, external reference
 
 ---
 

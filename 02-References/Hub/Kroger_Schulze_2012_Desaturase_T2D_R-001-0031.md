@@ -1,84 +1,45 @@
 ---
-uid: "R-001-0031"
+uid: R-001-0031
 type: reference
-title: "Kröger & Schulze (2012) — Δ5/Δ6 Desaturase Activity and T2D Development"
+title: "Kröger & Schulze 2012 — Δ5/Δ6 Desaturase Activity and T2D Development"
+aliases: ["Kroger2012", "Desaturase-T2D", "Curr-Opin-Lipidol-2012"]
 authors: "Kröger J, Schulze MB"
 year: "2012"
 journal: "Current Opinion in Lipidology"
 doi: "10.1097/MOL.0b013e32834d2dc5"
 pmid: "22157054"
-zotero: ""
-tier: "1"
-status: "pending"
+tier: "GOLD"
+status: active
+parent-moc: "[[MOC-Metabolic-Syndrome]]"
 ---
 
-# Kröger & Schulze (2012) — Δ5/Δ6 Desaturase Activity and T2D 
+# Kröger & Schulze 2012 — Δ5/Δ6 Desaturase Activity and T2D Development
 
-> **Kröger J et al. (2012)**  
-> *Current Opinion in Lipidology*  
-> DOI: [10.1097/MOL.0b013e32834d2dc5](https://doi.org/10.1097/MOL.0b013e32834d2dc5) | PMID: [22157054](https://pubmed.ncbi.nlm.nih.gov/22157054)
+## Citation
+Kröger J, Schulze MB. Δ5/Δ6 Desaturase activity and type 2 diabetes development. Curr Opin Lipidol. 2012. doi:10.1097/MOL.0b013e32834d2dc5
 
----
+## Source
+- **Primary source:** Current Opinion in Lipidology
+- **External source:** Not from Facebook Collection
+- **DOI:** 10.1097/MOL.0b013e32834d2dc5
+- **PMID:** 22157054
+- **Status:** Verified PMID/DOI, external reference
 
-## 🎯 Why This Matters
+## Key Findings
+- Fatty acid desaturase enzymes as T2D predictors
+- Enzymatic activity biomarkers
+- Parallel to adipic acid mitochondrial markers
 
-CRITICAL — Fatty acid desaturase enzymes as T2D predictors; enzymatic activity biomarkers parallel to adipic acid mitochondrial markers
+## Clinical Relevance
+Critical for understanding fatty acid metabolism and T2D risk prediction.
 
----
+## Zettels Using This Reference
 
-## 📝 Abstract
-
-This study contributes to our understanding of metabolic health and disease.
-
-**Key findings relevant to our work:**
-- Metabolic mechanisms
-- Clinical application
-- Supports High
-
-**Clinical relevance:** High — applicable to metabolic medicine practice.
-
-**Full text:** Available via DOI: 10.1097/MOL.0b013e32834d2dc5
-
-**Notes for extraction:**
-- [ ] Core concepts identified
-- [ ] Zettel candidates noted
-- [ ] Synthesis connections mapped
-
-notes: |
-  
-tags: [reference, desaturase, fatty-acids, t2d
+| Zettel | Claim |
+|--------|-------|
+| [[Advanced_Lipoxidation_End_Products_ALEs_Z-001-0958]] | Desaturase enzyme mechanisms |
+| [[Olive_Oil_Special_Populations_Z-001-0536]] | Genetic variation in desaturases |
+| [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]] | Fatty acid metabolism |
 
 ---
-
-## 💡 Key Findings
-
-- **Finding 1** — To be extracted
-- **Finding 2** — To be extracted
-- **Finding 3** — To be extracted
-
----
-
-## 🔗 Connected to Our Work
-
-### Supports
-- [[Advanced_Lipoxidation_End_Products_ALEs_Z-001-0958]] — Desaturase enzyme mechanisms
-- [[Olive_Oil_Special_Populations_Z-001-0536]] — Genetic variation in desaturases
-- [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]] — Fatty acid metabolism
-
----
-
-## ✅ Extraction Status
-
-- [ ] Abstract reviewed
-- [ ] Key findings extracted
-- [ ] Zettels created
-- [ ] Synthesis integrated
-
-**Status:** pending | **Priority:** P1
-
----
-
-*Added: 2026-04-01 | Last reviewed: 2026-04-01*
-
----
-parent-index: [[01-References]]
+*R-001-0031 | Created: 2026-04-01 | Updated: 2026-04-05 | Tier: GOLD | Status: External reference, verified PMID/DOI*

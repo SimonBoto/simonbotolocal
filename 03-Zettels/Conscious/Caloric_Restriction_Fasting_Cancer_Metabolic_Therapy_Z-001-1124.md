@@ -2,179 +2,137 @@
 uid: Z-001-1124
 type: zettel
 title: Caloric Restriction Fasting Cancer Metabolic Therapy
-aliases: [Z-001-1124, Fasting-Cancer]
+aliases: [Caloric-Restriction, Fasting, Cancer-Metabolic-Therapy, Autophagy]
 domain: 001
-domain-name: Cancer Metabolism
-tags: [zettel, fasting, caloric-restriction, cancer, therapy]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]
-source: [[LitNote_Metabolic_Therapy_Cancer_Seyfried_L-001-0609]
-confidence: high
-created: 2026-03-08
+tags: [zettel, caloric-restriction, fasting, cancer-metabolic-therapy, autophagy]
+parent-moc: [[MOC-Cancer-Therapy]]
+status: conscious
+source-litnote: [[L-001-0609_Metabolic_Therapy_Cancer_Seyfried_CGPT-0264]]
+extraction-date: 2026-03-08
 ---
 
 # Caloric Restriction Fasting Cancer Metabolic Therapy
 
-## Overview
-Caloric restriction and fasting induce metabolic changes that can inhibit cancer growth while enhancing the efficacy and reducing toxicity of conventional cancer treatments.
+## Core Claim
+Caloric restriction and intermittent fasting exert anti-cancer effects through multiple mechanisms: lowering glucose and insulin/IGF-1 growth factors that promote tumor growth, inducing ketosis that cancer cells cannot utilize, activating autophagy for cellular cleanup, and enhancing the efficacy of chemotherapy while protecting normal tissues from treatment toxicity.
 
-## Mechanisms of Benefit
+## Evidence
 
-### Metabolic Effects
-| Change | Effect on Cancer |
-|--------|------------------|
-| **Glucose ↓** | Reduced glycolytic fuel |
-| ** ↓** | Reduced growth signaling |
-| **IGF-1 ↓** | Reduced proliferation |
-| **Ketones ↑** | Normal cells protected |
+### Mechanisms of Action
 
-### Cellular Stress Response
-| Pathway | Effect |
-|---------|--------|
-| **AMPK activation** | Inhibits mTOR, promotes autophagy |
-| **Sirtuin activation** | DNA repair, stress resistance |
-| **Autophagy** | Clears damaged components |
-| **Reduced ** | Lower NF-κB activity |
+**1. Reduced Growth Factors:**
+| Factor | Effect on Cancer | Change with CR/Fasting |
+|--------|------------------|------------------------|
+| **Glucose** | Primary fuel | Decreases |
+| **Insulin** | Promotes growth | Decreases |
+| **IGF-1** | Promotes proliferation | Decreases |
+| **mTOR** | Promotes growth | Inhibited |
 
-### Differential Stress Resistance
-| Cell Type | Fasting Response |
-|-----------|------------------|
-| **Normal cells** | Enter protective mode |
-| **Cancer cells** | Continue proliferation attempts |
-| **Result** | Therapeutic window |
+**2. Ketone Production:**
+- Liver produces ketones during fasting
+- Normal cells adapt to use ketones
+- Cancer cells cannot (metabolic inflexibility)
+- Selective stress on cancer
 
-## Types of Fasting Protocols
+**3. Autophagy Activation:**
+- Cellular recycling process
+- Removes damaged components
+- Activated during nutrient deprivation
+- May promote cancer cell death
 
-### 1. Prolonged Fasting (PF)
-| Duration | 48-120 hours |
-|----------|--------------|
-| **Frequency** | Before chemotherapy |
-| **Benefit** | Maximum metabolic shift |
-| **Challenge** | Difficult compliance |
+**4. Enhanced Chemotherapy Efficacy:**
+- Cancer cells in "starvation mode" more vulnerable
+- Normal cells protected (stress resistance)
+- Allows dose reduction
+- Reduces side effects
 
-### 2. Intermittent Fasting (IF)
-| Pattern | 16:8, 18:6, 20:4 |
-|---------|-------------------|
-| **Daily eating window** | 4-8 hours |
-| **Benefit** | Sustainable long-term |
-| **Compliance** | Better than prolonged |
+### Types of Fasting Protocols
 
-### 3. Fasting-Mimicking Diet (FMD)
-| Description | Very low-calorie, specific macros |
-|-------------|----------------------------------|
-| **Calories** | ~40% normal |
-| **Duration** | 5 days monthly |
-| **Benefit** | Easier than water fasting |
-| **Developed by** | Valter Longo (USC) |
+**Intermittent Fasting (IF):**
+- 16:8 (16 hours fast, 8 hours eating)
+- 18:6 (18 hours fast, 6 hours eating)
+- 20:4 (20 hours fast, 4 hours eating)
+- Daily practice
 
-### 4. Time-Restricted Eating (TRE)
-| Pattern | Eating within 8-10 hour window |
-|---------|-------------------------------|
-| **Example** | 10am-6pm eating |
-| **Benefit** | Aligns with circadian rhythm |
-| **Compliance** | High |
+**Prolonged Fasting:**
+- 24-72 hours
+- Water only
+- Medical supervision recommended
+- Before chemotherapy
 
-## Clinical Applications
+**Fasting-Mimicking Diet (FMD):**
+- Very low calorie (800-1100 kcal/day)
+- Low protein, low carb, high fat
+- 5 days per month
+- Developed by Valter Longo
 
-### With Chemotherapy
-| Effect | Evidence |
-|--------|----------|
-| **Reduced toxicity** | Fasting protects normal cells |
-| **Enhanced efficacy** | Cancer cells sensitized |
-| **DNA repair** | Enhanced in normal cells |
-| **Immune preservation** | Reduced myelosuppression |
+**Caloric Restriction (CR):**
+- 20-30% calorie reduction
+- Chronic, sustained
+- Nutrient-dense foods
+- Long-term adherence challenging
 
-### The Valter Longo Studies
-| Finding | Significance |
-|---------|--------------|
-| **FMD + chemo** | Better tumor response |
-| **Less toxicity** | Improved quality of life |
-| **Immune system** | Better preserved |
-| **Clinical trial** | FMD safe and feasible |
+### Clinical Evidence
 
-### Specific Cancers
-| Cancer | Fasting Approach | Finding |
-|--------|------------------|---------|
-| **Breast** | 48h pre-chemo | Reduced DNA damage in normal cells |
-| **Prostate** | Intermittent | PSA stabilization |
-| **Glioma** | Ketogenic + fasting | Prolonged survival |
-| **Ovarian** | 48h pre-chemo | Reduced side effects |
+| Study Type | Findings |
+|------------|----------|
+| **Preclinical** | Consistent tumor growth inhibition |
+| **Human trials** | Improved chemotherapy tolerance |
+| **FMD + chemo** | Reduced side effects, maintained efficacy |
+| **Breast cancer** | FMD reduced DNA damage in normal cells |
 
-## Physiological Changes During Fasting
+**Fasting Before Chemotherapy:**
+- 24-48 hours pre-chemo
+- Reduces side effects
+- May enhance efficacy
+- Patient compliance challenging
 
-### Timeline
-| Hours | State | Cancer Impact |
-|-------|-------|---------------|
-| **0-12** | Post-absorptive | Glycogen use |
-| **12-24** | Early fasting | Gluconeogenesis |
-| **24-48** | Ketogenesis | Ketones rising |
-| **48-72** | Deep ketosis | Autophagy peak |
-| **72+** | Prolonged fast | Maximum metabolic shift |
+## Clinical Implication
 
-### Hormonal Changes
-| Hormone | Change | Effect |
-|---------|--------|--------|
-| **Insulin** | ↓↓↓ | Reduced growth |
-| **Glucagon** | ↑↑ | Promotes catabolism |
-| **Cortisol** | ↑ | Stress adaptation |
-| **GH** | ↑ | Preservation |
-| **Noradrenaline** | ↑ | Metabolic rate maintained |
+**Patient Selection:**
+- Not malnourished
+- Adequate body weight
+- Motivated and supported
+- No eating disorders
 
-## Safety Considerations
+**Contraindications:**
+- Cachexia (wasting syndrome)
+- Significant weight loss
+- Type 1 diabetes
+- Pregnancy
+- History of eating disorders
 
-### Contraindications
-| Condition | Risk |
-|-----------|------|
-| **Underweight (BMI <18.5)** | Malnutrition |
-| **Diabetes on insulin** | Hypoglycemia |
-| **Eating disorders** | Psychological risk |
-| **Active infection** | Immune compromise |
-| **Pregnancy/lactation** | Fetal risk |
+**Monitoring:**
+- Weight
+- Ketones (if prolonged fasting)
+- Blood glucose
+- Symptoms (fatigue, dizziness)
+- Tumor markers
 
-### Monitoring
-| Parameter | Check |
-|-----------|-------|
-| **Weight** | Weekly |
-| **Blood glucose** | If diabetic |
-| **Ketones** | During fasts |
-| **Electrolytes** | Periodic |
-| **Nutritional status** | Regular assessment |
+**Integration with Standard Care:**
+- Coordinate with oncology team
+- Timing around chemotherapy
+- Nutritional support
+- Individualized approach
 
-## Practical Implementation
+## METHAP Relevance
 
-### Before Chemotherapy
-| Protocol | Duration |
-|----------|----------|
-| **48-hour water fast** | 2 days pre-chemo |
-| **OR FMD** | 5 days pre-chemo |
-| **Resume eating** | 24h post-chemo |
-
-### Maintenance Protocol
-| Approach | Schedule |
-|----------|----------|
-| **Intermittent fasting** | Daily 16:8 |
-| **OR FMD** | 5 days monthly |
-| **TRE** | Daily eating window |
-
-## Related
-- [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_Z-001-1122]
-- [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]
-- 
-
----
-*Source: CGPT-0264 — Warburg effect and cancer*
-
-
-## RELATED FILES
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-- 
+**Integration:**
+- Metabolic flexibility assessment
+- Personalized fasting protocol
+- Combine with ketogenic diet
+- Monitor metabolic markers
+- Supportive nutrients when feeding
 
 ---
 
-## Connection to Vault
+## Related Zettels
+- [[Cancer_Metabolic_Disease_Mitochondrial_Origin_Z-001-1121]] — Metabolic theory
+- [[Ketogenic_Diet_Cancer_Therapy_Metabolic_Inflexibility_Z-001-1122]] — Ketogenic diet
+- [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]] — Press-Pulse
 
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Source
+[[L-001-0609_Metabolic_Therapy_Cancer_Seyfried_CGPT-0264]]
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+parent-index: [[03-Zettels]]

@@ -21,11 +21,15 @@ parent-moc: "[[MOC-Hashimoto-Thyroiditis]]"
 Huang XS, Dai N, Xu JX, et al. MRI quantitative assessment of the effects of low-carbohydrate therapy on Hashimoto's thyroiditis. *Endocr Connect*. 2024;13(5):e230477. doi:10.1530/EC-23-0477
 
 ## Source
+- **Primary source:** Endocrine Connections
+- **Citation extracted from:** Facebook Posts Collection
 - **Journal:** Endocrine Connections
 - **Date:** April 22, 2024
 - **Type:** Randomized controlled trial
+- **DOI:** 10.1530/EC-23-0477
 - **PMID:** [38552311](https://pubmed.ncbi.nlm.nih.gov/38552311/)
 - **PMC:** [PMC11046326](https://pmc.ncbi.nlm.nih.gov/articles/PMC11046326/)
+- **Status:** Verified PMID/DOI, citation from source
 
 ---
 

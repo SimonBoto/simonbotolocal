@@ -19,9 +19,12 @@ parent-moc: "[[MOC-References-Active]]"
 López-Otín C, Blasco MA, Partridge L, Serrano M, Kroemer G. Hallmarks of aging: An expanding universe. Cell. 2023;186(2):243-278.
 
 ## Source
+- **Primary source:** Cell
+- **External source:** Not from Facebook Collection
 - **DOI:** 10.1016/j.cell.2022.12.001
 - **PMID:** 36608663
 - **URL:** https://www.cell.com/cell/fulltext/S0092-8674(22)01377-0
+- **Status:** Verified PMID/DOI, external reference
 
 ---
 

@@ -1,33 +1,37 @@
 ---
 uid: R-001-0001
 type: reference
-reference-type: journal-article
-title: "Alcohol and Pancreatic Cancer Risk"
-authors: "Dowd A. et al."
+title: "Dowd 2025 — Alcohol and Pancreatic Cancer Risk"
+aliases: ["Dowd2025", "Alcohol-Pancreatic-Cancer", "BMJ-2025"]
+authors: "Dowd A, et al."
+year: "2025"
 journal: "BMJ"
-year: 2025
-volume: ""
-pages: ""
-doi: ""
-url: ""
-accessed: 2026-04-04
-tags: [reference, alcohol, cancer, pancreatic-cancer, epidemiology]
+doi: "(pending)"
+pmid: "(pending)"
+tier: "SILVER"
 status: active
+parent-moc: "[[MOC-Cancer-Risks]]"
 ---
 
-# Alcohol and Pancreatic Cancer Risk
+# Dowd 2025 — Alcohol and Pancreatic Cancer Risk
 
-**Full Citation:** Alcohol is associated with increased risk of pancreatic cancer, finds study of 2.5m people. Dowd A. et al. BMJ 2025.
+## Citation
+Alcohol is associated with increased risk of pancreatic cancer, finds study of 2.5m people. Dowd A, et al. BMJ. 2025.
 
-## Key Points
+## Source
+- **Primary source:** BMJ
+- **Citation extracted from:** Facebook Posts Collection
+- **Status:** Citation from source; full text pending
+
+## Key Claims from Source
 - Large-scale study (2.5 million participants)
 - Alcohol consumption linked to increased pancreatic cancer risk
 
-## Source Articles
-- Facebook Posts Collection (Article: Alcohol and Cancer)
+## Zettels Using This Reference
 
-## Related Notes
-- [[LitNote_Article_Alcohol_Cancer_L-001-XXXX]]
+| Zettel | Claim |
+|--------|-------|
+| (pending) | (pending extraction) |
 
 ---
-*Reference Note created: 2026-04-04*
+*R-001-0001 | Created: 2026-04-04 | Updated: 2026-04-05 | Tier: SILVER | Status: Citation from source*

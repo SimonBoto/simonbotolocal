@@ -20,10 +20,14 @@ parent-moc: "[[MOC-Inflammation]]"
 Kurt B, Reugels M, Schneider KM, et al. C-reactive protein and cardiovascular risk in the general population. *Eur Heart J*. 2025. doi:10.1093/eurheartj/ehaf937
 
 ## Source
+- **Primary source:** European Heart Journal
+- **Citation extracted from:** Facebook Posts Collection
 - **Journal:** European Heart Journal
 - **Date:** December 11, 2025
 - **Study:** General population cohort
+- **DOI:** 10.1093/eurheartj/ehaf937
 - **PMID:** [41378999](https://pubmed.ncbi.nlm.nih.gov/41378999/)
+- **Status:** Verified PMID/DOI, citation from source
 
 ---
 

@@ -8,15 +8,16 @@ journal: JAMA, J Clin Endocrinol Metab, JAMA, J Clin Endocrinol Metab
 tier: GOLD
 relevance: High — Evidence base for high-dose protocols in infants, children, adolescents
 status: extracted
-parent-moc: [[MOC-Vitamin-D]]
+parent-moc:
+  - - MOC-Vitamin-D
 extraction-date: 2026-03-01
-source: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
+source: "[[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
 ---
 
 # Lit: High-Dose Vitamin D Clinical Research — Safety in Pediatrics
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]] (lines 13-15)
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]] (lines 13-15)
 - **Gallo et al. (2013):** RCT of vitamin D supplementation in infants (400-1,600 IU)
 - **Saadi et al. (2009):** Safety of 2,000 IU/day in infants
 - **Gordon et al. (2008):** High-dose therapy in adolescents (2,000 IU daily, 50,000 IU weekly)

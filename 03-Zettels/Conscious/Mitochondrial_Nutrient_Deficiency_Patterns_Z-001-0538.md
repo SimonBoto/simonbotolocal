@@ -2,67 +2,115 @@
 uid: Z-001-0538
 type: zettel
 title: Mitochondrial Nutrient Deficiency Patterns
-aliases: [Mitochondrial-Cofactors, B-Vitamins, CoQ10, Carnitine]
+aliases: [Mitochondrial-Nutrients, Cofactors, Mg, CoQ10, B-Vitamins, Carnitine]
 domain: 001
-tags: [zettel, mitochondrial-cofactors, magnesium, coq10, b-vitamins, carnitine]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags: [zettel, mitochondrial-nutrients, magnesium, coq10, b-vitamins, carnitine, cofactors]
+parent-moc: [[MOC-Mitochondrial-Function]]
 status: conscious
-source-litnote: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]
+source-litnote: [[L-001-0507_Organic_Acid_Krebs_Cycle_CGPT-0393]]
 extraction-date: 2026-03-01
 ---
 
-# l Nutrient Deficiency Patterns
+# Mitochondrial Nutrient Deficiency Patterns
 
-> Specific nutrient deficiencies underlie  dysfunction, with organic acid patterns revealing which cofactors are lacking.
+## Core Claim
+Specific nutrient deficiencies produce characteristic organic acid patterns that reveal which mitochondrial cofactors are lacking, enabling targeted supplementation: magnesium deficiency causes citrate/aconitate accumulation; CoQ10 deficiency impairs electron transport; B-vitamin deficiencies affect multiple dehydrogenases; and carnitine deficiency elevates 3-HMGA through impaired fatty acid oxidation.
 
-## Critical Cofactors
+## Evidence
 
-**Magnesium:**
-- Cofactor for: Citrate synthase, isocitrate DH, α-KGDH
-- Deficiency: Multiple TCA elevations
+### Magnesium (Mg²⁺)
 
-**CoQ10:**
-- Function: ETC Complexes I-III electron shuttle
-- Deficiency: General mitochondrial dysfunction
+**Mitochondrial Functions:**
+- Cofactor for 6+ Krebs cycle enzymes
+- Stabilizes ATP-Mg complex
+- Required for oxidative phosphorylation
 
-**B-Vitamins:**
+**Enzymes Affected:**
+| Enzyme | Reaction | Deficiency Effect |
+|--------|----------|-------------------|
+| Citrate synthase | Acetyl-CoA + oxaloacetate → citrate | ↓ TCA flux |
+| Isocitrate dehydrogenase | Isocitrate → α-ketoglutarate | Citrate accumulation |
+| α-Ketoglutarate dehydrogenase | α-KG → succinyl-CoA | α-KG elevation |
 
-| Vitamin | Form | Function |
-|---------|------|----------|
-| **B1** | TPP | PDH, α-KGDH |
-| **B2** | FAD/FMN | Multiple dehydrogenases |
-| **B3** | NAD⁺ | Dehydrogenases, ETC |
-| **B5** | CoA | Acetyl-CoA synthesis |
+**OAT Pattern:** Elevated citrate, aconitate, multiple TCA intermediates
 
-**Carnitine:**
-- Function: Fatty acid transport into mitochondria
-- Deficiency: 3-HMGA elevation, hypoglycemia
+**Supplementation:** 200-400 mg elemental daily (glycinate, citrate, or malate)
 
-## Pattern-to-Deficiency
+### Coenzyme Q10 (Ubiquinone)
 
-```
-Citrate + aconitate ↑ → Mg deficiency, Fe-S cluster
-Multiple TCA ↑ → Multiple B-eficiency
-3-HMGA ↑ → Carnitine deficiency
-General dysfunction → CoQ10 deficiency
-```
+**Function:** Electron carrier between Complexes I/II and III
+**Location:** Inner mitochondrial membrane
+**Synthesis:** Mevalonate pathway (statin-sensitive)
+
+**Deficiency Signs:**
+- General mitochondrial dysfunction
+- Exercise intolerance
+- Muscle weakness
+- Statin-induced myopathy
+
+**OAT Pattern:** General elevation of multiple markers (non-specific)
+
+**Supplementation:** 100-200 mg ubiquinol daily
+
+### B-Vitamins
+
+| Vitamin | Active Form | Key Enzymes | Deficiency Pattern |
+|---------|-------------|-------------|-------------------|
+| **B1 (Thiamine)** | TPP | PDH, α-KGDH, transketolase | Lactic acidosis, elevated pyruvate |
+| **B2 (Riboflavin)** | FAD/FMN | Multiple dehydrogenases | Fatigue, impaired β-oxidation |
+| **B3 (Niacin)** | NAD⁺/NADP⁺ | All dehydrogenases | Global energy impairment |
+| **B5 (Pantothenic)** | CoA | Acetyl-CoA synthesis | Impaired acetyl-CoA availability |
+
+**OAT Pattern:** Multiple elevations depending on specific deficiency
+
+### Carnitine
+
+**Function:** Fatty acid transport into mitochondria
+**Mechanism:** CPT1 (outer membrane) → carnitine shuttle → CPT2 (inner membrane)
+
+**Deficiency Consequences:**
+- Impaired β-oxidation
+- 3-HMGA elevation (leucine shunt)
+- Hypoglycemia during fasting
+- Lipid accumulation in tissues
+
+**OAT Pattern:** Elevated 3-HMGA, dicarboxylic acids (if severe)
+
+**Supplementation:** 500-2000 mg L-carnitine or acetyl-L-carnitine
+
+## Clinical Implication
+
+**Pattern-to-Treatment Mapping:**
+
+| OAT Pattern | Primary Deficiency | First-Line Supplements |
+|-------------|-------------------|----------------------|
+| Citrate + aconitate ↑ | Magnesium | Mg, consider Fe |
+| Multiple TCA ↑ | B-vitamins | B-complex, Mg |
+| 3-HMGA ↑ | Carnitine | L-carnitine, CoQ10 |
+| General dysfunction | CoQ10 | CoQ10, comprehensive support |
+
+**Testing Considerations:**
+- Serum Mg often normal when RBC Mg low
+- Organic acids reflect functional status better than serum levels
+- Trial of supplementation with retesting validates interpretation
+
+## METHAP Relevance
+
+**Precision Nutrition:**
+- Objective biomarkers guide targeted therapy
+- Avoids unnecessary supplementation
+- Monitors intervention efficacy
+- Integrates with broader metabolic optimization
 
 ---
 
-*Source: [[LitNote_Organic_Acid_Krebs_Cycle_L-001-0507]*
+## Related Zettels
+- [[Urine_Organic_Acid_Krebs_Cycle_Markers_Z-001-0537]] — OAT interpretation
+- [[Mitochondrial_Supplementation_Protocol_Z-001-0539]] — Management protocol
+- [[Organic_Acid_METHAP_Integration_Z-001-0540]] — METHAP integration
 
-
-## RELATED FILES
-- 
-- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
-- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Source
+[[L-001-0507_Organic_Acid_Krebs_Cycle_CGPT-0393]]
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+parent-index: [[03-Zettels]]

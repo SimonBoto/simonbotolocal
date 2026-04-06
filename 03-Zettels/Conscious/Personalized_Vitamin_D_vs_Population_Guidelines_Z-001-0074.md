@@ -2,12 +2,19 @@
 uid: Z-001-0074
 type: zettel
 title: Personalized Vitamin D vs Population Guidelines
-aliases: [Z-001-0074, Personalized-Vitamin-D]
-domain: 001
+aliases:
+  - Z-001-0074
+  - Personalized-Vitamin-D
+domain: 1
 domain-name: Insulin Signaling
-tags: [zettel, vitamin-d, personalized-medicine, precision-nutrition]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
+tags:
+  - zettel
+  - vitamin-d
+  - personalized-medicine
+  - precision-nutrition
+parent-moc:
+  - - MOC-Insulin-Signaling
+source-litnote: "[[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
 confidence: high
 created: 2026-03-01
 status: conscious
@@ -35,7 +42,7 @@ Growing recognition that population-wide RDA fails individual needs. Factors cre
 ## Links
 
 **Parent MOC:** 
-**Source:** [[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]
+**Source:** [[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]
 **Related:** -Metabolism], [[IIH_CYP24A1_Mutation_True_Cause_Z-001-0055]
 
 ---

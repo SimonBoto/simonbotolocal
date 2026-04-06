@@ -8,16 +8,18 @@ journal: Internal clinical synthesis
 tier: GOLD
 relevance: High — Core mechanistic biology for bone therapeutics
 status: extracted
-parent-moc: [[MOC-Clinical-Protocols]]
-parent-index: [[02-Literature]]
+parent-moc:
+  - - MOC-Clinical-Protocols
+parent-index:
+  - - 02-Literature
 extraction-date: 2026-03-01
-source: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
+source: "[[00-Inbox/Processed/CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
 ---
 
 # Lit: Bone Remodeling — Osteoclasts, Osteoblasts, and RANK/RANKL/OPG System
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
 - **Date:** March 07, 2025
 - **Scope:** Cellular mechanisms of bone remodeling, RANK/RANKL/OPG signaling
 

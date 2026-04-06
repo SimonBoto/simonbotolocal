@@ -1,82 +1,43 @@
 ---
-uid: "R-001-0039"
+uid: R-001-0039
 type: reference
-title: ""
-authors: ""
-year: ""
-journal: ""
+title: "Gallagher & LeRoith 2015 — Inflammation and Insulin Resistance in Rheumatoid Arthritis"
+aliases: ["Gallagher2015", "LeRoith2015", "Inflammation-IR-RA", "Metabolism-2015"]
+authors: "Gallagher EJ, LeRoith D"
+year: "2015"
+journal: "Metabolism"
 doi: "10.1016/j.metabol.2014.11.006"
 pmid: "25560728"
-zotero: ""
-tier: "1"
-status: "ref"
+tier: "GOLD"
+status: active
+parent-moc: "[[MOC-Inflammation]]"
 ---
 
-# Reference
+# Gallagher & LeRoith 2015 — Inflammation and Insulin Resistance in Rheumatoid Arthritis
 
-> **Author et al. (Year)**  
-> *Journal*  
-> DOI: [10.1016/j.metabol.2014.11.006](https://doi.org/10.1016/j.metabol.2014.11.006) | PMID: [25560728](https://pubmed.ncbi.nlm.nih.gov/25560728)
+## Citation
+Gallagher EJ, LeRoith D. Inflammation and insulin resistance in rheumatoid arthritis. Metabolism. 2015;64(3 Suppl 1):S1-S2. doi:10.1016/j.metabol.2014.11.006
 
----
+## Source
+- **Primary source:** Metabolism
+- **External source:** Not from Facebook Collection
+- **DOI:** 10.1016/j.metabol.2014.11.006
+- **PMID:** 25560728
+- **Status:** Verified PMID/DOI, external reference
 
-## 🎯 Why This Matters
+## Key Findings
+- Inflammation and insulin resistance connection in RA
+- Cytokines and TNF-alpha role
+- Lipotoxicity and ceramide-induced IR
 
-To be added
+## Clinical Relevance
+High relevance to understanding inflammation-insulin resistance mechanisms in autoimmune disease.
 
----
+## Zettels Using This Reference
 
-## 📝 Abstract
-
-notes: |
-  
-tags: [ref, inflammation, insulin-resistance, rheumatoid-arthritis, cytokines, TNF-alpha]
-domains:
-  - "001"
-status: "ref"
-extraction-priority: P1
-parent-moc: [[MOC-Research-Methods]
-connections:
-  extracted-zettels: []
-  synthesis-links: []
-  related-refs: []
-  supports-claims: []
-  contradicts-claims: []
-  methods-source: []
-litnotes-created: []
-extraction-date: ""
-extracted-by: ""
-quality-score: medium
+| Zettel | Claim |
+|--------|-------|
+| [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013]] | Inflammation-IR connection |
 
 ---
-
-## 💡 Key Findings
-
-- **Finding 1** — To be extracted
-- **Finding 2** — To be extracted
-- **Finding 3** — To be extracted
-
----
-
-## 🔗 Connected to Our Work
-
-### Supports
-- [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013]] — Inflammation-IR connection
-
----
-
-## ✅ Extraction Status
-
-- [ ] Abstract reviewed
-- [ ] Key findings extracted
-- [ ] Zettels created
-- [ ] Synthesis integrated
-
-**Status:** ref | **Priority:** P1
-
----
-
-*Added: 2026-04-01 | Last reviewed: 2026-04-01*
-
----
-parent-index: [[01-References]]
+*R-001-0039 | Created: 2026-04-01 | Updated: 2026-04-05 | Tier: GOLD | Status: External reference, verified PMID/DOI*

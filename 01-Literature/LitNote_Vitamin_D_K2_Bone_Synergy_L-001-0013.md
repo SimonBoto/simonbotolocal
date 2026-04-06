@@ -9,12 +9,12 @@ relevance: High — Core nutritional intervention for osteoporosis
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
-source: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
+source: "[[00-Inbox/Processed/CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
 
 # Lit: Vitamin D and K2 Co-Supplementation — Bone Mineralization and Fracture Prevention
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
 - **References:**
   - Holick MF. Vitamin D deficiency. *N Engl J Med.* 2007;357(3):266–281.
   - Cockayne S, et al. Vitamin K and prevention of fractures. *Arch Intern Med.* 2006;166(12):1256–1261.

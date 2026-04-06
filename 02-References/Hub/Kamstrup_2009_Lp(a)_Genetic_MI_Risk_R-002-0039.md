@@ -20,11 +20,15 @@ parent-moc: "[[MOC-Cholesterol-Quality]]"
 Kamstrup PR, Tybjaerg-Hansen A, Steffensen R, Nordestgaard BG. "Genetically elevated lipoprotein(a) and increased risk of myocardial infarction." *JAMA*. 2009;301(22):2331-2339. doi:10.1001/jama.2009.801
 
 ## Source
-- **Journal:** JAMA (Journal of the American Medical Association)
+- **Primary source:** JAMA (Journal of the American Medical Association)
+- **External source:** Not from Facebook Collection
+- **Journal:** JAMA
 - **Year:** 2009
 - **Type:** Mendelian randomization / Genetic epidemiology
+- **DOI:** 10.1001/jama.2009.801
 - **PMID:** [19509380](https://pubmed.ncbi.nlm.nih.gov/19509380/)
 - **Full text:** [JAMA Network](https://jamanetwork.com/journals/jama/fullarticle/184874)
+- **Status:** Verified PMID/DOI, external reference
 
 ---
 

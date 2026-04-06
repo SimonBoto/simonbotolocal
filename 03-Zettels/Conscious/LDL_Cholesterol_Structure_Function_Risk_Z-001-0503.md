@@ -4,81 +4,92 @@ type: zettel
 title: LDL Cholesterol — Structure, Function, and Risk
 aliases: [LDL, LDL-Cholesterol, Small-Dense-LDL, Atherosclerosis]
 domain: 001
-tags: [zettel, ldl, cholesterol, atherosclerosis, risk]
-parent-moc: [[MOC-Insulin-Signaling]]
+tags: [zettel, ldl, cholesterol, atherosclerosis, cardiovascular-risk, sdldl]
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
-source-litnote: [[LitNote_Cholesterol_Biology_L-001-0501]
+source-litnote: [[L-001-0501_Cholesterol_Biology_Lipid_Metabolism_CGPT-0086]]
 extraction-date: 2026-03-01
 ---
 
-# LDL  — Structure, Function, and Risk
+# LDL Cholesterol — Structure, Function, and Risk
 
-> LDL delivers cholesterol to peripheral cells via receptor-mediated endocytosis; elevated LDL is the primary driver of atherosclerosis.
+## Core Claim
+LDL delivers cholesterol to peripheral cells via receptor-mediated endocytosis; elevated LDL-C and small dense LDL particles are the primary drivers of atherosclerotic cardiovascular disease, with each 1 mmol/L (~40 mg/dL) reduction yielding ~20-25% relative risk reduction.
 
-## Structure
+## Evidence
 
-- **Core:** Cholesteryl esters (80%)
-- **Surface:** Phospholipids, free cholesterol, ApoB-100
-- **Size:** 20-25 nm
+### LDL Structure and Composition
 
-## LDL Receptor Pathway
+| Component | Content | Function |
+|-----------|---------|----------|
+| **Core** | Cholesteryl esters (~80%) | Cholesterol delivery |
+| **Surface** | Phospholipids, free cholesterol | Structural, solubility |
+| **ApoB-100** | 1 molecule per particle | LDL receptor binding |
+| **Size** | 20-25 nm diameter | Determines atherogenicity |
+
+### LDL Receptor Pathway
 
 ```
-LDL binds LDL receptor → Clathrin-coated pit
+LDL binds LDL receptor (via ApoB-100) → Clathrin-coated pit formation
     ↓
 Endocytosis → Lysosomal degradation
     ↓
-Cholesterol released (regulates SREBP-2)
+Cholesterol released → Regulates SREBP-2 → Feedback inhibition of synthesis
 ```
 
-## Small Dense LDL (sdLDL)
+**Receptor recycling:** Each LDL receptor makes ~100 trips before degradation
 
-**Formation:** From VLDL when TG high, CETP active
-**Properties:**
-- More atherogenic
-- Penetrates endothelium easier
-- Oxidizes more readily
+### Small Dense LDL (sdLDL)
 
-**Associated with:** Metabolic syndrome,  resistance
+| Characteristic | sdLDL vs Large LDL |
+|----------------|-------------------|
+| **Formation** | From VLDL when TG high, CETP active |
+| **Atherogenicity** | Higher — penetrates endothelium easier |
+| **Oxidation susceptibility** | Higher — more polyunsaturated lipids |
+| **Association** | Metabolic syndrome, insulin resistance |
 
-## LDL and Atherosclerosis
+### LDL-C Risk Categories
 
-**Process:**
-1. LDL penetrates subendothelial space
-2. Oxidative modification (oxLDL)
-3. Scavenger receptor uptake
-4. Foam cell formation
-5. Plaque development
+| Level (mg/dL) | Category | Risk Implication |
+|---------------|----------|------------------|
+| <100 | Optimal | Target for high-risk patients |
+| 100-129 | Near optimal | Acceptable for low-risk |
+| 130-159 | Borderline high | Consider lifestyle intervention |
+| 160-189 | High | Pharmacotherapy indicated |
+| ≥190 | Very high | Immediate intervention; possible familial hypercholesterolemia |
 
-## Optimal Levels
+## Clinical Implication
 
-| Level | Category |
-|-------|----------|
-| <100 mg/dL | Optimal |
-| 100-129 | Near optimal |
-| 130-159 | Borderline high |
-| 160-189 | High |
-| ≥190 | Very high |
+**Risk Reduction:**
+- Each 1 mmol/L (~40 mg/dL) LDL-C reduction = ~20-25% relative risk reduction for major cardiovascular events
+- Absolute benefit depends on baseline risk (higher risk = greater absolute benefit)
 
-**:** Each 1 mmol/L (~40 mg/dL) reduction = ~20-25% risk reduction
+**Statin Therapy:**
+- First-line for LDL reduction
+- High-intensity: ≥50% reduction (atorvastatin 40-80mg, rosuvastatin 20-40mg)
+- Moderate-intensity: 30-49% reduction
 
----
+**Advanced Assessment:**
+- LDL particle number (LDL-P) more predictive than LDL-C when discordant
+- ApoB reflects total atherogenic particle burden
 
-*Source: [[LitNote_Cholesterol_Biology_L-001-0501]*
+## METHAP Relevance
 
-
-## RELATED FILES
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-- [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
-- [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+**Integrated Metabolic Assessment:**
+- Oxidized LDL (oxLDL) as marker of oxidative stress and inflammation
+- LDL phenotype pattern A (large) vs B (small dense) indicates insulin sensitivity
+- Combined with hsCRP for inflammatory risk stratification
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+
+## Related Zettels
+- [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]] — Cholesterol synthesis
+- [[Lipoproteins_Transport_System_Z-001-0502]] — Lipoprotein classes
+- [[Lipid_Peroxidation_Oxidized_LDL_Z-001-0505]] — Oxidized LDL
+- [[Advanced_Lipid_Markers_Beyond_LDL_HDL_Z-001-0508]] — Advanced testing
+
+## Source
+[[L-001-0501_Cholesterol_Biology_Lipid_Metabolism_CGPT-0086]]
+
+---
+parent-index: [[03-Zettels]]

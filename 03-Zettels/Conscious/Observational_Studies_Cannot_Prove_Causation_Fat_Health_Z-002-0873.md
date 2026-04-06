@@ -1,0 +1,49 @@
+---
+uid: Z-002-0873
+type: zettel
+title: "Observational Studies Cannot Prove Causation in Fat-Health Research"
+aliases: ["Z-002-0873", "Observational-Studies-Limitations"]
+domain: 002
+status: conscious
+tags: [zettel, observational-studies, causation, fat, health, limitations]
+parent-index: "[[03-Zettels-Conscious]]"
+parent-moc: "[[MOC-Cholesterol-Lipid]]"
+source-litnote: "[[L-002-0244_Animal_Saturated_Fat_Not_Mortality]]"
+source-reference: "[[Tokyo_Animal_Saturated_Fat_Not_Mortality_R-002-0067]]"
+related: []
+---
+
+# Observational Studies Cannot Prove Causation in Fat-Health Research
+
+## Core Claim
+**Current dietary guidelines on saturated fat are based on observational studies that cannot prove causation** — the evidence base is weaker than commonly assumed.
+
+## The Evidence Problem
+| Study Type | Limitation |
+|------------|------------|
+| **Observational studies** | Cannot prove causation |
+| **Food frequency questionnaires** | Recall bias |
+| **Current guidelines** | Based on weak evidence |
+
+## Why Guidelines Are Wrong
+| Assumption | Reality |
+|------------|---------|
+| "Saturated fat causes heart disease" | Not proven |
+| "Lower is always better" | Not supported |
+| "Replace with vegetable oils" | May be harmful |
+
+## The Bigger Picture
+| Factor | Importance |
+|--------|------------|
+| **Overall dietary pattern** | More important than single nutrients |
+| **Metabolic health** | Context matters |
+| **Food quality** | Processed vs. whole |
+| **Individual variation** | One size doesn't fit all |
+
+## Clinical Implication
+- **Evidence quality matters** for guidelines
+- Observational data should not drive strong recommendations
+- Need **randomized controlled trials** for causal claims
+
+---
+*Source: [[Tokyo_Animal_Saturated_Fat_Not_Mortality_R-002-0067]]*

@@ -8,17 +8,19 @@ journal: Internal clinical synthesis
 tier: SILVER
 relevance: High — Treatment options for severe osteoporosis and anabolic strategy
 status: extracted
-parent-moc: [[MOC-Clinical-Protocols]]
-parent-index: [[02-Literature]]
+parent-moc:
+  - - MOC-Clinical-Protocols
+parent-index:
+  - - 02-Literature
 extraction-date: 2026-03-06
-source: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
-domain: 001
+source: "[[00-Inbox/Processed/CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
+domain: 1
 ---
 
 # Anabolic Bone Therapies — Teriparatide, Abaloparatide, and Romosozumab
 
 ## Source
-- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
+- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
 - **Date:** March 07, 2025
 - **Scope:** Pharmacological section on anabolic agents vs. antiresorptives
 

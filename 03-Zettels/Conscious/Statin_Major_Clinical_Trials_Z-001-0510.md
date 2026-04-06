@@ -2,12 +2,26 @@
 uid: Z-001-0510
 type: zettel
 title: Statin Major Clinical Trials
-aliases: [Statin-Trials, 4S, WOSCOPS, JUPITER, TNT]
-domain: 001
-tags: [zettel, statin, trials, evidence, 4s, woscops, jupiter]
-parent-moc: [[MOC-Insulin-Signaling]]
+aliases:
+  - Statin-Trials
+  - 4S
+  - WOSCOPS
+  - JUPITER
+  - TNT
+domain: 1
+tags:
+  - zettel
+  - statin
+  - trials
+  - evidence
+  - 4s
+  - woscops
+  - jupiter
+parent-moc:
+  - - MOC-Insulin-Signaling
 status: conscious
-source-litnote: [[LitNote_Statin_Pharmacology_L-001-0502]
+source-litnote: "[[LitNote_Statin_Pharmacology_L-001-0502]]"
+source-inbox: "[[00-Inbox/Processed/CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]"
 extraction-date: 2026-03-01
 ---
 

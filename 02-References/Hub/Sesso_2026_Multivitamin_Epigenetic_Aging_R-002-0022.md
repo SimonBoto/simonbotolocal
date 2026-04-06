@@ -20,10 +20,13 @@ parent-moc: "[[MOC-Aging-Longevity]]"
 Sesso HD, et al. Effects of daily multivitamin–multimineral and cocoa extract supplementation on epigenetic aging clocks in the COSMOS randomized clinical trial. *Nat Med*. 2026. doi:10.1038/s41591-026-04239-3
 
 ## Source
+- **Primary source:** Nature Medicine
+- **External source:** Not from Facebook Collection
 - **Journal:** Nature Medicine
 - **Date:** March 9, 2026
 - **Study:** COSMOS randomized clinical trial
 - **DOI:** [10.1038/s41591-026-04239-3](https://doi.org/10.1038/s41591-026-04239-3)
+- **Status:** Verified DOI, external reference
 
 ---
 

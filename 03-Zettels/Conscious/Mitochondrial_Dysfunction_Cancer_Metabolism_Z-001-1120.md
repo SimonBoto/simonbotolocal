@@ -2,140 +2,133 @@
 uid: Z-001-1120
 type: zettel
 title: Mitochondrial Dysfunction Cancer Metabolism
-aliases: [Z-001-1120, Cancer-Mitochondria]
+aliases: [Mitochondrial-Dysfunction, Cancer, mtDNA, Apoptosis, Metabolism]
 domain: 001
-domain-name: Cancer Metabolism
-tags: [zettel, mitochondria, dysfunction, cancer, metabolism]
-parent-moc: [[MOC-Insulin-Signaling]]
-source-litnote: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]
-source: [[LitNote_Warburg_Effect_Cancer_Metabolism_L-001-0608]
-confidence: high
-created: 2026-03-08
+tags: [zettel, mitochondrial-dysfunction, cancer, mtdna, apoptosis, metabolism, warburg-effect]
+parent-moc: [[MOC-Cancer-Metabolism]]
+status: conscious
+source-litnote: [[L-001-0608_Warburg_Effect_Cancer_Metabolism_CGPT-0264]]
+extraction-date: 2026-03-08
 ---
 
-# l Dysfunction Cancer 
+# Mitochondrial Dysfunction Cancer Metabolism
 
-## Overview
- dysfunction is a hallmark of cancer—contributing to the Warburg phenotype, apoptotic resistance, and metabolic flexibility that supports tumor growth.
+## Core Claim
+Mitochondrial dysfunction in cancer—characterized by mtDNA mutations, defective respiratory complexes, and impaired oxidative phosphorylation—contributes to the Warburg phenotype, promotes apoptotic resistance, and creates metabolic vulnerabilities that can be exploited therapeutically.
 
-## Types of Mitochondrial Dysfunction
+## Evidence
 
-### 1. Genetic Mutations
-| Genome | Mutations | Effects |
-|--------|-----------|---------|
-| **Mitochondrial DNA** | Common in cancer | ETC defects |
-| **Nuclear DNA** | TCA cycle enzymes | Metabolic shift |
+### Types of Mitochondrial Dysfunction in Cancer
 
-### 2. Epigenetic Changes
-| Target | Change | Effect |
-|--------|--------|--------|
-| **ETC subunits** | Downregulated | Reduced OXPHOS |
-| **Mitochondrial biogenesis** | Impaired | Fewer mitochondria |
-| **Mitophagy** | Defective | Damaged mitochondria accumulate |
+**1. mtDNA Mutations:**
+- Somatic mutations in tumor cells
+- Common in Complex I and III genes
+- Reduce respiratory capacity
+- Associated with aggressive phenotypes
 
-### 3. Structural Abnormalities
-| Feature | Observation |
-|---------|-------------|
-| **Cristae** | Altered, reduced |
-| **Membrane potential** | Often reduced |
-| **Mass** | Variable, often decreased |
+**2. Nuclear DNA Mutations:**
+- Mutations in nuclear-encoded mitochondrial genes
+- Defects in TCA cycle enzymes (SDH, FH)
+- Hereditary cancer syndromes (paraganglioma, renal cell carcinoma)
 
-## Consequences for Cancer
+**3. Epigenetic Silencing:**
+- Downregulation of mitochondrial genes
+- Reduced OXPHOS protein expression
+- Shift to glycolytic metabolism
 
-### 1. Metabolic Reprogramming
-| Defect | Result |
-|--------|--------|
-| **ETC impairment** | Shift to glycolysis |
-| **TCA cycle defects** | Accumulation of oncometabolites |
-| **Reduced OXPHOS** | Dependence on glycolysis |
+**4. Microenvironmental Effects:**
+- Hypoxia damages mitochondria
+- Acidic pH impairs function
+- Nutrient deprivation stress
 
-### 2. Apoptotic Resistance
-| Mechanism | Effect |
-|-----------|--------|
-| **Outer membrane permeabilization** | Reduced |
-| **Cytochrome c release** | Blocked |
-| **Bax/Bak activation** | Inhibited |
+### Consequences for Cancer Cells
 
-**Result:** Cancer cells resist programmed cell death
+**1. Warburg Phenotype:**
+- Defective OXPHOS forces glycolysis
+- Even when oxygen present (aerobic glycolysis)
+- Becomes metabolic dependency
 
-### 3. ROS Signaling
-| ROS Level | Effect |
-|-----------|--------|
-| **Moderate increase** | Proliferative signaling |
-| **High levels** | DNA damage, mutations |
-| **Very high** | Apoptosis (cancer avoids this) |
+**2. Apoptotic Resistance:**
+- Mitochondria central to intrinsic apoptosis pathway
+- Reduced cytochrome c release
+- Impaired caspase activation
+- Contributes to therapy resistance
 
-## Oncometabolites
+**3. ROS Signaling:**
+- Mitochondrial ROS as signaling molecules
+- Promotes proliferation, angiogenesis
+- Stabilizes HIF-1α
+- Double-edged sword (too much ROS kills)
 
-### Definition
-Metabolites that accumulate due to mitochondrial/TCA defects and promote tumorigenesis.
+**4. Metabolic Flexibility Loss:**
+- Dependent on glycolysis
+- Vulnerable to glucose deprivation
+- "Achilles heel" for therapy
 
-| Oncometabolite | Enzyme Defect | Cancer Association |
-|----------------|---------------|-------------------|
-| **2-hydroxyglutarate (2-HG)** | IDH1/2 mutations | Glioma, AML |
-| **Succinate** | SDH mutations | Pheochromocytoma, GIST |
-| **Fumarate** | FH mutations | Hereditary leiomyomatosis |
-| **L-2-HG** | L-2-HGDH loss | Renal cancer |
+### The Oncogene Connection
 
-### Mechanism of Action
-- **Epigenetic modulation:** Inhibit histone/DNA demethylases
-- **HIF-1α stabilization:** Pseudohypoxia
-- **Signaling disruption:** Alter cellular responses
+**Myc:**
+- Promotes mitochondrial biogenesis AND glycolysis
+- Dual metabolic role
+- Depends on cellular context
 
-## The Mitochondrial-Cancer Paradox
+**p53:**
+- Wild-type: Promotes OXPHOS, inhibits glycolysis
+- Mutant: Loses this function
+- Common mutation → Warburg effect
 
-### Warburg's Original Claim
-> "Cancer originates from damaged respiration"
+**Ras:**
+- Suppresses mitochondrial function
+- Enhances glycolysis
+- Promotes glutamine addiction
 
-### Modern Understanding
-| Aspect | Reality |
-|--------|---------|
-| **Mitochondria damaged?** | Often, but not always |
-| **OXPHOS non-functional?** | Reduced, but rarely absent |
-| **Glycolysis dominant?** | Yes, but mitochondria still essential |
+## Clinical Implication
 
-### Why Mitochondria Remain Essential
-| Function | Cancer Need |
-|----------|-------------|
-| **Biosynthesis** | Citrate for lipids |
-| **Redox balance** | NAD⁺/NADPH regeneration |
-| **Amino acid metabolism** | Glutaminolysis |
-| **Iron-sulfur clusters** | Essential cofactors |
-| **Apoptosis regulation** | Controlled evasion |
+**Diagnostic:**
+- mtDNA mutations as biomarkers
+- Metabolomic profiling of tumors
+- Identifies metabolic vulnerabilities
 
-## Therapeutic Implications
+**Therapeutic Targets:**
 
-### Targeting Mitochondria in Cancer
-| Strategy | Target | Approach |
-|----------|--------|----------|
-| **Restore function** | ETC | Metformin, dichloroacetate |
-| **Increase ROS** | ETC | Pro-oxidant therapy |
-| **Block adaptation** | Mitophagy | Inhibitors |
-| **Trigger apoptosis** | Bcl-2 family | BH3 mimetics |
+| Target | Strategy | Rationale |
+|--------|----------|-----------|
+| **Residual OXPHOS** | Inhibit with metformin | Pushes cells to glycolysis |
+| **Glycolysis** | Inhibit with 2-DG | Exploits dependency |
+| **Glutamine metabolism** | Inhibit with BPTES | Alternative fuel block |
+| **Mitochondrial ROS** | Increase to toxic levels | Selective killing |
 
-## Related
-- [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]
-- [[Tumor_Microenvironment_Lactate_Acidification_Z-001-1119]
-- 
-- 
+**Metformin in Cancer:**
+- Inhibits Complex I
+- Reduces mitochondrial ATP production
+- Activates AMPK
+- Associated with reduced cancer risk in diabetics
+- Clinical trials ongoing
 
----
-*Source: CGPT-0264 — Warburg effect and cancer*
+**Dichloroacetate (DCA):**
+- Inhibits pyruvate dehydrogenase kinase
+- Reactivates PDH
+- Pushes pyruvate into mitochondria
+- Reverses Warburg effect
+- Limited clinical efficacy to date
 
+## METHAP Relevance
 
-## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]
-- [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-- 
-- 
+**Metabolic Therapy Integration:**
+- Mitochondrial support for normal cells
+- Mitochondrial inhibition for cancer cells
+- Ketogenic diet exploits glycolytic dependency
+- Personalized based on tumor metabolism
 
 ---
 
-## Connection to Vault
+## Related Zettels
+- [[Warburg_Effect_Aerobic_Glycolysis_Cancer_Z-001-1117]] — Warburg effect
+- [[Cancer_Metabolic_Reprogramming_Glycolysis_PPP_Z-001-1118]] — Metabolic reprogramming
+- [[Tumor_Microenvironment_Lactate_Acidification_Z-001-1119]] — Tumor microenvironment
 
-- Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolic-Syndrome]], [[MOC-Metabolomics]]
+## Source
+[[L-001-0608_Warburg_Effect_Cancer_Metabolism_CGPT-0264]]
 
 ---
-parent-index: [[03-Zettels-Conscious]]
+parent-index: [[03-Zettels]]

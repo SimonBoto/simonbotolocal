@@ -20,11 +20,15 @@ parent-moc: "[[MOC-Diabetes-T2D]]"
 Global Burden of Disease Collaborative Network. "Global burden and future projections of non-communicable diseases (2000–2050): Progress toward SDG 3.4 and disparities across regions and risk factors." *Lancet*. 2023. doi:10.1016/S0140-6736(20)30752-2
 
 ## Source
+- **Primary source:** The Lancet GBD
+- **External source:** Not from Facebook Collection
 - **Study:** Global Burden of Disease Study 2019
 - **Year:** 2019 data, published 2023
 - **Type:** Global health metrics research
+- **DOI:** 10.1016/S0140-6736(20)30752-2
 - **PMID:** [36726528](https://pubmed.ncbi.nlm.nih.gov/36726528/)
 - **Full text:** [The Lancet GBD](https://www.thelancet.com/gbd)
+- **Status:** Verified PMID/DOI, external reference
 
 ---
 

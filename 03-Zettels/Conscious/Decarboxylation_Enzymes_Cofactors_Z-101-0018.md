@@ -1,131 +1,65 @@
 ---
 uid: Z-101-0018
 type: zettel
-title: Decarboxylation Enzymes and Vitamin Cofactors
-aliases: [Z-101-0018, Decarboxylase Cofactors, TPP PLP Biotin]
+title: "Decarboxylation Enzymes and Cofactors"
+aliases: ["Z-101-0018", "Decarboxylation-Enzymes", "Cofactors", "TPP", "PLP"]
 domain: 101
-tags: [zettel, decarboxylase, cofactor, vitamin-b1, vitamin-b6, biotin, tpp, plp]
-parent-moc: [[MOC-Vitamin-Metabolism]]
+tags: [zettel, decarboxylation-enzymes, cofactors, tpp, plp, biotin, enzymology]
+parent-moc: "[[MOC-Enzyme-Mechanisms]]"
 status: conscious
-source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]"
+source-litnote: "[[L-101-0004_CoA_Synthesis_Decarboxylation_Enzymology_CGPT-0586]]"
+source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 extraction-date: 2026-03-02
 ---
 
-# Decarboxylation Enzymes and Vitamin Cofactors
+# Decarboxylation Enzymes and Cofactors
 
-**Core Principle:** Decarboxylation enzymes require specific erived cofactors to catalyze removal of carboxyl groups (-COOH) releasing CO₂.
+## Core Claim
+**Decarboxylation enzymes catalyze the removal of carboxyl groups (CO₂) from organic molecules — utilizing specific cofactors including thiamine pyrophosphate (TPP), pyridoxal phosphate (PLP), and biotin — with each cofactor employing distinct chemical mechanisms to stabilize carbanion intermediates, and defects in these enzymes or cofactors causing characteristic metabolic disorders ranging from lactic acidosis to neurological dysfunction.**
 
-## Major Vitamin Cofactors
+## Evidence
 
-### Thiamine Pyrophosphate (TPP) — Vitamin B1
+### Cofactor Comparison
+| Cofactor | Vitamin Source | Mechanism | Key Enzymes |
+|----------|---------------|-----------|-------------|
+| **TPP** | B1 (Thiamine) | Stabilizes carbanion | Pyruvate DH, α-KG DH, BCKDH |
+| **PLP** | B6 (Pyridoxine) | Schiff base formation | Amino acid decarboxylases |
+| **Biotin** | B7 (Biotin) | CO₂ carrier | Carboxylases (reverse) |
 
-**Structure:** Thiamine + pyrophosphate group
-**Mechanism:** Forms stabilized carbanion (negative charge on carbon)
+### TPP-Dependent Decarboxylation
+| Enzyme | Substrate | Product | Clinical Defect |
+|--------|-----------|---------|-----------------|
+| **Pyruvate DH** | Pyruvate | Acetyl-CoA + CO₂ | Lactic acidosis |
+| **α-KG DH** | α-Ketoglutarate | Succinyl-CoA + CO₂ | Lactic acidosis |
+| **BCKDH** | Branched-chain α-ketoacids | Acyl-CoA + CO₂ | Maple syrup urine disease |
 
-**Key Enzymes:**
-| Enzyme | Substrate | Product | Pathway |
-|--------|-----------|---------|---------|
-| Pyruvate dehydrogenase | Pyruvate | Acetyl-CoA | Glycolysis-TCA link |
-| α-ketoglutarate dehydrogenase | α-ketoglutarate | Succinyl-CoA | TCA cycle |
-| Transketolase | Xylulose-5-P | Glycolaldehyde-TPP | Pentose phosphate |
-| Pyruvate decarboxylase | Pyruvate | Acetaldehyde | Fermentation |
-
-**Deficiency — Beriberi:**
-- Impaired pyruvate  → lactic acidosis
-- Neurological symptoms (Wernicke-Korsakoff in alcoholism)
-- Cardiac symptoms (wet beriberi)
-
----
-
-### Pyridoxal Phosphate (PLP) — Vitamin B6
-
-**Structure:** Pyridoxine (pyridoxal) + phosphate
-**Mechanism:** Forms Schiff base (imine) with amino groups
-
-**Key Enzymes:**
+### PLP-Dependent Decarboxylation
 | Enzyme | Substrate | Product | Function |
 |--------|-----------|---------|----------|
-| Glutamate decarboxylase (GAD) | Glutamate | GABA | Neurotransmission |
-| Histidine decarboxylase | Histidine | Histamine | Immunity/allergy |
-| Aromatic L-amino acid decarboxylase | L-DOPA, 5-HTP | Dopamine, Serotonin | Neurotransmission |
-| Ornithine decarboxylase | Ornithine | Putrescine | Cell growth |
+| **GAD** | Glutamate | GABA + CO₂ | Neurotransmission |
+| **DDC** | L-DOPA | Dopamine + CO₂ | Neurotransmission |
+| **HDC** | Histidine | Histamine + CO₂ | Immune/gastric |
 
-**Deficiency:**
-- Microcytic anemia
-- Peripheral neuropathy
-- Seizures (especially infants)
-- Most versatile cofactor — 100+ reactions
+### Mechanism Comparison
+| Feature | TPP | PLP |
+|---------|-----|-----|
+| **Reactive group** | Thiazole C2 carbanion | Aldehyde (forms Schiff base) |
+| **Intermediate** | Carbanion-stabilized | Quinonoid |
+| **Release** | Aldehyde or acyl group | Amine |
 
----
-
-### Biotin — Vitamin B7
-
-**Mechanism:** Carries activated CO₂ (carboxylation), reverse = decarboxylation
-
-**Key Enzymes:**
-| Enzyme | Primary Reaction | Pathway |
-|--------|-----------------|---------|
-| Pyruvate carboxylase | Pyruvate → Oxaloacetate | Gluconeogenesis |
-| Acetyl-CoA carboxylase | Acetyl-CoA → Malonyl-CoA | Fatty acid synthesis |
-| Propionyl-CoA carboxylase | Propionyl-CoA → Methylmalonyl-CoA | Odd-chain FA metabolism |
-
-**Deficiency — Biotinidase Deficiency:**
-- Neonatal onset
-- Seizures, hypotonia, alopecia
-- Metabolic acidosis, ketolactic acidosis
-- Treatable with lifelong biotin supplementation
+## Clinical Implication
+- **Cofactor dependence:** B-vitamins essential
+- **Deficiency consequences:** Metabolic and neurological
+- **Drug interactions:** Isoniazid depletes B6
+- **Supplementation:** Often required therapeutically
+- **METHAP relevance:** Decarboxylation enzymes critical for energy metabolism and neurotransmitter synthesis
 
 ---
 
-### Cobalamin — Vitamin B12
-
-**Mechanism:** Methyl group transfer, molecular rearrangements
-
-**Key Enzymes:**
-| Enzyme | Reaction | Pathway |
-|--------|----------|---------|
-| Methionine synthase | Homocysteine → Methionine | Methylation |
-| Methylmalonyl-CoA mutase | Methylmalonyl-CoA → Succinyl-CoA | Propionate metabolism |
-
-**Deficiency:**
-- Megaloblastic anemia
-- Subacute combined degeneration (neuropathy)
-- Methylmalonic aciduria (functional)
+## Related
+- [[TPP_Thiamine_Pyrophosphate_Mechanism_Z-001-1200]] — TPP mechanism
+- [[PLP_Vitamin_B6_Pyridoxal_Phosphate_Z-001-1201]] — PLP mechanism
+- [[Dehydrogenases_vs_Decarboxylases_Z-101-0019]] — Enzyme comparison
 
 ---
-
-## Mineral Cofactors
-
-###  (Mg²⁺)
-- **Most common** mineral cofactor
-- Stabilizes negative charges
-- Coordinates ATP
-- Required by: PPCDC, many PLP-dependent enzymes
-
-### Manganese (Mn²⁺)
-- Can substitute for Mg²⁺
-- Preferred by: Some isocitrate dehydrogenase isoforms, arginase
-
-### Iron (Fe²⁺/Fe³⁺)
-- Iron-sulfur clusters in dehydrogenases
-- Limited direct decarboxylase roles
-
----
-
-*See also: [[Vitamin_B5_CoA_Synthesis_Pathway_Z-101-0017]*
-
-
-## RELATED FILES
-- [[Iron_Family_[B-003-0001]|Biomarker Family]
-- [[Methylation_Family_[B-004-0001]|Biomarker Family]
-- [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
-
----
-
-## Connection to Vault
-
-- Up: [[MOC-Vitamin-Metabolism]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
-
----
-parent-index: [[03-Zettels-Conscious]]
+*Source: [[L-101-0004_CoA_Synthesis_Decarboxylation_Enzymology_CGPT-0586]] | Inbox: [[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]*
