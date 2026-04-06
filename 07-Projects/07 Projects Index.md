@@ -2,9 +2,11 @@
 uid: PRJ-ROOT-0001
 type: index
 title: "07 Projects Index"
-date: 2026-04-02
+date: 2026-04-06
 aliases: [PROJECTS-INDEX, 07-Projects-INDEX]
 tags: [index, projects, dashboard]
+parent-moc: [[08 Structure Index]]
+parent-index: [[08 Structure Index]]
 status: active
 ---
 
@@ -21,6 +23,7 @@ status: active
 | **🏥 Clinic** | [[Clinic Index]] | ✅ Operational | P1 |
 | **🔬 PhD** | [[PhD Index]] | ⏸️ Blocked | P0 (when unblocked) |
 | **🎯 Personal** | [[Personal Index]] | ⏸️ On hold | P2 |
+| **🛠️ Tools** | [[Tools Index]] | 🟡 In Progress | P1 |
 
 ---
 
@@ -38,11 +41,15 @@ status: active
 ### Personal
 - [[Personal Index]] — Personal projects hub
 
+### Tools
+- [[Tools Index]] — Tools and automation projects
+- [[ZettelForge_Concept_S-001-0001]] — Assisted extraction system (concept)
+
 ---
 
 ## 🎯 CURRENT FOCUS
 
-### This Week (April 2-9, 2026)
+### This Week (April 6-13, 2026)
 
 **Clinic (P1):**
 - [ ] Extract doctors training curriculum from bootcamp zettels
@@ -54,6 +61,11 @@ status: active
 - [ ] Literature search on Vitamin D/K2 synergy
 - [ ] Extract 5 GOLD references
 
+**Tools (P1):**
+- [ ] Configure WORKER model for ZettelForge
+- [ ] Draft CGPT parser (minimal viable)
+- [ ] Test Worker → RON workflow
+
 **Personal:**
 - [ ] None — deprioritized
 
@@ -63,11 +75,12 @@ status: active
 
 | Project | Status | Blocker | Last Update |
 |---------|--------|---------|-------------|
-| Clinic Operations | 🟢 Active | None | April 2, 2026 |
-| Clinic Training | 🟡 In progress | Time | April 2, 2026 |
-| PhD METHAP | 🔴 Blocked | University | April 2, 2026 |
-| PhD Literature | 🟢 Active | None | April 2, 2026 |
-| Personal | ⚪ On hold | Higher priorities | April 2, 2026 |
+| Clinic Operations | 🟢 Active | None | April 6, 2026 |
+| Clinic Training | 🟡 In progress | Time | April 6, 2026 |
+| PhD METHAP | 🔴 Blocked | University | April 6, 2026 |
+| PhD Literature | 🟢 Active | None | April 6, 2026 |
+| ZettelForge | 🟡 Concept | WORKER model config | April 6, 2026 |
+| Personal | ⚪ On hold | Higher priorities | April 6, 2026 |
 
 ---
 
