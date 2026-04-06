@@ -22,6 +22,7 @@ status: active
 |--------|--------|--------|----------|
 | **🏥 Clinic** | [[Clinic Index]] | ✅ Operational | P1 |
 | **🔬 PhD** | [[PhD Index]] | ⏸️ Blocked | P0 (when unblocked) |
+| **📥 Extraction** | [[Extraction Index]] | 🟡 Active | P0 |
 | **🎯 Personal** | [[Personal Index]] | ⏸️ On hold | P2 |
 | **🛠️ Tools** | [[Tools Index]] | 🟡 In Progress | P1 |
 
@@ -41,9 +42,14 @@ status: active
 ### Personal
 - [[Personal Index]] — Personal projects hub
 
+### Extraction
+- [[Extraction Index]] — Knowledge extraction programs
+- [[CGPT_Extraction_Program_S-001-0003]] — CGPT + Facebook extraction (180/857 sources)
+
 ### Tools
 - [[Tools Index]] — Tools and automation projects
 - [[ZettelForge_Concept_S-001-0001]] — Assisted extraction system (concept)
+- [[QMD_Activation_S-001-0002]] — Hybrid search for vault
 
 ---
 
@@ -61,10 +67,15 @@ status: active
 - [ ] Literature search on Vitamin D/K2 synergy
 - [ ] Extract 5 GOLD references
 
-**Tools (P1):**
+**Extraction (P0):**
+- [ ] Resume CGPT_0264 (6 LitNotes remaining)
 - [ ] Configure WORKER model for ZettelForge
+- [ ] Process CGPT-0133 (28 LitNotes)
+
+**Tools (P1):**
 - [ ] Draft CGPT parser (minimal viable)
 - [ ] Test Worker → RON workflow
+- [ ] Build QMD index
 
 **Personal:**
 - [ ] None — deprioritized
@@ -79,6 +90,7 @@ status: active
 | Clinic Training | 🟡 In progress | Time | April 6, 2026 |
 | PhD METHAP | 🔴 Blocked | University | April 6, 2026 |
 | PhD Literature | 🟢 Active | None | April 6, 2026 |
+| CGPT Extraction | 🟡 Active | 180/857 sources | April 6, 2026 |
 | ZettelForge | 🟡 Concept | WORKER model config | April 6, 2026 |
 | Personal | ⚪ On hold | Higher priorities | April 6, 2026 |
 
