@@ -17,17 +17,18 @@ parent-moc: [[08 Structure Index]]
 
 | File | Purpose | When to Check |
 |------|---------|---------------|
-| [[00-COMMAND]] | Priorities, metrics, pipeline, backlog | Daily |
-| [[01-HANDOFF]] | Session state, what just happened | Per session |
-| [[02-LOG]] | Activity history | As needed |
+| [[00-COMMAND]] | Priorities & system vitals | Daily |
+| [[01-PIPELINE]] | Processing flow & backlog | Daily |
+| [[02-HANDOFF]] | Session state | Per session |
+| [[03-LOG]] | Activity history | As needed |
 
 ---
 
 ## Quick Navigation
 
-**Starting work?** → Read [[00-COMMAND]]  
-**Ending session?** → Update [[01-HANDOFF]]  
-**What happened?** → Check [[02-LOG]]
+**Starting work?** → Read [[00-COMMAND]] then [[01-PIPELINE]]  
+**Ending session?** → Update [[02-HANDOFF]]  
+**What happened?** → Check [[03-LOG]]
 
 ---
 
@@ -38,4 +39,4 @@ parent-moc: [[08 Structure Index]]
 
 ---
 
-*The control room — simplified to 3 dashboards*
+*The control room — 4 dashboards for complete visibility*

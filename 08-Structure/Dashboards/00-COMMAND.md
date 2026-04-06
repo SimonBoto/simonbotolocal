@@ -7,7 +7,7 @@ status: active
 # COMMAND — Current Priorities & System Status
 
 **System:** TheOptimizedBrain v4.1  
-**Last Updated:** 2026-04-06 20:55  
+**Last Updated:** 2026-04-06 21:00  
 **Status:** ⏸️ PAUSED — Infrastructure Build
 
 ---
@@ -31,42 +31,8 @@ status: active
 | **Zettels** | ~1,095 | 706 Conscious, 310 Subconscious, 56 RON |
 | **CGPT Anchors** | 688 | 17 processed, 671 pending |
 | **L-002 Facebook** | 55 | In LitSubconcious (need YAML upgrade) |
-| **Git Commits** | 85+ | Clean working tree |
+| **Git Commits** | 90+ | Clean working tree |
 | **MOCs** | 20+ | Active |
-
----
-
-## 🔄 Processing Pipeline
-
-| Stage | Count | Status | Next Action |
-|-------|-------|--------|-------------|
-| **Inbox** | ~700 items | 🟡 Triage needed | Daily check |
-| **LitSubconcious** | 98 LitNotes | 🟡 Ready | YAML upgrade (21 done) |
-| **Literature** | 183 total | 🟡 Processing | Extraction to zettels |
-| **Zettels/Conscious** | 706 | 🟡 Review | Promotion to Subconscious |
-| **Zettels/Subconscious** | 310 | ✅ Connected | Permanent |
-
----
-
-## 📋 Opportunity Backlog
-
-### Ready (Paused)
-| Item | Value | Effort | Blocker |
-|------|-------|--------|---------|
-| CGPT archive extraction | High | Medium | Infrastructure |
-| L-002 YAML upgrade | Medium | Low | — |
-| Zettel promotion review | Medium | Low | — |
-
-### Waiting on External
-| Item | Value | Blocker | ETA |
-|------|-------|---------|-----|
-| PhD ClinicalTrials.gov | Critical | University | Unknown |
-
-### Future
-| Item | Value | Notes |
-|------|-------|-------|
-| Website launch | High | After vault stable |
-| Book writing | High | After PhD complete |
 
 ---
 
@@ -84,8 +50,10 @@ When infrastructure ready:
 
 | File | Purpose |
 |------|---------|
+| [[01-PIPELINE]] | Processing flow & backlog |
+| [[02-HANDOFF]] | Session state |
+| [[03-LOG]] | Activity history |
 | `memory/2026-04-06_VAULT_PAUSE_STATUS.md` | Resume guide |
-| `memory/2026-04-06_CGPT_Processing_Workflows.md` | Perfected workflows |
 | `INFRASTRUCTURE_HANDOFF.md` | Team handoff |
 
 ---
