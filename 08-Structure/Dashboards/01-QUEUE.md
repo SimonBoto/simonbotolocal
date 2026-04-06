@@ -9,7 +9,7 @@ status: active
 ## Ready to Execute
 | Item | Value | Effort | Blocker |
 |------|-------|--------|---------|
-| ChatGPT archive extraction | High | Medium | Time |
+| ChatGPT archive extraction | High | Medium | Paused for infrastructure |
 | Reference link verification | Medium | Low | — |
 | Zettel promotion review | Medium | Low | — |
 
@@ -27,7 +27,7 @@ status: active
 | IV clinic infrastructure | Medium | Long-term project |
 
 ---
-*Last updated: 2026-04-02*
+*Last updated: 2026-04-06*
 
 ---
 parent-index: [[08 Structure Index]], [[Dashboards Index]]

@@ -23,7 +23,7 @@ parent-moc: [[08 Structure Index]]]
 | 01-QUEUE.md | Opportunity backlog |
 | 02-HANDOFF.md | Session state |
 | 03-LOG.md | Activity log |
-| 04-LEXICON.md | Terminology |
+| 04-MISSION_CONTROL.md | System status & metrics |
 
 ---
 
