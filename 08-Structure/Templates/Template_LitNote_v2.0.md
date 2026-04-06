@@ -18,16 +18,26 @@ PRE-FLIGHT CHECKLIST:
 uid: "{{L-XXX-XXXX}}"
 type: lit-note
 title: "Lit — {{Source Title}}"
-source-inbox: "[[Inbox_{{Title}}_{{YYYY-MM-DD}}]]"  # If applicable
+aliases:
+  - "{{L-XXX-XXXX}}"
+  - "{{Short-Title}}"
 authors: "{{Author1, Author2}}"
 year: "{{YYYY}}"
 journal: "{{Journal}}"
 doi: "{{DOI}}"
 pmid: "{{PMID}}"
 tier: "{{GOLD|SILVER|BRONZE}}"
+relevance: "{{Why this matters}}"
 status: extracting
 parent-moc: "[[MOC-Example]]"  # ⚠️ VERIFY exists
 extraction-date: "{{YYYY-MM-DD}}"
+zettels-created: {{N}}
+reference-count: {{N}}
+extraction-quality: "{{GOLD|SILVER|BRONZE}}"
+source-inbox: "[[Inbox_{{Title}}_{{YYYY-MM-DD}}]]"  # If applicable
+tags:
+  - lit-note
+  - {{domain-tag}}
 ---
 
 # Lit: {{Source Title}}

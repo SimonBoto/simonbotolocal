@@ -34,19 +34,24 @@ extraction-date: "{{YYYY-MM-DD}}"
 status: conscious
 ---
 
-# {{Atomic Claim}}
-
-{{Single idea, 50-200 words. Written as if for print. No context required.}}
-
-{{Key details: bullets, mini-table, or key-value pairs}}
+# Core Claim
+{{Single atomic claim — one idea, stated clearly}}
 
 ## Evidence
+
+### Primary Source
 > "{{Direct quote}}" ([[{{Author}}_{{Year}}_R-XXX-XXXX|{{Author, Year}}]])
 
-{{Or: Data/findings with citation}}
+### Supporting Data
+| Finding | Value | Context |
+|---------|-------|---------|
+| {{Metric}} | {{Value}} | {{Context}} |
 
-## Context
-{{Why this matters — clinical or research significance}}
+## Clinical Implication
+{{Practical application — how this changes practice or understanding}}
+
+## METHAP Relevance
+{{Connection to PhD/clinic integration — why this matters for your work}}
 
 ---
 
