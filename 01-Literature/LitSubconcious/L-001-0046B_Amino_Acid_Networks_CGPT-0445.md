@@ -1,5 +1,3 @@
-zettels-created: 5
-extraction-quality: GOLD
 ---
 uid: L-001-0046B
 type: lit-note
@@ -9,21 +7,23 @@ aliases:
   - Alpha-Keto-Acids
   - Amino-Acid-Networks
   - CGPT-0445-Amino-Networks
-authors: ChatGPT Analysis (CGPT-0445)
+authors: "ChatGPT synthesis (CGPT-0445)"
 year: 2024
-journal: ChatGPT Archive
+journal: "ChatGPT Archive"
 doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: High — α-keto acids, glutamate hub, glutamine-ammonia cycle, nitrogen metabolism
-status: active
+status: extracted
 parent-index: "[[01-Literature-Index]]"
 parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
-extraction-date: 2026-03-04
+extraction-date: "2026-03-04"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 5
 reference-count: 0
+extraction-quality: GOLD
+reviewed_by: RON
 tags:
   - lit-note
   - alpha-keto-acids
@@ -33,7 +33,6 @@ tags:
   - aspartate
   - networks
   - cgp
-extraction-quality: GOLD
 ---
 
 # Lit: α-Keto Acids and Amino Acid Networks
