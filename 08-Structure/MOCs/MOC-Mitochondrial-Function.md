@@ -137,3 +137,12 @@ This MOC covers:
 
 ---
 *MOC-Mitochondrial-Function | Created: 2026-04-02 | Status: Active*
+
+## 🔗 Related MOCs
+
+| MOC | Connection |
+|-----|------------|
+| [[MOC-Insulin-Signaling]] | Energy sensing |
+| [[MOC-Krebs-Cycle]] | Metabolic hub |
+| [[MOC-Metabolic-Syndrome]] | Dysfunction in disease |
+| [[MOC-Vitamin-Mineral-Axis]] | Coenzyme cofactors |

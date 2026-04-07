@@ -76,3 +76,12 @@ parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 
 ---
 parent-moc: [[MOCs-Index]]
+
+## 🔗 Related MOCs
+
+| MOC | Connection |
+|-----|------------|
+| [[MOC-Vitamin-D-Metabolism]] | Specific vitamin |
+| [[MOC-Vitamin-Mineral-Axis]] | Nutrient synergy |
+| [[MOC-Supplements]] | Practical application |
+| [[MOC-Nutrition]] | Dietary context |

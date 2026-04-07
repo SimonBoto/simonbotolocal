@@ -133,7 +133,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -290,8 +290,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "64120ee807f0bd00",
+  "active": "3defb34dd9bafdc5",
   "lastOpenFiles": [
+    "08-Structure/MOCs/MOC-Supplements.md",
     "08-Structure/MOCs/MOCs-Index.md",
     "00-INDEX.md",
     "00-MISSION.md",
@@ -317,7 +318,6 @@
     "03-Zettels/Biomarkers/Biomarkers-Index.md",
     "04-Synthesis/04-Synthesis-Index.md",
     "03-Zettels/03-Zettels-Index.md",
-    "02-References/02-References-Index.md",
     "Base.base",
     "Base File All Notes.base",
     "08-Structure/System/Vault_Inventory.base",
