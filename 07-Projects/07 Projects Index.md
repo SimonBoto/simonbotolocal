@@ -25,6 +25,8 @@ status: active
 | **📥 Extraction** | [[Extraction Index]] | 🟡 Active | P0 |
 | **🎯 Personal** | [[Personal Index]] | ⏸️ On hold | P2 |
 | **🛠️ Tools** | [[Tools Index]] | 🟡 In Progress | P1 |
+| **🤖 Agents** | [[Agents Index]] | 🟡 In Design | P1 |
+| **⚡ Extraction** | [[Extraction Index]] | 🟡 Active | P0 |
 
 ---
 
@@ -50,6 +52,17 @@ status: active
 - [[Tools Index]] — Tools and automation projects
 - [[ZettelForge_Concept_S-001-0001]] — Assisted extraction system (concept)
 - [[QMD_Activation_S-001-0002]] — Hybrid search for vault
+- [[QMD_Embedding_Project_S-001-0005]] — Complete QMD embeddings (🔴 Blocked)
+- [[OpenClaw_Model_Cleanup_S-001-0007]] — Model config cleanup (✅ Completed)
+
+### Agents
+- [[Agents Index]] — Multi-agent system projects
+- [[WORKER_Agent_Project_S-001-0004]] — WORKER agent setup (🟡 In Design)
+
+### Extraction
+- [[Extraction Index]] — Knowledge extraction programs
+- [[CGPT_Extraction_Program_S-001-0003]] — CGPT + Facebook extraction (180/857 sources)
+- [[CGPT_0264_Resumption_S-001-0006]] — Complete CGPT_0264 (🟡 Paused)
 
 ---
 
