@@ -14,8 +14,8 @@ pmcid: N/A
 tier: SILVER
 relevance: High — PhD adipic acid domain, ascorbate chemistry, oxalate conversion pathways
 status: active
-parent-moc: [[MOC-Vitamin-Metabolism]]
-parent-index: [[01-Literature-Index]]
+parent-moc: "[[MOC-Vitamin-Metabolism]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: 2026-04-07
 source-inbox: [[CGPT_0549_Chemical_Type_of_Ascorbate_CGPT-0549]]
 zettel-count: 3
