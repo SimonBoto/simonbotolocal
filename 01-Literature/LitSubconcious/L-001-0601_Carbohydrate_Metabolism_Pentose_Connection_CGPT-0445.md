@@ -17,7 +17,7 @@ relevance: High — Trioses, glycolysis, pentose phosphate pathway, glucose-ribo
 status: active
 parent-moc: "[[MOC-Glycolysis-PPP]]"
 extraction-date: 2026-03-08
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 5
 reference-count: 0
 tags:
@@ -33,7 +33,7 @@ tags:
 # Lit: ChatGPT 2024 — Carbohydrate Metabolism: The Pentose Connection
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **ChatGPT conversation:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Date:** March 25, 2024
 - **Messages:** 70
 - **Context:** Advanced biochemistry exploration (Ames/Pauling style)
@@ -83,7 +83,7 @@ Hexoses (6C): Glucose-6-P, Fructose-6-P, Glucose, Fructose
 | **Krebs** | Complete oxidation | Pyruvate (from glycolysis) feeds in |
 
 ## Source Reference
-- **Extracted from:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **Extracted from:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Anchor conversation:** CGPT-0445 (March 25, 2024)
 
 ## Connections

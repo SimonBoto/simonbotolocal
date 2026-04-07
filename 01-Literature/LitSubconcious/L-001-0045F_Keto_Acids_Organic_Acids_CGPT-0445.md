@@ -20,7 +20,7 @@ relevance: High — Keto acids vs carboxylic acids, pyruvate, propionate metabol
 status: active
 parent-moc: "[[MOC-Glycolysis-PPP]]"
 extraction-date: 2026-03-04
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 5
 reference-count: 0
 tags:
@@ -39,7 +39,7 @@ extraction-quality: GOLD
 # Lit: Keto Acids and Organic Acids
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **ChatGPT conversation:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Date:** March 25, 2024
 - **Messages:** 37-40
 - **Context:** Insulin/Metabolism domain
@@ -72,7 +72,7 @@ extraction-quality: GOLD
 **Zettel:** [[Aldehyde_vs_Ketone_Chemistry_Z-001-0480]]
 
 ## Source Reference
-- **Extracted from:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **Extracted from:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Anchor conversation:** CGPT-0445 (March 25, 2024)
 
 ## Connections

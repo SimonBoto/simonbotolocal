@@ -17,7 +17,7 @@ relevance: High — Aldoses/ketoses reference, amino acid classification, organi
 status: active
 parent-moc: "[[MOC-Metabolomics]]"
 extraction-date: 2026-03-08
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 3
 reference-count: 0
 tags:
@@ -33,7 +33,7 @@ tags:
 # Lit: ChatGPT 2024 — Comparative Biochemistry Reference Tables
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **ChatGPT conversation:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Date:** March 25, 2024
 - **Messages:** 70
 - **Context:** Advanced biochemistry exploration (Ames/Pauling style)
@@ -64,7 +64,7 @@ These reference tables provide:
 - Educational resource for training
 
 ## Source Reference
-- **Extracted from:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **Extracted from:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Anchor conversation:** CGPT-0445 (March 25, 2024)
 
 ## Connections

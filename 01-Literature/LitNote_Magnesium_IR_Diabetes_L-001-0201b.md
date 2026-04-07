@@ -13,13 +13,13 @@ parent-moc:
 parent-index:
   - - 01-Literature
 extraction-date: 2026-03-01
-source: "[[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
+source: "[[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
 ---
 
 # Lit: Magnesium — Role in Insulin Resistance and Type 2 Diabetes
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]
+- **ChatGPT conversation:** [[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]
 - **Date:** October 09, 2024
 - **Scope:** Chapter 5.2 — Magnesium's role in metabolic syndrome components, specifically insulin resistance and glucose metabolism
 

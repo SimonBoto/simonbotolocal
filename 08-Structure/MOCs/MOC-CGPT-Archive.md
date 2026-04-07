@@ -29,7 +29,7 @@ tags: [moc, chatgpt, archive, cgpt, extracted]
 ## Key Extracted Insights
 
 ### Research Hypotheses (62 total)
-See: [[Research_Agenda]]] — Prioritized hypotheses from 2 years of conversations
+See: [[Research_Agenda]] — Prioritized hypotheses from 2 years of conversations
 
 ### Methodology Evolution
 
@@ -52,9 +52,9 @@ See: [[Research_Agenda]]] — Prioritized hypotheses from 2 years of conversatio
 
 ## Connection to Vault
 
-- Up: [[MOCs-Index]]]
-- Research: [[PhD-Index]]], [[MOC-PhD-Research]]
-- Hypotheses: [[Research_Agenda]]]
+- Up: [[MOCs-Index]]
+- Research: [[PhD-Index]], [[MOC-PhD-Research]]
+- Hypotheses: [[Research_Agenda]]
 - Methodology: [[MOC-Research-Methods]]
 
 ---

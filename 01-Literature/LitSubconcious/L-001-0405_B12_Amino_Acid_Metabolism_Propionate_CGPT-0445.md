@@ -20,7 +20,7 @@ relevance: High — Propionate metabolism, methylmalonyl-CoA mutase, odd-chain f
 status: active
 parent-moc: "[[MOC-Methylation-One-Carbon]]"
 extraction-date: 2026-03-01
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 6
 reference-count: 0
 tags:
@@ -38,7 +38,7 @@ extraction-quality: GOLD
 # Lit: B12 in Amino Acid Metabolism — The Propionate Pathway
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **ChatGPT conversation:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Date:** November 2024
 - **Scope:** Propionate metabolism, methylmalonyl-CoA mutase, odd-chain fatty acid catabolism, Krebs cycle integration
 
@@ -75,7 +75,7 @@ extraction-quality: GOLD
 **Zettel:** [[Odd_Chain_Fatty_Acid_Oxidation_Z-001-0431]]
 
 ## Source Reference
-- **Extracted from:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **Extracted from:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Anchor conversation:** CGPT-0445 (November 2024)
 
 ## Connections

@@ -20,7 +20,7 @@ relevance: High — Mitochondrial energy production, exercise implications, clin
 status: active
 parent-moc: "[[MOC-Methylation-One-Carbon]]"
 extraction-date: 2026-03-01
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 6
 reference-count: 0
 tags:
@@ -39,7 +39,7 @@ extraction-quality: GOLD
 # Lit: Mitochondrial B12 Functions — Energy Metabolism and Exercise Performance
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **ChatGPT conversation:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Date:** November 2024
 - **Scope:** Mitochondrial B12 transport, energy metabolism, exercise performance, clinical assessment
 
@@ -76,7 +76,7 @@ extraction-quality: GOLD
 **Zettel:** [[B12_METHAP_Protocol_Integration_Z-001-0443]]
 
 ## Source Reference
-- **Extracted from:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **Extracted from:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Anchor conversation:** CGPT-0445 (November 2024)
 
 ## Connections

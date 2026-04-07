@@ -9,7 +9,7 @@ relevance: High — Mechanisms enabling safe high-dose vitamin D protocols
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
-source: "[[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
+source: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
 
 # Lit: Vitamin D Safety Mechanisms — Endogenous Production, Mg, and K2
 

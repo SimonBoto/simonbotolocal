@@ -4,7 +4,7 @@ type: index
 title: "Daily Index"
 date: 2026-04-02
 tags: [index, daily, logs]
-parent-moc: [[08-Structure-Index]]]
+parent-moc: [[08-Structure-Index]]
 ---
 
 # Daily Index

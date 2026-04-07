@@ -2,7 +2,7 @@ uid: L-001-0502
 type: lit-note
 title: "Statin Pharmacology and Clinical Evidence — Mechanisms, Major Trials, and Precision Use"
 aliases: ["L-001-0502", "Statin-Pharmacology", "Statin-Evidence"]
-source-inbox: "[[00-Inbox/Processed/CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]"
+source-inbox: "[[CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]"
 authors: "ChatGPT synthesis from CGPT-0337"
 year: "2024"
 journal: "ChatGPT Clinical Synthesis"
@@ -481,7 +481,7 @@ Reduced circulating LDL-C
 
 ## Connections
 - **MOC:** [[MOC-Cholesterol-Lipid]] — Thematic domain
-- **INBOX:** [[00-Inbox/Processed/CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]] — Source conversation
+- **INBOX:** [[CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]] — Source conversation
 - **Index:** [[01-Literature]] — Container
 
 ---

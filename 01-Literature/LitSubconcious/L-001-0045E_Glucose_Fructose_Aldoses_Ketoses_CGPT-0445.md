@@ -20,7 +20,7 @@ relevance: High — Aldose/ketose chemistry, metabolic differences, lipogenesis,
 status: active
 parent-moc: "[[MOC-Glycolysis-PPP]]"
 extraction-date: 2026-03-04
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 5
 reference-count: 0
 tags:
@@ -39,7 +39,7 @@ extraction-quality: GOLD
 # Lit: Glucose vs Fructose: Aldoses vs Ketoses
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **ChatGPT conversation:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Date:** March 25, 2024
 - **Messages:** 33-36, 41-44
 - **Context:** Insulin/Metabolism domain
@@ -72,7 +72,7 @@ extraction-quality: GOLD
 **Zettel:** [[Common_Ketoses_Roles_Z-001-0475]]
 
 ## Source Reference
-- **Extracted from:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **Extracted from:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Anchor conversation:** CGPT-0445 (March 25, 2024)
 
 ## Connections

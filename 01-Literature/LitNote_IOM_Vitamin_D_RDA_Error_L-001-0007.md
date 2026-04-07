@@ -13,7 +13,7 @@ parent-moc:
 parent-index:
   - - 01-Literature
 extraction-date: 2026-03-01
-source: "[[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
+source: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
 ---
 
 # Lit: IOM Vitamin D RDA Statistical Error — The Factor of 10 Mistake
@@ -21,7 +21,7 @@ source: "[[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-02
 ## Source
 - **Primary:** Institute of Medicine. (2010). Dietary Reference Intakes for Calcium and Vitamin D.
 - **Critique:** Veugelers, P.J., & Ekwaru, J.P. (2014). Statistical error. *Nutrients*.
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]] (lines 7-9)
+- **ChatGPT conversation:** [[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]] (lines 7-9)
 - **Scope:** Mathematical/statistical error in calculating RDA led to 10x underestimation
 
 ---

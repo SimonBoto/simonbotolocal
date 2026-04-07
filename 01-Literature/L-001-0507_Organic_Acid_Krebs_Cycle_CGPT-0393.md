@@ -15,7 +15,7 @@ aliases:
   - OAT
 domain: 001
 tags: [lit-note, organic-acid, krebs-cycle, mitochondrial-dysfunction, citrate, aconitate, 3-HMGA, CGPT-0393]
-source-inbox: "[[00-Inbox/Processed/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]"
+source-inbox: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]"
 status: extracted
 parent-moc: "[[MOC-Mitochondrial-Function]]"
 extraction-date: 2026-03-01

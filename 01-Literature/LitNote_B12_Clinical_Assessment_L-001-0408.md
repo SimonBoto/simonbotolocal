@@ -13,7 +13,7 @@ parent-moc:
 parent-index:
   - - 02-Literature
 extraction-date: 2026-03-01
-source: "[[00-Inbox/Processed/CGPT_0113_Optimal_Biochemical_Ranges_Assessment_CGPT-0113]]"
+source: "[[CGPT_0113_Optimal_Biochemical_Ranges_Assessment_CGPT-0113]]"
 ---
 
 # Lit: B12 Clinical Assessment and Reference Ranges

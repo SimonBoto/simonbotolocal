@@ -20,7 +20,7 @@ relevance: High — Complete methionine degradation, cysteine synthesis, glutath
 status: active
 parent-moc: "[[MOC-Methylation-One-Carbon]]"
 extraction-date: 2026-03-01
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 6
 reference-count: 0
 tags:
@@ -38,7 +38,7 @@ extraction-quality: GOLD
 # Lit: Methionine Catabolism and Transsulfuration Pathway
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **ChatGPT conversation:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Date:** November 2024
 - **Scope:** Complete methionine degradation, transsulfuration to cysteine, glutathione synthesis
 
@@ -75,7 +75,7 @@ extraction-quality: GOLD
 **Zettel:** [[Complete_Methionine_Oxidation_Energy_Z-001-0437]]
 
 ## Source Reference
-- **Extracted from:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **Extracted from:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Anchor conversation:** CGPT-0445 (November 2024)
 
 ## Connections

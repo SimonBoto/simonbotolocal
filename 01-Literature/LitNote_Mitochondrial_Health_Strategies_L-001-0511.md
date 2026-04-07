@@ -9,7 +9,7 @@ relevance: High — Clinical application of mitochondrial optimization through d
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
-source: "[[00-Inbox/Processed/CGPT_0378_Mitochondrial_Health_Strategies_CGPT-0378]]"
+source: "[[CGPT_0378_Mitochondrial_Health_Strategies_CGPT-0378]]"
 source-file-location: /03-Zettels/ChatGPT_Archive/metabolomics/CGPT_0378_Mitochondrial_Health_Strategies_CGPT-0378].md
 source-verified: 2026-03-01
 

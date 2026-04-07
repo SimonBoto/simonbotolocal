@@ -18,7 +18,7 @@ extraction-date: 2026-03-08
 zettels-created: 3
 reference-count: 0
 extraction-quality: BRONZE
-source-inbox: "[[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 ---
 
 # Lit: ChatGPT 2024 — High-Dose Vitamin C in Oncology

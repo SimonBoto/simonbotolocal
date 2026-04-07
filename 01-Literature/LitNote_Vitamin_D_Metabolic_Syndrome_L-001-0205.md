@@ -9,7 +9,7 @@ relevance: High — Core METHAP mechanism; high-dose VitD rationale for IR
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
-source: "[[00-Inbox/Processed/CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
+source: "[[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
 
 # Lit: Vitamin D — Role in Metabolic Syndrome
 

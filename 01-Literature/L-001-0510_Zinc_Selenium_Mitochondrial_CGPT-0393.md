@@ -19,7 +19,7 @@ extraction-date: 2026-03-01
 zettels-created: 4
 reference-count: 0
 extraction-quality: GOLD
-source-inbox: "[[00-Inbox/Processed/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]"
+source-inbox: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]"
 ---
 
 # Zinc and Selenium as Mitochondrial Cofactors

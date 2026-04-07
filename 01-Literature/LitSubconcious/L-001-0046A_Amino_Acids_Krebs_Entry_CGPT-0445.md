@@ -19,7 +19,7 @@ relevance: High — All 20 amino acids, Krebs entry points, enzymes, cofactors, 
 status: active
 parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
 extraction-date: 2026-03-04
-source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 7
 reference-count: 0
 tags:
@@ -39,7 +39,7 @@ extraction-quality: GOLD
 # Lit: Amino Acids Entering Krebs Cycle: The Complete Map
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **ChatGPT conversation:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Date:** March 25, 2024
 - **Messages:** 57-62
 - **Context:** Insulin/Metabolism domain
@@ -82,7 +82,7 @@ extraction-quality: GOLD
 **Zettel:** [[Glucogenic_vs_Ketogenic_Classification_Z-001-0499]]
 
 ## Source Reference
-- **Extracted from:** [[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
+- **Extracted from:** [[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]
 - **Anchor conversation:** CGPT-0445 (March 25, 2024)
 
 ## Connections

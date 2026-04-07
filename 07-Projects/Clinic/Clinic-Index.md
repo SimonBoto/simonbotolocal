@@ -5,7 +5,7 @@ title: "Clinic Index"
 date: 2026-04-02
 aliases: [CLINIC-INDEX, Clinic-Project]
 tags: [index, clinic, operations, training, metabolomics]
-parent-moc: [[07-Projects-Index]]]
+parent-moc: [[07-Projects-Index]]
 status: active
 ---
 

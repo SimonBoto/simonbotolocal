@@ -11,7 +11,7 @@ status: extracted
 parent-moc:
   - - MOC-Vitamin-D
 extraction-date: 2026-03-01
-source: "[[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
+source: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
 ---
 
 # Lit: Historical Vitamin D Toxicity Misconceptions — From Fortification Fear to Genetic Truth
@@ -19,7 +19,7 @@ source: "[[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-02
 ## Source
 - **Type:** ChatGPT conversation archive
 - **Date:** September 26, 2024
-- **Original:** [CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]]
+- **Original:** [CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]
 - **Scope:** Historical analysis of how vitamin D toxicity fears emerged, persisted, and were eventually corrected by genetic understanding
 
 ---

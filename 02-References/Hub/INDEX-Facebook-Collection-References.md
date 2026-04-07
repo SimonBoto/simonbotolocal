@@ -1,3 +1,4 @@
+<!-- PROCESSING QUEUE: These references are created as LitNotes are processed -->
 # Facebook Collection — Reference Index
 
 > **Source:** 123 Greek health articles

@@ -13,14 +13,14 @@ parent-moc:
 parent-index:
   - - 02-Literature
 extraction-date: 2026-03-06
-source: "[[00-Inbox/Processed/CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
+source: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
 domain: 1
 ---
 
 # Bone Remodeling Cycle Dynamics and Phase Regulation
 
 ## Source
-- **ChatGPT conversation:** [[00-Inbox/Processed/CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
+- **ChatGPT conversation:** [[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]
 - **Date:** March 07, 2025
 - **Scope:** Detailed medical review section on bone remodeling phases
 

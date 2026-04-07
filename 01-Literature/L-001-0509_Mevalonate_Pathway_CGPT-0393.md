@@ -19,7 +19,7 @@ extraction-date: 2026-03-01
 zettels-created: 5
 reference-count: 0
 extraction-quality: GOLD
-source-inbox: "[[00-Inbox/Processed/CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]"
+source-inbox: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]"
 ---
 
 # Mevalonate Pathway — From Acetyl-CoA to Cholesterol and Coenzyme Q10

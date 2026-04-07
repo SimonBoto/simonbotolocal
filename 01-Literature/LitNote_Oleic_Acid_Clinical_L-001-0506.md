@@ -9,7 +9,7 @@ relevance: Critical — Practical implementation of olive oil-based intervention
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
-source: "[[00-Inbox/Processed/CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]]"
+source: "[[CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]]"
 
 # Lit: Oleic Acid and Clinical Applications
 

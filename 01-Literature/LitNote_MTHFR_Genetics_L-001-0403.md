@@ -9,7 +9,7 @@ relevance: High — Genetic variation affecting methylation, folate requirements
 status: extracted
 parent-moc: 
 extraction-date: 2026-03-01
-source: "[[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+source: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 
 # Lit: MTHFR Genetics and Polymorphisms
 
