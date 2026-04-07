@@ -2,9 +2,11 @@
 uid: ROOT-INDEX
 type: index
 title: "Root Index"
-date: 2026-04-02
+date: 2026-04-07
 tags: [index, root, navigation]
 status: active
+parent-moc: [[00-MISSION]]
+parent-index: [[00-MISSION]]
 ---
 
 # Root Index
@@ -22,8 +24,8 @@ status: active
 | Folder | Index | Description |
 |--------|-------|-------------|
 | 00-Inbox | [[00-Inbox-Fleeting]] | Capture, fleeting notes |
-| 01-Literature | [[02-Literature]] | Processed sources |
-| 02-References | [[01-References]] | Scientific references |
+| 01-Literature | [[01-Literature]] | Processed sources |
+| 02-References | [[02-References]] | Scientific references |
 | 03-Zettels | [[03-Zettels]] | Atomic knowledge |
 | 04-Synthesis | [[04-Synthesis]] | Living documents |
 | 07-Projects | [[07 Projects Index]] | Active work |
@@ -38,9 +40,9 @@ status: active
 |-----------|-------|-------------|
 | Conscious | [[03-Zettels-Conscious]] | Working zettels |
 | Subconscious | [[03-Zettels-Subconscious]] | Permanent zettels |
-| RON | RON Genesis MOC | RON system notes |
-| Biomarkers | Biomarkers Index | Biomarker guides |
-| Supplements | Supplements Index | Supplement guides |
+| RON | [[RON Genesis MOC]] | RON system notes |
+| Biomarkers | [[Biomarkers Index]] | Biomarker guides |
+| Supplements | [[Supplements Index]] | Supplement guides |
 
 ---
 
@@ -52,7 +54,7 @@ status: active
 | Daily | [[Daily Index]] | Date-stamped logs |
 | MOCs | [[MOCs Index]] | Maps of Content |
 | Protocols | [[Protocols Index]] | Process documentation |
-| System | [[System Index]] | Root notes archive |
+| System | [[System Index]] | System infrastructure |
 | Templates | [[Templates Index]] | Note templates |
 
 ---
@@ -64,6 +66,9 @@ status: active
 | Clinic | [[Clinic Index]] | Clinic operations |
 | PhD | [[PhD Index]] | PhD project hub |
 | Personal | [[Personal Index]] | Personal projects |
+| Agents | [[Agents Index]] | Multi-agent system |
+| Extraction | [[Extraction Index]] | Knowledge extraction |
+| Tools | [[Tools Index]] | Tools and automation |
 
 ---
 
@@ -78,8 +83,16 @@ status: active
 **By Domain:**
 - Insulin: [[MOC-Insulin-Signaling]]
 - Metabolomics: [[MOC-Pharmacometabolomics]]
-- B12: MOC-B12-Methylation
+- B12: [[MOC-B12-Methylation]]
 
 ---
 
+## 🦞 System
+
+- [[00-MISSION]] — The North Star
+- [[PROJECT_CONTROL_BOARD]] — Active sprint tracking
+- [[08-Structure/System/CHECKLIST-PreFlight|Pre-Flight Checklist]] — Session start
+- [[08-Structure/System/EMERGENCY-Recovery|Emergency Recovery]] — When things break
+
+---
 *This index is the root of the tree — every note should be reachable from here.*
