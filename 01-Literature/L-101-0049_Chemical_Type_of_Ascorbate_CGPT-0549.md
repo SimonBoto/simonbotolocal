@@ -1,18 +1,31 @@
 ---
 uid: L-101-0049
 type: lit-note
-title: CGPT-0549 Chemical Type of Ascorbate and Oxalate Conversion
+title: "Chemical Type of Ascorbate and Oxalate Conversion Pathways"
+aliases:
+  - L-101-0049
+  - Ascorbate-Oxalate-CGPT-0549
 authors: ChatGPT / Simos X Dialog
 year: 2023
 journal: ChatGPT Archive
+doi: N/A
 pmid: N/A
-tier: GOLD
+pmcid: N/A
+tier: SILVER
 relevance: High — PhD adipic acid domain, ascorbate chemistry, oxalate conversion pathways
-status: conscious
+status: active
 parent-moc: [[MOC-Vitamin-Metabolism]]
-parent-index: [[01-Literature]]
+parent-index: [[01-Literature-Index]]
 extraction-date: 2026-04-07
-source: "[[CGPT_0549_Chemical_Type_of_Ascorbate_CGPT-0549]]"
+source-inbox: [[CGPT_0549_Chemical_Type_of_Ascorbate_CGPT-0549]]
+zettel-count: 3
+reference-count: 3
+tags:
+  - lit-note
+  - ascorbate
+  - oxalate
+  - vitamin-c
+  - cgp
 ---
 
 # Lit: Chemical Type of Ascorbate and Oxalate Conversion Pathways
@@ -81,7 +94,4 @@ source: "[[CGPT_0549_Chemical_Type_of_Ascorbate_CGPT-0549]]"
 - **Emphasized:** Step-by-step enzymatic conversion and clinical risk assessment
 
 ---
-*Draft created: 2026-04-07 | FORG draft | Domain: 101 (Adipic Acid)*
-
----
-parent-index: [[01-Literature]]
+*LitNote: FORG v1.0 | Reviewed: RON | Domain: 101 (Adipic Acid) | 2026-04-07*
