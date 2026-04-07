@@ -1,11 +1,13 @@
 ---
-uid: IDX-02
+uid: IDX-01-LIT
 folder: 01-Literature
 type: index
 title: "01-Literature — Source Processing"
-aliases: [Literature, LitNotes, Source Notes]
+aliases: [Literature, LitNotes, Source Notes, 01-Literature-Index]
 tags: [index, literature, litnotes, processing, navigation, folder]
 status: active
+parent-moc: [[00-INDEX]]
+parent-index: [[00-INDEX]]
 ---
 
 # 📝 01-Literature — Source Processing
@@ -116,4 +118,4 @@ title: Paper Title
 *LitNotes bridge sources and zettels. Don't skip this step.*
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[00-INDEX]]
