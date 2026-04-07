@@ -90,11 +90,11 @@ updated: 2026-04-06
 - Speed: 5-10 LitNotes/day
 - ETA: 135 days
 
-**Option B: ZettelForge** (proposed)
+**Option B: ZettelForge with FORG** (active)
 - Quality: Article 1-2 (with RON review)
 - Speed: 50-100 LitNotes/day
 - ETA: 7-14 days
-- Requires: WORKER model config
+- Status: FORG operational, local execution only
 
 ---
 
@@ -133,22 +133,24 @@ Assessment → Rename → YAML upgrade → Zettel refactor → Bidirectional lin
 
 ## Integration with ZettelForge
 
-**ZettelForge will accelerate Phase 3:**
-- Worker drafts LitNotes from CGPT conversations
+**ZettelForge accelerates Phase 3:**
+- FORG drafts LitNotes from CGPT conversations (local execution)
 - RON reviews and finalizes
 - Quality gates enforce Article 1-2 standard
 - Batch processing: 50 conversations at a time
+- **No subagents** — local FORG→RON handoff only
 
 **Connection:** [[ZettelForge_Concept_S-001-0001]]
+**FORG Workspace:** `~/.openclaw/workspace-forg/`
 
 ---
 
 ## Next Actions
 
 ### Immediate (This Week)
-- [ ] Resume CGPT_0264 (6 LitNotes)
-- [ ] Configure WORKER model
-- [ ] Test ZettelForge on 1 conversation
+- [ ] Resume CGPT_0264 (6 LitNotes — zettel extraction)
+- [x] ✅ FORG operational (tested on CGPT_0549)
+- [ ] Validate FORG→RON local workflow on 1 LitNote
 
 ### Short Term (Next 2 Weeks)
 - [ ] Complete CGPT_0264
