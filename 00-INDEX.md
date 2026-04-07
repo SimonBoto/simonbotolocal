@@ -7,7 +7,6 @@ aliases: [Root-Index, Master-Navigation]
 tags: [index, root, navigation]
 status: active
 parent-moc: [[00-MISSION]]
-parent-index: [[00-MISSION]]
 ---
 
 # Root Index
@@ -37,9 +36,9 @@ parent-index: [[00-MISSION]]
 
 | Subfolder | Index | Description |
 |-----------|-------|-------------|
-| Conscious | [[03-Zettels-Conscious]] | Working zettels |
-| Subconscious | [[03-Zettels-Subconscious]] | Permanent zettels |
-| RON | [[RON-Index]] | RON system notes |
+| Conscious | [[03-Zettels-Conscious-Index]] | Working zettels |
+| Subconscious | [[03-Zettels-Subconscious-Index]] | Permanent zettels |
+| RON | [[03-Zettels-RON-Index]] | RON system notes |
 | Biomarkers | [[Biomarkers-Index]] | Biomarker guides |
 | Supplements | [[Supplements-Index]] | Supplement guides |
 
@@ -91,8 +90,8 @@ parent-index: [[00-MISSION]]
 - [[00-MISSION]] — The North Star
 - [[PROJECT_CONTROL_BOARD]] — Active sprint tracking
 - [[System-Index]] — System infrastructure
-- [[CHECKLIST-PreFlight]] — Session start protocol
-- [[EMERGENCY-Recovery]] — When things break
+- [[08-Structure/System/CHECKLIST-PreFlight]] — Session start protocol
+- [[08-Structure/System/EMERGENCY-Recovery]] — When things break
 
 ---
 *This index is the root of the tree — every note reachable from here.*

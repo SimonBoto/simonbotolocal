@@ -107,10 +107,24 @@
             "id": "64120ee807f0bd00",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "00-MISSION.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "00-MISSION"
             }
           }
         ],
@@ -292,8 +306,11 @@
   },
   "active": "64120ee807f0bd00",
   "lastOpenFiles": [
-    "00-MISSION.md",
     "00-INDEX.md",
+    "03-Zettels/RON/03-Zettels-RON-Index.md",
+    "03-Zettels/03-Zettels-Subconscious-Index.md",
+    "00-MISSION.md",
+    "03-Zettels/03-Zettels-Conscious-Index.md",
     "08-Structure/08-Structure-Index.md",
     "07-Projects/07-Projects-Index.md",
     "08-Structure/MOCs/MOCs-Index.md",
@@ -315,9 +332,6 @@
     "04-Synthesis/04-Synthesis-Index.md",
     "03-Zettels/03-Zettels-Index.md",
     "02-References/02-References-Index.md",
-    "01-Literature/01-Literature-Index.md",
-    "08-Structure/Templates/Template_Index_v2.0.md",
-    "01-Literature/01-Literature.md",
     "Base.base",
     "Base File All Notes.base",
     "08-Structure/System/Vault_Inventory.base",

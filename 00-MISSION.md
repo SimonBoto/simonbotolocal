@@ -2,10 +2,10 @@
 uid: 20260220202900
 type: synthesis
 title: MISSION — The North Star
+date: 2026-04-07
+aliases: [Mission, North-Star, Charter]
 tags: [mission, charter, purpose, north-star, permanent]
 status: permanent
-parent-moc: [[00-INDEX]]
-parent-index: [[00-INDEX]]
 ---
 
 # 🎯 MISSION STATEMENT
