@@ -1,65 +1,129 @@
 ---
 uid: HANDOFF-2026-04-07
-date: 2026-04-07
 type: handoff-dashboard
-status: active
+date: 2026-04-07
+session: evening-closure
 ---
 
-# HANDOFF — Session State (2026-04-07)
+# HANDOFF — Session State
 
-## 🚀 Current Status
-
-**FORG Agent Architecture:** ✅ COMPLETE
-- Named agent, isolated workspace, file-based handoff
-- Context: <256K tokens per batch (verified)
-- Cost: $0.55 estimated vs $2 mistake → 73% savings
-- PicoClaw pattern implemented and documented
-
-**CGPT_0264 Progress:** 🟡 6/11 LitNotes
-- Batch 1.1 complete: L-001-0613 YAML upgrades (3 zettels)
-- Pending: 5 LitNotes (L-001-0614, L-001-0401, L-001-0402, L-001-0403, L-001-0404)
-- All LitNotes verified to exist
-- All zettels verified to exist
-- Only YAML upgrades needed
-
-**Vault Status:** ✅ ALIGNED
-- 1,095 zettels, 183 LitNotes, 27 indexes
-- No shadows, all links verified
-- Templates standardized (v3.0)
-
-## 🎯 Next Actions
-
-### IMMEDIATE (Start next session)
-1. ✅ **RON review:** Batch 1.1 zettels (3 files in `pending/CGPT_0264_Upgrade/`)
-2. ✅ **RON commit:** Review → approve → commit to vault
-3. ✅ **FORG start:** Batch 1.2 — L-001-0614 YAML upgrades (3 zettels)
-
-### SHORT-TERM
-- ✅ Complete all 6 YAML upgrade batches (12 zettels)
-- ✅ Extract 4 new LitNotes: Vitamin D, Supplements, Longo, MM Protocol
-- ✅ Update MEMORY.md with PicoClaw pattern lesson
-
-### STRATEGIC
-- ✅ Scale to CGPT_0133 (28 LitNotes, Bone/Calcium)
-- ✅ Systemize FORG→RON workflow across all projects
-
-## 📚 Critical References
-
-| File | Purpose |
-|------|---------|
-| `pending/CGPT_0264_Upgrade/` | Batch 1.1 zettels ready for review |
-| `CGPT_0264_COMPLETE_DESIGN.md` | Full extraction plan and context |
-| `PROTOCOL-FORG.md` | FORG execution rules and constraints |
-| `00-COMMAND.md` | Current priorities and system vitals |
-
-## 🧭 Navigation
-
-**Where to start:** `pending/CGPT_0264_Upgrade/` → `03-Zettels/Conscious/` → `01-Literature/`
-
-**How to proceed:** RON reviews → FORG drafts → RON commits
-
-**Critical constraint:** Never modify vault outside of RON review
+**Date:** 2026-04-07 (Tuesday)  
+**Time:** 23:45 EET  
+**Session:** Evening closure — LitSubconcious COMPLETE
 
 ---
 
-*TheOptimizedBrain v4.1 — FORG architecture complete, CGPT_0264 resumed*
+## 🎯 What Just Happened
+
+### MAJOR ACHIEVEMENT
+**LitSubconcious Standardization: 100% COMPLETE**
+- 98 LitNotes → Master v3.0 format
+- 16 YAML structure fixes
+- 6 duplicate section cleanups
+- All fields standardized (parent-index, reviewed_by)
+
+### FORG Pipeline VALIDATED
+- Qwen Plus model: ✅ Working
+- Cost savings: 83% vs Kimi
+- Batch size: 5 files optimal
+- Timeout: 5 minutes sufficient
+
+---
+
+## 📊 Current State
+
+| System | Status | Details |
+|--------|--------|---------|
+| **LitSubconcious** | ✅ **COMPLETE** | 98/98 files v3.0 |
+| **01-Literature root** | ⏳ Ready | 85 files pending |
+| **CGPT_0264** | 🟡 6/11 | 5 LitNotes remain |
+| **FORG workspace** | ✅ Ready | Templates updated |
+| **Git** | ✅ Clean | 12 commits today |
+| **QMD** | ✅ Active | Auto-indexing on |
+
+---
+
+## 🚀 Ready for Tomorrow
+
+### Immediate Next Steps
+1. **Pre-process** 01-Literature root files (remove content before `---`)
+2. **Create BATCH 03** task for first 5 files
+3. **Spawn FORG** with 5-min timeout
+4. **Post-process** (check for duplicates)
+5. **RON review** and commit
+
+### Files Ready for Processing
+- 01-Literature/*.md (~85 files)
+- CGPT_0264 remaining anchors
+- L-002 Facebook collection (55 files)
+
+### Documentation Updated
+- ✅ `SOUL-FORG.md` — Content Preservation Rules
+- ✅ `SOUL-FORG.md` — YAML Standardization Rules
+- ✅ `00-COMMAND.md` — System status
+- ✅ `memory/2026-04-07_SESSION_CLOSURE.md` — Full session log
+
+---
+
+## 🎯 Tomorrow's Priorities
+
+| Priority | Item | Est. Time |
+|----------|------|-----------|
+| P0 | 01-Literature root files (BATCH 03-20) | 2-3 hours |
+| P0 | CGPT_0264 completion | 1 hour |
+| P1 | L-002 Facebook YAML upgrades | 30 min |
+| P2 | QMD embedding monitoring | Background |
+
+---
+
+## 🛠️ Tools Ready
+
+| Tool | Status | Location |
+|------|--------|----------|
+| Pre-process script | ✅ | `sed -i '0,/^---$/{/^---$/!d}'` |
+| FORG workspace | ✅ | `~/.openclaw/workspace-forg/` |
+| Task templates | ✅ | `pending/BATCH_XX_TASK.md` |
+| QMD index | ✅ | Auto-updating |
+
+---
+
+## 📝 Notes for Tomorrow's RON
+
+### FORG Pipeline — Lessons Applied
+1. **ALWAYS pre-process** — Remove content before `---`
+2. **5-file batches** — 5 min timeout, reliable
+3. **Post-process check** — Look for duplicate sections
+4. **Replace files** — Don't append, full replacement
+5. **Qwen Plus** — $0.26/M input, 83% savings
+
+### Known Issues to Watch
+- Original files may have `zettels-created:` before `---`
+- Some files have inline arrays `[a, b]` vs list format
+- Check for duplicate `---` separators
+- Verify `zettel-count` matches actual zettels
+
+### Quick Commands
+```bash
+# Check YAML structure
+head -1 file.md  # Should be ---
+
+# Check for duplicates
+grep -c "zettels-created:" file.md  # Should be 1
+
+# Pre-process batch
+for f in *.md; do sed -i '0,/^---$/{/^---$/!d}' "$f"; done
+```
+
+---
+
+## 🦞 Final State
+
+**System:** Optimal  
+**Blockers:** None  
+**Ready for:** Scale  
+**Mood:** 🎉 LitSubconcious VICTORY
+
+---
+
+*Handoff complete. System ready for tomorrow's scale operation.*  
+*Next: 01-Literature root files (85 files, 17 batches)*

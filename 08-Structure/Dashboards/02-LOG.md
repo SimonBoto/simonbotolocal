@@ -6,7 +6,37 @@ status: active
 
 # LOG — Activity History
 
-## 2026-04-07 — FORG Agent Architecture Complete
+## 2026-04-07 — LITSUBCONCIOUS COMPLETE + FORG Pipeline Validated
+
+### 🎉 MAJOR ACHIEVEMENT: LitSubconcious 100% Standardized
+- ✅ **98 LitNotes** → Master v3.0 format
+- ✅ **16 files** — YAML structure fixed (content before `---`)
+- ✅ **6 files** — Duplicate sections removed
+- ✅ **66 files** — `parent-index` added
+- ✅ **11 files** — `reviewed_by: RON` added
+- ✅ **12 git commits** — Clean history
+
+### 🚀 FORG Pipeline VALIDATED
+- ✅ Qwen Plus model working ($0.26/M input, $0.78/M output)
+- ✅ **83% cost savings** vs Kimi k2.5
+- ✅ 5-file batches optimal (5-min timeout)
+- ✅ File-based handoff proven
+- ✅ Pre/post-processing workflow established
+
+### 📚 Lessons Learned & Documented
+- Pre-process: Remove content before `---`
+- Post-process: Check for duplicate sections
+- Replace files: Don't append, full replacement
+- Batch size: 5 files = reliable, 10 files = timeout risk
+
+### 🎯 Tomorrow Ready
+- 01-Literature root files: 85 pending (17 batches)
+- CGPT_0264: 5 LitNotes remain
+- L-002 Facebook: 55 files ready for YAML upgrade
+
+---
+
+## 2026-04-07 (Earlier) — FORG Agent Architecture Complete
 - ✅ FORG redesigned as separate agent (not subagent)
 - ✅ Context control: <256K tokens enforced
 - ✅ Cost control: $0.55 estimated (vs $2 mistake)

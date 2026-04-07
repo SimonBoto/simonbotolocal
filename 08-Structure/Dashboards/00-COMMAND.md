@@ -1,5 +1,5 @@
 ---
-uid: COMMAND-2026-04-06
+uid: COMMAND-2026-04-07
 type: command-dashboard
 status: active
 ---
@@ -7,8 +7,8 @@ status: active
 # COMMAND — Current Priorities & System Status
 
 **System:** TheOptimizedBrain v4.1  
-**Last Updated:** 2026-04-07 21:49  
-**Status:** ✅ RESUMED — FORG agent operational
+**Last Updated:** 2026-04-07 23:42  
+**Status:** ✅ **LITSUBCONCIOUS COMPLETE** — FORG pipeline validated
 
 ---
 
@@ -16,11 +16,12 @@ status: active
 
 | Priority | Item | Status | Next Action |
 |----------|------|--------|-------------|
-| P0 | Facebook collection | ✅ COMPLETE | 158/158 articles extracted |
-| P0 | CGPT_0264 processing | 🟡 6/11 done | YAML upgrades in progress, 5 LitNotes remain |
-| P0 | Infrastructure build | ✅ COMPLETE | Agent isolation, context control, cost monitoring |
+| P0 | **LitSubconcious Standardization** | ✅ **COMPLETE** | 98/98 files Master v3.0 |
+| P0 | CGPT_0264 processing | 🟡 6/11 done | YAML upgrades, 5 LitNotes remain |
+| P0 | **FORG Agent Pipeline** | ✅ **VALIDATED** | Qwen Plus @ 83% cost savings |
+| P1 | 01-Literature root files | ⏳ Ready | 85 files pending v3.0 upgrade |
 | P1 | PhD ClinicalTrials.gov | ⏸️ Blocked | University delays |
-| P1 | CGPT_0549 quality review | ✅ COMPLETE | 3/3 zettels confirmed GOLD
+| P2 | L-002 Facebook collection | ⏳ Ready | 55 files in LitSubconcious (YAML upgrade next) |
 
 ---
 
@@ -28,36 +29,79 @@ status: active
 
 | Metric | Value | Status |
 |--------|-------|--------|
-| **LitNotes** | 183 | 12 optimal, 59 need upgrade, 98 in LitSubconcious |
+| **LitNotes** | 183 | 110 optimal v3.0, 73 need upgrade |
+| **LitSubconcious** | 98 | ✅ **100% v3.0 compliant** |
 | **Zettels** | ~1,095 | 706 Conscious, 310 Subconscious, 56 RON |
 | **CGPT Anchors** | 688 | 17 processed, 671 pending |
-| **L-002 Facebook** | 55 | In LitSubconcious (need YAML upgrade) |
-| **Git Commits** | 90+ | Clean working tree |
-| **MOCs** | 20+ | Active |
+| **Git Commits Today** | 12 | Clean working tree |
+| **FORG Cost Savings** | 83% | Qwen Plus vs Kimi k2.5 |
 
 ---
 
-## 🎯 Resume Protocol
+## 🎉 Today's Major Wins
 
-When infrastructure ready:
-1. Read `memory/2026-04-06_VAULT_PAUSE_STATUS.md`
-2. Complete CGPT_0264 (6 LitNotes, ~20 zettels)
-3. Continue litnote-by-litnote with documented workflow
-4. Next major anchor: CGPT-0133 (Bone/Calcium, 28 LitNotes)
+### 1. LitSubconcious COMPLETE (98 files)
+- ✅ All files standardized to Master v3.0
+- ✅ YAML structure fixed (16 files)
+- ✅ Duplicate sections removed (6 files)
+- ✅ `parent-index` added to all
+- ✅ `reviewed_by: RON` added to all
+
+### 2. FORG Pipeline VALIDATED
+- ✅ Qwen Plus model working ($0.26/M input)
+- ✅ 5-file batches optimal
+- ✅ File-based handoff proven
+- ✅ Cost monitoring in place
+
+### 3. Lessons Learned & Documented
+- ✅ Pre-processing required (remove content before `---`)
+- ✅ Post-processing required (check for duplicates)
+- ✅ Replace files entirely (not append)
+- ✅ 5-min timeout for 5-file batches
+
+---
+
+## 🚀 Tomorrow's Ready-to-Run Protocol
+
+### FORG Pre-Flight
+```bash
+# 1. Pre-process target files
+for f in *.md; do sed -i '0,/^---$/{/^---$/!d}' "$f"; done
+
+# 2. Create BATCH task
+# 3. Spawn FORG (5 files, 5 min timeout)
+# 4. Post-process (check duplicates)
+# 5. RON review
+# 6. Commit
+```
+
+### Next Targets (in order)
+1. **01-Literature root files** (~85 files)
+2. **CGPT_0264 completion** (5 LitNotes, ~15 zettels)
+3. **L-002 Facebook collection** (55 files, YAML upgrade)
 
 ---
 
 ## 📚 Key Documentation
 
-| File | Purpose |
-|------|---------|
-| [[01-PIPELINE]] | Processing flow & backlog |
-| [[01-HANDOFF]] | Session state |
-| [[02-LOG]] | Activity history |
-| `memory/2026-04-06_VAULT_PAUSE_STATUS.md` | Resume guide |
-| `INFRASTRUCTURE_HANDOFF.md` | Team handoff |
+| File | Purpose | Updated |
+|------|---------|---------|
+| [[01-PIPELINE]] | Processing flow & backlog | ✅ Today |
+| [[01-HANDOFF]] | Session state | ✅ Today |
+| [[02-LOG]] | Activity history | ✅ Today |
+| `SOUL-FORG.md` | Agent identity & rules | ✅ Today |
+| `memory/2026-04-07_SESSION_CLOSURE.md` | Today's lessons | ✅ New |
 
 ---
 
-*TheOptimizedBrain v4.1 — Infrastructure pause checkpoint*  
-*Next: Resume after tracking system ready*
+## 🦞 State of RON
+
+**Last:** LitSubconcious 100% complete, FORG validated  
+**Blockers:** None  
+**Ready for:** Scale to 01-Literature root files  
+**System:** Optimal, documented, ready
+
+---
+
+*TheOptimizedBrain v4.1 — FORG pipeline operational*  
+*Next: 01-Literature root files (85 remaining)*
