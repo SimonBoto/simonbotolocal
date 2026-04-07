@@ -107,6 +107,30 @@
             "id": "64120ee807f0bd00",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-References/Hub/INDEX-Facebook-Collection-References.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "INDEX-Facebook-Collection-References"
+            }
+          },
+          {
+            "id": "24c22f83bdd3ec48",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -114,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -290,8 +314,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "24c22f83bdd3ec48",
   "lastOpenFiles": [
+    "02-References/Hub/INDEX-Facebook-Collection-References.md",
     "08-Structure/Daily/2026/2026-04-07.md",
     "08-Structure/MOCs/MOC-Supplements.md",
     "08-Structure/MOCs/MOCs-Index.md",
@@ -317,7 +342,6 @@
     "00-Inbox/00-Inbox-Index.md",
     "03-Zettels/Supplements/Supplements-Index.md",
     "03-Zettels/Biomarkers/Biomarkers-Index.md",
-    "04-Synthesis/04-Synthesis-Index.md",
     "Base.base",
     "Base File All Notes.base",
     "08-Structure/System/Vault_Inventory.base",
