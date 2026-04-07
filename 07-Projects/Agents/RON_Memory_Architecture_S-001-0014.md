@@ -16,6 +16,23 @@ parent-moc: [[MOC-RON-Development]]
 
 ---
 
+## Quick Reference
+
+| Source | Core Insight | Our Application |
+|--------|--------------|-----------------|
+| **Roemmele** | Memory forgetting: relevance scoring + intelligent pruning | Add relevance to MEMORY.md (future) |
+| **Karpathy** | LLM Knowledge Bases: raw→compiled flow, Obsidian IDE | FORG drafts → RON validates |
+
+**Cost Savings:** 95% FORG ($0.26/M) + 5% RON ($40/M) = **~98% reduction**
+
+**Status:** Research complete → Implementation pending
+
+---
+
+> **How Brian Roemmele and Andrej Karpathy organize agent memory without overload**
+
+---
+
 ## Key Insights from Research
 
 ### Brian Roemmele — "Memory Forgetting Strategy" (Apr 3, 2026)
