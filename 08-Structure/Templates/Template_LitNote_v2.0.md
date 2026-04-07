@@ -15,7 +15,7 @@ PRE-FLIGHT CHECKLIST:
 -->
 
 ---
-uid: "{{L-XXX-XXXX}}"
+uid: {{L-XXX-XXXX}}
 type: lit-note
 title: Lit — {{Source Title}}
 aliases:
@@ -114,7 +114,7 @@ tags:
 ### YAML for X Posts
 ```yaml
 ---
-uid: "L-001-0656"
+uid: L-001-0656
 type: lit-note
 title: Lit — KingOfVitamins_Pauling_Vitamin_C_2025
 source-inbox: "[[INBOX-2026-04-04-002_Pauling_Vitamin_C_Thread]]"

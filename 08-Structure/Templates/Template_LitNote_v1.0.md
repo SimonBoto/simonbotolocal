@@ -1,6 +1,6 @@
 ---
-uid: "{{YYYYMMDD}}{{HHMM}}"
-type: "lit-note"
+uid: {{YYYYMMDD}}{{HHMM}}
+type: lit-note
 title: Lit — {{Paper Title}}
 authors: "{{Author Names}}"
 year: "{{YYYY}}"
@@ -11,7 +11,7 @@ pmcid: "{{PMCID}}"
 tier: "{{1|2|3}}"
 tier-classification: "{{GOLD|SILVER|BRONZE}}"
 relevance: "{{High|Medium|Low}} — {{Why relevant}}"
-status: "{{stub|processing|extracted|complete}}"
+status: {{stub|processing|extracted|complete}}
 parent-moc: "[[MOC-Example]]"  # Link to thematic MOC
 fleeting-origin: ""  # Link to originating Fleeting note (if started there)
 extraction-date: "{{YYYY-MM-DD}}"

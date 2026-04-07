@@ -44,8 +44,14 @@ parent-index: [[08-Structure-Index]]
 
 ## 🔗 Key Files Created/Modified
 
-- `{{File path}}` — {{Description}}
-- `{{File path}}` — {{Description}}
+- [[{{Filename}}]] — {{Description}}
+- [[{{Filename}}]] — {{Description}}
+
+## Navigation
+- **Index:** [[Daily-Index]] — All daily notes
+- **Yesterday:** [[{{YYYY-MM-DD}}]] — Previous day
+- **Tomorrow:** [[{{YYYY-MM-DD}}]] — Next day
+- **Root:** [[00-INDEX]]
 
 ## 🎯 Tomorrow
 

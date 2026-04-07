@@ -1,5 +1,5 @@
 ---
-uid: "{{R-XXX-XXXX}}"
+uid: {{R-XXX-XXXX}}
 type: reference
 title: {{Full Title}}
 aliases: ["{{ShortSlug}}"]  # Never bare UID — creates shadow notes
@@ -14,7 +14,7 @@ tier-classification: "{{GOLD|SILVER|BRONZE}}"
 domain: "{{001|101}}"
 tags: ["reference", "{{topic}}"]
 parent-moc: "[[MOC-Research-Methods]]"
-status: "{{pending|extracted|complete}}"
+status: {{pending|extracted|complete}}
 extraction-date: "{{YYYY-MM-DD}}"
 quality-score: "{{high|medium|low}}"
 

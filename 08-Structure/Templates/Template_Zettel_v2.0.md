@@ -18,7 +18,7 @@ CRITICAL: NEVER create links to imaginary notes. Shadow notes pollute the vault.
 -->
 
 ---
-uid: "{{Z-XXX-XXXX}}"
+uid: {{Z-XXX-XXXX}}
 type: zettel
 title: {{Atomic Claim}}
 aliases: ["{{ShortSlug}}"]

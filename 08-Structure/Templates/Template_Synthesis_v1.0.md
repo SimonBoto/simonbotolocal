@@ -1,13 +1,13 @@
 ---
-uid: "{{S-XXX-XXXX}}"
-type: "synthesis"
+uid: {{S-XXX-XXXX}}
+type: synthesis
 title: {{Topic}} — Synthesis
 aliases: ["{{S-XXX-XXXX}}", "{{ShortSlug}}"]
 domain: "{{XXX}}"
 domain-name: "{{DomainName}}"
 tags: ["synthesis", "{{topic}}", "living-document"]
 parent-moc: "[[MOC-Example]]"  # Link to thematic MOC
-status: "{{evolving|draft|active|archived}}"
+status: {{evolving|draft|active|archived}}
 version: "{{1.0}}"
 created: "{{YYYY-MM-DD}}"
 last-updated: "{{YYYY-MM-DD}}"

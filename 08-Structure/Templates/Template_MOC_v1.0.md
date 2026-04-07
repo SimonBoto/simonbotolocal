@@ -1,13 +1,13 @@
 ---
-uid: "{{YYYYMMDDHHMMSS}}"
-type: "moc"
+uid: {{YYYYMMDDHHMMSS}}
+type: moc
 title: MOC — {{Topic Name}}
 aliases: ["MOC_{{ShortName}}", "{{ShortName}}_MOC"]
 domain: "{{001|101|system}}"
 description: "{{One-line description of what this MOC covers}}"
 tags: ["moc", "{{topic-tag}}", "{{status-tag}}"]
 parent-moc: "[[MOCs-Index]]"  # Link to MOC catalog
-status: "active"
+status: active
 created: "{{YYYY-MM-DD}}"
 last-updated: "{{YYYY-MM-DD}}"
 ---

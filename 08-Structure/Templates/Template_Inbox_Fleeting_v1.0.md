@@ -2,7 +2,7 @@
 type: fleeting
 captured: "{{YYYY-MM-DD HH:MM}}"
 source: "{{URL|book|conversation|thought|meeting}}"
-status: "unprocessed"
+status: unprocessed
 ---
 
 # {{One-line summary}}

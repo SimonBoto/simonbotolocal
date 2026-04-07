@@ -1,7 +1,7 @@
 ---
-uid: "{{SUPP-XXX-XXXX}}"
-type: "supplement"
-status: "{{active|discontinued|considering}}"
+uid: {{SUPP-XXX-XXXX}}
+type: supplement
+status: {{active|discontinued|considering}}
 tier: "{{GOLD|SILVER|BRONZE}}"
 name: "{{Product Name}}"
 brand: "{{Brand}}"
