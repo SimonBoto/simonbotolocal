@@ -11,47 +11,25 @@ status: active
 
 # 🎯 Personal Index
 
-> **Personal Projects — Beyond Medicine**  
+> **Personal Projects - Beyond Medicine**
 > Side business, skills, and life outside the clinic
 
 ---
 
-## 📁 ALL PERSONAL NOTES
+## 📁 ALL PERSONAL PROJECTS
 
-| Note | Purpose |
-|------|---------|
-| [[Personal Index]] | This index — Personal hub |
-
----
-
-## 🍯 Beeswax-Tallow Edible Cream
+| Project | Status | Priority | Notes |
+|---------|--------|----------|-------|
+| [[Guitar_Learning_S-001-0012]] | 🟢 Active | P2 | Practice when time allows |
+| [[Beeswax_Tallow_Business_S-001-0013]] | 🔬 Research | P2 | Side business concept |
 
 ---
 
-## 🍯 Beeswax-Tallow Edible Cream
+## Project Details
 
-**Status:** Research phase  
-**Goal:** Create edible skincare product line  
-**Next Steps:**
-- [ ] Research formulation
-- [ ] Source ingredients
-- [ ] Test batches
-- [ ] Regulatory check (cosmetics vs food)
-
-**Time Investment:** Low priority until PhD unblocked
-
----
-
-## 🎸 Guitar
-
-**Status:** Ongoing — last practice not tracked  
-**Goal:** Improve playing for enjoyment  
-**Next Steps:**
-- [ ] Resume regular practice
-- [ ] Track sessions
-- [ ] Learn specific songs/techniques
-
-**Time Investment:** Leisure activity, no pressure
+See individual project notes for full details:
+- [[Guitar_Learning_S-001-0012]] — Skill development, stress relief
+- [[Beeswax_Tallow_Business_S-001-0013]] — Side business research
 
 ---
 
@@ -81,6 +59,6 @@ All personal projects deprioritized until:
 
 ---
 
-*Personal Projects — The life that fuels the work.*
+*Personal Projects - The life that fuels the work.*
 
-🦞 **RON — tracking the dreams that wait their turn**
+🦞 **RON - tracking the dreams that wait their turn**
