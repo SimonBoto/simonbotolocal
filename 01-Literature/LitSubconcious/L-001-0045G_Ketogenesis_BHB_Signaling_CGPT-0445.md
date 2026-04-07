@@ -1,5 +1,3 @@
-zettels-created: 7
-extraction-quality: GOLD
 ---
 uid: L-001-0045G
 type: lit-note
@@ -19,10 +17,12 @@ tier: SILVER
 relevance: High — Ketogenesis pathway, BHB structure, HDAC inhibition, NLRP3 inflammasome, insulin resistance
 status: active
 parent-moc: "[[MOC-Ketogenesis]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: 2026-03-04
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 7
 reference-count: 0
+extraction-quality: GOLD
 tags:
   - lit-note
   - ketogenesis
@@ -33,8 +33,6 @@ tags:
   - nlrp3
   - insulin-resistance
   - cgp
-zettels-created: 7
-extraction-quality: GOLD
 ---
 
 # Lit: Ketogenesis and BHB: Energy and Signaling
@@ -105,7 +103,4 @@ extraction-quality: GOLD
 - [x] YAML standardized
 - [x] Connections verified
 
-zettels-created: 7
-extraction-quality: GOLD
----
 *Processed: 2026-04-06 | Zettels: 7 | Status: COMPLETE*

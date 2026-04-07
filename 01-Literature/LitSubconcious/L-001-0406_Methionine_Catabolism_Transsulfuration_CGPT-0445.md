@@ -18,6 +18,7 @@ pmcid: N/A
 tier: GOLD
 relevance: High — Complete methionine degradation, cysteine synthesis, glutathione production
 status: active
+parent-index: "[[01-Literature-Index]]"
 parent-moc: "[[MOC-Methylation-One-Carbon]]"
 extraction-date: 2026-03-01
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
@@ -31,7 +32,6 @@ tags:
   - glutathione
   - b6
   - cgp
-zettels-created: 6
 extraction-quality: GOLD
 ---
 

@@ -18,6 +18,7 @@ pmcid: N/A
 tier: SILVER
 relevance: High — Mitochondrial energy production, exercise implications, clinical B12 assessment
 status: active
+parent-index: "[[01-Literature-Index]]"
 parent-moc: "[[MOC-Methylation-One-Carbon]]"
 extraction-date: 2026-03-01
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
@@ -32,7 +33,6 @@ tags:
   - mma
   - adenosylcobalamin
   - cgp
-zettels-created: 6
 extraction-quality: GOLD
 ---
 

@@ -17,6 +17,7 @@ pmcid: N/A
 tier: SILVER
 relevance: High — All 20 amino acids, Krebs entry points, enzymes, cofactors, glucogenic vs ketogenic
 status: active
+parent-index: "[[01-Literature-Index]]"
 parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
 extraction-date: 2026-03-04
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
@@ -32,7 +33,6 @@ tags:
   - glucogenic
   - ketogenic
   - cgp
-zettels-created: 7
 extraction-quality: GOLD
 ---
 

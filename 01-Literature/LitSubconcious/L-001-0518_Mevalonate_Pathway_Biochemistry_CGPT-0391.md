@@ -12,16 +12,30 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: High — Core cholesterol synthesis pathway, statin mechanism, CoQ10 production
-aliases: [L-001-0518, HMG-CoA Reductase, Mevalonate Pathway, Cholesterol Synthesis, Statin Target]
-domain: 001
-tags: [lit-note, mevalonate-pathway, cholesterol, hmg-coa-reductase, statins, coq10, isoprenoids, biochemistry, cGPT-0391]
-source-inbox: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"
+aliases:
+  - L-001-0518
+  - HMG-CoA Reductase
+  - Mevalonate Pathway
+  - Cholesterol Synthesis
+  - Statin Target
 status: extracted
+parent-index: "[[01-Literature-Index]]"
 parent-moc: "[[MOC-Lipid-Metabolism]]"
 extraction-date: "2026-03-03"
 zettel-count: 3
 reference-count: 0
-zettels-created: 3
+domain: 001
+tags:
+  - lit-note
+  - mevalonate-pathway
+  - cholesterol
+  - hmg-coa-reductase
+  - statins
+  - coq10
+  - isoprenoids
+  - biochemistry
+  - cGPT-0391
+source-inbox: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"
 extraction-quality: GOLD
 ---
 

@@ -1,5 +1,3 @@
-zettels-created: 7
-extraction-quality: GOLD
 ---
 uid: L-001-0045C
 type: lit-note
@@ -18,10 +16,12 @@ tier: SILVER
 relevance: High — Ribose structure, PPP, NADPH production, metabolic integration, G6PD deficiency
 status: active
 parent-moc: "[[MOC-Glycolysis-PPP]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: 2026-03-04
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 6
 reference-count: 0
+extraction-quality: GOLD
 tags:
   - lit-note
   - ribose
@@ -31,8 +31,6 @@ tags:
   - glycolysis
   - g6pd
   - cgp
-zettels-created: 7
-extraction-quality: GOLD
 ---
 
 # Lit: Ribose Biosynthesis: Pentose Phosphate Pathway
@@ -97,7 +95,4 @@ extraction-quality: GOLD
 - [x] YAML standardized
 - [x] Connections verified
 
-zettels-created: 7
-extraction-quality: GOLD
----
 *Processed: 2026-04-06 | Zettels: 6 | Status: COMPLETE*

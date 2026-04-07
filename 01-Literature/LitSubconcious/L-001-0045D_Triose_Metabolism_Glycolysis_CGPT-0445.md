@@ -1,5 +1,3 @@
-zettels-created: 5
-extraction-quality: GOLD
 ---
 uid: L-001-0045D
 type: lit-note
@@ -18,10 +16,12 @@ tier: SILVER
 relevance: High — Trioses, glycolytic steps, evolutionary ancient pathway, pyruvate crossroads
 status: active
 parent-moc: "[[MOC-Glycolysis-PPP]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: 2026-03-04
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 5
 reference-count: 0
+extraction-quality: GOLD
 tags:
   - lit-note
   - glycolysis
@@ -31,8 +31,6 @@ tags:
   - pyruvate
   - evolution
   - cgp
-zettels-created: 5
-extraction-quality: GOLD
 ---
 
 # Lit: Triose Metabolism and Glycolysis
@@ -91,7 +89,4 @@ extraction-quality: GOLD
 - [x] YAML standardized
 - [x] Connections verified
 
-zettels-created: 5
-extraction-quality: GOLD
----
 *Processed: 2026-04-06 | Zettels: 5 | Status: COMPLETE*
