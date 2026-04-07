@@ -20,7 +20,7 @@ parent-index: [[08-Structure-Index]]
 |------|---------|---------------|
 | [[00-COMMAND]] | Priorities & system vitals | Daily |
 | [[01-PIPELINE]] | Processing flow & backlog | Daily |
-| [[02-HANDOFF]] | Session state | Per session |
+| [[01-HANDOFF]] | Session state | Per session |
 | [[02-LOG]] | Activity history | As needed |
 
 ---
@@ -28,7 +28,7 @@ parent-index: [[08-Structure-Index]]
 ## Quick Navigation
 
 **Starting work?** → Read [[00-COMMAND]] then [[01-PIPELINE]]  
-**Ending session?** → Update [[02-HANDOFF]]  
+**Ending session?** → Update [[01-HANDOFF]]  
 **What happened?** → Check [[02-LOG]]
 
 ---

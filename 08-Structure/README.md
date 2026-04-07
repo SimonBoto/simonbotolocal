@@ -37,7 +37,7 @@ updated: 2026-04-06
 
 **New to the vault?** Start here:
 1. Read [[00-COMMAND]] — Current priorities
-2. Check [[02-HANDOFF]] — What we were doing
+2. Check [[01-HANDOFF]] — What we were doing
 3. Review [[01-PIPELINE]] — Processing backlog
 
 **Starting work?**

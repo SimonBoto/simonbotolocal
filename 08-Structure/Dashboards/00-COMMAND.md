@@ -51,7 +51,7 @@ When infrastructure ready:
 | File | Purpose |
 |------|---------|
 | [[01-PIPELINE]] | Processing flow & backlog |
-| [[02-HANDOFF]] | Session state |
+| [[01-HANDOFF]] | Session state |
 | [[02-LOG]] | Activity history |
 | `memory/2026-04-06_VAULT_PAUSE_STATUS.md` | Resume guide |
 | `INFRASTRUCTURE_HANDOFF.md` | Team handoff |
