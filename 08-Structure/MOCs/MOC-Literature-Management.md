@@ -24,8 +24,8 @@ confidence: high
 
 | MOC | Connection |
 |-----|------------|
-| [[MOC-Example]] | {{Why related}} |
-| [[MOC-Example]] | {{Why related}} |
+| MOC-Example | {{Why related}} |
+| MOC-Example | {{Why related}} |
 
 
 ---

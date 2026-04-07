@@ -132,8 +132,8 @@ created: 2026-04-01
 
 | MOC | Connection |
 |-----|------------|
-| [[MOC-Example]] | {{Why related}} |
-| [[MOC-Example]] | {{Why related}} |
+| MOC-Example | {{Why related}} |
+| MOC-Example | {{Why related}} |
 
 
 ---

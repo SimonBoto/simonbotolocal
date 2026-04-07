@@ -117,8 +117,8 @@ vit_d_baseline_ng_ml, vit_d_3mo_ng_ml, vit_d_6mo_ng_ml, vit_d_dose_iu_daily
 
 | MOC | Connection |
 |-----|------------|
-| [[MOC-Example]] | {{Why related}} |
-| [[MOC-Example]] | {{Why related}} |
+| MOC-Example | {{Why related}} |
+| MOC-Example | {{Why related}} |
 
 
 ---

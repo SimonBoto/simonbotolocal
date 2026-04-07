@@ -132,8 +132,8 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 
 | MOC | Connection |
 |-----|------------|
-| [[MOC-Example]] | {{Why related}} |
-| [[MOC-Example]] | {{Why related}} |
+| MOC-Example | {{Why related}} |
+| MOC-Example | {{Why related}} |
 
 
 ---

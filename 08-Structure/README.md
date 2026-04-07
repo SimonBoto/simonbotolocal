@@ -67,7 +67,7 @@ title: "Full Title"
 domain: XXX
 domain-name: "Human Readable"
 tags: [tag1, tag2]
-parent-moc: [[MOC-Name]]
+parent-moc: MOC-Name
 parent-index: [[Index Name]]
 status: active
 ---
