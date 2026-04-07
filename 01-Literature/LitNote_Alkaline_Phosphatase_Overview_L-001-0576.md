@@ -9,7 +9,7 @@ tier: SILVER
 relevance: Clinical chemistry fundamentals, bone and liver pathology
 status: extracted
 parent-moc: [[MOC-Biomarkers]]
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-07
 source: "[[CGPT_0345_Alkaline_Phosphatase_Overview_CGPT-0345]]"
 domain: 001
@@ -225,5 +225,5 @@ Alkaline phosphatase (ALP) is a family of isoenzymes with tissue-specific distri
 
 ---
 
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]
 ---

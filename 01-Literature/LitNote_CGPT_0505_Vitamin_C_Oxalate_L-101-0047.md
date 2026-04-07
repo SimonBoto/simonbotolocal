@@ -10,7 +10,7 @@ tier: SILVER
 relevance: High — Ascorbate metabolism, oxalate measurement confounders, PhD analytical considerations
 status: extracted
 parent-moc: [[MOC-Kidney-Metabolism]]
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
 source: "[[CGPT_0505_Vitamin_C_to_Oxalate_CGPT-0505]]"
 ---
@@ -123,4 +123,4 @@ C₆H₆O₆ → C₂H₂O₄ + 4C (lost as CO₂/other)
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]

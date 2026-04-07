@@ -10,7 +10,7 @@ tier: SILVER
 relevance: High — Clinical trial registration, NIH compliance, trial transparency requirements
 status: extracted
 parent-moc: [[MOC-PhD-Research]]
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
 source: "[[CGPT_0102_Clinical_Trials_Gov_Protocol_CGPT-0102]]"
 ---
@@ -196,4 +196,4 @@ Create complete ClinicalTrials.gov registration documents for the METHAP PhD tri
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]

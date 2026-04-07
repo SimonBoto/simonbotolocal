@@ -117,4 +117,4 @@ Move beyond single markers to comprehensive metabolic profiling for personalized
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]

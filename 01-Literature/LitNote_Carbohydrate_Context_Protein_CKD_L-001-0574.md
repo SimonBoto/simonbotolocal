@@ -9,7 +9,7 @@ tier: GOLD
 relevance: Critical insight — metabolic context determines protein effects
 status: extracted
 parent-moc: [[MOC-Kidney-Metabolism]]
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-07
 source: "[[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]"
 domain: 001
@@ -270,4 +270,4 @@ High protein in context of:
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]

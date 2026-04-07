@@ -10,7 +10,7 @@ tier: BRONZE
 relevance: Moderate — Practical IRB communication guidance
 status: extracted
 parent-moc: [[MOC-Research-Ethics]]
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
 source: "[[CGPT_0205_Ethics_Committee_Follow_Up_CGPT-0205]]"
 ---
@@ -91,4 +91,4 @@ PhD candidate experiencing 6-month delay in ethics committee response; seeking g
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]

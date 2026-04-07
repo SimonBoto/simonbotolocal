@@ -91,4 +91,4 @@ source: "[[00-Inbox/Processed/CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-02
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]

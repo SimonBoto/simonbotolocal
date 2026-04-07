@@ -10,7 +10,7 @@ tier: SILVER
 relevance: High — mTOR mechanisms, mitochondrial dysfunction, insulin resistance pathways
 status: extracted
 parent-moc: [[MOC-Mitochondrial-Function]]
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
 source: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]"
 ---
@@ -163,4 +163,4 @@ Sirolimus → mTORC2 inhibition → ↓ Akt phosphorylation → Insulin resistan
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]

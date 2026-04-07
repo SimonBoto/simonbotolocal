@@ -97,4 +97,4 @@ If NKUA ethics committee delays:
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]

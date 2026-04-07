@@ -8,7 +8,7 @@ relevance: High — Core biochemistry for PhD, amino acid catabolism, energy met
 status: extracted
 tier: SILVER
 parent-moc: [[MOC-Amino-Acid-Metabolism]]
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-04
 source: "[[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]"
 ---

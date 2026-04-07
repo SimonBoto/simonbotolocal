@@ -208,4 +208,4 @@ High Serum Ca²⁺ → ↓ PTH
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]

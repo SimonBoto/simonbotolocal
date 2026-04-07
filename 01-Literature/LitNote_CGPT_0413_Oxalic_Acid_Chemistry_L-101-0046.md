@@ -10,7 +10,7 @@ tier: SILVER
 relevance: High — PhD adipic acid domain, oxalate metabolism pathways, biomarker chemistry
 status: extracted
 parent-moc: [[MOC-Kidney-Metabolism]]
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
 source: "[[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]"
 ---
@@ -106,4 +106,4 @@ source: "[[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]"
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]

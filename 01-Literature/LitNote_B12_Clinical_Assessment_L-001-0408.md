@@ -236,4 +236,4 @@ source: "[[00-Inbox/Processed/CGPT_0113_Optimal_Biochemical_Ranges_Assessment_CG
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]

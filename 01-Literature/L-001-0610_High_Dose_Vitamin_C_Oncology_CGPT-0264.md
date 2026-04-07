@@ -90,4 +90,4 @@ source-inbox: "[[00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-026
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]

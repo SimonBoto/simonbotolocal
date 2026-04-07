@@ -130,4 +130,4 @@ source: "[[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]"
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]

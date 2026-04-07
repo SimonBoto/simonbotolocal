@@ -439,4 +439,4 @@ source: "[[00-Inbox/Processed/CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]

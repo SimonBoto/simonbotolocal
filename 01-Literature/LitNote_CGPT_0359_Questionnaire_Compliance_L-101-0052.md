@@ -10,7 +10,7 @@ tier: BRONZE
 relevance: Moderate — Practical strategies for questionnaire ethics approval
 status: extracted
 parent-moc: [[MOC-PhD-Research]]
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
 source: "[[CGPT_0359_Compliance_and_Approval_Process_CGPT-0359]]"
 ---
@@ -155,4 +155,4 @@ Seeking ethics approval for multiple questionnaires (SF-36, FFQ, Numex, 24-hour 
 ---
 
 ---
-parent-index: [[02-Literature]]
+parent-index: [[01-Literature]]
