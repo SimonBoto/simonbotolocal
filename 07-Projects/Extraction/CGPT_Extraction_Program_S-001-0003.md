@@ -134,11 +134,16 @@ Assessment → Rename → YAML upgrade → Zettel refactor → Bidirectional lin
 ## Integration with ZettelForge
 
 **ZettelForge accelerates Phase 3:**
-- FORG drafts LitNotes from CGPT conversations (local execution)
+- FORG (separate agent) drafts LitNotes from CGPT conversations
 - RON reviews and finalizes
 - Quality gates enforce Article 1-2 standard
 - Batch processing: 50 conversations at a time
-- **No subagents** — local FORG→RON handoff only
+- **Agent isolation** — FORG and RON are separate agents
+
+**Architecture:**
+- FORG: `~/.openclaw/workspace-forg/` — Qwen Plus, drafts only
+- RON: `~/.openclaw/workspace/` — Kimi k2.5, finalizes only
+- Handoff: Files in `workspace-forg/pending/`
 
 **Connection:** [[ZettelForge_Concept_S-001-0001]]
 **FORG Workspace:** `~/.openclaw/workspace-forg/`

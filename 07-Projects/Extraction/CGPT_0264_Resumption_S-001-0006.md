@@ -63,22 +63,30 @@ All extractions must meet **Article 1-2 Standard**:
 3. [ ] Complete remaining 6 LitNotes (zettel extraction)
 4. [ ] Quality review and commit
 
-## FORG→RON Workflow
+## FORG→RON Workflow (Separate Agents)
 
-### FORG (Local Execution)
+### FORG (Independent Agent)
 1. Read existing LitNote (L-001-0613, L-001-0614, etc.)
 2. QMD search for existing zettels
 3. Draft missing zettels to `workspace-forg/pending/`
-4. Report: files created, QMD results, questions
+4. Report to RON: files created, QMD results, questions, cost
+5. **Wait for RON review** — never modify vault directly
 
 ### RON (Review & Commit)
-1. Read FORG drafts from `pending/`
+1. Read FORG drafts from `workspace-forg/pending/`
 2. Validate YAML, links, content
 3. Move to vault: `03-Zettels/Conscious/`
 4. Update LitNote with zettel links
 5. Git commit
 
-**Critical:** No subagents. Local execution only. Human-in-the-loop.
+**Critical Design:**
+- ✅ FORG is **separate agent**, not subagent
+- ✅ Isolated workspaces (`workspace/` vs `workspace-forg/`)
+- ✅ File-based handoff (no shared context)
+- ✅ Human-in-the-loop (RON finalizes)
+- ✅ No vault modification by FORG
+
+**Agent Isolation:** Roemmele/Karpathy pattern — prevents context pollution, ensures auditability.
 
 ## Related
 - [[CGPT_Extraction_Program_S-001-0003]]
