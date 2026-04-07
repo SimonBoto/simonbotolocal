@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Literature/LitSubconcious/L-001-0631_Aconitase_Iron_Metabolism_IRP1_CGPT-0586.md",
+                "file": "01-Literature/L-101-0049_Chemical_Type_of_Ascorbate_CGPT-0549.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -134,7 +134,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "L-001-0631_Aconitase_Iron_Metabolism_IRP1_CGPT-0586"
+              "title": "L-101-0049_Chemical_Type_of_Ascorbate_CGPT-0549"
             }
           }
         ],
@@ -316,8 +316,9 @@
   },
   "active": "24c22f83bdd3ec48",
   "lastOpenFiles": [
-    "01-Literature/LitSubconcious/L-001-0592_Fatty_Acid_Metabolism_Lipid_Signaling_CGPT-0022.md",
+    "08-Structure/Templates/Template_LitNote_Master_v3.0.md",
     "01-Literature/LitSubconcious/L-001-0631_Aconitase_Iron_Metabolism_IRP1_CGPT-0586.md",
+    "01-Literature/LitSubconcious/L-001-0592_Fatty_Acid_Metabolism_Lipid_Signaling_CGPT-0022.md",
     "01-Literature/LitSubconcious/L-002-0244_Animal_Saturated_Fat_Not_Mortality.md",
     "01-Literature/L-101-0049_Chemical_Type_of_Ascorbate_CGPT-0549.md",
     "01-Literature/CGPT_0549_Chemical_Type_of_Ascorbate_L-101-0049.md",
@@ -341,7 +342,6 @@
     "07-Projects/07-Projects-Index.md",
     "08-Structure/Daily/Daily-Index.md",
     "07-Projects/Extraction/Extraction-Index.md",
-    "07-Projects/Agents/Agents-Index.md",
     "Base.base",
     "Base File All Notes.base",
     "08-Structure/System/Vault_Inventory.base",
