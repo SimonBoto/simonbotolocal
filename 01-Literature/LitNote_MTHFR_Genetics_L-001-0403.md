@@ -1,220 +1,248 @@
+---
 uid: L-001-0403
-type: litnote
-title: "Lit — MTHFR Genetics and Polymorphisms (C677T, A1298C, Clinical Implications)"
-authors: ChatGPT synthesis from Warburg Effect conversation (CGPT-0264)
+type: lit-note
+title: "Lit — MTHFR Genetics and Polymorphisms"
+aliases:
+  - L-001-0403
+  - MTHFR-Genetics-LitNote
+authors: "ChatGPT synthesis (CGPT-0264)"
 year: 2024
-journal: Internal clinical synthesis
+journal: "ChatGPT Archive — Internal clinical synthesis"
+doi: N/A
+pmid: N/A
+pmcid: N/A
 tier: SILVER
 relevance: High — Genetic variation affecting methylation, folate requirements, METHAP personalization
 status: extracted
-parent-moc: 
-extraction-date: 2026-03-01
-source: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+parent-moc: "[[MOC-Methylation-One-Carbon]]"
+parent-index: "[[01-Literature-Index]]"
+extraction-date: "2026-03-01"
+source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+zettel-count: 6
+reference-count: 0
+extraction-quality: SILVER
+tags:
+  - lit-note
+  - mthfr
+  - genetics
+  - methylation
+  - folate
+  - cgp
+---
 
-# Lit: MTHFR Genetics and Polymorphisms
+# MTHFR Genetics and Polymorphisms
 
-## Source
-- **ChatGPT conversation:** 00-Inbox/Processed/CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]
-- **Date:** October 27, 2024
-- **Scope:** MTHFR gene function, C677T and A1298C polymorphisms, clinical implications
+> **Source:** ChatGPT conversation CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264 (October 27, 2024)  
+> **Core Claim:** MTHFR gene polymorphisms (C677T and A1298C) reduce enzyme activity, increase folate requirements, and require personalized methylation support using 5-MTHF rather than folic acid.
 
+---
 
 ## Core Concepts Extracted
 
 ### 1. MTHFR Enzyme Function
-> "MTHFR (methylenetetrahydrofolate reductase) converts 5,10-methylenetetrahydrofolate to 5-methyltetrahydrofolate (5-MTHF), the active form of folate used for homocysteine remethylation."
 
-**Reaction:**
+**Category:** Enzyme
+
+**Key Process:**
 ```
 5,10-Methylene-THF + NADPH → 5-MTHF + NADP+
 ```
 
-**Function:**
-- Rate-limiting step in folate metabolism
-- Produces 5-MTHF (active folate)
-- 5-MTHF donates methyl group to B12
-- B12 transfers methyl to homocysteine → methionine
+**Mechanism/Steps:**
+1. MTHFR (methylenetetrahydrofolate reductase) converts 5,10-methylenetetrahydrofolate to 5-methyltetrahydrofolate (5-MTHF), the active form of folate used for homocysteine remethylation.
+2. Rate-limiting step in folate metabolism.
+3. Produces 5-MTHF (active folate) which donates methyl group to B12.
+4. B12 transfers methyl to homocysteine → methionine.
 
-**Location:**
-- Cytosol
-- All tissues
-- High activity in liver
+**Purpose/Significance:** This enzymatic step is critical for normal methylation cycles, homocysteine regulation, and DNA synthesis/repair. Impairment leads to elevated homocysteine and reduced methylation capacity.
 
-**Regulation:**
-- Allosterically inhibited by SAM (end product inhibition)
-- Activated by phosphorylation
-- Substrate availability dependent
+**Zettel:** [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]]
 
-**Zettels extracted:** [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]
+---
 
 ### 2. C677T Polymorphism — The Thermolabile Variant
-> "The C677T polymorphism results in an alanine to valine substitution, producing an enzyme with reduced activity and increased thermolability."
 
-**Genetics:**
-- **Wild type (CC):** Normal enzyme
-- **Heterozygous (CT):** ~65% enzyme activity
-- **Homozygous (TT):** ~30% enzyme activity
+**Category:** Genetic Variant
 
-**Population Frequency:**
-- **TT genotype:** ~10-15% of population (varies by ethnicity)
-- **Highest:** Hispanic and Mediterranean populations
-- **Lowest:** African populations
+**Key Process:**
+```
+C677T: Alanine → Valine substitution resulting in thermolabile enzyme
+```
 
-**Biochemical Consequences:**
-- Reduced 5-MTHF production
-- Elevated homocysteine (especially with low folate)
-- Increased folate requirements
-- Normal B12 metabolism unaffected
+**Mechanism/Steps:**
+1. The C677T polymorphism results in an alanine to valine substitution, producing an enzyme with reduced activity and increased thermolability.
+2. Wild type (CC): Normal enzyme (100% activity)
+3. Heterozygous (CT): ~65% enzyme activity
+4. Homozygous (TT): ~30% enzyme activity
 
-**Clinical Associations:**
-- Neural tube defects (in mothers)
-- Cardiovascular disease (if elevated homocysteine)
-- Recurrent pregnancy loss
-- May affect antidepressant response
+**Purpose/Significance:** This variant has significant clinical implications due to its substantial impact on enzyme activity, particularly in homozygous individuals, leading to increased folate requirements and potential clinical consequences.
 
-**Zettels extracted:** [[C677T_Polymorphism_Thermolabile_Z-001-0414]
+**Zettel:** [[C677T_Polymorphism_Thermolabile_Z-001-0414]]
+
+---
 
 ### 3. A1298C Polymorphism — The Regulatory Variant
-> "The A1298C polymorphism results in a glutamate to alanine substitution in the regulatory domain, affecting enzyme regulation rather than catalytic activity."
 
-**Genetics:**
-- **Wild type (AA):** Normal regulation
-- **Heterozygous (AC):** Mild effect
-- **Homozygous (CC):** ~60% enzyme activity
+**Category:** Genetic Variant
 
-**Population Frequency:**
-- **CC genotype:** ~7-12% of population
-- Different distribution than C677T
+**Key Process:**
+```
+A1298C: Glutamate → Alanine substitution in regulatory domain
+```
 
-**Biochemical Consequences:**
-- Less severe than C677T
-- Affects SAM inhibition sensitivity
-- Reduced folate availability
-- Can compound with C677T
+**Mechanism/Steps:**
+1. The A1298C polymorphism results in a glutamate to alanine substitution in the regulatory domain, affecting enzyme regulation rather than catalytic activity.
+2. Wild type (AA): Normal regulation
+3. Heterozygous (AC): Mild effect
+4. Homozygous (CC): ~60% enzyme activity
 
-**Clinical Associations:**
-- Similar to C677T but milder
-- May affect mood disorders
-- Association with ADHD (controversial)
+**Purpose/Significance:** While less severe than C677T, this variant affects SAM inhibition sensitivity and can compound with C677T in compound heterozygotes, leading to significant folate requirement increases.
 
-**Compound Heterozygote (C677T/A1298C):**
-- One copy of each variant
-- ~50-60% enzyme activity
-- Significant folate requirement increase
+**Zettel:** [[A1298C_Polymorphism_Regulatory_Z-001-0415]]
 
-**Zettels extracted:** [[A1298C_Polymorphism_Regulatory_Z-001-0415]
+---
 
 ### 4. Clinical Implications and Management
-> "MTHFR polymorphisms increase folate requirements and may necessitate higher supplementation, particularly with 5-MTHF (methylfolate) rather than folic acid."
 
-**Folate Requirements:**
+**Category:** Clinical Application
+
+**Key Process:**
+```
+Folate Requirements by Genotype:
 | Genotype | Folate Requirement |
 |----------|-------------------|
 | CC/AA (wild type) | Standard (400 mcg) |
 | CT or AC (heterozygous) | Moderate increase (600-800 mcg) |
 | TT or CC (homozygous) | High (800-1000+ mcg) |
 | Compound heterozygote | High (800-1000+ mcg) |
+```
 
-**Preferred Form:**
-- **5-MTHF (methylfolate):** Bypasses MTHFR enzyme
-- **Advantage:** Directly usable regardless of genotype
-- **Folic acid:** Must be converted by MTHFR (impaired in variants)
+**Mechanism/Steps:**
+1. MTHFR polymorphisms increase folate requirements and may necessitate higher supplementation, particularly with 5-MTHF (methylfolate) rather than folic acid.
+2. 5-MTHF bypasses the impaired MTHFR enzyme.
+3. Homocysteine management requires checking levels and targeting <10 μmol/L with B-complex supplementation.
+4. Folic acid is less effective due to impaired conversion in variant carriers.
 
-**Homocysteine Management:**
-- Check levels in MTHFR variants
-- Target <10 μmol/L
-- B-complex supplementation (B6, B12, folate)
+**Purpose/Significance:** Clinical management focuses on personalized folate supplementation using methylfolate to bypass the enzymatic bottleneck, which is crucial for optimal methylation in carriers of MTHFR variants.
 
-**Contraindications:**
-- Standard folic acid may not be effective
-- Unmetabolized folic acid may accumulate
-- Use methylfolate instead
+**Zettel:** [[MTHFR_Clinical_Management_Folate_Z-001-0416]]
 
-**Zettels extracted:** [[MTHFR_Clinical_Management_Folate_Z-001-0416]
+---
 
 ### 5. MTHFR and Cancer Association
-> "MTHFR polymorphisms have complex associations with cancer risk, varying by cancer type, folate status, and interaction with other factors."
 
-**Protective in Some Cancers (Adequate Folate):**
-- Colorectal cancer
-- Reduced risk with high folate intake
-- Mechanism: Maintains DNA methylation, stability
+**Category:** Clinical Association
 
-**Risk Factor in Others (Low Folate):**
-- Gastric cancer
-- Acute lymphoblastic leukemia
-- Cervical dysplasia
+**Key Process:**
+```
+Complex cancer associations:
+• Protective in colorectal cancer (with adequate folate)
+• Risk factor in gastric cancer and ALL (with low folate)
+• Not associated with multiple myeloma
+```
 
-**Complex Interaction:**
-- Depends on folate status
-- Depends on alcohol intake
-- Depends on other genetic factors
+**Mechanism/Steps:**
+1. MTHFR polymorphisms have complex associations with cancer risk, varying by cancer type, folate status, and interaction with other factors.
+2. Protective effects in some cancers (colorectal) with adequate folate intake.
+3. Risk factors in others (gastric, ALL) with low folate.
+4. Complex interactions with folate status, alcohol intake, and other genetic factors.
 
-**Not Associated:**
-- Multiple myeloma (per conversation)
-- Direct causation not established
-- Part of complex multifactorial risk
+**Purpose/Significance:** Understanding the complex relationship between MTHFR status and cancer risk informs clinical decision-making about folate supplementation and cancer screening in individuals with polymorphisms.
 
-**Zettels extracted:** [[MTHFR_Cancer_Association_Complex_Z-001-0417]
+**Zettel:** [[MTHFR_Cancer_Association_Complex_Z-001-0417]]
+
+---
 
 ### 6. Testing and Interpretation
-> "MTHFR genotyping can guide folate supplementation but should be interpreted in clinical context, not as deterministic."
 
-**Testing Methods:**
-- PCR-based genotyping
-- SNP arrays
-- Direct sequencing
+**Category:** Diagnostic Application
 
-**When to Test:**
-- Elevated homocysteine
-- Recurrent pregnancy loss
-- Neural tube defect history
-- Family history of CVD with elevated homocysteine
-- Unexplained macrocytic anemia
+**Key Process:**
+```
+MTHFR genotyping methods:
+• PCR-based genotyping
+• SNP arrays
+• Direct sequencing
+```
 
-**Interpretation Caution:**
-- Common variants (not rare mutations)
-- Many people have variants (normal variation)
-- Environment (diet) modifies effect
-- Don't over-interpret
+**Mechanism/Steps:**
+1. MTHFR genotyping can guide folate supplementation but should be interpreted in clinical context, not as deterministic.
+2. Indications for testing: elevated homocysteine, recurrent pregnancy loss, neural tube defect history, family history of CVD with elevated homocysteine.
+3. Interpretation requires caution: common variants (not rare mutations), many people have variants (normal variation), environment modifies effect.
+4. Clinical utility: guides folate form selection (methylfolate), guides dose, explains homocysteine elevation.
 
-**Clinical Utility:**
-- Guides folate form selection (methylfolate)
-- Guides dose (higher if variant)
-- Explains homocysteine elevation
-- Part of comprehensive assessment
+**Purpose/Significance:** Testing provides actionable clinical guidance for personalized folate supplementation but should not be over-interpreted as deterministic for disease risk.
 
-**Zettels extracted:** [[MTHFR_Testing_Interpretation_Z-001-0418]
+**Zettel:** [[MTHFR_Testing_Interpretation_Z-001-0418]]
 
+---
 
-## Key Figures & Data
-- **C677T frequency:** 10-15% TT genotype
-- **A1298C frequency:** 7-12% CC genotype
-- **Enzyme activity (TT):** ~30% of wild type
-- **Folate increase needed:** 2-3x standard for variants
-- **Population tested:** 40-50% have at least one variant
+## Zettels Created
+1. [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]] — Describes MTHFR enzyme function and its role as the rate-limiting step in folate metabolism
+2. [[C677T_Polymorphism_Thermolabile_Z-001-0414]] — Details the C677T polymorphism, its biochemical consequences, and clinical associations
+3. [[A1298C_Polymorphism_Regulatory_Z-001-0415]] — Explains the A1298C polymorphism and its regulatory impact on MTHFR enzyme function
+4. [[MTHFR_Clinical_Management_Folate_Z-001-0416]] — Covers clinical management approaches including folate requirements and preferred supplementation forms
+5. [[MTHFR_Cancer_Association_Complex_Z-001-0417]] — Documents the complex associations between MTHFR variants and cancer risk
+6. [[MTHFR_Testing_Interpretation_Z-001-0418]] — Provides guidance on MTHFR testing indications and clinical interpretation
 
+---
 
-## My Notes
+## Snowball References
 
-**Synthesis:** MTHFR polymorphisms represent common genetic variation affecting one-carbon metabolism, with the C677T and A1298C variants reducing enzyme activity and increasing folate requirements. The C677T variant (thermolabile) is particularly significant, with homozygotes having only 30% enzyme activity and requiring substantially higher folate intake to maintain normal homocysteine levels. Clinical management focuses on using 5-MTHF (methylfolate) rather than folic acid, as it bypasses the impaired MTHFR enzyme. For METHAP, genotyping participants could inform folate dosing and form selection, potentially improving methylation outcomes. However, MTHFR variants are common and not deterministic—dietary folate status remains the dominant factor. Testing should guide supplementation but not cause alarm.
+| Citation | Key Finding | Relevance | Zettel |
+|----------|-------------|-----------|--------|
+| CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264 | MTHFR polymorphisms affect folate metabolism and clinical management | High | [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]] |
 
-**Connection to METHAP/PhD:**
+---
+
+## References Used
+
+| Reference | PMID/DOI | Finding | Confidence |
+|-----------|----------|---------|------------|
+| CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264 | N/A | ChatGPT synthesis from Warburg Effect conversation | High |
+
+---
+
+## Related References
+- [[MOC-Methylation-One-Carbon]] — Parent MOC
+- [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]] — Related zettel
+- [[L-001-0403_MTHFR_Genetics_L-001-0403]] — Related LitNote
+
+---
+
+## Status Checklist
+- [x] Source read completely
+- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [x] Core claim articulated (one sentence)
+- [x] Core concepts numbered (1, 2, 3...)
+- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [x] Zettel links use FULL format with titles and UIDs
+- [x] Snowball references documented
+- [x] QMD duplicate check completed
+- [x] RON review pending
+
+---
+
+## Synthesis Notes
+
+**MTHFR Polymorphisms and METHAP Personalization:**
+
+MTHFR polymorphisms represent common genetic variation affecting one-carbon metabolism, with the C677T and A1298C variants reducing enzyme activity and increasing folate requirements. The C677T variant (thermolabile) is particularly significant, with homozygotes having only 30% enzyme activity and requiring substantially higher folate intake to maintain normal homocysteine levels.
+
+**Clinical Management:** Focus on using 5-MTHF (methylfolate) rather than folic acid, as it bypasses the impaired MTHFR enzyme.
+
+**METHAP Application:**
 - **Personalization:** MTHFR testing could stratify participants
 - **Folate form:** Methylfolate preferred over folic acid
 - **Dosing:** Higher folate for variant carriers
 - **Outcome:** May predict methylation response
 
+**Important Caveat:** MTHFR variants are common and not deterministic—dietary folate status remains the dominant factor. Testing should guide supplementation but not cause alarm.
 
-## Zettels Created from This Source
-1. [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]
-2. [[C677T_Polymorphism_Thermolabile_Z-001-0414]
-3. [[A1298C_Polymorphism_Regulatory_Z-001-0415]
-4. [[MTHFR_Clinical_Management_Folate_Z-001-0416]
-5. [[MTHFR_Cancer_Association_Complex_Z-001-0417]
-6. [[MTHFR_Testing_Interpretation_Z-001-0418]
+---
 
+## Source Reference
+This literature note was extracted from: [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
 
-*Literature note processed: 2026-03-01*
-
-
+*Literature note processed: 2026-03-01 | FORG v3.0*  
+*Zettels extracted: 6 | Status: extracted*
