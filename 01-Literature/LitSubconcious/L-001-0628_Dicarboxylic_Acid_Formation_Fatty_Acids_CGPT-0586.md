@@ -12,10 +12,12 @@ tier: GOLD
 relevance: Critical — Primary PhD biomarker pathway for insulin resistance detection
 aliases: [L-001-0628, Adipate Formation, Dicarboxylic Acids, Omega-Oxidation]
 domain: 101
+reviewed_by: RON
 tags: [lit-note, adipic-acid, suberic-acid, sebacic-acid, beta-oxidation, omega-oxidation, fatty-acids, phd-research, cGPT-0586]
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: extracted
 parent-moc: "[[MOC-PhD-Research]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 zettel-count: 5
 reference-count: 0

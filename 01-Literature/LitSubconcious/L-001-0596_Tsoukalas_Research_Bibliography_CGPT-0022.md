@@ -13,10 +13,12 @@ relevance: High — 50+ curated papers on metabolomics, Vitamin D safety, fatty 
 status: extracted
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 source: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 zettel-count: 3
 reference-count: 0
+reviewed_by: RON
 tags: [lit-note, research, bibliography, metabolomics, vitamin-d, fatty-acids, metabolic-syndrome, mediterranean-diet, cGPT-0022]
 ---
 

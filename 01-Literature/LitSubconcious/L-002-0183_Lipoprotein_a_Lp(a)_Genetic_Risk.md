@@ -11,7 +11,9 @@ pmid: "19509380"
 tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Cholesterol-Quality]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
+reviewed_by: RON
 tags:
   - lit-note
   - lp(a)

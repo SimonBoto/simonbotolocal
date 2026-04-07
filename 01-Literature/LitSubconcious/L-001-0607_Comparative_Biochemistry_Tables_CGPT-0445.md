@@ -16,10 +16,12 @@ tier: BRONZE
 relevance: High — Aldoses/ketoses reference, amino acid classification, organic acids, Krebs intermediates
 status: active
 parent-moc: "[[MOC-Metabolomics]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: 2026-03-08
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 3
 reference-count: 0
+reviewed_by: RON
 tags:
   - lit-note
   - reference-tables

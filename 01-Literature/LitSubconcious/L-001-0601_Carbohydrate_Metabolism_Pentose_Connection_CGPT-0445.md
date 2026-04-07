@@ -16,10 +16,12 @@ tier: BRONZE
 relevance: High — Trioses, glycolysis, pentose phosphate pathway, glucose-ribose interconversion, evolutionary origins of carbohydrate metabolism
 status: active
 parent-moc: "[[MOC-Glycolysis-PPP]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: 2026-03-08
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 5
 reference-count: 0
+reviewed_by: RON
 tags:
   - lit-note
   - carbohydrate-metabolism

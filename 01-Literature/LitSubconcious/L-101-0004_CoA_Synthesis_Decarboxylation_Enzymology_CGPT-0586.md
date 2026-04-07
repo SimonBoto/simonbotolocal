@@ -12,10 +12,12 @@ tier: BRONZE
 relevance: Medium — Cofactor biochemistry supporting fatty acid metabolism
 aliases: [L-101-0004, CoA Biosynthesis, Decarboxylase Enzymes, B5 Metabolism]
 domain: 101
+reviewed_by: RON
 tags: [lit-note, coenzyme-a, pantothenic-acid, vitamin-b5, decarboxylase, dehydrogenase, enzymology, cofactors, cGPT-0586]
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: extracted
 parent-moc: "[[MOC-Mitochondrial-Function]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-02"
 zettel-count: 4
 reference-count: 0

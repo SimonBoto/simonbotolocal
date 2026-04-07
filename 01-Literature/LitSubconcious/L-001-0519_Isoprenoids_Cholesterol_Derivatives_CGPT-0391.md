@@ -12,16 +12,17 @@ tier: BRONZE
 relevance: High — Diverse products from mevalonate pathway, clinical significance
 aliases: [L-001-0519, Isoprenoids, Terpenes, Steroid Hormones, CoQ10, Vitamin D Synthesis]
 domain: 001
+reviewed_by: RON
 tags: [lit-note, isoprenoids, terpenes, steroids, coq10, vitamin-d, bile-acids, cholesterol-derivatives, cGPT-0391]
 source-inbox: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"
 status: extracted
 parent-moc: "[[MOC-Lipid-Metabolism]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-03"
 zettel-count: 5
 reference-count: 0
 zettels-created: 5
 extraction-quality: GOLD
----
 
 # Isoprenoids and Cholesterol-Derived Biomolecules — Steroids, Vitamins, and Cell Signals
 
@@ -29,9 +30,6 @@ extraction-quality: GOLD
 > **Key Theme:** Diverse products from IPP: terpenes, steroids, CoQ10, vitamin D, bile acids  
 > **Clinical Relevance:** Hormone synthesis, mitochondrial function, drug targets
 
-zettels-created: 5
-extraction-quality: GOLD
----
 
 ## Core Concepts Extracted
 
@@ -183,9 +181,6 @@ Bile salts (secreted into bile)
 
 **Zettels extracted:** [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]]
 
-zettels-created: 5
-extraction-quality: GOLD
----
 
 ## Key Figures & Data
 
@@ -208,9 +203,6 @@ extraction-quality: GOLD
 | **Vitamin D** | Photochemistry | Calcium homeostasis |
 | **Bile acids** | Hepatic synthesis | Fat digestion |
 
-zettels-created: 5
-extraction-quality: GOLD
----
 
 ## My Notes
 
@@ -229,9 +221,6 @@ The "statin side effect" conversation must include:
 - Hormone balance (fatigue, libido)
 - Bile acid changes (digestion)
 
-zettels-created: 5
-extraction-quality: GOLD
----
 
 ## Zettels Created from This Source
 1. [[Isoprenoids_Terpenes_Overview_Z-001-0569]] — Isoprenoid classification and functions
@@ -240,9 +229,6 @@ extraction-quality: GOLD
 4. [[Vitamin_D_Secosteroid_Synthesis_Z-001-0572]] — Vitamin D as cholesterol derivative
 5. [[Bile_Acid_Synthesis_Cholesterol_Z-001-0573]] — Bile acid formation and function
 
-zettels-created: 5
-extraction-quality: GOLD
----
 
 ## Related References
 - [[MOC-Lipid-Metabolism]] — Parent MOC for lipid pathways
@@ -251,23 +237,4 @@ extraction-quality: GOLD
 - [[MOC-Mitochondrial-Function]] — CoQ10 and energy context
 - [[L-001-0518_Mevalonate_Pathway_Biochemistry_CGPT-0391]] — Mevalonate pathway details
 
-zettels-created: 5
-extraction-quality: GOLD
----
 
-## Status Checklist
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [x] Zettel links use FULL format
-- [x] Source Reference section added
-- [x] Post-extraction verification complete
-
-zettels-created: 5
-extraction-quality: GOLD
----
-
-## Source Reference
-This literature note was extracted from: [[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]
-
-*Literature note processed: 2026-03-03 | Upgraded: 2026-04-06*
-*Zettels extracted: 5*
-*Status: extracted*

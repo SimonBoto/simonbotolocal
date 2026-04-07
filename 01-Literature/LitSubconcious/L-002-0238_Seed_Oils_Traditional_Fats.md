@@ -12,9 +12,11 @@ pmid: "(multiple)"
 tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Nutrition]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 5
+reviewed_by: RON
 tags:
   - lit-note
   - seed-oils

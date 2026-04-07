@@ -12,10 +12,12 @@ tier: SILVER
 relevance: High — Links energy metabolism to iron homeostasis
 aliases: [L-001-0631, Aconitase, IRP1, Iron Regulatory Protein]
 domain: 001
+reviewed_by: RON
 tags: [lit-note, aconitase, irp1, iron-metabolism, krebs-cycle, fe-s-cluster, cGPT-0586]
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: extracted
 parent-moc: "[[MOC-Iron-Metabolism]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 zettel-count: 4
 reference-count: 0

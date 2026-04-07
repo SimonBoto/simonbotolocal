@@ -13,10 +13,12 @@ relevance: High — Final extraction summary, batch inventory, quality verificat
 status: extracted
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 source: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 zettel-count: 0
 reference-count: 0
+reviewed_by: RON
 tags: [lit-note, extraction, summary, completion, inventory, metabolomics-training, cGPT-0022]
 ---
 

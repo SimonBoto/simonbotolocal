@@ -13,14 +13,15 @@ tier: SILVER
 relevance: "High — Foundational training philosophy for metabolomics clinic; defines instructor role and 6-stage patient flow"
 status: active
 parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: 2026-03-08
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 zettel-count: 5
 reference-count: 0
+reviewed_by: RON
 tags: [lit-note, metabolomics, training, instructor, mci, clinical-education, cgp]
 zettels-created: 7
 extraction-quality: GOLD
----
 
 # Lit: Metabolomics Chief Instructor Framework
 
@@ -58,27 +59,3 @@ extraction-quality: GOLD
 **Zettel:** [[Socratic_Method_Metabolomics_Training_Z-001-1033]]
 
 ## Source Reference
-- **Extracted from:** [[CGPT_0022_Metabolomics_training_role_CGPT-0022]]
-- **Anchor conversation:** CGPT-0022 (December 08, 2025)
-
-## Connections
-- **METHAP relevance:** This framework directly informs how to train clinicians in metabolic medicine — the Socratic method and tiered prescribing are applicable to research assistant training and protocol development.
-
-## Zettels Created from This Source
-1. [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]] — Core MCI role definition
-2. [[MCI_Three_Function_Architecture_Z-001-1030]] — Architect, Coach, Integrator
-3. [[Six_Stage_Patient_Flow_Framework_Z-001-1031]] — Complete patient journey
-4. [[Tiered_Supplement_Prescribing_Hierarchy_Z-001-1032]] — Treatment sequencing
-5. [[Socratic_Method_Metabolomics_Training_Z-001-1033]] — Pedagogical approach
-
-## Status
-- [x] Source verified
-- [x] All zettels extracted
-- [x] All zettels at optimal format
-- [x] YAML standardized
-- [x] Connections verified
-
-zettels-created: 7
-extraction-quality: GOLD
----
-*Processed: 2026-04-06 | Zettels: 5 | Status: COMPLETE*

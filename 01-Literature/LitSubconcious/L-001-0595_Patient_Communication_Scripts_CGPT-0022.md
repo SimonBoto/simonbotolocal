@@ -13,14 +13,15 @@ relevance: High — 25+ patient objection responses, metabolic storytelling, ref
 status: extracted
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 source: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 zettel-count: 4
 reference-count: 0
+reviewed_by: RON
 tags: [lit-note, patient-communication, objections, scripts, clinical-skills, metabolomics-training, cGPT-0022]
 zettels-created: 5
 extraction-quality: GOLD
----
 
 # Lit: ChatGPT 2025 — Patient Communication Scripts and Objection Handling
 
@@ -86,23 +87,4 @@ extraction-quality: GOLD
 - [[Patient_Communication_Core_Concepts_Z-001-1047]]
 - [[MCI_Three_Function_Architecture_Z-001-1030]]
 
-zettels-created: 5
-extraction-quality: GOLD
----
 
-## Status Checklist
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [x] Zettel links use FULL format
-- [x] Source Reference section added
-- [x] Post-extraction verification complete
-
-zettels-created: 5
-extraction-quality: GOLD
----
-
-## Source Reference
-This literature note was extracted from: [[CGPT_0022_Metabolomics_training_role_CGPT-0022]]
-
-*Literature note processed: 2026-03-08 | Upgraded: 2026-04-06*
-*Zettels extracted: 4*
-*Status: extracted*

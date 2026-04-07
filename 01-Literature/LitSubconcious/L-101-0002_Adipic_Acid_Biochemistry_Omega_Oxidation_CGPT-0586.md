@@ -12,10 +12,12 @@ tier: BRONZE
 relevance: High — Primary PhD research marker for insulin resistance detection
 aliases: [L-101-0002, Adipate Formation, Omega-Oxidation]
 domain: 101
+reviewed_by: RON
 tags: [lit-note, adipic-acid, fatty-acid-metabolism, omega-oxidation, beta-oxidation, carnitine, pharmacometabolomics, insulin-resistance, cGPT-0586]
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: extracted
 parent-moc: "[[MOC-Mitochondrial-Function]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-02"
 zettel-count: 6
 reference-count: 0

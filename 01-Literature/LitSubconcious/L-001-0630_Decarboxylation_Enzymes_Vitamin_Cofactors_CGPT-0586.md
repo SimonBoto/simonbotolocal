@@ -12,10 +12,12 @@ tier: SILVER
 relevance: High — Connects B-vitamins to fatty acid and energy metabolism
 aliases: [L-001-0630, Decarboxylases, B-Vitamin Cofactors, TPP, PLP]
 domain: 001
+reviewed_by: RON
 tags: [lit-note, decarboxylases, b-vitamins, tpp, plp, enzyme-cofactors, cGPT-0586]
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: extracted
 parent-moc: "[[MOC-B-Vitamins]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 zettel-count: 4
 reference-count: 0

@@ -12,9 +12,11 @@ pmid: "(multiple)"
 tier: "SILVER"
 status: active
 parent-moc: "[[MOC-Insulin-Signaling]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-05"
 zettel-count: 3
 reference-count: 1
+reviewed_by: RON
 tags:
   - lit-note
   - glucose

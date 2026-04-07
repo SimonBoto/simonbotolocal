@@ -16,10 +16,12 @@ tier: BRONZE
 relevance: High — Glycolysis-PPP-Krebs connections, fuel switching, metabolic flexibility, substrate channeling
 status: active
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: 2026-03-08
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 4
 reference-count: 0
+reviewed_by: RON
 tags:
   - lit-note
   - metabolic-integration

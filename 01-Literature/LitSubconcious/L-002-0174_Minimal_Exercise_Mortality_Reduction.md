@@ -10,9 +10,11 @@ doi: "10.1016/j.pcad.2024.04.001"
 tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Clinical-Protocols]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1
+reviewed_by: RON
 tags:
   - lit-note
   - exercise

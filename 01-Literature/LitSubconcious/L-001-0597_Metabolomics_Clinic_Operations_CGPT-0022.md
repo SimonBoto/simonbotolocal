@@ -13,10 +13,12 @@ relevance: High — Patient flow, quality standards, follow-up rhythms, operatio
 status: extracted
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 source: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 zettel-count: 4
 reference-count: 0
+reviewed_by: RON
 tags: [lit-note, clinic-operations, patient-flow, quality-standards, follow-up, training, metabolomics-training, cGPT-0022]
 ---
 

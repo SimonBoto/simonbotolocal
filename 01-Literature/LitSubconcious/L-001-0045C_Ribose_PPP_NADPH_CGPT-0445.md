@@ -22,6 +22,7 @@ source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 6
 reference-count: 0
 extraction-quality: GOLD
+reviewed_by: RON
 tags:
   - lit-note
   - ribose

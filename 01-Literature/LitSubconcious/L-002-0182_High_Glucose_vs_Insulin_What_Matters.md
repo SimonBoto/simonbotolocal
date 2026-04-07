@@ -11,7 +11,9 @@ pmid: "30716618"
 tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Insulin-Signaling]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
+reviewed_by: RON
 tags:
   - lit-note
   - insulin

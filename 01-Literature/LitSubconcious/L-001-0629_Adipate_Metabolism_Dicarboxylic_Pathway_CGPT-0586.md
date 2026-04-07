@@ -12,10 +12,12 @@ tier: GOLD
 relevance: Critical — Completes adipic acid metabolic fate for PhD biomarker interpretation
 aliases: [L-001-0629, Adipate Metabolism, Dicarboxylic Acid Pathway]
 domain: 101
+reviewed_by: RON
 tags: [lit-note, adipate, dicarboxylic-acids, beta-oxidation, krebs-cycle, succinyl-coa, cGPT-0586]
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: extracted
 parent-moc: "[[MOC-Mitochondrial-Function]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 zettel-count: 5
 reference-count: 0

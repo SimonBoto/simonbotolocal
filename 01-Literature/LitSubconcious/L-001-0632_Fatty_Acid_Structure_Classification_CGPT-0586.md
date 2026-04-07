@@ -12,10 +12,12 @@ tier: SILVER
 relevance: High — Foundation for understanding fatty acid metabolism and dicarboxylic acid formation
 aliases: [L-001-0632, Fatty Acids, Omega Classification, Lipid Structure]
 domain: 001
+reviewed_by: RON
 tags: [lit-note, fatty-acids, omega-3, omega-6, lipid-structure, saturation, cGPT-0586]
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: extracted
 parent-moc: "[[MOC-Fatty-Acids]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 zettel-count: 5
 reference-count: 0

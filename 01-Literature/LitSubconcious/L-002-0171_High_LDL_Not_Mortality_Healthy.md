@@ -11,9 +11,11 @@ pmid: "38548371"
 tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Cholesterol-Quality]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
 zettel-count: 4
 reference-count: 1
+reviewed_by: RON
 tags:
   - lit-note
   - ldl

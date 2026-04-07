@@ -22,6 +22,7 @@ extraction-date: 2026-03-01
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 6
 reference-count: 0
+reviewed_by: RON
 tags:
   - lit-note
   - methionine

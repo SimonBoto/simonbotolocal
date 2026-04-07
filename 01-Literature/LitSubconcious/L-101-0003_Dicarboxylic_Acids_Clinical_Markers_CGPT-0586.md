@@ -12,10 +12,12 @@ tier: BRONZE
 relevance: High — Clinical diagnostic markers for METHAP protocol
 aliases: [L-101-0003, Dicarboxylic Aciduria, Urine Organic Acid Markers]
 domain: 101
+reviewed_by: RON
 tags: [lit-note, dicarboxylic-aciduria, urine-organic-acid, fatty-acid-oxidation-disorder, clinical-metabolomics, diagnostic-marker, cGPT-0586]
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: extracted
 parent-moc: "[[MOC-Clinical-Metabolomics]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-02"
 zettel-count: 4
 reference-count: 0
