@@ -1,7 +1,7 @@
 ---
 uid: IDX-TEMPLATE
 type: index
-title: "{Folder-Name} Index"
+title: {Folder-Name} Index  # NO QUOTES — YAML standard
 date: 2026-04-07
 aliases: [{Folder-Name}-Index]
 tags: [index, navigation, {folder-tag}]

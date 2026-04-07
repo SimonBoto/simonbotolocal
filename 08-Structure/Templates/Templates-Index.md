@@ -1,7 +1,7 @@
 ---
 uid: IDX-TEMPLATES
 type: index
-title: "Templates Index"
+title: Templates Index
 date: 2026-04-03
 tags: [index, templates, standards]
 parent-moc: [[08-Structure-Index]]

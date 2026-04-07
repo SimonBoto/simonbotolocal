@@ -1,7 +1,7 @@
 ---
 uid: ROOT-INDEX
 type: index
-title: "Root Index"
+title: Root Index
 date: 2026-04-07
 aliases: [Root-Index, Master-Navigation]
 tags: [index, root, navigation]

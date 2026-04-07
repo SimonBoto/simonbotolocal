@@ -1,7 +1,7 @@
 ---
 uid: "{{S-XXX-XXXX}}"
 type: "synthesis"
-title: "{{Topic}} — Synthesis"
+title: {{Topic}} — Synthesis
 aliases: ["{{S-XXX-XXXX}}", "{{ShortSlug}}"]
 domain: "{{XXX}}"
 domain-name: "{{DomainName}}"

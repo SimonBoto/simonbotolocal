@@ -1,7 +1,7 @@
 ---
 uid: "{{YYYYMMDD}}{{HHMM}}"
 type: "lit-note"
-title: "Lit — {{Paper Title}}"
+title: Lit — {{Paper Title}}
 authors: "{{Author Names}}"
 year: "{{YYYY}}"
 journal: "{{Journal Name}}"

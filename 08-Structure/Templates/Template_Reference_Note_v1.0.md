@@ -1,7 +1,7 @@
 ---
 uid: "{{R-XXX-XXXX}}"
 type: reference
-title: "{{Author}} {{Year}} — {{Short Title}}"
+title: {{Author}} {{Year}} — {{Short Title}}
 aliases: ["{{Author}}{{Year}}", "{{ShortSlug}}"]
 authors: "{{Author1, Author2}}"
 year: "{{YYYY}}"

@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-MISSION.md",
+                "file": "00-INDEX.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00-MISSION"
+              "title": "00-INDEX"
             }
           }
         ],
@@ -306,10 +306,10 @@
   },
   "active": "64120ee807f0bd00",
   "lastOpenFiles": [
+    "00-MISSION.md",
     "00-INDEX.md",
     "03-Zettels/RON/03-Zettels-RON-Index.md",
     "03-Zettels/03-Zettels-Subconscious-Index.md",
-    "00-MISSION.md",
     "03-Zettels/03-Zettels-Conscious-Index.md",
     "08-Structure/08-Structure-Index.md",
     "07-Projects/07-Projects-Index.md",

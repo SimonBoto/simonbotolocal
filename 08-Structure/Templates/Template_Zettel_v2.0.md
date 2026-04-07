@@ -1,7 +1,7 @@
 ---
 uid: TEMPLATE-ZET-003
 type: template
-title: "Template — Zettel (Unified)"
+title: Template — Zettel (Unified)
 description: "Single zettel template for all atomic knowledge"
 version: "2.0"
 ---
@@ -20,7 +20,7 @@ CRITICAL: NEVER create links to imaginary notes. Shadow notes pollute the vault.
 ---
 uid: "{{Z-XXX-XXXX}}"
 type: zettel
-title: "{{Atomic Claim}}"
+title: {{Atomic Claim}}
 aliases: ["{{ShortSlug}}"]
 domain: "{{001|101|XXX}}"
 tags: [zettel, "{{topic}}"]

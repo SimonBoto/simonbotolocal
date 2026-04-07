@@ -1,7 +1,7 @@
 ---
 uid: TEMPLATE-DAILY-004
 type: template
-title: "Template — Daily Note"
+title: Template — Daily Note
 description: "Date-stamped daily log for vault activity"
 version: "1.0"
 ---

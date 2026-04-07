@@ -1,7 +1,7 @@
 ---
 uid: TEMPLATE-LIT-002
 type: template
-title: "Template — LitNote (Unified)"
+title: Template — LitNote (Unified)
 description: "Single LitNote template for all source types"
 version: "2.0"
 ---
@@ -17,7 +17,7 @@ PRE-FLIGHT CHECKLIST:
 ---
 uid: "{{L-XXX-XXXX}}"
 type: lit-note
-title: "Lit — {{Source Title}}"
+title: Lit — {{Source Title}}
 aliases:
   - "{{L-XXX-XXXX}}"
   - "{{Short-Title}}"
@@ -116,7 +116,7 @@ tags:
 ---
 uid: "L-001-0656"
 type: lit-note
-title: "Lit — KingOfVitamins_Pauling_Vitamin_C_2025"
+title: Lit — KingOfVitamins_Pauling_Vitamin_C_2025
 source-inbox: "[[INBOX-2026-04-04-002_Pauling_Vitamin_C_Thread]]"
 authors: "Vitamin King (@KingOfVitamins)"
 year: "2025"

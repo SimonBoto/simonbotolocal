@@ -1,7 +1,7 @@
 ---
 uid: "{{R-XXX-XXXX}}"
 type: reference
-title: "{{Full Title}}"
+title: {{Full Title}}
 aliases: ["{{ShortSlug}}"]  # Never bare UID — creates shadow notes
 authors: "{{Author1, Author2, et al.}}"
 year: "{{YYYY}}"

@@ -1,7 +1,7 @@
 ---
 uid: TEMPLATE-INBOX-001
 type: template
-title: "Template — Inbox (Adaptive)"
+title: Template — Inbox (Adaptive)
 description: "Single inbox template that adapts to input size"
 version: "2.0"
 ---

@@ -1,7 +1,7 @@
 ---
 uid: "{{YYYYMMDDHHMMSS}}"
 type: "moc"
-title: "MOC — {{Topic Name}}"
+title: MOC — {{Topic Name}}
 aliases: ["MOC_{{ShortName}}", "{{ShortName}}_MOC"]
 domain: "{{001|101|system}}"
 description: "{{One-line description of what this MOC covers}}"
