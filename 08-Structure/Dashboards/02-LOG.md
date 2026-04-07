@@ -6,6 +6,15 @@ status: active
 
 # LOG — Activity History
 
+## 2026-04-07 — FORG Agent Architecture Complete
+- ✅ FORG redesigned as separate agent (not subagent)
+- ✅ Context control: <256K tokens enforced
+- ✅ Cost control: $0.55 estimated (vs $2 mistake)
+- ✅ Batch 1.1: L-001-0613 YAML upgrades complete (3 zettels)
+- ✅ All dashboard files updated (COMMAND, HANDOFF, LOG)
+- ✅ CGPT_0264_COMPLETE_DESIGN.md created
+- ✅ PicoClaw pattern documented
+
 ## 2026-04-06 — Vault Pause & Infrastructure Handoff
 - ✅ CGPT_0264: 5/11 LitNotes processed (18 zettels)
 - ✅ Facebook collection: 158/158 articles complete

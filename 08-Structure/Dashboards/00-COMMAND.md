@@ -7,8 +7,8 @@ status: active
 # COMMAND — Current Priorities & System Status
 
 **System:** TheOptimizedBrain v4.1  
-**Last Updated:** 2026-04-06 21:00  
-**Status:** ⏸️ PAUSED — Infrastructure Build
+**Last Updated:** 2026-04-07 21:49  
+**Status:** ✅ RESUMED — FORG agent operational
 
 ---
 
@@ -17,9 +17,10 @@ status: active
 | Priority | Item | Status | Next Action |
 |----------|------|--------|-------------|
 | P0 | Facebook collection | ✅ COMPLETE | 158/158 articles extracted |
-| P0 | CGPT_0264 processing | 🟡 5/11 done | 6 LitNotes paused, resume after infrastructure |
-| P0 | Infrastructure build | 🟡 IN PROGRESS | Tracking system, team coordination |
+| P0 | CGPT_0264 processing | 🟡 6/11 done | YAML upgrades in progress, 5 LitNotes remain |
+| P0 | Infrastructure build | ✅ COMPLETE | Agent isolation, context control, cost monitoring |
 | P1 | PhD ClinicalTrials.gov | ⏸️ Blocked | University delays |
+| P1 | CGPT_0549 quality review | ✅ COMPLETE | 3/3 zettels confirmed GOLD
 
 ---
 

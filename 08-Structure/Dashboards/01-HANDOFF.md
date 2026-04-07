@@ -7,10 +7,13 @@ status: active
 
 # HANDOFF — Session State
 
-## Last Session (2026-04-06)
+## Last Session (2026-04-07)
 
 ### Completed
-- ✅ CGPT_0264: 5/11 LitNotes (18 zettels)
+- ✅ FORG Agent Architecture: Redesigned as separate agent (not subagent)
+- ✅ Context Control: <256K token budget enforced
+- ✅ Cost Control: ~$0.55 estimated for CGPT_0264 (vs $2 before)
+- ✅ Batch 1.1: L-001-0613 YAML upgrades complete (3 zettels)
 - ✅ Facebook collection: 158/158 complete
 - ✅ Workspace: Core files restored, tracking/ folder
 - ✅ Templates: Updated to optimal format
@@ -33,7 +36,17 @@ status: active
 
 ---
 
-## Current State
+## Current State (2026-04-07)
+
+| Metric | Value |
+|--------|-------|
+| Articles | 158/158 ✅ |
+| LitNotes | 183 |
+| Zettels | ~1,095 |
+| CGPT inbox | 688 (17 processed) |
+| Git commits | 90+ |
+| FORG status | ✅ OPERATIONAL (Qwen Plus, <256K tokens) |
+| FORG cost | $0.55 estimated for CGPT_0264 (vs $2 before) |
 
 | Metric | Value |
 |--------|-------|
