@@ -1,5 +1,3 @@
-zettels-created: 5
-extraction-quality: GOLD
 ---
 uid: L-001-0519
 type: lit-note
