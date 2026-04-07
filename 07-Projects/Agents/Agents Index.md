@@ -28,20 +28,20 @@ Based on insights from Brian Roemmele (Zero-Human Company) and Andrej Karpathy (
 | Agent | Model | Role | Status | Workspace |
 |-------|-------|------|--------|-----------|
 | **RON** | Kimi k2.5 | Primary, quality control, synthesis | ✅ Active | `workspace/` |
-| **WORKER** | MiniMax 2.7 | Bulk drafting, research prep | 🟡 In Setup | `workspace-worker/` (planned) |
+| **FORG** | Qwen Plus | Bulk drafting, extraction prep | ✅ Operational | `workspace-forg/` |
 
 ## Planned Agents
 
 | Agent | Model | Role | Priority |
 |-------|-------|------|----------|
-| **RESEARCH** | MiniMax 2.7 | Literature extraction, web search | P1 |
-| **EDITOR** | MiniMax 2.7 | YAML validation, link checking | P2 |
+| **RESEARCH** | (TBD) | Literature extraction, web search | P1 |
+| **EDITOR** | (TBD) | YAML validation, link checking | P2 |
 | **CLINIC** | Kimi k2.5 | Patient workflow assistance | P2 |
 | **PHD** | Kimi k2.5 | Academic writing, paper drafting | P2 |
 
 ## Agent Projects
 
-- [[WORKER_Agent_Project_S-001-0004]] — Define WORKER's role and create workspace
+- [[FORG_Agent_Project_S-001-0004]] — FORG (The Forge) — Operational 2026-04-07
 
 ## Architecture Principles
 
@@ -54,19 +54,19 @@ Based on insights from Brian Roemmele (Zero-Human Company) and Andrej Karpathy (
     ┌─────────┼─────────┐
     ▼         ▼         ▼
 ┌───────┐ ┌───────┐ ┌───────┐
-│WORKER │ │RESEARCH│ │EDITOR │
-│MiniMax│ │MiniMax │ │MiniMax│
-│Draft  │ │Search │ │Check  │
+│ FORG  │ │RESEARCH│ │EDITOR │
+│Qwen   │ │ (TBD)  │ │ (TBD)  │
+│Draft  │ │Search  │ │Check  │
 └───────┘ └───────┘ └───────┘
 ```
 
 ## Cost Structure
 
-| Agent | Model | Cost/1K tokens | Use Case |
-|-------|-------|----------------|----------|
-| RON | Kimi k2.5 | $0.04 | Final review, complex synthesis |
-| WORKER | MiniMax 2.7 | $0.002 | Bulk drafting, simple tasks |
-| **Savings** | | **95%** | |
+| Agent | Model | Cost | Use Case |
+|-------|-------|------|----------|
+| RON | Kimi k2.5 | $40/M tokens | Final review, complex synthesis |
+| FORG | Qwen Plus | $0.26/M in, $0.78/M out | Bulk drafting, extraction |
+| **Savings** | | **98%** | |
 
 ## Related
 - [[07 Projects Index]]

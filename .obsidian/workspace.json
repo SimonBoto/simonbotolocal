@@ -126,33 +126,9 @@
               "icon": "lucide-file",
               "title": "QMD_Embedding_Project_S-001-0005"
             }
-          },
-          {
-            "id": "0c6ac0d1aac881e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -328,10 +304,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0c6ac0d1aac881e0",
+  "active": "64120ee807f0bd00",
   "lastOpenFiles": [
-    "07-Projects/Tools/QMD_Embedding_Project_S-001-0005.md",
+    "07-Projects/Agents/FORG_Agent_Project_S-001-0004.md",
     "Untitled.md",
+    "07-Projects/Tools/QMD_Embedding_Project_S-001-0005.md",
     "07-Projects/Agents/Agents Index.md",
     "07-Projects/Tools/QMD_Activation_S-001-0002.md",
     "07-Projects/Agents/WORKER_Agent_Project_S-001-0004.md",
@@ -358,7 +335,6 @@
     "03-Zettels/Conscious/Nicotine_Two_Ring_Structure_Z-001-0615A.md",
     "03-Zettels/Conscious/Tiered_Supplement_Prescribing_Hierarchy_Z-001-1034.md",
     "03-Zettels/Conscious/BHB_Hydroxy_Acid_Not_Ketone_Z-001-0483.md",
-    "03-Zettels/Conscious/B12_Requirements_Supplementation_Z-001-0442.md",
     "08-Structure/Archive",
     "Base File All Notes.base",
     "01-Literature/LitSubconcious",
