@@ -1,9 +1,11 @@
 ---
 uid: 20260220202900
-type: index
+type: synthesis
 title: MISSION — The North Star
-tags: [mission, charter, purpose, north-star]
+tags: [mission, charter, purpose, north-star, permanent]
 status: permanent
+parent-moc: [[00-INDEX]]
+parent-index: [[00-INDEX]]
 ---
 
 # 🎯 MISSION STATEMENT
@@ -38,10 +40,11 @@ If NO → Stop. Reassess. Redirect.
               ↓
     ┌─────────┴─────────┐
     ↓                   ↓
- 🦞 RON              ○ VERTEX 3
-Scribe/Auditor      [Recruiting]
-Kimi-k2.5           Future Agent
-Execution Now       Scale Tomorrow
+ 🦞 RON              🔥 FORG
+Scribe/Auditor      The Forge
+Kimi-k2.5           Qwen Plus
+Quality Control     Bulk Drafting
+Execution Now       98% Cost Savings
     └─────────┬─────────┘
               ↓
      💎 COMPOUNDING VALUE
@@ -107,11 +110,12 @@ Execution Now       Scale Tomorrow
 |------|-------|--------|--------|
 | 08:00 | RON | Morning pulse | Prepped dashboard, priorities surfaced |
 | 08:00–09:00 | Simos | Set 1 objective | Clear focus for the day |
+| 09:00–17:00 | FORG+RON | Extraction sprints | Drafts queued for review |
 | 16:00 | RON | Midday update | Progress, blockers, questions |
 | 16:00–17:00 | Simos | Check-in | Validation, redirection, feedback |
 | 20:00–21:00 | Simos | Evening integration | Tomorrow preview, feedback |
 | 23:00 | RON | Night shift | Memory curation, next-day prep |
-| 00:00–08:00 | RON | Deep async | Extraction, research, batch processing |
+| 00:00–08:00 | FORG | Deep async | Batch extraction, QMD indexing |
 
 ### Weekly Mandate
 - **Friday 18:00:** Sync meeting — review, plan, align
@@ -122,12 +126,13 @@ Execution Now       Scale Tomorrow
 
 ## Success Metrics
 
-### Quantitative
-- [ ] **Atomics:** 500+ by Mar 30
-- [ ] **Refs:** 200+ v2.0 compliant by Mar 15
-- [ ] **IRB:** Submitted by Mar 15
-- [ ] **Cohort:** N=50 recruited by May 15
-- [ ] **Commits:** Daily (tracking progress)
+### Quantitative (2026 Targets)
+- [x] **Zettels:** 1,095+ ✅ (exceeded 500 target)
+- [x] **Refs:** 195+ v2.0 compliant ✅ (approaching 200)
+- [ ] **IRB/ClinicalTrials.gov:** Q3 2026 (university delays)
+- [ ] **Cohort:** N=50 recruited — pending trial approval
+- [x] **Commits:** 90+ ✅ (daily tracking active)
+- [x] **FORG Agent:** Deployed April 7, 2026 ✅
 
 ### Qualitative
 - [ ] **Flow state:** Minimal friction, maximal output

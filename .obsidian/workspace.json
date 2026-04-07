@@ -107,13 +107,24 @@
             "id": "64120ee807f0bd00",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Base.base",
-                "viewName": "Table"
+                "file": "00-INDEX.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Base"
+              "icon": "lucide-file",
+              "title": "00-INDEX"
             }
           }
         ],
@@ -293,7 +304,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3defb34dd9bafdc5",
+  "active": "64120ee807f0bd00",
   "lastOpenFiles": [
     "00-MISSION.md",
     "Base.base",
