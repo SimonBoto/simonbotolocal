@@ -117,10 +117,24 @@
             "id": "24c22f83bdd3ec48",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01-Literature/CGPT_0549_Chemical_Type_of_Ascorbate_L-101-0049.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CGPT_0549_Chemical_Type_of_Ascorbate_L-101-0049"
             }
           }
         ],
@@ -302,6 +316,10 @@
   },
   "active": "24c22f83bdd3ec48",
   "lastOpenFiles": [
+    "03-Zettels/Conscious/Vitamin_C_Supplementation_Risk_Assessment_Z-101-0551.md",
+    "03-Zettels/Conscious/Ascorbate_to_Oxalate_Conversion_Pathway_Z-101-0550.md",
+    "03-Zettels/Conscious/Ascorbate_Chemical_Structure_Z-101-0549.md",
+    "01-Literature/CGPT_0549_Chemical_Type_of_Ascorbate_L-101-0049.md",
     "README-QMD-TEST.md",
     "07-Projects/Tools/QMD_Advanced_Optimization_Proposal_S-001-0016.md",
     "07-Projects/Tools/QMD_Optimization_S-001-0015.md",
@@ -324,10 +342,6 @@
     "09-Archive/09-Archive-Index.md",
     "07-Projects/Personal/Personal-Index.md",
     "07-Projects/PhD/PhD-Index.md",
-    "07-Projects/Clinic/Clinic-Index.md",
-    "08-Structure/Templates/Templates-Index.md",
-    "08-Structure/Protocols/Protocols-Index.md",
-    "08-Structure/System/System-Index.md",
     "Base.base",
     "Base File All Notes.base",
     "08-Structure/System/Vault_Inventory.base",
