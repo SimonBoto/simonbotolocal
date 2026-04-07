@@ -302,6 +302,7 @@
   },
   "active": "24c22f83bdd3ec48",
   "lastOpenFiles": [
+    "README-QMD-TEST.md",
     "07-Projects/Tools/QMD_Advanced_Optimization_Proposal_S-001-0016.md",
     "07-Projects/Tools/QMD_Optimization_S-001-0015.md",
     "07-Projects/Agents/RON_Memory_Architecture_S-001-0014.md",
@@ -327,7 +328,6 @@
     "08-Structure/Templates/Templates-Index.md",
     "08-Structure/Protocols/Protocols-Index.md",
     "08-Structure/System/System-Index.md",
-    "08-Structure/Dashboards/Dashboards-Index.md",
     "Base.base",
     "Base File All Notes.base",
     "08-Structure/System/Vault_Inventory.base",
