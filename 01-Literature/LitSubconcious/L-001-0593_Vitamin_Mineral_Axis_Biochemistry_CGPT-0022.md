@@ -87,23 +87,10 @@ reviewed_by: PENDING
 ## Related References
 - [[Microbiome_Gut_Brain_Terminology_Z-001-1045]]
 
-zettels-created: 7
-extraction-quality: GOLD
----
-
-## Status Checklist
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [x] Zettel links use FULL format
-- [x] Source Reference section added
-- [x] Post-extraction verification complete
-
-zettels-created: 7
-extraction-quality: GOLD
 ---
 
 ## Source Reference
 This literature note was extracted from: [[CGPT_0022_Metabolomics_training_role_CGPT-0022]]
 
-*Literature note processed: 2026-03-08 | Upgraded: 2026-04-06*
-*Zettels extracted: 6*
-*Status: extracted*
+*Literature note processed: 2026-04-07 | FORG v3.0*  
+*Zettels extracted: 7 | Status: extracted*
