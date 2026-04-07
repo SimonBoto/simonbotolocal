@@ -26,7 +26,7 @@ status: active
 | **🎯 Personal** | [[Personal Index]] | ⏸️ On hold | P2 |
 | **🛠️ Tools** | [[Tools Index]] | 🟡 In Progress | P1 |
 | **🤖 Agents** | [[Agents Index]] | 🟡 In Design | P1 |
-| **⚡ Extraction** | [[Extraction Index]] | 🟡 Active | P0 |
+| **🤖 Agents** | [[Agents Index]] | ✅ Operational | P1 |
 
 ---
 
@@ -44,10 +44,6 @@ status: active
 ### Personal
 - [[Personal Index]] — Personal projects hub
 
-### Extraction
-- [[Extraction Index]] — Knowledge extraction programs
-- [[CGPT_Extraction_Program_S-001-0003]] — CGPT + Facebook extraction (180/857 sources)
-
 ### Tools
 - [[Tools Index]] — Tools and automation projects
 - [[ZettelForge_Concept_S-001-0001]] — Assisted extraction system (concept)
@@ -57,38 +53,39 @@ status: active
 
 ### Agents
 - [[Agents Index]] — Multi-agent system projects
-- [[WORKER_Agent_Project_S-001-0004]] — WORKER agent setup (🟡 In Design)
+- [[FORG_Agent_Project_S-001-0004]] — FORG agent (✅ Operational 2026-04-07)
 
 ### Extraction
 - [[Extraction Index]] — Knowledge extraction programs
-- [[CGPT_Extraction_Program_S-001-0003]] — CGPT + Facebook extraction (180/857 sources)
-- [[CGPT_0264_Resumption_S-001-0006]] — Complete CGPT_0264 (🟡 Paused)
+- [[CGPT_Extraction_Program_S-001-0003]] — CGPT + Facebook extraction (17/688 anchors)
+- [[CGPT_0264_Resumption_S-001-0006]] — Complete CGPT_0264 (⏸️ Paused)
 
 ---
 
-## 🎯 CURRENT FOCUS
+## 🎯 ACTIVE SPRINT
 
-### This Week (April 6-13, 2026)
+**For daily standup and current priorities, see [[PROJECT_CONTROL_BOARD]].**
 
-**Clinic (P1):**
-- [ ] Extract doctors training curriculum from bootcamp zettels
-- [ ] Create appointment preparation checklists
-- [ ] Design result email templates
+### This Week (April 7-14, 2026)
 
-**PhD (Blocked but parallel work possible):**
-- [ ] Draft P1 hypothesis introduction (insulin resistance)
-- [ ] Literature search on Vitamin D/K2 synergy
-- [ ] Extract 5 GOLD references
+**Agents (P0):**
+- [x] Configure FORG agent ✅
+- [x] Test FORG → RON workflow ✅
+- [ ] First real extraction task (CGPT_0264)
 
 **Extraction (P0):**
-- [ ] Resume CGPT_0264 (6 LitNotes remaining)
-- [ ] Configure WORKER model for ZettelForge
-- [ ] Process CGPT-0133 (28 LitNotes)
+- [ ] Resume CGPT_0264 with FORG (6 LitNotes remaining)
+- [ ] Process CGPT-0133 (28 LitNotes) — after FORG proven
 
 **Tools (P1):**
-- [ ] Draft CGPT parser (minimal viable)
-- [ ] Test Worker → RON workflow
-- [ ] Build QMD index
+- [x] Model cleanup ✅
+- [ ] QMD embeddings complete (background)
+
+**Clinic (P2):**
+- [ ] Extract training curriculum — queue for post-CGPT_0264
+
+**PhD (P2, blocked):**
+- [ ] Parallel reading only — university block continues
 
 **Personal:**
 - [ ] None — deprioritized
@@ -103,8 +100,9 @@ status: active
 | Clinic Training | 🟡 In progress | Time | April 6, 2026 |
 | PhD METHAP | 🔴 Blocked | University | April 6, 2026 |
 | PhD Literature | 🟢 Active | None | April 6, 2026 |
-| CGPT Extraction | 🟡 Active | 180/857 sources | April 6, 2026 |
-| ZettelForge | 🟡 Concept | WORKER model config | April 6, 2026 |
+| CGPT Extraction | 🟡 Active | 17/688 anchors | April 7, 2026 |
+| FORG Agent | ✅ Operational | None | April 7, 2026 |
+| ZettelForge | 🟡 Ready | FORG pilot | April 7, 2026 |
 | Personal | ⚪ On hold | Higher priorities | April 6, 2026 |
 
 ---
