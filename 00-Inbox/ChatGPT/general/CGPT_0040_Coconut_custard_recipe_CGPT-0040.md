@@ -2461,4 +2461,4 @@ Would you like me to write out a **low-carb / metabolically gentle version** (e.
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

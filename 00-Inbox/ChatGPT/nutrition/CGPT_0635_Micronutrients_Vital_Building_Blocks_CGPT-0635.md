@@ -116,4 +116,4 @@ Please note that while I strive to provide accurate and up-to-date information, 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

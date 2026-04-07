@@ -6,7 +6,7 @@ aliases: [MOC-Cancer-Immunology, Cancer-Immunology-MOC, MOC-Cancer-Immune]
 domain: 002
 description: "Cancer-immune system interactions, immunotherapy mechanisms, and anti-tumor immunity"
 tags: [moc, cancer, immunology, immunotherapy, metastasis, t-cells, platelets, aspirin, txa2, immune-surveillance]
-parent-moc: "[[MOCs Index]]"
+parent-moc: "[[MOCs-Index]]"
 status: active
 created: 2026-04-05
 last-updated: 2026-04-05

@@ -107,24 +107,10 @@
             "id": "64120ee807f0bd00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-INDEX.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "00-INDEX"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -306,6 +292,8 @@
   },
   "active": "64120ee807f0bd00",
   "lastOpenFiles": [
+    "00-MISSION.md",
+    "00-INDEX.md",
     "08-Structure/08-Structure-Index.md",
     "07-Projects/07-Projects-Index.md",
     "08-Structure/MOCs/MOCs-Index.md",
@@ -330,11 +318,9 @@
     "01-Literature/01-Literature-Index.md",
     "08-Structure/Templates/Template_Index_v2.0.md",
     "01-Literature/01-Literature.md",
-    "00-MISSION.md",
     "Base.base",
     "Base File All Notes.base",
     "08-Structure/System/Vault_Inventory.base",
-    "07-Projects/Tools/QMD_Embedding_Project_S-001-0005.md",
     "07-Projects/Agents",
     "07-Projects/Extraction",
     "07-Projects/Tools",

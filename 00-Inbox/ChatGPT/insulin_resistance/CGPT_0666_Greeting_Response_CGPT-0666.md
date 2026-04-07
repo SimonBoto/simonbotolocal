@@ -194,4 +194,4 @@ Therefore, GSH plays a crucial role in the degradation of 2-OHB by providing the
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

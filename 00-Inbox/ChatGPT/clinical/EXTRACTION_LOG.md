@@ -111,4 +111,4 @@
 - Remaining clinical: ~70 files (many short/operational)
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

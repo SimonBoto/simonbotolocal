@@ -146,4 +146,4 @@ This is a high-level overview and can be further detailed as per the specific ne
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

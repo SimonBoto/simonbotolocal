@@ -4,7 +4,7 @@ type: moc
 title: MOC — Clinical Protocols
 aliases: [MOC_Clinical_Protocols, Clinical_Protocols]
 tags: [moc, clinical, protocols]
-parent-moc: "[[MOCs Index]]"
+parent-moc: "[[MOCs-Index]]"
 status: active
 created: 2026-02-15
 last-updated: 2026-02-22
@@ -82,4 +82,4 @@ last-updated: 2026-02-22
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]

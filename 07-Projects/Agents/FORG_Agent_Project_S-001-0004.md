@@ -109,11 +109,11 @@ CGPT Source → FORG drafts LitNote → RON reviews → Vault
 - [[ZettelForge_Concept_S-001-0001]] — Multi-agent system design
 - [[CGPT_Extraction_Program_S-001-0003]] — CGPT workflow
 - [[CGPT_0264_Resumption_S-001-0006]] — First FORG pilot target
-- [[Agents Index]] — All agent projects
+- [[Agents-Index]] — All agent projects
 
 ---
 *Evolved from WORKER concept to FORG reality — 2026-04-07*
 
 ---
-parent-index: [[07 Projects Index]]
+parent-index: [[07-Projects-Index]]
 parent-moc: [[MOC-Agent-Systems]]

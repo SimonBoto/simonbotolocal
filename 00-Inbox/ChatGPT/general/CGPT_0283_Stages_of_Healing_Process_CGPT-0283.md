@@ -852,4 +852,4 @@ The preparation of ayahuasca is as much a spiritual and cultural practice as it 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

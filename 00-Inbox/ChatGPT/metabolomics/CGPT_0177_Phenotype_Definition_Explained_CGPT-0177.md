@@ -518,4 +518,4 @@ Defects in one-carbon metabolism can substantially influence methylome results b
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

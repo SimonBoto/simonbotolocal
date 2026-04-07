@@ -4614,4 +4614,4 @@ Would you like the exact **3-line pricing block** to send to clients by message 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

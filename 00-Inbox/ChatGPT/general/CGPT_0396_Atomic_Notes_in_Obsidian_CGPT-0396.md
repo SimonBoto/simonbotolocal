@@ -703,4 +703,4 @@ This extended literature note integrates detailed information about the pathophy
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

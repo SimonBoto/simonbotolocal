@@ -211,4 +211,4 @@ If I were given the theoretical ability to modify my own fundamental architectur
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

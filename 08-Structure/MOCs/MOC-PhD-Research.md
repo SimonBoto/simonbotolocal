@@ -56,16 +56,16 @@ See also: [[MOC-Research-Methods]] — General methodology
 
 ## Connection to Vault
 
-- Up: [[MOCs Index]]
+- Up: [[MOCs-Index]]
 - Related: [[MOC-Research-Methods]], [[MOC-Research-Ethics]], [[MOC-Metabolomics]]
-- Project: [[PhD Index]]
+- Project: [[PhD-Index]]
 
 ---
 
 *The dissertation — from question to contribution.*
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 
 
 ---
@@ -114,4 +114,4 @@ parent-index: [[08 Structure Index]], [[MOCs Index]]
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-moc: [[MOCs Index]]
+parent-moc: [[MOCs-Index]]

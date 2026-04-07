@@ -1130,4 +1130,4 @@ Would you like me to **propose a safe Anticipated Enrollment strategy** next (ba
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

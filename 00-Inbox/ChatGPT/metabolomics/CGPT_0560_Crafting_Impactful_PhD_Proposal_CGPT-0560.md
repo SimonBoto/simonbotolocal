@@ -636,4 +636,4 @@ These studies underscore the potential of metabolomics in providing early and ac
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -266,4 +266,4 @@ These are some of the known metabolites of DHA. The specific metabolic fate of D
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

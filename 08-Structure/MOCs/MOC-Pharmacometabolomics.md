@@ -4,7 +4,7 @@ type: moc
 title: MOC — Pharmacometabolomics
 aliases: [MOC_Pharmaco, MOC_Precision_Medicine, MOC_Metabolomics_Clinical]
 tags: [moc, pharmacometabolomics, precision-medicine, metabolomics, drug-response]
-parent-moc: "[[MOCs Index]]"
+parent-moc: "[[MOCs-Index]]"
 created: 2026-03-03
 ---
 
@@ -117,4 +117,4 @@ Precision medicine through metabolomics — understanding drug response, individ
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]

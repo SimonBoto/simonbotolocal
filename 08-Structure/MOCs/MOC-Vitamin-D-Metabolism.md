@@ -157,4 +157,4 @@ vit_d_baseline_ng_ml, vit_d_3mo_ng_ml, vit_d_6mo_ng_ml, vit_d_dose_iu_daily
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]

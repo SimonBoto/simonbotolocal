@@ -7,8 +7,8 @@ status: planned
 created: 2026-04-07
 aliases: [CGPT-0133, Bone-Health, Calcium-Metabolism]
 tags: [extraction, cgpt, bone, calcium, vitamin-d, planned]
-parent-moc: [[Extraction Index]]
-parent-index: [[07 Projects Index]]
+parent-moc: [[Extraction-Index]]
+parent-index: [[07-Projects-Index]]
 ---
 
 # CGPT_0133 Bone & Calcium Extraction Project

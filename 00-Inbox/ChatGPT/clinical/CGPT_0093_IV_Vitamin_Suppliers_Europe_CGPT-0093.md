@@ -377,4 +377,4 @@ Below is a list of ten prominent bulk suppliers or producers of **intravenous (I
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

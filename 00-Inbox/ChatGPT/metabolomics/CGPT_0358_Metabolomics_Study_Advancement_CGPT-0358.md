@@ -374,4 +374,4 @@ To create a comprehensive and effective plan for developing your paper titled "I
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

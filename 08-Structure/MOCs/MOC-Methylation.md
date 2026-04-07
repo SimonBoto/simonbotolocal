@@ -1,6 +1,6 @@
 
 ---
-parent-index: [[08 Structure Index]]
+parent-index: [[08-Structure-Index]]
 
 
 ---
@@ -49,4 +49,4 @@ parent-index: [[08 Structure Index]]
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-moc: [[MOCs Index]]
+parent-moc: [[MOCs-Index]]

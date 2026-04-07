@@ -73,4 +73,4 @@ This schedule documentation supports:
 🦞 **RON — documenting the schedule that protects your deep work**
 
 ---
-parent-index: [[07 Projects Index]], [[Clinic Index]]
+parent-index: [[07-Projects-Index]], [[Clinic-Index]]

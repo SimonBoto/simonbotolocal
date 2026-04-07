@@ -2228,4 +2228,4 @@ This version maintains the core elements of your feedback while ensuring clarity
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -6,7 +6,7 @@ aliases: ["MOC-Metabolic-Pathways", "Metabolic-Pathways-MOC"]
 domain: "001"
 description: "Comprehensive map of metabolic pathways including biosynthesis, catabolism, and interconnections"
 tags: ["moc", "metabolism", "pathways", "biosynthesis", "active"]
-parent-moc: "[[MOCs Index]]"
+parent-moc: "[[MOCs-Index]]"
 status: "active"
 created: "2026-04-04"
 last-updated: "2026-04-04"
@@ -98,4 +98,4 @@ last-updated: "2026-04-04"
 ---
 *Last updated: 2026-04-04 | Status: active*
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]

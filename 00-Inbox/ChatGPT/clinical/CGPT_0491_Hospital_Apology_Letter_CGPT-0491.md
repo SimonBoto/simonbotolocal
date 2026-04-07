@@ -117,4 +117,4 @@ Please note that the tone and content of this letter should be carefully reviewe
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

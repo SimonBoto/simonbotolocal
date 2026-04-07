@@ -2685,4 +2685,4 @@ Would you like me to continue with the content, or is there another way I can as
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

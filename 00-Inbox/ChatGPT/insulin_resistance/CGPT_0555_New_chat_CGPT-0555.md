@@ -168,4 +168,4 @@ Remember that these questionnaires are valuable tools, but a definitive diagnosi
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

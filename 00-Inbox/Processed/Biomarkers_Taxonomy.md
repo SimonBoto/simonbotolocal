@@ -323,4 +323,4 @@ parent-moc: [[06-Structure/MOCs/MOC-Biomarkers]
 *Based on: 220 atomic notes, 128 references*
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

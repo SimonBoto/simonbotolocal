@@ -122,4 +122,4 @@ Got it! If you have any specific questions or need assistance on a particular to
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

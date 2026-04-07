@@ -7,8 +7,8 @@ status: research
 created: 2026-04-07
 aliases: [BEESWAX-BUSINESS, Tallow-Cream, Side-Business]
 tags: [personal, business, beeswax, tallow, skincare, research]
-parent-moc: [[Personal Index]]
-parent-index: [[07 Projects Index]]
+parent-moc: [[Personal-Index]]
+parent-index: [[07-Projects-Index]]
 ---
 
 # Beeswax-Tallow Edible Cream Business
@@ -77,7 +77,7 @@ parent-index: [[07 Projects Index]]
 
 ## Related
 
-- [[Personal Index]] — Other personal projects
+- [[Personal-Index]] — Other personal projects
 - Clinic patient conversations — Natural skincare interest?
 - Athens apiaries — Potential beeswax source
 

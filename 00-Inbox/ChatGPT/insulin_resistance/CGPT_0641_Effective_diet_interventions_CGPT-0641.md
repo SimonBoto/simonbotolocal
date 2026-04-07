@@ -259,4 +259,4 @@ It is essential to consult with a healthcare professional before starting any su
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

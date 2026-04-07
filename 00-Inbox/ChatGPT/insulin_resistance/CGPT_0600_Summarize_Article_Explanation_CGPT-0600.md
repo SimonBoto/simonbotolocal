@@ -108,4 +108,4 @@ Tumor metabolism is intricately linked with energy production, growth, and survi
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

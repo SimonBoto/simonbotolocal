@@ -441,4 +441,4 @@ Starting your search with these steps will provide a strong foundation for your 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

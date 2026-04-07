@@ -1275,4 +1275,4 @@ These plugins can help automate and enhance your note-taking process by leveragi
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

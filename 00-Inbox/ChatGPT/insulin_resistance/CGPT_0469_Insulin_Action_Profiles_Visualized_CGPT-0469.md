@@ -2886,4 +2886,4 @@ In summary, while it's challenging to quantify the exact plasma insulin level fo
 *See  for navigation.*
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

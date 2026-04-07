@@ -806,4 +806,4 @@ The Vitamin D3 provided to you is in the form of a pro-vitamin and does not caus
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

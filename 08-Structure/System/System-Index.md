@@ -4,8 +4,8 @@ type: index
 title: "System Index"
 date: 2026-04-06
 tags: [index, system, infrastructure]
-parent-moc: [[08 Structure Index]]
-parent-index: [[08 Structure Index]]
+parent-moc: [[08-Structure-Index]]
+parent-index: [[08-Structure-Index]]
 ---
 
 # System Index
@@ -37,8 +37,8 @@ parent-index: [[08 Structure Index]]
 
 ## Connection to Vault
 
-- Up: [[08 Structure Index]]
-- Related: [[Dashboards Index]], [[Protocols Index]]
+- Up: [[08-Structure-Index]]
+- Related: [[Dashboards-Index]], [[Protocols-Index]]
 
 ---
 

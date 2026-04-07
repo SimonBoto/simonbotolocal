@@ -117,4 +117,4 @@ If you have any specific clinical considerations or want to discuss iron's role 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

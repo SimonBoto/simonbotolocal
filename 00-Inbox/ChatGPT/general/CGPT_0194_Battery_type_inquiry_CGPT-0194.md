@@ -59,4 +59,4 @@ I cannot read text or details directly from images, but based on the shape and s
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

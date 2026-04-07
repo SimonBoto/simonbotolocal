@@ -322,4 +322,4 @@ If you or someone you know is considering using sodium bicarbonate for cancer or
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

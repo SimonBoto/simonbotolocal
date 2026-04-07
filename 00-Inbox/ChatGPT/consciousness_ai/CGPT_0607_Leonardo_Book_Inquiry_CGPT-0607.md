@@ -152,4 +152,4 @@ Please note that you would need to use these resources as supplements to Gelb's 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

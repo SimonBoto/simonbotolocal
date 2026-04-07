@@ -1168,4 +1168,4 @@ I’ll continue with the subsequent parts, ensuring that the references are list
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

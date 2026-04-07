@@ -45,7 +45,7 @@ parent-moc: [[MOC-Vitamin-Mineral-Axis]]
 
 - **Up:** [[03-Zettels-Index]]
 - **Related:** [[Biomarkers-Index]] | [[MOC-Vitamin-Mineral-Axis]]
-- **Clinic:** [[Clinic Index]]
+- **Clinic:** [[Clinic-Index]]
 
 ---
 *Supplements are tools — precise knowledge enables precise use.*

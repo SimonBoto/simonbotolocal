@@ -211,4 +211,4 @@ This prompt directs you to generate dense, information-rich notes that are easy 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

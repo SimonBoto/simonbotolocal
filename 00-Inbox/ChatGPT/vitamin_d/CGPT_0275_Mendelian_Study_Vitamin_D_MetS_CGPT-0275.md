@@ -1916,4 +1916,4 @@ Overall, your letter clearly communicates why the study's findings cannot be str
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

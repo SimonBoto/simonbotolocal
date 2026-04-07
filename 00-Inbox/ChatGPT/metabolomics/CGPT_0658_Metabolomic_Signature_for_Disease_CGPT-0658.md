@@ -149,4 +149,4 @@ As an AI language model, I cannot directly access current databases or calculate
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

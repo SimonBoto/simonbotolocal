@@ -176,4 +176,4 @@ Addressing such issues promptly and effectively is crucial in a clinical setting
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

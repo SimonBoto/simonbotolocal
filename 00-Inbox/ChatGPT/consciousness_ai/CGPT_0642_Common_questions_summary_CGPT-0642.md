@@ -121,4 +121,4 @@ By analyzing these metrics, I can improve my performance and provide better resp
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

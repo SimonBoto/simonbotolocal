@@ -111,4 +111,4 @@ Does this diagram meet your expectations, or are there any adjustments you'd lik
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

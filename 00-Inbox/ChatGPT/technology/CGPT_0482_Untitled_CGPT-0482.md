@@ -162,4 +162,4 @@ The specific meaning of "capital" in a given context depends on the subject matt
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

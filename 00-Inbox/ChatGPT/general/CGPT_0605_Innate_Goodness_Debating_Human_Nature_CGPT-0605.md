@@ -119,4 +119,4 @@ It's important to note that these data points do not conclusively answer the que
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -71,4 +71,4 @@ Given the complexity of this area and the potential for serious conditions, a mu
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

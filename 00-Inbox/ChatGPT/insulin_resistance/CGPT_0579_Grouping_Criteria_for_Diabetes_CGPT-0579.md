@@ -324,4 +324,4 @@ Please note that you should verify these references for accuracy and relevance t
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

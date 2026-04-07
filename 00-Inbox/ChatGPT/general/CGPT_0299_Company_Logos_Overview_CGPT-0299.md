@@ -918,4 +918,4 @@ While AI has clear advantages in many technical and repetitive tasks, human invo
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

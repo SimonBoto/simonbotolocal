@@ -112,4 +112,4 @@ It's important to note that while this cycle allows glucose to be regenerated fr
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -2791,4 +2791,4 @@ I have compiled a **comprehensive list** of all the **supplements, herbs, and nu
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

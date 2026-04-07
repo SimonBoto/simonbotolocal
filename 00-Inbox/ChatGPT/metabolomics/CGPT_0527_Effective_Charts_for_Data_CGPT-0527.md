@@ -675,4 +675,4 @@ This type of diagram would be most effectively created using specialized graphic
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

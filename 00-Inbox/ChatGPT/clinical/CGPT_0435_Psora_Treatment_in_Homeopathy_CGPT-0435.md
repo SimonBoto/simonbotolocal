@@ -333,4 +333,4 @@ Sulfur's role in dermatology, especially its natural sources and synthetic produ
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -73,4 +73,4 @@ I'm just a virtual assistant and don't have real-time awareness of external issu
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -1536,4 +1536,4 @@ If the second still shows an Ollama timeout, we’ll adjust one thing (the disco
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

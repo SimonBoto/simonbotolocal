@@ -261,4 +261,4 @@ I apologize for any confusion. While I don't store conversations for future acce
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

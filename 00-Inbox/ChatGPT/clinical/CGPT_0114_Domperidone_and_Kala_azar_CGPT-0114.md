@@ -112,4 +112,4 @@ If you're considering using domperidone in an adjunctive role in leishmaniasis, 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

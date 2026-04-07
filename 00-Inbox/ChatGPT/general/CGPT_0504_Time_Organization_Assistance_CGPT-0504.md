@@ -59,4 +59,4 @@ Of course! I'd be happy to help you with organizing your time. What specific are
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

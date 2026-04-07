@@ -581,4 +581,4 @@ Although Avogadro's number cannot be derived from first principles alone, theore
 *See  for navigation.*
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

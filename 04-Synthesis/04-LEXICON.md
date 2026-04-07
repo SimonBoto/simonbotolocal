@@ -216,4 +216,4 @@ Terms that signal something went wrong.
 *Precision in language → precision in collaboration.*
 
 ---
-parent-index: [[08 Structure Index]], [[System Index]]
+parent-index: [[08-Structure-Index]], [[System-Index]]

@@ -289,4 +289,4 @@ No fills, no pastels, just what you asked for: **pure linework** and subtle symb
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

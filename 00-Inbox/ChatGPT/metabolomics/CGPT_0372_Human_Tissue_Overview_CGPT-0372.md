@@ -2355,4 +2355,4 @@ While the Ebers Papyrus is one of the oldest and most comprehensive medical text
 *See  for navigation.*
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

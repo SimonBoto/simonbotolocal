@@ -317,4 +317,4 @@ By combining clear communication, patient involvement, and personalized tools, y
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

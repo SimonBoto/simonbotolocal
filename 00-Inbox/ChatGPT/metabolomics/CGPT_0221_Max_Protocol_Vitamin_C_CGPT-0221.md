@@ -1070,4 +1070,4 @@ This overview is for educational purposes and does not constitute medical advice
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

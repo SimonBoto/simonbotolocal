@@ -2050,4 +2050,4 @@ Heatmaps are a powerful tool for visualizing complex datasets, but as with any v
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

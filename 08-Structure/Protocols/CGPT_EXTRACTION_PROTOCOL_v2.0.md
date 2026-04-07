@@ -254,4 +254,4 @@ NEXT: [Next batch or completion]
 *For: Thirtyfold Path — CGPT Archive synthesis*
 *Enforced by: RON (Research & Operations Navigator)*
 ---
-parent-index: [[08 Structure Index]], [[Protocols Index]]
+parent-index: [[08-Structure-Index]], [[Protocols-Index]]

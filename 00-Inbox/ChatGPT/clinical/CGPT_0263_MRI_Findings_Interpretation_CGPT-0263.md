@@ -156,4 +156,4 @@ In conclusion, the PI-RADS 4 rating and elevated PSA both support the need for a
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

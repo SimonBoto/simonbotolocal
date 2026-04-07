@@ -51,16 +51,16 @@ From [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]:
 
 ## Connection to Vault
 
-- Up: [[MOCs Index]]
+- Up: [[MOCs-Index]]
 - Related: [[MOC-Research-Methods]], [[MOC-Clinical-Protocols]]
-- PhD: [[PhD Index]]
+- PhD: [[PhD-Index]]
 
 ---
 
 *The guardrails — ethics enable trustworthy science.*
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 
 
 ---
@@ -109,4 +109,4 @@ parent-index: [[08 Structure Index]], [[MOCs Index]]
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-moc: [[MOCs Index]]
+parent-moc: [[MOCs-Index]]

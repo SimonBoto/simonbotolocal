@@ -260,4 +260,4 @@ These points emphasize the need for a holistic and individualized approach when 
 *See  for navigation.*
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -321,4 +321,4 @@ Thus, if you’re using B6 as part of a B-complex formulation, the risk of imbal
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

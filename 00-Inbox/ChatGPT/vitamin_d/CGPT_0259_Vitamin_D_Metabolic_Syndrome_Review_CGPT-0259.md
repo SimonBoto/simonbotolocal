@@ -226,4 +226,4 @@ These trials provide valuable insights into the role of high-dose vitamin D supp
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -366,4 +366,4 @@ This detailed approach sets a solid foundation for rigorously analyzing and disc
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

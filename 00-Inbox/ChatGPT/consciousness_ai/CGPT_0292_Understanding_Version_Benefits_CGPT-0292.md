@@ -267,4 +267,4 @@ Feel free to ask for assistance in any of these areas at any time. I'm here to s
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

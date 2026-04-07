@@ -6,7 +6,7 @@ domain: 001
 domain-name: System
 tags: [synthesis, extraction, cgpt, facebook, zettelkasten, workflow]
 parent-moc: [[MOC-CGPT-Archive]]
-parent-index: [[07 Projects Index]]
+parent-index: [[07-Projects-Index]]
 status: active
 created: 2026-04-06
 updated: 2026-04-06

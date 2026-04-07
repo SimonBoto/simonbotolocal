@@ -558,4 +558,4 @@ as you can see i am trying to add a small chapter MITOCHONDRIAL-TARGETED INTERVE
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

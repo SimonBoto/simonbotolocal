@@ -411,4 +411,4 @@ HPA AXIS DYSREGULATION
 *Based on: 35+ IR-related atomic notes*
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -718,4 +718,4 @@ You're right; if there were a significant number of case reports detailing serio
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

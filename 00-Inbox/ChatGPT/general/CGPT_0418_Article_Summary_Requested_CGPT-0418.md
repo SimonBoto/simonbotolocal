@@ -119,4 +119,4 @@ It seems there was a misunderstanding—I can't directly access files to read or
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

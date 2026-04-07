@@ -307,4 +307,4 @@ Would you like me to provide a **structured clinical protocol (triage → diagno
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

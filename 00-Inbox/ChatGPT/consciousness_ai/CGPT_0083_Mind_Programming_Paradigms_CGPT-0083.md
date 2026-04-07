@@ -2254,4 +2254,4 @@ Would you like a postulate ritual or tone anchor phrase to **reverse ceding inst
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -122,4 +122,4 @@ Here is the visual representation of the flowchart for your study on Insulin Res
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

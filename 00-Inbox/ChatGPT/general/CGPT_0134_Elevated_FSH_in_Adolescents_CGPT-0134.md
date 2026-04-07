@@ -143,4 +143,4 @@ Would you like any additional guidance on follow-up or fertility considerations?
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

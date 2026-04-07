@@ -128,4 +128,4 @@ It’s important for patients and healthcare providers to monitor these side eff
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

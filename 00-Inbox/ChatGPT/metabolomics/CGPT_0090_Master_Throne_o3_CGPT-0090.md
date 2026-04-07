@@ -2294,4 +2294,4 @@ With those two clarifications in place, no remaining gaps are likely to trigger 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

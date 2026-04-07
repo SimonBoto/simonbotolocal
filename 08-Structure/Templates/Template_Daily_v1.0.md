@@ -12,7 +12,7 @@ type: daily-note
 date: {{YYYY-MM-DD}}
 day: {{Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday}}
 tags: [daily, {{topic-tags}}]
-parent-index: [[08 Structure Index]]
+parent-index: [[08-Structure-Index]]
 ---
 
 # Daily Note — {{YYYY-MM-DD}} — {{Day}}
@@ -57,4 +57,4 @@ parent-index: [[08 Structure Index]]
 *Created: {{YYYY-MM-DD}} {{HH:MM}}*
 
 ---
-parent-index: [[08 Structure Index]]
+parent-index: [[08-Structure-Index]]

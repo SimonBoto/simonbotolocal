@@ -88,4 +88,4 @@ As a medical doctor specializing in metabolomics and with a background in insuli
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

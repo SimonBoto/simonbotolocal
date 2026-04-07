@@ -2029,4 +2029,4 @@ You mentioned that the paper "achieves a novel perspective on the disease's mole
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

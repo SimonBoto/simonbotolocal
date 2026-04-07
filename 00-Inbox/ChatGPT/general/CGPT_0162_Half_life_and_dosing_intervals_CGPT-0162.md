@@ -809,4 +809,4 @@ While vitamin A's fat-solubility does present a higher inherent risk of toxicity
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

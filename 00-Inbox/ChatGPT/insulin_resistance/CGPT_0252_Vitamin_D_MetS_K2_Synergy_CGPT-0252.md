@@ -1313,4 +1313,4 @@ This comprehensive review consolidates the extensive research on vitamin K, part
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

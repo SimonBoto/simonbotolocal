@@ -693,4 +693,4 @@ This integrated perspective suggests that, while Seyfried’s work underscores t
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

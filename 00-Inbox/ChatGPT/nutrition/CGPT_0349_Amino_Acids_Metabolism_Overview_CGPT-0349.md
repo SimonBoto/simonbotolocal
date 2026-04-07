@@ -96,4 +96,4 @@ This table provides a concise overview of the metabolic fates of these amino aci
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

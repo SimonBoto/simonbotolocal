@@ -376,4 +376,4 @@ This case report is structured to clearly present the problem, assessment, inter
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

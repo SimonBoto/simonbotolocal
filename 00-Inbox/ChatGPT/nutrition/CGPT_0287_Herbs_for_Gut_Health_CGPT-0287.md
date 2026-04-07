@@ -378,4 +378,4 @@ This comprehensive approach aims to restore balance and promote healing within t
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

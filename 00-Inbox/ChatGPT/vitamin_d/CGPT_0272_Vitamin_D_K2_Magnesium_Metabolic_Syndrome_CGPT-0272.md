@@ -418,4 +418,4 @@ This extended outline ensures each section is thoroughly planned, facilitating a
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

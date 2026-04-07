@@ -368,4 +368,4 @@ If you can find an existing app that meets your needs, this could certainly be a
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

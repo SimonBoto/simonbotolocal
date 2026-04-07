@@ -457,4 +457,4 @@ Each of these donors plays a role in cellular processes by contributing protons 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

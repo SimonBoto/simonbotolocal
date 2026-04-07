@@ -218,4 +218,4 @@ If you provide specifics for any sections (e.g., desired subsections or study de
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

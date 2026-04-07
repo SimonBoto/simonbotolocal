@@ -249,4 +249,4 @@ In summary, while the current design can provide insights into the metabolites a
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

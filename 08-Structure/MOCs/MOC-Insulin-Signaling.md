@@ -5,7 +5,7 @@ type: moc
 title: MOC — Insulin Signaling
 aliases: [MOC_Insulin, MOC_INSR, MOC_Insulin_Signaling]
 tags: [moc, insulin, signaling, metabolism, phd]
-parent-moc: "[[MOCs Index]]"
+parent-moc: "[[MOCs-Index]]"
 created: 2026-02-22
 ---
 
@@ -172,4 +172,4 @@ The insulin signaling pathway mediates glucose homeostasis through receptor tyro
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]

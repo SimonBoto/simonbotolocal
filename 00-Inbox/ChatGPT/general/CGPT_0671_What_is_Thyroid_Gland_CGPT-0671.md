@@ -662,4 +662,4 @@ For most people, lectins are not a concern and a well-rounded diet that includes
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

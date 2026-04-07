@@ -851,4 +851,4 @@ By focusing on your contributions, fostering a collaborative environment, and ad
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

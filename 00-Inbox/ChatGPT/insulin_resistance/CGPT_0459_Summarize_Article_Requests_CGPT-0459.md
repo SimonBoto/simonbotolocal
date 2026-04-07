@@ -321,4 +321,4 @@ In summary, the evidence from the references you provided suggests that glutamin
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

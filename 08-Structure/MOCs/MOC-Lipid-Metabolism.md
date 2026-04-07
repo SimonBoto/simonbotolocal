@@ -60,7 +60,7 @@ See also: [[MOC-Cholesterol-Quality]] — Cholesterol quality assessment
 
 ## Connection to Vault
 
-- Up: [[MOCs Index]]
+- Up: [[MOCs-Index]]
 - Related: [[MOC-Cholesterol-Quality]], [[MOC-Ketogenesis]], [[MOC-Metabolic-Syndrome]]
 - Metabolism: [[MOC-Mitochondrial-Function]]
 
@@ -69,7 +69,7 @@ See also: [[MOC-Cholesterol-Quality]] — Cholesterol quality assessment
 *The fat pathways — energy storage and cellular building blocks.*
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 
 
 ---
@@ -118,4 +118,4 @@ parent-index: [[08 Structure Index]], [[MOCs Index]]
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-moc: [[MOCs Index]]
+parent-moc: [[MOCs-Index]]

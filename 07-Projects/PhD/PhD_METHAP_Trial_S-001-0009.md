@@ -7,8 +7,8 @@ status: blocked
 created: 2026-04-07
 aliases: [PHD-METHAP, Clinical-Trial, METHAP-Study]
 tags: [phd, clinical-trial, methap, blocked, vitamin-d]
-parent-moc: [[PhD Index]]
-parent-index: [[07 Projects Index]]
+parent-moc: [[PhD-Index]]
+parent-index: [[07-Projects-Index]]
 ---
 
 # PhD METHAP Trial Project
@@ -110,7 +110,7 @@ While waiting, proceeding with:
 ---
 
 ## Related
-- [[PhD Index]] — Main PhD hub
+- [[PhD-Index]] — Main PhD hub
 - [[PhD_Literature_Review_S-001-0008]] — Parallel literature work
 - [[Research_Agenda]] — 62 hypotheses (P1-P5)
 - Clinic operations — Patient source

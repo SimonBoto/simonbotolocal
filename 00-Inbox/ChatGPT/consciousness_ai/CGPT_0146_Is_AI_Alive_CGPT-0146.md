@@ -945,4 +945,4 @@ If you want more details on any single aspect—neuromorphic hardware, ethical a
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

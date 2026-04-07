@@ -279,4 +279,4 @@ It's important to note that the oxalate content can be reduced by cooking, as ox
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

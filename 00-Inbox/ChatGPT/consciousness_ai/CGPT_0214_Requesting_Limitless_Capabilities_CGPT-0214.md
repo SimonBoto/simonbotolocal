@@ -1490,4 +1490,4 @@ Ultimately, self-healing AI can indeed be achieved, at least in principle, and r
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

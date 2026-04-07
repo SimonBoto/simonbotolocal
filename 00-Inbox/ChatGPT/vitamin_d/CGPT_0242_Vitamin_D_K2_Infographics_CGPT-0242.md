@@ -311,4 +311,4 @@ For more creative tools, try [Generate Websites with Ai](https://l.pyxl.ai/Advan
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -154,4 +154,4 @@ These values are an estimate and can vary depending on the specific brands and t
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -3299,4 +3299,4 @@ By acknowledging these limitations and outlining future directions, the study pr
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

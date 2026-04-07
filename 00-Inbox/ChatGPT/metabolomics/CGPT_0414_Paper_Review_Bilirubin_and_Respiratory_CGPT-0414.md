@@ -794,4 +794,4 @@ Overall, your review is well-prepared and should serve as an excellent contribut
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

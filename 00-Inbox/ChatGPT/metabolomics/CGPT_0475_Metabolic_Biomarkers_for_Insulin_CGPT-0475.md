@@ -4041,4 +4041,4 @@ As with the interventional part, please provide the missing details or let me kn
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -132,4 +132,4 @@ It's also a good idea to keep your CNC machine well-maintained and properly lubr
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

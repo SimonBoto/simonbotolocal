@@ -184,4 +184,4 @@ Contact if fatigue/symptoms are intense.
 *Received: 2026-03-31*
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

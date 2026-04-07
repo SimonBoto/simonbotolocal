@@ -104,4 +104,4 @@ In essence, while our normal cells have efficient ways to get energy from glucos
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

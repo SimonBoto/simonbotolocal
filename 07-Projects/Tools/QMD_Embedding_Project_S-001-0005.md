@@ -68,5 +68,5 @@ qmd embed --collection vault
 - [[WORKER_Agent_Project_S-001-0004]]
 
 ---
-parent-index: [[07 Projects Index]]
+parent-index: [[07-Projects-Index]]
 parent-moc: [[MOC-Tools-Infrastructure]]

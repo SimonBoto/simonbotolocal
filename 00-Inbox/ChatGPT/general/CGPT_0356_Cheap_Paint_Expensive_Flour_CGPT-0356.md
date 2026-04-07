@@ -59,4 +59,4 @@ Good morning! It sounds like you might be referring to the prices of different i
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

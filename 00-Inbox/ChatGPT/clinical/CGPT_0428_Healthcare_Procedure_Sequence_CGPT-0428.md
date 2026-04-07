@@ -142,4 +142,4 @@ For any modifications, please describe them or [edit with code](https://diagrams
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

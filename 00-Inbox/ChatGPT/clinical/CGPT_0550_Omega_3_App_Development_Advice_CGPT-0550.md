@@ -625,4 +625,4 @@ The choice largely depends on the level of engagement you expect from your users
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

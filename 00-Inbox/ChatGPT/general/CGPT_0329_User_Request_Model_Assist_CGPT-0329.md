@@ -2652,4 +2652,4 @@ If you need any further details or adjustments, please let me know!
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

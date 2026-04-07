@@ -5,7 +5,7 @@ description: "Master navigation hub for mitochondrial biochemistry, energy metab
 domain: "mitochondria"
 created: "2026-04-02"
 status: active
-parent-moc: "[[MOCs Index]]"
+parent-moc: "[[MOCs-Index]]"
 parent-index: "[[08-Structure/MOCs/MOCs-Index]]"
 ---
 

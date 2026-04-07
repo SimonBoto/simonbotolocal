@@ -428,4 +428,4 @@ These notes provide a varied perspective on the multifaceted issues surrounding 
 *See  for navigation.*
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -522,4 +522,4 @@ In the context of metabolomics and clinical nutrition, understanding the propert
 *See  for navigation.*
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

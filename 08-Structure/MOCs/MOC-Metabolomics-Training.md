@@ -188,7 +188,7 @@ version: 2.0
 *Next review: After ΔΕ 5-8 extraction*
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 
 
 ---
@@ -260,4 +260,4 @@ Evaluation and progression:
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-moc: [[MOCs Index]]
+parent-moc: [[MOCs-Index]]

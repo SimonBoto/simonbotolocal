@@ -225,4 +225,4 @@ While the fT4/fT3 ratio is not a standard measure in routine thyroid function te
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

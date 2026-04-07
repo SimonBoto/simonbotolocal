@@ -173,4 +173,4 @@ This is a simplified overview. Depending on your familiarity with JavaScript, HT
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

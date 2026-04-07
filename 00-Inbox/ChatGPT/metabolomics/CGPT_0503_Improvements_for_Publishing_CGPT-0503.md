@@ -514,4 +514,4 @@ As a result, possible mechanistic insights and therapeutic targets are highlight
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -561,4 +561,4 @@ To support the selection of specific micronutrients in your document, you can:
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

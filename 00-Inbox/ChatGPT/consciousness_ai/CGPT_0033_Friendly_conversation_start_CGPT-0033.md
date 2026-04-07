@@ -59,4 +59,4 @@ A fresh “hey” carries the vibe of someone opening a door to a room full of h
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

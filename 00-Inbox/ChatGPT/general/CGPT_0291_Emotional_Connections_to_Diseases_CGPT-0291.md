@@ -411,4 +411,4 @@ Herbal remedies can be a valuable component of a comprehensive approach to manag
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

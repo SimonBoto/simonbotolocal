@@ -45,7 +45,7 @@ parent-moc: [[MOC-Biomarkers-Clinical]]
 
 - **Up:** [[03-Zettels-Index]]
 - **Related:** [[Supplements-Index]] | [[MOC-Biomarkers-Clinical]]
-- **Clinic:** [[Clinic Index]]
+- **Clinic:** [[Clinic-Index]]
 
 ---
 *Biomarkers bridge lab values and clinical decisions.*

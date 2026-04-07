@@ -677,4 +677,4 @@ Reaching or harnessing the complexity of human cellular and microbial networks r
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

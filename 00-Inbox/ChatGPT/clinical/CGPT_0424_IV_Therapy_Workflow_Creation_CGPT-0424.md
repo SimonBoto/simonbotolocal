@@ -114,4 +114,4 @@ Objective: Conclude the treatment session and plan for subsequent care or treatm
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

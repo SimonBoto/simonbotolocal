@@ -347,4 +347,4 @@ Would you prefer a **directly edited draft**, or do you want a **detailed restru
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

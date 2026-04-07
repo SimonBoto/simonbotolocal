@@ -4,7 +4,7 @@
 uid: 20260214141600
 tags: [moc #protocol #metabolomics #phd clinic]
 status: active
-parent-moc: "[[MOCs Index]]"
+parent-moc: "[[MOCs-Index]]"
 aliases: [Metabolomics_Protocols_MOC]
 ---
 
@@ -77,4 +77,4 @@ SORT file.ctime DESC
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]

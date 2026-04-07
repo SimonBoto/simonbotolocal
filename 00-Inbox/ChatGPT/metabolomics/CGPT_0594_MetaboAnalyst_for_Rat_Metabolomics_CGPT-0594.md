@@ -4151,4 +4151,4 @@ When reporting your findings, you can describe inter-group variability using mea
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

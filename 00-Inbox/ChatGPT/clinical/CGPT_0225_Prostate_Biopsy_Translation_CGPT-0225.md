@@ -212,4 +212,4 @@ Such findings help shape the guidelines for prostate cancer screening and manage
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

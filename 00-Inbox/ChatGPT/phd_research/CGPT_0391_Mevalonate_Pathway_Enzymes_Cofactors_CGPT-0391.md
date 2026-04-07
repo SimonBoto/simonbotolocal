@@ -477,4 +477,4 @@ Certainly! The pathway from acetyl-CoA to the formation of 3-hydroxybutyrate (on
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

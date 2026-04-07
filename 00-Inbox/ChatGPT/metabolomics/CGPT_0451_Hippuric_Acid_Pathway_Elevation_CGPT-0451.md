@@ -258,4 +258,4 @@ Thank you for your kind words! I was last updated in April 2023. Since then, I'v
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

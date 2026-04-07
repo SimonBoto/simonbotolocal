@@ -65,5 +65,5 @@ All extractions must meet **Article 1-2 Standard**:
 - [[WORKER_Agent_Project_S-001-0004]]
 
 ---
-parent-index: [[07 Projects Index]]
+parent-index: [[07-Projects-Index]]
 parent-moc: [[MOC-Extraction-Workflows]]

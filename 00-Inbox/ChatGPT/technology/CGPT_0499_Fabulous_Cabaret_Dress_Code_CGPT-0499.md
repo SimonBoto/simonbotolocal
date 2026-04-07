@@ -326,4 +326,4 @@ Remember, the key to being fashionably late is to do it with grace and considera
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

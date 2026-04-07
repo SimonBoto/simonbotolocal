@@ -1520,4 +1520,4 @@ So, we want to visit the Santa Maria in Trastevere for the candle launch. Should
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

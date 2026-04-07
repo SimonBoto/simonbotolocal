@@ -111,4 +111,4 @@ conflicts-with: []  # Contradictory references: [[Reference_...]]
 - [ ] **Duplicate check completed** (PMID search in vault)
 - [ ] **Cited-in field updated** (track which zettels use this)
 ---
-parent-index: [[08 Structure Index]], [[Templates Index]]
+parent-index: [[08-Structure-Index]], [[Templates-Index]]

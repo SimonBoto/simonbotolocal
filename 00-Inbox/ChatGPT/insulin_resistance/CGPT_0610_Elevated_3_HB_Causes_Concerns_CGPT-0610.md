@@ -140,4 +140,4 @@ The proposed PhD research aims at the advancement of early diagnostic strategies
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

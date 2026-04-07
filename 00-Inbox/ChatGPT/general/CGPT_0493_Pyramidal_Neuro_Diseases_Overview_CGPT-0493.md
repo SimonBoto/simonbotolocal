@@ -75,4 +75,4 @@ These conditions can have various etiologies and present with a range of symptom
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

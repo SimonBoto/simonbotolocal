@@ -64,4 +64,4 @@ Robert Greene's book, "The 48 Laws of Power," outlines 48 strategic laws that ai
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

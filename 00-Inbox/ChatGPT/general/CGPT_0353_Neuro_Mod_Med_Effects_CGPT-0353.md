@@ -290,4 +290,4 @@ For more detailed insights, reviewing articles on mitochondrial calcium handling
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

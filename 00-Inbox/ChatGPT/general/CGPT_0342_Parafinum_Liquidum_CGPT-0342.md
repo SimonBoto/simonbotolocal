@@ -170,4 +170,4 @@ Each of these alternatives can effectively replace mineral oil in various formul
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

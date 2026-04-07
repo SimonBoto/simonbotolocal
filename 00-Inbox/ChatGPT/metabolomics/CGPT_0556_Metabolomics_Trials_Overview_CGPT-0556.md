@@ -980,4 +980,4 @@ Would you like me to quickly provide an overview on this topic to complete the g
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

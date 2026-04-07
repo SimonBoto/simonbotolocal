@@ -5,7 +5,7 @@ title: "Clinic Index"
 date: 2026-04-02
 aliases: [CLINIC-INDEX, Clinic-Project]
 tags: [index, clinic, operations, training, metabolomics]
-parent-moc: [[07 Projects Index]]]
+parent-moc: [[07-Projects-Index]]]
 status: active
 ---
 
@@ -20,7 +20,7 @@ status: active
 
 | Note | Purpose |
 |------|---------|
-| [[Clinic Index]] | This index — clinic hub |
+| [[Clinic-Index]] | This index — clinic hub |
 | [[Appointment_Types]] | 7 appointment types defined |
 | [[Schedule_Petralona]] | Weekly schedule and rhythm |
 
@@ -86,8 +86,8 @@ status: active
 
 ## 🔗 CONNECTION TO VAULT
 
-- Up: [[07 Projects Index]]
-- Related: [[PhD Index]] (research feeds clinic)
+- Up: [[07-Projects-Index]]
+- Related: [[PhD-Index]] (research feeds clinic)
 - Source: 03 Zettels Index (bootcamp materials)
 
 ---

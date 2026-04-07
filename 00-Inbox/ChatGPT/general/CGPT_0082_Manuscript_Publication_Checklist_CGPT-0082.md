@@ -242,4 +242,4 @@ Implementing the above before submission will pre-empt most “major revision”
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -6075,4 +6075,4 @@ Would you like to integrate this into your **marketing or partner strategy**, or
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

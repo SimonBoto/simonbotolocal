@@ -81,4 +81,4 @@ Feel free to share any specific parts of your profile or questions you have, and
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

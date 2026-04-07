@@ -456,4 +456,4 @@ In conclusion, a comprehensive research proposal doesn't stop at demonstrating a
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

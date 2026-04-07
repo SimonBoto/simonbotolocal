@@ -233,4 +233,4 @@ Would you like me to prepare a **clear patient-friendly explanation** (like for 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

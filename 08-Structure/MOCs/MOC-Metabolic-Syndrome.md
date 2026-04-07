@@ -4,7 +4,7 @@ type: moc
 title: MOC — Metabolic Syndrome
 aliases: [MOC_MetS, Metabolic_Syndrome]
 tags: [moc, metabolic-syndrome, stub, future]
-parent-moc: "[[MOCs Index]]"
+parent-moc: "[[MOCs-Index]]"
 status: stub
 created: 2026-02-15
 last-updated: 2026-02-22
@@ -115,4 +115,4 @@ Related content exists in:
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]

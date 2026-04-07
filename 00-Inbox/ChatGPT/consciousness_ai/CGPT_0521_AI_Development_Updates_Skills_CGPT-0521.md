@@ -394,4 +394,4 @@ These studies collectively contribute to the understanding of the safety and tol
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

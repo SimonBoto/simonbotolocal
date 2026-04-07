@@ -385,4 +385,4 @@ Would you like to discuss lab test interpretation or specific dosages for interv
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

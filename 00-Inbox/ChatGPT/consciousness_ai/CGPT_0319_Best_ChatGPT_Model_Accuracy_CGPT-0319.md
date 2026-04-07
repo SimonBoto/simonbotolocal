@@ -205,4 +205,4 @@ Overall, SearchGPT could significantly enhance your capabilities in accessing th
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

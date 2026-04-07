@@ -5,8 +5,8 @@ title: "07 Projects Index"
 date: 2026-04-06
 aliases: [PROJECTS-INDEX, 07-Projects-INDEX]
 tags: [index, projects, dashboard]
-parent-moc: [[08 Structure Index]]
-parent-index: [[08 Structure Index]]
+parent-moc: [[08-Structure-Index]]
+parent-index: [[08-Structure-Index]]
 status: active
 ---
 
@@ -20,43 +20,43 @@ status: active
 
 | Domain | Folder | Status | Priority |
 |--------|--------|--------|----------|
-| **🏥 Clinic** | [[Clinic Index]] | ✅ Operational | P1 |
-| **🔬 PhD** | [[PhD Index]] | ⏸️ Blocked | P0 (when unblocked) |
-| **📥 Extraction** | [[Extraction Index]] | 🟡 Active | P0 |
-| **🎯 Personal** | [[Personal Index]] | ⏸️ On hold | P2 |
-| **🛠️ Tools** | [[Tools Index]] | 🟡 In Progress | P1 |
-| **🤖 Agents** | [[Agents Index]] | 🟡 In Design | P1 |
-| **🤖 Agents** | [[Agents Index]] | ✅ Operational | P1 |
+| **🏥 Clinic** | [[Clinic-Index]] | ✅ Operational | P1 |
+| **🔬 PhD** | [[PhD-Index]] | ⏸️ Blocked | P0 (when unblocked) |
+| **📥 Extraction** | [[Extraction-Index]] | 🟡 Active | P0 |
+| **🎯 Personal** | [[Personal-Index]] | ⏸️ On hold | P2 |
+| **🛠️ Tools** | [[Tools-Index]] | 🟡 In Progress | P1 |
+| **🤖 Agents** | [[Agents-Index]] | 🟡 In Design | P1 |
+| **🤖 Agents** | [[Agents-Index]] | ✅ Operational | P1 |
 
 ---
 
 ## 🗂️ ALL PROJECT NOTES
 
 ### Clinic
-- [[Clinic Index]] — Clinic operations hub
+- [[Clinic-Index]] — Clinic operations hub
 - [[Clinic/Appointment_Types] — 7 appointment types
 - [[Clinic/Schedule_Petralona] — Weekly schedule
 
 ### PhD
-- [[PhD Index]] — PhD project hub
+- [[PhD-Index]] — PhD project hub
 - [[PhD/Research_Agenda] — 62 hypotheses prioritized
 
 ### Personal
-- [[Personal Index]] — Personal projects hub
+- [[Personal-Index]] — Personal projects hub
 
 ### Tools
-- [[Tools Index]] — Tools and automation projects
+- [[Tools-Index]] — Tools and automation projects
 - [[ZettelForge_Concept_S-001-0001]] — Assisted extraction system (concept)
 - [[QMD_Activation_S-001-0002]] — Hybrid search for vault
 - [[QMD_Embedding_Project_S-001-0005]] — Complete QMD embeddings (🔴 Blocked)
 - [[OpenClaw_Model_Cleanup_S-001-0007]] — Model config cleanup (✅ Completed)
 
 ### Agents
-- [[Agents Index]] — Multi-agent system projects
+- [[Agents-Index]] — Multi-agent system projects
 - [[FORG_Agent_Project_S-001-0004]] — FORG agent (✅ Operational 2026-04-07)
 
 ### Extraction
-- [[Extraction Index]] — Knowledge extraction programs
+- [[Extraction-Index]] — Knowledge extraction programs
 - [[CGPT_Extraction_Program_S-001-0003]] — CGPT + Facebook extraction (17/688 anchors)
 - [[CGPT_0264_Resumption_S-001-0006]] — Complete CGPT_0264 (⏸️ Paused)
 
@@ -109,9 +109,9 @@ status: active
 
 ## CONNECTION TO VAULT
 
-- Up: [[08 Structure Index]]
-- Down: [[Clinic Index]], [[PhD Index]], [[Personal Index]]
-- Archive: [[09 Archive Index]]
+- Up: [[08-Structure-Index]]
+- Down: [[Clinic-Index]], [[PhD-Index]], [[Personal-Index]]
+- Archive: [[09-Archive-Index]]
 
 ---
 

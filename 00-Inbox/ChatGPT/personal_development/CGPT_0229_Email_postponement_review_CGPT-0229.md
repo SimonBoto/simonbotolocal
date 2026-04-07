@@ -178,4 +178,4 @@ This version ensures clarity and maintains a professional, respectful tone. It a
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

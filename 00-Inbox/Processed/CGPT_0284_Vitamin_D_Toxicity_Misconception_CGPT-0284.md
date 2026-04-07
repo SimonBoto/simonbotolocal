@@ -992,4 +992,4 @@ If you have further questions or need more detailed information on this topic, f
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

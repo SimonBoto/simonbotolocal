@@ -265,4 +265,4 @@ While the direct involvement of the US in such a covert action would carry signi
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -126,4 +126,4 @@ hooks advocates for redefining love beyond traditional confines, emphasizing its
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

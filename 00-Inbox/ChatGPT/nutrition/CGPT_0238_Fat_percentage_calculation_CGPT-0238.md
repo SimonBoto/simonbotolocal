@@ -285,4 +285,4 @@ P_{mix} = \frac{154}{1300} \times 100 = 11.85\%
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

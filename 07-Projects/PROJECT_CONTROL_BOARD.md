@@ -5,8 +5,8 @@ title: "Project Control Board"
 date: 2026-04-07
 aliases: [PROJECT-CONTROL, ACTIVE-WORK]
 tags: [projects, dashboard, active-work, kanban]
-parent-moc: [[07 Projects Index]]
-parent-index: [[07 Projects Index]]
+parent-moc: [[07-Projects-Index]]
+parent-index: [[07-Projects-Index]]
 status: active
 ---
 
@@ -113,7 +113,7 @@ status: active
 ---
 
 ## RELATED
-- [[07 Projects Index]] — Full project archive
+- [[07-Projects-Index]] — Full project archive
 - [[00-COMMAND]] — System priorities
 - [[01-HANDOFF]] — Session state
 

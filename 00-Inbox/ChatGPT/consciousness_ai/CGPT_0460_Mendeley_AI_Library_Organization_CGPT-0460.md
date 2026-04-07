@@ -97,4 +97,4 @@ Each of these tools has its unique features and benefits, catering to different 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -7,8 +7,8 @@ status: active
 created: 2026-04-07
 aliases: [GUITAR, Music-Learning]
 tags: [personal, guitar, music, learning, ongoing]
-parent-moc: [[Personal Index]]
-parent-index: [[07 Projects Index]]
+parent-moc: [[Personal-Index]]
+parent-index: [[07-Projects-Index]]
 ---
 
 # Guitar Learning Project
@@ -101,7 +101,7 @@ parent-index: [[07 Projects Index]]
 ---
 
 ## Related
-- [[Personal Index]] — Other personal projects
+- [[Personal-Index]] — Other personal projects
 - Daily notes — Practice tracking
 
 ---

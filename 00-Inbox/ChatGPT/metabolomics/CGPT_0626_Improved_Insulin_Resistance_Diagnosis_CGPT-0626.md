@@ -746,4 +746,4 @@ Overall, your proposal is well-structured and informative, and the suggested rev
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

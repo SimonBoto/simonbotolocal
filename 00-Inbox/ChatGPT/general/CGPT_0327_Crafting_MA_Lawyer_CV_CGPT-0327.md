@@ -187,4 +187,4 @@ Using these approaches, you can convincingly present yourself as a team player w
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

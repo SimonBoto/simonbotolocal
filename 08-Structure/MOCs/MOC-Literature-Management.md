@@ -3,7 +3,7 @@
 uid: 20260215144800
 tags: [moc literature]
 status: atomic
-parent-moc: "[[MOCs Index]]"
+parent-moc: "[[MOCs-Index]]"
 confidence: high
 ---
 
@@ -64,4 +64,4 @@ confidence: high
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]

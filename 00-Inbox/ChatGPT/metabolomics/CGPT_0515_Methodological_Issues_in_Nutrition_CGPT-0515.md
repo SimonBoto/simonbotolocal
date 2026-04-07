@@ -476,4 +476,4 @@ This version maintains the critical essence of your summary while offering a cle
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

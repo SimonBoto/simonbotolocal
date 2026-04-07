@@ -81,4 +81,4 @@ Overall, the tone of the email is respectful, professional, and focused on seeki
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

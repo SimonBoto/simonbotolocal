@@ -2467,4 +2467,4 @@ ROC curves are widely used in medical decision-making and other fields where bin
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

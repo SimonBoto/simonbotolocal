@@ -121,4 +121,4 @@
 *Goal: 150 P0-P1 conversations extracted with continuity*
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

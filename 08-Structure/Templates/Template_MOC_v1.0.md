@@ -6,7 +6,7 @@ aliases: ["MOC_{{ShortName}}", "{{ShortName}}_MOC"]
 domain: "{{001|101|system}}"
 description: "{{One-line description of what this MOC covers}}"
 tags: ["moc", "{{topic-tag}}", "{{status-tag}}"]
-parent-moc: "[[MOCs Index]]"  # Link to MOC catalog
+parent-moc: "[[MOCs-Index]]"  # Link to MOC catalog
 status: "active"
 created: "{{YYYY-MM-DD}}"
 last-updated: "{{YYYY-MM-DD}}"
@@ -109,4 +109,4 @@ last-updated: "{{YYYY-MM-DD}}"
 
 *Last updated: {{YYYY-MM-DD}} | Status: {{status}}*
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]

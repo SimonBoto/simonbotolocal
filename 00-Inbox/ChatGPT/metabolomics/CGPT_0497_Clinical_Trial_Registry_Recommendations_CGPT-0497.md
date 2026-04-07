@@ -136,4 +136,4 @@ It's important that the document is easy to understand and that it addresses all
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

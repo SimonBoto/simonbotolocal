@@ -171,4 +171,4 @@ Would you like to discuss further any specific aspects of this topic?
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

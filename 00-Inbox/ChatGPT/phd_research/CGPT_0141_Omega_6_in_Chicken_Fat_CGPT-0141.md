@@ -243,4 +243,4 @@ This detailed overview should provide a clear picture of the measured values of 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

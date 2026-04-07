@@ -1913,4 +1913,4 @@ By integrating these advanced tools and strategies in Obsidian, you can create a
 ```
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

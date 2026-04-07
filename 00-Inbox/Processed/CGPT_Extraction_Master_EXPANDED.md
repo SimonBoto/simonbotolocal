@@ -440,4 +440,4 @@
 *Method: 15 batches × 10, systematic extraction*
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

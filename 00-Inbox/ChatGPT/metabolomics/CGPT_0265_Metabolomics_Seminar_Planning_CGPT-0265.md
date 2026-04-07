@@ -330,4 +330,4 @@ Each presentation is designed to provide deep insights into their respective top
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

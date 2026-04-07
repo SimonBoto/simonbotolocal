@@ -1613,4 +1613,4 @@ From an astrological perspective, the **Grand Alignment of 2028** is a rare even
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

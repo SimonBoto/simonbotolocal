@@ -667,4 +667,4 @@ Perhaps the most profound question isn’t just *why construct reality?* but:
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -5,8 +5,8 @@ title: "Agents Index"
 date: 2026-04-07
 aliases: [AGENTS-INDEX]
 tags: [index, agents, multi-agent, ai]
-parent-moc: [[07 Projects Index]]
-parent-index: [[07 Projects Index]]
+parent-moc: [[07-Projects-Index]]
+parent-index: [[07-Projects-Index]]
 status: active
 ---
 
@@ -69,7 +69,7 @@ Based on insights from Brian Roemmele (Zero-Human Company) and Andrej Karpathy (
 | **Savings** | | **98%** | |
 
 ## Related
-- [[07 Projects Index]]
+- [[07-Projects-Index]]
 - [[ZettelForge_Concept_S-001-0001]]
 - [[OpenClaw_Model_Cleanup_S-001-0007]]
 

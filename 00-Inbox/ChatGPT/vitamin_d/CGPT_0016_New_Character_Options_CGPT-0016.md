@@ -391,4 +391,4 @@ If you want, I can rerun this with a *tight* target definition (primary vs secon
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

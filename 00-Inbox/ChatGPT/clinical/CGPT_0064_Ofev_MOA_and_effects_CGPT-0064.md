@@ -221,4 +221,4 @@ Would you like me to prepare that as a **concise handout** (PDF/Word), so you ca
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

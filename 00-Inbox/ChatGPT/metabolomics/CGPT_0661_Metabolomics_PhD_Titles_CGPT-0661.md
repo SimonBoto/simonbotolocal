@@ -74,4 +74,4 @@ These are just a few ideas, and there are many other potential directions you co
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

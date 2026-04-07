@@ -1102,4 +1102,4 @@ Feel free to modify any sections to better fit your specific details and needs.
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

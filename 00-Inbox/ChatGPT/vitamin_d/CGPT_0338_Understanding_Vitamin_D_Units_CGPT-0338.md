@@ -347,4 +347,4 @@ For further detailed reading, specific studies and reviews, such as those publis
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

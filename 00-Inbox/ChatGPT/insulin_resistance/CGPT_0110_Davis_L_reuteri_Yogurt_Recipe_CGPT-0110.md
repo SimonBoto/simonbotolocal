@@ -123,4 +123,4 @@ Would you like the **same recipe adapted for coconut milk**, or a **printable ve
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

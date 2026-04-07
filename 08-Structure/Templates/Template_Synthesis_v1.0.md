@@ -111,4 +111,4 @@ contributing-zettels:
 *Synthesis document — living knowledge, continuously evolving*  
 *UID: {{S-XXX-XXXX}} | Domain: {{XXX}} | Status: {{status}}*
 ---
-parent-index: [[08 Structure Index]], [[Templates Index]]
+parent-index: [[08-Structure-Index]], [[Templates-Index]]

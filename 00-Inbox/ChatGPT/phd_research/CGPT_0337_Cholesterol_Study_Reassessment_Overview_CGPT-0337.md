@@ -378,4 +378,4 @@ While the potential for bias exists, the scientific community employs various me
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

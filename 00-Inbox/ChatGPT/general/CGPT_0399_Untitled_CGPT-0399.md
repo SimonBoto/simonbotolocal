@@ -53,4 +53,4 @@ Recently there have been major shifts in food supply and buying. How can we stud
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

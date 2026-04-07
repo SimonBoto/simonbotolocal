@@ -1403,4 +1403,4 @@ By incorporating the BPAQ, you can obtain detailed and valuable data on physical
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

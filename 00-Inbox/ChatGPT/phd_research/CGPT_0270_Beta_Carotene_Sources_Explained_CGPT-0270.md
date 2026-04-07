@@ -310,4 +310,4 @@ This study showed a significant increase in lung cancer incidence and overall mo
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

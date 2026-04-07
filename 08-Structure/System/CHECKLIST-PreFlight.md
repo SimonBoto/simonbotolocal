@@ -6,8 +6,8 @@ aliases: [Pre_Flight_Card, PreFlight, Quick_Check]
 domain: 001
 domain-name: System
 tags: [checklist, quick-reference, system]
-parent-moc: [[System Index]]
-parent-index: [[08 Structure Index]]
+parent-moc: [[System-Index]]
+parent-index: [[08-Structure-Index]]
 status: active
 created: 2026-02-23
 updated: 2026-04-06

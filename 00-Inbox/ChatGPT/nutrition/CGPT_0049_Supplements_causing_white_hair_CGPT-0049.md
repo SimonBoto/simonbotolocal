@@ -490,4 +490,4 @@ Great—here’s the expert, mechanism-first view of **nutritional and metabolic
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

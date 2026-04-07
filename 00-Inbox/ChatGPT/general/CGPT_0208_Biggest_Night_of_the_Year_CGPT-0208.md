@@ -159,4 +159,4 @@ Would you like to know more about any specific tradition or event related to Mar
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

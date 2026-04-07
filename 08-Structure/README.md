@@ -6,7 +6,7 @@ domain: 001
 domain-name: System
 tags: [readme, structure, system, infrastructure]
 parent-moc: [[00-INDEX]]
-parent-index: [[08 Structure Index]]
+parent-index: [[08-Structure-Index]]
 status: active
 created: 2026-04-06
 updated: 2026-04-06
@@ -24,12 +24,12 @@ updated: 2026-04-06
 
 | Folder | Purpose | Entry Point |
 |--------|---------|-------------|
-| **Dashboards/** | Operational visibility | [[Dashboards Index]] |
-| **System/** | Active infrastructure | [[System Index]] |
-| **Protocols/** | Workflows & processes | [[Protocols Index]] |
-| **Templates/** | Note templates | [[Templates Index]] |
-| **MOCs/** | Maps of Content | [[MOCs Index]] |
-| **Daily/** | Date-stamped logs | [[Daily Index]] |
+| **Dashboards/** | Operational visibility | [[Dashboards-Index]] |
+| **System/** | Active infrastructure | [[System-Index]] |
+| **Protocols/** | Workflows & processes | [[Protocols-Index]] |
+| **Templates/** | Note templates | [[Templates-Index]] |
+| **MOCs/** | Maps of Content | [[MOCs-Index]] |
+| **Daily/** | Date-stamped logs | [[Daily-Index]] |
 
 ---
 

@@ -6,7 +6,7 @@ aliases: ["MOC-Plant-Biochemistry", "Plant-Biochemistry-MOC"]
 domain: "001"
 description: "Plant-specific metabolic pathways, secondary metabolites, and alkaloid biosynthesis"
 tags: ["moc", "plant", "biochemistry", "alkaloids", "secondary-metabolites", "active"]
-parent-moc: "[[MOCs Index]]"
+parent-moc: "[[MOCs-Index]]"
 status: "active"
 created: "2026-04-04"
 last-updated: "2026-04-04"
@@ -107,4 +107,4 @@ last-updated: "2026-04-04"
 ---
 *Last updated: 2026-04-04 | Status: active*
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]

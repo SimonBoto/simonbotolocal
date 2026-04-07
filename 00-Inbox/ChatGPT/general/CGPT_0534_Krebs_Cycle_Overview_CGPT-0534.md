@@ -364,4 +364,4 @@ Here are two recreated diagrams of the Citric Acid Cycle, styled according to th
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

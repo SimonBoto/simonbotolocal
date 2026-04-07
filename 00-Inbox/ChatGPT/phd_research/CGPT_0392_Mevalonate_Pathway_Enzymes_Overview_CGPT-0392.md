@@ -102,4 +102,4 @@ This pathway is highly regulated at the level of HMG-CoA Reductase, which is the
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

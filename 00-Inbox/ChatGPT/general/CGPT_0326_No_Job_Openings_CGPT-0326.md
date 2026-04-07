@@ -942,4 +942,4 @@ By following these steps, you can ensure your CV is concise, impactful, and alig
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

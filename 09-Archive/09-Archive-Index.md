@@ -37,8 +37,8 @@ This folder contains:
 
 ## 🔗 Connection to Vault
 
-- Up: [[08 Structure Index]]
-- Related: [[07 Projects Index]] (active work)
+- Up: [[08-Structure-Index]]
+- Related: [[07-Projects-Index]] (active work)
 - Source: All archived from [[03-Zettels-Conscious]] and [[03-Zettels-Subconscious]]
 
 ---

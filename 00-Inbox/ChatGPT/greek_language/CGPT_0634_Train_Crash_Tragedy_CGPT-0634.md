@@ -588,4 +588,4 @@ Thank you, and here's to a brighter future for Greece!
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

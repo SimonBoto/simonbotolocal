@@ -1250,4 +1250,4 @@ Implementing a minimal residue diet should be done with careful planning to ensu
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

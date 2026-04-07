@@ -119,4 +119,4 @@ last-updated: "2026-04-04"
 ---
 *Last updated: 2026-04-04 | Status: active*
 ---
-parent-index: [[08 Structure Index]], [[MOC-Vitamin-Mineral-Axis]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOC-Vitamin-Mineral-Axis]], [[MOCs-Index]]

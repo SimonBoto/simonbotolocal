@@ -504,4 +504,4 @@ Would you like help now with sourcing those exact two shoe types?
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

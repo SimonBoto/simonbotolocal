@@ -68,4 +68,4 @@ The complex interplay between mitochondrial function and telomere integrity is i
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

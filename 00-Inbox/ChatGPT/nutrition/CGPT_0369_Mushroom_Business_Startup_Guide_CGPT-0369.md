@@ -1114,4 +1114,4 @@ Starting with ready-to-use bags (ready-to-fruit bags) for your first batch is a 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

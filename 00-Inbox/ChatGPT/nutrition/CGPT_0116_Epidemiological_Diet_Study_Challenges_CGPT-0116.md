@@ -133,4 +133,4 @@ Would you like a summarized version of this explanation for patient use, or a sc
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

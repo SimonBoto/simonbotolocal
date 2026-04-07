@@ -415,4 +415,4 @@ Orthodox mysticism is marked by a deep reverence for the mystery of God, an emph
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

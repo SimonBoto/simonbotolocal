@@ -328,4 +328,4 @@ If you ever want, we can map out which of these microbes have clinical evidence 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

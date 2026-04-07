@@ -6,7 +6,7 @@ aliases: ["MOC-Cellular-Regeneration", "Cellular-Regeneration-MOC"]
 domain: "001"
 description: "Tissue turnover, stem cells, regeneration mechanisms, and healing timelines"
 tags: ["moc", "regeneration", "stem-cells", "tissue-repair", "healing", "active"]
-parent-moc: "[[MOCs Index]]"
+parent-moc: "[[MOCs-Index]]"
 status: "active"
 created: "2026-04-04"
 last-updated: "2026-04-04"
@@ -101,4 +101,4 @@ last-updated: "2026-04-04"
 ---
 *Last updated: 2026-04-04 | Status: active*
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]

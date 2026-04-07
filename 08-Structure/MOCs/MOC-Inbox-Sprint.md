@@ -20,7 +20,7 @@ Sub-MOCs:
 
 Graph: #sprint | 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 
 
 ---
@@ -69,4 +69,4 @@ parent-index: [[08 Structure Index]], [[MOCs Index]]
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-moc: [[MOCs Index]]
+parent-moc: [[MOCs-Index]]

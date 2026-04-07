@@ -129,4 +129,4 @@ Would you like me to outline a **safe method to simulate a primitive low-tempera
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

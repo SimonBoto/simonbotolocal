@@ -1503,4 +1503,4 @@ This Markdown is clean, unambiguous, and ready for high-fidelity Manus interpret
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

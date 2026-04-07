@@ -327,4 +327,4 @@ Whether you're dealing with a chronic health condition, looking to optimize your
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -2733,4 +2733,4 @@ Including clear and transparent funding information not only adds to the credibi
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

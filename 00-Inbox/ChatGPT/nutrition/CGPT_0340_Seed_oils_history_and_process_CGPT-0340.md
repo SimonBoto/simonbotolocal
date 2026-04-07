@@ -242,4 +242,4 @@ These steps ensure that the final oil product meets quality standards for safety
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -56,7 +56,7 @@ tags: [moc, inflammation, immune, cytokines, chronic-disease]
 
 ## Connection to Vault
 
-- Up: [[MOCs Index]]
+- Up: [[MOCs-Index]]
 - Related: [[MOC-Autoimmunity]], [[MOC-Insulin-Resistance]], [[MOC-Stress-Autoimmune]]
 - Resolution: [[MOC-Antioxidant-Defense]]
 
@@ -65,7 +65,7 @@ tags: [moc, inflammation, immune, cytokines, chronic-disease]
 *The double-edged sword — protection vs. chronic damage.*
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 
 
 ---
@@ -114,4 +114,4 @@ parent-index: [[08 Structure Index]], [[MOCs Index]]
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-moc: [[MOCs Index]]
+parent-moc: [[MOCs-Index]]

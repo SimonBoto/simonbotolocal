@@ -1888,4 +1888,4 @@ By carefully planning and managing your resources, you can create a self-sustain
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -1419,4 +1419,4 @@ This version makes it clear that the approaching deadline is causing concern abo
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

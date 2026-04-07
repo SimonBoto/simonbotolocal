@@ -151,4 +151,4 @@ This abstract provides a general overview of the document's content. If you need
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

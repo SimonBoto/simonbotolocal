@@ -579,4 +579,4 @@ These centers are renowned for their contributions to medical imaging and their 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

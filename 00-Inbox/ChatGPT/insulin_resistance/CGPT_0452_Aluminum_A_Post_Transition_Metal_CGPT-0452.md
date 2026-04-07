@@ -122,4 +122,4 @@ Each metal's toxicity depends on its chemical state and exposure level. For inst
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

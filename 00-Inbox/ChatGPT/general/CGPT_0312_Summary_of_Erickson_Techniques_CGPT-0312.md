@@ -505,4 +505,4 @@ In this chapter, we would expect Bandler and Grinder to identify and analyze spe
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

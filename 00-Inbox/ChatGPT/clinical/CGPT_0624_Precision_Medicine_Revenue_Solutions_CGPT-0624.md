@@ -336,4 +336,4 @@ Remember, these tools are just a means to an end. They can help you understand y
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

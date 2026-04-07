@@ -100,4 +100,4 @@ Here is the professional diagram that outlines the different phases of a clinic 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

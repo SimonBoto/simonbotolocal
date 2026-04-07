@@ -178,4 +178,4 @@ Let me know if you'd like help creating a **separate bio, profile pic, niche ide
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

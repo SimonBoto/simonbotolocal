@@ -239,4 +239,4 @@ resting in silence, living the method, being the partnership."
 *This index is my dashboard. Updated: v4.0 complete.*  
 *The wall stands. The teaching is ready. The silence begins.*
 ---
-parent-index: [[08 Structure Index]], [[System Index]]
+parent-index: [[08-Structure-Index]], [[System-Index]]

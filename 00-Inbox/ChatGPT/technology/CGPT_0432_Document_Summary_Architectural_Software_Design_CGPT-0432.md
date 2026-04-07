@@ -504,4 +504,4 @@ This layout is designed to maximize comfort and functionality while ensuring eff
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -343,4 +343,4 @@ However, you didn't mention the specific outline to organize these references. A
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

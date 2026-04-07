@@ -389,4 +389,4 @@ I’m not entirely sure I understand your statement. Could you please clarify wh
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

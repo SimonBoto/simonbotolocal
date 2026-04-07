@@ -171,4 +171,4 @@ git diff --stat HEAD~1
 *For: NKUA 3174/3175 + future extractions*
 
 ---
-parent-index: [[08 Structure Index]], [[Protocols Index]]
+parent-index: [[08-Structure-Index]], [[Protocols-Index]]

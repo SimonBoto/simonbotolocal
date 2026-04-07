@@ -181,4 +181,4 @@ Given these factors, it's reasonable to expect that it may take a few weeks to a
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

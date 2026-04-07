@@ -895,4 +895,4 @@ If you decide to invest, proceed **cautiously**, keep a **long-term perspective*
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

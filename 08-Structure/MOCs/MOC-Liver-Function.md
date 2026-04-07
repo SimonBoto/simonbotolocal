@@ -55,7 +55,7 @@ tags: [moc, liver, hepatology, metabolism, detoxification]
 
 ## Connection to Vault
 
-- Up: [[MOCs Index]]
+- Up: [[MOCs-Index]]
 - Related: [[MOC-Ketogenesis]], [[MOC-Lipid-Metabolism]], [[MOC-Urea-Cycle]]
 - Metabolism: [[MOC-Metabolomics]]
 
@@ -64,7 +64,7 @@ tags: [moc, liver, hepatology, metabolism, detoxification]
 *The chemical plant — processing, synthesizing, detoxifying.*
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 
 
 ---
@@ -113,4 +113,4 @@ parent-index: [[08 Structure Index]], [[MOCs Index]]
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-moc: [[MOCs Index]]
+parent-moc: [[MOCs-Index]]

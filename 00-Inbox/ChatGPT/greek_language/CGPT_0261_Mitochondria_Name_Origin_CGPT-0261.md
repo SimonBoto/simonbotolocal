@@ -62,4 +62,4 @@ Mitochondria were first described in the 1850s and later named by Carl Benda in 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

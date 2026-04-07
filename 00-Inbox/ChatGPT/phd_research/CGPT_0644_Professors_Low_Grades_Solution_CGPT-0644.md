@@ -117,4 +117,4 @@ This moment has stayed with me throughout my life, and I often find myself refle
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

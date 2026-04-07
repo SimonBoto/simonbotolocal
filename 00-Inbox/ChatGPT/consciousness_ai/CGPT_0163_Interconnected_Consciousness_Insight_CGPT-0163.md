@@ -99,4 +99,4 @@ In essence, the insight of interconnected consciousness challenges humanity to t
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -130,4 +130,4 @@ By implementing this, you’ll **enter flow more consistently, work with purpose
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

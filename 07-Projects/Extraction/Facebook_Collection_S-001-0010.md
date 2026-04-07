@@ -8,8 +8,8 @@ created: 2026-04-07
 completed: 2026-04-06
 aliases: [FACEBOOK-COLLECTION, Social-Media-Extraction]
 tags: [extraction, facebook, articles, completed, archive]
-parent-moc: [[Extraction Index]]
-parent-index: [[07 Projects Index]]
+parent-moc: [[Extraction-Index]]
+parent-index: [[07-Projects-Index]]
 ---
 
 # Facebook Article Collection Project
@@ -114,7 +114,7 @@ The 55 LitNotes in L-002 series may need:
 
 ## Related
 - [[CGPT_Extraction_Program_S-001-0003]] — Current active extraction
-- [[Extraction Index]] — All extraction programs
+- [[Extraction-Index]] — All extraction programs
 - 01-Literature/L-002-XXXX — Output LitNotes
 - memory/2026-04-06_CGPT_Processing_Workflows.md — Lessons applied
 

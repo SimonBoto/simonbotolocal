@@ -1120,4 +1120,4 @@ Fructose enters glycolysis either through direct conversion to fructose-6-phosph
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

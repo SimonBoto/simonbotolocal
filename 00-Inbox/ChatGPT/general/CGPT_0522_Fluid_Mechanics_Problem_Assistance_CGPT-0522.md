@@ -784,4 +784,4 @@ These examples demonstrate the depth and rigor required to analyze and understan
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

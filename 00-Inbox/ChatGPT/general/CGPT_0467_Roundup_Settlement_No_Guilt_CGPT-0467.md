@@ -389,4 +389,4 @@ In summary, while the settlement is significant and reflects the complexity and 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

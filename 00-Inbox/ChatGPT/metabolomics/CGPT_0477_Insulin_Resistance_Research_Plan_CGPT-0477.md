@@ -278,4 +278,4 @@ Here is a flowchart that visualizes the advanced biostatistical and metabolomic 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

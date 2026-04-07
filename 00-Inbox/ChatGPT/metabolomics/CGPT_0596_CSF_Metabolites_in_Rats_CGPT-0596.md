@@ -161,4 +161,4 @@ In conclusion, while PCA can be useful for visualizing the overall differences i
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

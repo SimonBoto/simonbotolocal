@@ -522,4 +522,4 @@ If you don’t want to choose, I’ll choose the entry point for you.
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -1644,4 +1644,4 @@ In summary, your vision of HBAR potentially reaching $1 or more is within the re
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

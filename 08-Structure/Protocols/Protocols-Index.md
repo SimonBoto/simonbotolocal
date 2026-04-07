@@ -4,8 +4,8 @@ type: index
 title: "Protocols Index"
 date: 2026-04-02
 tags: [index, protocols, processes]
-parent-moc: [[08 Structure Index]]
-parent-index: [[08 Structure Index]]
+parent-moc: [[08-Structure-Index]]
+parent-index: [[08-Structure-Index]]
 ---
 
 # Protocols Index
@@ -26,8 +26,8 @@ parent-index: [[08 Structure Index]]
 
 ## Connection to Vault
 
-- Up: [[08 Structure Index]]
-- Related: [[Templates Index]], [[07 Projects Index]]
+- Up: [[08-Structure-Index]]
+- Related: [[Templates-Index]], [[07-Projects-Index]]
 
 ---
 

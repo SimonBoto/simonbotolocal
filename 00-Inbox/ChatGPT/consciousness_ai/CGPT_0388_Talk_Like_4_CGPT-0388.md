@@ -621,4 +621,4 @@ Ultimately, whether classic Cuban cigarettes are "better" is a matter of persona
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

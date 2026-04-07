@@ -1258,4 +1258,4 @@ Tell me that and I’ll give you the exact optimization for that specific setup.
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -1022,4 +1022,4 @@ By extending your practice with these additional rules, your Zettelkasten will b
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

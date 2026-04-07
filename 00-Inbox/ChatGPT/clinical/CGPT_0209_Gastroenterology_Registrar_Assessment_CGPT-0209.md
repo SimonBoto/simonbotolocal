@@ -1081,4 +1081,4 @@ Each question is followed by four options (A–D). The correct answer is highlig
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

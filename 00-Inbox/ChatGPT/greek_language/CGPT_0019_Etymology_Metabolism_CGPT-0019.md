@@ -187,4 +187,4 @@ When energy becomes scarce, the body doesn’t fail randomly. It prioritizes sur
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

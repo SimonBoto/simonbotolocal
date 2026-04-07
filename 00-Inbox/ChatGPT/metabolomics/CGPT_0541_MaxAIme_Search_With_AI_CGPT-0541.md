@@ -106,4 +106,4 @@ Please feel free to ask if you have more specific questions related to translati
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

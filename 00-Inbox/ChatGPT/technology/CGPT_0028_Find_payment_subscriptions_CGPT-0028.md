@@ -243,4 +243,4 @@ Do you want **an app to manage expenses**, or are you trying to **find all your 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

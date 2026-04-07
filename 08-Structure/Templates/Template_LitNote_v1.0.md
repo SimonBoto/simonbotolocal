@@ -85,4 +85,4 @@ extraction-date: "{{YYYY-MM-DD}}"
 - [ ] Concept count matches "Zettels Created from This Source" list
 
 ---
-parent-index: [[08 Structure Index]], [[Templates Index]]
+parent-index: [[08-Structure-Index]], [[Templates-Index]]

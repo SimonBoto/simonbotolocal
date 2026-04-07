@@ -246,4 +246,4 @@ Clindamycin is a reasonable choice for **peritonsillar abscess (quinsy)** or **s
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

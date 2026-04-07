@@ -9,7 +9,7 @@ uid: 20260211222402
 tags: [moc clinic insulin-resistance]
 status: active
 aliases: [Clinic_Hub]
-parent-moc: "[[MOCs Index]]"
+parent-moc: "[[MOCs-Index]]"
 ---
 
 # Clinic_Queue_MOC
@@ -82,4 +82,4 @@ LIST FROM "44-Clinic/Atomic" WHERE !parent-moc
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]

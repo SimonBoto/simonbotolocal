@@ -167,4 +167,4 @@ Sure! If you need any more information later, feel free to come back. Have a gre
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

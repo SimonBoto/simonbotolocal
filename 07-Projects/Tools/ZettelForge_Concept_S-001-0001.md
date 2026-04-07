@@ -6,7 +6,7 @@ domain: 001
 domain-name: System
 tags: [synthesis, tool, zettelforge, automation, cgpt, extraction]
 parent-moc: [[MOC-CGPT-Archive]]
-parent-index: [[07 Projects Index]]
+parent-index: [[07-Projects-Index]]
 status: conscious
 created: 2026-04-06
 updated: 2026-04-06

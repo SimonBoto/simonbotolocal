@@ -110,4 +110,4 @@ By providing this level of detail, you can demonstrate that your study is well-c
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

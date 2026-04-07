@@ -150,4 +150,4 @@ Feel free to suggest more specific hashtags if you want to target a particular a
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

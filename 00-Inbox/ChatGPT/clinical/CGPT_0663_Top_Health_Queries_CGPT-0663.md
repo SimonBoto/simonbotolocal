@@ -236,4 +236,4 @@ Here are 10 titles for the most read articles on exercise and fitness:
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

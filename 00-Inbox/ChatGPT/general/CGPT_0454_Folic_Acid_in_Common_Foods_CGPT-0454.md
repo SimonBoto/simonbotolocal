@@ -1193,4 +1193,4 @@ The fortification of food with folic acid has been successful in significantly r
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

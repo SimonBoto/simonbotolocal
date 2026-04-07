@@ -52,8 +52,8 @@ See: [[Research_Agenda]]] — Prioritized hypotheses from 2 years of conversatio
 
 ## Connection to Vault
 
-- Up: [[MOCs Index]]]
-- Research: [[PhD Index]]], [[MOC-PhD-Research]]
+- Up: [[MOCs-Index]]]
+- Research: [[PhD-Index]]], [[MOC-PhD-Research]]
 - Hypotheses: [[Research_Agenda]]]
 - Methodology: [[MOC-Research-Methods]]
 
@@ -64,7 +64,7 @@ See: [[Research_Agenda]]] — Prioritized hypotheses from 2 years of conversatio
 🦞 **RON — 683 conversations, 62 hypotheses, one knowledge graph**
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 
 
 ---
@@ -113,4 +113,4 @@ parent-index: [[08 Structure Index]], [[MOCs Index]]
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-moc: [[MOCs Index]]
+parent-moc: [[MOCs-Index]]

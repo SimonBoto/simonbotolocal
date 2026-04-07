@@ -6,7 +6,7 @@ aliases: ["MOC-Synthetic-Biology", "Synthetic-Biology-MOC"]
 domain: "001"
 description: "Engineering biological systems, heterologous expression, and pathway reconstruction"
 tags: ["moc", "synthetic-biology", "engineering", "heterologous", "active"]
-parent-moc: "[[MOCs Index]]"
+parent-moc: "[[MOCs-Index]]"
 status: "active"
 created: "2026-04-04"
 last-updated: "2026-04-04"
@@ -93,4 +93,4 @@ last-updated: "2026-04-04"
 ---
 *Last updated: 2026-04-04 | Status: active*
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]

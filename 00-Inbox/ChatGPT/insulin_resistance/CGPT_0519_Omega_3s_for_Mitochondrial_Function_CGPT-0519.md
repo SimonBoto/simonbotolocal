@@ -60,4 +60,4 @@ Omega-3 polyunsaturated fatty acids (PUFAs) are crucial for mitochondrial functi
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

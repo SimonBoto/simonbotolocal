@@ -1426,4 +1426,4 @@ Certainly, I can help modify the provided sample proposal to fit the research yo
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

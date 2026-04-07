@@ -4,7 +4,7 @@ type: moc
 title: MOC — PhD Biomarkers
 aliases: [MOC_Biomarkers, Biomarkers_MOC]
 tags: [moc, phd-biomarker, stub, future]
-parent-moc: "[[MOCs Index]]"
+parent-moc: "[[MOCs-Index]]"
 status: stub
 created: 2026-02-11
 last-updated: 2026-02-22
@@ -107,4 +107,4 @@ Current biomarker content lives in:
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]

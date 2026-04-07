@@ -3587,4 +3587,4 @@ Would you like a **structured PDF summary** of today's session or **case studies
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

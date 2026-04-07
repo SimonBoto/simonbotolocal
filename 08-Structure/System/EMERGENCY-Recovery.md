@@ -247,7 +247,7 @@ cp ~/.openclaw/openclaw.json ~/.openclaw/openclaw.json.backup.$(date +%Y%m%d)
 *Tested on: Ubuntu 24.04, OpenClaw 2026.2.19-2, Node 22.22.0*
 *Last verified: 2026-02-23*
 ---
-parent-index: [[08 Structure Index]], [[System Index]]
+parent-index: [[08-Structure-Index]], [[System-Index]]
 ---
 uid: SYS-001-0002
 type: emergency-reference
@@ -487,8 +487,8 @@ cp ~/.openclaw/openclaw.json ~/.openclaw/openclaw.json.backup.$(date +%Y%m%d)
 
 ## 📚 RELATED DOCUMENTS
 
-- [[System Index]] — System documentation
-- [[Dashboards Index]] — Operational dashboards
+- [[System-Index]] — System documentation
+- [[Dashboards-Index]] — Operational dashboards
 
 ---
 

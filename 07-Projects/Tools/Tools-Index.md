@@ -4,8 +4,8 @@ type: index
 title: "Tools Index"
 date: 2026-04-06
 tags: [index, tools, automation]
-parent-moc: [[07 Projects Index]]
-parent-index: [[07 Projects Index]]
+parent-moc: [[07-Projects-Index]]
+parent-index: [[07-Projects-Index]]
 status: active
 ---
 
@@ -26,7 +26,7 @@ status: active
 
 ## Connection to Projects
 
-- Up: [[07 Projects Index]]
+- Up: [[07-Projects-Index]]
 - Related: [[08-Structure/Protocols]], [[08-Structure/System]]
 
 ---

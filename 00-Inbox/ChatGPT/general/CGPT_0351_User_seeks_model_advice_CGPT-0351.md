@@ -105,4 +105,4 @@ For example, if you have 1 mL of the original solution, you would need to add 99
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

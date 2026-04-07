@@ -938,4 +938,4 @@ Would you like me to prepare a **reference-annotated table of the most important
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

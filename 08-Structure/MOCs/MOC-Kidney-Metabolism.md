@@ -55,7 +55,7 @@ tags: [moc, kidney, nephrology, renal, metabolism]
 
 ## Connection to Vault
 
-- Up: [[MOCs Index]]
+- Up: [[MOCs-Index]]
 - Related: [[MOC-Metabolic-Syndrome]], [[MOC-Biomarkers]]]
 - Minerals: [[MOC-Minerals-Trace]] — Electrolyte balance
 
@@ -64,7 +64,7 @@ tags: [moc, kidney, nephrology, renal, metabolism]
 *The filter — balancing acids, electrolytes, and waste.*
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 
 
 ---
@@ -113,4 +113,4 @@ parent-index: [[08 Structure Index]], [[MOCs Index]]
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-moc: [[MOCs Index]]
+parent-moc: [[MOCs-Index]]

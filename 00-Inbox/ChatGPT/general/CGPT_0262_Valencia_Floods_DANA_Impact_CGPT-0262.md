@@ -131,4 +131,4 @@ Therefore, while certain colors might absorb specific light wavelengths more eff
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

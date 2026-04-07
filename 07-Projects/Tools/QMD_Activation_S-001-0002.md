@@ -6,7 +6,7 @@ domain: 001
 domain-name: System
 tags: [synthesis, qmd, search, memory, tool]
 parent-moc: [[MOC-CGPT-Archive]]
-parent-index: [[Tools Index]]
+parent-index: [[Tools-Index]]
 status: conscious
 created: 2026-04-06
 updated: 2026-04-06

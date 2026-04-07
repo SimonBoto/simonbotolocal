@@ -572,4 +572,4 @@ We can also include **exit clauses**, tax notes, or co-ownership offers if you p
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

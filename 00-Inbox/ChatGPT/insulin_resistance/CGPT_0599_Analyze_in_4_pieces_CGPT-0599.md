@@ -365,4 +365,4 @@ Thus, while this article provides evidence pointing towards the supportive role 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

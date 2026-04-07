@@ -192,4 +192,4 @@ If you need clarification on specific techniques or wish to delve deeper into an
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

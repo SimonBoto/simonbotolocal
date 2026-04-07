@@ -1564,4 +1564,4 @@ The translated text primarily focuses on the ethical considerations of the resea
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

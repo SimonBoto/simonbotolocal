@@ -97,4 +97,4 @@ The Krebs cycle is a vital biological process that plays a central role in energ
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -633,4 +633,4 @@ The study design, population, and criteria for inclusion and exclusion have been
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

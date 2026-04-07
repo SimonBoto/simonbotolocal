@@ -4,7 +4,7 @@ type: moc
 title: MOC — Research Methods
 aliases: [MOC_Research, MOC_Methodology, MOC_Biostatistics, MOC_Clinical_Research]
 tags: [moc, research-methods, statistics, study-design, biomarkers, clinical-trials]
-parent-moc: "[[MOCs Index]]"
+parent-moc: "[[MOCs-Index]]"
 created: 2026-03-03
 ---
 
@@ -129,4 +129,4 @@ Statistical methodology, study design, and clinical research standards for metab
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]

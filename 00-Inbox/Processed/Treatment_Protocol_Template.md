@@ -97,4 +97,4 @@ tags: [fleeting, template, clinic, treatment, protocol, supplements]
 *Translation date: 2026-02-25*
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

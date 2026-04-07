@@ -448,4 +448,4 @@ I apologize for any confusion. No, I'm not referring to patients' birthdays. The
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -145,4 +145,4 @@ In clinical practice, the management of these conditions is distinct, and their 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

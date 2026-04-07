@@ -336,4 +336,4 @@ A clinician with a PhD in metabolomics and strong data/automation skills can lev
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

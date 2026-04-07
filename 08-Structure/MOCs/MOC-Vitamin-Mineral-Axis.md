@@ -5,7 +5,7 @@ description: "Master navigation for micronutrient biochemistry, cofactors, defic
 domain: "micronutrients"
 created: "2026-04-02"
 status: active
-parent-moc: "[[MOCs Index]]"
+parent-moc: "[[MOCs-Index]]"
 parent-index: "[[08-Structure/MOCs/MOCs-Index]]"
 ---
 

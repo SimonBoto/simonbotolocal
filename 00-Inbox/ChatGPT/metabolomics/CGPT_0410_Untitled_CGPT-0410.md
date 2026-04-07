@@ -140,4 +140,4 @@ If you are asking whether you can use a service like ChatGPT provided by OpenAI 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

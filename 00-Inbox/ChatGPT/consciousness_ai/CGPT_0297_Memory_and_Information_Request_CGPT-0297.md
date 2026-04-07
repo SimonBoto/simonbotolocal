@@ -446,4 +446,4 @@ For these reasons, it's important to **consult a healthcare professional** befor
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

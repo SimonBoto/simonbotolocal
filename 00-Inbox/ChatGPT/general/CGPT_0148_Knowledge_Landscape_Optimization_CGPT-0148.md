@@ -266,4 +266,4 @@ This conceptual demonstration provides a roadmap for harnessing advanced data an
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -314,4 +314,4 @@ This revised script maintains a scientific tone while ensuring clarity and engag
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

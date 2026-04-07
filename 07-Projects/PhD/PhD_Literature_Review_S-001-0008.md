@@ -7,8 +7,8 @@ status: active
 created: 2026-04-07
 aliases: [PHD-LIT-REVIEW, Literature-Synthesis]
 tags: [phd, literature, review, synthesis, active]
-parent-moc: [[PhD Index]]
-parent-index: [[07 Projects Index]]
+parent-moc: [[PhD-Index]]
+parent-index: [[07-Projects-Index]]
 ---
 
 # PhD Literature Review Project
@@ -102,7 +102,7 @@ QMD check   YAML      Atomic     MOC update
 ---
 
 ## Related
-- [[PhD Index]] — Main PhD hub
+- [[PhD-Index]] — Main PhD hub
 - [[Research_Agenda]] — 62 hypotheses prioritized
 - [[CGPT_Extraction_Program_S-001-0003]] — Shared extraction workflow
 - [[MOC-Insulin-Signaling]] — Domain knowledge base

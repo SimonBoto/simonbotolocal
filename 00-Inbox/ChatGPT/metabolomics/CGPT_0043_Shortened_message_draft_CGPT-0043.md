@@ -135,4 +135,4 @@ Would you like me to create a **Greek version** as well (same tone and length)?
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -119,4 +119,4 @@ By incorporating enrichment analysis into your metabolomics research, you can tr
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

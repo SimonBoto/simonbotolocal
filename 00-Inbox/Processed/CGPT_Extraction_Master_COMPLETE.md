@@ -409,4 +409,4 @@
 *All 673 conversations catalogued with priority and status*
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

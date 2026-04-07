@@ -53,7 +53,7 @@ See also: [[MOC-Iron-Metabolism]] — Deep dive on iron
 
 ## Connection to Vault
 
-- Up: [[MOCs Index]]
+- Up: [[MOCs-Index]]
 - Related: [[MOC-Iron-Metabolism]], [[MOC-Mitochondrial-Function]], [[MOC-Antioxidant-Defense]]
 - Supplements: [[MOC-Vitamin-Metabolism]]
 
@@ -62,7 +62,7 @@ See also: [[MOC-Iron-Metabolism]] — Deep dive on iron
 *The spark plugs — trace minerals catalyze life.*
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 
 
 ---
@@ -111,4 +111,4 @@ parent-index: [[08 Structure Index]], [[MOCs Index]]
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-moc: [[MOCs Index]]
+parent-moc: [[MOCs-Index]]

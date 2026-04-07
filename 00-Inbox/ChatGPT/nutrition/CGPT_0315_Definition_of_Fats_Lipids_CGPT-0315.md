@@ -897,4 +897,4 @@ In summary, Sumerian texts provide a valuable insight into the early use of oils
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

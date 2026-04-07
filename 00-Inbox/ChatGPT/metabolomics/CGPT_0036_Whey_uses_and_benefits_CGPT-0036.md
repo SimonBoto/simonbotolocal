@@ -2676,4 +2676,4 @@ Tell me which direction you want to push it, and I’ll craft your signature ver
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

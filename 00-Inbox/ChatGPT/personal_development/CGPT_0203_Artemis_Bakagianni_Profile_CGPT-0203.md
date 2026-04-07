@@ -212,4 +212,4 @@ In most cases, **local anesthesia** is sufficient for laser pilonidal cyst proce
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

@@ -680,4 +680,4 @@ This email template maintains a professional yet appreciative tone, suitable for
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

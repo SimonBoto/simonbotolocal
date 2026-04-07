@@ -360,4 +360,4 @@ You're welcome! If you have more questions in the future or need further assista
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

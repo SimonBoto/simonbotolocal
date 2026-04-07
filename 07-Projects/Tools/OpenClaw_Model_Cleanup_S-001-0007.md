@@ -56,5 +56,5 @@ Clean up OpenClaw model configuration to reduce complexity and costs.
 - [[threekeys]] (API key reference)
 
 ---
-parent-index: [[07 Projects Index]]
+parent-index: [[07-Projects-Index]]
 parent-moc: [[MOC-Tools-Infrastructure]]

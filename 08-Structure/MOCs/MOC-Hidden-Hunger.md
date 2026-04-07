@@ -90,4 +90,4 @@ LIST FROM "33-Atomic" WHERE contains(tags, "hidden-hunger")
 | {{YYYY-MM-DD}} | created | Initial MOC setup |
 
 ---
-parent-index: [[08 Structure Index]], [[MOCs Index]]
+parent-index: [[08-Structure-Index]], [[MOCs-Index]]

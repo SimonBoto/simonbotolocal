@@ -462,4 +462,4 @@ Or perhaps help with a follow-up message that preserves this energy?
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

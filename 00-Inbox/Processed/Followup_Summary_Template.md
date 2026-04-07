@@ -119,4 +119,4 @@ tags: [fleeting, template, clinic, followup, metabolomics, summary]
 *Translation date: 2026-02-25*
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]

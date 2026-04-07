@@ -5,7 +5,7 @@ title: "PhD Index"
 date: 2026-04-02
 aliases: [PhD-INDEX, METHAP, PhD-Project]
 tags: [index, phd, methap, metabolomics, research]
-parent-moc: [[07 Projects Index]]]
+parent-moc: [[07-Projects-Index]]]
 status: blocked
 ---
 
@@ -20,7 +20,7 @@ status: blocked
 
 | Note | Purpose |
 |------|---------|
-| [[PhD Index]] | This index — PhD hub |
+| [[PhD-Index]] | This index — PhD hub |
 | [[Research_Agenda]] | 62 hypotheses prioritized |
 
 ---
@@ -114,8 +114,8 @@ While waiting for university:
 
 ## 🔗 CONNECTION TO VAULT
 
-- Up: [[07 Projects Index]]
-- Related: [[Clinic Index]] (research feeds clinic)
+- Up: [[07-Projects-Index]]
+- Related: [[Clinic-Index]] (research feeds clinic)
 - Source: [[Research_Agenda]] — 62 hypotheses from 2 years
 - Biomarkers: [[MOC-Biomarkers]] — Classification system
 - Mechanisms: [[MOC-Insulin-Signaling]] — Mechanism maps

@@ -352,4 +352,4 @@ In summary, while vitamins are used as part of the preparatory steps leading up 
 - Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
 
 ---
-parent-index: [[00-Inbox-Fleeting]]
+parent-index: [[00-Inbox-Index]]
