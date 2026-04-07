@@ -261,6 +261,18 @@ qmd embed --quantization binary  # 32x smaller index
 
 ---
 
+## Implementation Status
+
+| Phase | Feature | Status | Commit |
+|-------|---------|--------|--------|
+| **P0** | `index.yml` config | 🔄 IN PROGRESS | — |
+| **P0** | Git hook auto-update | 🔄 IN PROGRESS | — |
+| **P1** | Hierarchical context | 🔄 IN PROGRESS | — |
+| **P1** | MCP server activation | 🔄 IN PROGRESS | — |
+| **P2** | Per-agent collections | ⏳ Planned | — |
+| **P2** | AST chunking for scripts | ⏳ Planned | — |
+| **P3** | Binary quantization | ⏳ Wait for QMD | Future |
+
 ## Implementation Roadmap
 
 | Phase | Feature | Effort | Priority |

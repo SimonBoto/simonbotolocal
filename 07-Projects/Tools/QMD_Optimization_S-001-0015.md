@@ -122,12 +122,24 @@ qmd query "[source title]" -c literature --json -n 5
 
 ---
 
+## Upgrade Status
+
+| Phase | Status | Commit |
+|-------|--------|--------|
+| Split collections | ✅ Complete | 1b17201d |
+| Add context | ✅ Complete | 1b17201d |
+| FORG protocol | ✅ Complete | 24bd2572 |
+| **Declarative config** | 🔄 In Progress | — |
+| **Git hooks** | 🔄 In Progress | — |
+| **Hierarchical context** | 🔄 In Progress | — |
+| **MCP server** | 🔄 In Progress | — |
+
 ## Next Steps
 
-1. **Activate FORG** — First real extraction with QMD pre-search
-2. **Monitor duplicate rate** — Target <5% duplicate creation
-3. **Tune thresholds** — Adjust 0.50/0.80 cutoffs based on results
-4. **Add more collections** — Daily notes, MOCs if needed
+1. **Complete v2.0 upgrade** — Declarative config, auto-update, MCP
+2. **Activate FORG** — First real extraction with full QMD integration
+3. **Monitor duplicate rate** — Target <5% duplicate creation
+4. **Tune thresholds** — Adjust 0.50/0.80 cutoffs based on results
 
 ---
 
