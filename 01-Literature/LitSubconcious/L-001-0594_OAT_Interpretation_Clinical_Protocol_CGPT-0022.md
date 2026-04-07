@@ -1,27 +1,24 @@
-zettels-created: 6
-extraction-quality: GOLD
 ---
 uid: L-001-0594
 type: lit-note
 title: "OAT Interpretation Clinical Protocol"
-authors: ChatGPT Analysis (CGPT-0022)
+authors: "ChatGPT synthesis (CGPT-0022)"
 year: 2025
-journal: ChatGPT Archive
+journal: "ChatGPT Archive"
 doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: High — Comprehensive OAT marker interpretation, pattern recognition, clinical decision-making
+relevance: "High — Comprehensive OAT marker interpretation, pattern recognition, clinical decision-making"
 status: extracted
-source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
+parent-index: "[[01-Literature-Index]]"
 parent-moc: "[[MOC-Metabolomics-Training]]"
 extraction-date: "2026-03-08"
-source: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
+source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 zettel-count: 5
 reference-count: 0
 tags: [lit-note, oat, organic-acids, interpretation, pattern-recognition, clinical-protocol, metabolomics-training, cGPT-0022]
-zettels-created: 6
-extraction-quality: GOLD
+reviewed_by: PENDING
 ---
 
 # Lit: ChatGPT 2025 — OAT Interpretation Clinical Protocol

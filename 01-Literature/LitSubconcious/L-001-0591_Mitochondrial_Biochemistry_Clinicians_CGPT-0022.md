@@ -1,11 +1,9 @@
-zettels-created: 7
-extraction-quality: GOLD
 ---
 uid: L-001-0591
 type: lit-note
 title: "Mitochondrial Biochemistry for Clinicians"
 aliases: ["L-001-0591", "Mitochondrial-Biochemistry", "CGPT-0022-Mitochondria"]
-authors: "ChatGPT Analysis (CGPT-0022)"
+authors: "ChatGPT synthesis (CGPT-0022)"
 year: 2025
 journal: "ChatGPT Archive"
 doi: N/A
@@ -13,15 +11,15 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: "High — Comprehensive mitochondrial mechanisms, Krebs cycle, OXPHOS, cofactors, OAT interpretation"
-status: active
+status: extracted
+parent-index: "[[01-Literature-Index]]"
 parent-moc: "[[MOC-Mitochondrial-Function]]"
-extraction-date: 2026-03-08
+extraction-date: "2026-03-08"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 zettel-count: 6
 reference-count: 0
 tags: [lit-note, mitochondria, biochemistry, krebs-cycle, oat, cofactors, clinical-education, cgp]
-zettels-created: 7
-extraction-quality: GOLD
+reviewed_by: PENDING
 ---
 
 # Lit: Mitochondrial Biochemistry for Clinicians

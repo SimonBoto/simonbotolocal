@@ -1,11 +1,9 @@
-zettels-created: 8
-extraction-quality: GOLD
 ---
 uid: L-001-0590
 type: lit-note
 title: "Core Clinical Vocabulary — 66 Metabolomics Terms"
 aliases: ["L-001-0590", "Core-Vocabulary", "CGPT-0022-Vocabulary"]
-authors: "ChatGPT Analysis (CGPT-0022)"
+authors: "ChatGPT synthesis (CGPT-0022)"
 year: 2025
 journal: "ChatGPT Archive"
 doi: N/A
@@ -13,15 +11,15 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: "High — Foundational terminology for metabolomics training; 66 terms organized by clinical domain"
-status: active
+status: extracted
+parent-index: "[[01-Literature-Index]]"
 parent-moc: "[[MOC-Metabolomics-Training]]"
-extraction-date: 2026-03-08
+extraction-date: "2026-03-08"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 zettel-count: 7
 reference-count: 0
 tags: [lit-note, metabolomics, vocabulary, terminology, training, clinical-education, cgp]
-zettels-created: 8
-extraction-quality: GOLD
+reviewed_by: PENDING
 ---
 
 # Lit: Core Clinical Vocabulary — 66 Metabolomics Terms
