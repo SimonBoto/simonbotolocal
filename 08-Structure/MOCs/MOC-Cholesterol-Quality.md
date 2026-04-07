@@ -78,7 +78,7 @@ This MOC references pre-v4.0 content. To integrate into v4.1:
 
 ## 📄 Synthesis Documents
 
-- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}]] — {{Description}}
+- {{Synthesis_Title}}_{{S-XXX-XXXX}} — {{Description}}
 
 
 ---
@@ -87,7 +87,7 @@ This MOC references pre-v4.0 content. To integrate into v4.1:
 
 | LitNote | Zettels Extracted | Status |
 |---------|-------------------|--------|
-| [[{{LitNote_Title}}_{{L-XXX-XXXX}}]] | {{N}} zettels | {{status}} |
+| {{LitNote_Title}}_{{L-XXX-XXXX}} | {{N}} zettels | {{status}} |
 
 
 ---
@@ -98,7 +98,7 @@ This MOC references pre-v4.0 content. To integrate into v4.1:
 - [ ] {{Zettel idea}} — {{Why needed}}
 
 **Zettels to review for promotion:**
-- [ ] [[{{Zettel_Title}}_{{Z-XXX-XXXX}}]] — {{Why ready}}
+- [ ] {{Zettel_Title}}_{{Z-XXX-XXXX}} — {{Why ready}}
 
 
 ---

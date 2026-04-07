@@ -81,7 +81,7 @@ parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 
 ## 📄 Synthesis Documents
 
-- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}]] — {{Description}}
+- {{Synthesis_Title}}_{{S-XXX-XXXX}} — {{Description}}
 
 
 ---
@@ -90,7 +90,7 @@ parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 
 | LitNote | Zettels Extracted | Status |
 |---------|-------------------|--------|
-| [[{{LitNote_Title}}_{{L-XXX-XXXX}}]] | {{N}} zettels | {{status}} |
+| {{LitNote_Title}}_{{L-XXX-XXXX}} | {{N}} zettels | {{status}} |
 
 
 ---
@@ -101,7 +101,7 @@ parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 - [ ] {{Zettel idea}} — {{Why needed}}
 
 **Zettels to review for promotion:**
-- [ ] [[{{Zettel_Title}}_{{Z-XXX-XXXX}}]] — {{Why ready}}
+- [ ] {{Zettel_Title}}_{{Z-XXX-XXXX}} — {{Why ready}}
 
 
 ---

@@ -45,7 +45,7 @@ SORT file.ctime DESC
 
 ## 📄 Synthesis Documents
 
-- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}]] — {{Description}}
+- {{Synthesis_Title}}_{{S-XXX-XXXX}} — {{Description}}
 
 
 ---
@@ -54,7 +54,7 @@ SORT file.ctime DESC
 
 | LitNote | Zettels Extracted | Status |
 |---------|-------------------|--------|
-| [[{{LitNote_Title}}_{{L-XXX-XXXX}}]] | {{N}} zettels | {{status}} |
+| {{LitNote_Title}}_{{L-XXX-XXXX}} | {{N}} zettels | {{status}} |
 
 
 ---
@@ -65,7 +65,7 @@ SORT file.ctime DESC
 - [ ] {{Zettel idea}} — {{Why needed}}
 
 **Zettels to review for promotion:**
-- [ ] [[{{Zettel_Title}}_{{Z-XXX-XXXX}}]] — {{Why ready}}
+- [ ] {{Zettel_Title}}_{{Z-XXX-XXXX}} — {{Why ready}}
 
 
 ---

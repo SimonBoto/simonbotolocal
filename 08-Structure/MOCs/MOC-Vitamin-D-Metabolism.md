@@ -125,7 +125,7 @@ vit_d_baseline_ng_ml, vit_d_3mo_ng_ml, vit_d_6mo_ng_ml, vit_d_dose_iu_daily
 
 ## 📄 Synthesis Documents
 
-- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}]] — {{Description}}
+- {{Synthesis_Title}}_{{S-XXX-XXXX}} — {{Description}}
 
 
 ---
@@ -134,7 +134,7 @@ vit_d_baseline_ng_ml, vit_d_3mo_ng_ml, vit_d_6mo_ng_ml, vit_d_dose_iu_daily
 
 | LitNote | Zettels Extracted | Status |
 |---------|-------------------|--------|
-| [[{{LitNote_Title}}_{{L-XXX-XXXX}}]] | {{N}} zettels | {{status}} |
+| {{LitNote_Title}}_{{L-XXX-XXXX}} | {{N}} zettels | {{status}} |
 
 
 ---
@@ -145,7 +145,7 @@ vit_d_baseline_ng_ml, vit_d_3mo_ng_ml, vit_d_6mo_ng_ml, vit_d_dose_iu_daily
 - [ ] {{Zettel idea}} — {{Why needed}}
 
 **Zettels to review for promotion:**
-- [ ] [[{{Zettel_Title}}_{{Z-XXX-XXXX}}]] — {{Why ready}}
+- [ ] {{Zettel_Title}}_{{Z-XXX-XXXX}} — {{Why ready}}
 
 
 ---
