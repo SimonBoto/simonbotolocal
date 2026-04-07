@@ -1,34 +1,50 @@
-<!-- NEW_NAME: MOC-Nutrition.md -->
 ---
-tags: [moc, nutrition]
+uid: MOC-NUTRITION-001
+type: moc
+title: MOC — Nutrition
+aliases: [Nutrition-MOC, MOC-Nutrition-Risks, MOC-Nutrition-Hub]
+description: "Overarching map for nutrition: vitamins, minerals, gut, studies, clinical applications"
+tags: [moc, nutrition, vitamins, minerals, gut-health, clinical-nutrition]
+parent-moc: [[MOC-Vitamin-Mineral-Axis]]
+status: active
+created: 2026-02-15
+last-updated: 2026-04-07
 ---
 
-# Nutrition MOC
+# MOC: Nutrition
 
-Overarching map for 66-Nutrition subs (Vitamins, Gut, etc.) + studies.
+> **Overarching map for nutrition: vitamins, minerals, gut, studies, clinical applications**
 
-## Sub-MOCs/Folders
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-
-## Atomic Notes
-- 
-- 
-- 
-- 
-- 
-## Related
-- 
-
-^{20260215T1246-Nutrition-MOC}
 ---
-parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 
+## 🎯 Entry Points
+
+**Core Domains:**
+- [[MOC-Vitamin-Metabolism]] — Vitamin biochemistry
+- [[MOC-Vitamin-Mineral-Axis]] — Micronutrient interactions
+- [[MOC-Supplements]] — Supplement guides
+- [[MOC-Nutrition-Risks]] — Nutritional risk factors
+
+---
+
+## 📊 Sub-Domains
+
+### Vitamins
+- [[MOC-Vitamin-D-Metabolism]] — Vitamin D specifically
+- [[MOC-Vitamin-C]] — Vitamin C
+- B-vitamins via [[MOC-Methylation-One-Carbon]]
+
+### Minerals
+- [[MOC-Minerals-Trace]] — Trace minerals
+- [[MOC-Iron-Metabolism]] — Iron specifically
+
+### Gut & Microbiome
+- Gut health connections
+- Microbiome-metabolism axis
+
+### Clinical Applications
+- [[MOC-Hidden-Hunger]] — Micronutrient deficiencies
+- [[MOC-Nutrition-Risks]] — Risk assessment
 
 ---
 
@@ -36,44 +52,20 @@ parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 
 | MOC | Connection |
 |-----|------------|
-| [[MOC-Example]] | {{Why related}} |
-| [[MOC-Example]] | {{Why related}} |
+| [[MOC-Vitamin-Metabolism]] | Vitamin biochemistry |
+| [[MOC-Vitamin-Mineral-Axis]] | Micronutrient synergy |
+| [[MOC-Supplements]] | Practical application |
+| [[MOC-Metabolic-Syndrome]] | Disease connection |
 
+## ⚠️ Nutrition Risk Factors
 
----
-
-## 📄 Synthesis Documents
-
-- [[{{Synthesis_Title}}_{{S-XXX-XXXX}}]] — {{Description}}
-
-
----
-
-## 📚 Source LitNotes
-
-| LitNote | Zettels Extracted | Status |
-|---------|-------------------|--------|
-| [[{{LitNote_Title}}_{{L-XXX-XXXX}}]] | {{N}} zettels | {{status}} |
-
+| Risk Category | Examples |
+|---------------|----------|
+| Inflammation | Dietary triggers, omega-6/3 imbalance |
+| Genetics | MTHFR, nutrient processing variants |
+| Mitochondrial | Nutrient deficiencies affecting OXPHOS |
+| Deficiencies | Hidden hunger, subclinical deficits |
 
 ---
 
-## 🆕 Zettel Backlog
-
-**Zettels to create:**
-- [ ] {{Zettel idea}} — {{Why needed}}
-
-**Zettels to review for promotion:**
-- [ ] [[{{Zettel_Title}}_{{Z-XXX-XXXX}}]] — {{Why ready}}
-
-
----
-
-## 📝 Status History
-
-| Date | Status | Notes |
-|------|--------|-------|
-| {{YYYY-MM-DD}} | created | Initial MOC setup |
-
----
-parent-moc: [[MOCs-Index]]
+*MOC-NUTRITION-001 | Created: 2026-02-15 | Status: active*

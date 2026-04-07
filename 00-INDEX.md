@@ -3,10 +3,14 @@ uid: ROOT-INDEX
 type: index
 title: Root Index
 date: 2026-04-07
-aliases: [Root-Index, Master-Navigation]
-tags: [index, root, navigation]
+aliases:
+  - Root-Index
+  - Master-Navigation
+tags:
+  - index
+  - root
+  - navigation
 status: active
-parent-moc: [[00-MISSION]]
 ---
 
 # Root Index

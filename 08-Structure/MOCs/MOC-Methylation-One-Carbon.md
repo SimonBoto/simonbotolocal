@@ -2,7 +2,7 @@
 uid: 202602260002
 type: moc
 title: MOC — Methylation & One-Carbon Metabolism
-aliases: [MOC_Methylation, MOC_One_Carbon, MOC_MTHFR, MOC_B12_Folate]
+aliases: [MOC_Methylation, MOC-Methylation, MOC_One_Carbon, MOC_MTHFR, MOC_B12_Folate]
 tags: [moc, methylation, b12, folate, homocysteine, biomarker, mthfr]
 domain: 004
 parent-moc: [[08-Dashboards/Dashboard_Home]

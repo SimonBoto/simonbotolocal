@@ -1,8 +1,15 @@
 ---
+uid: MOC-METAB-TRAIN-001
+type: moc
+title: MOC — Metabolomics Training
 aliases: [MOC-Metabolomics-Training, MOC-Systems-Biology, MOC-Omics-Cascade, MOC-Clinical-Training]
+description: "Navigation hub for metabolomics training and education"
 tags: [moc, map-of-content, metabolomics, training, omics, systems-biology, clinical-education]
-status: real
+parent-moc: [[MOC-Metabolomics]]
+status: active
 version: 2.0
+created: 2024-01-01
+last-updated: 2026-04-07
 ---
 
 # MOC: Metabolomics Training
