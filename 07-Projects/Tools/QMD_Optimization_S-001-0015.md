@@ -129,10 +129,12 @@ qmd query "[source title]" -c literature --json -n 5
 | Split collections | ✅ Complete | 1b17201d |
 | Add context | ✅ Complete | 1b17201d |
 | FORG protocol | ✅ Complete | 24bd2572 |
-| **Declarative config** | 🔄 In Progress | — |
-| **Git hooks** | 🔄 In Progress | — |
-| **Hierarchical context** | 🔄 In Progress | — |
-| **MCP server** | 🔄 In Progress | — |
+| **Declarative config** | ✅ Complete | 5701f48e |
+| **Git hooks** | ✅ Complete | 5701f48e |
+| **Hierarchical context** | ✅ Complete | 5701f48e |
+| **MCP server** | ✅ Complete | 5701f48e |
+
+**Status: QMD v2.0 INFRASTRUCTURE COMPLETE**
 
 ## Next Steps
 
