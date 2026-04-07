@@ -85,9 +85,47 @@ Enhanced wiki           ← Outputs add back to knowledge base
 - Matplotlib for visual outputs
 - Custom search engine CLI tool
 
+### Karpathy — "Human-in-the-Loop" (Apr 3, 2026)
+
+> *"Atm it's not a fully autonomous process, I add every source manually, one by one and I am in the loop, especially in early stages. After a while, the LLMs 'gets' the pattern and the marginal document is a lot easier, I just say 'file this new doc to our wiki: (path)'."*
+
+**Key Insight:** Start manual, then progressively automate as patterns emerge.
+
+### Karpathy — "LLM = CPU, Agent = OS Kernel" (Mar 31, 2026)
+
+> *"LLM = CPU (data: tokens not bytes, dynamics: statistical and vague not deterministic and precise) Agent = operating system kernel"*
+
+**Key Insight:** Think of agents as system orchestrators, not just chat interfaces.
+
+### Karpathy — "Farzapedia & Explicit Memory" (Apr 5, 2026)
+
+On Farza's personal Wikipedia (2,500 entries → 400 articles):
+> *"I really like this approach to personalization in a number of ways, compared to 'status quo' of an AI that allegedly gets better the more you use it or something: 1. Explicit. The memory artifact"*
+
+**Key Principles:**
+1. **Explicit** — Memory artifact is tangible, inspectable
+2. **Structured** — Not just chat history, but organized knowledge
+3. **Composable** — Articles link, form higher-order structures
+4. **Human-verified** — Quality control at each step
+
 ---
 
 ## Synthesis: RON/FORG Memory Architecture
+
+### Implementation Status
+
+| Phase | Component | Status | Commit |
+|-------|-----------|--------|--------|
+| **P0** | Named agents (RON + FORG) | ✅ Complete | — |
+| **P0** | SOUL files | ✅ Complete | — |
+| **P0** | Raw data (00-Inbox) | ✅ Complete | — |
+| **P0** | Compiled wiki (vault) | ✅ Complete | — |
+| **P0** | Obsidian IDE | ✅ Complete | — |
+| **P0** | QMD search integration | ✅ Complete | 5701f48e |
+| **P1** | Auto-compilation (FORG) | 🔄 Ready to activate | — |
+| **P1** | Linting/health checks | ✅ Periodic audit active | — |
+| **P2** | Relevance scoring | ⏳ Planned | — |
+| **P2** | Human-in-the-loop protocol | 🔄 Defined | — |
 
 ### Current Alignment
 
@@ -100,9 +138,11 @@ Enhanced wiki           ← Outputs add back to knowledge base
 | **Raw data** | ⚠️ Audio/video | ✅ Documents | ✅ 00-Inbox/ |
 | **Compiled wiki** | ⚠️ HyperCard | ✅ Markdown | ✅ Vault structure |
 | **Obsidian IDE** | ⚠️ Stacks | ✅ Modern | ✅ Active |
-| **Auto-compilation** | ⚠️ Training | ✅ LLM-driven | ⚠️ FORG pending |
-| **Q&A against KB** | ⚠️ Search | ✅ LLM queries | ⚠️ QMD in progress |
+| **Auto-compilation** | ⚠️ Training | ✅ LLM-driven | 🔄 **FORG ready** |
+| **Q&A against KB** | ⚠️ Search | ✅ LLM queries | ✅ **QMD complete** |
 | **Linting/health** | ⚠️ Manual | ✅ LLM checks | ✅ Periodic audit |
+| **Human-in-loop** | ⚠️ Manual | ✅ Early stages manual | ✅ **FORG→RON defined** |
+| **Explicit artifact** | ⚠️ Implicit | ✅ Required | ✅ **Vault commits** |
 
 ---
 
@@ -151,15 +191,38 @@ Monthly linting:
 
 ## FORG Activation Plan
 
-Based on Karpathy's "LLM maintains the wiki" principle:
+Based on Karpathy's principles:
 
-| Phase | Task | Model |
-|-------|------|-------|
-| 1 | Draft LitNotes from CGPT anchors | FORG (Qwen Plus) |
-| 2 | Review and validate | RON (Kimi k2.5) |
-| 3 | Commit to vault | RON |
-| 4 | Update MEMORY.md | RON |
-| 5 | Weekly consolidation | RON + manual |
+### Phase 1: Human-in-the-Loop (Current)
+> *"I add every source manually, one by one and I am in the loop, especially in early stages."* — Karpathy
+
+| Step | Action | Agent | Human |
+|------|--------|-------|-------|
+| 1 | Select CGPT anchor | — | **You** |
+| 2 | QMD search for duplicates | FORG | — |
+| 3 | Draft LitNote + zettels | FORG | — |
+| 4 | Review and validate | — | **RON** |
+| 5 | Edit/approve | — | **You** |
+| 6 | Commit to vault | RON | — |
+
+### Phase 2: Progressive Automation (After Pattern Established)
+> *"After a while, the LLMs 'gets' the pattern and the marginal document is a lot easier."* — Karpathy
+
+| Step | Action | Agent | Human |
+|------|--------|-------|-------|
+| 1 | Batch select anchors | FORG suggests | **You approve** |
+| 2 | Auto-draft | FORG | — |
+| 3 | Spot-check review | — | **You sample** |
+| 4 | Auto-commit low-risk | RON | — |
+| 5 | Flag uncertain for review | FORG | **You decide** |
+
+### Phase 3: Autonomous Operation (Future)
+> *"I just say 'file this new doc to our wiki: (path)'"* — Karpathy
+
+- FORG monitors inbox automatically
+- Drafts new LitNotes
+- RON validates
+- You review summaries, not every draft
 
 **Cost structure:** 95% FORG ($0.26/M), 5% RON ($40/M) = ~98% savings
 
@@ -179,9 +242,15 @@ Based on Karpathy's "LLM maintains the wiki" principle:
 
 ## References
 
+### Roemmele
 - Roemmele, B. (2026, Apr 3). *Memory Forgetting Strategy for Autonomous Agents*. X/Twitter.
-- Karpathy, A. (2026, Apr 2). *LLM Knowledge Bases*. X/Twitter.
 - Roemmele, B. *Love Equation Alignment for AI SAFE²*. Cyber Strategy Institute.
+
+### Karpathy
+- Karpathy, A. (2026, Apr 2). *LLM Knowledge Bases*. X/Twitter. https://x.com/karpathy/status/2039805659525644595
+- Karpathy, A. (2026, Apr 3). *Human-in-the-Loop Workflow*. X/Twitter. https://x.com/karpathy/status/2039812403962253744
+- Karpathy, A. (2026, Apr 5). *Farzapedia & Explicit Memory*. X/Twitter. https://x.com/karpathy/status/2040572272944324650
+- Karpathy, A. (2026, Mar 31). *LLM = CPU, Agent = OS Kernel*. X/Twitter. https://x.com/karpathy/status/2039054981719089202
 
 ---
 
