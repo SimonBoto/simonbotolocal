@@ -44,8 +44,8 @@ parent-index: [[08-Structure-Index]]
 
 | Template | Use | Version |
 |----------|-----|---------|
-| Template_Biomarker_Deep_Dive_v1.0.md | Lab interpretation | v1.0 |
-| Template_Supplement_v1.0.md | Product catalog | v1.0 |
+| **Template_Biomarker.md** | **Lab interpretation (zettel-style)** | **v2.0** |
+| **Template_Supplement.md** | **Product catalog (zettel-style)** | **v2.0** |
 
 ## Template Consolidation History
 
