@@ -19,9 +19,8 @@ parent-index: [[08-Structure-Index]]
 | File | Purpose | When to Check |
 |------|---------|---------------|
 | [[00-COMMAND]] | Operating orders & system state | Every session |
-| [[01-PIPELINE]] | Processing flow & backlog | Daily |
-| [[02-HANDOFF]] | Session state & context | Per session |
-| [[02-LOG]] | Activity history | As needed |
+| [[01-PIPELINE]] | Flow truth & bottlenecks | Before accepting orders |
+| [[02-HANDOFF]] | Session transfer state | Per session start/end |
 
 ---
 
@@ -31,15 +30,14 @@ parent-index: [[08-Structure-Index]]
 |-----------|------|---------|
 | **00-COMMAND** | Orders + State | You refresh priorities; I auto-report metrics |
 | **01-PIPELINE** | Flow truth + Bottlenecks | I diagnose; you verify; update on reality change |
-| **02-HANDOFF** | Session context | Per session start/end |
-| **02-LOG** | Historical record | Append-only |
+| **02-HANDOFF** | Session transfer state | Per session start/end |
 
 ### How They Work Together
 
 ```
 MISSION (why) → COMMAND (what to do) → PIPELINE (what's true)
                       ↓
-               HANDOFF (where we are) → LOG (what happened)
+               HANDOFF (where we are) → DAILY (what happened)
 ```
 
 - **MISSION** gives orientation
@@ -53,8 +51,8 @@ MISSION (why) → COMMAND (what to do) → PIPELINE (what's true)
 ## Quick Navigation
 
 **Starting work?** → Read [[00-COMMAND]] then [[01-PIPELINE]]  
-**Ending session?** → Update [[01-HANDOFF]]  
-**What happened?** → Check [[02-LOG]]
+**Ending session?** → Update [[02-HANDOFF]]  
+**What happened?** → Check [[08-Structure/Daily/Daily-Index]]
 
 ---
 

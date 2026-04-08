@@ -28,8 +28,9 @@ status: active
 | **Why we exist** | [[00-MISSION]] — The North Star (charter) |
 | **What to do now** | [[00-COMMAND]] — Current priorities & orders |
 | **What's actually true** | [[01-PIPELINE]] — Flow state & bottlenecks |
+| **Where we are** | [[02-HANDOFF]] — Session state |
+| **What happened** | [[08-Structure/Daily/Daily-Index]] — Daily notes |
 | **How we work** | [[08-Structure/Protocols/Protocols-Index]] — Workflows |
-| **Current context** | [[02-HANDOFF]] — Session state |
 
 ---
 
