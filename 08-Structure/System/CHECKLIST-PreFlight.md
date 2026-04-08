@@ -36,8 +36,8 @@ echo "Zettels:"; ls 03-Zettels/Conscious/*.md | grep -oE "Z-[0-9]+-[0-9]+" | sor
 ## ☐ 2. Load Templates + Classify Tier (10 sec)
 
 **Read before creating files:**
-- [ ] `08-Structure/Templates/Template_LitNote_v2.0.md`
-- [ ] `08-Structure/Templates/Template_Zettel.md` (canonical)
+- [ ] `08-Structure/Templates/Template_LitNote.md` (canonical v4.0)
+- [ ] `08-Structure/Templates/Template_Zettel.md` (canonical v4.0)
 
 **Classify this extraction:**
 - [ ] **GOLD:** Deep, 3-4 atomics, high value

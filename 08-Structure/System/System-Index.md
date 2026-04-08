@@ -14,12 +14,14 @@ parent-index: [[08-Structure-Index]]
 
 ---
 
-## Contents
+## Essential System Files
 
 | File | Purpose |
 |------|---------|
+| [[README]] | System overview and standards |
 | [[CHECKLIST-PreFlight]] | Pre-flight validation checklist |
 | [[EMERGENCY-Recovery]] | OpenClaw gateway recovery procedures |
+| [[TEMPLATE_SYSTEM_MANIFEST]] | Canonical template documentation |
 
 ---
 
@@ -28,10 +30,9 @@ parent-index: [[08-Structure-Index]]
 | Folder | Contents |
 |--------|----------|
 | [[08-Structure/Protocols]] | Extraction protocols and workflows |
-| [[08-Structure/Archive]] | Historical reports and audits |
+| [[08-Structure/Templates]] | Note templates (canonical) |
 | [[08-Structure/Dashboards]] | Operational dashboards |
-| [[04-Synthesis]] | Terminology (LEXICON, threekeys) |
-| [[03-Zettels/RON]] | RON project index |
+| [[09-Archive]] | Historical reports and audits |
 
 ---
 
