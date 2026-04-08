@@ -20,7 +20,7 @@ parent-moc: [[08 Structure Index]]
 | Template_Inbox_v2.0.md | Adaptive inbox — size determines path | v2.0 |
 | Template_Inbox_Fleeting_v1.0.md | Quick capture (Luhmann-style, 48h rule) | v1.0 |
 | Template_LitNote_v2.0.md | Processed sources (unified) | v2.0 |
-| Template_Zettel_v2.0.md | Atomic knowledge (unified) | v2.0 |
+| **Template_Zettel.md** | **Atomic knowledge (canonical)** | **v4.0** |
 | Template_Daily_v1.0.md | Date-stamped daily logs | v1.0 |
 
 ## Reference Templates (USE CORRECT ONE)
@@ -60,12 +60,12 @@ parent-moc: [[08 Structure Index]]
 
 ```
 Input
-  ├── Single atomic idea → Template_Zettel_v2.0.md (direct)
+  ├── Single atomic idea → Template_Zettel.md (direct)
   ├── Quick capture → Template_Inbox_Fleeting_v1.0.md
   └── Source material → Template_Inbox_v2.0.md
        ├── Article/Review → Template_LitNote_v2.0.md
        ├── Book/Chapter → Template_LitNote_v2.0.md (scalable)
-       └── Conversation → Template_Zettel_v2.0.md (direct)
+       └── Conversation → Template_Zettel.md (direct)
 ```
 
 ---

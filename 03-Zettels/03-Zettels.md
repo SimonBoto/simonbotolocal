@@ -64,7 +64,7 @@ Promotion Criteria Met?
 **Linked:** 2-5 links to other zettels
 **Dated:** Creation date in YAML
 **Sourced:** Link to source (Hub or LitNote)
-**Templated:** Use `[[06-Structure/Templates/Template_Zettel_v2.0]`
+**Templated:** Use `[[08-Structure/Templates/Template_Zettel]]` (canonical v4.0)
 
 ### Naming
 ```

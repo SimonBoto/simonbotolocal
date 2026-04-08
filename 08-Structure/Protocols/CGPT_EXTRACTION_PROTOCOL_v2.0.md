@@ -31,7 +31,7 @@ changes: "v2.0 — Post-correction protocol. Enforces template compliance, elimi
 ```bash
 # Verify templates exist and are readable
 ls /home/simon/Workspaces/TheOptimizedBrain/06-Structure/Templates/Template_LitNote_v1.0.md
-ls /home/simon/Workspaces/TheOptimizedBrain/06-Structure/Templates/Template_Zettel_v2.0.md
+ls /home/simon/Workspaces/TheOptimizedBrain/08-Structure/Templates/Template_Zettel.md
 ```
 
 ### □ 2. Git Status Check

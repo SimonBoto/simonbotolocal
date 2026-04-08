@@ -37,7 +37,7 @@ echo "Zettels:"; ls 03-Zettels/Conscious/*.md | grep -oE "Z-[0-9]+-[0-9]+" | sor
 
 **Read before creating files:**
 - [ ] `08-Structure/Templates/Template_LitNote_v2.0.md`
-- [ ] `08-Structure/Templates/Template_Zettel_v2.0.md`
+- [ ] `08-Structure/Templates/Template_Zettel.md` (canonical)
 
 **Classify this extraction:**
 - [ ] **GOLD:** Deep, 3-4 atomics, high value

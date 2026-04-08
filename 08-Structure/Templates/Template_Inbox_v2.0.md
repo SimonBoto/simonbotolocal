@@ -20,7 +20,7 @@ version: "2.0"
 ### If Single Atomic Idea
 → **Direct to Zettel** (skip LitNote)
 - Create: `Zettel_Title_Z-XXX-XXXX.md`
-- Template: `Template_Zettel_v2.0.md`
+- Template: `Template_Zettel.md` (canonical)
 
 ### If Article/Review (2-10 zettels)
 → **Standard LitNote**
