@@ -10,6 +10,34 @@ updated: 2026-04-08
 
 # Template — Inbox (Canonical)
 
+## Canonical YAML
+
+```yaml
+---
+uid: INBOX-YYYY-MM-DD-HHMM
+type: inbox
+date: YYYY-MM-DD
+status: captured|routed|discarded
+parent-index: "[[00-Inbox-Index]]"
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+---
+```
+
+### Field Logic
+
+| Field | Rule |
+|-------|------|
+| **uid** | Pattern: `INBOX-YYYY-MM-DD-HHMM` (timestamp) |
+| **type** | Always `inbox` |
+| **date** | Capture date |
+| **status** | `captured` \| `routed` \| `discarded` |
+| **parent-index** | Always `[[00-Inbox-Index]]` |
+| **created** | Date note created |
+| **updated** | Date last modified |
+
+---
+
 ## An Address to RON
 
 RON,

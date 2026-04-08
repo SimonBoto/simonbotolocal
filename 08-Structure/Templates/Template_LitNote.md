@@ -65,6 +65,8 @@ source-inbox: "[[Source_File_or_Anchor]]"
 zettel-count: N
 reference-count: N
 reviewed_by: ""
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
 tags:
   - lit-note
   - topic-tag
@@ -85,6 +87,8 @@ tags:
 | **status** | Process state: draft → processing → extracted → complete |
 | **parent-moc** | Best thematic home. Verify exists. |
 | **source-inbox** | Entry path of source (high value for traceability) |
+| **created** | Date note created |
+| **updated** | Date last modified |
 | **zettel-count** | Number of zettels extracted |
 | **reference-count** | References used/attached |
 

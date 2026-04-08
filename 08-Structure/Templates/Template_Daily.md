@@ -38,10 +38,27 @@ type: daily-note
 date: YYYY-MM-DD
 day: Monday
 tags: [daily]
+parent-moc: "[[MOC-Daily-Operations]]"
 parent-index: "[[Daily-Index]]"
 status: active
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
 ---
 ```
+
+### Field Logic
+
+| Field | Rule |
+|-------|------|
+| **uid** | Pattern: `DAILY-YYYY-MM-DD` |
+| **type** | Always `daily-note` |
+| **date** | ISO date |
+| **day** | Day of week |
+| **parent-moc** | Thematic home: `[[MOC-Daily-Operations]]` |
+| **parent-index** | Always `[[Daily-Index]]` |
+| **status** | `active` or `archived` |
+| **created** | Date note created |
+| **updated** | Date last modified |
 
 ---
 
