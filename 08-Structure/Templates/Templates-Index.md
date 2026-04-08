@@ -22,7 +22,7 @@ parent-index: [[08-Structure-Index]]
 | Template_Inbox_Fleeting_v1.0.md | Quick capture (Luhmann-style, 48h rule) | v1.0 |
 | Template_LitNote_v2.0.md | Processed sources (unified) | v2.0 |
 | Template_Zettel.md | Atomic knowledge (canonical) | v4.0 |
-| Template_Daily_v1.0.md | Date-stamped daily logs | v1.0 |
+| **Template_Daily.md** | **Date-stamped daily logs** | **v2.0** |
 
 ## Reference Templates (USE CORRECT ONE)
 

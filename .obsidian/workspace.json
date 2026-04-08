@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-Structure/Templates/Template_Daily_v1.0.md",
+                "file": "08-Structure/Daily/2026/2026-04-05-session-handoff.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -134,7 +134,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Template_Daily_v1.0"
+              "title": "2026-04-05-session-handoff"
             }
           }
         ],
@@ -316,11 +316,13 @@
   },
   "active": "24c22f83bdd3ec48",
   "lastOpenFiles": [
+    "08-Structure/Templates/Template_Daily_v1.0.md",
+    "08-Structure/Templates/Archive/Template_Daily_v1.0.md",
+    "08-Structure/Templates/Template_Daily.md",
     "08-Structure/Templates/Template_Zettel.md",
     "08-Structure/Templates/Template_Zettel_v2.0.md",
     "08-Structure/Templates/Archive/Template_Zettel_v2.0.md",
     "08-Structure/Templates/Template_Zettel_v4.0.md",
-    "08-Structure/Templates/Template_Daily_v1.0.md",
     "09-Archive/LOG-Historical-2026-04-08.md",
     "08-Structure/Daily/2026/2026-04-08.md",
     "08-Structure/Daily/2026/2026-04-05-session-handoff.md",
@@ -340,8 +342,6 @@
     "01-Literature/L-002-0211_Fried_Potatoes_Seed_Oils_Diabetes.md",
     "01-Literature/L-002-0210_Not_All_Calories_Equal.md",
     "08-Structure/System/Audit_Review_Articles_1-8.md",
-    "08-Structure/System/REFERENCE_MERGE_PLAN.md",
-    "01-Literature/L-002-0181_Fasting_Enhances_Immunotherapy.md",
     "memory",
     "01-Literature/LitSubconcious/L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445.md.tmp",
     "01-Literature/LitSubconcious/L-001-0518_Mevalonate_Pathway_Biochemistry_CGPT-0391.md.tmp",
