@@ -117,16 +117,10 @@ From [[00-COMMAND]] — Do Now:
 ---
 
 ## Navigation
-- **Index:** [[Daily-Index]] — All daily notes
-- **Yesterday:** [[DAILY-YYYY-MM-DD]]
-- **Tomorrow:** [[DAILY-YYYY-MM-DD]]
-
----
-
-## Navigation
-
 - **Index:** [[Templates-Index]] — All templates
 - **Up:** [[08-Structure-Index]] — System infrastructure
+- **Yesterday:** [[DAILY-YYYY-MM-DD]]
+- **Tomorrow:** [[DAILY-YYYY-MM-DD]]
 
 ---
 
