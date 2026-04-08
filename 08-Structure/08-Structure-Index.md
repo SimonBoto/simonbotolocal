@@ -24,6 +24,8 @@ tags: [index, structure, system]
 | System/ | Active infrastructure | [[System-Index]] |
 | Templates/ | Note templates | [[Templates-Index]] |
 
+**System overview:** See [[00-INDEX]] — Standards and quick start
+
 ---
 
 ## Connection to Vault

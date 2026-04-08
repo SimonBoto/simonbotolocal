@@ -18,10 +18,10 @@ parent-index: [[08-Structure-Index]]
 
 | File | Purpose |
 |------|---------|
-| [[README]] | System overview and standards |
 | [[CHECKLIST-PreFlight]] | Pre-flight validation checklist |
 | [[EMERGENCY-Recovery]] | OpenClaw gateway recovery procedures |
 
+**System overview:** [[00-INDEX]] — Standards and quick start
 
 ---
 

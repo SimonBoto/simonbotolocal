@@ -102,13 +102,61 @@ status: active
 
 ---
 
+## 📐 Standards
+
+### UID Format
+`{TYPE}-{DOMAIN}-{SEQUENCE}`
+- **T** = Type (Z=Zettel, L=LitNote, S=Synthesis, R=Reference)
+- **DDD** = Domain (001=Insulin, 101=Pharmacometabolomics)
+- **SSSS** = Sequence (0001, 0002...)
+
+### YAML Required Fields
+```yaml
+---
+uid: XXX-XXX-XXXX
+type: [zettel|lit-note|reference|moc|synthesis]
+title: "Full Title"
+domain: XXX
+tags: [tag1, tag2]
+parent-moc: [[MOC-Name]]
+parent-index: [[Index-Name]]
+status: active
+---
+```
+
+### Alignment Principle
+| Location | Role |
+|----------|------|
+| **Workspace** (`~/.openclaw/workspace/`) | HQ — Core identity, memory, protocols |
+| **Vault** (`~/Workspaces/TheOptimizedBrain/`) | The house — All knowledge, zettels, sources |
+| **08-Structure** | Source of truth — Templates, protocols, dashboards |
+
+---
+
 ## 🦞 System
 
 - [[00-MISSION]] — The North Star
-- [[PROJECT_CONTROL_BOARD]] — Active sprint tracking
+- [[00-COMMAND]] — Current priorities
+- [[01-PIPELINE]] — Flow state
+- [[02-HANDOFF]] — Session state
 - [[System-Index]] — System infrastructure
 - [[08-Structure/System/CHECKLIST-PreFlight]] — Session start protocol
 - [[08-Structure/System/EMERGENCY-Recovery]] — When things break
 
 ---
+
+## 🎯 Quick Start
+
+**New to the vault?**
+1. Read [[00-MISSION]] — Why we exist (1 min)
+2. Read [[00-COMMAND]] — What to do now (2 min)
+3. Check [[01-PIPELINE]] — What's actually true (2 min)
+4. Read [[02-HANDOFF]] — Where we are (2 min)
+
+**Starting work?**
+1. Run [[CHECKLIST-PreFlight]] — 30-second validation
+2. Use [[08-Structure/Templates/Template_LitNote]] — Standard format
+
+---
+
 *This index is the root of the tree — every note reachable from here.*
