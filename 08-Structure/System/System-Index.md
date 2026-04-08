@@ -21,7 +21,7 @@ parent-index: [[08-Structure-Index]]
 | [[README]] | System overview and standards |
 | [[CHECKLIST-PreFlight]] | Pre-flight validation checklist |
 | [[EMERGENCY-Recovery]] | OpenClaw gateway recovery procedures |
-| [[TEMPLATE_SYSTEM_MANIFEST]] | Canonical template documentation |
+
 
 ---
 
