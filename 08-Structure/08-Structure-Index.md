@@ -18,20 +18,19 @@ tags: [index, structure, system]
 | Folder | Purpose | Index |
 |--------|---------|-------|
 | Dashboards/ | Operational dashboards | [[Dashboards-Index]] |
-| Daily/ | Date-stamped logs | [[Daily-Index]] |
-| Keywords/ | Keyword MOCs | Keywords Index |
+| Daily/ | Date-stamped daily logs | [[Daily-Index]] |
 | MOCs/ | Maps of Content | [[MOCs-Index]] |
 | Protocols/ | Process documentation | [[Protocols-Index]] |
-| System/ | Root notes archive | [[System-Index]] |
+| System/ | Active infrastructure | [[System-Index]] |
 | Templates/ | Note templates | [[Templates-Index]] |
 
 ---
 
 ## Connection to Vault
 
-- Up: [[07-Projects-Index]]
+- Up: [[00-INDEX]] — Master navigation hub
 - Down: All subfolder indexes
-- Related: [[09-Archive-Index]]
+- Related: [[07-Projects-Index]], [[09-Archive-Index]]
 
 ---
 
