@@ -96,4 +96,4 @@ source: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
 ---
 
 ---
-parent-index: [[01-Literature]]
+parent-index: [[01-Literature 1]]

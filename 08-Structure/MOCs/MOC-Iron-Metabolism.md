@@ -94,7 +94,7 @@ Iron is essential for oxygen transport, energy production, and methylation. **If
 | Transferrin Sat | >50% |
 | Consider | Hemochromatosis screening |
 
-**Zettel:** [[Iron_Status_Patterns_ACD_Overload_Z-003-0013]] — Iron status pattern recognition (ACD vs overload)
+**Zettel:** [[Iron_Status_Patterns_ACD_Overload_[[Iron_Status_Patterns_ACD_Overload_Z-003-0013]] — Iron status pattern recognition (ACD vs overload) (ACD vs overload)
 
 ---
 

@@ -72,7 +72,7 @@ tags:
 - **MOC:** [[MOC-Clinical-Protocols]] — Thematic domain
 - **INBOX:** [[INBOX-Article-32-Modifiable]] — Article source
 - **Reference:** [[Lifestyle_Factors_Modifiable_R-002-0053]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

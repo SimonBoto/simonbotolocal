@@ -76,7 +76,7 @@ tags:
 - **MOC:** [[MOC-Longevity]] — Related domain
 - **INBOX:** [[INBOX-Article-56-Walking-Mortality]] — Article source
 - **Reference:** [[Paluch_2023_Walking_Mortality_JAMA_R-002-0068]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

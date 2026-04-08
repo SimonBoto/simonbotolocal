@@ -72,7 +72,7 @@ tags:
 - **MOC:** [[MOC-Nutrition]] — Thematic domain
 - **INBOX:** [[INBOX-Article-28-Hong-Kong]] — Article source
 - **Reference:** [[Hong_Kong_Meat_Longevity_Paradox_R-002-0049]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

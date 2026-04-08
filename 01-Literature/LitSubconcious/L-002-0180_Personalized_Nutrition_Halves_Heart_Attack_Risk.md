@@ -72,7 +72,7 @@ Personalized nutritional interventions based on individual metabolic profiles (p
 - **MOC:** [[MOC-Clinical-Protocols]] — Thematic domain
 - **INBOX:** [[INBOX-Article-19-Personalized-Nutrition]] — Article source
 - **Reference:** [[Bermingham_2024_Personalized_Nutrition_RCT_R-002-0040]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

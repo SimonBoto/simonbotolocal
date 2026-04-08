@@ -75,7 +75,7 @@ tags:
 - **MOC:** [[MOC-Personalized-Nutrition]] — Thematic domain
 - **INBOX:** [[INBOX-Article-34-Personalized-Vitamin-D]] — Article source
 - **Reference:** [[May_2025_TARGET_D_Vitamin_D_Personalized_R-002-0055]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

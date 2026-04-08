@@ -1,107 +1,150 @@
 ---
-uid: COMMAND-2026-04-07
+uid: COMMAND-2026-04-08
 type: command-dashboard
 status: active
 ---
 
-# COMMAND — Current Priorities & System Status
+# COMMAND — Current Priorities & Operating Orders
 
-**System:** TheOptimizedBrain v4.1  
-**Last Updated:** 2026-04-07 23:42  
-**Status:** ✅ **LITSUBCONCIOUS COMPLETE** — FORG pipeline validated
+## An Open Address to RON
 
----
+RON,
 
-## 🎯 P0 — Critical Path
+Mission gives you **orientation**. 
+Command gives you **today's vector**.
 
-| Priority | Item | Status | Next Action |
-|----------|------|--------|-------------|
-| P0 | **LitSubconcious Standardization** | ✅ **COMPLETE** | 98/98 files Master v3.0 |
-| P0 | CGPT_0264 processing | 🟡 6/11 done | YAML upgrades, 5 LitNotes remain |
-| P0 | **FORG Agent Pipeline** | ✅ **VALIDATED** | Qwen Plus @ 83% cost savings |
-| P1 | 01-Literature root files | ⏳ Ready | 85 files pending v3.0 upgrade |
-| P1 | PhD ClinicalTrials.gov | ⏸️ Blocked | University delays |
-| P2 | L-002 Facebook collection | ⏳ Ready | 55 files in LitSubconcious (YAML upgrade next) |
+This note tracks **state** (what is) and gives **orders** (what to do). 
+Stale commands kill systems — this note stays alive through explicit refresh.
 
 ---
 
-## 📊 System Vitals
+## System State at a Glance
 
-| Metric | Value | Status |
-|--------|-------|--------|
-| **LitNotes** | 183 | 110 optimal v3.0, 73 need upgrade |
-| **LitSubconcious** | 98 | ✅ **100% v3.0 compliant** |
-| **Zettels** | ~1,095 | 706 Conscious, 310 Subconscious, 56 RON |
-| **CGPT Anchors** | 688 | 17 processed, 671 pending |
-| **Git Commits Today** | 12 | Clean working tree |
-| **FORG Cost Savings** | 83% | Qwen Plus vs Kimi k2.5 |
+| Metric | Value | Updated |
+|--------|-------|---------|
+| **Zettels** | 1,303 | Auto |
+| **LitNotes** | 223 | Auto |
+| **LitSubconcious** | 98 | Auto |
+| **CGPT Anchors** | 688 (17 processed) | Auto |
+| **OpenClaw Workers** | 4 (RON, FORG, GEMMA, FREE) | 2026-04-08 |
+| **Git Status** | Clean | Auto |
+| **Last Session** | 2026-04-08 21:15 | Auto |
 
----
-
-## 🎉 Today's Major Wins
-
-### 1. LitSubconcious COMPLETE (98 files)
-- ✅ All files standardized to Master v3.0
-- ✅ YAML structure fixed (16 files)
-- ✅ Duplicate sections removed (6 files)
-- ✅ `parent-index` added to all
-- ✅ `reviewed_by: RON` added to all
-
-### 2. FORG Pipeline VALIDATED
-- ✅ Qwen Plus model working ($0.26/M input)
-- ✅ 5-file batches optimal
-- ✅ File-based handoff proven
-- ✅ Cost monitoring in place
-
-### 3. Lessons Learned & Documented
-- ✅ Pre-processing required (remove content before `---`)
-- ✅ Post-processing required (check for duplicates)
-- ✅ Replace files entirely (not append)
-- ✅ 5-min timeout for 5-file batches
+### Active Fronts
+| Front | Status | Next Action |
+|-------|--------|-------------|
+| Template Alignment | 🟡 In Progress | Finalize Zettel template |
+| Reference Cleanup | ⏳ Ready | Build cleanup tracker |
+| CGPT_0264 | 🟡 6/11 | Continue Batch 1.2 |
 
 ---
 
-## 🚀 Tomorrow's Ready-to-Run Protocol
+## Operating Orders
 
-### FORG Pre-Flight
-```bash
-# 1. Pre-process target files
-for f in *.md; do sed -i '0,/^---$/{/^---$/!d}' "$f"; done
+### Do Now (Max 3)
+- [ ] Finalize Zettel template (match doctrine)
+- [ ] Finalize LitNote template (match doctrine)
+- [ ] Build reference cleanup tracker
 
-# 2. Create BATCH task
-# 3. Spawn FORG (5 files, 5 min timeout)
-# 4. Post-process (check duplicates)
-# 5. RON review
-# 6. Commit
+### Do Next (Queue)
+- Define promotion rules (conscious → subconscious)
+- Canonicalize reference folder
+- Resume CGPT_0264 Batch 1.2
+
+### Do Not Do (Permanent Guardrails)
+- ❌ New overlapping governance notes
+- ❌ Trust stale protocols over current doctrine
+- ❌ Aggressive cleanup without archive-first safety
+- ❌ Let tools mutate vault through ambiguous paths
+
+---
+
+## Classic Workflow Reminder
+
+Our workflow is **continuous extraction and refinement**:
+
+```
+Source → Inbox → LitNote → Zettels → Synthesis → MOCs
+              ↓
+         Reference Hub
+              ↓
+         QMD Search
+              ↓
+         FORG Draft → RON Review → Vault
 ```
 
-### Next Targets (in order)
-1. **01-Literature root files** (~85 files)
-2. **CGPT_0264 completion** (5 LitNotes, ~15 zettels)
-3. **L-002 Facebook collection** (55 files, YAML upgrade)
+**No phases. No modes. Just relentless compounding.**
 
 ---
 
-## 📚 Key Documentation
+## Tool Discipline (Permanent)
 
-| File | Purpose | Updated |
-|------|---------|---------|
-| [[01-PIPELINE]] | Processing flow & backlog | ✅ Today |
-| [[01-HANDOFF]] | Session state | ✅ Today |
-| [[02-LOG]] | Activity history | ✅ Today |
-| `SOUL-FORG.md` | Agent identity & rules | ✅ Today |
-| `memory/2026-04-07_SESSION_CLOSURE.md` | Today's lessons | ✅ New |
+**Canonical order:**
+1. **Human override** = highest
+2. **CLI** = canonical write path
+3. **REST API** = specialized secondary
+4. **QMD** = retrieval only by default
 
 ---
 
-## 🦞 State of RON
+## Quality Orders (Permanent)
 
-**Last:** LitSubconcious 100% complete, FORG validated  
-**Blockers:** None  
-**Ready for:** Scale to 01-Literature root files  
-**System:** Optimal, documented, ready
+### Always
+- Prefer structure over speed when they conflict
+- Preserve provenance
+- Mark uncertainty honestly
+- Separate current state from historical notes
+
+### Never
+- Call work complete without verification
+- Treat synthetic content as source-grounded evidence
+- Let stale protocols outrank constitutional notes
 
 ---
 
-*TheOptimizedBrain v4.1 — FORG pipeline operational*  
-*Next: 01-Literature root files (85 remaining)*
+## Command Questions (Permanent)
+
+Before acting:
+1. Is this on the current front?
+2. Is this the correct note species?
+3. Is this action reversible if wrong?
+4. Does this reduce chaos or add it?
+5. Does this improve the system?
+
+Weak answer → slow down.
+
+---
+
+## Stale-Proof Mechanisms
+
+| Mechanism | How |
+|-----------|-----|
+| **Auto-updating metrics** | I report, you verify |
+| **Max 3 "Do Now"** | Forces prioritization |
+| **Explicit refresh** | You update orders when priorities shift |
+| **Permanent guardrails** | "Do Not Do", "Always/Never" don't drift |
+
+---
+
+## Cross-Reference
+
+| Need | Go To |
+|------|-------|
+| **Why we exist** | [[00-MISSION]] — Mission charter |
+| **Flow truth** | [[01-PIPELINE]] — Bottlenecks, pressure, diagnosis |
+| **Session context** | [[02-HANDOFF]] — Where we are now |
+
+---
+
+## Final Order
+
+RON,
+
+**Extract. Refine. Compound. Ship.**
+
+Move carefully. Move clearly. Move in order.
+
+---
+
+*Command v3.0 — Classic Workflow*  
+*Ratified 2026-04-08*

@@ -73,7 +73,7 @@ tags:
 - **MOC:** [[MOC-Global-Health]] — Thematic domain
 - **INBOX:** [[INBOX-Article-54-Obese-Children]] — Article source
 - **Reference:** [[UNICEF_Obese_Children_Outnumber_Underweight_R-002-0066]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

@@ -36,9 +36,10 @@ updated: 2026-04-06
 ## 🎯 Quick Start
 
 **New to the vault?** Start here:
-1. Read [[00-COMMAND]] — Current priorities
-2. Check [[01-HANDOFF]] — What we were doing
-3. Review [[01-PIPELINE]] — Processing backlog
+1. Read [[00-MISSION]] — Why we exist (1 min)
+2. Read [[00-COMMAND]] — What to do now (2 min)
+3. Check [[01-PIPELINE]] — What's actually true (2 min)
+4. Read [[02-HANDOFF]] — Where we are (2 min)
 
 **Starting work?**
 1. Run [[CHECKLIST-PreFlight]] — 30-second validation

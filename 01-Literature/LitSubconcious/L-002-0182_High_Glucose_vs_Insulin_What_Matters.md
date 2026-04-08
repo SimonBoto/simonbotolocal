@@ -71,7 +71,7 @@ tags:
 - **MOC:** [[MOC-Insulin-Signaling]] — Thematic domain
 - **INBOX:** [[INBOX-Article-13-Insulin-Glucose]] — Article source
 - **Reference:** [[Zhao_2019_Insulin_CVD_Mortality_R-002-0026]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

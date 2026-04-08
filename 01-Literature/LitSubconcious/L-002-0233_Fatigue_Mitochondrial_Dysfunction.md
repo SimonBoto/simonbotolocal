@@ -73,7 +73,7 @@ tags:
 - **MOC:** [[MOC-Mitochondrial-Function]] — Thematic domain
 - **INBOX:** [[INBOX-Article-46-Fatigue-Mitochondrial]] — Article source
 - **Reference:** [[Fatigue_Mitochondrial_Dysfunction_Literature_R-002-0061]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

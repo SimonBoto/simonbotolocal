@@ -379,4 +379,4 @@ This unit bridges foundational metabolomics (DE1-DE2) to **clinical application*
 ---
 
 ---
-parent-index: [[01-Literature]]
+parent-index: [[01-Literature 1]]

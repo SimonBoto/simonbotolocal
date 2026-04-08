@@ -71,7 +71,7 @@ Low-carbohydrate diets are **superior to low-fat diets** for improving metabolic
 ## Structural Links
 - **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
 - **Inbox:** [[INBOX-Article-6-Low-Carb-Low-Fat]] — Raw origin
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

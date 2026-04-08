@@ -75,7 +75,7 @@ tags:
 - **MOC:** [[MOC-Lifestyle-Medicine]] — Thematic domain
 - **INBOX:** [[INBOX-Article-53-Lifestyle-Diet]] — Article source
 - **Reference:** [[BMJ_Modifiable_Factors_95_Improvement_R-002-0065]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

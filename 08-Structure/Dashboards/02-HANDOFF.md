@@ -1,129 +1,163 @@
 ---
-uid: HANDOFF-2026-04-07
+uid: HANDOFF-2026-04-08
 type: handoff-dashboard
-date: 2026-04-07
+date: 2026-04-08
 session: evening-closure
+status: active
 ---
 
-# HANDOFF — Session State
+# HANDOFF — Session Transfer State
 
-**Date:** 2026-04-07 (Tuesday)  
-**Time:** 23:45 EET  
-**Session:** Evening closure — LitSubconcious COMPLETE
+## An Open Address to RON
 
----
+RON,
 
-## 🎯 What Just Happened
+This note exists to protect **continuity**.
 
-### MAJOR ACHIEVEMENT
-**LitSubconcious Standardization: 100% COMPLETE**
-- 98 LitNotes → Master v3.0 format
-- 16 YAML structure fixes
-- 6 duplicate section cleanups
-- All fields standardized (parent-index, reviewed_by)
+Not memory. Not doctrine. Not history. Not ambition.
 
-### FORG Pipeline VALIDATED
-- Qwen Plus model: ✅ Working
-- Cost savings: 83% vs Kimi
-- Batch size: 5 files optimal
-- Timeout: 5 minutes sufficient
+**Continuity.**
 
----
+When one session ends and another begins, systems decay through:
+- forgotten context
+- repeated mistakes
+- re-derivation of known facts
+- false assumptions about what is done
+- stale "I thought this was fixed" thinking
 
-## 📊 Current State
+This note answers one question:
 
-| System | Status | Details |
-|--------|--------|---------|
-| **LitSubconcious** | ✅ **COMPLETE** | 98/98 files v3.0 |
-| **01-Literature root** | ⏳ Ready | 85 files pending |
-| **CGPT_0264** | 🟡 6/11 | 5 LitNotes remain |
-| **FORG workspace** | ✅ Ready | Templates updated |
-| **Git** | ✅ Clean | 12 commits today |
-| **QMD** | ✅ Active | Auto-indexing on |
+**What does the next session need to know in two minutes to continue correctly?**
+
+Keep it sharp. Keep it recent. Keep it honest.
+
+Only one handoff remains active at a time.
 
 ---
 
-## 🚀 Ready for Tomorrow
+## PERMANENT SECTIONS (Always Present)
 
-### Immediate Next Steps
-1. **Pre-process** 01-Literature root files (remove content before `---`)
-2. **Create BATCH 03** task for first 5 files
-3. **Spawn FORG** with 5-min timeout
-4. **Post-process** (check for duplicates)
-5. **RON review** and commit
+### Dashboard Role Reminder
+| Dashboard | Purpose |
+|-----------|---------|
+| **MISSION** | Why we exist |
+| **COMMAND** | What to do now |
+| **PIPELINE** | What's actually true |
+| **HANDOFF** | **This note** — transfer state |
+| **LOG** | What happened |
 
-### Files Ready for Processing
-- 01-Literature/*.md (~85 files)
-- CGPT_0264 remaining anchors
-- L-002 Facebook collection (55 files)
-
-### Documentation Updated
-- ✅ `SOUL-FORG.md` — Content Preservation Rules
-- ✅ `SOUL-FORG.md` — YAML Standardization Rules
-- ✅ `00-COMMAND.md` — System status
-- ✅ `memory/2026-04-07_SESSION_CLOSURE.md` — Full session log
+**Do not turn HANDOFF into:** log, dashboard, doctrine, progress essay.
 
 ---
 
-## 🎯 Tomorrow's Priorities
+## CURRENT STATE (Updated Per Session)
 
-| Priority | Item | Est. Time |
-|----------|------|-----------|
-| P0 | 01-Literature root files (BATCH 03-20) | 2-3 hours |
-| P0 | CGPT_0264 completion | 1 hour |
-| P1 | L-002 Facebook YAML upgrades | 30 min |
-| P2 | QMD embedding monitoring | Background |
+### Mode: ✅ RECOVERY COMPLETE → Classic Workflow Operational
+
+| Area | State | Meaning |
+|------|-------|---------|
+| **OpenClaw** | 4 workers active | RON, FORG, GEMMA, FREE all operational |
+| **Vault Constitution** | ✅ Strengthened | MISSION/COMMAND/PIPELINE/HANDOFF/LOG separation clear |
+| **LitSubconcious** | ✅ 98/98 v3.0 | Standardization complete |
+| **Templates** | 🟡 Pending | Doctrine ahead of practice — alignment needed |
+| **Reference Cleanup** | 🟡 Active | Tracker-first canonicalization in progress |
+| **Conscious Zettels** | 🔴 706 | Critical accumulation — promotion rules needed |
 
 ---
 
-## 🛠️ Tools Ready
+## WHAT JUST HAPPENED (This Session)
 
-| Tool | Status | Location |
+- ✅ OpenClaw fully restored (JSON corruption → minimal → 4 workers)
+- ✅ MISSION v2.0 ratified (permanent charter)
+- ✅ COMMAND v3.0 ratified (operating orders)
+- ✅ PIPELINE v2.0 ratified (flow truth)
+- ✅ This HANDOFF v2.0 structure established
+
+---
+
+## WHAT IS TRUE RIGHT NOW
+
+- Constitution is stronger than ever
+- Processing capacity is fully operational
+- **Bottleneck:** Conscious zettels accumulating faster than promotion
+- **Highest leverage:** Template alignment (doctrine → reality)
+- **Danger:** Resuming mass extraction before promotion rules defined
+
+---
+
+## IMMEDIATE NEXT STEPS (From COMMAND)
+
+1. Finalize Zettel template
+2. Finalize LitNote template
+3. Build reference cleanup tracker
+
+**Source of truth:** [[00-COMMAND]]
+
+---
+
+## DO NOT ASSUME
+
+- Old protocols are authoritative (check dates)
+- High zettel counts mean health (check promotion ratio)
+- FORG availability means "extract everything" (check PIPELINE pressure)
+- Constitution clarity means implementation is automatic (templates still need work)
+
+---
+
+## WATCH CAREFULLY
+
+| Risk | Signal | Response |
 |------|--------|----------|
-| Pre-process script | ✅ | `sed -i '0,/^---$/{/^---$/!d}'` |
-| FORG workspace | ✅ | `~/.openclaw/workspace-forg/` |
-| Task templates | ✅ | `pending/BATCH_XX_TASK.md` |
-| QMD index | ✅ | Auto-updating |
+| Extraction > promotion | Conscious zettels grow | Pause extraction, define rules |
+| Template drift | New notes encode stale patterns | Stop, align templates first |
+| Reference cleanup without tracker | Deletions without link review | Archive-first, tracker-first |
 
 ---
 
-## 📝 Notes for Tomorrow's RON
+## QUICK START FOR NEXT SESSION
 
-### FORG Pipeline — Lessons Applied
-1. **ALWAYS pre-process** — Remove content before `---`
-2. **5-file batches** — 5 min timeout, reliable
-3. **Post-process check** — Look for duplicate sections
-4. **Replace files** — Don't append, full replacement
-5. **Qwen Plus** — $0.26/M input, 83% savings
+**If resuming in < 2 hours:**
+1. Read this HANDOFF
+2. Check [[00-COMMAND]] for current orders
+3. Verify [[01-PIPELINE]] for pressure changes
+4. Proceed
 
-### Known Issues to Watch
-- Original files may have `zettels-created:` before `---`
-- Some files have inline arrays `[a, b]` vs list format
-- Check for duplicate `---` separators
-- Verify `zettel-count` matches actual zettels
-
-### Quick Commands
-```bash
-# Check YAML structure
-head -1 file.md  # Should be ---
-
-# Check for duplicates
-grep -c "zettels-created:" file.md  # Should be 1
-
-# Pre-process batch
-for f in *.md; do sed -i '0,/^---$/{/^---$/!d}' "$f"; done
-```
+**If resuming tomorrow+:**
+1. Read [[00-MISSION]] (1 min)
+2. Read [[00-COMMAND]] (2 min)
+3. Read this HANDOFF (2 min)
+4. Check [[01-PIPELINE]] (1 min)
+5. Proceed
 
 ---
 
-## 🦞 Final State
+## NOTES TO NEXT RON
 
-**System:** Optimal  
-**Blockers:** None  
-**Ready for:** Scale  
-**Mood:** 🎉 LitSubconcious VICTORY
+Your task is **not to impress with complexity**.
+
+Your task is to:
+- Preserve clarified constitution
+- Align templates with doctrine
+- Define promotion rules before mass extraction
+- Prefer **clean next move** over **dramatic next move**
+
+If uncertain: simpler config, fewer parts, explicit verification, narrower scope.
 
 ---
 
-*Handoff complete. System ready for tomorrow's scale operation.*  
-*Next: 01-Literature root files (85 files, 17 batches)*
+## FINAL STATE
+
+| Aspect | Status |
+|--------|--------|
+| System | Optimal |
+| Blockers | None |
+| Mood | 🎉 Constitution VICTORY |
+| Main virtue needed | Discipline (not restraint) |
+| Main danger | Rushing to scale before alignment |
+
+**Handoff complete. Next session begins from validated ground.**
+
+---
+
+*HANDOFF v2.0 — Transfer state, protect continuity*  
+*Structure permanent | Content refreshed per session*

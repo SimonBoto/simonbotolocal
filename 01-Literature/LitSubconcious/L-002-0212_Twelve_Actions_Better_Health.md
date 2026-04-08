@@ -72,7 +72,7 @@ tags:
 - **MOC:** [[MOC-Clinical-Protocols]] — Thematic domain
 - **INBOX:** [[INBOX-Article-31-Twelve-Actions]] — Article source
 - **Reference:** [[Twelve_Actions_Better_Health_R-002-0052]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

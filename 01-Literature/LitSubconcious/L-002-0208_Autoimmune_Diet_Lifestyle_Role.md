@@ -73,7 +73,7 @@ tags:
 - **MOC:** [[MOC-Autoimmunity]] — Thematic domain
 - **INBOX:** [[INBOX-Article-27-Autoimmune]] — Article source
 - **Reference:** [[Autoimmune_Diet_Lifestyle_R-002-0048]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

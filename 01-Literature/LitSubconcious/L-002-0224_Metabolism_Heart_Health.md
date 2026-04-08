@@ -78,7 +78,7 @@ tags:
 - **MOC:** [[MOC-Cardiovascular-Health]] — Thematic domain
 - **INBOX:** [[INBOX-Article-39-Metabolism-Heart]] — Article source
 - **References:** Multiple (see above) — Primary sources
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

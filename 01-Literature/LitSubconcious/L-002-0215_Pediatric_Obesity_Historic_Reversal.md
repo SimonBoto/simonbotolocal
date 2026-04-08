@@ -75,7 +75,7 @@ tags:
 - **MOC:** [[MOC-Nutrition-Risks]] — Thematic domain
 - **INBOX:** [[INBOX-Article-33-Pediatric-Obesity]] — Article source
 - **Reference:** [[UNICEF_2025_Child_Nutrition_Report_R-002-0054]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

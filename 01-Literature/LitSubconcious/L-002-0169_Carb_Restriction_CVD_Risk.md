@@ -69,7 +69,7 @@ Low-carbohydrate diets reduce cardiovascular disease risk by improving all compo
 ## Structural Links
 - **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
 - **Inbox:** [[INBOX-Article-3-Carb-Restriction]] — Raw origin
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

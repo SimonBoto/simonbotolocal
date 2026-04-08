@@ -100,7 +100,7 @@ The Institute of Medicine's 2011 RDA of 600 IU/day for vitamin D was based on a 
 ## Structural Links
 - **Up:** [[MOC-Vitamin-Mineral-Axis]] — Thematic domain
 - **Inbox:** [[INBOX-Article-2-Vitamin-D]] — Raw origin
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

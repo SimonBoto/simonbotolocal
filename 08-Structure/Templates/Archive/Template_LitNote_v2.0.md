@@ -93,7 +93,7 @@ tags:
 ## Structural Links
 - **Up:** [[MOC-Example]] — Thematic domain (⚠️ VERIFY exists)
 - **Inbox:** [[Inbox_{{Title}}_{{YYYY-MM-DD}}]] — Raw origin (if applicable)
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

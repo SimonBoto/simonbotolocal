@@ -71,7 +71,7 @@ Five modifiable risk factors — high blood pressure, cholesterol, body weight, 
 ## Structural Links
 - **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
 - **Inbox:** [[INBOX-Article-8-Lifestyle-Determinants]] — Raw origin
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

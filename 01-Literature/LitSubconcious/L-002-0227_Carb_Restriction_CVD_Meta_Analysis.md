@@ -73,7 +73,7 @@ tags:
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
 - **INBOX:** [[INBOX-Article-42-Carb-Restriction-CVD]] — Article source
 - **Reference:** [[Low_Carb_Meta_Analysis_174_RCTs_R-002-0059]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

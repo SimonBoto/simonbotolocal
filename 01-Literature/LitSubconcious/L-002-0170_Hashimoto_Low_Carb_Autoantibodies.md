@@ -93,7 +93,7 @@ Beyond low-carb diet, additional improvements from:
 ## Structural Links
 - **Up:** [[MOC-Hashimoto-Thyroiditis]] — Thematic domain
 - **Inbox:** [[INBOX-Article-4-Hashimoto]] — Raw origin
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

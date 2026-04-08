@@ -482,7 +482,7 @@ Reduced circulating LDL-C
 ## Connections
 - **MOC:** [[MOC-Cholesterol-Lipid]] — Thematic domain
 - **INBOX:** [[CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]] — Source conversation
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

@@ -72,7 +72,7 @@ High fructose intake significantly increases hyperuricemia and gout risk through
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
 - **INBOX:** [[INBOX-Article-17-Uric-Acid]] — Article source
 - **Reference:** [[Chi_2024_Fructose_UricAcid_Meta_R-002-0030]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

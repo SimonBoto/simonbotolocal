@@ -229,4 +229,4 @@ source: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
 ---
 
 ---
-parent-index: [[01-Literature]]
+parent-index: [[01-Literature 1]]

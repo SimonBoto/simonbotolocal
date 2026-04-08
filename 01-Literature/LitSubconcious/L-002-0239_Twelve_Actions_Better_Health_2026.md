@@ -73,7 +73,7 @@ tags:
 - **MOC:** [[MOC-Lifestyle-Medicine]] — Thematic domain
 - **INBOX:** [[INBOX-Article-52-Twelve-Actions]] — Article source
 - **Reference:** [[Twelve_Actions_Better_Health_2026_R-002-0064]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

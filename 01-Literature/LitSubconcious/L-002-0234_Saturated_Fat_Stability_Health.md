@@ -82,7 +82,7 @@ tags:
 - **MOC:** [[MOC-Nutrition]] — Thematic domain
 - **INBOX:** [[INBOX-Article-47-Saturated-Fat-Stability]] — Article source
 - **References:** Multiple (see above) — Primary sources
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

@@ -74,7 +74,7 @@ tags:
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
 - **INBOX:** [[INBOX-Article-48-Low-Carb-Low-Fat]] — Article source
 - **Reference:** [[Low_Carb_Low_Fat_39_RCTs_Meta_Analysis_R-002-0062]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

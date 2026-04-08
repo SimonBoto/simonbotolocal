@@ -244,4 +244,4 @@ M-protein present   No M-protein
 ---
 
 ---
-parent-index: [[01-Literature]]
+parent-index: [[01-Literature 1]]

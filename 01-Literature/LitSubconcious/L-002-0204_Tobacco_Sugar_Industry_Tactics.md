@@ -73,7 +73,7 @@ The sugar industry employed **the same tactics as the tobacco industry** — hid
 - **MOC:** [[MOC-Nutrition-Risks]] — Thematic domain
 - **INBOX:** [[INBOX-Article-23-Industry-Tactics]] — Article source
 - **Reference:** [[Kearns_2016_Sugar_Industry_Documents_R-002-0044]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

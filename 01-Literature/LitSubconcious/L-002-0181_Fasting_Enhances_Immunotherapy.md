@@ -81,7 +81,7 @@ Fasting or fasting-mimicking diets enhance the effectiveness of immunotherapy in
 - **MOC:** [[MOC-Cancer-Immunology]] — Thematic domain
 - **INBOX:** [[INBOX-Article-12-Fasting-Immunotherapy]] — Article source
 - **Reference:** [[Chen_2026_16h_Fasting_Immunotherapy_R-002-0038]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

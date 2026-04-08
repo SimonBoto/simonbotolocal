@@ -77,7 +77,7 @@ High LDL cholesterol is **not associated with increased all-cause or cardiovascu
 ## Structural Links
 - **Up:** [[MOC-Cholesterol-Quality]] — Thematic domain
 - **Inbox:** [[INBOX-Article-5-LDL-Mortality]] — Raw origin
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

@@ -36,31 +36,31 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 
 ## 🎯 Quick Access — Domain MOCs
 
-| Domain | MOC | Zettels | Focus |
-|--------|-----|---------|-------|
-| **001** | [[MOC-Insulin-Signaling]] | 675 | Core metabolism, insulin resistance |
-| **001-MITO** | [[MOC-Mitochondrial-Function]] | 12+ | Energy metabolism, OXPHOS, TCA cycle |
-| **001-VM** | [[MOC-Vitamin-Mineral-Axis]] | 8+ | Micronutrients, cofactors, supplementation |
-| **002** | [[MOC-Research-Ethics]] | 21 | IRB, study design, ethics |
-| **003** | [[MOC-Iron-Metabolism]] | 3 | Iron studies, ferritin |
-| **004** | [[MOC-Methylation-One-Carbon]] | 4 | B12, folate, homocysteine |
-| **005** | [[MOC-Thyroid-Function]] | 2 | TSH, thyroid hormones |
-| **006** | [[MOC-Lipid-Metabolism]] | 2 | Cholesterol, fatty acids |
-| **007** | [[MOC-Inflammation]] | 1 | CRP, cytokines |
-| **008** | [[MOC-Liver-Function]] | 1 | Liver enzymes |
-| **009** | [[MOC-Kidney-Metabolism]] | 1 | eGFR, creatinine |
-| **Methodology** | [[MOC-Research-Methodology]] | 1 | Experimental design, methods |
-| **Genetics** | [[MOC-Genetic-Variation]] | 1 | Mutations, polymorphisms |
-| **Cell Biology** | [[MOC-Cellular-Compartmentalization]] | 1 | Organelles, transport |
-| **Enzymes** | [[MOC-Enzyme-Mechanisms]] | 1 | Catalysis, kinetics |
-| **Pathways** | [[MOC-Metabolic-Pathways]] | 4 | Biosynthesis, catabolism |
-| **SynBio** | [[MOC-Synthetic-Biology]] | 1 | Engineering, heterologous |
-| **Plants** | [[MOC-Plant-Biochemistry]] | 8 | Alkaloids, secondary metabolites |
-| **Regeneration** | [[MOC-Cellular-Regeneration]] | 1 | Tissue turnover, healing |
-| **Vitamins** | [[MOC-Vitamin-C]] | 8 | Ascorbate, Pauling, functions |
-| **010** | [[MOC-Minerals-Trace]] | 1 | Mg, Zn, Se |
-| **101** | [[MOC-Pharmacometabolomics]] | 55 | Drug metabolism |
-| **Cancer** | [[MOC-Cancer-Immunology]] | 5 | Cancer-immune interactions, immunotherapy |
+| Domain           | MOC                                   | Zettels | Focus                                      |
+| ---------------- | ------------------------------------- | ------- | ------------------------------------------ |
+| **001**          | [[MOC-Insulin-Signaling]]             | 675     | Core metabolism, insulin resistance        |
+| **001-MITO**     | [[MOC-Mitochondrial-Function]]        | 12+     | Energy metabolism, OXPHOS, TCA cycle       |
+| **001-VM**       | [[MOC-Vitamin-Mineral-Axis]]          | 8+      | Micronutrients, cofactors, supplementation |
+| **002**          | [[MOC-Research-Ethics]]               | 21      | IRB, study design, ethics                  |
+| **003**          | [[MOC-Iron-Metabolism]]               | 3       | Iron studies, ferritin                     |
+| **004**          | [[MOC-Methylation-One-Carbon]]        | 4       | B12, folate, homocysteine                  |
+| **005**          | [[MOC-Thyroid-Function]]              | 2       | TSH, thyroid hormones                      |
+| **006**          | [[MOC-Lipid-Metabolism]]              | 2       | Cholesterol, fatty acids                   |
+| **007**          | [[MOC-Inflammation]]                  | 1       | CRP, cytokines                             |
+| **008**          | [[MOC-Liver-Function]]                | 1       | Liver enzymes                              |
+| **009**          | [[MOC-Kidney-Metabolism]]             | 1       | eGFR, creatinine                           |
+| **Methodology**  | [[MOC-Research-Methodology]]          | 1       | Experimental design, methods               |
+| **Genetics**     | [[MOC-Genetic-Variation]]             | 1       | Mutations, polymorphisms                   |
+| **Cell Biology** | [[MOC-Cellular-Compartmentalization]] | 1       | Organelles, transport                      |
+| **Enzymes**      | [[MOC-Enzyme-Mechanisms]]             | 1       | Catalysis, kinetics                        |
+| **Pathways**     | [[MOC-Metabolic-Pathways]]            | 4       | Biosynthesis, catabolism                   |
+| **SynBio**       | [[MOC-Synthetic-Biology]]             | 1       | Engineering, heterologous                  |
+| **Plants**       | [[MOC-Plant-Biochemistry]]            | 8       | Alkaloids, secondary metabolites           |
+| **Regeneration** | [[MOC-Cellular-Regeneration]]         | 1       | Tissue turnover, healing                   |
+| **Vitamins**     | [[MOC-Vitamin-C]]                     | 8       | Ascorbate, Pauling, functions              |
+| **010**          | [[MOC-Minerals-Trace]]                | 1       | Mg, Zn, Se                                 |
+| **101**          | [[MOC-Pharmacometabolomics]]          | 55      | Drug metabolism                            |
+| **Cancer**       | [[MOC-Cancer-Immunology]]             | 5       | Cancer-immune interactions, immunotherapy  |
 
 ---
 
@@ -167,7 +167,10 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 
 ## 🎯 Current Priorities
 
-→ See [[00-COMMAND]] for P0/P1/P2
+→ [[00-MISSION]] — Why we exist  
+→ [[00-COMMAND]] — What to do now  
+→ [[01-PIPELINE]] — What's actually true  
+→ [[02-HANDOFF]] — Where we are
 
 ---
 

@@ -72,7 +72,7 @@ tags:
 - **MOC:** [[MOC-Diabetes-T2D]] — Thematic domain
 - **INBOX:** [[INBOX-Article-22-Diet-Mortality]] — Article source
 - **Reference:** [[GBD_2017_Diet_11_Million_Deaths_R-002-0043]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

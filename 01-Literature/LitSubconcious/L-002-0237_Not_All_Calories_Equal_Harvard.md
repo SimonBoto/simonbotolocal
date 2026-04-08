@@ -76,7 +76,7 @@ tags:
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
 - **INBOX:** [[INBOX-Article-50-Not-All-Calories]] — Article source
 - **Reference:** [[Ebbeling_2018_Low_Carb_Energy_Expenditure_R-002-0050]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

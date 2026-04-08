@@ -75,7 +75,7 @@ tags:
 - **MOC:** [[MOC-Insulin-Signaling]] — Thematic domain
 - **INBOX:** [[INBOX-Article-36-Glucose-Insulin]] — Article source
 - **Reference:** [[Glucose_vs_Insulin_CVD_Literature_R-002-0056]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

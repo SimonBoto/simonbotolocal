@@ -73,7 +73,7 @@ tags:
 - **MOC:** [[MOC-Cholesterol-Quality]] — Thematic domain
 - **INBOX:** [[INBOX-Article-26-LDL-Context]] — Article source
 - **Reference:** [[LDL_Lowering_Context_Dependency_R-002-0047]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

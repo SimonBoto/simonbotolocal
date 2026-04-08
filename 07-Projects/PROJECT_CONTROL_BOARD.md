@@ -114,7 +114,10 @@ status: active
 
 ## RELATED
 - [[07-Projects-Index]] — Full project archive
-- [[00-COMMAND]] — System priorities
+- [[00-MISSION]] — Why we exist
+- [[00-COMMAND]] — What to do now
+- [[01-PIPELINE]] — What's actually true
+- [[02-HANDOFF]] — Where we are
 - [[01-HANDOFF]] — Session state
 
 ---

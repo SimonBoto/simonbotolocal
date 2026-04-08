@@ -74,7 +74,7 @@ Long-term artificial sweetener consumption (aspartame, saccharin) is associated 
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
 - **INBOX:** [[INBOX-Article-20-Artificial-Sweeteners]] — Article source
 - **Reference:** [[Steffen_2023_Artificial_Sweeteners_CARDIA_R-002-0041]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

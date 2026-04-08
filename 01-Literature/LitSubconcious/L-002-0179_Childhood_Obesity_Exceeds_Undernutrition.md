@@ -70,7 +70,7 @@ For the **first time in human history**, obese children now outnumber undernouri
 ## Structural Links
 - **Up:** [[MOC-Metabolic-Syndrome]] — Thematic domain
 - **Inbox:** [[INBOX-Article-10-Childhood-Obesity]] — Raw origin
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

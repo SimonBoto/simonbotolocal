@@ -21,7 +21,7 @@ tags:
   - nature-2025
   - nejm-2025
   - facebook-collection
-parent-index: "[[01-Literature]]"
+parent-index: "[[01-Literature 1]]"
 parent-moc: "[[MOC-Cancer-Immunology]]"
 source-inbox: "[[INBOX-Article-1-Aspirin-Metastasis]]"
 extraction-date: 2026-04-05
@@ -155,7 +155,7 @@ pmid: "40044852"
 ## Structural Links
 - **Up:** [[MOC-Cancer-Immunology]] — Thematic domain
 - **Inbox:** [[INBOX-Article-1-Aspirin-Metastasis]] — Raw origin
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 

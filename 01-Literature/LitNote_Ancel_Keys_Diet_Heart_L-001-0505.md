@@ -439,4 +439,4 @@ source: "[[CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]]"
 ---
 
 ---
-parent-index: [[01-Literature]]
+parent-index: [[01-Literature 1]]

@@ -21,6 +21,18 @@ status: active
 
 ---
 
+## 🎯 Start Here
+
+| Need | Go To |
+|------|-------|
+| **Why we exist** | [[00-MISSION]] — The North Star (charter) |
+| **What to do now** | [[00-COMMAND]] — Current priorities & orders |
+| **What's actually true** | [[01-PIPELINE]] — Flow state & bottlenecks |
+| **How we work** | [[08-Structure/Protocols/Protocols-Index]] — Workflows |
+| **Current context** | [[02-HANDOFF]] — Session state |
+
+---
+
 ## 📁 Main Folders
 
 | Folder | Index | Description |
@@ -38,13 +50,13 @@ status: active
 
 ## 🧠 03-Zettels Subfolders
 
-| Subfolder | Index | Description |
-|-----------|-------|-------------|
-| Conscious | [[03-Zettels-Conscious-Index]] | Working zettels |
+| Subfolder    | Index                             | Description       |
+| ------------ | --------------------------------- | ----------------- |
+| Conscious    | [[03-Zettels-Conscious-Index]]    | Working zettels   |
 | Subconscious | [[03-Zettels-Subconscious-Index]] | Permanent zettels |
-| RON | [[03-Zettels-RON-Index]] | RON system notes |
-| Biomarkers | [[Biomarkers-Index]] | Biomarker guides |
-| Supplements | [[Supplements-Index]] | Supplement guides |
+| RON          | [[03-Zettels-RON-Index]]          | RON system notes  |
+| Biomarkers   | [[Biomarkers-Index]]              | Biomarker guides  |
+| Supplements  | [[Supplements-Index]]             | Supplement guides |
 
 ---
 

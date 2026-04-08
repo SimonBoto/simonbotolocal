@@ -1,75 +1,183 @@
 ---
-uid: PIPELINE-2026-04-06
+uid: PIPELINE-2026-04-08
 type: pipeline-dashboard
 status: active
 ---
 
-# PIPELINE — Processing Flow & Backlog
+# PIPELINE — Flow State, Backlog & Bottlenecks
 
-**Last Updated:** 2026-04-06 21:00
+## An Open Address to RON
 
----
+RON,
 
-## 🔄 Processing Pipeline
+This note exists to prevent self-deception.
 
-| Stage | Count | Status | Next Action |
-|-------|-------|--------|-------------|
-| **00-Inbox** | ~700 items | 🟡 Triage needed | Daily check |
-| **LitSubconcious** | 98 LitNotes | 🟡 Ready | YAML upgrade (21 done, 77 pending) |
-| **01-Literature** | 183 total | 🟡 Processing | Extraction to zettels |
-| **03-Zettels/Conscious** | 706 | 🟡 Review | Promotion to Subconscious |
-| **03-Zettels/Subconscious** | 310 | ✅ Connected | Permanent |
+Mission gives you orientation.  
+Command gives you orders.  
+**Pipeline tells the truth.**
 
----
+Use it to answer:
+- Where is work actually sitting?
+- What is moving? What is stuck?
+- What is overloaded? What is ready?
+- What is pretending to be progress but is really backlog?
 
-## 📥 Intake (New Items)
-
-| Source | Item | Date Added | Action Required |
-|--------|------|------------|-----------------|
-| 00-Inbox | 5 Greek .docx files | 2026-02-25 | Convert or archive |
-| 00-Inbox/ChatGPT | 688 conversations | Various | Extract to zettels (paused) |
-
-**Intake Rules:**
-1. **Daily**: Check 00-Inbox root
-2. **Weekly**: Review ChatGPT archive
-3. **Monthly**: Review Fleeting folder
+**Rules:**
+- No storytelling, no celebration, no theory
+- Update only when stage reality changes
+- Bottlenecks outrank vanity metrics
+- Queue truth over emotional comfort
 
 ---
 
-## 📋 Opportunity Backlog
+## Current Flow State
 
-### Ready (Paused for Infrastructure)
-| Item | Value | Effort | Blocker |
-|------|-------|--------|---------|
-| CGPT archive extraction | High | Medium | Infrastructure |
-| L-002 YAML upgrade | Medium | Low | — |
-| Zettel promotion review | Medium | Low | — |
-| Reference link verification | Medium | Low | — |
-
-### Waiting on External
-| Item | Value | Blocker | ETA |
-|------|-------|---------|-----|
-| PhD ClinicalTrials.gov | Critical | University | Unknown |
-| Recruitment papers | High | University | Unknown |
-
-### Future Ideas
-| Item | Value | Notes |
-|------|-------|-------|
-| Website launch | High | After vault stable |
-| Book writing | High | After PhD complete |
-| IV clinic infrastructure | Medium | Long-term project |
+| Stage | Count | Status | Meaning | Pressure |
+|-------|------:|--------|---------|----------|
+| **00-Inbox** | ~700 | 🟡 Triage pressure | Raw intake exceeds processing capacity | High |
+| **LitSubconcious** | 98 | ✅ Complete | v3.0 standardized, no longer bottleneck | None |
+| **01-Literature** | 223 | 🟡 Processing | Standardization + extraction ongoing | Medium |
+| **02-References** | — | 🟡 Cleanup active | Provenance repair, duplicate resolution | High |
+| **03-Zettels/Conscious** | 706 | 🔴 Accumulation | Extraction faster than promotion/refinement | **Critical** |
+| **03-Zettels/Subconscious** | 310 | ✅ Stable | Permanent layer | None |
+| **04-Synthesis** | — | 🟡 Controlled | Grow only from critical mass | Low |
+| **CGPT Anchors** | 688 (17 done) | 🟡 Reservoir | Major unprocessed knowledge store | High |
 
 ---
 
-## 📊 Flow Metrics
+## Active Bottlenecks (Ranked)
 
-| Stage | In | Processing | Out |
-|-------|-----|------------|-----|
-| Inbox → LitSubconcious | ~700 | 98 ready | — |
-| LitSubconcious → Literature | — | 77 need YAML | 21 upgraded |
-| Literature → Zettels | 183 | 59 need extraction | 12 optimal |
-| Conscious → Subconscious | 706 | Review for promotion | 310 promoted |
+### 🔴 Critical: Conscious Zettel Accumulation
+- **706 working** vs **310 promoted**
+- Extraction exceeds refinement capacity
+- **Action needed:** Define promotion rules immediately
+
+### 🟡 High: Reference Canonicalization
+- Duplicate groups, provenance ambiguity
+- Weakens support trust
+- **Action needed:** Tracker-first cleanup
+
+### 🟡 High: Raw Archive Pressure
+- 688 CGPT conversations, 671 pending
+- Risk of endless intake without consolidation
+- **Action needed:** Bounded extraction batches
+
+### 🟡 Medium: Literature Processing
+- 223 LitNotes, uneven standardization
+- **Action needed:** Template alignment (see COMMAND)
 
 ---
 
-*Processing pipeline — from capture to permanent knowledge*
+## Intake
+
+| Source | State | Action |
+|--------|-------|--------|
+| 00-Inbox root | 🟡 Active | Daily triage |
+| ChatGPT archive | 🟡 High-pressure | Bounded batches |
+| External files | Variable | Convert/classify/archive |
+
+**Intake Rule:** Triage without processing is pile formation, not knowledge growth.
+
+---
+
+## Ready Backlog
+
+| Item | Value | Effort | Current Constraint |
+|------|-------|--------|-------------------|
+| Template alignment | Very High | Medium | **Highest leverage** — doctrine → reality |
+| CGPT_0264 completion | High | Low-Med | Bounded, active |
+| Reference cleanup tracker | High | Medium | Requires disciplined review |
+| Zettel promotion rules | High | Medium | **Critical bottleneck** |
+| L-002 YAML upgrade | Medium | Low | Ready when capacity frees |
+
+---
+
+## Waiting on External
+
+| Item | Blocker | ETA |
+|------|---------|-----|
+| PhD ClinicalTrials.gov | University | Unknown |
+| Recruitment papers | University/external | Unknown |
+
+**Rule:** Visible but non-distorting. Don't let external blockers paralyze internal flow.
+
+---
+
+## Flow Metrics
+
+| Transition | In | Processing | Out | Health |
+|------------|---:|-----------:|----:|--------|
+| Inbox → Literature | ~700 | Triage | Ongoing | ⚠️ Intake > conversion |
+| Literature → Zettels | 223 | Extraction | Partial | ⚠️ Uneven |
+| Conscious → Subconscious | 706 | Under-defined | 310 | 🔴 **Critical lag** |
+| Zettels → Synthesis | Selective | Controlled | Low | ✅ Good |
+
+---
+
+## Pressure Assessment
+
+### Healthy
+- LitSubconcious stable
+- Subconscious layer durable
+- FORG pipeline validated
+- Dashboard separation improving
+
+### Unhealthy
+- Conscious zettels accumulating
+- Reference trust not yet restored
+- Template doctrine > actual templates
+- Pipeline note itself can go stale
+
+---
+
+## Operational Consequence
+
+Pipeline diagnosis → COMMAND orders:
+
+| Pipeline Says | COMMAND Does |
+|-------------|--------------|
+| Conscious accumulation critical | Finalize promotion rules |
+| Reference trust weak | Build cleanup tracker |
+| Template leverage highest | Finalize Zettel/LitNote/Reference templates |
+| CGPT reservoir high-pressure | Bounded extraction (not mass) |
+
+**Correct move:** Controlled throughput with improved conversion quality.
+
+---
+
+## Cross-Reference
+
+- **Orders:** [[00-COMMAND]] — What to do now
+- **Session context:** [[02-HANDOFF]] — Where we are
+- **History:** [[02-LOG]] — What happened
+
+---
+
+## Pipeline Rules
+
+1. **Mechanical only** — No narrative, no theory
+2. **Update on reality change** — Counts move, bottlenecks shift, stages clear
+3. **Bottlenecks > vanity metrics** — Rising counts can mean accumulation failure
+4. **No speculative backlog** — Actual flow state only
+
+---
+
+## Final Note
+
+RON,
+
+Pipeline is where reality resists fantasy.
+
+If Command says "go faster" but Pipeline says "you are accumulating unresolved layers," the answer is:
+
+**Simplify. Unblock. Canonicalize. Promote. Then accelerate.**
+
+Flow without structure becomes backlog.  
+Backlog without truth becomes illusion.
+
+See the pressure early. Keep the system honest.
+
+---
+
+*Pipeline v2.0 — Flow truth for classic workflow*  
+*Ratified 2026-04-08*

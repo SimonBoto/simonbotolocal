@@ -73,7 +73,7 @@ tags:
 - **MOC:** [[MOC-Inflammation]] — Thematic domain
 - **INBOX:** [[INBOX-Article-15-Inflammation-CRP]] — Article source
 - **Reference:** [[Kurt_2025_CRP_CVD_Risk_R-002-0025]] — Primary source
-- **Index:** [[01-Literature]] — Container
+- **Index:** [[01-Literature 1]] — Container
 
 ---
 
