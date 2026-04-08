@@ -39,7 +39,7 @@ date: YYYY-MM-DD
 day: Monday
 tags: [daily]
 parent-moc: "[[MOC-Daily-Operations]]"
-parent-index: "[[Daily-Index]]"
+parent-index: "[[Templates-Index]]"
 status: active
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
@@ -55,7 +55,7 @@ updated: YYYY-MM-DD
 | **date** | ISO date |
 | **day** | Day of week |
 | **parent-moc** | Thematic home: `[[MOC-Daily-Operations]]` |
-| **parent-index** | Always `[[Daily-Index]]` |
+| **parent-index** | Always `[[Templates-Index]]` |
 | **status** | `active` or `archived` |
 | **created** | Date note created |
 | **updated** | Date last modified |
@@ -125,9 +125,8 @@ From [[00-COMMAND]] — Do Now:
 
 ## Navigation
 
-- **Index:** [[Daily-Index]] — All daily notes
-- **MOC:** [[MOC-Daily-Operations]] — Daily workflow
-- **Related:** [[00-COMMAND]], [[Template_Zettel]]
+- **Index:** [[Templates-Index]] — All templates
+- **Up:** [[08-Structure-Index]] — System infrastructure
 
 ---
 

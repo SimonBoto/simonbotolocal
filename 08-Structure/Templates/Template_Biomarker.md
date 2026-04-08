@@ -62,7 +62,7 @@ optimal_range_high: XX.XX
 tier: GOLD|SILVER|BRONZE
 status: active
 parent-moc: "[[MOC-Biomarkers]]"
-parent-index: "[[03-Zettels-Biomarkers-Index]]"
+parent-index: "[[Templates-Index]]"
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 tags:
@@ -208,9 +208,9 @@ One sentence: What this biomarker measures and its primary clinical significance
 
 ## Navigation
 
-- **Index:** [[03-Zettels-Biomarkers-Index]] — All biomarker notes
-- **MOC:** [[MOC-Biomarkers]] — Lab interpretation hub
-- **Related:** [[Template_Supplement]], [[Template_Zettel]]
+- **Index:** [[Templates-Index]] — All templates
+- **Up:** [[08-Structure-Index]] — System infrastructure
+- **Related MOC:** [[MOC-Biomarkers]] — Lab interpretation hub
 
 ---
 

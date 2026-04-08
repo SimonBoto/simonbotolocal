@@ -70,7 +70,7 @@ source: company-direct|iherb|distributor
 source_url: ""
 source_date: YYYY-MM-DD
 parent-moc: "[[MOC-Supplements]]"
-parent-index: "[[03-Zettels-Supplements-Index]]"
+parent-index: "[[Templates-Index]]"
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 tags:
@@ -241,9 +241,9 @@ How this fits clinic operations:
 
 ## Navigation
 
-- **Index:** [[03-Zettels-Supplements-Index]] — All supplement notes
-- **MOC:** [[MOC-Supplements]] — Supplement formulary
-- **Related:** [[Template_Biomarker]], [[Template_Reference]]
+- **Index:** [[Templates-Index]] — All templates
+- **Up:** [[08-Structure-Index]] — System infrastructure
+- **Related MOC:** [[MOC-Supplements]] — Supplement formulary
 
 ---
 

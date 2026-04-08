@@ -56,7 +56,7 @@ tags:
   - moc
   - topic
 parent-moc: "[[MOC-Parent-Topic]]"
-parent-index: "[[08-Structure-MOCs-Index]]"
+parent-index: "[[MOCs-Index]]"
 status: active
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
@@ -71,7 +71,7 @@ updated: YYYY-MM-DD
 | **type** | Always `moc` |
 | **title** | Pattern: `MOC — Topic Name` |
 | **parent-moc** | Link to broader thematic MOC (creates hierarchy) |
-| **parent-index** | Always `[[08-Structure-MOCs-Index]]` |
+| **parent-index** | Always `[[Templates-Index]]` |
 
 ---
 
@@ -152,9 +152,9 @@ What remains unresolved in this domain?
 
 ## Navigation
 
-- **Index:** [[08-Structure-MOCs-Index]] — All MOCs
-- **Parent MOC:** [[MOC-Vault-Navigation]] — Top-level navigation
-- **Related:** [[Template_Synthesis]], [[Template_Zettel]]
+- **Index:** [[Templates-Index]] — All templates
+- **Up:** [[08-Structure-Index]] — System infrastructure
+- **MOC Index:** [[MOCs-Index]] — All MOCs
 
 ---
 

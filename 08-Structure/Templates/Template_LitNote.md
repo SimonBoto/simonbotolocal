@@ -59,7 +59,7 @@ tier: GOLD|SILVER|BRONZE
 relevance: "High|Medium|Low — why it matters"
 status: draft|processing|extracted|complete
 parent-moc: "[[MOC-Topic]]"
-parent-index: "[[01-Literature-Index]]"
+parent-index: "[[Templates-Index]]"
 extraction-date: YYYY-MM-DD
 source-inbox: "[[Source_File_or_Anchor]]"
 zettel-count: N
@@ -213,9 +213,9 @@ Optional hints for future:
 
 ## Navigation
 
-- **Index:** [[01-Literature-Index]] — All literature notes
-- **MOC:** [[MOC-Literature-Processing]] — Extraction workflow
-- **Related:** [[Template_Zettel]], [[Template_Reference]]
+- **Index:** [[Templates-Index]] — All templates
+- **Up:** [[08-Structure-Index]] — System infrastructure
+- **Related MOC:** [[MOC-Literature-Management]] — Literature workflow
 
 ---
 

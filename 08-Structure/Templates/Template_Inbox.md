@@ -18,7 +18,7 @@ uid: INBOX-YYYY-MM-DD-HHMM
 type: inbox
 date: YYYY-MM-DD
 status: captured|routed|discarded
-parent-index: "[[00-Inbox-Index]]"
+parent-index: "[[Templates-Index]]"
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 ---
@@ -32,7 +32,7 @@ updated: YYYY-MM-DD
 | **type** | Always `inbox` |
 | **date** | Capture date |
 | **status** | `captured` \| `routed` \| `discarded` |
-| **parent-index** | Always `[[00-Inbox-Index]]` |
+| **parent-index** | Always `[[Templates-Index]]` |
 | **created** | Date note created |
 | **updated** | Date last modified |
 
@@ -131,9 +131,9 @@ Its role:
 
 ## Navigation
 
-- **Index:** [[00-Inbox-Index]] — All inbox items
-- **MOC:** [[MOC-Inbox-Processing]] — Intake workflow
-- **Related:** [[Template_LitNote]], [[Template_Zettel]]
+- **Index:** [[Templates-Index]] — All templates
+- **Up:** [[08-Structure-Index]] — System infrastructure
+- **Related MOC:** [[MOC-Inbox-Sprint]] — Inbox workflow
 
 ---
 

@@ -57,7 +57,7 @@ tags:
   - topic
   - living-document
 parent-moc: "[[MOC-Topic]]"
-parent-index: "[[04-Synthesis-Index]]"
+parent-index: "[[Templates-Index]]"
 status: draft|active|stable|archived
 confidence: low|medium|high
 created: YYYY-MM-DD
@@ -169,9 +169,8 @@ If applicable:
 
 ## Navigation
 
-- **Index:** [[04-Synthesis-Index]] — All synthesis notes
-- **MOC:** [[MOC-Synthesis-Workflow]] — Integration guidance
-- **Related:** [[Template_Zettel]], [[Template_MOC]]
+- **Index:** [[Templates-Index]] — All templates
+- **Up:** [[08-Structure-Index]] — System infrastructure
 
 ---
 

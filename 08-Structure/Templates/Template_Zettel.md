@@ -58,7 +58,7 @@ tags:
   - zettel
   - topic
 parent-moc: "[[MOC-Topic]]"
-parent-index: "[[03-Zettels-Conscious]]"
+parent-index: "[[Templates-Index]]"
 status: conscious
 extracted_by: "RON|FORG"
 reviewed_by: ""
@@ -212,9 +212,8 @@ Split into stricter atomic descendants if origins-of-life cluster expands.
 
 ## Navigation
 
-- **Index:** [[03-Zettels-Conscious]] — All working zettels
-- **MOC:** [[MOC-Zettelkasten-Workflow]] — Zettel creation guidance
-- **Related:** [[Template_LitNote]], [[Template_Daily]]
+- **Index:** [[Templates-Index]] — All templates
+- **Up:** [[08-Structure-Index]] — System infrastructure
 
 ---
 

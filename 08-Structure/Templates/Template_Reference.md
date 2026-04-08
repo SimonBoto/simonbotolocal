@@ -64,7 +64,7 @@ pmcid: ""
 zotero: ""
 url: ""
 parent-moc: "[[MOC-References]]"
-parent-index: "[[02-References-Index]]"
+parent-index: "[[Templates-Index]]"
 source-litnote: "[[L-XXX-XXXX_LitNote_Title]]"
 duplicate-of: ""
 status: active
@@ -165,9 +165,9 @@ Any additional context, access dates, full-text availability, etc.
 
 ## Navigation
 
-- **Index:** [[02-References-Index]] — All reference notes
-- **MOC:** [[MOC-References]] — Citation management
-- **Related:** [[Template_LitNote]], [[Template_Synthesis]]
+- **Index:** [[Templates-Index]] — All templates
+- **Up:** [[08-Structure-Index]] — System infrastructure
+- **Related MOC:** [[MOC-References-Active]] — Active citations
 
 ---
 
