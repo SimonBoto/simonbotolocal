@@ -18,10 +18,8 @@ parent-index: [[08-Structure-Index]]
 
 | File | Purpose |
 |------|---------|
-| [[SYSTEM]] | Vault operating system — core protocols |
 | [[CHECKLIST-PreFlight]] | Pre-flight validation checklist |
 | [[EMERGENCY-Recovery]] | OpenClaw gateway recovery procedures |
-| [[TEMPLATE_SYSTEM_MANIFEST]] | Canonical template documentation |
 
 ---
 
