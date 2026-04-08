@@ -163,6 +163,14 @@ Any additional context, access dates, full-text availability, etc.
 
 ---
 
+## Navigation
+
+- **Index:** [[02-References-Index]] — All reference notes
+- **MOC:** [[MOC-References]] — Citation management
+- **Related:** [[Template_LitNote]], [[Template_Synthesis]]
+
+---
+
 ## Footer
 
 Reference created: YYYY-MM-DD | Last updated: YYYY-MM-DD | Cited by: N zettels

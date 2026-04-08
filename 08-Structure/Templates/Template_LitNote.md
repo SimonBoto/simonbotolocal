@@ -211,6 +211,14 @@ Optional hints for future:
 
 ---
 
+## Navigation
+
+- **Index:** [[01-Literature-Index]] — All literature notes
+- **MOC:** [[MOC-Literature-Processing]] — Extraction workflow
+- **Related:** [[Template_Zettel]], [[Template_Reference]]
+
+---
+
 ## Footer
 
 Literature note processed: YYYY-MM-DD | Zettels extracted: N | Status: extracted

@@ -22,7 +22,7 @@ parent-index: [[08-Structure-Index]]
 | Template | Use | Version |
 |----------|-----|---------|
 | **Template_Inbox.md** | **Adaptive inbox — size determines path** | **v3.0** |
-| Template_Inbox_Fleeting_v1.0.md | Quick capture (Luhmann-style, 48h rule) | v1.0 |
+| Template_Inbox_Fleeting_v1.0.md | Quick capture (archived, see 09-Archive) | v1.0 |
 | **Template_LitNote.md** | **Processed sources (canonical)** | **v4.0** |
 | **Template_Zettel.md** | **Atomic knowledge (canonical)** | **v4.0** |
 | **Template_Daily.md** | **Date-stamped daily logs** | **v2.0** |

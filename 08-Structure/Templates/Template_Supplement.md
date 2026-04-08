@@ -239,6 +239,14 @@ How this fits clinic operations:
 
 ---
 
+## Navigation
+
+- **Index:** [[03-Zettels-Supplements-Index]] — All supplement notes
+- **MOC:** [[MOC-Supplements]] — Supplement formulary
+- **Related:** [[Template_Biomarker]], [[Template_Reference]]
+
+---
+
 ## Footer
 
 Supplement cataloged: YYYY-MM-DD | Last verified: YYYY-MM-DD | Status: active | Tier: GOLD

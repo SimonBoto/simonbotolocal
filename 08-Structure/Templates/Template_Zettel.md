@@ -210,6 +210,14 @@ Split into stricter atomic descendants if origins-of-life cluster expands.
 
 ---
 
+## Navigation
+
+- **Index:** [[03-Zettels-Conscious]] — All working zettels
+- **MOC:** [[MOC-Zettelkasten-Workflow]] — Zettel creation guidance
+- **Related:** [[Template_LitNote]], [[Template_Daily]]
+
+---
+
 ## Final Instruction
 
 RON,

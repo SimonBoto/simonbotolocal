@@ -167,4 +167,12 @@ If applicable:
 
 ---
 
+## Navigation
+
+- **Index:** [[04-Synthesis-Index]] — All synthesis notes
+- **MOC:** [[MOC-Synthesis-Workflow]] — Integration guidance
+- **Related:** [[Template_Zettel]], [[Template_MOC]]
+
+---
+
 *Synthesis — Integration, not final truth.*

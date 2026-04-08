@@ -123,4 +123,12 @@ From [[00-COMMAND]] — Do Now:
 
 ---
 
+## Navigation
+
+- **Index:** [[Daily-Index]] — All daily notes
+- **MOC:** [[MOC-Daily-Operations]] — Daily workflow
+- **Related:** [[00-COMMAND]], [[Template_Zettel]]
+
+---
+
 *Daily — Signal preserved. Continuity protected.*

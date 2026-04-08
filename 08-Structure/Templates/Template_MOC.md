@@ -150,4 +150,12 @@ What remains unresolved in this domain?
 
 ---
 
+## Navigation
+
+- **Index:** [[08-Structure-MOCs-Index]] — All MOCs
+- **Parent MOC:** [[MOC-Vault-Navigation]] — Top-level navigation
+- **Related:** [[Template_Synthesis]], [[Template_Zettel]]
+
+---
+
 *MOC — Thematic navigation, not rigid hierarchy.*

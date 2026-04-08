@@ -129,4 +129,12 @@ Its role:
 
 ---
 
+## Navigation
+
+- **Index:** [[00-Inbox-Index]] — All inbox items
+- **MOC:** [[MOC-Inbox-Processing]] — Intake workflow
+- **Related:** [[Template_LitNote]], [[Template_Zettel]]
+
+---
+
 *Inbox — Capture fast, route correctly, process promptly.*
