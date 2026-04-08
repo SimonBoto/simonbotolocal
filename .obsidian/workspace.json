@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-Structure/Daily/2026/2026-04-05-session-handoff.md",
+                "file": "08-Structure/Templates/Template_Zettel.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -134,7 +134,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-05-session-handoff"
+              "title": "Template_Zettel"
             }
           }
         ],
@@ -316,16 +316,21 @@
   },
   "active": "24c22f83bdd3ec48",
   "lastOpenFiles": [
+    "08-Structure/Templates/Archive/Template_LitNote_v3.0.md",
+    "08-Structure/Templates/Template_LitNote.md",
+    "08-Structure/Templates/Template_Daily.md",
+    "08-Structure/Templates/Templates-Index.md",
+    "08-Structure/Daily/2026/2026-04-05-session-handoff.md",
+    "08-Structure/Templates/Template_Index_v2.0.md",
+    "08-Structure/Templates/Templates Index.md",
     "08-Structure/Templates/Template_Daily_v1.0.md",
     "08-Structure/Templates/Archive/Template_Daily_v1.0.md",
-    "08-Structure/Templates/Template_Daily.md",
     "08-Structure/Templates/Template_Zettel.md",
     "08-Structure/Templates/Template_Zettel_v2.0.md",
     "08-Structure/Templates/Archive/Template_Zettel_v2.0.md",
     "08-Structure/Templates/Template_Zettel_v4.0.md",
     "09-Archive/LOG-Historical-2026-04-08.md",
     "08-Structure/Daily/2026/2026-04-08.md",
-    "08-Structure/Daily/2026/2026-04-05-session-handoff.md",
     "00-INDEX.md",
     "00-MISSION.md",
     "Untitled.md",
@@ -337,11 +342,6 @@
     "08-Structure/MOCs/MOCs Index.md",
     "08-Structure/System/REFERENCE_AUDIT_REPORT_2026-04-05.md",
     "01-Literature/L-002-0212_Twelve_Actions_Better_Health.md",
-    "01-Literature/L-002-0213_Lifestyle_Factors_Modifiable.md",
-    "01-Literature/L-002-0168_Vitamin_D_RDA_Statistical_Error.md",
-    "01-Literature/L-002-0211_Fried_Potatoes_Seed_Oils_Diabetes.md",
-    "01-Literature/L-002-0210_Not_All_Calories_Equal.md",
-    "08-Structure/System/Audit_Review_Articles_1-8.md",
     "memory",
     "01-Literature/LitSubconcious/L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445.md.tmp",
     "01-Literature/LitSubconcious/L-001-0518_Mevalonate_Pathway_Biochemistry_CGPT-0391.md.tmp",
