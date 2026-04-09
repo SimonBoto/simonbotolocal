@@ -247,11 +247,14 @@ Next: Continue CGPT-0445 biochemistry series
 
 ## Implementation Roadmap
 
-### Phase 1: Foundation (Week 1-2)
-- [ ] Complete 139 LitNote v4.0 conversion
+### Phase 1: Foundation (Week 1-2) — IN PROGRESS
+- [x] 70 LitNotes v4.0 converted, validated, committed
+- [ ] Complete remaining 138 LitNotes (decision: 30/66/138/stop)
 - [ ] Define evals for FORG extraction
 - [ ] Build metrics tracking system
 - [ ] Create RON morning report template
+
+**Progress:** 70/208 (34% of total conversion)
 
 ### Phase 2: SCOUT (Week 3-4)
 - [ ] Design SCOUT harness

@@ -10,122 +10,116 @@ updated: 2026-04-09
 
 # PROJECT: LitNote v4.0 Update
 
-**Purpose:** Convert 159 legacy LitNotes in `01-Literature/` root to v4.0 canonical format
+**Purpose:** Convert legacy LitNotes to v4.0 canonical format
 **Scope:** LitNotes ONLY (zettels excluded — see [[PROJECT-Zettel-v4-Update]])
 **Method:** FORG batch processing with RON review
-**Target:** Complete in 2–3 weeks
+**Status:** 🟡 Active — 70 done, 138 pending
 
 ---
 
-## Project Chain
+## Current State (2026-04-09)
 
-| Position | Project | Status | Link |
-|----------|---------|--------|------|
-| **Previous** | Memory System v4.0 Optimization | ✅ Complete | [[PROJECT-Memory-System-v4]] |
-| **Current** | LitNote v4.0 Update | 🟡 Active | This file |
-| **Next** | Zettel v4.0 Update | ⏳ Queued | [[PROJECT-Zettel-v4-Update]] |
+| Metric | Value |
+|--------|-------|
+| **v4.0 LitNotes** | 70 files |
+| **Legacy remaining** | 227 files |
+| **Pending FORG** | 138 files |
+| **Completion** | 23% |
+| **Git commits** | 29 today |
 
-**Chain Rule:** Each project confirms previous completion and prepares next handoff.
-
----
-
-## Confirmation of Previous
-
-✅ **Memory System v4.0** confirmed complete:
-- MEMORY.md: 22K → 3.4K tokens
-- 5 RON system zettels created (RON-SYS-010 to 014)
-- Safe dreaming configured
-- All core files aligned
-
-**Handoff received:** FORG operational, templates v4.0 canonical, QMD indexed
+### By Domain
+| Domain | v4.0 Done | Pending | Total |
+|--------|-----------|---------|-------|
+| L-001 (Insulin) | 70 | 66 | 136 |
+| L-002 (Facebook) | 0 | 59 | 59 |
+| L-101 (Pharma) | 0 | 13 | 13 |
 
 ---
 
-## Current State
+## Batches Completed
 
-### Inventory
-| Location | Count | Format | Target |
-|----------|-------|--------|--------|
-| `01-Literature/` root | 159 | Legacy (mixed) | v4.0 |
-| `01-Literature/Subconscious/` | 0 | — | — |
-| Exemplar complete | 1 | v4.0 | Reference |
+| Batch | Files | UIDs | Status | Commit |
+|-------|-------|------|--------|--------|
+| 0 | 66 | LitSubconcious merge | ✅ | `e4fe64d1` |
+| 1 | 10 | L-001-0005 to 0014 | ✅ | `339e31dd` |
+| 2 | 4 | L-001-0015 to 0018 | ✅ | `eba17017` |
+| 4 | 10 | L-001-0015,0016,0017,0018,0045C-H | ✅ | `66d7fb5b` |
+| 5 | 10 | L-001-0046A,0046B,0060A,0060B,0060,0200,0201,0205,0206,0207 | ✅ | `457dc08c` |
+| 6 | 10 | L-001-0208 to 0215, 0401, 0402 | ✅ | `26588d7c` |
+| 7 | 10 | L-001-0403 to 0408, 0501 to 0504 | ✅ | `34e1c290` |
+| 8 | 10 | L-001-0505 to 0514 | ✅ | `9c0e681a` |
+| 10 | 10 | L-001-0515 to 0523, 0573 | ✅ | `92eddc50` |
+| Fix | 39 | YAML consistency (reviewed_by: FORG) | ✅ | `99af846e` |
 
-### Legacy Format Issues
-- `aliases: [bracket, syntax]` → YAML list `- item`
-- `tags: [bracket, syntax]` → YAML list `- item`
-- `parent-moc: [[no quotes]]` → `"[[quoted]]"`
-- `zettels-created: N` → `zettel-count: N`
-- `extraction-quality: TIER` → Remove (redundant with `tier`)
-- Missing: `source-origin`, `reviewed_by`, `created`, `updated`
-
-### Batches (CGPT Anchor Groups)
-| Batch | Anchor | LitNotes | Status |
-|-------|--------|----------|--------|
-| 0 | Exemplar | 1 (L-001-0654) | 🟡 RON doing |
-| 1 | CGPT-0647 | 2 | ⏳ Ready for FORG |
-| 2 | CGPT-0393 | 5 | ⏳ Queue |
-| 3 | CGPT-0086 | ~12 | ⏳ Queue |
-| 4 | CGPT-0264 | 4 | ⏳ Queue |
-| 5+ | Others | ~135 | ⏳ Queue |
+**Total: 70 v4.0 LitNotes committed**
 
 ---
 
-## Workflow
+## Quality Validation
+
+### ✅ All 70 Files Pass
+- `source-origin` present
+- `reviewed_by: "FORG"` (standardized)
+- `extraction-quality` removed
+- `updated: 2026-04-09`
+- Quoted links: `"[[MOC-Name]]"`
+- YAML list format for aliases
+
+### MOC Connections
+- 8 different MOCs connected
+- Top: Bone Health (8), Lipid Metabolism (7), Clinical Protocols (7)
+
+---
+
+## Key Learnings
+
+1. **Explicit file lists prevent duplicates** — FORG re-processed when given vague "next 10"
+2. **YAML consistency matters** — fixed 39 files with inconsistent quoting
+3. **Cost efficiency** — $0.04/file average
+4. **FORG validated** — Pipeline works, ready for scale
+
+---
+
+## Tomorrow's Options
+
+| Option | Scope | Time | Result |
+|--------|-------|------|--------|
+| A | 30 more L-001 | 30 min | 100 total v4.0 |
+| B | 66 more L-001 | 2 hours | L-001 domain complete (136) |
+| C | All 138 | 6-7 hours | Full conversion (208) |
+| D | Stop | — | Defer remaining |
+
+**Decision needed:** User to choose tomorrow
+
+---
+
+## Workflow Established
 
 ```
-RON: Exemplar → Prepare FORG task → Review → Commit
+RON: Create explicit batch task → Spawn FORG
                     ↓
-FORG: Process batch → Write to pending/ → Signal
+FORG: Process batch → Write outputs → Move sources to archive/
                     ↓
 RON: Validate → Move to vault → Git commit → Next batch
 ```
 
-### Cost Estimate
-- Per LitNote: ~$0.01–0.02
-- 159 LitNotes: ~$2–4 total
-- Batch size: 2–5 LitNotes (keep FORG focused)
-
----
-
-## Deliverables
-
-### Done
-- [ ] Exemplar: L-001-0654 v4.0 (RON)
-- [ ] FORG protocol documented
-- [ ] Batch tracking system
-
-### In Progress
-- [ ] Batch 1: CGPT-0647 (2 LitNotes)
-
-### Pending
-- [ ] Batch 2–N: All remaining CGPT anchors
-- [ ] Final validation: 159/159 converted
-- [ ] Handoff to [[PROJECT-Zettel-v4-Update]]
-
----
-
-## Handoff to Next Project
-
-**When this completes:**
-1. All 159 LitNotes in v4.0 format
-2. Git history shows conversion progression
-3. FORG protocol proven at scale
-4. [[PROJECT-Zettel-v4-Update]] receives:
-   - Validated FORG workflow
-   - Zettel template v4.0
-   - Exemplar zettels (RON-prepared)
-   - Cost/velocity metrics
+### Cost
+- Per 10 files: ~$0.40
+- Per file: ~$0.04
+- 138 remaining: ~$5.50
 
 ---
 
 ## Related
 
 - [[FORG-LitNote-Update-Protocol]] — Detailed workflow
+- [[PROJECT-AutoResearch-Knowledge]] — Next: autonomous extraction
+- [[PROJECT-The-Triangle-v2.0-Superoptimization]] — Future architecture
 - [[00-COMMAND]] — Current P0s
 - [[01-PIPELINE]] — Flow truth
 - [[02-HANDOFF]] — Session state
 
 ---
 
-*Project v1.0 — 2026-04-09*
-*Next review: After Batch 1 completion*
+*Project v2.0 — 70 done, 138 pending*  
+*Updated 2026-04-09*

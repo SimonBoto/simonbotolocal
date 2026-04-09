@@ -73,6 +73,11 @@ Repeats until queue empty or token budget
 
 ## Implementation Phases
 
+### Phase 0: Foundation (Complete First)
+- [x] LitNote v4.0 standard finalized — 70 files validated
+- [x] FORG pipeline proven — $0.04/file, quality validated
+- [ ] 139 LitNotes → perfect state (in progress)
+
 ### Phase 1: Infrastructure (Week 1)
 - [ ] Create `program-RON.md` template
 - [ ] Build `prepare-RON.py` (QMD integration, validation)
@@ -188,13 +193,25 @@ This suggests our 2-agent system (FORG+RON) could benefit from a 3rd agent:
 
 ---
 
-## Next Steps
+## Progress Update (2026-04-09)
 
-1. **Complete current work:** 139 LitNotes → perfect state
-2. **Design `program-RON.md`:** Draft extraction strategy
-3. **Add SCOUT agent:** CGPT selection and exploration strategy
-4. **Build prototype:** 10-conversation pilot with 3-agent system
-5. **Iterate:** Based on pilot results
+### ✅ Completed
+- LitNote v4.0: 70 files converted, validated, committed
+- FORG pipeline: Cost $0.04/file, quality >90%
+- 5 P0 inbox items: CORAL, AutoAgent, Karpathy KB/IDE, Superoptimization
+- Triangle v2.0: Architecture document created
+
+### 🟡 In Progress
+- 139 LitNotes → perfect state (deferred to tomorrow)
+
+### ⏳ Next
+1. **Complete 139 LitNotes** (user decision on scope)
+2. **Design `program-RON.md`**
+3. **Add SCOUT agent**
+4. **Build prototype:** 10-conversation pilot
+5. **Iterate**
+
+## Next Steps
 
 ---
 
