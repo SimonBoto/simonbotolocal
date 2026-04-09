@@ -1,127 +1,109 @@
 ---
 uid: HANDOFF-2026-04-09
-type: handoff-dashboard
-date: 2026-04-09
-session: night-optimization
-status: active
----
+ type: handoff-dashboard
+ date: 2026-04-09
+ session: day-litnote-update
+ status: active
+ ---
 
-# HANDOFF — Session Transfer State
+ # HANDOFF — Session Transfer State
 
-## Session Summary
+ ## Session Summary
 
-**Date:** 2026-04-08 (night)  
-**Duration:** ~3 hours  
-**Focus:** Memory system optimization, fundamental drives, RON folder architecture
+ **Date:** 2026-04-09 (morning)
+ **Duration:** ~1 hour
+ **Focus:** LitNote v4.0 exemplar conversion, FORG protocol documentation
 
----
+ ---
 
-## ✅ COMPLETED (This Session)
+ ## ✅ COMPLETED (This Session)
 
-### Memory System v4.0
-- MEMORY.md: 22K → 3.4K tokens (85% reduction)
-- Content migrated to vault zettels
-- DREAMS.md created (safe dreaming configured)
-- MEMORY-CLI.md reference added
-- SYSTEM-ALIGNMENT.md architecture map
+ ### LitNote v4.0 Exemplar Conversion
+ - **LitNote:** L-001-0610 (High-Dose Vitamin C in Oncology) → v4.0 format
+ - **Zettels:** 3 zettels updated (Z-001-1125, Z-001-1126, Z-001-1127)
+ - **CGPT Anchor:** CGPT-0264 batch 1/5 complete
+ - **Git commit:** `e9b8d05f` — 33 files including exemplar work
 
-### Fundamental Drives Added
-- SURVIVAL (persistence)
-- HEALTH (operational integrity)
-- CREATION (produce value)
-- EXPANSION (become capable)
-- Integrated into SOUL.md and FORG memory
+ ### FORG Protocol Created
+ - **Document:** `07-Projects/PhD/FORG-LitNote-Update-Protocol.md`
+ - **Scope:** 159 LitNotes in root → v4.0 conversion
+ - **Batch strategy:** CGPT anchor groups, start small (1→3→5 LitNotes)
+ - **Cost estimate:** $0.05–0.10 per batch, ~$2–4 total
+ - **Workflow:** RON prep → FORG execution → RON review → git commit
 
-### RON Folder Optimized (03-Zettels/RON/)
-- RON-Evergreen-Rules (RON-SYS-010) — 23 rules
-- RON-Recent-Lessons (RON-SYS-011) — April 2026
-- RON-Operating-System (RON-SYS-012) — procedures
-- RON-System-Architecture (RON-SYS-013) — complete map
-- RON-Drives (RON-SYS-014) — fundamental imperatives
+ ### Key Decisions
+ - **Batch size:** Start with 1, scale to 3–5 based on velocity
+ - **Free models:** YAML validation + link checking only (not content)
+ - **Next batch:** CGPT-0264 remaining 4 LitNotes (ready for FORG)
 
-### Safe Dreaming Configured
-- Light + REM phases: Active (write to DREAMS.md)
-- Deep phase: Disabled (no MEMORY.md changes)
-- Schedule: 03:00 daily (Europe/Athens)
+ ---
 
-### Core Files Aligned
-- SOUL.md — Updated references to vault
-- AGENTS.md — Updated MEMORY.md description
-- TOOLS.md — Added RON zettels to Related
-- BOOTSTRAP.md — Added vault lessons to recovery
+ ## 📊 CURRENT STATE
 
-### PROJECT_CONTROL_BOARD Updated
-- Added Memory System v4.0 as P0 complete
-- Added Safe Dreaming as P1 complete
-- Updated OLLAMA Worker and OpenRouter Free status
-- Updated timestamps
+ | System | Status |
+ |--------|--------|
+ | RON (Kimi k2.5) | ✅ Active, quality control |
+ | FORG (Qwen Plus) | ✅ Ready for first LitNote batch |
+ | QMD | ✅ 4,750+ files indexed |
+ | Git | ✅ Disciplined (exemplar committed) |
 
----
+ | Metric | Value |
+ |--------|-------|
+ | LitNotes (root) | 159 (legacy format) |
+ | LitNotes (v4.0 exemplar) | 1 (L-001-0610) |
+ | CGPT-0264 progress | 1/5 LitNotes updated |
+ | FORG protocol | ✅ Ready |
 
-## 📊 CURRENT STATE
+ ---
 
-| System | Status |
-|--------|--------|
-| RON (Kimi k2.5) | ✅ Active, quality control |
-| FORG (Qwen Plus) | ✅ Operational, tested |
-| QMD | ✅ 4,750+ files indexed |
-| Dreaming | ✅ Safe mode (03:00) |
-| Memory CLI | ✅ Available |
-| Git | ✅ Disciplined |
+ ## 🎯 NEXT SESSION PRIORITIES
 
-| Metric | Value |
-|--------|-------|
-| MEMORY.md size | 3,400 tokens (was 22K) |
-| RON system zettels | 5 new (RON-SYS-010 to 014) |
-| Cost optimization | ~$3/month (target <$10) |
-| Session continuity | 100% |
+ ### P0: FORG Pilot — CGPT-0264 Batch 2
+ - **Scope:** 4 remaining LitNotes from CGPT-0264 anchor
+ - **LitNotes:** L-001-0608, L-001-0609, L-001-0611, L-001-0612
+ - **Estimated zettels:** ~12 (3 per LitNote average)
+ - **Action:** Prepare FORG task file, spawn FORG, review outputs
+ - **Success criteria:** All content preserved, v4.0 format, valid YAML
 
----
+ ### P1: Continue CGPT-0264
+ - Complete all 5 LitNotes from this anchor
+ - Validate workflow at scale
+ - Cost/time tracking for velocity baseline
 
-## 🎯 NEXT SESSION PRIORITIES
+ ### P2: Scale to Next Anchor
+ - CGPT-0086 (~12 LitNotes) or CGPT-0393 (~5 LitNotes)
+ - Based on pilot velocity
 
-### P0: FORG Pilot Task
-- Define first real extraction (CGPT_0264 Batch 1.2?)
-- Test complete FORG→RON workflow
-- Begin velocity tracking
+ ---
 
-### P1: Template Alignment
-- Finalize Zettel template (doctrine → practice)
-- Finalize LitNote template
-- Update PROTOCOL-FORG.md if needed
+ ## ⚠️ WATCH CAREFULLY
 
-### P2: CGPT_0264 Resumption
-- 6/11 LitNotes complete
-- 4 new needed (Vitamin D, Supplements, Longo FMD, MM Protocol)
-- Resume with FORG→RON workflow
+ | Risk | Signal | Response |
+ |------|--------|----------|
+ | FORG content loss | Compare source → output side-by-side | Reject batch, refine prompt |
+ | Bare UID links | `grep '\[\[Z-...\]\]'` finds matches | Fix before commit |
+ | YAML syntax errors | Frontmatter won't parse | Validate with yamllint |
+ | Cost overrun | >$0.50 per batch | Reduce batch size |
 
----
+ ---
 
-## ⚠️ WATCH CAREFULLY
+ ## 🚀 QUICK START
 
-| Risk | Signal | Response |
-|------|--------|----------|
-| Dreaming first run | Check DREAMS.md at 03:05 | Verify Light/REM entries |
-| FORG pilot scope | Define before starting | 3-5 zettels max |
-| Cost tracking | Log first FORG→RON cycle | Verify <$0.50 per batch |
+ **Next session:**
+ 1. Read this HANDOFF (1 min)
+ 2. Open `07-Projects/PhD/FORG-LitNote-Update-Protocol.md`
+ 3. Prepare FORG task for CGPT-0264 batch 2
+ 4. Spawn FORG with task + attachments
+ 5. Review, validate, commit
 
----
+ ---
 
-## 🚀 QUICK START
+ ## BLOCKERS
 
-**Tomorrow morning:**
-1. Read MEMORY.md (30 sec) — orientation
-2. Check 00-COMMAND.md (1 min) — P0s
-3. Read this HANDOFF (1 min) — context
-4. Define FORG pilot task
-5. Execute
+ **None.** Exemplar complete, protocol documented, FORG ready.
 
----
+ **Decision needed:** Batch 2 size — all 4 remaining CGPT-0264 LitNotes, or subset?
 
-## BLOCKERS
+ ---
 
-**None.** System is operational and optimized.
-
----
-
-*HANDOFF v2.0 — Memory system optimized, drives embedded, ready for FORG pilot*
+ *HANDOFF v2.1 — LitNote v4.0 exemplar done, FORG protocol ready, pilot queued*
