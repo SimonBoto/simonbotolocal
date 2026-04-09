@@ -53,3 +53,23 @@ When LitNote project completes, this inventory provides:
 ---
 
 *Inventory created: 2026-04-09*
+
+## From CGPT-0393 (Mitochondrial Health)
+
+| Z-001-0537 | Urine_Organic_Acid_Krebs_Cycle_Markers_Z-001-0537.md | conscious | Legacy (bracket aliases) |
+| Z-001-0538 | Mitochondrial_Nutrient_Deficiency_Patterns_Z-001-0538.md | conscious | Legacy (bracket aliases) |
+| Z-001-0539 | Mitochondrial_Supplementation_Protocol_Z-001-0539.md | conscious | Legacy (bracket aliases) |
+| Z-001-0540 | Organic_Acid_METHAP_Integration_Z-001-0540.md | conscious | Legacy (bracket aliases) |
+| Z-001-0541 | Aconitase_Catalytic_Mechanism_Z-001-0541.md | conscious | Legacy (bracket aliases) |
+| Z-001-0542 | Iron_Sulfur_Cluster_Biochemistry_Z-001-0542.md | conscious | Legacy (bracket aliases) |
+| Z-001-0543 | Iron_Metabolism_Aconitase_Function_Z-001-0543.md | conscious | Legacy (bracket aliases) |
+| Z-001-0544 | Cytosolic_Aconitase_IRP1_Dual_Function_Z-001-0544.md | conscious | Legacy (bracket aliases) |
+| Z-001-0545 | Mevalonate_Pathway_Enzymatic_Steps_Z-001-0545.md | conscious | Legacy (bracket aliases) |
+| Z-001-0546 | HMG_CoA_Reductase_Regulation_Z-001-0546.md | conscious | Legacy (bracket aliases) |
+| Z-001-0547 | Mevalonate_Branch_Points_Z-001-0547.md | conscious | Legacy (bracket aliases) |
+| Z-001-0548 | Mevalonate_Clinical_Implications_Z-001-0548.md | conscious | Legacy (bracket aliases) |
+| Z-001-0549 | Mevalonate_METHAP_Integration_Z-001-0549.md | conscious | Legacy (bracket aliases) |
+| Z-001-0550 | Zinc_Mitochondrial_Function_Z-001-0550.md | conscious | Legacy (bracket aliases) |
+| Z-001-0551 | Selenium_Mitochondrial_Antioxidant_Z-001-0551.md | conscious | Legacy (bracket aliases) |
+| Z-001-0552 | Zn_Se_Synergistic_OXPHOS_Protection_Z-001-0552.md | conscious | Legacy (bracket aliases) |
+| Z-001-0553 | Zn_Se_Nutritional_Sources_Supplementation_Z-001-0553.md | conscious | Legacy (bracket aliases) |
