@@ -10,7 +10,7 @@ aliases:
   - Ketolysis
   - ATP Yield
 source-origin: chatgpt-archive
-authors: "ChatGPT Analysis (CGPT-0647)"
+authors: "ChatGPT Analysis"
 year: "2023"
 journal: "ChatGPT Archive"
 doi: ""
@@ -49,7 +49,7 @@ tags:
 
 ---
 
-## Core Claim
+## Core Thesis
 
 Ketone bodies (beta-hydroxybutyrate and acetoacetate) serve as water-soluble, transportable fuel molecules synthesized from fatty acid-derived acetyl-CoA in the liver during periods of low glucose availability. Unlike fatty acids, ketones can cross the blood-brain barrier, providing essential alternative fuel for the brain during fasting. Their utilization requires conversion back to acetyl-CoA via the enzyme succinyl-CoA:3-oxoacid-CoA transferase (SCOT) before entering the Krebs cycle.
 

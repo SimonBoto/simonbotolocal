@@ -151,13 +151,16 @@ tags:
 ## Critical Rules
 
 1. **Preserve ALL content** — Nothing dropped from source
-2. **Convert bracket syntax** — `aliases: [a, b]` → `aliases:\n  - a\n  - b`
-3. **Quote all links** — `"[[MOC-Topic]]"` not `[[MOC-Topic]]`
-4. **Full filenames** — `[[Z-001-1125_Title]]` not `[[Z-001-1125]]`
-5. **Kebab-case** — `[[MOC-Cancer-Therapy]]` not `[[MOC Cancer Therapy]]`
-6. **Remove `extraction-quality`** — Redundant with `tier`
-7. **Add missing fields** — `source-origin`, `reviewed_by`, `created`, `updated`
-8. **Honest support state** — No fabricated references
+2. **Preserve original section names** — "Core Thesis" stays "Core Thesis", don't rename to "Core Claim"
+3. **Preserve original wording** — Do not paraphrase; copy text exactly
+4. **Copy ALL aliases** — Include every alias from source, don't reduce the list
+5. **Convert bracket syntax** — `aliases: [a, b]` → `aliases:\n  - a\n  - b`
+6. **Quote all links** — `"[[MOC-Topic]]"` not `[[MOC-Topic]]`
+7. **Full filenames** — `[[Z-001-1125_Title]]` not `[[Z-001-1125]]`
+8. **Kebab-case** — `[[MOC-Cancer-Therapy]]` not `[[MOC Cancer Therapy]]`
+9. **Remove `extraction-quality`** — Redundant with `tier`
+10. **Add missing fields** — `source-origin`, `reviewed_by`, `created`, `updated`
+11. **Honest support state** — No fabricated references
 
 ## Self-Validation (Check Before Output)
 
