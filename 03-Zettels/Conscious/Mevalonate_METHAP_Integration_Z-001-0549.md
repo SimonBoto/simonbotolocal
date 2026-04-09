@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mevalonate-methap, methap-integration, statin-protocol, coq10, vitamin-d3]
 parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
-source-litnote: [[L-001-0509_Mevalonate_Pathway_CGPT-0393]]
+source-litnote: [[Mevalonate_Pathway_From_Acetyl-CoA_to_Cholesterol_L-001-0509_CGPT-0393]]
 extraction-date: 2026-03-01
 ---
 
@@ -136,7 +136,7 @@ Acetyl-CoA → Mevalonate → Cholesterol → 7-Dehydrocholesterol
 - [[Mevalonate_Clinical_Implications_Z-001-0548]] — Statin effects
 
 ## Source
-[[L-001-0509_Mevalonate_Pathway_CGPT-0393]]
+[[Mevalonate_Pathway_From_Acetyl-CoA_to_Cholesterol_L-001-0509_CGPT-0393]]
 
 ---
 parent-index: [[03-Zettels]]

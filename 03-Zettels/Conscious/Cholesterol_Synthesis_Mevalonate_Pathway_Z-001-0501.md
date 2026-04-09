@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, cholesterol, synthesis, mevalonate, hmg-coa-reductase, statins]
 parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
-source-litnote: [[L-001-0501_Cholesterol_Biology_Lipid_Metabolism_CGPT-0086]]
+source-litnote: [[Cholesterol_Biology_and_Lipid_Metabolism_in_L-001-0501_CGPT-0086]]
 extraction-date: 2026-03-01
 ---
 
@@ -75,7 +75,7 @@ Lanosterol → Cholesterol (27C)
 - [[Advanced_Lipid_Markers_Beyond_LDL_HDL_Z-001-0508]] — Advanced testing
 
 ## Source
-[[L-001-0501_Cholesterol_Biology_Lipid_Metabolism_CGPT-0086]]
+[[Cholesterol_Biology_and_Lipid_Metabolism_in_L-001-0501_CGPT-0086]]
 
 ---
 parent-index: [[03-Zettels]]

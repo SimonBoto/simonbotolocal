@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, multiple-myeloma, staging, iss, r-iss, prognosis]
 parent-moc: [[MOC-Cancer-Therapy]]
 status: conscious
-source-litnote: [[L-001-0612_Multiple_Myeloma_Comprehensive_CGPT-0264]]
+source-litnote: [[Multiple_Myeloma_Comprehensive_L-001-0612_CGPT-0264]]
 extraction-date: 2026-03-08
 ---
 
@@ -63,7 +63,7 @@ Adds:
 - [[Multiple_Myeloma_Treatment_Modern_Approach_Z-001-1134]] — Treatment
 
 ## Source
-[[L-001-0612_Multiple_Myeloma_Comprehensive_CGPT-0264]]
+[[Multiple_Myeloma_Comprehensive_L-001-0612_CGPT-0264]]
 
 ---
 parent-index: [[03-Zettels]]

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, one-carbon-metabolism, cancer, nucleotide-synthesis, folate, b12]
 parent-moc: [[MOC-Methylation-One-Carbon]]
 status: conscious
-source-litnote: [[L-001-0611_B_Vitamins_Cancer_Metabolism_CGPT-0264]]
+source-litnote: [[B-Vitamins_and_Cancer_Metabolism_L-001-0611_CGPT-0264]]
 extraction-date: 2026-03-08
 ---
 
@@ -81,7 +81,7 @@ Serine/Glycine → One-carbon units → THF → Nucleotides, Methylation
 - [[Folate_Cancer_Paradox_Prevention_Progression_Z-001-1130]] — Folate paradox
 
 ## Source
-[[L-001-0611_B_Vitamins_Cancer_Metabolism_CGPT-0264]]
+[[B-Vitamins_and_Cancer_Metabolism_L-001-0611_CGPT-0264]]
 
 ---
 parent-index: [[03-Zettels]]

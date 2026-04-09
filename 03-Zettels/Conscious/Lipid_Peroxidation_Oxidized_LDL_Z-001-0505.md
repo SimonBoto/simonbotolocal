@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, lipid-peroxidation, oxidized-ldl, oxldl, inflammation, oxidative-stress]
 parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
-source-litnote: [[L-001-0501_Cholesterol_Biology_Lipid_Metabolism_CGPT-0086]]
+source-litnote: [[Cholesterol_Biology_and_Lipid_Metabolism_in_L-001-0501_CGPT-0086]]
 extraction-date: 2026-03-01
 ---
 
@@ -100,7 +100,7 @@ Foam cell formation → Fatty streak → Atherosclerotic plaque
 - [[Cholesterol_Cellular_Aging_Z-001-0506]] — Aging effects
 
 ## Source
-[[L-001-0501_Cholesterol_Biology_Lipid_Metabolism_CGPT-0086]]
+[[Cholesterol_Biology_and_Lipid_Metabolism_in_L-001-0501_CGPT-0086]]
 
 ---
 parent-index: [[03-Zettels]]

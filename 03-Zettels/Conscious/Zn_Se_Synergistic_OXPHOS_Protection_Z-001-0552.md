@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, zn-se-synergy, oxphos-protection, antioxidant-cascade, electron-transport-chain, ros]
 parent-moc: [[MOC-Mitochondrial-Function]]
 status: conscious
-source-litnote: [[L-001-0510_Zinc_Selenium_Mitochondrial_CGPT-0393]]
+source-litnote: [[Zinc_and_Selenium_as_Mitochondrial_Cofactors_L-001-0510_CGPT-0393]]
 extraction-date: 2026-03-01
 ---
 
@@ -138,7 +138,7 @@ Zinc and selenium function synergistically to protect oxidative phosphorylation:
 - [[Zn_Se_Nutritional_Sources_Supplementation_Z-001-0553]] — Sources and dosing
 
 ## Source
-[[L-001-0510_Zinc_Selenium_Mitochondrial_CGPT-0393]]
+[[Zinc_and_Selenium_as_Mitochondrial_Cofactors_L-001-0510_CGPT-0393]]
 
 ---
 parent-index: [[03-Zettels]]

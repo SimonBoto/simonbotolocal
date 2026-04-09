@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, caloric-restriction, fasting, cancer-metabolic-therapy, autophagy]
 parent-moc: [[MOC-Cancer-Therapy]]
 status: conscious
-source-litnote: [[L-001-0609_Metabolic_Therapy_Cancer_Seyfried_CGPT-0264]]
+source-litnote: [[Metabolic_Therapy_for_Cancer_Seyfried_Protocol_L-001-0609_CGPT-0264]]
 extraction-date: 2026-03-08
 ---
 
@@ -132,7 +132,7 @@ Caloric restriction and intermittent fasting exert anti-cancer effects through m
 - [[Press_Pulse_Strategy_Metabolic_Cancer_Therapy_Z-001-1123]] — Press-Pulse
 
 ## Source
-[[L-001-0609_Metabolic_Therapy_Cancer_Seyfried_CGPT-0264]]
+[[Metabolic_Therapy_for_Cancer_Seyfried_Protocol_L-001-0609_CGPT-0264]]
 
 ---
 parent-index: [[03-Zettels]]

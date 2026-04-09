@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, ketogenic-diet, cancer-therapy, metabolic-inflexibility, ketosis]
 parent-moc: [[MOC-Cancer-Therapy]]
 status: conscious
-source-litnote: [[L-001-0609_Metabolic_Therapy_Cancer_Seyfried_CGPT-0264]]
+source-litnote: [[Metabolic_Therapy_for_Cancer_Seyfried_Protocol_L-001-0609_CGPT-0264]]
 extraction-date: 2026-03-08
 ---
 
@@ -147,7 +147,7 @@ Normal cells nourished
 - [[Caloric_Restriction_Fasting_Cancer_Metabolic_Therapy_Z-001-1124]] — Caloric restriction
 
 ## Source
-[[L-001-0609_Metabolic_Therapy_Cancer_Seyfried_CGPT-0264]]
+[[Metabolic_Therapy_for_Cancer_Seyfried_Protocol_L-001-0609_CGPT-0264]]
 
 ---
 parent-index: [[03-Zettels]]

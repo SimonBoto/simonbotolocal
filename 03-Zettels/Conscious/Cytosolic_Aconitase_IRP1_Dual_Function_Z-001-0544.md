@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, cytosolic-aconitase, irp1, iron-regulatory-protein, iron-homeostasis, aco1]
 parent-moc: [[MOC-Iron-Metabolism]]
 status: conscious
-source-litnote: [[L-001-0508_Aconitase_Enzyme_CGPT-0393]]
+source-litnote: [[Aconitase_Enzyme_Structure,_Mechanism,_and_Iron-Sulfur_L-001-0508_CGPT-0393]]
 extraction-date: 2026-03-01
 ---
 
@@ -116,7 +116,7 @@ Transferrin receptor synthesis enhanced
 - [[Iron_Metabolism_Aconitase_Function_Z-001-0543]] — Iron deficiency effects
 
 ## Source
-[[L-001-0508_Aconitase_Enzyme_CGPT-0393]]
+[[Aconitase_Enzyme_Structure,_Mechanism,_and_Iron-Sulfur_L-001-0508_CGPT-0393]]
 
 ---
 parent-index: [[03-Zettels]]

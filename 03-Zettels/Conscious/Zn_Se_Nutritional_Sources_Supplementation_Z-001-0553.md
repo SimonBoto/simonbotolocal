@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, zn-se-sources, zinc-sources, selenium-sources, supplementation]
 parent-moc: [[MOC-Mitochondrial-Function]]
 status: conscious
-source-litnote: [[L-001-0510_Zinc_Selenium_Mitochondrial_CGPT-0393]]
+source-litnote: [[Zinc_and_Selenium_as_Mitochondrial_Cofactors_L-001-0510_CGPT-0393]]
 extraction-date: 2026-03-01
 ---
 
@@ -92,7 +92,7 @@ Optimal zinc and selenium status requires adequate dietary intake from diverse s
 - [[Zn_Se_Synergistic_OXPHOS_Protection_Z-001-0552]]
 
 ## Source
-[[L-001-0510_Zinc_Selenium_Mitochondrial_CGPT-0393]]
+[[Zinc_and_Selenium_as_Mitochondrial_Cofactors_L-001-0510_CGPT-0393]]
 
 ---
 parent-index: [[03-Zettels]]

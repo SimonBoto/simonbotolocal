@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, tumor-microenvironment, lactate, acidification, ph, invasion, metastasis]
 parent-moc: [[MOC-Cancer-Metabolism]]
 status: conscious
-source-litnote: [[L-001-0608_Warburg_Effect_Cancer_Metabolism_CGPT-0264]]
+source-litnote: [[Warburg_Effect_and_Cancer_Metabolism_L-001-0608_CGPT-0264]]
 extraction-date: 2026-03-08
 ---
 
@@ -126,7 +126,7 @@ Oxygenated cells (near vessels) → Lactate import → OXPHOS
 - [[Mitochondrial_Dysfunction_Cancer_Metabolism_Z-001-1120]] — Mitochondrial dysfunction
 
 ## Source
-[[L-001-0608_Warburg_Effect_Cancer_Metabolism_CGPT-0264]]
+[[Warburg_Effect_and_Cancer_Metabolism_L-001-0608_CGPT-0264]]
 
 ---
 parent-index: [[03-Zettels]]

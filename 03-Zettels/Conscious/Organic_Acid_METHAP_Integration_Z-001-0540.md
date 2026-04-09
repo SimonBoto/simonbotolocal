@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, organic-acid, methap, integration, metabolomics, clinical-application]
 parent-moc: [[MOC-Mitochondrial-Function]]
 status: conscious
-source-litnote: [[L-001-0507_Organic_Acid_Krebs_Cycle_CGPT-0393]]
+source-litnote: [[Organic_Acid_Krebs_Cycle_Markers_Clinical_L-001-0507_CGPT-0393]]
 extraction-date: 2026-03-01
 ---
 
@@ -110,7 +110,7 @@ Organic acid testing integrates seamlessly into the METHAP framework by providin
 - [[Mitochondrial_Supplementation_Protocol_Z-001-0539]] — Management protocol
 
 ## Source
-[[L-001-0507_Organic_Acid_Krebs_Cycle_CGPT-0393]]
+[[Organic_Acid_Krebs_Cycle_Markers_Clinical_L-001-0507_CGPT-0393]]
 
 ---
 parent-index: [[03-Zettels]]

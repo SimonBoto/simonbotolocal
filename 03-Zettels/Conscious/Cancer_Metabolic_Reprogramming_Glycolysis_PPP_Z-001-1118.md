@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, cancer-metabolic-reprogramming, glycolysis, pentose-phosphate-pathway, biosynthesis]
 parent-moc: [[MOC-Cancer-Metabolism]]
 status: conscious
-source-litnote: [[L-001-0608_Warburg_Effect_Cancer_Metabolism_CGPT-0264]]
+source-litnote: [[Warburg_Effect_and_Cancer_Metabolism_L-001-0608_CGPT-0264]]
 extraction-date: 2026-03-08
 ---
 
@@ -116,7 +116,7 @@ Glucose-6-P + 2 NADP⁺ → Ribose-5-P + 2 NADPH + CO₂
 - [[Mitochondrial_Dysfunction_Cancer_Metabolism_Z-001-1120]] — Mitochondrial dysfunction
 
 ## Source
-[[L-001-0608_Warburg_Effect_Cancer_Metabolism_CGPT-0264]]
+[[Warburg_Effect_and_Cancer_Metabolism_L-001-0608_CGPT-0264]]
 
 ---
 parent-index: [[03-Zettels]]

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, cholesterol, aging, membrane, lipid-rafts, cellular-senescence]
 parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
-source-litnote: [[L-001-0501_Cholesterol_Biology_Lipid_Metabolism_CGPT-0086]]
+source-litnote: [[Cholesterol_Biology_and_Lipid_Metabolism_in_L-001-0501_CGPT-0086]]
 extraction-date: 2026-03-01
 ---
 
@@ -98,7 +98,7 @@ Aging disrupts cholesterol homeostasis through altered membrane composition (inc
 - [[Inflammation_Cholesterol_Metabolic_Syndrome_Z-001-0507]] — Inflammation link
 
 ## Source
-[[L-001-0501_Cholesterol_Biology_Lipid_Metabolism_CGPT-0086]]
+[[Cholesterol_Biology_and_Lipid_Metabolism_in_L-001-0501_CGPT-0086]]
 
 ---
 parent-index: [[03-Zettels]]

@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, aconitase, krebs-cycle, citrate, isocitrate, mechanism, stereospecific]
 parent-moc: [[MOC-Mitochondrial-Function]]
 status: conscious
-source-litnote: [[L-001-0508_Aconitase_Enzyme_CGPT-0393]]
+source-litnote: [[Aconitase_Enzyme_Structure,_Mechanism,_and_Iron-Sulfur_L-001-0508_CGPT-0393]]
 extraction-date: 2026-03-01
 ---
 
@@ -101,7 +101,7 @@ Overall: Citrate ⇌ Isocitrate
 - [[Cytosolic_Aconitase_IRP1_Dual_Function_Z-001-0544]] — IRP1 dual function
 
 ## Source
-[[L-001-0508_Aconitase_Enzyme_CGPT-0393]]
+[[Aconitase_Enzyme_Structure,_Mechanism,_and_Iron-Sulfur_L-001-0508_CGPT-0393]]
 
 ---
 parent-index: [[03-Zettels]]

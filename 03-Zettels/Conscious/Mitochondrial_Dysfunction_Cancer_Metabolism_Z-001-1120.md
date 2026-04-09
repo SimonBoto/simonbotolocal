@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mitochondrial-dysfunction, cancer, mtdna, apoptosis, metabolism, warburg-effect]
 parent-moc: [[MOC-Cancer-Metabolism]]
 status: conscious
-source-litnote: [[L-001-0608_Warburg_Effect_Cancer_Metabolism_CGPT-0264]]
+source-litnote: [[Warburg_Effect_and_Cancer_Metabolism_L-001-0608_CGPT-0264]]
 extraction-date: 2026-03-08
 ---
 
@@ -128,7 +128,7 @@ Mitochondrial dysfunction in cancer—characterized by mtDNA mutations, defectiv
 - [[Tumor_Microenvironment_Lactate_Acidification_Z-001-1119]] — Tumor microenvironment
 
 ## Source
-[[L-001-0608_Warburg_Effect_Cancer_Metabolism_CGPT-0264]]
+[[Warburg_Effect_and_Cancer_Metabolism_L-001-0608_CGPT-0264]]
 
 ---
 parent-index: [[03-Zettels]]

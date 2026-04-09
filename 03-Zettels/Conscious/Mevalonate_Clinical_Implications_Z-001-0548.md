@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mevalonate-clinical, statin, side-effects, coq10-depletion, myopathy, rhabdomyolysis]
 parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
-source-litnote: [[L-001-0509_Mevalonate_Pathway_CGPT-0393]]
+source-litnote: [[Mevalonate_Pathway_From_Acetyl-CoA_to_Cholesterol_L-001-0509_CGPT-0393]]
 extraction-date: 2026-03-01
 ---
 
@@ -128,7 +128,7 @@ Statin therapy, while effectively reducing cholesterol by inhibiting HMG-CoA red
 - [[Mevalonate_METHAP_Integration_Z-001-0549]] — METHAP protocol
 
 ## Source
-[[L-001-0509_Mevalonate_Pathway_CGPT-0393]]
+[[Mevalonate_Pathway_From_Acetyl-CoA_to_Cholesterol_L-001-0509_CGPT-0393]]
 
 ---
 parent-index: [[03-Zettels]]

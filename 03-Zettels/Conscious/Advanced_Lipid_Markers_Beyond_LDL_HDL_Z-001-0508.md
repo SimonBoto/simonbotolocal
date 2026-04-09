@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, advanced-markers, apob, ldl-particle, lpa, remnant-cholesterol, cardiovascular-risk]
 parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
-source-litnote: [[L-001-0501_Cholesterol_Biology_Lipid_Metabolism_CGPT-0086]]
+source-litnote: [[Cholesterol_Biology_and_Lipid_Metabolism_in_L-001-0501_CGPT-0086]]
 extraction-date: 2026-03-01
 ---
 
@@ -117,7 +117,7 @@ ApoB, LDL particle number (LDL-P), and lipoprotein(a) [Lp(a)] provide superior c
 - [[Inflammation_Cholesterol_Metabolic_Syndrome_Z-001-0507]] — Metabolic syndrome
 
 ## Source
-[[L-001-0501_Cholesterol_Biology_Lipid_Metabolism_CGPT-0086]]
+[[Cholesterol_Biology_and_Lipid_Metabolism_in_L-001-0501_CGPT-0086]]
 
 ---
 parent-index: [[03-Zettels]]

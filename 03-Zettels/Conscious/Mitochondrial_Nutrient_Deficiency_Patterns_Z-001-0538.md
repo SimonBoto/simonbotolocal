@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, mitochondrial-nutrients, magnesium, coq10, b-vitamins, carnitine, cofactors]
 parent-moc: [[MOC-Mitochondrial-Function]]
 status: conscious
-source-litnote: [[L-001-0507_Organic_Acid_Krebs_Cycle_CGPT-0393]]
+source-litnote: [[Organic_Acid_Krebs_Cycle_Markers_Clinical_L-001-0507_CGPT-0393]]
 extraction-date: 2026-03-01
 ---
 
@@ -110,7 +110,7 @@ Specific nutrient deficiencies produce characteristic organic acid patterns that
 - [[Organic_Acid_METHAP_Integration_Z-001-0540]] — METHAP integration
 
 ## Source
-[[L-001-0507_Organic_Acid_Krebs_Cycle_CGPT-0393]]
+[[Organic_Acid_Krebs_Cycle_Markers_Clinical_L-001-0507_CGPT-0393]]
 
 ---
 parent-index: [[03-Zettels]]

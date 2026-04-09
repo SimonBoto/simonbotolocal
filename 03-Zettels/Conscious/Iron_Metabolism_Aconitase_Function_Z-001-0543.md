@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, iron-metabolism, aconitase, iron-deficiency, fe-s-cluster, ferritin]
 parent-moc: [[MOC-Iron-Metabolism]]
 status: conscious
-source-litnote: [[L-001-0508_Aconitase_Enzyme_CGPT-0393]]
+source-litnote: [[Aconitase_Enzyme_Structure,_Mechanism,_and_Iron-Sulfur_L-001-0508_CGPT-0393]]
 extraction-date: 2026-03-01
 ---
 
@@ -121,7 +121,7 @@ Fe²⁺ + H₂O₂ → Fe³⁺ + OH• + OH⁻
 - [[Cytosolic_Aconitase_IRP1_Dual_Function_Z-001-0544]] — IRP1 dual function
 
 ## Source
-[[L-001-0508_Aconitase_Enzyme_CGPT-0393]]
+[[Aconitase_Enzyme_Structure,_Mechanism,_and_Iron-Sulfur_L-001-0508_CGPT-0393]]
 
 ---
 parent-index: [[03-Zettels]]
