@@ -12,9 +12,11 @@ pmid: "41378999"
 tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Inflammation]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
 zettel-count: 3
 reference-count: 1
+reviewed_by: RON
 tags:
   - lit-note
   - inflammation

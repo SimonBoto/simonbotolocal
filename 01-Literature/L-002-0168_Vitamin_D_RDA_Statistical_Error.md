@@ -12,9 +12,11 @@ pmid: "25333201; 25763527"
 tier: "GOLD"
 status: active
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
+parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
 zettel-count: 5
 reference-count: 4
+reviewed_by: RON
 tags:
   - lit-note
   - vitamin-d
