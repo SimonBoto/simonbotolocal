@@ -1,22 +1,44 @@
 ---
 uid: L-001-0655
 type: lit-note
-title: "Ketone Body Metabolism Deep Dive — From Beta-Oxidation to ATP Yield"
-aliases: [L-001-0655, Ketone Bodies, BHB, Ketogenesis, Ketolysis, ATP Yield]
-domain: 001
-tags: [lit-note, ketone-bodies, BHB, acetoacetate, ketogenesis, ketolysis, ATP-yield, beta-hydroxybutyrate, SCOT, CGPT-0647]
-source-inbox: "[[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]"
-extraction-date: 2026-03-11
-authors: ChatGPT Analysis (CGPT-0647)
-year: 2023
-journal: ChatGPT Archive
+title: "Ketone Body Metabolism Deep Dive — From Beta-Oxidation to ATP Yield_L-001-0655"
+aliases:
+  - L-001-0655
+  - Ketone Bodies
+  - BHB
+  - Ketogenesis
+  - Ketolysis
+  - ATP Yield
+source-origin: chatgpt-archive
+authors: "ChatGPT Analysis (CGPT-0647)"
+year: "2023"
+journal: "ChatGPT Archive"
+doi: ""
+pmid: ""
+pmcid: ""
 tier: GOLD
-relevance: Critical — Alternative fuel metabolism; therapeutic ketosis applications; brain fuel during fasting
-status: extracted
-parent-moc: [[MOC-Ketogenesis]]
-zettels-created: 4
+relevance: "Critical — Alternative fuel metabolism; therapeutic ketosis applications; brain fuel during fasting"
+status: complete
+parent-moc: "[[MOC-Ketogenesis]]"
+parent-index: "[[01-Literature-Index]]"
+extraction-date: "2026-03-11"
+source-inbox: "[[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]"
+zettel-count: 4
 reference-count: 0
-extraction-quality: GOLD
+reviewed_by: "FORG"
+created: "2026-03-11"
+updated: "2026-04-09"
+tags:
+  - lit-note
+  - ketone-bodies
+  - BHB
+  - acetoacetate
+  - ketogenesis
+  - ketolysis
+  - ATP-yield
+  - beta-hydroxybutyrate
+  - SCOT
+  - CGPT-0647
 ---
 
 # LitNote — Ketone Body Metabolism Deep Dive
@@ -27,145 +49,137 @@ extraction-quality: GOLD
 
 ---
 
-## Core Thesis
+## Core Claim
 
 Ketone bodies (beta-hydroxybutyrate and acetoacetate) serve as water-soluble, transportable fuel molecules synthesized from fatty acid-derived acetyl-CoA in the liver during periods of low glucose availability. Unlike fatty acids, ketones can cross the blood-brain barrier, providing essential alternative fuel for the brain during fasting. Their utilization requires conversion back to acetyl-CoA via the enzyme succinyl-CoA:3-oxoacid-CoA transferase (SCOT) before entering the Krebs cycle.
 
 ---
 
-## Key Concepts
+## Core Concepts Extracted
 
 ### 1. Ketogenesis — Hepatic Production
 
-**Prerequisite Conditions:**
-- Low insulin / high glucagon ratio
-- Elevated free fatty acid delivery to liver
-- Accumulation of mitochondrial acetyl-CoA exceeding Krebs cycle capacity
+**Category:** Pathway
 
-**Pathway Steps (Mitochondrial):**
+**What the source gives:**
+Ketogenesis requires specific conditions: low insulin/high glucagon ratio, elevated free fatty acid delivery to liver, and accumulation of mitochondrial acetyl-CoA exceeding Krebs cycle capacity. The pathway steps are: (1) Thiolase converts 2 acetyl-CoA to acetoacetyl-CoA; (2) HMG-CoA Synthase converts acetoacetyl-CoA + acetyl-CoA to HMG-CoA (rate-limiting step); (3) HMG-CoA Lyase cleaves HMG-CoA to acetoacetate + acetyl-CoA; (4) BDH1 optionally converts acetoacetate to BHB. Acetoacetate also undergoes spontaneous decarboxylation to acetone (exhaled).
 
-| Step | Enzyme | Reaction | Notes |
-|------|--------|----------|-------|
-| 1 | **Thiolase** | 2 Acetyl-CoA → Acetoacetyl-CoA | Reversible; also in beta-oxidation |
-| 2 | **HMG-CoA Synthase** | Acetoacetyl-CoA + Acetyl-CoA → HMG-CoA | Rate-limiting; unique to ketogenesis |
-| 3 | **HMG-CoA Lyase** | HMG-CoA → Acetoacetate + Acetyl-CoA | Cleavage releases first ketone body |
-| 4 | **BDH1** (optional) | Acetoacetate ↔ BHB | NADH-dependent; equilibrium favors BHB when reducing equivalents high |
+**Why it matters:**
+Establishes the liver-specific pathway for ketone body production and explains why ketosis occurs during fasting or low-carbohydrate states.
 
-**Spontaneous Decarboxylation:**
-- Acetoacetate → **Acetone** + CO₂ (non-enzymatic)
-- Acetone is volatile, exhaled ("fruity breath" in ketosis)
-- Minimal metabolic utility; primarily waste product
+**Candidate Zettel:** [[BHB_Production_Fatty_Acids_Z-001-1256]]
+
+---
 
 ### 2. BHB Production Quantification
 
-**From Palmitic Acid (C16:0):**
-- 1 palmitic acid → 8 acetyl-CoA (via beta-oxidation)
-- 8 acetyl-CoA → 4 acetoacetate (2 acetyl-CoA per acetoacetate)
-- 4 acetoacetate → **4 BHB** (via BDH1)
+**Category:** Quantification
 
-**ATP Cost of Activation:**
-- Fatty acid activation (palmitic → palmitoyl-CoA): **-2 ATP equivalents** (ATP → AMP)
-- Net yield must account for this investment
+**What the source gives:**
+From palmitic acid (C16:0): 1 palmitic acid → 8 acetyl-CoA → 4 acetoacetate → 4 BHB. Fatty acid activation costs 2 ATP equivalents, so net ATP yield must account for this investment.
+
+**Why it matters:**
+Provides quantitative understanding of ketone body production efficiency and helps explain why fatty acids are superior energy sources despite requiring more complex metabolism.
+
+**Candidate Zettel:** [[BHB_Production_Fatty_Acids_Z-001-1256]]
+
+---
 
 ### 3. Ketolysis — Extrahepatic Utilization
 
-**Tissues:** Brain, heart, skeletal muscle, renal cortex
-**Cannot use ketones:** Liver (lacks SCOT), erythrocytes (no mitochondria)
+**Category:** Pathway
 
-**Pathway Steps (Mitochondrial):**
+**What the source gives:**
+Ketolysis occurs in brain, heart, skeletal muscle, and renal cortex. Tissues that cannot use ketones include liver (lacks SCOT) and erythrocytes (no mitochondria). The pathway steps are: (1) BDH1 converts BHB to acetoacetate; (2) SCOT converts acetoacetate to acetoacetyl-CoA using succinyl-CoA; (3) Thiolase converts acetoacetyl-CoA to 2 acetyl-CoA. SCOT is critical because its absence in liver prevents a futile cycle.
 
-| Step | Enzyme | Reaction | Energy Change |
-|------|--------|----------|---------------|
-| 1 | **BDH1** | BHB → Acetoacetate | NAD⁺ → NADH (+2.5 ATP potential) |
-| 2 | **SCOT** | Acetoacetate + Succinyl-CoA → Acetoacetyl-CoA + Succinate | Uses succinyl-CoA high-energy bond |
-| 3 | **Thiolase** | Acetoacetyl-CoA → 2 Acetyl-CoA | Enters Krebs cycle |
+**Why it matters:**
+Explains the tissue-specific distribution of ketone metabolism and the essential role of SCOT as the gatekeeper enzyme for ketone utilization.
 
-**Critical Enzyme: SCOT (Succinyl-CoA:3-oxoacid-CoA Transferase)**
-- Absent in liver (prevents futile cycle: liver cannot use ketones it produces)
-- Present in all ketone-utilizing tissues
-- Converts acetoacetate to acetoacetyl-CoA using succinyl-CoA as CoA donor
+**Candidate Zettel:** [[Ketolysis_SCOT_Mechanism_Z-001-1257]]
+
+---
 
 ### 4. ATP Yield Comparison
 
-| Substrate | ATP Yield per Molecule | Notes |
-|-----------|------------------------|-------|
-| **Glucose** | 30-32 ATP | Complete oxidation via glycolysis + Krebs + OxPhos |
-| **BHB** | 21-23 ATP | After conversion to 2 acetyl-CoA |
-| **Palmitic Acid (C16:0)** | ~129 ATP | 8 acetyl-CoA + beta-oxidation NADH/FADH₂ |
-| **Oleic Acid (C18:1)** | ~256 ATP | Unusual value; may reflect total oxidation including partial pathways |
+**Category:** Framework
 
-**BHB ATP Calculation:**
-- 1 BHB → 2 acetyl-CoA → Krebs cycle
-- BDH1 step: +1 NADH (+2.5 ATP)
-- 2 acetyl-CoA → Krebs: +6 NADH (+15 ATP), +2 FADH₂ (+3 ATP), +2 GTP (+2 ATP)
-- **Total: ~22.5 ATP** (matches 21-23 range)
+**What the source gives:**
+ATP yields: Glucose = 30-32 ATP; BHB = 21-23 ATP; Palmitic Acid = ~129 ATP; Oleic Acid = ~256 ATP. BHB provides ~70% of glucose ATP yield per molecule but is derived from fatty acids with much higher energy density. Ketones spare glucose and extend survival during fasting.
 
-**Efficiency Comparison:**
-- BHB provides ~70% of glucose ATP yield per molecule
-- BUT: BHB is derived from fatty acids with much higher energy density
-- Brain fuel efficiency: Ketones spare glucose, extend survival during fasting
+**Why it matters:**
+Provides the energetic rationale for ketosis as an evolutionary adaptation for fasting survival and explains why ketones are efficient brain fuel despite lower ATP yield than glucose.
+
+**Candidate Zettel:** [[ATP_Yield_Comparison_Z-001-1258]]
+
+---
 
 ### 5. Mitochondrial Entry Differences
 
-**Ketone Bodies vs Glycolysis:**
+**Category:** Framework
 
-| Feature | Ketone Utilization | Glycolysis |
-|---------|-------------------|------------|
-| **Location** | Mitochondrial matrix (entire pathway) | Cytoplasm → Mitochondria |
-| **Entry Point** | Converted to acetyl-CoA inside mitochondria | Pyruvate enters mitochondria, converted to acetyl-CoA by PDH |
-| **Transport** | Monocarboxylate transporters (MCTs) | Glucose transporters (GLUTs), pyruvate transporters |
-| **Direct ATP** | None from conversion steps | 2 ATP net from glycolysis |
-| **Reducing Equivalents** | BDH1 produces NADH | Glyceraldehyde-3-P dehydrogenase produces NADH |
+**What the source gives:**
+Ketone utilization occurs entirely in the mitochondrial matrix, while glycolysis starts in the cytoplasm. Ketones enter via monocarboxylate transporters (MCTs) and are converted to acetyl-CoA inside mitochondria, whereas glucose requires transport into cells, glycolysis in cytoplasm, and pyruvate transport into mitochondria. Both pathways converge on mitochondrial acetyl-CoA for Krebs cycle entry.
 
-**Convergence:** Both pathways ultimately produce mitochondrial acetyl-CoA for Krebs cycle entry.
+**Why it matters:**
+Highlights the metabolic efficiency advantage of ketones for tissues with high mitochondrial density and explains why ketones are preferred fuel for some tissues during fasting.
+
+**Candidate Zettel:** [[Ketone_vs_Glycolysis_Mitochondrial_Entry_Z-001-1259]]
 
 ---
 
-## Clinical Context
-
-### Physiological Ketosis
-- **Fasting:** 12-24+ hours without food
-- **Ketogenic diet:** Very low carbohydrate intake (<50g/day)
-- **Prolonged exercise:** Glycogen depletion
-- **Pregnancy:** Third trimester normal adaptation
-
-### Pathological Ketosis
-- **Diabetic ketoacidosis (DKA):** Insulin deficiency + counterregulatory hormone excess
-- **Starvation ketosis:** Extended fasting in undernourished individuals
-- **Alcoholic ketoacidosis:** Alcohol metabolism blocks gluconeogenesis
-
-### Therapeutic Ketosis
-- **Epilepsy:** Neuroprotective, reduces seizure frequency
-- **Neurodegenerative disease:** Potential metabolic therapy (Alzheimer's, Parkinson's)
-- **Metabolic syndrome:** Improves insulin sensitivity, weight loss
-
----
-
-## Zettels Generated
+## Zettels Created
 
 - [[BHB_Production_Fatty_Acids_Z-001-1256]] — Quantification from palmitic acid, HMG-CoA pathway
 - [[Ketolysis_SCOT_Mechanism_Z-001-1257]] — Extrahepatic utilization, tissue-specific expression
 - [[ATP_Yield_Comparison_Z-001-1258]] — Glucose vs BHB vs fatty acids energy efficiency
 - [[Ketone_vs_Glycolysis_Mitochondrial_Entry_Z-001-1259]] — Different cellular routes to acetyl-CoA
 
+## References Used
+
+- *No external references attached* — Source is ChatGPT analysis
+- Support deferred to later reference pass for primary literature validation
+
+## Structural Links
+
+- **Parent MOC:** [[MOC-Ketogenesis]]
+- **Source Anchor:** [[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]
+- **Previous in series:** [[L-001-0654_Hyperinsulinemia_Metabolic_Inflexibility_CGPT-0647]] — How insulin blocks ketogenesis
+- **Next in series:** [[L-001-0656_Dicarboxylic_Acids_Beta_Oxidation_CGPT-0647]] — When beta-oxidation fails
+- **PhD Connection:** [[L-001-0656_Dicarboxylic_Acids_Beta_Oxidation_CGPT-0647]] — Adipic acid clinical significance
+
+## Connections
+
+- **Larger theme:** Alternative fuel metabolism, metabolic flexibility, and therapeutic ketosis
+- **Cluster strengthening:** Connects to adipic acid (PhD biomarker), insulin resistance, and mitochondrial dysfunction
+- **Contradiction revealed:** Paradox of ketogenesis (liver produces ketones but cannot use them)
+- **Future synthesis:** Should feed into therapeutic ketosis protocols, neurodegenerative disease research, and clinical intervention frameworks
+
+## Processing Checklist
+
+- [x] Source reviewed for extraction
+- [x] YAML standardized to v4.0
+- [x] Core claim articulated
+- [x] Core concepts extracted (5)
+- [x] Zettel links created and verified
+- [x] Structural links checked
+- [ ] Bibliographic support strengthening (deferred)
+
+## Support State
+
+`Bibliographic support attached: none yet — ChatGPT source`
+
+`Support deferred to later reference pass for primary literature validation`
+
+## Promotion Notes
+
+- **Likely synthesis trigger:** Ketogenic therapy protocols, neurodegenerative disease research
+- **PhD relevance:** HIGH — Core mechanism for understanding metabolic flexibility and therapeutic interventions
+- **Cluster connection:** Link to adipic acid zettels (Z-001-0041, Z-001-0042) and insulin resistance mechanisms
+- **May need later reference pass:** Primary literature on SCOT regulation, ketone transport kinetics, and clinical ketosis studies
+- **Template exemplar:** This LitNote serves as v4.0 conversion reference (raw legacy → v4.0)
+
 ---
 
-## Related Notes
-
-- **Previous:** [[L-001-0654_Hyperinsulinemia_Metabolic_Inflexibility_CGPT-0647]] — How insulin blocks ketogenesis
-- **Next:** [[L-001-0656_Dicarboxylic_Acids_Beta_Oxidation_CGPT-0647]] — When beta-oxidation fails
-- **Source conversation:** [[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]
-
----
-
-## Extraction Metadata
-
-- **Extracted:** 2026-03-11
-- **Messages:** 5-8, 21-30 (CGPT-0647)
-- **Zettels:** 4
-- **Status:** Complete
-- **Next:** L-001-0656 (Dicarboxylic Acids — PhD Core!)
-
----
-
-
+*Literature note processed: 2026-03-11 | Updated to v4.0: 2026-04-09*
+*Zettels extracted: 4 | Status: complete*
+*Reviewed by: FORG*
