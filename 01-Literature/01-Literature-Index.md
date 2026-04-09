@@ -47,7 +47,7 @@ parent-moc: [[MOC-Research-Methods]]
 
 - **Up:** [[00-INDEX]]
 - **Related:** [[02-References-Index]] | [[03-Zettels-Index]]
-- **Process:** [[08-Structure/Protocols/CGPT_EXTRACTION_PROTOCOL_v2.0]]
+- **Process:** [[CGPT_EXTRACTION_PROTOCOL_v2.0]]
 
 ---
 *Literature notes bridge sources and zettels — every source processed here.*

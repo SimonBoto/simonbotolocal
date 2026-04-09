@@ -36,6 +36,11 @@ parent-moc: [[MOC-Synthesis-Process]]
 | [[CHECKLIST-PreFlight]] | Session start protocol |
 | [[EMERGENCY-Recovery]] | Gateway failure recovery |
 
+### Process & Rituals
+| Document | Purpose |
+|----------|---------|
+| [[Weekly-Consolidation-Ritual_S-001-0012]] | Weekly curation ritual |
+
 ### Project Notes (S-001-XXXX)
 | UID | Project | Status |
 |-----|---------|--------|

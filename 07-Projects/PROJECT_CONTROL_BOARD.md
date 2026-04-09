@@ -22,10 +22,12 @@ status: active
 
 | Priority | Project | Status | Owner | Blocker | Next Action |
 |----------|---------|--------|-------|---------|-------------|
-| P0 | **FORG Deployment** | 🟡 In Progress | RON | None | First real extraction task |
-| P0 | **CGPT_0264 Completion** | ⏸️ Paused | RON | FORG ready | Resume with FORG→RON workflow |
-| P1 | **QMD Embeddings** | 🟡 Background | System | CPU only | Wait for completion (~2h) |
-| P1 | **Vault Alignment** | ✅ Complete | RON | None | All systems aligned |
+| P0 | **Memory System v4.0** | ✅ Complete | RON | None | 85% reduction, drives added |
+| P0 | **FORG Deployment** | ✅ Operational | RON | None | Tested, Qwen Plus active |
+| P0 | **CGPT_0264 Completion** | ⏸️ Paused | RON | Define pilot | Resume with FORG→RON workflow |
+| P1 | **QMD Embeddings** | 🟡 Background | System | CPU only | ~2h remaining |
+| P1 | **Vault Alignment** | ✅ Complete | RON | None | RON folder optimized |
+| P1 | **Safe Dreaming** | ✅ Configured | RON | None | Light+REM active, deep disabled |
 | P2 | **Clinic Training Docs** | ⏸️ On Hold | — | FORG priority | Queue for post-CGPT_0264 |
 | P2 | **PhD Hypothesis Draft** | ⏸️ On Hold | — | University block | Parallel reading only |
 
@@ -36,9 +38,11 @@ status: active
 ### 🤖 Agents (NEW)
 | Project | Status | Model | Cost Savings | Notes |
 |---------|--------|-------|--------------|-------|
-| [[FORG_Agent_Project_S-001-0004\|FORG Agent]] | ✅ Operational | Qwen Plus | 98% | Tested 2026-04-07 |
+| [[FORG_Agent_Project_S-001-0004\|FORG Agent]] | ✅ Operational | Qwen Plus | 98% | Tested 2026-04-07, workspace isolated |
 | RESEARCH Agent | 📋 Planned | TBD | — | After FORG proven |
 | EDITOR Agent | 📋 Planned | TBD | — | P2 priority |
+| OLLAMA Worker | 🟡 Configured | Gemma 2B | 100% | Local, zero cost |
+| OpenRouter Free | ✅ Configured | Various | 100% | Free tier testing |
 
 ### 🛠️ Tools
 | Project | Status | Blocker | ETA |
@@ -47,6 +51,8 @@ status: active
 | [[QMD_Activation_S-001-0002\|QMD Activation]] | ✅ Active | None | Running |
 | [[QMD_Embedding_Project_S-001-0005\|QMD Embeddings]] | 🟡 18% | GPU VRAM | ~2h CPU |
 | [[OpenClaw_Model_Cleanup_S-001-0007\|Model Cleanup]] | ✅ Complete | — | Done |
+| Memory CLI | ✅ Active | None | Commands working |
+| Safe Dreaming | ✅ Configured | None | 03:00 daily |
 
 ### 📥 Extraction
 | Project | Status | Progress | Next Action |
@@ -121,5 +127,5 @@ status: active
 - [[01-HANDOFF]] — Session state
 
 ---
-*Last updated: 2026-04-07 14:18*
+*Last updated: 2026-04-09 00:13*
 *Next review: Daily*

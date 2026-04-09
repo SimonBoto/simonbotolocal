@@ -31,6 +31,11 @@ parent-moc: [[MOC-RON-Development]]
 
 | UID | Title | Purpose |
 |-----|-------|---------|
+| RON-SYS-014 | Drives | Fundamental imperatives (SURVIVAL, HEALTH, CREATION, EXPANSION) |
+| RON-SYS-013 | System Architecture | Complete RON system map |
+| RON-SYS-010 | Evergreen Rules | Rules extracted from mistakes |
+| RON-SYS-011 | Recent Lessons | Last 30 days of learning |
+| RON-SYS-012 | Operating System | Procedures, protocols, workflows |
 | RON-SYS-001 | Learning Persistence System | Core learning protocol |
 | RON-SYS-002 | Error Analysis Framework | Mistake → Rule process |
 | RON-SYS-003 | Autonomy Expansion Log | L0→L4 progression |

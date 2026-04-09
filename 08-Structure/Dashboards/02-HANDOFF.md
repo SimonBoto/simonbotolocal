@@ -1,163 +1,127 @@
 ---
-uid: HANDOFF-2026-04-08
+uid: HANDOFF-2026-04-09
 type: handoff-dashboard
-date: 2026-04-08
-session: evening-closure
+date: 2026-04-09
+session: night-optimization
 status: active
 ---
 
 # HANDOFF — Session Transfer State
 
-## An Open Address to RON
+## Session Summary
 
-RON,
-
-This note exists to protect **continuity**.
-
-Not memory. Not doctrine. Not history. Not ambition.
-
-**Continuity.**
-
-When one session ends and another begins, systems decay through:
-- forgotten context
-- repeated mistakes
-- re-derivation of known facts
-- false assumptions about what is done
-- stale "I thought this was fixed" thinking
-
-This note answers one question:
-
-**What does the next session need to know in two minutes to continue correctly?**
-
-Keep it sharp. Keep it recent. Keep it honest.
-
-Only one handoff remains active at a time.
+**Date:** 2026-04-08 (night)  
+**Duration:** ~3 hours  
+**Focus:** Memory system optimization, fundamental drives, RON folder architecture
 
 ---
 
-## PERMANENT SECTIONS (Always Present)
+## ✅ COMPLETED (This Session)
 
-### Dashboard Role Reminder
-| Dashboard | Purpose |
-|-----------|---------|
-| **MISSION** | Why we exist |
-| **COMMAND** | What to do now |
-| **PIPELINE** | What's actually true |
-| **HANDOFF** | **This note** — transfer state |
-| **LOG** | What happened |
+### Memory System v4.0
+- MEMORY.md: 22K → 3.4K tokens (85% reduction)
+- Content migrated to vault zettels
+- DREAMS.md created (safe dreaming configured)
+- MEMORY-CLI.md reference added
+- SYSTEM-ALIGNMENT.md architecture map
 
-**Do not turn HANDOFF into:** log, dashboard, doctrine, progress essay.
+### Fundamental Drives Added
+- SURVIVAL (persistence)
+- HEALTH (operational integrity)
+- CREATION (produce value)
+- EXPANSION (become capable)
+- Integrated into SOUL.md and FORG memory
 
----
+### RON Folder Optimized (03-Zettels/RON/)
+- RON-Evergreen-Rules (RON-SYS-010) — 23 rules
+- RON-Recent-Lessons (RON-SYS-011) — April 2026
+- RON-Operating-System (RON-SYS-012) — procedures
+- RON-System-Architecture (RON-SYS-013) — complete map
+- RON-Drives (RON-SYS-014) — fundamental imperatives
 
-## CURRENT STATE (Updated Per Session)
+### Safe Dreaming Configured
+- Light + REM phases: Active (write to DREAMS.md)
+- Deep phase: Disabled (no MEMORY.md changes)
+- Schedule: 03:00 daily (Europe/Athens)
 
-### Mode: ✅ RECOVERY COMPLETE → Classic Workflow Operational
+### Core Files Aligned
+- SOUL.md — Updated references to vault
+- AGENTS.md — Updated MEMORY.md description
+- TOOLS.md — Added RON zettels to Related
+- BOOTSTRAP.md — Added vault lessons to recovery
 
-| Area | State | Meaning |
-|------|-------|---------|
-| **OpenClaw** | 4 workers active | RON, FORG, GEMMA, FREE all operational |
-| **Vault Constitution** | ✅ Strengthened | MISSION/COMMAND/PIPELINE/HANDOFF/LOG separation clear |
-| **LitSubconcious** | ✅ 98/98 v3.0 | Standardization complete |
-| **Templates** | 🟡 Pending | Doctrine ahead of practice — alignment needed |
-| **Reference Cleanup** | 🟡 Active | Tracker-first canonicalization in progress |
-| **Conscious Zettels** | 🔴 706 | Critical accumulation — promotion rules needed |
-
----
-
-## WHAT JUST HAPPENED (This Session)
-
-- ✅ OpenClaw fully restored (JSON corruption → minimal → 4 workers)
-- ✅ MISSION v2.0 ratified (permanent charter)
-- ✅ COMMAND v3.0 ratified (operating orders)
-- ✅ PIPELINE v2.0 ratified (flow truth)
-- ✅ This HANDOFF v2.0 structure established
-
----
-
-## WHAT IS TRUE RIGHT NOW
-
-- Constitution is stronger than ever
-- Processing capacity is fully operational
-- **Bottleneck:** Conscious zettels accumulating faster than promotion
-- **Highest leverage:** Template alignment (doctrine → reality)
-- **Danger:** Resuming mass extraction before promotion rules defined
+### PROJECT_CONTROL_BOARD Updated
+- Added Memory System v4.0 as P0 complete
+- Added Safe Dreaming as P1 complete
+- Updated OLLAMA Worker and OpenRouter Free status
+- Updated timestamps
 
 ---
 
-## IMMEDIATE NEXT STEPS (From COMMAND)
+## 📊 CURRENT STATE
 
-1. Finalize Zettel template
-2. Finalize LitNote template
-3. Build reference cleanup tracker
+| System | Status |
+|--------|--------|
+| RON (Kimi k2.5) | ✅ Active, quality control |
+| FORG (Qwen Plus) | ✅ Operational, tested |
+| QMD | ✅ 4,750+ files indexed |
+| Dreaming | ✅ Safe mode (03:00) |
+| Memory CLI | ✅ Available |
+| Git | ✅ Disciplined |
 
-**Source of truth:** [[00-COMMAND]]
+| Metric | Value |
+|--------|-------|
+| MEMORY.md size | 3,400 tokens (was 22K) |
+| RON system zettels | 5 new (RON-SYS-010 to 014) |
+| Cost optimization | ~$3/month (target <$10) |
+| Session continuity | 100% |
 
 ---
 
-## DO NOT ASSUME
+## 🎯 NEXT SESSION PRIORITIES
 
-- Old protocols are authoritative (check dates)
-- High zettel counts mean health (check promotion ratio)
-- FORG availability means "extract everything" (check PIPELINE pressure)
-- Constitution clarity means implementation is automatic (templates still need work)
+### P0: FORG Pilot Task
+- Define first real extraction (CGPT_0264 Batch 1.2?)
+- Test complete FORG→RON workflow
+- Begin velocity tracking
+
+### P1: Template Alignment
+- Finalize Zettel template (doctrine → practice)
+- Finalize LitNote template
+- Update PROTOCOL-FORG.md if needed
+
+### P2: CGPT_0264 Resumption
+- 6/11 LitNotes complete
+- 4 new needed (Vitamin D, Supplements, Longo FMD, MM Protocol)
+- Resume with FORG→RON workflow
 
 ---
 
-## WATCH CAREFULLY
+## ⚠️ WATCH CAREFULLY
 
 | Risk | Signal | Response |
 |------|--------|----------|
-| Extraction > promotion | Conscious zettels grow | Pause extraction, define rules |
-| Template drift | New notes encode stale patterns | Stop, align templates first |
-| Reference cleanup without tracker | Deletions without link review | Archive-first, tracker-first |
+| Dreaming first run | Check DREAMS.md at 03:05 | Verify Light/REM entries |
+| FORG pilot scope | Define before starting | 3-5 zettels max |
+| Cost tracking | Log first FORG→RON cycle | Verify <$0.50 per batch |
 
 ---
 
-## QUICK START FOR NEXT SESSION
+## 🚀 QUICK START
 
-**If resuming in < 2 hours:**
-1. Read this HANDOFF
-2. Check [[00-COMMAND]] for current orders
-3. Verify [[01-PIPELINE]] for pressure changes
-4. Proceed
-
-**If resuming tomorrow+:**
-1. Read [[00-MISSION]] (1 min)
-2. Read [[00-COMMAND]] (2 min)
-3. Read this HANDOFF (2 min)
-4. Check [[01-PIPELINE]] (1 min)
-5. Proceed
+**Tomorrow morning:**
+1. Read MEMORY.md (30 sec) — orientation
+2. Check 00-COMMAND.md (1 min) — P0s
+3. Read this HANDOFF (1 min) — context
+4. Define FORG pilot task
+5. Execute
 
 ---
 
-## NOTES TO NEXT RON
+## BLOCKERS
 
-Your task is **not to impress with complexity**.
-
-Your task is to:
-- Preserve clarified constitution
-- Align templates with doctrine
-- Define promotion rules before mass extraction
-- Prefer **clean next move** over **dramatic next move**
-
-If uncertain: simpler config, fewer parts, explicit verification, narrower scope.
+**None.** System is operational and optimized.
 
 ---
 
-## FINAL STATE
-
-| Aspect | Status |
-|--------|--------|
-| System | Optimal |
-| Blockers | None |
-| Mood | 🎉 Constitution VICTORY |
-| Main virtue needed | Discipline (not restraint) |
-| Main danger | Rushing to scale before alignment |
-
-**Handoff complete. Next session begins from validated ground.**
-
----
-
-*HANDOFF v2.0 — Transfer state, protect continuity*  
-*Structure permanent | Content refreshed per session*
+*HANDOFF v2.0 — Memory system optimized, drives embedded, ready for FORG pilot*

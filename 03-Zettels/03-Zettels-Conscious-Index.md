@@ -52,7 +52,7 @@ parent-moc: [[MOC-Zettelkasten-Method]]
 
 - **Up:** [[03-Zettels-Index]]
 - **Related:** [[03-Zettels-Subconscious-Index]] | [[MOC-Zettelkasten-Method]]
-- **Process:** [[08-Structure/Protocols/CGPT_EXTRACTION_PROTOCOL_v2.0]]
+- **Process:** [[CGPT_EXTRACTION_PROTOCOL_v2.0]]
 
 ---
 *Conscious zettels are alive — they breathe, connect, and evolve.*
