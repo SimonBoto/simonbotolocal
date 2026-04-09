@@ -2,7 +2,7 @@
 uid: IDX-DASHBOARDS
 type: index
 title: "Dashboards Index"
-date: 2026-04-06
+date: 2026-04-09
 tags: [index, dashboards, operations]
 parent-moc: [[08-Structure-Index]]
 parent-index: [[08-Structure-Index]]
@@ -24,13 +24,13 @@ parent-index: [[08-Structure-Index]]
 
 ---
 
-## Dashboard Roles (v3.0)
+## Dashboard Roles (v4.0)
 
 | Dashboard | Role | Updates |
 |-----------|------|---------|
 | **00-COMMAND** | Orders + State | You refresh priorities; I auto-report metrics |
 | **01-PIPELINE** | Flow truth + Bottlenecks | I diagnose; you verify; update on reality change |
-| **02-HANDOFF** | Session transfer state | Per session start/end |
+| **02-HANDOFF]] | Session transfer state | Per session start/end |
 
 ### How They Work Together
 
@@ -45,6 +45,18 @@ MISSION (why) → COMMAND (what to do) → PIPELINE (what's true)
 - **PIPELINE** tells flow truth (diagnoses bottlenecks)
 - **HANDOFF** captures session state
 - **LOG** records history
+
+---
+
+## Today's State (2026-04-09)
+
+| Metric | Value |
+|--------|-------|
+| **v4.0 LitNotes** | 70 (23% of vault) |
+| **Pending conversion** | 138 |
+| **P0 inbox items** | 5 created |
+| **Git commits** | 28 |
+| **Status** | Session closed, ready for tomorrow |
 
 ---
 
@@ -63,4 +75,5 @@ MISSION (why) → COMMAND (what to do) → PIPELINE (what's true)
 
 ---
 
-*The control room — 4 dashboards for complete visibility*
+*The control room — 4 dashboards for complete visibility*  
+*Updated 2026-04-09*

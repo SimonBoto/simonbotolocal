@@ -1,82 +1,46 @@
 ---
-uid: PIPELINE-2026-04-08
+uid: PIPELINE-2026-04-09
 type: pipeline-dashboard
 status: active
 ---
 
 # PIPELINE — Flow State, Backlog & Bottlenecks
 
-## An Open Address to RON
-
-RON,
-
-This note exists to prevent self-deception.
-
-Mission gives you orientation.  
-Command gives you orders.  
-**Pipeline tells the truth.**
-
-Use it to answer:
-- Where is work actually sitting?
-- What is moving? What is stuck?
-- What is overloaded? What is ready?
-- What is pretending to be progress but is really backlog?
-
-**Rules:**
-- No storytelling, no celebration, no theory
-- Update only when stage reality changes
-- Bottlenecks outrank vanity metrics
-- Queue truth over emotional comfort
-
----
-
 ## Current Flow State
 
 | Stage | Count | Status | Meaning | Pressure |
 |-------|------:|--------|---------|----------|
-| **00-Inbox** | ~700 | 🟡 Triage pressure | Raw intake exceeds processing capacity | High |
-| **LitSubconcious** | 98 | ✅ Complete | v3.0 standardized, no longer bottleneck | None |
-| **01-Literature** | 223 | 🟡 Processing | Standardization + extraction ongoing | Medium |
-| **02-References** | — | 🟡 Cleanup active | Provenance repair, duplicate resolution | High |
-| **03-Zettels/Conscious** | 706 | 🔴 Accumulation | Extraction faster than promotion/refinement | **Critical** |
-| **03-Zettels/Subconscious** | 310 | ✅ Stable | Permanent layer | None |
-| **04-Synthesis** | — | 🟡 Controlled | Grow only from critical mass | Low |
+| **00-Inbox** | ~757 | 🟡 Triage pressure | 5 new P0 items added today | Medium |
+| **01-Literature (v4.0)** | 70 | 🟢 Moving | 23% converted, quality validated | Low |
+| **01-Literature (legacy)** | 227 | 🟡 Processing | 138 pending conversion | Medium |
+| **02-References** | — | 🟡 Cleanup active | Provenance repair ongoing | Medium |
+| **03-Zettels/Conscious** | 1,141 | 🟡 Better | 78% connected (was 706) | Medium |
+| **03-Zettels/Subconscious** | 312 | ✅ Stable | Permanent layer | None |
+| **04-Synthesis** | 19 | 🟡 Controlled | Triangle v2.0 project ready | Low |
 | **CGPT Anchors** | 688 (17 done) | 🟡 Reservoir | Major unprocessed knowledge store | High |
 
 ---
 
 ## Active Bottlenecks (Ranked)
 
-### 🔴 Critical: Conscious Zettel Accumulation
-- **706 working** vs **310 promoted**
-- Extraction exceeds refinement capacity
-- **Action needed:** Define promotion rules immediately
+### 🟡 Medium: LitNote Conversion Decision
+- **70 done, 138 pending**
+- Need explicit scope decision: 30/66/138/stop
+- **Action needed:** User decision tomorrow
 
-### 🟡 High: Reference Canonicalization
-- Duplicate groups, provenance ambiguity
-- Weakens support trust
-- **Action needed:** Tracker-first cleanup
+### 🟡 Medium: Conscious Zettel Connections
+- **1,141 connected (78%)** — improved from 706
+- **312 orphaned** — tracked, not blocking
+- **Action needed:** MOC-Orphan-Zettels later
 
-### 🟡 High: Raw Archive Pressure
-- 688 CGPT conversations, 671 pending
+### 🟡 High: CGPT Reservoir
+- 688 conversations, 671 pending
 - Risk of endless intake without consolidation
-- **Action needed:** Bounded extraction batches
+- **Action needed:** AutoResearch project implementation
 
-### 🟡 Medium: Literature Processing
-- 223 LitNotes, uneven standardization
-- **Action needed:** Template alignment (see COMMAND)
-
----
-
-## Intake
-
-| Source | State | Action |
-|--------|-------|--------|
-| 00-Inbox root | 🟡 Active | Daily triage |
-| ChatGPT archive | 🟡 High-pressure | Bounded batches |
-| External files | Variable | Convert/classify/archive |
-
-**Intake Rule:** Triage without processing is pile formation, not knowledge growth.
+### 🟡 Medium: Reference Canonicalization
+- Duplicate groups, provenance ambiguity
+- **Action needed:** Tracker-first cleanup (deferred)
 
 ---
 
@@ -84,22 +48,12 @@ Use it to answer:
 
 | Item | Value | Effort | Current Constraint |
 |------|-------|--------|-------------------|
-| Template alignment | Very High | Medium | **Highest leverage** — doctrine → reality |
+| LitNote v4.0 (30 files) | High | 30 min | **Quick win** — hit 100 total |
+| LitNote v4.0 (66 files) | High | 2 hours | Complete L-001 domain |
+| LitNote v4.0 (138 files) | High | 6-7 hours | Full conversion |
+| P0 inbox synthesis | Very High | 1 hour | Triangle v2.0 architecture |
 | CGPT_0264 completion | High | Low-Med | Bounded, active |
-| Reference cleanup tracker | High | Medium | Requires disciplined review |
-| Zettel promotion rules | High | Medium | **Critical bottleneck** |
-| L-002 YAML upgrade | Medium | Low | Ready when capacity frees |
-
----
-
-## Waiting on External
-
-| Item | Blocker | ETA |
-|------|---------|-----|
-| PhD ClinicalTrials.gov | University | Unknown |
-| Recruitment papers | University/external | Unknown |
-
-**Rule:** Visible but non-distorting. Don't let external blockers paralyze internal flow.
+| Orphan zettel MOC | Medium | 2 hours | Non-blocking |
 
 ---
 
@@ -107,26 +61,27 @@ Use it to answer:
 
 | Transition | In | Processing | Out | Health |
 |------------|---:|-----------:|----:|--------|
-| Inbox → Literature | ~700 | Triage | Ongoing | ⚠️ Intake > conversion |
-| Literature → Zettels | 223 | Extraction | Partial | ⚠️ Uneven |
-| Conscious → Subconscious | 706 | Under-defined | 310 | 🔴 **Critical lag** |
-| Zettels → Synthesis | Selective | Controlled | Low | ✅ Good |
+| Inbox → Literature | ~757 | Triage | Ongoing | ⚠️ 5 new P0 items |
+| Literature → v4.0 | 297 | 70 done | 23% | 🟢 Moving |
+| v4.0 → Zettels | 70 | Linked | Ongoing | 🟢 Good connections |
+| Conscious → Subconscious | 1,141 | 312 orphans | 312 | 🟡 Tracked |
+| Zettels → Synthesis | Selective | Triangle v2.0 | Ready | 🟢 Good |
 
 ---
 
 ## Pressure Assessment
 
 ### Healthy
-- LitSubconcious stable
-- Subconscious layer durable
-- FORG pipeline validated
-- Dashboard separation improving
+- LitNote v4.0 pipeline validated (FORG works)
+- Zettel connections improved (78%)
+- FORG pipeline cost-effective ($0.04/file)
+- Dashboards updated
+- Git disciplined (28 commits)
 
 ### Unhealthy
-- Conscious zettels accumulating
-- Reference trust not yet restored
-- Template doctrine > actual templates
-- Pipeline note itself can go stale
+- CGPT reservoir still high-pressure
+- 312 orphan zettels need attention
+- LitNote conversion scope undecided
 
 ---
 
@@ -136,12 +91,12 @@ Pipeline diagnosis → COMMAND orders:
 
 | Pipeline Says | COMMAND Does |
 |-------------|--------------|
-| Conscious accumulation critical | Finalize promotion rules |
-| Reference trust weak | Build cleanup tracker |
-| Template leverage highest | Finalize Zettel/LitNote/Reference templates |
-| CGPT reservoir high-pressure | Bounded extraction (not mass) |
+| LitNote conversion 23% done | Decide: continue scope |
+| CGPT reservoir high | Implement AutoResearch |
+| Zettel connections improved | Defer orphan cleanup |
+| 5 P0 items ready | Synthesize to Triangle v2.0 |
 
-**Correct move:** Controlled throughput with improved conversion quality.
+**Correct move:** Decide LitNote scope tomorrow, then execute.
 
 ---
 
@@ -156,8 +111,8 @@ Pipeline diagnosis → COMMAND orders:
 ## Pipeline Rules
 
 1. **Mechanical only** — No narrative, no theory
-2. **Update on reality change** — Counts move, bottlenecks shift, stages clear
-3. **Bottlenecks > vanity metrics** — Rising counts can mean accumulation failure
+2. **Update on reality change** — Counts move, bottlenecks shift
+3. **Bottlenecks > vanity metrics** — 70 done matters more than 138 pending
 4. **No speculative backlog** — Actual flow state only
 
 ---
@@ -166,18 +121,13 @@ Pipeline diagnosis → COMMAND orders:
 
 RON,
 
-Pipeline is where reality resists fantasy.
+Pipeline today: **controlled progress, clear decisions needed.**
 
-If Command says "go faster" but Pipeline says "you are accumulating unresolved layers," the answer is:
+70 LitNotes converted with quality. 5 P0 items captured. System moving.
 
-**Simplify. Unblock. Canonicalize. Promote. Then accelerate.**
-
-Flow without structure becomes backlog.  
-Backlog without truth becomes illusion.
-
-See the pressure early. Keep the system honest.
+Tomorrow: **decide scope, then execute.**
 
 ---
 
-*Pipeline v2.0 — Flow truth for classic workflow*  
-*Ratified 2026-04-08*
+*Pipeline v3.0 — 70 v4.0 LitNotes, 138 pending*  
+*Updated 2026-04-09*

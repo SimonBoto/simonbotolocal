@@ -1,89 +1,63 @@
 ---
-uid: COMMAND-2026-04-08
+uid: COMMAND-2026-04-09
 type: command-dashboard
 status: active
 ---
 
 # COMMAND — Current Priorities & Operating Orders
 
-## An Open Address to RON
-
-RON,
-
-Mission gives you **orientation**. 
-Command gives you **today's vector**.
-
-This note tracks **state** (what is) and gives **orders** (what to do). 
-Stale commands kill systems — this note stays alive through explicit refresh.
-
----
-
 ## System State at a Glance
 
 | Metric | Value | Updated |
 |--------|-------|---------|
-| **Zettels** | 1,303 | Auto |
-| **LitNotes** | 223 | Auto |
-| **LitSubconcious** | 98 | Auto |
-| **CGPT Anchors** | 688 (17 processed) | Auto |
-| **OpenClaw Workers** | 4 (RON, FORG, GEMMA, FREE) | 2026-04-08 |
-| **Git Status** | Clean | Auto |
-| **Last Session** | 2026-04-08 21:15 | Auto |
+| **Zettels** | 1,453 | 2026-04-09 |
+| **LitNotes (v4.0)** | 70 | 2026-04-09 |
+| **LitNotes (legacy)** | 227 | 2026-04-09 |
+| **CGPT Anchors** | 688 (17 processed) | 2026-04-09 |
+| **OpenClaw Workers** | 4 (RON, FORG, GEMMA, FREE) | 2026-04-09 |
+| **Git Status** | Clean (28 commits today) | 2026-04-09 |
+| **Last Session** | 2026-04-09 22:45 | 2026-04-09 |
 
 ### Active Fronts
 | Front | Status | Next Action |
 |-------|--------|-------------|
-| Template Alignment | 🟡 In Progress | Finalize Zettel template |
-| Reference Cleanup | ⏳ Ready | Build cleanup tracker |
-| CGPT_0264 | 🟡 6/11 | Continue Batch 1.2 |
+| LitNote v4.0 Conversion | 🟡 70/297 (23%) | Decide: 30 more, 66 more, or stop |
+| FORG Pipeline | ✅ Validated | Ready for next batch |
+| P0 Inbox Items | ✅ 5 created | Ready for synthesis |
+| CGPT_0264 | ⏳ 6/11 | Resume when ready |
 
 ---
 
 ## Operating Orders
 
 ### Do Now (Max 3)
-- [ ] Finalize Zettel template (match doctrine)
-- [ ] Finalize LitNote template (match doctrine)
-- [ ] Build reference cleanup tracker
+- [ ] **Rest** — Session closed, resume tomorrow
+- [ ] **Decide** — LitNote scope: 30/66/138/stop?
+- [ ] **Prioritize** — New extraction vs. conversion vs. synthesis
 
 ### Do Next (Queue)
-- Define promotion rules (conscious → subconscious)
-- Canonicalize reference folder
+- Complete LitNote v4.0 (decide scope)
+- Synthesize 5 P0 inbox items into Triangle v2.0
 - Resume CGPT_0264 Batch 1.2
+- Address 312 orphan zettels
 
 ### Do Not Do (Permanent Guardrails)
-- ❌ New overlapping governance notes
+- ❌ Process all 138 LitNotes without explicit decision
+- ❌ Start new extraction before conversion complete
 - ❌ Trust stale protocols over current doctrine
 - ❌ Aggressive cleanup without archive-first safety
-- ❌ Let tools mutate vault through ambiguous paths
 
 ---
 
-## Classic Workflow Reminder
+## Today's Achievements
 
-Our workflow is **continuous extraction and refinement**:
-
-```
-Source → Inbox → LitNote → Zettels → Synthesis → MOCs
-              ↓
-         Reference Hub
-              ↓
-         QMD Search
-              ↓
-         FORG Draft → RON Review → Vault
-```
-
-**No phases. No modes. Just relentless compounding.**
-
----
-
-## Tool Discipline (Permanent)
-
-**Canonical order:**
-1. **Human override** = highest
-2. **CLI** = canonical write path
-3. **REST API** = specialized secondary
-4. **QMD** = retrieval only by default
+| Item | Status |
+|------|--------|
+| 70 v4.0 LitNotes created | ✅ Committed |
+| 5 P0 inbox items | ✅ Created |
+| 2 new projects | ✅ Created |
+| YAML consistency fixes | ✅ 39 files |
+| Git discipline | ✅ 28 commits |
 
 ---
 
@@ -115,17 +89,6 @@ Weak answer → slow down.
 
 ---
 
-## Stale-Proof Mechanisms
-
-| Mechanism | How |
-|-----------|-----|
-| **Auto-updating metrics** | I report, you verify |
-| **Max 3 "Do Now"** | Forces prioritization |
-| **Explicit refresh** | You update orders when priorities shift |
-| **Permanent guardrails** | "Do Not Do", "Always/Never" don't drift |
-
----
-
 ## Cross-Reference
 
 | Need | Go To |
@@ -140,11 +103,11 @@ Weak answer → slow down.
 
 RON,
 
-**Extract. Refine. Compound. Ship.**
+**70 done. 138 remain. You decide tomorrow.**
 
 Move carefully. Move clearly. Move in order.
 
 ---
 
-*Command v3.0 — Classic Workflow*  
-*Ratified 2026-04-08*
+*Command v4.0 — 70 v4.0 LitNotes committed*  
+*Updated 2026-04-09*
