@@ -179,8 +179,108 @@ tags:
 ---
 
 ---
-parent-index: [[01-Literature 1]]
 
-*Literature note processed: 2026-03-06 | Updated to v4.0: 2026-04-09*
-*Zettels extracted: 4 | Status: complete*
-*Reviewed by: FORG*
+## Additional Content from Legacy Version
+
+|--------|--------|--------|
+- **12 months:** Assess for BMD maintenance
+1. Cummings et al., Lancet Diabetes Endocrinol 2018 — FREEDOM trial extension showing rebound fractures
+2. Clinical review synthesis of transition protocols
+- ✅ **5 Original LitNotes** (L-001-0010 to L-001-0014) — Previously extracted
+- **Adherence challenge:** Must be reliable with weekly dosing
+- **Advantage:** Anabolic stimulation
+- **Advantage:** Formation stimulation during vulnerable period
+- **Advantage:** Oral option for IV-averse patients
+- **Advantage:** Single infusion, guaranteed compliance
+- **After Month 18:** Gradual stabilization (at lower BMD)
+#### Alendronate (Oral)
+### Alternative Transitions
+- **Baseline:** At time of transition (6 months post-last denosumab)
+#### Biochemical Markers (Bone Turnover)
+### Bisphosphonate Selection for Transition
+- Bisphosphonates: Long skeletal half-life, persist after stopping
+- Bridge effect: Continue antiresorptive coverage during denosumab washout
+**CGPT-0133 Completion Status:**
+### Clinical Decision Framework
+#### Clinical Monitoring
+**Consequences:**
+- **Consideration:** Both expensive; sequence usually anabolic first
+- **Cost/insurance:** Loss of coverage
+**Critical Window:** Months 6–18 post-denosumab
+| **CTX (C-telopeptide)** | 6, 12 months post-transition | Suppressed (< 0.3 ng/mL) |
+#### Denosumab → No Therapy (Contraindicated)
+- Denosumab potently suppresses RANKL → osteoclast inhibition
+#### Denosumab → Romosozumab
+#### Denosumab → Teriparatide
+#### DEXA Monitoring
+domain: 1
+- **Dose:** 35mg weekly or 150mg monthly
+- **Dose:** 5mg IV annually
+- **Dose:** 70mg weekly
+# Drug Transition Protocols — Denosumab Discontinuation and Rebound Prevention
+- **Duration:** 1–2 doses (1–2 years)
+- **Duration concerns:** Long-term antiresorptive exposure
+- **Duration:** Minimum 6–12 months bisphosphonate therapy
+- **Evidence:** STRUCTURE trial showed this sequence effective
+## Extraction Summary
+- **Height loss:** Measure at each visit (>2cm suggests fracture)
+#### Ibandronate
+- **If unavoidable:** Intensive monitoring, consider vertebroplasty availability
+**Inappropriate:**
+- **Interpretation:** Stable or slight increase = success; Decline = concern
+## Key Citations from Source
+- **Kyphosis:** Visual inspection for deformity
+- **Less preferred for transition:** Less potent, less evidence
+- ✅ **LitNote 6** (L-001-0015) — Bone Remodeling Cycle (6 zettels)
+- ✅ **LitNote 7** (L-001-0016) — Anabolic Therapies (4 zettels)
+- ✅ **LitNote 8** (L-001-0017) — FRAX Risk Assessment (4 zettels)
+- ✅ **LitNote 9** (L-001-0018) — Drug Transition Protocols (4 zettels)
+- **LitNotes:** 5 (L-001-0015 through L-001-0018 + L-001-0015)
+| Marker | Timing | Target |
+**Mechanism:**
+### Monitoring During Transition
+- **Months 0–6 post-last dose:** BMD stable (residual effect)
+- **Months 12–18:** Peak risk period for vertebral fractures
+- **Months 7–12:** Rapid decline begins
+- Multiple vertebral fractures (reported as clusters)
+- Net result: Rapid bone loss, multiple vertebral fractures possible
+#### Never Stop Without Plan
+- **New back pain:** Immediate evaluation (possible vertebral fracture)
+- **Only acceptable:** Terminal illness, severe adverse event
+| **P1NP** | Baseline, 6 months | Not rising rapidly |
+- **Patient preference:** Side effects, inconvenience
+- Patient self-discontinuation without medical consultation
+- Prevent rebound: Maintain suppression of osteoclast activity
+- Rapid BMD loss (up to 10–15% in spine within 2 years)
+**Rationale:**
+- **Rationale:** Denosumab still active at 6 months; earlier dosing unnecessary
+**⚠️ REMAINING GAP:** Comprehensive bisphosphonate pharmacology not available in source — requires separate extraction from different conversation.
+#### Risedronate (Oral)
+- Risk highest in those with prior fractures
+- **Scope:** Denosumab rebound phenomenon and transition to bisphosphonates
+- **Similar to alendronate:** Slightly different side effect profile
+- **Start bisphosphonate:** 6 months after last denosumab dose
+- Stopping denosumab → no follow-up therapy
+- Stopping due to "drug holiday" misconception
+- Suppressed formation cannot match resorption surge
+- **Switching to anabolic:** Teriparatide/romosozumab initiation
+### The Rebound Phenomenon
+> "This effect underscores the importance of planning a transition therapy (e.g., a bisphosphonate) when denosumab is stopped to mitigate rebound resorption."
+**Timeline:**
+**Timing:**
+- **Timing:** 6 months post-last denosumab
+- **Timing:** Can start immediately
+- **Timing:** Can start immediately (no washout needed)
+**Total New Extraction:**
+### Transition to Bisphosphonates
+- Upon cessation: Rapid RANKL recovery → osteoclast surge
+> "Upon discontinuation, patients may exhibit a transient but robust increase in bone turnover, leading to a rapid decline in BMD and increased risk for multiple vertebral fractures (the so-called 'rebound effect' or 'rebound-associated vertebral fractures')."
+#### When to Stop Denosumab
+**Zettel extracted:** [[Bisphosphonate_Selection_Denosumab_Transition_Z-001-0115]
+**Zettel extracted:** [[Denosumab_Rebound_Phenomenon_Mechanism_Risks_Z-001-0113]
+**Zettel extracted:** [[Denosumab_to_Bisphosphonate_Transition_Protocol_Z-001-0114]
+**Zettel extracted:** [[Transition_Monitoring_Bone_Turnover_Markers_DEXA_Z-001-0116]
+- **Zettels:** 18 (Z-001-0099 through Z-001-0116)
+#### Zoledronic Acid (IV)
+
+*Merged from legacy version on 2026-04-12*
