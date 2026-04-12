@@ -1,6 +1,6 @@
 ---
 uid: L-001-0046B
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "α-Keto Acids and Amino Acid Networks: Glutamate, Glutamine, Arginine, Aspartate"
 aliases:
