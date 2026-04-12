@@ -1,3 +1,12 @@
+---
+uid: L-001-0622
+type: litnote
+title: "Mitochondrial Gene Knockout Models L-001-0622"
+date: 2026-04-12
+status: active
+source-origin: legacy
+---
+
 uid: L-001-0622
 type: litnote
 title: Mitochondrial Gene Knockout Models — Energy Dysfunction and Disease

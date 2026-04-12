@@ -1,3 +1,12 @@
+---
+uid: L-001-0634
+type: litnote
+title: "Twitter Strategy DrMito L-001-0634"
+date: 2026-04-12
+status: active
+source-origin: legacy
+---
+
 uid: L-001-0634
 type: litnote
 title: LitNote — Twitter/X Strategy for DrMito (CGPT-0318)

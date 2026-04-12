@@ -1,3 +1,12 @@
+---
+uid: L-002-0604
+type: litnote
+title: "METHAP Study Design Protocol L-002-0604"
+date: 2026-04-12
+status: active
+source-origin: legacy
+---
+
 uid: L-002-0604
 type: litnote
 title: "METHAP Study Design and Protocol — IRB Application"

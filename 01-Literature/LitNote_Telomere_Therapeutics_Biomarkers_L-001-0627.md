@@ -1,3 +1,12 @@
+---
+uid: L-001-0627
+type: litnote
+title: "Telomere Therapeutics Biomarkers L-001-0627"
+date: 2026-04-12
+status: active
+source-origin: legacy
+---
+
 uid: L-001-0627
 type: litnote
 title: Telomere-Based Therapeutics and Biomarkers in Autoimmunity

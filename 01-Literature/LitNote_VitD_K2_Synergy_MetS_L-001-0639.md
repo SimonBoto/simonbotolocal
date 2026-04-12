@@ -1,3 +1,12 @@
+---
+uid: L-001-0639
+type: litnote
+title: "VitD K2 Synergy MetS L-001-0639"
+date: 2026-04-12
+status: active
+source-origin: legacy
+---
+
 uid: L-001-0639
 type: litnote
 title: LitNote — Vitamin D and K2 Synergy in Metabolic Syndrome (CGPT-0230)

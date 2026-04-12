@@ -1,3 +1,12 @@
+---
+uid: L-001-0625
+type: litnote
+title: "Mitochondrial Telomere Axis Autoimmunity L-001-0625"
+date: 2026-04-12
+status: active
+source-origin: legacy
+---
+
 uid: L-001-0625
 type: litnote
 title: Mitochondrial Dysfunction and Telomere Shortening in Autoimmunity

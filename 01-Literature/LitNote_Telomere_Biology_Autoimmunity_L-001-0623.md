@@ -1,3 +1,12 @@
+---
+uid: L-001-0623
+type: litnote
+title: "Telomere Biology Autoimmunity L-001-0623"
+date: 2026-04-12
+status: active
+source-origin: legacy
+---
+
 uid: L-001-0623
 type: litnote
 title: Telomere Biology and Cellular Aging in Autoimmunity

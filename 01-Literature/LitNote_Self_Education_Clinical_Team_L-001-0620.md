@@ -1,3 +1,12 @@
+---
+uid: L-001-0620
+type: litnote
+title: "Self Education Clinical Team L-001-0620"
+date: 2026-04-12
+status: active
+source-origin: legacy
+---
+
 uid: L-001-0620
 type: litnote
 title: Self-Education Program for Clinical Metabolomics Team

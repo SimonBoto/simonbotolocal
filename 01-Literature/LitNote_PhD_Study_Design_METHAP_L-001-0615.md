@@ -1,3 +1,12 @@
+---
+uid: L-001-0615
+type: litnote
+title: "PhD Study Design METHAP L-001-0615"
+date: 2026-04-12
+status: active
+source-origin: legacy
+---
+
 uid: L-001-0615
 type: litnote
 title: PhD Study Design and Methodology METHAP Trial

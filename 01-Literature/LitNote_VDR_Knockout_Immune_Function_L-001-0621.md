@@ -1,3 +1,12 @@
+---
+uid: L-001-0621
+type: litnote
+title: "VDR Knockout Immune Function L-001-0621"
+date: 2026-04-12
+status: active
+source-origin: legacy
+---
+
 uid: L-001-0621
 type: litnote
 title: VDR Knockout Studies — Immune Function and Autoimmune Implications

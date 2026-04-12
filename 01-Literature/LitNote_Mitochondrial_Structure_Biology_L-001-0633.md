@@ -1,3 +1,12 @@
+---
+uid: L-001-0633
+type: litnote
+title: "Mitochondrial Structure Biology L-001-0633"
+date: 2026-04-12
+status: active
+source-origin: legacy
+---
+
 uid: L-001-0633
 type: litnote
 title: LitNote — Mitochondrial Structure and Function (CGPT-0318)
