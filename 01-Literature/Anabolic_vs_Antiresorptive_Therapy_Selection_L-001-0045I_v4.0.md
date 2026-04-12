@@ -1,7 +1,7 @@
 ---
-uid: L-001-0045F
+uid: L-001-0045I
 type: lit-note
-title: "Anabolic vs Antiresorptive Therapy Selection — Clinical Decision Framework_L-001-0045F"
+title: "Anabolic vs Antiresorptive Therapy Selection — Clinical Decision Framework"
 aliases:
   - L-001-0045F
   - Therapy-Selection-Framework

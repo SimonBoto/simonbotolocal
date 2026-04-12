@@ -1,7 +1,7 @@
 ---
-uid: L-001-0045D
+uid: L-001-0045O
 type: lit-note
-title: "Vitamin D and Calcium Supplementation — Foundation of Osteoporosis Treatment_L-001-0045D"
+title: "Vitamin D and Calcium Supplementation — Foundation of Osteoporosis Treatment"
 aliases:
   - L-001-0045D
   - Vitamin-D-Calcium

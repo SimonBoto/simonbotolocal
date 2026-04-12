@@ -1,7 +1,7 @@
 ---
-uid: L-001-0045E
+uid: L-001-0045K
 type: lit-note
-title: "Glucocorticoid-Induced Osteoporosis — Pathogenesis and Management_L-001-0045E"
+title: "Glucocorticoid-Induced Osteoporosis — Pathogenesis and Management"
 aliases:
   - L-001-0045E
   - Glucocorticoid-Induced-Osteoporosis

@@ -1,7 +1,7 @@
 ---
-uid: L-001-0045C
+uid: L-001-0045J
 type: lit-note
-title: "Bone Turnover Markers — Biochemical Monitoring in Osteoporosis_L-001-0045C"
+title: "Bone Turnover Markers — Biochemical Monitoring in Osteoporosis"
 aliases:
   - L-001-0045C
   - Bone-Turnover-Markers

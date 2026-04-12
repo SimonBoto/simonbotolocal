@@ -1,7 +1,7 @@
 ---
-uid: L-001-0045G
+uid: L-001-0045M
 type: lit-note
-title: "Monitoring and Follow-Up — Osteoporosis Treatment Management_L-001-0045G"
+title: "Monitoring and Follow-Up — Osteoporosis Treatment Management"
 aliases:
   - L-001-0045G
   - Monitoring-Follow-Up

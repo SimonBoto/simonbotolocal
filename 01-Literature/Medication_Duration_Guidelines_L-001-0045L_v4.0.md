@@ -1,7 +1,7 @@
 ---
-uid: L-001-0045H
+uid: L-001-0045L
 type: lit-note
-title: "Medication Duration Guidelines — Osteoporosis Treatment Longevity_L-001-0045H"
+title: "Medication Duration Guidelines — Osteoporosis Treatment Longevity"
 aliases:
   - L-001-0045H
   - Medication-Duration
