@@ -8,6 +8,7 @@ aliases:
 domain: "002"
 status: active
 reviewed_by: RON
+tier: "SILVER"
 tags:
   - litnote
   - aspirin

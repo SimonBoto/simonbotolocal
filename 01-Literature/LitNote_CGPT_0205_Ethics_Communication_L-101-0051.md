@@ -9,6 +9,7 @@ pmid: N/A
 tier: BRONZE
 relevance: Moderate — Practical IRB communication guidance
 status: extracted
+reviewed_by: "FORG"
 parent-moc: [[MOC-Research-Ethics]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-28

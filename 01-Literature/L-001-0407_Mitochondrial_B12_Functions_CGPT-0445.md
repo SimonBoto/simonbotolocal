@@ -98,6 +98,5 @@ tags:
 - [x] Connections verified
 
 zettels-created: 6
-extraction-quality: GOLD
 ---
 *Processed: 2026-04-06 | Zettels: 6 | Status: COMPLETE*

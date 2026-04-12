@@ -9,6 +9,7 @@ pmid: N/A
 tier: SILVER
 relevance: High — mTOR mechanisms, mitochondrial dysfunction, insulin resistance pathways
 status: extracted
+reviewed_by: "FORG"
 parent-moc: [[MOC-Mitochondrial-Function]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-28

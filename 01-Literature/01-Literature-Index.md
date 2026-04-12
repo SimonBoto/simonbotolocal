@@ -6,6 +6,8 @@ date: 2026-04-07
 aliases: [Literature-Index, LitNotes-Index]
 tags: [index, literature, litnotes, sources]
 status: active
+reviewed_by: "FORG"
+tier: "SILVER"
 parent-index: [[00-INDEX]]
 parent-moc: [[MOC-Research-Methods]]
 ---

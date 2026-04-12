@@ -21,7 +21,6 @@ extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 zettel-count: 6
 reference-count: 0
-extraction-quality: BRONZE
 extracted_by: FORG
 reviewed_by: PENDING
 tags:

@@ -9,6 +9,7 @@ source: "X post summarizing Cell paper"
 url: "https://x.com/nikomccarty/status/2040126879341125918"
 tier: "GOLD"
 status: extracting
+reviewed_by: "FORG"
 parent-moc: "[[MOC-Metabolic-Pathways]]"
 extraction-date: "2026-04-04"
 ---

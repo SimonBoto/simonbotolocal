@@ -5,6 +5,7 @@ title: "TP53 Multiple Myeloma L-001-0613"
 date: 2026-04-12
 status: active
 source-origin: legacy
+reviewed_by: "FORG"
 ---
 
 uid: L-001-0613

@@ -15,6 +15,7 @@ domain: 001
 tags: [litnote, sle, ra, ibd, psoriasis, telomeres, disease-specific]
 source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]]"
 status: extracted
+reviewed_by: "FORG"
 parent-moc: 
 extraction-date: 2026-03-08
 ---

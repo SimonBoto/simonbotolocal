@@ -11,6 +11,7 @@ pmcid: ""
 tier: 2
 relevance: "High — Clinical phenotype mapping with direct METHAP trial applications (oxidative stress biomarkers, micronutrient assessment, IR phenotyping)"
 status: complete
+reviewed_by: "FORG"
 aliases: [L-001-0003, NKUA_DE3, Metabolomics_Clinical_Advantages]
 domain: 001
 tags: [lit-note, metabolomics, phenotype, clinical-practice, micronutrients, insulin-resistance, oxidative-stress, biomarkers, nkua-course]

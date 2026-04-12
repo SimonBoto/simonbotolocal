@@ -8,6 +8,7 @@ journal: Internal clinical synthesis
 tier: SILVER
 relevance: Clinical chemistry fundamentals, bone and liver pathology
 status: extracted
+reviewed_by: "FORG"
 parent-moc: [[MOC-Biomarkers]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-07

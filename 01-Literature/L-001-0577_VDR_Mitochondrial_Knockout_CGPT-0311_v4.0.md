@@ -21,7 +21,6 @@ extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]"
 zettel-count: 6
 reference-count: 0
-extraction-quality: GOLD
 tags:
   - litnote
   - genetics

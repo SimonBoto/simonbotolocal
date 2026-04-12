@@ -11,6 +11,7 @@ pmcid: ""
 tier: 1
 relevance: "CRITICAL — Pharmacometabolomics framework, metformin/mTOR mechanisms, immunometabolism, metabolic reprogramming in autoimmunity"
 status: complete
+reviewed_by: "FORG"
 parent-moc: 
 extraction-date: 2026-02-23
 ---

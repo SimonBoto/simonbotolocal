@@ -9,6 +9,7 @@ source: "X thread"
 url: "https://x.com/kingofvitamins/status/1998757396425093470"
 tier: "GOLD"
 status: extracting
+reviewed_by: "FORG"
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
 extraction-date: "2026-04-04"
 ---

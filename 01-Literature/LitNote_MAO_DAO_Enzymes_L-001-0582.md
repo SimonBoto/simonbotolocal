@@ -8,6 +8,7 @@ journal: Internal clinical synthesis
 tier: SILVER
 relevance: Enzyme pharmacology, histamine metabolism, neurotransmitter degradation
 status: extracted
+reviewed_by: "FORG"
 parent-moc: [[MOC-Pharmacology]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-07

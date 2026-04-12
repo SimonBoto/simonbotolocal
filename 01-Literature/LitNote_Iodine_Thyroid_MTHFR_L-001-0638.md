@@ -8,6 +8,7 @@ journal: ChatGPT Archive
 tier: SILVER
 relevance: Critical — Iodine dosing, selenium synergy, MTHFR considerations, supplement interactions
 status: extracted
+reviewed_by: "FORG"
 parent-moc: [[MOC-Thyroid]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-09

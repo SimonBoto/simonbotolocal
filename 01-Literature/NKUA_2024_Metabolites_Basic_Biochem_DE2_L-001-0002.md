@@ -11,6 +11,7 @@ pmcid: ""
 tier: 1
 relevance: "CRITICAL — Explains cofactor→metabolite biomarker logic (parallel to VD→adipic acid); Krebs cycle metabolites in IR; carnitine/fatty acid metabolism"
 status: complete
+reviewed_by: "FORG"
 parent-moc: 
 extraction-date: 2026-02-23
 ---

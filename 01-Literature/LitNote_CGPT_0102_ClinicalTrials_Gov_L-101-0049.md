@@ -9,6 +9,7 @@ pmid: N/A
 tier: SILVER
 relevance: High — Clinical trial registration, NIH compliance, trial transparency requirements
 status: extracted
+reviewed_by: "FORG"
 parent-moc: [[MOC-PhD-Research]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-28

@@ -8,6 +8,7 @@ journal: Internal clinical synthesis
 tier: GOLD
 relevance: Core GI pathology, IBD differential diagnosis
 status: extracted
+reviewed_by: "FORG"
 parent-moc: [[MOC-Gastroenterology]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-07

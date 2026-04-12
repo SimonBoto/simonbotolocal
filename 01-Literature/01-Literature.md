@@ -6,6 +6,8 @@ title: "01-Literature — Source Processing"
 aliases: [Literature, LitNotes, Source Notes, 01-Literature-Index]
 tags: [index, literature, litnotes, processing, navigation, folder]
 status: active
+reviewed_by: "FORG"
+tier: "SILVER"
 parent-moc: [[00-INDEX]]
 parent-index: [[00-INDEX]]
 ---

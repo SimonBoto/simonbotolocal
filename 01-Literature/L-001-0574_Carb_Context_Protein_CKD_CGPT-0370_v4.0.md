@@ -21,7 +21,6 @@ extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]"
 zettel-count: 6
 reference-count: 0
-extraction-quality: GOLD
 tags:
   - litnote
   - kidney

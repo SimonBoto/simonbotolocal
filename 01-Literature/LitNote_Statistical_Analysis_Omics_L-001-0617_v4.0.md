@@ -20,7 +20,6 @@ extraction-date: "2026-03-08"
 source-inbox: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475]]"
 zettel-count: 4
 reference-count: 1
-extraction-quality: BRONZE
 extracted_by: FORG
 reviewed_by: PENDING
 tags:

@@ -8,6 +8,7 @@ journal: Internal clinical synthesis
 tier: GOLD
 relevance: Critical insight — metabolic context determines protein effects
 status: extracted
+reviewed_by: "FORG"
 parent-moc: [[MOC-Kidney-Metabolism]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-07

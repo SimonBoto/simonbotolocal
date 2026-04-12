@@ -11,6 +11,7 @@ pmcid: "N/A"
 tier: GOLD
 relevance: "High — Foundational framework for IRB approval and METHAP trial design"
 status: extracted
+reviewed_by: "FORG"
 parent-moc: [[MOC-Research-Ethics]]
 extraction-date: 2026-03-27
 source: "[[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]"

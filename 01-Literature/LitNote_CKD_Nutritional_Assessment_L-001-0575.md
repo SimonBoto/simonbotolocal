@@ -8,6 +8,7 @@ journal: Internal clinical synthesis
 tier: GOLD
 relevance: Practical clinical assessment framework for CKD nutrition
 status: extracted
+reviewed_by: "FORG"
 parent-moc: [[MOC-Kidney-Metabolism]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-07

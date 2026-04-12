@@ -21,7 +21,6 @@ extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0345_Alkaline_Phosphatase_Overview_CGPT-0345]]"
 zettel-count: 6
 reference-count: 0
-extraction-quality: SILVER
 tags:
   - litnote
   - biomarkers

@@ -9,6 +9,7 @@ pmid: N/A
 tier: SILVER
 relevance: High — PhD adipic acid domain, oxalate metabolism pathways, biomarker chemistry
 status: extracted
+reviewed_by: "FORG"
 parent-moc: [[MOC-Kidney-Metabolism]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-28

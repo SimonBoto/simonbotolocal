@@ -11,6 +11,7 @@ pmcid: ""
 tier: 2
 relevance: "High - Core training material covering systems biology → metabolomics cascade with direct application to METHAP trial design"
 status: complete
+reviewed_by: "FORG"
 parent-moc: 
 extraction-date: 2026-02-23
 ---

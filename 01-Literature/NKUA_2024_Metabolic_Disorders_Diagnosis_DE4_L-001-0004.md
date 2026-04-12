@@ -11,6 +11,7 @@ pmcid: ""
 tier: 2
 relevance: "Diagnostic metabolomics methodology — inherited metabolic diseases as precedent for IR biomarker validation; carbohydrate/lipid metabolism directly applicable to METHAP"
 status: complete
+reviewed_by: "FORG"
 aliases: [L-001-0004, NKUA_DE4, Metabolic_Disorders_Diagnosis]
 domain: 001
 tags: [lit-note, metabolic-disorders, diagnosis, metabolomics, inherited-diseases, newborn-screening, insulin-resistance, biomarkers]

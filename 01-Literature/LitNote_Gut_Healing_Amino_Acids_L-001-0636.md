@@ -8,6 +8,7 @@ journal: ChatGPT Archive
 tier: SILVER
 relevance: High — Clinical protocols for intestinal barrier repair, glutamine, taurine dosing
 status: extracted
+reviewed_by: "FORG"
 parent-moc: [[MOC-Gut-Health]]
 extraction-date: 2026-03-09
 source: "[[CGPT_0199_Dysbiosis_Treatment_Side_Effects_CGPT-0199]]"
