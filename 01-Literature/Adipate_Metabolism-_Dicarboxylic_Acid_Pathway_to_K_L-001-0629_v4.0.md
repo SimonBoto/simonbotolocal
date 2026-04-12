@@ -111,13 +111,13 @@ Succinyl-CoA → Succinate (via succinyl-CoA synthetase, generates GTP)
 
 ### 4. Energy Yield from Adipate
 
-| Input | Output | ATP Equivalent |
-|-------|--------|----------------|
-| 1 Adipate (C6) | 2 Acetyl-CoA + 1 Succinyl-CoA | ~20 ATP |
-| 2 FADH₂ | ETC | ~3 ATP each = 6 ATP |
-| 2 NADH | ETC | ~2.5 ATP each = 5 ATP |
-| 1 GTP | Substrate-level | 1 ATP |
-| **Total** | | **~32 ATP** (vs ~40 if fully oxidized from palmitate) |
+| Input          | Output                        | ATP Equivalent                                        |
+| -------------- | ----------------------------- | ----------------------------------------------------- |
+| 1 Adipate (C6) | 2 Acetyl-CoA + 1 Succinyl-CoA | ~20 ATP                                               |
+| 2 FADH₂        | ETC                           | ~3 ATP each = 6 ATP                                   |
+| 2 NADH         | ETC                           | ~2.5 ATP each = 5 ATP                                 |
+| 1 GTP          | Substrate-level               | 1 ATP                                                 |
+| **Total**      |                               | **~32 ATP** (vs ~40 if fully oxidized from palmitate) |
 
 **Efficiency:** ~80% of complete β-oxidation energy recovered
 
