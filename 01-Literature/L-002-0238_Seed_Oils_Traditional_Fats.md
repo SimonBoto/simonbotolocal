@@ -1,6 +1,6 @@
 ---
 uid: L-002-0238
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "Seed Oils Oxidation and Traditional Fats for Cooking (Mousavi 2025, Grootveld 2018, Tsoukalas 2024)"
 aliases: ["L-002-0238", "Seed-Oils-Oxidation-Traditional-Fats", "Seed-Oils-Health"]
@@ -11,6 +11,7 @@ journal: "BMJ; Hepatobiliary Surg Nutr; BMJ Nutr Prev Health"
 doi: "(multiple)"
 pmid: "(multiple)"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Nutrition]]"
 parent-index: "[[01-Literature-Index]]"

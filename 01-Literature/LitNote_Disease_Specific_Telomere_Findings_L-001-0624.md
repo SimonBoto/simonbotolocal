@@ -1,6 +1,6 @@
 ---
 uid: L-001-0624
-type: lit-note
+type: litnote
 title: Disease-Specific Telomere Findings — SLE, RA, IBD, Psoriasis
 authors: ChatGPT Analysis / Georgin-Lavialle et al.
 year: 2023
@@ -18,6 +18,9 @@ status: active
 reviewed_by: "FORG"
 parent-moc: 
 extraction-date: 2026-03-08
+source-inbox: "[[00-Inbox]]"
+zettel-count: 0
+reference-count: 0
 ---
 
 # Disease-Specific Telomere Findings — SLE, RA, IBD, Psoriasis

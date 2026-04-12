@@ -26,6 +26,9 @@ source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]]"
 status: active
 parent-moc: 
 extraction-date: 2026-03-08
+source-inbox: "[[00-Inbox]]"
+zettel-count: 0
+reference-count: 0
 
 # Mitochondrial Dysfunction and Telomere Shortening in Autoimmunity
 

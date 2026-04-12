@@ -1,6 +1,6 @@
 ---
 uid: L-001-0046A
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Amino Acids Entering Krebs Cycle: Complete Metabolic Map"
 aliases:

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0407
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: Mitochondrial B12 Functions — Energy Metabolism and Exercise Performance
 aliases:

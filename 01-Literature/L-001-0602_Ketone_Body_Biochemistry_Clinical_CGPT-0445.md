@@ -1,6 +1,6 @@
 ---
 uid: L-001-0602
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: Ketone Body Biochemistry and Clinical Applications
 aliases:

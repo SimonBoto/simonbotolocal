@@ -4,9 +4,14 @@ type: litnote
 title: "Twitter Strategy DrMito L-001-0634"
 date: 2026-04-12
 status: active
+zettel-count: 0
+reference-count: 0
 source-origin: legacy
+extraction-date: "2026-04-12"
+source-inbox: "[[00-Inbox]]"
 reviewed_by: "FORG"
 tier: "SILVER"
+relevance: "Medium — clinical biochemistry"
 ---
 
 uid: L-001-0634
@@ -18,6 +23,8 @@ source: CGPT-0318 (Messages 3-155, 163-214)
 tags: [litnote, social-media, twitter, branding, mitochondria, growth]
 aliases: CGPT-0318-Strategy]
 status: active
+zettel-count: 0
+reference-count: 0
 
 # Twitter/X Strategy — DrMito Profile Development
 

@@ -1,6 +1,6 @@
 ---
 uid: L-002-0177
-type: lit-note
+type: litnote
 title: "Carbohydrate Withdrawal Symptoms and Keto-Adaptation Timeline (Harvey 2019)"
 source-inbox: "[[INBOX-Article-18-Carb-Withdrawal]]"
 authors: "Harvey CJDC, Schofield GM, Zinn C, Thornley S, et al."
@@ -9,6 +9,7 @@ journal: "Nutrition"
 doi: "10.1016/j.nut.2019.06.007"
 pmid: "34332710"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 parent-index: "[[01-Literature-Index]]"

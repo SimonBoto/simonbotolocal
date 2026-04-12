@@ -1,6 +1,6 @@
 ---
 uid: L-002-0212
-type: lit-note
+type: litnote
 title: "Twelve Evidence-Based Actions for Better Health (Lifestyle Medicine Framework)"
 aliases: ["L-002-0212", "Twelve-Actions-Better-Health"]
 source-inbox: "[[INBOX-Article-31-Twelve-Actions]]"
@@ -10,6 +10,7 @@ journal: "American Journal of Lifestyle Medicine, Circulation, PLoS Medicine"
 doi: "(multiple)"
 pmid: "(multiple)"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Clinical-Protocols]]"
 parent-index: "[[01-Literature-Index]]"

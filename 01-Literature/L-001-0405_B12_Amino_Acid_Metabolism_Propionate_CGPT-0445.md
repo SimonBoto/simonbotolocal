@@ -1,6 +1,6 @@
 ---
 uid: L-001-0405
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: B12 in Amino Acid Metabolism — Propionate Pathway and Odd-Chain Fatty Acids
 aliases:

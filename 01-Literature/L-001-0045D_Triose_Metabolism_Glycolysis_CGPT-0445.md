@@ -1,6 +1,6 @@
 ---
 uid: L-001-0045D
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Triose Metabolism and Glycolysis: The Ancient Energy Pathway"
 aliases:

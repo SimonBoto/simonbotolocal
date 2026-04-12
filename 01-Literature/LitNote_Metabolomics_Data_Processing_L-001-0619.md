@@ -22,6 +22,9 @@ relevance: High — Preprocessing, normalization, pathway analysis, network anal
 status: active
 parent-moc: 
 extraction-date: 2026-03-08
+source-inbox: "[[00-Inbox]]"
+zettel-count: 0
+reference-count: 0
 source: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475]]"
 
 # Lit: ChatGPT 2024 — Metabolomics Data Processing: METHAP

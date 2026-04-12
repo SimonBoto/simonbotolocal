@@ -1,6 +1,6 @@
 ---
 uid: L-002-0221
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "High Glucose vs High Insulin: Insulin Matters More for CVD (ACCORD & Literature)"
 aliases: ["L-002-0221", "Glucose-vs-Insulin", "Insulin-CVD-Paradigm"]
@@ -11,6 +11,7 @@ journal: "New England Journal of Medicine; Various"
 doi: "(multiple)"
 pmid: "(multiple)"
 tier: "SILVER"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Insulin-Signaling]]"
 parent-index: "[[01-Literature-Index]]"

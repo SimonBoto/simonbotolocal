@@ -1,6 +1,6 @@
 ---
 uid: L-002-0246
-type: lit-note
+type: litnote
 title: Aspirin Reduces Cancer Metastasis via Platelet TXA2-T-Cell Mechanism
 aliases:
   - L-002-0246
@@ -9,6 +9,7 @@ domain: "002"
 status: active
 reviewed_by: RON
 tier: "SILVER"
+relevance: "Medium — clinical biochemistry"
 tags:
   - litnote
   - aspirin

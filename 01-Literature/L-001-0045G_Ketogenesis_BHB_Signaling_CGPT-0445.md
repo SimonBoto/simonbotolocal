@@ -1,6 +1,6 @@
 ---
 uid: L-001-0045G
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Ketogenesis and BHB: Energy Substrate and Signaling Molecule"
 aliases:

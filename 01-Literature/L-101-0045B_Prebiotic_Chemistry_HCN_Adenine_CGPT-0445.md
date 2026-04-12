@@ -1,6 +1,6 @@
 ---
 uid: L-101-0045B
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Prebiotic Chemistry: HCN to Adenine and the Origins of Genetic Material"
 aliases:

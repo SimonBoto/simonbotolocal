@@ -1,6 +1,6 @@
 ---
 uid: L-002-0208
-type: lit-note
+type: litnote
 title: "Autoimmune Diseases: Role of Diet and Lifestyle (Fasano, AIP)"
 aliases: ["L-002-0208", "Autoimmune-Diet-Lifestyle"]
 source-inbox: "[[INBOX-Article-27-Autoimmune]]"
@@ -10,6 +10,7 @@ journal: "Clin Rev Allergy Immunol, Various"
 doi: "(multiple)"
 pmid: "(multiple)"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Autoimmunity]]"
 parent-index: "[[01-Literature-Index]]"

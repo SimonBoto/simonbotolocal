@@ -1,6 +1,6 @@
 ---
 uid: L-001-0588
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Metabolomics Chief Instructor Framework"
 aliases: ["L-001-0588", "MCI-Framework", "CGPT-0022-MCI"]

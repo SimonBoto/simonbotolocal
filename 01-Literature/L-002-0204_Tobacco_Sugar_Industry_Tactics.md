@@ -1,6 +1,6 @@
 ---
 uid: L-002-0204
-type: lit-note
+type: litnote
 title: "Tobacco and Sugar Industry Tactics to Protect Products (Kearns 2016)"
 aliases: ["L-002-0204", "Industry-Tactics-Tobacco-Sugar"]
 source-inbox: "[[INBOX-Article-23-Industry-Tactics]]"
@@ -10,6 +10,7 @@ journal: "JAMA Internal Medicine"
 doi: "10.1001/jamainternmed.2016.5394"
 pmid: "27630110"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Nutrition-Risks]]"
 parent-index: "[[01-Literature-Index]]"

@@ -1,6 +1,6 @@
 ---
 uid: L-002-0170
-type: lit-note
+type: litnote
 title: "Hashimoto's: Low-Carb Diet Reduces Autoantibodies (Huang 2024)"
 source-inbox: "[[INBOX-Article-4-Hashimoto]]"
 authors: "Huang XS, et al."
@@ -9,6 +9,7 @@ journal: "Endocrine Connections"
 doi: "10.1530/EC-23-0477"
 pmid: "38552311"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Hashimoto-Thyroiditis]]"
 parent-index: "[[01-Literature-Index]]"

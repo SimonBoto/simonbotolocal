@@ -1,6 +1,6 @@
 ---
 uid: L-001-0601
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Carbohydrate Metabolism: The Pentose Connection"
 aliases:

@@ -1,6 +1,6 @@
 ---
 uid: L-002-0234
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "Saturated Fat Stability: Oxidation Resistance and Health (Yamada 2025, Valk 2022, Astrup 2020)"
 aliases: ["L-002-0234", "Saturated-Fat-Stability", "Oxidation-Resistance"]
@@ -11,6 +11,7 @@ journal: "JAMA; Eur J Prev Cardiol; JACC"
 doi: "(multiple)"
 pmid: "(multiple)"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Nutrition]]"
 parent-index: "[[01-Literature-Index]]"

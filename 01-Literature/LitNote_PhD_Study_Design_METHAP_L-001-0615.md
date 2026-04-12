@@ -22,6 +22,9 @@ relevance: Critical — RCT structure, inclusion criteria, intervention protocol
 status: active
 parent-moc: 
 extraction-date: 2026-03-08
+source-inbox: "[[00-Inbox]]"
+zettel-count: 0
+reference-count: 0
 source: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475]]"
 
 # Lit: ChatGPT 2024 — PhD Study Design and Methodology: METHAP Trial

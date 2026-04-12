@@ -1,6 +1,6 @@
 ---
 uid: L-001-0604
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Metabolic Cofactors: Vitamins and Minerals"
 aliases:

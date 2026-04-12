@@ -1,6 +1,6 @@
 ---
 uid: L-002-0181
-type: lit-note
+type: litnote
 title: "Fasting Enhances Immunotherapy Effectiveness in Cancer Patients"
 source-inbox: "[[INBOX-Article-12-Fasting-Immunotherapy]]"
 authors: "Chen S, et al."
@@ -9,6 +9,7 @@ journal: "Cell Metabolism"
 doi: "10.1016/j.cmet.2026.01.014"
 pmid: "41720105"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Cancer-Immunology]]"
 parent-index: "[[01-Literature-Index]]"

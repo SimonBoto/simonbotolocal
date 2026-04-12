@@ -1,6 +1,6 @@
 ---
 uid: L-002-0173
-type: lit-note
+type: litnote
 title: "Fried Potatoes in Seed Oils Increase T2D Risk by 20% (Mousavi 2025)"
 source-inbox: "[[INBOX-Article-7-Fried-Potatoes]]"
 authors: "Mousavi SM, et al."
@@ -9,6 +9,7 @@ journal: "BMJ"
 doi: "10.1136/bmj-2024-082121"
 pmid: "40769531"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 parent-index: "[[01-Literature-Index]]"

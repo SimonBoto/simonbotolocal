@@ -1,6 +1,6 @@
 ---
 uid: L-002-0203
-type: lit-note
+type: litnote
 title: "Unhealthy Diet Causes 11 Million Deaths Annually (GBD 2017)"
 aliases: ["L-002-0203", "Diet-11-Million-Deaths"]
 source-inbox: "[[INBOX-Article-22-Diet-Mortality]]"
@@ -10,6 +10,7 @@ journal: "The Lancet"
 doi: "10.1016/S0140-6736(19)30041-8"
 pmid: "30954305"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Diabetes-T2D]]"
 parent-index: "[[01-Literature-Index]]"

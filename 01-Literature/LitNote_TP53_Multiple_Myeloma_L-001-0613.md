@@ -22,6 +22,9 @@ relevance: High — TP53 abnormalities, del(17p), p53 dysfunction, MDM2 inhibito
 status: active
 parent-moc: 
 extraction-date: 2026-03-08
+source-inbox: "[[00-Inbox]]"
+zettel-count: 0
+reference-count: 0
 source: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 
 # Lit: ChatGPT 2024 — TP53 Multiple Myeloma Prognosis and Therapy

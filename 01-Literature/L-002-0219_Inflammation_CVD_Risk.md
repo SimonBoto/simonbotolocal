@@ -1,6 +1,6 @@
 ---
 uid: L-002-0219
-type: lit-note
+type: litnote
 title: "Inflammation Increases CVD Risk via hsCRP (Kurt 2025)"
 aliases: ["L-002-0219"]
 source-inbox: "[[INBOX-Article-15-Inflammation-CRP]]"
@@ -10,6 +10,7 @@ journal: "European Heart Journal"
 doi: "10.1093/eurheartj/ehaf937"
 pmid: "41378999"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Inflammation]]"
 parent-index: "[[01-Literature-Index]]"

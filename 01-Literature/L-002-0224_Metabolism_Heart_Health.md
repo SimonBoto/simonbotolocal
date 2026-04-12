@@ -1,6 +1,6 @@
 ---
 uid: L-002-0224
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "Metabolism & Heart Health: Insulin Resistance 14× CAD Risk (Pasut 2025, Metabolic Literature)"
 aliases: ["L-002-0224", "Metabolism-Heart-Health", "Insulin-14x-CAD"]
@@ -11,6 +11,7 @@ journal: "Nature Reviews Cardiology; Various"
 doi: "(multiple)"
 pmid: "(multiple)"
 tier: "SILVER"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Cardiovascular-Health]]"
 parent-index: "[[01-Literature-Index]]"

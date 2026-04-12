@@ -1,6 +1,6 @@
 ---
 uid: L-001-0046A
-type: lit-note
+type: litnote
 title: "Amino Acids Entering Krebs Cycle: Complete Metabolic Map"
 aliases:
   - L-001-0046A

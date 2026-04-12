@@ -26,6 +26,9 @@ source: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]"
 status: complete
 parent-moc: 
 extraction-date: 2026-03-08
+source-inbox: "[[00-Inbox]]"
+zettel-count: 0
+reference-count: 0
 
 # Mitochondrial Gene Knockout Models — Energy Dysfunction and Disease
 

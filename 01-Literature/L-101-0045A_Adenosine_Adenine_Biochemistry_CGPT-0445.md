@@ -1,6 +1,6 @@
 ---
 uid: L-101-0045A
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Adenosine & Adenine Biochemistry: Energy, Signal, and Disease"
 aliases:

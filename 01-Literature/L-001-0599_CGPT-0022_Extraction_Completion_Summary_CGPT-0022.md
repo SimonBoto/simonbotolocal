@@ -1,6 +1,6 @@
 ---
 uid: L-001-0599
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 source-origin: chatgpt-archive
 title: "CGPT-0022 Extraction Completion Summary"

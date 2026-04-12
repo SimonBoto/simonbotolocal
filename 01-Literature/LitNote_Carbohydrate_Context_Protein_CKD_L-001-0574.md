@@ -1,6 +1,6 @@
 ---
 uid: L-001-0574
-type: lit-note
+type: litnote
 title: Carbohydrate Context Modifies Protein Effects — The Missing Variable in CKD Research
 authors: ChatGPT synthesis from CGPT-0370
 year: 2024
@@ -12,6 +12,9 @@ reviewed_by: "FORG"
 parent-moc: [[MOC-Kidney-Metabolism]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-07
+source-inbox: "[[00-Inbox]]"
+zettel-count: 0
+reference-count: 0
 source: "[[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]"
 domain: 001
 ---

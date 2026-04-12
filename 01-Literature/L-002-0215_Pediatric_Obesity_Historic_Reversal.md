@@ -1,6 +1,6 @@
 ---
 uid: L-002-0215
-type: lit-note
+type: litnote
 title: "Pediatric Obesity Historic Reversal — Obese Children Outnumber Undernourished (UNICEF 2025)"
 aliases: ["L-002-0215", "Pediatric-Obesity-Historic-Reversal"]
 source-inbox: "[[INBOX-Article-33-Pediatric-Obesity]]"
@@ -10,6 +10,7 @@ journal: "UNICEF Child Nutrition Report"
 doi: "(not applicable)"
 pmid: "(not applicable)"
 tier: "SILVER"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Nutrition-Risks]]"
 parent-index: "[[01-Literature-Index]]"

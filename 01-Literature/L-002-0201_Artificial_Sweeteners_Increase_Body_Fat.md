@@ -1,6 +1,6 @@
 ---
 uid: L-002-0201
-type: lit-note
+type: litnote
 title: "Artificial Sweeteners Increase Body Fat (Steffen 2023, CARDIA)"
 aliases: ["L-002-0201", "Artificial-Sweeteners-Body-Fat"]
 source-inbox: "[[INBOX-Article-20-Artificial-Sweeteners]]"
@@ -10,6 +10,7 @@ journal: "International Journal of Obesity"
 doi: "10.1038/s41366-023-01336-y"
 pmid: "37443272"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 parent-index: "[[01-Literature-Index]]"

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0606
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: Metabolic Pathway Integration
 aliases:

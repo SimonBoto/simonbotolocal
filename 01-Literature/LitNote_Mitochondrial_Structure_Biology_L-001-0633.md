@@ -4,9 +4,14 @@ type: litnote
 title: "Mitochondrial Structure Biology L-001-0633"
 date: 2026-04-12
 status: active
+zettel-count: 0
+reference-count: 0
 source-origin: legacy
+extraction-date: "2026-04-12"
+source-inbox: "[[00-Inbox]]"
 reviewed_by: "FORG"
 tier: "SILVER"
+relevance: "Medium — clinical biochemistry"
 ---
 
 uid: L-001-0633
@@ -18,6 +23,8 @@ source: CGPT-0318 (Messages 1-2, 156-214)
 tags: [litnote, mitochondria, structure, biochemistry, ete]
 aliases: CGPT-0318-Biology]
 status: active
+zettel-count: 0
+reference-count: 0
 
 # Mitochondrial Structure and Function
 

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0406
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: Methionine Catabolism and Transsulfuration Pathway
 aliases:

@@ -1,6 +1,6 @@
 ---
 uid: L-002-0220
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "Minimal Exercise Dose: 15-20 Minutes Weekly Reduces Mortality 16-40% (Ahmadi 2022)"
 aliases: ["L-002-0220", "Minimal-Exercise-Dose", "Exercise-Mortality"]
@@ -11,6 +11,7 @@ journal: "European Heart Journal"
 doi: "(pending)"
 pmid: "(pending)"
 tier: "SILVER"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Exercise-Physiology]]"
 parent-index: "[[01-Literature-Index]]"

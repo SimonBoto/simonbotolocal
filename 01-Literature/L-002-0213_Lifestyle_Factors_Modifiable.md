@@ -1,6 +1,6 @@
 ---
 uid: L-002-0213
-type: lit-note
+type: litnote
 title: "Lifestyle Disease Factors Are Modifiable — 80% of Health Determinants (Epigenetics)"
 aliases: ["L-002-0213", "Lifestyle-Factors-Modifiable"]
 source-inbox: "[[INBOX-Article-32-Modifiable]]"
@@ -10,6 +10,7 @@ journal: "JAMA, Lancet, CDC Chronic Disease Reports, Twin Research"
 doi: "(multiple)"
 pmid: "(multiple)"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Clinical-Protocols]]"
 parent-index: "[[01-Literature-Index]]"

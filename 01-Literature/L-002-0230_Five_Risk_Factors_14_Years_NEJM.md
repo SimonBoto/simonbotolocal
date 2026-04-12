@@ -1,6 +1,6 @@
 ---
 uid: L-002-0230
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "5 Modifiable Risk Factors Add 14.5 Years of Life — NEJM 2025 Global Cardiovascular Risk Consortium"
 aliases: ["L-002-0230", "Five-Risk-Factors-14-Years", "NEJM-2025-Longevity"]
@@ -11,6 +11,7 @@ journal: "New England Journal of Medicine"
 doi: "10.1056/NEJMoa2415879"
 pmid: "40162648"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Global-Health]]"
 parent-index: "[[01-Literature-Index]]"

@@ -1,6 +1,6 @@
 ---
 uid: L-002-0202
-type: lit-note
+type: litnote
 title: "Chronic Diseases Cause 74% of Global Deaths (GBD 2019)"
 aliases: ["L-002-0202", "Chronic-Disease-74pct-Deaths"]
 source-inbox: "[[INBOX-Article-21-Chronic-Disease]]"
@@ -10,6 +10,7 @@ journal: "The Lancet (GBD 2019)"
 doi: "10.1016/S0140-6736(20)30752-2"
 pmid: "36726528"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Diabetes-T2D]]"
 parent-index: "[[01-Literature-Index]]"

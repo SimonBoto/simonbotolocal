@@ -1,6 +1,6 @@
 ---
 uid: L-002-0222
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "Stopping Sugar and Carbs: Metabolic Effects and Health Impact (Teicholz 2025, PURE)"
 aliases: ["L-002-0222", "Stopping-Sugar-Carbs", "Low-Carb-Metabolic"]
@@ -11,6 +11,7 @@ journal: "Nutrients; Lancet; Nutrition"
 doi: "(multiple)"
 pmid: "(multiple)"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 parent-index: "[[01-Literature-Index]]"

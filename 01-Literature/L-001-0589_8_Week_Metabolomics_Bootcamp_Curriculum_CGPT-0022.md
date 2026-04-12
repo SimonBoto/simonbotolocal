@@ -1,6 +1,6 @@
 ---
 uid: L-001-0589
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "8-Week Metabolomics Bootcamp Curriculum"
 aliases: ["L-001-0589", "Bootcamp-Curriculum", "CGPT-0022-Bootcamp"]

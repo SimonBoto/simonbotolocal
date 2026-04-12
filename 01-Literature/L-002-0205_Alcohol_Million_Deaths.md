@@ -1,6 +1,6 @@
 ---
 uid: L-002-0205
-type: lit-note
+type: litnote
 title: "Alcohol Causes 1.8 Million Deaths Annually (GBD 2019)"
 aliases: ["L-002-0205", "Alcohol-1.8M-Deaths"]
 source-inbox: "[[INBOX-Article-24-Alcohol]]"
@@ -10,6 +10,7 @@ journal: "The Lancet"
 doi: "10.1016/S0140-6736(20)31344-5"
 pmid: "32894885"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Diabetes-T2D]]"
 parent-index: "[[01-Literature-Index]]"

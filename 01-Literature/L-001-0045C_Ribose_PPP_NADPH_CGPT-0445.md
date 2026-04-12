@@ -1,6 +1,6 @@
 ---
 uid: L-001-0045C
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Ribose Biosynthesis: Pentose Phosphate Pathway and Metabolic Integration"
 aliases:

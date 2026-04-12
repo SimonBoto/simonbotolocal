@@ -1,6 +1,6 @@
 ---
 uid: L-002-0236
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "Hong Kong: Highest Meat Consumption (145kg), Longest Life Expectancy (Population Data)"
 aliases: ["L-002-0236", "Hong-Kong-Meat-Longevity", "Meat-Longevity-Paradox"]
@@ -11,6 +11,7 @@ journal: "Health & Protection; Various data sources"
 doi: "(data sources)"
 pmid: "N/A"
 tier: "SILVER"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Global-Health]]"
 parent-index: "[[01-Literature-Index]]"

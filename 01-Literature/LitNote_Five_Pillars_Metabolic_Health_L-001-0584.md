@@ -1,6 +1,6 @@
 ---
 uid: L-001-0584
-type: lit-note
+type: litnote
 title: Five Pillars of Metabolic Health — Clinical Conference Framework
 authors: ChatGPT synthesis from CGPT-0124
 year: 2025
@@ -11,6 +11,9 @@ status: active
 reviewed_by: "FORG"
 parent-moc: [[MOC-Metabolic-Health]]
 extraction-date: 2026-03-07
+source-inbox: "[[00-Inbox]]"
+zettel-count: 0
+reference-count: 0
 source: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_CGPT-0124]]"
 domain: 001
 ---

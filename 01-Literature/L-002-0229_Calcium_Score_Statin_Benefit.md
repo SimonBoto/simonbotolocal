@@ -1,6 +1,6 @@
 ---
 uid: L-002-0229
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "Calcium Score Stratifies Statin Benefit — JACC Cardiovascular Imaging 2025 (Szilveszter)"
 aliases: ["L-002-0229", "CAC-Statin-Benefit", "Calcium-Score-Stratification"]
@@ -11,6 +11,7 @@ journal: "JACC Cardiovascular Imaging"
 doi: "(pending)"
 pmid: "(pending)"
 tier: "SILVER"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Cardiovascular-Risk]]"
 parent-index: "[[01-Literature-Index]]"

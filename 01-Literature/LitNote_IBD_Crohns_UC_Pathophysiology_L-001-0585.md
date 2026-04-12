@@ -12,6 +12,9 @@ reviewed_by: "FORG"
 parent-moc: [[MOC-Gastroenterology]]
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-07
+source-inbox: "[[00-Inbox]]"
+zettel-count: 0
+reference-count: 0
 source: "[[CGPT_0209_Gastroenterology_Registrar_Assessment_CGPT-0209]]"
 domain: 001
 ---

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0045F
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Keto Acids and Organic Acids: Pyruvate, Propionate, and Metabolic Integration"
 aliases:

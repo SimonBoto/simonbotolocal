@@ -1,6 +1,6 @@
 ---
 uid: L-002-0206
-type: lit-note
+type: litnote
 title: "Meat Consumption Eliminates Genetic Alzheimer Risk in APOE4 Carriers (Norgren 2026)"
 aliases: ["L-002-0206", "Meat-Alzheimer-Genetic-Risk"]
 source-inbox: "[[INBOX-Article-25-Meat-Alzheimer]]"
@@ -10,6 +10,7 @@ journal: "(pending publication)"
 doi: "(pending)"
 pmid: "(pending)"
 tier: "GOLD"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Nutrition]]"
 parent-index: "[[01-Literature-Index]]"

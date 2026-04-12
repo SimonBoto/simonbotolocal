@@ -1,6 +1,6 @@
 ---
 uid: L-002-0233
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "Fatigue Is a Message from the Body: Mitochondrial Dysfunction (Metabolomic Literature)"
 aliases: ["L-002-0233", "Fatigue-Mitochondrial-Message", "Mitochondrial-Dysfunction"]
@@ -11,6 +11,7 @@ journal: "Various"
 doi: "(multiple)"
 pmid: "(multiple)"
 tier: "SILVER"
+relevance: "Medium — clinical biochemistry"
 status: active
 parent-moc: "[[MOC-Mitochondrial-Function]]"
 parent-index: "[[01-Literature-Index]]"

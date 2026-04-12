@@ -6,8 +6,11 @@ title: "01-Literature — Source Processing"
 aliases: [Literature, LitNotes, Source Notes, 01-Literature-Index]
 tags: [index, literature, litnotes, processing, navigation, folder]
 status: active
+zettel-count: 0
+reference-count: 0
 reviewed_by: "FORG"
 tier: "SILVER"
+relevance: "Medium — clinical biochemistry"
 parent-moc: [[00-INDEX]]
 parent-index: [[00-INDEX]]
 ---
