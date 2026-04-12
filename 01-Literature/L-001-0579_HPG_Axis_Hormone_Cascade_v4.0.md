@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: GOLD
 relevance: Foundational endocrine physiology for clinical practice
-status: extracted
+status: complete
 parent-moc: "[[MOC-Endocrinology]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"

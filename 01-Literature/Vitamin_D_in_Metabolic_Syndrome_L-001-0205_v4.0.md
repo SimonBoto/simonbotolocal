@@ -13,7 +13,7 @@ pmid: "N/A"
 pmcid: "N/A"
 tier: GOLD
 relevance: "High — Core METHAP mechanism; high-dose VitD rationale for IR"
-status: extracted
+status: complete
 parent-moc: "[[MOC-Vitamin-D]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"

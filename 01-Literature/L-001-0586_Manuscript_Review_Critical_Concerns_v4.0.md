@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: GOLD
 relevance: Peer review skills, critical appraisal of research, scientific integrity
-status: extracted
+status: complete
 parent-moc: "[[MOC-Research-Methods]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"

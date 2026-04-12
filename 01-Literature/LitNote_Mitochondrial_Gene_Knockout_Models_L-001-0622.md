@@ -23,7 +23,7 @@ aliases: [L-001-0622, Mitochondrial Knockout, mtDNA Mutations, Energy Failure]
 domain: 001
 tags: [litnote, mitochondria, knockout, mtDNA, oxidative-phosphorylation, disease-models]
 source: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]"
-status: extracted
+status: complete
 parent-moc: 
 extraction-date: 2026-03-08
 

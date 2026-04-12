@@ -10,7 +10,7 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: High — Random Forest, SVM, deep learning, feature selection, prediction modeling for PhD biomarker discovery
-status: extracted
+status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Metabolomics]]
 parent-index: [[01-Literature]]

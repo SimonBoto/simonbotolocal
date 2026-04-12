@@ -16,7 +16,7 @@ pmid: "N/A"
 pmcid: "N/A"
 tier: SILVER
 relevance: "High — α-keto acids, glutamate hub, glutamine-ammonia cycle, nitrogen metabolism"
-status: extracted
+status: complete
 parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-04"

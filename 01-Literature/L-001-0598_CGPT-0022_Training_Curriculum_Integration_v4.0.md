@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: "High — Synthesis of 8-week bootcamp, integration of all training modules, MOC connections"
-status: extracted
+status: complete
 parent-moc: "[[MOC-Metabolomics-Training]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"

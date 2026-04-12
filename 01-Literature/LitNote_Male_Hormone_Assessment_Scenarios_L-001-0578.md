@@ -7,7 +7,7 @@ year: 2024
 journal: Internal clinical synthesis
 tier: GOLD
 relevance: Core clinical approach to male hypogonadism and hormone disorders
-status: extracted
+status: active
 reviewed_by: "FORG"
 parent-moc: [[MOC-Hormones]]
 parent-index: [[01-Literature]]

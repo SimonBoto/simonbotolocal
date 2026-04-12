@@ -7,7 +7,7 @@ year: 2025
 journal: Internal clinical synthesis
 tier: GOLD
 relevance: Core metabolic medicine framework for clinical practice
-status: extracted
+status: active
 reviewed_by: "FORG"
 parent-moc: [[MOC-Metabolic-Health]]
 extraction-date: 2026-03-07

@@ -13,7 +13,7 @@ pmid: "N/A"
 pmcid: "N/A"
 tier: SILVER
 relevance: "High — PhD marker for adipic acid metabolism, oxalate biochemistry"
-status: extracted
+status: complete
 parent-moc: "[[MOC-Dicarboxylic-Acids]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-04"

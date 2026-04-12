@@ -17,7 +17,7 @@ reviewed_by: "FORG"
 updated: "2026-04-09"
 tags: [lit-note, aconitase, irp1, iron-metabolism, krebs-cycle, fe-s-cluster, cGPT-0586]
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
-status: extracted
+status: complete
 parent-moc: "[[MOC-Iron-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"

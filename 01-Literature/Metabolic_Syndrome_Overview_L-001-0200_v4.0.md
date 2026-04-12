@@ -13,7 +13,7 @@ pmid: "N/A"
 pmcid: "N/A"
 tier: SILVER
 relevance: "High — Foundational context for all nutrient-MetS research; METHAP trial background"
-status: extracted
+status: complete
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"

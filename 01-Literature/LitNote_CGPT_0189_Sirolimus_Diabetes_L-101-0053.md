@@ -8,7 +8,7 @@ journal: ChatGPT Archive
 pmid: N/A
 tier: SILVER
 relevance: High — mTOR mechanisms, mitochondrial dysfunction, insulin resistance pathways
-status: extracted
+status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Mitochondrial-Function]]
 parent-index: [[01-Literature]]

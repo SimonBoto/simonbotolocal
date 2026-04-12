@@ -7,7 +7,7 @@ year: 2025
 journal: ChatGPT Archive
 tier: SILVER
 relevance: Critical — Clinical management of dysbiosis, herbal antimicrobials, patient monitoring
-status: extracted
+status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Gut-Health]]
 extraction-date: 2026-03-09

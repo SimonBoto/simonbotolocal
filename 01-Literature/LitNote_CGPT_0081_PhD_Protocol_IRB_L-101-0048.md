@@ -8,7 +8,7 @@ journal: ChatGPT Archive
 pmid: N/A
 tier: GOLD
 relevance: Critical — Core PhD METHAP protocol, IRB feedback, study design documentation
-status: extracted
+status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-PhD-Research]]
 parent-index: [[01-Literature]]

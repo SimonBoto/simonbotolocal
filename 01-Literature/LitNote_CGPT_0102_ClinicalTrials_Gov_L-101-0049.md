@@ -8,7 +8,7 @@ journal: ChatGPT Archive
 pmid: N/A
 tier: SILVER
 relevance: High — Clinical trial registration, NIH compliance, trial transparency requirements
-status: extracted
+status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-PhD-Research]]
 parent-index: [[01-Literature]]

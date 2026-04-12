@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: GOLD
 relevance: Core GI pathology, IBD differential diagnosis
-status: extracted
+status: complete
 parent-moc: "[[MOC-Gastroenterology]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"

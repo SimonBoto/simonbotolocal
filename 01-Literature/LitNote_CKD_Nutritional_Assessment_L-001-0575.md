@@ -7,7 +7,7 @@ year: 2024
 journal: Internal clinical synthesis
 tier: GOLD
 relevance: Practical clinical assessment framework for CKD nutrition
-status: extracted
+status: active
 reviewed_by: "FORG"
 parent-moc: [[MOC-Kidney-Metabolism]]
 parent-index: [[01-Literature]]

@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: Tyrosine kinase inhibitors, antifibrotic therapy, IPF treatment
-status: extracted
+status: complete
 parent-moc: "[[MOC-Pharmacology]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"

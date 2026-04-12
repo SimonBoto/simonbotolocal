@@ -7,7 +7,7 @@ year: 2024
 journal: Internal clinical synthesis
 tier: GOLD
 relevance: Foundational endocrine physiology for clinical practice
-status: extracted
+status: active
 reviewed_by: "FORG"
 parent-moc: [[MOC-Endocrinology]]
 extraction-date: 2026-03-07

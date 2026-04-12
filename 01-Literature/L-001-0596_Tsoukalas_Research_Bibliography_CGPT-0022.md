@@ -12,7 +12,7 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: High — 50+ curated papers on metabolomics, Vitamin D safety, fatty acids, metabolic syndrome
-status: extracted
+status: complete
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 parent-moc: "[[MOC-Metabolomics-Training]]"
 parent-index: "[[01-Literature-Index]]"

@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: GOLD
 relevance: Practical — clinical assessment framework for CKD nutrition
-status: extracted
+status: complete
 parent-moc: "[[MOC-Kidney-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"

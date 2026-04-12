@@ -13,7 +13,7 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: "High — Foundational terminology for metabolomics training; 66 terms organized by clinical domain"
-status: extracted
+status: complete
 parent-index: "[[01-Literature-Index]]"
 parent-moc: "[[MOC-Metabolomics-Training]]"
 extraction-date: "2026-03-08"

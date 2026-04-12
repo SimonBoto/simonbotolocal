@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: High — Ribose structure, PPP, NADPH production, metabolic integration, G6PD deficiency
-status: extracted
+status: complete
 parent-moc: "[[MOC-Glycolysis-PPP]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-09"

@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: "High — Comprehensive OAT marker interpretation, pattern recognition, clinical decision-making"
-status: extracted
+status: complete
 parent-moc: "[[MOC-Metabolomics-Training]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"

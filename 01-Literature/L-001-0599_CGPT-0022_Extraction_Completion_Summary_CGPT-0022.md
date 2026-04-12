@@ -12,7 +12,7 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: High — Final extraction summary, batch inventory, quality verification
-status: extracted
+status: active
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 parent-moc: "[[MOC-Metabolomics-Training]]"
 parent-index: "[[01-Literature-Index]]"

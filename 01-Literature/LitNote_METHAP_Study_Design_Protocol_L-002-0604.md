@@ -19,7 +19,7 @@ pmid: "N/A"
 pmcid: "N/A"
 tier: GOLD
 relevance: "Critical — Complete IRB application for METHAP trial, study design, participant selection, intervention protocol"
-status: extracted
+status: complete
 parent-moc: 
 extraction-date: 2026-03-27
 source: "[[CGPT_0359_Compliance_and_Approval_Process_CGPT-0359]]"

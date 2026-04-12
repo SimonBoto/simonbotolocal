@@ -19,7 +19,7 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: High — TP53 abnormalities, del(17p), p53 dysfunction, MDM2 inhibitors, therapeutic strategies
-status: extracted
+status: active
 parent-moc: 
 extraction-date: 2026-03-08
 source: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"

@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: "High — Comprehensive mitochondrial mechanisms, Krebs cycle, OXPHOS, cofactors, OAT interpretation"
-status: extracted
+status: complete
 parent-moc: "[[MOC-Mitochondrial-Function]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"

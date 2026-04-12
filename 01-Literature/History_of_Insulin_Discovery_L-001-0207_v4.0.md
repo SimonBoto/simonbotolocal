@@ -13,7 +13,7 @@ pmid: "N/A"
 pmcid: "N/A"
 tier: SILVER
 relevance: "High — Foundational understanding of diabetes treatment; historical context for IR research"
-status: extracted
+status: complete
 parent-moc: "[[MOC-Insulin-Signaling]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"

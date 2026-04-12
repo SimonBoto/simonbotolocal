@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: "High — Beta-oxidation, desaturase enzymes, fatty acid subclasses, clinical ratios"
-status: extracted
+status: complete
 parent-moc: "[[MOC-Mitochondrial-Function]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"

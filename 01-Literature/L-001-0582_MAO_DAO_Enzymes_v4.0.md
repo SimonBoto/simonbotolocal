@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: Enzyme pharmacology, histamine metabolism, neurotransmitter degradation
-status: extracted
+status: complete
 parent-moc: "[[MOC-Pharmacology]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"

@@ -13,7 +13,7 @@ pmid: "N/A"
 pmcid: "N/A"
 tier: GOLD
 relevance: "Critical — METHAP protocol implementation; practical dosing guidance"
-status: extracted
+status: complete
 parent-moc: "[[MOC-Magnesium]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"

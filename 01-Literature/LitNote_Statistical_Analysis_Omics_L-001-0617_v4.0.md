@@ -13,7 +13,7 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: High — Power analysis, PCA, multivariate analysis, regression, validation methods for PhD metabolomics data
-status: extracted
+status: complete
 parent-moc: "[[MOC-Statistics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"

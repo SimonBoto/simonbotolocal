@@ -17,7 +17,7 @@ date: 2026-03-09
 source: CGPT-0318 (Messages 3-155, 163-214)
 tags: [litnote, social-media, twitter, branding, mitochondria, growth]
 aliases: CGPT-0318-Strategy]
-status: extracted
+status: active
 
 # Twitter/X Strategy — DrMito Profile Development
 

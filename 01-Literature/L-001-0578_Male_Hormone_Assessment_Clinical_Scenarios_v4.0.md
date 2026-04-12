@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: GOLD
 relevance: Core clinical approach to male hypogonadism and hormone disorders
-status: extracted
+status: complete
 parent-moc: "[[MOC-Hormones]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"

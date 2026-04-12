@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: "High — Vitamin D/PTH/Ca/Mg/K2 axis, micronutrient cofactors, deficiency patterns"
-status: extracted
+status: complete
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"

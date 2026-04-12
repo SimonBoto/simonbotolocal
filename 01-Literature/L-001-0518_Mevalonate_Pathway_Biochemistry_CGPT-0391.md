@@ -17,7 +17,7 @@ aliases:
   - Mevalonate Pathway
   - Cholesterol Synthesis
   - Statin Target
-status: extracted
+status: complete
 parent-index: "[[01-Literature-Index]]"
 parent-moc: "[[MOC-Lipid-Metabolism]]"
 extraction-date: "2026-03-03"

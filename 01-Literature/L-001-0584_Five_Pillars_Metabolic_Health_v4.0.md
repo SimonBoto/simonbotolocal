@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: GOLD
 relevance: Core metabolic medicine framework for clinical practice
-status: extracted
+status: complete
 parent-moc: "[[MOC-Metabolic-Health]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"

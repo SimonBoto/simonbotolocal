@@ -13,7 +13,7 @@ pmid: "N/A"
 pmcid: "N/A"
 tier: GOLD
 relevance: "High — Vascular calcification prevention; synergy with VitD and Mg"
-status: extracted
+status: complete
 parent-moc: "[[MOC-Vitamin-K2]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"

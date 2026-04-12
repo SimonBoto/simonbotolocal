@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: Clinical — bone and liver pathology fundamentals
-status: extracted
+status: complete
 parent-moc: "[[MOC-Biomarkers]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"

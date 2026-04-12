@@ -23,7 +23,7 @@ aliases: [L-001-0620, Clinical Team Education, Metabolomics Learning Program]
 domain: 001
 tags: [litnote, education, clinical-team, metabolomics, personalized-medicine, workflow]
 source: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]"
-status: extracted
+status: active
 parent-moc: 
 extraction-date: 2026-03-08
 

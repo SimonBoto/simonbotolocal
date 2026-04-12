@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: "High — 50+ curated papers on metabolomics, Vitamin D safety, fatty acids, metabolic syndrome"
-status: extracted
+status: complete
 parent-moc: "[[MOC-Metabolomics-Training]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"

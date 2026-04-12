@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: GOLD
 relevance: Foundational — genetic research on VDR and mitochondrial function
-status: extracted
+status: complete
 parent-moc: "[[MOC-Genetics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"

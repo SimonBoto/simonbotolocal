@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: GOLD
 relevance: Core medical ethics framework for clinical research
-status: extracted
+status: complete
 parent-moc: "[[MOC-Ethics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"

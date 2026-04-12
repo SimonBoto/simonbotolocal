@@ -10,7 +10,7 @@ pmid: "N/A"
 pmcid: "N/A"
 tier: GOLD
 relevance: "High — Historical foundation for modern IRB requirements and METHAP ethics compliance"
-status: extracted
+status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Research-Ethics]]
 extraction-date: 2026-03-27

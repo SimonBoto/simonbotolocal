@@ -7,7 +7,7 @@ year: 2024
 journal: Internal clinical synthesis
 tier: SILVER
 relevance: Clinical chemistry fundamentals, bone and liver pathology
-status: extracted
+status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Biomarkers]]
 parent-index: [[01-Literature]]

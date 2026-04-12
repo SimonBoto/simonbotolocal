@@ -7,7 +7,7 @@ year: 2025
 journal: ChatGPT Archive
 tier: SILVER
 relevance: High — Kefir fermentation, therapeutic fasting protocols, gut reset strategies
-status: extracted
+status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Gut-Health]]
 extraction-date: 2026-03-09

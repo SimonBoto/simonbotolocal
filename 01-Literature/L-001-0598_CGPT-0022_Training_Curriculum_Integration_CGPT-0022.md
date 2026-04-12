@@ -12,7 +12,7 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: High — Synthesis of 8-week bootcamp, integration of all training modules, MOC connections
-status: extracted
+status: complete
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 parent-moc: "[[MOC-Metabolomics-Training]]"
 parent-index: "[[01-Literature-Index]]"

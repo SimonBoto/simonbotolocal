@@ -14,7 +14,7 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: Core metabolic biomarkers for clinical assessment
-status: extracted
+status: complete
 parent-moc: "[[MOC-Metabolic-Health]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"

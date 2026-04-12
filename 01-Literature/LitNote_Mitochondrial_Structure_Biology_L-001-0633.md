@@ -17,7 +17,7 @@ date: 2026-03-09
 source: CGPT-0318 (Messages 1-2, 156-214)
 tags: [litnote, mitochondria, structure, biochemistry, ete]
 aliases: CGPT-0318-Biology]
-status: extracted
+status: active
 
 # Mitochondrial Structure and Function
 

@@ -8,7 +8,7 @@ journal: ChatGPT Archive
 pmid: N/A
 tier: BRONZE
 relevance: Moderate — Practical strategies for questionnaire ethics approval
-status: extracted
+status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-PhD-Research]]
 parent-index: [[01-Literature]]

@@ -10,7 +10,7 @@ pmid: "N/A"
 pmcid: "N/A"
 tier: BRONZE
 relevance: "Medium — Practical guidance for IRB navigation, administrative rather than substantive ethics"
-status: extracted
+status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Research-Ethics]]
 extraction-date: 2026-03-27

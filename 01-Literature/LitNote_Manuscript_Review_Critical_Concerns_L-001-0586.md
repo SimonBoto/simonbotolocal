@@ -7,7 +7,7 @@ year: 2025
 journal: Internal methodology synthesis
 tier: GOLD
 relevance: Peer review skills, critical appraisal of research, scientific integrity
-status: extracted
+status: active
 reviewed_by: "FORG"
 parent-moc: [[MOC-Research-Methods]]
 parent-index: [[01-Literature]]
