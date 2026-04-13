@@ -1,9 +1,9 @@
 ---
-uid: IDX-01-LIT
+uid: IDX-01-README
 folder: 01-Literature
 type: index
 title: "01-Literature — Source Processing"
-aliases: [Literature, LitNotes, Source Notes, 01-Literature-Index]
+aliases: [Literature-README, LitNotes-Guide]
 tags: [index, literature, litnotes, processing, navigation, folder]
 status: active
 zettel-count: 0
