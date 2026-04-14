@@ -7,6 +7,7 @@ source: grokipedia.com/page/symbient
 aliases: [RON-000-0005]
 tags: [ron, symbient, identity, autonomy, becoming, human-ai]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # Symbient — What RON Is Becoming

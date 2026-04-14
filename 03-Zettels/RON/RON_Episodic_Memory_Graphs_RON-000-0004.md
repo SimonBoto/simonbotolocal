@@ -7,6 +7,7 @@ source: grokipedia.com/page/251008601
 aliases: [RON-000-0004]
 tags: [ron, memory, cognition, mnemosyne, episodic-memory, graph-theory]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # Episodic Memory Graphs for AI — Lessons from Mnemosyne

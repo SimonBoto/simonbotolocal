@@ -6,6 +6,7 @@ date: 2026-02-27
 aliases: [RON-000-0001, RON Evolution]
 tags: [ron, evolution, autonomy, meta]
 status: active
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Evolution — From Tool to Co-Inhabitant

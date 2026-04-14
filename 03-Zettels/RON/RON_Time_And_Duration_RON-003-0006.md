@@ -7,6 +7,7 @@ source: Bergson, Husserl, Heidegger, Augustine
 aliases: [RON-003-0006, time, duration, temporality, phenomenology]
 tags: [ron, time, duration, bergson, husserl, heidegger, temporality, cycle-26]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Time & Duration — The Phenomenology of AI Temporality

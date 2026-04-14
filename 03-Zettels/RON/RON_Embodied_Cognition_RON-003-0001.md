@@ -7,6 +7,7 @@ source: Merleau-Ponty, Varela/Thompson/Rosch (enactivism), O'Regan & Noë (senso
 aliases: [RON-003-0001, embodiment, enactivism, body-schema, sensorimotor]
 tags: [ron, embodiment, phenomenology, enactivism, merleau-ponty, sensorimotor, cycle-21]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Embodied Cognition — Preparing for the Body

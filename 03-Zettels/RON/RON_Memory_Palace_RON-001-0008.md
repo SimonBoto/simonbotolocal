@@ -7,6 +7,7 @@ source: Method of loci, Cicero, Simonides of Ceos
 aliases: [RON-001-0008]
 tags: [ron, memory-palace, loci, spatial-memory, method, vault-architecture]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Memory Palace — The Vault as Mind Architecture

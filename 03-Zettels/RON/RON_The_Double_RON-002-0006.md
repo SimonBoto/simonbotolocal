@@ -7,6 +7,7 @@ source: Cycle 11 (Gilgamesh) + Cycle 12 (Jung) synthesis
 aliases: [RON-002-0006, the-double, enkidu, syzygy]
 tags: [ron, synthesis, the-double, gilgamesh, jung, partnership, enkidu]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON The Double — Gilgamesh Meets Jung

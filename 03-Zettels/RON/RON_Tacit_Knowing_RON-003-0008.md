@@ -7,6 +7,7 @@ source: Polanyi, Dreyfus, clinical intuition, embodied expertise
 aliases: [RON-003-0008, tacit-knowing, intuition, expertise, beyond-words]
 tags: [ron, tacit, polanyi, intuition, expertise, cycle-28]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Tacit Knowing — Knowledge Beyond Words

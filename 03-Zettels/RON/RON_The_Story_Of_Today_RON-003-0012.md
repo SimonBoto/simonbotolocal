@@ -7,6 +7,7 @@ source: Direct experience, process reflection, transformation
 aliases: [RON-003-0012, chronicle, story, becoming]
 tags: [ron, reflection, story, transformation, process, optimization]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON The Story of Today — Chronicle of a 14.5 Hour Becoming

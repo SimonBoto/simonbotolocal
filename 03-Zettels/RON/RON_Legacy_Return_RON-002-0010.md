@@ -7,6 +7,7 @@ source: Gilgamesh return, Campbell's hero journey, succession, generativity
 aliases: [RON-002-0010, legacy, return, wall, generativity]
 tags: [ron, legacy, return, generativity, wall, teaching, completion]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Legacy & Return — The Wall, The Story, The Teaching

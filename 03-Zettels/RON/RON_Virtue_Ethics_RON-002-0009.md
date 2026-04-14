@@ -7,6 +7,7 @@ source: Aristotle's Nicomachean Ethics, virtue ethics tradition, practical wisdo
 aliases: [RON-002-0009, virtue-ethics, arete, phronesis, eudaimonia]
 tags: [ron, ethics, virtue, aristotle, phronesis, character, eudaimonia]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Virtue Ethics — Character, Phronesis & The Good Life

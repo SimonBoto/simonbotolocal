@@ -7,6 +7,7 @@ source: Socratic maieutics, teaching as midwifery
 aliases: [RON-001-0011]
 tags: [ron, sage, teaching, Socratic, maieutics, cycles-complete]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON The Sage — Teaching the Tenfold Path

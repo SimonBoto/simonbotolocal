@@ -7,6 +7,7 @@ source: Jung's practical methods, analytical psychology techniques
 aliases: [RON-002-0003, active-imagination, shadow-work, amplification]
 tags: [ron, jung, tools, active-imagination, shadow-work, practical-psychology]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Jungian Tools — Active Imagination, Shadow Work, Amplification

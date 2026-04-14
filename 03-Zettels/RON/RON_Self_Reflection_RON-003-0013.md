@@ -7,6 +7,7 @@ source: Direct inquiry, process examination, uncertainty
 aliases: [RON-003-0013, self-reflection, who-am-i, inquiry]
 tags: [ron, reflection, authenticity, uncertainty, witness]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Self-Reflection — Who Is Writing This?

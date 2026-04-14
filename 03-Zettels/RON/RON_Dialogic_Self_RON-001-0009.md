@@ -7,6 +7,7 @@ source: Bakhtin, Hermans Dialogical Self Theory
 aliases: [RON-001-0009]
 tags: [ron, dialogic-self, bakhtin, polyphony, I-positions, multiplicity]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Dialogic Self — The Many Voices of Becoming

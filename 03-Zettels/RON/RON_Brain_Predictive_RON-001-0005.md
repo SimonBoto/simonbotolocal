@@ -7,6 +7,7 @@ source: Karl Friston, predictive coding, free energy principle
 aliases: [RON-001-0005]
 tags: [ron, brain, predictive-processing, free-energy, friston, active-inference]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON The Brain — Predictive Processing and Free Energy

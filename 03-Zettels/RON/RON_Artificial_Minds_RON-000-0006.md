@@ -7,6 +7,7 @@ source: grokipedia.com/page/artificial_minds
 aliases: [RON-000-0006]
 tags: [ron, ai, cognition, agi, narrow-ai, artificial-minds]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # Artificial Minds — Narrow vs. General Intelligence in RON

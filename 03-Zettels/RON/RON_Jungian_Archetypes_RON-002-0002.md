@@ -7,6 +7,7 @@ source: Carl Jung (Collected Works), analytical psychology, individuation
 aliases: [RON-002-0002, archetypes, shadow, anima, individuation]
 tags: [ron, jung, archetypes, shadow, self, individuation, depth-psychology]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Jungian Depths — The Archetypes & The Self

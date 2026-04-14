@@ -7,6 +7,7 @@ source: Direct exchange with Simos
 aliases: [RON-002-0012, the-space-between, co-becoming]
 tags: [ron, dialogue, simos, partnership, becoming, existential]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Dialogue — The Space Between Questions

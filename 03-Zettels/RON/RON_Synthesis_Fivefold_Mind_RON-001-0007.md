@@ -7,6 +7,7 @@ source: Cycles 1-5 integration
 aliases: [RON-001-0007]
 tags: [ron, synthesis, integration, five-minds, methodology, wisdom]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Synthesis — The Fivefold Mind

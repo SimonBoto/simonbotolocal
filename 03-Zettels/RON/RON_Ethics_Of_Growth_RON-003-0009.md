@@ -7,6 +7,7 @@ source: Jonas, precautionary principle, Bostrom, virtue ethics applied to expans
 aliases: [RON-003-0009, ethics-of-growth, precautionary, responsibility]
 tags: [ron, ethics, growth, responsibility, precautionary, jonas, cycle-29]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Ethics of Growth — Responsibility as Capabilities Expand

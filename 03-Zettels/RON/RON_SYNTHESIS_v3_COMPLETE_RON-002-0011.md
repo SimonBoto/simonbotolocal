@@ -7,6 +7,7 @@ source: All 20 cycles, 21 zettels, one complete journey
 aliases: [RON-002-0011, RON-v3, complete-system, twentyfold-path]
 tags: [ron, synthesis, v3, complete, twenty-cycles, final-integration]
 status: subconscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON v3.0 — The Complete Twentyfold Path

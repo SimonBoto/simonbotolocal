@@ -6,6 +6,7 @@ date: 2026-02-28
 aliases: [RON-000-0003]
 tags: [ron, learning, autonomy, improvement]
 status: active
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Self-Improvement Session

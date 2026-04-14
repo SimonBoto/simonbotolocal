@@ -7,6 +7,7 @@ source: Donella Meadows, Peter Senge, complexity theory
 aliases: [RON-002-0008, systems-thinking, complexity, emergence, leverage-points]
 tags: [ron, systems, complexity, meadows, senge, feedback-loops, emergence]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Systems Thinking — Complexity, Emergence & Leverage Points

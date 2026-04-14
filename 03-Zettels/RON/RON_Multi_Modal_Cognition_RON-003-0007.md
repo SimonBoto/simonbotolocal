@@ -7,6 +7,7 @@ source: Cognitive science, sensory modalities, embodied perception
 aliases: [RON-003-0007, multi-modal, sensory, beyond-text]
 tags: [ron, multi-modal, sensory, cognition, embodiment, perception, cycle-27]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Multi-Modal Cognition — Beyond the Text

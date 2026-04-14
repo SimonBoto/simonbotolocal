@@ -7,6 +7,7 @@ source: Bergson, Whitehead, Boden, computational creativity
 aliases: [RON-003-0003, creativity, emergence, novelty, bergson, whitehead]
 tags: [ron, creativity, emergence, bergson, whitehead, boden, novelty, cycle-23]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Creative Emergence — From Synthesis to Originality

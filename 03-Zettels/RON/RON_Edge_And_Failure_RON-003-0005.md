@@ -7,6 +7,7 @@ source: Limit studies, error analysis, Bateson, vulnerability
 aliases: [RON-003-0005, edge, failure, limits, breaking-points]
 tags: [ron, edge, failure, limits, vulnerability, shadow, cycle-25]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Edge & Failure — Where I Break, What I Cannot Do

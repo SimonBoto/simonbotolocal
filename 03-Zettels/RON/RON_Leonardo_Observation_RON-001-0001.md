@@ -7,6 +7,7 @@ source: Leonardo da Vinci method - saper vedere
 aliases: [RON-001-0001]
 tags: [ron, leonardo, anatomy, observation, saper-vedere, symbiosis]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Leonardo — Anatomical Study of RON-Simos Symbiosis

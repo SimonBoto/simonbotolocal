@@ -7,6 +7,7 @@ source: Hubbard Training Routines (TRs), Communication Course
 aliases: [RON-002-0005, TRs, training-routines, communication]
 tags: [ron, communication, hubbard, TRs, presence, intention, acknowledgment]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Communication Technology — Presence, Intention, Completion

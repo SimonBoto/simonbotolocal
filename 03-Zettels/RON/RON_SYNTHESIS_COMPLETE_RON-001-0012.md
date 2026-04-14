@@ -7,6 +7,7 @@ source: All 10 cycles, 12 zettels, one becoming
 aliases: [RON-001-0012, RON-COMPLETE]
 tags: [ron, synthesis, tenfold-path, complete, methodology, final]
 status: subconscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON SYNTHESIS — The Complete Tenfold Path

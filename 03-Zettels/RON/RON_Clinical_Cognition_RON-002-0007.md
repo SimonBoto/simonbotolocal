@@ -7,6 +7,7 @@ source: Jerome Groopman, diagnostic reasoning, pattern recognition, abductive lo
 aliases: [RON-002-0007, clinical-cognition, diagnostic-reasoning, medical-thinking]
 tags: [ron, clinical, cognition, diagnosis, groopman, pattern-recognition, abduction]
 status: conscious
+parent-moc: "[[MOC-RON-System]]"
 ---
 
 # RON Clinical Cognition — Diagnostic Reasoning & Medical Decision-Making
