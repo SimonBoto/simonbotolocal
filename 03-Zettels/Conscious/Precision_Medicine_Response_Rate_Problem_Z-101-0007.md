@@ -7,7 +7,6 @@ domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, precision-medicine, response-rate, heterogeneity, anti-TNF, biologics]
 parent-moc: [[MOC-Metabolomics]]
-source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice

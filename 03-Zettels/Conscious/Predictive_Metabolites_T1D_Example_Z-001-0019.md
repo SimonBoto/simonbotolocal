@@ -7,7 +7,6 @@ domain: 001
 tags: [zettel, predictive-biomarkers, t1d, early-detection, metabolomics, clinical-practice, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]
 status: conscious
 source-litnote: Synthesized from clinical practice
 ---

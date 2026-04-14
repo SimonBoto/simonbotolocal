@@ -8,7 +8,6 @@ domain-name: Metabolomics Analysis
 tags: [zettel, urine, organic-acids, oat, biomarker, insulin-resistance]
 parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
-source: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
 confidence: high
 created: 2026-03-08
 ---

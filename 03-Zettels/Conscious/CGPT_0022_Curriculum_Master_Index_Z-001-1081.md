@@ -5,7 +5,7 @@ title: "CGPT-0022 Curriculum Master Index"
 aliases: ["Z-001-1081", "CGPT-0022-Index", "Curriculum-Index", "Training-Index"]
 domain: 001
 tags: [zettel, curriculum, index, master, navigation, cGPT-0022]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Learning-Systems]]"
 status: conscious
 source-litnote: "[[L-001-0598_CGPT-0022_Training_Curriculum_Integration_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

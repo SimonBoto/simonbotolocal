@@ -8,7 +8,6 @@ domain-name: Cancer Metabolism
 tags: [zettel, hbot, hyperbaric, oxygen, ros, cancer]
 parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: "[[Hyperbaric_Oxygen_Therapy_in_Cancer_L-001-0614_v4.0]]"
-source: "[[Hyperbaric_Oxygen_Therapy_in_Cancer_L-001-0614_v4.0]]"
 confidence: high
 created: 2026-03-08
 ---

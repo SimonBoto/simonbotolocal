@@ -8,7 +8,6 @@ domain-name: Hematology Oncology
 tags: [zettel, tp53, multiple-myeloma, del17p, prognosis]
 parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]
-source: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]
 confidence: high
 created: 2026-03-08
 ---

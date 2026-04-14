@@ -8,7 +8,6 @@ domain-name: Clinical Protocols
 tags: [zettel, hbot, clinical, safety, contraindications]
 parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_HBOT_Cancer_L-001-0614]
-source: [[LitNote_HBOT_Cancer_L-001-0614]
 confidence: high
 created: 2026-03-08
 ---

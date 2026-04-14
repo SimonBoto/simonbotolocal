@@ -7,7 +7,6 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, compensatory-IR, hyperinsulinemia, early-detection, beta-cell]
 parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_IR_Mechanisms_Map_L-001-0005]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice

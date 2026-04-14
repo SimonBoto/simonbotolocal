@@ -7,7 +7,6 @@ domain: 001
 tags: [zettel, phd, sample-size, study-design, targeted-metabolomics, validation, pilot-study]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
-source: "[[LitNote_Power_Analysis_Metabolomics_L-001-0514]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
 source-litnote: Synthesized from clinical practice

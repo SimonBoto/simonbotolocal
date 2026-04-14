@@ -8,7 +8,6 @@ domain-name: PhD Research
 tags: [zettel, methap, intervention, diet, supplements]
 parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]
-source: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]
 confidence: high
 created: 2026-03-08
 ---

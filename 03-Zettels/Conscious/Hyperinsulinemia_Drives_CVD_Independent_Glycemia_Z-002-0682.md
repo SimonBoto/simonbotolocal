@@ -7,8 +7,8 @@ domain: 002
 status: conscious
 tags: [zettel, hyperinsulinemia, cvd, glycemia, insulin-resistance, mechanisms]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Insulin-Signaling]]"
-source-litnote: "[[L-002-0182_High_Glucose_vs_Insulin_What_Matters]]"
+parent-moc: "[[MOC-Systems-Architecture]]"
+source-litnote: "[[High_Glucose_vs_High_Insulin-_Insulin_Matters_More_L-002-0182_v4.0.md]]"
 source-reference: "[[Zhao_2019_Insulin_CVD_Mortality_R-002-0026]]"
 related: []
 ---

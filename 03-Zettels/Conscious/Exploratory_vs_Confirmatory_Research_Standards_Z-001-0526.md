@@ -7,7 +7,6 @@ domain: 001
 domain-name: Research Methods
 tags: [zettel, study-design, exploratory-research, confirmatory-research, biomarkers, validation, research-integrity]
 parent-moc: [[MOC-Insulin-Signaling]]
-source: "[[LitNote_FDR_Multiple_Testing_Correction_L-001-0515]"
 confidence: high
 created: 2026-03-03
 source-litnote: Synthesized from clinical practice

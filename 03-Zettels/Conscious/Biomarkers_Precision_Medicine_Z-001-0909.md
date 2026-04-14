@@ -7,7 +7,6 @@ domain: 001
 domain-name: Systems-Biology-Metabolomics
 tags: [zettel, biomarkers, precision-medicine, predictive, prognostic, pharmacodynamic, clinical-translation, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
-source: [[NKUA_2024_Basics_Metabolomics_DE1_L-001-0001]
 confidence: high
 created: 2026-02-23
 updated: 2026-03-05

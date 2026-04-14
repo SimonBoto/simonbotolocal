@@ -8,7 +8,6 @@ domain-name: Cancer Biology
 tags: [zettel, p53, tumor-suppressor, function-loss, consequences]
 parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]
-source: [[LitNote_TP53_Multiple_Myeloma_L-001-0613]
 confidence: high
 created: 2026-03-08
 ---

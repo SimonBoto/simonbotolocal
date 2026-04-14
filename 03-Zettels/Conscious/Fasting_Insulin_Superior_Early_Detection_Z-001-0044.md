@@ -7,7 +7,6 @@ domain: 001
 domain-name: Insulin Signaling
 tags: [zettel, fasting-insulin, early-detection, superiority, claim]
 parent-moc: [[MOC-Insulin-Signaling]]
-source: [[LitNote_Biomarkers_Taxonomy_L-001-0006]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice

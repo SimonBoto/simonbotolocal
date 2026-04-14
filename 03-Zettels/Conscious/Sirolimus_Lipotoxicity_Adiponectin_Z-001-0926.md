@@ -7,7 +7,6 @@ domain: 001
 tags: [zettel, sirolimus, rapamycin, adipose, adiponectin, lipotoxicity, ffa, insulin-resistance]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
-source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]"
 extraction-date: 2026-03-02
 updated: 2026-03-05
 source-litnote: Synthesized from clinical practice

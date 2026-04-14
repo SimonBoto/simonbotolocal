@@ -7,7 +7,6 @@ domain: 001
 domain-name: Research Methods
 tags: [zettel, study-design, exploratory-research, confirmatory-research, methodology, research-standards]
 parent-moc: [[MOC-Insulin-Signaling]]
-source: "[[LitNote_Exploratory_vs_Confirmatory_Research_Design_L-001-0516]"
 confidence: high
 created: 2026-03-03
 source-litnote: Synthesized from clinical practice

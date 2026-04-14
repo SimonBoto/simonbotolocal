@@ -8,7 +8,6 @@ domain-name: Clinical Assessment
 tags: [zettel, clinical, markers, homa-ir, hba1c, insulin-resistance]
 parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
-source: [[LitNote_Metabolic_Biomarkers_Insulin_L-001-0616]
 confidence: high
 created: 2026-03-08
 ---

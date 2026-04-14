@@ -7,7 +7,7 @@ domain: 101
 tags: [zettel, adipate, adipic-acid, palmitate, beta-oxidation, omega-oxidation, phd-research]
 parent-moc: "[[MOC-Lipid-Metabolism]]"
 status: conscious
-source-litnote: "[[L-001-0628_Dicarboxylic_Acid_Formation_Fatty_Acids_CGPT-0586]]"
+source-litnote: "[[Adipic_Acid_Biochemistry_and_Omega-Oxidation_Pathw_L-101-0002_v4.0.md]]"
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 extraction-date: 2026-03-08
 ---

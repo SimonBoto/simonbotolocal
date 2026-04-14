@@ -8,7 +8,6 @@ domain-name: Metabolomics Analysis
 tags: [zettel, pls, opls, multivariate, regression]
 parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Statistical_Analysis_Omics_L-001-0617]
-source: [[LitNote_Statistical_Analysis_Omics_L-001-0617]
 confidence: high
 created: 2026-03-08
 ---
