@@ -13,6 +13,8 @@ status: active
 # 07 Projects Index
 
 > **Active work across Clinic, PhD, and Personal domains**
+> 
+> **Status tracking:** [[04-PROJECT-CONTROL]] — Dashboard for all project streams
 
 ---
 

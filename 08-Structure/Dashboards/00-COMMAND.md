@@ -121,13 +121,18 @@ Weak answer → slow down.
 
 ---
 
-## Cross-Reference
+## Cross-Reference — Dashboard System
+
+| Dashboard | Purpose | When to Check |
+|-----------|---------|---------------|
+| **00-COMMAND** | Priorities & orders | Every session start |
+| **01-PIPELINE** | Flow truth & bottlenecks | Before decisions |
+| **02-HANDOFF** | Session state & context | Start/end of session |
+| **04-PROJECT-CONTROL** | Active work streams & status | Daily standup |
 
 | Need | Go To |
 |------|-------|
 | **Why we exist** | [[00-MISSION]] — Mission charter |
-| **Flow truth** | [[01-PIPELINE]] — Bottlenecks, pressure, diagnosis |
-| **Session context** | [[02-HANDOFF]] — Where we are now |
 | **Folder guides** | [[00-Inbox-README]], [[03-Zettels-README]], etc. |
 
 ---
