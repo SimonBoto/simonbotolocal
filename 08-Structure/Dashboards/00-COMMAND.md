@@ -1,5 +1,5 @@
 ---
-uid: COMMAND-2026-04-09
+uid: COMMAND-2026-04-14
 type: command-dashboard
 status: active
 ---
@@ -11,58 +11,85 @@ status: active
 | Metric | Value | Updated |
 |--------|-------|---------|
 | **Zettels** | 1,453 | 2026-04-14 |
+| **Zettels (orphan)** | **0** | 2026-04-14 ✅ FIXED |
 | **LitNotes (v4.0)** | **219** | 2026-04-14 |
 | **LitNotes (legacy)** | **0** | 2026-04-14 |
-| **CGPT Anchors** | 688 (17 processed) | 2026-04-09 |
-| **OpenClaw Workers** | 5 (RON, FORG, SCOUT, GEMMA, FREE) | 2026-04-14 |
-| **Git Status** | Clean (13 commits Apr 12-13) | 2026-04-14 |
-| **Last Session** | 2026-04-13 23:57 | 2026-04-14 |
+| **CGPT Anchors** | 673 (17 processed) | 2026-04-14 |
+| **Agents** | 3 (RON, FORG, SCOUT) | 2026-04-14 |
+| **MOCs** | 11 | 2026-04-14 |
+| **READMEs** | 7 (all folders) | 2026-04-14 ✅ NEW |
+| **Git Status** | Clean (4 commits today) | 2026-04-14 |
+| **Last Session** | 2026-04-14 17:44 | 2026-04-14 |
 
 ### Active Fronts
 | Front | Status | Next Action |
 |-------|--------|-------------|
-| **LitNote v4.0 Conversion** | ✅ **COMPLETE — 219/219 (100%)** | Zettel extraction for 77 active files |
-| FORG Pipeline | ✅ Validated | Ready for next batch |
-| **SCOUT Agent** | ✅ **Created** | NVIDIA Nemotron 120B free tier |
-| P0 Inbox Items | ✅ 5 created | Ready for synthesis |
-| CGPT_0264 | ⏳ 6/11 | Resume when ready |
+| **Orphan Zettels** | ✅ **COMPLETE — 57/57 connected** | None |
+| **MOC Creation** | ✅ **6 new MOCs** | MOC-RON-System populated |
+| **README System** | ✅ **7 READMEs created** | All major folders documented |
+| **Archive Cleanup** | ✅ **09-Archive deleted** | 126 files, 1.2MB freed |
+| **Agent Ecosystem** | ✅ **SCOUT workspace complete** | Ready for pilot test |
+| **FORG Pipeline** | ✅ Validated | Ready for zettel sprint |
+| **Zettel Assessment** | 🟡 **Protocol defined** | Awaiting user initiation |
+
+---
+
+## Today's Achievements (2026-04-14)
+
+### Agent Ecosystem
+| Item | Status |
+|------|--------|
+| SCOUT agent workspace created | ✅ Full context (SOUL, MEMORY, TOOLS, USER, AGENTS, BOOTSTRAP) |
+| FORG completion standard updated | ✅ Never declare partial as complete |
+| Agent differentiation clarified | ✅ RON=curation, FORG=execution, SCOUT=strategy |
+
+### Zettelkasten Infrastructure
+| Item | Status |
+|------|--------|
+| 57 orphan zettels connected | ✅ 24 to thematic MOCs + 33 to MOC-RON-System |
+| 6 new MOCs created | ✅ Consciousness, Systems, AI, Learning, Philosophy, RON |
+| MOC creation standard documented | ✅ MOC-CREATION-STANDARD.md |
+| 09-Archive deleted | ✅ 126 legacy files removed |
+
+### Documentation System
+| Item | Status |
+|------|--------|
+| 00-Inbox-README.md | ✅ Created |
+| 02-References-README.md | ✅ Created |
+| 03-Zettels-README.md | ✅ Created |
+| 04-Synthesis-README.md | ✅ Created |
+| 07-Projects-README.md | ✅ Created |
+| 08-Structure-README.md | ✅ Created |
+| **All major folders** | ✅ Index + README complete |
+
+### Git Activity
+| Commit | Description |
+|--------|-------------|
+| `473f5c32` | 5 MOCs for orphan zettels |
+| `3c30604f` | Deleted 09-Archive (126 files) |
+| `cc56e2b4` | Connected 57 orphans, MOC-RON-System, Projects README |
+| `bb08dc99` | All folder READMEs complete |
 
 ---
 
 ## Operating Orders
 
 ### Do Now (Max 3)
-- [ ] **Decide** — FORG zettel sprint: 40 files (25 P0 zero-zettel + 15 P1 under-extracted)
-- [ ] **Test** — SCOUT on 10 CGPTs (theme detection validation)
+- [ ] **Decide** — Zettel assessment scope (priority domain vs. sample vs. full)
+- [ ] **Test** — SCOUT pilot on 10 CGPTs (theme detection validation)
 - [ ] **Rest** — Vacation until Apr 27, light re-entry only
 
 ### Do Next (Queue)
 - FORG zettel extraction sprint (40 files ready)
-- Synthesize 5 P0 inbox items into Triangle v2.0
-- Resume CGPT_0264 Batch 1.2
-- Address 312 orphan zettels
+- Evidence audit: source verification for zettels
+- PubMed backfill for orphaned claims
+- Process 41 files in 00-Inbox/Fleeting/
 
 ### Do Not Do (Permanent Guardrails)
 - ❌ Start FORG sprint without explicit batch confirmation
 - ❌ Trust stale protocols over current doctrine
 - ❌ Aggressive cleanup without archive-first safety
 - ❌ Overcommit during vacation period
-
----
-
-## Today's Achievements
-
-| Item | Status |
-|------|--------|
-| 219 v4.0 LitNotes finalized | ✅ Committed |
-| 68 duplicates archived | ✅ Committed |
-| 47 UID collisions resolved | ✅ Committed |
-| **SCOUT agent created** | ✅ NVIDIA Nemotron 120B free tier |
-| **LOCOl deprecated** | ✅ Local models unreliable |
-| 5 P0 inbox items | ✅ Created |
-| 2 new projects | ✅ Created |
-| YAML consistency fixes | ✅ 219 files |
-| Git discipline | ✅ 13 commits Apr 12-13 |
 
 ---
 
@@ -101,6 +128,7 @@ Weak answer → slow down.
 | **Why we exist** | [[00-MISSION]] — Mission charter |
 | **Flow truth** | [[01-PIPELINE]] — Bottlenecks, pressure, diagnosis |
 | **Session context** | [[02-HANDOFF]] — Where we are now |
+| **Folder guides** | [[00-Inbox-README]], [[03-Zettels-README]], etc. |
 
 ---
 
@@ -108,11 +136,13 @@ Weak answer → slow down.
 
 RON,
 
-**219 LitNotes complete. 77 need zettel extraction. You decide scope.**
+**Infrastructure complete. Orphans resolved. Documentation system in place.**
+
+**Next: Zettel quality assessment — your decision on scope.**
 
 Move carefully. Move clearly. Move in order.
 
 ---
 
-*Command v4.2 — 219 LitNotes complete, SCOUT operational*  
-*Updated 2026-04-14*
+*Command v4.3 — Infrastructure complete, awaiting quality assessment*  
+*Updated 2026-04-14 17:45*
