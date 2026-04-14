@@ -10,18 +10,18 @@ status: active
 
 | Metric | Value | Updated |
 |--------|-------|---------|
-| **Zettels** | 1,453 | 2026-04-09 |
-| **LitNotes (v4.0)** | 70 | 2026-04-09 |
-| **LitNotes (legacy)** | 227 | 2026-04-09 |
+| **Zettels** | 1,453 | 2026-04-14 |
+| **LitNotes (v4.0)** | **219** | 2026-04-14 |
+| **LitNotes (legacy)** | **0** | 2026-04-14 |
 | **CGPT Anchors** | 688 (17 processed) | 2026-04-09 |
 | **OpenClaw Workers** | 4 (RON, FORG, GEMMA, FREE) | 2026-04-09 |
-| **Git Status** | Clean (28 commits today) | 2026-04-09 |
-| **Last Session** | 2026-04-09 22:45 | 2026-04-09 |
+| **Git Status** | Clean (13 commits Apr 12-13) | 2026-04-14 |
+| **Last Session** | 2026-04-13 23:57 | 2026-04-14 |
 
 ### Active Fronts
 | Front | Status | Next Action |
 |-------|--------|-------------|
-| LitNote v4.0 Conversion | 🟡 70/297 (23%) | Decide: 30 more, 66 more, or stop |
+| **LitNote v4.0 Conversion** | ✅ **COMPLETE — 219/219 (100%)** | Zettel extraction for 77 active files |
 | FORG Pipeline | ✅ Validated | Ready for next batch |
 | P0 Inbox Items | ✅ 5 created | Ready for synthesis |
 | CGPT_0264 | ⏳ 6/11 | Resume when ready |
@@ -31,21 +31,21 @@ status: active
 ## Operating Orders
 
 ### Do Now (Max 3)
-- [ ] **Rest** — Session closed, resume tomorrow
-- [ ] **Decide** — LitNote scope: 30/66/138/stop?
-- [ ] **Prioritize** — New extraction vs. conversion vs. synthesis
+- [ ] **Decide** — FORG zettel sprint: 40 files (25 P0 zero-zettel + 15 P1 under-extracted)
+- [ ] **Prioritize** — CGPT_0264 resumption vs. AutoResearch vs. PhD parallel work
+- [ ] **Rest** — Vacation until Apr 27, light re-entry only
 
 ### Do Next (Queue)
-- Complete LitNote v4.0 (decide scope)
+- FORG zettel extraction sprint (40 files ready)
 - Synthesize 5 P0 inbox items into Triangle v2.0
 - Resume CGPT_0264 Batch 1.2
 - Address 312 orphan zettels
 
 ### Do Not Do (Permanent Guardrails)
-- ❌ Process all 138 LitNotes without explicit decision
-- ❌ Start new extraction before conversion complete
+- ❌ Start FORG sprint without explicit batch confirmation
 - ❌ Trust stale protocols over current doctrine
 - ❌ Aggressive cleanup without archive-first safety
+- ❌ Overcommit during vacation period
 
 ---
 
@@ -53,11 +53,13 @@ status: active
 
 | Item | Status |
 |------|--------|
-| 70 v4.0 LitNotes created | ✅ Committed |
+| 219 v4.0 LitNotes finalized | ✅ Committed |
+| 68 duplicates archived | ✅ Committed |
+| 47 UID collisions resolved | ✅ Committed |
 | 5 P0 inbox items | ✅ Created |
 | 2 new projects | ✅ Created |
-| YAML consistency fixes | ✅ 39 files |
-| Git discipline | ✅ 28 commits |
+| YAML consistency fixes | ✅ 219 files |
+| Git discipline | ✅ 13 commits Apr 12-13 |
 
 ---
 
@@ -103,11 +105,11 @@ Weak answer → slow down.
 
 RON,
 
-**70 done. 138 remain. You decide tomorrow.**
+**219 LitNotes complete. 77 need zettel extraction. You decide scope.**
 
 Move carefully. Move clearly. Move in order.
 
 ---
 
-*Command v4.0 — 70 v4.0 LitNotes committed*  
-*Updated 2026-04-09*
+*Command v4.1 — 219 v4.0 LitNotes, 100% complete*  
+*Updated 2026-04-14*

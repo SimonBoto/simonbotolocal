@@ -10,11 +10,12 @@ status: active
 
 | Stage | Count | Status | Meaning | Pressure |
 |-------|------:|--------|---------|----------|
-| **00-Inbox** | ~757 | 🟡 Triage pressure | 5 new P0 items added today | Medium |
-| **01-Literature (v4.0)** | 70 | 🟢 Moving | 23% converted, quality validated | Low |
-| **01-Literature (legacy)** | 227 | 🟡 Processing | 138 pending conversion | Medium |
+| **00-Inbox** | ~757 | 🟡 Triage pressure | 5 new P0 items added | Medium |
+| **01-Literature (v4.0)** | **219** | ✅ **Complete** | 100% converted, homogeneous | None |
+| **01-Literature (active)** | **77** | 🟡 Needs zettels | 35% of corpus needs extraction | Medium |
+| **01-Literature (complete)** | **144** | ✅ Ready | 65% fully extracted | None |
 | **02-References** | — | 🟡 Cleanup active | Provenance repair ongoing | Medium |
-| **03-Zettels/Conscious** | 1,141 | 🟡 Better | 78% connected (was 706) | Medium |
+| **03-Zettels/Conscious** | 1,453 | 🟡 Better | 78% connected | Medium |
 | **03-Zettels/Subconscious** | 312 | ✅ Stable | Permanent layer | None |
 | **04-Synthesis** | 19 | 🟡 Controlled | Triangle v2.0 project ready | Low |
 | **CGPT Anchors** | 688 (17 done) | 🟡 Reservoir | Major unprocessed knowledge store | High |
@@ -23,10 +24,11 @@ status: active
 
 ## Active Bottlenecks (Ranked)
 
-### 🟡 Medium: LitNote Conversion Decision
-- **70 done, 138 pending**
-- Need explicit scope decision: 30/66/138/stop
-- **Action needed:** User decision tomorrow
+### ✅ Complete: LitNote v4.0 Conversion
+- **219 files, 100% complete**
+- 0 legacy files remaining
+- 68 duplicates archived, 47 UIDs consolidated
+- **Action:** FORG zettel extraction for 77 active files
 
 ### 🟡 Medium: Conscious Zettel Connections
 - **1,141 connected (78%)** — improved from 706
@@ -48,9 +50,9 @@ status: active
 
 | Item | Value | Effort | Current Constraint |
 |------|-------|--------|-------------------|
-| LitNote v4.0 (30 files) | High | 30 min | **Quick win** — hit 100 total |
-| LitNote v4.0 (66 files) | High | 2 hours | Complete L-001 domain |
-| LitNote v4.0 (138 files) | High | 6-7 hours | Full conversion |
+| FORG zettel sprint (25 P0) | High | 2 hours | 25 files with 0 zettels |
+| FORG zettel sprint (15 P1) | High | 1.5 hours | 15 GOLD under-extracted |
+| FORG zettel sprint (40 total) | High | 3.5 hours | Complete active queue |
 | P0 inbox synthesis | Very High | 1 hour | Triangle v2.0 architecture |
 | CGPT_0264 completion | High | Low-Med | Bounded, active |
 | Orphan zettel MOC | Medium | 2 hours | Non-blocking |
@@ -62,8 +64,8 @@ status: active
 | Transition | In | Processing | Out | Health |
 |------------|---:|-----------:|----:|--------|
 | Inbox → Literature | ~757 | Triage | Ongoing | ⚠️ 5 new P0 items |
-| Literature → v4.0 | 297 | 70 done | 23% | 🟢 Moving |
-| v4.0 → Zettels | 70 | Linked | Ongoing | 🟢 Good connections |
+| Literature → v4.0 | 219 | **219 done** | **100%** | ✅ **Complete** |
+| v4.0 → Zettels | 77 active | Ready for FORG | Queue prepared | 🟢 Ready |
 | Conscious → Subconscious | 1,141 | 312 orphans | 312 | 🟡 Tracked |
 | Zettels → Synthesis | Selective | Triangle v2.0 | Ready | 🟢 Good |
 
@@ -72,16 +74,16 @@ status: active
 ## Pressure Assessment
 
 ### Healthy
-- LitNote v4.0 pipeline validated (FORG works)
+- ✅ LitNote v4.0 **100% complete** (219 files)
 - Zettel connections improved (78%)
 - FORG pipeline cost-effective ($0.04/file)
 - Dashboards updated
-- Git disciplined (28 commits)
+- Git disciplined (13 commits Apr 12-13)
 
 ### Unhealthy
 - CGPT reservoir still high-pressure
 - 312 orphan zettels need attention
-- LitNote conversion scope undecided
+- 77 active LitNotes need zettel extraction
 
 ---
 
@@ -91,7 +93,7 @@ Pipeline diagnosis → COMMAND orders:
 
 | Pipeline Says | COMMAND Does |
 |-------------|--------------|
-| LitNote conversion 23% done | Decide: continue scope |
+| LitNote conversion **100% done** | FORG zettel extraction |
 | CGPT reservoir high | Implement AutoResearch |
 | Zettel connections improved | Defer orphan cleanup |
 | 5 P0 items ready | Synthesize to Triangle v2.0 |
@@ -121,13 +123,13 @@ Pipeline diagnosis → COMMAND orders:
 
 RON,
 
-Pipeline today: **controlled progress, clear decisions needed.**
+Pipeline today: **LitNote conversion COMPLETE. 77 active files ready for zettel extraction.**
 
-70 LitNotes converted with quality. 5 P0 items captured. System moving.
+219 LitNotes homogeneous, 0 duplicates, 100% YAML standardized. FORG pipeline validated.
 
-Tomorrow: **decide scope, then execute.**
+Next: **FORG zettel sprint OR AutoResearch OR PhD parallel work.**
 
 ---
 
-*Pipeline v3.0 — 70 v4.0 LitNotes, 138 pending*  
-*Updated 2026-04-09*
+*Pipeline v3.1 — 219 v4.0 LitNotes, 77 active for extraction*  
+*Updated 2026-04-14*
