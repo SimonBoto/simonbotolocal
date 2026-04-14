@@ -1,31 +1,25 @@
 ---
 uid: L-001-0613
 type: litnote
-title: "TP53 Multiple Myeloma L-001-0613"
+title: "TP53 Multiple Myeloma Prognosis and Therapy"
 date: 2026-04-12
-status: active
-source-origin: legacy
-reviewed_by: "FORG"
----
-
-uid: L-001-0613
-type: litnote
-title: TP53 Multiple Myeloma Prognosis and Therapy
-authors: ChatGPT Analysis (CGPT-0264)
+authors: "ChatGPT Analysis (CGPT-0264)"
 year: 2024
-journal: ChatGPT Archive
+journal: "ChatGPT Archive"
 doi: N/A
 pmid: N/A
 pmcid: N/A
 tier: BRONZE
-relevance: High — TP53 abnormalities, del(17p), p53 dysfunction, MDM2 inhibitors, therapeutic strategies
+relevance: "High — TP53 abnormalities, del(17p), p53 dysfunction, MDM2 inhibitors, therapeutic strategies"
 status: active
-parent-moc: 
+source-origin: legacy
+parent-moc: "[[MOC-p53-Pathway]]"
 extraction-date: 2026-03-08
-source-inbox: "[[00-Inbox]]"
-zettel-count: 0
+source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+zettel-count: 2
 reference-count: 0
-source: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+reviewed_by: "FORG"
+---
 
 # Lit: ChatGPT 2024 — TP53 Multiple Myeloma Prognosis and Therapy
 
