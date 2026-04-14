@@ -19,6 +19,7 @@ status: active
 | **03-Zettels/Subconscious** | 312 | ✅ Stable | Permanent layer | None |
 | **04-Synthesis** | 19 | 🟡 Controlled | Triangle v2.0 project ready | Low |
 | **CGPT Anchors** | 688 (17 done) | 🟡 Reservoir | Major unprocessed knowledge store | High |
+| **Agent Ecosystem** | 3 agents | ✅ Operational | RON + FORG + SCOUT | None |
 
 ---
 

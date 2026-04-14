@@ -148,8 +148,15 @@ export SCOUT_MODEL="nvidia/nemotron-3-super-120b-a12b:free"
 | Agent created | ✅ Complete | 2026-04-14 |
 | Model tested | ✅ Complete | 2026-04-14 |
 | Configuration | ✅ Complete | 2026-04-14 |
-| Pilot test (10 CGPTs) | 📋 Pending | Awaiting initiation |
+| Integration with FORG | ✅ Complete | 2026-04-14 (queue-scout.md) |
+| Pilot test (10 CGPTs) | 📋 Ready | Awaiting user initiation |
 | Full deployment | 📋 Planned | After pilot validation |
+
+## Integration
+
+SCOUT outputs to `08-Structure/Handoff/queue-scout.md`  
+FORG reads queue-scout.md for prioritized extraction order  
+RON validates SCOUT's prioritization during morning review
 
 ---
 
