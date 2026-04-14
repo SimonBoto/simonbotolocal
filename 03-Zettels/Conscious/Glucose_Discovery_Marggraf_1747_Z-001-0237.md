@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, glucose, history, 1747, marggraf, discovery]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
-source-litnote: [[LitNote_Glucose_History_L-001-0208]
+source-litnote: "[[History_of_Glucose_Discovery_and_Metabolic_Underst_L-001-0208_v4.0]]"
 extraction-date: 2026-03-01
 ---
 
