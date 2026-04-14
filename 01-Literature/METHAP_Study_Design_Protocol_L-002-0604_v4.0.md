@@ -1,15 +1,6 @@
 ---
 uid: L-002-0604
 type: litnote
-title: "METHAP Study Design Protocol L-002-0604"
-date: 2026-04-12
-status: active
-source-origin: legacy
-reviewed_by: "FORG"
----
-
-uid: L-002-0604
-type: litnote
 title: "METHAP Study Design and Protocol — IRB Application"
 authors: "Simos Xenidis, PhD Candidate"
 year: 2024
@@ -26,6 +17,7 @@ source-inbox: "[[00-Inbox]]"
 zettel-count: 0
 reference-count: 0
 source: "[[CGPT_0359_Compliance_and_Approval_Process_CGPT-0359]]"
+---
 
 # Lit: METHAP Study Design and Protocol (CGPT-0359)
 
@@ -124,5 +116,3 @@ This LitNote documents:
 - [x] All zettel links use FULL format
 - [x] No bare UIDs
 - [x] Concept count matches "Zettels Created from This Source" list
-
-

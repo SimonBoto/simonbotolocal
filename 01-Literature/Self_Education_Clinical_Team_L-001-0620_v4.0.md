@@ -1,15 +1,6 @@
 ---
 uid: L-001-0620
 type: litnote
-title: "Self Education Clinical Team L-001-0620"
-date: 2026-04-12
-status: active
-source-origin: legacy
-reviewed_by: "FORG"
----
-
-uid: L-001-0620
-type: litnote
 title: Self-Education Program for Clinical Metabolomics Team
 authors: ChatGPT Analysis
 year: 2024
@@ -26,7 +17,8 @@ source: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]"
 status: active
 parent-moc: 
 extraction-date: 2026-03-08
-source-inbox: "[[00-Inbox]]"
+---
+
 zettel-count: 0
 reference-count: 0
 
@@ -149,5 +141,3 @@ reference-count: 0
 
 
 *Extracted: 2026-03-08 | Source: CGPT-0311 | RON v2.5*
-
-

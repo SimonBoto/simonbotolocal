@@ -1,13 +1,4 @@
 ---
-uid: L-001-0634
-type: litnote
-title: "Twitter Strategy DrMito L-001-0634"
-date: 2026-04-12
-status: active
-zettel-count: 0
-reference-count: 0
-source-origin: legacy
-extraction-date: "2026-04-12"
 source-inbox: "[[00-Inbox]]"
 reviewed_by: "FORG"
 tier: "SILVER"
@@ -25,8 +16,8 @@ aliases: CGPT-0318-Strategy]
 status: active
 zettel-count: 0
 reference-count: 0
+---
 
-# Twitter/X Strategy — DrMito Profile Development
 
 ## Source
 **Conversation:** CGPT-0318 — Mitochondrial Structure and Function  
@@ -223,4 +214,3 @@ How: [Brief method]
 
 
 *Extracted: 2026-03-09 | Strategic content | Phase 1, Item 1*
-

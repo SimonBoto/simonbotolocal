@@ -1,28 +1,22 @@
 ---
 uid: L-001-0639
 type: litnote
-title: "VitD K2 Synergy MetS L-001-0639"
+title: "Vitamin D and K2 Synergy in Metabolic Syndrome (CGPT-0230)"
 date: 2026-04-12
+authors: "ChatGPT Analysis (CGPT-0230)"
+year: 2024
+journal: "ChatGPT Archive"
+tier: GOLD
+relevance: "Critical — Core PhD literature on VitD/K2 mechanisms in MetS"
 status: active
 source-origin: legacy
+parent-moc: "[[MOC-Vitamin-D]]"
+extraction-date: 2026-03-09
+source-inbox: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
+zettel-count: 4
+reference-count: 0
 reviewed_by: "FORG"
 ---
-
-uid: L-001-0639
-type: litnote
-title: LitNote — Vitamin D and K2 Synergy in Metabolic Syndrome (CGPT-0230)
-authors: ChatGPT Analysis (CGPT-0230)
-year: 2024
-journal: ChatGPT Archive
-tier: GOLD
-relevance: Critical — Core PhD literature on VitD/K2 mechanisms in MetS
-status: active
-parent-moc: 
-extraction-date: 2026-03-09
-source-inbox: "[[00-Inbox]]"
-zettel-count: 0
-reference-count: 0
-source: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
 
 # Vitamin D and K2 Synergy in Metabolic Syndrome
 
@@ -67,4 +61,3 @@ Combined → Functional matrix Gla-protein, osteocalcin
 - 
 
 *Extracted: 2026-03-09*
-

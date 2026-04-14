@@ -1,15 +1,6 @@
 ---
 uid: L-001-0622
 type: litnote
-title: "Mitochondrial Gene Knockout Models L-001-0622"
-date: 2026-04-12
-status: active
-source-origin: legacy
-reviewed_by: "FORG"
----
-
-uid: L-001-0622
-type: litnote
 title: Mitochondrial Gene Knockout Models — Energy Dysfunction and Disease
 authors: ChatGPT Analysis
 year: 2024
@@ -26,7 +17,8 @@ source: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]"
 status: complete
 parent-moc: 
 extraction-date: 2026-03-08
-source-inbox: "[[00-Inbox]]"
+---
+
 zettel-count: 0
 reference-count: 0
 
@@ -232,5 +224,3 @@ reference-count: 0
 
 
 *Extracted: 2026-03-08 | Source: CGPT-0311 | RON v2.5*
-
-

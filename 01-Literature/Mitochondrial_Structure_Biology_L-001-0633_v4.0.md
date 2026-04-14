@@ -1,13 +1,4 @@
 ---
-uid: L-001-0633
-type: litnote
-title: "Mitochondrial Structure Biology L-001-0633"
-date: 2026-04-12
-status: active
-zettel-count: 0
-reference-count: 0
-source-origin: legacy
-extraction-date: "2026-04-12"
 source-inbox: "[[00-Inbox]]"
 reviewed_by: "FORG"
 tier: "SILVER"
@@ -25,8 +16,8 @@ aliases: CGPT-0318-Biology]
 status: active
 zettel-count: 0
 reference-count: 0
+---
 
-# Mitochondrial Structure and Function
 
 ## Source
 **Conversation:** CGPT-0318 — Mitochondrial Structure and Function  
@@ -147,4 +138,3 @@ Matrix (Krebs) → Intermembrane Space (ETC) → ATP Synthase (ATP)
 
 
 *Extracted: 2026-03-09 | 4,281 lines | Phase 1, Item 1*
-

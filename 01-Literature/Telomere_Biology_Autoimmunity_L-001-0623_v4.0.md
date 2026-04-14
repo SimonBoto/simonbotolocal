@@ -1,15 +1,6 @@
 ---
 uid: L-001-0623
 type: litnote
-title: "Telomere Biology Autoimmunity L-001-0623"
-date: 2026-04-12
-status: active
-source-origin: legacy
-reviewed_by: "FORG"
----
-
-uid: L-001-0623
-type: litnote
 title: Telomere Biology and Cellular Aging in Autoimmunity
 authors: ChatGPT Analysis / Georgin-Lavialle et al.
 year: 2023
@@ -26,7 +17,8 @@ source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]]"
 status: complete
 parent-moc: 
 extraction-date: 2026-03-08
-source-inbox: "[[00-Inbox]]"
+---
+
 zettel-count: 0
 reference-count: 0
 
@@ -174,5 +166,3 @@ reference-count: 0
 
 
 *Extracted: 2026-03-08 | Source: CGPT-0520 | RON v2.5*
-
-

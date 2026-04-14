@@ -1,15 +1,6 @@
 ---
 uid: L-001-0615
 type: litnote
-title: "PhD Study Design METHAP L-001-0615"
-date: 2026-04-12
-status: active
-source-origin: legacy
-reviewed_by: "FORG"
----
-
-uid: L-001-0615
-type: litnote
 title: PhD Study Design and Methodology METHAP Trial
 authors: ChatGPT Analysis (CGPT-0475)
 year: 2024
@@ -26,6 +17,7 @@ source-inbox: "[[00-Inbox]]"
 zettel-count: 0
 reference-count: 0
 source: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475]]"
+---
 
 # Lit: ChatGPT 2024 — PhD Study Design and Methodology: METHAP Trial
 
@@ -88,5 +80,3 @@ Shift in metabolic biomarkers (urine OA, plasma TFA) from insulin-resistant patt
 *Literature note processed: 2026-03-08*
 *Zettels extracted: 4*
 *Status: extracted*
-
-
