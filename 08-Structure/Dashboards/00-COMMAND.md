@@ -14,7 +14,7 @@ status: active
 | **LitNotes (v4.0)** | **219** | 2026-04-14 |
 | **LitNotes (legacy)** | **0** | 2026-04-14 |
 | **CGPT Anchors** | 688 (17 processed) | 2026-04-09 |
-| **OpenClaw Workers** | 4 (RON, FORG, GEMMA, FREE) | 2026-04-09 |
+| **OpenClaw Workers** | 5 (RON, FORG, SCOUT, GEMMA, FREE) | 2026-04-14 |
 | **Git Status** | Clean (13 commits Apr 12-13) | 2026-04-14 |
 | **Last Session** | 2026-04-13 23:57 | 2026-04-14 |
 
@@ -23,6 +23,7 @@ status: active
 |-------|--------|-------------|
 | **LitNote v4.0 Conversion** | ✅ **COMPLETE — 219/219 (100%)** | Zettel extraction for 77 active files |
 | FORG Pipeline | ✅ Validated | Ready for next batch |
+| **SCOUT Agent** | ✅ **Created** | NVIDIA Nemotron 120B free tier |
 | P0 Inbox Items | ✅ 5 created | Ready for synthesis |
 | CGPT_0264 | ⏳ 6/11 | Resume when ready |
 
@@ -32,7 +33,7 @@ status: active
 
 ### Do Now (Max 3)
 - [ ] **Decide** — FORG zettel sprint: 40 files (25 P0 zero-zettel + 15 P1 under-extracted)
-- [ ] **Prioritize** — CGPT_0264 resumption vs. AutoResearch vs. PhD parallel work
+- [ ] **Test** — SCOUT on 10 CGPTs (theme detection validation)
 - [ ] **Rest** — Vacation until Apr 27, light re-entry only
 
 ### Do Next (Queue)
@@ -56,6 +57,8 @@ status: active
 | 219 v4.0 LitNotes finalized | ✅ Committed |
 | 68 duplicates archived | ✅ Committed |
 | 47 UID collisions resolved | ✅ Committed |
+| **SCOUT agent created** | ✅ NVIDIA Nemotron 120B free tier |
+| **LOCOl deprecated** | ✅ Local models unreliable |
 | 5 P0 inbox items | ✅ Created |
 | 2 new projects | ✅ Created |
 | YAML consistency fixes | ✅ 219 files |
@@ -111,5 +114,5 @@ Move carefully. Move clearly. Move in order.
 
 ---
 
-*Command v4.1 — 219 v4.0 LitNotes, 100% complete*  
+*Command v4.2 — 219 LitNotes complete, SCOUT operational*  
 *Updated 2026-04-14*

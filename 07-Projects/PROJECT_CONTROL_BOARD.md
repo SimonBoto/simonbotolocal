@@ -39,10 +39,12 @@ status: active
 | Project | Status | Model | Cost Savings | Notes |
 |---------|--------|-------|--------------|-------|
 | [[FORG_Agent_Project_S-001-0004\|FORG Agent]] | ✅ Operational | Qwen Plus | 98% | Tested 2026-04-07, workspace isolated |
-| RESEARCH Agent | 📋 Planned | TBD | — | After FORG proven |
+| **SCOUT Agent** | ✅ **Created** | NVIDIA Nemotron 120B | 100% | Free tier, theme detection 2026-04-14 |
+| RESEARCH Agent | 📋 Planned | TBD | — | After SCOUT proven |
 | EDITOR Agent | 📋 Planned | TBD | — | P2 priority |
 | OLLAMA Worker | 🟡 Configured | Gemma 2B | 100% | Local, zero cost |
 | OpenRouter Free | ✅ Configured | Various | 100% | Free tier testing |
+| LOCOl | ❌ Deprecated | — | — | Local models unreliable |
 
 ### 🛠️ Tools
 | Project | Status | Blocker | ETA |
@@ -127,5 +129,5 @@ status: active
 - [[01-HANDOFF]] — Session state
 
 ---
-*Last updated: 2026-04-09 00:13*
+*Last updated: 2026-04-14 15:10*
 *Next review: Daily*
