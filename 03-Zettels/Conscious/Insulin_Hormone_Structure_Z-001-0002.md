@@ -1,4 +1,5 @@
 ---
+source-litnote: [[High_Glucose_vs_High_Insulin-_Insulin_Matters_More_L-002-0221_v4.0.md]]
 uid: Z-001-0002
 type: zettel-mech
 status: conscious
@@ -8,7 +9,6 @@ domain: 001
 domain-name: Insulin-Signaling
 tags: [zettel, insulin, hormone, peptide, structure]
 parent-moc: [[MOC-Insulin-Signaling]]
-source: 
 confidence: high
 created: 2026-02-22
 ---

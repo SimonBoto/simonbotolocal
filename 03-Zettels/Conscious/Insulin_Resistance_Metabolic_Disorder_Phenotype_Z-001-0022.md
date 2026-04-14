@@ -1,4 +1,5 @@
 ---
+source-litnote: [[High_Glucose_vs_High_Insulin-_Insulin_Matters_More_L-002-0221_v4.0.md]]
 uid: Z-001-0022
 type: zettel
 title: "Insulin Resistance as Metabolic Disorder Phenotype"
@@ -7,7 +8,6 @@ domain: 001
 tags: [zettel, insulin-resistance, metabolic-disorder, phenotype, metabolomics, chronic-disease, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-02-23
-source: [[NKUA_2024_Metabolites_Phenotype_Clinical_L-001-0003]
 status: conscious
 ---
 
