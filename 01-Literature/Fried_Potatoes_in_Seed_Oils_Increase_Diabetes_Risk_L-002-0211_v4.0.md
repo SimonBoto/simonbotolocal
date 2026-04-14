@@ -1,6 +1,6 @@
 ---
 uid: L-002-0211
-type: litnote
+type: lit-note
 title: "Fried Potatoes in Seed Oils Increase Diabetes Risk 20% (Oxidized Omega-6)"
 aliases: ["L-002-0211", "Fried-Potatoes-Seed-Oils-Diabetes"]
 source-inbox: "[[INBOX-Article-30-Fried-Potatoes]]"
@@ -34,7 +34,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-30-Fried-Potatoes]]
 - **Reference note:** [[Fried_Potatoes_Seed_Oils_Diabetes_R-002-0051]]
 
-## Core Claim
+## Core Concepts Extracted
 **Frequent consumption of potatoes fried in seed oils (soybean, canola, corn) increases type 2 diabetes risk by approximately 20%** — the risk is driven by oil oxidation creating toxic aldehydes (4-HNE, MDA), advanced glycation end-products (AGEs), and pro-inflammatory omega-6 fatty acids, not the potato itself. Traditional stable fats (tallow, lard, coconut oil) and alternative cooking methods (air frying, baking) eliminate this risk.
 
 ---

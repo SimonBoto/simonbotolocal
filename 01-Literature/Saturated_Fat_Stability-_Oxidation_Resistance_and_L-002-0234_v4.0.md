@@ -1,6 +1,6 @@
 ---
 uid: L-002-0234
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Saturated Fat Stability: Oxidation Resistance and Health (Yamada 2025, Valk 2022, Astrup 2020)"
 aliases: ["L-002-0234", "Saturated-Fat-Stability", "Oxidation-Resistance"]
@@ -44,7 +44,7 @@ tags:
   - [[Valk_2022_Saturated_Fat_CVD_R-001-0104]]
   - [[Astrup_2020_Saturated_Fats_Health_R-001-0002]]
 
-## Core Claim
+## Core Concepts Extracted
 **Saturated fats are chemically stable and resistant to oxidation due to their fully saturated chemical structure (no double bonds), making them stable for cooking and in the body** — in contrast, polyunsaturated seed oils oxidize easily, especially when heated, causing cellular damage; saturated fats are most appropriate when carbohydrate intake is reduced, playing a central role in improving chronic inflammation and autoimmunity within a healthy dietary context.
 
 ---

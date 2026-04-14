@@ -1,6 +1,6 @@
 ---
 uid: L-002-0201
-type: litnote
+type: lit-note
 title: "Artificial Sweeteners Increase Body Fat (Steffen 2023, CARDIA)"
 aliases: ["L-002-0201", "Artificial-Sweeteners-Body-Fat"]
 source-inbox: "[[INBOX-Article-20-Artificial-Sweeteners]]"
@@ -36,7 +36,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-20-Artificial-Sweeteners]]
 - **Reference note:** [[Steffen_2023_Artificial_Sweeteners_CARDIA_R-002-0041]]
 
-## Core Claim
+## Core Concepts Extracted
 Long-term artificial sweetener consumption (aspartame, saccharin) is associated with **increased visceral, intermuscular, and subcutaneous fat accumulation** over 25 years — and this association is **independent of calorie intake, diet quality, and BMI**, suggesting metabolic effects beyond calories.
 
 ---

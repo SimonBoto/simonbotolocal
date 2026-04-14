@@ -1,6 +1,6 @@
 ---
 uid: L-002-0172
-type: litnote
+type: lit-note
 title: "Low Carb or Low Fat? Diet Comparison for Metabolic Health (Apekey 2022)"
 source-inbox: "[[INBOX-Article-6-Low-Carb-Low-Fat]]"
 authors: "Apekey TA, et al."
@@ -34,7 +34,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-6-Low-Carb-Low-Fat]]
 - **Reference note:** [[Apekey_2022_LCD_LFD_T2D_Meta_R-002-0034]]
 
-## Core Claim
+## Core Concepts Extracted
 Low-carbohydrate diets are **superior to low-fat diets** for improving metabolic health outcomes, particularly for weight loss, glycemic control, and lipid profiles in individuals with insulin resistance and type 2 diabetes.
 
 ---

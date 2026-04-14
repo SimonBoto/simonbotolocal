@@ -1,6 +1,6 @@
 ---
 uid: L-001-0586
-type: litnote
+type: lit-note
 title: "Lit — Manuscript Review Critical Concerns — Peer Review and Research Appraisal"
 aliases:
   - L-001-0586

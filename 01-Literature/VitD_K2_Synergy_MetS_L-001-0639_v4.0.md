@@ -1,6 +1,6 @@
 ---
 uid: L-001-0639
-type: litnote
+type: lit-note
 title: "Vitamin D and K2 Synergy in Metabolic Syndrome (CGPT-0230)"
 date: 2026-04-12
 authors: "ChatGPT Analysis (CGPT-0230)"

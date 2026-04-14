@@ -1,6 +1,6 @@
 ---
 uid: L-001-0577
-type: litnote
+type: lit-note
 title: "Lit — VDR and Mitochondrial Knockout Studies — Genetic Models of Vitamin D and Mitochondrial Dysfunction"
 aliases:
   - L-001-0577

@@ -1,6 +1,6 @@
 ---
 uid: L-002-0238
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Seed Oils Oxidation and Traditional Fats for Cooking (Mousavi 2025, Grootveld 2018, Tsoukalas 2024)"
 aliases: ["L-002-0238", "Seed-Oils-Oxidation-Traditional-Fats", "Seed-Oils-Health"]
@@ -49,7 +49,7 @@ tags:
   - [[Tsoukalas_2024_Metabolomics_Chronic_Disease_R-002-0053]]
   - [[Sarandi_2020_Metabolic_Profiling_R-001-0091]]
 
-## Core Claim
+## Core Concepts Extracted
 **Industrial seed oils undergo extensive processing that damages lipids through oxidation, and when used for cooking or frying, this damage intensifies — in contrast, traditional fats (extra virgin olive oil, butter, ghee, coconut oil) are safe for cooking and associated with substantial health improvements including better mitochondrial energy production, improved immune function, enhanced insulin sensitivity, and reduced chronic inflammatory diseases when substituted for processed seed oils.**
 
 ---

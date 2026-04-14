@@ -1,6 +1,6 @@
 ---
 uid: L-002-0233
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Fatigue Is a Message from the Body: Mitochondrial Dysfunction (Metabolomic Literature)"
 aliases: ["L-002-0233", "Fatigue-Mitochondrial-Message", "Mitochondrial-Dysfunction"]
@@ -37,7 +37,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-46-Fatigue-Mitochondrial]]
 - **Reference note:** [[Fatigue_Mitochondrial_Dysfunction_Literature_R-002-0061]]
 
-## Core Claim
+## Core Concepts Extracted
 **Persistent fatigue despite adequate rest is not normal — it is a message from the body indicating mitochondrial dysfunction and insufficient energy production** — mitochondria produce ATP for all cellular functions, and their dysfunction is linked to most chronic diseases; modern metabolomic assessment can identify mitochondrial problems, and targeted interventions improve health in over 90% of patients with autoimmune and chronic diseases.
 
 ---

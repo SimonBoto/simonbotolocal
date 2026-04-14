@@ -1,6 +1,6 @@
 ---
 uid: L-001-0599
-type: litnote
+type: lit-note
 title: "Lit — CGPT-0022 Extraction Completion Summary"
 aliases:
   - L-001-0599

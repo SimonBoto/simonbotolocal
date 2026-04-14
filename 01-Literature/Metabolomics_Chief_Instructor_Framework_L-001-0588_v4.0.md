@@ -1,6 +1,6 @@
 ---
 uid: L-001-0588
-type: litnote
+type: lit-note
 title: "Lit — Metabolomics Chief Instructor Framework"
 aliases:
   - L-001-0588

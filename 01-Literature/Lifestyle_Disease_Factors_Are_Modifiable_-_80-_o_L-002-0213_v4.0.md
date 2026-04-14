@@ -1,6 +1,6 @@
 ---
 uid: L-002-0213
-type: litnote
+type: lit-note
 title: "Lifestyle Disease Factors Are Modifiable — 80% of Health Determinants (Epigenetics)"
 aliases: ["L-002-0213", "Lifestyle-Factors-Modifiable"]
 source-inbox: "[[INBOX-Article-32-Modifiable]]"
@@ -34,7 +34,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-32-Modifiable]]
 - **Reference note:** [[Lifestyle_Factors_Modifiable_R-002-0053]]
 
-## Core Claim
+## Core Concepts Extracted
 **Approximately 80% of chronic disease risk factors are modifiable through lifestyle choices** — CDC and WHO estimates attribute 80% of chronic disease burden to lifestyle/behavioral factors versus 15-20% to genetics. Type 2 diabetes is 90% preventable, cardiovascular disease 80% preventable, and many cancers 40-50% preventable through evidence-based interventions. Furthermore, epigenetic mechanisms allow lifestyle to modify gene expression, meaning genetic risk is not destiny.
 
 ---

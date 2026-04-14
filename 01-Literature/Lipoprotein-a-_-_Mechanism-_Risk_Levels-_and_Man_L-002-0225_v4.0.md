@@ -1,6 +1,6 @@
 ---
 uid: L-002-0225
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Lipoprotein(a) — Mechanism, Risk Levels, and Management (Kamstrup 2009, Lp(a) Literature)"
 aliases: ["L-002-0225", "Lpa-Mechanism-Management", "Lipoprotein-a"]
@@ -38,7 +38,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-40-Lpa-Mechanism]]
 - **Reference note:** [[Kamstrup_2009_Lp(a)_Genetic_MI_Risk_R-002-0039]]
 
-## Core Claim
+## Core Concepts Extracted
 **Lipoprotein(a) [Lp(a)] is a genetically determined cardiovascular risk factor that increases thrombosis (clot formation), heart attack, and stroke risk** — an evolutionary survival mechanism (faster bleeding cessation) now a liability with modern lifespans; levels >50 mg/dL increase risk by 50% or more, with dose-response relationship (+20 mg/dL ≈ +10% risk); no current drugs available but trials underway; management focuses on aggressive control of other modifiable risk factors.
 
 ---

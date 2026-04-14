@@ -1,6 +1,6 @@
 ---
 uid: L-001-0579
-type: litnote
+type: lit-note
 title: "Lit — Hypothalamic-Pituitary-Gonadal Axis — Hormone Cascade and Regulation"
 aliases:
   - L-001-0579

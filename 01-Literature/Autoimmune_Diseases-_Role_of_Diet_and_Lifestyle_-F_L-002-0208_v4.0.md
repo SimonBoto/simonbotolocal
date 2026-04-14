@@ -1,6 +1,6 @@
 ---
 uid: L-002-0208
-type: litnote
+type: lit-note
 title: "Autoimmune Diseases: Role of Diet and Lifestyle (Fasano, AIP)"
 aliases: ["L-002-0208", "Autoimmune-Diet-Lifestyle"]
 source-inbox: "[[INBOX-Article-27-Autoimmune]]"
@@ -35,7 +35,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-27-Autoimmune]]
 - **Reference note:** [[Autoimmune_Diet_Lifestyle_R-002-0048]]
 
-## Core Claim
+## Core Concepts Extracted
 **Autoimmune diseases have dietary and lifestyle root causes** — environmental triggers, intestinal permeability (leaky gut), and gut dysbiosis are primary drivers that can be modified. The Autoimmune Protocol (AIP) and elimination diets produce significant symptom improvement and potential disease remission by removing triggers and healing the gut barrier.
 
 ---

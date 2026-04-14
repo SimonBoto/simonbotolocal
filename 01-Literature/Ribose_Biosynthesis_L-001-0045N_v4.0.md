@@ -1,6 +1,6 @@
 ---
 uid: L-001-0045N
-type: litnote
+type: lit-note
 title: "Ribose Biosynthesis: Pentose Phosphate Pathway and Metabolic Integration"
 aliases:
   - L-001-0045C

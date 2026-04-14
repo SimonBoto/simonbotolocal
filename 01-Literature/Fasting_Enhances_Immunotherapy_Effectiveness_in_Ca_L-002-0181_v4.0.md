@@ -1,6 +1,6 @@
 ---
 uid: L-002-0181
-type: litnote
+type: lit-note
 title: "Fasting Enhances Immunotherapy Effectiveness in Cancer Patients"
 source-inbox: "[[INBOX-Article-12-Fasting-Immunotherapy]]"
 authors: "Chen S, et al."
@@ -33,7 +33,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-12-Fasting-Immunotherapy]]
 - **Reference note:** [[Chen_2026_16h_Fasting_Immunotherapy_R-002-0038]]
 
-## Core Claim
+## Core Concepts Extracted
 Fasting or fasting-mimicking diets enhance the effectiveness of immunotherapy in cancer patients by reprogramming the tumor microenvironment, reducing immunosuppressive factors, and promoting anti-tumor immune responses — representing a metabolic intervention that synergizes with modern cancer immunotherapy.
 
 ---

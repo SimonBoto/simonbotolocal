@@ -1,6 +1,6 @@
 ---
 uid: L-002-0227
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Carbohydrate Restriction Reduces CVD Risk — Meta-Analysis of 174 RCTs"
 aliases: ["L-002-0227", "Carb-Restriction-CVD-Meta", "Low-Carb-174-RCTs"]
@@ -37,7 +37,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-42-Carb-Restriction-CVD]]
 - **Reference note:** [[Low_Carb_Meta_Analysis_174_RCTs_R-002-0059]]
 
-## Core Claim
+## Core Concepts Extracted
 **Low-carbohydrate diets significantly improve metabolic health markers and reduce cardiovascular disease risk** — the largest meta-analysis to date (174 RCTs) demonstrates consistent benefits: reduced triglycerides, blood pressure, inflammation, and improved lipid ratios, with minor LDL increases that do not negate overall CVD risk reduction when accompanied by metabolic improvements.
 
 ---

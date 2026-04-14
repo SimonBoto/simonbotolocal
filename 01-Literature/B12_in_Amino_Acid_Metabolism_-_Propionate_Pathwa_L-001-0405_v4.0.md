@@ -1,6 +1,6 @@
 ---
 uid: L-001-0405
-type: litnote
+type: lit-note
 title: "B12 in Amino Acid Metabolism — Propionate Pathway and Odd-Chain Fatty Acids"
 aliases:
   - L-001-0405

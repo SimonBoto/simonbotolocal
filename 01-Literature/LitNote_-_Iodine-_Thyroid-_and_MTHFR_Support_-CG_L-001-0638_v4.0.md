@@ -1,6 +1,6 @@
 ---
 uid: L-001-0638
-type: litnote
+type: lit-note
 title: LitNote — Iodine, Thyroid, and MTHFR Support (CGPT-0199)
 authors: ChatGPT Analysis (CGPT-0199)
 year: 2025

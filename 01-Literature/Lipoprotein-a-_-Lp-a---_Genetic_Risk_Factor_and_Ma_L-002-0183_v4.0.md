@@ -1,6 +1,6 @@
 ---
 uid: L-002-0183
-type: litnote
+type: lit-note
 title: "Lipoprotein(a) [Lp(a)]: Genetic Risk Factor and Management Strategies"
 source-inbox: "[[INBOX-Article-14-Lp(a)-Genetic-Risk]]"
 authors: "Kamstrup PR, Tybjaerg-Hansen A, Steffensen R, Nordestgaard BG"
@@ -33,7 +33,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-14-Lp(a)-Genetic-Risk]]
 - **Reference note:** [[Kamstrup_2009_Lp(a)_Genetic_MI_Risk_R-002-0039]]
 
-## Core Claim
+## Core Concepts Extracted
 **Lipoprotein(a) [Lp(a)]** is a genetically determined, independent cardiovascular risk factor present in ~20% of the population that increases heart disease and stroke risk 2-3 fold — unlike other lipid risk factors, Lp(a) is not significantly modified by diet or lifestyle, though emerging therapies show promise for targeted reduction.
 
 ---

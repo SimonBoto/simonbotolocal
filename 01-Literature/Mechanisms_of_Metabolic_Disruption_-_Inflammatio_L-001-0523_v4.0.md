@@ -1,6 +1,6 @@
 ---
 uid: L-001-0523
-type: litnote
+type: lit-note
 title: Mechanisms of Metabolic Disruption — Inflammation, Oxidative Stress, and Insulin Resistance
 authors: ChatGPT synthesis from CGPT-0281, CGPT-0282
 year: 2024

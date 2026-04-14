@@ -1,6 +1,6 @@
 ---
 uid: L-002-0207
-type: litnote
+type: lit-note
 title: "LDL Lowering Does Not Always Mean Greater Protection (Context-Dependent)"
 aliases: ["L-002-0207", "LDL-Lowering-Not-Always-Protection"]
 source-inbox: "[[INBOX-Article-26-LDL-Context]]"
@@ -35,7 +35,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-26-LDL-Context]]
 - **Reference note:** [[LDL_Lowering_Context_Dependency_R-002-0047]]
 
-## Core Claim
+## Core Concepts Extracted
 **LDL lowering does not uniformly translate to cardiovascular protection** — the absolute benefit depends heavily on baseline risk, metabolic health, and inflammatory status. In low-risk individuals with CAC=0, aggressive LDL reduction provides minimal benefit (NNT >200), while high-risk patients benefit substantially (NNT 20-30).
 
 ---

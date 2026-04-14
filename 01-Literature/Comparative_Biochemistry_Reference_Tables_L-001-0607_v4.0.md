@@ -1,6 +1,6 @@
 ---
 uid: L-001-0607
-type: litnote
+type: lit-note
 source-origin: chatgpt-archive
 title: Comparative Biochemistry Reference Tables
 aliases:

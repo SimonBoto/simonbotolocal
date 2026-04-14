@@ -1,6 +1,6 @@
 ---
 uid: L-002-0202
-type: litnote
+type: lit-note
 title: "Chronic Diseases Cause 74% of Global Deaths (GBD 2019)"
 aliases: ["L-002-0202", "Chronic-Disease-74pct-Deaths"]
 source-inbox: "[[INBOX-Article-21-Chronic-Disease]]"
@@ -34,7 +34,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-21-Chronic-Disease]]
 - **Reference note:** [[GBD_2019_NCD_Global_Burden_R-002-0042]]
 
-## Core Claim
+## Core Concepts Extracted
 **Non-communicable diseases (NCDs) — cardiovascular disease, cancer, diabetes, chronic respiratory disease — now account for 74.36% of all deaths globally**, representing a fundamental shift from infectious diseases to chronic, largely preventable, lifestyle-related conditions as the dominant causes of mortality.
 
 ---

@@ -1,6 +1,6 @@
 ---
 uid: L-002-0217
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Personalized Vitamin D Dosing Halves Heart Attack Risk (TARGET-D 2025)"
 aliases: ["L-002-0217", "Personalized-Vitamin-D", "TARGET-D"]
@@ -39,7 +39,7 @@ tags:
 - **Reference note:** [[May_2025_TARGET_D_Vitamin_D_Personalized_R-002-0055]]
 - **Note:** Conference abstract, not peer-reviewed publication
 
-## Core Claim
+## Core Concepts Extracted
 **Personalized vitamin D dosing based on blood levels reduces heart attack risk by 52%** in adults with established cardiovascular disease — the TARGET-D study demonstrates that individualized dosing to achieve 40-80 ng/mL is superior to standard care, with most participants requiring >5,000 IU/day (6x FDA recommendations).
 
 ---

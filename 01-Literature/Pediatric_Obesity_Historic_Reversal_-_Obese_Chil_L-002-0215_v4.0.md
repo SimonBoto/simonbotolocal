@@ -1,6 +1,6 @@
 ---
 uid: L-002-0215
-type: litnote
+type: lit-note
 title: "Pediatric Obesity Historic Reversal — Obese Children Outnumber Undernourished (UNICEF 2025)"
 aliases: ["L-002-0215", "Pediatric-Obesity-Historic-Reversal"]
 source-inbox: "[[INBOX-Article-33-Pediatric-Obesity]]"
@@ -37,7 +37,7 @@ tags:
 - **Reference note:** [[UNICEF_2025_Child_Nutrition_Report_R-002-0054]] — Citation from UNICEF report
 - **Note:** Policy/epidemiological report, not peer-reviewed study
 
-## Core Claim
+## Core Concepts Extracted
 **For the first time in human history, obese children outnumber undernourished children globally** — a historic reversal where childhood obesity (9.4%) now exceeds underweight (9.2%), driven by ultra-processed food environments. UNICEF identifies this as "one of the most serious threats to children's health" with 188 million children (1 in 10) now living with obesity.
 
 ---

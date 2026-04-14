@@ -1,6 +1,6 @@
 ---
 uid: L-001-0595
-type: litnote
+type: lit-note
 title: "Lit — Patient Communication Scripts and Objection Handling"
 aliases:
   - L-001-0595

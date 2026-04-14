@@ -1,6 +1,6 @@
 ---
 uid: L-002-0242
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Historical Reversal: Obese Children Now Outnumber Underweight Children Globally (UNICEF 2025)"
 aliases: ["L-002-0242", "Obese-Children-Outnumber-Underweight", "UNICEF-Childhood-Obesity"]
@@ -37,7 +37,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-54-Obese-Children]]
 - **Reference note:** [[UNICEF_Obese_Children_Outnumber_Underweight_R-002-0066]]
 
-## Core Claim
+## Core Concepts Extracted
 **For the first time in human history, obese children now outnumber underweight children globally** — this historic reversal represents one of the most serious threats to children's health, driven primarily by ultra-processed foods, sugar-sweetened beverages, sedentary lifestyles, and screen time, with projections indicating an impending chronic disease epidemic that will strain healthcare systems and reduce quality of life for an entire generation.
 
 ---

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0578
-type: litnote
+type: lit-note
 title: "Lit — Male Hormone Assessment — Clinical Scenarios and Pattern Recognition"
 aliases:
   - L-001-0578

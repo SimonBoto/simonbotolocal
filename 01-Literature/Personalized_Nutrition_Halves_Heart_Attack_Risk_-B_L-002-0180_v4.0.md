@@ -1,6 +1,6 @@
 ---
 uid: L-002-0180
-type: litnote
+type: lit-note
 title: "Personalized Nutrition Halves Heart Attack Risk (Bermingham 2024)"
 aliases: ["L-002-0180"]
 source-inbox: "[[INBOX-Article-19-Personalized-Nutrition]]"
@@ -34,7 +34,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-19-Personalized-Nutrition]]
 - **Reference note:** [[Bermingham_2024_Personalized_Nutrition_RCT_R-002-0040]]
 
-## Core Claim
+## Core Concepts Extracted
 Personalized nutritional interventions based on individual metabolic profiles (postprandial glucose, triglycerides, microbiome) reduce cardiometabolic risk substantially compared to standard dietary advice — demonstrating superiority of precision nutrition over generic recommendations in a randomized controlled trial.
 
 ---

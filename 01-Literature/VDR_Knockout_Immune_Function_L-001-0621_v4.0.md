@@ -1,6 +1,6 @@
 ---
 uid: L-001-0621
-type: litnote
+type: lit-note
 title: "VDR Knockout Studies — Immune Function and Autoimmune Implications"
 date: 2026-04-12
 authors: "ChatGPT Analysis"

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0581
-type: litnote
+type: lit-note
 title: "Lit — Medical Ethics in Clinical Research — Frameworks, Guidelines, and Requirements"
 aliases:
   - L-001-0581

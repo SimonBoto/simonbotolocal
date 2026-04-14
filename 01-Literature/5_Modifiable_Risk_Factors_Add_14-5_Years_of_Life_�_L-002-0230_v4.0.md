@@ -1,6 +1,6 @@
 ---
 uid: L-002-0230
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "5 Modifiable Risk Factors Add 14.5 Years of Life — NEJM 2025 Global Cardiovascular Risk Consortium"
 aliases: ["L-002-0230", "Five-Risk-Factors-14-Years", "NEJM-2025-Longevity"]
@@ -39,7 +39,7 @@ tags:
 - **Reference note:** [[NEJM_2025_Global_CV_Risk_Lifetime_Estimates_R-002-0037]]
 - **Study scale:** 2 million people, 39 countries
 
-## Core Claim
+## Core Concepts Extracted
 **Five modifiable cardiovascular risk factors — high blood pressure, cholesterol, abnormal body weight, diabetes, and smoking — collectively account for up to 14.5 extra years of life for women and 12 years for men when optimally controlled** — the NEJM Global Cardiovascular Risk Consortium study demonstrates that smoking cessation provides the greatest longevity benefit, followed by hypertension control, while cholesterol and weight have less independent impact when other factors are controlled.
 
 ---

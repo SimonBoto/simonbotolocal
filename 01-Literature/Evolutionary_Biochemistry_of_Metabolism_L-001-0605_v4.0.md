@@ -1,6 +1,6 @@
 ---
 uid: L-001-0605
-type: litnote
+type: lit-note
 source-origin: chatgpt-archive
 title: Evolutionary Biochemistry of Metabolism
 aliases:

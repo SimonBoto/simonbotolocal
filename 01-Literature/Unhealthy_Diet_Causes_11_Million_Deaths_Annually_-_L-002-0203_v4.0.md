@@ -1,6 +1,6 @@
 ---
 uid: L-002-0203
-type: litnote
+type: lit-note
 title: "Unhealthy Diet Causes 11 Million Deaths Annually (GBD 2017)"
 aliases: ["L-002-0203", "Diet-11-Million-Deaths"]
 source-inbox: "[[INBOX-Article-22-Diet-Mortality]]"
@@ -34,7 +34,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-22-Diet-Mortality]]
 - **Reference note:** [[GBD_2017_Diet_11_Million_Deaths_R-002-0043]]
 
-## Core Claim
+## Core Concepts Extracted
 **Poor diet is responsible for 11 million deaths annually — one in five deaths globally** — making dietary risk the leading cause of death worldwide, with high sodium intake, low whole grain consumption, and low fruit intake being the top three dietary risk factors.
 
 ---

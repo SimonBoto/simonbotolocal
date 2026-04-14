@@ -1,6 +1,6 @@
 ---
 uid: L-001-0502
-type: litnote
+type: lit-note
 title: "Statin Pharmacology and Clinical Evidence — Mechanisms, Major Trials, and Precision Use"
 aliases:
   - L-001-0502

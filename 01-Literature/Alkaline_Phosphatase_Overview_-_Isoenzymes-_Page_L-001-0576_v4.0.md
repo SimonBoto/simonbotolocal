@@ -1,6 +1,6 @@
 ---
 uid: L-001-0576
-type: litnote
+type: lit-note
 title: "Lit — Alkaline Phosphatase Overview — Isoenzymes, Paget's Disease, and Clinical Interpretation"
 aliases:
   - L-001-0576

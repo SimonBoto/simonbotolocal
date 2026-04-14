@@ -1,6 +1,6 @@
 ---
 uid: L-002-0244
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Animal and Saturated Fat Not Linked to Cardiovascular Death — Tokyo University"
 aliases: ["L-002-0244", "Animal-Saturated-Fat-Not-Mortality", "Tokyo-Fat-Study"]
@@ -38,7 +38,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-55-Animal-Fat]]
 - **Reference note:** [[Tokyo_Animal_Saturated_Fat_Not_Mortality_R-002-0067]]
 
-## Core Claim
+## Core Concepts Extracted
 **Consumption of animal and saturated fats is not associated with increased cardiovascular risk or increased mortality** — University of Tokyo research challenges conventional dietary guidelines, finding that restricting animal and saturated fats does not reduce death risk, and current recommendations are based on weak evidence from observational studies that cannot prove causation.
 
 ---

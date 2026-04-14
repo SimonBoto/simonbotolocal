@@ -1,6 +1,6 @@
 ---
 uid: L-002-0220
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Minimal Exercise Dose: 15-20 Minutes Weekly Reduces Mortality 16-40% (Ahmadi 2022)"
 aliases: ["L-002-0220", "Minimal-Exercise-Dose", "Exercise-Mortality"]
@@ -38,7 +38,7 @@ tags:
 - **Reference note:** [[Ahmadi_2022_Vigorous_Physical_Activity_R-001-0041]]
 - **Study size:** 72,000 participants followed ~6 years
 
-## Core Claim
+## Core Concepts Extracted
 **Just 15-20 minutes of vigorous exercise per week reduces all-cause mortality risk by 16-40%** — the European Heart Journal study demonstrates that minimal doses of vigorous physical activity provide substantial protection, with optimal benefits at ~25 minutes/week (46% lower mortality) and diminishing returns beyond 50-57 minutes.
 
 ---

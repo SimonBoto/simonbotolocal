@@ -1,6 +1,6 @@
 ---
 uid: L-002-0206
-type: litnote
+type: lit-note
 title: "Meat Consumption Eliminates Genetic Alzheimer Risk in APOE4 Carriers (Norgren 2026)"
 aliases: ["L-002-0206", "Meat-Alzheimer-Genetic-Risk"]
 source-inbox: "[[INBOX-Article-25-Meat-Alzheimer]]"
@@ -36,7 +36,7 @@ tags:
 - **Reference note:** [[Norgren_2026_Meat_APOE4_Dementia_R-002-0046]]
 - **Press coverage:** ScienceDaily, Medical News Today, MedPage Today (April 2026)
 
-## Core Claim
+## Core Concepts Extracted
 **Higher meat consumption eliminates the increased genetic dementia risk in APOE4 carriers** — reducing dementia risk by 55% (HR 0.45, P=0.04) and cognitive decline (P=0.01) in APOE4 carriers, suggesting an evolutionary mismatch where modern plant-based diets disadvantage this genotype.
 
 ---

@@ -1,6 +1,6 @@
 ---
 uid: L-002-0177
-type: litnote
+type: lit-note
 title: "Carbohydrate Withdrawal Symptoms and Keto-Adaptation Timeline (Harvey 2019)"
 source-inbox: "[[INBOX-Article-18-Carb-Withdrawal]]"
 authors: "Harvey CJDC, Schofield GM, Zinn C, Thornley S, et al."
@@ -33,7 +33,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-18-Carb-Withdrawal]]
 - **Reference note:** [[Harvey_2019_Carb_Withdrawal_KetoAdaptation_R-002-0033]]
 
-## Core Claim
+## Core Concepts Extracted
 Carbohydrate restriction produces transient withdrawal symptoms (fatigue, irritability, cravings) lasting approximately **1-2 weeks**, followed by **keto-adaptation** where energy, mood, and cognitive function improve beyond baseline — understanding this timeline is essential for patient adherence and clinical counseling.
 
 ---

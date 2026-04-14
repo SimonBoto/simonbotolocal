@@ -1,6 +1,6 @@
 ---
 uid: L-001-0590
-type: litnote
+type: lit-note
 title: "Lit — Core Clinical Vocabulary — 66 Metabolomics Terms"
 aliases:
   - L-001-0590

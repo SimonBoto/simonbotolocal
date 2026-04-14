@@ -1,6 +1,6 @@
 ---
 uid: L-001-0618
-type: litnote
+type: lit-note
 title: Machine Learning in Metabolomics METHAP
 authors: ChatGPT Analysis (CGPT-0475)
 year: 2024

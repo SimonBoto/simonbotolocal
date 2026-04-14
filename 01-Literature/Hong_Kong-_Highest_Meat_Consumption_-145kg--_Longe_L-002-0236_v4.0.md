@@ -1,6 +1,6 @@
 ---
 uid: L-002-0236
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Hong Kong: Highest Meat Consumption (145kg), Longest Life Expectancy (Population Data)"
 aliases: ["L-002-0236", "Hong-Kong-Meat-Longevity", "Meat-Longevity-Paradox"]
@@ -37,7 +37,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-49-Hong-Kong-Meat]]
 - **Reference note:** [[Hong_Kong_Meat_Longevity_Population_Data_R-002-0063]]
 
-## Core Claim
+## Core Concepts Extracted
 **Hong Kong has the world's highest life expectancy while simultaneously having the world's highest per capita meat consumption (~145 kg annually)** — this population-level observation challenges assumptions that meat consumption necessarily reduces lifespan, demonstrating that high meat intake can coexist with exceptional longevity when combined with high fish/seafood consumption, low smoking rates, efficient healthcare, and overall dietary context.
 
 ---

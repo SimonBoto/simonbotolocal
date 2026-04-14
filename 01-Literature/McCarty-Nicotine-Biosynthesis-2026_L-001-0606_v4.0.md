@@ -22,7 +22,7 @@ extraction-date: "2026-04-04"
 - **Inbox origin:** [[INBOX-2026-04-04-001_Nicotine_Biosynthesis_X_Post]]
 - **Reference note:** [[McCarty_2026_R-001-0606]]
 
-## Core Claim
+## Core Concepts Extracted
 After nearly 200 years, the complete nicotine biosynthesis pathway has been elucidated through massive crossing experiments (643 tobacco lines), revealing a two-ring fusion mechanism and enabling pathway reconstitution in four heterologous species.
 
 ---

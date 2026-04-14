@@ -1,6 +1,6 @@
 ---
 uid: L-001-0505
-type: litnote
+type: lit-note
 title: "Lit — Ancel Keys and the Diet-Heart Hypothesis (Scientific Legacy, Policy Impact, and Modern Reassessment)"
 aliases:
   - L-001-0505

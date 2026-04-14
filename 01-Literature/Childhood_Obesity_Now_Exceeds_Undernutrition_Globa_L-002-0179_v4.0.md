@@ -1,6 +1,6 @@
 ---
 uid: L-002-0179
-type: litnote
+type: lit-note
 title: "Childhood Obesity Now Exceeds Undernutrition Globally (Kavanagh 2026)"
 source-inbox: "[[INBOX-Article-10-Childhood-Obesity]]"
 authors: "Kavanagh ME, Chen ZH, Tamana SK, et al."
@@ -33,7 +33,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-10-Childhood-Obesity]]
 - **Reference note:** [[Kavanagh_2026_UPF_Children_Behavior_R-002-0023]]
 
-## Core Claim
+## Core Concepts Extracted
 For the **first time in human history**, obese children now outnumber undernourished children globally — a historic reversal driven by ultra-processed food consumption that represents a catastrophic failure of modern food systems and public health policy.
 
 ---

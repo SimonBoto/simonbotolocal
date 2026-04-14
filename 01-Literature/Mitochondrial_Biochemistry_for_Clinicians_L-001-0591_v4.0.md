@@ -1,6 +1,6 @@
 ---
 uid: L-001-0591
-type: litnote
+type: lit-note
 title: "Lit — Mitochondrial Biochemistry for Clinicians"
 aliases:
   - L-001-0591

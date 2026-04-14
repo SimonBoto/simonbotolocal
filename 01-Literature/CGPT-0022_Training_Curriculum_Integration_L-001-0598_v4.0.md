@@ -1,6 +1,6 @@
 ---
 uid: L-001-0598
-type: litnote
+type: lit-note
 title: "Lit — CGPT-0022 Training Curriculum Integration"
 aliases:
   - L-001-0598

@@ -44,7 +44,7 @@ tags:
 - **Date:** April 30, 2023
 - **Context:** Part of CGPT-0647 metabolic pathways exploration
 
-## Core Claim
+## Core Concepts Extracted
 Hyperinsulinemia systematically suppresses fatty acid oxidation through dual mechanisms: (1) inhibition of hormone-sensitive lipase reducing free fatty acid availability, and (2) malonyl-CoA-mediated inhibition of carnitine palmitoyltransferase I (CPT-1), blocking mitochondrial fatty acid entry. This creates **metabolic inflexibility** — the inability to switch between glucose and fatty acid oxidation based on nutrient availability.
 
 ## Core Concepts Extracted

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0573
-type: litnote
+type: lit-note
 title: Protein Intake and CKD Progression — Evidence Synthesis
 authors: ChatGPT synthesis from CGPT-0370
 year: 2024

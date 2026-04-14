@@ -1,6 +1,6 @@
 ---
 uid: L-002-0212
-type: litnote
+type: lit-note
 title: "Twelve Evidence-Based Actions for Better Health (Lifestyle Medicine Framework)"
 aliases: ["L-002-0212", "Twelve-Actions-Better-Health"]
 source-inbox: "[[INBOX-Article-31-Twelve-Actions]]"
@@ -34,7 +34,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-31-Twelve-Actions]]
 - **Reference note:** [[Twelve_Actions_Better_Health_R-002-0052]]
 
-## Core Claim
+## Core Concepts Extracted
 **Twelve evidence-based lifestyle actions substantially improve health outcomes, longevity, and quality of life** — organized into categories of diet (3 actions), movement (2), sleep (1), stress (2), social connection (1), environment (2), and mindset (1). This framework integrates Blue Zones longevity research with lifestyle medicine evidence, emphasizing that social relationships predict mortality as powerfully as smoking, while diet, movement, and sleep form the foundational pillars of health.
 
 ---

@@ -1,6 +1,6 @@
 ---
 uid: L-002-0205
-type: litnote
+type: lit-note
 title: "Alcohol Causes 1.8 Million Deaths Annually (GBD 2019)"
 aliases: ["L-002-0205", "Alcohol-1.8M-Deaths"]
 source-inbox: "[[INBOX-Article-24-Alcohol]]"
@@ -33,7 +33,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-24-Alcohol]]
 - **Reference note:** [[GBD_2019_Alcohol_1.8M_Deaths_R-002-0045]]
 
-## Core Claim
+## Core Concepts Extracted
 **Alcohol consumption causes 1.8 million deaths annually** (2019 data), making it the 9th leading risk factor for death globally — and critically, **there is no safe level of alcohol consumption**, with risk increasing progressively from the first drink.
 
 ---

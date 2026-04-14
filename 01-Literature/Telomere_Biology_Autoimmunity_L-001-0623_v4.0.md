@@ -1,6 +1,6 @@
 ---
 uid: L-001-0623
-type: litnote
+type: lit-note
 title: Telomere Biology and Cellular Aging in Autoimmunity
 authors: ChatGPT Analysis / Georgin-Lavialle et al.
 year: 2023

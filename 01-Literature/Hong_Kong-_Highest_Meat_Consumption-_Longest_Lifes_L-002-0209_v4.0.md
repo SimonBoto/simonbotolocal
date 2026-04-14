@@ -1,6 +1,6 @@
 ---
 uid: L-002-0209
-type: litnote
+type: lit-note
 title: "Hong Kong: Highest Meat Consumption, Longest Lifespan (Meat-Longevity Paradox)"
 aliases: ["L-002-0209", "Hong-Kong-Meat-Longevity"]
 source-inbox: "[[INBOX-Article-28-Hong-Kong]]"
@@ -34,7 +34,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-28-Hong-Kong]]
 - **Reference note:** [[Hong_Kong_Meat_Longevity_Paradox_R-002-0049]]
 
-## Core Claim
+## Core Concepts Extracted
 **Hong Kong demonstrates the meat-longevity paradox** — with the world's highest meat consumption AND longest life expectancy, it directly contradicts the assumption that meat reduces lifespan. The data suggests meat quality (fresh, unprocessed), preparation methods, and overall dietary pattern matter more than meat quantity alone.
 
 ---

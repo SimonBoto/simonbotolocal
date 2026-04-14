@@ -1,6 +1,6 @@
 ---
 uid: L-001-0622
-type: litnote
+type: lit-note
 title: Mitochondrial Gene Knockout Models — Energy Dysfunction and Disease
 authors: ChatGPT Analysis
 year: 2024

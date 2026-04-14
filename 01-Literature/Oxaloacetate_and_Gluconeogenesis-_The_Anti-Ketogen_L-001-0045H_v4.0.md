@@ -1,6 +1,6 @@
 ---
 uid: L-001-0045H
-type: litnote
+type: lit-note
 source-origin: chatgpt-archive
 title: "Oxaloacetate and Gluconeogenesis: The Anti-Ketogenic Switch"
 aliases:

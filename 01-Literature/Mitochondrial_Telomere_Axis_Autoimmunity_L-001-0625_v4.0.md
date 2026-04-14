@@ -1,6 +1,6 @@
 ---
 uid: L-001-0625
-type: litnote
+type: lit-note
 title: Mitochondrial Dysfunction and Telomere Shortening in Autoimmunity
 authors: ChatGPT Analysis / Georgin-Lavialle et al.
 year: 2023

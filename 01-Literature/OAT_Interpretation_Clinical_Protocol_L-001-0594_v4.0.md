@@ -1,6 +1,6 @@
 ---
 uid: L-001-0594
-type: litnote
+type: lit-note
 title: "Lit — OAT Interpretation Clinical Protocol"
 aliases:
   - L-001-0594

@@ -1,6 +1,6 @@
 ---
 uid: L-002-0210
-type: litnote
+type: lit-note
 title: "Not All Calories Are Equal — Metabolic Effects of Macronutrients (Ebbeling 2018)"
 aliases: ["L-002-0210", "Not-All-Calories-Equal"]
 source-inbox: "[[INBOX-Article-29-Calories]]"
@@ -34,7 +34,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-29-Calories]]
 - **Reference note:** [[Calories_Not_Equal_Metabolic_R-002-0050]]
 
-## Core Claim
+## Core Concepts Extracted
 **Calories are not metabolically equivalent** — the Framingham feeding study (Ebbeling et al., BMJ 2018) demonstrated that isocaloric diets with different carbohydrate content produce different energy expenditures. Low-carbohydrate diets (20% carbs) increased total energy expenditure by 278 kcal/day compared to high-carbohydrate diets (60% carbs), while thermic effect of food varies by macronutrient (protein 20-30%, carbs 5-10%, fats 0-3%).
 
 ---

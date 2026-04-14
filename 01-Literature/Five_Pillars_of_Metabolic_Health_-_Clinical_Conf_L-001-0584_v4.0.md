@@ -1,6 +1,6 @@
 ---
 uid: L-001-0584
-type: litnote
+type: lit-note
 title: "Lit — Five Pillars of Metabolic Health — Clinical Conference Framework"
 aliases:
   - L-001-0584

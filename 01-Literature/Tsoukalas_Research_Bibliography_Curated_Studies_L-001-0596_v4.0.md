@@ -1,6 +1,6 @@
 ---
 uid: L-001-0596
-type: litnote
+type: lit-note
 title: "Lit — Tsoukalas Research Bibliography Curated Studies"
 aliases:
   - L-001-0596

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0506
-type: litnote
+type: lit-note
 title: "Lit — Oleic Acid and Clinical Applications (Monounsaturated Fat, Mediterranean Pattern, and Metabolic Benefits)"
 aliases:
   - L-001-0506

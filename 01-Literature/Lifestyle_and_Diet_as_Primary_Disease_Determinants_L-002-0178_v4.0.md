@@ -1,6 +1,6 @@
 ---
 uid: L-002-0178
-type: litnote
+type: lit-note
 title: "Lifestyle and Diet as Primary Disease Determinants (NEJM 2025)"
 source-inbox: "[[INBOX-Article-8-Lifestyle-Determinants]]"
 authors: "Global Cardiovascular Risk Consortium"
@@ -34,7 +34,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-8-Lifestyle-Determinants]]
 - **Reference note:** [[NEJM_2025_Global_CV_Risk_Lifetime_Estimates_R-002-0037]]
 
-## Core Claim
+## Core Concepts Extracted
 Five modifiable risk factors — high blood pressure, cholesterol, body weight, diabetes, and smoking — collectively account for **14.5 extra years of life for women and 11.8 extra years for men** when absent, demonstrating that lifestyle and dietary interventions targeting these factors are the primary determinants of longevity and disease prevention.
 
 ---

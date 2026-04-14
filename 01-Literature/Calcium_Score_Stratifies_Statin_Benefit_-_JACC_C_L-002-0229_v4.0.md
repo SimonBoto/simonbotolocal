@@ -1,6 +1,6 @@
 ---
 uid: L-002-0229
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Calcium Score Stratifies Statin Benefit — JACC Cardiovascular Imaging 2025 (Szilveszter)"
 aliases: ["L-002-0229", "CAC-Statin-Benefit", "Calcium-Score-Stratification"]
@@ -38,7 +38,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-44-CAC-Statin]]
 - **Reference note:** [[Szilveszter_2025_CAC_Statin_Benefit_R-002-0060]]
 
-## Core Claim
+## Core Concepts Extracted
 **Coronary artery calcium (CAC) scoring stratifies statin benefit** — individuals with CAC = 0 or minimal plaque (<100) derive no benefit from statins, while those with CAC >400 or high-risk plaque features show clear benefit; CAC scoring helps avoid overtreatment in people without atherosclerotic disease and target treatment to those with significant established disease.
 
 ---

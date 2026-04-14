@@ -42,7 +42,7 @@ tags:
 - **Date:** October 27, 2024
 - **Context:** Part of CGPT-0264 cancer metabolism exploration
 
-## Core Claim
+## Core Concepts Extracted
 High-dose intravenous vitamin C represents a metabolic approach to cancer therapy—generating oxidative stress selectively in cancer cells (due to catalase deficiency) while potentially enhancing epigenetic regulation through TET enzyme cofactor activity. Best evidence supports use as adjunctive therapy rather than standalone treatment, with historical controversy stemming from pharmacokinetic misunderstandings between oral and IV routes.
 
 ## Core Concepts Extracted

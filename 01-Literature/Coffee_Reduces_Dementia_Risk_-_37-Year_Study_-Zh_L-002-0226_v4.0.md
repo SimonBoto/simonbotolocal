@@ -1,6 +1,6 @@
 ---
 uid: L-002-0226
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Coffee Reduces Dementia Risk — 37-Year Study (Zhang 2026, JAMA)"
 aliases: ["L-002-0226", "Coffee-Dementia-Risk", "Caffeine-Neuroprotection"]
@@ -38,7 +38,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-41-Coffee-Dementia]]
 - **Reference note:** [[Zhang_2026_Coffee_Tea_Dementia_R-001-0094]]
 
-## Core Claim
+## Core Concepts Extracted
 **Higher caffeinated coffee consumption is associated with significantly lower dementia risk** — a 37-year study of 132,000 participants found optimal protection at 2-3 cups/day of coffee or 1-2 cups/day of tea, with caffeine appearing to be the key neuroprotective component (decaffeinated beverages showed no benefit).
 
 ---

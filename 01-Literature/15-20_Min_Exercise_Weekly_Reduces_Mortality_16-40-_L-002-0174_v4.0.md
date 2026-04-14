@@ -1,6 +1,6 @@
 ---
 uid: L-002-0174
-type: litnote
+type: lit-note
 title: "15-20 Min Exercise Weekly Reduces Mortality 16-40% (Polo-López 2024)"
 source-inbox: "[[INBOX-Article-16-Minimal-Exercise]]"
 authors: "Polo-López A, Calatayud J, López-Bueno L, et al."
@@ -33,7 +33,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-16-Minimal-Exercise]]
 - **Reference note:** [[PoloLopez_2024_Minimal_Exercise_Mortality_R-002-0032]]
 
-## Core Claim
+## Core Concepts Extracted
 Even **15-20 minutes of vigorous exercise per week** is associated with **16-40% lower mortality risk**, with dose-response showing the greatest benefits at minimal doses — demonstrating that small amounts of physical activity provide substantial health protection.
 
 ---

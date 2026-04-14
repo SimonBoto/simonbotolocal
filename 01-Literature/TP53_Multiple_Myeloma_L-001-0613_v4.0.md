@@ -1,6 +1,6 @@
 ---
 uid: L-001-0613
-type: litnote
+type: lit-note
 title: "TP53 Multiple Myeloma Prognosis and Therapy"
 date: 2026-04-12
 authors: "ChatGPT Analysis (CGPT-0264)"

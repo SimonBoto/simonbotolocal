@@ -1,6 +1,6 @@
 ---
 uid: L-001-0575
-type: litnote
+type: lit-note
 title: "Lit — CKD Nutritional Assessment — Albumin vs Intake, Oxalate, and Glycemic Control"
 aliases:
   - L-001-0575

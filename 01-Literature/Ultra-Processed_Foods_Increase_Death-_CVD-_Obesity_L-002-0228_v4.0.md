@@ -1,6 +1,6 @@
 ---
 uid: L-002-0228
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Ultra-Processed Foods Increase Death, CVD, Obesity, Diabetes — BMJ Umbrella Review (Lane 2024)"
 aliases: ["L-002-0228", "UPF-Death-CVD-Obesity-Diabetes", "Lane-2024-BMJ"]
@@ -41,7 +41,7 @@ tags:
 - **Reference note:** [[Lane_2024_BMJ_UPF_Metaanalysis_R-002-0021]]
 - **Study type:** Umbrella review of 45 clinical studies
 
-## Core Claim
+## Core Concepts Extracted
 **Ultra-processed food consumption is associated with increased risk of death from all causes, cardiovascular disease mortality, mental health disorders, obesity, and type 2 diabetes** — the BMJ umbrella review of 45 studies demonstrates consistent harm across multiple health outcomes, with UPF disrupting satiety, metabolism, and promoting chronic inflammation through industrial processing and additives.
 
 ---

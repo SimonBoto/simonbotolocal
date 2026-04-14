@@ -1,6 +1,6 @@
 ---
 uid: L-001-0597
-type: litnote
+type: lit-note
 title: "Lit — Metabolomics Clinic Operations Manual"
 aliases:
   - L-001-0597

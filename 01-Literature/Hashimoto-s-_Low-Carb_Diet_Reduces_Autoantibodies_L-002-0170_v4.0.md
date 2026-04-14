@@ -1,6 +1,6 @@
 ---
 uid: L-002-0170
-type: litnote
+type: lit-note
 title: "Hashimoto's: Low-Carb Diet Reduces Autoantibodies (Huang 2024)"
 source-inbox: "[[INBOX-Article-4-Hashimoto]]"
 authors: "Huang XS, et al."
@@ -34,7 +34,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-4-Hashimoto]]
 - **Reference note:** [[Huang_2024_Hashimoto_LowCarb_MRI_R-002-0027]]
 
-## Core Claim
+## Core Concepts Extracted
 Low-carbohydrate diets reduce thyroid autoantibodies and inflammation in Hashimoto's thyroiditis through mechanisms involving reduced insulin resistance, decreased systemic inflammation, improved gut barrier function, and reduced oxidative stress.
 
 ## Clinical Context

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0592
-type: litnote
+type: lit-note
 title: "Lit — Fatty Acid Metabolism and Lipid Signaling"
 aliases:
   - L-001-0592

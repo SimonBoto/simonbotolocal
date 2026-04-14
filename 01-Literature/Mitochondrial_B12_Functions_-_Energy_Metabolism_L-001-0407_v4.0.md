@@ -1,6 +1,6 @@
 ---
 uid: L-001-0407
-type: litnote
+type: lit-note
 title: "Mitochondrial B12 Functions — Energy Metabolism and Exercise Performance"
 aliases:
   - L-001-0407

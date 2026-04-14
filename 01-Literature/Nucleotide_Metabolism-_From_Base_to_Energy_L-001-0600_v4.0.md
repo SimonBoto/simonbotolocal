@@ -1,6 +1,6 @@
 ---
 uid: L-001-0600
-type: litnote
+type: lit-note
 source-origin: chatgpt-archive
 title: "Nucleotide Metabolism: From Base to Energy"
 aliases:

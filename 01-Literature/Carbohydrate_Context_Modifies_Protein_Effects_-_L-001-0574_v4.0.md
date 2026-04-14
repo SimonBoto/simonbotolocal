@@ -1,6 +1,6 @@
 ---
 uid: L-001-0574
-type: litnote
+type: lit-note
 title: "Lit — Carbohydrate Context Modifies Protein Effects — The Missing Variable in CKD Research"
 aliases:
   - L-001-0574

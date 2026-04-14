@@ -1,6 +1,6 @@
 ---
 uid: L-002-0245
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Walking Reduces All-Cause Mortality Risk by More Than Half — JAMA 2023 (Paluch)"
 aliases: ["L-002-0245", "Walking-Mortality-Reduction", "8000-Steps-JAMA"]
@@ -38,7 +38,7 @@ tags:
 - **Reference note:** [[Paluch_2023_Walking_Mortality_JAMA_R-002-0068]]
 - **Type:** Prospective cohort study
 
-## Core Claim
+## Core Concepts Extracted
 **8,000 steps taken just 1-2 times per week reduces all-cause mortality risk by over 50% over 10 years** — with 70% reduction in men and 50% reduction in women. This represents one of the most powerful interventions in medicine, and even those who cannot walk daily achieve impressive health benefits from minimal walking frequency.
 
 ---

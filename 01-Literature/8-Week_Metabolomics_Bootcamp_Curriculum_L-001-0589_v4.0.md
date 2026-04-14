@@ -1,6 +1,6 @@
 ---
 uid: L-001-0589
-type: litnote
+type: lit-note
 title: "Lit — 8-Week Metabolomics Bootcamp Curriculum"
 aliases:
   - L-001-0589

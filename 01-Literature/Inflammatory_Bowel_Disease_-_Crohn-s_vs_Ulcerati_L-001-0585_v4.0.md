@@ -1,6 +1,6 @@
 ---
 uid: L-001-0585
-type: litnote
+type: lit-note
 title: "Lit — Inflammatory Bowel Disease — Crohn's vs Ulcerative Colitis Pathophysiology"
 aliases:
   - L-001-0585

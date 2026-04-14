@@ -1,6 +1,6 @@
 ---
 uid: L-002-0176
-type: litnote
+type: lit-note
 title: "High-Fat Cheese Linked to Reduced Dementia Risk (Du 2026)"
 source-inbox: "[[INBOX-Article-11-Cheese-Dementia]]"
 authors: "Du Y, Borné Y, Samuelsson J, Glans I, Hu X, Nägga K, et al."
@@ -34,7 +34,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-11-Cheese-Dementia]]
 - **Reference note:** [[Du_2026_HighFat_Dairy_Dementia_25yr_R-002-0031]]
 
-## Core Claim
+## Core Concepts Extracted
 High-fat dairy consumption, particularly cheese, is associated with **reduced long-term dementia risk** over 25-year follow-up, while low-fat dairy shows neutral effects — challenging conventional dietary advice to avoid saturated fat for brain health.
 
 ---

@@ -1,6 +1,6 @@
 ---
 uid: L-002-0171
-type: litnote
+type: lit-note
 title: "High LDL Not Linked to Mortality in Healthy People (Kip 2024)"
 source-inbox: "[[INBOX-Article-5-LDL-Mortality]]"
 authors: "Kip KE, Diamond D, Mulukutla S, Marroquin OC"
@@ -34,7 +34,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-5-LDL-Mortality]]
 - **Reference note:** [[Kip_2024_LDL_Mortality_Primary_Prevention_R-002-0028]]
 
-## Core Claim
+## Core Concepts Extracted
 High LDL cholesterol is **not associated with increased all-cause or cardiovascular mortality** in adults without pre-existing cardiovascular disease (primary prevention population), challenging universal statin prescription and LDL-centric risk assessment.
 
 ---

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0582
-type: litnote
+type: lit-note
 title: "Lit — MAO and DAO Enzymes — Monoamine and Diamine Oxidase Function and Interactions"
 aliases:
   - L-001-0582

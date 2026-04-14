@@ -1,6 +1,6 @@
 ---
 uid: L-002-0222
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Stopping Sugar and Carbs: Metabolic Effects and Health Impact (Teicholz 2025, PURE)"
 aliases: ["L-002-0222", "Stopping-Sugar-Carbs", "Low-Carb-Metabolic"]
@@ -44,7 +44,7 @@ tags:
   - [[Dehghan_2017_PURE_Carbohydrate_Mortality_R-002-0057]]
   - [[Harvey_2019_Carb_Withdrawal_KetoAdaptation_R-002-0033]]
 
-## Core Claim
+## Core Concepts Extracted
 **Reducing sugar and carbohydrate intake produces profound metabolic benefits** — 90% of the population has metabolic dysfunction, and low-carb/ketogenic diets increase energy, reduce inflammation, and address chronic diseases; the PURE study (135,335 people) found higher carbohydrate intake associated with increased mortality, not decreased, challenging conventional dietary guidelines.
 
 ---

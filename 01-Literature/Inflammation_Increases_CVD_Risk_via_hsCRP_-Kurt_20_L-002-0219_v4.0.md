@@ -1,6 +1,6 @@
 ---
 uid: L-002-0219
-type: litnote
+type: lit-note
 title: "Inflammation Increases CVD Risk via hsCRP (Kurt 2025)"
 aliases: ["L-002-0219"]
 source-inbox: "[[INBOX-Article-15-Inflammation-CRP]]"
@@ -35,7 +35,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-15-Inflammation-CRP]]
 - **Reference note:** [[Kurt_2025_CRP_CVD_Risk_R-002-0025]]
 
-## Core Claim
+## Core Concepts Extracted
 **Elevated C-reactive protein (CRP) predicts cardiovascular events even in people without known cardiovascular disease** — hsCRP serves as a critical biomarker for low-grade chronic inflammation that drives atherosclerosis and cardiovascular risk independent of traditional risk factors.
 
 ---

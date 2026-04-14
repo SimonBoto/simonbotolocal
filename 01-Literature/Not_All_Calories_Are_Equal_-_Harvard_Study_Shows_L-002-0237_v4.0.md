@@ -1,6 +1,6 @@
 ---
 uid: L-002-0237
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Not All Calories Are Equal — Harvard Study Shows Low-Carb Increases Energy Expenditure (Ebbeling 2018)"
 aliases: ["L-002-0237", "Not-All-Calories-Equal-Harvard", "Calories-Not-Equal"]
@@ -40,7 +40,7 @@ tags:
 - **Study:** Harvard Medical School researchers
 - **Participants:** 164 adults who had already lost weight
 
-## Core Claim
+## Core Concepts Extracted
 **When carbohydrates are reduced, the body burns more calories — a calorie is not just a calorie** — the Harvard study demonstrates that low-carb diets (20% carbs) increase total energy expenditure compared to high-carb diets (60% carbs), with metabolic advantages including reduced insulin signaling, increased fat oxidation, and better weight loss maintenance through preserved satiety and reduced metabolic slowdown.
 
 ---

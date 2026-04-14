@@ -1,6 +1,6 @@
 ---
 uid: L-001-0603
-type: litnote
+type: lit-note
 source-origin: chatgpt-archive
 title: Amino Acid Catabolism and Krebs Integration
 aliases:

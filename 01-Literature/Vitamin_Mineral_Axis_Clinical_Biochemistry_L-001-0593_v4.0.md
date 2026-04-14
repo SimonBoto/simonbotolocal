@@ -1,6 +1,6 @@
 ---
 uid: L-001-0593
-type: litnote
+type: lit-note
 title: "Lit — Vitamin Mineral Axis Clinical Biochemistry"
 aliases:
   - L-001-0593

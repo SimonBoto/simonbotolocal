@@ -21,7 +21,7 @@ extraction-date: "2026-04-04"
 - **Inbox origin:** [[INBOX-2026-04-04-002_Pauling_Vitamin_C_Thread]]
 - **Reference note:** [[KingOfVitamins_2025_R-001-0656]]
 
-## Core Claim
+## Core Concepts Extracted
 Linus Pauling, the only person to win two unshared Nobel Prizes, was ridiculed by the medical establishment for his high-dose vitamin C recommendations, but modern research is validating his claims about optimal vs. deficiency-level intake, evolutionary biology of vitamin C dependency, and potential therapeutic applications.
 
 ---

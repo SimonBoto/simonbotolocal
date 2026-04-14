@@ -1,6 +1,6 @@
 ---
 uid: L-002-0240
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Lifestyle and Diet: Most Determinant Disease Factors Are Modifiable — BMJ 95.7% Improvement"
 aliases: ["L-002-0240", "Lifestyle-Diet-Modifiable-Factors", "BMJ-95-Percent"]
@@ -39,7 +39,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-53-Lifestyle-Diet]]
 - **Reference note:** [[BMJ_Modifiable_Factors_95_Improvement_R-002-0065]]
 
-## Core Claim
+## Core Concepts Extracted
 **95.7% of patients with chronic diseases show health improvement when deficiencies and metabolic disorders are identified and corrected using metabolomic analysis** — most determinant disease factors are modifiable through lifestyle and diet interventions, yet standard laboratory tests often miss these root causes, leading to years of inadequate treatment and symptom management only.
 
 ---

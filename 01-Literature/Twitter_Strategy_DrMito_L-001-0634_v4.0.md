@@ -1,13 +1,4 @@
 ---
-source-inbox: "[[00-Inbox]]"
-reviewed_by: "FORG"
-tier: "SILVER"
-relevance: "Medium — clinical biochemistry"
----
-
-uid: L-001-0634
-type: litnote
-title: LitNote — Twitter/X Strategy for DrMito (CGPT-0318)
 domain: 001
 date: 2026-03-09
 source: CGPT-0318 (Messages 3-155, 163-214)
@@ -24,9 +15,9 @@ reference-count: 0
 **Date:** July 18, 2024  
 **Messages:** 214 total (strategy focus: 3-155, 163-214)  
 **Context:** Building "DrMito" health influencer profile
+parent-moc: "[[MOC-Mitochondrial-Function]]"
+---
 
-
-## Profile Identity
 
 ### Name Evolution
 - **Initial:** DrX_Mitochondria / DrX_Mito

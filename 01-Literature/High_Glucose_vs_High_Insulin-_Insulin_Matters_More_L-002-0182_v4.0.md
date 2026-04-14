@@ -1,6 +1,6 @@
 ---
 uid: L-002-0182
-type: litnote
+type: lit-note
 title: "High Glucose vs High Insulin: Insulin Matters More for CVD (Zhao 2019)"
 source-inbox: "[[INBOX-Article-13-Insulin-Glucose]]"
 authors: "Zhao Y, et al."
@@ -33,7 +33,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-13-Insulin-Glucose]]
 - **Reference note:** [[Zhao_2019_Insulin_CVD_Mortality_R-002-0026]]
 
-## Core Claim
+## Core Concepts Extracted
 **Elevated insulin levels are more predictive of cardiovascular mortality than elevated glucose levels** — challenging the glucose-centric model of diabetes complications and highlighting insulin resistance/hyperinsulinemia as the primary driver of cardiovascular disease in metabolic dysfunction.
 
 ---

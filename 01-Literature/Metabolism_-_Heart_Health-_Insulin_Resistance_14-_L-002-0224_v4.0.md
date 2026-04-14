@@ -1,6 +1,6 @@
 ---
 uid: L-002-0224
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Metabolism & Heart Health: Insulin Resistance 14× CAD Risk (Pasut 2025, Metabolic Literature)"
 aliases: ["L-002-0224", "Metabolism-Heart-Health", "Insulin-14x-CAD"]
@@ -41,7 +41,7 @@ tags:
   - [[Pasut_2025_Endothelial_Metabolism_R-001-0082]]
   - [[Insulin_Resistance_14x_CAD_Risk_Literature_R-002-0058]]
 
-## Core Claim
+## Core Concepts Extracted
 **Insulin resistance carries 14 times greater risk for coronary artery disease compared to isolated cholesterol elevation** — metabolic factors (energy production, nutrient adequacy, insulin action, inflammation management) dominate cardiovascular health, while cholesterol is only one part and not the main determinant; type 2 diabetes, hypertension, obesity, and kidney dysfunction create ground for CVD years before symptoms appear.
 
 ---

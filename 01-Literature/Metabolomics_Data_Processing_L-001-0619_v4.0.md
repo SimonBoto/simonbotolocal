@@ -1,6 +1,6 @@
 ---
 uid: L-001-0619
-type: litnote
+type: lit-note
 title: "Metabolomics Data Processing METHAP"
 date: 2026-04-12
 authors: "ChatGPT Analysis (CGPT-0475)"

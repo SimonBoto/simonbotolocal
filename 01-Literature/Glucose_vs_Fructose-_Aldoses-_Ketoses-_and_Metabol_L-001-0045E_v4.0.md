@@ -1,6 +1,6 @@
 ---
 uid: L-001-0045E
-type: litnote
+type: lit-note
 source-origin: chatgpt-archive
 title: "Glucose vs Fructose: Aldoses, Ketoses, and Metabolic Fate"
 aliases:

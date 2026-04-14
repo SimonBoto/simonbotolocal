@@ -1,6 +1,6 @@
 ---
 uid: L-001-0615
-type: litnote
+type: lit-note
 title: PhD Study Design and Methodology METHAP Trial
 authors: ChatGPT Analysis (CGPT-0475)
 year: 2024

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0406
-type: litnote
+type: lit-note
 title: "Methionine Catabolism and Transsulfuration Pathway"
 aliases:
   - L-001-0406

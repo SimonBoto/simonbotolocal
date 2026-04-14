@@ -1,6 +1,6 @@
 ---
 uid: L-001-0521
-type: litnote
+type: lit-note
 title: Scientific Writing — Critical Assessment Methodology for Study Evaluation
 authors: ChatGPT Analysis from CGPT-0328
 year: 2024

@@ -1,6 +1,6 @@
 ---
 uid: L-002-0235
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Low-Carb vs Low-Fat for Weight Loss: 39 RCTs Show Low-Carb Superior (Meta-Analysis)"
 aliases: ["L-002-0235", "Low-Carb-vs-Low-Fat-39-RCTs", "Low-Carb-Superiority"]
@@ -38,7 +38,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-48-Low-Carb-Low-Fat]]
 - **Reference note:** [[Low_Carb_Low_Fat_39_RCTs_Meta_Analysis_R-002-0062]]
 
-## Core Claim
+## Core Concepts Extracted
 **Low-carbohydrate diets are consistently superior to low-fat diets for weight loss across 39 randomized controlled trials, with better adherence rates (79.51% vs 77.72%) and additional metabolic benefits including improved cardiovascular risk markers, reduced insulin resistance, and better diabetes control** — the higher quality fats and protein in low-carb diets restore satiety, enabling better long-term dietary control and motivation through visible health improvements.
 
 ---

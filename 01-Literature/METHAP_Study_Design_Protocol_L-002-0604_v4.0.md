@@ -1,6 +1,6 @@
 ---
 uid: L-002-0604
-type: litnote
+type: lit-note
 title: "METHAP Study Design and Protocol — IRB Application"
 authors: "Simos Xenidis, PhD Candidate"
 year: 2024

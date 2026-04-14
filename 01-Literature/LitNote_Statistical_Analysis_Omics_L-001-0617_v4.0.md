@@ -1,6 +1,6 @@
 ---
 uid: L-001-0617
-type: litnote
+type: lit-note
 title: "Lit — Statistical Analysis for Omics Research METHAP"
 aliases:
   - L-001-0617

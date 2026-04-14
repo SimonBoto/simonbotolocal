@@ -1,6 +1,6 @@
 ---
 uid: L-002-0175
-type: litnote
+type: lit-note
 title: "Elevated Uric Acid: Fructose, Alcohol & Processed Foods (Chi 2024)"
 source-inbox: "[[INBOX-Article-17-Uric-Acid]]"
 authors: "Chi X, Cen Y, Yang B, et al."
@@ -34,7 +34,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-17-Uric-Acid]]
 - **Reference note:** [[Chi_2024_Fructose_UricAcid_Meta_R-002-0030]]
 
-## Core Claim
+## Core Concepts Extracted
 High fructose intake significantly increases hyperuricemia and gout risk through metabolic mechanisms involving rapid ATP depletion and uric acid production; alcohol and processed foods further elevate uric acid, while dietary modifications can effectively reduce serum uric acid levels.
 
 ---

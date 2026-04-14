@@ -1,6 +1,6 @@
 ---
 uid: L-001-0511
-type: litnote
+type: lit-note
 title: "Lit — Mitochondrial Health Strategies — Metabolic Flexibility, Biogenesis, and Metabolomics-Guided Interventions"
 aliases:
   - L-001-0511

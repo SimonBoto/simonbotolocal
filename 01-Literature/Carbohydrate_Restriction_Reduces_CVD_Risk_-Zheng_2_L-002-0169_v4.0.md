@@ -1,6 +1,6 @@
 ---
 uid: L-002-0169
-type: litnote
+type: lit-note
 title: "Carbohydrate Restriction Reduces CVD Risk (Zheng 2025)"
 source-inbox: "[[INBOX-Article-3-Carb-Restriction]]"
 authors: "Zheng Q, Gao X, Ruan X, et al."
@@ -32,7 +32,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-3-Carb-Restriction]]
 - **Reference note:** [[Zheng_2025_LCD_Metabolic_Syndrome_Meta_R-002-0035]]
 
-## Core Claim
+## Core Concepts Extracted
 Low-carbohydrate diets reduce cardiovascular disease risk by improving all components of metabolic syndrome (waist circumference, triglycerides, HDL, blood pressure, fasting glucose) through mechanisms centered on reducing insulin resistance.
 
 ---

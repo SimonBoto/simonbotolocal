@@ -1,6 +1,6 @@
 ---
 uid: L-002-0223
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "CVD Risk Factors Priority Ranking — LDL is #10 (Dugani 2021, Ikezaki 2021, Diamond 2022)"
 aliases: ["L-002-0223", "CVD-Risk-Factors-Ranking", "LDL-Number-10"]
@@ -44,7 +44,7 @@ tags:
   - [[Ikezaki_2021_Small_Dense_LDL_Framingham_R-001-0007]]
   - [[Diamond_2022_Statin_Low_Carb_R-001-0101]]
 
-## Core Claim
+## Core Concepts Extracted
 **Elevated LDL cholesterol ranks #10 in cardiovascular risk factor importance** — below diabetes, insulin resistance, hypertension, smoking, low HDL, elevated triglycerides, small dense LDL, increased body weight, and elevated Lp(a); the metabolic cluster (hypertension + high triglycerides + low HDL + sdLDL + obesity) represents manifestations of insulin resistance covering ~80% of CVD risk, not separate independent factors.
 
 ---

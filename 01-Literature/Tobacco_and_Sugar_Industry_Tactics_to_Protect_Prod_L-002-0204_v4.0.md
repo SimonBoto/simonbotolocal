@@ -1,6 +1,6 @@
 ---
 uid: L-002-0204
-type: litnote
+type: lit-note
 title: "Tobacco and Sugar Industry Tactics to Protect Products (Kearns 2016)"
 aliases: ["L-002-0204", "Industry-Tactics-Tobacco-Sugar"]
 source-inbox: "[[INBOX-Article-23-Industry-Tactics]]"
@@ -35,7 +35,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-23-Industry-Tactics]]
 - **Reference note:** [[Kearns_2016_Sugar_Industry_Documents_R-002-0044]]
 
-## Core Claim
+## Core Concepts Extracted
 The sugar industry employed **the same tactics as the tobacco industry** — hiding evidence, funding favorable research, attacking scientists, and delaying regulation — to shift blame from sugar to saturated fat for heart disease, corrupting nutrition science and policy for over 50 years.
 
 ---

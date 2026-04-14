@@ -1,6 +1,6 @@
 ---
 uid: L-002-0221
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "High Glucose vs High Insulin: Insulin Matters More for CVD (ACCORD & Literature)"
 aliases: ["L-002-0221", "Glucose-vs-Insulin", "Insulin-CVD-Paradigm"]
@@ -39,7 +39,7 @@ tags:
 - **Reference note:** [[Glucose_vs_Insulin_CVD_Literature_R-002-0056]]
 - **Note:** Literature synthesis from multiple sources
 
-## Core Claim
+## Core Concepts Extracted
 **Insulin levels matter more than glucose levels for cardiovascular disease** — the ACCORD study and subsequent research demonstrate that intensive glucose lowering (which increases insulin) can increase mortality, while insulin resistance and hyperinsulinemia are the primary drivers of large vessel disease (heart attacks, strokes), challenging the glucose-centric paradigm of diabetes management.
 
 ---

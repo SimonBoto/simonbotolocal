@@ -1,6 +1,6 @@
 ---
 uid: L-002-0239
-type: litnote
+type: lit-note
 source-origin: facebook-article
 title: "Twelve Actions for Better Health in 2026 — Lifestyle Medicine Protocol"
 aliases: ["L-002-0239", "Twelve-Actions-Better-Health-2026", "12-Actions-Health"]
@@ -37,7 +37,7 @@ tags:
 - **Inbox origin:** [[INBOX-Article-52-Twelve-Actions]]
 - **Reference note:** [[Twelve_Actions_Better_Health_2026_R-002-0064]]
 
-## Core Claim
+## Core Concepts Extracted
 **Twelve evidence-based actions spanning diet, supplementation, and lifestyle factors can significantly improve metabolic health, cardiovascular risk profiles, immune function, mental health, and energy levels** — the protocol emphasizes eliminating ultra-processed foods, prioritizing whole nutrient-dense foods, using traditional fats, reducing carbohydrates, ensuring adequate protein, correcting micronutrient deficiencies, optimizing vitamin D, engaging in regular physical activity, prioritizing sleep, managing stress, getting outdoor time, and avoiding smoking and excess alcohol.
 
 ---

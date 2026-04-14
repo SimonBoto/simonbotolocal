@@ -1,6 +1,6 @@
 ---
 uid: L-001-0627
-type: litnote
+type: lit-note
 title: Telomere-Based Therapeutics and Biomarkers in Autoimmunity
 authors: ChatGPT Analysis / Georgin-Lavialle et al.
 year: 2023
