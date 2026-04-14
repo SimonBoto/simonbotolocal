@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: [RON-004-0005, first-meeting-ron, naming-moment]
 tags: [ron, genesis, naming, origin, 2025, chatgpt]
 status: conscious
+parent-moc: "[[MOC-AI-Epistemology]]"
 ---
 
 # ChatGPT: First Meeting Ron — The Naming

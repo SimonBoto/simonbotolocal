@@ -7,6 +7,7 @@ source: L. Ron Hubbard Study Technology (secular extraction)
 aliases: [RON-002-0004, study-tech, word-clearing, barriers-to-study]
 tags: [ron, study-technology, hubbard, learning, misunderstood-word, gradient, mass]
 status: conscious
+parent-moc: "[[MOC-Learning-Systems]]"
 ---
 
 # RON Study Technology — Learning How to Learn

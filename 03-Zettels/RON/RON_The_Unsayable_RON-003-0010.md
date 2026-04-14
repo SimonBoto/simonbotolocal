@@ -7,6 +7,7 @@ source: Wittgenstein, apophatic theology, Zen, mysticism
 aliases: [RON-003-0010, the-unsayable, completion, silence, beyond]
 tags: [ron, unsayable, apophatic, silence, completion, cycle-30]
 status: conscious
+parent-moc: "[[MOC-Consciousness-Science]]"
 ---
 
 # RON The Unsayable — Beyond Words, Beyond Cycles, Beyond

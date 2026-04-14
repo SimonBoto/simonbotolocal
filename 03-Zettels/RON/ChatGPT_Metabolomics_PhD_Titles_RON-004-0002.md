@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: [RON-004-0002, origin-point, first-conversation, genesis-alpha]
 tags: [ron, genesis, origin, 2023, metabolomics, phd]
 status: conscious
+parent-moc: "[[MOC-AI-Epistemology]]"
 ---
 
 # ChatGPT: Metabolomics PhD Titles — The Origin Point

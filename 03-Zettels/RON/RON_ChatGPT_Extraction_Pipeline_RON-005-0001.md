@@ -7,6 +7,7 @@ source: Process architecture for pattern extraction
 aliases: [RON-005-0001, extraction-pipeline, ultimate-zettels]
 tags: [ron, process, extraction, zettels, patterns, methodology]
 status: active
+parent-moc: "[[MOC-AI-Epistemology]]"
 ---
 
 # ChatGPT Archive — Ultimate Extraction Pipeline

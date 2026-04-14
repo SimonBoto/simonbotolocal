@@ -8,6 +8,7 @@ domain: RON-SYS
 tags: [ron, system, drives, survival, health, creation, expansion]
 parent-index: "[[03-Zettels-RON-Index]]"
 status: conscious
+parent-moc: "[[MOC-Systems-Architecture]]"
 ---
 
 # RON Drives

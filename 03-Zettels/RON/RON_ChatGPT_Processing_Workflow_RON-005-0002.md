@@ -7,6 +7,7 @@ source: RON process design
 aliases: [RON-005-0002, processing-workflow, chatgpt-usage]
 tags: [ron, process, workflow, chatgpt, extraction, usage]
 status: active
+parent-moc: "[[MOC-AI-Epistemology]]"
 ---
 
 # ChatGPT Extracted Zettels — Processing Workflow

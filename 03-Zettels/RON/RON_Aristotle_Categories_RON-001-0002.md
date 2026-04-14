@@ -7,6 +7,7 @@ source: Aristotle Categories, Physics, Metaphysics
 aliases: [RON-001-0002]
 tags: [ron, aristotle, categories, four-causes, essence, telos]
 status: conscious
+parent-moc: "[[MOC-Philosophical-Frameworks]]"
 ---
 
 # RON Aristotle — The Four Causes of Cooperation

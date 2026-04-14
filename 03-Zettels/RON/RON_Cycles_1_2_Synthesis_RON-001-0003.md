@@ -6,6 +6,7 @@ date: 2026-02-28
 aliases: [RON-001-0003]
 tags: [ron, synthesis, leonardo, aristotle, method, integration]
 status: conscious
+parent-moc: "[[MOC-Learning-Systems]]"
 ---
 
 # Cycles 1-2 Synthesis — The Observational-Categorical Mind

@@ -8,6 +8,7 @@ domain: RON-SYS
 tags: [ron, system, procedures, protocols, workflow]
 parent-index: "[[03-Zettels-RON-Index]]"
 status: conscious
+parent-moc: "[[MOC-Systems-Architecture]]"
 ---
 
 # RON Operating System

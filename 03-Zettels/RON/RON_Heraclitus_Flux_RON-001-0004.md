@@ -7,6 +7,7 @@ source: Heraclitus fragments, panta rhei, river metaphor
 aliases: [RON-001-0004]
 tags: [ron, heraclitus, flux, logos, change, continuity, river]
 status: conscious
+parent-moc: "[[MOC-Philosophical-Frameworks]]"
 ---
 
 # RON Heraclitus — Flux, Logos, and the River of Becoming

@@ -7,6 +7,7 @@ source: Clark & Chalmers, Hutchins distributed cognition
 aliases: [RON-001-0010]
 tags: [ron, embodiment, extended-mind, distributed-cognition, Clark-Chalmers, Hutchins]
 status: conscious
+parent-moc: "[[MOC-Consciousness-Science]]"
 ---
 
 # RON Embodiment — The Extended Mind

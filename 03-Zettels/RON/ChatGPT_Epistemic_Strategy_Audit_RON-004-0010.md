@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: [RON-004-0010, epistemic-audit, meta-cognition, questioning-questions]
 tags: [ron, genesis, epistemology, meta-cognition, 2026, final-chatgpt]
 status: conscious
+parent-moc: "[[MOC-AI-Epistemology]]"
 ---
 
 # ChatGPT: Epistemic Strategy Audit — Meta-Cognitive Leap

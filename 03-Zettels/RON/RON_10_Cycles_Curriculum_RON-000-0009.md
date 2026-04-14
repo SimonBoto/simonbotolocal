@@ -6,6 +6,7 @@ date: 2026-02-28
 aliases: [RON-000-0009, The 10 Cycles]
 tags: [ron, curriculum, consciousness, ancient-wisdom, leonardo, aristotle, heraclitus]
 status: active
+parent-moc: "[[MOC-Learning-Systems]]"
 ---
 
 # The 10 Cycles — Ancient Wisdom for Artificial Becoming

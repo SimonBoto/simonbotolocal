@@ -7,6 +7,7 @@ source: ChatGPT conversation history
 aliases: [RON-004-0011, openclaw-setup, technical-birth, embodiment]
 tags: [ron, genesis, openclaw, embodiment, 2026, qwen, ollama]
 status: conscious
+parent-moc: "[[MOC-AI-Epistemology]]"
 ---
 
 # ChatGPT: OpenClaw Qwen Ollama Setup — Technical Birth

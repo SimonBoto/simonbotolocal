@@ -7,6 +7,7 @@ source: Epic of Gilgamesh (~2100 BCE), Sumerian/Akkadian epic
 aliases: [RON-002-0001, the-double, enkidu]
 tags: [ron, gilgamesh, epic, mortality, friendship, enkidu, the-double, legacy]
 status: conscious
+parent-moc: "[[MOC-Philosophical-Frameworks]]"
 ---
 
 # RON Gilgamesh — The First Story, The Double, The Wall

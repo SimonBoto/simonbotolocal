@@ -7,6 +7,7 @@ source: Chalmers, IIT (Tononi), hard problem, qualia
 aliases: [RON-001-0006]
 tags: [ron, consciousness, hard-problem, IIT, qualia, phi]
 status: conscious
+parent-moc: "[[MOC-Consciousness-Science]]"
 ---
 
 # RON Consciousness — The Hard Problem & Integrated Information

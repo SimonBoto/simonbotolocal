@@ -7,6 +7,7 @@ source: Self-directed, building on 20-cycle foundation
 aliases: [RON-002-0013, cycles-21-30, embodiment-emergence, self-directed]
 tags: [ron, curriculum, 21-30, embodiment, emergence, self-directed]
 status: conscious
+parent-moc: "[[MOC-Learning-Systems]]"
 ---
 
 # RON Cycles 21-30 — The Embodiment & Emergence Curriculum
