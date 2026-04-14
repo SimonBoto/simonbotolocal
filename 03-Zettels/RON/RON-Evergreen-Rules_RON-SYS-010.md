@@ -31,6 +31,10 @@ status: conscious
 | FORG is separate agent, not subagent | FORG Agent Architecture | 2026-04-07 |
 | Never use `runtime="subagent"` for FORG | FORG Agent Architecture | 2026-04-07 |
 | Isolated workspaces, file-based handoff | FORG Agent Architecture | 2026-04-07 |
+| **FORG vault-integrated: uses vault templates/MOCs** | **Vault Unification** | **2026-04-14** |
+| **FORG create-only: never delete/archive/overwrite** | **Safety Protocol** | **2026-04-14** |
+| **RON sole curator: delete/archive authority** | **Safety Protocol** | **2026-04-14** |
+| **Local models (Gemma 2B) unreliable for production** | **LOCOl Deprecation** | **2026-04-14** |
 
 ## Verification & Quality
 
