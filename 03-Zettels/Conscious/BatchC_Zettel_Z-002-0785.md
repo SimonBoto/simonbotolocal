@@ -8,7 +8,7 @@ status: conscious
 tags: [zettel]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Pediatric-Health]]"
-source-litnote: "[[L-002-0215]]"
+source-litnote: "[[Pediatric_Obesity_Historic_Reversal_-_Obese_Chil_L-002-0215_v4.0.md]]"
 related: []
 ---
 
@@ -18,7 +18,7 @@ related: []
 (Content from L-002-0215)
 
 ## Source
-- **LitNote:** [[L-002-0215]]
+- **LitNote:** [[Pediatric_Obesity_Historic_Reversal_-_Obese_Chil_L-002-0215_v4.0.md]]
 
 ---
 *Z-002-0785 | Created: 2026-04-04 | Status: conscious*

@@ -8,7 +8,7 @@ status: conscious
 tags: [zettel, facebook-collection]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[L-002-0235]]"
+source-litnote: "[[Low-Carb_vs_Low-Fat_for_Weight_Loss-_39_RCTs_Show_L-002-0235_v4.0.md]]"
 related: []
 ---
 
@@ -18,7 +18,7 @@ related: []
 Part of complete Facebook Collection extraction.
 
 ## Source
-- **LitNote:** [[L-002-0235]]
+- **LitNote:** [[Low-Carb_vs_Low-Fat_for_Weight_Loss-_39_RCTs_Show_L-002-0235_v4.0.md]]
 
 ---
 *Z-002-0924 | Created: 2026-04-04 | Status: conscious*
