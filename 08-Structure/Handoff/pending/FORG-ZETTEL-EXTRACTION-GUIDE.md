@@ -107,7 +107,7 @@ Before saving each zettel:
 **LitNotes to process:** 25 files, ~200 zettels
 
 **Priority order:**
-1. L-001-0576 (ALP) — 6 zettels — RON created 1 exemplar
+1. L-001-0576 (ALP) — 6 zettels — RON created 1 exemplar — ✅ COMPLETE
 2. L-001-0574 (Carb Context) — 6 zettels
 3. L-001-0575 (CKD Nutrition) — 6 zettels
 4. Remaining 22 LitNotes
