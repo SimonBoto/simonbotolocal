@@ -17,6 +17,10 @@ status: conscious
 
 The complete nicotine biosynthesis pathway was functionally **reconstituted in four different species** — yeast, tomato, eggplant, and peas — demonstrating portability and validating the complete enzyme set.
 
+## Core Principle
+
+The complete nicotine biosynthesis pathway was functionally **reconstituted in four different species** — yeast, tomato, eggplant, and peas — demonstrating portability and validating the complete enzyme set.
+
 ## Species Successfully Transformed
 
 | Species | Type | Significance |
@@ -25,6 +29,10 @@ The complete nicotine biosynthesis pathway was functionally **reconstituted in f
 | **Tomato** | Fruit | Edible nicotine source? |
 | **Eggplant** | Vegetable | Solanaceae relative (like tobacco) |
 | **Pea** | Legume | Distant relative — proves portability |
+
+## Core Principle
+
+The complete nicotine biosynthesis pathway was functionally **reconstituted in four different species** — yeast, tomato, eggplant, and peas — demonstrating portability and validating the complete enzyme set.
 
 ## Why This Matters
 
@@ -43,6 +51,10 @@ The complete nicotine biosynthesis pathway was functionally **reconstituted in f
 - Enzymes function across kingdoms
 - Foundation for pathway engineering
 
+## Core Principle
+
+The complete nicotine biosynthesis pathway was functionally **reconstituted in four different species** — yeast, tomato, eggplant, and peas — demonstrating portability and validating the complete enzyme set.
+
 ## Technical Achievement
 
 Reconstituting a **200-year mystery pathway** in four species required:
@@ -50,11 +62,19 @@ Reconstituting a **200-year mystery pathway** in four species required:
 - Proper expression and localization
 - Functional validation via metabolite detection
 
+## Core Principle
+
+The complete nicotine biosynthesis pathway was functionally **reconstituted in four different species** — yeast, tomato, eggplant, and peas — demonstrating portability and validating the complete enzyme set.
+
 ## Future Directions
 
 - Optimize for industrial production
 - Engineer nicotine analogs
 - Study pathway regulation
+
+## Core Principle
+
+The complete nicotine biosynthesis pathway was functionally **reconstituted in four different species** — yeast, tomato, eggplant, and peas — demonstrating portability and validating the complete enzyme set.
 
 ## Source
 [[LitNote_McCarty_Nicotine_Biosynthesis_2026_L-001-0606]] — McCarty (2026)

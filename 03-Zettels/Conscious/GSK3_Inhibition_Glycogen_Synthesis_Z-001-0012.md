@@ -36,9 +36,17 @@ created: 2026-02-22
 - Insulin and glucagon are opposing regulators
 - GSK3 integrates these signals
 
+## Core Principle
+
+promotes hepatic glycogen synthesis by inhibiting GSK3, relieving its suppression of glycogen synthase.
+
 ## Links
 
 - **Upstream:** [[Akt_Substrate_Phosphorylation_Z-001-0010]] — Akt activation
+
+## Core Principle
+
+promotes hepatic glycogen synthesis by inhibiting GSK3, relieving its suppression of glycogen synthase.
 
 ## Context
 
@@ -47,10 +55,18 @@ created: 2026-02-22
 **Tissue:** Primary  in liver; muscle uses different regulation
 
 
+## Core Principle
+
+promotes hepatic glycogen synthesis by inhibiting GSK3, relieving its suppression of glycogen synthase.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+promotes hepatic glycogen synthesis by inhibiting GSK3, relieving its suppression of glycogen synthase.
 
 ## Connection to Vault
 

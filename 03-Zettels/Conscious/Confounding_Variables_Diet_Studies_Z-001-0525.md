@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Inadequate control of confounding variables (smoking, socioeconomic status, sugar, industrial fats) likely explains observed associations better than saturated fat intake.
 
+## Core Principle
+
+> Inadequate control of confounding variables (smoking, socioeconomic status, sugar, industrial fats) likely explains observed associations better than saturated fat intake.
+
 ## Major Confounders
 
 **Smoking:**
@@ -43,6 +47,10 @@ extraction-date: 2026-03-01
 - Polyphenols, antioxidants not captured
 - Mediterranean advantage beyond macronutrients
 
+## Core Principle
+
+> Inadequate control of confounding variables (smoking, socioeconomic status, sugar, industrial fats) likely explains observed associations better than saturated fat intake.
+
 ## MUFA/SFA Ratio
 
 Likely captures **Mediterranean pattern** (olive oil, vegetables, lifestyle) not mechanistic SFA vs. MUFA effect.
@@ -52,18 +60,34 @@ Likely captures **Mediterranean pattern** (olive oil, vegetables, lifestyle) not
 *Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]*
 
 
+## Core Principle
+
+> Inadequate control of confounding variables (smoking, socioeconomic status, sugar, industrial fats) likely explains observed associations better than saturated fat intake.
+
 ## Related
 - [[Seven_Countries_Study_Design_Structure_Z-001-0522]|Z-001-0522]
 
+
+## Core Principle
+
+> Inadequate control of confounding variables (smoking, socioeconomic status, sugar, industrial fats) likely explains observed associations better than saturated fat intake.
 
 ## Related
 - [[Seven_Countries_Study_Reassessment_Z-001-0518]|Z-001-0518]
 
 
+## Core Principle
+
+> Inadequate control of confounding variables (smoking, socioeconomic status, sugar, industrial fats) likely explains observed associations better than saturated fat intake.
+
 ## RELATED FILES
 - 
 
 ---
+
+## Core Principle
+
+> Inadequate control of confounding variables (smoking, socioeconomic status, sugar, industrial fats) likely explains observed associations better than saturated fat intake.
 
 ## Connection to Vault
 

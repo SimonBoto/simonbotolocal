@@ -23,12 +23,20 @@ status: conscious
 
 Therapeutic interventions for HPGA axis disorders target specific components of the axis, from hypothalamic modulation to gonadal hormone replacement and receptor modulation.
 
+## Core Principle
+
+Therapeutic interventions for HPGA axis disorders target specific components of the axis, from hypothalamic modulation to gonadal hormone replacement and receptor modulation.
+
 ## Target Categories
 
 - **Hypothalamic targets**: Kisspeptin agonists/antagonists, GnRH analogs
 - **Pituitary targets**: Dopamine agonists/antagonists, somatostatin analogs
 - **Gonadal targets**: Aromatase inhibitors, 5-alpha-reductase inhibitors, gonadotropin therapy
 - **Receptor targets**: Selective estrogen receptor modulators (SERMs), androgen receptor modulators
+
+## Core Principle
+
+Therapeutic interventions for HPGA axis disorders target specific components of the axis, from hypothalamic modulation to gonadal hormone replacement and receptor modulation.
 
 ## Clinical Applications
 
@@ -37,12 +45,20 @@ Therapeutic interventions for HPGA axis disorders target specific components of 
 - **Cancer**: GnRH agonists/antagonists for prostate/breast cancer
 - **PCOS**: Metformin, spironolactone, combined oral contraceptives
 
+## Core Principle
+
+Therapeutic interventions for HPGA axis disorders target specific components of the axis, from hypothalamic modulation to gonadal hormone replacement and receptor modulation.
+
 ## Emerging Therapies
 
 - **Kisspeptin analogs**: For infertility treatment and diagnostic testing
 - **Neurokinin B antagonists**: For menopausal hot flashes
 - **Selective androgen receptor modulators (SARMs)**: For muscle wasting and osteoporosis
 - **GnRH vaccines**: For contraception and hormone-dependent cancers
+
+## Core Principle
+
+Therapeutic interventions for HPGA axis disorders target specific components of the axis, from hypothalamic modulation to gonadal hormone replacement and receptor modulation.
 
 ## Key Research Findings
 

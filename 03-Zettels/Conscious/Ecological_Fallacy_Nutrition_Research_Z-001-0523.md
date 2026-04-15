@@ -15,9 +15,17 @@ extraction-date: 2026-03-01
 
 > Drawing inferences about individuals from aggregate population-level data commits the ecological fallacy, inflating correlations and undermining causal inference.
 
+## Core Principle
+
+> Drawing inferences about individuals from aggregate population-level data commits the ecological fallacy, inflating correlations and undermining causal inference.
+
 ## Definition
 
 **Ecological fallacy:** Inferring individual relationships from group averages.
+
+## Core Principle
+
+> Drawing inferences about individuals from aggregate population-level data commits the ecological fallacy, inflating correlations and undermining causal inference.
 
 ## Problem
 
@@ -26,6 +34,10 @@ extraction-date: 2026-03-01
 - Individual outliers ignored
 - Heterogeneity concealed
 
+## Core Principle
+
+> Drawing inferences about individuals from aggregate population-level data commits the ecological fallacy, inflating correlations and undermining causal inference.
+
 ## Correlation Inflation
 
 **Mathematical Property:**
@@ -33,12 +45,20 @@ extraction-date: 2026-03-01
 - Country-level R² >> Individual R²
 - **Example:** MUFA/SFA claimed 96% CHD variance at country level — would be <10% individually
 
+## Core Principle
+
+> Drawing inferences about individuals from aggregate population-level data commits the ecological fallacy, inflating correlations and undermining causal inference.
+
 ## Solutions
 
 - Multi-level modeling
 - Individual-level analysis
 - Acknowledge limitations
 - Hypothesis-generating only
+
+## Core Principle
+
+> Drawing inferences about individuals from aggregate population-level data commits the ecological fallacy, inflating correlations and undermining causal inference.
 
 ## Seven Countries Failure
 
@@ -49,10 +69,18 @@ Interpreted population associations as individual causation, driving flawed poli
 *Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]*
 
 
+## Core Principle
+
+> Drawing inferences about individuals from aggregate population-level data commits the ecological fallacy, inflating correlations and undermining causal inference.
+
 ## RELATED FILES
 - 
 
 ---
+
+## Core Principle
+
+> Drawing inferences about individuals from aggregate population-level data commits the ecological fallacy, inflating correlations and undermining causal inference.
 
 ## Connection to Vault
 

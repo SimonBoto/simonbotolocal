@@ -23,6 +23,10 @@ HOMA-IR (Homeostatic Model Assessment for  Resistance) requires elevated glucose
 
 **Better approach:** Use fasting insulin alone (elevated in Stage 1) or early metabolic markers like adipic acid (elevated before glucose changes).
 
+## Core Principle
+
+HOMA-IR (Homeostatic Model Assessment for  Resistance) requires elevated glucose to calculate — meaning beta-cell dysfunction must already be present. Despite being called an "insulin resistance" index, it primarily reflects beta-cell inadequacy.
+
 ## Key Details
 
 | Stage | Glucose | Insulin | HOMA-IR | Detection |
@@ -31,11 +35,19 @@ HOMA-IR (Homeostatic Model Assessment for  Resistance) requires elevated glucose
 | Exhaustion (2) | Elevated | High | Elevated | ✅ Detected |
 | Overt diabetes (3) | High | Low/Normal | High | ✅ Detected |
 
+## Core Principle
+
+HOMA-IR (Homeostatic Model Assessment for  Resistance) requires elevated glucose to calculate — meaning beta-cell dysfunction must already be present. Despite being called an "insulin resistance" index, it primarily reflects beta-cell inadequacy.
+
 ## Links
 
 - **Upstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — HOMA-IR misses this stage
 - **Parallel:** [[Fasting_Insulin_Superior_Early_Detection_Z-001-0044.md] — Fasting insulin detects earlier
 - **Downstream:**  — Better alternatives
+
+## Core Principle
+
+HOMA-IR (Homeostatic Model Assessment for  Resistance) requires elevated glucose to calculate — meaning beta-cell dysfunction must already be present. Despite being called an "insulin resistance" index, it primarily reflects beta-cell inadequacy.
 
 ## Context
 
@@ -47,12 +59,20 @@ HOMA-IR (Homeostatic Model Assessment for  Resistance) requires elevated glucose
 
 *UID: Z-001-0043 | Domain: 001 | Created: 2026-02-24*
 
+## Core Principle
+
+HOMA-IR (Homeostatic Model Assessment for  Resistance) requires elevated glucose to calculate — meaning beta-cell dysfunction must already be present. Despite being called an "insulin resistance" index, it primarily reflects beta-cell inadequacy.
+
 ## RELATED FILES
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
 
 ---
+
+## Core Principle
+
+HOMA-IR (Homeostatic Model Assessment for  Resistance) requires elevated glucose to calculate — meaning beta-cell dysfunction must already be present. Despite being called an "insulin resistance" index, it primarily reflects beta-cell inadequacy.
 
 ## Connection to Vault
 

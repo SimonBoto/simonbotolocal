@@ -23,12 +23,20 @@ status: conscious
 
 The hypothalamic-pituitary-gonadal axis is highly sensitive to stress, with acute and chronic stress causing suppression of reproductive function through multiple neuroendocrine pathways.
 
+## Core Principle
+
+The hypothalamic-pituitary-gonadal axis is highly sensitive to stress, with acute and chronic stress causing suppression of reproductive function through multiple neuroendocrine pathways.
+
 ## Stress Pathways
 
 - **HPA axis activation**: Corticotropin-releasing hormone (CRH) inhibits GnRH secretion
 - **Cortisol effects**: Direct suppression of GnRH neurons and pituitary gonadotropes
 - **Catecholamine influence**: Norepinephrine modulates GnRH neuronal activity
 - **Inflammatory cytokines**: IL-1, IL-6, TNF-α suppress HPGA axis activity
+
+## Core Principle
+
+The hypothalamic-pituitary-gonadal axis is highly sensitive to stress, with acute and chronic stress causing suppression of reproductive function through multiple neuroendocrine pathways.
 
 ## Physiological Responses
 
@@ -37,11 +45,19 @@ The hypothalamic-pituitary-gonadal axis is highly sensitive to stress, with acut
 - **Energy deficit**: Leptin deficiency links metabolic stress to reproductive suppression
 - **Psychological stress**: Modulates limbic system inputs to hypothalamus
 
+## Core Principle
+
+The hypothalamic-pituitary-gonadal axis is highly sensitive to stress, with acute and chronic stress causing suppression of reproductive function through multiple neuroendocrine pathways.
+
 ## Clinical Significance
 
 - **Functional hypothalamic amenorrhea**: Common cause of secondary amenorrhea in athletes and women with eating disorders
 - **Critical illness**: HPGA suppression contributes to catabolic state
 - **Chronic disease**: Inflammatory conditions cause reproductive dysfunction
+
+## Core Principle
+
+The hypothalamic-pituitary-gonadal axis is highly sensitive to stress, with acute and chronic stress causing suppression of reproductive function through multiple neuroendocrine pathways.
 
 ## Key Research Findings
 

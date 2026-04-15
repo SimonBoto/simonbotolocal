@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > The widespread adoption of low-fat dietary guidelines had unintended consequences: increased refined carbohydrate consumption, metabolic syndrome prevalence, and questionable cardiovascular benefit.
 
+## Core Principle
+
+> The widespread adoption of low-fat dietary guidelines had unintended consequences: increased refined carbohydrate consumption, metabolic syndrome prevalence, and questionable cardiovascular benefit.
+
 ## Metabolic Epidemic
 
 **Obesity (US Adults):**
@@ -30,6 +34,10 @@ extraction-date: 2026-03-01
 - Now 1 in 3 adults
 - Central obesity,  resistance
 
+## Core Principle
+
+> The widespread adoption of low-fat dietary guidelines had unintended consequences: increased refined carbohydrate consumption, metabolic syndrome prevalence, and questionable cardiovascular benefit.
+
 ## Mechanism
 
 **Carbohydrate-Insulin Model:**
@@ -38,6 +46,10 @@ extraction-date: 2026-03-01
 3. Insulin secretion
 4. Fat storage
 5. 
+
+## Core Principle
+
+> The widespread adoption of low-fat dietary guidelines had unintended consequences: increased refined carbohydrate consumption, metabolic syndrome prevalence, and questionable cardiovascular benefit.
 
 ## Low-Fat Problems
 
@@ -53,12 +65,20 @@ extraction-date: 2026-03-01
 - Fat removed, sugar added
 - Ultra-processed increased
 
+## Core Principle
+
+> The widespread adoption of low-fat dietary guidelines had unintended consequences: increased refined carbohydrate consumption, metabolic syndrome prevalence, and questionable cardiovascular benefit.
+
 ## Lipid Profile Worsening
 
 **High-Carb Effects:**
 - Triglycerides ↑
 - HDL ↓
 - Small dense LDL ↑
+
+## Core Principle
+
+> The widespread adoption of low-fat dietary guidelines had unintended consequences: increased refined carbohydrate consumption, metabolic syndrome prevalence, and questionable cardiovascular benefit.
 
 ## Public Health Failure
 
@@ -69,12 +89,20 @@ Well-intentioned advice caused iatrogenic metabolic harm.
 *Source: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]*
 
 
+## Core Principle
+
+> The widespread adoption of low-fat dietary guidelines had unintended consequences: increased refined carbohydrate consumption, metabolic syndrome prevalence, and questionable cardiovascular benefit.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> The widespread adoption of low-fat dietary guidelines had unintended consequences: increased refined carbohydrate consumption, metabolic syndrome prevalence, and questionable cardiovascular benefit.
 
 ## Connection to Vault
 

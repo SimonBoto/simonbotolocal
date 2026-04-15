@@ -31,6 +31,10 @@ Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin
 
 **Note:** BCAAs are context-dependent — beneficial for muscle protein synthesis in insulin-sensitive individuals, problematic in IR state.
 
+## Core Principle
+
+Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin resistance and predict T2D risk. Elevated BCAAs indicate altered amino acid  and increased mTOR signaling.
+
 ## Key Details
 
 | BCAA | Primary Effect |
@@ -39,17 +43,29 @@ Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin
 | Isoleucine | Glucose uptake modulation |
 | Valine | Less studied, correlates with IR |
 
+## Core Principle
+
+Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin resistance and predict T2D risk. Elevated BCAAs indicate altered amino acid  and increased mTOR signaling.
+
 ## Links
 
 - **Upstream:** [[Mitochondrial_Dysfunction_IR_Z-001-0030.md] — Mitochondrial dysfunction impairs BCAA catabolism
 - **Parallel:** _Z-001-0041.md] — Adipic acid as complementary marker
 - **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045.md] — Included in METHAP panel
 
+## Core Principle
+
+Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin resistance and predict T2D risk. Elevated BCAAs indicate altered amino acid  and increased mTOR signaling.
+
 ## Context
 
 **Also relevant to:** , 
 
 **Emerges from:**  Taxonomy synthesis document
+
+## Core Principle
+
+Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin resistance and predict T2D risk. Elevated BCAAs indicate altered amino acid  and increased mTOR signaling.
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -63,10 +79,18 @@ Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin
 *UID: Z-001-0042 | Domain: 001 | Created: 2026-02-24*
 
 
+## Core Principle
+
+Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin resistance and predict T2D risk. Elevated BCAAs indicate altered amino acid  and increased mTOR signaling.
+
 ## Related
 - [[MMA_Sensitive_B12_Marker_Z-001-0448]|Z-001-0448]
 
 ---
+
+## Core Principle
+
+Branched-chain amino acids (leucine, isoleucine, valine) are elevated in insulin resistance and predict T2D risk. Elevated BCAAs indicate altered amino acid  and increased mTOR signaling.
 
 ## Connection to Vault
 

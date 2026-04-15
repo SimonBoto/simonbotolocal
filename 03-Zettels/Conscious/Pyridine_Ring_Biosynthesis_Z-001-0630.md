@@ -17,6 +17,10 @@ extraction-date: 2026-04-15
 
 The pyridine ring of nicotine derives from **aspartate** through a pathway that produces **vitamin B3 (niacin/nicotinic acid)** as a key intermediate — revealing a direct link between primary metabolism and alkaloid biosynthesis.
 
+## Core Principle
+
+The pyridine ring of nicotine derives from **aspartate** through a pathway that produces **vitamin B3 (niacin/nicotinic acid)** as a key intermediate — revealing a direct link between primary metabolism and alkaloid biosynthesis.
+
 ## Pathway Steps
 
 1. **Aspartate oxidation:** Aspartate → Oxidized intermediate
@@ -31,9 +35,17 @@ The pyridine ring of nicotine derives from **aspartate** through a pathway that 
 
 4. **Pyridine ring formation:** From stabilized nicotinic acid derivative
 
+## Core Principle
+
+The pyridine ring of nicotine derives from **aspartate** through a pathway that produces **vitamin B3 (niacin/nicotinic acid)** as a key intermediate — revealing a direct link between primary metabolism and alkaloid biosynthesis.
+
 ## Key Discovery
 
 **NAMN hydrolase** — first reported in this paper. Previously unknown step in vitamin B3 release.
+
+## Core Principle
+
+The pyridine ring of nicotine derives from **aspartate** through a pathway that produces **vitamin B3 (niacin/nicotinic acid)** as a key intermediate — revealing a direct link between primary metabolism and alkaloid biosynthesis.
 
 ## Metabolic Significance
 
@@ -41,9 +53,17 @@ The pyridine ring of nicotine derives from **aspartate** through a pathway that 
 - Connects to **vitamin B3/NAD+ biosynthesis**
 - Potential regulatory crosstalk between pathways
 
+## Core Principle
+
+The pyridine ring of nicotine derives from **aspartate** through a pathway that produces **vitamin B3 (niacin/nicotinic acid)** as a key intermediate — revealing a direct link between primary metabolism and alkaloid biosynthesis.
+
 ## Nomenclature Note
 
 "Nicotinic acid" and "niacin" are the same compound — the names are confusing but refer to identical molecules.
+
+## Core Principle
+
+The pyridine ring of nicotine derives from **aspartate** through a pathway that produces **vitamin B3 (niacin/nicotinic acid)** as a key intermediate — revealing a direct link between primary metabolism and alkaloid biosynthesis.
 
 ## Source
 [[LitNote_McCarty_Nicotine_Biosynthesis_2026_L-001-0606]] — McCarty (2026)

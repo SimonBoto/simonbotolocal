@@ -15,12 +15,20 @@ extraction-date: 2026-03-01
 
 > Urinary organic acid profiling provides objective s for assessing mitochondrial function and personalizing interventions.
 
+## Core Principle
+
+> Urinary organic acid profiling provides objective s for assessing mitochondrial function and personalizing interventions.
+
 ## Why Organic Acids?
 
 - Non-invasive (urine)
 - Mitochondrial window
 - Nutrient status visible
 - Dynamic, quantifiable
+
+## Core Principle
+
+> Urinary organic acid profiling provides objective s for assessing mitochondrial function and personalizing interventions.
 
 ## Key Markers
 
@@ -31,12 +39,20 @@ extraction-date: 2026-03-01
 | **Citrate** | TCA upstream | Mg, aconitase |
 | **3-HMGA** | Fatty acid ox | Carnitine, B2 |
 
+## Core Principle
+
+> Urinary organic acid profiling provides objective s for assessing mitochondrial function and personalizing interventions.
+
 ## Personalization Process
 
 1. **Baseline:** Comprehensive panel
 2. **Pattern recognition:** Deficiency signatures
 3. **Tailored intervention:** Target specific deficits
 4. **Monitoring:** 6-8 week follow-up
+
+## Core Principle
+
+> Urinary organic acid profiling provides objective s for assessing mitochondrial function and personalizing interventions.
 
 ## Clinical Application
 
@@ -48,6 +64,10 @@ extraction-date: 2026-03-01
 
 *Source: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]*
 
+## Core Principle
+
+> Urinary organic acid profiling provides objective s for assessing mitochondrial function and personalizing interventions.
+
 ## RELATED FILES
 - 
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
@@ -55,6 +75,10 @@ extraction-date: 2026-03-01
 
 
 ---
+
+## Core Principle
+
+> Urinary organic acid profiling provides objective s for assessing mitochondrial function and personalizing interventions.
 
 ## Connection to Vault
 

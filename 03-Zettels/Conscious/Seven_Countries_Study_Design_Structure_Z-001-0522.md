@@ -15,11 +15,19 @@ extraction-date: 2026-03-01
 
 > The Seven Countries Study examined 12,763 men across 16 cohorts in 7 countries using population-level ecological data to investigate diet-heart relationships.
 
+## Core Principle
+
+> The Seven Countries Study examined 12,763 men across 16 cohorts in 7 countries using population-level ecological data to investigate diet-heart relationships.
+
 ## Population
 
 **Size:** 12,763 men
 **Age:** 40-59 years
 **Duration:** 5 years (extended to 50)
+
+## Core Principle
+
+> The Seven Countries Study examined 12,763 men across 16 cohorts in 7 countries using population-level ecological data to investigate diet-heart relationships.
 
 ## Countries
 
@@ -33,11 +41,19 @@ extraction-date: 2026-03-01
 | Finland | 2 |
 | Japan | 2 |
 
+## Core Principle
+
+> The Seven Countries Study examined 12,763 men across 16 cohorts in 7 countries using population-level ecological data to investigate diet-heart relationships.
+
 ## Data Collection
 
 **:** BP, ECG, , anthropometrics
 **Lifestyle:** Smoking, occupation-based activity
 **Diet:** 7-day household records, chemical analysis
+
+## Core Principle
+
+> The Seven Countries Study examined 12,763 men across 16 cohorts in 7 countries using population-level ecological data to investigate diet-heart relationships.
 
 ## Key Ratio
 
@@ -48,12 +64,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]*
 
 
+## Core Principle
+
+> The Seven Countries Study examined 12,763 men across 16 cohorts in 7 countries using population-level ecological data to investigate diet-heart relationships.
+
 ## RELATED FILES
 - 
 - [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
 - [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> The Seven Countries Study examined 12,763 men across 16 cohorts in 7 countries using population-level ecological data to investigate diet-heart relationships.
 
 ## Connection to Vault
 

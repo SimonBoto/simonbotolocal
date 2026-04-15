@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
 
+## Core Principle
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
 ## Vascular Smooth Muscle Relaxation
 
 ### Calcium Antagonism
@@ -37,6 +41,10 @@ extraction-date: 2026-03-01
 - Mg stimulates prostacyclin (PGI₂) synthesis
 - PGI₂: Potent vasodilator and platelet inhibitor
 
+## Core Principle
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
 ## Renal Mechanisms
 
 ### Sodium Excretion (Natriuresis)
@@ -55,6 +63,10 @@ extraction-date: 2026-03-01
 - Mg may suppress inappropriate RAAS activation
 - Reduces angiotensin II-mediated vasoconstriction
 - Supports physiological RAAS regulation
+
+## Core Principle
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
 
 ## Clinical Evidence
 
@@ -84,6 +96,10 @@ extraction-date: 2026-03-01
 - Higher baseline BP
 - Longer duration of supplementation
 
+## Core Principle
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
 ## Comparison to Antihypertensive Drugs
 
 | Mechanism | Mg Effect | Drug Class | Similarity |
@@ -103,6 +119,10 @@ extraction-date: 2026-03-01
 - Modest effect size (not monotherapy for severe HTN)
 - Slow onset (weeks)
 - Variable bioavailability
+
+## Core Principle
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
 
 ## METHAP Relevance
 
@@ -127,6 +147,10 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 
+## Core Principle
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
@@ -134,6 +158,10 @@ extraction-date: 2026-03-01
 - [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_Z-001-0206]|Z-001-0206]
 
 ---
+
+## Core Principle
+
+> Magnesium functions as a natural calcium channel blocker and vasodilator, reducing blood pressure through vascular smooth muscle relaxation, improved endothelial function, and renal sodium handling.
 
 ## Connection to Vault
 

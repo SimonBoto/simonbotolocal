@@ -23,12 +23,20 @@ status: conscious
 
 The hypothalamic-pituitary-gonadal axis in males maintains testosterone production, spermatogenesis, and secondary sexual characteristics through a tightly regulated feedback system.
 
+## Core Principle
+
+The hypothalamic-pituitary-gonadal axis in males maintains testosterone production, spermatogenesis, and secondary sexual characteristics through a tightly regulated feedback system.
+
 ## Physiological Regulation
 
 - **GnRH pulsatility**: Continuous pulsatile secretion maintains pituitary sensitivity
 - **LH stimulation**: Drives testosterone production in Leydig cells
 - **FSH stimulation**: Supports spermatogenesis in Sertoli cells
 - **Testosterone feedback**: Negative feedback at hypothalamic and pituitary levels
+
+## Core Principle
+
+The hypothalamic-pituitary-gonadal axis in males maintains testosterone production, spermatogenesis, and secondary sexual characteristics through a tightly regulated feedback system.
 
 ## Developmental Stages
 
@@ -37,12 +45,20 @@ The hypothalamic-pituitary-gonadal axis in males maintains testosterone producti
 - **Adulthood**: Stable testosterone production with gradual decline
 - **Aging**: Andropause with declining testosterone and altered feedback
 
+## Core Principle
+
+The hypothalamic-pituitary-gonadal axis in males maintains testosterone production, spermatogenesis, and secondary sexual characteristics through a tightly regulated feedback system.
+
 ## Clinical Assessment
 
 - **Testosterone testing**: Total, free, bioavailable, and calculated free testosterone
 - **LH/FSH interpretation**: Differentiates primary vs. secondary hypogonadism
 - **Spermatogenesis markers**: Inhibin B, AMH, semen analysis
 - **Bone health**: Testosterone's role in bone mineral density maintenance
+
+## Core Principle
+
+The hypothalamic-pituitary-gonadal axis in males maintains testosterone production, spermatogenesis, and secondary sexual characteristics through a tightly regulated feedback system.
 
 ## Key Research Findings
 

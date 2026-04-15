@@ -33,14 +33,26 @@ created: 2026-02-22
 
 **Therapeutic implication:** Inhibiting IRS serine kinases (JNK inhibitors) could restore insulin sensitivity.
 
+## Core Principle
+
+**Claim:** Excessive serine phosphorylation of IRS proteins (particularly IRS-1 at Ser-307/312) is a primary molecular mechanism of .
+
 ## Links
 
 - **Mechanism:** [[IRS_Protein_Recruitment_Z-001-0005]] — Normal function
+
+## Core Principle
+
+**Claim:** Excessive serine phosphorylation of IRS proteins (particularly IRS-1 at Ser-307/312) is a primary molecular mechanism of .
 
 ## Context
 
 **Also in:** 
 
+
+## Core Principle
+
+**Claim:** Excessive serine phosphorylation of IRS proteins (particularly IRS-1 at Ser-307/312) is a primary molecular mechanism of .
 
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
@@ -48,6 +60,10 @@ created: 2026-02-22
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+**Claim:** Excessive serine phosphorylation of IRS proteins (particularly IRS-1 at Ser-307/312) is a primary molecular mechanism of .
 
 ## Connection to Vault
 

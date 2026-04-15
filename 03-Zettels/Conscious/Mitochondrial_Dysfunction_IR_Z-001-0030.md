@@ -20,6 +20,10 @@ Mitochondrial overload from chronic nutrient excess creates oxidative stress whe
 
 **Insulin signaling disruption:** ROS and lipid intermediates trigger IRS-1 tyrosine dephosphorylation, inhibit PI3K/Akt pathway, and prevent GLUT4 translocation to the membrane — even with normal insulin receptor function.
 
+## Core Principle
+
+Mitochondrial overload from chronic nutrient excess creates oxidative stress when reactive oxygen species (ROS) production exceeds antioxidant capacity. This damages mitochondrial DNA and impairs electron transport chain function.
+
 ## Key Details
 
 | Marker | Indication |
@@ -29,11 +33,19 @@ Mitochondrial overload from chronic nutrient excess creates oxidative stress whe
 | mtDNA damage | Chronic oxidative stress |
 | ROS > Antioxidants | Mitochondrial dysfunction threshold |
 
+## Core Principle
+
+Mitochondrial overload from chronic nutrient excess creates oxidative stress when reactive oxygen species (ROS) production exceeds antioxidant capacity. This damages mitochondrial DNA and impairs electron transport chain function.
+
 ## Links
 
 - **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md] — Lipotoxicity creates mitochondrial load
 - **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md] —  amplifies oxidative stress
 - **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — Compensatory IR develops
+
+## Core Principle
+
+Mitochondrial overload from chronic nutrient excess creates oxidative stress when reactive oxygen species (ROS) production exceeds antioxidant capacity. This damages mitochondrial DNA and impairs electron transport chain function.
 
 ## Context
 
@@ -46,6 +58,10 @@ Mitochondrial overload from chronic nutrient excess creates oxidative stress whe
 *UID: Z-001-0030 | Domain: 001 | Created: 2026-02-24*
 
 
+## Core Principle
+
+Mitochondrial overload from chronic nutrient excess creates oxidative stress when reactive oxygen species (ROS) production exceeds antioxidant capacity. This damages mitochondrial DNA and impairs electron transport chain function.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -53,6 +69,10 @@ Mitochondrial overload from chronic nutrient excess creates oxidative stress whe
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Mitochondrial overload from chronic nutrient excess creates oxidative stress when reactive oxygen species (ROS) production exceeds antioxidant capacity. This damages mitochondrial DNA and impairs electron transport chain function.
 
 ## Connection to Vault
 

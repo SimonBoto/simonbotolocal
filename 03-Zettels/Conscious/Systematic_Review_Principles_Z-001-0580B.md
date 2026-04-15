@@ -21,6 +21,10 @@ status: conscious
 
 > **Definition:** A systematic review is a comprehensive, structured, and reproducible method for identifying, selecting, appraising, and synthesizing all relevant research on a specific question.
 
+## Core Principle
+
+> **Definition:** A systematic review is a comprehensive, structured, and reproducible method for identifying, selecting, appraising, and synthesizing all relevant research on a specific question.
+
 ## Foundational Principles
 
 - **Pre-specified protocol:** Methodology is planned and documented before conducting the review
@@ -28,6 +32,10 @@ status: conscious
 - **Explicit selection criteria:** Transparent and objective inclusion/exclusion criteria applied consistently
 - **Critical appraisal:** Assessment of methodological quality and risk of bias in included studies
 - **Transparent reporting:** Comprehensive documentation of methods and results following established guidelines
+
+## Core Principle
+
+> **Definition:** A systematic review is a comprehensive, structured, and reproducible method for identifying, selecting, appraising, and synthesizing all relevant research on a specific question.
 
 ## Key Steps in the Process
 
@@ -40,6 +48,10 @@ status: conscious
 7. **Data synthesis:** Narrative synthesis and/or statistical meta-analysis
 8. **Reporting and dissemination:** Publication following PRISMA guidelines
 
+## Core Principle
+
+> **Definition:** A systematic review is a comprehensive, structured, and reproducible method for identifying, selecting, appraising, and synthesizing all relevant research on a specific question.
+
 ## Distinction from Other Reviews
 
 - **Narrative reviews:** Qualitative summaries without systematic search or appraisal
@@ -48,6 +60,10 @@ status: conscious
 - **Umbrella reviews:** Reviews of systematic reviews
 
 ---
+
+## Core Principle
+
+> **Definition:** A systematic review is a comprehensive, structured, and reproducible method for identifying, selecting, appraising, and synthesizing all relevant research on a specific question.
 
 ## Related Concepts
 

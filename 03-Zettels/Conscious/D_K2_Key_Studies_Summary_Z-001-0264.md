@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Three landmark studies establish the evidence base for D-K2 co-supplementation: Knapen et al. (2013) on arterial stiffness, Shea et al. (2015) on coronary calcification, and Van Ballegooijen et al. (2017) on metabolic associations.
 
+## Core Principle
+
+> Three landmark studies establish the evidence base for D-K2 co-supplementation: Knapen et al. (2013) on arterial stiffness, Shea et al. (2015) on coronary calcification, and Van Ballegooijen et al. (2017) on metabolic associations.
+
 ## Knapen et al. (2013)
 
 **Study:** MK-7 and arterial stiffness in postmenopausal women
@@ -37,6 +41,10 @@ extraction-date: 2026-03-01
 - 180 mcg MK-7 = Effective dose
 - Long-term  demonstrated
 
+## Core Principle
+
+> Three landmark studies establish the evidence base for D-K2 co-supplementation: Knapen et al. (2013) on arterial stiffness, Shea et al. (2015) on coronary calcification, and Van Ballegooijen et al. (2017) on metabolic associations.
+
 ## Shea et al. (2015)
 
 **Study:** Vitamin K and coronary artery calcification
@@ -56,6 +64,10 @@ extraction-date: 2026-03-01
 - Supports anti-calcification effect
 - Relevant to high-dose D context
 
+## Core Principle
+
+> Three landmark studies establish the evidence base for D-K2 co-supplementation: Knapen et al. (2013) on arterial stiffness, Shea et al. (2015) on coronary calcification, and Van Ballegooijen et al. (2017) on metabolic associations.
+
 ## Van Ballegooijen et al. (2017)
 
 **Study:** D and K status association with metabolic health
@@ -73,6 +85,10 @@ extraction-date: 2026-03-01
 - Population-level synergy evidence
 - Supports combined approach
 - Informs intervention design
+
+## Core Principle
+
+> Three landmark studies establish the evidence base for D-K2 co-supplementation: Knapen et al. (2013) on arterial stiffness, Shea et al. (2015) on coronary calcification, and Van Ballegooijen et al. (2017) on metabolic associations.
 
 ## Synthesis
 
@@ -93,12 +109,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_D_K2_Co_Supplementation_Evidence_L-001-0214]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Three landmark studies establish the evidence base for D-K2 co-supplementation: Knapen et al. (2013) on arterial stiffness, Shea et al. (2015) on coronary calcification, and Van Ballegooijen et al. (2017) on metabolic associations.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Three landmark studies establish the evidence base for D-K2 co-supplementation: Knapen et al. (2013) on arterial stiffness, Shea et al. (2015) on coronary calcification, and Van Ballegooijen et al. (2017) on metabolic associations.
 
 ## Connection to Vault
 

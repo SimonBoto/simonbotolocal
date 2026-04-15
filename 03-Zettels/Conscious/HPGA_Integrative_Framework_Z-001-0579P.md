@@ -23,12 +23,20 @@ status: conscious
 
 The hypothalamic-pituitary-gonadal axis functions as an integral component of broader physiological networks, requiring consideration of its interactions with other systems for comprehensive clinical management.
 
+## Core Principle
+
+The hypothalamic-pituitary-gonadal axis functions as an integral component of broader physiological networks, requiring consideration of its interactions with other systems for comprehensive clinical management.
+
 ## System Integration
 
 - **HPA axis**: Cortisol modulation of GnRH pulsatility and gonadal function
 - **HPT axis**: Thyroid hormone effects on sex hormone metabolism and binding
 - **Metabolic axis**: Insulin, leptin, and adipokine regulation of reproductive function
 - **Immune axis**: Cytokine effects on HPGA axis and reproductive health
+
+## Core Principle
+
+The hypothalamic-pituitary-gonadal axis functions as an integral component of broader physiological networks, requiring consideration of its interactions with other systems for comprehensive clinical management.
 
 ## Lifestyle Factors
 
@@ -37,12 +45,20 @@ The hypothalamic-pituitary-gonadal axis functions as an integral component of br
 - **Exercise**: Dose-dependent effects on hormone production and metabolism
 - **Stress**: Neuroendocrine pathways linking psychological stress to reproductive function
 
+## Core Principle
+
+The hypothalamic-pituitary-gonadal axis functions as an integral component of broader physiological networks, requiring consideration of its interactions with other systems for comprehensive clinical management.
+
 ## Clinical Application
 
 - **Functional medicine approach**: Identifying root causes of HPGA dysfunction
 - **Personalized treatment**: Considering individual lifestyle, genetics, and environmental factors
 - **Preventive strategies**: Lifestyle interventions to preserve HPGA function
 - **Comprehensive assessment**: Beyond hormone levels to include functional markers
+
+## Core Principle
+
+The hypothalamic-pituitary-gonadal axis functions as an integral component of broader physiological networks, requiring consideration of its interactions with other systems for comprehensive clinical management.
 
 ## Key Research Findings
 

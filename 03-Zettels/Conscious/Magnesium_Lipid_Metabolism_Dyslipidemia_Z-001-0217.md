@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Magnesium influences lipid metabolism through enzymatic modulation of cholesterol synthesis, triglyceride clearance, and HDL maturation, offering potential benefits for the dyslipidemia component of metabolic syndrome.
 
+## Core Principle
+
+> Magnesium influences lipid metabolism through enzymatic modulation of cholesterol synthesis, triglyceride clearance, and HDL maturation, offering potential benefits for the dyslipidemia component of metabolic syndrome.
+
 ## Mechanisms of Action
 
 ### Cholesterol Synthesis
@@ -48,6 +52,10 @@ extraction-date: 2026-03-01
 **ABCA1 Transporter:**
 - Mg may influence cholesterol efflux
 - Important for reverse cholesterol transport
+
+## Core Principle
+
+> Magnesium influences lipid metabolism through enzymatic modulation of cholesterol synthesis, triglyceride clearance, and HDL maturation, offering potential benefits for the dyslipidemia component of metabolic syndrome.
 
 ## Clinical Evidence
 
@@ -86,6 +94,10 @@ extraction-date: 2026-03-01
 - Trend toward improved lipid profile
 - Significant improvement in  sensitivity
 
+## Core Principle
+
+> Magnesium influences lipid metabolism through enzymatic modulation of cholesterol synthesis, triglyceride clearance, and HDL maturation, offering potential benefits for the dyslipidemia component of metabolic syndrome.
+
 ## Comparison to Standard Lipid-Lowering Therapy
 
 | Parameter | Magnesium | Statins | Fibrates |
@@ -101,6 +113,10 @@ extraction-date: 2026-03-01
 - May enhance effects of standard therapy
 - Addresses Mg deficiency simultaneously
 
+## Core Principle
+
+> Magnesium influences lipid metabolism through enzymatic modulation of cholesterol synthesis, triglyceride clearance, and HDL maturation, offering potential benefits for the dyslipidemia component of metabolic syndrome.
+
 ## Metabolic Syndrome Context
 
 **Atherogenic Dyslipidemia Pattern:**
@@ -112,6 +128,10 @@ extraction-date: 2026-03-01
 - Addresses HDL and TG components
 - May improve LDL particle size (limited evidence)
 - Part of comprehensive risk reduction
+
+## Core Principle
+
+> Magnesium influences lipid metabolism through enzymatic modulation of cholesterol synthesis, triglyceride clearance, and HDL maturation, offering potential benefits for the dyslipidemia component of metabolic syndrome.
 
 ## METHAP Implications
 
@@ -136,6 +156,10 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 
+## Core Principle
+
+> Magnesium influences lipid metabolism through enzymatic modulation of cholesterol synthesis, triglyceride clearance, and HDL maturation, offering potential benefits for the dyslipidemia component of metabolic syndrome.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
@@ -144,6 +168,10 @@ extraction-date: 2026-03-01
 - [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> Magnesium influences lipid metabolism through enzymatic modulation of cholesterol synthesis, triglyceride clearance, and HDL maturation, offering potential benefits for the dyslipidemia component of metabolic syndrome.
 
 ## Connection to Vault
 

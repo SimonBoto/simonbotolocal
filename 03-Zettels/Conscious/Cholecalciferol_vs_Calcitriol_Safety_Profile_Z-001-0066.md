@@ -34,6 +34,10 @@ Cholecalciferol (3) and calcitriol (1,25-dihydroxyvitamin D) have dramatically d
 
 **Clinical rule:** High-dose protocols should use cholecalciferol, not calcitriol, to preserve safety mechanisms.
 
+## Core Principle
+
+Cholecalciferol (3) and calcitriol (1,25-dihydroxyvitamin D) have dramatically different safety profiles due to bypass of regulatory steps. Cholecalciferol requires two regulated hydroxylation steps; calcitriol is active hormone requiring no conversion.
+
 ## Links
 
 **Parent MOC:** 
@@ -45,6 +49,10 @@ Cholecalciferol (3) and calcitriol (1,25-dihydroxyvitamin D) have dramatically d
 *UID: Z-001-0066 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Cholecalciferol (3) and calcitriol (1,25-dihydroxyvitamin D) have dramatically different safety profiles due to bypass of regulatory steps. Cholecalciferol requires two regulated hydroxylation steps; calcitriol is active hormone requiring no conversion.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
@@ -52,6 +60,10 @@ Cholecalciferol (3) and calcitriol (1,25-dihydroxyvitamin D) have dramatically d
 - [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]
 
 ---
+
+## Core Principle
+
+Cholecalciferol (3) and calcitriol (1,25-dihydroxyvitamin D) have dramatically different safety profiles due to bypass of regulatory steps. Cholecalciferol requires two regulated hydroxylation steps; calcitriol is active hormone requiring no conversion.
 
 ## Connection to Vault
 

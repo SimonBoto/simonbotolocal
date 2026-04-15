@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Magnesium functions as a natural inhibitor of vascular calcification, competing with calcium for deposition in arterial walls and supporting Matrix Gla Protein function, with synergistic effects when combined with .
 
+## Core Principle
+
+> Magnesium functions as a natural inhibitor of vascular calcification, competing with calcium for deposition in arterial walls and supporting Matrix Gla Protein function, with synergistic effects when combined with .
+
 ## s of Calcification Inhibition
 
 ### 1. Direct Calcium Antagonism
@@ -65,6 +69,10 @@ extraction-date: 2026-03-01
 - Enhances circulating calcification defense
 - Particularly important in CKD (low fetuin-A)
 
+## Core Principle
+
+> Magnesium functions as a natural inhibitor of vascular calcification, competing with calcium for deposition in arterial walls and supporting Matrix Gla Protein function, with synergistic effects when combined with .
+
 ## Clinical Evidence
 
 ### Epidemiological Studies
@@ -100,6 +108,10 @@ extraction-date: 2026-03-01
 - Reduced abdominal aortic calcification
 - Trend toward improved CV outcomes
 
+## Core Principle
+
+> Magnesium functions as a natural inhibitor of vascular calcification, competing with calcium for deposition in arterial walls and supporting Matrix Gla Protein function, with synergistic effects when combined with .
+
 ## Synergy with Vitamin K2
 
 ### Complementary Mechanisms
@@ -120,6 +132,10 @@ extraction-date: 2026-03-01
 - Mg: 300-500 mg/day
 - K2 (MK-7): 100-200 mcg/day
 - Together: comprehensive vascular protection
+
+## Core Principle
+
+> Magnesium functions as a natural inhibitor of vascular calcification, competing with calcium for deposition in arterial walls and supporting Matrix Gla Protein function, with synergistic effects when combined with .
 
 ## Clinical Implications
 
@@ -147,6 +163,10 @@ extraction-date: 2026-03-01
 - Monitor closely
 - Combine with K2 for maximum effect
 
+## Core Principle
+
+> Magnesium functions as a natural inhibitor of vascular calcification, competing with calcium for deposition in arterial walls and supporting Matrix Gla Protein function, with synergistic effects when combined with .
+
 ## METHAP Context
 
 **Relevance to Trial:**
@@ -167,12 +187,20 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 
+## Core Principle
+
+> Magnesium functions as a natural inhibitor of vascular calcification, competing with calcium for deposition in arterial walls and supporting Matrix Gla Protein function, with synergistic effects when combined with .
+
 ## RELATED FILES
 - 
 - [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
 - [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> Magnesium functions as a natural inhibitor of vascular calcification, competing with calcium for deposition in arterial walls and supporting Matrix Gla Protein function, with synergistic effects when combined with .
 
 ## Connection to Vault
 

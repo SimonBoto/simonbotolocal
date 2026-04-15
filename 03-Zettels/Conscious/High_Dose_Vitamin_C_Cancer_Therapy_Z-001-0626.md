@@ -17,6 +17,10 @@ extraction-date: 2026-04-15
 
 Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) could prevent and treat cancer — triggered the strongest establishment backlash, yet recent research on IV vitamin C is validating aspects of his hypothesis.
 
+## Core Principle
+
+Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) could prevent and treat cancer — triggered the strongest establishment backlash, yet recent research on IV vitamin C is validating aspects of his hypothesis.
+
 ## Pauling and Cameron's Work
 
 **Initial studies (1970s):**
@@ -30,6 +34,10 @@ Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) coul
 - Collagen barrier against metastasis
 - Direct cytotoxicity to cancer cells
 - Improved patient well-being
+
+## Core Principle
+
+Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) could prevent and treat cancer — triggered the strongest establishment backlash, yet recent research on IV vitamin C is validating aspects of his hypothesis.
 
 ## The Mayo Clinic Rebuttal
 
@@ -45,6 +53,10 @@ Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) coul
 - Prior chemotherapy (depleted patients)
 - Discontinuation of vitamin C before death
 
+## Core Principle
+
+Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) could prevent and treat cancer — triggered the strongest establishment backlash, yet recent research on IV vitamin C is validating aspects of his hypothesis.
+
 ## The Pharmacokinetic Key
 
 **Critical insight (Levine et al., 1990s):**
@@ -58,6 +70,10 @@ Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) coul
 - Epigenetic modulation
 - Hypoxia-inducible factor inhibition
 - Enhanced collagen synthesis
+
+## Core Principle
+
+Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) could prevent and treat cancer — triggered the strongest establishment backlash, yet recent research on IV vitamin C is validating aspects of his hypothesis.
 
 ## Modern Research Validation
 
@@ -73,6 +89,10 @@ Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) coul
 - Used in integrative oncology
 - Requires IV administration
 
+## Core Principle
+
+Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) could prevent and treat cancer — triggered the strongest establishment backlash, yet recent research on IV vitamin C is validating aspects of his hypothesis.
+
 ## The Controversy Continues
 
 **Skeptic position:**
@@ -87,6 +107,10 @@ Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) coul
 - Historical precedent (Cameron/Pauling)
 - Patient autonomy
 
+## Core Principle
+
+Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) could prevent and treat cancer — triggered the strongest establishment backlash, yet recent research on IV vitamin C is validating aspects of his hypothesis.
+
 ## Pauling's Legacy
 
 **He was partially right:**
@@ -100,6 +124,10 @@ Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) coul
 - Patients denied access
 - Mechanism not fully explored
 - Stigma persists
+
+## Core Principle
+
+Pauling's most controversial claim — that high-dose vitamin C (10,000mg+) could prevent and treat cancer — triggered the strongest establishment backlash, yet recent research on IV vitamin C is validating aspects of his hypothesis.
 
 ## Source
 [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] — Vitamin King (2025)

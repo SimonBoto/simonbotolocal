@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > While standard B12 range is 200-900 pg/mL, optimal levels are >400-500 pg/mL, with neurological symptoms possible at 200-400 even without anemia.
 
+## Core Principle
+
+> While standard B12 range is 200-900 pg/mL, optimal levels are >400-500 pg/mL, with neurological symptoms possible at 200-400 even without anemia.
+
 ## Standard Range
 
 | Level | Category |
@@ -23,6 +27,10 @@ extraction-date: 2026-03-01
 | 200-300 | Low-normal |
 | 300-900 | Normal |
 
+## Core Principle
+
+> While standard B12 range is 200-900 pg/mL, optimal levels are >400-500 pg/mL, with neurological symptoms possible at 200-400 even without anemia.
+
 ## Optimal Range
 
 | Level | Category |
@@ -30,6 +38,10 @@ extraction-date: 2026-03-01
 | <400 | Suboptimal |
 | 400-500 | Adequate |
 | >500 | Optimal |
+
+## Core Principle
+
+> While standard B12 range is 200-900 pg/mL, optimal levels are >400-500 pg/mL, with neurological symptoms possible at 200-400 even without anemia.
 
 ## Neurological Risk
 
@@ -50,12 +62,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_B12_Clinical_Assessment_L-001-0408]*
 
 
+## Core Principle
+
+> While standard B12 range is 200-900 pg/mL, optimal levels are >400-500 pg/mL, with neurological symptoms possible at 200-400 even without anemia.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> While standard B12 range is 200-900 pg/mL, optimal levels are >400-500 pg/mL, with neurological symptoms possible at 200-400 even without anemia.
 
 ## Connection to Vault
 

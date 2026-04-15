@@ -18,6 +18,10 @@ status: conscious
 
 The Tuskegee Syphilis Study (1932–1972) was a 40-year research study conducted by the U.S. Public Health Service that became the most infamous example of unethical human subjects research in American history, directly leading to the Belmont Report and modern IRB oversight.
 
+## Core Principle
+
+The Tuskegee Syphilis Study (1932–1972) was a 40-year research study conducted by the U.S. Public Health Service that became the most infamous example of unethical human subjects research in American history, directly leading to the Belmont Report and modern IRB oversight.
+
 ## Study Design and Violations
 
 **What Happened:**
@@ -34,6 +38,10 @@ The Tuskegee Syphilis Study (1932–1972) was a 40-year research study conducted
 | **Justice** | Exploited vulnerable, disadvantaged population |
 | **Scientific Validity** | Design flaws made findings questionable |
 
+## Core Principle
+
+The Tuskegee Syphilis Study (1932–1972) was a 40-year research study conducted by the U.S. Public Health Service that became the most infamous example of unethical human subjects research in American history, directly leading to the Belmont Report and modern IRB oversight.
+
 ## Consequences and Legacy
 
 **Direct Outcomes:**
@@ -48,6 +56,10 @@ The Tuskegee Syphilis Study (1932–1972) was a 40-year research study conducted
 - Mandated vulnerable population protections
 - Foundation for modern research ethics frameworks
 
+## Core Principle
+
+The Tuskegee Syphilis Study (1932–1972) was a 40-year research study conducted by the U.S. Public Health Service that became the most infamous example of unethical human subjects research in American history, directly leading to the Belmont Report and modern IRB oversight.
+
 ## Connection to Belmont Report
 
 The Tuskegee study was the primary catalyst for the Belmont Report's three principles:
@@ -55,13 +67,25 @@ The Tuskegee study was the primary catalyst for the Belmont Report's three princ
 2. **Beneficence** — Do no harm, maximize benefit
 3. **Justice** — Fair distribution of research burdens/benefits
 
+## Core Principle
+
+The Tuskegee Syphilis Study (1932–1972) was a 40-year research study conducted by the U.S. Public Health Service that became the most infamous example of unethical human subjects research in American history, directly leading to the Belmont Report and modern IRB oversight.
+
 ## Evidence
 > "The Tuskegee Study had nothing to do with treatment... it was a study designed to observe the natural history of untreated syphilis." — Congressional testimony, 1973
+
+## Core Principle
+
+The Tuskegee Syphilis Study (1932–1972) was a 40-year research study conducted by the U.S. Public Health Service that became the most infamous example of unethical human subjects research in American history, directly leading to the Belmont Report and modern IRB oversight.
 
 ## Context
 This case demonstrates why ethics oversight is not bureaucratic obstruction but essential protection. The 40-year duration and post-penicillin continuation show how research without ethical boundaries becomes exploitation. Every modern IRB requirement traces back to preventing Tuskegee-like violations.
 
 ---
+
+## Core Principle
+
+The Tuskegee Syphilis Study (1932–1972) was a 40-year research study conducted by the U.S. Public Health Service that became the most infamous example of unethical human subjects research in American history, directly leading to the Belmont Report and modern IRB oversight.
 
 ## Links — Two Types
 

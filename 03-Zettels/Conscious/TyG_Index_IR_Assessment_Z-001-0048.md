@@ -25,6 +25,10 @@ The **TyG Index** is a simple, inexpensive surrogate marker for insulin resistan
 
 ---
 
+## Core Principle
+
+The **TyG Index** is a simple, inexpensive surrogate marker for insulin resistance using only fasting triglycerides and fasting glucose. It correlates strongly with euglycemic clamp studies and may predict IR earlier than HOMA-IR.
+
 ## 📐 Formula
 
 $$
@@ -40,6 +44,10 @@ $$
 
 ---
 
+## Core Principle
+
+The **TyG Index** is a simple, inexpensive surrogate marker for insulin resistance using only fasting triglycerides and fasting glucose. It correlates strongly with euglycemic clamp studies and may predict IR earlier than HOMA-IR.
+
 ## 🎯 Interpretation Thresholds
 
 | TyG Index | Status | Clinical Meaning |
@@ -52,6 +60,10 @@ $$
 **Note:** Cutoffs vary by population. Asian populations may have lower thresholds.
 
 ---
+
+## Core Principle
+
+The **TyG Index** is a simple, inexpensive surrogate marker for insulin resistance using only fasting triglycerides and fasting glucose. It correlates strongly with euglycemic clamp studies and may predict IR earlier than HOMA-IR.
 
 ## 🔗 Connected s
 
@@ -69,6 +81,10 @@ $$
 - [[MAPK_Mitogenic_Pathway_Z-001-0016]] — Mitochondrial dysfunction (impaired lipid oxidation)
 
 ---
+
+## Core Principle
+
+The **TyG Index** is a simple, inexpensive surrogate marker for insulin resistance using only fasting triglycerides and fasting glucose. It correlates strongly with euglycemic clamp studies and may predict IR earlier than HOMA-IR.
 
 ## 🩺 Clinical Application
 
@@ -94,6 +110,10 @@ $$
 
 ---
 
+## Core Principle
+
+The **TyG Index** is a simple, inexpensive surrogate marker for insulin resistance using only fasting triglycerides and fasting glucose. It correlates strongly with euglycemic clamp studies and may predict IR earlier than HOMA-IR.
+
 ## 📊 Calculation Examples
 
 | Patient | TG (mg/dL) | Glucose (mg/dL) | TyG Calculation | TyG Value | Status |
@@ -105,6 +125,10 @@ $$
 
 ---
 
+## Core Principle
+
+The **TyG Index** is a simple, inexpensive surrogate marker for insulin resistance using only fasting triglycerides and fasting glucose. It correlates strongly with euglycemic clamp studies and may predict IR earlier than HOMA-IR.
+
 ## 🔬 Validation Studies
 
 **Original publication:** Simental-Mendía et al., *Eur J Endocrinol* 2008
@@ -114,6 +138,10 @@ $$
 **Key finding:** TyG identifies IR in normoglycemic individuals before glucose rises.
 
 ---
+
+## Core Principle
+
+The **TyG Index** is a simple, inexpensive surrogate marker for insulin resistance using only fasting triglycerides and fasting glucose. It correlates strongly with euglycemic clamp studies and may predict IR earlier than HOMA-IR.
 
 ## 🔄 Relationship with Lipid Profile
 
@@ -127,6 +155,10 @@ TyG >4.9 strongly predicts small dense LDL (Pattern B)
 
 ---
 
+## Core Principle
+
+The **TyG Index** is a simple, inexpensive surrogate marker for insulin resistance using only fasting triglycerides and fasting glucose. It correlates strongly with euglycemic clamp studies and may predict IR earlier than HOMA-IR.
+
 ## 💡 Clinical Pearls
 
 > "TyG is my early warning system. I see patients with 'normal' HOMA-IR but TyG 5.2. Six months later, their HOMA-IR catches up. TyG sees the metabolic train wreck coming."
@@ -134,6 +166,10 @@ TyG >4.9 strongly predicts small dense LDL (Pattern B)
 > "In resource-limited settings, TyG is a gift. No insulin assay needed. Just TG and glucose from any standard panel."
 
 ---
+
+## Core Principle
+
+The **TyG Index** is a simple, inexpensive surrogate marker for insulin resistance using only fasting triglycerides and fasting glucose. It correlates strongly with euglycemic clamp studies and may predict IR earlier than HOMA-IR.
 
 ## 📊 Comparison: TyG vs HOMA-IR
 
@@ -148,6 +184,10 @@ TyG >4.9 strongly predicts small dense LDL (Pattern B)
 
 ---
 
+## Core Principle
+
+The **TyG Index** is a simple, inexpensive surrogate marker for insulin resistance using only fasting triglycerides and fasting glucose. It correlates strongly with euglycemic clamp studies and may predict IR earlier than HOMA-IR.
+
 ## Data Export (METHAP)
 
 ```csv
@@ -159,6 +199,10 @@ patient_id,visit,fasting_tg_mg_dl,fasting_glucose_mg_dl,tyg_index,tyg_status
 *Source: , *
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
+## Core Principle
+
+The **TyG Index** is a simple, inexpensive surrogate marker for insulin resistance using only fasting triglycerides and fasting glucose. It correlates strongly with euglycemic clamp studies and may predict IR earlier than HOMA-IR.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
@@ -166,6 +210,10 @@ patient_id,visit,fasting_tg_mg_dl,fasting_glucose_mg_dl,tyg_index,tyg_status
 
 
 ---
+
+## Core Principle
+
+The **TyG Index** is a simple, inexpensive surrogate marker for insulin resistance using only fasting triglycerides and fasting glucose. It correlates strongly with euglycemic clamp studies and may predict IR earlier than HOMA-IR.
 
 ## Connection to Vault
 

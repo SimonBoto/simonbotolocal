@@ -25,6 +25,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**C-reactive protein (CRP)** and **erythrocyte sedimentation rate (ESR)** are acute phase reactants that indicate systemic inflammation. CRP is more specific; ESR is slower but catches chronic inflammation CRP might miss.
+
 ## 🎯 Reference Ranges
 
 ### CRP (High-Sensitivity hs-CRP)
@@ -47,6 +51,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**C-reactive protein (CRP)** and **erythrocyte sedimentation rate (ESR)** are acute phase reactants that indicate systemic inflammation. CRP is more specific; ESR is slower but catches chronic inflammation CRP might miss.
+
 ## 🔗 Connected Systems
 
 **Iron :**
@@ -64,6 +72,10 @@ extraction-date: 2026-04-15
 - Oxidative stress depletes B-vitamins
 
 ---
+
+## Core Principle
+
+**C-reactive protein (CRP)** and **erythrocyte sedimentation rate (ESR)** are acute phase reactants that indicate systemic inflammation. CRP is more specific; ESR is slower but catches chronic inflammation CRP might miss.
 
 ## 🩺 Clinical Application
 
@@ -99,6 +111,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**C-reactive protein (CRP)** and **erythrocyte sedimentation rate (ESR)** are acute phase reactants that indicate systemic inflammation. CRP is more specific; ESR is slower but catches chronic inflammation CRP might miss.
+
 ## 🔬 PhD-METHAP Relevance
 
 **Secondary outcome:** Inflammation reduction
@@ -114,6 +130,10 @@ patient_id,visit,hs_crp_mg_l,esr_mm_hr,inflammation_status
 
 ---
 
+## Core Principle
+
+**C-reactive protein (CRP)** and **erythrocyte sedimentation rate (ESR)** are acute phase reactants that indicate systemic inflammation. CRP is more specific; ESR is slower but catches chronic inflammation CRP might miss.
+
 ## 💡 Clinical Pearl
 
 > "CRP <1 is the goal for metabolic health. Between 1-3, there's subclinical inflammation driving insulin resistance. Above 3, we're talking significant cardiovascular risk. Above 10, look for infection or active autoimmune disease."
@@ -127,6 +147,10 @@ patient_id,visit,hs_crp_mg_l,esr_mm_hr,inflammation_status
 *Source: , *
 *Created: 2026-02-26 | Domain: 007 | Status: Conscious*
 
+## Core Principle
+
+**C-reactive protein (CRP)** and **erythrocyte sedimentation rate (ESR)** are acute phase reactants that indicate systemic inflammation. CRP is more specific; ESR is slower but catches chronic inflammation CRP might miss.
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
@@ -137,6 +161,10 @@ patient_id,visit,hs_crp_mg_l,esr_mm_hr,inflammation_status
 
 
 ---
+
+## Core Principle
+
+**C-reactive protein (CRP)** and **erythrocyte sedimentation rate (ESR)** are acute phase reactants that indicate systemic inflammation. CRP is more specific; ESR is slower but catches chronic inflammation CRP might miss.
 
 ## Connection to Vault
 

@@ -17,6 +17,10 @@ created: 2026-03-27
 
 Rigorous sample size calculation and clear selection criteria ensure scientific validity and ethical participant protection.
 
+## Core Principle
+
+Rigorous sample size calculation and clear selection criteria ensure scientific validity and ethical participant protection.
+
 ## Sample Size Calculation
 
 **Method:** MetSizeR package (R 4.3.2)  
@@ -32,12 +36,20 @@ Rigorous sample size calculation and clear selection criteria ensure scientific 
   - IR control (no intervention): n=50
   - IR intervention: n=50
 
+## Core Principle
+
+Rigorous sample size calculation and clear selection criteria ensure scientific validity and ethical participant protection.
+
 ## Recruitment Sources
 
 - Private medical clinics
 - Public hospital outpatient departments
 - ist offices
 - Community health centers
+
+## Core Principle
+
+Rigorous sample size calculation and clear selection criteria ensure scientific validity and ethical participant protection.
 
 ## Selection Process
 
@@ -47,6 +59,10 @@ Rigorous sample size calculation and clear selection criteria ensure scientific 
 4. **Informed consent:** Written and oral explanation
 5. **Baseline sampling:** Blood and urine collection
 
+## Core Principle
+
+Rigorous sample size calculation and clear selection criteria ensure scientific validity and ethical participant protection.
+
 ## Inclusion Criteria — Control Group
 
 All must be met:
@@ -55,6 +71,10 @@ All must be met:
 - HOMA-IR < 2
 - Triglycerides < 150 mg/dL
 
+## Core Principle
+
+Rigorous sample size calculation and clear selection criteria ensure scientific validity and ethical participant protection.
+
 ## Inclusion Criteria — IR Group
 
 At least one must be met:
@@ -62,6 +82,10 @@ At least one must be met:
 - HbA1c 5.6-6.4%
 - HOMA-IR ≥ 2
 - Triglycerides ≥ 150 mg/dL
+
+## Core Principle
+
+Rigorous sample size calculation and clear selection criteria ensure scientific validity and ethical participant protection.
 
 ## Exclusion Criteria
 
@@ -74,6 +98,10 @@ At least one must be met:
 - Dietary restrictions (celiac, allergies, eating disorders)
 - Refusal to take supplements
 
+## Core Principle
+
+Rigorous sample size calculation and clear selection criteria ensure scientific validity and ethical participant protection.
+
 ## Links
 
 **Parent MOC:**   
@@ -85,6 +113,10 @@ At least one must be met:
 *UID: Z-002-0617 | Domain: 002 | Created: 2026-03-27*
 
 
+## Core Principle
+
+Rigorous sample size calculation and clear selection criteria ensure scientific validity and ethical participant protection.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
@@ -94,6 +126,10 @@ At least one must be met:
 - 
 
 ---
+
+## Core Principle
+
+Rigorous sample size calculation and clear selection criteria ensure scientific validity and ethical participant protection.
 
 ## Connection to Vault
 

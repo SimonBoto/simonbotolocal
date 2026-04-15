@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > The C677T MTHFR polymorphism (rs1801133) substitutes alanine with valine, producing a thermolabile enzyme with reduced activity: heterozygotes (CT) have ~65% activity, homozygotes (TT) have ~30% activity.
 
+## Core Principle
+
+> The C677T MTHFR polymorphism (rs1801133) substitutes alanine with valine, producing a thermolabile enzyme with reduced activity: heterozygotes (CT) have ~65% activity, homozygotes (TT) have ~30% activity.
+
 ## Genetics
 
 **Substitution:**
@@ -29,6 +33,10 @@ extraction-date: 2026-03-01
 | CT (heterozygote) | ~30-35% | ~65% |
 | TT (homozygote) | ~10-15% | ~30% |
 
+## Core Principle
+
+> The C677T MTHFR polymorphism (rs1801133) substitutes alanine with valine, producing a thermolabile enzyme with reduced activity: heterozygotes (CT) have ~65% activity, homozygotes (TT) have ~30% activity.
+
 ## Biochemical Effects
 
 **Reduced 5-MTHF Production:**
@@ -40,6 +48,10 @@ extraction-date: 2026-03-01
 - Enzyme loses activity faster
 - Temperature sensitive
 - More pronounced at body temperature
+
+## Core Principle
+
+> The C677T MTHFR polymorphism (rs1801133) substitutes alanine with valine, producing a thermolabile enzyme with reduced activity: heterozygotes (CT) have ~65% activity, homozygotes (TT) have ~30% activity.
 
 ##  Associations
 
@@ -59,11 +71,19 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_MTHFR_Genetics_L-001-0403]*
 
 
+## Core Principle
+
+> The C677T MTHFR polymorphism (rs1801133) substitutes alanine with valine, producing a thermolabile enzyme with reduced activity: heterozygotes (CT) have ~65% activity, homozygotes (TT) have ~30% activity.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> The C677T MTHFR polymorphism (rs1801133) substitutes alanine with valine, producing a thermolabile enzyme with reduced activity: heterozygotes (CT) have ~65% activity, homozygotes (TT) have ~30% activity.
 
 ## Connection to Vault
 

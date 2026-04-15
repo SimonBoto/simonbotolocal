@@ -22,11 +22,19 @@ status: conscious
 
 Luteinizing hormone (LH) and follicle-stimulating hormone (FSH) are gonadotropins secreted by the anterior pituitary that regulate gonadal function through distinct but coordinated mechanisms.
 
+## Core Principle
+
+Luteinizing hormone (LH) and follicle-stimulating hormone (FSH) are gonadotropins secreted by the anterior pituitary that regulate gonadal function through distinct but coordinated mechanisms.
+
 ## Differential Regulation
 
 - **LH secretion**: Primarily stimulated by high-frequency GnRH pulses; more sensitive to GnRH amplitude
 - **FSH secretion**: Favored by low-frequency GnRH pulses; modulated by inhibin (from Sertoli cells) and activin
 - **Ratio control**: LH:FSH ratio varies by sex and physiological state (higher in males, fluctuates during menstrual cycle)
+
+## Core Principle
+
+Luteinizing hormone (LH) and follicle-stimulating hormone (FSH) are gonadotropins secreted by the anterior pituitary that regulate gonadal function through distinct but coordinated mechanisms.
 
 ## Regulatory Factors
 
@@ -34,11 +42,19 @@ Luteinizing hormone (LH) and follicle-stimulating hormone (FSH) are gonadotropin
 - **Inhibitory**: Sex steroids (negative feedback), inhibin (FSH-specific), cortisol
 - **Modulatory**: Dopamine (inhibits prolactin, which inhibits GnRH), leptin (links energy status to reproduction)
 
+## Core Principle
+
+Luteinizing hormone (LH) and follicle-stimulating hormone (FSH) are gonadotropins secreted by the anterior pituitary that regulate gonadal function through distinct but coordinated mechanisms.
+
 ## Clinical Significance
 
 - **LH/FSH ratio**: Key diagnostic marker for differentiating primary vs. secondary hypogonadism
 - **Prolactin interactions**: Hyperprolactinemia suppresses LH/FSH secretion
 - **Stress effects**: Elevated cortisol inhibits gonadotropin secretion
+
+## Core Principle
+
+Luteinizing hormone (LH) and follicle-stimulating hormone (FSH) are gonadotropins secreted by the anterior pituitary that regulate gonadal function through distinct but coordinated mechanisms.
 
 ## Key Research Findings
 

@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > In 1911, Procter & Gamble introduced Crisco, the first all-vegetable shortening, launching a century of seed oil dominance in American cooking through aggressive marketing that positioned industrial fats as healthier alternatives to traditional animal fats.
 
+## Core Principle
+
+> In 1911, Procter & Gamble introduced Crisco, the first all-vegetable shortening, launching a century of seed oil dominance in American cooking through aggressive marketing that positioned industrial fats as healthier alternatives to traditional animal fats.
+
 ## Procter & Gamble Background
 
 **Company:**
@@ -28,6 +32,10 @@ extraction-date: 2026-03-01
 - Previously used for soap
 - Surplus availability
 - Potential food application
+
+## Core Principle
+
+> In 1911, Procter & Gamble introduced Crisco, the first all-vegetable shortening, launching a century of seed oil dominance in American cooking through aggressive marketing that positioned industrial fats as healthier alternatives to traditional animal fats.
 
 ## Crisco Development (1911)
 
@@ -48,6 +56,10 @@ extraction-date: 2026-03-01
 - Lower cost
 - Consistent quality
 - Kosher (appealed to Jewish market)
+
+## Core Principle
+
+> In 1911, Procter & Gamble introduced Crisco, the first all-vegetable shortening, launching a century of seed oil dominance in American cooking through aggressive marketing that positioned industrial fats as healthier alternatives to traditional animal fats.
 
 ## Marketing Strategy
 
@@ -70,6 +82,10 @@ extraction-date: 2026-03-01
 - Urban populations
 - "Modern" consumers
 
+## Core Principle
+
+> In 1911, Procter & Gamble introduced Crisco, the first all-vegetable shortening, launching a century of seed oil dominance in American cooking through aggressive marketing that positioned industrial fats as healthier alternatives to traditional animal fats.
+
 ## Impact on American Diet
 
 **Market Success:**
@@ -84,6 +100,10 @@ extraction-date: 2026-03-01
 -  intake increased dramatically
 - Traditional fats marginalized
 
+## Core Principle
+
+> In 1911, Procter & Gamble introduced Crisco, the first all-vegetable shortening, launching a century of seed oil dominance in American cooking through aggressive marketing that positioned industrial fats as healthier alternatives to traditional animal fats.
+
 ## Connection to Later Anti-Fat Movement
 
 **Economic Alignment:**
@@ -97,6 +117,10 @@ extraction-date: 2026-03-01
 - Later: Trans fats in Crisco deemed harmful
 - Reformulated multiple times
 - Full circle: Back to traditional fats?
+
+## Core Principle
+
+> In 1911, Procter & Gamble introduced Crisco, the first all-vegetable shortening, launching a century of seed oil dominance in American cooking through aggressive marketing that positioned industrial fats as healthier alternatives to traditional animal fats.
 
 ## Legacy
 
@@ -117,11 +141,19 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Dietary_Fat_History_L-001-0210]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> In 1911, Procter & Gamble introduced Crisco, the first all-vegetable shortening, launching a century of seed oil dominance in American cooking through aggressive marketing that positioned industrial fats as healthier alternatives to traditional animal fats.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> In 1911, Procter & Gamble introduced Crisco, the first all-vegetable shortening, launching a century of seed oil dominance in American cooking through aggressive marketing that positioned industrial fats as healthier alternatives to traditional animal fats.
 
 ## Connection to Vault
 

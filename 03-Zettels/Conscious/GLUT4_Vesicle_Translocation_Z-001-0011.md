@@ -35,9 +35,17 @@ created: 2026-02-22
 - **Muscle:** Accounts for ~80% of insulin-stimulated glucose disposal
 - **Adipose:** Less quantitative but metabolically significant
 
+## Core Principle
+
+stimulates glucose uptake by triggering GLUT4 vesicle translocation to the plasma membrane in muscle and adipose tissue.
+
 ## Links
 
 - **Upstream:** [[Akt_Substrate_Phosphorylation_Z-001-0010]] — AS160 phosphorylation
+
+## Core Principle
+
+stimulates glucose uptake by triggering GLUT4 vesicle translocation to the plasma membrane in muscle and adipose tissue.
 
 ## Context
 
@@ -46,11 +54,19 @@ created: 2026-02-22
 **Rate-limiting step:** GLUT4 translocation is the bottleneck for glucose uptake
 
 
+## Core Principle
+
+stimulates glucose uptake by triggering GLUT4 vesicle translocation to the plasma membrane in muscle and adipose tissue.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+stimulates glucose uptake by triggering GLUT4 vesicle translocation to the plasma membrane in muscle and adipose tissue.
 
 ## Connection to Vault
 

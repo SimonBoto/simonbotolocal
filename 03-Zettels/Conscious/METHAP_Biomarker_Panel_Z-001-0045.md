@@ -34,15 +34,27 @@ The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates mul
 
 **Integration value:** Single biomarkers miss the multifactorial nature of IR; panel approach captures metabolic, inflammatory, nutritional, and microbial dimensions simultaneously.
 
+## Core Principle
+
+The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates multiple biomarker categories for comprehensive insulin resistance assessment across the disease spectrum — from early detection through monitoring.
+
 ## Key Details
 
 **Sample requirements:** Mixed — urine (organic acids), plasma (metabolic/inflammatory), stool (microbiome).
+
+## Core Principle
+
+The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates multiple biomarker categories for comprehensive insulin resistance assessment across the disease spectrum — from early detection through monitoring.
 
 ## Links
 
 - **Upstream:** [[Biomarker_Classification_Framework_Z-001-0040.md] — Classification framework
 - **Parallel:**  — Trial design context
 - **Downstream:**  — Practical application
+
+## Core Principle
+
+The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates multiple biomarker categories for comprehensive insulin resistance assessment across the disease spectrum — from early detection through monitoring.
 
 ## Context
 
@@ -54,6 +66,10 @@ The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates mul
 
 *UID: Z-001-0045 | Domain: 001 | Created: 2026-02-24*
 
+## Core Principle
+
+The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates multiple biomarker categories for comprehensive insulin resistance assessment across the disease spectrum — from early detection through monitoring.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[CRP_[B-002-0001]|Biomarker Family]
@@ -64,6 +80,10 @@ The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates mul
 
 
 ---
+
+## Core Principle
+
+The METHAP (Metabolic Health Assessment Protocol) biomarker panel integrates multiple biomarker categories for comprehensive insulin resistance assessment across the disease spectrum — from early detection through monitoring.
 
 ## Connection to Vault
 

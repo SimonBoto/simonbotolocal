@@ -25,6 +25,10 @@ extraction-date: 2026-03-01
 
 > Statins are competitive inhibitors of HMG-CoA reductase, the rate-limiting enzyme in  synthesis, triggering compensatory upregulation of LDL receptors and enhanced clearance of circulating LDL.
 
+## Core Principle
+
+> Statins are competitive inhibitors of HMG-CoA reductase, the rate-limiting enzyme in  synthesis, triggering compensatory upregulation of LDL receptors and enhanced clearance of circulating LDL.
+
 ## Mechanism
 
 ```
@@ -43,6 +47,10 @@ LDL receptor upregulation
 Enhanced LDL clearance
 ```
 
+## Core Principle
+
+> Statins are competitive inhibitors of HMG-CoA reductase, the rate-limiting enzyme in  synthesis, triggering compensatory upregulation of LDL receptors and enhanced clearance of circulating LDL.
+
 ## Pharmacokinetics
 
 | Statin | Potency | Lipophilicity | Half-life |  |
@@ -52,14 +60,26 @@ Enhanced LDL clearance
 | **Simvastatin** | Moderate | Lipophilic | 2-3h | CYP3A4 |
 | **Pravastatin** | Moderate | Hydrophilic | 1-3h | Sulfation |
 
+## Core Principle
+
+> Statins are competitive inhibitors of HMG-CoA reductase, the rate-limiting enzyme in  synthesis, triggering compensatory upregulation of LDL receptors and enhanced clearance of circulating LDL.
+
 ## Lipophilic vs. Hydrophilic
 
 **Lipophilic:** Cross membranes, enter muscle/brain, higher myopathy risk
 **Hydrophilic:** Limited to hepatocytes, lower myopathy risk
 
+## Core Principle
+
+> Statins are competitive inhibitors of HMG-CoA reductase, the rate-limiting enzyme in  synthesis, triggering compensatory upregulation of LDL receptors and enhanced clearance of circulating LDL.
+
 ## Dose-Response
 
 **Rule of 6:** Each doubling reduces LDL ~6%
+
+## Core Principle
+
+> Statins are competitive inhibitors of HMG-CoA reductase, the rate-limiting enzyme in  synthesis, triggering compensatory upregulation of LDL receptors and enhanced clearance of circulating LDL.
 
 ## Pleiotropic Effects
 
@@ -73,9 +93,17 @@ Enhanced LDL clearance
 *Source: [[LitNote_Statin_Pharmacology_L-001-0502]*
 
 
+## Core Principle
+
+> Statins are competitive inhibitors of HMG-CoA reductase, the rate-limiting enzyme in  synthesis, triggering compensatory upregulation of LDL receptors and enhanced clearance of circulating LDL.
+
 ## Related
 - [[Cholesterol_Synthesis_Mevalonate_Pathway_Z-001-0501]|Z-001-0501]
 
+
+## Core Principle
+
+> Statins are competitive inhibitors of HMG-CoA reductase, the rate-limiting enzyme in  synthesis, triggering compensatory upregulation of LDL receptors and enhanced clearance of circulating LDL.
 
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
@@ -84,6 +112,10 @@ Enhanced LDL clearance
 - [[Methylmalonyl_CoA_Mutase_B12_Mechanism_Z-001-0428]|Z-001-0428]
 
 ---
+
+## Core Principle
+
+> Statins are competitive inhibitors of HMG-CoA reductase, the rate-limiting enzyme in  synthesis, triggering compensatory upregulation of LDL receptors and enhanced clearance of circulating LDL.
 
 ## Connection to Vault
 

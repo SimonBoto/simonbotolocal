@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 Vitamin K2 activates matrix GLA protein (MGP), which inhibits calcium deposition in arterial walls. This theoretically redirects calcium to bone rather than vessels—dual benefit not seen with bisphosphonates.
 
+## Core Principle
+
+Vitamin K2 activates matrix GLA protein (MGP), which inhibits calcium deposition in arterial walls. This theoretically redirects calcium to bone rather than vessels—dual benefit not seen with bisphosphonates.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,10 +34,18 @@ Vitamin K2 activates matrix GLA protein (MGP), which inhibits calcium deposition
 *UID: Z-001-0094 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Vitamin K2 activates matrix GLA protein (MGP), which inhibits calcium deposition in arterial walls. This theoretically redirects calcium to bone rather than vessels—dual benefit not seen with bisphosphonates.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Vitamin K2 activates matrix GLA protein (MGP), which inhibits calcium deposition in arterial walls. This theoretically redirects calcium to bone rather than vessels—dual benefit not seen with bisphosphonates.
 
 ## Connection to Vault
 

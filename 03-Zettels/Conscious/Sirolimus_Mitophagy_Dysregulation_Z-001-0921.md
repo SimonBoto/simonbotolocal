@@ -17,6 +17,10 @@ updated: 2026-03-05
 
 **Core :** Sirolimus activates mitophagy ( autophagy) but suppresses mitochondrial biogenesis, creating imbalance → net mitochondrial loss.
 
+## Core Principle
+
+**Core :** Sirolimus activates mitophagy ( autophagy) but suppresses mitochondrial biogenesis, creating imbalance → net mitochondrial loss.
+
 ## mTORC1 and Autophagy Regulation
 
 **Normal State (Fed):**
@@ -31,6 +35,10 @@ updated: 2026-03-05
 - Autophagosome formation
 - Cellular components recycled
 
+## Core Principle
+
+**Core :** Sirolimus activates mitophagy ( autophagy) but suppresses mitochondrial biogenesis, creating imbalance → net mitochondrial loss.
+
 ## Sirolimus Effect: Chronic Autophagy
 
 **Acute Sirolimus (Beneficial):**
@@ -44,6 +52,10 @@ updated: 2026-03-05
 - Excessive mitochondrial clearance
 - **Without matching biogenesis**
 - Net loss of healthy mitochondria
+
+## Core Principle
+
+**Core :** Sirolimus activates mitophagy ( autophagy) but suppresses mitochondrial biogenesis, creating imbalance → net mitochondrial loss.
 
 ## The Imbalance Problem
 
@@ -61,6 +73,10 @@ Mitochondrial Health = Biogenesis - (Damage + Clearance)
 - Clearance ↑ (via autophagy activation)
 - **Net: Progressive depletion**
 
+## Core Principle
+
+**Core :** Sirolimus activates mitophagy ( autophagy) but suppresses mitochondrial biogenesis, creating imbalance → net mitochondrial loss.
+
 ## Tissue-Specific Impact
 
 | Tissue | Baseline Mitophagy | Sirolimus Effect | Outcome |
@@ -69,6 +85,10 @@ Mitochondrial Health = Biogenesis - (Damage + Clearance)
 | **Heart** | Low | Moderate clearance, low replacement | Cardiomyopathy |
 | **Brain** | Low | Moderate clearance, low replacement | Cognitive decline |
 | **Liver** | Moderate | High clearance, low replacement | Metabolic dysfunction |
+
+## Core Principle
+
+**Core :** Sirolimus activates mitophagy ( autophagy) but suppresses mitochondrial biogenesis, creating imbalance → net mitochondrial loss.
 
 ## Mitophagy Mechanisms
 
@@ -85,6 +105,10 @@ Mitochondrial Health = Biogenesis - (Damage + Clearance)
 - Direct binding to LC3
 - Less dependent on Parkin
 
+## Core Principle
+
+**Core :** Sirolimus activates mitophagy ( autophagy) but suppresses mitochondrial biogenesis, creating imbalance → net mitochondrial loss.
+
 ## Chronic Sirolimus Consequences
 
 **Mitochondrial Depletion Syndrome:**
@@ -97,6 +121,10 @@ Mitochondrial Health = Biogenesis - (Damage + Clearance)
 - Extreme cases: excessive self-digestion
 - Energy starvation
 - Cell death pathway
+
+## Core Principle
+
+**Core :** Sirolimus activates mitophagy ( autophagy) but suppresses mitochondrial biogenesis, creating imbalance → net mitochondrial loss.
 
 ## Intermittent vs Chronic Dosing
 
@@ -117,12 +145,20 @@ Mitochondrial Health = Biogenesis - (Damage + Clearance)
 *See also: [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]*
 
 
+## Core Principle
+
+**Core :** Sirolimus activates mitophagy ( autophagy) but suppresses mitochondrial biogenesis, creating imbalance → net mitochondrial loss.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[Sirolimus_Lipotoxicity_Adiponectin_Z-001-0926]|Z-001-0926]
 
 ---
+
+## Core Principle
+
+**Core :** Sirolimus activates mitophagy ( autophagy) but suppresses mitochondrial biogenesis, creating imbalance → net mitochondrial loss.
 
 ## Connection to Vault
 

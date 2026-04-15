@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 When discontinuing denosumab, guidelines recommend transitioning to bisphosphonate therapy to mitigate rebound bone loss and fracture risk. Timing is critical—bisphosphonate should be initiated before denosumab wears off completely.
 
+## Core Principle
+
+When discontinuing denosumab, guidelines recommend transitioning to bisphosphonate therapy to mitigate rebound bone loss and fracture risk. Timing is critical—bisphosphonate should be initiated before denosumab wears off completely.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,11 +34,19 @@ When discontinuing denosumab, guidelines recommend transitioning to bisphosphona
 *UID: Z-001-0087 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+When discontinuing denosumab, guidelines recommend transitioning to bisphosphonate therapy to mitigate rebound bone loss and fracture risk. Timing is critical—bisphosphonate should be initiated before denosumab wears off completely.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+When discontinuing denosumab, guidelines recommend transitioning to bisphosphonate therapy to mitigate rebound bone loss and fracture risk. Timing is critical—bisphosphonate should be initiated before denosumab wears off completely.
 
 ## Connection to Vault
 

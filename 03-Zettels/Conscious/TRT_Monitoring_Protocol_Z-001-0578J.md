@@ -21,12 +21,20 @@ status: conscious
 
 This zettel documents the comprehensive monitoring protocol for patients undergoing testosterone replacement therapy.
 
+## Core Principle
+
+This zettel documents the comprehensive monitoring protocol for patients undergoing testosterone replacement therapy.
+
 ## Initial Monitoring (First 3-6 months)
 
 - Baseline: PSA, hematocrit, hemoglobin, liver enzymes, lipid profile, bone density (if indicated)
 - Month 1: Testosterone levels, hematocrit, PSA
 - Month 3: Comprehensive panel (PSA, hematocrit, lipids, liver enzymes, testosterone)
 - Month 6: Repeat comprehensive panel + symptom assessment
+
+## Core Principle
+
+This zettel documents the comprehensive monitoring protocol for patients undergoing testosterone replacement therapy.
 
 ## Ongoing Monitoring (Every 6-12 months)
 
@@ -35,6 +43,10 @@ This zettel documents the comprehensive monitoring protocol for patients undergo
 - Testosterone levels (trough levels)
 - Symptom assessment and quality of life questionnaire
 - Bone mineral density (if indicated, every 2-3 years)
+
+## Core Principle
+
+This zettel documents the comprehensive monitoring protocol for patients undergoing testosterone replacement therapy.
 
 ## Red Flags Requiring Immediate Evaluation
 

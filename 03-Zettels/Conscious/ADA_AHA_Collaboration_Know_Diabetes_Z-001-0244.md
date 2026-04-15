@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > The American Diabetes Association and American Heart Association jointly launched the "Know Diabetes by Heart™" initiative to address the leading cause of death in people with Type 2 diabetes—cardiovascular disease—through education, research, and community outreach.
 
+## Core Principle
+
+> The American Diabetes Association and American Heart Association jointly launched the "Know Diabetes by Heart™" initiative to address the leading cause of death in people with Type 2 diabetes—cardiovascular disease—through education, research, and community outreach.
+
 ## Collaboration Overview
 
 **Partners:**
@@ -25,6 +29,10 @@ extraction-date: 2026-03-01
 - Joint initiative combining strengths
 - Addresses overlapping patient populations
 - Shared goal: Reduce CVD in diabetes
+
+## Core Principle
+
+> The American Diabetes Association and American Heart Association jointly launched the "Know Diabetes by Heart™" initiative to address the leading cause of death in people with Type 2 diabetes—cardiovascular disease—through education, research, and community outreach.
 
 ## Know Diabetes by Heart™ Program
 
@@ -45,6 +53,10 @@ extraction-date: 2026-03-01
 - Black and Latino populations (higher T2DM/CVD rates)
 - Underserved areas
 
+## Core Principle
+
+> The American Diabetes Association and American Heart Association jointly launched the "Know Diabetes by Heart™" initiative to address the leading cause of death in people with Type 2 diabetes—cardiovascular disease—through education, research, and community outreach.
+
 ## Rationale for Collaboration
 
 ** Connection:**
@@ -57,6 +69,10 @@ extraction-date: 2026-03-01
 - ADA: Glucose management expertise
 - AHA: Blood pressure, lipid management
 - Combined: Comprehensive risk reduction
+
+## Core Principle
+
+> The American Diabetes Association and American Heart Association jointly launched the "Know Diabetes by Heart™" initiative to address the leading cause of death in people with Type 2 diabetes—cardiovascular disease—through education, research, and community outreach.
 
 ## METHAP Relevance
 
@@ -77,16 +93,28 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_ADA_History_L-001-0209]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> The American Diabetes Association and American Heart Association jointly launched the "Know Diabetes by Heart™" initiative to address the leading cause of death in people with Type 2 diabetes—cardiovascular disease—through education, research, and community outreach.
+
 ## Related
 - [[ADA_Founding_Mission_1940_Z-001-0241]] — Founding organization
 - [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]] — Funding context
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]] — Guideline history
+
+## Core Principle
+
+> The American Diabetes Association and American Heart Association jointly launched the "Know Diabetes by Heart™" initiative to address the leading cause of death in people with Type 2 diabetes—cardiovascular disease—through education, research, and community outreach.
 
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+> The American Diabetes Association and American Heart Association jointly launched the "Know Diabetes by Heart™" initiative to address the leading cause of death in people with Type 2 diabetes—cardiovascular disease—through education, research, and community outreach.
 
 ## Connection to Vault
 

@@ -22,12 +22,20 @@ status: conscious
 
 Progesterone plays a critical role in modulating the hypothalamic-pituitary-gonadal axis, particularly in the luteal phase of the menstrual cycle and in maintaining pregnancy.
 
+## Core Principle
+
+Progesterone plays a critical role in modulating the hypothalamic-pituitary-gonadal axis, particularly in the luteal phase of the menstrual cycle and in maintaining pregnancy.
+
 ## Physiological Roles
 
 - **LH surge modulation**: Progesterone enhances the LH surge triggered by estradiol
 - **Luteal phase regulation**: Maintains corpus luteum function and prepares endometrium
 - **Pregnancy maintenance**: Sustains endometrial receptivity and suppresses uterine contractions
 - **Feedback effects**: Modulates GnRH pulse frequency and LH secretion patterns
+
+## Core Principle
+
+Progesterone plays a critical role in modulating the hypothalamic-pituitary-gonadal axis, particularly in the luteal phase of the menstrual cycle and in maintaining pregnancy.
 
 ## Regulatory Mechanisms
 
@@ -36,11 +44,19 @@ Progesterone plays a critical role in modulating the hypothalamic-pituitary-gona
 - **Ovarian effects**: Maintains corpus luteum and regulates local growth factors
 - **Interaction with estrogen**: Synergistic effects on endometrial development
 
+## Core Principle
+
+Progesterone plays a critical role in modulating the hypothalamic-pituitary-gonadal axis, particularly in the luteal phase of the menstrual cycle and in maintaining pregnancy.
+
 ## Clinical Significance
 
 - **Luteal phase defect**: Progesterone deficiency causing infertility or recurrent miscarriage
 - **HRT applications**: Progesterone added to estrogen therapy for endometrial protection
 - **PCOS management**: Progesterone withdrawal bleeding induces endometrial shedding
+
+## Core Principle
+
+Progesterone plays a critical role in modulating the hypothalamic-pituitary-gonadal axis, particularly in the luteal phase of the menstrual cycle and in maintaining pregnancy.
 
 ## Key Research Findings
 

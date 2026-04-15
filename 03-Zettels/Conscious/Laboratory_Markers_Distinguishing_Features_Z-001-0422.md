@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Serum protein electrophoresis, free light chains, and B12 metabolite levels definitively distinguish B12 deficiency from multiple myeloma.
 
+## Core Principle
+
+> Serum protein electrophoresis, free light chains, and B12 metabolite levels definitively distinguish B12 deficiency from multiple myeloma.
+
 ## Markers Present in MM, Absent in B12 Deficiency
 
 | Marker | MM | B12 Deficiency |
@@ -25,6 +29,10 @@ extraction-date: 2026-03-01
 | **Creatinine** | Often elevated | Normal |
 | **Bone lesions (imaging)** | Focal lytic lesions | Diffuse demineralization |
 
+## Core Principle
+
+> Serum protein electrophoresis, free light chains, and B12 metabolite levels definitively distinguish B12 deficiency from multiple myeloma.
+
 ## Markers Present in B12 Deficiency, Absent in MM
 
 | Marker | B12 Deficiency | MM |
@@ -34,6 +42,10 @@ extraction-date: 2026-03-01
 | **Homocysteine** | Elevated | Normal |
 | **Anti-IF antibodies** | May be present | Absent |
 | **Response to B12** | Rapid reticulocytosis | None |
+
+## Core Principle
+
+> Serum protein electrophoresis, free light chains, and B12 metabolite levels definitively distinguish B12 deficiency from multiple myeloma.
 
 ## Diagnostic Algorithm
 
@@ -48,6 +60,10 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_B12_MM_Mimicry_L-001-0404]*
 
 
+## Core Principle
+
+> Serum protein electrophoresis, free light chains, and B12 metabolite levels definitively distinguish B12 deficiency from multiple myeloma.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
@@ -55,6 +71,10 @@ extraction-date: 2026-03-01
 - _Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> Serum protein electrophoresis, free light chains, and B12 metabolite levels definitively distinguish B12 deficiency from multiple myeloma.
 
 ## Connection to Vault
 

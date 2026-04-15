@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 >  serves as the central unifying mechanism of metabolic syndrome, driving a cascade of metabolic dysregulation, , and cardiovascular risk.
 
+## Core Principle
+
+>  serves as the central unifying mechanism of metabolic syndrome, driving a cascade of metabolic dysregulation, , and cardiovascular risk.
+
 ## Central Mechanism: Insulin Resistance
 
 **Definition:** Impaired cellular response to insulin, requiring compensatory hyperinsulinemia to maintain euglycemia.
@@ -23,6 +27,10 @@ extraction-date: 2026-03-01
 - **Muscle:** Reduced glucose uptake (GLUT4 translocation impaired)
 - **Adipose:** Increased lipolysis, elevated FFA → ectopic fat deposition
 - **Liver:** Increased gluconeogenesis, VLDL overproduction
+
+## Core Principle
+
+>  serves as the central unifying mechanism of metabolic syndrome, driving a cascade of metabolic dysregulation, , and cardiovascular risk.
 
 ## Contributing Pathways
 
@@ -56,11 +64,19 @@ extraction-date: 2026-03-01
 - **Small dense LDL:** More atherogenic particles
 - **HDL reduction:** Impaired reverse cholesterol transport
 
+## Core Principle
+
+>  serves as the central unifying mechanism of metabolic syndrome, driving a cascade of metabolic dysregulation, , and cardiovascular risk.
+
 ## Vicious Cycles
 
 ```
 Insulin Resistance → Hyperinsulinemia → Weight Gain → Adipose Dysfunction → Inflammation → Worsening IR
 ```
+
+## Core Principle
+
+>  serves as the central unifying mechanism of metabolic syndrome, driving a cascade of metabolic dysregulation, , and cardiovascular risk.
 
 ## Magnesium Connection
 
@@ -79,6 +95,10 @@ Magnesium deficiency contributes to:
 *Extracted: 2026-03-01*
 
 
+## Core Principle
+
+>  serves as the central unifying mechanism of metabolic syndrome, driving a cascade of metabolic dysregulation, , and cardiovascular risk.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[CRP_[B-002-0001]|Biomarker Family]
@@ -88,6 +108,10 @@ Magnesium deficiency contributes to:
 - 
 
 ---
+
+## Core Principle
+
+>  serves as the central unifying mechanism of metabolic syndrome, driving a cascade of metabolic dysregulation, , and cardiovascular risk.
 
 ## Connection to Vault
 

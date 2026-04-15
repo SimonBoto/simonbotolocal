@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > The contrasting philosophies of physician John Harvey Kellogg (health mission) and businessman Will Keith Kellogg (commercial vision) led to both the invention of cornflakes and the creation of the breakfast cereal industry—along with a permanent family rift.
 
+## Core Principle
+
+> The contrasting philosophies of physician John Harvey Kellogg (health mission) and businessman Will Keith Kellogg (commercial vision) led to both the invention of cornflakes and the creation of the breakfast cereal industry—along with a permanent family rift.
+
 ## John Harvey Kellogg (1852-1943)
 
 **Background:**
@@ -42,6 +46,10 @@ extraction-date: 2026-03-01
 - Lost control of cereal business
 - Estranged from brother
 - Maintained health advocacy
+
+## Core Principle
+
+> The contrasting philosophies of physician John Harvey Kellogg (health mission) and businessman Will Keith Kellogg (commercial vision) led to both the invention of cornflakes and the creation of the breakfast cereal industry—along with a permanent family rift.
 
 ## Will Keith Kellogg (1860-1951)
 
@@ -72,6 +80,10 @@ extraction-date: 2026-03-01
 - Philanthropy (Kellogg Foundation)
 - "Breakfast is most important meal" (invented)
 
+## Core Principle
+
+> The contrasting philosophies of physician John Harvey Kellogg (health mission) and businessman Will Keith Kellogg (commercial vision) led to both the invention of cornflakes and the creation of the breakfast cereal industry—along with a permanent family rift.
+
 ## The Conflict
 
 **Dispute Origin:**
@@ -91,6 +103,10 @@ extraction-date: 2026-03-01
 - Both successful in own spheres
 - Different historical legacies
 - W.K.'s company far outlasted Sanitarium
+
+## Core Principle
+
+> The contrasting philosophies of physician John Harvey Kellogg (health mission) and businessman Will Keith Kellogg (commercial vision) led to both the invention of cornflakes and the creation of the breakfast cereal industry—along with a permanent family rift.
 
 ## Historical Assessment
 
@@ -117,11 +133,19 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Cereal_History_L-001-0211]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> The contrasting philosophies of physician John Harvey Kellogg (health mission) and businessman Will Keith Kellogg (commercial vision) led to both the invention of cornflakes and the creation of the breakfast cereal industry—along with a permanent family rift.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> The contrasting philosophies of physician John Harvey Kellogg (health mission) and businessman Will Keith Kellogg (commercial vision) led to both the invention of cornflakes and the creation of the breakfast cereal industry—along with a permanent family rift.
 
 ## Connection to Vault
 

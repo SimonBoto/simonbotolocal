@@ -17,6 +17,10 @@ extraction-date: 2026-04-15
 
 The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not achieving optimal physiological function — representing an 18th-century standard applied to 21st-century health.
 
+## Core Principle
+
+The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not achieving optimal physiological function — representing an 18th-century standard applied to 21st-century health.
+
 ## The RDA Standard
 
 **Current recommendation:**
@@ -24,6 +28,10 @@ The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not 
 - **Basis:** Prevention of scurvy
 - **Historical origin:** 18th-century sailors' diets (hardtack, salt pork)
 - **Goal:** Bare minimum to prevent death
+
+## Core Principle
+
+The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not achieving optimal physiological function — representing an 18th-century standard applied to 21st-century health.
 
 ## Pauling's Analysis
 
@@ -37,6 +45,10 @@ The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not 
 - **Therapeutic:** 6,000-18,000mg/day
 - **Rationale:** Evolutionary precedent, not deficiency prevention
 
+## Core Principle
+
+The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not achieving optimal physiological function — representing an 18th-century standard applied to 21st-century health.
+
 ## The Deficiency vs. Function Distinction
 
 | Level | Intake | Outcome |
@@ -45,6 +57,10 @@ The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not 
 | **RDA** | 75-90mg/day | No scurvy, suboptimal function |
 | **Optimal** | 200-500mg/day | Adequate for most functions |
 | **Pauling's target** | 2,000-10,000mg/day | Evolutionary precedent, therapeutic potential |
+
+## Core Principle
+
+The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not achieving optimal physiological function — representing an 18th-century standard applied to 21st-century health.
 
 ## Why the Gap Matters
 
@@ -60,6 +76,10 @@ The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not 
 - Stress/illness response
 - Long-term disease prevention
 
+## Core Principle
+
+The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not achieving optimal physiological function — representing an 18th-century standard applied to 21st-century health.
+
 ## The Insanity Pauling Saw
 
 > "We're using 18th-century deficiency standards to determine 21st-century optimal health."
@@ -69,6 +89,10 @@ The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not 
 - Ignores evolutionary biology
 - Focuses on disease absence, not health presence
 
+## Core Principle
+
+The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not achieving optimal physiological function — representing an 18th-century standard applied to 21st-century health.
+
 ## Modern Context
 
 **Current understanding:**
@@ -76,6 +100,10 @@ The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not 
 - Individual needs vary (stress, illness, smoking)
 - Therapeutic applications require pharmacological doses
 - RDA may be adequate for healthy, unstressed adults
+
+## Core Principle
+
+The RDA of 90mg vitamin C is based on preventing acute deficiency (scurvy), not achieving optimal physiological function — representing an 18th-century standard applied to 21st-century health.
 
 ## Source
 [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] — Vitamin King (2025)

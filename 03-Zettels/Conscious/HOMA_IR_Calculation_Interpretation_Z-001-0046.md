@@ -26,6 +26,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**HOMA-IR** (Homeostatic Model Assessment for Insulin Resistance) estimates insulin resistance from fasting glucose and fasting insulin. It's the most widely used clinical surrogate for insulin clamp studies.
+
 ## 📐 Formula
 
 $$
@@ -39,6 +43,10 @@ $$
 
 ---
 
+## Core Principle
+
+**HOMA-IR** (Homeostatic Model Assessment for Insulin Resistance) estimates insulin resistance from fasting glucose and fasting insulin. It's the most widely used clinical surrogate for insulin clamp studies.
+
 ## 🎯 Interpretation Thresholds
 
 | HOMA-IR | Status | Clinical Meaning |
@@ -51,6 +59,10 @@ $$
 **Note:** Some labs use <2.5 as "normal" cutoff. For optimal metabolic health, target <2.0.
 
 ---
+
+## Core Principle
+
+**HOMA-IR** (Homeostatic Model Assessment for Insulin Resistance) estimates insulin resistance from fasting glucose and fasting insulin. It's the most widely used clinical surrogate for insulin clamp studies.
 
 ## 🔗 Connected s
 
@@ -68,6 +80,10 @@ $$
 - [[Homocysteine_Composite_Methylation_Marker_Z-004-0001.md] — Homocysteine (methylation supports insulin signaling)
 
 ---
+
+## Core Principle
+
+**HOMA-IR** (Homeostatic Model Assessment for Insulin Resistance) estimates insulin resistance from fasting glucose and fasting insulin. It's the most widely used clinical surrogate for insulin clamp studies.
 
 ## 🩺 Clinical Application
 
@@ -97,6 +113,10 @@ $$
 
 ---
 
+## Core Principle
+
+**HOMA-IR** (Homeostatic Model Assessment for Insulin Resistance) estimates insulin resistance from fasting glucose and fasting insulin. It's the most widely used clinical surrogate for insulin clamp studies.
+
 ## 📊 Validation
 
 **Original publication:** Matthews et al., *Diabetologia* 1985
@@ -104,6 +124,10 @@ $$
 **Population reference:** Mediterranean populations typically 1.0-1.5
 
 ---
+
+## Core Principle
+
+**HOMA-IR** (Homeostatic Model Assessment for Insulin Resistance) estimates insulin resistance from fasting glucose and fasting insulin. It's the most widely used clinical surrogate for insulin clamp studies.
 
 ## 🔄 Calculation Example
 
@@ -115,11 +139,19 @@ $$
 
 ---
 
+## Core Principle
+
+**HOMA-IR** (Homeostatic Model Assessment for Insulin Resistance) estimates insulin resistance from fasting glucose and fasting insulin. It's the most widely used clinical surrogate for insulin clamp studies.
+
 ## 💡 Clinical Pearl
 
 > "HOMA-IR is a snapshot. Track it over time. A patient with HOMA-IR 2.3 improving to 1.8 is winning, even if both are technically 'elevated'."
 
 ---
+
+## Core Principle
+
+**HOMA-IR** (Homeostatic Model Assessment for Insulin Resistance) estimates insulin resistance from fasting glucose and fasting insulin. It's the most widely used clinical surrogate for insulin clamp studies.
 
 ## Data Export (METHAP)
 
@@ -132,6 +164,10 @@ patient_id,visit,fasting_glucose_mg_dl,fasting_insulin_uu_ml,homa_ir,homa_ir_sta
 *Source: , *
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
+## Core Principle
+
+**HOMA-IR** (Homeostatic Model Assessment for Insulin Resistance) estimates insulin resistance from fasting glucose and fasting insulin. It's the most widely used clinical surrogate for insulin clamp studies.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
@@ -140,6 +176,10 @@ patient_id,visit,fasting_glucose_mg_dl,fasting_insulin_uu_ml,homa_ir,homa_ir_sta
 
 
 ---
+
+## Core Principle
+
+**HOMA-IR** (Homeostatic Model Assessment for Insulin Resistance) estimates insulin resistance from fasting glucose and fasting insulin. It's the most widely used clinical surrogate for insulin clamp studies.
 
 ## Connection to Vault
 

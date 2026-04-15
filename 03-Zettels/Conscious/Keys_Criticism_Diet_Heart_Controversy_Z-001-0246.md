@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Despite its influence, Ancel Keys' Seven Countries Study faced significant methodological criticisms regarding country selection, data analysis, and the leap from correlation to causation, fueling ongoing debate about saturated fat and heart disease.
 
+## Core Principle
+
+> Despite its influence, Ancel Keys' Seven Countries Study faced significant methodological criticisms regarding country selection, data analysis, and the leap from correlation to causation, fueling ongoing debate about saturated fat and heart disease.
+
 ## Major Criticisms
 
 ### 1. Cherry-Picked Countries
@@ -76,6 +80,10 @@ extraction-date: 2026-03-01
 - HDL vs. LDL distinction missed initially
 - Particle size matters (not known then)
 
+## Core Principle
+
+> Despite its influence, Ancel Keys' Seven Countries Study faced significant methodological criticisms regarding country selection, data analysis, and the leap from correlation to causation, fueling ongoing debate about saturated fat and heart disease.
+
 ## Scientific Debate Timeline
 
 **1970s-1980s:**
@@ -95,6 +103,10 @@ extraction-date: 2026-03-01
 - Sugar industry documents revealed
 - Nuanced view emerging
 
+## Core Principle
+
+> Despite its influence, Ancel Keys' Seven Countries Study faced significant methodological criticisms regarding country selection, data analysis, and the leap from correlation to causation, fueling ongoing debate about saturated fat and heart disease.
+
 ## Sugar Industry Connection
 
 **Recent Revelations:**
@@ -107,6 +119,10 @@ extraction-date: 2026-03-01
 - Trade groups shaped research agenda
 -  science captured by industry
 - Economic interests > health science
+
+## Core Principle
+
+> Despite its influence, Ancel Keys' Seven Countries Study faced significant methodological criticisms regarding country selection, data analysis, and the leap from correlation to causation, fueling ongoing debate about saturated fat and heart disease.
 
 ## Modern Scientific Position
 
@@ -121,6 +137,10 @@ extraction-date: 2026-03-01
 - 2020s: Focus on overall dietary pattern
 - Mediterranean diet supported (Keys was right here)
 - Individual variation recognized
+
+## Core Principle
+
+> Despite its influence, Ancel Keys' Seven Countries Study faced significant methodological criticisms regarding country selection, data analysis, and the leap from correlation to causation, fueling ongoing debate about saturated fat and heart disease.
 
 ## METHAP Relevance
 
@@ -141,12 +161,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Dietary_Fat_History_L-001-0210]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Despite its influence, Ancel Keys' Seven Countries Study faced significant methodological criticisms regarding country selection, data analysis, and the leap from correlation to causation, fueling ongoing debate about saturated fat and heart disease.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
 - [[Omega_6_Cardiovascular_Controversy_Z-001-0962]|Z-001-0962]
 
 ---
+
+## Core Principle
+
+> Despite its influence, Ancel Keys' Seven Countries Study faced significant methodological criticisms regarding country selection, data analysis, and the leap from correlation to causation, fueling ongoing debate about saturated fat and heart disease.
 
 ## Connection to Vault
 

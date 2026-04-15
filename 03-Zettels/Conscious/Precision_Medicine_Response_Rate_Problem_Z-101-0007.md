@@ -34,6 +34,10 @@ Approved therapies for chronic diseases show only 30-60% effectiveness, with sig
 
 **METHAP Application:**  response is heterogeneous. Metabolic s (adipic acid panel) can identify likely responders before intervention, optimizing resource allocation and patient outcomes.
 
+## Core Principle
+
+Approved therapies for chronic diseases show only 30-60% effectiveness, with significant heterogeneity in patient response. This empirical approach — treating chronic conditions reactively after damage occurs — results in unnecessary adverse effects, costs, and delayed optimal care.
+
 ## Key Details
 
 | Therapy | Response Rate | Non-Responders |
@@ -42,11 +46,19 @@ Approved therapies for chronic diseases show only 30-60% effectiveness, with sig
 | Anti-TNFα | ~60% | ~40% |
 | Empirical approach | Variable | High failure |
 
+## Core Principle
+
+Approved therapies for chronic diseases show only 30-60% effectiveness, with significant heterogeneity in patient response. This empirical approach — treating chronic conditions reactively after damage occurs — results in unnecessary adverse effects, costs, and delayed optimal care.
+
 ## Links
 
 - **Upstream:** [[Pharmacometabolomics_Framework_Metabotypes_Z-101-0001.md] — Pharmacometabolomics provides solution
 - **Parallel:** [[METHAP_Biomarker_Panel_Z-001-0045.md] — METHAP panel enables stratification
 - **Downstream:** , 
+
+## Core Principle
+
+Approved therapies for chronic diseases show only 30-60% effectiveness, with significant heterogeneity in patient response. This empirical approach — treating chronic conditions reactively after damage occurs — results in unnecessary adverse effects, costs, and delayed optimal care.
 
 ## Context
 
@@ -58,6 +70,10 @@ Approved therapies for chronic diseases show only 30-60% effectiveness, with sig
 
 *UID: Z-101-0007 | Domain: 101 | Created: 2026-02-24*
 
+## Core Principle
+
+Approved therapies for chronic diseases show only 30-60% effectiveness, with significant heterogeneity in patient response. This empirical approach — treating chronic conditions reactively after damage occurs — results in unnecessary adverse effects, costs, and delayed optimal care.
+
 ## RELATED FILES
 - 
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
@@ -65,6 +81,10 @@ Approved therapies for chronic diseases show only 30-60% effectiveness, with sig
 
 
 ---
+
+## Core Principle
+
+Approved therapies for chronic diseases show only 30-60% effectiveness, with significant heterogeneity in patient response. This empirical approach — treating chronic conditions reactively after damage occurs — results in unnecessary adverse effects, costs, and delayed optimal care.
 
 ## Connection to Vault
 

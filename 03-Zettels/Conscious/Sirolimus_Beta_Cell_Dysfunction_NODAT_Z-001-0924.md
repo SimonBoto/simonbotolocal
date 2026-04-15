@@ -17,6 +17,10 @@ updated: 2026-03-05
 
 **Core Mechanism:** Pancreatic β-cells are exquisitely sensitive to sirolimus due to high metabolic demand for  secretion and dependence on mitochondrial ATP production.
 
+## Core Principle
+
+**Core Mechanism:** Pancreatic β-cells are exquisitely sensitive to sirolimus due to high metabolic demand for  secretion and dependence on mitochondrial ATP production.
+
 ## Why β-Cells Are Vulnerable
 
 **High Metabolic Demand:**
@@ -47,6 +51,10 @@ Glucose enters → Glycolysis → Pyruvate → Mitochondria
 - 90% of ATP from oxidative phosphorylation
 - Limited glycolytic capacity
 - Mitochondria must rapidly respond to glucose
+
+## Core Principle
+
+**Core Mechanism:** Pancreatic β-cells are exquisitely sensitive to sirolimus due to high metabolic demand for  secretion and dependence on mitochondrial ATP production.
 
 ## Sirolimus Effects on β-Cells
 
@@ -86,6 +94,10 @@ Glucose enters → Glycolysis → Pyruvate → Mitochondria
 - Removal of functional components
 - Autophagic cell death
 
+## Core Principle
+
+**Core Mechanism:** Pancreatic β-cells are exquisitely sensitive to sirolimus due to high metabolic demand for  secretion and dependence on mitochondrial ATP production.
+
 ## Clinical Pattern: NODAT
 
 ### New-Onset Diabetes After Transplantation
@@ -116,6 +128,10 @@ Glucose enters → Glycolysis → Pyruvate → Mitochondria
 - Delayed/inadequate insulin peak
 - Relative insulin deficiency
 
+## Core Principle
+
+**Core Mechanism:** Pancreatic β-cells are exquisitely sensitive to sirolimus due to high metabolic demand for  secretion and dependence on mitochondrial ATP production.
+
 ## Risk Factors
 
 | Factor | Mechanism |
@@ -126,6 +142,10 @@ Glucose enters → Glycolysis → Pyruvate → Mitochondria
 | **Hepatitis C** | Viral impact on glucose metabolism |
 | **Steroids** | Additive  |
 | **Age** | Reduced β-cell reserve |
+
+## Core Principle
+
+**Core Mechanism:** Pancreatic β-cells are exquisitely sensitive to sirolimus due to high metabolic demand for  secretion and dependence on mitochondrial ATP production.
 
 ## Distinction from Type 1 Diabetes
 
@@ -143,11 +163,19 @@ Glucose enters → Glycolysis → Pyruvate → Mitochondria
 *See also: [[Sirolimus_GLUT4_Insulin_Resistance_Z-001-0923]*
 
 
+## Core Principle
+
+**Core Mechanism:** Pancreatic β-cells are exquisitely sensitive to sirolimus due to high metabolic demand for  secretion and dependence on mitochondrial ATP production.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+**Core Mechanism:** Pancreatic β-cells are exquisitely sensitive to sirolimus due to high metabolic demand for  secretion and dependence on mitochondrial ATP production.
 
 ## Connection to Vault
 

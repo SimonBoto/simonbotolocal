@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Vitamin D improves insulin sensitivity through direct actions on pancreatic β-cells, enhanced peripheral glucose uptake, and suppression of inflammatory and oxidative pathways that drive insulin resistance.
 
+## Core Principle
+
+> Vitamin D improves insulin sensitivity through direct actions on pancreatic β-cells, enhanced peripheral glucose uptake, and suppression of inflammatory and oxidative pathways that drive insulin resistance.
+
 ## Direct Effects on Insulin Secretion
 
 ### Pancreatic β-Cell Function
@@ -32,6 +36,10 @@ extraction-date: 2026-03-01
 **Clinical Evidence:**
 - Deficient patients: Impaired first-phase insulin response
 - Repletion: Restores insulin secretion kinetics
+
+## Core Principle
+
+> Vitamin D improves insulin sensitivity through direct actions on pancreatic β-cells, enhanced peripheral glucose uptake, and suppression of inflammatory and oxidative pathways that drive insulin resistance.
 
 ## Peripheral Insulin Sensitivity
 
@@ -51,6 +59,10 @@ extraction-date: 2026-03-01
 - Reduces lipolysis (F张A release drives IR in other tissues)
 - Improves adiponectin secretion (insulin-sensitizing)
 
+## Core Principle
+
+> Vitamin D improves insulin sensitivity through direct actions on pancreatic β-cells, enhanced peripheral glucose uptake, and suppression of inflammatory and oxidative pathways that drive insulin resistance.
+
 ## Anti-Inflammatory Effects on Insulin Signaling
 
 ### Cytokine Suppression
@@ -69,6 +81,10 @@ extraction-date: 2026-03-01
 - Reduces oxidative stress in insulin-sensitive tissues
 - Protects insulin signaling from oxidation-induced damage
 
+## Core Principle
+
+> Vitamin D improves insulin sensitivity through direct actions on pancreatic β-cells, enhanced peripheral glucose uptake, and suppression of inflammatory and oxidative pathways that drive insulin resistance.
+
 ## Renin-Angiotensin System Suppression
 
 ### VitD → Lower RAAS Activity
@@ -81,6 +97,10 @@ extraction-date: 2026-03-01
 - Angiotensin II promotes insulin resistance
 - Lower RAAS improves insulin sensitivity
 - Also reduces blood pressure (independent benefit)
+
+## Core Principle
+
+> Vitamin D improves insulin sensitivity through direct actions on pancreatic β-cells, enhanced peripheral glucose uptake, and suppression of inflammatory and oxidative pathways that drive insulin resistance.
 
 ## Epidemiological Evidence
 
@@ -104,6 +124,10 @@ extraction-date: 2026-03-01
 - **von Hurst et al. (2010):** 4000 IU/day improved insulin sensitivity in insulin-resistant women
 - **Nazarian et al. (2011):** Repletion improved β-cell function
 - **Mitri et al. (2011):** Reduced progression from pre-diabetes to diabetes
+
+## Core Principle
+
+> Vitamin D improves insulin sensitivity through direct actions on pancreatic β-cells, enhanced peripheral glucose uptake, and suppression of inflammatory and oxidative pathways that drive insulin resistance.
 
 ## METHAP Implications
 
@@ -131,6 +155,10 @@ extraction-date: 2026-03-01
 *Related: [[LitNote_High_Dose_Vitamin_D_Research_L-001-0009]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Vitamin D improves insulin sensitivity through direct actions on pancreatic β-cells, enhanced peripheral glucose uptake, and suppression of inflammatory and oxidative pathways that drive insulin resistance.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[CRP_[B-002-0001]|Biomarker Family]
@@ -139,6 +167,10 @@ extraction-date: 2026-03-01
 - 
 
 ---
+
+## Core Principle
+
+> Vitamin D improves insulin sensitivity through direct actions on pancreatic β-cells, enhanced peripheral glucose uptake, and suppression of inflammatory and oxidative pathways that drive insulin resistance.
 
 ## Connection to Vault
 

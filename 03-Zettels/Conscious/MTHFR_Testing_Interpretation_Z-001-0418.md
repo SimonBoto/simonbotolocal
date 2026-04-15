@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > MTHFR genotyping can guide  supplementation but should be interpreted cautiously as these are common variants, not pathogenic mutations, and dietary folate status remains the dominant factor.
 
+## Core Principle
+
+> MTHFR genotyping can guide  supplementation but should be interpreted cautiously as these are common variants, not pathogenic mutations, and dietary folate status remains the dominant factor.
+
 ## Testing Methods
 
 **Available Tests:**
@@ -22,6 +26,10 @@ extraction-date: 2026-03-01
 - SNP arrays (23andMe, etc.)
 - Direct sequencing
 - Functional testing (rare)
+
+## Core Principle
+
+> MTHFR genotyping can guide  supplementation but should be interpreted cautiously as these are common variants, not pathogenic mutations, and dietary folate status remains the dominant factor.
 
 ## When to Test
 
@@ -32,6 +40,10 @@ extraction-date: 2026-03-01
 - Family history CVD with high homocysteine
 - Macrocytic anemia unexplained
 - Treatment-resistant depression
+
+## Core Principle
+
+> MTHFR genotyping can guide  supplementation but should be interpreted cautiously as these are common variants, not pathogenic mutations, and dietary folate status remains the dominant factor.
 
 ## Interpretation Caution
 
@@ -50,6 +62,10 @@ extraction-date: 2026-03-01
 - Combine with homocysteine levels
 - Consider other B vitamins
 - Assess symptoms
+
+## Core Principle
+
+> MTHFR genotyping can guide  supplementation but should be interpreted cautiously as these are common variants, not pathogenic mutations, and dietary folate status remains the dominant factor.
 
 ## Practical Utility
 
@@ -70,6 +86,10 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_MTHFR_Genetics_L-001-0403]*
 
 
+## Core Principle
+
+> MTHFR genotyping can guide  supplementation but should be interpreted cautiously as these are common variants, not pathogenic mutations, and dietary folate status remains the dominant factor.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -77,6 +97,10 @@ extraction-date: 2026-03-01
 - [[Folate_5MTHF_vs_Folic_Acid_Z-004-0002]|Z-004-0002]
 
 ---
+
+## Core Principle
+
+> MTHFR genotyping can guide  supplementation but should be interpreted cautiously as these are common variants, not pathogenic mutations, and dietary folate status remains the dominant factor.
 
 ## Connection to Vault
 

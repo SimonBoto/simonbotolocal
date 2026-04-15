@@ -32,6 +32,10 @@ Current IOM Upper Limits (UL) for  are substantially lower than doses proven saf
 
 **For protocols:** Research evidence supports doses 3-4x current ULs with appropriate monitoring.
 
+## Core Principle
+
+Current IOM Upper Limits (UL) for  are substantially lower than doses proven safe in  research. Pediatric studies demonstrate safety at doses 2-4x UL, creating evidence gap that affects clinical practice and regulatory policy.
+
 ## Links
 
 **Parent MOC:** 
@@ -43,10 +47,18 @@ Current IOM Upper Limits (UL) for  are substantially lower than doses proven saf
 *UID: Z-001-0071 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Current IOM Upper Limits (UL) for  are substantially lower than doses proven safe in  research. Pediatric studies demonstrate safety at doses 2-4x UL, creating evidence gap that affects clinical practice and regulatory policy.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Current IOM Upper Limits (UL) for  are substantially lower than doses proven safe in  research. Pediatric studies demonstrate safety at doses 2-4x UL, creating evidence gap that affects clinical practice and regulatory policy.
 
 ## Connection to Vault
 

@@ -29,6 +29,10 @@ Fasting insulin alone is superior to HOMA-IR for detecting early insulin resista
 
 **Note:** Must be interpreted with glucose — very low insulin + normal glucose suggests excellent sensitivity; high insulin + normal glucose indicates compensation (Stage 1).
 
+## Core Principle
+
+Fasting insulin alone is superior to HOMA-IR for detecting early insulin resistance because it becomes elevated during the compensatory stage — when beta-cells are still maintaining normal glucose through hyperinsulinemia.
+
 ## Key Details
 
 | Fasting Insulin | Interpretation | Stage |
@@ -38,11 +42,19 @@ Fasting insulin alone is superior to HOMA-IR for detecting early insulin resista
 | 15-20 μIU/mL | Significant IR | Stage 1-2 |
 | >20 μIU/mL | Severe/compensating | Stage 2 |
 
+## Core Principle
+
+Fasting insulin alone is superior to HOMA-IR for detecting early insulin resistance because it becomes elevated during the compensatory stage — when beta-cells are still maintaining normal glucose through hyperinsulinemia.
+
 ## Links
 
 - **Upstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — Detects this compensatory stage
 - **Parallel:** _Z-001-0041.md] — Adipic acid detects even earlier
 - **Downstream:**  — Implementation
+
+## Core Principle
+
+Fasting insulin alone is superior to HOMA-IR for detecting early insulin resistance because it becomes elevated during the compensatory stage — when beta-cells are still maintaining normal glucose through hyperinsulinemia.
 
 ## Context
 
@@ -54,12 +66,20 @@ Fasting insulin alone is superior to HOMA-IR for detecting early insulin resista
 
 *UID: Z-001-0044 | Domain: 001 | Created: 2026-02-24*
 
+## Core Principle
+
+Fasting insulin alone is superior to HOMA-IR for detecting early insulin resistance because it becomes elevated during the compensatory stage — when beta-cells are still maintaining normal glucose through hyperinsulinemia.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
 
 ---
+
+## Core Principle
+
+Fasting insulin alone is superior to HOMA-IR for detecting early insulin resistance because it becomes elevated during the compensatory stage — when beta-cells are still maintaining normal glucose through hyperinsulinemia.
 
 ## Connection to Vault
 

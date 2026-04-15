@@ -19,6 +19,10 @@ Poorly designed  that cannot yield reliable knowledge is unethical. Methodologic
 
 **Core principle:** Invalid research wastes resources and exploits participants by exposing them to risk without compensatory benefit to society.
 
+## Core Principle
+
+Poorly designed  that cannot yield reliable knowledge is unethical. Methodological rigor is not merely a scientific preference—it is an ethical obligation to participants who accept risk.
+
 ## Validity Requirements
 
 | Element | Requirement |
@@ -29,6 +33,10 @@ Poorly designed  that cannot yield reliable knowledge is unethical. Methodologic
 | **Control conditions** | Appropriate comparison groups |
 | **Analysis plan** | Pre-specified, statistically sound |
 
+## Core Principle
+
+Poorly designed  that cannot yield reliable knowledge is unethical. Methodological rigor is not merely a scientific preference—it is an ethical obligation to participants who accept risk.
+
 ## Common Validity Failures
 
 - Underpowered studies (type II error)
@@ -37,6 +45,10 @@ Poorly designed  that cannot yield reliable knowledge is unethical. Methodologic
 - Post-hoc analysis without correction
 - Missing data handled inappropriately
 
+## Core Principle
+
+Poorly designed  that cannot yield reliable knowledge is unethical. Methodological rigor is not merely a scientific preference—it is an ethical obligation to participants who accept risk.
+
 ## Application to METHAP
 
 METHAP protocol must demonstrate:
@@ -44,6 +56,10 @@ METHAP protocol must demonstrate:
 - **Validated :** LC-MS/MS methods with known precision/accuracy
 - **Appropriate controls:** Healthy vs. prediabetic vs. diabetic comparison
 - **Pre-specified analysis:** Statistical plan defined before data collection
+
+## Core Principle
+
+Poorly designed  that cannot yield reliable knowledge is unethical. Methodological rigor is not merely a scientific preference—it is an ethical obligation to participants who accept risk.
 
 ## Links
 
@@ -56,12 +72,20 @@ METHAP protocol must demonstrate:
 *UID: Z-002-0602 | Domain: 002 | Created: 2026-03-27*
 
 
+## Core Principle
+
+Poorly designed  that cannot yield reliable knowledge is unethical. Methodological rigor is not merely a scientific preference—it is an ethical obligation to participants who accept risk.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+Poorly designed  that cannot yield reliable knowledge is unethical. Methodological rigor is not merely a scientific preference—it is an ethical obligation to participants who accept risk.
 
 ## Connection to Vault
 

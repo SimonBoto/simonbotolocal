@@ -22,12 +22,20 @@ status: conscious
 
 > **Definition:** Inclusion and exclusion criteria are explicit, pre-defined conditions used to determine which studies are eligible for inclusion in a systematic review based on their methodological characteristics, population, interventions, outcomes, and study design.
 
+## Core Principle
+
+> **Definition:** Inclusion and exclusion criteria are explicit, pre-defined conditions used to determine which studies are eligible for inclusion in a systematic review based on their methodological characteristics, population, interventions, outcomes, and study design.
+
 ## Key Principles
 
 - **Pre-specification:** Criteria are defined and documented in the protocol before conducting the review
 - **Transparency:** Criteria are clearly articulated and justified in the review report
 - **Objectivity:** Criteria are applied consistently across all studies
 - **Reproducibility:** Criteria enable other researchers to replicate the selection process
+
+## Core Principle
+
+> **Definition:** Inclusion and exclusion criteria are explicit, pre-defined conditions used to determine which studies are eligible for inclusion in a systematic review based on their methodological characteristics, population, interventions, outcomes, and study design.
 
 ## Common Criteria Categories
 
@@ -46,6 +54,10 @@ status: conscious
 ### Study Design
 - Randomized controlled trials, cohort studies, case-control studies, cross-sectional studies
 
+## Core Principle
+
+> **Definition:** Inclusion and exclusion criteria are explicit, pre-defined conditions used to determine which studies are eligible for inclusion in a systematic review based on their methodological characteristics, population, interventions, outcomes, and study design.
+
 ## Development Process
 
 1. **PICO(S) framework:** Structuring criteria around Population, Intervention, Comparison, Outcome, Study design
@@ -53,6 +65,10 @@ status: conscious
 3. **Expert consultation:** Seeking input from methodologists and content experts
 4. **Pilot testing:** Applying criteria to a sample of studies to assess clarity and consistency
 5. **Documentation:** Comprehensive reporting of all criteria in the protocol and final report
+
+## Core Principle
+
+> **Definition:** Inclusion and exclusion criteria are explicit, pre-defined conditions used to determine which studies are eligible for inclusion in a systematic review based on their methodological characteristics, population, interventions, outcomes, and study design.
 
 ## Reporting Standards
 
@@ -62,6 +78,10 @@ status: conscious
 - Use of PRISMA 2020 flow diagram to document selection process
 
 ---
+
+## Core Principle
+
+> **Definition:** Inclusion and exclusion criteria are explicit, pre-defined conditions used to determine which studies are eligible for inclusion in a systematic review based on their methodological characteristics, population, interventions, outcomes, and study design.
 
 ## Related Concepts
 

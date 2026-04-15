@@ -21,6 +21,10 @@ Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capa
 
 **Molecular mechanism:** Ceramide and diacylglycerol (DAG) accumulate in target tissues. DAG activates protein kinase C (PKC), which phosphorylates IRS-1 at serine residues (Ser307, Ser312, Ser1101), blocking insulin-stimulated tyrosine phosphorylation and downstream PI3K/Akt signaling.
 
+## Core Principle
+
+Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capacity, creating hypoxic, fibrotic tissue that attracts pro-inflammatory M1 macrophages. Adipokine dysregulation follows: adiponectin (insulin-sensitizing) decreases while leptin increases, leading to leptin resistance.
+
 ## Key Details
 
 | Factor | Effect |
@@ -32,11 +36,19 @@ Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capa
 
 **:** Elevated urinary adipic acid indicates impaired beta-oxidation and serves as early lipotoxicity indicator.
 
+## Core Principle
+
+Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capacity, creating hypoxic, fibrotic tissue that attracts pro-inflammatory M1 macrophages. Adipokine dysregulation follows: adiponectin (insulin-sensitizing) decreases while leptin increases, leading to leptin resistance.
+
 ## Links
 
 - **Upstream:** [[Insulin_Receptor_Structure_Z-001-0001]] — Excess nutrient intake triggers pathway
 - **Parallel:** [[Mitochondrial_Dysfunction_IR_Z-001-0030.md] — Mitochondrial dysfunction co-occurs
 - **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — Compensatory hyperinsulinemia results
+
+## Core Principle
+
+Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capacity, creating hypoxic, fibrotic tissue that attracts pro-inflammatory M1 macrophages. Adipokine dysregulation follows: adiponectin (insulin-sensitizing) decreases while leptin increases, leading to leptin resistance.
 
 ## Context
 
@@ -48,6 +60,10 @@ Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capa
 
 *UID: Z-001-0029 | Domain: 001 | Created: 2026-02-24*
 
+## Core Principle
+
+Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capacity, creating hypoxic, fibrotic tissue that attracts pro-inflammatory M1 macrophages. Adipokine dysregulation follows: adiponectin (insulin-sensitizing) decreases while leptin increases, leading to leptin resistance.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
@@ -56,6 +72,10 @@ Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capa
 
 
 ---
+
+## Core Principle
+
+Chronic nutrient overflow leads to adipose tissue expansion beyond vascular capacity, creating hypoxic, fibrotic tissue that attracts pro-inflammatory M1 macrophages. Adipokine dysregulation follows: adiponectin (insulin-sensitizing) decreases while leptin increases, leading to leptin resistance.
 
 ## Connection to Vault
 

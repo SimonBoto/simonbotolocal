@@ -22,6 +22,10 @@ Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellula
 
 ---
 
+## Core Principle
+
+Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellular vs cholestatic vs alcoholic patterns** localizes the problem and guides diagnosis.
+
 ## 🎯 The Three Patterns
 
 ### Pattern 1: Hepatocellular (AST/ALT Predominant)
@@ -70,6 +74,10 @@ Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellula
 
 ---
 
+## Core Principle
+
+Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellular vs cholestatic vs alcoholic patterns** localizes the problem and guides diagnosis.
+
 ## 🔗 Connected Systems
 
 **Insulin Resistance:**
@@ -82,6 +90,10 @@ Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellula
 - Elevated liver enzymes correlate with small dense LDL
 
 ---
+
+## Core Principle
+
+Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellular vs cholestatic vs alcoholic patterns** localizes the problem and guides diagnosis.
 
 ## 🩺 Clinical Application
 
@@ -103,6 +115,10 @@ Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellula
 
 ---
 
+## Core Principle
+
+Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellular vs cholestatic vs alcoholic patterns** localizes the problem and guides diagnosis.
+
 ## 🔬 PhD-METHAP Relevance
 
 **Secondary marker:**
@@ -116,6 +132,10 @@ patient_id,visit,ast_u_l,alt_u_l,ggt_u_l,alp_u_l,ast_alt_ratio,liver_pattern
 
 ---
 
+## Core Principle
+
+Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellular vs cholestatic vs alcoholic patterns** localizes the problem and guides diagnosis.
+
 ## 💡 Clinical Pearl
 
 > "AST:ALT ratio >1 in NAFLD means fibrosis. In early NAFLD, ALT > AST. As fibrosis progresses, mitochondrial AST releases and the ratio flips."
@@ -127,6 +147,10 @@ patient_id,visit,ast_u_l,alt_u_l,ggt_u_l,alp_u_l,ast_alt_ratio,liver_pattern
 *Source: , *
 *Created: 2026-02-26 | Domain: 008 | Status: Conscious*
 
+## Core Principle
+
+Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellular vs cholestatic vs alcoholic patterns** localizes the problem and guides diagnosis.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
@@ -135,6 +159,10 @@ patient_id,visit,ast_u_l,alt_u_l,ggt_u_l,alp_u_l,ast_alt_ratio,liver_pattern
 
 
 ---
+
+## Core Principle
+
+Liver enzyme elevations follow predictable patterns. Recognizing **hepatocellular vs cholestatic vs alcoholic patterns** localizes the problem and guides diagnosis.
 
 ## Connection to Vault
 

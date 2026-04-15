@@ -17,6 +17,10 @@ created: 2026-03-27
 
 METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-sectional biomarker identification with longitudinal dietary intervention.
 
+## Core Principle
+
+METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-sectional biomarker identification with longitudinal dietary intervention.
+
 ## Study Phases
 
 ### Phase 1: Cross-Sectional Observational (N=200)
@@ -31,11 +35,19 @@ METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-section
 - **Randomization:** Control IR (n=50) vs. Intervention (n=50)
 - **Outcome:** Metabolic biomarker changes, HOMA-IR, HbA1c
 
+## Core Principle
+
+METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-sectional biomarker identification with longitudinal dietary intervention.
+
 ## Scientific Rationale
 
 **Primary hypothesis:** Specific organic acids and free fatty acids correlate with insulin resistance severity.
 
 **Secondary hypothesis:** Dietary interventions (low-carbohydrate diet + targeted supplements) modify these metabolic markers and improve IR outcomes.
+
+## Core Principle
+
+METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-sectional biomarker identification with longitudinal dietary intervention.
 
 ## Innovation
 
@@ -46,6 +58,10 @@ METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-section
 | **Intervention synergy** | Multiple micronutrients combined with dietary change |
 | **Clinical translation** | Urine-based testing is accessible and non-invasive |
 
+## Core Principle
+
+METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-sectional biomarker identification with longitudinal dietary intervention.
+
 ## Key Measurements
 
 - Urine organic acids (GC-MS)
@@ -53,6 +69,10 @@ METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-section
 - HOMA-IR, fasting glucose, HbA1c
 - Body composition, blood pressure
 - Dietary intake (FFQ, 24-hour recall)
+
+## Core Principle
+
+METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-sectional biomarker identification with longitudinal dietary intervention.
 
 ## Links
 
@@ -64,6 +84,10 @@ METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-section
 
 *UID: Z-002-0616 | Domain: 002 | Created: 2026-03-27*
 
+## Core Principle
+
+METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-sectional biomarker identification with longitudinal dietary intervention.
+
 ## RELATED FILES
 - 
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
@@ -71,6 +95,10 @@ METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-section
 
 
 ---
+
+## Core Principle
+
+METHAP ( and Insulin Resistance s) is a dual-phase study combining cross-sectional biomarker identification with longitudinal dietary intervention.
 
 ## Connection to Vault
 

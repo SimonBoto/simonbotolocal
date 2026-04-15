@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe mal.
 
+## Core Principle
+
+> Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe mal.
+
 ## The Pre-Insulin Prognosis
 
 **Type 1 Diabetes Before 1921:**
@@ -29,6 +33,10 @@ extraction-date: 2026-03-01
 3. Weight loss despite increased appetite
 4. Progressive weakness
 5. Coma and death
+
+## Core Principle
+
+> Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe mal.
 
 ## Frederick M. Allen's Starvation Diet
 
@@ -53,6 +61,10 @@ extraction-date: 2026-03-01
   - Constant hunger
   - Poor quality of life
 
+## Core Principle
+
+> Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe mal.
+
 ## Patient Experience
 
 **Physical State:**
@@ -68,6 +80,10 @@ extraction-date: 2026-03-01
 - Hopelessness
 - Social isolation
 
+## Core Principle
+
+> Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe mal.
+
 ## Historical Significance
 
 **Comparison to Post-Insulin:**
@@ -80,6 +96,10 @@ extraction-date: 2026-03-01
 - "Lesser of two evils"
 - Foundation for dietary management even post-insulin
 
+## Core Principle
+
+> Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe mal.
+
 ## Transition to Insulin Era
 
 **Leonard Thompson (1922):**
@@ -87,6 +107,10 @@ extraction-date: 2026-03-01
 - Weighed 65 pounds at age 14
 - Insulin transformed him from near-death to health
 - Demonstrated starvation was no longer necessary
+
+## Core Principle
+
+> Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe mal.
 
 ## Legacy
 
@@ -106,13 +130,25 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Insulin_History_L-001-0207]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe mal.
+
 ## Related
 - [[Olive_Oil_Special_Populations_Z-001-0536]|Z-001-0536]
 
 
+## Core Principle
+
+> Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe mal.
+
 ## Related
 - [[ADA_Founding_Mission_1940_Z-001-0241]|Z-001-0241]
 
+
+## Core Principle
+
+> Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe mal.
 
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
@@ -120,6 +156,10 @@ extraction-date: 2026-03-01
 - [[Oleic_Acid_Metabolic_Benefits_Z-001-0533]|Z-001-0533]
 
 ---
+
+## Core Principle
+
+> Before the discovery of insulin in 1921, Type 1 diabetes was a fatal diagnosis with no effective treatment; the only available therapy was severe caloric restriction (starvation diets) that could prolong life by months at the cost of severe mal.
 
 ## Connection to Vault
 

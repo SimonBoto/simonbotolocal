@@ -30,6 +30,10 @@ Saadi et al. (2009) demonstrated safety of 2,000 IU/day in infants over short du
 
 **Citation:** Saadi et al. 2009.
 
+## Core Principle
+
+Saadi et al. (2009) demonstrated safety of 2,000 IU/day in infants over short duration with monitoring. This dose exceeds current IOM UL (1,000-1,500 IU for infants) by 33-100% with no adverse effects.
+
 ## Links
 
 **Parent MOC:** 
@@ -41,11 +45,19 @@ Saadi et al. (2009) demonstrated safety of 2,000 IU/day in infants over short du
 *UID: Z-001-0068 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Saadi et al. (2009) demonstrated safety of 2,000 IU/day in infants over short duration with monitoring. This dose exceeds current IOM UL (1,000-1,500 IU for infants) by 33-100% with no adverse effects.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+Saadi et al. (2009) demonstrated safety of 2,000 IU/day in infants over short duration with monitoring. This dose exceeds current IOM UL (1,000-1,500 IU for infants) by 33-100% with no adverse effects.
 
 ## Connection to Vault
 

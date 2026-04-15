@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > One-carbon metabolism is a network of biochemical reactions involving the transfer of single carbon units essential for DNA synthesis, cell division, and epigenetic regulation, with folate and vitamin B12 serving as critical cofactors.
 
+## Core Principle
+
+> One-carbon metabolism is a network of biochemical reactions involving the transfer of single carbon units essential for DNA synthesis, cell division, and epigenetic regulation, with folate and vitamin B12 serving as critical cofactors.
+
 ## Definition
 
 **One-Carbon Units:**
@@ -28,6 +32,10 @@ extraction-date: 2026-03-01
 1. **DNA Synthesis:** Thymidylate and purine production
 2. **Methylation Reactions:** Epigenetic regulation, neurotransmitter synthesis
 3. **Amino Acid Metabolism:** Interconversion of serine, glycine, methionine, homocysteine
+
+## Core Principle
+
+> One-carbon metabolism is a network of biochemical reactions involving the transfer of single carbon units essential for DNA synthesis, cell division, and epigenetic regulation, with folate and vitamin B12 serving as critical cofactors.
 
 ## The Folate Cycle
 
@@ -47,6 +55,10 @@ THF ↔ 5,10-Methylene-THF ↔ 5-Methyl-THF
 | 5,10-Methylene-THF | Methylene | dUMP → dTMP (DNA synthesis) |
 | 10-Formyl-THF | Formyl | Purine synthesis |
 
+## Core Principle
+
+> One-carbon metabolism is a network of biochemical reactions involving the transfer of single carbon units essential for DNA synthesis, cell division, and epigenetic regulation, with folate and vitamin B12 serving as critical cofactors.
+
 ## Methionine Regeneration
 
 **The Methyl Donation:**
@@ -59,6 +71,10 @@ THF ↔ 5,10-Methylene-THF ↔ 5-Methyl-THF
 - Links folate cycle to methylation capacity
 - Explains B12-folate interdependence
 - Critical for DNA methylation maintenance
+
+## Core Principle
+
+> One-carbon metabolism is a network of biochemical reactions involving the transfer of single carbon units essential for DNA synthesis, cell division, and epigenetic regulation, with folate and vitamin B12 serving as critical cofactors.
 
 ##  Relevance
 
@@ -79,12 +95,20 @@ THF ↔ 5,10-Methylene-THF ↔ 5-Methyl-THF
 *Source: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]*
 
 
+## Core Principle
+
+> One-carbon metabolism is a network of biochemical reactions involving the transfer of single carbon units essential for DNA synthesis, cell division, and epigenetic regulation, with folate and vitamin B12 serving as critical cofactors.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> One-carbon metabolism is a network of biochemical reactions involving the transfer of single carbon units essential for DNA synthesis, cell division, and epigenetic regulation, with folate and vitamin B12 serving as critical cofactors.
 
 ## Connection to Vault
 

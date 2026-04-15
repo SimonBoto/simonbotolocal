@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 Denosumab is a fully human monoclonal antibody that binds to RANKL, preventing it from activating RANK on osteoclasts. This reduces osteoclast differentiation, activity, and survival, thereby decreasing bone resorption and increasing BMD.
 
+## Core Principle
+
+Denosumab is a fully human monoclonal antibody that binds to RANKL, preventing it from activating RANK on osteoclasts. This reduces osteoclast differentiation, activity, and survival, thereby decreasing bone resorption and increasing BMD.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,10 +34,18 @@ Denosumab is a fully human monoclonal antibody that binds to RANKL, preventing i
 *UID: Z-001-0085 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Denosumab is a fully human monoclonal antibody that binds to RANKL, preventing it from activating RANK on osteoclasts. This reduces osteoclast differentiation, activity, and survival, thereby decreasing bone resorption and increasing BMD.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Denosumab is a fully human monoclonal antibody that binds to RANKL, preventing it from activating RANK on osteoclasts. This reduces osteoclast differentiation, activity, and survival, thereby decreasing bone resorption and increasing BMD.
 
 ## Connection to Vault
 

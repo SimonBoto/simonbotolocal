@@ -30,6 +30,10 @@ updated: 2026-03-05
 
 > Statin intolerance affects 5-10% of patients, with myopathy representing the most common concern requiring systematic evaluation and management.
 
+## Core Principle
+
+> Statin intolerance affects 5-10% of patients, with myopathy representing the most common concern requiring systematic evaluation and management.
+
 ## Myopathy Spectrum
 
 | Condition | CK | Symptoms | Incidence |
@@ -38,10 +42,18 @@ updated: 2026-03-05
 | **Myositis** | 3-10x ULN | Pain + weakness | <1% |
 | **Rhabdomyolysis** | >10x ULN | Severe, myoglobinuria | <0.1% |
 
+## Core Principle
+
+> Statin intolerance affects 5-10% of patients, with myopathy representing the most common concern requiring systematic evaluation and management.
+
 ## Risk Factors
 
 **Drug:** High-dose, lipophilic statins, interactions
 **Patient:** Age >80, renal impairment, hypothyroidism, low weight, Asian ancestry
+
+## Core Principle
+
+> Statin intolerance affects 5-10% of patients, with myopathy representing the most common concern requiring systematic evaluation and management.
 
 ## Interactions
 
@@ -49,11 +61,19 @@ updated: 2026-03-05
 - Gemfibrozil (avoid), fenofibrate (safer)
 - Amiodarone, verapamil
 
+## Core Principle
+
+> Statin intolerance affects 5-10% of patients, with myopathy representing the most common concern requiring systematic evaluation and management.
+
 ## 
 
 - CoQ10 depletion
 - l dysfunction
 - Cell membrane instability
+
+## Core Principle
+
+> Statin intolerance affects 5-10% of patients, with myopathy representing the most common concern requiring systematic evaluation and management.
 
 ## Management
 
@@ -74,11 +94,19 @@ updated: 2026-03-05
 *Source: [[LitNote_Statin_Pharmacology_L-001-0502]*
 
 
+## Core Principle
+
+> Statin intolerance affects 5-10% of patients, with myopathy representing the most common concern requiring systematic evaluation and management.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Statin intolerance affects 5-10% of patients, with myopathy representing the most common concern requiring systematic evaluation and management.
 
 ## Connection to Vault
 

@@ -22,6 +22,10 @@ Chronic stress (psychological or physiological) activates the HPA axis, elevatin
 
 **Clinical relevance:** Stress is often overlooked in metabolic disease — chronically elevated cortisol can be the primary driver of IR independent of diet.
 
+## Core Principle
+
+Chronic stress (psychological or physiological) activates the HPA axis, elevating cortisol. Cortisol increases gluconeogenesis and promotes visceral fat redistribution, both driving  resistance.
+
 ## Key Details
 
 ```
@@ -42,11 +46,19 @@ HPA Axis Dysregulation
 
 **Selye's GAS:** Alarm → Resistance → Exhaustion (chronic IR = exhaustion)
 
+## Core Principle
+
+Chronic stress (psychological or physiological) activates the HPA axis, elevating cortisol. Cortisol increases gluconeogenesis and promotes visceral fat redistribution, both driving  resistance.
+
 ## Links
 
 - **Upstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — Metabolic stress feeds back
 - **Parallel:** [[Vicious_Cycle_IR_Obesity_Z-001-0037.md], _IR_Z-001-0038.md] — Other vicious cycles
 - **Downstream:**  — Interventions
+
+## Core Principle
+
+Chronic stress (psychological or physiological) activates the HPA axis, elevating cortisol. Cortisol increases gluconeogenesis and promotes visceral fat redistribution, both driving  resistance.
 
 ## Context
 
@@ -59,10 +71,18 @@ HPA Axis Dysregulation
 *UID: Z-001-0039 | Domain: 001 | Created: 2026-02-24*
 
 
+## Core Principle
+
+Chronic stress (psychological or physiological) activates the HPA axis, elevating cortisol. Cortisol increases gluconeogenesis and promotes visceral fat redistribution, both driving  resistance.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Chronic stress (psychological or physiological) activates the HPA axis, elevating cortisol. Cortisol increases gluconeogenesis and promotes visceral fat redistribution, both driving  resistance.
 
 ## Connection to Vault
 

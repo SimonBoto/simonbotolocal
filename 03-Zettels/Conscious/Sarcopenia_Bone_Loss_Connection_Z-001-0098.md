@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 Sarcopenia (age-related muscle loss) and bone loss are connected. Low muscle mass reduces mechanical loading on bone. Protein sufficiency helps maintain both muscle and bone in older adults.
 
+## Core Principle
+
+Sarcopenia (age-related muscle loss) and bone loss are connected. Low muscle mass reduces mechanical loading on bone. Protein sufficiency helps maintain both muscle and bone in older adults.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,10 +34,18 @@ Sarcopenia (age-related muscle loss) and bone loss are connected. Low muscle mas
 *UID: Z-001-0098 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Sarcopenia (age-related muscle loss) and bone loss are connected. Low muscle mass reduces mechanical loading on bone. Protein sufficiency helps maintain both muscle and bone in older adults.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Sarcopenia (age-related muscle loss) and bone loss are connected. Low muscle mass reduces mechanical loading on bone. Protein sufficiency helps maintain both muscle and bone in older adults.
 
 ## Connection to Vault
 

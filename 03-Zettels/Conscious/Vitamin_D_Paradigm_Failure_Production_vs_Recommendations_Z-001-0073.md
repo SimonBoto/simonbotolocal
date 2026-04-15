@@ -37,6 +37,10 @@ Three convergent facts reveal systemic failure in vitamin D public health policy
 
 **For METHAP:** Justification for 8,000 IU adult dosing based on physiological precedent, not experimental pharmacology.
 
+## Core Principle
+
+Three convergent facts reveal systemic failure in vitamin D public health policy: (1) Human skin produces 10,000-20,000 IU naturally in 15-30 minutes sun exposure, (2) Official recommendations remain at 600-800 IU (RDA) and 2,500 IU (UL), (3) Historical "toxicity" was actually rare genetic disease (IIH/CYP24A1 mutations), not universal risk.
+
 ## Links
 
 **Parent MOC:** -
@@ -48,11 +52,19 @@ Three convergent facts reveal systemic failure in vitamin D public health policy
 *UID: Z-001-0073 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Three convergent facts reveal systemic failure in vitamin D public health policy: (1) Human skin produces 10,000-20,000 IU naturally in 15-30 minutes sun exposure, (2) Official recommendations remain at 600-800 IU (RDA) and 2,500 IU (UL), (3) Historical "toxicity" was actually rare genetic disease (IIH/CYP24A1 mutations), not universal risk.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+Three convergent facts reveal systemic failure in vitamin D public health policy: (1) Human skin produces 10,000-20,000 IU naturally in 15-30 minutes sun exposure, (2) Official recommendations remain at 600-800 IU (RDA) and 2,500 IU (UL), (3) Historical "toxicity" was actually rare genetic disease (IIH/CYP24A1 mutations), not universal risk.
 
 ## Connection to Vault
 

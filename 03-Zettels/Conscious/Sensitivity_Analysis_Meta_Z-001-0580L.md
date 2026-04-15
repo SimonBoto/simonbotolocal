@@ -21,6 +21,10 @@ status: conscious
 
 > **Definition:** Sensitivity analysis is a systematic approach to assess the robustness of meta-analysis conclusions by examining how results change when different assumptions, methods, or subsets of studies are used.
 
+## Core Principle
+
+> **Definition:** Sensitivity analysis is a systematic approach to assess the robustness of meta-analysis conclusions by examining how results change when different assumptions, methods, or subsets of studies are used.
+
 ## Key Applications
 
 - **Methodological choices:** Fixed vs random effects models
@@ -28,6 +32,10 @@ status: conscious
 - **Quality assessment:** Excluding studies with high risk of bias
 - **Statistical approaches:** Different effect measures or statistical methods
 - **Data handling:** Different approaches to missing data or effect size calculation
+
+## Core Principle
+
+> **Definition:** Sensitivity analysis is a systematic approach to assess the robustness of meta-analysis conclusions by examining how results change when different assumptions, methods, or subsets of studies are used.
 
 ## Common Types
 
@@ -37,6 +45,10 @@ status: conscious
 - **Influence analysis:** Quantifying impact of individual studies on overall results
 - **Threshold analysis:** Determining minimum effect size for statistical significance
 
+## Core Principle
+
+> **Definition:** Sensitivity analysis is a systematic approach to assess the robustness of meta-analysis conclusions by examining how results change when different assumptions, methods, or subsets of studies are used.
+
 ## Implementation Process
 
 1. **Define objectives:** What assumptions or decisions are being tested?
@@ -45,6 +57,10 @@ status: conscious
 4. **Compare results:** Assess changes in effect estimates and confidence intervals
 5. **Interpret findings:** Determine robustness of conclusions
 
+## Core Principle
+
+> **Definition:** Sensitivity analysis is a systematic approach to assess the robustness of meta-analysis conclusions by examining how results change when different assumptions, methods, or subsets of studies are used.
+
 ## Reporting Standards
 
 - Clear description of sensitivity analysis objectives and methods
@@ -52,6 +68,10 @@ status: conscious
 - Interpretation of robustness or fragility of conclusions
 - Discussion of implications for interpretation and generalizability
 - Use of PRISMA 2020 guidelines for sensitivity analysis reporting
+
+## Core Principle
+
+> **Definition:** Sensitivity analysis is a systematic approach to assess the robustness of meta-analysis conclusions by examining how results change when different assumptions, methods, or subsets of studies are used.
 
 ## Best Practices
 
@@ -62,6 +82,10 @@ status: conscious
 - Consider implications for confidence in overall conclusions
 
 ---
+
+## Core Principle
+
+> **Definition:** Sensitivity analysis is a systematic approach to assess the robustness of meta-analysis conclusions by examining how results change when different assumptions, methods, or subsets of studies are used.
 
 ## Related Concepts
 

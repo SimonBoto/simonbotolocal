@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Aberrant DNA methylation patterns contribute to carcinogenesis through hypermethylation (silencing tumor suppressors) and hypomethylation (activating oncogenes and genomic instability), creating complex therapeutic challenges.
 
+## Core Principle
+
+> Aberrant DNA methylation patterns contribute to carcinogenesis through hypermethylation (silencing tumor suppressors) and hypomethylation (activating oncogenes and genomic instability), creating complex therapeutic challenges.
+
 ## Hypermethylation — Gene Silencing
 
 **:**
@@ -33,6 +37,10 @@ extraction-date: 2026-03-01
 
 **Consequence:** Uncontrolled proliferation, genomic instability
 
+## Core Principle
+
+> Aberrant DNA methylation patterns contribute to carcinogenesis through hypermethylation (silencing tumor suppressors) and hypomethylation (activating oncogenes and genomic instability), creating complex therapeutic challenges.
+
 ## Hypomethylation — Genome Activation
 
 **Mechanism:**
@@ -49,6 +57,10 @@ extraction-date: 2026-03-01
 | **Promoters of invasion** | MMPs, angiogenesis factors activated |
 
 **Consequence:** Genomic chaos, activation of harmful genes
+
+## Core Principle
+
+> Aberrant DNA methylation patterns contribute to carcinogenesis through hypermethylation (silencing tumor suppressors) and hypomethylation (activating oncogenes and genomic instability), creating complex therapeutic challenges.
 
 ## The Therapeutic Paradox
 
@@ -70,6 +82,10 @@ extraction-date: 2026-03-01
 - Reverse hypermethylation of tumor suppressors
 - Approved for myelodysplastic syndromes
 
+## Core Principle
+
+> Aberrant DNA methylation patterns contribute to carcinogenesis through hypermethylation (silencing tumor suppressors) and hypomethylation (activating oncogenes and genomic instability), creating complex therapeutic challenges.
+
 ## METHAP Consideration
 
 **High-Dose Nutrients:**
@@ -83,6 +99,10 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Methylation_Cycle_L-001-0402]*
 
 
+## Core Principle
+
+> Aberrant DNA methylation patterns contribute to carcinogenesis through hypermethylation (silencing tumor suppressors) and hypomethylation (activating oncogenes and genomic instability), creating complex therapeutic challenges.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
@@ -90,6 +110,10 @@ extraction-date: 2026-03-01
 - 
 
 ---
+
+## Core Principle
+
+> Aberrant DNA methylation patterns contribute to carcinogenesis through hypermethylation (silencing tumor suppressors) and hypomethylation (activating oncogenes and genomic instability), creating complex therapeutic challenges.
 
 ## Connection to Vault
 

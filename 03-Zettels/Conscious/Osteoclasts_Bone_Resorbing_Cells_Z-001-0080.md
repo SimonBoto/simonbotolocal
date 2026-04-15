@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 Osteoclasts are multinucleated cells originating from the monocyte-macrophage lineage. They resorb bone by creating an acidic microenvironment that dissolves the mineral matrix. They attach to bone via integrins and secrete proteolytic enzymes.
 
+## Core Principle
+
+Osteoclasts are multinucleated cells originating from the monocyte-macrophage lineage. They resorb bone by creating an acidic microenvironment that dissolves the mineral matrix. They attach to bone via integrins and secrete proteolytic enzymes.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,11 +34,19 @@ Osteoclasts are multinucleated cells originating from the monocyte-macrophage li
 *UID: Z-001-0080 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Osteoclasts are multinucleated cells originating from the monocyte-macrophage lineage. They resorb bone by creating an acidic microenvironment that dissolves the mineral matrix. They attach to bone via integrins and secrete proteolytic enzymes.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Osteoclasts are multinucleated cells originating from the monocyte-macrophage lineage. They resorb bone by creating an acidic microenvironment that dissolves the mineral matrix. They attach to bone via integrins and secrete proteolytic enzymes.
 
 ## Connection to Vault
 

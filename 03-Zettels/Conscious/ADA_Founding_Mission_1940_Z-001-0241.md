@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Founded in 1940, the American Diabetes Association emerged as the leading organization for diabetes care, research, and advocacy in the United States, filling a critical need for coordinated action against the growing diabetes epidemic.
 
+## Core Principle
+
+> Founded in 1940, the American Diabetes Association emerged as the leading organization for diabetes care, research, and advocacy in the United States, filling a critical need for coordinated action against the growing diabetes epidemic.
+
 ## Historical Context
 
 **Era of Founding:**
@@ -28,6 +32,10 @@ extraction-date: 2026-03-01
 - T2DM management evolving
 - Limited understanding of complications
 - Research funding minimal
+
+## Core Principle
+
+> Founded in 1940, the American Diabetes Association emerged as the leading organization for diabetes care, research, and advocacy in the United States, filling a critical need for coordinated action against the growing diabetes epidemic.
 
 ## Mission and Activities
 
@@ -44,6 +52,10 @@ extraction-date: 2026-03-01
 - **Diabetes Forecast:** Magazine for patients
 - **Tour de Cure:** Fundraising events
 - **Camp Programs:** Children with diabetes
+
+## Core Principle
+
+> Founded in 1940, the American Diabetes Association emerged as the leading organization for diabetes care, research, and advocacy in the United States, filling a critical need for coordinated action against the growing diabetes epidemic.
 
 ## Growth and Influence
 
@@ -65,15 +77,27 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_ADA_History_L-001-0209]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Founded in 1940, the American Diabetes Association emerged as the leading organization for diabetes care, research, and advocacy in the United States, filling a critical need for coordinated action against the growing diabetes epidemic.
+
 ## Related
 - [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]] — Industry influence context
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]] — Guideline development
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]] — Current initiatives
 
+## Core Principle
+
+> Founded in 1940, the American Diabetes Association emerged as the leading organization for diabetes care, research, and advocacy in the United States, filling a critical need for coordinated action against the growing diabetes epidemic.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+> Founded in 1940, the American Diabetes Association emerged as the leading organization for diabetes care, research, and advocacy in the United States, filling a critical need for coordinated action against the growing diabetes epidemic.
 
 ## Connection to Vault
 

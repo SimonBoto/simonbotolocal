@@ -17,6 +17,10 @@ extraction-date: 2026-04-15
 
 Linus Pauling's transition from Nobel-winning chemist to vitamin C advocate represents scientific evolution based on evolutionary biology insights, not the quackery his critics claimed.
 
+## Core Principle
+
+Linus Pauling's transition from Nobel-winning chemist to vitamin C advocate represents scientific evolution based on evolutionary biology insights, not the quackery his critics claimed.
+
 ## Unprecedented Scientific Credentials
 
 | Achievement | Year | Significance |
@@ -27,6 +31,10 @@ Linus Pauling's transition from Nobel-winning chemist to vitamin C advocate repr
 | Chemical bond discovery | — | Fundamental to modern chemistry |
 | Protein structure prediction | — | Foundation for structural biology |
 
+## Core Principle
+
+Linus Pauling's transition from Nobel-winning chemist to vitamin C advocate represents scientific evolution based on evolutionary biology insights, not the quackery his critics claimed.
+
 ## The Shift to Vitamin C
 
 **Timeline:**
@@ -34,6 +42,10 @@ Linus Pauling's transition from Nobel-winning chemist to vitamin C advocate repr
 - **1970:** Published "Vitamin C and the Common Cold"
 - **Last 30 years of life:** Focused on vitamin C research
 - **1994:** Died at 93, still advocating high-dose vitamin C
+
+## Core Principle
+
+Linus Pauling's transition from Nobel-winning chemist to vitamin C advocate represents scientific evolution based on evolutionary biology insights, not the quackery his critics claimed.
 
 ## Why the Shift Was Scientific, Not Quackery
 
@@ -43,12 +55,20 @@ Pauling applied the same rigorous thinking to vitamin C:
 3. **Ancestral diet analysis** — How much did primates consume?
 4. **Biochemical mechanism** — What does vitamin C actually do?
 
+## Core Principle
+
+Linus Pauling's transition from Nobel-winning chemist to vitamin C advocate represents scientific evolution based on evolutionary biology insights, not the quackery his critics claimed.
+
 ## The Establishment's Response
 
 - **Ridicule:** "Quack," "pseudoscience"
 - **Dismissal:** Ignored evolutionary arguments
 - **Personal attacks:** Attacked the man, not the science
 - **Institutional resistance:** Medical establishment closed ranks
+
+## Core Principle
+
+Linus Pauling's transition from Nobel-winning chemist to vitamin C advocate represents scientific evolution based on evolutionary biology insights, not the quackery his critics claimed.
 
 ## Historical Parallel
 
@@ -57,6 +77,10 @@ Pauling followed a pattern seen with other paradigm-challenging scientists:
 - **Wegener** (continental drift)
 - **Marshall/ Warren** (H. pylori)
 - **Initial ridicule → later vindication**
+
+## Core Principle
+
+Linus Pauling's transition from Nobel-winning chemist to vitamin C advocate represents scientific evolution based on evolutionary biology insights, not the quackery his critics claimed.
 
 ## Source
 [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] — Vitamin King (2025)

@@ -21,6 +21,10 @@ status: conscious
 
 > **Definition:** A forest plot is a graphical representation of the results of individual studies and the overall meta-analyzed effect estimate in a systematic review, displaying effect sizes, confidence intervals, and study weights.
 
+## Core Principle
+
+> **Definition:** A forest plot is a graphical representation of the results of individual studies and the overall meta-analyzed effect estimate in a systematic review, displaying effect sizes, confidence intervals, and study weights.
+
 ## Key Components
 
 - **Study labels:** Identification of individual studies
@@ -30,6 +34,10 @@ status: conscious
 - **Diamond:** Represents the overall pooled effect estimate (center = point estimate, width = 95% CI)
 - **Vertical line:** Line of no effect (e.g., OR=1, MD=0)
 
+## Core Principle
+
+> **Definition:** A forest plot is a graphical representation of the results of individual studies and the overall meta-analyzed effect estimate in a systematic review, displaying effect sizes, confidence intervals, and study weights.
+
 ## Interpretation Guidelines
 
 - **Statistical significance:** Confidence interval crossing the line of no effect indicates non-significance
@@ -38,12 +46,20 @@ status: conscious
 - **Study weight:** Size of squares indicates relative contribution to pooled estimate
 - **Heterogeneity:** Visual assessment of spread of effect estimates
 
+## Core Principle
+
+> **Definition:** A forest plot is a graphical representation of the results of individual studies and the overall meta-analyzed effect estimate in a systematic review, displaying effect sizes, confidence intervals, and study weights.
+
 ## Common Patterns
 
 - **Consistent effects:** All confidence intervals on same side of line of no effect
 - **Inconsistent effects:** Confidence intervals straddle line of no effect
 - **High heterogeneity:** Widely dispersed effect estimates
 - **Low heterogeneity:** Tightly clustered effect estimates
+
+## Core Principle
+
+> **Definition:** A forest plot is a graphical representation of the results of individual studies and the overall meta-analyzed effect estimate in a systematic review, displaying effect sizes, confidence intervals, and study weights.
 
 ## Reporting Standards
 
@@ -54,6 +70,10 @@ status: conscious
 - Consideration of potential publication bias
 
 ---
+
+## Core Principle
+
+> **Definition:** A forest plot is a graphical representation of the results of individual studies and the overall meta-analyzed effect estimate in a systematic review, displaying effect sizes, confidence intervals, and study weights.
 
 ## Related Concepts
 

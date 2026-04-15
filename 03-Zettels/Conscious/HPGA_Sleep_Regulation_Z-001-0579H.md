@@ -23,12 +23,20 @@ status: conscious
 
 Sleep and circadian rhythms profoundly influence the hypothalamic-pituitary-gonadal axis, with reciprocal regulation between sleep-wake cycles and reproductive hormone secretion.
 
+## Core Principle
+
+Sleep and circadian rhythms profoundly influence the hypothalamic-pituitary-gonadal axis, with reciprocal regulation between sleep-wake cycles and reproductive hormone secretion.
+
 ## Circadian Patterns
 
 - **Testosterone**: Peak secretion during early sleep (first REM period), lowest in afternoon
 - **LH/FSH**: Nocturnal surge in puberty, attenuated in adults
 - **GnRH**: Diurnal variation with increased pulsatility during sleep
 - **Melatonin**: Modulates HPGA axis through MT1 receptors in hypothalamus
+
+## Core Principle
+
+Sleep and circadian rhythms profoundly influence the hypothalamic-pituitary-gonadal axis, with reciprocal regulation between sleep-wake cycles and reproductive hormone secretion.
 
 ## Sleep-Dependent Regulation
 
@@ -37,11 +45,19 @@ Sleep and circadian rhythms profoundly influence the hypothalamic-pituitary-gona
 - **Sleep deprivation**: Reduces testosterone levels and disrupts GnRH pulsatility
 - **Circadian disruption**: Shift work and jet lag impair reproductive function
 
+## Core Principle
+
+Sleep and circadian rhythms profoundly influence the hypothalamic-pituitary-gonadal axis, with reciprocal regulation between sleep-wake cycles and reproductive hormone secretion.
+
 ## Clinical Significance
 
 - **Sleep disorders**: OSA and insomnia associated with low testosterone and infertility
 - **Aging**: Age-related sleep fragmentation contributes to HPGA decline
 - **Reproductive health**: Sleep quality is a modifiable factor in fertility treatment
+
+## Core Principle
+
+Sleep and circadian rhythms profoundly influence the hypothalamic-pituitary-gonadal axis, with reciprocal regulation between sleep-wake cycles and reproductive hormone secretion.
 
 ## Key Research Findings
 

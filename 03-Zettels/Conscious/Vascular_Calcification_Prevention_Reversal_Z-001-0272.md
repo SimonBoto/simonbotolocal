@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 >  supplementation may slow progression of established vascular calcification and prevent new calcification, particularly when combined with  and  optimization.
 
+## Core Principle
+
+>  supplementation may slow progression of established vascular calcification and prevent new calcification, particularly when combined with  and  optimization.
+
 ## Prevention Strategies
 
 ### Primary Prevention (No Calcification)
@@ -49,6 +53,10 @@ extraction-date: 2026-03-01
 - Mechanical strain benefits
 - Complements nutrient approach
 
+## Core Principle
+
+>  supplementation may slow progression of established vascular calcification and prevent new calcification, particularly when combined with  and  optimization.
+
 ## Evidence for Benefit
 
 ### Intervention Studies
@@ -65,6 +73,10 @@ extraction-date: 2026-03-01
 - Increases cMGP
 - Reduces ucMGP
 - Improves vascular compliance
+
+## Core Principle
+
+>  supplementation may slow progression of established vascular calcification and prevent new calcification, particularly when combined with  and  optimization.
 
 ## METHAP Strategy
 
@@ -83,10 +95,18 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Vascular_Calcification_L-001-0215]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+>  supplementation may slow progression of established vascular calcification and prevent new calcification, particularly when combined with  and  optimization.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+>  supplementation may slow progression of established vascular calcification and prevent new calcification, particularly when combined with  and  optimization.
 
 ## Connection to Vault
 

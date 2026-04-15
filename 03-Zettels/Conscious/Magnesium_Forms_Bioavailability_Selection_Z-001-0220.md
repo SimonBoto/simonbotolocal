@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > The choice of magnesium salt significantly impacts absorption, tolerability, and clinical efficacy, with organic salts (citrate, glycinate) demonstrating superior bioavailability compared to inorganic forms (oxide).
 
+## Core Principle
+
+> The choice of magnesium salt significantly impacts absorption, tolerability, and clinical efficacy, with organic salts (citrate, glycinate) demonstrating superior bioavailability compared to inorganic forms (oxide).
+
 ## Comparative Bioavailability
 
 ### High Bioavailability Forms (Recommended)
@@ -79,6 +83,10 @@ extraction-date: 2026-03-01
 - **Cons:** Poorly absorbed, strong laxative effect
 - **Verdict:** Not recommended for therapeutic use despite popularity
 
+## Core Principle
+
+> The choice of magnesium salt significantly impacts absorption, tolerability, and clinical efficacy, with organic salts (citrate, glycinate) demonstrating superior bioavailability compared to inorganic forms (oxide).
+
 ## METHAP Recommendations
 
 **Primary Choice:**
@@ -90,6 +98,10 @@ extraction-date: 2026-03-01
 
 **Avoid:**
 - **Magnesium oxide** (poor absorption)
+
+## Core Principle
+
+> The choice of magnesium salt significantly impacts absorption, tolerability, and clinical efficacy, with organic salts (citrate, glycinate) demonstrating superior bioavailability compared to inorganic forms (oxide).
 
 ## Selection Algorithm
 
@@ -107,6 +119,10 @@ Cardiovascular Focus?
     ↓
 Yes → Consider Taurate or Orotate
 ```
+
+## Core Principle
+
+> The choice of magnesium salt significantly impacts absorption, tolerability, and clinical efficacy, with organic salts (citrate, glycinate) demonstrating superior bioavailability compared to inorganic forms (oxide).
 
 ## Practical Considerations
 
@@ -129,11 +145,19 @@ Yes → Consider Taurate or Orotate
 *Source: [[LitNote_Magnesium_Supplementation_L-001-0201d]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> The choice of magnesium salt significantly impacts absorption, tolerability, and clinical efficacy, with organic salts (citrate, glycinate) demonstrating superior bioavailability compared to inorganic forms (oxide).
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> The choice of magnesium salt significantly impacts absorption, tolerability, and clinical efficacy, with organic salts (citrate, glycinate) demonstrating superior bioavailability compared to inorganic forms (oxide).
 
 ## Connection to Vault
 

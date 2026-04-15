@@ -17,6 +17,10 @@ created: 2026-03-27
 
 Ethics committees may not respond promptly. Systematic follow-up protects your timeline while maintaining professional relationships.
 
+## Core Principle
+
+Ethics committees may not respond promptly. Systematic follow-up protects your timeline while maintaining professional relationships.
+
 ## Response Time Expectations
 
 | Committee Type | Normal Response | Follow-Up Threshold |
@@ -25,6 +29,10 @@ Ethics committees may not respond promptly. Systematic follow-up protects your t
 | Hospital ethics | 6-12 weeks | 14 weeks |
 | National committee | 3-6 months | 7 months |
 | Multi-site review | 6-12 months | 14 months |
+
+## Core Principle
+
+Ethics committees may not respond promptly. Systematic follow-up protects your timeline while maintaining professional relationships.
 
 ## Follow-Up Sequence
 
@@ -49,6 +57,10 @@ Ethics committees may not respond promptly. Systematic follow-up protects your t
 - [ ] Consider institutional ombudsman
 - [ ] Document all attempts
 
+## Core Principle
+
+Ethics committees may not respond promptly. Systematic follow-up protects your timeline while maintaining professional relationships.
+
 ## Documentation Requirements
 
 Keep records of:
@@ -58,6 +70,10 @@ Keep records of:
 - Reference numbers
 - Meeting dates (if known)
 
+## Core Principle
+
+Ethics committees may not respond promptly. Systematic follow-up protects your timeline while maintaining professional relationships.
+
 ## Red Flags
 
 Non-response may indicate:
@@ -65,6 +81,10 @@ Non-response may indicate:
 - **Administrative backlog** — Committee overwhelmed
 - **Political issues** — Supervisor conflicts, institutional problems
 - **Missing information** — Your application incomplete
+
+## Core Principle
+
+Ethics committees may not respond promptly. Systematic follow-up protects your timeline while maintaining professional relationships.
 
 ## When to Worry
 
@@ -75,6 +95,10 @@ Non-response may indicate:
 | 4x normal response | Involve department |
 | 6x normal response | Consider formal complaint |
 
+## Core Principle
+
+Ethics committees may not respond promptly. Systematic follow-up protects your timeline while maintaining professional relationships.
+
 ## Application to METHAP
 
 NKUA ethics committee timeline:
@@ -82,6 +106,10 @@ NKUA ethics committee timeline:
 - Follow up at 8 weeks if no response
 - Escalate through PhD coordinator at 12 weeks
 - Maintain professional tone throughout
+
+## Core Principle
+
+Ethics committees may not respond promptly. Systematic follow-up protects your timeline while maintaining professional relationships.
 
 ## Links
 
@@ -94,10 +122,18 @@ NKUA ethics committee timeline:
 *UID: Z-002-0613 | Domain: 002 | Created: 2026-03-27*
 
 
+## Core Principle
+
+Ethics committees may not respond promptly. Systematic follow-up protects your timeline while maintaining professional relationships.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Ethics committees may not respond promptly. Systematic follow-up protects your timeline while maintaining professional relationships.
 
 ## Connection to Vault
 

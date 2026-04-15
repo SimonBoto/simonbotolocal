@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > S-Adenosylmethionine (SAM) is synthesized from methionine and ATP, serving as the primary methyl donor for over 100  reactions including DNA, histones, neurotransmitters, and phospholipids.
 
+## Core Principle
+
+> S-Adenosylmethionine (SAM) is synthesized from methionine and ATP, serving as the primary methyl donor for over 100  reactions including DNA, histones, neurotransmitters, and phospholipids.
+
 ## Synthesis
 
 **Reaction:**
@@ -28,6 +32,10 @@ Methionine + ATP → SAM + PPi + Pi
 
 **Location:** Primarily liver, but all nucleated cells
 
+## Core Principle
+
+> S-Adenosylmethionine (SAM) is synthesized from methionine and ATP, serving as the primary methyl donor for over 100  reactions including DNA, histones, neurotransmitters, and phospholipids.
+
 ## Structure and Chemistry
 
 **Key Features:**
@@ -39,6 +47,10 @@ Methionine + ATP → SAM + PPi + Pi
 - Methyl group is "activated" (unstable)
 - Readily transfers to acceptors
 - Spontaneous or enzyme-catalyzed
+
+## Core Principle
+
+> S-Adenosylmethionine (SAM) is synthesized from methionine and ATP, serving as the primary methyl donor for over 100  reactions including DNA, histones, neurotransmitters, and phospholipids.
 
 ## Methylation Reactions
 
@@ -63,6 +75,10 @@ Methionine + ATP → SAM + PPi + Pi
 - RNA methylation
 - Protein methylation
 
+## Core Principle
+
+> S-Adenosylmethionine (SAM) is synthesized from methionine and ATP, serving as the primary methyl donor for over 100  reactions including DNA, histones, neurotransmitters, and phospholipids.
+
 ## Regulation
 
 **Substrate Availability:**
@@ -79,12 +95,20 @@ Methionine + ATP → SAM + PPi + Pi
 *Source: [[LitNote_Methylation_Cycle_L-001-0402]*
 
 
+## Core Principle
+
+> S-Adenosylmethionine (SAM) is synthesized from methionine and ATP, serving as the primary methyl donor for over 100  reactions including DNA, histones, neurotransmitters, and phospholipids.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> S-Adenosylmethionine (SAM) is synthesized from methionine and ATP, serving as the primary methyl donor for over 100  reactions including DNA, histones, neurotransmitters, and phospholipids.
 
 ## Connection to Vault
 

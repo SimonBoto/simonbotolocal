@@ -22,6 +22,10 @@ status: conscious
 
 Testosterone exerts negative feedback on the hypothalamic-pituitary-gonadal axis at multiple levels to maintain hormonal homeostasis.
 
+## Core Principle
+
+Testosterone exerts negative feedback on the hypothalamic-pituitary-gonadal axis at multiple levels to maintain hormonal homeostasis.
+
 ## Feedback Mechanisms
 
 - **Hypothalamic level**: Testosterone inhibits GnRH pulse frequency and amplitude
@@ -29,17 +33,29 @@ Testosterone exerts negative feedback on the hypothalamic-pituitary-gonadal axis
 - **Conversion to estradiol**: Aromatization in brain provides potent negative feedback
 - **Conversion to DHT**: 5-alpha-reductase activity in target tissues
 
+## Core Principle
+
+Testosterone exerts negative feedback on the hypothalamic-pituitary-gonadal axis at multiple levels to maintain hormonal homeostasis.
+
 ## Physiological Context
 
 - **Circadian rhythm**: Testosterone levels peak in early morning, influencing feedback timing
 - **Age-related changes**: Feedback sensitivity decreases with aging
 - **Stress modulation**: Cortisol competes with testosterone for binding sites, altering feedback efficacy
 
+## Core Principle
+
+Testosterone exerts negative feedback on the hypothalamic-pituitary-gonadal axis at multiple levels to maintain hormonal homeostasis.
+
 ## Clinical Implications
 
 - **Primary hypogonadism**: Elevated LH/FSH with low testosterone (intact feedback)
 - **Secondary hypogonadism**: Low LH/FSH with low testosterone (disrupted feedback)
 - **Testosterone replacement**: Exogenous testosterone suppresses endogenous production via feedback
+
+## Core Principle
+
+Testosterone exerts negative feedback on the hypothalamic-pituitary-gonadal axis at multiple levels to maintain hormonal homeostasis.
 
 ## Key Research Findings
 

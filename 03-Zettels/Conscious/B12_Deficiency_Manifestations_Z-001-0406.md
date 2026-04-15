@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Severe vitamin B12 deficiency causes megaloblastic anemia, irreversible neurological damage, and bone marrow changes that can mimic hematological malignancies, requiring careful diagnostic differentiation.
 
+## Core Principle
+
+> Severe vitamin B12 deficiency causes megaloblastic anemia, irreversible neurological damage, and bone marrow changes that can mimic hematological malignancies, requiring careful diagnostic differentiation.
+
 ## Hematological Manifestations
 
 ### Megaloblastic Anemia
@@ -30,6 +34,10 @@ extraction-date: 2026-03-01
 - Megaloblastic erythroid precursors
 - Giant metamyelocytes
 - No clonal plasma cells (vs. multiple myeloma)
+
+## Core Principle
+
+> Severe vitamin B12 deficiency causes megaloblastic anemia, irreversible neurological damage, and bone marrow changes that can mimic hematological malignancies, requiring careful diagnostic differentiation.
 
 ## Neurological Manifestations
 
@@ -48,6 +56,10 @@ extraction-date: 2026-03-01
 - **Irreversible** if untreated >6-12 months
 - Folate supplementation can mask anemia but not prevent neuro damage
 
+## Core Principle
+
+> Severe vitamin B12 deficiency causes megaloblastic anemia, irreversible neurological damage, and bone marrow changes that can mimic hematological malignancies, requiring careful diagnostic differentiation.
+
 ## Mimics of Multiple Myeloma
 
 ### Similarities
@@ -64,6 +76,10 @@ extraction-date: 2026-03-01
 | **Bone lesions** | Diffuse demineralization | Focal lytic lesions |
 | **Hypercalcemia** | Rare | Common |
 | **Renal failure** | Absent | Common |
+
+## Core Principle
+
+> Severe vitamin B12 deficiency causes megaloblastic anemia, irreversible neurological damage, and bone marrow changes that can mimic hematological malignancies, requiring careful diagnostic differentiation.
 
 ## Diagnosis
 
@@ -87,6 +103,10 @@ extraction-date: 2026-03-01
 - Differentiates from MM (no clonal plasma cells)
 - Megaloblastic changes
 
+## Core Principle
+
+> Severe vitamin B12 deficiency causes megaloblastic anemia, irreversible neurological damage, and bone marrow changes that can mimic hematological malignancies, requiring careful diagnostic differentiation.
+
 ## Treatment
 
 **Parenteral B12:**
@@ -104,6 +124,10 @@ extraction-date: 2026-03-01
 *Source: _B12_L-001-0401]*
 
 
+## Core Principle
+
+> Severe vitamin B12 deficiency causes megaloblastic anemia, irreversible neurological damage, and bone marrow changes that can mimic hematological malignancies, requiring careful diagnostic differentiation.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -111,6 +135,10 @@ extraction-date: 2026-03-01
 - [[Hematological_Overlap_B12_MM_Z-001-0420]|Z-001-0420]
 
 ---
+
+## Core Principle
+
+> Severe vitamin B12 deficiency causes megaloblastic anemia, irreversible neurological damage, and bone marrow changes that can mimic hematological malignancies, requiring careful diagnostic differentiation.
 
 ## Connection to Vault
 

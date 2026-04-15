@@ -16,6 +16,10 @@ updated: 2026-03-05
 
 > Keys' hypothesis moved rapidly from scientific conjecture to institutionalized public health policy through AHA guidelines, McGovern Committee recommendations, and decades of entrenched institutional messaging.
 
+## Core Principle
+
+> Keys' hypothesis moved rapidly from scientific conjecture to institutionalized public health policy through AHA guidelines, McGovern Committee recommendations, and decades of entrenched institutional messaging.
+
 ## Timeline
 
 | Year | Milestone |
@@ -26,6 +30,10 @@ updated: 2026-03-05
 | **1980** | First Dietary Guidelines for Americans |
 | **1984** | NCEP launched |
 
+## Core Principle
+
+> Keys' hypothesis moved rapidly from scientific conjecture to institutionalized public health policy through AHA guidelines, McGovern Committee recommendations, and decades of entrenched institutional messaging.
+
 ## Message Simplification
 
 **Original:** Reduce SFA, replace with PUFA
@@ -35,12 +43,20 @@ updated: 2026-03-05
 - High sugar
 - Refined carbs increased
 
+## Core Principle
+
+> Keys' hypothesis moved rapidly from scientific conjecture to institutionalized public health policy through AHA guidelines, McGovern Committee recommendations, and decades of entrenched institutional messaging.
+
 ## Institutional Entrenchment
 
 **AHA:** Reputation built on hypothesis
 **USDA:** Guidelines institutionalized
 **Food Industry:** Billions in low-fat products
 **Academic Medicine:** Funding/careers established
+
+## Core Principle
+
+> Keys' hypothesis moved rapidly from scientific conjecture to institutionalized public health policy through AHA guidelines, McGovern Committee recommendations, and decades of entrenched institutional messaging.
 
 ## Consequence
 
@@ -51,6 +67,10 @@ Paradigm resistance made correction difficult even as evidence evolved.
 *Source: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]*
 
 ---
+
+## Core Principle
+
+> Keys' hypothesis moved rapidly from scientific conjecture to institutionalized public health policy through AHA guidelines, McGovern Committee recommendations, and decades of entrenched institutional messaging.
 
 ## Connection to Vault
 

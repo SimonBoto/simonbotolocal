@@ -16,6 +16,10 @@ extraction-date: 2026-03-02
 
 **Core :** Sirolimus reduces expression of electron transport chain components, leading to inefficient electron transfer and reactive oxygen species (ROS) production.
 
+## Core Principle
+
+**Core :** Sirolimus reduces expression of electron transport chain components, leading to inefficient electron transfer and reactive oxygen species (ROS) production.
+
 ## mTORC1 and ETC Maintenance
 
 **Normal Regulation:**
@@ -30,6 +34,10 @@ extraction-date: 2026-03-02
 - Complex IV (Cytochrome c oxidase)
 - Complex V (ATP synthase)
 
+## Core Principle
+
+**Core :** Sirolimus reduces expression of electron transport chain components, leading to inefficient electron transfer and reactive oxygen species (ROS) production.
+
 ## Sirolimus-Induced ETC Impairment
 
 **Reduced Protein Synthesis:**
@@ -42,6 +50,10 @@ extraction-date: 2026-03-02
 2. **Electron leakage** from impaired complexes
 3. **Superoxide generation** (O₂⁻)
 4. **Oxidative damage cascade**
+
+## Core Principle
+
+**Core :** Sirolimus reduces expression of electron transport chain components, leading to inefficient electron transfer and reactive oxygen species (ROS) production.
 
 ## ROS Generation Mechanism
 
@@ -60,6 +72,10 @@ H₂O₂ (hydrogen peroxide)
 Hydroxyl radical (•OH) via Fenton reaction
 ```
 
+## Core Principle
+
+**Core :** Sirolimus reduces expression of electron transport chain components, leading to inefficient electron transfer and reactive oxygen species (ROS) production.
+
 ## Targets of Oxidative Damage
 
 | Target | Damage Type | Consequence |
@@ -68,6 +84,10 @@ Hydroxyl radical (•OH) via Fenton reaction
 | **ETC proteins** | Oxidation | Further ETC impairment |
 | **mtDNA** | Mutations | Heritable  defects |
 | **Cardiolipin** | Oxidation | Cytochrome c release, apoptosis |
+
+## Core Principle
+
+**Core :** Sirolimus reduces expression of electron transport chain components, leading to inefficient electron transfer and reactive oxygen species (ROS) production.
 
 ## Amplifying Cycle
 
@@ -82,6 +102,10 @@ ETC Impairment → ROS Generation
 
 **Result:** Progressive mitochondrial dysfunction
 
+## Core Principle
+
+**Core :** Sirolimus reduces expression of electron transport chain components, leading to inefficient electron transfer and reactive oxygen species (ROS) production.
+
 ## mPTP Opening
 
 **ROS + Ca²⁺ → mPTP Opening:**
@@ -91,6 +115,10 @@ ETC Impairment → ROS Generation
 - Outer membrane rupture
 - Cytochrome c release
 - Apoptosis activation
+
+## Core Principle
+
+**Core :** Sirolimus reduces expression of electron transport chain components, leading to inefficient electron transfer and reactive oxygen species (ROS) production.
 
 ## Clinical Manifestations
 
@@ -104,14 +132,26 @@ ETC Impairment → ROS Generation
 *See also: [[Sirolimus_mTORC1_PGC1a_Mitochondrial_Biogenesis_Z-001-0512]*
 
 
+## Core Principle
+
+**Core :** Sirolimus reduces expression of electron transport chain components, leading to inefficient electron transfer and reactive oxygen species (ROS) production.
+
 ## Related
 - [[mTORC1_Calcium_Homeostasis_mPTP_Z-001-0922]|Z-001-0922]
 
+
+## Core Principle
+
+**Core :** Sirolimus reduces expression of electron transport chain components, leading to inefficient electron transfer and reactive oxygen species (ROS) production.
 
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+**Core :** Sirolimus reduces expression of electron transport chain components, leading to inefficient electron transfer and reactive oxygen species (ROS) production.
 
 ## Connection to Vault
 

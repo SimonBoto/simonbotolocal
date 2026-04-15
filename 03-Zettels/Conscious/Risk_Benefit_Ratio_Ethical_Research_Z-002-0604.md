@@ -19,6 +19,10 @@ Potential benefits must outweigh risks, with risks minimized to the extent possi
 
 **Core principle:** Research participants should not be exposed to unnecessary risk. Both individual and societal benefits count in this calculation.
 
+## Core Principle
+
+Potential benefits must outweigh risks, with risks minimized to the extent possible. This assessment must be systematic, thorough, and ongoing throughout the research.
+
 ## Risk-Benefit Assessment
 
 | Component | Consideration |
@@ -30,6 +34,10 @@ Potential benefits must outweigh risks, with risks minimized to the extent possi
 | **Reversibility** | Whether harms can be corrected |
 | **Benefit scope** | Individual vs. societal benefit |
 
+## Core Principle
+
+Potential benefits must outweigh risks, with risks minimized to the extent possible. This assessment must be systematic, thorough, and ongoing throughout the research.
+
 ## Risk Categories
 
 | Level | Definition | Response |
@@ -39,6 +47,10 @@ Potential benefits must outweigh risks, with risks minimized to the extent possi
 | **Moderate** | Significant but reversible | Independent oversight |
 | **High** | Serious or permanent harm | Exceptional justification required |
 
+## Core Principle
+
+Potential benefits must outweigh risks, with risks minimized to the extent possible. This assessment must be systematic, thorough, and ongoing throughout the research.
+
 ## Application to METHAP
 
 METHAP risk assessment:
@@ -47,6 +59,10 @@ METHAP risk assessment:
 - **Benefit:** Earlier IR detection, improved metabolic health
 - **Minimization:** Experienced phlebotomy, sterile technique
 - **Monitoring:** Adverse event reporting, DSMB oversight
+
+## Core Principle
+
+Potential benefits must outweigh risks, with risks minimized to the extent possible. This assessment must be systematic, thorough, and ongoing throughout the research.
 
 ## Links
 
@@ -59,12 +75,20 @@ METHAP risk assessment:
 *UID: Z-002-0604 | Domain: 002 | Created: 2026-03-27*
 
 
+## Core Principle
+
+Potential benefits must outweigh risks, with risks minimized to the extent possible. This assessment must be systematic, thorough, and ongoing throughout the research.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+Potential benefits must outweigh risks, with risks minimized to the extent possible. This assessment must be systematic, thorough, and ongoing throughout the research.
 
 ## Connection to Vault
 

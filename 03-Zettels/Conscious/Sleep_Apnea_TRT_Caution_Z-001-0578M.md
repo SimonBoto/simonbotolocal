@@ -21,11 +21,19 @@ status: conscious
 
 This zettel addresses the relationship between testosterone replacement therapy and sleep apnea, including screening and management recommendations.
 
+## Core Principle
+
+This zettel addresses the relationship between testosterone replacement therapy and sleep apnea, including screening and management recommendations.
+
 ## TRT and Sleep Apnea Relationship
 
 - TRT may worsen pre-existing obstructive sleep apnea
 - Possible mechanisms: fluid retention, upper airway muscle effects, weight gain
 - Controversy exists regarding whether TRT causes new-onset sleep apnea
+
+## Core Principle
+
+This zettel addresses the relationship between testosterone replacement therapy and sleep apnea, including screening and management recommendations.
 
 ## Screening Recommendations
 
@@ -33,12 +41,20 @@ This zettel addresses the relationship between testosterone replacement therapy 
 - High-risk patients: BMI >30, neck circumference >17 inches, snoring, witnessed apneas
 - Consider formal sleep study (polysomnography) in high-risk patients
 
+## Core Principle
+
+This zettel addresses the relationship between testosterone replacement therapy and sleep apnea, including screening and management recommendations.
+
 ## Management Strategies
 
 - Optimize CPAP therapy before initiating TRT in known sleep apnea patients
 - Monitor for sleep apnea symptoms after initiating TRT
 - Consider lowering TRT dose or changing route if sleep apnea worsens
 - Weight loss and lifestyle modifications remain cornerstone of management
+
+## Core Principle
+
+This zettel addresses the relationship between testosterone replacement therapy and sleep apnea, including screening and management recommendations.
 
 ## Clinical Guidelines
 

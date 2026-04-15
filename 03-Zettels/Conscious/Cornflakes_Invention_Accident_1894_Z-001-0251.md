@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > In 1894, a kitchen accident at the Battle Creek Sanitarium led to the invention of flaked cereal when boiled wheat was left sitting, softened, and then rolled into flakes—creating the foundation of the multi-billion dollar breakfast cereal industry.
 
+## Core Principle
+
+> In 1894, a kitchen accident at the Battle Creek Sanitarium led to the invention of flaked cereal when boiled wheat was left sitting, softened, and then rolled into flakes—creating the foundation of the multi-billion dollar breakfast cereal industry.
+
 ## The Accident
 
 **Date:** 1894
@@ -28,6 +32,10 @@ extraction-date: 2026-03-01
 4. **Discovery:** Could be rolled into thin flakes
 5. **Experiment:** Baked the flakes
 6. **Outcome:** Crispy, toasted, palatable
+
+## Core Principle
+
+> In 1894, a kitchen accident at the Battle Creek Sanitarium led to the invention of flaked cereal when boiled wheat was left sitting, softened, and then rolled into flakes—creating the foundation of the multi-billion dollar breakfast cereal industry.
 
 ## Initial Development
 
@@ -52,6 +60,10 @@ extraction-date: 2026-03-01
 - Long shelf life
 - Novel texture
 
+## Core Principle
+
+> In 1894, a kitchen accident at the Battle Creek Sanitarium led to the invention of flaked cereal when boiled wheat was left sitting, softened, and then rolled into flakes—creating the foundation of the multi-billion dollar breakfast cereal industry.
+
 ## Technical Innovation
 
 **Process:**
@@ -66,6 +78,10 @@ extraction-date: 2026-03-01
 - Consistent thickness
 - Uniform toasting
 - Scalable production
+
+## Core Principle
+
+> In 1894, a kitchen accident at the Battle Creek Sanitarium led to the invention of flaked cereal when boiled wheat was left sitting, softened, and then rolled into flakes—creating the foundation of the multi-billion dollar breakfast cereal industry.
 
 ## Significance
 
@@ -92,11 +108,19 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Cereal_History_L-001-0211]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> In 1894, a kitchen accident at the Battle Creek Sanitarium led to the invention of flaked cereal when boiled wheat was left sitting, softened, and then rolled into flakes—creating the foundation of the multi-billion dollar breakfast cereal industry.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> In 1894, a kitchen accident at the Battle Creek Sanitarium led to the invention of flaked cereal when boiled wheat was left sitting, softened, and then rolled into flakes—creating the foundation of the multi-billion dollar breakfast cereal industry.
 
 ## Connection to Vault
 

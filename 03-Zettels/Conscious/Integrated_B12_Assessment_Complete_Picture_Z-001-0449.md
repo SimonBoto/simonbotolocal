@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Comprehensive B12 assessment requires serum B12, MMA, homocysteine, and RBC  together to provide complete functional status and guide  decisions.
 
+## Core Principle
+
+> Comprehensive B12 assessment requires serum B12, MMA, homocysteine, and RBC  together to provide complete functional status and guide  decisions.
+
 ## Recommended Panel
 
 1. **Serum B12** — Baseline screening
@@ -22,6 +26,10 @@ extraction-date: 2026-03-01
 3. **Homocysteine** —  capacity
 4. **RBC Folate** — Tissue folate
 5. **CBC** — Anemia assessment
+
+## Core Principle
+
+> Comprehensive B12 assessment requires serum B12, MMA, homocysteine, and RBC  together to provide complete functional status and guide  decisions.
 
 ## Interpretation Matrix
 
@@ -31,6 +39,10 @@ extraction-date: 2026-03-01
 | Normal | High | High | Functional deficiency |
 | Normal | Normal | High | Folate deficiency likely |
 | Low | Normal | Normal | False low, recheck |
+
+## Core Principle
+
+> Comprehensive B12 assessment requires serum B12, MMA, homocysteine, and RBC  together to provide complete functional status and guide  decisions.
 
 ## METHAP Monitoring
 
@@ -52,6 +64,10 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_B12_Clinical_Assessment_L-001-0408]*
 
 
+## Core Principle
+
+> Comprehensive B12 assessment requires serum B12, MMA, homocysteine, and RBC  together to provide complete functional status and guide  decisions.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -60,6 +76,10 @@ extraction-date: 2026-03-01
 - [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> Comprehensive B12 assessment requires serum B12, MMA, homocysteine, and RBC  together to provide complete functional status and guide  decisions.
 
 ## Connection to Vault
 

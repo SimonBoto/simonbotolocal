@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > The diet-heart saga offers crucial lessons: dangers of premature consensus, institutional inertia, need for rigorous study design, and importance of continuous evidence reassessment.
 
+## Core Principle
+
+> The diet-heart saga offers crucial lessons: dangers of premature consensus, institutional inertia, need for rigorous study design, and importance of continuous evidence reassessment.
+
 ## Premature Consensus
 
 **Hasty Guidelines (1961):**
@@ -26,6 +30,10 @@ extraction-date: 2026-03-01
 - Charismatic advocacy
 - Media amplification
 - Policy before proof
+
+## Core Principle
+
+> The diet-heart saga offers crucial lessons: dangers of premature consensus, institutional inertia, need for rigorous study design, and importance of continuous evidence reassessment.
 
 ## Institutional Inertia
 
@@ -42,6 +50,10 @@ extraction-date: 2026-03-01
 - Selective attention
 - Dismissal of critics
 
+## Core Principle
+
+> The diet-heart saga offers crucial lessons: dangers of premature consensus, institutional inertia, need for rigorous study design, and importance of continuous evidence reassessment.
+
 ## Scientific Rigor
 
 **Required:**
@@ -51,6 +63,10 @@ extraction-date: 2026-03-01
 - Pre-specified analysis
 - Sensitivity analyses
 - Transparent data sharing
+
+## Core Principle
+
+> The diet-heart saga offers crucial lessons: dangers of premature consensus, institutional inertia, need for rigorous study design, and importance of continuous evidence reassessment.
 
 ## Continuous Reassessment
 
@@ -74,12 +90,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]*
 
 
+## Core Principle
+
+> The diet-heart saga offers crucial lessons: dangers of premature consensus, institutional inertia, need for rigorous study design, and importance of continuous evidence reassessment.
+
 ## RELATED FILES
 - 
 - [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
 - _Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> The diet-heart saga offers crucial lessons: dangers of premature consensus, institutional inertia, need for rigorous study design, and importance of continuous evidence reassessment.
 
 ## Connection to Vault
 

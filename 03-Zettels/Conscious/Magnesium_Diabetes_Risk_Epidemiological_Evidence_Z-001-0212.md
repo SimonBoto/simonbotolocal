@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Large-scale epidemiological studies consistently demonstrate that higher magnesium intake and status are associated with significantly reduced risk of type 2 diabetes.
 
+## Core Principle
+
+> Large-scale epidemiological studies consistently demonstrate that higher magnesium intake and status are associated with significantly reduced risk of type 2 diabetes.
+
 ## Meta-Analysis Findings
 
 **Diabetes Risk Reduction:**
@@ -26,6 +30,10 @@ extraction-date: 2026-03-01
 - Low serum Mg predicts incident T2DM independent of other risk factors
 - Each 0.1 mmol/L decrease associated with ~15% increased risk
 - Threshold effect: greatest risk reduction going from deficient to adequate
+
+## Core Principle
+
+> Large-scale epidemiological studies consistently demonstrate that higher magnesium intake and status are associated with significantly reduced risk of type 2 diabetes.
 
 ## Key Cohort Studies
 
@@ -50,6 +58,10 @@ extraction-date: 2026-03-01
 - **Finding:** Similar protective effect of Mg intake
 - **Implication:** Consistent across ethnicities
 
+## Core Principle
+
+> Large-scale epidemiological studies consistently demonstrate that higher magnesium intake and status are associated with significantly reduced risk of type 2 diabetes.
+
 ## Mechanisms Supported by Epidemiology
 
 ### Improved  Sensitivity
@@ -66,12 +78,20 @@ extraction-date: 2026-03-01
 - Lower blood pressure
 - Reduced oxidative stress markers
 
+## Core Principle
+
+> Large-scale epidemiological studies consistently demonstrate that higher magnesium intake and status are associated with significantly reduced risk of type 2 diabetes.
+
 ## Population Attributable Risk
 
 **Public Health Perspective:**
 - If causal, ~10-15% of T2DM cases could be prevented by adequate Mg intake
 - Low-cost, safe intervention
 - Addresses multiple risk factors simultaneously
+
+## Core Principle
+
+> Large-scale epidemiological studies consistently demonstrate that higher magnesium intake and status are associated with significantly reduced risk of type 2 diabetes.
 
 ## Limitations of Epidemiological Evidence
 
@@ -84,6 +104,10 @@ extraction-date: 2026-03-01
 - Strong mechanistic support from cellular studies
 - Intervention trials confirm short-term metabolic improvements
 - Long-term hard outcome trials needed
+
+## Core Principle
+
+> Large-scale epidemiological studies consistently demonstrate that higher magnesium intake and status are associated with significantly reduced risk of type 2 diabetes.
 
 ## METHAP Implications
 
@@ -103,6 +127,10 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Magnesium_IR_Diabetes_L-001-0201b]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Large-scale epidemiological studies consistently demonstrate that higher magnesium intake and status are associated with significantly reduced risk of type 2 diabetes.
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -113,6 +141,10 @@ extraction-date: 2026-03-01
 
 
 ---
+
+## Core Principle
+
+> Large-scale epidemiological studies consistently demonstrate that higher magnesium intake and status are associated with significantly reduced risk of type 2 diabetes.
 
 ## Connection to Vault
 

@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Vitamin B12 serves as an essential cofactor for two critical enzymes: methionine synthase (cytosolic, methylation) and methylmalonyl-CoA mutase (l, energy ).
 
+## Core Principle
+
+> Vitamin B12 serves as an essential cofactor for two critical enzymes: methionine synthase (cytosolic, methylation) and methylmalonyl-CoA mutase (l, energy ).
+
 ## Enzyme 1: Methionine Synthase
 
 **Reaction:**
@@ -41,6 +45,10 @@ Homocysteine + 5-MTHF → Methionine + THF
 **Clinical Marker:**
 - Elevated homocysteine → Suggests B12 or folate deficiency
 
+## Core Principle
+
+> Vitamin B12 serves as an essential cofactor for two critical enzymes: methionine synthase (cytosolic, methylation) and methylmalonyl-CoA mutase (l, energy ).
+
 ## Enzyme 2: Methylmalonyl-CoA Mutase
 
 **Reaction:**
@@ -66,6 +74,10 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 **Clinical Marker:**
 - Elevated methylmalonic acid (MMA) → Specific for B12 deficiency
 
+## Core Principle
+
+> Vitamin B12 serves as an essential cofactor for two critical enzymes: methionine synthase (cytosolic, methylation) and methylmalonyl-CoA mutase (l, energy ).
+
 ## B12 Biochemical Forms
 
 | Form | Enzyme | Location |
@@ -74,6 +86,10 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 | **Adenosylcobalamin** | Methylmalonyl-CoA mutase | Mitochondria |
 | **Hydroxocobalamin** | Storage form | Both |
 | **Cyanocobalamin** | Synthetic (requires conversion) | - |
+
+## Core Principle
+
+> Vitamin B12 serves as an essential cofactor for two critical enzymes: methionine synthase (cytosolic, methylation) and methylmalonyl-CoA mutase (l, energy ).
 
 ## Clinical Implications
 
@@ -87,6 +103,10 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 *Source: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]*
 
 
+## Core Principle
+
+> Vitamin B12 serves as an essential cofactor for two critical enzymes: methionine synthase (cytosolic, methylation) and methylmalonyl-CoA mutase (l, energy ).
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
@@ -94,6 +114,10 @@ L-Methylmalonyl-CoA → Succinyl-CoA
 - [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> Vitamin B12 serves as an essential cofactor for two critical enzymes: methionine synthase (cytosolic, methylation) and methylmalonyl-CoA mutase (l, energy ).
 
 ## Connection to Vault
 

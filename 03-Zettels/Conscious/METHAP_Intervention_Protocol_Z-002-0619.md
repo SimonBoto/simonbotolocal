@@ -17,6 +17,10 @@ created: 2026-03-27
 
 12-week dietary and supplement intervention for insulin-resistant participants, designed to modify metabolic s and improve insulin sensitivity.
 
+## Core Principle
+
+12-week dietary and supplement intervention for insulin-resistant participants, designed to modify metabolic s and improve insulin sensitivity.
+
 ## Intervention Components
 
 ### 1. Low-Carbohydrate Diet
@@ -35,6 +39,10 @@ created: 2026-03-27
 | L-Glutamine + Chios Mastiha | L-Glutamine & Chios Mastiha | Powder/Capsules | 91382/25-11-2016 |
 | Probiotics (40 billion CFU) | Probiotics 40 billion (Natural Doctor) | Capsules | 58393/27-06-2017 |
 
+## Core Principle
+
+12-week dietary and supplement intervention for insulin-resistant participants, designed to modify metabolic s and improve insulin sensitivity.
+
 ## Rationale for Supplements
 
 | Nutrient | Mechanism | Evidence |
@@ -45,6 +53,10 @@ created: 2026-03-27
 | **Glutamine** | GLP-1 pathway, metabolic fuel | Jafari-Vayghan et al 2020, Samocha-Bonet et al 2011 |
 | **Multivitamin B-complex** | Quality of life in T2DM | Marakis et al 2007 |
 
+## Core Principle
+
+12-week dietary and supplement intervention for insulin-resistant participants, designed to modify metabolic s and improve insulin sensitivity.
+
 ## Study Timeline
 
 | Week | Activity |
@@ -52,6 +64,10 @@ created: 2026-03-27
 | 0 | Baseline assessment, randomization |
 | 0-12 | Intervention period |
 | 12 | Post-intervention assessment |
+
+## Core Principle
+
+12-week dietary and supplement intervention for insulin-resistant participants, designed to modify metabolic s and improve insulin sensitivity.
 
 ## Control Group
 
@@ -61,16 +77,28 @@ IR participants not receiving intervention:
 - Standard clinical care
 - Same assessments at 0 and 12 weeks
 
+## Core Principle
+
+12-week dietary and supplement intervention for insulin-resistant participants, designed to modify metabolic s and improve insulin sensitivity.
+
 ## Outcome Measures
 
 - Primary: Metabolic biomarker changes (urine organic acids, plasma FFA)
 - Secondary: HOMA-IR, fasting glucose, HbA1c, BMI, waist circumference
+
+## Core Principle
+
+12-week dietary and supplement intervention for insulin-resistant participants, designed to modify metabolic s and improve insulin sensitivity.
 
 ## Funding
 
 - **Sponsors:** Metabolomic Medicine S.A., Toxplus S.A.
 - **Supplement donation:** Lumis Research SA, Natural Doctor
 - **No participant cost**
+
+## Core Principle
+
+12-week dietary and supplement intervention for insulin-resistant participants, designed to modify metabolic s and improve insulin sensitivity.
 
 ## Links
 
@@ -82,6 +110,10 @@ IR participants not receiving intervention:
 
 *UID: Z-002-0619 | Domain: 002 | Created: 2026-03-27*
 
+## Core Principle
+
+12-week dietary and supplement intervention for insulin-resistant participants, designed to modify metabolic s and improve insulin sensitivity.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
@@ -90,6 +122,10 @@ IR participants not receiving intervention:
 
 
 ---
+
+## Core Principle
+
+12-week dietary and supplement intervention for insulin-resistant participants, designed to modify metabolic s and improve insulin sensitivity.
 
 ## Connection to Vault
 

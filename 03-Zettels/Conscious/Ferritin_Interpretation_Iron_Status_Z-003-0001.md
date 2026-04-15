@@ -24,6 +24,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Ferritin** is the primary iron storage protein. However, it's also an **acute phase reactant** — elevated by inflammation independent of iron status. This dual nature makes interpretation nuanced.
+
 ## 🎯 Reference Ranges
 
 ### Standard Laboratory Ranges
@@ -42,6 +46,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Ferritin** is the primary iron storage protein. However, it's also an **acute phase reactant** — elevated by inflammation independent of iron status. This dual nature makes interpretation nuanced.
+
 ## 🔗 Connected Systems
 
 **Iron :**
@@ -57,6 +65,10 @@ extraction-date: 2026-04-15
 - [[Inflammation_Markers_CRP_ESR_Z-007-0001.md] — CRP (inflammation elevates ferritin)
 
 ---
+
+## Core Principle
+
+**Ferritin** is the primary iron storage protein. However, it's also an **acute phase reactant** — elevated by inflammation independent of iron status. This dual nature makes interpretation nuanced.
 
 ## 🩺 Clinical Patterns
 
@@ -93,6 +105,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Ferritin** is the primary iron storage protein. However, it's also an **acute phase reactant** — elevated by inflammation independent of iron status. This dual nature makes interpretation nuanced.
+
 ## 🔬 The Ferritin-Inflammation Problem
 
 **Why ferritin rises in inflammation:**
@@ -115,6 +131,10 @@ extraction-date: 2026-04-15
 **Soluble transferrin receptor (sTfR):** Not affected by inflammation — better marker when CRP elevated.
 
 ---
+
+## Core Principle
+
+**Ferritin** is the primary iron storage protein. However, it's also an **acute phase reactant** — elevated by inflammation independent of iron status. This dual nature makes interpretation nuanced.
 
 ## 💊 Intervention Thresholds
 
@@ -139,6 +159,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Ferritin** is the primary iron storage protein. However, it's also an **acute phase reactant** — elevated by inflammation independent of iron status. This dual nature makes interpretation nuanced.
+
 ## 🔬 PhD-METHAP Relevance
 
 **Secondary marker:**
@@ -152,6 +176,10 @@ patient_id,visit,ferritin_ng_ml,crp_mg_l,iron_status_adjusted
 
 ---
 
+## Core Principle
+
+**Ferritin** is the primary iron storage protein. However, it's also an **acute phase reactant** — elevated by inflammation independent of iron status. This dual nature makes interpretation nuanced.
+
 ## 💡 Clinical Pearls
 
 > "Ferritin is a liar in inflammation. A patient with ferritin 200 and CRP 15 may be more iron-deficient than someone with ferritin 40 and CRP 0.5. Always check CRP."
@@ -161,6 +189,10 @@ patient_id,visit,ferritin_ng_ml,crp_mg_l,iron_status_adjusted
 > "For methylation support, I want ferritin >50. Below that, homocysteine tends to rise even with B12/folate supplementation."
 
 ---
+
+## Core Principle
+
+**Ferritin** is the primary iron storage protein. However, it's also an **acute phase reactant** — elevated by inflammation independent of iron status. This dual nature makes interpretation nuanced.
 
 ## Data Export (METHAP)
 
@@ -173,6 +205,10 @@ patient_id,visit,ferritin_ng_ml,crp_mg_l,sTfR_mg_l,iron_status
 *Source: , *
 *Created: 2026-02-26 | Domain: 003 | Status: Conscious*
 
+## Core Principle
+
+**Ferritin** is the primary iron storage protein. However, it's also an **acute phase reactant** — elevated by inflammation independent of iron status. This dual nature makes interpretation nuanced.
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
@@ -182,6 +218,10 @@ patient_id,visit,ferritin_ng_ml,crp_mg_l,sTfR_mg_l,iron_status
 
 
 ---
+
+## Core Principle
+
+**Ferritin** is the primary iron storage protein. However, it's also an **acute phase reactant** — elevated by inflammation independent of iron status. This dual nature makes interpretation nuanced.
 
 ## Connection to Vault
 

@@ -22,6 +22,10 @@ created: 2026-02-24
 
 **Critical insight:** This is not simply "eat less, move more" — the metabolic state creates biological drives that make weight loss physiologically difficult.
 
+## Core Principle
+
+resistance creates hyperinsulinemia as beta-cells attempt compensation. Elevated insulin promotes fat storage (lipogenesis) and inhibits lipolysis, driving weight gain.
+
 ## Key Details
 
 ```
@@ -38,11 +42,19 @@ Worsening IR
 (back to top)
 ```
 
+## Core Principle
+
+resistance creates hyperinsulinemia as beta-cells attempt compensation. Elevated insulin promotes fat storage (lipogenesis) and inhibits lipolysis, driving weight gain.
+
 ## Links
 
 - **Upstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — Compensatory hyperinsulinemia drives this
 - **Parallel:** _IR_Z-001-0038.md], [[Vicious_Cycle_Stress_IR_Z-001-0039.md] — Other vicious cycles
 - **Downstream:**  — Why diets fail
+
+## Core Principle
+
+resistance creates hyperinsulinemia as beta-cells attempt compensation. Elevated insulin promotes fat storage (lipogenesis) and inhibits lipolysis, driving weight gain.
 
 ## Context
 
@@ -55,10 +67,18 @@ Worsening IR
 *UID: Z-001-0037 | Domain: 001 | Created: 2026-02-24*
 
 
+## Core Principle
+
+resistance creates hyperinsulinemia as beta-cells attempt compensation. Elevated insulin promotes fat storage (lipogenesis) and inhibits lipolysis, driving weight gain.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+resistance creates hyperinsulinemia as beta-cells attempt compensation. Elevated insulin promotes fat storage (lipogenesis) and inhibits lipolysis, driving weight gain.
 
 ## Connection to Vault
 

@@ -25,6 +25,10 @@ connections:
 
 ---
 
+## Core Principle
+
+**Beyond standard lipids:** ApoB measures atherogenic particle number, Lp(a) captures genetic CVD risk, and sdLDL identifies dangerous small dense particles. These markers refine risk stratification beyond LDL-C.
+
 ## 🎯 Advanced Markers
 
 ### ApoB (Apolipoprotein B)
@@ -61,6 +65,10 @@ connections:
 
 ---
 
+## Core Principle
+
+**Beyond standard lipids:** ApoB measures atherogenic particle number, Lp(a) captures genetic CVD risk, and sdLDL identifies dangerous small dense particles. These markers refine risk stratification beyond LDL-C.
+
 ## 🔗 Connected Systems
 
 **Lipid Patterns:**
@@ -72,6 +80,10 @@ connections:
 - IR → hepatic overproduction of VLDL → CETP-mediated TG exchange → sdLDL
 
 ---
+
+## Core Principle
+
+**Beyond standard lipids:** ApoB measures atherogenic particle number, Lp(a) captures genetic CVD risk, and sdLDL identifies dangerous small dense particles. These markers refine risk stratification beyond LDL-C.
 
 ## 🩺 Clinical Application
 
@@ -112,6 +124,10 @@ connections:
 
 ---
 
+## Core Principle
+
+**Beyond standard lipids:** ApoB measures atherogenic particle number, Lp(a) captures genetic CVD risk, and sdLDL identifies dangerous small dense particles. These markers refine risk stratification beyond LDL-C.
+
 ## 🔬 PhD-METHAP Relevance
 
 **Secondary markers:**
@@ -125,11 +141,19 @@ patient_id,visit,apo_b_mg_dl,lp_a_mg_dl,sdldl_mg_dl,advanced_lipid_status
 
 ---
 
+## Core Principle
+
+**Beyond standard lipids:** ApoB measures atherogenic particle number, Lp(a) captures genetic CVD risk, and sdLDL identifies dangerous small dense particles. These markers refine risk stratification beyond LDL-C.
+
 ## 💡 Clinical Pearl
 
 > "LDL-C is like counting passengers on buses. ApoB counts the buses. If you have 100 people on 2 buses vs 100 people on 10 buses, the risk is completely different. ApoB tells you the bus count."
 
 > "Lp(a) is the genetic wildcard. I've seen patients with LDL-C 120 but Lp(a) 80 — their actual risk is like LDL-C 180. Always check Lp(a) once, especially if family history of early heart disease."
+
+## Core Principle
+
+**Beyond standard lipids:** ApoB measures atherogenic particle number, Lp(a) captures genetic CVD risk, and sdLDL identifies dangerous small dense particles. These markers refine risk stratification beyond LDL-C.
 
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
@@ -144,6 +168,10 @@ patient_id,visit,apo_b_mg_dl,lp_a_mg_dl,sdldl_mg_dl,advanced_lipid_status
 *Created: 2026-02-26 | Domain: 006 | Status: Conscious*
 
 ---
+
+## Core Principle
+
+**Beyond standard lipids:** ApoB measures atherogenic particle number, Lp(a) captures genetic CVD risk, and sdLDL identifies dangerous small dense particles. These markers refine risk stratification beyond LDL-C.
 
 ## Connection to Vault
 

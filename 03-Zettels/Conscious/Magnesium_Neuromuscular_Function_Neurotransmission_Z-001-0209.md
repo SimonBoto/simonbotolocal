@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Magnesium modulates neurotransmission and neuromuscular excitability through NMDA receptor blockade, presynaptic acetylcholine regulation, and antagonism of calcium-dependent muscle contraction.
 
+## Core Principle
+
+> Magnesium modulates neurotransmission and neuromuscular excitability through NMDA receptor blockade, presynaptic acetylcholine regulation, and antagonism of calcium-dependent muscle contraction.
+
 ## Neurotransmission
 
 ### NMDA Receptor Modulation
@@ -35,6 +39,10 @@ extraction-date: 2026-03-01
 ### GABAergic Modulation
 - Enhances GABA receptor function (inhibitory neurotransmission)
 - Contributes to anti-anxiety, anti-convulsant effects of Mg
+
+## Core Principle
+
+> Magnesium modulates neurotransmission and neuromuscular excitability through NMDA receptor blockade, presynaptic acetylcholine regulation, and antagonism of calcium-dependent muscle contraction.
 
 ## Neuromuscular Function
 
@@ -61,6 +69,10 @@ extraction-date: 2026-03-01
 - Stabilizes cardiac myocyte membrane
 - Effective for torsades de pointes, digoxin toxicity
 
+## Core Principle
+
+> Magnesium modulates neurotransmission and neuromuscular excitability through NMDA receptor blockade, presynaptic acetylcholine regulation, and antagonism of calcium-dependent muscle contraction.
+
 ## Clinical Applications
 
 ### Therapeutic Uses of Magnesium
@@ -76,6 +88,10 @@ extraction-date: 2026-03-01
 - **Neurological:** Tremor, fasciculations, seizures, vertigo
 - **Muscular:** Weakness, tetany, cramps
 - **Psychiatric:** Anxiety, irritability, depression
+
+## Core Principle
+
+> Magnesium modulates neurotransmission and neuromuscular excitability through NMDA receptor blockade, presynaptic acetylcholine regulation, and antagonism of calcium-dependent muscle contraction.
 
 ## METHAP Context
 
@@ -95,10 +111,18 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 
+## Core Principle
+
+> Magnesium modulates neurotransmission and neuromuscular excitability through NMDA receptor blockade, presynaptic acetylcholine regulation, and antagonism of calcium-dependent muscle contraction.
+
 ## RELATED FILES
 - 
 
 ---
+
+## Core Principle
+
+> Magnesium modulates neurotransmission and neuromuscular excitability through NMDA receptor blockade, presynaptic acetylcholine regulation, and antagonism of calcium-dependent muscle contraction.
 
 ## Connection to Vault
 

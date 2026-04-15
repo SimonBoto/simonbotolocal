@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Magnesium is an essential cofactor for over 300 enzymatic reactions, primarily through its role in stabilizing ATP as the Mg-ATP complex, the true substrate for most ATP-dependent enzymes.
 
+## Core Principle
+
+> Magnesium is an essential cofactor for over 300 enzymatic reactions, primarily through its role in stabilizing ATP as the Mg-ATP complex, the true substrate for most ATP-dependent enzymes.
+
 ## Biochemical Mechanism
 
 **Mg-ATP Complex:**
@@ -22,6 +26,10 @@ extraction-date: 2026-03-01
 - Mg²⁺ stabilizes the triphosphate chain through chelation
 - This complex is the actual substrate for ATP-dependent enzymes
 - Without Mg²⁺, ATP cannot effectively participate in phosphoryl transfer reactions
+
+## Core Principle
+
+> Magnesium is an essential cofactor for over 300 enzymatic reactions, primarily through its role in stabilizing ATP as the Mg-ATP complex, the true substrate for most ATP-dependent enzymes.
 
 ## Key Enzyme Classes
 
@@ -45,6 +53,10 @@ extraction-date: 2026-03-01
 - **Adenylate cyclase:** cAMP production (G-protein signaling)
 - **Guanylate cyclase:** cGMP production (NO signaling)
 
+## Core Principle
+
+> Magnesium is an essential cofactor for over 300 enzymatic reactions, primarily through its role in stabilizing ATP as the Mg-ATP complex, the true substrate for most ATP-dependent enzymes.
+
 ## Magnesium Deficiency Consequences
 
 **Systemic Effects:**
@@ -57,6 +69,10 @@ extraction-date: 2026-03-01
 - Fatigue, weakness (energy failure)
 - Impaired glucose tolerance (reduced  sensitivity)
 - Muscle dysfunction (impaired contraction/relaxation)
+
+## Core Principle
+
+> Magnesium is an essential cofactor for over 300 enzymatic reactions, primarily through its role in stabilizing ATP as the Mg-ATP complex, the true substrate for most ATP-dependent enzymes.
 
 ## METHAP Relevance
 
@@ -71,26 +87,50 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 
+## Core Principle
+
+> Magnesium is an essential cofactor for over 300 enzymatic reactions, primarily through its role in stabilizing ATP as the Mg-ATP complex, the true substrate for most ATP-dependent enzymes.
+
 ## Related
 - [[Glucose_Chemistry_Fischer_19th_Century_Z-001-0238]|Z-001-0238]
 
+
+## Core Principle
+
+> Magnesium is an essential cofactor for over 300 enzymatic reactions, primarily through its role in stabilizing ATP as the Mg-ATP complex, the true substrate for most ATP-dependent enzymes.
 
 ## Related
 - [[Magnesium_Diabetes_Risk_Epidemiological_Evidence_Z-001-0212]|Z-001-0212]
 
 
+## Core Principle
+
+> Magnesium is an essential cofactor for over 300 enzymatic reactions, primarily through its role in stabilizing ATP as the Mg-ATP complex, the true substrate for most ATP-dependent enzymes.
+
 ## Related
 - [[Magnesium_Ion_Transport_Cellular_Signaling_Z-001-0208]|Z-001-0208]
 
+
+## Core Principle
+
+> Magnesium is an essential cofactor for over 300 enzymatic reactions, primarily through its role in stabilizing ATP as the Mg-ATP complex, the true substrate for most ATP-dependent enzymes.
 
 ## Related
 - [[Magnesium_Energy_Production_Mitochondrial_Function_Z-001-0207]|Z-001-0207]
 
 
+## Core Principle
+
+> Magnesium is an essential cofactor for over 300 enzymatic reactions, primarily through its role in stabilizing ATP as the Mg-ATP complex, the true substrate for most ATP-dependent enzymes.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+> Magnesium is an essential cofactor for over 300 enzymatic reactions, primarily through its role in stabilizing ATP as the Mg-ATP complex, the true substrate for most ATP-dependent enzymes.
 
 ## Connection to Vault
 

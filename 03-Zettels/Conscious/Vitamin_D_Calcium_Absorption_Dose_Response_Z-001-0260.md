@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Vitamin D increases intestinal calcium absorption from a baseline of 10-15% to a maximum of 30-40% through active transport s, with the degree of enhancement proportional to vitamin D status and 25(OH)D levels.
 
+## Core Principle
+
+> Vitamin D increases intestinal calcium absorption from a baseline of 10-15% to a maximum of 30-40% through active transport s, with the degree of enhancement proportional to vitamin D status and 25(OH)D levels.
+
 ## Mechanism of Absorption
 
 ### Active Transport (D-Dependent)
@@ -40,6 +44,10 @@ extraction-date: 2026-03-01
 - Accounts for ~10% of absorption
 - Not vitamin D dependent
 
+## Core Principle
+
+> Vitamin D increases intestinal calcium absorption from a baseline of 10-15% to a maximum of 30-40% through active transport s, with the degree of enhancement proportional to vitamin D status and 25(OH)D levels.
+
 ## Dose-Response Relationship
 
 | 25(OH)D Level | Calcium Absorption | Status |
@@ -54,6 +62,10 @@ extraction-date: 2026-03-01
 - Maximum absorption ~40%
 - Achieved at 25(OH)D >50 ng/mL
 - Further D increases do not enhance absorption
+
+## Core Principle
+
+> Vitamin D increases intestinal calcium absorption from a baseline of 10-15% to a maximum of 30-40% through active transport s, with the degree of enhancement proportional to vitamin D status and 25(OH)D levels.
 
 ## METHAP High-Dose Context
 
@@ -72,6 +84,10 @@ extraction-date: 2026-03-01
 - Requires K2 for proper direction
 - Requires monitoring for hypercalcemia
 - Mg optimization prevents overshoot
+
+## Core Principle
+
+> Vitamin D increases intestinal calcium absorption from a baseline of 10-15% to a maximum of 30-40% through active transport s, with the degree of enhancement proportional to vitamin D status and 25(OH)D levels.
 
 ## Regulation and Saturation
 
@@ -95,11 +111,19 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Vitamin D increases intestinal calcium absorption from a baseline of 10-15% to a maximum of 30-40% through active transport s, with the degree of enhancement proportional to vitamin D status and 25(OH)D levels.
+
 ## RELATED FILES
 - 
 - [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]
 
 ---
+
+## Core Principle
+
+> Vitamin D increases intestinal calcium absorption from a baseline of 10-15% to a maximum of 30-40% through active transport s, with the degree of enhancement proportional to vitamin D status and 25(OH)D levels.
 
 ## Connection to Vault
 

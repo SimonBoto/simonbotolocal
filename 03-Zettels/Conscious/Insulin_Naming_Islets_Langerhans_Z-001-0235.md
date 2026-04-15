@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > The name "insulin" derives from the Latin "insula" meaning island, referencing the Islets of Langerhans—the microscopic endocrine clusters within the pancreas that produce insulin.
 
+## Core Principle
+
+> The name "insulin" derives from the Latin "insula" meaning island, referencing the Islets of Langerhans—the microscopic endocrine clusters within the pancreas that produce insulin.
+
 ## Etymology
 
 **Latin Root:**
@@ -27,6 +31,10 @@ extraction-date: 2026-03-01
 - Final selection: "Insulin"
 - Formal adoption: 1922
 - Attributed to team consensus (possibly MacLeod)
+
+## Core Principle
+
+> The name "insulin" derives from the Latin "insula" meaning island, referencing the Islets of Langerhans—the microscopic endocrine clusters within the pancreas that produce insulin.
 
 ## The Islets of Langerhans
 
@@ -41,6 +49,10 @@ extraction-date: 2026-03-01
 - 1-2% of pancreatic mass
 - ~1 million islets in human pancreas
 - Highly vascularized
+
+## Core Principle
+
+> The name "insulin" derives from the Latin "insula" meaning island, referencing the Islets of Langerhans—the microscopic endocrine clusters within the pancreas that produce insulin.
 
 ## Islet Cell Types
 
@@ -62,6 +74,10 @@ extraction-date: 2026-03-01
 - **PP cells:** Pancreatic polypeptide
 - **Epsilon cells:** Ghrelin
 
+## Core Principle
+
+> The name "insulin" derives from the Latin "insula" meaning island, referencing the Islets of Langerhans—the microscopic endocrine clusters within the pancreas that produce insulin.
+
 ## Pancreatic Architecture
 
 **Exocrine Pancreas (98%):**
@@ -82,6 +98,10 @@ extraction-date: 2026-03-01
 - Different blood supply
 - Different innervation
 
+## Core Principle
+
+> The name "insulin" derives from the Latin "insula" meaning island, referencing the Islets of Langerhans—the microscopic endocrine clusters within the pancreas that produce insulin.
+
 ## Historical Context
 
 **Pre-1921 Understanding:**
@@ -96,6 +116,10 @@ extraction-date: 2026-03-01
 - Extract effects
 - Confirmed islets produce anti-diabetic hormone
 
+## Core Principle
+
+> The name "insulin" derives from the Latin "insula" meaning island, referencing the Islets of Langerhans—the microscopic endocrine clusters within the pancreas that produce insulin.
+
 ## Modern Understanding
 
 **Islet Transplantation:**
@@ -109,6 +133,10 @@ extraction-date: 2026-03-01
 - Potential cure for T1DM
 - Clinical trials ongoing
 - "Replacing what was lost"
+
+## Core Principle
+
+> The name "insulin" derives from the Latin "insula" meaning island, referencing the Islets of Langerhans—the microscopic endocrine clusters within the pancreas that produce insulin.
 
 ## Significance of the Name
 
@@ -135,12 +163,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Insulin_History_L-001-0207]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> The name "insulin" derives from the Latin "insula" meaning island, referencing the Islets of Langerhans—the microscopic endocrine clusters within the pancreas that produce insulin.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - 
 
 ---
+
+## Core Principle
+
+> The name "insulin" derives from the Latin "insula" meaning island, referencing the Islets of Langerhans—the microscopic endocrine clusters within the pancreas that produce insulin.
 
 ## Connection to Vault
 

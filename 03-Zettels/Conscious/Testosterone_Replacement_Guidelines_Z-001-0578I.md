@@ -20,12 +20,20 @@ status: conscious
 
 This zettel documents evidence-based guidelines for testosterone replacement therapy (TRT) in males with hypogonadism.
 
+## Core Principle
+
+This zettel documents evidence-based guidelines for testosterone replacement therapy (TRT) in males with hypogonadism.
+
 ## Indications for TRT
 
 - Confirmed low testosterone with symptoms of hypogonadism
 - Persistent symptoms despite lifestyle modifications
 - Testosterone levels consistently below reference range
 - Clinical diagnosis of hypogonadism (primary or secondary)
+
+## Core Principle
+
+This zettel documents evidence-based guidelines for testosterone replacement therapy (TRT) in males with hypogonadism.
 
 ## Contraindications
 
@@ -35,6 +43,10 @@ This zettel documents evidence-based guidelines for testosterone replacement the
 - Severe heart failure
 - Uncontrolled heart disease
 
+## Core Principle
+
+This zettel documents evidence-based guidelines for testosterone replacement therapy (TRT) in males with hypogonadism.
+
 ## Treatment Options
 
 - Intramuscular injections (testosterone cypionate/enanthate)
@@ -42,6 +54,10 @@ This zettel documents evidence-based guidelines for testosterone replacement the
 - Buccal tablets
 - Subcutaneous pellets
 - Nasal gel
+
+## Core Principle
+
+This zettel documents evidence-based guidelines for testosterone replacement therapy (TRT) in males with hypogonadism.
 
 ## Monitoring Parameters
 

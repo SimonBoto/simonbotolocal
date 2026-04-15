@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Vitamin K2 prevents vascular calcification through activation of Matrix Gla Protein (MGP), the body's most potent inhibitor of arterial mineralization, representing a critical protective mechanism against cardiovascular disease in metabolic syndrome.
 
+## Core Principle
+
+> Vitamin K2 prevents vascular calcification through activation of Matrix Gla Protein (MGP), the body's most potent inhibitor of arterial mineralization, representing a critical protective mechanism against cardiovascular disease in metabolic syndrome.
+
 ## Matrix Gla Protein (MGP)
 
 ### Structure and Function
@@ -37,6 +41,10 @@ extraction-date: 2026-03-01
 **Measurement:**
 - **Serum ucMGP:** Commercially available (not routine)
 - **High ucMGP:** Indicates functional vitamin K deficiency
+
+## Core Principle
+
+> Vitamin K2 prevents vascular calcification through activation of Matrix Gla Protein (MGP), the body's most potent inhibitor of arterial mineralization, representing a critical protective mechanism against cardiovascular disease in metabolic syndrome.
 
 ## Anti-Calcification Mechanisms
 
@@ -61,6 +69,10 @@ extraction-date: 2026-03-01
 - Maintains contractile phenotype
 - Prevents osteogenic transdifferentiation
 - Reduces expression of bone matrix proteins
+
+## Core Principle
+
+> Vitamin K2 prevents vascular calcification through activation of Matrix Gla Protein (MGP), the body's most potent inhibitor of arterial mineralization, representing a critical protective mechanism against cardiovascular disease in metabolic syndrome.
 
 ## Clinical Evidence for Vascular Protection
 
@@ -103,6 +115,10 @@ extraction-date: 2026-03-01
   - Decreased ucMGP
   - Improved vitamin K status
 
+## Core Principle
+
+> Vitamin K2 prevents vascular calcification through activation of Matrix Gla Protein (MGP), the body's most potent inhibitor of arterial mineralization, representing a critical protective mechanism against cardiovascular disease in metabolic syndrome.
+
 ## Metabolic Syndrome Context
 
 ### Accelerated Vascular Calcification in MetS
@@ -123,6 +139,10 @@ extraction-date: 2026-03-01
 - MGP often undercarboxylated in diabetics
 - K2 supplementation particularly beneficial
 
+## Core Principle
+
+> Vitamin K2 prevents vascular calcification through activation of Matrix Gla Protein (MGP), the body's most potent inhibitor of arterial mineralization, representing a critical protective mechanism against cardiovascular disease in metabolic syndrome.
+
 ## Synergy with Other Nutrients
 
 ###  + K2
@@ -136,6 +156,10 @@ extraction-date: 2026-03-01
 - **Mg:** Physiological calcium antagonist
 - **K2:** Biochemical calcification inhibitor (via MGP)
 - **Combined:** Enhanced vascular protection
+
+## Core Principle
+
+> Vitamin K2 prevents vascular calcification through activation of Matrix Gla Protein (MGP), the body's most potent inhibitor of arterial mineralization, representing a critical protective mechanism against cardiovascular disease in metabolic syndrome.
 
 ## METHAP Implications
 
@@ -161,6 +185,10 @@ extraction-date: 2026-03-01
 *Related: [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Vitamin K2 prevents vascular calcification through activation of Matrix Gla Protein (MGP), the body's most potent inhibitor of arterial mineralization, representing a critical protective mechanism against cardiovascular disease in metabolic syndrome.
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -168,6 +196,10 @@ extraction-date: 2026-03-01
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+> Vitamin K2 prevents vascular calcification through activation of Matrix Gla Protein (MGP), the body's most potent inhibitor of arterial mineralization, representing a critical protective mechanism against cardiovascular disease in metabolic syndrome.
 
 ## Connection to Vault
 

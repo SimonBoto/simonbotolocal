@@ -32,6 +32,10 @@ Despite modern understanding that vitamin D toxicity is rare and requires massiv
 
 **Clinical impact:** Patients remain deficient due to provider reluctance to prescribe adequate doses; population health suffers from unfounded fears.
 
+## Core Principle
+
+Despite modern understanding that vitamin D toxicity is rare and requires massive supplemental intake (far exceeding physiological production), the toxicity myth persists in public consciousness, medical education, and  practice. This persistence stems from 1950s regulatory responses and failure to update curricula with genetic discoveries.
+
 ## Links
 
 **Parent MOC:** 
@@ -43,10 +47,18 @@ Despite modern understanding that vitamin D toxicity is rare and requires massiv
 *UID: Z-001-0057 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Despite modern understanding that vitamin D toxicity is rare and requires massive supplemental intake (far exceeding physiological production), the toxicity myth persists in public consciousness, medical education, and  practice. This persistence stems from 1950s regulatory responses and failure to update curricula with genetic discoveries.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Despite modern understanding that vitamin D toxicity is rare and requires massive supplemental intake (far exceeding physiological production), the toxicity myth persists in public consciousness, medical education, and  practice. This persistence stems from 1950s regulatory responses and failure to update curricula with genetic discoveries.
 
 ## Connection to Vault
 

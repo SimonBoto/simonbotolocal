@@ -16,6 +16,10 @@ source-litnote: Synthesized from clinical practice
 
 **Core Formula:** Sample size depends on effect size, desired power, significance level, and number of groups.
 
+## Core Principle
+
+**Core Formula:** Sample size depends on effect size, desired power, significance level, and number of groups.
+
 ## Cohen's f Effect Size
 
 **Definition:** Standardized measure of variance explained by group differences
@@ -36,6 +40,10 @@ Where η² = variance between groups / total variance
 
 **Biological Reality:** Most metabolomics effects are small (f=0.1-0.2) due to metabolic complexity and individual variation.
 
+## Core Principle
+
+**Core Formula:** Sample size depends on effect size, desired power, significance level, and number of groups.
+
 ## Sample Size Formula (ANOVA)
 
 **Per-group sample size:**
@@ -50,6 +58,10 @@ n = (Z₁₋β + Z₁₋α/₂)² × (k - 1) / f²
 | Z₁₋α/₂ | Significance Z-score | 1.96 (α=0.05, two-tailed) |
 | k | Number of groups | 2, 3, 4+ |
 | f | Effect size | 0.1, 0.25, 0.4 |
+
+## Core Principle
+
+**Core Formula:** Sample size depends on effect size, desired power, significance level, and number of groups.
 
 ## Worked Examples
 
@@ -106,6 +118,10 @@ n = 66 per group
 
 **Total subjects needed:** 66 × 2 = **132**
 
+## Core Principle
+
+**Core Formula:** Sample size depends on effect size, desired power, significance level, and number of groups.
+
 ## Practical Implications
 
 **For Untargeted Metabolomics:**
@@ -117,6 +133,10 @@ n = 66 per group
 - Can focus on larger effects (f=0.25+)
 - Need 50-150 subjects per group
 - More feasible for PhD projects
+
+## Core Principle
+
+**Core Formula:** Sample size depends on effect size, desired power, significance level, and number of groups.
 
 ## Quick Reference Table
 
@@ -135,6 +155,10 @@ n = 66 per group
 
 *See also: [[Underpowered_Study_Consequences_Z-001-0929]*
 
+## Core Principle
+
+**Core Formula:** Sample size depends on effect size, desired power, significance level, and number of groups.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
@@ -142,6 +166,10 @@ n = 66 per group
 
 
 ---
+
+## Core Principle
+
+**Core Formula:** Sample size depends on effect size, desired power, significance level, and number of groups.
 
 ## Connection to Vault
 

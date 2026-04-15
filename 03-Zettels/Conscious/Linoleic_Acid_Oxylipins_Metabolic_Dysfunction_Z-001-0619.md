@@ -19,6 +19,10 @@ Mouse study demonstrating the mechanistic link between dietary linoleic acid (fr
 
 ![[2025-12-12_X_Pungao_Seed_Oils_Oxylipins_1.jpg]]
 
+## Core Principle
+
+Mouse study demonstrating the mechanistic link between dietary linoleic acid (from soybean oil), liver oxylipin production, and metabolic dysfunction (PŪNGAO, 2025).
+
 ## The Pathway: Linoleic Acid → Oxylipins → Disease
 
 ### Step 1: Dietary Intake
@@ -39,6 +43,10 @@ Mouse study demonstrating the mechanistic link between dietary linoleic acid (fr
 | Fat gain | Adipogenesis, lipogenesis promotion |
 | Liver reprogramming | Metabolic dysfunction, insulin resistance |
 
+## Core Principle
+
+Mouse study demonstrating the mechanistic link between dietary linoleic acid (from soybean oil), liver oxylipin production, and metabolic dysfunction (PŪNGAO, 2025).
+
 ## Key Study Findings
 
 ### Genetic Manipulation Experiment
@@ -51,6 +59,10 @@ Mouse study demonstrating the mechanistic link between dietary linoleic acid (fr
 - They **reprogram liver metabolism** through oxylipin signaling
 - Creates self-sustaining cycle of inflammation and fat accumulation
 
+## Core Principle
+
+Mouse study demonstrating the mechanistic link between dietary linoleic acid (from soybean oil), liver oxylipin production, and metabolic dysfunction (PŪNGAO, 2025).
+
 ## Critical Context
 
 ### The "Heart Healthy" Paradox
@@ -62,6 +74,10 @@ Mouse study demonstrating the mechanistic link between dietary linoleic acid (fr
 - Seed oil consumption increased dramatically since 1960s
 - Parallel rise in obesity, metabolic syndrome, inflammatory diseases
 - Causation vs. correlation debate ongoing
+
+## Core Principle
+
+Mouse study demonstrating the mechanistic link between dietary linoleic acid (from soybean oil), liver oxylipin production, and metabolic dysfunction (PŪNGAO, 2025).
 
 ## Clinical Implications
 
@@ -76,6 +92,10 @@ Mouse study demonstrating the mechanistic link between dietary linoleic acid (fr
 - **Timeframe:** Unknown (tissue half-life of PUFAs is ~600-680 days)
 - **Strategy:** Eliminate sources, allow gradual turnover
 - **Monitoring:** Inflammatory markers, body composition, liver function
+
+## Core Principle
+
+Mouse study demonstrating the mechanistic link between dietary linoleic acid (from soybean oil), liver oxylipin production, and metabolic dysfunction (PŪNGAO, 2025).
 
 ## Controversies and Limitations
 
@@ -94,11 +114,19 @@ Mouse study demonstrating the mechanistic link between dietary linoleic acid (fr
 - Large-scale RCTs limited
 - Polarized debate ("seed oils are poison" vs. "everything in moderation")
 
+## Core Principle
+
+Mouse study demonstrating the mechanistic link between dietary linoleic acid (from soybean oil), liver oxylipin production, and metabolic dysfunction (PŪNGAO, 2025).
+
 ## Source
 - **Image:** [[2025-12-12_X_Pungao_Seed_Oils_Oxylipins_1.jpg]]
 - **Metadata:** [[2025-12-12_X_Pungao_Seed_Oils_Oxylipins_1]]
 - **Original post:** PŪNGAO (@realpungao), Dec 12, 2025
 - **Engagement:** 36 likes, 16 bookmarks, 2,969 views
+
+## Core Principle
+
+Mouse study demonstrating the mechanistic link between dietary linoleic acid (from soybean oil), liver oxylipin production, and metabolic dysfunction (PŪNGAO, 2025).
 
 ## Connections to Extract
 - [ ] [[Linoleic_Acid_Biochemistry_Z-XXX-XXXX]] — Omega-6 metabolism pathways

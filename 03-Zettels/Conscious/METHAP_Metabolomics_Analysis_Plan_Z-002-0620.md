@@ -17,6 +17,10 @@ created: 2026-03-27
 
 Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profiling of urine organic acids and plasma free fatty acids.
 
+## Core Principle
+
+Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profiling of urine organic acids and plasma free fatty acids.
+
 ## Analytical Platform
 
 **Method:** Gas Chromatography-Mass Spectrometry (GC-MS)  
@@ -24,12 +28,20 @@ Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profili
 **Supervisor:** Prof. Tsatsakis  
 **Rationale:** Gold standard for metabolite identification and quantification
 
+## Core Principle
+
+Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profiling of urine organic acids and plasma free fatty acids.
+
 ## Sample Types
 
 | Sample | Analysis | Target Metabolites |
 |--------|----------|-------------------|
 | **Urine** | Organic acid profiling | Citric acid, aconitic acid, oxalic acid, glyceric acid, 2-ketoisovaleric acid, acetoacetic acid |
 | **Plasma** | Free fatty acid profiling | Alpha-linolenic acid, nervonic acid, eicosatrienoic acid, lauric acid |
+
+## Core Principle
+
+Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profiling of urine organic acids and plasma free fatty acids.
 
 ## Key Metabolites of Interest
 
@@ -47,6 +59,10 @@ Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profili
 - **Eicosatrienoic acid** — Eicosanoid precursor
 - **Lauric acid** — Medium-chain fatty acid
 
+## Core Principle
+
+Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profiling of urine organic acids and plasma free fatty acids.
+
 ## Statistical Analysis
 
 | Technique | Application |
@@ -57,6 +73,10 @@ Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profili
 | **Pathway analysis** | Metabolic pathway interpretation |
 | **Network analysis** | Metabolite-metabolite interactions |
 
+## Core Principle
+
+Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profiling of urine organic acids and plasma free fatty acids.
+
 ## Quality Control
 
 - Standardized sample collection protocols
@@ -65,6 +85,10 @@ Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profili
 - Data normalization
 - Validation of analytical precision
 
+## Core Principle
+
+Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profiling of urine organic acids and plasma free fatty acids.
+
 ## Innovation
 
 METHAP advances IR diagnostics by:
@@ -72,6 +96,10 @@ METHAP advances IR diagnostics by:
 - **Mechanistic insight** through pathway analysis
 - **Non-invasive** urine-based screening potential
 - **Personalized** metabolite profiles
+
+## Core Principle
+
+Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profiling of urine organic acids and plasma free fatty acids.
 
 ## Links
 
@@ -83,6 +111,10 @@ METHAP advances IR diagnostics by:
 
 *UID: Z-002-0620 | Domain: 002 | Created: 2026-03-27*
 
+## Core Principle
+
+Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profiling of urine organic acids and plasma free fatty acids.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -93,6 +125,10 @@ METHAP advances IR diagnostics by:
 
 
 ---
+
+## Core Principle
+
+Gas chromatography-mass spectrometry (GC-MS) for comprehensive metabolic profiling of urine organic acids and plasma free fatty acids.
 
 ## Connection to Vault
 

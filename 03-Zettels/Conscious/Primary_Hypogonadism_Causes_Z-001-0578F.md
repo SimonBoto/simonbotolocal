@@ -20,12 +20,20 @@ status: conscious
 
 This zettel documents the causes of primary hypogonadism (testicular failure) in males.
 
+## Core Principle
+
+This zettel documents the causes of primary hypogonadism (testicular failure) in males.
+
 ## Genetic Causes
 
 - Klinefelter syndrome (47,XXY)
 - Y chromosome microdeletions
 - Androgen insensitivity syndrome
 - Congenital anorchia
+
+## Core Principle
+
+This zettel documents the causes of primary hypogonadism (testicular failure) in males.
 
 ## Acquired Causes
 
@@ -35,12 +43,20 @@ This zettel documents the causes of primary hypogonadism (testicular failure) in
 - Autoimmune orchitis
 - Chemotherapy-induced damage
 
+## Core Principle
+
+This zettel documents the causes of primary hypogonadism (testicular failure) in males.
+
 ## Endocrine Disorders
 
 - Hemochromatosis
 - Sertoli-cell only syndrome
 - Germ cell aplasia
 - Cryptorchidism (undescended testes)
+
+## Core Principle
+
+This zettel documents the causes of primary hypogonadism (testicular failure) in males.
 
 ## Clinical Features
 

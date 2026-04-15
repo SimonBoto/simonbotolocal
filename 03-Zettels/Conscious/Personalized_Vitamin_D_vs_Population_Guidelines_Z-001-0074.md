@@ -40,6 +40,10 @@ Growing recognition that population-wide RDA fails individual needs. Factors cre
 
 **Vs. guidelines:** Population RDA (600-800 IU) cannot address 20x individual variability. One-size-fits-all guarantees deficiency for many.
 
+## Core Principle
+
+Growing recognition that population-wide RDA fails individual needs. Factors creating 10-20x variability in vitamin D requirements: baseline status, BMI (sequestration in adipose), skin pigmentation, latitude/sun exposure, genetics (VDR polymorphisms, CYP24A1), age, kidney/liver function.
+
 ## Links
 
 **Parent MOC:** 
@@ -51,11 +55,19 @@ Growing recognition that population-wide RDA fails individual needs. Factors cre
 *UID: Z-001-0074 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Growing recognition that population-wide RDA fails individual needs. Factors creating 10-20x variability in vitamin D requirements: baseline status, BMI (sequestration in adipose), skin pigmentation, latitude/sun exposure, genetics (VDR polymorphisms, CYP24A1), age, kidney/liver function.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+Growing recognition that population-wide RDA fails individual needs. Factors creating 10-20x variability in vitamin D requirements: baseline status, BMI (sequestration in adipose), skin pigmentation, latitude/sun exposure, genetics (VDR polymorphisms, CYP24A1), age, kidney/liver function.
 
 ## Connection to Vault
 

@@ -28,11 +28,19 @@ The insulin receptor (INSR) is a tetrameric receptor tyrosine kinase expressed o
 
 **Isoforms:** INSR-A (fetal, high IGF-2 affinity) vs. INSR-B (adult, exon 11)
 
+## Core Principle
+
+The insulin receptor (INSR) is a tetrameric receptor tyrosine kinase expressed on plasma membranes of metabolically active tissues (muscle, adipose, liver).
+
 ## Links
 
 - **Upstream:** [[Insulin_Hormone_Structure_Z-001-0002]] — The ligand
 - **:** [[INSR_Autophosphorylation_Mechanism_Z-001-0003]] — Activation cascade  
 - **Disease:** [[INSR_Mutations_Donohue_Syndrome_Z-001-0004]] — When structure fails
+
+## Core Principle
+
+The insulin receptor (INSR) is a tetrameric receptor tyrosine kinase expressed on plasma membranes of metabolically active tissues (muscle, adipose, liver).
 
 ## Context
 
@@ -41,10 +49,18 @@ The insulin receptor (INSR) is a tetrameric receptor tyrosine kinase expressed o
 **Supports:** Synthesis documents on IR pathways
 
 
+## Core Principle
+
+The insulin receptor (INSR) is a tetrameric receptor tyrosine kinase expressed on plasma membranes of metabolically active tissues (muscle, adipose, liver).
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+The insulin receptor (INSR) is a tetrameric receptor tyrosine kinase expressed on plasma membranes of metabolically active tissues (muscle, adipose, liver).
 
 ## Connection to Vault
 

@@ -18,6 +18,10 @@ status: conscious
 
 Herbal antimicrobials provide broad-spectrum activity against bacterial, fungal, and parasitic overgrowth in dysbiosis with fewer side effects than pharmaceutical antibiotics, though they require longer treatment duration and careful monitoring for Herxheimer reactions.
 
+## Core Principle
+
+Herbal antimicrobials provide broad-spectrum activity against bacterial, fungal, and parasitic overgrowth in dysbiosis with fewer side effects than pharmaceutical antibiotics, though they require longer treatment duration and careful monitoring for Herxheimer reactions.
+
 ## Key Herbal Agents
 
 **Broad-Spectrum Antimicrobials:**
@@ -33,6 +37,10 @@ Herbal antimicrobials provide broad-spectrum activity against bacterial, fungal,
 - **Goldenseal:** Berberine content, mucosal support
 - **Grapefruit seed extract:** Broad antimicrobial
 - **Pau d'arco:** Antifungal (lapachol)
+
+## Core Principle
+
+Herbal antimicrobials provide broad-spectrum activity against bacterial, fungal, and parasitic overgrowth in dysbiosis with fewer side effects than pharmaceutical antibiotics, though they require longer treatment duration and careful monitoring for Herxheimer reactions.
 
 ## Clinical Protocol
 
@@ -50,6 +58,10 @@ Herbal antimicrobials provide broad-spectrum activity against bacterial, fungal,
 - Use 2–3 herbs simultaneously
 - Rotate formulas every 4–6 weeks
 - Target suspected organisms based on symptoms
+
+## Core Principle
+
+Herbal antimicrobials provide broad-spectrum activity against bacterial, fungal, and parasitic overgrowth in dysbiosis with fewer side effects than pharmaceutical antibiotics, though they require longer treatment duration and careful monitoring for Herxheimer reactions.
 
 ## Monitoring and Side Effects
 
@@ -70,13 +82,25 @@ Herbal antimicrobials provide broad-spectrum activity against bacterial, fungal,
 - Fever, chills
 - Significant blood in stool
 
+## Core Principle
+
+Herbal antimicrobials provide broad-spectrum activity against bacterial, fungal, and parasitic overgrowth in dysbiosis with fewer side effects than pharmaceutical antibiotics, though they require longer treatment duration and careful monitoring for Herxheimer reactions.
+
 ## Evidence
 > "Herbal antimicrobials disrupt pathogenic overgrowth and lead to release of metabolites as microorganisms die off — the Herxheimer reaction indicates the treatment is working but requires management."
+
+## Core Principle
+
+Herbal antimicrobials provide broad-spectrum activity against bacterial, fungal, and parasitic overgrowth in dysbiosis with fewer side effects than pharmaceutical antibiotics, though they require longer treatment duration and careful monitoring for Herxheimer reactions.
 
 ## Context
 Herbal antimicrobials are first-line in functional medicine for dysbiosis because they preserve beneficial flora better than broad-spectrum antibiotics while still reducing pathogenic overgrowth. The longer treatment window reflects their gentler mechanism — suppression rather than annihilation — which ultimately supports healthier ecosystem restoration.
 
 ---
+
+## Core Principle
+
+Herbal antimicrobials provide broad-spectrum activity against bacterial, fungal, and parasitic overgrowth in dysbiosis with fewer side effects than pharmaceutical antibiotics, though they require longer treatment duration and careful monitoring for Herxheimer reactions.
 
 ## Links — Two Types
 

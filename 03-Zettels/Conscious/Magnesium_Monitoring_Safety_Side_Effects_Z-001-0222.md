@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Magnesium supplementation has an excellent safety profile with diarrhea being the primary dose-limiting side effect; monitoring serum levels and adjusting for renal function ensures safe therapeutic use.
 
+## Core Principle
+
+> Magnesium supplementation has an excellent safety profile with diarrhea being the primary dose-limiting side effect; monitoring serum levels and adjusting for renal function ensures safe therapeutic use.
+
 ## Safety Profile Overview
 
 ### General Safety
@@ -28,6 +32,10 @@ extraction-date: 2026-03-01
 - **350 mg/day** from supplements only (food sources excluded)
 - Based on osmotic diarrhea risk
 - **Note:** Many clinical trials safely use 500-600 mg/day
+
+## Core Principle
+
+> Magnesium supplementation has an excellent safety profile with diarrhea being the primary dose-limiting side effect; monitoring serum levels and adjusting for renal function ensures safe therapeutic use.
 
 ## Monitoring Parameters
 
@@ -71,6 +79,10 @@ extraction-date: 2026-03-01
 | **12 weeks** | Serum Mg, metabolic markers | Assess outcomes, ongoing monitoring |
 | **End of study** | Serum Mg, final assessment | Document status, outcomes correlation |
 
+## Core Principle
+
+> Magnesium supplementation has an excellent safety profile with diarrhea being the primary dose-limiting side effect; monitoring serum levels and adjusting for renal function ensures safe therapeutic use.
+
 ## Side Effects and Management
 
 ### Common Side Effects
@@ -102,6 +114,10 @@ extraction-date: 2026-03-01
 - Very rare with oral Mg
 - More common with IV in susceptible patients
 
+## Core Principle
+
+> Magnesium supplementation has an excellent safety profile with diarrhea being the primary dose-limiting side effect; monitoring serum levels and adjusting for renal function ensures safe therapeutic use.
+
 ## Contraindications
 
 ### Absolute Contraindications
@@ -127,6 +143,10 @@ extraction-date: 2026-03-01
 - Safe at RDA levels (350-360 mg/day)
 - Therapeutic doses generally safe but monitor
 - IV Mg standard of care for preeclampsia/eclampsia
+
+## Core Principle
+
+> Magnesium supplementation has an excellent safety profile with diarrhea being the primary dose-limiting side effect; monitoring serum levels and adjusting for renal function ensures safe therapeutic use.
 
 ## Drug Interactions
 
@@ -162,6 +182,10 @@ extraction-date: 2026-03-01
 - May require higher Mg supplementation
 - Monitor levels
 
+## Core Principle
+
+> Magnesium supplementation has an excellent safety profile with diarrhea being the primary dose-limiting side effect; monitoring serum levels and adjusting for renal function ensures safe therapeutic use.
+
 ## Signs of Excess (Hypermagnesemia)
 
 **Rare with oral supplementation** (occurs with renal failure or IV overdose)
@@ -177,6 +201,10 @@ extraction-date: 2026-03-01
 - Stop Mg administration
 - IV calcium gluconate (antagonizes cardiac effects)
 - Dialysis if severe renal failure
+
+## Core Principle
+
+> Magnesium supplementation has an excellent safety profile with diarrhea being the primary dose-limiting side effect; monitoring serum levels and adjusting for renal function ensures safe therapeutic use.
 
 ## METHAP Safety Protocol
 
@@ -200,6 +228,10 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Magnesium_Supplementation_L-001-0201d]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Magnesium supplementation has an excellent safety profile with diarrhea being the primary dose-limiting side effect; monitoring serum levels and adjusting for renal function ensures safe therapeutic use.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
@@ -207,6 +239,10 @@ extraction-date: 2026-03-01
 - [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> Magnesium supplementation has an excellent safety profile with diarrhea being the primary dose-limiting side effect; monitoring serum levels and adjusting for renal function ensures safe therapeutic use.
 
 ## Connection to Vault
 

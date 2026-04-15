@@ -22,6 +22,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Magnesium, zinc, and selenium** are essential cofactors for metabolic and thyroid function. Unlike sodium and potassium (tightly regulated), these minerals often show suboptimal levels in metabolic patients and require targeted assessment.
+
 ## 🎯 Magnesium (Mg)
 
 ### Reference Ranges
@@ -49,6 +53,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Magnesium, zinc, and selenium** are essential cofactors for metabolic and thyroid function. Unlike sodium and potassium (tightly regulated), these minerals often show suboptimal levels in metabolic patients and require targeted assessment.
+
 ## 🎯 Zinc (Zn)
 
 ### Reference Ranges
@@ -74,6 +82,10 @@ extraction-date: 2026-04-15
 - **Balance with copper:** Long-term high-dose zinc → copper deficiency
 
 ---
+
+## Core Principle
+
+**Magnesium, zinc, and selenium** are essential cofactors for metabolic and thyroid function. Unlike sodium and potassium (tightly regulated), these minerals often show suboptimal levels in metabolic patients and require targeted assessment.
 
 ## 🎯 Selenium (Se)
 
@@ -104,6 +116,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Magnesium, zinc, and selenium** are essential cofactors for metabolic and thyroid function. Unlike sodium and potassium (tightly regulated), these minerals often show suboptimal levels in metabolic patients and require targeted assessment.
+
 ## 🔗 Connected Systems
 
 **Thyroid:**
@@ -119,6 +135,10 @@ extraction-date: 2026-04-15
 - Methionine synthase requires magnesium
 
 ---
+
+## Core Principle
+
+**Magnesium, zinc, and selenium** are essential cofactors for metabolic and thyroid function. Unlike sodium and potassium (tightly regulated), these minerals often show suboptimal levels in metabolic patients and require targeted assessment.
 
 ## 🩺 Clinical Patterns
 
@@ -142,6 +162,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Magnesium, zinc, and selenium** are essential cofactors for metabolic and thyroid function. Unlike sodium and potassium (tightly regulated), these minerals often show suboptimal levels in metabolic patients and require targeted assessment.
+
 ## 🔬 Testing Strategy
 
 | Mineral | Best Test | When to Check |
@@ -153,6 +177,10 @@ extraction-date: 2026-04-15
 **Note:** Serum levels are affected by inflammation and acute phase response.
 
 ---
+
+## Core Principle
+
+**Magnesium, zinc, and selenium** are essential cofactors for metabolic and thyroid function. Unlike sodium and potassium (tightly regulated), these minerals often show suboptimal levels in metabolic patients and require targeted assessment.
 
 ## 💡 Clinical Pearl
 
@@ -167,6 +195,10 @@ extraction-date: 2026-04-15
 *Source: , _Architecture_v1]*
 *Created: 2026-02-26 | Domain: 010 | Status: Conscious*
 
+## Core Principle
+
+**Magnesium, zinc, and selenium** are essential cofactors for metabolic and thyroid function. Unlike sodium and potassium (tightly regulated), these minerals often show suboptimal levels in metabolic patients and require targeted assessment.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[CRP_[B-002-0001]|Biomarker Family]
@@ -179,6 +211,10 @@ extraction-date: 2026-04-15
 
 
 ---
+
+## Core Principle
+
+**Magnesium, zinc, and selenium** are essential cofactors for metabolic and thyroid function. Unlike sodium and potassium (tightly regulated), these minerals often show suboptimal levels in metabolic patients and require targeted assessment.
 
 ## Connection to Vault
 

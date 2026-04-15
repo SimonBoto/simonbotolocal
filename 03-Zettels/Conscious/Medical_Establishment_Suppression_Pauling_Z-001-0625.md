@@ -17,6 +17,10 @@ extraction-date: 2026-04-15
 
 The medical establishment's ridicule of Linus Pauling exemplifies a recurring pattern: suppressing paradigm-challenging ideas, especially from outsiders or those who challenge institutional dogma — with attacks on the person rather than engagement with the science.
 
+## Core Principle
+
+The medical establishment's ridicule of Linus Pauling exemplifies a recurring pattern: suppressing paradigm-challenging ideas, especially from outsiders or those who challenge institutional dogma — with attacks on the person rather than engagement with the science.
+
 ## The Attacks on Pauling
 
 **Rhetoric used:**
@@ -33,6 +37,10 @@ The medical establishment's ridicule of Linus Pauling exemplifies a recurring pa
 - Professional isolation
 - Media mockery
 
+## Core Principle
+
+The medical establishment's ridicule of Linus Pauling exemplifies a recurring pattern: suppressing paradigm-challenging ideas, especially from outsiders or those who challenge institutional dogma — with attacks on the person rather than engagement with the science.
+
 ## Why Pauling Was Targeted
 
 **Threats he posed:**
@@ -41,6 +49,10 @@ The medical establishment's ridicule of Linus Pauling exemplifies a recurring pa
 3. **Prevention focus** — threatened disease-care model
 4. **Low-cost intervention** — vitamin C is cheap
 5. **Paradigm challenge** — optimal vs. deficiency thinking
+
+## Core Principle
+
+The medical establishment's ridicule of Linus Pauling exemplifies a recurring pattern: suppressing paradigm-challenging ideas, especially from outsiders or those who challenge institutional dogma — with attacks on the person rather than engagement with the science.
 
 ## Historical Pattern
 
@@ -51,6 +63,10 @@ The medical establishment's ridicule of Linus Pauling exemplifies a recurring pa
 | Wegener | Continental drift | Pseudoscience | Plate tectonics |
 | Marshall/Warren | H. pylori | Disbelief | Nobel Prize |
 | Pauling | High-dose vitamin C | Quackery | Partial vindication |
+
+## Core Principle
+
+The medical establishment's ridicule of Linus Pauling exemplifies a recurring pattern: suppressing paradigm-challenging ideas, especially from outsiders or those who challenge institutional dogma — with attacks on the person rather than engagement with the science.
 
 ## Mechanisms of Suppression
 
@@ -71,6 +87,10 @@ The medical establishment's ridicule of Linus Pauling exemplifies a recurring pa
 - Prevention reduces treatment need
 - Patient empowerment reduces dependency
 
+## Core Principle
+
+The medical establishment's ridicule of Linus Pauling exemplifies a recurring pattern: suppressing paradigm-challenging ideas, especially from outsiders or those who challenge institutional dogma — with attacks on the person rather than engagement with the science.
+
 ## The Cost of Suppression
 
 **To Pauling:**
@@ -88,6 +108,10 @@ The medical establishment's ridicule of Linus Pauling exemplifies a recurring pa
 - Preventable suffering
 - Unnecessary medicalization
 
+## Core Principle
+
+The medical establishment's ridicule of Linus Pauling exemplifies a recurring pattern: suppressing paradigm-challenging ideas, especially from outsiders or those who challenge institutional dogma — with attacks on the person rather than engagement with the science.
+
 ## Modern Relevance
 
 **Pattern continues:**
@@ -96,6 +120,10 @@ The medical establishment's ridicule of Linus Pauling exemplifies a recurring pa
 - Sunlight/vitamin D
 - Gut microbiome
 - Any challenge to pharmaceutical model
+
+## Core Principle
+
+The medical establishment's ridicule of Linus Pauling exemplifies a recurring pattern: suppressing paradigm-challenging ideas, especially from outsiders or those who challenge institutional dogma — with attacks on the person rather than engagement with the science.
 
 ## Source
 [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] — Vitamin King (2025)

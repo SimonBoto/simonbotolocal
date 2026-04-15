@@ -28,6 +28,10 @@ Metformin inhibits mitochondrial Complex I, reducing ATP production and activati
 
 **METHAP Parallel:** Both metformin and  activate AMPK — shared anti-inflammatory pathways that may synergize in metabolic syndrome with autoimmune comorbidity.
 
+## Core Principle
+
+Metformin inhibits mitochondrial Complex I, reducing ATP production and activating AMPK. This triggers metabolic and immunological effects: fatty acid oxidation increases, lipogenesis decreases, and mTORC1 inhibition blocks pro-inflammatory signaling while preserving B-cell antibody production.
+
 ## Key Details
 
 | Target | Effect |
@@ -39,11 +43,19 @@ Metformin inhibits mitochondrial Complex I, reducing ATP production and activati
 | B-cells | Antibody production preserved |
 | Macrophages | IL-1β and ROS reduced |
 
+## Core Principle
+
+Metformin inhibits mitochondrial Complex I, reducing ATP production and activating AMPK. This triggers metabolic and immunological effects: fatty acid oxidation increases, lipogenesis decreases, and mTORC1 inhibition blocks pro-inflammatory signaling while preserving B-cell antibody production.
+
 ## Links
 
 - **Upstream:** [[Inflammatory_Signaling_IR_Z-001-0031.md] — Inflammatory signaling pathways
 - **Parallel:** [[Rapamycin_mTOR_Immune_Tolerance_Z-101-0003.md] — Rapamycin also targets mTOR
 - **Downstream:** _Panel_Z-001-0045.md] — Shared pathways in METHAP panel
+
+## Core Principle
+
+Metformin inhibits mitochondrial Complex I, reducing ATP production and activating AMPK. This triggers metabolic and immunological effects: fatty acid oxidation increases, lipogenesis decreases, and mTORC1 inhibition blocks pro-inflammatory signaling while preserving B-cell antibody production.
 
 ## Context
 
@@ -55,6 +67,10 @@ Metformin inhibits mitochondrial Complex I, reducing ATP production and activati
 
 *UID: Z-101-0002 | Domain: 101 | Created: 2026-02-24*
 
+## Core Principle
+
+Metformin inhibits mitochondrial Complex I, reducing ATP production and activating AMPK. This triggers metabolic and immunological effects: fatty acid oxidation increases, lipogenesis decreases, and mTORC1 inhibition blocks pro-inflammatory signaling while preserving B-cell antibody production.
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -63,6 +79,10 @@ Metformin inhibits mitochondrial Complex I, reducing ATP production and activati
 
 
 ---
+
+## Core Principle
+
+Metformin inhibits mitochondrial Complex I, reducing ATP production and activating AMPK. This triggers metabolic and immunological effects: fatty acid oxidation increases, lipogenesis decreases, and mTORC1 inhibition blocks pro-inflammatory signaling while preserving B-cell antibody production.
 
 ## Connection to Vault
 

@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Matrix Gla Protein (MGP) is the body's strongest inhibitor of vascular calcification. Its protective function requires both  (for synthesis) and  (for activation), making the D-K2 synergy essential for cardiovascular health.
 
+## Core Principle
+
+> Matrix Gla Protein (MGP) is the body's strongest inhibitor of vascular calcification. Its protective function requires both  (for synthesis) and  (for activation), making the D-K2 synergy essential for cardiovascular health.
+
 ## Matrix Gla Protein (MGP)
 
 **Structure:**
@@ -34,6 +38,10 @@ extraction-date: 2026-03-01
 - Cartilage
 - Bone (minor role compared to osteocalcin)
 
+## Core Principle
+
+> Matrix Gla Protein (MGP) is the body's strongest inhibitor of vascular calcification. Its protective function requires both  (for synthesis) and  (for activation), making the D-K2 synergy essential for cardiovascular health.
+
 ## Activation Requirements
 
 ### Vitamin D Role
@@ -52,6 +60,10 @@ extraction-date: 2026-03-01
 - **cMGP:** Carboxylated (active)
 - **ucMGP:** Uncarboxylated (inactive)
 - **Ratio:** cMGP/ucMGP indicates vascular K status
+
+## Core Principle
+
+> Matrix Gla Protein (MGP) is the body's strongest inhibitor of vascular calcification. Its protective function requires both  (for synthesis) and  (for activation), making the D-K2 synergy essential for cardiovascular health.
 
 ## The Calcification Process
 
@@ -77,6 +89,10 @@ Prevents crystal growth
 No calcification, flexible arteries
 ```
 
+## Core Principle
+
+> Matrix Gla Protein (MGP) is the body's strongest inhibitor of vascular calcification. Its protective function requires both  (for synthesis) and  (for activation), making the D-K2 synergy essential for cardiovascular health.
+
 ## Clinical Evidence
 
 ### Population Studies
@@ -94,6 +110,10 @@ No calcification, flexible arteries
 - Without K2: Potential calcium overload
 - With K2: MGP activation prevents arterial deposition
 - **Critical synergy for safety**
+
+## Core Principle
+
+> Matrix Gla Protein (MGP) is the body's strongest inhibitor of vascular calcification. Its protective function requires both  (for synthesis) and  (for activation), making the D-K2 synergy essential for cardiovascular health.
 
 ## METHAP Relevance
 
@@ -113,10 +133,18 @@ No calcification, flexible arteries
 *Related: [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Matrix Gla Protein (MGP) is the body's strongest inhibitor of vascular calcification. Its protective function requires both  (for synthesis) and  (for activation), making the D-K2 synergy essential for cardiovascular health.
+
 ## RELATED FILES
 - 
 
 ---
+
+## Core Principle
+
+> Matrix Gla Protein (MGP) is the body's strongest inhibitor of vascular calcification. Its protective function requires both  (for synthesis) and  (for activation), making the D-K2 synergy essential for cardiovascular health.
 
 ## Connection to Vault
 

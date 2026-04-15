@@ -17,6 +17,10 @@ extraction-date: 2026-04-15
 
 Humans lost the GULO gene (L-gulonolactone oxidase) millions of years ago, making vitamin C an essential dietary requirement rather than a synthesizable nutrient — an evolutionary quirk with profound metabolic implications.
 
+## Core Principle
+
+Humans lost the GULO gene (L-gulonolactone oxidase) millions of years ago, making vitamin C an essential dietary requirement rather than a synthesizable nutrient — an evolutionary quirk with profound metabolic implications.
+
 ## The GULO Gene
 
 **Function:**
@@ -30,6 +34,10 @@ Humans lost the GULO gene (L-gulonolactone oxidase) millions of years ago, makin
 - Mutated ~61 million years ago
 - Shared with other primates, guinea pigs, fruit bats
 
+## Core Principle
+
+Humans lost the GULO gene (L-gulonolactone oxidase) millions of years ago, making vitamin C an essential dietary requirement rather than a synthesizable nutrient — an evolutionary quirk with profound metabolic implications.
+
 ## Species That Cannot Synthesize Vitamin C
 
 | Species | Reason | Dietary Strategy |
@@ -38,6 +46,10 @@ Humans lost the GULO gene (L-gulonolactone oxidase) millions of years ago, makin
 | Guinea pigs | Independent mutation | Fresh vegetation |
 | Fruit bats | Independent mutation | Fruit-rich diet |
 | Some primates | Shared primate mutation | Fruit/vegetation |
+
+## Core Principle
+
+Humans lost the GULO gene (L-gulonolactone oxidase) millions of years ago, making vitamin C an essential dietary requirement rather than a synthesizable nutrient — an evolutionary quirk with profound metabolic implications.
 
 ## Evolutionary "Use It or Lose It"
 
@@ -52,6 +64,10 @@ Humans lost the GULO gene (L-gulonolactone oxidase) millions of years ago, makin
 - Coincides with primate fruit-eating adaptation
 - Before human-chimp divergence
 
+## Core Principle
+
+Humans lost the GULO gene (L-gulonolactone oxidase) millions of years ago, making vitamin C an essential dietary requirement rather than a synthesizable nutrient — an evolutionary quirk with profound metabolic implications.
+
 ## Metabolic Consequence
 
 **Daily vitamin C production (if functional):**
@@ -59,12 +75,20 @@ Humans lost the GULO gene (L-gulonolactone oxidase) millions of years ago, makin
 - During stress: up to 100,000mg/day
 - Humans: **ZERO** — must obtain from diet
 
+## Core Principle
+
+Humans lost the GULO gene (L-gulonolactone oxidase) millions of years ago, making vitamin C an essential dietary requirement rather than a synthesizable nutrient — an evolutionary quirk with profound metabolic implications.
+
 ## Clinical Implication
 
 This evolutionary loss makes vitamin C:
 - **Absolutely essential** — no synthesis backup
 - **Dose-dependent** — needs scale with stress/illness
 - **Diet-critical** — no internal production capability
+
+## Core Principle
+
+Humans lost the GULO gene (L-gulonolactone oxidase) millions of years ago, making vitamin C an essential dietary requirement rather than a synthesizable nutrient — an evolutionary quirk with profound metabolic implications.
 
 ## Source
 [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] — Vitamin King (2025)

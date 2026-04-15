@@ -16,11 +16,19 @@ updated: 2026-03-05
 
 > Severe overfitting (7 countries, many predictors), correlation inflation from aggregation, and implausible R² values undermine statistical validity.
 
+## Core Principle
+
+> Severe overfitting (7 countries, many predictors), correlation inflation from aggregation, and implausible R² values undermine statistical validity.
+
 ## Sample Size Problem
 
 **N = 7 countries** for country-level analysis
 - Not 12,763 individuals at this level
 - Multiple predictors, few observations
+
+## Core Principle
+
+> Severe overfitting (7 countries, many predictors), correlation inflation from aggregation, and implausible R² values undermine statistical validity.
 
 ## Overfitting
 
@@ -34,12 +42,20 @@ updated: 2026-03-05
 - Many outcomes tested
 - Multiple testing not controlled
 
+## Core Principle
+
+> Severe overfitting (7 countries, many predictors), correlation inflation from aggregation, and implausible R² values undermine statistical validity.
+
 ## Correlation Inflation
 
 **Mathematical Property:**
 - Aggregation inflates R²
 - Within-group variance eliminated
 - **Inflation factor: 5-10x**
+
+## Core Principle
+
+> Severe overfitting (7 countries, many predictors), correlation inflation from aggregation, and implausible R² values undermine statistical validity.
 
 ## Implausible Results
 
@@ -49,6 +65,10 @@ updated: 2026-03-05
 - Biology is complex
 - Genetics 40-60%
 - **Statistical artifact**
+
+## Core Principle
+
+> Severe overfitting (7 countries, many predictors), correlation inflation from aggregation, and implausible R² values undermine statistical validity.
 
 ## Modern Standards Violated
 
@@ -62,11 +82,19 @@ updated: 2026-03-05
 *Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]*
 
 
+## Core Principle
+
+> Severe overfitting (7 countries, many predictors), correlation inflation from aggregation, and implausible R² values undermine statistical validity.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Severe overfitting (7 countries, many predictors), correlation inflation from aggregation, and implausible R² values undermine statistical validity.
 
 ## Connection to Vault
 

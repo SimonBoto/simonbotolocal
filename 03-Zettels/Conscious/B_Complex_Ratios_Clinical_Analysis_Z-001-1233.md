@@ -18,6 +18,10 @@ status: conscious
 
 B-complex formulations vary dramatically in relative ratios of B2 (riboflavin), B3 (niacin), B5 (pantothenic acid), and B6 (pyridoxine), with significant implications for methylation support, neurotransmitter synthesis, and MTHFR genotype-specific needs.
 
+## Core Principle
+
+B-complex formulations vary dramatically in relative ratios of B2 (riboflavin), B3 (niacin), B5 (pantothenic acid), and B6 (pyridoxine), with significant implications for methylation support, neurotransmitter synthesis, and MTHFR genotype-specific needs.
+
 ## Ratio Comparison Across Sources
 
 **Relative to B2 (Riboflavin = 1):**
@@ -28,6 +32,10 @@ B-complex formulations vary dramatically in relative ratios of B2 (riboflavin), 
 | **Be Well** | 1:0.9 | 1:0.8 | 1:0.2 | Lower across board |
 | **Beef Liver** | 1:5.9 | 1:2.4 | 1:0.36 | Natural food ratios |
 | **Oysters** | 1:4.5 | 1:0.5 | 1:0.5 | Seafood profile |
+
+## Core Principle
+
+B-complex formulations vary dramatically in relative ratios of B2 (riboflavin), B3 (niacin), B5 (pantothenic acid), and B6 (pyridoxine), with significant implications for methylation support, neurotransmitter synthesis, and MTHFR genotype-specific needs.
 
 ## Clinical Significance
 
@@ -42,6 +50,10 @@ B-complex formulations vary dramatically in relative ratios of B2 (riboflavin), 
 - Balanced B5 → Acetylcholine, adrenal support
 - B3 → NAD+ synthesis, energy metabolism
 
+## Core Principle
+
+B-complex formulations vary dramatically in relative ratios of B2 (riboflavin), B3 (niacin), B5 (pantothenic acid), and B6 (pyridoxine), with significant implications for methylation support, neurotransmitter synthesis, and MTHFR genotype-specific needs.
+
 ## Product Analysis: My Health
 
 **Strengths:**
@@ -55,13 +67,25 @@ B-complex formulations vary dramatically in relative ratios of B2 (riboflavin), 
 - High niacin may cause flushing in sensitive individuals
 - Ratio optimized for methylation/neurotransmitter support
 
+## Core Principle
+
+B-complex formulations vary dramatically in relative ratios of B2 (riboflavin), B3 (niacin), B5 (pantothenic acid), and B6 (pyridoxine), with significant implications for methylation support, neurotransmitter synthesis, and MTHFR genotype-specific needs.
+
 ## Evidence
 > "B-vitamin ratios matter as much as absolute doses — the relative proportions determine which metabolic pathways are prioritized."
+
+## Core Principle
+
+B-complex formulations vary dramatically in relative ratios of B2 (riboflavin), B3 (niacin), B5 (pantothenic acid), and B6 (pyridoxine), with significant implications for methylation support, neurotransmitter synthesis, and MTHFR genotype-specific needs.
 
 ## Context
 B-complex ratios reflect evolutionary food patterns (liver, seafood) but can be strategically modified for therapeutic goals. For MTHFR support, higher B2 relative to other Bs optimizes the compromised enzyme. For neurotransmitter support, higher B6 becomes priority. My Health's formulation appears optimized for methylation support with secondary neurotransmitter benefits.
 
 ---
+
+## Core Principle
+
+B-complex formulations vary dramatically in relative ratios of B2 (riboflavin), B3 (niacin), B5 (pantothenic acid), and B6 (pyridoxine), with significant implications for methylation support, neurotransmitter synthesis, and MTHFR genotype-specific needs.
 
 ## Links — Two Types
 

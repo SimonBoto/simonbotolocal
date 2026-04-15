@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Red flags for B12 deficiency masquerading as malignancy include macrocytic anemia with hypercellular marrow, no monoclonal protein, and risk factors for B12 deficiency.
 
+## Core Principle
+
+> Red flags for B12 deficiency masquerading as malignancy include macrocytic anemia with hypercellular marrow, no monoclonal protein, and risk factors for B12 deficiency.
+
 ## Red Flags for B12 Deficiency (Not MM)
 
 | Feature | B12 Deficiency | MM |
@@ -25,6 +29,10 @@ extraction-date: 2026-03-01
 | **Risk factors** | Vegan, gastric surgery, PPI, elderly | Age >60 |
 | **Bone pain** | Absent | Common |
 | **** | Normal | Elevated |
+
+## Core Principle
+
+> Red flags for B12 deficiency masquerading as malignancy include macrocytic anemia with hypercellular marrow, no monoclonal protein, and risk factors for B12 deficiency.
 
 ## Diagnostic Algorithm
 
@@ -45,6 +53,10 @@ response       ↓
               No → Other investigation
 ```
 
+## Core Principle
+
+> Red flags for B12 deficiency masquerading as malignancy include macrocytic anemia with hypercellular marrow, no monoclonal protein, and risk factors for B12 deficiency.
+
 ## When to Biopsy
 
 **Indications:**
@@ -58,12 +70,20 @@ response       ↓
 *Source: [[LitNote_B12_MM_Mimicry_L-001-0404]*
 
 
+## Core Principle
+
+> Red flags for B12 deficiency masquerading as malignancy include macrocytic anemia with hypercellular marrow, no monoclonal protein, and risk factors for B12 deficiency.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Red flags for B12 deficiency masquerading as malignancy include macrocytic anemia with hypercellular marrow, no monoclonal protein, and risk factors for B12 deficiency.
 
 ## Connection to Vault
 

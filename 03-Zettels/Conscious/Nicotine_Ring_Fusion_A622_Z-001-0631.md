@@ -17,6 +17,10 @@ extraction-date: 2026-04-15
 
 The **A622 enzyme** catalyzes the critical step joining nicotine's two rings — stripping CO2 from a sugar-bound nicotinic acid intermediate to create a reactive species that attacks the pyrrolidine ring.
 
+## Core Principle
+
+The **A622 enzyme** catalyzes the critical step joining nicotine's two rings — stripping CO2 from a sugar-bound nicotinic acid intermediate to create a reactive species that attacks the pyrrolidine ring.
+
 ## Mechanism
 
 1. **Substrate:** Sugar-bound nicotinic acid (unstable)
@@ -25,12 +29,20 @@ The **A622 enzyme** catalyzes the critical step joining nicotine's two rings —
 4. **Attack:** Intermediate "attacks" pyrrolidine ring
 5. **Product:** Fused two-ring nicotine structure
 
+## Core Principle
+
+The **A622 enzyme** catalyzes the critical step joining nicotine's two rings — stripping CO2 from a sugar-bound nicotinic acid intermediate to create a reactive species that attacks the pyrrolidine ring.
+
 ## Why This Matters
 
 This was the **final missing step** in 200 years of nicotine research. Without understanding this fusion:
 - Complete biosynthesis impossible
 - Metabolic engineering blocked
 - Synthetic biology approaches limited
+
+## Core Principle
+
+The **A622 enzyme** catalyzes the critical step joining nicotine's two rings — stripping CO2 from a sugar-bound nicotinic acid intermediate to create a reactive species that attacks the pyrrolidine ring.
 
 ## Enzyme Characteristics
 
@@ -41,9 +53,17 @@ This was the **final missing step** in 200 years of nicotine research. Without u
 | Substrate | Sugar-bound nicotinic acid |
 | Product | Reactive pyridine intermediate |
 
+## Core Principle
+
+The **A622 enzyme** catalyzes the critical step joining nicotine's two rings — stripping CO2 from a sugar-bound nicotinic acid intermediate to create a reactive species that attacks the pyrrolidine ring.
+
 ## Downstream Processing
 
 After ring fusion, additional enzymes strip remaining sugar to produce final nicotine.
+
+## Core Principle
+
+The **A622 enzyme** catalyzes the critical step joining nicotine's two rings — stripping CO2 from a sugar-bound nicotinic acid intermediate to create a reactive species that attacks the pyrrolidine ring.
 
 ## Source
 [[LitNote_McCarty_Nicotine_Biosynthesis_2026_L-001-0606]] — McCarty (2026)

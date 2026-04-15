@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > DNA methylation at CpG dinucleotides is a stable epigenetic mark that regulates gene expression, with patterns established during development and modified by environmental factors including nutrient status.
 
+## Core Principle
+
+> DNA methylation at CpG dinucleotides is a stable epigenetic mark that regulates gene expression, with patterns established during development and modified by environmental factors including nutrient status.
+
 ## 
 
 **Chemistry:**
@@ -31,6 +35,10 @@ extraction-date: 2026-03-01
 | **DNMT3A** | De novo methylation | Development, cell differentiation |
 | **DNMT3B** | De novo methylation | Development, repeat silencing |
 
+## Core Principle
+
+> DNA methylation at CpG dinucleotides is a stable epigenetic mark that regulates gene expression, with patterns established during development and modified by environmental factors including nutrient status.
+
 ## CpG Islands
 
 **Definition:**
@@ -46,6 +54,10 @@ extraction-date: 2026-03-01
 | **Gene body** | Methylated | Enhanced transcription |
 | **Intergenic** | Methylated | Repression of transposons |
 
+## Core Principle
+
+> DNA methylation at CpG dinucleotides is a stable epigenetic mark that regulates gene expression, with patterns established during development and modified by environmental factors including nutrient status.
+
 ## Biological Functions
 
 **Development:**
@@ -57,6 +69,10 @@ extraction-date: 2026-03-01
 - Gene expression regulation
 - Genome stability (silencing repeats)
 - Tissue-specific expression patterns
+
+## Core Principle
+
+> DNA methylation at CpG dinucleotides is a stable epigenetic mark that regulates gene expression, with patterns established during development and modified by environmental factors including nutrient status.
 
 ## Nutrient Connection
 
@@ -76,6 +92,10 @@ B12/Folate → Methionine → SAM → DNMT activity → DNA methylation
 *Source: [[LitNote_Methylation_Cycle_L-001-0402]*
 
 
+## Core Principle
+
+> DNA methylation at CpG dinucleotides is a stable epigenetic mark that regulates gene expression, with patterns established during development and modified by environmental factors including nutrient status.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
@@ -83,6 +103,10 @@ B12/Folate → Methionine → SAM → DNMT activity → DNA methylation
 - 
 
 ---
+
+## Core Principle
+
+> DNA methylation at CpG dinucleotides is a stable epigenetic mark that regulates gene expression, with patterns established during development and modified by environmental factors including nutrient status.
 
 ## Connection to Vault
 

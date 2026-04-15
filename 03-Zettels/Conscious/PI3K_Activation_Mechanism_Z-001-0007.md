@@ -33,10 +33,18 @@ Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the sec
 
 **Clinical:** PI3K inhibitors ( therapy) cause severe  resistance.
 
+## Core Principle
+
+Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the second messenger PIP3.
+
 ## Links
 
 - **Upstream:** [[IRS_Protein_Recruitment_Z-001-0005]] — Adapter docking
 - **Downstream:** [[Akt_Recruitment_by_PIP3_Z-001-0009]] — Second messenger function
+
+## Core Principle
+
+Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the second messenger PIP3.
 
 ## Context
 
@@ -45,11 +53,19 @@ Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the sec
 **Isoforms:** p110α dominant in ; p110β compensates when α lost
 
 
+## Core Principle
+
+Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the second messenger PIP3.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Class IA PI3K is a lipid kinase activated by IRS recruitment, generating the second messenger PIP3.
 
 ## Connection to Vault
 

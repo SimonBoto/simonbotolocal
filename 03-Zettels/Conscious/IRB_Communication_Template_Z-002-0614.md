@@ -17,6 +17,10 @@ created: 2026-03-27
 
 Professional, effective communication with ethics committees requires clarity, respect, and appropriate tone. Templates ensure consistency and completeness.
 
+## Core Principle
+
+Professional, effective communication with ethics committees requires clarity, respect, and appropriate tone. Templates ensure consistency and completeness.
+
 ## Standard Follow-Up Message
 
 **Subject:** Follow-Up Regarding Ethics Application [Reference Number]
@@ -43,6 +47,10 @@ Kind regards,
 
 ---
 
+## Core Principle
+
+Professional, effective communication with ethics committees requires clarity, respect, and appropriate tone. Templates ensure consistency and completeness.
+
 ## Escalation Message
 
 **Subject:** Urgent: Ethics Application [Reference Number] — [Time Period] Pending
@@ -60,6 +68,10 @@ Respectfully,
 
 ---
 
+## Core Principle
+
+Professional, effective communication with ethics committees requires clarity, respect, and appropriate tone. Templates ensure consistency and completeness.
+
 ## Key Principles
 
 | Principle | Application |
@@ -71,6 +83,10 @@ Respectfully,
 | **Offer cooperation** | Additional information, meeting |
 | **Maintain respect** | Professional tone regardless of frustration |
 
+## Core Principle
+
+Professional, effective communication with ethics committees requires clarity, respect, and appropriate tone. Templates ensure consistency and completeness.
+
 ## Greek Context
 
 For Greek ethics committees:
@@ -78,6 +94,10 @@ For Greek ethics committees:
 - Include full academic titles
 - Reference institutional hierarchy
 - Expect longer response times than US/UK
+
+## Core Principle
+
+Professional, effective communication with ethics committees requires clarity, respect, and appropriate tone. Templates ensure consistency and completeness.
 
 ## Links
 
@@ -90,10 +110,18 @@ For Greek ethics committees:
 *UID: Z-002-0614 | Domain: 002 | Created: 2026-03-27*
 
 
+## Core Principle
+
+Professional, effective communication with ethics committees requires clarity, respect, and appropriate tone. Templates ensure consistency and completeness.
+
 ## RELATED FILES
 - [[Questionnaire_Ethics_Approval_Strategies_Z-101-0482]|Z-101-0482]
 
 ---
+
+## Core Principle
+
+Professional, effective communication with ethics committees requires clarity, respect, and appropriate tone. Templates ensure consistency and completeness.
 
 ## Connection to Vault
 

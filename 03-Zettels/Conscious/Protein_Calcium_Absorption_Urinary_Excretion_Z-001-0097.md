@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 Protein intake stimulates intestinal calcium absorption. However, extremely high protein may increase urinary calcium excretion. Balance is essential—moderate-high protein optimizes calcium retention.
 
+## Core Principle
+
+Protein intake stimulates intestinal calcium absorption. However, extremely high protein may increase urinary calcium excretion. Balance is essential—moderate-high protein optimizes calcium retention.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,6 +34,10 @@ Protein intake stimulates intestinal calcium absorption. However, extremely high
 *UID: Z-001-0097 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Protein intake stimulates intestinal calcium absorption. However, extremely high protein may increase urinary calcium excretion. Balance is essential—moderate-high protein optimizes calcium retention.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
@@ -37,6 +45,10 @@ Protein intake stimulates intestinal calcium absorption. However, extremely high
 - [[Bone_Remodeling_Cycle_Five_Phases_Z-001-0083]|Z-001-0083]
 
 ---
+
+## Core Principle
+
+Protein intake stimulates intestinal calcium absorption. However, extremely high protein may increase urinary calcium excretion. Balance is essential—moderate-high protein optimizes calcium retention.
 
 ## Connection to Vault
 

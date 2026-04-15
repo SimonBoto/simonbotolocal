@@ -17,6 +17,10 @@ created: 2026-03-27
 
 Council for International Organizations of Medical Sciences (CIOMS) and WHO guidelines for biomedical research involving human subjects, particularly in resource-limited settings. First 1982, revised 1993, 2002, 2016.
 
+## Core Principle
+
+Council for International Organizations of Medical Sciences (CIOMS) and WHO guidelines for biomedical research involving human subjects, particularly in resource-limited settings. First 1982, revised 1993, 2002, 2016.
+
 ## Purpose
 
 Address ethical challenges in international research:
@@ -25,6 +29,10 @@ Address ethical challenges in international research:
 - Post-trial access to interventions
 - Capacity building
 - Benefit sharing
+
+## Core Principle
+
+Council for International Organizations of Medical Sciences (CIOMS) and WHO guidelines for biomedical research involving human subjects, particularly in resource-limited settings. First 1982, revised 1993, 2002, 2016.
 
 ## Key Guidelines (2016)
 
@@ -38,6 +46,10 @@ Address ethical challenges in international research:
 | 6 | Post-trial access to beneficial interventions |
 | 7 | Research conducted by qualified personnel |
 | 8 | Research must be registered and results disseminated |
+
+## Core Principle
+
+Council for International Organizations of Medical Sciences (CIOMS) and WHO guidelines for biomedical research involving human subjects, particularly in resource-limited settings. First 1982, revised 1993, 2002, 2016.
 
 ## Special Protections
 
@@ -55,6 +67,10 @@ Address ethical challenges in international research:
 - Local ethics review
 - Capacity building
 
+## Core Principle
+
+Council for International Organizations of Medical Sciences (CIOMS) and WHO guidelines for biomedical research involving human subjects, particularly in resource-limited settings. First 1982, revised 1993, 2002, 2016.
+
 ## Post-Trial Access (Guideline 6)
 
 Before research begins, sponsors must plan:
@@ -62,6 +78,10 @@ Before research begins, sponsors must plan:
 - Duration of access
 - Healthcare system capacity to deliver
 - Sustainability plan
+
+## Core Principle
+
+Council for International Organizations of Medical Sciences (CIOMS) and WHO guidelines for biomedical research involving human subjects, particularly in resource-limited settings. First 1982, revised 1993, 2002, 2016.
 
 ## Controversies Addressed
 
@@ -72,6 +92,10 @@ Before research begins, sponsors must plan:
 | Exploitation concerns | Research must benefit host community |
 | Capacity building | Required component of international research |
 
+## Core Principle
+
+Council for International Organizations of Medical Sciences (CIOMS) and WHO guidelines for biomedical research involving human subjects, particularly in resource-limited settings. First 1982, revised 1993, 2002, 2016.
+
 ## Application to METHAP
 
 If METHAP involves international collaboration:
@@ -80,6 +104,10 @@ If METHAP involves international collaboration:
 - Results dissemination to participants
 - Capacity building ( training)
 - No exploitation of resource-limited settings
+
+## Core Principle
+
+Council for International Organizations of Medical Sciences (CIOMS) and WHO guidelines for biomedical research involving human subjects, particularly in resource-limited settings. First 1982, revised 1993, 2002, 2016.
 
 ## Links
 
@@ -92,11 +120,19 @@ If METHAP involves international collaboration:
 *UID: Z-002-0611 | Domain: 002 | Created: 2026-03-27*
 
 
+## Core Principle
+
+Council for International Organizations of Medical Sciences (CIOMS) and WHO guidelines for biomedical research involving human subjects, particularly in resource-limited settings. First 1982, revised 1993, 2002, 2016.
+
 ## RELATED FILES
 - 
 - [[Independent_Review_IRB_Ethics_Z-002-0605]|Z-002-0605]
 
 ---
+
+## Core Principle
+
+Council for International Organizations of Medical Sciences (CIOMS) and WHO guidelines for biomedical research involving human subjects, particularly in resource-limited settings. First 1982, revised 1993, 2002, 2016.
 
 ## Connection to Vault
 

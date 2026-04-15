@@ -25,6 +25,10 @@ The **TG/HDL ratio** is a simple, powerful proxy for insulin resistance and LDL 
 
 ---
 
+## Core Principle
+
+The **TG/HDL ratio** is a simple, powerful proxy for insulin resistance and LDL particle size. It correlates strongly with HOMA-IR and predicts cardiovascular risk independent of total cholesterol.
+
 ## 📐 Formula
 
 $$
@@ -34,6 +38,10 @@ $$
 **No conversion needed** — standard lipid panel values.
 
 ---
+
+## Core Principle
+
+The **TG/HDL ratio** is a simple, powerful proxy for insulin resistance and LDL particle size. It correlates strongly with HOMA-IR and predicts cardiovascular risk independent of total cholesterol.
 
 ## 🎯 Interpretation Thresholds
 
@@ -47,6 +55,10 @@ $$
 **Key insight:** Each 1-point increase in TG/HDL ratio ≈ increased CVD risk independent of LDL-C.
 
 ---
+
+## Core Principle
+
+The **TG/HDL ratio** is a simple, powerful proxy for insulin resistance and LDL particle size. It correlates strongly with HOMA-IR and predicts cardiovascular risk independent of total cholesterol.
 
 ## 🔗 Connected s
 
@@ -63,6 +75,10 @@ $$
 - _Z-001-0018.md] — Lipotoxicity (elevated TG = hepatic steatosis = IR marker)
 
 ---
+
+## Core Principle
+
+The **TG/HDL ratio** is a simple, powerful proxy for insulin resistance and LDL particle size. It correlates strongly with HOMA-IR and predicts cardiovascular risk independent of total cholesterol.
 
 ## 🩺 Clinical Application
 
@@ -82,6 +98,10 @@ $$
 
 ---
 
+## Core Principle
+
+The **TG/HDL ratio** is a simple, powerful proxy for insulin resistance and LDL particle size. It correlates strongly with HOMA-IR and predicts cardiovascular risk independent of total cholesterol.
+
 ## 📊 Calculation Examples
 
 | Patient | TG (mg/dL) | HDL-C (mg/dL) | TG/HDL | Status |
@@ -93,6 +113,10 @@ $$
 
 ---
 
+## Core Principle
+
+The **TG/HDL ratio** is a simple, powerful proxy for insulin resistance and LDL particle size. It correlates strongly with HOMA-IR and predicts cardiovascular risk independent of total cholesterol.
+
 ## 🔬 Validation
 
 **Original insight:** Gaziano et al., *Circulation* 1997 — TG/HDL predicts MI better than LDL-C
@@ -102,6 +126,10 @@ $$
 **Key finding:** TG/HDL outperforms total cholesterol and LDL-C for CVD prediction in metabolic syndrome.
 
 ---
+
+## Core Principle
+
+The **TG/HDL ratio** is a simple, powerful proxy for insulin resistance and LDL particle size. It correlates strongly with HOMA-IR and predicts cardiovascular risk independent of total cholesterol.
 
 ## 🔄 Relationship with Other Markers
 
@@ -113,6 +141,10 @@ $$
 
 ---
 
+## Core Principle
+
+The **TG/HDL ratio** is a simple, powerful proxy for insulin resistance and LDL particle size. It correlates strongly with HOMA-IR and predicts cardiovascular risk independent of total cholesterol.
+
 ## 💡 Clinical Pearl
 
 > "TG/HDL is my quick screen. Patient has 'normal' cholesterol but TG/HDL of 5? That's severe IR masquerading as normal lipids. Dig deeper — HOMA-IR, pattern analysis, metabolic syndrome criteria."
@@ -120,6 +152,10 @@ $$
 > "In resource-limited settings worldwide, TG/HDL is a gift. No fancy equipment, just a basic lipid panel, and you have an IR marker."
 
 ---
+
+## Core Principle
+
+The **TG/HDL ratio** is a simple, powerful proxy for insulin resistance and LDL particle size. It correlates strongly with HOMA-IR and predicts cardiovascular risk independent of total cholesterol.
 
 ## Data Export (METHAP)
 
@@ -132,6 +168,10 @@ patient_id,visit,tg_mg_dl,hdl_c_mg_dl,tg_hdl_ratio,lipid_ir_status
 *Source: , *
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
+## Core Principle
+
+The **TG/HDL ratio** is a simple, powerful proxy for insulin resistance and LDL particle size. It correlates strongly with HOMA-IR and predicts cardiovascular risk independent of total cholesterol.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
@@ -139,18 +179,34 @@ patient_id,visit,tg_mg_dl,hdl_c_mg_dl,tg_hdl_ratio,lipid_ir_status
 
 
 
+## Core Principle
+
+The **TG/HDL ratio** is a simple, powerful proxy for insulin resistance and LDL particle size. It correlates strongly with HOMA-IR and predicts cardiovascular risk independent of total cholesterol.
+
 ## Related
 - [[Blood_Pressure_Assessment_Hypertension_Z-001-0053]|Z-001-0053]
 
+
+## Core Principle
+
+The **TG/HDL ratio** is a simple, powerful proxy for insulin resistance and LDL particle size. It correlates strongly with HOMA-IR and predicts cardiovascular risk independent of total cholesterol.
 
 ## Related
 - [[CBC_Patterns_Interpretation_Z-000-0001]|Z-000-0001]
 
 
+## Core Principle
+
+The **TG/HDL ratio** is a simple, powerful proxy for insulin resistance and LDL particle size. It correlates strongly with HOMA-IR and predicts cardiovascular risk independent of total cholesterol.
+
 ## Related
 - [[Liver_Enzyme_Pattern_Recognition_Z-008-0001]|Z-008-0001]
 
 ---
+
+## Core Principle
+
+The **TG/HDL ratio** is a simple, powerful proxy for insulin resistance and LDL particle size. It correlates strongly with HOMA-IR and predicts cardiovascular risk independent of total cholesterol.
 
 ## Connection to Vault
 

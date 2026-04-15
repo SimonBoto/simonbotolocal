@@ -19,6 +19,10 @@ Ethical obligations to participants continue throughout the study and beyond. Pr
 
 **Core principle:** Enrollment does not end ethical obligations. Participants retain rights to dignity, privacy, and protection throughout their participation.
 
+## Core Principle
+
+Ethical obligations to participants continue throughout the study and beyond. Privacy must be protected, confidentiality maintained, and well-being monitored continuously.
+
 ## Ongoing Obligations
 
 | Obligation | Implementation |
@@ -31,6 +35,10 @@ Ethical obligations to participants continue throughout the study and beyond. Pr
 | **New information** | Share emerging risks or findings |
 | **Study completion** | Results sharing, transition to care |
 
+## Core Principle
+
+Ethical obligations to participants continue throughout the study and beyond. Privacy must be protected, confidentiality maintained, and well-being monitored continuously.
+
 ## Data Protection Measures
 
 | Level | Measure |
@@ -42,6 +50,10 @@ Ethical obligations to participants continue throughout the study and beyond. Pr
 | **Retention** | Defined period, secure destruction |
 | **Sharing** | Aggregated only, no identifiers |
 
+## Core Principle
+
+Ethical obligations to participants continue throughout the study and beyond. Privacy must be protected, confidentiality maintained, and well-being monitored continuously.
+
 ## Post-Study Responsibilities
 
 - Results dissemination to participants (if desired)
@@ -49,6 +61,10 @@ Ethical obligations to participants continue throughout the study and beyond. Pr
 - Long-term safety follow-up (if indicated)
 - Data archiving per regulatory requirements
 - Publication of findings (positive and negative)
+
+## Core Principle
+
+Ethical obligations to participants continue throughout the study and beyond. Privacy must be protected, confidentiality maintained, and well-being monitored continuously.
 
 ## Application to METHAP
 
@@ -59,6 +75,10 @@ METHAP ongoing protections:
 - **Withdrawal:** Participants can exit anytime
 - **Results:** Option to receive individual  results
 - **Follow-up:** Referral for abnormal findings
+
+## Core Principle
+
+Ethical obligations to participants continue throughout the study and beyond. Privacy must be protected, confidentiality maintained, and well-being monitored continuously.
 
 ## Links
 
@@ -71,11 +91,19 @@ METHAP ongoing protections:
 *UID: Z-002-0607 | Domain: 002 | Created: 2026-03-27*
 
 
+## Core Principle
+
+Ethical obligations to participants continue throughout the study and beyond. Privacy must be protected, confidentiality maintained, and well-being monitored continuously.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Ethical obligations to participants continue throughout the study and beyond. Privacy must be protected, confidentiality maintained, and well-being monitored continuously.
 
 ## Connection to Vault
 

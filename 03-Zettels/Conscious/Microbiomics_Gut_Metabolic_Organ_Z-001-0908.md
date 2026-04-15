@@ -17,6 +17,10 @@ updated: 2026-03-05
 
 Microbiomics studies the microbiome — the complete set of microbial genes and molecules produced by the microorganisms inhabiting the human body. The gut microbiome functions as a **metabolic organ** interacting with host physiology.
 
+## Core Principle
+
+Microbiomics studies the microbiome — the complete set of microbial genes and molecules produced by the microorganisms inhabiting the human body. The gut microbiome functions as a **metabolic organ** interacting with host physiology.
+
 ## Microbiome Composition
 
 **Locations:** Oral cavity, skin, gastrointestinal tract (primary)
@@ -25,6 +29,10 @@ Microbiomics studies the microbiome — the complete set of microbial genes and 
 - Symbiotic (beneficial) bacteria
 - Commensal bacteria
 - Potential pathogens (controlled by healthy microbiome)
+
+## Core Principle
+
+Microbiomics studies the microbiome — the complete set of microbial genes and molecules produced by the microorganisms inhabiting the human body. The gut microbiome functions as a **metabolic organ** interacting with host physiology.
 
 ## Influencing Factors
 
@@ -35,6 +43,10 @@ Microbiomics studies the microbiome — the complete set of microbial genes and 
 | **Diet** | Primary modulator — prebiotics, fiber, fermented foods |
 | **Disease** | Dysbiosis (microbial imbalance) |
 
+## Core Principle
+
+Microbiomics studies the microbiome — the complete set of microbial genes and molecules produced by the microorganisms inhabiting the human body. The gut microbiome functions as a **metabolic organ** interacting with host physiology.
+
 ## Physiological Functions
 
 The microbiome maintains homeostasis through:
@@ -43,6 +55,10 @@ The microbiome maintains homeostasis through:
 2. **Immune system modulation** — Training and balancing immune responses
 3. **Nutrient production** — SCFA (short-chain fatty acids) like **butyrate**
 4. **Barrier protection** — Preventing pathogen colonization
+
+## Core Principle
+
+Microbiomics studies the microbiome — the complete set of microbial genes and molecules produced by the microorganisms inhabiting the human body. The gut microbiome functions as a **metabolic organ** interacting with host physiology.
 
 ## Dysbiosis and Disease
 
@@ -54,6 +70,10 @@ The microbiome maintains homeostasis through:
 - Autism spectrum disorders
 - Autoimmune conditions
 
+## Core Principle
+
+Microbiomics studies the microbiome — the complete set of microbial genes and molecules produced by the microorganisms inhabiting the human body. The gut microbiome functions as a **metabolic organ** interacting with host physiology.
+
 ## Therapeutic Potential
 
 | Intervention | Mechanism |
@@ -62,6 +82,10 @@ The microbiome maintains homeostasis through:
 | **Probiotic supplements** | Introduce beneficial strains |
 | **Pharmaceuticals** | Target specific microbial pathways |
 | **Fecal microbiota transplantation (FMT)** | Restore healthy microbiome |
+
+## Core Principle
+
+Microbiomics studies the microbiome — the complete set of microbial genes and molecules produced by the microorganisms inhabiting the human body. The gut microbiome functions as a **metabolic organ** interacting with host physiology.
 
 ## Gut-Metabolome Axis
 
@@ -77,6 +101,10 @@ The microbiome maintains homeostasis through:
 > - Intestinal barrier integrity
 > - Potential interaction with  signaling
 
+## Core Principle
+
+Microbiomics studies the microbiome — the complete set of microbial genes and molecules produced by the microorganisms inhabiting the human body. The gut microbiome functions as a **metabolic organ** interacting with host physiology.
+
 ## METHAP Trial Relevance
 
 **Why Microbiomics Matters for VD/IR Research:**
@@ -88,11 +116,19 @@ The microbiome maintains homeostasis through:
 
 **Potential study extension:** Pair metabolomics with microbiome profiling
 
+## Core Principle
+
+Microbiomics studies the microbiome — the complete set of microbial genes and molecules produced by the microorganisms inhabiting the human body. The gut microbiome functions as a **metabolic organ** interacting with host physiology.
+
 ## Links
 
 - **Upstream/Prerequisite:** [[Proteomics_Protein_Structure_Function_Z-001-0907]] — Bacterial proteins are targets
 - **Parallel/Related:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md] — Environmental factor (diet) shapes microbiome
 - **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Mechanism of environmental disease drivers
+
+## Core Principle
+
+Microbiomics studies the microbiome — the complete set of microbial genes and molecules produced by the microorganisms inhabiting the human body. The gut microbiome functions as a **metabolic organ** interacting with host physiology.
 
 ## Context
 
@@ -105,6 +141,10 @@ The microbiome maintains homeostasis through:
 *UID: Z-001-0908 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
 
 
+## Core Principle
+
+Microbiomics studies the microbiome — the complete set of microbial genes and molecules produced by the microorganisms inhabiting the human body. The gut microbiome functions as a **metabolic organ** interacting with host physiology.
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
@@ -112,6 +152,10 @@ The microbiome maintains homeostasis through:
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Microbiomics studies the microbiome — the complete set of microbial genes and molecules produced by the microorganisms inhabiting the human body. The gut microbiome functions as a **metabolic organ** interacting with host physiology.
 
 ## Connection to Vault
 

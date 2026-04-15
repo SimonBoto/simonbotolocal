@@ -16,6 +16,10 @@ extraction-date: 2026-03-02
 
 **Core Mechanism:** mTORC1 normally activates PGC-1α, the master regulator of  biogenesis. Sirolimus inhibits this pathway, reducing mitochondrial mass.
 
+## Core Principle
+
+**Core Mechanism:** mTORC1 normally activates PGC-1α, the master regulator of  biogenesis. Sirolimus inhibits this pathway, reducing mitochondrial mass.
+
 ## mTORC1 → PGC-1α Pathway
 
 **Normal Function:**
@@ -35,6 +39,10 @@ extraction-date: 2026-03-02
 - Neurons (action potentials, neurotransmission)
 - Skeletal muscle (contraction)
 - Pancreatic β-cells ( secretion)
+
+## Core Principle
+
+**Core Mechanism:** mTORC1 normally activates PGC-1α, the master regulator of  biogenesis. Sirolimus inhibits this pathway, reducing mitochondrial mass.
 
 ## Sirolimus Disruption
 
@@ -56,6 +64,10 @@ Sirolimus → mTORC1 inhibition
         Reduced oxidative capacity
 ```
 
+## Core Principle
+
+**Core Mechanism:** mTORC1 normally activates PGC-1α, the master regulator of  biogenesis. Sirolimus inhibits this pathway, reducing mitochondrial mass.
+
 ## Consequences
 
 **Acute (days-weeks):**
@@ -67,6 +79,10 @@ Sirolimus → mTORC1 inhibition
 - Mitochondrial depletion
 - Energy failure in high-demand cells
 - Functional impairment (fatigue, weakness)
+
+## Core Principle
+
+**Core Mechanism:** mTORC1 normally activates PGC-1α, the master regulator of  biogenesis. Sirolimus inhibits this pathway, reducing mitochondrial mass.
 
 ## Clinical Relevance
 
@@ -85,11 +101,19 @@ Sirolimus → mTORC1 inhibition
 *See also: [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]*
 
 
+## Core Principle
+
+**Core Mechanism:** mTORC1 normally activates PGC-1α, the master regulator of  biogenesis. Sirolimus inhibits this pathway, reducing mitochondrial mass.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+**Core Mechanism:** mTORC1 normally activates PGC-1α, the master regulator of  biogenesis. Sirolimus inhibits this pathway, reducing mitochondrial mass.
 
 ## Connection to Vault
 

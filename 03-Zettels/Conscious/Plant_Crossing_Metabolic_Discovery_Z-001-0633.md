@@ -17,6 +17,10 @@ extraction-date: 2026-04-15
 
 The nicotine biosynthesis discovery required **massive-scale plant crossing**: 643 inbred lines from 26 parent tobacco plants, representing one of the largest forward genetics efforts in plant metabolism.
 
+## Core Principle
+
+The nicotine biosynthesis discovery required **massive-scale plant crossing**: 643 inbred lines from 26 parent tobacco plants, representing one of the largest forward genetics efforts in plant metabolism.
+
 ## Scale
 
 | Metric | Number |
@@ -26,12 +30,20 @@ The nicotine biosynthesis discovery required **massive-scale plant crossing**: 6
 | Years of work | 2+ (just the crossing experiments) |
 | Metabolite extractions | 643 |
 
+## Core Principle
+
+The nicotine biosynthesis discovery required **massive-scale plant crossing**: 643 inbred lines from 26 parent tobacco plants, representing one of the largest forward genetics efforts in plant metabolism.
+
 ## Methodology
 
 1. **Crossing:** 26 parents → diverse F1 population
 2. **Inbreeding:** Self-pollination to create homozygous lines
 3. **Screening:** Metabolite analysis for nicotine-deficient phenotypes
 4. **Identification:** Single mutant incapable of nicotine synthesis
+
+## Core Principle
+
+The nicotine biosynthesis discovery required **massive-scale plant crossing**: 643 inbred lines from 26 parent tobacco plants, representing one of the largest forward genetics efforts in plant metabolism.
 
 ## Backcrossing Strategy
 
@@ -41,15 +53,27 @@ After finding the mutant:
 - **Genome sequenced** to identify mutation
 - **Result:** Single C→T point mutation
 
+## Core Principle
+
+The nicotine biosynthesis discovery required **massive-scale plant crossing**: 643 inbred lines from 26 parent tobacco plants, representing one of the largest forward genetics efforts in plant metabolism.
+
 ## Why This Scale?
 
 Nicotine deficiency is rare — most mutations are lethal or have subtle effects. Large population needed to find viable metabolic knockout.
+
+## Core Principle
+
+The nicotine biosynthesis discovery required **massive-scale plant crossing**: 643 inbred lines from 26 parent tobacco plants, representing one of the largest forward genetics efforts in plant metabolism.
 
 ## Lessons for Metabolomics
 
 - **Forward genetics** still powerful for pathway discovery
 - **Scale matters** — rare phenotypes need large populations
 - **Persistence pays** — 2+ years for single mutation identification
+
+## Core Principle
+
+The nicotine biosynthesis discovery required **massive-scale plant crossing**: 643 inbred lines from 26 parent tobacco plants, representing one of the largest forward genetics efforts in plant metabolism.
 
 ## Source
 [[LitNote_McCarty_Nicotine_Biosynthesis_2026_L-001-0606]] — McCarty (2026)

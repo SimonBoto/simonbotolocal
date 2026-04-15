@@ -31,19 +31,35 @@ Insulin is a 51-amino acid peptide hormone secreted by pancreatic β-cells in re
 
 ** relevance:** C-peptide levels measure endogenous insulin secretion.
 
+## Core Principle
+
+Insulin is a 51-amino acid peptide hormone secreted by pancreatic β-cells in response to elevated blood glucose.
+
 ## Links
 
 - **Downstream:** [[Insulin_Receptor_Structure_Z-001-0001]] — Receptor binding
+
+## Core Principle
+
+Insulin is a 51-amino acid peptide hormone secreted by pancreatic β-cells in response to elevated blood glucose.
 
 ## Context
 
 **Also in:** 
 
 
+## Core Principle
+
+Insulin is a 51-amino acid peptide hormone secreted by pancreatic β-cells in response to elevated blood glucose.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Insulin is a 51-amino acid peptide hormone secreted by pancreatic β-cells in response to elevated blood glucose.
 
 ## Connection to Vault
 

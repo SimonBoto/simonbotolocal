@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 When osteoclastic resorption outpaces osteoblastic formation (or formation is inadequate), net bone loss occurs. This manifests as osteopenia or osteoporosis. The imbalance is driven by hormonal changes, , or disuse.
 
+## Core Principle
+
+When osteoclastic resorption outpaces osteoblastic formation (or formation is inadequate), net bone loss occurs. This manifests as osteopenia or osteoporosis. The imbalance is driven by hormonal changes, , or disuse.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,10 +34,18 @@ When osteoclastic resorption outpaces osteoblastic formation (or formation is in
 *UID: Z-001-0084 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+When osteoclastic resorption outpaces osteoblastic formation (or formation is inadequate), net bone loss occurs. This manifests as osteopenia or osteoporosis. The imbalance is driven by hormonal changes, , or disuse.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+When osteoclastic resorption outpaces osteoblastic formation (or formation is inadequate), net bone loss occurs. This manifests as osteopenia or osteoporosis. The imbalance is driven by hormonal changes, , or disuse.
 
 ## Connection to Vault
 

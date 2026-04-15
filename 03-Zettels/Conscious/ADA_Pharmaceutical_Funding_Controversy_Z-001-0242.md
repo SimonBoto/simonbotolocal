@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > The American  Association receives substantial funding from pharmaceutical companies, including over $53.6 million from  manufacturers, raising concerns about potential conflicts of interest and influence on diabetes care guidelines.
 
+## Core Principle
+
+> The American  Association receives substantial funding from pharmaceutical companies, including over $53.6 million from  manufacturers, raising concerns about potential conflicts of interest and influence on diabetes care guidelines.
+
 ## Major Pharmaceutical Donors
 
 **Insulin Manufacturers (Primary Concern):**
@@ -31,6 +35,10 @@ extraction-date: 2026-03-01
 - Pfizer
 - BD (injection devices)
 
+## Core Principle
+
+> The American  Association receives substantial funding from pharmaceutical companies, including over $53.6 million from  manufacturers, raising concerns about potential conflicts of interest and influence on diabetes care guidelines.
+
 ## Pathway to Stop Diabetes Program
 
 **Funding:**
@@ -44,6 +52,10 @@ extraction-date: 2026-03-01
 - Innovative research projects
 - Translational and clinical science
 - Technology and cure-focused research
+
+## Core Principle
+
+> The American  Association receives substantial funding from pharmaceutical companies, including over $53.6 million from  manufacturers, raising concerns about potential conflicts of interest and influence on diabetes care guidelines.
 
 ## Conflict of Interest Concerns
 
@@ -64,6 +76,10 @@ extraction-date: 2026-03-01
 - Disclosure of relationships
 - Research independence maintained
 
+## Core Principle
+
+> The American  Association receives substantial funding from pharmaceutical companies, including over $53.6 million from  manufacturers, raising concerns about potential conflicts of interest and influence on diabetes care guidelines.
+
 ## Alternative Perspectives
 
 **Industry View:**
@@ -77,6 +93,10 @@ extraction-date: 2026-03-01
 - Financial dependence problematic
 - Guidelines should be independent
 - Public funding preferable
+
+## Core Principle
+
+> The American  Association receives substantial funding from pharmaceutical companies, including over $53.6 million from  manufacturers, raising concerns about potential conflicts of interest and influence on diabetes care guidelines.
 
 ## Implications for Patients
 
@@ -96,15 +116,27 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_ADA_History_L-001-0209]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> The American  Association receives substantial funding from pharmaceutical companies, including over $53.6 million from  manufacturers, raising concerns about potential conflicts of interest and influence on diabetes care guidelines.
+
 ## Related
 - [[ADA_Founding_Mission_1940_Z-001-0241]] — Historical context
 - [[ADA_Guideline_Controversies_Evolution_Z-001-0243]] — Guideline conflicts
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]] — Current programs
 
+## Core Principle
+
+> The American  Association receives substantial funding from pharmaceutical companies, including over $53.6 million from  manufacturers, raising concerns about potential conflicts of interest and influence on diabetes care guidelines.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+> The American  Association receives substantial funding from pharmaceutical companies, including over $53.6 million from  manufacturers, raising concerns about potential conflicts of interest and influence on diabetes care guidelines.
 
 ## Connection to Vault
 

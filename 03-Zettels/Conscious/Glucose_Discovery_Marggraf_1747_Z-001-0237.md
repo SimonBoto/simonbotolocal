@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > In 1747, German chemist Andreas Marggraf isolated glucose from raisins, becoming the first to identify this simple sugar as a distinct chemical entity, though its physiological significance would not be understood for over a century.
 
+## Core Principle
+
+> In 1747, German chemist Andreas Marggraf isolated glucose from raisins, becoming the first to identify this simple sugar as a distinct chemical entity, though its physiological significance would not be understood for over a century.
+
 ## Andreas Marggraf (1709-1782)
 
 **Background:**
@@ -29,6 +33,10 @@ extraction-date: 2026-03-01
 - Product: White crystalline substance
 - Identification: Sweet-tasting, similar to honey sugar
 
+## Core Principle
+
+> In 1747, German chemist Andreas Marggraf isolated glucose from raisins, becoming the first to identify this simple sugar as a distinct chemical entity, though its physiological significance would not be understood for over a century.
+
 ## Scientific Context
 
 **Pre-Discovery Understanding:**
@@ -42,6 +50,10 @@ extraction-date: 2026-03-01
 - Showed chemical similarity between fruit sugar and honey
 - Established existence of glucose as distinct entity
 - Foundation for carbohydrate chemistry
+
+## Core Principle
+
+> In 1747, German chemist Andreas Marggraf isolated glucose from raisins, becoming the first to identify this simple sugar as a distinct chemical entity, though its physiological significance would not be understood for over a century.
 
 ## Limitations of the Era
 
@@ -58,6 +70,10 @@ extraction-date: 2026-03-01
 - 1850s: Bernard's glycogen discovery
 - 1902: Fischer's stereochemistry
 - 1921:  connection
+
+## Core Principle
+
+> In 1747, German chemist Andreas Marggraf isolated glucose from raisins, becoming the first to identify this simple sugar as a distinct chemical entity, though its physiological significance would not be understood for over a century.
 
 ## Significance
 
@@ -76,11 +92,19 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Glucose_History_L-001-0208]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> In 1747, German chemist Andreas Marggraf isolated glucose from raisins, becoming the first to identify this simple sugar as a distinct chemical entity, though its physiological significance would not be understood for over a century.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> In 1747, German chemist Andreas Marggraf isolated glucose from raisins, becoming the first to identify this simple sugar as a distinct chemical entity, though its physiological significance would not be understood for over a century.
 
 ## Connection to Vault
 

@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Purpose:** Ground truth. Zettels that have passed review and are now immutable. **Never modify — only link to.**
+
 ## 📋 Status
 
 | Metric | Value |
@@ -27,6 +31,10 @@ extraction-date: 2026-04-15
 | Awaiting first promotion | (from Conscious/) |
 
 ---
+
+## Core Principle
+
+**Purpose:** Ground truth. Zettels that have passed review and are now immutable. **Never modify — only link to.**
 
 ## ⚠️ Immutable Rule
 
@@ -39,11 +47,19 @@ If you find an error:
 
 ---
 
+## Core Principle
+
+**Purpose:** Ground truth. Zettels that have passed review and are now immutable. **Never modify — only link to.**
+
 ## 📊 Current Zettels
 
 {{query: list from "03-Zettels/Subconscious"}}
 
 ---
+
+## Core Principle
+
+**Purpose:** Ground truth. Zettels that have passed review and are now immutable. **Never modify — only link to.**
 
 ## 🔗 Navigation
 
@@ -55,6 +71,10 @@ If you find an error:
 *Subconscious zettels are your accumulated wisdom. Treat them with respect.*
 
 ---
+
+## Core Principle
+
+**Purpose:** Ground truth. Zettels that have passed review and are now immutable. **Never modify — only link to.**
 
 ## Connection to Vault
 

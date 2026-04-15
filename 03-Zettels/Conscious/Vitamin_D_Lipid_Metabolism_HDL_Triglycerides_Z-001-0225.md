@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Vitamin D modulates lipid metabolism through hepatic VDR signaling, PTH suppression, and potential effects on lipoprotein lipase, influencing HDL cholesterol, triglycerides, and overall cardiovascular risk.
 
+## Core Principle
+
+> Vitamin D modulates lipid metabolism through hepatic VDR signaling, PTH suppression, and potential effects on lipoprotein lipase, influencing HDL cholesterol, triglycerides, and overall cardiovascular risk.
+
 ## Mechanisms of Lipid Modulation
 
 ### 1. Hepatic VDR Signaling
@@ -46,6 +50,10 @@ extraction-date: 2026-03-01
 - LPL clears triglycerides from circulation
 - Improves triglyceride-rich lipoprotein metabolism
 
+## Core Principle
+
+> Vitamin D modulates lipid metabolism through hepatic VDR signaling, PTH suppression, and potential effects on lipoprotein lipase, influencing HDL cholesterol, triglycerides, and overall cardiovascular risk.
+
 ## Clinical Effects on Lipid Profiles
 
 ### HDL Cholesterol
@@ -72,6 +80,10 @@ extraction-date: 2026-03-01
 - May reduce small dense LDL (more atherogenic)
 - Total LDL mass may not change, but particle composition may improve
 
+## Core Principle
+
+> Vitamin D modulates lipid metabolism through hepatic VDR signaling, PTH suppression, and potential effects on lipoprotein lipase, influencing HDL cholesterol, triglycerides, and overall cardiovascular risk.
+
 ## Blood Pressure Effects
 
 ### Renin-Angiotensin Suppression
@@ -89,6 +101,10 @@ extraction-date: 2026-03-01
 - **Endothelial function:** Improves NO bioavailability
 - **Vascular compliance:** Reduces arterial stiffness
 - **Anti-inflammatory:** Reduces vascular inflammation
+
+## Core Principle
+
+> Vitamin D modulates lipid metabolism through hepatic VDR signaling, PTH suppression, and potential effects on lipoprotein lipase, influencing HDL cholesterol, triglycerides, and overall cardiovascular risk.
 
 ## Meta-Analysis Evidence
 
@@ -109,6 +125,10 @@ extraction-date: 2026-03-01
 - Effect sizes modest
 - Heterogeneous study designs
 - Basine status matters (deficient patients benefit more)
+
+## Core Principle
+
+> Vitamin D modulates lipid metabolism through hepatic VDR signaling, PTH suppression, and potential effects on lipoprotein lipase, influencing HDL cholesterol, triglycerides, and overall cardiovascular risk.
 
 ## Metabolic Syndrome Context
 
@@ -132,6 +152,10 @@ extraction-date: 2026-03-01
 | **Niacin** | +15-35% | -20-30% |
 
 **Role:** Adjunctive, not replacement for standard therapy
+
+## Core Principle
+
+> Vitamin D modulates lipid metabolism through hepatic VDR signaling, PTH suppression, and potential effects on lipoprotein lipase, influencing HDL cholesterol, triglycerides, and overall cardiovascular risk.
 
 ## METHAP Implications
 
@@ -157,6 +181,10 @@ extraction-date: 2026-03-01
 *Related: [[Magnesium_Lipid_Metabolism_Dyslipidemia_Z-001-0217]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Vitamin D modulates lipid metabolism through hepatic VDR signaling, PTH suppression, and potential effects on lipoprotein lipase, influencing HDL cholesterol, triglycerides, and overall cardiovascular risk.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[CRP_[B-002-0001]|Biomarker Family]
@@ -168,6 +196,10 @@ extraction-date: 2026-03-01
 - [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> Vitamin D modulates lipid metabolism through hepatic VDR signaling, PTH suppression, and potential effects on lipoprotein lipase, influencing HDL cholesterol, triglycerides, and overall cardiovascular risk.
 
 ## Connection to Vault
 

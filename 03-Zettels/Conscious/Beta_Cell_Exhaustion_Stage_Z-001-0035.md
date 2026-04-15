@@ -25,6 +25,10 @@ Chronic hyperemia leads to beta-cell burnout through amylin deposition, oxidativ
 
 **Clinical significance:** This is the "prediabetes" stage — still reversible with intensive intervention but requiring more aggressive approaches than Stage 1.
 
+## Core Principle
+
+Chronic hyperemia leads to beta-cell burnout through amylin deposition, oxidative stress, ER stress, and eventual apoptosis. Beta-cells can no longer compensate for .
+
 ## Key Details
 
 | Parameter | Range | Category |
@@ -34,11 +38,19 @@ Chronic hyperemia leads to beta-cell burnout through amylin deposition, oxidativ
 | HbA1c | 5.7-6.4% | Prediabetes |
 | Fasting insulin | Declining | Decompensation begins |
 
+## Core Principle
+
+Chronic hyperemia leads to beta-cell burnout through amylin deposition, oxidative stress, ER stress, and eventual apoptosis. Beta-cells can no longer compensate for .
+
 ## Links
 
 - **Upstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — Compensatory stage precedes this
 - **Parallel:** [[HOMA_IR_Late_Marker_Z-001-0043.md] — HOMA-IR becomes unreliable here
 - **Downstream:** [[Overt_Diabetes_Stage_Z-001-0036.md] — Progresses to overt diabetes
+
+## Core Principle
+
+Chronic hyperemia leads to beta-cell burnout through amylin deposition, oxidative stress, ER stress, and eventual apoptosis. Beta-cells can no longer compensate for .
 
 ## Context
 
@@ -51,10 +63,18 @@ Chronic hyperemia leads to beta-cell burnout through amylin deposition, oxidativ
 *UID: Z-001-0035 | Domain: 001 | Created: 2026-02-24*
 
 
+## Core Principle
+
+Chronic hyperemia leads to beta-cell burnout through amylin deposition, oxidative stress, ER stress, and eventual apoptosis. Beta-cells can no longer compensate for .
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Chronic hyperemia leads to beta-cell burnout through amylin deposition, oxidative stress, ER stress, and eventual apoptosis. Beta-cells can no longer compensate for .
 
 ## Connection to Vault
 

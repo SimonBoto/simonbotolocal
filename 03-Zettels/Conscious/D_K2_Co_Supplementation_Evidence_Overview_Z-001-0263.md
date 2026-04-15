@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Despite limited high-quality RCTs, existing studies on  and K2 co-supplementation consistently show metabolic and cardiovascular benefits exceeding those of either nutrient alone, establishing proof-of-concept for synergistic therapeutic potential.
 
+## Core Principle
+
+> Despite limited high-quality RCTs, existing studies on  and K2 co-supplementation consistently show metabolic and cardiovascular benefits exceeding those of either nutrient alone, establishing proof-of-concept for synergistic therapeutic potential.
+
 ## Current Evidence Landscape
 
 **Quantity:**
@@ -35,6 +39,10 @@ extraction-date: 2026-03-01
 - Safety profile: Favorable
 - Effect sizes: Modest to moderate
 
+## Core Principle
+
+> Despite limited high-quality RCTs, existing studies on  and K2 co-supplementation consistently show metabolic and cardiovascular benefits exceeding those of either nutrient alone, establishing proof-of-concept for synergistic therapeutic potential.
+
 ## Why Evidence Is Limited
 
 **Historical Factors:**
@@ -52,6 +60,10 @@ extraction-date: 2026-03-01
 - Academic research prioritized
 - METHAP addresses this gap
 
+## Core Principle
+
+> Despite limited high-quality RCTs, existing studies on  and K2 co-supplementation consistently show metabolic and cardiovascular benefits exceeding those of either nutrient alone, establishing proof-of-concept for synergistic therapeutic potential.
+
 ## Pattern of Evidence
 
 Despite limitations, consistent findings:
@@ -67,6 +79,10 @@ Despite limitations, consistent findings:
 - Co-supplementation consistently superior
 - Suggests true synergy
 - Justifies combined protocols
+
+## Core Principle
+
+> Despite limited high-quality RCTs, existing studies on  and K2 co-supplementation consistently show metabolic and cardiovascular benefits exceeding those of either nutrient alone, establishing proof-of-concept for synergistic therapeutic potential.
 
 ## METHAP Position
 
@@ -87,19 +103,35 @@ Despite limitations, consistent findings:
 *Source: [[LitNote_D_K2_Co_Supplementation_Evidence_L-001-0214]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Despite limited high-quality RCTs, existing studies on  and K2 co-supplementation consistently show metabolic and cardiovascular benefits exceeding those of either nutrient alone, establishing proof-of-concept for synergistic therapeutic potential.
+
 ## Related
 - [[Cholecalciferol_vs_Calcitriol_Safety_Profile_Z-001-0066]|Z-001-0066]
 
 
+## Core Principle
+
+> Despite limited high-quality RCTs, existing studies on  and K2 co-supplementation consistently show metabolic and cardiovascular benefits exceeding those of either nutrient alone, establishing proof-of-concept for synergistic therapeutic potential.
+
 ## Related
 - [[Vascular_Calcification_Silent_Killer_Z-001-0268]|Z-001-0268]
 
+
+## Core Principle
+
+> Despite limited high-quality RCTs, existing studies on  and K2 co-supplementation consistently show metabolic and cardiovascular benefits exceeding those of either nutrient alone, establishing proof-of-concept for synergistic therapeutic potential.
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+> Despite limited high-quality RCTs, existing studies on  and K2 co-supplementation consistently show metabolic and cardiovascular benefits exceeding those of either nutrient alone, establishing proof-of-concept for synergistic therapeutic potential.
 
 ## Connection to Vault
 

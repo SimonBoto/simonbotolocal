@@ -40,10 +40,18 @@ Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid inte
 - Mitochondrial DNA mutations cause IR
 - Exercise improves mitochondrial function and insulin sensitivity
 
+## Core Principle
+
+Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid intermediates, contributing to .
+
 ## Links
 
 - **Mechanism:** [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013]] — Lipid intermediate accumulation
 - **Parallel:** [[ER_Stress_Induced_IR_Z-001-0014]] — Cellular stress convergence
+
+## Core Principle
+
+Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid intermediates, contributing to .
 
 ## Context
 
@@ -52,11 +60,19 @@ Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid inte
 ** connection:** Elevated acylcarnitines mark incomplete oxidation
 
 
+## Core Principle
+
+Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid intermediates, contributing to .
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Mitochondrial dysfunction increases reactive oxygen species (ROS) and lipid intermediates, contributing to .
 
 ## Connection to Vault
 

@@ -28,6 +28,10 @@ Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impai
 - Riboflavin/B2 (FAD cofactor for acyl-CoA dehydrogenases)
 - General mitochondrial support
 
+## Core Principle
+
+Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impaired beta-oxidation of fatty acids. Elevated levels signal mitochondrial dysfunction and lipotoxicity before glucose abnormalities appear.
+
 ## Key Details
 
 | Property | Value |
@@ -37,17 +41,29 @@ Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impai
 | Actionability | High (responds to intervention) |
 | Biology | Metabolic (mitochondrial) |
 
+## Core Principle
+
+Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impaired beta-oxidation of fatty acids. Elevated levels signal mitochondrial dysfunction and lipotoxicity before glucose abnormalities appear.
+
 ## Links
 
 - **Upstream:** [[Mitochondrial_Dysfunction_IR_Z-001-0030.md] — Mitochondrial dysfunction produces this
 - **Parallel:** [[BCAAs_IR_Risk_Z-001-0042.md] — BCAAs as complementary marker
 - **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045.md] — Included in METHAP panel
 
+## Core Principle
+
+Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impaired beta-oxidation of fatty acids. Elevated levels signal mitochondrial dysfunction and lipotoxicity before glucose abnormalities appear.
+
 ## Context
 
 **Also relevant to:** , 
 
 **Emerges from:**  Taxonomy synthesis document
+
+## Core Principle
+
+Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impaired beta-oxidation of fatty acids. Elevated levels signal mitochondrial dysfunction and lipotoxicity before glucose abnormalities appear.
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -61,6 +77,10 @@ Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impai
 *UID: Z-001-0041 | Domain: 001 | Created: 2026-02-24*
 
 ---
+
+## Core Principle
+
+Adipic acid (hexanedioic acid) is a urinary organic acid marker indicating impaired beta-oxidation of fatty acids. Elevated levels signal mitochondrial dysfunction and lipotoxicity before glucose abnormalities appear.
 
 ## Connection to Vault
 

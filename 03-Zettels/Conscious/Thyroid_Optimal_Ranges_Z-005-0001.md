@@ -24,6 +24,10 @@ Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfun
 
 ---
 
+## Core Principle
+
+Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfunction. **Optimal metabolic function requires tighter targets** — TSH 0.5-2.5, with fT3 and fT4 in upper quartiles.
+
 ## 🎯 Standard vs Optimal Ranges
 
 | Marker | Standard Lab | Optimal Metabolic | Notes |
@@ -34,6 +38,10 @@ Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfun
 | **fT3/fT4 ratio** | — | **>2.0** | Conversion efficiency |
 
 ---
+
+## Core Principle
+
+Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfunction. **Optimal metabolic function requires tighter targets** — TSH 0.5-2.5, with fT3 and fT4 in upper quartiles.
 
 ## 🔗 Connected Systems
 
@@ -50,6 +58,10 @@ Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfun
 - Hypothyroid → elevated homocysteine
 
 ---
+
+## Core Principle
+
+Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfunction. **Optimal metabolic function requires tighter targets** — TSH 0.5-2.5, with fT3 and fT4 in upper quartiles.
 
 ## 🩺 Clinical Patterns
 
@@ -85,6 +97,10 @@ Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfun
 
 ---
 
+## Core Principle
+
+Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfunction. **Optimal metabolic function requires tighter targets** — TSH 0.5-2.5, with fT3 and fT4 in upper quartiles.
+
 ## 💊 Intervention Thresholds
 
 ### Subclinical Hypothyroidism (TSH 2.5-4.0)
@@ -103,6 +119,10 @@ Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfun
 
 ---
 
+## Core Principle
+
+Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfunction. **Optimal metabolic function requires tighter targets** — TSH 0.5-2.5, with fT3 and fT4 in upper quartiles.
+
 ## 🔬 PhD-METHAP Relevance
 
 **Secondary marker:**
@@ -116,6 +136,10 @@ patient_id,visit,tsh_miu_l,ft3_pg_ml,ft4_ng_dl,thyroid_status
 
 ---
 
+## Core Principle
+
+Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfunction. **Optimal metabolic function requires tighter targets** — TSH 0.5-2.5, with fT3 and fT4 in upper quartiles.
+
 ## 💡 Clinical Pearl
 
 > "TSH is a pituitary hormone, not a thyroid hormone. It's an indirect marker. A patient can have 'normal' TSH 3.0 but low fT3 and feel terrible. Always check fT3 and fT4."
@@ -127,6 +151,10 @@ patient_id,visit,tsh_miu_l,ft3_pg_ml,ft4_ng_dl,thyroid_status
 *Source: , *
 *Created: 2026-02-26 | Domain: 005 | Status: Conscious*
 
+## Core Principle
+
+Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfunction. **Optimal metabolic function requires tighter targets** — TSH 0.5-2.5, with fT3 and fT4 in upper quartiles.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
@@ -137,6 +165,10 @@ patient_id,visit,tsh_miu_l,ft3_pg_ml,ft4_ng_dl,thyroid_status
 
 
 ---
+
+## Core Principle
+
+Standard thyroid ranges are wide (TSH 0.4-4.0 mIU/L) and miss subclinical dysfunction. **Optimal metabolic function requires tighter targets** — TSH 0.5-2.5, with fT3 and fT4 in upper quartiles.
 
 ## Connection to Vault
 

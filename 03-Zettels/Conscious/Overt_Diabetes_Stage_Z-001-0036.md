@@ -29,6 +29,10 @@ Beta-cell mass becomes insufficient to maintain glycemic control, resulting in a
 - Hepatic: NASH progression
 -  risk elevation
 
+## Core Principle
+
+Beta-cell mass becomes insufficient to maintain glycemic control, resulting in absolute  deficiency relative to the degree of . This is the end-stage of untreated or poorly managed insulin resistance.
+
 ## Key Details
 
 | Marker | Threshold | Notes |
@@ -38,11 +42,19 @@ Beta-cell mass becomes insufficient to maintain glycemic control, resulting in a
 | Fasting insulin | Low/normal | Beta-cell depletion |
 | C-peptide | Low | Endogenous insulin production |
 
+## Core Principle
+
+Beta-cell mass becomes insufficient to maintain glycemic control, resulting in absolute  deficiency relative to the degree of . This is the end-stage of untreated or poorly managed insulin resistance.
+
 ## Links
 
 - **Upstream:** [[Beta_Cell_Exhaustion_Stage_Z-001-0035.md] — Beta-cell exhaustion precedes this
 - **Parallel:** [[HOMA_IR_Late_Marker_Z-001-0043.md] — HbA1c finally becomes abnormal (late marker)
 - **Downstream:**  — Complications management
+
+## Core Principle
+
+Beta-cell mass becomes insufficient to maintain glycemic control, resulting in absolute  deficiency relative to the degree of . This is the end-stage of untreated or poorly managed insulin resistance.
 
 ## Context
 
@@ -55,11 +67,19 @@ Beta-cell mass becomes insufficient to maintain glycemic control, resulting in a
 *UID: Z-001-0036 | Domain: 001 | Created: 2026-02-24*
 
 
+## Core Principle
+
+Beta-cell mass becomes insufficient to maintain glycemic control, resulting in absolute  deficiency relative to the degree of . This is the end-stage of untreated or poorly managed insulin resistance.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+Beta-cell mass becomes insufficient to maintain glycemic control, resulting in absolute  deficiency relative to the degree of . This is the end-stage of untreated or poorly managed insulin resistance.
 
 ## Connection to Vault
 

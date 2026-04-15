@@ -21,6 +21,10 @@ status: conscious
 
 > **Definition:** The PRISMA flow diagram is a standardized visual representation of the study selection process in a systematic review, documenting the number of records identified, screened, assessed for eligibility, and included in the review, along with reasons for exclusions.
 
+## Core Principle
+
+> **Definition:** The PRISMA flow diagram is a standardized visual representation of the study selection process in a systematic review, documenting the number of records identified, screened, assessed for eligibility, and included in the review, along with reasons for exclusions.
+
 ## Standard Structure
 
 The diagram follows a four-stage process:
@@ -30,12 +34,20 @@ The diagram follows a four-stage process:
 3. **Eligibility:** Full-text articles assessed for eligibility
 4. **Included:** Studies included in the qualitative synthesis and/or meta-analysis
 
+## Core Principle
+
+> **Definition:** The PRISMA flow diagram is a standardized visual representation of the study selection process in a systematic review, documenting the number of records identified, screened, assessed for eligibility, and included in the review, along with reasons for exclusions.
+
 ## Required Elements
 
 - **Numbers:** Clear counts at each stage of the selection process
 - **Reasons for exclusion:** Detailed reasons for full-text exclusions
 - **Duplications:** Documentation of duplicate records removed
 - **Additional sources:** Records identified from other sources (e.g., reference lists, citation tracking)
+
+## Core Principle
+
+> **Definition:** The PRISMA flow diagram is a standardized visual representation of the study selection process in a systematic review, documenting the number of records identified, screened, assessed for eligibility, and included in the review, along with reasons for exclusions.
 
 ## PRISMA 2020 Updates
 
@@ -44,6 +56,10 @@ The diagram follows a four-stage process:
 - **Screening process:** Documentation of screening methodology (e.g., single vs. dual screening)
 - **Software used:** Documentation of software used for study selection
 
+## Core Principle
+
+> **Definition:** The PRISMA flow diagram is a standardized visual representation of the study selection process in a systematic review, documenting the number of records identified, screened, assessed for eligibility, and included in the review, along with reasons for exclusions.
+
 ## Creation Process
 
 1. **Data collection:** Record numbers at each selection stage
@@ -51,6 +67,10 @@ The diagram follows a four-stage process:
 3. **Diagram generation:** Use PRISMA flow diagram generator or create manually
 4. **Verification:** Cross-check numbers and reasons with study selection records
 5. **Reporting:** Include in the final manuscript and supplementary materials
+
+## Core Principle
+
+> **Definition:** The PRISMA flow diagram is a standardized visual representation of the study selection process in a systematic review, documenting the number of records identified, screened, assessed for eligibility, and included in the review, along with reasons for exclusions.
 
 ## Best Practices
 
@@ -61,6 +81,10 @@ The diagram follows a four-stage process:
 - Update the diagram during the review process as needed
 
 ---
+
+## Core Principle
+
+> **Definition:** The PRISMA flow diagram is a standardized visual representation of the study selection process in a systematic review, documenting the number of records identified, screened, assessed for eligibility, and included in the review, along with reasons for exclusions.
 
 ## Related Concepts
 

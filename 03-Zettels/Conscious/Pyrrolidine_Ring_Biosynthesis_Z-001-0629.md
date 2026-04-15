@@ -17,6 +17,10 @@ extraction-date: 2026-04-15
 
 The pyrrolidine ring of nicotine originates from **ornithine**, a non-proteinogenic amino acid, through a multi-step pathway involving putrescine as a key intermediate.
 
+## Core Principle
+
+The pyrrolidine ring of nicotine originates from **ornithine**, a non-proteinogenic amino acid, through a multi-step pathway involving putrescine as a key intermediate.
+
 ## Pathway Steps
 
 1. **Decarboxylation:** Ornithine → Putrescine
@@ -34,13 +38,25 @@ The pyrrolidine ring of nicotine originates from **ornithine**, a non-proteinoge
    - Methylated amine attacks aldehyde electrons
    - Forms 5-membered pyrrolidine ring
 
+## Core Principle
+
+The pyrrolidine ring of nicotine originates from **ornithine**, a non-proteinogenic amino acid, through a multi-step pathway involving putrescine as a key intermediate.
+
 ## Key Enzyme
 
 **Ornithine decarboxylase** — commits ornithine to polyamine metabolism, diverting it from protein synthesis.
 
+## Core Principle
+
+The pyrrolidine ring of nicotine originates from **ornithine**, a non-proteinogenic amino acid, through a multi-step pathway involving putrescine as a key intermediate.
+
 ## Connection to Polyamine Metabolism
 
 Putrescine is a central polyamine. This pathway links nicotine biosynthesis to broader cellular polyamine regulation.
+
+## Core Principle
+
+The pyrrolidine ring of nicotine originates from **ornithine**, a non-proteinogenic amino acid, through a multi-step pathway involving putrescine as a key intermediate.
 
 ## Source
 [[LitNote_McCarty_Nicotine_Biosynthesis_2026_L-001-0606]] — McCarty (2026)

@@ -17,6 +17,10 @@ created: 2026-03-27
 
 The first international ethics code for human subjects research, established during the Nuremberg Doctors' Trial in response to Nazi medical atrocities. Introduced the absolute requirement for voluntary informed consent.
 
+## Core Principle
+
+The first international ethics code for human subjects research, established during the Nuremberg Doctors' Trial in response to Nazi medical atrocities. Introduced the absolute requirement for voluntary informed consent.
+
 ## Ten Principles
 
 | Principle | Requirement |
@@ -32,12 +36,20 @@ The first international ethics code for human subjects research, established dur
 | 9. Subject freedom to end | Can terminate participation at any time |
 | 10. Scientist termination duty | Must stop if continuation likely to result in injury/death |
 
+## Core Principle
+
+The first international ethics code for human subjects research, established during the Nuremberg Doctors' Trial in response to Nazi medical atrocities. Introduced the absolute requirement for voluntary informed consent.
+
 ## Historical Context
 
 - **Established:** August 1947
 - **Trigger:** Nazi medical experiments during WWII
 - **Significance:** First international document stating research ethics principles
 - **Limitation:** Binding only on trial defendants, not international law
+
+## Core Principle
+
+The first international ethics code for human subjects research, established during the Nuremberg Doctors' Trial in response to Nazi medical atrocities. Introduced the absolute requirement for voluntary informed consent.
 
 ## Legacy
 
@@ -47,9 +59,17 @@ The Nuremberg Code established principles later incorporated into:
 - Modern IRB regulations
 - International research ethics frameworks
 
+## Core Principle
+
+The first international ethics code for human subjects research, established during the Nuremberg Doctors' Trial in response to Nazi medical atrocities. Introduced the absolute requirement for voluntary informed consent.
+
 ## Key Innovation
 
 **Voluntary informed consent as absolute requirement** — This was the first time consent was established as mandatory rather than optional.
+
+## Core Principle
+
+The first international ethics code for human subjects research, established during the Nuremberg Doctors' Trial in response to Nazi medical atrocities. Introduced the absolute requirement for voluntary informed consent.
 
 ## Links
 
@@ -62,10 +82,18 @@ The Nuremberg Code established principles later incorporated into:
 *UID: Z-002-0608 | Domain: 002 | Created: 2026-03-27*
 
 
+## Core Principle
+
+The first international ethics code for human subjects research, established during the Nuremberg Doctors' Trial in response to Nazi medical atrocities. Introduced the absolute requirement for voluntary informed consent.
+
 ## RELATED FILES
 - 
 
 ---
+
+## Core Principle
+
+The first international ethics code for human subjects research, established during the Nuremberg Doctors' Trial in response to Nazi medical atrocities. Introduced the absolute requirement for voluntary informed consent.
 
 ## Connection to Vault
 

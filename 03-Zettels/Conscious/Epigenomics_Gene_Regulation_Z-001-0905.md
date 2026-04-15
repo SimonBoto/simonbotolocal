@@ -17,6 +17,10 @@ updated: 2026-03-05
 
 Epigenomics studies changes in gene function through epigenetic factors that modify the genome **without altering the DNA base sequence**. This is the molecular mechanism linking environment to gene expression.
 
+## Core Principle
+
+Epigenomics studies changes in gene function through epigenetic factors that modify the genome **without altering the DNA base sequence**. This is the molecular mechanism linking environment to gene expression.
+
 ## Key Epigenetic Mechanisms
 
 ### 1. DNA Methylation
@@ -29,6 +33,10 @@ Epigenomics studies changes in gene function through epigenetic factors that mod
 - **Effect:** Chromatin structure modification → altered gene accessibility
 - **Outcome:** Can activate or suppress gene expression
 
+## Core Principle
+
+Epigenomics studies changes in gene function through epigenetic factors that modify the genome **without altering the DNA base sequence**. This is the molecular mechanism linking environment to gene expression.
+
 ## Biological Significance
 
 | Function | Mechanism |
@@ -36,6 +44,10 @@ Epigenomics studies changes in gene function through epigenetic factors that mod
 | **Cellular differentiation** | Same DNA → different cell types via epigenetic marks |
 | **Tissue-specific expression** | Directing genes to specific tissues |
 | **Environmental response** | Gene expression changes in response to stimuli |
+
+## Core Principle
+
+Epigenomics studies changes in gene function through epigenetic factors that modify the genome **without altering the DNA base sequence**. This is the molecular mechanism linking environment to gene expression.
 
 ## Environmental Epigenetics
 
@@ -45,6 +57,10 @@ Epigenetic modifications respond to:
 - **Prenatal nutrition** — maternal diet effects on fetal gene expression
 
 → This explains how **environment factors modify genetic expression** without changing DNA sequence.
+
+## Core Principle
+
+Epigenomics studies changes in gene function through epigenetic factors that modify the genome **without altering the DNA base sequence**. This is the molecular mechanism linking environment to gene expression.
 
 ## Connection to 
 
@@ -57,6 +73,10 @@ Epigenetic modifications respond to:
 | Stability | Semi-stable | Dynamic |
 | **Integration** | Epigenetic changes → altered enzyme expression → metabolite changes | Metabolites reflect both genetic and epigenetic regulation |
 
+## Core Principle
+
+Epigenomics studies changes in gene function through epigenetic factors that modify the genome **without altering the DNA base sequence**. This is the molecular mechanism linking environment to gene expression.
+
 ## METHAP Relevance
 
 ** may act through epigenetic mechanisms:**
@@ -64,11 +84,19 @@ Epigenetic modifications respond to:
 - Potential epigenetic modulation of metabolic genes
 - Could explain long-term metabolic effects of VD supplementation
 
+## Core Principle
+
+Epigenomics studies changes in gene function through epigenetic factors that modify the genome **without altering the DNA base sequence**. This is the molecular mechanism linking environment to gene expression.
+
 ## Links
 
 - **Upstream/Prerequisite:** [[Genomics_Structure_Function_Genome_Z-001-0904]] — DNA as substrate
 - **Parallel/Related:** [[Transcriptomics_mRNA_Expression_Z-001-0006.md] — Output of epigenetic regulation
 - **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Mechanism of environmental impact
+
+## Core Principle
+
+Epigenomics studies changes in gene function through epigenetic factors that modify the genome **without altering the DNA base sequence**. This is the molecular mechanism linking environment to gene expression.
 
 ## Context
 
@@ -81,6 +109,10 @@ Epigenetic modifications respond to:
 *UID: Z-001-0905 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
 
 
+## Core Principle
+
+Epigenomics studies changes in gene function through epigenetic factors that modify the genome **without altering the DNA base sequence**. This is the molecular mechanism linking environment to gene expression.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -88,6 +120,10 @@ Epigenetic modifications respond to:
 - 
 
 ---
+
+## Core Principle
+
+Epigenomics studies changes in gene function through epigenetic factors that modify the genome **without altering the DNA base sequence**. This is the molecular mechanism linking environment to gene expression.
 
 ## Connection to Vault
 

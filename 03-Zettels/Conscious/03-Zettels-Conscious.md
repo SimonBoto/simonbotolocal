@@ -18,6 +18,10 @@ status: active
 
 ---
 
+## Core Principle
+
+**Purpose:** Zettels under active development. Reviewable, may contain errors, subject to change. **Promote to Subconscious after 30+ days.**
+
 ## 📋 Status
 
 | Metric | Value |
@@ -27,6 +31,10 @@ status: active
 | Recently added | (last 7 days) |
 
 ---
+
+## Core Principle
+
+**Purpose:** Zettels under active development. Reviewable, may contain errors, subject to change. **Promote to Subconscious after 30+ days.**
 
 ## 🔄 Promotion Workflow
 
@@ -48,11 +56,19 @@ All YES?
 
 ---
 
+## Core Principle
+
+**Purpose:** Zettels under active development. Reviewable, may contain errors, subject to change. **Promote to Subconscious after 30+ days.**
+
 ## 📊 Current Zettels
 
 {{query: list from "03-Zettels/Conscious"}}
 
 ---
+
+## Core Principle
+
+**Purpose:** Zettels under active development. Reviewable, may contain errors, subject to change. **Promote to Subconscious after 30+ days.**
 
 ## 🔗 Navigation
 
@@ -61,6 +77,10 @@ All YES?
 ↑ **Parent: **
 
 ---
+
+## Core Principle
+
+**Purpose:** Zettels under active development. Reviewable, may contain errors, subject to change. **Promote to Subconscious after 30+ days.**
 
 ## 🔗 Connected Zettels
 
@@ -92,10 +112,18 @@ All YES?
 *Conscious zettels grow up to become subconscious wisdom.*
 
 
+## Core Principle
+
+**Purpose:** Zettels under active development. Reviewable, may contain errors, subject to change. **Promote to Subconscious after 30+ days.**
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+**Purpose:** Zettels under active development. Reviewable, may contain errors, subject to change. **Promote to Subconscious after 30+ days.**
 
 ## Connection to Vault
 

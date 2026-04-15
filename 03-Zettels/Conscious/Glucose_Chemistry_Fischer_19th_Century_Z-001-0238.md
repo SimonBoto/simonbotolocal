@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > In the 19th century, the chemical formula of glucose (C6H12O6) was established, and by 1902 Emil Fischer's elucidation of glucose stereochemistry earned the Nobel Prize, creating the foundation for modern carbohydrate biochemistry.
 
+## Core Principle
+
+> In the 19th century, the chemical formula of glucose (C6H12O6) was established, and by 1902 Emil Fischer's elucidation of glucose stereochemistry earned the Nobel Prize, creating the foundation for modern carbohydrate biochemistry.
+
 ## 19th Century Developments
 
 **Chemical Formula (C6H12O6):**
@@ -27,6 +31,10 @@ extraction-date: 2026-03-01
 - Justus von Liebig (organic analysis)
 - Jean Baptiste Dumas (molecular formulas)
 - Multiple contributors to structure elucidation
+
+## Core Principle
+
+> In the 19th century, the chemical formula of glucose (C6H12O6) was established, and by 1902 Emil Fischer's elucidation of glucose stereochemistry earned the Nobel Prize, creating the foundation for modern carbohydrate biochemistry.
 
 ## Emil Fischer (1852-1919)
 
@@ -45,6 +53,10 @@ extraction-date: 2026-03-01
 - Horizontal lines: Substituents (toward viewer)
 - Still used in biochemistry today
 
+## Core Principle
+
+> In the 19th century, the chemical formula of glucose (C6H12O6) was established, and by 1902 Emil Fischer's elucidation of glucose stereochemistry earned the Nobel Prize, creating the foundation for modern carbohydrate biochemistry.
+
 ## Stereochemistry and D-Glucose
 
 **Chiral Centers:**
@@ -57,6 +69,10 @@ extraction-date: 2026-03-01
 - D-glucose metabolized; L-glucose not
 - Lock-and-key specificity (later Fischer's work influenced this concept)
 
+## Core Principle
+
+> In the 19th century, the chemical formula of glucose (C6H12O6) was established, and by 1902 Emil Fischer's elucidation of glucose stereochemistry earned the Nobel Prize, creating the foundation for modern carbohydrate biochemistry.
+
 ## Impact on Biochemistry
 
 **Structural Biology Foundation:**
@@ -68,6 +84,10 @@ extraction-date: 2026-03-01
 - Glycolysis pathways mapped
 - Structural basis for metabolic regulation
 - Drug design applications
+
+## Core Principle
+
+> In the 19th century, the chemical formula of glucose (C6H12O6) was established, and by 1902 Emil Fischer's elucidation of glucose stereochemistry earned the Nobel Prize, creating the foundation for modern carbohydrate biochemistry.
 
 ## Connection to Diabetes
 
@@ -86,6 +106,10 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Glucose_History_L-001-0208]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> In the 19th century, the chemical formula of glucose (C6H12O6) was established, and by 1902 Emil Fischer's elucidation of glucose stereochemistry earned the Nobel Prize, creating the foundation for modern carbohydrate biochemistry.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
@@ -94,6 +118,10 @@ extraction-date: 2026-03-01
 - [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> In the 19th century, the chemical formula of glucose (C6H12O6) was established, and by 1902 Emil Fischer's elucidation of glucose stereochemistry earned the Nobel Prize, creating the foundation for modern carbohydrate biochemistry.
 
 ## Connection to Vault
 

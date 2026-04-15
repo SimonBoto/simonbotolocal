@@ -35,10 +35,18 @@ Mutations in the  receptor gene cause extreme  syndromes, revealing the critical
 
 **Implication:** Complete loss of INSR function is incompatible with life, demonstrating insulin's essential role.
 
+## Core Principle
+
+Mutations in the  receptor gene cause extreme  syndromes, revealing the critical role of INSR in .
+
 ## Links
 
 - **Mechanism:** [[INSR_Autophosphorylation_Mechanism_Z-001-0003]] — What's broken
 - **Contrast:** [[Insulin_Receptor_Structure_Z-001-0001]] — Normal function
+
+## Core Principle
+
+Mutations in the  receptor gene cause extreme  syndromes, revealing the critical role of INSR in .
 
 ## Context
 
@@ -47,11 +55,19 @@ Mutations in the  receptor gene cause extreme  syndromes, revealing the critical
 **Severity:** Most severe insulin resistance phenotype known
 
 
+## Core Principle
+
+Mutations in the  receptor gene cause extreme  syndromes, revealing the critical role of INSR in .
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+Mutations in the  receptor gene cause extreme  syndromes, revealing the critical role of INSR in .
 
 ## Connection to Vault
 

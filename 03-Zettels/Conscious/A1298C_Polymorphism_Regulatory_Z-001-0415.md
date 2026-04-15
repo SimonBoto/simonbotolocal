@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > The A1298C MTHFR polymorphism (rs1801131) substitutes glutamate with alanine in the regulatory domain, affecting enzyme regulation rather than catalytic activity, with homozygotes (CC) having ~60% enzyme activity.
 
+## Core Principle
+
+> The A1298C MTHFR polymorphism (rs1801131) substitutes glutamate with alanine in the regulatory domain, affecting enzyme regulation rather than catalytic activity, with homozygotes (CC) having ~60% enzyme activity.
+
 ## Genetics
 
 **Substitution:**
@@ -29,6 +33,10 @@ extraction-date: 2026-03-01
 | AC (heterozygote) | ~25-30% | ~80% |
 | CC (homozygote) | ~7-12% | ~60% |
 
+## Core Principle
+
+> The A1298C MTHFR polymorphism (rs1801131) substitutes glutamate with alanine in the regulatory domain, affecting enzyme regulation rather than catalytic activity, with homozygotes (CC) having ~60% enzyme activity.
+
 ## Effects
 
 **Milder than C677T:**
@@ -40,6 +48,10 @@ extraction-date: 2026-03-01
 - One copy of each variant
 - ~50-60% enzyme activity
 - Significant  requirement increase
+
+## Core Principle
+
+> The A1298C MTHFR polymorphism (rs1801131) substitutes glutamate with alanine in the regulatory domain, affecting enzyme regulation rather than catalytic activity, with homozygotes (CC) having ~60% enzyme activity.
 
 ## 
 
@@ -58,11 +70,19 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_MTHFR_Genetics_L-001-0403]*
 
 
+## Core Principle
+
+> The A1298C MTHFR polymorphism (rs1801131) substitutes glutamate with alanine in the regulatory domain, affecting enzyme regulation rather than catalytic activity, with homozygotes (CC) having ~60% enzyme activity.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> The A1298C MTHFR polymorphism (rs1801131) substitutes glutamate with alanine in the regulatory domain, affecting enzyme regulation rather than catalytic activity, with homozygotes (CC) having ~60% enzyme activity.
 
 ## Connection to Vault
 

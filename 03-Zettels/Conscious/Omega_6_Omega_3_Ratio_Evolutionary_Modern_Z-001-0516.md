@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Human diets evolved with 1-4:1 omega-6:omega-3 ratios, but modern Western diets shifted to 15-20:1, creating pro-inflammatory metabolic environments.
 
+## Core Principle
+
+> Human diets evolved with 1-4:1 omega-6:omega-3 ratios, but modern Western diets shifted to 15-20:1, creating pro-inflammatory metabolic environments.
+
 ## Ratios Through Time
 
 | Diet | Ratio |
@@ -22,6 +26,10 @@ extraction-date: 2026-03-01
 | **Hunter-gatherer** | 1-2:1 |
 | **Traditional Mediterranean** | 4-8:1 |
 | **Modern Western** | 15-25:1 |
+
+## Core Principle
+
+> Human diets evolved with 1-4:1 omega-6:omega-3 ratios, but modern Western diets shifted to 15-20:1, creating pro-inflammatory metabolic environments.
 
 ## Sources
 
@@ -34,12 +42,20 @@ extraction-date: 2026-03-01
 - **ALA:** Flax, chia, walnuts
 - **EPA/DHA:** Fatty fish, fish oil
 
+## Core Principle
+
+> Human diets evolved with 1-4:1 omega-6:omega-3 ratios, but modern Western diets shifted to 15-20:1, creating pro-inflammatory metabolic environments.
+
 ## Metabolic Competition
 
 **Shared Enzymes:**
 - Delta-6 desaturase processes BOTH
 - High omega-6 saturates enzymes
 - Reduced omega-3 conversion
+
+## Core Principle
+
+> Human diets evolved with 1-4:1 omega-6:omega-3 ratios, but modern Western diets shifted to 15-20:1, creating pro-inflammatory metabolic environments.
 
 ## Optimal Targets
 
@@ -55,6 +71,10 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]*
 
 
+## Core Principle
+
+> Human diets evolved with 1-4:1 omega-6:omega-3 ratios, but modern Western diets shifted to 15-20:1, creating pro-inflammatory metabolic environments.
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
@@ -64,6 +84,10 @@ extraction-date: 2026-03-01
 - [[Omega_6_Cardiovascular_Controversy_Z-001-0962]|Z-001-0962]
 
 ---
+
+## Core Principle
+
+> Human diets evolved with 1-4:1 omega-6:omega-3 ratios, but modern Western diets shifted to 15-20:1, creating pro-inflammatory metabolic environments.
 
 ## Connection to Vault
 

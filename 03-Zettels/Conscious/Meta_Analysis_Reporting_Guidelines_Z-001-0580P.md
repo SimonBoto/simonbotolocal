@@ -22,6 +22,10 @@ status: conscious
 
 > **Definition:** Reporting guidelines are standardized checklists and frameworks that specify essential information to be reported in systematic reviews and meta-analyses to ensure transparency, completeness, and reproducibility of methods and results.
 
+## Core Principle
+
+> **Definition:** Reporting guidelines are standardized checklists and frameworks that specify essential information to be reported in systematic reviews and meta-analyses to ensure transparency, completeness, and reproducibility of methods and results.
+
 ## Key Guidelines
 
 - **PRISMA 2020:** Preferred Reporting Items for Systematic Reviews and Meta-Analyses (27-item checklist)
@@ -29,6 +33,10 @@ status: conscious
 - **STROBE:** Strengthening the Reporting of Observational Studies in Epidemiology
 - **Cochrane Handbook:** Methodological guidance for Cochrane reviews
 - **GRADE:** Grading of Recommendations Assessment, Development and Evaluation
+
+## Core Principle
+
+> **Definition:** Reporting guidelines are standardized checklists and frameworks that specify essential information to be reported in systematic reviews and meta-analyses to ensure transparency, completeness, and reproducibility of methods and results.
 
 ## PRISMA 2020 Key Sections
 
@@ -38,6 +46,10 @@ status: conscious
 4. **Results:** Study selection, characteristics, risk of bias, results of individual studies, synthesis results
 5. **Discussion:** Summary, limitations, conclusions, funding, registration
 
+## Core Principle
+
+> **Definition:** Reporting guidelines are standardized checklists and frameworks that specify essential information to be reported in systematic reviews and meta-analyses to ensure transparency, completeness, and reproducibility of methods and results.
+
 ## Reporting Process
 
 1. **Checklist completion:** Systematic completion of PRISMA checklist items
@@ -46,6 +58,10 @@ status: conscious
 4. **Detailed reporting:** Comprehensive documentation of all methods and results
 5. **Supplementary materials:** Additional data, search strategies, full results
 
+## Core Principle
+
+> **Definition:** Reporting guidelines are standardized checklists and frameworks that specify essential information to be reported in systematic reviews and meta-analyses to ensure transparency, completeness, and reproducibility of methods and results.
+
 ## Best Practices
 
 - Use PRISMA 2020 as default reporting standard
@@ -53,6 +69,10 @@ status: conscious
 - Use GRADE for evidence quality assessment
 - Include PRISMA checklist in supplementary materials
 - Follow journal-specific reporting requirements
+
+## Core Principle
+
+> **Definition:** Reporting guidelines are standardized checklists and frameworks that specify essential information to be reported in systematic reviews and meta-analyses to ensure transparency, completeness, and reproducibility of methods and results.
 
 ## Impact of Good Reporting
 
@@ -63,6 +83,10 @@ status: conscious
 - Supports research quality and transparency initiatives
 
 ---
+
+## Core Principle
+
+> **Definition:** Reporting guidelines are standardized checklists and frameworks that specify essential information to be reported in systematic reviews and meta-analyses to ensure transparency, completeness, and reproducibility of methods and results.
 
 ## Related Concepts
 

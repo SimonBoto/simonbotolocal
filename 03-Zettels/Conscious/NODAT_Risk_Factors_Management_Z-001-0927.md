@@ -17,6 +17,10 @@ updated: 2026-03-05
 
 **NODAT (New-Onset  After Transplantation):** Diabetes developing in previously non-diabetic transplant recipients, strongly associated with sirolimus use.
 
+## Core Principle
+
+**NODAT (New-Onset  After Transplantation):** Diabetes developing in previously non-diabetic transplant recipients, strongly associated with sirolimus use.
+
 ## Risk Stratification
 
 ### High Risk (≥3 Risk Factors)
@@ -36,6 +40,10 @@ updated: 2026-03-05
 ### Low Risk (0 Risk Factors)
 - Routine monitoring
 - Lower threshold for intervention
+
+## Core Principle
+
+**NODAT (New-Onset  After Transplantation):** Diabetes developing in previously non-diabetic transplant recipients, strongly associated with sirolimus use.
 
 ## Monitoring Protocol
 
@@ -73,6 +81,10 @@ updated: 2026-03-05
 - Symptoms: polyuria, polydipsia, weight loss
 - Ketones in urine
 
+## Core Principle
+
+**NODAT (New-Onset  After Transplantation):** Diabetes developing in previously non-diabetic transplant recipients, strongly associated with sirolimus use.
+
 ## Diagnostic Criteria (ADA)
 
 **Any ONE of the following:**
@@ -82,6 +94,10 @@ updated: 2026-03-05
 4. Random glucose ≥200 mg/dL with symptoms
 
 **Confirm on separate day (unless unequivocal hyperglycemia)**
+
+## Core Principle
+
+**NODAT (New-Onset  After Transplantation):** Diabetes developing in previously non-diabetic transplant recipients, strongly associated with sirolimus use.
 
 ## Management Algorithm
 
@@ -136,6 +152,10 @@ updated: 2026-03-05
 
 **Caution:** Risk of rejection with changes
 
+## Core Principle
+
+**NODAT (New-Onset  After Transplantation):** Diabetes developing in previously non-diabetic transplant recipients, strongly associated with sirolimus use.
+
 ## Prevention Strategies
 
 ### Pre-Transplant (High-Risk Patients)
@@ -148,6 +168,10 @@ updated: 2026-03-05
 - Therapeutic drug monitoring
 - Early lifestyle intervention
 - Metformin for pre-diabetes
+
+## Core Principle
+
+**NODAT (New-Onset  After Transplantation):** Diabetes developing in previously non-diabetic transplant recipients, strongly associated with sirolimus use.
 
 ## METHAP Integration
 
@@ -164,6 +188,10 @@ updated: 2026-03-05
 *See also: [[Sirolimus_Lipotoxicity_Adiponectin_Z-001-0926]*
 
 
+## Core Principle
+
+**NODAT (New-Onset  After Transplantation):** Diabetes developing in previously non-diabetic transplant recipients, strongly associated with sirolimus use.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
@@ -171,6 +199,10 @@ updated: 2026-03-05
 - 
 
 ---
+
+## Core Principle
+
+**NODAT (New-Onset  After Transplantation):** Diabetes developing in previously non-diabetic transplant recipients, strongly associated with sirolimus use.
 
 ## Connection to Vault
 

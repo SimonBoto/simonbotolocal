@@ -32,6 +32,10 @@ Corrected calculations using proper statistical methods (accounting for variabil
 
 **Clinical translation:** What appears "high dose" (4,000-8,000 IU) is actually physiological replacement.
 
+## Core Principle
+
+Corrected calculations using proper statistical methods (accounting for variability to cover 97.5% of population) show the RDA should be 7,000-8,000 IU/day, not the IOM's 600-800 IU. This represents a factor of 10 underestimation affecting global vitamin D status.
+
 ## Social Proof & Current Awareness
 
 **X Post Validation (Dec 9, 2025):**
@@ -44,6 +48,10 @@ Corrected calculations using proper statistical methods (accounting for variabil
 
 **Why this matters:** The same statistical error we documented in March 2026 is now viral in December 2025, validating the research and showing persistent public health impact.
 
+## Core Principle
+
+Corrected calculations using proper statistical methods (accounting for variability to cover 97.5% of population) show the RDA should be 7,000-8,000 IU/day, not the IOM's 600-800 IU. This represents a factor of 10 underestimation affecting global vitamin D status.
+
 ## Links
 
 **Parent MOC:** -
@@ -55,10 +63,18 @@ Corrected calculations using proper statistical methods (accounting for variabil
 *UID: Z-001-0059 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Corrected calculations using proper statistical methods (accounting for variability to cover 97.5% of population) show the RDA should be 7,000-8,000 IU/day, not the IOM's 600-800 IU. This represents a factor of 10 underestimation affecting global vitamin D status.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Corrected calculations using proper statistical methods (accounting for variability to cover 97.5% of population) show the RDA should be 7,000-8,000 IU/day, not the IOM's 600-800 IU. This represents a factor of 10 underestimation affecting global vitamin D status.
 
 ## Connection to Vault
 

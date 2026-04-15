@@ -18,6 +18,10 @@ extraction-date: 2026-04-15
 
 Genomics is the study of the structure, sequence, and function of the complete set of genes (genome) in an organism. The human genome contains approximately 3 billion base pairs encoding 20,000-25,000 genes.
 
+## Core Principle
+
+Genomics is the study of the structure, sequence, and function of the complete set of genes (genome) in an organism. The human genome contains approximately 3 billion base pairs encoding 20,000-25,000 genes.
+
 ## Gene Function Hierarchy
 
 ```
@@ -28,6 +32,10 @@ DNA (Gene) → Transcription → mRNA → Translation → Protein (Enzyme) → M
 |-----------|------------|----------|
 | Coding regions (exons) | ~2% | Direct protein synthesis |
 | Non-coding regions | ~98% | Regulatory and structural roles |
+
+## Core Principle
+
+Genomics is the study of the structure, sequence, and function of the complete set of genes (genome) in an organism. The human genome contains approximately 3 billion base pairs encoding 20,000-25,000 genes.
 
 ## Clinical Applications
 
@@ -43,6 +51,10 @@ Study of how DNA/RNA variations affect drug response:
 - **Applications**: Oncology, cardiovascular, transplantation
 - **Biomarkers**: Response predictors, toxicity markers
 
+## Core Principle
+
+Genomics is the study of the structure, sequence, and function of the complete set of genes (genome) in an organism. The human genome contains approximately 3 billion base pairs encoding 20,000-25,000 genes.
+
 ## Key Technologies
 
 | Technology | Purpose | Output |
@@ -51,12 +63,20 @@ Study of how DNA/RNA variations affect drug response:
 | GWAS | Disease-gene association | Risk loci identification |
 | WES | Protein-coding variant detection | Diagnostic variants |
 
+## Core Principle
+
+Genomics is the study of the structure, sequence, and function of the complete set of genes (genome) in an organism. The human genome contains approximately 3 billion base pairs encoding 20,000-25,000 genes.
+
 ## Limitations (Why  Complements Genomics)
 
 1. **Genome is static** — doesn't reflect current physiological state
 2. **Environmental factors** — not captured in DNA sequence
 3. **Polygenic diseases** — complex interactions not predictable from genes alone
 4. **Penetrance variability** — same genotype, different phenotypes
+
+## Core Principle
+
+Genomics is the study of the structure, sequence, and function of the complete set of genes (genome) in an organism. The human genome contains approximately 3 billion base pairs encoding 20,000-25,000 genes.
 
 ## METHAP Context
 
@@ -70,11 +90,19 @@ Study of how DNA/RNA variations affect drug response:
 - Environmental factor integration ( response)
 - Dynamic disease progression markers
 
+## Core Principle
+
+Genomics is the study of the structure, sequence, and function of the complete set of genes (genome) in an organism. The human genome contains approximately 3 billion base pairs encoding 20,000-25,000 genes.
+
 ## Links
 
 - **Upstream/Prerequisite:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md] — Genomics position in hierarchy
 - **Parallel/Related:** [[Transcriptomics_mRNA_Expression_Z-001-0005.md] — Next step in cascade
 - **Downstream/Consequence:** [[Metabolomics_Phenotype_Proxy_Z-001-0002.md] — Why metabolomics is needed
+
+## Core Principle
+
+Genomics is the study of the structure, sequence, and function of the complete set of genes (genome) in an organism. The human genome contains approximately 3 billion base pairs encoding 20,000-25,000 genes.
 
 ## Context
 
@@ -86,6 +114,10 @@ Study of how DNA/RNA variations affect drug response:
 
 *UID: Z-001-0904 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
 
+## Core Principle
+
+Genomics is the study of the structure, sequence, and function of the complete set of genes (genome) in an organism. The human genome contains approximately 3 billion base pairs encoding 20,000-25,000 genes.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -94,10 +126,18 @@ Study of how DNA/RNA variations affect drug response:
 
 
 
+## Core Principle
+
+Genomics is the study of the structure, sequence, and function of the complete set of genes (genome) in an organism. The human genome contains approximately 3 billion base pairs encoding 20,000-25,000 genes.
+
 ## Related
 - [[Statin_Pharmacogenomics_SLCO1B1_Z-001-0920]|Z-001-0920]
 
 ---
+
+## Core Principle
+
+Genomics is the study of the structure, sequence, and function of the complete set of genes (genome) in an organism. The human genome contains approximately 3 billion base pairs encoding 20,000-25,000 genes.
 
 ## Connection to Vault
 

@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > B12 deficiency causes functional folate deficiency through the 'methyl trap' , where 5-MTHF accumulates and cannot be converted back to THF for DNA synthesis, despite normal or elevated serum folate levels.
 
+## Core Principle
+
+> B12 deficiency causes functional folate deficiency through the 'methyl trap' , where 5-MTHF accumulates and cannot be converted back to THF for DNA synthesis, despite normal or elevated serum folate levels.
+
 ## The Mechanism
 
 ### Normal State
@@ -40,6 +44,10 @@ extraction-date: 2026-03-01
    Megaloblastic anemia
 ```
 
+## Core Principle
+
+> B12 deficiency causes functional folate deficiency through the 'methyl trap' , where 5-MTHF accumulates and cannot be converted back to THF for DNA synthesis, despite normal or elevated serum folate levels.
+
 ## Key Features
 
 **Biochemical:**
@@ -53,6 +61,10 @@ extraction-date: 2026-03-01
 - Hyperhomocysteinemia
 - **But:** Neurological damage (B12-specific)
 
+## Core Principle
+
+> B12 deficiency causes functional folate deficiency through the 'methyl trap' , where 5-MTHF accumulates and cannot be converted back to THF for DNA synthesis, despite normal or elevated serum folate levels.
+
 ## Why Folate Supplementation Masks B12 Deficiency
 
 **The Problem:**
@@ -63,6 +75,10 @@ extraction-date: 2026-03-01
 
 **Clinical Rule:**
 > Always check B12 status before folate supplementation
+
+## Core Principle
+
+> B12 deficiency causes functional folate deficiency through the 'methyl trap' , where 5-MTHF accumulates and cannot be converted back to THF for DNA synthesis, despite normal or elevated serum folate levels.
 
 ## Diagnostic Implications
 
@@ -77,6 +93,10 @@ extraction-date: 2026-03-01
 - B12 treatment → Resolves both B12 and folate trap
 - Folate treatment alone → Worsens neurological status
 
+## Core Principle
+
+> B12 deficiency causes functional folate deficiency through the 'methyl trap' , where 5-MTHF accumulates and cannot be converted back to THF for DNA synthesis, despite normal or elevated serum folate levels.
+
 ## METHAP Relevance
 
 **High-Dose Nutrient Context:**
@@ -90,12 +110,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]*
 
 
+## Core Principle
+
+> B12 deficiency causes functional folate deficiency through the 'methyl trap' , where 5-MTHF accumulates and cannot be converted back to THF for DNA synthesis, despite normal or elevated serum folate levels.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> B12 deficiency causes functional folate deficiency through the 'methyl trap' , where 5-MTHF accumulates and cannot be converted back to THF for DNA synthesis, despite normal or elevated serum folate levels.
 
 ## Connection to Vault
 

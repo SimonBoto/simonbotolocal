@@ -17,6 +17,10 @@ updated: 2026-03-05
 
 **Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
 
+## Core Principle
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
 ## mTOR Complexes: Distinct Functions
 
 ### mTORC1 (Raptor-containing)
@@ -29,6 +33,10 @@ updated: 2026-03-05
 - **Chronic sensitivity:** High (assembly disrupted)
 - **Key functions:** Cell survival, metabolism, cytoskeleton
 - **Substrates:** Akt, SGK, PKC
+
+## Core Principle
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
 
 ## mTORC2 → Akt Pathway
 
@@ -47,6 +55,10 @@ updated: 2026-03-05
 | **FOXO1** | Exclusion from nucleus | Suppressed gluconeogenesis |
 | **mTORC1** | Activation | Protein synthesis |
 | **BAD** | Phosphorylation | Cell survival |
+
+## Core Principle
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
 
 ## Sirolimus Disruption
 
@@ -67,6 +79,10 @@ updated: 2026-03-05
 - More severe metabolic dysfunction
 - Broader impact on insulin signaling
 
+## Core Principle
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
 ## Experimental Evidence
 
 **Cell Culture:**
@@ -84,6 +100,10 @@ updated: 2026-03-05
 - Correlation with duration/dose and diabetes risk
 - Some evidence of mTORC2 disruption in PBMCs
 
+## Core Principle
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
 ## Tissue-Specific mTORC2 Functions
 
 ### Liver
@@ -100,6 +120,10 @@ updated: 2026-03-05
 - Akt-mediated glucose uptake and lipogenesis
 - mTORC2 loss → altered lipid storage
 - Contributes to lipotoxicity
+
+## Core Principle
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
 
 ## Clinical Implications
 
@@ -131,6 +155,10 @@ updated: 2026-03-05
 *See also: [[Sirolimus_Beta_Cell_Dysfunction_NODAT_Z-001-0924]*
 
 
+## Core Principle
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
@@ -139,6 +167,10 @@ updated: 2026-03-05
 - [[Sirolimus_ETC_Impairment_ROS_Generation_Z-001-0513]|Z-001-0513]
 
 ---
+
+## Core Principle
+
+**Core Mechanism:** While sirolimus acutely inhibits mTORC1, chronic or high-dose exposure also inhibits mTORC2, which is essential for Akt activation and insulin sensitivity.
 
 ## Connection to Vault
 

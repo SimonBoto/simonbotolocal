@@ -28,6 +28,10 @@ In the 1930s-1950s, widespread vitamin D fortification of milk and cereals to co
 
 **Critical nuance:** These incidents were real but causality was misattributed. The infants affected were later found to have genetic susceptibility (IIH/CYP24A1 mutations), not simply vitamin D overdose.
 
+## Core Principle
+
+In the 1930s-1950s, widespread vitamin D fortification of milk and cereals to combat rickets led to manufacturing errors and over-fortification. In the 1950s UK and Europe, infants consuming over-fortified milk developed hypercalcemia, with symptoms including nausea, vomiting, weakness, and kidney damage.
+
 ## Links
 
 **Parent MOC:** 
@@ -39,11 +43,19 @@ In the 1930s-1950s, widespread vitamin D fortification of milk and cereals to co
 *UID: Z-001-0054 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+In the 1930s-1950s, widespread vitamin D fortification of milk and cereals to combat rickets led to manufacturing errors and over-fortification. In the 1950s UK and Europe, infants consuming over-fortified milk developed hypercalcemia, with symptoms including nausea, vomiting, weakness, and kidney damage.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+In the 1930s-1950s, widespread vitamin D fortification of milk and cereals to combat rickets led to manufacturing errors and over-fortification. In the 1950s UK and Europe, infants consuming over-fortified milk developed hypercalcemia, with symptoms including nausea, vomiting, weakness, and kidney damage.
 
 ## Connection to Vault
 

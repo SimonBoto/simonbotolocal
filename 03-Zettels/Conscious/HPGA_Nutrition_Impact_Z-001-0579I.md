@@ -23,12 +23,20 @@ status: conscious
 
 Nutritional status is a fundamental regulator of the hypothalamic-pituitary-gonadal axis, with energy availability serving as a primary signal for reproductive competence.
 
+## Core Principle
+
+Nutritional status is a fundamental regulator of the hypothalamic-pituitary-gonadal axis, with energy availability serving as a primary signal for reproductive competence.
+
 ## Key Nutritional Factors
 
 - **Energy balance**: Negative energy balance suppresses HPGA axis (leptin signaling)
 - **Macronutrients**: Protein quality affects hormone synthesis; fats provide cholesterol substrate
 - **Micronutrients**: Zinc, vitamin D, magnesium are essential for hormone production
 - **Body composition**: Lean mass correlates with testosterone levels
+
+## Core Principle
+
+Nutritional status is a fundamental regulator of the hypothalamic-pituitary-gonadal axis, with energy availability serving as a primary signal for reproductive competence.
 
 ## Metabolic Signals
 
@@ -37,12 +45,20 @@ Nutritional status is a fundamental regulator of the hypothalamic-pituitary-gona
 - **Ghrelin**: Hunger hormone that inhibits HPGA axis during fasting
 - **Adiponectin**: Modulates insulin sensitivity and reproductive function
 
+## Core Principle
+
+Nutritional status is a fundamental regulator of the hypothalamic-pituitary-gonadal axis, with energy availability serving as a primary signal for reproductive competence.
+
 ## Clinical Significance
 
 - **Undernutrition**: Causes functional hypothalamic amenorrhea and hypogonadism
 - **Obesity**: Linked to hypogonadism through multiple mechanisms (inflammation, SHBG, aromatase)
 - **Eating disorders**: Severe HPGA suppression in anorexia nervosa
 - **Metabolic syndrome**: Contributes to reproductive dysfunction
+
+## Core Principle
+
+Nutritional status is a fundamental regulator of the hypothalamic-pituitary-gonadal axis, with energy availability serving as a primary signal for reproductive competence.
 
 ## Key Research Findings
 

@@ -36,9 +36,17 @@ Excess free  cause  resistance through ceramide generation, disrupting insulin s
 - Sphingomyelin hydrolysis
 - Salvage pathway
 
+## Core Principle
+
+Excess free  cause  resistance through ceramide generation, disrupting insulin signaling at multiple nodes.
+
 ## Links
 
 - **Parallel:** [[IRS_Serine_Phosphorylation_Causes_IR_Z-001-0008]] — Serine phosphorylation mechanism
+
+## Core Principle
+
+Excess free  cause  resistance through ceramide generation, disrupting insulin signaling at multiple nodes.
 
 ## Context
 
@@ -47,10 +55,18 @@ Excess free  cause  resistance through ceramide generation, disrupting insulin s
 **Therapeutic:** Ceramide synthesis inhibitors (myriocin) improve IR in models
 
 
+## Core Principle
+
+Excess free  cause  resistance through ceramide generation, disrupting insulin signaling at multiple nodes.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Excess free  cause  resistance through ceramide generation, disrupting insulin signaling at multiple nodes.
 
 ## Connection to Vault
 

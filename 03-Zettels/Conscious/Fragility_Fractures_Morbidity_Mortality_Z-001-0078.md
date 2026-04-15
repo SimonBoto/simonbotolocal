@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 Fragility fractures—especially of the hip and vertebra—are associated with significant morbidity, mortality, and reduced functional independence. These fractures occur from minimal trauma due to compromised bone strength.
 
+## Core Principle
+
+Fragility fractures—especially of the hip and vertebra—are associated with significant morbidity, mortality, and reduced functional independence. These fractures occur from minimal trauma due to compromised bone strength.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,14 +34,26 @@ Fragility fractures—especially of the hip and vertebra—are associated with s
 *UID: Z-001-0078 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Fragility fractures—especially of the hip and vertebra—are associated with significant morbidity, mortality, and reduced functional independence. These fractures occur from minimal trauma due to compromised bone strength.
+
 ## Related
 - _Manifestations_Presentation_Z-001-0203]|Z-001-0203]
 
+
+## Core Principle
+
+Fragility fractures—especially of the hip and vertebra—are associated with significant morbidity, mortality, and reduced functional independence. These fractures occur from minimal trauma due to compromised bone strength.
 
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Fragility fractures—especially of the hip and vertebra—are associated with significant morbidity, mortality, and reduced functional independence. These fractures occur from minimal trauma due to compromised bone strength.
 
 ## Connection to Vault
 

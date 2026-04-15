@@ -25,10 +25,18 @@ extraction-date: 2026-03-01
 
 > The Framingham Heart Study's reassessment revealed age-dependent complexities in the cholesterol-CVD relationship, informing modern precision medicine approaches.
 
+## Core Principle
+
+> The Framingham Heart Study's reassessment revealed age-dependent complexities in the cholesterol-CVD relationship, informing modern precision medicine approaches.
+
 ## Original Findings
 
 - Cholesterol identified as CVD risk factor (1948)
 - Relationship weaker in elderly
+
+## Core Principle
+
+> The Framingham Heart Study's reassessment revealed age-dependent complexities in the cholesterol-CVD relationship, informing modern precision medicine approaches.
 
 ## Reassessment: Age Over 50 Paradox
 
@@ -41,6 +49,10 @@ extraction-date: 2026-03-01
 
 **Implication:** Individualize elderly treatment
 
+## Core Principle
+
+> The Framingham Heart Study's reassessment revealed age-dependent complexities in the cholesterol-CVD relationship, informing modern precision medicine approaches.
+
 ## Dietary Cholesterol Reassessment
 
 **Old View:** Dietary intake → serum cholesterol → CVD
@@ -50,6 +62,10 @@ extraction-date: 2026-03-01
 - Individual variation high
 - Dietary quality > single nutrients
 - 2015 Guidelines removed cholesterol limit
+
+## Core Principle
+
+> The Framingham Heart Study's reassessment revealed age-dependent complexities in the cholesterol-CVD relationship, informing modern precision medicine approaches.
 
 ## Emerging Markers
 
@@ -66,11 +82,19 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Statin_Pharmacology_L-001-0502]*
 
 
+## Core Principle
+
+> The Framingham Heart Study's reassessment revealed age-dependent complexities in the cholesterol-CVD relationship, informing modern precision medicine approaches.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> The Framingham Heart Study's reassessment revealed age-dependent complexities in the cholesterol-CVD relationship, informing modern precision medicine approaches.
 
 ## Connection to Vault
 

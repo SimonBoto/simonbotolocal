@@ -22,12 +22,20 @@ status: conscious
 
 > **Definition:** A funnel plot is a scatter plot of effect estimates against a measure of study precision (e.g., standard error) used to assess asymmetry that may indicate publication bias or other small-study effects.
 
+## Core Principle
+
+> **Definition:** A funnel plot is a scatter plot of effect estimates against a measure of study precision (e.g., standard error) used to assess asymmetry that may indicate publication bias or other small-study effects.
+
 ## Funnel Plot Construction
 
 - **X-axis:** Effect estimates (e.g., OR, RR, SMD)
 - **Y-axis:** Measure of precision (e.g., standard error, sample size, inverse variance)
 - **Contour lines:** Represent confidence regions (e.g., 95%, 99%)
 - **Symmetry:** In absence of bias, points should be symmetrically distributed
+
+## Core Principle
+
+> **Definition:** A funnel plot is a scatter plot of effect estimates against a measure of study precision (e.g., standard error) used to assess asymmetry that may indicate publication bias or other small-study effects.
 
 ## Interpretation of Asymmetry
 
@@ -37,12 +45,20 @@ status: conscious
 - **Heterogeneity:** Variability in true effects across studies
 - **Artifactual causes:** Statistical artifacts like regression to the mean
 
+## Core Principle
+
+> **Definition:** A funnel plot is a scatter plot of effect estimates against a measure of study precision (e.g., standard error) used to assess asymmetry that may indicate publication bias or other small-study effects.
+
 ## Statistical Tests
 
 - **Egger's test:** Regression-based test for funnel plot asymmetry
 - **Begg's test:** Rank correlation-based test for funnel plot asymmetry
 - **Trim and fill:** Method to estimate and adjust for missing studies
 - **Fail-safe N:** Number of studies needed to nullify the observed effect
+
+## Core Principle
+
+> **Definition:** A funnel plot is a scatter plot of effect estimates against a measure of study precision (e.g., standard error) used to assess asymmetry that may indicate publication bias or other small-study effects.
 
 ## Best Practices
 
@@ -52,6 +68,10 @@ status: conscious
 - Use multiple methods to assess publication bias
 - Report both visual and statistical assessments
 
+## Core Principle
+
+> **Definition:** A funnel plot is a scatter plot of effect estimates against a measure of study precision (e.g., standard error) used to assess asymmetry that may indicate publication bias or other small-study effects.
+
 ## Limitations
 
 - Low power with few studies
@@ -60,6 +80,10 @@ status: conscious
 - Dependent on choice of precision measure
 
 ---
+
+## Core Principle
+
+> **Definition:** A funnel plot is a scatter plot of effect estimates against a measure of study precision (e.g., standard error) used to assess asymmetry that may indicate publication bias or other small-study effects.
 
 ## Related Concepts
 

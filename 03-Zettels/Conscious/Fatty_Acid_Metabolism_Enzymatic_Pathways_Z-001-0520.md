@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Delta-6 and delta-5 desaturases are shared between  and omega-3 pathways, creating metabolic competition that determines inflammatory eicosanoid output.
 
+## Core Principle
+
+> Delta-6 and delta-5 desaturases are shared between  and omega-3 pathways, creating metabolic competition that determines inflammatory eicosanoid output.
+
 ## Key Enzymes
 
 **Delta-6 Desaturase (FADS2):**
@@ -25,6 +29,10 @@ extraction-date: 2026-03-01
 - Critical for eicosanoid production
 - Requires zinc, , B6
 
+## Core Principle
+
+> Delta-6 and delta-5 desaturases are shared between  and omega-3 pathways, creating metabolic competition that determines inflammatory eicosanoid output.
+
 ## Eicosanoid Production
 
 **Omega-6 (AA):**
@@ -33,6 +41,10 @@ extraction-date: 2026-03-01
 **Omega-3 (EPA):**
 - PGE3, LTB5 = less inflammatory
 - Resolvins, protectins = resolution
+
+## Core Principle
+
+> Delta-6 and delta-5 desaturases are shared between  and omega-3 pathways, creating metabolic competition that determines inflammatory eicosanoid output.
 
 ## Conversion Efficiency
 
@@ -49,12 +61,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]*
 
 
+## Core Principle
+
+> Delta-6 and delta-5 desaturases are shared between  and omega-3 pathways, creating metabolic competition that determines inflammatory eicosanoid output.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Delta-6 and delta-5 desaturases are shared between  and omega-3 pathways, creating metabolic competition that determines inflammatory eicosanoid output.
 
 ## Connection to Vault
 

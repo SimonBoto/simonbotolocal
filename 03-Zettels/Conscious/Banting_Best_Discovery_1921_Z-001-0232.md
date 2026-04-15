@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > In the summer of 1921, surgeon Frederick Banting and medical student Charles Best conducted experiments at the University of Toronto that led to the discovery of insulin, one of medicine's most important breakthroughs.
 
+## Core Principle
+
+> In the summer of 1921, surgeon Frederick Banting and medical student Charles Best conducted experiments at the University of Toronto that led to the discovery of insulin, one of medicine's most important breakthroughs.
+
 ## Frederick Banting (1891-1941)
 
 **Background:**
@@ -35,6 +39,10 @@ extraction-date: 2026-03-01
 - Generous (shared Nobel money with Best)
 - Felt strongly about credit attribution
 
+## Core Principle
+
+> In the summer of 1921, surgeon Frederick Banting and medical student Charles Best conducted experiments at the University of Toronto that led to the discovery of insulin, one of medicine's most important breakthroughs.
+
 ## Charles Best (1899-1978)
 
 **Background:**
@@ -53,6 +61,10 @@ extraction-date: 2026-03-01
 - Continued diabetes research
 - Replaced MacLeod at University of Toronto
 - Major figure in Canadian science
+
+## Core Principle
+
+> In the summer of 1921, surgeon Frederick Banting and medical student Charles Best conducted experiments at the University of Toronto that led to the discovery of insulin, one of medicine's most important breakthroughs.
 
 ## The Discovery Experiments (Summer 1921)
 
@@ -74,6 +86,10 @@ extraction-date: 2026-03-01
 - Proof of principle: Pancreas contains glucose-lowering substance
 - "Isletin" initially, later "insulin"
 
+## Core Principle
+
+> In the summer of 1921, surgeon Frederick Banting and medical student Charles Best conducted experiments at the University of Toronto that led to the discovery of insulin, one of medicine's most important breakthroughs.
+
 ## Challenges and Setbacks
 
 **Technical Difficulties:**
@@ -86,6 +102,10 @@ extraction-date: 2026-03-01
 - MacLeod initially unconvinced
 - Previous failed attempts by others
 - Need for rigorous proof
+
+## Core Principle
+
+> In the summer of 1921, surgeon Frederick Banting and medical student Charles Best conducted experiments at the University of Toronto that led to the discovery of insulin, one of medicine's most important breakthroughs.
 
 ## Significance
 
@@ -103,6 +123,10 @@ extraction-date: 2026-03-01
 - Transformed diabetes from fatal to manageable
 - Demonstrated importance of persistence
 - Team science example (with complexities)
+
+## Core Principle
+
+> In the summer of 1921, surgeon Frederick Banting and medical student Charles Best conducted experiments at the University of Toronto that led to the discovery of insulin, one of medicine's most important breakthroughs.
 
 ## Controversies
 
@@ -122,12 +146,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Insulin_History_L-001-0207]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> In the summer of 1921, surgeon Frederick Banting and medical student Charles Best conducted experiments at the University of Toronto that led to the discovery of insulin, one of medicine's most important breakthroughs.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[Oleic_Acid_Metabolic_Benefits_Z-001-0533]|Z-001-0533]
 
 ---
+
+## Core Principle
+
+> In the summer of 1921, surgeon Frederick Banting and medical student Charles Best conducted experiments at the University of Toronto that led to the discovery of insulin, one of medicine's most important breakthroughs.
 
 ## Connection to Vault
 

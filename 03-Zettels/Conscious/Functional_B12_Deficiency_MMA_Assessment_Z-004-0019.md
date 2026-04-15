@@ -26,6 +26,10 @@ connections:
 
 ---
 
+## Core Principle
+
+**Functional B12 deficiency** occurs when serum B12 appears normal (200-900 pg/mL) but tissue B12 is inadequate. Methylmalonic acid (MMA) and homocysteine reveal the true status. **If methylation is broken, nothing works.**
+
 ## 🎯 The Problem
 
 ### Serum B12 Limitations
@@ -46,6 +50,10 @@ connections:
 
 ---
 
+## Core Principle
+
+**Functional B12 deficiency** occurs when serum B12 appears normal (200-900 pg/mL) but tissue B12 is inadequate. Methylmalonic acid (MMA) and homocysteine reveal the true status. **If methylation is broken, nothing works.**
+
 ## 🔬 Why MMA?
 
 **Methylmalonyl-CoA mutase** requires adenosylcobalamin (B12).
@@ -62,6 +70,10 @@ Without B12:
 
 ---
 
+## Core Principle
+
+**Functional B12 deficiency** occurs when serum B12 appears normal (200-900 pg/mL) but tissue B12 is inadequate. Methylmalonic acid (MMA) and homocysteine reveal the true status. **If methylation is broken, nothing works.**
+
 ## 🔗 Connected Systems
 
 **Methylation Cycle:**
@@ -77,6 +89,10 @@ Without B12:
 - Z-004-0020 (B12 supplementation protocols) — *link pending*
 
 ---
+
+## Core Principle
+
+**Functional B12 deficiency** occurs when serum B12 appears normal (200-900 pg/mL) but tissue B12 is inadequate. Methylmalonic acid (MMA) and homocysteine reveal the true status. **If methylation is broken, nothing works.**
 
 ## 🩺 Clinical Scenarios
 
@@ -117,6 +133,10 @@ Without B12:
 
 ---
 
+## Core Principle
+
+**Functional B12 deficiency** occurs when serum B12 appears normal (200-900 pg/mL) but tissue B12 is inadequate. Methylmalonic acid (MMA) and homocysteine reveal the true status. **If methylation is broken, nothing works.**
+
 ## 🔄 Interpretation Algorithm
 
 ```
@@ -135,6 +155,10 @@ Start: Suspect B12 deficiency (fatigue, neuropathy, cognitive fog)
 ```
 
 ---
+
+## Core Principle
+
+**Functional B12 deficiency** occurs when serum B12 appears normal (200-900 pg/mL) but tissue B12 is inadequate. Methylmalonic acid (MMA) and homocysteine reveal the true status. **If methylation is broken, nothing works.**
 
 ## 💊 Supplementation Protocol
 
@@ -158,6 +182,10 @@ Start: Suspect B12 deficiency (fatigue, neuropathy, cognitive fog)
 
 ---
 
+## Core Principle
+
+**Functional B12 deficiency** occurs when serum B12 appears normal (200-900 pg/mL) but tissue B12 is inadequate. Methylmalonic acid (MMA) and homocysteine reveal the true status. **If methylation is broken, nothing works.**
+
 ## 🔬 Causes of Functional Deficiency
 
 ### Common Causes
@@ -171,6 +199,10 @@ Start: Suspect B12 deficiency (fatigue, neuropathy, cognitive fog)
 
 ---
 
+## Core Principle
+
+**Functional B12 deficiency** occurs when serum B12 appears normal (200-900 pg/mL) but tissue B12 is inadequate. Methylmalonic acid (MMA) and homocysteine reveal the true status. **If methylation is broken, nothing works.**
+
 ## 📊 Population Prevalence
 
 | Population | Functional Deficiency Risk |
@@ -183,6 +215,10 @@ Start: Suspect B12 deficiency (fatigue, neuropathy, cognitive fog)
 
 ---
 
+## Core Principle
+
+**Functional B12 deficiency** occurs when serum B12 appears normal (200-900 pg/mL) but tissue B12 is inadequate. Methylmalonic acid (MMA) and homocysteine reveal the true status. **If methylation is broken, nothing works.**
+
 ## 💡 Clinical Pearls
 
 > "Serum B12 is a screening test, not a diagnostic test. If symptoms persist with 'normal' B12, check MMA."
@@ -192,6 +228,10 @@ Start: Suspect B12 deficiency (fatigue, neuropathy, cognitive fog)
 > "Methylcobalamin + adenosylcobalamin covers both compartments: methylation (homocysteine) and mitochondria (MMA)."
 
 ---
+
+## Core Principle
+
+**Functional B12 deficiency** occurs when serum B12 appears normal (200-900 pg/mL) but tissue B12 is inadequate. Methylmalonic acid (MMA) and homocysteine reveal the true status. **If methylation is broken, nothing works.**
 
 ## Data Export (METHAP)
 
@@ -204,6 +244,10 @@ patient_id,visit,serum_b12_pg_ml,mma_nmol_l,homocysteine_umol_l,functional_statu
 *Source: , , *
 *Created: 2026-02-26 | Domain: 004 | Status: Conscious*
 
+## Core Principle
+
+**Functional B12 deficiency** occurs when serum B12 appears normal (200-900 pg/mL) but tissue B12 is inadequate. Methylmalonic acid (MMA) and homocysteine reveal the true status. **If methylation is broken, nothing works.**
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - s/Iron_Family_[B-003-0001]|Biomarker Family Guide]
@@ -211,6 +255,10 @@ patient_id,visit,serum_b12_pg_ml,mma_nmol_l,homocysteine_umol_l,functional_statu
 
 
 ---
+
+## Core Principle
+
+**Functional B12 deficiency** occurs when serum B12 appears normal (200-900 pg/mL) but tissue B12 is inadequate. Methylmalonic acid (MMA) and homocysteine reveal the true status. **If methylation is broken, nothing works.**
 
 ## Connection to Vault
 

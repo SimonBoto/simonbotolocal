@@ -23,6 +23,10 @@ Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and 
 
 **Critical insight:** The insulin receptor itself remains functional — signaling is blocked downstream at IRS-1 through serine phosphorylation that prevents tyrosine phosphorylation and downstream PI3K/Akt activation.
 
+## Core Principle
+
+Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
+
 ## Key Details
 
 | Cytokine | Mechanism | Effect |
@@ -31,11 +35,19 @@ Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and 
 | IL-6 | SOCS3 induction | IRS degradation |
 | IL-1β | Proteasome pathway | IRS degradation |
 
+## Core Principle
+
+Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
+
 ## Links
 
 - **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md] — Adipose inflammation produces cytokines
 - **Parallel:** l_Dysfunction_IR_Z-001-0030.md] — Oxidative stress activates same pathways
 - **Downstream:** [[Vicious_Cycle_Inflammation_IR_Z-001-0038.md] — Vicious cycle: inflammation ↔ IR
+
+## Core Principle
+
+Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
 
 ## Context
 
@@ -48,12 +60,20 @@ Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and 
 *UID: Z-001-0031 | Domain: 001 | Created: 2026-02-24*
 
 
+## Core Principle
+
+Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Chronic low-grade  activates innate immunity through TLR4 (activated by LPS and free fatty acids), triggering NF-κB nuclear translocation and NLRP3 inflammasome activation.
 
 ## Connection to Vault
 

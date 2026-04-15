@@ -28,6 +28,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**25-Hydroxyvitamin D [25(OH)D]** is the standard clinical measure of vitamin D status. While conventional medicine targets 30 ng/mL (75 nmol/L), metabolic optimization requires **80-150 ng/mL**.
+
 ## 🎯 Target Ranges
 
 | Level (ng/mL) | Status | Action Required |
@@ -48,6 +52,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**25-Hydroxyvitamin D [25(OH)D]** is the standard clinical measure of vitamin D status. While conventional medicine targets 30 ng/mL (75 nmol/L), metabolic optimization requires **80-150 ng/mL**.
+
 ## 🔗 Connected Systems
 
 **Insulin Resistance:**
@@ -62,6 +70,10 @@ extraction-date: 2026-04-15
 - Z-002-0007 (Vitamin K2 synergy — prevents hypercalcemia) — *link pending*
 
 ---
+
+## Core Principle
+
+**25-Hydroxyvitamin D [25(OH)D]** is the standard clinical measure of vitamin D status. While conventional medicine targets 30 ng/mL (75 nmol/L), metabolic optimization requires **80-150 ng/mL**.
 
 ## 🩺 High-Dose Protocol
 
@@ -89,6 +101,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**25-Hydroxyvitamin D [25(OH)D]** is the standard clinical measure of vitamin D status. While conventional medicine targets 30 ng/mL (75 nmol/L), metabolic optimization requires **80-150 ng/mL**.
+
 ## 📊 Expected Response
 
 **Typical patient trajectory:**
@@ -98,6 +114,10 @@ extraction-date: 2026-04-15
 - Maintenance: 4,000 IU + K2 → stable 85-95 ng/mL
 
 ---
+
+## Core Principle
+
+**25-Hydroxyvitamin D [25(OH)D]** is the standard clinical measure of vitamin D status. While conventional medicine targets 30 ng/mL (75 nmol/L), metabolic optimization requires **80-150 ng/mL**.
 
 ## 🔬 PhD-METHAP Integration
 
@@ -120,6 +140,10 @@ patient_id,visit,vit_d_dose_iu_daily,vit_d_25_oh_ng_ml,vit_d_status
 
 ---
 
+## Core Principle
+
+**25-Hydroxyvitamin D [25(OH)D]** is the standard clinical measure of vitamin D status. While conventional medicine targets 30 ng/mL (75 nmol/L), metabolic optimization requires **80-150 ng/mL**.
+
 ## ⚠️ Safety Considerations
 
 **Toxicity risk factors:**
@@ -134,6 +158,10 @@ patient_id,visit,vit_d_dose_iu_daily,vit_d_25_oh_ng_ml,vit_d_status
 
 ---
 
+## Core Principle
+
+**25-Hydroxyvitamin D [25(OH)D]** is the standard clinical measure of vitamin D status. While conventional medicine targets 30 ng/mL (75 nmol/L), metabolic optimization requires **80-150 ng/mL**.
+
 ## 💡 Clinical Pearls
 
 > "Most patients need 4,000-8,000 IU/day to maintain 80+ ng/mL. The RDA of 600-800 IU is inadequate for metabolic optimization."
@@ -143,6 +171,10 @@ patient_id,visit,vit_d_dose_iu_daily,vit_d_25_oh_ng_ml,vit_d_status
 > "Magnesium deficiency blocks D activation. If D doesn't rise despite supplementation, check magnesium."
 
 ---
+
+## Core Principle
+
+**25-Hydroxyvitamin D [25(OH)D]** is the standard clinical measure of vitamin D status. While conventional medicine targets 30 ng/mL (75 nmol/L), metabolic optimization requires **80-150 ng/mL**.
 
 ## 📚 Sources
 
@@ -155,6 +187,10 @@ patient_id,visit,vit_d_dose_iu_daily,vit_d_25_oh_ng_ml,vit_d_status
 
 *Created: 2026-02-26 | Domain: 002 | Status: Conscious*
 
+## Core Principle
+
+**25-Hydroxyvitamin D [25(OH)D]** is the standard clinical measure of vitamin D status. While conventional medicine targets 30 ng/mL (75 nmol/L), metabolic optimization requires **80-150 ng/mL**.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
@@ -162,6 +198,10 @@ patient_id,visit,vit_d_dose_iu_daily,vit_d_25_oh_ng_ml,vit_d_status
 
 
 ---
+
+## Core Principle
+
+**25-Hydroxyvitamin D [25(OH)D]** is the standard clinical measure of vitamin D status. While conventional medicine targets 30 ng/mL (75 nmol/L), metabolic optimization requires **80-150 ng/mL**.
 
 ## Connection to Vault
 

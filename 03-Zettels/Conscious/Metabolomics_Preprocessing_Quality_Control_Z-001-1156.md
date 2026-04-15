@@ -12,11 +12,19 @@ status: conscious
 
 #  Preprocessing and Quality Control
 
+## Core Principle
+
+raw_data <- readMSData(files, mode = "onDisk")
+
 ## Overview
 
 Raw metabolomics data requires systematic preprocessing—baseline correction, peak detection, alignment, and quality control—to ensure reliable downstream statistical analysis and biological interpretation.
 
 ---
+
+## Core Principle
+
+raw_data <- readMSData(files, mode = "onDisk")
 
 ## Preprocessing Pipeline
 
@@ -55,6 +63,10 @@ Raw metabolomics data requires systematic preprocessing—baseline correction, p
 
 ---
 
+## Core Principle
+
+raw_data <- readMSData(files, mode = "onDisk")
+
 ## Quality Control (QC) Strategy
 
 ### QC Samples
@@ -89,6 +101,10 @@ Raw metabolomics data requires systematic preprocessing—baseline correction, p
 
 ---
 
+## Core Principle
+
+raw_data <- readMSData(files, mode = "onDisk")
+
 ## METHAP QC Protocol
 
 ### Sample Preparation QC
@@ -109,6 +125,10 @@ Raw metabolomics data requires systematic preprocessing—baseline correction, p
 4. **Outlier detection:** Hotelling's T², leverage
 
 ---
+
+## Core Principle
+
+raw_data <- readMSData(files, mode = "onDisk")
 
 ## Common Artifacts
 
@@ -136,6 +156,10 @@ Raw metabolomics data requires systematic preprocessing—baseline correction, p
 **Solution:** QC-RSC correction, LOESS normalization
 
 ---
+
+## Core Principle
+
+raw_data <- readMSData(files, mode = "onDisk")
 
 ## Software Workflow
 
@@ -166,6 +190,10 @@ xdata <- fillChromPeaks(xdata, param = FillChromPeaksParam())
 
 ---
 
+## Core Principle
+
+raw_data <- readMSData(files, mode = "onDisk")
+
 ## Acceptance Criteria Summary
 
 | Parameter | Acceptance | Action if Failed |
@@ -178,6 +206,10 @@ xdata <- fillChromPeaks(xdata, param = FillChromPeaksParam())
 
 ---
 
+## Core Principle
+
+raw_data <- readMSData(files, mode = "onDisk")
+
 ## Related
 
 - [[Normalization_Scaling_Metabolomics_Data_Z-001-1157]
@@ -188,10 +220,18 @@ xdata <- fillChromPeaks(xdata, param = FillChromPeaksParam())
 
 *Source: [[LitNote_Metabolomics_Data_Processing_L-001-0619]] | 2026-03-09*
 
+## Core Principle
+
+raw_data <- readMSData(files, mode = "onDisk")
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+raw_data <- readMSData(files, mode = "onDisk")
 
 ## Connection to Vault
 

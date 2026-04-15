@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Magnesium is an essential cofactor for the cytochrome P450 hydroxylases that activate vitamin D, making adequate magnesium status critical for optimal vitamin D  and function.
 
+## Core Principle
+
+> Magnesium is an essential cofactor for the cytochrome P450 hydroxylases that activate vitamin D, making adequate magnesium status critical for optimal vitamin D  and function.
+
 ## Vitamin D Activation Pathway
 
 ### Step 1: 25-Hydroxylation (Liver)
@@ -35,6 +39,10 @@ extraction-date: 2026-03-01
 - Converts 25(OH)D and 1,25(OH)₂D to inactive forms
 - **Regulation:** Upregulated by calcitriol (negative feedback)
 
+## Core Principle
+
+> Magnesium is an essential cofactor for the cytochrome P450 hydroxylases that activate vitamin D, making adequate magnesium status critical for optimal vitamin D  and function.
+
 ## Magnesium Mechanism
 
 **Enzymatic Cofactor:**
@@ -53,12 +61,20 @@ Result: Low circulating vitamin D despite adequate intake/sun
 - Mg supplementation often raises 25(OH)D without increased D intake
 - Explains "vitamin D resistance" in Mg-deficient patients
 
+## Core Principle
+
+> Magnesium is an essential cofactor for the cytochrome P450 hydroxylases that activate vitamin D, making adequate magnesium status critical for optimal vitamin D  and function.
+
 ## Vitamin D Binding Protein (DBP)
 
 **Magnesium Role:**
 - Mg²⁺ affects DBP conformation
 - Optimal D-binding requires Mg-dependent protein structure
 - Impaired transport in Mg deficiency
+
+## Core Principle
+
+> Magnesium is an essential cofactor for the cytochrome P450 hydroxylases that activate vitamin D, making adequate magnesium status critical for optimal vitamin D  and function.
 
 ## Bidirectional Relationship
 
@@ -71,6 +87,10 @@ Result: Low circulating vitamin D despite adequate intake/sun
 - Mg required for D activation (as above)
 - Mg deficiency → impaired D synthesis
 - Creates vicious cycle if both are deficient
+
+## Core Principle
+
+> Magnesium is an essential cofactor for the cytochrome P450 hydroxylases that activate vitamin D, making adequate magnesium status critical for optimal vitamin D  and function.
 
 ## METHAP Protocol Implications
 
@@ -98,6 +118,10 @@ Result: Low circulating vitamin D despite adequate intake/sun
 - **Zinc:** Supports D receptor function
 - **Boron:** Extends D half-life
 
+## Core Principle
+
+> Magnesium is an essential cofactor for the cytochrome P450 hydroxylases that activate vitamin D, making adequate magnesium status critical for optimal vitamin D  and function.
+
 ## Research Questions
 
 1. Can baseline Mg status predict response to high-dose vitamin D?
@@ -113,10 +137,18 @@ Result: Low circulating vitamin D despite adequate intake/sun
 *Extracted: 2026-03-01*
 
 
+## Core Principle
+
+> Magnesium is an essential cofactor for the cytochrome P450 hydroxylases that activate vitamin D, making adequate magnesium status critical for optimal vitamin D  and function.
+
 ## RELATED FILES
 - 
 
 ---
+
+## Core Principle
+
+> Magnesium is an essential cofactor for the cytochrome P450 hydroxylases that activate vitamin D, making adequate magnesium status critical for optimal vitamin D  and function.
 
 ## Connection to Vault
 

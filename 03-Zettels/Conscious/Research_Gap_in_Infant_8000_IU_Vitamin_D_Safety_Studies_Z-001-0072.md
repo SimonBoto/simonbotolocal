@@ -31,6 +31,10 @@ Despite the corrected RDA calculation showing 7,000-8,000 IU/day is needed for 9
 - METHAP and similar trials cannot cite direct infant precedent at corrected RDA levels
 - Research opportunity: first trial to test 8,000 IU in pediatric population
 
+## Core Principle
+
+Despite the corrected RDA calculation showing 7,000-8,000 IU/day is needed for 97.5% population coverage, no research studies have specifically tested 8,000 IU daily safety in 1-year-old children. This gap exists between statistical requirements and evidence base.
+
 ## Links
 
 **Parent MOC:** -
@@ -42,12 +46,20 @@ Despite the corrected RDA calculation showing 7,000-8,000 IU/day is needed for 9
 *UID: Z-001-0072 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Despite the corrected RDA calculation showing 7,000-8,000 IU/day is needed for 97.5% population coverage, no research studies have specifically tested 8,000 IU daily safety in 1-year-old children. This gap exists between statistical requirements and evidence base.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]
 
 ---
+
+## Core Principle
+
+Despite the corrected RDA calculation showing 7,000-8,000 IU/day is needed for 97.5% population coverage, no research studies have specifically tested 8,000 IU daily safety in 1-year-old children. This gap exists between statistical requirements and evidence base.
 
 ## Connection to Vault
 

@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Osteocalcin exists in two forms: carboxylated (bone-structural) and undercarboxylated (metabolic-hormonal). The D-K2 synergy determines the balance between these forms, directly influencing  sensitivity and metabolic health.
 
+## Core Principle
+
+> Osteocalcin exists in two forms: carboxylated (bone-structural) and undercarboxylated (metabolic-hormonal). The D-K2 synergy determines the balance between these forms, directly influencing  sensitivity and metabolic health.
+
 ## Osteocalcin Forms
 
 ### Carboxylated Osteocalcin (cOC)
@@ -45,6 +49,10 @@ extraction-date: 2026-03-01
 
 **Active at:** 0.03-0.1 nM circulating levels
 
+## Core Principle
+
+> Osteocalcin exists in two forms: carboxylated (bone-structural) and undercarboxylated (metabolic-hormonal). The D-K2 synergy determines the balance between these forms, directly influencing  sensitivity and metabolic health.
+
 ## D-K2 Synergy Determines Balance
 
 ** Effect:**
@@ -61,6 +69,10 @@ extraction-date: 2026-03-01
 - ~50-70% carboxylated (bone health)
 - ~30-50% undercarboxylated (metabolic health)
 - Both forms necessary
+
+## Core Principle
+
+> Osteocalcin exists in two forms: carboxylated (bone-structural) and undercarboxylated (metabolic-hormonal). The D-K2 synergy determines the balance between these forms, directly influencing  sensitivity and metabolic health.
 
 ## Metabolic Actions of ucOC
 
@@ -82,6 +94,10 @@ extraction-date: 2026-03-01
 - Enhances exercise capacity
 - "Exercise hormone"
 
+## Core Principle
+
+> Osteocalcin exists in two forms: carboxylated (bone-structural) and undercarboxylated (metabolic-hormonal). The D-K2 synergy determines the balance between these forms, directly influencing  sensitivity and metabolic health.
+
 ## Clinical Relevance
 
 **Metabolic Syndrome:**
@@ -100,11 +116,19 @@ extraction-date: 2026-03-01
 *Related: [[Osteocalcin_Metabolic_Hormone_D_K2_Z-001-0254]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Osteocalcin exists in two forms: carboxylated (bone-structural) and undercarboxylated (metabolic-hormonal). The D-K2 synergy determines the balance between these forms, directly influencing  sensitivity and metabolic health.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+> Osteocalcin exists in two forms: carboxylated (bone-structural) and undercarboxylated (metabolic-hormonal). The D-K2 synergy determines the balance between these forms, directly influencing  sensitivity and metabolic health.
 
 ## Connection to Vault
 

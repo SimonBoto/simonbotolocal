@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Will Keith Kellogg founded the Kellogg Company in 1906 to mass-produce cornflakes, transforming a Sanitarium health food into a global consumer product and rizing the American breakfast through innovative marketing and industrial-scale production.
 
+## Core Principle
+
+> Will Keith Kellogg founded the Kellogg Company in 1906 to mass-produce cornflakes, transforming a Sanitarium health food into a global consumer product and rizing the American breakfast through innovative marketing and industrial-scale production.
+
 ## Founding (1906)
 
 **Company Name:**
@@ -31,6 +35,10 @@ extraction-date: 2026-03-01
 - Wanted independence from John Harvey
 - Business opportunity
 
+## Core Principle
+
+> Will Keith Kellogg founded the Kellogg Company in 1906 to mass-produce cornflakes, transforming a Sanitarium health food into a global consumer product and rizing the American breakfast through innovative marketing and industrial-scale production.
+
 ## Production Innovations
 
 **Manufacturing:**
@@ -45,6 +53,10 @@ extraction-date: 2026-03-01
 - 1910s: National distribution
 - 1920s: International markets
 - Continuous expansion
+
+## Core Principle
+
+> Will Keith Kellogg founded the Kellogg Company in 1906 to mass-produce cornflakes, transforming a Sanitarium health food into a global consumer product and rizing the American breakfast through innovative marketing and industrial-scale production.
 
 ## Marketing Innovations
 
@@ -67,6 +79,10 @@ extraction-date: 2026-03-01
 - Recipe booklets
 - Radio advertising
 
+## Core Principle
+
+> Will Keith Kellogg founded the Kellogg Company in 1906 to mass-produce cornflakes, transforming a Sanitarium health food into a global consumer product and rizing the American breakfast through innovative marketing and industrial-scale production.
+
 ## Breakfast Revolution
 
 **Before Kellogg:**
@@ -87,6 +103,10 @@ extraction-date: 2026-03-01
 - Marketing-driven eating
 - Breakfast category created
 
+## Core Principle
+
+> Will Keith Kellogg founded the Kellogg Company in 1906 to mass-produce cornflakes, transforming a Sanitarium health food into a global consumer product and rizing the American breakfast through innovative marketing and industrial-scale production.
+
 ## Competition and Industry
 
 **Rivals:**
@@ -100,6 +120,10 @@ extraction-date: 2026-03-01
 - Battle Creek = "Cereal Capital"
 - Innovation (puffed rice, wheat, etc.)
 - Sugar-added varieties (later)
+
+## Core Principle
+
+> Will Keith Kellogg founded the Kellogg Company in 1906 to mass-produce cornflakes, transforming a Sanitarium health food into a global consumer product and rizing the American breakfast through innovative marketing and industrial-scale production.
 
 ## Legacy
 
@@ -126,10 +150,18 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Cereal_History_L-001-0211]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Will Keith Kellogg founded the Kellogg Company in 1906 to mass-produce cornflakes, transforming a Sanitarium health food into a global consumer product and rizing the American breakfast through innovative marketing and industrial-scale production.
+
 ## RELATED FILES
 - 
 
 ---
+
+## Core Principle
+
+> Will Keith Kellogg founded the Kellogg Company in 1906 to mass-produce cornflakes, transforming a Sanitarium health food into a global consumer product and rizing the American breakfast through innovative marketing and industrial-scale production.
 
 ## Connection to Vault
 

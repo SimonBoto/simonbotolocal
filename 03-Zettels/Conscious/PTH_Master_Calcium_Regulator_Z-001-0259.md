@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Parathyroid hormone (PTH) is the principal regulator of calcium homeostasis, responding within minutes to serum calcium changes through coordinated actions on bone, kidney, and intestine to maintain calcium within the narrow physiological range.
 
+## Core Principle
+
+> Parathyroid hormone (PTH) is the principal regulator of calcium homeostasis, responding within minutes to serum calcium changes through coordinated actions on bone, kidney, and intestine to maintain calcium within the narrow physiological range.
+
 ## Parathyroid Glands
 
 **Anatomy:**
@@ -26,6 +30,10 @@ extraction-date: 2026-03-01
 **Cell Types:**
 - **Chief cells:** Produce PTH (calcium-sensing)
 - **Oxyphil cells:** Unknown function (increase with age)
+
+## Core Principle
+
+> Parathyroid hormone (PTH) is the principal regulator of calcium homeostasis, responding within minutes to serum calcium changes through coordinated actions on bone, kidney, and intestine to maintain calcium within the narrow physiological range.
 
 ## Calcium-Sensing Receptor (CaSR)
 
@@ -40,6 +48,10 @@ extraction-date: 2026-03-01
 - Responds to 1-2% changes in Ca²⁺
 - Fast response (seconds)
 - Exquisite sensitivity
+
+## Core Principle
+
+> Parathyroid hormone (PTH) is the principal regulator of calcium homeostasis, responding within minutes to serum calcium changes through coordinated actions on bone, kidney, and intestine to maintain calcium within the narrow physiological range.
 
 ## PTH Actions
 
@@ -77,6 +89,10 @@ extraction-date: 2026-03-01
 - Increases intestinal calcium absorption
 - Hours to days effect
 
+## Core Principle
+
+> Parathyroid hormone (PTH) is the principal regulator of calcium homeostasis, responding within minutes to serum calcium changes through coordinated actions on bone, kidney, and intestine to maintain calcium within the narrow physiological range.
+
 ## PTH Feedback Loop
 
 ```
@@ -95,6 +111,10 @@ CaSR → ↑ PTH secretion
       ↓
 CaSR → ↓ PTH secretion
 ```
+
+## Core Principle
+
+> Parathyroid hormone (PTH) is the principal regulator of calcium homeostasis, responding within minutes to serum calcium changes through coordinated actions on bone, kidney, and intestine to maintain calcium within the narrow physiological range.
 
 ##  Relevance
 
@@ -124,12 +144,20 @@ CaSR → ↓ PTH secretion
 *Source: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Parathyroid hormone (PTH) is the principal regulator of calcium homeostasis, responding within minutes to serum calcium changes through coordinated actions on bone, kidney, and intestine to maintain calcium within the narrow physiological range.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - 
 - [[Vitamin_D_PTH_Calcium_Axis_Z-001-1059]|Z-001-1059]
 
 ---
+
+## Core Principle
+
+> Parathyroid hormone (PTH) is the principal regulator of calcium homeostasis, responding within minutes to serum calcium changes through coordinated actions on bone, kidney, and intestine to maintain calcium within the narrow physiological range.
 
 ## Connection to Vault
 

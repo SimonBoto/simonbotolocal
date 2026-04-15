@@ -18,6 +18,10 @@ extraction-date: 2026-04-15
 
 A **metabotype** is an individual's specific metabolic profile that reflects what is actually happening in their body at a given moment under current conditions, manifesting a particular phenotype. It differs fundamentally from genotype, which represents the probability that a genetic variation will be expressed phenotypically.
 
+## Core Principle
+
+A **metabotype** is an individual's specific metabolic profile that reflects what is actually happening in their body at a given moment under current conditions, manifesting a particular phenotype. It differs fundamentally from genotype, which represents the probability that a genetic variation will be expressed phenotypically.
+
 ## Metabotype vs. Genotype
 
 | Feature | Genotype | Metabotype |
@@ -27,6 +31,10 @@ A **metabotype** is an individual's specific metabolic profile that reflects wha
 | **Environmental sensitivity** | Fixed | Highly responsive |
 | **Reflects** | What *could* happen | What *is* happening |
 | **Clinical utility** | Risk prediction | Real-time status monitoring |
+
+## Core Principle
+
+A **metabotype** is an individual's specific metabolic profile that reflects what is actually happening in their body at a given moment under current conditions, manifesting a particular phenotype. It differs fundamentally from genotype, which represents the probability that a genetic variation will be expressed phenotypically.
 
 ## Influencing Factors
 
@@ -51,6 +59,10 @@ A **metabotype** is an individual's specific metabolic profile that reflects wha
 | **Microbiome** | SCFA production, nutrient synthesis |
 | **Environment** | Toxin exposure, temperature |
 
+## Core Principle
+
+A **metabotype** is an individual's specific metabolic profile that reflects what is actually happening in their body at a given moment under current conditions, manifesting a particular phenotype. It differs fundamentally from genotype, which represents the probability that a genetic variation will be expressed phenotypically.
+
 ## Clinical Significance
 
 ### Why Metabotypes Matter for Precision Medicine
@@ -60,6 +72,10 @@ A **metabotype** is an individual's specific metabolic profile that reflects wha
 **Translation:** A single DNA base change can alter specific metabolite concentrations up to 10,000-fold.
 
 **Implication:** Both genetics AND environment (via metabotype) must be considered for individualized therapy.
+
+## Core Principle
+
+A **metabotype** is an individual's specific metabolic profile that reflects what is actually happening in their body at a given moment under current conditions, manifesting a particular phenotype. It differs fundamentally from genotype, which represents the probability that a genetic variation will be expressed phenotypically.
 
 ## METHAP Application
 
@@ -77,6 +93,10 @@ A **metabotype** is an individual's specific metabolic profile that reflects wha
 
 **Expected outcome:** Greater efficacy, fewer non-responders
 
+## Core Principle
+
+A **metabotype** is an individual's specific metabolic profile that reflects what is actually happening in their body at a given moment under current conditions, manifesting a particular phenotype. It differs fundamentally from genotype, which represents the probability that a genetic variation will be expressed phenotypically.
+
 ## HMDB Context
 
 - **220,945** metabolite entries (v5.0)
@@ -85,11 +105,19 @@ A **metabotype** is an individual's specific metabolic profile that reflects wha
 
 This vast chemical diversity underscores why "one size fits all" approaches fail — the metabolic space is enormous and individually variable.
 
+## Core Principle
+
+A **metabotype** is an individual's specific metabolic profile that reflects what is actually happening in their body at a given moment under current conditions, manifesting a particular phenotype. It differs fundamentally from genotype, which represents the probability that a genetic variation will be expressed phenotypically.
+
 ## Links
 
 - **Upstream/Prerequisite:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Environment shapes metabotype
 - **Parallel/Related:** _Logic_B12_Model_Z-001-0911] — Metabotype reflects cofactor status
 - **Downstream/Consequence:** [[Biomarkers_Precision_Medicine_Z-001-0909]] — Metabotype-based biomarker selection
+
+## Core Principle
+
+A **metabotype** is an individual's specific metabolic profile that reflects what is actually happening in their body at a given moment under current conditions, manifesting a particular phenotype. It differs fundamentally from genotype, which represents the probability that a genetic variation will be expressed phenotypically.
 
 ## Context
 
@@ -101,6 +129,10 @@ This vast chemical diversity underscores why "one size fits all" approaches fail
 
 *UID: Z-001-0910 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
 
+## Core Principle
+
+A **metabotype** is an individual's specific metabolic profile that reflects what is actually happening in their body at a given moment under current conditions, manifesting a particular phenotype. It differs fundamentally from genotype, which represents the probability that a genetic variation will be expressed phenotypically.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -109,6 +141,10 @@ This vast chemical diversity underscores why "one size fits all" approaches fail
 
 
 ---
+
+## Core Principle
+
+A **metabotype** is an individual's specific metabolic profile that reflects what is actually happening in their body at a given moment under current conditions, manifesting a particular phenotype. It differs fundamentally from genotype, which represents the probability that a genetic variation will be expressed phenotypically.
 
 ## Connection to Vault
 

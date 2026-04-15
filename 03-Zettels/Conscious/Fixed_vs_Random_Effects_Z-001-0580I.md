@@ -22,6 +22,10 @@ status: conscious
 
 > **Definition:** Fixed-effects and random-effects models are two fundamental statistical approaches for combining effect estimates in meta-analysis, differing in their assumptions about the distribution of true effects across studies.
 
+## Core Principle
+
+> **Definition:** Fixed-effects and random-effects models are two fundamental statistical approaches for combining effect estimates in meta-analysis, differing in their assumptions about the distribution of true effects across studies.
+
 ## Fixed-Effects Model
 
 - **Assumption:** All studies share a common true effect size
@@ -29,12 +33,20 @@ status: conscious
 - **Weighting:** Studies weighted by inverse variance of their effect estimates
 - **Interpretation:** Estimate applies only to studies similar to those included
 
+## Core Principle
+
+> **Definition:** Fixed-effects and random-effects models are two fundamental statistical approaches for combining effect estimates in meta-analysis, differing in their assumptions about the distribution of true effects across studies.
+
 ## Random-Effects Model
 
 - **Assumption:** True effect sizes vary across studies according to a distribution
 - **Appropriate when:** Substantial heterogeneity exists (I² > 50%)
 - **Weighting:** Studies weighted by inverse variance plus estimate of between-study variance (τ²)
 - **Interpretation:** Estimate represents average effect across a population of similar studies
+
+## Core Principle
+
+> **Definition:** Fixed-effects and random-effects models are two fundamental statistical approaches for combining effect estimates in meta-analysis, differing in their assumptions about the distribution of true effects across studies.
 
 ## Key Differences
 
@@ -46,12 +58,20 @@ status: conscious
 | **Heterogeneity handling** | Ignores heterogeneity | Accounts for heterogeneity |
 | **When to use** | Low heterogeneity | Moderate/high heterogeneity |
 
+## Core Principle
+
+> **Definition:** Fixed-effects and random-effects models are two fundamental statistical approaches for combining effect estimates in meta-analysis, differing in their assumptions about the distribution of true effects across studies.
+
 ## Selection Criteria
 
 - **Statistical tests:** I² statistic, Cochran's Q test
 - **Clinical judgment:** Assessment of clinical and methodological heterogeneity
 - **Sensitivity analysis:** Testing robustness of conclusions to model choice
 - **Reporting:** Presenting results from both models when appropriate
+
+## Core Principle
+
+> **Definition:** Fixed-effects and random-effects models are two fundamental statistical approaches for combining effect estimates in meta-analysis, differing in their assumptions about the distribution of true effects across studies.
 
 ## Best Practices
 
@@ -61,6 +81,10 @@ status: conscious
 - Conduct sensitivity analyses to assess model assumptions
 
 ---
+
+## Core Principle
+
+> **Definition:** Fixed-effects and random-effects models are two fundamental statistical approaches for combining effect estimates in meta-analysis, differing in their assumptions about the distribution of true effects across studies.
 
 ## Related Concepts
 

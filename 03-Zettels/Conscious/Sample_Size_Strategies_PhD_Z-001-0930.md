@@ -16,6 +16,10 @@ source-litnote: Synthesized from clinical practice
 
 **Reality:** Most PhD projects cannot achieve 500+ subjects per group. Strategic design allows meaningful science with feasible samples.
 
+## Core Principle
+
+**Reality:** Most PhD projects cannot achieve 500+ subjects per group. Strategic design allows meaningful science with feasible samples.
+
 ## Strategy 1: Phased Discovery/Validation Design
 
 ### Phase 1: Untargeted Discovery (Exploratory)
@@ -52,6 +56,10 @@ Validation (n=40/group): Confirm 20 specific metabolites
 Clinical application: 5-10 validated s
 ```
 
+## Core Principle
+
+**Reality:** Most PhD projects cannot achieve 500+ subjects per group. Strategic design allows meaningful science with feasible samples.
+
 ## Strategy 2: Reduce Variance
 
 ### Strict Inclusion/Exclusion Criteria
@@ -82,6 +90,10 @@ Clinical application: 5-10 validated s
 
 **Impact:** Can reduce CV from 20% to 10%, effectively quadrupling power
 
+## Core Principle
+
+**Reality:** Most PhD projects cannot achieve 500+ subjects per group. Strategic design allows meaningful science with feasible samples.
+
 ## Strategy 3: Paired Designs
 
 ### Within-Subject Comparisons
@@ -107,6 +119,10 @@ Paired: n=50 subjects, measured twice = equivalent power
 - Requires repeated measures ANOVA
 - Very powerful for detecting treatment effects
 
+## Core Principle
+
+**Reality:** Most PhD projects cannot achieve 500+ subjects per group. Strategic design allows meaningful science with feasible samples.
+
 ## Strategy 4: Focus on Extremes
 
 ### Extreme Phenotype Design
@@ -129,6 +145,10 @@ Severe T2DM (HbA1c>9) vs. healthy: Effect size f=0.35, need n=100/group
 - Reduced generalizability to "average" patients
 - Useful for proof-of-concept
 
+## Core Principle
+
+**Reality:** Most PhD projects cannot achieve 500+ subjects per group. Strategic design allows meaningful science with feasible samples.
+
 ## Strategy 5: Multi-Site Collaboration
 
 ### Collaborative Consortia
@@ -147,6 +167,10 @@ Severe T2DM (HbA1c>9) vs. healthy: Effect size f=0.35, need n=100/group
 
 **Benefit:** Can reach required sample sizes impossible for single center
 
+## Core Principle
+
+**Reality:** Most PhD projects cannot achieve 500+ subjects per group. Strategic design allows meaningful science with feasible samples.
+
 ## Strategy 6: Increase Alpha (When Appropriate)
 
 ### Relaxed Significance for Discovery
@@ -163,6 +187,10 @@ Severe T2DM (HbA1c>9) vs. healthy: Effect size f=0.35, need n=100/group
 - Mandatory validation step
 - Independent replication
 - Functional follow-up
+
+## Core Principle
+
+**Reality:** Most PhD projects cannot achieve 500+ subjects per group. Strategic design allows meaningful science with feasible samples.
 
 ## Practical Decision Framework
 
@@ -192,6 +220,10 @@ Severe T2DM (HbA1c>9) vs. healthy: Effect size f=0.35, need n=100/group
 4. Collaborate for larger sample
 5. Extend timeline
 
+## Core Principle
+
+**Reality:** Most PhD projects cannot achieve 500+ subjects per group. Strategic design allows meaningful science with feasible samples.
+
 ## METHAP Recommendation
 
 **For PhD Timeline (3-4 years):**
@@ -209,6 +241,10 @@ Severe T2DM (HbA1c>9) vs. healthy: Effect size f=0.35, need n=100/group
 
 *See also: [[Power_Analysis_Formula_Metabolomics_Z-001-0928]*
 
+## Core Principle
+
+**Reality:** Most PhD projects cannot achieve 500+ subjects per group. Strategic design allows meaningful science with feasible samples.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
@@ -216,6 +252,10 @@ Severe T2DM (HbA1c>9) vs. healthy: Effect size f=0.35, need n=100/group
 
 
 ---
+
+## Core Principle
+
+**Reality:** Most PhD projects cannot achieve 500+ subjects per group. Strategic design allows meaningful science with feasible samples.
 
 ## Connection to Vault
 

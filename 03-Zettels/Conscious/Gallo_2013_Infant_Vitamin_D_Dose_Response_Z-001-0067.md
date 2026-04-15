@@ -29,6 +29,10 @@ Gallo et al. (2013) randomized controlled trial tested 400, 800, 1,200, and 1,60
 
 **Citation:** Gallo S, Comeau K, Vanstone C, et al. JAMA. 2013.
 
+## Core Principle
+
+Gallo et al. (2013) randomized controlled trial tested 400, 800, 1,200, and 1,600 IU/day in infants (1-12 months). Higher doses increased serum 25(OH)D without toxicity. 1,600 IU/day was highest dose tested; 400 IU sufficient for >20 ng/mL in most infants.
+
 ## Links
 
 **Parent MOC:** -Protocols]
@@ -40,10 +44,18 @@ Gallo et al. (2013) randomized controlled trial tested 400, 800, 1,200, and 1,60
 *UID: Z-001-0067 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Gallo et al. (2013) randomized controlled trial tested 400, 800, 1,200, and 1,600 IU/day in infants (1-12 months). Higher doses increased serum 25(OH)D without toxicity. 1,600 IU/day was highest dose tested; 400 IU sufficient for >20 ng/mL in most infants.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Gallo et al. (2013) randomized controlled trial tested 400, 800, 1,200, and 1,600 IU/day in infants (1-12 months). Higher doses increased serum 25(OH)D without toxicity. 1,600 IU/day was highest dose tested; 400 IU sufficient for >20 ng/mL in most infants.
 
 ## Connection to Vault
 

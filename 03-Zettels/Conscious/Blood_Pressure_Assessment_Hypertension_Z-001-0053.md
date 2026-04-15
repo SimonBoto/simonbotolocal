@@ -26,6 +26,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Blood pressure** is a vital sign with profound metabolic implications. Hypertension is both a criterion for metabolic syndrome and a consequence of  resistance. The **optimal target is <120/80 mmHg**, not just the standard <140/90.
+
 ## 🎯 Blood Pressure Categories
 
 | Category | Systolic | Diastolic | Metabolic Risk |
@@ -40,6 +44,10 @@ extraction-date: 2026-04-15
 **Metabolic syndrome threshold:** ≥130/85 mmHg (ATP III criterion)
 
 ---
+
+## Core Principle
+
+**Blood pressure** is a vital sign with profound metabolic implications. Hypertension is both a criterion for metabolic syndrome and a consequence of  resistance. The **optimal target is <120/80 mmHg**, not just the standard <140/90.
 
 ## 🔗 Connected Systems
 
@@ -60,6 +68,10 @@ extraction-date: 2026-04-15
 - [[Kidney_Function_eGFR_Creatinine_Z-009-0001.md] — eGFR (hypertension damages kidneys; kidney disease causes HTN)
 
 ---
+
+## Core Principle
+
+**Blood pressure** is a vital sign with profound metabolic implications. Hypertension is both a criterion for metabolic syndrome and a consequence of  resistance. The **optimal target is <120/80 mmHg**, not just the standard <140/90.
 
 ## 🩺 Clinical Application
 
@@ -89,6 +101,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Blood pressure** is a vital sign with profound metabolic implications. Hypertension is both a criterion for metabolic syndrome and a consequence of  resistance. The **optimal target is <120/80 mmHg**, not just the standard <140/90.
+
 ## 💊 Metabolic Hypertension Intervention
 
 ### Lifestyle (First-line)
@@ -113,6 +129,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Blood pressure** is a vital sign with profound metabolic implications. Hypertension is both a criterion for metabolic syndrome and a consequence of  resistance. The **optimal target is <120/80 mmHg**, not just the standard <140/90.
+
 ## 🔬 PhD-METHAP Relevance
 
 **Primary outcome component:**
@@ -125,6 +145,10 @@ patient_id,visit,sbp_mmhg,dbp_mmhg,bp_status,htn_grade
 ```
 
 ---
+
+## Core Principle
+
+**Blood pressure** is a vital sign with profound metabolic implications. Hypertension is both a criterion for metabolic syndrome and a consequence of  resistance. The **optimal target is <120/80 mmHg**, not just the standard <140/90.
 
 ## 💡 Clinical Pearl
 
@@ -139,6 +163,10 @@ patient_id,visit,sbp_mmhg,dbp_mmhg,bp_status,htn_grade
 *Source: , *
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
+## Core Principle
+
+**Blood pressure** is a vital sign with profound metabolic implications. Hypertension is both a criterion for metabolic syndrome and a consequence of  resistance. The **optimal target is <120/80 mmHg**, not just the standard <140/90.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
@@ -148,6 +176,10 @@ patient_id,visit,sbp_mmhg,dbp_mmhg,bp_status,htn_grade
 
 
 ---
+
+## Core Principle
+
+**Blood pressure** is a vital sign with profound metabolic implications. Hypertension is both a criterion for metabolic syndrome and a consequence of  resistance. The **optimal target is <120/80 mmHg**, not just the standard <140/90.
 
 ## Connection to Vault
 

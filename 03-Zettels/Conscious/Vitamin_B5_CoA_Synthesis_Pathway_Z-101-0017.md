@@ -16,6 +16,10 @@ extraction-date: 2026-03-02
 
 **Core Concept:** Vitamin B5 (pantothenic acid) is the obligate precursor for Coenzyme A (CoA) — essential for fatty acid , TCA cycle, and energy production.
 
+## Core Principle
+
+**Core Concept:** Vitamin B5 (pantothenic acid) is the obligate precursor for Coenzyme A (CoA) — essential for fatty acid , TCA cycle, and energy production.
+
 ## Five-Step Biosynthesis
 
 ### Step 1: Phosphorylation (Rate-Limiting)
@@ -45,9 +49,17 @@ extraction-date: 2026-03-02
 - **Enzyme:** Dephospho-CoA kinase (DPCK)
 - **Significance:** Final phosphate addition completes CoA structure
 
+## Core Principle
+
+**Core Concept:** Vitamin B5 (pantothenic acid) is the obligate precursor for Coenzyme A (CoA) — essential for fatty acid , TCA cycle, and energy production.
+
 ## Net Reaction
 
 **Pantothenate + Cysteine + 4 ATP → CoA + 4 ADP + 3 Pi + PPi + CO₂**
+
+## Core Principle
+
+**Core Concept:** Vitamin B5 (pantothenic acid) is the obligate precursor for Coenzyme A (CoA) — essential for fatty acid , TCA cycle, and energy production.
 
 ## CoA Structure
 
@@ -57,6 +69,10 @@ CoA consists of:
 3. **3'-phosphate ADP** — energy handle
 
 **Reactive site:** Terminal thiol group (-SH) forms thioester bonds with acyl groups
+
+## Core Principle
+
+**Core Concept:** Vitamin B5 (pantothenic acid) is the obligate precursor for Coenzyme A (CoA) — essential for fatty acid , TCA cycle, and energy production.
 
 ##  Disorders
 
@@ -70,6 +86,10 @@ CoA consists of:
 - **Extremely rare** (widespread in foods)
 - **Symptoms:** Fatigue, paresthesias, GI issues
 - **Treatment:** Oral pantothenic acid
+
+## Core Principle
+
+**Core Concept:** Vitamin B5 (pantothenic acid) is the obligate precursor for Coenzyme A (CoA) — essential for fatty acid , TCA cycle, and energy production.
 
 ## CoA Functions
 
@@ -86,11 +106,19 @@ CoA consists of:
 *See also: [[Decarboxylation_Enzymes_Cofactors_Z-101-0018]*
 
 
+## Core Principle
+
+**Core Concept:** Vitamin B5 (pantothenic acid) is the obligate precursor for Coenzyme A (CoA) — essential for fatty acid , TCA cycle, and energy production.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+**Core Concept:** Vitamin B5 (pantothenic acid) is the obligate precursor for Coenzyme A (CoA) — essential for fatty acid , TCA cycle, and energy production.
 
 ## Connection to Vault
 

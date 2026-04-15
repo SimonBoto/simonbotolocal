@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Ancel Keys' Seven Countries Study became the most influential  in  history, establishing the diet-heart hypothesis that linked saturated fat intake to cardiovascular disease and shaped global dietary guidelines for half a century.
 
+## Core Principle
+
+> Ancel Keys' Seven Countries Study became the most influential  in  history, establishing the diet-heart hypothesis that linked saturated fat intake to cardiovascular disease and shaped global dietary guidelines for half a century.
+
 ## Ancel Keys (1904-2004)
 
 **Background:**
@@ -29,6 +33,10 @@ extraction-date: 2026-03-01
 - Proposed 1950s
 - Gained scientific and public traction
 - Became dominant paradigm
+
+## Core Principle
+
+> Ancel Keys' Seven Countries Study became the most influential  in  history, establishing the diet-heart hypothesis that linked saturated fat intake to cardiovascular disease and shaped global dietary guidelines for half a century.
 
 ## Seven Countries Study Design
 
@@ -54,6 +62,10 @@ extraction-date: 2026-03-01
 - Finland (high fat) → High CVD
 - Japan (low fat) → Low CVD
 
+## Core Principle
+
+> Ancel Keys' Seven Countries Study became the most influential  in  history, establishing the diet-heart hypothesis that linked saturated fat intake to cardiovascular disease and shaped global dietary guidelines for half a century.
+
 ## Impact and Influence
 
 **Immediate:**
@@ -71,6 +83,10 @@ extraction-date: 2026-03-01
 - Initiated diet-heart research field
 - Correlation established
 - Causation assumed (later questioned)
+
+## Core Principle
+
+> Ancel Keys' Seven Countries Study became the most influential  in  history, establishing the diet-heart hypothesis that linked saturated fat intake to cardiovascular disease and shaped global dietary guidelines for half a century.
 
 ## Methodological Limitations
 
@@ -96,6 +112,10 @@ extraction-date: 2026-03-01
 - Smoking differences
 - Socioeconomic factors
 
+## Core Principle
+
+> Ancel Keys' Seven Countries Study became the most influential  in  history, establishing the diet-heart hypothesis that linked saturated fat intake to cardiovascular disease and shaped global dietary guidelines for half a century.
+
 ## Modern Reassessment
 
 **Current Evidence:**
@@ -120,10 +140,18 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Dietary_Fat_History_L-001-0210]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Ancel Keys' Seven Countries Study became the most influential  in  history, establishing the diet-heart hypothesis that linked saturated fat intake to cardiovascular disease and shaped global dietary guidelines for half a century.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+> Ancel Keys' Seven Countries Study became the most influential  in  history, establishing the diet-heart hypothesis that linked saturated fat intake to cardiovascular disease and shaped global dietary guidelines for half a century.
 
 ## Connection to Vault
 

@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Homocysteine sits at a critical metabolic crossroads between re to methionine (B12/folate-dependent) and transsulfuration to cysteine (B6-dependent), with elevated levels serving as a cardiovascular risk factor.
 
+## Core Principle
+
+> Homocysteine sits at a critical metabolic crossroads between re to methionine (B12/folate-dependent) and transsulfuration to cysteine (B6-dependent), with elevated levels serving as a cardiovascular risk factor.
+
 ## Pathway 1: Remethylation
 
 ### Methionine Synthase Route (Primary)
@@ -49,6 +53,10 @@ Homocysteine + Betaine → Methionine + Dimethylglycine
 - Upregulated in B12 deficiency
 - Dietary betaine (trimethylglycine) can support
 
+## Core Principle
+
+> Homocysteine sits at a critical metabolic crossroads between re to methionine (B12/folate-dependent) and transsulfuration to cysteine (B6-dependent), with elevated levels serving as a cardiovascular risk factor.
+
 ## Pathway 2: Transsulfuration
 
 ### Step 1: Cystathionine Formation
@@ -76,6 +84,10 @@ Cystathionine → Cysteine + α-ketobutyrate
 - Irreversible pathway
 - Disposes excess homocysteine
 
+## Core Principle
+
+> Homocysteine sits at a critical metabolic crossroads between re to methionine (B12/folate-dependent) and transsulfuration to cysteine (B6-dependent), with elevated levels serving as a cardiovascular risk factor.
+
 ## Regulation
 
 **High Methionine:**
@@ -89,6 +101,10 @@ Cystathionine → Cysteine + α-ketobutyrate
 - CBS inhibited
 - Remethylation favored
 - Net: Homocysteine → Methionine
+
+## Core Principle
+
+> Homocysteine sits at a critical metabolic crossroads between re to methionine (B12/folate-dependent) and transsulfuration to cysteine (B6-dependent), with elevated levels serving as a cardiovascular risk factor.
 
 ##  — Elevated Homocysteine
 
@@ -116,6 +132,10 @@ Cystathionine → Cysteine + α-ketobutyrate
 *Source: [[LitNote_One_Carbon_Metabolism_B12_L-001-0401]*
 
 
+## Core Principle
+
+> Homocysteine sits at a critical metabolic crossroads between re to methionine (B12/folate-dependent) and transsulfuration to cysteine (B6-dependent), with elevated levels serving as a cardiovascular risk factor.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -123,6 +143,10 @@ Cystathionine → Cysteine + α-ketobutyrate
 - 
 
 ---
+
+## Core Principle
+
+> Homocysteine sits at a critical metabolic crossroads between re to methionine (B12/folate-dependent) and transsulfuration to cysteine (B6-dependent), with elevated levels serving as a cardiovascular risk factor.
 
 ## Connection to Vault
 

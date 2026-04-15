@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
 
+## Core Principle
+
+> Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
+
 ## 1. Calcium Homeostasis
 
 ###  Actions
@@ -35,6 +39,10 @@ K2: Directs calcium to bone/away from arteries
     ↓
 Result: Optimal bone mineralization + vascular safety
 ```
+
+## Core Principle
+
+> Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
 
 ## 2. Insulin Sensitivity
 
@@ -57,6 +65,10 @@ K2: Enhances insulin secretion + adipokine profile
 Result: Dual mechanism glucose control
 ```
 
+## Core Principle
+
+> Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
+
 ## 3. Inflammation
 
 ### Vitamin D Actions
@@ -78,6 +90,10 @@ K2: Additional anti-inflammatory layer
 Result: Greater reduction in chronic inflammation
 ```
 
+## Core Principle
+
+> Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
+
 ## 4. Lipid Metabolism
 
 ### Vitamin D Actions
@@ -93,6 +109,10 @@ Result: Greater reduction in chronic inflammation
 ### Synergistic Outcome
 - Complementary lipid benefits
 - Combined cardiovascular protection
+
+## Core Principle
+
+> Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
 
 ## Integration Diagram
 
@@ -115,6 +135,10 @@ Result: Greater reduction in chronic inflammation
                     BENEFITS
 ```
 
+## Core Principle
+
+> Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
+
 ## METHAP Implications
 
 **Multi-Target Approach:**
@@ -132,6 +156,10 @@ Result: Greater reduction in chronic inflammation
 *Source: [[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -139,6 +167,10 @@ Result: Greater reduction in chronic inflammation
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+> Vitamins D and K2 converge on multiple metabolic pathways—calcium homeostasis,  signaling, inflammation, and lipid —creating synergistic effects that exceed their individual contributions to metabolic health.
 
 ## Connection to Vault
 

@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Matrix Gla Protein (MGP) is the body's most potent natural inhibitor of vascular calcification, requiring both -stimulated synthesis and -mediated activation to provide arterial protection.
 
+## Core Principle
+
+> Matrix Gla Protein (MGP) is the body's most potent natural inhibitor of vascular calcification, requiring both -stimulated synthesis and -mediated activation to provide arterial protection.
+
 ## MGP Basics
 
 **Structure:**
@@ -31,6 +35,10 @@ extraction-date: 2026-03-01
 - Requires carboxylation (Glu → Gla)
 - Vitamin K2 as cofactor
 - Creates calcium-binding sites
+
+## Core Principle
+
+> Matrix Gla Protein (MGP) is the body's most potent natural inhibitor of vascular calcification, requiring both -stimulated synthesis and -mediated activation to provide arterial protection.
 
 ## Protective s
 
@@ -49,6 +57,10 @@ extraction-date: 2026-03-01
 - Protects arterial elasticity
 - Prevents mineralization
 
+## Core Principle
+
+> Matrix Gla Protein (MGP) is the body's most potent natural inhibitor of vascular calcification, requiring both -stimulated synthesis and -mediated activation to provide arterial protection.
+
 ## When MGP Fails
 
 **Vitamin K Deficiency:**
@@ -61,6 +73,10 @@ extraction-date: 2026-03-01
 - **cMGP:** Carboxylated (active)
 - **ucMGP:** Uncarboxylated (inactive)
 - **Ratio:** Indicates vascular K status
+
+## Core Principle
+
+> Matrix Gla Protein (MGP) is the body's most potent natural inhibitor of vascular calcification, requiring both -stimulated synthesis and -mediated activation to provide arterial protection.
 
 ## D-K2 Synergy for MGP
 
@@ -85,10 +101,18 @@ extraction-date: 2026-03-01
 *Related: [[MGP_Vascular_Protection_Synergy_Z-001-0255]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Matrix Gla Protein (MGP) is the body's most potent natural inhibitor of vascular calcification, requiring both -stimulated synthesis and -mediated activation to provide arterial protection.
+
 ## RELATED FILES
 - 
 
 ---
+
+## Core Principle
+
+> Matrix Gla Protein (MGP) is the body's most potent natural inhibitor of vascular calcification, requiring both -stimulated synthesis and -mediated activation to provide arterial protection.
 
 ## Connection to Vault
 

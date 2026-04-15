@@ -29,6 +29,10 @@ updated: 2026-03-05
 
 > Genetic polymorphisms in SLCO1B1 and CYP enzymes substantially affect statin pharmacokinetics and myopathy risk, enabling precision dosing.
 
+## Core Principle
+
+> Genetic polymorphisms in SLCO1B1 and CYP enzymes substantially affect statin pharmacokinetics and myopathy risk, enabling precision dosing.
+
 ## SLCO1B1 Gene
 
 **Function:** Encodes OATP1B1 (hepatic uptake transporter)
@@ -42,11 +46,19 @@ updated: 2026-03-05
 - 4-5x increased myopathy risk (simvastatin)
 - FDA recommends lower simvastatin doses
 
+## Core Principle
+
+> Genetic polymorphisms in SLCO1B1 and CYP enzymes substantially affect statin pharmacokinetics and myopathy risk, enabling precision dosing.
+
 ## CYP Enzymes
 
 **CYP3A4/5:**
 - Metabolize atorvastatin, simvastatin, lovastatin
 - Poor metabolizers have higher levels
+
+## Core Principle
+
+> Genetic polymorphisms in SLCO1B1 and CYP enzymes substantially affect statin pharmacokinetics and myopathy risk, enabling precision dosing.
 
 ## Other Variants
 
@@ -57,10 +69,18 @@ updated: 2026-03-05
 **APOE:**
 - E4 carriers may need higher doses
 
+## Core Principle
+
+> Genetic polymorphisms in SLCO1B1 and CYP enzymes substantially affect statin pharmacokinetics and myopathy risk, enabling precision dosing.
+
 ## Pharmaco
 
 - Baseline metabolite profiles predict response
 - Bile acid precursors correlate with efficacy
+
+## Core Principle
+
+> Genetic polymorphisms in SLCO1B1 and CYP enzymes substantially affect statin pharmacokinetics and myopathy risk, enabling precision dosing.
 
 ##  Use
 
@@ -72,11 +92,19 @@ updated: 2026-03-05
 *Source: [[LitNote_Statin_Pharmacology_L-001-0502]*
 
 
+## Core Principle
+
+> Genetic polymorphisms in SLCO1B1 and CYP enzymes substantially affect statin pharmacokinetics and myopathy risk, enabling precision dosing.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Genetic polymorphisms in SLCO1B1 and CYP enzymes substantially affect statin pharmacokinetics and myopathy risk, enabling precision dosing.
 
 ## Connection to Vault
 

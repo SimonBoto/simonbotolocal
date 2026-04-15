@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > MTHFR polymorphisms increase folate requirements and necessitate using 5-methyltetrahydrofolate (methylfolate) rather than folic acid, as methylfolate bypasses the impaired MTHFR enzyme.
 
+## Core Principle
+
+> MTHFR polymorphisms increase folate requirements and necessitate using 5-methyltetrahydrofolate (methylfolate) rather than folic acid, as methylfolate bypasses the impaired MTHFR enzyme.
+
 ## Folate Requirements by Genotype
 
 | Genotype | Folate Requirement | Form |
@@ -23,6 +27,10 @@ extraction-date: 2026-03-01
 | CT or AC | Moderate 600-800 mcg | Methylfolate preferred |
 | TT or CC | High 800-1000+ mcg | Methylfolate required |
 | Compound heterozygote | High 800-1000+ mcg | Methylfolate required |
+
+## Core Principle
+
+> MTHFR polymorphisms increase folate requirements and necessitate using 5-methyltetrahydrofolate (methylfolate) rather than folic acid, as methylfolate bypasses the impaired MTHFR enzyme.
 
 ## Methylfolate (5-MTHF) Advantage
 
@@ -37,6 +45,10 @@ extraction-date: 2026-03-01
 - Impaired in variants
 - Unmetabolized folic acid may accumulate
 - May mask B12 deficiency
+
+## Core Principle
+
+> MTHFR polymorphisms increase folate requirements and necessitate using 5-methyltetrahydrofolate (methylfolate) rather than folic acid, as methylfolate bypasses the impaired MTHFR enzyme.
 
 ## Homocysteine Management
 
@@ -53,6 +65,10 @@ extraction-date: 2026-03-01
 - Adjust dose to target
 - Lifelong if genetic
 
+## Core Principle
+
+> MTHFR polymorphisms increase folate requirements and necessitate using 5-methyltetrahydrofolate (methylfolate) rather than folic acid, as methylfolate bypasses the impaired MTHFR enzyme.
+
 ## METHAP Relevance
 
 **Protocol Design:**
@@ -66,12 +82,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_MTHFR_Genetics_L-001-0403]*
 
 
+## Core Principle
+
+> MTHFR polymorphisms increase folate requirements and necessitate using 5-methyltetrahydrofolate (methylfolate) rather than folic acid, as methylfolate bypasses the impaired MTHFR enzyme.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 - [[Folate_5MTHF_vs_Folic_Acid_Z-004-0002]|Z-004-0002]
 
 ---
+
+## Core Principle
+
+> MTHFR polymorphisms increase folate requirements and necessitate using 5-methyltetrahydrofolate (methylfolate) rather than folic acid, as methylfolate bypasses the impaired MTHFR enzyme.
 
 ## Connection to Vault
 

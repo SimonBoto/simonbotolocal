@@ -19,6 +19,10 @@ Visual summary of tissue-specific regeneration rates, illustrating the body's co
 
 ![[2025-12-26_X_BrettBoettcher_Body_Regeneration_Timeline.jpg]]
 
+## Core Principle
+
+Visual summary of tissue-specific regeneration rates, illustrating the body's continuous self-renewal capacity (Boettcher, 2025).
+
 ## Tissue-Specific Regeneration Rates
 
 ### Gut — Every Few Days
@@ -46,6 +50,10 @@ Visual summary of tissue-specific regeneration rates, illustrating the body's co
 - **Significance:** Metabolic hub with remarkable recovery ability
 - **Clinical relevance:** Liver disease, toxin exposure, partial hepatectomy
 
+## Core Principle
+
+Visual summary of tissue-specific regeneration rates, illustrating the body's continuous self-renewal capacity (Boettcher, 2025).
+
 ## Key Insights
 
 ### Continuous Renewal
@@ -68,11 +76,19 @@ The body is **never static** — complete cellular replacement occurs over time:
 | Blood | Nutrition, bone marrow support | Months |
 | Liver | Remove toxins, metabolic support | Months to years |
 
+## Core Principle
+
+Visual summary of tissue-specific regeneration rates, illustrating the body's continuous self-renewal capacity (Boettcher, 2025).
+
 ## Source
 - **Image:** [[2025-12-26_X_BrettBoettcher_Body_Regeneration_Timeline.jpg]]
 - **Metadata:** [[2025-12-26_X_BrettBoettcher_Body_Regeneration_Timeline]]
 - **Original post:** Brett Boettcher (@brettboettcher1), Dec 26, 2025
 - **Engagement:** 609 likes, 518 bookmarks, 50.4K views
+
+## Core Principle
+
+Visual summary of tissue-specific regeneration rates, illustrating the body's continuous self-renewal capacity (Boettcher, 2025).
 
 ## Connections to Extract
 - [ ] [[Gut_Epithelium_Turnover_Z-XXX-XXXX]] — Intestinal stem cells

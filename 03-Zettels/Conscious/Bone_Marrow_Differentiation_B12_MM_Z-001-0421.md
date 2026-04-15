@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Bone marrow biopsy is diagnostic: B12 deficiency shows megaloblastic erythropoiesis without clonal plasma cells; MM shows >10% clonal plasma cells with light chain restriction.
 
+## Core Principle
+
+> Bone marrow biopsy is diagnostic: B12 deficiency shows megaloblastic erythropoiesis without clonal plasma cells; MM shows >10% clonal plasma cells with light chain restriction.
+
 ## B12 Deficiency Marrow
 
 **Morphology:**
@@ -24,6 +28,10 @@ extraction-date: 2026-03-01
 - **Plasma cells:** Normal, polyclonal (if present)
 - **No malignant infiltration**
 
+## Core Principle
+
+> Bone marrow biopsy is diagnostic: B12 deficiency shows megaloblastic erythropoiesis without clonal plasma cells; MM shows >10% clonal plasma cells with light chain restriction.
+
 ## Multiple Myeloma Marrow
 
 **Morphology:**
@@ -32,6 +40,10 @@ extraction-date: 2026-03-01
 - **Clonality:** Monoclonal (kappa OR lambda restriction)
 - **Atypical features:** Immature nuclei, prominent nucleoli
 - **Malignant infiltration definitive**
+
+## Core Principle
+
+> Bone marrow biopsy is diagnostic: B12 deficiency shows megaloblastic erythropoiesis without clonal plasma cells; MM shows >10% clonal plasma cells with light chain restriction.
 
 ## Flow Cytometry
 
@@ -43,6 +55,10 @@ extraction-date: 2026-03-01
 - Monoclonal plasma cells
 - Aberrant kappa:lambda ratio (>4:1 or <1:4)
 - Light chain restriction
+
+## Core Principle
+
+> Bone marrow biopsy is diagnostic: B12 deficiency shows megaloblastic erythropoiesis without clonal plasma cells; MM shows >10% clonal plasma cells with light chain restriction.
 
 ## Diagnostic Certainty
 
@@ -56,11 +72,19 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_B12_MM_Mimicry_L-001-0404]*
 
 
+## Core Principle
+
+> Bone marrow biopsy is diagnostic: B12 deficiency shows megaloblastic erythropoiesis without clonal plasma cells; MM shows >10% clonal plasma cells with light chain restriction.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Bone marrow biopsy is diagnostic: B12 deficiency shows megaloblastic erythropoiesis without clonal plasma cells; MM shows >10% clonal plasma cells with light chain restriction.
 
 ## Connection to Vault
 

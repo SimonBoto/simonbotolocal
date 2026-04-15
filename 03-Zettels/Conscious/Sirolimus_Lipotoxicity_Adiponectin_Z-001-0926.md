@@ -16,6 +16,10 @@ source-litnote: Synthesized from clinical practice
 
 **Core Mechanism:** Sirolimus impairs adipogenesis and reduces adiponectin while increasing lipolysis, creating systemic lipotoxicity that worsens insulin resistance.
 
+## Core Principle
+
+**Core Mechanism:** Sirolimus impairs adipogenesis and reduces adiponectin while increasing lipolysis, creating systemic lipotoxicity that worsens insulin resistance.
+
 ## Adipose Tissue as Endocrine Organ
 
 **Adipokines Produced:**
@@ -31,6 +35,10 @@ source-litnote: Synthesized from clinical practice
 - Proper lipid storage capacity
 - Balanced adipokine profile
 - Insulin-sensitive glucose uptake
+
+## Core Principle
+
+**Core Mechanism:** Sirolimus impairs adipogenesis and reduces adiponectin while increasing lipolysis, creating systemic lipotoxicity that worsens insulin resistance.
 
 ## Sirolimus Effects on Adipocytes
 
@@ -86,6 +94,10 @@ source-litnote: Synthesized from clinical practice
 - Lipotoxicity in liver and muscle
 - Worsened insulin resistance
 
+## Core Principle
+
+**Core Mechanism:** Sirolimus impairs adipogenesis and reduces adiponectin while increasing lipolysis, creating systemic lipotoxicity that worsens insulin resistance.
+
 ## Lipotoxicity Cascade
 
 ```
@@ -108,6 +120,10 @@ Hepatic IR      Muscle IR       β-cell dysfunction
             Systemic hyperglycemia
 ```
 
+## Core Principle
+
+**Core Mechanism:** Sirolimus impairs adipogenesis and reduces adiponectin while increasing lipolysis, creating systemic lipotoxicity that worsens insulin resistance.
+
 ## FFA-Induced Insulin Resistance Mechanisms
 
 ### In Muscle
@@ -127,6 +143,10 @@ Hepatic IR      Muscle IR       β-cell dysfunction
 - β-cell apoptosis
 - Reduced insulin secretion
 
+## Core Principle
+
+**Core Mechanism:** Sirolimus impairs adipogenesis and reduces adiponectin while increasing lipolysis, creating systemic lipotoxicity that worsens insulin resistance.
+
 ## Clinical Manifestations
 
 **Metabolic:**
@@ -142,6 +162,10 @@ Hepatic IR      Muscle IR       β-cell dysfunction
 - Low adiponectin
 - Elevated FFAs
 - Elevated triglycerides
+
+## Core Principle
+
+**Core Mechanism:** Sirolimus impairs adipogenesis and reduces adiponectin while increasing lipolysis, creating systemic lipotoxicity that worsens insulin resistance.
 
 ## Management Strategies
 
@@ -165,6 +189,10 @@ Hepatic IR      Muscle IR       β-cell dysfunction
 
 *See also: [[mTORC2_Akt_Insulin_Signaling_Z-001-0925]*
 
+## Core Principle
+
+**Core Mechanism:** Sirolimus impairs adipogenesis and reduces adiponectin while increasing lipolysis, creating systemic lipotoxicity that worsens insulin resistance.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -175,6 +203,10 @@ Hepatic IR      Muscle IR       β-cell dysfunction
 
 
 ---
+
+## Core Principle
+
+**Core Mechanism:** Sirolimus impairs adipogenesis and reduces adiponectin while increasing lipolysis, creating systemic lipotoxicity that worsens insulin resistance.
 
 ## Connection to Vault
 

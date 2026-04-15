@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Vascular calcification occurs when vascular smooth muscle cells transform into osteoblast-like cells, depositing hydroxyapatite crystals in arterial walls through processes resembling bone formation.
 
+## Core Principle
+
+> Vascular calcification occurs when vascular smooth muscle cells transform into osteoblast-like cells, depositing hydroxyapatite crystals in arterial walls through processes resembling bone formation.
+
 ## Cellular 
 
 ### Step 1: Phenotypic Transformation
@@ -43,6 +47,10 @@ extraction-date: 2026-03-01
 - Crystal propagation
 - Tissue embedding
 
+## Core Principle
+
+> Vascular calcification occurs when vascular smooth muscle cells transform into osteoblast-like cells, depositing hydroxyapatite crystals in arterial walls through processes resembling bone formation.
+
 ## Promoting Factors
 
 | Factor | Mechanism | Clinical Context |
@@ -53,6 +61,10 @@ extraction-date: 2026-03-01
 | **Diabetes** | Multiple pathways | High prevalence |
 | **Vitamin K deficiency** | Inactive MGP | Low K2 intake |
 | **Aging** | Telomere shortening, senescence | Universal |
+
+## Core Principle
+
+> Vascular calcification occurs when vascular smooth muscle cells transform into osteoblast-like cells, depositing hydroxyapatite crystals in arterial walls through processes resembling bone formation.
 
 ## Inhibitory Factors
 
@@ -75,6 +87,10 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Vascular_Calcification_L-001-0215]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Vascular calcification occurs when vascular smooth muscle cells transform into osteoblast-like cells, depositing hydroxyapatite crystals in arterial walls through processes resembling bone formation.
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -82,6 +98,10 @@ extraction-date: 2026-03-01
 - 
 
 ---
+
+## Core Principle
+
+> Vascular calcification occurs when vascular smooth muscle cells transform into osteoblast-like cells, depositing hydroxyapatite crystals in arterial walls through processes resembling bone formation.
 
 ## Connection to Vault
 

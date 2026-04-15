@@ -30,22 +30,38 @@ IRS proteins ( Receptor Substrates) are cytosolic adapter proteins that bridge a
 
 **Clinical note:** IRS-1 mutations cause severe  (type A). IRS-2 knockout mice develop diabetes due to hepatic insulin resistance + β-cell failure.
 
+## Core Principle
+
+IRS proteins ( Receptor Substrates) are cytosolic adapter proteins that bridge activated INSR to downstream PI3K signaling.
+
 ## Links
 
 - **Upstream:** [[INSR_Autophosphorylation_Mechanism_Z-001-0003]] — INSR activation
 - **Downstream:** [[PI3K_Activation_Mechanism_Z-001-0007]] — Lipid kinase activation
 - **Disease:** [[IRS_Serine_Phosphorylation_Causes_IR_Z-001-0008]] — When recruitment fails
 
+## Core Principle
+
+IRS proteins ( Receptor Substrates) are cytosolic adapter proteins that bridge activated INSR to downstream PI3K signaling.
+
 ## Context
 
 **Also in:** 
 
+
+## Core Principle
+
+IRS proteins ( Receptor Substrates) are cytosolic adapter proteins that bridge activated INSR to downstream PI3K signaling.
 
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+IRS proteins ( Receptor Substrates) are cytosolic adapter proteins that bridge activated INSR to downstream PI3K signaling.
 
 ## Connection to Vault
 

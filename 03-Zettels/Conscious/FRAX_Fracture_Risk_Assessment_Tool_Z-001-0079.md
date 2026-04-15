@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 FRAX® is a fracture risk assessment tool that integrates  risk factors (age, prior fracture, smoking, family history, hormone status) with BMD to guide treatment thresholds. It estimates 10-year probability of major osteoporotic fracture.
 
+## Core Principle
+
+FRAX® is a fracture risk assessment tool that integrates  risk factors (age, prior fracture, smoking, family history, hormone status) with BMD to guide treatment thresholds. It estimates 10-year probability of major osteoporotic fracture.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,10 +34,18 @@ FRAX® is a fracture risk assessment tool that integrates  risk factors (age, pr
 *UID: Z-001-0079 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+FRAX® is a fracture risk assessment tool that integrates  risk factors (age, prior fracture, smoking, family history, hormone status) with BMD to guide treatment thresholds. It estimates 10-year probability of major osteoporotic fracture.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+FRAX® is a fracture risk assessment tool that integrates  risk factors (age, prior fracture, smoking, family history, hormone status) with BMD to guide treatment thresholds. It estimates 10-year probability of major osteoporotic fracture.
 
 ## Connection to Vault
 

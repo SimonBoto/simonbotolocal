@@ -37,6 +37,10 @@ extraction-date: 2026-04-15
 - Urinary Ca/Cr >0.20
 - Symptoms: nausea, confusion, polyuria
 
+## Core Principle
+
+studies (Gallo, Saadi, Gordon, Stoss therapy) demonstrate safety of doses 2-50x RDA with systematic monitoring. Essential parameters: serum 25(OH)D, , phosphate, creatinine/eGFR, urinary calcium/creatinine ratio.
+
 ## Links
 
 **Parent MOC:** 
@@ -48,11 +52,19 @@ extraction-date: 2026-04-15
 *UID: Z-001-0075 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+studies (Gallo, Saadi, Gordon, Stoss therapy) demonstrate safety of doses 2-50x RDA with systematic monitoring. Essential parameters: serum 25(OH)D, , phosphate, creatinine/eGFR, urinary calcium/creatinine ratio.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+studies (Gallo, Saadi, Gordon, Stoss therapy) demonstrate safety of doses 2-50x RDA with systematic monitoring. Essential parameters: serum 25(OH)D, , phosphate, creatinine/eGFR, urinary calcium/creatinine ratio.
 
 ## Connection to Vault
 

@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > The transformation of American dietary fat from animal-based to vegetable oil-based resulted from a convergence of industry marketing, scientific claims about saturated fat, and government dietary guidelines that collectively shifted consumption patterns with potential long-term metabolic consequences.
 
+## Core Principle
+
+> The transformation of American dietary fat from animal-based to vegetable oil-based resulted from a convergence of industry marketing, scientific claims about saturated fat, and government dietary guidelines that collectively shifted consumption patterns with potential long-term metabolic consequences.
+
 ## Timeline of Transformation
 
 | Year | Event | Impact |
@@ -26,6 +30,10 @@ extraction-date: 2026-03-01
 | **1992** | USDA Food Pyramid | Visual low-fat message |
 | **2000s** | Trans fat concerns | Seed oils questioned |
 | **2010s+** | Reassessment | Fat quality > quantity |
+
+## Core Principle
+
+> The transformation of American dietary fat from animal-based to vegetable oil-based resulted from a convergence of industry marketing, scientific claims about saturated fat, and government dietary guidelines that collectively shifted consumption patterns with potential long-term metabolic consequences.
 
 ## Major Industry Players
 
@@ -47,6 +55,10 @@ extraction-date: 2026-03-01
 - Long shelf life
 - Mass production scalable
 
+## Core Principle
+
+> The transformation of American dietary fat from animal-based to vegetable oil-based resulted from a convergence of industry marketing, scientific claims about saturated fat, and government dietary guidelines that collectively shifted consumption patterns with potential long-term metabolic consequences.
+
 ## Government Role
 
 **USDA Dietary Guidelines:**
@@ -67,6 +79,10 @@ extraction-date: 2026-03-01
 - Processed food industry boomed
 - Obesity/diabetes rates rose
 
+## Core Principle
+
+> The transformation of American dietary fat from animal-based to vegetable oil-based resulted from a convergence of industry marketing, scientific claims about saturated fat, and government dietary guidelines that collectively shifted consumption patterns with potential long-term metabolic consequences.
+
 ## al Impact
 
 **Fat Profile Change:**
@@ -82,6 +98,10 @@ extraction-date: 2026-03-01
 - Modern American: 10:1 to 25:1
 - Pro-inflammatory imbalance
 
+## Core Principle
+
+> The transformation of American dietary fat from animal-based to vegetable oil-based resulted from a convergence of industry marketing, scientific claims about saturated fat, and government dietary guidelines that collectively shifted consumption patterns with potential long-term metabolic consequences.
+
 ## Health Consequences (Debated)
 
 **Potential Harms:**
@@ -95,6 +115,10 @@ extraction-date: 2026-03-01
 - Confounded by other factors
 - Industry-funded research bias
 - Independent studies needed
+
+## Core Principle
+
+> The transformation of American dietary fat from animal-based to vegetable oil-based resulted from a convergence of industry marketing, scientific claims about saturated fat, and government dietary guidelines that collectively shifted consumption patterns with potential long-term metabolic consequences.
 
 ## METHAP Relevance
 
@@ -115,6 +139,10 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Dietary_Fat_History_L-001-0210]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> The transformation of American dietary fat from animal-based to vegetable oil-based resulted from a convergence of industry marketing, scientific claims about saturated fat, and government dietary guidelines that collectively shifted consumption patterns with potential long-term metabolic consequences.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
@@ -122,6 +150,10 @@ extraction-date: 2026-03-01
 - [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> The transformation of American dietary fat from animal-based to vegetable oil-based resulted from a convergence of industry marketing, scientific claims about saturated fat, and government dietary guidelines that collectively shifted consumption patterns with potential long-term metabolic consequences.
 
 ## Connection to Vault
 

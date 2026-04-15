@@ -22,12 +22,20 @@ status: conscious
 
 > **Definition:** GRADE (Grading of Recommendations Assessment, Development and Evaluation) is a systematic approach for rating the quality of evidence and strength of recommendations in healthcare, assessing confidence in effect estimates based on study design and methodological limitations.
 
+## Core Principle
+
+> **Definition:** GRADE (Grading of Recommendations Assessment, Development and Evaluation) is a systematic approach for rating the quality of evidence and strength of recommendations in healthcare, assessing confidence in effect estimates based on study design and methodological limitations.
+
 ## Quality Rating Categories
 
 - **High quality:** Very confident that the true effect lies close to the estimate
 - **Moderate quality:** Moderately confident in the effect estimate
 - **Low quality:** Limited confidence in the effect estimate
 - **Very low quality:** Very little confidence in the effect estimate
+
+## Core Principle
+
+> **Definition:** GRADE (Grading of Recommendations Assessment, Development and Evaluation) is a systematic approach for rating the quality of evidence and strength of recommendations in healthcare, assessing confidence in effect estimates based on study design and methodological limitations.
 
 ## Domains for Assessment
 
@@ -37,12 +45,20 @@ status: conscious
 4. **Imprecision:** Wide confidence intervals or small sample sizes
 5. **Publication bias:** Likely unpublished negative studies
 
+## Core Principle
+
+> **Definition:** GRADE (Grading of Recommendations Assessment, Development and Evaluation) is a systematic approach for rating the quality of evidence and strength of recommendations in healthcare, assessing confidence in effect estimates based on study design and methodological limitations.
+
 ## Rating Process
 
 - **Start with study design:** Randomized trials start at high, observational studies at low
 - **Downgrade for limitations:** One or more domains may reduce quality rating
 - **Upgrade for strong evidence:** Large magnitude of effect, dose-response, or confounding
 - **Transparent documentation:** Detailed justification for each rating decision
+
+## Core Principle
+
+> **Definition:** GRADE (Grading of Recommendations Assessment, Development and Evaluation) is a systematic approach for rating the quality of evidence and strength of recommendations in healthcare, assessing confidence in effect estimates based on study design and methodological limitations.
 
 ## Reporting Standards
 
@@ -51,6 +67,10 @@ status: conscious
 - Use of GRADEpro software for standardized reporting
 - Integration with systematic review and meta-analysis
 - Use of PRISMA 2020 guidelines for GRADE reporting
+
+## Core Principle
+
+> **Definition:** GRADE (Grading of Recommendations Assessment, Development and Evaluation) is a systematic approach for rating the quality of evidence and strength of recommendations in healthcare, assessing confidence in effect estimates based on study design and methodological limitations.
 
 ## Best Practices
 
@@ -61,6 +81,10 @@ status: conscious
 - Update ratings when new evidence emerges
 
 ---
+
+## Core Principle
+
+> **Definition:** GRADE (Grading of Recommendations Assessment, Development and Evaluation) is a systematic approach for rating the quality of evidence and strength of recommendations in healthcare, assessing confidence in effect estimates based on study design and methodological limitations.
 
 ## Related Concepts
 

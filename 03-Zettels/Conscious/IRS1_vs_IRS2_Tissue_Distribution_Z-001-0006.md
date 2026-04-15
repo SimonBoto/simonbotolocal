@@ -34,9 +34,17 @@ IRS-1 and IRS-2 are the primary  receptor substrates with distinct tissue distri
 
 **Key insight:** IRS-2 is critical for hepatic glucose control and pancreatic compensation; IRS-1 dominates peripheral glucose uptake.
 
+## Core Principle
+
+IRS-1 and IRS-2 are the primary  receptor substrates with distinct tissue distributions and metabolic functions.
+
 ## Links
 
 - **Upstream:** [[IRS_Protein_Recruitment_Z-001-0005]] — Shared 
+
+## Core Principle
+
+IRS-1 and IRS-2 are the primary  receptor substrates with distinct tissue distributions and metabolic functions.
 
 ## Context
 
@@ -45,12 +53,20 @@ IRS-1 and IRS-2 are the primary  receptor substrates with distinct tissue distri
 **Therapeutic insight:** Tissue-selective IRS activation could treat metabolic disease
 
 
+## Core Principle
+
+IRS-1 and IRS-2 are the primary  receptor substrates with distinct tissue distributions and metabolic functions.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+IRS-1 and IRS-2 are the primary  receptor substrates with distinct tissue distributions and metabolic functions.
 
 ## Connection to Vault
 

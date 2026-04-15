@@ -21,6 +21,10 @@ status: conscious
 
 > **Definition:** Heterogeneity statistics quantify the degree of variability in effect estimates across studies included in a meta-analysis that cannot be attributed to random sampling error alone.
 
+## Core Principle
+
+> **Definition:** Heterogeneity statistics quantify the degree of variability in effect estimates across studies included in a meta-analysis that cannot be attributed to random sampling error alone.
+
 ## Key Statistics
 
 - **Cochran's Q statistic:** Chi-square test for heterogeneity (p < 0.10 indicates significant heterogeneity)
@@ -29,17 +33,29 @@ status: conscious
 - **Tau (τ):** Square root of Tau², representing the standard deviation of true effects
 - **H² statistic:** Ratio of total variation to within-study variation (H² = 1 indicates no heterogeneity)
 
+## Core Principle
+
+> **Definition:** Heterogeneity statistics quantify the degree of variability in effect estimates across studies included in a meta-analysis that cannot be attributed to random sampling error alone.
+
 ## Interpretation Guidelines
 
 - **I² > 50%:** Substantial heterogeneity, warrants investigation of sources
 - **I² > 75%:** Considerable heterogeneity, suggests caution in interpretation
 - **Q statistic p-value < 0.10:** Significant heterogeneity (though insensitive to low study numbers)
 
+## Core Principle
+
+> **Definition:** Heterogeneity statistics quantify the degree of variability in effect estimates across studies included in a meta-analysis that cannot be attributed to random sampling error alone.
+
 ## Sources of Heterogeneity
 
 - **Clinical heterogeneity:** Differences in populations, interventions, outcomes, or settings
 - **Methodological heterogeneity:** Differences in study design, quality, or risk of bias
 - **Statistical heterogeneity:** Differences in effect estimates beyond sampling error
+
+## Core Principle
+
+> **Definition:** Heterogeneity statistics quantify the degree of variability in effect estimates across studies included in a meta-analysis that cannot be attributed to random sampling error alone.
 
 ## Management Strategies
 
@@ -49,6 +65,10 @@ status: conscious
 4. **Interpretation:** Careful consideration of clinical and methodological implications
 
 ---
+
+## Core Principle
+
+> **Definition:** Heterogeneity statistics quantify the degree of variability in effect estimates across studies included in a meta-analysis that cannot be attributed to random sampling error alone.
 
 ## Related Concepts
 

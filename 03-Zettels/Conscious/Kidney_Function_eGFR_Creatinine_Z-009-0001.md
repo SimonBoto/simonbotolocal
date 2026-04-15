@@ -24,6 +24,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Estimated glomerular filtration rate (eGFR)** is the best overall measure of kidney function. **Creatinine** is the filtration marker, but interpretation requires consideration of muscle mass, diet, and medications.
+
 ## 🎯 Reference Ranges
 
 ### eGFR (CKD-EPI Equation)
@@ -51,6 +55,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Estimated glomerular filtration rate (eGFR)** is the best overall measure of kidney function. **Creatinine** is the filtration marker, but interpretation requires consideration of muscle mass, diet, and medications.
+
 ## 🔗 Connected Systems
 
 ** Resistance:**
@@ -63,6 +71,10 @@ extraction-date: 2026-04-15
 - Elevated uric acid → endothelial dysfunction → reduced eGFR
 
 ---
+
+## Core Principle
+
+**Estimated glomerular filtration rate (eGFR)** is the best overall measure of kidney function. **Creatinine** is the filtration marker, but interpretation requires consideration of muscle mass, diet, and medications.
 
 ## 🩺 Clinical Application
 
@@ -86,6 +98,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Estimated glomerular filtration rate (eGFR)** is the best overall measure of kidney function. **Creatinine** is the filtration marker, but interpretation requires consideration of muscle mass, diet, and medications.
+
 ## 🔬 eGFR Equations
 
 ### CKD-EPI (Preferred)
@@ -105,6 +121,10 @@ $$
 
 ---
 
+## Core Principle
+
+**Estimated glomerular filtration rate (eGFR)** is the best overall measure of kidney function. **Creatinine** is the filtration marker, but interpretation requires consideration of muscle mass, diet, and medications.
+
 ## 🔬 PhD-METHAP Relevance
 
 **Safety monitoring:**
@@ -121,6 +141,10 @@ patient_id,visit,creatinine_mg_dl,egfr_ml_min,urea_mg_dl,uric_acid_mg_dl,kidney_
 
 ---
 
+## Core Principle
+
+**Estimated glomerular filtration rate (eGFR)** is the best overall measure of kidney function. **Creatinine** is the filtration marker, but interpretation requires consideration of muscle mass, diet, and medications.
+
 ## 💡 Clinical Pearl
 
 > "Don't trust creatinine alone. An eGFR of 55 in a 70-year-old with creatinine 1.0 is significant CKD. Always calculate eGFR."
@@ -134,6 +158,10 @@ patient_id,visit,creatinine_mg_dl,egfr_ml_min,urea_mg_dl,uric_acid_mg_dl,kidney_
 *Source: , *
 *Created: 2026-02-26 | Domain: 009 | Status: Conscious*
 
+## Core Principle
+
+**Estimated glomerular filtration rate (eGFR)** is the best overall measure of kidney function. **Creatinine** is the filtration marker, but interpretation requires consideration of muscle mass, diet, and medications.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
@@ -141,6 +169,10 @@ patient_id,visit,creatinine_mg_dl,egfr_ml_min,urea_mg_dl,uric_acid_mg_dl,kidney_
 
 
 ---
+
+## Core Principle
+
+**Estimated glomerular filtration rate (eGFR)** is the best overall measure of kidney function. **Creatinine** is the filtration marker, but interpretation requires consideration of muscle mass, diet, and medications.
 
 ## Connection to Vault
 

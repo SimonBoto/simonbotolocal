@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 The muscle-bone unit concept: adequate protein intake enhances muscle strength, which benefits bone through mechanical loading (Wolff's law). Stronger muscles = greater loading forces = stimulated bone formation.
 
+## Core Principle
+
+The muscle-bone unit concept: adequate protein intake enhances muscle strength, which benefits bone through mechanical loading (Wolff's law). Stronger muscles = greater loading forces = stimulated bone formation.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,18 +34,34 @@ The muscle-bone unit concept: adequate protein intake enhances muscle strength, 
 *UID: Z-001-0096 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+The muscle-bone unit concept: adequate protein intake enhances muscle strength, which benefits bone through mechanical loading (Wolff's law). Stronger muscles = greater loading forces = stimulated bone formation.
+
 ## Related
 - [[Battle_Creek_Sanitarium_John_Harvey_Kellogg_Z-001-0249]|Z-001-0249]
 
+
+## Core Principle
+
+The muscle-bone unit concept: adequate protein intake enhances muscle strength, which benefits bone through mechanical loading (Wolff's law). Stronger muscles = greater loading forces = stimulated bone formation.
 
 ## Related
 - [[Kellogg_Company_Founding_1906_Z-001-0252]|Z-001-0252]
 
 
+## Core Principle
+
+The muscle-bone unit concept: adequate protein intake enhances muscle strength, which benefits bone through mechanical loading (Wolff's law). Stronger muscles = greater loading forces = stimulated bone formation.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+The muscle-bone unit concept: adequate protein intake enhances muscle strength, which benefits bone through mechanical loading (Wolff's law). Stronger muscles = greater loading forces = stimulated bone formation.
 
 ## Connection to Vault
 

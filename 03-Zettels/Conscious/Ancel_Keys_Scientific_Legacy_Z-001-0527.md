@@ -15,16 +15,28 @@ extraction-date: 2026-03-01
 
 > Ancel Keys (1904-2004) developed the diet-heart hypothesis that dietary saturated fat causes cardiovascular disease, shaping global  policy for decades through ambitious studies and charismatic advocacy.
 
+## Core Principle
+
+> Ancel Keys (1904-2004) developed the diet-heart hypothesis that dietary saturated fat causes cardiovascular disease, shaping global  policy for decades through ambitious studies and charismatic advocacy.
+
 ## Biography
 
 - PhD UC Berkeley
 - Developed K-rations
 - Studied high-altitude physiology
 
+## Core Principle
+
+> Ancel Keys (1904-2004) developed the diet-heart hypothesis that dietary saturated fat causes cardiovascular disease, shaping global  policy for decades through ambitious studies and charismatic advocacy.
+
 ## The Lipid Hypothesis
 
 **Core Claim:**
 SFA → ↑  → Atherosclerosis → CHD
+
+## Core Principle
+
+> Ancel Keys (1904-2004) developed the diet-heart hypothesis that dietary saturated fat causes cardiovascular disease, shaping global  policy for decades through ambitious studies and charismatic advocacy.
 
 ## Key Studies
 
@@ -37,12 +49,20 @@ SFA → ↑  → Atherosclerosis → CHD
 - 50-year follow-up
 - Most influential nutrition study
 
+## Core Principle
+
+> Ancel Keys (1904-2004) developed the diet-heart hypothesis that dietary saturated fat causes cardiovascular disease, shaping global  policy for decades through ambitious studies and charismatic advocacy.
+
 ## Advocacy
 
 - AHA committee 1956
 - Time cover 1961
 - McGovern Committee 1977
 - Lived to age 100
+
+## Core Principle
+
+> Ancel Keys (1904-2004) developed the diet-heart hypothesis that dietary saturated fat causes cardiovascular disease, shaping global  policy for decades through ambitious studies and charismatic advocacy.
 
 ## Legacy
 
@@ -61,10 +81,18 @@ SFA → ↑  → Atherosclerosis → CHD
 *Source: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]*
 
 
+## Core Principle
+
+> Ancel Keys (1904-2004) developed the diet-heart hypothesis that dietary saturated fat causes cardiovascular disease, shaping global  policy for decades through ambitious studies and charismatic advocacy.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+> Ancel Keys (1904-2004) developed the diet-heart hypothesis that dietary saturated fat causes cardiovascular disease, shaping global  policy for decades through ambitious studies and charismatic advocacy.
 
 ## Connection to Vault
 

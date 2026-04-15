@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Magnesium deficiency affects approximately half of the population in developed countries, driven by modern dietary patterns, agricultural practices, and medication use, with particularly high rates in metabolic syndrome and diabetes.
 
+## Core Principle
+
+> Magnesium deficiency affects approximately half of the population in developed countries, driven by modern dietary patterns, agricultural practices, and medication use, with particularly high rates in metabolic syndrome and diabetes.
+
 ## Population Prevalence
 
 ### United States NHANES Data
@@ -36,6 +40,10 @@ extraction-date: 2026-03-01
 | **Alcoholics** | 30-60% | Poor nutrition, increased excretion |
 | **GI disorders** | Variable | Malabsorption, chronic diarrhea |
 | **Athletes** | Variable | Increased losses in sweat |
+
+## Core Principle
+
+> Magnesium deficiency affects approximately half of the population in developed countries, driven by modern dietary patterns, agricultural practices, and medication use, with particularly high rates in metabolic syndrome and diabetes.
 
 ## Causes of Modern Magnesium Deficiency
 
@@ -101,6 +109,10 @@ extraction-date: 2026-03-01
 - Inflammatory cytokines affect Mg distribution
 - Oxidative stress depletes Mg
 
+## Core Principle
+
+> Magnesium deficiency affects approximately half of the population in developed countries, driven by modern dietary patterns, agricultural practices, and medication use, with particularly high rates in metabolic syndrome and diabetes.
+
 ## Clinical Consequences of Population Deficiency
 
 **Public Health Impact:**
@@ -114,6 +126,10 @@ extraction-date: 2026-03-01
 - Low-cost intervention (Mg supplementation)
 - Potential for significant disease prevention
 - Underrecognized in clinical practice
+
+## Core Principle
+
+> Magnesium deficiency affects approximately half of the population in developed countries, driven by modern dietary patterns, agricultural practices, and medication use, with particularly high rates in metabolic syndrome and diabetes.
 
 ## METHAP Screening Implications
 
@@ -133,6 +149,10 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 
+## Core Principle
+
+> Magnesium deficiency affects approximately half of the population in developed countries, driven by modern dietary patterns, agricultural practices, and medication use, with particularly high rates in metabolic syndrome and diabetes.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
@@ -141,6 +161,10 @@ extraction-date: 2026-03-01
 - [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> Magnesium deficiency affects approximately half of the population in developed countries, driven by modern dietary patterns, agricultural practices, and medication use, with particularly high rates in metabolic syndrome and diabetes.
 
 ## Connection to Vault
 

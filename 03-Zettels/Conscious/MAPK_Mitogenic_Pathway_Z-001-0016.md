@@ -38,10 +38,18 @@ created: 2026-02-22
 - Some insulin analogs have differential pathway activation
 -  cells exploit mitogenic signaling
 
+## Core Principle
+
+activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
+
 ## Links
 
 - **Upstream:** [[Insulin_Receptor_Structure_Z-001-0001]] — Receptor source
 - **Parallel:** _Z-001-0007] — Metabolic pathway
+
+## Core Principle
+
+activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
 
 ## Context
 
@@ -50,10 +58,18 @@ created: 2026-02-22
 **Note:** MAPK pathway does not directly mediate glucose transport
 
 
+## Core Principle
+
+activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+activates the Ras/MAPK pathway for mitogenic (growth) responses, distinct from metabolic signaling via PI3K.
 
 ## Connection to Vault
 

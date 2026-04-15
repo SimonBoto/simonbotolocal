@@ -17,6 +17,10 @@ extraction-date: 2026-04-15
 
 Nicotine consists of a **pyrrolidine ring** (5-membered, 5 carbons) fused to a **pyridine ring** (6-membered, 6 carbons). The fusion mechanism — how these two rings join — was the final missing piece of the nicotine biosynthesis puzzle, elucidated after nearly 200 years.
 
+## Core Principle
+
+Nicotine consists of a **pyrrolidine ring** (5-membered, 5 carbons) fused to a **pyridine ring** (6-membered, 6 carbons). The fusion mechanism — how these two rings join — was the final missing piece of the nicotine biosynthesis puzzle, elucidated after nearly 200 years.
+
 ## Key Properties
 
 | Ring | Carbons | Structure | Origin |
@@ -24,15 +28,27 @@ Nicotine consists of a **pyrrolidine ring** (5-membered, 5 carbons) fused to a *
 | Pyrrolidine | 5 | 5-membered nitrogen heterocycle | Ornithine via putrescine |
 | Pyridine | 6 | 6-membered nitrogen heterocycle | Aspartate via niacin |
 
+## Core Principle
+
+Nicotine consists of a **pyrrolidine ring** (5-membered, 5 carbons) fused to a **pyridine ring** (6-membered, 6 carbons). The fusion mechanism — how these two rings join — was the final missing piece of the nicotine biosynthesis puzzle, elucidated after nearly 200 years.
+
 ## The Fusion Problem
 
 Scientists knew how each ring was made individually, but **not how they join together**. The discovery of enzyme A622's role in creating a reactive intermediate that attacks the pyrrolidine ring solved this.
+
+## Core Principle
+
+Nicotine consists of a **pyrrolidine ring** (5-membered, 5 carbons) fused to a **pyridine ring** (6-membered, 6 carbons). The fusion mechanism — how these two rings join — was the final missing piece of the nicotine biosynthesis puzzle, elucidated after nearly 200 years.
 
 ## Significance
 
 - **Structural basis** for nicotine's pharmacological activity
 - **Biosynthetic target** for metabolic engineering
 - **Evolutionary insight** into alkaloid diversification
+
+## Core Principle
+
+Nicotine consists of a **pyrrolidine ring** (5-membered, 5 carbons) fused to a **pyridine ring** (6-membered, 6 carbons). The fusion mechanism — how these two rings join — was the final missing piece of the nicotine biosynthesis puzzle, elucidated after nearly 200 years.
 
 ## Source
 [[LitNote_McCarty_Nicotine_Biosynthesis_2026_L-001-0606]] — McCarty (2026) summarizing Cell paper

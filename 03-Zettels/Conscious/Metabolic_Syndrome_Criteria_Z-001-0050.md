@@ -25,6 +25,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Metabolic Syndrome** (Syndrome X, Insulin Resistance Syndrome) is a cluster of cardiovascular risk factors with insulin resistance as the underlying mechanism. Diagnosis requires **3 of 5 ATP III criteria**.
+
 ## 🎯 ATP III Criteria (2001 Revised NCEP)
 
 | # | Risk Factor | Defining Level | Optimal Target |
@@ -38,6 +42,10 @@ extraction-date: 2026-04-15
 **Diagnosis:** ≥3 of 5 criteria present
 
 ---
+
+## Core Principle
+
+**Metabolic Syndrome** (Syndrome X, Insulin Resistance Syndrome) is a cluster of cardiovascular risk factors with insulin resistance as the underlying mechanism. Diagnosis requires **3 of 5 ATP III criteria**.
 
 ## 🔗 Connected s
 
@@ -55,6 +63,10 @@ extraction-date: 2026-04-15
 - [[Predictive_Metabolites_T1D_Example_Z-001-0019.md] — Inflammatory signaling (visceral fat cytokines)
 
 ---
+
+## Core Principle
+
+**Metabolic Syndrome** (Syndrome X, Insulin Resistance Syndrome) is a cluster of cardiovascular risk factors with insulin resistance as the underlying mechanism. Diagnosis requires **3 of 5 ATP III criteria**.
 
 ## 🩺 Clinical Application
 
@@ -96,6 +108,10 @@ Compensatory hyperinsulinemia (HOMA-β ↑ initially)
 
 ---
 
+## Core Principle
+
+**Metabolic Syndrome** (Syndrome X, Insulin Resistance Syndrome) is a cluster of cardiovascular risk factors with insulin resistance as the underlying mechanism. Diagnosis requires **3 of 5 ATP III criteria**.
+
 ## 📊 Clinical Scenarios
 
 ### Scenario 1: Full Metabolic Syndrome
@@ -124,6 +140,10 @@ Compensatory hyperinsulinemia (HOMA-β ↑ initially)
 
 ---
 
+## Core Principle
+
+**Metabolic Syndrome** (Syndrome X, Insulin Resistance Syndrome) is a cluster of cardiovascular risk factors with insulin resistance as the underlying mechanism. Diagnosis requires **3 of 5 ATP III criteria**.
+
 ## 🔬 Variations and Caveats
 
 ### IDF Definition (2005)
@@ -143,6 +163,10 @@ Compensatory hyperinsulinemia (HOMA-β ↑ initially)
 
 ---
 
+## Core Principle
+
+**Metabolic Syndrome** (Syndrome X, Insulin Resistance Syndrome) is a cluster of cardiovascular risk factors with insulin resistance as the underlying mechanism. Diagnosis requires **3 of 5 ATP III criteria**.
+
 ## 🔬 PhD-METHAP Relevance
 
 **Primary hypothesis:**
@@ -160,6 +184,10 @@ patient_id,visit,waist_cm,tg_mg_dl,hdl_c_mg_dl,sbp_mmhg,dbp_mmhg,glucose_mg_dl,m
 
 ---
 
+## Core Principle
+
+**Metabolic Syndrome** (Syndrome X, Insulin Resistance Syndrome) is a cluster of cardiovascular risk factors with insulin resistance as the underlying mechanism. Diagnosis requires **3 of 5 ATP III criteria**.
+
 ## 💡 Clinical Pearl
 
 > "Metabolic syndrome is a checklist, but think of it as a story. The story is: visceral fat → inflammation → insulin resistance → β-cell burnout → diabetes. Your job is to interrupt the story as early as possible."
@@ -167,6 +195,10 @@ patient_id,visit,waist_cm,tg_mg_dl,hdl_c_mg_dl,sbp_mmhg,dbp_mmhg,glucose_mg_dl,m
 > "Don't wait for 3 criteria. At 2 criteria with central obesity, you're already on the path. Intervene then."
 
 ---
+
+## Core Principle
+
+**Metabolic Syndrome** (Syndrome X, Insulin Resistance Syndrome) is a cluster of cardiovascular risk factors with insulin resistance as the underlying mechanism. Diagnosis requires **3 of 5 ATP III criteria**.
 
 ## Data Export (METHAP)
 
@@ -179,6 +211,10 @@ patient_id,visit,waist_cm,tg_mg_dl,hdl_c_mg_dl,sbp,dbp,glucose,criteria_count,me
 *Source: , *
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
+## Core Principle
+
+**Metabolic Syndrome** (Syndrome X, Insulin Resistance Syndrome) is a cluster of cardiovascular risk factors with insulin resistance as the underlying mechanism. Diagnosis requires **3 of 5 ATP III criteria**.
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -188,10 +224,18 @@ patient_id,visit,waist_cm,tg_mg_dl,hdl_c_mg_dl,sbp,dbp,glucose,criteria_count,me
 
 
 
+## Core Principle
+
+**Metabolic Syndrome** (Syndrome X, Insulin Resistance Syndrome) is a cluster of cardiovascular risk factors with insulin resistance as the underlying mechanism. Diagnosis requires **3 of 5 ATP III criteria**.
+
 ## Related
 - [[Gordon_2008_Adolescent_High_Dose_Protocol_Z-001-0070]|Z-001-0070]
 
 ---
+
+## Core Principle
+
+**Metabolic Syndrome** (Syndrome X, Insulin Resistance Syndrome) is a cluster of cardiovascular risk factors with insulin resistance as the underlying mechanism. Diagnosis requires **3 of 5 ATP III criteria**.
 
 ## Connection to Vault
 

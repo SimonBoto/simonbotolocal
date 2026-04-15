@@ -19,6 +19,10 @@ Participants must provide voluntary, informed consent after understanding risks,
 
 **Core principle:** Respect for persons requires that individuals make autonomous decisions about participation based on adequate information and free from coercion.
 
+## Core Principle
+
+Participants must provide voluntary, informed consent after understanding risks, benefits, and alternatives. Consent is necessary but not sufficient for ethical research.
+
 ## Valid Consent Elements
 
 | Element | Requirement |
@@ -29,6 +33,10 @@ Participants must provide voluntary, informed consent after understanding risks,
 | **Competence** | Participant has decision-making capacity |
 | **Specificity** | Consent for this specific study |
 | **Revocability** | Right to withdraw without penalty |
+
+## Core Principle
+
+Participants must provide voluntary, informed consent after understanding risks, benefits, and alternatives. Consent is necessary but not sufficient for ethical research.
 
 ## Required Information
 
@@ -41,6 +49,10 @@ Participants must provide voluntary, informed consent after understanding risks,
 - Contact information for questions
 - Voluntary nature and right to withdraw
 
+## Core Principle
+
+Participants must provide voluntary, informed consent after understanding risks, benefits, and alternatives. Consent is necessary but not sufficient for ethical research.
+
 ## Consent Challenges
 
 | Challenge | Mitigation |
@@ -50,6 +62,10 @@ Participants must provide voluntary, informed consent after understanding risks,
 | **Vulnerability** | Enhanced protections, independent advocate |
 | **Time pressure** | Adequate time for decision, no rush |
 
+## Core Principle
+
+Participants must provide voluntary, informed consent after understanding risks, benefits, and alternatives. Consent is necessary but not sufficient for ethical research.
+
 ## Application to METHAP
 
 METHAP consent requirements:
@@ -58,6 +74,10 @@ METHAP consent requirements:
 - **Benefits:** No direct benefit, contribution to science
 - **Alternatives:** Standard  care without research participation
 - **Withdrawal:** Can exit anytime without affecting clinical care
+
+## Core Principle
+
+Participants must provide voluntary, informed consent after understanding risks, benefits, and alternatives. Consent is necessary but not sufficient for ethical research.
 
 ## Links
 
@@ -70,11 +90,19 @@ METHAP consent requirements:
 *UID: Z-002-0606 | Domain: 002 | Created: 2026-03-27*
 
 
+## Core Principle
+
+Participants must provide voluntary, informed consent after understanding risks, benefits, and alternatives. Consent is necessary but not sufficient for ethical research.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+Participants must provide voluntary, informed consent after understanding risks, benefits, and alternatives. Consent is necessary but not sufficient for ethical research.
 
 ## Connection to Vault
 

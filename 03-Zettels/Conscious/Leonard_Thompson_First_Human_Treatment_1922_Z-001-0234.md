@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > On January 23, 1922, 14-year-old Leonard Thompson became the first human to receive effective insulin treatment, marking the moment when  transformed from a fatal disease to a manageable condition.
 
+## Core Principle
+
+> On January 23, 1922, 14-year-old Leonard Thompson became the first human to receive effective insulin treatment, marking the moment when  transformed from a fatal disease to a manageable condition.
+
 ## Leonard Thompson (1908-1935)
 
 **Background:**
@@ -29,6 +33,10 @@ extraction-date: 2026-03-01
 - Severe wasting/cachexia
 - Little time remaining
 - Parents desperate
+
+## Core Principle
+
+> On January 23, 1922, 14-year-old Leonard Thompson became the first human to receive effective insulin treatment, marking the moment when  transformed from a fatal disease to a manageable condition.
 
 ## First Injection Attempt (January 11, 1922)
 
@@ -47,6 +55,10 @@ extraction-date: 2026-03-01
 - Treatment paused
 - Need for better purification
 - James Collip intensified efforts
+
+## Core Principle
+
+> On January 23, 1922, 14-year-old Leonard Thompson became the first human to receive effective insulin treatment, marking the moment when  transformed from a fatal disease to a manageable condition.
 
 ## Successful Treatment (January 23, 1922)
 
@@ -67,6 +79,10 @@ extraction-date: 2026-03-01
 - Discharged from hospital
 - Lived 13 more years (died 1935, age 27, of pneumonia)
 
+## Core Principle
+
+> On January 23, 1922, 14-year-old Leonard Thompson became the first human to receive effective insulin treatment, marking the moment when  transformed from a fatal disease to a manageable condition.
+
 ## Significance
 
 **Medical:**
@@ -83,6 +99,10 @@ extraction-date: 2026-03-01
 - Represented millions who would benefit
 - "Miracle cure" narrative
 - Hope for previously hopeless condition
+
+## Core Principle
+
+> On January 23, 1922, 14-year-old Leonard Thompson became the first human to receive effective insulin treatment, marking the moment when  transformed from a fatal disease to a manageable condition.
 
 ## Legacy
 
@@ -101,6 +121,10 @@ extraction-date: 2026-03-01
 - Historical significance recognized
 - Represents all pre-insulin patients
 - Symbol of medical progress
+
+## Core Principle
+
+> On January 23, 1922, 14-year-old Leonard Thompson became the first human to receive effective insulin treatment, marking the moment when  transformed from a fatal disease to a manageable condition.
 
 ## Contrast with Pre-Insulin Era
 
@@ -126,11 +150,19 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Insulin_History_L-001-0207]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> On January 23, 1922, 14-year-old Leonard Thompson became the first human to receive effective insulin treatment, marking the moment when  transformed from a fatal disease to a manageable condition.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> On January 23, 1922, 14-year-old Leonard Thompson became the first human to receive effective insulin treatment, marking the moment when  transformed from a fatal disease to a manageable condition.
 
 ## Connection to Vault
 

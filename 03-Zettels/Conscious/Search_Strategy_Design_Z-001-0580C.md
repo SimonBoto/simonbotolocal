@@ -21,6 +21,10 @@ status: conscious
 
 > **Definition:** A search strategy is a systematic, reproducible plan for identifying all relevant studies on a specific research question, incorporating appropriate search terms, filters, and database-specific syntax.
 
+## Core Principle
+
+> **Definition:** A search strategy is a systematic, reproducible plan for identifying all relevant studies on a specific research question, incorporating appropriate search terms, filters, and database-specific syntax.
+
 ## Key Components
 
 - **Search terms:** Combination of controlled vocabulary (MeSH, EMTREE) and free-text terms
@@ -28,6 +32,10 @@ status: conscious
 - **Truncation and wildcards:** To capture variant word endings and spelling variations
 - **Filters and limits:** Application of appropriate study design, language, and date filters
 - **Database-specific syntax:** Adapting strategy to different database search interfaces
+
+## Core Principle
+
+> **Definition:** A search strategy is a systematic, reproducible plan for identifying all relevant studies on a specific research question, incorporating appropriate search terms, filters, and database-specific syntax.
 
 ## Development Process
 
@@ -37,6 +45,10 @@ status: conscious
 4. **Testing and refinement:** Iteratively testing and adjusting the strategy
 5. **Documentation:** Comprehensive reporting of search terms and syntax
 
+## Core Principle
+
+> **Definition:** A search strategy is a systematic, reproducible plan for identifying all relevant studies on a specific research question, incorporating appropriate search terms, filters, and database-specific syntax.
+
 ## Database-Specific Considerations
 
 - **PubMed/MEDLINE:** MeSH terms, subheadings, and PubMed-specific filters
@@ -44,6 +56,10 @@ status: conscious
 - **Cochrane Library:** Title/abstract/keywords, and Cochrane-specific filters
 - **Web of Science:** Topic fields and citation tracking capabilities
 - **Scopus:** Title/abstract/keywords fields and citation analysis features
+
+## Core Principle
+
+> **Definition:** A search strategy is a systematic, reproducible plan for identifying all relevant studies on a specific research question, incorporating appropriate search terms, filters, and database-specific syntax.
 
 ## Reporting Requirements
 
@@ -53,6 +69,10 @@ status: conscious
 - Use of PRISMA 2020 search reporting guidelines
 
 ---
+
+## Core Principle
+
+> **Definition:** A search strategy is a systematic, reproducible plan for identifying all relevant studies on a specific research question, incorporating appropriate search terms, filters, and database-specific syntax.
 
 ## Related Concepts
 

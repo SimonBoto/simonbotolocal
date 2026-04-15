@@ -24,6 +24,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Hashimoto's thyroiditis** is the most common cause of hypothyroidism. **Anti-TPO (thyroid peroxidase)** and **Anti-TG (thyroglobulin)** antibodies mark the autoimmune attack. Early detection allows intervention before overt hypothyroidism develops.
+
 ## 🎯 Antibody Thresholds
 
 ### Anti-TPO (Thyroid Peroxidase Antibodies)
@@ -45,6 +49,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Hashimoto's thyroiditis** is the most common cause of hypothyroidism. **Anti-TPO (thyroid peroxidase)** and **Anti-TG (thyroglobulin)** antibodies mark the autoimmune attack. Early detection allows intervention before overt hypothyroidism develops.
+
 ## 🔗 Connected Systems
 
 **Thyroid Function:**
@@ -60,6 +68,10 @@ extraction-date: 2026-04-15
 - [[HOMA_IR_Calculation_Interpretation_Z-001-0046.md] — HOMA-IR (often elevated in hypothyroidism)
 
 ---
+
+## Core Principle
+
+**Hashimoto's thyroiditis** is the most common cause of hypothyroidism. **Anti-TPO (thyroid peroxidase)** and **Anti-TG (thyroglobulin)** antibodies mark the autoimmune attack. Early detection allows intervention before overt hypothyroidism develops.
 
 ## 🩺 Clinical Patterns
 
@@ -98,6 +110,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Hashimoto's thyroiditis** is the most common cause of hypothyroidism. **Anti-TPO (thyroid peroxidase)** and **Anti-TG (thyroglobulin)** antibodies mark the autoimmune attack. Early detection allows intervention before overt hypothyroidism develops.
+
 ## 💊 Intervention Strategies
 
 ### Early Stage (Antibodies elevated, thyroid function normal)
@@ -114,6 +130,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Hashimoto's thyroiditis** is the most common cause of hypothyroidism. **Anti-TPO (thyroid peroxidase)** and **Anti-TG (thyroglobulin)** antibodies mark the autoimmune attack. Early detection allows intervention before overt hypothyroidism develops.
+
 ## 🔬 PhD-METHAP Relevance
 
 **Autoimmune subgroup:**
@@ -128,6 +148,10 @@ patient_id,visit,anti_tpo_iu_ml,anti_tg_iu_ml,hashimoto_status
 
 ---
 
+## Core Principle
+
+**Hashimoto's thyroiditis** is the most common cause of hypothyroidism. **Anti-TPO (thyroid peroxidase)** and **Anti-TG (thyroglobulin)** antibodies mark the autoimmune attack. Early detection allows intervention before overt hypothyroidism develops.
+
 ## 💡 Clinical Pearl
 
 > "Anti-TPO can be elevated years before TSH rises. I screen it in anyone with family history of thyroid disease, unexplained fatigue, or metabolic syndrome. Catch it early, intervene with selenium and VitD, sometimes you can slow or halt progression."
@@ -139,6 +163,10 @@ patient_id,visit,anti_tpo_iu_ml,anti_tg_iu_ml,hashimoto_status
 *Source: , *
 *Created: 2026-02-26 | Domain: 005 | Status: Conscious*
 
+## Core Principle
+
+**Hashimoto's thyroiditis** is the most common cause of hypothyroidism. **Anti-TPO (thyroid peroxidase)** and **Anti-TG (thyroglobulin)** antibodies mark the autoimmune attack. Early detection allows intervention before overt hypothyroidism develops.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[CRP_[B-002-0001]|Biomarker Family]
@@ -149,6 +177,10 @@ patient_id,visit,anti_tpo_iu_ml,anti_tg_iu_ml,hashimoto_status
 
 
 ---
+
+## Core Principle
+
+**Hashimoto's thyroiditis** is the most common cause of hypothyroidism. **Anti-TPO (thyroid peroxidase)** and **Anti-TG (thyroglobulin)** antibodies mark the autoimmune attack. Early detection allows intervention before overt hypothyroidism develops.
 
 ## Connection to Vault
 

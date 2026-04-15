@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > The "calcium paradox" describes the phenomenon where increased calcium intake or absorption does not always improve  and may instead promote arterial calcification. The D-K2 synergy resolves this paradox by ensuring calcium is directed to bone while prevented from depositing in arteries.
 
+## Core Principle
+
+> The "calcium paradox" describes the phenomenon where increased calcium intake or absorption does not always improve  and may instead promote arterial calcification. The D-K2 synergy resolves this paradox by ensuring calcium is directed to bone while prevented from depositing in arteries.
+
 ## The Calcium Paradox
 
 **Observation:**
@@ -41,6 +45,10 @@ Goes WHERE?
 - Soft tissue calcification (kidneys, joints)
 - Associated with increased CVD mortality
 
+## Core Principle
+
+> The "calcium paradox" describes the phenomenon where increased calcium intake or absorption does not always improve  and may instead promote arterial calcification. The D-K2 synergy resolves this paradox by ensuring calcium is directed to bone while prevented from depositing in arteries.
+
 ## Root Causes
 
 ### 1. Insufficient 
@@ -57,6 +65,10 @@ Goes WHERE?
 - Calcium alone
 - D alone
 - Without K2: Risk of paradox
+
+## Core Principle
+
+> The "calcium paradox" describes the phenomenon where increased calcium intake or absorption does not always improve  and may instead promote arterial calcification. The D-K2 synergy resolves this paradox by ensuring calcium is directed to bone while prevented from depositing in arteries.
 
 ## D-K2 Solution
 
@@ -83,6 +95,10 @@ Vitamin K2: Directs to bone, blocks arteries
 Result: Strong bones + Clear arteries
 ```
 
+## Core Principle
+
+> The "calcium paradox" describes the phenomenon where increased calcium intake or absorption does not always improve  and may instead promote arterial calcification. The D-K2 synergy resolves this paradox by ensuring calcium is directed to bone while prevented from depositing in arteries.
+
 ## Clinical Evidence
 
 ### Observational
@@ -99,6 +115,10 @@ Result: Strong bones + Clear arteries
 - Explains why calcium alone insufficient
 - Why D alone potentially risky
 - Why K2 essential for high-dose D protocols
+
+## Core Principle
+
+> The "calcium paradox" describes the phenomenon where increased calcium intake or absorption does not always improve  and may instead promote arterial calcification. The D-K2 synergy resolves this paradox by ensuring calcium is directed to bone while prevented from depositing in arteries.
 
 ## METHAP Protocol Implications
 
@@ -124,6 +144,10 @@ Result: Strong bones + Clear arteries
 *Related: [[Vitamin_K2_Vascular_Calcification_MGP_Z-001-0228]*  
 *Extracted: 2026-03-01*
 ---
+
+## Core Principle
+
+> The "calcium paradox" describes the phenomenon where increased calcium intake or absorption does not always improve  and may instead promote arterial calcification. The D-K2 synergy resolves this paradox by ensuring calcium is directed to bone while prevented from depositing in arteries.
 
 ## Connection to Vault
 

@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > The Mediterranean dietary pattern, characterized by high olive oil consumption, consistently demonstrates cardiovascular and metabolic benefits in  trials.
 
+## Core Principle
+
+> The Mediterranean dietary pattern, characterized by high olive oil consumption, consistently demonstrates cardiovascular and metabolic benefits in  trials.
+
 ## PREDIMED (2013)
 
 **Design:**
@@ -31,6 +35,10 @@ extraction-date: 2026-03-01
 - First RCT of Mediterranean diet
 - High-fat beneficial vs. low-fat
 
+## Core Principle
+
+> The Mediterranean dietary pattern, characterized by high olive oil consumption, consistently demonstrates cardiovascular and metabolic benefits in  trials.
+
 ## LYON (1994)
 
 **Design:**
@@ -40,12 +48,20 @@ extraction-date: 2026-03-01
 - **73% combined endpoint reduction**
 - **70% cardiac death reduction**
 
+## Core Principle
+
+> The Mediterranean dietary pattern, characterized by high olive oil consumption, consistently demonstrates cardiovascular and metabolic benefits in  trials.
+
 ## EPIC Study
 
 **Observational:**
 - 521,000 participants
 - Olive oil inverse with mortality
 - **2 tbsp/day threshold**
+
+## Core Principle
+
+> The Mediterranean dietary pattern, characterized by high olive oil consumption, consistently demonstrates cardiovascular and metabolic benefits in  trials.
 
 ## Mechanisms
 
@@ -65,12 +81,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Oleic_Acid_Clinical_L-001-0506]*
 
 
+## Core Principle
+
+> The Mediterranean dietary pattern, characterized by high olive oil consumption, consistently demonstrates cardiovascular and metabolic benefits in  trials.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[Mediterranean_Diet_Metabolic_Evidence_Z-001-1076]|Z-001-1076]
 
 ---
+
+## Core Principle
+
+> The Mediterranean dietary pattern, characterized by high olive oil consumption, consistently demonstrates cardiovascular and metabolic benefits in  trials.
 
 ## Connection to Vault
 

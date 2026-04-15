@@ -16,6 +16,10 @@ source-litnote: Synthesized from clinical practice
 
 **Core Problem:** Small sample sizes with high-dimensional data create a perfect storm for false discoveries and unreliable findings.
 
+## Core Principle
+
+**Core Problem:** Small sample sizes with high-dimensional data create a perfect storm for false discoveries and unreliable findings.
+
 ## The Underpowered Study Syndrome
 
 ### Case Study Recap
@@ -27,6 +31,10 @@ source-litnote: Synthesized from clinical practice
 - Required sample: 377-2355 per group
 
 **The Gap:** Study was underpowered by **20-260×**
+
+## Core Principle
+
+**Core Problem:** Small sample sizes with high-dimensional data create a perfect storm for false discoveries and unreliable findings.
 
 ## Consequence 1: Type I Error Inflation (False Positives)
 
@@ -61,6 +69,10 @@ With n=10 but true effect: may miss (Type II error)
 - P-values <0.05 by chance
 - Findings don't replicate
 
+## Core Principle
+
+**Core Problem:** Small sample sizes with high-dimensional data create a perfect storm for false discoveries and unreliable findings.
+
 ## Consequence 2: Type II Error (False Negatives)
 
 ### Missing True Biological Signals
@@ -84,6 +96,10 @@ With n=10 but true effect: may miss (Type II error)
 - Or published as "negative study"
 - Other researchers repeat same underpowered study
 - Wasted resources, participant burden
+
+## Core Principle
+
+**Core Problem:** Small sample sizes with high-dimensional data create a perfect storm for false discoveries and unreliable findings.
 
 ## Consequence 3: Effect Size Overestimation (Winner's Curse)
 
@@ -114,6 +130,10 @@ Observed d = 0.25 (closer to truth)
 - Billions wasted on false leads
 - Patient trials with ineffective agents
 
+## Core Principle
+
+**Core Problem:** Small sample sizes with high-dimensional data create a perfect storm for false discoveries and unreliable findings.
+
 ## Consequence 4: Overfitting in Multivariate Models
 
 ### OPLS-DA and Small Samples
@@ -129,6 +149,10 @@ Observed d = 0.25 (closer to truth)
 - But model is fitting noise
 - External validation always fails
 - "Significant" findings are illusory
+
+## Core Principle
+
+**Core Problem:** Small sample sizes with high-dimensional data create a perfect storm for false discoveries and unreliable findings.
 
 ## Consequence 5: Wasted Resources and Opportunity Cost
 
@@ -153,6 +177,10 @@ Observed d = 0.25 (closer to truth)
 - Actual scientific progress
 - Clinical translation possible
 
+## Core Principle
+
+**Core Problem:** Small sample sizes with high-dimensional data create a perfect storm for false discoveries and unreliable findings.
+
 ## The Replication Crisis
 
 ### Omics Contribution
@@ -168,6 +196,10 @@ Observed d = 0.25 (closer to truth)
 - Inadequate validation
 - Publication bias for "positive" results
 - Incentive structures favor quantity over quality
+
+## Core Principle
+
+**Core Problem:** Small sample sizes with high-dimensional data create a perfect storm for false discoveries and unreliable findings.
 
 ## Solutions and Safeguards
 
@@ -195,6 +227,10 @@ Observed d = 0.25 (closer to truth)
 4. **Consider effect sizes, not just p-values**
 5. **Be skeptical of "too good to be true" findings**
 
+## Core Principle
+
+**Core Problem:** Small sample sizes with high-dimensional data create a perfect storm for false discoveries and unreliable findings.
+
 ## Red Flags in Published Studies
 
 | Red Flag | Interpretation |
@@ -212,6 +248,10 @@ Observed d = 0.25 (closer to truth)
 
 *See also: [[Power_Analysis_Formula_Metabolomics_Z-001-0928]*
 
+## Core Principle
+
+**Core Problem:** Small sample sizes with high-dimensional data create a perfect storm for false discoveries and unreliable findings.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
@@ -219,6 +259,10 @@ Observed d = 0.25 (closer to truth)
 
 
 ---
+
+## Core Principle
+
+**Core Problem:** Small sample sizes with high-dimensional data create a perfect storm for false discoveries and unreliable findings.
 
 ## Connection to Vault
 

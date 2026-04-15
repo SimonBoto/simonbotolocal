@@ -15,11 +15,19 @@ extraction-date: 2026-03-01
 
 > Ancel Keys' Seven Countries Study shaped global dietary guidelines, but modern reassessment reveals complexities in the saturated fat-heart disease hypothesis.
 
+## Core Principle
+
+> Ancel Keys' Seven Countries Study shaped global dietary guidelines, but modern reassessment reveals complexities in the saturated fat-heart disease hypothesis.
+
 ## Original Study (1958-1964)
 
 **Design:** 12,763 men, 16 cohorts, 7 countries
 **Key Finding:** Saturated fat correlated with CHD
 **Influence:** Basis for low-fat guidelines
+
+## Core Principle
+
+> Ancel Keys' Seven Countries Study shaped global dietary guidelines, but modern reassessment reveals complexities in the saturated fat-heart disease hypothesis.
 
 ## Critiques
 
@@ -31,6 +39,10 @@ extraction-date: 2026-03-01
 - Sugar not controlled
 - Processed vs. traditional fats
 - Smoking differences
+
+## Core Principle
+
+> Ancel Keys' Seven Countries Study shaped global dietary guidelines, but modern reassessment reveals complexities in the saturated fat-heart disease hypothesis.
 
 ## Reassessment Findings
 
@@ -50,6 +62,10 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]*
 
 
+## Core Principle
+
+> Ancel Keys' Seven Countries Study shaped global dietary guidelines, but modern reassessment reveals complexities in the saturated fat-heart disease hypothesis.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
@@ -57,6 +73,10 @@ extraction-date: 2026-03-01
 - _Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> Ancel Keys' Seven Countries Study shaped global dietary guidelines, but modern reassessment reveals complexities in the saturated fat-heart disease hypothesis.
 
 ## Connection to Vault
 

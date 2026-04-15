@@ -18,6 +18,10 @@ status: conscious
 
 Glutamine and taurine work synergistically to support intestinal barrier repair, with glutamine fueling enterocyte regeneration and taurine supporting bile flow and antimicrobial defense — together addressing both structural and functional aspects of gut healing.
 
+## Core Principle
+
+Glutamine and taurine work synergistically to support intestinal barrier repair, with glutamine fueling enterocyte regeneration and taurine supporting bile flow and antimicrobial defense — together addressing both structural and functional aspects of gut healing.
+
 ## Individual Roles
 
 **Glutamine:**
@@ -32,6 +36,10 @@ Glutamine and taurine work synergistically to support intestinal barrier repair,
 - Antioxidant support (glutathione synthesis)
 - Gut motility regulation
 
+## Core Principle
+
+Glutamine and taurine work synergistically to support intestinal barrier repair, with glutamine fueling enterocyte regeneration and taurine supporting bile flow and antimicrobial defense — together addressing both structural and functional aspects of gut healing.
+
 ## Synergistic Mechanisms
 
 | Function | Glutamine | Taurine | Combined Effect |
@@ -41,6 +49,10 @@ Glutamine and taurine work synergistically to support intestinal barrier repair,
 | **Antimicrobial** | — | Bile antimicrobial | Reduced overgrowth |
 | **Detoxification** | — | Glutathione support | Reduced inflammation |
 | **Motility** | — | Regulates peristalsis | Normalized transit |
+
+## Core Principle
+
+Glutamine and taurine work synergistically to support intestinal barrier repair, with glutamine fueling enterocyte regeneration and taurine supporting bile flow and antimicrobial defense — together addressing both structural and functional aspects of gut healing.
 
 ## Clinical Applications
 
@@ -60,6 +72,10 @@ Glutamine and taurine work synergistically to support intestinal barrier repair,
 - Address SIBO first, then add glutamine
 - Taurine generally well-tolerated
 
+## Core Principle
+
+Glutamine and taurine work synergistically to support intestinal barrier repair, with glutamine fueling enterocyte regeneration and taurine supporting bile flow and antimicrobial defense — together addressing both structural and functional aspects of gut healing.
+
 ## Dosing Guidelines
 
 **Glutamine:**
@@ -72,13 +88,25 @@ Glutamine and taurine work synergistically to support intestinal barrier repair,
 - Target: 1–3 g/day
 - Maximum: 5 g/day (well-tolerated)
 
+## Core Principle
+
+Glutamine and taurine work synergistically to support intestinal barrier repair, with glutamine fueling enterocyte regeneration and taurine supporting bile flow and antimicrobial defense — together addressing both structural and functional aspects of gut healing.
+
 ## Evidence
 > "Glutamine provides the building blocks for intestinal repair while taurine ensures proper digestive function — together they address both the structure and function of gut healing."
+
+## Core Principle
+
+Glutamine and taurine work synergistically to support intestinal barrier repair, with glutamine fueling enterocyte regeneration and taurine supporting bile flow and antimicrobial defense — together addressing both structural and functional aspects of gut healing.
 
 ## Context
 This amino acid combination represents a foundational approach to gut healing that addresses multiple pathophysiological mechanisms simultaneously. Unlike single-target therapies, the glutamine-taurine synergy supports barrier integrity, antimicrobial defense, and digestive function — making it suitable for diverse gut pathologies from leaky gut to post-infectious IBS.
 
 ---
+
+## Core Principle
+
+Glutamine and taurine work synergistically to support intestinal barrier repair, with glutamine fueling enterocyte regeneration and taurine supporting bile flow and antimicrobial defense — together addressing both structural and functional aspects of gut healing.
 
 ## Links — Two Types
 

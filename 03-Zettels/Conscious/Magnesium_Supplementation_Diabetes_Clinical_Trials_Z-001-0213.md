@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Randomized controlled trials demonstrate that magnesium supplementation improves  sensitivity, reduces inflammatory markers, and may improve glycemic control, particularly in magnesium-deficient individuals.
 
+## Core Principle
+
+> Randomized controlled trials demonstrate that magnesium supplementation improves  sensitivity, reduces inflammatory markers, and may improve glycemic control, particularly in magnesium-deficient individuals.
+
 ## Meta-Analysis Results
 
 **Primary Outcomes:**
@@ -27,6 +31,10 @@ extraction-date: 2026-03-01
 - Greater benefits in Mg-deficient patients at baseline
 - Longer duration (>12 weeks) shows better results
 - Higher doses (≥300 mg elemental) more effective
+
+## Core Principle
+
+> Randomized controlled trials demonstrate that magnesium supplementation improves  sensitivity, reduces inflammatory markers, and may improve glycemic control, particularly in magnesium-deficient individuals.
 
 ## Key Clinical Trials
 
@@ -65,6 +73,10 @@ extraction-date: 2026-03-01
 - **Finding:** Mg supplementation significantly improved HOMA-IR
 - **Dose-response:** Higher doses (>300 mg) showed greater effects
 
+## Core Principle
+
+> Randomized controlled trials demonstrate that magnesium supplementation improves  sensitivity, reduces inflammatory markers, and may improve glycemic control, particularly in magnesium-deficient individuals.
+
 ## Magnesium Forms Studied
 
 | Form | Bioavailability | Studies | Notes |
@@ -75,6 +87,10 @@ extraction-date: 2026-03-01
 | **Mg aspartate** | High | Mooren 2011 | Good absorption |
 | **Mg glycinate** | High | Limited | Well-tolerated, less GI effects |
 | **Mg taurate** | High | Limited | May have additional cardiovascular benefits |
+
+## Core Principle
+
+> Randomized controlled trials demonstrate that magnesium supplementation improves  sensitivity, reduces inflammatory markers, and may improve glycemic control, particularly in magnesium-deficient individuals.
 
 ## Limitations of Current Evidence
 
@@ -92,6 +108,10 @@ extraction-date: 2026-03-01
 **Publication Bias:**
 - Possible positive publication bias
 - Few negative trials published
+
+## Core Principle
+
+> Randomized controlled trials demonstrate that magnesium supplementation improves  sensitivity, reduces inflammatory markers, and may improve glycemic control, particularly in magnesium-deficient individuals.
 
 ## Practical Implications
 
@@ -111,6 +131,10 @@ extraction-date: 2026-03-01
 - Diarrhea is main side effect (dose-dependent)
 - Caution in renal impairment
 
+## Core Principle
+
+> Randomized controlled trials demonstrate that magnesium supplementation improves  sensitivity, reduces inflammatory markers, and may improve glycemic control, particularly in magnesium-deficient individuals.
+
 ## METHAP Protocol Recommendations
 
 **Dosing:** 300-500 mg elemental Mg daily
@@ -125,6 +149,10 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 
+## Core Principle
+
+> Randomized controlled trials demonstrate that magnesium supplementation improves  sensitivity, reduces inflammatory markers, and may improve glycemic control, particularly in magnesium-deficient individuals.
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -133,6 +161,10 @@ extraction-date: 2026-03-01
 - [[Magnesium_Cofactor_Enzymatic_Reactions_MgATP_Z-001-0206]|Z-001-0206]
 
 ---
+
+## Core Principle
+
+> Randomized controlled trials demonstrate that magnesium supplementation improves  sensitivity, reduces inflammatory markers, and may improve glycemic control, particularly in magnesium-deficient individuals.
 
 ## Connection to Vault
 

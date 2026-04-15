@@ -29,6 +29,10 @@ The IOM (Institute of Medicine, now National Academy of Medicine) made a fundame
 
 **Implication:** Basic statistical error propagated into global public health policy affecting billions.
 
+## Core Principle
+
+The IOM (Institute of Medicine, now National Academy of Medicine) made a fundamental statistical error in calculating  RDA: they used the mean (average) intake required to achieve target serum levels instead of the 97.5th percentile. This meant the RDA was designed for 50% of population coverage, not the stated 97.5%.
+
 ## Links
 
 **Parent MOC:** -
@@ -40,11 +44,19 @@ The IOM (Institute of Medicine, now National Academy of Medicine) made a fundame
 *UID: Z-001-0058 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+The IOM (Institute of Medicine, now National Academy of Medicine) made a fundamental statistical error in calculating  RDA: they used the mean (average) intake required to achieve target serum levels instead of the 97.5th percentile. This meant the RDA was designed for 50% of population coverage, not the stated 97.5%.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+The IOM (Institute of Medicine, now National Academy of Medicine) made a fundamental statistical error in calculating  RDA: they used the mean (average) intake required to achieve target serum levels instead of the 97.5th percentile. This meant the RDA was designed for 50% of population coverage, not the stated 97.5%.
 
 ## Connection to Vault
 

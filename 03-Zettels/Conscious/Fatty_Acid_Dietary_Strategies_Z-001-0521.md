@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Optimizing fatty acid intake requires eliminating seed oils, increasing direct s, favoring monounsaturated fats, and selecting fats by cooking stability.
 
+## Core Principle
+
+> Optimizing fatty acid intake requires eliminating seed oils, increasing direct s, favoring monounsaturated fats, and selecting fats by cooking stability.
+
 ## Reduce 
 
 **Eliminate:**
@@ -22,6 +26,10 @@ extraction-date: 2026-03-01
 - Margarine
 - "Vegetable oil"
 - Check labels on dressings, mayo, snacks
+
+## Core Principle
+
+> Optimizing fatty acid intake requires eliminating seed oils, increasing direct s, favoring monounsaturated fats, and selecting fats by cooking stability.
 
 ## Increase Omega-3
 
@@ -34,6 +42,10 @@ extraction-date: 2026-03-01
 - Ground flax, chia, walnuts
 - Conversion <5% if omega-6 high
 
+## Core Principle
+
+> Optimizing fatty acid intake requires eliminating seed oils, increasing direct s, favoring monounsaturated fats, and selecting fats by cooking stability.
+
 ## Favor Monounsaturated
 
 **Primary:**
@@ -43,6 +55,10 @@ extraction-date: 2026-03-01
 **Acceptable:**
 - Butter, ghee, coconut oil
 
+## Core Principle
+
+> Optimizing fatty acid intake requires eliminating seed oils, increasing direct s, favoring monounsaturated fats, and selecting fats by cooking stability.
+
 ## Cooking Stability
 
 | Fat | Use |
@@ -50,6 +66,10 @@ extraction-date: 2026-03-01
 | **Avocado oil** | High-heat (520°F) |
 | **Ghee** | High-heat (485°F) |
 | **Olive oil** | Medium-heat (375°F) |
+
+## Core Principle
+
+> Optimizing fatty acid intake requires eliminating seed oils, increasing direct s, favoring monounsaturated fats, and selecting fats by cooking stability.
 
 ## Targets
 
@@ -61,10 +81,18 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]*
 
 
+## Core Principle
+
+> Optimizing fatty acid intake requires eliminating seed oils, increasing direct s, favoring monounsaturated fats, and selecting fats by cooking stability.
+
 ## RELATED FILES
 - 
 
 ---
+
+## Core Principle
+
+> Optimizing fatty acid intake requires eliminating seed oils, increasing direct s, favoring monounsaturated fats, and selecting fats by cooking stability.
 
 ## Connection to Vault
 

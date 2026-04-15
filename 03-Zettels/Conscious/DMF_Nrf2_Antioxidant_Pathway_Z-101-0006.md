@@ -36,6 +36,10 @@ Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antiox
 
 **METHAP Relevance:** Nrf2 activation is antioxidant and anti-inflammatory.  also modulates Nrf2 pathway, and oxidative stress biomarkers (8-OHdG, 2-HBA, pyroglutamate from DE3) may predict treatment response — shared mechanism rationale.
 
+## Core Principle
+
+Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antioxidant gene expression and metabolic reprogramming. This provides both neuroprotection in multiple sclerosis and anti-inflammatory effects through redox regulation.
+
 ## Key Details
 
 | Pathway | DMF Effect |
@@ -47,11 +51,19 @@ Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antiox
 | Fatty acid oxidation | Increased |
 | Lipid biosynthesis | Blocked |
 
+## Core Principle
+
+Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antioxidant gene expression and metabolic reprogramming. This provides both neuroprotection in multiple sclerosis and anti-inflammatory effects through redox regulation.
+
 ## Links
 
 - **Upstream:** [[Mitochondrial_Dysfunction_IR_Z-001-0030.md] — Mitochondrial dysfunction and oxidative stress
 - **Parallel:** _Z-001-0020.md] — Oxidative stress biomarkers
 - **Downstream:** , 
+
+## Core Principle
+
+Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antioxidant gene expression and metabolic reprogramming. This provides both neuroprotection in multiple sclerosis and anti-inflammatory effects through redox regulation.
 
 ## Context
 
@@ -63,6 +75,10 @@ Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antiox
 
 *UID: Z-101-0006 | Domain: 101 | Created: 2026-02-24*
 
+## Core Principle
+
+Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antioxidant gene expression and metabolic reprogramming. This provides both neuroprotection in multiple sclerosis and anti-inflammatory effects through redox regulation.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
@@ -72,6 +88,10 @@ Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antiox
 
 
 ---
+
+## Core Principle
+
+Dimethyl fumarate (DMF) activates the Nrf2 transcription factor, inducing antioxidant gene expression and metabolic reprogramming. This provides both neuroprotection in multiple sclerosis and anti-inflammatory effects through redox regulation.
 
 ## Connection to Vault
 

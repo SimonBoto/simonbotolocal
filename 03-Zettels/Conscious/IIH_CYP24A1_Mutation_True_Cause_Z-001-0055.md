@@ -30,6 +30,10 @@ Idiopathic Infantile Hypercalcemia (IIH) is a rare genetic condition caused by m
 
 **Clinical relevance:** High-dose vitamin D protocols should consider CYP24A1 screening, especially in patients showing unusual calcium responses.
 
+## Core Principle
+
+Idiopathic Infantile Hypercalcemia (IIH) is a rare genetic condition caused by mutations in CYP24A1 or SLC34A1 genes. These mutations impair vitamin D  and calcium regulation, causing hypercalcemia even with normal vitamin D intake. The 1950s fortification "toxicity" incidents were largely IIH cases misdiagnosed as vitamin D overdose.
+
 ## Links
 
 **Parent MOC:** -Metabolism]
@@ -41,10 +45,18 @@ Idiopathic Infantile Hypercalcemia (IIH) is a rare genetic condition caused by m
 *UID: Z-001-0055 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Idiopathic Infantile Hypercalcemia (IIH) is a rare genetic condition caused by mutations in CYP24A1 or SLC34A1 genes. These mutations impair vitamin D  and calcium regulation, causing hypercalcemia even with normal vitamin D intake. The 1950s fortification "toxicity" incidents were largely IIH cases misdiagnosed as vitamin D overdose.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Idiopathic Infantile Hypercalcemia (IIH) is a rare genetic condition caused by mutations in CYP24A1 or SLC34A1 genes. These mutations impair vitamin D  and calcium regulation, causing hypercalcemia even with normal vitamin D intake. The 1950s fortification "toxicity" incidents were largely IIH cases misdiagnosed as vitamin D overdose.
 
 ## Connection to Vault
 

@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > After donating its methyl group, SAM becomes S-adenosylhomocysteine (SAH), a potent product inhibitor of methyltransferases. The SAM/SAH ratio serves as the cellular index of methylation capacity.
 
+## Core Principle
+
+> After donating its methyl group, SAM becomes S-adenosylhomocysteine (SAH), a potent product inhibitor of methyltransferases. The SAM/SAH ratio serves as the cellular index of methylation capacity.
+
 ## Formation
 
 **Reaction:**
@@ -23,6 +27,10 @@ SAM + Acceptor → Methylated acceptor + SAH
 ```
 
 **Universal byproduct:** Every methylation reaction produces SAH
+
+## Core Principle
+
+> After donating its methyl group, SAM becomes S-adenosylhomocysteine (SAH), a potent product inhibitor of methyltransferases. The SAM/SAH ratio serves as the cellular index of methylation capacity.
 
 ## Inhibitory Function
 
@@ -36,6 +44,10 @@ SAM + Acceptor → Methylated acceptor + SAH
 - Prevents SAM binding
 - Reversible inhibition
 
+## Core Principle
+
+> After donating its methyl group, SAM becomes S-adenosylhomocysteine (SAH), a potent product inhibitor of methyltransferases. The SAM/SAH ratio serves as the cellular index of methylation capacity.
+
 ## SAH Hydrolysis
 
 **Reaction:**
@@ -46,6 +58,10 @@ SAH ↔ Homocysteine + Adenosine
 **Enzyme:** SAH hydrolase (reversible)
 
 **Direction:** Depends on homocysteine and adenosine concentrations
+
+## Core Principle
+
+> After donating its methyl group, SAM becomes S-adenosylhomocysteine (SAH), a potent product inhibitor of methyltransferases. The SAM/SAH ratio serves as the cellular index of methylation capacity.
 
 ## The SAM/SAH Ratio
 
@@ -65,6 +81,10 @@ SAH ↔ Homocysteine + Adenosine
 - Homocysteine clearance (affects SAH hydrolysis)
 - Methylation demand (affects SAM consumption)
 
+## Core Principle
+
+> After donating its methyl group, SAM becomes S-adenosylhomocysteine (SAH), a potent product inhibitor of methyltransferases. The SAM/SAH ratio serves as the cellular index of methylation capacity.
+
 ## Clinical Significance
 
 **Elevated SAH:**
@@ -78,9 +98,17 @@ SAH ↔ Homocysteine + Adenosine
 *Source: [[LitNote_Methylation_Cycle_L-001-0402]*
 
 
+## Core Principle
+
+> After donating its methyl group, SAM becomes S-adenosylhomocysteine (SAH), a potent product inhibitor of methyltransferases. The SAM/SAH ratio serves as the cellular index of methylation capacity.
+
 ## Related
 - _Double_Edged_Sword_Z-001-0411]|Z-001-0411]
 
+
+## Core Principle
+
+> After donating its methyl group, SAM becomes S-adenosylhomocysteine (SAH), a potent product inhibitor of methyltransferases. The SAM/SAH ratio serves as the cellular index of methylation capacity.
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -88,6 +116,10 @@ SAH ↔ Homocysteine + Adenosine
 - [[Folate_5MTHF_vs_Folic_Acid_Z-004-0002]|Z-004-0002]
 
 ---
+
+## Core Principle
+
+> After donating its methyl group, SAM becomes S-adenosylhomocysteine (SAH), a potent product inhibitor of methyltransferases. The SAM/SAH ratio serves as the cellular index of methylation capacity.
 
 ## Connection to Vault
 

@@ -21,17 +21,29 @@ status: conscious
 
 This zettel documents the risk of erythrocytosis (increased red blood cell mass) associated with testosterone replacement therapy.
 
+## Core Principle
+
+This zettel documents the risk of erythrocytosis (increased red blood cell mass) associated with testosterone replacement therapy.
+
 ## Epidemiology
 
 - Incidence: 5-40% of men on TRT depending on route and dose
 - Higher risk with intramuscular injections and high-dose transdermal gels
 - Risk increases with duration of therapy
 
+## Core Principle
+
+This zettel documents the risk of erythrocytosis (increased red blood cell mass) associated with testosterone replacement therapy.
+
 ## Pathophysiology
 
 - Testosterone stimulates erythropoietin production in kidneys
 - Direct effect on bone marrow erythroid progenitors
 - Increased iron utilization efficiency
+
+## Core Principle
+
+This zettel documents the risk of erythrocytosis (increased red blood cell mass) associated with testosterone replacement therapy.
 
 ## Risk Factors
 
@@ -41,6 +53,10 @@ This zettel documents the risk of erythrocytosis (increased red blood cell mass)
 - Smoking
 - Older age
 - Pre-existing polycythemia
+
+## Core Principle
+
+This zettel documents the risk of erythrocytosis (increased red blood cell mass) associated with testosterone replacement therapy.
 
 ## Management
 

@@ -23,12 +23,20 @@ status: conscious
 
 Clinical assessment of the hypothalamic-pituitary-gonadal axis requires integration of history, physical examination, and targeted laboratory testing to differentiate between primary, secondary, and tertiary causes of dysfunction.
 
+## Core Principle
+
+Clinical assessment of the hypothalamic-pituitary-gonadal axis requires integration of history, physical examination, and targeted laboratory testing to differentiate between primary, secondary, and tertiary causes of dysfunction.
+
 ## Diagnostic Approach
 
 - **History**: Onset, progression, associated symptoms, medication use, comorbidities
 - **Physical exam**: Secondary sexual characteristics, testicular volume, body composition
 - **Laboratory testing**: Baseline testosterone, LH, FSH, prolactin, estradiol, SHBG
 - **Dynamic testing**: GnRH stimulation, clomiphene challenge, hCG stimulation
+
+## Core Principle
+
+Clinical assessment of the hypothalamic-pituitary-gonadal axis requires integration of history, physical examination, and targeted laboratory testing to differentiate between primary, secondary, and tertiary causes of dysfunction.
 
 ## Interpretation Framework
 
@@ -37,12 +45,20 @@ Clinical assessment of the hypothalamic-pituitary-gonadal axis requires integrat
 - **Tertiary hypogonadism**: Normal/low LH/FSH, ↓testosterone/estradiol
 - **Prolactinoma**: ↑Prolactin, ↓LH/FSH, ↓testosterone/estradiol
 
+## Core Principle
+
+Clinical assessment of the hypothalamic-pituitary-gonadal axis requires integration of history, physical examination, and targeted laboratory testing to differentiate between primary, secondary, and tertiary causes of dysfunction.
+
 ## Special Considerations
 
 - **Timing of testing**: Morning testosterone testing (peak levels)
 - **Assay variability**: Use same lab for serial measurements
 - **Contextual factors**: Acute illness, medications, recent exercise
 - **Referral criteria**: MRI for suspected pituitary lesion, genetic testing for congenital causes
+
+## Core Principle
+
+Clinical assessment of the hypothalamic-pituitary-gonadal axis requires integration of history, physical examination, and targeted laboratory testing to differentiate between primary, secondary, and tertiary causes of dysfunction.
 
 ## Key Research Findings
 

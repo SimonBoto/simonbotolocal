@@ -20,12 +20,20 @@ status: conscious
 
 This zettel documents the causes of secondary hypogonadism (pituitary/hypothalamic failure) in males.
 
+## Core Principle
+
+This zettel documents the causes of secondary hypogonadism (pituitary/hypothalamic failure) in males.
+
 ## Genetic Causes
 
 - Kallmann syndrome (anosmia + hypogonadism)
 - Congenital hypogonadotropic hypogonadism
 - Prader-Willi syndrome
 - Bardet-Biedl syndrome
+
+## Core Principle
+
+This zettel documents the causes of secondary hypogonadism (pituitary/hypothalamic failure) in males.
 
 ## Acquired Causes
 
@@ -35,6 +43,10 @@ This zettel documents the causes of secondary hypogonadism (pituitary/hypothalam
 - Traumatic brain injury
 - Radiation to hypothalamic-pituitary axis
 
+## Core Principle
+
+This zettel documents the causes of secondary hypogonadism (pituitary/hypothalamic failure) in males.
+
 ## Functional Causes
 
 - Obesity
@@ -42,6 +54,10 @@ This zettel documents the causes of secondary hypogonadism (pituitary/hypothalam
 - Chronic opioid use
 - Hyperprolactinemia
 - Chronic systemic illness
+
+## Core Principle
+
+This zettel documents the causes of secondary hypogonadism (pituitary/hypothalamic failure) in males.
 
 ## Clinical Features
 

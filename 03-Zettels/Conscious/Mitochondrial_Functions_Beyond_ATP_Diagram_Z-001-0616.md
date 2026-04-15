@@ -19,6 +19,10 @@ Visual summary of six critical mitochondrial functions extending far beyond ener
 
 ![[2026-01-02_X_DrWilliamWallac_Mitochondrial_Functions.jpg]]
 
+## Core Principle
+
+Visual summary of six critical mitochondrial functions extending far beyond energy production, based on Wallace (2026).
+
 ## The Six Functions
 
 ### 1. 🔻 Cytochrome c → Apoptosis
@@ -51,6 +55,10 @@ Visual summary of six critical mitochondrial functions extending far beyond ener
 - **Significance:** Histone modification, DNA methylation
 - **Clinical relevance:** Stem cell differentiation, cancer metabolism
 
+## Core Principle
+
+Visual summary of six critical mitochondrial functions extending far beyond energy production, based on Wallace (2026).
+
 ## Integrated View
 
 These functions reveal mitochondria as **signaling hubs**, not just power plants:
@@ -60,11 +68,19 @@ These functions reveal mitochondria as **signaling hubs**, not just power plants
 - **Immune signals** (mtDNA)
 - **Epigenetic signals** (TCA metabolites)
 
+## Core Principle
+
+Visual summary of six critical mitochondrial functions extending far beyond energy production, based on Wallace (2026).
+
 ## Source
 - **Image:** [[2026-01-02_X_DrWilliamWallac_Mitochondrial_Functions.jpg]]
 - **Metadata:** [[2026-01-02_X_DrWilliamWallac_Mitochondrial_Functions]]
 - **Original post:** William A. Wallace, Ph.D. (@drwilliamwallac), Jan 2, 2026
 - **Engagement:** 675 likes, 265 bookmarks, 20.6K views
+
+## Core Principle
+
+Visual summary of six critical mitochondrial functions extending far beyond energy production, based on Wallace (2026).
 
 ## Connections to Extract
 - [ ] [[Cytochrome_C_Apoptosis_Z-XXX-XXXX]] — Deep dive on cell death

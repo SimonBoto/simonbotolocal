@@ -18,6 +18,10 @@ extraction-date: 2026-04-15
 
 Carnitine is the essential shuttle molecule that transports long-chain fatty acids from the cytosol into the mitochondrial matrix for β-oxidation (fatty acid breakdown). Without functional carnitine, fatty acids cannot be oxidized for energy, leading to accumulation of incompletely metabolized lipids.
 
+## Core Principle
+
+Carnitine is the essential shuttle molecule that transports long-chain fatty acids from the cytosol into the mitochondrial matrix for β-oxidation (fatty acid breakdown). Without functional carnitine, fatty acids cannot be oxidized for energy, leading to accumulation of incompletely metabolized lipids.
+
 ## The Carnitine Shuttle System
 
 ### Step-by-Step Transport
@@ -63,6 +67,10 @@ CYTOSOL                                              MITOCHONDRIA
 | **Translocase** | Inner mitochondrial membrane | Transports acyl-carnitine across |
 | **CPT II** (Carnitine palmitoyltransferase II) | Inner mitochondrial matrix | Releases fatty acid from carnitine |
 
+## Core Principle
+
+Carnitine is the essential shuttle molecule that transports long-chain fatty acids from the cytosol into the mitochondrial matrix for β-oxidation (fatty acid breakdown). Without functional carnitine, fatty acids cannot be oxidized for energy, leading to accumulation of incompletely metabolized lipids.
+
 ## Critical Point: The Mitochondrial Barrier
 
 > "Η εσωτερική μιτοχονδριακή μεμβράνη δεν είναι διαπερατή στο άκυλο-CoA, η ακετυλομάδα μεταφέρεται στο μιτοχόνδριο με τη βοήθεια ενός μορίου καρνιτίνης"
@@ -73,6 +81,10 @@ CYTOSOL                                              MITOCHONDRIA
 - Fatty acid oxidation MUST occur inside mitochondria
 - Carnitine is the ONLY transport mechanism
 - Carnitine dysfunction = fatty acid accumulation = metabolic disease
+
+## Core Principle
+
+Carnitine is the essential shuttle molecule that transports long-chain fatty acids from the cytosol into the mitochondrial matrix for β-oxidation (fatty acid breakdown). Without functional carnitine, fatty acids cannot be oxidized for energy, leading to accumulation of incompletely metabolized lipids.
 
 ## β-Oxidation: What Happens Inside
 
@@ -85,6 +97,10 @@ Once inside mitochondria, fatty acids undergo **β-oxidation**:
 | FADH2 | 1 molecule (2 ATP equivalent) |
 
 **Example:** Palmitic acid (C16) → 8 acetyl-CoA + 7 NADH + 7 FADH2 → **Total: 106 ATP**
+
+## Core Principle
+
+Carnitine is the essential shuttle molecule that transports long-chain fatty acids from the cytosol into the mitochondrial matrix for β-oxidation (fatty acid breakdown). Without functional carnitine, fatty acids cannot be oxidized for energy, leading to accumulation of incompletely metabolized lipids.
 
 ## Clinical Significance of Carnitine
 
@@ -99,6 +115,10 @@ Once inside mitochondria, fatty acids undergo **β-oxidation**:
 - **Primary use:** Primary carnitine deficiency, dialysis patients
 - **Potential use:** Metabolic syndrome, insulin resistance (investigational)
 - **Mechanism:** Improved fatty acid oxidation, reduced lipid accumulation
+
+## Core Principle
+
+Carnitine is the essential shuttle molecule that transports long-chain fatty acids from the cytosol into the mitochondrial matrix for β-oxidation (fatty acid breakdown). Without functional carnitine, fatty acids cannot be oxidized for energy, leading to accumulation of incompletely metabolized lipids.
 
 ## METHAP Connection — Your Plasma TFA Focus
 
@@ -131,6 +151,10 @@ Your plasma TFA measurements may reflect:
 - **VD status** (potential modulator)
 - **IR severity** (metabolic handling of fatty acids)
 
+## Core Principle
+
+Carnitine is the essential shuttle molecule that transports long-chain fatty acids from the cytosol into the mitochondrial matrix for β-oxidation (fatty acid breakdown). Without functional carnitine, fatty acids cannot be oxidized for energy, leading to accumulation of incompletely metabolized lipids.
+
 ## Adipic Acid Connection
 
 **Adipic acid** (your biomarker) is a **dicarboxylic acid** formed from incomplete fatty acid oxidation:
@@ -143,11 +167,19 @@ Deficient: Fatty acid → Incomplete oxidation → Adipic acid (excreted)
 
 **Hypothesis:** VD deficiency impairs carnitine function → incomplete β-oxidation → adipic acid accumulation.
 
+## Core Principle
+
+Carnitine is the essential shuttle molecule that transports long-chain fatty acids from the cytosol into the mitochondrial matrix for β-oxidation (fatty acid breakdown). Without functional carnitine, fatty acids cannot be oxidized for energy, leading to accumulation of incompletely metabolized lipids.
+
 ## Links
 
 - **Upstream/Prerequisite:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]] — β-oxidation produces acetyl-CoA for Krebs cycle
 - **Parallel/Related:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]] — VD may be cofactor for carnitine metabolism
 - **Downstream/Consequence:** [[Ketone_Bodies_IR_Diabetes_Metabolism_Z-001-0914]] — When fatty acids can't enter mitochondria (carnitine deficiency), alternative metabolism occurs
+
+## Core Principle
+
+Carnitine is the essential shuttle molecule that transports long-chain fatty acids from the cytosol into the mitochondrial matrix for β-oxidation (fatty acid breakdown). Without functional carnitine, fatty acids cannot be oxidized for energy, leading to accumulation of incompletely metabolized lipids.
 
 ## Context
 
@@ -160,6 +192,10 @@ Deficient: Fatty acid → Incomplete oxidation → Adipic acid (excreted)
 *UID: Z-001-0913 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*  
 *Critical insight: Carnitine is the gatekeeper of fatty acid oxidation — connects directly to your plasma TFA research*
 
+## Core Principle
+
+Carnitine is the essential shuttle molecule that transports long-chain fatty acids from the cytosol into the mitochondrial matrix for β-oxidation (fatty acid breakdown). Without functional carnitine, fatty acids cannot be oxidized for energy, leading to accumulation of incompletely metabolized lipids.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
@@ -168,10 +204,18 @@ Deficient: Fatty acid → Incomplete oxidation → Adipic acid (excreted)
 
 
 
+## Core Principle
+
+Carnitine is the essential shuttle molecule that transports long-chain fatty acids from the cytosol into the mitochondrial matrix for β-oxidation (fatty acid breakdown). Without functional carnitine, fatty acids cannot be oxidized for energy, leading to accumulation of incompletely metabolized lipids.
+
 ## Related
 - [[Lipoproteins_Transport_System_Z-001-0502]|Z-001-0502]
 
 ---
+
+## Core Principle
+
+Carnitine is the essential shuttle molecule that transports long-chain fatty acids from the cytosol into the mitochondrial matrix for β-oxidation (fatty acid breakdown). Without functional carnitine, fatty acids cannot be oxidized for energy, leading to accumulation of incompletely metabolized lipids.
 
 ## Connection to Vault
 

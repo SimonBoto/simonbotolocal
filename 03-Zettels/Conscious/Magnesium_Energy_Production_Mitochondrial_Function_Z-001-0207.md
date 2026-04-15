@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Magnesium is indispensable for cellular energy , serving as a cofactor for key enzymes in glycolysis, the Krebs cycle, β-oxidation, and oxidative phosphorylation.
 
+## Core Principle
+
+> Magnesium is indispensable for cellular energy , serving as a cofactor for key enzymes in glycolysis, the Krebs cycle, β-oxidation, and oxidative phosphorylation.
+
 ## Glycolysis
 
 **Rate-Limiting Step:**
@@ -27,6 +31,10 @@ extraction-date: 2026-03-01
 - Phosphoglycerate kinase
 - Pyruvate kinase
 
+## Core Principle
+
+> Magnesium is indispensable for cellular energy , serving as a cofactor for key enzymes in glycolysis, the Krebs cycle, β-oxidation, and oxidative phosphorylation.
+
 ## Krebs Cycle (Citric Acid Cycle)
 
 **Key Mg-Dependent Enzymes:**
@@ -37,6 +45,10 @@ extraction-date: 2026-03-01
 | **α-ketoglutarate dehydrogenase** | α-ketoglutarate → Succinyl-CoA | Critical regulatory point |
 | **Succinyl-CoA synthetase** | Succinyl-CoA → Succinate | Substrate-level phosphorylation (GTP) |
 
+## Core Principle
+
+> Magnesium is indispensable for cellular energy , serving as a cofactor for key enzymes in glycolysis, the Krebs cycle, β-oxidation, and oxidative phosphorylation.
+
 ##  ATP Synthesis
 
 **ATP Synthase (Complex V):**
@@ -44,11 +56,19 @@ extraction-date: 2026-03-01
 - Mg-ADP + Pi → Mg-ATP + H₂O
 - Structural Mg²⁺ in catalytic subunits
 
+## Core Principle
+
+> Magnesium is indispensable for cellular energy , serving as a cofactor for key enzymes in glycolysis, the Krebs cycle, β-oxidation, and oxidative phosphorylation.
+
 ## β-Oxidation and Lipid Metabolism
 
 **Fatty Acid Activation:**
 - **Acyl-CoA synthetase:** Fatty acid + CoA + Mg-ATP → Acyl-CoA + Mg-AMP + PPi
 - Required for all fatty acid metabolism (oxidation, synthesis)
+
+## Core Principle
+
+> Magnesium is indispensable for cellular energy , serving as a cofactor for key enzymes in glycolysis, the Krebs cycle, β-oxidation, and oxidative phosphorylation.
 
 ## Energy Storage and Transfer
 
@@ -60,6 +80,10 @@ extraction-date: 2026-03-01
 **Adenylate Kinase:**
 - 2 ADP ↔ ATP + AMP (maintains energy charge)
 - Mg²⁺ required for proper conformation
+
+## Core Principle
+
+> Magnesium is indispensable for cellular energy , serving as a cofactor for key enzymes in glycolysis, the Krebs cycle, β-oxidation, and oxidative phosphorylation.
 
 ## Clinical Implications
 
@@ -78,12 +102,20 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 
+## Core Principle
+
+> Magnesium is indispensable for cellular energy , serving as a cofactor for key enzymes in glycolysis, the Krebs cycle, β-oxidation, and oxidative phosphorylation.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Magnesium is indispensable for cellular energy , serving as a cofactor for key enzymes in glycolysis, the Krebs cycle, β-oxidation, and oxidative phosphorylation.
 
 ## Connection to Vault
 

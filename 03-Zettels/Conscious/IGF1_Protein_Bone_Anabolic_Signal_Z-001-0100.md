@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 Protein intake stimulates IGF-1 (-like growth factor-1), which promotes osteoblast proliferation and bone matrix synthesis. IGF-1 is an anabolic signal connecting  to bone formation.
 
+## Core Principle
+
+Protein intake stimulates IGF-1 (-like growth factor-1), which promotes osteoblast proliferation and bone matrix synthesis. IGF-1 is an anabolic signal connecting  to bone formation.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,10 +34,18 @@ Protein intake stimulates IGF-1 (-like growth factor-1), which promotes osteobla
 *UID: Z-001-0100 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Protein intake stimulates IGF-1 (-like growth factor-1), which promotes osteoblast proliferation and bone matrix synthesis. IGF-1 is an anabolic signal connecting  to bone formation.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Protein intake stimulates IGF-1 (-like growth factor-1), which promotes osteoblast proliferation and bone matrix synthesis. IGF-1 is an anabolic signal connecting  to bone formation.
 
 ## Connection to Vault
 

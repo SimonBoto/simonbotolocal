@@ -19,6 +19,10 @@ Research without social or clinical value is unethical regardless of other safeg
 
 **Core principle:** The potential knowledge gain must meaningfully advance health, science, or social welfare. Trivial questions answered at participant expense constitute exploitation.
 
+## Core Principle
+
+Research without social or clinical value is unethical regardless of other safeguards. The fundamental question must be important enough to justify exposing participants to any risk.
+
 ## Key Criteria
 
 | Criterion | Assessment |
@@ -28,6 +32,10 @@ Research without social or clinical value is unethical regardless of other safeg
 | **Implementability** | Can results translate to practice or policy? |
 | **Necessity** | Is this study design the only/best way to answer? |
 
+## Core Principle
+
+Research without social or clinical value is unethical regardless of other safeguards. The fundamental question must be important enough to justify exposing participants to any risk.
+
 ## Application to METHAP
 
 Adipic acid as an insulin resistance  satisfies this requirement:
@@ -35,6 +43,10 @@ Adipic acid as an insulin resistance  satisfies this requirement:
 - **Generalizable:** Findings apply to metabolic syndrome, prediabetes, T2DM
 - **Implementable:** Urine organic acid testing is clinically accessible
 - **Necessary:**  provides earlier detection than conventional markers
+
+## Core Principle
+
+Research without social or clinical value is unethical regardless of other safeguards. The fundamental question must be important enough to justify exposing participants to any risk.
 
 ## Links
 
@@ -46,6 +58,10 @@ Adipic acid as an insulin resistance  satisfies this requirement:
 
 *UID: Z-002-0601 | Domain: 002 | Created: 2026-03-27*
 
+## Core Principle
+
+Research without social or clinical value is unethical regardless of other safeguards. The fundamental question must be important enough to justify exposing participants to any risk.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
@@ -54,6 +70,10 @@ Adipic acid as an insulin resistance  satisfies this requirement:
 
 
 ---
+
+## Core Principle
+
+Research without social or clinical value is unethical regardless of other safeguards. The fundamental question must be important enough to justify exposing participants to any risk.
 
 ## Connection to Vault
 

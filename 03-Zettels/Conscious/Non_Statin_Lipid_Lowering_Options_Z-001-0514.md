@@ -27,6 +27,10 @@ extraction-date: 2026-03-01
 
 > For statin intolerance or insufficient response, several non-statin agents provide complementary pathways to achieve lipid goals.
 
+## Core Principle
+
+> For statin intolerance or insufficient response, several non-statin agents provide complementary pathways to achieve lipid goals.
+
 ## Ezetimibe
 
 **:** Inhibits intestinal  absorption (NPC1L1)
@@ -34,12 +38,20 @@ extraction-date: 2026-03-01
 **Trial:** IMPROVE-IT showed incremental benefit
 **Use:** Add-on or statin alternative
 
+## Core Principle
+
+> For statin intolerance or insufficient response, several non-statin agents provide complementary pathways to achieve lipid goals.
+
 ## PCSK9 Inhibitors
 
 **Drugs:** Evolocumab, alirocumab (monoclonal antibodies)
 **Efficacy:** LDL ↓ 50-60% added to statin
 **Trials:** FOURIER, ODYSSEY showed outcome benefit
 **Use:** High-risk, familial hypercholesterolemia
+
+## Core Principle
+
+> For statin intolerance or insufficient response, several non-statin agents provide complementary pathways to achieve lipid goals.
 
 ## Bempedoic Acid
 
@@ -49,11 +61,19 @@ extraction-date: 2026-03-01
 **Trial:** CLEAR Outcomes positive
 **Use:** Statin intolerance
 
+## Core Principle
+
+> For statin intolerance or insufficient response, several non-statin agents provide complementary pathways to achieve lipid goals.
+
 ## Bile Acid Sequestrants
 
 **Drugs:** Cholestyramine, colesevelam
 **Efficacy:** LDL ↓ 15-20%
 **Use:** Pregnancy (safe), adjunctive
+
+## Core Principle
+
+> For statin intolerance or insufficient response, several non-statin agents provide complementary pathways to achieve lipid goals.
 
 ## Fibrates
 
@@ -61,6 +81,10 @@ extraction-date: 2026-03-01
 **Efficacy:** TG ↓ 30-50%, HDL ↑ 5-15%
 **Use:** Severe hypertriglyceridemia
 **Caution:** Myopathy with statins (avoid gemfibrozil)
+
+## Core Principle
+
+> For statin intolerance or insufficient response, several non-statin agents provide complementary pathways to achieve lipid goals.
 
 ## Omega-3
 
@@ -74,6 +98,10 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Statin_Pharmacology_L-001-0502]*
 
 
+## Core Principle
+
+> For statin intolerance or insufficient response, several non-statin agents provide complementary pathways to achieve lipid goals.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
@@ -81,6 +109,10 @@ extraction-date: 2026-03-01
 - _Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> For statin intolerance or insufficient response, several non-statin agents provide complementary pathways to achieve lipid goals.
 
 ## Connection to Vault
 

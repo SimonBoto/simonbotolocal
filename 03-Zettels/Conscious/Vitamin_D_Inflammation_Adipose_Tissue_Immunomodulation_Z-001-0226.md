@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Vitamin D exerts potent anti-inflammatory effects in adipose tissue, modulating adipokine production, macrophage polarization, and inflammatory signaling pathways that drive metabolic dysfunction in obesity and metabolic syndrome.
 
+## Core Principle
+
+> Vitamin D exerts potent anti-inflammatory effects in adipose tissue, modulating adipokine production, macrophage polarization, and inflammatory signaling pathways that drive metabolic dysfunction in obesity and metabolic syndrome.
+
 ## Adipose Tissue as Target
 
 ### VDR Expression in Adipocytes
@@ -37,6 +41,10 @@ extraction-date: 2026-03-01
 | **Adiponectin** | Insulin-sensitizing, anti-inflammatory | ↑ Production |
 | **IL-10** | Anti-inflammatory cytokine | ↑ Production |
 
+## Core Principle
+
+> Vitamin D exerts potent anti-inflammatory effects in adipose tissue, modulating adipokine production, macrophage polarization, and inflammatory signaling pathways that drive metabolic dysfunction in obesity and metabolic syndrome.
+
 ## Macrophage Polarization
 
 ### Adipose Tissue Macrophages (ATMs)
@@ -56,6 +64,10 @@ extraction-date: 2026-03-01
 - VDR signaling in macrophages
 - Regulation of transcription factors (PPAR-γ, NF-κB)
 - Cytokine gene expression modulation
+
+## Core Principle
+
+> Vitamin D exerts potent anti-inflammatory effects in adipose tissue, modulating adipokine production, macrophage polarization, and inflammatory signaling pathways that drive metabolic dysfunction in obesity and metabolic syndrome.
 
 ## Inflammatory Signaling Pathways
 
@@ -92,6 +104,10 @@ extraction-date: 2026-03-01
 - Enhances Treg suppressive function
 - Reduces Th1/Th17 pro-inflammatory responses
 
+## Core Principle
+
+> Vitamin D exerts potent anti-inflammatory effects in adipose tissue, modulating adipokine production, macrophage polarization, and inflammatory signaling pathways that drive metabolic dysfunction in obesity and metabolic syndrome.
+
 ## Clinical Evidence
 
 ### Observational Studies
@@ -117,6 +133,10 @@ extraction-date: 2026-03-01
 - Reduced parathyroid hormone (surrogate for inflammation?)
 - Trends toward improved inflammatory markers
 
+## Core Principle
+
+> Vitamin D exerts potent anti-inflammatory effects in adipose tissue, modulating adipokine production, macrophage polarization, and inflammatory signaling pathways that drive metabolic dysfunction in obesity and metabolic syndrome.
+
 ## Connection to Insulin Resistance
 
 ### Inflammation → IR Mechanism
@@ -130,6 +150,10 @@ extraction-date: 2026-03-01
 - Reduces cytokine production
 - Preserves insulin signaling
 - Improves glucose uptake
+
+## Core Principle
+
+> Vitamin D exerts potent anti-inflammatory effects in adipose tissue, modulating adipokine production, macrophage polarization, and inflammatory signaling pathways that drive metabolic dysfunction in obesity and metabolic syndrome.
 
 ## METHAP Rationale
 
@@ -154,6 +178,10 @@ extraction-date: 2026-03-01
 - Obese patients require higher doses (fat sequestration)
 - Duration: 12+ weeks for measurable effects
 
+## Core Principle
+
+> Vitamin D exerts potent anti-inflammatory effects in adipose tissue, modulating adipokine production, macrophage polarization, and inflammatory signaling pathways that drive metabolic dysfunction in obesity and metabolic syndrome.
+
 ## Summary
 
 Vitamin D's anti-inflammatory effects in adipose tissue represent a key mechanism for metabolic benefits in MetS:
@@ -169,6 +197,10 @@ This provides strong rationale for high-dose vitamin D in METHAP protocol.
 *Source: [[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]*  
 *Related: [[Metabolic_Syndrome_Pathophysiology_Insulin_Resistance_Z-001-0202]*  
 *Extracted: 2026-03-01*
+## Core Principle
+
+> Vitamin D exerts potent anti-inflammatory effects in adipose tissue, modulating adipokine production, macrophage polarization, and inflammatory signaling pathways that drive metabolic dysfunction in obesity and metabolic syndrome.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[CRP_[B-002-0001]|Biomarker Family]
@@ -180,6 +212,10 @@ This provides strong rationale for high-dose vitamin D in METHAP protocol.
 
 
 ---
+
+## Core Principle
+
+> Vitamin D exerts potent anti-inflammatory effects in adipose tissue, modulating adipokine production, macrophage polarization, and inflammatory signaling pathways that drive metabolic dysfunction in obesity and metabolic syndrome.
 
 ## Connection to Vault
 

@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 Denosumab reduces bone resorption and calcium release from bone, creating risk of hypocalcemia. Particularly dangerous in patients with hypoparathyroidism,  deficiency, or severe renal impairment. Monitor serum calcium closely.
 
+## Core Principle
+
+Denosumab reduces bone resorption and calcium release from bone, creating risk of hypocalcemia. Particularly dangerous in patients with hypoparathyroidism,  deficiency, or severe renal impairment. Monitor serum calcium closely.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,12 +34,20 @@ Denosumab reduces bone resorption and calcium release from bone, creating risk o
 *UID: Z-001-0088 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Denosumab reduces bone resorption and calcium release from bone, creating risk of hypocalcemia. Particularly dangerous in patients with hypoparathyroidism,  deficiency, or severe renal impairment. Monitor serum calcium closely.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+Denosumab reduces bone resorption and calcium release from bone, creating risk of hypocalcemia. Particularly dangerous in patients with hypoparathyroidism,  deficiency, or severe renal impairment. Monitor serum calcium closely.
 
 ## Connection to Vault
 

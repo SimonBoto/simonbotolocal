@@ -16,6 +16,10 @@ extraction-date: 2026-03-02
 
 **Key Concept:** IDH exemplifies dual-function enzymology — both dehydrogenation AND decarboxylation in one catalytic cycle.
 
+## Core Principle
+
+**Key Concept:** IDH exemplifies dual-function enzymology — both dehydrogenation AND decarboxylation in one catalytic cycle.
+
 ## Dual Reaction Mechanism
 
 ### Step 1: Dehydrogenation (Oxidation)
@@ -41,6 +45,10 @@ Isocitrate + NAD⁺ → α-ketoglutarate + CO₂ + NADH + H⁺
 
 **Energy yield:** 1 NADH per isocitrate → ~2.5 ATP via ETC
 
+## Core Principle
+
+**Key Concept:** IDH exemplifies dual-function enzymology — both dehydrogenation AND decarboxylation in one catalytic cycle.
+
 ## Why "Dehydrogenase" in the Name?
 
 Despite performing both reactions, IDH is classified as a dehydrogenase because:
@@ -48,6 +56,10 @@ Despite performing both reactions, IDH is classified as a dehydrogenase because:
 1. **Coupled mechanism:** Decarboxylation depends on prior oxidation
 2. **Energetic significance:** NADH production is the metabolically important event
 3. **Historical precedent:** Named for the observable redox chemistry
+
+## Core Principle
+
+**Key Concept:** IDH exemplifies dual-function enzymology — both dehydrogenation AND decarboxylation in one catalytic cycle.
 
 ## IDH Isoforms
 
@@ -77,6 +89,10 @@ Despite performing both reactions, IDH is classified as a dehydrogenase because:
   - Mitochondrial NADPH production
   - Protection against oxidative stress
   - Aconitase repair (iron-sulfur cluster maintenance)
+
+## Core Principle
+
+**Key Concept:** IDH exemplifies dual-function enzymology — both dehydrogenation AND decarboxylation in one catalytic cycle.
 
 ## Clinical Significance — IDH Mutations in 
 
@@ -121,6 +137,10 @@ Despite performing both reactions, IDH is classified as a dehydrogenase because:
 - Allow cellular differentiation
 - Reduce epigenetic dysregulation
 
+## Core Principle
+
+**Key Concept:** IDH exemplifies dual-function enzymology — both dehydrogenation AND decarboxylation in one catalytic cycle.
+
 ## METHAP Connection
 
 While primarily a cancer target, IDH highlights:
@@ -133,6 +153,10 @@ While primarily a cancer target, IDH highlights:
 *See also: [[Dehydrogenases_vs_Decarboxylases_Z-101-0019]*
 
 
+## Core Principle
+
+**Key Concept:** IDH exemplifies dual-function enzymology — both dehydrogenation AND decarboxylation in one catalytic cycle.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -140,6 +164,10 @@ While primarily a cancer target, IDH highlights:
 - 
 
 ---
+
+## Core Principle
+
+**Key Concept:** IDH exemplifies dual-function enzymology — both dehydrogenation AND decarboxylation in one catalytic cycle.
 
 ## Connection to Vault
 

@@ -29,6 +29,10 @@ Vitamin K2 (menaquinone) activates calcium-binding proteins that direct calcium 
 
 **Forms:** MK-4 (menaquinone-4) and MK-7 (menaquinone-7); MK-7 has longer half-life.
 
+## Core Principle
+
+Vitamin K2 (menaquinone) activates calcium-binding proteins that direct calcium to appropriate destinations: osteocalcin (incorporates calcium into bone matrix) and Matrix Gla Protein/MGP (inhibits calcium deposition in arteries/soft tissues). This prevents ectopic calcification from high  + calcium intake.
+
 ## Links
 
 **Parent MOC:** -
@@ -40,11 +44,19 @@ Vitamin K2 (menaquinone) activates calcium-binding proteins that direct calcium 
 *UID: Z-001-0065 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Vitamin K2 (menaquinone) activates calcium-binding proteins that direct calcium to appropriate destinations: osteocalcin (incorporates calcium into bone matrix) and Matrix Gla Protein/MGP (inhibits calcium deposition in arteries/soft tissues). This prevents ectopic calcification from high  + calcium intake.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+Vitamin K2 (menaquinone) activates calcium-binding proteins that direct calcium to appropriate destinations: osteocalcin (incorporates calcium into bone matrix) and Matrix Gla Protein/MGP (inhibits calcium deposition in arteries/soft tissues). This prevents ectopic calcification from high  + calcium intake.
 
 ## Connection to Vault
 

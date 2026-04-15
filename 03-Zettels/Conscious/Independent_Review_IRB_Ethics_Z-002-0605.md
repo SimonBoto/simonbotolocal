@@ -19,6 +19,10 @@ A neutral body must independently review research protocols to ensure unbiased e
 
 **Core principle:** Researchers cannot be the sole judges of their own ethics. Independent review prevents conflicts of interest and ensures diverse perspectives on risk and benefit.
 
+## Core Principle
+
+A neutral body must independently review research protocols to ensure unbiased ethical judgment. Institutional Review Boards (IRBs) serve as community representatives and ethical gatekeepers.
+
 ## IRB Functions
 
 | Function | Description |
@@ -29,6 +33,10 @@ A neutral body must independently review research protocols to ensure unbiased e
 | **Ongoing oversight** | Monitor for adverse events, protocol deviations |
 | **Continuing review** | Re-approve studies at defined intervals |
 
+## Core Principle
+
+A neutral body must independently review research protocols to ensure unbiased ethical judgment. Institutional Review Boards (IRBs) serve as community representatives and ethical gatekeepers.
+
 ## IRB Composition Requirements
 
 - Scientific expertise
@@ -38,6 +46,10 @@ A neutral body must independently review research protocols to ensure unbiased e
 - Diversity of perspectives
 - At least one non-affiliated member
 
+## Core Principle
+
+A neutral body must independently review research protocols to ensure unbiased ethical judgment. Institutional Review Boards (IRBs) serve as community representatives and ethical gatekeepers.
+
 ## Review Categories
 
 | Category | Definition | Review Type |
@@ -45,6 +57,10 @@ A neutral body must independently review research protocols to ensure unbiased e
 | **Exempt** | Minimal risk, specific categories | Administrative review |
 | **Expedited** | Minor risk, specific procedures | Designated reviewer |
 | **Full board** | Greater than minimal risk | Full committee review |
+
+## Core Principle
+
+A neutral body must independently review research protocols to ensure unbiased ethical judgment. Institutional Review Boards (IRBs) serve as community representatives and ethical gatekeepers.
 
 ## Application to METHAP
 
@@ -54,6 +70,10 @@ METHAP requires:
 - **Adverse event reporting** within defined timeframes
 - **Protocol amendments** require re-approval
 - **Annual progress reports** to maintain authorization
+
+## Core Principle
+
+A neutral body must independently review research protocols to ensure unbiased ethical judgment. Institutional Review Boards (IRBs) serve as community representatives and ethical gatekeepers.
 
 ## Links
 
@@ -66,17 +86,33 @@ METHAP requires:
 *UID: Z-002-0605 | Domain: 002 | Created: 2026-03-27*
 
 
+## Core Principle
+
+A neutral body must independently review research protocols to ensure unbiased ethical judgment. Institutional Review Boards (IRBs) serve as community representatives and ethical gatekeepers.
+
 ## Related
 - [[Questionnaire_Ethics_Approval_Strategies_Z-101-0482]|Z-101-0482]
 
+
+## Core Principle
+
+A neutral body must independently review research protocols to ensure unbiased ethical judgment. Institutional Review Boards (IRBs) serve as community representatives and ethical gatekeepers.
 
 ## Related
 - [[METHAP_Participant_Selection_Sample_Size_Z-002-0617]|Z-002-0617]
 
 
+## Core Principle
+
+A neutral body must independently review research protocols to ensure unbiased ethical judgment. Institutional Review Boards (IRBs) serve as community representatives and ethical gatekeepers.
+
 ## Related
 - _Analysis_Plan_Z-002-0620]|Z-002-0620]
 
+
+## Core Principle
+
+A neutral body must independently review research protocols to ensure unbiased ethical judgment. Institutional Review Boards (IRBs) serve as community representatives and ethical gatekeepers.
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -84,6 +120,10 @@ METHAP requires:
 - [[Declaration_Helsinki_Research_Ethics_Z-002-0609]|Z-002-0609]
 
 ---
+
+## Core Principle
+
+A neutral body must independently review research protocols to ensure unbiased ethical judgment. Institutional Review Boards (IRBs) serve as community representatives and ethical gatekeepers.
 
 ## Connection to Vault
 

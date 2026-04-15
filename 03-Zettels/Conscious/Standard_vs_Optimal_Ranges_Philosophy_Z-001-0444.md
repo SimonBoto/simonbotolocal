@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Standard laboratory ranges are derived from population averages and may miss functional deficiencies, while optimal ranges target peak physiological performance and prevention.
 
+## Core Principle
+
+> Standard laboratory ranges are derived from population averages and may miss functional deficiencies, while optimal ranges target peak physiological performance and prevention.
+
 ## Standard (Population) Ranges
 
 **Basis:**
@@ -28,6 +32,10 @@ extraction-date: 2026-03-01
 - "Normal" doesn't mean "optimal"
 - Reactive, not preventive
 
+## Core Principle
+
+> Standard laboratory ranges are derived from population averages and may miss functional deficiencies, while optimal ranges target peak physiological performance and prevention.
+
 ## Optimal (Functional) Ranges
 
 **Basis:**
@@ -40,6 +48,10 @@ extraction-date: 2026-03-01
 - More stringent cutoffs
 - Goal: Optimal, not just adequate
 - Proactive approach
+
+## Core Principle
+
+> Standard laboratory ranges are derived from population averages and may miss functional deficiencies, while optimal ranges target peak physiological performance and prevention.
 
 ## Clinical Implication
 
@@ -57,11 +69,19 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_B12_Clinical_Assessment_L-001-0408]*
 
 
+## Core Principle
+
+> Standard laboratory ranges are derived from population averages and may miss functional deficiencies, while optimal ranges target peak physiological performance and prevention.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Standard laboratory ranges are derived from population averages and may miss functional deficiencies, while optimal ranges target peak physiological performance and prevention.
 
 ## Connection to Vault
 

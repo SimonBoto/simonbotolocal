@@ -20,17 +20,29 @@ status: conscious
 
 This zettel documents the methods for calculating free testosterone from total testosterone, SHBG, and albumin levels.
 
+## Core Principle
+
+This zettel documents the methods for calculating free testosterone from total testosterone, SHBG, and albumin levels.
+
 ## Calculation Methods
 
 - **Vermeulen Formula:** Most widely used, accounts for testosterone, SHBG, albumin, and temperature
 - **Sodergard Formula:** Simpler calculation based on testosterone and SHBG
 - **Morales Formula:** Uses testosterone, SHBG, and albumin with different coefficients
 
+## Core Principle
+
+This zettel documents the methods for calculating free testosterone from total testosterone, SHBG, and albumin levels.
+
 ## Clinical Application
 
 - Free testosterone calculation is preferred over direct measurement when SHBG levels are abnormal
 - Calculation methods are more accurate than immunoassay measurements of free testosterone
 - Essential for patients with obesity, liver disease, or thyroid disorders
+
+## Core Principle
+
+This zettel documents the methods for calculating free testosterone from total testosterone, SHBG, and albumin levels.
 
 ## Interpretation Guidelines
 

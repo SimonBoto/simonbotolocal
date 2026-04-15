@@ -21,6 +21,10 @@ High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hy
 
 ---
 
+## Core Principle
+
+High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hypercalcemia or hypercalciuria. **Clinical target: 80-150 ng/mL** (optimal metabolic range, not just "sufficient" >30 ng/mL).
+
 ## 🎯 Target Ranges (Clinical vs Population)
 
 | 25-OH Vitamin D | Status | Action |
@@ -38,7 +42,15 @@ High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hy
 
 ---
 
+## Core Principle
+
+High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hypercalcemia or hypercalciuria. **Clinical target: 80-150 ng/mL** (optimal metabolic range, not just "sufficient" >30 ng/mL).
+
 ## 📊 Monitoring Protocol
+
+## Core Principle
+
+High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hypercalcemia or hypercalciuria. **Clinical target: 80-150 ng/mL** (optimal metabolic range, not just "sufficient" >30 ng/mL).
 
 ## Links
 
@@ -51,35 +63,67 @@ High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hy
 *UID: Z-001-0091 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hypercalcemia or hypercalciuria. **Clinical target: 80-150 ng/mL** (optimal metabolic range, not just "sufficient" >30 ng/mL).
+
 ## Related
 - [[Vascular_Calcification_Prevention_Reversal_Z-001-0272]|Z-001-0272]
 
+
+## Core Principle
+
+High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hypercalcemia or hypercalciuria. **Clinical target: 80-150 ng/mL** (optimal metabolic range, not just "sufficient" >30 ng/mL).
 
 ## Related
 - [[D_K2_Production_Activation_Partnership_Z-001-0253]|Z-001-0253]
 
 
+## Core Principle
+
+High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hypercalcemia or hypercalciuria. **Clinical target: 80-150 ng/mL** (optimal metabolic range, not just "sufficient" >30 ng/mL).
+
 ## Related
 - _Forms_MK4_MK7_Z-001-0227]|Z-001-0227]
 
+
+## Core Principle
+
+High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hypercalcemia or hypercalciuria. **Clinical target: 80-150 ng/mL** (optimal metabolic range, not just "sufficient" >30 ng/mL).
 
 ## Related
 - [[Vitamin_D_Methylation_Cross_Talk_Z-001-0412]|Z-001-0412]
 
 
+## Core Principle
+
+High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hypercalcemia or hypercalciuria. **Clinical target: 80-150 ng/mL** (optimal metabolic range, not just "sufficient" >30 ng/mL).
+
 ## Related
 - [[Personalized_Vitamin_D_vs_Population_Guidelines_Z-001-0074]|Z-001-0074]
 
 
+## Core Principle
+
+High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hypercalcemia or hypercalciuria. **Clinical target: 80-150 ng/mL** (optimal metabolic range, not just "sufficient" >30 ng/mL).
+
 ## Related
 - [[Vitamin_D_Paradigm_Failure_Production_vs_Recommendations_Z-001-0073]|Z-001-0073]
 
+
+## Core Principle
+
+High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hypercalcemia or hypercalciuria. **Clinical target: 80-150 ng/mL** (optimal metabolic range, not just "sufficient" >30 ng/mL).
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+High-dose vitamin D requires monitoring of serum 25(OH)D and calcium to avoid hypercalcemia or hypercalciuria. **Clinical target: 80-150 ng/mL** (optimal metabolic range, not just "sufficient" >30 ng/mL).
 
 ## Connection to Vault
 

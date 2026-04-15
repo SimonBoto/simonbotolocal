@@ -18,6 +18,10 @@ extraction-date: 2026-04-15
 
 Krebs cycle (tricarboxylic acid cycle) intermediates serve as functional s of mitochondrial  and insulin sensitivity. Accumulation of specific organic acids reflects enzymatic bottlenecks, cofactor deficiencies, or metabolic pathway dysregulation characteristic of insulin resistance.
 
+## Core Principle
+
+Krebs cycle (tricarboxylic acid cycle) intermediates serve as functional s of mitochondrial  and insulin sensitivity. Accumulation of specific organic acids reflects enzymatic bottlenecks, cofactor deficiencies, or metabolic pathway dysregulation characteristic of insulin resistance.
+
 ## Krebs Cycle Overview
 
 ```
@@ -26,6 +30,10 @@ Citrate → Isocitrate → α-Ketoglutarate → Succinyl-CoA → Succinate → F
 ```
 
 **Function:** Oxidizes acetyl-CoA to CO2, generating NADH and FADH2 for ATP production.
+
+## Core Principle
+
+Krebs cycle (tricarboxylic acid cycle) intermediates serve as functional s of mitochondrial  and insulin sensitivity. Accumulation of specific organic acids reflects enzymatic bottlenecks, cofactor deficiencies, or metabolic pathway dysregulation characteristic of insulin resistance.
 
 ## Metabolite Biomarker Patterns
 
@@ -72,6 +80,10 @@ Citrate → Isocitrate → α-Ketoglutarate → Succinyl-CoA → Succinate → F
 - Pattern indicates iron deficiency or oxidative damage
 - Oxidative stress marker (aconitase is ROS-sensitive)
 
+## Core Principle
+
+Krebs cycle (tricarboxylic acid cycle) intermediates serve as functional s of mitochondrial  and insulin sensitivity. Accumulation of specific organic acids reflects enzymatic bottlenecks, cofactor deficiencies, or metabolic pathway dysregulation characteristic of insulin resistance.
+
 ## Summary Table: Krebs Cycle Metabolites in Disease
 
 | Metabolite | Pattern | Condition | Mechanism |
@@ -80,6 +92,10 @@ Citrate → Isocitrate → α-Ketoglutarate → Succinyl-CoA → Succinate → F
 | **Succinate** | ↑ Elevated | Fatigue, cardiac issues | CoQ10/B2 deficiency, Complex II dysfunction |
 | **Citrate** | ↓ Low | Kidney stones, cystic fibrosis | Reduced citrate excretion/circulation |
 | **Aconitic/Isocitric** | High/Low ratio | Iron deficiency, oxidative stress | Aconitase (iron-dependent) dysfunction |
+
+## Core Principle
+
+Krebs cycle (tricarboxylic acid cycle) intermediates serve as functional s of mitochondrial  and insulin sensitivity. Accumulation of specific organic acids reflects enzymatic bottlenecks, cofactor deficiencies, or metabolic pathway dysregulation characteristic of insulin resistance.
 
 ## METHAP Relevance
 
@@ -105,11 +121,19 @@ Both adipic acid and malate relate to **fatty acid metabolism dysregulation**:
 
 **Hypothesis:** VD intervention may improve both markers by optimizing fatty acid metabolism.
 
+## Core Principle
+
+Krebs cycle (tricarboxylic acid cycle) intermediates serve as functional s of mitochondrial  and insulin sensitivity. Accumulation of specific organic acids reflects enzymatic bottlenecks, cofactor deficiencies, or metabolic pathway dysregulation characteristic of insulin resistance.
+
 ## Links
 
 - **Upstream/Prerequisite:** [[Cofactor_Metabolite_Biomarker_Logic_B12_Model_Z-001-0911]] — Same diagnostic logic
 - **Parallel/Related:** [[Carnitine_Fatty_Acid_Transport_Z-001-0913]] — Fatty acid metabolism pathway
 - **Downstream/Consequence:** _Taxonomy] — Classification of these markers
+
+## Core Principle
+
+Krebs cycle (tricarboxylic acid cycle) intermediates serve as functional s of mitochondrial  and insulin sensitivity. Accumulation of specific organic acids reflects enzymatic bottlenecks, cofactor deficiencies, or metabolic pathway dysregulation characteristic of insulin resistance.
 
 ## Context
 
@@ -122,6 +146,10 @@ Both adipic acid and malate relate to **fatty acid metabolism dysregulation**:
 *UID: Z-001-0912 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*  
 *Critical insight: Malate elevation directly linked to insulin resistance in course material*
 
+## Core Principle
+
+Krebs cycle (tricarboxylic acid cycle) intermediates serve as functional s of mitochondrial  and insulin sensitivity. Accumulation of specific organic acids reflects enzymatic bottlenecks, cofactor deficiencies, or metabolic pathway dysregulation characteristic of insulin resistance.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -130,6 +158,10 @@ Both adipic acid and malate relate to **fatty acid metabolism dysregulation**:
 
 
 ---
+
+## Core Principle
+
+Krebs cycle (tricarboxylic acid cycle) intermediates serve as functional s of mitochondrial  and insulin sensitivity. Accumulation of specific organic acids reflects enzymatic bottlenecks, cofactor deficiencies, or metabolic pathway dysregulation characteristic of insulin resistance.
 
 ## Connection to Vault
 

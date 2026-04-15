@@ -17,6 +17,10 @@ created: 2026-03-27
 
 When standard follow-up fails, structured escalation protects your interests while preserving professional relationships. Escalation should be proportional and documented.
 
+## Core Principle
+
+When standard follow-up fails, structured escalation protects your interests while preserving professional relationships. Escalation should be proportional and documented.
+
 ## Escalation Ladder
 
 ### Level 1: Administrative Contact
@@ -49,6 +53,10 @@ When standard follow-up fails, structured escalation protects your interests whi
 **Method:** Formal complaint  
 **Goal:** Independent investigation
 
+## Core Principle
+
+When standard follow-up fails, structured escalation protects your interests while preserving professional relationships. Escalation should be proportional and documented.
+
 ## Escalation Risks
 
 | Risk | Mitigation |
@@ -57,6 +65,10 @@ When standard follow-up fails, structured escalation protects your interests whi
 | **Damage supervisor relationship** | Consult supervisor before each escalation |
 | **Appear impatient** | Document timeline, show reasonableness |
 | **Burn bridges** | Focus on process, not personalities |
+
+## Core Principle
+
+When standard follow-up fails, structured escalation protects your interests while preserving professional relationships. Escalation should be proportional and documented.
 
 ## Documentation for Escalation
 
@@ -67,6 +79,10 @@ Before escalating, ensure you have:
 - [ ] Committee meeting schedules (if public)
 - [ ] Institutional policies on review timelines
 
+## Core Principle
+
+When standard follow-up fails, structured escalation protects your interests while preserving professional relationships. Escalation should be proportional and documented.
+
 ## When NOT to Escalate
 
 Avoid escalation if:
@@ -75,6 +91,10 @@ Avoid escalation if:
 - Committee is in quorum call (no meetings scheduled)
 - You have unaddressed conflicts of interest
 
+## Core Principle
+
+When standard follow-up fails, structured escalation protects your interests while preserving professional relationships. Escalation should be proportional and documented.
+
 ## Application to METHAP
 
 If NKUA delays:
@@ -82,6 +102,10 @@ If NKUA delays:
 2. Follow up at 8 weeks (normal ~6 weeks)
 3. Escalate to PhD coordinator at 12 weeks
 4. Consider ombudsman only if >6 months
+
+## Core Principle
+
+When standard follow-up fails, structured escalation protects your interests while preserving professional relationships. Escalation should be proportional and documented.
 
 ## Links
 
@@ -94,11 +118,19 @@ If NKUA delays:
 *UID: Z-002-0615 | Domain: 002 | Created: 2026-03-27*
 
 
+## Core Principle
+
+When standard follow-up fails, structured escalation protects your interests while preserving professional relationships. Escalation should be proportional and documented.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+When standard follow-up fails, structured escalation protects your interests while preserving professional relationships. Escalation should be proportional and documented.
 
 ## Connection to Vault
 

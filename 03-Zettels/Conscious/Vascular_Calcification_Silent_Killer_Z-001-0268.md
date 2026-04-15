@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Vascular calcification—the deposition of  phosphate crystals in arterial walls—affects 90% of adults over 70, increases cardiovascular risk independent of traditional factors, and often remains asymptomatic until advanced stages.
 
+## Core Principle
+
+> Vascular calcification—the deposition of  phosphate crystals in arterial walls—affects 90% of adults over 70, increases cardiovascular risk independent of traditional factors, and often remains asymptomatic until advanced stages.
+
 ## Definition and Types
 
 **Intimal Calcification:**
@@ -26,6 +30,10 @@ extraction-date: 2026-03-01
 - Independent of atherosclerosis
 - Stiffens arteries
 - Common in , CKD, aging
+
+## Core Principle
+
+> Vascular calcification—the deposition of  phosphate crystals in arterial walls—affects 90% of adults over 70, increases cardiovascular risk independent of traditional factors, and often remains asymptomatic until advanced stages.
 
 ## Prevalence
 
@@ -39,6 +47,10 @@ extraction-date: 2026-03-01
 - CKD: Nearly universal (dialysis)
 - Metabolic syndrome: Accelerated
 - Postmenopausal women: Increased
+
+## Core Principle
+
+> Vascular calcification—the deposition of  phosphate crystals in arterial walls—affects 90% of adults over 70, increases cardiovascular risk independent of traditional factors, and often remains asymptomatic until advanced stages.
 
 ##  Consequences
 
@@ -58,6 +70,10 @@ extraction-date: 2026-03-01
 - Reduced perfusion
 - Ischemia
 - Organ dysfunction
+
+## Core Principle
+
+> Vascular calcification—the deposition of  phosphate crystals in arterial walls—affects 90% of adults over 70, increases cardiovascular risk independent of traditional factors, and often remains asymptomatic until advanced stages.
 
 ## Silent Nature
 
@@ -82,12 +98,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Vascular_Calcification_L-001-0215]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Vascular calcification—the deposition of  phosphate crystals in arterial walls—affects 90% of adults over 70, increases cardiovascular risk independent of traditional factors, and often remains asymptomatic until advanced stages.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[Omega_6_Cardiovascular_Controversy_Z-001-0962]|Z-001-0962]
 
 ---
+
+## Core Principle
+
+> Vascular calcification—the deposition of  phosphate crystals in arterial walls—affects 90% of adults over 70, increases cardiovascular risk independent of traditional factors, and often remains asymptomatic until advanced stages.
 
 ## Connection to Vault
 

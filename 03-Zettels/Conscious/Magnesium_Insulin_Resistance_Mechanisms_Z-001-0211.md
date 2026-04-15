@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
 
+## Core Principle
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
+
 ## How Low Magnesium Causes Insulin Resistance
 
 ### 1. Impaired Insulin Receptor Function
@@ -58,6 +62,10 @@ extraction-date: 2026-03-01
 - Oxidative stress impairs insulin signaling
 - Reduced antioxidant enzyme activity (many are Mg-dependent)
 
+## Core Principle
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
+
 ## How Insulin Resistance Causes Magnesium Deficiency
 
 ### 1. Renal Magnesium Wasting
@@ -78,6 +86,10 @@ extraction-date: 2026-03-01
 - Low whole grains, nuts, leafy greens
 - High sugar increases both IR and Mg excretion
 
+## Core Principle
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
+
 ## The Vicious Cycle
 
 ```
@@ -90,6 +102,10 @@ Mg Deficiency → Insulin Resistance
 - Mg supplementation improves insulin sensitivity
 - Improved insulin sensitivity reduces Mg wasting
 - Positive feedback loop established
+
+## Core Principle
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
 
 ## Clinical Implications
 
@@ -108,6 +124,10 @@ Mg Deficiency → Insulin Resistance
 *Extracted: 2026-03-01*
 
 
+## Core Principle
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[CRP_[B-002-0001]|Biomarker Family]
@@ -116,6 +136,10 @@ Mg Deficiency → Insulin Resistance
 - 
 
 ---
+
+## Core Principle
+
+> Magnesium deficiency and  form a bidirectional, vicious relationship where each condition exacerbates the other through multiple cellular and systemic mechanisms.
 
 ## Connection to Vault
 

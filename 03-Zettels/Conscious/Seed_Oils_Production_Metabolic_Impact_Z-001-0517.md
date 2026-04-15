@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Industrial seed oils became dietary staples in the late 20th century, dramatically increasing linoleic acid consumption with profound metabolic consequences.
 
+## Core Principle
+
+> Industrial seed oils became dietary staples in the late 20th century, dramatically increasing linoleic acid consumption with profound metabolic consequences.
+
 ## Seed Oil Composition
 
 | Oil | Linoleic Acid |
@@ -26,12 +30,20 @@ extraction-date: 2026-03-01
 | **Canola** | 20-25% |
 | **Olive** | 10% |
 
+## Core Principle
+
+> Industrial seed oils became dietary staples in the late 20th century, dramatically increasing linoleic acid consumption with profound metabolic consequences.
+
 ## Historical Timeline
 
 **Pre-1900:** Animal fats, olive oil
 **1911:** Crisco introduced (cottonseed)
 **1950-80:** Saturated fat demonized
 **1980-Present:** Seed oil consumption ↑ 1000x
+
+## Core Principle
+
+> Industrial seed oils became dietary staples in the late 20th century, dramatically increasing linoleic acid consumption with profound metabolic consequences.
 
 ## Metabolic Consequences
 
@@ -55,6 +67,10 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Seed_Oils_Omega_Fatty_Acids_L-001-0503]*
 
 
+## Core Principle
+
+> Industrial seed oils became dietary staples in the late 20th century, dramatically increasing linoleic acid consumption with profound metabolic consequences.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
@@ -63,6 +79,10 @@ extraction-date: 2026-03-01
 - [[Omega6_Omega3_Ratio_Inflammatory_Potential_Z-001-0564]|Z-001-0564]
 
 ---
+
+## Core Principle
+
+> Industrial seed oils became dietary staples in the late 20th century, dramatically increasing linoleic acid consumption with profound metabolic consequences.
 
 ## Connection to Vault
 

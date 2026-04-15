@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > The ADA's clinical guidelines, particularly regarding HbA1c targets and dietary recommendations, have evolved through controversy, with debates over strict glycemic control, individualization, and potential industry influence on treatment recommendations.
 
+## Core Principle
+
+> The ADA's clinical guidelines, particularly regarding HbA1c targets and dietary recommendations, have evolved through controversy, with debates over strict glycemic control, individualization, and potential industry influence on treatment recommendations.
+
 ## HbA1c Target Controversies
 
 **Historical Shifts:**
@@ -36,6 +40,10 @@ extraction-date: 2026-03-01
 - **Elderly, comorbid:** <8% (or higher)
 - **Life expectancy, hypoglycemia risk considered**
 
+## Core Principle
+
+> The ADA's clinical guidelines, particularly regarding HbA1c targets and dietary recommendations, have evolved through controversy, with debates over strict glycemic control, individualization, and potential industry influence on treatment recommendations.
+
 ## Dietary Guideline Debates
 
 **Carbohydrate Recommendations:**
@@ -55,6 +63,10 @@ extraction-date: 2026-03-01
 - Criticism: Historically soft on sugar industry
 - Evolution: Stronger stance now
 
+## Core Principle
+
+> The ADA's clinical guidelines, particularly regarding HbA1c targets and dietary recommendations, have evolved through controversy, with debates over strict glycemic control, individualization, and potential industry influence on treatment recommendations.
+
 ## Criticism of ADA
 
 **From Low-Carb/Metabolic Communities:**
@@ -72,6 +84,10 @@ extraction-date: 2026-03-01
 -  pricing inaction
 - Insufficient focus on access
 - Guidelines don't account for cost
+
+## Core Principle
+
+> The ADA's clinical guidelines, particularly regarding HbA1c targets and dietary recommendations, have evolved through controversy, with debates over strict glycemic control, individualization, and potential industry influence on treatment recommendations.
 
 ## METHAP Relevance
 
@@ -91,15 +107,27 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_ADA_History_L-001-0209]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> The ADA's clinical guidelines, particularly regarding HbA1c targets and dietary recommendations, have evolved through controversy, with debates over strict glycemic control, individualization, and potential industry influence on treatment recommendations.
+
 ## Related
 - [[ADA_Founding_Mission_1940_Z-001-0241]] — Organizational history
 - [[ADA_Pharmaceutical_Funding_Controversy_Z-001-0242]] — Funding influence
 - [[ADA_AHA_Collaboration_Know_Diabetes_Z-001-0244]] — Joint initiatives
 
+## Core Principle
+
+> The ADA's clinical guidelines, particularly regarding HbA1c targets and dietary recommendations, have evolved through controversy, with debates over strict glycemic control, individualization, and potential industry influence on treatment recommendations.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+> The ADA's clinical guidelines, particularly regarding HbA1c targets and dietary recommendations, have evolved through controversy, with debates over strict glycemic control, individualization, and potential industry influence on treatment recommendations.
 
 ## Connection to Vault
 

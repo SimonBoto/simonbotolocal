@@ -18,6 +18,10 @@ status: conscious
 
 Dormant kefir grains require gradual reactivation to restore full metabolic activity and microbial diversity before use in therapeutic fasting protocols or daily probiotic consumption.
 
+## Core Principle
+
+Dormant kefir grains require gradual reactivation to restore full metabolic activity and microbial diversity before use in therapeutic fasting protocols or daily probiotic consumption.
+
 ## Reactivation Procedure
 
 **Step 1: Initial Rinse**
@@ -43,6 +47,10 @@ Dormant kefir grains require gradual reactivation to restore full metabolic acti
 | 3 | 24h | Normal (1:10) |
 | 4+ | 24h | Normal/full |
 
+## Core Principle
+
+Dormant kefir grains require gradual reactivation to restore full metabolic activity and microbial diversity before use in therapeutic fasting protocols or daily probiotic consumption.
+
 ## Signs of Healthy Reactivation
 
 **Positive Indicators:**
@@ -57,6 +65,10 @@ Dormant kefir grains require gradual reactivation to restore full metabolic acti
 - Excessive whey separation (over-fermentation)
 - Slimy texture (bacterial imbalance)
 
+## Core Principle
+
+Dormant kefir grains require gradual reactivation to restore full metabolic activity and microbial diversity before use in therapeutic fasting protocols or daily probiotic consumption.
+
 ## Full-Strength Criteria
 
 Grains are ready for therapeutic use when:
@@ -65,13 +77,25 @@ Grains are ready for therapeutic use when:
 - Pleasant tangy flavor
 - Grains visibly growing/multiplying
 
+## Core Principle
+
+Dormant kefir grains require gradual reactivation to restore full metabolic activity and microbial diversity before use in therapeutic fasting protocols or daily probiotic consumption.
+
 ## Evidence
 > "Kefir grains are resilient but require patience — rushing reactivation with large milk volumes or long fermentation times stresses the microbial community and produces inferior kefir."
+
+## Core Principle
+
+Dormant kefir grains require gradual reactivation to restore full metabolic activity and microbial diversity before use in therapeutic fasting protocols or daily probiotic consumption.
 
 ## Context
 This protocol is essential for the Kefir-Broth-Coffee fast and any clinical gut-healing protocol. Reactivated grains provide maximum probiotic diversity and SCFA production. The gradual approach respects the ecological complexity of the grain microbiome.
 
 ---
+
+## Core Principle
+
+Dormant kefir grains require gradual reactivation to restore full metabolic activity and microbial diversity before use in therapeutic fasting protocols or daily probiotic consumption.
 
 ## Links — Two Types
 

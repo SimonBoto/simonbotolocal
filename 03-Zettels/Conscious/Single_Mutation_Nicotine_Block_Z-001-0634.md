@@ -17,6 +17,10 @@ extraction-date: 2026-04-15
 
 A **single C→T nucleotide substitution** is sufficient to completely block nicotine biosynthesis, demonstrating the fragility of metabolic pathways and the power of point mutations to abolish complex phenotypes.
 
+## Core Principle
+
+A **single C→T nucleotide substitution** is sufficient to completely block nicotine biosynthesis, demonstrating the fragility of metabolic pathways and the power of point mutations to abolish complex phenotypes.
+
 ## The Mutation
 
 | Property | Detail |
@@ -25,6 +29,10 @@ A **single C→T nucleotide substitution** is sufficient to completely block nic
 | Change | Cytosine (C) → Thymine (T) |
 | Effect | Complete loss of nicotine production |
 | Discovery | After 2+ years of crossing and backcrossing |
+
+## Core Principle
+
+A **single C→T nucleotide substitution** is sufficient to completely block nicotine biosynthesis, demonstrating the fragility of metabolic pathways and the power of point mutations to abolish complex phenotypes.
 
 ## Implications
 
@@ -43,9 +51,17 @@ A **single C→T nucleotide substitution** is sufficient to completely block nic
 - Mutation probably deleterious in wild populations
 - Maintained in lab for research purposes
 
+## Core Principle
+
+A **single C→T nucleotide substitution** is sufficient to completely block nicotine biosynthesis, demonstrating the fragility of metabolic pathways and the power of point mutations to abolish complex phenotypes.
+
 ## Connection to A622
 
 The mutation likely affects **A622 enzyme** or its regulation — the critical ring fusion step.
+
+## Core Principle
+
+A **single C→T nucleotide substitution** is sufficient to completely block nicotine biosynthesis, demonstrating the fragility of metabolic pathways and the power of point mutations to abolish complex phenotypes.
 
 ## Source
 [[LitNote_McCarty_Nicotine_Biosynthesis_2026_L-001-0606]] — McCarty (2026)

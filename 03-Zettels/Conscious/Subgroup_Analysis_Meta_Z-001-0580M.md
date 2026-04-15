@@ -21,6 +21,10 @@ status: conscious
 
 > **Definition:** Subgroup analysis is a method for exploring whether the effect of an intervention differs across predefined subgroups of participants, interventions, or study characteristics in a meta-analysis.
 
+## Core Principle
+
+> **Definition:** Subgroup analysis is a method for exploring whether the effect of an intervention differs across predefined subgroups of participants, interventions, or study characteristics in a meta-analysis.
+
 ## Key Principles
 
 - **Pre-specification:** Subgroups should be defined a priori in the protocol
@@ -29,12 +33,20 @@ status: conscious
 - **Multiple testing:** Adjustment for multiple comparisons to avoid false positives
 - **Interpretation:** Cautious interpretation given increased risk of type I and type II errors
 
+## Core Principle
+
+> **Definition:** Subgroup analysis is a method for exploring whether the effect of an intervention differs across predefined subgroups of participants, interventions, or study characteristics in a meta-analysis.
+
 ## Common Subgroup Categories
 
 - **Participant characteristics:** Age, gender, disease severity, comorbidities
 - **Intervention characteristics:** Dosage, duration, delivery method, combination therapy
 - **Study characteristics:** Study design, quality, geographic location, publication year
 - **Outcome characteristics:** Different time points, measurement methods, definitions
+
+## Core Principle
+
+> **Definition:** Subgroup analysis is a method for exploring whether the effect of an intervention differs across predefined subgroups of participants, interventions, or study characteristics in a meta-analysis.
 
 ## Analysis Methods
 
@@ -43,6 +55,10 @@ status: conscious
 - **Interaction test:** Statistical test for difference between subgroup effects
 - **Meta-regression:** Continuous variables as predictors of effect size
 
+## Core Principle
+
+> **Definition:** Subgroup analysis is a method for exploring whether the effect of an intervention differs across predefined subgroups of participants, interventions, or study characteristics in a meta-analysis.
+
 ## Reporting Standards
 
 - Clear description of pre-specified subgroups and rationale
@@ -50,6 +66,10 @@ status: conscious
 - Results of interaction tests for subgroup differences
 - Interpretation of clinical and statistical significance
 - Use of PRISMA 2020 guidelines for subgroup analysis reporting
+
+## Core Principle
+
+> **Definition:** Subgroup analysis is a method for exploring whether the effect of an intervention differs across predefined subgroups of participants, interventions, or study characteristics in a meta-analysis.
 
 ## Best Practices
 
@@ -60,6 +80,10 @@ status: conscious
 - Interpret findings in context of overall evidence and heterogeneity
 
 ---
+
+## Core Principle
+
+> **Definition:** Subgroup analysis is a method for exploring whether the effect of an intervention differs across predefined subgroups of participants, interventions, or study characteristics in a meta-analysis.
 
 ## Related Concepts
 

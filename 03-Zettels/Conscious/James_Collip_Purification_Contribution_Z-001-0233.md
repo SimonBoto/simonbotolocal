@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Biochemist James Collip's purification of  in late 1921 was the critical step that transformed crude pancreatic extracts into a safe, effective, and clinically usable medication, enabling the first successful human treatment.
 
+## Core Principle
+
+> Biochemist James Collip's purification of  in late 1921 was the critical step that transformed crude pancreatic extracts into a safe, effective, and clinically usable medication, enabling the first successful human treatment.
+
 ## James Bertram Collip (1892-1965)
 
 **Background:**
@@ -30,6 +34,10 @@ extraction-date: 2026-03-01
 - Protein purification
 - Analytical chemistry
 
+## Core Principle
+
+> Biochemist James Collip's purification of  in late 1921 was the critical step that transformed crude pancreatic extracts into a safe, effective, and clinically usable medication, enabling the first successful human treatment.
+
 ## The Purification Problem
 
 **Crude Extract Issues:**
@@ -44,6 +52,10 @@ extraction-date: 2026-03-01
 - Must remove enzymes without destroying insulin
 - Need for concentrated, stable preparation
 - Sterility requirements
+
+## Core Principle
+
+> Biochemist James Collip's purification of  in late 1921 was the critical step that transformed crude pancreatic extracts into a safe, effective, and clinically usable medication, enabling the first successful human treatment.
 
 ## Collip's Methods
 
@@ -64,6 +76,10 @@ extraction-date: 2026-03-01
 - Successful purification: Late December 1921
 - First human use: January 1922
 
+## Core Principle
+
+> Biochemist James Collip's purification of  in late 1921 was the critical step that transformed crude pancreatic extracts into a safe, effective, and clinically usable medication, enabling the first successful human treatment.
+
 ## The Critical Contribution
 
 **Without Collip:**
@@ -77,6 +93,10 @@ extraction-date: 2026-03-01
 - Safe for human administration
 - Reproducible results
 - Scalable production possible
+
+## Core Principle
+
+> Biochemist James Collip's purification of  in late 1921 was the critical step that transformed crude pancreatic extracts into a safe, effective, and clinically usable medication, enabling the first successful human treatment.
 
 ## Recognition and Controversy
 
@@ -96,6 +116,10 @@ extraction-date: 2026-03-01
 - No apparent resentment
 - Later work on parathyroid hormone
 - Major figure in Canadian biochemistry
+
+## Core Principle
+
+> Biochemist James Collip's purification of  in late 1921 was the critical step that transformed crude pancreatic extracts into a safe, effective, and clinically usable medication, enabling the first successful human treatment.
 
 ## Legacy
 
@@ -120,12 +144,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Insulin_History_L-001-0207]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Biochemist James Collip's purification of  in late 1921 was the critical step that transformed crude pancreatic extracts into a safe, effective, and clinically usable medication, enabling the first successful human treatment.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Biochemist James Collip's purification of  in late 1921 was the critical step that transformed crude pancreatic extracts into a safe, effective, and clinically usable medication, enabling the first successful human treatment.
 
 ## Connection to Vault
 

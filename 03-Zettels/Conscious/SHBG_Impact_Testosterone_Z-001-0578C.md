@@ -20,16 +20,28 @@ status: conscious
 
 This zettel explains the role of Sex Hormone Binding Globulin (SHBG) in testosterone metabolism and its clinical significance in male hormone assessment.
 
+## Core Principle
+
+This zettel explains the role of Sex Hormone Binding Globulin (SHBG) in testosterone metabolism and its clinical significance in male hormone assessment.
+
 ## SHBG Physiology
 
 - SHBG is produced in the liver and binds testosterone with high affinity
 - Only unbound (free) testosterone is biologically active
 - SHBG levels influence the interpretation of total testosterone measurements
 
+## Core Principle
+
+This zettel explains the role of Sex Hormone Binding Globulin (SHBG) in testosterone metabolism and its clinical significance in male hormone assessment.
+
 ## Factors Affecting SHBG
 
 - **Increase SHBG:** Elevated estrogen, hyperthyroidism, liver disease, aging
 - **Decrease SHBG:** Obesity, insulin resistance, hypothyroidism, androgen excess, glucocorticoids
+
+## Core Principle
+
+This zettel explains the role of Sex Hormone Binding Globulin (SHBG) in testosterone metabolism and its clinical significance in male hormone assessment.
 
 ## Clinical Significance
 

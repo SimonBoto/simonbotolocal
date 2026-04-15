@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > While the RDA for magnesium prevents deficiency, therapeutic dosing for metabolic syndrome requires higher intakes to correct deficiency, optimize metabolic function, and achieve  benefits.
 
+## Core Principle
+
+> While the RDA for magnesium prevents deficiency, therapeutic dosing for metabolic syndrome requires higher intakes to correct deficiency, optimize metabolic function, and achieve  benefits.
+
 ## Recommended Dietary Allowance (RDA)
 
 **Prevention of Deficiency:**
@@ -30,6 +34,10 @@ extraction-date: 2026-03-01
 **Purpose:** Prevents overt deficiency symptoms (hypomagnesemia)
 **Limitation:** Does not account for suboptimal status or therapeutic needs
 
+## Core Principle
+
+> While the RDA for magnesium prevents deficiency, therapeutic dosing for metabolic syndrome requires higher intakes to correct deficiency, optimize metabolic function, and achieve  benefits.
+
 ## Therapeutic Dosing for Metabolic Syndrome
 
 **Clinical Trial Evidence:**
@@ -43,6 +51,10 @@ extraction-date: 2026-03-01
 | **Prevention/Maintenance** | 300-350 mg/day | Ongoing |
 | **Deficiency correction** | 400-500 mg/day | 8-16 weeks |
 | **Therapeutic optimization** | 400-500 mg/day | 12+ weeks |
+
+## Core Principle
+
+> While the RDA for magnesium prevents deficiency, therapeutic dosing for metabolic syndrome requires higher intakes to correct deficiency, optimize metabolic function, and achieve  benefits.
 
 ## METHAP Protocol Specification
 
@@ -59,6 +71,10 @@ extraction-date: 2026-03-01
 - **Timing:** With meals (improves absorption, reduces GI effects)
 - **Adjustments:** Can increase to 600 mg if tolerated and needed
 
+## Core Principle
+
+> While the RDA for magnesium prevents deficiency, therapeutic dosing for metabolic syndrome requires higher intakes to correct deficiency, optimize metabolic function, and achieve  benefits.
+
 ## Dose-Response Relationships
 
 **Blood Pressure:**
@@ -74,6 +90,10 @@ extraction-date: 2026-03-01
 - Individual tolerance varies
 - Split dosing improves tolerance
 
+## Core Principle
+
+> While the RDA for magnesium prevents deficiency, therapeutic dosing for metabolic syndrome requires higher intakes to correct deficiency, optimize metabolic function, and achieve  benefits.
+
 ## Upper Limits and Safety
 
 **Tolerable Upper Intake Level (UL):**
@@ -86,6 +106,10 @@ extraction-date: 2026-03-01
 - Nausea
 - Abdominal cramping
 - Reduce dose or change form if occurs
+
+## Core Principle
+
+> While the RDA for magnesium prevents deficiency, therapeutic dosing for metabolic syndrome requires higher intakes to correct deficiency, optimize metabolic function, and achieve  benefits.
 
 ## Special Populations
 
@@ -102,6 +126,10 @@ extraction-date: 2026-03-01
 **Athletes:**
 - Increased losses through sweat
 - May require 400-600 mg/day
+
+## Core Principle
+
+> While the RDA for magnesium prevents deficiency, therapeutic dosing for metabolic syndrome requires higher intakes to correct deficiency, optimize metabolic function, and achieve  benefits.
 
 ## Practical Dosing Tips
 
@@ -127,14 +155,26 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 
+## Core Principle
+
+> While the RDA for magnesium prevents deficiency, therapeutic dosing for metabolic syndrome requires higher intakes to correct deficiency, optimize metabolic function, and achieve  benefits.
+
 ## Related
 - [[Low_Fat_Era_Consequences_Z-001-0530]|Z-001-0530]
 
+
+## Core Principle
+
+> While the RDA for magnesium prevents deficiency, therapeutic dosing for metabolic syndrome requires higher intakes to correct deficiency, optimize metabolic function, and achieve  benefits.
 
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+> While the RDA for magnesium prevents deficiency, therapeutic dosing for metabolic syndrome requires higher intakes to correct deficiency, optimize metabolic function, and achieve  benefits.
 
 ## Connection to Vault
 

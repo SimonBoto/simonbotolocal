@@ -30,6 +30,10 @@ The Endocrine Society (clinical endocrinologists) recommends 1,500-2,000 IU/day 
 
 **Implication:** Professional medical organizations have effectively rejected IOM guidelines through higher clinical recommendations.
 
+## Core Principle
+
+The Endocrine Society (clinical endocrinologists) recommends 1,500-2,000 IU/day for adults—significantly higher than IOM's 600-800 IU. This divergence reflects different interpretations of evidence and clinical vs. population health perspectives.
+
 ## Links
 
 **Parent MOC:** -
@@ -41,11 +45,19 @@ The Endocrine Society (clinical endocrinologists) recommends 1,500-2,000 IU/day 
 *UID: Z-001-0061 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+The Endocrine Society (clinical endocrinologists) recommends 1,500-2,000 IU/day for adults—significantly higher than IOM's 600-800 IU. This divergence reflects different interpretations of evidence and clinical vs. population health perspectives.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+The Endocrine Society (clinical endocrinologists) recommends 1,500-2,000 IU/day for adults—significantly higher than IOM's 600-800 IU. This divergence reflects different interpretations of evidence and clinical vs. population health perspectives.
 
 ## Connection to Vault
 

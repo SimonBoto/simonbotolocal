@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Despite affecting folate  and bone marrow function, MTHFR polymorphisms are not directly correlated with multiple myeloma pathogenesis.
 
+## Core Principle
+
+> Despite affecting folate  and bone marrow function, MTHFR polymorphisms are not directly correlated with multiple myeloma pathogenesis.
+
 ## Evidence
 
 **No Strong Association:**
@@ -26,6 +30,10 @@ extraction-date: 2026-03-01
 - MTHFR variants common (10-40% have variants)
 - If causal, MM would be more common
 - Not observed
+
+## Core Principle
+
+> Despite affecting folate  and bone marrow function, MTHFR polymorphisms are not directly correlated with multiple myeloma pathogenesis.
 
 ## Distinct s
 
@@ -40,6 +48,10 @@ extraction-date: 2026-03-01
 - Malignant transformation
 - Progressive course
 
+## Core Principle
+
+> Despite affecting folate  and bone marrow function, MTHFR polymorphisms are not directly correlated with multiple myeloma pathogenesis.
+
 ##  Implication
 
 **Manage Separately:**
@@ -52,11 +64,19 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_B12_MM_Mimicry_L-001-0404]*
 
 
+## Core Principle
+
+> Despite affecting folate  and bone marrow function, MTHFR polymorphisms are not directly correlated with multiple myeloma pathogenesis.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Despite affecting folate  and bone marrow function, MTHFR polymorphisms are not directly correlated with multiple myeloma pathogenesis.
 
 ## Connection to Vault
 

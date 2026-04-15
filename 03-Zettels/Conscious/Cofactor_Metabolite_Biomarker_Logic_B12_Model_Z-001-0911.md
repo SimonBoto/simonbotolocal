@@ -18,6 +18,10 @@ extraction-date: 2026-04-15
 
 The relationship between **cofactor availability**, **enzyme function**, and **metabolite accumulation** forms the mechanistic basis for metabolite biomarkers. The Vitamin B12 → methylmalonic acid pathway serves as the paradigmatic example.
 
+## Core Principle
+
+The relationship between **cofactor availability**, **enzyme function**, and **metabolite accumulation** forms the mechanistic basis for metabolite biomarkers. The Vitamin B12 → methylmalonic acid pathway serves as the paradigmatic example.
+
 ## The B12 → Methylmalonic Acid Pathway
 
 ### Normal Function (B12 Sufficient)
@@ -47,6 +51,10 @@ Methylmalonyl-CoA ──[enzyme WITHOUT B12]──→ ✗ (blocked)
 
 **Result:** Without functional B12-coenzyme, methylmalonyl-CoA cannot proceed to succinyl-CoA. It diverts to methylmalonic acid, which accumulates and appears in urine.
 
+## Core Principle
+
+The relationship between **cofactor availability**, **enzyme function**, and **metabolite accumulation** forms the mechanistic basis for metabolite biomarkers. The Vitamin B12 → methylmalonic acid pathway serves as the paradigmatic example.
+
 ## The Logic Pattern
 
 | Element | B12 Model | Generalizable Pattern |
@@ -57,11 +65,19 @@ Methylmalonyl-CoA ──[enzyme WITHOUT B12]──→ ✗ (blocked)
 | **Accumulating precursor** | Methylmalonic acid | Upstream metabolite |
 | **Biomarker** | Urinary methylmalonic acid | Measurable metabolite in biofluids |
 
+## Core Principle
+
+The relationship between **cofactor availability**, **enzyme function**, and **metabolite accumulation** forms the mechanistic basis for metabolite biomarkers. The Vitamin B12 → methylmalonic acid pathway serves as the paradigmatic example.
+
 ## Clinical Validation
 
 > "Σε συνθήκες ανεπάρκειας βιταμίνης Β12, η μεταβολική οδός κατευθύνεται προς την παραγωγή του methylmalonic acid... αποτελεί διαδεδομένο βιοδείκτη έλλειψης βιταμίνης Β12"
 
 **Translation:** Under B12 deficiency conditions, the metabolic pathway diverts toward methylmalonic acid production... it constitutes a widespread biomarker of B12 deficiency.
+
+## Core Principle
+
+The relationship between **cofactor availability**, **enzyme function**, and **metabolite accumulation** forms the mechanistic basis for metabolite biomarkers. The Vitamin B12 → methylmalonic acid pathway serves as the paradigmatic example.
 
 ## METHAP Application — The VD/Adipic Acid Parallel
 
@@ -85,12 +101,20 @@ Methylmalonyl-CoA ──[enzyme WITHOUT B12]──→ ✗ (blocked)
 - [ ] Demonstrate adipic acid reduction with VD repletion
 - [ ] Correlate adipic acid changes with insulin sensitivity improvement
 
+## Core Principle
+
+The relationship between **cofactor availability**, **enzyme function**, and **metabolite accumulation** forms the mechanistic basis for metabolite biomarkers. The Vitamin B12 → methylmalonic acid pathway serves as the paradigmatic example.
+
 ## Why This Logic Matters
 
 1. **Mechanistic plausibility:** Explains *why* adipic acid might be a VD-responsive biomarker
 2. **Clinical precedent:** B12/methylmalonic model is well-established in clinical practice
 3. **Testable hypothesis:** METHAP trial can validate (or refute) this specific mechanism
 4. **Generalizable framework:** Same logic applies to other nutrient-metabolite relationships
+
+## Core Principle
+
+The relationship between **cofactor availability**, **enzyme function**, and **metabolite accumulation** forms the mechanistic basis for metabolite biomarkers. The Vitamin B12 → methylmalonic acid pathway serves as the paradigmatic example.
 
 ## Other Examples from Text
 
@@ -100,11 +124,19 @@ Methylmalonyl-CoA ──[enzyme WITHOUT B12]──→ ✗ (blocked)
 | **CoQ10, B2** | Succinate dehydrogenase | **Succinic acid** | Fatigue, cardiac issues, asthenia |
 | **Iron** | Aconitase | **Aconitic/isocitric ratio** | Iron deficiency, oxidative stress |
 
+## Core Principle
+
+The relationship between **cofactor availability**, **enzyme function**, and **metabolite accumulation** forms the mechanistic basis for metabolite biomarkers. The Vitamin B12 → methylmalonic acid pathway serves as the paradigmatic example.
+
 ## Links
 
 - **Upstream/Prerequisite:** [[Metabotypes_Individual_Metabolic_Phenotypes_Z-001-0910]] — Individual variation in cofactor needs
 - **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]] — Enzyme dysfunction markers
 - **Downstream/Consequence:** -Mechanisms] — VD as potential cofactor
+
+## Core Principle
+
+The relationship between **cofactor availability**, **enzyme function**, and **metabolite accumulation** forms the mechanistic basis for metabolite biomarkers. The Vitamin B12 → methylmalonic acid pathway serves as the paradigmatic example.
 
 ## Context
 
@@ -117,6 +149,10 @@ Methylmalonyl-CoA ──[enzyme WITHOUT B12]──→ ✗ (blocked)
 *UID: Z-001-0911 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*  
 *Critical insight: B12 model provides mechanistic template for adipic acid as VD-responsive biomarker*
 
+## Core Principle
+
+The relationship between **cofactor availability**, **enzyme function**, and **metabolite accumulation** forms the mechanistic basis for metabolite biomarkers. The Vitamin B12 → methylmalonic acid pathway serves as the paradigmatic example.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -125,6 +161,10 @@ Methylmalonyl-CoA ──[enzyme WITHOUT B12]──→ ✗ (blocked)
 
 
 ---
+
+## Core Principle
+
+The relationship between **cofactor availability**, **enzyme function**, and **metabolite accumulation** forms the mechanistic basis for metabolite biomarkers. The Vitamin B12 → methylmalonic acid pathway serves as the paradigmatic example.
 
 ## Connection to Vault
 

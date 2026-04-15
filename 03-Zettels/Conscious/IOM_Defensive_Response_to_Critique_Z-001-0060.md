@@ -32,6 +32,10 @@ Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), 
 
 **Pattern:** Large institutions resist admitting errors affecting global policy, even when mathematically proven.
 
+## Core Principle
+
+Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), the IOM (now National Academy of Medicine) maintained their 2010 calculations were "appropriate and based on available evidence." They cited  concerns (hypercalcemia risk) rather than addressing the statistical validity.
+
 ## Links
 
 **Parent MOC:** -
@@ -43,11 +47,19 @@ Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), 
 *UID: Z-001-0060 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), the IOM (now National Academy of Medicine) maintained their 2010 calculations were "appropriate and based on available evidence." They cited  concerns (hypercalcemia risk) rather than addressing the statistical validity.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+Despite mathematical proof of statistical error from Veugelers & Ekwaru (2014), the IOM (now National Academy of Medicine) maintained their 2010 calculations were "appropriate and based on available evidence." They cited  concerns (hypercalcemia risk) rather than addressing the statistical validity.
 
 ## Connection to Vault
 

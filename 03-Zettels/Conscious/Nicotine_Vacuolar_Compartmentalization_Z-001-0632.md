@@ -17,6 +17,10 @@ extraction-date: 2026-04-15
 
 Nicotine biosynthesis occurs on **plant vacuole surfaces**, with toxic intermediates rapidly sequestered and the final product stored in vacuoles via specialized transporters.
 
+## Core Principle
+
+Nicotine biosynthesis occurs on **plant vacuole surfaces**, with toxic intermediates rapidly sequestered and the final product stored in vacuoles via specialized transporters.
+
 ## Spatial Organization
 
 | Location | Process |
@@ -25,9 +29,17 @@ Nicotine biosynthesis occurs on **plant vacuole surfaces**, with toxic intermedi
 | Cytosol | Intermediate transport |
 | Vacuole lumen | Final storage |
 
+## Core Principle
+
+Nicotine biosynthesis occurs on **plant vacuole surfaces**, with toxic intermediates rapidly sequestered and the final product stored in vacuoles via specialized transporters.
+
 ## Why Compartmentalization?
 
 **Toxic intermediates** — Many pathway intermediates are harmful to cellular metabolism. Rapid conversion and sequestration prevent damage.
+
+## Core Principle
+
+Nicotine biosynthesis occurs on **plant vacuole surfaces**, with toxic intermediates rapidly sequestered and the final product stored in vacuoles via specialized transporters.
 
 ## Transport Mechanism
 
@@ -36,9 +48,17 @@ Nicotine biosynthesis occurs on **plant vacuole surfaces**, with toxic intermedi
 3. **Final nicotine** pumped into vacuole
 4. **Storage** in vacuolar lumen
 
+## Core Principle
+
+Nicotine biosynthesis occurs on **plant vacuole surfaces**, with toxic intermediates rapidly sequestered and the final product stored in vacuoles via specialized transporters.
+
 ## Transporter Role
 
 Dedicated **nicotine transporters** move final product into vacuoles for storage and protection.
+
+## Core Principle
+
+Nicotine biosynthesis occurs on **plant vacuole surfaces**, with toxic intermediates rapidly sequestered and the final product stored in vacuoles via specialized transporters.
 
 ## Evolutionary Implications
 
@@ -46,6 +66,10 @@ This compartmentalization strategy:
 - Protects plant from its own defense compounds
 - Enables high-level production without toxicity
 - May have driven pathway evolution
+
+## Core Principle
+
+Nicotine biosynthesis occurs on **plant vacuole surfaces**, with toxic intermediates rapidly sequestered and the final product stored in vacuoles via specialized transporters.
 
 ## Source
 [[LitNote_McCarty_Nicotine_Biosynthesis_2026_L-001-0606]] — McCarty (2026)

@@ -15,11 +15,19 @@ extraction-date: 2026-03-01
 
 > Clinical implementation should prioritize extra virgin olive oil as primary dietary fat with specific dosing (2-4 tbsp/day) and quality considerations.
 
+## Core Principle
+
+> Clinical implementation should prioritize extra virgin olive oil as primary dietary fat with specific dosing (2-4 tbsp/day) and quality considerations.
+
 ## Dosing
 
 **Minimum:** 2 tbsp (30ml)/day
 **Optimal:** 3-4 tbsp (45-60ml)/day
 **Strategy:** Replace other fats, not additive
+
+## Core Principle
+
+> Clinical implementation should prioritize extra virgin olive oil as primary dietary fat with specific dosing (2-4 tbsp/day) and quality considerations.
 
 ## Quality Grades
 
@@ -37,6 +45,10 @@ extraction-date: 2026-03-01
 - Higher smoke point
 - Less flavor
 
+## Core Principle
+
+> Clinical implementation should prioritize extra virgin olive oil as primary dietary fat with specific dosing (2-4 tbsp/day) and quality considerations.
+
 ## Cooking Applications
 
 | Grade | Use |
@@ -45,12 +57,20 @@ extraction-date: 2026-03-01
 | **Virgin** | Sautéing, pan-frying |
 | **Refined** | Medium-heat cooking |
 
+## Core Principle
+
+> Clinical implementation should prioritize extra virgin olive oil as primary dietary fat with specific dosing (2-4 tbsp/day) and quality considerations.
+
 ## Storage
 
 - Dark glass bottle
 - Cool, dark place
 - Use within 6-12 months
 - Protect from heat, light, air
+
+## Core Principle
+
+> Clinical implementation should prioritize extra virgin olive oil as primary dietary fat with specific dosing (2-4 tbsp/day) and quality considerations.
 
 ## Counseling
 
@@ -70,10 +90,18 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Oleic_Acid_Clinical_L-001-0506]*
 
 
+## Core Principle
+
+> Clinical implementation should prioritize extra virgin olive oil as primary dietary fat with specific dosing (2-4 tbsp/day) and quality considerations.
+
 ## RELATED FILES
 - 
 
 ---
+
+## Core Principle
+
+> Clinical implementation should prioritize extra virgin olive oil as primary dietary fat with specific dosing (2-4 tbsp/day) and quality considerations.
 
 ## Connection to Vault
 

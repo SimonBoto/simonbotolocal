@@ -24,6 +24,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**HOMA-β** estimates pancreatic β-cell function from fasting insulin and fasting glucose. It complements HOMA-IR by distinguishing insulin resistance (compensatory hyperinsulinemia) from β-cell failure (falling insulin secretion).
+
 ## 📐 Formula
 
 $$
@@ -39,6 +43,10 @@ $$
 
 ---
 
+## Core Principle
+
+**HOMA-β** estimates pancreatic β-cell function from fasting insulin and fasting glucose. It complements HOMA-IR by distinguishing insulin resistance (compensatory hyperinsulinemia) from β-cell failure (falling insulin secretion).
+
 ## 🎯 Interpretation Thresholds
 
 | HOMA-β | Status | Clinical Meaning |
@@ -51,6 +59,10 @@ $$
 **Note:** HOMA-β must be interpreted WITH HOMA-IR. High HOMA-β + high HOMA-IR = compensatory phase. Low HOMA-β + any HOMA-IR = decompensated/failing.
 
 ---
+
+## Core Principle
+
+**HOMA-β** estimates pancreatic β-cell function from fasting insulin and fasting glucose. It complements HOMA-IR by distinguishing insulin resistance (compensatory hyperinsulinemia) from β-cell failure (falling insulin secretion).
 
 ## 🔗 Connected Concepts
 
@@ -68,6 +80,10 @@ $$
 - [[Metabolic_Syndrome_Criteria_Z-001-0050.md] — Metabolic syndrome (progressive β-cell stress)
 
 ---
+
+## Core Principle
+
+**HOMA-β** estimates pancreatic β-cell function from fasting insulin and fasting glucose. It complements HOMA-IR by distinguishing insulin resistance (compensatory hyperinsulinemia) from β-cell failure (falling insulin secretion).
 
 ## 🩺 Clinical Patterns
 
@@ -100,6 +116,10 @@ $$
 
 ---
 
+## Core Principle
+
+**HOMA-β** estimates pancreatic β-cell function from fasting insulin and fasting glucose. It complements HOMA-IR by distinguishing insulin resistance (compensatory hyperinsulinemia) from β-cell failure (falling insulin secretion).
+
 ## 🔬 PhD-METHAP Relevance
 
 **Secondary outcome:** HOMA-β preservation or improvement
@@ -119,11 +139,19 @@ patient_id,visit,fasting_glucose_mg_dl,fasting_insulin_uu_ml,homa_ir,homa_beta,b
 
 ---
 
+## Core Principle
+
+**HOMA-β** estimates pancreatic β-cell function from fasting insulin and fasting glucose. It complements HOMA-IR by distinguishing insulin resistance (compensatory hyperinsulinemia) from β-cell failure (falling insulin secretion).
+
 ## 💡 Clinical Pearl
 
 > "HOMA-IR alone lies to you in late-stage IR. A patient with HOMA-IR 'normalizing' from 5.0 to 2.5 might look better, but if HOMA-β dropped from 150 to 45, they're actually progressing to diabetes. Always check both."
 
 ---
+
+## Core Principle
+
+**HOMA-β** estimates pancreatic β-cell function from fasting insulin and fasting glucose. It complements HOMA-IR by distinguishing insulin resistance (compensatory hyperinsulinemia) from β-cell failure (falling insulin secretion).
 
 ## 📊 Reference Values
 
@@ -137,6 +165,10 @@ patient_id,visit,fasting_glucose_mg_dl,fasting_insulin_uu_ml,homa_ir,homa_beta,b
 
 ---
 
+## Core Principle
+
+**HOMA-β** estimates pancreatic β-cell function from fasting insulin and fasting glucose. It complements HOMA-IR by distinguishing insulin resistance (compensatory hyperinsulinemia) from β-cell failure (falling insulin secretion).
+
 ## Data Export (METHAP)
 
 ```csv
@@ -148,6 +180,10 @@ patient_id,visit,homa_beta,beta_cell_status,ir_status_combined
 *Source: , *
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
+## Core Principle
+
+**HOMA-β** estimates pancreatic β-cell function from fasting insulin and fasting glucose. It complements HOMA-IR by distinguishing insulin resistance (compensatory hyperinsulinemia) from β-cell failure (falling insulin secretion).
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - s/Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
@@ -155,6 +191,10 @@ patient_id,visit,homa_beta,beta_cell_status,ir_status_combined
 
 
 ---
+
+## Core Principle
+
+**HOMA-β** estimates pancreatic β-cell function from fasting insulin and fasting glucose. It complements HOMA-IR by distinguishing insulin resistance (compensatory hyperinsulinemia) from β-cell failure (falling insulin secretion).
 
 ## Connection to Vault
 

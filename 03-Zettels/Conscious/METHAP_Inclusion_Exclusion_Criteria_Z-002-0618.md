@@ -17,6 +17,10 @@ created: 2026-03-27
 
 Clear eligibility criteria ensure scientific validity, participant safety, and ethical research conduct.
 
+## Core Principle
+
+Clear eligibility criteria ensure scientific validity, participant safety, and ethical research conduct.
+
 ## Control Group Criteria (All Required)
 
 | Parameter | Threshold |
@@ -28,6 +32,10 @@ Clear eligibility criteria ensure scientific validity, participant safety, and e
 
 **Purpose:** Establish metabolically healthy reference population
 
+## Core Principle
+
+Clear eligibility criteria ensure scientific validity, participant safety, and ethical research conduct.
+
 ##  Resistance Group Criteria (≥1 Required)
 
 | Parameter | Threshold |
@@ -38,6 +46,10 @@ Clear eligibility criteria ensure scientific validity, participant safety, and e
 | Triglycerides | ≥ 150 mg/dL |
 
 **Purpose:** Identify individuals with early metabolic dysfunction
+
+## Core Principle
+
+Clear eligibility criteria ensure scientific validity, participant safety, and ethical research conduct.
 
 ## Universal Exclusion Criteria
 
@@ -67,6 +79,10 @@ Clear eligibility criteria ensure scientific validity, participant safety, and e
 - Vegetarian/vegan (if affects intervention)
 - Refusal to take study supplements
 
+## Core Principle
+
+Clear eligibility criteria ensure scientific validity, participant safety, and ethical research conduct.
+
 ## Rationale
 
 | Exclusion | Reason |
@@ -76,6 +92,10 @@ Clear eligibility criteria ensure scientific validity, participant safety, and e
 | **Medications** | Confounding metabolic effects |
 | **Thyroid dysfunction** | Major metabolic confounder |
 | **Dietary restrictions** | Cannot follow intervention protocol |
+
+## Core Principle
+
+Clear eligibility criteria ensure scientific validity, participant safety, and ethical research conduct.
 
 ## Links
 
@@ -88,6 +108,10 @@ Clear eligibility criteria ensure scientific validity, participant safety, and e
 *UID: Z-002-0618 | Domain: 002 | Created: 2026-03-27*
 
 
+## Core Principle
+
+Clear eligibility criteria ensure scientific validity, participant safety, and ethical research conduct.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
@@ -96,6 +120,10 @@ Clear eligibility criteria ensure scientific validity, participant safety, and e
 - 
 
 ---
+
+## Core Principle
+
+Clear eligibility criteria ensure scientific validity, participant safety, and ethical research conduct.
 
 ## Connection to Vault
 

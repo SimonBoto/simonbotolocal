@@ -22,11 +22,19 @@ status: conscious
 
 Gonadotropin-releasing hormone (GnRH) is secreted in a pulsatile pattern from the hypothalamus, which is essential for normal gonadotropin secretion and reproductive function.
 
+## Core Principle
+
+Gonadotropin-releasing hormone (GnRH) is secreted in a pulsatile pattern from the hypothalamus, which is essential for normal gonadotropin secretion and reproductive function.
+
 ## Physiological Patterns
 
 - **Frequency**: Varies by sex and developmental stage (every 60-120 minutes in adults)
 - **Amplitude**: Pulse height modulates LH/FSH ratio
 - **Pattern changes**: Frequency increases at puberty, decreases with aging, and is suppressed during stress
+
+## Core Principle
+
+Gonadotropin-releasing hormone (GnRH) is secreted in a pulsatile pattern from the hypothalamus, which is essential for normal gonadotropin secretion and reproductive function.
 
 ## Regulatory Mechanisms
 
@@ -34,11 +42,19 @@ Gonadotropin-releasing hormone (GnRH) is secreted in a pulsatile pattern from th
 - **Feedback modulation**: Sex steroids modulate pulse frequency and amplitude
 - **Circadian influence**: Pulsatility shows diurnal variation, particularly in adolescents
 
+## Core Principle
+
+Gonadotropin-releasing hormone (GnRH) is secreted in a pulsatile pattern from the hypothalamus, which is essential for normal gonadotropin secretion and reproductive function.
+
 ## Clinical Implications
 
 - **Disrupted pulsatility**: Causes hypogonadotropic hypogonadism
 - **Pharmacological use**: Pulsatile GnRH therapy restores fertility in select cases
 - **Diagnostic testing**: GnRH stimulation tests assess pituitary reserve
+
+## Core Principle
+
+Gonadotropin-releasing hormone (GnRH) is secreted in a pulsatile pattern from the hypothalamus, which is essential for normal gonadotropin secretion and reproductive function.
 
 ## Key Research Findings
 

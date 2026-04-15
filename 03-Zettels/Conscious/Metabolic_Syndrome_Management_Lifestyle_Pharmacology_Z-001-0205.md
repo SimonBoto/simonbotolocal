@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Management of metabolic syndrome requires a comprehensive, multimodal approach targeting all components simultaneously, with lifestyle intervention as the foundation.
 
+## Core Principle
+
+> Management of metabolic syndrome requires a comprehensive, multimodal approach targeting all components simultaneously, with lifestyle intervention as the foundation.
+
 ## Lifestyle Interventions — First-Line Therapy
 
 ### 1. Dietary Modification
@@ -62,6 +66,10 @@ extraction-date: 2026-03-01
 - Improves endothelial function
 - Synergistic with other interventions
 
+## Core Principle
+
+> Management of metabolic syndrome requires a comprehensive, multimodal approach targeting all components simultaneously, with lifestyle intervention as the foundation.
+
 ## Pharmacological Management
 
 ### Hypertension
@@ -104,6 +112,10 @@ extraction-date: 2026-03-01
 - **PCSK9 inhibitors:** For refractory hyperlipidemia
 - **Resveratrol, berberine:** Evidence emerging
 
+## Core Principle
+
+> Management of metabolic syndrome requires a comprehensive, multimodal approach targeting all components simultaneously, with lifestyle intervention as the foundation.
+
 ## Integrative Approach
 
 **Stepwise Management:**
@@ -112,6 +124,10 @@ extraction-date: 2026-03-01
 3. Consider combination therapy
 4. Monitor for MetS resolution
 5. Prevent progression to diabetes/CVD
+
+## Core Principle
+
+> Management of metabolic syndrome requires a comprehensive, multimodal approach targeting all components simultaneously, with lifestyle intervention as the foundation.
 
 ## METHAP Trial Context
 
@@ -131,6 +147,10 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 
+## Core Principle
+
+> Management of metabolic syndrome requires a comprehensive, multimodal approach targeting all components simultaneously, with lifestyle intervention as the foundation.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
@@ -139,6 +159,10 @@ extraction-date: 2026-03-01
 - [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]|Z-001-0219]
 
 ---
+
+## Core Principle
+
+> Management of metabolic syndrome requires a comprehensive, multimodal approach targeting all components simultaneously, with lifestyle intervention as the foundation.
 
 ## Connection to Vault
 

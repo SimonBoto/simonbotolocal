@@ -24,6 +24,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Lipid patterns** describe LDL particle size and density. Pattern A (large, buoyant LDL) is low risk; Pattern B (small, dense LDL) is high risk and strongly associated with insulin resistance.
+
 ## 🎯 The Patterns
 
 ### Pattern A — Low Risk
@@ -45,6 +49,10 @@ extraction-date: 2026-04-15
 | LDL/ApoB ratio | <1.2 |
 
 ---
+
+## Core Principle
+
+**Lipid patterns** describe LDL particle size and density. Pattern A (large, buoyant LDL) is low risk; Pattern B (small, dense LDL) is high risk and strongly associated with insulin resistance.
 
 ## 📐 Assessment Methods
 
@@ -79,6 +87,10 @@ $$
 
 ---
 
+## Core Principle
+
+**Lipid patterns** describe LDL particle size and density. Pattern A (large, buoyant LDL) is low risk; Pattern B (small, dense LDL) is high risk and strongly associated with insulin resistance.
+
 ## 🔗 Connected s
 
 **Insulin Resistance:**
@@ -95,6 +107,10 @@ $$
 - [[MAPK_Mitogenic_Pathway_Z-001-0016]] — Mitochondrial dysfunction (impaired lipid oxidation)
 
 ---
+
+## Core Principle
+
+**Lipid patterns** describe LDL particle size and density. Pattern A (large, buoyant LDL) is low risk; Pattern B (small, dense LDL) is high risk and strongly associated with insulin resistance.
 
 ## 🩺 Clinical Application
 
@@ -121,6 +137,10 @@ $$
 
 ---
 
+## Core Principle
+
+**Lipid patterns** describe LDL particle size and density. Pattern A (large, buoyant LDL) is low risk; Pattern B (small, dense LDL) is high risk and strongly associated with insulin resistance.
+
 ## 📊 Pattern B Clinical Scenarios
 
 ### Scenario 1: "Normal" Cholesterol, High Risk
@@ -146,6 +166,10 @@ $$
 
 ---
 
+## Core Principle
+
+**Lipid patterns** describe LDL particle size and density. Pattern A (large, buoyant LDL) is low risk; Pattern B (small, dense LDL) is high risk and strongly associated with insulin resistance.
+
 ## 🔬 Mechanism
 
 **How IR creates Pattern B:**
@@ -160,6 +184,10 @@ $$
 
 ---
 
+## Core Principle
+
+**Lipid patterns** describe LDL particle size and density. Pattern A (large, buoyant LDL) is low risk; Pattern B (small, dense LDL) is high risk and strongly associated with insulin resistance.
+
 ## 💡 Clinical Pearls
 
 > "LDL-C of 100 with Pattern B is more dangerous than LDL-C of 130 with Pattern A. The particle count matters more than the cholesterol mass."
@@ -169,6 +197,10 @@ $$
 > "Pattern B is reversible. I've seen patients go from Pattern B to Pattern A in 3 months with low-carb diet and 10% weight loss."
 
 ---
+
+## Core Principle
+
+**Lipid patterns** describe LDL particle size and density. Pattern A (large, buoyant LDL) is low risk; Pattern B (small, dense LDL) is high risk and strongly associated with insulin resistance.
 
 ## Data Export (METHAP)
 
@@ -181,6 +213,10 @@ patient_id,visit,ldl_c_mg_dl,apo_b_mg_dl,ldl_apob_ratio,pattern_type,tg_hdl_rati
 *Source: , , *
 *Created: 2026-02-26 | Domain: 006 | Status: Conscious*
 
+## Core Principle
+
+**Lipid patterns** describe LDL particle size and density. Pattern A (large, buoyant LDL) is low risk; Pattern B (small, dense LDL) is high risk and strongly associated with insulin resistance.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - /Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
@@ -188,6 +224,10 @@ patient_id,visit,ldl_c_mg_dl,apo_b_mg_dl,ldl_apob_ratio,pattern_type,tg_hdl_rati
 
 
 ---
+
+## Core Principle
+
+**Lipid patterns** describe LDL particle size and density. Pattern A (large, buoyant LDL) is low risk; Pattern B (small, dense LDL) is high risk and strongly associated with insulin resistance.
 
 ## Connection to Vault
 

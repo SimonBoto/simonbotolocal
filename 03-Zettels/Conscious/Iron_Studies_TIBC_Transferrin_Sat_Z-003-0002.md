@@ -26,6 +26,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**TIBC (total iron binding capacity)** and **transferrin saturation** measure iron transport capacity and utilization. They differentiate true deficiency from anemia of chronic disease and identify iron overload.
+
 ## 🎯 TIBC (Total Iron Binding Capacity)
 
 **What it measures:** Capacity of transferrin to bind iron
@@ -43,6 +47,10 @@ TIBC ≈ Transferrin × 1.4 (mathematical conversion)
 
 ---
 
+## Core Principle
+
+**TIBC (total iron binding capacity)** and **transferrin saturation** measure iron transport capacity and utilization. They differentiate true deficiency from anemia of chronic disease and identify iron overload.
+
 ## 🎯 Transferrin Saturation
 
 **Formula:**
@@ -58,6 +66,10 @@ $$
 
 ---
 
+## Core Principle
+
+**TIBC (total iron binding capacity)** and **transferrin saturation** measure iron transport capacity and utilization. They differentiate true deficiency from anemia of chronic disease and identify iron overload.
+
 ## 🔗 Connected Systems
 
 **Iron Status:**
@@ -70,6 +82,10 @@ $$
 - Transferrin sat <20% → impaired methylation → elevated homocysteine
 
 ---
+
+## Core Principle
+
+**TIBC (total iron binding capacity)** and **transferrin saturation** measure iron transport capacity and utilization. They differentiate true deficiency from anemia of chronic disease and identify iron overload.
 
 ## 🩺 Clinical Patterns
 
@@ -106,6 +122,10 @@ $$
 
 ---
 
+## Core Principle
+
+**TIBC (total iron binding capacity)** and **transferrin saturation** measure iron transport capacity and utilization. They differentiate true deficiency from anemia of chronic disease and identify iron overload.
+
 ## 🔬 PhD-METHAP Relevance
 
 **Iron-methylation axis:**
@@ -119,6 +139,10 @@ patient_id,visit,tibc_ug_dl,transferrin_sat_pct,iron_status_pattern
 
 ---
 
+## Core Principle
+
+**TIBC (total iron binding capacity)** and **transferrin saturation** measure iron transport capacity and utilization. They differentiate true deficiency from anemia of chronic disease and identify iron overload.
+
 ## 💡 Clinical Pearl
 
 > "Ferritin tells you about stores, but TIBC and transferrin sat tell you about transport. A patient can have ferritin 100 (looks okay) but TIBC 450 and sat 15% — they're iron deficient and need supplementation."
@@ -130,6 +154,10 @@ patient_id,visit,tibc_ug_dl,transferrin_sat_pct,iron_status_pattern
 *Source: _1979], *
 *Created: 2026-02-26 | Domain: 003 | Status: Conscious*
 
+## Core Principle
+
+**TIBC (total iron binding capacity)** and **transferrin saturation** measure iron transport capacity and utilization. They differentiate true deficiency from anemia of chronic disease and identify iron overload.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -138,6 +166,10 @@ patient_id,visit,tibc_ug_dl,transferrin_sat_pct,iron_status_pattern
 
 
 ---
+
+## Core Principle
+
+**TIBC (total iron binding capacity)** and **transferrin saturation** measure iron transport capacity and utilization. They differentiate true deficiency from anemia of chronic disease and identify iron overload.
 
 ## Connection to Vault
 

@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Serum calcium is maintained within the narrowest physiological range of any electrolyte (±2%) through precise regulation by PTH, , and calcitonin, reflecting its critical importance for life-sustaining functions.
 
+## Core Principle
+
+> Serum calcium is maintained within the narrowest physiological range of any electrolyte (±2%) through precise regulation by PTH, , and calcitonin, reflecting its critical importance for life-sustaining functions.
+
 ## Normal Values
 
 **Total Serum Calcium:**
@@ -26,6 +30,10 @@ extraction-date: 2026-03-01
 - Lowest: Early morning
 - Highest: Late afternoon
 - Variation: ~0.5 mg/dL
+
+## Core Principle
+
+> Serum calcium is maintained within the narrowest physiological range of any electrolyte (±2%) through precise regulation by PTH, , and calcitonin, reflecting its critical importance for life-sustaining functions.
 
 ## Critical Functions Requiring Tight Control
 
@@ -56,6 +64,10 @@ extraction-date: 2026-03-01
 - Neurotransmitter release
 - Muscle contraction
 - Enzyme regulation
+
+## Core Principle
+
+> Serum calcium is maintained within the narrowest physiological range of any electrolyte (±2%) through precise regulation by PTH, , and calcitonin, reflecting its critical importance for life-sustaining functions.
 
 ## Consequences of Dysregulation
 
@@ -90,6 +102,10 @@ extraction-date: 2026-03-01
 - Coma
 - Death if untreated
 
+## Core Principle
+
+> Serum calcium is maintained within the narrowest physiological range of any electrolyte (±2%) through precise regulation by PTH, , and calcitonin, reflecting its critical importance for life-sustaining functions.
+
 ## Regulatory Systems
 
 **PTH:** Rapid (minutes)
@@ -101,11 +117,19 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Serum calcium is maintained within the narrowest physiological range of any electrolyte (±2%) through precise regulation by PTH, , and calcitonin, reflecting its critical importance for life-sustaining functions.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Serum calcium is maintained within the narrowest physiological range of any electrolyte (±2%) through precise regulation by PTH, , and calcitonin, reflecting its critical importance for life-sustaining functions.
 
 ## Connection to Vault
 

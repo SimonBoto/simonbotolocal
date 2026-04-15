@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Vitamin D functions as a steroid hormone with complex synthesis, activation, and genomic signaling mechanisms that regulate metabolic health through widespread tissue expression of the vitamin D receptor.
 
+## Core Principle
+
+> Vitamin D functions as a steroid hormone with complex synthesis, activation, and genomic signaling mechanisms that regulate metabolic health through widespread tissue expression of the vitamin D receptor.
+
 ## Synthesis and Activation Pathway
 
 ### Step 1: Cutaneous Synthesis
@@ -51,6 +55,10 @@ extraction-date: 2026-03-01
 **Regulation:** Stimulated by PTH, inhibited by calcitriol (negative feedback)
 **Cofactor:** Magnesium required
 
+## Core Principle
+
+> Vitamin D functions as a steroid hormone with complex synthesis, activation, and genomic signaling mechanisms that regulate metabolic health through widespread tissue expression of the vitamin D receptor.
+
 ## Vitamin D Receptor (VDR)
 
 ### Structure and Function
@@ -76,6 +84,10 @@ extraction-date: 2026-03-01
 - Inflammatory cytokines
 - Renin (negative regulation)
 
+## Core Principle
+
+> Vitamin D functions as a steroid hormone with complex synthesis, activation, and genomic signaling mechanisms that regulate metabolic health through widespread tissue expression of the vitamin D receptor.
+
 ## Regulation of Vitamin D Metabolism
 
 ### Stimulators of 1α-Hydroxylation
@@ -95,6 +107,10 @@ extraction-date: 2026-03-01
 - Inactivates both 25(OH)D and 1,25(OH)₂D
 - Upregulated by calcitriol (self-limiting)
 - Creates 24,25(OH)₂D and calcitroic acid (excreted)
+
+## Core Principle
+
+> Vitamin D functions as a steroid hormone with complex synthesis, activation, and genomic signaling mechanisms that regulate metabolic health through widespread tissue expression of the vitamin D receptor.
 
 ## METHAP Context
 
@@ -116,6 +132,10 @@ extraction-date: 2026-03-01
 *Related: [[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Vitamin D functions as a steroid hormone with complex synthesis, activation, and genomic signaling mechanisms that regulate metabolic health through widespread tissue expression of the vitamin D receptor.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[CRP_[B-002-0001]|Biomarker Family]
@@ -125,6 +145,10 @@ extraction-date: 2026-03-01
 - 
 
 ---
+
+## Core Principle
+
+> Vitamin D functions as a steroid hormone with complex synthesis, activation, and genomic signaling mechanisms that regulate metabolic health through widespread tissue expression of the vitamin D receptor.
 
 ## Connection to Vault
 

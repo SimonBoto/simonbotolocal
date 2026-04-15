@@ -26,6 +26,10 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 
 **METHAP Application:** Pre-treatment adipic acid levels predict  response; post-treatment levels measure efficacy — creating a pharmacometabolomics cycle.
 
+## Core Principle
+
+Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to categorize patients as good or poor responders to therapy, enabling personalized treatment selection based on biochemical individuality rather than empirical trial-and-error.
+
 ## Key Details
 
 | Element | Function |
@@ -35,11 +39,19 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 | Post-treatment | Measures pharmacodynamic effect |
 | Responder stratification | Optimizes therapy selection |
 
+## Core Principle
+
+Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to categorize patients as good or poor responders to therapy, enabling personalized treatment selection based on biochemical individuality rather than empirical trial-and-error.
+
 ## Links
 
 - **Upstream:** _Classification_Framework_Z-001-0040.md] — Biomarker classification framework
 - **Parallel:** [[Precision_Medicine_Response_Rate_Problem_Z-101-0007.md] — Response rate problem drives need
 - **Downstream:** [[METHAP_Biomarker_Panel_Z-001-0045.md] — METHAP panel applies this
+
+## Core Principle
+
+Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to categorize patients as good or poor responders to therapy, enabling personalized treatment selection based on biochemical individuality rather than empirical trial-and-error.
 
 ## Context
 
@@ -51,6 +63,10 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 
 *UID: Z-101-0001 | Domain: 101 | Created: 2026-02-24*
 
+## Core Principle
+
+Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to categorize patients as good or poor responders to therapy, enabling personalized treatment selection based on biochemical individuality rather than empirical trial-and-error.
+
 ## RELATED FILES
 - 
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
@@ -58,6 +74,10 @@ Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to cate
 
 
 ---
+
+## Core Principle
+
+Pharmacometabolomics uses pre-treatment metabolic profiles (metabotypes) to categorize patients as good or poor responders to therapy, enabling personalized treatment selection based on biochemical individuality rather than empirical trial-and-error.
 
 ## Connection to Vault
 

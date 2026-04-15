@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 Like other potent antiresorptives, denosumab has been associated with osteonecrosis of the jaw (ONJ) and atypical femoral fractures. These are rare but serious adverse events requiring dental evaluation prior to therapy.
 
+## Core Principle
+
+Like other potent antiresorptives, denosumab has been associated with osteonecrosis of the jaw (ONJ) and atypical femoral fractures. These are rare but serious adverse events requiring dental evaluation prior to therapy.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,11 +34,19 @@ Like other potent antiresorptives, denosumab has been associated with osteonecro
 *UID: Z-001-0089 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Like other potent antiresorptives, denosumab has been associated with osteonecrosis of the jaw (ONJ) and atypical femoral fractures. These are rare but serious adverse events requiring dental evaluation prior to therapy.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+Like other potent antiresorptives, denosumab has been associated with osteonecrosis of the jaw (ONJ) and atypical femoral fractures. These are rare but serious adverse events requiring dental evaluation prior to therapy.
 
 ## Connection to Vault
 

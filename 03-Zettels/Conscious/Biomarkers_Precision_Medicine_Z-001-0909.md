@@ -18,9 +18,17 @@ extraction-date: 2026-04-15
 
 Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."**  are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
 
+## Core Principle
+
+Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."**  are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
+
 ## Biomarker Definition (NIH)
 
 > "A characteristic that can be objectively quantified and which reflects physiological biological processes, pathology, or pharmacological responses to therapeutic interventions."
+
+## Core Principle
+
+Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."**  are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
 
 ## Biomarker Categories
 
@@ -30,6 +38,10 @@ Precision medicine aims to deliver **"the right treatment, to the right patient,
 | **Prognostic** | Forecast disease course/outcome | Tumor markers in cancer |
 | **Pharmacodynamic** | Monitor treatment response | Drug metabolite levels |
 
+## Core Principle
+
+Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."**  are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
+
 ## Precision Medicine Goals
 
 1. **Disease prediction** — Identify at-risk individuals
@@ -37,6 +49,10 @@ Precision medicine aims to deliver **"the right treatment, to the right patient,
 3. **Therapy design** — Personalized treatment selection
 4. **Response monitoring** — Track treatment efficacy
 5. **Disease progression tracking** — Detailed, understandable to patient and physician
+
+## Core Principle
+
+Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."**  are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
 
 ## Biomarker Sources (Omics Integration)
 
@@ -46,6 +62,10 @@ Biomarkers can originate from **any omics level:**
 - **Proteomics:** Protein biomarkers (PSA, troponins)
 - **:** Small molecule profiles (glucose, lipids, organic acids)
 - **Multi-omics:** Combined signatures for maximum predictive power
+
+## Core Principle
+
+Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."**  are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
 
 ## Biomarker Development Pipeline
 
@@ -63,6 +83,10 @@ Validation (Large population studies)
 Clinical implementation (Approved diagnostic)
 ```
 
+## Core Principle
+
+Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."**  are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
+
 ## Critical Requirement: Validation
 
 **Essential for clinical adoption:**
@@ -73,12 +97,20 @@ Clinical implementation (Approved diagnostic)
 
 Without validation, biomarkers remain research tools, not clinical standards.
 
+## Core Principle
+
+Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."**  are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
+
 ## Patient Stratification Example
 
 **Type 2 Diabetes Prevention:**
 - **Stage 1:** Elevated glucose (pre-diabetes) → Lifestyle intervention
 - **Stage 0:** Before pre-diabetes → Metabolomics-based early detection
 - **Intervention:** Targeted lifestyle changes prevent progression
+
+## Core Principle
+
+Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."**  are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
 
 ## METHAP Trial Application
 
@@ -96,6 +128,10 @@ Without validation, biomarkers remain research tools, not clinical standards.
 - Response monitoring via urinary organic acids
 - Endpoint: Metabolite-normalized insulin sensitivity
 
+## Core Principle
+
+Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."**  are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
+
 ## Big Data Challenge
 
 Systems biology produces **massive datasets:**
@@ -108,11 +144,19 @@ Systems biology produces **massive datasets:**
 - Medicine + Biochemistry + Biology
 - Mathematics + Statistics + Bioinformatics
 
+## Core Principle
+
+Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."**  are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
+
 ## Links
 
 - **Upstream/Prerequisite:** [[Microbiomics_Gut_Metabolic_Organ_Z-001-0908]] — Microbial biomarkers (SCFAs)
 - **Parallel/Related:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md] — Multi-omics integration
 - **Downstream/Consequence:**  — Trial design application
+
+## Core Principle
+
+Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."**  are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
 
 ## Context
 
@@ -124,12 +168,20 @@ Systems biology produces **massive datasets:**
 
 *UID: Z-001-0909 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
 
+## Core Principle
+
+Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."**  are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
 
 ---
+
+## Core Principle
+
+Precision medicine aims to deliver **"the right treatment, to the right patient, at the right time."**  are the foundation — objectively measurable characteristics that reflect biological processes, pathology, or pharmacological responses.
 
 ## Connection to Vault
 

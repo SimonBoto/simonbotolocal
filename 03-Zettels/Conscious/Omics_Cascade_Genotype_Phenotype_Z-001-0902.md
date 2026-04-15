@@ -23,6 +23,10 @@ GENOTYPE → TRANSCRIPTOME → PROTEOME → METABOLOME → PHENOTYPE
    (DNA)      (mRNA)       (Proteins)  (Metabolites)  (Observable traits)
 ```
 
+## Core Principle
+
+The omics sciences form a hierarchical cascade tracking genetic information flow from genotype to phenotype:
+
 ## The Cascade Levels
 
 | Level | Molecules | Time Scale | Environmental Sensitivity |
@@ -31,6 +35,10 @@ GENOTYPE → TRANSCRIPTOME → PROTEOME → METABOLOME → PHENOTYPE
 | **Transcriptomics** | mRNA | Hours | Medium |
 | **Proteomics** | Proteins | Days | Medium-High |
 | **** | Metabolites | Minutes-Hours | **High** |
+
+## Core Principle
+
+The omics sciences form a hierarchical cascade tracking genetic information flow from genotype to phenotype:
 
 ## Why Metabolomics Is Closest to Phenotype
 
@@ -46,11 +54,19 @@ Metabolites reflect the **integration** of:
 
 → Metabolome = Real-time physiological snapshot
 
+## Core Principle
+
+The omics sciences form a hierarchical cascade tracking genetic information flow from genotype to phenotype:
+
 ## Clinical Implication
 
 > "Η Μεταβολομική είναι η επιστήμη που συνδέεται περισσότερο με το Φαινότυπο"
 
 **Translation:** For clinical decision-making (diagnosis, prognosis, therapy selection), metabolomics provides more actionable information than genomics because it captures current physiological state, not just genetic potential.
+
+## Core Principle
+
+The omics sciences form a hierarchical cascade tracking genetic information flow from genotype to phenotype:
 
 ## METHAP Application
 
@@ -59,11 +75,19 @@ Metabolites reflect the **integration** of:
 - **Outcome:** Phenotype improvement (IR reduction) via metabolite shifts
 - **Mechanism:** Adipic acid, miR-21/155, butyrate as intermediate markers
 
+## Core Principle
+
+The omics sciences form a hierarchical cascade tracking genetic information flow from genotype to phenotype:
+
 ## Links
 
 - **Upstream/Prerequisite:** [[Systems_Biology_Integrative_Framework_Z-001-0901]] — Theoretical foundation
 - **Parallel/Related:**  — Classic genetics view
 - **Downstream/Consequence:** [[Environmental_Factors_80_Percent_Chronic_Disease_Z-001-0903]] — Why environment matters more than genes
+
+## Core Principle
+
+The omics sciences form a hierarchical cascade tracking genetic information flow from genotype to phenotype:
 
 ## Context
 
@@ -75,6 +99,10 @@ Metabolites reflect the **integration** of:
 ---
 
 *UID: Z-001-0902 (reassigned from Z-001-0002) | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
+
+## Core Principle
+
+The omics sciences form a hierarchical cascade tracking genetic information flow from genotype to phenotype:
 
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
@@ -114,6 +142,10 @@ Metabolites reflect the **integration** of:
 
 
 ---
+
+## Core Principle
+
+The omics sciences form a hierarchical cascade tracking genetic information flow from genotype to phenotype:
 
 ## Connection to Vault
 

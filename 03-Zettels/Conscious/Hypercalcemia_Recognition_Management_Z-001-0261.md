@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Hypercalcemia, defined as serum calcium >10.5 mg/dL, is the primary safety concern with high-dose  protocols, requiring systematic recognition, grading, and management to prevent serious complications including cardiac arrhythmias and renal damage.
 
+## Core Principle
+
+> Hypercalcemia, defined as serum calcium >10.5 mg/dL, is the primary safety concern with high-dose  protocols, requiring systematic recognition, grading, and management to prevent serious complications including cardiac arrhythmias and renal damage.
+
 ## Causes of Hypercalcemia
 
 ### Common Causes
@@ -30,6 +34,10 @@ extraction-date: 2026-03-01
 - Excessive supplementation (>10,000 IU without monitoring)
 - Granulomatous diseases (sarcoidosis, TB)
 - Idiopathic hypercalcemia of infancy
+
+## Core Principle
+
+> Hypercalcemia, defined as serum calcium >10.5 mg/dL, is the primary safety concern with high-dose  protocols, requiring systematic recognition, grading, and management to prevent serious complications including cardiac arrhythmias and renal damage.
 
 ## Clinical Manifestations
 
@@ -61,6 +69,10 @@ extraction-date: 2026-03-01
 - Bone pain (paradoxical)
 - Pathologic fractures (chronic)
 
+## Core Principle
+
+> Hypercalcemia, defined as serum calcium >10.5 mg/dL, is the primary safety concern with high-dose  protocols, requiring systematic recognition, grading, and management to prevent serious complications including cardiac arrhythmias and renal damage.
+
 ## Grading and Management
 
 ### Mild (10.5-11.5 mg/dL)
@@ -83,6 +95,10 @@ extraction-date: 2026-03-01
 - Calcitonin (rapid, short-lived effect)
 - Bisphosphonates (longer effect)
 - Dialysis (if renal failure)
+
+## Core Principle
+
+> Hypercalcemia, defined as serum calcium >10.5 mg/dL, is the primary safety concern with high-dose  protocols, requiring systematic recognition, grading, and management to prevent serious complications including cardiac arrhythmias and renal damage.
 
 ## METHAP-Specific Management
 
@@ -117,11 +133,19 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Hypercalcemia, defined as serum calcium >10.5 mg/dL, is the primary safety concern with high-dose  protocols, requiring systematic recognition, grading, and management to prevent serious complications including cardiac arrhythmias and renal damage.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Hypercalcemia, defined as serum calcium >10.5 mg/dL, is the primary safety concern with high-dose  protocols, requiring systematic recognition, grading, and management to prevent serious complications including cardiac arrhythmias and renal damage.
 
 ## Connection to Vault
 

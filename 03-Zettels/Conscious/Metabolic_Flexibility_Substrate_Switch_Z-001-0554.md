@@ -15,17 +15,29 @@ extraction-date: 2026-03-01
 
 > Metabolic flexibility is the capacity to shift between glucose and fatty acid oxidation based on availability and demand — a hallmark of healthy l function.
 
+## Core Principle
+
+> Metabolic flexibility is the capacity to shift between glucose and fatty acid oxidation based on availability and demand — a hallmark of healthy l function.
+
 ## Healthy State
 
 - **Fed:** Efficient glucose oxidation
 - **Fasted:** Seamless shift to fatty acids
 - **Exercise:** Rapid substrate switching
 
+## Core Principle
+
+> Metabolic flexibility is the capacity to shift between glucose and fatty acid oxidation based on availability and demand — a hallmark of healthy l function.
+
 ## Dysfunctional State
 
 - **Glucose dependency:** Cannot access fat
 - ** resistance:** Impaired uptake
 - **Rigid :** Stuck in one mode
+
+## Core Principle
+
+> Metabolic flexibility is the capacity to shift between glucose and fatty acid oxidation based on availability and demand — a hallmark of healthy l function.
 
 ## The Shift
 
@@ -37,6 +49,10 @@ extraction-date: 2026-03-01
 | Lipolysis | Suppressed | Active |
 | Beta-oxidation | Downregulated | Upregulated |
 | Stress | High | Reduced |
+
+## Core Principle
+
+> Metabolic flexibility is the capacity to shift between glucose and fatty acid oxidation based on availability and demand — a hallmark of healthy l function.
 
 ## Interventions
 
@@ -50,10 +66,18 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]*
 
 
+## Core Principle
+
+> Metabolic flexibility is the capacity to shift between glucose and fatty acid oxidation based on availability and demand — a hallmark of healthy l function.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+> Metabolic flexibility is the capacity to shift between glucose and fatty acid oxidation based on availability and demand — a hallmark of healthy l function.
 
 ## Connection to Vault
 

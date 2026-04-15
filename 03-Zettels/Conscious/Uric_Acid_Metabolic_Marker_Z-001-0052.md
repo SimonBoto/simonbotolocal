@@ -23,6 +23,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Uric acid** is the end product of purine . While traditionally associated with gout, it's now recognized as a **marker of metabolic syndrome** and independent cardiovascular risk factor. The optimal target is **<5.5 mg/dL**, well below the standard "normal" range.
+
 ## 🎯 Reference Ranges
 
 | Level (mg/dL) | Status | Clinical Meaning |
@@ -37,6 +41,10 @@ extraction-date: 2026-04-15
 **Optimal metabolic target:** <5.5 mg/dL for all
 
 ---
+
+## Core Principle
+
+**Uric acid** is the end product of purine . While traditionally associated with gout, it's now recognized as a **marker of metabolic syndrome** and independent cardiovascular risk factor. The optimal target is **<5.5 mg/dL**, well below the standard "normal" range.
 
 ## 🔗 Connected Systems
 
@@ -55,6 +63,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Uric acid** is the end product of purine . While traditionally associated with gout, it's now recognized as a **marker of metabolic syndrome** and independent cardiovascular risk factor. The optimal target is **<5.5 mg/dL**, well below the standard "normal" range.
+
 ## 🔄 Metabolic Link
 
 **Why IR elevates uric acid:**
@@ -67,6 +79,10 @@ extraction-date: 2026-04-15
 **Result:** Elevated uric acid is a surrogate for metabolic dysfunction.
 
 ---
+
+## Core Principle
+
+**Uric acid** is the end product of purine . While traditionally associated with gout, it's now recognized as a **marker of metabolic syndrome** and independent cardiovascular risk factor. The optimal target is **<5.5 mg/dL**, well below the standard "normal" range.
 
 ## 🩺 Clinical Application
 
@@ -99,6 +115,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Uric acid** is the end product of purine . While traditionally associated with gout, it's now recognized as a **marker of metabolic syndrome** and independent cardiovascular risk factor. The optimal target is **<5.5 mg/dL**, well below the standard "normal" range.
+
 ## 🔬 PhD-METHAP Relevance
 
 **Secondary outcome:** Uric acid reduction
@@ -114,6 +134,10 @@ patient_id,visit,uric_acid_mg_dl,uric_acid_status
 
 ---
 
+## Core Principle
+
+**Uric acid** is the end product of purine . While traditionally associated with gout, it's now recognized as a **marker of metabolic syndrome** and independent cardiovascular risk factor. The optimal target is **<5.5 mg/dL**, well below the standard "normal" range.
+
 ## 💡 Clinical Pearl
 
 > "Uric acid is the forgotten metabolic marker. Everyone checks glucose and lipids, but uric acid tells you about insulin's effect on the kidney. A patient with 'normal' glucose but uric acid 6.8 has metabolic syndrome brewing."
@@ -121,6 +145,10 @@ patient_id,visit,uric_acid_mg_dl,uric_acid_status
 > "Fructose is the biggest driver. I see patients with normal weight but uric acid 7.5 — they're drinking fruit juice or soda. Cut fructose, uric acid drops, metabolic health improves."
 
 ---
+
+## Core Principle
+
+**Uric acid** is the end product of purine . While traditionally associated with gout, it's now recognized as a **marker of metabolic syndrome** and independent cardiovascular risk factor. The optimal target is **<5.5 mg/dL**, well below the standard "normal" range.
 
 ## Data Export (METHAP)
 
@@ -133,6 +161,10 @@ patient_id,visit,uric_acid_mg_dl,uric_acid_target_status
 *Source: , *
 *Created: 2026-02-26 | Domain: 001 | Status: Conscious*
 
+## Core Principle
+
+**Uric acid** is the end product of purine . While traditionally associated with gout, it's now recognized as a **marker of metabolic syndrome** and independent cardiovascular risk factor. The optimal target is **<5.5 mg/dL**, well below the standard "normal" range.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
@@ -141,6 +173,10 @@ patient_id,visit,uric_acid_mg_dl,uric_acid_target_status
 
 
 ---
+
+## Core Principle
+
+**Uric acid** is the end product of purine . While traditionally associated with gout, it's now recognized as a **marker of metabolic syndrome** and independent cardiovascular risk factor. The optimal target is **<5.5 mg/dL**, well below the standard "normal" range.
 
 ## Connection to Vault
 

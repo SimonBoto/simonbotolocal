@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 Upon discontinuation of denosumab, patients may experience rapid increase in bone turnover and decline in BMD. Multiple vertebral fractures can occur—the rebound effect. This is due to sudden unopposed RANKL activity after potent suppression.
 
+## Core Principle
+
+Upon discontinuation of denosumab, patients may experience rapid increase in bone turnover and decline in BMD. Multiple vertebral fractures can occur—the rebound effect. This is due to sudden unopposed RANKL activity after potent suppression.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,10 +34,18 @@ Upon discontinuation of denosumab, patients may experience rapid increase in bon
 *UID: Z-001-0086 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Upon discontinuation of denosumab, patients may experience rapid increase in bone turnover and decline in BMD. Multiple vertebral fractures can occur—the rebound effect. This is due to sudden unopposed RANKL activity after potent suppression.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Upon discontinuation of denosumab, patients may experience rapid increase in bone turnover and decline in BMD. Multiple vertebral fractures can occur—the rebound effect. This is due to sudden unopposed RANKL activity after potent suppression.
 
 ## Connection to Vault
 

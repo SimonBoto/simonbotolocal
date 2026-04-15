@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Metabolic syndrome is not merely a collection of risk factors but a progressive condition with serious, life-threatening complications if left untreated.
 
+## Core Principle
+
+> Metabolic syndrome is not merely a collection of risk factors but a progressive condition with serious, life-threatening complications if left untreated.
+
 ## Cardiovascular Disease (2-3x Increased Risk)
 
 ### Coronary Artery Disease
@@ -36,6 +40,10 @@ extraction-date: 2026-03-01
 - Claudication, critical limb ischemia
 - Non-healing wounds, amputation risk
 
+## Core Principle
+
+> Metabolic syndrome is not merely a collection of risk factors but a progressive condition with serious, life-threatening complications if left untreated.
+
 ## Type 2 Diabetes Mellitus (5-Fold Increased Risk)
 
 ### Progression Timeline
@@ -54,6 +62,10 @@ extraction-date: 2026-03-01
 - **Lifestyle intervention:** 58% risk reduction (Diabetes Prevention Program)
 - **Metformin:** 31% risk reduction
 - **Weight loss:** 5-10% body weight → significant benefit
+
+## Core Principle
+
+> Metabolic syndrome is not merely a collection of risk factors but a progressive condition with serious, life-threatening complications if left untreated.
 
 ## Non-Alcoholic Fatty Liver Disease (NAFLD)
 
@@ -75,6 +87,10 @@ extraction-date: 2026-03-01
 - Imaging: Ultrasound, MRI-PDFF, FibroScan
 - Liver biopsy: Gold standard for staging
 
+## Core Principle
+
+> Metabolic syndrome is not merely a collection of risk factors but a progressive condition with serious, life-threatening complications if left untreated.
+
 ## Other Complications
 
 ### Chronic Kidney Disease
@@ -95,6 +111,10 @@ extraction-date: 2026-03-01
 - Uric acid elevation from insulin resistance
 - Inflammatory arthritis risk
 
+## Core Principle
+
+> Metabolic syndrome is not merely a collection of risk factors but a progressive condition with serious, life-threatening complications if left untreated.
+
 ## Prognosis
 
 **Without intervention:**
@@ -113,6 +133,10 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 
+## Core Principle
+
+> Metabolic syndrome is not merely a collection of risk factors but a progressive condition with serious, life-threatening complications if left untreated.
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -122,6 +146,10 @@ extraction-date: 2026-03-01
 - [[Magnesium_Dosing_RDA_Therapeutic_Ranges_Z-001-0219]|Z-001-0219]
 
 ---
+
+## Core Principle
+
+> Metabolic syndrome is not merely a collection of risk factors but a progressive condition with serious, life-threatening complications if left untreated.
 
 ## Connection to Vault
 

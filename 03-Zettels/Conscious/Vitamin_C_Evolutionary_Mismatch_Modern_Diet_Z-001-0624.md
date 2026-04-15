@@ -17,6 +17,10 @@ extraction-date: 2026-04-15
 
 Modern food contains 87% less vitamin C than wild fruits, creating an evolutionary mismatch between our biological needs (evolved for abundance) and dietary reality (modern deficiency).
 
+## Core Principle
+
+Modern food contains 87% less vitamin C than wild fruits, creating an evolutionary mismatch between our biological needs (evolved for abundance) and dietary reality (modern deficiency).
+
 ## The Evolutionary Context
 
 **Ancestral environment:**
@@ -29,6 +33,10 @@ Modern food contains 87% less vitamin C than wild fruits, creating an evolutiona
 - **2,000-10,000mg/day** from wild fruits
 - Year-round availability in equatorial regions
 - Higher vitamin C content in wild vs. cultivated varieties
+
+## Core Principle
+
+Modern food contains 87% less vitamin C than wild fruits, creating an evolutionary mismatch between our biological needs (evolved for abundance) and dietary reality (modern deficiency).
 
 ## The Modern Reality
 
@@ -44,6 +52,10 @@ Modern food contains 87% less vitamin C than wild fruits, creating an evolutiona
 - Seasonal availability ignored
 - Supplementation stigmatized
 
+## Core Principle
+
+Modern food contains 87% less vitamin C than wild fruits, creating an evolutionary mismatch between our biological needs (evolved for abundance) and dietary reality (modern deficiency).
+
 ## The Mismatch
 
 | Factor | Evolutionary | Modern | Gap |
@@ -52,6 +64,10 @@ Modern food contains 87% less vitamin C than wild fruits, creating an evolutiona
 | Source | Fresh wild fruit | Processed, stored | Quality ↓ |
 | Availability | Continuous | Seasonal/sporadic | Consistency ↓ |
 | Need recognition | Instinctive | Ignored | Awareness ↓ |
+
+## Core Principle
+
+Modern food contains 87% less vitamin C than wild fruits, creating an evolutionary mismatch between our biological needs (evolved for abundance) and dietary reality (modern deficiency).
 
 ## "Use It or Lose It" Revisited
 
@@ -65,6 +81,10 @@ Modern food contains 87% less vitamin C than wild fruits, creating an evolutiona
 - Creates vulnerability NOW
 - Modern diet doesn't match evolutionary expectation
 
+## Core Principle
+
+Modern food contains 87% less vitamin C than wild fruits, creating an evolutionary mismatch between our biological needs (evolved for abundance) and dietary reality (modern deficiency).
+
 ## Clinical Implications
 
 **Subclinical deficiency may be widespread:**
@@ -76,6 +96,10 @@ Modern food contains 87% less vitamin C than wild fruits, creating an evolutiona
 
 **Pauling's insight:**
 > "We evolved for abundance. We live in deficiency."
+
+## Core Principle
+
+Modern food contains 87% less vitamin C than wild fruits, creating an evolutionary mismatch between our biological needs (evolved for abundance) and dietary reality (modern deficiency).
 
 ## Source
 [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] — Vitamin King (2025)

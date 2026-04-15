@@ -18,6 +18,10 @@ status: conscious
 
 Fermented foods provide superior probiotic benefits compared to supplements due to microbial diversity, matrix effects, and synergistic metabolites that enhance colonization and functional impact on the gut microbiome.
 
+## Core Principle
+
+Fermented foods provide superior probiotic benefits compared to supplements due to microbial diversity, matrix effects, and synergistic metabolites that enhance colonization and functional impact on the gut microbiome.
+
 ## Why Fermented Foods > Supplements
 
 **Microbial Diversity:**
@@ -33,6 +37,10 @@ Fermented foods provide superior probiotic benefits compared to supplements due 
 | **SCFAs** | Present (postbiotic) | Absent |
 | **Cofactors** | Natural nutrient synergy | Isolated |
 
+## Core Principle
+
+Fermented foods provide superior probiotic benefits compared to supplements due to microbial diversity, matrix effects, and synergistic metabolites that enhance colonization and functional impact on the gut microbiome.
+
 ## Key Fermented Foods
 
 **Dairy-Based:**
@@ -44,6 +52,10 @@ Fermented foods provide superior probiotic benefits compared to supplements due 
 - **Kimchi:** Diverse strains, anti-inflammatory compounds
 - **Kombucha:** Acetobacter, gluconic acids
 - **Miso:** Aspergillus oryzae, umami peptides
+
+## Core Principle
+
+Fermented foods provide superior probiotic benefits compared to supplements due to microbial diversity, matrix effects, and synergistic metabolites that enhance colonization and functional impact on the gut microbiome.
 
 ## Clinical Applications
 
@@ -57,13 +69,25 @@ Fermented foods provide superior probiotic benefits compared to supplements due 
 - Gradual introduction (start 2–4 tbsp)
 - Monitor tolerance (bloating, gas)
 
+## Core Principle
+
+Fermented foods provide superior probiotic benefits compared to supplements due to microbial diversity, matrix effects, and synergistic metabolites that enhance colonization and functional impact on the gut microbiome.
+
 ## Evidence
 > "Fermented foods contain live microorganisms that, when consumed in adequate amounts, confer health benefits — but the matrix and metabolites matter as much as the microbes themselves."
+
+## Core Principle
+
+Fermented foods provide superior probiotic benefits compared to supplements due to microbial diversity, matrix effects, and synergistic metabolites that enhance colonization and functional impact on the gut microbiome.
 
 ## Context
 Fermented foods represent ancestral wisdom validated by modern microbiome science. Their superiority over supplements lies not just in CFU count but in ecological complexity — the same complexity that makes natural ecosystems more resilient than monocultures. For clinical gut protocols, fermented foods should be first-line probiotics.
 
 ---
+
+## Core Principle
+
+Fermented foods provide superior probiotic benefits compared to supplements due to microbial diversity, matrix effects, and synergistic metabolites that enhance colonization and functional impact on the gut microbiome.
 
 ## Links — Two Types
 

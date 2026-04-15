@@ -19,6 +19,10 @@ updated: 2026-03-05
 
 **Corollary:** Only ~20% are purely genetic in origin.
 
+## Core Principle
+
+**Critical Statistic:** 80% of chronic and autoimmune diseases are linked to environmental factors.
+
 ## Environmental Factors (as listed in source)
 
 | Category | Examples |
@@ -30,6 +34,10 @@ updated: 2026-03-05
 | **Pharmacological** | Drug responses, medication history |
 | **Psychological** | Stress, trauma, mental health |
 
+## Core Principle
+
+**Critical Statistic:** 80% of chronic and autoimmune diseases are linked to environmental factors.
+
 ## Why This Validates Metabolomics
 
 If 80% of disease risk comes from **environmental modulation of phenotype**, then:
@@ -37,6 +45,10 @@ If 80% of disease risk comes from **environmental modulation of phenotype**, the
 1. **Genomics is insufficient** — genes only explain 20% of variance
 2. **Metabolomics is essential** — captures environmental impact on physiology
 3. **Phenotype mapping > Genotype prediction** for chronic disease
+
+## Core Principle
+
+**Critical Statistic:** 80% of chronic and autoimmune diseases are linked to environmental factors.
 
 ## METHAP Trial Relevance
 
@@ -54,6 +66,10 @@ If 80% of disease risk comes from **environmental modulation of phenotype**, the
 - Metabolome changes → phenotype improvement
 - Mechanism: Environmental factor modification
 
+## Core Principle
+
+**Critical Statistic:** 80% of chronic and autoimmune diseases are linked to environmental factors.
+
 ## Scientific Debate
 
 **Note:** The "80% environmental" statistic may represent:
@@ -63,11 +79,19 @@ If 80% of disease risk comes from **environmental modulation of phenotype**, the
 
 **Needs verification:** Original citation for this statistic (to be extracted from references)
 
+## Core Principle
+
+**Critical Statistic:** 80% of chronic and autoimmune diseases are linked to environmental factors.
+
 ## Links
 
 - **Upstream/Prerequisite:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md] — Why metabolites capture environment
 - **Parallel/Related:**  — Mechanism of environmental influence
 - **Downstream/Consequence:**  — VD as modifiable factor
+
+## Core Principle
+
+**Critical Statistic:** 80% of chronic and autoimmune diseases are linked to environmental factors.
 
 ## Context
 
@@ -81,9 +105,17 @@ If 80% of disease risk comes from **environmental modulation of phenotype**, the
 *UID: Z-001-0903 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
 
 
+## Core Principle
+
+**Critical Statistic:** 80% of chronic and autoimmune diseases are linked to environmental factors.
+
 ## Related
 - [[DNA_Methylation_Epigenetic_Regulation_Z-001-0409]|Z-001-0409]
 
+
+## Core Principle
+
+**Critical Statistic:** 80% of chronic and autoimmune diseases are linked to environmental factors.
 
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
@@ -91,6 +123,10 @@ If 80% of disease risk comes from **environmental modulation of phenotype**, the
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+**Critical Statistic:** 80% of chronic and autoimmune diseases are linked to environmental factors.
 
 ## Connection to Vault
 

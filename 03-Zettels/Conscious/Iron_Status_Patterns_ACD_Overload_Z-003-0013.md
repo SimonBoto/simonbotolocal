@@ -23,6 +23,10 @@ Iron status cannot be assessed by ferritin alone. **Three distinct patterns** re
 
 ---
 
+## Core Principle
+
+Iron status cannot be assessed by ferritin alone. **Three distinct patterns** require different interpretations and interventions: true deficiency, anemia of chronic disease (functional deficiency), and iron overload.
+
 ## 🎯 The Three Patterns
 
 ### Pattern 1: True Iron Deficiency
@@ -70,6 +74,10 @@ Iron status cannot be assessed by ferritin alone. **Three distinct patterns** re
 
 ---
 
+## Core Principle
+
+Iron status cannot be assessed by ferritin alone. **Three distinct patterns** require different interpretations and interventions: true deficiency, anemia of chronic disease (functional deficiency), and iron overload.
+
 ## 🔗 Connected Systems
 
 **Ferritin Interpretation:**
@@ -85,6 +93,10 @@ Iron status cannot be assessed by ferritin alone. **Three distinct patterns** re
 - Iron deficiency → elevated homocysteine
 
 ---
+
+## Core Principle
+
+Iron status cannot be assessed by ferritin alone. **Three distinct patterns** require different interpretations and interventions: true deficiency, anemia of chronic disease (functional deficiency), and iron overload.
 
 ## 🩺 Clinical Application
 
@@ -118,6 +130,10 @@ When ferritin is confounded by inflammation:
 
 ---
 
+## Core Principle
+
+Iron status cannot be assessed by ferritin alone. **Three distinct patterns** require different interpretations and interventions: true deficiency, anemia of chronic disease (functional deficiency), and iron overload.
+
 ## 🔬 PhD-METHAP Relevance
 
 **Hypothesis:**
@@ -133,6 +149,10 @@ patient_id,visit,ferritin_ng_ml,iron_ug_dl,tibc_ug_dl,transferrin_sat_pct,crp_mg
 
 ---
 
+## Core Principle
+
+Iron status cannot be assessed by ferritin alone. **Three distinct patterns** require different interpretations and interventions: true deficiency, anemia of chronic disease (functional deficiency), and iron overload.
+
 ## 💡 Clinical Pearl
 
 > "The most common mistake I see: giving iron to someone with anemia of chronic disease. Their ferritin is 200, CRP is 15 — they're not iron-deficient, they're inflamed. Iron supplementation in ACD can worsen outcomes."
@@ -144,6 +164,10 @@ patient_id,visit,ferritin_ng_ml,iron_ug_dl,tibc_ug_dl,transferrin_sat_pct,crp_mg
 *Source: , *
 *Created: 2026-02-26 | Domain: 003 | Status: Conscious*
 
+## Core Principle
+
+Iron status cannot be assessed by ferritin alone. **Three distinct patterns** require different interpretations and interventions: true deficiency, anemia of chronic disease (functional deficiency), and iron overload.
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
@@ -153,6 +177,10 @@ patient_id,visit,ferritin_ng_ml,iron_ug_dl,tibc_ug_dl,transferrin_sat_pct,crp_mg
 
 
 ---
+
+## Core Principle
+
+Iron status cannot be assessed by ferritin alone. **Three distinct patterns** require different interpretations and interventions: true deficiency, anemia of chronic disease (functional deficiency), and iron overload.
 
 ## Connection to Vault
 

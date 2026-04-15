@@ -12,11 +12,19 @@ status: conscious
 
 # Normalization and Scaling —  Data
 
+## Core Principle
+
+data_norm <- Normalize(data, method = "PQN")
+
 ## Overview
 
 Normalization corrects for technical variation (sample volume, batch effects), while scaling ensures variables contribute equally to multivariate analysis. Essential preprocessing steps for reliable metabolomics statistical analysis.
 
 ---
+
+## Core Principle
+
+data_norm <- Normalize(data, method = "PQN")
 
 ## Normalization Methods
 
@@ -67,6 +75,10 @@ Normalized = Analyte / Internal Standard
 
 ---
 
+## Core Principle
+
+data_norm <- Normalize(data, method = "PQN")
+
 ## Scaling Methods
 
 ### Why Scale?
@@ -94,6 +106,10 @@ Normalized = Analyte / Internal Standard
 
 ---
 
+## Core Principle
+
+data_norm <- Normalize(data, method = "PQN")
+
 ## Transformation
 
 ### Log Transformation
@@ -112,6 +128,10 @@ x_transformed = log(x + 1)  # Add pseudo-count for zeros
 **Yeo-Johnson:** Handles negative values
 
 ---
+
+## Core Principle
+
+data_norm <- Normalize(data, method = "PQN")
 
 ## METHAP Normalization Workflow
 
@@ -142,6 +162,10 @@ x_transformed = log(x + 1)  # Add pseudo-count for zeros
 
 ---
 
+## Core Principle
+
+data_norm <- Normalize(data, method = "PQN")
+
 ## Validation Checks
 
 ### Before/After Comparison
@@ -158,6 +182,10 @@ x_transformed = log(x + 1)  # Add pseudo-count for zeros
 - Biological variance > technical variance
 
 ---
+
+## Core Principle
+
+data_norm <- Normalize(data, method = "PQN")
 
 ## Common Pitfalls
 
@@ -177,6 +205,10 @@ Using wrong scaling for analysis type
 **Solution:** Visualize with PCA, apply Combat/SVA
 
 ---
+
+## Core Principle
+
+data_norm <- Normalize(data, method = "PQN")
 
 ## Software Implementation
 
@@ -206,6 +238,10 @@ X_scaled = scaler.fit_transform(X_norm)
 
 ---
 
+## Core Principle
+
+data_norm <- Normalize(data, method = "PQN")
+
 ## Related
 
 - [[Metabolomics_Preprocessing_Quality_Control_Z-001-1156]
@@ -216,11 +252,19 @@ X_scaled = scaler.fit_transform(X_norm)
 
 *Source: [[LitNote_Metabolomics_Data_Processing_L-001-0619]] | 2026-03-09*
 
+## Core Principle
+
+data_norm <- Normalize(data, method = "PQN")
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+data_norm <- Normalize(data, method = "PQN")
 
 ## Connection to Vault
 

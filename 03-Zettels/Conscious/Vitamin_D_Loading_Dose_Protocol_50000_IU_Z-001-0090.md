@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 For severe vitamin D deficiency (25[OH]D < 10 ng/mL), a loading dose of 50,000 IU weekly for 8 weeks can rapidly replenish stores, followed by maintenance dosing. This accelerates correction compared to daily low-dose regimens.
 
+## Core Principle
+
+For severe vitamin D deficiency (25[OH]D < 10 ng/mL), a loading dose of 50,000 IU weekly for 8 weeks can rapidly replenish stores, followed by maintenance dosing. This accelerates correction compared to daily low-dose regimens.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,10 +34,18 @@ For severe vitamin D deficiency (25[OH]D < 10 ng/mL), a loading dose of 50,000 I
 *UID: Z-001-0090 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+For severe vitamin D deficiency (25[OH]D < 10 ng/mL), a loading dose of 50,000 IU weekly for 8 weeks can rapidly replenish stores, followed by maintenance dosing. This accelerates correction compared to daily low-dose regimens.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+For severe vitamin D deficiency (25[OH]D < 10 ng/mL), a loading dose of 50,000 IU weekly for 8 weeks can rapidly replenish stores, followed by maintenance dosing. This accelerates correction compared to daily low-dose regimens.
 
 ## Connection to Vault
 

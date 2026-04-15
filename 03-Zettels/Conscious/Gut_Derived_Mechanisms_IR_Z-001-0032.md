@@ -21,6 +21,10 @@ Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muc
 
 **SCFA depletion:** Reduced butyrate production (from lost beneficial species) impairs colonocyte fuel supply, tight junction protein synthesis, and HDAC-mediated anti-inflammatory signaling.
 
+## Core Principle
+
+Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muciniphila, Faecalibacterium prausnitzii) decline while pathobionts (Proteobacteria) expand. This triggers barrier dysfunction through tight junction disruption (zonulin-mediated), allowing LPS translocation into circulation.
+
 ## Key Details
 
 | Microbiome Change | Consequence |
@@ -32,11 +36,19 @@ Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muc
 
 **Butyrate connection:** Primary fuel for colonocytes, supports tight junction integrity, provides HDAC inhibition (anti-inflammatory).
 
+## Core Principle
+
+Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muciniphila, Faecalibacterium prausnitzii) decline while pathobionts (Proteobacteria) expand. This triggers barrier dysfunction through tight junction disruption (zonulin-mediated), allowing LPS translocation into circulation.
+
 ## Links
 
 - **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md] — Diet changes drive dysbiosis
 - **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md] — LPS activates inflammatory signaling
 - **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — Systemic IR develops
+
+## Core Principle
+
+Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muciniphila, Faecalibacterium prausnitzii) decline while pathobionts (Proteobacteria) expand. This triggers barrier dysfunction through tight junction disruption (zonulin-mediated), allowing LPS translocation into circulation.
 
 ## Context
 
@@ -49,12 +61,20 @@ Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muc
 *UID: Z-001-0032 | Domain: 001 | Created: 2026-02-24*
 
 
+## Core Principle
+
+Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muciniphila, Faecalibacterium prausnitzii) decline while pathobionts (Proteobacteria) expand. This triggers barrier dysfunction through tight junction disruption (zonulin-mediated), allowing LPS translocation into circulation.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+Gut dysbiosis shifts microbiome composition: beneficial species (Akkermansia muciniphila, Faecalibacterium prausnitzii) decline while pathobionts (Proteobacteria) expand. This triggers barrier dysfunction through tight junction disruption (zonulin-mediated), allowing LPS translocation into circulation.
 
 ## Connection to Vault
 

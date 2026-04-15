@@ -32,15 +32,27 @@ Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1
 
 **METHAP Relevance:**  resistance is associated with chronic low-grade inflammation and glycolytic bias in metabolically stressed tissues.  may shift metabolism toward OXPHOS, promoting anti-inflammatory phenotypes.
 
+## Core Principle
+
+Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1 macrophages, activated T-cells) rely on aerobic glycolysis (the Warburg effect), while anti-inflammatory cells (M2 macrophages, regulatory T-cells) use oxidative phosphorylation. This metabolic dichotomy offers therapeutic targets.
+
 ## Key Details
 
 **Metabolic reprogramming as therapy:** Inhibiting glycolysis in autoimmune disease reduces inflammatory cell function while sparing oxidative cells that promote resolution.
+
+## Core Principle
+
+Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1 macrophages, activated T-cells) rely on aerobic glycolysis (the Warburg effect), while anti-inflammatory cells (M2 macrophages, regulatory T-cells) use oxidative phosphorylation. This metabolic dichotomy offers therapeutic targets.
 
 ## Links
 
 - **Upstream:** [[Inflammatory_Signaling_IR_Z-001-0031.md] — Inflammatory signaling mechanisms
 - **Parallel:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002.md] — Metformin modulates metabolism
 - **Downstream:** [[Vicious_Cycle_Inflammation_IR_Z-001-0038.md] — Inflammation → IR vicious cycle
+
+## Core Principle
+
+Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1 macrophages, activated T-cells) rely on aerobic glycolysis (the Warburg effect), while anti-inflammatory cells (M2 macrophages, regulatory T-cells) use oxidative phosphorylation. This metabolic dichotomy offers therapeutic targets.
 
 ## Context
 
@@ -53,6 +65,10 @@ Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1
 *UID: Z-101-0004 | Domain: 101 | Created: 2026-02-24*
 
 
+## Core Principle
+
+Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1 macrophages, activated T-cells) rely on aerobic glycolysis (the Warburg effect), while anti-inflammatory cells (M2 macrophages, regulatory T-cells) use oxidative phosphorylation. This metabolic dichotomy offers therapeutic targets.
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -60,6 +76,10 @@ Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1
 - 
 
 ---
+
+## Core Principle
+
+Immune cell function is regulated by metabolic state. Pro-inflammatory cells (M1 macrophages, activated T-cells) rely on aerobic glycolysis (the Warburg effect), while anti-inflammatory cells (M2 macrophages, regulatory T-cells) use oxidative phosphorylation. This metabolic dichotomy offers therapeutic targets.
 
 ## Connection to Vault
 

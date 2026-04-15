@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Response to B12 therapy is itself diagnostic: reticulocytosis peaks at 5-7 days, hemoglobin rises by 2 months; no response suggests alternative diagnosis.
 
+## Core Principle
+
+> Response to B12 therapy is itself diagnostic: reticulocytosis peaks at 5-7 days, hemoglobin rises by 2 months; no response suggests alternative diagnosis.
+
 ## Expected B12 Response
 
 **Timeline:**
@@ -24,6 +28,10 @@ extraction-date: 2026-03-01
 | **Week 2-4** | Hemoglobin begins rising |
 | **Month 2-3** | Hemoglobin normalizes |
 | **Month 6-12** | Neurological improvement (if early treatment) |
+
+## Core Principle
+
+> Response to B12 therapy is itself diagnostic: reticulocytosis peaks at 5-7 days, hemoglobin rises by 2 months; no response suggests alternative diagnosis.
 
 ## No Response Indicates
 
@@ -37,6 +45,10 @@ extraction-date: 2026-03-01
 - Confirms alternative pathology
 - Avoids delay in appropriate therapy
 - Critical for patient outcome
+
+## Core Principle
+
+> Response to B12 therapy is itself diagnostic: reticulocytosis peaks at 5-7 days, hemoglobin rises by 2 months; no response suggests alternative diagnosis.
 
 ##  Use
 
@@ -56,6 +68,10 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_B12_MM_Mimicry_L-001-0404]*
 
 
+## Core Principle
+
+> Response to B12 therapy is itself diagnostic: reticulocytosis peaks at 5-7 days, hemoglobin rises by 2 months; no response suggests alternative diagnosis.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -64,6 +80,10 @@ extraction-date: 2026-03-01
 - [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> Response to B12 therapy is itself diagnostic: reticulocytosis peaks at 5-7 days, hemoglobin rises by 2 months; no response suggests alternative diagnosis.
 
 ## Connection to Vault
 

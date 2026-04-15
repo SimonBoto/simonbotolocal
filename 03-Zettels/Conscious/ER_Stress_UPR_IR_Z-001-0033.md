@@ -23,6 +23,10 @@ Metabolic overload creates endoplasmic reticulum stress when protein synthesis d
 
 **Cross-talk with :** ER stress activates NF-κB, creating a positive feedback loop where metabolic stress drives inflammation, which further stresses the ER.
 
+## Core Principle
+
+Metabolic overload creates endoplasmic reticulum stress when protein synthesis demand and lipid synthesis exceed ER capacity, coupled with calcium dysregulation. This triggers the Unfolded Protein Response (UPR).
+
 ## Key Details
 
 | UPR Branch | Effect on  |
@@ -31,11 +35,19 @@ Metabolic overload creates endoplasmic reticulum stress when protein synthesis d
 | IRE1α/JNK | IRS-1 serine phosphorylation |
 | ATF6 | ↑ Lipogenesis (worsens overload) |
 
+## Core Principle
+
+Metabolic overload creates endoplasmic reticulum stress when protein synthesis demand and lipid synthesis exceed ER capacity, coupled with calcium dysregulation. This triggers the Unfolded Protein Response (UPR).
+
 ## Links
 
 - **Upstream:** [[Lipotoxicity_Pathway_IR_Z-001-0029.md] — Lipotoxicity induces ER stress
 - **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md] — Shared JNK activation pathway
 - **Downstream:** [[Compensatory_IR_Stage_Z-001-0034.md] — Compensatory hyperinsulinemia
+
+## Core Principle
+
+Metabolic overload creates endoplasmic reticulum stress when protein synthesis demand and lipid synthesis exceed ER capacity, coupled with calcium dysregulation. This triggers the Unfolded Protein Response (UPR).
 
 ## Context
 
@@ -48,6 +60,10 @@ Metabolic overload creates endoplasmic reticulum stress when protein synthesis d
 *UID: Z-001-0033 | Domain: 001 | Created: 2026-02-24*
 
 
+## Core Principle
+
+Metabolic overload creates endoplasmic reticulum stress when protein synthesis demand and lipid synthesis exceed ER capacity, coupled with calcium dysregulation. This triggers the Unfolded Protein Response (UPR).
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -57,6 +73,10 @@ Metabolic overload creates endoplasmic reticulum stress when protein synthesis d
 - [[ER_Stress_Induced_IR_Z-001-0014]|Z-001-0014]
 
 ---
+
+## Core Principle
+
+Metabolic overload creates endoplasmic reticulum stress when protein synthesis demand and lipid synthesis exceed ER capacity, coupled with calcium dysregulation. This triggers the Unfolded Protein Response (UPR).
 
 ## Connection to Vault
 

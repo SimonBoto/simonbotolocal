@@ -28,10 +28,18 @@ created: 2026-02-22
 
 **Critical:** All three tyrosines must be phosphorylated for maximum kinase activity. Partial phosphorylation reduces signaling efficiency.
 
+## Core Principle
+
+binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
+
 ## Links
 
 - **Prerequisite:** [[Insulin_Receptor_Structure_Z-001-0001]] — Receptor architecture
 - **Downstream:** [[IRS_Protein_Recruitment_Z-001-0005]] — Adapter binding
+
+## Core Principle
+
+binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
 
 ## Context
 
@@ -40,10 +48,18 @@ created: 2026-02-22
 **Mechanism source:** PMC3083885 | Gutiérrez-Rodelo et al., 2017
 
 
+## Core Principle
+
+binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+binding triggers a conformational change that activates the β subunit tyrosine kinase domain, initiating signal transduction.
 
 ## Connection to Vault
 

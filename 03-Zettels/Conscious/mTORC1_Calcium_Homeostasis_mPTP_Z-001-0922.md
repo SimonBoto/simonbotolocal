@@ -17,6 +17,10 @@ updated: 2026-03-05
 
 **Core Mechanism:** Sirolimus disrupts l calcium buffering, leading to calcium overload, mPTP opening, and cell death.
 
+## Core Principle
+
+**Core Mechanism:** Sirolimus disrupts l calcium buffering, leading to calcium overload, mPTP opening, and cell death.
+
 ## Calcium Homeostasis Overview
 
 **Cytosolic Calcium ([Ca²⁺]i):**
@@ -29,6 +33,10 @@ updated: 2026-03-05
 - Activates TCA cycle dehydrogenases
 - Stimulates ATP production
 - Excess triggers pathology
+
+## Core Principle
+
+**Core Mechanism:** Sirolimus disrupts l calcium buffering, leading to calcium overload, mPTP opening, and cell death.
 
 ## mTORC1 and Calcium Handling
 
@@ -43,6 +51,10 @@ updated: 2026-03-05
 - Supports calcium-induced metabolic activation
 - Protects against calcium overload
 
+## Core Principle
+
+**Core Mechanism:** Sirolimus disrupts l calcium buffering, leading to calcium overload, mPTP opening, and cell death.
+
 ## Sirolimus Disruption
 
 **Impaired Calcium Buffering:**
@@ -55,6 +67,10 @@ updated: 2026-03-05
 - [Ca²⁺]m exceeds buffering capacity
 - Matrix Ca²⁺ activates dehydrogenases (initially)
 - Prolonged elevation → pathological
+
+## Core Principle
+
+**Core Mechanism:** Sirolimus disrupts l calcium buffering, leading to calcium overload, mPTP opening, and cell death.
 
 ## mPTP (Mitochondrial Permeability Transition Pore)
 
@@ -69,6 +85,10 @@ updated: 2026-03-05
 - ROS (oxidative stress)
 - Depolarization
 - **Sirolimus produces all three**
+
+## Core Principle
+
+**Core Mechanism:** Sirolimus disrupts l calcium buffering, leading to calcium overload, mPTP opening, and cell death.
 
 ## mPTP Opening Consequences
 
@@ -88,6 +108,10 @@ updated: 2026-03-05
 **Cell Death Pathways:**
 - **Cytochrome c + Apaf-1 + caspase-9** → Caspase cascade → Apoptosis
 - **AIF** → Nuclear translocation → Caspase-independent cell death
+
+## Core Principle
+
+**Core Mechanism:** Sirolimus disrupts l calcium buffering, leading to calcium overload, mPTP opening, and cell death.
 
 ## The Calcium-ROS Synergy
 
@@ -113,6 +137,10 @@ Sirolimus → Mitochondrial dysfunction
 - Ca²⁺ amplifies ROS production
 - Together, lower thresholds trigger opening
 
+## Core Principle
+
+**Core Mechanism:** Sirolimus disrupts l calcium buffering, leading to calcium overload, mPTP opening, and cell death.
+
 ## Tissue Vulnerability
 
 **High Vulnerability:**
@@ -130,11 +158,19 @@ Sirolimus → Mitochondrial dysfunction
 *See also: [[Sirolimus_Mitophagy_Dysregulation_Z-001-0921]*
 
 
+## Core Principle
+
+**Core Mechanism:** Sirolimus disrupts l calcium buffering, leading to calcium overload, mPTP opening, and cell death.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+**Core Mechanism:** Sirolimus disrupts l calcium buffering, leading to calcium overload, mPTP opening, and cell death.
 
 ## Connection to Vault
 

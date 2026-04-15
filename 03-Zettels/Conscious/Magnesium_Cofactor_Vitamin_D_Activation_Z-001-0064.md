@@ -30,6 +30,10 @@ Magnesium is required as a cofactor for both hydroxylation steps converting vita
 
 **For METHAP protocol:** Mg supplementation (400-600 mg elemental, glycinate or citrate form) should accompany high-dose vitamin D.
 
+## Core Principle
+
+Magnesium is required as a cofactor for both hydroxylation steps converting vitamin D to active calcitriol: (1) hepatic 25-hydroxylation (25(OH)D), and (2) renal 1α-hydroxylation (1,25(OH)2D). Mg deficiency impairs vitamin D activation even with adequate intake.
+
 ## Links
 
 **Parent MOC:** -
@@ -41,11 +45,19 @@ Magnesium is required as a cofactor for both hydroxylation steps converting vita
 *UID: Z-001-0064 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Magnesium is required as a cofactor for both hydroxylation steps converting vitamin D to active calcitriol: (1) hepatic 25-hydroxylation (25(OH)D), and (2) renal 1α-hydroxylation (1,25(OH)2D). Mg deficiency impairs vitamin D activation even with adequate intake.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+Magnesium is required as a cofactor for both hydroxylation steps converting vitamin D to active calcitriol: (1) hepatic 25-hydroxylation (25(OH)D), and (2) renal 1α-hydroxylation (1,25(OH)2D). Mg deficiency impairs vitamin D activation even with adequate intake.
 
 ## Connection to Vault
 

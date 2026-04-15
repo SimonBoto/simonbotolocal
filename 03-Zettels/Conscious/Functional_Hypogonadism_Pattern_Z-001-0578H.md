@@ -20,12 +20,20 @@ status: conscious
 
 This zettel describes the functional hypogonadism pattern, characterized by reversible suppression of the hypothalamic-pituitary-gonadal axis.
 
+## Core Principle
+
+This zettel describes the functional hypogonadism pattern, characterized by reversible suppression of the hypothalamic-pituitary-gonadal axis.
+
 ## Pattern Characteristics
 
 - ↓ Testosterone
 - Normal or low-normal LH and FSH
 - Absence of structural pituitary or testicular disease
 - Reversible with treatment of underlying cause
+
+## Core Principle
+
+This zettel describes the functional hypogonadism pattern, characterized by reversible suppression of the hypothalamic-pituitary-gonadal axis.
 
 ## Common Etiologies
 
@@ -37,12 +45,20 @@ This zettel describes the functional hypogonadism pattern, characterized by reve
 - Chronic opioid use
 - Alcohol abuse
 
+## Core Principle
+
+This zettel describes the functional hypogonadism pattern, characterized by reversible suppression of the hypothalamic-pituitary-gonadal axis.
+
 ## Pathophysiological Mechanisms
 
 - Leptin resistance in obesity
 - Cortisol inhibition of GnRH secretion
 - Inflammatory cytokine effects on HPG axis
 - Direct opioid receptor effects on hypothalamus
+
+## Core Principle
+
+This zettel describes the functional hypogonadism pattern, characterized by reversible suppression of the hypothalamic-pituitary-gonadal axis.
 
 ## Clinical Management
 

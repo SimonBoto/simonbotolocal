@@ -15,11 +15,19 @@ extraction-date: 2026-03-01
 
 > Metabolic syndrome has reached epidemic proportions worldwide, representing one of the major public health challenges of the 21st century.
 
+## Core Principle
+
+> Metabolic syndrome has reached epidemic proportions worldwide, representing one of the major public health challenges of the 21st century.
+
 ## Global Burden
 
 - **Overall prevalence:** ~25% of adults worldwide (varies by definition used)
 - **Affected population:** Estimated 1 billion+ people globally
 - **Trend:** Increasing in both developed and developing nations
+
+## Core Principle
+
+> Metabolic syndrome has reached epidemic proportions worldwide, representing one of the major public health challenges of the 21st century.
 
 ## Demographic Variations
 
@@ -43,6 +51,10 @@ extraction-date: 2026-03-01
 - **Higher risk:** South Asian, Hispanic, African American, Native American
 - **:** Genetic predisposition + environmental factors
 
+## Core Principle
+
+> Metabolic syndrome has reached epidemic proportions worldwide, representing one of the major public health challenges of the 21st century.
+
 ## Risk Factors for Development
 
 1. **Urbanization and Westernization**
@@ -50,6 +62,10 @@ extraction-date: 2026-03-01
 3. **Dietary transition** (processed foods, sugar, refined carbs)
 4. **Obesity epidemic** (particularly visceral adiposity)
 5. **Aging populations**
+
+## Core Principle
+
+> Metabolic syndrome has reached epidemic proportions worldwide, representing one of the major public health challenges of the 21st century.
 
 ## METHAP Relevance
 
@@ -65,6 +81,10 @@ Understanding epidemiology informs:
 *Extracted: 2026-03-01*
 
 
+## Core Principle
+
+> Metabolic syndrome has reached epidemic proportions worldwide, representing one of the major public health challenges of the 21st century.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
@@ -72,6 +92,10 @@ Understanding epidemiology informs:
 - _Dosing_RDA_Therapeutic_Ranges_Z-001-0219]|Z-001-0219]
 
 ---
+
+## Core Principle
+
+> Metabolic syndrome has reached epidemic proportions worldwide, representing one of the major public health challenges of the 21st century.
 
 ## Connection to Vault
 

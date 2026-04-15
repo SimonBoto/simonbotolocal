@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Can severe B12, 5-MTHF, and  deficiency mimic multiple myeloma pathological findings? The answer requires careful diagnostic differentiation as both can cause anemia and bone marrow changes, but only MM involves malignant clonal plasma cells.
 
+## Core Principle
+
+> Can severe B12, 5-MTHF, and  deficiency mimic multiple myeloma pathological findings? The answer requires careful diagnostic differentiation as both can cause anemia and bone marrow changes, but only MM involves malignant clonal plasma cells.
+
 ## The Question
 
 **Clinical Scenario:**
@@ -22,6 +26,10 @@ extraction-date: 2026-03-01
 - Elevated LDH
 - Possible bone involvement
 - Differential: B12 deficiency vs. Multiple myeloma
+
+## Core Principle
+
+> Can severe B12, 5-MTHF, and  deficiency mimic multiple myeloma pathological findings? The answer requires careful diagnostic differentiation as both can cause anemia and bone marrow changes, but only MM involves malignant clonal plasma cells.
 
 ## The Answer
 
@@ -42,6 +50,10 @@ extraction-date: 2026-03-01
 - Common variants, not causal
 - Manage separately from MM
 
+## Core Principle
+
+> Can severe B12, 5-MTHF, and  deficiency mimic multiple myeloma pathological findings? The answer requires careful diagnostic differentiation as both can cause anemia and bone marrow changes, but only MM involves malignant clonal plasma cells.
+
 ## Clinical Implication
 
 **Critical Differentiation:**
@@ -55,12 +67,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_B12_MM_Mimicry_L-001-0404]*
 
 
+## Core Principle
+
+> Can severe B12, 5-MTHF, and  deficiency mimic multiple myeloma pathological findings? The answer requires careful diagnostic differentiation as both can cause anemia and bone marrow changes, but only MM involves malignant clonal plasma cells.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - _Z-001-0428]|Z-001-0428]
 
 ---
+
+## Core Principle
+
+> Can severe B12, 5-MTHF, and  deficiency mimic multiple myeloma pathological findings? The answer requires careful diagnostic differentiation as both can cause anemia and bone marrow changes, but only MM involves malignant clonal plasma cells.
 
 ## Connection to Vault
 

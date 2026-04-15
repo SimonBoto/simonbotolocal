@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Homocysteine >10-12 μmol/L is associated with increased cardiovascular risk, while optimal levels are <8-10 μmol/L.
 
+## Core Principle
+
+> Homocysteine >10-12 μmol/L is associated with increased cardiovascular risk, while optimal levels are <8-10 μmol/L.
+
 ## Standard vs Optimal
 
 | Level | Standard | Risk |
@@ -24,6 +28,10 @@ extraction-date: 2026-03-01
 | 10-15 | Borderline | Mild elevation |
 | >15 | High | CV risk |
 
+## Core Principle
+
+> Homocysteine >10-12 μmol/L is associated with increased cardiovascular risk, while optimal levels are <8-10 μmol/L.
+
 ## Risk Stratification
 
 **Low risk:** <8 μmol/L
@@ -32,12 +40,20 @@ extraction-date: 2026-03-01
 **Moderate:** 15-30
 **Severe:** >30
 
+## Core Principle
+
+> Homocysteine >10-12 μmol/L is associated with increased cardiovascular risk, while optimal levels are <8-10 μmol/L.
+
 ##  Significance
 
 - Cardiovascular disease
 - Stroke
 - Cognitive decline
 - Bone fractures
+
+## Core Principle
+
+> Homocysteine >10-12 μmol/L is associated with increased cardiovascular risk, while optimal levels are <8-10 μmol/L.
 
 ## Causes of Elevation
 
@@ -53,12 +69,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_B12_Clinical_Assessment_L-001-0408]*
 
 
+## Core Principle
+
+> Homocysteine >10-12 μmol/L is associated with increased cardiovascular risk, while optimal levels are <8-10 μmol/L.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Homocysteine >10-12 μmol/L is associated with increased cardiovascular risk, while optimal levels are <8-10 μmol/L.
 
 ## Connection to Vault
 

@@ -21,6 +21,10 @@ status: conscious
 
 > **Definition:** Meta-regression is a statistical technique that examines the relationship between study-level characteristics (covariates) and effect sizes in a meta-analysis, allowing exploration of sources of heterogeneity.
 
+## Core Principle
+
+> **Definition:** Meta-regression is a statistical technique that examines the relationship between study-level characteristics (covariates) and effect sizes in a meta-analysis, allowing exploration of sources of heterogeneity.
+
 ## Key Principles
 
 - **Hypothesis-driven:** Covariates should be selected based on a priori hypotheses
@@ -29,12 +33,20 @@ status: conscious
 - **Multiple testing:** Risk of type I error with multiple covariates
 - **Interpretation:** Association does not imply causation
 
+## Core Principle
+
+> **Definition:** Meta-regression is a statistical technique that examines the relationship between study-level characteristics (covariates) and effect sizes in a meta-analysis, allowing exploration of sources of heterogeneity.
+
 ## Common Covariates
 
 - **Study characteristics:** Publication year, study design, sample size, methodological quality
 - **Participant characteristics:** Mean age, percentage female, disease severity
 - **Intervention characteristics:** Dosage, duration, comparator, delivery method
 - **Outcome characteristics:** Follow-up time, measurement method, definition
+
+## Core Principle
+
+> **Definition:** Meta-regression is a statistical technique that examines the relationship between study-level characteristics (covariates) and effect sizes in a meta-analysis, allowing exploration of sources of heterogeneity.
 
 ## Analysis Methods
 
@@ -43,6 +55,10 @@ status: conscious
 - **Restricted maximum likelihood (REML):** Preferred estimation method
 - **Bayesian meta-regression:** Incorporates prior information
 
+## Core Principle
+
+> **Definition:** Meta-regression is a statistical technique that examines the relationship between study-level characteristics (covariates) and effect sizes in a meta-analysis, allowing exploration of sources of heterogeneity.
+
 ## Reporting Standards
 
 - Clear description of covariates and rationale
@@ -50,6 +66,10 @@ status: conscious
 - Assessment of model fit (e.g., R² statistic)
 - Interpretation of clinical and statistical significance
 - Use of PRISMA 2020 guidelines for meta-regression reporting
+
+## Core Principle
+
+> **Definition:** Meta-regression is a statistical technique that examines the relationship between study-level characteristics (covariates) and effect sizes in a meta-analysis, allowing exploration of sources of heterogeneity.
 
 ## Best Practices
 
@@ -60,6 +80,10 @@ status: conscious
 - Interpret findings in context of clinical plausibility and heterogeneity
 
 ---
+
+## Core Principle
+
+> **Definition:** Meta-regression is a statistical technique that examines the relationship between study-level characteristics (covariates) and effect sizes in a meta-analysis, allowing exploration of sources of heterogeneity.
 
 ## Related Concepts
 

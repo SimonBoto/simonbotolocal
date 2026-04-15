@@ -24,6 +24,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Not all folate is equal.** 5-Methyltetrahydrofolate (5-MTHF) is the active form used in methylation. Folic acid is synthetic and requires conversion. **MTHFR variants impair this conversion**, making 5-MTHF essential for many patients.
+
 ## 🎯 Folate Forms
 
 ### 5-MTHF (5-Methylfolate) — PREFERRED
@@ -54,6 +58,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Not all folate is equal.** 5-Methyltetrahydrofolate (5-MTHF) is the active form used in methylation. Folic acid is synthetic and requires conversion. **MTHFR variants impair this conversion**, making 5-MTHF essential for many patients.
+
 ## 🔗 Connected Systems
 
 **Methylation:**
@@ -67,6 +75,10 @@ extraction-date: 2026-04-15
 - Compound heterozygous: Significant impairment
 
 ---
+
+## Core Principle
+
+**Not all folate is equal.** 5-Methyltetrahydrofolate (5-MTHF) is the active form used in methylation. Folic acid is synthetic and requires conversion. **MTHFR variants impair this conversion**, making 5-MTHF essential for many patients.
 
 ## 🩺 Clinical Application
 
@@ -106,6 +118,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Not all folate is equal.** 5-Methyltetrahydrofolate (5-MTHF) is the active form used in methylation. Folic acid is synthetic and requires conversion. **MTHFR variants impair this conversion**, making 5-MTHF essential for many patients.
+
 ## 🔬 The Unmetabolized Folic Acid Problem
 
 **High-dose folic acid (especially >400 mcg):**
@@ -117,6 +133,10 @@ extraction-date: 2026-04-15
 **Solution:** Use 5-MTHF exclusively — no conversion bottleneck, no UMFA.
 
 ---
+
+## Core Principle
+
+**Not all folate is equal.** 5-Methyltetrahydrofolate (5-MTHF) is the active form used in methylation. Folic acid is synthetic and requires conversion. **MTHFR variants impair this conversion**, making 5-MTHF essential for many patients.
 
 ## 🔬 PhD-METHAP Relevance
 
@@ -131,6 +151,10 @@ patient_id,visit,rbc_folate_ng_ml,5_mthf_ng_ml,mthfr_genotype,folate_form_used
 
 ---
 
+## Core Principle
+
+**Not all folate is equal.** 5-Methyltetrahydrofolate (5-MTHF) is the active form used in methylation. Folic acid is synthetic and requires conversion. **MTHFR variants impair this conversion**, making 5-MTHF essential for many patients.
+
 ## 💡 Clinical Pearl
 
 > "I never use folic acid anymore. 5-MTHF is barely more expensive and bypasses all the MTHFR issues. Why risk unmetabolized folic acid when the active form is available?"
@@ -142,6 +166,10 @@ patient_id,visit,rbc_folate_ng_ml,5_mthf_ng_ml,mthfr_genotype,folate_form_used
 *Source: , *
 *Created: 2026-02-26 | Domain: 004 | Status: Conscious*
 
+## Core Principle
+
+**Not all folate is equal.** 5-Methyltetrahydrofolate (5-MTHF) is the active form used in methylation. Folic acid is synthetic and requires conversion. **MTHFR variants impair this conversion**, making 5-MTHF essential for many patients.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
@@ -151,10 +179,18 @@ patient_id,visit,rbc_folate_ng_ml,5_mthf_ng_ml,mthfr_genotype,folate_form_used
 
 
 
+## Core Principle
+
+**Not all folate is equal.** 5-Methyltetrahydrofolate (5-MTHF) is the active form used in methylation. Folic acid is synthetic and requires conversion. **MTHFR variants impair this conversion**, making 5-MTHF essential for many patients.
+
 ## Related
 - [[Retest_Scheduling_Followup_Protocols_Z-004-0003]|Z-004-0003]
 
 ---
+
+## Core Principle
+
+**Not all folate is equal.** 5-Methyltetrahydrofolate (5-MTHF) is the active form used in methylation. Folic acid is synthetic and requires conversion. **MTHFR variants impair this conversion**, making 5-MTHF essential for many patients.
 
 ## Connection to Vault
 

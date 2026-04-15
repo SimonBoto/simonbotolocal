@@ -17,6 +17,10 @@ extraction-date: 2026-04-15
 
 Vitamin C serves as an essential cofactor for multiple critical physiological processes: collagen synthesis, free radical neutralization, antioxidant regeneration, neurotransmitter production, and immune function — explaining why deficiency has systemic consequences.
 
+## Core Principle
+
+Vitamin C serves as an essential cofactor for multiple critical physiological processes: collagen synthesis, free radical neutralization, antioxidant regeneration, neurotransmitter production, and immune function — explaining why deficiency has systemic consequences.
+
 ## 1. Collagen Synthesis
 
 **Function:**
@@ -33,6 +37,10 @@ Vitamin C serves as an essential cofactor for multiple critical physiological pr
 
 **Pauling's framing:** "Literally holds your body together"
 
+## Core Principle
+
+Vitamin C serves as an essential cofactor for multiple critical physiological processes: collagen synthesis, free radical neutralization, antioxidant regeneration, neurotransmitter production, and immune function — explaining why deficiency has systemic consequences.
+
 ## 2. Free Radical Neutralization
 
 **Function:**
@@ -44,6 +52,10 @@ Vitamin C serves as an essential cofactor for multiple critical physiological pr
 - Ascorbate → semidehydroascorbate → dehydroascorbate
 - Regenerable from oxidized forms
 - First line of antioxidant defense
+
+## Core Principle
+
+Vitamin C serves as an essential cofactor for multiple critical physiological processes: collagen synthesis, free radical neutralization, antioxidant regeneration, neurotransmitter production, and immune function — explaining why deficiency has systemic consequences.
 
 ## 3. Antioxidant Regeneration
 
@@ -57,6 +69,10 @@ Vitamin C serves as an essential cofactor for multiple critical physiological pr
 - Spares other antioxidants
 - Amplifies overall antioxidant capacity
 
+## Core Principle
+
+Vitamin C serves as an essential cofactor for multiple critical physiological processes: collagen synthesis, free radical neutralization, antioxidant regeneration, neurotransmitter production, and immune function — explaining why deficiency has systemic consequences.
+
 ## 4. Neurotransmitter Synthesis
 
 **Cofactor for:**
@@ -68,6 +84,10 @@ Vitamin C serves as an essential cofactor for multiple critical physiological pr
 - Mood changes
 - Fatigue
 - Cognitive effects
+
+## Core Principle
+
+Vitamin C serves as an essential cofactor for multiple critical physiological processes: collagen synthesis, free radical neutralization, antioxidant regeneration, neurotransmitter production, and immune function — explaining why deficiency has systemic consequences.
 
 ## 5. Immune Function
 
@@ -82,6 +102,10 @@ Vitamin C serves as an essential cofactor for multiple critical physiological pr
 - Needs increase during infection
 - Pharmacological doses may be required
 
+## Core Principle
+
+Vitamin C serves as an essential cofactor for multiple critical physiological processes: collagen synthesis, free radical neutralization, antioxidant regeneration, neurotransmitter production, and immune function — explaining why deficiency has systemic consequences.
+
 ## Why High Doses May Be Needed
 
 | Function | RDA (90mg) | Optimal/Stress |
@@ -91,6 +115,10 @@ Vitamin C serves as an essential cofactor for multiple critical physiological pr
 | Antioxidant saturation | ✗ | ✓ |
 | Immune optimization | ✗ | ✓ |
 | Therapeutic effects | ✗ | High doses |
+
+## Core Principle
+
+Vitamin C serves as an essential cofactor for multiple critical physiological processes: collagen synthesis, free radical neutralization, antioxidant regeneration, neurotransmitter production, and immune function — explaining why deficiency has systemic consequences.
 
 ## Source
 [[LitNote_KingOfVitamins_Pauling_Vitamin_C_2025_L-001-0656]] — Vitamin King (2025)

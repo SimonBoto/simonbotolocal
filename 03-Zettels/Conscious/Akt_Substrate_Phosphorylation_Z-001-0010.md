@@ -35,11 +35,19 @@ Fully activated Akt phosphorylates multiple substrates to execute 's metabolic e
 
 **Consensus motif:** Akt prefers RxRxxS/T phosphorylation sites.
 
+## Core Principle
+
+Fully activated Akt phosphorylates multiple substrates to execute 's metabolic effects.
+
 ## Links
 
 - **Upstream:** [[Akt_Recruitment_by_PIP3_Z-001-0009]] — Akt activation
 - **Downstream:** [[GLUT4_Vesicle_Translocation_Z-001-0011]] — AS160 
 - **Pathway:** [[GSK3_Inhibition_Glycogen_Synthesis_Z-001-0012]] — Glycogen synthesis
+
+## Core Principle
+
+Fully activated Akt phosphorylates multiple substrates to execute 's metabolic effects.
 
 ## Context
 
@@ -48,11 +56,19 @@ Fully activated Akt phosphorylates multiple substrates to execute 's metabolic e
 **Also activates:** Protein synthesis, lipogenesis, cell survival
 
 
+## Core Principle
+
+Fully activated Akt phosphorylates multiple substrates to execute 's metabolic effects.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Fully activated Akt phosphorylates multiple substrates to execute 's metabolic effects.
 
 ## Connection to Vault
 

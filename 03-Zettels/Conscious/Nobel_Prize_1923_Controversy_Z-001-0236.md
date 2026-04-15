@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of , sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
 
+## Core Principle
+
+> The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of , sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
+
 ## The Award
 
 **Announcement:**
@@ -29,6 +33,10 @@ extraction-date: 2026-03-01
 - Reflects immediate recognition of life-saving importance
 - Unprecedented impact
 
+## Core Principle
+
+> The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of , sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
+
 ## Recipients
 
 **Frederick Banting (1891-1941):**
@@ -42,6 +50,10 @@ extraction-date: 2026-03-01
 - Department head (University of Toronto)
 - Provided lab space and resources
 - Initially skeptical but supported research
+
+## Core Principle
+
+> The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of , sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
 
 ## The Controversy
 
@@ -61,6 +73,10 @@ extraction-date: 2026-03-01
 - Announced 50/50 split with Collip
 - Recognized purification was essential
 
+## Core Principle
+
+> The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of , sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
+
 ## The "Forgotten" Contributors
 
 **Charles Best:**
@@ -79,6 +95,10 @@ extraction-date: 2026-03-01
 1. Traditional: Banting/MacLeod (Nobel)
 2. Modern view: Team effort (all four essential)
 3. Historical: Varies by account
+
+## Core Principle
+
+> The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of , sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
 
 ## Historical Debate
 
@@ -100,6 +120,10 @@ extraction-date: 2026-03-01
 - Established vs. newcomers
 - Institutional recognition
 
+## Core Principle
+
+> The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of , sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
+
 ## Legacy of the Controversy
 
 **Positive Outcomes:**
@@ -113,6 +137,10 @@ extraction-date: 2026-03-01
 - Varying accounts in books/films
 - National pride (Canadian significance)
 - Scientific ethics discussion
+
+## Core Principle
+
+> The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of , sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
 
 ## The Prize Money Splits
 
@@ -128,6 +156,10 @@ extraction-date: 2026-03-01
 - Professional recognition
 - Fairness gesture
 
+## Core Principle
+
+> The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of , sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
+
 ## Historical Context
 
 **Precedent:**
@@ -141,6 +173,10 @@ extraction-date: 2026-03-01
 - Insulin case well-documented
 - Relatively amicable resolution
 - All continued careers successfully
+
+## Core Principle
+
+> The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of , sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
 
 ## Lessons for Modern Science
 
@@ -167,6 +203,10 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Insulin_History_L-001-0207]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of , sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
@@ -174,6 +214,10 @@ extraction-date: 2026-03-01
 - [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> The 1923 Nobel Prize in Physiology or Medicine was awarded to Frederick Banting and John MacLeod for the discovery of , sparking controversy over credit allocation that led both laureates to share their prize money with their colleagues Charles Best and James Collip.
 
 ## Connection to Vault
 

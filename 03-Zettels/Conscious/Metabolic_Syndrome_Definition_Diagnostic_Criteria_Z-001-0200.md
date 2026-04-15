@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Metabolic syndrome represents a cluster of interrelated metabolic risk factors that increase the risk of cardiovascular disease, type 2 diabetes, and all-cause mortality.
 
+## Core Principle
+
+> Metabolic syndrome represents a cluster of interrelated metabolic risk factors that increase the risk of cardiovascular disease, type 2 diabetes, and all-cause mortality.
+
 ## Diagnostic Criteria
 
 Requires **3 or more** of the following:
@@ -26,6 +30,10 @@ Requires **3 or more** of the following:
 | **Reduced HDL cholesterol** | <40 mg/dL (men), <50 mg/dL (women) |
 | **Elevated blood pressure** | ≥130/85 mmHg or on antihypertensive therapy |
 | **Elevated fasting glucose** | ≥100 mg/dL or on glucose-lowering therapy |
+
+## Core Principle
+
+> Metabolic syndrome represents a cluster of interrelated metabolic risk factors that increase the risk of cardiovascular disease, type 2 diabetes, and all-cause mortality.
 
 ## Major Definitions
 
@@ -41,11 +49,19 @@ Requires **3 or more** of the following:
 -  resistance as required component
 - Includes microalbuminuria
 
+## Core Principle
+
+> Metabolic syndrome represents a cluster of interrelated metabolic risk factors that increase the risk of cardiovascular disease, type 2 diabetes, and all-cause mortality.
+
 ## Clinical Significance
 
 - **Prevalence:** Affects ~25% of global adult population
 - **Risk multiplier:** 2-3x CV risk, 5x diabetes risk
 - **Progressive condition:** Not static—worsens without intervention
+
+## Core Principle
+
+> Metabolic syndrome represents a cluster of interrelated metabolic risk factors that increase the risk of cardiovascular disease, type 2 diabetes, and all-cause mortality.
 
 ## Connection to METHAP
 
@@ -60,6 +76,10 @@ METHAP trial targets individuals with metabolic syndrome/. Understanding diagnos
 *Extracted: 2026-03-01*
 
 
+## Core Principle
+
+> Metabolic syndrome represents a cluster of interrelated metabolic risk factors that increase the risk of cardiovascular disease, type 2 diabetes, and all-cause mortality.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
@@ -67,6 +87,10 @@ METHAP trial targets individuals with metabolic syndrome/. Understanding diagnos
 - _Dosing_RDA_Therapeutic_Ranges_Z-001-0219]|Z-001-0219]
 
 ---
+
+## Core Principle
+
+> Metabolic syndrome represents a cluster of interrelated metabolic risk factors that increase the risk of cardiovascular disease, type 2 diabetes, and all-cause mortality.
 
 ## Connection to Vault
 

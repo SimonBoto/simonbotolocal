@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Both B12 deficiency and multiple myeloma cause anemia, elevated LDH, and bone marrow abnormalities, but the anemia morphology and  differ critically.
 
+## Core Principle
+
+> Both B12 deficiency and multiple myeloma cause anemia, elevated LDH, and bone marrow abnormalities, but the anemia morphology and  differ critically.
+
 ## B12 Deficiency Hematology
 
 **Peripheral Blood:**
@@ -28,6 +32,10 @@ extraction-date: 2026-03-01
 - Megaloblastic maturation
 - Cell death in marrow (ineffective)
 
+## Core Principle
+
+> Both B12 deficiency and multiple myeloma cause anemia, elevated LDH, and bone marrow abnormalities, but the anemia morphology and  differ critically.
+
 ## Multiple Myeloma Hematology
 
 **Peripheral Blood:**
@@ -40,6 +48,10 @@ extraction-date: 2026-03-01
 - Bone marrow infiltration
 - Cytokine suppression
 - Chronic disease pattern
+
+## Core Principle
+
+> Both B12 deficiency and multiple myeloma cause anemia, elevated LDH, and bone marrow abnormalities, but the anemia morphology and  differ critically.
 
 ## Key Differences
 
@@ -55,11 +67,19 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_B12_MM_Mimicry_L-001-0404]*
 
 
+## Core Principle
+
+> Both B12 deficiency and multiple myeloma cause anemia, elevated LDH, and bone marrow abnormalities, but the anemia morphology and  differ critically.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+> Both B12 deficiency and multiple myeloma cause anemia, elevated LDH, and bone marrow abnormalities, but the anemia morphology and  differ critically.
 
 ## Connection to Vault
 

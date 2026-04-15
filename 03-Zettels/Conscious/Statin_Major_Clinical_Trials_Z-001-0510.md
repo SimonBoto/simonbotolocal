@@ -29,6 +29,10 @@ extraction-date: 2026-03-01
 
 > Landmark trials established statin efficacy in secondary and primary prevention, demonstrating consistent cardiovascular event and mortality reductions.
 
+## Core Principle
+
+> Landmark trials established statin efficacy in secondary and primary prevention, demonstrating consistent cardiovascular event and mortality reductions.
+
 ## Secondary Prevention
 
 **4S (1994)**
@@ -50,6 +54,10 @@ extraction-date: 2026-03-01
 - **Result:** Events ↓ 22% with intensive therapy
 - **Significance:** "Lower is better"
 
+## Core Principle
+
+> Landmark trials established statin efficacy in secondary and primary prevention, demonstrating consistent cardiovascular event and mortality reductions.
+
 ## Primary Prevention
 
 **WOSCOPS (1995)**
@@ -61,6 +69,10 @@ extraction-date: 2026-03-01
 - 17,802 healthy, LDL <130, CRP ≥2, rosuvastatin 20 mg
 - **Result:** Events ↓ 44%, stroke ↓ 48%
 - **Significance:** -based indication
+
+## Core Principle
+
+> Landmark trials established statin efficacy in secondary and primary prevention, demonstrating consistent cardiovascular event and mortality reductions.
 
 ## Meta-Analysis
 
@@ -74,12 +86,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Statin_Pharmacology_L-001-0502]*
 
 
+## Core Principle
+
+> Landmark trials established statin efficacy in secondary and primary prevention, demonstrating consistent cardiovascular event and mortality reductions.
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Landmark trials established statin efficacy in secondary and primary prevention, demonstrating consistent cardiovascular event and mortality reductions.
 
 ## Connection to Vault
 

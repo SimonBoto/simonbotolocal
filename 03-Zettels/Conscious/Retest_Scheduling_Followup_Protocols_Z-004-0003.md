@@ -21,6 +21,10 @@ connections:
 
 ---
 
+## Core Principle
+
+**Timing matters.** Retest too early, you waste money and patient patience. Retest too late, you miss opportunities to course-correct. These evidence-based intervals optimize monitoring for metabolic interventions.
+
 ## 🎯 Retest Intervals by Marker
 
 ###  Resistance Panel (Primary Outcomes)
@@ -61,6 +65,10 @@ connections:
 | **Uric acid** | ✅ | 4-8 weeks | 6 months |
 
 ---
+
+## Core Principle
+
+**Timing matters.** Retest too early, you waste money and patient patience. Retest too late, you miss opportunities to course-correct. These evidence-based intervals optimize monitoring for metabolic interventions.
 
 ## 🔄 Follow-up Schedules by Clinical Status
 
@@ -114,6 +122,10 @@ connections:
 
 ---
 
+## Core Principle
+
+**Timing matters.** Retest too early, you waste money and patient patience. Retest too late, you miss opportunities to course-correct. These evidence-based intervals optimize monitoring for metabolic interventions.
+
 ## 📊 METHAP Trial Schedule
 
 | Visit | Timing | Core Assessments |
@@ -125,6 +137,10 @@ connections:
 | **V4** | 12 months | Full panel (sustained effect assessment) |
 
 ---
+
+## Core Principle
+
+**Timing matters.** Retest too early, you waste money and patient patience. Retest too late, you miss opportunities to course-correct. These evidence-based intervals optimize monitoring for metabolic interventions.
 
 ## 💡 Clinical Pearl
 
@@ -139,6 +155,10 @@ connections:
 *Source: Clinical practice synthesis | Created: 2026-02-26 | Domain: 004 | Status: Conscious*
 
 
+## Core Principle
+
+**Timing matters.** Retest too early, you waste money and patient patience. Retest too late, you miss opportunities to course-correct. These evidence-based intervals optimize monitoring for metabolic interventions.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[CRP_[B-002-0001]|Biomarker Family]
@@ -149,6 +169,10 @@ connections:
 - 
 
 ---
+
+## Core Principle
+
+**Timing matters.** Retest too early, you waste money and patient patience. Retest too late, you miss opportunities to course-correct. These evidence-based intervals optimize monitoring for metabolic interventions.
 
 ## Connection to Vault
 

@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > While dietary magnesium is essential for baseline nutrition, achieving therapeutic magnesium levels (400-500 mg/day) for metabolic syndrome management typically requires supplementation due to modern agricultural practices and dietary patterns.
 
+## Core Principle
+
+> While dietary magnesium is essential for baseline nutrition, achieving therapeutic magnesium levels (400-500 mg/day) for metabolic syndrome management typically requires supplementation due to modern agricultural practices and dietary patterns.
+
 ## Top Dietary Sources
 
 ### Seeds and Nuts (Highest Concentrations)
@@ -72,6 +76,10 @@ extraction-date: 2026-03-01
 | **Figs, dried** | ½ cup | 51 mg |
 | **Yogurt, plain** | 1 cup | 42 mg |
 
+## Core Principle
+
+> While dietary magnesium is essential for baseline nutrition, achieving therapeutic magnesium levels (400-500 mg/day) for metabolic syndrome management typically requires supplementation due to modern agricultural practices and dietary patterns.
+
 ## Dietary Patterns for Magnesium
 
 ### Mediterranean Diet
@@ -88,6 +96,10 @@ extraction-date: 2026-03-01
 - Generally higher in Mg
 - **Caveat:** Phytates in whole grains/legumes reduce absorption
 - Soaking, sprouting, fermenting reduces phytates
+
+## Core Principle
+
+> While dietary magnesium is essential for baseline nutrition, achieving therapeutic magnesium levels (400-500 mg/day) for metabolic syndrome management typically requires supplementation due to modern agricultural practices and dietary patterns.
 
 ## Modern Challenges
 
@@ -106,6 +118,10 @@ extraction-date: 2026-03-01
 - Reverse osmosis filtration removes minerals
 - Historically, hard water provided significant Mg intake
 
+## Core Principle
+
+> While dietary magnesium is essential for baseline nutrition, achieving therapeutic magnesium levels (400-500 mg/day) for metabolic syndrome management typically requires supplementation due to modern agricultural practices and dietary patterns.
+
 ## Practical Dietary Strategies
 
 ### To Maximize Dietary Mg:
@@ -122,6 +138,10 @@ extraction-date: 2026-03-01
 - **Snack:** Almonds, dark chocolate
 - **Dinner:** Salmon with Swiss chard, brown rice
 - **Total:** ~400-450 mg Mg from food
+
+## Core Principle
+
+> While dietary magnesium is essential for baseline nutrition, achieving therapeutic magnesium levels (400-500 mg/day) for metabolic syndrome management typically requires supplementation due to modern agricultural practices and dietary patterns.
 
 ## Reality Check
 
@@ -140,6 +160,10 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Magnesium_Supplementation_L-001-0201d]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> While dietary magnesium is essential for baseline nutrition, achieving therapeutic magnesium levels (400-500 mg/day) for metabolic syndrome management typically requires supplementation due to modern agricultural practices and dietary patterns.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
@@ -147,6 +171,10 @@ extraction-date: 2026-03-01
 - _Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> While dietary magnesium is essential for baseline nutrition, achieving therapeutic magnesium levels (400-500 mg/day) for metabolic syndrome management typically requires supplementation due to modern agricultural practices and dietary patterns.
 
 ## Connection to Vault
 

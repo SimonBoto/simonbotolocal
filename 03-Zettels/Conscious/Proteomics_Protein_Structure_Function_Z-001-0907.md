@@ -18,12 +18,20 @@ extraction-date: 2026-04-15
 
 Proteomics analyzes the structure, function, and interactions of the proteome — the complete set of proteins in an organism. Proteins are the **functional executors** of genetic information, including the enzymes that catalyze metabolic reactions.
 
+## Core Principle
+
+Proteomics analyzes the structure, function, and interactions of the proteome — the complete set of proteins in an organism. Proteins are the **functional executors** of genetic information, including the enzymes that catalyze metabolic reactions.
+
 ## Protein Categories
 
 | Category | Function | Examples |
 |----------|----------|----------|
 | **Structural proteins** | Cellular architecture | Collagen, cytoskeleton components |
 | **Functional proteins** | Catalytic and regulatory activities | Enzymes, signaling molecules |
+
+## Core Principle
+
+Proteomics analyzes the structure, function, and interactions of the proteome — the complete set of proteins in an organism. Proteins are the **functional executors** of genetic information, including the enzymes that catalyze metabolic reactions.
 
 ## Enzymes as Central Functional Class
 
@@ -36,6 +44,10 @@ Proteomics analyzes the structure, function, and interactions of the proteome �
 Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metabolite Production
 ```
 
+## Core Principle
+
+Proteomics analyzes the structure, function, and interactions of the proteome — the complete set of proteins in an organism. Proteins are the **functional executors** of genetic information, including the enzymes that catalyze metabolic reactions.
+
 ## Proteomics Technologies
 
 | Technology | Purpose | Application |
@@ -44,6 +56,10 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 | **Electrophoresis** | Protein separation | Molecular weight/pI analysis |
 | **LC-MS** (Liquid Chromatography-Mass Spectrometry) | Separation + quantification | Comprehensive proteome profiling |
 | **NMR** (Nuclear Magnetic Resonance) | Interaction mapping | Protein-protein/ligand interactions |
+
+## Core Principle
+
+Proteomics analyzes the structure, function, and interactions of the proteome — the complete set of proteins in an organism. Proteins are the **functional executors** of genetic information, including the enzymes that catalyze metabolic reactions.
 
 ## Drug Development Applications
 
@@ -57,11 +73,19 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 - Toxicity mechanism understanding
 - Personalized dosing based on protein variants
 
+## Core Principle
+
+Proteomics analyzes the structure, function, and interactions of the proteome — the complete set of proteins in an organism. Proteins are the **functional executors** of genetic information, including the enzymes that catalyze metabolic reactions.
+
 ## Clinical Applications
 
 - **Metabolic disease diagnosis** — Enzyme deficiency detection
 - **Multifactorial disease understanding** — Complex disease mechanisms
 - **Therapeutic monitoring** — Protein biomarker tracking
+
+## Core Principle
+
+Proteomics analyzes the structure, function, and interactions of the proteome — the complete set of proteins in an organism. Proteins are the **functional executors** of genetic information, including the enzymes that catalyze metabolic reactions.
 
 ## Proteomics →  Connection
 
@@ -71,6 +95,10 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 | **Metabolomics** | **Actual metabolic output** | **Direct functional readout** |
 
 **Key insight:** While proteomics identifies the machinery (enzymes), metabolomics shows what the machinery actually produces under current conditions.
+
+## Core Principle
+
+Proteomics analyzes the structure, function, and interactions of the proteome — the complete set of proteins in an organism. Proteins are the **functional executors** of genetic information, including the enzymes that catalyze metabolic reactions.
 
 ## METHAP Relevance
 
@@ -82,11 +110,19 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 
 **But for METHAP:** Metabolomics provides the **functional endpoint** — are metabolic pathways actually working better after VD intervention?
 
+## Core Principle
+
+Proteomics analyzes the structure, function, and interactions of the proteome — the complete set of proteins in an organism. Proteins are the **functional executors** of genetic information, including the enzymes that catalyze metabolic reactions.
+
 ## Links
 
 - **Upstream/Prerequisite:** [[Transcriptomics_Transcriptome_Bridge_Z-001-0906]] — Produces proteins
 - **Parallel/Related:** [[Genomics_Structure_Function_Genome_Z-001-0904]] — Genes code for proteins
 - **Downstream/Consequence:** [[Omics_Cascade_Genotype_Phenotype_Z-001-0002.md] — Metabolome is next
+
+## Core Principle
+
+Proteomics analyzes the structure, function, and interactions of the proteome — the complete set of proteins in an organism. Proteins are the **functional executors** of genetic information, including the enzymes that catalyze metabolic reactions.
 
 ## Context
 
@@ -98,6 +134,10 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 
 *UID: Z-001-0907 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
 
+## Core Principle
+
+Proteomics analyzes the structure, function, and interactions of the proteome — the complete set of proteins in an organism. Proteins are the **functional executors** of genetic information, including the enzymes that catalyze metabolic reactions.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
@@ -107,6 +147,10 @@ Gene → mRNA → Protein (Enzyme) → Catalyzes Metabolic Reaction → Metaboli
 
 
 ---
+
+## Core Principle
+
+Proteomics analyzes the structure, function, and interactions of the proteome — the complete set of proteins in an organism. Proteins are the **functional executors** of genetic information, including the enzymes that catalyze metabolic reactions.
 
 ## Connection to Vault
 

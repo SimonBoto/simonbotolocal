@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Vitamin B12 absorption is a complex, multi-step process requiring gastric acid, intrinsic factor, and specific ileal receptors, making it vulnerable to disruption at multiple points.
 
+## Core Principle
+
+> Vitamin B12 absorption is a complex, multi-step process requiring gastric acid, intrinsic factor, and specific ileal receptors, making it vulnerable to disruption at multiple points.
+
 ## Absorption Steps
 
 ### Step 1: Gastric Phase
@@ -52,6 +56,10 @@ extraction-date: 2026-03-01
 - Surgical resection
 - Tropical sprue
 
+## Core Principle
+
+> Vitamin B12 absorption is a complex, multi-step process requiring gastric acid, intrinsic factor, and specific ileal receptors, making it vulnerable to disruption at multiple points.
+
 ## Transport Proteins
 
 ### Transcobalamin II (TC II)
@@ -71,6 +79,10 @@ extraction-date: 2026-03-01
 - **Function:** Minor role
 - **Source:** Leukocytes (inflammatory states)
 
+## Core Principle
+
+> Vitamin B12 absorption is a complex, multi-step process requiring gastric acid, intrinsic factor, and specific ileal receptors, making it vulnerable to disruption at multiple points.
+
 ## Storage and Turnover
 
 ### Hepatic Storage
@@ -83,6 +95,10 @@ extraction-date: 2026-03-01
 - B12 excreted in bile (5-10 mcg/day)
 - Reabsorbed via IF mechanism
 - Conserves B12
+
+## Core Principle
+
+> Vitamin B12 absorption is a complex, multi-step process requiring gastric acid, intrinsic factor, and specific ileal receptors, making it vulnerable to disruption at multiple points.
 
 ##  Correlates
 
@@ -98,12 +114,20 @@ extraction-date: 2026-03-01
 *Source: _B12_L-001-0401]*
 
 
+## Core Principle
+
+> Vitamin B12 absorption is a complex, multi-step process requiring gastric acid, intrinsic factor, and specific ileal receptors, making it vulnerable to disruption at multiple points.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Vitamin B12 absorption is a complex, multi-step process requiring gastric acid, intrinsic factor, and specific ileal receptors, making it vulnerable to disruption at multiple points.
 
 ## Connection to Vault
 

@@ -19,6 +19,10 @@ Subjects must be selected based on scientific objectives, not vulnerability or c
 
 **Core principle:** Selection criteria must be scientifically justified. Vulnerable groups require additional protections and should not be targeted merely because they are easily accessible.
 
+## Core Principle
+
+Subjects must be selected based on scientific objectives, not vulnerability or convenience. Fair selection ensures equitable distribution of research burdens and benefits across populations.
+
 ## Fair Selection Framework
 
 | Principle | Application |
@@ -27,6 +31,10 @@ Subjects must be selected based on scientific objectives, not vulnerability or c
 | **Non-exploitation** | Vulnerable groups not targeted for convenience |
 | **Equity** | Burdens and benefits distributed fairly |
 | **Representativeness** | Study population reflects target population |
+
+## Core Principle
+
+Subjects must be selected based on scientific objectives, not vulnerability or convenience. Fair selection ensures equitable distribution of research burdens and benefits across populations.
 
 ## Vulnerable Populations
 
@@ -40,6 +48,10 @@ Groups requiring enhanced protections:
 
 **Additional safeguards:** Enhanced consent procedures, independent advocacy, data safety monitoring.
 
+## Core Principle
+
+Subjects must be selected based on scientific objectives, not vulnerability or convenience. Fair selection ensures equitable distribution of research burdens and benefits across populations.
+
 ## Application to METHAP
 
 METHAP inclusion/exclusion criteria must be justified:
@@ -47,6 +59,10 @@ METHAP inclusion/exclusion criteria must be justified:
 - **Exclusion:** Pregnancy, severe renal disease ( concerns)
 - **Rationale:** Adipic acid  differs in excluded conditions
 - **Protection:** Clear withdrawal criteria, independent ethics oversight
+
+## Core Principle
+
+Subjects must be selected based on scientific objectives, not vulnerability or convenience. Fair selection ensures equitable distribution of research burdens and benefits across populations.
 
 ## Links
 
@@ -59,12 +75,20 @@ METHAP inclusion/exclusion criteria must be justified:
 *UID: Z-002-0603 | Domain: 002 | Created: 2026-03-27*
 
 
+## Core Principle
+
+Subjects must be selected based on scientific objectives, not vulnerability or convenience. Fair selection ensures equitable distribution of research burdens and benefits across populations.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+Subjects must be selected based on scientific objectives, not vulnerability or convenience. Fair selection ensures equitable distribution of research burdens and benefits across populations.
 
 ## Connection to Vault
 

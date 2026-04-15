@@ -18,6 +18,10 @@ status: conscious
 
 METHAP (Metabolic Health and Adipic Acid Protocol) addresses critical gaps in the D-K2 co-supplementation literature by studying metabolic syndrome populations with systematic monitoring, high-dose protocols, and comprehensive nutrient synergy including magnesium as a third cofactor.
 
+## Core Principle
+
+METHAP (Metabolic Health and Adipic Acid Protocol) addresses critical gaps in the D-K2 co-supplementation literature by studying metabolic syndrome populations with systematic monitoring, high-dose protocols, and comprehensive nutrient synergy including magnesium as a third cofactor.
+
 ## Evidence Gaps METHAP Addresses
 
 **Current Literature Limitations:**
@@ -29,6 +33,10 @@ METHAP (Metabolic Health and Adipic Acid Protocol) addresses critical gaps in th
 | **K2 form** | Mixed (MK-4/MK-7) | MK-7 (100–200 mcg) |
 | **Co-nutrients** | D+K2 only | D+K2+Mg (400–500 mg) |
 | **Endpoints** | Limited metabolic | Comprehensive metabolic panel |
+
+## Core Principle
+
+METHAP (Metabolic Health and Adipic Acid Protocol) addresses critical gaps in the D-K2 co-supplementation literature by studying metabolic syndrome populations with systematic monitoring, high-dose protocols, and comprehensive nutrient synergy including magnesium as a third cofactor.
 
 ## METHAP Design Strengths
 
@@ -49,6 +57,10 @@ METHAP (Metabolic Health and Adipic Acid Protocol) addresses critical gaps in th
 - Multiple metabolic endpoints
 - Insulin sensitivity primary outcome
 
+## Core Principle
+
+METHAP (Metabolic Health and Adipic Acid Protocol) addresses critical gaps in the D-K2 co-supplementation literature by studying metabolic syndrome populations with systematic monitoring, high-dose protocols, and comprehensive nutrient synergy including magnesium as a third cofactor.
+
 ## Expected Contributions
 
 **To Science:**
@@ -66,13 +78,25 @@ METHAP (Metabolic Health and Adipic Acid Protocol) addresses critical gaps in th
 - Foundation for future trials
 - Methodological precedent
 
+## Core Principle
+
+METHAP (Metabolic Health and Adipic Acid Protocol) addresses critical gaps in the D-K2 co-supplementation literature by studying metabolic syndrome populations with systematic monitoring, high-dose protocols, and comprehensive nutrient synergy including magnesium as a third cofactor.
+
 ## Evidence
 > "METHAP trial addresses multiple gaps: MetS population, systematic monitoring, high-dose protocol — positioning it as a potentially landmark study in establishing therapeutic potential of nutrient synergy for metabolic disease."
+
+## Core Principle
+
+METHAP (Metabolic Health and Adipic Acid Protocol) addresses critical gaps in the D-K2 co-supplementation literature by studying metabolic syndrome populations with systematic monitoring, high-dose protocols, and comprehensive nutrient synergy including magnesium as a third cofactor.
 
 ## Context
 METHAP represents the translation of mechanistic understanding (D-K2-Mg synergy) into clinical evidence. While observational data and smaller trials suggest benefit, METHAP's systematic approach in a high-risk population could establish a new standard for metabolic syndrome nutritional intervention. The inclusion of magnesium as a third synergistic nutrient is particularly innovative, addressing the mineral cofactor requirements for both D and K2 function.
 
 ---
+
+## Core Principle
+
+METHAP (Metabolic Health and Adipic Acid Protocol) addresses critical gaps in the D-K2 co-supplementation literature by studying metabolic syndrome populations with systematic monitoring, high-dose protocols, and comprehensive nutrient synergy including magnesium as a third cofactor.
 
 ## Links — Two Types
 

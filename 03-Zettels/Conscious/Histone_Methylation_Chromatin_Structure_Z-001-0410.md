@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Histone methylation at specific lysine and arginine residues alters chromatin structure and gene accessibility, with distinct marks associated with transcriptional activation or repression.
 
+## Core Principle
+
+> Histone methylation at specific lysine and arginine residues alters chromatin structure and gene accessibility, with distinct marks associated with transcriptional activation or repression.
+
 ## Histone Structure
 
 **Core Histones:**
@@ -26,6 +30,10 @@ extraction-date: 2026-03-01
 - Extend from nucleosome
 - Rich in modification sites
 - Lysine and arginine residues
+
+## Core Principle
+
+> Histone methylation at specific lysine and arginine residues alters chromatin structure and gene accessibility, with distinct marks associated with transcriptional activation or repression.
 
 ## Key Methylation Marks
 
@@ -45,6 +53,10 @@ extraction-date: 2026-03-01
 | **H3K9me3** | Trimethylated H3K9 | Heterochromatin, silencing |
 | **H4K20me3** | Trimethylated H4K20 | DNA repair, replication |
 
+## Core Principle
+
+> Histone methylation at specific lysine and arginine residues alters chromatin structure and gene accessibility, with distinct marks associated with transcriptional activation or repression.
+
 ## Enzymes
 
 **Histone Methyltransferases (HMTs):**
@@ -57,6 +69,10 @@ extraction-date: 2026-03-01
 - Allows dynamic regulation
 - Responds to cellular signals
 
+## Core Principle
+
+> Histone methylation at specific lysine and arginine residues alters chromatin structure and gene accessibility, with distinct marks associated with transcriptional activation or repression.
+
 ## Functional Consequences
 
 **Gene Expression:**
@@ -67,6 +83,10 @@ extraction-date: 2026-03-01
 - Marks maintained through cell division
 - Defines cell identity
 - Explains differentiation stability
+
+## Core Principle
+
+> Histone methylation at specific lysine and arginine residues alters chromatin structure and gene accessibility, with distinct marks associated with transcriptional activation or repression.
 
 ## Nutrient Connection
 
@@ -86,12 +106,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Methylation_Cycle_L-001-0402]*
 
 
+## Core Principle
+
+> Histone methylation at specific lysine and arginine residues alters chromatin structure and gene accessibility, with distinct marks associated with transcriptional activation or repression.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Histone methylation at specific lysine and arginine residues alters chromatin structure and gene accessibility, with distinct marks associated with transcriptional activation or repression.
 
 ## Connection to Vault
 

@@ -27,6 +27,10 @@ extraction-date: 2026-03-01
 
 > Statin decisions integrate absolute cardiovascular risk, baseline LDL, comorbidities, and patient preferences, with intensity matched to risk level.
 
+## Core Principle
+
+> Statin decisions integrate absolute cardiovascular risk, baseline LDL, comorbidities, and patient preferences, with intensity matched to risk level.
+
 ## Indications
 
 **Secondary Prevention (ASCVD):**
@@ -47,6 +51,10 @@ extraction-date: 2026-03-01
 - 7.5-20%: Moderate-intensity
 - 5-7.5%: If risk enhancers present
 
+## Core Principle
+
+> Statin decisions integrate absolute cardiovascular risk, baseline LDL, comorbidities, and patient preferences, with intensity matched to risk level.
+
 ## Risk Enhancers
 
 - Family history premature ASCVD
@@ -56,10 +64,18 @@ extraction-date: 2026-03-01
 - Inflammatory disease
 - Elevated Lp(a), ApoB
 
+## Core Principle
+
+> Statin decisions integrate absolute cardiovascular risk, baseline LDL, comorbidities, and patient preferences, with intensity matched to risk level.
+
 ## Intensity
 
 **High:** Atorvastatin 40-80 mg, rosuvastatin 20-40 mg
 **Moderate:** Atorvastatin 10-20 mg, rosuvastatin 5-10 mg, simvastatin 20-40 mg
+
+## Core Principle
+
+> Statin decisions integrate absolute cardiovascular risk, baseline LDL, comorbidities, and patient preferences, with intensity matched to risk level.
 
 ## Monitoring
 
@@ -72,9 +88,17 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Statin_Pharmacology_L-001-0502]*
 
 
+## Core Principle
+
+> Statin decisions integrate absolute cardiovascular risk, baseline LDL, comorbidities, and patient preferences, with intensity matched to risk level.
+
 ## Related
 - [[Statin_Major_Clinical_Trials_Z-001-0510]|Z-001-0510]
 
+
+## Core Principle
+
+> Statin decisions integrate absolute cardiovascular risk, baseline LDL, comorbidities, and patient preferences, with intensity matched to risk level.
 
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -84,6 +108,10 @@ extraction-date: 2026-03-01
 - _HMG_CoA_Reductase_Z-001-0509]|Z-001-0509]
 
 ---
+
+## Core Principle
+
+> Statin decisions integrate absolute cardiovascular risk, baseline LDL, comorbidities, and patient preferences, with intensity matched to risk level.
 
 ## Connection to Vault
 

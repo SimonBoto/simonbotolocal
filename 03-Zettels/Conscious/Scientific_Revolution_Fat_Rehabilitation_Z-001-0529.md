@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Starting in the 2000s, accumulating evidence challenged the diet-heart hypothesis, rehabilitating dietary fat and shifting focus to carbohydrate quality.
 
+## Core Principle
+
+> Starting in the 2000s, accumulating evidence challenged the diet-heart hypothesis, rehabilitating dietary fat and shifting focus to carbohydrate quality.
+
 ## Key Evidence
 
 **WHI (2006):**
@@ -25,6 +29,10 @@ extraction-date: 2026-03-01
 - Siri-Tarino (2010): No SFA-CHD association
 - Chowdhury (2014): No total SFA-CVD link
 - Skeaff & Miller: No fat reduction benefit
+
+## Core Principle
+
+> Starting in the 2000s, accumulating evidence challenged the diet-heart hypothesis, rehabilitating dietary fat and shifting focus to carbohydrate quality.
 
 ## Saturated Fat Rehabilitation
 
@@ -40,6 +48,10 @@ extraction-date: 2026-03-01
 - Processed vs. unprocessed differs
 - Whole pattern matters
 
+## Core Principle
+
+> Starting in the 2000s, accumulating evidence challenged the diet-heart hypothesis, rehabilitating dietary fat and shifting focus to carbohydrate quality.
+
 ## Carbohydrate Shift
 
 **Glycemic Index:**
@@ -54,6 +66,10 @@ extraction-date: 2026-03-01
 - Ketogenic for metabolic disease
 - Carb restriction effective
 
+## Core Principle
+
+> Starting in the 2000s, accumulating evidence challenged the diet-heart hypothesis, rehabilitating dietary fat and shifting focus to carbohydrate quality.
+
 ## PREDIMED (2013)
 
 **Result:** Mediterranean + olive oil/nuts
@@ -65,12 +81,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Ancel_Keys_Diet_Heart_L-001-0505]*
 
 
+## Core Principle
+
+> Starting in the 2000s, accumulating evidence challenged the diet-heart hypothesis, rehabilitating dietary fat and shifting focus to carbohydrate quality.
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> Starting in the 2000s, accumulating evidence challenged the diet-heart hypothesis, rehabilitating dietary fat and shifting focus to carbohydrate quality.
 
 ## Connection to Vault
 

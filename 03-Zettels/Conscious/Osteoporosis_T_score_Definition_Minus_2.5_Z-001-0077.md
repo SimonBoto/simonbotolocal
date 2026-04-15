@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 Osteoporosis is diagnosed when the T-score is ≤ −2.5 on DXA. It is a skeletal disorder of compromised bone strength, predisposing to increased fracture risk. Microarchitectural deterioration accompanies bone mass loss.
 
+## Core Principle
+
+Osteoporosis is diagnosed when the T-score is ≤ −2.5 on DXA. It is a skeletal disorder of compromised bone strength, predisposing to increased fracture risk. Microarchitectural deterioration accompanies bone mass loss.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,10 +34,18 @@ Osteoporosis is diagnosed when the T-score is ≤ −2.5 on DXA. It is a skeleta
 *UID: Z-001-0077 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Osteoporosis is diagnosed when the T-score is ≤ −2.5 on DXA. It is a skeletal disorder of compromised bone strength, predisposing to increased fracture risk. Microarchitectural deterioration accompanies bone mass loss.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Osteoporosis is diagnosed when the T-score is ≤ −2.5 on DXA. It is a skeletal disorder of compromised bone strength, predisposing to increased fracture risk. Microarchitectural deterioration accompanies bone mass loss.
 
 ## Connection to Vault
 

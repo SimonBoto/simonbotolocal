@@ -37,10 +37,18 @@ Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR),
 
 **Also:** ER stress induces inflammation via NF-κB → cytokine production
 
+## Core Principle
+
+Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR), which induces  through JNK activation.
+
 ## Links
 
 - **Mechanism:** [[IRS_Serine_Phosphorylation_Causes_IR_Z-001-0008]] — JNK → IRS serine-P
 - **Parallel:** [[Lipotoxicity_Ceramide_Induced_IR_Z-001-0013]] — Nutrient excess mechanism
+
+## Core Principle
+
+Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR), which induces  through JNK activation.
 
 ## Context
 
@@ -49,6 +57,10 @@ Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR),
 **Link to obesity:** Adipose and liver ER stress correlates with IR in obesity
 
 
+## Core Principle
+
+Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR), which induces  through JNK activation.
+
 ## RELATED FILES
 - [[CRP_[B-002-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -56,6 +68,10 @@ Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR),
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Endoplasmic reticulum (ER) stress activates the unfolded protein response (UPR), which induces  through JNK activation.
 
 ## Connection to Vault
 

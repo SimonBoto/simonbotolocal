@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 Bone remodeling is a 5-phase cycle: (1) Activation — osteoclast precursors recruited, (2) Resorption — osteoclasts dissolve bone, (3) Reversal — mononuclear cells prepare surface, (4) Formation — osteoblasts deposit osteoid, (5) Resting — quiescent phase. Duration: 3-6 months.
 
+## Core Principle
+
+Bone remodeling is a 5-phase cycle: (1) Activation — osteoclast precursors recruited, (2) Resorption — osteoclasts dissolve bone, (3) Reversal — mononuclear cells prepare surface, (4) Formation — osteoblasts deposit osteoid, (5) Resting — quiescent phase. Duration: 3-6 months.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,10 +34,18 @@ Bone remodeling is a 5-phase cycle: (1) Activation — osteoclast precursors rec
 *UID: Z-001-0083 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Bone remodeling is a 5-phase cycle: (1) Activation — osteoclast precursors recruited, (2) Resorption — osteoclasts dissolve bone, (3) Reversal — mononuclear cells prepare surface, (4) Formation — osteoblasts deposit osteoid, (5) Resting — quiescent phase. Duration: 3-6 months.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Bone remodeling is a 5-phase cycle: (1) Activation — osteoclast precursors recruited, (2) Resorption — osteoclasts dissolve bone, (3) Reversal — mononuclear cells prepare surface, (4) Formation — osteoblasts deposit osteoid, (5) Resting — quiescent phase. Duration: 3-6 months.
 
 ## Connection to Vault
 

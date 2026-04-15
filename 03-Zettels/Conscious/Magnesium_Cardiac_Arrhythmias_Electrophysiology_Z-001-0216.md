@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Magnesium is critical for cardiac electrophysiology, serving as a first-line therapy for life-threatening ventricular arrhythmias and stabilizing myocardial electrical activity through multiple ion channel effects.
 
+## Core Principle
+
+> Magnesium is critical for cardiac electrophysiology, serving as a first-line therapy for life-threatening ventricular arrhythmias and stabilizing myocardial electrical activity through multiple ion channel effects.
+
 ## Electrophysiological s
 
 ### Ion Channel Effects
@@ -43,6 +47,10 @@ extraction-date: 2026-03-01
 - Multiple ion channel effects
 - No significant negative inotropy at therapeutic doses
 - Safe in heart failure (unlike some anti-arrhythmics)
+
+## Core Principle
+
+> Magnesium is critical for cardiac electrophysiology, serving as a first-line therapy for life-threatening ventricular arrhythmias and stabilizing myocardial electrical activity through multiple ion channel effects.
 
 ## Clinical Applications
 
@@ -92,6 +100,10 @@ extraction-date: 2026-03-01
 - Limited role in maintenance of sinus rhythm
 - Some studies show reduced recurrence post-cardioversion
 
+## Core Principle
+
+> Magnesium is critical for cardiac electrophysiology, serving as a first-line therapy for life-threatening ventricular arrhythmias and stabilizing myocardial electrical activity through multiple ion channel effects.
+
 ## Electrocardiographic Effects
 
 **QT Interval:**
@@ -106,6 +118,10 @@ extraction-date: 2026-03-01
 
 **ST Segment:**
 - May normalize ST changes in ischemia (controversial)
+
+## Core Principle
+
+> Magnesium is critical for cardiac electrophysiology, serving as a first-line therapy for life-threatening ventricular arrhythmias and stabilizing myocardial electrical activity through multiple ion channel effects.
 
 ## Clinical Considerations
 
@@ -123,6 +139,10 @@ extraction-date: 2026-03-01
 - **Potentiates:** Calcium channel blockers (caution with combination)
 - **Antagonizes:** Digoxin (therapeutic benefit)
 - **No significant interaction:** With most antiarrhythmics
+
+## Core Principle
+
+> Magnesium is critical for cardiac electrophysiology, serving as a first-line therapy for life-threatening ventricular arrhythmias and stabilizing myocardial electrical activity through multiple ion channel effects.
 
 ## METHAP Context
 
@@ -142,12 +162,20 @@ extraction-date: 2026-03-01
 *Extracted: 2026-03-01*
 
 
+## Core Principle
+
+> Magnesium is critical for cardiac electrophysiology, serving as a first-line therapy for life-threatening ventricular arrhythmias and stabilizing myocardial electrical activity through multiple ion channel effects.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - [[Methionine_Essential_Sulfur_Amino_Acid_Z-001-0432]|Z-001-0432]
 - [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> Magnesium is critical for cardiac electrophysiology, serving as a first-line therapy for life-threatening ventricular arrhythmias and stabilizing myocardial electrical activity through multiple ion channel effects.
 
 ## Connection to Vault
 

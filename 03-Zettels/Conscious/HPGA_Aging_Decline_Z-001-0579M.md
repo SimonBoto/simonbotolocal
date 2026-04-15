@@ -24,12 +24,20 @@ status: conscious
 
 The hypothalamic-pituitary-gonadal axis undergoes characteristic age-related changes in both sexes, with distinct patterns of decline that impact clinical management.
 
+## Core Principle
+
+The hypothalamic-pituitary-gonadal axis undergoes characteristic age-related changes in both sexes, with distinct patterns of decline that impact clinical management.
+
 ## Male Patterns (Andropause)
 
 - **Testosterone decline**: ~1% per year after age 30
 - **SHBG increase**: Age-related rise in sex hormone-binding globulin
 - **Free testosterone decline**: More significant than total testosterone decline
 - **Gonadotropin changes**: Gradual LH/FSH increase as feedback sensitivity declines
+
+## Core Principle
+
+The hypothalamic-pituitary-gonadal axis undergoes characteristic age-related changes in both sexes, with distinct patterns of decline that impact clinical management.
 
 ## Female Patterns (Menopause)
 
@@ -38,12 +46,20 @@ The hypothalamic-pituitary-gonadal axis undergoes characteristic age-related cha
 - **Follicular phase shortening**: Early sign of ovarian aging
 - **FSH rise**: Primary marker of ovarian aging and reserve depletion
 
+## Core Principle
+
+The hypothalamic-pituitary-gonadal axis undergoes characteristic age-related changes in both sexes, with distinct patterns of decline that impact clinical management.
+
 ## Clinical Implications
 
 - **Diagnosis**: Differentiate age-related decline from pathological causes
 - **HRT considerations**: Timing, formulations, and risk-benefit analysis
 - **Bone health**: HPGA decline is major contributor to osteoporosis
 - **Cardiovascular health**: Hormonal changes impact vascular function
+
+## Core Principle
+
+The hypothalamic-pituitary-gonadal axis undergoes characteristic age-related changes in both sexes, with distinct patterns of decline that impact clinical management.
 
 ## Key Research Findings
 

@@ -29,6 +29,10 @@ Gordon et al. (2008) treated vitamin D-deficient adolescents with 2,000 IU daily
 
 **Citation:** Gordon CM, Williams AL, Feldman HA, et al. J Clin Endocrinol Metab. 2008;93(7):2716-2721.
 
+## Core Principle
+
+Gordon et al. (2008) treated vitamin D-deficient adolescents with 2,000 IU daily or 50,000 IU weekly. Demonstrated safety and efficacy of high-dose approaches in adolescent population for correcting deficiency.
+
 ## Links
 
 **Parent MOC:** -Protocols]
@@ -40,12 +44,20 @@ Gordon et al. (2008) treated vitamin D-deficient adolescents with 2,000 IU daily
 *UID: Z-001-0070 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Gordon et al. (2008) treated vitamin D-deficient adolescents with 2,000 IU daily or 50,000 IU weekly. Demonstrated safety and efficacy of high-dose approaches in adolescent population for correcting deficiency.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 - [[Vitamin_D_High_Dose_Monitoring_Protocol_Z-001-0091]|Z-001-0091]
 
 ---
+
+## Core Principle
+
+Gordon et al. (2008) treated vitamin D-deficient adolescents with 2,000 IU daily or 50,000 IU weekly. Demonstrated safety and efficacy of high-dose approaches in adolescent population for correcting deficiency.
 
 ## Connection to Vault
 

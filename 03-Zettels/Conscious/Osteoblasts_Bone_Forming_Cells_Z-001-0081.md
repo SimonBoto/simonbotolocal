@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 Osteoblasts are derived from mesenchymal stem cells. They synthesize new bone matrix (osteoid) and initiate mineralization. They secrete osteoprotegerin (OPG), which regulates osteoclast formation by binding RANKL.
 
+## Core Principle
+
+Osteoblasts are derived from mesenchymal stem cells. They synthesize new bone matrix (osteoid) and initiate mineralization. They secrete osteoprotegerin (OPG), which regulates osteoclast formation by binding RANKL.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,10 +34,18 @@ Osteoblasts are derived from mesenchymal stem cells. They synthesize new bone ma
 *UID: Z-001-0081 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Osteoblasts are derived from mesenchymal stem cells. They synthesize new bone matrix (osteoid) and initiate mineralization. They secrete osteoprotegerin (OPG), which regulates osteoclast formation by binding RANKL.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Osteoblasts are derived from mesenchymal stem cells. They synthesize new bone matrix (osteoid) and initiate mineralization. They secrete osteoprotegerin (OPG), which regulates osteoclast formation by binding RANKL.
 
 ## Connection to Vault
 

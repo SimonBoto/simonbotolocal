@@ -19,6 +19,10 @@ extraction-date: 2026-04-15
 
 Patients on vitamin K antagonists (warfarin) require close supervision when taking K2 supplements. Vitamin K can antagonize warfarin's effect. Coordinate with prescribing physician and monitor INR closely.
 
+## Core Principle
+
+Patients on vitamin K antagonists (warfarin) require close supervision when taking K2 supplements. Vitamin K can antagonize warfarin's effect. Coordinate with prescribing physician and monitor INR closely.
+
 ## Links
 
 **Parent MOC:** 
@@ -30,11 +34,19 @@ Patients on vitamin K antagonists (warfarin) require close supervision when taki
 *UID: Z-001-0095 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Patients on vitamin K antagonists (warfarin) require close supervision when taking K2 supplements. Vitamin K can antagonize warfarin's effect. Coordinate with prescribing physician and monitor INR closely.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+Patients on vitamin K antagonists (warfarin) require close supervision when taking K2 supplements. Vitamin K can antagonize warfarin's effect. Coordinate with prescribing physician and monitor INR closely.
 
 ## Connection to Vault
 

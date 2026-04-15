@@ -17,6 +17,10 @@ updated: 2026-03-05
 
 **Core Mechanism:** mTORC1 is downstream of Akt in insulin signaling and facilitates GLUT4 vesicle translocation. Sirolimus disrupts this pathway, reducing glucose uptake.
 
+## Core Principle
+
+**Core Mechanism:** mTORC1 is downstream of Akt in insulin signaling and facilitates GLUT4 vesicle translocation. Sirolimus disrupts this pathway, reducing glucose uptake.
+
 ## Normal Insulin-GLUT4 Pathway
 
 **Signal Cascade:**
@@ -52,6 +56,10 @@ Insulin → Insulin Receptor (autophosphorylation)
 5. GLUT4 vesicles fuse with plasma membrane
 6. Glucose enters cell
 
+## Core Principle
+
+**Core Mechanism:** mTORC1 is downstream of Akt in insulin signaling and facilitates GLUT4 vesicle translocation. Sirolimus disrupts this pathway, reducing glucose uptake.
+
 ## Sirolimus Disruption
 
 **Direct mTORC1 Inhibition:**
@@ -64,6 +72,10 @@ Insulin → Insulin Receptor (autophosphorylation)
 - Reduced Rab protein activation
 - Defective vesicle trafficking
 - Decreased GLUT4 on cell surface
+
+## Core Principle
+
+**Core Mechanism:** mTORC1 is downstream of Akt in insulin signaling and facilitates GLUT4 vesicle translocation. Sirolimus disrupts this pathway, reducing glucose uptake.
 
 ## Tissue-Specific Effects
 
@@ -101,6 +113,10 @@ Insulin → Insulin Receptor (autophosphorylation)
 - Reduced metabolic flexibility
 - Potential cardiomyopathy
 
+## Core Principle
+
+**Core Mechanism:** mTORC1 is downstream of Akt in insulin signaling and facilitates GLUT4 vesicle translocation. Sirolimus disrupts this pathway, reducing glucose uptake.
+
 ## Quantitative Impact
 
 **Glucose Uptake Reduction:**
@@ -111,6 +127,10 @@ Insulin → Insulin Receptor (autophosphorylation)
 **HOMA-IR Increase:**
 - 20-50% increase in insulin resistance index
 - Indicates reduced insulin sensitivity
+
+## Core Principle
+
+**Core Mechanism:** mTORC1 is downstream of Akt in insulin signaling and facilitates GLUT4 vesicle translocation. Sirolimus disrupts this pathway, reducing glucose uptake.
 
 ## Distinction from Type 2 Diabetes
 
@@ -130,12 +150,20 @@ Insulin → Insulin Receptor (autophosphorylation)
 *See also: [[Sirolimus_Beta_Cell_Dysfunction_NODAT_Z-001-0924]*
 
 
+## Core Principle
+
+**Core Mechanism:** mTORC1 is downstream of Akt in insulin signaling and facilitates GLUT4 vesicle translocation. Sirolimus disrupts this pathway, reducing glucose uptake.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+**Core Mechanism:** mTORC1 is downstream of Akt in insulin signaling and facilitates GLUT4 vesicle translocation. Sirolimus disrupts this pathway, reducing glucose uptake.
 
 ## Connection to Vault
 

@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Vitamin K2 exists as a family of menaquinones with varying chain lengths, with MK-4 and MK-7 being the most clinically relevant forms, differing in source, bioavailability, dosing, and therapeutic applications.
 
+## Core Principle
+
+> Vitamin K2 exists as a family of menaquinones with varying chain lengths, with MK-4 and MK-7 being the most clinically relevant forms, differing in source, bioavailability, dosing, and therapeutic applications.
+
 ## Vitamin K Family Overview
 
 ### Vitamin K1 (Phylloquinone)
@@ -27,6 +31,10 @@ extraction-date: 2026-03-01
 **Naming:** MK-n (n = number of isoprenoid units in side chain)
 - **MK-4:** Short chain
 - **MK-7 through MK-10:** Long chain
+
+## Core Principle
+
+> Vitamin K2 exists as a family of menaquinones with varying chain lengths, with MK-4 and MK-7 being the most clinically relevant forms, differing in source, bioavailability, dosing, and therapeutic applications.
 
 ## MK-4 (Menaquinone-4)
 
@@ -54,6 +62,10 @@ extraction-date: 2026-03-01
 - Lower bioavailability
 - Less cardiovascular evidence
 - High cost for therapeutic dosing
+
+## Core Principle
+
+> Vitamin K2 exists as a family of menaquinones with varying chain lengths, with MK-4 and MK-7 being the most clinically relevant forms, differing in source, bioavailability, dosing, and therapeutic applications.
 
 ## MK-7 (Menaquinone-7)
 
@@ -83,6 +95,10 @@ extraction-date: 2026-03-01
 - Stronger cardiovascular evidence
 - Cost-effective
 
+## Core Principle
+
+> Vitamin K2 exists as a family of menaquinones with varying chain lengths, with MK-4 and MK-7 being the most clinically relevant forms, differing in source, bioavailability, dosing, and therapeutic applications.
+
 ## Comparative Summary
 
 | Parameter | MK-4 | MK-7 |
@@ -94,6 +110,10 @@ extraction-date: 2026-03-01
 | **Cardiovascular evidence** | Limited | Strong |
 | **Cost** | High | Moderate |
 | **Availability** | Limited | Widely available |
+
+## Core Principle
+
+> Vitamin K2 exists as a family of menaquinones with varying chain lengths, with MK-4 and MK-7 being the most clinically relevant forms, differing in source, bioavailability, dosing, and therapeutic applications.
 
 ##  of Action (Both Forms)
 
@@ -107,6 +127,10 @@ extraction-date: 2026-03-01
 - **Osteocalcin:** Bone protein (regulates mineralization)
 - **Matrix Gla Protein (MGP):** Vascular calcification inhibitor
 - **Other Gla proteins:** Various tissue-specific functions
+
+## Core Principle
+
+> Vitamin K2 exists as a family of menaquinones with varying chain lengths, with MK-4 and MK-7 being the most clinically relevant forms, differing in source, bioavailability, dosing, and therapeutic applications.
 
 ## METHAP Recommendation
 
@@ -127,6 +151,10 @@ extraction-date: 2026-03-01
 - Requires divided dosing (3x daily)
 - More expensive
 
+## Core Principle
+
+> Vitamin K2 exists as a family of menaquinones with varying chain lengths, with MK-4 and MK-7 being the most clinically relevant forms, differing in source, bioavailability, dosing, and therapeutic applications.
+
 ## Interactions
 
 **Warfarin/Anticoagulants:**
@@ -141,6 +169,10 @@ extraction-date: 2026-03-01
 *Related: [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> Vitamin K2 exists as a family of menaquinones with varying chain lengths, with MK-4 and MK-7 being the most clinically relevant forms, differing in source, bioavailability, dosing, and therapeutic applications.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
@@ -148,6 +180,10 @@ extraction-date: 2026-03-01
 - 
 
 ---
+
+## Core Principle
+
+> Vitamin K2 exists as a family of menaquinones with varying chain lengths, with MK-4 and MK-7 being the most clinically relevant forms, differing in source, bioavailability, dosing, and therapeutic applications.
 
 ## Connection to Vault
 

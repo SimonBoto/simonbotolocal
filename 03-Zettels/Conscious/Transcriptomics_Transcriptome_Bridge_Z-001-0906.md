@@ -17,6 +17,10 @@ updated: 2026-03-05
 
 Transcriptomics studies the complete set of transcription products (RNAs) in an organism — the transcriptome. This represents the **first step of gene expression**, where genetic information flows from DNA to functional molecules.
 
+## Core Principle
+
+Transcriptomics studies the complete set of transcription products (RNAs) in an organism — the transcriptome. This represents the **first step of gene expression**, where genetic information flows from DNA to functional molecules.
+
 ## RNA Types
 
 | RNA Type | Function | Relevance |
@@ -26,6 +30,10 @@ Transcriptomics studies the complete set of transcription products (RNAs) in an 
 | **tRNA** (transfer) | Delivers amino acids to ribosomes | Translation adapter |
 | **ncRNA** (non-coding) | Regulatory functions | Gene silencing, chromatin modification |
 
+## Core Principle
+
+Transcriptomics studies the complete set of transcription products (RNAs) in an organism — the transcriptome. This represents the **first step of gene expression**, where genetic information flows from DNA to functional molecules.
+
 ## Central Dogma Position
 
 ```
@@ -34,12 +42,20 @@ Genome (DNA) → TRANSCRIPTOME (RNA) → Proteome (Proteins) → Metabolome
         Transcription        Translation
 ```
 
+## Core Principle
+
+Transcriptomics studies the complete set of transcription products (RNAs) in an organism — the transcriptome. This represents the **first step of gene expression**, where genetic information flows from DNA to functional molecules.
+
 ## Transcriptome as Proteome Precursor
 
 The transcriptome is the **immediate precursor** of the proteome:
 - RNA levels predict protein synthesis potential
 - Cellular differentiation analyzed via transcriptome comparison
 - Disease states reveal differential gene expression patterns
+
+## Core Principle
+
+Transcriptomics studies the complete set of transcription products (RNAs) in an organism — the transcriptome. This represents the **first step of gene expression**, where genetic information flows from DNA to functional molecules.
 
 ## Key Technologies
 
@@ -48,12 +64,20 @@ The transcriptome is the **immediate precursor** of the proteome:
 | **Microarrays** | Gene expression profiling | Transcription patterns across genome |
 | **RNA-Seq** | Comprehensive RNA analysis | Quantitative transcriptome mapping |
 
+## Core Principle
+
+Transcriptomics studies the complete set of transcription products (RNAs) in an organism — the transcriptome. This represents the **first step of gene expression**, where genetic information flows from DNA to functional molecules.
+
 ## Clinical Applications
 
 - **Cancer classification** — Tumor type identification via expression signatures
 - **Therapeutic response prediction** — Which patients respond to treatment
 - **Disease progression monitoring** — Tracking chronic disease states
 - **Drug mechanism studies** — How therapies alter gene expression
+
+## Core Principle
+
+Transcriptomics studies the complete set of transcription products (RNAs) in an organism — the transcriptome. This represents the **first step of gene expression**, where genetic information flows from DNA to functional molecules.
 
 ## Limitations → Why  is Needed
 
@@ -64,6 +88,10 @@ The transcriptome is the **immediate precursor** of the proteome:
 | **Metabolic distance** | RNA is far from functional metabolic output |
 | **Environmental gap** | Doesn't capture environmental modulation directly |
 
+## Core Principle
+
+Transcriptomics studies the complete set of transcription products (RNAs) in an organism — the transcriptome. This represents the **first step of gene expression**, where genetic information flows from DNA to functional molecules.
+
 ## METHAP Context
 
 **Transcriptomics in IR Research:**
@@ -73,11 +101,19 @@ The transcriptome is the **immediate precursor** of the proteome:
 
 **Ideal study:** Multi-omics combining transcriptomics + metabolomics
 
+## Core Principle
+
+Transcriptomics studies the complete set of transcription products (RNAs) in an organism — the transcriptome. This represents the **first step of gene expression**, where genetic information flows from DNA to functional molecules.
+
 ## Links
 
 - **Upstream/Prerequisite:** [[Epigenomics_Gene_Regulation_Z-001-0905]] — Regulates transcription
 - **Parallel/Related:** [[Genomics_Structure_Function_Genome_Z-001-0904]] — Source of transcripts
 - **Downstream/Consequence:** [[Proteomics_Protein_Function_Z-001-0007.md] — What RNA produces
+
+## Core Principle
+
+Transcriptomics studies the complete set of transcription products (RNAs) in an organism — the transcriptome. This represents the **first step of gene expression**, where genetic information flows from DNA to functional molecules.
 
 ## Context
 
@@ -90,6 +126,10 @@ The transcriptome is the **immediate precursor** of the proteome:
 *UID: Z-001-0906 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*
 
 
+## Core Principle
+
+Transcriptomics studies the complete set of transcription products (RNAs) in an organism — the transcriptome. This represents the **first step of gene expression**, where genetic information flows from DNA to functional molecules.
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
@@ -97,6 +137,10 @@ The transcriptome is the **immediate precursor** of the proteome:
 - 
 
 ---
+
+## Core Principle
+
+Transcriptomics studies the complete set of transcription products (RNAs) in an organism — the transcriptome. This represents the **first step of gene expression**, where genetic information flows from DNA to functional molecules.
 
 ## Connection to Vault
 

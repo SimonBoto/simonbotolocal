@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > MTHFR polymorphisms have complex, context-dependent associations with cancer risk that vary by cancer type, folate status, alcohol intake, and interaction with other genetic factors.
 
+## Core Principle
+
+> MTHFR polymorphisms have complex, context-dependent associations with cancer risk that vary by cancer type, folate status, alcohol intake, and interaction with other genetic factors.
+
 ## Protective Associations (High Folate)
 
 **Colorectal Cancer:**
@@ -28,6 +32,10 @@ extraction-date: 2026-03-01
 - Reduced uracil misincorporation
 - DNA stability
 
+## Core Principle
+
+> MTHFR polymorphisms have complex, context-dependent associations with cancer risk that vary by cancer type, folate status, alcohol intake, and interaction with other genetic factors.
+
 ## Risk Associations (Low Folate)
 
 **Gastric Cancer:**
@@ -40,6 +48,10 @@ extraction-date: 2026-03-01
 - Hypomethylation
 - Genomic instability
 - Oncogene activation
+
+## Core Principle
+
+> MTHFR polymorphisms have complex, context-dependent associations with cancer risk that vary by cancer type, folate status, alcohol intake, and interaction with other genetic factors.
 
 ## Context-Dependent
 
@@ -58,6 +70,10 @@ extraction-date: 2026-03-01
 - No direct causation established
 - Part of multifactorial risk
 
+## Core Principle
+
+> MTHFR polymorphisms have complex, context-dependent associations with cancer risk that vary by cancer type, folate status, alcohol intake, and interaction with other genetic factors.
+
 ## Clinical Implication
 
 **Nutrition Over Genetics:**
@@ -70,11 +86,19 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_MTHFR_Genetics_L-001-0403]*
 
 
+## Core Principle
+
+> MTHFR polymorphisms have complex, context-dependent associations with cancer risk that vary by cancer type, folate status, alcohol intake, and interaction with other genetic factors.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+> MTHFR polymorphisms have complex, context-dependent associations with cancer risk that vary by cancer type, folate status, alcohol intake, and interaction with other genetic factors.
 
 ## Connection to Vault
 

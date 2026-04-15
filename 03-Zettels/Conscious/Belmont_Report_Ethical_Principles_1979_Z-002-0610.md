@@ -17,6 +17,10 @@ created: 2026-03-27
 
 U.S. National Commission for the Protection of Human Subjects landmark report establishing three core ethical principles: Respect for Persons, Beneficence, and Justice. Foundation for U.S.  regulations (45 CFR 46, Common Rule).
 
+## Core Principle
+
+U.S. National Commission for the Protection of Human Subjects landmark report establishing three core ethical principles: Respect for Persons, Beneficence, and Justice. Foundation for U.S.  regulations (45 CFR 46, Common Rule).
+
 ## Three Core Principles
 
 ### 1. Respect for Persons
@@ -46,12 +50,20 @@ U.S. National Commission for the Protection of Human Subjects landmark report es
 - Equitable access to research benefits
 - Community representation in review
 
+## Core Principle
+
+U.S. National Commission for the Protection of Human Subjects landmark report establishing three core ethical principles: Respect for Persons, Beneficence, and Justice. Foundation for U.S.  regulations (45 CFR 46, Common Rule).
+
 ## Historical Context
 
 - **Response to:** Tuskegee Syphilis Study (1932-1972)
 - **Commission:** 1974-1978, National Research Act
 - **Report published:** April 18, 1979
 - **Regulatory impact:** 45 CFR 46 (Common Rule) 1981, revised 1991, 2017
+
+## Core Principle
+
+U.S. National Commission for the Protection of Human Subjects landmark report establishing three core ethical principles: Respect for Persons, Beneficence, and Justice. Foundation for U.S.  regulations (45 CFR 46, Common Rule).
 
 ## Tuskegee Legacy
 
@@ -60,6 +72,10 @@ The Belmont Report was directly triggered by revelations about the Tuskegee Stud
 - Research continued after penicillin available (1940s)
 - No informed consent
 - Led to IRB requirement and informed consent regulations
+
+## Core Principle
+
+U.S. National Commission for the Protection of Human Subjects landmark report establishing three core ethical principles: Respect for Persons, Beneficence, and Justice. Foundation for U.S.  regulations (45 CFR 46, Common Rule).
 
 ## Regulatory Implementation
 
@@ -70,12 +86,20 @@ The Belmont Report was directly triggered by revelations about the Tuskegee Stud
 | 45 CFR 46 Subpart C | Prisoners |
 | 45 CFR 46 Subpart D | Children |
 
+## Core Principle
+
+U.S. National Commission for the Protection of Human Subjects landmark report establishing three core ethical principles: Respect for Persons, Beneficence, and Justice. Foundation for U.S.  regulations (45 CFR 46, Common Rule).
+
 ## Application to METHAP
 
 Belmont principles in METHAP:
 - **Respect:** Informed consent, withdrawal rights, confidentiality
 - **Beneficence:** Minimal risk (blood draw), monitoring, qualified team
 - **Justice:** Fair selection, no exploitation, results sharing
+
+## Core Principle
+
+U.S. National Commission for the Protection of Human Subjects landmark report establishing three core ethical principles: Respect for Persons, Beneficence, and Justice. Foundation for U.S.  regulations (45 CFR 46, Common Rule).
 
 ## Links
 
@@ -88,11 +112,19 @@ Belmont principles in METHAP:
 *UID: Z-002-0610 | Domain: 002 | Created: 2026-03-27*
 
 
+## Core Principle
+
+U.S. National Commission for the Protection of Human Subjects landmark report establishing three core ethical principles: Respect for Persons, Beneficence, and Justice. Foundation for U.S.  regulations (45 CFR 46, Common Rule).
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+U.S. National Commission for the Protection of Human Subjects landmark report establishing three core ethical principles: Respect for Persons, Beneficence, and Justice. Foundation for U.S.  regulations (45 CFR 46, Common Rule).
 
 ## Connection to Vault
 

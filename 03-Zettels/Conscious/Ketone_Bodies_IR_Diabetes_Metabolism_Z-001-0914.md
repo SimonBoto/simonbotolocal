@@ -18,6 +18,10 @@ extraction-date: 2026-04-15
 
 Ketone bodies (acetoacetate, 3-hydroxybutyrate/β-hydroxybutyrate, and acetone) are alternative fuel molecules produced when glucose utilization is impaired or carbohydrate availability is limited. They serve as critical energy sources during fasting, low-carbohydrate diets, and in insulin resistance/diabetes when cellular glucose uptake is compromised.
 
+## Core Principle
+
+Ketone bodies (acetoacetate, 3-hydroxybutyrate/β-hydroxybutyrate, and acetone) are alternative fuel molecules produced when glucose utilization is impaired or carbohydrate availability is limited. They serve as critical energy sources during fasting, low-carbohydrate diets, and in insulin resistance/diabetes when cellular glucose uptake is compromised.
+
 ## Ketogenesis: When and Why
 
 ### Normal Conditions (Glucose Available)
@@ -44,6 +48,10 @@ Fatty acids → β-oxidation → Acetyl-CoA ──┬─→ Krebs Cycle (if capa
               fuel               fuel
 ```
 
+## Core Principle
+
+Ketone bodies (acetoacetate, 3-hydroxybutyrate/β-hydroxybutyrate, and acetone) are alternative fuel molecules produced when glucose utilization is impaired or carbohydrate availability is limited. They serve as critical energy sources during fasting, low-carbohydrate diets, and in insulin resistance/diabetes when cellular glucose uptake is compromised.
+
 ## Triggers for Ketogenesis
 
 | Condition | Mechanism | Ketone Production |
@@ -52,6 +60,10 @@ Fatty acids → β-oxidation → Acetyl-CoA ──┬─→ Krebs Cycle (if capa
 | **Low-carbohydrate diet** | Insufficient glucose substrate | Moderate-High |
 | **Prolonged exercise** | Glucose/glycogen depletion | Moderate |
 | **Diabetes (uncontrolled)** | Insulin deficiency → impaired glucose uptake | **High (pathological)** |
+
+## Core Principle
+
+Ketone bodies (acetoacetate, 3-hydroxybutyrate/β-hydroxybutyrate, and acetone) are alternative fuel molecules produced when glucose utilization is impaired or carbohydrate availability is limited. They serve as critical energy sources during fasting, low-carbohydrate diets, and in insulin resistance/diabetes when cellular glucose uptake is compromised.
 
 ## The Three Ketone Bodies
 
@@ -73,6 +85,10 @@ Fatty acids → β-oxidation → Acetyl-CoA ──┬─→ Krebs Cycle (if capa
 - **Clinical use:** Breath acetone meters (non-invasive ketosis monitoring)
 - **Toxicity:** Minimal at physiological concentrations
 
+## Core Principle
+
+Ketone bodies (acetoacetate, 3-hydroxybutyrate/β-hydroxybutyrate, and acetone) are alternative fuel molecules produced when glucose utilization is impaired or carbohydrate availability is limited. They serve as critical energy sources during fasting, low-carbohydrate diets, and in insulin resistance/diabetes when cellular glucose uptake is compromised.
+
 ## Ketone Body Utilization
 
 ### Tissues That Use Ketones
@@ -87,6 +103,10 @@ Fatty acids → β-oxidation → Acetyl-CoA ──┬─→ Krebs Cycle (if capa
 - **Evolutionary advantage:** Survive prolonged fasting
 - **Glucose sparing:** Preserves glucose for obligate glucose users (red blood cells)
 - **Ketone conversion:** β-OHB → acetoacetate → acetyl-CoA → Krebs cycle → ATP
+
+## Core Principle
+
+Ketone bodies (acetoacetate, 3-hydroxybutyrate/β-hydroxybutyrate, and acetone) are alternative fuel molecules produced when glucose utilization is impaired or carbohydrate availability is limited. They serve as critical energy sources during fasting, low-carbohydrate diets, and in insulin resistance/diabetes when cellular glucose uptake is compromised.
 
 ## Insulin Resistance and Ketones
 
@@ -106,6 +126,10 @@ Fatty acids → β-oxidation → Acetyl-CoA ──┬─→ Krebs Cycle (if capa
 | **Type 2 early** (compensated) | Normal/Low | Hyperinsulinemia suppresses ketones |
 | **Type 2 advanced** (β-cell failure) | Moderate-High | Relative insulin deficiency |
 
+## Core Principle
+
+Ketone bodies (acetoacetate, 3-hydroxybutyrate/β-hydroxybutyrate, and acetone) are alternative fuel molecules produced when glucose utilization is impaired or carbohydrate availability is limited. They serve as critical energy sources during fasting, low-carbohydrate diets, and in insulin resistance/diabetes when cellular glucose uptake is compromised.
+
 ## Clinical Applications
 
 ### 1. Diabetic Ketoacidosis (DKA) Monitoring
@@ -123,6 +147,10 @@ Fatty acids → β-oxidation → Acetyl-CoA ──┬─→ Krebs Cycle (if capa
   - 12–24 hours: Glycogen depletion
   - 24–48 hours: Gluconeogenesis active
   - 48+ hours: **Ketogenesis prominent**, brain using ketones
+
+## Core Principle
+
+Ketone bodies (acetoacetate, 3-hydroxybutyrate/β-hydroxybutyrate, and acetone) are alternative fuel molecules produced when glucose utilization is impaired or carbohydrate availability is limited. They serve as critical energy sources during fasting, low-carbohydrate diets, and in insulin resistance/diabetes when cellular glucose uptake is compromised.
 
 ## METHAP Relevance
 
@@ -158,11 +186,19 @@ VD intervention target:
 - Normalize organic acid patterns
 ```
 
+## Core Principle
+
+Ketone bodies (acetoacetate, 3-hydroxybutyrate/β-hydroxybutyrate, and acetone) are alternative fuel molecules produced when glucose utilization is impaired or carbohydrate availability is limited. They serve as critical energy sources during fasting, low-carbohydrate diets, and in insulin resistance/diabetes when cellular glucose uptake is compromised.
+
 ## Links
 
 - **Upstream/Prerequisite:** [[Carnitine_Fatty_Acid_Transport_Z-001-0913]] — Ketones produced when fatty acids enter mitochondria but Krebs saturated
 - **Parallel/Related:** [[Krebs_Cycle_Metabolites_IR_Markers_Z-001-0912]] — Alternative fate for acetyl-CoA
 - **Downstream/Consequence:**  — Potential  for metabolic flexibility
+
+## Core Principle
+
+Ketone bodies (acetoacetate, 3-hydroxybutyrate/β-hydroxybutyrate, and acetone) are alternative fuel molecules produced when glucose utilization is impaired or carbohydrate availability is limited. They serve as critical energy sources during fasting, low-carbohydrate diets, and in insulin resistance/diabetes when cellular glucose uptake is compromised.
 
 ## Context
 
@@ -175,12 +211,20 @@ VD intervention target:
 *UID: Z-001-0914 | Domain: 001 | Created: 2026-02-23 | Updated: 2026-03-05*  
 *Key insight: Ketones represent alternative fuel pathway when glucose unavailable — relevant to IR metabolic inflexibility*
 
+## Core Principle
+
+Ketone bodies (acetoacetate, 3-hydroxybutyrate/β-hydroxybutyrate, and acetone) are alternative fuel molecules produced when glucose utilization is impaired or carbohydrate availability is limited. They serve as critical energy sources during fasting, low-carbohydrate diets, and in insulin resistance/diabetes when cellular glucose uptake is compromised.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family Guide]
 - 
 
 
 ---
+
+## Core Principle
+
+Ketone bodies (acetoacetate, 3-hydroxybutyrate/β-hydroxybutyrate, and acetone) are alternative fuel molecules produced when glucose utilization is impaired or carbohydrate availability is limited. They serve as critical energy sources during fasting, low-carbohydrate diets, and in insulin resistance/diabetes when cellular glucose uptake is compromised.
 
 ## Connection to Vault
 

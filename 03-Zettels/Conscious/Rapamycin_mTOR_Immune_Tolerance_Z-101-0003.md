@@ -33,6 +33,10 @@ Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central reg
 
 **METHAP Connection:** mTOR is a central hub linking metabolism and immunity —  also modulates mTOR signaling, suggesting metabolic-immunologic crosstalk as a therapeutic target.
 
+## Core Principle
+
+Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central regulator of cellular  and immune cell activation. mTOR hyperactivation precedes SLE onset and correlates with comorbidity presence — making it a therapeutic target for restoring immune homeostasis.
+
 ## Key Details
 
 | Pathway | Effect of Rapamycin |
@@ -43,11 +47,19 @@ Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central reg
 | T-reg function | Enhanced |
 | M2 differentiation | Blocked |
 
+## Core Principle
+
+Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central regulator of cellular  and immune cell activation. mTOR hyperactivation precedes SLE onset and correlates with comorbidity presence — making it a therapeutic target for restoring immune homeostasis.
+
 ## Links
 
 - **Upstream:** [[Metformin_AMPK_mTOR_Immunometabolism_Z-101-0002.md] — Metformin also modulates mTOR
 - **Parallel:** [[Inflammatory_Signaling_IR_Z-001-0031.md] — Inflammatory cytokine pathways
 - **Downstream:** , 
+
+## Core Principle
+
+Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central regulator of cellular  and immune cell activation. mTOR hyperactivation precedes SLE onset and correlates with comorbidity presence — making it a therapeutic target for restoring immune homeostasis.
 
 ## Context
 
@@ -60,12 +72,20 @@ Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central reg
 *UID: Z-101-0003 | Domain: 101 | Created: 2026-02-24*
 
 
+## Core Principle
+
+Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central regulator of cellular  and immune cell activation. mTOR hyperactivation precedes SLE onset and correlates with comorbidity presence — making it a therapeutic target for restoring immune homeostasis.
+
 ## RELATED FILES
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 - 
 
 ---
+
+## Core Principle
+
+Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central regulator of cellular  and immune cell activation. mTOR hyperactivation precedes SLE onset and correlates with comorbidity presence — making it a therapeutic target for restoring immune homeostasis.
 
 ## Connection to Vault
 

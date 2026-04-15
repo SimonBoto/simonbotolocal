@@ -21,6 +21,10 @@ The **CBC** provides baseline hematologic status. Beyond anemia detection, patte
 
 ---
 
+## Core Principle
+
+The **CBC** provides baseline hematologic status. Beyond anemia detection, patterns reveal , hydration, and chronic disease states.
+
 ## 🎯 Key Parameters
 
 ### WBC (White Blood Cells)
@@ -61,6 +65,10 @@ The **CBC** provides baseline hematologic status. Beyond anemia detection, patte
 
 ---
 
+## Core Principle
+
+The **CBC** provides baseline hematologic status. Beyond anemia detection, patterns reveal , hydration, and chronic disease states.
+
 ## 🔗 Connected Systems
 
 **Iron Status:**
@@ -76,6 +84,10 @@ The **CBC** provides baseline hematologic status. Beyond anemia detection, patte
 - MCV >100 fL suggests B12/folate deficiency
 
 ---
+
+## Core Principle
+
+The **CBC** provides baseline hematologic status. Beyond anemia detection, patterns reveal , hydration, and chronic disease states.
 
 ## 🩺 Clinical Patterns
 
@@ -109,6 +121,10 @@ The **CBC** provides baseline hematologic status. Beyond anemia detection, patte
 
 ---
 
+## Core Principle
+
+The **CBC** provides baseline hematologic status. Beyond anemia detection, patterns reveal , hydration, and chronic disease states.
+
 ## 🔬 MCV-RDW Approach to Anemia
 
 | MCV | RDW | Pattern | Causes |
@@ -121,6 +137,10 @@ The **CBC** provides baseline hematologic status. Beyond anemia detection, patte
 | High | Normal | Macrocytic, uniform | Liver disease, alcohol, hypothyroid |
 
 ---
+
+## Core Principle
+
+The **CBC** provides baseline hematologic status. Beyond anemia detection, patterns reveal , hydration, and chronic disease states.
 
 ## 🔬 PhD-METHAP Relevance
 
@@ -135,6 +155,10 @@ patient_id,visit,wbc_k_u_l,hematocrit_pct,hemoglobin_g_dl,platelets_k_u_l,mcv_fl
 
 ---
 
+## Core Principle
+
+The **CBC** provides baseline hematologic status. Beyond anemia detection, patterns reveal , hydration, and chronic disease states.
+
 ## 💡 Clinical Pearl
 
 > "CBC is the most underutilized metabolic test. Anemia of chronic disease with platelets 450 and WBC 13? That's inflammation driving metabolic dysfunction — look for the source."
@@ -145,6 +169,10 @@ patient_id,visit,wbc_k_u_l,hematocrit_pct,hemoglobin_g_dl,platelets_k_u_l,mcv_fl
 
 *Source: , *
 *Created: 2026-02-26 | Domain: 000 | Status: Conscious*
+
+## Core Principle
+
+The **CBC** provides baseline hematologic status. Beyond anemia detection, patterns reveal , hydration, and chronic disease states.
 
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
@@ -157,6 +185,10 @@ patient_id,visit,wbc_k_u_l,hematocrit_pct,hemoglobin_g_dl,platelets_k_u_l,mcv_fl
 
 
 ---
+
+## Core Principle
+
+The **CBC** provides baseline hematologic status. Beyond anemia detection, patterns reveal , hydration, and chronic disease states.
 
 ## Connection to Vault
 

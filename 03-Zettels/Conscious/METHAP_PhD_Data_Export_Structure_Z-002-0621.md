@@ -17,6 +17,10 @@ status: conscious
 
 ---
 
+## Core Principle
+
+> **Standardized data export format for METHAP trial analysis**
+
 ## CSV Field Structure
 
 ```csv
@@ -24,6 +28,10 @@ patient_id,date,visit_number,age,bmi,waist_hip,vit_d_ng_ml,tsh_ft3_ft4,anti_tpo,
 ```
 
 ---
+
+## Core Principle
+
+> **Standardized data export format for METHAP trial analysis**
 
 ## Field Definitions
 
@@ -57,6 +65,10 @@ patient_id,date,visit_number,age,bmi,waist_hip,vit_d_ng_ml,tsh_ft3_ft4,anti_tpo,
 
 ---
 
+## Core Principle
+
+> **Standardized data export format for METHAP trial analysis**
+
 ## Data Quality Checks
 
 - [ ] All dates valid (YYYY-MM-DD format)
@@ -66,6 +78,10 @@ patient_id,date,visit_number,age,bmi,waist_hip,vit_d_ng_ml,tsh_ft3_ft4,anti_tpo,
 - [ ] Supplement_protocol coded consistently
 
 ---
+
+## Core Principle
+
+> **Standardized data export format for METHAP trial analysis**
 
 ## Related
 

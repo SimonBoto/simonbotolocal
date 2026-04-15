@@ -33,6 +33,10 @@ Stoss therapy uses single high-dose vitamin D (50,000-600,000 IU) to rapidly cor
 
 **Evidence:** Munns et al. 2016 Global Consensus on al rickets endorsed stoss therapy as standard of care.
 
+## Core Principle
+
+Stoss therapy uses single high-dose vitamin D (50,000-600,000 IU) to rapidly correct severe deficiency or treat rickets in children. Dose calculated by body weight; administered as single dose or divided over several days. Requires strict medical supervision with calcium monitoring.
+
 ## Links
 
 **Parent MOC:** -Protocols]
@@ -44,10 +48,18 @@ Stoss therapy uses single high-dose vitamin D (50,000-600,000 IU) to rapidly cor
 *UID: Z-001-0069 | Domain: 001 | Created: 2026-03-01*
 
 
+## Core Principle
+
+Stoss therapy uses single high-dose vitamin D (50,000-600,000 IU) to rapidly correct severe deficiency or treat rickets in children. Dose calculated by body weight; administered as single dose or divided over several days. Requires strict medical supervision with calcium monitoring.
+
 ## RELATED FILES
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
 
 ---
+
+## Core Principle
+
+Stoss therapy uses single high-dose vitamin D (50,000-600,000 IU) to rapidly correct severe deficiency or treat rickets in children. Dose calculated by body weight; administered as single dose or divided over several days. Requires strict medical supervision with calcium monitoring.
 
 ## Connection to Vault
 

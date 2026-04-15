@@ -20,6 +20,10 @@ status: conscious
 
 This zettel describes the aromatase excess pattern in male hormone assessment, characterized by elevated estradiol and decreased testosterone.
 
+## Core Principle
+
+This zettel describes the aromatase excess pattern in male hormone assessment, characterized by elevated estradiol and decreased testosterone.
+
 ## Pattern Characteristics
 
 - ↑ Estradiol
@@ -28,6 +32,10 @@ This zettel describes the aromatase excess pattern in male hormone assessment, c
 - ↓ SHBG
 - ↑ DHEA-S
 
+## Core Principle
+
+This zettel describes the aromatase excess pattern in male hormone assessment, characterized by elevated estradiol and decreased testosterone.
+
 ## Pathophysiological Mechanisms
 
 - Increased aromatase activity converts testosterone to estradiol
@@ -35,11 +43,19 @@ This zettel describes the aromatase excess pattern in male hormone assessment, c
 - SHBG decreases in response to androgen deficiency
 - DHEA-S elevation suggests adrenal hyperplasia
 
+## Core Principle
+
+This zettel describes the aromatase excess pattern in male hormone assessment, characterized by elevated estradiol and decreased testosterone.
+
 ## Clinical Presentation
 
 - Symptoms of estrogen excess (gynecomastia, fatigue)
 - Symptoms of testosterone deficiency (low libido, erectile dysfunction)
 - Paradoxical hormone pattern challenging conventional diagnosis
+
+## Core Principle
+
+This zettel describes the aromatase excess pattern in male hormone assessment, characterized by elevated estradiol and decreased testosterone.
 
 ## Differential Diagnosis
 

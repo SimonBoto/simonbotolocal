@@ -16,10 +16,18 @@ updated: 2026-03-05
 
 > Countries were selected post-hoc from 22 considered based on preliminary data, excluding France (high SFA, low CHD) and others that contradicted the saturated fat hypothesis.
 
+## Core Principle
+
+> Countries were selected post-hoc from 22 considered based on preliminary data, excluding France (high SFA, low CHD) and others that contradicted the saturated fat hypothesis.
+
 ## Selection Process
 
 **22 Countries Considered**
 **7 Selected** (after data review)
+
+## Core Principle
+
+> Countries were selected post-hoc from 22 considered based on preliminary data, excluding France (high SFA, low CHD) and others that contradicted the saturated fat hypothesis.
 
 ## Excluded Countries
 
@@ -30,6 +38,10 @@ updated: 2026-03-05
 | Sweden | High | Moderate | Nordic pattern |
 | Norway | High | Low-Mod | Fish confounding |
 
+## Core Principle
+
+> Countries were selected post-hoc from 22 considered based on preliminary data, excluding France (high SFA, low CHD) and others that contradicted the saturated fat hypothesis.
+
 ## French Paradox
 
 - High saturated fat intake
@@ -37,10 +49,18 @@ updated: 2026-03-05
 - **Contradicted hypothesis**
 - **Conveniently excluded**
 
+## Core Principle
+
+> Countries were selected post-hoc from 22 considered based on preliminary data, excluding France (high SFA, low CHD) and others that contradicted the saturated fat hypothesis.
+
 ## Impact
 
 With France included, SFA-CHD correlation weakens substantially.
 Without France, hypothesis appears stronger.
+
+## Core Principle
+
+> Countries were selected post-hoc from 22 considered based on preliminary data, excluding France (high SFA, low CHD) and others that contradicted the saturated fat hypothesis.
 
 ## Violation
 
@@ -51,6 +71,10 @@ Post-hoc selection based on outcome = confirmation bias.
 *Source: [[LitNote_Seven_Countries_Methodology_L-001-0504]*
 
 ---
+
+## Core Principle
+
+> Countries were selected post-hoc from 22 considered based on preliminary data, excluding France (high SFA, low CHD) and others that contradicted the saturated fat hypothesis.
 
 ## Connection to Vault
 

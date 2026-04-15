@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > High-dose  (8000 IU/day) in the METHAP trial requires systematic monitoring of calcium homeostasis to ensure participant , with scheduled assessments, clear intervention thresholds, and predefined stopping rules.
 
+## Core Principle
+
+> High-dose  (8000 IU/day) in the METHAP trial requires systematic monitoring of calcium homeostasis to ensure participant , with scheduled assessments, clear intervention thresholds, and predefined stopping rules.
+
 ## Baseline Assessment (Pre-Study)
 
 ### Required Tests
@@ -37,6 +41,10 @@ extraction-date: 2026-03-01
 - Risk factors
 - Concomitant medications
 - Informed consent for monitoring
+
+## Core Principle
+
+> High-dose  (8000 IU/day) in the METHAP trial requires systematic monitoring of calcium homeostasis to ensure participant , with scheduled assessments, clear intervention thresholds, and predefined stopping rules.
 
 ## Monitoring Schedule
 
@@ -81,6 +89,10 @@ extraction-date: 2026-03-01
 - Document outcomes
 - Plan follow-up if needed
 
+## Core Principle
+
+> High-dose  (8000 IU/day) in the METHAP trial requires systematic monitoring of calcium homeostasis to ensure participant , with scheduled assessments, clear intervention thresholds, and predefined stopping rules.
+
 ## Intervention Thresholds
 
 ### Serum Calcium
@@ -100,6 +112,10 @@ extraction-date: 2026-03-01
 - Confusion
 - Polyuria, polydipsia
 - **Action:** Stop D, evaluate
+
+## Core Principle
+
+> High-dose  (8000 IU/day) in the METHAP trial requires systematic monitoring of calcium homeostasis to ensure participant , with scheduled assessments, clear intervention thresholds, and predefined stopping rules.
 
 ## Safety Safeguards
 
@@ -126,6 +142,10 @@ extraction-date: 2026-03-01
 - Clear escalation pathway
 - 24-hour contact for symptoms
 
+## Core Principle
+
+> High-dose  (8000 IU/day) in the METHAP trial requires systematic monitoring of calcium homeostasis to ensure participant , with scheduled assessments, clear intervention thresholds, and predefined stopping rules.
+
 ## Documentation Requirements
 
 ### Study Records
@@ -144,12 +164,20 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Calcium_PTH_Homeostasis_L-001-0213]*  
 *Extracted: 2026-03-01*
 
+## Core Principle
+
+> High-dose  (8000 IU/day) in the METHAP trial requires systematic monitoring of calcium homeostasis to ensure participant , with scheduled assessments, clear intervention thresholds, and predefined stopping rules.
+
 ## RELATED FILES
 - [[Thyroid_Panel_[B-010-0001]|Biomarker Family]
 - 
 - [[METHAP_Intervention_Protocol_Diet_Supplements_Z-001-1142]|Z-001-1142]
 
 ---
+
+## Core Principle
+
+> High-dose  (8000 IU/day) in the METHAP trial requires systematic monitoring of calcium homeostasis to ensure participant , with scheduled assessments, clear intervention thresholds, and predefined stopping rules.
 
 ## Connection to Vault
 

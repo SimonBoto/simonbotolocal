@@ -21,11 +21,19 @@ status: conscious
 
 This zettel addresses fertility preservation strategies for men undergoing testosterone replacement therapy.
 
+## Core Principle
+
+This zettel addresses fertility preservation strategies for men undergoing testosterone replacement therapy.
+
 ## TRT Impact on Fertility
 
 - TRT suppresses spermatogenesis via negative feedback on HPG axis
 - Decreased FSH and LH leads to reduced sperm production
 - Sperm count may decrease to azoospermia in up to 70% of men on long-term TRT
+
+## Core Principle
+
+This zettel addresses fertility preservation strategies for men undergoing testosterone replacement therapy.
 
 ## Fertility Preservation Options
 
@@ -34,12 +42,20 @@ This zettel addresses fertility preservation strategies for men undergoing testo
 - **Alternative to TRT:** Clomiphene citrate or aromatase inhibitors
 - **After TRT discontinuation:** Spontaneous recovery may take 3-6 months
 
+## Core Principle
+
+This zettel addresses fertility preservation strategies for men undergoing testosterone replacement therapy.
+
 ## Counseling Points
 
 - Discuss fertility goals before initiating TRT
 - Document informed consent regarding fertility risks
 - Refer to reproductive endocrinology for complex cases
 - Regular semen analysis if fertility preservation is attempted
+
+## Core Principle
+
+This zettel addresses fertility preservation strategies for men undergoing testosterone replacement therapy.
 
 ## Evidence-Based Recommendations
 

@@ -25,6 +25,10 @@ extraction-date: 2026-04-15
 
 ---
 
+## Core Principle
+
+**Homocysteine** is a sulfur-containing amino acid that accumulates when methylation is impaired. It's a **composite marker** — elevated homocysteine indicates dysfunction in B12, folate, B6, or iron . **If homocysteine is high, methylation is broken.**
+
 ## 🎯 Reference Ranges
 
 | Level (μmol/L) | Status | Cardiovascular Risk |
@@ -38,6 +42,10 @@ extraction-date: 2026-04-15
 **Target for metabolic health:** <10 μmol/L (some argue <8)
 
 ---
+
+## Core Principle
+
+**Homocysteine** is a sulfur-containing amino acid that accumulates when methylation is impaired. It's a **composite marker** — elevated homocysteine indicates dysfunction in B12, folate, B6, or iron . **If homocysteine is high, methylation is broken.**
 
 ## 🔗 Connected Systems
 
@@ -57,6 +65,10 @@ extraction-date: 2026-04-15
 - Associated with cognitive decline, osteoporosis
 
 ---
+
+## Core Principle
+
+**Homocysteine** is a sulfur-containing amino acid that accumulates when methylation is impaired. It's a **composite marker** — elevated homocysteine indicates dysfunction in B12, folate, B6, or iron . **If homocysteine is high, methylation is broken.**
 
 ## 🔄 The Methylation Cycle
 
@@ -79,6 +91,10 @@ Homocysteine ──[BHMT: betaine]──> Methionine
 
 ---
 
+## Core Principle
+
+**Homocysteine** is a sulfur-containing amino acid that accumulates when methylation is impaired. It's a **composite marker** — elevated homocysteine indicates dysfunction in B12, folate, B6, or iron . **If homocysteine is high, methylation is broken.**
+
 ## 💊 Intervention Protocol
 
 | Elevation | Homocysteine | Protocol |
@@ -91,6 +107,10 @@ Homocysteine ──[BHMT: betaine]──> Methionine
 
 ---
 
+## Core Principle
+
+**Homocysteine** is a sulfur-containing amino acid that accumulates when methylation is impaired. It's a **composite marker** — elevated homocysteine indicates dysfunction in B12, folate, B6, or iron . **If homocysteine is high, methylation is broken.**
+
 ## 💡 Clinical Pearl
 
 > "Homocysteine is the canary in the coal mine for methylation. When it's elevated, something upstream is broken — B12, folate, iron, or genetics. Fix the root cause, don't just chase the number."
@@ -100,6 +120,10 @@ Homocysteine ──[BHMT: betaine]──> Methionine
 *Source: , *
 *Created: 2026-02-26 | Domain: 004 | Status: Conscious*
 
+## Core Principle
+
+**Homocysteine** is a sulfur-containing amino acid that accumulates when methylation is impaired. It's a **composite marker** — elevated homocysteine indicates dysfunction in B12, folate, B6, or iron . **If homocysteine is high, methylation is broken.**
+
 ## RELATED FILES
 - [[Iron_Family_[B-003-0001]|Biomarker Family]
 - [[Methylation_Family_[B-004-0001]|Biomarker Family]
@@ -108,6 +132,10 @@ Homocysteine ──[BHMT: betaine]──> Methionine
 
 
 ---
+
+## Core Principle
+
+**Homocysteine** is a sulfur-containing amino acid that accumulates when methylation is impaired. It's a **composite marker** — elevated homocysteine indicates dysfunction in B12, folate, B6, or iron . **If homocysteine is high, methylation is broken.**
 
 ## Connection to Vault
 

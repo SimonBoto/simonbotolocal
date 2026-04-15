@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Optimal  restoration requires multi-modal approach: diet, exercise, and targeted supplementation guided by .
 
+## Core Principle
+
+> Optimal  restoration requires multi-modal approach: diet, exercise, and targeted supplementation guided by .
+
 ## The Triad
 
 **1. Diet — Metabolic Reset:**
@@ -34,12 +38,20 @@ extraction-date: 2026-03-01
 - Magnesium (200-400 mg)
 - Carnitine (500-2000 mg)
 
+## Core Principle
+
+> Optimal  restoration requires multi-modal approach: diet, exercise, and targeted supplementation guided by .
+
 ## Synergy
 
 **Diet + Exercise:**
 - Fat adaptation enables exercise
 - Exercise accelerates adaptation
 - Combined > additive
+
+## Core Principle
+
+> Optimal  restoration requires multi-modal approach: diet, exercise, and targeted supplementation guided by .
 
 ## Monitoring
 
@@ -52,6 +64,10 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]*
 
 
+## Core Principle
+
+> Optimal  restoration requires multi-modal approach: diet, exercise, and targeted supplementation guided by .
+
 ## RELATED FILES
 - [[Lipid_Ratios_[B-006-0001]|Biomarker Family]
 - [[Metabolic_IR_Family_[B-005-0001]|Biomarker Family]
@@ -60,6 +76,10 @@ extraction-date: 2026-03-01
 - [[FRAX_Limitations_Clinical_Gaps_Z-001-0111]|Z-001-0111]
 
 ---
+
+## Core Principle
+
+> Optimal  restoration requires multi-modal approach: diet, exercise, and targeted supplementation guided by .
 
 ## Connection to Vault
 

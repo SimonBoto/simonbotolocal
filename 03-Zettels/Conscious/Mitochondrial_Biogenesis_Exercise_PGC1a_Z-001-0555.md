@@ -15,6 +15,10 @@ extraction-date: 2026-03-01
 
 > Exercise stimulates  biogenesis through PGC-1α activation, enhancing both quantity and quality of mitochondria.
 
+## Core Principle
+
+> Exercise stimulates  biogenesis through PGC-1α activation, enhancing both quantity and quality of mitochondria.
+
 ## PGC-1α — Master Regulator
 
 **Activators:**
@@ -26,6 +30,10 @@ extraction-date: 2026-03-01
 -  signaling (CaMK)
 - AMPK (low energy)
 - Moderate ROS (hormesis)
+
+## Core Principle
+
+> Exercise stimulates  biogenesis through PGC-1α activation, enhancing both quantity and quality of mitochondria.
 
 ## Exercise Prescription
 
@@ -43,6 +51,10 @@ extraction-date: 2026-03-01
 - Muscle fiber recruitment
 - 2-3 sessions/week
 
+## Core Principle
+
+> Exercise stimulates  biogenesis through PGC-1α activation, enhancing both quantity and quality of mitochondria.
+
 ## Downstream Effects
 
 - TFAM activation
@@ -55,10 +67,18 @@ extraction-date: 2026-03-01
 *Source: [[LitNote_Mitochondrial_Health_Strategies_L-001-0511]*
 
 
+## Core Principle
+
+> Exercise stimulates  biogenesis through PGC-1α activation, enhancing both quantity and quality of mitochondria.
+
 ## RELATED FILES
 - 
 
 ---
+
+## Core Principle
+
+> Exercise stimulates  biogenesis through PGC-1α activation, enhancing both quantity and quality of mitochondria.
 
 ## Connection to Vault
 
