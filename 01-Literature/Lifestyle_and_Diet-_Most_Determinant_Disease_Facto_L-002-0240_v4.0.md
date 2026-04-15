@@ -8,7 +8,7 @@ aliases:
   - "Lifestyle-Diet-Modifiable-Factors"
   - "BMJ-95-Percent"
 source-inbox: "[[INBOX-Article-53-Lifestyle-Diet]]"
-source-litnote: "[["INBOX-Article-53-Lifestyle-Diet"]]"
+source-litnote: "[[INBOX-Article-53-Lifestyle-Diet]]"
 authors: "Various"
 year: "2020-2025"
 journal: "BMJ Nutrition, Prevention & Health"

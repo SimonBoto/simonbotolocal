@@ -8,7 +8,7 @@ aliases:
   - "Lpa-Mechanism-Management"
   - "Lipoprotein-a"
 source-inbox: "[[INBOX-Article-40-Lpa-Mechanism]]"
-source-litnote: "[["INBOX-Article-40-Lpa-Mechanism"]]"
+source-litnote: "[[INBOX-Article-40-Lpa-Mechanism]]"
 authors: "Kamstrup PR, et al.; Various"
 year: "2009-2025"
 journal: "JAMA; Various"

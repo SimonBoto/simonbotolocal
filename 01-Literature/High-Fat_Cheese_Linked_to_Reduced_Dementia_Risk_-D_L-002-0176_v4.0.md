@@ -5,7 +5,7 @@ title: "High-Fat Cheese Linked to Reduced Dementia Risk (Du 2026)"
 aliases:
   - L-002-0176
 source-inbox: "[[INBOX-Article-11-Cheese-Dementia]]"
-source-litnote: "[["INBOX-Article-11-Cheese-Dementia"]]"
+source-litnote: "[[INBOX-Article-11-Cheese-Dementia]]"
 authors: "Du Y, Borné Y, Samuelsson J, Glans I, Hu X, Nägga K, et al."
 year: "2026"
 journal: "Neurology"

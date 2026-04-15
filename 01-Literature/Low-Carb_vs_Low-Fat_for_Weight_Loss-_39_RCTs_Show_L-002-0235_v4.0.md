@@ -8,7 +8,7 @@ aliases:
   - "Low-Carb-vs-Low-Fat-39-RCTs"
   - "Low-Carb-Superiority"
 source-inbox: "[[INBOX-Article-48-Low-Carb-Low-Fat]]"
-source-litnote: "[["INBOX-Article-48-Low-Carb-Low-Fat"]]"
+source-litnote: "[[INBOX-Article-48-Low-Carb-Low-Fat]]"
 authors: "Various"
 year: "2010-2025"
 journal: "Various"

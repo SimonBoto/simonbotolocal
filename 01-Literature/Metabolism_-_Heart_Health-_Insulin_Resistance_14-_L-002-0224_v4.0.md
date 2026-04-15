@@ -8,7 +8,7 @@ aliases:
   - "Metabolism-Heart-Health"
   - "Insulin-14x-CAD"
 source-inbox: "[[INBOX-Article-39-Metabolism-Heart]]"
-source-litnote: "[["INBOX-Article-39-Metabolism-Heart"]]"
+source-litnote: "[[INBOX-Article-39-Metabolism-Heart]]"
 authors: "Pasut A, et al.; Various"
 year: "2010-2025"
 journal: "Nature Reviews Cardiology; Various"

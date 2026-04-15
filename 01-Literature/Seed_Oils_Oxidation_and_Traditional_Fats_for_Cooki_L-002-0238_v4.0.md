@@ -8,7 +8,7 @@ aliases:
   - "Seed-Oils-Oxidation-Traditional-Fats"
   - "Seed-Oils-Health"
 source-inbox: "[[INBOX-Article-51-Seed-Oils]]"
-source-litnote: "[["INBOX-Article-51-Seed-Oils"]]"
+source-litnote: "[[INBOX-Article-51-Seed-Oils]]"
 authors: "Mousavi SM, et al.; Grootveld M, et al.; Tsoukalas D, et al."
 year: "2018-2025"
 journal: "BMJ; Hepatobiliary Surg Nutr; BMJ Nutr Prev Health"

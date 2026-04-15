@@ -8,7 +8,7 @@ aliases:
   - "Glucose-vs-Insulin"
   - "Insulin-CVD-Paradigm"
 source-inbox: "[[INBOX-Article-36-Glucose-Insulin]]"
-source-litnote: "[["INBOX-Article-36-Glucose-Insulin"]]"
+source-litnote: "[[INBOX-Article-36-Glucose-Insulin]]"
 authors: "ACCORD Study Group; Various"
 year: "2008-2024"
 journal: "New England Journal of Medicine; Various"

@@ -5,7 +5,7 @@ title: "Carbohydrate Restriction Reduces CVD Risk (Zheng 2025)"
 aliases:
   - L-002-0169
 source-inbox: "[[INBOX-Article-3-Carb-Restriction]]"
-source-litnote: "[["INBOX-Article-3-Carb-Restriction"]]"
+source-litnote: "[[INBOX-Article-3-Carb-Restriction]]"
 authors: "Zheng Q, Gao X, Ruan X, et al."
 year: "2025"
 journal: "International Journal of Obesity (Nature)"
@@ -84,7 +84,6 @@ Low-carbohydrate diets reduce cardiovascular disease risk by improving all compo
 - [x] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
 - [ ] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

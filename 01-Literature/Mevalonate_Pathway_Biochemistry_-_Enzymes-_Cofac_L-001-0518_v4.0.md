@@ -37,7 +37,7 @@ tags:
   - biochemistry
   - cGPT-0391
 source-inbox: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"
-source-litnote: "[["CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391"]]"
+source-litnote: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"
 
 # Mevalonate Pathway Biochemistry — Enzymes, Cofactors, and Energy Requirements
 

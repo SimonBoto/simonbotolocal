@@ -6,7 +6,7 @@ aliases:
   - "L-002-0203"
   - "Diet-11-Million-Deaths"
 source-inbox: "[[INBOX-Article-22-Diet-Mortality]]"
-source-litnote: "[["INBOX-Article-22-Diet-Mortality"]]"
+source-litnote: "[[INBOX-Article-22-Diet-Mortality]]"
 authors: "GBD 2017 Diet Collaborators"
 year: "2019"
 journal: "The Lancet"

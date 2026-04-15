@@ -19,7 +19,7 @@ parent-moc: "[[MOC-Biomarkers]]"
 parent-index: "[[02-Literature]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
-source-litnote: "[["CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264"]]"
+source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 zettel-count: 7
 reference-count: 0
 reviewed_by: "FORG"
@@ -269,7 +269,6 @@ parent-index: [[01-Literature 1]]
 - [ ] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
 - [ ] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

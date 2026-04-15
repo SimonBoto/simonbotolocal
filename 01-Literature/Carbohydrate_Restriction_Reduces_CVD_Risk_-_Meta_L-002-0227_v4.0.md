@@ -8,7 +8,7 @@ aliases:
   - "Carb-Restriction-CVD-Meta"
   - "Low-Carb-174-RCTs"
 source-inbox: "[[INBOX-Article-42-Carb-Restriction-CVD]]"
-source-litnote: "[["INBOX-Article-42-Carb-Restriction-CVD"]]"
+source-litnote: "[[INBOX-Article-42-Carb-Restriction-CVD]]"
 authors: "Various"
 year: "2000-2024"
 journal: "Various (Meta-analysis of 174 RCTs)"
@@ -91,7 +91,6 @@ tags:
 - [x] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
 - [ ] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

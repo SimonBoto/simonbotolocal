@@ -19,7 +19,7 @@ parent-moc: "[[MOC-Methylation-One-Carbon]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
-source-litnote: "[["CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264"]]"
+source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 zettel-count: 6
 reference-count: 0
 reviewed_by: "FORG"

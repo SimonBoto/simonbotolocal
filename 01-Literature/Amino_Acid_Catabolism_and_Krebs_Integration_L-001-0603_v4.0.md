@@ -20,7 +20,7 @@ parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: 2026-03-08
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-source-litnote: "[["CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445"]]"
+source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 5
 reference-count: 0
 reviewed_by: "FORG"
@@ -103,7 +103,6 @@ Krebs cycle entry points
 - [ ] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
 - [ ] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

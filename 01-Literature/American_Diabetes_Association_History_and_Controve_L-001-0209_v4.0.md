@@ -20,7 +20,7 @@ parent-moc: "[[MOC-Metabolic-Syndrome]]"
 parent-index: "[[01-Literature]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]"
-source-litnote: "[["CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471"]]"
+source-litnote: "[[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]"
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"
@@ -170,7 +170,6 @@ tags:
 - [ ] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
 - [ ] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

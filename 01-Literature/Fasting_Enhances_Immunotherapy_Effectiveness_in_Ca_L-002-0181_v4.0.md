@@ -5,7 +5,7 @@ title: "Fasting Enhances Immunotherapy Effectiveness in Cancer Patients"
 aliases:
   - L-002-0181
 source-inbox: "[[INBOX-Article-12-Fasting-Immunotherapy]]"
-source-litnote: "[["INBOX-Article-12-Fasting-Immunotherapy"]]"
+source-litnote: "[[INBOX-Article-12-Fasting-Immunotherapy]]"
 authors: "Chen S, et al."
 year: "2026"
 journal: "Cell Metabolism"

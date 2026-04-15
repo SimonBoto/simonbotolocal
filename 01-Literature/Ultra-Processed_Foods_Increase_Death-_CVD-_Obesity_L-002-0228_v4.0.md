@@ -8,7 +8,7 @@ aliases:
   - "UPF-Death-CVD-Obesity-Diabetes"
   - "Lane-2024-BMJ"
 source-inbox: "[[INBOX-Article-43-UPF-Health-Risks]]"
-source-litnote: "[["INBOX-Article-43-UPF-Health-Risks"]]"
+source-litnote: "[[INBOX-Article-43-UPF-Health-Risks]]"
 authors: "Lane MM, Gamage E, Du S, et al."
 year: "2024"
 journal: "BMJ"

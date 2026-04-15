@@ -5,7 +5,7 @@ title: "Elevated Uric Acid: Fructose, Alcohol & Processed Foods (Chi 2024)"
 aliases:
   - L-002-0175
 source-inbox: "[[INBOX-Article-17-Uric-Acid]]"
-source-litnote: "[["INBOX-Article-17-Uric-Acid"]]"
+source-litnote: "[[INBOX-Article-17-Uric-Acid]]"
 authors: "Chi X, Cen Y, Yang B, et al."
 year: "2024"
 journal: "International Journal of Food Sciences and Nutrition"

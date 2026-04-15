@@ -6,7 +6,7 @@ aliases:
   - "L-002-0215"
   - "Pediatric-Obesity-Historic-Reversal"
 source-inbox: "[[INBOX-Article-33-Pediatric-Obesity]]"
-source-litnote: "[["INBOX-Article-33-Pediatric-Obesity"]]"
+source-litnote: "[[INBOX-Article-33-Pediatric-Obesity]]"
 authors: "UNICEF"
 year: "2025"
 journal: "UNICEF Child Nutrition Report"

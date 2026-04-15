@@ -14,7 +14,7 @@ tags:
 parent-moc: "[[MOC-Mitochondrial-Function]]"
 status: complete
 source-inbox: "[[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]"
-source-litnote: "[["CGPT_0318_Mitochondrial_Structure_CGPT-0318"]]"
+source-litnote: "[[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]"
 ---
 
 

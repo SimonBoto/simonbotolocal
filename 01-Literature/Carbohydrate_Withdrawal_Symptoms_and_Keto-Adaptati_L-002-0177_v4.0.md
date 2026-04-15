@@ -5,7 +5,7 @@ title: "Carbohydrate Withdrawal Symptoms and Keto-Adaptation Timeline (Harvey 20
 aliases:
   - L-002-0177
 source-inbox: "[[INBOX-Article-18-Carb-Withdrawal]]"
-source-litnote: "[["INBOX-Article-18-Carb-Withdrawal"]]"
+source-litnote: "[[INBOX-Article-18-Carb-Withdrawal]]"
 authors: "Harvey CJDC, Schofield GM, Zinn C, Thornley S, et al."
 year: "2019"
 journal: "Nutrition"
@@ -88,7 +88,6 @@ Carbohydrate restriction produces transient withdrawal symptoms (fatigue, irrita
 - [x] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
 - [ ] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

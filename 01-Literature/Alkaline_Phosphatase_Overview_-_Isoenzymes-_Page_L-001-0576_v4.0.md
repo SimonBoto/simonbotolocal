@@ -19,7 +19,7 @@ parent-moc: "[[MOC-Biomarkers]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0345_Alkaline_Phosphatase_Overview_CGPT-0345]]"
-source-litnote: "[["CGPT_0345_Alkaline_Phosphatase_Overview_CGPT-0345"]]"
+source-litnote: "[[CGPT_0345_Alkaline_Phosphatase_Overview_CGPT-0345]]"
 zettel-count: 6
 reference-count: 0
 tags:
@@ -205,7 +205,6 @@ ALP interpretation: Mild elevation (common), Moderate (investigate), Marked (sig
 - [x] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
 - [x] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

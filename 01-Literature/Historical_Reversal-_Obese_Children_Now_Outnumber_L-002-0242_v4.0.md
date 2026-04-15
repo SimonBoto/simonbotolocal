@@ -8,7 +8,7 @@ aliases:
   - "Obese-Children-Outnumber-Underweight"
   - "UNICEF-Childhood-Obesity"
 source-inbox: "[[INBOX-Article-54-Obese-Children]]"
-source-litnote: "[["INBOX-Article-54-Obese-Children"]]"
+source-litnote: "[[INBOX-Article-54-Obese-Children]]"
 authors: "UNICEF"
 year: "2025"
 journal: "UNICEF Global Report"

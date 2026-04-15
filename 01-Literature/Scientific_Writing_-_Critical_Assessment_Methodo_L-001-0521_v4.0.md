@@ -30,7 +30,7 @@ parent-moc: "[[MOC-Research-Methods]]"
 parent-index: "[[01-Literature]]"
 extraction-date: 2026-03-06
 source-inbox: "[[00-Inbox]]"
-source-litnote: "[["00-Inbox"]]"
+source-litnote: "[[00-Inbox]]"
 zettel-count: 0
 reference-count: 0
 source-origin: chatgpt-archive

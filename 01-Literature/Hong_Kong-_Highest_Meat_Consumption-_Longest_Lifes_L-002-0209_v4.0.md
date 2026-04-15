@@ -6,7 +6,7 @@ aliases:
   - "L-002-0209"
   - "Hong-Kong-Meat-Longevity"
 source-inbox: "[[INBOX-Article-28-Hong-Kong]]"
-source-litnote: "[["INBOX-Article-28-Hong-Kong"]]"
+source-litnote: "[[INBOX-Article-28-Hong-Kong]]"
 authors: "WHO, FAO, Hong Kong Census and Statistics Department"
 year: "2020-2024"
 journal: "WHO Life Expectancy Reports, FAO Food Balance Sheets"

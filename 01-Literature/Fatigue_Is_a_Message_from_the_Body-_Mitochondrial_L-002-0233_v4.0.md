@@ -8,7 +8,7 @@ aliases:
   - "Fatigue-Mitochondrial-Message"
   - "Mitochondrial-Dysfunction"
 source-inbox: "[[INBOX-Article-46-Fatigue-Mitochondrial]]"
-source-litnote: "[["INBOX-Article-46-Fatigue-Mitochondrial"]]"
+source-litnote: "[[INBOX-Article-46-Fatigue-Mitochondrial]]"
 authors: "Various"
 year: "2010-2025"
 journal: "Various"

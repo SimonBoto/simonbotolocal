@@ -8,7 +8,7 @@ aliases:
   - "Stopping-Sugar-Carbs"
   - "Low-Carb-Metabolic"
 source-inbox: "[[INBOX-Article-37-Stopping-Sugar-Carbs]]"
-source-litnote: "[["INBOX-Article-37-Stopping-Sugar-Carbs"]]"
+source-litnote: "[[INBOX-Article-37-Stopping-Sugar-Carbs]]"
 authors: "Teicholz N, et al.; Dehghan M, et al.; Harvey CJC, et al."
 year: "2017-2025"
 journal: "Nutrients; Lancet; Nutrition"

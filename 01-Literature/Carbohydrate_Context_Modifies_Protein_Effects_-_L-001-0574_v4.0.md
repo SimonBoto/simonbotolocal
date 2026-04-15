@@ -19,7 +19,7 @@ parent-moc: "[[MOC-Kidney-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]"
-source-litnote: "[["CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370"]]"
+source-litnote: "[[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]"
 zettel-count: 6
 reference-count: 0
 tags:
@@ -204,7 +204,6 @@ Clinical decisions based on carb context → Different protein recommendations
 - [x] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
 - [x] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

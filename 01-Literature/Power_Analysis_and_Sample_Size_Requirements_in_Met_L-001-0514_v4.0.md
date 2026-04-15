@@ -21,7 +21,7 @@ parent-moc: "[[MOC-Methodology]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-02"
 source-inbox: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
-source-litnote: "[["CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328"]]"
+source-litnote: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
 zettel-count: 3
 reference-count: 0
 reviewed_by: "FORG"

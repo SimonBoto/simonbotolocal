@@ -6,7 +6,7 @@ aliases:
   - "L-002-0201"
   - "Artificial-Sweeteners-Body-Fat"
 source-inbox: "[[INBOX-Article-20-Artificial-Sweeteners]]"
-source-litnote: "[["INBOX-Article-20-Artificial-Sweeteners"]]"
+source-litnote: "[[INBOX-Article-20-Artificial-Sweeteners]]"
 authors: "Steffen BT, Jacobs DR, Yi D, et al."
 year: "2023"
 journal: "International Journal of Obesity"
@@ -89,7 +89,6 @@ Long-term artificial sweetener consumption (aspartame, saccharin) is associated 
 - [x] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
 - [ ] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

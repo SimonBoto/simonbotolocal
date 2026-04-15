@@ -20,7 +20,7 @@ reviewed_by: "FORG"
 updated: "2026-04-09"
 tags: [lit-note, adipate, dicarboxylic-acids, beta-oxidation, krebs-cycle, succinyl-coa, cGPT-0586]
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
-source-litnote: "[["CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586"]]"
+source-litnote: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: complete
 parent-moc: "[[MOC-Mitochondrial-Function]]"
 parent-index: "[[01-Literature-Index]]"
@@ -176,7 +176,6 @@ This literature note was extracted from: [[CGPT_0586_Fatty_Acid_Metabolism_Pathw
 - [ ] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
 - [ ] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

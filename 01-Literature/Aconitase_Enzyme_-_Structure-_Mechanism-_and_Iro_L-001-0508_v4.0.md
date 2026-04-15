@@ -22,7 +22,7 @@ parent-moc: "[[MOC-Iron-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]"
-source-litnote: "[["CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393"]]"
+source-litnote: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]"
 zettel-count: 4
 reference-count: 0
 reviewed_by: "RON"
@@ -189,7 +189,6 @@ This literature note was extracted from: [[CGPT_0393_Mitochondrial_Health_Interv
 - [ ] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
 - [ ] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

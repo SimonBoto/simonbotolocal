@@ -18,7 +18,7 @@ parent-moc: "[[MOC-Vitamin-K2]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
-source-litnote: "[["CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272"]]"
+source-litnote: "[[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"

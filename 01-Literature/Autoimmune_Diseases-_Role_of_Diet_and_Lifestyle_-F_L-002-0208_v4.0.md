@@ -6,7 +6,7 @@ aliases:
   - "L-002-0208"
   - "Autoimmune-Diet-Lifestyle"
 source-inbox: "[[INBOX-Article-27-Autoimmune]]"
-source-litnote: "[["INBOX-Article-27-Autoimmune"]]"
+source-litnote: "[[INBOX-Article-27-Autoimmune]]"
 authors: "Fasano A, et al.; AIP trial investigators"
 year: "2012-2024"
 journal: "Clin Rev Allergy Immunol, Various"
@@ -88,7 +88,6 @@ tags:
 - [x] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
 - [ ] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

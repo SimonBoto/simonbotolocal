@@ -6,7 +6,7 @@ aliases:
   - "L-002-0213"
   - "Lifestyle-Factors-Modifiable"
 source-inbox: "[[INBOX-Article-32-Modifiable]]"
-source-litnote: "[["INBOX-Article-32-Modifiable"]]"
+source-litnote: "[[INBOX-Article-32-Modifiable]]"
 authors: "CDC, WHO, Lifestyle Medicine literature, Twin study researchers"
 year: "2000-2024"
 journal: "JAMA, Lancet, CDC Chronic Disease Reports, Twin Research"

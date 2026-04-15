@@ -19,7 +19,7 @@ parent-moc: "[[MOC-Metabolomics-Training]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
-source-litnote: "[["CGPT_0022_Metabolomics_training_role_CGPT-0022"]]"
+source-litnote: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
 zettel-count: 2
 reference-count: 0
 extracted_by: FORG
@@ -173,7 +173,6 @@ MOC-Metabolomics-Training → Domain-Specific MOCs → Clinical Application
 - [x] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
 - [x] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

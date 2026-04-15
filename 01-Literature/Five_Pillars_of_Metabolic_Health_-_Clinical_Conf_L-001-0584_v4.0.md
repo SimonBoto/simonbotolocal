@@ -19,7 +19,7 @@ parent-moc: "[[MOC-Metabolic-Health]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"
 source-inbox: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_CGPT-0124]]"
-source-litnote: "[["CGPT_0124_Profound_Truths_Revolutionizing_Health_CGPT-0124"]]"
+source-litnote: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_CGPT-0124]]"
 zettel-count: 9
 reference-count: 0
 extracted_by: FORG

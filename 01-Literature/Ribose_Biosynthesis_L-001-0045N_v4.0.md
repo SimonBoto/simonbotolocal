@@ -19,7 +19,7 @@ parent-moc: "[[MOC-Glycolysis-PPP]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-09"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
-source-litnote: "[["CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445"]]"
+source-litnote: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
 zettel-count: 6
 reference-count: 0
 tags:

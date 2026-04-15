@@ -6,7 +6,7 @@ aliases:
   - "L-002-0206"
   - "Meat-Alzheimer-Genetic-Risk"
 source-inbox: "[[INBOX-Article-25-Meat-Alzheimer]]"
-source-litnote: "[["INBOX-Article-25-Meat-Alzheimer"]]"
+source-litnote: "[[INBOX-Article-25-Meat-Alzheimer]]"
 authors: "Norgren J, et al."
 year: "2026"
 journal: "(pending publication)"

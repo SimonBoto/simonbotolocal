@@ -5,7 +5,7 @@ title: "Lifestyle and Diet as Primary Disease Determinants (NEJM 2025)"
 aliases:
   - L-002-0178
 source-inbox: "[[INBOX-Article-8-Lifestyle-Determinants]]"
-source-litnote: "[["INBOX-Article-8-Lifestyle-Determinants"]]"
+source-litnote: "[[INBOX-Article-8-Lifestyle-Determinants]]"
 authors: "Global Cardiovascular Risk Consortium"
 year: "2025"
 journal: "New England Journal of Medicine"

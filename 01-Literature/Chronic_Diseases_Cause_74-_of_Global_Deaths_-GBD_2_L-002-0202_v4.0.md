@@ -6,7 +6,7 @@ aliases:
   - "L-002-0202"
   - "Chronic-Disease-74pct-Deaths"
 source-inbox: "[[INBOX-Article-21-Chronic-Disease]]"
-source-litnote: "[["INBOX-Article-21-Chronic-Disease"]]"
+source-litnote: "[[INBOX-Article-21-Chronic-Disease]]"
 authors: "Global Burden of Disease Collaborative Network"
 year: "2019"
 journal: "The Lancet (GBD 2019)"
@@ -87,7 +87,6 @@ tags:
 - [x] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
 - [ ] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

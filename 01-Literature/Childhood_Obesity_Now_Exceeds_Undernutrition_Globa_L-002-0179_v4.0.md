@@ -5,7 +5,7 @@ title: "Childhood Obesity Now Exceeds Undernutrition Globally (Kavanagh 2026)"
 aliases:
   - L-002-0179
 source-inbox: "[[INBOX-Article-10-Childhood-Obesity]]"
-source-litnote: "[["INBOX-Article-10-Childhood-Obesity"]]"
+source-litnote: "[[INBOX-Article-10-Childhood-Obesity]]"
 authors: "Kavanagh ME, Chen ZH, Tamana SK, et al."
 year: "2026"
 journal: "JAMA Network Open"
@@ -85,7 +85,6 @@ For the **first time in human history**, obese children now outnumber undernouri
 - [x] Core claim articulated — One-sentence core claim exists?
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
 - [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
-- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
 - [ ] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

@@ -8,7 +8,7 @@ aliases:
   - "Personalized-Vitamin-D"
   - "TARGET-D"
 source-inbox: "[[INBOX-Article-34-Personalized-Vitamin-D]]"
-source-litnote: "[["INBOX-Article-34-Personalized-Vitamin-D"]]"
+source-litnote: "[[INBOX-Article-34-Personalized-Vitamin-D]]"
 authors: "May HT, et al."
 year: "2025"
 journal: "American Heart Association Scientific Sessions (Conference Abstract)"

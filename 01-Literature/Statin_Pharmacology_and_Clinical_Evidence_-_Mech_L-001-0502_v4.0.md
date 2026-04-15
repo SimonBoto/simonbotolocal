@@ -20,7 +20,7 @@ parent-moc: "[[MOC-Cholesterol-Lipid]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]"
-source-litnote: "[["CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337"]]"
+source-litnote: "[[CGPT_0337_Cholesterol_Study_Reassessment_Overview_CGPT-0337]]"
 zettel-count: 7
 reference-count: 0
 reviewed_by: "FORG"

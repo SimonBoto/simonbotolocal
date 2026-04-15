@@ -6,7 +6,7 @@ aliases:
   - "L-002-0210"
   - "Not-All-Calories-Equal"
 source-inbox: "[[INBOX-Article-29-Calories]]"
-source-litnote: "[["INBOX-Article-29-Calories"]]"
+source-litnote: "[[INBOX-Article-29-Calories]]"
 authors: "Ebbeling CB, Ludwig DS, et al."
 year: "2018"
 journal: "BMJ"

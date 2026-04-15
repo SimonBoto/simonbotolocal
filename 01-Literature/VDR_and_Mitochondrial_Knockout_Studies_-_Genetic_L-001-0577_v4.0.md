@@ -19,7 +19,7 @@ parent-moc: "[[MOC-Genetics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]"
-source-litnote: "[["CGPT_0311_Self_Education_Program_Plan_CGPT-0311"]]"
+source-litnote: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]"
 zettel-count: 6
 reference-count: 0
 tags:

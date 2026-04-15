@@ -8,7 +8,7 @@ aliases:
   - "Minimal-Exercise-Dose"
   - "Exercise-Mortality"
 source-inbox: "[[INBOX-Article-35-Minimal-Exercise]]"
-source-litnote: "[["INBOX-Article-35-Minimal-Exercise"]]"
+source-litnote: "[[INBOX-Article-35-Minimal-Exercise]]"
 authors: "Ahmadi MN, Clare PJ, Katzmarzyk PT, Lee IM, Stamatakis E"
 year: "2022"
 journal: "European Heart Journal"

@@ -5,7 +5,7 @@ title: "Personalized Nutrition Halves Heart Attack Risk (Bermingham 2024)"
 aliases:
   - "L-002-0180"
 source-inbox: "[[INBOX-Article-19-Personalized-Nutrition]]"
-source-litnote: "[["INBOX-Article-19-Personalized-Nutrition"]]"
+source-litnote: "[[INBOX-Article-19-Personalized-Nutrition]]"
 authors: "Bermingham KM, Linenberg I, Polidori L, Asnicar F, Arrè A, Wolf J, et al."
 year: "2024"
 journal: "Nature Medicine"

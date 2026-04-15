@@ -6,7 +6,7 @@ aliases:
   - "L-002-0204"
   - "Industry-Tactics-Tobacco-Sugar"
 source-inbox: "[[INBOX-Article-23-Industry-Tactics]]"
-source-litnote: "[["INBOX-Article-23-Industry-Tactics"]]"
+source-litnote: "[[INBOX-Article-23-Industry-Tactics]]"
 authors: "Kearns CE, Schmidt LA, Glantz SA"
 year: "2016"
 journal: "JAMA Internal Medicine"

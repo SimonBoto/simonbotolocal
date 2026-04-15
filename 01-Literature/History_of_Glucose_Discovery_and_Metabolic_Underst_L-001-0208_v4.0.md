@@ -20,7 +20,7 @@ parent-moc: "[[MOC-Glucose-History]]"
 parent-index: "[[01-Literature 1]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]"
-source-litnote: "[["CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471"]]"
+source-litnote: "[[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]"
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"

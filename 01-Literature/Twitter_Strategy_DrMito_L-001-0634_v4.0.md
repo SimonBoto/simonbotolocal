@@ -15,7 +15,7 @@ tags:
 parent-moc: "[[MOC-Social-Media]]"
 status: complete
 source-inbox: "[[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]"
-source-litnote: "[["CGPT_0318_Mitochondrial_Structure_CGPT-0318"]]"
+source-litnote: "[[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]"
 ---
 
 

@@ -19,7 +19,7 @@ parent-moc: "[[MOC-Research-Methodology]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"
 source-inbox: "[[CGPT_0621_Publishing_Meta_Analysis_Guidelines_CGPT-0621]]"
-source-litnote: "[["CGPT_0621_Publishing_Meta_Analysis_Guidelines_CGPT-0621"]]"
+source-litnote: "[[CGPT_0621_Publishing_Meta_Analysis_Guidelines_CGPT-0621]]"
 zettel-count: 5
 reference-count: 0
 extracted_by: FORG

@@ -8,7 +8,7 @@ aliases:
   - "Walking-Mortality-Reduction"
   - "8000-Steps-JAMA"
 source-inbox: "[[INBOX-Article-56-Walking-Mortality]]"
-source-litnote: "[["INBOX-Article-56-Walking-Mortality"]]"
+source-litnote: "[[INBOX-Article-56-Walking-Mortality]]"
 authors: "Paluch AE, et al."
 year: "2023"
 journal: "JAMA Network Open"

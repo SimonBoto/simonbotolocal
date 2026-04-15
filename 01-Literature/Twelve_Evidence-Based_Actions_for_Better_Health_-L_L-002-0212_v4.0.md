@@ -6,7 +6,7 @@ aliases:
   - "L-002-0212"
   - "Twelve-Actions-Better-Health"
 source-inbox: "[[INBOX-Article-31-Twelve-Actions]]"
-source-litnote: "[["INBOX-Article-31-Twelve-Actions"]]"
+source-litnote: "[[INBOX-Article-31-Twelve-Actions]]"
 authors: "Lifestyle Medicine literature, Blue Zones research, Longevity studies"
 year: "2010-2024"
 journal: "American Journal of Lifestyle Medicine, Circulation, PLoS Medicine"

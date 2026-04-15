@@ -5,7 +5,7 @@ title: "Inflammation Increases CVD Risk via hsCRP (Kurt 2025)"
 aliases:
   - "L-002-0219"
 source-inbox: "[[INBOX-Article-15-Inflammation-CRP]]"
-source-litnote: "[["INBOX-Article-15-Inflammation-CRP"]]"
+source-litnote: "[[INBOX-Article-15-Inflammation-CRP]]"
 authors: "Kurt B, Reugels M, Schneider KM, et al."
 year: "2025"
 journal: "European Heart Journal"

@@ -8,7 +8,7 @@ aliases:
   - "Not-All-Calories-Equal-Harvard"
   - "Calories-Not-Equal"
 source-inbox: "[[INBOX-Article-50-Not-All-Calories]]"
-source-litnote: "[["INBOX-Article-50-Not-All-Calories"]]"
+source-litnote: "[[INBOX-Article-50-Not-All-Calories]]"
 authors: "Ebbeling CB, Feldman HA, Klein GL, et al."
 year: "2018"
 journal: "BMJ"

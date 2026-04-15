@@ -20,7 +20,7 @@ reviewed_by: "FORG"
 updated: "2026-04-09"
 tags: [lit-note, dicarboxylic-aciduria, urine-organic-acid, fatty-acid-oxidation-disorder, clinical-metabolomics, diagnostic-marker, cGPT-0586]
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
-source-litnote: "[["CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586"]]"
+source-litnote: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: complete
 parent-moc: "[[MOC-Clinical-Metabolomics]]"
 parent-index: "[[01-Literature-Index]]"

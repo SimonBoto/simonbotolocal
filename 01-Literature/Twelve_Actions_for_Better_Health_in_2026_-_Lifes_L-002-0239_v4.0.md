@@ -8,7 +8,7 @@ aliases:
   - "Twelve-Actions-Better-Health-2026"
   - "12-Actions-Health"
 source-inbox: "[[INBOX-Article-52-Twelve-Actions]]"
-source-litnote: "[["INBOX-Article-52-Twelve-Actions"]]"
+source-litnote: "[[INBOX-Article-52-Twelve-Actions]]"
 authors: "Various"
 year: "2026"
 journal: "Lifestyle Medicine / Clinical Synthesis"

@@ -19,7 +19,7 @@ parent-moc: "[[MOC-Ethics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"
 source-inbox: "[[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]"
-source-litnote: "[["CGPT_0131_Medical_Ethics_Assistance_CGPT-0131"]]"
+source-litnote: "[[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]"
 zettel-count: 5
 reference-count: 0
 extracted_by: FORG

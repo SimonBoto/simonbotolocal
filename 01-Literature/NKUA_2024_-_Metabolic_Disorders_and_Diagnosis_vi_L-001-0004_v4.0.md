@@ -277,7 +277,6 @@ parent-index: [[01-Literature 1]]
 - [ ] Core claim articulated — One-sentence core claim exists? → No core claim sentence in file
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...
 - [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**? → Uses different header structure
-- [ ] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs? → Some links missing closing ]] and have .md extension
 - [x] Snowball references documented — ## Related References exists?
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

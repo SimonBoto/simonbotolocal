@@ -21,7 +21,7 @@ parent-moc: "[[MOC-mTOR-Pathway]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-02"
 source-inbox: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]"
-source-litnote: "[["CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189"]]"
+source-litnote: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]"
 zettel-count: 5
 reference-count: 0
 reviewed_by: "FORG"

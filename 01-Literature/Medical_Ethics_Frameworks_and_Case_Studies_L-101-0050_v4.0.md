@@ -18,7 +18,7 @@ aliases:
 domain: 101
 tags: [lit-note, medical-ethics, research-ethics, emanuel-framework, irb, informed-consent, cGPT-0131]
 source-inbox: "[[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]"
-source-litnote: "[["CGPT_0131_Medical_Ethics_Assistance_CGPT-0131"]]"
+source-litnote: "[[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]"
 status: complete
 reviewed_by: "FORG"
 parent-moc: "[[MOC-Research-Ethics]]"

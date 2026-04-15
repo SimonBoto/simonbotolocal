@@ -8,7 +8,7 @@ aliases:
   - "Five-Risk-Factors-14-Years"
   - "NEJM-2025-Longevity"
 source-inbox: "[[INBOX-Article-45-Five-Risk-Factors]]"
-source-litnote: "[["INBOX-Article-45-Five-Risk-Factors"]]"
+source-litnote: "[[INBOX-Article-45-Five-Risk-Factors]]"
 authors: "Global Cardiovascular Risk Consortium (Mousavi SM, Gu X, Imamura F, et al.)"
 year: "2025"
 journal: "New England Journal of Medicine"

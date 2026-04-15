@@ -8,7 +8,7 @@ aliases:
   - "CVD-Risk-Factors-Ranking"
   - "LDL-Number-10"
 source-inbox: "[[INBOX-Article-38-CVD-Risk-Ranking]]"
-source-litnote: "[["INBOX-Article-38-CVD-Risk-Ranking"]]"
+source-litnote: "[[INBOX-Article-38-CVD-Risk-Ranking]]"
 authors: "Dugani SB, et al.; Ikezaki H, et al.; Diamond DM, et al."
 year: "2021-2022"
 journal: "JAMA Cardiology; JAHA; Curr Opin Endocrinol"

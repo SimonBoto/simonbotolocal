@@ -19,7 +19,7 @@ parent-moc: "[[MOC-Research-Methods]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"
 source-inbox: "[[CGPT_0551_Manuscript_Review_Critical_Concerns_CGPT-0551]]"
-source-litnote: "[["CGPT_0551_Manuscript_Review_Critical_Concerns_CGPT-0551"]]"
+source-litnote: "[[CGPT_0551_Manuscript_Review_Critical_Concerns_CGPT-0551]]"
 zettel-count: 6
 reference-count: 0
 extracted_by: FORG

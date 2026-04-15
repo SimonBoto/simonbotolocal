@@ -8,7 +8,7 @@ aliases:
   - "Hong-Kong-Meat-Longevity"
   - "Meat-Longevity-Paradox"
 source-inbox: "[[INBOX-Article-49-Hong-Kong-Meat]]"
-source-litnote: "[["INBOX-Article-49-Hong-Kong-Meat"]]"
+source-litnote: "[[INBOX-Article-49-Hong-Kong-Meat]]"
 authors: "Health & Protection; AHDB; Our World in Data"
 year: "2025"
 journal: "Health & Protection; Various data sources"

@@ -6,7 +6,7 @@ aliases:
   - "L-002-0211"
   - "Fried-Potatoes-Seed-Oils-Diabetes"
 source-inbox: "[[INBOX-Article-30-Fried-Potatoes]]"
-source-litnote: "[["INBOX-Article-30-Fried-Potatoes"]]"
+source-litnote: "[[INBOX-Article-30-Fried-Potatoes]]"
 authors: "Multiple studies — frying oil oxidation, AGEs, diabetes epidemiology"
 year: "2015-2024"
 journal: "American Journal of Clinical Nutrition, Diabetes Care"

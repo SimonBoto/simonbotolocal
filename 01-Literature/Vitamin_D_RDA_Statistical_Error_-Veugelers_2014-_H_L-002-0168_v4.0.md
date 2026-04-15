@@ -6,7 +6,7 @@ aliases:
   - "L-002-0168"
   - "Vitamin-D-RDA-Error"
 source-inbox: "[[INBOX-Article-2-Vitamin-D]]"
-source-litnote: "[["INBOX-Article-2-Vitamin-D"]]"
+source-litnote: "[[INBOX-Article-2-Vitamin-D]]"
 authors: "Veugelers PJ, Ekwaru JP; Heaney RP et al."
 year: "2014, 2015"
 journal: "Nutrients"

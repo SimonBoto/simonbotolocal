@@ -5,7 +5,7 @@ title: "High Glucose vs High Insulin: Insulin Matters More for CVD (Zhao 2019)"
 aliases:
   - L-002-0182
 source-inbox: "[[INBOX-Article-13-Insulin-Glucose]]"
-source-litnote: "[["INBOX-Article-13-Insulin-Glucose"]]"
+source-litnote: "[[INBOX-Article-13-Insulin-Glucose]]"
 authors: "Zhao Y, et al."
 year: "2019"
 journal: "International Journal of Cardiology"

@@ -5,7 +5,7 @@ title: "15-20 Min Exercise Weekly Reduces Mortality 16-40% (Polo-López 2024)"
 aliases:
   - L-002-0174
 source-inbox: "[[INBOX-Article-16-Minimal-Exercise]]"
-source-litnote: "[["INBOX-Article-16-Minimal-Exercise"]]"
+source-litnote: "[[INBOX-Article-16-Minimal-Exercise]]"
 authors: "Polo-López A, Calatayud J, López-Bueno L, et al."
 year: "2024"
 journal: "Progress in Cardiovascular Diseases"
@@ -89,7 +89,6 @@ Even **15-20 minutes of vigorous exercise per week** is associated with **16-40%
 - [x] Core claim articulated — One-sentence core claim exists
 - [x] Core concepts numbered — Concepts numbered 1, 2, 3...
 - [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**
-- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs
 - [x] Snowball references documented — ## Related References exists
 - [x] QMD duplicate check completed — In vault (assume yes)
 - [ ] RON review pending — ALWAYS leave unchecked

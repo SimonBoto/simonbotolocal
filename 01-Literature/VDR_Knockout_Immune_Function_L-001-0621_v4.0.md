@@ -23,7 +23,7 @@ source-origin: legacy
 parent-moc: "[[MOC-Vitamin-D]]"
 extraction-date: 2026-03-08
 source-inbox: "[[00-Inbox]]"
-source-litnote: "[["00-Inbox"]]"
+source-litnote: "[[00-Inbox]]"
 zettel-count: 0
 reference-count: 0
 reviewed_by: "FORG"

@@ -8,7 +8,7 @@ aliases:
   - "Saturated-Fat-Stability"
   - "Oxidation-Resistance"
 source-inbox: "[[INBOX-Article-47-Saturated-Fat-Stability]]"
-source-litnote: "[["INBOX-Article-47-Saturated-Fat-Stability"]]"
+source-litnote: "[[INBOX-Article-47-Saturated-Fat-Stability]]"
 authors: "Yamada S, et al.; Valk R, et al.; Astrup A, et al."
 year: "2020-2025"
 journal: "JAMA; Eur J Prev Cardiol; JACC"
