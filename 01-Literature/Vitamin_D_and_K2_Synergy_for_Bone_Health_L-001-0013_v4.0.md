@@ -1,6 +1,6 @@
 ---
 uid: L-001-0013
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Lit — Vitamin D and K2 Synergy for Bone Health"
 aliases:
@@ -16,6 +16,7 @@ parent-moc: "[[MOC-Bone-Health]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
+source-litnote: "[["CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133"]]"
 reviewed_by: "FORG"
 created: "2026-03-01"
 updated: "2026-04-09"

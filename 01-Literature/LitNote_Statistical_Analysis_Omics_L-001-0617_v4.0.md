@@ -1,6 +1,6 @@
 ---
 uid: L-001-0617
-type: lit-note
+type: litnote
 title: "Lit — Statistical Analysis for Omics Research METHAP"
 aliases:
   - L-001-0617
@@ -18,6 +18,7 @@ parent-moc: "[[MOC-Statistics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 source-inbox: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475]]"
+source-litnote: "[["CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475"]]"
 zettel-count: 4
 reference-count: 1
 extracted_by: FORG

@@ -1,9 +1,12 @@
 ---
 uid: L-002-0207
-type: lit-note
+type: litnote
 title: "LDL Lowering Does Not Always Mean Greater Protection (Context-Dependent)"
-aliases: ["L-002-0207", "LDL-Lowering-Not-Always-Protection"]
+aliases:
+  - "L-002-0207"
+  - "LDL-Lowering-Not-Always-Protection"
 source-inbox: "[[INBOX-Article-26-LDL-Context]]"
+source-litnote: "[["INBOX-Article-26-LDL-Context"]]"
 authors: "IMPROVE-IT, PCSK9 Trial Investigators, CANTOS Group"
 year: "2015-2024"
 journal: "NEJM, Lancet, JACC"
@@ -11,7 +14,7 @@ doi: "(multiple)"
 pmid: "(multiple)"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
-status: active
+status: complete
 parent-moc: "[[MOC-Cholesterol-Quality]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0521
-type: lit-note
+type: litnote
 title: Scientific Writing — Critical Assessment Methodology for Study Evaluation
 authors: ChatGPT Analysis from CGPT-0328
 year: 2024
@@ -25,11 +25,12 @@ tags:
   - methodology
   - cgpt-0328
 source: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
-status: active
+status: complete
 parent-moc: "[[MOC-Research-Methods]]"
 parent-index: "[[01-Literature]]"
 extraction-date: 2026-03-06
 source-inbox: "[[00-Inbox]]"
+source-litnote: "[["00-Inbox"]]"
 zettel-count: 0
 reference-count: 0
 source-origin: chatgpt-archive

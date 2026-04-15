@@ -1,10 +1,14 @@
 ---
 uid: L-002-0235
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "Low-Carb vs Low-Fat for Weight Loss: 39 RCTs Show Low-Carb Superior (Meta-Analysis)"
-aliases: ["L-002-0235", "Low-Carb-vs-Low-Fat-39-RCTs", "Low-Carb-Superiority"]
+aliases:
+  - "L-002-0235"
+  - "Low-Carb-vs-Low-Fat-39-RCTs"
+  - "Low-Carb-Superiority"
 source-inbox: "[[INBOX-Article-48-Low-Carb-Low-Fat]]"
+source-litnote: "[["INBOX-Article-48-Low-Carb-Low-Fat"]]"
 authors: "Various"
 year: "2010-2025"
 journal: "Various"
@@ -12,7 +16,7 @@ doi: "(multiple)"
 pmid: "(multiple)"
 tier: "SILVER"
 relevance: "Medium — clinical biochemistry"
-status: active
+status: complete
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-05"

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0518
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Mevalonate Pathway Biochemistry — Enzymes, Cofactors, and Energy Requirements"
 authors: ChatGPT Analysis (CGPT-0391)
@@ -37,6 +37,7 @@ tags:
   - biochemistry
   - cGPT-0391
 source-inbox: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"
+source-litnote: "[["CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391"]]"
 
 # Mevalonate Pathway Biochemistry — Enzymes, Cofactors, and Energy Requirements
 

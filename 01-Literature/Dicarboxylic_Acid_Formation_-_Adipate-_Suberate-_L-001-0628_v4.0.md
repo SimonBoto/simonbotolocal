@@ -1,6 +1,6 @@
 ---
 uid: L-001-0628
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Dicarboxylic Acid Formation — Adipate, Suberate, Sebacate from Fatty Acids"
 authors: ChatGPT Analysis (CGPT-0586)
@@ -11,12 +11,17 @@ pmid: N/A
 pmcid: N/A
 tier: GOLD
 relevance: Critical — Primary PhD biomarker pathway for insulin resistance detection
-aliases: [L-001-0628, Adipate Formation, Dicarboxylic Acids, Omega-Oxidation]
+aliases:
+  - L-001-0628
+  - Adipate Formation
+  - Dicarboxylic Acids
+  - Omega-Oxidation
 domain: 101
 reviewed_by: "FORG"
 updated: "2026-04-09"
 tags: [lit-note, adipic-acid, suberic-acid, sebacic-acid, beta-oxidation, omega-oxidation, fatty-acids, phd-research, cGPT-0586]
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
+source-litnote: "[["CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586"]]"
 status: complete
 parent-moc: "[[MOC-PhD-Research]]"
 parent-index: "[[01-Literature-Index]]"

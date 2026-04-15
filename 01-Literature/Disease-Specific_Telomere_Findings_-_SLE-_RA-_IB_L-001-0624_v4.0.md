@@ -1,6 +1,6 @@
 ---
 uid: L-001-0624
-type: lit-note
+type: litnote
 title: Disease-Specific Telomere Findings — SLE, RA, IBD, Psoriasis
 authors: ChatGPT Analysis / Georgin-Lavialle et al.
 year: 2023
@@ -10,15 +10,20 @@ pmid: N/A
 pmcid: N/A
 tier: 2
 relevance: High — Clinical evidence across major autoimmune diseases
-aliases: [L-001-0624, SLE Telomeres, RA Telomeres, Autoimmune Telomere Studies]
+aliases:
+  - L-001-0624
+  - SLE Telomeres
+  - RA Telomeres
+  - Autoimmune Telomere Studies
 domain: 001
 tags: [litnote, sle, ra, ibd, psoriasis, telomeres, disease-specific]
 source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]]"
-status: active
+status: complete
 reviewed_by: "FORG"
 parent-moc: 
 extraction-date: 2026-03-08
 source-inbox: "[[00-Inbox]]"
+source-litnote: "[["00-Inbox"]]"
 zettel-count: 0
 reference-count: 0
 ---

@@ -1,10 +1,14 @@
 ---
 uid: L-002-0225
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "Lipoprotein(a) — Mechanism, Risk Levels, and Management (Kamstrup 2009, Lp(a) Literature)"
-aliases: ["L-002-0225", "Lpa-Mechanism-Management", "Lipoprotein-a"]
+aliases:
+  - "L-002-0225"
+  - "Lpa-Mechanism-Management"
+  - "Lipoprotein-a"
 source-inbox: "[[INBOX-Article-40-Lpa-Mechanism]]"
+source-litnote: "[["INBOX-Article-40-Lpa-Mechanism"]]"
 authors: "Kamstrup PR, et al.; Various"
 year: "2009-2025"
 journal: "JAMA; Various"
@@ -12,7 +16,7 @@ doi: "(multiple)"
 pmid: "(multiple)"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
-status: active
+status: complete
 parent-moc: "[[MOC-Cholesterol-Lipid]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-05"

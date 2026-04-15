@@ -1,6 +1,6 @@
 ---
 uid: L-001-0587
-type: lit-note
+type: litnote
 title: "Lit — Metabolic Biomarkers Briefing — Vitamin D, Omega-3, Inflammation, Glycation"
 aliases:
   - L-001-0587
@@ -19,6 +19,7 @@ parent-moc: "[[MOC-Metabolic-Health]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"
 source-inbox: "[[CGPT_0384_Biomarkers_Briefing_CGPT-0384]]"
+source-litnote: "[["CGPT_0384_Biomarkers_Briefing_CGPT-0384"]]"
 zettel-count: 5
 reference-count: 0
 extracted_by: FORG

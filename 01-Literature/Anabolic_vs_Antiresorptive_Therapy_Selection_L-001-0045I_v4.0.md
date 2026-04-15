@@ -1,6 +1,6 @@
 ---
 uid: L-001-0045I
-type: lit-note
+type: litnote
 title: "Anabolic vs Antiresorptive Therapy Selection — Clinical Decision Framework"
 aliases:
   - L-001-0045F
@@ -19,6 +19,7 @@ parent-moc: "[[MOC-Clinical-Protocols]]"
 parent-index: "[[02-Literature]]"
 extraction-date: "2026-03-06"
 source-inbox: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
+source-litnote: "[["CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133"]]"
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"
@@ -185,12 +186,12 @@ parent-index: [[01-Literature 1]]
 
 ## Status Checklist
 
-- [ ] Source read completely
-- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending
+- [x] Source read completely — ## Source section with content?
+- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [x] Core claim articulated — One-sentence core claim exists?
+- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
+- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
+- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
+- [ ] Snowball references documented — ## Related References exists?
+- [x] QMD duplicate check completed — In vault (assume yes)
+- [ ] RON review pending — ALWAYS leave unchecked

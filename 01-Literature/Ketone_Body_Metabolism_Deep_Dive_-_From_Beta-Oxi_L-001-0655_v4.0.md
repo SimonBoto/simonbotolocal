@@ -1,6 +1,6 @@
 ---
 uid: L-001-0655
-type: lit-note
+type: litnote
 title: "Ketone Body Metabolism Deep Dive — From Beta-Oxidation to ATP Yield_L-001-0655"
 aliases:
   - L-001-0655
@@ -23,6 +23,7 @@ parent-moc: "[[MOC-Ketogenesis]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-11"
 source-inbox: "[[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]"
+source-litnote: "[["CGPT_0647_ATP_Pathways_Overview_CGPT-0647"]]"
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"

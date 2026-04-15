@@ -1,6 +1,6 @@
 ---
 uid: L-001-0045D
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Triose Metabolism and Glycolysis: The Ancient Energy Pathway"
 aliases:
@@ -15,11 +15,12 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: High — Trioses, glycolytic steps, evolutionary ancient pathway, pyruvate crossroads
-status: active
+status: complete
 parent-moc: "[[MOC-Glycolysis-PPP]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: 2026-03-04
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-litnote: "[["CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445"]]"
 zettel-count: 5
 reference-count: 0
 reviewed_by: "FORG"

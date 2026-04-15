@@ -1,6 +1,6 @@
 ---
 uid: L-001-0630
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Decarboxylation Enzymes and Vitamin Cofactors"
 authors: ChatGPT Analysis (CGPT-0586)
@@ -11,12 +11,18 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: High — Connects B-vitamins to fatty acid and energy metabolism
-aliases: [L-001-0630, Decarboxylases, B-Vitamin Cofactors, TPP, PLP]
+aliases:
+  - L-001-0630
+  - Decarboxylases
+  - B-Vitamin Cofactors
+  - TPP
+  - PLP
 domain: 001
 reviewed_by: "FORG"
 updated: "2026-04-09"
 tags: [lit-note, decarboxylases, b-vitamins, tpp, plp, enzyme-cofactors, cGPT-0586]
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
+source-litnote: "[["CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586"]]"
 status: complete
 parent-moc: "[[MOC-B-Vitamins]]"
 parent-index: "[[01-Literature-Index]]"

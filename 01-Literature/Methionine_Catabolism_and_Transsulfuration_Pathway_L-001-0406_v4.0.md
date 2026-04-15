@@ -1,6 +1,6 @@
 ---
 uid: L-001-0406
-type: lit-note
+type: litnote
 title: "Methionine Catabolism and Transsulfuration Pathway"
 aliases:
   - L-001-0406
@@ -16,11 +16,12 @@ pmid: N/A
 pmcid: N/A
 tier: GOLD
 relevance: High — Complete methionine degradation, cysteine synthesis, glutathione production
-status: active
+status: complete
 parent-moc: "[[MOC-Methylation-One-Carbon]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-litnote: "[["CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445"]]"
 zettel-count: 6
 reference-count: 0
 reviewed_by: "FORG"

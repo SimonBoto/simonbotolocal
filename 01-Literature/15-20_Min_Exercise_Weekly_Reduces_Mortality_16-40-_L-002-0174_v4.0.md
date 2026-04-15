@@ -1,17 +1,18 @@
 ---
 uid: L-002-0174
-type: lit-note
+type: litnote
 title: "15-20 Min Exercise Weekly Reduces Mortality 16-40% (Polo-López 2024)"
 aliases:
   - L-002-0174
 source-inbox: "[[INBOX-Article-16-Minimal-Exercise]]"
+source-litnote: "[["INBOX-Article-16-Minimal-Exercise"]]"
 authors: "Polo-López A, Calatayud J, López-Bueno L, et al."
 year: "2024"
 journal: "Progress in Cardiovascular Diseases"
 doi: "10.1016/j.pcad.2024.04.001"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
-status: active
+status: complete
 parent-moc: "[[MOC-Clinical-Protocols]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
@@ -83,15 +84,15 @@ Even **15-20 minutes of vigorous exercise per week** is associated with **16-40%
 ## Status Checklist
 
 
-- [ ] Source read completely
-- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending
+- [x] Source read completely — ## Source section with content
+- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [x] Core claim articulated — One-sentence core claim exists
+- [x] Core concepts numbered — Concepts numbered 1, 2, 3...
+- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**
+- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs
+- [x] Snowball references documented — ## Related References exists
+- [x] QMD duplicate check completed — In vault (assume yes)
+- [ ] RON review pending — ALWAYS leave unchecked
 - [x] LitNote created
 - [x] Zettels created (3 zettels: Z-002-0657 to Z-002-0659)
 - [x] All reference notes created

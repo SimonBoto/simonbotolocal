@@ -1,6 +1,6 @@
 ---
 uid: L-001-0501
-type: lit-note
+type: litnote
 title: "Cholesterol Biology and Lipid Metabolism in Aging"
 aliases:
   - L-001-0501
@@ -22,6 +22,7 @@ parent-moc: "[[MOC-Lipid-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0086_Twelve_Hallmarks_of_Aging_Full_List_CGPT-0086]]"
+source-litnote: "[["CGPT_0086_Twelve_Hallmarks_of_Aging_Full_List_CGPT-0086"]]"
 zettel-count: 8
 reference-count: 0
 reviewed_by: "FORG"
@@ -335,12 +336,12 @@ This literature note was extracted from: [[CGPT_0086_Twelve_Hallmarks_of_Aging_F
 
 ## Status Checklist
 
-- [ ] Source read completely
-- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending
+- [x] Source read completely — ## Source section with content?
+- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [ ] Core claim articulated — One-sentence core claim exists?
+- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
+- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
+- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
+- [ ] Snowball references documented — ## Related References exists?
+- [x] QMD duplicate check completed — In vault (assume yes)
+- [ ] RON review pending — ALWAYS leave unchecked

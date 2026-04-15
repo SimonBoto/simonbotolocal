@@ -1,6 +1,6 @@
 ---
 uid: L-001-0573
-type: lit-note
+type: litnote
 title: Protein Intake and CKD Progression — Evidence Synthesis
 authors: ChatGPT synthesis from CGPT-0370
 year: 2024
@@ -27,10 +27,11 @@ tags:
   - protein-intake
   - cgpt-0370
 source: "[[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]"
-status: active
+status: complete
 parent-moc: "[[MOC-Kidney-Metabolism]]"
 extraction-date: 2026-03-07
 source-inbox: "[[00-Inbox]]"
+source-litnote: "[["00-Inbox"]]"
 zettel-count: 0
 reference-count: 0
 source-origin: chatgpt-archive

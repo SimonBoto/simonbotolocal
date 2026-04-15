@@ -1,6 +1,6 @@
 ---
 uid: L-001-0402
-type: lit-note
+type: litnote
 title: "Lit — The Methylation Cycle (SAM, SAH, Epigenetic Regulation)"
 aliases:
   - L-001-0402
@@ -20,6 +20,7 @@ parent-moc: "[[MOC-Methylation-Cycle]]"
 parent-index: "[[01-Literature 1]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+source-litnote: "[["CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264"]]"
 zettel-count: 6
 reference-count: 0
 reviewed_by: "FORG"

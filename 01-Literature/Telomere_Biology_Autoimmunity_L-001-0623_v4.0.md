@@ -1,6 +1,6 @@
 ---
 uid: L-001-0623
-type: lit-note
+type: litnote
 title: Telomere Biology and Cellular Aging in Autoimmunity
 authors: ChatGPT Analysis / Georgin-Lavialle et al.
 year: 2023
@@ -10,7 +10,10 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: High — Foundational for understanding accelerated aging in autoimmunity
-aliases: [L-001-0623, Telomere Basics, Cellular Senescence]
+aliases:
+  - L-001-0623
+  - Telomere Basics
+  - Cellular Senescence
 domain: 001
 tags: [litnote, telomeres, aging, autoimmunity, telomerase, immunosenescence]
 source: "[[CGPT_0520_Autoimmune_Diseases_and_Telomeres_CGPT-0520]]"

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0507
-type: lit-note
+type: litnote
 title: "Organic Acid Krebs Cycle Markers — Clinical Metabolomics for Mitochondrial Dysfunction"
 aliases:
   - L-001-0507
@@ -22,6 +22,7 @@ parent-moc: "[[MOC-Mitochondrial-Function]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]"
+source-litnote: "[["CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393"]]"
 zettel-count: 4
 reference-count: 0
 reviewed_by: "RON"

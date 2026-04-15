@@ -1,6 +1,6 @@
 ---
 uid: L-101-0050
-type: lit-note
+type: litnote
 title: "Medical Ethics Frameworks and Case Studies"
 authors: ChatGPT / Simos X Dialog (CGPT-0131)
 year: 2025
@@ -10,10 +10,15 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: High — Research ethics fundamentals, IRB preparation, historical context
-aliases: [L-101-0050, Medical Ethics, Research Ethics, Emanuel Framework]
+aliases:
+  - L-101-0050
+  - Medical Ethics
+  - Research Ethics
+  - Emanuel Framework
 domain: 101
 tags: [lit-note, medical-ethics, research-ethics, emanuel-framework, irb, informed-consent, cGPT-0131]
 source-inbox: "[[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]"
+source-litnote: "[["CGPT_0131_Medical_Ethics_Assistance_CGPT-0131"]]"
 status: complete
 reviewed_by: "FORG"
 parent-moc: "[[MOC-Research-Ethics]]"

@@ -1,6 +1,6 @@
 ---
 uid: L-101-0004
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Coenzyme A Synthesis and Decarboxylation Enzymology"
 authors: ChatGPT Analysis (CGPT-0586)
@@ -11,12 +11,17 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: Medium — Cofactor biochemistry supporting fatty acid metabolism
-aliases: [L-101-0004, CoA Biosynthesis, Decarboxylase Enzymes, B5 Metabolism]
+aliases:
+  - L-101-0004
+  - CoA Biosynthesis
+  - Decarboxylase Enzymes
+  - B5 Metabolism
 domain: 101
 reviewed_by: "FORG"
 updated: "2026-04-09"
 tags: [lit-note, coenzyme-a, pantothenic-acid, vitamin-b5, decarboxylase, dehydrogenase, enzymology, cofactors, cGPT-0586]
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
+source-litnote: "[["CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586"]]"
 status: complete
 parent-moc: "[[MOC-Mitochondrial-Function]]"
 parent-index: "[[01-Literature-Index]]"
@@ -105,12 +110,12 @@ This literature note was extracted from: [[CGPT_0586_Fatty_Acid_Metabolism_Pathw
 
 ## Status Checklist
 
-- [ ] Source read completely
-- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending
+- [x] Source read completely — ## Source section with content?
+- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [ ] Core claim articulated — One-sentence core claim exists?
+- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
+- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
+- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
+- [ ] Snowball references documented — ## Related References exists?
+- [x] QMD duplicate check completed — In vault (assume yes)
+- [ ] RON review pending — ALWAYS leave unchecked

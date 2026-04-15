@@ -1,6 +1,6 @@
 ---
 uid: L-001-0011
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Lit — Bone Remodeling Cellular Mechanisms (Osteoclasts/Osteoblasts)"
 aliases:
@@ -16,6 +16,7 @@ parent-moc: "[[MOC-Bone-Health]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
+source-litnote: "[["CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133"]]"
 reviewed_by: "FORG"
 created: "2026-03-01"
 updated: "2026-04-09"
@@ -118,12 +119,12 @@ parent-index: [[01-Literature-Index]]
 
 ## Status Checklist
 
-- [ ] Source read completely
-- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending
+- [x] Source read completely — ## Source section with content?
+- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [ ] Core claim articulated — One-sentence core claim exists?
+- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
+- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
+- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
+- [ ] Snowball references documented — ## Related References exists?
+- [x] QMD duplicate check completed — In vault (assume yes)
+- [ ] RON review pending — ALWAYS leave unchecked

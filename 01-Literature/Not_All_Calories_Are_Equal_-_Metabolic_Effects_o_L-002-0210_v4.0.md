@@ -1,9 +1,12 @@
 ---
 uid: L-002-0210
-type: lit-note
+type: litnote
 title: "Not All Calories Are Equal — Metabolic Effects of Macronutrients (Ebbeling 2018)"
-aliases: ["L-002-0210", "Not-All-Calories-Equal"]
+aliases:
+  - "L-002-0210"
+  - "Not-All-Calories-Equal"
 source-inbox: "[[INBOX-Article-29-Calories]]"
+source-litnote: "[["INBOX-Article-29-Calories"]]"
 authors: "Ebbeling CB, Ludwig DS, et al."
 year: "2018"
 journal: "BMJ"
@@ -11,7 +14,7 @@ doi: "10.1136/bmj.k4583"
 pmid: "30403709"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
-status: active
+status: complete
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"

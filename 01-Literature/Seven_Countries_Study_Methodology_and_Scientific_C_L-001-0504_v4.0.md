@@ -1,6 +1,6 @@
 ---
 uid: L-001-0504
-type: lit-note
+type: litnote
 title: "Lit — Seven Countries Study Methodology and Scientific Critique (Ecological Fallacy, Selection Bias, and Statistical Limitations)"
 aliases:
   - L-001-0504
@@ -21,6 +21,7 @@ parent-moc: "[[MOC-Research-Methodology]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]]"
+source-litnote: "[["CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074"]]"
 zettel-count: 5
 reference-count: 0
 reviewed_by: "FORG"

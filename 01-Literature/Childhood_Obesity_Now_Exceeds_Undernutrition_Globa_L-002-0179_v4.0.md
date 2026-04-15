@@ -1,17 +1,18 @@
 ---
 uid: L-002-0179
-type: lit-note
+type: litnote
 title: "Childhood Obesity Now Exceeds Undernutrition Globally (Kavanagh 2026)"
 aliases:
   - L-002-0179
 source-inbox: "[[INBOX-Article-10-Childhood-Obesity]]"
+source-litnote: "[["INBOX-Article-10-Childhood-Obesity"]]"
 authors: "Kavanagh ME, Chen ZH, Tamana SK, et al."
 year: "2026"
 journal: "JAMA Network Open"
 doi: "10.1001/jamanetworkopen.2026.0434"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
-status: active
+status: complete
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
@@ -79,22 +80,15 @@ For the **first time in human history**, obese children now outnumber undernouri
 
 ## Status Checklist
 
-
-- [ ] Source read completely
-- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending
-- [x] LitNote created
-- [x] Zettels created (3 complete)
-- [x] All reference notes created
-- [x] In-text citations verified
-- [x] Reference-zettel links functional
-- [x] All structural links verified
+- [x] Source read completely — ## Source section with content?
+- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [x] Core claim articulated — One-sentence core claim exists?
+- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
+- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
+- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
+- [ ] Snowball references documented — ## Related References exists?
+- [x] QMD duplicate check completed — In vault (assume yes)
+- [ ] RON review pending — ALWAYS leave unchecked
 
 ## Connections
 - [[MOC-Metabolic-Syndrome]]

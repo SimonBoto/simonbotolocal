@@ -1,6 +1,6 @@
 ---
 uid: L-001-0608
-type: lit-note
+type: litnote
 title: "Warburg Effect and Cancer Metabolism"
 aliases:
   - L-001-0608
@@ -20,6 +20,7 @@ status: complete
 parent-moc: "[[MOC-Cancer-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+source-litnote: "[["CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264"]]"
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0512
-type: lit-note
+type: litnote
 title: "Sirolimus mTORC1 Inhibition and Mitochondrial Toxicity Mechanisms"
 aliases:
   - L-001-0512
@@ -20,6 +20,7 @@ parent-moc: "[[MOC-mTOR-Pathway]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-02"
 source-inbox: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]"
+source-litnote: "[["CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189"]]"
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"

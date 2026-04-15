@@ -1,6 +1,6 @@
 ---
 uid: L-001-0576
-type: lit-note
+type: litnote
 title: "Lit — Alkaline Phosphatase Overview — Isoenzymes, Paget's Disease, and Clinical Interpretation"
 aliases:
   - L-001-0576
@@ -19,6 +19,7 @@ parent-moc: "[[MOC-Biomarkers]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0345_Alkaline_Phosphatase_Overview_CGPT-0345]]"
+source-litnote: "[["CGPT_0345_Alkaline_Phosphatase_Overview_CGPT-0345"]]"
 zettel-count: 6
 reference-count: 0
 tags:
@@ -198,15 +199,16 @@ ALP interpretation: Mild elevation (common), Moderate (investigate), Marked (sig
 ---
 
 ## Status Checklist
-- [x] Source read completely
-- [x] YAML standardized (type: litnote, source-inbox, zettel-count, reference-count, tags)
-- [x] Core claim articulated (one sentence)
-- [x] Core concepts numbered (1, 2, 3...)
-- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [x] Zettel links use FULL format with titles
-- [x] Snowball references documented
-- [x] QMD duplicate check completed
-- [ ] RON review pending
+
+- [x] Source read completely — ## Source section with content?
+- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [x] Core claim articulated — One-sentence core claim exists?
+- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
+- [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
+- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
+- [x] Snowball references documented — ## Related References exists?
+- [x] QMD duplicate check completed — In vault (assume yes)
+- [ ] RON review pending — ALWAYS leave unchecked
 
 ---
 

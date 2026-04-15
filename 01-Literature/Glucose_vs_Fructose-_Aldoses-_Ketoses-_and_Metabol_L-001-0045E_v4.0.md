@@ -1,6 +1,6 @@
 ---
 uid: L-001-0045E
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Glucose vs Fructose: Aldoses, Ketoses, and Metabolic Fate"
 aliases:
@@ -16,11 +16,12 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: High — Aldose/ketose chemistry, metabolic differences, lipogenesis, health implications
-status: active
+status: complete
 parent-moc: "[[MOC-Glycolysis-PPP]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: 2026-03-04
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-litnote: "[["CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445"]]"
 zettel-count: 5
 reference-count: 0
 reviewed_by: "FORG"

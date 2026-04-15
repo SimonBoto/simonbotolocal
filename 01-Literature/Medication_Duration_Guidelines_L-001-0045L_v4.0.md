@@ -1,6 +1,6 @@
 ---
 uid: L-001-0045L
-type: lit-note
+type: litnote
 title: "Medication Duration Guidelines — Osteoporosis Treatment Longevity"
 aliases:
   - L-001-0045H
@@ -19,6 +19,7 @@ parent-moc: "[[MOC-Clinical-Protocols]]"
 parent-index: "[[02-Literature]]"
 extraction-date: "2026-03-06"
 source-inbox: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"
+source-litnote: "[["CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133"]]"
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"

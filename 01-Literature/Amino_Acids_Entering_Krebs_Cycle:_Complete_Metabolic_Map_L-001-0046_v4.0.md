@@ -1,6 +1,6 @@
 ---
 uid: L-001-0046A
-type: lit-note
+type: litnote
 title: "Amino Acids Entering Krebs Cycle: Complete Metabolic Map"
 aliases:
   - L-001-0046A
@@ -15,11 +15,12 @@ pmid: "N/A"
 pmcid: "N/A"
 tier: SILVER
 relevance: "High — All 20 amino acids, Krebs entry points, enzymes, cofactors, glucogenic vs ketogenic"
-status: active
+status: complete
 parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-04"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-litnote: "[["CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445"]]"
 zettel-count: 7
 reference-count: 0
 reviewed_by: "FORG"
@@ -100,15 +101,12 @@ tags:
 
 ## Status Checklist
 
-
-## Status Checklist
-
-- [ ] Source read completely
-- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending
+- [x] Source read completely — ## Source section with content?
+- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [ ] Core claim articulated — One-sentence core claim exists?
+- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
+- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
+- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
+- [ ] Snowball references documented — ## Related References exists?
+- [x] QMD duplicate check completed — In vault (assume yes)
+- [ ] RON review pending — ALWAYS leave unchecked

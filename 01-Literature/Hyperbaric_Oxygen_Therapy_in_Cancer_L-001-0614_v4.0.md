@@ -1,6 +1,6 @@
 ---
 uid: L-001-0614
-type: lit-note
+type: litnote
 title: Hyperbaric Oxygen Therapy in Cancer
 aliases:
   - L-001-0614
@@ -20,6 +20,7 @@ tags:
   - metabolism
   - - MOC-Cancer-Therapy
 extraction-date: 2026-03-08
+source-litnote: "[[## Source]]"
 source: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 ---
 

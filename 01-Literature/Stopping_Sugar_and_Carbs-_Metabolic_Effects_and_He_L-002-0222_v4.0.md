@@ -1,10 +1,14 @@
 ---
 uid: L-002-0222
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "Stopping Sugar and Carbs: Metabolic Effects and Health Impact (Teicholz 2025, PURE)"
-aliases: ["L-002-0222", "Stopping-Sugar-Carbs", "Low-Carb-Metabolic"]
+aliases:
+  - "L-002-0222"
+  - "Stopping-Sugar-Carbs"
+  - "Low-Carb-Metabolic"
 source-inbox: "[[INBOX-Article-37-Stopping-Sugar-Carbs]]"
+source-litnote: "[["INBOX-Article-37-Stopping-Sugar-Carbs"]]"
 authors: "Teicholz N, et al.; Dehghan M, et al.; Harvey CJC, et al."
 year: "2017-2025"
 journal: "Nutrients; Lancet; Nutrition"
@@ -12,7 +16,7 @@ doi: "(multiple)"
 pmid: "(multiple)"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
-status: active
+status: complete
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-05"

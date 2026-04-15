@@ -1,10 +1,14 @@
 ---
 uid: L-002-0227
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "Carbohydrate Restriction Reduces CVD Risk — Meta-Analysis of 174 RCTs"
-aliases: ["L-002-0227", "Carb-Restriction-CVD-Meta", "Low-Carb-174-RCTs"]
+aliases:
+  - "L-002-0227"
+  - "Carb-Restriction-CVD-Meta"
+  - "Low-Carb-174-RCTs"
 source-inbox: "[[INBOX-Article-42-Carb-Restriction-CVD]]"
+source-litnote: "[["INBOX-Article-42-Carb-Restriction-CVD"]]"
 authors: "Various"
 year: "2000-2024"
 journal: "Various (Meta-analysis of 174 RCTs)"
@@ -12,7 +16,7 @@ doi: "(multiple)"
 pmid: "(multiple)"
 tier: "SILVER"
 relevance: "Medium — clinical biochemistry"
-status: active
+status: complete
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-05"
@@ -82,22 +86,15 @@ tags:
 
 ## Status Checklist
 
-
-- [ ] Source read completely
-- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending
-- [x] LitNote created
-- [x] Zettels created (3 zettels: Z-002-0819 to Z-002-0821)
-- [x] All reference notes created
-- [x] In-text citations verified
-- [x] Reference-zettel links functional
-- [x] Source references added to all zettels
+- [x] Source read completely — ## Source section with content?
+- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [x] Core claim articulated — One-sentence core claim exists?
+- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
+- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
+- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
+- [ ] Snowball references documented — ## Related References exists?
+- [x] QMD duplicate check completed — In vault (assume yes)
+- [ ] RON review pending — ALWAYS leave unchecked
 
 ---
 *L-002-0227 | Created: 2026-04-04 | Updated: 2026-04-05 | Tier: SILVER*

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0588
-type: lit-note
+type: litnote
 title: "Lit — Metabolomics Chief Instructor Framework"
 aliases:
   - L-001-0588
@@ -14,11 +14,12 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: High — Foundational training philosophy for metabolomics clinic; defines instructor role and 6-stage patient flow
-status: active
+status: complete
 parent-moc: "[[MOC-Metabolomics-Training]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
+source-litnote: "[["CGPT_0022_Metabolomics_training_role_CGPT-0022"]]"
 zettel-count: 5
 reference-count: 0
 extracted_by: FORG

@@ -1,10 +1,14 @@
 ---
 uid: L-002-0221
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "High Glucose vs High Insulin: Insulin Matters More for CVD (ACCORD & Literature)"
-aliases: ["L-002-0221", "Glucose-vs-Insulin", "Insulin-CVD-Paradigm"]
+aliases:
+  - "L-002-0221"
+  - "Glucose-vs-Insulin"
+  - "Insulin-CVD-Paradigm"
 source-inbox: "[[INBOX-Article-36-Glucose-Insulin]]"
+source-litnote: "[["INBOX-Article-36-Glucose-Insulin"]]"
 authors: "ACCORD Study Group; Various"
 year: "2008-2024"
 journal: "New England Journal of Medicine; Various"
@@ -12,7 +16,7 @@ doi: "(multiple)"
 pmid: "(multiple)"
 tier: "SILVER"
 relevance: "Medium — clinical biochemistry"
-status: active
+status: complete
 parent-moc: "[[MOC-Insulin-Signaling]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-05"

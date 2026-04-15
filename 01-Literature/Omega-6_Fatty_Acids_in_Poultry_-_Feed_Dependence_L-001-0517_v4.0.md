@@ -1,6 +1,6 @@
 ---
 uid: L-001-0517
-type: lit-note
+type: litnote
 title: Omega-6 Fatty Acids in Poultry — Feed Dependence and Inflammatory Potential
 authors: ChatGPT Analysis
 year: 2025
@@ -31,6 +31,7 @@ source: "[[CGPT_0141_Omega_6_in_Chicken_Fat_CGPT-0141]]"
 status: complete
 parent-moc: "[[MOC-Lipid-Metabolism]]"
 extraction-date: 2026-03-03
+source-litnote: "[[## Source]]"
 source-origin: chatgpt-archive
 reviewed_by: "FORG"
 created: 2026-04-09

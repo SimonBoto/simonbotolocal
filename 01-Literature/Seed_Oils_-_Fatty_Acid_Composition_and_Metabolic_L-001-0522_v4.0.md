@@ -1,6 +1,6 @@
 ---
 uid: L-001-0522
-type: lit-note
+type: litnote
 title: Seed Oils — Fatty Acid Composition and Metabolic Fate
 authors: ChatGPT synthesis from CGPT-0281, CGPT-0282, CGPT-0340
 year: 2024
@@ -32,6 +32,7 @@ source: "[[CGPT_0281_Seed_Oils_and_Metabolic_Health_CGPT-0281]]"
 status: complete
 parent-moc: "[[MOC-Lipid-Metabolism]]"
 extraction-date: 2026-03-06
+source-litnote: "[[## Source]]"
 source-origin: chatgpt-archive
 reviewed_by: "FORG"
 created: 2026-04-09

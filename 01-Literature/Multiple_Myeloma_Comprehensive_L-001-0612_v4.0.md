@@ -1,6 +1,6 @@
 ---
 uid: L-001-0612
-type: lit-note
+type: litnote
 title: "Multiple Myeloma Comprehensive"
 aliases:
   - L-001-0612
@@ -20,6 +20,7 @@ status: complete
 parent-moc: "[[MOC-Cancer-Therapy]]"
 parent-index: "[[01-Literature-Index]]"
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+source-litnote: "[["CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264"]]"
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"

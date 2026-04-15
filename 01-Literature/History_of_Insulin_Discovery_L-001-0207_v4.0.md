@@ -1,6 +1,6 @@
 ---
 uid: L-001-0207
-type: lit-note
+type: litnote
 title: "Lit — History of Insulin Discovery (1921-1923)"
 aliases:
   - L-001-0207
@@ -18,6 +18,7 @@ parent-moc: "[[MOC-Insulin-Signaling]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]"
+source-litnote: "[["CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471"]]"
 zettel-count: 6
 reference-count: 0
 reviewed_by: "FORG"

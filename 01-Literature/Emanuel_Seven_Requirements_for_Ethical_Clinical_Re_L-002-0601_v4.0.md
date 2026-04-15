@@ -1,6 +1,6 @@
 ---
 uid: L-002-0601
-type: lit-note
+type: litnote
 title: "Emanuel Seven Requirements for Ethical Clinical Research"
 aliases:
   - L-002-0601
@@ -19,6 +19,7 @@ tags:
   - lit-note
   - metabolism
 extraction-date: 2026-03-27
+source-litnote: "[[## Source]]"
 source: "[[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]"
 ---
 
@@ -140,12 +141,16 @@ parent-index: [[01-Literature 1]]
 
 ## Status Checklist
 
-- [ ] Source read completely
+- [x] Source read completely
 - [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+  → Missing: YAML should use type: litnote (no hyphen) and include source-inbox, zettel-count, reference-count, parent-index fields
 - [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
+  → Missing: No one-sentence core claim found
+- [x] Core concepts numbered (1, 2, 3...)
 - [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+  → Missing: Uses different header structure
 - [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
+  → Missing: Some links missing closing ]]
+- [x] Snowball references documented
+- [x] QMD duplicate check completed
 - [ ] RON review pending

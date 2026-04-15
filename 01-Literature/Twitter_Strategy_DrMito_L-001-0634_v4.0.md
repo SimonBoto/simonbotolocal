@@ -1,6 +1,6 @@
 ---
 uid: L-001-0634
-type: lit-note
+type: litnote
 title: "Twitter Strategy DrMito L-001-0634"
 aliases:
   - L-001-0634
@@ -13,8 +13,9 @@ tags:
   - branding
   - mitochondria
 parent-moc: "[[MOC-Social-Media]]"
-status: active
+status: complete
 source-inbox: "[[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]"
+source-litnote: "[["CGPT_0318_Mitochondrial_Structure_CGPT-0318"]]"
 ---
 
 

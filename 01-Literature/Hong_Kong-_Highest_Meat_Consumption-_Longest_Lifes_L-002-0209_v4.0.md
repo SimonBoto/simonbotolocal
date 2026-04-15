@@ -1,9 +1,12 @@
 ---
 uid: L-002-0209
-type: lit-note
+type: litnote
 title: "Hong Kong: Highest Meat Consumption, Longest Lifespan (Meat-Longevity Paradox)"
-aliases: ["L-002-0209", "Hong-Kong-Meat-Longevity"]
+aliases:
+  - "L-002-0209"
+  - "Hong-Kong-Meat-Longevity"
 source-inbox: "[[INBOX-Article-28-Hong-Kong]]"
+source-litnote: "[["INBOX-Article-28-Hong-Kong"]]"
 authors: "WHO, FAO, Hong Kong Census and Statistics Department"
 year: "2020-2024"
 journal: "WHO Life Expectancy Reports, FAO Food Balance Sheets"
@@ -11,7 +14,7 @@ doi: "(multiple)"
 pmid: "(multiple)"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
-status: active
+status: complete
 parent-moc: "[[MOC-Nutrition]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"

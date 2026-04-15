@@ -1,6 +1,6 @@
 ---
 uid: L-001-0613
-type: lit-note
+type: litnote
 title: "TP53 Multiple Myeloma Prognosis and Therapy"
 aliases:
   - L-001-0613
@@ -13,7 +13,7 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: "High — TP53 abnormalities, del(17p), p53 dysfunction, MDM2 inhibitors, therapeutic strategies"
-status: active
+status: complete
 source-origin: legacy
 parent-moc: "[[MOC-p53-Pathway]]"
 tags:
@@ -21,6 +21,7 @@ tags:
   - metabolism
 extraction-date: 2026-03-08
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+source-litnote: "[["CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264"]]"
 zettel-count: 2
 reference-count: 0
 reviewed_by: "FORG"

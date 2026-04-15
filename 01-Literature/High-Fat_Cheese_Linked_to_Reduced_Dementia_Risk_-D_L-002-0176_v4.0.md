@@ -1,10 +1,11 @@
 ---
 uid: L-002-0176
-type: lit-note
+type: litnote
 title: "High-Fat Cheese Linked to Reduced Dementia Risk (Du 2026)"
 aliases:
   - L-002-0176
 source-inbox: "[[INBOX-Article-11-Cheese-Dementia]]"
+source-litnote: "[["INBOX-Article-11-Cheese-Dementia"]]"
 authors: "Du Y, Borné Y, Samuelsson J, Glans I, Hu X, Nägga K, et al."
 year: "2026"
 journal: "Neurology"
@@ -12,7 +13,7 @@ doi: "10.1212/WNL.0000000000214343"
 pmid: "41406402"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
-status: active
+status: complete
 parent-moc: "[[MOC-Lipid-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"

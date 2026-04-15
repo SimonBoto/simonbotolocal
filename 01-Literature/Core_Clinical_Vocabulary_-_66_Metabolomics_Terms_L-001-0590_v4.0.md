@@ -1,6 +1,6 @@
 ---
 uid: L-001-0590
-type: lit-note
+type: litnote
 title: "Lit — Core Clinical Vocabulary — 66 Metabolomics Terms"
 aliases:
   - L-001-0590
@@ -19,6 +19,7 @@ parent-moc: "[[MOC-Metabolomics-Training]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
+source-litnote: "[["CGPT_0022_Metabolomics_training_role_CGPT-0022"]]"
 zettel-count: 7
 reference-count: 0
 extracted_by: FORG

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0009
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Lit — High-Dose Vitamin D Clinical Research"
 aliases:
@@ -16,6 +16,7 @@ parent-moc: "[[MOC-Vitamin-D]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284]]"
+source-litnote: "[["CGPT_0284_Vitamin_D_Toxicity_Misconception_CGPT-0284"]]"
 reviewed_by: "FORG"
 created: "2026-03-01"
 updated: "2026-04-09"

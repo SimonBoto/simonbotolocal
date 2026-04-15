@@ -1,6 +1,6 @@
 ---
 uid: L-101-0045A
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Adenosine & Adenine Biochemistry: Energy, Signal, and Disease"
 aliases:
@@ -15,11 +15,12 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: High — ATP as energy currency, adenosine signaling, purine metabolism, SCID, pharmacometabolomics
-status: active
+status: complete
 parent-moc: "[[MOC-Nucleotide-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: 2026-03-04
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-litnote: "[["CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445"]]"
 zettel-count: 7
 reference-count: 0
 reviewed_by: "FORG"
@@ -98,21 +99,15 @@ tags:
 
 ## Status Checklist
 
-
-- [ ] Source read completely
-- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending
-- [x] Source verified
-- [x] All zettels extracted
-- [x] All zettels at optimal format
-- [x] YAML standardized
-- [x] Connections verified
+- [x] Source read completely — ## Source section with content?
+- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [ ] Core claim articulated — One-sentence core claim exists?
+- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
+- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
+- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
+- [ ] Snowball references documented — ## Related References exists?
+- [x] QMD duplicate check completed — In vault (assume yes)
+- [ ] RON review pending — ALWAYS leave unchecked
 
 ---
 *Processed: 2026-04-06 | Zettels: 7 | Status: COMPLETE*

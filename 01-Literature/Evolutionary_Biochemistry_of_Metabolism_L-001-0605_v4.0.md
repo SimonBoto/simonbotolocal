@@ -1,6 +1,6 @@
 ---
 uid: L-001-0605
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: Evolutionary Biochemistry of Metabolism
 aliases:
@@ -15,11 +15,12 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: High — Ancient pathways, RNA world hypothesis, origins of metabolism, metabolic fossils
-status: active
+status: complete
 parent-moc: "[[MOC-Evolutionary-Biochemistry]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: 2026-03-08
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
+source-litnote: "[["CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445"]]"
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"

@@ -1,6 +1,6 @@
 ---
 uid: L-002-0602
-type: lit-note
+type: litnote
 title: "Historical Ethics Guidelines and Frameworks in Human Subjects Research"
 aliases:
   - L-002-0602
@@ -20,6 +20,7 @@ tags:
   - ethics
   - research
 extraction-date: 2026-03-27
+source-litnote: "[[## Source]]"
 source: "[[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]"
 ---
 

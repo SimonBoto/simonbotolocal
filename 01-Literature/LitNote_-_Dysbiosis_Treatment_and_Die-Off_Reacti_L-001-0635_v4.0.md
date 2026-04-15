@@ -1,6 +1,6 @@
 ---
 uid: L-001-0635
-type: lit-note
+type: litnote
 title: LitNote — Dysbiosis Treatment and Die-Off Reactions (CGPT-0199)
 aliases:
   - L-001-0635
@@ -16,6 +16,7 @@ tags:
   - lit-note
   - metabolism
 extraction-date: 2026-03-09
+source-litnote: "[[## Source]]"
 source: "[[CGPT_0199_Dysbiosis_Treatment_Side_Effects_CGPT-0199]]"
 ---
 

@@ -1,10 +1,11 @@
 ---
 uid: L-001-0606
-type: lit-note
+type: litnote
 title: "Lit — McCarty_Nicotine_Biosynthesis_2026"
 aliases:
   - L-001-0606
 source-inbox: "[[INBOX-2026-04-04-001_Nicotine_Biosynthesis_X_Post]]"
+source-litnote: "[["INBOX-2026-04-04-001_Nicotine_Biosynthesis_X_Post"]]"
 authors: "McCarty, N. (summarizing Chinese research group)"
 year: "2026"
 source: "X post summarizing Cell paper"

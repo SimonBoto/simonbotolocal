@@ -1,6 +1,6 @@
 ---
 uid: L-001-0404
-type: lit-note
+type: litnote
 title: "Lit — B12 Deficiency Mimicking Multiple Myeloma (Diagnostic Differentiation)"
 aliases:
   - L-001-0404
@@ -19,6 +19,7 @@ parent-moc: "[[MOC-Biomarkers]]"
 parent-index: "[[02-Literature]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+source-litnote: "[["CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264"]]"
 zettel-count: 7
 reference-count: 0
 reviewed_by: "FORG"
@@ -263,12 +264,12 @@ M-protein present   No M-protein
 parent-index: [[01-Literature 1]]
 ## Status Checklist
 
-- [ ] Source read completely
-- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending
+- [x] Source read completely — ## Source section with content?
+- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [ ] Core claim articulated — One-sentence core claim exists?
+- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
+- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
+- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
+- [ ] Snowball references documented — ## Related References exists?
+- [x] QMD duplicate check completed — In vault (assume yes)
+- [ ] RON review pending — ALWAYS leave unchecked

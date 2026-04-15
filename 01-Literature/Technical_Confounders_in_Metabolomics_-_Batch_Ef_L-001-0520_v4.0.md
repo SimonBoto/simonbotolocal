@@ -1,6 +1,6 @@
 ---
 uid: L-001-0520
-type: lit-note
+type: litnote
 title: Technical Confounders in Metabolomics — Batch Effects and Artifacts
 authors: ChatGPT Analysis from CGPT-0328
 year: 2024
@@ -155,6 +155,7 @@ Separation in OPLS-DA alone doesn't confirm biological relevance. The separation
 ## Snowball References
 > **Source:** ChatGPT conversation [[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]] (2026-03-06)  
 source-inbox: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
+source-litnote: "[[## Source]]"
 ## Source Reference
 ## Status Checklist
 ## Synthesis Notes

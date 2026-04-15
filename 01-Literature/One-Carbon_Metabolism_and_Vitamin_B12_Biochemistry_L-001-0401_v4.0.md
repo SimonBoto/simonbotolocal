@@ -1,6 +1,6 @@
 ---
 uid: L-001-0401
-type: lit-note
+type: litnote
 title: "Lit — One-Carbon Metabolism and Vitamin B12 Biochemistry"
 aliases:
   - L-001-0401
@@ -20,6 +20,7 @@ parent-moc: "[[MOC-One-Carbon-Metabolism]]"
 parent-index: "[[01-Literature 1]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+source-litnote: "[["CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264"]]"
 zettel-count: 6
 reference-count: 0
 reviewed_by: "FORG"

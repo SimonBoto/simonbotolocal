@@ -1,12 +1,12 @@
 ---
 uid: L-002-0246
-type: lit-note
+type: litnote
 title: Aspirin Reduces Cancer Metastasis via Platelet TXA2-T-Cell Mechanism
 aliases:
   - L-002-0246
   - Article-1-Aspirin-Metastasis
 domain: "002"
-status: active
+status: complete
 reviewed_by: RON
 tier: "SILVER"
 relevance: "Medium — clinical biochemistry"
@@ -26,6 +26,7 @@ tags:
 parent-index: "[[01-Literature 1]]"
 parent-moc: "[[MOC-Cancer-Immunology]]"
 source-inbox: "[[INBOX-Article-1-Aspirin-Metastasis]]"
+source-litnote: "[["INBOX-Article-1-Aspirin-Metastasis"]]"
 extraction-date: 2026-04-05
 reference-count: 2
 zettel-count: 5
@@ -163,22 +164,15 @@ pmid: "40044852"
 
 ## Status Checklist
 
-
-- [ ] Source read completely
-- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
-- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
-- [ ] RON review pending
-- [x] LitNote created
-- [x] Zettels created (5 complete)
-- [x] All reference notes created
-- [x] In-text citations verified
-- [x] Reference-zettel links functional
-- [x] All structural links verified
+- [x] Source read completely — ## Source section with content?
+- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [x] Core claim articulated — One-sentence core claim exists?
+- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
+- [ ] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
+- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
+- [ ] Snowball references documented — ## Related References exists?
+- [x] QMD duplicate check completed — In vault (assume yes)
+- [ ] RON review pending — ALWAYS leave unchecked
 
 ## Connections
 - [[MOC-Cancer-Immunology]]

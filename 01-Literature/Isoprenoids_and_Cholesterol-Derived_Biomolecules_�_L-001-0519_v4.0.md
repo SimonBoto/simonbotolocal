@@ -1,6 +1,6 @@
 ---
 uid: L-001-0519
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Isoprenoids and Cholesterol-Derived Biomolecules — Steroids, Vitamins, and Cell Signals"
 authors: ChatGPT Analysis (CGPT-0391)
@@ -11,12 +11,19 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: High — Diverse products from mevalonate pathway, clinical significance
-aliases: [L-001-0519, Isoprenoids, Terpenes, Steroid Hormones, CoQ10, Vitamin D Synthesis]
+aliases:
+  - L-001-0519
+  - Isoprenoids
+  - Terpenes
+  - Steroid Hormones
+  - CoQ10
+  - Vitamin D Synthesis
 domain: 001
 reviewed_by: "FORG"
 updated: "2026-04-09"
 tags: [lit-note, isoprenoids, terpenes, steroids, coq10, vitamin-d, bile-acids, cholesterol-derivatives, cGPT-0391]
 source-inbox: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"
+source-litnote: "[["CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391"]]"
 status: complete
 parent-moc: "[[MOC-Lipid-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"

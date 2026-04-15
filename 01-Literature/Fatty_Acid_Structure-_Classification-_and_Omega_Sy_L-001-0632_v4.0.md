@@ -1,6 +1,6 @@
 ---
 uid: L-001-0632
-type: lit-note
+type: litnote
 source-origin: chatgpt-archive
 title: "Fatty Acid Structure, Classification, and Omega System"
 authors: ChatGPT Analysis (CGPT-0586)
@@ -11,12 +11,17 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: High — Foundation for understanding fatty acid metabolism and dicarboxylic acid formation
-aliases: [L-001-0632, Fatty Acids, Omega Classification, Lipid Structure]
+aliases:
+  - L-001-0632
+  - Fatty Acids
+  - Omega Classification
+  - Lipid Structure
 domain: 001
 reviewed_by: "FORG"
 updated: "2026-04-09"
 tags: [lit-note, fatty-acids, omega-3, omega-6, lipid-structure, saturation, cGPT-0586]
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
+source-litnote: "[["CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586"]]"
 status: complete
 parent-moc: "[[MOC-Fatty-Acids]]"
 parent-index: "[[01-Literature-Index]]"

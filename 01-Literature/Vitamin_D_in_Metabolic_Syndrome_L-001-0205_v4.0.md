@@ -1,6 +1,6 @@
 ---
 uid: L-001-0205
-type: lit-note
+type: litnote
 title: "Lit — Vitamin D in Metabolic Syndrome (Mechanisms, Glucose, Lipids, Inflammation)"
 aliases:
   - L-001-0205
@@ -18,6 +18,7 @@ parent-moc: "[[MOC-Vitamin-D]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272]]"
+source-litnote: "[["CGPT_0272_Vitamin_D_K2_Magnesium_Metabolic_Syndrome_CGPT-0272"]]"
 zettel-count: 4
 reference-count: 0
 reviewed_by: "FORG"

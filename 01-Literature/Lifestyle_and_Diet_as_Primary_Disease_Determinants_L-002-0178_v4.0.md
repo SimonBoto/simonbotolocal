@@ -1,10 +1,11 @@
 ---
 uid: L-002-0178
-type: lit-note
+type: litnote
 title: "Lifestyle and Diet as Primary Disease Determinants (NEJM 2025)"
 aliases:
   - L-002-0178
 source-inbox: "[[INBOX-Article-8-Lifestyle-Determinants]]"
+source-litnote: "[["INBOX-Article-8-Lifestyle-Determinants"]]"
 authors: "Global Cardiovascular Risk Consortium"
 year: "2025"
 journal: "New England Journal of Medicine"
@@ -12,7 +13,7 @@ doi: "10.1056/NEJMoa2415879"
 pmid: "40162648"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
-status: active
+status: complete
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"

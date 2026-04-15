@@ -1,10 +1,11 @@
 ---
 uid: L-002-0182
-type: lit-note
+type: litnote
 title: "High Glucose vs High Insulin: Insulin Matters More for CVD (Zhao 2019)"
 aliases:
   - L-002-0182
 source-inbox: "[[INBOX-Article-13-Insulin-Glucose]]"
+source-litnote: "[["INBOX-Article-13-Insulin-Glucose"]]"
 authors: "Zhao Y, et al."
 year: "2019"
 journal: "International Journal of Cardiology"
@@ -12,7 +13,7 @@ doi: "10.1016/j.ijcard.2019.01.098"
 pmid: "30716618"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
-status: active
+status: complete
 parent-moc: "[[MOC-Insulin-Signaling]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"

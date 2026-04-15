@@ -1,6 +1,6 @@
 ---
 uid: L-001-0654
-type: lit-note
+type: litnote
 title: "Hyperinsulinemia and Metabolic Inflexibility — Mechanisms of Beta-Oxidation Inhibition_L-001-0654"
 aliases:
   - L-001-0654
@@ -19,6 +19,7 @@ parent-moc: "[[MOC-Insulin-Signaling]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-11"
 source-inbox: "[[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]"
+source-litnote: "[["CGPT_0647_ATP_Pathways_Overview_CGPT-0647"]]"
 zettel-count: 3
 reference-count: 0
 reviewed_by: "RON"

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0582
-type: lit-note
+type: litnote
 title: "Lit — MAO and DAO Enzymes — Monoamine and Diamine Oxidase Function and Interactions"
 aliases:
   - L-001-0582
@@ -19,6 +19,7 @@ parent-moc: "[[MOC-Pharmacology]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"
 source-inbox: "[[CGPT_0258_MAOIs_and_DAO_Interaction_CGPT-0258]]"
+source-litnote: "[["CGPT_0258_MAOIs_and_DAO_Interaction_CGPT-0258"]]"
 zettel-count: 4
 reference-count: 0
 extracted_by: FORG

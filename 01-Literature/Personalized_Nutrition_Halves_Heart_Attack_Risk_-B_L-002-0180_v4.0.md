@@ -1,9 +1,11 @@
 ---
 uid: L-002-0180
-type: lit-note
+type: litnote
 title: "Personalized Nutrition Halves Heart Attack Risk (Bermingham 2024)"
-aliases: ["L-002-0180"]
+aliases:
+  - "L-002-0180"
 source-inbox: "[[INBOX-Article-19-Personalized-Nutrition]]"
+source-litnote: "[["INBOX-Article-19-Personalized-Nutrition"]]"
 authors: "Bermingham KM, Linenberg I, Polidori L, Asnicar F, Arrè A, Wolf J, et al."
 year: "2024"
 journal: "Nature Medicine"
@@ -11,7 +13,7 @@ doi: "10.1038/s41591-024-02951-6"
 pmid: "38714898"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
-status: active
+status: complete
 parent-moc: "[[MOC-Clinical-Protocols]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"

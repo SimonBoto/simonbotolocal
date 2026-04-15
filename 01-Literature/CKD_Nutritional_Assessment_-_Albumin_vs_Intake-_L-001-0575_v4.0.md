@@ -1,6 +1,6 @@
 ---
 uid: L-001-0575
-type: lit-note
+type: litnote
 title: "Lit — CKD Nutritional Assessment — Albumin vs Intake, Oxalate, and Glycemic Control"
 aliases:
   - L-001-0575
@@ -19,6 +19,7 @@ parent-moc: "[[MOC-Kidney-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]"
+source-litnote: "[["CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370"]]"
 zettel-count: 6
 reference-count: 0
 tags:
@@ -201,15 +202,16 @@ CKD stage adjustments for A1c targets; Calcium binding for oxalate reduction
 ---
 
 ## Status Checklist
-- [x] Source read completely
-- [x] YAML standardized (type: litnote, source-inbox, zettel-count, reference-count, tags)
-- [x] Core claim articulated (one sentence)
-- [x] Core concepts numbered (1, 2, 3...)
-- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [x] Zettel links use FULL format with titles
-- [x] Snowball references documented
-- [x] QMD duplicate check completed
-- [ ] RON review pending
+
+- [x] Source read completely — ## Source section with content?
+- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [x] Core claim articulated — One-sentence core claim exists?
+- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
+- [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
+- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
+- [x] Snowball references documented — ## Related References exists?
+- [x] QMD duplicate check completed — In vault (assume yes)
+- [ ] RON review pending — ALWAYS leave unchecked
 
 ---
 

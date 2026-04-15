@@ -1,6 +1,6 @@
 ---
 uid: L-001-0633
-type: lit-note
+type: litnote
 title: "Mitochondrial Structure Biology L-001-0633"
 aliases:
   - L-001-0633
@@ -12,8 +12,9 @@ tags:
   - structure
   - biochemistry
 parent-moc: "[[MOC-Mitochondrial-Function]]"
-status: active
+status: complete
 source-inbox: "[[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]"
+source-litnote: "[["CGPT_0318_Mitochondrial_Structure_CGPT-0318"]]"
 ---
 
 

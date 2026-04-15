@@ -1,6 +1,6 @@
 ---
 uid: L-001-0583
-type: lit-note
+type: litnote
 title: "Lit — Nintedanib (Ofev) — Tyrosine Kinase Inhibitor Mechanism and Clinical Use"
 aliases:
   - L-001-0583
@@ -19,6 +19,7 @@ parent-moc: "[[MOC-Pharmacology]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"
 source-inbox: "[[CGPT_0064_Ofev_MOA_and_effects_CGPT-0064]]"
+source-litnote: "[["CGPT_0064_Ofev_MOA_and_effects_CGPT-0064"]]"
 zettel-count: 5
 reference-count: 0
 extracted_by: FORG

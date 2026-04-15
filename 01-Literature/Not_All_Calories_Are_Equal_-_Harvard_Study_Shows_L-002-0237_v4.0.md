@@ -1,10 +1,14 @@
 ---
 uid: L-002-0237
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "Not All Calories Are Equal — Harvard Study Shows Low-Carb Increases Energy Expenditure (Ebbeling 2018)"
-aliases: ["L-002-0237", "Not-All-Calories-Equal-Harvard", "Calories-Not-Equal"]
+aliases:
+  - "L-002-0237"
+  - "Not-All-Calories-Equal-Harvard"
+  - "Calories-Not-Equal"
 source-inbox: "[[INBOX-Article-50-Not-All-Calories]]"
+source-litnote: "[["INBOX-Article-50-Not-All-Calories"]]"
 authors: "Ebbeling CB, Feldman HA, Klein GL, et al."
 year: "2018"
 journal: "BMJ"
@@ -12,7 +16,7 @@ doi: "10.1136/bmj.k4583"
 pmid: "30403709"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
-status: active
+status: complete
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-05"

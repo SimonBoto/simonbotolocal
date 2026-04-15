@@ -1,6 +1,6 @@
 ---
 uid: L-002-0603
-type: lit-note
+type: litnote
 title: "Ethics Committee Communication and Follow-Up Protocol"
 aliases:
   - L-002-0603
@@ -20,6 +20,7 @@ tags:
   - ethics
   - research
 extraction-date: 2026-03-27
+source-litnote: "[[## Source]]"
 source: "[[CGPT_0205_Ethics_Committee_Follow_Up_CGPT-0205]]"
 ---
 

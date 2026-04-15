@@ -1,6 +1,6 @@
 ---
 uid: L-001-0516
-type: lit-note
+type: litnote
 title: Exploratory vs Confirmatory Research Design in Omics Studies
 authors: ChatGPT Analysis
 year: 2025

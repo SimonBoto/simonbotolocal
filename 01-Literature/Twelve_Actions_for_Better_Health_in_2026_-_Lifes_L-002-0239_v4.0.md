@@ -1,10 +1,14 @@
 ---
 uid: L-002-0239
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "Twelve Actions for Better Health in 2026 — Lifestyle Medicine Protocol"
-aliases: ["L-002-0239", "Twelve-Actions-Better-Health-2026", "12-Actions-Health"]
+aliases:
+  - "L-002-0239"
+  - "Twelve-Actions-Better-Health-2026"
+  - "12-Actions-Health"
 source-inbox: "[[INBOX-Article-52-Twelve-Actions]]"
+source-litnote: "[["INBOX-Article-52-Twelve-Actions"]]"
 authors: "Various"
 year: "2026"
 journal: "Lifestyle Medicine / Clinical Synthesis"
@@ -12,7 +16,7 @@ doi: "(synthesis)"
 pmid: "N/A"
 tier: "SILVER"
 relevance: "Medium — clinical biochemistry"
-status: active
+status: complete
 parent-moc: "[[MOC-Lifestyle-Medicine]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-05"

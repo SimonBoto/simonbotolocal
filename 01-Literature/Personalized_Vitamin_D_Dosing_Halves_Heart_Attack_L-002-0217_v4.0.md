@@ -1,10 +1,14 @@
 ---
 uid: L-002-0217
-type: lit-note
+type: litnote
 source-origin: facebook-article
 title: "Personalized Vitamin D Dosing Halves Heart Attack Risk (TARGET-D 2025)"
-aliases: ["L-002-0217", "Personalized-Vitamin-D", "TARGET-D"]
+aliases:
+  - "L-002-0217"
+  - "Personalized-Vitamin-D"
+  - "TARGET-D"
 source-inbox: "[[INBOX-Article-34-Personalized-Vitamin-D]]"
+source-litnote: "[["INBOX-Article-34-Personalized-Vitamin-D"]]"
 authors: "May HT, et al."
 year: "2025"
 journal: "American Heart Association Scientific Sessions (Conference Abstract)"
@@ -12,7 +16,7 @@ doi: "(not applicable)"
 pmid: "(not applicable)"
 tier: "BRONZE"
 relevance: "Medium — clinical biochemistry"
-status: active
+status: complete
 parent-moc: "[[MOC-Personalized-Nutrition]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-05"

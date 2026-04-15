@@ -1,6 +1,6 @@
 ---
 uid: L-001-0515
-type: lit-note
+type: litnote
 title: False Discovery Rate and Multiple Testing Correction in Metabolomics Studies
 authors: ChatGPT Analysis
 year: 2024

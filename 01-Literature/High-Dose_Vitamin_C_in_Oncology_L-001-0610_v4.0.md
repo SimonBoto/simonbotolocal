@@ -1,6 +1,6 @@
 ---
 uid: L-001-0610
-type: lit-note
+type: litnote
 title: "High-Dose Vitamin C in Oncology_L-001-0610"
 aliases:
   - L-001-0610
@@ -19,6 +19,7 @@ parent-moc: "[[MOC-Cancer-Therapy]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
+source-litnote: "[["CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264"]]"
 zettel-count: 3
 reference-count: 0
 reviewed_by: "RON"

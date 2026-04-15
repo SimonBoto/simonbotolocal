@@ -1,6 +1,6 @@
 ---
 uid: L-001-0589
-type: lit-note
+type: litnote
 title: "Lit — 8-Week Metabolomics Bootcamp Curriculum"
 aliases:
   - L-001-0589
@@ -14,11 +14,12 @@ pmid: N/A
 pmcid: N/A
 tier: SILVER
 relevance: High — Time-bound training curriculum scaffolding cognitive transformation from biochemical literacy to clinical integration
-status: active
+status: complete
 parent-moc: "[[MOC-Metabolomics-Training]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
+source-litnote: "[["CGPT_0022_Metabolomics_training_role_CGPT-0022"]]"
 zettel-count: 6
 reference-count: 0
 extracted_by: FORG
@@ -205,15 +206,16 @@ Military Instructor → Socratic Mentor → Hybrid Precision → Choice based on
 ---
 
 ## Status Checklist
-- [x] Source read completely
-- [x] YAML standardized (type: litnote, source-inbox, zettel-count, reference-count, tags)
-- [x] Core claim articulated (one sentence)
-- [x] Core concepts numbered (1, 2, 3...)
-- [x] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [x] Zettel links use FULL format with titles
-- [x] Snowball references documented
-- [x] QMD duplicate check completed
-- [ ] RON review pending
+
+- [x] Source read completely — ## Source section with content?
+- [ ] YAML standardized — uid, type, title, tags, parent-moc present?
+- [x] Core claim articulated — One-sentence core claim exists?
+- [x] Core concepts numbered — Concepts numbered 1, 2, 3...?
+- [x] Subsection headers used — **Category**, **Mechanism**, **Purpose**?
+- [x] Zettel links FULL format — [[Title_Z-XXX-XXXX]] not bare UIDs?
+- [x] Snowball references documented — ## Related References exists?
+- [x] QMD duplicate check completed — In vault (assume yes)
+- [ ] RON review pending — ALWAYS leave unchecked
 
 ---
 

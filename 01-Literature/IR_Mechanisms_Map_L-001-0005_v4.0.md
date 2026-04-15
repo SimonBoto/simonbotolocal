@@ -1,6 +1,6 @@
 ---
 uid: L-001-0005
-type: lit-note
+type: litnote
 source-origin: academic-article
 title: "Lit — IR Mechanisms Map (Synthesis Document)"
 aliases:
@@ -14,6 +14,7 @@ status: complete
 parent-moc: "[[MOC-Insulin-Signaling]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-02-24"
+source-litnote: "[[## Source]]"
 reviewed_by: "FORG"
 created: "2026-02-24"
 updated: "2026-04-09"
@@ -125,12 +126,15 @@ tags:
 
 ## Status Checklist
 
-- [ ] Source read completely
+- [x] Source read completely
 - [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+  → Missing: YAML should use type: litnote (no hyphen) and include source-inbox, zettel-count, reference-count fields
 - [ ] Core claim articulated (one sentence)
-- [ ] Core concepts numbered (1, 2, 3...)
+  → Missing: No one-sentence core claim found
+- [x] Core concepts numbered (1, 2, 3...)
 - [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
-- [ ] Zettel links use FULL format with titles
-- [ ] Snowball references documented
-- [ ] QMD duplicate check completed
+  → Missing: Uses different header structure
+- [x] Zettel links use FULL format with titles
+- [x] Snowball references documented
+- [x] QMD duplicate check completed
 - [ ] RON review pending

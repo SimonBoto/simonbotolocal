@@ -1,6 +1,6 @@
 ---
 uid: L-001-0503
-type: lit-note
+type: litnote
 title: "Lit — Seed Oils, Omega-6/Omega-3 Ratio, and Inflammation (Dietary Fat Quality and Cardiovascular Risk)"
 aliases:
   - L-001-0503
@@ -21,6 +21,7 @@ parent-moc: "[[MOC-Dietary-Fats]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]]"
+source-litnote: "[["CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074"]]"
 zettel-count: 6
 reference-count: 0
 reviewed_by: "FORG"

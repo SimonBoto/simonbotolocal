@@ -1,6 +1,6 @@
 ---
 uid: L-001-0591
-type: lit-note
+type: litnote
 title: "Lit — Mitochondrial Biochemistry for Clinicians"
 aliases:
   - L-001-0591
@@ -19,6 +19,7 @@ parent-moc: "[[MOC-Mitochondrial-Function]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
+source-litnote: "[["CGPT_0022_Metabolomics_training_role_CGPT-0022"]]"
 zettel-count: 6
 reference-count: 0
 extracted_by: FORG

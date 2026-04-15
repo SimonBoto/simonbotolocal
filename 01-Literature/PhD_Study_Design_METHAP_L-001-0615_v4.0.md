@@ -1,6 +1,6 @@
 ---
 uid: L-001-0615
-type: lit-note
+type: litnote
 title: PhD Study Design and Methodology METHAP Trial
 aliases:
   - L-001-0615
@@ -12,13 +12,14 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: Critical — RCT structure, inclusion criteria, intervention protocol, timeline for PhD research on metabolic biomarkers and insulin resistance
-status: active
+status: complete
 parent-moc: 
 tags:
   - lit-note
   - metabolism
 extraction-date: 2026-03-08
 source-inbox: "[[00-Inbox]]"
+source-litnote: "[["00-Inbox"]]"
 zettel-count: 0
 reference-count: 0
 source: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475]]"

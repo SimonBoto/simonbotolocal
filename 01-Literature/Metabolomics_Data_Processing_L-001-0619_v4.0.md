@@ -1,6 +1,6 @@
 ---
 uid: L-001-0619
-type: lit-note
+type: litnote
 title: "Metabolomics Data Processing METHAP"
 aliases:
   - L-001-0619
@@ -13,7 +13,7 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: "High — Preprocessing, normalization, pathway analysis, network analysis for PhD metabolomics workflow"
-status: active
+status: complete
 source-origin: legacy
 parent-moc: "[[MOC-Metabolomics]]"
 tags:
@@ -21,6 +21,7 @@ tags:
   - metabolism
 extraction-date: 2026-03-08
 source-inbox: "[[00-Inbox]]"
+source-litnote: "[["00-Inbox"]]"
 zettel-count: 3
 reference-count: 0
 source: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475]]"

@@ -1,6 +1,6 @@
 ---
 uid: L-001-0509
-type: lit-note
+type: litnote
 title: "Mevalonate Pathway — From Acetyl-CoA to Cholesterol and Coenzyme Q10"
 aliases:
   - L-001-0509
@@ -22,6 +22,7 @@ parent-moc: "[[MOC-Lipid-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]"
+source-litnote: "[["CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393"]]"
 zettel-count: 5
 reference-count: 0
 reviewed_by: "RON"

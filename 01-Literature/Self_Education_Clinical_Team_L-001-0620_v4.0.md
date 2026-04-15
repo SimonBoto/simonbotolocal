@@ -1,6 +1,6 @@
 ---
 uid: L-001-0620
-type: lit-note
+type: litnote
 title: Self-Education Program for Clinical Metabolomics Team
 authors: ChatGPT Analysis
 year: 2024
@@ -10,11 +10,14 @@ pmid: N/A
 pmcid: N/A
 tier: BRONZE
 relevance: High — Team education framework for personalized medicine practice
-aliases: [L-001-0620, Clinical Team Education, Metabolomics Learning Program]
+aliases:
+  - L-001-0620
+  - Clinical Team Education
+  - Metabolomics Learning Program
 domain: 001
 tags: [litnote, education, clinical-team, metabolomics, personalized-medicine, workflow]
 source: "[[CGPT_0311_Self_Education_Program_Plan_CGPT-0311]]"
-status: active
+status: complete
 parent-moc: 
 extraction-date: 2026-03-08
 ---
