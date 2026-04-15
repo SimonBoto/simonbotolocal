@@ -35,6 +35,8 @@ status: conscious
 | **FORG create-only: never delete/archive/overwrite** | **Safety Protocol** | **2026-04-14** |
 | **RON sole curator: delete/archive authority** | **Safety Protocol** | **2026-04-14** |
 | **Local models (Gemma 2B) unreliable for production** | **LOCOl Deprecation** | **2026-04-14** |
+| **FORG cost efficiency: $0.04 vs $2.00 = 98% savings** | **Dreaming 2026-04-15** | **2026-04-15** |
+| **Safety by design: separation of concerns prevents accidents** | **Dreaming 2026-04-15** | **2026-04-15** |
 
 ## Verification & Quality
 
