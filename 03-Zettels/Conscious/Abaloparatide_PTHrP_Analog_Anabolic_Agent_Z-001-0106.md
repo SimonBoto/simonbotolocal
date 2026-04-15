@@ -7,6 +7,7 @@ domain: 001
 tags: [zettel, abaloparatide, pthrp, anabolic, osteoporosis, pth1-receptor, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_Anabolic_Bone_Therapies_L-001-0016]]
+extraction-date: 2026-04-15
 status: conscious
 ---
 

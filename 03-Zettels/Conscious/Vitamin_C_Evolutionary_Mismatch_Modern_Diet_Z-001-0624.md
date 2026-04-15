@@ -9,6 +9,8 @@ parent-index: [[03-Zettels-Conscious]]
 parent-moc: [[MOC-Vitamin-Mineral-Axis]]
 related: [[Human_GULO_Gene_Loss_Vitamin_C_Dependency_Z-001-0621]], [[Vitamin_C_RDA_vs_Optimal_Intake_Z-001-0622]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Vitamin C Evolutionary Mismatch Modern Diet

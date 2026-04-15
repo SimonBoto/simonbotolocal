@@ -2,6 +2,8 @@
 uid: Z-001-0006
 type: zettel-cont
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 title: IRS-1 vs IRS-2 Tissue Distribution
 aliases: [Z-001-0006, IRS1_IRS2_Comparison]
 domain: 001

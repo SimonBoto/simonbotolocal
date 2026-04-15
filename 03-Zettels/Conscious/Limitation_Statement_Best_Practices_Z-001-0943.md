@@ -8,6 +8,7 @@ tags: [zettel, limitations, scientific-writing, transparency, research-integrity
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Limitation Statement Best Practices in Scientific Writing

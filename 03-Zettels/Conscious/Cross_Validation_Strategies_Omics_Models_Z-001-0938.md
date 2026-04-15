@@ -8,6 +8,7 @@ tags: [zettel, cross-validation, cv, opls-da, metabolomics, prediction, model-va
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Cross-Validation Strategies for Omics Prediction Models

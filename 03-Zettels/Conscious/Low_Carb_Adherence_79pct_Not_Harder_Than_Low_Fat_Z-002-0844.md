@@ -9,6 +9,7 @@ tags: [zettel, low-carb, adherence, 79-percent, completion-rate, sustainable]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0235_Low_Carb_vs_Low_Fat_39_RCTs]]"
+extraction-date: 2026-04-15
 source-reference: "[[Low_Carb_Low_Fat_39_RCTs_Meta_Analysis_R-002-0062]]"
 related: []
 ---

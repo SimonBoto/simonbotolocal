@@ -9,6 +9,7 @@ tags: [zettel, saturated-fat, dairy, brain-health, dementia, cheese, paradigm-sh
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Neurological-Health]]"
 source-litnote: "[[L-002-0176_High_Fat_Cheese_Dementia_Protection]]"
+extraction-date: 2026-04-15
 source-reference: "[[Du_2026_HighFat_Dairy_Dementia_25yr_R-002-0031]]"
 related: []
 ---

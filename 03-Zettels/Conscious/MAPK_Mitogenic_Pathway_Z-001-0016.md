@@ -2,6 +2,8 @@
 uid: Z-001-0016
 type: zettel
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 title: MAPK Pathway for Mitogenic Signaling
 aliases: [Z-001-0016, MAPK, Ras_MAPK, Mitogenic_Pathway]
 domain: 001

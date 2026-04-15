@@ -9,6 +9,7 @@ tags: [zettel, artificial-sweeteners, visceral-fat, cardia]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0201_Artificial_Sweeteners_Increase_Body_Fat]]"
+extraction-date: 2026-04-15
 source-reference: "[[Steffen_2023_Artificial_Sweeteners_CARDIA_R-002-0041]]"
 related: []
 ---

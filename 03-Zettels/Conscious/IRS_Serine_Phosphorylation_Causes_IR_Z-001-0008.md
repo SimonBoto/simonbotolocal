@@ -2,6 +2,8 @@
 uid: Z-001-0008
 type: zettel-claim
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 title: IRS Serine Phosphorylation Causes Insulin Resistance
 aliases: [Z-001-0008, IRS_Serine_Phosphorylation_IR, SerinePhos_IR]
 domain: 001

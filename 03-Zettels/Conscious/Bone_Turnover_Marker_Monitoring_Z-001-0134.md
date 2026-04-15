@@ -16,6 +16,7 @@ tags: []
   - biomarkers
 parent-moc: "[[MOC-Clinical-Protocols]]"
 source-litnote: "[[Monitoring_and_Follow-Up_L-001-0045M_v4.0]]"
+extraction-date: 2026-04-15
 status: conscious
 ---
 

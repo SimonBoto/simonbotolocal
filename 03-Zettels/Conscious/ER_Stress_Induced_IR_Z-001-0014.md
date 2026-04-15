@@ -2,6 +2,8 @@
 uid: Z-001-0014
 type: zettel
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 title: ER Stress and Insulin Resistance
 aliases: [Z-001-0014, ER_Stress, UPR_IR]
 domain: 001

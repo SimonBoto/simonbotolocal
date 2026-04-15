@@ -15,6 +15,7 @@ tags: []
   - protocols
 parent-moc: "[[MOC-Bone-Health]]"
 source-litnote: "[[Vitamin_D_and_Calcium_Supplementation_L-001-0045O_v4.0]]"
+extraction-date: 2026-04-15
 status: conscious
 ---
 

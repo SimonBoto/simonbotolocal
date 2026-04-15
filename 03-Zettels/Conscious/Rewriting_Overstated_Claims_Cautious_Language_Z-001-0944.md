@@ -8,6 +8,7 @@ tags: [zettel, scientific-writing, cautious-language, claims, overstatement, evi
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Rewriting Overstated Claims Using Cautious Scientific Language

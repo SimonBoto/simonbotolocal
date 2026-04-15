@@ -19,6 +19,7 @@ connections:
   - Z-002-0009
   - Z-004-0001
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 #  Optimal Range 80-150 High Dose Protocol

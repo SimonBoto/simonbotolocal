@@ -7,6 +7,8 @@ domain: 001
 tags: [zettel, omega-6, tissue-incorporation, adipose, membrane, phospholipids, cardiolipin, half-life, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Omega-6 Tissue Incorporation and Cell Membrane Effects

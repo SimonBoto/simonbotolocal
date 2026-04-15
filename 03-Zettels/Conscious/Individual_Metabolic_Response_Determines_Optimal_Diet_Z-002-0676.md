@@ -9,6 +9,7 @@ tags: [zettel, metabolic-response, individual-variation, optimal-diet, personali
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Clinical-Protocols]]"
 source-litnote: "[[L-002-0180_Personalized_Nutrition_Halves_Heart_Attack_Risk]]"
+extraction-date: 2026-04-15
 source-reference: "[[Bermingham_2024_Personalized_Nutrition_RCT_R-002-0040]]"
 related: []
 ---

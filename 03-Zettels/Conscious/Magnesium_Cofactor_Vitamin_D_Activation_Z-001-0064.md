@@ -11,6 +11,8 @@ source: [[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]
 confidence: high
 created: 2026-03-01
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Magnesium Cofactor for  Activation

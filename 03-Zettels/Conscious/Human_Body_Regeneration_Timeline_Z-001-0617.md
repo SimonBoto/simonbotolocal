@@ -9,6 +9,8 @@ parent-index: [[03-Zettels-Conscious]]
 parent-moc: [[MOC-Cellular-Regeneration]]
 related: [[Gut_Epithelium_Turnover_Z-XXX-XXXX]], [[Bone_Remodeling_Cycle_Z-XXX-XXXX]], [[Erythrocyte_Lifespan_Z-XXX-XXXX]], [[Hepatocyte_Regeneration_Z-XXX-XXXX]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Human Body Regeneration Timeline

@@ -12,6 +12,7 @@ homocysteine-threshold: <10 μmol/L
 serum-b12-target: ">600 pg/mL"
 status: conscious
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 connections:
   - Z-004-0001
   - Z-004-0005

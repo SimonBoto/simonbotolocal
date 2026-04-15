@@ -11,6 +11,8 @@ source: [[LitNote_IOM_Vitamin_D_RDA_Error_L-001-0007]
 confidence: high
 created: 2026-03-01
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # IOM Mean vs 97.5th Percentile Statistical Error

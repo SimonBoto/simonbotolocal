@@ -9,6 +9,7 @@ tags: [zettel, opls-da, overfitting, small-samples, multivariate-analysis, metab
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 parent-index: [[03-Zettels-Conscious]]
 

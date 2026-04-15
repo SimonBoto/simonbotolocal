@@ -7,6 +7,7 @@ domain: 101
 tags: [zettel, methap, supplements, intervention, vitamin-d, magnesium, omega-3, safety, conscious]
 parent-moc: [[MOC-Vitamin-Metabolism]]
 source-litnote: [[LitNote_CGPT_0081_PhD_Protocol_IRB_L-101-0048.md]
+extraction-date: 2026-04-15
 status: conscious
 ---
 

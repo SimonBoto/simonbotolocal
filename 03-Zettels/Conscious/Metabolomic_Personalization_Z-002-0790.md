@@ -9,6 +9,7 @@ tags: [zettel, vitamin-d, dosing, inadequacy, target-d, rda]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Nutrition]]"
 source-litnote: "[[L-002-0217_Personalized_Nutrition_Halves_CVD]]"
+extraction-date: 2026-04-15
 source-reference: "[[May_2025_TARGET_D_Vitamin_D_Personalized_R-002-0055]]"
 related: []
 ---

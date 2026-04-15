@@ -9,6 +9,7 @@ tags: [zettel, prevention, lifestyle, chronic-disease, primary-prevention, inter
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Clinical-Protocols]]"
 source-litnote: "[[L-002-0213_Lifestyle_Factors_Modifiable]]"
+extraction-date: 2026-04-15
 source-reference: "[[Lifestyle_Factors_Modifiable_R-002-0053]]"
 related: []
 ---

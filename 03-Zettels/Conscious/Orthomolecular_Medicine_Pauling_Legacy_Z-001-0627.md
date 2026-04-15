@@ -9,6 +9,8 @@ parent-index: [[03-Zettels-Conscious]]
 parent-moc: [[MOC-History-of-Medicine]]
 related: [[Pauling_Scientific_Credentials_Vitamin_C_Z-001-0620]], [[Medical_Establishment_Suppression_Pauling_Z-001-0625]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Orthomolecular Medicine Pauling Legacy

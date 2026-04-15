@@ -11,6 +11,8 @@ apo-b-target: <90 mg/dL
 lp-a-target: <30 mg/dL
 sdldl-target: <30 mg/dL
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 connections:
   - Z-006-0001
   - Z-001-0049

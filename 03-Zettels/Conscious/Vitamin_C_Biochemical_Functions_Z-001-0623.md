@@ -9,6 +9,8 @@ parent-index: [[03-Zettels-Conscious]]
 parent-moc: [[MOC-Vitamin-Mineral-Axis]]
 related: [[Vitamin_C_RDA_vs_Optimal_Intake_Z-001-0622]], [[High_Dose_Vitamin_C_Cancer_Therapy_Z-001-0626]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Vitamin C Biochemical Functions

@@ -11,6 +11,8 @@ source: [[LitNote_Denosumab_Mechanism_Risks_L-001-0012]
 confidence: high
 created: 2026-03-01
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Denosumab Bisphosphonate Transition Protocol

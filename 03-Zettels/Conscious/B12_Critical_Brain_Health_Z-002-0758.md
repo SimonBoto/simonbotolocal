@@ -9,6 +9,7 @@ tags: [zettel, B12, vitamin-B12, brain, cognition, APOE4, meat]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Nutrition]]"
 source-litnote: "[[L-002-0206_Meat_Consumption_Eliminates_Alzheimer_Genetic_Risk]]"
+extraction-date: 2026-04-15
 source-reference: "[[Norgren_2026_Meat_APOE4_Dementia_R-002-0046]]"
 related: []
 ---

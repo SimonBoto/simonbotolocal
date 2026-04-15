@@ -7,6 +7,7 @@ domain: 101
 tags: [zettel, ascorbate, oxalate, metabolism, conversion, conscious]
 parent-moc: [[MOC-Vitamin-Metabolism]]
 source-litnote: [[CGPT_0549_LitNote_Draft]]
+extraction-date: 2026-04-15
 status: conscious
 ---
 

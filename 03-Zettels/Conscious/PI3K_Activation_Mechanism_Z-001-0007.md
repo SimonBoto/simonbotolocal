@@ -2,6 +2,8 @@
 uid: Z-001-0007
 type: zettel
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 title: PI3K Activation Mechanism
 aliases: [Z-001-0007, PI3K, PI3K_Activation]
 domain: 001

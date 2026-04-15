@@ -9,6 +9,8 @@ parent-index: [[03-Zettels-Conscious]]
 parent-moc: [[MOC-Vitamin-Mineral-Axis]]
 related: [[Vitamin_D_Calcium_Absorption_Z-XXX-XXXX]], [[Vitamin_B12_Nerve_Function_Z-XXX-XXXX]], [[Vitamin_A_Vision_Z-XXX-XXXX]], [[Vitamin_K_Clotting_Z-XXX-XXXX]], [[Vitamin_C_Collagen_Z-XXX-XXXX]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Vitamin Functions Overview

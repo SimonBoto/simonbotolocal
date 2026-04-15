@@ -8,6 +8,7 @@ domain-name: Cancer Metabolism
 tags: [zettel, hbot, radiosensitization, chemotherapy, enhancement]
 parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_HBOT_Cancer_L-001-0614]
+extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-08
 ---

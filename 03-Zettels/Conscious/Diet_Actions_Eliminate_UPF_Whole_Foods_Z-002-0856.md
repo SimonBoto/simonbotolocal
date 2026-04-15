@@ -9,6 +9,7 @@ tags: [zettel, diet-actions, upf, whole-foods, traditional-fats, protein]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Lifestyle-Medicine]]"
 source-litnote: "[[L-002-0239_Twelve_Actions_Better_Health_2026]]"
+extraction-date: 2026-04-15
 source-reference: "[[Twelve_Actions_Better_Health_2026_R-002-0064]]"
 related: []
 ---

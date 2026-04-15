@@ -9,6 +9,7 @@ tags: [zettel, five-risk-factors, modifiable, longevity, 14-years, nejm]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Global-Health]]"
 source-litnote: "[[L-002-0230_Five_Risk_Factors_14_Years_NEJM]]"
+extraction-date: 2026-04-15
 source-reference: "[[NEJM_2025_Global_CV_Risk_Lifetime_Estimates_R-002-0037]]"
 related: []
 ---

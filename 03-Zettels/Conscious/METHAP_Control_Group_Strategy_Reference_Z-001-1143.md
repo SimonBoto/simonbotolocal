@@ -8,6 +8,7 @@ domain-name: PhD Research
 tags: [zettel, methap, control-group, reference, strategy]
 parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]
+extraction-date: 2026-04-15
 ethical-consideration: control-group-receives-standard-care
 ---
 

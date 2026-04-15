@@ -15,6 +15,7 @@ connections:
   - Z-004-0001
   - Z-007-0001
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Ferritin — Iron Status and Inflammation

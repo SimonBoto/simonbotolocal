@@ -9,6 +9,7 @@ tags: [zettel, low-carb, low-fat, weight-loss, glycemic-control, type-2-diabetes
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0172_Low_Carb_vs_Low_Fat_Comparison]]"
+extraction-date: 2026-04-15
 source-reference: "[[Apekey_2022_LCD_LFD_T2D_Meta_R-002-0034]]"
 related: []
 ---

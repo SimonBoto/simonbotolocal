@@ -9,6 +9,7 @@ tags: [zettel, caffeine, coffee, tea, neuroprotection, decaf, no-benefit]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Cognitive-Health]]"
 source-litnote: "[[L-002-0226_Coffee_Dementia_Risk]]"
+extraction-date: 2026-04-15
 source-reference: "[[Zhang_2026_Coffee_Tea_Dementia_R-001-0094]]"
 related: []
 ---

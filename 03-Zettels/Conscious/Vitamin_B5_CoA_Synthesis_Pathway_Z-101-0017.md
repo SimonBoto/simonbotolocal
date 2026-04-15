@@ -7,6 +7,7 @@ domain: 101
 tags: [zettel, vitamin-b5, pantothenic-acid, coenzyme-a, coa-synthesis, pkan, biochemistry]
 parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
+source-litnote: legacy-no-source
 source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]"
 extraction-date: 2026-03-02
 ---

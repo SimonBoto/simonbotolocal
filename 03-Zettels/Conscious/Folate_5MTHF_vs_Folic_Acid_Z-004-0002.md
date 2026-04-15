@@ -15,6 +15,7 @@ connections:
   - Z-004-0005
   - Z-004-0019
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Folate — 5-MTHF vs Folic Acid

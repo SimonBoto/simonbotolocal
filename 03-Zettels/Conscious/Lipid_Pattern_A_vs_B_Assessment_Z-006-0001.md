@@ -15,6 +15,7 @@ connections:
   - Z-006-0002
   - Z-006-0003
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Lipid Pattern A vs Pattern B Assessment

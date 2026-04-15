@@ -9,6 +9,7 @@ tags: [zettel, childhood-obesity, undernutrition, global-health, nutrition-trans
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Pediatric-Health]]"
 source-litnote: "[[L-002-0179_Childhood_Obesity_Exceeds_Undernutrition]]"
+extraction-date: 2026-04-15
 source-reference: "[[Kavanagh_2026_UPF_Children_Behavior_R-002-0023]]"
 related: []
 ---

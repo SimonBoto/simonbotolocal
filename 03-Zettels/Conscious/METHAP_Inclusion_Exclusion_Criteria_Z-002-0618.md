@@ -8,6 +8,7 @@ domain-name: Research Ethics
 tags: [zettel, methap, inclusion-criteria, exclusion-criteria]
 parent-moc: [[MOC-Vitamin-Metabolism]]
 source-litnote: "[[METHAP_Study_Design_Protocol_L-002-0604_v4.0]]"
+extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-27
 ---

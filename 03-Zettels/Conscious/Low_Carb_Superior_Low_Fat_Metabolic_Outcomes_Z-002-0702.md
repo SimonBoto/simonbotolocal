@@ -9,6 +9,7 @@ tags: [zettel, low-carb, low-fat, metabolic-outcomes, comparison]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0189_Low_Carb_vs_Low_Fat]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

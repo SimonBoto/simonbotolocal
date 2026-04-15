@@ -7,6 +7,7 @@ domain: 101
 tags: [zettel, clinicaltrials-gov, compliance, nih, regulatory, checklist, methap, conscious]
 parent-moc: [[MOC-Methylation]]
 source-litnote: [[LitNote_CGPT_0102_ClinicalTrials_Gov_L-101-0049.md]
+extraction-date: 2026-04-15
 status: conscious
 ---
 

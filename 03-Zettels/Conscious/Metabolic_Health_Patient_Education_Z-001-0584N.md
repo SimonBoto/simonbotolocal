@@ -13,6 +13,7 @@ tags: []
   - patient
 parent-moc: "[[MOC-Metabolic-Health]]"
 source-litnote: "[[Five_Pillars_of_Metabolic_Health_-_Clinical_Conf_L-001-0584_v4.0]]"
+extraction-date: 2026-04-15
 status: conscious
 ---
 

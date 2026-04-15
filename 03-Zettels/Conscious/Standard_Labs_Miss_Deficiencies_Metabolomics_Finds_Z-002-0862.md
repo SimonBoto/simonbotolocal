@@ -9,6 +9,7 @@ tags: [zettel, standard-labs, deficiencies, metabolomics, misses, finds]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Lifestyle-Medicine]]"
 source-litnote: "[[L-002-0240_Lifestyle_Diet_Modifiable_Factors]]"
+extraction-date: 2026-04-15
 source-reference: "[[BMJ_Modifiable_Factors_95_Improvement_R-002-0065]]"
 related: []
 ---

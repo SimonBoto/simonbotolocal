@@ -1,5 +1,6 @@
 ---
 source-litnote: [[High_Glucose_vs_High_Insulin-_Insulin_Matters_More_L-002-0221_v4.0]]
+extraction-date: 2026-04-15
 uid: Z-001-0001
 type: zettel
 status: conscious

@@ -2,6 +2,8 @@
 uid: Z-001-0012
 type: zettel
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 title: GSK3 Inhibition and Glycogen Synthesis
 aliases: [Z-001-0012, GSK3, Glycogen_Synthesis]
 domain: 001

@@ -9,6 +9,7 @@ tags: [zettel, walking, 8000-steps, mortality, reduction, jama]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0245_Walking_Mortality_Reduction]]"
+extraction-date: 2026-04-15
 source-reference: "[[Paluch_2023_Walking_Mortality_JAMA_R-002-0068]]"
 related: []
 ---

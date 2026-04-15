@@ -13,6 +13,7 @@ tags: []
   - diagnostics
 parent-moc: "[[MOC-Gastroenterology]]"
 source-litnote: "[[Inflammatory_Bowel_Disease_-_Crohn-s_vs_Ulcerati_L-001-0585_v4.0]]"
+extraction-date: 2026-04-15
 status: conscious
 ---
 

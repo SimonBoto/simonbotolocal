@@ -7,6 +7,8 @@ domain: 001
 tags: [zettel, bone-remodeling, osteoclasts, rankl, m-csf, activation, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Activation Phase — RANKL and M-CSF Drive Osteoclast Differentiation

@@ -8,6 +8,7 @@ status: conscious
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Physical-Activity]]"
 source-litnote: "[[L-002-0245_Walking_Mortality_Reduction]]"
+extraction-date: 2026-04-15
 ---
 
 # Physical Activity Minimum Effective Dose — 1-2x Weekly

@@ -9,6 +9,7 @@ tags: [zettel, insulin-resistance, cad, cholesterol, risk]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Insulin-Resistance]]"
 source-litnote: "[[L-002-0196_Metabolism_Heart_Health]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

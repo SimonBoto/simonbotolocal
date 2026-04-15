@@ -7,6 +7,7 @@ domain: 101
 tags: [zettel, mtor, diabetes, insulin-resistance, beta-cell, nodat, sirolimus, glucose-metabolism, conscious]
 parent-moc: [[MOC-Mitochondrial-Function]]
 source-litnote: [[LitNote_CGPT_0189_Sirolimus_Diabetes_L-101-0053.md]
+extraction-date: 2026-04-15
 status: conscious
 ---
 

@@ -7,6 +7,7 @@ domain: 101
 tags: [zettel, methap, irb, ethics-committee, action-items, regulatory, phd, conscious]
 parent-moc: [[MOC-Vitamin-Metabolism]]
 source-litnote: [[Machine_Learning_in_Metabolomics_METHAP_L-001-0618_v4.0]]
+extraction-date: 2026-04-15
 status: conscious
 ---
 

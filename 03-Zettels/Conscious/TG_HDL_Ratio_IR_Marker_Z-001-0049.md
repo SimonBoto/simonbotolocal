@@ -16,6 +16,7 @@ connections:
   - Z-006-0001
   - Z-001-0018
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # TG/HDL Ratio — Insulin Resistance Lipid Marker

@@ -9,6 +9,8 @@ parent-index: [[03-Zettels-Conscious]]
 parent-moc: [[MOC-Cellular-Compartmentalization]]
 related: [[Nicotine_Two_Ring_Structure_Z-001-0615A]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Nicotine Vacuolar Compartmentalization

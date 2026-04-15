@@ -9,6 +9,7 @@ tags: [zettel, removing-seed-oils, mitochondrial-function, health, metabolomics]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Nutrition]]"
 source-litnote: "[[L-002-0238_Seed_Oils_Traditional_Fats]]"
+extraction-date: 2026-04-15
 source-reference: "[[Tsoukalas_2024_Metabolomics_Chronic_Disease_R-002-0053]],[[Sarandi_2020_Metabolic_Profiling_R-001-0091]]"
 related: []
 ---

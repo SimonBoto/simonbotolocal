@@ -9,6 +9,7 @@ tags: [zettel, insulin-resistance, low-carb, personalized, metabolic]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0189_Low_Carb_vs_Low_Fat]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

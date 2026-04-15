@@ -9,6 +9,7 @@ tags: [zettel]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Pediatric-Health]]"
 source-litnote: "[[Pediatric_Obesity_Historic_Reversal_-_Obese_Chil_L-002-0215_v4.0]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

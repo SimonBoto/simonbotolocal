@@ -2,6 +2,8 @@
 uid: Z-001-0005
 type: zettel
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 title: IRS Protein Recruitment
 aliases: [Z-001-0005, IRS, IRS_Recruitment]
 domain: 001

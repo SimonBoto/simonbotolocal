@@ -16,6 +16,7 @@ connections:
   - Z-003-0011
   - Z-002-0004
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Homocysteine — Composite Methylation Status Marker

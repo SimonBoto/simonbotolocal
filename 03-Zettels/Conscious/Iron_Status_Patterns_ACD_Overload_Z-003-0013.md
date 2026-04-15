@@ -14,6 +14,7 @@ connections:
   - Z-007-0001
   - Z-004-0011
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Iron Status Patterns — Deficiency, ACD, Overload

@@ -8,6 +8,7 @@ domain-name: Research Ethics
 tags: [zettel, research-ethics, irb, communication, template]
 parent-moc: [[MOC-Research-Ethics]]
 source-litnote: "[[LitNote_Ethics_Committee_Communication_L-002-0603]"
+extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-27
 ---

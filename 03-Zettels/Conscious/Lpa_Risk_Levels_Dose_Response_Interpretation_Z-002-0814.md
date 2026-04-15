@@ -9,6 +9,7 @@ tags: [zettel, lpa, risk-levels, dose-response, 30-mg, 50-mg]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Cholesterol-Lipid]]"
 source-litnote: "[[L-002-0225_Lpa_Mechanism_Management]]"
+extraction-date: 2026-04-15
 source-reference: "[[Kamstrup_2009_Lp(a)_Genetic_MI_Risk_R-002-0039]]"
 related: []
 ---

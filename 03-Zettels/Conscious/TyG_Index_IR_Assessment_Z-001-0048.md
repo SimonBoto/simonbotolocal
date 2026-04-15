@@ -16,6 +16,7 @@ connections:
   - Z-001-0050
   - Z-006-0001
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # TyG Index — Triglyceride-Glucose Index for IR Assessment

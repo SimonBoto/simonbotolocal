@@ -2,6 +2,8 @@
 uid: Z-001-0017
 type: zettel
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 title: Cbl-CAP Pathway and Lipid Raft Signaling
 aliases: [Z-001-0017, Cbl_CAP, Lipid_Raft, Alternative_Pathway]
 domain: 001

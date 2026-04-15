@@ -9,6 +9,7 @@ tags: [zettel, omega-6, oxidation, toxic, aldehydes, 4-hne]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0190_Seed_Oils_Diabetes_Risk]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

@@ -9,6 +9,7 @@ tags: [zettel, modifiable-factors, longevity, lifespan, nejm, prevention]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0191_Lifestyle_Diet_Disease_Determinants]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

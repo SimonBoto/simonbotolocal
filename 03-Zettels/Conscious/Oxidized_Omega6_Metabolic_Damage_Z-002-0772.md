@@ -9,6 +9,7 @@ tags: [zettel, omega-6, oxidation, metabolic-damage, inflammation, 4-HNE]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0211_Fried_Potatoes_Seed_Oils_Diabetes]]"
+extraction-date: 2026-04-15
 source-reference: "[[Fried_Potatoes_Seed_Oils_Diabetes_R-002-0051]]"
 related: []
 ---

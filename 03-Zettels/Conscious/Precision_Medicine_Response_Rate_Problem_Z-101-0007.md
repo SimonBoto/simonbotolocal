@@ -10,6 +10,7 @@ parent-moc: [[MOC-Metabolomics]]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Precision Medicine 30-60 Percent Response Rate Problem

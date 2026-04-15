@@ -9,6 +9,7 @@ tags: [zettel, epidemiological-transition, chronic-disease]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Diabetes-T2D]]"
 source-litnote: "[[L-002-0202_Chronic_Disease_74pct_Global_Deaths]]"
+extraction-date: 2026-04-15
 source-reference: "[[GBD_2019_NCD_Global_Burden_R-002-0042]]"
 related: []
 ---

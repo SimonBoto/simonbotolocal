@@ -11,6 +11,7 @@ confidence: high
 created: 2026-03-03
 updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # FDR 0.1 vs 0.05 Selection Framework

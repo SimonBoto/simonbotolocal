@@ -13,6 +13,7 @@ tags: []
   - osteoporosis
 parent-moc: "[[MOC-Bone-Health]]"
 source-litnote: "[[Anabolic_vs_Antiresorptive_Therapy_Selection_L-001-0045I_v4.0]]"
+extraction-date: 2026-04-15
 status: conscious
 ---
 

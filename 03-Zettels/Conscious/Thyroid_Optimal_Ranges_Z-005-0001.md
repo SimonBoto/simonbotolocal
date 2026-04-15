@@ -15,6 +15,7 @@ connections:
   - Z-002-0004
   - Z-004-0001
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Thyroid Optimal Ranges — TSH, fT3, fT4 Beyond Standard

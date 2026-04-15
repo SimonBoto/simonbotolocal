@@ -9,6 +9,8 @@ parent-index: [[03-Zettels-Conscious]]
 parent-moc: [[MOC-Mitochondrial-Function]]
 related: [[Mitochondria_Beyond_ATP_Z-XXX-XXXX]], [[Cytochrome_C_Apoptosis_Z-XXX-XXXX]], [[mtDNA_Innate_Immunity_Z-XXX-XXXX]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Mitochondrial Functions Beyond ATP Diagram

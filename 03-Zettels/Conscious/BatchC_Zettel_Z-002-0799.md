@@ -9,6 +9,7 @@ tags: [zettel]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Exercise-Physiology]]"
 source-litnote: "[[Minimal_Exercise_Dose-_15-20_Minutes_Weekly_Reduce_L-002-0220_v4.0]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

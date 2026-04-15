@@ -10,6 +10,7 @@ parent-moc: [[MOC-Mitochondrial-Function]]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Metformin AMPK mTOR Immuno

@@ -7,6 +7,8 @@ aliases: [Subconscious, Permanent, Ground Truth]
 tags: [index, subconscious, zettels, permanent, immutable, folder]
 parent-index: 
 status: active
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # 🔒 03-Zettels/Subconscious — Permanent Notes

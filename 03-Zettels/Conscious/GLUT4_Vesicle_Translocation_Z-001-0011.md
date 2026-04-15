@@ -2,6 +2,8 @@
 uid: Z-001-0011
 type: zettel
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 title: GLUT4 Vesicle Translocation
 aliases: [Z-001-0011, GLUT4, GLUT4_Translocation]
 domain: 001

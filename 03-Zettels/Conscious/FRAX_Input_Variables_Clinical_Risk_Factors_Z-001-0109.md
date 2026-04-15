@@ -7,6 +7,8 @@ domain: 001
 tags: [zettel, frax, risk-factors, osteoporosis, fracture-prediction, clinical-assessment, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # FRAX Input Variables — Clinical Risk Factors for Fracture Prediction

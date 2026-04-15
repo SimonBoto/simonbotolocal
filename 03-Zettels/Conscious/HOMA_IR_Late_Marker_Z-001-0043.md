@@ -10,6 +10,7 @@ parent-moc: [[MOC-Insulin-Signaling]]
 confidence: high
 created: 2026-02-24
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # HOMA-IR is a Late Marker Despite Its Name

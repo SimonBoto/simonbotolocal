@@ -14,6 +14,7 @@ tags: []
   - osteoporosis
 parent-moc: "[[MOC-Clinical-Protocols]]"
 source-litnote: "[[Drug_Transition_Protocols_—_Sequential_Therapy_in_Osteopor_L-001-0018_v4.0]]"
+extraction-date: 2026-04-15
 status: conscious
 ---
 

@@ -9,6 +9,7 @@ tags: [zettel, thermic-effect, TEF, macronutrients, protein, metabolism]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0210_Not_All_Calories_Equal]]"
+extraction-date: 2026-04-15
 source-reference: "[[Calories_Not_Equal_Metabolic_R-002-0050]]"
 related: []
 ---

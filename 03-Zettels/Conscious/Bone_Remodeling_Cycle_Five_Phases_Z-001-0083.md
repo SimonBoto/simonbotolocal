@@ -11,6 +11,8 @@ source: [[LitNote_Bone_Remodeling_Cellular_Mechanisms_L-001-0011]
 confidence: high
 created: 2026-03-01
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Bone Remodeling Cycle Five Phases

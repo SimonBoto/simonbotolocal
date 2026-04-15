@@ -8,6 +8,7 @@ domain-name: PhD Research
 tags: [zettel, methap, timeline, testing, schedule]
 parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: "[[PhD_Study_Design_METHAP_L-001-0615_v4.0]]"
+extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-08
 ---

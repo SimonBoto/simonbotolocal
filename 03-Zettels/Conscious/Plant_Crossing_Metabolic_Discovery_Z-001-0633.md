@@ -9,6 +9,8 @@ parent-index: [[03-Zettels-Conscious]]
 parent-moc: [[MOC-Research-Methodology]]
 related: [[Single_Mutation_Nicotine_Block_Z-001-0615G]], [[Heterologous_Nicotine_Pathway_Reconstitution_Z-001-0615H]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Plant Crossing for Metabolic Discovery

@@ -9,6 +9,7 @@ tags: [zettel, metabolic-cluster, insulin-resistance, syndrome, manifestations]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0195_CVD_Risk_Factor_Ranking]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

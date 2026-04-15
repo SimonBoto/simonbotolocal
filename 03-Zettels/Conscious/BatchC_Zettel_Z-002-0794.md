@@ -9,6 +9,7 @@ tags: [zettel]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Cancer-Metabolism]]"
 source-litnote: "[[L-002-0218]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

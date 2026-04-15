@@ -12,6 +12,7 @@ connections:
   - Z-003-0001
   - Z-007-0001
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # CBC — Complete Blood Count Patterns

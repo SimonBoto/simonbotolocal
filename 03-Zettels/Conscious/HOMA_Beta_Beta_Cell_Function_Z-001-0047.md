@@ -15,6 +15,7 @@ connections:
   - Z-001-0016
   - Z-001-0018
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # HOMA-β — Beta-Cell Function Assessment

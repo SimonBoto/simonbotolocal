@@ -2,6 +2,8 @@
 uid: Z-001-0004
 type: zettel
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 title: INSR Mutations and Donohue Syndrome
 aliases: [Z-001-0004, INSR_Mutations, Donohue_Syndrome]
 domain: 001

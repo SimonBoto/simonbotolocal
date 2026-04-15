@@ -9,6 +9,7 @@ tags: [zettel, lpa, lipoprotein-a, cvd, stroke, independent-risk, genetics]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Cholesterol-Quality]]"
 source-litnote: "[[L-002-0183_Lipoprotein_a_Lp(a)_Genetic_Risk]]"
+extraction-date: 2026-04-15
 source-reference: "[[Kamstrup_2009_Lp(a)_Genetic_MI_Risk_R-002-0039]]"
 related: []
 ---

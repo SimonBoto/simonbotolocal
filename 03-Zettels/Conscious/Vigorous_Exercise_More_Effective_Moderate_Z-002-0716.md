@@ -9,6 +9,7 @@ tags: [zettel, vigorous-exercise, moderate, intensity, mortality]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Exercise-Physiology]]"
 source-litnote: "[[L-002-0193_Minimal_Exercise_Dose_Mortality]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

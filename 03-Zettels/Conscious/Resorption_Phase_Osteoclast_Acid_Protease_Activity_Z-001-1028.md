@@ -8,6 +8,8 @@ domain: 001
 tags: [zettel, bone-remodeling, osteoclasts, resorption, acid, cathepsin-k, mmp9, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 parent-index: [[03-Zettels-Conscious]]
 

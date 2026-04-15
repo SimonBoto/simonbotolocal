@@ -12,6 +12,7 @@ tags: []
   - functional
 parent-moc: "[[MOC-Hormones]]"
 source-litnote: "[[Male_Hormone_Assessment_-_Clinical_Scenarios_and_L-001-0578_v4.0]]"
+extraction-date: 2026-04-15
 status: conscious
 ---
 

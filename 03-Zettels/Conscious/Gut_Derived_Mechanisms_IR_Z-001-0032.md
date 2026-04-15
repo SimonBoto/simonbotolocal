@@ -8,6 +8,7 @@ domain-name: Insulin Signaling
 tags: [zettel, gut-microbiome, dysbiosis, LPS, metabolic-endotoxemia, tight-junctions]
 parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: "[[IR_Mechanisms_Map_L-001-0005_v4.0]]"
+extraction-date: 2026-04-15
 confidence: high
 created: 2026-02-24
 ---

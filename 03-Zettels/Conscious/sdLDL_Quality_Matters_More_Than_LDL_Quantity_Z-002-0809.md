@@ -9,6 +9,7 @@ tags: [zettel, sdldl, ldl, quality, quantity, atherogenic]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Cholesterol-Lipid]]"
 source-litnote: "[[L-002-0223_CVD_Risk_Factors_Ranking]]"
+extraction-date: 2026-04-15
 source-reference: "[[Ikezaki_2021_Small_Dense_LDL_Framingham_R-001-0007]],[[Diamond_2022_Statin_Low_Carb_R-001-0101]]"
 related: []
 ---

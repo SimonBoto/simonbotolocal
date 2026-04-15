@@ -9,6 +9,7 @@ tags: [zettel, upf, ultra-processed, umbrella-review, 45-studies, mortality, cvd
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0228_UPF_Death_CVD_Obesity_Diabetes]]"
+extraction-date: 2026-04-15
 source-reference: "[[Lane_2024_BMJ_UPF_Metaanalysis_R-002-0021]]"
 related: []
 ---

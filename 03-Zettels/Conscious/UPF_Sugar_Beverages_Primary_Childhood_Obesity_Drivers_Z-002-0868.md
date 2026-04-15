@@ -9,6 +9,7 @@ tags: [zettel, upf, sugar, beverages, childhood-obesity, drivers]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Global-Health]]"
 source-litnote: "[[L-002-0242_Obese_Children_Outnumber_Underweight]]"
+extraction-date: 2026-04-15
 source-reference: "[[UNICEF_Obese_Children_Outnumber_Underweight_R-002-0066]]"
 related: []
 ---

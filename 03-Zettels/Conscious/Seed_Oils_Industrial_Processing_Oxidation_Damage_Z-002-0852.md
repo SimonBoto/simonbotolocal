@@ -9,6 +9,7 @@ tags: [zettel, seed-oils, industrial-processing, oxidation, lipid-damage]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Nutrition]]"
 source-litnote: "[[L-002-0238_Seed_Oils_Traditional_Fats]]"
+extraction-date: 2026-04-15
 source-reference: "[[Mousavi_2025_Potato_T2D_BMJ_R-002-0029]],[[Grootveld_2018_Lipid_Oxidation_Fried_Foods_R-002-0051b]],[[Broadfield_2024_Lipidomics_Colon_Cancer_R-001-0081]]"
 related: []
 ---

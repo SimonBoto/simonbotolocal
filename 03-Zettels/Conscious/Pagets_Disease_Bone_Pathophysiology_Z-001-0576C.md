@@ -16,6 +16,7 @@ tags: []
   - pagets-disease
 parent-moc: "[[MOC-Biomarkers]]"
 source-litnote: "[[Alkaline_Phosphatase_Overview_-_Isoenzymes-_Page_L-001-0576_v4.0]]"
+extraction-date: 2026-04-15
 status: conscious
 ---
 

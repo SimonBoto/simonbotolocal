@@ -15,6 +15,7 @@ tags: []
   - ckd
 parent-moc: "[[MOC-Metabolism]]"
 source-litnote: "[[Carbohydrate_Context_Modifies_Protein_Effects_-_L-001-0574_v4.0]]"
+extraction-date: 2026-04-15
 status: conscious
 ---
 

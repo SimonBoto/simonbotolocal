@@ -15,6 +15,7 @@ connections:
   - Z-007-0001
   - Z-001-0019
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Hashimoto Pattern — Anti-TPO and Anti-TG Thyroid Autoimmunity

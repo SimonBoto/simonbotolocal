@@ -9,6 +9,8 @@ parent-index: [[03-Zettels-Conscious]]
 parent-moc: [[MOC-Metabolic-Pathways]]
 related: [[Pyrrolidine_Ring_Biosynthesis_Z-001-0615B]], [[Pyridine_Ring_Biosynthesis_Z-001-0615C]], [[Nicotine_Ring_Fusion_A622_Z-001-0615D]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Nicotine Two Ring Structure

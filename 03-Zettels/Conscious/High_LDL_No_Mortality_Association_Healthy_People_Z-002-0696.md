@@ -9,6 +9,7 @@ tags: [zettel, ldl, mortality, healthy, primary-prevention, paradox]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Cholesterol-Lipid]]"
 source-litnote: "[[L-002-0187_High_LDL_No_Mortality_Healthy]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

@@ -9,6 +9,7 @@ tags: [zettel, metabolic-advantage, carbohydrate-restriction, weight-loss, mecha
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0237_Not_All_Calories_Equal_Harvard]]"
+extraction-date: 2026-04-15
 source-reference: "[[Ebbeling_2018_Low_Carb_Energy_Expenditure_R-002-0050]]"
 related: []
 ---

@@ -7,6 +7,7 @@ domain: 101
 tags: [zettel, isocitrate-dehydrogenase, idh, tca-cycle, cancer, oncometabolite, 2-hg]
 parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
+source-litnote: legacy-no-source
 source: "[[LitNote_CoA_Synthesis_Decarboxylation_Enzymology_L-101-0004]"
 extraction-date: 2026-03-02
 ---

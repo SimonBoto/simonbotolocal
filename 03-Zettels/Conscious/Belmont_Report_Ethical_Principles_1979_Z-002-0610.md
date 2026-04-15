@@ -8,6 +8,7 @@ domain-name: Research Ethics
 tags: [zettel, research-ethics, us-regulations, irb]
 parent-moc: [[MOC-Research-Ethics]]
 source-litnote: "[[LitNote_Historical_Ethics_Guidelines_L-002-0602]"
+extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-27
 ---

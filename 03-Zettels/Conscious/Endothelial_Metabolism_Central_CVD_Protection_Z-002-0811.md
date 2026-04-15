@@ -9,6 +9,7 @@ tags: [zettel, endothelium, metabolism, cvd, energy-production, nutrient-adequac
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Cardiovascular-Health]]"
 source-litnote: "[[L-002-0224_Metabolism_Heart_Health]]"
+extraction-date: 2026-04-15
 source-reference: "[[Pasut_2025_Endothelial_Metabolism_R-001-0082]],[[Insulin_Resistance_14x_CAD_Risk_Literature_R-002-0058]]"
 related: []
 ---

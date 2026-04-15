@@ -7,6 +7,8 @@ domain: 001
 tags: [zettel, bone-remodeling, reversal, mononuclear-cells, coupling, cement-line, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Reversal Phase — Mononuclear Cells Prepare Bone Surface

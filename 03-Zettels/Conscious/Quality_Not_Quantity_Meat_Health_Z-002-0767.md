@@ -9,6 +9,7 @@ tags: [zettel, meat, quality, processing, quantity, health, nutrition]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Nutrition]]"
 source-litnote: "[[L-002-0209_Hong_Kong_Meat_Longevity_Paradox]]"
+extraction-date: 2026-04-15
 source-reference: "[[Hong_Kong_Meat_Longevity_Paradox_R-002-0049]]"
 related: []
 ---

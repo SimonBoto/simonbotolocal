@@ -7,6 +7,7 @@ domain: 002
 tags: [zettel, methap, phd, data-export, csv, schema, research-methods]
 parent-moc: [[MOC-PhD-Research]
 source-litnote: Extracted from Biochemical Report Template v2.0
+extraction-date: 2026-04-15
 status: conscious
 ---
 

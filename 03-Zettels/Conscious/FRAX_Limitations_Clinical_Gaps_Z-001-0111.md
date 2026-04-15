@@ -7,6 +7,8 @@ domain: 001
 tags: [zettel, frax, limitations, risk-assessment, underestimation, clinical-judgment, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # FRAX Limitations —  Gaps and Underestimation Risks

@@ -9,6 +9,7 @@ tags: [zettel, metabolic-cluster, cvd-risk, insulin-resistance, 80-percent]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0223_CVD_Risk_Factors_Ranking]]"
+extraction-date: 2026-04-15
 source-reference: "[[Dugani_2021_Biomarkers_CHD_Women_R-001-0103]],[[Diamond_2022_Statin_Low_Carb_R-001-0101]]"
 related: []
 ---

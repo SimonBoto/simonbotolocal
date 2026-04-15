@@ -17,6 +17,7 @@ connections:
   - Z-001-0052
   - Z-009-0001
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Blood Pressure Assessment — Hypertension and Metabolic Connection

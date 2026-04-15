@@ -9,6 +9,7 @@ tags: [zettel, ketogenic, weight-loss, cvd-risk, metabolic-benefits, ldl]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0227_Carb_Restriction_CVD_Meta_Analysis]]"
+extraction-date: 2026-04-15
 source-reference: "[[Low_Carb_Meta_Analysis_174_RCTs_R-002-0059]]"
 related: []
 ---

@@ -9,6 +9,7 @@ tags: [zettel]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[Stopping_Sugar_and_Carbs-_Metabolic_Effects_and_He_L-002-0222_v4.0]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

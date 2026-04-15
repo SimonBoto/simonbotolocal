@@ -9,6 +9,7 @@ tags: [zettel, fatigue, mitochondrial, message, energy, atp]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Mitochondrial-Function]]"
 source-litnote: "[[L-002-0233_Fatigue_Mitochondrial_Dysfunction]]"
+extraction-date: 2026-04-15
 source-reference: "[[Fatigue_Mitochondrial_Dysfunction_Literature_R-002-0061]]"
 related: []
 ---

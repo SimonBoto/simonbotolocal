@@ -7,6 +7,7 @@ domain: 101
 tags: [zettel, vitamin_c, risk, oxalate, clinical, conscious]
 parent-moc: [[MOC-Clinical-Protocols]]
 source-litnote: [[CGPT_0549_LitNote_Draft]]
+extraction-date: 2026-04-15
 status: draft
 ---
 

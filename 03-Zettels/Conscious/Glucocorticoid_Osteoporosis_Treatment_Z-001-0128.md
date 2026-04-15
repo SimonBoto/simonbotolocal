@@ -15,6 +15,7 @@ tags: []
   - GIOP
 parent-moc: "[[MOC-Clinical-Protocols]]"
 source-litnote: "[[Glucocorticoid-Induced_Osteoporosis_L-001-0045K_v4.0]]"
+extraction-date: 2026-04-15
 status: conscious
 ---
 

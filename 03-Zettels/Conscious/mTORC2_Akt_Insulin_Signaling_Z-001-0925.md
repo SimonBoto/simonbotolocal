@@ -7,6 +7,7 @@ domain: 001
 tags: [zettel, mtorc2, sirolimus, rapamycin, akt, insulin-signaling, chronic-dosing]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
+source-litnote: legacy-no-source
 source: "[[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]"
 extraction-date: 2026-03-02
 updated: 2026-03-05

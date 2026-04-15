@@ -9,6 +9,8 @@ parent-index: [[03-Zettels-Conscious]]
 parent-moc: [[MOC-Vitamin-Mineral-Axis]]
 related: [[Vitamin_C_Biochemical_Functions_Z-001-0623]], [[Vitamin_C_Evolutionary_Mismatch_Modern_Diet_Z-001-0624]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Vitamin C RDA vs Optimal Intake Debate

@@ -9,6 +9,7 @@ tags: [zettel, hashimoto, autoimmune, thyroid, autoantibodies, low-carb]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Autoimmune]]"
 source-litnote: "[[L-002-0186_Hashimoto_Low_Carb_Autoantibodies]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

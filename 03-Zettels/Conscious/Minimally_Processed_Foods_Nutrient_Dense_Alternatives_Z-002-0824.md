@@ -9,6 +9,7 @@ tags: [zettel, minimally-processed, whole-foods, nutrient-dense, alternatives]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Nutrition]]"
 source-litnote: "[[L-002-0228_UPF_Death_CVD_Obesity_Diabetes]]"
+extraction-date: 2026-04-15
 source-reference: "[[Lane_2024_BMJ_UPF_Metaanalysis_R-002-0021]]"
 related: []
 ---

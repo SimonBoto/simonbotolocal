@@ -9,6 +9,7 @@ tags: [zettel, carbohydrates, essential-nutrients, gluconeogenesis, protein, fat
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0222_Stopping_Sugar_Carbs_Metabolic_Effects]]"
+extraction-date: 2026-04-15
 source-reference: "[[Teicholz_2025_Low_Carb_Myths_R-001-0049]]"
 related: []
 ---

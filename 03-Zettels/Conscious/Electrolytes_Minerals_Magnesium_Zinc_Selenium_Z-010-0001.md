@@ -13,6 +13,7 @@ connections:
   - Z-002-0004
   - Z-004-0002
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Electrolytes and Minerals — Magnesium, Zinc, Selenium

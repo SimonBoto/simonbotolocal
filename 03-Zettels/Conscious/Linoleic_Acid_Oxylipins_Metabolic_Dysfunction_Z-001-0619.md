@@ -9,6 +9,8 @@ parent-index: [[03-Zettels-Conscious]]
 parent-moc: [[MOC-Lipid-Metabolism]]
 related: [[Linoleic_Acid_Metabolism_Z-XXX-XXXX]], [[Oxylipins_Inflammation_Z-XXX-XXXX]], [[Seed_Oil_Processing_Z-XXX-XXXX]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Linoleic Acid Oxylipins and Metabolic Dysfunction

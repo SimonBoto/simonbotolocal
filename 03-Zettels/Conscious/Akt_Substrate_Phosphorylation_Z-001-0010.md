@@ -2,6 +2,8 @@
 uid: Z-001-0010
 type: zettel
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 title: Akt Substrate Phosphorylation
 aliases: [Z-001-0010, Akt_Substrates, Akt_Phosphorylation]
 domain: 001

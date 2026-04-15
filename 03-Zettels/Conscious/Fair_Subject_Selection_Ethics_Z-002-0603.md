@@ -8,6 +8,7 @@ domain-name: Research Ethics
 tags: [zettel, research-ethics, vulnerable-populations, emmanuel-seven]
 parent-moc: [[MOC-Methylation]]
 source-litnote: "[[LitNote_Emanuel_Seven_Requirements_Ethical_Research_L-002-0601]"
+extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-27
 ---

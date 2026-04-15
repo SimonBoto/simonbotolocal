@@ -11,6 +11,8 @@ source: [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]
 confidence: high
 created: 2026-03-01
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # IGF1 Protein Bone Anabolic Signal

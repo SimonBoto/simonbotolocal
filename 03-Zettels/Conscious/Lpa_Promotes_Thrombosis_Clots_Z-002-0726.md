@@ -9,6 +9,7 @@ tags: [zettel, lpa, thrombosis, clots, apoa]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Cholesterol-Lipid]]"
 source-litnote: "[[L-002-0197_Lpa_Mechanism_Management]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

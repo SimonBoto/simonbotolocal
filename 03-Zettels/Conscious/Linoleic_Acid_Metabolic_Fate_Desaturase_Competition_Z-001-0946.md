@@ -7,6 +7,8 @@ domain: 001
 tags: [zettel, linoleic-acid, omega-6, delta-6-desaturase, metabolic-pathway, arachidonic-acid, eicosanoids, competition, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Linoleic Acid Metabolic Fate — Delta-6 Desaturase Competition

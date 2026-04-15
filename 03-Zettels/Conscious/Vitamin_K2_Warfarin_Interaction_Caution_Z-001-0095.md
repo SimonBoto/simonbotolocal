@@ -11,6 +11,8 @@ source: [[LitNote_Vitamin_D_K2_Bone_Synergy_L-001-0013]
 confidence: high
 created: 2026-03-01
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 #  Warfarin Interaction Caution

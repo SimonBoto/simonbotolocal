@@ -16,6 +16,7 @@ connections:
   - Z-001-0019
   - Z-001-0050
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Inflammation Markers — CRP and ESR Clinical Interpretation

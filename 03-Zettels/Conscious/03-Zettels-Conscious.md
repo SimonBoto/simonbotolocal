@@ -6,6 +6,7 @@ title: "03-Zettels/Conscious — Working Notes"
 aliases: [Conscious, Working Zettels, Review Queue]
 tags: [index, conscious, zettels, working, review, folder]
 source-litnote: Index note for folder structure
+extraction-date: 2026-04-15
 status: active
 ---
 

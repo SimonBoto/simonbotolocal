@@ -2,6 +2,8 @@
 uid: Z-001-0015
 type: zettel
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 title: Mitochondrial Dysfunction and Insulin Resistance
 aliases: [Z-001-0015, Mitochondrial_Dysfunction, Mito_IR]
 domain: 001

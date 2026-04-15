@@ -9,6 +9,7 @@ tags: [zettel, keto-adaptation, timeline, fat-adaptation, ketones, mitochondria]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0177_Carb_Withdrawal_Keto_Adaptation]]"
+extraction-date: 2026-04-15
 source-reference: "[[Harvey_2019_Carb_Withdrawal_KetoAdaptation_R-002-0033]]"
 related: []
 ---

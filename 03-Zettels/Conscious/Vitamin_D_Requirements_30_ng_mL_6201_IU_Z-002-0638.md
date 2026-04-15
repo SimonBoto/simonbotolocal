@@ -9,6 +9,7 @@ tags: [zettel, vitamin-d, dosage, optimal-levels, 25-oh-d]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
 source-litnote: "[[L-002-0168_Vitamin_D_RDA_Statistical_Error]]"
+extraction-date: 2026-04-15
 source-reference: "[[Heaney_2015_Vitamin_D_Requirements_R-002-0005]]"
 related: []
 ---

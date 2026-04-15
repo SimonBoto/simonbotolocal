@@ -9,6 +9,8 @@ parent-index: [[03-Zettels-Conscious]]
 parent-moc: [[MOC-Genetic-Variation]]
 related: [[Pauling_Scientific_Credentials_Vitamin_C_Z-001-0620]], [[Vitamin_C_Evolutionary_Mismatch_Modern_Diet_Z-001-0624]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Human GULO Gene Loss Vitamin C Dependency

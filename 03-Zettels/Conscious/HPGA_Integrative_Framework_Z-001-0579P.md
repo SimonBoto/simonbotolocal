@@ -15,6 +15,7 @@ tags: []
   - systems-biology
 parent-moc: "[[MOC-Endocrinology]]"
 source-litnote: "[[Hypothalamic-Pituitary-Gonadal_Axis_-_Hormone_Ca_L-001-0579_v4.0]]"
+extraction-date: 2026-04-15
 status: conscious
 ---
 

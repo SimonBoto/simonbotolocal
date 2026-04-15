@@ -9,6 +9,7 @@ tags: [zettel]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Neurological-Health]]"
 source-litnote: "[[L-002-0216]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

@@ -9,6 +9,7 @@ tags: [zettel, saturated-fat, bonds, oxidation-resistant, stable]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Nutrition]]"
 source-litnote: "[[L-002-0234_Saturated_Fat_Stability_Health]]"
+extraction-date: 2026-04-15
 source-reference: "[[Yamada_2025_Saturated_Fat_CVD_R-001-0098]],[[Valk_2022_Saturated_Fat_CVD_R-001-0104]],[[Astrup_2020_Saturated_Fats_Health_R-001-0002]]"
 related: []
 ---

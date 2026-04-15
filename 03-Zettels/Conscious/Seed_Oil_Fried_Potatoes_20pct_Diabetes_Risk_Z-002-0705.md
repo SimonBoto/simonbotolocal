@@ -9,6 +9,7 @@ tags: [zettel, seed-oils, fried-potatoes, diabetes, risk, omega-6]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0190_Seed_Oils_Diabetes_Risk]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

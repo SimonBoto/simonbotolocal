@@ -9,6 +9,7 @@ tags: [zettel, hong-kong, 145kg, meat, highest, life-expectancy]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Global-Health]]"
 source-litnote: "[[L-002-0236_Hong_Kong_Meat_Longevity]]"
+extraction-date: 2026-04-15
 source-reference: "[[Hong_Kong_Meat_Longevity_Population_Data_R-002-0063]]"
 related: []
 ---

@@ -9,6 +9,7 @@ tags: [zettel, exercise, vigorous, moderate, time-efficient, intensity]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Exercise-Physiology]]"
 source-litnote: "[[L-002-0220_Exercise_Minimal_Dose_Mortality]]"
+extraction-date: 2026-04-15
 source-reference: "[[Ahmadi_2022_Vigorous_Physical_Activity_R-001-0041]]"
 related: []
 ---

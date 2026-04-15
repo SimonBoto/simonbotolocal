@@ -9,6 +9,7 @@ tags: [zettel, calcium-score, statin]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Cardiovascular-Risk]]"
 source-litnote: "[[L-002-0229_Calcium_Score_Statin_Benefit]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

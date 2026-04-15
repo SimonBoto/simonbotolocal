@@ -7,6 +7,8 @@ domain: 001
 tags: [zettel, omega-6-omega-3-ratio, evolutionary, inflammation, clinical-outcomes, hunter-gatherer, mediterranean, modern-diet, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Omega-6 to Omega-3 Ratio — Evolutionary and Clinical Context

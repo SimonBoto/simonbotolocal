@@ -9,6 +9,7 @@ tags: [zettel]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Lifestyle-Medicine]]"
 source-litnote: "[[Lifestyle_Disease_Factors_Are_Modifiable_-_80-_o_L-002-0213_v4.0]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

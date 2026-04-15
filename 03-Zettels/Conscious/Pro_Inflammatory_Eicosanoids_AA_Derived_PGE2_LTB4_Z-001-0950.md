@@ -8,6 +8,7 @@ tags: [zettel, eicosanoids, prostaglandins, leukotrienes, arachidonic-acid, PGE2
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Pro-Inflammatory Eicosanoids — Arachidonic Acid Derived PGE2 and LTB4

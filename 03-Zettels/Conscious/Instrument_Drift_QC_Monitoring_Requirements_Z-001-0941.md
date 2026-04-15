@@ -8,6 +8,7 @@ tags: [zettel, instrument-drift, qc-monitoring, mass-spectrometry, metabolomics,
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Instrument Drift and QC Monitoring Requirements in Mass Spectrometry

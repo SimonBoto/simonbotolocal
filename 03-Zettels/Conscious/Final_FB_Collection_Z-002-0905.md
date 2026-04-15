@@ -9,6 +9,7 @@ tags: [zettel, facebook-collection]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[Low-Carb_vs_Low-Fat_for_Weight_Loss-_39_RCTs_Show_L-002-0235_v4.0]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

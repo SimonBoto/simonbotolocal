@@ -7,6 +7,8 @@ domain: 001
 tags: [zettel, teriparatide, pth, anabolic, osteoporosis, osteoblasts, intermittent, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Teriparatide — PTH 1-34 Intermittent Anabolic Therapy

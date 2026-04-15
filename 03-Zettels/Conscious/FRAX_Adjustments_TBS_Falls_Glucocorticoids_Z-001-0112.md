@@ -7,6 +7,8 @@ domain: 001
 tags: [zettel, frax, adjustments, tbs, falls, glucocorticoids, risk-modification, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # FRAX Adjustments — TBS, Falls, and Glucocorticoid Dose Modifications

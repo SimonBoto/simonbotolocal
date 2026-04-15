@@ -7,6 +7,8 @@ domain: 001
 tags: [zettel, frax, treatment-thresholds, osteoporosis, guidelines, intervention, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # FRAX Output Thresholds — Treatment Decision Guidelines

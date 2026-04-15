@@ -9,6 +9,7 @@ tags: [zettel, vigorous-exercise, moderate-exercise, efficiency, time, intensity
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Clinical-Protocols]]"
 source-litnote: "[[L-002-0174_Minimal_Exercise_Mortality_Reduction]]"
+extraction-date: 2026-04-15
 source-reference: "[[PoloLopez_2024_Minimal_Exercise_Mortality_R-002-0032]]"
 related: []
 ---

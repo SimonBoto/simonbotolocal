@@ -8,6 +8,7 @@ tags: [zettel, permutation-test, opls-da, model-validation, q2-intercept, overfi
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Permutation Test Interpretation — Validating OPLS-DA Models

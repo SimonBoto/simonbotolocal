@@ -9,6 +9,7 @@ tags: [zettel, overtreatment, low-risk, ldl, statins, precision]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Cholesterol-Lipid]]"
 source-litnote: "[[L-002-0188_Chol_Lowering_CAC_Stratification]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

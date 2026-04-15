@@ -9,6 +9,7 @@ tags: [zettel, glucose, insulin, vessels, microvascular, macrovascular, complica
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0221_Glucose_vs_Insulin_CVD]]"
+extraction-date: 2026-04-15
 source-reference: "[[Glucose_vs_Insulin_CVD_Literature_R-002-0056]]"
 related: []
 ---

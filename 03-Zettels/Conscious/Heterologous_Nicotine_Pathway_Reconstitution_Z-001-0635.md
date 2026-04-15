@@ -8,6 +8,7 @@ tags: [zettel, heterologous-expression, pathway-reconstitution, synthetic-biolog
 parent-index: [[03-Zettels-Conscious]]
 parent-moc: [[MOC-Synthetic-Biology]]
 source-litnote: [[LitNote_X_Nicotine_Biosynthesis_Plant_Mechanisms_L-001-XXXX]]
+extraction-date: 2026-04-15
 related: [[Nicotine_Two_Ring_Structure_Z-001-0628]], [[Plant_Crossing_Metabolic_Discovery_Z-001-0633]]
 status: conscious
 ---

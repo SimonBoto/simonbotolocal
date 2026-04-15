@@ -7,6 +7,7 @@ domain: 001
 tags: [zettel, sirolimus, rapamycin, mtorc1, pgc-1a, mitochondrial-biogenesis, mitochondrial-mass]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
+source-litnote: legacy-no-source
 source: "[[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]"
 extraction-date: 2026-03-02
 ---

@@ -16,6 +16,7 @@ tags: []
   - cardiovascular-health
 parent-moc: "[[MOC-Vascular-Health]]"
 source-litnote: "[[Vascular_Calcification_Deep_Dive_-Mechanisms-_MGP-_L-001-0215_v4.0]]"
+extraction-date: 2026-04-15
 status: conscious
 ---
 

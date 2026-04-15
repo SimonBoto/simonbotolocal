@@ -11,6 +11,8 @@ source: [[LitNote_High_Protein_Diet_Bone_Health_L-001-0014]
 confidence: high
 created: 2026-03-01
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Protein Requirements  1.2 to 1.5 gkg

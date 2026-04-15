@@ -8,6 +8,7 @@ tags: [zettel, vip-score, variable-importance, effect-size, cohens-d, metabolomi
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # VIP Score Limitations — Why Effect Sizes Are Necessary

@@ -7,6 +7,8 @@ domain: 001
 tags: [zettel, bone-remodeling, resting, quiescence, bone-lining-cells, sclerostin, mechanotransduction, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Resting Phase — Bone Remodeling Quiescence and Reactivation

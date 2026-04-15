@@ -8,6 +8,7 @@ domain-name: PhD Research
 tags: [zettel, methap, study-design, recruitment, population]
 parent-moc: [[MOC-Insulin-Signaling]]
 source-litnote: [[LitNote_PhD_Study_Design_METHAP_L-001-0615]
+extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-08
 ---

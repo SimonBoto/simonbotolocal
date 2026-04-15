@@ -7,6 +7,8 @@ domain: 004
 tags: [zettel, clinical-protocol, workflow, monitoring]
 parent-moc: [[MOC-Vitamin-Metabolism]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 connections:
   - S-001-0001
   - Z-001-0046

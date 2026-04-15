@@ -9,6 +9,7 @@ tags: [zettel]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Personalized-Nutrition]]"
 source-litnote: "[[Personalized_Vitamin_D_Dosing_Halves_Heart_Attack_L-002-0217_v4.0]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

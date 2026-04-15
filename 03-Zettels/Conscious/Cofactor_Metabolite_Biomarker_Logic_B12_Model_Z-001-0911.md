@@ -11,6 +11,7 @@ confidence: high
 created: 2026-02-23
 updated: 2026-03-05
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Cofactor → Metabolite Biomarker Logic — The B12 Model

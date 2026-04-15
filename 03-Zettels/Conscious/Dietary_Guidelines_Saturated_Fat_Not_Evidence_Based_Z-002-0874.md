@@ -9,6 +9,7 @@ tags: [zettel, dietary-guidelines, saturated-fat, not-evidence-based]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Cholesterol-Lipid]]"
 source-litnote: "[[L-002-0244_Animal_Saturated_Fat_Not_Mortality]]"
+extraction-date: 2026-04-15
 source-reference: "[[Tokyo_Animal_Saturated_Fat_Not_Mortality_R-002-0067]]"
 related: []
 ---

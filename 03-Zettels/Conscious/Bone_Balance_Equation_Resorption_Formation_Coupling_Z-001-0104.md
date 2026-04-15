@@ -7,6 +7,8 @@ domain: 001
 tags: [zettel, bone-remodeling, balance, coupling, homeostasis, resorption, formation, osteoporosis, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 ---
 
 # Bone Balance Equation — Resorption Formation Coupling in Homeostasis

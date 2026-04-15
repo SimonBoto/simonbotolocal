@@ -2,6 +2,8 @@
 uid: Z-001-0013
 type: zettel
 status: conscious
+source-litnote: legacy-no-source
+extraction-date: 2026-04-15
 title: Lipotoxicity and Ceramide-Induced IR
 aliases: [Z-001-0013, Lipotoxicity, Ceramide_IR]
 domain: 001

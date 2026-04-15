@@ -9,6 +9,7 @@ tags: [zettel, LDL, cholesterol, lowering, CVD, protection, context, metabolic]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Cholesterol-Quality]]"
 source-litnote: "[[L-002-0207_LDL_Lowering_Not_Always_Protection]]"
+extraction-date: 2026-04-15
 source-reference: "[[LDL_Lowering_Context_Dependency_R-002-0047]]"
 related: []
 ---

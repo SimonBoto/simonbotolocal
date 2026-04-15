@@ -8,6 +8,7 @@ domain-name: Research Ethics
 tags: [zettel, methap, intervention, low-carb, supplements]
 parent-moc: [[MOC-Vitamin-Metabolism]]
 source-litnote: "[[LitNote_METHAP_Study_Design_Protocol_L-002-0604]"
+extraction-date: 2026-04-15
 confidence: high
 created: 2026-03-27
 ---

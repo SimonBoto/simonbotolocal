@@ -8,6 +8,7 @@ tags: [zettel, endotoxin, LPS, gut-barrier, leaky-gut, inflammation, TLR4, metab
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Endotoxin LPS Translocation — Gut Barrier Disruption by High Fat Diet

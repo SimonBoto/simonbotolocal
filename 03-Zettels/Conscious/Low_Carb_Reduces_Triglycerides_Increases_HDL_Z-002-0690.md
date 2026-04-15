@@ -9,6 +9,7 @@ tags: [zettel, low-carb, triglycerides, hdl, lipid-profile, metabolic]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0185_Carb_Restriction_CVD_Risk]]"
+extraction-date: 2026-04-15
 related: []
 ---
 

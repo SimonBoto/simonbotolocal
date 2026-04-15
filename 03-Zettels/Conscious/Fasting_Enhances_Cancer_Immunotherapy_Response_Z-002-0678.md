@@ -9,6 +9,7 @@ tags: [zettel, fasting, immunotherapy, cancer, metabolism, tumor-microenvironmen
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Cancer-Immunology]]"
 source-litnote: "[[L-002-0181_Fasting_Enhances_Immunotherapy]]"
+extraction-date: 2026-04-15
 source-reference: "[[Chen_2026_16h_Fasting_Immunotherapy_R-002-0038]]"
 related: []
 ---

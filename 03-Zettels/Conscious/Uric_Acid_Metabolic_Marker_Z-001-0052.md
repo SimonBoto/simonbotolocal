@@ -14,6 +14,7 @@ connections:
   - Z-001-0050
   - Z-009-0001
 source-litnote: Synthesized from clinical practice
+extraction-date: 2026-04-15
 ---
 
 # Uric Acid — Metabolic Marker Beyond Gout
