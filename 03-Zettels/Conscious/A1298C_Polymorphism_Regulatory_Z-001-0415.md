@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, a1298c, polymorphism, mthfr, regulatory]
 parent-moc: [[MOC-Insulin-Signaling]]
 status: conscious
-source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]
+source-litnote: [[LitNote_MTHFR_Genetics_L-001-0403]]
 extraction-date: 2026-03-01
 ---
 

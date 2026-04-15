@@ -8,7 +8,7 @@ status: conscious
 tags: [zettel]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Personalized-Nutrition]]"
-source-litnote: "[[Personalized_Vitamin_D_Dosing_Halves_Heart_Attack_L-002-0217_v4.0.md]]"
+source-litnote: "[[Personalized_Vitamin_D_Dosing_Halves_Heart_Attack_L-002-0217_v4.0]]"
 related: []
 ---
 
@@ -18,7 +18,7 @@ related: []
 (Content from L-002-0217)
 
 ## Source
-- **LitNote:** [[Personalized_Vitamin_D_Dosing_Halves_Heart_Attack_L-002-0217_v4.0.md]]
+- **LitNote:** [[Personalized_Vitamin_D_Dosing_Halves_Heart_Attack_L-002-0217_v4.0]]
 
 ---
 *Z-002-0790 | Created: 2026-04-04 | Status: conscious*

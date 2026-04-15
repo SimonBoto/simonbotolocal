@@ -7,7 +7,7 @@ domain: 002
 domain-name: Research Ethics
 tags: [zettel, methap, metabolomics, gc-ms, biomarkers]
 parent-moc: [[MOC-Vitamin-Metabolism]]
-source-litnote: "[[Machine_Learning_in_Metabolomics_METHAP_L-001-0618_v4.0.md]]"
+source-litnote: "[[Machine_Learning_in_Metabolomics_METHAP_L-001-0618_v4.0]]"
 confidence: high
 created: 2026-03-27
 ---

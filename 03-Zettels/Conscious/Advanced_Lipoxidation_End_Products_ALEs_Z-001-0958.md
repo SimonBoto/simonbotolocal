@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, ale, advanced-lipoxidation, 4-hne, acrolein, malondialdehyde, heated-oils, toxicity, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]
+source-litnote: [[LitNote_Industrial_Processing_Toxin_Formation_L-001-0524]]
 status: conscious
 ---
 

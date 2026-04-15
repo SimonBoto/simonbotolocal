@@ -8,7 +8,7 @@ status: conscious
 tags: [zettel]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Lifestyle-Medicine]]"
-source-litnote: "[[Lifestyle_Disease_Factors_Are_Modifiable_-_80-_o_L-002-0213_v4.0.md]]"
+source-litnote: "[[Lifestyle_Disease_Factors_Are_Modifiable_-_80-_o_L-002-0213_v4.0]]"
 related: []
 ---
 
@@ -18,7 +18,7 @@ related: []
 (Content from L-002-0213)
 
 ## Source
-- **LitNote:** [[Lifestyle_Disease_Factors_Are_Modifiable_-_80-_o_L-002-0213_v4.0.md]]
+- **LitNote:** [[Lifestyle_Disease_Factors_Are_Modifiable_-_80-_o_L-002-0213_v4.0]]
 
 ---
 *Z-002-0778 | Created: 2026-04-04 | Status: conscious*

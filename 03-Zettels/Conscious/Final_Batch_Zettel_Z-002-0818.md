@@ -8,7 +8,7 @@ status: conscious
 tags: [zettel]
 parent-index: "[[03-Zettels-Conscious]]"
 parent-moc: "[[MOC-Metabolic-Syndrome]]"
-source-litnote: "[[Stopping_Sugar_and_Carbs-_Metabolic_Effects_and_He_L-002-0222_v4.0.md]]"
+source-litnote: "[[Stopping_Sugar_and_Carbs-_Metabolic_Effects_and_He_L-002-0222_v4.0]]"
 related: []
 ---
 
@@ -18,7 +18,7 @@ related: []
 Part of final batch to reach 1,000 zettels.
 
 ## Source
-- **LitNote:** [[Stopping_Sugar_and_Carbs-_Metabolic_Effects_and_He_L-002-0222_v4.0.md]]
+- **LitNote:** [[Stopping_Sugar_and_Carbs-_Metabolic_Effects_and_He_L-002-0222_v4.0]]
 
 ---
 *Z-002-0818 | Created: 2026-04-04 | Status: conscious*

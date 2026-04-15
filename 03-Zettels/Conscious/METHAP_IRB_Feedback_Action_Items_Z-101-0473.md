@@ -6,7 +6,7 @@ aliases: [Z-101-0473]
 domain: 101
 tags: [zettel, methap, irb, ethics-committee, action-items, regulatory, phd, conscious]
 parent-moc: [[MOC-Vitamin-Metabolism]]
-source-litnote: [[Machine_Learning_in_Metabolomics_METHAP_L-001-0618_v4.0.md]]
+source-litnote: [[Machine_Learning_in_Metabolomics_METHAP_L-001-0618_v4.0]]
 status: conscious
 ---
 

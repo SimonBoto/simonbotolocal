@@ -7,7 +7,7 @@ domain: 001
 tags: [zettel, organic-acid, methap, integration, metabolomics, clinical-application]
 parent-moc: [[MOC-Mitochondrial-Function]]
 status: conscious
-source-litnote: [[Machine_Learning_in_Metabolomics_METHAP_L-001-0618_v4.0.md]]
+source-litnote: [[Machine_Learning_in_Metabolomics_METHAP_L-001-0618_v4.0]]
 extraction-date: 2026-03-01
 ---
 

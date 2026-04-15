@@ -8,7 +8,7 @@ domain: 001
 tags: [zettel, acute-pancreatitis, atlanta-criteria, interstitial-edematous, necrotizing, severity, biliary, alcohol, fluid-resuscitation, conscious]
 parent-moc: [[MOC-Insulin-Signaling]]
 extraction-date: 2026-03-07
-source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]
+source-litnote: [[LitNote_IBD_Crohns_UC_Pathophysiology_L-001-0585]]
 status: conscious
 ---
 parent-index: [[03-Zettels-Conscious]]
