@@ -8,8 +8,8 @@ aliases:
 authors: "Lok CE, et al."
 year: "2026"
 journal: "New England Journal of Medicine"
-doi: ""
-pmid: ""
+doi: "10.1056/NEJMoa2513032"
+pmid: "41201837"
 tier: GOLD
 relevance: "CRITICAL — High-dose omega-3 efficacy in high-risk metabolic population"
 status: complete
@@ -29,7 +29,8 @@ tags:
 # Lit: Omega-3 Hemodialysis CVD Reduction — NEJM 2026
 
 ## Source
-- **Full citation:** Lok CE, et al. Fish-Oil Supplementation and Cardiovascular Events in Patients Receiving Hemodialysis. New England Journal of Medicine. 2026.
+- **Full citation:** Lok CE, et al. Fish-Oil Supplementation and Cardiovascular Events in Patients Receiving Hemodialysis. *N Engl J Med*. 2026;394(2):128-137. doi:10.1056/NEJMoa2513032. PMID: 41201837.
+- **Online:** 2025-11-07 | **Print:** 2026-01-08
 - **Study type:** RCT, multicenter (26 centers, Canada/Australia)
 - **Population:** 1,228 hemodialysis patients
 - **Duration:** 3.5 years
@@ -148,6 +149,7 @@ tags:
 ---
 
 ## Related References
+- [[R-001-0700_Lok_Omega3_Hemodialysis_NEJM_2026]] — Full reference
 - REDUCE-IT trial (high-dose EPA)
 - JELIS trial (Japanese EPA intervention)
 - Dong 2024 meta-analysis
