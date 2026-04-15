@@ -2,6 +2,8 @@
 uid: L-001-0635
 type: lit-note
 title: LitNote — Dysbiosis Treatment and Die-Off Reactions (CGPT-0199)
+aliases:
+  - L-001-0635
 authors: ChatGPT Analysis (CGPT-0199)
 year: 2025
 journal: ChatGPT Archive
@@ -10,6 +12,9 @@ relevance: Critical — Clinical management of dysbiosis, herbal antimicrobials,
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Gut-Health]]
+tags:
+  - lit-note
+  - metabolism
 extraction-date: 2026-03-09
 source: "[[CGPT_0199_Dysbiosis_Treatment_Side_Effects_CGPT-0199]]"
 ---

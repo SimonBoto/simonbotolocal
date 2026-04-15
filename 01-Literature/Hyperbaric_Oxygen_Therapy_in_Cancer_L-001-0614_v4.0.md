@@ -2,6 +2,8 @@
 uid: L-001-0614
 type: lit-note
 title: Hyperbaric Oxygen Therapy in Cancer
+aliases:
+  - L-001-0614
 authors: ChatGPT Analysis (CGPT-0264)
 year: 2024
 journal: ChatGPT Archive
@@ -13,6 +15,9 @@ relevance: High — HBOT mechanisms, radiosensitization, bone healing, therapeut
 status: complete
 reviewed_by: "FORG"
 parent-moc:
+tags:
+  - lit-note
+  - metabolism
   - - MOC-Cancer-Therapy
 extraction-date: 2026-03-08
 source: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"

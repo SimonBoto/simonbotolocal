@@ -2,6 +2,8 @@
 uid: L-002-0601
 type: lit-note
 title: "Emanuel Seven Requirements for Ethical Clinical Research"
+aliases:
+  - L-002-0601
 authors: "Ezekiel J. Emanuel, David Wendler, Christine Grady"
 year: 2000
 journal: "JAMA"
@@ -13,6 +15,9 @@ relevance: "High — Foundational framework for IRB approval and METHAP trial de
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Research-Ethics]]
+tags:
+  - lit-note
+  - metabolism
 extraction-date: 2026-03-27
 source: "[[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]"
 ---

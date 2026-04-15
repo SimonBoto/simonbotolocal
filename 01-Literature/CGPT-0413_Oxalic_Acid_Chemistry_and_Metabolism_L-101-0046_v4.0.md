@@ -2,6 +2,8 @@
 uid: L-101-0046
 type: lit-note
 title: CGPT-0413 Oxalic Acid Chemistry and Metabolism
+aliases:
+  - L-101-0046
 authors: ChatGPT / Simos X Dialog
 year: 2024
 journal: ChatGPT Archive
@@ -11,6 +13,10 @@ relevance: High — PhD adipic acid domain, oxalate metabolism pathways, biomark
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Kidney-Metabolism]]
+tags:
+  - lit-note
+  - chatgpt
+  - phd
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
 source: "[[CGPT_0413_Oxalic_Acid_Uses_Form_CGPT-0413]]"

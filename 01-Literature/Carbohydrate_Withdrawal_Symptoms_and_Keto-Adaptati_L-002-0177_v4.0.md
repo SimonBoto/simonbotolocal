@@ -2,6 +2,8 @@
 uid: L-002-0177
 type: lit-note
 title: "Carbohydrate Withdrawal Symptoms and Keto-Adaptation Timeline (Harvey 2019)"
+aliases:
+  - L-002-0177
 source-inbox: "[[INBOX-Article-18-Carb-Withdrawal]]"
 authors: "Harvey CJDC, Schofield GM, Zinn C, Thornley S, et al."
 year: "2019"

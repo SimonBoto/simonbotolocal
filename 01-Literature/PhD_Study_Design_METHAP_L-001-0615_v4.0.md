@@ -2,6 +2,8 @@
 uid: L-001-0615
 type: lit-note
 title: PhD Study Design and Methodology METHAP Trial
+aliases:
+  - L-001-0615
 authors: ChatGPT Analysis (CGPT-0475)
 year: 2024
 journal: ChatGPT Archive
@@ -12,6 +14,9 @@ tier: BRONZE
 relevance: Critical — RCT structure, inclusion criteria, intervention protocol, timeline for PhD research on metabolic biomarkers and insulin resistance
 status: active
 parent-moc: 
+tags:
+  - lit-note
+  - metabolism
 extraction-date: 2026-03-08
 source-inbox: "[[00-Inbox]]"
 zettel-count: 0

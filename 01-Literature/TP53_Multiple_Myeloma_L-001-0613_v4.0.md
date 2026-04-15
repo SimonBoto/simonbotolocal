@@ -2,6 +2,8 @@
 uid: L-001-0613
 type: lit-note
 title: "TP53 Multiple Myeloma Prognosis and Therapy"
+aliases:
+  - L-001-0613
 date: 2026-04-12
 authors: "ChatGPT Analysis (CGPT-0264)"
 year: 2024
@@ -14,6 +16,9 @@ relevance: "High — TP53 abnormalities, del(17p), p53 dysfunction, MDM2 inhibit
 status: active
 source-origin: legacy
 parent-moc: "[[MOC-p53-Pathway]]"
+tags:
+  - lit-note
+  - metabolism
 extraction-date: 2026-03-08
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 zettel-count: 2

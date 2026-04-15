@@ -2,6 +2,8 @@
 uid: L-101-0053
 type: lit-note
 title: CGPT-0189 Sirolimus Mitochondrial Toxicity and Diabetes Mechanisms
+aliases:
+  - L-101-0053
 authors: ChatGPT / Simos X Dialog
 year: 2025
 journal: ChatGPT Archive
@@ -11,6 +13,10 @@ relevance: High — mTOR mechanisms, mitochondrial dysfunction, insulin resistan
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Mitochondrial-Function]]
+tags:
+  - lit-note
+  - chatgpt
+  - phd
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
 source: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]"

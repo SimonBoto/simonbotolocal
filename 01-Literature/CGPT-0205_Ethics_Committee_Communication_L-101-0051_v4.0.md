@@ -2,6 +2,8 @@
 uid: L-101-0051
 type: lit-note
 title: CGPT-0205 Ethics Committee Communication
+aliases:
+  - L-101-0051
 authors: ChatGPT / Simos X Dialog
 year: 2025
 journal: ChatGPT Archive
@@ -11,6 +13,10 @@ relevance: Moderate — Practical IRB communication guidance
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Research-Ethics]]
+tags:
+  - lit-note
+  - chatgpt
+  - phd
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
 source: "[[CGPT_0205_Ethics_Committee_Follow_Up_CGPT-0205]]"

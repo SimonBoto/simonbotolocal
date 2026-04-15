@@ -2,6 +2,8 @@
 uid: L-101-0001
 type: lit-note
 title: "NKUA 2024 — Pharmacometabolomics & Precision Medicine (Course 3175, DE4)"
+aliases:
+  - L-101-0001
 authors: "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών"
 year: "2024"
 journal: "Πρόγραμμα Συμπληρωματικής Εκπαίδευσης"
@@ -13,6 +15,9 @@ relevance: "CRITICAL — Pharmacometabolomics framework, metformin/mTOR mechanis
 status: complete
 reviewed_by: "FORG"
 parent-moc: 
+tags:
+  - lit-note
+  - pharmacometabolomics
 extraction-date: 2026-02-23
 ---
 

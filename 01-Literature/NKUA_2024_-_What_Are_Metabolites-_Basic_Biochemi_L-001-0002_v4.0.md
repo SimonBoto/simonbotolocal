@@ -2,6 +2,8 @@
 uid: L-001-0002
 type: lit-note
 title: "NKUA 2024 — What Are Metabolites: Basic Biochemistry (DE2)"
+aliases:
+  - L-001-0002
 authors: "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών"
 year: "2024"
 journal: "Πρόγραμμα Συμπληρωματικής Εκπαίδευσης"
@@ -13,6 +15,9 @@ relevance: "CRITICAL — Explains cofactor→metabolite biomarker logic (paralle
 status: complete
 reviewed_by: "FORG"
 parent-moc: 
+tags:
+  - lit-note
+  - metabolism
 extraction-date: 2026-02-23
 ---
 

@@ -2,6 +2,8 @@
 uid: L-002-0604
 type: lit-note
 title: "METHAP Study Design and Protocol — IRB Application"
+aliases:
+  - L-002-0604
 authors: "Simos Xenidis, PhD Candidate"
 year: 2024
 journal: "NKUA Ethics Committee Application"
@@ -12,6 +14,9 @@ tier: GOLD
 relevance: "Critical — Complete IRB application for METHAP trial, study design, participant selection, intervention protocol"
 status: complete
 parent-moc: 
+tags:
+  - lit-note
+  - metabolism
 extraction-date: 2026-03-27
 source-inbox: "[[00-Inbox]]"
 zettel-count: 0

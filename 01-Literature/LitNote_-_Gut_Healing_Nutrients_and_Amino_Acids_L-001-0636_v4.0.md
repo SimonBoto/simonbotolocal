@@ -2,6 +2,8 @@
 uid: L-001-0636
 type: lit-note
 title: LitNote — Gut Healing Nutrients and Amino Acids (CGPT-0199)
+aliases:
+  - L-001-0636
 authors: ChatGPT Analysis (CGPT-0199)
 year: 2025
 journal: ChatGPT Archive
@@ -10,6 +12,9 @@ relevance: High — Clinical protocols for intestinal barrier repair, glutamine,
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Gut-Health]]
+tags:
+  - lit-note
+  - metabolism
 extraction-date: 2026-03-09
 source: "[[CGPT_0199_Dysbiosis_Treatment_Side_Effects_CGPT-0199]]"
 ---

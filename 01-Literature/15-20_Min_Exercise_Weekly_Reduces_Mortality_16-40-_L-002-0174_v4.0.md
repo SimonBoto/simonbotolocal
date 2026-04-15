@@ -2,6 +2,8 @@
 uid: L-002-0174
 type: lit-note
 title: "15-20 Min Exercise Weekly Reduces Mortality 16-40% (Polo-López 2024)"
+aliases:
+  - L-002-0174
 source-inbox: "[[INBOX-Article-16-Minimal-Exercise]]"
 authors: "Polo-López A, Calatayud J, López-Bueno L, et al."
 year: "2024"

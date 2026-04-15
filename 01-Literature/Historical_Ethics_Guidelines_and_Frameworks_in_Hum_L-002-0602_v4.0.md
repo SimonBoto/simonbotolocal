@@ -2,6 +2,8 @@
 uid: L-002-0602
 type: lit-note
 title: "Historical Ethics Guidelines and Frameworks in Human Subjects Research"
+aliases:
+  - L-002-0602
 authors: "Various (Nuremberg, Helsinki, Belmont, CIOMS, ICH)"
 year: 1947-1997
 journal: "International Guidelines"
@@ -13,6 +15,10 @@ relevance: "High — Historical foundation for modern IRB requirements and METHA
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Research-Ethics]]
+tags:
+  - lit-note
+  - ethics
+  - research
 extraction-date: 2026-03-27
 source: "[[CGPT_0131_Medical_Ethics_Assistance_CGPT-0131]]"
 ---

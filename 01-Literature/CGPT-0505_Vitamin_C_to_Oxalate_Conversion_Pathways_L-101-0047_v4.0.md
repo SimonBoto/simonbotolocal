@@ -2,6 +2,8 @@
 uid: L-101-0047
 type: lit-note
 title: CGPT-0505 Vitamin C to Oxalate Conversion Pathways
+aliases:
+  - L-101-0047
 authors: ChatGPT / Simos X Dialog
 year: 2024
 journal: ChatGPT Archive
@@ -11,6 +13,10 @@ relevance: High — Ascorbate metabolism, oxalate measurement confounders, PhD a
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Kidney-Metabolism]]
+tags:
+  - lit-note
+  - chatgpt
+  - phd
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
 source: "[[CGPT_0505_Vitamin_C_to_Oxalate_CGPT-0505]]"

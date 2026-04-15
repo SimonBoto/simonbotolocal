@@ -2,6 +2,8 @@
 uid: L-101-0052
 type: lit-note
 title: CGPT-0359 Questionnaire Compliance and Ethics Application
+aliases:
+  - L-101-0052
 authors: ChatGPT / Simos X Dialog
 year: 2024
 journal: ChatGPT Archive
@@ -11,6 +13,10 @@ relevance: Moderate — Practical strategies for questionnaire ethics approval
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-PhD-Research]]
+tags:
+  - lit-note
+  - chatgpt
+  - phd
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
 source: "[[CGPT_0359_Compliance_and_Approval_Process_CGPT-0359]]"

@@ -2,6 +2,8 @@
 uid: L-101-0049
 type: lit-note
 title: CGPT-0102 ClinicalTrials.gov Registration Protocol
+aliases:
+  - L-101-0049
 authors: ChatGPT / Simos X Dialog
 year: 2025
 journal: ChatGPT Archive
@@ -11,6 +13,10 @@ relevance: High — Clinical trial registration, NIH compliance, trial transpare
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-PhD-Research]]
+tags:
+  - lit-note
+  - chatgpt
+  - phd
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-28
 source: "[[CGPT_0102_Clinical_Trials_Gov_Protocol_CGPT-0102]]"

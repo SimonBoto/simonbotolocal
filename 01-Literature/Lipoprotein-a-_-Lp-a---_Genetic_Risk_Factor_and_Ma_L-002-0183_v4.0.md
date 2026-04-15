@@ -2,6 +2,8 @@
 uid: L-002-0183
 type: lit-note
 title: "Lipoprotein(a) [Lp(a)]: Genetic Risk Factor and Management Strategies"
+aliases:
+  - L-002-0183
 source-inbox: "[[INBOX-Article-14-Lp(a)-Genetic-Risk]]"
 authors: "Kamstrup PR, Tybjaerg-Hansen A, Steffensen R, Nordestgaard BG"
 year: "2009"

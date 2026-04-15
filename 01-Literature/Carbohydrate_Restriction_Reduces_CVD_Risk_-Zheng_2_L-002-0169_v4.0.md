@@ -2,6 +2,8 @@
 uid: L-002-0169
 type: lit-note
 title: "Carbohydrate Restriction Reduces CVD Risk (Zheng 2025)"
+aliases:
+  - L-002-0169
 source-inbox: "[[INBOX-Article-3-Carb-Restriction]]"
 authors: "Zheng Q, Gao X, Ruan X, et al."
 year: "2025"

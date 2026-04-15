@@ -2,6 +2,8 @@
 uid: L-001-0656
 type: lit-note
 title: "Lit — KingOfVitamins_Pauling_Vitamin_C_2025"
+aliases:
+  - L-001-0656
 source-inbox: "[[INBOX-2026-04-04-002_Pauling_Vitamin_C_Thread]]"
 authors: "Vitamin King (@KingOfVitamins)"
 year: "2025"
@@ -11,6 +13,9 @@ tier: "GOLD"
 status: complete
 reviewed_by: "FORG"
 parent-moc: "[[MOC-Vitamin-Mineral-Axis]]"
+tags:
+  - lit-note
+  - metabolism
 extraction-date: "2026-04-04"
 ---
 

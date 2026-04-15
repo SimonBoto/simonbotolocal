@@ -2,6 +2,8 @@
 uid: L-001-0619
 type: lit-note
 title: "Metabolomics Data Processing METHAP"
+aliases:
+  - L-001-0619
 date: 2026-04-12
 authors: "ChatGPT Analysis (CGPT-0475)"
 year: 2024
@@ -14,6 +16,9 @@ relevance: "High — Preprocessing, normalization, pathway analysis, network ana
 status: active
 source-origin: legacy
 parent-moc: "[[MOC-Metabolomics]]"
+tags:
+  - lit-note
+  - metabolism
 extraction-date: 2026-03-08
 source-inbox: "[[00-Inbox]]"
 zettel-count: 3

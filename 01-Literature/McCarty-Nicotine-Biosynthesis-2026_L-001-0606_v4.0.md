@@ -2,6 +2,8 @@
 uid: L-001-0606
 type: lit-note
 title: "Lit — McCarty_Nicotine_Biosynthesis_2026"
+aliases:
+  - L-001-0606
 source-inbox: "[[INBOX-2026-04-04-001_Nicotine_Biosynthesis_X_Post]]"
 authors: "McCarty, N. (summarizing Chinese research group)"
 year: "2026"
@@ -11,6 +13,9 @@ tier: "GOLD"
 status: complete
 reviewed_by: "FORG"
 parent-moc: "[[MOC-Metabolic-Pathways]]"
+tags:
+  - lit-note
+  - metabolism
 extraction-date: "2026-04-04"
 ---
 

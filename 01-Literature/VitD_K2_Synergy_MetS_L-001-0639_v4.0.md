@@ -2,6 +2,8 @@
 uid: L-001-0639
 type: lit-note
 title: "Vitamin D and K2 Synergy in Metabolic Syndrome (CGPT-0230)"
+aliases:
+  - L-001-0639
 date: 2026-04-12
 authors: "ChatGPT Analysis (CGPT-0230)"
 year: 2024
@@ -11,6 +13,9 @@ relevance: "Critical — Core PhD literature on VitD/K2 mechanisms in MetS"
 status: active
 source-origin: legacy
 parent-moc: "[[MOC-Vitamin-D]]"
+tags:
+  - lit-note
+  - metabolism
 extraction-date: 2026-03-09
 source-inbox: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
 zettel-count: 4

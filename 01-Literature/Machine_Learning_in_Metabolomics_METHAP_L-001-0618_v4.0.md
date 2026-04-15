@@ -2,6 +2,8 @@
 uid: L-001-0618
 type: lit-note
 title: Machine Learning in Metabolomics METHAP
+aliases:
+  - L-001-0618
 authors: ChatGPT Analysis (CGPT-0475)
 year: 2024
 journal: ChatGPT Archive
@@ -13,6 +15,9 @@ relevance: High — Random Forest, SVM, deep learning, feature selection, predic
 status: complete
 reviewed_by: "FORG"
 parent-moc: [[MOC-Metabolomics]]
+tags:
+  - lit-note
+  - metabolism
 parent-index: [[01-Literature]]
 extraction-date: 2026-03-08
 source: "[[CGPT_0475_Metabolic_Biomarkers_for_Insulin_CGPT-0475]]"
