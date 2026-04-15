@@ -11,7 +11,7 @@ pmid: ""
 url: ""
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Autoimmune-Disease]]"
+parent-moc: "[[MOC-Autoimmune]]"
 ---
 
 # Conrad et al. 2023 — Autoimmune Disease Epidemiology

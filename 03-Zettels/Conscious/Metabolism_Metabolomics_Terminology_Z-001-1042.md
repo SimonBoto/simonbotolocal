@@ -5,7 +5,7 @@ title: "Metabolism & Metabolomics Terminology"
 aliases: ["Z-001-1042", "Metabolism-Terms", "Metabolomics-Definitions"]
 domain: 001
 tags: [zettel, metabolism, metabolomics, terminology, definitions, methodology]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0590_Core_Clinical_Vocabulary_66_Terms_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

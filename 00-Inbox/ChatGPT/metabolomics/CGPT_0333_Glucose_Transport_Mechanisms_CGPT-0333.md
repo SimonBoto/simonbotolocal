@@ -391,7 +391,7 @@ The breakdown and complete oxidation of one molecule of palmitate (a typical 16-
 ## Connection to Vault
 
 - Up: [[MOC-CGPT-Archive]]
-- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+- Related: [[MOC-Research]], [[MOC-PhD-Research]]
 
 ---
 parent-index: [[00-Inbox-Index]]

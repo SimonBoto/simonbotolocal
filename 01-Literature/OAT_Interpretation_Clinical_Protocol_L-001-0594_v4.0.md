@@ -15,7 +15,7 @@ pmcid: N/A
 tier: BRONZE
 relevance: "High — Comprehensive OAT marker interpretation, pattern recognition, clinical decision-making"
 status: complete
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
@@ -208,7 +208,7 @@ HPHPA ↑ → Antimicrobial therapy
 ---
 
 ## Related References
-- [[MOC-Metabolomics-Training]] — Parent MOC
+- [[MOC-Metabolomics]] — Parent MOC
 - [[OAT_Category_Interpretation_Framework_Z-001-1065]] — Related zettel
 - [[OAT_Mitochondrial_Patterns_Z-001-1067]] — Related zettel
 - [[L-001-0593_Vitamin_Mineral_Axis_Clinical_Biochemistry_v4.0]] — Related LitNote

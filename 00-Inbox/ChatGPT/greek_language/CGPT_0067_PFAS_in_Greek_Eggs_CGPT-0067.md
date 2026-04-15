@@ -935,7 +935,7 @@ Would you like me to prepare a **reference-annotated table of the most important
 ## Connection to Vault
 
 - Up: [[MOC-CGPT-Archive]]
-- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+- Related: [[MOC-Research]], [[MOC-PhD-Research]]
 
 ---
 parent-index: [[00-Inbox-Index]]

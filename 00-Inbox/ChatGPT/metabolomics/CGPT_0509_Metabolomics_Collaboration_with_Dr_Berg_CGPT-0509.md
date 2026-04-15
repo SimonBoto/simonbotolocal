@@ -1406,7 +1406,7 @@ These elements offer a comprehensive view of the patient's metabolic health, pro
 ## Connection to Vault
 
 - Up: [[MOC-CGPT-Archive]]
-- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+- Related: [[MOC-Research]], [[MOC-PhD-Research]]
 
 ---
 parent-index: [[00-Inbox-Index]]

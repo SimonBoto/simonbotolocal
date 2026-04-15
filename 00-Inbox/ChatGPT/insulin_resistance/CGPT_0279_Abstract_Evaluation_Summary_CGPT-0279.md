@@ -229,7 +229,7 @@ In summary, the choice between a narrative review and a systematic review should
 ## Connection to Vault
 
 - Up: [[MOC-CGPT-Archive]]
-- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+- Related: [[MOC-Research]], [[MOC-PhD-Research]]
 
 ---
 parent-index: [[00-Inbox-Index]]

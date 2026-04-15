@@ -15,7 +15,7 @@ pmcid: ""
 tier: BRONZE
 relevance: "High — IV vitamin C, pro-oxidant mechanisms, epigenetic effects, clinical trials in cancer"
 status: complete
-parent-moc: "[[MOC-Cancer-Therapy]]"
+parent-moc: "[[MOC-Cancer]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
@@ -131,7 +131,7 @@ Historical context explains why vitamin C was discredited and why the distinctio
 
 ## Structural Links
 
-- **Parent MOC:** [[MOC-Cancer-Therapy]]
+- **Parent MOC:** [[MOC-Cancer]]
 - **Source Anchor:** [[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]
 - **Related Zettels:** [[Vitamin_C_Pro_Oxidant_Cancer_Selective_Toxicity_Z-001-1125]], [[Vitamin_C_Epigenetic_DNA_Histone_Demethylation_Z-001-1126]], [[Vitamin_C_Clinical_Evidence_Cancer_Controversies_Z-001-1127]]
 

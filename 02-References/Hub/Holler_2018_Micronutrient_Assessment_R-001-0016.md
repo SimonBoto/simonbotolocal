@@ -10,7 +10,7 @@ doi: "10.1016/j.trac.2018.02.001"
 pmid: "(not found)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Research-Methods]]"
+parent-moc: "[[MOC-Research]]"
 ---
 
 # Höller 2018 — Micronutrient Status Assessment Methods

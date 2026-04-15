@@ -7,7 +7,7 @@ aliases: [References-Index, Sources-Index]
 tags: [index, references, sources, bibliography]
 status: active
 parent-index: [[00-INDEX]]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: [[MOC-Research]]
 ---
 
 # 02-References Index

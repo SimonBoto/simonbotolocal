@@ -16,7 +16,7 @@ pmcid: ""
 tier: GOLD
 relevance: "High — METHAP safety rationale; cardiovascular protection mechanisms"
 status: complete
-parent-moc: "[[MOC-Vascular-Health]]"
+parent-moc: "[[MOC-Cardiovascular-Health]]"
 parent-index: "[[01-Literature 1]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
@@ -229,7 +229,7 @@ tags:
 - "[[LitNote_D_K2_Synergy_Mechanisms_L-001-0212]]" — Synergy mechanisms
 - "[[MGP_Vascular_Protection_Synergy_Z-001-0255]]" — MGP details
 - "[[Calcium_Paradox_D_K2_Resolution_Z-001-0257]]" — Calcium paradox
-- "[[MOC-Vascular-Health]]" — Parent MOC
+- "[[MOC-Cardiovascular-Health]]" — Parent MOC
 
 
 *Literature note processed: 2026-03-01*  

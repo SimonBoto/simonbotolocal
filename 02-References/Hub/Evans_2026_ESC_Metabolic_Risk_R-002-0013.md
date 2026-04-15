@@ -11,7 +11,7 @@ pmid: ""
 url: "https://doi.org/10.1093/eurheartj/ehag116"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Cardiovascular-Disease]]"
+parent-moc: "[[MOC-Cardiovascular-Health]]"
 ---
 
 # Evans et al. 2026 — ESC Metabolic Risk Statement

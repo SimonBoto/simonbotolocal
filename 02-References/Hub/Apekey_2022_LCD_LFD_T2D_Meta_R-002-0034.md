@@ -10,7 +10,7 @@ doi: "10.3390/nu14204391"
 url: "https://www.mdpi.com/2072-6643/14/20/4391"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Diabetes-T2D]]"
+parent-moc: "[[MOC-Diabetes]]"
 ---
 
 # Apekey et al. 2022 — LCD vs LFD in Type 2 Diabetes

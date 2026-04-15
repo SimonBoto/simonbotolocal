@@ -10,7 +10,7 @@ doi: "(pending)"
 pmid: "(pending)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Cardiovascular-Risk]]"
+parent-moc: "[[MOC-Cardiovascular-Health]]"
 ---
 
 # Szilveszter 2025 — Calcium Score Stratifies Statin Benefit

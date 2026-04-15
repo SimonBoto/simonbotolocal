@@ -7,7 +7,7 @@ domain: 002
 status: conscious
 tags: [zettel, ldl, cvd, risk-hierarchy, ranking, paradigm]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Cardiovascular-Risk]]"
+parent-moc: "[[MOC-Cardiovascular-Health]]"
 source-litnote: "[[L-002-0195_CVD_Risk_Factor_Ranking]]"
 extraction-date: 2026-04-15
 related: []

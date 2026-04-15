@@ -157,7 +157,7 @@ tags:
 5. **Convert bracket syntax** — `aliases: [a, b]` → `aliases:\n  - a\n  - b`
 6. **Quote all links** — `"[[MOC-Topic]]"` not `[[MOC-Topic]]`
 7. **Full filenames** — `[[Z-001-1125_Title]]` not `[[Z-001-1125]]`
-8. **Kebab-case** — `[[MOC-Cancer-Therapy]]` not `[[MOC Cancer Therapy]]`
+8. **Kebab-case** — `[[MOC-Cancer]]` not `[[MOC Cancer Therapy]]`
 9. **Remove `extraction-quality`** — Redundant with `tier`
 10. **Add missing fields** — `source-origin`, `reviewed_by`, `created`, `updated`
 11. **Honest support state** — No fabricated references

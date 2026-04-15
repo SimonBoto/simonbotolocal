@@ -7,7 +7,7 @@ domain: 002
 status: conscious
 tags: [zettel, diet-quality, mortality]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Diabetes-T2D]]"
+parent-moc: "[[MOC-Diabetes]]"
 source-litnote: "[[L-002-0203_Diet_11_Million_Deaths_Annually]]"
 extraction-date: 2026-04-15
 source-reference: "[[GBD_2017_Diet_11_Million_Deaths_R-002-0043]]"

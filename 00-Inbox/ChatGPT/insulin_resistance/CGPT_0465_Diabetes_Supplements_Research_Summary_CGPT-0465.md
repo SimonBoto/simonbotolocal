@@ -936,7 +936,7 @@ The search within the text of "WEF_New_Frontiers_of_Nutrition_2023.pdf" did not 
 ## Connection to Vault
 
 - Up: [[MOC-CGPT-Archive]]
-- Related: [[MOC-Research-Methods]], [[MOC-PhD-Research]]
+- Related: [[MOC-Research]], [[MOC-PhD-Research]]
 
 ---
 parent-index: [[00-Inbox-Index]]

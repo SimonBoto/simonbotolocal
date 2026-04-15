@@ -10,7 +10,7 @@ doi: "10.3892/ijmm.2018.3989"
 pmid: "30365120"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Research-Methods]]"
+parent-moc: "[[MOC-Research]]"
 ---
 
 # Tsilimidos 2019 — Metabolomics Fatty Acids Part II (Int J Mol Med)

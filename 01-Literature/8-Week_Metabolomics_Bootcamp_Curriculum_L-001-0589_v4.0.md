@@ -15,7 +15,7 @@ pmcid: N/A
 tier: SILVER
 relevance: High — Time-bound training curriculum scaffolding cognitive transformation from biochemical literacy to clinical integration
 status: complete
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
@@ -199,7 +199,7 @@ Military Instructor → Socratic Mentor → Hybrid Precision → Choice based on
 ---
 
 ## Related References
-- [[MOC-Metabolomics-Training]] — Parent MOC
+- [[MOC-Metabolomics]] — Parent MOC
 - [[Bootcamp_Four_Phase_Structure_Z-001-1035]] — Related zettel
 - [[L-001-0590_Core_Clinical_Vocabulary_66_Terms_v4.0]] — Related LitNote
 

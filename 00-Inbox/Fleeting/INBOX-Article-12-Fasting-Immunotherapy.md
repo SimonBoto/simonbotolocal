@@ -43,7 +43,7 @@ topic: fasting, immunotherapy, cancer, metabolism, 16-hour-protocol
 - [x] LitNote created: [[L-002-0181_Fasting_Enhances_Immunotherapy]]
 - [x] Zettels extracted: 3 zettels (Z-002-0678 to 0680)
 - [x] Reference note: R-002-0038
-- [x] MOC: [[MOC-Cancer-Immunology]]
+- [x] MOC: [[MOC-Cancer]]
 - [x] All connections verified
 
 ---

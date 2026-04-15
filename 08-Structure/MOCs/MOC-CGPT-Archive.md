@@ -55,7 +55,7 @@ See: [[Research_Agenda]] — Prioritized hypotheses from 2 years of conversation
 - Up: [[MOCs-Index]]
 - Research: [[PhD-Index]], [[MOC-PhD-Research]]
 - Hypotheses: [[Research_Agenda]]
-- Methodology: [[MOC-Research-Methods]]
+- Methodology: [[MOC-Research]]
 
 ---
 

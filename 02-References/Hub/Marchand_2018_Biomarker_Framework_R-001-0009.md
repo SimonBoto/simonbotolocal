@@ -10,7 +10,7 @@ doi: "10.3390/metabo8040059"
 pmid: "30400231"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Research-Methods]]"
+parent-moc: "[[MOC-Research]]"
 ---
 
 # Marchand 2018 — Framework for Metabolomic Biomarkers and Knowledge Translation

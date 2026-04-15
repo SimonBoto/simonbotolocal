@@ -10,7 +10,7 @@ doi: "10.1038/ni.3851"
 pmid: "28991248"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Autoimmunity]]"
+parent-moc: "[[MOC-Autoimmune]]"
 ---
 
 # De Rosa 2017 — Metabolic Pressure and Immunological Self-Tolerance

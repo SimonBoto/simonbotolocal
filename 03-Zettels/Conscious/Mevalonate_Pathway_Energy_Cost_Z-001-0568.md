@@ -5,7 +5,7 @@ title: "Mevalonate Pathway Energy Cost"
 aliases: ["Z-001-0568", "Mevalonate-Energy", "ATP-Cost", "NADPH-Requirements"]
 domain: 001
 tags: [zettel, mevalonate-pathway, energy, atp, nadph, cholesterol, metabolism]
-parent-moc: "[[MOC-Cholesterol-Metabolism]]"
+parent-moc: "[[MOC-Cholesterol-Lipid]]"
 status: conscious
 source-litnote: "[[L-001-0518_Mevalonate_Pathway_Biochemistry_CGPT-0391]]"
 source-inbox: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"

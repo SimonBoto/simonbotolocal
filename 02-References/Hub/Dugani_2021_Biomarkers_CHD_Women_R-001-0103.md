@@ -10,7 +10,7 @@ doi: "(pending)"
 pmid: "(pending)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Cardiovascular-Disease]]"
+parent-moc: "[[MOC-Cardiovascular-Health]]"
 ---
 
 # Dugani 2021 — Lipid, Inflammatory, and Metabolic Biomarkers in Women

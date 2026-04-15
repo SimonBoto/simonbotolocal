@@ -42,7 +42,7 @@ tags: [moc, inflammation, immune, cytokines, chronic-disease]
 - [[MOC-Insulin-Resistance]] — Inflammation-IR axis
 
 ### Autoimmunity
-- [[MOC-Autoimmunity]] — Chronic inflammation
+- [[MOC-Autoimmune]] — Chronic inflammation
 - [[Immunosenescence_Premature_Immune_Aging_Autoimmunity_Z-001-1172]
 
 ---
@@ -57,7 +57,7 @@ tags: [moc, inflammation, immune, cytokines, chronic-disease]
 ## Connection to Vault
 
 - Up: [[MOCs-Index]]
-- Related: [[MOC-Autoimmunity]], [[MOC-Insulin-Resistance]], [[MOC-Stress-Autoimmune]]
+- Related: [[MOC-Autoimmune]], [[MOC-Insulin-Resistance]], [[MOC-Autoimmune]]
 - Resolution: [[MOC-Antioxidant-Defense]]
 
 ---

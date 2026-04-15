@@ -5,7 +5,7 @@ title: "Metabolomics Quality Standards"
 aliases: ["Z-001-1078", "Quality-Standards", "QC-Checkpoints", "Quality-Control"]
 domain: 001
 tags: [zettel, quality, standards, qc, checkpoints, metabolomics, lab]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0597_Metabolomics_Clinic_Operations_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

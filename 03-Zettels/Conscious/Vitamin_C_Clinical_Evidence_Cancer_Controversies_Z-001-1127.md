@@ -14,7 +14,7 @@ tags: []
   - controversies
   - cameron-pauling
   - oncology-history
-parent-moc: "[[MOC-Cancer-Therapy]]"
+parent-moc: "[[MOC-Cancer]]"
 parent-index: "[[03-Zettels-Conscious]]"
 status: conscious
 extracted_by: "RON"

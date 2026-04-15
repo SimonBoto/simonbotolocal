@@ -16,7 +16,7 @@ pmcid: ""
 tier: GOLD
 relevance: "Critical — Foundation for methylation, DNA synthesis, METHAP cofactor understanding"
 status: complete
-parent-moc: "[[MOC-One-Carbon-Metabolism]]"
+parent-moc: "[[MOC-Methylation]]"
 parent-index: "[[01-Literature 1]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"

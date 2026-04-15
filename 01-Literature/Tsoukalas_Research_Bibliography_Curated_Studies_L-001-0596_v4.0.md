@@ -15,7 +15,7 @@ pmcid: N/A
 tier: BRONZE
 relevance: "High — 50+ curated papers on metabolomics, Vitamin D safety, fatty acids, metabolic syndrome"
 status: complete
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
@@ -168,7 +168,7 @@ Mediterranean Diet → Cardiovascular Protection → Metabolic Health → Respir
 ---
 
 ## Related References
-- [[MOC-Metabolomics-Training]] — Parent MOC
+- [[MOC-Metabolomics]] — Parent MOC
 - [[Metabolomics_Research_Core_Bibliography_Z-001-1074]] — Related zettel
 - [[Vitamin_D_Safety_Research_Summary_Z-001-1075]] — Related zettel
 - [[L-001-0595_Patient_Communication_Scripts_and_Objection_Handling_v4.0]] — Related LitNote

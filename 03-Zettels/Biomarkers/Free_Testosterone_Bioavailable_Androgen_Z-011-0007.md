@@ -5,7 +5,7 @@ title: Free Testosterone — Bioavailable Androgen
 aliases: [Z-011-0007, Free-Testosterone, Bioavailable-Testosterone, Active-Androgen]
 domain: 011
 tags: [zettel, biomarker, free-testosterone, bioavailable, androgen, active]
-parent-moc: [[MOC-Thyroid-Function]]
+parent-moc: [[MOC-Thyroid]]
 status: conscious
 extraction-date: 2026-03-31
 source-litnote: Synthesized from clinical practice
@@ -187,7 +187,7 @@ source-litnote: Synthesized from clinical practice
 
 ## Connection to Vault
 
-- Up: [[MOC-Thyroid-Function]]
+- Up: [[MOC-Thyroid]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
 
 ---

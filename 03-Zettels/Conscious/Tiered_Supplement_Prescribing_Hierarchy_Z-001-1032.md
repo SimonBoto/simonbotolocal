@@ -5,7 +5,7 @@ title: "Tiered Supplement Prescribing Hierarchy"
 aliases: ["Z-001-1032", "Tiered-Prescribing", "Supplement-Hierarchy"]
 domain: 001
 tags: [zettel, supplements, prescribing, hierarchy, protocol, metabolomics, clinical-protocol]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0588_Metabolomics_Chief_Instructor_Framework_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

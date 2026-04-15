@@ -51,4 +51,4 @@ topic: diet, mortality, global-health, nutrition, GBD, processed-food
 - [x] LitNote: [[L-002-0203_Diet_11_Million_Deaths_Annually]]
 - [x] Zettels: 3 zettels (Z-002-0747 to Z-002-0749)
 - [x] Reference note: R-002-0043 (to be created)
-- [x] MOC: [[MOC-Diabetes-T2D]]
+- [x] MOC: [[MOC-Diabetes]]

@@ -15,7 +15,7 @@ pmcid: N/A
 tier: BRONZE
 relevance: "High — Patient flow, quality standards, follow-up rhythms, operational protocols"
 status: complete
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
@@ -165,7 +165,7 @@ Competency → Competency → Competency → Competency → Competency → Compe
 ---
 
 ## Related References
-- [[MOC-Metabolomics-Training]] — Parent MOC
+- [[MOC-Metabolomics]] — Parent MOC
 - [[Clinic_Patient_Flow_Operations_Z-001-1077]] — Related zettel
 - [[Metabolomics_Quality_Standards_Z-001-1078]] — Related zettel
 - [[L-001-0596_Tsoukalas_Research_Bibliography_Curated_Studies_v4.0]] — Related LitNote

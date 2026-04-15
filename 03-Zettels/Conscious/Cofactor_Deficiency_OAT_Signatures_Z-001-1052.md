@@ -5,7 +5,7 @@ title: "Cofactor Deficiency OAT Signatures"
 aliases: ["Z-001-1052", "Cofactor-Deficiency", "OAT-Signatures", "B-Vitamin-Markers"]
 domain: 001
 tags: [zettel, oat, cofactors, b-vitamins, deficiency, clinical-interpretation]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0591_Mitochondrial_Biochemistry_Clinicians_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

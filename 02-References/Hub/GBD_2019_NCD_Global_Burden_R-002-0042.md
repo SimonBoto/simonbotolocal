@@ -11,7 +11,7 @@ pmid: "36726528"
 url: "https://www.thelancet.com/gbd"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Diabetes-T2D]]"
+parent-moc: "[[MOC-Diabetes]]"
 ---
 
 # GBD 2019 — Global Burden of Non-Communicable Diseases

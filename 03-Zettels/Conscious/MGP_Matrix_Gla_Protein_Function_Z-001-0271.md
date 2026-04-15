@@ -13,7 +13,7 @@ tags: []
   - vascular-calcification
   - MGP
   - vitamin-K
-parent-moc: "[[MOC-Vascular-Health]]"
+parent-moc: "[[MOC-Cardiovascular-Health]]"
 source-litnote: "[[Vascular_Calcification_Deep_Dive_-Mechanisms-_MGP-_L-001-0215_v4.0]]"
 extraction-date: 2026-04-15
 status: conscious

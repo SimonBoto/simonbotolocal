@@ -10,7 +10,7 @@ doi: "(pending)"
 pmid: "(pending)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Cardiovascular-Disease]]"
+parent-moc: "[[MOC-Cardiovascular-Health]]"
 ---
 
 # Rauber 2024 — UPF and Cardiovascular Risk with Plant Foods (UK Biobank)

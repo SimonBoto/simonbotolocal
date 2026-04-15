@@ -10,7 +10,7 @@ doi: "(pending)"
 pmid: "(pending)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Cardiovascular-Disease]]"
+parent-moc: "[[MOC-Cardiovascular-Health]]"
 ---
 
 # Ramsden 2016 — Re-evaluation of Diet-Heart Hypothesis (Minnesota Coronary Experiment)

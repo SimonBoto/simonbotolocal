@@ -11,7 +11,7 @@ pmid: "30954305"
 url: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30041-8/fulltext"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Diabetes-T2D]]"
+parent-moc: "[[MOC-Diabetes]]"
 ---
 
 # GBD 2017 Diet — 11 Million Deaths from Unhealthy Diet

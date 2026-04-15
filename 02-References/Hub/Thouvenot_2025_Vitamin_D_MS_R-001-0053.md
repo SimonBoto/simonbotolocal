@@ -10,7 +10,7 @@ doi: "10.1001/jama.2025.1604"
 pmid: "(pending)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Autoimmunity]]"
+parent-moc: "[[MOC-Autoimmune]]"
 ---
 
 # Thouvenot 2025 — High-Dose Vitamin D in Multiple Sclerosis (D-Lay MS Trial)

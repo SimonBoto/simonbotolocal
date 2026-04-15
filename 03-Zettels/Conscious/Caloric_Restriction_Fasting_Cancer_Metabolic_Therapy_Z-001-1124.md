@@ -5,7 +5,7 @@ title: Caloric Restriction Fasting Cancer Metabolic Therapy
 aliases: [Caloric-Restriction, Fasting, Cancer-Metabolic-Therapy, Autophagy]
 domain: 001
 tags: [zettel, caloric-restriction, fasting, cancer-metabolic-therapy, autophagy]
-parent-moc: [[MOC-Cancer-Therapy]]
+parent-moc: [[MOC-Cancer]]
 status: conscious
 source-litnote: [[Metabolic_Therapy_for_Cancer_Seyfried_Protocol_L-001-0609_CGPT-0264]]
 extraction-date: 2026-03-08

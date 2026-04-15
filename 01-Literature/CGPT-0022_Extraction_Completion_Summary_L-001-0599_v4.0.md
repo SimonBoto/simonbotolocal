@@ -15,7 +15,7 @@ pmcid: N/A
 tier: BRONZE
 relevance: "High — Final extraction summary, batch inventory, quality verification"
 status: complete
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
@@ -161,7 +161,7 @@ Week 1-2 → Week 3-4 → Week 5-6 → Week 7-8 → Ongoing Training
 ---
 
 ## Related References
-- [[MOC-Metabolomics-Training]] — Parent MOC
+- [[MOC-Metabolomics]] — Parent MOC
 - [[CGPT_0022_Extraction_Master_Index_Z-001-1083]] — Related zettel
 - [[CGPT_0022_Quality_Verification_Framework_Z-001-1084]] — Related zettel
 - [[L-001-0598_CGPT-0022_Training_Curriculum_Integration_v4.0]] — Related LitNote

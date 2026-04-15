@@ -5,7 +5,7 @@ title: "Difficult Conversation Navigation"
 aliases: ["Z-001-1072", "Difficult-Conversations", "Challenge-Management", "Conflict-Resolution"]
 domain: 001
 tags: [zettel, communication, difficult-conversations, conflict, clinical-skills, management]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0595_Patient_Communication_Scripts_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

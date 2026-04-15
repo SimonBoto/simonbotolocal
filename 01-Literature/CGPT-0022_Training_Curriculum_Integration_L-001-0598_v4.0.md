@@ -15,7 +15,7 @@ pmcid: N/A
 tier: BRONZE
 relevance: "High — Synthesis of 8-week bootcamp, integration of all training modules, MOC connections"
 status: complete
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
@@ -159,7 +159,7 @@ MOC-Metabolomics-Training → Domain-Specific MOCs → Clinical Application
 ---
 
 ## Related References
-- [[MOC-Metabolomics-Training]] — Parent MOC
+- [[MOC-Metabolomics]] — Parent MOC
 - [[CGPT_0022_Curriculum_Master_Index_Z-001-1081]] — Related zettel
 - [[Metabolomics_Training_MOC_Graph_Z-001-1082]] — Related zettel
 - [[L-001-0597_Metabolomics_Clinic_Operations_Manual_v4.0]] — Related LitNote

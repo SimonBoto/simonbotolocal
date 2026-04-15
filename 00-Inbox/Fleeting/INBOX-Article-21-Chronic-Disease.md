@@ -50,4 +50,4 @@ topic: chronic-disease, global-health, mortality, NCD, epidemiological-transitio
 - [x] LitNote: [[L-002-0202_Chronic_Disease_74pct_Global_Deaths]]
 - [x] Zettels: 3 zettels (Z-002-0744 to Z-002-0746)
 - [x] Reference note: R-002-0042 (to be created)
-- [x] MOC: [[MOC-Diabetes-T2D]]
+- [x] MOC: [[MOC-Diabetes]]

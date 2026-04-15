@@ -7,7 +7,7 @@ domain: 002
 status: conscious
 tags: [zettel, cac, calcium-score, above-400, statin, clear-benefit, plaque]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Cardiovascular-Risk]]"
+parent-moc: "[[MOC-Cardiovascular-Health]]"
 source-litnote: "[[L-002-0229_Calcium_Score_Statin_Benefit]]"
 extraction-date: 2026-04-15
 source-reference: "[[Szilveszter_2025_CAC_Statin_Benefit_R-002-0060]]"

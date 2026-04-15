@@ -15,7 +15,7 @@ pmcid: N/A
 tier: SILVER
 relevance: High — Genetic variation affecting methylation, folate requirements, METHAP personalization
 status: complete
-parent-moc: "[[MOC-Methylation-One-Carbon]]"
+parent-moc: "[[MOC-Methylation]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
@@ -208,7 +208,7 @@ MTHFR genotyping methods:
 ---
 
 ## Related References
-- [[MOC-Methylation-One-Carbon]] — Parent MOC
+- [[MOC-Methylation]] — Parent MOC
 - [[MTHFR_Enzyme_Function_Rate_Limiting_Z-001-0413]] — Related zettel
 - [[L-001-0403_MTHFR_Genetics_L-001-0403]] — Related LitNote
 

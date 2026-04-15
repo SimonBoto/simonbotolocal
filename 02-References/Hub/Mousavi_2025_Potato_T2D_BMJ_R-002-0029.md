@@ -10,7 +10,7 @@ doi: "10.1136/bmj-2024-082121"
 url: "https://www.bmj.com/content/390/bmj-2024-082121"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Diabetes-T2D]]"
+parent-moc: "[[MOC-Diabetes]]"
 ---
 
 # Mousavi et al. 2025 — Potato Intake and T2D Risk

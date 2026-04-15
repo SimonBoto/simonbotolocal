@@ -7,7 +7,7 @@ domain: 002
 status: conscious
 tags: [zettel, autoimmune, root-causes, diet, lifestyle, gut-health]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Autoimmunity]]"
+parent-moc: "[[MOC-Autoimmune]]"
 source-litnote: "[[L-002-0208_Autoimmune_Diet_Lifestyle_Role]]"
 extraction-date: 2026-04-15
 source-reference: "[[Autoimmune_Diet_Lifestyle_R-002-0048]]"

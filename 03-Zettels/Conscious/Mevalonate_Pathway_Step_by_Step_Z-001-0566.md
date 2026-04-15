@@ -5,7 +5,7 @@ title: "Mevalonate Pathway Step by Step"
 aliases: ["Z-001-0566", "Mevalonate-Pathway", "Cholesterol-Synthesis", "HMG-CoA"]
 domain: 001
 tags: [zettel, mevalonate-pathway, cholesterol, hmg-coa, biochemistry, acetyl-coa, ipps]
-parent-moc: "[[MOC-Cholesterol-Metabolism]]"
+parent-moc: "[[MOC-Cholesterol-Lipid]]"
 status: conscious
 source-litnote: "[[L-001-0518_Mevalonate_Pathway_Biochemistry_CGPT-0391]]"
 source-inbox: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"

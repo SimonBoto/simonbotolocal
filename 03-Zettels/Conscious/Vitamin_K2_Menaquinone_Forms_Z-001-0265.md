@@ -12,7 +12,7 @@ tags: []
   - vitamin-k2
   - menaquinone
   - pharmacokinetics
-parent-moc: "[[MOC-Vitamin-D-K2]]"
+parent-moc: "[[MOC-Vitamin-D]]"
 source-litnote: "D-K2_Co-Supplementation_Clinical_Evidence_-Studies_L-001-0214_v4.0"
 extraction-date: 2026-04-15
 status: conscious

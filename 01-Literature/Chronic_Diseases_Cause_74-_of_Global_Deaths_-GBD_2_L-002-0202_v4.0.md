@@ -15,7 +15,7 @@ pmid: "36726528"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Diabetes-T2D]]"
+parent-moc: "[[MOC-Diabetes]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
 zettel-count: 3
@@ -73,7 +73,7 @@ tags:
 ---
 
 ## Connections
-- **MOC:** [[MOC-Diabetes-T2D]] — Thematic domain
+- **MOC:** [[MOC-Diabetes]] — Thematic domain
 - **INBOX:** [[INBOX-Article-21-Chronic-Disease]] — Article source
 - **Reference:** [[GBD_2019_NCD_Global_Burden_R-002-0042]] — Primary source
 - **Index:** [[01-Literature 1]] — Container

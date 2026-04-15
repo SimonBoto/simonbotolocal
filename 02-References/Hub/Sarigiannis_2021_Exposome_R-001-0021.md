@@ -10,7 +10,7 @@ doi: "10.1016/B978-0-323-85215-9.00026-3"
 pmid: "(not applicable)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Research-Methods]]"
+parent-moc: "[[MOC-Research]]"
 ---
 
 # Sarigiannis 2021 — The Exposome Paradigm (Book Chapter)

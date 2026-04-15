@@ -5,7 +5,7 @@ title: Press Pulse Strategy Metabolic Cancer Therapy
 aliases: [Press-Pulse, Metabolic-Cancer-Therapy, Seyfried-Protocol, Combination-Therapy]
 domain: 001
 tags: [zettel, press-pulse, metabolic-cancer-therapy, seyfried-protocol, combination-therapy]
-parent-moc: [[MOC-Cancer-Therapy]]
+parent-moc: [[MOC-Cancer]]
 status: conscious
 source-litnote: [[Metabolic_Therapy_for_Cancer_Seyfried_Protocol_L-001-0609_CGPT-0264]]
 extraction-date: 2026-03-08

@@ -10,7 +10,7 @@ doi: "10.1016/j.jneuroim.2015.01.001"
 pmid: "25727240"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Autoimmunity]]"
+parent-moc: "[[MOC-Autoimmune]]"
 ---
 
 # Kang 2015 — Metabolomics in Autoimmune Diseases

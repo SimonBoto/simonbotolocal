@@ -10,7 +10,7 @@ doi: "(not applicable)"
 pmid: "(not applicable)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Cardiovascular-Disease]]"
+parent-moc: "[[MOC-Cardiovascular-Health]]"
 ---
 
 # AHA 2025 — Heart Attack Risk Halved with Tailored Vitamin D (Conference Abstract)

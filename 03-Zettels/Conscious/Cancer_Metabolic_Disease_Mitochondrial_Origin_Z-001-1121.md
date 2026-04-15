@@ -5,7 +5,7 @@ title: Cancer Metabolic Disease Mitochondrial Origin
 aliases: [Cancer-Metabolic-Disease, Mitochondrial-Origin, Seyfried, Metabolic-Theory]
 domain: 001
 tags: [zettel, cancer-metabolic-disease, mitochondrial-origin, seyfried, metabolic-theory]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: [[MOC-Cancer]]
 status: conscious
 source-litnote: [[Metabolic_Therapy_for_Cancer_Seyfried_Protocol_L-001-0609_CGPT-0264]]
 extraction-date: 2026-03-08

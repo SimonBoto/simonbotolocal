@@ -55,4 +55,4 @@ topic: autoimmune, diet, lifestyle, root-cause, elimination, gut-health
 - [x] LitNote: [[L-002-0208_Autoimmune_Diet_Lifestyle_Role]]
 - [x] Zettels: 3 zettels (Z-002-0762 to Z-002-0764) — to be created
 - [x] Reference note: R-002-0048 (to be created)
-- [x] MOC: [[MOC-Autoimmunity]]
+- [x] MOC: [[MOC-Autoimmune]]

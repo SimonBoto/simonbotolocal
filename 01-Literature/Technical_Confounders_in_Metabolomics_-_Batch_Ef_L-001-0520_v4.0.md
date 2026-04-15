@@ -27,7 +27,7 @@ tags:
   - cgpt-0328
 source: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
 status: complete
-parent-moc: "[[MOC-Research-Methods]]"
+parent-moc: "[[MOC-Research]]"
 extraction-date: 2026-03-06
 source-origin: chatgpt-archive
 reviewed_by: "FORG"

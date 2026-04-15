@@ -5,7 +5,7 @@ title: "Patient Communication Core Concepts"
 aliases: ["Z-001-1047", "Patient-Communication", "Patient-Facing", "Communication"]
 domain: 001
 tags: [zettel, patient-communication, education, terminology, clinical-skills]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0590_Core_Clinical_Vocabulary_66_Terms_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

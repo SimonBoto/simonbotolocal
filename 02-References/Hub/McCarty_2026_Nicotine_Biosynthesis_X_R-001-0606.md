@@ -12,7 +12,7 @@ doi: "(not applicable)"
 pmid: "(not applicable)"
 tier: "BRONZE"
 status: active
-parent-moc: "[[MOC-Research-Methods]]"
+parent-moc: "[[MOC-Research]]"
 ---
 
 # McCarty 2026 — Nicotine Biosynthesis (X Post Summary)

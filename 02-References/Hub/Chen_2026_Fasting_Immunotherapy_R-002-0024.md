@@ -11,7 +11,7 @@ pmid: ""
 url: "https://www.cell.com/cell-metabolism/abstract/S1550-4131(26)00014-8"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Cancer-Therapy]]"
+parent-moc: "[[MOC-Cancer]]"
 ---
 
 # Chen et al. 2026 — Fasting Enhances Cancer Immunotherapy

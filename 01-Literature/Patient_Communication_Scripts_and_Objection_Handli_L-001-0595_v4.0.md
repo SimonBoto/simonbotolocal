@@ -15,7 +15,7 @@ pmcid: N/A
 tier: BRONZE
 relevance: "High — 25+ patient objection responses, metabolic storytelling, reframing techniques"
 status: complete
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
@@ -164,7 +164,7 @@ Email Report → Concise Format → Key Metrics → Interpretation → Recommend
 ---
 
 ## Related References
-- [[MOC-Metabolomics-Training]] — Parent MOC
+- [[MOC-Metabolomics]] — Parent MOC
 - [[Metabolic_Storytelling_Patient_Framework_Z-001-1070]] — Related zettel
 - [[Patient_Objection_Response_Scripts_Z-001-1071]] — Related zettel
 - [[L-001-0590_Core_Clinical_Vocabulary_66_Metabolomics_Terms_v4.0]] — Related LitNote

@@ -5,7 +5,7 @@ title: Tumor Microenvironment Lactate Acidification
 aliases: [Tumor-Microenvironment, Lactate, Acidification, pH, Invasion, Metastasis]
 domain: 001
 tags: [zettel, tumor-microenvironment, lactate, acidification, ph, invasion, metastasis]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: [[MOC-Cancer]]
 status: conscious
 source-litnote: [[Warburg_Effect_and_Cancer_Metabolism_L-001-0608_CGPT-0264]]
 extraction-date: 2026-03-08

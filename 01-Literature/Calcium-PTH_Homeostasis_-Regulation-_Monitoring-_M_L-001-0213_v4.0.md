@@ -16,7 +16,7 @@ pmcid: ""
 tier: GOLD
 relevance: "Critical — METHAP safety monitoring; hypercalcemia prevention"
 status: complete
-parent-moc: "[[MOC-Vitamin-D-Metabolism]]"
+parent-moc: "[[MOC-Vitamin-D]]"
 parent-index: "[[02-Literature]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
@@ -215,7 +215,7 @@ High Serum Ca²⁺ → ↓ PTH
 - "[[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]]" — D mechanisms
 - "[[LitNote_Vitamin_D_Safety_Mechanisms_L-001-0008]]" — D safety
 - "[[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]" — Mg enables D
-- "[[MOC-Vitamin-D-Metabolism]]" — Parent MOC
+- "[[MOC-Vitamin-D]]" — Parent MOC
 
 ---
 

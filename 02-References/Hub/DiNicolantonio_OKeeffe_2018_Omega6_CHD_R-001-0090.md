@@ -10,7 +10,7 @@ doi: "(pending)"
 pmid: "(pending)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Cardiovascular-Disease]]"
+parent-moc: "[[MOC-Cardiovascular-Health]]"
 ---
 
 # DiNicolantonio & O'Keefe 2018 — Omega-6 Vegetable Oils and CHD (Oxidized LA Hypothesis)

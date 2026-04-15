@@ -6,7 +6,7 @@ aliases: [Z-001-1032, Supplement-Hierarchy]
 domain: 001
 domain-name: Clinical Nutrition
 tags: [zettel, supplementation, prescribing, clinical-protocol, hierarchy]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 source-litnote: [[LitNote_Metabolomics_Chief_Instructor_Framework_L-001-0588]
 extraction-date: 2026-04-15
 confidence: high

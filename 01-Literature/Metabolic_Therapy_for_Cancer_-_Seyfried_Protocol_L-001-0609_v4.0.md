@@ -18,7 +18,7 @@ pmcid: ""
 tier: BRONZE
 relevance: "High — Ketogenic diet for cancer, caloric restriction, Press-Pulse protocol, mitochondrial dysfunction exploitation"
 status: complete
-parent-moc: "[[MOC-Cancer-Therapy]]"
+parent-moc: "[[MOC-Cancer]]"
 parent-index: "[[01-Literature-Index]]"
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
@@ -137,7 +137,7 @@ tags:
 ---
 
 ## Related References
-- [[MOC-Cancer-Therapy]] — Parent MOC
+- [[MOC-Cancer]] — Parent MOC
 - [[L-001-0608_Warburg_Effect_Cancer_Metabolism_CGPT-0264]] — Warburg effect
 - [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]] — Therapeutic ketosis
 - [[Ketogenesis_Mechanism_Liver_Mitochondria_Z-001-1094]] — Ketogenesis mechanism

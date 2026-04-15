@@ -17,7 +17,7 @@ tags: []
   - b6
   - homocysteine
   - glutathione
-parent-moc: "[[MOC-Methylation-One-Carbon]]"
+parent-moc: "[[MOC-Methylation]]"
 status: conscious
 source-litnote: "[[LitNote_Methionine_Catabolism_L-001-0406]]"
 source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

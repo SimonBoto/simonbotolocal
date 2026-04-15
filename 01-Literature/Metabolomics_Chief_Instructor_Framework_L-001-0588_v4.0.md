@@ -15,7 +15,7 @@ pmcid: N/A
 tier: SILVER
 relevance: High — Foundational training philosophy for metabolomics clinic; defines instructor role and 6-stage patient flow
 status: complete
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
@@ -181,7 +181,7 @@ Let trainee make common error → Model correction → Explain why pattern leads
 ---
 
 ## Related References
-- [[MOC-Metabolomics-Training]] — Parent MOC
+- [[MOC-Metabolomics]] — Parent MOC
 - [[Metabolomics_Chief_Instructor_Role_Definition_Z-001-1029]] — Related zettel
 - [[L-001-0589_8_Week_Metabolomics_Bootcamp_v4.0]] — Related LitNote
 

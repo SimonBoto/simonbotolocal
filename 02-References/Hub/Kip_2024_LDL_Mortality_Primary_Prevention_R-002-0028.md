@@ -10,7 +10,7 @@ doi: "10.1136/bmjopen-2023-077949"
 url: "https://bmjopen.bmj.com/content/14/3/e077949"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Cardiovascular-Disease]]"
+parent-moc: "[[MOC-Cardiovascular-Health]]"
 ---
 
 # Kip et al. 2024 — LDL and Mortality in Healthy Adults

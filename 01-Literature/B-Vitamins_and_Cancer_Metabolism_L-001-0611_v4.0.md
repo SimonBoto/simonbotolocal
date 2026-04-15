@@ -17,7 +17,7 @@ pmcid: ""
 tier: BRONZE
 relevance: "High — One-carbon metabolism, methylation, folate, B12, nucleotide synthesis in cancer"
 status: complete
-parent-moc: "[[MOC-Methylation-One-Carbon]]"
+parent-moc: "[[MOC-Methylation]]"
 parent-index: "[[01-Literature-Index]]"
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
@@ -100,7 +100,7 @@ tags:
 ---
 
 ## Related References
-- [[MOC-Methylation-One-Carbon]] — Parent MOC
+- [[MOC-Methylation]] — Parent MOC
 - [[L-001-0401_One_Carbon_Metabolism_B12_CGPT-0264]] — One-carbon metabolism
 - [[One_Carbon_Metabolism_Folate_B12_Z-001-1062]] — Related zettel
 

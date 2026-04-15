@@ -14,7 +14,7 @@ pmid: "38552311"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Hashimoto-Thyroiditis]]"
+parent-moc: "[[MOC-Thyroid]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
 zettel-count: 3
@@ -95,7 +95,7 @@ Beyond low-carb diet, additional improvements from:
 ---
 
 ## Structural Links
-- **Up:** [[MOC-Hashimoto-Thyroiditis]] — Thematic domain
+- **Up:** [[MOC-Thyroid]] — Thematic domain
 - **Inbox:** [[INBOX-Article-4-Hashimoto]] — Raw origin
 - **Index:** [[01-Literature 1]] — Container
 
@@ -121,7 +121,7 @@ Beyond low-carb diet, additional improvements from:
 - [x] All structural links verified
 
 ## Connections
-- [[MOC-Hashimoto-Thyroiditis]]
+- [[MOC-Thyroid]]
 - [[INBOX-Article-4-Hashimoto]]
 - [[Huang_2024_Hashimoto_LowCarb_MRI_R-002-0027]]
 

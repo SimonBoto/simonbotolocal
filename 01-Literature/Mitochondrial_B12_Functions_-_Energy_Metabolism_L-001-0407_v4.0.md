@@ -17,7 +17,7 @@ pmcid: N/A
 tier: SILVER
 relevance: High — Mitochondrial energy production, exercise implications, clinical B12 assessment
 status: complete
-parent-moc: "[[MOC-Methylation-One-Carbon]]"
+parent-moc: "[[MOC-Methylation]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

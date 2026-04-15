@@ -111,7 +111,7 @@ This MOC covers:
 | MOC | Relationship |
 |-----|--------------|
 | [[MOC-Insulin-Signaling]] | Mitochondrial function → insulin sensitivity |
-| [[MOC-Metabolomics-Training]] | Clinical application of mitochondrial knowledge |
+| [[MOC-Metabolomics]] | Clinical application of mitochondrial knowledge |
 | [[MOC-Metabolic-Syndrome]] | Mitochondrial dysfunction in metabolic disease |
 | [[MOC-Fatty-Acids]] | Lipid metabolism → mitochondrial fuel |
 

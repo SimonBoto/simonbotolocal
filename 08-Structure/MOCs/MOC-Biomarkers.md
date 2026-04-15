@@ -67,7 +67,7 @@ Current biomarker content lives in:
 
 | MOC | Connection |
 |-----|------------|
-| [[MOC-Metabolomics-Training]] | Training integration |
+| [[MOC-Metabolomics]] | Training integration |
 | [[MOC-Vitamin-Mineral-Axis]] | Nutrient biomarkers |
 
 

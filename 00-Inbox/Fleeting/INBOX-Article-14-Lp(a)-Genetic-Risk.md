@@ -63,4 +63,4 @@ Since Lp(a) itself is not modifiable:
 - [x] LitNote: [[L-002-0183_Lipoprotein_a_Lp(a)_Genetic_Risk]]
 - [x] Zettels: 3 zettels (Z-002-0684 to Z-002-0686)
 - [x] Reference note: [[Kamstrup_2009_Lp(a)_Genetic_MI_Risk_R-002-0039]]
-- [x] MOC: [[MOC-Cardiovascular-Disease]]
+- [x] MOC: [[MOC-Cardiovascular-Health]]

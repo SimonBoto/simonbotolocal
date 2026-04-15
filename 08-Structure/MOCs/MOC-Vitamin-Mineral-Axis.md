@@ -130,10 +130,10 @@ This MOC covers:
 | MOC | Relationship |
 |-----|--------------|
 | [[MOC-Mitochondrial-Function]] | Mg, B-vitamins → energy metabolism |
-| [[MOC-Methylation-One-Carbon]] | Extended methylation pathway |
+| [[MOC-Methylation]] | Extended methylation pathway |
 | [[MOC-Gut-Microbiome]] | Absorption, dysbiosis, SIBO |
 | [[MOC-Neurotransmitters]] | Brain chemistry, mood disorders |
-| [[MOC-Metabolomics-Training]] | Clinical application |
+| [[MOC-Metabolomics]] | Clinical application |
 
 ---
 

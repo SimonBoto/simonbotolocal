@@ -5,7 +5,7 @@ title: "Socratic Method Metabolomics Training"
 aliases: ["Z-001-1033", "Socratic-Training", "Pedagogy", "Clinical-Reasoning"]
 domain: 001
 tags: [zettel, pedagogy, socratic-method, clinical-reasoning, teaching, training]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0588_Metabolomics_Chief_Instructor_Framework_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

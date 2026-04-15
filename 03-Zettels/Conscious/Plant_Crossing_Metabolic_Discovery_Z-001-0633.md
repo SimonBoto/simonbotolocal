@@ -6,7 +6,7 @@ aliases: [Z-001-0615F]
 domain: 001
 tags: [zettel, plant-breeding, crossing, metabolic-discovery, tobacco, forward-genetics, conscious]
 parent-index: [[03-Zettels-Conscious]]
-parent-moc: [[MOC-Research-Methodology]]
+parent-moc: [[MOC-Research]]
 related: [[Single_Mutation_Nicotine_Block_Z-001-0615G]], [[Heterologous_Nicotine_Pathway_Reconstitution_Z-001-0615H]]
 status: conscious
 source-litnote: legacy-no-source

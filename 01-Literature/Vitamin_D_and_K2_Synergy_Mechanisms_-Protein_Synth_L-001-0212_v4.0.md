@@ -16,7 +16,7 @@ pmcid: ""
 tier: GOLD
 relevance: "Critical — METHAP protocol synergy rationale; biochemical foundation for co-supplementation"
 status: complete
-parent-moc: "[[MOC-Vitamin-D-K2]]"
+parent-moc: "[[MOC-Vitamin-D]]"
 parent-index: "[[01-Literature 1]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0230_Synergy_of_D_and_K2_CGPT-0230]]"
@@ -212,7 +212,7 @@ Result: Strong bones + Clear arteries
 - "[[LitNote_Vitamin_D_Metabolic_Syndrome_L-001-0205]]" — D mechanisms
 - "[[LitNote_Vitamin_K2_Metabolic_Syndrome_L-001-0206]]" — K2 mechanisms
 - "[[Magnesium_Vitamin_D_Interaction_Hydroxylation_Z-001-0210]]" — D activation requires Mg
-- "[[MOC-Vitamin-D-K2]]" — Parent MOC
+- "[[MOC-Vitamin-D]]" — Parent MOC
 
 ---
 

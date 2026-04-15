@@ -17,7 +17,7 @@ pmcid: "N/A"
 tier: BRONZE
 relevance: "High — Essential for PhD trial design and METHAP methodology"
 status: complete
-parent-moc: "[[MOC-Methodology]]"
+parent-moc: "[[MOC-Research]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-02"
 source-inbox: "[[CGPT_0328_Methodology_Mistakes_Identified_CGPT-0328]]"
@@ -290,7 +290,7 @@ Confirm findings
 
 - Source: ChatGPT CGPT-0328 (July 14, 2024)
 - Case study: Gastric cancer metabolomics (n=57, 3000 metabolites)
-- Domain: [[MOC-Methodology]]
+- Domain: [[MOC-Research]]
 
 
 *Last reviewed: 2026-03-02*  

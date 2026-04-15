@@ -7,7 +7,7 @@ aliases: [S-001-0012]
 domain: 001
 tags: [synthesis, ritual, weekly, consolidation, zettelkasten]
 parent-index: "[[04-Synthesis-Index]]"
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: active
 ---
 

@@ -10,7 +10,7 @@ doi: "10.1007/978-3-319-62875-1_1"
 pmid: "28889205"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Research-Methods]]"
+parent-moc: "[[MOC-Research]]"
 ---
 
 # Klassen 2017 — Metabolomics: Definitions and Significance in Systems Biology

@@ -50,4 +50,4 @@ topic: alcohol, mortality, global-burden, GBD, chronic-disease
 - [x] LitNote: [[L-002-0205_Alcohol_1.8_Million_Deaths]]
 - [x] Zettels: 3 zettels (Z-002-0753 to Z-002-0755)
 - [x] Reference note: R-002-0045 (to be created)
-- [x] MOC: [[MOC-Diabetes-T2D]]
+- [x] MOC: [[MOC-Diabetes]]

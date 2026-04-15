@@ -5,7 +5,7 @@ title: "Training Teaching Style Framework"
 aliases: ["Z-001-1040", "Teaching-Style", "Pedagogy", "Training-Approach"]
 domain: 001
 tags: [zettel, training, pedagogy, teaching-style, clinical-education, mentor]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0589_8_Week_Metabolomics_Bootcamp_Curriculum_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

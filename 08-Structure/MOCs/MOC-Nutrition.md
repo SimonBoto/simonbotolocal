@@ -30,9 +30,9 @@ last-updated: 2026-04-07
 ## 📊 Sub-Domains
 
 ### Vitamins
-- [[MOC-Vitamin-D-Metabolism]] — Vitamin D specifically
+- [[MOC-Vitamin-D]] — Vitamin D specifically
 - [[MOC-Vitamin-C]] — Vitamin C
-- B-vitamins via [[MOC-Methylation-One-Carbon]]
+- B-vitamins via [[MOC-Methylation]]
 
 ### Minerals
 - [[MOC-Minerals-Trace]] — Trace minerals

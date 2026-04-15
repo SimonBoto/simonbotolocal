@@ -10,7 +10,7 @@ doi: "10.1038/nrm3314"
 pmid: "22436749"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Research-Methods]]"
+parent-moc: "[[MOC-Research]]"
 ---
 
 # Patti, Yanes & Siuzdak 2012 — Metabolomics: The Apogee of the Omics Trilogy

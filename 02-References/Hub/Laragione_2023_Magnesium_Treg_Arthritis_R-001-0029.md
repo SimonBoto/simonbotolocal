@@ -10,7 +10,7 @@ doi: "(pending)"
 pmid: "(pending)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Autoimmunity]]"
+parent-moc: "[[MOC-Autoimmune]]"
 ---
 
 # Laragione 2023 — Magnesium, Treg Cells, and Arthritis (eBioMedicine)

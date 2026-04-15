@@ -5,7 +5,7 @@ title: Mitochondrial Dysfunction Cancer Metabolism
 aliases: [Mitochondrial-Dysfunction, Cancer, mtDNA, Apoptosis, Metabolism]
 domain: 001
 tags: [zettel, mitochondrial-dysfunction, cancer, mtdna, apoptosis, metabolism, warburg-effect]
-parent-moc: [[MOC-Cancer-Metabolism]]
+parent-moc: [[MOC-Cancer]]
 status: conscious
 source-litnote: [[Warburg_Effect_and_Cancer_Metabolism_L-001-0608_CGPT-0264]]
 extraction-date: 2026-03-08

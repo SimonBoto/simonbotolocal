@@ -5,7 +5,7 @@ title: "OAT Category Interpretation Framework"
 aliases: ["Z-001-1065", "OAT-Categories", "Interpretation", "Systematic-Review"]
 domain: 001
 tags: [zettel, oat, interpretation, categories, systematic, clinical-protocol]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0594_OAT_Interpretation_Clinical_Protocol_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

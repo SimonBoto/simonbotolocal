@@ -5,7 +5,7 @@ title: Ketogenic Diet Cancer Therapy Metabolic Inflexibility
 aliases: [Ketogenic-Diet, Cancer-Therapy, Metabolic-Inflexibility, Ketosis]
 domain: 001
 tags: [zettel, ketogenic-diet, cancer-therapy, metabolic-inflexibility, ketosis]
-parent-moc: [[MOC-Cancer-Therapy]]
+parent-moc: [[MOC-Cancer]]
 status: conscious
 source-litnote: [[Metabolic_Therapy_for_Cancer_Seyfried_Protocol_L-001-0609_CGPT-0264]]
 extraction-date: 2026-03-08

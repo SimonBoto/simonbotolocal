@@ -11,7 +11,7 @@ doi: "(not applicable)"
 pmid: "(not applicable)"
 tier: "BRONZE"
 status: active
-parent-moc: "[[MOC-Autoimmunity]]"
+parent-moc: "[[MOC-Autoimmune]]"
 ---
 
 # Nobel Prize in Medicine 2025 — Autoimmune Diseases

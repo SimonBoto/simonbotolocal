@@ -125,7 +125,7 @@ extraction-date: 2026-03-08
 
 ## Related
 - [[Metabolomics_Training_MOC_Graph_Z-001-1082]] — Knowledge graph connections
-- [[MOC-Metabolomics-Training]] — Primary curriculum hub
+- [[MOC-Metabolomics]] — Primary curriculum hub
 
 ---
 *Source: [[L-001-0598_CGPT-0022_Training_Curriculum_Integration_CGPT-0022]] | Inbox: [[CGPT_0022_Metabolomics_training_role_CGPT-0022]]*

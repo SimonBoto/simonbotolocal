@@ -17,7 +17,7 @@ pmid: "(pending)"
 tier: "SILVER"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Cardiovascular-Risk]]"
+parent-moc: "[[MOC-Cardiovascular-Health]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-05"
 zettel-count: 3
@@ -78,7 +78,7 @@ tags:
 ---
 
 ## Connections
-- **MOC:** [[MOC-Cardiovascular-Risk]] — Thematic domain
+- **MOC:** [[MOC-Cardiovascular-Health]] — Thematic domain
 - **INBOX:** [[INBOX-Article-44-CAC-Statin]] — Article source
 - **Reference:** [[Szilveszter_2025_CAC_Statin_Benefit_R-002-0060]] — Primary source
 - **Index:** [[01-Literature 1]] — Container

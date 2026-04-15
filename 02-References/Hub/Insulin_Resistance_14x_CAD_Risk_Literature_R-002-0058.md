@@ -10,7 +10,7 @@ doi: "(multiple)"
 pmid: "(multiple)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Cardiovascular-Risk]]"
+parent-moc: "[[MOC-Cardiovascular-Health]]"
 ---
 
 # Insulin Resistance 14x CAD Risk — Metabolic Cardiology Literature

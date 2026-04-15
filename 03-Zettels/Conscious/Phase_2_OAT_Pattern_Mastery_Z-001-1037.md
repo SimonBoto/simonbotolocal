@@ -5,7 +5,7 @@ title: "Phase 2 OAT Pattern Mastery"
 aliases: ["Z-001-1037", "Phase-2", "OAT-Mastery", "Pattern-Recognition"]
 domain: 001
 tags: [zettel, training, oat, organic-acids, pattern-recognition, interpretation]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0589_8_Week_Metabolomics_Bootcamp_Curriculum_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

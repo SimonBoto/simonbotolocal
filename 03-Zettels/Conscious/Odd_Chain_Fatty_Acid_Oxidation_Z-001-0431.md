@@ -16,7 +16,7 @@ tags: []
   - beta-oxidation
   - b12
   - dairy
-parent-moc: "[[MOC-Methylation-One-Carbon]]"
+parent-moc: "[[MOC-Methylation]]"
 status: conscious
 source-litnote: "[[B12_in_Amino_Acid_Metabolism_-_Propionate_Pathwa_L-001-0405_v4.0]]"
 source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

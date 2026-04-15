@@ -47,7 +47,7 @@ last-updated: "2026-04-04"
 | MOC | Connection |
 |-----|------------|
 | `[[MOC-Metabolic-Pathways]]` | Pathway disruption |
-| `[[MOC-Research-Methods]]` | Detection methods |
+| `[[MOC-Research]]` | Detection methods |
 
 ---
 

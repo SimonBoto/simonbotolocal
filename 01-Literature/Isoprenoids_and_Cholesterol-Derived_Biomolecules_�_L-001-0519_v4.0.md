@@ -241,7 +241,7 @@ The "statin side effect" conversation must include:
 ## Related References
 - [[MOC-Lipid-Metabolism]] — Parent MOC for lipid pathways
 - [[MOC-Vitamin-Mineral-Axis]] — Vitamin D details
-- [[MOC-Vitamin-D-Metabolism]] — Vitamin D specific context
+- [[MOC-Vitamin-D]] — Vitamin D specific context
 - [[MOC-Mitochondrial-Function]] — CoQ10 and energy context
 - [[L-001-0518_Mevalonate_Pathway_Biochemistry_CGPT-0391]] — Mevalonate pathway details
 

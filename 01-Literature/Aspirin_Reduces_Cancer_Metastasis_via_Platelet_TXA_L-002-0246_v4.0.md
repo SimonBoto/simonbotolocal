@@ -24,7 +24,7 @@ tags:
   - nejm-2025
   - facebook-collection
 parent-index: "[[01-Literature 1]]"
-parent-moc: "[[MOC-Cancer-Immunology]]"
+parent-moc: "[[MOC-Cancer]]"
 source-inbox: "[[INBOX-Article-1-Aspirin-Metastasis]]"
 source-litnote: "[[INBOX-Article-1-Aspirin-Metastasis]]"
 extraction-date: 2026-04-05
@@ -156,7 +156,7 @@ pmid: "40044852"
 ---
 
 ## Structural Links
-- **Up:** [[MOC-Cancer-Immunology]] — Thematic domain
+- **Up:** [[MOC-Cancer]] — Thematic domain
 - **Inbox:** [[INBOX-Article-1-Aspirin-Metastasis]] — Raw origin
 - **Index:** [[01-Literature 1]] — Container
 
@@ -174,7 +174,7 @@ pmid: "40044852"
 - [ ] RON review pending — ALWAYS leave unchecked
 
 ## Connections
-- [[MOC-Cancer-Immunology]]
+- [[MOC-Cancer]]
 - [[INBOX-Article-1-Aspirin-Metastasis]]
 - [[Yang_2025_Aspirin_Metastasis_TXA2_Nature_R-001-0100]]
 - [[Patrono_Rocca_2025_NEJM_Aspirin_Metastasis_R-002-0036]]

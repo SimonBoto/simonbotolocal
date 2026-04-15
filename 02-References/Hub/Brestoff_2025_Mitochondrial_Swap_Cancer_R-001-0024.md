@@ -10,7 +10,7 @@ doi: "(pending)"
 pmid: "(pending)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Cancer-Immunology]]"
+parent-moc: "[[MOC-Cancer]]"
 ---
 
 # Brestoff 2025 — Mitochondrial Swap from Cancer to Immune Cells

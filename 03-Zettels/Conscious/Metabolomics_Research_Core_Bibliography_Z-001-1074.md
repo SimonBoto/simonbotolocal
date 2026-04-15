@@ -5,7 +5,7 @@ title: "Metabolomics Research Core Bibliography"
 aliases: ["Z-001-1074", "Research-Bibliography", "Metabolomics-Studies", "Key-Papers"]
 domain: 001
 tags: [zettel, research, bibliography, metabolomics, oat, fatty-acids, studies]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0596_Tsoukalas_Research_Bibliography_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

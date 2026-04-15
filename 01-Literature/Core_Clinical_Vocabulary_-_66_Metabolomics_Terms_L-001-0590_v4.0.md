@@ -15,7 +15,7 @@ pmcid: N/A
 tier: SILVER
 relevance: "High — Foundational terminology for metabolomics training; 66 terms organized by clinical domain"
 status: complete
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
@@ -241,7 +241,7 @@ Metabolism → Energy → Inflammation → Oxidative Stress → Mitochondria →
 ---
 
 ## Related References
-- [[MOC-Metabolomics-Training]] — Parent MOC
+- [[MOC-Metabolomics]] — Parent MOC
 - [[Health_Philosophy_Core_Concepts_Z-001-1041]] — Related zettel
 - [[Metabolism_Metabolomics_Terminology_Z-001-1042]] — Related zettel
 - [[L-001-0589_8_Week_Metabolomics_Bootcamp_v4.0]] — Related LitNote

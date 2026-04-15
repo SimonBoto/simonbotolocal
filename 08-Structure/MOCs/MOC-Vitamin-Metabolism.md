@@ -81,7 +81,7 @@ parent-moc: [[MOCs-Index]]
 
 | MOC | Connection |
 |-----|------------|
-| [[MOC-Vitamin-D-Metabolism]] | Specific vitamin |
+| [[MOC-Vitamin-D]] | Specific vitamin |
 | [[MOC-Vitamin-Mineral-Axis]] | Nutrient synergy |
 | [[MOC-Supplements]] | Practical application |
 | [[MOC-Nutrition]] | Dietary context |

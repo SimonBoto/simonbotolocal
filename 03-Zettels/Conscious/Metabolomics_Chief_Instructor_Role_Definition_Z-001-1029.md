@@ -5,7 +5,7 @@ title: "Metabolomics Chief Instructor Role Definition"
 aliases: ["Z-001-1029", "MCI-Role", "Chief-Instructor"]
 domain: 001
 tags: [zettel, training, instructor, role, leadership, metabolomics, clinical-education]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0588_Metabolomics_Chief_Instructor_Framework_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

@@ -10,7 +10,7 @@ doi: "10.1016/j.ejps.2017.05.018"
 pmid: "28576665"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Research-Methods]]"
+parent-moc: "[[MOC-Research]]"
 ---
 
 # Kohler 2017 — Integrating Metabolomics and Pharmacology for Precision Medicine

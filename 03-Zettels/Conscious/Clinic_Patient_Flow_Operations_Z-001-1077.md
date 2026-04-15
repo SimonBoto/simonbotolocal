@@ -5,7 +5,7 @@ title: "Clinic Patient Flow Operations"
 aliases: ["Z-001-1077", "Patient-Flow", "Clinic-Operations", "Workflow"]
 domain: 001
 tags: [zettel, operations, patient-flow, clinic, workflow, sop, quality]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0597_Metabolomics_Clinic_Operations_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

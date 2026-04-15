@@ -14,7 +14,7 @@ pmid: "41720105"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Cancer-Immunology]]"
+parent-moc: "[[MOC-Cancer]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
 zettel-count: 3
@@ -82,7 +82,7 @@ Fasting or fasting-mimicking diets enhance the effectiveness of immunotherapy in
 ---
 
 ## Connections
-- **MOC:** [[MOC-Cancer-Immunology]] — Thematic domain
+- **MOC:** [[MOC-Cancer]] — Thematic domain
 - **INBOX:** [[INBOX-Article-12-Fasting-Immunotherapy]] — Article source
 - **Reference:** [[Chen_2026_16h_Fasting_Immunotherapy_R-002-0038]] — Primary source
 - **Index:** [[01-Literature 1]] — Container

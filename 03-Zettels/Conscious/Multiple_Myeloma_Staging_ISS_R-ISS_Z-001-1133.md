@@ -5,7 +5,7 @@ title: Multiple Myeloma Staging ISS R-ISS
 aliases: [Multiple-Myeloma, Staging, ISS, R-ISS, Prognosis]
 domain: 001
 tags: [zettel, multiple-myeloma, staging, iss, r-iss, prognosis]
-parent-moc: [[MOC-Cancer-Therapy]]
+parent-moc: [[MOC-Cancer]]
 status: conscious
 source-litnote: [[Multiple_Myeloma_Comprehensive_L-001-0612_CGPT-0264]]
 extraction-date: 2026-03-08

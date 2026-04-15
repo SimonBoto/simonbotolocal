@@ -15,7 +15,7 @@ pmcid: N/A
 tier: GOLD
 relevance: Peer review skills, critical appraisal of research, scientific integrity
 status: complete
-parent-moc: "[[MOC-Research-Methods]]"
+parent-moc: "[[MOC-Research]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"
 source-inbox: "[[CGPT_0551_Manuscript_Review_Critical_Concerns_CGPT-0551]]"
@@ -193,7 +193,7 @@ Types: Financial → Intellectual → Personal → Disclosure: Required → Mana
 ---
 
 ## Related References
-- [[MOC-Research-Methods]] — Parent MOC
+- [[MOC-Research]] — Parent MOC
 - [[Reviewers_Role_Framework_Z-001-0586A]] — Related zettel
 - [[L-001-0587_Metabolic_Biomarkers_Briefing_v4.0]] — Related LitNote
 

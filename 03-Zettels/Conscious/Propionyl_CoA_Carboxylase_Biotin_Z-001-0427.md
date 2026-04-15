@@ -15,7 +15,7 @@ tags: []
   - carboxylase
   - propionyl-coa
   - b7
-parent-moc: "[[MOC-Methylation-One-Carbon]]"
+parent-moc: "[[MOC-Methylation]]"
 status: conscious
 source-litnote: "[[LitNote_B12_Amino_Acid_Metabolism_L-001-0405]]"
 source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

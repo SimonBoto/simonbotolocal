@@ -15,7 +15,7 @@ pmid: "(multiple)"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Autoimmunity]]"
+parent-moc: "[[MOC-Autoimmune]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
 zettel-count: 3
@@ -74,7 +74,7 @@ tags:
 ---
 
 ## Connections
-- **MOC:** [[MOC-Autoimmunity]] — Thematic domain
+- **MOC:** [[MOC-Autoimmune]] — Thematic domain
 - **INBOX:** [[INBOX-Article-27-Autoimmune]] — Article source
 - **Reference:** [[Autoimmune_Diet_Lifestyle_R-002-0048]] — Primary source
 - **Index:** [[01-Literature 1]] — Container

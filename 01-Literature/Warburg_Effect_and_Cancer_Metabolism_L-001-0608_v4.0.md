@@ -17,7 +17,7 @@ pmcid: ""
 tier: BRONZE
 relevance: "High — Aerobic glycolysis in cancer, metabolic reprogramming, tumor microenvironment, lactate production"
 status: complete
-parent-moc: "[[MOC-Cancer-Metabolism]]"
+parent-moc: "[[MOC-Cancer]]"
 parent-index: "[[01-Literature-Index]]"
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
@@ -119,7 +119,7 @@ tags:
 ---
 
 ## Related References
-- [[MOC-Cancer-Metabolism]] — Parent MOC
+- [[MOC-Cancer]] — Parent MOC
 - [[L-001-0609_Metabolic_Therapy_Cancer_Seyfried_CGPT-0264]] — Metabolic therapy approach
 - [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]] — Ketosis in cancer therapy
 

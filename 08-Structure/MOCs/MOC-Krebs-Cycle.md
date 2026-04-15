@@ -96,3 +96,7 @@ parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 
 ---
 parent-moc: [[MOCs-Index]]
+
+## Also Known As
+
+- [[MOC-Krebs-Cycle]] (tricarboxylic acid cycle)

@@ -5,7 +5,7 @@ title: "Isoprenoids and Terpenes Overview"
 aliases: ["Z-001-0569", "Isoprenoids", "Terpenes", "Terpenoids", "IPP-Derivatives"]
 domain: 001
 tags: [zettel, isoprenoids, terpenes, ipps, mevalonate-pathway, cholesterol, biochemistry]
-parent-moc: "[[MOC-Cholesterol-Metabolism]]"
+parent-moc: "[[MOC-Cholesterol-Lipid]]"
 status: conscious
 source-litnote: "[[L-001-0519_Isoprenoids_Cholesterol_Derivatives_CGPT-0391]]"
 source-inbox: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"

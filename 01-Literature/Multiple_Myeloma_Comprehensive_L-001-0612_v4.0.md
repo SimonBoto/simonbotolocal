@@ -17,7 +17,7 @@ pmcid: ""
 tier: BRONZE
 relevance: "High — Multiple myeloma diagnosis, CRAB features, staging, prognosis, treatment overview"
 status: complete
-parent-moc: "[[MOC-Cancer-Therapy]]"
+parent-moc: "[[MOC-Cancer]]"
 parent-index: "[[01-Literature-Index]]"
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
 source-litnote: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"
@@ -102,7 +102,7 @@ tags:
 ---
 
 ## Related References
-- [[MOC-Cancer-Therapy]] — Parent MOC
+- [[MOC-Cancer]] — Parent MOC
 - [[L-001-0613_TP53_Multiple_Myeloma_CGPT-0264]] — TP53 in myeloma
 - [[TP53_Multiple_Myeloma_Prognosis_Therapy_Z-001-1135]] — TP53 zettel
 

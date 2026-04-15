@@ -43,13 +43,13 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 | **001-VM**       | [[MOC-Vitamin-Mineral-Axis]]          | 8+      | Micronutrients, cofactors, supplementation |
 | **002**          | [[MOC-Research-Ethics]]               | 21      | IRB, study design, ethics                  |
 | **003**          | [[MOC-Iron-Metabolism]]               | 3       | Iron studies, ferritin                     |
-| **004**          | [[MOC-Methylation-One-Carbon]]        | 4       | B12, folate, homocysteine                  |
-| **005**          | [[MOC-Thyroid-Function]]              | 2       | TSH, thyroid hormones                      |
+| **004**          | [[MOC-Methylation]]        | 4       | B12, folate, homocysteine                  |
+| **005**          | [[MOC-Thyroid]]              | 2       | TSH, thyroid hormones                      |
 | **006**          | [[MOC-Lipid-Metabolism]]              | 2       | Cholesterol, fatty acids                   |
 | **007**          | [[MOC-Inflammation]]                  | 1       | CRP, cytokines                             |
 | **008**          | [[MOC-Liver-Function]]                | 1       | Liver enzymes                              |
 | **009**          | [[MOC-Kidney-Metabolism]]             | 1       | eGFR, creatinine                           |
-| **Methodology**  | [[MOC-Research-Methodology]]          | 1       | Experimental design, methods               |
+| **Methodology**  | [[MOC-Research]]          | 1       | Experimental design, methods               |
 | **Genetics**     | [[MOC-Genetic-Variation]]             | 1       | Mutations, polymorphisms                   |
 | **Cell Biology** | [[MOC-Cellular-Compartmentalization]] | 1       | Organelles, transport                      |
 | **Enzymes**      | [[MOC-Enzyme-Mechanisms]]             | 1       | Catalysis, kinetics                        |
@@ -60,7 +60,7 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 | **Vitamins**     | [[MOC-Vitamin-C]]                     | 8       | Ascorbate, Pauling, functions              |
 | **010**          | [[MOC-Minerals-Trace]]                | 1       | Mg, Zn, Se                                 |
 | **101**          | [[MOC-Pharmacometabolomics]]          | 55      | Drug metabolism                            |
-| **Cancer**       | [[MOC-Cancer-Immunology]]             | 5       | Cancer-immune interactions, immunotherapy  |
+| **Cancer**       | [[MOC-Cancer]]             | 5       | Cancer-immune interactions, immunotherapy  |
 
 ---
 
@@ -115,16 +115,16 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 - [[MOC-Urea-Cycle]] — Ammonia detox
 
 ### Clinical & Disease
-- [[MOC-Autoimmunity]] — Autoimmune mechanisms
+- [[MOC-Autoimmune]] — Autoimmune mechanisms
 - [[MOC-Biomarkers]] — Biomarker framework
 - [[MOC-Cholesterol-Quality]] — Cholesterol particles
 - [[MOC-Clinical-Protocols]] — Clinical workflows
-- [[MOC-Diabetes-T2D]] — Type 2 diabetes
-- [[MOC-Hashimoto-Thyroiditis]] — Autoimmune thyroid
+- [[MOC-Diabetes]] — Type 2 diabetes
+- [[MOC-Thyroid]] — Autoimmune thyroid
 - [[MOC-Hidden-Hunger]] — Micronutrient deficiencies
 - [[MOC-Insulin-Resistance]] — IR mechanisms
 - [[MOC-Metabolic-Syndrome]] — MetS criteria
-- [[MOC-Stress-Autoimmune]] — Stress-immune axis
+- [[MOC-Autoimmune]] — Stress-immune axis
 
 ### Organs & Systems
 - [[MOC-Inflammation]] — Inflammatory markers
@@ -132,9 +132,9 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 - [[MOC-Kidney-Metabolism]] — Renal function
 - [[MOC-Lipid-Metabolism]] — Fatty acids, lipids
 - [[MOC-Liver-Function]] — Hepatic markers
-- [[MOC-Methylation-One-Carbon]] — B12, folate, methylation
+- [[MOC-Methylation]] — B12, folate, methylation
 - [[MOC-Mitochondrial-Function]] — ETC, OXPHOS
-- [[MOC-Thyroid-Function]] — Thyroid hormones
+- [[MOC-Thyroid]] — Thyroid hormones
 - [[MOC-Minerals-Trace]] — Mg, Zn, Se
 
 ### Research & Methods
@@ -142,13 +142,13 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 - [[MOC-Inbox-Sprint]] — Processing workflow
 - [[MOC-Literature-Management]] — Zotero, sources
 - [[MOC-Metabolomics]] — Metabolomics overview
-- [[MOC-Metabolomics-Analysis]] — Data analysis
-- [[MOC-Metabolomics-Protocols]] — Lab protocols
-- [[MOC-Metabolomics-Training]] — Education framework
+- [[MOC-Metabolomics]] — Data analysis
+- [[MOC-Metabolomics]] — Lab protocols
+- [[MOC-Metabolomics]] — Education framework
 - [[MOC-Pharmacometabolomics]] — Drug metabolism
 - [[MOC-PhD-Research]] — PhD project hub
 - [[MOC-Research-Ethics]] — IRB, ethics
-- [[MOC-Research-Methods]] — Study design
+- [[MOC-Research]] — Study design
 
 ### Nutrition & Lifestyle
 - [[MOC-Nutrition]] — Nutritional biochemistry
@@ -156,7 +156,7 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 - [[MOC-Omega3-Fats]] — Omega-3 fatty acids
 - [[MOC-Origins-of-Life]] — Prebiotic chemistry, evolution
 - [[MOC-Sleep-and-Circadian]] — Sleep, circadian
-- [[MOC-Vitamin-D-Metabolism]] — Vitamin D
+- [[MOC-Vitamin-D]] — Vitamin D
 - [[MOC-Vitamin-Metabolism]] — All vitamins
 - [[MOC-Vitamin-Safety]] — Vitamin toxicity
 
@@ -190,7 +190,7 @@ parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 ### Recently Added MOCs (2026-04-04)
 | MOC | Focus | Zettels |
 |-----|-------|---------|
-| [[MOC-Diabetes-T2D]] | Type 2 diabetes mechanisms | — |
+| [[MOC-Diabetes]] | Type 2 diabetes mechanisms | — |
 | [[MOC-Methylation]] | Methylation overview | — |
 | [[MOC-Omega3-Fats]] | Omega-3 fatty acids | — |
 | [[MOC-Cellular-Regeneration]] | Tissue turnover, healing | 1 |
@@ -198,6 +198,6 @@ parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 | [[MOC-Genetic-Variation]] | Mutations, polymorphisms | 1 |
 | [[MOC-Metabolic-Pathways]] | Biosynthesis, catabolism | 4 |
 | [[MOC-Plant-Biochemistry]] | Alkaloids, secondary metabolites | 8 |
-| [[MOC-Research-Methodology]] | Experimental design, methods | 1 |
+| [[MOC-Research]] | Experimental design, methods | 1 |
 | [[MOC-Synthetic-Biology]] | Engineering, heterologous | 1 |
 | [[MOC-Vitamin-C]] | Ascorbate, Pauling, functions | 8 |

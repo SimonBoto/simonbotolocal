@@ -15,7 +15,7 @@ pmid: "30954305"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Diabetes-T2D]]"
+parent-moc: "[[MOC-Diabetes]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
 zettel-count: 3
@@ -73,7 +73,7 @@ tags:
 ---
 
 ## Connections
-- **MOC:** [[MOC-Diabetes-T2D]] — Thematic domain
+- **MOC:** [[MOC-Diabetes]] — Thematic domain
 - **INBOX:** [[INBOX-Article-22-Diet-Mortality]] — Article source
 - **Reference:** [[GBD_2017_Diet_11_Million_Deaths_R-002-0043]] — Primary source
 - **Index:** [[01-Literature 1]] — Container

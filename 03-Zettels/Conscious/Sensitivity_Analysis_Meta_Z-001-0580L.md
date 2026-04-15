@@ -11,7 +11,7 @@ tags: []
   - zettel
   - sensitivity-analysis
   - meta-analysis
-parent-moc: "[[MOC-Research-Methodology]]"
+parent-moc: "[[MOC-Research]]"
 source-litnote: "[[Meta-Analysis_Methodology_-_From_Search_Strategy_L-001-0580_v4.0]]"
 extraction-date: 2026-04-15
 status: conscious

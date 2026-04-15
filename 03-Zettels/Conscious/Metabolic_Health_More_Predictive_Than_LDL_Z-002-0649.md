@@ -7,7 +7,7 @@ domain: 002
 status: conscious
 tags: [zettel, metabolic-health, ldl, cardiovascular, insulin-resistance, inflammation]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Cardiovascular-Disease]]"
+parent-moc: "[[MOC-Cardiovascular-Health]]"
 source-litnote: "[[L-002-0171_High_LDL_Not_Mortality_Healthy]]"
 extraction-date: 2026-04-15
 source-reference: "[[Kip_2024_LDL_Mortality_Primary_Prevention_R-002-0028]]"

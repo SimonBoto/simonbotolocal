@@ -15,7 +15,7 @@ pmid: "32894885"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Diabetes-T2D]]"
+parent-moc: "[[MOC-Diabetes]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
 zettel-count: 3
@@ -72,7 +72,7 @@ tags:
 ---
 
 ## Connections
-- **MOC:** [[MOC-Diabetes-T2D]] — Thematic domain
+- **MOC:** [[MOC-Diabetes]] — Thematic domain
 - **INBOX:** [[INBOX-Article-24-Alcohol]] — Article source
 - **Reference:** [[GBD_2019_Alcohol_1.8M_Deaths_R-002-0045]] — Primary source
 - **Index:** [[01-Literature 1]] — Container

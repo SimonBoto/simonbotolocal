@@ -5,7 +5,7 @@ title: "Phase 4 Clinical Integration Drills"
 aliases: ["Z-001-1039", "Phase-4", "Integration", "Clinical-Drills"]
 domain: 001
 tags: [zettel, training, integration, clinical-practice, drills, competence]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0589_8_Week_Metabolomics_Bootcamp_Curriculum_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

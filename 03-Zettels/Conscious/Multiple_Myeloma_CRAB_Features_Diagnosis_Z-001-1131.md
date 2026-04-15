@@ -5,7 +5,7 @@ title: Multiple Myeloma CRAB Features Diagnosis
 aliases: [Multiple-Myeloma, CRAB, Diagnosis, Hypercalcemia, Renal, Anemia, Bone]
 domain: 001
 tags: [zettel, multiple-myeloma, crab, diagnosis, hypercalcemia, renal, anemia, bone]
-parent-moc: [[MOC-Cancer-Therapy]]
+parent-moc: [[MOC-Cancer]]
 status: conscious
 source-litnote: [[Multiple_Myeloma_Comprehensive_L-001-0612_CGPT-0264]]
 extraction-date: 2026-03-08

@@ -105,7 +105,7 @@ Linus Pauling, the only person to win two unshared Nobel Prizes, was ridiculed b
 
 ## Structural Links
 - **Up:** [[MOC-Vitamin-Mineral-Axis]] — Thematic domain
-- **Related:** [[MOC-Research-Methodology]], [[MOC-History-of-Medicine]]
+- **Related:** [[MOC-Research]], [[MOC-History-of-Medicine]]
 - **Inbox:** [[INBOX-2026-04-04-002_Pauling_Vitamin_C_Thread]] — Raw origin
 - **Index:** [[01-Literature 1]] — Container
 

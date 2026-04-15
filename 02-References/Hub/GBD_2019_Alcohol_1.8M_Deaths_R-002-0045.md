@@ -11,7 +11,7 @@ pmid: "32894885"
 url: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31344-5/fulltext"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Diabetes-T2D]]"
+parent-moc: "[[MOC-Diabetes]]"
 ---
 
 # GBD 2019 Alcohol — 1.8 Million Deaths

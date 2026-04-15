@@ -5,7 +5,7 @@ title: "Six Stage Patient Flow Framework"
 aliases: ["Z-001-1031", "Patient-Flow-6", "Clinical-Workflow"]
 domain: 001
 tags: [zettel, clinical-workflow, patient-journey, metabolomics, framework, training]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0588_Metabolomics_Chief_Instructor_Framework_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

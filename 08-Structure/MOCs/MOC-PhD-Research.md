@@ -36,7 +36,7 @@ tags: [moc, phd, research, methap, metabolomics]
 
 ## Research Methods
 
-See also: [[MOC-Research-Methods]] — General methodology
+See also: [[MOC-Research]] — General methodology
 
 - [[METHAP_PhD_Data_Export_Structure_Z-002-0621]
 - [[Sample_Size_Strategies_PhD_Z-001-0930]
@@ -57,7 +57,7 @@ See also: [[MOC-Research-Methods]] — General methodology
 ## Connection to Vault
 
 - Up: [[MOCs-Index]]
-- Related: [[MOC-Research-Methods]], [[MOC-Research-Ethics]], [[MOC-Metabolomics]]
+- Related: [[MOC-Research]], [[MOC-Research-Ethics]], [[MOC-Metabolomics]]
 - Project: [[PhD-Index]]
 
 ---

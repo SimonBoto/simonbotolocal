@@ -40,7 +40,7 @@ Low-carbohydrate diet reduces:
 - [x] LitNote created: [[L-002-0170_Hashimoto_Low_Carb_Autoantibodies]]
 - [x] Zettels extracted: 3 zettels (Z-002-0644 to 0646)
 - [x] Reference note: R-002-0027
-- [x] MOC: [[MOC-Autoimmune-Disease]]
+- [x] MOC: [[MOC-Autoimmune]]
 - [x] All connections verified
 
 ---

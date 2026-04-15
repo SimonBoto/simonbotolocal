@@ -5,7 +5,7 @@ title: "Phase 3 Lipidomics Interpretation"
 aliases: ["Z-001-1038", "Phase-3", "Lipidomics", "Fatty-Acids"]
 domain: 001
 tags: [zettel, training, lipidomics, fatty-acids, ratios, membrane, inflammation]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0589_8_Week_Metabolomics_Bootcamp_Curriculum_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

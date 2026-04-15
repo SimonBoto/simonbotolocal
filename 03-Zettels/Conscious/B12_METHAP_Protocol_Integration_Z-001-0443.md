@@ -16,7 +16,7 @@ tags: []
   - protocol
   - integration
   - high-dose
-parent-moc: "[[MOC-Methylation-One-Carbon]]"
+parent-moc: "[[MOC-Methylation]]"
 status: conscious
 source-litnote: "[[LitNote_Mitochondrial_B12_Functions_L-001-0407]]"
 source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

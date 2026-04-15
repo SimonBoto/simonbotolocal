@@ -12,7 +12,7 @@ tags: [index
   - sources]
 status: complete
 parent-index: [[00-INDEX]]
-parent-moc: [[MOC-Research-Methods]]
+parent-moc: [[MOC-Research]]
 ---
 
 # 01-Literature Index

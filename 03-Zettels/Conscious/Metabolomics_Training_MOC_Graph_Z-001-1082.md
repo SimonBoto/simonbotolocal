@@ -5,7 +5,7 @@ title: "Metabolomics Training MOC Graph"
 aliases: ["Z-001-1082", "Training-MOC-Graph", "Knowledge-Graph", "MOC-Connections"]
 domain: 001
 tags: [zettel, moc, graph, connections, navigation, cGPT-0022]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0598_CGPT-0022_Training_Curriculum_Integration_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"
@@ -58,7 +58,7 @@ extraction-date: 2026-03-08
 ### Domain Clusters
 
 #### Energy Metabolism Cluster
-**MOCs:** [[MOC-Mitochondrial-Energy]], [[MOC-TCA-Cycle]]
+**MOCs:** [[MOC-Mitochondrial-Energy]], [[MOC-Krebs-Cycle]]
 
 **Zettels:**
 | Zettel | Topic | Connections |
@@ -74,7 +74,7 @@ extraction-date: 2026-03-08
 | Z-001-1058 | Carnitine Shuttle | Transport mechanism |
 
 #### Lipid Signaling Cluster
-**MOCs:** [[MOC-Fatty-Acids]], [[MOC-Lipid-Ratios]]
+**MOCs:** [[MOC-Fatty-Acids]], [[MOC-Cholesterol-Lipid]]
 
 **Zettels:**
 | Zettel | Topic |
@@ -165,7 +165,7 @@ extraction-date: 2026-03-08
 
 ## Related
 - [[CGPT_0022_Curriculum_Master_Index_Z-001-1081]] — Complete curriculum index
-- [[MOC-Metabolomics-Training]] — Primary curriculum hub
+- [[MOC-Metabolomics]] — Primary curriculum hub
 
 ---
 *Source: [[L-001-0598_CGPT-0022_Training_Curriculum_Integration_CGPT-0022]] | Inbox: [[CGPT_0022_Metabolomics_training_role_CGPT-0022]]*

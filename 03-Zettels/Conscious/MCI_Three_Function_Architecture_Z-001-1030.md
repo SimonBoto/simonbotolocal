@@ -5,7 +5,7 @@ title: "MCI Three Function Architecture"
 aliases: ["Z-001-1030", "MCI-Functions", "Three-Functions"]
 domain: 001
 tags: [zettel, training, curriculum-design, clinical-reasoning, mci, metabolomics]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0588_Metabolomics_Chief_Instructor_Framework_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

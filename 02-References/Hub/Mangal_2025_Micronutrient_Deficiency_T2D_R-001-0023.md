@@ -10,7 +10,7 @@ doi: "10.1136/bmjnph-2024-000950"
 pmid: "(pending)"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Diabetes-T2D]]"
+parent-moc: "[[MOC-Diabetes]]"
 ---
 
 # Mangal 2025 — Micronutrient Deficiency in Type 2 Diabetes

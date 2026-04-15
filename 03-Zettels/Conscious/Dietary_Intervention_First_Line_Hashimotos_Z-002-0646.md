@@ -7,7 +7,7 @@ domain: 002
 status: conscious
 tags: [zettel, hashimoto, dietary-intervention, first-line, thyroid, autoimmune, clinical-practice]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Autoimmune-Disease]]"
+parent-moc: "[[MOC-Autoimmune]]"
 source-litnote: "[[L-002-0170_Hashimoto_Low_Carb_Autoantibodies]]"
 extraction-date: 2026-04-15
 source-reference: "[[Huang_2024_Hashimoto_LowCarb_MRI_R-002-0027]]"

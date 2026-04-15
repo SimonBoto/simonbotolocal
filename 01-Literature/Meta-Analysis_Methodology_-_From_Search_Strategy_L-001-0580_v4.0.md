@@ -15,7 +15,7 @@ pmcid: N/A
 tier: GOLD
 relevance: Core systematic review and meta-analysis methodology for PhD research
 status: complete
-parent-moc: "[[MOC-Research-Methodology]]"
+parent-moc: "[[MOC-Research]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"
 source-inbox: "[[CGPT_0621_Publishing_Meta_Analysis_Guidelines_CGPT-0621]]"
@@ -197,7 +197,7 @@ Tier 1 (high impact) → Tier 2 (specialized) → Tier 3 (field-specific) → Se
 ---
 
 ## Related References
-- [[MOC-Research-Methodology]] — Parent MOC
+- [[MOC-Research]] — Parent MOC
 - [[60_Day_Learning_Framework_Z-001-0580A]] — Related zettel
 - [[L-001-0581_Multivariate_Analysis_Pitfalls_v4.0]] — Related LitNote
 

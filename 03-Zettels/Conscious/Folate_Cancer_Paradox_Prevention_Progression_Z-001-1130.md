@@ -5,7 +5,7 @@ title: Folate Cancer Paradox Prevention Progression
 aliases: [Folate, Cancer, Paradox, Prevention, Progression]
 domain: 001
 tags: [zettel, folate, cancer, paradox, prevention, progression]
-parent-moc: [[MOC-Cancer-Therapy]]
+parent-moc: [[MOC-Cancer]]
 status: conscious
 source-litnote: [[B-Vitamins_and_Cancer_Metabolism_L-001-0611_CGPT-0264]]
 extraction-date: 2026-03-08

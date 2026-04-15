@@ -5,7 +5,7 @@ title: "HMG-CoA Reductase Regulation"
 aliases: ["Z-001-0567", "HMG-CoA-Reductase", "Statin-Target", "Cholesterol-Regulation"]
 domain: 001
 tags: [zettel, hmg-coa-reductase, statins, cholesterol, regulation, srebp, ampk]
-parent-moc: "[[MOC-Cholesterol-Metabolism]]"
+parent-moc: "[[MOC-Cholesterol-Lipid]]"
 status: conscious
 source-litnote: "[[L-001-0518_Mevalonate_Pathway_Biochemistry_CGPT-0391]]"
 source-inbox: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"

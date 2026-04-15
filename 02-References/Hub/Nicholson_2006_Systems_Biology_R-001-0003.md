@@ -10,7 +10,7 @@ doi: "10.1038/msb4100095"
 pmid: "16738569"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Research-Methods]]"
+parent-moc: "[[MOC-Research]]"
 ---
 
 # Nicholson 2006 — Global Systems Biology, Personalized Medicine and Molecular Epidemiology

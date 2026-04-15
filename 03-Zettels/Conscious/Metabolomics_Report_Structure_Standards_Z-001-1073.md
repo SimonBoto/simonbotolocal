@@ -5,7 +5,7 @@ title: "Metabolomics Report Structure Standards"
 aliases: ["Z-001-1073", "Report-Structure", "Report-Format", "Patient-Report"]
 domain: 001
 tags: [zettel, report, structure, format, patient-communication, clinical-standards]
-parent-moc: "[[MOC-Metabolomics-Training]]"
+parent-moc: "[[MOC-Metabolomics]]"
 status: conscious
 source-litnote: "[[L-001-0595_Patient_Communication_Scripts_CGPT-0022]]"
 source-inbox: "[[CGPT_0022_Metabolomics_training_role_CGPT-0022]]"

@@ -16,7 +16,7 @@ pmcid: ""
 tier: GOLD
 relevance: "Critical — Epigenetic regulation, DNA methylation, METHAP gene expression effects"
 status: complete
-parent-moc: "[[MOC-Methylation-Cycle]]"
+parent-moc: "[[MOC-Methylation]]"
 parent-index: "[[01-Literature 1]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0264_Warburg_Effect_and_Cancer_CGPT-0264]]"

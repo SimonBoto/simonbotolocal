@@ -10,7 +10,7 @@ doi: "10.7326/M22-3018"
 pmid: "36745850"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Diabetes-T2D]]"
+parent-moc: "[[MOC-Diabetes]]"
 ---
 
 # Pittas 2023 — Vitamin D and Risk for Type 2 Diabetes (D2d Trial)
