@@ -10,7 +10,7 @@ doi: "(pending)"
 pmid: "(pending)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Inflammation]]"
+parent-moc: "[[MOC-Immunology]]"
 ---
 
 # Calder 2017 — Omega-3 Fatty Acids and Inflammatory Processes

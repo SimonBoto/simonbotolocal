@@ -5,7 +5,7 @@ title: "Amino Acids to Succinyl-CoA — B12 Criticality"
 aliases: ["Z-001-0495", "Succinyl-CoA", "B12", "BCAAs", "Methylmalonyl-CoA"]
 domain: 001
 tags: [zettel, succinyl-coa, b12, isoleucine, valine, methionine, threonine, glucogenic]
-parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
+parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]]"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

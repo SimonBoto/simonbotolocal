@@ -5,7 +5,7 @@ title: "IRE-IRP System — Molecular Mechanism"
 aliases: ["Z-001-1207", "IRE", "IRP", "Iron-Responsive-Element", "Molecular-Mechanism"]
 domain: 001
 tags: [zettel, ire, irp, iron-sensing, rna-structure, molecular-mechanism]
-parent-moc: "[[MOC-Iron-Metabolism]]"
+parent-moc: "[[MOC-Metabolic-Pathways]]"
 status: conscious
 source-litnote: "[[L-001-0631_Aconitase_Iron_Metabolism_IRP1_CGPT-0586]]"
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"

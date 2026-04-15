@@ -11,7 +11,7 @@ tags: []
   - kidney
   - albumin
   - biomarker
-parent-moc: "[[MOC-Kidney-Metabolism]]"
+parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[CKD_Nutritional_Assessment_-_Albumin_vs_Intake-_L-001-0575_v4.0]]"
 extraction-date: 2026-04-15
 status: conscious

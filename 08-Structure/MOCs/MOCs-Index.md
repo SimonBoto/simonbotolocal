@@ -42,13 +42,13 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 | **001-MITO**     | [[MOC-Mitochondrial-Function]]        | 12+     | Energy metabolism, OXPHOS, TCA cycle       |
 | **001-VM**       | [[MOC-Vitamin-Mineral-Axis]]          | 8+      | Micronutrients, cofactors, supplementation |
 | **002**          | [[MOC-Research-Ethics]]               | 21      | IRB, study design, ethics                  |
-| **003**          | [[MOC-Iron-Metabolism]]               | 3       | Iron studies, ferritin                     |
+| **003**          | [[MOC-Metabolic-Pathways]]               | 3       | Iron studies, ferritin                     |
 | **004**          | [[MOC-Methylation]]        | 4       | B12, folate, homocysteine                  |
 | **005**          | [[MOC-Thyroid]]              | 2       | TSH, thyroid hormones                      |
 | **006**          | [[MOC-Lipid-Metabolism]]              | 2       | Cholesterol, fatty acids                   |
-| **007**          | [[MOC-Inflammation]]                  | 1       | CRP, cytokines                             |
-| **008**          | [[MOC-Liver-Function]]                | 1       | Liver enzymes                              |
-| **009**          | [[MOC-Kidney-Metabolism]]             | 1       | eGFR, creatinine                           |
+| **007**          | [[MOC-Immunology]]                  | 1       | CRP, cytokines                             |
+| **008**          | [[MOC-Metabolic-Syndrome]]                | 1       | Liver enzymes                              |
+| **009**          | [[MOC-Metabolic-Syndrome]]             | 1       | eGFR, creatinine                           |
 | **Methodology**  | [[MOC-Research]]          | 1       | Experimental design, methods               |
 | **Genetics**     | [[MOC-Genetic-Variation]]             | 1       | Mutations, polymorphisms                   |
 | **Cell Biology** | [[MOC-Cellular-Compartmentalization]] | 1       | Organelles, transport                      |
@@ -103,16 +103,16 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 ## 📋 All MOCs (63 Total)
 
 ### Metabolism & Biochemistry
-- [[MOC-Amino-Acid-Metabolism]] — Amino acid pathways
+- [[MOC-Nitrogen-Metabolism]] — Amino acid pathways
 - [[MOC-Antioxidant-Defense]] — Oxidative stress, antioxidants
 - [[MOC-Evolutionary-Biochemistry]] — Ancient pathways
-- [[MOC-Gluconeogenesis]] — Glucose synthesis
+- [[MOC-Glycolysis-PPP]] — Glucose synthesis
 - [[MOC-Glycolysis-PPP]] — Glycolysis, pentose phosphate
-- [[MOC-Ketogenesis]] — Ketone body metabolism
+- [[MOC-Lipid-Metabolism]] — Ketone body metabolism
 - [[MOC-Krebs-Cycle]] — TCA cycle
 - [[MOC-Nitrogen-Metabolism]] — Nitrogen balance
-- [[MOC-Nucleotide-Metabolism]] — Purine, pyrimidine
-- [[MOC-Urea-Cycle]] — Ammonia detox
+- [[MOC-Metabolic-Pathways]] — Purine, pyrimidine
+- [[MOC-Nitrogen-Metabolism]] — Ammonia detox
 
 ### Clinical & Disease
 - [[MOC-Autoimmune]] — Autoimmune mechanisms
@@ -127,11 +127,11 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 - [[MOC-Autoimmune]] — Stress-immune axis
 
 ### Organs & Systems
-- [[MOC-Inflammation]] — Inflammatory markers
-- [[MOC-Iron-Metabolism]] — Iron homeostasis
-- [[MOC-Kidney-Metabolism]] — Renal function
+- [[MOC-Immunology]] — Inflammatory markers
+- [[MOC-Metabolic-Pathways]] — Iron homeostasis
+- [[MOC-Metabolic-Syndrome]] — Renal function
 - [[MOC-Lipid-Metabolism]] — Fatty acids, lipids
-- [[MOC-Liver-Function]] — Hepatic markers
+- [[MOC-Metabolic-Syndrome]] — Hepatic markers
 - [[MOC-Methylation]] — B12, folate, methylation
 - [[MOC-Mitochondrial-Function]] — ETC, OXPHOS
 - [[MOC-Thyroid]] — Thyroid hormones

@@ -5,7 +5,7 @@ title: "Alpha-Keto Acids as Metabolic Intermediates"
 aliases: ["Z-001-0500", "Alpha-Keto-Acids", "Transamination", "Carbon-Skeletons"]
 domain: 001
 tags: [zettel, alpha-keto-acids, transamination, pyruvate, oxaloacetate, alpha-ketoglutarate]
-parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
+parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046B_Amino_Acid_Networks_CGPT-0445]]"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

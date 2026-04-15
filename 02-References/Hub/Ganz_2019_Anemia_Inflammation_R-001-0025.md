@@ -10,7 +10,7 @@ doi: "(pending)"
 pmid: "(pending)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Inflammation]]"
+parent-moc: "[[MOC-Immunology]]"
 ---
 
 # Ganz 2019 — Anemia of Inflammation

@@ -5,7 +5,7 @@ title: "Gluconeogenesis from Oxaloacetate"
 aliases: ["Z-001-0489", "Gluconeogenesis", "OAA-to-PEP", "PEPCK"]
 domain: 001
 tags: [zettel, gluconeogenesis, oxaloacetate, pepck, pep, pyruvate-carboxylase]
-parent-moc: "[[MOC-Gluconeogenesis]]"
+parent-moc: "[[MOC-Glycolysis-PPP]]"
 status: conscious
 source-litnote: "[[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]]"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

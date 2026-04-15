@@ -36,7 +36,7 @@ last-updated: 2026-04-07
 
 ### Minerals
 - [[MOC-Minerals-Trace]] — Trace minerals
-- [[MOC-Iron-Metabolism]] — Iron specifically
+- [[MOC-Metabolic-Pathways]] — Iron specifically
 
 ### Gut & Microbiome
 - Gut health connections

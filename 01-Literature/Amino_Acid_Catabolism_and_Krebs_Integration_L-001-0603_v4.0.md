@@ -16,7 +16,7 @@ pmcid: N/A
 tier: BRONZE
 relevance: High — Glycogenic/ketogenic amino acids, Krebs entry points, alpha-keto acids, transamination, cofactors
 status: complete
-parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
+parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: 2026-03-08
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

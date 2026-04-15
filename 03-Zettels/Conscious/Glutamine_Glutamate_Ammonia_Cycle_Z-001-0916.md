@@ -5,7 +5,7 @@ title: "Glutamine-Glutamate-Ammonia Cycle"
 aliases: ["Z-001-0916", "Glutamine", "Glutamate", "Ammonia", "Nitrogen-Transport"]
 domain: 001
 tags: [zettel, glutamine, glutamate, ammonia, nitrogen-transport, detoxification, enterocytes]
-parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
+parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046B_Amino_Acid_Networks_CGPT-0445]]"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

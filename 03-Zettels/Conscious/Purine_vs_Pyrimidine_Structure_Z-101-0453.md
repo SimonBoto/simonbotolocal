@@ -5,7 +5,7 @@ title: "Purine vs Pyrimidine Structure and Chemistry"
 aliases: ["Z-101-0453", "Purine-Pyrimidine", "Nucleobase-Chemistry", "Base-Pairing"]
 domain: 101
 tags: [zettel, nucleobases, purines, pyrimidines, biochemistry, structure, dna, rna]
-parent-moc: "[[MOC-Nucleotide-Metabolism]]"
+parent-moc: "[[MOC-Metabolic-Pathways]]"
 status: conscious
 source-litnote: "[[L-101-0045A_Adenosine_Adenine_Biochemistry_CGPT-0445]]"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

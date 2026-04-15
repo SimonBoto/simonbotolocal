@@ -5,7 +5,7 @@ title: "Iron Homeostasis — Post-Transcriptional Control"
 aliases: ["Z-001-1206", "Iron-Homeostasis", "Post-Transcriptional", "IRP-IRE", "Iron-Regulation"]
 domain: 001
 tags: [zettel, iron-homeostasis, irp, ire, post-transcriptional, gene-regulation]
-parent-moc: "[[MOC-Iron-Metabolism]]"
+parent-moc: "[[MOC-Metabolic-Pathways]]"
 status: conscious
 source-litnote: "[[L-001-0631_Aconitase_Iron_Metabolism_IRP1_CGPT-0586]]"
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"

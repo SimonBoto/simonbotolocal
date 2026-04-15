@@ -5,7 +5,7 @@ title: "Amino Acids to α-Ketoglutarate — The Glutamate Hub"
 aliases: ["Z-001-0494", "Alpha-Ketoglutarate", "Glutamate", "Glutamate-Hub", "B6"]
 domain: 001
 tags: [zettel, alpha-ketoglutarate, glutamate, arginine, proline, histidine, b6, glucogenic]
-parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
+parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]]"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

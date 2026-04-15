@@ -28,7 +28,7 @@ tags:
   - cgpt-0370
 source: "[[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]"
 status: complete
-parent-moc: "[[MOC-Kidney-Metabolism]]"
+parent-moc: "[[MOC-Metabolic-Syndrome]]"
 extraction-date: 2026-03-07
 source-inbox: "[[00-Inbox]]"
 source-litnote: "[[00-Inbox]]"

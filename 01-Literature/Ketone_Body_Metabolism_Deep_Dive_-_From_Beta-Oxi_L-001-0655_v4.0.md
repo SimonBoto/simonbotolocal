@@ -19,7 +19,7 @@ pmcid: ""
 tier: GOLD
 relevance: "Critical — Alternative fuel metabolism; therapeutic ketosis applications; brain fuel during fasting"
 status: complete
-parent-moc: "[[MOC-Ketogenesis]]"
+parent-moc: "[[MOC-Lipid-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-11"
 source-inbox: "[[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]"
@@ -142,7 +142,7 @@ Highlights the metabolic efficiency advantage of ketones for tissues with high m
 
 ## Structural Links
 
-- **Parent MOC:** [[MOC-Ketogenesis]]
+- **Parent MOC:** [[MOC-Lipid-Metabolism]]
 - **Source Anchor:** [[CGPT_0647_ATP_Pathways_Overview_CGPT-0647]]
 - **Previous in series:** [[L-001-0654_Hyperinsulinemia_Metabolic_Inflexibility_CGPT-0647]] — How insulin blocks ketogenesis
 - **Next in series:** [[L-001-0656_Dicarboxylic_Acids_Beta_Oxidation_CGPT-0647]] — When beta-oxidation fails

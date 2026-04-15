@@ -12,7 +12,7 @@ tier: SILVER
 relevance: High — Ascorbate metabolism, oxalate measurement confounders, PhD analytical considerations
 status: complete
 reviewed_by: "FORG"
-parent-moc: [[MOC-Kidney-Metabolism]]
+parent-moc: [[MOC-Metabolic-Syndrome]]
 tags:
   - lit-note
   - chatgpt

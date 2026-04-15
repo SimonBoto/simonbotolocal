@@ -13,7 +13,7 @@ tags: []
   - gluconeogenesis
   - fasting
   - amino-acids
-parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
+parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[LitNote_Amino_Acid_Catabolism_Krebs_L-001-0603]]"
 source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

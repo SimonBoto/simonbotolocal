@@ -5,7 +5,7 @@ title: "Aspartate — Simple Structure, Central Role"
 aliases: ["Z-001-0918", "Aspartate", "Simple-Structure", "Evolution", "Urea-Cycle", "Krebs"]
 domain: 001
 tags: [zettel, aspartate, simple-structure, evolution, urea-cycle, krebs, oxaloacetate]
-parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
+parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046B_Amino_Acid_Networks_CGPT-0445]]"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

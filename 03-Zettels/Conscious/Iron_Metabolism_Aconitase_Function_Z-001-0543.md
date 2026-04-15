@@ -5,7 +5,7 @@ title: Iron Metabolism and Aconitase Function
 aliases: [Iron-Metabolism, Aconitase, Iron-Deficiency, Fe-S-Cluster]
 domain: 001
 tags: [zettel, iron-metabolism, aconitase, iron-deficiency, fe-s-cluster, ferritin]
-parent-moc: [[MOC-Iron-Metabolism]]
+parent-moc: [[MOC-Metabolic-Pathways]]
 status: conscious
 source-litnote: [[Aconitase_Enzyme_Structure,_Mechanism,_and_Iron-Sulfur_L-001-0508_CGPT-0393]]
 extraction-date: 2026-03-01

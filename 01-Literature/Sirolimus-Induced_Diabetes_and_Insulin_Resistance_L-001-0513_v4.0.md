@@ -17,7 +17,7 @@ pmcid: "N/A"
 tier: BRONZE
 relevance: "High — Drug-induced diabetes mechanisms relevant to transplant patients"
 status: complete
-parent-moc: "[[MOC-mTOR-Pathway]]"
+parent-moc: "[[MOC-Endocrinology]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-02"
 source-inbox: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]"
@@ -197,7 +197,7 @@ dysfunction)    activation)
 
 ## Related References
 - [[LitNote_Sirolimus_mTORC1_Mitochondrial_Toxicity_L-001-0512]] — Mitochondrial mechanisms
-- [[MOC-mTOR-Pathway]] — Parent MOC
+- [[MOC-Endocrinology]] — Parent MOC
 - [[MOC-Insulin-Signaling]] — Metabolic context
 - [[Patient_Management_Sirolimus_NODAT]] — Patient management
 

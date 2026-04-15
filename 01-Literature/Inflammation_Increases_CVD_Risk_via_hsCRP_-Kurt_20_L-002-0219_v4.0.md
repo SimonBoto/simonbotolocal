@@ -14,7 +14,7 @@ pmid: "41378999"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Inflammation]]"
+parent-moc: "[[MOC-Immunology]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
 zettel-count: 3
@@ -73,7 +73,7 @@ tags:
 ---
 
 ## Connections
-- **MOC:** [[MOC-Inflammation]] — Thematic domain
+- **MOC:** [[MOC-Immunology]] — Thematic domain
 - **INBOX:** [[INBOX-Article-15-Inflammation-CRP]] — Article source
 - **Reference:** [[Kurt_2025_CRP_CVD_Risk_R-002-0025]] — Primary source
 - **Index:** [[01-Literature 1]] — Container

@@ -5,7 +5,7 @@ title: "IRP1 — The Iron-Sensing Molecular Switch"
 aliases: ["Z-001-1205", "IRP1", "Iron-Regulatory-Protein", "Iron-Sensing", "Molecular-Switch"]
 domain: 001
 tags: [zettel, irp1, iron-regulatory-protein, iron-sensing, post-transcriptional, aconitase]
-parent-moc: "[[MOC-Iron-Metabolism]]"
+parent-moc: "[[MOC-Metabolic-Pathways]]"
 status: conscious
 source-litnote: "[[L-001-0631_Aconitase_Iron_Metabolism_IRP1_CGPT-0586]]"
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"

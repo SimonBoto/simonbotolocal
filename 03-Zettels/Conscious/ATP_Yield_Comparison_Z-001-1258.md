@@ -4,7 +4,7 @@ type: zettel
 title: ATP Yield Comparison — Glucose vs BHB vs Fatty Acids
 domain: 001
 tags: [zettel, ATP-yield, energy-metabolism, glucose, BHB, fatty-acids, efficiency]
-parent-moc: [[MOC-Ketogenesis]]
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
 source-litnote: [[L-001-0655_Ketone_Body_Metabolism_Deep_Dive_CGPT-0647]]
 extraction-date: 2026-03-11

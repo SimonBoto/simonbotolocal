@@ -5,7 +5,7 @@ title: Iron-Sulfur Cluster Biochemistry
 aliases: [Fe-S-Cluster, Iron-Sulfur, 4Fe-4S, Cubane-Structure]
 domain: 001
 tags: [zettel, fe-s-cluster, iron-sulfur, 4fe-4s, cubane, biochemistry]
-parent-moc: [[MOC-Iron-Metabolism]]
+parent-moc: [[MOC-Metabolic-Pathways]]
 status: conscious
 source-litnote: [[Aconitase_Enzyme_Structure,_Mechanism,_and_Iron-Sulfur_L-001-0508_CGPT-0393]]
 extraction-date: 2026-03-01

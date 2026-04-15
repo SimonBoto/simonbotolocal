@@ -5,7 +5,7 @@ title: "Glucogenic vs Ketogenic Classification of Amino Acids"
 aliases: ["Z-001-0499", "Glucogenic", "Ketogenic", "Classification", "20-Amino-Acids"]
 domain: 001
 tags: [zettel, glucogenic, ketogenic, classification, amino-acids, metabolism]
-parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
+parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]]"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

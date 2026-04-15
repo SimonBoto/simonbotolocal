@@ -46,4 +46,4 @@ topic: inflammation, crp, hsCRP, cardiovascular-risk, biomarkers, prevention
 - [x] LitNote: [[L-002-0219_Inflammation_CVD_Risk]]
 - [x] Zettels: 3 zettels (Z-002-0795 to Z-002-0797)
 - [x] Reference note: [[Kurt_2025_CRP_CVD_Risk_R-002-0025]]
-- [x] MOC: [[MOC-Inflammation]]
+- [x] MOC: [[MOC-Immunology]]

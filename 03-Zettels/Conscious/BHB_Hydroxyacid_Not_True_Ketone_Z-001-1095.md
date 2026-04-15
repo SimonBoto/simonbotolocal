@@ -14,7 +14,7 @@ tags: []
   - ketone-body
   - structure
   - signaling
-parent-moc: "[[MOC-Ketogenesis]]"
+parent-moc: "[[MOC-Lipid-Metabolism]]"
 status: conscious
 source-litnote: "[[LitNote_Ketone_Body_Biochemistry_Clinical_L-001-0602]]"
 source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

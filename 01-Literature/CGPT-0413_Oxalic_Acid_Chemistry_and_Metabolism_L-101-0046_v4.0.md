@@ -12,7 +12,7 @@ tier: SILVER
 relevance: High — PhD adipic acid domain, oxalate metabolism pathways, biomarker chemistry
 status: complete
 reviewed_by: "FORG"
-parent-moc: [[MOC-Kidney-Metabolism]]
+parent-moc: [[MOC-Metabolic-Syndrome]]
 tags:
   - lit-note
   - chatgpt

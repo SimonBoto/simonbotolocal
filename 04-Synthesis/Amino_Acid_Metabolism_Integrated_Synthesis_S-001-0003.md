@@ -230,7 +230,7 @@ AMINO ACID INPUT
 
 | MOC | Connection |
 |-----|------------|
-| [[MOC-Amino-Acid-Metabolism]] | Parent MOC — comprehensive coverage |
+| [[MOC-Nitrogen-Metabolism]] | Parent MOC — comprehensive coverage |
 | [[MOC-Insulin-Signaling]] | BCAA-IR connection, metabolic flexibility |
 | [[MOC-Metabolic-Syndrome]] | Amino acid profiles in disease |
 | [[MOC-Mitochondrial-Function]] | Krebs cycle integration, energy metabolism |

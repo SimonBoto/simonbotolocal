@@ -110,7 +110,7 @@ Take 2 capsules daily or as directed by your physician.
 
 ## Connection to Vault
 
-- Up: [[MOC-Inflammation]]
+- Up: [[MOC-Immunology]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---

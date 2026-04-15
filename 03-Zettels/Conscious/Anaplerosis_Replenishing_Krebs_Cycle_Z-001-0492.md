@@ -5,7 +5,7 @@ title: "Anaplerosis — Replenishing Krebs Cycle Intermediates"
 aliases: ["Z-001-0492", "Anaplerosis", "Krebs-Cycle", "Pyruvate-Carboxylase", "Biotin"]
 domain: 001
 tags: [zettel, anaplerosis, krebs-cycle, pyruvate-carboxylase, biotin, b7, oaa]
-parent-moc: "[[MOC-Gluconeogenesis]]"
+parent-moc: "[[MOC-Glycolysis-PPP]]"
 status: conscious
 source-litnote: "[[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]]"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

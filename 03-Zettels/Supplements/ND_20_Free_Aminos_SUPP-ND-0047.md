@@ -135,7 +135,7 @@ Take 2 capsules daily after meal or as directed by your physician.
 
 ## Connection to Vault
 
-- Up: [[MOC-Inflammation]]
+- Up: [[MOC-Immunology]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---

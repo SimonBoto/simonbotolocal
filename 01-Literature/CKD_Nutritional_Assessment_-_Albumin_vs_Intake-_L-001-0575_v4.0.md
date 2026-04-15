@@ -15,7 +15,7 @@ pmcid: N/A
 tier: GOLD
 relevance: Practical — clinical assessment framework for CKD nutrition
 status: complete
-parent-moc: "[[MOC-Kidney-Metabolism]]"
+parent-moc: "[[MOC-Metabolic-Syndrome]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]"
@@ -195,7 +195,7 @@ CKD stage adjustments for A1c targets; Calcium binding for oxalate reduction
 ---
 
 ## Related References
-- [[MOC-Kidney-Metabolism]] — Parent MOC
+- [[MOC-Metabolic-Syndrome]] — Parent MOC
 - [[Albumin_Protein_Dilemma_Z-001-0575A]] — Related zettel
 - [[L-001-0574_Carb_Context_Protein_CKD_CGPT-0370]] — Related LitNote
 

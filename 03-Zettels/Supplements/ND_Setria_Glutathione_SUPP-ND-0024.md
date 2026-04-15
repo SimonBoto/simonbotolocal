@@ -111,7 +111,7 @@ Take 1-2 capsules daily with water or as directed by your physician. Drink plent
 
 ## Connection to Vault
 
-- Up: [[MOC-Inflammation]]
+- Up: [[MOC-Immunology]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---

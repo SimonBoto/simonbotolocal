@@ -16,7 +16,7 @@ pmcid: "N/A"
 tier: BRONZE
 relevance: "High — Drug toxicity mechanisms relevant to metabolic interventions"
 status: complete
-parent-moc: "[[MOC-mTOR-Pathway]]"
+parent-moc: "[[MOC-Endocrinology]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-02"
 source-inbox: "[[CGPT_0189_Sirolimus_Mitochondrial_Toxicity_Mechanisms_CGPT-0189]]"
@@ -192,7 +192,7 @@ Sirolimus disrupts this balance by suppressing biogenesis while promoting cleara
 
 ## Related References
 - [[LitNote_Sirolimus_Diabetes_NODAT_L-001-0513]] — Metabolic side effects
-- [[MOC-mTOR-Pathway]] — Parent MOC
+- [[MOC-Endocrinology]] — Parent MOC
 - [[LitNote_Sirolimus_Toxicity_Mechanisms_L-001-0512]] — Toxicity mechanisms
 - [[Patient_Monitoring_Sirolimus_MITOP]] — Patient monitoring
 

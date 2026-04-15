@@ -178,7 +178,7 @@ This is critical for understanding branched-chain amino acid metabolism.
 
 ## Related References
 - "[[L-001-0046A]]" — Amino Acids Entering Krebs Cycle (complementary table)
-- "[[MOC-Amino-Acid-Metabolism]]" — Parent MOC for amino acid pathways
+- "[[MOC-Nitrogen-Metabolism]]" — Parent MOC for amino acid pathways
 - "[[Amino_Acids_Succinyl_CoA_B12_Z-001-0495]]" — Amino Acids to Succinyl-CoA (B12 criticality)
 
 

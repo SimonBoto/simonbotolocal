@@ -5,7 +5,7 @@ title: "BHB as Energy Substrate for Brain and Heart"
 aliases: ["Z-001-0484", "BHB-Energy", "Brain-Fuel", "Heart-Fuel", "Ketones"]
 domain: 001
 tags: [zettel, bhb, brain, heart, energy, ketones, neuroprotection, mct]
-parent-moc: "[[MOC-Ketogenesis]]"
+parent-moc: "[[MOC-Lipid-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]]"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

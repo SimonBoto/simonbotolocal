@@ -4,7 +4,7 @@ type: zettel
 title: Ketolysis and SCOT Mechanism — Extrahepatic Ketone Utilization
 domain: 001
 tags: [zettel, ketolysis, SCOT, ketone-utilization, BDH1, succinyl-CoA, extrahepatic]
-parent-moc: [[MOC-Ketogenesis]]
+parent-moc: [[MOC-Lipid-Metabolism]]
 status: conscious
 source-litnote: [[L-001-0655_Ketone_Body_Metabolism_Deep_Dive_CGPT-0647]]
 extraction-date: 2026-03-11

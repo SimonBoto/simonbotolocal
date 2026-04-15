@@ -10,7 +10,7 @@ doi: "10.1016/j.metabol.2014.11.006"
 pmid: "25560728"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Inflammation]]"
+parent-moc: "[[MOC-Immunology]]"
 ---
 
 # Gallagher & LeRoith 2015 — Inflammation and Insulin Resistance in Rheumatoid Arthritis

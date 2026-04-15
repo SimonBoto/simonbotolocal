@@ -133,7 +133,7 @@ Compounds that selectively clear **senescent cells** ("zombie cells"):
 
 ## Connection to Vault
 
-- Up: [[MOC-Inflammation]]
+- Up: [[MOC-Immunology]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---

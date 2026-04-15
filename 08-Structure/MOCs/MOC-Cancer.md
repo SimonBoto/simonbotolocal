@@ -90,7 +90,7 @@ last-updated: 2026-04-05
 |-----|------------|
 | `[[MOC-Pharmacology]]` | Drug mechanisms, dosing |
 | `[[MOC-Platelet-Biology]]` | Platelet function, TXA2 |
-| `[[MOC-Inflammation]]` | Chronic inflammation, CRP |
+| `[[MOC-Immunology]]` | Chronic inflammation, CRP |
 | `[[MOC-Metabolic-Syndrome]]` | Metabolic drivers of cancer |
 
 ---
@@ -161,6 +161,40 @@ updated: 2026-04-15
 
 ## Overview
 Map of content for Cancer Therapy concepts, mechanisms, and clinical applications.
+
+## Key Zettels
+<!-- Auto-populated from backlinks -->
+
+## Related MOCs
+- [[MOC-Root]]
+
+## Status
+- [ ] Initial population
+- [ ] Cross-links added
+- [ ] RON review pending
+
+---
+*Created: 2026-04-15 | Auto-generated MOC*
+---
+uid: 2026041520293555
+type: moc
+title: "p53 Pathway"
+aliases:
+  - MOC-p53-Pathway
+domain: 999
+tags:
+  - moc
+  - map-of-content
+parent-moc: "[[MOC-Root]]"
+status: active
+created: 2026-04-15
+updated: 2026-04-15
+---
+
+# p53 Pathway
+
+## Overview
+Map of content for p53 Pathway concepts, mechanisms, and clinical applications.
 
 ## Key Zettels
 <!-- Auto-populated from backlinks -->

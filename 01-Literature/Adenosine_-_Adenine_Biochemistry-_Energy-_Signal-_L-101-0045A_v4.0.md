@@ -16,7 +16,7 @@ pmcid: N/A
 tier: SILVER
 relevance: High — ATP as energy currency, adenosine signaling, purine metabolism, SCID, pharmacometabolomics
 status: complete
-parent-moc: "[[MOC-Nucleotide-Metabolism]]"
+parent-moc: "[[MOC-Metabolic-Pathways]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: 2026-03-04
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

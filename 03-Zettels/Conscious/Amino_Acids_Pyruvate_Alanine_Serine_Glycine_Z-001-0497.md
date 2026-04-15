@@ -5,7 +5,7 @@ title: "Amino Acids to Pyruvate — Alanine, Serine, Glycine"
 aliases: ["Z-001-0497", "Pyruvate", "Alanine", "Serine", "Glycine", "Folate", "B6"]
 domain: 001
 tags: [zettel, pyruvate, alanine, serine, glycine, folate, glucose-alanine-cycle, glucogenic]
-parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
+parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]]"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

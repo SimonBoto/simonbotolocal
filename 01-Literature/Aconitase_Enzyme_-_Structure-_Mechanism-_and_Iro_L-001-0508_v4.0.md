@@ -18,7 +18,7 @@ pmcid: ""
 tier: GOLD
 relevance: "Critical — Understanding the enzymatic bottleneck in the Krebs cycle and its dependency on iron-sulfur clusters"
 status: complete
-parent-moc: "[[MOC-Iron-Metabolism]]"
+parent-moc: "[[MOC-Metabolic-Pathways]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0393_Mitochondrial_Health_Intervention_Recommendations_CGPT-0393]]"
@@ -170,7 +170,7 @@ Fe²⁺ + H₂O₂ → Fe³⁺ + OH• + OH⁻ (Fenton chemistry)
 ---
 
 ## Related References
-- [[MOC-Iron-Metabolism]] — Parent MOC
+- [[MOC-Metabolic-Pathways]] — Parent MOC
 - [[MOC-Mitochondrial-Function]] — Mitochondrial context
 - [[L-001-0507_Organic_Acid_Krebs_Cycle_CGPT-0393]] — Related Krebs cycle markers
 

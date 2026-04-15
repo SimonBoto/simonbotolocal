@@ -5,7 +5,7 @@ title: "G6PD Deficiency and Evolutionary Trade-offs"
 aliases: ["Z-001-0461", "G6PD", "Deficiency", "Malaria", "Hemolysis", "Evolution"]
 domain: 001
 tags: [zettel, g6pd, deficiency, hemolysis, malaria, evolution, enzyme-deficiency, ppp]
-parent-moc: "[[MOC-Hematology]]"
+parent-moc: "[[MOC-Metabolic-Pathways]]"
 status: conscious
 source-litnote: "[[L-001-0045C_Ribose_PPP_NADPH_CGPT-0445]]"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

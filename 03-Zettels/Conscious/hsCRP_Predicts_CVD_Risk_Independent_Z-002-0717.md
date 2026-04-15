@@ -7,7 +7,7 @@ domain: 002
 status: conscious
 tags: [zettel, hscrp, inflammation, cvd, predictor, biomarker]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Inflammation]]"
+parent-moc: "[[MOC-Immunology]]"
 source-litnote: "[[L-002-0194_Inflammation_CRP_CVD_Risk]]"
 extraction-date: 2026-04-15
 related: []

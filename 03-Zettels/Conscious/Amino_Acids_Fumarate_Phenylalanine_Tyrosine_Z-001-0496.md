@@ -5,7 +5,7 @@ title: "Amino Acids to Fumarate — Phenylalanine and Tyrosine"
 aliases: ["Z-001-0496", "Fumarate", "Phenylalanine", "Tyrosine", "PKU", "BH4"]
 domain: 001
 tags: [zettel, fumarate, phenylalanine, tyrosine, pku, phenylalanine-hydroxylase, glucogenic, ketogenic]
-parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
+parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]]"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

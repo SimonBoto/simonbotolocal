@@ -5,7 +5,7 @@ title: "Amino Acids to Oxaloacetate — Aspartate and Asparagine"
 aliases: ["Z-001-0493", "Oxaloacetate", "Aspartate", "Asparagine", "B6"]
 domain: 001
 tags: [zettel, aspartate, asparagine, oxaloacetate, transaminase, b6, glucogenic]
-parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
+parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]]"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

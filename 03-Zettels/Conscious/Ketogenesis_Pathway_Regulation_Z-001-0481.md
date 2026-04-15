@@ -17,7 +17,7 @@ tags: []
   - liver
   - fasting
   - ketogenic-diet
-parent-moc: "[[MOC-Ketogenesis]]"
+parent-moc: "[[MOC-Lipid-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0045G_Ketogenesis_BHB_Signaling_CGPT-0445]]"
 source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

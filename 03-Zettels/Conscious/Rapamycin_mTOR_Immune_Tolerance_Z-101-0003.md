@@ -6,7 +6,7 @@ aliases: [Z-101-0003, Rapamycin-mTOR, Immune-Tolerance]
 domain: 101
 domain-name: Pharmacometabolomics
 tags: [zettel, rapamycin, mTOR, immune-tolerance, autoimmunity, SLE]
-parent-moc: [[MOC-Inflammation]]
+parent-moc: [[MOC-Immunology]]
 source: [[NKUA_2024_Pharmacometabolomics_Precision_Medicine_3175_DE4_L-101-0001]
 confidence: high
 created: 2026-02-24
@@ -105,7 +105,7 @@ Rapamycin (sirolimus) induces immune tolerance by inhibiting mTOR, a central reg
 
 ## Connection to Vault
 
-- Up: [[MOC-Inflammation]]
+- Up: [[MOC-Immunology]]
 - Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---

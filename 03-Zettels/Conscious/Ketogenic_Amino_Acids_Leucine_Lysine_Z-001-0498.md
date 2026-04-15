@@ -5,7 +5,7 @@ title: "Ketogenic Amino Acids — Leucine and Lysine"
 aliases: ["Z-001-0498", "Ketogenic", "Leucine", "Lysine", "HMG-CoA", "Acetyl-CoA"]
 domain: 001
 tags: [zettel, ketogenic, leucine, lysine, hmg-coa, pure-ketogenic, mtor]
-parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
+parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0046A_Amino_Acids_Krebs_Entry_CGPT-0445]]"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

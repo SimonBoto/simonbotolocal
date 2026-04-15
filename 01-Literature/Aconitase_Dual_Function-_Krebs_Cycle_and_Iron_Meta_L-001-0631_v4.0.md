@@ -23,7 +23,7 @@ tags: [lit-note, aconitase, irp1, iron-metabolism, krebs-cycle, fe-s-cluster, cG
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 source-litnote: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: complete
-parent-moc: "[[MOC-Iron-Metabolism]]"
+parent-moc: "[[MOC-Metabolic-Pathways]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 zettel-count: 4
@@ -118,7 +118,7 @@ Citrate ⇌ cis-Aconitate ⇌ Isocitrate
 ---
 
 ## Related References
-- [[MOC-Iron-Metabolism]] — Parent MOC
+- [[MOC-Metabolic-Pathways]] — Parent MOC
 - [[MOC-Mitochondrial-Function]] — Energy metabolism
 - [[MOC-Antioxidant-Defense]] — Oxidative stress
 

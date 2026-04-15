@@ -7,7 +7,7 @@ domain: 002
 status: conscious
 tags: [zettel, chronic-inflammation, root-causes, UPF, smoking, alcohol, deficiencies]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Inflammation]]"
+parent-moc: "[[MOC-Immunology]]"
 source-litnote: "[[L-002-0219_Inflammation_CVD_Risk]]"
 extraction-date: 2026-04-15
 source-reference: "[[Kurt_2025_CRP_CVD_Risk_R-002-0025]]"

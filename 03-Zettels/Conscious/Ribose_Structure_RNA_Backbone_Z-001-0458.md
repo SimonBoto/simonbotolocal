@@ -16,7 +16,7 @@ tags: []
   - nucleotides
   - atp
   - structure
-parent-moc: "[[MOC-Nucleotide-Metabolism]]"
+parent-moc: "[[MOC-Metabolic-Pathways]]"
 status: conscious
 source-litnote: "[[L-001-0045C_Ribose_PPP_NADPH_CGPT-0445]]"
 source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

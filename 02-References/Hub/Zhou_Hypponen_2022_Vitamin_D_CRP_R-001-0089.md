@@ -10,7 +10,7 @@ doi: "(pending)"
 pmid: "(pending)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Inflammation]]"
+parent-moc: "[[MOC-Immunology]]"
 ---
 
 # Zhou & Hyppönen 2022 — Vitamin D Deficiency and CRP (Bidirectional MR)

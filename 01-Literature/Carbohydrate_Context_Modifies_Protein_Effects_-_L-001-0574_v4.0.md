@@ -15,7 +15,7 @@ pmcid: N/A
 tier: GOLD
 relevance: Critical — metabolic context determines protein effects
 status: complete
-parent-moc: "[[MOC-Kidney-Metabolism]]"
+parent-moc: "[[MOC-Metabolic-Syndrome]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-10"
 source-inbox: "[[CGPT_0370_Protein_and_Kidney_Disease_CGPT-0370]]"
@@ -191,7 +191,7 @@ Clinical decisions based on carb context → Different protein recommendations
 ---
 
 ## Related References
-- [[MOC-Kidney-Metabolism]] — Parent MOC
+- [[MOC-Metabolic-Syndrome]] — Parent MOC
 - [[Carb_Context_Problem_Z-001-0574A]] — Related zettel
 - [[L-001-0575_Protein_Acid_Load_CGPT-0370]] — Related LitNote
 

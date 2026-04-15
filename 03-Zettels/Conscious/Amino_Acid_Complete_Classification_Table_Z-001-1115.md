@@ -14,7 +14,7 @@ tags: []
   - reference
   - table
   - essential
-parent-moc: "[[MOC-Amino-Acid-Metabolism]]"
+parent-moc: "[[MOC-Nitrogen-Metabolism]]"
 status: conscious
 source-litnote: "[[LitNote_Comparative_Biochemistry_Tables_L-001-0607]]"
 source-inbox: "[[00-Inbox/Processed/CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"

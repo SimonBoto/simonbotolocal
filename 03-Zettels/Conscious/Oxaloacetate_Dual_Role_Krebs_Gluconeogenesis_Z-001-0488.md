@@ -5,7 +5,7 @@ title: "Oxaloacetate Dual Role — Krebs Cycle and Gluconeogenesis"
 aliases: ["Z-001-0488", "Oxaloacetate", "Krebs-Cycle", "Gluconeogenesis", "OAA"]
 domain: 001
 tags: [zettel, oxaloacetate, krebs-cycle, gluconeogenesis, oaa, metabolic-crossroads]
-parent-moc: "[[MOC-Gluconeogenesis]]"
+parent-moc: "[[MOC-Glycolysis-PPP]]"
 status: conscious
 source-litnote: "[[L-001-0045H_Oxaloacetate_Gluconeogenesis_CGPT-0445]]"
 source-inbox: "[[CGPT_0445_Advanced_Biochemistry_Exploration_CGPT-0445]]"
