@@ -110,7 +110,7 @@ Take 2 capsules with water, three times daily (6 total), for up to one week or a
 ## Connection to Vault
 
 - Up: [[MOC-Methylation]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 parent-index: [[03-Zettels]]

@@ -17,7 +17,7 @@ pmcid: ""
 tier: GOLD
 relevance: Critical — Understanding dietary fat quality, omega-6/omega-3 balance, and metabolic impact for METHAP protocol
 status: complete
-parent-moc: "[[MOC-Dietary-Fats]]"
+parent-moc: "[[MOC-Lipid-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0074_Seven_Countries_Study_Summary_CGPT-0074]]"

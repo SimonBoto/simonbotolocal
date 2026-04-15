@@ -10,7 +10,7 @@ doi: "(pending)"
 pmid: "(pending)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Clinical-Protocols]]"
+parent-moc: "[[MOC-Clinical-Metabolomics]]"
 ---
 
 # Messerli 2021 — Sodium Intake, Life Expectancy, and All-Cause Mortality

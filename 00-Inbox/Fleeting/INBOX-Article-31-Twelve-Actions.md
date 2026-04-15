@@ -52,4 +52,4 @@ topic: health, lifestyle, actions, evidence-based, diet, sleep, movement, stress
 - [x] LitNote: [[L-002-0212_Twelve_Actions_Better_Health]]
 - [x] Zettels: 3 zettels (Z-002-0774 to Z-002-0776) — EXIST, need source-reference
 - [x] Reference note: R-002-0052 (to be created)
-- [x] MOC: [[MOC-Clinical-Protocols]]
+- [x] MOC: [[MOC-Clinical-Metabolomics]]

@@ -446,7 +446,7 @@ The oldest story. The deepest truth.
 ## Connection to Vault
 
 - Up: [[MOC-Mitochondrial-Function]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 

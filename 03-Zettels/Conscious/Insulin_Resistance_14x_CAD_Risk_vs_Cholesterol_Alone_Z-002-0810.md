@@ -7,7 +7,7 @@ domain: 002
 status: conscious
 tags: [zettel, insulin-resistance, cad, 14x, cholesterol, risk-comparison]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Insulin-Resistance]]"
+parent-moc: "[[MOC-Metabolic-Syndrome]]"
 source-litnote: "[[L-002-0224_Metabolism_Heart_Health]]"
 extraction-date: 2026-04-15
 source-reference: "[[Insulin_Resistance_14x_CAD_Risk_Literature_R-002-0058]],[[Pasut_2025_Endothelial_Metabolism_R-001-0082]]"

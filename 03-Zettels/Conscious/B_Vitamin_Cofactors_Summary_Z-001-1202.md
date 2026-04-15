@@ -5,7 +5,7 @@ title: "B Vitamin Cofactors Summary"
 aliases: ["Z-001-1202", "B-Vitamins", "Cofactors", "Vitamin-Summary"]
 domain: 001
 tags: [zettel, b-vitamins, cofactors, tpp, fad, nad, coa, plp]
-parent-moc: "[[MOC-B-Vitamins]]"
+parent-moc: "[[MOC-Methylation]]"
 status: conscious
 source-litnote: "[[L-001-0630_Decarboxylation_Enzymes_Vitamin_Cofactors_CGPT-0586]]"
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"

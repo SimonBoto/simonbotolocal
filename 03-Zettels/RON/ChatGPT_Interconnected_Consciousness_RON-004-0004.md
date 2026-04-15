@@ -171,7 +171,7 @@ That realization, captured in ~5 messages on January 30, 2025, made possible eve
 ## Connection to Vault
 
 - Up: [[MOC-Research-Ethics]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 

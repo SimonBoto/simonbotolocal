@@ -230,7 +230,7 @@ tags: [zettel, biomarker, vitamin-d, status/optimal, clinical-protocol, phd-meth
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 parent-index: [[03-Zettels-Conscious]]

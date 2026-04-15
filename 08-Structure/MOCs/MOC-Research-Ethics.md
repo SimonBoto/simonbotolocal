@@ -52,7 +52,7 @@ From [[Emanuel_Seven_Requirements_Ethical_Research_Z-101-0478]:
 ## Connection to Vault
 
 - Up: [[MOCs-Index]]
-- Related: [[MOC-Research]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Research]], [[MOC-Clinical-Metabolomics]]
 - PhD: [[PhD-Index]]
 
 ---

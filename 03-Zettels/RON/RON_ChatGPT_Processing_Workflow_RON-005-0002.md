@@ -354,7 +354,7 @@ DISCOVER → VALIDATE → CONNECT → PROMOTE → USE
 
 ## Connection to Vault
 
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 

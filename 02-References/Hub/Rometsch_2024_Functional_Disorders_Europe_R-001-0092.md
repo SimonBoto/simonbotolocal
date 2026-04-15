@@ -10,7 +10,7 @@ doi: "(pending)"
 pmid: "(pending)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Clinical-Protocols]]"
+parent-moc: "[[MOC-Clinical-Metabolomics]]"
 ---
 
 # Rometsch 2024 — Prevalence of Functional Disorders Across Europe

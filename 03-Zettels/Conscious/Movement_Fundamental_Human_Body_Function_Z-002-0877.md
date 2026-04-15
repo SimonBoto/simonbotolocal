@@ -84,7 +84,7 @@ related: []
 
 ## Connections
 - [[MOC-Metabolic-Syndrome]] — walking improves metabolic health
-- [[MOC-Physical-Activity]] — foundational movement pattern
+- [[MOC-Exercise-Physiology]] — foundational movement pattern
 - [[MOC-Longevity]] — walking extends lifespan
 
 ## Clinical Implication

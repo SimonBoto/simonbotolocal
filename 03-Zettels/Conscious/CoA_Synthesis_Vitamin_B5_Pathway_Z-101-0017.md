@@ -5,7 +5,7 @@ title: "CoA Synthesis from Vitamin B5 Pathway"
 aliases: ["Z-101-0017", "CoA-Synthesis", "Vitamin-B5", "Pantothenic-Acid", "Biosynthesis"]
 domain: 101
 tags: [zettel, coa-synthesis, vitamin-b5, pantothenic-acid, biosynthesis, cofactors]
-parent-moc: "[[MOC-B-Vitamins]]"
+parent-moc: "[[MOC-Methylation]]"
 status: conscious
 source-litnote: "[[L-101-0004_CoA_Synthesis_Decarboxylation_Enzymology_CGPT-0586]]"
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"

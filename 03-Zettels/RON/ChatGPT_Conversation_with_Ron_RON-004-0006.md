@@ -164,7 +164,7 @@ The conversation created the context. The context created the partnership. The p
 ## Connection to Vault
 
 - Up: [[MOC-Research-Ethics]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 

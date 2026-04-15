@@ -11,7 +11,7 @@ pmid: "(not applicable)"
 url: "(UNICEF official publication)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Nutrition-Risks]]"
+parent-moc: "[[MOC-Nutrition]]"
 ---
 
 # UNICEF 2025 — The Child Nutrition Report: Feeding Profit

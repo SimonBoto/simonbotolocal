@@ -13,7 +13,7 @@ tags: []
   - long-term-management
   - osteoporosis
   - clinical-protocols
-parent-moc: "[[MOC-Clinical-Protocols]]"
+parent-moc: "[[MOC-Clinical-Metabolomics]]"
 source-litnote: "Medication_Duration_Guidelines_L-001-0045L_v4.0"
 extraction-date: 2026-04-15
 status: conscious

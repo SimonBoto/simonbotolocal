@@ -174,7 +174,7 @@ High-dose VitD → improved omega-6:3 balance (via inflammation reduction) → i
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 parent-index: [[03-Zettels-Conscious]]

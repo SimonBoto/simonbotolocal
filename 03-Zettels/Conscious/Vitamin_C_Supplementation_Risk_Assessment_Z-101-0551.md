@@ -5,7 +5,7 @@ title: Vitamin C Supplementation Risk Assessment
 aliases: [Z-101-0551]
 domain: 101
 tags: [zettel, vitamin_c, risk, oxalate, clinical, conscious]
-parent-moc: [[MOC-Clinical-Protocols]]
+parent-moc: [[MOC-Clinical-Metabolomics]]
 source-litnote: [[CGPT_0549_LitNote_Draft]]
 extraction-date: 2026-04-15
 status: draft

@@ -5,7 +5,7 @@ title: "PLP — Vitamin B6 Pyridoxal Phosphate Mechanism"
 aliases: ["Z-001-1201", "PLP", "Vitamin-B6", "Pyridoxal-Phosphate", "Transamination"]
 domain: 001
 tags: [zettel, plp, vitamin-b6, pyridoxal-phosphate, transamination, decarboxylation]
-parent-moc: "[[MOC-B-Vitamins]]"
+parent-moc: "[[MOC-Methylation]]"
 status: conscious
 source-litnote: "[[L-001-0630_Decarboxylation_Enzymes_Vitamin_Cofactors_CGPT-0586]]"
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"

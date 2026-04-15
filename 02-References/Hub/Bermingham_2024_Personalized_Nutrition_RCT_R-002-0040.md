@@ -11,7 +11,7 @@ pmid: "38714898"
 url: "https://www.nature.com/articles/s41591-024-02951-6"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Clinical-Protocols]]"
+parent-moc: "[[MOC-Clinical-Metabolomics]]"
 ---
 
 # Bermingham et al. 2024 — Personalized Nutrition RCT

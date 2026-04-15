@@ -119,7 +119,7 @@ Add 2 scoops (10 g) powder to water, juice, yogurt, or soup. Mix well. Consume o
 ## Connection to Vault
 
 - Up: MOC-Bone-Health
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 parent-index: [[03-Zettels]]

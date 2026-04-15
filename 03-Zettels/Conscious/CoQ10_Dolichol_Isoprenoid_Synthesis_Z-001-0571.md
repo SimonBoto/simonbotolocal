@@ -5,7 +5,7 @@ title: "CoQ10 and Dolichol Isoprenoid Synthesis"
 aliases: ["Z-001-0571", "CoQ10", "Dolichol", "Ubiquinone", "Prenylation"]
 domain: 001
 tags: [zettel, coq10, dolichol, ubiquinone, prenylation, mitochondria, isoprenoids]
-parent-moc: "[[MOC-Mitochondrial-Energy]]"
+parent-moc: "[[MOC-Mitochondrial-Function]]"
 status: conscious
 source-litnote: "[[L-001-0519_Isoprenoids_Cholesterol_Derivatives_CGPT-0391]]"
 source-inbox: "[[CGPT_0391_Mevalonate_Pathway_Enzymes_Cofactors_CGPT-0391]]"

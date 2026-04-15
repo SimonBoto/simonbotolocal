@@ -185,7 +185,7 @@ U.S. National Commission for the Protection of Human Subjects landmark report es
 ## Connection to Vault
 
 - Up: [[MOC-Research-Ethics]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 parent-index: [[03-Zettels-Conscious]]

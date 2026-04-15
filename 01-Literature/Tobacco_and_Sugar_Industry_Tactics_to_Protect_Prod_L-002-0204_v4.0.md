@@ -15,7 +15,7 @@ pmid: "27630110"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Nutrition-Risks]]"
+parent-moc: "[[MOC-Nutrition]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
 zettel-count: 3
@@ -74,7 +74,7 @@ The sugar industry employed **the same tactics as the tobacco industry** — hid
 ---
 
 ## Connections
-- **MOC:** [[MOC-Nutrition-Risks]] — Thematic domain
+- **MOC:** [[MOC-Nutrition]] — Thematic domain
 - **INBOX:** [[INBOX-Article-23-Industry-Tactics]] — Article source
 - **Reference:** [[Kearns_2016_Sugar_Industry_Documents_R-002-0044]] — Primary source
 - **Index:** [[01-Literature 1]] — Container

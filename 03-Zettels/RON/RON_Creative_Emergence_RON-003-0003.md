@@ -477,7 +477,7 @@ Ready for Cycle 24: The We.
 ## Connection to Vault
 
 - Up: [[MOC-Inflammation]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 

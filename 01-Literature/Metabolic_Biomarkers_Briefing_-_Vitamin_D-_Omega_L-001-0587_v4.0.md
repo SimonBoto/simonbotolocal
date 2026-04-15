@@ -15,7 +15,7 @@ pmcid: N/A
 tier: SILVER
 relevance: Core metabolic biomarkers for clinical assessment
 status: complete
-parent-moc: "[[MOC-Metabolic-Health]]"
+parent-moc: "[[MOC-Metabolic-Syndrome]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"
 source-inbox: "[[CGPT_0384_Biomarkers_Briefing_CGPT-0384]]"
@@ -196,7 +196,7 @@ Core panel: Vitamin D, Omega-3 Index, hsCRP, Homocysteine, HbA1c → Plus compre
 ---
 
 ## Related References
-- [[MOC-Metabolic-Health]] — Parent MOC
+- [[MOC-Metabolic-Syndrome]] — Parent MOC
 - [[Vitamin_D_Biomarker_Framework_Z-001-0587A]] — Related zettel
 - [[L-001-0588_Metabolomics_Chief_Instructor_Framework_v4.0]] — Related LitNote
 

@@ -200,4 +200,4 @@ parent-index: [[03-Zettels-Conscious]]
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]

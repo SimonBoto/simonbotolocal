@@ -23,7 +23,7 @@ tags: [lit-note, fatty-acids, omega-3, omega-6, lipid-structure, saturation, cGP
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 source-litnote: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: complete
-parent-moc: "[[MOC-Fatty-Acids]]"
+parent-moc: "[[MOC-Lipid-Metabolism]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 zettel-count: 5

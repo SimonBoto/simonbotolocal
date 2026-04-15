@@ -167,7 +167,7 @@ Adipic acid elevation may indicate:
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 parent-index: [[03-Zettels-Conscious]]

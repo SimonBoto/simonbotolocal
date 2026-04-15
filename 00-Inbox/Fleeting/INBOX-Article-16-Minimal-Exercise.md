@@ -55,4 +55,4 @@ topic: exercise, physical-activity, mortality, dose-response, minimal-dose, prev
 - [x] LitNote: [[L-002-0174_Minimal_Exercise_Mortality_Reduction]]
 - [x] Zettels: 3 zettels (Z-002-0657 to Z-002-0659)
 - [x] Reference note: [[PoloLopez_2024_Minimal_Exercise_Mortality_R-002-0032]]
-- [x] MOC: [[MOC-Clinical-Protocols]]
+- [x] MOC: [[MOC-Clinical-Metabolomics]]

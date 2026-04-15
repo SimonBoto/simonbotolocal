@@ -51,4 +51,4 @@ topic: industry-tactics, tobacco, sugar, manipulation, public-health, regulatory
 - [x] LitNote: [[L-002-0204_Tobacco_Sugar_Industry_Tactics]]
 - [x] Zettels: 3 zettels (Z-002-0750 to Z-002-0752)
 - [x] Reference note: R-002-0044 (to be created)
-- [x] MOC: [[MOC-Nutrition-Risks]]
+- [x] MOC: [[MOC-Nutrition]]

@@ -197,7 +197,7 @@ Tryptophan → 5-HTP → Serotonin → (MAO-A) → 5-HIAA
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 parent-index: [[03-Zettels]]

@@ -7,7 +7,7 @@ domain: 002
 status: conscious
 tags: [zettel, UPF, childhood-obesity, drivers, UNICEF, industry, marketing]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Nutrition-Risks]]"
+parent-moc: "[[MOC-Nutrition]]"
 source-litnote: "[[L-002-0215_Pediatric_Obesity_Historic_Reversal]]"
 extraction-date: 2026-04-15
 source-reference: "[[UNICEF_2025_Child_Nutrition_Report_R-002-0054]]"

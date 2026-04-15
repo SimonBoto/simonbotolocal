@@ -168,7 +168,7 @@ Ethical obligations to participants continue throughout the study and beyond. Pr
 ## Connection to Vault
 
 - Up: [[MOC-Methylation]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 parent-index: [[03-Zettels-Conscious]]

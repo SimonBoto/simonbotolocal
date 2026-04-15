@@ -6,7 +6,7 @@ domain: 002
 tags: [zettel, movement, evolution, human-biology, metabolic-health, principle]
 status: conscious
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Physical-Activity]]"
+parent-moc: "[[MOC-Exercise-Physiology]]"
 source-litnote: "[[L-002-0245_Walking_Mortality_Reduction]]"
 extraction-date: 2026-04-15
 ---

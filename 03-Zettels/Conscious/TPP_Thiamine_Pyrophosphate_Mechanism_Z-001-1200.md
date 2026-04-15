@@ -5,7 +5,7 @@ title: "TPP — Thiamine Pyrophosphate Mechanism and Enzymes"
 aliases: ["Z-001-1200", "TPP", "Thiamine", "Vitamin-B1", "Decarboxylation"]
 domain: 001
 tags: [zettel, tpp, thiamine, vitamin-b1, decarboxylation, pyruvate-dehydrogenase]
-parent-moc: "[[MOC-B-Vitamins]]"
+parent-moc: "[[MOC-Methylation]]"
 status: conscious
 source-litnote: "[[L-001-0630_Decarboxylation_Enzymes_Vitamin_Cofactors_CGPT-0586]]"
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"

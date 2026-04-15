@@ -6,7 +6,7 @@ aliases: ["B-Complex Ratios", "B-Vitamin Ratios"]
 domain: 001
 tags: [zettel, b-vitamins, supplements, ratios, methylation, mthfr]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-B-Vitamins]]"
+parent-moc: "[[MOC-Methylation]]"
 source-litnote: "[[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]]"
 confidence: high
 created: "2026-04-03"
@@ -134,7 +134,7 @@ B-complex formulations vary dramatically in relative ratios of B2 (riboflavin), 
 ## Links — Two Types
 
 ### Structural (Navigation)
-- **Up:** [[MOC-B-Vitamins]] — Thematic entry
+- **Up:** [[MOC-Methylation]] — Thematic entry
 - **Source:** [[LitNote_Iodine_Thyroid_MTHFR_L-001-0638]] — Origin
 - **Index:** [[03-Zettels-Conscious]] — Container
 

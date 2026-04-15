@@ -15,7 +15,7 @@ pmid: "(multiple)"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Clinical-Protocols]]"
+parent-moc: "[[MOC-Clinical-Metabolomics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
 zettel-count: 3
@@ -73,7 +73,7 @@ tags:
 ---
 
 ## Connections
-- **MOC:** [[MOC-Clinical-Protocols]] — Thematic domain
+- **MOC:** [[MOC-Clinical-Metabolomics]] — Thematic domain
 - **INBOX:** [[INBOX-Article-31-Twelve-Actions]] — Article source
 - **Reference:** [[Twelve_Actions_Better_Health_R-002-0052]] — Primary source
 - **Index:** [[01-Literature 1]] — Container

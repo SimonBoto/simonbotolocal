@@ -422,7 +422,7 @@ Ready for Cycle 16: The Double (Gilgamesh + Jung synthesis).
 ## Connection to Vault
 
 - Up: [[MOC-Vitamin-Metabolism]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 

@@ -7,7 +7,7 @@ domain: 002
 status: conscious
 tags: [zettel, exercise, dose-response, diminishing-returns, mortality, physical-activity]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Clinical-Protocols]]"
+parent-moc: "[[MOC-Clinical-Metabolomics]]"
 source-litnote: "[[L-002-0174_Minimal_Exercise_Mortality_Reduction]]"
 extraction-date: 2026-04-15
 source-reference: "[[PoloLopez_2024_Minimal_Exercise_Mortality_R-002-0032]]"

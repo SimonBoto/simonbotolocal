@@ -5,7 +5,7 @@ title: "Omega Classification System Explained"
 aliases: ["Z-001-1209", "Omega-Classification", "Omega-3", "Omega-6", "Fatty-Acid-Classes"]
 domain: 001
 tags: [zettel, omega-3, omega-6, omega-classification, fatty-acids, essential-fatty-acids]
-parent-moc: "[[MOC-Fatty-Acids]]"
+parent-moc: "[[MOC-Lipid-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0632_Fatty_Acid_Structure_Classification_CGPT-0586]]"
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"

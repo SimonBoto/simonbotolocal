@@ -7,7 +7,7 @@ domain: 002
 status: conscious
 tags: [zettel]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Nutrition-Risks]]"
+parent-moc: "[[MOC-Nutrition]]"
 source-litnote: "[[L-002-0204_Tobacco_Sugar_Industry_Tactics]]"
 extraction-date: 2026-04-15
 source-reference: "[[Kearns_2016_Sugar_Industry_Documents_R-002-0044]]"

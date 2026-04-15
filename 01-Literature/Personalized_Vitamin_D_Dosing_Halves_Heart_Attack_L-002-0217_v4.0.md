@@ -17,7 +17,7 @@ pmid: "(not applicable)"
 tier: "BRONZE"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Personalized-Nutrition]]"
+parent-moc: "[[MOC-Nutrition]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-05"
 zettel-count: 3
@@ -79,7 +79,7 @@ tags:
 ---
 
 ## Connections
-- **MOC:** [[MOC-Personalized-Nutrition]] — Thematic domain
+- **MOC:** [[MOC-Nutrition]] — Thematic domain
 - **INBOX:** [[INBOX-Article-34-Personalized-Vitamin-D]] — Article source
 - **Reference:** [[May_2025_TARGET_D_Vitamin_D_Personalized_R-002-0055]] — Primary source
 - **Index:** [[01-Literature 1]] — Container

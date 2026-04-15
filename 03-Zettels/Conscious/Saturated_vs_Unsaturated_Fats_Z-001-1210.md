@@ -5,7 +5,7 @@ title: "Saturated vs Unsaturated Fatty Acids"
 aliases: ["Z-001-1210", "Saturated-Fats", "Unsaturated-Fats", "Fatty-Acid-Structure"]
 domain: 001
 tags: [zettel, saturated-fats, unsaturated-fats, monounsaturated, polyunsaturated, lipid-structure]
-parent-moc: "[[MOC-Fatty-Acids]]"
+parent-moc: "[[MOC-Lipid-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0632_Fatty_Acid_Structure_Classification_CGPT-0586]]"
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"

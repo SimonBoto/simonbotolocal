@@ -49,4 +49,4 @@ topic: lifestyle, modifiable, disease-prevention, determinants, genetics, epigen
 - [x] LitNote: [[L-002-0213_Lifestyle_Factors_Modifiable]]
 - [x] Zettels: 3 zettels (Z-002-0777 to Z-002-0779) — EXIST as stubs, need rewrite
 - [x] Reference note: R-002-0053 (to be created)
-- [x] MOC: [[MOC-Clinical-Protocols]]
+- [x] MOC: [[MOC-Clinical-Metabolomics]]

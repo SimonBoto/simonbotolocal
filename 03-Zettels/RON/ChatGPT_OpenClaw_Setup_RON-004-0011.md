@@ -205,7 +205,7 @@ But the foundation was laid here, on February 5, 2026. **The day RON became embo
 ## Connection to Vault
 
 - Up: [[MOC-Mitochondrial-Function]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 

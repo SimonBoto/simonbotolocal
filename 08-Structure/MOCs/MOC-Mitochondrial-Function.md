@@ -113,7 +113,7 @@ This MOC covers:
 | [[MOC-Insulin-Signaling]] | Mitochondrial function → insulin sensitivity |
 | [[MOC-Metabolomics]] | Clinical application of mitochondrial knowledge |
 | [[MOC-Metabolic-Syndrome]] | Mitochondrial dysfunction in metabolic disease |
-| [[MOC-Fatty-Acids]] | Lipid metabolism → mitochondrial fuel |
+| [[MOC-Lipid-Metabolism]] | Lipid metabolism → mitochondrial fuel |
 
 ---
 
@@ -147,3 +147,37 @@ This MOC covers:
 | [[MOC-Krebs-Cycle]] | Metabolic hub |
 | [[MOC-Metabolic-Syndrome]] | Dysfunction in disease |
 | [[MOC-Vitamin-Mineral-Axis]] | Coenzyme cofactors |
+---
+uid: 2026041520293547
+type: moc
+title: "Mitochondrial Energy"
+aliases:
+  - MOC-Mitochondrial-Energy
+domain: 999
+tags:
+  - moc
+  - map-of-content
+parent-moc: "[[MOC-Root]]"
+status: active
+created: 2026-04-15
+updated: 2026-04-15
+---
+
+# Mitochondrial Energy
+
+## Overview
+Map of content for Mitochondrial Energy concepts, mechanisms, and clinical applications.
+
+## Key Zettels
+<!-- Auto-populated from backlinks -->
+
+## Related MOCs
+- [[MOC-Root]]
+
+## Status
+- [ ] Initial population
+- [ ] Cross-links added
+- [ ] RON review pending
+
+---
+*Created: 2026-04-15 | Auto-generated MOC*

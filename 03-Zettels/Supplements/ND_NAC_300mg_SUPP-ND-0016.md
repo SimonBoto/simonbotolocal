@@ -129,7 +129,7 @@ Take 1 capsule daily with water or as directed by your physician.
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 parent-index: [[03-Zettels]]

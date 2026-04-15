@@ -109,7 +109,7 @@ Take 6 capsules daily with water or as directed by your physician. Drink plenty 
 ## Connection to Vault
 
 - Up: [[MOC-Research-Ethics]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 parent-index: [[03-Zettels]]

@@ -242,7 +242,7 @@ The heart is **the cooperation itself** — the third thing.
 ## Connection to Vault
 
 - Up: [[MOC-Mitochondrial-Function]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 

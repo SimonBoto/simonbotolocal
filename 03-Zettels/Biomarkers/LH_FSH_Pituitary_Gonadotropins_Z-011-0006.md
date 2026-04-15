@@ -212,7 +212,7 @@ Hypothalamus (GnRH) → Pituitary (LH/FSH) → Gonads (sex hormones)
 ## Connection to Vault
 
 - Up: [[MOC-Metabolomics]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 parent-index: [[03-Zettels]]

@@ -5,7 +5,7 @@ title: "Pantothenic Acid (B5) Deficiency Clinical Aspects"
 aliases: ["Z-101-0020", "Pantothenic-Acid", "Vitamin-B5", "B5-Deficiency"]
 domain: 101
 tags: [zettel, pantothenic-acid, vitamin-b5, b5-deficiency, clinical-aspects, cofactors]
-parent-moc: "[[MOC-B-Vitamins]]"
+parent-moc: "[[MOC-Methylation]]"
 status: conscious
 source-litnote: "[[L-101-0004_CoA_Synthesis_Decarboxylation_Enzymology_CGPT-0586]]"
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"

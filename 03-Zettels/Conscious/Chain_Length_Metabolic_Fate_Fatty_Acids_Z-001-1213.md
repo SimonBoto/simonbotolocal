@@ -5,7 +5,7 @@ title: "Chain Length and Metabolic Fate of Fatty Acids"
 aliases: ["Z-001-1213", "Chain-Length", "Fatty-Acid-Metabolism", "SCFA", "MCFA", "LCFA"]
 domain: 001
 tags: [zettel, chain-length, short-chain, medium-chain, long-chain, fatty-acid-metabolism]
-parent-moc: "[[MOC-Fatty-Acids]]"
+parent-moc: "[[MOC-Lipid-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0632_Fatty_Acid_Structure_Classification_CGPT-0586]]"
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"

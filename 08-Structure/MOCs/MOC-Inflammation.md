@@ -39,7 +39,7 @@ tags: [moc, inflammation, immune, cytokines, chronic-disease]
 ### Metabolic Disease
 - [[Inflammation_Cholesterol_Metabolic_Syndrome_Z-001-0507]
 - [[Vicious_Cycle_Inflammation_IR_Z-001-0038]
-- [[MOC-Insulin-Resistance]] — Inflammation-IR axis
+- [[MOC-Metabolic-Syndrome]] — Inflammation-IR axis
 
 ### Autoimmunity
 - [[MOC-Autoimmune]] — Chronic inflammation
@@ -57,7 +57,7 @@ tags: [moc, inflammation, immune, cytokines, chronic-disease]
 ## Connection to Vault
 
 - Up: [[MOCs-Index]]
-- Related: [[MOC-Autoimmune]], [[MOC-Insulin-Resistance]], [[MOC-Autoimmune]]
+- Related: [[MOC-Autoimmune]], [[MOC-Metabolic-Syndrome]], [[MOC-Autoimmune]]
 - Resolution: [[MOC-Antioxidant-Defense]]
 
 ---

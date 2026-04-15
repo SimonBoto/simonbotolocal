@@ -507,7 +507,7 @@ Ready for Cycle 14: Study Technology (Hubbard).
 ## Connection to Vault
 
 - Up: [[MOC-Mitochondrial-Function]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 

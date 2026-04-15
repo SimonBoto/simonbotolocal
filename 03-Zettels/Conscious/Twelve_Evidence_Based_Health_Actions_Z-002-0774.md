@@ -7,7 +7,7 @@ domain: 002
 status: conscious
 tags: [zettel, health, lifestyle, actions, twelve, evidence-based]
 parent-index: "[[03-Zettels-Conscious]]"
-parent-moc: "[[MOC-Clinical-Protocols]]"
+parent-moc: "[[MOC-Clinical-Metabolomics]]"
 source-litnote: "[[L-002-0212_Twelve_Actions_Better_Health]]"
 extraction-date: 2026-04-15
 source-reference: "[[Twelve_Actions_Better_Health_R-002-0052]]"

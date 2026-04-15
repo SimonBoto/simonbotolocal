@@ -58,7 +58,7 @@ extraction-date: 2026-03-08
 ### Domain Clusters
 
 #### Energy Metabolism Cluster
-**MOCs:** [[MOC-Mitochondrial-Energy]], [[MOC-Krebs-Cycle]]
+**MOCs:** [[MOC-Mitochondrial-Function]], [[MOC-Krebs-Cycle]]
 
 **Zettels:**
 | Zettel | Topic | Connections |
@@ -74,7 +74,7 @@ extraction-date: 2026-03-08
 | Z-001-1058 | Carnitine Shuttle | Transport mechanism |
 
 #### Lipid Signaling Cluster
-**MOCs:** [[MOC-Fatty-Acids]], [[MOC-Cholesterol-Lipid]]
+**MOCs:** [[MOC-Lipid-Metabolism]], [[MOC-Cholesterol-Lipid]]
 
 **Zettels:**
 | Zettel | Topic |

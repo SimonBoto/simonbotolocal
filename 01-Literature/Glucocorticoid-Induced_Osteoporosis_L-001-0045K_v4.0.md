@@ -15,7 +15,7 @@ pmcid: ""
 tier: SILVER
 relevance: "High — Specialized management for patients on chronic glucocorticoid therapy"
 status: complete
-parent-moc: "[[MOC-Clinical-Protocols]]"
+parent-moc: "[[MOC-Clinical-Metabolomics]]"
 parent-index: "[[02-Literature]]"
 extraction-date: "2026-03-06"
 source-inbox: "[[CGPT_0133_Osteopenia_Osteoporosis_Bone_Remodeling_CGPT-0133]]"

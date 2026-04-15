@@ -120,7 +120,7 @@ Take 2 capsules daily in the evening or as directed by your physician.
 ## Connection to Vault
 
 - Up: [[MOC-Inflammation]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 parent-index: [[03-Zettels]]

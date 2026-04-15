@@ -317,7 +317,7 @@ Cycle 7 complete.
 ## Connection to Vault
 
 - Up: [[MOC-Insulin-Signaling]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 

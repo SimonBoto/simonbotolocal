@@ -10,7 +10,7 @@ doi: "(not applicable)"
 pmid: "(not applicable)"
 tier: "BRONZE"
 status: active
-parent-moc: "[[MOC-Personalized-Nutrition]]"
+parent-moc: "[[MOC-Nutrition]]"
 ---
 
 # May 2025 — TARGET-D: Personalized Vitamin D Halves Heart Attack Risk

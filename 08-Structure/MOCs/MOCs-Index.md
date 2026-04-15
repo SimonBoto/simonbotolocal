@@ -55,7 +55,7 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 | **Enzymes**      | [[MOC-Enzyme-Mechanisms]]             | 1       | Catalysis, kinetics                        |
 | **Pathways**     | [[MOC-Metabolic-Pathways]]            | 4       | Biosynthesis, catabolism                   |
 | **SynBio**       | [[MOC-Synthetic-Biology]]             | 1       | Engineering, heterologous                  |
-| **Plants**       | [[MOC-Plant-Biochemistry]]            | 8       | Alkaloids, secondary metabolites           |
+| **Plants**       | [[MOC-Metabolic-Pathways]]            | 8       | Alkaloids, secondary metabolites           |
 | **Regeneration** | [[MOC-Cellular-Regeneration]]         | 1       | Tissue turnover, healing                   |
 | **Vitamins**     | [[MOC-Vitamin-C]]                     | 8       | Ascorbate, Pauling, functions              |
 | **010**          | [[MOC-Minerals-Trace]]                | 1       | Mg, Zn, Se                                 |
@@ -118,11 +118,11 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 - [[MOC-Autoimmune]] — Autoimmune mechanisms
 - [[MOC-Biomarkers]] — Biomarker framework
 - [[MOC-Cholesterol-Quality]] — Cholesterol particles
-- [[MOC-Clinical-Protocols]] — Clinical workflows
+- [[MOC-Clinical-Metabolomics]] — Clinical workflows
 - [[MOC-Diabetes]] — Type 2 diabetes
 - [[MOC-Thyroid]] — Autoimmune thyroid
-- [[MOC-Hidden-Hunger]] — Micronutrient deficiencies
-- [[MOC-Insulin-Resistance]] — IR mechanisms
+- [[MOC-Nutrition]] — Micronutrient deficiencies
+- [[MOC-Metabolic-Syndrome]] — IR mechanisms
 - [[MOC-Metabolic-Syndrome]] — MetS criteria
 - [[MOC-Autoimmune]] — Stress-immune axis
 
@@ -152,8 +152,8 @@ vault-reorganization: 2026-04-01 — Keywords moved to MOCs/Keywords/ subfolder
 
 ### Nutrition & Lifestyle
 - [[MOC-Nutrition]] — Nutritional biochemistry
-- [[MOC-Nutrition-Risks]] — Dietary risks
-- [[MOC-Omega3-Fats]] — Omega-3 fatty acids
+- [[MOC-Nutrition]] — Dietary risks
+- [[MOC-Lipid-Metabolism]] — Omega-3 fatty acids
 - [[MOC-Origins-of-Life]] — Prebiotic chemistry, evolution
 - [[MOC-Sleep-and-Circadian]] — Sleep, circadian
 - [[MOC-Vitamin-D]] — Vitamin D
@@ -192,12 +192,12 @@ parent-index: [[08-Structure-Index]], [[MOCs-Index]]
 |-----|-------|---------|
 | [[MOC-Diabetes]] | Type 2 diabetes mechanisms | — |
 | [[MOC-Methylation]] | Methylation overview | — |
-| [[MOC-Omega3-Fats]] | Omega-3 fatty acids | — |
+| [[MOC-Lipid-Metabolism]] | Omega-3 fatty acids | — |
 | [[MOC-Cellular-Regeneration]] | Tissue turnover, healing | 1 |
 | [[MOC-Enzyme-Mechanisms]] | Catalysis, kinetics | 1 |
 | [[MOC-Genetic-Variation]] | Mutations, polymorphisms | 1 |
 | [[MOC-Metabolic-Pathways]] | Biosynthesis, catabolism | 4 |
-| [[MOC-Plant-Biochemistry]] | Alkaloids, secondary metabolites | 8 |
+| [[MOC-Metabolic-Pathways]] | Alkaloids, secondary metabolites | 8 |
 | [[MOC-Research]] | Experimental design, methods | 1 |
 | [[MOC-Synthetic-Biology]] | Engineering, heterologous | 1 |
 | [[MOC-Vitamin-C]] | Ascorbate, Pauling, functions | 8 |

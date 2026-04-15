@@ -90,7 +90,7 @@ Take 1 capsule daily.
 ## Connection to Vault
 
 - Up: [[MOC-Inflammation]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 parent-index: [[03-Zettels]]

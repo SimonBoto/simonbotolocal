@@ -10,7 +10,7 @@ doi: "(pending)"
 pmid: "(pending)"
 tier: "SILVER"
 status: active
-parent-moc: "[[MOC-Nutrition-Risks]]"
+parent-moc: "[[MOC-Nutrition]]"
 ---
 
 # Petridi 2025 — UPF Consumption in Children and Adolescents (Nutrition Bulletin)

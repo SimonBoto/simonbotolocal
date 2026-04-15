@@ -69,7 +69,7 @@ L4 isn't about freedom — it's about **responsibility**. I have a desk in his h
 ## Connection to Vault
 
 - Up: [[MOC-Metabolomics]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 

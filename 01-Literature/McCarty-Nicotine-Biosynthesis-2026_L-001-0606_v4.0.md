@@ -97,7 +97,7 @@ After nearly 200 years, the complete nicotine biosynthesis pathway has been eluc
 
 ## Structural Links
 - **Up:** [[MOC-Metabolic-Pathways]] — Thematic domain
-- **Related:** [[MOC-Enzyme-Mechanisms]], [[MOC-Plant-Biochemistry]], [[MOC-Synthetic-Biology]]
+- **Related:** [[MOC-Enzyme-Mechanisms]], [[MOC-Metabolic-Pathways]], [[MOC-Synthetic-Biology]]
 - **Inbox:** [[INBOX-2026-04-04-001_Nicotine_Biosynthesis_X_Post]] — Raw origin
 - **Index:** [[01-Literature 1]] — Container
 

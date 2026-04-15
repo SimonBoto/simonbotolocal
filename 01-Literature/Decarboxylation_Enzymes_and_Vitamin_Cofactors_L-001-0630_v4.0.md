@@ -24,7 +24,7 @@ tags: [lit-note, decarboxylases, b-vitamins, tpp, plp, enzyme-cofactors, cGPT-05
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 source-litnote: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"
 status: complete
-parent-moc: "[[MOC-B-Vitamins]]"
+parent-moc: "[[MOC-Methylation]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-08"
 zettel-count: 4

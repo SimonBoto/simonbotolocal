@@ -14,7 +14,7 @@ pmid: "38714898"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Clinical-Protocols]]"
+parent-moc: "[[MOC-Clinical-Metabolomics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
 zettel-count: 3
@@ -72,7 +72,7 @@ Personalized nutritional interventions based on individual metabolic profiles (p
 ---
 
 ## Connections
-- **MOC:** [[MOC-Clinical-Protocols]] — Thematic domain
+- **MOC:** [[MOC-Clinical-Metabolomics]] — Thematic domain
 - **INBOX:** [[INBOX-Article-19-Personalized-Nutrition]] — Article source
 - **Reference:** [[Bermingham_2024_Personalized_Nutrition_RCT_R-002-0040]] — Primary source
 - **Index:** [[01-Literature 1]] — Container

@@ -219,7 +219,7 @@ source-litnote: Synthesized from clinical practice
 ## Connection to Vault
 
 - Up: MOC-Bone-Health
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 parent-index: [[03-Zettels]]

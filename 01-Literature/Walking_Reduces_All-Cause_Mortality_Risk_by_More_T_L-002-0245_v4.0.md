@@ -63,7 +63,7 @@ tags:
 
 ### 3. Movement Is Fundamental to Human Body Function
 - **Claim:** The human body is designed to move — walking and physical activity are not optional "extras" but fundamental requirements for optimal physiological function, gene expression, metabolic health, and longevity.
-- **Evidence:** Key insight: "The human body functions better when it moves"; evolutionary perspective: humans evolved as walking/ endurance animals, sedentary lifestyle is evolutionary mismatch, modern environment designed for sitting (cars, desks, screens); physiological mechanisms: movement improves insulin sensitivity, enhances cardiovascular function, supports brain health and cognition, reduces inflammation, optimizes gene expression; metabolic benefits: improved glucose disposal, enhanced fat oxidation, better mitochondrial function, hormonal optimization; connections: [[MOC-Metabolic-Syndrome]] — walking improves metabolic health, [[MOC-Physical-Activity]] — foundational movement pattern, [[MOC-Longevity]] — walking extends lifespan; clinical implication: movement should be viewed as essential nutrient, not optional lifestyle choice; prescribe walking like medication — specific dose (8,000 steps), frequency (minimum 1-2x/week); sitting is the new smoking — movement breaks essential throughout day.
+- **Evidence:** Key insight: "The human body functions better when it moves"; evolutionary perspective: humans evolved as walking/ endurance animals, sedentary lifestyle is evolutionary mismatch, modern environment designed for sitting (cars, desks, screens); physiological mechanisms: movement improves insulin sensitivity, enhances cardiovascular function, supports brain health and cognition, reduces inflammation, optimizes gene expression; metabolic benefits: improved glucose disposal, enhanced fat oxidation, better mitochondrial function, hormonal optimization; connections: [[MOC-Metabolic-Syndrome]] — walking improves metabolic health, [[MOC-Exercise-Physiology]] — foundational movement pattern, [[MOC-Longevity]] — walking extends lifespan; clinical implication: movement should be viewed as essential nutrient, not optional lifestyle choice; prescribe walking like medication — specific dose (8,000 steps), frequency (minimum 1-2x/week); sitting is the new smoking — movement breaks essential throughout day.
 - **Reference:** [[Paluch_2023_Walking_Mortality_JAMA_R-002-0068]] — cited as (JAMA walking study)
 - **Zettel:** [[Movement_Fundamental_Human_Body_Function_Z-002-0877]]
 
@@ -79,7 +79,7 @@ tags:
 
 ## Connections
 - **MOC:** [[MOC-Metabolic-Syndrome]] — Thematic domain
-- **MOC:** [[MOC-Physical-Activity]] — Related domain
+- **MOC:** [[MOC-Exercise-Physiology]] — Related domain
 - **MOC:** [[MOC-Longevity]] — Related domain
 - **INBOX:** [[INBOX-Article-56-Walking-Mortality]] — Article source
 - **Reference:** [[Paluch_2023_Walking_Mortality_JAMA_R-002-0068]] — Primary source

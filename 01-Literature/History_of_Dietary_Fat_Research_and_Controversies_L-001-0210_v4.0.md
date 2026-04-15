@@ -16,7 +16,7 @@ pmcid: ""
 tier: SILVER
 relevance: "High — Foundation of modern dietary guidelines; seed oil industry influence"
 status: complete
-parent-moc: "[[MOC-Nutrition-History]]"
+parent-moc: "[[MOC-Nutrition]]"
 parent-index: "[[01-Literature 1]]"
 extraction-date: "2026-03-01"
 source-inbox: "[[CGPT_0471_Ada_Dietary_Guidelines_Controversies_CGPT-0471]]"

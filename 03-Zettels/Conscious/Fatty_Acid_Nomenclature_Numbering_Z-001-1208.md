@@ -5,7 +5,7 @@ title: "Fatty Acid Nomenclature and Numbering"
 aliases: ["Z-001-1208", "Fatty-Acid-Nomenclature", "Numbering-System", "Delta-Omega"]
 domain: 001
 tags: [zettel, fatty-acids, nomenclature, numbering, delta, omega, biochemistry]
-parent-moc: "[[MOC-Fatty-Acids]]"
+parent-moc: "[[MOC-Lipid-Metabolism]]"
 status: conscious
 source-litnote: "[[L-001-0632_Fatty_Acid_Structure_Classification_CGPT-0586]]"
 source-inbox: "[[CGPT_0586_Fatty_Acid_Metabolism_Pathways_CGPT-0586]]"

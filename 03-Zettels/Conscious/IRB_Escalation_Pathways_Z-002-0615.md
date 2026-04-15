@@ -183,7 +183,7 @@ When standard follow-up fails, structured escalation protects your interests whi
 ## Connection to Vault
 
 - Up: [[MOC-Research-Ethics]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 parent-index: [[03-Zettels-Conscious]]

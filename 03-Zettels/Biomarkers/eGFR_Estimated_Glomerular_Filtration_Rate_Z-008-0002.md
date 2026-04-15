@@ -237,7 +237,7 @@ source-litnote: Synthesized from clinical practice
 ## Connection to Vault
 
 - Up: [[MOC-Lipid-Metabolism]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 parent-index: [[03-Zettels]]

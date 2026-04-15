@@ -15,7 +15,7 @@ pmcid: N/A
 tier: GOLD
 relevance: Core metabolic medicine framework for clinical practice
 status: complete
-parent-moc: "[[MOC-Metabolic-Health]]"
+parent-moc: "[[MOC-Metabolic-Syndrome]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-03-07"
 source-inbox: "[[CGPT_0124_Profound_Truths_Revolutionizing_Health_CGPT-0124]]"
@@ -197,7 +197,7 @@ Assessment flow: Mitochondrial → Metabolomics → Glycation → Minerals → F
 ---
 
 ## Related References
-- [[MOC-Metabolic-Health]] — Parent MOC
+- [[MOC-Metabolic-Syndrome]] — Parent MOC
 - [[Pillar_1_Mitochondrial_Health_Framework_Z-001-0584A]] — Related zettel
 - [[L-001-0585_IBD_Crohns_UC_Pathophysiology_v4.0]] — Related LitNote
 

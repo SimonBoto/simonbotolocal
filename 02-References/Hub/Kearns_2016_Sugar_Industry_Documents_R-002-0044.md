@@ -11,7 +11,7 @@ pmid: "27630110"
 url: "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2548250"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Nutrition-Risks]]"
+parent-moc: "[[MOC-Nutrition]]"
 ---
 
 # Kearns et al. 2016 — Sugar Industry CHD Research Manipulation

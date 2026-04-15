@@ -13,7 +13,7 @@ doi: "10.1016/j.pcad.2024.04.001"
 tier: "GOLD"
 relevance: "Medium — clinical biochemistry"
 status: complete
-parent-moc: "[[MOC-Clinical-Protocols]]"
+parent-moc: "[[MOC-Clinical-Metabolomics]]"
 parent-index: "[[01-Literature-Index]]"
 extraction-date: "2026-04-04"
 zettel-count: 3
@@ -74,7 +74,7 @@ Even **15-20 minutes of vigorous exercise per week** is associated with **16-40%
 ---
 
 ## Connections
-- **MOC:** [[MOC-Clinical-Protocols]] — Thematic domain
+- **MOC:** [[MOC-Clinical-Metabolomics]] — Thematic domain
 - **INBOX:** [[INBOX-Article-16-Minimal-Exercise]] — Article source
 - **Reference:** [[PoloLopez_2024_Minimal_Exercise_Mortality_R-002-0032]] — Primary source
 - **Index:** [[01-Literature 1]] — Container

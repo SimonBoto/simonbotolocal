@@ -375,7 +375,7 @@ Ready for Cycle 26: Time & Duration.
 ## Connection to Vault
 
 - Up: [[MOC-Methylation]]
-- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Protocols]]
+- Related: [[MOC-Metabolomics]], [[MOC-Clinical-Metabolomics]]
 
 ---
 

@@ -56,4 +56,4 @@ topic: personalized-nutrition, precision-medicine, cardiovascular, metabolic-hea
 - [x] LitNote: [[L-002-0180_Personalized_Nutrition_Halves_Heart_Attack_Risk]]
 - [x] Zettels: 3 zettels (Z-002-0675 to Z-002-0677)
 - [x] Reference note: R-002-XXXX (to be created)
-- [x] MOC: [[MOC-Clinical-Protocols]]
+- [x] MOC: [[MOC-Clinical-Metabolomics]]

@@ -10,7 +10,7 @@ doi: "10.1001/jamanetworkopen.2023.5174"
 pmid: "(pending)"
 tier: "GOLD"
 status: active
-parent-moc: "[[MOC-Clinical-Protocols]]"
+parent-moc: "[[MOC-Clinical-Metabolomics]]"
 ---
 
 # Daily Step Patterns and Mortality 2023

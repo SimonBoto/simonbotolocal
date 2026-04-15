@@ -52,4 +52,4 @@ topic: pediatric, obesity, UNICEF, global-health, UPF, malnutrition
 - [x] LitNote: [[L-002-0215_Pediatric_Obesity_Historic_Reversal]]
 - [x] Zettels: 3 zettels (Z-002-0783 to Z-002-0785) — to check/update
 - [x] Reference note: R-002-0054 (UNICEF 2025 — to create)
-- [x] MOC: [[MOC-Nutrition-Risks]]
+- [x] MOC: [[MOC-Nutrition]]

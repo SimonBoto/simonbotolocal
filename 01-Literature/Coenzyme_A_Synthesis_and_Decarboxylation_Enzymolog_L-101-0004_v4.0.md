@@ -94,7 +94,7 @@ reference-count: 0
 
 ## Related References
 - [[MOC-Mitochondrial-Function]] — Parent MOC
-- [[MOC-B-Vitamins]] — Vitamin context
+- [[MOC-Methylation]] — Vitamin context
 - [[L-001-0630_Decarboxylation_Enzymes_Vitamin_Cofactors_CGPT-0586]] — Related LitNote
 
 ---
