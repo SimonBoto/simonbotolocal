@@ -3,9 +3,9 @@ uid: TEMPLATE-ZET-004
 type: template
 title: Template — Zettel (Staged Canonical)
 description: "Canonical Zettel template for staged concept packets, later refinement, support growth, and promotion from conscious to subconscious."
-version: "4.0"
+version: "4.1"
 status: active
-updated: 2026-04-08
+updated: 2026-04-15
 ---
 
 # Template — Zettel (Staged Canonical)
@@ -90,7 +90,26 @@ updated: YYYY-MM-DD
 
 ---
 
+## Status Checklist (Processing Notebook)
+
+- [ ] Source verified and linked (YAML + body section)
+- [ ] Core Principle articulated (one-sentence claim)
+- [ ] Mechanism/Key Details present
+- [ ] Evidence attached (bibliographic support)
+- [ ] Significance clear (scientific/mechanistic)
+- [ ] Clinical relevance assessed (omit if none)
+- [ ] Related zettels connected (thematic links)
+- [ ] Lateral connections added (same-source siblings)
+- [ ] RON review pending
+
+---
+
 ## Canonical Body Structure
+
+### Source
+[[LitNote_Title_L-XXX-XXXX]]
+
+Obsidian-visible link to originating LitNote. Enables graph navigation and bidirectional discovery.
 
 ### Core Claim
 State the main concept clearly. Full sentences. No fluff.
@@ -128,9 +147,17 @@ If none: **omit this section.**
 
 If none: **omit.**
 
+### Related Zettels from Same Source
+Lateral connections to siblings extracted from the same LitNote:
+- [[Sibling_Zettel_1_Z-XXX-XXXX]]
+- [[Sibling_Zettel_2_Z-XXX-XXXX]]
+- [[Sibling_Zettel_3_Z-XXX-XXXX]]
+
+*Enables discovery of concept clusters and cross-cutting themes.*
+
 ### Related
 Link outward:
-- Sibling zettels
+- Thematic zettels
 - Upstream LitNote
 - Downstream synthesis
 - Related mechanisms
