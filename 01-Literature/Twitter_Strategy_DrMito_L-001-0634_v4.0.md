@@ -1,12 +1,20 @@
 ---
+uid: L-001-0634
+type: lit-note
+title: "Twitter Strategy DrMito L-001-0634"
+aliases:
+  - L-001-0634
+  - CGPT-0318-Strategy
 domain: 001
-date: 2026-03-09
-source: CGPT-0318 (Messages 3-155, 163-214)
-tags: [litnote, social-media, twitter, branding, mitochondria, growth]
-aliases: CGPT-0318-Strategy]
+tags:
+  - lit-note
+  - social-media
+  - twitter
+  - branding
+  - mitochondria
+parent-moc: "[[MOC-Social-Media]]"
 status: active
-zettel-count: 0
-reference-count: 0
+source-inbox: "[[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]"
 ---
 
 

@@ -1,12 +1,19 @@
 ---
+uid: L-001-0633
+type: lit-note
+title: "Mitochondrial Structure Biology L-001-0633"
+aliases:
+  - L-001-0633
+  - CGPT-0318-Biology
 domain: 001
-date: 2026-03-09
-source: CGPT-0318 (Messages 1-2, 156-214)
-tags: [litnote, mitochondria, structure, biochemistry, ete]
-aliases: CGPT-0318-Biology]
+tags:
+  - lit-note
+  - mitochondria
+  - structure
+  - biochemistry
+parent-moc: "[[MOC-Mitochondrial-Function]]"
 status: active
-zettel-count: 0
-reference-count: 0
+source-inbox: "[[CGPT_0318_Mitochondrial_Structure_CGPT-0318]]"
 ---
 
 
