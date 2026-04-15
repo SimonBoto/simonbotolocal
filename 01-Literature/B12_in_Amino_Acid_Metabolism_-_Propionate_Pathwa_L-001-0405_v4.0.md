@@ -90,7 +90,18 @@ tags:
 5. [[Amino_Acid_Sources_Propionyl_CoA_Z-001-0430]] — AA sources
 6. [[Odd_Chain_Fatty_Acid_Oxidation_Z-001-0431]] — Odd-chain fats
 
-## Status
+## Status Checklist
+
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending
 - [x] Source verified
 - [x] All zettels extracted
 - [x] All zettels refactored to optimal format

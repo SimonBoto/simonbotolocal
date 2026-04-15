@@ -324,12 +324,6 @@ HDL matures → Liver uptake (SR-B1) → Bile excretion
 
 ---
 
-## Status Checklist
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [x] Zettel links use FULL format
-- [x] Source Reference section added
-- [x] Post-extraction verification complete
-
 ---
 
 ## Source Reference
@@ -338,3 +332,15 @@ This literature note was extracted from: [[CGPT_0086_Twelve_Hallmarks_of_Aging_F
 *Literature note processed: 2026-03-01 | Upgraded: 2026-04-06*
 *Zettels extracted: 8*
 *Status: extracted*
+
+## Status Checklist
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending

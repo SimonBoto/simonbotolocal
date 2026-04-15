@@ -82,13 +82,17 @@ tags:
 
 ---
 
-## Status
-- [x] LitNote created
-- [x] Zettels created (3 zettels: Z-002-0828 to Z-002-0830)
-- [x] All reference notes created
-- [x] In-text citations verified
-- [x] Reference-zettel links functional
-- [x] Source references added to all zettels
+## Status Checklist
 
----
-*L-002-0230 | Created: 2026-04-04 | Updated: 2026-04-05 | Tier: GOLD*
+
+## Status Checklist
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending

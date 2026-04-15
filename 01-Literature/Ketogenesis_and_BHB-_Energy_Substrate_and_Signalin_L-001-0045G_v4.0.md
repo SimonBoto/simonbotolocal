@@ -98,7 +98,18 @@ tags:
 6. [[BHB_NLRP3_Inflammasome_Inhibition_Z-001-0486]] — NLRP3 inhibition
 7. [[Physiological_vs_Pathological_Ketosis_Z-001-0487]] — Ketosis types
 
-## Status
+## Status Checklist
+
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending
 - [x] Source verified
 - [x] All zettels extracted
 - [x] All zettels at optimal format

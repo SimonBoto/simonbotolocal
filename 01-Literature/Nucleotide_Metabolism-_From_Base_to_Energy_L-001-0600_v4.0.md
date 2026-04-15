@@ -105,7 +105,18 @@ Adenine (base) + Ribose (sugar) → Adenosine (nucleoside)
 4. [[Nucleoside_Formation_Phosphorylation_Pathways_Z-001-1086]] — Formation mechanism
 5. [[Purine_Salvage_Pathway_Recycling_Mechanism_Z-001-1087]] — Recycling pathway
 
-## Status
+## Status Checklist
+
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending
 - [x] Source verified
 - [x] All zettels extracted
 - [x] All zettels refactored to optimal format

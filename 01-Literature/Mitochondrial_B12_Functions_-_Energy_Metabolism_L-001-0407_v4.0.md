@@ -91,7 +91,18 @@ tags:
 5. [[B12_Requirements_Supplementation_Z-001-0442]] — Supplementation
 6. [[B12_METHAP_Protocol_Integration_Z-001-0443]] — METHAP integration
 
-## Status
+## Status Checklist
+
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending
 - [x] Source verified
 - [x] All zettels extracted
 - [x] All zettels refactored to optimal format

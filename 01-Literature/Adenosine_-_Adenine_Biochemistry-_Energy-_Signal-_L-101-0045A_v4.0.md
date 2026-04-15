@@ -96,7 +96,18 @@ tags:
 6. [[RNA_World_Hypothesis_Evolution_Z-101-0456]] — RNA world
 7. [[Amino_Acids_vs_Nucleobases_Z-101-0462]] — Building blocks
 
-## Status
+## Status Checklist
+
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending
 - [x] Source verified
 - [x] All zettels extracted
 - [x] All zettels at optimal format

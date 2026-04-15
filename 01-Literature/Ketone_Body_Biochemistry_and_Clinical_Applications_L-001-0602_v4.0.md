@@ -95,7 +95,18 @@ Fatty acids → Acetyl-CoA → Acetoacetate (primary ketone)
 3. [[BHB_Hydroxyacid_Not_True_Ketone_Z-001-1095]] — BHB chemistry
 4. [[Therapeutic_Ketosis_Clinical_Applications_Z-001-1096]] — Clinical applications
 
-## Status
+## Status Checklist
+
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending
 - [x] Source verified
 - [x] All zettels extracted
 - [x] All zettels refactored to optimal format

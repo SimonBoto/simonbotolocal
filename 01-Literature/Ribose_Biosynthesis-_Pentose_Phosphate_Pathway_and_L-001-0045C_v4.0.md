@@ -90,7 +90,18 @@ tags:
 5. [[G6PD_Deficiency_Evolutionary_Trade-offs_Z-001-0461]] — G6PD deficiency
 6. [[Nucleobase_Phosphorylation_Nucleotide_Formation_Z-001-0465]] — Phosphorylation
 
-## Status
+## Status Checklist
+
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending
 - [x] Source verified
 - [x] All zettels extracted
 - [x] All zettels at optimal format

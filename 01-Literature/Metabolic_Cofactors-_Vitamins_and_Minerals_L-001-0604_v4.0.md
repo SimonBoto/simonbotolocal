@@ -90,7 +90,18 @@ tags:
 3. [[Magnesium_Metabolic_Cofactor_ATF_Function_Z-001-1104]] — Magnesium
 4. [[Cofactor_Deficiency_Metabolite_Patterns_Z-001-1105]] — Deficiency patterns
 
-## Status
+## Status Checklist
+
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending
 - [x] Source verified
 - [x] All zettels extracted
 - [x] All zettels refactored to optimal format

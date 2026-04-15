@@ -100,7 +100,18 @@ Hexoses (6C): Glucose-6-P, Fructose-6-P, Glucose, Fructose
 4. [[Glucose_Ribose_Interconversion_PPP_Link_Z-001-1091]] — Glucose-ribose link
 5. [[Evolutionary_Origins_Glycolysis_Ancient_Metabolism_Z-001-1092]] — Ancient origins
 
-## Status
+## Status Checklist
+
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending
 - [x] Source verified
 - [x] All zettels extracted
 - [x] All zettels refactored to optimal format

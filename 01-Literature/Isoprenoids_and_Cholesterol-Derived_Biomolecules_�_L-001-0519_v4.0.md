@@ -239,3 +239,15 @@ The "statin side effect" conversation must include:
 - [[L-001-0518_Mevalonate_Pathway_Biochemistry_CGPT-0391]] — Mevalonate pathway details
 
 
+
+## Status Checklist
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending

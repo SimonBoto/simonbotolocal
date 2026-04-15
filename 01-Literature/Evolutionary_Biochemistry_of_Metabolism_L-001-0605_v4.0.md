@@ -88,7 +88,18 @@ tags:
 3. [[Prebiotic_Chemistry_Hydrothermal_Vents_Z-001-1108]] — Prebiotic chemistry
 4. [[Metabolic_Fossils_Ancient_Pathway_Remants_Z-001-1109]] — Metabolic fossils
 
-## Status
+## Status Checklist
+
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending
 - [x] Source verified
 - [x] All zettels extracted
 - [x] All zettels refactored to optimal format

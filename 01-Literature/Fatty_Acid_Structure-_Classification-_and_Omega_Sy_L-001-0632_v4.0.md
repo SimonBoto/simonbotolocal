@@ -162,12 +162,6 @@ CH₃(CH₂)₇CH=CH(CH₂)₇COOH  or  C18H34O₂
 
 ---
 
-## Status Checklist
-- [x] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
-- [x] Zettel links use FULL format
-- [x] Source Reference section added
-- [x] Post-extraction verification complete
-
 ---
 
 ## Source Reference
@@ -176,3 +170,15 @@ This literature note was extracted from: [[CGPT_0586_Fatty_Acid_Metabolism_Pathw
 *Literature note processed: 2026-03-08 | Upgraded: 2026-04-06*
 *Zettels extracted: 5*
 *Status: extracted*
+
+## Status Checklist
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending

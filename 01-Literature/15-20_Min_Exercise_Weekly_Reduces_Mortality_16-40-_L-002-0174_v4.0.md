@@ -80,7 +80,18 @@ Even **15-20 minutes of vigorous exercise per week** is associated with **16-40%
 
 ---
 
-## Status
+## Status Checklist
+
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending
 - [x] LitNote created
 - [x] Zettels created (3 zettels: Z-002-0657 to Z-002-0659)
 - [x] All reference notes created

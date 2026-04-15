@@ -84,7 +84,18 @@ tags:
 4. [[Pyruvate_Metabolic_Crossroads_Z-001-0469]] — Pyruvate crossroads
 5. [[Evolutionary_Ancient_Glycolysis_Z-001-0470]] — Ancient glycolysis
 
-## Status
+## Status Checklist
+
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending
 - [x] Source verified
 - [x] All zettels extracted
 - [x] All zettels at optimal format

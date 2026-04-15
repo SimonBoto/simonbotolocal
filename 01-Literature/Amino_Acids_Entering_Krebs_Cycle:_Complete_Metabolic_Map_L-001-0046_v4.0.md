@@ -98,13 +98,17 @@ tags:
 6. "[[Ketogenic_Amino_Acids_Leucine_Lysine_Z-001-0498]]" — Ketogenic AAs
 7. "[[Glucogenic_vs_Ketogenic_Classification_Z-001-0499]]" — Classification
 
-## Status
-- [x] Source verified
-- [x] All zettels extracted
-- [x] All zettels at optimal format
-- [x] YAML standardized
-- [x] Connections verified
+## Status Checklist
 
-zettels-created: 7
----
-*Processed: 2026-04-06 | Zettels: 7 | Status: COMPLETE*
+
+## Status Checklist
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending

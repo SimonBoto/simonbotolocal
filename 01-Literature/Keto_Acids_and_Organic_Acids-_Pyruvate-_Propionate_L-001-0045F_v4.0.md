@@ -85,7 +85,18 @@ tags:
 4. [[Vitamin_Dependence_Organic_Acid_Metabolism_Z-001-0479]] — Vitamin dependence
 5. [[Aldehyde_vs_Ketone_Chemistry_Z-001-0480]] — Aldehyde/ketone chemistry
 
-## Status
+## Status Checklist
+
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending
 - [x] Source verified
 - [x] All zettels extracted
 - [x] All zettels at optimal format

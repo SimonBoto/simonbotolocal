@@ -95,7 +95,18 @@ Krebs cycle entry points
 4. [[Transamination_B6_Cofactors_Amino_Acid_Metabolism_Z-001-1100]] — Transamination
 5. [[Glucogenic_Amino_Acids_Gluconeogenesis_Support_Z-001-1101]] — Gluconeogenesis
 
-## Status
+## Status Checklist
+
+
+- [ ] Source read completely
+- [ ] YAML standardized (type: lit-note, source-inbox, zettel-count, reference-count, tags)
+- [ ] Core claim articulated (one sentence)
+- [ ] Core concepts numbered (1, 2, 3...)
+- [ ] Subsection headers used (**Category**, **Mechanism**, **Purpose**)
+- [ ] Zettel links use FULL format with titles
+- [ ] Snowball references documented
+- [ ] QMD duplicate check completed
+- [ ] RON review pending
 - [x] Source verified
 - [x] All zettels extracted
 - [x] All zettels refactored to optimal format
